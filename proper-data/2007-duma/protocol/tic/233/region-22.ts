@@ -11,6 +11,9 @@ export const duma_2007_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "2222000196710",
     "tikName": "Топчихинская",
+    "regionCode": "22",
+    "regionTvd": "100100021960218",
+    "regionName": "Алтайский край",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 21456,
@@ -96,6 +99,9 @@ export const duma_2007_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "2222000196711",
     "tikName": "Тальменская",
+    "regionCode": "22",
+    "regionTvd": "100100021960218",
+    "regionName": "Алтайский край",
     "uikCount": 47,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 37351,
@@ -197,6 +203,9 @@ export const duma_2007_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "2222000196712",
     "tikName": "Ребрихинская",
+    "regionCode": "22",
+    "regionTvd": "100100021960218",
+    "regionName": "Алтайский край",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 21716,
@@ -276,6 +285,9 @@ export const duma_2007_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "2222000196713",
     "tikName": "Новоалтайская городская",
+    "regionCode": "22",
+    "regionTvd": "100100021960218",
+    "regionName": "Алтайский край",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 57901,
@@ -358,6 +370,9 @@ export const duma_2007_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "2222000196714",
     "tikName": "Калманская",
+    "regionCode": "22",
+    "regionTvd": "100100021960218",
+    "regionName": "Алтайский край",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 12129,
@@ -431,6 +446,9 @@ export const duma_2007_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "2222000196715",
     "tikName": "Барнаул, Центральная",
+    "regionCode": "22",
+    "regionTvd": "100100021960218",
+    "regionName": "Алтайский край",
     "uikCount": 48,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 102777,
@@ -533,6 +551,9 @@ export const duma_2007_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "2222000196716",
     "tikName": "Барнаул, Октябрьская",
+    "regionCode": "22",
+    "regionTvd": "100100021960218",
+    "regionName": "Алтайский край",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 81533,
@@ -626,6 +647,9 @@ export const duma_2007_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "2222000196717",
     "tikName": "Барнаул, Ленинская",
+    "regionCode": "22",
+    "regionTvd": "100100021960218",
+    "regionName": "Алтайский край",
     "uikCount": 54,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 114292,
@@ -734,6 +758,9 @@ export const duma_2007_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "2222000196718",
     "tikName": "Барнаул, Индустриальная",
+    "regionCode": "22",
+    "regionTvd": "100100021960218",
+    "regionName": "Алтайский край",
     "uikCount": 61,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 131880,
@@ -849,6 +876,9 @@ export const duma_2007_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "2222000196719",
     "tikName": "Барнаул, Железнодорожная",
+    "regionCode": "22",
+    "regionTvd": "100100021960218",
+    "regionName": "Алтайский край",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 92369,
@@ -946,6 +976,9 @@ export const duma_2007_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "2222000196720",
     "tikName": "Шипуновская",
+    "regionCode": "22",
+    "regionTvd": "100100021960218",
+    "regionName": "Алтайский край",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 26987,
@@ -1038,6 +1071,9 @@ export const duma_2007_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "2222000196721",
     "tikName": "Целинная",
+    "regionCode": "22",
+    "regionTvd": "100100021960218",
+    "regionName": "Алтайский край",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 14668,
@@ -1114,6 +1150,9 @@ export const duma_2007_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "2222000196722",
     "tikName": "Усть-Пристанская",
+    "regionCode": "22",
+    "regionTvd": "100100021960218",
+    "regionName": "Алтайский край",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 12805,
@@ -1187,6 +1226,9 @@ export const duma_2007_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "2222000196723",
     "tikName": "Троицкая",
+    "regionCode": "22",
+    "regionTvd": "100100021960218",
+    "regionName": "Алтайский край",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 22542,
@@ -1281,6 +1323,9 @@ export const duma_2007_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "2222000196724",
     "tikName": "Тогульская",
+    "regionCode": "22",
+    "regionTvd": "100100021960218",
+    "regionName": "Алтайский край",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 7463,
@@ -1350,6 +1395,9 @@ export const duma_2007_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "2222000196725",
     "tikName": "Солтонская",
+    "regionCode": "22",
+    "regionTvd": "100100021960218",
+    "regionName": "Алтайский край",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 7848,
@@ -1422,6 +1470,9 @@ export const duma_2007_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "2222000196726",
     "tikName": "Солонешенская",
+    "regionCode": "22",
+    "regionTvd": "100100021960218",
+    "regionName": "Алтайский край",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 8492,
@@ -1503,6 +1554,9 @@ export const duma_2007_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "2222000196727",
     "tikName": "Советская",
+    "regionCode": "22",
+    "regionTvd": "100100021960218",
+    "regionName": "Алтайский край",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 13608,
@@ -1575,6 +1629,9 @@ export const duma_2007_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "2222000196728",
     "tikName": "Смоленская",
+    "regionCode": "22",
+    "regionTvd": "100100021960218",
+    "regionName": "Алтайский край",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 20733,
@@ -1654,6 +1711,9 @@ export const duma_2007_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "2222000196729",
     "tikName": "Сибирская",
+    "regionCode": "22",
+    "regionTvd": "100100021960218",
+    "regionName": "Алтайский край",
     "uikCount": 4,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 8381,
@@ -1712,6 +1772,9 @@ export const duma_2007_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "2222000196730",
     "tikName": "Романовская",
+    "regionCode": "22",
+    "regionTvd": "100100021960218",
+    "regionName": "Алтайский край",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 12135,
@@ -1781,6 +1844,9 @@ export const duma_2007_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "2222000196731",
     "tikName": "Петропавловская",
+    "regionCode": "22",
+    "regionTvd": "100100021960218",
+    "regionName": "Алтайский край",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 10779,
@@ -1846,6 +1912,9 @@ export const duma_2007_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "2222000196732",
     "tikName": "Первомайская",
+    "regionCode": "22",
+    "regionTvd": "100100021960218",
+    "regionName": "Алтайский край",
     "uikCount": 45,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 38463,
@@ -1945,6 +2014,9 @@ export const duma_2007_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "2222000196733",
     "tikName": "Новичихинская",
+    "regionCode": "22",
+    "regionTvd": "100100021960218",
+    "regionName": "Алтайский край",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 8860,
@@ -2015,6 +2087,9 @@ export const duma_2007_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "2222000196734",
     "tikName": "Мамонтовская",
+    "regionCode": "22",
+    "regionTvd": "100100021960218",
+    "regionName": "Алтайский край",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 20439,
@@ -2091,6 +2166,9 @@ export const duma_2007_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "2222000196735",
     "tikName": "Кытмановская",
+    "regionCode": "22",
+    "regionTvd": "100100021960218",
+    "regionName": "Алтайский край",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 12437,
@@ -2171,6 +2249,9 @@ export const duma_2007_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "2222000196736",
     "tikName": "Красногорская",
+    "regionCode": "22",
+    "regionTvd": "100100021960218",
+    "regionName": "Алтайский край",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 13770,
@@ -2255,6 +2336,9 @@ export const duma_2007_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "2222000196737",
     "tikName": "Косихинская",
+    "regionCode": "22",
+    "regionTvd": "100100021960218",
+    "regionName": "Алтайский край",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 15437,
@@ -2335,6 +2419,9 @@ export const duma_2007_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "2222000196738",
     "tikName": "Зональная",
+    "regionCode": "22",
+    "regionTvd": "100100021960218",
+    "regionName": "Алтайский край",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 15418,
@@ -2402,6 +2489,9 @@ export const duma_2007_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "2222000196739",
     "tikName": "Заринская городская",
+    "regionCode": "22",
+    "regionTvd": "100100021960218",
+    "regionName": "Алтайский край",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 40645,
@@ -2474,6 +2564,9 @@ export const duma_2007_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "2222000196740",
     "tikName": "Заринская",
+    "regionCode": "22",
+    "regionTvd": "100100021960218",
+    "regionName": "Алтайский край",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 16302,
@@ -2571,6 +2664,9 @@ export const duma_2007_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "2222000196741",
     "tikName": "Залесовская",
+    "regionCode": "22",
+    "regionTvd": "100100021960218",
+    "regionName": "Алтайский край",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 13147,
@@ -2648,6 +2744,9 @@ export const duma_2007_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "2222000196742",
     "tikName": "Ельцовская",
+    "regionCode": "22",
+    "regionTvd": "100100021960218",
+    "regionName": "Алтайский край",
     "uikCount": 7,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 5758,
@@ -2709,6 +2808,9 @@ export const duma_2007_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "2222000196743",
     "tikName": "Быстроистокская",
+    "regionCode": "22",
+    "regionTvd": "100100021960218",
+    "regionName": "Алтайский край",
     "uikCount": 10,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 9184,
@@ -2773,6 +2875,9 @@ export const duma_2007_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "2222000196744",
     "tikName": "Бийская",
+    "regionCode": "22",
+    "regionTvd": "100100021960218",
+    "regionName": "Алтайский край",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 28452,
@@ -2858,6 +2963,9 @@ export const duma_2007_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "2222000196745",
     "tikName": "Бийск, Приобская",
+    "regionCode": "22",
+    "regionTvd": "100100021960218",
+    "regionName": "Алтайский край",
     "uikCount": 47,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 91528,
@@ -2959,6 +3067,9 @@ export const duma_2007_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "2222000196746",
     "tikName": "Бийск, Восточная",
+    "regionCode": "22",
+    "regionTvd": "100100021960218",
+    "regionName": "Алтайский край",
     "uikCount": 53,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 91434,
@@ -3066,6 +3177,9 @@ export const duma_2007_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "2222000196747",
     "tikName": "Белокурихинская городская",
+    "regionCode": "22",
+    "regionTvd": "100100021960218",
+    "regionName": "Алтайский край",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 12886,
@@ -3135,6 +3249,9 @@ export const duma_2007_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "2222000196748",
     "tikName": "Алтайская",
+    "regionCode": "22",
+    "regionTvd": "100100021960218",
+    "regionName": "Алтайский край",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 20506,
@@ -3213,6 +3330,9 @@ export const duma_2007_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "2222000196749",
     "tikName": "Алейская городская",
+    "regionCode": "22",
+    "regionTvd": "100100021960218",
+    "regionName": "Алтайский край",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 25080,
@@ -3282,6 +3402,9 @@ export const duma_2007_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "2222000196750",
     "tikName": "Алейская",
+    "regionCode": "22",
+    "regionTvd": "100100021960218",
+    "regionName": "Алтайский край",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 15016,
@@ -3373,6 +3496,9 @@ export const duma_2007_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "2222000196751",
     "tikName": "Яровская городская",
+    "regionCode": "22",
+    "regionTvd": "100100021960218",
+    "regionName": "Алтайский край",
     "uikCount": 6,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 15403,
@@ -3433,6 +3559,9 @@ export const duma_2007_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "2222000196752",
     "tikName": "Шелаболихинская",
+    "regionCode": "22",
+    "regionTvd": "100100021960218",
+    "regionName": "Алтайский край",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 12153,
@@ -3503,6 +3632,9 @@ export const duma_2007_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "2222000196753",
     "tikName": "Чарышская",
+    "regionCode": "22",
+    "regionTvd": "100100021960218",
+    "regionName": "Алтайский край",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 11045,
@@ -3588,6 +3720,9 @@ export const duma_2007_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "2222000196754",
     "tikName": "Хабарская",
+    "regionCode": "22",
+    "regionTvd": "100100021960218",
+    "regionName": "Алтайский край",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 14822,
@@ -3663,6 +3798,9 @@ export const duma_2007_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "2222000196755",
     "tikName": "Усть-Калманская",
+    "regionCode": "22",
+    "regionTvd": "100100021960218",
+    "regionName": "Алтайский край",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 14207,
@@ -3742,6 +3880,9 @@ export const duma_2007_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "2222000196756",
     "tikName": "Угловская",
+    "regionCode": "22",
+    "regionTvd": "100100021960218",
+    "regionName": "Алтайский край",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 11800,
@@ -3818,6 +3959,9 @@ export const duma_2007_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "2222000196757",
     "tikName": "Тюменцевская",
+    "regionCode": "22",
+    "regionTvd": "100100021960218",
+    "regionName": "Алтайский край",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 12988,
@@ -3892,6 +4036,9 @@ export const duma_2007_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "2222000196758",
     "tikName": "Третьяковская",
+    "regionCode": "22",
+    "regionTvd": "100100021960218",
+    "regionName": "Алтайский край",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 12136,
@@ -3965,6 +4112,9 @@ export const duma_2007_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "2222000196759",
     "tikName": "Табунская",
+    "regionCode": "22",
+    "regionTvd": "100100021960218",
+    "regionName": "Алтайский край",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 8069,
@@ -4040,6 +4190,9 @@ export const duma_2007_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "2222000196760",
     "tikName": "Суетская",
+    "regionCode": "22",
+    "regionTvd": "100100021960218",
+    "regionName": "Алтайский край",
     "uikCount": 7,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 4535,
@@ -4101,6 +4254,9 @@ export const duma_2007_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "2222000196761",
     "tikName": "Славгородская городская",
+    "regionCode": "22",
+    "regionTvd": "100100021960218",
+    "regionName": "Алтайский край",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 25367,
@@ -4168,6 +4324,9 @@ export const duma_2007_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "2222000196762",
     "tikName": "Славгородская",
+    "regionCode": "22",
+    "regionTvd": "100100021960218",
+    "regionName": "Алтайский край",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 8979,
@@ -4233,6 +4392,9 @@ export const duma_2007_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "2222000196763",
     "tikName": "Рубцовская городская",
+    "regionCode": "22",
+    "regionTvd": "100100021960218",
+    "regionName": "Алтайский край",
     "uikCount": 58,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 124310,
@@ -4345,6 +4507,9 @@ export const duma_2007_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "2222000196764",
     "tikName": "Рубцовская",
+    "regionCode": "22",
+    "regionTvd": "100100021960218",
+    "regionName": "Алтайский край",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 21354,
@@ -4426,6 +4591,9 @@ export const duma_2007_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "2222000196765",
     "tikName": "Родинская",
+    "regionCode": "22",
+    "regionTvd": "100100021960218",
+    "regionName": "Алтайский край",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 19141,
@@ -4502,6 +4670,9 @@ export const duma_2007_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "2222000196766",
     "tikName": "Поспелихинская",
+    "regionCode": "22",
+    "regionTvd": "100100021960218",
+    "regionName": "Алтайский край",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 21690,
@@ -4577,6 +4748,9 @@ export const duma_2007_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "2222000196767",
     "tikName": "Панкрушихинская",
+    "regionCode": "22",
+    "regionTvd": "100100021960218",
+    "regionName": "Алтайский край",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 11774,
@@ -4651,6 +4825,9 @@ export const duma_2007_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "2222000196768",
     "tikName": "Павловская",
+    "regionCode": "22",
+    "regionTvd": "100100021960218",
+    "regionName": "Алтайский край",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 33636,
@@ -4743,6 +4920,9 @@ export const duma_2007_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "2222000196769",
     "tikName": "Немецкая",
+    "regionCode": "22",
+    "regionTvd": "100100021960218",
+    "regionName": "Алтайский край",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 13880,
@@ -4811,6 +4991,9 @@ export const duma_2007_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "2222000196770",
     "tikName": "Михайловская",
+    "regionCode": "22",
+    "regionTvd": "100100021960218",
+    "regionName": "Алтайский край",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 18682,
@@ -4879,6 +5062,9 @@ export const duma_2007_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "2222000196771",
     "tikName": "Локтевская",
+    "regionCode": "22",
+    "regionTvd": "100100021960218",
+    "regionName": "Алтайский край",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 25136,
@@ -4958,6 +5144,9 @@ export const duma_2007_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "2222000196772",
     "tikName": "Курьинская",
+    "regionCode": "22",
+    "regionTvd": "100100021960218",
+    "regionName": "Алтайский край",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 9695,
@@ -5029,6 +5218,9 @@ export const duma_2007_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "2222000196773",
     "tikName": "Кулундинская",
+    "regionCode": "22",
+    "regionTvd": "100100021960218",
+    "regionName": "Алтайский край",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 19260,
@@ -5109,6 +5301,9 @@ export const duma_2007_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "2222000196774",
     "tikName": "Крутихинская",
+    "regionCode": "22",
+    "regionTvd": "100100021960218",
+    "regionName": "Алтайский край",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 9581,
@@ -5180,6 +5375,9 @@ export const duma_2007_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "2222000196775",
     "tikName": "Краснощековская",
+    "regionCode": "22",
+    "regionTvd": "100100021960218",
+    "regionName": "Алтайский край",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 16442,
@@ -5253,6 +5451,9 @@ export const duma_2007_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "2222000196776",
     "tikName": "Ключевская",
+    "regionCode": "22",
+    "regionTvd": "100100021960218",
+    "regionName": "Алтайский край",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 15700,
@@ -5324,6 +5525,9 @@ export const duma_2007_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "2222000196777",
     "tikName": "Каменская городская",
+    "regionCode": "22",
+    "regionTvd": "100100021960218",
+    "regionName": "Алтайский край",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 33618,
@@ -5403,6 +5607,9 @@ export const duma_2007_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "2222000196778",
     "tikName": "Каменская",
+    "regionCode": "22",
+    "regionTvd": "100100021960218",
+    "regionName": "Алтайский край",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 11369,
@@ -5484,6 +5691,9 @@ export const duma_2007_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "2222000196779",
     "tikName": "Змеиногорская городская",
+    "regionCode": "22",
+    "regionTvd": "100100021960218",
+    "regionName": "Алтайский край",
     "uikCount": 10,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 9907,
@@ -5548,6 +5758,9 @@ export const duma_2007_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "2222000196780",
     "tikName": "Змеиногорская",
+    "regionCode": "22",
+    "regionTvd": "100100021960218",
+    "regionName": "Алтайский край",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 8944,
@@ -5621,6 +5834,9 @@ export const duma_2007_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "2222000196781",
     "tikName": "Завьяловская",
+    "regionCode": "22",
+    "regionTvd": "100100021960218",
+    "regionName": "Алтайский край",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 17019,
@@ -5690,6 +5906,9 @@ export const duma_2007_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "2222000196782",
     "tikName": "Егорьевская",
+    "regionCode": "22",
+    "regionTvd": "100100021960218",
+    "regionName": "Алтайский край",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 11676,
@@ -5756,6 +5975,9 @@ export const duma_2007_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "2222000196783",
     "tikName": "Волчихинская",
+    "regionCode": "22",
+    "regionTvd": "100100021960218",
+    "regionName": "Алтайский край",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 16994,
@@ -5827,6 +6049,9 @@ export const duma_2007_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "2222000196784",
     "tikName": "Бурлинская",
+    "regionCode": "22",
+    "regionTvd": "100100021960218",
+    "regionName": "Алтайский край",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 10393,
@@ -5901,6 +6126,9 @@ export const duma_2007_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "2222000196785",
     "tikName": "Благовещенская",
+    "regionCode": "22",
+    "regionTvd": "100100021960218",
+    "regionName": "Алтайский край",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 25589,
@@ -5982,6 +6210,9 @@ export const duma_2007_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "2222000196786",
     "tikName": "Баевская",
+    "regionCode": "22",
+    "regionTvd": "100100021960218",
+    "regionName": "Алтайский край",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 10178,

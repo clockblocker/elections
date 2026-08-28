@@ -11,6 +11,9 @@ export const president_2012_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "7507000830926",
     "tikName": "Юбилейная городская",
+    "regionCode": "50",
+    "regionTvd": "100100031793850",
+    "regionName": "Московская область",
     "uikCount": 10,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 27431,
@@ -68,6 +71,9 @@ export const president_2012_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "7507000830927",
     "tikName": "Электростальская городская",
+    "regionCode": "50",
+    "regionTvd": "100100031793850",
+    "regionName": "Московская область",
     "uikCount": 53,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 121974,
@@ -168,6 +174,9 @@ export const president_2012_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "7507000830928",
     "tikName": "Электрогорская городская",
+    "regionCode": "50",
+    "regionTvd": "100100031793850",
+    "regionName": "Московская область",
     "uikCount": 7,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 18347,
@@ -222,6 +231,9 @@ export const president_2012_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "7507000830929",
     "tikName": "Щербинская городская",
+    "regionCode": "50",
+    "regionTvd": "100100031793850",
+    "regionName": "Московская область",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 26613,
@@ -280,6 +292,9 @@ export const president_2012_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "7507000830930",
     "tikName": "Щелковская",
+    "regionCode": "50",
+    "regionTvd": "100100031793850",
+    "regionName": "Московская область",
     "uikCount": 104,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 165075,
@@ -431,6 +446,9 @@ export const president_2012_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "7507000830931",
     "tikName": "Шаховская",
+    "regionCode": "50",
+    "regionTvd": "100100031793850",
+    "regionName": "Московская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 19806,
@@ -493,6 +511,9 @@ export const president_2012_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "7507000830932",
     "tikName": "Шатурская",
+    "regionCode": "50",
+    "regionTvd": "100100031793850",
+    "regionName": "Московская область",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 56250,
@@ -586,6 +607,9 @@ export const president_2012_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "7507000830933",
     "tikName": "Чеховская",
+    "regionCode": "50",
+    "regionTvd": "100100031793850",
+    "regionName": "Московская область",
     "uikCount": 51,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 99853,
@@ -684,6 +708,9 @@ export const president_2012_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "7507000830934",
     "tikName": "Черноголовская городская",
+    "regionCode": "50",
+    "regionTvd": "100100031793850",
+    "regionName": "Московская область",
     "uikCount": 10,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 18530,
@@ -741,6 +768,9 @@ export const president_2012_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "7507000830935",
     "tikName": "Химкинская городская",
+    "regionCode": "50",
+    "regionTvd": "100100031793850",
+    "regionName": "Московская область",
     "uikCount": 74,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 159565,
@@ -862,6 +892,9 @@ export const president_2012_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "7507000830936",
     "tikName": "Фрязинская городская",
+    "regionCode": "50",
+    "regionTvd": "100100031793850",
+    "regionName": "Московская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 45961,
@@ -927,6 +960,9 @@ export const president_2012_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "7507000830937",
     "tikName": "Троицкая городская",
+    "regionCode": "50",
+    "regionTvd": "100100031793850",
+    "regionName": "Московская область",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 32356,
@@ -988,6 +1024,9 @@ export const president_2012_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "7507000830938",
     "tikName": "Талдомская",
+    "regionCode": "50",
+    "regionTvd": "100100031793850",
+    "regionName": "Московская область",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 38704,
@@ -1067,6 +1106,9 @@ export const president_2012_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "7507000830939",
     "tikName": "Ступинская",
+    "regionCode": "50",
+    "regionTvd": "100100031793850",
+    "regionName": "Московская область",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 91216,
@@ -1164,6 +1206,9 @@ export const president_2012_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "7507000830940",
     "tikName": "Солнечногорская",
+    "regionCode": "50",
+    "regionTvd": "100100031793850",
+    "regionName": "Московская область",
     "uikCount": 67,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 118059,
@@ -1278,6 +1323,9 @@ export const president_2012_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "7507000830941",
     "tikName": "Серпуховская",
+    "regionCode": "50",
+    "regionTvd": "100100031793850",
+    "regionName": "Московская область",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 33673,
@@ -1364,6 +1412,9 @@ export const president_2012_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "7507000830942",
     "tikName": "Серпуховская городская",
+    "regionCode": "50",
+    "regionTvd": "100100031793850",
+    "regionName": "Московская область",
     "uikCount": 56,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 107698,
@@ -1467,6 +1518,9 @@ export const president_2012_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "7507000830943",
     "tikName": "Серебряно-Прудская",
+    "regionCode": "50",
+    "regionTvd": "100100031793850",
+    "regionName": "Московская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 19785,
@@ -1537,6 +1591,9 @@ export const president_2012_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "7507000830944",
     "tikName": "Сергиево-Посадская",
+    "regionCode": "50",
+    "regionTvd": "100100031793850",
+    "regionName": "Московская область",
     "uikCount": 116,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 205661,
@@ -1700,6 +1757,9 @@ export const president_2012_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "7507000830945",
     "tikName": "Рузская",
+    "regionCode": "50",
+    "regionTvd": "100100031793850",
+    "regionName": "Московская область",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 56812,
@@ -1785,6 +1845,9 @@ export const president_2012_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "7507000830946",
     "tikName": "Рошальская городская",
+    "regionCode": "50",
+    "regionTvd": "100100031793850",
+    "regionName": "Московская область",
     "uikCount": 8,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 17313,
@@ -1840,6 +1903,9 @@ export const president_2012_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "7507000830947",
     "tikName": "Реутовская городская",
+    "regionCode": "50",
+    "regionTvd": "100100031793850",
+    "regionName": "Московская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 70020,
@@ -1927,6 +1993,9 @@ export const president_2012_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "7507000830948",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100031793850",
+    "regionName": "Московская область",
     "uikCount": 117,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 171713,
@@ -2091,6 +2160,9 @@ export const president_2012_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "7507000830949",
     "tikName": "Пущинская городская",
+    "regionCode": "50",
+    "regionTvd": "100100031793850",
+    "regionName": "Московская область",
     "uikCount": 6,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 17148,
@@ -2144,6 +2216,9 @@ export const president_2012_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "7507000830950",
     "tikName": "Пушкинская",
+    "regionCode": "50",
+    "regionTvd": "100100031793850",
+    "regionName": "Московская область",
     "uikCount": 79,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 139201,
@@ -2270,6 +2345,9 @@ export const president_2012_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "7507000830951",
     "tikName": "Протвинская городская",
+    "regionCode": "50",
+    "regionTvd": "100100031793850",
+    "regionName": "Московская область",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 31037,
@@ -2329,6 +2407,9 @@ export const president_2012_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "7507000830953",
     "tikName": "Подольская",
+    "regionCode": "50",
+    "regionTvd": "100100031793850",
+    "regionName": "Московская область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 69428,
@@ -2412,6 +2493,9 @@ export const president_2012_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "7507000830954",
     "tikName": "Подольская городская",
+    "regionCode": "50",
+    "regionTvd": "100100031793850",
+    "regionName": "Московская область",
     "uikCount": 80,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 166009,
@@ -2539,6 +2623,9 @@ export const president_2012_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "7507000830955",
     "tikName": "Павлово-Посадская",
+    "regionCode": "50",
+    "regionTvd": "100100031793850",
+    "regionName": "Московская область",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 67774,
@@ -2636,6 +2723,9 @@ export const president_2012_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "7507000830956",
     "tikName": "Орехово-Зуевская",
+    "regionCode": "50",
+    "regionTvd": "100100031793850",
+    "regionName": "Московская область",
     "uikCount": 77,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 96526,
@@ -2760,6 +2850,9 @@ export const president_2012_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "7507000830957",
     "tikName": "Орехово-Зуевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100031793850",
+    "regionName": "Московская область",
     "uikCount": 54,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 99900,
@@ -2861,6 +2954,9 @@ export const president_2012_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "7507000830958",
     "tikName": "Озерская",
+    "regionCode": "50",
+    "regionTvd": "100100031793850",
+    "regionName": "Московская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 30522,
@@ -2936,6 +3032,9 @@ export const president_2012_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "7507000830959",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100031793850",
+    "regionName": "Московская область",
     "uikCount": 127,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 242272,
@@ -3110,6 +3209,9 @@ export const president_2012_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "7507000830960",
     "tikName": "Ногинская",
+    "regionCode": "50",
+    "regionTvd": "100100031793850",
+    "regionName": "Московская область",
     "uikCount": 120,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 175080,
@@ -3277,6 +3379,9 @@ export const president_2012_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "7507000830961",
     "tikName": "Наро-Фоминская",
+    "regionCode": "50",
+    "regionTvd": "100100031793850",
+    "regionName": "Московская область",
     "uikCount": 100,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 158278,
@@ -3424,6 +3529,9 @@ export const president_2012_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "7507000830962",
     "tikName": "Мытищинская",
+    "regionCode": "50",
+    "regionTvd": "100100031793850",
+    "regionName": "Московская область",
     "uikCount": 95,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 172112,
@@ -3566,6 +3674,9 @@ export const president_2012_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "7507000830963",
     "tikName": "Молодежная поселковая",
+    "regionCode": "50",
+    "regionTvd": "100100031793850",
+    "regionName": "Московская область",
     "uikCount": 1,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 2303,
@@ -3614,6 +3725,9 @@ export const president_2012_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "7507000830964",
     "tikName": "Можайская",
+    "regionCode": "50",
+    "regionTvd": "100100031793850",
+    "regionName": "Московская область",
     "uikCount": 61,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 55256,
@@ -3722,6 +3836,9 @@ export const president_2012_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "7507000830965",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100031793850",
+    "regionName": "Московская область",
     "uikCount": 115,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 218101,
@@ -3884,6 +4001,9 @@ export const president_2012_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "7507000830966",
     "tikName": "Лыткаринская городская",
+    "regionCode": "50",
+    "regionTvd": "100100031793850",
+    "regionName": "Московская область",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 41240,
@@ -3948,6 +4068,9 @@ export const president_2012_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "7507000830967",
     "tikName": "Луховицкая",
+    "regionCode": "50",
+    "regionTvd": "100100031793850",
+    "regionName": "Московская область",
     "uikCount": 56,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 51232,
@@ -4051,6 +4174,9 @@ export const president_2012_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "7507000830968",
     "tikName": "Лотошинская",
+    "regionCode": "50",
+    "regionTvd": "100100031793850",
+    "regionName": "Московская область",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 14865,
@@ -4112,6 +4238,9 @@ export const president_2012_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "7507000830969",
     "tikName": "Лосино-Петровская городская",
+    "regionCode": "50",
+    "regionTvd": "100100031793850",
+    "regionName": "Московская область",
     "uikCount": 9,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 16472,
@@ -4168,6 +4297,9 @@ export const president_2012_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "7507000830970",
     "tikName": "Лобненская городская",
+    "regionCode": "50",
+    "regionTvd": "100100031793850",
+    "regionName": "Московская область",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 56968,
@@ -4248,6 +4380,9 @@ export const president_2012_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "7507000830971",
     "tikName": "Ленинская",
+    "regionCode": "50",
+    "regionTvd": "100100031793850",
+    "regionName": "Московская область",
     "uikCount": 75,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 139920,
@@ -4370,6 +4505,9 @@ export const president_2012_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "7507000830972",
     "tikName": "Краснознаменская городская",
+    "regionCode": "50",
+    "regionTvd": "100100031793850",
+    "regionName": "Московская область",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 31184,
@@ -4428,6 +4566,9 @@ export const president_2012_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "7507000830973",
     "tikName": "Красногорская",
+    "regionCode": "50",
+    "regionTvd": "100100031793850",
+    "regionName": "Московская область",
     "uikCount": 76,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 146990,
@@ -4551,6 +4692,9 @@ export const president_2012_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "7507000830974",
     "tikName": "Красноармейская городская",
+    "regionCode": "50",
+    "regionTvd": "100100031793850",
+    "regionName": "Московская область",
     "uikCount": 8,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 21384,
@@ -4606,6 +4750,9 @@ export const president_2012_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "7507000830975",
     "tikName": "Котельниковская городская",
+    "regionCode": "50",
+    "regionTvd": "100100031793850",
+    "regionName": "Московская область",
     "uikCount": 9,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 20161,
@@ -4662,6 +4809,9 @@ export const president_2012_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "7507000830976",
     "tikName": "Королевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100031793850",
+    "regionName": "Московская область",
     "uikCount": 74,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 141553,
@@ -4783,6 +4933,9 @@ export const president_2012_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "7507000830977",
     "tikName": "Коломенская городская",
+    "regionCode": "50",
+    "regionTvd": "100100031793850",
+    "regionName": "Московская область",
     "uikCount": 73,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 123527,
@@ -4903,6 +5056,9 @@ export const president_2012_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "7507000830978",
     "tikName": "Коломенская",
+    "regionCode": "50",
+    "regionTvd": "100100031793850",
+    "regionName": "Московская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 35044,
@@ -4984,6 +5140,9 @@ export const president_2012_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "7507000830979",
     "tikName": "Клинская",
+    "regionCode": "50",
+    "regionTvd": "100100031793850",
+    "regionName": "Московская область",
     "uikCount": 77,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 106511,
@@ -5108,6 +5267,9 @@ export const president_2012_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "7507000830980",
     "tikName": "Климовская городская",
+    "regionCode": "50",
+    "regionTvd": "100100031793850",
+    "regionName": "Московская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 47605,
@@ -5173,6 +5335,9 @@ export const president_2012_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "7507000830981",
     "tikName": "Каширская",
+    "regionCode": "50",
+    "regionTvd": "100100031793850",
+    "regionName": "Московская область",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 59521,
@@ -5264,6 +5429,9 @@ export const president_2012_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "7507000830982",
     "tikName": "Истринская",
+    "regionCode": "50",
+    "regionTvd": "100100031793850",
+    "regionName": "Московская область",
     "uikCount": 55,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 98916,
@@ -5366,6 +5534,9 @@ export const president_2012_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "7507000830983",
     "tikName": "Ивантеевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100031793850",
+    "regionName": "Московская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 45672,
@@ -5433,6 +5604,9 @@ export const president_2012_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "7507000830984",
     "tikName": "Звенигородская городская",
+    "regionCode": "50",
+    "regionTvd": "100100031793850",
+    "regionName": "Московская область",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 15969,
@@ -5491,6 +5665,9 @@ export const president_2012_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "7507000830985",
     "tikName": "Зарайская",
+    "regionCode": "50",
+    "regionTvd": "100100031793850",
+    "regionName": "Московская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 33695,
@@ -5568,6 +5745,9 @@ export const president_2012_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "7507000830986",
     "tikName": "Жуковская городская",
+    "regionCode": "50",
+    "regionTvd": "100100031793850",
+    "regionName": "Московская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 82354,
@@ -5649,6 +5829,9 @@ export const president_2012_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "7507000830987",
     "tikName": "Железнодорожная городская",
+    "regionCode": "50",
+    "regionTvd": "100100031793850",
+    "regionName": "Московская область",
     "uikCount": 52,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 108233,
@@ -5748,6 +5931,9 @@ export const president_2012_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "7507000830988",
     "tikName": "Егорьевская",
+    "regionCode": "50",
+    "regionTvd": "100100031793850",
+    "regionName": "Московская область",
     "uikCount": 60,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 81930,
@@ -5855,6 +6041,9 @@ export const president_2012_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "7507000830989",
     "tikName": "Дубненская городская",
+    "regionCode": "50",
+    "regionTvd": "100100031793850",
+    "regionName": "Московская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 56617,
@@ -5930,6 +6119,9 @@ export const president_2012_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "7507000830990",
     "tikName": "Домодедовская",
+    "regionCode": "50",
+    "regionTvd": "100100031793850",
+    "regionName": "Московская область",
     "uikCount": 70,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 114443,
@@ -6047,6 +6239,9 @@ export const president_2012_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "7507000830991",
     "tikName": "Долгопрудненская городская",
+    "regionCode": "50",
+    "regionTvd": "100100031793850",
+    "regionName": "Московская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 72082,
@@ -6134,6 +6329,9 @@ export const president_2012_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "7507000830992",
     "tikName": "Дмитровcкая",
+    "regionCode": "50",
+    "regionTvd": "100100031793850",
+    "regionName": "Московская область",
     "uikCount": 95,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 123400,
@@ -6276,6 +6474,9 @@ export const president_2012_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "7507000830993",
     "tikName": "Дзержинская городская",
+    "regionCode": "50",
+    "regionTvd": "100100031793850",
+    "regionName": "Московская область",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 36881,
@@ -6336,6 +6537,9 @@ export const president_2012_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "7507000830994",
     "tikName": "Восходненская поселковая",
+    "regionCode": "50",
+    "regionTvd": "100100031793850",
+    "regionName": "Московская область",
     "uikCount": 1,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 1609,
@@ -6384,6 +6588,9 @@ export const president_2012_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "7507000830995",
     "tikName": "Воскресенская",
+    "regionCode": "50",
+    "regionTvd": "100100031793850",
+    "regionName": "Московская область",
     "uikCount": 82,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 128447,
@@ -6513,6 +6720,9 @@ export const president_2012_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "7507000830996",
     "tikName": "Волоколамская",
+    "regionCode": "50",
+    "regionTvd": "100100031793850",
+    "regionName": "Московская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 41542,
@@ -6591,6 +6801,9 @@ export const president_2012_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "7507000830997",
     "tikName": "Бронницкая городская",
+    "regionCode": "50",
+    "regionTvd": "100100031793850",
+    "regionName": "Московская область",
     "uikCount": 8,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 16192,
@@ -6646,6 +6859,9 @@ export const president_2012_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "7507000830998",
     "tikName": "Балашихинская",
+    "regionCode": "50",
+    "regionTvd": "100100031793850",
+    "regionName": "Московская область",
     "uikCount": 80,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 179872,
@@ -6773,6 +6989,9 @@ export const president_2012_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "7507000831106",
     "tikName": "Звездный городок поселковая",
+    "regionCode": "50",
+    "regionTvd": "100100031793850",
+    "regionName": "Московская область",
     "uikCount": 3,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 5609,
@@ -6823,6 +7042,9 @@ export const president_2012_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "7507000831107",
     "tikName": "Власихинская поселковая",
+    "regionCode": "50",
+    "regionTvd": "100100031793850",
+    "regionName": "Московская область",
     "uikCount": 7,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 18493,

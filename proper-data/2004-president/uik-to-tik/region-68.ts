@@ -7,6229 +7,11419 @@ export const president_2004_uik_to_tik_region_68 = [
   {
     "uikNumber": 1,
     "uikTvd": "468400372461",
+    "uikName": "УИК  1",
     "tikTvd": "268200079041",
-    "tikName": "Жердевская"
+    "tikName": "Жердевская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 2,
     "uikTvd": "468400372462",
+    "uikName": "УИК  2",
     "tikTvd": "268200079041",
-    "tikName": "Жердевская"
+    "tikName": "Жердевская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 3,
     "uikTvd": "468400372464",
+    "uikName": "УИК  3",
     "tikTvd": "268200079041",
-    "tikName": "Жердевская"
+    "tikName": "Жердевская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 4,
     "uikTvd": "468400372465",
+    "uikName": "УИК  4",
     "tikTvd": "268200079041",
-    "tikName": "Жердевская"
+    "tikName": "Жердевская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 5,
     "uikTvd": "468400372466",
+    "uikName": "УИК  5",
     "tikTvd": "268200079041",
-    "tikName": "Жердевская"
+    "tikName": "Жердевская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 6,
     "uikTvd": "468400372467",
+    "uikName": "УИК  6",
     "tikTvd": "268200079041",
-    "tikName": "Жердевская"
+    "tikName": "Жердевская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 7,
     "uikTvd": "468400372468",
+    "uikName": "УИК  7",
     "tikTvd": "268200079041",
-    "tikName": "Жердевская"
+    "tikName": "Жердевская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 8,
     "uikTvd": "468400372469",
+    "uikName": "УИК  8",
     "tikTvd": "268200079041",
-    "tikName": "Жердевская"
+    "tikName": "Жердевская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 9,
     "uikTvd": "468400372470",
+    "uikName": "УИК  9",
     "tikTvd": "268200079041",
-    "tikName": "Жердевская"
+    "tikName": "Жердевская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 10,
     "uikTvd": "468400372471",
+    "uikName": "УИК  10",
     "tikTvd": "268200079041",
-    "tikName": "Жердевская"
+    "tikName": "Жердевская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 11,
     "uikTvd": "468400372472",
+    "uikName": "УИК  11",
     "tikTvd": "268200079041",
-    "tikName": "Жердевская"
+    "tikName": "Жердевская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 12,
     "uikTvd": "468400372473",
+    "uikName": "УИК  12",
     "tikTvd": "268200079041",
-    "tikName": "Жердевская"
+    "tikName": "Жердевская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 13,
     "uikTvd": "468400372474",
+    "uikName": "УИК  13",
     "tikTvd": "268200079041",
-    "tikName": "Жердевская"
+    "tikName": "Жердевская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 14,
     "uikTvd": "468400372475",
+    "uikName": "УИК  14",
     "tikTvd": "268200079041",
-    "tikName": "Жердевская"
+    "tikName": "Жердевская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 15,
     "uikTvd": "468400372476",
+    "uikName": "УИК  15",
     "tikTvd": "268200079041",
-    "tikName": "Жердевская"
+    "tikName": "Жердевская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 16,
     "uikTvd": "468400372477",
+    "uikName": "УИК  16",
     "tikTvd": "268200079041",
-    "tikName": "Жердевская"
+    "tikName": "Жердевская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 17,
     "uikTvd": "468400372478",
+    "uikName": "УИК  17",
     "tikTvd": "268200079041",
-    "tikName": "Жердевская"
+    "tikName": "Жердевская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 18,
     "uikTvd": "468400372479",
+    "uikName": "УИК  18",
     "tikTvd": "268200079041",
-    "tikName": "Жердевская"
+    "tikName": "Жердевская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 19,
     "uikTvd": "468400372480",
+    "uikName": "УИК  19",
     "tikTvd": "268200079041",
-    "tikName": "Жердевская"
+    "tikName": "Жердевская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 20,
     "uikTvd": "468400372481",
+    "uikName": "УИК  20",
     "tikTvd": "268200079041",
-    "tikName": "Жердевская"
+    "tikName": "Жердевская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 21,
     "uikTvd": "468400372482",
+    "uikName": "УИК  21",
     "tikTvd": "268200079041",
-    "tikName": "Жердевская"
+    "tikName": "Жердевская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 22,
     "uikTvd": "468400372483",
+    "uikName": "УИК  22",
     "tikTvd": "268200079041",
-    "tikName": "Жердевская"
+    "tikName": "Жердевская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 23,
     "uikTvd": "468400372484",
+    "uikName": "УИК  23",
     "tikTvd": "268200079041",
-    "tikName": "Жердевская"
+    "tikName": "Жердевская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 24,
     "uikTvd": "468400372485",
+    "uikName": "УИК  24",
     "tikTvd": "268200079041",
-    "tikName": "Жердевская"
+    "tikName": "Жердевская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 25,
     "uikTvd": "468400372486",
+    "uikName": "УИК  25",
     "tikTvd": "268200079041",
-    "tikName": "Жердевская"
+    "tikName": "Жердевская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 26,
     "uikTvd": "468400372487",
+    "uikName": "УИК  26",
     "tikTvd": "268200079041",
-    "tikName": "Жердевская"
+    "tikName": "Жердевская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 27,
     "uikTvd": "468400372488",
+    "uikName": "УИК  27",
     "tikTvd": "268200079041",
-    "tikName": "Жердевская"
+    "tikName": "Жердевская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 28,
     "uikTvd": "468400372489",
+    "uikName": "УИК  28",
     "tikTvd": "268200079041",
-    "tikName": "Жердевская"
+    "tikName": "Жердевская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 29,
     "uikTvd": "468400372490",
+    "uikName": "УИК  29",
     "tikTvd": "268200079041",
-    "tikName": "Жердевская"
+    "tikName": "Жердевская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 30,
     "uikTvd": "468400372491",
+    "uikName": "УИК  30",
     "tikTvd": "268200079041",
-    "tikName": "Жердевская"
+    "tikName": "Жердевская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 31,
     "uikTvd": "468400372492",
+    "uikName": "УИК  31",
     "tikTvd": "268200079041",
-    "tikName": "Жердевская"
+    "tikName": "Жердевская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 32,
     "uikTvd": "468400372493",
+    "uikName": "УИК  32",
     "tikTvd": "268200079041",
-    "tikName": "Жердевская"
+    "tikName": "Жердевская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 33,
     "uikTvd": "468400372494",
+    "uikName": "УИК  33",
     "tikTvd": "268200079041",
-    "tikName": "Жердевская"
+    "tikName": "Жердевская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 34,
     "uikTvd": "468400372495",
+    "uikName": "УИК  34",
     "tikTvd": "268200079041",
-    "tikName": "Жердевская"
+    "tikName": "Жердевская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 35,
     "uikTvd": "468400372496",
+    "uikName": "УИК  35",
     "tikTvd": "268200079041",
-    "tikName": "Жердевская"
+    "tikName": "Жердевская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 36,
     "uikTvd": "468400372497",
+    "uikName": "УИК  36",
     "tikTvd": "268200079041",
-    "tikName": "Жердевская"
+    "tikName": "Жердевская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 37,
     "uikTvd": "468400372498",
+    "uikName": "УИК  37",
     "tikTvd": "268200079041",
-    "tikName": "Жердевская"
+    "tikName": "Жердевская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 38,
     "uikTvd": "468400372499",
+    "uikName": "УИК  38",
     "tikTvd": "268200079041",
-    "tikName": "Жердевская"
+    "tikName": "Жердевская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 39,
     "uikTvd": "468400472122",
+    "uikName": "УИК №39",
     "tikTvd": "268200079039",
-    "tikName": "Знаменская"
+    "tikName": "Знаменская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 40,
     "uikTvd": "468400472123",
+    "uikName": "УИК №40",
     "tikTvd": "268200079039",
-    "tikName": "Знаменская"
+    "tikName": "Знаменская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 41,
     "uikTvd": "468400472124",
+    "uikName": "УИК №41",
     "tikTvd": "268200079039",
-    "tikName": "Знаменская"
+    "tikName": "Знаменская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 42,
     "uikTvd": "468400472125",
+    "uikName": "УИК №42",
     "tikTvd": "268200079039",
-    "tikName": "Знаменская"
+    "tikName": "Знаменская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 43,
     "uikTvd": "468400472126",
+    "uikName": "УИК №43",
     "tikTvd": "268200079039",
-    "tikName": "Знаменская"
+    "tikName": "Знаменская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 44,
     "uikTvd": "468400472127",
+    "uikName": "УИК №44",
     "tikTvd": "268200079039",
-    "tikName": "Знаменская"
+    "tikName": "Знаменская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 45,
     "uikTvd": "468400472128",
+    "uikName": "УИК №45",
     "tikTvd": "268200079039",
-    "tikName": "Знаменская"
+    "tikName": "Знаменская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 46,
     "uikTvd": "468400472129",
+    "uikName": "УИК №46",
     "tikTvd": "268200079039",
-    "tikName": "Знаменская"
+    "tikName": "Знаменская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 47,
     "uikTvd": "468400472130",
+    "uikName": "УИК №47",
     "tikTvd": "268200079039",
-    "tikName": "Знаменская"
+    "tikName": "Знаменская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 48,
     "uikTvd": "468400472131",
+    "uikName": "УИК №48",
     "tikTvd": "268200079039",
-    "tikName": "Знаменская"
+    "tikName": "Знаменская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 49,
     "uikTvd": "468400472132",
+    "uikName": "УИК №49",
     "tikTvd": "268200079039",
-    "tikName": "Знаменская"
+    "tikName": "Знаменская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 50,
     "uikTvd": "468400472133",
+    "uikName": "УИК №50",
     "tikTvd": "268200079039",
-    "tikName": "Знаменская"
+    "tikName": "Знаменская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 51,
     "uikTvd": "468400472134",
+    "uikName": "УИК №51",
     "tikTvd": "268200079039",
-    "tikName": "Знаменская"
+    "tikName": "Знаменская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 52,
     "uikTvd": "468400472135",
+    "uikName": "УИК №52",
     "tikTvd": "268200079039",
-    "tikName": "Знаменская"
+    "tikName": "Знаменская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 53,
     "uikTvd": "468400472136",
+    "uikName": "УИК №53",
     "tikTvd": "268200079039",
-    "tikName": "Знаменская"
+    "tikName": "Знаменская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 54,
     "uikTvd": "468400472137",
+    "uikName": "УИК №54",
     "tikTvd": "268200079039",
-    "tikName": "Знаменская"
+    "tikName": "Знаменская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 55,
     "uikTvd": "468400472138",
+    "uikName": "УИК №55",
     "tikTvd": "268200079039",
-    "tikName": "Знаменская"
+    "tikName": "Знаменская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 56,
     "uikTvd": "468400472139",
+    "uikName": "УИК №56",
     "tikTvd": "268200079039",
-    "tikName": "Знаменская"
+    "tikName": "Знаменская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 57,
     "uikTvd": "468400472140",
+    "uikName": "УИК №57",
     "tikTvd": "268200079039",
-    "tikName": "Знаменская"
+    "tikName": "Знаменская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 58,
     "uikTvd": "468400472141",
+    "uikName": "УИК №58",
     "tikTvd": "268200079039",
-    "tikName": "Знаменская"
+    "tikName": "Знаменская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 59,
     "uikTvd": "468400472142",
+    "uikName": "УИК №59",
     "tikTvd": "268200079039",
-    "tikName": "Знаменская"
+    "tikName": "Знаменская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 60,
     "uikTvd": "468400472143",
+    "uikName": "УИК №60",
     "tikTvd": "268200079039",
-    "tikName": "Знаменская"
+    "tikName": "Знаменская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 61,
     "uikTvd": "468400472144",
+    "uikName": "УИК №61",
     "tikTvd": "268200079039",
-    "tikName": "Знаменская"
+    "tikName": "Знаменская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 62,
     "uikTvd": "468400472145",
+    "uikName": "УИК №62",
     "tikTvd": "268200079039",
-    "tikName": "Знаменская"
+    "tikName": "Знаменская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 63,
     "uikTvd": "468400472146",
+    "uikName": "УИК №63",
     "tikTvd": "268200079039",
-    "tikName": "Знаменская"
+    "tikName": "Знаменская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 64,
     "uikTvd": "468400872005",
+    "uikName": "УИК №64",
     "tikTvd": "268200079035",
-    "tikName": "Мичуринская"
+    "tikName": "Мичуринская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 65,
     "uikTvd": "468400872006",
+    "uikName": "УИК №65",
     "tikTvd": "268200079035",
-    "tikName": "Мичуринская"
+    "tikName": "Мичуринская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 66,
     "uikTvd": "468400872007",
+    "uikName": "УИК №66",
     "tikTvd": "268200079035",
-    "tikName": "Мичуринская"
+    "tikName": "Мичуринская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 67,
     "uikTvd": "468400872008",
+    "uikName": "УИК №67",
     "tikTvd": "268200079035",
-    "tikName": "Мичуринская"
+    "tikName": "Мичуринская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 68,
     "uikTvd": "468400872009",
+    "uikName": "УИК №68",
     "tikTvd": "268200079035",
-    "tikName": "Мичуринская"
+    "tikName": "Мичуринская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 69,
     "uikTvd": "468400872010",
+    "uikName": "УИК №69",
     "tikTvd": "268200079035",
-    "tikName": "Мичуринская"
+    "tikName": "Мичуринская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 70,
     "uikTvd": "468400872011",
+    "uikName": "УИК №70",
     "tikTvd": "268200079035",
-    "tikName": "Мичуринская"
+    "tikName": "Мичуринская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 71,
     "uikTvd": "468400872012",
+    "uikName": "УИК №71",
     "tikTvd": "268200079035",
-    "tikName": "Мичуринская"
+    "tikName": "Мичуринская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 72,
     "uikTvd": "468400872013",
+    "uikName": "УИК №72",
     "tikTvd": "268200079035",
-    "tikName": "Мичуринская"
+    "tikName": "Мичуринская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 73,
     "uikTvd": "468400872014",
+    "uikName": "УИК №73",
     "tikTvd": "268200079035",
-    "tikName": "Мичуринская"
+    "tikName": "Мичуринская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 74,
     "uikTvd": "468400872015",
+    "uikName": "УИК №74",
     "tikTvd": "268200079035",
-    "tikName": "Мичуринская"
+    "tikName": "Мичуринская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 75,
     "uikTvd": "468400872016",
+    "uikName": "УИК №75",
     "tikTvd": "268200079035",
-    "tikName": "Мичуринская"
+    "tikName": "Мичуринская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 76,
     "uikTvd": "468400872017",
+    "uikName": "УИК №76",
     "tikTvd": "268200079035",
-    "tikName": "Мичуринская"
+    "tikName": "Мичуринская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 77,
     "uikTvd": "468400872018",
+    "uikName": "УИК №77",
     "tikTvd": "268200079035",
-    "tikName": "Мичуринская"
+    "tikName": "Мичуринская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 78,
     "uikTvd": "468400872019",
+    "uikName": "УИК №78",
     "tikTvd": "268200079035",
-    "tikName": "Мичуринская"
+    "tikName": "Мичуринская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 79,
     "uikTvd": "468400872020",
+    "uikName": "УИК №79",
     "tikTvd": "268200079035",
-    "tikName": "Мичуринская"
+    "tikName": "Мичуринская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 80,
     "uikTvd": "468400872021",
+    "uikName": "УИК №80",
     "tikTvd": "268200079035",
-    "tikName": "Мичуринская"
+    "tikName": "Мичуринская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 81,
     "uikTvd": "468400872022",
+    "uikName": "УИК №81",
     "tikTvd": "268200079035",
-    "tikName": "Мичуринская"
+    "tikName": "Мичуринская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 82,
     "uikTvd": "468400872023",
+    "uikName": "УИК №82",
     "tikTvd": "268200079035",
-    "tikName": "Мичуринская"
+    "tikName": "Мичуринская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 83,
     "uikTvd": "468400872024",
+    "uikName": "УИК №83",
     "tikTvd": "268200079035",
-    "tikName": "Мичуринская"
+    "tikName": "Мичуринская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 84,
     "uikTvd": "468400872025",
+    "uikName": "УИК №84",
     "tikTvd": "268200079035",
-    "tikName": "Мичуринская"
+    "tikName": "Мичуринская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 85,
     "uikTvd": "468400872026",
+    "uikName": "УИК №85",
     "tikTvd": "268200079035",
-    "tikName": "Мичуринская"
+    "tikName": "Мичуринская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 86,
     "uikTvd": "468400872027",
+    "uikName": "УИК №86",
     "tikTvd": "268200079035",
-    "tikName": "Мичуринская"
+    "tikName": "Мичуринская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 87,
     "uikTvd": "468400872028",
+    "uikName": "УИК №87",
     "tikTvd": "268200079035",
-    "tikName": "Мичуринская"
+    "tikName": "Мичуринская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 88,
     "uikTvd": "468400872029",
+    "uikName": "УИК №88",
     "tikTvd": "268200079035",
-    "tikName": "Мичуринская"
+    "tikName": "Мичуринская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 89,
     "uikTvd": "468400872030",
+    "uikName": "УИК №89",
     "tikTvd": "268200079035",
-    "tikName": "Мичуринская"
+    "tikName": "Мичуринская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 90,
     "uikTvd": "468400872031",
+    "uikName": "УИК №90",
     "tikTvd": "268200079035",
-    "tikName": "Мичуринская"
+    "tikName": "Мичуринская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 91,
     "uikTvd": "468400872032",
+    "uikName": "УИК №91",
     "tikTvd": "268200079035",
-    "tikName": "Мичуринская"
+    "tikName": "Мичуринская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 92,
     "uikTvd": "468400872033",
+    "uikName": "УИК №92",
     "tikTvd": "268200079035",
-    "tikName": "Мичуринская"
+    "tikName": "Мичуринская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 93,
     "uikTvd": "468400872034",
+    "uikName": "УИК №93",
     "tikTvd": "268200079035",
-    "tikName": "Мичуринская"
+    "tikName": "Мичуринская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 94,
     "uikTvd": "468400872035",
+    "uikName": "УИК №94",
     "tikTvd": "268200079035",
-    "tikName": "Мичуринская"
+    "tikName": "Мичуринская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 95,
     "uikTvd": "468400872036",
+    "uikName": "УИК №95",
     "tikTvd": "268200079035",
-    "tikName": "Мичуринская"
+    "tikName": "Мичуринская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 96,
     "uikTvd": "468400872037",
+    "uikName": "УИК №96",
     "tikTvd": "268200079035",
-    "tikName": "Мичуринская"
+    "tikName": "Мичуринская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 97,
     "uikTvd": "468400872038",
+    "uikName": "УИК №97",
     "tikTvd": "268200079035",
-    "tikName": "Мичуринская"
+    "tikName": "Мичуринская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 98,
     "uikTvd": "468400872039",
+    "uikName": "УИК №98",
     "tikTvd": "268200079035",
-    "tikName": "Мичуринская"
+    "tikName": "Мичуринская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 99,
     "uikTvd": "468400872040",
+    "uikName": "УИК №99",
     "tikTvd": "268200079035",
-    "tikName": "Мичуринская"
+    "tikName": "Мичуринская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 100,
     "uikTvd": "468400872041",
+    "uikName": "УИК №100",
     "tikTvd": "268200079035",
-    "tikName": "Мичуринская"
+    "tikName": "Мичуринская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 101,
     "uikTvd": "468400872042",
+    "uikName": "УИК №101",
     "tikTvd": "268200079035",
-    "tikName": "Мичуринская"
+    "tikName": "Мичуринская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 102,
     "uikTvd": "468400872043",
+    "uikName": "УИК №102",
     "tikTvd": "268200079035",
-    "tikName": "Мичуринская"
+    "tikName": "Мичуринская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 103,
     "uikTvd": "468400872044",
+    "uikName": "УИК №103",
     "tikTvd": "268200079035",
-    "tikName": "Мичуринская"
+    "tikName": "Мичуринская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 104,
     "uikTvd": "468400872045",
+    "uikName": "УИК №104",
     "tikTvd": "268200079035",
-    "tikName": "Мичуринская"
+    "tikName": "Мичуринская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 105,
     "uikTvd": "468400872046",
+    "uikName": "УИК №105",
     "tikTvd": "268200079035",
-    "tikName": "Мичуринская"
+    "tikName": "Мичуринская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 106,
     "uikTvd": "468400872047",
+    "uikName": "УИК №106",
     "tikTvd": "268200079035",
-    "tikName": "Мичуринская"
+    "tikName": "Мичуринская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 107,
     "uikTvd": "468400872048",
+    "uikName": "УИК №107",
     "tikTvd": "268200079035",
-    "tikName": "Мичуринская"
+    "tikName": "Мичуринская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 108,
     "uikTvd": "468400872049",
+    "uikName": "УИК №108",
     "tikTvd": "268200079035",
-    "tikName": "Мичуринская"
+    "tikName": "Мичуринская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 109,
     "uikTvd": "468400872050",
+    "uikName": "УИК №109",
     "tikTvd": "268200079035",
-    "tikName": "Мичуринская"
+    "tikName": "Мичуринская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 110,
     "uikTvd": "468400872051",
+    "uikName": "УИК №110",
     "tikTvd": "268200079035",
-    "tikName": "Мичуринская"
+    "tikName": "Мичуринская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 111,
     "uikTvd": "468400872052",
+    "uikName": "УИК №111",
     "tikTvd": "268200079035",
-    "tikName": "Мичуринская"
+    "tikName": "Мичуринская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 112,
     "uikTvd": "468400872053",
+    "uikName": "УИК №112",
     "tikTvd": "268200079035",
-    "tikName": "Мичуринская"
+    "tikName": "Мичуринская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 113,
     "uikTvd": "468400872054",
+    "uikName": "УИК №113",
     "tikTvd": "268200079035",
-    "tikName": "Мичуринская"
+    "tikName": "Мичуринская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 114,
     "uikTvd": "468400971794",
+    "uikName": "УИК №114",
     "tikTvd": "268200079036",
-    "tikName": "Мичуринская городская"
+    "tikName": "Мичуринская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 115,
     "uikTvd": "468400971795",
+    "uikName": "УИК №115",
     "tikTvd": "268200079036",
-    "tikName": "Мичуринская городская"
+    "tikName": "Мичуринская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 116,
     "uikTvd": "468400971796",
+    "uikName": "УИК №116",
     "tikTvd": "268200079036",
-    "tikName": "Мичуринская городская"
+    "tikName": "Мичуринская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 117,
     "uikTvd": "468400971797",
+    "uikName": "УИК №117",
     "tikTvd": "268200079036",
-    "tikName": "Мичуринская городская"
+    "tikName": "Мичуринская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 118,
     "uikTvd": "468400971798",
+    "uikName": "УИК №118",
     "tikTvd": "268200079036",
-    "tikName": "Мичуринская городская"
+    "tikName": "Мичуринская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 119,
     "uikTvd": "468400971799",
+    "uikName": "УИК №119",
     "tikTvd": "268200079036",
-    "tikName": "Мичуринская городская"
+    "tikName": "Мичуринская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 120,
     "uikTvd": "468400971800",
+    "uikName": "УИК №120",
     "tikTvd": "268200079036",
-    "tikName": "Мичуринская городская"
+    "tikName": "Мичуринская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 121,
     "uikTvd": "468400971801",
+    "uikName": "УИК №121",
     "tikTvd": "268200079036",
-    "tikName": "Мичуринская городская"
+    "tikName": "Мичуринская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 122,
     "uikTvd": "468400971802",
+    "uikName": "УИК №122",
     "tikTvd": "268200079036",
-    "tikName": "Мичуринская городская"
+    "tikName": "Мичуринская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 123,
     "uikTvd": "468400971803",
+    "uikName": "УИК №123",
     "tikTvd": "268200079036",
-    "tikName": "Мичуринская городская"
+    "tikName": "Мичуринская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 124,
     "uikTvd": "468400971804",
+    "uikName": "УИК №124",
     "tikTvd": "268200079036",
-    "tikName": "Мичуринская городская"
+    "tikName": "Мичуринская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 125,
     "uikTvd": "468400971805",
+    "uikName": "УИК №125",
     "tikTvd": "268200079036",
-    "tikName": "Мичуринская городская"
+    "tikName": "Мичуринская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 126,
     "uikTvd": "468400971806",
+    "uikName": "УИК №126",
     "tikTvd": "268200079036",
-    "tikName": "Мичуринская городская"
+    "tikName": "Мичуринская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 127,
     "uikTvd": "468400971807",
+    "uikName": "УИК №127",
     "tikTvd": "268200079036",
-    "tikName": "Мичуринская городская"
+    "tikName": "Мичуринская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 128,
     "uikTvd": "468400971808",
+    "uikName": "УИК №128",
     "tikTvd": "268200079036",
-    "tikName": "Мичуринская городская"
+    "tikName": "Мичуринская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 129,
     "uikTvd": "468400971809",
+    "uikName": "УИК №129",
     "tikTvd": "268200079036",
-    "tikName": "Мичуринская городская"
+    "tikName": "Мичуринская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 130,
     "uikTvd": "468400971810",
+    "uikName": "УИК №130",
     "tikTvd": "268200079036",
-    "tikName": "Мичуринская городская"
+    "tikName": "Мичуринская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 131,
     "uikTvd": "468400971811",
+    "uikName": "УИК №131",
     "tikTvd": "268200079036",
-    "tikName": "Мичуринская городская"
+    "tikName": "Мичуринская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 132,
     "uikTvd": "468400971812",
+    "uikName": "УИК №132",
     "tikTvd": "268200079036",
-    "tikName": "Мичуринская городская"
+    "tikName": "Мичуринская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 133,
     "uikTvd": "468400971813",
+    "uikName": "УИК №133",
     "tikTvd": "268200079036",
-    "tikName": "Мичуринская городская"
+    "tikName": "Мичуринская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 134,
     "uikTvd": "468400971814",
+    "uikName": "УИК №134",
     "tikTvd": "268200079036",
-    "tikName": "Мичуринская городская"
+    "tikName": "Мичуринская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 135,
     "uikTvd": "468400971815",
+    "uikName": "УИК №135",
     "tikTvd": "268200079036",
-    "tikName": "Мичуринская городская"
+    "tikName": "Мичуринская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 136,
     "uikTvd": "468400971816",
+    "uikName": "УИК №136",
     "tikTvd": "268200079036",
-    "tikName": "Мичуринская городская"
+    "tikName": "Мичуринская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 137,
     "uikTvd": "468400971817",
+    "uikName": "УИК №137",
     "tikTvd": "268200079036",
-    "tikName": "Мичуринская городская"
+    "tikName": "Мичуринская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 138,
     "uikTvd": "468400971818",
+    "uikName": "УИК №138",
     "tikTvd": "268200079036",
-    "tikName": "Мичуринская городская"
+    "tikName": "Мичуринская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 139,
     "uikTvd": "468400971819",
+    "uikName": "УИК №139",
     "tikTvd": "268200079036",
-    "tikName": "Мичуринская городская"
+    "tikName": "Мичуринская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 140,
     "uikTvd": "468400971820",
+    "uikName": "УИК №140",
     "tikTvd": "268200079036",
-    "tikName": "Мичуринская городская"
+    "tikName": "Мичуринская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 141,
     "uikTvd": "468400971821",
+    "uikName": "УИК №141",
     "tikTvd": "268200079036",
-    "tikName": "Мичуринская городская"
+    "tikName": "Мичуринская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 142,
     "uikTvd": "468400971822",
+    "uikName": "УИК №142",
     "tikTvd": "268200079036",
-    "tikName": "Мичуринская городская"
+    "tikName": "Мичуринская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 143,
     "uikTvd": "468400971823",
+    "uikName": "УИК №143",
     "tikTvd": "268200079036",
-    "tikName": "Мичуринская городская"
+    "tikName": "Мичуринская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 144,
     "uikTvd": "468400971824",
+    "uikName": "УИК №144",
     "tikTvd": "268200079036",
-    "tikName": "Мичуринская городская"
+    "tikName": "Мичуринская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 145,
     "uikTvd": "468400971825",
+    "uikName": "УИК №145",
     "tikTvd": "268200079036",
-    "tikName": "Мичуринская городская"
+    "tikName": "Мичуринская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 146,
     "uikTvd": "468400971826",
+    "uikName": "УИК №146",
     "tikTvd": "268200079036",
-    "tikName": "Мичуринская городская"
+    "tikName": "Мичуринская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 147,
     "uikTvd": "468400971827",
+    "uikName": "УИК №147",
     "tikTvd": "268200079036",
-    "tikName": "Мичуринская городская"
+    "tikName": "Мичуринская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 148,
     "uikTvd": "468400971828",
+    "uikName": "УИК №148",
     "tikTvd": "268200079036",
-    "tikName": "Мичуринская городская"
+    "tikName": "Мичуринская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 149,
     "uikTvd": "468400971829",
+    "uikName": "УИК №149",
     "tikTvd": "268200079036",
-    "tikName": "Мичуринская городская"
+    "tikName": "Мичуринская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 150,
     "uikTvd": "468400971830",
+    "uikName": "УИК №150",
     "tikTvd": "268200079036",
-    "tikName": "Мичуринская городская"
+    "tikName": "Мичуринская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 151,
     "uikTvd": "468400971831",
+    "uikName": "УИК №151",
     "tikTvd": "268200079036",
-    "tikName": "Мичуринская городская"
+    "tikName": "Мичуринская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 152,
     "uikTvd": "468400971832",
+    "uikName": "УИК №152",
     "tikTvd": "268200079036",
-    "tikName": "Мичуринская городская"
+    "tikName": "Мичуринская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 153,
     "uikTvd": "468400971833",
+    "uikName": "УИК №153",
     "tikTvd": "268200079036",
-    "tikName": "Мичуринская городская"
+    "tikName": "Мичуринская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 154,
     "uikTvd": "468400971834",
+    "uikName": "УИК №154",
     "tikTvd": "268200079036",
-    "tikName": "Мичуринская городская"
+    "tikName": "Мичуринская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 155,
     "uikTvd": "468400971835",
+    "uikName": "УИК №155",
     "tikTvd": "268200079036",
-    "tikName": "Мичуринская городская"
+    "tikName": "Мичуринская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 156,
     "uikTvd": "468400971836",
+    "uikName": "УИК №156",
     "tikTvd": "268200079036",
-    "tikName": "Мичуринская городская"
+    "tikName": "Мичуринская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 157,
     "uikTvd": "468400971837",
+    "uikName": "УИК №157",
     "tikTvd": "268200079036",
-    "tikName": "Мичуринская городская"
+    "tikName": "Мичуринская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 158,
     "uikTvd": "468400971838",
+    "uikName": "УИК №158",
     "tikTvd": "268200079036",
-    "tikName": "Мичуринская городская"
+    "tikName": "Мичуринская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 159,
     "uikTvd": "468400971839",
+    "uikName": "УИК №159",
     "tikTvd": "268200079036",
-    "tikName": "Мичуринская городская"
+    "tikName": "Мичуринская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 160,
     "uikTvd": "468400971840",
+    "uikName": "УИК №160",
     "tikTvd": "268200079036",
-    "tikName": "Мичуринская городская"
+    "tikName": "Мичуринская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 161,
     "uikTvd": "468400971792",
+    "uikName": "УИК №161",
     "tikTvd": "268200079036",
-    "tikName": "Мичуринская городская"
+    "tikName": "Мичуринская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 162,
     "uikTvd": "468401072526",
+    "uikName": "УИК  162",
     "tikTvd": "268200079034",
-    "tikName": "Мордовская"
+    "tikName": "Мордовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 163,
     "uikTvd": "468401072527",
+    "uikName": "УИК  163",
     "tikTvd": "268200079034",
-    "tikName": "Мордовская"
+    "tikName": "Мордовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 164,
     "uikTvd": "468401072528",
+    "uikName": "УИК  164",
     "tikTvd": "268200079034",
-    "tikName": "Мордовская"
+    "tikName": "Мордовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 165,
     "uikTvd": "468401072529",
+    "uikName": "УИК  165",
     "tikTvd": "268200079034",
-    "tikName": "Мордовская"
+    "tikName": "Мордовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 166,
     "uikTvd": "468401072530",
+    "uikName": "УИК  166",
     "tikTvd": "268200079034",
-    "tikName": "Мордовская"
+    "tikName": "Мордовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 167,
     "uikTvd": "468401072531",
+    "uikName": "УИК  167",
     "tikTvd": "268200079034",
-    "tikName": "Мордовская"
+    "tikName": "Мордовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 168,
     "uikTvd": "468401072532",
+    "uikName": "УИК  168",
     "tikTvd": "268200079034",
-    "tikName": "Мордовская"
+    "tikName": "Мордовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 169,
     "uikTvd": "468401072533",
+    "uikName": "УИК  169",
     "tikTvd": "268200079034",
-    "tikName": "Мордовская"
+    "tikName": "Мордовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 170,
     "uikTvd": "468401072534",
+    "uikName": "УИК  170",
     "tikTvd": "268200079034",
-    "tikName": "Мордовская"
+    "tikName": "Мордовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 171,
     "uikTvd": "468401072535",
+    "uikName": "УИК  171",
     "tikTvd": "268200079034",
-    "tikName": "Мордовская"
+    "tikName": "Мордовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 172,
     "uikTvd": "468401072536",
+    "uikName": "УИК  172",
     "tikTvd": "268200079034",
-    "tikName": "Мордовская"
+    "tikName": "Мордовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 173,
     "uikTvd": "468401072537",
+    "uikName": "УИК  173",
     "tikTvd": "268200079034",
-    "tikName": "Мордовская"
+    "tikName": "Мордовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 174,
     "uikTvd": "468401072538",
+    "uikName": "УИК  174",
     "tikTvd": "268200079034",
-    "tikName": "Мордовская"
+    "tikName": "Мордовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 175,
     "uikTvd": "468401072539",
+    "uikName": "УИК  175",
     "tikTvd": "268200079034",
-    "tikName": "Мордовская"
+    "tikName": "Мордовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 176,
     "uikTvd": "468401072540",
+    "uikName": "УИК  176",
     "tikTvd": "268200079034",
-    "tikName": "Мордовская"
+    "tikName": "Мордовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 177,
     "uikTvd": "468401072541",
+    "uikName": "УИК  177",
     "tikTvd": "268200079034",
-    "tikName": "Мордовская"
+    "tikName": "Мордовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 178,
     "uikTvd": "468401072542",
+    "uikName": "УИК  178",
     "tikTvd": "268200079034",
-    "tikName": "Мордовская"
+    "tikName": "Мордовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 179,
     "uikTvd": "468401072543",
+    "uikName": "УИК  179",
     "tikTvd": "268200079034",
-    "tikName": "Мордовская"
+    "tikName": "Мордовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 180,
     "uikTvd": "468401072544",
+    "uikName": "УИК  180",
     "tikTvd": "268200079034",
-    "tikName": "Мордовская"
+    "tikName": "Мордовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 181,
     "uikTvd": "468401072545",
+    "uikName": "УИК  181",
     "tikTvd": "268200079034",
-    "tikName": "Мордовская"
+    "tikName": "Мордовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 182,
     "uikTvd": "468401072546",
+    "uikName": "УИК  182",
     "tikTvd": "268200079034",
-    "tikName": "Мордовская"
+    "tikName": "Мордовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 183,
     "uikTvd": "468401072547",
+    "uikName": "УИК  183",
     "tikTvd": "268200079034",
-    "tikName": "Мордовская"
+    "tikName": "Мордовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 184,
     "uikTvd": "468401072548",
+    "uikName": "УИК  184",
     "tikTvd": "268200079034",
-    "tikName": "Мордовская"
+    "tikName": "Мордовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 185,
     "uikTvd": "468401072549",
+    "uikName": "УИК  185",
     "tikTvd": "268200079034",
-    "tikName": "Мордовская"
+    "tikName": "Мордовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 186,
     "uikTvd": "468401072550",
+    "uikName": "УИК  186",
     "tikTvd": "268200079034",
-    "tikName": "Мордовская"
+    "tikName": "Мордовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 187,
     "uikTvd": "468401072551",
+    "uikName": "УИК  187",
     "tikTvd": "268200079034",
-    "tikName": "Мордовская"
+    "tikName": "Мордовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 188,
     "uikTvd": "468401072552",
+    "uikName": "УИК  188",
     "tikTvd": "268200079034",
-    "tikName": "Мордовская"
+    "tikName": "Мордовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 189,
     "uikTvd": "468401072553",
+    "uikName": "УИК  189",
     "tikTvd": "268200079034",
-    "tikName": "Мордовская"
+    "tikName": "Мордовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 190,
     "uikTvd": "468401072554",
+    "uikName": "УИК  190",
     "tikTvd": "268200079034",
-    "tikName": "Мордовская"
+    "tikName": "Мордовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 191,
     "uikTvd": "468401072555",
+    "uikName": "УИК  191",
     "tikTvd": "268200079034",
-    "tikName": "Мордовская"
+    "tikName": "Мордовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 192,
     "uikTvd": "468401072556",
+    "uikName": "УИК  192",
     "tikTvd": "268200079034",
-    "tikName": "Мордовская"
+    "tikName": "Мордовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 193,
     "uikTvd": "468401072557",
+    "uikName": "УИК  193",
     "tikTvd": "268200079034",
-    "tikName": "Мордовская"
+    "tikName": "Мордовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 194,
     "uikTvd": "468401072558",
+    "uikName": "УИК  194",
     "tikTvd": "268200079034",
-    "tikName": "Мордовская"
+    "tikName": "Мордовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 195,
     "uikTvd": "468401072559",
+    "uikName": "УИК  195",
     "tikTvd": "268200079034",
-    "tikName": "Мордовская"
+    "tikName": "Мордовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 196,
     "uikTvd": "468401072560",
+    "uikName": "УИК  196",
     "tikTvd": "268200079034",
-    "tikName": "Мордовская"
+    "tikName": "Мордовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 197,
     "uikTvd": "468401072561",
+    "uikName": "УИК  197",
     "tikTvd": "268200079034",
-    "tikName": "Мордовская"
+    "tikName": "Мордовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 198,
     "uikTvd": "468401072562",
+    "uikName": "УИК  198",
     "tikTvd": "268200079034",
-    "tikName": "Мордовская"
+    "tikName": "Мордовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 199,
     "uikTvd": "468401072563",
+    "uikName": "УИК  199",
     "tikTvd": "268200079034",
-    "tikName": "Мордовская"
+    "tikName": "Мордовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 200,
     "uikTvd": "468401072564",
+    "uikName": "УИК  200",
     "tikTvd": "268200079034",
-    "tikName": "Мордовская"
+    "tikName": "Мордовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 201,
     "uikTvd": "468401173381",
+    "uikName": "УИК  201",
     "tikTvd": "268200079033",
-    "tikName": "Моршанская"
+    "tikName": "Моршанская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 202,
     "uikTvd": "468401173382",
+    "uikName": "УИК  202",
     "tikTvd": "268200079033",
-    "tikName": "Моршанская"
+    "tikName": "Моршанская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 203,
     "uikTvd": "468401173383",
+    "uikName": "УИК  203",
     "tikTvd": "268200079033",
-    "tikName": "Моршанская"
+    "tikName": "Моршанская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 204,
     "uikTvd": "468401173384",
+    "uikName": "УИК  204",
     "tikTvd": "268200079033",
-    "tikName": "Моршанская"
+    "tikName": "Моршанская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 205,
     "uikTvd": "468401173385",
+    "uikName": "УИК  205",
     "tikTvd": "268200079033",
-    "tikName": "Моршанская"
+    "tikName": "Моршанская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 206,
     "uikTvd": "468401173386",
+    "uikName": "УИК  206",
     "tikTvd": "268200079033",
-    "tikName": "Моршанская"
+    "tikName": "Моршанская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 207,
     "uikTvd": "468401173387",
+    "uikName": "УИК  207",
     "tikTvd": "268200079033",
-    "tikName": "Моршанская"
+    "tikName": "Моршанская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 208,
     "uikTvd": "468401173388",
+    "uikName": "УИК  208",
     "tikTvd": "268200079033",
-    "tikName": "Моршанская"
+    "tikName": "Моршанская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 209,
     "uikTvd": "468401173389",
+    "uikName": "УИК  209",
     "tikTvd": "268200079033",
-    "tikName": "Моршанская"
+    "tikName": "Моршанская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 210,
     "uikTvd": "468401173390",
+    "uikName": "УИК  210",
     "tikTvd": "268200079033",
-    "tikName": "Моршанская"
+    "tikName": "Моршанская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 211,
     "uikTvd": "468401173391",
+    "uikName": "УИК  211",
     "tikTvd": "268200079033",
-    "tikName": "Моршанская"
+    "tikName": "Моршанская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 212,
     "uikTvd": "468401173392",
+    "uikName": "УИК  212",
     "tikTvd": "268200079033",
-    "tikName": "Моршанская"
+    "tikName": "Моршанская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 213,
     "uikTvd": "468401173393",
+    "uikName": "УИК  213",
     "tikTvd": "268200079033",
-    "tikName": "Моршанская"
+    "tikName": "Моршанская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 214,
     "uikTvd": "468401173394",
+    "uikName": "УИК  214",
     "tikTvd": "268200079033",
-    "tikName": "Моршанская"
+    "tikName": "Моршанская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 215,
     "uikTvd": "468401173395",
+    "uikName": "УИК  215",
     "tikTvd": "268200079033",
-    "tikName": "Моршанская"
+    "tikName": "Моршанская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 216,
     "uikTvd": "468401173396",
+    "uikName": "УИК  216",
     "tikTvd": "268200079033",
-    "tikName": "Моршанская"
+    "tikName": "Моршанская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 217,
     "uikTvd": "468401173397",
+    "uikName": "УИК  217",
     "tikTvd": "268200079033",
-    "tikName": "Моршанская"
+    "tikName": "Моршанская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 218,
     "uikTvd": "468401173398",
+    "uikName": "УИК  218",
     "tikTvd": "268200079033",
-    "tikName": "Моршанская"
+    "tikName": "Моршанская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 219,
     "uikTvd": "468401173399",
+    "uikName": "УИК  219",
     "tikTvd": "268200079033",
-    "tikName": "Моршанская"
+    "tikName": "Моршанская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 220,
     "uikTvd": "468401173400",
+    "uikName": "УИК  220",
     "tikTvd": "268200079033",
-    "tikName": "Моршанская"
+    "tikName": "Моршанская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 221,
     "uikTvd": "468401173401",
+    "uikName": "УИК  221",
     "tikTvd": "268200079033",
-    "tikName": "Моршанская"
+    "tikName": "Моршанская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 222,
     "uikTvd": "468401173402",
+    "uikName": "УИК  222",
     "tikTvd": "268200079033",
-    "tikName": "Моршанская"
+    "tikName": "Моршанская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 223,
     "uikTvd": "468401173403",
+    "uikName": "УИК  223",
     "tikTvd": "268200079033",
-    "tikName": "Моршанская"
+    "tikName": "Моршанская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 224,
     "uikTvd": "468401173404",
+    "uikName": "УИК  224",
     "tikTvd": "268200079033",
-    "tikName": "Моршанская"
+    "tikName": "Моршанская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 225,
     "uikTvd": "468401173405",
+    "uikName": "УИК  225",
     "tikTvd": "268200079033",
-    "tikName": "Моршанская"
+    "tikName": "Моршанская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 226,
     "uikTvd": "468401173406",
+    "uikName": "УИК  226",
     "tikTvd": "268200079033",
-    "tikName": "Моршанская"
+    "tikName": "Моршанская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 227,
     "uikTvd": "468401173407",
+    "uikName": "УИК  227",
     "tikTvd": "268200079033",
-    "tikName": "Моршанская"
+    "tikName": "Моршанская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 228,
     "uikTvd": "468401173408",
+    "uikName": "УИК  228",
     "tikTvd": "268200079033",
-    "tikName": "Моршанская"
+    "tikName": "Моршанская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 229,
     "uikTvd": "468401173409",
+    "uikName": "УИК  229",
     "tikTvd": "268200079033",
-    "tikName": "Моршанская"
+    "tikName": "Моршанская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 230,
     "uikTvd": "468401173410",
+    "uikName": "УИК  230",
     "tikTvd": "268200079033",
-    "tikName": "Моршанская"
+    "tikName": "Моршанская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 231,
     "uikTvd": "468401173411",
+    "uikName": "УИК  231",
     "tikTvd": "268200079033",
-    "tikName": "Моршанская"
+    "tikName": "Моршанская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 232,
     "uikTvd": "468401173412",
+    "uikName": "УИК  232",
     "tikTvd": "268200079033",
-    "tikName": "Моршанская"
+    "tikName": "Моршанская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 233,
     "uikTvd": "468401173413",
+    "uikName": "УИК  233",
     "tikTvd": "268200079033",
-    "tikName": "Моршанская"
+    "tikName": "Моршанская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 234,
     "uikTvd": "468401173414",
+    "uikName": "УИК  234",
     "tikTvd": "268200079033",
-    "tikName": "Моршанская"
+    "tikName": "Моршанская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 235,
     "uikTvd": "468401173415",
+    "uikName": "УИК  235",
     "tikTvd": "268200079033",
-    "tikName": "Моршанская"
+    "tikName": "Моршанская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 236,
     "uikTvd": "468401173416",
+    "uikName": "УИК  236",
     "tikTvd": "268200079033",
-    "tikName": "Моршанская"
+    "tikName": "Моршанская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 237,
     "uikTvd": "468401173417",
+    "uikName": "УИК  237",
     "tikTvd": "268200079033",
-    "tikName": "Моршанская"
+    "tikName": "Моршанская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 238,
     "uikTvd": "468401173418",
+    "uikName": "УИК  238",
     "tikTvd": "268200079033",
-    "tikName": "Моршанская"
+    "tikName": "Моршанская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 239,
     "uikTvd": "468401173419",
+    "uikName": "УИК  239",
     "tikTvd": "268200079033",
-    "tikName": "Моршанская"
+    "tikName": "Моршанская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 240,
     "uikTvd": "468401173420",
+    "uikName": "УИК  240",
     "tikTvd": "268200079033",
-    "tikName": "Моршанская"
+    "tikName": "Моршанская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 241,
     "uikTvd": "468401173442",
+    "uikName": "УИК  241",
     "tikTvd": "268200079033",
-    "tikName": "Моршанская"
+    "tikName": "Моршанская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 242,
     "uikTvd": "468401173443",
+    "uikName": "УИК  242",
     "tikTvd": "268200079033",
-    "tikName": "Моршанская"
+    "tikName": "Моршанская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 243,
     "uikTvd": "468401173444",
+    "uikName": "УИК  243",
     "tikTvd": "268200079033",
-    "tikName": "Моршанская"
+    "tikName": "Моршанская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 244,
     "uikTvd": "468401173445",
+    "uikName": "УИК  244",
     "tikTvd": "268200079033",
-    "tikName": "Моршанская"
+    "tikName": "Моршанская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 245,
     "uikTvd": "468401173446",
+    "uikName": "УИК  245",
     "tikTvd": "268200079033",
-    "tikName": "Моршанская"
+    "tikName": "Моршанская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 246,
     "uikTvd": "468401173447",
+    "uikName": "УИК  246",
     "tikTvd": "268200079033",
-    "tikName": "Моршанская"
+    "tikName": "Моршанская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 247,
     "uikTvd": "468401173448",
+    "uikName": "УИК  247",
     "tikTvd": "268200079033",
-    "tikName": "Моршанская"
+    "tikName": "Моршанская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 248,
     "uikTvd": "468401173449",
+    "uikName": "УИК  248",
     "tikTvd": "268200079033",
-    "tikName": "Моршанская"
+    "tikName": "Моршанская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 249,
     "uikTvd": "468401173450",
+    "uikName": "УИК  249",
     "tikTvd": "268200079033",
-    "tikName": "Моршанская"
+    "tikName": "Моршанская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 250,
     "uikTvd": "468401173451",
+    "uikName": "УИК  250",
     "tikTvd": "268200079033",
-    "tikName": "Моршанская"
+    "tikName": "Моршанская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 251,
     "uikTvd": "468401173452",
+    "uikName": "УИК  251",
     "tikTvd": "268200079033",
-    "tikName": "Моршанская"
+    "tikName": "Моршанская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 252,
     "uikTvd": "468401173453",
+    "uikName": "УИК  252",
     "tikTvd": "268200079033",
-    "tikName": "Моршанская"
+    "tikName": "Моршанская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 253,
     "uikTvd": "468401173454",
+    "uikName": "УИК  253",
     "tikTvd": "268200079033",
-    "tikName": "Моршанская"
+    "tikName": "Моршанская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 254,
     "uikTvd": "468401173455",
+    "uikName": "УИК  254",
     "tikTvd": "268200079033",
-    "tikName": "Моршанская"
+    "tikName": "Моршанская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 255,
     "uikTvd": "468401173456",
+    "uikName": "УИК  255",
     "tikTvd": "268200079033",
-    "tikName": "Моршанская"
+    "tikName": "Моршанская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 256,
     "uikTvd": "468401173457",
+    "uikName": "УИК  256",
     "tikTvd": "268200079033",
-    "tikName": "Моршанская"
+    "tikName": "Моршанская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 257,
     "uikTvd": "468401173458",
+    "uikName": "УИК  257",
     "tikTvd": "268200079033",
-    "tikName": "Моршанская"
+    "tikName": "Моршанская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 258,
     "uikTvd": "468401173459",
+    "uikName": "УИК  258",
     "tikTvd": "268200079033",
-    "tikName": "Моршанская"
+    "tikName": "Моршанская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 259,
     "uikTvd": "468401173460",
+    "uikName": "УИК  259",
     "tikTvd": "268200079033",
-    "tikName": "Моршанская"
+    "tikName": "Моршанская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 260,
     "uikTvd": "468401173461",
+    "uikName": "УИК  260",
     "tikTvd": "268200079033",
-    "tikName": "Моршанская"
+    "tikName": "Моршанская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 261,
     "uikTvd": "468401173462",
+    "uikName": "УИК  261",
     "tikTvd": "268200079033",
-    "tikName": "Моршанская"
+    "tikName": "Моршанская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 262,
     "uikTvd": "468401173463",
+    "uikName": "УИК  262",
     "tikTvd": "268200079033",
-    "tikName": "Моршанская"
+    "tikName": "Моршанская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 263,
     "uikTvd": "468403071730",
+    "uikName": "УИК №263",
     "tikTvd": "268200079059",
-    "tikName": "Моршанская городская"
+    "tikName": "Моршанская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 264,
     "uikTvd": "468403071731",
+    "uikName": "УИК №264",
     "tikTvd": "268200079059",
-    "tikName": "Моршанская городская"
+    "tikName": "Моршанская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 265,
     "uikTvd": "468403071732",
+    "uikName": "УИК №265",
     "tikTvd": "268200079059",
-    "tikName": "Моршанская городская"
+    "tikName": "Моршанская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 266,
     "uikTvd": "468403071733",
+    "uikName": "УИК №266",
     "tikTvd": "268200079059",
-    "tikName": "Моршанская городская"
+    "tikName": "Моршанская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 267,
     "uikTvd": "468403071734",
+    "uikName": "УИК №267",
     "tikTvd": "268200079059",
-    "tikName": "Моршанская городская"
+    "tikName": "Моршанская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 268,
     "uikTvd": "468403071735",
+    "uikName": "УИК №268",
     "tikTvd": "268200079059",
-    "tikName": "Моршанская городская"
+    "tikName": "Моршанская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 269,
     "uikTvd": "468403071736",
+    "uikName": "УИК №269",
     "tikTvd": "268200079059",
-    "tikName": "Моршанская городская"
+    "tikName": "Моршанская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 270,
     "uikTvd": "468403071737",
+    "uikName": "УИК №270",
     "tikTvd": "268200079059",
-    "tikName": "Моршанская городская"
+    "tikName": "Моршанская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 271,
     "uikTvd": "468403071738",
+    "uikName": "УИК №271",
     "tikTvd": "268200079059",
-    "tikName": "Моршанская городская"
+    "tikName": "Моршанская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 272,
     "uikTvd": "468403071739",
+    "uikName": "УИК №272",
     "tikTvd": "268200079059",
-    "tikName": "Моршанская городская"
+    "tikName": "Моршанская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 273,
     "uikTvd": "468403071740",
+    "uikName": "УИК №273",
     "tikTvd": "268200079059",
-    "tikName": "Моршанская городская"
+    "tikName": "Моршанская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 274,
     "uikTvd": "468403071741",
+    "uikName": "УИК №274",
     "tikTvd": "268200079059",
-    "tikName": "Моршанская городская"
+    "tikName": "Моршанская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 275,
     "uikTvd": "468403071742",
+    "uikName": "УИК №275",
     "tikTvd": "268200079059",
-    "tikName": "Моршанская городская"
+    "tikName": "Моршанская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 276,
     "uikTvd": "468403071743",
+    "uikName": "УИК №276",
     "tikTvd": "268200079059",
-    "tikName": "Моршанская городская"
+    "tikName": "Моршанская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 277,
     "uikTvd": "468403071744",
+    "uikName": "УИК №277",
     "tikTvd": "268200079059",
-    "tikName": "Моршанская городская"
+    "tikName": "Моршанская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 278,
     "uikTvd": "468403071745",
+    "uikName": "УИК №278",
     "tikTvd": "268200079059",
-    "tikName": "Моршанская городская"
+    "tikName": "Моршанская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 279,
     "uikTvd": "468403071746",
+    "uikName": "УИК №279",
     "tikTvd": "268200079059",
-    "tikName": "Моршанская городская"
+    "tikName": "Моршанская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 280,
     "uikTvd": "468403071747",
+    "uikName": "УИК №280",
     "tikTvd": "268200079059",
-    "tikName": "Моршанская городская"
+    "tikName": "Моршанская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 281,
     "uikTvd": "468403071748",
+    "uikName": "УИК №281",
     "tikTvd": "268200079059",
-    "tikName": "Моршанская городская"
+    "tikName": "Моршанская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 282,
     "uikTvd": "468403071749",
+    "uikName": "УИК №282",
     "tikTvd": "268200079059",
-    "tikName": "Моршанская городская"
+    "tikName": "Моршанская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 283,
     "uikTvd": "468403071750",
+    "uikName": "УИК №283",
     "tikTvd": "268200079059",
-    "tikName": "Моршанская городская"
+    "tikName": "Моршанская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 284,
     "uikTvd": "468403071751",
+    "uikName": "УИК №284",
     "tikTvd": "268200079059",
-    "tikName": "Моршанская городская"
+    "tikName": "Моршанская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 285,
     "uikTvd": "468403071752",
+    "uikName": "УИК №285",
     "tikTvd": "268200079059",
-    "tikName": "Моршанская городская"
+    "tikName": "Моршанская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 286,
     "uikTvd": "468401371917",
+    "uikName": "УИК №286",
     "tikTvd": "268200079031",
-    "tikName": "Никифоровская"
+    "tikName": "Никифоровская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 287,
     "uikTvd": "468401371919",
+    "uikName": "УИК №287",
     "tikTvd": "268200079031",
-    "tikName": "Никифоровская"
+    "tikName": "Никифоровская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 288,
     "uikTvd": "468401371921",
+    "uikName": "УИК №288",
     "tikTvd": "268200079031",
-    "tikName": "Никифоровская"
+    "tikName": "Никифоровская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 289,
     "uikTvd": "468401371923",
+    "uikName": "УИК №289",
     "tikTvd": "268200079031",
-    "tikName": "Никифоровская"
+    "tikName": "Никифоровская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 291,
     "uikTvd": "468401371926",
+    "uikName": "УИК №291",
     "tikTvd": "268200079031",
-    "tikName": "Никифоровская"
+    "tikName": "Никифоровская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 292,
     "uikTvd": "468401371927",
+    "uikName": "УИК №292",
     "tikTvd": "268200079031",
-    "tikName": "Никифоровская"
+    "tikName": "Никифоровская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 293,
     "uikTvd": "468401371928",
+    "uikName": "УИК №293",
     "tikTvd": "268200079031",
-    "tikName": "Никифоровская"
+    "tikName": "Никифоровская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 294,
     "uikTvd": "468401371929",
+    "uikName": "УИК №294",
     "tikTvd": "268200079031",
-    "tikName": "Никифоровская"
+    "tikName": "Никифоровская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 295,
     "uikTvd": "468401371930",
+    "uikName": "УИК №295",
     "tikTvd": "268200079031",
-    "tikName": "Никифоровская"
+    "tikName": "Никифоровская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 296,
     "uikTvd": "468401371931",
+    "uikName": "УИК №296",
     "tikTvd": "268200079031",
-    "tikName": "Никифоровская"
+    "tikName": "Никифоровская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 297,
     "uikTvd": "468401371932",
+    "uikName": "УИК №297",
     "tikTvd": "268200079031",
-    "tikName": "Никифоровская"
+    "tikName": "Никифоровская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 298,
     "uikTvd": "468401371933",
+    "uikName": "УИК №298",
     "tikTvd": "268200079031",
-    "tikName": "Никифоровская"
+    "tikName": "Никифоровская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 299,
     "uikTvd": "468401371934",
+    "uikName": "УИК №299",
     "tikTvd": "268200079031",
-    "tikName": "Никифоровская"
+    "tikName": "Никифоровская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 300,
     "uikTvd": "468401371935",
+    "uikName": "УИК №300",
     "tikTvd": "268200079031",
-    "tikName": "Никифоровская"
+    "tikName": "Никифоровская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 301,
     "uikTvd": "468401371936",
+    "uikName": "УИК №301",
     "tikTvd": "268200079031",
-    "tikName": "Никифоровская"
+    "tikName": "Никифоровская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 302,
     "uikTvd": "468401371937",
+    "uikName": "УИК №302",
     "tikTvd": "268200079031",
-    "tikName": "Никифоровская"
+    "tikName": "Никифоровская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 303,
     "uikTvd": "468401371938",
+    "uikName": "УИК №303",
     "tikTvd": "268200079031",
-    "tikName": "Никифоровская"
+    "tikName": "Никифоровская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 304,
     "uikTvd": "468401371939",
+    "uikName": "УИК №304",
     "tikTvd": "268200079031",
-    "tikName": "Никифоровская"
+    "tikName": "Никифоровская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 305,
     "uikTvd": "468401371940",
+    "uikName": "УИК №305",
     "tikTvd": "268200079031",
-    "tikName": "Никифоровская"
+    "tikName": "Никифоровская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 306,
     "uikTvd": "468401371941",
+    "uikName": "УИК №306",
     "tikTvd": "268200079031",
-    "tikName": "Никифоровская"
+    "tikName": "Никифоровская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 307,
     "uikTvd": "468401371942",
+    "uikName": "УИК №307",
     "tikTvd": "268200079031",
-    "tikName": "Никифоровская"
+    "tikName": "Никифоровская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 308,
     "uikTvd": "468401371943",
+    "uikName": "УИК №308",
     "tikTvd": "268200079031",
-    "tikName": "Никифоровская"
+    "tikName": "Никифоровская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 309,
     "uikTvd": "468401371944",
+    "uikName": "УИК №309",
     "tikTvd": "268200079031",
-    "tikName": "Никифоровская"
+    "tikName": "Никифоровская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 310,
     "uikTvd": "468401371945",
+    "uikName": "УИК №310",
     "tikTvd": "268200079031",
-    "tikName": "Никифоровская"
+    "tikName": "Никифоровская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 311,
     "uikTvd": "468401371946",
+    "uikName": "УИК №311",
     "tikTvd": "268200079031",
-    "tikName": "Никифоровская"
+    "tikName": "Никифоровская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 312,
     "uikTvd": "468401371947",
+    "uikName": "УИК №312",
     "tikTvd": "268200079031",
-    "tikName": "Никифоровская"
+    "tikName": "Никифоровская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 313,
     "uikTvd": "468401371948",
+    "uikName": "УИК №313",
     "tikTvd": "268200079031",
-    "tikName": "Никифоровская"
+    "tikName": "Никифоровская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 314,
     "uikTvd": "468401371949",
+    "uikName": "УИК №314",
     "tikTvd": "268200079031",
-    "tikName": "Никифоровская"
+    "tikName": "Никифоровская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 315,
     "uikTvd": "468401371950",
+    "uikName": "УИК №315",
     "tikTvd": "268200079031",
-    "tikName": "Никифоровская"
+    "tikName": "Никифоровская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 316,
     "uikTvd": "468401371951",
+    "uikName": "УИК №316",
     "tikTvd": "268200079031",
-    "tikName": "Никифоровская"
+    "tikName": "Никифоровская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 317,
     "uikTvd": "468401472130",
+    "uikName": "УИК №317",
     "tikTvd": "268200079030",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 318,
     "uikTvd": "468401472131",
+    "uikName": "УИК №318",
     "tikTvd": "268200079030",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 319,
     "uikTvd": "468401472132",
+    "uikName": "УИК №319",
     "tikTvd": "268200079030",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 320,
     "uikTvd": "468401472133",
+    "uikName": "УИК №320",
     "tikTvd": "268200079030",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 321,
     "uikTvd": "468401472134",
+    "uikName": "УИК №321",
     "tikTvd": "268200079030",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 322,
     "uikTvd": "468401472135",
+    "uikName": "УИК №322",
     "tikTvd": "268200079030",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 323,
     "uikTvd": "468401472136",
+    "uikName": "УИК №323",
     "tikTvd": "268200079030",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 324,
     "uikTvd": "468401472137",
+    "uikName": "УИК №324",
     "tikTvd": "268200079030",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 325,
     "uikTvd": "468401472138",
+    "uikName": "УИК №325",
     "tikTvd": "268200079030",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 326,
     "uikTvd": "468401472139",
+    "uikName": "УИК №326",
     "tikTvd": "268200079030",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 327,
     "uikTvd": "468401472140",
+    "uikName": "УИК №327",
     "tikTvd": "268200079030",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 328,
     "uikTvd": "468401472141",
+    "uikName": "УИК №328",
     "tikTvd": "268200079030",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 329,
     "uikTvd": "468401472142",
+    "uikName": "УИК №329",
     "tikTvd": "268200079030",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 330,
     "uikTvd": "468401472143",
+    "uikName": "УИК №330",
     "tikTvd": "268200079030",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 331,
     "uikTvd": "468401472144",
+    "uikName": "УИК №331",
     "tikTvd": "268200079030",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 332,
     "uikTvd": "468401472145",
+    "uikName": "УИК №332",
     "tikTvd": "268200079030",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 333,
     "uikTvd": "468401472146",
+    "uikName": "УИК №333",
     "tikTvd": "268200079030",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 334,
     "uikTvd": "468401472147",
+    "uikName": "УИК №334",
     "tikTvd": "268200079030",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 335,
     "uikTvd": "468401472148",
+    "uikName": "УИК №335",
     "tikTvd": "268200079030",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 336,
     "uikTvd": "468401472149",
+    "uikName": "УИК №336",
     "tikTvd": "268200079030",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 337,
     "uikTvd": "468401472150",
+    "uikName": "УИК №337",
     "tikTvd": "268200079030",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 338,
     "uikTvd": "468401472151",
+    "uikName": "УИК №338",
     "tikTvd": "268200079030",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 339,
     "uikTvd": "468401472152",
+    "uikName": "УИК №339",
     "tikTvd": "268200079030",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 340,
     "uikTvd": "468401472153",
+    "uikName": "УИК №340",
     "tikTvd": "268200079030",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 341,
     "uikTvd": "468401472154",
+    "uikName": "УИК №341",
     "tikTvd": "268200079030",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 342,
     "uikTvd": "468401472155",
+    "uikName": "УИК №342",
     "tikTvd": "268200079030",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 343,
     "uikTvd": "468401472156",
+    "uikName": "УИК №343",
     "tikTvd": "268200079030",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 344,
     "uikTvd": "468401472157",
+    "uikName": "УИК №344",
     "tikTvd": "268200079030",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 345,
     "uikTvd": "468401472158",
+    "uikName": "УИК №345",
     "tikTvd": "268200079030",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 346,
     "uikTvd": "468401472159",
+    "uikName": "УИК №346",
     "tikTvd": "268200079030",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 347,
     "uikTvd": "468401472160",
+    "uikName": "УИК №347",
     "tikTvd": "268200079030",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 348,
     "uikTvd": "468401573251",
+    "uikName": "УИК  348",
     "tikTvd": "268200079029",
-    "tikName": "Петровская"
+    "tikName": "Петровская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 349,
     "uikTvd": "468401573252",
+    "uikName": "УИК  349",
     "tikTvd": "268200079029",
-    "tikName": "Петровская"
+    "tikName": "Петровская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 350,
     "uikTvd": "468401573253",
+    "uikName": "УИК  350",
     "tikTvd": "268200079029",
-    "tikName": "Петровская"
+    "tikName": "Петровская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 351,
     "uikTvd": "468401573254",
+    "uikName": "УИК  351",
     "tikTvd": "268200079029",
-    "tikName": "Петровская"
+    "tikName": "Петровская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 352,
     "uikTvd": "468401573255",
+    "uikName": "УИК  352",
     "tikTvd": "268200079029",
-    "tikName": "Петровская"
+    "tikName": "Петровская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 353,
     "uikTvd": "468401573256",
+    "uikName": "УИК  353",
     "tikTvd": "268200079029",
-    "tikName": "Петровская"
+    "tikName": "Петровская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 354,
     "uikTvd": "468401573257",
+    "uikName": "УИК  354",
     "tikTvd": "268200079029",
-    "tikName": "Петровская"
+    "tikName": "Петровская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 355,
     "uikTvd": "468401573258",
+    "uikName": "УИК  355",
     "tikTvd": "268200079029",
-    "tikName": "Петровская"
+    "tikName": "Петровская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 356,
     "uikTvd": "468401573259",
+    "uikName": "УИК  356",
     "tikTvd": "268200079029",
-    "tikName": "Петровская"
+    "tikName": "Петровская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 357,
     "uikTvd": "468401573260",
+    "uikName": "УИК  357",
     "tikTvd": "268200079029",
-    "tikName": "Петровская"
+    "tikName": "Петровская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 358,
     "uikTvd": "468401573261",
+    "uikName": "УИК  358",
     "tikTvd": "268200079029",
-    "tikName": "Петровская"
+    "tikName": "Петровская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 359,
     "uikTvd": "468401573262",
+    "uikName": "УИК  359",
     "tikTvd": "268200079029",
-    "tikName": "Петровская"
+    "tikName": "Петровская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 360,
     "uikTvd": "468401573263",
+    "uikName": "УИК  360",
     "tikTvd": "268200079029",
-    "tikName": "Петровская"
+    "tikName": "Петровская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 361,
     "uikTvd": "468401573264",
+    "uikName": "УИК  361",
     "tikTvd": "268200079029",
-    "tikName": "Петровская"
+    "tikName": "Петровская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 362,
     "uikTvd": "468401573265",
+    "uikName": "УИК  362",
     "tikTvd": "268200079029",
-    "tikName": "Петровская"
+    "tikName": "Петровская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 363,
     "uikTvd": "468401573266",
+    "uikName": "УИК  363",
     "tikTvd": "268200079029",
-    "tikName": "Петровская"
+    "tikName": "Петровская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 364,
     "uikTvd": "468401573287",
+    "uikName": "УИК  364",
     "tikTvd": "268200079029",
-    "tikName": "Петровская"
+    "tikName": "Петровская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 365,
     "uikTvd": "468401573267",
+    "uikName": "УИК  365",
     "tikTvd": "268200079029",
-    "tikName": "Петровская"
+    "tikName": "Петровская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 366,
     "uikTvd": "468401573268",
+    "uikName": "УИК  366",
     "tikTvd": "268200079029",
-    "tikName": "Петровская"
+    "tikName": "Петровская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 367,
     "uikTvd": "468401573269",
+    "uikName": "УИК  367",
     "tikTvd": "268200079029",
-    "tikName": "Петровская"
+    "tikName": "Петровская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 368,
     "uikTvd": "468401573271",
+    "uikName": "УИК  368",
     "tikTvd": "268200079029",
-    "tikName": "Петровская"
+    "tikName": "Петровская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 369,
     "uikTvd": "468401573272",
+    "uikName": "УИК  369",
     "tikTvd": "268200079029",
-    "tikName": "Петровская"
+    "tikName": "Петровская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 370,
     "uikTvd": "468401573273",
+    "uikName": "УИК  370",
     "tikTvd": "268200079029",
-    "tikName": "Петровская"
+    "tikName": "Петровская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 371,
     "uikTvd": "468401573274",
+    "uikName": "УИК  371",
     "tikTvd": "268200079029",
-    "tikName": "Петровская"
+    "tikName": "Петровская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 372,
     "uikTvd": "468401573275",
+    "uikName": "УИК  372",
     "tikTvd": "268200079029",
-    "tikName": "Петровская"
+    "tikName": "Петровская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 373,
     "uikTvd": "468401573276",
+    "uikName": "УИК  373",
     "tikTvd": "268200079029",
-    "tikName": "Петровская"
+    "tikName": "Петровская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 374,
     "uikTvd": "468401573277",
+    "uikName": "УИК  374",
     "tikTvd": "268200079029",
-    "tikName": "Петровская"
+    "tikName": "Петровская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 376,
     "uikTvd": "468401573278",
+    "uikName": "УИК  376",
     "tikTvd": "268200079029",
-    "tikName": "Петровская"
+    "tikName": "Петровская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 377,
     "uikTvd": "468401573279",
+    "uikName": "УИК  377",
     "tikTvd": "268200079029",
-    "tikName": "Петровская"
+    "tikName": "Петровская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 378,
     "uikTvd": "468401573280",
+    "uikName": "УИК  378",
     "tikTvd": "268200079029",
-    "tikName": "Петровская"
+    "tikName": "Петровская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 379,
     "uikTvd": "468401573281",
+    "uikName": "УИК  379",
     "tikTvd": "268200079029",
-    "tikName": "Петровская"
+    "tikName": "Петровская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 380,
     "uikTvd": "468401573282",
+    "uikName": "УИК  380",
     "tikTvd": "268200079029",
-    "tikName": "Петровская"
+    "tikName": "Петровская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 381,
     "uikTvd": "468401573283",
+    "uikName": "УИК  381",
     "tikTvd": "268200079029",
-    "tikName": "Петровская"
+    "tikName": "Петровская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 382,
     "uikTvd": "468401573284",
+    "uikName": "УИК  382",
     "tikTvd": "268200079029",
-    "tikName": "Петровская"
+    "tikName": "Петровская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 383,
     "uikTvd": "468401573285",
+    "uikName": "УИК  383",
     "tikTvd": "268200079029",
-    "tikName": "Петровская"
+    "tikName": "Петровская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 384,
     "uikTvd": "468401573286",
+    "uikName": "УИК  384",
     "tikTvd": "268200079029",
-    "tikName": "Петровская"
+    "tikName": "Петровская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 385,
     "uikTvd": "468401672305",
+    "uikName": "УИК №385",
     "tikTvd": "268200079056",
-    "tikName": "Пичаевская"
+    "tikName": "Пичаевская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 386,
     "uikTvd": "468401672306",
+    "uikName": "УИК №386",
     "tikTvd": "268200079056",
-    "tikName": "Пичаевская"
+    "tikName": "Пичаевская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 387,
     "uikTvd": "468401672307",
+    "uikName": "УИК №387",
     "tikTvd": "268200079056",
-    "tikName": "Пичаевская"
+    "tikName": "Пичаевская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 388,
     "uikTvd": "468401672308",
+    "uikName": "УИК №388",
     "tikTvd": "268200079056",
-    "tikName": "Пичаевская"
+    "tikName": "Пичаевская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 389,
     "uikTvd": "468401672309",
+    "uikName": "УИК №389",
     "tikTvd": "268200079056",
-    "tikName": "Пичаевская"
+    "tikName": "Пичаевская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 390,
     "uikTvd": "468401672310",
+    "uikName": "УИК №390",
     "tikTvd": "268200079056",
-    "tikName": "Пичаевская"
+    "tikName": "Пичаевская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 391,
     "uikTvd": "468401672311",
+    "uikName": "УИК №391",
     "tikTvd": "268200079056",
-    "tikName": "Пичаевская"
+    "tikName": "Пичаевская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 392,
     "uikTvd": "468401672312",
+    "uikName": "УИК №392",
     "tikTvd": "268200079056",
-    "tikName": "Пичаевская"
+    "tikName": "Пичаевская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 393,
     "uikTvd": "468401672313",
+    "uikName": "УИК №393",
     "tikTvd": "268200079056",
-    "tikName": "Пичаевская"
+    "tikName": "Пичаевская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 394,
     "uikTvd": "468401672314",
+    "uikName": "УИК №394",
     "tikTvd": "268200079056",
-    "tikName": "Пичаевская"
+    "tikName": "Пичаевская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 395,
     "uikTvd": "468401672315",
+    "uikName": "УИК №395",
     "tikTvd": "268200079056",
-    "tikName": "Пичаевская"
+    "tikName": "Пичаевская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 396,
     "uikTvd": "468401672316",
+    "uikName": "УИК №396",
     "tikTvd": "268200079056",
-    "tikName": "Пичаевская"
+    "tikName": "Пичаевская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 397,
     "uikTvd": "468401672317",
+    "uikName": "УИК №397",
     "tikTvd": "268200079056",
-    "tikName": "Пичаевская"
+    "tikName": "Пичаевская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 398,
     "uikTvd": "468401672318",
+    "uikName": "УИК №398",
     "tikTvd": "268200079056",
-    "tikName": "Пичаевская"
+    "tikName": "Пичаевская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 399,
     "uikTvd": "468401672319",
+    "uikName": "УИК №399",
     "tikTvd": "268200079056",
-    "tikName": "Пичаевская"
+    "tikName": "Пичаевская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 400,
     "uikTvd": "468401672320",
+    "uikName": "УИК №400",
     "tikTvd": "268200079056",
-    "tikName": "Пичаевская"
+    "tikName": "Пичаевская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 401,
     "uikTvd": "468401672321",
+    "uikName": "УИК №401",
     "tikTvd": "268200079056",
-    "tikName": "Пичаевская"
+    "tikName": "Пичаевская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 402,
     "uikTvd": "468401672322",
+    "uikName": "УИК №402",
     "tikTvd": "268200079056",
-    "tikName": "Пичаевская"
+    "tikName": "Пичаевская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 403,
     "uikTvd": "468401672323",
+    "uikName": "УИК №403",
     "tikTvd": "268200079056",
-    "tikName": "Пичаевская"
+    "tikName": "Пичаевская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 404,
     "uikTvd": "468401672324",
+    "uikName": "УИК №404",
     "tikTvd": "268200079056",
-    "tikName": "Пичаевская"
+    "tikName": "Пичаевская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 405,
     "uikTvd": "468401672325",
+    "uikName": "УИК №405",
     "tikTvd": "268200079056",
-    "tikName": "Пичаевская"
+    "tikName": "Пичаевская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 406,
     "uikTvd": "468401672326",
+    "uikName": "УИК №406",
     "tikTvd": "268200079056",
-    "tikName": "Пичаевская"
+    "tikName": "Пичаевская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 407,
     "uikTvd": "468401672327",
+    "uikName": "УИК №407",
     "tikTvd": "268200079056",
-    "tikName": "Пичаевская"
+    "tikName": "Пичаевская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 408,
     "uikTvd": "468401672328",
+    "uikName": "УИК №408",
     "tikTvd": "268200079056",
-    "tikName": "Пичаевская"
+    "tikName": "Пичаевская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 409,
     "uikTvd": "468401872515",
+    "uikName": "УИК №409",
     "tikTvd": "268200079054",
-    "tikName": "Ржаксинская"
+    "tikName": "Ржаксинская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 410,
     "uikTvd": "468401872516",
+    "uikName": "УИК №410",
     "tikTvd": "268200079054",
-    "tikName": "Ржаксинская"
+    "tikName": "Ржаксинская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 411,
     "uikTvd": "468401872517",
+    "uikName": "УИК №411",
     "tikTvd": "268200079054",
-    "tikName": "Ржаксинская"
+    "tikName": "Ржаксинская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 412,
     "uikTvd": "468401872518",
+    "uikName": "УИК №412",
     "tikTvd": "268200079054",
-    "tikName": "Ржаксинская"
+    "tikName": "Ржаксинская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 413,
     "uikTvd": "468401872519",
+    "uikName": "УИК №413",
     "tikTvd": "268200079054",
-    "tikName": "Ржаксинская"
+    "tikName": "Ржаксинская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 414,
     "uikTvd": "468401872520",
+    "uikName": "УИК №414",
     "tikTvd": "268200079054",
-    "tikName": "Ржаксинская"
+    "tikName": "Ржаксинская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 415,
     "uikTvd": "468401872521",
+    "uikName": "УИК №415",
     "tikTvd": "268200079054",
-    "tikName": "Ржаксинская"
+    "tikName": "Ржаксинская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 416,
     "uikTvd": "468401872522",
+    "uikName": "УИК №416",
     "tikTvd": "268200079054",
-    "tikName": "Ржаксинская"
+    "tikName": "Ржаксинская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 417,
     "uikTvd": "468401872523",
+    "uikName": "УИК №417",
     "tikTvd": "268200079054",
-    "tikName": "Ржаксинская"
+    "tikName": "Ржаксинская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 418,
     "uikTvd": "468401872524",
+    "uikName": "УИК №418",
     "tikTvd": "268200079054",
-    "tikName": "Ржаксинская"
+    "tikName": "Ржаксинская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 419,
     "uikTvd": "468401872525",
+    "uikName": "УИК №419",
     "tikTvd": "268200079054",
-    "tikName": "Ржаксинская"
+    "tikName": "Ржаксинская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 420,
     "uikTvd": "468401872526",
+    "uikName": "УИК №420",
     "tikTvd": "268200079054",
-    "tikName": "Ржаксинская"
+    "tikName": "Ржаксинская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 421,
     "uikTvd": "468401872527",
+    "uikName": "УИК №421",
     "tikTvd": "268200079054",
-    "tikName": "Ржаксинская"
+    "tikName": "Ржаксинская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 422,
     "uikTvd": "468401872528",
+    "uikName": "УИК №422",
     "tikTvd": "268200079054",
-    "tikName": "Ржаксинская"
+    "tikName": "Ржаксинская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 423,
     "uikTvd": "468401872529",
+    "uikName": "УИК №423",
     "tikTvd": "268200079054",
-    "tikName": "Ржаксинская"
+    "tikName": "Ржаксинская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 424,
     "uikTvd": "468401872530",
+    "uikName": "УИК №424",
     "tikTvd": "268200079054",
-    "tikName": "Ржаксинская"
+    "tikName": "Ржаксинская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 425,
     "uikTvd": "468401872531",
+    "uikName": "УИК №425",
     "tikTvd": "268200079054",
-    "tikName": "Ржаксинская"
+    "tikName": "Ржаксинская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 426,
     "uikTvd": "468401872532",
+    "uikName": "УИК №426",
     "tikTvd": "268200079054",
-    "tikName": "Ржаксинская"
+    "tikName": "Ржаксинская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 427,
     "uikTvd": "468401872533",
+    "uikName": "УИК №427",
     "tikTvd": "268200079054",
-    "tikName": "Ржаксинская"
+    "tikName": "Ржаксинская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 428,
     "uikTvd": "468401872534",
+    "uikName": "УИК №428",
     "tikTvd": "268200079054",
-    "tikName": "Ржаксинская"
+    "tikName": "Ржаксинская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 429,
     "uikTvd": "468401872535",
+    "uikName": "УИК №429",
     "tikTvd": "268200079054",
-    "tikName": "Ржаксинская"
+    "tikName": "Ржаксинская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 430,
     "uikTvd": "468401872536",
+    "uikName": "УИК №430",
     "tikTvd": "268200079054",
-    "tikName": "Ржаксинская"
+    "tikName": "Ржаксинская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 431,
     "uikTvd": "468401872537",
+    "uikName": "УИК №431",
     "tikTvd": "268200079054",
-    "tikName": "Ржаксинская"
+    "tikName": "Ржаксинская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 432,
     "uikTvd": "468401872538",
+    "uikName": "УИК №432",
     "tikTvd": "268200079054",
-    "tikName": "Ржаксинская"
+    "tikName": "Ржаксинская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 433,
     "uikTvd": "468401872539",
+    "uikName": "УИК №433",
     "tikTvd": "268200079054",
-    "tikName": "Ржаксинская"
+    "tikName": "Ржаксинская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 434,
     "uikTvd": "468401872540",
+    "uikName": "УИК №434",
     "tikTvd": "268200079054",
-    "tikName": "Ржаксинская"
+    "tikName": "Ржаксинская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 435,
     "uikTvd": "468401872541",
+    "uikName": "УИК №435",
     "tikTvd": "268200079054",
-    "tikName": "Ржаксинская"
+    "tikName": "Ржаксинская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 436,
     "uikTvd": "468401872542",
+    "uikName": "УИК №436",
     "tikTvd": "268200079054",
-    "tikName": "Ржаксинская"
+    "tikName": "Ржаксинская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 437,
     "uikTvd": "468401872543",
+    "uikName": "УИК №437",
     "tikTvd": "268200079054",
-    "tikName": "Ржаксинская"
+    "tikName": "Ржаксинская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 438,
     "uikTvd": "468401872544",
+    "uikName": "УИК №438",
     "tikTvd": "268200079054",
-    "tikName": "Ржаксинская"
+    "tikName": "Ржаксинская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 439,
     "uikTvd": "468401872545",
+    "uikName": "УИК №439",
     "tikTvd": "268200079054",
-    "tikName": "Ржаксинская"
+    "tikName": "Ржаксинская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 440,
     "uikTvd": "468401872546",
+    "uikName": "УИК №440",
     "tikTvd": "268200079054",
-    "tikName": "Ржаксинская"
+    "tikName": "Ржаксинская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 441,
     "uikTvd": "468401872547",
+    "uikName": "УИК №441",
     "tikTvd": "268200079054",
-    "tikName": "Ржаксинская"
+    "tikName": "Ржаксинская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 442,
     "uikTvd": "468401972187",
+    "uikName": "УИК №442",
     "tikTvd": "268200079053",
-    "tikName": "Сампурская"
+    "tikName": "Сампурская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 443,
     "uikTvd": "468401972188",
+    "uikName": "УИК №443",
     "tikTvd": "268200079053",
-    "tikName": "Сампурская"
+    "tikName": "Сампурская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 444,
     "uikTvd": "468401972189",
+    "uikName": "УИК №444",
     "tikTvd": "268200079053",
-    "tikName": "Сампурская"
+    "tikName": "Сампурская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 445,
     "uikTvd": "468401972190",
+    "uikName": "УИК №445",
     "tikTvd": "268200079053",
-    "tikName": "Сампурская"
+    "tikName": "Сампурская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 446,
     "uikTvd": "468401972191",
+    "uikName": "УИК №446",
     "tikTvd": "268200079053",
-    "tikName": "Сампурская"
+    "tikName": "Сампурская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 447,
     "uikTvd": "468401972192",
+    "uikName": "УИК №447",
     "tikTvd": "268200079053",
-    "tikName": "Сампурская"
+    "tikName": "Сампурская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 448,
     "uikTvd": "468401972193",
+    "uikName": "УИК №448",
     "tikTvd": "268200079053",
-    "tikName": "Сампурская"
+    "tikName": "Сампурская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 449,
     "uikTvd": "468401972194",
+    "uikName": "УИК №449",
     "tikTvd": "268200079053",
-    "tikName": "Сампурская"
+    "tikName": "Сампурская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 450,
     "uikTvd": "468401972195",
+    "uikName": "УИК №450",
     "tikTvd": "268200079053",
-    "tikName": "Сампурская"
+    "tikName": "Сампурская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 451,
     "uikTvd": "468401972196",
+    "uikName": "УИК №451",
     "tikTvd": "268200079053",
-    "tikName": "Сампурская"
+    "tikName": "Сампурская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 452,
     "uikTvd": "468401972197",
+    "uikName": "УИК №452",
     "tikTvd": "268200079053",
-    "tikName": "Сампурская"
+    "tikName": "Сампурская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 453,
     "uikTvd": "468401972198",
+    "uikName": "УИК №453",
     "tikTvd": "268200079053",
-    "tikName": "Сампурская"
+    "tikName": "Сампурская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 454,
     "uikTvd": "468401972199",
+    "uikName": "УИК №454",
     "tikTvd": "268200079053",
-    "tikName": "Сампурская"
+    "tikName": "Сампурская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 455,
     "uikTvd": "468401972200",
+    "uikName": "УИК №455",
     "tikTvd": "268200079053",
-    "tikName": "Сампурская"
+    "tikName": "Сампурская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 456,
     "uikTvd": "468401972201",
+    "uikName": "УИК №456",
     "tikTvd": "268200079053",
-    "tikName": "Сампурская"
+    "tikName": "Сампурская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 457,
     "uikTvd": "468401972202",
+    "uikName": "УИК №457",
     "tikTvd": "268200079053",
-    "tikName": "Сампурская"
+    "tikName": "Сампурская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 458,
     "uikTvd": "468401972203",
+    "uikName": "УИК №458",
     "tikTvd": "268200079053",
-    "tikName": "Сампурская"
+    "tikName": "Сампурская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 459,
     "uikTvd": "468401972204",
+    "uikName": "УИК №459",
     "tikTvd": "268200079053",
-    "tikName": "Сампурская"
+    "tikName": "Сампурская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 460,
     "uikTvd": "468401972205",
+    "uikName": "УИК №460",
     "tikTvd": "268200079053",
-    "tikName": "Сампурская"
+    "tikName": "Сампурская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 461,
     "uikTvd": "468401972206",
+    "uikName": "УИК №461",
     "tikTvd": "268200079053",
-    "tikName": "Сампурская"
+    "tikName": "Сампурская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 462,
     "uikTvd": "468401972207",
+    "uikName": "УИК №462",
     "tikTvd": "268200079053",
-    "tikName": "Сампурская"
+    "tikName": "Сампурская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 463,
     "uikTvd": "468401972208",
+    "uikName": "УИК №463",
     "tikTvd": "268200079053",
-    "tikName": "Сампурская"
+    "tikName": "Сампурская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 464,
     "uikTvd": "468402072188",
+    "uikName": "УИК №464",
     "tikTvd": "268200079050",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 465,
     "uikTvd": "468402072189",
+    "uikName": "УИК №465",
     "tikTvd": "268200079050",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 466,
     "uikTvd": "468402072190",
+    "uikName": "УИК №466",
     "tikTvd": "268200079050",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 467,
     "uikTvd": "468402072191",
+    "uikName": "УИК №467",
     "tikTvd": "268200079050",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 468,
     "uikTvd": "468402072192",
+    "uikName": "УИК №468",
     "tikTvd": "268200079050",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 469,
     "uikTvd": "468402072193",
+    "uikName": "УИК №469",
     "tikTvd": "268200079050",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 470,
     "uikTvd": "468402072194",
+    "uikName": "УИК №470",
     "tikTvd": "268200079050",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 471,
     "uikTvd": "468402072195",
+    "uikName": "УИК №471",
     "tikTvd": "268200079050",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 472,
     "uikTvd": "468402072196",
+    "uikName": "УИК №472",
     "tikTvd": "268200079050",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 473,
     "uikTvd": "468402072197",
+    "uikName": "УИК №473",
     "tikTvd": "268200079050",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 474,
     "uikTvd": "468402072198",
+    "uikName": "УИК №474",
     "tikTvd": "268200079050",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 475,
     "uikTvd": "468402072199",
+    "uikName": "УИК №475",
     "tikTvd": "268200079050",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 476,
     "uikTvd": "468402072200",
+    "uikName": "УИК №476",
     "tikTvd": "268200079050",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 477,
     "uikTvd": "468402072201",
+    "uikName": "УИК №477",
     "tikTvd": "268200079050",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 478,
     "uikTvd": "468402072202",
+    "uikName": "УИК №478",
     "tikTvd": "268200079050",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 479,
     "uikTvd": "468402072203",
+    "uikName": "УИК №479",
     "tikTvd": "268200079050",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 480,
     "uikTvd": "468402072204",
+    "uikName": "УИК №480",
     "tikTvd": "268200079050",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 481,
     "uikTvd": "468402072205",
+    "uikName": "УИК №481",
     "tikTvd": "268200079050",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 482,
     "uikTvd": "468402072206",
+    "uikName": "УИК №482",
     "tikTvd": "268200079050",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 483,
     "uikTvd": "468402072207",
+    "uikName": "УИК №483",
     "tikTvd": "268200079050",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 484,
     "uikTvd": "468402072208",
+    "uikName": "УИК №484",
     "tikTvd": "268200079050",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 485,
     "uikTvd": "468402072209",
+    "uikName": "УИК №485",
     "tikTvd": "268200079050",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 486,
     "uikTvd": "468402072210",
+    "uikName": "УИК №486",
     "tikTvd": "268200079050",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 487,
     "uikTvd": "468402072211",
+    "uikName": "УИК №487",
     "tikTvd": "268200079050",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 488,
     "uikTvd": "468402072212",
+    "uikName": "УИК №488",
     "tikTvd": "268200079050",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 489,
     "uikTvd": "468402072213",
+    "uikName": "УИК №489",
     "tikTvd": "268200079050",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 490,
     "uikTvd": "468402072214",
+    "uikName": "УИК №490",
     "tikTvd": "268200079050",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 491,
     "uikTvd": "468402072215",
+    "uikName": "УИК №491",
     "tikTvd": "268200079050",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 492,
     "uikTvd": "468402072216",
+    "uikName": "УИК №492",
     "tikTvd": "268200079050",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 493,
     "uikTvd": "468402072217",
+    "uikName": "УИК №493",
     "tikTvd": "268200079050",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 494,
     "uikTvd": "468402072218",
+    "uikName": "УИК №494",
     "tikTvd": "268200079050",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 495,
     "uikTvd": "468402072219",
+    "uikName": "УИК №495",
     "tikTvd": "268200079050",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 496,
     "uikTvd": "468402072220",
+    "uikName": "УИК №496",
     "tikTvd": "268200079050",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 497,
     "uikTvd": "468402072221",
+    "uikName": "УИК №497",
     "tikTvd": "268200079050",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 498,
     "uikTvd": "468402072222",
+    "uikName": "УИК №498",
     "tikTvd": "268200079050",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 499,
     "uikTvd": "468402072223",
+    "uikName": "УИК №499",
     "tikTvd": "268200079050",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 500,
     "uikTvd": "468402072224",
+    "uikName": "УИК №500",
     "tikTvd": "268200079050",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 501,
     "uikTvd": "468402072225",
+    "uikName": "УИК №501",
     "tikTvd": "268200079050",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 502,
     "uikTvd": "468402072226",
+    "uikName": "УИК №502",
     "tikTvd": "268200079050",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 503,
     "uikTvd": "468402072227",
+    "uikName": "УИК №503",
     "tikTvd": "268200079050",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 504,
     "uikTvd": "468402072228",
+    "uikName": "УИК №504",
     "tikTvd": "268200079050",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 505,
     "uikTvd": "468402072229",
+    "uikName": "УИК №505",
     "tikTvd": "268200079050",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 506,
     "uikTvd": "468402072230",
+    "uikName": "УИК №506",
     "tikTvd": "268200079050",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 507,
     "uikTvd": "468402072231",
+    "uikName": "УИК №507",
     "tikTvd": "268200079050",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 508,
     "uikTvd": "468402072232",
+    "uikName": "УИК №508",
     "tikTvd": "268200079050",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 509,
     "uikTvd": "468402072233",
+    "uikName": "УИК №509",
     "tikTvd": "268200079050",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 510,
     "uikTvd": "468402072234",
+    "uikName": "УИК №510",
     "tikTvd": "268200079050",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 511,
     "uikTvd": "468402072235",
+    "uikName": "УИК №511",
     "tikTvd": "268200079050",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 512,
     "uikTvd": "468402072236",
+    "uikName": "УИК №512",
     "tikTvd": "268200079050",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 513,
     "uikTvd": "468402072237",
+    "uikName": "УИК №513",
     "tikTvd": "268200079050",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 514,
     "uikTvd": "468402171854",
+    "uikName": "УИК №514",
     "tikTvd": "268200079052",
-    "tikName": "Староюрьевская"
+    "tikName": "Староюрьевская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 515,
     "uikTvd": "468402171855",
+    "uikName": "УИК №515",
     "tikTvd": "268200079052",
-    "tikName": "Староюрьевская"
+    "tikName": "Староюрьевская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 516,
     "uikTvd": "468402171856",
+    "uikName": "УИК №516",
     "tikTvd": "268200079052",
-    "tikName": "Староюрьевская"
+    "tikName": "Староюрьевская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 517,
     "uikTvd": "468402171857",
+    "uikName": "УИК №517",
     "tikTvd": "268200079052",
-    "tikName": "Староюрьевская"
+    "tikName": "Староюрьевская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 518,
     "uikTvd": "468402171858",
+    "uikName": "УИК №518",
     "tikTvd": "268200079052",
-    "tikName": "Староюрьевская"
+    "tikName": "Староюрьевская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 519,
     "uikTvd": "468402171859",
+    "uikName": "УИК №519",
     "tikTvd": "268200079052",
-    "tikName": "Староюрьевская"
+    "tikName": "Староюрьевская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 520,
     "uikTvd": "468402171860",
+    "uikName": "УИК №520",
     "tikTvd": "268200079052",
-    "tikName": "Староюрьевская"
+    "tikName": "Староюрьевская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 521,
     "uikTvd": "468402171861",
+    "uikName": "УИК №521",
     "tikTvd": "268200079052",
-    "tikName": "Староюрьевская"
+    "tikName": "Староюрьевская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 522,
     "uikTvd": "468402171862",
+    "uikName": "УИК №522",
     "tikTvd": "268200079052",
-    "tikName": "Староюрьевская"
+    "tikName": "Староюрьевская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 523,
     "uikTvd": "468402171863",
+    "uikName": "УИК №523",
     "tikTvd": "268200079052",
-    "tikName": "Староюрьевская"
+    "tikName": "Староюрьевская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 524,
     "uikTvd": "468402171864",
+    "uikName": "УИК №524",
     "tikTvd": "268200079052",
-    "tikName": "Староюрьевская"
+    "tikName": "Староюрьевская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 525,
     "uikTvd": "468402171865",
+    "uikName": "УИК №525",
     "tikTvd": "268200079052",
-    "tikName": "Староюрьевская"
+    "tikName": "Староюрьевская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 526,
     "uikTvd": "468402171866",
+    "uikName": "УИК №526",
     "tikTvd": "268200079052",
-    "tikName": "Староюрьевская"
+    "tikName": "Староюрьевская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 527,
     "uikTvd": "468402171867",
+    "uikName": "УИК №527",
     "tikTvd": "268200079052",
-    "tikName": "Староюрьевская"
+    "tikName": "Староюрьевская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 528,
     "uikTvd": "468402171868",
+    "uikName": "УИК №528",
     "tikTvd": "268200079052",
-    "tikName": "Староюрьевская"
+    "tikName": "Староюрьевская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 529,
     "uikTvd": "468402171869",
+    "uikName": "УИК №529",
     "tikTvd": "268200079052",
-    "tikName": "Староюрьевская"
+    "tikName": "Староюрьевская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 530,
     "uikTvd": "468402171870",
+    "uikName": "УИК №530",
     "tikTvd": "268200079052",
-    "tikName": "Староюрьевская"
+    "tikName": "Староюрьевская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 531,
     "uikTvd": "468402171871",
+    "uikName": "УИК №531",
     "tikTvd": "268200079052",
-    "tikName": "Староюрьевская"
+    "tikName": "Староюрьевская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 532,
     "uikTvd": "468402171872",
+    "uikName": "УИК №532",
     "tikTvd": "268200079052",
-    "tikName": "Староюрьевская"
+    "tikName": "Староюрьевская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 533,
     "uikTvd": "468402171873",
+    "uikName": "УИК №533",
     "tikTvd": "268200079052",
-    "tikName": "Староюрьевская"
+    "tikName": "Староюрьевская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 534,
     "uikTvd": "468402171874",
+    "uikName": "УИК №534",
     "tikTvd": "268200079052",
-    "tikName": "Староюрьевская"
+    "tikName": "Староюрьевская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 535,
     "uikTvd": "468402171875",
+    "uikName": "УИК №535",
     "tikTvd": "268200079052",
-    "tikName": "Староюрьевская"
+    "tikName": "Староюрьевская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 536,
     "uikTvd": "468402171876",
+    "uikName": "УИК №536",
     "tikTvd": "268200079052",
-    "tikName": "Староюрьевская"
+    "tikName": "Староюрьевская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 537,
     "uikTvd": "468402171877",
+    "uikName": "УИК №537",
     "tikTvd": "268200079052",
-    "tikName": "Староюрьевская"
+    "tikName": "Староюрьевская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 538,
     "uikTvd": "468402171878",
+    "uikName": "УИК №538",
     "tikTvd": "268200079052",
-    "tikName": "Староюрьевская"
+    "tikName": "Староюрьевская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 539,
     "uikTvd": "468402171879",
+    "uikName": "УИК №539",
     "tikTvd": "268200079052",
-    "tikName": "Староюрьевская"
+    "tikName": "Староюрьевская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 540,
     "uikTvd": "468402171880",
+    "uikName": "УИК №540",
     "tikTvd": "268200079052",
-    "tikName": "Староюрьевская"
+    "tikName": "Староюрьевская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 541,
     "uikTvd": "468402171881",
+    "uikName": "УИК №541",
     "tikTvd": "268200079052",
-    "tikName": "Староюрьевская"
+    "tikName": "Староюрьевская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 542,
     "uikTvd": "468402671254",
+    "uikName": "УИК №542",
     "tikTvd": "268200079045",
-    "tikName": "Токаревская"
+    "tikName": "Токаревская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 543,
     "uikTvd": "468402671255",
+    "uikName": "УИК №543",
     "tikTvd": "268200079045",
-    "tikName": "Токаревская"
+    "tikName": "Токаревская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 544,
     "uikTvd": "468402671256",
+    "uikName": "УИК №544",
     "tikTvd": "268200079045",
-    "tikName": "Токаревская"
+    "tikName": "Токаревская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 545,
     "uikTvd": "468402671257",
+    "uikName": "УИК №545",
     "tikTvd": "268200079045",
-    "tikName": "Токаревская"
+    "tikName": "Токаревская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 546,
     "uikTvd": "468402671258",
+    "uikName": "УИК №546",
     "tikTvd": "268200079045",
-    "tikName": "Токаревская"
+    "tikName": "Токаревская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 547,
     "uikTvd": "468402671259",
+    "uikName": "УИК №547",
     "tikTvd": "268200079045",
-    "tikName": "Токаревская"
+    "tikName": "Токаревская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 548,
     "uikTvd": "468402671260",
+    "uikName": "УИК №548",
     "tikTvd": "268200079045",
-    "tikName": "Токаревская"
+    "tikName": "Токаревская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 549,
     "uikTvd": "468402671261",
+    "uikName": "УИК №549",
     "tikTvd": "268200079045",
-    "tikName": "Токаревская"
+    "tikName": "Токаревская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 550,
     "uikTvd": "468402671262",
+    "uikName": "УИК №550",
     "tikTvd": "268200079045",
-    "tikName": "Токаревская"
+    "tikName": "Токаревская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 551,
     "uikTvd": "468402671263",
+    "uikName": "УИК №551",
     "tikTvd": "268200079045",
-    "tikName": "Токаревская"
+    "tikName": "Токаревская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 552,
     "uikTvd": "468402671264",
+    "uikName": "УИК №552",
     "tikTvd": "268200079045",
-    "tikName": "Токаревская"
+    "tikName": "Токаревская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 553,
     "uikTvd": "468402671265",
+    "uikName": "УИК №553",
     "tikTvd": "268200079045",
-    "tikName": "Токаревская"
+    "tikName": "Токаревская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 554,
     "uikTvd": "468402671266",
+    "uikName": "УИК №554",
     "tikTvd": "268200079045",
-    "tikName": "Токаревская"
+    "tikName": "Токаревская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 555,
     "uikTvd": "468402671267",
+    "uikName": "УИК №555",
     "tikTvd": "268200079045",
-    "tikName": "Токаревская"
+    "tikName": "Токаревская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 556,
     "uikTvd": "468402671268",
+    "uikName": "УИК №556",
     "tikTvd": "268200079045",
-    "tikName": "Токаревская"
+    "tikName": "Токаревская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 557,
     "uikTvd": "468402671269",
+    "uikName": "УИК №557",
     "tikTvd": "268200079045",
-    "tikName": "Токаревская"
+    "tikName": "Токаревская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 558,
     "uikTvd": "468402671270",
+    "uikName": "УИК №558",
     "tikTvd": "268200079045",
-    "tikName": "Токаревская"
+    "tikName": "Токаревская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 559,
     "uikTvd": "468402671271",
+    "uikName": "УИК №559",
     "tikTvd": "268200079045",
-    "tikName": "Токаревская"
+    "tikName": "Токаревская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 560,
     "uikTvd": "468402671272",
+    "uikName": "УИК №560",
     "tikTvd": "268200079045",
-    "tikName": "Токаревская"
+    "tikName": "Токаревская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 561,
     "uikTvd": "468402671273",
+    "uikName": "УИК №561",
     "tikTvd": "268200079045",
-    "tikName": "Токаревская"
+    "tikName": "Токаревская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 562,
     "uikTvd": "468402671274",
+    "uikName": "УИК №562",
     "tikTvd": "268200079045",
-    "tikName": "Токаревская"
+    "tikName": "Токаревская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 563,
     "uikTvd": "468402671275",
+    "uikName": "УИК №563",
     "tikTvd": "268200079045",
-    "tikName": "Токаревская"
+    "tikName": "Токаревская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 564,
     "uikTvd": "468402671276",
+    "uikName": "УИК №564",
     "tikTvd": "268200079045",
-    "tikName": "Токаревская"
+    "tikName": "Токаревская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 565,
     "uikTvd": "468402671277",
+    "uikName": "УИК №565",
     "tikTvd": "268200079045",
-    "tikName": "Токаревская"
+    "tikName": "Токаревская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 566,
     "uikTvd": "468402671278",
+    "uikName": "УИК №566",
     "tikTvd": "268200079045",
-    "tikName": "Токаревская"
+    "tikName": "Токаревская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 567,
     "uikTvd": "468402671279",
+    "uikName": "УИК №567",
     "tikTvd": "268200079045",
-    "tikName": "Токаревская"
+    "tikName": "Токаревская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 568,
     "uikTvd": "468402671280",
+    "uikName": "УИК №568",
     "tikTvd": "268200079045",
-    "tikName": "Токаревская"
+    "tikName": "Токаревская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 569,
     "uikTvd": "468402671281",
+    "uikName": "УИК №569",
     "tikTvd": "268200079045",
-    "tikName": "Токаревская"
+    "tikName": "Токаревская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 570,
     "uikTvd": "468402671282",
+    "uikName": "УИК №570",
     "tikTvd": "268200079045",
-    "tikName": "Токаревская"
+    "tikName": "Токаревская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 571,
     "uikTvd": "468402671283",
+    "uikName": "УИК №571",
     "tikTvd": "268200079045",
-    "tikName": "Токаревская"
+    "tikName": "Токаревская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 572,
     "uikTvd": "468402771967",
+    "uikName": "УИК  572",
     "tikTvd": "268200079046",
-    "tikName": "Уваровская"
+    "tikName": "Уваровская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 573,
     "uikTvd": "468402771968",
+    "uikName": "УИК  573",
     "tikTvd": "268200079046",
-    "tikName": "Уваровская"
+    "tikName": "Уваровская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 574,
     "uikTvd": "468402771969",
+    "uikName": "УИК  574",
     "tikTvd": "268200079046",
-    "tikName": "Уваровская"
+    "tikName": "Уваровская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 575,
     "uikTvd": "468402771970",
+    "uikName": "УИК  575",
     "tikTvd": "268200079046",
-    "tikName": "Уваровская"
+    "tikName": "Уваровская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 576,
     "uikTvd": "468402771971",
+    "uikName": "УИК  576",
     "tikTvd": "268200079046",
-    "tikName": "Уваровская"
+    "tikName": "Уваровская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 578,
     "uikTvd": "468402771972",
+    "uikName": "УИК  578",
     "tikTvd": "268200079046",
-    "tikName": "Уваровская"
+    "tikName": "Уваровская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 579,
     "uikTvd": "468402771973",
+    "uikName": "УИК  579",
     "tikTvd": "268200079046",
-    "tikName": "Уваровская"
+    "tikName": "Уваровская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 580,
     "uikTvd": "468402771974",
+    "uikName": "УИК  580",
     "tikTvd": "268200079046",
-    "tikName": "Уваровская"
+    "tikName": "Уваровская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 582,
     "uikTvd": "468402771975",
+    "uikName": "УИК  582",
     "tikTvd": "268200079046",
-    "tikName": "Уваровская"
+    "tikName": "Уваровская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 583,
     "uikTvd": "468402771976",
+    "uikName": "УИК  583",
     "tikTvd": "268200079046",
-    "tikName": "Уваровская"
+    "tikName": "Уваровская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 584,
     "uikTvd": "468402771977",
+    "uikName": "УИК  584",
     "tikTvd": "268200079046",
-    "tikName": "Уваровская"
+    "tikName": "Уваровская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 585,
     "uikTvd": "468402771978",
+    "uikName": "УИК  585",
     "tikTvd": "268200079046",
-    "tikName": "Уваровская"
+    "tikName": "Уваровская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 586,
     "uikTvd": "468402771979",
+    "uikName": "УИК  586",
     "tikTvd": "268200079046",
-    "tikName": "Уваровская"
+    "tikName": "Уваровская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 587,
     "uikTvd": "468402771980",
+    "uikName": "УИК  587",
     "tikTvd": "268200079046",
-    "tikName": "Уваровская"
+    "tikName": "Уваровская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 588,
     "uikTvd": "468402771981",
+    "uikName": "УИК  588",
     "tikTvd": "268200079046",
-    "tikName": "Уваровская"
+    "tikName": "Уваровская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 589,
     "uikTvd": "468402771982",
+    "uikName": "УИК  589",
     "tikTvd": "268200079046",
-    "tikName": "Уваровская"
+    "tikName": "Уваровская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 590,
     "uikTvd": "468402771983",
+    "uikName": "УИК  590",
     "tikTvd": "268200079046",
-    "tikName": "Уваровская"
+    "tikName": "Уваровская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 591,
     "uikTvd": "468402771984",
+    "uikName": "УИК  591",
     "tikTvd": "268200079046",
-    "tikName": "Уваровская"
+    "tikName": "Уваровская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 592,
     "uikTvd": "468402771985",
+    "uikName": "УИК  592",
     "tikTvd": "268200079046",
-    "tikName": "Уваровская"
+    "tikName": "Уваровская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 593,
     "uikTvd": "468402771986",
+    "uikName": "УИК  593",
     "tikTvd": "268200079046",
-    "tikName": "Уваровская"
+    "tikName": "Уваровская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 594,
     "uikTvd": "468402771987",
+    "uikName": "УИК  594",
     "tikTvd": "268200079046",
-    "tikName": "Уваровская"
+    "tikName": "Уваровская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 595,
     "uikTvd": "468402771988",
+    "uikName": "УИК  595",
     "tikTvd": "268200079046",
-    "tikName": "Уваровская"
+    "tikName": "Уваровская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 596,
     "uikTvd": "468403271848",
+    "uikName": "УИК №596",
     "tikTvd": "268200079057",
-    "tikName": "Уваровская городская"
+    "tikName": "Уваровская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 597,
     "uikTvd": "468403271849",
+    "uikName": "УИК №597",
     "tikTvd": "268200079057",
-    "tikName": "Уваровская городская"
+    "tikName": "Уваровская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 598,
     "uikTvd": "468403271850",
+    "uikName": "УИК №598",
     "tikTvd": "268200079057",
-    "tikName": "Уваровская городская"
+    "tikName": "Уваровская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 599,
     "uikTvd": "468403271851",
+    "uikName": "УИК №599",
     "tikTvd": "268200079057",
-    "tikName": "Уваровская городская"
+    "tikName": "Уваровская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 600,
     "uikTvd": "468403271852",
+    "uikName": "УИК №600",
     "tikTvd": "268200079057",
-    "tikName": "Уваровская городская"
+    "tikName": "Уваровская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 601,
     "uikTvd": "468403271853",
+    "uikName": "УИК №601",
     "tikTvd": "268200079057",
-    "tikName": "Уваровская городская"
+    "tikName": "Уваровская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 602,
     "uikTvd": "468403271854",
+    "uikName": "УИК №602",
     "tikTvd": "268200079057",
-    "tikName": "Уваровская городская"
+    "tikName": "Уваровская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 603,
     "uikTvd": "468403271855",
+    "uikName": "УИК №603",
     "tikTvd": "268200079057",
-    "tikName": "Уваровская городская"
+    "tikName": "Уваровская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 604,
     "uikTvd": "468403271856",
+    "uikName": "УИК №604",
     "tikTvd": "268200079057",
-    "tikName": "Уваровская городская"
+    "tikName": "Уваровская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 605,
     "uikTvd": "468403271857",
+    "uikName": "УИК №605",
     "tikTvd": "268200079057",
-    "tikName": "Уваровская городская"
+    "tikName": "Уваровская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 606,
     "uikTvd": "468403271858",
+    "uikName": "УИК №606",
     "tikTvd": "268200079057",
-    "tikName": "Уваровская городская"
+    "tikName": "Уваровская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 607,
     "uikTvd": "468403271859",
+    "uikName": "УИК №607",
     "tikTvd": "268200079057",
-    "tikName": "Уваровская городская"
+    "tikName": "Уваровская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 608,
     "uikTvd": "468403271860",
+    "uikName": "УИК №608",
     "tikTvd": "268200079057",
-    "tikName": "Уваровская городская"
+    "tikName": "Уваровская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 609,
     "uikTvd": "468403271861",
+    "uikName": "УИК №609",
     "tikTvd": "268200079057",
-    "tikName": "Уваровская городская"
+    "tikName": "Уваровская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 610,
     "uikTvd": "468403271862",
+    "uikName": "УИК №610",
     "tikTvd": "268200079057",
-    "tikName": "Уваровская городская"
+    "tikName": "Уваровская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 611,
     "uikTvd": "468403271863",
+    "uikName": "УИК №611",
     "tikTvd": "268200079057",
-    "tikName": "Уваровская городская"
+    "tikName": "Уваровская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 612,
     "uikTvd": "468400171454",
+    "uikName": "УИК №612",
     "tikTvd": "268200079028",
-    "tikName": "Бондарская"
+    "tikName": "Бондарская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 613,
     "uikTvd": "468400171455",
+    "uikName": "УИК №613",
     "tikTvd": "268200079028",
-    "tikName": "Бондарская"
+    "tikName": "Бондарская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 614,
     "uikTvd": "468400171456",
+    "uikName": "УИК №614",
     "tikTvd": "268200079028",
-    "tikName": "Бондарская"
+    "tikName": "Бондарская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 615,
     "uikTvd": "468400171457",
+    "uikName": "УИК №615",
     "tikTvd": "268200079028",
-    "tikName": "Бондарская"
+    "tikName": "Бондарская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 616,
     "uikTvd": "468400171458",
+    "uikName": "УИК №616",
     "tikTvd": "268200079028",
-    "tikName": "Бондарская"
+    "tikName": "Бондарская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 617,
     "uikTvd": "468400171459",
+    "uikName": "УИК №617",
     "tikTvd": "268200079028",
-    "tikName": "Бондарская"
+    "tikName": "Бондарская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 618,
     "uikTvd": "468400171460",
+    "uikName": "УИК №618",
     "tikTvd": "268200079028",
-    "tikName": "Бондарская"
+    "tikName": "Бондарская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 619,
     "uikTvd": "468400171461",
+    "uikName": "УИК №619",
     "tikTvd": "268200079028",
-    "tikName": "Бондарская"
+    "tikName": "Бондарская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 620,
     "uikTvd": "468400171462",
+    "uikName": "УИК №620",
     "tikTvd": "268200079028",
-    "tikName": "Бондарская"
+    "tikName": "Бондарская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 621,
     "uikTvd": "468400171463",
+    "uikName": "УИК №621",
     "tikTvd": "268200079028",
-    "tikName": "Бондарская"
+    "tikName": "Бондарская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 622,
     "uikTvd": "468400171464",
+    "uikName": "УИК №622",
     "tikTvd": "268200079028",
-    "tikName": "Бондарская"
+    "tikName": "Бондарская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 623,
     "uikTvd": "468400171465",
+    "uikName": "УИК №623",
     "tikTvd": "268200079028",
-    "tikName": "Бондарская"
+    "tikName": "Бондарская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 624,
     "uikTvd": "468400171466",
+    "uikName": "УИК №624",
     "tikTvd": "268200079028",
-    "tikName": "Бондарская"
+    "tikName": "Бондарская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 625,
     "uikTvd": "468400171467",
+    "uikName": "УИК №625",
     "tikTvd": "268200079028",
-    "tikName": "Бондарская"
+    "tikName": "Бондарская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 626,
     "uikTvd": "468400171468",
+    "uikName": "УИК №626",
     "tikTvd": "268200079028",
-    "tikName": "Бондарская"
+    "tikName": "Бондарская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 627,
     "uikTvd": "468400171469",
+    "uikName": "УИК №627",
     "tikTvd": "268200079028",
-    "tikName": "Бондарская"
+    "tikName": "Бондарская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 628,
     "uikTvd": "468400171470",
+    "uikName": "УИК №628",
     "tikTvd": "268200079028",
-    "tikName": "Бондарская"
+    "tikName": "Бондарская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 629,
     "uikTvd": "468400171471",
+    "uikName": "УИК №629",
     "tikTvd": "268200079028",
-    "tikName": "Бондарская"
+    "tikName": "Бондарская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 630,
     "uikTvd": "468400171472",
+    "uikName": "УИК №630",
     "tikTvd": "268200079028",
-    "tikName": "Бондарская"
+    "tikName": "Бондарская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 631,
     "uikTvd": "468400171473",
+    "uikName": "УИК №631",
     "tikTvd": "268200079028",
-    "tikName": "Бондарская"
+    "tikName": "Бондарская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 632,
     "uikTvd": "468400171474",
+    "uikName": "УИК №632",
     "tikTvd": "268200079028",
-    "tikName": "Бондарская"
+    "tikName": "Бондарская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 633,
     "uikTvd": "468400171475",
+    "uikName": "УИК №633",
     "tikTvd": "268200079028",
-    "tikName": "Бондарская"
+    "tikName": "Бондарская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 634,
     "uikTvd": "468400171476",
+    "uikName": "УИК №634",
     "tikTvd": "268200079028",
-    "tikName": "Бондарская"
+    "tikName": "Бондарская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 635,
     "uikTvd": "468400271283",
+    "uikName": "УИК  635",
     "tikTvd": "268200079042",
-    "tikName": "Гавриловская"
+    "tikName": "Гавриловская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 636,
     "uikTvd": "468400271284",
+    "uikName": "УИК  636",
     "tikTvd": "268200079042",
-    "tikName": "Гавриловская"
+    "tikName": "Гавриловская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 637,
     "uikTvd": "468400271285",
+    "uikName": "УИК  637",
     "tikTvd": "268200079042",
-    "tikName": "Гавриловская"
+    "tikName": "Гавриловская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 638,
     "uikTvd": "468400271286",
+    "uikName": "УИК  638",
     "tikTvd": "268200079042",
-    "tikName": "Гавриловская"
+    "tikName": "Гавриловская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 639,
     "uikTvd": "468400271287",
+    "uikName": "УИК  639",
     "tikTvd": "268200079042",
-    "tikName": "Гавриловская"
+    "tikName": "Гавриловская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 640,
     "uikTvd": "468400271288",
+    "uikName": "УИК  640",
     "tikTvd": "268200079042",
-    "tikName": "Гавриловская"
+    "tikName": "Гавриловская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 641,
     "uikTvd": "468400271289",
+    "uikName": "УИК  641",
     "tikTvd": "268200079042",
-    "tikName": "Гавриловская"
+    "tikName": "Гавриловская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 642,
     "uikTvd": "468400271290",
+    "uikName": "УИК  642",
     "tikTvd": "268200079042",
-    "tikName": "Гавриловская"
+    "tikName": "Гавриловская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 643,
     "uikTvd": "468400271291",
+    "uikName": "УИК  643",
     "tikTvd": "268200079042",
-    "tikName": "Гавриловская"
+    "tikName": "Гавриловская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 644,
     "uikTvd": "468400271292",
+    "uikName": "УИК  644",
     "tikTvd": "268200079042",
-    "tikName": "Гавриловская"
+    "tikName": "Гавриловская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 645,
     "uikTvd": "468400271293",
+    "uikName": "УИК  645",
     "tikTvd": "268200079042",
-    "tikName": "Гавриловская"
+    "tikName": "Гавриловская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 646,
     "uikTvd": "468400271294",
+    "uikName": "УИК  646",
     "tikTvd": "268200079042",
-    "tikName": "Гавриловская"
+    "tikName": "Гавриловская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 647,
     "uikTvd": "468400271295",
+    "uikName": "УИК  647",
     "tikTvd": "268200079042",
-    "tikName": "Гавриловская"
+    "tikName": "Гавриловская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 648,
     "uikTvd": "468400271296",
+    "uikName": "УИК  648",
     "tikTvd": "268200079042",
-    "tikName": "Гавриловская"
+    "tikName": "Гавриловская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 649,
     "uikTvd": "468400271297",
+    "uikName": "УИК  649",
     "tikTvd": "268200079042",
-    "tikName": "Гавриловская"
+    "tikName": "Гавриловская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 650,
     "uikTvd": "468400271298",
+    "uikName": "УИК  650",
     "tikTvd": "268200079042",
-    "tikName": "Гавриловская"
+    "tikName": "Гавриловская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 651,
     "uikTvd": "468400271299",
+    "uikName": "УИК  651",
     "tikTvd": "268200079042",
-    "tikName": "Гавриловская"
+    "tikName": "Гавриловская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 652,
     "uikTvd": "468400271300",
+    "uikName": "УИК  652",
     "tikTvd": "268200079042",
-    "tikName": "Гавриловская"
+    "tikName": "Гавриловская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 653,
     "uikTvd": "468400271301",
+    "uikName": "УИК  653",
     "tikTvd": "268200079042",
-    "tikName": "Гавриловская"
+    "tikName": "Гавриловская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 654,
     "uikTvd": "468400271302",
+    "uikName": "УИК  654",
     "tikTvd": "268200079042",
-    "tikName": "Гавриловская"
+    "tikName": "Гавриловская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 655,
     "uikTvd": "468400271303",
+    "uikName": "УИК  655",
     "tikTvd": "268200079042",
-    "tikName": "Гавриловская"
+    "tikName": "Гавриловская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 656,
     "uikTvd": "468400572109",
+    "uikName": "УИК  656",
     "tikTvd": "268200079040",
-    "tikName": "Инжавинская"
+    "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 657,
     "uikTvd": "468400572110",
+    "uikName": "УИК  657",
     "tikTvd": "268200079040",
-    "tikName": "Инжавинская"
+    "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 658,
     "uikTvd": "468400572111",
+    "uikName": "УИК  658",
     "tikTvd": "268200079040",
-    "tikName": "Инжавинская"
+    "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 659,
     "uikTvd": "468400572112",
+    "uikName": "УИК  659",
     "tikTvd": "268200079040",
-    "tikName": "Инжавинская"
+    "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 660,
     "uikTvd": "468400572113",
+    "uikName": "УИК  660",
     "tikTvd": "268200079040",
-    "tikName": "Инжавинская"
+    "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 661,
     "uikTvd": "468400572114",
+    "uikName": "УИК  661",
     "tikTvd": "268200079040",
-    "tikName": "Инжавинская"
+    "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 662,
     "uikTvd": "468400572115",
+    "uikName": "УИК  662",
     "tikTvd": "268200079040",
-    "tikName": "Инжавинская"
+    "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 663,
     "uikTvd": "468400572116",
+    "uikName": "УИК  663",
     "tikTvd": "268200079040",
-    "tikName": "Инжавинская"
+    "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 664,
     "uikTvd": "468400572117",
+    "uikName": "УИК  664",
     "tikTvd": "268200079040",
-    "tikName": "Инжавинская"
+    "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 665,
     "uikTvd": "468400572118",
+    "uikName": "УИК  665",
     "tikTvd": "268200079040",
-    "tikName": "Инжавинская"
+    "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 667,
     "uikTvd": "468400572119",
+    "uikName": "УИК  667",
     "tikTvd": "268200079040",
-    "tikName": "Инжавинская"
+    "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 668,
     "uikTvd": "468400572120",
+    "uikName": "УИК  668",
     "tikTvd": "268200079040",
-    "tikName": "Инжавинская"
+    "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 669,
     "uikTvd": "468400572121",
+    "uikName": "УИК  669",
     "tikTvd": "268200079040",
-    "tikName": "Инжавинская"
+    "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 670,
     "uikTvd": "468400572122",
+    "uikName": "УИК  670",
     "tikTvd": "268200079040",
-    "tikName": "Инжавинская"
+    "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 671,
     "uikTvd": "468400572123",
+    "uikName": "УИК  671",
     "tikTvd": "268200079040",
-    "tikName": "Инжавинская"
+    "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 672,
     "uikTvd": "468400572124",
+    "uikName": "УИК  672",
     "tikTvd": "268200079040",
-    "tikName": "Инжавинская"
+    "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 673,
     "uikTvd": "468400572125",
+    "uikName": "УИК  673",
     "tikTvd": "268200079040",
-    "tikName": "Инжавинская"
+    "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 674,
     "uikTvd": "468400572126",
+    "uikName": "УИК  674",
     "tikTvd": "268200079040",
-    "tikName": "Инжавинская"
+    "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 675,
     "uikTvd": "468400572127",
+    "uikName": "УИК  675",
     "tikTvd": "268200079040",
-    "tikName": "Инжавинская"
+    "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 676,
     "uikTvd": "468400572128",
+    "uikName": "УИК  676",
     "tikTvd": "268200079040",
-    "tikName": "Инжавинская"
+    "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 677,
     "uikTvd": "468400572129",
+    "uikName": "УИК  677",
     "tikTvd": "268200079040",
-    "tikName": "Инжавинская"
+    "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 678,
     "uikTvd": "468400572130",
+    "uikName": "УИК  678",
     "tikTvd": "268200079040",
-    "tikName": "Инжавинская"
+    "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 679,
     "uikTvd": "468400572131",
+    "uikName": "УИК  679",
     "tikTvd": "268200079040",
-    "tikName": "Инжавинская"
+    "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 680,
     "uikTvd": "468400572132",
+    "uikName": "УИК  680",
     "tikTvd": "268200079040",
-    "tikName": "Инжавинская"
+    "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 681,
     "uikTvd": "468400572133",
+    "uikName": "УИК  681",
     "tikTvd": "268200079040",
-    "tikName": "Инжавинская"
+    "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 682,
     "uikTvd": "468400572134",
+    "uikName": "УИК  682",
     "tikTvd": "268200079040",
-    "tikName": "Инжавинская"
+    "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 683,
     "uikTvd": "468400572135",
+    "uikName": "УИК  683",
     "tikTvd": "268200079040",
-    "tikName": "Инжавинская"
+    "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 684,
     "uikTvd": "468400572136",
+    "uikName": "УИК  684",
     "tikTvd": "268200079040",
-    "tikName": "Инжавинская"
+    "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 685,
     "uikTvd": "468400572137",
+    "uikName": "УИК  685",
     "tikTvd": "268200079040",
-    "tikName": "Инжавинская"
+    "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 686,
     "uikTvd": "468400572138",
+    "uikName": "УИК  686",
     "tikTvd": "268200079040",
-    "tikName": "Инжавинская"
+    "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 687,
     "uikTvd": "468400572139",
+    "uikName": "УИК  687",
     "tikTvd": "268200079040",
-    "tikName": "Инжавинская"
+    "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 688,
     "uikTvd": "468400572140",
+    "uikName": "УИК  688",
     "tikTvd": "268200079040",
-    "tikName": "Инжавинская"
+    "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 689,
     "uikTvd": "468400572141",
+    "uikName": "УИК  689",
     "tikTvd": "268200079040",
-    "tikName": "Инжавинская"
+    "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 690,
     "uikTvd": "468400572142",
+    "uikName": "УИК  690",
     "tikTvd": "268200079040",
-    "tikName": "Инжавинская"
+    "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 691,
     "uikTvd": "468400572143",
+    "uikName": "УИК  691",
     "tikTvd": "268200079040",
-    "tikName": "Инжавинская"
+    "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 692,
     "uikTvd": "468400572144",
+    "uikName": "УИК  692",
     "tikTvd": "268200079040",
-    "tikName": "Инжавинская"
+    "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 693,
     "uikTvd": "468400572145",
+    "uikName": "УИК  693",
     "tikTvd": "268200079040",
-    "tikName": "Инжавинская"
+    "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 694,
     "uikTvd": "468400572146",
+    "uikName": "УИК  694",
     "tikTvd": "268200079040",
-    "tikName": "Инжавинская"
+    "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 695,
     "uikTvd": "468400572147",
+    "uikName": "УИК  695",
     "tikTvd": "268200079040",
-    "tikName": "Инжавинская"
+    "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 696,
     "uikTvd": "468400572148",
+    "uikName": "УИК  696",
     "tikTvd": "268200079040",
-    "tikName": "Инжавинская"
+    "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 697,
     "uikTvd": "468400572149",
+    "uikName": "УИК  697",
     "tikTvd": "268200079040",
-    "tikName": "Инжавинская"
+    "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 698,
     "uikTvd": "468400672460",
+    "uikName": "УИК №698",
     "tikTvd": "268200079038",
-    "tikName": "Кирсановская"
+    "tikName": "Кирсановская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 699,
     "uikTvd": "468400672461",
+    "uikName": "УИК №699",
     "tikTvd": "268200079038",
-    "tikName": "Кирсановская"
+    "tikName": "Кирсановская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 700,
     "uikTvd": "468400672462",
+    "uikName": "УИК №700",
     "tikTvd": "268200079038",
-    "tikName": "Кирсановская"
+    "tikName": "Кирсановская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 701,
     "uikTvd": "468400672463",
+    "uikName": "УИК №701",
     "tikTvd": "268200079038",
-    "tikName": "Кирсановская"
+    "tikName": "Кирсановская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 702,
     "uikTvd": "468400672464",
+    "uikName": "УИК №702",
     "tikTvd": "268200079038",
-    "tikName": "Кирсановская"
+    "tikName": "Кирсановская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 703,
     "uikTvd": "468400672465",
+    "uikName": "УИК №703",
     "tikTvd": "268200079038",
-    "tikName": "Кирсановская"
+    "tikName": "Кирсановская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 704,
     "uikTvd": "468400672466",
+    "uikName": "УИК №704",
     "tikTvd": "268200079038",
-    "tikName": "Кирсановская"
+    "tikName": "Кирсановская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 705,
     "uikTvd": "468400672467",
+    "uikName": "УИК №705",
     "tikTvd": "268200079038",
-    "tikName": "Кирсановская"
+    "tikName": "Кирсановская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 706,
     "uikTvd": "468400672468",
+    "uikName": "УИК №706",
     "tikTvd": "268200079038",
-    "tikName": "Кирсановская"
+    "tikName": "Кирсановская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 707,
     "uikTvd": "468400672469",
+    "uikName": "УИК №707",
     "tikTvd": "268200079038",
-    "tikName": "Кирсановская"
+    "tikName": "Кирсановская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 708,
     "uikTvd": "468400672470",
+    "uikName": "УИК №708",
     "tikTvd": "268200079038",
-    "tikName": "Кирсановская"
+    "tikName": "Кирсановская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 709,
     "uikTvd": "468400672471",
+    "uikName": "УИК №709",
     "tikTvd": "268200079038",
-    "tikName": "Кирсановская"
+    "tikName": "Кирсановская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 710,
     "uikTvd": "468400672472",
+    "uikName": "УИК №710",
     "tikTvd": "268200079038",
-    "tikName": "Кирсановская"
+    "tikName": "Кирсановская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 711,
     "uikTvd": "468400672473",
+    "uikName": "УИК №711",
     "tikTvd": "268200079038",
-    "tikName": "Кирсановская"
+    "tikName": "Кирсановская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 712,
     "uikTvd": "468400672474",
+    "uikName": "УИК №712",
     "tikTvd": "268200079038",
-    "tikName": "Кирсановская"
+    "tikName": "Кирсановская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 713,
     "uikTvd": "468400672475",
+    "uikName": "УИК №713",
     "tikTvd": "268200079038",
-    "tikName": "Кирсановская"
+    "tikName": "Кирсановская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 714,
     "uikTvd": "468400672476",
+    "uikName": "УИК №714",
     "tikTvd": "268200079038",
-    "tikName": "Кирсановская"
+    "tikName": "Кирсановская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 715,
     "uikTvd": "468400672477",
+    "uikName": "УИК №715",
     "tikTvd": "268200079038",
-    "tikName": "Кирсановская"
+    "tikName": "Кирсановская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 716,
     "uikTvd": "468400672478",
+    "uikName": "УИК №716",
     "tikTvd": "268200079038",
-    "tikName": "Кирсановская"
+    "tikName": "Кирсановская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 717,
     "uikTvd": "468400672479",
+    "uikName": "УИК №717",
     "tikTvd": "268200079038",
-    "tikName": "Кирсановская"
+    "tikName": "Кирсановская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 718,
     "uikTvd": "468400672480",
+    "uikName": "УИК №718",
     "tikTvd": "268200079038",
-    "tikName": "Кирсановская"
+    "tikName": "Кирсановская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 719,
     "uikTvd": "468400672481",
+    "uikName": "УИК №719",
     "tikTvd": "268200079038",
-    "tikName": "Кирсановская"
+    "tikName": "Кирсановская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 720,
     "uikTvd": "468400672482",
+    "uikName": "УИК №720",
     "tikTvd": "268200079038",
-    "tikName": "Кирсановская"
+    "tikName": "Кирсановская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 721,
     "uikTvd": "468400672483",
+    "uikName": "УИК №721",
     "tikTvd": "268200079038",
-    "tikName": "Кирсановская"
+    "tikName": "Кирсановская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 722,
     "uikTvd": "468400672484",
+    "uikName": "УИК №722",
     "tikTvd": "268200079038",
-    "tikName": "Кирсановская"
+    "tikName": "Кирсановская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 723,
     "uikTvd": "468400672485",
+    "uikName": "УИК №723",
     "tikTvd": "268200079038",
-    "tikName": "Кирсановская"
+    "tikName": "Кирсановская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 724,
     "uikTvd": "468400672486",
+    "uikName": "УИК №724",
     "tikTvd": "268200079038",
-    "tikName": "Кирсановская"
+    "tikName": "Кирсановская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 725,
     "uikTvd": "468400672487",
+    "uikName": "УИК №725",
     "tikTvd": "268200079038",
-    "tikName": "Кирсановская"
+    "tikName": "Кирсановская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 726,
     "uikTvd": "468400672488",
+    "uikName": "УИК №726",
     "tikTvd": "268200079038",
-    "tikName": "Кирсановская"
+    "tikName": "Кирсановская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 727,
     "uikTvd": "468400672489",
+    "uikName": "УИК №727",
     "tikTvd": "268200079038",
-    "tikName": "Кирсановская"
+    "tikName": "Кирсановская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 728,
     "uikTvd": "468400672490",
+    "uikName": "УИК №728",
     "tikTvd": "268200079038",
-    "tikName": "Кирсановская"
+    "tikName": "Кирсановская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 729,
     "uikTvd": "468400672491",
+    "uikName": "УИК №729",
     "tikTvd": "268200079038",
-    "tikName": "Кирсановская"
+    "tikName": "Кирсановская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 730,
     "uikTvd": "468402971665",
+    "uikName": "УИК №730",
     "tikTvd": "268200079043",
-    "tikName": "Кирсановская городская"
+    "tikName": "Кирсановская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 731,
     "uikTvd": "468402971666",
+    "uikName": "УИК №731",
     "tikTvd": "268200079043",
-    "tikName": "Кирсановская городская"
+    "tikName": "Кирсановская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 732,
     "uikTvd": "468402971667",
+    "uikName": "УИК №732",
     "tikTvd": "268200079043",
-    "tikName": "Кирсановская городская"
+    "tikName": "Кирсановская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 733,
     "uikTvd": "468402971668",
+    "uikName": "УИК №733",
     "tikTvd": "268200079043",
-    "tikName": "Кирсановская городская"
+    "tikName": "Кирсановская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 734,
     "uikTvd": "468402971669",
+    "uikName": "УИК №734",
     "tikTvd": "268200079043",
-    "tikName": "Кирсановская городская"
+    "tikName": "Кирсановская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 735,
     "uikTvd": "468402971670",
+    "uikName": "УИК №735",
     "tikTvd": "268200079043",
-    "tikName": "Кирсановская городская"
+    "tikName": "Кирсановская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 736,
     "uikTvd": "468402971671",
+    "uikName": "УИК №736",
     "tikTvd": "268200079043",
-    "tikName": "Кирсановская городская"
+    "tikName": "Кирсановская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 737,
     "uikTvd": "468402971672",
+    "uikName": "УИК №737",
     "tikTvd": "268200079043",
-    "tikName": "Кирсановская городская"
+    "tikName": "Кирсановская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 738,
     "uikTvd": "468402971673",
+    "uikName": "УИК №738",
     "tikTvd": "268200079043",
-    "tikName": "Кирсановская городская"
+    "tikName": "Кирсановская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 739,
     "uikTvd": "468402971674",
+    "uikName": "УИК №739",
     "tikTvd": "268200079043",
-    "tikName": "Кирсановская городская"
+    "tikName": "Кирсановская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 740,
     "uikTvd": "468402971675",
+    "uikName": "УИК №740",
     "tikTvd": "268200079043",
-    "tikName": "Кирсановская городская"
+    "tikName": "Кирсановская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 741,
     "uikTvd": "468402971676",
+    "uikName": "УИК №741",
     "tikTvd": "268200079043",
-    "tikName": "Кирсановская городская"
+    "tikName": "Кирсановская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 742,
     "uikTvd": "468402971677",
+    "uikName": "УИК №742",
     "tikTvd": "268200079043",
-    "tikName": "Кирсановская городская"
+    "tikName": "Кирсановская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 743,
     "uikTvd": "468402971678",
+    "uikName": "УИК №743",
     "tikTvd": "268200079043",
-    "tikName": "Кирсановская городская"
+    "tikName": "Кирсановская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 744,
     "uikTvd": "468400771583",
+    "uikName": "УИК №744",
     "tikTvd": "268200079037",
-    "tikName": "Котовская городская"
+    "tikName": "Котовская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 745,
     "uikTvd": "468400771585",
+    "uikName": "УИК №745",
     "tikTvd": "268200079037",
-    "tikName": "Котовская городская"
+    "tikName": "Котовская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 746,
     "uikTvd": "468400771586",
+    "uikName": "УИК №746",
     "tikTvd": "268200079037",
-    "tikName": "Котовская городская"
+    "tikName": "Котовская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 747,
     "uikTvd": "468400771587",
+    "uikName": "УИК №747",
     "tikTvd": "268200079037",
-    "tikName": "Котовская городская"
+    "tikName": "Котовская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 748,
     "uikTvd": "468400771588",
+    "uikName": "УИК №748",
     "tikTvd": "268200079037",
-    "tikName": "Котовская городская"
+    "tikName": "Котовская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 749,
     "uikTvd": "468400771589",
+    "uikName": "УИК №749",
     "tikTvd": "268200079037",
-    "tikName": "Котовская городская"
+    "tikName": "Котовская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 750,
     "uikTvd": "468400771590",
+    "uikName": "УИК №750",
     "tikTvd": "268200079037",
-    "tikName": "Котовская городская"
+    "tikName": "Котовская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 751,
     "uikTvd": "468400771591",
+    "uikName": "УИК №751",
     "tikTvd": "268200079037",
-    "tikName": "Котовская городская"
+    "tikName": "Котовская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 752,
     "uikTvd": "468400771592",
+    "uikName": "УИК №752",
     "tikTvd": "268200079037",
-    "tikName": "Котовская городская"
+    "tikName": "Котовская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 753,
     "uikTvd": "468400771593",
+    "uikName": "УИК №753",
     "tikTvd": "268200079037",
-    "tikName": "Котовская городская"
+    "tikName": "Котовская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 754,
     "uikTvd": "468400771594",
+    "uikName": "УИК №754",
     "tikTvd": "268200079037",
-    "tikName": "Котовская городская"
+    "tikName": "Котовская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 755,
     "uikTvd": "468400771595",
+    "uikName": "УИК №755",
     "tikTvd": "268200079037",
-    "tikName": "Котовская городская"
+    "tikName": "Котовская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 756,
     "uikTvd": "468400771596",
+    "uikName": "УИК №756",
     "tikTvd": "268200079037",
-    "tikName": "Котовская городская"
+    "tikName": "Котовская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 757,
     "uikTvd": "468400771597",
+    "uikName": "УИК №757",
     "tikTvd": "268200079037",
-    "tikName": "Котовская городская"
+    "tikName": "Котовская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 758,
     "uikTvd": "468401272673",
+    "uikName": "УИК №758",
     "tikTvd": "268200079032",
-    "tikName": "Мучкапская"
+    "tikName": "Мучкапская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 759,
     "uikTvd": "468401272674",
+    "uikName": "УИК №759",
     "tikTvd": "268200079032",
-    "tikName": "Мучкапская"
+    "tikName": "Мучкапская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 760,
     "uikTvd": "468401272675",
+    "uikName": "УИК №760",
     "tikTvd": "268200079032",
-    "tikName": "Мучкапская"
+    "tikName": "Мучкапская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 761,
     "uikTvd": "468401272676",
+    "uikName": "УИК №761",
     "tikTvd": "268200079032",
-    "tikName": "Мучкапская"
+    "tikName": "Мучкапская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 762,
     "uikTvd": "468401272677",
+    "uikName": "УИК №762",
     "tikTvd": "268200079032",
-    "tikName": "Мучкапская"
+    "tikName": "Мучкапская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 763,
     "uikTvd": "468401272678",
+    "uikName": "УИК №763",
     "tikTvd": "268200079032",
-    "tikName": "Мучкапская"
+    "tikName": "Мучкапская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 764,
     "uikTvd": "468401272679",
+    "uikName": "УИК №764",
     "tikTvd": "268200079032",
-    "tikName": "Мучкапская"
+    "tikName": "Мучкапская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 765,
     "uikTvd": "468401272680",
+    "uikName": "УИК №765",
     "tikTvd": "268200079032",
-    "tikName": "Мучкапская"
+    "tikName": "Мучкапская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 766,
     "uikTvd": "468401272681",
+    "uikName": "УИК №766",
     "tikTvd": "268200079032",
-    "tikName": "Мучкапская"
+    "tikName": "Мучкапская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 767,
     "uikTvd": "468401272682",
+    "uikName": "УИК №767",
     "tikTvd": "268200079032",
-    "tikName": "Мучкапская"
+    "tikName": "Мучкапская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 768,
     "uikTvd": "468401272683",
+    "uikName": "УИК №768",
     "tikTvd": "268200079032",
-    "tikName": "Мучкапская"
+    "tikName": "Мучкапская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 769,
     "uikTvd": "468401272684",
+    "uikName": "УИК №769",
     "tikTvd": "268200079032",
-    "tikName": "Мучкапская"
+    "tikName": "Мучкапская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 770,
     "uikTvd": "468401272685",
+    "uikName": "УИК №770",
     "tikTvd": "268200079032",
-    "tikName": "Мучкапская"
+    "tikName": "Мучкапская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 771,
     "uikTvd": "468401272686",
+    "uikName": "УИК №771",
     "tikTvd": "268200079032",
-    "tikName": "Мучкапская"
+    "tikName": "Мучкапская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 772,
     "uikTvd": "468401272687",
+    "uikName": "УИК №772",
     "tikTvd": "268200079032",
-    "tikName": "Мучкапская"
+    "tikName": "Мучкапская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 773,
     "uikTvd": "468401272688",
+    "uikName": "УИК №773",
     "tikTvd": "268200079032",
-    "tikName": "Мучкапская"
+    "tikName": "Мучкапская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 774,
     "uikTvd": "468401272689",
+    "uikName": "УИК №774",
     "tikTvd": "268200079032",
-    "tikName": "Мучкапская"
+    "tikName": "Мучкапская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 775,
     "uikTvd": "468401272690",
+    "uikName": "УИК №775",
     "tikTvd": "268200079032",
-    "tikName": "Мучкапская"
+    "tikName": "Мучкапская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 776,
     "uikTvd": "468401272691",
+    "uikName": "УИК №776",
     "tikTvd": "268200079032",
-    "tikName": "Мучкапская"
+    "tikName": "Мучкапская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 777,
     "uikTvd": "468401272692",
+    "uikName": "УИК №777",
     "tikTvd": "268200079032",
-    "tikName": "Мучкапская"
+    "tikName": "Мучкапская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 778,
     "uikTvd": "468401272693",
+    "uikName": "УИК №778",
     "tikTvd": "268200079032",
-    "tikName": "Мучкапская"
+    "tikName": "Мучкапская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 779,
     "uikTvd": "468401272694",
+    "uikName": "УИК №779",
     "tikTvd": "268200079032",
-    "tikName": "Мучкапская"
+    "tikName": "Мучкапская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 780,
     "uikTvd": "468401272695",
+    "uikName": "УИК №780",
     "tikTvd": "268200079032",
-    "tikName": "Мучкапская"
+    "tikName": "Мучкапская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 781,
     "uikTvd": "468401272696",
+    "uikName": "УИК №781",
     "tikTvd": "268200079032",
-    "tikName": "Мучкапская"
+    "tikName": "Мучкапская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 782,
     "uikTvd": "468403171795",
+    "uikName": "УИК  782",
     "tikTvd": "268200079058",
-    "tikName": "Рассказовская"
+    "tikName": "Рассказовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 783,
     "uikTvd": "468403171796",
+    "uikName": "УИК  783",
     "tikTvd": "268200079058",
-    "tikName": "Рассказовская"
+    "tikName": "Рассказовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 784,
     "uikTvd": "468403171797",
+    "uikName": "УИК  784",
     "tikTvd": "268200079058",
-    "tikName": "Рассказовская"
+    "tikName": "Рассказовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 785,
     "uikTvd": "468403171798",
+    "uikName": "УИК  785",
     "tikTvd": "268200079058",
-    "tikName": "Рассказовская"
+    "tikName": "Рассказовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 786,
     "uikTvd": "468403171799",
+    "uikName": "УИК  786",
     "tikTvd": "268200079058",
-    "tikName": "Рассказовская"
+    "tikName": "Рассказовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 787,
     "uikTvd": "468403171800",
+    "uikName": "УИК  787",
     "tikTvd": "268200079058",
-    "tikName": "Рассказовская"
+    "tikName": "Рассказовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 788,
     "uikTvd": "468403171801",
+    "uikName": "УИК  788",
     "tikTvd": "268200079058",
-    "tikName": "Рассказовская"
+    "tikName": "Рассказовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 789,
     "uikTvd": "468403171802",
+    "uikName": "УИК  789",
     "tikTvd": "268200079058",
-    "tikName": "Рассказовская"
+    "tikName": "Рассказовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 790,
     "uikTvd": "468403171803",
+    "uikName": "УИК  790",
     "tikTvd": "268200079058",
-    "tikName": "Рассказовская"
+    "tikName": "Рассказовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 791,
     "uikTvd": "468403171804",
+    "uikName": "УИК  791",
     "tikTvd": "268200079058",
-    "tikName": "Рассказовская"
+    "tikName": "Рассказовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 792,
     "uikTvd": "468403171805",
+    "uikName": "УИК  792",
     "tikTvd": "268200079058",
-    "tikName": "Рассказовская"
+    "tikName": "Рассказовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 793,
     "uikTvd": "468403171806",
+    "uikName": "УИК  793",
     "tikTvd": "268200079058",
-    "tikName": "Рассказовская"
+    "tikName": "Рассказовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 794,
     "uikTvd": "468403171807",
+    "uikName": "УИК  794",
     "tikTvd": "268200079058",
-    "tikName": "Рассказовская"
+    "tikName": "Рассказовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 795,
     "uikTvd": "468403171808",
+    "uikName": "УИК  795",
     "tikTvd": "268200079058",
-    "tikName": "Рассказовская"
+    "tikName": "Рассказовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 796,
     "uikTvd": "468403171809",
+    "uikName": "УИК  796",
     "tikTvd": "268200079058",
-    "tikName": "Рассказовская"
+    "tikName": "Рассказовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 797,
     "uikTvd": "468403171810",
+    "uikName": "УИК  797",
     "tikTvd": "268200079058",
-    "tikName": "Рассказовская"
+    "tikName": "Рассказовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 798,
     "uikTvd": "468403171811",
+    "uikName": "УИК  798",
     "tikTvd": "268200079058",
-    "tikName": "Рассказовская"
+    "tikName": "Рассказовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 799,
     "uikTvd": "468403171812",
+    "uikName": "УИК  799",
     "tikTvd": "268200079058",
-    "tikName": "Рассказовская"
+    "tikName": "Рассказовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 800,
     "uikTvd": "468403171813",
+    "uikName": "УИК  800",
     "tikTvd": "268200079058",
-    "tikName": "Рассказовская"
+    "tikName": "Рассказовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 801,
     "uikTvd": "468403171814",
+    "uikName": "УИК  801",
     "tikTvd": "268200079058",
-    "tikName": "Рассказовская"
+    "tikName": "Рассказовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 802,
     "uikTvd": "468403171815",
+    "uikName": "УИК  802",
     "tikTvd": "268200079058",
-    "tikName": "Рассказовская"
+    "tikName": "Рассказовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 803,
     "uikTvd": "468403171816",
+    "uikName": "УИК  803",
     "tikTvd": "268200079058",
-    "tikName": "Рассказовская"
+    "tikName": "Рассказовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 804,
     "uikTvd": "468403171817",
+    "uikName": "УИК  804",
     "tikTvd": "268200079058",
-    "tikName": "Рассказовская"
+    "tikName": "Рассказовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 805,
     "uikTvd": "468403171818",
+    "uikName": "УИК  805",
     "tikTvd": "268200079058",
-    "tikName": "Рассказовская"
+    "tikName": "Рассказовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 806,
     "uikTvd": "468403171819",
+    "uikName": "УИК  806",
     "tikTvd": "268200079058",
-    "tikName": "Рассказовская"
+    "tikName": "Рассказовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 807,
     "uikTvd": "468403171820",
+    "uikName": "УИК  807",
     "tikTvd": "268200079058",
-    "tikName": "Рассказовская"
+    "tikName": "Рассказовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 808,
     "uikTvd": "468403171821",
+    "uikName": "УИК  808",
     "tikTvd": "268200079058",
-    "tikName": "Рассказовская"
+    "tikName": "Рассказовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 809,
     "uikTvd": "468403171822",
+    "uikName": "УИК  809",
     "tikTvd": "268200079058",
-    "tikName": "Рассказовская"
+    "tikName": "Рассказовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 810,
     "uikTvd": "468403171823",
+    "uikName": "УИК  810",
     "tikTvd": "268200079058",
-    "tikName": "Рассказовская"
+    "tikName": "Рассказовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 811,
     "uikTvd": "468403171824",
+    "uikName": "УИК  811",
     "tikTvd": "268200079058",
-    "tikName": "Рассказовская"
+    "tikName": "Рассказовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 812,
     "uikTvd": "468403171825",
+    "uikName": "УИК  812",
     "tikTvd": "268200079058",
-    "tikName": "Рассказовская"
+    "tikName": "Рассказовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 813,
     "uikTvd": "468403171826",
+    "uikName": "УИК  813",
     "tikTvd": "268200079058",
-    "tikName": "Рассказовская"
+    "tikName": "Рассказовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 814,
     "uikTvd": "468403171827",
+    "uikName": "УИК  814",
     "tikTvd": "268200079058",
-    "tikName": "Рассказовская"
+    "tikName": "Рассказовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 815,
     "uikTvd": "468403171828",
+    "uikName": "УИК  815",
     "tikTvd": "268200079058",
-    "tikName": "Рассказовская"
+    "tikName": "Рассказовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 816,
     "uikTvd": "468401771567",
+    "uikName": "УИК  816",
     "tikTvd": "268200079055",
-    "tikName": "Рассказовская городская"
+    "tikName": "Рассказовская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 817,
     "uikTvd": "468401771568",
+    "uikName": "УИК  817",
     "tikTvd": "268200079055",
-    "tikName": "Рассказовская городская"
+    "tikName": "Рассказовская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 818,
     "uikTvd": "468401771569",
+    "uikName": "УИК  818",
     "tikTvd": "268200079055",
-    "tikName": "Рассказовская городская"
+    "tikName": "Рассказовская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 819,
     "uikTvd": "468401771570",
+    "uikName": "УИК  819",
     "tikTvd": "268200079055",
-    "tikName": "Рассказовская городская"
+    "tikName": "Рассказовская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 820,
     "uikTvd": "468401771571",
+    "uikName": "УИК  820",
     "tikTvd": "268200079055",
-    "tikName": "Рассказовская городская"
+    "tikName": "Рассказовская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 821,
     "uikTvd": "468401771572",
+    "uikName": "УИК  821",
     "tikTvd": "268200079055",
-    "tikName": "Рассказовская городская"
+    "tikName": "Рассказовская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 822,
     "uikTvd": "468401771573",
+    "uikName": "УИК  822",
     "tikTvd": "268200079055",
-    "tikName": "Рассказовская городская"
+    "tikName": "Рассказовская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 823,
     "uikTvd": "468401771574",
+    "uikName": "УИК  823",
     "tikTvd": "268200079055",
-    "tikName": "Рассказовская городская"
+    "tikName": "Рассказовская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 824,
     "uikTvd": "468401771575",
+    "uikName": "УИК  824",
     "tikTvd": "268200079055",
-    "tikName": "Рассказовская городская"
+    "tikName": "Рассказовская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 825,
     "uikTvd": "468401771576",
+    "uikName": "УИК  825",
     "tikTvd": "268200079055",
-    "tikName": "Рассказовская городская"
+    "tikName": "Рассказовская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 826,
     "uikTvd": "468401771577",
+    "uikName": "УИК  826",
     "tikTvd": "268200079055",
-    "tikName": "Рассказовская городская"
+    "tikName": "Рассказовская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 827,
     "uikTvd": "468401771578",
+    "uikName": "УИК  827",
     "tikTvd": "268200079055",
-    "tikName": "Рассказовская городская"
+    "tikName": "Рассказовская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 828,
     "uikTvd": "468401771579",
+    "uikName": "УИК  828",
     "tikTvd": "268200079055",
-    "tikName": "Рассказовская городская"
+    "tikName": "Рассказовская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 829,
     "uikTvd": "468401771580",
+    "uikName": "УИК  829",
     "tikTvd": "268200079055",
-    "tikName": "Рассказовская городская"
+    "tikName": "Рассказовская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 830,
     "uikTvd": "468401771581",
+    "uikName": "УИК  830",
     "tikTvd": "268200079055",
-    "tikName": "Рассказовская городская"
+    "tikName": "Рассказовская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 831,
     "uikTvd": "468401771582",
+    "uikName": "УИК  831",
     "tikTvd": "268200079055",
-    "tikName": "Рассказовская городская"
+    "tikName": "Рассказовская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 832,
     "uikTvd": "468401771583",
+    "uikName": "УИК  832",
     "tikTvd": "268200079055",
-    "tikName": "Рассказовская городская"
+    "tikName": "Рассказовская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 833,
     "uikTvd": "468401771584",
+    "uikName": "УИК  833",
     "tikTvd": "268200079055",
-    "tikName": "Рассказовская городская"
+    "tikName": "Рассказовская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 834,
     "uikTvd": "468401771585",
+    "uikName": "УИК  834",
     "tikTvd": "268200079055",
-    "tikName": "Рассказовская городская"
+    "tikName": "Рассказовская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 835,
     "uikTvd": "468401771586",
+    "uikName": "УИК  835",
     "tikTvd": "268200079055",
-    "tikName": "Рассказовская городская"
+    "tikName": "Рассказовская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 836,
     "uikTvd": "468401771587",
+    "uikName": "УИК  836",
     "tikTvd": "268200079055",
-    "tikName": "Рассказовская городская"
+    "tikName": "Рассказовская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 837,
     "uikTvd": "468402271542",
+    "uikName": "УИК №837",
     "tikTvd": "268200079051",
-    "tikName": "Тамбов, Ленинская"
+    "tikName": "Тамбов, Ленинская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 838,
     "uikTvd": "468402271543",
+    "uikName": "УИК №838",
     "tikTvd": "268200079051",
-    "tikName": "Тамбов, Ленинская"
+    "tikName": "Тамбов, Ленинская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 839,
     "uikTvd": "468402271544",
+    "uikName": "УИК №839",
     "tikTvd": "268200079051",
-    "tikName": "Тамбов, Ленинская"
+    "tikName": "Тамбов, Ленинская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 840,
     "uikTvd": "468402271545",
+    "uikName": "УИК №840",
     "tikTvd": "268200079051",
-    "tikName": "Тамбов, Ленинская"
+    "tikName": "Тамбов, Ленинская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 841,
     "uikTvd": "468402271546",
+    "uikName": "УИК №841",
     "tikTvd": "268200079051",
-    "tikName": "Тамбов, Ленинская"
+    "tikName": "Тамбов, Ленинская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 842,
     "uikTvd": "468402271547",
+    "uikName": "УИК №842",
     "tikTvd": "268200079051",
-    "tikName": "Тамбов, Ленинская"
+    "tikName": "Тамбов, Ленинская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 843,
     "uikTvd": "468402271548",
+    "uikName": "УИК №843",
     "tikTvd": "268200079051",
-    "tikName": "Тамбов, Ленинская"
+    "tikName": "Тамбов, Ленинская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 844,
     "uikTvd": "468402271549",
+    "uikName": "УИК №844",
     "tikTvd": "268200079051",
-    "tikName": "Тамбов, Ленинская"
+    "tikName": "Тамбов, Ленинская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 845,
     "uikTvd": "468402271550",
+    "uikName": "УИК №845",
     "tikTvd": "268200079051",
-    "tikName": "Тамбов, Ленинская"
+    "tikName": "Тамбов, Ленинская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 846,
     "uikTvd": "468402271551",
+    "uikName": "УИК №846",
     "tikTvd": "268200079051",
-    "tikName": "Тамбов, Ленинская"
+    "tikName": "Тамбов, Ленинская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 847,
     "uikTvd": "468402271552",
+    "uikName": "УИК №847",
     "tikTvd": "268200079051",
-    "tikName": "Тамбов, Ленинская"
+    "tikName": "Тамбов, Ленинская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 848,
     "uikTvd": "468402271553",
+    "uikName": "УИК №848",
     "tikTvd": "268200079051",
-    "tikName": "Тамбов, Ленинская"
+    "tikName": "Тамбов, Ленинская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 849,
     "uikTvd": "468402271554",
+    "uikName": "УИК №849",
     "tikTvd": "268200079051",
-    "tikName": "Тамбов, Ленинская"
+    "tikName": "Тамбов, Ленинская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 850,
     "uikTvd": "468402271555",
+    "uikName": "УИК №850",
     "tikTvd": "268200079051",
-    "tikName": "Тамбов, Ленинская"
+    "tikName": "Тамбов, Ленинская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 851,
     "uikTvd": "468402271556",
+    "uikName": "УИК №851",
     "tikTvd": "268200079051",
-    "tikName": "Тамбов, Ленинская"
+    "tikName": "Тамбов, Ленинская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 852,
     "uikTvd": "468402271557",
+    "uikName": "УИК №852",
     "tikTvd": "268200079051",
-    "tikName": "Тамбов, Ленинская"
+    "tikName": "Тамбов, Ленинская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 853,
     "uikTvd": "468402271558",
+    "uikName": "УИК №853",
     "tikTvd": "268200079051",
-    "tikName": "Тамбов, Ленинская"
+    "tikName": "Тамбов, Ленинская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 854,
     "uikTvd": "468402271559",
+    "uikName": "УИК №854",
     "tikTvd": "268200079051",
-    "tikName": "Тамбов, Ленинская"
+    "tikName": "Тамбов, Ленинская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 855,
     "uikTvd": "468402271560",
+    "uikName": "УИК №855",
     "tikTvd": "268200079051",
-    "tikName": "Тамбов, Ленинская"
+    "tikName": "Тамбов, Ленинская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 856,
     "uikTvd": "468402271561",
+    "uikName": "УИК №856",
     "tikTvd": "268200079051",
-    "tikName": "Тамбов, Ленинская"
+    "tikName": "Тамбов, Ленинская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 857,
     "uikTvd": "468402271562",
+    "uikName": "УИК №857",
     "tikTvd": "268200079051",
-    "tikName": "Тамбов, Ленинская"
+    "tikName": "Тамбов, Ленинская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 858,
     "uikTvd": "468402271563",
+    "uikName": "УИК №858",
     "tikTvd": "268200079051",
-    "tikName": "Тамбов, Ленинская"
+    "tikName": "Тамбов, Ленинская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 859,
     "uikTvd": "468402372312",
+    "uikName": "УИК №859",
     "tikTvd": "268200079047",
-    "tikName": "Тамбов, Октябрьская"
+    "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 860,
     "uikTvd": "468402372313",
+    "uikName": "УИК №860",
     "tikTvd": "268200079047",
-    "tikName": "Тамбов, Октябрьская"
+    "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 861,
     "uikTvd": "468402372314",
+    "uikName": "УИК №861",
     "tikTvd": "268200079047",
-    "tikName": "Тамбов, Октябрьская"
+    "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 862,
     "uikTvd": "468402372315",
+    "uikName": "УИК №862",
     "tikTvd": "268200079047",
-    "tikName": "Тамбов, Октябрьская"
+    "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 863,
     "uikTvd": "468402372316",
+    "uikName": "УИК №863",
     "tikTvd": "268200079047",
-    "tikName": "Тамбов, Октябрьская"
+    "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 864,
     "uikTvd": "468402372317",
+    "uikName": "УИК №864",
     "tikTvd": "268200079047",
-    "tikName": "Тамбов, Октябрьская"
+    "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 865,
     "uikTvd": "468402372318",
+    "uikName": "УИК №865",
     "tikTvd": "268200079047",
-    "tikName": "Тамбов, Октябрьская"
+    "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 866,
     "uikTvd": "468402372319",
+    "uikName": "УИК №866",
     "tikTvd": "268200079047",
-    "tikName": "Тамбов, Октябрьская"
+    "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 867,
     "uikTvd": "468402372320",
+    "uikName": "УИК №867",
     "tikTvd": "268200079047",
-    "tikName": "Тамбов, Октябрьская"
+    "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 868,
     "uikTvd": "468402372321",
+    "uikName": "УИК №868",
     "tikTvd": "268200079047",
-    "tikName": "Тамбов, Октябрьская"
+    "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 869,
     "uikTvd": "468402372322",
+    "uikName": "УИК №869",
     "tikTvd": "268200079047",
-    "tikName": "Тамбов, Октябрьская"
+    "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 870,
     "uikTvd": "468402372323",
+    "uikName": "УИК №870",
     "tikTvd": "268200079047",
-    "tikName": "Тамбов, Октябрьская"
+    "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 871,
     "uikTvd": "468402372324",
+    "uikName": "УИК №871",
     "tikTvd": "268200079047",
-    "tikName": "Тамбов, Октябрьская"
+    "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 872,
     "uikTvd": "468402372325",
+    "uikName": "УИК №872",
     "tikTvd": "268200079047",
-    "tikName": "Тамбов, Октябрьская"
+    "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 873,
     "uikTvd": "468402372326",
+    "uikName": "УИК №873",
     "tikTvd": "268200079047",
-    "tikName": "Тамбов, Октябрьская"
+    "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 874,
     "uikTvd": "468402372327",
+    "uikName": "УИК №874",
     "tikTvd": "268200079047",
-    "tikName": "Тамбов, Октябрьская"
+    "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 875,
     "uikTvd": "468402372328",
+    "uikName": "УИК №875",
     "tikTvd": "268200079047",
-    "tikName": "Тамбов, Октябрьская"
+    "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 876,
     "uikTvd": "468402372329",
+    "uikName": "УИК №876",
     "tikTvd": "268200079047",
-    "tikName": "Тамбов, Октябрьская"
+    "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 877,
     "uikTvd": "468402372330",
+    "uikName": "УИК №877",
     "tikTvd": "268200079047",
-    "tikName": "Тамбов, Октябрьская"
+    "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 878,
     "uikTvd": "468402372331",
+    "uikName": "УИК №878",
     "tikTvd": "268200079047",
-    "tikName": "Тамбов, Октябрьская"
+    "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 879,
     "uikTvd": "468402372332",
+    "uikName": "УИК №879",
     "tikTvd": "268200079047",
-    "tikName": "Тамбов, Октябрьская"
+    "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 880,
     "uikTvd": "468402372333",
+    "uikName": "УИК №880",
     "tikTvd": "268200079047",
-    "tikName": "Тамбов, Октябрьская"
+    "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 881,
     "uikTvd": "468402372334",
+    "uikName": "УИК №881",
     "tikTvd": "268200079047",
-    "tikName": "Тамбов, Октябрьская"
+    "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 882,
     "uikTvd": "468402372335",
+    "uikName": "УИК №882",
     "tikTvd": "268200079047",
-    "tikName": "Тамбов, Октябрьская"
+    "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 883,
     "uikTvd": "468402372336",
+    "uikName": "УИК №883",
     "tikTvd": "268200079047",
-    "tikName": "Тамбов, Октябрьская"
+    "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 884,
     "uikTvd": "468402372337",
+    "uikName": "УИК №884",
     "tikTvd": "268200079047",
-    "tikName": "Тамбов, Октябрьская"
+    "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 885,
     "uikTvd": "468402372338",
+    "uikName": "УИК №885",
     "tikTvd": "268200079047",
-    "tikName": "Тамбов, Октябрьская"
+    "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 886,
     "uikTvd": "468402372339",
+    "uikName": "УИК №886",
     "tikTvd": "268200079047",
-    "tikName": "Тамбов, Октябрьская"
+    "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 887,
     "uikTvd": "468402372340",
+    "uikName": "УИК №887",
     "tikTvd": "268200079047",
-    "tikName": "Тамбов, Октябрьская"
+    "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 888,
     "uikTvd": "468402372341",
+    "uikName": "УИК №888",
     "tikTvd": "268200079047",
-    "tikName": "Тамбов, Октябрьская"
+    "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 889,
     "uikTvd": "468402372342",
+    "uikName": "УИК №889",
     "tikTvd": "268200079047",
-    "tikName": "Тамбов, Октябрьская"
+    "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 890,
     "uikTvd": "468402372343",
+    "uikName": "УИК №890",
     "tikTvd": "268200079047",
-    "tikName": "Тамбов, Октябрьская"
+    "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 891,
     "uikTvd": "468402372344",
+    "uikName": "УИК №891",
     "tikTvd": "268200079047",
-    "tikName": "Тамбов, Октябрьская"
+    "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 892,
     "uikTvd": "468402372345",
+    "uikName": "УИК №892",
     "tikTvd": "268200079047",
-    "tikName": "Тамбов, Октябрьская"
+    "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 893,
     "uikTvd": "468402372346",
+    "uikName": "УИК №893",
     "tikTvd": "268200079047",
-    "tikName": "Тамбов, Октябрьская"
+    "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 894,
     "uikTvd": "468402372347",
+    "uikName": "УИК №894",
     "tikTvd": "268200079047",
-    "tikName": "Тамбов, Октябрьская"
+    "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 895,
     "uikTvd": "468402372348",
+    "uikName": "УИК №895",
     "tikTvd": "268200079047",
-    "tikName": "Тамбов, Октябрьская"
+    "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 896,
     "uikTvd": "468402372349",
+    "uikName": "УИК №896",
     "tikTvd": "268200079047",
-    "tikName": "Тамбов, Октябрьская"
+    "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 897,
     "uikTvd": "468402372350",
+    "uikName": "УИК №897",
     "tikTvd": "268200079047",
-    "tikName": "Тамбов, Октябрьская"
+    "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 898,
     "uikTvd": "468402372351",
+    "uikName": "УИК №898",
     "tikTvd": "268200079047",
-    "tikName": "Тамбов, Октябрьская"
+    "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 899,
     "uikTvd": "468402372352",
+    "uikName": "УИК №899",
     "tikTvd": "268200079047",
-    "tikName": "Тамбов, Октябрьская"
+    "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 900,
     "uikTvd": "468402372353",
+    "uikName": "УИК №900",
     "tikTvd": "268200079047",
-    "tikName": "Тамбов, Октябрьская"
+    "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 901,
     "uikTvd": "468402372354",
+    "uikName": "УИК №901",
     "tikTvd": "268200079047",
-    "tikName": "Тамбов, Октябрьская"
+    "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 902,
     "uikTvd": "468402372355",
+    "uikName": "УИК №902",
     "tikTvd": "268200079047",
-    "tikName": "Тамбов, Октябрьская"
+    "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 903,
     "uikTvd": "468402372356",
+    "uikName": "УИК №903",
     "tikTvd": "268200079047",
-    "tikName": "Тамбов, Октябрьская"
+    "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 904,
     "uikTvd": "468402372357",
+    "uikName": "УИК №904",
     "tikTvd": "268200079047",
-    "tikName": "Тамбов, Октябрьская"
+    "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 905,
     "uikTvd": "468402372358",
+    "uikName": "УИК №905",
     "tikTvd": "268200079047",
-    "tikName": "Тамбов, Октябрьская"
+    "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 906,
     "uikTvd": "468402372359",
+    "uikName": "УИК №906",
     "tikTvd": "268200079047",
-    "tikName": "Тамбов, Октябрьская"
+    "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 907,
     "uikTvd": "468402372360",
+    "uikName": "УИК №907",
     "tikTvd": "268200079047",
-    "tikName": "Тамбов, Октябрьская"
+    "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 908,
     "uikTvd": "468402372361",
+    "uikName": "УИК №908",
     "tikTvd": "268200079047",
-    "tikName": "Тамбов, Октябрьская"
+    "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 909,
     "uikTvd": "468402372362",
+    "uikName": "УИК №909",
     "tikTvd": "268200079047",
-    "tikName": "Тамбов, Октябрьская"
+    "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 910,
     "uikTvd": "468402372363",
+    "uikName": "УИК №910",
     "tikTvd": "268200079047",
-    "tikName": "Тамбов, Октябрьская"
+    "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 911,
     "uikTvd": "468402372364",
+    "uikName": "УИК №911",
     "tikTvd": "268200079047",
-    "tikName": "Тамбов, Октябрьская"
+    "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 912,
     "uikTvd": "468402372365",
+    "uikName": "УИК №912",
     "tikTvd": "268200079047",
-    "tikName": "Тамбов, Октябрьская"
+    "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 913,
     "uikTvd": "468402372366",
+    "uikName": "УИК №913",
     "tikTvd": "268200079047",
-    "tikName": "Тамбов, Октябрьская"
+    "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 914,
     "uikTvd": "468402372367",
+    "uikName": "УИК №914",
     "tikTvd": "268200079047",
-    "tikName": "Тамбов, Октябрьская"
+    "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 915,
     "uikTvd": "468402372368",
+    "uikName": "УИК №915",
     "tikTvd": "268200079047",
-    "tikName": "Тамбов, Октябрьская"
+    "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 916,
     "uikTvd": "468402372369",
+    "uikName": "УИК №916",
     "tikTvd": "268200079047",
-    "tikName": "Тамбов, Октябрьская"
+    "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 917,
     "uikTvd": "468402372370",
+    "uikName": "УИК №917",
     "tikTvd": "268200079047",
-    "tikName": "Тамбов, Октябрьская"
+    "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 918,
     "uikTvd": "468402472334",
+    "uikName": "УИК №918",
     "tikTvd": "268200079049",
-    "tikName": "Тамбов, Советская"
+    "tikName": "Тамбов, Советская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 919,
     "uikTvd": "468402472335",
+    "uikName": "УИК №919",
     "tikTvd": "268200079049",
-    "tikName": "Тамбов, Советская"
+    "tikName": "Тамбов, Советская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 920,
     "uikTvd": "468402472336",
+    "uikName": "УИК №920",
     "tikTvd": "268200079049",
-    "tikName": "Тамбов, Советская"
+    "tikName": "Тамбов, Советская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 921,
     "uikTvd": "468402472337",
+    "uikName": "УИК №921",
     "tikTvd": "268200079049",
-    "tikName": "Тамбов, Советская"
+    "tikName": "Тамбов, Советская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 922,
     "uikTvd": "468402472338",
+    "uikName": "УИК №922",
     "tikTvd": "268200079049",
-    "tikName": "Тамбов, Советская"
+    "tikName": "Тамбов, Советская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 923,
     "uikTvd": "468402472339",
+    "uikName": "УИК №923",
     "tikTvd": "268200079049",
-    "tikName": "Тамбов, Советская"
+    "tikName": "Тамбов, Советская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 924,
     "uikTvd": "468402472340",
+    "uikName": "УИК №924",
     "tikTvd": "268200079049",
-    "tikName": "Тамбов, Советская"
+    "tikName": "Тамбов, Советская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 925,
     "uikTvd": "468402472341",
+    "uikName": "УИК №925",
     "tikTvd": "268200079049",
-    "tikName": "Тамбов, Советская"
+    "tikName": "Тамбов, Советская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 926,
     "uikTvd": "468402472342",
+    "uikName": "УИК №926",
     "tikTvd": "268200079049",
-    "tikName": "Тамбов, Советская"
+    "tikName": "Тамбов, Советская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 927,
     "uikTvd": "468402472343",
+    "uikName": "УИК №927",
     "tikTvd": "268200079049",
-    "tikName": "Тамбов, Советская"
+    "tikName": "Тамбов, Советская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 928,
     "uikTvd": "468402472344",
+    "uikName": "УИК №928",
     "tikTvd": "268200079049",
-    "tikName": "Тамбов, Советская"
+    "tikName": "Тамбов, Советская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 929,
     "uikTvd": "468402472345",
+    "uikName": "УИК №929",
     "tikTvd": "268200079049",
-    "tikName": "Тамбов, Советская"
+    "tikName": "Тамбов, Советская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 930,
     "uikTvd": "468402472346",
+    "uikName": "УИК №930",
     "tikTvd": "268200079049",
-    "tikName": "Тамбов, Советская"
+    "tikName": "Тамбов, Советская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 931,
     "uikTvd": "468402472347",
+    "uikName": "УИК №931",
     "tikTvd": "268200079049",
-    "tikName": "Тамбов, Советская"
+    "tikName": "Тамбов, Советская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 932,
     "uikTvd": "468402472348",
+    "uikName": "УИК №932",
     "tikTvd": "268200079049",
-    "tikName": "Тамбов, Советская"
+    "tikName": "Тамбов, Советская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 933,
     "uikTvd": "468402472349",
+    "uikName": "УИК №933",
     "tikTvd": "268200079049",
-    "tikName": "Тамбов, Советская"
+    "tikName": "Тамбов, Советская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 934,
     "uikTvd": "468402472350",
+    "uikName": "УИК №934",
     "tikTvd": "268200079049",
-    "tikName": "Тамбов, Советская"
+    "tikName": "Тамбов, Советская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 935,
     "uikTvd": "468402472351",
+    "uikName": "УИК №935",
     "tikTvd": "268200079049",
-    "tikName": "Тамбов, Советская"
+    "tikName": "Тамбов, Советская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 936,
     "uikTvd": "468402472352",
+    "uikName": "УИК №936",
     "tikTvd": "268200079049",
-    "tikName": "Тамбов, Советская"
+    "tikName": "Тамбов, Советская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 937,
     "uikTvd": "468402472353",
+    "uikName": "УИК №937",
     "tikTvd": "268200079049",
-    "tikName": "Тамбов, Советская"
+    "tikName": "Тамбов, Советская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 938,
     "uikTvd": "468402472354",
+    "uikName": "УИК №938",
     "tikTvd": "268200079049",
-    "tikName": "Тамбов, Советская"
+    "tikName": "Тамбов, Советская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 939,
     "uikTvd": "468402472355",
+    "uikName": "УИК №939",
     "tikTvd": "268200079049",
-    "tikName": "Тамбов, Советская"
+    "tikName": "Тамбов, Советская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 940,
     "uikTvd": "468402472356",
+    "uikName": "УИК №940",
     "tikTvd": "268200079049",
-    "tikName": "Тамбов, Советская"
+    "tikName": "Тамбов, Советская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 941,
     "uikTvd": "468402472357",
+    "uikName": "УИК №941",
     "tikTvd": "268200079049",
-    "tikName": "Тамбов, Советская"
+    "tikName": "Тамбов, Советская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 942,
     "uikTvd": "468402472358",
+    "uikName": "УИК №942",
     "tikTvd": "268200079049",
-    "tikName": "Тамбов, Советская"
+    "tikName": "Тамбов, Советская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 943,
     "uikTvd": "468402472359",
+    "uikName": "УИК №943",
     "tikTvd": "268200079049",
-    "tikName": "Тамбов, Советская"
+    "tikName": "Тамбов, Советская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 944,
     "uikTvd": "468402472360",
+    "uikName": "УИК №944",
     "tikTvd": "268200079049",
-    "tikName": "Тамбов, Советская"
+    "tikName": "Тамбов, Советская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 945,
     "uikTvd": "468402472361",
+    "uikName": "УИК №945",
     "tikTvd": "268200079049",
-    "tikName": "Тамбов, Советская"
+    "tikName": "Тамбов, Советская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 946,
     "uikTvd": "468402472362",
+    "uikName": "УИК №946",
     "tikTvd": "268200079049",
-    "tikName": "Тамбов, Советская"
+    "tikName": "Тамбов, Советская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 947,
     "uikTvd": "468402472363",
+    "uikName": "УИК №947",
     "tikTvd": "268200079049",
-    "tikName": "Тамбов, Советская"
+    "tikName": "Тамбов, Советская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 948,
     "uikTvd": "468402472364",
+    "uikName": "УИК №948",
     "tikTvd": "268200079049",
-    "tikName": "Тамбов, Советская"
+    "tikName": "Тамбов, Советская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 949,
     "uikTvd": "468402472365",
+    "uikName": "УИК №949",
     "tikTvd": "268200079049",
-    "tikName": "Тамбов, Советская"
+    "tikName": "Тамбов, Советская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 950,
     "uikTvd": "468402472366",
+    "uikName": "УИК №950",
     "tikTvd": "268200079049",
-    "tikName": "Тамбов, Советская"
+    "tikName": "Тамбов, Советская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 951,
     "uikTvd": "468402472367",
+    "uikName": "УИК №951",
     "tikTvd": "268200079049",
-    "tikName": "Тамбов, Советская"
+    "tikName": "Тамбов, Советская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 952,
     "uikTvd": "468402472368",
+    "uikName": "УИК №952",
     "tikTvd": "268200079049",
-    "tikName": "Тамбов, Советская"
+    "tikName": "Тамбов, Советская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 953,
     "uikTvd": "468402472369",
+    "uikName": "УИК №953",
     "tikTvd": "268200079049",
-    "tikName": "Тамбов, Советская"
+    "tikName": "Тамбов, Советская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 954,
     "uikTvd": "468402472370",
+    "uikName": "УИК №954",
     "tikTvd": "268200079049",
-    "tikName": "Тамбов, Советская"
+    "tikName": "Тамбов, Советская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 955,
     "uikTvd": "468402573077",
+    "uikName": "УИК №955",
     "tikTvd": "268200079048",
-    "tikName": "Тамбовская"
+    "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 956,
     "uikTvd": "468402573078",
+    "uikName": "УИК №956",
     "tikTvd": "268200079048",
-    "tikName": "Тамбовская"
+    "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 957,
     "uikTvd": "468402573079",
+    "uikName": "УИК №957",
     "tikTvd": "268200079048",
-    "tikName": "Тамбовская"
+    "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 958,
     "uikTvd": "468402573080",
+    "uikName": "УИК №958",
     "tikTvd": "268200079048",
-    "tikName": "Тамбовская"
+    "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 959,
     "uikTvd": "468402573081",
+    "uikName": "УИК №959",
     "tikTvd": "268200079048",
-    "tikName": "Тамбовская"
+    "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 960,
     "uikTvd": "468402573082",
+    "uikName": "УИК №960",
     "tikTvd": "268200079048",
-    "tikName": "Тамбовская"
+    "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 961,
     "uikTvd": "468402573083",
+    "uikName": "УИК №961",
     "tikTvd": "268200079048",
-    "tikName": "Тамбовская"
+    "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 962,
     "uikTvd": "468402573084",
+    "uikName": "УИК №962",
     "tikTvd": "268200079048",
-    "tikName": "Тамбовская"
+    "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 963,
     "uikTvd": "468402573085",
+    "uikName": "УИК №963",
     "tikTvd": "268200079048",
-    "tikName": "Тамбовская"
+    "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 964,
     "uikTvd": "468402573086",
+    "uikName": "УИК №964",
     "tikTvd": "268200079048",
-    "tikName": "Тамбовская"
+    "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 965,
     "uikTvd": "468402573087",
+    "uikName": "УИК №965",
     "tikTvd": "268200079048",
-    "tikName": "Тамбовская"
+    "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 966,
     "uikTvd": "468402573088",
+    "uikName": "УИК №966",
     "tikTvd": "268200079048",
-    "tikName": "Тамбовская"
+    "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 967,
     "uikTvd": "468402573089",
+    "uikName": "УИК №967",
     "tikTvd": "268200079048",
-    "tikName": "Тамбовская"
+    "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 968,
     "uikTvd": "468402573090",
+    "uikName": "УИК №968",
     "tikTvd": "268200079048",
-    "tikName": "Тамбовская"
+    "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 969,
     "uikTvd": "468402573091",
+    "uikName": "УИК №969",
     "tikTvd": "268200079048",
-    "tikName": "Тамбовская"
+    "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 970,
     "uikTvd": "468402573092",
+    "uikName": "УИК №970",
     "tikTvd": "268200079048",
-    "tikName": "Тамбовская"
+    "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 971,
     "uikTvd": "468402573093",
+    "uikName": "УИК №971",
     "tikTvd": "268200079048",
-    "tikName": "Тамбовская"
+    "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 972,
     "uikTvd": "468402573094",
+    "uikName": "УИК №972",
     "tikTvd": "268200079048",
-    "tikName": "Тамбовская"
+    "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 973,
     "uikTvd": "468402573095",
+    "uikName": "УИК №973",
     "tikTvd": "268200079048",
-    "tikName": "Тамбовская"
+    "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 974,
     "uikTvd": "468402573096",
+    "uikName": "УИК №974",
     "tikTvd": "268200079048",
-    "tikName": "Тамбовская"
+    "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 975,
     "uikTvd": "468402573097",
+    "uikName": "УИК №975",
     "tikTvd": "268200079048",
-    "tikName": "Тамбовская"
+    "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 976,
     "uikTvd": "468402573098",
+    "uikName": "УИК №976",
     "tikTvd": "268200079048",
-    "tikName": "Тамбовская"
+    "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 977,
     "uikTvd": "468402573099",
+    "uikName": "УИК №977",
     "tikTvd": "268200079048",
-    "tikName": "Тамбовская"
+    "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 978,
     "uikTvd": "468402573100",
+    "uikName": "УИК №978",
     "tikTvd": "268200079048",
-    "tikName": "Тамбовская"
+    "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 979,
     "uikTvd": "468402573101",
+    "uikName": "УИК №979",
     "tikTvd": "268200079048",
-    "tikName": "Тамбовская"
+    "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 980,
     "uikTvd": "468402573102",
+    "uikName": "УИК №980",
     "tikTvd": "268200079048",
-    "tikName": "Тамбовская"
+    "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 981,
     "uikTvd": "468402573103",
+    "uikName": "УИК №981",
     "tikTvd": "268200079048",
-    "tikName": "Тамбовская"
+    "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 982,
     "uikTvd": "468402573104",
+    "uikName": "УИК №982",
     "tikTvd": "268200079048",
-    "tikName": "Тамбовская"
+    "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 983,
     "uikTvd": "468402573105",
+    "uikName": "УИК №983",
     "tikTvd": "268200079048",
-    "tikName": "Тамбовская"
+    "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 984,
     "uikTvd": "468402573106",
+    "uikName": "УИК №984",
     "tikTvd": "268200079048",
-    "tikName": "Тамбовская"
+    "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 985,
     "uikTvd": "468402573107",
+    "uikName": "УИК №985",
     "tikTvd": "268200079048",
-    "tikName": "Тамбовская"
+    "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 986,
     "uikTvd": "468402573108",
+    "uikName": "УИК №986",
     "tikTvd": "268200079048",
-    "tikName": "Тамбовская"
+    "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 987,
     "uikTvd": "468402573109",
+    "uikName": "УИК №987",
     "tikTvd": "268200079048",
-    "tikName": "Тамбовская"
+    "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 988,
     "uikTvd": "468402573110",
+    "uikName": "УИК №988",
     "tikTvd": "268200079048",
-    "tikName": "Тамбовская"
+    "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 989,
     "uikTvd": "468402573111",
+    "uikName": "УИК №989",
     "tikTvd": "268200079048",
-    "tikName": "Тамбовская"
+    "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 990,
     "uikTvd": "468402573112",
+    "uikName": "УИК №990",
     "tikTvd": "268200079048",
-    "tikName": "Тамбовская"
+    "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 991,
     "uikTvd": "468402573113",
+    "uikName": "УИК №991",
     "tikTvd": "268200079048",
-    "tikName": "Тамбовская"
+    "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 992,
     "uikTvd": "468402573114",
+    "uikName": "УИК №992",
     "tikTvd": "268200079048",
-    "tikName": "Тамбовская"
+    "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 993,
     "uikTvd": "468402573115",
+    "uikName": "УИК №993",
     "tikTvd": "268200079048",
-    "tikName": "Тамбовская"
+    "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 994,
     "uikTvd": "468402573116",
+    "uikName": "УИК №994",
     "tikTvd": "268200079048",
-    "tikName": "Тамбовская"
+    "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 995,
     "uikTvd": "468402573117",
+    "uikName": "УИК №995",
     "tikTvd": "268200079048",
-    "tikName": "Тамбовская"
+    "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 996,
     "uikTvd": "468402573118",
+    "uikName": "УИК №996",
     "tikTvd": "268200079048",
-    "tikName": "Тамбовская"
+    "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 997,
     "uikTvd": "468402573119",
+    "uikName": "УИК №997",
     "tikTvd": "268200079048",
-    "tikName": "Тамбовская"
+    "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 998,
     "uikTvd": "468402573120",
+    "uikName": "УИК №998",
     "tikTvd": "268200079048",
-    "tikName": "Тамбовская"
+    "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 999,
     "uikTvd": "468402573121",
+    "uikName": "УИК №999",
     "tikTvd": "268200079048",
-    "tikName": "Тамбовская"
+    "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 1000,
     "uikTvd": "468402573122",
+    "uikName": "УИК №1000",
     "tikTvd": "268200079048",
-    "tikName": "Тамбовская"
+    "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 1001,
     "uikTvd": "468402573123",
+    "uikName": "УИК №1001",
     "tikTvd": "268200079048",
-    "tikName": "Тамбовская"
+    "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 1002,
     "uikTvd": "468402573124",
+    "uikName": "УИК №1002",
     "tikTvd": "268200079048",
-    "tikName": "Тамбовская"
+    "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 1003,
     "uikTvd": "468402573125",
+    "uikName": "УИК №1003",
     "tikTvd": "268200079048",
-    "tikName": "Тамбовская"
+    "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 1004,
     "uikTvd": "468402573126",
+    "uikName": "УИК №1004",
     "tikTvd": "268200079048",
-    "tikName": "Тамбовская"
+    "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 1005,
     "uikTvd": "468402573127",
+    "uikName": "УИК №1005",
     "tikTvd": "268200079048",
-    "tikName": "Тамбовская"
+    "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 1006,
     "uikTvd": "468402573128",
+    "uikName": "УИК №1006",
     "tikTvd": "268200079048",
-    "tikName": "Тамбовская"
+    "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 1007,
     "uikTvd": "468402573129",
+    "uikName": "УИК №1007",
     "tikTvd": "268200079048",
-    "tikName": "Тамбовская"
+    "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 1008,
     "uikTvd": "468402573130",
+    "uikName": "УИК №1008",
     "tikTvd": "268200079048",
-    "tikName": "Тамбовская"
+    "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 1009,
     "uikTvd": "468402573131",
+    "uikName": "УИК №1009",
     "tikTvd": "268200079048",
-    "tikName": "Тамбовская"
+    "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 1010,
     "uikTvd": "468402573132",
+    "uikName": "УИК №1010",
     "tikTvd": "268200079048",
-    "tikName": "Тамбовская"
+    "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 1011,
     "uikTvd": "468402573133",
+    "uikName": "УИК №1011",
     "tikTvd": "268200079048",
-    "tikName": "Тамбовская"
+    "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 1012,
     "uikTvd": "468402573134",
+    "uikName": "УИК №1012",
     "tikTvd": "268200079048",
-    "tikName": "Тамбовская"
+    "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 1013,
     "uikTvd": "468402573135",
+    "uikName": "УИК №1013",
     "tikTvd": "268200079048",
-    "tikName": "Тамбовская"
+    "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 1014,
     "uikTvd": "468402573136",
+    "uikName": "УИК №1014",
     "tikTvd": "268200079048",
-    "tikName": "Тамбовская"
+    "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 1015,
     "uikTvd": "468402573137",
+    "uikName": "УИК №1015",
     "tikTvd": "268200079048",
-    "tikName": "Тамбовская"
+    "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 1016,
     "uikTvd": "468402573138",
+    "uikName": "УИК №1016",
     "tikTvd": "268200079048",
-    "tikName": "Тамбовская"
+    "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 1017,
     "uikTvd": "468402573139",
+    "uikName": "УИК №1017",
     "tikTvd": "268200079048",
-    "tikName": "Тамбовская"
+    "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 1018,
     "uikTvd": "468402573140",
+    "uikName": "УИК №1018",
     "tikTvd": "268200079048",
-    "tikName": "Тамбовская"
+    "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 1019,
     "uikTvd": "468402573141",
+    "uikName": "УИК №1019",
     "tikTvd": "268200079048",
-    "tikName": "Тамбовская"
+    "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 1020,
     "uikTvd": "468402871853",
+    "uikName": "УИК  1020",
     "tikTvd": "268200079044",
-    "tikName": "Уметская"
+    "tikName": "Уметская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 1021,
     "uikTvd": "468402871854",
+    "uikName": "УИК  1021",
     "tikTvd": "268200079044",
-    "tikName": "Уметская"
+    "tikName": "Уметская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 1022,
     "uikTvd": "468402871810",
+    "uikName": "УИК  1022",
     "tikTvd": "268200079044",
-    "tikName": "Уметская"
+    "tikName": "Уметская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 1023,
     "uikTvd": "468402871811",
+    "uikName": "УИК  1023",
     "tikTvd": "268200079044",
-    "tikName": "Уметская"
+    "tikName": "Уметская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 1024,
     "uikTvd": "468402871812",
+    "uikName": "УИК  1024",
     "tikTvd": "268200079044",
-    "tikName": "Уметская"
+    "tikName": "Уметская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 1025,
     "uikTvd": "468402871813",
+    "uikName": "УИК  1025",
     "tikTvd": "268200079044",
-    "tikName": "Уметская"
+    "tikName": "Уметская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 1026,
     "uikTvd": "468402871814",
+    "uikName": "УИК  1026",
     "tikTvd": "268200079044",
-    "tikName": "Уметская"
+    "tikName": "Уметская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 1027,
     "uikTvd": "468402871815",
+    "uikName": "УИК  1027",
     "tikTvd": "268200079044",
-    "tikName": "Уметская"
+    "tikName": "Уметская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 1028,
     "uikTvd": "468402871816",
+    "uikName": "УИК  1028",
     "tikTvd": "268200079044",
-    "tikName": "Уметская"
+    "tikName": "Уметская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 1029,
     "uikTvd": "468402871817",
+    "uikName": "УИК  1029",
     "tikTvd": "268200079044",
-    "tikName": "Уметская"
+    "tikName": "Уметская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 1030,
     "uikTvd": "468402871818",
+    "uikName": "УИК  1030",
     "tikTvd": "268200079044",
-    "tikName": "Уметская"
+    "tikName": "Уметская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 1031,
     "uikTvd": "468402871819",
+    "uikName": "УИК  1031",
     "tikTvd": "268200079044",
-    "tikName": "Уметская"
+    "tikName": "Уметская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 1032,
     "uikTvd": "468402871820",
+    "uikName": "УИК  1032",
     "tikTvd": "268200079044",
-    "tikName": "Уметская"
+    "tikName": "Уметская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 1033,
     "uikTvd": "468402871821",
+    "uikName": "УИК  1033",
     "tikTvd": "268200079044",
-    "tikName": "Уметская"
+    "tikName": "Уметская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 1034,
     "uikTvd": "468402871822",
+    "uikName": "УИК  1034",
     "tikTvd": "268200079044",
-    "tikName": "Уметская"
+    "tikName": "Уметская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 1035,
     "uikTvd": "468402871823",
+    "uikName": "УИК  1035",
     "tikTvd": "268200079044",
-    "tikName": "Уметская"
+    "tikName": "Уметская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 1036,
     "uikTvd": "468402871824",
+    "uikName": "УИК  1036",
     "tikTvd": "268200079044",
-    "tikName": "Уметская"
+    "tikName": "Уметская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 1037,
     "uikTvd": "468402871825",
+    "uikName": "УИК  1037",
     "tikTvd": "268200079044",
-    "tikName": "Уметская"
+    "tikName": "Уметская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 1038,
     "uikTvd": "468402871826",
+    "uikName": "УИК  1038",
     "tikTvd": "268200079044",
-    "tikName": "Уметская"
+    "tikName": "Уметская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 1039,
     "uikTvd": "468401672329",
+    "uikName": "УИК №1039",
     "tikTvd": "268200079056",
-    "tikName": "Пичаевская"
+    "tikName": "Пичаевская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 1040,
     "uikTvd": "468402771989",
+    "uikName": "УИК  1040",
     "tikTvd": "268200079046",
-    "tikName": "Уваровская"
+    "tikName": "Уваровская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 1041,
     "uikTvd": "468400572108",
+    "uikName": "УИК  1041",
     "tikTvd": "268200079040",
-    "tikName": "Инжавинская"
+    "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 1042,
     "uikTvd": "468402971679",
+    "uikName": "УИК №1042",
     "tikTvd": "268200079043",
-    "tikName": "Кирсановская городская"
+    "tikName": "Кирсановская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   },
   {
     "uikNumber": 1043,
     "uikTvd": "468402971680",
+    "uikName": "УИК №1043",
     "tikTvd": "268200079043",
-    "tikName": "Кирсановская городская"
+    "tikName": "Кирсановская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
+    "district": null
   }
 ] satisfies readonly UikTikRelation[];

@@ -11,6 +11,9 @@ export const duma_2011_tic_233_region_51 = [
     "ballot": "party",
     "tikTvd": "2512000214198",
     "tikName": "Александровская",
+    "regionCode": "51",
+    "regionTvd": "100100028713400",
+    "regionName": "Мурманская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 34258,
@@ -84,6 +87,9 @@ export const duma_2011_tic_233_region_51 = [
     "ballot": "party",
     "tikTvd": "2512000214199",
     "tikName": "Видяевская",
+    "regionCode": "51",
+    "regionTvd": "100100028713400",
+    "regionName": "Мурманская область",
     "uikCount": 3,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 3914,
@@ -136,6 +142,9 @@ export const duma_2011_tic_233_region_51 = [
     "ballot": "party",
     "tikTvd": "2512000214200",
     "tikName": "Заозерская",
+    "regionCode": "51",
+    "regionTvd": "100100028713400",
+    "regionName": "Мурманская область",
     "uikCount": 5,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 8081,
@@ -190,6 +199,9 @@ export const duma_2011_tic_233_region_51 = [
     "ballot": "party",
     "tikTvd": "2512000214201",
     "tikName": "Печенгская",
+    "regionCode": "51",
+    "regionTvd": "100100028713400",
+    "regionName": "Мурманская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 33188,
@@ -269,6 +281,9 @@ export const duma_2011_tic_233_region_51 = [
     "ballot": "party",
     "tikTvd": "2512000214202",
     "tikName": "Кировская",
+    "regionCode": "51",
+    "regionTvd": "100100028713400",
+    "regionName": "Мурманская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 27247,
@@ -341,6 +356,9 @@ export const duma_2011_tic_233_region_51 = [
     "ballot": "party",
     "tikTvd": "2512000214203",
     "tikName": "Североморская",
+    "regionCode": "51",
+    "regionTvd": "100100028713400",
+    "regionName": "Мурманская область",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 56565,
@@ -422,6 +440,9 @@ export const duma_2011_tic_233_region_51 = [
     "ballot": "party",
     "tikTvd": "2512000214204",
     "tikName": "Полярнозоринская",
+    "regionCode": "51",
+    "regionTvd": "100100028713400",
+    "regionName": "Мурманская область",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 14907,
@@ -483,6 +504,9 @@ export const duma_2011_tic_233_region_51 = [
     "ballot": "party",
     "tikTvd": "2512000214205",
     "tikName": "Апатитская",
+    "regionCode": "51",
+    "regionTvd": "100100028713400",
+    "regionName": "Мурманская область",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 51459,
@@ -564,6 +588,9 @@ export const duma_2011_tic_233_region_51 = [
     "ballot": "party",
     "tikTvd": "2512000214206",
     "tikName": "Кандалакшская",
+    "regionCode": "51",
+    "regionTvd": "100100028713400",
+    "regionName": "Мурманская область",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 43165,
@@ -655,6 +682,9 @@ export const duma_2011_tic_233_region_51 = [
     "ballot": "party",
     "tikTvd": "2512000214207",
     "tikName": "Мончегорская",
+    "regionCode": "51",
+    "regionTvd": "100100028713400",
+    "regionName": "Мурманская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 41846,
@@ -728,6 +758,9 @@ export const duma_2011_tic_233_region_51 = [
     "ballot": "party",
     "tikTvd": "2512000214208",
     "tikName": "Островнинская",
+    "regionCode": "51",
+    "regionTvd": "100100028713400",
+    "regionName": "Мурманская область",
     "uikCount": 2,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 1646,
@@ -779,6 +812,9 @@ export const duma_2011_tic_233_region_51 = [
     "ballot": "party",
     "tikTvd": "2512000214209",
     "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100028713400",
+    "regionName": "Мурманская область",
     "uikCount": 278,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 263815,
@@ -1106,6 +1142,9 @@ export const duma_2011_tic_233_region_51 = [
     "ballot": "party",
     "tikTvd": "2512000214210",
     "tikName": "Кольская",
+    "regionCode": "51",
+    "regionTvd": "100100028713400",
+    "regionName": "Мурманская область",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 35188,
@@ -1188,6 +1227,9 @@ export const duma_2011_tic_233_region_51 = [
     "ballot": "party",
     "tikTvd": "2512000214211",
     "tikName": "Ковдорская",
+    "regionCode": "51",
+    "regionTvd": "100100028713400",
+    "regionName": "Мурманская область",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 18817,
@@ -1250,6 +1292,9 @@ export const duma_2011_tic_233_region_51 = [
     "ballot": "party",
     "tikTvd": "2512000214212",
     "tikName": "Ловозерская",
+    "regionCode": "51",
+    "regionTvd": "100100028713400",
+    "regionName": "Мурманская область",
     "uikCount": 9,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 8995,
@@ -1308,6 +1353,9 @@ export const duma_2011_tic_233_region_51 = [
     "ballot": "party",
     "tikTvd": "2512000214213",
     "tikName": "Оленегорская",
+    "regionCode": "51",
+    "regionTvd": "100100028713400",
+    "regionName": "Мурманская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 25329,
@@ -1376,6 +1424,9 @@ export const duma_2011_tic_233_region_51 = [
     "ballot": "party",
     "tikTvd": "2512000214214",
     "tikName": "Терская",
+    "regionCode": "51",
+    "regionTvd": "100100028713400",
+    "regionName": "Мурманская область",
     "uikCount": 9,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 5698,

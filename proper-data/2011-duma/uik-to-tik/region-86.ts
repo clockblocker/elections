@@ -7,3931 +7,7206 @@ export const duma_2011_uik_to_tik_region_86 = [
   {
     "uikNumber": 1,
     "uikTvd": "4864002107520",
+    "uikName": "УИК №1",
     "tikTvd": "2862000216102",
-    "tikName": "Березовская"
+    "tikName": "Березовская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 2,
     "uikTvd": "4864002107521",
+    "uikName": "УИК №2",
     "tikTvd": "2862000216102",
-    "tikName": "Березовская"
+    "tikName": "Березовская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 3,
     "uikTvd": "4864002107522",
+    "uikName": "УИК №3",
     "tikTvd": "2862000216102",
-    "tikName": "Березовская"
+    "tikName": "Березовская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 4,
     "uikTvd": "4864002107523",
+    "uikName": "УИК №4",
     "tikTvd": "2862000216102",
-    "tikName": "Березовская"
+    "tikName": "Березовская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 5,
     "uikTvd": "4864002107524",
+    "uikName": "УИК №5",
     "tikTvd": "2862000216102",
-    "tikName": "Березовская"
+    "tikName": "Березовская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 6,
     "uikTvd": "4864002107525",
+    "uikName": "УИК №6",
     "tikTvd": "2862000216102",
-    "tikName": "Березовская"
+    "tikName": "Березовская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 7,
     "uikTvd": "4864002107526",
+    "uikName": "УИК №7",
     "tikTvd": "2862000216102",
-    "tikName": "Березовская"
+    "tikName": "Березовская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 8,
     "uikTvd": "4864002107527",
+    "uikName": "УИК №8",
     "tikTvd": "2862000216102",
-    "tikName": "Березовская"
+    "tikName": "Березовская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 9,
     "uikTvd": "4864002107528",
+    "uikName": "УИК №9",
     "tikTvd": "2862000216102",
-    "tikName": "Березовская"
+    "tikName": "Березовская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 10,
     "uikTvd": "4864002107529",
+    "uikName": "УИК №10",
     "tikTvd": "2862000216102",
-    "tikName": "Березовская"
+    "tikName": "Березовская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 11,
     "uikTvd": "4864002107530",
+    "uikName": "УИК №11",
     "tikTvd": "2862000216102",
-    "tikName": "Березовская"
+    "tikName": "Березовская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 12,
     "uikTvd": "4864002107531",
+    "uikName": "УИК №12",
     "tikTvd": "2862000216102",
-    "tikName": "Березовская"
+    "tikName": "Березовская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 13,
     "uikTvd": "4864002107532",
+    "uikName": "УИК №13",
     "tikTvd": "2862000216102",
-    "tikName": "Березовская"
+    "tikName": "Березовская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 14,
     "uikTvd": "4864002107533",
+    "uikName": "УИК №14",
     "tikTvd": "2862000216102",
-    "tikName": "Березовская"
+    "tikName": "Березовская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 15,
     "uikTvd": "4864002107534",
+    "uikName": "УИК №15",
     "tikTvd": "2862000216102",
-    "tikName": "Березовская"
+    "tikName": "Березовская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 16,
     "uikTvd": "4864002107535",
+    "uikName": "УИК №16",
     "tikTvd": "2862000216102",
-    "tikName": "Березовская"
+    "tikName": "Березовская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 17,
     "uikTvd": "4864002107536",
+    "uikName": "УИК №17",
     "tikTvd": "2862000216102",
-    "tikName": "Березовская"
+    "tikName": "Березовская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 18,
     "uikTvd": "4864002107537",
+    "uikName": "УИК №18",
     "tikTvd": "2862000216102",
-    "tikName": "Березовская"
+    "tikName": "Березовская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 19,
     "uikTvd": "4864002107538",
+    "uikName": "УИК №19",
     "tikTvd": "2862000216102",
-    "tikName": "Березовская"
+    "tikName": "Березовская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 20,
     "uikTvd": "4864002107518",
+    "uikName": "УИК №20",
     "tikTvd": "2862000216102",
-    "tikName": "Березовская"
+    "tikName": "Березовская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 21,
     "uikTvd": "4864001115537",
+    "uikName": "УИК №21",
     "tikTvd": "2862000216103",
-    "tikName": "Белоярская"
+    "tikName": "Белоярская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 22,
     "uikTvd": "4864001115538",
+    "uikName": "УИК №22",
     "tikTvd": "2862000216103",
-    "tikName": "Белоярская"
+    "tikName": "Белоярская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 23,
     "uikTvd": "4864001115539",
+    "uikName": "УИК №23",
     "tikTvd": "2862000216103",
-    "tikName": "Белоярская"
+    "tikName": "Белоярская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 24,
     "uikTvd": "4864001115540",
+    "uikName": "УИК №24",
     "tikTvd": "2862000216103",
-    "tikName": "Белоярская"
+    "tikName": "Белоярская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 25,
     "uikTvd": "4864001115541",
+    "uikName": "УИК №25",
     "tikTvd": "2862000216103",
-    "tikName": "Белоярская"
+    "tikName": "Белоярская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 26,
     "uikTvd": "4864001115542",
+    "uikName": "УИК №26",
     "tikTvd": "2862000216103",
-    "tikName": "Белоярская"
+    "tikName": "Белоярская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 27,
     "uikTvd": "4864001115543",
+    "uikName": "УИК №27",
     "tikTvd": "2862000216103",
-    "tikName": "Белоярская"
+    "tikName": "Белоярская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 28,
     "uikTvd": "4864001115544",
+    "uikName": "УИК №28",
     "tikTvd": "2862000216103",
-    "tikName": "Белоярская"
+    "tikName": "Белоярская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 29,
     "uikTvd": "4864001115545",
+    "uikName": "УИК №29",
     "tikTvd": "2862000216103",
-    "tikName": "Белоярская"
+    "tikName": "Белоярская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 30,
     "uikTvd": "4864001115546",
+    "uikName": "УИК №30",
     "tikTvd": "2862000216103",
-    "tikName": "Белоярская"
+    "tikName": "Белоярская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 31,
     "uikTvd": "4864001115547",
+    "uikName": "УИК №31",
     "tikTvd": "2862000216103",
-    "tikName": "Белоярская"
+    "tikName": "Белоярская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 32,
     "uikTvd": "4864001115548",
+    "uikName": "УИК №32",
     "tikTvd": "2862000216103",
-    "tikName": "Белоярская"
+    "tikName": "Белоярская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 33,
     "uikTvd": "4864001115549",
+    "uikName": "УИК №33",
     "tikTvd": "2862000216103",
-    "tikName": "Белоярская"
+    "tikName": "Белоярская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 34,
     "uikTvd": "4864001115550",
+    "uikName": "УИК №34",
     "tikTvd": "2862000216103",
-    "tikName": "Белоярская"
+    "tikName": "Белоярская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 35,
     "uikTvd": "4864001115551",
+    "uikName": "УИК №35",
     "tikTvd": "2862000216103",
-    "tikName": "Белоярская"
+    "tikName": "Белоярская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 36,
     "uikTvd": "4864001115552",
+    "uikName": "УИК №36",
     "tikTvd": "2862000216103",
-    "tikName": "Белоярская"
+    "tikName": "Белоярская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 37,
     "uikTvd": "4864010114526",
+    "uikName": "УИК №37",
     "tikTvd": "2862000216092",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 38,
     "uikTvd": "4864010114527",
+    "uikName": "УИК №38",
     "tikTvd": "2862000216092",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 39,
     "uikTvd": "4864010114528",
+    "uikName": "УИК №39",
     "tikTvd": "2862000216092",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 40,
     "uikTvd": "4864010114529",
+    "uikName": "УИК №40",
     "tikTvd": "2862000216092",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 41,
     "uikTvd": "4864010114530",
+    "uikName": "УИК №41",
     "tikTvd": "2862000216092",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 42,
     "uikTvd": "4864010114531",
+    "uikName": "УИК №42",
     "tikTvd": "2862000216092",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 43,
     "uikTvd": "4864010114532",
+    "uikName": "УИК №43",
     "tikTvd": "2862000216092",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 44,
     "uikTvd": "4864010114533",
+    "uikName": "УИК №44",
     "tikTvd": "2862000216092",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 45,
     "uikTvd": "4864010114534",
+    "uikName": "УИК №45",
     "tikTvd": "2862000216092",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 46,
     "uikTvd": "4864010114535",
+    "uikName": "УИК №46",
     "tikTvd": "2862000216092",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 47,
     "uikTvd": "4864010114536",
+    "uikName": "УИК №47",
     "tikTvd": "2862000216092",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 48,
     "uikTvd": "4864010114537",
+    "uikName": "УИК №48",
     "tikTvd": "2862000216092",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 49,
     "uikTvd": "4864010114538",
+    "uikName": "УИК №49",
     "tikTvd": "2862000216092",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 50,
     "uikTvd": "4864010114539",
+    "uikName": "УИК №50",
     "tikTvd": "2862000216092",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 51,
     "uikTvd": "4864010114540",
+    "uikName": "УИК №51",
     "tikTvd": "2862000216092",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 52,
     "uikTvd": "4864010114541",
+    "uikName": "УИК №52",
     "tikTvd": "2862000216092",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 53,
     "uikTvd": "4864010114542",
+    "uikName": "УИК №53",
     "tikTvd": "2862000216092",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 54,
     "uikTvd": "4864010114543",
+    "uikName": "УИК №54",
     "tikTvd": "2862000216092",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 55,
     "uikTvd": "4864010114544",
+    "uikName": "УИК №55",
     "tikTvd": "2862000216092",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 56,
     "uikTvd": "4864010114545",
+    "uikName": "УИК №56",
     "tikTvd": "2862000216092",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 57,
     "uikTvd": "4864010114546",
+    "uikName": "УИК №57",
     "tikTvd": "2862000216092",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 58,
     "uikTvd": "4864010114547",
+    "uikName": "УИК №58",
     "tikTvd": "2862000216092",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 59,
     "uikTvd": "4864010114548",
+    "uikName": "УИК №59",
     "tikTvd": "2862000216092",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 60,
     "uikTvd": "4864010114549",
+    "uikName": "УИК №60",
     "tikTvd": "2862000216092",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 61,
     "uikTvd": "4864010114550",
+    "uikName": "УИК №61",
     "tikTvd": "2862000216092",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 62,
     "uikTvd": "4864010114551",
+    "uikName": "УИК №62",
     "tikTvd": "2862000216092",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 63,
     "uikTvd": "486400987354",
+    "uikName": "УИК №63",
     "tikTvd": "2862000216093",
-    "tikName": "Няганьская городская"
+    "tikName": "Няганьская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 64,
     "uikTvd": "486400987355",
+    "uikName": "УИК №64",
     "tikTvd": "2862000216093",
-    "tikName": "Няганьская городская"
+    "tikName": "Няганьская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 65,
     "uikTvd": "486400987356",
+    "uikName": "УИК №65",
     "tikTvd": "2862000216093",
-    "tikName": "Няганьская городская"
+    "tikName": "Няганьская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 66,
     "uikTvd": "486400987357",
+    "uikName": "УИК №66",
     "tikTvd": "2862000216093",
-    "tikName": "Няганьская городская"
+    "tikName": "Няганьская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 67,
     "uikTvd": "486400987358",
+    "uikName": "УИК №67",
     "tikTvd": "2862000216093",
-    "tikName": "Няганьская городская"
+    "tikName": "Няганьская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 68,
     "uikTvd": "486400987359",
+    "uikName": "УИК №68",
     "tikTvd": "2862000216093",
-    "tikName": "Няганьская городская"
+    "tikName": "Няганьская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 69,
     "uikTvd": "486400987360",
+    "uikName": "УИК №69",
     "tikTvd": "2862000216093",
-    "tikName": "Няганьская городская"
+    "tikName": "Няганьская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 70,
     "uikTvd": "486400987361",
+    "uikName": "УИК №70",
     "tikTvd": "2862000216093",
-    "tikName": "Няганьская городская"
+    "tikName": "Няганьская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 71,
     "uikTvd": "486400987362",
+    "uikName": "УИК №71",
     "tikTvd": "2862000216093",
-    "tikName": "Няганьская городская"
+    "tikName": "Няганьская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 72,
     "uikTvd": "486400987363",
+    "uikName": "УИК №72",
     "tikTvd": "2862000216093",
-    "tikName": "Няганьская городская"
+    "tikName": "Няганьская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 73,
     "uikTvd": "486400987364",
+    "uikName": "УИК №73",
     "tikTvd": "2862000216093",
-    "tikName": "Няганьская городская"
+    "tikName": "Няганьская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 74,
     "uikTvd": "486400987365",
+    "uikName": "УИК №74",
     "tikTvd": "2862000216093",
-    "tikName": "Няганьская городская"
+    "tikName": "Няганьская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 75,
     "uikTvd": "486400987366",
+    "uikName": "УИК №75",
     "tikTvd": "2862000216093",
-    "tikName": "Няганьская городская"
+    "tikName": "Няганьская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 76,
     "uikTvd": "486400987367",
+    "uikName": "УИК №76",
     "tikTvd": "2862000216093",
-    "tikName": "Няганьская городская"
+    "tikName": "Няганьская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 77,
     "uikTvd": "486400987368",
+    "uikName": "УИК №77",
     "tikTvd": "2862000216093",
-    "tikName": "Няганьская городская"
+    "tikName": "Няганьская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 78,
     "uikTvd": "486400987369",
+    "uikName": "УИК №78",
     "tikTvd": "2862000216093",
-    "tikName": "Няганьская городская"
+    "tikName": "Няганьская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 79,
     "uikTvd": "486400987370",
+    "uikName": "УИК №79",
     "tikTvd": "2862000216093",
-    "tikName": "Няганьская городская"
+    "tikName": "Няганьская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 80,
     "uikTvd": "486400987371",
+    "uikName": "УИК №80",
     "tikTvd": "2862000216093",
-    "tikName": "Няганьская городская"
+    "tikName": "Няганьская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 81,
     "uikTvd": "486400987372",
+    "uikName": "УИК №81",
     "tikTvd": "2862000216093",
-    "tikName": "Няганьская городская"
+    "tikName": "Няганьская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 82,
     "uikTvd": "486400987373",
+    "uikName": "УИК №82",
     "tikTvd": "2862000216093",
-    "tikName": "Няганьская городская"
+    "tikName": "Няганьская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 83,
     "uikTvd": "486400987374",
+    "uikName": "УИК №83",
     "tikTvd": "2862000216093",
-    "tikName": "Няганьская городская"
+    "tikName": "Няганьская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 84,
     "uikTvd": "486400987375",
+    "uikName": "УИК №84",
     "tikTvd": "2862000216093",
-    "tikName": "Няганьская городская"
+    "tikName": "Няганьская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 85,
     "uikTvd": "486400987376",
+    "uikName": "УИК №85",
     "tikTvd": "2862000216093",
-    "tikName": "Няганьская городская"
+    "tikName": "Няганьская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 86,
     "uikTvd": "486400987377",
+    "uikName": "УИК №86",
     "tikTvd": "2862000216093",
-    "tikName": "Няганьская городская"
+    "tikName": "Няганьская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 87,
     "uikTvd": "486400987378",
+    "uikName": "УИК №87",
     "tikTvd": "2862000216093",
-    "tikName": "Няганьская городская"
+    "tikName": "Няганьская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 88,
     "uikTvd": "8858004132343",
+    "uikName": "УИК №88",
     "tikTvd": "2862000216100",
-    "tikName": "Кондинская"
+    "tikName": "Кондинская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 89,
     "uikTvd": "8858004132344",
+    "uikName": "УИК №89",
     "tikTvd": "2862000216100",
-    "tikName": "Кондинская"
+    "tikName": "Кондинская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 90,
     "uikTvd": "8858004132383",
+    "uikName": "УИК №90",
     "tikTvd": "2862000216100",
-    "tikName": "Кондинская"
+    "tikName": "Кондинская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 91,
     "uikTvd": "8858004132384",
+    "uikName": "УИК №91",
     "tikTvd": "2862000216100",
-    "tikName": "Кондинская"
+    "tikName": "Кондинская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 92,
     "uikTvd": "8858004132385",
+    "uikName": "УИК №92",
     "tikTvd": "2862000216100",
-    "tikName": "Кондинская"
+    "tikName": "Кондинская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 93,
     "uikTvd": "8858004132386",
+    "uikName": "УИК №93",
     "tikTvd": "2862000216100",
-    "tikName": "Кондинская"
+    "tikName": "Кондинская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 94,
     "uikTvd": "8858004132387",
+    "uikName": "УИК №94",
     "tikTvd": "2862000216100",
-    "tikName": "Кондинская"
+    "tikName": "Кондинская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 95,
     "uikTvd": "8858004132388",
+    "uikName": "УИК №95",
     "tikTvd": "2862000216100",
-    "tikName": "Кондинская"
+    "tikName": "Кондинская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 96,
     "uikTvd": "8858004132389",
+    "uikName": "УИК №96",
     "tikTvd": "2862000216100",
-    "tikName": "Кондинская"
+    "tikName": "Кондинская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 97,
     "uikTvd": "8858004132390",
+    "uikName": "УИК №97",
     "tikTvd": "2862000216100",
-    "tikName": "Кондинская"
+    "tikName": "Кондинская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 98,
     "uikTvd": "8858004132391",
+    "uikName": "УИК №98",
     "tikTvd": "2862000216100",
-    "tikName": "Кондинская"
+    "tikName": "Кондинская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 99,
     "uikTvd": "8858004132392",
+    "uikName": "УИК №99",
     "tikTvd": "2862000216100",
-    "tikName": "Кондинская"
+    "tikName": "Кондинская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 100,
     "uikTvd": "8858004132393",
+    "uikName": "УИК №100",
     "tikTvd": "2862000216100",
-    "tikName": "Кондинская"
+    "tikName": "Кондинская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 101,
     "uikTvd": "8858004132394",
+    "uikName": "УИК №101",
     "tikTvd": "2862000216100",
-    "tikName": "Кондинская"
+    "tikName": "Кондинская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 102,
     "uikTvd": "8858004132395",
+    "uikName": "УИК №102",
     "tikTvd": "2862000216100",
-    "tikName": "Кондинская"
+    "tikName": "Кондинская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 103,
     "uikTvd": "8858004132396",
+    "uikName": "УИК №103",
     "tikTvd": "2862000216100",
-    "tikName": "Кондинская"
+    "tikName": "Кондинская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 104,
     "uikTvd": "8858004132397",
+    "uikName": "УИК №104",
     "tikTvd": "2862000216100",
-    "tikName": "Кондинская"
+    "tikName": "Кондинская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 105,
     "uikTvd": "8858004132398",
+    "uikName": "УИК №105",
     "tikTvd": "2862000216100",
-    "tikName": "Кондинская"
+    "tikName": "Кондинская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 106,
     "uikTvd": "8858004132399",
+    "uikName": "УИК №106",
     "tikTvd": "2862000216100",
-    "tikName": "Кондинская"
+    "tikName": "Кондинская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 107,
     "uikTvd": "8858004132400",
+    "uikName": "УИК №107",
     "tikTvd": "2862000216100",
-    "tikName": "Кондинская"
+    "tikName": "Кондинская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 108,
     "uikTvd": "8858004132401",
+    "uikName": "УИК №108",
     "tikTvd": "2862000216100",
-    "tikName": "Кондинская"
+    "tikName": "Кондинская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 109,
     "uikTvd": "8858004132402",
+    "uikName": "УИК №109",
     "tikTvd": "2862000216100",
-    "tikName": "Кондинская"
+    "tikName": "Кондинская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 110,
     "uikTvd": "8858004132403",
+    "uikName": "УИК №110",
     "tikTvd": "2862000216100",
-    "tikName": "Кондинская"
+    "tikName": "Кондинская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 111,
     "uikTvd": "8858004132404",
+    "uikName": "УИК №111",
     "tikTvd": "2862000216100",
-    "tikName": "Кондинская"
+    "tikName": "Кондинская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 112,
     "uikTvd": "8858004132405",
+    "uikName": "УИК №112",
     "tikTvd": "2862000216100",
-    "tikName": "Кондинская"
+    "tikName": "Кондинская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 113,
     "uikTvd": "8858004132482",
+    "uikName": "УИК №113",
     "tikTvd": "2862000216100",
-    "tikName": "Кондинская"
+    "tikName": "Кондинская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 114,
     "uikTvd": "486401785543",
+    "uikName": "УИК №114",
     "tikTvd": "2862000216085",
-    "tikName": "Урайская городская"
+    "tikName": "Урайская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 115,
     "uikTvd": "486401785544",
+    "uikName": "УИК №115",
     "tikTvd": "2862000216085",
-    "tikName": "Урайская городская"
+    "tikName": "Урайская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 116,
     "uikTvd": "486401785545",
+    "uikName": "УИК №116",
     "tikTvd": "2862000216085",
-    "tikName": "Урайская городская"
+    "tikName": "Урайская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 117,
     "uikTvd": "486401785546",
+    "uikName": "УИК №117",
     "tikTvd": "2862000216085",
-    "tikName": "Урайская городская"
+    "tikName": "Урайская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 118,
     "uikTvd": "486401785547",
+    "uikName": "УИК №118",
     "tikTvd": "2862000216085",
-    "tikName": "Урайская городская"
+    "tikName": "Урайская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 119,
     "uikTvd": "486401785548",
+    "uikName": "УИК №119",
     "tikTvd": "2862000216085",
-    "tikName": "Урайская городская"
+    "tikName": "Урайская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 120,
     "uikTvd": "486401785549",
+    "uikName": "УИК №120",
     "tikTvd": "2862000216085",
-    "tikName": "Урайская городская"
+    "tikName": "Урайская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 121,
     "uikTvd": "486401785550",
+    "uikName": "УИК №121",
     "tikTvd": "2862000216085",
-    "tikName": "Урайская городская"
+    "tikName": "Урайская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 122,
     "uikTvd": "486401785551",
+    "uikName": "УИК №122",
     "tikTvd": "2862000216085",
-    "tikName": "Урайская городская"
+    "tikName": "Урайская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 123,
     "uikTvd": "486401785552",
+    "uikName": "УИК №123",
     "tikTvd": "2862000216085",
-    "tikName": "Урайская городская"
+    "tikName": "Урайская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 124,
     "uikTvd": "486401785553",
+    "uikName": "УИК №124",
     "tikTvd": "2862000216085",
-    "tikName": "Урайская городская"
+    "tikName": "Урайская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 125,
     "uikTvd": "486401785554",
+    "uikName": "УИК №125",
     "tikTvd": "2862000216085",
-    "tikName": "Урайская городская"
+    "tikName": "Урайская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 126,
     "uikTvd": "486401785555",
+    "uikName": "УИК №126",
     "tikTvd": "2862000216085",
-    "tikName": "Урайская городская"
+    "tikName": "Урайская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 127,
     "uikTvd": "486401785556",
+    "uikName": "УИК №127",
     "tikTvd": "2862000216085",
-    "tikName": "Урайская городская"
+    "tikName": "Урайская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 128,
     "uikTvd": "486401785557",
+    "uikName": "УИК №128",
     "tikTvd": "2862000216085",
-    "tikName": "Урайская городская"
+    "tikName": "Урайская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 129,
     "uikTvd": "486401785558",
+    "uikName": "УИК №129",
     "tikTvd": "2862000216085",
-    "tikName": "Урайская городская"
+    "tikName": "Урайская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 130,
     "uikTvd": "486401785559",
+    "uikName": "УИК №130",
     "tikTvd": "2862000216085",
-    "tikName": "Урайская городская"
+    "tikName": "Урайская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 131,
     "uikTvd": "486401785560",
+    "uikName": "УИК №131",
     "tikTvd": "2862000216085",
-    "tikName": "Урайская городская"
+    "tikName": "Урайская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 132,
     "uikTvd": "486401785561",
+    "uikName": "УИК №132",
     "tikTvd": "2862000216085",
-    "tikName": "Урайская городская"
+    "tikName": "Урайская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 133,
     "uikTvd": "486401785562",
+    "uikName": "УИК №133",
     "tikTvd": "2862000216085",
-    "tikName": "Урайская городская"
+    "tikName": "Урайская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 134,
     "uikTvd": "4864014112335",
+    "uikName": "УИК №134",
     "tikTvd": "2862000216088",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 135,
     "uikTvd": "4864014112336",
+    "uikName": "УИК №135",
     "tikTvd": "2862000216088",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 136,
     "uikTvd": "4864014112337",
+    "uikName": "УИК №136",
     "tikTvd": "2862000216088",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 137,
     "uikTvd": "4864014112338",
+    "uikName": "УИК №137",
     "tikTvd": "2862000216088",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 138,
     "uikTvd": "4864014112339",
+    "uikName": "УИК №138",
     "tikTvd": "2862000216088",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 139,
     "uikTvd": "4864014112340",
+    "uikName": "УИК №139",
     "tikTvd": "2862000216088",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 140,
     "uikTvd": "4864014112341",
+    "uikName": "УИК №140",
     "tikTvd": "2862000216088",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 141,
     "uikTvd": "4864014112342",
+    "uikName": "УИК №141",
     "tikTvd": "2862000216088",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 142,
     "uikTvd": "4864014112343",
+    "uikName": "УИК №142",
     "tikTvd": "2862000216088",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 143,
     "uikTvd": "4864014112344",
+    "uikName": "УИК №143",
     "tikTvd": "2862000216088",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 144,
     "uikTvd": "4864014112345",
+    "uikName": "УИК №144",
     "tikTvd": "2862000216088",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 145,
     "uikTvd": "4864014112346",
+    "uikName": "УИК №145",
     "tikTvd": "2862000216088",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 146,
     "uikTvd": "4864014112347",
+    "uikName": "УИК №146",
     "tikTvd": "2862000216088",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 147,
     "uikTvd": "4864014112348",
+    "uikName": "УИК №147",
     "tikTvd": "2862000216088",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 148,
     "uikTvd": "4864014112349",
+    "uikName": "УИК №148",
     "tikTvd": "2862000216088",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 149,
     "uikTvd": "4864014112350",
+    "uikName": "УИК №149",
     "tikTvd": "2862000216088",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 150,
     "uikTvd": "4864014112351",
+    "uikName": "УИК №150",
     "tikTvd": "2862000216088",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 151,
     "uikTvd": "4864014112352",
+    "uikName": "УИК №151",
     "tikTvd": "2862000216088",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 152,
     "uikTvd": "486402186529",
+    "uikName": "УИК №152",
     "tikTvd": "2862000216082",
-    "tikName": "Югорская городская"
+    "tikName": "Югорская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 153,
     "uikTvd": "486402186530",
+    "uikName": "УИК №153",
     "tikTvd": "2862000216082",
-    "tikName": "Югорская городская"
+    "tikName": "Югорская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 154,
     "uikTvd": "486402186531",
+    "uikName": "УИК №154",
     "tikTvd": "2862000216082",
-    "tikName": "Югорская городская"
+    "tikName": "Югорская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 155,
     "uikTvd": "486402186532",
+    "uikName": "УИК №155",
     "tikTvd": "2862000216082",
-    "tikName": "Югорская городская"
+    "tikName": "Югорская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 156,
     "uikTvd": "486402186533",
+    "uikName": "УИК №156",
     "tikTvd": "2862000216082",
-    "tikName": "Югорская городская"
+    "tikName": "Югорская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 157,
     "uikTvd": "486402186534",
+    "uikName": "УИК №157",
     "tikTvd": "2862000216082",
-    "tikName": "Югорская городская"
+    "tikName": "Югорская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 158,
     "uikTvd": "486402186535",
+    "uikName": "УИК №158",
     "tikTvd": "2862000216082",
-    "tikName": "Югорская городская"
+    "tikName": "Югорская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 159,
     "uikTvd": "486402186536",
+    "uikName": "УИК №159",
     "tikTvd": "2862000216082",
-    "tikName": "Югорская городская"
+    "tikName": "Югорская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 160,
     "uikTvd": "486402186537",
+    "uikName": "УИК №160",
     "tikTvd": "2862000216082",
-    "tikName": "Югорская городская"
+    "tikName": "Югорская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 161,
     "uikTvd": "486402186538",
+    "uikName": "УИК №161",
     "tikTvd": "2862000216082",
-    "tikName": "Югорская городская"
+    "tikName": "Югорская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 162,
     "uikTvd": "486402186539",
+    "uikName": "УИК №162",
     "tikTvd": "2862000216082",
-    "tikName": "Югорская городская"
+    "tikName": "Югорская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 163,
     "uikTvd": "4864019118730",
+    "uikName": "УИК №163",
     "tikTvd": "2862000216097",
-    "tikName": "Нефтеюганская"
+    "tikName": "Нефтеюганская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 164,
     "uikTvd": "4864019118731",
+    "uikName": "УИК №164",
     "tikTvd": "2862000216097",
-    "tikName": "Нефтеюганская"
+    "tikName": "Нефтеюганская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 165,
     "uikTvd": "4864019118732",
+    "uikName": "УИК №165",
     "tikTvd": "2862000216097",
-    "tikName": "Нефтеюганская"
+    "tikName": "Нефтеюганская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 166,
     "uikTvd": "4864019118733",
+    "uikName": "УИК №166",
     "tikTvd": "2862000216097",
-    "tikName": "Нефтеюганская"
+    "tikName": "Нефтеюганская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 167,
     "uikTvd": "4864019118734",
+    "uikName": "УИК №167",
     "tikTvd": "2862000216097",
-    "tikName": "Нефтеюганская"
+    "tikName": "Нефтеюганская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 168,
     "uikTvd": "4864019118735",
+    "uikName": "УИК №168",
     "tikTvd": "2862000216097",
-    "tikName": "Нефтеюганская"
+    "tikName": "Нефтеюганская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 169,
     "uikTvd": "4864019118736",
+    "uikName": "УИК №169",
     "tikTvd": "2862000216097",
-    "tikName": "Нефтеюганская"
+    "tikName": "Нефтеюганская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 170,
     "uikTvd": "4864019118737",
+    "uikName": "УИК №170",
     "tikTvd": "2862000216097",
-    "tikName": "Нефтеюганская"
+    "tikName": "Нефтеюганская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 171,
     "uikTvd": "4864019118738",
+    "uikName": "УИК №171",
     "tikTvd": "2862000216097",
-    "tikName": "Нефтеюганская"
+    "tikName": "Нефтеюганская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 172,
     "uikTvd": "4864019118739",
+    "uikName": "УИК №172",
     "tikTvd": "2862000216097",
-    "tikName": "Нефтеюганская"
+    "tikName": "Нефтеюганская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 173,
     "uikTvd": "4864019118740",
+    "uikName": "УИК №173",
     "tikTvd": "2862000216097",
-    "tikName": "Нефтеюганская"
+    "tikName": "Нефтеюганская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 174,
     "uikTvd": "4864019118741",
+    "uikName": "УИК №174",
     "tikTvd": "2862000216097",
-    "tikName": "Нефтеюганская"
+    "tikName": "Нефтеюганская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 175,
     "uikTvd": "4864019118742",
+    "uikName": "УИК №175",
     "tikTvd": "2862000216097",
-    "tikName": "Нефтеюганская"
+    "tikName": "Нефтеюганская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 176,
     "uikTvd": "4864019118743",
+    "uikName": "УИК №176",
     "tikTvd": "2862000216097",
-    "tikName": "Нефтеюганская"
+    "tikName": "Нефтеюганская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 177,
     "uikTvd": "4864019118744",
+    "uikName": "УИК №177",
     "tikTvd": "2862000216097",
-    "tikName": "Нефтеюганская"
+    "tikName": "Нефтеюганская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 178,
     "uikTvd": "4864019118745",
+    "uikName": "УИК №178",
     "tikTvd": "2862000216097",
-    "tikName": "Нефтеюганская"
+    "tikName": "Нефтеюганская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 179,
     "uikTvd": "4864019118746",
+    "uikName": "УИК №179",
     "tikTvd": "2862000216097",
-    "tikName": "Нефтеюганская"
+    "tikName": "Нефтеюганская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 180,
     "uikTvd": "4864019118747",
+    "uikName": "УИК №180",
     "tikTvd": "2862000216097",
-    "tikName": "Нефтеюганская"
+    "tikName": "Нефтеюганская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 181,
     "uikTvd": "4864019118748",
+    "uikName": "УИК №181",
     "tikTvd": "2862000216097",
-    "tikName": "Нефтеюганская"
+    "tikName": "Нефтеюганская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 182,
     "uikTvd": "4864019118749",
+    "uikName": "УИК №182",
     "tikTvd": "2862000216097",
-    "tikName": "Нефтеюганская"
+    "tikName": "Нефтеюганская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 183,
     "uikTvd": "4864019118750",
+    "uikName": "УИК №183",
     "tikTvd": "2862000216097",
-    "tikName": "Нефтеюганская"
+    "tikName": "Нефтеюганская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 184,
     "uikTvd": "4864019118751",
+    "uikName": "УИК №184",
     "tikTvd": "2862000216097",
-    "tikName": "Нефтеюганская"
+    "tikName": "Нефтеюганская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 185,
     "uikTvd": "4864019118752",
+    "uikName": "УИК №185",
     "tikTvd": "2862000216097",
-    "tikName": "Нефтеюганская"
+    "tikName": "Нефтеюганская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 186,
     "uikTvd": "4864019118753",
+    "uikName": "УИК №186",
     "tikTvd": "2862000216097",
-    "tikName": "Нефтеюганская"
+    "tikName": "Нефтеюганская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 187,
     "uikTvd": "4864019118754",
+    "uikName": "УИК №187",
     "tikTvd": "2862000216097",
-    "tikName": "Нефтеюганская"
+    "tikName": "Нефтеюганская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 188,
     "uikTvd": "4864019118755",
+    "uikName": "УИК №188",
     "tikTvd": "2862000216097",
-    "tikName": "Нефтеюганская"
+    "tikName": "Нефтеюганская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 189,
     "uikTvd": "486401285230",
+    "uikName": "УИК №189",
     "tikTvd": "2862000216090",
-    "tikName": "Пыть-Яхская городская"
+    "tikName": "Пыть-Яхская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 190,
     "uikTvd": "486401285232",
+    "uikName": "УИК №190",
     "tikTvd": "2862000216090",
-    "tikName": "Пыть-Яхская городская"
+    "tikName": "Пыть-Яхская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 191,
     "uikTvd": "486401285234",
+    "uikName": "УИК №191",
     "tikTvd": "2862000216090",
-    "tikName": "Пыть-Яхская городская"
+    "tikName": "Пыть-Яхская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 192,
     "uikTvd": "486401285236",
+    "uikName": "УИК №192",
     "tikTvd": "2862000216090",
-    "tikName": "Пыть-Яхская городская"
+    "tikName": "Пыть-Яхская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 193,
     "uikTvd": "486401285238",
+    "uikName": "УИК №193",
     "tikTvd": "2862000216090",
-    "tikName": "Пыть-Яхская городская"
+    "tikName": "Пыть-Яхская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 194,
     "uikTvd": "486401285239",
+    "uikName": "УИК №194",
     "tikTvd": "2862000216090",
-    "tikName": "Пыть-Яхская городская"
+    "tikName": "Пыть-Яхская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 195,
     "uikTvd": "486401285240",
+    "uikName": "УИК №195",
     "tikTvd": "2862000216090",
-    "tikName": "Пыть-Яхская городская"
+    "tikName": "Пыть-Яхская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 196,
     "uikTvd": "486401285241",
+    "uikName": "УИК №196",
     "tikTvd": "2862000216090",
-    "tikName": "Пыть-Яхская городская"
+    "tikName": "Пыть-Яхская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 197,
     "uikTvd": "486401285242",
+    "uikName": "УИК №197",
     "tikTvd": "2862000216090",
-    "tikName": "Пыть-Яхская городская"
+    "tikName": "Пыть-Яхская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 198,
     "uikTvd": "486401285243",
+    "uikName": "УИК №198",
     "tikTvd": "2862000216090",
-    "tikName": "Пыть-Яхская городская"
+    "tikName": "Пыть-Яхская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 199,
     "uikTvd": "486401285244",
+    "uikName": "УИК №199",
     "tikTvd": "2862000216090",
-    "tikName": "Пыть-Яхская городская"
+    "tikName": "Пыть-Яхская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 200,
     "uikTvd": "486401285245",
+    "uikName": "УИК №200",
     "tikTvd": "2862000216090",
-    "tikName": "Пыть-Яхская городская"
+    "tikName": "Пыть-Яхская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 201,
     "uikTvd": "486401285246",
+    "uikName": "УИК №201",
     "tikTvd": "2862000216090",
-    "tikName": "Пыть-Яхская городская"
+    "tikName": "Пыть-Яхская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 202,
     "uikTvd": "486401285247",
+    "uikName": "УИК №202",
     "tikTvd": "2862000216090",
-    "tikName": "Пыть-Яхская городская"
+    "tikName": "Пыть-Яхская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 203,
     "uikTvd": "486401285248",
+    "uikName": "УИК №203",
     "tikTvd": "2862000216090",
-    "tikName": "Пыть-Яхская городская"
+    "tikName": "Пыть-Яхская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 204,
     "uikTvd": "486401285249",
+    "uikName": "УИК №204",
     "tikTvd": "2862000216090",
-    "tikName": "Пыть-Яхская городская"
+    "tikName": "Пыть-Яхская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 205,
     "uikTvd": "486400798463",
+    "uikName": "УИК №205",
     "tikTvd": "2862000216096",
-    "tikName": "Нефтеюганская городская"
+    "tikName": "Нефтеюганская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 206,
     "uikTvd": "486400798464",
+    "uikName": "УИК №206",
     "tikTvd": "2862000216096",
-    "tikName": "Нефтеюганская городская"
+    "tikName": "Нефтеюганская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 207,
     "uikTvd": "486400798465",
+    "uikName": "УИК №207",
     "tikTvd": "2862000216096",
-    "tikName": "Нефтеюганская городская"
+    "tikName": "Нефтеюганская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 208,
     "uikTvd": "486400798466",
+    "uikName": "УИК №208",
     "tikTvd": "2862000216096",
-    "tikName": "Нефтеюганская городская"
+    "tikName": "Нефтеюганская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 209,
     "uikTvd": "486400798467",
+    "uikName": "УИК №209",
     "tikTvd": "2862000216096",
-    "tikName": "Нефтеюганская городская"
+    "tikName": "Нефтеюганская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 210,
     "uikTvd": "486400798468",
+    "uikName": "УИК №210",
     "tikTvd": "2862000216096",
-    "tikName": "Нефтеюганская городская"
+    "tikName": "Нефтеюганская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 211,
     "uikTvd": "486400798469",
+    "uikName": "УИК №211",
     "tikTvd": "2862000216096",
-    "tikName": "Нефтеюганская городская"
+    "tikName": "Нефтеюганская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 212,
     "uikTvd": "486400798470",
+    "uikName": "УИК №212",
     "tikTvd": "2862000216096",
-    "tikName": "Нефтеюганская городская"
+    "tikName": "Нефтеюганская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 213,
     "uikTvd": "486400798471",
+    "uikName": "УИК №213",
     "tikTvd": "2862000216096",
-    "tikName": "Нефтеюганская городская"
+    "tikName": "Нефтеюганская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 214,
     "uikTvd": "486400798472",
+    "uikName": "УИК №214",
     "tikTvd": "2862000216096",
-    "tikName": "Нефтеюганская городская"
+    "tikName": "Нефтеюганская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 215,
     "uikTvd": "486400798473",
+    "uikName": "УИК №215",
     "tikTvd": "2862000216096",
-    "tikName": "Нефтеюганская городская"
+    "tikName": "Нефтеюганская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 216,
     "uikTvd": "486400798474",
+    "uikName": "УИК №216",
     "tikTvd": "2862000216096",
-    "tikName": "Нефтеюганская городская"
+    "tikName": "Нефтеюганская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 217,
     "uikTvd": "486400798475",
+    "uikName": "УИК №217",
     "tikTvd": "2862000216096",
-    "tikName": "Нефтеюганская городская"
+    "tikName": "Нефтеюганская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 218,
     "uikTvd": "486400798476",
+    "uikName": "УИК №218",
     "tikTvd": "2862000216096",
-    "tikName": "Нефтеюганская городская"
+    "tikName": "Нефтеюганская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 219,
     "uikTvd": "486400798477",
+    "uikName": "УИК №219",
     "tikTvd": "2862000216096",
-    "tikName": "Нефтеюганская городская"
+    "tikName": "Нефтеюганская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 220,
     "uikTvd": "486400798478",
+    "uikName": "УИК №220",
     "tikTvd": "2862000216096",
-    "tikName": "Нефтеюганская городская"
+    "tikName": "Нефтеюганская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 221,
     "uikTvd": "486400798479",
+    "uikName": "УИК №221",
     "tikTvd": "2862000216096",
-    "tikName": "Нефтеюганская городская"
+    "tikName": "Нефтеюганская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 222,
     "uikTvd": "486400798480",
+    "uikName": "УИК №222",
     "tikTvd": "2862000216096",
-    "tikName": "Нефтеюганская городская"
+    "tikName": "Нефтеюганская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 223,
     "uikTvd": "486400798481",
+    "uikName": "УИК №223",
     "tikTvd": "2862000216096",
-    "tikName": "Нефтеюганская городская"
+    "tikName": "Нефтеюганская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 224,
     "uikTvd": "486400798482",
+    "uikName": "УИК №224",
     "tikTvd": "2862000216096",
-    "tikName": "Нефтеюганская городская"
+    "tikName": "Нефтеюганская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 225,
     "uikTvd": "486400798483",
+    "uikName": "УИК №225",
     "tikTvd": "2862000216096",
-    "tikName": "Нефтеюганская городская"
+    "tikName": "Нефтеюганская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 226,
     "uikTvd": "486400798484",
+    "uikName": "УИК №226",
     "tikTvd": "2862000216096",
-    "tikName": "Нефтеюганская городская"
+    "tikName": "Нефтеюганская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 227,
     "uikTvd": "486400798485",
+    "uikName": "УИК №227",
     "tikTvd": "2862000216096",
-    "tikName": "Нефтеюганская городская"
+    "tikName": "Нефтеюганская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 228,
     "uikTvd": "486400798486",
+    "uikName": "УИК №228",
     "tikTvd": "2862000216096",
-    "tikName": "Нефтеюганская городская"
+    "tikName": "Нефтеюганская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 229,
     "uikTvd": "486400798487",
+    "uikName": "УИК №229",
     "tikTvd": "2862000216096",
-    "tikName": "Нефтеюганская городская"
+    "tikName": "Нефтеюганская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 230,
     "uikTvd": "486400798488",
+    "uikName": "УИК №230",
     "tikTvd": "2862000216096",
-    "tikName": "Нефтеюганская городская"
+    "tikName": "Нефтеюганская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 231,
     "uikTvd": "486400798489",
+    "uikName": "УИК №231",
     "tikTvd": "2862000216096",
-    "tikName": "Нефтеюганская городская"
+    "tikName": "Нефтеюганская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 232,
     "uikTvd": "486400798490",
+    "uikName": "УИК №232",
     "tikTvd": "2862000216096",
-    "tikName": "Нефтеюганская городская"
+    "tikName": "Нефтеюганская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 233,
     "uikTvd": "486400798491",
+    "uikName": "УИК №233",
     "tikTvd": "2862000216096",
-    "tikName": "Нефтеюганская городская"
+    "tikName": "Нефтеюганская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 234,
     "uikTvd": "486400798492",
+    "uikName": "УИК №234",
     "tikTvd": "2862000216096",
-    "tikName": "Нефтеюганская городская"
+    "tikName": "Нефтеюганская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 235,
     "uikTvd": "486400798493",
+    "uikName": "УИК №235",
     "tikTvd": "2862000216096",
-    "tikName": "Нефтеюганская городская"
+    "tikName": "Нефтеюганская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 236,
     "uikTvd": "486400798494",
+    "uikName": "УИК №236",
     "tikTvd": "2862000216096",
-    "tikName": "Нефтеюганская городская"
+    "tikName": "Нефтеюганская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 237,
     "uikTvd": "486400798495",
+    "uikName": "УИК №237",
     "tikTvd": "2862000216096",
-    "tikName": "Нефтеюганская городская"
+    "tikName": "Нефтеюганская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 238,
     "uikTvd": "486400798496",
+    "uikName": "УИК №238",
     "tikTvd": "2862000216096",
-    "tikName": "Нефтеюганская городская"
+    "tikName": "Нефтеюганская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 239,
     "uikTvd": "486400798497",
+    "uikName": "УИК №239",
     "tikTvd": "2862000216096",
-    "tikName": "Нефтеюганская городская"
+    "tikName": "Нефтеюганская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 240,
     "uikTvd": "486400798498",
+    "uikName": "УИК №240",
     "tikTvd": "2862000216096",
-    "tikName": "Нефтеюганская городская"
+    "tikName": "Нефтеюганская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 241,
     "uikTvd": "486400798499",
+    "uikName": "УИК №241",
     "tikTvd": "2862000216096",
-    "tikName": "Нефтеюганская городская"
+    "tikName": "Нефтеюганская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 242,
     "uikTvd": "486400798500",
+    "uikName": "УИК №242",
     "tikTvd": "2862000216096",
-    "tikName": "Нефтеюганская городская"
+    "tikName": "Нефтеюганская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 243,
     "uikTvd": "486400798501",
+    "uikName": "УИК №243",
     "tikTvd": "2862000216096",
-    "tikName": "Нефтеюганская городская"
+    "tikName": "Нефтеюганская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 244,
     "uikTvd": "486400798502",
+    "uikName": "УИК №244",
     "tikTvd": "2862000216096",
-    "tikName": "Нефтеюганская городская"
+    "tikName": "Нефтеюганская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 245,
     "uikTvd": "486400798503",
+    "uikName": "УИК №245",
     "tikTvd": "2862000216096",
-    "tikName": "Нефтеюганская городская"
+    "tikName": "Нефтеюганская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 246,
     "uikTvd": "486400798504",
+    "uikName": "УИК №246",
     "tikTvd": "2862000216096",
-    "tikName": "Нефтеюганская городская"
+    "tikName": "Нефтеюганская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 247,
     "uikTvd": "486400798505",
+    "uikName": "УИК №247",
     "tikTvd": "2862000216096",
-    "tikName": "Нефтеюганская городская"
+    "tikName": "Нефтеюганская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 248,
     "uikTvd": "486400798506",
+    "uikName": "УИК №248",
     "tikTvd": "2862000216096",
-    "tikName": "Нефтеюганская городская"
+    "tikName": "Нефтеюганская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 249,
     "uikTvd": "486400798507",
+    "uikName": "УИК №249",
     "tikTvd": "2862000216096",
-    "tikName": "Нефтеюганская городская"
+    "tikName": "Нефтеюганская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 250,
     "uikTvd": "486400798508",
+    "uikName": "УИК №250",
     "tikTvd": "2862000216096",
-    "tikName": "Нефтеюганская городская"
+    "tikName": "Нефтеюганская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 251,
     "uikTvd": "486400798509",
+    "uikName": "УИК №251",
     "tikTvd": "2862000216096",
-    "tikName": "Нефтеюганская городская"
+    "tikName": "Нефтеюганская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 252,
     "uikTvd": "486400798510",
+    "uikName": "УИК №252",
     "tikTvd": "2862000216096",
-    "tikName": "Нефтеюганская городская"
+    "tikName": "Нефтеюганская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 253,
     "uikTvd": "486400798511",
+    "uikName": "УИК №253",
     "tikTvd": "2862000216096",
-    "tikName": "Нефтеюганская городская"
+    "tikName": "Нефтеюганская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 254,
     "uikTvd": "486400798512",
+    "uikName": "УИК №254",
     "tikTvd": "2862000216096",
-    "tikName": "Нефтеюганская городская"
+    "tikName": "Нефтеюганская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 255,
     "uikTvd": "4864018126050",
+    "uikName": "УИК №255",
     "tikTvd": "2862000216084",
-    "tikName": "Ханты-Мансийская"
+    "tikName": "Ханты-Мансийская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 256,
     "uikTvd": "4864018126051",
+    "uikName": "УИК №256",
     "tikTvd": "2862000216084",
-    "tikName": "Ханты-Мансийская"
+    "tikName": "Ханты-Мансийская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 257,
     "uikTvd": "4864018126052",
+    "uikName": "УИК №257",
     "tikTvd": "2862000216084",
-    "tikName": "Ханты-Мансийская"
+    "tikName": "Ханты-Мансийская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 258,
     "uikTvd": "4864018126053",
+    "uikName": "УИК №258",
     "tikTvd": "2862000216084",
-    "tikName": "Ханты-Мансийская"
+    "tikName": "Ханты-Мансийская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 259,
     "uikTvd": "4864018126054",
+    "uikName": "УИК №259",
     "tikTvd": "2862000216084",
-    "tikName": "Ханты-Мансийская"
+    "tikName": "Ханты-Мансийская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 260,
     "uikTvd": "4864018126055",
+    "uikName": "УИК №260",
     "tikTvd": "2862000216084",
-    "tikName": "Ханты-Мансийская"
+    "tikName": "Ханты-Мансийская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 261,
     "uikTvd": "4864018126056",
+    "uikName": "УИК №261",
     "tikTvd": "2862000216084",
-    "tikName": "Ханты-Мансийская"
+    "tikName": "Ханты-Мансийская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 262,
     "uikTvd": "4864018126057",
+    "uikName": "УИК №262",
     "tikTvd": "2862000216084",
-    "tikName": "Ханты-Мансийская"
+    "tikName": "Ханты-Мансийская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 263,
     "uikTvd": "4864018126058",
+    "uikName": "УИК №263",
     "tikTvd": "2862000216084",
-    "tikName": "Ханты-Мансийская"
+    "tikName": "Ханты-Мансийская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 264,
     "uikTvd": "4864018126059",
+    "uikName": "УИК №264",
     "tikTvd": "2862000216084",
-    "tikName": "Ханты-Мансийская"
+    "tikName": "Ханты-Мансийская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 265,
     "uikTvd": "4864018126060",
+    "uikName": "УИК №265",
     "tikTvd": "2862000216084",
-    "tikName": "Ханты-Мансийская"
+    "tikName": "Ханты-Мансийская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 266,
     "uikTvd": "4864018126061",
+    "uikName": "УИК №266",
     "tikTvd": "2862000216084",
-    "tikName": "Ханты-Мансийская"
+    "tikName": "Ханты-Мансийская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 267,
     "uikTvd": "4864018126062",
+    "uikName": "УИК №267",
     "tikTvd": "2862000216084",
-    "tikName": "Ханты-Мансийская"
+    "tikName": "Ханты-Мансийская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 268,
     "uikTvd": "4864018126063",
+    "uikName": "УИК №268",
     "tikTvd": "2862000216084",
-    "tikName": "Ханты-Мансийская"
+    "tikName": "Ханты-Мансийская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 269,
     "uikTvd": "4864018126064",
+    "uikName": "УИК №269",
     "tikTvd": "2862000216084",
-    "tikName": "Ханты-Мансийская"
+    "tikName": "Ханты-Мансийская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 270,
     "uikTvd": "4864018126065",
+    "uikName": "УИК №270",
     "tikTvd": "2862000216084",
-    "tikName": "Ханты-Мансийская"
+    "tikName": "Ханты-Мансийская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 271,
     "uikTvd": "4864018126066",
+    "uikName": "УИК №271",
     "tikTvd": "2862000216084",
-    "tikName": "Ханты-Мансийская"
+    "tikName": "Ханты-Мансийская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 272,
     "uikTvd": "4864018126067",
+    "uikName": "УИК №272",
     "tikTvd": "2862000216084",
-    "tikName": "Ханты-Мансийская"
+    "tikName": "Ханты-Мансийская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 273,
     "uikTvd": "4864018126068",
+    "uikName": "УИК №273",
     "tikTvd": "2862000216084",
-    "tikName": "Ханты-Мансийская"
+    "tikName": "Ханты-Мансийская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 274,
     "uikTvd": "4864018126069",
+    "uikName": "УИК №274",
     "tikTvd": "2862000216084",
-    "tikName": "Ханты-Мансийская"
+    "tikName": "Ханты-Мансийская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 275,
     "uikTvd": "4864018126070",
+    "uikName": "УИК №275",
     "tikTvd": "2862000216084",
-    "tikName": "Ханты-Мансийская"
+    "tikName": "Ханты-Мансийская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 276,
     "uikTvd": "4864018126071",
+    "uikName": "УИК №276",
     "tikTvd": "2862000216084",
-    "tikName": "Ханты-Мансийская"
+    "tikName": "Ханты-Мансийская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 277,
     "uikTvd": "4864018126072",
+    "uikName": "УИК №277",
     "tikTvd": "2862000216084",
-    "tikName": "Ханты-Мансийская"
+    "tikName": "Ханты-Мансийская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 278,
     "uikTvd": "4864018126073",
+    "uikName": "УИК №278",
     "tikTvd": "2862000216084",
-    "tikName": "Ханты-Мансийская"
+    "tikName": "Ханты-Мансийская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 279,
     "uikTvd": "4864018126074",
+    "uikName": "УИК №279",
     "tikTvd": "2862000216084",
-    "tikName": "Ханты-Мансийская"
+    "tikName": "Ханты-Мансийская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 280,
     "uikTvd": "4864018126075",
+    "uikName": "УИК №280",
     "tikTvd": "2862000216084",
-    "tikName": "Ханты-Мансийская"
+    "tikName": "Ханты-Мансийская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 281,
     "uikTvd": "4864018126076",
+    "uikName": "УИК №281",
     "tikTvd": "2862000216084",
-    "tikName": "Ханты-Мансийская"
+    "tikName": "Ханты-Мансийская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 282,
     "uikTvd": "486402088141",
+    "uikName": "УИК №282",
     "tikTvd": "2862000216083",
-    "tikName": " Ханты-Мансийская городская"
+    "tikName": " Ханты-Мансийская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 283,
     "uikTvd": "486402088142",
+    "uikName": "УИК №283",
     "tikTvd": "2862000216083",
-    "tikName": " Ханты-Мансийская городская"
+    "tikName": " Ханты-Мансийская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 284,
     "uikTvd": "486402088143",
+    "uikName": "УИК №284",
     "tikTvd": "2862000216083",
-    "tikName": " Ханты-Мансийская городская"
+    "tikName": " Ханты-Мансийская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 285,
     "uikTvd": "486402088144",
+    "uikName": "УИК №285",
     "tikTvd": "2862000216083",
-    "tikName": " Ханты-Мансийская городская"
+    "tikName": " Ханты-Мансийская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 286,
     "uikTvd": "486402088145",
+    "uikName": "УИК №286",
     "tikTvd": "2862000216083",
-    "tikName": " Ханты-Мансийская городская"
+    "tikName": " Ханты-Мансийская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 287,
     "uikTvd": "486402088146",
+    "uikName": "УИК №287",
     "tikTvd": "2862000216083",
-    "tikName": " Ханты-Мансийская городская"
+    "tikName": " Ханты-Мансийская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 288,
     "uikTvd": "486402088147",
+    "uikName": "УИК №288",
     "tikTvd": "2862000216083",
-    "tikName": " Ханты-Мансийская городская"
+    "tikName": " Ханты-Мансийская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 289,
     "uikTvd": "486402088148",
+    "uikName": "УИК №289",
     "tikTvd": "2862000216083",
-    "tikName": " Ханты-Мансийская городская"
+    "tikName": " Ханты-Мансийская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 290,
     "uikTvd": "486402088149",
+    "uikName": "УИК №290",
     "tikTvd": "2862000216083",
-    "tikName": " Ханты-Мансийская городская"
+    "tikName": " Ханты-Мансийская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 291,
     "uikTvd": "486402088150",
+    "uikName": "УИК №291",
     "tikTvd": "2862000216083",
-    "tikName": " Ханты-Мансийская городская"
+    "tikName": " Ханты-Мансийская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 292,
     "uikTvd": "486402088151",
+    "uikName": "УИК №292",
     "tikTvd": "2862000216083",
-    "tikName": " Ханты-Мансийская городская"
+    "tikName": " Ханты-Мансийская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 293,
     "uikTvd": "486402088152",
+    "uikName": "УИК №293",
     "tikTvd": "2862000216083",
-    "tikName": " Ханты-Мансийская городская"
+    "tikName": " Ханты-Мансийская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 294,
     "uikTvd": "486402088153",
+    "uikName": "УИК №294",
     "tikTvd": "2862000216083",
-    "tikName": " Ханты-Мансийская городская"
+    "tikName": " Ханты-Мансийская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 295,
     "uikTvd": "486402088154",
+    "uikName": "УИК №295",
     "tikTvd": "2862000216083",
-    "tikName": " Ханты-Мансийская городская"
+    "tikName": " Ханты-Мансийская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 296,
     "uikTvd": "486402088155",
+    "uikName": "УИК №296",
     "tikTvd": "2862000216083",
-    "tikName": " Ханты-Мансийская городская"
+    "tikName": " Ханты-Мансийская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 297,
     "uikTvd": "486402088156",
+    "uikName": "УИК №297",
     "tikTvd": "2862000216083",
-    "tikName": " Ханты-Мансийская городская"
+    "tikName": " Ханты-Мансийская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 298,
     "uikTvd": "486402088157",
+    "uikName": "УИК №298",
     "tikTvd": "2862000216083",
-    "tikName": " Ханты-Мансийская городская"
+    "tikName": " Ханты-Мансийская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 299,
     "uikTvd": "486402088158",
+    "uikName": "УИК №299",
     "tikTvd": "2862000216083",
-    "tikName": " Ханты-Мансийская городская"
+    "tikName": " Ханты-Мансийская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 300,
     "uikTvd": "486402088159",
+    "uikName": "УИК №300",
     "tikTvd": "2862000216083",
-    "tikName": " Ханты-Мансийская городская"
+    "tikName": " Ханты-Мансийская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 301,
     "uikTvd": "486402088160",
+    "uikName": "УИК №301",
     "tikTvd": "2862000216083",
-    "tikName": " Ханты-Мансийская городская"
+    "tikName": " Ханты-Мансийская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 302,
     "uikTvd": "486402088161",
+    "uikName": "УИК №302",
     "tikTvd": "2862000216083",
-    "tikName": " Ханты-Мансийская городская"
+    "tikName": " Ханты-Мансийская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 303,
     "uikTvd": "486402088162",
+    "uikName": "УИК №303",
     "tikTvd": "2862000216083",
-    "tikName": " Ханты-Мансийская городская"
+    "tikName": " Ханты-Мансийская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 304,
     "uikTvd": "486402088163",
+    "uikName": "УИК №304",
     "tikTvd": "2862000216083",
-    "tikName": " Ханты-Мансийская городская"
+    "tikName": " Ханты-Мансийская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 305,
     "uikTvd": "486402088164",
+    "uikName": "УИК №305",
     "tikTvd": "2862000216083",
-    "tikName": " Ханты-Мансийская городская"
+    "tikName": " Ханты-Мансийская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 306,
     "uikTvd": "486402088165",
+    "uikName": "УИК №306",
     "tikTvd": "2862000216083",
-    "tikName": " Ханты-Мансийская городская"
+    "tikName": " Ханты-Мансийская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 307,
     "uikTvd": "486402088166",
+    "uikName": "УИК №307",
     "tikTvd": "2862000216083",
-    "tikName": " Ханты-Мансийская городская"
+    "tikName": " Ханты-Мансийская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 308,
     "uikTvd": "4864015110979",
+    "uikName": "УИК №308",
     "tikTvd": "2862000216086",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 309,
     "uikTvd": "4864015110981",
+    "uikName": "УИК №309",
     "tikTvd": "2862000216086",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 310,
     "uikTvd": "4864015110983",
+    "uikName": "УИК №310",
     "tikTvd": "2862000216086",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 311,
     "uikTvd": "4864015110984",
+    "uikName": "УИК №311",
     "tikTvd": "2862000216086",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 312,
     "uikTvd": "4864015110985",
+    "uikName": "УИК №312",
     "tikTvd": "2862000216086",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 313,
     "uikTvd": "4864015110986",
+    "uikName": "УИК №313",
     "tikTvd": "2862000216086",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 314,
     "uikTvd": "4864015110987",
+    "uikName": "УИК №314",
     "tikTvd": "2862000216086",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 315,
     "uikTvd": "4864015110988",
+    "uikName": "УИК №315",
     "tikTvd": "2862000216086",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 316,
     "uikTvd": "4864015110989",
+    "uikName": "УИК №316",
     "tikTvd": "2862000216086",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 317,
     "uikTvd": "4864015110990",
+    "uikName": "УИК №317",
     "tikTvd": "2862000216086",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 318,
     "uikTvd": "4864015110991",
+    "uikName": "УИК №318",
     "tikTvd": "2862000216086",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 319,
     "uikTvd": "4864015110992",
+    "uikName": "УИК №319",
     "tikTvd": "2862000216086",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 320,
     "uikTvd": "4864015110993",
+    "uikName": "УИК №320",
     "tikTvd": "2862000216086",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 321,
     "uikTvd": "4864015110994",
+    "uikName": "УИК №321",
     "tikTvd": "2862000216086",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 322,
     "uikTvd": "4864015110995",
+    "uikName": "УИК №322",
     "tikTvd": "2862000216086",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 323,
     "uikTvd": "4864015110996",
+    "uikName": "УИК №323",
     "tikTvd": "2862000216086",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 324,
     "uikTvd": "4864015110997",
+    "uikName": "УИК №324",
     "tikTvd": "2862000216086",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 325,
     "uikTvd": "4864015110998",
+    "uikName": "УИК №325",
     "tikTvd": "2862000216086",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 326,
     "uikTvd": "4864015110999",
+    "uikName": "УИК №326",
     "tikTvd": "2862000216086",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 327,
     "uikTvd": "4864015111000",
+    "uikName": "УИК №327",
     "tikTvd": "2862000216086",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 328,
     "uikTvd": "4864015111001",
+    "uikName": "УИК №328",
     "tikTvd": "2862000216086",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 329,
     "uikTvd": "4864015111002",
+    "uikName": "УИК №329",
     "tikTvd": "2862000216086",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 330,
     "uikTvd": "4864015111003",
+    "uikName": "УИК №330",
     "tikTvd": "2862000216086",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 331,
     "uikTvd": "4864015111004",
+    "uikName": "УИК №331",
     "tikTvd": "2862000216086",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 332,
     "uikTvd": "4864015111005",
+    "uikName": "УИК №332",
     "tikTvd": "2862000216086",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 333,
     "uikTvd": "4864015111006",
+    "uikName": "УИК №333",
     "tikTvd": "2862000216086",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 334,
     "uikTvd": "4864015111007",
+    "uikName": "УИК №334",
     "tikTvd": "2862000216086",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 335,
     "uikTvd": "4864015111008",
+    "uikName": "УИК №335",
     "tikTvd": "2862000216086",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 336,
     "uikTvd": "4864015111009",
+    "uikName": "УИК №336",
     "tikTvd": "2862000216086",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 337,
     "uikTvd": "4864015111010",
+    "uikName": "УИК №337",
     "tikTvd": "2862000216086",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 338,
     "uikTvd": "4864015111011",
+    "uikName": "УИК №338",
     "tikTvd": "2862000216086",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 339,
     "uikTvd": "4864015111012",
+    "uikName": "УИК №339",
     "tikTvd": "2862000216086",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 340,
     "uikTvd": "4864015111013",
+    "uikName": "УИК №340",
     "tikTvd": "2862000216086",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 341,
     "uikTvd": "4864015111014",
+    "uikName": "УИК №341",
     "tikTvd": "2862000216086",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 342,
     "uikTvd": "4864015111015",
+    "uikName": "УИК №342",
     "tikTvd": "2862000216086",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 343,
     "uikTvd": "4864015111016",
+    "uikName": "УИК №343",
     "tikTvd": "2862000216086",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 344,
     "uikTvd": "4864015111017",
+    "uikName": "УИК №344",
     "tikTvd": "2862000216086",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 345,
     "uikTvd": "4864015111018",
+    "uikName": "УИК №345",
     "tikTvd": "2862000216086",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 346,
     "uikTvd": "4864015111019",
+    "uikName": "УИК №346",
     "tikTvd": "2862000216086",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 347,
     "uikTvd": "4864015111020",
+    "uikName": "УИК №347",
     "tikTvd": "2862000216086",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 348,
     "uikTvd": "4864015111021",
+    "uikName": "УИК №348",
     "tikTvd": "2862000216086",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 349,
     "uikTvd": "4864015111022",
+    "uikName": "УИК №349",
     "tikTvd": "2862000216086",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 350,
     "uikTvd": "4864015111023",
+    "uikName": "УИК №350",
     "tikTvd": "2862000216086",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 351,
     "uikTvd": "4864015111024",
+    "uikName": "УИК №351",
     "tikTvd": "2862000216086",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 352,
     "uikTvd": "4864015111025",
+    "uikName": "УИК №352",
     "tikTvd": "2862000216086",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 353,
     "uikTvd": "4864015111026",
+    "uikName": "УИК №353",
     "tikTvd": "2862000216086",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 354,
     "uikTvd": "4864015111027",
+    "uikName": "УИК №354",
     "tikTvd": "2862000216086",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 355,
     "uikTvd": "4864015111028",
+    "uikName": "УИК №355",
     "tikTvd": "2862000216086",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 356,
     "uikTvd": "4864015111029",
+    "uikName": "УИК №356",
     "tikTvd": "2862000216086",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 357,
     "uikTvd": "4864015111030",
+    "uikName": "УИК №357",
     "tikTvd": "2862000216086",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 358,
     "uikTvd": "4864015111031",
+    "uikName": "УИК №358",
     "tikTvd": "2862000216086",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 359,
     "uikTvd": "4864015111032",
+    "uikName": "УИК №359",
     "tikTvd": "2862000216086",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 360,
     "uikTvd": "4864015111033",
+    "uikName": "УИК №360",
     "tikTvd": "2862000216086",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 361,
     "uikTvd": "4864015111034",
+    "uikName": "УИК №361",
     "tikTvd": "2862000216086",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 362,
     "uikTvd": "4864015111035",
+    "uikName": "УИК №362",
     "tikTvd": "2862000216086",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 363,
     "uikTvd": "4864015111036",
+    "uikName": "УИК №363",
     "tikTvd": "2862000216086",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 364,
     "uikTvd": "4864015111037",
+    "uikName": "УИК №364",
     "tikTvd": "2862000216086",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 365,
     "uikTvd": "4864015111038",
+    "uikName": "УИК №365",
     "tikTvd": "2862000216086",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 366,
     "uikTvd": "4864015111039",
+    "uikName": "УИК №366",
     "tikTvd": "2862000216086",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 367,
     "uikTvd": "4864015111040",
+    "uikName": "УИК №367",
     "tikTvd": "2862000216086",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 368,
     "uikTvd": "4864015111041",
+    "uikName": "УИК №368",
     "tikTvd": "2862000216086",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 369,
     "uikTvd": "4864015111042",
+    "uikName": "УИК №369",
     "tikTvd": "2862000216086",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 370,
     "uikTvd": "4864015111043",
+    "uikName": "УИК №370",
     "tikTvd": "2862000216086",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 371,
     "uikTvd": "4864015111044",
+    "uikName": "УИК №371",
     "tikTvd": "2862000216086",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 372,
     "uikTvd": "4864015111045",
+    "uikName": "УИК №372",
     "tikTvd": "2862000216086",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 373,
     "uikTvd": "4864015111046",
+    "uikName": "УИК №373",
     "tikTvd": "2862000216086",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 374,
     "uikTvd": "4864015111047",
+    "uikName": "УИК №374",
     "tikTvd": "2862000216086",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 375,
     "uikTvd": "4864015111048",
+    "uikName": "УИК №375",
     "tikTvd": "2862000216086",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 376,
     "uikTvd": "4864015111049",
+    "uikName": "УИК №376",
     "tikTvd": "2862000216086",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 377,
     "uikTvd": "4864015111050",
+    "uikName": "УИК №377",
     "tikTvd": "2862000216086",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 378,
     "uikTvd": "4864015111051",
+    "uikName": "УИК №378",
     "tikTvd": "2862000216086",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 379,
     "uikTvd": "4864015111052",
+    "uikName": "УИК №379",
     "tikTvd": "2862000216086",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 380,
     "uikTvd": "4864015111053",
+    "uikName": "УИК №380",
     "tikTvd": "2862000216086",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 381,
     "uikTvd": "4864015111054",
+    "uikName": "УИК №381",
     "tikTvd": "2862000216086",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 382,
     "uikTvd": "4864015111055",
+    "uikName": "УИК №382",
     "tikTvd": "2862000216086",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 383,
     "uikTvd": "4864015111056",
+    "uikName": "УИК №383",
     "tikTvd": "2862000216086",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 384,
     "uikTvd": "4864015111057",
+    "uikName": "УИК №384",
     "tikTvd": "2862000216086",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 385,
     "uikTvd": "4864015111058",
+    "uikName": "УИК №385",
     "tikTvd": "2862000216086",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 386,
     "uikTvd": "4864015111059",
+    "uikName": "УИК №386",
     "tikTvd": "2862000216086",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 387,
     "uikTvd": "4864015111060",
+    "uikName": "УИК №387",
     "tikTvd": "2862000216086",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 388,
     "uikTvd": "4864015111061",
+    "uikName": "УИК №388",
     "tikTvd": "2862000216086",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 389,
     "uikTvd": "4864015111062",
+    "uikName": "УИК №389",
     "tikTvd": "2862000216086",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 390,
     "uikTvd": "4864015111063",
+    "uikName": "УИК №390",
     "tikTvd": "2862000216086",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 391,
     "uikTvd": "4864015111064",
+    "uikName": "УИК №391",
     "tikTvd": "2862000216086",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 392,
     "uikTvd": "4864015111065",
+    "uikName": "УИК №392",
     "tikTvd": "2862000216086",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 393,
     "uikTvd": "4864015111066",
+    "uikName": "УИК №393",
     "tikTvd": "2862000216086",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 394,
     "uikTvd": "4864015111067",
+    "uikName": "УИК №394",
     "tikTvd": "2862000216086",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 395,
     "uikTvd": "4864015111068",
+    "uikName": "УИК №395",
     "tikTvd": "2862000216086",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 396,
     "uikTvd": "4864015111069",
+    "uikName": "УИК №396",
     "tikTvd": "2862000216086",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 397,
     "uikTvd": "4864015111070",
+    "uikName": "УИК №397",
     "tikTvd": "2862000216086",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 398,
     "uikTvd": "4864015111071",
+    "uikName": "УИК №398",
     "tikTvd": "2862000216086",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 399,
     "uikTvd": "4864015111072",
+    "uikName": "УИК №399",
     "tikTvd": "2862000216086",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 400,
     "uikTvd": "4864015111073",
+    "uikName": "УИК №400",
     "tikTvd": "2862000216086",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 401,
     "uikTvd": "4864015111074",
+    "uikName": "УИК №401",
     "tikTvd": "2862000216086",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 402,
     "uikTvd": "4864015111075",
+    "uikName": "УИК №402",
     "tikTvd": "2862000216086",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 403,
     "uikTvd": "4864015111076",
+    "uikName": "УИК №403",
     "tikTvd": "2862000216086",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 404,
     "uikTvd": "4864015111077",
+    "uikName": "УИК №404",
     "tikTvd": "2862000216086",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 405,
     "uikTvd": "4864015111078",
+    "uikName": "УИК №405",
     "tikTvd": "2862000216086",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 406,
     "uikTvd": "4864015111079",
+    "uikName": "УИК №406",
     "tikTvd": "2862000216086",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 407,
     "uikTvd": "4864015111080",
+    "uikName": "УИК №407",
     "tikTvd": "2862000216086",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 408,
     "uikTvd": "4864015111081",
+    "uikName": "УИК №408",
     "tikTvd": "2862000216086",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 409,
     "uikTvd": "4864015111082",
+    "uikName": "УИК №409",
     "tikTvd": "2862000216086",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 410,
     "uikTvd": "4864015111083",
+    "uikName": "УИК №410",
     "tikTvd": "2862000216086",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 411,
     "uikTvd": "4864015110977",
+    "uikName": "УИК №411",
     "tikTvd": "2862000216086",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 412,
     "uikTvd": "4864016131129",
+    "uikName": "УИК №412",
     "tikTvd": "2862000216087",
-    "tikName": "Сургутская"
+    "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 413,
     "uikTvd": "4864016131130",
+    "uikName": "УИК №413",
     "tikTvd": "2862000216087",
-    "tikName": "Сургутская"
+    "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 414,
     "uikTvd": "4864016131131",
+    "uikName": "УИК №414",
     "tikTvd": "2862000216087",
-    "tikName": "Сургутская"
+    "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 415,
     "uikTvd": "4864016131132",
+    "uikName": "УИК №415",
     "tikTvd": "2862000216087",
-    "tikName": "Сургутская"
+    "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 416,
     "uikTvd": "4864016131133",
+    "uikName": "УИК №416",
     "tikTvd": "2862000216087",
-    "tikName": "Сургутская"
+    "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 417,
     "uikTvd": "4864016131134",
+    "uikName": "УИК №417",
     "tikTvd": "2862000216087",
-    "tikName": "Сургутская"
+    "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 418,
     "uikTvd": "4864016131135",
+    "uikName": "УИК №418",
     "tikTvd": "2862000216087",
-    "tikName": "Сургутская"
+    "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 419,
     "uikTvd": "4864016131136",
+    "uikName": "УИК №419",
     "tikTvd": "2862000216087",
-    "tikName": "Сургутская"
+    "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 420,
     "uikTvd": "4864016131137",
+    "uikName": "УИК №420",
     "tikTvd": "2862000216087",
-    "tikName": "Сургутская"
+    "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 421,
     "uikTvd": "4864016131138",
+    "uikName": "УИК №421",
     "tikTvd": "2862000216087",
-    "tikName": "Сургутская"
+    "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 422,
     "uikTvd": "4864016131139",
+    "uikName": "УИК №422",
     "tikTvd": "2862000216087",
-    "tikName": "Сургутская"
+    "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 423,
     "uikTvd": "4864016131140",
+    "uikName": "УИК №423",
     "tikTvd": "2862000216087",
-    "tikName": "Сургутская"
+    "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 424,
     "uikTvd": "4864016131141",
+    "uikName": "УИК №424",
     "tikTvd": "2862000216087",
-    "tikName": "Сургутская"
+    "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 425,
     "uikTvd": "4864016131142",
+    "uikName": "УИК №425",
     "tikTvd": "2862000216087",
-    "tikName": "Сургутская"
+    "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 426,
     "uikTvd": "4864016131143",
+    "uikName": "УИК №426",
     "tikTvd": "2862000216087",
-    "tikName": "Сургутская"
+    "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 427,
     "uikTvd": "4864016131144",
+    "uikName": "УИК №427",
     "tikTvd": "2862000216087",
-    "tikName": "Сургутская"
+    "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 428,
     "uikTvd": "4864016131145",
+    "uikName": "УИК №428",
     "tikTvd": "2862000216087",
-    "tikName": "Сургутская"
+    "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 429,
     "uikTvd": "4864016131146",
+    "uikName": "УИК №429",
     "tikTvd": "2862000216087",
-    "tikName": "Сургутская"
+    "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 430,
     "uikTvd": "4864016131147",
+    "uikName": "УИК №430",
     "tikTvd": "2862000216087",
-    "tikName": "Сургутская"
+    "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 431,
     "uikTvd": "4864016131148",
+    "uikName": "УИК №431",
     "tikTvd": "2862000216087",
-    "tikName": "Сургутская"
+    "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 432,
     "uikTvd": "4864016131149",
+    "uikName": "УИК №432",
     "tikTvd": "2862000216087",
-    "tikName": "Сургутская"
+    "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 433,
     "uikTvd": "4864016131150",
+    "uikName": "УИК №433",
     "tikTvd": "2862000216087",
-    "tikName": "Сургутская"
+    "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 434,
     "uikTvd": "4864016131151",
+    "uikName": "УИК №434",
     "tikTvd": "2862000216087",
-    "tikName": "Сургутская"
+    "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 435,
     "uikTvd": "4864016131152",
+    "uikName": "УИК №435",
     "tikTvd": "2862000216087",
-    "tikName": "Сургутская"
+    "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 436,
     "uikTvd": "4864016131153",
+    "uikName": "УИК №436",
     "tikTvd": "2862000216087",
-    "tikName": "Сургутская"
+    "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 437,
     "uikTvd": "4864016131154",
+    "uikName": "УИК №437",
     "tikTvd": "2862000216087",
-    "tikName": "Сургутская"
+    "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 438,
     "uikTvd": "4864016131155",
+    "uikName": "УИК №438",
     "tikTvd": "2862000216087",
-    "tikName": "Сургутская"
+    "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 439,
     "uikTvd": "4864016131156",
+    "uikName": "УИК №439",
     "tikTvd": "2862000216087",
-    "tikName": "Сургутская"
+    "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 440,
     "uikTvd": "4864016131157",
+    "uikName": "УИК №440",
     "tikTvd": "2862000216087",
-    "tikName": "Сургутская"
+    "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 441,
     "uikTvd": "4864016131158",
+    "uikName": "УИК №441",
     "tikTvd": "2862000216087",
-    "tikName": "Сургутская"
+    "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 442,
     "uikTvd": "4864016131159",
+    "uikName": "УИК №442",
     "tikTvd": "2862000216087",
-    "tikName": "Сургутская"
+    "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 443,
     "uikTvd": "4864016131160",
+    "uikName": "УИК №443",
     "tikTvd": "2862000216087",
-    "tikName": "Сургутская"
+    "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 444,
     "uikTvd": "4864016131161",
+    "uikName": "УИК №444",
     "tikTvd": "2862000216087",
-    "tikName": "Сургутская"
+    "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 445,
     "uikTvd": "4864016131162",
+    "uikName": "УИК №445",
     "tikTvd": "2862000216087",
-    "tikName": "Сургутская"
+    "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 446,
     "uikTvd": "4864016131163",
+    "uikName": "УИК №446",
     "tikTvd": "2862000216087",
-    "tikName": "Сургутская"
+    "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 447,
     "uikTvd": "4864016131164",
+    "uikName": "УИК №447",
     "tikTvd": "2862000216087",
-    "tikName": "Сургутская"
+    "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 448,
     "uikTvd": "4864016131165",
+    "uikName": "УИК №448",
     "tikTvd": "2862000216087",
-    "tikName": "Сургутская"
+    "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 449,
     "uikTvd": "4864016131166",
+    "uikName": "УИК №449",
     "tikTvd": "2862000216087",
-    "tikName": "Сургутская"
+    "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 450,
     "uikTvd": "4864016131167",
+    "uikName": "УИК №450",
     "tikTvd": "2862000216087",
-    "tikName": "Сургутская"
+    "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 451,
     "uikTvd": "4864016131168",
+    "uikName": "УИК №451",
     "tikTvd": "2862000216087",
-    "tikName": "Сургутская"
+    "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 452,
     "uikTvd": "4864016131169",
+    "uikName": "УИК №452",
     "tikTvd": "2862000216087",
-    "tikName": "Сургутская"
+    "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 453,
     "uikTvd": "4864016131170",
+    "uikName": "УИК №453",
     "tikTvd": "2862000216087",
-    "tikName": "Сургутская"
+    "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 454,
     "uikTvd": "4864016131171",
+    "uikName": "УИК №454",
     "tikTvd": "2862000216087",
-    "tikName": "Сургутская"
+    "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 455,
     "uikTvd": "4864016131172",
+    "uikName": "УИК №455",
     "tikTvd": "2862000216087",
-    "tikName": "Сургутская"
+    "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 456,
     "uikTvd": "4864016131173",
+    "uikName": "УИК №456",
     "tikTvd": "2862000216087",
-    "tikName": "Сургутская"
+    "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 457,
     "uikTvd": "4864016131174",
+    "uikName": "УИК №457",
     "tikTvd": "2862000216087",
-    "tikName": "Сургутская"
+    "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 458,
     "uikTvd": "4864016131175",
+    "uikName": "УИК №458",
     "tikTvd": "2862000216087",
-    "tikName": "Сургутская"
+    "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 459,
     "uikTvd": "486400394984",
+    "uikName": "УИК №459",
     "tikTvd": "2862000216101",
-    "tikName": "Когалымская городская"
+    "tikName": "Когалымская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 460,
     "uikTvd": "486400394985",
+    "uikName": "УИК №460",
     "tikTvd": "2862000216101",
-    "tikName": "Когалымская городская"
+    "tikName": "Когалымская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 461,
     "uikTvd": "486400394986",
+    "uikName": "УИК №461",
     "tikTvd": "2862000216101",
-    "tikName": "Когалымская городская"
+    "tikName": "Когалымская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 462,
     "uikTvd": "486400394987",
+    "uikName": "УИК №462",
     "tikTvd": "2862000216101",
-    "tikName": "Когалымская городская"
+    "tikName": "Когалымская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 463,
     "uikTvd": "486400394988",
+    "uikName": "УИК №463",
     "tikTvd": "2862000216101",
-    "tikName": "Когалымская городская"
+    "tikName": "Когалымская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 464,
     "uikTvd": "486400394989",
+    "uikName": "УИК №464",
     "tikTvd": "2862000216101",
-    "tikName": "Когалымская городская"
+    "tikName": "Когалымская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 465,
     "uikTvd": "486400394990",
+    "uikName": "УИК №465",
     "tikTvd": "2862000216101",
-    "tikName": "Когалымская городская"
+    "tikName": "Когалымская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 466,
     "uikTvd": "486400394991",
+    "uikName": "УИК №466",
     "tikTvd": "2862000216101",
-    "tikName": "Когалымская городская"
+    "tikName": "Когалымская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 467,
     "uikTvd": "486400394992",
+    "uikName": "УИК №467",
     "tikTvd": "2862000216101",
-    "tikName": "Когалымская городская"
+    "tikName": "Когалымская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 468,
     "uikTvd": "486400394993",
+    "uikName": "УИК №468",
     "tikTvd": "2862000216101",
-    "tikName": "Когалымская городская"
+    "tikName": "Когалымская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 469,
     "uikTvd": "486400394994",
+    "uikName": "УИК №469",
     "tikTvd": "2862000216101",
-    "tikName": "Когалымская городская"
+    "tikName": "Когалымская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 470,
     "uikTvd": "486400394995",
+    "uikName": "УИК №470",
     "tikTvd": "2862000216101",
-    "tikName": "Когалымская городская"
+    "tikName": "Когалымская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 471,
     "uikTvd": "486400394996",
+    "uikName": "УИК №471",
     "tikTvd": "2862000216101",
-    "tikName": "Когалымская городская"
+    "tikName": "Когалымская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 472,
     "uikTvd": "486400394997",
+    "uikName": "УИК №472",
     "tikTvd": "2862000216101",
-    "tikName": "Когалымская городская"
+    "tikName": "Когалымская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 473,
     "uikTvd": "486400394998",
+    "uikName": "УИК №473",
     "tikTvd": "2862000216101",
-    "tikName": "Когалымская городская"
+    "tikName": "Когалымская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 474,
     "uikTvd": "486400394999",
+    "uikName": "УИК №474",
     "tikTvd": "2862000216101",
-    "tikName": "Когалымская городская"
+    "tikName": "Когалымская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 475,
     "uikTvd": "486400395000",
+    "uikName": "УИК №475",
     "tikTvd": "2862000216101",
-    "tikName": "Когалымская городская"
+    "tikName": "Когалымская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 476,
     "uikTvd": "486400395001",
+    "uikName": "УИК №476",
     "tikTvd": "2862000216101",
-    "tikName": "Когалымская городская"
+    "tikName": "Когалымская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 477,
     "uikTvd": "486400395002",
+    "uikName": "УИК №477",
     "tikTvd": "2862000216101",
-    "tikName": "Когалымская городская"
+    "tikName": "Когалымская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 478,
     "uikTvd": "486400395003",
+    "uikName": "УИК №478",
     "tikTvd": "2862000216101",
-    "tikName": "Когалымская городская"
+    "tikName": "Когалымская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 479,
     "uikTvd": "486400395004",
+    "uikName": "УИК №479",
     "tikTvd": "2862000216101",
-    "tikName": "Когалымская городская"
+    "tikName": "Когалымская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 480,
     "uikTvd": "486400394982",
+    "uikName": "УИК №480",
     "tikTvd": "2862000216101",
-    "tikName": "Когалымская городская"
+    "tikName": "Когалымская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 481,
     "uikTvd": "486401185571",
+    "uikName": "УИК №481",
     "tikTvd": "2862000216091",
-    "tikName": "Покачевская городская"
+    "tikName": "Покачевская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 482,
     "uikTvd": "486401185572",
+    "uikName": "УИК №482",
     "tikTvd": "2862000216091",
-    "tikName": "Покачевская городская"
+    "tikName": "Покачевская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 483,
     "uikTvd": "486401185573",
+    "uikName": "УИК №483",
     "tikTvd": "2862000216091",
-    "tikName": "Покачевская городская"
+    "tikName": "Покачевская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 484,
     "uikTvd": "486401185574",
+    "uikName": "УИК №484",
     "tikTvd": "2862000216091",
-    "tikName": "Покачевская городская"
+    "tikName": "Покачевская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 485,
     "uikTvd": "486401185575",
+    "uikName": "УИК №485",
     "tikTvd": "2862000216091",
-    "tikName": "Покачевская городская"
+    "tikName": "Покачевская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 486,
     "uikTvd": "486401185576",
+    "uikName": "УИК №486",
     "tikTvd": "2862000216091",
-    "tikName": "Покачевская городская"
+    "tikName": "Покачевская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 487,
     "uikTvd": "486401185577",
+    "uikName": "УИК №487",
     "tikTvd": "2862000216091",
-    "tikName": "Покачевская городская"
+    "tikName": "Покачевская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 488,
     "uikTvd": "486401185578",
+    "uikName": "УИК №488",
     "tikTvd": "2862000216091",
-    "tikName": "Покачевская городская"
+    "tikName": "Покачевская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 489,
     "uikTvd": "486401185579",
+    "uikName": "УИК №489",
     "tikTvd": "2862000216091",
-    "tikName": "Покачевская городская"
+    "tikName": "Покачевская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 490,
     "uikTvd": "486400595978",
+    "uikName": "УИК №490",
     "tikTvd": "2862000216099",
-    "tikName": "Лангепасская городская"
+    "tikName": "Лангепасская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 491,
     "uikTvd": "486400595979",
+    "uikName": "УИК №491",
     "tikTvd": "2862000216099",
-    "tikName": "Лангепасская городская"
+    "tikName": "Лангепасская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 492,
     "uikTvd": "486400595980",
+    "uikName": "УИК №492",
     "tikTvd": "2862000216099",
-    "tikName": "Лангепасская городская"
+    "tikName": "Лангепасская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 493,
     "uikTvd": "486400595981",
+    "uikName": "УИК №493",
     "tikTvd": "2862000216099",
-    "tikName": "Лангепасская городская"
+    "tikName": "Лангепасская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 494,
     "uikTvd": "486400595982",
+    "uikName": "УИК №494",
     "tikTvd": "2862000216099",
-    "tikName": "Лангепасская городская"
+    "tikName": "Лангепасская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 495,
     "uikTvd": "486400595983",
+    "uikName": "УИК №495",
     "tikTvd": "2862000216099",
-    "tikName": "Лангепасская городская"
+    "tikName": "Лангепасская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 496,
     "uikTvd": "486400595984",
+    "uikName": "УИК №496",
     "tikTvd": "2862000216099",
-    "tikName": "Лангепасская городская"
+    "tikName": "Лангепасская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 497,
     "uikTvd": "486400595985",
+    "uikName": "УИК №497",
     "tikTvd": "2862000216099",
-    "tikName": "Лангепасская городская"
+    "tikName": "Лангепасская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 498,
     "uikTvd": "486400595986",
+    "uikName": "УИК №498",
     "tikTvd": "2862000216099",
-    "tikName": "Лангепасская городская"
+    "tikName": "Лангепасская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 499,
     "uikTvd": "486400595987",
+    "uikName": "УИК №499",
     "tikTvd": "2862000216099",
-    "tikName": "Лангепасская городская"
+    "tikName": "Лангепасская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 500,
     "uikTvd": "486400595988",
+    "uikName": "УИК №500",
     "tikTvd": "2862000216099",
-    "tikName": "Лангепасская городская"
+    "tikName": "Лангепасская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 501,
     "uikTvd": "486400595989",
+    "uikName": "УИК №501",
     "tikTvd": "2862000216099",
-    "tikName": "Лангепасская городская"
+    "tikName": "Лангепасская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 502,
     "uikTvd": "486400595990",
+    "uikName": "УИК №502",
     "tikTvd": "2862000216099",
-    "tikName": "Лангепасская городская"
+    "tikName": "Лангепасская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 503,
     "uikTvd": "486400595991",
+    "uikName": "УИК №503",
     "tikTvd": "2862000216099",
-    "tikName": "Лангепасская городская"
+    "tikName": "Лангепасская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 504,
     "uikTvd": "486400595992",
+    "uikName": "УИК №504",
     "tikTvd": "2862000216099",
-    "tikName": "Лангепасская городская"
+    "tikName": "Лангепасская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 505,
     "uikTvd": "486400595993",
+    "uikName": "УИК №505",
     "tikTvd": "2862000216099",
-    "tikName": "Лангепасская городская"
+    "tikName": "Лангепасская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 506,
     "uikTvd": "486400595994",
+    "uikName": "УИК №506",
     "tikTvd": "2862000216099",
-    "tikName": "Лангепасская городская"
+    "tikName": "Лангепасская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 507,
     "uikTvd": "486400595995",
+    "uikName": "УИК №507",
     "tikTvd": "2862000216099",
-    "tikName": "Лангепасская городская"
+    "tikName": "Лангепасская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 508,
     "uikTvd": "486400595996",
+    "uikName": "УИК №508",
     "tikTvd": "2862000216099",
-    "tikName": "Лангепасская городская"
+    "tikName": "Лангепасская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 509,
     "uikTvd": "486400595997",
+    "uikName": "УИК №509",
     "tikTvd": "2862000216099",
-    "tikName": "Лангепасская городская"
+    "tikName": "Лангепасская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 510,
     "uikTvd": "486401391391",
+    "uikName": "УИК №510",
     "tikTvd": "2862000216089",
-    "tikName": "Радужнинская городская"
+    "tikName": "Радужнинская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 511,
     "uikTvd": "486401391392",
+    "uikName": "УИК №511",
     "tikTvd": "2862000216089",
-    "tikName": "Радужнинская городская"
+    "tikName": "Радужнинская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 512,
     "uikTvd": "486401391393",
+    "uikName": "УИК №512",
     "tikTvd": "2862000216089",
-    "tikName": "Радужнинская городская"
+    "tikName": "Радужнинская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 513,
     "uikTvd": "486401391394",
+    "uikName": "УИК №513",
     "tikTvd": "2862000216089",
-    "tikName": "Радужнинская городская"
+    "tikName": "Радужнинская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 514,
     "uikTvd": "486401391395",
+    "uikName": "УИК №514",
     "tikTvd": "2862000216089",
-    "tikName": "Радужнинская городская"
+    "tikName": "Радужнинская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 515,
     "uikTvd": "486401391396",
+    "uikName": "УИК №515",
     "tikTvd": "2862000216089",
-    "tikName": "Радужнинская городская"
+    "tikName": "Радужнинская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 516,
     "uikTvd": "486401391397",
+    "uikName": "УИК №516",
     "tikTvd": "2862000216089",
-    "tikName": "Радужнинская городская"
+    "tikName": "Радужнинская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 517,
     "uikTvd": "486401391398",
+    "uikName": "УИК №517",
     "tikTvd": "2862000216089",
-    "tikName": "Радужнинская городская"
+    "tikName": "Радужнинская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 518,
     "uikTvd": "486401391399",
+    "uikName": "УИК №518",
     "tikTvd": "2862000216089",
-    "tikName": "Радужнинская городская"
+    "tikName": "Радужнинская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 519,
     "uikTvd": "486401391400",
+    "uikName": "УИК №519",
     "tikTvd": "2862000216089",
-    "tikName": "Радужнинская городская"
+    "tikName": "Радужнинская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 520,
     "uikTvd": "486401391401",
+    "uikName": "УИК №520",
     "tikTvd": "2862000216089",
-    "tikName": "Радужнинская городская"
+    "tikName": "Радужнинская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 521,
     "uikTvd": "486401391402",
+    "uikName": "УИК №521",
     "tikTvd": "2862000216089",
-    "tikName": "Радужнинская городская"
+    "tikName": "Радужнинская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 522,
     "uikTvd": "486401391403",
+    "uikName": "УИК №522",
     "tikTvd": "2862000216089",
-    "tikName": "Радужнинская городская"
+    "tikName": "Радужнинская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 523,
     "uikTvd": "486401391404",
+    "uikName": "УИК №523",
     "tikTvd": "2862000216089",
-    "tikName": "Радужнинская городская"
+    "tikName": "Радужнинская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 524,
     "uikTvd": "486401391405",
+    "uikName": "УИК №524",
     "tikTvd": "2862000216089",
-    "tikName": "Радужнинская городская"
+    "tikName": "Радужнинская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 525,
     "uikTvd": "486400692745",
+    "uikName": "УИК №525",
     "tikTvd": "2862000216098",
-    "tikName": "Мегионская городская"
+    "tikName": "Мегионская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 526,
     "uikTvd": "486400692746",
+    "uikName": "УИК №526",
     "tikTvd": "2862000216098",
-    "tikName": "Мегионская городская"
+    "tikName": "Мегионская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 527,
     "uikTvd": "486400692747",
+    "uikName": "УИК №527",
     "tikTvd": "2862000216098",
-    "tikName": "Мегионская городская"
+    "tikName": "Мегионская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 528,
     "uikTvd": "486400692748",
+    "uikName": "УИК №528",
     "tikTvd": "2862000216098",
-    "tikName": "Мегионская городская"
+    "tikName": "Мегионская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 529,
     "uikTvd": "486400692749",
+    "uikName": "УИК №529",
     "tikTvd": "2862000216098",
-    "tikName": "Мегионская городская"
+    "tikName": "Мегионская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 530,
     "uikTvd": "486400692750",
+    "uikName": "УИК №530",
     "tikTvd": "2862000216098",
-    "tikName": "Мегионская городская"
+    "tikName": "Мегионская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 531,
     "uikTvd": "486400692751",
+    "uikName": "УИК №531",
     "tikTvd": "2862000216098",
-    "tikName": "Мегионская городская"
+    "tikName": "Мегионская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 532,
     "uikTvd": "486400692743",
+    "uikName": "УИК №532",
     "tikTvd": "2862000216098",
-    "tikName": "Мегионская городская"
+    "tikName": "Мегионская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 533,
     "uikTvd": "486400692752",
+    "uikName": "УИК №533",
     "tikTvd": "2862000216098",
-    "tikName": "Мегионская городская"
+    "tikName": "Мегионская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 534,
     "uikTvd": "486400692753",
+    "uikName": "УИК №534",
     "tikTvd": "2862000216098",
-    "tikName": "Мегионская городская"
+    "tikName": "Мегионская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 535,
     "uikTvd": "486400692754",
+    "uikName": "УИК №535",
     "tikTvd": "2862000216098",
-    "tikName": "Мегионская городская"
+    "tikName": "Мегионская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 536,
     "uikTvd": "486400692755",
+    "uikName": "УИК №536",
     "tikTvd": "2862000216098",
-    "tikName": "Мегионская городская"
+    "tikName": "Мегионская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 537,
     "uikTvd": "486400692756",
+    "uikName": "УИК №537",
     "tikTvd": "2862000216098",
-    "tikName": "Мегионская городская"
+    "tikName": "Мегионская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 538,
     "uikTvd": "486400692757",
+    "uikName": "УИК №538",
     "tikTvd": "2862000216098",
-    "tikName": "Мегионская городская"
+    "tikName": "Мегионская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 539,
     "uikTvd": "486400692758",
+    "uikName": "УИК №539",
     "tikTvd": "2862000216098",
-    "tikName": "Мегионская городская"
+    "tikName": "Мегионская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 540,
     "uikTvd": "486400692759",
+    "uikName": "УИК №540",
     "tikTvd": "2862000216098",
-    "tikName": "Мегионская городская"
+    "tikName": "Мегионская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 541,
     "uikTvd": "486400692760",
+    "uikName": "УИК №541",
     "tikTvd": "2862000216098",
-    "tikName": "Мегионская городская"
+    "tikName": "Мегионская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 542,
     "uikTvd": "486400692761",
+    "uikName": "УИК №542",
     "tikTvd": "2862000216098",
-    "tikName": "Мегионская городская"
+    "tikName": "Мегионская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 543,
     "uikTvd": "486400692762",
+    "uikName": "УИК №543",
     "tikTvd": "2862000216098",
-    "tikName": "Мегионская городская"
+    "tikName": "Мегионская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 544,
     "uikTvd": "486400692763",
+    "uikName": "УИК №544",
     "tikTvd": "2862000216098",
-    "tikName": "Мегионская городская"
+    "tikName": "Мегионская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 545,
     "uikTvd": "4864000107427",
+    "uikName": "УИК №545",
     "tikTvd": "2862000216095",
-    "tikName": "Нижневартовская"
+    "tikName": "Нижневартовская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 546,
     "uikTvd": "4864000107428",
+    "uikName": "УИК №546",
     "tikTvd": "2862000216095",
-    "tikName": "Нижневартовская"
+    "tikName": "Нижневартовская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 547,
     "uikTvd": "4864000107429",
+    "uikName": "УИК №547",
     "tikTvd": "2862000216095",
-    "tikName": "Нижневартовская"
+    "tikName": "Нижневартовская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 548,
     "uikTvd": "4864000107430",
+    "uikName": "УИК №548",
     "tikTvd": "2862000216095",
-    "tikName": "Нижневартовская"
+    "tikName": "Нижневартовская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 549,
     "uikTvd": "4864000107431",
+    "uikName": "УИК №549",
     "tikTvd": "2862000216095",
-    "tikName": "Нижневартовская"
+    "tikName": "Нижневартовская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 550,
     "uikTvd": "4864000107432",
+    "uikName": "УИК №550",
     "tikTvd": "2862000216095",
-    "tikName": "Нижневартовская"
+    "tikName": "Нижневартовская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 551,
     "uikTvd": "4864000107433",
+    "uikName": "УИК №551",
     "tikTvd": "2862000216095",
-    "tikName": "Нижневартовская"
+    "tikName": "Нижневартовская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 552,
     "uikTvd": "4864000107434",
+    "uikName": "УИК №552",
     "tikTvd": "2862000216095",
-    "tikName": "Нижневартовская"
+    "tikName": "Нижневартовская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 553,
     "uikTvd": "4864000107435",
+    "uikName": "УИК №553",
     "tikTvd": "2862000216095",
-    "tikName": "Нижневартовская"
+    "tikName": "Нижневартовская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 554,
     "uikTvd": "4864000107436",
+    "uikName": "УИК №554",
     "tikTvd": "2862000216095",
-    "tikName": "Нижневартовская"
+    "tikName": "Нижневартовская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 555,
     "uikTvd": "4864000107437",
+    "uikName": "УИК №555",
     "tikTvd": "2862000216095",
-    "tikName": "Нижневартовская"
+    "tikName": "Нижневартовская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 556,
     "uikTvd": "4864000107438",
+    "uikName": "УИК №556",
     "tikTvd": "2862000216095",
-    "tikName": "Нижневартовская"
+    "tikName": "Нижневартовская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 557,
     "uikTvd": "4864000107439",
+    "uikName": "УИК №557",
     "tikTvd": "2862000216095",
-    "tikName": "Нижневартовская"
+    "tikName": "Нижневартовская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 558,
     "uikTvd": "4864000107440",
+    "uikName": "УИК №558",
     "tikTvd": "2862000216095",
-    "tikName": "Нижневартовская"
+    "tikName": "Нижневартовская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 559,
     "uikTvd": "4864000107441",
+    "uikName": "УИК №559",
     "tikTvd": "2862000216095",
-    "tikName": "Нижневартовская"
+    "tikName": "Нижневартовская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 560,
     "uikTvd": "4864000107442",
+    "uikName": "УИК №560",
     "tikTvd": "2862000216095",
-    "tikName": "Нижневартовская"
+    "tikName": "Нижневартовская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 561,
     "uikTvd": "4864000107443",
+    "uikName": "УИК №561",
     "tikTvd": "2862000216095",
-    "tikName": "Нижневартовская"
+    "tikName": "Нижневартовская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 562,
     "uikTvd": "4864000107444",
+    "uikName": "УИК №562",
     "tikTvd": "2862000216095",
-    "tikName": "Нижневартовская"
+    "tikName": "Нижневартовская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 563,
     "uikTvd": "4864000107445",
+    "uikName": "УИК №563",
     "tikTvd": "2862000216095",
-    "tikName": "Нижневартовская"
+    "tikName": "Нижневартовская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 564,
     "uikTvd": "4864000107446",
+    "uikName": "УИК №564",
     "tikTvd": "2862000216095",
-    "tikName": "Нижневартовская"
+    "tikName": "Нижневартовская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 565,
     "uikTvd": "4864000107447",
+    "uikName": "УИК №565",
     "tikTvd": "2862000216095",
-    "tikName": "Нижневартовская"
+    "tikName": "Нижневартовская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 566,
     "uikTvd": "4864000107448",
+    "uikName": "УИК №566",
     "tikTvd": "2862000216095",
-    "tikName": "Нижневартовская"
+    "tikName": "Нижневартовская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 567,
     "uikTvd": "4864000107449",
+    "uikName": "УИК №567",
     "tikTvd": "2862000216095",
-    "tikName": "Нижневартовская"
+    "tikName": "Нижневартовская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 568,
     "uikTvd": "4864008110277",
+    "uikName": "УИК №568",
     "tikTvd": "2862000216094",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 569,
     "uikTvd": "4864008110279",
+    "uikName": "УИК №569",
     "tikTvd": "2862000216094",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 570,
     "uikTvd": "4864008110280",
+    "uikName": "УИК №570",
     "tikTvd": "2862000216094",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 571,
     "uikTvd": "4864008110281",
+    "uikName": "УИК №571",
     "tikTvd": "2862000216094",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 572,
     "uikTvd": "4864008110282",
+    "uikName": "УИК №572",
     "tikTvd": "2862000216094",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 573,
     "uikTvd": "4864008110283",
+    "uikName": "УИК №573",
     "tikTvd": "2862000216094",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 574,
     "uikTvd": "4864008110284",
+    "uikName": "УИК №574",
     "tikTvd": "2862000216094",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 575,
     "uikTvd": "4864008110285",
+    "uikName": "УИК №575",
     "tikTvd": "2862000216094",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 576,
     "uikTvd": "4864008110286",
+    "uikName": "УИК №576",
     "tikTvd": "2862000216094",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 577,
     "uikTvd": "4864008110287",
+    "uikName": "УИК №577",
     "tikTvd": "2862000216094",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 578,
     "uikTvd": "4864008110288",
+    "uikName": "УИК №578",
     "tikTvd": "2862000216094",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 579,
     "uikTvd": "4864008110289",
+    "uikName": "УИК №579",
     "tikTvd": "2862000216094",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 580,
     "uikTvd": "4864008110290",
+    "uikName": "УИК №580",
     "tikTvd": "2862000216094",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 581,
     "uikTvd": "4864008110291",
+    "uikName": "УИК №581",
     "tikTvd": "2862000216094",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 582,
     "uikTvd": "4864008110292",
+    "uikName": "УИК №582",
     "tikTvd": "2862000216094",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 583,
     "uikTvd": "4864008110293",
+    "uikName": "УИК №583",
     "tikTvd": "2862000216094",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 584,
     "uikTvd": "4864008110294",
+    "uikName": "УИК №584",
     "tikTvd": "2862000216094",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 585,
     "uikTvd": "4864008110295",
+    "uikName": "УИК №585",
     "tikTvd": "2862000216094",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 586,
     "uikTvd": "4864008110296",
+    "uikName": "УИК №586",
     "tikTvd": "2862000216094",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 587,
     "uikTvd": "4864008110297",
+    "uikName": "УИК №587",
     "tikTvd": "2862000216094",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 588,
     "uikTvd": "4864008110298",
+    "uikName": "УИК №588",
     "tikTvd": "2862000216094",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 589,
     "uikTvd": "4864008110299",
+    "uikName": "УИК №589",
     "tikTvd": "2862000216094",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 590,
     "uikTvd": "4864008110300",
+    "uikName": "УИК №590",
     "tikTvd": "2862000216094",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 591,
     "uikTvd": "4864008110301",
+    "uikName": "УИК №591",
     "tikTvd": "2862000216094",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 592,
     "uikTvd": "4864008110302",
+    "uikName": "УИК №592",
     "tikTvd": "2862000216094",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 593,
     "uikTvd": "4864008110303",
+    "uikName": "УИК №593",
     "tikTvd": "2862000216094",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 594,
     "uikTvd": "4864008110304",
+    "uikName": "УИК №594",
     "tikTvd": "2862000216094",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 595,
     "uikTvd": "4864008110305",
+    "uikName": "УИК №595",
     "tikTvd": "2862000216094",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 596,
     "uikTvd": "4864008110306",
+    "uikName": "УИК №596",
     "tikTvd": "2862000216094",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 597,
     "uikTvd": "4864008110307",
+    "uikName": "УИК №597",
     "tikTvd": "2862000216094",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 598,
     "uikTvd": "4864008110308",
+    "uikName": "УИК №598",
     "tikTvd": "2862000216094",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 599,
     "uikTvd": "4864008110309",
+    "uikName": "УИК №599",
     "tikTvd": "2862000216094",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 600,
     "uikTvd": "4864008110310",
+    "uikName": "УИК №600",
     "tikTvd": "2862000216094",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 601,
     "uikTvd": "4864008110311",
+    "uikName": "УИК №601",
     "tikTvd": "2862000216094",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 602,
     "uikTvd": "4864008110312",
+    "uikName": "УИК №602",
     "tikTvd": "2862000216094",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 603,
     "uikTvd": "4864008110313",
+    "uikName": "УИК №603",
     "tikTvd": "2862000216094",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 604,
     "uikTvd": "4864008110314",
+    "uikName": "УИК №604",
     "tikTvd": "2862000216094",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 605,
     "uikTvd": "4864008110315",
+    "uikName": "УИК №605",
     "tikTvd": "2862000216094",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 606,
     "uikTvd": "4864008110316",
+    "uikName": "УИК №606",
     "tikTvd": "2862000216094",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 607,
     "uikTvd": "4864008110317",
+    "uikName": "УИК №607",
     "tikTvd": "2862000216094",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 608,
     "uikTvd": "4864008110318",
+    "uikName": "УИК №608",
     "tikTvd": "2862000216094",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 609,
     "uikTvd": "4864008110319",
+    "uikName": "УИК №609",
     "tikTvd": "2862000216094",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 610,
     "uikTvd": "4864008110320",
+    "uikName": "УИК №610",
     "tikTvd": "2862000216094",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 611,
     "uikTvd": "4864008110321",
+    "uikName": "УИК №611",
     "tikTvd": "2862000216094",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 612,
     "uikTvd": "4864008110322",
+    "uikName": "УИК №612",
     "tikTvd": "2862000216094",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 613,
     "uikTvd": "4864008110323",
+    "uikName": "УИК №613",
     "tikTvd": "2862000216094",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 614,
     "uikTvd": "4864008110324",
+    "uikName": "УИК №614",
     "tikTvd": "2862000216094",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 615,
     "uikTvd": "4864008110325",
+    "uikName": "УИК №615",
     "tikTvd": "2862000216094",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 616,
     "uikTvd": "4864008110326",
+    "uikName": "УИК №616",
     "tikTvd": "2862000216094",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 617,
     "uikTvd": "4864008110327",
+    "uikName": "УИК №617",
     "tikTvd": "2862000216094",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 618,
     "uikTvd": "4864008110328",
+    "uikName": "УИК №618",
     "tikTvd": "2862000216094",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 619,
     "uikTvd": "4864008110329",
+    "uikName": "УИК №619",
     "tikTvd": "2862000216094",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 620,
     "uikTvd": "4864008110330",
+    "uikName": "УИК №620",
     "tikTvd": "2862000216094",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 621,
     "uikTvd": "4864008110331",
+    "uikName": "УИК №621",
     "tikTvd": "2862000216094",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 622,
     "uikTvd": "4864008110332",
+    "uikName": "УИК №622",
     "tikTvd": "2862000216094",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 623,
     "uikTvd": "4864008110333",
+    "uikName": "УИК №623",
     "tikTvd": "2862000216094",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 624,
     "uikTvd": "4864008110334",
+    "uikName": "УИК №624",
     "tikTvd": "2862000216094",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 625,
     "uikTvd": "4864008110335",
+    "uikName": "УИК №625",
     "tikTvd": "2862000216094",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 626,
     "uikTvd": "4864008110336",
+    "uikName": "УИК №626",
     "tikTvd": "2862000216094",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 627,
     "uikTvd": "4864008110337",
+    "uikName": "УИК №627",
     "tikTvd": "2862000216094",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 628,
     "uikTvd": "4864008110338",
+    "uikName": "УИК №628",
     "tikTvd": "2862000216094",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 629,
     "uikTvd": "4864008110339",
+    "uikName": "УИК №629",
     "tikTvd": "2862000216094",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 630,
     "uikTvd": "4864008110340",
+    "uikName": "УИК №630",
     "tikTvd": "2862000216094",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 631,
     "uikTvd": "4864008110341",
+    "uikName": "УИК №631",
     "tikTvd": "2862000216094",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 632,
     "uikTvd": "4864008110342",
+    "uikName": "УИК №632",
     "tikTvd": "2862000216094",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 633,
     "uikTvd": "4864008110343",
+    "uikName": "УИК №633",
     "tikTvd": "2862000216094",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 634,
     "uikTvd": "4864008110344",
+    "uikName": "УИК №634",
     "tikTvd": "2862000216094",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 635,
     "uikTvd": "4864008110345",
+    "uikName": "УИК №635",
     "tikTvd": "2862000216094",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 636,
     "uikTvd": "4864008110346",
+    "uikName": "УИК №636",
     "tikTvd": "2862000216094",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 637,
     "uikTvd": "4864008110347",
+    "uikName": "УИК №637",
     "tikTvd": "2862000216094",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 638,
     "uikTvd": "4864008110348",
+    "uikName": "УИК №638",
     "tikTvd": "2862000216094",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 639,
     "uikTvd": "4864008110349",
+    "uikName": "УИК №639",
     "tikTvd": "2862000216094",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 640,
     "uikTvd": "4864008110350",
+    "uikName": "УИК №640",
     "tikTvd": "2862000216094",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 641,
     "uikTvd": "4864008110351",
+    "uikName": "УИК №641",
     "tikTvd": "2862000216094",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 642,
     "uikTvd": "4864008110352",
+    "uikName": "УИК №642",
     "tikTvd": "2862000216094",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 643,
     "uikTvd": "4864008110353",
+    "uikName": "УИК №643",
     "tikTvd": "2862000216094",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 644,
     "uikTvd": "4864008110354",
+    "uikName": "УИК №644",
     "tikTvd": "2862000216094",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 645,
     "uikTvd": "4864008110355",
+    "uikName": "УИК №645",
     "tikTvd": "2862000216094",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 646,
     "uikTvd": "4864008110356",
+    "uikName": "УИК №646",
     "tikTvd": "2862000216094",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 647,
     "uikTvd": "4864008110357",
+    "uikName": "УИК №647",
     "tikTvd": "2862000216094",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 648,
     "uikTvd": "4864008110358",
+    "uikName": "УИК №648",
     "tikTvd": "2862000216094",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 649,
     "uikTvd": "4864008110359",
+    "uikName": "УИК №649",
     "tikTvd": "2862000216094",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 650,
     "uikTvd": "4864008110360",
+    "uikName": "УИК №650",
     "tikTvd": "2862000216094",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 651,
     "uikTvd": "4864008110361",
+    "uikName": "УИК №651",
     "tikTvd": "2862000216094",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 652,
     "uikTvd": "4864008110362",
+    "uikName": "УИК №652",
     "tikTvd": "2862000216094",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 653,
     "uikTvd": "4864008110363",
+    "uikName": "УИК №653",
     "tikTvd": "2862000216094",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 654,
     "uikTvd": "4864008110364",
+    "uikName": "УИК №654",
     "tikTvd": "2862000216094",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   },
   {
     "uikNumber": 655,
     "uikTvd": "4864008110365",
+    "uikName": "УИК №655",
     "tikTvd": "2862000216094",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
+    "district": null
   }
 ] satisfies readonly UikTikRelation[];

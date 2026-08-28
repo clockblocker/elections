@@ -11,6 +11,14 @@ export const duma_2016_tic_464_region_94 = [
     "ballot": "single-member",
     "tikTvd": "2942000105290",
     "tikName": "Нахимовская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    },
     "uikCount": 50,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 86188,
@@ -112,6 +120,14 @@ export const duma_2016_tic_464_region_94 = [
     "ballot": "single-member",
     "tikTvd": "2942000105291",
     "tikName": "Ленинская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    },
     "uikCount": 57,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 86294,
@@ -220,6 +236,14 @@ export const duma_2016_tic_464_region_94 = [
     "ballot": "single-member",
     "tikTvd": "2942000105292",
     "tikName": "Балаклавская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    },
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 37866,
@@ -304,6 +328,14 @@ export const duma_2016_tic_464_region_94 = [
     "ballot": "single-member",
     "tikTvd": "2942000105293",
     "tikName": "Гагаринская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    },
     "uikCount": 51,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 101627,

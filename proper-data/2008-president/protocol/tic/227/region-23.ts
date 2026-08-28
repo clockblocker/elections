@@ -11,6 +11,9 @@ export const president_2008_tic_227_region_23 = [
     "ballot": "presidential",
     "tikTvd": "2232000287112",
     "tikName": "Южная г.Новороссийска",
+    "regionCode": "23",
+    "regionTvd": "100100022249937",
+    "regionName": "Краснодарский край",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 35480,
@@ -80,6 +83,9 @@ export const president_2008_tic_227_region_23 = [
     "ballot": "presidential",
     "tikTvd": "2232000287113",
     "tikName": "Ленинградская",
+    "regionCode": "23",
+    "regionTvd": "100100022249937",
+    "regionName": "Краснодарский край",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 46273,
@@ -162,6 +168,9 @@ export const president_2008_tic_227_region_23 = [
     "ballot": "presidential",
     "tikTvd": "2232000287114",
     "tikName": "Анапская",
+    "regionCode": "23",
+    "regionTvd": "100100022249937",
+    "regionName": "Краснодарский край",
     "uikCount": 65,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 105104,
@@ -274,6 +283,9 @@ export const president_2008_tic_227_region_23 = [
     "ballot": "presidential",
     "tikTvd": "2232000287115",
     "tikName": "Кущевская",
+    "regionCode": "23",
+    "regionTvd": "100100022249937",
+    "regionName": "Краснодарский край",
     "uikCount": 52,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 50830,
@@ -373,6 +385,9 @@ export const president_2008_tic_227_region_23 = [
     "ballot": "presidential",
     "tikTvd": "2232000287116",
     "tikName": "Курганинская",
+    "regionCode": "23",
+    "regionTvd": "100100022249937",
+    "regionName": "Краснодарский край",
     "uikCount": 56,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 64867,
@@ -476,6 +491,9 @@ export const president_2008_tic_227_region_23 = [
     "ballot": "presidential",
     "tikTvd": "2232000287117",
     "tikName": "Кропоткинская",
+    "regionCode": "23",
+    "regionTvd": "100100022249937",
+    "regionName": "Краснодарский край",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 54487,
@@ -559,6 +577,9 @@ export const president_2008_tic_227_region_23 = [
     "ballot": "presidential",
     "tikTvd": "2232000287118",
     "tikName": "Крыловская",
+    "regionCode": "23",
+    "regionTvd": "100100022249937",
+    "regionName": "Краснодарский край",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 25645,
@@ -643,6 +664,9 @@ export const president_2008_tic_227_region_23 = [
     "ballot": "presidential",
     "tikTvd": "2232000287119",
     "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100022249937",
+    "regionName": "Краснодарский край",
     "uikCount": 64,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 88332,
@@ -754,6 +778,9 @@ export const president_2008_tic_227_region_23 = [
     "ballot": "presidential",
     "tikTvd": "2232000287120",
     "tikName": "Прикубанская г.Краснодара",
+    "regionCode": "23",
+    "regionTvd": "100100022249937",
+    "regionName": "Краснодарский край",
     "uikCount": 83,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 178066,
@@ -884,6 +911,9 @@ export const president_2008_tic_227_region_23 = [
     "ballot": "presidential",
     "tikTvd": "2232000287121",
     "tikName": "Центральная г.Краснодара",
+    "regionCode": "23",
+    "regionTvd": "100100022249937",
+    "regionName": "Краснодарский край",
     "uikCount": 63,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 111667,
@@ -994,6 +1024,9 @@ export const president_2008_tic_227_region_23 = [
     "ballot": "presidential",
     "tikTvd": "2232000287122",
     "tikName": "Карасунская г.Краснодара",
+    "regionCode": "23",
+    "regionTvd": "100100022249937",
+    "regionName": "Краснодарский край",
     "uikCount": 70,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 161757,
@@ -1111,6 +1144,9 @@ export const president_2008_tic_227_region_23 = [
     "ballot": "presidential",
     "tikTvd": "2232000287123",
     "tikName": "Кореновская",
+    "regionCode": "23",
+    "regionTvd": "100100022249937",
+    "regionName": "Краснодарский край",
     "uikCount": 47,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 60440,
@@ -1205,6 +1241,9 @@ export const president_2008_tic_227_region_23 = [
     "ballot": "presidential",
     "tikTvd": "2232000287124",
     "tikName": "Красноармейская",
+    "regionCode": "23",
+    "regionTvd": "100100022249937",
+    "regionName": "Краснодарский край",
     "uikCount": 65,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 72401,
@@ -1317,6 +1356,9 @@ export const president_2008_tic_227_region_23 = [
     "ballot": "presidential",
     "tikTvd": "2232000287125",
     "tikName": "Западная г.Краснодара",
+    "regionCode": "23",
+    "regionTvd": "100100022249937",
+    "regionName": "Краснодарский край",
     "uikCount": 64,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 119293,
@@ -1428,6 +1470,9 @@ export const president_2008_tic_227_region_23 = [
     "ballot": "presidential",
     "tikTvd": "2232000287126",
     "tikName": "Калининская",
+    "regionCode": "23",
+    "regionTvd": "100100022249937",
+    "regionName": "Краснодарский край",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 35756,
@@ -1500,6 +1545,9 @@ export const president_2008_tic_227_region_23 = [
     "ballot": "presidential",
     "tikTvd": "2232000287127",
     "tikName": "Кавказская",
+    "regionCode": "23",
+    "regionTvd": "100100022249937",
+    "regionName": "Краснодарский край",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 34442,
@@ -1570,6 +1618,9 @@ export const president_2008_tic_227_region_23 = [
     "ballot": "presidential",
     "tikTvd": "2232000287128",
     "tikName": "Каневская",
+    "regionCode": "23",
+    "regionTvd": "100100022249937",
+    "regionName": "Краснодарский край",
     "uikCount": 52,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 68153,
@@ -1669,6 +1720,9 @@ export const president_2008_tic_227_region_23 = [
     "ballot": "presidential",
     "tikTvd": "2232000287129",
     "tikName": "Гулькевичская",
+    "regionCode": "23",
+    "regionTvd": "100100022249937",
+    "regionName": "Краснодарский край",
     "uikCount": 70,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 68438,
@@ -1786,6 +1840,9 @@ export const president_2008_tic_227_region_23 = [
     "ballot": "presidential",
     "tikTvd": "2232000287130",
     "tikName": "Динская",
+    "regionCode": "23",
+    "regionTvd": "100100022249937",
+    "regionName": "Краснодарский край",
     "uikCount": 48,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 88867,
@@ -1881,6 +1938,9 @@ export const president_2008_tic_227_region_23 = [
     "ballot": "presidential",
     "tikTvd": "2232000287131",
     "tikName": "Ейская городская",
+    "regionCode": "23",
+    "regionTvd": "100100022249937",
+    "regionName": "Краснодарский край",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 61739,
@@ -1968,6 +2028,9 @@ export const president_2008_tic_227_region_23 = [
     "ballot": "presidential",
     "tikTvd": "2232000287132",
     "tikName": "Горячеключевская",
+    "regionCode": "23",
+    "regionTvd": "100100022249937",
+    "regionName": "Краснодарский край",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 40996,
@@ -2052,6 +2115,9 @@ export const president_2008_tic_227_region_23 = [
     "ballot": "presidential",
     "tikTvd": "2232000287133",
     "tikName": "Геленджикская",
+    "regionCode": "23",
+    "regionTvd": "100100022249937",
+    "regionName": "Краснодарский край",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 60998,
@@ -2137,6 +2203,9 @@ export const president_2008_tic_227_region_23 = [
     "ballot": "presidential",
     "tikTvd": "2232000287134",
     "tikName": "Выселковская",
+    "regionCode": "23",
+    "regionTvd": "100100022249937",
+    "regionName": "Краснодарский край",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 45384,
@@ -2224,6 +2293,9 @@ export const president_2008_tic_227_region_23 = [
     "ballot": "presidential",
     "tikTvd": "2232000287135",
     "tikName": "Брюховецкая",
+    "regionCode": "23",
+    "regionTvd": "100100022249937",
+    "regionName": "Краснодарский край",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 39871,
@@ -2312,6 +2384,9 @@ export const president_2008_tic_227_region_23 = [
     "ballot": "presidential",
     "tikTvd": "2232000287136",
     "tikName": "Белореченская",
+    "regionCode": "23",
+    "regionTvd": "100100022249937",
+    "regionName": "Краснодарский край",
     "uikCount": 70,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 74073,
@@ -2429,6 +2504,9 @@ export const president_2008_tic_227_region_23 = [
     "ballot": "presidential",
     "tikTvd": "2232000287137",
     "tikName": "Белоглинская",
+    "regionCode": "23",
+    "regionTvd": "100100022249937",
+    "regionName": "Краснодарский край",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 24003,
@@ -2497,6 +2575,9 @@ export const president_2008_tic_227_region_23 = [
     "ballot": "presidential",
     "tikTvd": "2232000287138",
     "tikName": "Армавирская",
+    "regionCode": "23",
+    "regionTvd": "100100022249937",
+    "regionName": "Краснодарский край",
     "uikCount": 74,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 117382,
@@ -2618,6 +2699,9 @@ export const president_2008_tic_227_region_23 = [
     "ballot": "presidential",
     "tikTvd": "2232000287139",
     "tikName": "Абинская",
+    "regionCode": "23",
+    "regionTvd": "100100022249937",
+    "regionName": "Краснодарский край",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 62944,
@@ -2707,6 +2791,9 @@ export const president_2008_tic_227_region_23 = [
     "ballot": "presidential",
     "tikTvd": "2232000287140",
     "tikName": "Апшеронская",
+    "regionCode": "23",
+    "regionTvd": "100100022249937",
+    "regionName": "Краснодарский край",
     "uikCount": 57,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 59242,
@@ -2811,6 +2898,9 @@ export const president_2008_tic_227_region_23 = [
     "ballot": "presidential",
     "tikTvd": "2232000287141",
     "tikName": "Судов загранплавания",
+    "regionCode": "23",
+    "regionTvd": "100100022249937",
+    "regionName": "Краснодарский край",
     "uikCount": 5,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 153,
@@ -2863,6 +2953,9 @@ export const president_2008_tic_227_region_23 = [
     "ballot": "presidential",
     "tikTvd": "2232000287142",
     "tikName": "Туапсинская районная",
+    "regionCode": "23",
+    "regionTvd": "100100022249937",
+    "regionName": "Краснодарский край",
     "uikCount": 58,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 40822,
@@ -2968,6 +3061,9 @@ export const president_2008_tic_227_region_23 = [
     "ballot": "presidential",
     "tikTvd": "2232000287143",
     "tikName": "Тихорецкая районная",
+    "regionCode": "23",
+    "regionTvd": "100100022249937",
+    "regionName": "Краснодарский край",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 44671,
@@ -3058,6 +3154,9 @@ export const president_2008_tic_227_region_23 = [
     "ballot": "presidential",
     "tikTvd": "2232000287144",
     "tikName": "Щербиновская",
+    "regionCode": "23",
+    "regionTvd": "100100022249937",
+    "regionName": "Краснодарский край",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 28248,
@@ -3123,6 +3222,9 @@ export const president_2008_tic_227_region_23 = [
     "ballot": "presidential",
     "tikTvd": "2232000287145",
     "tikName": "Ейская районная",
+    "regionCode": "23",
+    "regionTvd": "100100022249937",
+    "regionName": "Краснодарский край",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 30461,
@@ -3196,6 +3298,9 @@ export const president_2008_tic_227_region_23 = [
     "ballot": "presidential",
     "tikTvd": "2232000287146",
     "tikName": "Усть-Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100022249937",
+    "regionName": "Краснодарский край",
     "uikCount": 62,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 73318,
@@ -3305,6 +3410,9 @@ export const president_2008_tic_227_region_23 = [
     "ballot": "presidential",
     "tikTvd": "2232000287147",
     "tikName": "Туапсинская городская",
+    "regionCode": "23",
+    "regionTvd": "100100022249937",
+    "regionName": "Краснодарский край",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 44447,
@@ -3380,6 +3488,9 @@ export const president_2008_tic_227_region_23 = [
     "ballot": "presidential",
     "tikTvd": "2232000287148",
     "tikName": "Тихорецкая городская",
+    "regionCode": "23",
+    "regionTvd": "100100022249937",
+    "regionName": "Краснодарский край",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 46202,
@@ -3461,6 +3572,9 @@ export const president_2008_tic_227_region_23 = [
     "ballot": "presidential",
     "tikTvd": "2232000287149",
     "tikName": "Успенская",
+    "regionCode": "23",
+    "regionTvd": "100100022249937",
+    "regionName": "Краснодарский край",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 28523,
@@ -3534,6 +3648,9 @@ export const president_2008_tic_227_region_23 = [
     "ballot": "presidential",
     "tikTvd": "2232000287150",
     "tikName": "Тимашевская",
+    "regionCode": "23",
+    "regionTvd": "100100022249937",
+    "regionName": "Краснодарский край",
     "uikCount": 57,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 75826,
@@ -3638,6 +3755,9 @@ export const president_2008_tic_227_region_23 = [
     "ballot": "presidential",
     "tikTvd": "2232000287151",
     "tikName": "Темрюкская",
+    "regionCode": "23",
+    "regionTvd": "100100022249937",
+    "regionName": "Краснодарский край",
     "uikCount": 54,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 78448,
@@ -3739,6 +3859,9 @@ export const president_2008_tic_227_region_23 = [
     "ballot": "presidential",
     "tikTvd": "2232000287152",
     "tikName": "Тбилисская",
+    "regionCode": "23",
+    "regionTvd": "100100022249937",
+    "regionName": "Краснодарский край",
     "uikCount": 45,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 36737,
@@ -3831,6 +3954,9 @@ export const president_2008_tic_227_region_23 = [
     "ballot": "presidential",
     "tikTvd": "2232000287153",
     "tikName": "Староминская",
+    "regionCode": "23",
+    "regionTvd": "100100022249937",
+    "regionName": "Краснодарский край",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 29737,
@@ -3900,6 +4026,9 @@ export const president_2008_tic_227_region_23 = [
     "ballot": "presidential",
     "tikTvd": "2232000287154",
     "tikName": "Центральная г.Сочи",
+    "regionCode": "23",
+    "regionTvd": "100100022249937",
+    "regionName": "Краснодарский край",
     "uikCount": 62,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 94012,
@@ -4009,6 +4138,9 @@ export const president_2008_tic_227_region_23 = [
     "ballot": "presidential",
     "tikTvd": "2232000287155",
     "tikName": "Хостинская г.Сочи",
+    "regionCode": "23",
+    "regionTvd": "100100022249937",
+    "regionName": "Краснодарский край",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 48997,
@@ -4090,6 +4222,9 @@ export const president_2008_tic_227_region_23 = [
     "ballot": "presidential",
     "tikTvd": "2232000287156",
     "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100022249937",
+    "regionName": "Краснодарский край",
     "uikCount": 62,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 97119,
@@ -4199,6 +4334,9 @@ export const president_2008_tic_227_region_23 = [
     "ballot": "presidential",
     "tikTvd": "2232000287157",
     "tikName": "Адлерская г.Сочи",
+    "regionCode": "23",
+    "regionTvd": "100100022249937",
+    "regionName": "Краснодарский край",
     "uikCount": 61,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 68326,
@@ -4307,6 +4445,9 @@ export const president_2008_tic_227_region_23 = [
     "ballot": "presidential",
     "tikTvd": "2232000287158",
     "tikName": "Лазаревская г.Сочи",
+    "regionCode": "23",
+    "regionTvd": "100100022249937",
+    "regionName": "Краснодарский край",
     "uikCount": 54,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 59141,
@@ -4408,6 +4549,9 @@ export const president_2008_tic_227_region_23 = [
     "ballot": "presidential",
     "tikTvd": "2232000287159",
     "tikName": "Приморско-Ахтарская",
+    "regionCode": "23",
+    "regionTvd": "100100022249937",
+    "regionName": "Краснодарский край",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 42096,
@@ -4491,6 +4635,9 @@ export const president_2008_tic_227_region_23 = [
     "ballot": "presidential",
     "tikTvd": "2232000287160",
     "tikName": "Северская",
+    "regionCode": "23",
+    "regionTvd": "100100022249937",
+    "regionName": "Краснодарский край",
     "uikCount": 64,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 76480,
@@ -4602,6 +4749,9 @@ export const president_2008_tic_227_region_23 = [
     "ballot": "presidential",
     "tikTvd": "2232000287161",
     "tikName": "Павловская",
+    "regionCode": "23",
+    "regionTvd": "100100022249937",
+    "regionName": "Краснодарский край",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 52952,
@@ -4693,6 +4843,9 @@ export const president_2008_tic_227_region_23 = [
     "ballot": "presidential",
     "tikTvd": "2232000287162",
     "tikName": "Отрадненская",
+    "regionCode": "23",
+    "regionTvd": "100100022249937",
+    "regionName": "Краснодарский край",
     "uikCount": 51,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 46707,
@@ -4791,6 +4944,9 @@ export const president_2008_tic_227_region_23 = [
     "ballot": "presidential",
     "tikTvd": "2232000287163",
     "tikName": "Центральная г.Новороссийска",
+    "regionCode": "23",
+    "regionTvd": "100100022249937",
+    "regionName": "Краснодарский край",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 47336,
@@ -4868,6 +5024,9 @@ export const president_2008_tic_227_region_23 = [
     "ballot": "presidential",
     "tikTvd": "2232000287164",
     "tikName": "Приморская г.Новороссийска",
+    "regionCode": "23",
+    "regionTvd": "100100022249937",
+    "regionName": "Краснодарский край",
     "uikCount": 48,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 67934,
@@ -4963,6 +5122,9 @@ export const president_2008_tic_227_region_23 = [
     "ballot": "presidential",
     "tikTvd": "2232000287165",
     "tikName": "Новопокровская",
+    "regionCode": "23",
+    "regionTvd": "100100022249937",
+    "regionName": "Краснодарский край",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 35279,
@@ -5039,6 +5201,9 @@ export const president_2008_tic_227_region_23 = [
     "ballot": "presidential",
     "tikTvd": "2232000287166",
     "tikName": "Новокубанская",
+    "regionCode": "23",
+    "regionTvd": "100100022249937",
+    "regionName": "Краснодарский край",
     "uikCount": 61,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 62785,
@@ -5147,6 +5312,9 @@ export const president_2008_tic_227_region_23 = [
     "ballot": "presidential",
     "tikTvd": "2232000287167",
     "tikName": "Восточная г.Новороссийска",
+    "regionCode": "23",
+    "regionTvd": "100100022249937",
+    "regionName": "Краснодарский край",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 22862,
@@ -5211,6 +5379,9 @@ export const president_2008_tic_227_region_23 = [
     "ballot": "presidential",
     "tikTvd": "2232000287168",
     "tikName": "Мостовская",
+    "regionCode": "23",
+    "regionTvd": "100100022249937",
+    "regionName": "Краснодарский край",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 46533,
@@ -5300,6 +5471,9 @@ export const president_2008_tic_227_region_23 = [
     "ballot": "presidential",
     "tikTvd": "2232000287169",
     "tikName": "Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100022249937",
+    "regionName": "Краснодарский край",
     "uikCount": 54,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 73060,

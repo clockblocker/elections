@@ -7,1771 +7,3246 @@ export const president_2024_uik_to_tik_region_0 = [
   {
     "uikNumber": 8000,
     "uikTvd": "499400190934",
+    "uikName": "УИК №8000",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8001,
     "uikTvd": "499400190935",
+    "uikName": "УИК №8001",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8002,
     "uikTvd": "499400190936",
+    "uikName": "УИК №8002",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8003,
     "uikTvd": "499400190937",
+    "uikName": "УИК №8003",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8004,
     "uikTvd": "499400190938",
+    "uikName": "УИК №8004",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8005,
     "uikTvd": "499400190939",
+    "uikName": "УИК №8005",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8006,
     "uikTvd": "499400191249",
+    "uikName": "УИК №8006",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8007,
     "uikTvd": "499400191250",
+    "uikName": "УИК №8007",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8008,
     "uikTvd": "499400191251",
+    "uikName": "УИК №8008",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8009,
     "uikTvd": "499400191252",
+    "uikName": "УИК №8009",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8010,
     "uikTvd": "499400191253",
+    "uikName": "УИК №8010",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8015,
     "uikTvd": "499400191258",
+    "uikName": "УИК №8015",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8016,
     "uikTvd": "499400191259",
+    "uikName": "УИК №8016",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8017,
     "uikTvd": "499400194715",
+    "uikName": "УИК №8017",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8018,
     "uikTvd": "499400194716",
+    "uikName": "УИК №8018",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8019,
     "uikTvd": "499400194717",
+    "uikName": "УИК №8019",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8020,
     "uikTvd": "499400194718",
+    "uikName": "УИК №8020",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8022,
     "uikTvd": "499400191260",
+    "uikName": "УИК №8022",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8023,
     "uikTvd": "499400191261",
+    "uikName": "УИК №8023",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8024,
     "uikTvd": "499400191262",
+    "uikName": "УИК №8024",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8025,
     "uikTvd": "499400191263",
+    "uikName": "УИК №8025",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8026,
     "uikTvd": "499400191264",
+    "uikName": "УИК №8026",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8027,
     "uikTvd": "499400191265",
+    "uikName": "УИК №8027",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8028,
     "uikTvd": "499400191266",
+    "uikName": "УИК №8028",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8030,
     "uikTvd": "499400191267",
+    "uikName": "УИК №8030",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8031,
     "uikTvd": "499400191268",
+    "uikName": "УИК №8031",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8032,
     "uikTvd": "499400191269",
+    "uikName": "УИК №8032",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8033,
     "uikTvd": "499400191270",
+    "uikName": "УИК №8033",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8035,
     "uikTvd": "499400191271",
+    "uikName": "УИК №8035",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8036,
     "uikTvd": "499400191272",
+    "uikName": "УИК №8036",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8038,
     "uikTvd": "499400191273",
+    "uikName": "УИК №8038",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8039,
     "uikTvd": "499400191274",
+    "uikName": "УИК №8039",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8041,
     "uikTvd": "499400191275",
+    "uikName": "УИК №8041",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8042,
     "uikTvd": "499400191276",
+    "uikName": "УИК №8042",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8043,
     "uikTvd": "499400191277",
+    "uikName": "УИК №8043",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8045,
     "uikTvd": "499400191278",
+    "uikName": "УИК №8045",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8046,
     "uikTvd": "499400191279",
+    "uikName": "УИК №8046",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8047,
     "uikTvd": "499400191280",
+    "uikName": "УИК №8047",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8048,
     "uikTvd": "499400191281",
+    "uikName": "УИК №8048",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8050,
     "uikTvd": "499400191282",
+    "uikName": "УИК №8050",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8053,
     "uikTvd": "499400191283",
+    "uikName": "УИК №8053",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8054,
     "uikTvd": "499400191284",
+    "uikName": "УИК №8054",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8055,
     "uikTvd": "499400191285",
+    "uikName": "УИК №8055",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8056,
     "uikTvd": "499400191286",
+    "uikName": "УИК №8056",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8057,
     "uikTvd": "499400191287",
+    "uikName": "УИК №8057",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8058,
     "uikTvd": "499400191288",
+    "uikName": "УИК №8058",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8059,
     "uikTvd": "499400191289",
+    "uikName": "УИК №8059",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8060,
     "uikTvd": "499400191290",
+    "uikName": "УИК №8060",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8061,
     "uikTvd": "499400191291",
+    "uikName": "УИК №8061",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8066,
     "uikTvd": "499400191292",
+    "uikName": "УИК №8066",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8067,
     "uikTvd": "499400191293",
+    "uikName": "УИК №8067",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8068,
     "uikTvd": "499400191294",
+    "uikName": "УИК №8068",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8069,
     "uikTvd": "499400191295",
+    "uikName": "УИК №8069",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8070,
     "uikTvd": "499400191296",
+    "uikName": "УИК №8070",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8071,
     "uikTvd": "499400191297",
+    "uikName": "УИК №8071",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8072,
     "uikTvd": "499400191298",
+    "uikName": "УИК №8072",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8073,
     "uikTvd": "499400191299",
+    "uikName": "УИК №8073",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8074,
     "uikTvd": "499400191300",
+    "uikName": "УИК №8074",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8075,
     "uikTvd": "499400191301",
+    "uikName": "УИК №8075",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8076,
     "uikTvd": "499400191302",
+    "uikName": "УИК №8076",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8077,
     "uikTvd": "499400191303",
+    "uikName": "УИК №8077",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8078,
     "uikTvd": "499400191304",
+    "uikName": "УИК №8078",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8079,
     "uikTvd": "499400191305",
+    "uikName": "УИК №8079",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8080,
     "uikTvd": "499400191306",
+    "uikName": "УИК №8080",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8081,
     "uikTvd": "499400191307",
+    "uikName": "УИК №8081",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8082,
     "uikTvd": "499400191308",
+    "uikName": "УИК №8082",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8083,
     "uikTvd": "499400191309",
+    "uikName": "УИК №8083",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8084,
     "uikTvd": "499400191310",
+    "uikName": "УИК №8084",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8089,
     "uikTvd": "499400191311",
+    "uikName": "УИК №8089",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8094,
     "uikTvd": "499400191312",
+    "uikName": "УИК №8094",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8096,
     "uikTvd": "499400191313",
+    "uikName": "УИК №8096",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8098,
     "uikTvd": "499400191314",
+    "uikName": "УИК №8098",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8099,
     "uikTvd": "499400191315",
+    "uikName": "УИК №8099",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8100,
     "uikTvd": "499400191316",
+    "uikName": "УИК №8100",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8101,
     "uikTvd": "499400191317",
+    "uikName": "УИК №8101",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8102,
     "uikTvd": "499400191318",
+    "uikName": "УИК №8102",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8103,
     "uikTvd": "499400191319",
+    "uikName": "УИК №8103",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8104,
     "uikTvd": "499400191320",
+    "uikName": "УИК №8104",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8105,
     "uikTvd": "499400191321",
+    "uikName": "УИК №8105",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8106,
     "uikTvd": "499400191322",
+    "uikName": "УИК №8106",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8107,
     "uikTvd": "499400191323",
+    "uikName": "УИК №8107",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8108,
     "uikTvd": "499400191324",
+    "uikName": "УИК №8108",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8109,
     "uikTvd": "499400191325",
+    "uikName": "УИК №8109",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8110,
     "uikTvd": "499400191326",
+    "uikName": "УИК №8110",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8111,
     "uikTvd": "499400191327",
+    "uikName": "УИК №8111",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8112,
     "uikTvd": "499400191328",
+    "uikName": "УИК №8112",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8113,
     "uikTvd": "499400191329",
+    "uikName": "УИК №8113",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8114,
     "uikTvd": "499400191330",
+    "uikName": "УИК №8114",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8117,
     "uikTvd": "499400191331",
+    "uikName": "УИК №8117",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8118,
     "uikTvd": "499400191332",
+    "uikName": "УИК №8118",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8119,
     "uikTvd": "499400191333",
+    "uikName": "УИК №8119",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8120,
     "uikTvd": "499400191334",
+    "uikName": "УИК №8120",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8121,
     "uikTvd": "499400191335",
+    "uikName": "УИК №8121",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8123,
     "uikTvd": "499400191336",
+    "uikName": "УИК №8123",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8124,
     "uikTvd": "499400191337",
+    "uikName": "УИК №8124",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8125,
     "uikTvd": "499400191338",
+    "uikName": "УИК №8125",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8126,
     "uikTvd": "499400191339",
+    "uikName": "УИК №8126",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8128,
     "uikTvd": "499400191340",
+    "uikName": "УИК №8128",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8132,
     "uikTvd": "499400191341",
+    "uikName": "УИК №8132",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8133,
     "uikTvd": "499400191342",
+    "uikName": "УИК №8133",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8134,
     "uikTvd": "499400191343",
+    "uikName": "УИК №8134",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8137,
     "uikTvd": "499400191344",
+    "uikName": "УИК №8137",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8140,
     "uikTvd": "499400194727",
+    "uikName": "УИК №8140",
     "tikTvd": "100100340344875",
-    "tikName": "Город Байконур (Республика Казахстан)"
+    "tikName": "Город Байконур (Республика Казахстан)",
+    "regionCode": "0",
+    "regionTvd": "100100340344875",
+    "regionName": "Город Байконур (Республика Казахстан)",
+    "district": null
   },
   {
     "uikNumber": 8141,
     "uikTvd": "499400194728",
+    "uikName": "УИК №8141",
     "tikTvd": "100100340344875",
-    "tikName": "Город Байконур (Республика Казахстан)"
+    "tikName": "Город Байконур (Республика Казахстан)",
+    "regionCode": "0",
+    "regionTvd": "100100340344875",
+    "regionName": "Город Байконур (Республика Казахстан)",
+    "district": null
   },
   {
     "uikNumber": 8142,
     "uikTvd": "499400194729",
+    "uikName": "УИК №8142",
     "tikTvd": "100100340344875",
-    "tikName": "Город Байконур (Республика Казахстан)"
+    "tikName": "Город Байконур (Республика Казахстан)",
+    "regionCode": "0",
+    "regionTvd": "100100340344875",
+    "regionName": "Город Байконур (Республика Казахстан)",
+    "district": null
   },
   {
     "uikNumber": 8143,
     "uikTvd": "499400194730",
+    "uikName": "УИК №8143",
     "tikTvd": "100100340344875",
-    "tikName": "Город Байконур (Республика Казахстан)"
+    "tikName": "Город Байконур (Республика Казахстан)",
+    "regionCode": "0",
+    "regionTvd": "100100340344875",
+    "regionName": "Город Байконур (Республика Казахстан)",
+    "district": null
   },
   {
     "uikNumber": 8144,
     "uikTvd": "499400194731",
+    "uikName": "УИК №8144",
     "tikTvd": "100100340344875",
-    "tikName": "Город Байконур (Республика Казахстан)"
+    "tikName": "Город Байконур (Республика Казахстан)",
+    "regionCode": "0",
+    "regionTvd": "100100340344875",
+    "regionName": "Город Байконур (Республика Казахстан)",
+    "district": null
   },
   {
     "uikNumber": 8145,
     "uikTvd": "499400194732",
+    "uikName": "УИК №8145",
     "tikTvd": "100100340344875",
-    "tikName": "Город Байконур (Республика Казахстан)"
+    "tikName": "Город Байконур (Республика Казахстан)",
+    "regionCode": "0",
+    "regionTvd": "100100340344875",
+    "regionName": "Город Байконур (Республика Казахстан)",
+    "district": null
   },
   {
     "uikNumber": 8146,
     "uikTvd": "499400194733",
+    "uikName": "УИК №8146",
     "tikTvd": "100100340344875",
-    "tikName": "Город Байконур (Республика Казахстан)"
+    "tikName": "Город Байконур (Республика Казахстан)",
+    "regionCode": "0",
+    "regionTvd": "100100340344875",
+    "regionName": "Город Байконур (Республика Казахстан)",
+    "district": null
   },
   {
     "uikNumber": 8148,
     "uikTvd": "499400191345",
+    "uikName": "УИК №8148",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8150,
     "uikTvd": "499400191346",
+    "uikName": "УИК №8150",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8151,
     "uikTvd": "499400191347",
+    "uikName": "УИК №8151",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8152,
     "uikTvd": "499400191348",
+    "uikName": "УИК №8152",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8153,
     "uikTvd": "499400191349",
+    "uikName": "УИК №8153",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8154,
     "uikTvd": "499400191350",
+    "uikName": "УИК №8154",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8155,
     "uikTvd": "499400191351",
+    "uikName": "УИК №8155",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8156,
     "uikTvd": "499400191352",
+    "uikName": "УИК №8156",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8157,
     "uikTvd": "499400191353",
+    "uikName": "УИК №8157",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8158,
     "uikTvd": "499400191354",
+    "uikName": "УИК №8158",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8159,
     "uikTvd": "499400191355",
+    "uikName": "УИК №8159",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8160,
     "uikTvd": "499400191356",
+    "uikName": "УИК №8160",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8161,
     "uikTvd": "499400191357",
+    "uikName": "УИК №8161",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8162,
     "uikTvd": "499400191358",
+    "uikName": "УИК №8162",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8163,
     "uikTvd": "499400191359",
+    "uikName": "УИК №8163",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8164,
     "uikTvd": "499400191360",
+    "uikName": "УИК №8164",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8165,
     "uikTvd": "499400191361",
+    "uikName": "УИК №8165",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8166,
     "uikTvd": "499400191362",
+    "uikName": "УИК №8166",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8167,
     "uikTvd": "499400191363",
+    "uikName": "УИК №8167",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8168,
     "uikTvd": "499400191364",
+    "uikName": "УИК №8168",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8169,
     "uikTvd": "499400191365",
+    "uikName": "УИК №8169",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8170,
     "uikTvd": "499400191366",
+    "uikName": "УИК №8170",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8171,
     "uikTvd": "499400191367",
+    "uikName": "УИК №8171",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8172,
     "uikTvd": "499400191368",
+    "uikName": "УИК №8172",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8173,
     "uikTvd": "499400191369",
+    "uikName": "УИК №8173",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8174,
     "uikTvd": "499400191370",
+    "uikName": "УИК №8174",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8175,
     "uikTvd": "499400191371",
+    "uikName": "УИК №8175",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8176,
     "uikTvd": "499400191372",
+    "uikName": "УИК №8176",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8177,
     "uikTvd": "499400191373",
+    "uikName": "УИК №8177",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8178,
     "uikTvd": "499400191374",
+    "uikName": "УИК №8178",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8179,
     "uikTvd": "499400191375",
+    "uikName": "УИК №8179",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8180,
     "uikTvd": "499400191376",
+    "uikName": "УИК №8180",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8186,
     "uikTvd": "499400191378",
+    "uikName": "УИК №8186",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8187,
     "uikTvd": "499400191379",
+    "uikName": "УИК №8187",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8191,
     "uikTvd": "499400191380",
+    "uikName": "УИК №8191",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8192,
     "uikTvd": "499400191381",
+    "uikName": "УИК №8192",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8193,
     "uikTvd": "499400191382",
+    "uikName": "УИК №8193",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8194,
     "uikTvd": "499400191383",
+    "uikName": "УИК №8194",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8195,
     "uikTvd": "499400191384",
+    "uikName": "УИК №8195",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8196,
     "uikTvd": "499400191385",
+    "uikName": "УИК №8196",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8197,
     "uikTvd": "499400191386",
+    "uikName": "УИК №8197",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8198,
     "uikTvd": "499400191387",
+    "uikName": "УИК №8198",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8199,
     "uikTvd": "499400191388",
+    "uikName": "УИК №8199",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8200,
     "uikTvd": "499400191389",
+    "uikName": "УИК №8200",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8201,
     "uikTvd": "499400191390",
+    "uikName": "УИК №8201",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8202,
     "uikTvd": "499400191391",
+    "uikName": "УИК №8202",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8203,
     "uikTvd": "499400191392",
+    "uikName": "УИК №8203",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8204,
     "uikTvd": "499400195371",
+    "uikName": "УИК №8204",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8205,
     "uikTvd": "499400196814",
+    "uikName": "УИК №8205",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8206,
     "uikTvd": "499400196815",
+    "uikName": "УИК №8206",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8207,
     "uikTvd": "499400196816",
+    "uikName": "УИК №8207",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8208,
     "uikTvd": "499400196817",
+    "uikName": "УИК №8208",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8209,
     "uikTvd": "499400196818",
+    "uikName": "УИК №8209",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8210,
     "uikTvd": "499400196819",
+    "uikName": "УИК №8210",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8211,
     "uikTvd": "499400196820",
+    "uikName": "УИК №8211",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8212,
     "uikTvd": "499400196821",
+    "uikName": "УИК №8212",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8229,
     "uikTvd": "499400191393",
+    "uikName": "УИК №8229",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8230,
     "uikTvd": "499400191394",
+    "uikName": "УИК №8230",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8233,
     "uikTvd": "499400191395",
+    "uikName": "УИК №8233",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8234,
     "uikTvd": "499400191396",
+    "uikName": "УИК №8234",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8235,
     "uikTvd": "499400191397",
+    "uikName": "УИК №8235",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8236,
     "uikTvd": "499400191398",
+    "uikName": "УИК №8236",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8237,
     "uikTvd": "499400191399",
+    "uikName": "УИК №8237",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8240,
     "uikTvd": "499400191400",
+    "uikName": "УИК №8240",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8241,
     "uikTvd": "499400191401",
+    "uikName": "УИК №8241",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8244,
     "uikTvd": "499400191402",
+    "uikName": "УИК №8244",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8245,
     "uikTvd": "499400191403",
+    "uikName": "УИК №8245",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8246,
     "uikTvd": "499400191404",
+    "uikName": "УИК №8246",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8247,
     "uikTvd": "499400191405",
+    "uikName": "УИК №8247",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8248,
     "uikTvd": "499400191406",
+    "uikName": "УИК №8248",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8249,
     "uikTvd": "499400191407",
+    "uikName": "УИК №8249",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8250,
     "uikTvd": "499400191408",
+    "uikName": "УИК №8250",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8251,
     "uikTvd": "499400191409",
+    "uikName": "УИК №8251",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8253,
     "uikTvd": "499400191410",
+    "uikName": "УИК №8253",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8254,
     "uikTvd": "499400191411",
+    "uikName": "УИК №8254",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8255,
     "uikTvd": "499400191412",
+    "uikName": "УИК №8255",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8256,
     "uikTvd": "499400191413",
+    "uikName": "УИК №8256",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8257,
     "uikTvd": "499400191414",
+    "uikName": "УИК №8257",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8258,
     "uikTvd": "499400191415",
+    "uikName": "УИК №8258",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8259,
     "uikTvd": "499400191416",
+    "uikName": "УИК №8259",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8260,
     "uikTvd": "499400191417",
+    "uikName": "УИК №8260",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8261,
     "uikTvd": "499400191418",
+    "uikName": "УИК №8261",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8262,
     "uikTvd": "499400191419",
+    "uikName": "УИК №8262",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8263,
     "uikTvd": "499400191420",
+    "uikName": "УИК №8263",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8265,
     "uikTvd": "499400191421",
+    "uikName": "УИК №8265",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8266,
     "uikTvd": "499400191422",
+    "uikName": "УИК №8266",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8267,
     "uikTvd": "499400191423",
+    "uikName": "УИК №8267",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8268,
     "uikTvd": "499400191424",
+    "uikName": "УИК №8268",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8269,
     "uikTvd": "499400191425",
+    "uikName": "УИК №8269",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8270,
     "uikTvd": "499400191426",
+    "uikName": "УИК №8270",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8271,
     "uikTvd": "499400191427",
+    "uikName": "УИК №8271",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8272,
     "uikTvd": "499400191428",
+    "uikName": "УИК №8272",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8274,
     "uikTvd": "499400191429",
+    "uikName": "УИК №8274",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8277,
     "uikTvd": "499400191430",
+    "uikName": "УИК №8277",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8278,
     "uikTvd": "499400191431",
+    "uikName": "УИК №8278",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8279,
     "uikTvd": "499400191432",
+    "uikName": "УИК №8279",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8280,
     "uikTvd": "499400191433",
+    "uikName": "УИК №8280",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8281,
     "uikTvd": "499400191434",
+    "uikName": "УИК №8281",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8282,
     "uikTvd": "499400191435",
+    "uikName": "УИК №8282",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8283,
     "uikTvd": "499400191436",
+    "uikName": "УИК №8283",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8284,
     "uikTvd": "499400191437",
+    "uikName": "УИК №8284",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8285,
     "uikTvd": "499400191438",
+    "uikName": "УИК №8285",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8286,
     "uikTvd": "499400191439",
+    "uikName": "УИК №8286",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8287,
     "uikTvd": "499400191440",
+    "uikName": "УИК №8287",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8288,
     "uikTvd": "499400191441",
+    "uikName": "УИК №8288",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8289,
     "uikTvd": "499400191442",
+    "uikName": "УИК №8289",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8290,
     "uikTvd": "499400191443",
+    "uikName": "УИК №8290",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8291,
     "uikTvd": "499400191444",
+    "uikName": "УИК №8291",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8292,
     "uikTvd": "499400191445",
+    "uikName": "УИК №8292",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8293,
     "uikTvd": "499400191446",
+    "uikName": "УИК №8293",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8294,
     "uikTvd": "499400191447",
+    "uikName": "УИК №8294",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8295,
     "uikTvd": "499400191448",
+    "uikName": "УИК №8295",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8296,
     "uikTvd": "499400191449",
+    "uikName": "УИК №8296",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8297,
     "uikTvd": "499400191450",
+    "uikName": "УИК №8297",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8302,
     "uikTvd": "499400191451",
+    "uikName": "УИК №8302",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8304,
     "uikTvd": "499400191452",
+    "uikName": "УИК №8304",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8308,
     "uikTvd": "499400191453",
+    "uikName": "УИК №8308",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8313,
     "uikTvd": "499400191454",
+    "uikName": "УИК №8313",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8314,
     "uikTvd": "499400191455",
+    "uikName": "УИК №8314",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8315,
     "uikTvd": "499400191456",
+    "uikName": "УИК №8315",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8322,
     "uikTvd": "499400191457",
+    "uikName": "УИК №8322",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8326,
     "uikTvd": "499400191458",
+    "uikName": "УИК №8326",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8327,
     "uikTvd": "499400191459",
+    "uikName": "УИК №8327",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8328,
     "uikTvd": "499400191460",
+    "uikName": "УИК №8328",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8329,
     "uikTvd": "499400191461",
+    "uikName": "УИК №8329",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8330,
     "uikTvd": "499400191462",
+    "uikName": "УИК №8330",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8333,
     "uikTvd": "499400191463",
+    "uikName": "УИК №8333",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8334,
     "uikTvd": "499400191464",
+    "uikName": "УИК №8334",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8335,
     "uikTvd": "499400191465",
+    "uikName": "УИК №8335",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8336,
     "uikTvd": "499400191466",
+    "uikName": "УИК №8336",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8338,
     "uikTvd": "499400191467",
+    "uikName": "УИК №8338",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8339,
     "uikTvd": "499400191468",
+    "uikName": "УИК №8339",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8340,
     "uikTvd": "499400191469",
+    "uikName": "УИК №8340",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8341,
     "uikTvd": "499400191470",
+    "uikName": "УИК №8341",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8345,
     "uikTvd": "499400191471",
+    "uikName": "УИК №8345",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8351,
     "uikTvd": "499400191472",
+    "uikName": "УИК №8351",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8352,
     "uikTvd": "499400191473",
+    "uikName": "УИК №8352",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8353,
     "uikTvd": "499400191474",
+    "uikName": "УИК №8353",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8354,
     "uikTvd": "499400191475",
+    "uikName": "УИК №8354",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8355,
     "uikTvd": "499400191476",
+    "uikName": "УИК №8355",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8356,
     "uikTvd": "499400191477",
+    "uikName": "УИК №8356",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8357,
     "uikTvd": "499400191478",
+    "uikName": "УИК №8357",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8359,
     "uikTvd": "499400191479",
+    "uikName": "УИК №8359",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8360,
     "uikTvd": "499400191480",
+    "uikName": "УИК №8360",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8361,
     "uikTvd": "499400191481",
+    "uikName": "УИК №8361",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8362,
     "uikTvd": "499400191482",
+    "uikName": "УИК №8362",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8363,
     "uikTvd": "499400191483",
+    "uikName": "УИК №8363",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8364,
     "uikTvd": "499400191484",
+    "uikName": "УИК №8364",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8365,
     "uikTvd": "499400191485",
+    "uikName": "УИК №8365",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8366,
     "uikTvd": "499400191486",
+    "uikName": "УИК №8366",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8367,
     "uikTvd": "499400191487",
+    "uikName": "УИК №8367",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8368,
     "uikTvd": "499400191488",
+    "uikName": "УИК №8368",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8369,
     "uikTvd": "499400191489",
+    "uikName": "УИК №8369",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8370,
     "uikTvd": "499400191490",
+    "uikName": "УИК №8370",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8371,
     "uikTvd": "499400191491",
+    "uikName": "УИК №8371",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8373,
     "uikTvd": "499400191492",
+    "uikName": "УИК №8373",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8380,
     "uikTvd": "499400191493",
+    "uikName": "УИК №8380",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8383,
     "uikTvd": "499400191494",
+    "uikName": "УИК №8383",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8386,
     "uikTvd": "499400191495",
+    "uikName": "УИК №8386",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8388,
     "uikTvd": "499400191496",
+    "uikName": "УИК №8388",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8397,
     "uikTvd": "499400191497",
+    "uikName": "УИК №8397",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8402,
     "uikTvd": "499400191498",
+    "uikName": "УИК №8402",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8405,
     "uikTvd": "499400191499",
+    "uikName": "УИК №8405",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8407,
     "uikTvd": "499400191500",
+    "uikName": "УИК №8407",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8409,
     "uikTvd": "499400191501",
+    "uikName": "УИК №8409",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8415,
     "uikTvd": "499400191502",
+    "uikName": "УИК №8415",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8419,
     "uikTvd": "499400191503",
+    "uikName": "УИК №8419",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8420,
     "uikTvd": "499400191504",
+    "uikName": "УИК №8420",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8421,
     "uikTvd": "499400191505",
+    "uikName": "УИК №8421",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8422,
     "uikTvd": "499400195372",
+    "uikName": "УИК №8422",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8424,
     "uikTvd": "499400195373",
+    "uikName": "УИК №8424",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8427,
     "uikTvd": "499400191506",
+    "uikName": "УИК №8427",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8430,
     "uikTvd": "499400195374",
+    "uikName": "УИК №8430",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8431,
     "uikTvd": "499400195375",
+    "uikName": "УИК №8431",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8434,
     "uikTvd": "499400191507",
+    "uikName": "УИК №8434",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8435,
     "uikTvd": "499400191508",
+    "uikName": "УИК №8435",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8437,
     "uikTvd": "499400191509",
+    "uikName": "УИК №8437",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8438,
     "uikTvd": "499400191510",
+    "uikName": "УИК №8438",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8439,
     "uikTvd": "499400195376",
+    "uikName": "УИК №8439",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8442,
     "uikTvd": "499400195377",
+    "uikName": "УИК №8442",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8443,
     "uikTvd": "499400191511",
+    "uikName": "УИК №8443",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8444,
     "uikTvd": "499400195378",
+    "uikName": "УИК №8444",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8445,
     "uikTvd": "499400195379",
+    "uikName": "УИК №8445",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8447,
     "uikTvd": "499400195380",
+    "uikName": "УИК №8447",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8448,
     "uikTvd": "499400195381",
+    "uikName": "УИК №8448",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   },
   {
     "uikNumber": 8449,
     "uikTvd": "499400195382",
+    "uikName": "УИК №8449",
     "tikTvd": "100100340344874",
-    "tikName": "Территория за пределами РФ"
+    "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
+    "district": null
   }
 ] satisfies readonly UikTikRelation[];

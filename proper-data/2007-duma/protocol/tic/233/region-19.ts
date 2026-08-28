@@ -11,6 +11,9 @@ export const duma_2007_tic_233_region_19 = [
     "ballot": "party",
     "tikTvd": "2192000121452",
     "tikName": "Абазинская городская",
+    "regionCode": "19",
+    "regionTvd": "100100021960215",
+    "regionName": "Республика Хакасия",
     "uikCount": 10,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 13063,
@@ -75,6 +78,9 @@ export const duma_2007_tic_233_region_19 = [
     "ballot": "party",
     "tikTvd": "2192000121453",
     "tikName": "Сорская городская",
+    "regionCode": "19",
+    "regionTvd": "100100021960215",
+    "regionName": "Республика Хакасия",
     "uikCount": 5,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 8294,
@@ -134,6 +140,9 @@ export const duma_2007_tic_233_region_19 = [
     "ballot": "party",
     "tikTvd": "2192000121454",
     "tikName": "Черногорская городская",
+    "regionCode": "19",
+    "regionTvd": "100100021960215",
+    "regionName": "Республика Хакасия",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 52788,
@@ -227,6 +236,9 @@ export const duma_2007_tic_233_region_19 = [
     "ballot": "party",
     "tikTvd": "2192000121455",
     "tikName": "Ширинская",
+    "regionCode": "19",
+    "regionTvd": "100100021960215",
+    "regionName": "Республика Хакасия",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 22453,
@@ -315,6 +327,9 @@ export const duma_2007_tic_233_region_19 = [
     "ballot": "party",
     "tikTvd": "2192000121456",
     "tikName": "Таштыпская",
+    "regionCode": "19",
+    "regionTvd": "100100021960215",
+    "regionName": "Республика Хакасия",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 10798,
@@ -395,6 +410,9 @@ export const duma_2007_tic_233_region_19 = [
     "ballot": "party",
     "tikTvd": "2192000121457",
     "tikName": "Усть-Абаканская",
+    "regionCode": "19",
+    "regionTvd": "100100021960215",
+    "regionName": "Республика Хакасия",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 29483,
@@ -482,6 +500,9 @@ export const duma_2007_tic_233_region_19 = [
     "ballot": "party",
     "tikTvd": "2192000121458",
     "tikName": "ТИК г. Саяногорска",
+    "regionCode": "19",
+    "regionTvd": "100100021960215",
+    "regionName": "Республика Хакасия",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 51185,
@@ -561,6 +582,9 @@ export const duma_2007_tic_233_region_19 = [
     "ballot": "party",
     "tikTvd": "2192000121459",
     "tikName": "Боградская",
+    "regionCode": "19",
+    "regionTvd": "100100021960215",
+    "regionName": "Республика Хакасия",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 11783,
@@ -641,6 +665,9 @@ export const duma_2007_tic_233_region_19 = [
     "ballot": "party",
     "tikTvd": "2192000121460",
     "tikName": "Бейская",
+    "regionCode": "19",
+    "regionTvd": "100100021960215",
+    "regionName": "Республика Хакасия",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 15138,
@@ -722,6 +749,9 @@ export const duma_2007_tic_233_region_19 = [
     "ballot": "party",
     "tikTvd": "2192000121461",
     "tikName": "Орджоникидзевская",
+    "regionCode": "19",
+    "regionTvd": "100100021960215",
+    "regionName": "Республика Хакасия",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 10293,
@@ -798,6 +828,9 @@ export const duma_2007_tic_233_region_19 = [
     "ballot": "party",
     "tikTvd": "2192000121462",
     "tikName": "Алтайская",
+    "regionCode": "19",
+    "regionTvd": "100100021960215",
+    "regionName": "Республика Хакасия",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 16776,
@@ -876,6 +909,9 @@ export const duma_2007_tic_233_region_19 = [
     "ballot": "party",
     "tikTvd": "2192000121463",
     "tikName": "Аскизская",
+    "regionCode": "19",
+    "regionTvd": "100100021960215",
+    "regionName": "Республика Хакасия",
     "uikCount": 48,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 29430,
@@ -978,6 +1014,9 @@ export const duma_2007_tic_233_region_19 = [
     "ballot": "party",
     "tikTvd": "2192000121464",
     "tikName": "Территориальная избирательная комиссия г.Абакана",
+    "regionCode": "19",
+    "regionTvd": "100100021960215",
+    "regionName": "Республика Хакасия",
     "uikCount": 74,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 124360,

@@ -11,6 +11,9 @@ export const duma_2007_tic_233_region_1 = [
     "ballot": "party",
     "tikTvd": "2012000128014",
     "tikName": "Адыгейская",
+    "regionCode": "1",
+    "regionTvd": "100100021960187",
+    "regionName": "Республика Адыгея (Адыгея)",
     "uikCount": 6,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 11724,
@@ -71,6 +74,9 @@ export const duma_2007_tic_233_region_1 = [
     "ballot": "party",
     "tikTvd": "2012000128015",
     "tikName": "Шовгеновская",
+    "regionCode": "1",
+    "regionTvd": "100100021960187",
+    "regionName": "Республика Адыгея (Адыгея)",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 13058,
@@ -142,6 +148,9 @@ export const duma_2007_tic_233_region_1 = [
     "ballot": "party",
     "tikTvd": "2012000128016",
     "tikName": "Тахтамукайская",
+    "regionCode": "1",
+    "regionTvd": "100100021960187",
+    "regionName": "Республика Адыгея (Адыгея)",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 48140,
@@ -235,6 +244,9 @@ export const duma_2007_tic_233_region_1 = [
     "ballot": "party",
     "tikTvd": "2012000128017",
     "tikName": "Майкопская",
+    "regionCode": "1",
+    "regionTvd": "100100021960187",
+    "regionName": "Республика Адыгея (Адыгея)",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 46205,
@@ -330,6 +342,9 @@ export const duma_2007_tic_233_region_1 = [
     "ballot": "party",
     "tikTvd": "2012000128018",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100021960187",
+    "regionName": "Республика Адыгея (Адыгея)",
     "uikCount": 70,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 127887,
@@ -454,6 +469,9 @@ export const duma_2007_tic_233_region_1 = [
     "ballot": "party",
     "tikTvd": "2012000128019",
     "tikName": "Красногвардейская",
+    "regionCode": "1",
+    "regionTvd": "100100021960187",
+    "regionName": "Республика Адыгея (Адыгея)",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 21338,
@@ -529,6 +547,9 @@ export const duma_2007_tic_233_region_1 = [
     "ballot": "party",
     "tikTvd": "2012000128020",
     "tikName": "Гиагинская",
+    "regionCode": "1",
+    "regionTvd": "100100021960187",
+    "regionName": "Республика Адыгея (Адыгея)",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 24597,
@@ -608,6 +629,9 @@ export const duma_2007_tic_233_region_1 = [
     "ballot": "party",
     "tikTvd": "2012000128021",
     "tikName": "Кошехабльская",
+    "regionCode": "1",
+    "regionTvd": "100100021960187",
+    "regionName": "Республика Адыгея (Адыгея)",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 22803,
@@ -684,6 +708,9 @@ export const duma_2007_tic_233_region_1 = [
     "ballot": "party",
     "tikTvd": "2012000128022",
     "tikName": "Теучежская",
+    "regionCode": "1",
+    "regionTvd": "100100021960187",
+    "regionName": "Республика Адыгея (Адыгея)",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 14034,

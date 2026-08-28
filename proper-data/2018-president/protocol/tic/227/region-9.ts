@@ -11,6 +11,9 @@ export const president_2018_tic_227_region_9 = [
     "ballot": "presidential",
     "tikTvd": "2092000434922",
     "tikName": "Ногайская",
+    "regionCode": "9",
+    "regionTvd": "100100084849135",
+    "regionName": "Карачаево-Черкесская Республика",
     "uikCount": 8,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9761,
@@ -63,6 +66,9 @@ export const president_2018_tic_227_region_9 = [
     "ballot": "presidential",
     "tikTvd": "2092000434923",
     "tikName": "Абазинская",
+    "regionCode": "9",
+    "regionTvd": "100100084849135",
+    "regionName": "Карачаево-Черкесская Республика",
     "uikCount": 7,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10024,
@@ -114,6 +120,9 @@ export const president_2018_tic_227_region_9 = [
     "ballot": "presidential",
     "tikTvd": "2092000434924",
     "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100084849135",
+    "regionName": "Карачаево-Черкесская Республика",
     "uikCount": 53,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 80713,
@@ -211,6 +220,9 @@ export const president_2018_tic_227_region_9 = [
     "ballot": "presidential",
     "tikTvd": "2092000434925",
     "tikName": "Хабезская",
+    "regionCode": "9",
+    "regionTvd": "100100084849135",
+    "regionName": "Карачаево-Черкесская Республика",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 18643,
@@ -270,6 +282,9 @@ export const president_2018_tic_227_region_9 = [
     "ballot": "presidential",
     "tikTvd": "2092000434926",
     "tikName": "Усть-Джегутинская",
+    "regionCode": "9",
+    "regionTvd": "100100084849135",
+    "regionName": "Карачаево-Черкесская Республика",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 32859,
@@ -339,6 +354,9 @@ export const president_2018_tic_227_region_9 = [
     "ballot": "presidential",
     "tikTvd": "2092000434927",
     "tikName": "Урупская ",
+    "regionCode": "9",
+    "regionTvd": "100100084849135",
+    "regionName": "Карачаево-Черкесская Республика",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 11779,
@@ -398,6 +416,9 @@ export const president_2018_tic_227_region_9 = [
     "ballot": "presidential",
     "tikTvd": "2092000434928",
     "tikName": "Прикубанская",
+    "regionCode": "9",
+    "regionTvd": "100100084849135",
+    "regionName": "Карачаево-Черкесская Республика",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 20127,
@@ -465,6 +486,9 @@ export const president_2018_tic_227_region_9 = [
     "ballot": "presidential",
     "tikTvd": "2092000434929",
     "tikName": "Малокарачаевская",
+    "regionCode": "9",
+    "regionTvd": "100100084849135",
+    "regionName": "Карачаево-Черкесская Республика",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 26274,
@@ -526,6 +550,9 @@ export const president_2018_tic_227_region_9 = [
     "ballot": "presidential",
     "tikTvd": "2092000434930",
     "tikName": "Карачаевская городская ",
+    "regionCode": "9",
+    "regionTvd": "100100084849135",
+    "regionName": "Карачаево-Черкесская Республика",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 19121,
@@ -587,6 +614,9 @@ export const president_2018_tic_227_region_9 = [
     "ballot": "presidential",
     "tikTvd": "2092000434931",
     "tikName": "Карачаевская",
+    "regionCode": "9",
+    "regionTvd": "100100084849135",
+    "regionName": "Карачаево-Черкесская Республика",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 18473,
@@ -648,6 +678,9 @@ export const president_2018_tic_227_region_9 = [
     "ballot": "presidential",
     "tikTvd": "2092000434932",
     "tikName": "Зеленчукская",
+    "regionCode": "9",
+    "regionTvd": "100100084849135",
+    "regionName": "Карачаево-Черкесская Республика",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 35218,
@@ -731,6 +764,9 @@ export const president_2018_tic_227_region_9 = [
     "ballot": "presidential",
     "tikTvd": "2092000434933",
     "tikName": "Адыге-Хабльская",
+    "regionCode": "9",
+    "regionTvd": "100100084849135",
+    "regionName": "Карачаево-Черкесская Республика",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9039,

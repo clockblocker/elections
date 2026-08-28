@@ -11,6 +11,9 @@ export const president_2018_tic_227_region_62 = [
     "ballot": "presidential",
     "tikTvd": "2622000798821",
     "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "100100084849186",
+    "regionName": "Рязанская область",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 31008,
@@ -105,6 +108,9 @@ export const president_2018_tic_227_region_62 = [
     "ballot": "presidential",
     "tikTvd": "2622000798822",
     "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "100100084849186",
+    "regionName": "Рязанская область",
     "uikCount": 49,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 18785,
@@ -198,6 +204,9 @@ export const president_2018_tic_227_region_62 = [
     "ballot": "presidential",
     "tikTvd": "2622000798823",
     "tikName": "Чучковская",
+    "regionCode": "62",
+    "regionTvd": "100100084849186",
+    "regionName": "Рязанская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 6414,
@@ -261,6 +270,9 @@ export const president_2018_tic_227_region_62 = [
     "ballot": "presidential",
     "tikTvd": "2622000798824",
     "tikName": "Ухоловская",
+    "regionCode": "62",
+    "regionTvd": "100100084849186",
+    "regionName": "Рязанская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 7920,
@@ -325,6 +337,9 @@ export const president_2018_tic_227_region_62 = [
     "ballot": "presidential",
     "tikTvd": "2622000798825",
     "tikName": "Старожиловская",
+    "regionCode": "62",
+    "regionTvd": "100100084849186",
+    "regionName": "Рязанская область",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 12769,
@@ -385,6 +400,9 @@ export const president_2018_tic_227_region_62 = [
     "ballot": "presidential",
     "tikTvd": "2622000798826",
     "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "100100084849186",
+    "regionName": "Рязанская область",
     "uikCount": 48,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 24145,
@@ -477,6 +495,9 @@ export const president_2018_tic_227_region_62 = [
     "ballot": "presidential",
     "tikTvd": "2622000798827",
     "tikName": "Скопинская городская",
+    "regionCode": "62",
+    "regionTvd": "100100084849186",
+    "regionName": "Рязанская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 22569,
@@ -539,6 +560,9 @@ export const president_2018_tic_227_region_62 = [
     "ballot": "presidential",
     "tikTvd": "2622000798828",
     "tikName": "Скопинская",
+    "regionCode": "62",
+    "regionTvd": "100100084849186",
+    "regionName": "Рязанская область",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 21658,
@@ -618,6 +642,9 @@ export const president_2018_tic_227_region_62 = [
     "ballot": "presidential",
     "tikTvd": "2622000798829",
     "tikName": "Сасовская городская",
+    "regionCode": "62",
+    "regionTvd": "100100084849186",
+    "regionName": "Рязанская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 23278,
@@ -682,6 +709,9 @@ export const president_2018_tic_227_region_62 = [
     "ballot": "presidential",
     "tikTvd": "2622000798830",
     "tikName": "Cacовская",
+    "regionCode": "62",
+    "regionTvd": "100100084849186",
+    "regionName": "Рязанская область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 13806,
@@ -762,6 +792,9 @@ export const president_2018_tic_227_region_62 = [
     "ballot": "presidential",
     "tikTvd": "2622000798831",
     "tikName": "Cараевская",
+    "regionCode": "62",
+    "regionTvd": "100100084849186",
+    "regionName": "Рязанская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 14413,
@@ -840,6 +873,9 @@ export const president_2018_tic_227_region_62 = [
     "ballot": "presidential",
     "tikTvd": "2622000798832",
     "tikName": "Сапожковская",
+    "regionCode": "62",
+    "regionTvd": "100100084849186",
+    "regionName": "Рязанская область",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 8309,
@@ -901,6 +937,9 @@ export const president_2018_tic_227_region_62 = [
     "ballot": "presidential",
     "tikTvd": "2622000798833",
     "tikName": "Рязань, Советская",
+    "regionCode": "62",
+    "regionTvd": "100100084849186",
+    "regionName": "Рязанская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 67484,
@@ -979,6 +1018,9 @@ export const president_2018_tic_227_region_62 = [
     "ballot": "presidential",
     "tikTvd": "2622000798834",
     "tikName": "Рязань, Октябрьская",
+    "regionCode": "62",
+    "regionTvd": "100100084849186",
+    "regionName": "Рязанская область",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 113199,
@@ -1073,6 +1115,9 @@ export const president_2018_tic_227_region_62 = [
     "ballot": "presidential",
     "tikTvd": "2622000798835",
     "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "100100084849186",
+    "regionName": "Рязанская область",
     "uikCount": 60,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 138573,
@@ -1177,6 +1222,9 @@ export const president_2018_tic_227_region_62 = [
     "ballot": "presidential",
     "tikTvd": "2622000798836",
     "tikName": "Рязань, Железнодорожная",
+    "regionCode": "62",
+    "regionTvd": "100100084849186",
+    "regionName": "Рязанская область",
     "uikCount": 49,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 107554,
@@ -1270,6 +1318,9 @@ export const president_2018_tic_227_region_62 = [
     "ballot": "presidential",
     "tikTvd": "2622000798837",
     "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "100100084849186",
+    "regionName": "Рязанская область",
     "uikCount": 49,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 46900,
@@ -1363,6 +1414,9 @@ export const president_2018_tic_227_region_62 = [
     "ballot": "presidential",
     "tikTvd": "2622000798838",
     "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "100100084849186",
+    "regionName": "Рязанская область",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 22932,
@@ -1439,6 +1493,9 @@ export const president_2018_tic_227_region_62 = [
     "ballot": "presidential",
     "tikTvd": "2622000798839",
     "tikName": "Рыбновская",
+    "regionCode": "62",
+    "regionTvd": "100100084849186",
+    "regionName": "Рязанская область",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 29790,
@@ -1521,6 +1578,9 @@ export const president_2018_tic_227_region_62 = [
     "ballot": "presidential",
     "tikTvd": "2622000798840",
     "tikName": "Путятинская",
+    "regionCode": "62",
+    "regionTvd": "100100084849186",
+    "regionName": "Рязанская область",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 6202,
@@ -1582,6 +1642,9 @@ export const president_2018_tic_227_region_62 = [
     "ballot": "presidential",
     "tikTvd": "2622000798841",
     "tikName": "Пронская",
+    "regionCode": "62",
+    "regionTvd": "100100084849186",
+    "regionName": "Рязанская область",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 26098,
@@ -1658,6 +1721,9 @@ export const president_2018_tic_227_region_62 = [
     "ballot": "presidential",
     "tikTvd": "2622000798842",
     "tikName": "Пителинская",
+    "regionCode": "62",
+    "regionTvd": "100100084849186",
+    "regionName": "Рязанская область",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 4420,
@@ -1718,6 +1784,9 @@ export const president_2018_tic_227_region_62 = [
     "ballot": "presidential",
     "tikTvd": "2622000798843",
     "tikName": "Александро-Невская",
+    "regionCode": "62",
+    "regionTvd": "100100084849186",
+    "regionName": "Рязанская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 8693,
@@ -1784,6 +1853,9 @@ export const president_2018_tic_227_region_62 = [
     "ballot": "presidential",
     "tikTvd": "2622000798844",
     "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "100100084849186",
+    "regionName": "Рязанская область",
     "uikCount": 56,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 26694,
@@ -1884,6 +1956,9 @@ export const president_2018_tic_227_region_62 = [
     "ballot": "presidential",
     "tikTvd": "2622000798845",
     "tikName": "Милославская",
+    "regionCode": "62",
+    "regionTvd": "100100084849186",
+    "regionName": "Рязанская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9976,
@@ -1951,6 +2026,9 @@ export const president_2018_tic_227_region_62 = [
     "ballot": "presidential",
     "tikTvd": "2622000798846",
     "tikName": "Кораблинская",
+    "regionCode": "62",
+    "regionTvd": "100100084849186",
+    "regionName": "Рязанская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 17782,
@@ -2025,6 +2103,9 @@ export const president_2018_tic_227_region_62 = [
     "ballot": "presidential",
     "tikTvd": "2622000798847",
     "tikName": "Kлепиковская",
+    "regionCode": "62",
+    "regionTvd": "100100084849186",
+    "regionName": "Рязанская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 19910,
@@ -2099,6 +2180,9 @@ export const president_2018_tic_227_region_62 = [
     "ballot": "presidential",
     "tikTvd": "2622000798848",
     "tikName": "Касимовская городская",
+    "regionCode": "62",
+    "regionTvd": "100100084849186",
+    "regionName": "Рязанская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 26512,
@@ -2165,6 +2249,9 @@ export const president_2018_tic_227_region_62 = [
     "ballot": "presidential",
     "tikTvd": "2622000798849",
     "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "100100084849186",
+    "regionName": "Рязанская область",
     "uikCount": 48,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 23971,
@@ -2257,6 +2344,9 @@ export const president_2018_tic_227_region_62 = [
     "ballot": "presidential",
     "tikTvd": "2622000798850",
     "tikName": "Кадомская",
+    "regionCode": "62",
+    "regionTvd": "100100084849186",
+    "regionName": "Рязанская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 6358,
@@ -2321,6 +2411,9 @@ export const president_2018_tic_227_region_62 = [
     "ballot": "presidential",
     "tikTvd": "2622000798851",
     "tikName": "Захаровская",
+    "regionCode": "62",
+    "regionTvd": "100100084849186",
+    "regionName": "Рязанская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 8128,
@@ -2384,6 +2477,9 @@ export const president_2018_tic_227_region_62 = [
     "ballot": "presidential",
     "tikTvd": "2622000798852",
     "tikName": "Ермишинская",
+    "regionCode": "62",
+    "regionTvd": "100100084849186",
+    "regionName": "Рязанская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 6634,

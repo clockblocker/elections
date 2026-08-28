@@ -11,6 +11,9 @@ export const president_2004_tic_227_region_80 = [
     "ballot": "presidential",
     "tikTvd": "280200070201",
     "tikName": "Могойтуйская",
+    "regionCode": "80",
+    "regionTvd": "1001000882980",
+    "regionName": "Агинский Бурятский автономный округ ",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список": 16893,
@@ -81,6 +84,9 @@ export const president_2004_tic_227_region_80 = [
     "ballot": "presidential",
     "tikTvd": "280200070202",
     "tikName": "Дульдургинская",
+    "regionCode": "80",
+    "regionTvd": "1001000882980",
+    "regionName": "Агинский Бурятский автономный округ ",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в список": 9826,
@@ -142,6 +148,9 @@ export const president_2004_tic_227_region_80 = [
     "ballot": "presidential",
     "tikTvd": "280200070203",
     "tikName": "Агинская",
+    "regionCode": "80",
+    "regionTvd": "1001000882980",
+    "regionName": "Агинский Бурятский автономный округ ",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список": 18204,

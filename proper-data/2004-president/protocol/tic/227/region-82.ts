@@ -11,6 +11,9 @@ export const president_2004_tic_227_region_82 = [
     "ballot": "presidential",
     "tikTvd": "282200070508",
     "tikName": "Пенжинская",
+    "regionCode": "82",
+    "regionTvd": "1001000883000",
+    "regionName": "Корякский автономный округ",
     "uikCount": 7,
     "accounting": {
       "Число избирателей, внесенных в список": 2013,
@@ -66,6 +69,9 @@ export const president_2004_tic_227_region_82 = [
     "ballot": "presidential",
     "tikTvd": "282200070509",
     "tikName": "Олюторская",
+    "regionCode": "82",
+    "regionTvd": "1001000883000",
+    "regionName": "Корякский автономный округ",
     "uikCount": 8,
     "accounting": {
       "Число избирателей, внесенных в список": 5020,
@@ -122,6 +128,9 @@ export const president_2004_tic_227_region_82 = [
     "ballot": "presidential",
     "tikTvd": "282200070511",
     "tikName": "Карагинская",
+    "regionCode": "82",
+    "regionTvd": "1001000883000",
+    "regionName": "Корякский автономный округ",
     "uikCount": 6,
     "accounting": {
       "Число избирателей, внесенных в список": 4430,
@@ -176,6 +185,9 @@ export const president_2004_tic_227_region_82 = [
     "ballot": "presidential",
     "tikTvd": "282200071216",
     "tikName": "Тигильская",
+    "regionCode": "82",
+    "regionTvd": "1001000883000",
+    "regionName": "Корякский автономный округ",
     "uikCount": 8,
     "accounting": {
       "Число избирателей, внесенных в список": 6769,

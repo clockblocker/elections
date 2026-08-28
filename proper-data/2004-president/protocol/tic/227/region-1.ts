@@ -11,6 +11,9 @@ export const president_2004_tic_227_region_1 = [
     "ballot": "presidential",
     "tikTvd": "201200080641",
     "tikName": "Адыгейская",
+    "regionCode": "1",
+    "regionTvd": "1001000882975",
+    "regionName": "Республика Адыгея (Адыгея)",
     "uikCount": 6,
     "accounting": {
       "Число избирателей, внесенных в список": 10763,
@@ -65,6 +68,9 @@ export const president_2004_tic_227_region_1 = [
     "ballot": "presidential",
     "tikTvd": "201200080642",
     "tikName": "Шовгеновская",
+    "regionCode": "1",
+    "regionTvd": "1001000882975",
+    "regionName": "Республика Адыгея (Адыгея)",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в список": 12884,
@@ -130,6 +136,9 @@ export const president_2004_tic_227_region_1 = [
     "ballot": "presidential",
     "tikTvd": "201200080643",
     "tikName": "Тахтамукайская",
+    "regionCode": "1",
+    "regionTvd": "1001000882975",
+    "regionName": "Республика Адыгея (Адыгея)",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в список": 48222,
@@ -217,6 +226,9 @@ export const president_2004_tic_227_region_1 = [
     "ballot": "presidential",
     "tikTvd": "201200080644",
     "tikName": "Майкопская",
+    "regionCode": "1",
+    "regionTvd": "1001000882975",
+    "regionName": "Республика Адыгея (Адыгея)",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, внесенных в список": 41815,
@@ -306,6 +318,9 @@ export const president_2004_tic_227_region_1 = [
     "ballot": "presidential",
     "tikTvd": "201200080645",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "1001000882975",
+    "regionName": "Республика Адыгея (Адыгея)",
     "uikCount": 69,
     "accounting": {
       "Число избирателей, внесенных в список": 126167,
@@ -423,6 +438,9 @@ export const president_2004_tic_227_region_1 = [
     "ballot": "presidential",
     "tikTvd": "201200080646",
     "tikName": "Красногвардейская",
+    "regionCode": "1",
+    "regionTvd": "1001000882975",
+    "regionName": "Республика Адыгея (Адыгея)",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список": 21982,
@@ -492,6 +510,9 @@ export const president_2004_tic_227_region_1 = [
     "ballot": "presidential",
     "tikTvd": "201200080647",
     "tikName": "Гиагинская",
+    "regionCode": "1",
+    "regionTvd": "1001000882975",
+    "regionName": "Республика Адыгея (Адыгея)",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список": 23411,
@@ -566,6 +587,9 @@ export const president_2004_tic_227_region_1 = [
     "ballot": "presidential",
     "tikTvd": "201200080648",
     "tikName": "Кошехабльская",
+    "regionCode": "1",
+    "regionTvd": "1001000882975",
+    "regionName": "Республика Адыгея (Адыгея)",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список": 22386,
@@ -635,6 +659,9 @@ export const president_2004_tic_227_region_1 = [
     "ballot": "presidential",
     "tikTvd": "201200080649",
     "tikName": "Теучежская",
+    "regionCode": "1",
+    "regionTvd": "1001000882975",
+    "regionName": "Республика Адыгея (Адыгея)",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список": 13421,

@@ -7,5869 +7,10759 @@ export const president_2024_uik_to_tik_region_58 = [
   {
     "uikNumber": 1,
     "uikTvd": "4584027599216",
+    "uikName": "УИК №1",
     "tikTvd": "25820001472065",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 2,
     "uikTvd": "4584027599217",
+    "uikName": "УИК №2",
     "tikTvd": "25820001472065",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 3,
     "uikTvd": "4584027599218",
+    "uikName": "УИК №3",
     "tikTvd": "25820001472065",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 4,
     "uikTvd": "4584027599219",
+    "uikName": "УИК №4",
     "tikTvd": "25820001472065",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 5,
     "uikTvd": "4584027599220",
+    "uikName": "УИК №5",
     "tikTvd": "25820001472065",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 6,
     "uikTvd": "4584027599221",
+    "uikName": "УИК №6",
     "tikTvd": "25820001472065",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 7,
     "uikTvd": "4584027599222",
+    "uikName": "УИК №7",
     "tikTvd": "25820001472065",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 8,
     "uikTvd": "4584027599223",
+    "uikName": "УИК №8",
     "tikTvd": "25820001472065",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 9,
     "uikTvd": "4584027599224",
+    "uikName": "УИК №9",
     "tikTvd": "25820001472065",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 10,
     "uikTvd": "4584027599225",
+    "uikName": "УИК №10",
     "tikTvd": "25820001472065",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 11,
     "uikTvd": "4584027599226",
+    "uikName": "УИК №11",
     "tikTvd": "25820001472065",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 12,
     "uikTvd": "4584027599227",
+    "uikName": "УИК №12",
     "tikTvd": "25820001472065",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 13,
     "uikTvd": "4584027599228",
+    "uikName": "УИК №13",
     "tikTvd": "25820001472065",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 14,
     "uikTvd": "4584027599229",
+    "uikName": "УИК №14",
     "tikTvd": "25820001472065",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 15,
     "uikTvd": "4584027599230",
+    "uikName": "УИК №15",
     "tikTvd": "25820001472065",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 16,
     "uikTvd": "4584027599231",
+    "uikName": "УИК №16",
     "tikTvd": "25820001472065",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 17,
     "uikTvd": "4584027599232",
+    "uikName": "УИК №17",
     "tikTvd": "25820001472065",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 18,
     "uikTvd": "4584027599233",
+    "uikName": "УИК №18",
     "tikTvd": "25820001472065",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 19,
     "uikTvd": "4584027599234",
+    "uikName": "УИК №19",
     "tikTvd": "25820001472065",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 20,
     "uikTvd": "4584027599235",
+    "uikName": "УИК №20",
     "tikTvd": "25820001472065",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 21,
     "uikTvd": "4584027599236",
+    "uikName": "УИК №21",
     "tikTvd": "25820001472065",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 22,
     "uikTvd": "4584027599237",
+    "uikName": "УИК №22",
     "tikTvd": "25820001472065",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 23,
     "uikTvd": "4584027599238",
+    "uikName": "УИК №23",
     "tikTvd": "25820001472065",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 24,
     "uikTvd": "4584027599239",
+    "uikName": "УИК №24",
     "tikTvd": "25820001472065",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 25,
     "uikTvd": "4584027599240",
+    "uikName": "УИК №25",
     "tikTvd": "25820001472065",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 26,
     "uikTvd": "4584027599241",
+    "uikName": "УИК №26",
     "tikTvd": "25820001472065",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 27,
     "uikTvd": "4584027599242",
+    "uikName": "УИК №27",
     "tikTvd": "25820001472065",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 28,
     "uikTvd": "4584027599243",
+    "uikName": "УИК №28",
     "tikTvd": "25820001472065",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 29,
     "uikTvd": "4584027599244",
+    "uikName": "УИК №29",
     "tikTvd": "25820001472065",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 30,
     "uikTvd": "4584027599245",
+    "uikName": "УИК №30",
     "tikTvd": "25820001472065",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 31,
     "uikTvd": "4584027599246",
+    "uikName": "УИК №31",
     "tikTvd": "25820001472065",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 32,
     "uikTvd": "4584027599247",
+    "uikName": "УИК №32",
     "tikTvd": "25820001472065",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 33,
     "uikTvd": "4584027599248",
+    "uikName": "УИК №33",
     "tikTvd": "25820001472065",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 34,
     "uikTvd": "4584027599249",
+    "uikName": "УИК №34",
     "tikTvd": "25820001472065",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 35,
     "uikTvd": "4584027599250",
+    "uikName": "УИК №35",
     "tikTvd": "25820001472065",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 36,
     "uikTvd": "4584027599251",
+    "uikName": "УИК №36",
     "tikTvd": "25820001472065",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 37,
     "uikTvd": "4584027599252",
+    "uikName": "УИК №37",
     "tikTvd": "25820001472065",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 38,
     "uikTvd": "4584027599253",
+    "uikName": "УИК №38",
     "tikTvd": "25820001472065",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 39,
     "uikTvd": "4584027599254",
+    "uikName": "УИК №39",
     "tikTvd": "25820001472065",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 40,
     "uikTvd": "4584027599255",
+    "uikName": "УИК №40",
     "tikTvd": "25820001472065",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 41,
     "uikTvd": "4584027599256",
+    "uikName": "УИК №41",
     "tikTvd": "25820001472065",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 42,
     "uikTvd": "4584027599257",
+    "uikName": "УИК №42",
     "tikTvd": "25820001472065",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 43,
     "uikTvd": "4584027599258",
+    "uikName": "УИК №43",
     "tikTvd": "25820001472065",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 44,
     "uikTvd": "4584027599259",
+    "uikName": "УИК №44",
     "tikTvd": "25820001472065",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 45,
     "uikTvd": "4584027599260",
+    "uikName": "УИК №45",
     "tikTvd": "25820001472065",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 46,
     "uikTvd": "4584027599261",
+    "uikName": "УИК №46",
     "tikTvd": "25820001472065",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 47,
     "uikTvd": "4584027599262",
+    "uikName": "УИК №47",
     "tikTvd": "25820001472065",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 48,
     "uikTvd": "4584027599263",
+    "uikName": "УИК №48",
     "tikTvd": "25820001472065",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 49,
     "uikTvd": "4584027599264",
+    "uikName": "УИК №49",
     "tikTvd": "25820001472065",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 50,
     "uikTvd": "4584027599265",
+    "uikName": "УИК №50",
     "tikTvd": "25820001472065",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 51,
     "uikTvd": "4584027599266",
+    "uikName": "УИК №51",
     "tikTvd": "25820001472065",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 52,
     "uikTvd": "4584027599267",
+    "uikName": "УИК №52",
     "tikTvd": "25820001472065",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 53,
     "uikTvd": "4584027599268",
+    "uikName": "УИК №53",
     "tikTvd": "25820001472065",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 54,
     "uikTvd": "4584027599269",
+    "uikName": "УИК №54",
     "tikTvd": "25820001472065",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 55,
     "uikTvd": "4584027599270",
+    "uikName": "УИК №55",
     "tikTvd": "25820001472065",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 56,
     "uikTvd": "4584027599271",
+    "uikName": "УИК №56",
     "tikTvd": "25820001472065",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 57,
     "uikTvd": "4584027599272",
+    "uikName": "УИК №57",
     "tikTvd": "25820001472065",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 58,
     "uikTvd": "4584027599273",
+    "uikName": "УИК №58",
     "tikTvd": "25820001472065",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 59,
     "uikTvd": "4584027599274",
+    "uikName": "УИК №59",
     "tikTvd": "25820001472065",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 60,
     "uikTvd": "4584027599275",
+    "uikName": "УИК №60",
     "tikTvd": "25820001472065",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 61,
     "uikTvd": "4584027599276",
+    "uikName": "УИК №61",
     "tikTvd": "25820001472065",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 62,
     "uikTvd": "4584027599277",
+    "uikName": "УИК №62",
     "tikTvd": "25820001472065",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 63,
     "uikTvd": "4584027599278",
+    "uikName": "УИК №63",
     "tikTvd": "25820001472065",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 64,
     "uikTvd": "4584027599279",
+    "uikName": "УИК №64",
     "tikTvd": "25820001472065",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 65,
     "uikTvd": "4584027599280",
+    "uikName": "УИК №65",
     "tikTvd": "25820001472065",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 66,
     "uikTvd": "4584027599281",
+    "uikName": "УИК №66",
     "tikTvd": "25820001472065",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 67,
     "uikTvd": "4584027599282",
+    "uikName": "УИК №67",
     "tikTvd": "25820001472065",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 68,
     "uikTvd": "4584027599283",
+    "uikName": "УИК №68",
     "tikTvd": "25820001472065",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 69,
     "uikTvd": "4584027599284",
+    "uikName": "УИК №69",
     "tikTvd": "25820001472065",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 70,
     "uikTvd": "4584027599285",
+    "uikName": "УИК №70",
     "tikTvd": "25820001472065",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 71,
     "uikTvd": "4584027599286",
+    "uikName": "УИК №71",
     "tikTvd": "25820001472065",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 72,
     "uikTvd": "4584027599287",
+    "uikName": "УИК №72",
     "tikTvd": "25820001472065",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 73,
     "uikTvd": "4584027599288",
+    "uikName": "УИК №73",
     "tikTvd": "25820001472065",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 74,
     "uikTvd": "4584025480976",
+    "uikName": "УИК №74",
     "tikTvd": "25820001472064",
-    "tikName": "Пенза, Железнодорожная"
+    "tikName": "Пенза, Железнодорожная",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 75,
     "uikTvd": "4584025480977",
+    "uikName": "УИК №75",
     "tikTvd": "25820001472064",
-    "tikName": "Пенза, Железнодорожная"
+    "tikName": "Пенза, Железнодорожная",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 76,
     "uikTvd": "4584025480978",
+    "uikName": "УИК №76",
     "tikTvd": "25820001472064",
-    "tikName": "Пенза, Железнодорожная"
+    "tikName": "Пенза, Железнодорожная",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 77,
     "uikTvd": "4584025480979",
+    "uikName": "УИК №77",
     "tikTvd": "25820001472064",
-    "tikName": "Пенза, Железнодорожная"
+    "tikName": "Пенза, Железнодорожная",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 78,
     "uikTvd": "4584025480980",
+    "uikName": "УИК №78",
     "tikTvd": "25820001472064",
-    "tikName": "Пенза, Железнодорожная"
+    "tikName": "Пенза, Железнодорожная",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 79,
     "uikTvd": "4584025480981",
+    "uikName": "УИК №79",
     "tikTvd": "25820001472064",
-    "tikName": "Пенза, Железнодорожная"
+    "tikName": "Пенза, Железнодорожная",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 80,
     "uikTvd": "4584025480982",
+    "uikName": "УИК №80",
     "tikTvd": "25820001472064",
-    "tikName": "Пенза, Железнодорожная"
+    "tikName": "Пенза, Железнодорожная",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 81,
     "uikTvd": "4584025480983",
+    "uikName": "УИК №81",
     "tikTvd": "25820001472064",
-    "tikName": "Пенза, Железнодорожная"
+    "tikName": "Пенза, Железнодорожная",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 82,
     "uikTvd": "4584025480984",
+    "uikName": "УИК №82",
     "tikTvd": "25820001472064",
-    "tikName": "Пенза, Железнодорожная"
+    "tikName": "Пенза, Железнодорожная",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 83,
     "uikTvd": "4584025480985",
+    "uikName": "УИК №83",
     "tikTvd": "25820001472064",
-    "tikName": "Пенза, Железнодорожная"
+    "tikName": "Пенза, Железнодорожная",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 84,
     "uikTvd": "4584025480986",
+    "uikName": "УИК №84",
     "tikTvd": "25820001472064",
-    "tikName": "Пенза, Железнодорожная"
+    "tikName": "Пенза, Железнодорожная",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 85,
     "uikTvd": "4584025480987",
+    "uikName": "УИК №85",
     "tikTvd": "25820001472064",
-    "tikName": "Пенза, Железнодорожная"
+    "tikName": "Пенза, Железнодорожная",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 86,
     "uikTvd": "4584025480988",
+    "uikName": "УИК №86",
     "tikTvd": "25820001472064",
-    "tikName": "Пенза, Железнодорожная"
+    "tikName": "Пенза, Железнодорожная",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 87,
     "uikTvd": "4584025480989",
+    "uikName": "УИК №87",
     "tikTvd": "25820001472064",
-    "tikName": "Пенза, Железнодорожная"
+    "tikName": "Пенза, Железнодорожная",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 88,
     "uikTvd": "4584025480990",
+    "uikName": "УИК №88",
     "tikTvd": "25820001472064",
-    "tikName": "Пенза, Железнодорожная"
+    "tikName": "Пенза, Железнодорожная",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 89,
     "uikTvd": "4584025480991",
+    "uikName": "УИК №89",
     "tikTvd": "25820001472064",
-    "tikName": "Пенза, Железнодорожная"
+    "tikName": "Пенза, Железнодорожная",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 90,
     "uikTvd": "4584025480992",
+    "uikName": "УИК №90",
     "tikTvd": "25820001472064",
-    "tikName": "Пенза, Железнодорожная"
+    "tikName": "Пенза, Железнодорожная",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 91,
     "uikTvd": "4584025480993",
+    "uikName": "УИК №91",
     "tikTvd": "25820001472064",
-    "tikName": "Пенза, Железнодорожная"
+    "tikName": "Пенза, Железнодорожная",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 92,
     "uikTvd": "4584025480994",
+    "uikName": "УИК №92",
     "tikTvd": "25820001472064",
-    "tikName": "Пенза, Железнодорожная"
+    "tikName": "Пенза, Железнодорожная",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 93,
     "uikTvd": "4584025480995",
+    "uikName": "УИК №93",
     "tikTvd": "25820001472064",
-    "tikName": "Пенза, Железнодорожная"
+    "tikName": "Пенза, Железнодорожная",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 94,
     "uikTvd": "4584025480996",
+    "uikName": "УИК №94",
     "tikTvd": "25820001472064",
-    "tikName": "Пенза, Железнодорожная"
+    "tikName": "Пенза, Железнодорожная",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 95,
     "uikTvd": "4584025480997",
+    "uikName": "УИК №95",
     "tikTvd": "25820001472064",
-    "tikName": "Пенза, Железнодорожная"
+    "tikName": "Пенза, Железнодорожная",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 96,
     "uikTvd": "4584025480998",
+    "uikName": "УИК №96",
     "tikTvd": "25820001472064",
-    "tikName": "Пенза, Железнодорожная"
+    "tikName": "Пенза, Железнодорожная",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 97,
     "uikTvd": "4584025480999",
+    "uikName": "УИК №97",
     "tikTvd": "25820001472064",
-    "tikName": "Пенза, Железнодорожная"
+    "tikName": "Пенза, Железнодорожная",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 98,
     "uikTvd": "4584025481000",
+    "uikName": "УИК №98",
     "tikTvd": "25820001472064",
-    "tikName": "Пенза, Железнодорожная"
+    "tikName": "Пенза, Железнодорожная",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 99,
     "uikTvd": "4584025481001",
+    "uikName": "УИК №99",
     "tikTvd": "25820001472064",
-    "tikName": "Пенза, Железнодорожная"
+    "tikName": "Пенза, Железнодорожная",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 100,
     "uikTvd": "4584025481002",
+    "uikName": "УИК №100",
     "tikTvd": "25820001472064",
-    "tikName": "Пенза, Железнодорожная"
+    "tikName": "Пенза, Железнодорожная",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 101,
     "uikTvd": "4584025481003",
+    "uikName": "УИК №101",
     "tikTvd": "25820001472064",
-    "tikName": "Пенза, Железнодорожная"
+    "tikName": "Пенза, Железнодорожная",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 102,
     "uikTvd": "4584025481004",
+    "uikName": "УИК №102",
     "tikTvd": "25820001472064",
-    "tikName": "Пенза, Железнодорожная"
+    "tikName": "Пенза, Железнодорожная",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 103,
     "uikTvd": "4584025481005",
+    "uikName": "УИК №103",
     "tikTvd": "25820001472064",
-    "tikName": "Пенза, Железнодорожная"
+    "tikName": "Пенза, Железнодорожная",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 104,
     "uikTvd": "4584025481006",
+    "uikName": "УИК №104",
     "tikTvd": "25820001472064",
-    "tikName": "Пенза, Железнодорожная"
+    "tikName": "Пенза, Железнодорожная",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 105,
     "uikTvd": "4584025481007",
+    "uikName": "УИК №105",
     "tikTvd": "25820001472064",
-    "tikName": "Пенза, Железнодорожная"
+    "tikName": "Пенза, Железнодорожная",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 106,
     "uikTvd": "4584025481008",
+    "uikName": "УИК №106",
     "tikTvd": "25820001472064",
-    "tikName": "Пенза, Железнодорожная"
+    "tikName": "Пенза, Железнодорожная",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 107,
     "uikTvd": "4584025481009",
+    "uikName": "УИК №107",
     "tikTvd": "25820001472064",
-    "tikName": "Пенза, Железнодорожная"
+    "tikName": "Пенза, Железнодорожная",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 108,
     "uikTvd": "4584025481010",
+    "uikName": "УИК №108",
     "tikTvd": "25820001472064",
-    "tikName": "Пенза, Железнодорожная"
+    "tikName": "Пенза, Железнодорожная",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 109,
     "uikTvd": "4584025481011",
+    "uikName": "УИК №109",
     "tikTvd": "25820001472064",
-    "tikName": "Пенза, Железнодорожная"
+    "tikName": "Пенза, Железнодорожная",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 110,
     "uikTvd": "4584025481012",
+    "uikName": "УИК №110",
     "tikTvd": "25820001472064",
-    "tikName": "Пенза, Железнодорожная"
+    "tikName": "Пенза, Железнодорожная",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 111,
     "uikTvd": "4584025481013",
+    "uikName": "УИК №111",
     "tikTvd": "25820001472064",
-    "tikName": "Пенза, Железнодорожная"
+    "tikName": "Пенза, Железнодорожная",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 112,
     "uikTvd": "4584025481014",
+    "uikName": "УИК №112",
     "tikTvd": "25820001472064",
-    "tikName": "Пенза, Железнодорожная"
+    "tikName": "Пенза, Железнодорожная",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 113,
     "uikTvd": "4584025481015",
+    "uikName": "УИК №113",
     "tikTvd": "25820001472064",
-    "tikName": "Пенза, Железнодорожная"
+    "tikName": "Пенза, Железнодорожная",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 114,
     "uikTvd": "4584025481016",
+    "uikName": "УИК №114",
     "tikTvd": "25820001472064",
-    "tikName": "Пенза, Железнодорожная"
+    "tikName": "Пенза, Железнодорожная",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 115,
     "uikTvd": "4584025481017",
+    "uikName": "УИК №115",
     "tikTvd": "25820001472064",
-    "tikName": "Пенза, Железнодорожная"
+    "tikName": "Пенза, Железнодорожная",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 116,
     "uikTvd": "4584025481018",
+    "uikName": "УИК №116",
     "tikTvd": "25820001472064",
-    "tikName": "Пенза, Железнодорожная"
+    "tikName": "Пенза, Железнодорожная",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 117,
     "uikTvd": "4584025481019",
+    "uikName": "УИК №117",
     "tikTvd": "25820001472064",
-    "tikName": "Пенза, Железнодорожная"
+    "tikName": "Пенза, Железнодорожная",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 118,
     "uikTvd": "4584025481020",
+    "uikName": "УИК №118",
     "tikTvd": "25820001472064",
-    "tikName": "Пенза, Железнодорожная"
+    "tikName": "Пенза, Железнодорожная",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 119,
     "uikTvd": "4584025481021",
+    "uikName": "УИК №119",
     "tikTvd": "25820001472064",
-    "tikName": "Пенза, Железнодорожная"
+    "tikName": "Пенза, Железнодорожная",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 120,
     "uikTvd": "4584025481022",
+    "uikName": "УИК №120",
     "tikTvd": "25820001472064",
-    "tikName": "Пенза, Железнодорожная"
+    "tikName": "Пенза, Железнодорожная",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 121,
     "uikTvd": "4584025481023",
+    "uikName": "УИК №121",
     "tikTvd": "25820001472064",
-    "tikName": "Пенза, Железнодорожная"
+    "tikName": "Пенза, Железнодорожная",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 122,
     "uikTvd": "4584025481024",
+    "uikName": "УИК №122",
     "tikTvd": "25820001472064",
-    "tikName": "Пенза, Железнодорожная"
+    "tikName": "Пенза, Железнодорожная",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 123,
     "uikTvd": "4584025481025",
+    "uikName": "УИК №123",
     "tikTvd": "25820001472064",
-    "tikName": "Пенза, Железнодорожная"
+    "tikName": "Пенза, Железнодорожная",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 124,
     "uikTvd": "4584025481026",
+    "uikName": "УИК №124",
     "tikTvd": "25820001472064",
-    "tikName": "Пенза, Железнодорожная"
+    "tikName": "Пенза, Железнодорожная",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 125,
     "uikTvd": "4584026366710",
+    "uikName": "УИК №125",
     "tikTvd": "25820001472063",
-    "tikName": "Пенза, Ленинская"
+    "tikName": "Пенза, Ленинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 126,
     "uikTvd": "4584026366711",
+    "uikName": "УИК №126",
     "tikTvd": "25820001472063",
-    "tikName": "Пенза, Ленинская"
+    "tikName": "Пенза, Ленинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 127,
     "uikTvd": "4584026366712",
+    "uikName": "УИК №127",
     "tikTvd": "25820001472063",
-    "tikName": "Пенза, Ленинская"
+    "tikName": "Пенза, Ленинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 128,
     "uikTvd": "4584026366713",
+    "uikName": "УИК №128",
     "tikTvd": "25820001472063",
-    "tikName": "Пенза, Ленинская"
+    "tikName": "Пенза, Ленинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 129,
     "uikTvd": "4584026366714",
+    "uikName": "УИК №129",
     "tikTvd": "25820001472063",
-    "tikName": "Пенза, Ленинская"
+    "tikName": "Пенза, Ленинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 130,
     "uikTvd": "4584026366715",
+    "uikName": "УИК №130",
     "tikTvd": "25820001472063",
-    "tikName": "Пенза, Ленинская"
+    "tikName": "Пенза, Ленинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 131,
     "uikTvd": "4584026366716",
+    "uikName": "УИК №131",
     "tikTvd": "25820001472063",
-    "tikName": "Пенза, Ленинская"
+    "tikName": "Пенза, Ленинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 132,
     "uikTvd": "4584026366717",
+    "uikName": "УИК №132",
     "tikTvd": "25820001472063",
-    "tikName": "Пенза, Ленинская"
+    "tikName": "Пенза, Ленинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 133,
     "uikTvd": "4584026366718",
+    "uikName": "УИК №133",
     "tikTvd": "25820001472063",
-    "tikName": "Пенза, Ленинская"
+    "tikName": "Пенза, Ленинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 134,
     "uikTvd": "4584026366719",
+    "uikName": "УИК №134",
     "tikTvd": "25820001472063",
-    "tikName": "Пенза, Ленинская"
+    "tikName": "Пенза, Ленинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 135,
     "uikTvd": "4584026366720",
+    "uikName": "УИК №135",
     "tikTvd": "25820001472063",
-    "tikName": "Пенза, Ленинская"
+    "tikName": "Пенза, Ленинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 136,
     "uikTvd": "4584026366721",
+    "uikName": "УИК №136",
     "tikTvd": "25820001472063",
-    "tikName": "Пенза, Ленинская"
+    "tikName": "Пенза, Ленинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 137,
     "uikTvd": "4584026366722",
+    "uikName": "УИК №137",
     "tikTvd": "25820001472063",
-    "tikName": "Пенза, Ленинская"
+    "tikName": "Пенза, Ленинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 138,
     "uikTvd": "4584026366723",
+    "uikName": "УИК №138",
     "tikTvd": "25820001472063",
-    "tikName": "Пенза, Ленинская"
+    "tikName": "Пенза, Ленинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 139,
     "uikTvd": "4584026366724",
+    "uikName": "УИК №139",
     "tikTvd": "25820001472063",
-    "tikName": "Пенза, Ленинская"
+    "tikName": "Пенза, Ленинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 140,
     "uikTvd": "4584026366725",
+    "uikName": "УИК №140",
     "tikTvd": "25820001472063",
-    "tikName": "Пенза, Ленинская"
+    "tikName": "Пенза, Ленинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 141,
     "uikTvd": "4584026366726",
+    "uikName": "УИК №141",
     "tikTvd": "25820001472063",
-    "tikName": "Пенза, Ленинская"
+    "tikName": "Пенза, Ленинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 142,
     "uikTvd": "4584026366727",
+    "uikName": "УИК №142",
     "tikTvd": "25820001472063",
-    "tikName": "Пенза, Ленинская"
+    "tikName": "Пенза, Ленинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 143,
     "uikTvd": "4584026366728",
+    "uikName": "УИК №143",
     "tikTvd": "25820001472063",
-    "tikName": "Пенза, Ленинская"
+    "tikName": "Пенза, Ленинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 144,
     "uikTvd": "4584026366729",
+    "uikName": "УИК №144",
     "tikTvd": "25820001472063",
-    "tikName": "Пенза, Ленинская"
+    "tikName": "Пенза, Ленинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 145,
     "uikTvd": "4584026366730",
+    "uikName": "УИК №145",
     "tikTvd": "25820001472063",
-    "tikName": "Пенза, Ленинская"
+    "tikName": "Пенза, Ленинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 146,
     "uikTvd": "4584026366731",
+    "uikName": "УИК №146",
     "tikTvd": "25820001472063",
-    "tikName": "Пенза, Ленинская"
+    "tikName": "Пенза, Ленинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 147,
     "uikTvd": "4584026366732",
+    "uikName": "УИК №147",
     "tikTvd": "25820001472063",
-    "tikName": "Пенза, Ленинская"
+    "tikName": "Пенза, Ленинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 148,
     "uikTvd": "4584026366733",
+    "uikName": "УИК №148",
     "tikTvd": "25820001472063",
-    "tikName": "Пенза, Ленинская"
+    "tikName": "Пенза, Ленинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 149,
     "uikTvd": "4584026366734",
+    "uikName": "УИК №149",
     "tikTvd": "25820001472063",
-    "tikName": "Пенза, Ленинская"
+    "tikName": "Пенза, Ленинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 150,
     "uikTvd": "4584026366735",
+    "uikName": "УИК №150",
     "tikTvd": "25820001472063",
-    "tikName": "Пенза, Ленинская"
+    "tikName": "Пенза, Ленинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 151,
     "uikTvd": "4584026366736",
+    "uikName": "УИК №151",
     "tikTvd": "25820001472063",
-    "tikName": "Пенза, Ленинская"
+    "tikName": "Пенза, Ленинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 152,
     "uikTvd": "4584026366737",
+    "uikName": "УИК №152",
     "tikTvd": "25820001472063",
-    "tikName": "Пенза, Ленинская"
+    "tikName": "Пенза, Ленинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 153,
     "uikTvd": "4584026366738",
+    "uikName": "УИК №153",
     "tikTvd": "25820001472063",
-    "tikName": "Пенза, Ленинская"
+    "tikName": "Пенза, Ленинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 154,
     "uikTvd": "4584026366739",
+    "uikName": "УИК №154",
     "tikTvd": "25820001472063",
-    "tikName": "Пенза, Ленинская"
+    "tikName": "Пенза, Ленинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 155,
     "uikTvd": "4584026366740",
+    "uikName": "УИК №155",
     "tikTvd": "25820001472063",
-    "tikName": "Пенза, Ленинская"
+    "tikName": "Пенза, Ленинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 156,
     "uikTvd": "4584026366741",
+    "uikName": "УИК №156",
     "tikTvd": "25820001472063",
-    "tikName": "Пенза, Ленинская"
+    "tikName": "Пенза, Ленинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 157,
     "uikTvd": "4584026366742",
+    "uikName": "УИК №157",
     "tikTvd": "25820001472063",
-    "tikName": "Пенза, Ленинская"
+    "tikName": "Пенза, Ленинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 158,
     "uikTvd": "4584026366743",
+    "uikName": "УИК №158",
     "tikTvd": "25820001472063",
-    "tikName": "Пенза, Ленинская"
+    "tikName": "Пенза, Ленинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 159,
     "uikTvd": "4584026366744",
+    "uikName": "УИК №159",
     "tikTvd": "25820001472063",
-    "tikName": "Пенза, Ленинская"
+    "tikName": "Пенза, Ленинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 160,
     "uikTvd": "4584026366745",
+    "uikName": "УИК №160",
     "tikTvd": "25820001472063",
-    "tikName": "Пенза, Ленинская"
+    "tikName": "Пенза, Ленинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 161,
     "uikTvd": "4584026366746",
+    "uikName": "УИК №161",
     "tikTvd": "25820001472063",
-    "tikName": "Пенза, Ленинская"
+    "tikName": "Пенза, Ленинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 162,
     "uikTvd": "4584026366747",
+    "uikName": "УИК №162",
     "tikTvd": "25820001472063",
-    "tikName": "Пенза, Ленинская"
+    "tikName": "Пенза, Ленинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 163,
     "uikTvd": "4584026366748",
+    "uikName": "УИК №163",
     "tikTvd": "25820001472063",
-    "tikName": "Пенза, Ленинская"
+    "tikName": "Пенза, Ленинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 164,
     "uikTvd": "45840281432474",
+    "uikName": "УИК №164",
     "tikTvd": "25820001472062",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 165,
     "uikTvd": "45840281432475",
+    "uikName": "УИК №165",
     "tikTvd": "25820001472062",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 166,
     "uikTvd": "45840281432476",
+    "uikName": "УИК №166",
     "tikTvd": "25820001472062",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 167,
     "uikTvd": "45840281432477",
+    "uikName": "УИК №167",
     "tikTvd": "25820001472062",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 168,
     "uikTvd": "45840281432478",
+    "uikName": "УИК №168",
     "tikTvd": "25820001472062",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 169,
     "uikTvd": "45840281432479",
+    "uikName": "УИК №169",
     "tikTvd": "25820001472062",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 170,
     "uikTvd": "45840281432480",
+    "uikName": "УИК №170",
     "tikTvd": "25820001472062",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 171,
     "uikTvd": "45840281432481",
+    "uikName": "УИК №171",
     "tikTvd": "25820001472062",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 172,
     "uikTvd": "45840281432482",
+    "uikName": "УИК №172",
     "tikTvd": "25820001472062",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 173,
     "uikTvd": "45840281432483",
+    "uikName": "УИК №173",
     "tikTvd": "25820001472062",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 174,
     "uikTvd": "45840281432484",
+    "uikName": "УИК №174",
     "tikTvd": "25820001472062",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 175,
     "uikTvd": "45840281432485",
+    "uikName": "УИК №175",
     "tikTvd": "25820001472062",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 176,
     "uikTvd": "45840281432486",
+    "uikName": "УИК №176",
     "tikTvd": "25820001472062",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 177,
     "uikTvd": "45840281432487",
+    "uikName": "УИК №177",
     "tikTvd": "25820001472062",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 178,
     "uikTvd": "45840281432488",
+    "uikName": "УИК №178",
     "tikTvd": "25820001472062",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 179,
     "uikTvd": "45840281432489",
+    "uikName": "УИК №179",
     "tikTvd": "25820001472062",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 180,
     "uikTvd": "45840281432490",
+    "uikName": "УИК №180",
     "tikTvd": "25820001472062",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 181,
     "uikTvd": "45840281432491",
+    "uikName": "УИК №181",
     "tikTvd": "25820001472062",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 182,
     "uikTvd": "45840281432492",
+    "uikName": "УИК №182",
     "tikTvd": "25820001472062",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 183,
     "uikTvd": "45840281432493",
+    "uikName": "УИК №183",
     "tikTvd": "25820001472062",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 184,
     "uikTvd": "45840281432494",
+    "uikName": "УИК №184",
     "tikTvd": "25820001472062",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 185,
     "uikTvd": "45840281432495",
+    "uikName": "УИК №185",
     "tikTvd": "25820001472062",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 186,
     "uikTvd": "45840281432496",
+    "uikName": "УИК №186",
     "tikTvd": "25820001472062",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 187,
     "uikTvd": "45840281432497",
+    "uikName": "УИК №187",
     "tikTvd": "25820001472062",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 188,
     "uikTvd": "45840281432498",
+    "uikName": "УИК №188",
     "tikTvd": "25820001472062",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 189,
     "uikTvd": "45840281432499",
+    "uikName": "УИК №189",
     "tikTvd": "25820001472062",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 190,
     "uikTvd": "45840281432500",
+    "uikName": "УИК №190",
     "tikTvd": "25820001472062",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 191,
     "uikTvd": "45840281432501",
+    "uikName": "УИК №191",
     "tikTvd": "25820001472062",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 192,
     "uikTvd": "45840281432502",
+    "uikName": "УИК №192",
     "tikTvd": "25820001472062",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 193,
     "uikTvd": "45840281432503",
+    "uikName": "УИК №193",
     "tikTvd": "25820001472062",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 194,
     "uikTvd": "45840281432504",
+    "uikName": "УИК №194",
     "tikTvd": "25820001472062",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 195,
     "uikTvd": "45840281432505",
+    "uikName": "УИК №195",
     "tikTvd": "25820001472062",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 196,
     "uikTvd": "45840281432506",
+    "uikName": "УИК №196",
     "tikTvd": "25820001472062",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 197,
     "uikTvd": "45840281432507",
+    "uikName": "УИК №197",
     "tikTvd": "25820001472062",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 198,
     "uikTvd": "45840281432508",
+    "uikName": "УИК №198",
     "tikTvd": "25820001472062",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 199,
     "uikTvd": "45840281432509",
+    "uikName": "УИК №199",
     "tikTvd": "25820001472062",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 200,
     "uikTvd": "45840281432510",
+    "uikName": "УИК №200",
     "tikTvd": "25820001472062",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 201,
     "uikTvd": "45840281432511",
+    "uikName": "УИК №201",
     "tikTvd": "25820001472062",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 202,
     "uikTvd": "45840281432512",
+    "uikName": "УИК №202",
     "tikTvd": "25820001472062",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 203,
     "uikTvd": "45840281432513",
+    "uikName": "УИК №203",
     "tikTvd": "25820001472062",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 204,
     "uikTvd": "45840281432514",
+    "uikName": "УИК №204",
     "tikTvd": "25820001472062",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 205,
     "uikTvd": "45840281432515",
+    "uikName": "УИК №205",
     "tikTvd": "25820001472062",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 206,
     "uikTvd": "45840281432516",
+    "uikName": "УИК №206",
     "tikTvd": "25820001472062",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 207,
     "uikTvd": "45840281432517",
+    "uikName": "УИК №207",
     "tikTvd": "25820001472062",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 208,
     "uikTvd": "45840281432518",
+    "uikName": "УИК №208",
     "tikTvd": "25820001472062",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 209,
     "uikTvd": "45840281432519",
+    "uikName": "УИК №209",
     "tikTvd": "25820001472062",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 210,
     "uikTvd": "45840281432520",
+    "uikName": "УИК №210",
     "tikTvd": "25820001472062",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 211,
     "uikTvd": "45840281432521",
+    "uikName": "УИК №211",
     "tikTvd": "25820001472062",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 212,
     "uikTvd": "45840281432522",
+    "uikName": "УИК №212",
     "tikTvd": "25820001472062",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 213,
     "uikTvd": "45840281432523",
+    "uikName": "УИК №213",
     "tikTvd": "25820001472062",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 214,
     "uikTvd": "45840281432524",
+    "uikName": "УИК №214",
     "tikTvd": "25820001472062",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 215,
     "uikTvd": "45840281432525",
+    "uikName": "УИК №215",
     "tikTvd": "25820001472062",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 216,
     "uikTvd": "45840281432526",
+    "uikName": "УИК №216",
     "tikTvd": "25820001472062",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 217,
     "uikTvd": "45840281432527",
+    "uikName": "УИК №217",
     "tikTvd": "25820001472062",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 218,
     "uikTvd": "45840281432528",
+    "uikName": "УИК №218",
     "tikTvd": "25820001472062",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 219,
     "uikTvd": "45840281432529",
+    "uikName": "УИК №219",
     "tikTvd": "25820001472062",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 220,
     "uikTvd": "45840281432530",
+    "uikName": "УИК №220",
     "tikTvd": "25820001472062",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 221,
     "uikTvd": "45840281432531",
+    "uikName": "УИК №221",
     "tikTvd": "25820001472062",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 222,
     "uikTvd": "45840281432532",
+    "uikName": "УИК №222",
     "tikTvd": "25820001472062",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 223,
     "uikTvd": "45840281432533",
+    "uikName": "УИК №223",
     "tikTvd": "25820001472062",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 224,
     "uikTvd": "4584024341418",
+    "uikName": "УИК №224",
     "tikTvd": "25820001472061",
-    "tikName": "Зареченская городская"
+    "tikName": "Зареченская городская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 225,
     "uikTvd": "4584024341419",
+    "uikName": "УИК №225",
     "tikTvd": "25820001472061",
-    "tikName": "Зареченская городская"
+    "tikName": "Зареченская городская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 226,
     "uikTvd": "4584024341420",
+    "uikName": "УИК №226",
     "tikTvd": "25820001472061",
-    "tikName": "Зареченская городская"
+    "tikName": "Зареченская городская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 227,
     "uikTvd": "4584024341421",
+    "uikName": "УИК №227",
     "tikTvd": "25820001472061",
-    "tikName": "Зареченская городская"
+    "tikName": "Зареченская городская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 228,
     "uikTvd": "4584024341422",
+    "uikName": "УИК №228",
     "tikTvd": "25820001472061",
-    "tikName": "Зареченская городская"
+    "tikName": "Зареченская городская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 229,
     "uikTvd": "4584024341423",
+    "uikName": "УИК №229",
     "tikTvd": "25820001472061",
-    "tikName": "Зареченская городская"
+    "tikName": "Зареченская городская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 230,
     "uikTvd": "4584024341424",
+    "uikName": "УИК №230",
     "tikTvd": "25820001472061",
-    "tikName": "Зареченская городская"
+    "tikName": "Зареченская городская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 231,
     "uikTvd": "4584024341425",
+    "uikName": "УИК №231",
     "tikTvd": "25820001472061",
-    "tikName": "Зареченская городская"
+    "tikName": "Зареченская городская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 232,
     "uikTvd": "4584024341426",
+    "uikName": "УИК №232",
     "tikTvd": "25820001472061",
-    "tikName": "Зареченская городская"
+    "tikName": "Зареченская городская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 233,
     "uikTvd": "4584024341427",
+    "uikName": "УИК №233",
     "tikTvd": "25820001472061",
-    "tikName": "Зареченская городская"
+    "tikName": "Зареченская городская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 234,
     "uikTvd": "4584024341428",
+    "uikName": "УИК №234",
     "tikTvd": "25820001472061",
-    "tikName": "Зареченская городская"
+    "tikName": "Зареченская городская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 235,
     "uikTvd": "4584024341429",
+    "uikName": "УИК №235",
     "tikTvd": "25820001472061",
-    "tikName": "Зареченская городская"
+    "tikName": "Зареченская городская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 236,
     "uikTvd": "4584024341430",
+    "uikName": "УИК №236",
     "tikTvd": "25820001472061",
-    "tikName": "Зареченская городская"
+    "tikName": "Зареченская городская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 237,
     "uikTvd": "4584024341431",
+    "uikName": "УИК №237",
     "tikTvd": "25820001472061",
-    "tikName": "Зареченская городская"
+    "tikName": "Зареченская городская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 238,
     "uikTvd": "4584024341432",
+    "uikName": "УИК №238",
     "tikTvd": "25820001472061",
-    "tikName": "Зареченская городская"
+    "tikName": "Зареченская городская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 239,
     "uikTvd": "4584024341433",
+    "uikName": "УИК №239",
     "tikTvd": "25820001472061",
-    "tikName": "Зареченская городская"
+    "tikName": "Зареченская городская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 240,
     "uikTvd": "4584024341434",
+    "uikName": "УИК №240",
     "tikTvd": "25820001472061",
-    "tikName": "Зареченская городская"
+    "tikName": "Зареченская городская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 241,
     "uikTvd": "4584024341435",
+    "uikName": "УИК №241",
     "tikTvd": "25820001472061",
-    "tikName": "Зареченская городская"
+    "tikName": "Зареченская городская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 242,
     "uikTvd": "4584024341436",
+    "uikName": "УИК №242",
     "tikTvd": "25820001472061",
-    "tikName": "Зареченская городская"
+    "tikName": "Зареченская городская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 243,
     "uikTvd": "4584024341437",
+    "uikName": "УИК №243",
     "tikTvd": "25820001472061",
-    "tikName": "Зареченская городская"
+    "tikName": "Зареченская городская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 244,
     "uikTvd": "4584024341438",
+    "uikName": "УИК №244",
     "tikTvd": "25820001472061",
-    "tikName": "Зареченская городская"
+    "tikName": "Зареченская городская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 245,
     "uikTvd": "4584024341439",
+    "uikName": "УИК №245",
     "tikTvd": "25820001472061",
-    "tikName": "Зареченская городская"
+    "tikName": "Зареченская городская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 246,
     "uikTvd": "4584024341440",
+    "uikName": "УИК №246",
     "tikTvd": "25820001472061",
-    "tikName": "Зареченская городская"
+    "tikName": "Зареченская городская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 247,
     "uikTvd": "4584024341441",
+    "uikName": "УИК №247",
     "tikTvd": "25820001472061",
-    "tikName": "Зареченская городская"
+    "tikName": "Зареченская городская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 248,
     "uikTvd": "4584024341442",
+    "uikName": "УИК №248",
     "tikTvd": "25820001472061",
-    "tikName": "Зареченская городская"
+    "tikName": "Зареченская городская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 249,
     "uikTvd": "4584014310908",
+    "uikName": "УИК №249",
     "tikTvd": "25820001472060",
-    "tikName": "Кузнецкая городская "
+    "tikName": "Кузнецкая городская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 250,
     "uikTvd": "4584014310909",
+    "uikName": "УИК №250",
     "tikTvd": "25820001472060",
-    "tikName": "Кузнецкая городская "
+    "tikName": "Кузнецкая городская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 251,
     "uikTvd": "4584014310910",
+    "uikName": "УИК №251",
     "tikTvd": "25820001472060",
-    "tikName": "Кузнецкая городская "
+    "tikName": "Кузнецкая городская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 252,
     "uikTvd": "4584014310911",
+    "uikName": "УИК №252",
     "tikTvd": "25820001472060",
-    "tikName": "Кузнецкая городская "
+    "tikName": "Кузнецкая городская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 253,
     "uikTvd": "4584014310912",
+    "uikName": "УИК №253",
     "tikTvd": "25820001472060",
-    "tikName": "Кузнецкая городская "
+    "tikName": "Кузнецкая городская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 254,
     "uikTvd": "4584014310913",
+    "uikName": "УИК №254",
     "tikTvd": "25820001472060",
-    "tikName": "Кузнецкая городская "
+    "tikName": "Кузнецкая городская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 255,
     "uikTvd": "4584014310914",
+    "uikName": "УИК №255",
     "tikTvd": "25820001472060",
-    "tikName": "Кузнецкая городская "
+    "tikName": "Кузнецкая городская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 256,
     "uikTvd": "4584014310915",
+    "uikName": "УИК №256",
     "tikTvd": "25820001472060",
-    "tikName": "Кузнецкая городская "
+    "tikName": "Кузнецкая городская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 257,
     "uikTvd": "4584014310916",
+    "uikName": "УИК №257",
     "tikTvd": "25820001472060",
-    "tikName": "Кузнецкая городская "
+    "tikName": "Кузнецкая городская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 258,
     "uikTvd": "4584014310917",
+    "uikName": "УИК №258",
     "tikTvd": "25820001472060",
-    "tikName": "Кузнецкая городская "
+    "tikName": "Кузнецкая городская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 259,
     "uikTvd": "4584014310918",
+    "uikName": "УИК №259",
     "tikTvd": "25820001472060",
-    "tikName": "Кузнецкая городская "
+    "tikName": "Кузнецкая городская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 260,
     "uikTvd": "4584014310919",
+    "uikName": "УИК №260",
     "tikTvd": "25820001472060",
-    "tikName": "Кузнецкая городская "
+    "tikName": "Кузнецкая городская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 261,
     "uikTvd": "4584014310920",
+    "uikName": "УИК №261",
     "tikTvd": "25820001472060",
-    "tikName": "Кузнецкая городская "
+    "tikName": "Кузнецкая городская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 262,
     "uikTvd": "4584014310921",
+    "uikName": "УИК №262",
     "tikTvd": "25820001472060",
-    "tikName": "Кузнецкая городская "
+    "tikName": "Кузнецкая городская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 263,
     "uikTvd": "4584014310922",
+    "uikName": "УИК №263",
     "tikTvd": "25820001472060",
-    "tikName": "Кузнецкая городская "
+    "tikName": "Кузнецкая городская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 264,
     "uikTvd": "4584014310923",
+    "uikName": "УИК №264",
     "tikTvd": "25820001472060",
-    "tikName": "Кузнецкая городская "
+    "tikName": "Кузнецкая городская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 265,
     "uikTvd": "4584014310924",
+    "uikName": "УИК №265",
     "tikTvd": "25820001472060",
-    "tikName": "Кузнецкая городская "
+    "tikName": "Кузнецкая городская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 266,
     "uikTvd": "4584014310925",
+    "uikName": "УИК №266",
     "tikTvd": "25820001472060",
-    "tikName": "Кузнецкая городская "
+    "tikName": "Кузнецкая городская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 267,
     "uikTvd": "4584014310926",
+    "uikName": "УИК №267",
     "tikTvd": "25820001472060",
-    "tikName": "Кузнецкая городская "
+    "tikName": "Кузнецкая городская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 268,
     "uikTvd": "4584014310927",
+    "uikName": "УИК №268",
     "tikTvd": "25820001472060",
-    "tikName": "Кузнецкая городская "
+    "tikName": "Кузнецкая городская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 269,
     "uikTvd": "4584014310928",
+    "uikName": "УИК №269",
     "tikTvd": "25820001472060",
-    "tikName": "Кузнецкая городская "
+    "tikName": "Кузнецкая городская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 270,
     "uikTvd": "4584014310929",
+    "uikName": "УИК №270",
     "tikTvd": "25820001472060",
-    "tikName": "Кузнецкая городская "
+    "tikName": "Кузнецкая городская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 271,
     "uikTvd": "4584014310930",
+    "uikName": "УИК №271",
     "tikTvd": "25820001472060",
-    "tikName": "Кузнецкая городская "
+    "tikName": "Кузнецкая городская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 272,
     "uikTvd": "4584014310931",
+    "uikName": "УИК №272",
     "tikTvd": "25820001472060",
-    "tikName": "Кузнецкая городская "
+    "tikName": "Кузнецкая городская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 273,
     "uikTvd": "4584014310932",
+    "uikName": "УИК №273",
     "tikTvd": "25820001472060",
-    "tikName": "Кузнецкая городская "
+    "tikName": "Кузнецкая городская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 274,
     "uikTvd": "4584014310933",
+    "uikName": "УИК №274",
     "tikTvd": "25820001472060",
-    "tikName": "Кузнецкая городская "
+    "tikName": "Кузнецкая городская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 275,
     "uikTvd": "4584014310934",
+    "uikName": "УИК №275",
     "tikTvd": "25820001472060",
-    "tikName": "Кузнецкая городская "
+    "tikName": "Кузнецкая городская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 276,
     "uikTvd": "4584014310935",
+    "uikName": "УИК №276",
     "tikTvd": "25820001472060",
-    "tikName": "Кузнецкая городская "
+    "tikName": "Кузнецкая городская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 277,
     "uikTvd": "4584014310936",
+    "uikName": "УИК №277",
     "tikTvd": "25820001472060",
-    "tikName": "Кузнецкая городская "
+    "tikName": "Кузнецкая городская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 278,
     "uikTvd": "4584014310937",
+    "uikName": "УИК №278",
     "tikTvd": "25820001472060",
-    "tikName": "Кузнецкая городская "
+    "tikName": "Кузнецкая городская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 279,
     "uikTvd": "4584014310938",
+    "uikName": "УИК №279",
     "tikTvd": "25820001472060",
-    "tikName": "Кузнецкая городская "
+    "tikName": "Кузнецкая городская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 280,
     "uikTvd": "4584014310939",
+    "uikName": "УИК №280",
     "tikTvd": "25820001472060",
-    "tikName": "Кузнецкая городская "
+    "tikName": "Кузнецкая городская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 281,
     "uikTvd": "4584014310940",
+    "uikName": "УИК №281",
     "tikTvd": "25820001472060",
-    "tikName": "Кузнецкая городская "
+    "tikName": "Кузнецкая городская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 282,
     "uikTvd": "4584014310941",
+    "uikName": "УИК №282",
     "tikTvd": "25820001472060",
-    "tikName": "Кузнецкая городская "
+    "tikName": "Кузнецкая городская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 283,
     "uikTvd": "4584014310942",
+    "uikName": "УИК №283",
     "tikTvd": "25820001472060",
-    "tikName": "Кузнецкая городская "
+    "tikName": "Кузнецкая городская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 284,
     "uikTvd": "4584014310943",
+    "uikName": "УИК №284",
     "tikTvd": "25820001472060",
-    "tikName": "Кузнецкая городская "
+    "tikName": "Кузнецкая городская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 285,
     "uikTvd": "4584014310944",
+    "uikName": "УИК №285",
     "tikTvd": "25820001472060",
-    "tikName": "Кузнецкая городская "
+    "tikName": "Кузнецкая городская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 286,
     "uikTvd": "4584014310945",
+    "uikName": "УИК №286",
     "tikTvd": "25820001472060",
-    "tikName": "Кузнецкая городская "
+    "tikName": "Кузнецкая городская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 287,
     "uikTvd": "4584014310946",
+    "uikName": "УИК №287",
     "tikTvd": "25820001472060",
-    "tikName": "Кузнецкая городская "
+    "tikName": "Кузнецкая городская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 288,
     "uikTvd": "4584014310947",
+    "uikName": "УИК №288",
     "tikTvd": "25820001472060",
-    "tikName": "Кузнецкая городская "
+    "tikName": "Кузнецкая городская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 289,
     "uikTvd": "4584014310948",
+    "uikName": "УИК №289",
     "tikTvd": "25820001472060",
-    "tikName": "Кузнецкая городская "
+    "tikName": "Кузнецкая городская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 290,
     "uikTvd": "4584014310949",
+    "uikName": "УИК №290",
     "tikTvd": "25820001472060",
-    "tikName": "Кузнецкая городская "
+    "tikName": "Кузнецкая городская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 291,
     "uikTvd": "4584014310950",
+    "uikName": "УИК №291",
     "tikTvd": "25820001472060",
-    "tikName": "Кузнецкая городская "
+    "tikName": "Кузнецкая городская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 292,
     "uikTvd": "4584014310951",
+    "uikName": "УИК №292",
     "tikTvd": "25820001472060",
-    "tikName": "Кузнецкая городская "
+    "tikName": "Кузнецкая городская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 293,
     "uikTvd": "4584014310952",
+    "uikName": "УИК №293",
     "tikTvd": "25820001472060",
-    "tikName": "Кузнецкая городская "
+    "tikName": "Кузнецкая городская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 294,
     "uikTvd": "4584001335996",
+    "uikName": "УИК №294",
     "tikTvd": "25820001472059",
-    "tikName": "Башмаковская"
+    "tikName": "Башмаковская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 295,
     "uikTvd": "4584001335997",
+    "uikName": "УИК №295",
     "tikTvd": "25820001472059",
-    "tikName": "Башмаковская"
+    "tikName": "Башмаковская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 296,
     "uikTvd": "4584001335998",
+    "uikName": "УИК №296",
     "tikTvd": "25820001472059",
-    "tikName": "Башмаковская"
+    "tikName": "Башмаковская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 297,
     "uikTvd": "4584001335999",
+    "uikName": "УИК №297",
     "tikTvd": "25820001472059",
-    "tikName": "Башмаковская"
+    "tikName": "Башмаковская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 298,
     "uikTvd": "4584001336000",
+    "uikName": "УИК №298",
     "tikTvd": "25820001472059",
-    "tikName": "Башмаковская"
+    "tikName": "Башмаковская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 299,
     "uikTvd": "4584001336001",
+    "uikName": "УИК №299",
     "tikTvd": "25820001472059",
-    "tikName": "Башмаковская"
+    "tikName": "Башмаковская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 300,
     "uikTvd": "4584001336002",
+    "uikName": "УИК №300",
     "tikTvd": "25820001472059",
-    "tikName": "Башмаковская"
+    "tikName": "Башмаковская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 301,
     "uikTvd": "4584001336003",
+    "uikName": "УИК №301",
     "tikTvd": "25820001472059",
-    "tikName": "Башмаковская"
+    "tikName": "Башмаковская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 302,
     "uikTvd": "4584001336004",
+    "uikName": "УИК №302",
     "tikTvd": "25820001472059",
-    "tikName": "Башмаковская"
+    "tikName": "Башмаковская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 303,
     "uikTvd": "4584001336005",
+    "uikName": "УИК №303",
     "tikTvd": "25820001472059",
-    "tikName": "Башмаковская"
+    "tikName": "Башмаковская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 304,
     "uikTvd": "4584001336006",
+    "uikName": "УИК №304",
     "tikTvd": "25820001472059",
-    "tikName": "Башмаковская"
+    "tikName": "Башмаковская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 305,
     "uikTvd": "4584001336007",
+    "uikName": "УИК №305",
     "tikTvd": "25820001472059",
-    "tikName": "Башмаковская"
+    "tikName": "Башмаковская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 306,
     "uikTvd": "4584001336008",
+    "uikName": "УИК №306",
     "tikTvd": "25820001472059",
-    "tikName": "Башмаковская"
+    "tikName": "Башмаковская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 307,
     "uikTvd": "4584001336009",
+    "uikName": "УИК №307",
     "tikTvd": "25820001472059",
-    "tikName": "Башмаковская"
+    "tikName": "Башмаковская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 308,
     "uikTvd": "4584001336010",
+    "uikName": "УИК №308",
     "tikTvd": "25820001472059",
-    "tikName": "Башмаковская"
+    "tikName": "Башмаковская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 309,
     "uikTvd": "4584001336011",
+    "uikName": "УИК №309",
     "tikTvd": "25820001472059",
-    "tikName": "Башмаковская"
+    "tikName": "Башмаковская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 310,
     "uikTvd": "4584001336012",
+    "uikName": "УИК №310",
     "tikTvd": "25820001472059",
-    "tikName": "Башмаковская"
+    "tikName": "Башмаковская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 311,
     "uikTvd": "4584001336013",
+    "uikName": "УИК №311",
     "tikTvd": "25820001472059",
-    "tikName": "Башмаковская"
+    "tikName": "Башмаковская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 312,
     "uikTvd": "4584001336014",
+    "uikName": "УИК №312",
     "tikTvd": "25820001472059",
-    "tikName": "Башмаковская"
+    "tikName": "Башмаковская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 313,
     "uikTvd": "4584001336015",
+    "uikName": "УИК №313",
     "tikTvd": "25820001472059",
-    "tikName": "Башмаковская"
+    "tikName": "Башмаковская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 314,
     "uikTvd": "4584001336016",
+    "uikName": "УИК №314",
     "tikTvd": "25820001472059",
-    "tikName": "Башмаковская"
+    "tikName": "Башмаковская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 315,
     "uikTvd": "4584001336017",
+    "uikName": "УИК №315",
     "tikTvd": "25820001472059",
-    "tikName": "Башмаковская"
+    "tikName": "Башмаковская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 316,
     "uikTvd": "4584003427376",
+    "uikName": "УИК №316",
     "tikTvd": "25820001472058",
-    "tikName": "Бековская"
+    "tikName": "Бековская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 317,
     "uikTvd": "4584003427377",
+    "uikName": "УИК №317",
     "tikTvd": "25820001472058",
-    "tikName": "Бековская"
+    "tikName": "Бековская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 318,
     "uikTvd": "4584003427378",
+    "uikName": "УИК №318",
     "tikTvd": "25820001472058",
-    "tikName": "Бековская"
+    "tikName": "Бековская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 319,
     "uikTvd": "4584003427379",
+    "uikName": "УИК №319",
     "tikTvd": "25820001472058",
-    "tikName": "Бековская"
+    "tikName": "Бековская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 320,
     "uikTvd": "4584003427380",
+    "uikName": "УИК №320",
     "tikTvd": "25820001472058",
-    "tikName": "Бековская"
+    "tikName": "Бековская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 321,
     "uikTvd": "4584003427381",
+    "uikName": "УИК №321",
     "tikTvd": "25820001472058",
-    "tikName": "Бековская"
+    "tikName": "Бековская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 322,
     "uikTvd": "4584003427382",
+    "uikName": "УИК №322",
     "tikTvd": "25820001472058",
-    "tikName": "Бековская"
+    "tikName": "Бековская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 323,
     "uikTvd": "4584003427383",
+    "uikName": "УИК №323",
     "tikTvd": "25820001472058",
-    "tikName": "Бековская"
+    "tikName": "Бековская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 324,
     "uikTvd": "4584003427384",
+    "uikName": "УИК №324",
     "tikTvd": "25820001472058",
-    "tikName": "Бековская"
+    "tikName": "Бековская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 325,
     "uikTvd": "4584003427385",
+    "uikName": "УИК №325",
     "tikTvd": "25820001472058",
-    "tikName": "Бековская"
+    "tikName": "Бековская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 326,
     "uikTvd": "4584003427386",
+    "uikName": "УИК №326",
     "tikTvd": "25820001472058",
-    "tikName": "Бековская"
+    "tikName": "Бековская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 327,
     "uikTvd": "4584003427387",
+    "uikName": "УИК №327",
     "tikTvd": "25820001472058",
-    "tikName": "Бековская"
+    "tikName": "Бековская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 328,
     "uikTvd": "4584003427388",
+    "uikName": "УИК №328",
     "tikTvd": "25820001472058",
-    "tikName": "Бековская"
+    "tikName": "Бековская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 329,
     "uikTvd": "4584003427389",
+    "uikName": "УИК №329",
     "tikTvd": "25820001472058",
-    "tikName": "Бековская"
+    "tikName": "Бековская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 330,
     "uikTvd": "4584003427390",
+    "uikName": "УИК №330",
     "tikTvd": "25820001472058",
-    "tikName": "Бековская"
+    "tikName": "Бековская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 331,
     "uikTvd": "4584003427391",
+    "uikName": "УИК №331",
     "tikTvd": "25820001472058",
-    "tikName": "Бековская"
+    "tikName": "Бековская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 332,
     "uikTvd": "4584004459068",
+    "uikName": "УИК №332",
     "tikTvd": "25820001472057",
-    "tikName": "Белинская"
+    "tikName": "Белинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 333,
     "uikTvd": "4584004459069",
+    "uikName": "УИК №333",
     "tikTvd": "25820001472057",
-    "tikName": "Белинская"
+    "tikName": "Белинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 334,
     "uikTvd": "4584004459070",
+    "uikName": "УИК №334",
     "tikTvd": "25820001472057",
-    "tikName": "Белинская"
+    "tikName": "Белинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 335,
     "uikTvd": "4584004459071",
+    "uikName": "УИК №335",
     "tikTvd": "25820001472057",
-    "tikName": "Белинская"
+    "tikName": "Белинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 336,
     "uikTvd": "4584004459072",
+    "uikName": "УИК №336",
     "tikTvd": "25820001472057",
-    "tikName": "Белинская"
+    "tikName": "Белинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 337,
     "uikTvd": "4584004459073",
+    "uikName": "УИК №337",
     "tikTvd": "25820001472057",
-    "tikName": "Белинская"
+    "tikName": "Белинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 338,
     "uikTvd": "4584004459074",
+    "uikName": "УИК №338",
     "tikTvd": "25820001472057",
-    "tikName": "Белинская"
+    "tikName": "Белинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 339,
     "uikTvd": "4584004459075",
+    "uikName": "УИК №339",
     "tikTvd": "25820001472057",
-    "tikName": "Белинская"
+    "tikName": "Белинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 340,
     "uikTvd": "4584004459076",
+    "uikName": "УИК №340",
     "tikTvd": "25820001472057",
-    "tikName": "Белинская"
+    "tikName": "Белинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 341,
     "uikTvd": "4584004459077",
+    "uikName": "УИК №341",
     "tikTvd": "25820001472057",
-    "tikName": "Белинская"
+    "tikName": "Белинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 342,
     "uikTvd": "4584004459078",
+    "uikName": "УИК №342",
     "tikTvd": "25820001472057",
-    "tikName": "Белинская"
+    "tikName": "Белинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 343,
     "uikTvd": "4584004459079",
+    "uikName": "УИК №343",
     "tikTvd": "25820001472057",
-    "tikName": "Белинская"
+    "tikName": "Белинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 344,
     "uikTvd": "4584004459080",
+    "uikName": "УИК №344",
     "tikTvd": "25820001472057",
-    "tikName": "Белинская"
+    "tikName": "Белинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 345,
     "uikTvd": "4584004459081",
+    "uikName": "УИК №345",
     "tikTvd": "25820001472057",
-    "tikName": "Белинская"
+    "tikName": "Белинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 346,
     "uikTvd": "4584004459082",
+    "uikName": "УИК №346",
     "tikTvd": "25820001472057",
-    "tikName": "Белинская"
+    "tikName": "Белинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 347,
     "uikTvd": "4584004459083",
+    "uikName": "УИК №347",
     "tikTvd": "25820001472057",
-    "tikName": "Белинская"
+    "tikName": "Белинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 348,
     "uikTvd": "4584004459084",
+    "uikName": "УИК №348",
     "tikTvd": "25820001472057",
-    "tikName": "Белинская"
+    "tikName": "Белинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 349,
     "uikTvd": "4584004459085",
+    "uikName": "УИК №349",
     "tikTvd": "25820001472057",
-    "tikName": "Белинская"
+    "tikName": "Белинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 350,
     "uikTvd": "4584004459086",
+    "uikName": "УИК №350",
     "tikTvd": "25820001472057",
-    "tikName": "Белинская"
+    "tikName": "Белинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 351,
     "uikTvd": "4584004459087",
+    "uikName": "УИК №351",
     "tikTvd": "25820001472057",
-    "tikName": "Белинская"
+    "tikName": "Белинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 352,
     "uikTvd": "4584004459088",
+    "uikName": "УИК №352",
     "tikTvd": "25820001472057",
-    "tikName": "Белинская"
+    "tikName": "Белинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 353,
     "uikTvd": "4584004459089",
+    "uikName": "УИК №353",
     "tikTvd": "25820001472057",
-    "tikName": "Белинская"
+    "tikName": "Белинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 354,
     "uikTvd": "4584004459090",
+    "uikName": "УИК №354",
     "tikTvd": "25820001472057",
-    "tikName": "Белинская"
+    "tikName": "Белинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 355,
     "uikTvd": "4584004459091",
+    "uikName": "УИК №355",
     "tikTvd": "25820001472057",
-    "tikName": "Белинская"
+    "tikName": "Белинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 356,
     "uikTvd": "4584004459092",
+    "uikName": "УИК №356",
     "tikTvd": "25820001472057",
-    "tikName": "Белинская"
+    "tikName": "Белинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 357,
     "uikTvd": "4584004459093",
+    "uikName": "УИК №357",
     "tikTvd": "25820001472057",
-    "tikName": "Белинская"
+    "tikName": "Белинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 358,
     "uikTvd": "4584004459094",
+    "uikName": "УИК №358",
     "tikTvd": "25820001472057",
-    "tikName": "Белинская"
+    "tikName": "Белинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 359,
     "uikTvd": "4584004459095",
+    "uikName": "УИК №359",
     "tikTvd": "25820001472057",
-    "tikName": "Белинская"
+    "tikName": "Белинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 360,
     "uikTvd": "4584004459096",
+    "uikName": "УИК №360",
     "tikTvd": "25820001472057",
-    "tikName": "Белинская"
+    "tikName": "Белинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 361,
     "uikTvd": "4584005322297",
+    "uikName": "УИК №361",
     "tikTvd": "25820001472056",
-    "tikName": "Бессоновская"
+    "tikName": "Бессоновская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 362,
     "uikTvd": "4584005322298",
+    "uikName": "УИК №362",
     "tikTvd": "25820001472056",
-    "tikName": "Бессоновская"
+    "tikName": "Бессоновская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 363,
     "uikTvd": "4584005322299",
+    "uikName": "УИК №363",
     "tikTvd": "25820001472056",
-    "tikName": "Бессоновская"
+    "tikName": "Бессоновская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 364,
     "uikTvd": "4584005322300",
+    "uikName": "УИК №364",
     "tikTvd": "25820001472056",
-    "tikName": "Бессоновская"
+    "tikName": "Бессоновская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 365,
     "uikTvd": "4584005322301",
+    "uikName": "УИК №365",
     "tikTvd": "25820001472056",
-    "tikName": "Бессоновская"
+    "tikName": "Бессоновская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 366,
     "uikTvd": "4584005322302",
+    "uikName": "УИК №366",
     "tikTvd": "25820001472056",
-    "tikName": "Бессоновская"
+    "tikName": "Бессоновская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 367,
     "uikTvd": "4584005322303",
+    "uikName": "УИК №367",
     "tikTvd": "25820001472056",
-    "tikName": "Бессоновская"
+    "tikName": "Бессоновская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 368,
     "uikTvd": "4584005322304",
+    "uikName": "УИК №368",
     "tikTvd": "25820001472056",
-    "tikName": "Бессоновская"
+    "tikName": "Бессоновская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 369,
     "uikTvd": "4584005322305",
+    "uikName": "УИК №369",
     "tikTvd": "25820001472056",
-    "tikName": "Бессоновская"
+    "tikName": "Бессоновская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 370,
     "uikTvd": "4584005322306",
+    "uikName": "УИК №370",
     "tikTvd": "25820001472056",
-    "tikName": "Бессоновская"
+    "tikName": "Бессоновская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 371,
     "uikTvd": "4584005322307",
+    "uikName": "УИК №371",
     "tikTvd": "25820001472056",
-    "tikName": "Бессоновская"
+    "tikName": "Бессоновская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 372,
     "uikTvd": "4584005322308",
+    "uikName": "УИК №372",
     "tikTvd": "25820001472056",
-    "tikName": "Бессоновская"
+    "tikName": "Бессоновская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 373,
     "uikTvd": "4584005322309",
+    "uikName": "УИК №373",
     "tikTvd": "25820001472056",
-    "tikName": "Бессоновская"
+    "tikName": "Бессоновская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 374,
     "uikTvd": "4584005322310",
+    "uikName": "УИК №374",
     "tikTvd": "25820001472056",
-    "tikName": "Бессоновская"
+    "tikName": "Бессоновская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 375,
     "uikTvd": "4584005322311",
+    "uikName": "УИК №375",
     "tikTvd": "25820001472056",
-    "tikName": "Бессоновская"
+    "tikName": "Бессоновская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 376,
     "uikTvd": "4584005322312",
+    "uikName": "УИК №376",
     "tikTvd": "25820001472056",
-    "tikName": "Бессоновская"
+    "tikName": "Бессоновская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 377,
     "uikTvd": "4584005322313",
+    "uikName": "УИК №377",
     "tikTvd": "25820001472056",
-    "tikName": "Бессоновская"
+    "tikName": "Бессоновская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 378,
     "uikTvd": "4584005322314",
+    "uikName": "УИК №378",
     "tikTvd": "25820001472056",
-    "tikName": "Бессоновская"
+    "tikName": "Бессоновская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 379,
     "uikTvd": "4584005322315",
+    "uikName": "УИК №379",
     "tikTvd": "25820001472056",
-    "tikName": "Бессоновская"
+    "tikName": "Бессоновская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 380,
     "uikTvd": "4584005322316",
+    "uikName": "УИК №380",
     "tikTvd": "25820001472056",
-    "tikName": "Бессоновская"
+    "tikName": "Бессоновская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 381,
     "uikTvd": "4584005322317",
+    "uikName": "УИК №381",
     "tikTvd": "25820001472056",
-    "tikName": "Бессоновская"
+    "tikName": "Бессоновская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 382,
     "uikTvd": "4584005322318",
+    "uikName": "УИК №382",
     "tikTvd": "25820001472056",
-    "tikName": "Бессоновская"
+    "tikName": "Бессоновская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 383,
     "uikTvd": "4584005322319",
+    "uikName": "УИК №383",
     "tikTvd": "25820001472056",
-    "tikName": "Бессоновская"
+    "tikName": "Бессоновская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 384,
     "uikTvd": "4584005322320",
+    "uikName": "УИК №384",
     "tikTvd": "25820001472056",
-    "tikName": "Бессоновская"
+    "tikName": "Бессоновская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 385,
     "uikTvd": "4584005322321",
+    "uikName": "УИК №385",
     "tikTvd": "25820001472056",
-    "tikName": "Бессоновская"
+    "tikName": "Бессоновская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 386,
     "uikTvd": "4584005322322",
+    "uikName": "УИК №386",
     "tikTvd": "25820001472056",
-    "tikName": "Бессоновская"
+    "tikName": "Бессоновская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 387,
     "uikTvd": "4584005322323",
+    "uikName": "УИК №387",
     "tikTvd": "25820001472056",
-    "tikName": "Бессоновская"
+    "tikName": "Бессоновская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 388,
     "uikTvd": "4584005322324",
+    "uikName": "УИК №388",
     "tikTvd": "25820001472056",
-    "tikName": "Бессоновская"
+    "tikName": "Бессоновская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 389,
     "uikTvd": "4584005322325",
+    "uikName": "УИК №389",
     "tikTvd": "25820001472056",
-    "tikName": "Бессоновская"
+    "tikName": "Бессоновская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 390,
     "uikTvd": "4584005322326",
+    "uikName": "УИК №390",
     "tikTvd": "25820001472056",
-    "tikName": "Бессоновская"
+    "tikName": "Бессоновская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 391,
     "uikTvd": "4584005322327",
+    "uikName": "УИК №391",
     "tikTvd": "25820001472056",
-    "tikName": "Бессоновская"
+    "tikName": "Бессоновская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 392,
     "uikTvd": "4584005322328",
+    "uikName": "УИК №392",
     "tikTvd": "25820001472056",
-    "tikName": "Бессоновская"
+    "tikName": "Бессоновская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 393,
     "uikTvd": "4584005322329",
+    "uikName": "УИК №393",
     "tikTvd": "25820001472056",
-    "tikName": "Бессоновская"
+    "tikName": "Бессоновская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 394,
     "uikTvd": "4584005322330",
+    "uikName": "УИК №394",
     "tikTvd": "25820001472056",
-    "tikName": "Бессоновская"
+    "tikName": "Бессоновская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 395,
     "uikTvd": "4584006282476",
+    "uikName": "УИК №395",
     "tikTvd": "25820001472055",
-    "tikName": "Вадинская"
+    "tikName": "Вадинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 396,
     "uikTvd": "4584006282477",
+    "uikName": "УИК №396",
     "tikTvd": "25820001472055",
-    "tikName": "Вадинская"
+    "tikName": "Вадинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 397,
     "uikTvd": "4584006282478",
+    "uikName": "УИК №397",
     "tikTvd": "25820001472055",
-    "tikName": "Вадинская"
+    "tikName": "Вадинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 398,
     "uikTvd": "4584006282479",
+    "uikName": "УИК №398",
     "tikTvd": "25820001472055",
-    "tikName": "Вадинская"
+    "tikName": "Вадинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 399,
     "uikTvd": "4584006282480",
+    "uikName": "УИК №399",
     "tikTvd": "25820001472055",
-    "tikName": "Вадинская"
+    "tikName": "Вадинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 400,
     "uikTvd": "4584006282481",
+    "uikName": "УИК №400",
     "tikTvd": "25820001472055",
-    "tikName": "Вадинская"
+    "tikName": "Вадинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 401,
     "uikTvd": "4584006282482",
+    "uikName": "УИК №401",
     "tikTvd": "25820001472055",
-    "tikName": "Вадинская"
+    "tikName": "Вадинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 402,
     "uikTvd": "4584006282483",
+    "uikName": "УИК №402",
     "tikTvd": "25820001472055",
-    "tikName": "Вадинская"
+    "tikName": "Вадинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 403,
     "uikTvd": "4584006282484",
+    "uikName": "УИК №403",
     "tikTvd": "25820001472055",
-    "tikName": "Вадинская"
+    "tikName": "Вадинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 404,
     "uikTvd": "4584006282485",
+    "uikName": "УИК №404",
     "tikTvd": "25820001472055",
-    "tikName": "Вадинская"
+    "tikName": "Вадинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 405,
     "uikTvd": "4584006282486",
+    "uikName": "УИК №405",
     "tikTvd": "25820001472055",
-    "tikName": "Вадинская"
+    "tikName": "Вадинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 406,
     "uikTvd": "4584006282487",
+    "uikName": "УИК №406",
     "tikTvd": "25820001472055",
-    "tikName": "Вадинская"
+    "tikName": "Вадинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 407,
     "uikTvd": "4584006282488",
+    "uikName": "УИК №407",
     "tikTvd": "25820001472055",
-    "tikName": "Вадинская"
+    "tikName": "Вадинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 408,
     "uikTvd": "4584006282489",
+    "uikName": "УИК №408",
     "tikTvd": "25820001472055",
-    "tikName": "Вадинская"
+    "tikName": "Вадинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 409,
     "uikTvd": "4584006282490",
+    "uikName": "УИК №409",
     "tikTvd": "25820001472055",
-    "tikName": "Вадинская"
+    "tikName": "Вадинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 410,
     "uikTvd": "4584006282491",
+    "uikName": "УИК №410",
     "tikTvd": "25820001472055",
-    "tikName": "Вадинская"
+    "tikName": "Вадинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 411,
     "uikTvd": "4584006282492",
+    "uikName": "УИК №411",
     "tikTvd": "25820001472055",
-    "tikName": "Вадинская"
+    "tikName": "Вадинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 412,
     "uikTvd": "4584006282493",
+    "uikName": "УИК №412",
     "tikTvd": "25820001472055",
-    "tikName": "Вадинская"
+    "tikName": "Вадинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 413,
     "uikTvd": "4584007386892",
+    "uikName": "УИК №413",
     "tikTvd": "25820001472054",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 414,
     "uikTvd": "4584007386893",
+    "uikName": "УИК №414",
     "tikTvd": "25820001472054",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 415,
     "uikTvd": "4584007386894",
+    "uikName": "УИК №415",
     "tikTvd": "25820001472054",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 416,
     "uikTvd": "4584007386895",
+    "uikName": "УИК №416",
     "tikTvd": "25820001472054",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 417,
     "uikTvd": "4584007386896",
+    "uikName": "УИК №417",
     "tikTvd": "25820001472054",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 418,
     "uikTvd": "4584007386897",
+    "uikName": "УИК №418",
     "tikTvd": "25820001472054",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 419,
     "uikTvd": "4584007386898",
+    "uikName": "УИК №419",
     "tikTvd": "25820001472054",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 420,
     "uikTvd": "4584007386899",
+    "uikName": "УИК №420",
     "tikTvd": "25820001472054",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 421,
     "uikTvd": "4584007386900",
+    "uikName": "УИК №421",
     "tikTvd": "25820001472054",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 422,
     "uikTvd": "4584007386901",
+    "uikName": "УИК №422",
     "tikTvd": "25820001472054",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 423,
     "uikTvd": "4584007386902",
+    "uikName": "УИК №423",
     "tikTvd": "25820001472054",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 424,
     "uikTvd": "4584007386903",
+    "uikName": "УИК №424",
     "tikTvd": "25820001472054",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 425,
     "uikTvd": "4584007386904",
+    "uikName": "УИК №425",
     "tikTvd": "25820001472054",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 426,
     "uikTvd": "4584007386905",
+    "uikName": "УИК №426",
     "tikTvd": "25820001472054",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 427,
     "uikTvd": "4584007386906",
+    "uikName": "УИК №427",
     "tikTvd": "25820001472054",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 428,
     "uikTvd": "4584007386907",
+    "uikName": "УИК №428",
     "tikTvd": "25820001472054",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 429,
     "uikTvd": "4584007386908",
+    "uikName": "УИК №429",
     "tikTvd": "25820001472054",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 430,
     "uikTvd": "4584007386909",
+    "uikName": "УИК №430",
     "tikTvd": "25820001472054",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 431,
     "uikTvd": "4584007386910",
+    "uikName": "УИК №431",
     "tikTvd": "25820001472054",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 432,
     "uikTvd": "4584007386911",
+    "uikName": "УИК №432",
     "tikTvd": "25820001472054",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 433,
     "uikTvd": "4584007386912",
+    "uikName": "УИК №433",
     "tikTvd": "25820001472054",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 434,
     "uikTvd": "4584007386913",
+    "uikName": "УИК №434",
     "tikTvd": "25820001472054",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 435,
     "uikTvd": "4584007386914",
+    "uikName": "УИК №435",
     "tikTvd": "25820001472054",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 436,
     "uikTvd": "4584007386915",
+    "uikName": "УИК №436",
     "tikTvd": "25820001472054",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 437,
     "uikTvd": "4584007386916",
+    "uikName": "УИК №437",
     "tikTvd": "25820001472054",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 438,
     "uikTvd": "4584007386917",
+    "uikName": "УИК №438",
     "tikTvd": "25820001472054",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 439,
     "uikTvd": "4584007386918",
+    "uikName": "УИК №439",
     "tikTvd": "25820001472054",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 440,
     "uikTvd": "4584007386919",
+    "uikName": "УИК №440",
     "tikTvd": "25820001472054",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 441,
     "uikTvd": "4584007386920",
+    "uikName": "УИК №441",
     "tikTvd": "25820001472054",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 442,
     "uikTvd": "4584007386921",
+    "uikName": "УИК №442",
     "tikTvd": "25820001472054",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 443,
     "uikTvd": "4584007386922",
+    "uikName": "УИК №443",
     "tikTvd": "25820001472054",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 444,
     "uikTvd": "4584007386923",
+    "uikName": "УИК №444",
     "tikTvd": "25820001472054",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 445,
     "uikTvd": "4584007386924",
+    "uikName": "УИК №445",
     "tikTvd": "25820001472054",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 446,
     "uikTvd": "4584007386925",
+    "uikName": "УИК №446",
     "tikTvd": "25820001472054",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 447,
     "uikTvd": "4584008438130",
+    "uikName": "УИК №447",
     "tikTvd": "25820001472053",
-    "tikName": "Земетчинская"
+    "tikName": "Земетчинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 448,
     "uikTvd": "4584008438131",
+    "uikName": "УИК №448",
     "tikTvd": "25820001472053",
-    "tikName": "Земетчинская"
+    "tikName": "Земетчинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 449,
     "uikTvd": "4584008438132",
+    "uikName": "УИК №449",
     "tikTvd": "25820001472053",
-    "tikName": "Земетчинская"
+    "tikName": "Земетчинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 450,
     "uikTvd": "4584008438133",
+    "uikName": "УИК №450",
     "tikTvd": "25820001472053",
-    "tikName": "Земетчинская"
+    "tikName": "Земетчинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 451,
     "uikTvd": "4584008438134",
+    "uikName": "УИК №451",
     "tikTvd": "25820001472053",
-    "tikName": "Земетчинская"
+    "tikName": "Земетчинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 452,
     "uikTvd": "4584008438135",
+    "uikName": "УИК №452",
     "tikTvd": "25820001472053",
-    "tikName": "Земетчинская"
+    "tikName": "Земетчинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 453,
     "uikTvd": "4584008438136",
+    "uikName": "УИК №453",
     "tikTvd": "25820001472053",
-    "tikName": "Земетчинская"
+    "tikName": "Земетчинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 454,
     "uikTvd": "4584008438137",
+    "uikName": "УИК №454",
     "tikTvd": "25820001472053",
-    "tikName": "Земетчинская"
+    "tikName": "Земетчинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 455,
     "uikTvd": "4584008438138",
+    "uikName": "УИК №455",
     "tikTvd": "25820001472053",
-    "tikName": "Земетчинская"
+    "tikName": "Земетчинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 456,
     "uikTvd": "4584008438139",
+    "uikName": "УИК №456",
     "tikTvd": "25820001472053",
-    "tikName": "Земетчинская"
+    "tikName": "Земетчинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 457,
     "uikTvd": "4584008438140",
+    "uikName": "УИК №457",
     "tikTvd": "25820001472053",
-    "tikName": "Земетчинская"
+    "tikName": "Земетчинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 458,
     "uikTvd": "4584008438141",
+    "uikName": "УИК №458",
     "tikTvd": "25820001472053",
-    "tikName": "Земетчинская"
+    "tikName": "Земетчинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 459,
     "uikTvd": "4584008438142",
+    "uikName": "УИК №459",
     "tikTvd": "25820001472053",
-    "tikName": "Земетчинская"
+    "tikName": "Земетчинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 460,
     "uikTvd": "4584008438143",
+    "uikName": "УИК №460",
     "tikTvd": "25820001472053",
-    "tikName": "Земетчинская"
+    "tikName": "Земетчинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 461,
     "uikTvd": "4584008438144",
+    "uikName": "УИК №461",
     "tikTvd": "25820001472053",
-    "tikName": "Земетчинская"
+    "tikName": "Земетчинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 462,
     "uikTvd": "4584008438145",
+    "uikName": "УИК №462",
     "tikTvd": "25820001472053",
-    "tikName": "Земетчинская"
+    "tikName": "Земетчинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 463,
     "uikTvd": "4584008438146",
+    "uikName": "УИК №463",
     "tikTvd": "25820001472053",
-    "tikName": "Земетчинская"
+    "tikName": "Земетчинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 464,
     "uikTvd": "4584008438147",
+    "uikName": "УИК №464",
     "tikTvd": "25820001472053",
-    "tikName": "Земетчинская"
+    "tikName": "Земетчинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 465,
     "uikTvd": "4584008438148",
+    "uikName": "УИК №465",
     "tikTvd": "25820001472053",
-    "tikName": "Земетчинская"
+    "tikName": "Земетчинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 466,
     "uikTvd": "4584008438149",
+    "uikName": "УИК №466",
     "tikTvd": "25820001472053",
-    "tikName": "Земетчинская"
+    "tikName": "Земетчинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 467,
     "uikTvd": "4584008438150",
+    "uikName": "УИК №467",
     "tikTvd": "25820001472053",
-    "tikName": "Земетчинская"
+    "tikName": "Земетчинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 468,
     "uikTvd": "4584009244255",
+    "uikName": "УИК №468",
     "tikTvd": "25820001472052",
-    "tikName": "Иссинская"
+    "tikName": "Иссинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 469,
     "uikTvd": "4584009244256",
+    "uikName": "УИК №469",
     "tikTvd": "25820001472052",
-    "tikName": "Иссинская"
+    "tikName": "Иссинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 470,
     "uikTvd": "4584009244257",
+    "uikName": "УИК №470",
     "tikTvd": "25820001472052",
-    "tikName": "Иссинская"
+    "tikName": "Иссинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 471,
     "uikTvd": "4584009244258",
+    "uikName": "УИК №471",
     "tikTvd": "25820001472052",
-    "tikName": "Иссинская"
+    "tikName": "Иссинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 472,
     "uikTvd": "4584009244259",
+    "uikName": "УИК №472",
     "tikTvd": "25820001472052",
-    "tikName": "Иссинская"
+    "tikName": "Иссинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 473,
     "uikTvd": "4584009244260",
+    "uikName": "УИК №473",
     "tikTvd": "25820001472052",
-    "tikName": "Иссинская"
+    "tikName": "Иссинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 474,
     "uikTvd": "4584009244261",
+    "uikName": "УИК №474",
     "tikTvd": "25820001472052",
-    "tikName": "Иссинская"
+    "tikName": "Иссинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 475,
     "uikTvd": "4584009244262",
+    "uikName": "УИК №475",
     "tikTvd": "25820001472052",
-    "tikName": "Иссинская"
+    "tikName": "Иссинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 476,
     "uikTvd": "4584009244263",
+    "uikName": "УИК №476",
     "tikTvd": "25820001472052",
-    "tikName": "Иссинская"
+    "tikName": "Иссинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 477,
     "uikTvd": "4584009244264",
+    "uikName": "УИК №477",
     "tikTvd": "25820001472052",
-    "tikName": "Иссинская"
+    "tikName": "Иссинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 478,
     "uikTvd": "4584009244265",
+    "uikName": "УИК №478",
     "tikTvd": "25820001472052",
-    "tikName": "Иссинская"
+    "tikName": "Иссинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 479,
     "uikTvd": "4584009244266",
+    "uikName": "УИК №479",
     "tikTvd": "25820001472052",
-    "tikName": "Иссинская"
+    "tikName": "Иссинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 480,
     "uikTvd": "4584009244267",
+    "uikName": "УИК №480",
     "tikTvd": "25820001472052",
-    "tikName": "Иссинская"
+    "tikName": "Иссинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 481,
     "uikTvd": "4584009244268",
+    "uikName": "УИК №481",
     "tikTvd": "25820001472052",
-    "tikName": "Иссинская"
+    "tikName": "Иссинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 482,
     "uikTvd": "4584009244269",
+    "uikName": "УИК №482",
     "tikTvd": "25820001472052",
-    "tikName": "Иссинская"
+    "tikName": "Иссинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 483,
     "uikTvd": "4584010326682",
+    "uikName": "УИК №483",
     "tikTvd": "25820001472051",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 484,
     "uikTvd": "4584010326683",
+    "uikName": "УИК №484",
     "tikTvd": "25820001472051",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 485,
     "uikTvd": "4584010326684",
+    "uikName": "УИК №485",
     "tikTvd": "25820001472051",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 486,
     "uikTvd": "4584010326685",
+    "uikName": "УИК №486",
     "tikTvd": "25820001472051",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 487,
     "uikTvd": "4584010326686",
+    "uikName": "УИК №487",
     "tikTvd": "25820001472051",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 488,
     "uikTvd": "4584010326687",
+    "uikName": "УИК №488",
     "tikTvd": "25820001472051",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 489,
     "uikTvd": "4584010326688",
+    "uikName": "УИК №489",
     "tikTvd": "25820001472051",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 490,
     "uikTvd": "4584010326689",
+    "uikName": "УИК №490",
     "tikTvd": "25820001472051",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 491,
     "uikTvd": "4584010326690",
+    "uikName": "УИК №491",
     "tikTvd": "25820001472051",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 492,
     "uikTvd": "4584010326691",
+    "uikName": "УИК №492",
     "tikTvd": "25820001472051",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 493,
     "uikTvd": "4584010326692",
+    "uikName": "УИК №493",
     "tikTvd": "25820001472051",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 494,
     "uikTvd": "4584010326693",
+    "uikName": "УИК №494",
     "tikTvd": "25820001472051",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 495,
     "uikTvd": "4584010326694",
+    "uikName": "УИК №495",
     "tikTvd": "25820001472051",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 496,
     "uikTvd": "4584010326695",
+    "uikName": "УИК №496",
     "tikTvd": "25820001472051",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 497,
     "uikTvd": "4584010326696",
+    "uikName": "УИК №497",
     "tikTvd": "25820001472051",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 498,
     "uikTvd": "4584010326697",
+    "uikName": "УИК №498",
     "tikTvd": "25820001472051",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 499,
     "uikTvd": "4584010326698",
+    "uikName": "УИК №499",
     "tikTvd": "25820001472051",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 500,
     "uikTvd": "4584010326699",
+    "uikName": "УИК №500",
     "tikTvd": "25820001472051",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 501,
     "uikTvd": "4584010326700",
+    "uikName": "УИК №501",
     "tikTvd": "25820001472051",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 502,
     "uikTvd": "4584010326701",
+    "uikName": "УИК №502",
     "tikTvd": "25820001472051",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 503,
     "uikTvd": "4584010326702",
+    "uikName": "УИК №503",
     "tikTvd": "25820001472051",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 504,
     "uikTvd": "4584010326703",
+    "uikName": "УИК №504",
     "tikTvd": "25820001472051",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 505,
     "uikTvd": "4584010326704",
+    "uikName": "УИК №505",
     "tikTvd": "25820001472051",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 506,
     "uikTvd": "4584010326705",
+    "uikName": "УИК №506",
     "tikTvd": "25820001472051",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 507,
     "uikTvd": "4584010326706",
+    "uikName": "УИК №507",
     "tikTvd": "25820001472051",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 508,
     "uikTvd": "4584010326707",
+    "uikName": "УИК №508",
     "tikTvd": "25820001472051",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 509,
     "uikTvd": "4584010326708",
+    "uikName": "УИК №509",
     "tikTvd": "25820001472051",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 510,
     "uikTvd": "4584010326709",
+    "uikName": "УИК №510",
     "tikTvd": "25820001472051",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 511,
     "uikTvd": "4584010326710",
+    "uikName": "УИК №511",
     "tikTvd": "25820001472051",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 512,
     "uikTvd": "4584010326711",
+    "uikName": "УИК №512",
     "tikTvd": "25820001472051",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 513,
     "uikTvd": "4584010326712",
+    "uikName": "УИК №513",
     "tikTvd": "25820001472051",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 514,
     "uikTvd": "4584010326713",
+    "uikName": "УИК №514",
     "tikTvd": "25820001472051",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 515,
     "uikTvd": "4584010326714",
+    "uikName": "УИК №515",
     "tikTvd": "25820001472051",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 516,
     "uikTvd": "4584010326715",
+    "uikName": "УИК №516",
     "tikTvd": "25820001472051",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 517,
     "uikTvd": "4584010326716",
+    "uikName": "УИК №517",
     "tikTvd": "25820001472051",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 518,
     "uikTvd": "4584010326717",
+    "uikName": "УИК №518",
     "tikTvd": "25820001472051",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 519,
     "uikTvd": "4584010326718",
+    "uikName": "УИК №519",
     "tikTvd": "25820001472051",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 520,
     "uikTvd": "4584010326719",
+    "uikName": "УИК №520",
     "tikTvd": "25820001472051",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 521,
     "uikTvd": "4584010326720",
+    "uikName": "УИК №521",
     "tikTvd": "25820001472051",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 522,
     "uikTvd": "4584010326721",
+    "uikName": "УИК №522",
     "tikTvd": "25820001472051",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 523,
     "uikTvd": "4584010326722",
+    "uikName": "УИК №523",
     "tikTvd": "25820001472051",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 524,
     "uikTvd": "4584010326723",
+    "uikName": "УИК №524",
     "tikTvd": "25820001472051",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 525,
     "uikTvd": "4584010326724",
+    "uikName": "УИК №525",
     "tikTvd": "25820001472051",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 526,
     "uikTvd": "4584010326725",
+    "uikName": "УИК №526",
     "tikTvd": "25820001472051",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 527,
     "uikTvd": "4584011427318",
+    "uikName": "УИК №527",
     "tikTvd": "25820001472050",
-    "tikName": "Камешкирская"
+    "tikName": "Камешкирская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 528,
     "uikTvd": "4584011427319",
+    "uikName": "УИК №528",
     "tikTvd": "25820001472050",
-    "tikName": "Камешкирская"
+    "tikName": "Камешкирская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 529,
     "uikTvd": "4584011427320",
+    "uikName": "УИК №529",
     "tikTvd": "25820001472050",
-    "tikName": "Камешкирская"
+    "tikName": "Камешкирская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 530,
     "uikTvd": "4584011427321",
+    "uikName": "УИК №530",
     "tikTvd": "25820001472050",
-    "tikName": "Камешкирская"
+    "tikName": "Камешкирская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 531,
     "uikTvd": "4584011427322",
+    "uikName": "УИК №531",
     "tikTvd": "25820001472050",
-    "tikName": "Камешкирская"
+    "tikName": "Камешкирская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 532,
     "uikTvd": "4584011427323",
+    "uikName": "УИК №532",
     "tikTvd": "25820001472050",
-    "tikName": "Камешкирская"
+    "tikName": "Камешкирская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 533,
     "uikTvd": "4584011427324",
+    "uikName": "УИК №533",
     "tikTvd": "25820001472050",
-    "tikName": "Камешкирская"
+    "tikName": "Камешкирская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 534,
     "uikTvd": "4584011427325",
+    "uikName": "УИК №534",
     "tikTvd": "25820001472050",
-    "tikName": "Камешкирская"
+    "tikName": "Камешкирская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 535,
     "uikTvd": "4584011427326",
+    "uikName": "УИК №535",
     "tikTvd": "25820001472050",
-    "tikName": "Камешкирская"
+    "tikName": "Камешкирская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 536,
     "uikTvd": "4584011427327",
+    "uikName": "УИК №536",
     "tikTvd": "25820001472050",
-    "tikName": "Камешкирская"
+    "tikName": "Камешкирская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 537,
     "uikTvd": "4584011427328",
+    "uikName": "УИК №537",
     "tikTvd": "25820001472050",
-    "tikName": "Камешкирская"
+    "tikName": "Камешкирская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 538,
     "uikTvd": "4584011427329",
+    "uikName": "УИК №538",
     "tikTvd": "25820001472050",
-    "tikName": "Камешкирская"
+    "tikName": "Камешкирская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 539,
     "uikTvd": "4584011427330",
+    "uikName": "УИК №539",
     "tikTvd": "25820001472050",
-    "tikName": "Камешкирская"
+    "tikName": "Камешкирская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 540,
     "uikTvd": "4584012330946",
+    "uikName": "УИК №540",
     "tikTvd": "25820001472049",
-    "tikName": "Колышлейская"
+    "tikName": "Колышлейская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 541,
     "uikTvd": "4584012330947",
+    "uikName": "УИК №541",
     "tikTvd": "25820001472049",
-    "tikName": "Колышлейская"
+    "tikName": "Колышлейская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 542,
     "uikTvd": "4584012330948",
+    "uikName": "УИК №542",
     "tikTvd": "25820001472049",
-    "tikName": "Колышлейская"
+    "tikName": "Колышлейская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 543,
     "uikTvd": "4584012330949",
+    "uikName": "УИК №543",
     "tikTvd": "25820001472049",
-    "tikName": "Колышлейская"
+    "tikName": "Колышлейская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 544,
     "uikTvd": "4584012330950",
+    "uikName": "УИК №544",
     "tikTvd": "25820001472049",
-    "tikName": "Колышлейская"
+    "tikName": "Колышлейская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 545,
     "uikTvd": "4584012330951",
+    "uikName": "УИК №545",
     "tikTvd": "25820001472049",
-    "tikName": "Колышлейская"
+    "tikName": "Колышлейская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 546,
     "uikTvd": "4584012330952",
+    "uikName": "УИК №546",
     "tikTvd": "25820001472049",
-    "tikName": "Колышлейская"
+    "tikName": "Колышлейская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 547,
     "uikTvd": "4584012330953",
+    "uikName": "УИК №547",
     "tikTvd": "25820001472049",
-    "tikName": "Колышлейская"
+    "tikName": "Колышлейская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 548,
     "uikTvd": "4584012330954",
+    "uikName": "УИК №548",
     "tikTvd": "25820001472049",
-    "tikName": "Колышлейская"
+    "tikName": "Колышлейская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 549,
     "uikTvd": "4584012330955",
+    "uikName": "УИК №549",
     "tikTvd": "25820001472049",
-    "tikName": "Колышлейская"
+    "tikName": "Колышлейская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 550,
     "uikTvd": "4584012330956",
+    "uikName": "УИК №550",
     "tikTvd": "25820001472049",
-    "tikName": "Колышлейская"
+    "tikName": "Колышлейская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 551,
     "uikTvd": "4584012330957",
+    "uikName": "УИК №551",
     "tikTvd": "25820001472049",
-    "tikName": "Колышлейская"
+    "tikName": "Колышлейская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 552,
     "uikTvd": "4584012330958",
+    "uikName": "УИК №552",
     "tikTvd": "25820001472049",
-    "tikName": "Колышлейская"
+    "tikName": "Колышлейская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 553,
     "uikTvd": "4584012330959",
+    "uikName": "УИК №553",
     "tikTvd": "25820001472049",
-    "tikName": "Колышлейская"
+    "tikName": "Колышлейская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 554,
     "uikTvd": "4584012330960",
+    "uikName": "УИК №554",
     "tikTvd": "25820001472049",
-    "tikName": "Колышлейская"
+    "tikName": "Колышлейская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 555,
     "uikTvd": "4584012330961",
+    "uikName": "УИК №555",
     "tikTvd": "25820001472049",
-    "tikName": "Колышлейская"
+    "tikName": "Колышлейская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 556,
     "uikTvd": "4584012330962",
+    "uikName": "УИК №556",
     "tikTvd": "25820001472049",
-    "tikName": "Колышлейская"
+    "tikName": "Колышлейская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 557,
     "uikTvd": "4584012330963",
+    "uikName": "УИК №557",
     "tikTvd": "25820001472049",
-    "tikName": "Колышлейская"
+    "tikName": "Колышлейская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 558,
     "uikTvd": "4584012330964",
+    "uikName": "УИК №558",
     "tikTvd": "25820001472049",
-    "tikName": "Колышлейская"
+    "tikName": "Колышлейская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 559,
     "uikTvd": "4584012330965",
+    "uikName": "УИК №559",
     "tikTvd": "25820001472049",
-    "tikName": "Колышлейская"
+    "tikName": "Колышлейская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 560,
     "uikTvd": "4584012330966",
+    "uikName": "УИК №560",
     "tikTvd": "25820001472049",
-    "tikName": "Колышлейская"
+    "tikName": "Колышлейская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 561,
     "uikTvd": "4584012330967",
+    "uikName": "УИК №561",
     "tikTvd": "25820001472049",
-    "tikName": "Колышлейская"
+    "tikName": "Колышлейская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 562,
     "uikTvd": "4584012330968",
+    "uikName": "УИК №562",
     "tikTvd": "25820001472049",
-    "tikName": "Колышлейская"
+    "tikName": "Колышлейская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 563,
     "uikTvd": "4584012330969",
+    "uikName": "УИК №563",
     "tikTvd": "25820001472049",
-    "tikName": "Колышлейская"
+    "tikName": "Колышлейская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 564,
     "uikTvd": "4584012330970",
+    "uikName": "УИК №564",
     "tikTvd": "25820001472049",
-    "tikName": "Колышлейская"
+    "tikName": "Колышлейская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 565,
     "uikTvd": "4584035325675",
+    "uikName": "УИК №565",
     "tikTvd": "25820001472048",
-    "tikName": "Кузнецкая"
+    "tikName": "Кузнецкая",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 566,
     "uikTvd": "4584035325676",
+    "uikName": "УИК №566",
     "tikTvd": "25820001472048",
-    "tikName": "Кузнецкая"
+    "tikName": "Кузнецкая",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 567,
     "uikTvd": "4584035325677",
+    "uikName": "УИК №567",
     "tikTvd": "25820001472048",
-    "tikName": "Кузнецкая"
+    "tikName": "Кузнецкая",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 568,
     "uikTvd": "4584035325678",
+    "uikName": "УИК №568",
     "tikTvd": "25820001472048",
-    "tikName": "Кузнецкая"
+    "tikName": "Кузнецкая",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 569,
     "uikTvd": "4584035325679",
+    "uikName": "УИК №569",
     "tikTvd": "25820001472048",
-    "tikName": "Кузнецкая"
+    "tikName": "Кузнецкая",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 570,
     "uikTvd": "4584035325680",
+    "uikName": "УИК №570",
     "tikTvd": "25820001472048",
-    "tikName": "Кузнецкая"
+    "tikName": "Кузнецкая",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 571,
     "uikTvd": "4584035325681",
+    "uikName": "УИК №571",
     "tikTvd": "25820001472048",
-    "tikName": "Кузнецкая"
+    "tikName": "Кузнецкая",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 572,
     "uikTvd": "4584035325682",
+    "uikName": "УИК №572",
     "tikTvd": "25820001472048",
-    "tikName": "Кузнецкая"
+    "tikName": "Кузнецкая",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 573,
     "uikTvd": "4584035325683",
+    "uikName": "УИК №573",
     "tikTvd": "25820001472048",
-    "tikName": "Кузнецкая"
+    "tikName": "Кузнецкая",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 574,
     "uikTvd": "4584035325684",
+    "uikName": "УИК №574",
     "tikTvd": "25820001472048",
-    "tikName": "Кузнецкая"
+    "tikName": "Кузнецкая",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 575,
     "uikTvd": "4584035325685",
+    "uikName": "УИК №575",
     "tikTvd": "25820001472048",
-    "tikName": "Кузнецкая"
+    "tikName": "Кузнецкая",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 576,
     "uikTvd": "4584035325686",
+    "uikName": "УИК №576",
     "tikTvd": "25820001472048",
-    "tikName": "Кузнецкая"
+    "tikName": "Кузнецкая",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 577,
     "uikTvd": "4584035325687",
+    "uikName": "УИК №577",
     "tikTvd": "25820001472048",
-    "tikName": "Кузнецкая"
+    "tikName": "Кузнецкая",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 578,
     "uikTvd": "4584035325688",
+    "uikName": "УИК №578",
     "tikTvd": "25820001472048",
-    "tikName": "Кузнецкая"
+    "tikName": "Кузнецкая",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 579,
     "uikTvd": "4584035325689",
+    "uikName": "УИК №579",
     "tikTvd": "25820001472048",
-    "tikName": "Кузнецкая"
+    "tikName": "Кузнецкая",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 580,
     "uikTvd": "4584035325690",
+    "uikName": "УИК №580",
     "tikTvd": "25820001472048",
-    "tikName": "Кузнецкая"
+    "tikName": "Кузнецкая",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 581,
     "uikTvd": "4584035325691",
+    "uikName": "УИК №581",
     "tikTvd": "25820001472048",
-    "tikName": "Кузнецкая"
+    "tikName": "Кузнецкая",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 582,
     "uikTvd": "4584035325692",
+    "uikName": "УИК №582",
     "tikTvd": "25820001472048",
-    "tikName": "Кузнецкая"
+    "tikName": "Кузнецкая",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 583,
     "uikTvd": "4584035325693",
+    "uikName": "УИК №583",
     "tikTvd": "25820001472048",
-    "tikName": "Кузнецкая"
+    "tikName": "Кузнецкая",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 584,
     "uikTvd": "4584035325694",
+    "uikName": "УИК №584",
     "tikTvd": "25820001472048",
-    "tikName": "Кузнецкая"
+    "tikName": "Кузнецкая",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 585,
     "uikTvd": "4584035325695",
+    "uikName": "УИК №585",
     "tikTvd": "25820001472048",
-    "tikName": "Кузнецкая"
+    "tikName": "Кузнецкая",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 586,
     "uikTvd": "4584035325696",
+    "uikName": "УИК №586",
     "tikTvd": "25820001472048",
-    "tikName": "Кузнецкая"
+    "tikName": "Кузнецкая",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 587,
     "uikTvd": "4584035325697",
+    "uikName": "УИК №587",
     "tikTvd": "25820001472048",
-    "tikName": "Кузнецкая"
+    "tikName": "Кузнецкая",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 588,
     "uikTvd": "4584035325698",
+    "uikName": "УИК №588",
     "tikTvd": "25820001472048",
-    "tikName": "Кузнецкая"
+    "tikName": "Кузнецкая",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 589,
     "uikTvd": "4584035325699",
+    "uikName": "УИК №589",
     "tikTvd": "25820001472048",
-    "tikName": "Кузнецкая"
+    "tikName": "Кузнецкая",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 590,
     "uikTvd": "4584035325700",
+    "uikName": "УИК №590",
     "tikTvd": "25820001472048",
-    "tikName": "Кузнецкая"
+    "tikName": "Кузнецкая",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 591,
     "uikTvd": "4584035325701",
+    "uikName": "УИК №591",
     "tikTvd": "25820001472048",
-    "tikName": "Кузнецкая"
+    "tikName": "Кузнецкая",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 592,
     "uikTvd": "4584035325702",
+    "uikName": "УИК №592",
     "tikTvd": "25820001472048",
-    "tikName": "Кузнецкая"
+    "tikName": "Кузнецкая",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 593,
     "uikTvd": "4584035325703",
+    "uikName": "УИК №593",
     "tikTvd": "25820001472048",
-    "tikName": "Кузнецкая"
+    "tikName": "Кузнецкая",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 594,
     "uikTvd": "4584035325704",
+    "uikName": "УИК №594",
     "tikTvd": "25820001472048",
-    "tikName": "Кузнецкая"
+    "tikName": "Кузнецкая",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 595,
     "uikTvd": "4584015350430",
+    "uikName": "УИК №595",
     "tikTvd": "25820001472047",
-    "tikName": "Лопатинская"
+    "tikName": "Лопатинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 596,
     "uikTvd": "4584015350431",
+    "uikName": "УИК №596",
     "tikTvd": "25820001472047",
-    "tikName": "Лопатинская"
+    "tikName": "Лопатинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 597,
     "uikTvd": "4584015350432",
+    "uikName": "УИК №597",
     "tikTvd": "25820001472047",
-    "tikName": "Лопатинская"
+    "tikName": "Лопатинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 598,
     "uikTvd": "4584015350433",
+    "uikName": "УИК №598",
     "tikTvd": "25820001472047",
-    "tikName": "Лопатинская"
+    "tikName": "Лопатинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 599,
     "uikTvd": "4584015350434",
+    "uikName": "УИК №599",
     "tikTvd": "25820001472047",
-    "tikName": "Лопатинская"
+    "tikName": "Лопатинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 600,
     "uikTvd": "4584015350435",
+    "uikName": "УИК №600",
     "tikTvd": "25820001472047",
-    "tikName": "Лопатинская"
+    "tikName": "Лопатинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 601,
     "uikTvd": "4584015350436",
+    "uikName": "УИК №601",
     "tikTvd": "25820001472047",
-    "tikName": "Лопатинская"
+    "tikName": "Лопатинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 602,
     "uikTvd": "4584015350437",
+    "uikName": "УИК №602",
     "tikTvd": "25820001472047",
-    "tikName": "Лопатинская"
+    "tikName": "Лопатинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 603,
     "uikTvd": "4584015350438",
+    "uikName": "УИК №603",
     "tikTvd": "25820001472047",
-    "tikName": "Лопатинская"
+    "tikName": "Лопатинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 604,
     "uikTvd": "4584015350439",
+    "uikName": "УИК №604",
     "tikTvd": "25820001472047",
-    "tikName": "Лопатинская"
+    "tikName": "Лопатинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 605,
     "uikTvd": "4584015350440",
+    "uikName": "УИК №605",
     "tikTvd": "25820001472047",
-    "tikName": "Лопатинская"
+    "tikName": "Лопатинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 606,
     "uikTvd": "4584015350441",
+    "uikName": "УИК №606",
     "tikTvd": "25820001472047",
-    "tikName": "Лопатинская"
+    "tikName": "Лопатинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 607,
     "uikTvd": "4584015350442",
+    "uikName": "УИК №607",
     "tikTvd": "25820001472047",
-    "tikName": "Лопатинская"
+    "tikName": "Лопатинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 608,
     "uikTvd": "4584015350443",
+    "uikName": "УИК №608",
     "tikTvd": "25820001472047",
-    "tikName": "Лопатинская"
+    "tikName": "Лопатинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 609,
     "uikTvd": "4584015350444",
+    "uikName": "УИК №609",
     "tikTvd": "25820001472047",
-    "tikName": "Лопатинская"
+    "tikName": "Лопатинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 610,
     "uikTvd": "4584015350445",
+    "uikName": "УИК №610",
     "tikTvd": "25820001472047",
-    "tikName": "Лопатинская"
+    "tikName": "Лопатинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 611,
     "uikTvd": "4584015350446",
+    "uikName": "УИК №611",
     "tikTvd": "25820001472047",
-    "tikName": "Лопатинская"
+    "tikName": "Лопатинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 612,
     "uikTvd": "4584015350447",
+    "uikName": "УИК №612",
     "tikTvd": "25820001472047",
-    "tikName": "Лопатинская"
+    "tikName": "Лопатинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 613,
     "uikTvd": "4584015350448",
+    "uikName": "УИК №613",
     "tikTvd": "25820001472047",
-    "tikName": "Лопатинская"
+    "tikName": "Лопатинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 614,
     "uikTvd": "4584015350449",
+    "uikName": "УИК №614",
     "tikTvd": "25820001472047",
-    "tikName": "Лопатинская"
+    "tikName": "Лопатинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 615,
     "uikTvd": "4584016321497",
+    "uikName": "УИК №615",
     "tikTvd": "25820001472046",
-    "tikName": "Лунинская"
+    "tikName": "Лунинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 616,
     "uikTvd": "4584016321498",
+    "uikName": "УИК №616",
     "tikTvd": "25820001472046",
-    "tikName": "Лунинская"
+    "tikName": "Лунинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 617,
     "uikTvd": "4584016321499",
+    "uikName": "УИК №617",
     "tikTvd": "25820001472046",
-    "tikName": "Лунинская"
+    "tikName": "Лунинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 618,
     "uikTvd": "4584016321500",
+    "uikName": "УИК №618",
     "tikTvd": "25820001472046",
-    "tikName": "Лунинская"
+    "tikName": "Лунинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 619,
     "uikTvd": "4584016321501",
+    "uikName": "УИК №619",
     "tikTvd": "25820001472046",
-    "tikName": "Лунинская"
+    "tikName": "Лунинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 620,
     "uikTvd": "4584016321502",
+    "uikName": "УИК №620",
     "tikTvd": "25820001472046",
-    "tikName": "Лунинская"
+    "tikName": "Лунинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 621,
     "uikTvd": "4584016321503",
+    "uikName": "УИК №621",
     "tikTvd": "25820001472046",
-    "tikName": "Лунинская"
+    "tikName": "Лунинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 622,
     "uikTvd": "4584016321504",
+    "uikName": "УИК №622",
     "tikTvd": "25820001472046",
-    "tikName": "Лунинская"
+    "tikName": "Лунинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 623,
     "uikTvd": "4584016321505",
+    "uikName": "УИК №623",
     "tikTvd": "25820001472046",
-    "tikName": "Лунинская"
+    "tikName": "Лунинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 624,
     "uikTvd": "4584016321506",
+    "uikName": "УИК №624",
     "tikTvd": "25820001472046",
-    "tikName": "Лунинская"
+    "tikName": "Лунинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 625,
     "uikTvd": "4584016321507",
+    "uikName": "УИК №625",
     "tikTvd": "25820001472046",
-    "tikName": "Лунинская"
+    "tikName": "Лунинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 626,
     "uikTvd": "4584016321508",
+    "uikName": "УИК №626",
     "tikTvd": "25820001472046",
-    "tikName": "Лунинская"
+    "tikName": "Лунинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 627,
     "uikTvd": "4584016321509",
+    "uikName": "УИК №627",
     "tikTvd": "25820001472046",
-    "tikName": "Лунинская"
+    "tikName": "Лунинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 628,
     "uikTvd": "4584016321510",
+    "uikName": "УИК №628",
     "tikTvd": "25820001472046",
-    "tikName": "Лунинская"
+    "tikName": "Лунинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 629,
     "uikTvd": "4584016321511",
+    "uikName": "УИК №629",
     "tikTvd": "25820001472046",
-    "tikName": "Лунинская"
+    "tikName": "Лунинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 630,
     "uikTvd": "4584016321512",
+    "uikName": "УИК №630",
     "tikTvd": "25820001472046",
-    "tikName": "Лунинская"
+    "tikName": "Лунинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 631,
     "uikTvd": "4584016321513",
+    "uikName": "УИК №631",
     "tikTvd": "25820001472046",
-    "tikName": "Лунинская"
+    "tikName": "Лунинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 632,
     "uikTvd": "4584016321514",
+    "uikName": "УИК №632",
     "tikTvd": "25820001472046",
-    "tikName": "Лунинская"
+    "tikName": "Лунинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 633,
     "uikTvd": "4584016321515",
+    "uikName": "УИК №633",
     "tikTvd": "25820001472046",
-    "tikName": "Лунинская"
+    "tikName": "Лунинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 634,
     "uikTvd": "4584016321516",
+    "uikName": "УИК №634",
     "tikTvd": "25820001472046",
-    "tikName": "Лунинская"
+    "tikName": "Лунинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 635,
     "uikTvd": "4584016321517",
+    "uikName": "УИК №635",
     "tikTvd": "25820001472046",
-    "tikName": "Лунинская"
+    "tikName": "Лунинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 636,
     "uikTvd": "4584016321518",
+    "uikName": "УИК №636",
     "tikTvd": "25820001472046",
-    "tikName": "Лунинская"
+    "tikName": "Лунинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 637,
     "uikTvd": "4584017458113",
+    "uikName": "УИК №637",
     "tikTvd": "25820001472045",
-    "tikName": "Малосердобинская"
+    "tikName": "Малосердобинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 638,
     "uikTvd": "4584017458114",
+    "uikName": "УИК №638",
     "tikTvd": "25820001472045",
-    "tikName": "Малосердобинская"
+    "tikName": "Малосердобинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 639,
     "uikTvd": "4584017458115",
+    "uikName": "УИК №639",
     "tikTvd": "25820001472045",
-    "tikName": "Малосердобинская"
+    "tikName": "Малосердобинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 640,
     "uikTvd": "4584017458116",
+    "uikName": "УИК №640",
     "tikTvd": "25820001472045",
-    "tikName": "Малосердобинская"
+    "tikName": "Малосердобинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 641,
     "uikTvd": "4584017458117",
+    "uikName": "УИК №641",
     "tikTvd": "25820001472045",
-    "tikName": "Малосердобинская"
+    "tikName": "Малосердобинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 642,
     "uikTvd": "4584017458118",
+    "uikName": "УИК №642",
     "tikTvd": "25820001472045",
-    "tikName": "Малосердобинская"
+    "tikName": "Малосердобинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 643,
     "uikTvd": "4584017458119",
+    "uikName": "УИК №643",
     "tikTvd": "25820001472045",
-    "tikName": "Малосердобинская"
+    "tikName": "Малосердобинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 644,
     "uikTvd": "4584017458120",
+    "uikName": "УИК №644",
     "tikTvd": "25820001472045",
-    "tikName": "Малосердобинская"
+    "tikName": "Малосердобинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 645,
     "uikTvd": "4584017458121",
+    "uikName": "УИК №645",
     "tikTvd": "25820001472045",
-    "tikName": "Малосердобинская"
+    "tikName": "Малосердобинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 646,
     "uikTvd": "4584017458122",
+    "uikName": "УИК №646",
     "tikTvd": "25820001472045",
-    "tikName": "Малосердобинская"
+    "tikName": "Малосердобинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 647,
     "uikTvd": "4584017458123",
+    "uikName": "УИК №647",
     "tikTvd": "25820001472045",
-    "tikName": "Малосердобинская"
+    "tikName": "Малосердобинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 648,
     "uikTvd": "4584017458124",
+    "uikName": "УИК №648",
     "tikTvd": "25820001472045",
-    "tikName": "Малосердобинская"
+    "tikName": "Малосердобинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 649,
     "uikTvd": "4584017458125",
+    "uikName": "УИК №649",
     "tikTvd": "25820001472045",
-    "tikName": "Малосердобинская"
+    "tikName": "Малосердобинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 650,
     "uikTvd": "4584017458126",
+    "uikName": "УИК №650",
     "tikTvd": "25820001472045",
-    "tikName": "Малосердобинская"
+    "tikName": "Малосердобинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 651,
     "uikTvd": "4584017458127",
+    "uikName": "УИК №651",
     "tikTvd": "25820001472045",
-    "tikName": "Малосердобинская"
+    "tikName": "Малосердобинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 652,
     "uikTvd": "4584017458128",
+    "uikName": "УИК №652",
     "tikTvd": "25820001472045",
-    "tikName": "Малосердобинская"
+    "tikName": "Малосердобинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 653,
     "uikTvd": "4584017458129",
+    "uikName": "УИК №653",
     "tikTvd": "25820001472045",
-    "tikName": "Малосердобинская"
+    "tikName": "Малосердобинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 654,
     "uikTvd": "4584017458130",
+    "uikName": "УИК №654",
     "tikTvd": "25820001472045",
-    "tikName": "Малосердобинская"
+    "tikName": "Малосердобинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 655,
     "uikTvd": "4584018375553",
+    "uikName": "УИК №655",
     "tikTvd": "25820001472044",
-    "tikName": "Мокшанская"
+    "tikName": "Мокшанская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 656,
     "uikTvd": "4584018375554",
+    "uikName": "УИК №656",
     "tikTvd": "25820001472044",
-    "tikName": "Мокшанская"
+    "tikName": "Мокшанская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 657,
     "uikTvd": "4584018375555",
+    "uikName": "УИК №657",
     "tikTvd": "25820001472044",
-    "tikName": "Мокшанская"
+    "tikName": "Мокшанская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 658,
     "uikTvd": "4584018375556",
+    "uikName": "УИК №658",
     "tikTvd": "25820001472044",
-    "tikName": "Мокшанская"
+    "tikName": "Мокшанская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 659,
     "uikTvd": "4584018375557",
+    "uikName": "УИК №659",
     "tikTvd": "25820001472044",
-    "tikName": "Мокшанская"
+    "tikName": "Мокшанская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 660,
     "uikTvd": "4584018375558",
+    "uikName": "УИК №660",
     "tikTvd": "25820001472044",
-    "tikName": "Мокшанская"
+    "tikName": "Мокшанская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 661,
     "uikTvd": "4584018375559",
+    "uikName": "УИК №661",
     "tikTvd": "25820001472044",
-    "tikName": "Мокшанская"
+    "tikName": "Мокшанская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 662,
     "uikTvd": "4584018375560",
+    "uikName": "УИК №662",
     "tikTvd": "25820001472044",
-    "tikName": "Мокшанская"
+    "tikName": "Мокшанская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 663,
     "uikTvd": "4584018375561",
+    "uikName": "УИК №663",
     "tikTvd": "25820001472044",
-    "tikName": "Мокшанская"
+    "tikName": "Мокшанская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 664,
     "uikTvd": "4584018375562",
+    "uikName": "УИК №664",
     "tikTvd": "25820001472044",
-    "tikName": "Мокшанская"
+    "tikName": "Мокшанская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 665,
     "uikTvd": "4584018375563",
+    "uikName": "УИК №665",
     "tikTvd": "25820001472044",
-    "tikName": "Мокшанская"
+    "tikName": "Мокшанская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 666,
     "uikTvd": "4584018375564",
+    "uikName": "УИК №666",
     "tikTvd": "25820001472044",
-    "tikName": "Мокшанская"
+    "tikName": "Мокшанская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 667,
     "uikTvd": "4584018375565",
+    "uikName": "УИК №667",
     "tikTvd": "25820001472044",
-    "tikName": "Мокшанская"
+    "tikName": "Мокшанская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 668,
     "uikTvd": "4584018375566",
+    "uikName": "УИК №668",
     "tikTvd": "25820001472044",
-    "tikName": "Мокшанская"
+    "tikName": "Мокшанская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 669,
     "uikTvd": "4584018375567",
+    "uikName": "УИК №669",
     "tikTvd": "25820001472044",
-    "tikName": "Мокшанская"
+    "tikName": "Мокшанская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 670,
     "uikTvd": "4584018375568",
+    "uikName": "УИК №670",
     "tikTvd": "25820001472044",
-    "tikName": "Мокшанская"
+    "tikName": "Мокшанская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 671,
     "uikTvd": "4584018375569",
+    "uikName": "УИК №671",
     "tikTvd": "25820001472044",
-    "tikName": "Мокшанская"
+    "tikName": "Мокшанская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 672,
     "uikTvd": "4584018375570",
+    "uikName": "УИК №672",
     "tikTvd": "25820001472044",
-    "tikName": "Мокшанская"
+    "tikName": "Мокшанская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 673,
     "uikTvd": "4584018375571",
+    "uikName": "УИК №673",
     "tikTvd": "25820001472044",
-    "tikName": "Мокшанская"
+    "tikName": "Мокшанская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 674,
     "uikTvd": "4584018375572",
+    "uikName": "УИК №674",
     "tikTvd": "25820001472044",
-    "tikName": "Мокшанская"
+    "tikName": "Мокшанская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 675,
     "uikTvd": "4584018375573",
+    "uikName": "УИК №675",
     "tikTvd": "25820001472044",
-    "tikName": "Мокшанская"
+    "tikName": "Мокшанская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 676,
     "uikTvd": "4584018375574",
+    "uikName": "УИК №676",
     "tikTvd": "25820001472044",
-    "tikName": "Мокшанская"
+    "tikName": "Мокшанская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 677,
     "uikTvd": "4584018375575",
+    "uikName": "УИК №677",
     "tikTvd": "25820001472044",
-    "tikName": "Мокшанская"
+    "tikName": "Мокшанская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 678,
     "uikTvd": "4584018375576",
+    "uikName": "УИК №678",
     "tikTvd": "25820001472044",
-    "tikName": "Мокшанская"
+    "tikName": "Мокшанская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 679,
     "uikTvd": "4584018375577",
+    "uikName": "УИК №679",
     "tikTvd": "25820001472044",
-    "tikName": "Мокшанская"
+    "tikName": "Мокшанская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 680,
     "uikTvd": "4584018375578",
+    "uikName": "УИК №680",
     "tikTvd": "25820001472044",
-    "tikName": "Мокшанская"
+    "tikName": "Мокшанская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 681,
     "uikTvd": "4584019295150",
+    "uikName": "УИК №681",
     "tikTvd": "25820001472043",
-    "tikName": "Наровчатская"
+    "tikName": "Наровчатская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 682,
     "uikTvd": "4584019295151",
+    "uikName": "УИК №682",
     "tikTvd": "25820001472043",
-    "tikName": "Наровчатская"
+    "tikName": "Наровчатская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 683,
     "uikTvd": "4584019295152",
+    "uikName": "УИК №683",
     "tikTvd": "25820001472043",
-    "tikName": "Наровчатская"
+    "tikName": "Наровчатская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 684,
     "uikTvd": "4584019295153",
+    "uikName": "УИК №684",
     "tikTvd": "25820001472043",
-    "tikName": "Наровчатская"
+    "tikName": "Наровчатская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 685,
     "uikTvd": "4584019295154",
+    "uikName": "УИК №685",
     "tikTvd": "25820001472043",
-    "tikName": "Наровчатская"
+    "tikName": "Наровчатская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 686,
     "uikTvd": "4584019295155",
+    "uikName": "УИК №686",
     "tikTvd": "25820001472043",
-    "tikName": "Наровчатская"
+    "tikName": "Наровчатская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 687,
     "uikTvd": "4584019295156",
+    "uikName": "УИК №687",
     "tikTvd": "25820001472043",
-    "tikName": "Наровчатская"
+    "tikName": "Наровчатская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 688,
     "uikTvd": "4584019295157",
+    "uikName": "УИК №688",
     "tikTvd": "25820001472043",
-    "tikName": "Наровчатская"
+    "tikName": "Наровчатская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 689,
     "uikTvd": "4584019295158",
+    "uikName": "УИК №689",
     "tikTvd": "25820001472043",
-    "tikName": "Наровчатская"
+    "tikName": "Наровчатская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 690,
     "uikTvd": "4584019295159",
+    "uikName": "УИК №690",
     "tikTvd": "25820001472043",
-    "tikName": "Наровчатская"
+    "tikName": "Наровчатская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 691,
     "uikTvd": "4584019295160",
+    "uikName": "УИК №691",
     "tikTvd": "25820001472043",
-    "tikName": "Наровчатская"
+    "tikName": "Наровчатская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 692,
     "uikTvd": "4584019295161",
+    "uikName": "УИК №692",
     "tikTvd": "25820001472043",
-    "tikName": "Наровчатская"
+    "tikName": "Наровчатская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 693,
     "uikTvd": "4584019295162",
+    "uikName": "УИК №693",
     "tikTvd": "25820001472043",
-    "tikName": "Наровчатская"
+    "tikName": "Наровчатская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 694,
     "uikTvd": "4584019295163",
+    "uikName": "УИК №694",
     "tikTvd": "25820001472043",
-    "tikName": "Наровчатская"
+    "tikName": "Наровчатская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 695,
     "uikTvd": "4584019295164",
+    "uikName": "УИК №695",
     "tikTvd": "25820001472043",
-    "tikName": "Наровчатская"
+    "tikName": "Наровчатская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 696,
     "uikTvd": "4584019295165",
+    "uikName": "УИК №696",
     "tikTvd": "25820001472043",
-    "tikName": "Наровчатская"
+    "tikName": "Наровчатская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 697,
     "uikTvd": "4584020264092",
+    "uikName": "УИК №697",
     "tikTvd": "25820001472042",
-    "tikName": "Неверкинская"
+    "tikName": "Неверкинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 698,
     "uikTvd": "4584020264093",
+    "uikName": "УИК №698",
     "tikTvd": "25820001472042",
-    "tikName": "Неверкинская"
+    "tikName": "Неверкинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 699,
     "uikTvd": "4584020264094",
+    "uikName": "УИК №699",
     "tikTvd": "25820001472042",
-    "tikName": "Неверкинская"
+    "tikName": "Неверкинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 700,
     "uikTvd": "4584020264095",
+    "uikName": "УИК №700",
     "tikTvd": "25820001472042",
-    "tikName": "Неверкинская"
+    "tikName": "Неверкинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 701,
     "uikTvd": "4584020264096",
+    "uikName": "УИК №701",
     "tikTvd": "25820001472042",
-    "tikName": "Неверкинская"
+    "tikName": "Неверкинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 702,
     "uikTvd": "4584020264097",
+    "uikName": "УИК №702",
     "tikTvd": "25820001472042",
-    "tikName": "Неверкинская"
+    "tikName": "Неверкинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 703,
     "uikTvd": "4584020264098",
+    "uikName": "УИК №703",
     "tikTvd": "25820001472042",
-    "tikName": "Неверкинская"
+    "tikName": "Неверкинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 704,
     "uikTvd": "4584020264099",
+    "uikName": "УИК №704",
     "tikTvd": "25820001472042",
-    "tikName": "Неверкинская"
+    "tikName": "Неверкинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 705,
     "uikTvd": "4584020264100",
+    "uikName": "УИК №705",
     "tikTvd": "25820001472042",
-    "tikName": "Неверкинская"
+    "tikName": "Неверкинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 706,
     "uikTvd": "4584020264101",
+    "uikName": "УИК №706",
     "tikTvd": "25820001472042",
-    "tikName": "Неверкинская"
+    "tikName": "Неверкинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 707,
     "uikTvd": "4584020264102",
+    "uikName": "УИК №707",
     "tikTvd": "25820001472042",
-    "tikName": "Неверкинская"
+    "tikName": "Неверкинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 708,
     "uikTvd": "4584020264103",
+    "uikName": "УИК №708",
     "tikTvd": "25820001472042",
-    "tikName": "Неверкинская"
+    "tikName": "Неверкинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 709,
     "uikTvd": "4584020264104",
+    "uikName": "УИК №709",
     "tikTvd": "25820001472042",
-    "tikName": "Неверкинская"
+    "tikName": "Неверкинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 710,
     "uikTvd": "4584020264105",
+    "uikName": "УИК №710",
     "tikTvd": "25820001472042",
-    "tikName": "Неверкинская"
+    "tikName": "Неверкинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 711,
     "uikTvd": "4584020264106",
+    "uikName": "УИК №711",
     "tikTvd": "25820001472042",
-    "tikName": "Неверкинская"
+    "tikName": "Неверкинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 712,
     "uikTvd": "4584020264107",
+    "uikName": "УИК №712",
     "tikTvd": "25820001472042",
-    "tikName": "Неверкинская"
+    "tikName": "Неверкинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 713,
     "uikTvd": "4584020264108",
+    "uikName": "УИК №713",
     "tikTvd": "25820001472042",
-    "tikName": "Неверкинская"
+    "tikName": "Неверкинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 714,
     "uikTvd": "4584020264109",
+    "uikName": "УИК №714",
     "tikTvd": "25820001472042",
-    "tikName": "Неверкинская"
+    "tikName": "Неверкинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 715,
     "uikTvd": "4584020264110",
+    "uikName": "УИК №715",
     "tikTvd": "25820001472042",
-    "tikName": "Неверкинская"
+    "tikName": "Неверкинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 716,
     "uikTvd": "4584020264111",
+    "uikName": "УИК №716",
     "tikTvd": "25820001472042",
-    "tikName": "Неверкинская"
+    "tikName": "Неверкинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 717,
     "uikTvd": "4584020264112",
+    "uikName": "УИК №717",
     "tikTvd": "25820001472042",
-    "tikName": "Неверкинская"
+    "tikName": "Неверкинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 718,
     "uikTvd": "4584021471099",
+    "uikName": "УИК №718",
     "tikTvd": "25820001472041",
-    "tikName": "Нижнеломовская"
+    "tikName": "Нижнеломовская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 719,
     "uikTvd": "4584021471100",
+    "uikName": "УИК №719",
     "tikTvd": "25820001472041",
-    "tikName": "Нижнеломовская"
+    "tikName": "Нижнеломовская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 720,
     "uikTvd": "4584021471101",
+    "uikName": "УИК №720",
     "tikTvd": "25820001472041",
-    "tikName": "Нижнеломовская"
+    "tikName": "Нижнеломовская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 721,
     "uikTvd": "4584021471102",
+    "uikName": "УИК №721",
     "tikTvd": "25820001472041",
-    "tikName": "Нижнеломовская"
+    "tikName": "Нижнеломовская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 722,
     "uikTvd": "4584021471103",
+    "uikName": "УИК №722",
     "tikTvd": "25820001472041",
-    "tikName": "Нижнеломовская"
+    "tikName": "Нижнеломовская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 723,
     "uikTvd": "4584021471104",
+    "uikName": "УИК №723",
     "tikTvd": "25820001472041",
-    "tikName": "Нижнеломовская"
+    "tikName": "Нижнеломовская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 724,
     "uikTvd": "4584021471105",
+    "uikName": "УИК №724",
     "tikTvd": "25820001472041",
-    "tikName": "Нижнеломовская"
+    "tikName": "Нижнеломовская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 725,
     "uikTvd": "4584021471106",
+    "uikName": "УИК №725",
     "tikTvd": "25820001472041",
-    "tikName": "Нижнеломовская"
+    "tikName": "Нижнеломовская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 726,
     "uikTvd": "4584021471107",
+    "uikName": "УИК №726",
     "tikTvd": "25820001472041",
-    "tikName": "Нижнеломовская"
+    "tikName": "Нижнеломовская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 727,
     "uikTvd": "4584021471108",
+    "uikName": "УИК №727",
     "tikTvd": "25820001472041",
-    "tikName": "Нижнеломовская"
+    "tikName": "Нижнеломовская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 728,
     "uikTvd": "4584021471109",
+    "uikName": "УИК №728",
     "tikTvd": "25820001472041",
-    "tikName": "Нижнеломовская"
+    "tikName": "Нижнеломовская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 729,
     "uikTvd": "4584021471110",
+    "uikName": "УИК №729",
     "tikTvd": "25820001472041",
-    "tikName": "Нижнеломовская"
+    "tikName": "Нижнеломовская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 730,
     "uikTvd": "4584021471111",
+    "uikName": "УИК №730",
     "tikTvd": "25820001472041",
-    "tikName": "Нижнеломовская"
+    "tikName": "Нижнеломовская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 731,
     "uikTvd": "4584021471112",
+    "uikName": "УИК №731",
     "tikTvd": "25820001472041",
-    "tikName": "Нижнеломовская"
+    "tikName": "Нижнеломовская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 732,
     "uikTvd": "4584021471113",
+    "uikName": "УИК №732",
     "tikTvd": "25820001472041",
-    "tikName": "Нижнеломовская"
+    "tikName": "Нижнеломовская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 733,
     "uikTvd": "4584021471114",
+    "uikName": "УИК №733",
     "tikTvd": "25820001472041",
-    "tikName": "Нижнеломовская"
+    "tikName": "Нижнеломовская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 734,
     "uikTvd": "4584021471115",
+    "uikName": "УИК №734",
     "tikTvd": "25820001472041",
-    "tikName": "Нижнеломовская"
+    "tikName": "Нижнеломовская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 735,
     "uikTvd": "4584021471116",
+    "uikName": "УИК №735",
     "tikTvd": "25820001472041",
-    "tikName": "Нижнеломовская"
+    "tikName": "Нижнеломовская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 736,
     "uikTvd": "4584021471117",
+    "uikName": "УИК №736",
     "tikTvd": "25820001472041",
-    "tikName": "Нижнеломовская"
+    "tikName": "Нижнеломовская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 737,
     "uikTvd": "4584021471118",
+    "uikName": "УИК №737",
     "tikTvd": "25820001472041",
-    "tikName": "Нижнеломовская"
+    "tikName": "Нижнеломовская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 738,
     "uikTvd": "4584021471119",
+    "uikName": "УИК №738",
     "tikTvd": "25820001472041",
-    "tikName": "Нижнеломовская"
+    "tikName": "Нижнеломовская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 739,
     "uikTvd": "4584021471120",
+    "uikName": "УИК №739",
     "tikTvd": "25820001472041",
-    "tikName": "Нижнеломовская"
+    "tikName": "Нижнеломовская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 740,
     "uikTvd": "4584021471121",
+    "uikName": "УИК №740",
     "tikTvd": "25820001472041",
-    "tikName": "Нижнеломовская"
+    "tikName": "Нижнеломовская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 741,
     "uikTvd": "4584021471122",
+    "uikName": "УИК №741",
     "tikTvd": "25820001472041",
-    "tikName": "Нижнеломовская"
+    "tikName": "Нижнеломовская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 742,
     "uikTvd": "4584021471123",
+    "uikName": "УИК №742",
     "tikTvd": "25820001472041",
-    "tikName": "Нижнеломовская"
+    "tikName": "Нижнеломовская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 743,
     "uikTvd": "4584021471124",
+    "uikName": "УИК №743",
     "tikTvd": "25820001472041",
-    "tikName": "Нижнеломовская"
+    "tikName": "Нижнеломовская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 744,
     "uikTvd": "4584021471125",
+    "uikName": "УИК №744",
     "tikTvd": "25820001472041",
-    "tikName": "Нижнеломовская"
+    "tikName": "Нижнеломовская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 745,
     "uikTvd": "4584021471126",
+    "uikName": "УИК №745",
     "tikTvd": "25820001472041",
-    "tikName": "Нижнеломовская"
+    "tikName": "Нижнеломовская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 746,
     "uikTvd": "4584021471127",
+    "uikName": "УИК №746",
     "tikTvd": "25820001472041",
-    "tikName": "Нижнеломовская"
+    "tikName": "Нижнеломовская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 747,
     "uikTvd": "4584021471128",
+    "uikName": "УИК №747",
     "tikTvd": "25820001472041",
-    "tikName": "Нижнеломовская"
+    "tikName": "Нижнеломовская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 748,
     "uikTvd": "4584021471129",
+    "uikName": "УИК №748",
     "tikTvd": "25820001472041",
-    "tikName": "Нижнеломовская"
+    "tikName": "Нижнеломовская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 749,
     "uikTvd": "4584021471130",
+    "uikName": "УИК №749",
     "tikTvd": "25820001472041",
-    "tikName": "Нижнеломовская"
+    "tikName": "Нижнеломовская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 750,
     "uikTvd": "4584021471131",
+    "uikName": "УИК №750",
     "tikTvd": "25820001472041",
-    "tikName": "Нижнеломовская"
+    "tikName": "Нижнеломовская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 751,
     "uikTvd": "4584021471132",
+    "uikName": "УИК №751",
     "tikTvd": "25820001472041",
-    "tikName": "Нижнеломовская"
+    "tikName": "Нижнеломовская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 752,
     "uikTvd": "4584021471133",
+    "uikName": "УИК №752",
     "tikTvd": "25820001472041",
-    "tikName": "Нижнеломовская"
+    "tikName": "Нижнеломовская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 753,
     "uikTvd": "4584021471134",
+    "uikName": "УИК №753",
     "tikTvd": "25820001472041",
-    "tikName": "Нижнеломовская"
+    "tikName": "Нижнеломовская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 754,
     "uikTvd": "4584021471135",
+    "uikName": "УИК №754",
     "tikTvd": "25820001472041",
-    "tikName": "Нижнеломовская"
+    "tikName": "Нижнеломовская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 755,
     "uikTvd": "4584021471136",
+    "uikName": "УИК №755",
     "tikTvd": "25820001472041",
-    "tikName": "Нижнеломовская"
+    "tikName": "Нижнеломовская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 756,
     "uikTvd": "4584021471137",
+    "uikName": "УИК №756",
     "tikTvd": "25820001472041",
-    "tikName": "Нижнеломовская"
+    "tikName": "Нижнеломовская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 757,
     "uikTvd": "4584021471138",
+    "uikName": "УИК №757",
     "tikTvd": "25820001472041",
-    "tikName": "Нижнеломовская"
+    "tikName": "Нижнеломовская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 758,
     "uikTvd": "4584022263125",
+    "uikName": "УИК №758",
     "tikTvd": "25820001472040",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 759,
     "uikTvd": "4584022263126",
+    "uikName": "УИК №759",
     "tikTvd": "25820001472040",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 760,
     "uikTvd": "4584022263127",
+    "uikName": "УИК №760",
     "tikTvd": "25820001472040",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 761,
     "uikTvd": "4584022263128",
+    "uikName": "УИК №761",
     "tikTvd": "25820001472040",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 762,
     "uikTvd": "4584022263129",
+    "uikName": "УИК №762",
     "tikTvd": "25820001472040",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 763,
     "uikTvd": "4584022263130",
+    "uikName": "УИК №763",
     "tikTvd": "25820001472040",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 764,
     "uikTvd": "4584022263131",
+    "uikName": "УИК №764",
     "tikTvd": "25820001472040",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 765,
     "uikTvd": "4584022263132",
+    "uikName": "УИК №765",
     "tikTvd": "25820001472040",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 766,
     "uikTvd": "4584022263133",
+    "uikName": "УИК №766",
     "tikTvd": "25820001472040",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 767,
     "uikTvd": "4584022263134",
+    "uikName": "УИК №767",
     "tikTvd": "25820001472040",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 768,
     "uikTvd": "4584022263135",
+    "uikName": "УИК №768",
     "tikTvd": "25820001472040",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 769,
     "uikTvd": "4584022263136",
+    "uikName": "УИК №769",
     "tikTvd": "25820001472040",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 770,
     "uikTvd": "4584022263137",
+    "uikName": "УИК №770",
     "tikTvd": "25820001472040",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 771,
     "uikTvd": "4584022263138",
+    "uikName": "УИК №771",
     "tikTvd": "25820001472040",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 772,
     "uikTvd": "4584022263139",
+    "uikName": "УИК №772",
     "tikTvd": "25820001472040",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 773,
     "uikTvd": "4584022263140",
+    "uikName": "УИК №773",
     "tikTvd": "25820001472040",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 774,
     "uikTvd": "4584022263141",
+    "uikName": "УИК №774",
     "tikTvd": "25820001472040",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 775,
     "uikTvd": "4584022263142",
+    "uikName": "УИК №775",
     "tikTvd": "25820001472040",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 776,
     "uikTvd": "4584022263143",
+    "uikName": "УИК №776",
     "tikTvd": "25820001472040",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 777,
     "uikTvd": "4584022263144",
+    "uikName": "УИК №777",
     "tikTvd": "25820001472040",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 778,
     "uikTvd": "4584022263145",
+    "uikName": "УИК №778",
     "tikTvd": "25820001472040",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 779,
     "uikTvd": "4584022263146",
+    "uikName": "УИК №779",
     "tikTvd": "25820001472040",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 780,
     "uikTvd": "4584022263147",
+    "uikName": "УИК №780",
     "tikTvd": "25820001472040",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 781,
     "uikTvd": "4584022263148",
+    "uikName": "УИК №781",
     "tikTvd": "25820001472040",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 782,
     "uikTvd": "4584022263149",
+    "uikName": "УИК №782",
     "tikTvd": "25820001472040",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 783,
     "uikTvd": "4584022263150",
+    "uikName": "УИК №783",
     "tikTvd": "25820001472040",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 784,
     "uikTvd": "4584022263151",
+    "uikName": "УИК №784",
     "tikTvd": "25820001472040",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 785,
     "uikTvd": "4584022263152",
+    "uikName": "УИК №785",
     "tikTvd": "25820001472040",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 786,
     "uikTvd": "4584022263153",
+    "uikName": "УИК №786",
     "tikTvd": "25820001472040",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 787,
     "uikTvd": "4584022263154",
+    "uikName": "УИК №787",
     "tikTvd": "25820001472040",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 788,
     "uikTvd": "4584022263155",
+    "uikName": "УИК №788",
     "tikTvd": "25820001472040",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 789,
     "uikTvd": "4584023242879",
+    "uikName": "УИК №789",
     "tikTvd": "25820001472039",
-    "tikName": "Пачелмская"
+    "tikName": "Пачелмская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 790,
     "uikTvd": "4584023242880",
+    "uikName": "УИК №790",
     "tikTvd": "25820001472039",
-    "tikName": "Пачелмская"
+    "tikName": "Пачелмская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 791,
     "uikTvd": "4584023242881",
+    "uikName": "УИК №791",
     "tikTvd": "25820001472039",
-    "tikName": "Пачелмская"
+    "tikName": "Пачелмская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 792,
     "uikTvd": "4584023242882",
+    "uikName": "УИК №792",
     "tikTvd": "25820001472039",
-    "tikName": "Пачелмская"
+    "tikName": "Пачелмская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 793,
     "uikTvd": "4584023242883",
+    "uikName": "УИК №793",
     "tikTvd": "25820001472039",
-    "tikName": "Пачелмская"
+    "tikName": "Пачелмская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 794,
     "uikTvd": "4584023242884",
+    "uikName": "УИК №794",
     "tikTvd": "25820001472039",
-    "tikName": "Пачелмская"
+    "tikName": "Пачелмская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 795,
     "uikTvd": "4584023242885",
+    "uikName": "УИК №795",
     "tikTvd": "25820001472039",
-    "tikName": "Пачелмская"
+    "tikName": "Пачелмская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 796,
     "uikTvd": "4584023242886",
+    "uikName": "УИК №796",
     "tikTvd": "25820001472039",
-    "tikName": "Пачелмская"
+    "tikName": "Пачелмская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 797,
     "uikTvd": "4584023242887",
+    "uikName": "УИК №797",
     "tikTvd": "25820001472039",
-    "tikName": "Пачелмская"
+    "tikName": "Пачелмская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 798,
     "uikTvd": "4584023242888",
+    "uikName": "УИК №798",
     "tikTvd": "25820001472039",
-    "tikName": "Пачелмская"
+    "tikName": "Пачелмская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 799,
     "uikTvd": "4584023242889",
+    "uikName": "УИК №799",
     "tikTvd": "25820001472039",
-    "tikName": "Пачелмская"
+    "tikName": "Пачелмская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 800,
     "uikTvd": "4584023242890",
+    "uikName": "УИК №800",
     "tikTvd": "25820001472039",
-    "tikName": "Пачелмская"
+    "tikName": "Пачелмская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 801,
     "uikTvd": "4584023242891",
+    "uikName": "УИК №801",
     "tikTvd": "25820001472039",
-    "tikName": "Пачелмская"
+    "tikName": "Пачелмская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 802,
     "uikTvd": "4584023242892",
+    "uikName": "УИК №802",
     "tikTvd": "25820001472039",
-    "tikName": "Пачелмская"
+    "tikName": "Пачелмская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 803,
     "uikTvd": "4584023242893",
+    "uikName": "УИК №803",
     "tikTvd": "25820001472039",
-    "tikName": "Пачелмская"
+    "tikName": "Пачелмская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 804,
     "uikTvd": "4584023242894",
+    "uikName": "УИК №804",
     "tikTvd": "25820001472039",
-    "tikName": "Пачелмская"
+    "tikName": "Пачелмская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 805,
     "uikTvd": "4584023242895",
+    "uikName": "УИК №805",
     "tikTvd": "25820001472039",
-    "tikName": "Пачелмская"
+    "tikName": "Пачелмская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 806,
     "uikTvd": "4584023242896",
+    "uikName": "УИК №806",
     "tikTvd": "25820001472039",
-    "tikName": "Пачелмская"
+    "tikName": "Пачелмская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 807,
     "uikTvd": "4584023242897",
+    "uikName": "УИК №807",
     "tikTvd": "25820001472039",
-    "tikName": "Пачелмская"
+    "tikName": "Пачелмская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 808,
     "uikTvd": "4584023242898",
+    "uikName": "УИК №808",
     "tikTvd": "25820001472039",
-    "tikName": "Пачелмская"
+    "tikName": "Пачелмская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 809,
     "uikTvd": "4584029390491",
+    "uikName": "УИК №809",
     "tikTvd": "25820001472038",
-    "tikName": "Пензенская "
+    "tikName": "Пензенская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 810,
     "uikTvd": "4584029390492",
+    "uikName": "УИК №810",
     "tikTvd": "25820001472038",
-    "tikName": "Пензенская "
+    "tikName": "Пензенская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 811,
     "uikTvd": "4584029390493",
+    "uikName": "УИК №811",
     "tikTvd": "25820001472038",
-    "tikName": "Пензенская "
+    "tikName": "Пензенская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 812,
     "uikTvd": "4584029390494",
+    "uikName": "УИК №812",
     "tikTvd": "25820001472038",
-    "tikName": "Пензенская "
+    "tikName": "Пензенская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 813,
     "uikTvd": "4584029390495",
+    "uikName": "УИК №813",
     "tikTvd": "25820001472038",
-    "tikName": "Пензенская "
+    "tikName": "Пензенская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 814,
     "uikTvd": "4584029390496",
+    "uikName": "УИК №814",
     "tikTvd": "25820001472038",
-    "tikName": "Пензенская "
+    "tikName": "Пензенская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 815,
     "uikTvd": "4584029390497",
+    "uikName": "УИК №815",
     "tikTvd": "25820001472038",
-    "tikName": "Пензенская "
+    "tikName": "Пензенская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 816,
     "uikTvd": "4584029390498",
+    "uikName": "УИК №816",
     "tikTvd": "25820001472038",
-    "tikName": "Пензенская "
+    "tikName": "Пензенская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 817,
     "uikTvd": "4584029390499",
+    "uikName": "УИК №817",
     "tikTvd": "25820001472038",
-    "tikName": "Пензенская "
+    "tikName": "Пензенская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 818,
     "uikTvd": "4584029390500",
+    "uikName": "УИК №818",
     "tikTvd": "25820001472038",
-    "tikName": "Пензенская "
+    "tikName": "Пензенская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 819,
     "uikTvd": "4584029390501",
+    "uikName": "УИК №819",
     "tikTvd": "25820001472038",
-    "tikName": "Пензенская "
+    "tikName": "Пензенская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 820,
     "uikTvd": "4584029390502",
+    "uikName": "УИК №820",
     "tikTvd": "25820001472038",
-    "tikName": "Пензенская "
+    "tikName": "Пензенская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 821,
     "uikTvd": "4584029390503",
+    "uikName": "УИК №821",
     "tikTvd": "25820001472038",
-    "tikName": "Пензенская "
+    "tikName": "Пензенская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 822,
     "uikTvd": "4584029390504",
+    "uikName": "УИК №822",
     "tikTvd": "25820001472038",
-    "tikName": "Пензенская "
+    "tikName": "Пензенская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 823,
     "uikTvd": "4584029390505",
+    "uikName": "УИК №823",
     "tikTvd": "25820001472038",
-    "tikName": "Пензенская "
+    "tikName": "Пензенская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 824,
     "uikTvd": "4584029390506",
+    "uikName": "УИК №824",
     "tikTvd": "25820001472038",
-    "tikName": "Пензенская "
+    "tikName": "Пензенская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 825,
     "uikTvd": "4584029390507",
+    "uikName": "УИК №825",
     "tikTvd": "25820001472038",
-    "tikName": "Пензенская "
+    "tikName": "Пензенская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 826,
     "uikTvd": "4584029390508",
+    "uikName": "УИК №826",
     "tikTvd": "25820001472038",
-    "tikName": "Пензенская "
+    "tikName": "Пензенская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 827,
     "uikTvd": "4584029390509",
+    "uikName": "УИК №827",
     "tikTvd": "25820001472038",
-    "tikName": "Пензенская "
+    "tikName": "Пензенская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 828,
     "uikTvd": "4584029390510",
+    "uikName": "УИК №828",
     "tikTvd": "25820001472038",
-    "tikName": "Пензенская "
+    "tikName": "Пензенская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 829,
     "uikTvd": "4584029390511",
+    "uikName": "УИК №829",
     "tikTvd": "25820001472038",
-    "tikName": "Пензенская "
+    "tikName": "Пензенская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 830,
     "uikTvd": "4584029390512",
+    "uikName": "УИК №830",
     "tikTvd": "25820001472038",
-    "tikName": "Пензенская "
+    "tikName": "Пензенская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 831,
     "uikTvd": "4584029390513",
+    "uikName": "УИК №831",
     "tikTvd": "25820001472038",
-    "tikName": "Пензенская "
+    "tikName": "Пензенская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 832,
     "uikTvd": "4584029390514",
+    "uikName": "УИК №832",
     "tikTvd": "25820001472038",
-    "tikName": "Пензенская "
+    "tikName": "Пензенская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 833,
     "uikTvd": "4584029390515",
+    "uikName": "УИК №833",
     "tikTvd": "25820001472038",
-    "tikName": "Пензенская "
+    "tikName": "Пензенская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 834,
     "uikTvd": "4584029390516",
+    "uikName": "УИК №834",
     "tikTvd": "25820001472038",
-    "tikName": "Пензенская "
+    "tikName": "Пензенская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 835,
     "uikTvd": "4584029390517",
+    "uikName": "УИК №835",
     "tikTvd": "25820001472038",
-    "tikName": "Пензенская "
+    "tikName": "Пензенская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 836,
     "uikTvd": "4584029390518",
+    "uikName": "УИК №836",
     "tikTvd": "25820001472038",
-    "tikName": "Пензенская "
+    "tikName": "Пензенская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 837,
     "uikTvd": "4584029390519",
+    "uikName": "УИК №837",
     "tikTvd": "25820001472038",
-    "tikName": "Пензенская "
+    "tikName": "Пензенская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 838,
     "uikTvd": "4584029390520",
+    "uikName": "УИК №838",
     "tikTvd": "25820001472038",
-    "tikName": "Пензенская "
+    "tikName": "Пензенская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 839,
     "uikTvd": "4584029390521",
+    "uikName": "УИК №839",
     "tikTvd": "25820001472038",
-    "tikName": "Пензенская "
+    "tikName": "Пензенская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 840,
     "uikTvd": "4584029390522",
+    "uikName": "УИК №840",
     "tikTvd": "25820001472038",
-    "tikName": "Пензенская "
+    "tikName": "Пензенская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 841,
     "uikTvd": "4584029390523",
+    "uikName": "УИК №841",
     "tikTvd": "25820001472038",
-    "tikName": "Пензенская "
+    "tikName": "Пензенская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 842,
     "uikTvd": "4584029390524",
+    "uikName": "УИК №842",
     "tikTvd": "25820001472038",
-    "tikName": "Пензенская "
+    "tikName": "Пензенская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 843,
     "uikTvd": "4584029390525",
+    "uikName": "УИК №843",
     "tikTvd": "25820001472038",
-    "tikName": "Пензенская "
+    "tikName": "Пензенская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 844,
     "uikTvd": "4584029390526",
+    "uikName": "УИК №844",
     "tikTvd": "25820001472038",
-    "tikName": "Пензенская "
+    "tikName": "Пензенская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 845,
     "uikTvd": "4584029390527",
+    "uikName": "УИК №845",
     "tikTvd": "25820001472038",
-    "tikName": "Пензенская "
+    "tikName": "Пензенская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 846,
     "uikTvd": "4584029390528",
+    "uikName": "УИК №846",
     "tikTvd": "25820001472038",
-    "tikName": "Пензенская "
+    "tikName": "Пензенская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 847,
     "uikTvd": "4584029390529",
+    "uikName": "УИК №847",
     "tikTvd": "25820001472038",
-    "tikName": "Пензенская "
+    "tikName": "Пензенская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 848,
     "uikTvd": "4584029390530",
+    "uikName": "УИК №848",
     "tikTvd": "25820001472038",
-    "tikName": "Пензенская "
+    "tikName": "Пензенская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 849,
     "uikTvd": "4584029390531",
+    "uikName": "УИК №849",
     "tikTvd": "25820001472038",
-    "tikName": "Пензенская "
+    "tikName": "Пензенская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 850,
     "uikTvd": "4584029390532",
+    "uikName": "УИК №850",
     "tikTvd": "25820001472038",
-    "tikName": "Пензенская "
+    "tikName": "Пензенская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 851,
     "uikTvd": "4584029390533",
+    "uikName": "УИК №851",
     "tikTvd": "25820001472038",
-    "tikName": "Пензенская "
+    "tikName": "Пензенская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 852,
     "uikTvd": "4584029390534",
+    "uikName": "УИК №852",
     "tikTvd": "25820001472038",
-    "tikName": "Пензенская "
+    "tikName": "Пензенская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 853,
     "uikTvd": "4584029390535",
+    "uikName": "УИК №853",
     "tikTvd": "25820001472038",
-    "tikName": "Пензенская "
+    "tikName": "Пензенская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 854,
     "uikTvd": "4584029390536",
+    "uikName": "УИК №854",
     "tikTvd": "25820001472038",
-    "tikName": "Пензенская "
+    "tikName": "Пензенская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 855,
     "uikTvd": "4584029390537",
+    "uikName": "УИК №855",
     "tikTvd": "25820001472038",
-    "tikName": "Пензенская "
+    "tikName": "Пензенская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 856,
     "uikTvd": "4584030380353",
+    "uikName": "УИК №856",
     "tikTvd": "25820001472037",
-    "tikName": "Сердобская"
+    "tikName": "Сердобская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 857,
     "uikTvd": "4584030380354",
+    "uikName": "УИК №857",
     "tikTvd": "25820001472037",
-    "tikName": "Сердобская"
+    "tikName": "Сердобская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 858,
     "uikTvd": "4584030380355",
+    "uikName": "УИК №858",
     "tikTvd": "25820001472037",
-    "tikName": "Сердобская"
+    "tikName": "Сердобская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 859,
     "uikTvd": "4584030380356",
+    "uikName": "УИК №859",
     "tikTvd": "25820001472037",
-    "tikName": "Сердобская"
+    "tikName": "Сердобская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 860,
     "uikTvd": "4584030380357",
+    "uikName": "УИК №860",
     "tikTvd": "25820001472037",
-    "tikName": "Сердобская"
+    "tikName": "Сердобская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 861,
     "uikTvd": "4584030380358",
+    "uikName": "УИК №861",
     "tikTvd": "25820001472037",
-    "tikName": "Сердобская"
+    "tikName": "Сердобская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 862,
     "uikTvd": "4584030380359",
+    "uikName": "УИК №862",
     "tikTvd": "25820001472037",
-    "tikName": "Сердобская"
+    "tikName": "Сердобская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 863,
     "uikTvd": "4584030380360",
+    "uikName": "УИК №863",
     "tikTvd": "25820001472037",
-    "tikName": "Сердобская"
+    "tikName": "Сердобская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 864,
     "uikTvd": "4584030380361",
+    "uikName": "УИК №864",
     "tikTvd": "25820001472037",
-    "tikName": "Сердобская"
+    "tikName": "Сердобская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 865,
     "uikTvd": "4584030380362",
+    "uikName": "УИК №865",
     "tikTvd": "25820001472037",
-    "tikName": "Сердобская"
+    "tikName": "Сердобская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 866,
     "uikTvd": "4584030380363",
+    "uikName": "УИК №866",
     "tikTvd": "25820001472037",
-    "tikName": "Сердобская"
+    "tikName": "Сердобская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 867,
     "uikTvd": "4584030380364",
+    "uikName": "УИК №867",
     "tikTvd": "25820001472037",
-    "tikName": "Сердобская"
+    "tikName": "Сердобская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 868,
     "uikTvd": "4584030380365",
+    "uikName": "УИК №868",
     "tikTvd": "25820001472037",
-    "tikName": "Сердобская"
+    "tikName": "Сердобская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 869,
     "uikTvd": "4584030380366",
+    "uikName": "УИК №869",
     "tikTvd": "25820001472037",
-    "tikName": "Сердобская"
+    "tikName": "Сердобская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 870,
     "uikTvd": "4584030380367",
+    "uikName": "УИК №870",
     "tikTvd": "25820001472037",
-    "tikName": "Сердобская"
+    "tikName": "Сердобская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 871,
     "uikTvd": "4584030380368",
+    "uikName": "УИК №871",
     "tikTvd": "25820001472037",
-    "tikName": "Сердобская"
+    "tikName": "Сердобская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 872,
     "uikTvd": "4584030380369",
+    "uikName": "УИК №872",
     "tikTvd": "25820001472037",
-    "tikName": "Сердобская"
+    "tikName": "Сердобская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 873,
     "uikTvd": "4584030380370",
+    "uikName": "УИК №873",
     "tikTvd": "25820001472037",
-    "tikName": "Сердобская"
+    "tikName": "Сердобская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 874,
     "uikTvd": "4584030380371",
+    "uikName": "УИК №874",
     "tikTvd": "25820001472037",
-    "tikName": "Сердобская"
+    "tikName": "Сердобская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 875,
     "uikTvd": "4584030380372",
+    "uikName": "УИК №875",
     "tikTvd": "25820001472037",
-    "tikName": "Сердобская"
+    "tikName": "Сердобская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 876,
     "uikTvd": "4584030380373",
+    "uikName": "УИК №876",
     "tikTvd": "25820001472037",
-    "tikName": "Сердобская"
+    "tikName": "Сердобская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 877,
     "uikTvd": "4584030380374",
+    "uikName": "УИК №877",
     "tikTvd": "25820001472037",
-    "tikName": "Сердобская"
+    "tikName": "Сердобская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 878,
     "uikTvd": "4584030380375",
+    "uikName": "УИК №878",
     "tikTvd": "25820001472037",
-    "tikName": "Сердобская"
+    "tikName": "Сердобская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 879,
     "uikTvd": "4584030380376",
+    "uikName": "УИК №879",
     "tikTvd": "25820001472037",
-    "tikName": "Сердобская"
+    "tikName": "Сердобская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 880,
     "uikTvd": "4584030380377",
+    "uikName": "УИК №880",
     "tikTvd": "25820001472037",
-    "tikName": "Сердобская"
+    "tikName": "Сердобская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 881,
     "uikTvd": "4584030380378",
+    "uikName": "УИК №881",
     "tikTvd": "25820001472037",
-    "tikName": "Сердобская"
+    "tikName": "Сердобская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 882,
     "uikTvd": "4584030380379",
+    "uikName": "УИК №882",
     "tikTvd": "25820001472037",
-    "tikName": "Сердобская"
+    "tikName": "Сердобская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 883,
     "uikTvd": "4584030380380",
+    "uikName": "УИК №883",
     "tikTvd": "25820001472037",
-    "tikName": "Сердобская"
+    "tikName": "Сердобская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 884,
     "uikTvd": "4584030380381",
+    "uikName": "УИК №884",
     "tikTvd": "25820001472037",
-    "tikName": "Сердобская"
+    "tikName": "Сердобская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 885,
     "uikTvd": "4584030380382",
+    "uikName": "УИК №885",
     "tikTvd": "25820001472037",
-    "tikName": "Сердобская"
+    "tikName": "Сердобская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 886,
     "uikTvd": "4584030380383",
+    "uikName": "УИК №886",
     "tikTvd": "25820001472037",
-    "tikName": "Сердобская"
+    "tikName": "Сердобская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 887,
     "uikTvd": "4584030380384",
+    "uikName": "УИК №887",
     "tikTvd": "25820001472037",
-    "tikName": "Сердобская"
+    "tikName": "Сердобская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 888,
     "uikTvd": "4584030380385",
+    "uikName": "УИК №888",
     "tikTvd": "25820001472037",
-    "tikName": "Сердобская"
+    "tikName": "Сердобская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 889,
     "uikTvd": "4584030380386",
+    "uikName": "УИК №889",
     "tikTvd": "25820001472037",
-    "tikName": "Сердобская"
+    "tikName": "Сердобская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 890,
     "uikTvd": "4584030380387",
+    "uikName": "УИК №890",
     "tikTvd": "25820001472037",
-    "tikName": "Сердобская"
+    "tikName": "Сердобская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 891,
     "uikTvd": "4584030380388",
+    "uikName": "УИК №891",
     "tikTvd": "25820001472037",
-    "tikName": "Сердобская"
+    "tikName": "Сердобская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 892,
     "uikTvd": "4584030380389",
+    "uikName": "УИК №892",
     "tikTvd": "25820001472037",
-    "tikName": "Сердобская"
+    "tikName": "Сердобская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 893,
     "uikTvd": "4584030380390",
+    "uikName": "УИК №893",
     "tikTvd": "25820001472037",
-    "tikName": "Сердобская"
+    "tikName": "Сердобская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 894,
     "uikTvd": "4584030380391",
+    "uikName": "УИК №894",
     "tikTvd": "25820001472037",
-    "tikName": "Сердобская"
+    "tikName": "Сердобская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 895,
     "uikTvd": "4584030380392",
+    "uikName": "УИК №895",
     "tikTvd": "25820001472037",
-    "tikName": "Сердобская"
+    "tikName": "Сердобская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 896,
     "uikTvd": "4584031312943",
+    "uikName": "УИК №896",
     "tikTvd": "25820001472036",
-    "tikName": "Сосновоборская"
+    "tikName": "Сосновоборская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 897,
     "uikTvd": "4584031312944",
+    "uikName": "УИК №897",
     "tikTvd": "25820001472036",
-    "tikName": "Сосновоборская"
+    "tikName": "Сосновоборская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 898,
     "uikTvd": "4584031312945",
+    "uikName": "УИК №898",
     "tikTvd": "25820001472036",
-    "tikName": "Сосновоборская"
+    "tikName": "Сосновоборская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 899,
     "uikTvd": "4584031312946",
+    "uikName": "УИК №899",
     "tikTvd": "25820001472036",
-    "tikName": "Сосновоборская"
+    "tikName": "Сосновоборская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 900,
     "uikTvd": "4584031312947",
+    "uikName": "УИК №900",
     "tikTvd": "25820001472036",
-    "tikName": "Сосновоборская"
+    "tikName": "Сосновоборская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 901,
     "uikTvd": "4584031312948",
+    "uikName": "УИК №901",
     "tikTvd": "25820001472036",
-    "tikName": "Сосновоборская"
+    "tikName": "Сосновоборская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 902,
     "uikTvd": "4584031312949",
+    "uikName": "УИК №902",
     "tikTvd": "25820001472036",
-    "tikName": "Сосновоборская"
+    "tikName": "Сосновоборская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 903,
     "uikTvd": "4584031312950",
+    "uikName": "УИК №903",
     "tikTvd": "25820001472036",
-    "tikName": "Сосновоборская"
+    "tikName": "Сосновоборская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 904,
     "uikTvd": "4584031312951",
+    "uikName": "УИК №904",
     "tikTvd": "25820001472036",
-    "tikName": "Сосновоборская"
+    "tikName": "Сосновоборская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 905,
     "uikTvd": "4584031312952",
+    "uikName": "УИК №905",
     "tikTvd": "25820001472036",
-    "tikName": "Сосновоборская"
+    "tikName": "Сосновоборская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 906,
     "uikTvd": "4584031312953",
+    "uikName": "УИК №906",
     "tikTvd": "25820001472036",
-    "tikName": "Сосновоборская"
+    "tikName": "Сосновоборская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 907,
     "uikTvd": "4584031312954",
+    "uikName": "УИК №907",
     "tikTvd": "25820001472036",
-    "tikName": "Сосновоборская"
+    "tikName": "Сосновоборская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 908,
     "uikTvd": "4584031312955",
+    "uikName": "УИК №908",
     "tikTvd": "25820001472036",
-    "tikName": "Сосновоборская"
+    "tikName": "Сосновоборская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 909,
     "uikTvd": "4584031312956",
+    "uikName": "УИК №909",
     "tikTvd": "25820001472036",
-    "tikName": "Сосновоборская"
+    "tikName": "Сосновоборская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 910,
     "uikTvd": "4584031312957",
+    "uikName": "УИК №910",
     "tikTvd": "25820001472036",
-    "tikName": "Сосновоборская"
+    "tikName": "Сосновоборская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 911,
     "uikTvd": "4584031312958",
+    "uikName": "УИК №911",
     "tikTvd": "25820001472036",
-    "tikName": "Сосновоборская"
+    "tikName": "Сосновоборская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 912,
     "uikTvd": "4584031312959",
+    "uikName": "УИК №912",
     "tikTvd": "25820001472036",
-    "tikName": "Сосновоборская"
+    "tikName": "Сосновоборская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 913,
     "uikTvd": "4584031312960",
+    "uikName": "УИК №913",
     "tikTvd": "25820001472036",
-    "tikName": "Сосновоборская"
+    "tikName": "Сосновоборская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 914,
     "uikTvd": "4584031312961",
+    "uikName": "УИК №914",
     "tikTvd": "25820001472036",
-    "tikName": "Сосновоборская"
+    "tikName": "Сосновоборская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 915,
     "uikTvd": "4584002410377",
+    "uikName": "УИК №915",
     "tikTvd": "25820001472035",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 916,
     "uikTvd": "4584002410378",
+    "uikName": "УИК №916",
     "tikTvd": "25820001472035",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 917,
     "uikTvd": "4584002410379",
+    "uikName": "УИК №917",
     "tikTvd": "25820001472035",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 918,
     "uikTvd": "4584002410380",
+    "uikName": "УИК №918",
     "tikTvd": "25820001472035",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 919,
     "uikTvd": "4584002410381",
+    "uikName": "УИК №919",
     "tikTvd": "25820001472035",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 920,
     "uikTvd": "4584002410382",
+    "uikName": "УИК №920",
     "tikTvd": "25820001472035",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 921,
     "uikTvd": "4584002410383",
+    "uikName": "УИК №921",
     "tikTvd": "25820001472035",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 922,
     "uikTvd": "4584002410384",
+    "uikName": "УИК №922",
     "tikTvd": "25820001472035",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 923,
     "uikTvd": "4584002410385",
+    "uikName": "УИК №923",
     "tikTvd": "25820001472035",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 924,
     "uikTvd": "4584002410386",
+    "uikName": "УИК №924",
     "tikTvd": "25820001472035",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 925,
     "uikTvd": "4584002410387",
+    "uikName": "УИК №925",
     "tikTvd": "25820001472035",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 926,
     "uikTvd": "4584002410388",
+    "uikName": "УИК №926",
     "tikTvd": "25820001472035",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 927,
     "uikTvd": "4584002410389",
+    "uikName": "УИК №927",
     "tikTvd": "25820001472035",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 928,
     "uikTvd": "4584002410390",
+    "uikName": "УИК №928",
     "tikTvd": "25820001472035",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 929,
     "uikTvd": "4584002410391",
+    "uikName": "УИК №929",
     "tikTvd": "25820001472035",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 930,
     "uikTvd": "4584002410392",
+    "uikName": "УИК №930",
     "tikTvd": "25820001472035",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 931,
     "uikTvd": "4584002410393",
+    "uikName": "УИК №931",
     "tikTvd": "25820001472035",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 932,
     "uikTvd": "4584032389937",
+    "uikName": "УИК №932",
     "tikTvd": "25820001472034",
-    "tikName": "Тамалинская "
+    "tikName": "Тамалинская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 933,
     "uikTvd": "4584032389938",
+    "uikName": "УИК №933",
     "tikTvd": "25820001472034",
-    "tikName": "Тамалинская "
+    "tikName": "Тамалинская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 934,
     "uikTvd": "4584032389939",
+    "uikName": "УИК №934",
     "tikTvd": "25820001472034",
-    "tikName": "Тамалинская "
+    "tikName": "Тамалинская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 935,
     "uikTvd": "4584032389940",
+    "uikName": "УИК №935",
     "tikTvd": "25820001472034",
-    "tikName": "Тамалинская "
+    "tikName": "Тамалинская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 936,
     "uikTvd": "4584032389941",
+    "uikName": "УИК №936",
     "tikTvd": "25820001472034",
-    "tikName": "Тамалинская "
+    "tikName": "Тамалинская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 937,
     "uikTvd": "4584032389942",
+    "uikName": "УИК №937",
     "tikTvd": "25820001472034",
-    "tikName": "Тамалинская "
+    "tikName": "Тамалинская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 938,
     "uikTvd": "4584032389943",
+    "uikName": "УИК №938",
     "tikTvd": "25820001472034",
-    "tikName": "Тамалинская "
+    "tikName": "Тамалинская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 939,
     "uikTvd": "4584032389944",
+    "uikName": "УИК №939",
     "tikTvd": "25820001472034",
-    "tikName": "Тамалинская "
+    "tikName": "Тамалинская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 940,
     "uikTvd": "4584032389945",
+    "uikName": "УИК №940",
     "tikTvd": "25820001472034",
-    "tikName": "Тамалинская "
+    "tikName": "Тамалинская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 941,
     "uikTvd": "4584032389946",
+    "uikName": "УИК №941",
     "tikTvd": "25820001472034",
-    "tikName": "Тамалинская "
+    "tikName": "Тамалинская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 942,
     "uikTvd": "4584032389947",
+    "uikName": "УИК №942",
     "tikTvd": "25820001472034",
-    "tikName": "Тамалинская "
+    "tikName": "Тамалинская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 943,
     "uikTvd": "4584032389948",
+    "uikName": "УИК №943",
     "tikTvd": "25820001472034",
-    "tikName": "Тамалинская "
+    "tikName": "Тамалинская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 944,
     "uikTvd": "4584032389949",
+    "uikName": "УИК №944",
     "tikTvd": "25820001472034",
-    "tikName": "Тамалинская "
+    "tikName": "Тамалинская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 945,
     "uikTvd": "4584032389950",
+    "uikName": "УИК №945",
     "tikTvd": "25820001472034",
-    "tikName": "Тамалинская "
+    "tikName": "Тамалинская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 946,
     "uikTvd": "4584032389951",
+    "uikName": "УИК №946",
     "tikTvd": "25820001472034",
-    "tikName": "Тамалинская "
+    "tikName": "Тамалинская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 947,
     "uikTvd": "4584032389952",
+    "uikName": "УИК №947",
     "tikTvd": "25820001472034",
-    "tikName": "Тамалинская "
+    "tikName": "Тамалинская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 948,
     "uikTvd": "4584032389953",
+    "uikName": "УИК №948",
     "tikTvd": "25820001472034",
-    "tikName": "Тамалинская "
+    "tikName": "Тамалинская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 949,
     "uikTvd": "4584032389954",
+    "uikName": "УИК №949",
     "tikTvd": "25820001472034",
-    "tikName": "Тамалинская "
+    "tikName": "Тамалинская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 950,
     "uikTvd": "4584032389955",
+    "uikName": "УИК №950",
     "tikTvd": "25820001472034",
-    "tikName": "Тамалинская "
+    "tikName": "Тамалинская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 951,
     "uikTvd": "4584032389956",
+    "uikName": "УИК №951",
     "tikTvd": "25820001472034",
-    "tikName": "Тамалинская "
+    "tikName": "Тамалинская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 952,
     "uikTvd": "4584032389957",
+    "uikName": "УИК №952",
     "tikTvd": "25820001472034",
-    "tikName": "Тамалинская "
+    "tikName": "Тамалинская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 953,
     "uikTvd": "9589033357561",
+    "uikName": "УИК №953",
     "tikTvd": "25820001472033",
-    "tikName": "Шемышейская"
+    "tikName": "Шемышейская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 954,
     "uikTvd": "9589033357562",
+    "uikName": "УИК №954",
     "tikTvd": "25820001472033",
-    "tikName": "Шемышейская"
+    "tikName": "Шемышейская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 955,
     "uikTvd": "9589033357563",
+    "uikName": "УИК №955",
     "tikTvd": "25820001472033",
-    "tikName": "Шемышейская"
+    "tikName": "Шемышейская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 956,
     "uikTvd": "9589033357564",
+    "uikName": "УИК №956",
     "tikTvd": "25820001472033",
-    "tikName": "Шемышейская"
+    "tikName": "Шемышейская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 957,
     "uikTvd": "9589033357565",
+    "uikName": "УИК №957",
     "tikTvd": "25820001472033",
-    "tikName": "Шемышейская"
+    "tikName": "Шемышейская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 958,
     "uikTvd": "9589033357566",
+    "uikName": "УИК №958",
     "tikTvd": "25820001472033",
-    "tikName": "Шемышейская"
+    "tikName": "Шемышейская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 959,
     "uikTvd": "9589033357567",
+    "uikName": "УИК №959",
     "tikTvd": "25820001472033",
-    "tikName": "Шемышейская"
+    "tikName": "Шемышейская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 960,
     "uikTvd": "9589033357568",
+    "uikName": "УИК №960",
     "tikTvd": "25820001472033",
-    "tikName": "Шемышейская"
+    "tikName": "Шемышейская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 961,
     "uikTvd": "9589033357569",
+    "uikName": "УИК №961",
     "tikTvd": "25820001472033",
-    "tikName": "Шемышейская"
+    "tikName": "Шемышейская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 962,
     "uikTvd": "9589033357570",
+    "uikName": "УИК №962",
     "tikTvd": "25820001472033",
-    "tikName": "Шемышейская"
+    "tikName": "Шемышейская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 963,
     "uikTvd": "9589033357571",
+    "uikName": "УИК №963",
     "tikTvd": "25820001472033",
-    "tikName": "Шемышейская"
+    "tikName": "Шемышейская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 964,
     "uikTvd": "9589033357572",
+    "uikName": "УИК №964",
     "tikTvd": "25820001472033",
-    "tikName": "Шемышейская"
+    "tikName": "Шемышейская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 965,
     "uikTvd": "9589033357573",
+    "uikName": "УИК №965",
     "tikTvd": "25820001472033",
-    "tikName": "Шемышейская"
+    "tikName": "Шемышейская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 966,
     "uikTvd": "9589033357574",
+    "uikName": "УИК №966",
     "tikTvd": "25820001472033",
-    "tikName": "Шемышейская"
+    "tikName": "Шемышейская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 967,
     "uikTvd": "9589033357575",
+    "uikName": "УИК №967",
     "tikTvd": "25820001472033",
-    "tikName": "Шемышейская"
+    "tikName": "Шемышейская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 968,
     "uikTvd": "9589033357576",
+    "uikName": "УИК №968",
     "tikTvd": "25820001472033",
-    "tikName": "Шемышейская"
+    "tikName": "Шемышейская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 969,
     "uikTvd": "9589033357577",
+    "uikName": "УИК №969",
     "tikTvd": "25820001472033",
-    "tikName": "Шемышейская"
+    "tikName": "Шемышейская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 970,
     "uikTvd": "9589033357578",
+    "uikName": "УИК №970",
     "tikTvd": "25820001472033",
-    "tikName": "Шемышейская"
+    "tikName": "Шемышейская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 971,
     "uikTvd": "9589033357579",
+    "uikName": "УИК №971",
     "tikTvd": "25820001472033",
-    "tikName": "Шемышейская"
+    "tikName": "Шемышейская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 972,
     "uikTvd": "9589033357580",
+    "uikName": "УИК №972",
     "tikTvd": "25820001472033",
-    "tikName": "Шемышейская"
+    "tikName": "Шемышейская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 973,
     "uikTvd": "4584027600724",
+    "uikName": "УИК №973",
     "tikTvd": "25820001472065",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 974,
     "uikTvd": "4584027600725",
+    "uikName": "УИК №974",
     "tikTvd": "25820001472065",
-    "tikName": "Пенза, Октябрьская"
+    "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 975,
     "uikTvd": "45840281481354",
+    "uikName": "УИК №975",
     "tikTvd": "25820001472062",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 976,
     "uikTvd": "45840281481355",
+    "uikName": "УИК №976",
     "tikTvd": "25820001472062",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 977,
     "uikTvd": "45840281481356",
+    "uikName": "УИК №977",
     "tikTvd": "25820001472062",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   },
   {
     "uikNumber": 978,
     "uikTvd": "45840281481357",
+    "uikName": "УИК №978",
     "tikTvd": "25820001472062",
-    "tikName": "Пенза, Первомайская"
+    "tikName": "Пенза, Первомайская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
+    "district": null
   }
 ] satisfies readonly UikTikRelation[];

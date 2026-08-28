@@ -11,6 +11,9 @@ export const president_2024_tic_227_region_87 = [
     "ballot": "presidential",
     "tikTvd": "2872000483877",
     "tikName": "Эгвекинотская",
+    "regionCode": "87",
+    "regionTvd": "100100339411273",
+    "regionName": "Чукотский автономный округ",
     "uikCount": 8,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 3025,
@@ -59,6 +62,9 @@ export const president_2024_tic_227_region_87 = [
     "ballot": "presidential",
     "tikTvd": "2872000483878",
     "tikName": "Чукотская",
+    "regionCode": "87",
+    "regionTvd": "100100339411273",
+    "regionName": "Чукотский автономный округ",
     "uikCount": 6,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 2093,
@@ -105,6 +111,9 @@ export const president_2024_tic_227_region_87 = [
     "ballot": "presidential",
     "tikTvd": "2872000483879",
     "tikName": "Анадырская",
+    "regionCode": "87",
+    "regionTvd": "100100339411273",
+    "regionName": "Чукотский автономный округ",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 5059,
@@ -160,6 +169,9 @@ export const president_2024_tic_227_region_87 = [
     "ballot": "presidential",
     "tikTvd": "2872000483880",
     "tikName": "Анадырская городская",
+    "regionCode": "87",
+    "regionTvd": "100100339411273",
+    "regionName": "Чукотский автономный округ",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 11161,
@@ -214,6 +226,9 @@ export const president_2024_tic_227_region_87 = [
     "ballot": "presidential",
     "tikTvd": "2872000483881",
     "tikName": "Провиденская",
+    "regionCode": "87",
+    "regionTvd": "100100339411273",
+    "regionName": "Чукотский автономный округ",
     "uikCount": 6,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 2017,
@@ -260,6 +275,9 @@ export const president_2024_tic_227_region_87 = [
     "ballot": "presidential",
     "tikTvd": "2872000483882",
     "tikName": "Певекская",
+    "regionCode": "87",
+    "regionTvd": "100100339411273",
+    "regionName": "Чукотский автономный округ",
     "uikCount": 6,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 4552,
@@ -306,6 +324,9 @@ export const president_2024_tic_227_region_87 = [
     "ballot": "presidential",
     "tikTvd": "2872000483883",
     "tikName": "Билибинская",
+    "regionCode": "87",
+    "regionTvd": "100100339411273",
+    "regionName": "Чукотский автономный округ",
     "uikCount": 9,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 5599,

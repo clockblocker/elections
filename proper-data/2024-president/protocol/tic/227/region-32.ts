@@ -11,6 +11,9 @@ export const president_2024_tic_227_region_32 = [
     "ballot": "presidential",
     "tikTvd": "23220001507383",
     "tikName": "Унечская",
+    "regionCode": "32",
+    "regionTvd": "100100339411226",
+    "regionName": "Брянская область",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 28283,
@@ -89,6 +92,9 @@ export const president_2024_tic_227_region_32 = [
     "ballot": "presidential",
     "tikTvd": "23220001507384",
     "tikName": "Трубчевская",
+    "regionCode": "32",
+    "regionTvd": "100100339411226",
+    "regionName": "Брянская область",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 25036,
@@ -172,6 +178,9 @@ export const president_2024_tic_227_region_32 = [
     "ballot": "presidential",
     "tikTvd": "23220001507385",
     "tikName": "Суражская",
+    "regionCode": "32",
+    "regionTvd": "100100339411226",
+    "regionName": "Брянская область",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 16520,
@@ -245,6 +254,9 @@ export const president_2024_tic_227_region_32 = [
     "ballot": "presidential",
     "tikTvd": "23220001507386",
     "tikName": "Суземская",
+    "regionCode": "32",
+    "regionTvd": "100100339411226",
+    "regionName": "Брянская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 13797,
@@ -311,6 +323,9 @@ export const president_2024_tic_227_region_32 = [
     "ballot": "presidential",
     "tikTvd": "23220001507387",
     "tikName": "Стародубская",
+    "regionCode": "32",
+    "regionTvd": "100100339411226",
+    "regionName": "Брянская область",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 27319,
@@ -394,6 +409,9 @@ export const president_2024_tic_227_region_32 = [
     "ballot": "presidential",
     "tikTvd": "23220001507388",
     "tikName": "Сельцовская городская",
+    "regionCode": "32",
+    "regionTvd": "100100339411226",
+    "regionName": "Брянская область",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 12706,
@@ -445,6 +463,9 @@ export const president_2024_tic_227_region_32 = [
     "ballot": "presidential",
     "tikTvd": "23220001507389",
     "tikName": "Севская",
+    "regionCode": "32",
+    "regionTvd": "100100339411226",
+    "regionName": "Брянская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 11731,
@@ -513,6 +534,9 @@ export const president_2024_tic_227_region_32 = [
     "ballot": "presidential",
     "tikTvd": "23220001507390",
     "tikName": "Рогнединская",
+    "regionCode": "32",
+    "regionTvd": "100100339411226",
+    "regionName": "Брянская область",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 4469,
@@ -566,6 +590,9 @@ export const president_2024_tic_227_region_32 = [
     "ballot": "presidential",
     "tikTvd": "23220001507391",
     "tikName": "Почепская",
+    "regionCode": "32",
+    "regionTvd": "100100339411226",
+    "regionName": "Брянская область",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 26203,
@@ -656,6 +683,9 @@ export const president_2024_tic_227_region_32 = [
     "ballot": "presidential",
     "tikTvd": "23220001507392",
     "tikName": "Погарская",
+    "regionCode": "32",
+    "regionTvd": "100100339411226",
+    "regionName": "Брянская область",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 22612,
@@ -742,6 +772,9 @@ export const president_2024_tic_227_region_32 = [
     "ballot": "presidential",
     "tikTvd": "23220001507393",
     "tikName": "Новозыбковская городская",
+    "regionCode": "32",
+    "regionTvd": "100100339411226",
+    "regionName": "Брянская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 37725,
@@ -822,6 +855,9 @@ export const president_2024_tic_227_region_32 = [
     "ballot": "presidential",
     "tikTvd": "23220001507394",
     "tikName": "Навлинская",
+    "regionCode": "32",
+    "regionTvd": "100100339411226",
+    "regionName": "Брянская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 19808,
@@ -885,6 +921,9 @@ export const president_2024_tic_227_region_32 = [
     "ballot": "presidential",
     "tikTvd": "23220001507395",
     "tikName": "Мглинская",
+    "regionCode": "32",
+    "regionTvd": "100100339411226",
+    "regionName": "Брянская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 11718,
@@ -953,6 +992,9 @@ export const president_2024_tic_227_region_32 = [
     "ballot": "presidential",
     "tikTvd": "23220001507396",
     "tikName": "Красногорская",
+    "regionCode": "32",
+    "regionTvd": "100100339411226",
+    "regionName": "Брянская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9052,
@@ -1016,6 +1058,9 @@ export const president_2024_tic_227_region_32 = [
     "ballot": "presidential",
     "tikTvd": "23220001507397",
     "tikName": "Комаричская",
+    "regionCode": "32",
+    "regionTvd": "100100339411226",
+    "regionName": "Брянская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 11445,
@@ -1085,6 +1130,9 @@ export const president_2024_tic_227_region_32 = [
     "ballot": "presidential",
     "tikTvd": "23220001507398",
     "tikName": "Клинцовская городская",
+    "regionCode": "32",
+    "regionTvd": "100100339411226",
+    "regionName": "Брянская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 50399,
@@ -1153,6 +1201,9 @@ export const president_2024_tic_227_region_32 = [
     "ballot": "presidential",
     "tikTvd": "23220001507399",
     "tikName": "Клинцовская",
+    "regionCode": "32",
+    "regionTvd": "100100339411226",
+    "regionName": "Брянская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 12036,
@@ -1221,6 +1272,9 @@ export const president_2024_tic_227_region_32 = [
     "ballot": "presidential",
     "tikTvd": "23220001507400",
     "tikName": "Климовская",
+    "regionCode": "32",
+    "regionTvd": "100100339411226",
+    "regionName": "Брянская область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 25198,
@@ -1297,6 +1351,9 @@ export const president_2024_tic_227_region_32 = [
     "ballot": "presidential",
     "tikTvd": "23220001507401",
     "tikName": "Клетнянская",
+    "regionCode": "32",
+    "regionTvd": "100100339411226",
+    "regionName": "Брянская область",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 12856,
@@ -1364,6 +1421,9 @@ export const president_2024_tic_227_region_32 = [
     "ballot": "presidential",
     "tikTvd": "23220001507402",
     "tikName": "Карачевская",
+    "regionCode": "32",
+    "regionTvd": "100100339411226",
+    "regionName": "Брянская область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 24212,
@@ -1440,6 +1500,9 @@ export const president_2024_tic_227_region_32 = [
     "ballot": "presidential",
     "tikTvd": "23220001507403",
     "tikName": "Злынковская",
+    "regionCode": "32",
+    "regionTvd": "100100339411226",
+    "regionName": "Брянская область",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 8236,
@@ -1496,6 +1559,9 @@ export const president_2024_tic_227_region_32 = [
     "ballot": "presidential",
     "tikTvd": "23220001507404",
     "tikName": "Жуковская",
+    "regionCode": "32",
+    "regionTvd": "100100339411226",
+    "regionName": "Брянская область",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 24589,
@@ -1571,6 +1637,9 @@ export const president_2024_tic_227_region_32 = [
     "ballot": "presidential",
     "tikTvd": "23220001507405",
     "tikName": "Жирятинская",
+    "regionCode": "32",
+    "regionTvd": "100100339411226",
+    "regionName": "Брянская область",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 4483,
@@ -1625,6 +1694,9 @@ export const president_2024_tic_227_region_32 = [
     "ballot": "presidential",
     "tikTvd": "23220001507406",
     "tikName": "Дятьковская",
+    "regionCode": "32",
+    "regionTvd": "100100339411226",
+    "regionName": "Брянская область",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 53627,
@@ -1711,6 +1783,9 @@ export const president_2024_tic_227_region_32 = [
     "ballot": "presidential",
     "tikTvd": "23220001507407",
     "tikName": "Дубровская",
+    "regionCode": "32",
+    "regionTvd": "100100339411226",
+    "regionName": "Брянская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 12172,
@@ -1770,6 +1845,9 @@ export const president_2024_tic_227_region_32 = [
     "ballot": "presidential",
     "tikTvd": "23220001507408",
     "tikName": "Гордеевская",
+    "regionCode": "32",
+    "regionTvd": "100100339411226",
+    "regionName": "Брянская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 6782,
@@ -1831,6 +1909,9 @@ export const president_2024_tic_227_region_32 = [
     "ballot": "presidential",
     "tikTvd": "23220001507409",
     "tikName": "Выгоничская",
+    "regionCode": "32",
+    "regionTvd": "100100339411226",
+    "regionName": "Брянская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 13297,
@@ -1895,6 +1976,9 @@ export const president_2024_tic_227_region_32 = [
     "ballot": "presidential",
     "tikTvd": "23220001507410",
     "tikName": "Брянская",
+    "regionCode": "32",
+    "regionTvd": "100100339411226",
+    "regionName": "Брянская область",
     "uikCount": 47,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 53747,
@@ -1982,6 +2066,9 @@ export const president_2024_tic_227_region_32 = [
     "ballot": "presidential",
     "tikTvd": "23220001507411",
     "tikName": "Брянск, Фокинская",
+    "regionCode": "32",
+    "regionTvd": "100100339411226",
+    "regionName": "Брянская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 61740,
@@ -2053,6 +2140,9 @@ export const president_2024_tic_227_region_32 = [
     "ballot": "presidential",
     "tikTvd": "23220001507412",
     "tikName": "Брянск, Советская",
+    "regionCode": "32",
+    "regionTvd": "100100339411226",
+    "regionName": "Брянская область",
     "uikCount": 51,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 105276,
@@ -2144,6 +2234,9 @@ export const president_2024_tic_227_region_32 = [
     "ballot": "presidential",
     "tikTvd": "23220001507413",
     "tikName": "Брянск, Володарская",
+    "regionCode": "32",
+    "regionTvd": "100100339411226",
+    "regionName": "Брянская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 57986,
@@ -2213,6 +2306,9 @@ export const president_2024_tic_227_region_32 = [
     "ballot": "presidential",
     "tikTvd": "23220001507414",
     "tikName": "Брянск, Бежицкая",
+    "regionCode": "32",
+    "regionTvd": "100100339411226",
+    "regionName": "Брянская область",
     "uikCount": 64,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 123291,
@@ -2317,6 +2413,9 @@ export const president_2024_tic_227_region_32 = [
     "ballot": "presidential",
     "tikTvd": "23220001507415",
     "tikName": "Брасовская",
+    "regionCode": "32",
+    "regionTvd": "100100339411226",
+    "regionName": "Брянская область",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 13923,

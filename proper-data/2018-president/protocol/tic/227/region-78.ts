@@ -11,6 +11,9 @@ export const president_2018_tic_227_region_78 = [
     "ballot": "presidential",
     "tikTvd": "27820001024909",
     "tikName": "Территориальная избирательная комиссия №30",
+    "regionCode": "78",
+    "regionTvd": "100100084849201",
+    "regionName": "город Санкт-Петербург",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 66504,
@@ -94,6 +97,9 @@ export const president_2018_tic_227_region_78 = [
     "ballot": "presidential",
     "tikTvd": "27820001024910",
     "tikName": "Территориальная избирательная комиссия №29",
+    "regionCode": "78",
+    "regionTvd": "100100084849201",
+    "regionName": "город Санкт-Петербург",
     "uikCount": 76,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 159112,
@@ -214,6 +220,9 @@ export const president_2018_tic_227_region_78 = [
     "ballot": "presidential",
     "tikTvd": "27820001024911",
     "tikName": "Территориальная избирательная комиссия №28",
+    "regionCode": "78",
+    "regionTvd": "100100084849201",
+    "regionName": "город Санкт-Петербург",
     "uikCount": 79,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 158895,
@@ -337,6 +346,9 @@ export const president_2018_tic_227_region_78 = [
     "ballot": "presidential",
     "tikTvd": "27820001024912",
     "tikName": "Территориальная избирательная комиссия №27",
+    "regionCode": "78",
+    "regionTvd": "100100084849201",
+    "regionName": "город Санкт-Петербург",
     "uikCount": 48,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 85487,
@@ -429,6 +441,9 @@ export const president_2018_tic_227_region_78 = [
     "ballot": "presidential",
     "tikTvd": "27820001024913",
     "tikName": "Территориальная избирательная комиссия №26",
+    "regionCode": "78",
+    "regionTvd": "100100084849201",
+    "regionName": "город Санкт-Петербург",
     "uikCount": 69,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 126304,
@@ -542,6 +557,9 @@ export const president_2018_tic_227_region_78 = [
     "ballot": "presidential",
     "tikTvd": "27820001024914",
     "tikName": "Территориальная избирательная комиссия №25",
+    "regionCode": "78",
+    "regionTvd": "100100084849201",
+    "regionName": "город Санкт-Петербург",
     "uikCount": 75,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 128692,
@@ -661,6 +679,9 @@ export const president_2018_tic_227_region_78 = [
     "ballot": "presidential",
     "tikTvd": "27820001024915",
     "tikName": "Территориальная избирательная комиссия №24",
+    "regionCode": "78",
+    "regionTvd": "100100084849201",
+    "regionName": "город Санкт-Петербург",
     "uikCount": 61,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 117027,
@@ -766,6 +787,9 @@ export const president_2018_tic_227_region_78 = [
     "ballot": "presidential",
     "tikTvd": "27820001024916",
     "tikName": "Территориальная избирательная комиссия №23",
+    "regionCode": "78",
+    "regionTvd": "100100084849201",
+    "regionName": "город Санкт-Петербург",
     "uikCount": 69,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 133708,
@@ -879,6 +903,9 @@ export const president_2018_tic_227_region_78 = [
     "ballot": "presidential",
     "tikTvd": "27820001024917",
     "tikName": "Территориальная избирательная комиссия №22",
+    "regionCode": "78",
+    "regionTvd": "100100084849201",
+    "regionName": "город Санкт-Петербург",
     "uikCount": 77,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 130673,
@@ -1000,6 +1027,9 @@ export const president_2018_tic_227_region_78 = [
     "ballot": "presidential",
     "tikTvd": "27820001024918",
     "tikName": "Территориальная избирательная комиссия №21",
+    "regionCode": "78",
+    "regionTvd": "100100084849201",
+    "regionName": "город Санкт-Петербург",
     "uikCount": 69,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 139464,
@@ -1113,6 +1143,9 @@ export const president_2018_tic_227_region_78 = [
     "ballot": "presidential",
     "tikTvd": "27820001024919",
     "tikName": "Территориальная избирательная комиссия №20",
+    "regionCode": "78",
+    "regionTvd": "100100084849201",
+    "regionName": "город Санкт-Петербург",
     "uikCount": 74,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 150228,
@@ -1231,6 +1264,9 @@ export const president_2018_tic_227_region_78 = [
     "ballot": "presidential",
     "tikTvd": "27820001024920",
     "tikName": "Территориальная избирательная комиссия №19",
+    "regionCode": "78",
+    "regionTvd": "100100084849201",
+    "regionName": "город Санкт-Петербург",
     "uikCount": 75,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 134437,
@@ -1350,6 +1386,9 @@ export const president_2018_tic_227_region_78 = [
     "ballot": "presidential",
     "tikTvd": "27820001024921",
     "tikName": "Территориальная избирательная комиссия №18",
+    "regionCode": "78",
+    "regionTvd": "100100084849201",
+    "regionName": "город Санкт-Петербург",
     "uikCount": 55,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 98322,
@@ -1449,6 +1488,9 @@ export const president_2018_tic_227_region_78 = [
     "ballot": "presidential",
     "tikTvd": "27820001024922",
     "tikName": "Территориальная избирательная комиссия №17",
+    "regionCode": "78",
+    "regionTvd": "100100084849201",
+    "regionName": "город Санкт-Петербург",
     "uikCount": 66,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 126399,
@@ -1559,6 +1601,9 @@ export const president_2018_tic_227_region_78 = [
     "ballot": "presidential",
     "tikTvd": "27820001024923",
     "tikName": "Территориальная избирательная комиссия №16",
+    "regionCode": "78",
+    "regionTvd": "100100084849201",
+    "regionName": "город Санкт-Петербург",
     "uikCount": 47,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 85227,
@@ -1650,6 +1695,9 @@ export const president_2018_tic_227_region_78 = [
     "ballot": "presidential",
     "tikTvd": "27820001024924",
     "tikName": "Территориальная избирательная комиссия №15",
+    "regionCode": "78",
+    "regionTvd": "100100084849201",
+    "regionName": "город Санкт-Петербург",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 33253,
@@ -1716,6 +1764,9 @@ export const president_2018_tic_227_region_78 = [
     "ballot": "presidential",
     "tikTvd": "27820001024925",
     "tikName": "Территориальная избирательная комиссия №14",
+    "regionCode": "78",
+    "regionTvd": "100100084849201",
+    "regionName": "город Санкт-Петербург",
     "uikCount": 61,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 106553,
@@ -1821,6 +1872,9 @@ export const president_2018_tic_227_region_78 = [
     "ballot": "presidential",
     "tikTvd": "27820001024926",
     "tikName": "Территориальная избирательная комиссия №13",
+    "regionCode": "78",
+    "regionTvd": "100100084849201",
+    "regionName": "город Санкт-Петербург",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 50008,
@@ -1901,6 +1955,9 @@ export const president_2018_tic_227_region_78 = [
     "ballot": "presidential",
     "tikTvd": "27820001024927",
     "tikName": "Территориальная избирательная комиссия №12",
+    "regionCode": "78",
+    "regionTvd": "100100084849201",
+    "regionName": "город Санкт-Петербург",
     "uikCount": 63,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 124848,
@@ -2008,6 +2065,9 @@ export const president_2018_tic_227_region_78 = [
     "ballot": "presidential",
     "tikTvd": "27820001024928",
     "tikName": "Территориальная избирательная комиссия №11",
+    "regionCode": "78",
+    "regionTvd": "100100084849201",
+    "regionName": "город Санкт-Петербург",
     "uikCount": 96,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 199867,
@@ -2148,6 +2208,9 @@ export const president_2018_tic_227_region_78 = [
     "ballot": "presidential",
     "tikTvd": "27820001024929",
     "tikName": "Территориальная избирательная комиссия №10",
+    "regionCode": "78",
+    "regionTvd": "100100084849201",
+    "regionName": "город Санкт-Петербург",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 85111,
@@ -2238,6 +2301,9 @@ export const president_2018_tic_227_region_78 = [
     "ballot": "presidential",
     "tikTvd": "27820001024930",
     "tikName": "Территориальная избирательная комиссия №9",
+    "regionCode": "78",
+    "regionTvd": "100100084849201",
+    "regionName": "город Санкт-Петербург",
     "uikCount": 51,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 96986,
@@ -2333,6 +2399,9 @@ export const president_2018_tic_227_region_78 = [
     "ballot": "presidential",
     "tikTvd": "27820001024931",
     "tikName": "Территориальная избирательная комиссия №8",
+    "regionCode": "78",
+    "regionTvd": "100100084849201",
+    "regionName": "город Санкт-Петербург",
     "uikCount": 47,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 87042,
@@ -2424,6 +2493,9 @@ export const president_2018_tic_227_region_78 = [
     "ballot": "presidential",
     "tikTvd": "27820001024932",
     "tikName": "Территориальная избирательная комиссия №7",
+    "regionCode": "78",
+    "regionTvd": "100100084849201",
+    "regionName": "город Санкт-Петербург",
     "uikCount": 71,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 147275,
@@ -2539,6 +2611,9 @@ export const president_2018_tic_227_region_78 = [
     "ballot": "presidential",
     "tikTvd": "27820001024933",
     "tikName": "Территориальная избирательная комиссия №6",
+    "regionCode": "78",
+    "regionTvd": "100100084849201",
+    "regionName": "город Санкт-Петербург",
     "uikCount": 78,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 166539,
@@ -2661,6 +2736,9 @@ export const president_2018_tic_227_region_78 = [
     "ballot": "presidential",
     "tikTvd": "27820001024934",
     "tikName": "Территориальная избирательная комиссия №5",
+    "regionCode": "78",
+    "regionTvd": "100100084849201",
+    "regionName": "город Санкт-Петербург",
     "uikCount": 117,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 245125,
@@ -2822,6 +2900,9 @@ export const president_2018_tic_227_region_78 = [
     "ballot": "presidential",
     "tikTvd": "27820001024935",
     "tikName": "Территориальная избирательная комиссия №4",
+    "regionCode": "78",
+    "regionTvd": "100100084849201",
+    "regionName": "город Санкт-Петербург",
     "uikCount": 63,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 108357,
@@ -2929,6 +3010,9 @@ export const president_2018_tic_227_region_78 = [
     "ballot": "presidential",
     "tikTvd": "27820001024936",
     "tikName": "Территориальная избирательная комиссия №3",
+    "regionCode": "78",
+    "regionTvd": "100100084849201",
+    "regionName": "город Санкт-Петербург",
     "uikCount": 169,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 101732,
@@ -3142,6 +3226,9 @@ export const president_2018_tic_227_region_78 = [
     "ballot": "presidential",
     "tikTvd": "27820001024937",
     "tikName": "Территориальная избирательная комиссия №2",
+    "regionCode": "78",
+    "regionTvd": "100100084849201",
+    "regionName": "город Санкт-Петербург",
     "uikCount": 90,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 139622,
@@ -3276,6 +3363,9 @@ export const president_2018_tic_227_region_78 = [
     "ballot": "presidential",
     "tikTvd": "27820001024938",
     "tikName": "Территориальная избирательная комиссия №1",
+    "regionCode": "78",
+    "regionTvd": "100100084849201",
+    "regionName": "город Санкт-Петербург",
     "uikCount": 63,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 99601,

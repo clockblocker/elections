@@ -7,4333 +7,7943 @@ export const president_2024_uik_to_tik_region_67 = [
   {
     "uikNumber": 1,
     "uikTvd": "4674001218997",
+    "uikName": "УИК №1",
     "tikTvd": "26720001632308",
-    "tikName": "Велижская"
+    "tikName": "Велижская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 2,
     "uikTvd": "4674001218998",
+    "uikName": "УИК №2",
     "tikTvd": "26720001632308",
-    "tikName": "Велижская"
+    "tikName": "Велижская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 3,
     "uikTvd": "4674001218999",
+    "uikName": "УИК №3",
     "tikTvd": "26720001632308",
-    "tikName": "Велижская"
+    "tikName": "Велижская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 4,
     "uikTvd": "4674001219000",
+    "uikName": "УИК №4",
     "tikTvd": "26720001632308",
-    "tikName": "Велижская"
+    "tikName": "Велижская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 5,
     "uikTvd": "4674001219001",
+    "uikName": "УИК №5",
     "tikTvd": "26720001632308",
-    "tikName": "Велижская"
+    "tikName": "Велижская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 6,
     "uikTvd": "4674001219002",
+    "uikName": "УИК №6",
     "tikTvd": "26720001632308",
-    "tikName": "Велижская"
+    "tikName": "Велижская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 7,
     "uikTvd": "4674001219003",
+    "uikName": "УИК №7",
     "tikTvd": "26720001632308",
-    "tikName": "Велижская"
+    "tikName": "Велижская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 8,
     "uikTvd": "4674001219004",
+    "uikName": "УИК №8",
     "tikTvd": "26720001632308",
-    "tikName": "Велижская"
+    "tikName": "Велижская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 9,
     "uikTvd": "4674001219005",
+    "uikName": "УИК №9",
     "tikTvd": "26720001632308",
-    "tikName": "Велижская"
+    "tikName": "Велижская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 10,
     "uikTvd": "4674001219006",
+    "uikName": "УИК №10",
     "tikTvd": "26720001632308",
-    "tikName": "Велижская"
+    "tikName": "Велижская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 11,
     "uikTvd": "4674001219007",
+    "uikName": "УИК №11",
     "tikTvd": "26720001632308",
-    "tikName": "Велижская"
+    "tikName": "Велижская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 12,
     "uikTvd": "46740021141408",
+    "uikName": "УИК №12",
     "tikTvd": "26720001632309",
-    "tikName": "Вяземская"
+    "tikName": "Вяземская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 13,
     "uikTvd": "46740021141409",
+    "uikName": "УИК №13",
     "tikTvd": "26720001632309",
-    "tikName": "Вяземская"
+    "tikName": "Вяземская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 14,
     "uikTvd": "46740021141410",
+    "uikName": "УИК №14",
     "tikTvd": "26720001632309",
-    "tikName": "Вяземская"
+    "tikName": "Вяземская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 15,
     "uikTvd": "46740021141411",
+    "uikName": "УИК №15",
     "tikTvd": "26720001632309",
-    "tikName": "Вяземская"
+    "tikName": "Вяземская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 16,
     "uikTvd": "46740021141412",
+    "uikName": "УИК №16",
     "tikTvd": "26720001632309",
-    "tikName": "Вяземская"
+    "tikName": "Вяземская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 17,
     "uikTvd": "46740021141413",
+    "uikName": "УИК №17",
     "tikTvd": "26720001632309",
-    "tikName": "Вяземская"
+    "tikName": "Вяземская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 18,
     "uikTvd": "46740021141414",
+    "uikName": "УИК №18",
     "tikTvd": "26720001632309",
-    "tikName": "Вяземская"
+    "tikName": "Вяземская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 19,
     "uikTvd": "46740021141415",
+    "uikName": "УИК №19",
     "tikTvd": "26720001632309",
-    "tikName": "Вяземская"
+    "tikName": "Вяземская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 20,
     "uikTvd": "46740021141416",
+    "uikName": "УИК №20",
     "tikTvd": "26720001632309",
-    "tikName": "Вяземская"
+    "tikName": "Вяземская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 21,
     "uikTvd": "46740021141417",
+    "uikName": "УИК №21",
     "tikTvd": "26720001632309",
-    "tikName": "Вяземская"
+    "tikName": "Вяземская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 22,
     "uikTvd": "46740021141418",
+    "uikName": "УИК №22",
     "tikTvd": "26720001632309",
-    "tikName": "Вяземская"
+    "tikName": "Вяземская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 23,
     "uikTvd": "46740021141419",
+    "uikName": "УИК №23",
     "tikTvd": "26720001632309",
-    "tikName": "Вяземская"
+    "tikName": "Вяземская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 24,
     "uikTvd": "46740021141420",
+    "uikName": "УИК №24",
     "tikTvd": "26720001632309",
-    "tikName": "Вяземская"
+    "tikName": "Вяземская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 25,
     "uikTvd": "46740021141421",
+    "uikName": "УИК №25",
     "tikTvd": "26720001632309",
-    "tikName": "Вяземская"
+    "tikName": "Вяземская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 26,
     "uikTvd": "46740021141422",
+    "uikName": "УИК №26",
     "tikTvd": "26720001632309",
-    "tikName": "Вяземская"
+    "tikName": "Вяземская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 27,
     "uikTvd": "46740021141423",
+    "uikName": "УИК №27",
     "tikTvd": "26720001632309",
-    "tikName": "Вяземская"
+    "tikName": "Вяземская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 28,
     "uikTvd": "46740021141424",
+    "uikName": "УИК №28",
     "tikTvd": "26720001632309",
-    "tikName": "Вяземская"
+    "tikName": "Вяземская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 29,
     "uikTvd": "46740021141425",
+    "uikName": "УИК №29",
     "tikTvd": "26720001632309",
-    "tikName": "Вяземская"
+    "tikName": "Вяземская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 30,
     "uikTvd": "46740021141426",
+    "uikName": "УИК №30",
     "tikTvd": "26720001632309",
-    "tikName": "Вяземская"
+    "tikName": "Вяземская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 31,
     "uikTvd": "46740021141427",
+    "uikName": "УИК №31",
     "tikTvd": "26720001632309",
-    "tikName": "Вяземская"
+    "tikName": "Вяземская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 32,
     "uikTvd": "46740021141428",
+    "uikName": "УИК №32",
     "tikTvd": "26720001632309",
-    "tikName": "Вяземская"
+    "tikName": "Вяземская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 33,
     "uikTvd": "46740021141429",
+    "uikName": "УИК №33",
     "tikTvd": "26720001632309",
-    "tikName": "Вяземская"
+    "tikName": "Вяземская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 34,
     "uikTvd": "46740021141430",
+    "uikName": "УИК №34",
     "tikTvd": "26720001632309",
-    "tikName": "Вяземская"
+    "tikName": "Вяземская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 35,
     "uikTvd": "46740021141431",
+    "uikName": "УИК №35",
     "tikTvd": "26720001632309",
-    "tikName": "Вяземская"
+    "tikName": "Вяземская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 36,
     "uikTvd": "46740021141432",
+    "uikName": "УИК №36",
     "tikTvd": "26720001632309",
-    "tikName": "Вяземская"
+    "tikName": "Вяземская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 37,
     "uikTvd": "46740021141433",
+    "uikName": "УИК №37",
     "tikTvd": "26720001632309",
-    "tikName": "Вяземская"
+    "tikName": "Вяземская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 38,
     "uikTvd": "46740021141434",
+    "uikName": "УИК №38",
     "tikTvd": "26720001632309",
-    "tikName": "Вяземская"
+    "tikName": "Вяземская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 39,
     "uikTvd": "46740021141435",
+    "uikName": "УИК №39",
     "tikTvd": "26720001632309",
-    "tikName": "Вяземская"
+    "tikName": "Вяземская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 40,
     "uikTvd": "46740021141436",
+    "uikName": "УИК №40",
     "tikTvd": "26720001632309",
-    "tikName": "Вяземская"
+    "tikName": "Вяземская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 41,
     "uikTvd": "46740021141437",
+    "uikName": "УИК №41",
     "tikTvd": "26720001632309",
-    "tikName": "Вяземская"
+    "tikName": "Вяземская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 42,
     "uikTvd": "4674003398570",
+    "uikName": "УИК №42",
     "tikTvd": "26720001632335",
-    "tikName": "Гагаринская "
+    "tikName": "Гагаринская ",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 43,
     "uikTvd": "46740021141438",
+    "uikName": "УИК №43",
     "tikTvd": "26720001632309",
-    "tikName": "Вяземская"
+    "tikName": "Вяземская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 44,
     "uikTvd": "46740021141439",
+    "uikName": "УИК №44",
     "tikTvd": "26720001632309",
-    "tikName": "Вяземская"
+    "tikName": "Вяземская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 45,
     "uikTvd": "4674003398571",
+    "uikName": "УИК №45",
     "tikTvd": "26720001632335",
-    "tikName": "Гагаринская "
+    "tikName": "Гагаринская ",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 46,
     "uikTvd": "46740021141440",
+    "uikName": "УИК №46",
     "tikTvd": "26720001632309",
-    "tikName": "Вяземская"
+    "tikName": "Вяземская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 47,
     "uikTvd": "46740021141441",
+    "uikName": "УИК №47",
     "tikTvd": "26720001632309",
-    "tikName": "Вяземская"
+    "tikName": "Вяземская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 48,
     "uikTvd": "46740021141442",
+    "uikName": "УИК №48",
     "tikTvd": "26720001632309",
-    "tikName": "Вяземская"
+    "tikName": "Вяземская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 49,
     "uikTvd": "46740021141443",
+    "uikName": "УИК №49",
     "tikTvd": "26720001632309",
-    "tikName": "Вяземская"
+    "tikName": "Вяземская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 50,
     "uikTvd": "46740021141444",
+    "uikName": "УИК №50",
     "tikTvd": "26720001632309",
-    "tikName": "Вяземская"
+    "tikName": "Вяземская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 51,
     "uikTvd": "46740021141445",
+    "uikName": "УИК №51",
     "tikTvd": "26720001632309",
-    "tikName": "Вяземская"
+    "tikName": "Вяземская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 52,
     "uikTvd": "46740021141446",
+    "uikName": "УИК №52",
     "tikTvd": "26720001632309",
-    "tikName": "Вяземская"
+    "tikName": "Вяземская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 53,
     "uikTvd": "46740021141447",
+    "uikName": "УИК №53",
     "tikTvd": "26720001632309",
-    "tikName": "Вяземская"
+    "tikName": "Вяземская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 54,
     "uikTvd": "46740021141448",
+    "uikName": "УИК №54",
     "tikTvd": "26720001632309",
-    "tikName": "Вяземская"
+    "tikName": "Вяземская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 55,
     "uikTvd": "46740021141449",
+    "uikName": "УИК №55",
     "tikTvd": "26720001632309",
-    "tikName": "Вяземская"
+    "tikName": "Вяземская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 56,
     "uikTvd": "46740021141450",
+    "uikName": "УИК №56",
     "tikTvd": "26720001632309",
-    "tikName": "Вяземская"
+    "tikName": "Вяземская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 57,
     "uikTvd": "46740021141451",
+    "uikName": "УИК №57",
     "tikTvd": "26720001632309",
-    "tikName": "Вяземская"
+    "tikName": "Вяземская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 58,
     "uikTvd": "46740021141452",
+    "uikName": "УИК №58",
     "tikTvd": "26720001632309",
-    "tikName": "Вяземская"
+    "tikName": "Вяземская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 59,
     "uikTvd": "46740021141453",
+    "uikName": "УИК №59",
     "tikTvd": "26720001632309",
-    "tikName": "Вяземская"
+    "tikName": "Вяземская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 60,
     "uikTvd": "46740021141454",
+    "uikName": "УИК №60",
     "tikTvd": "26720001632309",
-    "tikName": "Вяземская"
+    "tikName": "Вяземская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 61,
     "uikTvd": "46740021141455",
+    "uikName": "УИК №61",
     "tikTvd": "26720001632309",
-    "tikName": "Вяземская"
+    "tikName": "Вяземская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 62,
     "uikTvd": "46740021141456",
+    "uikName": "УИК №62",
     "tikTvd": "26720001632309",
-    "tikName": "Вяземская"
+    "tikName": "Вяземская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 63,
     "uikTvd": "4674003398572",
+    "uikName": "УИК №63",
     "tikTvd": "26720001632335",
-    "tikName": "Гагаринская "
+    "tikName": "Гагаринская ",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 64,
     "uikTvd": "4674003398573",
+    "uikName": "УИК №64",
     "tikTvd": "26720001632335",
-    "tikName": "Гагаринская "
+    "tikName": "Гагаринская ",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 65,
     "uikTvd": "4674003398574",
+    "uikName": "УИК №65",
     "tikTvd": "26720001632335",
-    "tikName": "Гагаринская "
+    "tikName": "Гагаринская ",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 66,
     "uikTvd": "4674003398575",
+    "uikName": "УИК №66",
     "tikTvd": "26720001632335",
-    "tikName": "Гагаринская "
+    "tikName": "Гагаринская ",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 67,
     "uikTvd": "4674003398576",
+    "uikName": "УИК №67",
     "tikTvd": "26720001632335",
-    "tikName": "Гагаринская "
+    "tikName": "Гагаринская ",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 68,
     "uikTvd": "4674003398577",
+    "uikName": "УИК №68",
     "tikTvd": "26720001632335",
-    "tikName": "Гагаринская "
+    "tikName": "Гагаринская ",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 69,
     "uikTvd": "4674003398578",
+    "uikName": "УИК №69",
     "tikTvd": "26720001632335",
-    "tikName": "Гагаринская "
+    "tikName": "Гагаринская ",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 70,
     "uikTvd": "4674003398579",
+    "uikName": "УИК №70",
     "tikTvd": "26720001632335",
-    "tikName": "Гагаринская "
+    "tikName": "Гагаринская ",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 71,
     "uikTvd": "4674003398580",
+    "uikName": "УИК №71",
     "tikTvd": "26720001632335",
-    "tikName": "Гагаринская "
+    "tikName": "Гагаринская ",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 72,
     "uikTvd": "4674003398581",
+    "uikName": "УИК №72",
     "tikTvd": "26720001632335",
-    "tikName": "Гагаринская "
+    "tikName": "Гагаринская ",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 73,
     "uikTvd": "4674003398582",
+    "uikName": "УИК №73",
     "tikTvd": "26720001632335",
-    "tikName": "Гагаринская "
+    "tikName": "Гагаринская ",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 74,
     "uikTvd": "4674003398583",
+    "uikName": "УИК №74",
     "tikTvd": "26720001632335",
-    "tikName": "Гагаринская "
+    "tikName": "Гагаринская ",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 75,
     "uikTvd": "4674003398584",
+    "uikName": "УИК №75",
     "tikTvd": "26720001632335",
-    "tikName": "Гагаринская "
+    "tikName": "Гагаринская ",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 76,
     "uikTvd": "4674003398585",
+    "uikName": "УИК №76",
     "tikTvd": "26720001632335",
-    "tikName": "Гагаринская "
+    "tikName": "Гагаринская ",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 77,
     "uikTvd": "4674003398586",
+    "uikName": "УИК №77",
     "tikTvd": "26720001632335",
-    "tikName": "Гагаринская "
+    "tikName": "Гагаринская ",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 78,
     "uikTvd": "4674003398587",
+    "uikName": "УИК №78",
     "tikTvd": "26720001632335",
-    "tikName": "Гагаринская "
+    "tikName": "Гагаринская ",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 79,
     "uikTvd": "4674003398588",
+    "uikName": "УИК №79",
     "tikTvd": "26720001632335",
-    "tikName": "Гагаринская "
+    "tikName": "Гагаринская ",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 80,
     "uikTvd": "4674003398589",
+    "uikName": "УИК №80",
     "tikTvd": "26720001632335",
-    "tikName": "Гагаринская "
+    "tikName": "Гагаринская ",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 81,
     "uikTvd": "4674003398590",
+    "uikName": "УИК №81",
     "tikTvd": "26720001632335",
-    "tikName": "Гагаринская "
+    "tikName": "Гагаринская ",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 82,
     "uikTvd": "4674003398591",
+    "uikName": "УИК №82",
     "tikTvd": "26720001632335",
-    "tikName": "Гагаринская "
+    "tikName": "Гагаринская ",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 83,
     "uikTvd": "4674003398592",
+    "uikName": "УИК №83",
     "tikTvd": "26720001632335",
-    "tikName": "Гагаринская "
+    "tikName": "Гагаринская ",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 84,
     "uikTvd": "4674003398593",
+    "uikName": "УИК №84",
     "tikTvd": "26720001632335",
-    "tikName": "Гагаринская "
+    "tikName": "Гагаринская ",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 85,
     "uikTvd": "4674003398594",
+    "uikName": "УИК №85",
     "tikTvd": "26720001632335",
-    "tikName": "Гагаринская "
+    "tikName": "Гагаринская ",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 86,
     "uikTvd": "4674003398595",
+    "uikName": "УИК №86",
     "tikTvd": "26720001632335",
-    "tikName": "Гагаринская "
+    "tikName": "Гагаринская ",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 87,
     "uikTvd": "4674003398596",
+    "uikName": "УИК №87",
     "tikTvd": "26720001632335",
-    "tikName": "Гагаринская "
+    "tikName": "Гагаринская ",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 88,
     "uikTvd": "4674003398597",
+    "uikName": "УИК №88",
     "tikTvd": "26720001632335",
-    "tikName": "Гагаринская "
+    "tikName": "Гагаринская ",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 89,
     "uikTvd": "4674003398598",
+    "uikName": "УИК №89",
     "tikTvd": "26720001632335",
-    "tikName": "Гагаринская "
+    "tikName": "Гагаринская ",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 90,
     "uikTvd": "4674003398599",
+    "uikName": "УИК №90",
     "tikTvd": "26720001632335",
-    "tikName": "Гагаринская "
+    "tikName": "Гагаринская ",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 91,
     "uikTvd": "4674003398600",
+    "uikName": "УИК №91",
     "tikTvd": "26720001632335",
-    "tikName": "Гагаринская "
+    "tikName": "Гагаринская ",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 92,
     "uikTvd": "4674003398601",
+    "uikName": "УИК №92",
     "tikTvd": "26720001632335",
-    "tikName": "Гагаринская "
+    "tikName": "Гагаринская ",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 93,
     "uikTvd": "4674003398602",
+    "uikName": "УИК №93",
     "tikTvd": "26720001632335",
-    "tikName": "Гагаринская "
+    "tikName": "Гагаринская ",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 94,
     "uikTvd": "4674003398603",
+    "uikName": "УИК №94",
     "tikTvd": "26720001632335",
-    "tikName": "Гагаринская "
+    "tikName": "Гагаринская ",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 95,
     "uikTvd": "4674003398604",
+    "uikName": "УИК №95",
     "tikTvd": "26720001632335",
-    "tikName": "Гагаринская "
+    "tikName": "Гагаринская ",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 96,
     "uikTvd": "4674003398605",
+    "uikName": "УИК №96",
     "tikTvd": "26720001632335",
-    "tikName": "Гагаринская "
+    "tikName": "Гагаринская ",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 97,
     "uikTvd": "4674003398606",
+    "uikName": "УИК №97",
     "tikTvd": "26720001632335",
-    "tikName": "Гагаринская "
+    "tikName": "Гагаринская ",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 98,
     "uikTvd": "4674003398607",
+    "uikName": "УИК №98",
     "tikTvd": "26720001632335",
-    "tikName": "Гагаринская "
+    "tikName": "Гагаринская ",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 99,
     "uikTvd": "4674004213414",
+    "uikName": "УИК №99",
     "tikTvd": "26720001632310",
-    "tikName": "Глинковская"
+    "tikName": "Глинковская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 100,
     "uikTvd": "4674004213415",
+    "uikName": "УИК №100",
     "tikTvd": "26720001632310",
-    "tikName": "Глинковская"
+    "tikName": "Глинковская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 101,
     "uikTvd": "4674004213416",
+    "uikName": "УИК №101",
     "tikTvd": "26720001632310",
-    "tikName": "Глинковская"
+    "tikName": "Глинковская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 102,
     "uikTvd": "4674004213417",
+    "uikName": "УИК №102",
     "tikTvd": "26720001632310",
-    "tikName": "Глинковская"
+    "tikName": "Глинковская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 103,
     "uikTvd": "4674004213418",
+    "uikName": "УИК №103",
     "tikTvd": "26720001632310",
-    "tikName": "Глинковская"
+    "tikName": "Глинковская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 104,
     "uikTvd": "4674004213419",
+    "uikName": "УИК №104",
     "tikTvd": "26720001632310",
-    "tikName": "Глинковская"
+    "tikName": "Глинковская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 105,
     "uikTvd": "4674004213420",
+    "uikName": "УИК №105",
     "tikTvd": "26720001632310",
-    "tikName": "Глинковская"
+    "tikName": "Глинковская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 106,
     "uikTvd": "4674004213421",
+    "uikName": "УИК №106",
     "tikTvd": "26720001632310",
-    "tikName": "Глинковская"
+    "tikName": "Глинковская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 107,
     "uikTvd": "4674004213422",
+    "uikName": "УИК №107",
     "tikTvd": "26720001632310",
-    "tikName": "Глинковская"
+    "tikName": "Глинковская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 108,
     "uikTvd": "4674005281480",
+    "uikName": "УИК №108",
     "tikTvd": "26720001632311",
-    "tikName": "Демидовская"
+    "tikName": "Демидовская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 109,
     "uikTvd": "4674005281481",
+    "uikName": "УИК №109",
     "tikTvd": "26720001632311",
-    "tikName": "Демидовская"
+    "tikName": "Демидовская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 110,
     "uikTvd": "4674005281482",
+    "uikName": "УИК №110",
     "tikTvd": "26720001632311",
-    "tikName": "Демидовская"
+    "tikName": "Демидовская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 111,
     "uikTvd": "4674005281483",
+    "uikName": "УИК №111",
     "tikTvd": "26720001632311",
-    "tikName": "Демидовская"
+    "tikName": "Демидовская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 112,
     "uikTvd": "4674005281484",
+    "uikName": "УИК №112",
     "tikTvd": "26720001632311",
-    "tikName": "Демидовская"
+    "tikName": "Демидовская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 113,
     "uikTvd": "4674005281485",
+    "uikName": "УИК №113",
     "tikTvd": "26720001632311",
-    "tikName": "Демидовская"
+    "tikName": "Демидовская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 115,
     "uikTvd": "4674005281486",
+    "uikName": "УИК №115",
     "tikTvd": "26720001632311",
-    "tikName": "Демидовская"
+    "tikName": "Демидовская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 116,
     "uikTvd": "4674005281487",
+    "uikName": "УИК №116",
     "tikTvd": "26720001632311",
-    "tikName": "Демидовская"
+    "tikName": "Демидовская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 117,
     "uikTvd": "4674005281488",
+    "uikName": "УИК №117",
     "tikTvd": "26720001632311",
-    "tikName": "Демидовская"
+    "tikName": "Демидовская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 118,
     "uikTvd": "4674005281489",
+    "uikName": "УИК №118",
     "tikTvd": "26720001632311",
-    "tikName": "Демидовская"
+    "tikName": "Демидовская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 119,
     "uikTvd": "4674005281490",
+    "uikName": "УИК №119",
     "tikTvd": "26720001632311",
-    "tikName": "Демидовская"
+    "tikName": "Демидовская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 120,
     "uikTvd": "4674005281491",
+    "uikName": "УИК №120",
     "tikTvd": "26720001632311",
-    "tikName": "Демидовская"
+    "tikName": "Демидовская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 121,
     "uikTvd": "4674005281492",
+    "uikName": "УИК №121",
     "tikTvd": "26720001632311",
-    "tikName": "Демидовская"
+    "tikName": "Демидовская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 123,
     "uikTvd": "4674005281493",
+    "uikName": "УИК №123",
     "tikTvd": "26720001632311",
-    "tikName": "Демидовская"
+    "tikName": "Демидовская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 124,
     "uikTvd": "4674005281494",
+    "uikName": "УИК №124",
     "tikTvd": "26720001632311",
-    "tikName": "Демидовская"
+    "tikName": "Демидовская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 125,
     "uikTvd": "4674005281495",
+    "uikName": "УИК №125",
     "tikTvd": "26720001632311",
-    "tikName": "Демидовская"
+    "tikName": "Демидовская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 126,
     "uikTvd": "4674005281496",
+    "uikName": "УИК №126",
     "tikTvd": "26720001632311",
-    "tikName": "Демидовская"
+    "tikName": "Демидовская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 127,
     "uikTvd": "4674005281497",
+    "uikName": "УИК №127",
     "tikTvd": "26720001632311",
-    "tikName": "Демидовская"
+    "tikName": "Демидовская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 128,
     "uikTvd": "4674006238403",
+    "uikName": "УИК №128",
     "tikTvd": "26720001632312",
-    "tikName": "Десногорская"
+    "tikName": "Десногорская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 129,
     "uikTvd": "4674006238405",
+    "uikName": "УИК №129",
     "tikTvd": "26720001632312",
-    "tikName": "Десногорская"
+    "tikName": "Десногорская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 130,
     "uikTvd": "4674006238407",
+    "uikName": "УИК №130",
     "tikTvd": "26720001632312",
-    "tikName": "Десногорская"
+    "tikName": "Десногорская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 131,
     "uikTvd": "4674006238409",
+    "uikName": "УИК №131",
     "tikTvd": "26720001632312",
-    "tikName": "Десногорская"
+    "tikName": "Десногорская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 132,
     "uikTvd": "4674006238411",
+    "uikName": "УИК №132",
     "tikTvd": "26720001632312",
-    "tikName": "Десногорская"
+    "tikName": "Десногорская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 133,
     "uikTvd": "4674006238413",
+    "uikName": "УИК №133",
     "tikTvd": "26720001632312",
-    "tikName": "Десногорская"
+    "tikName": "Десногорская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 134,
     "uikTvd": "4674006238415",
+    "uikName": "УИК №134",
     "tikTvd": "26720001632312",
-    "tikName": "Десногорская"
+    "tikName": "Десногорская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 135,
     "uikTvd": "4674006238417",
+    "uikName": "УИК №135",
     "tikTvd": "26720001632312",
-    "tikName": "Десногорская"
+    "tikName": "Десногорская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 136,
     "uikTvd": "4674006238419",
+    "uikName": "УИК №136",
     "tikTvd": "26720001632312",
-    "tikName": "Десногорская"
+    "tikName": "Десногорская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 137,
     "uikTvd": "4674006238421",
+    "uikName": "УИК №137",
     "tikTvd": "26720001632312",
-    "tikName": "Десногорская"
+    "tikName": "Десногорская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 138,
     "uikTvd": "4674006238423",
+    "uikName": "УИК №138",
     "tikTvd": "26720001632312",
-    "tikName": "Десногорская"
+    "tikName": "Десногорская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 139,
     "uikTvd": "4674007382286",
+    "uikName": "УИК №139",
     "tikTvd": "26720001632313",
-    "tikName": "Дорогобужская"
+    "tikName": "Дорогобужская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 140,
     "uikTvd": "4674007382287",
+    "uikName": "УИК №140",
     "tikTvd": "26720001632313",
-    "tikName": "Дорогобужская"
+    "tikName": "Дорогобужская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 141,
     "uikTvd": "4674007382288",
+    "uikName": "УИК №141",
     "tikTvd": "26720001632313",
-    "tikName": "Дорогобужская"
+    "tikName": "Дорогобужская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 142,
     "uikTvd": "4674007382289",
+    "uikName": "УИК №142",
     "tikTvd": "26720001632313",
-    "tikName": "Дорогобужская"
+    "tikName": "Дорогобужская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 144,
     "uikTvd": "4674007382290",
+    "uikName": "УИК №144",
     "tikTvd": "26720001632313",
-    "tikName": "Дорогобужская"
+    "tikName": "Дорогобужская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 145,
     "uikTvd": "4674007382291",
+    "uikName": "УИК №145",
     "tikTvd": "26720001632313",
-    "tikName": "Дорогобужская"
+    "tikName": "Дорогобужская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 146,
     "uikTvd": "4674007382292",
+    "uikName": "УИК №146",
     "tikTvd": "26720001632313",
-    "tikName": "Дорогобужская"
+    "tikName": "Дорогобужская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 149,
     "uikTvd": "4674007382293",
+    "uikName": "УИК №149",
     "tikTvd": "26720001632313",
-    "tikName": "Дорогобужская"
+    "tikName": "Дорогобужская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 150,
     "uikTvd": "4674007382294",
+    "uikName": "УИК №150",
     "tikTvd": "26720001632313",
-    "tikName": "Дорогобужская"
+    "tikName": "Дорогобужская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 151,
     "uikTvd": "4674007382295",
+    "uikName": "УИК №151",
     "tikTvd": "26720001632313",
-    "tikName": "Дорогобужская"
+    "tikName": "Дорогобужская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 153,
     "uikTvd": "4674007382296",
+    "uikName": "УИК №153",
     "tikTvd": "26720001632313",
-    "tikName": "Дорогобужская"
+    "tikName": "Дорогобужская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 154,
     "uikTvd": "4674007382297",
+    "uikName": "УИК №154",
     "tikTvd": "26720001632313",
-    "tikName": "Дорогобужская"
+    "tikName": "Дорогобужская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 155,
     "uikTvd": "4674007382298",
+    "uikName": "УИК №155",
     "tikTvd": "26720001632313",
-    "tikName": "Дорогобужская"
+    "tikName": "Дорогобужская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 156,
     "uikTvd": "4674007382299",
+    "uikName": "УИК №156",
     "tikTvd": "26720001632313",
-    "tikName": "Дорогобужская"
+    "tikName": "Дорогобужская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 157,
     "uikTvd": "4674007382300",
+    "uikName": "УИК №157",
     "tikTvd": "26720001632313",
-    "tikName": "Дорогобужская"
+    "tikName": "Дорогобужская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 158,
     "uikTvd": "4674007382301",
+    "uikName": "УИК №158",
     "tikTvd": "26720001632313",
-    "tikName": "Дорогобужская"
+    "tikName": "Дорогобужская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 159,
     "uikTvd": "4674007382302",
+    "uikName": "УИК №159",
     "tikTvd": "26720001632313",
-    "tikName": "Дорогобужская"
+    "tikName": "Дорогобужская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 160,
     "uikTvd": "4674007382303",
+    "uikName": "УИК №160",
     "tikTvd": "26720001632313",
-    "tikName": "Дорогобужская"
+    "tikName": "Дорогобужская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 161,
     "uikTvd": "4674007382304",
+    "uikName": "УИК №161",
     "tikTvd": "26720001632313",
-    "tikName": "Дорогобужская"
+    "tikName": "Дорогобужская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 162,
     "uikTvd": "4674007382305",
+    "uikName": "УИК №162",
     "tikTvd": "26720001632313",
-    "tikName": "Дорогобужская"
+    "tikName": "Дорогобужская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 163,
     "uikTvd": "4674007382306",
+    "uikName": "УИК №163",
     "tikTvd": "26720001632313",
-    "tikName": "Дорогобужская"
+    "tikName": "Дорогобужская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 164,
     "uikTvd": "4674007382307",
+    "uikName": "УИК №164",
     "tikTvd": "26720001632313",
-    "tikName": "Дорогобужская"
+    "tikName": "Дорогобужская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 165,
     "uikTvd": "4674007382308",
+    "uikName": "УИК №165",
     "tikTvd": "26720001632313",
-    "tikName": "Дорогобужская"
+    "tikName": "Дорогобужская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 166,
     "uikTvd": "4674007382309",
+    "uikName": "УИК №166",
     "tikTvd": "26720001632313",
-    "tikName": "Дорогобужская"
+    "tikName": "Дорогобужская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 167,
     "uikTvd": "4674008276305",
+    "uikName": "УИК №167",
     "tikTvd": "26720001632314",
-    "tikName": "Духовщинская"
+    "tikName": "Духовщинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 168,
     "uikTvd": "4674008276306",
+    "uikName": "УИК №168",
     "tikTvd": "26720001632314",
-    "tikName": "Духовщинская"
+    "tikName": "Духовщинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 169,
     "uikTvd": "4674008276307",
+    "uikName": "УИК №169",
     "tikTvd": "26720001632314",
-    "tikName": "Духовщинская"
+    "tikName": "Духовщинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 170,
     "uikTvd": "4674008276308",
+    "uikName": "УИК №170",
     "tikTvd": "26720001632314",
-    "tikName": "Духовщинская"
+    "tikName": "Духовщинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 171,
     "uikTvd": "4674008276309",
+    "uikName": "УИК №171",
     "tikTvd": "26720001632314",
-    "tikName": "Духовщинская"
+    "tikName": "Духовщинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 173,
     "uikTvd": "4674008276310",
+    "uikName": "УИК №173",
     "tikTvd": "26720001632314",
-    "tikName": "Духовщинская"
+    "tikName": "Духовщинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 174,
     "uikTvd": "4674008276311",
+    "uikName": "УИК №174",
     "tikTvd": "26720001632314",
-    "tikName": "Духовщинская"
+    "tikName": "Духовщинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 175,
     "uikTvd": "4674008276312",
+    "uikName": "УИК №175",
     "tikTvd": "26720001632314",
-    "tikName": "Духовщинская"
+    "tikName": "Духовщинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 177,
     "uikTvd": "4674008276313",
+    "uikName": "УИК №177",
     "tikTvd": "26720001632314",
-    "tikName": "Духовщинская"
+    "tikName": "Духовщинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 178,
     "uikTvd": "4674008276314",
+    "uikName": "УИК №178",
     "tikTvd": "26720001632314",
-    "tikName": "Духовщинская"
+    "tikName": "Духовщинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 179,
     "uikTvd": "4674008276315",
+    "uikName": "УИК №179",
     "tikTvd": "26720001632314",
-    "tikName": "Духовщинская"
+    "tikName": "Духовщинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 180,
     "uikTvd": "4674008276316",
+    "uikName": "УИК №180",
     "tikTvd": "26720001632314",
-    "tikName": "Духовщинская"
+    "tikName": "Духовщинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 181,
     "uikTvd": "4674008276317",
+    "uikName": "УИК №181",
     "tikTvd": "26720001632314",
-    "tikName": "Духовщинская"
+    "tikName": "Духовщинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 182,
     "uikTvd": "4674008276318",
+    "uikName": "УИК №182",
     "tikTvd": "26720001632314",
-    "tikName": "Духовщинская"
+    "tikName": "Духовщинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 183,
     "uikTvd": "4674008276319",
+    "uikName": "УИК №183",
     "tikTvd": "26720001632314",
-    "tikName": "Духовщинская"
+    "tikName": "Духовщинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 185,
     "uikTvd": "4674008276320",
+    "uikName": "УИК №185",
     "tikTvd": "26720001632314",
-    "tikName": "Духовщинская"
+    "tikName": "Духовщинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 186,
     "uikTvd": "4674008276321",
+    "uikName": "УИК №186",
     "tikTvd": "26720001632314",
-    "tikName": "Духовщинская"
+    "tikName": "Духовщинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 187,
     "uikTvd": "4674008276322",
+    "uikName": "УИК №187",
     "tikTvd": "26720001632314",
-    "tikName": "Духовщинская"
+    "tikName": "Духовщинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 188,
     "uikTvd": "4674009262112",
+    "uikName": "УИК №188",
     "tikTvd": "26720001632315",
-    "tikName": "Ельнинская"
+    "tikName": "Ельнинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 189,
     "uikTvd": "4674009262113",
+    "uikName": "УИК №189",
     "tikTvd": "26720001632315",
-    "tikName": "Ельнинская"
+    "tikName": "Ельнинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 190,
     "uikTvd": "4674009262114",
+    "uikName": "УИК №190",
     "tikTvd": "26720001632315",
-    "tikName": "Ельнинская"
+    "tikName": "Ельнинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 191,
     "uikTvd": "4674009262115",
+    "uikName": "УИК №191",
     "tikTvd": "26720001632315",
-    "tikName": "Ельнинская"
+    "tikName": "Ельнинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 192,
     "uikTvd": "4674009262116",
+    "uikName": "УИК №192",
     "tikTvd": "26720001632315",
-    "tikName": "Ельнинская"
+    "tikName": "Ельнинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 193,
     "uikTvd": "4674009262117",
+    "uikName": "УИК №193",
     "tikTvd": "26720001632315",
-    "tikName": "Ельнинская"
+    "tikName": "Ельнинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 194,
     "uikTvd": "4674009262118",
+    "uikName": "УИК №194",
     "tikTvd": "26720001632315",
-    "tikName": "Ельнинская"
+    "tikName": "Ельнинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 195,
     "uikTvd": "4674009262119",
+    "uikName": "УИК №195",
     "tikTvd": "26720001632315",
-    "tikName": "Ельнинская"
+    "tikName": "Ельнинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 196,
     "uikTvd": "4674009262120",
+    "uikName": "УИК №196",
     "tikTvd": "26720001632315",
-    "tikName": "Ельнинская"
+    "tikName": "Ельнинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 198,
     "uikTvd": "4674009262121",
+    "uikName": "УИК №198",
     "tikTvd": "26720001632315",
-    "tikName": "Ельнинская"
+    "tikName": "Ельнинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 200,
     "uikTvd": "4674009262122",
+    "uikName": "УИК №200",
     "tikTvd": "26720001632315",
-    "tikName": "Ельнинская"
+    "tikName": "Ельнинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 202,
     "uikTvd": "4674009262123",
+    "uikName": "УИК №202",
     "tikTvd": "26720001632315",
-    "tikName": "Ельнинская"
+    "tikName": "Ельнинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 204,
     "uikTvd": "4674009262124",
+    "uikName": "УИК №204",
     "tikTvd": "26720001632315",
-    "tikName": "Ельнинская"
+    "tikName": "Ельнинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 205,
     "uikTvd": "4674009262125",
+    "uikName": "УИК №205",
     "tikTvd": "26720001632315",
-    "tikName": "Ельнинская"
+    "tikName": "Ельнинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 206,
     "uikTvd": "4674009262126",
+    "uikName": "УИК №206",
     "tikTvd": "26720001632315",
-    "tikName": "Ельнинская"
+    "tikName": "Ельнинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 207,
     "uikTvd": "4674009262127",
+    "uikName": "УИК №207",
     "tikTvd": "26720001632315",
-    "tikName": "Ельнинская"
+    "tikName": "Ельнинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 208,
     "uikTvd": "4674009262128",
+    "uikName": "УИК №208",
     "tikTvd": "26720001632315",
-    "tikName": "Ельнинская"
+    "tikName": "Ельнинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 209,
     "uikTvd": "4674009262129",
+    "uikName": "УИК №209",
     "tikTvd": "26720001632315",
-    "tikName": "Ельнинская"
+    "tikName": "Ельнинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 210,
     "uikTvd": "4674009262130",
+    "uikName": "УИК №210",
     "tikTvd": "26720001632315",
-    "tikName": "Ельнинская"
+    "tikName": "Ельнинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 211,
     "uikTvd": "4674010223292",
+    "uikName": "УИК №211",
     "tikTvd": "26720001632316",
-    "tikName": "Ершичская"
+    "tikName": "Ершичская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 212,
     "uikTvd": "4674010223293",
+    "uikName": "УИК №212",
     "tikTvd": "26720001632316",
-    "tikName": "Ершичская"
+    "tikName": "Ершичская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 213,
     "uikTvd": "4674010223294",
+    "uikName": "УИК №213",
     "tikTvd": "26720001632316",
-    "tikName": "Ершичская"
+    "tikName": "Ершичская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 214,
     "uikTvd": "4674010223295",
+    "uikName": "УИК №214",
     "tikTvd": "26720001632316",
-    "tikName": "Ершичская"
+    "tikName": "Ершичская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 215,
     "uikTvd": "4674010223296",
+    "uikName": "УИК №215",
     "tikTvd": "26720001632316",
-    "tikName": "Ершичская"
+    "tikName": "Ершичская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 216,
     "uikTvd": "4674010223297",
+    "uikName": "УИК №216",
     "tikTvd": "26720001632316",
-    "tikName": "Ершичская"
+    "tikName": "Ершичская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 217,
     "uikTvd": "4674010223298",
+    "uikName": "УИК №217",
     "tikTvd": "26720001632316",
-    "tikName": "Ершичская"
+    "tikName": "Ершичская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 220,
     "uikTvd": "4674010223299",
+    "uikName": "УИК №220",
     "tikTvd": "26720001632316",
-    "tikName": "Ершичская"
+    "tikName": "Ершичская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 224,
     "uikTvd": "9679011254295",
+    "uikName": "УИК №224",
     "tikTvd": "26720001632336",
-    "tikName": "Кардымовская"
+    "tikName": "Кардымовская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 225,
     "uikTvd": "9679011254296",
+    "uikName": "УИК №225",
     "tikTvd": "26720001632336",
-    "tikName": "Кардымовская"
+    "tikName": "Кардымовская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 226,
     "uikTvd": "9679011254297",
+    "uikName": "УИК №226",
     "tikTvd": "26720001632336",
-    "tikName": "Кардымовская"
+    "tikName": "Кардымовская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 227,
     "uikTvd": "9679011254298",
+    "uikName": "УИК №227",
     "tikTvd": "26720001632336",
-    "tikName": "Кардымовская"
+    "tikName": "Кардымовская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 228,
     "uikTvd": "9679011254299",
+    "uikName": "УИК №228",
     "tikTvd": "26720001632336",
-    "tikName": "Кардымовская"
+    "tikName": "Кардымовская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 230,
     "uikTvd": "9679011254300",
+    "uikName": "УИК №230",
     "tikTvd": "26720001632336",
-    "tikName": "Кардымовская"
+    "tikName": "Кардымовская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 231,
     "uikTvd": "9679011254301",
+    "uikName": "УИК №231",
     "tikTvd": "26720001632336",
-    "tikName": "Кардымовская"
+    "tikName": "Кардымовская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 232,
     "uikTvd": "9679011254302",
+    "uikName": "УИК №232",
     "tikTvd": "26720001632336",
-    "tikName": "Кардымовская"
+    "tikName": "Кардымовская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 234,
     "uikTvd": "9679011254303",
+    "uikName": "УИК №234",
     "tikTvd": "26720001632336",
-    "tikName": "Кардымовская"
+    "tikName": "Кардымовская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 235,
     "uikTvd": "9679011254304",
+    "uikName": "УИК №235",
     "tikTvd": "26720001632336",
-    "tikName": "Кардымовская"
+    "tikName": "Кардымовская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 236,
     "uikTvd": "9679011254305",
+    "uikName": "УИК №236",
     "tikTvd": "26720001632336",
-    "tikName": "Кардымовская"
+    "tikName": "Кардымовская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 238,
     "uikTvd": "9679011254306",
+    "uikName": "УИК №238",
     "tikTvd": "26720001632336",
-    "tikName": "Кардымовская"
+    "tikName": "Кардымовская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 239,
     "uikTvd": "9679011254307",
+    "uikName": "УИК №239",
     "tikTvd": "26720001632336",
-    "tikName": "Кардымовская"
+    "tikName": "Кардымовская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 240,
     "uikTvd": "4674012252679",
+    "uikName": "УИК №240",
     "tikTvd": "26720001632317",
-    "tikName": "Краснинская"
+    "tikName": "Краснинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 241,
     "uikTvd": "4674012252680",
+    "uikName": "УИК №241",
     "tikTvd": "26720001632317",
-    "tikName": "Краснинская"
+    "tikName": "Краснинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 242,
     "uikTvd": "4674012252681",
+    "uikName": "УИК №242",
     "tikTvd": "26720001632317",
-    "tikName": "Краснинская"
+    "tikName": "Краснинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 246,
     "uikTvd": "4674012252682",
+    "uikName": "УИК №246",
     "tikTvd": "26720001632317",
-    "tikName": "Краснинская"
+    "tikName": "Краснинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 247,
     "uikTvd": "4674012252683",
+    "uikName": "УИК №247",
     "tikTvd": "26720001632317",
-    "tikName": "Краснинская"
+    "tikName": "Краснинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 248,
     "uikTvd": "4674012252684",
+    "uikName": "УИК №248",
     "tikTvd": "26720001632317",
-    "tikName": "Краснинская"
+    "tikName": "Краснинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 249,
     "uikTvd": "4674012252685",
+    "uikName": "УИК №249",
     "tikTvd": "26720001632317",
-    "tikName": "Краснинская"
+    "tikName": "Краснинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 253,
     "uikTvd": "4674012252686",
+    "uikName": "УИК №253",
     "tikTvd": "26720001632317",
-    "tikName": "Краснинская"
+    "tikName": "Краснинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 255,
     "uikTvd": "4674012252687",
+    "uikName": "УИК №255",
     "tikTvd": "26720001632317",
-    "tikName": "Краснинская"
+    "tikName": "Краснинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 256,
     "uikTvd": "4674012252688",
+    "uikName": "УИК №256",
     "tikTvd": "26720001632317",
-    "tikName": "Краснинская"
+    "tikName": "Краснинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 257,
     "uikTvd": "4674012252689",
+    "uikName": "УИК №257",
     "tikTvd": "26720001632317",
-    "tikName": "Краснинская"
+    "tikName": "Краснинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 260,
     "uikTvd": "4674012252690",
+    "uikName": "УИК №260",
     "tikTvd": "26720001632317",
-    "tikName": "Краснинская"
+    "tikName": "Краснинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 262,
     "uikTvd": "4674012252691",
+    "uikName": "УИК №262",
     "tikTvd": "26720001632317",
-    "tikName": "Краснинская"
+    "tikName": "Краснинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 263,
     "uikTvd": "4674013280153",
+    "uikName": "УИК №263",
     "tikTvd": "26720001632318",
-    "tikName": "Монастырщинская"
+    "tikName": "Монастырщинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 264,
     "uikTvd": "4674013280154",
+    "uikName": "УИК №264",
     "tikTvd": "26720001632318",
-    "tikName": "Монастырщинская"
+    "tikName": "Монастырщинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 265,
     "uikTvd": "4674013280155",
+    "uikName": "УИК №265",
     "tikTvd": "26720001632318",
-    "tikName": "Монастырщинская"
+    "tikName": "Монастырщинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 266,
     "uikTvd": "4674013280156",
+    "uikName": "УИК №266",
     "tikTvd": "26720001632318",
-    "tikName": "Монастырщинская"
+    "tikName": "Монастырщинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 267,
     "uikTvd": "4674013280157",
+    "uikName": "УИК №267",
     "tikTvd": "26720001632318",
-    "tikName": "Монастырщинская"
+    "tikName": "Монастырщинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 269,
     "uikTvd": "4674013280158",
+    "uikName": "УИК №269",
     "tikTvd": "26720001632318",
-    "tikName": "Монастырщинская"
+    "tikName": "Монастырщинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 270,
     "uikTvd": "4674013280159",
+    "uikName": "УИК №270",
     "tikTvd": "26720001632318",
-    "tikName": "Монастырщинская"
+    "tikName": "Монастырщинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 271,
     "uikTvd": "4674013280160",
+    "uikName": "УИК №271",
     "tikTvd": "26720001632318",
-    "tikName": "Монастырщинская"
+    "tikName": "Монастырщинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 272,
     "uikTvd": "4674013280161",
+    "uikName": "УИК №272",
     "tikTvd": "26720001632318",
-    "tikName": "Монастырщинская"
+    "tikName": "Монастырщинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 273,
     "uikTvd": "4674013280162",
+    "uikName": "УИК №273",
     "tikTvd": "26720001632318",
-    "tikName": "Монастырщинская"
+    "tikName": "Монастырщинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 275,
     "uikTvd": "4674013280163",
+    "uikName": "УИК №275",
     "tikTvd": "26720001632318",
-    "tikName": "Монастырщинская"
+    "tikName": "Монастырщинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 277,
     "uikTvd": "4674013280164",
+    "uikName": "УИК №277",
     "tikTvd": "26720001632318",
-    "tikName": "Монастырщинская"
+    "tikName": "Монастырщинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 279,
     "uikTvd": "4674013280165",
+    "uikName": "УИК №279",
     "tikTvd": "26720001632318",
-    "tikName": "Монастырщинская"
+    "tikName": "Монастырщинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 280,
     "uikTvd": "4674013280166",
+    "uikName": "УИК №280",
     "tikTvd": "26720001632318",
-    "tikName": "Монастырщинская"
+    "tikName": "Монастырщинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 282,
     "uikTvd": "4674013280167",
+    "uikName": "УИК №282",
     "tikTvd": "26720001632318",
-    "tikName": "Монастырщинская"
+    "tikName": "Монастырщинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 283,
     "uikTvd": "4674013280168",
+    "uikName": "УИК №283",
     "tikTvd": "26720001632318",
-    "tikName": "Монастырщинская"
+    "tikName": "Монастырщинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 285,
     "uikTvd": "4674014252660",
+    "uikName": "УИК №285",
     "tikTvd": "26720001632319",
-    "tikName": "Новодугинская"
+    "tikName": "Новодугинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 286,
     "uikTvd": "4674014252661",
+    "uikName": "УИК №286",
     "tikTvd": "26720001632319",
-    "tikName": "Новодугинская"
+    "tikName": "Новодугинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 287,
     "uikTvd": "4674014252662",
+    "uikName": "УИК №287",
     "tikTvd": "26720001632319",
-    "tikName": "Новодугинская"
+    "tikName": "Новодугинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 288,
     "uikTvd": "4674014252663",
+    "uikName": "УИК №288",
     "tikTvd": "26720001632319",
-    "tikName": "Новодугинская"
+    "tikName": "Новодугинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 291,
     "uikTvd": "4674014252664",
+    "uikName": "УИК №291",
     "tikTvd": "26720001632319",
-    "tikName": "Новодугинская"
+    "tikName": "Новодугинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 292,
     "uikTvd": "4674014252665",
+    "uikName": "УИК №292",
     "tikTvd": "26720001632319",
-    "tikName": "Новодугинская"
+    "tikName": "Новодугинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 294,
     "uikTvd": "4674014252666",
+    "uikName": "УИК №294",
     "tikTvd": "26720001632319",
-    "tikName": "Новодугинская"
+    "tikName": "Новодугинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 297,
     "uikTvd": "4674014252667",
+    "uikName": "УИК №297",
     "tikTvd": "26720001632319",
-    "tikName": "Новодугинская"
+    "tikName": "Новодугинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 298,
     "uikTvd": "4674014252668",
+    "uikName": "УИК №298",
     "tikTvd": "26720001632319",
-    "tikName": "Новодугинская"
+    "tikName": "Новодугинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 299,
     "uikTvd": "4674014252669",
+    "uikName": "УИК №299",
     "tikTvd": "26720001632319",
-    "tikName": "Новодугинская"
+    "tikName": "Новодугинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 301,
     "uikTvd": "4674014252670",
+    "uikName": "УИК №301",
     "tikTvd": "26720001632319",
-    "tikName": "Новодугинская"
+    "tikName": "Новодугинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 304,
     "uikTvd": "4674015519279",
+    "uikName": "УИК №304",
     "tikTvd": "26720001632321",
-    "tikName": "Починковская"
+    "tikName": "Починковская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 305,
     "uikTvd": "4674015519280",
+    "uikName": "УИК №305",
     "tikTvd": "26720001632321",
-    "tikName": "Починковская"
+    "tikName": "Починковская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 306,
     "uikTvd": "4674015519281",
+    "uikName": "УИК №306",
     "tikTvd": "26720001632321",
-    "tikName": "Починковская"
+    "tikName": "Починковская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 307,
     "uikTvd": "4674015519282",
+    "uikName": "УИК №307",
     "tikTvd": "26720001632321",
-    "tikName": "Починковская"
+    "tikName": "Починковская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 308,
     "uikTvd": "4674015519283",
+    "uikName": "УИК №308",
     "tikTvd": "26720001632321",
-    "tikName": "Починковская"
+    "tikName": "Починковская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 310,
     "uikTvd": "4674015519284",
+    "uikName": "УИК №310",
     "tikTvd": "26720001632321",
-    "tikName": "Починковская"
+    "tikName": "Починковская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 311,
     "uikTvd": "4674015519285",
+    "uikName": "УИК №311",
     "tikTvd": "26720001632321",
-    "tikName": "Починковская"
+    "tikName": "Починковская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 312,
     "uikTvd": "4674015519286",
+    "uikName": "УИК №312",
     "tikTvd": "26720001632321",
-    "tikName": "Починковская"
+    "tikName": "Починковская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 314,
     "uikTvd": "4674015519287",
+    "uikName": "УИК №314",
     "tikTvd": "26720001632321",
-    "tikName": "Починковская"
+    "tikName": "Починковская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 316,
     "uikTvd": "4674015519288",
+    "uikName": "УИК №316",
     "tikTvd": "26720001632321",
-    "tikName": "Починковская"
+    "tikName": "Починковская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 317,
     "uikTvd": "4674015519289",
+    "uikName": "УИК №317",
     "tikTvd": "26720001632321",
-    "tikName": "Починковская"
+    "tikName": "Починковская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 318,
     "uikTvd": "4674015519290",
+    "uikName": "УИК №318",
     "tikTvd": "26720001632321",
-    "tikName": "Починковская"
+    "tikName": "Починковская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 319,
     "uikTvd": "4674015519291",
+    "uikName": "УИК №319",
     "tikTvd": "26720001632321",
-    "tikName": "Починковская"
+    "tikName": "Починковская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 321,
     "uikTvd": "4674015519292",
+    "uikName": "УИК №321",
     "tikTvd": "26720001632321",
-    "tikName": "Починковская"
+    "tikName": "Починковская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 322,
     "uikTvd": "4674015519293",
+    "uikName": "УИК №322",
     "tikTvd": "26720001632321",
-    "tikName": "Починковская"
+    "tikName": "Починковская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 323,
     "uikTvd": "4674015519294",
+    "uikName": "УИК №323",
     "tikTvd": "26720001632321",
-    "tikName": "Починковская"
+    "tikName": "Починковская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 324,
     "uikTvd": "4674015519295",
+    "uikName": "УИК №324",
     "tikTvd": "26720001632321",
-    "tikName": "Починковская"
+    "tikName": "Починковская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 325,
     "uikTvd": "4674015519296",
+    "uikName": "УИК №325",
     "tikTvd": "26720001632321",
-    "tikName": "Починковская"
+    "tikName": "Починковская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 326,
     "uikTvd": "4674015519297",
+    "uikName": "УИК №326",
     "tikTvd": "26720001632321",
-    "tikName": "Починковская"
+    "tikName": "Починковская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 328,
     "uikTvd": "4674015519298",
+    "uikName": "УИК №328",
     "tikTvd": "26720001632321",
-    "tikName": "Починковская"
+    "tikName": "Починковская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 329,
     "uikTvd": "4674015519299",
+    "uikName": "УИК №329",
     "tikTvd": "26720001632321",
-    "tikName": "Починковская"
+    "tikName": "Починковская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 330,
     "uikTvd": "4674015519300",
+    "uikName": "УИК №330",
     "tikTvd": "26720001632321",
-    "tikName": "Починковская"
+    "tikName": "Починковская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 331,
     "uikTvd": "4674015519301",
+    "uikName": "УИК №331",
     "tikTvd": "26720001632321",
-    "tikName": "Починковская"
+    "tikName": "Починковская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 334,
     "uikTvd": "4674015519302",
+    "uikName": "УИК №334",
     "tikTvd": "26720001632321",
-    "tikName": "Починковская"
+    "tikName": "Починковская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 336,
     "uikTvd": "4674015519303",
+    "uikName": "УИК №336",
     "tikTvd": "26720001632321",
-    "tikName": "Починковская"
+    "tikName": "Починковская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 337,
     "uikTvd": "4674015519304",
+    "uikName": "УИК №337",
     "tikTvd": "26720001632321",
-    "tikName": "Починковская"
+    "tikName": "Починковская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 338,
     "uikTvd": "4674015519305",
+    "uikName": "УИК №338",
     "tikTvd": "26720001632321",
-    "tikName": "Починковская"
+    "tikName": "Починковская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 339,
     "uikTvd": "4674015519306",
+    "uikName": "УИК №339",
     "tikTvd": "26720001632321",
-    "tikName": "Починковская"
+    "tikName": "Починковская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 341,
     "uikTvd": "4674015519307",
+    "uikName": "УИК №341",
     "tikTvd": "26720001632321",
-    "tikName": "Починковская"
+    "tikName": "Починковская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 343,
     "uikTvd": "4674015519308",
+    "uikName": "УИК №343",
     "tikTvd": "26720001632321",
-    "tikName": "Починковская"
+    "tikName": "Починковская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 344,
     "uikTvd": "4674016446474",
+    "uikName": "УИК №344",
     "tikTvd": "26720001632322",
-    "tikName": "Рославльская"
+    "tikName": "Рославльская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 345,
     "uikTvd": "4674016446475",
+    "uikName": "УИК №345",
     "tikTvd": "26720001632322",
-    "tikName": "Рославльская"
+    "tikName": "Рославльская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 346,
     "uikTvd": "4674016446476",
+    "uikName": "УИК №346",
     "tikTvd": "26720001632322",
-    "tikName": "Рославльская"
+    "tikName": "Рославльская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 347,
     "uikTvd": "4674016446477",
+    "uikName": "УИК №347",
     "tikTvd": "26720001632322",
-    "tikName": "Рославльская"
+    "tikName": "Рославльская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 348,
     "uikTvd": "4674016446478",
+    "uikName": "УИК №348",
     "tikTvd": "26720001632322",
-    "tikName": "Рославльская"
+    "tikName": "Рославльская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 349,
     "uikTvd": "4674016446479",
+    "uikName": "УИК №349",
     "tikTvd": "26720001632322",
-    "tikName": "Рославльская"
+    "tikName": "Рославльская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 350,
     "uikTvd": "4674016446480",
+    "uikName": "УИК №350",
     "tikTvd": "26720001632322",
-    "tikName": "Рославльская"
+    "tikName": "Рославльская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 351,
     "uikTvd": "4674016446481",
+    "uikName": "УИК №351",
     "tikTvd": "26720001632322",
-    "tikName": "Рославльская"
+    "tikName": "Рославльская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 352,
     "uikTvd": "4674016446482",
+    "uikName": "УИК №352",
     "tikTvd": "26720001632322",
-    "tikName": "Рославльская"
+    "tikName": "Рославльская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 353,
     "uikTvd": "4674016446483",
+    "uikName": "УИК №353",
     "tikTvd": "26720001632322",
-    "tikName": "Рославльская"
+    "tikName": "Рославльская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 354,
     "uikTvd": "4674016446484",
+    "uikName": "УИК №354",
     "tikTvd": "26720001632322",
-    "tikName": "Рославльская"
+    "tikName": "Рославльская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 355,
     "uikTvd": "4674016446485",
+    "uikName": "УИК №355",
     "tikTvd": "26720001632322",
-    "tikName": "Рославльская"
+    "tikName": "Рославльская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 356,
     "uikTvd": "4674016446486",
+    "uikName": "УИК №356",
     "tikTvd": "26720001632322",
-    "tikName": "Рославльская"
+    "tikName": "Рославльская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 357,
     "uikTvd": "4674016446487",
+    "uikName": "УИК №357",
     "tikTvd": "26720001632322",
-    "tikName": "Рославльская"
+    "tikName": "Рославльская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 358,
     "uikTvd": "4674016446488",
+    "uikName": "УИК №358",
     "tikTvd": "26720001632322",
-    "tikName": "Рославльская"
+    "tikName": "Рославльская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 359,
     "uikTvd": "4674016446489",
+    "uikName": "УИК №359",
     "tikTvd": "26720001632322",
-    "tikName": "Рославльская"
+    "tikName": "Рославльская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 360,
     "uikTvd": "4674016446490",
+    "uikName": "УИК №360",
     "tikTvd": "26720001632322",
-    "tikName": "Рославльская"
+    "tikName": "Рославльская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 361,
     "uikTvd": "4674016446491",
+    "uikName": "УИК №361",
     "tikTvd": "26720001632322",
-    "tikName": "Рославльская"
+    "tikName": "Рославльская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 362,
     "uikTvd": "4674016446492",
+    "uikName": "УИК №362",
     "tikTvd": "26720001632322",
-    "tikName": "Рославльская"
+    "tikName": "Рославльская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 363,
     "uikTvd": "4674016446493",
+    "uikName": "УИК №363",
     "tikTvd": "26720001632322",
-    "tikName": "Рославльская"
+    "tikName": "Рославльская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 364,
     "uikTvd": "4674016446494",
+    "uikName": "УИК №364",
     "tikTvd": "26720001632322",
-    "tikName": "Рославльская"
+    "tikName": "Рославльская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 365,
     "uikTvd": "4674016446495",
+    "uikName": "УИК №365",
     "tikTvd": "26720001632322",
-    "tikName": "Рославльская"
+    "tikName": "Рославльская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 366,
     "uikTvd": "4674016446496",
+    "uikName": "УИК №366",
     "tikTvd": "26720001632322",
-    "tikName": "Рославльская"
+    "tikName": "Рославльская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 367,
     "uikTvd": "4674016446497",
+    "uikName": "УИК №367",
     "tikTvd": "26720001632322",
-    "tikName": "Рославльская"
+    "tikName": "Рославльская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 368,
     "uikTvd": "4674016446498",
+    "uikName": "УИК №368",
     "tikTvd": "26720001632322",
-    "tikName": "Рославльская"
+    "tikName": "Рославльская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 369,
     "uikTvd": "4674016446499",
+    "uikName": "УИК №369",
     "tikTvd": "26720001632322",
-    "tikName": "Рославльская"
+    "tikName": "Рославльская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 370,
     "uikTvd": "4674016446500",
+    "uikName": "УИК №370",
     "tikTvd": "26720001632322",
-    "tikName": "Рославльская"
+    "tikName": "Рославльская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 372,
     "uikTvd": "4674016446501",
+    "uikName": "УИК №372",
     "tikTvd": "26720001632322",
-    "tikName": "Рославльская"
+    "tikName": "Рославльская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 373,
     "uikTvd": "4674016446502",
+    "uikName": "УИК №373",
     "tikTvd": "26720001632322",
-    "tikName": "Рославльская"
+    "tikName": "Рославльская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 375,
     "uikTvd": "4674016446503",
+    "uikName": "УИК №375",
     "tikTvd": "26720001632322",
-    "tikName": "Рославльская"
+    "tikName": "Рославльская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 376,
     "uikTvd": "4674016446504",
+    "uikName": "УИК №376",
     "tikTvd": "26720001632322",
-    "tikName": "Рославльская"
+    "tikName": "Рославльская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 377,
     "uikTvd": "4674016446505",
+    "uikName": "УИК №377",
     "tikTvd": "26720001632322",
-    "tikName": "Рославльская"
+    "tikName": "Рославльская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 378,
     "uikTvd": "4674016446506",
+    "uikName": "УИК №378",
     "tikTvd": "26720001632322",
-    "tikName": "Рославльская"
+    "tikName": "Рославльская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 379,
     "uikTvd": "4674016446507",
+    "uikName": "УИК №379",
     "tikTvd": "26720001632322",
-    "tikName": "Рославльская"
+    "tikName": "Рославльская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 380,
     "uikTvd": "4674016446508",
+    "uikName": "УИК №380",
     "tikTvd": "26720001632322",
-    "tikName": "Рославльская"
+    "tikName": "Рославльская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 381,
     "uikTvd": "4674016446509",
+    "uikName": "УИК №381",
     "tikTvd": "26720001632322",
-    "tikName": "Рославльская"
+    "tikName": "Рославльская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 382,
     "uikTvd": "4674016446510",
+    "uikName": "УИК №382",
     "tikTvd": "26720001632322",
-    "tikName": "Рославльская"
+    "tikName": "Рославльская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 383,
     "uikTvd": "4674016446511",
+    "uikName": "УИК №383",
     "tikTvd": "26720001632322",
-    "tikName": "Рославльская"
+    "tikName": "Рославльская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 384,
     "uikTvd": "4674016446512",
+    "uikName": "УИК №384",
     "tikTvd": "26720001632322",
-    "tikName": "Рославльская"
+    "tikName": "Рославльская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 385,
     "uikTvd": "4674016446513",
+    "uikName": "УИК №385",
     "tikTvd": "26720001632322",
-    "tikName": "Рославльская"
+    "tikName": "Рославльская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 386,
     "uikTvd": "4674016446514",
+    "uikName": "УИК №386",
     "tikTvd": "26720001632322",
-    "tikName": "Рославльская"
+    "tikName": "Рославльская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 387,
     "uikTvd": "4674016446515",
+    "uikName": "УИК №387",
     "tikTvd": "26720001632322",
-    "tikName": "Рославльская"
+    "tikName": "Рославльская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 388,
     "uikTvd": "4674016446516",
+    "uikName": "УИК №388",
     "tikTvd": "26720001632322",
-    "tikName": "Рославльская"
+    "tikName": "Рославльская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 389,
     "uikTvd": "4674016446517",
+    "uikName": "УИК №389",
     "tikTvd": "26720001632322",
-    "tikName": "Рославльская"
+    "tikName": "Рославльская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 390,
     "uikTvd": "4674016446518",
+    "uikName": "УИК №390",
     "tikTvd": "26720001632322",
-    "tikName": "Рославльская"
+    "tikName": "Рославльская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 391,
     "uikTvd": "4674017330096",
+    "uikName": "УИК №391",
     "tikTvd": "26720001632323",
-    "tikName": "Руднянская"
+    "tikName": "Руднянская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 392,
     "uikTvd": "4674017330097",
+    "uikName": "УИК №392",
     "tikTvd": "26720001632323",
-    "tikName": "Руднянская"
+    "tikName": "Руднянская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 393,
     "uikTvd": "4674017330098",
+    "uikName": "УИК №393",
     "tikTvd": "26720001632323",
-    "tikName": "Руднянская"
+    "tikName": "Руднянская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 394,
     "uikTvd": "4674017330099",
+    "uikName": "УИК №394",
     "tikTvd": "26720001632323",
-    "tikName": "Руднянская"
+    "tikName": "Руднянская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 395,
     "uikTvd": "4674017330100",
+    "uikName": "УИК №395",
     "tikTvd": "26720001632323",
-    "tikName": "Руднянская"
+    "tikName": "Руднянская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 396,
     "uikTvd": "4674017330101",
+    "uikName": "УИК №396",
     "tikTvd": "26720001632323",
-    "tikName": "Руднянская"
+    "tikName": "Руднянская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 397,
     "uikTvd": "4674017330102",
+    "uikName": "УИК №397",
     "tikTvd": "26720001632323",
-    "tikName": "Руднянская"
+    "tikName": "Руднянская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 398,
     "uikTvd": "4674017330103",
+    "uikName": "УИК №398",
     "tikTvd": "26720001632323",
-    "tikName": "Руднянская"
+    "tikName": "Руднянская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 399,
     "uikTvd": "4674017330104",
+    "uikName": "УИК №399",
     "tikTvd": "26720001632323",
-    "tikName": "Руднянская"
+    "tikName": "Руднянская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 402,
     "uikTvd": "4674017330105",
+    "uikName": "УИК №402",
     "tikTvd": "26720001632323",
-    "tikName": "Руднянская"
+    "tikName": "Руднянская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 403,
     "uikTvd": "4674017330106",
+    "uikName": "УИК №403",
     "tikTvd": "26720001632323",
-    "tikName": "Руднянская"
+    "tikName": "Руднянская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 404,
     "uikTvd": "4674017330107",
+    "uikName": "УИК №404",
     "tikTvd": "26720001632323",
-    "tikName": "Руднянская"
+    "tikName": "Руднянская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 405,
     "uikTvd": "4674017330108",
+    "uikName": "УИК №405",
     "tikTvd": "26720001632323",
-    "tikName": "Руднянская"
+    "tikName": "Руднянская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 409,
     "uikTvd": "4674017330109",
+    "uikName": "УИК №409",
     "tikTvd": "26720001632323",
-    "tikName": "Руднянская"
+    "tikName": "Руднянская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 411,
     "uikTvd": "4674017330110",
+    "uikName": "УИК №411",
     "tikTvd": "26720001632323",
-    "tikName": "Руднянская"
+    "tikName": "Руднянская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 412,
     "uikTvd": "4674017330111",
+    "uikName": "УИК №412",
     "tikTvd": "26720001632323",
-    "tikName": "Руднянская"
+    "tikName": "Руднянская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 413,
     "uikTvd": "4674017330112",
+    "uikName": "УИК №413",
     "tikTvd": "26720001632323",
-    "tikName": "Руднянская"
+    "tikName": "Руднянская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 414,
     "uikTvd": "4674017330113",
+    "uikName": "УИК №414",
     "tikTvd": "26720001632323",
-    "tikName": "Руднянская"
+    "tikName": "Руднянская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 415,
     "uikTvd": "4674017330114",
+    "uikName": "УИК №415",
     "tikTvd": "26720001632323",
-    "tikName": "Руднянская"
+    "tikName": "Руднянская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 416,
     "uikTvd": "4674017330115",
+    "uikName": "УИК №416",
     "tikTvd": "26720001632323",
-    "tikName": "Руднянская"
+    "tikName": "Руднянская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 417,
     "uikTvd": "4674017330116",
+    "uikName": "УИК №417",
     "tikTvd": "26720001632323",
-    "tikName": "Руднянская"
+    "tikName": "Руднянская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 419,
     "uikTvd": "4674017330117",
+    "uikName": "УИК №419",
     "tikTvd": "26720001632323",
-    "tikName": "Руднянская"
+    "tikName": "Руднянская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 420,
     "uikTvd": "4674017330118",
+    "uikName": "УИК №420",
     "tikTvd": "26720001632323",
-    "tikName": "Руднянская"
+    "tikName": "Руднянская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 422,
     "uikTvd": "4674017330119",
+    "uikName": "УИК №422",
     "tikTvd": "26720001632323",
-    "tikName": "Руднянская"
+    "tikName": "Руднянская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 424,
     "uikTvd": "4674017330120",
+    "uikName": "УИК №424",
     "tikTvd": "26720001632323",
-    "tikName": "Руднянская"
+    "tikName": "Руднянская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 428,
     "uikTvd": "4674017330121",
+    "uikName": "УИК №428",
     "tikTvd": "26720001632323",
-    "tikName": "Руднянская"
+    "tikName": "Руднянская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 430,
     "uikTvd": "4674018416615",
+    "uikName": "УИК №430",
     "tikTvd": "26720001632320",
-    "tikName": "Сафоновская"
+    "tikName": "Сафоновская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 431,
     "uikTvd": "4674018416616",
+    "uikName": "УИК №431",
     "tikTvd": "26720001632320",
-    "tikName": "Сафоновская"
+    "tikName": "Сафоновская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 432,
     "uikTvd": "4674018416617",
+    "uikName": "УИК №432",
     "tikTvd": "26720001632320",
-    "tikName": "Сафоновская"
+    "tikName": "Сафоновская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 433,
     "uikTvd": "4674018416618",
+    "uikName": "УИК №433",
     "tikTvd": "26720001632320",
-    "tikName": "Сафоновская"
+    "tikName": "Сафоновская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 434,
     "uikTvd": "4674018416619",
+    "uikName": "УИК №434",
     "tikTvd": "26720001632320",
-    "tikName": "Сафоновская"
+    "tikName": "Сафоновская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 435,
     "uikTvd": "4674018416620",
+    "uikName": "УИК №435",
     "tikTvd": "26720001632320",
-    "tikName": "Сафоновская"
+    "tikName": "Сафоновская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 436,
     "uikTvd": "4674018416621",
+    "uikName": "УИК №436",
     "tikTvd": "26720001632320",
-    "tikName": "Сафоновская"
+    "tikName": "Сафоновская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 437,
     "uikTvd": "4674018416622",
+    "uikName": "УИК №437",
     "tikTvd": "26720001632320",
-    "tikName": "Сафоновская"
+    "tikName": "Сафоновская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 438,
     "uikTvd": "4674018416623",
+    "uikName": "УИК №438",
     "tikTvd": "26720001632320",
-    "tikName": "Сафоновская"
+    "tikName": "Сафоновская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 439,
     "uikTvd": "4674018416624",
+    "uikName": "УИК №439",
     "tikTvd": "26720001632320",
-    "tikName": "Сафоновская"
+    "tikName": "Сафоновская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 440,
     "uikTvd": "4674018416625",
+    "uikName": "УИК №440",
     "tikTvd": "26720001632320",
-    "tikName": "Сафоновская"
+    "tikName": "Сафоновская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 441,
     "uikTvd": "4674018416626",
+    "uikName": "УИК №441",
     "tikTvd": "26720001632320",
-    "tikName": "Сафоновская"
+    "tikName": "Сафоновская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 442,
     "uikTvd": "4674018416627",
+    "uikName": "УИК №442",
     "tikTvd": "26720001632320",
-    "tikName": "Сафоновская"
+    "tikName": "Сафоновская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 443,
     "uikTvd": "4674018416628",
+    "uikName": "УИК №443",
     "tikTvd": "26720001632320",
-    "tikName": "Сафоновская"
+    "tikName": "Сафоновская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 444,
     "uikTvd": "4674018416629",
+    "uikName": "УИК №444",
     "tikTvd": "26720001632320",
-    "tikName": "Сафоновская"
+    "tikName": "Сафоновская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 445,
     "uikTvd": "4674018416630",
+    "uikName": "УИК №445",
     "tikTvd": "26720001632320",
-    "tikName": "Сафоновская"
+    "tikName": "Сафоновская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 446,
     "uikTvd": "4674018416631",
+    "uikName": "УИК №446",
     "tikTvd": "26720001632320",
-    "tikName": "Сафоновская"
+    "tikName": "Сафоновская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 447,
     "uikTvd": "4674018416632",
+    "uikName": "УИК №447",
     "tikTvd": "26720001632320",
-    "tikName": "Сафоновская"
+    "tikName": "Сафоновская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 448,
     "uikTvd": "4674018416633",
+    "uikName": "УИК №448",
     "tikTvd": "26720001632320",
-    "tikName": "Сафоновская"
+    "tikName": "Сафоновская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 450,
     "uikTvd": "4674018416634",
+    "uikName": "УИК №450",
     "tikTvd": "26720001632320",
-    "tikName": "Сафоновская"
+    "tikName": "Сафоновская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 451,
     "uikTvd": "4674018416635",
+    "uikName": "УИК №451",
     "tikTvd": "26720001632320",
-    "tikName": "Сафоновская"
+    "tikName": "Сафоновская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 452,
     "uikTvd": "4674018416636",
+    "uikName": "УИК №452",
     "tikTvd": "26720001632320",
-    "tikName": "Сафоновская"
+    "tikName": "Сафоновская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 454,
     "uikTvd": "4674018416637",
+    "uikName": "УИК №454",
     "tikTvd": "26720001632320",
-    "tikName": "Сафоновская"
+    "tikName": "Сафоновская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 455,
     "uikTvd": "4674018416638",
+    "uikName": "УИК №455",
     "tikTvd": "26720001632320",
-    "tikName": "Сафоновская"
+    "tikName": "Сафоновская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 457,
     "uikTvd": "4674018416639",
+    "uikName": "УИК №457",
     "tikTvd": "26720001632320",
-    "tikName": "Сафоновская"
+    "tikName": "Сафоновская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 458,
     "uikTvd": "4674018416640",
+    "uikName": "УИК №458",
     "tikTvd": "26720001632320",
-    "tikName": "Сафоновская"
+    "tikName": "Сафоновская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 460,
     "uikTvd": "4674018416641",
+    "uikName": "УИК №460",
     "tikTvd": "26720001632320",
-    "tikName": "Сафоновская"
+    "tikName": "Сафоновская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 461,
     "uikTvd": "4674018416642",
+    "uikName": "УИК №461",
     "tikTvd": "26720001632320",
-    "tikName": "Сафоновская"
+    "tikName": "Сафоновская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 462,
     "uikTvd": "4674018416643",
+    "uikName": "УИК №462",
     "tikTvd": "26720001632320",
-    "tikName": "Сафоновская"
+    "tikName": "Сафоновская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 463,
     "uikTvd": "4674018416644",
+    "uikName": "УИК №463",
     "tikTvd": "26720001632320",
-    "tikName": "Сафоновская"
+    "tikName": "Сафоновская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 464,
     "uikTvd": "4674018416645",
+    "uikName": "УИК №464",
     "tikTvd": "26720001632320",
-    "tikName": "Сафоновская"
+    "tikName": "Сафоновская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 465,
     "uikTvd": "4674018416646",
+    "uikName": "УИК №465",
     "tikTvd": "26720001632320",
-    "tikName": "Сафоновская"
+    "tikName": "Сафоновская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 466,
     "uikTvd": "4674018416647",
+    "uikName": "УИК №466",
     "tikTvd": "26720001632320",
-    "tikName": "Сафоновская"
+    "tikName": "Сафоновская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 467,
     "uikTvd": "4674018416648",
+    "uikName": "УИК №467",
     "tikTvd": "26720001632320",
-    "tikName": "Сафоновская"
+    "tikName": "Сафоновская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 468,
     "uikTvd": "4674018416649",
+    "uikName": "УИК №468",
     "tikTvd": "26720001632320",
-    "tikName": "Сафоновская"
+    "tikName": "Сафоновская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 469,
     "uikTvd": "4674018416650",
+    "uikName": "УИК №469",
     "tikTvd": "26720001632320",
-    "tikName": "Сафоновская"
+    "tikName": "Сафоновская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 470,
     "uikTvd": "4674018416651",
+    "uikName": "УИК №470",
     "tikTvd": "26720001632320",
-    "tikName": "Сафоновская"
+    "tikName": "Сафоновская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 471,
     "uikTvd": "4674018416652",
+    "uikName": "УИК №471",
     "tikTvd": "26720001632320",
-    "tikName": "Сафоновская"
+    "tikName": "Сафоновская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 472,
     "uikTvd": "4674018416653",
+    "uikName": "УИК №472",
     "tikTvd": "26720001632320",
-    "tikName": "Сафоновская"
+    "tikName": "Сафоновская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 473,
     "uikTvd": "4674018416654",
+    "uikName": "УИК №473",
     "tikTvd": "26720001632320",
-    "tikName": "Сафоновская"
+    "tikName": "Сафоновская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 474,
     "uikTvd": "4674019484182",
+    "uikName": "УИК №474",
     "tikTvd": "26720001632324",
-    "tikName": "Смоленск, Заднепровская"
+    "tikName": "Смоленск, Заднепровская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 475,
     "uikTvd": "4674019484183",
+    "uikName": "УИК №475",
     "tikTvd": "26720001632324",
-    "tikName": "Смоленск, Заднепровская"
+    "tikName": "Смоленск, Заднепровская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 476,
     "uikTvd": "4674019484184",
+    "uikName": "УИК №476",
     "tikTvd": "26720001632324",
-    "tikName": "Смоленск, Заднепровская"
+    "tikName": "Смоленск, Заднепровская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 477,
     "uikTvd": "4674019484185",
+    "uikName": "УИК №477",
     "tikTvd": "26720001632324",
-    "tikName": "Смоленск, Заднепровская"
+    "tikName": "Смоленск, Заднепровская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 478,
     "uikTvd": "4674019484186",
+    "uikName": "УИК №478",
     "tikTvd": "26720001632324",
-    "tikName": "Смоленск, Заднепровская"
+    "tikName": "Смоленск, Заднепровская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 479,
     "uikTvd": "4674019484187",
+    "uikName": "УИК №479",
     "tikTvd": "26720001632324",
-    "tikName": "Смоленск, Заднепровская"
+    "tikName": "Смоленск, Заднепровская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 480,
     "uikTvd": "4674019484188",
+    "uikName": "УИК №480",
     "tikTvd": "26720001632324",
-    "tikName": "Смоленск, Заднепровская"
+    "tikName": "Смоленск, Заднепровская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 481,
     "uikTvd": "4674019484189",
+    "uikName": "УИК №481",
     "tikTvd": "26720001632324",
-    "tikName": "Смоленск, Заднепровская"
+    "tikName": "Смоленск, Заднепровская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 482,
     "uikTvd": "4674019484190",
+    "uikName": "УИК №482",
     "tikTvd": "26720001632324",
-    "tikName": "Смоленск, Заднепровская"
+    "tikName": "Смоленск, Заднепровская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 483,
     "uikTvd": "4674019484191",
+    "uikName": "УИК №483",
     "tikTvd": "26720001632324",
-    "tikName": "Смоленск, Заднепровская"
+    "tikName": "Смоленск, Заднепровская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 484,
     "uikTvd": "4674019484192",
+    "uikName": "УИК №484",
     "tikTvd": "26720001632324",
-    "tikName": "Смоленск, Заднепровская"
+    "tikName": "Смоленск, Заднепровская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 485,
     "uikTvd": "4674019484193",
+    "uikName": "УИК №485",
     "tikTvd": "26720001632324",
-    "tikName": "Смоленск, Заднепровская"
+    "tikName": "Смоленск, Заднепровская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 486,
     "uikTvd": "4674019484194",
+    "uikName": "УИК №486",
     "tikTvd": "26720001632324",
-    "tikName": "Смоленск, Заднепровская"
+    "tikName": "Смоленск, Заднепровская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 487,
     "uikTvd": "4674019484195",
+    "uikName": "УИК №487",
     "tikTvd": "26720001632324",
-    "tikName": "Смоленск, Заднепровская"
+    "tikName": "Смоленск, Заднепровская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 488,
     "uikTvd": "4674019484196",
+    "uikName": "УИК №488",
     "tikTvd": "26720001632324",
-    "tikName": "Смоленск, Заднепровская"
+    "tikName": "Смоленск, Заднепровская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 489,
     "uikTvd": "4674019484197",
+    "uikName": "УИК №489",
     "tikTvd": "26720001632324",
-    "tikName": "Смоленск, Заднепровская"
+    "tikName": "Смоленск, Заднепровская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 490,
     "uikTvd": "4674019484198",
+    "uikName": "УИК №490",
     "tikTvd": "26720001632324",
-    "tikName": "Смоленск, Заднепровская"
+    "tikName": "Смоленск, Заднепровская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 492,
     "uikTvd": "4674019484199",
+    "uikName": "УИК №492",
     "tikTvd": "26720001632324",
-    "tikName": "Смоленск, Заднепровская"
+    "tikName": "Смоленск, Заднепровская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 493,
     "uikTvd": "4674019484200",
+    "uikName": "УИК №493",
     "tikTvd": "26720001632324",
-    "tikName": "Смоленск, Заднепровская"
+    "tikName": "Смоленск, Заднепровская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 494,
     "uikTvd": "4674019484201",
+    "uikName": "УИК №494",
     "tikTvd": "26720001632324",
-    "tikName": "Смоленск, Заднепровская"
+    "tikName": "Смоленск, Заднепровская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 495,
     "uikTvd": "4674019484202",
+    "uikName": "УИК №495",
     "tikTvd": "26720001632324",
-    "tikName": "Смоленск, Заднепровская"
+    "tikName": "Смоленск, Заднепровская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 496,
     "uikTvd": "4674019484203",
+    "uikName": "УИК №496",
     "tikTvd": "26720001632324",
-    "tikName": "Смоленск, Заднепровская"
+    "tikName": "Смоленск, Заднепровская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 497,
     "uikTvd": "4674019484204",
+    "uikName": "УИК №497",
     "tikTvd": "26720001632324",
-    "tikName": "Смоленск, Заднепровская"
+    "tikName": "Смоленск, Заднепровская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 498,
     "uikTvd": "4674019484205",
+    "uikName": "УИК №498",
     "tikTvd": "26720001632324",
-    "tikName": "Смоленск, Заднепровская"
+    "tikName": "Смоленск, Заднепровская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 499,
     "uikTvd": "4674019484206",
+    "uikName": "УИК №499",
     "tikTvd": "26720001632324",
-    "tikName": "Смоленск, Заднепровская"
+    "tikName": "Смоленск, Заднепровская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 500,
     "uikTvd": "4674019484207",
+    "uikName": "УИК №500",
     "tikTvd": "26720001632324",
-    "tikName": "Смоленск, Заднепровская"
+    "tikName": "Смоленск, Заднепровская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 501,
     "uikTvd": "4674019484208",
+    "uikName": "УИК №501",
     "tikTvd": "26720001632324",
-    "tikName": "Смоленск, Заднепровская"
+    "tikName": "Смоленск, Заднепровская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 502,
     "uikTvd": "4674019484209",
+    "uikName": "УИК №502",
     "tikTvd": "26720001632324",
-    "tikName": "Смоленск, Заднепровская"
+    "tikName": "Смоленск, Заднепровская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 503,
     "uikTvd": "4674019484210",
+    "uikName": "УИК №503",
     "tikTvd": "26720001632324",
-    "tikName": "Смоленск, Заднепровская"
+    "tikName": "Смоленск, Заднепровская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 504,
     "uikTvd": "4674019484211",
+    "uikName": "УИК №504",
     "tikTvd": "26720001632324",
-    "tikName": "Смоленск, Заднепровская"
+    "tikName": "Смоленск, Заднепровская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 505,
     "uikTvd": "4674019484212",
+    "uikName": "УИК №505",
     "tikTvd": "26720001632324",
-    "tikName": "Смоленск, Заднепровская"
+    "tikName": "Смоленск, Заднепровская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 506,
     "uikTvd": "4674019484213",
+    "uikName": "УИК №506",
     "tikTvd": "26720001632324",
-    "tikName": "Смоленск, Заднепровская"
+    "tikName": "Смоленск, Заднепровская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 507,
     "uikTvd": "4674019484214",
+    "uikName": "УИК №507",
     "tikTvd": "26720001632324",
-    "tikName": "Смоленск, Заднепровская"
+    "tikName": "Смоленск, Заднепровская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 508,
     "uikTvd": "4674019484215",
+    "uikName": "УИК №508",
     "tikTvd": "26720001632324",
-    "tikName": "Смоленск, Заднепровская"
+    "tikName": "Смоленск, Заднепровская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 509,
     "uikTvd": "4674019484216",
+    "uikName": "УИК №509",
     "tikTvd": "26720001632324",
-    "tikName": "Смоленск, Заднепровская"
+    "tikName": "Смоленск, Заднепровская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 510,
     "uikTvd": "4674019484217",
+    "uikName": "УИК №510",
     "tikTvd": "26720001632324",
-    "tikName": "Смоленск, Заднепровская"
+    "tikName": "Смоленск, Заднепровская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 511,
     "uikTvd": "4674019484218",
+    "uikName": "УИК №511",
     "tikTvd": "26720001632324",
-    "tikName": "Смоленск, Заднепровская"
+    "tikName": "Смоленск, Заднепровская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 512,
     "uikTvd": "4674019484219",
+    "uikName": "УИК №512",
     "tikTvd": "26720001632324",
-    "tikName": "Смоленск, Заднепровская"
+    "tikName": "Смоленск, Заднепровская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 513,
     "uikTvd": "4674019484220",
+    "uikName": "УИК №513",
     "tikTvd": "26720001632324",
-    "tikName": "Смоленск, Заднепровская"
+    "tikName": "Смоленск, Заднепровская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 514,
     "uikTvd": "4674019484221",
+    "uikName": "УИК №514",
     "tikTvd": "26720001632324",
-    "tikName": "Смоленск, Заднепровская"
+    "tikName": "Смоленск, Заднепровская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 515,
     "uikTvd": "4674019484222",
+    "uikName": "УИК №515",
     "tikTvd": "26720001632324",
-    "tikName": "Смоленск, Заднепровская"
+    "tikName": "Смоленск, Заднепровская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 516,
     "uikTvd": "4674019484223",
+    "uikName": "УИК №516",
     "tikTvd": "26720001632324",
-    "tikName": "Смоленск, Заднепровская"
+    "tikName": "Смоленск, Заднепровская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 517,
     "uikTvd": "4674019484224",
+    "uikName": "УИК №517",
     "tikTvd": "26720001632324",
-    "tikName": "Смоленск, Заднепровская"
+    "tikName": "Смоленск, Заднепровская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 518,
     "uikTvd": "4674019484225",
+    "uikName": "УИК №518",
     "tikTvd": "26720001632324",
-    "tikName": "Смоленск, Заднепровская"
+    "tikName": "Смоленск, Заднепровская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 519,
     "uikTvd": "4674019484226",
+    "uikName": "УИК №519",
     "tikTvd": "26720001632324",
-    "tikName": "Смоленск, Заднепровская"
+    "tikName": "Смоленск, Заднепровская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 520,
     "uikTvd": "4674020397187",
+    "uikName": "УИК №520",
     "tikTvd": "26720001632327",
-    "tikName": "Смоленск, Ленинская"
+    "tikName": "Смоленск, Ленинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 521,
     "uikTvd": "4674020397188",
+    "uikName": "УИК №521",
     "tikTvd": "26720001632327",
-    "tikName": "Смоленск, Ленинская"
+    "tikName": "Смоленск, Ленинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 522,
     "uikTvd": "4674020397189",
+    "uikName": "УИК №522",
     "tikTvd": "26720001632327",
-    "tikName": "Смоленск, Ленинская"
+    "tikName": "Смоленск, Ленинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 523,
     "uikTvd": "4674020397190",
+    "uikName": "УИК №523",
     "tikTvd": "26720001632327",
-    "tikName": "Смоленск, Ленинская"
+    "tikName": "Смоленск, Ленинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 524,
     "uikTvd": "4674020397191",
+    "uikName": "УИК №524",
     "tikTvd": "26720001632327",
-    "tikName": "Смоленск, Ленинская"
+    "tikName": "Смоленск, Ленинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 525,
     "uikTvd": "4674020397192",
+    "uikName": "УИК №525",
     "tikTvd": "26720001632327",
-    "tikName": "Смоленск, Ленинская"
+    "tikName": "Смоленск, Ленинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 526,
     "uikTvd": "4674020397193",
+    "uikName": "УИК №526",
     "tikTvd": "26720001632327",
-    "tikName": "Смоленск, Ленинская"
+    "tikName": "Смоленск, Ленинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 527,
     "uikTvd": "4674020397194",
+    "uikName": "УИК №527",
     "tikTvd": "26720001632327",
-    "tikName": "Смоленск, Ленинская"
+    "tikName": "Смоленск, Ленинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 528,
     "uikTvd": "4674020397195",
+    "uikName": "УИК №528",
     "tikTvd": "26720001632327",
-    "tikName": "Смоленск, Ленинская"
+    "tikName": "Смоленск, Ленинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 529,
     "uikTvd": "4674020397196",
+    "uikName": "УИК №529",
     "tikTvd": "26720001632327",
-    "tikName": "Смоленск, Ленинская"
+    "tikName": "Смоленск, Ленинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 530,
     "uikTvd": "4674020397197",
+    "uikName": "УИК №530",
     "tikTvd": "26720001632327",
-    "tikName": "Смоленск, Ленинская"
+    "tikName": "Смоленск, Ленинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 531,
     "uikTvd": "4674020397198",
+    "uikName": "УИК №531",
     "tikTvd": "26720001632327",
-    "tikName": "Смоленск, Ленинская"
+    "tikName": "Смоленск, Ленинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 532,
     "uikTvd": "4674020397199",
+    "uikName": "УИК №532",
     "tikTvd": "26720001632327",
-    "tikName": "Смоленск, Ленинская"
+    "tikName": "Смоленск, Ленинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 533,
     "uikTvd": "4674020397200",
+    "uikName": "УИК №533",
     "tikTvd": "26720001632327",
-    "tikName": "Смоленск, Ленинская"
+    "tikName": "Смоленск, Ленинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 534,
     "uikTvd": "4674020397201",
+    "uikName": "УИК №534",
     "tikTvd": "26720001632327",
-    "tikName": "Смоленск, Ленинская"
+    "tikName": "Смоленск, Ленинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 535,
     "uikTvd": "4674020397202",
+    "uikName": "УИК №535",
     "tikTvd": "26720001632327",
-    "tikName": "Смоленск, Ленинская"
+    "tikName": "Смоленск, Ленинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 536,
     "uikTvd": "4674020397203",
+    "uikName": "УИК №536",
     "tikTvd": "26720001632327",
-    "tikName": "Смоленск, Ленинская"
+    "tikName": "Смоленск, Ленинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 537,
     "uikTvd": "4674020397204",
+    "uikName": "УИК №537",
     "tikTvd": "26720001632327",
-    "tikName": "Смоленск, Ленинская"
+    "tikName": "Смоленск, Ленинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 538,
     "uikTvd": "4674020397205",
+    "uikName": "УИК №538",
     "tikTvd": "26720001632327",
-    "tikName": "Смоленск, Ленинская"
+    "tikName": "Смоленск, Ленинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 539,
     "uikTvd": "4674020397206",
+    "uikName": "УИК №539",
     "tikTvd": "26720001632327",
-    "tikName": "Смоленск, Ленинская"
+    "tikName": "Смоленск, Ленинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 540,
     "uikTvd": "4674020397207",
+    "uikName": "УИК №540",
     "tikTvd": "26720001632327",
-    "tikName": "Смоленск, Ленинская"
+    "tikName": "Смоленск, Ленинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 541,
     "uikTvd": "4674020397208",
+    "uikName": "УИК №541",
     "tikTvd": "26720001632327",
-    "tikName": "Смоленск, Ленинская"
+    "tikName": "Смоленск, Ленинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 542,
     "uikTvd": "4674020397209",
+    "uikName": "УИК №542",
     "tikTvd": "26720001632327",
-    "tikName": "Смоленск, Ленинская"
+    "tikName": "Смоленск, Ленинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 543,
     "uikTvd": "4674020397210",
+    "uikName": "УИК №543",
     "tikTvd": "26720001632327",
-    "tikName": "Смоленск, Ленинская"
+    "tikName": "Смоленск, Ленинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 544,
     "uikTvd": "4674020397211",
+    "uikName": "УИК №544",
     "tikTvd": "26720001632327",
-    "tikName": "Смоленск, Ленинская"
+    "tikName": "Смоленск, Ленинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 545,
     "uikTvd": "4674020397212",
+    "uikName": "УИК №545",
     "tikTvd": "26720001632327",
-    "tikName": "Смоленск, Ленинская"
+    "tikName": "Смоленск, Ленинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 546,
     "uikTvd": "4674020397213",
+    "uikName": "УИК №546",
     "tikTvd": "26720001632327",
-    "tikName": "Смоленск, Ленинская"
+    "tikName": "Смоленск, Ленинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 547,
     "uikTvd": "4674020397214",
+    "uikName": "УИК №547",
     "tikTvd": "26720001632327",
-    "tikName": "Смоленск, Ленинская"
+    "tikName": "Смоленск, Ленинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 548,
     "uikTvd": "4674020397215",
+    "uikName": "УИК №548",
     "tikTvd": "26720001632327",
-    "tikName": "Смоленск, Ленинская"
+    "tikName": "Смоленск, Ленинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 549,
     "uikTvd": "4674020397216",
+    "uikName": "УИК №549",
     "tikTvd": "26720001632327",
-    "tikName": "Смоленск, Ленинская"
+    "tikName": "Смоленск, Ленинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 550,
     "uikTvd": "4674020397217",
+    "uikName": "УИК №550",
     "tikTvd": "26720001632327",
-    "tikName": "Смоленск, Ленинская"
+    "tikName": "Смоленск, Ленинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 551,
     "uikTvd": "4674020397218",
+    "uikName": "УИК №551",
     "tikTvd": "26720001632327",
-    "tikName": "Смоленск, Ленинская"
+    "tikName": "Смоленск, Ленинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 552,
     "uikTvd": "4674020397219",
+    "uikName": "УИК №552",
     "tikTvd": "26720001632327",
-    "tikName": "Смоленск, Ленинская"
+    "tikName": "Смоленск, Ленинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 553,
     "uikTvd": "4674020397220",
+    "uikName": "УИК №553",
     "tikTvd": "26720001632327",
-    "tikName": "Смоленск, Ленинская"
+    "tikName": "Смоленск, Ленинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 554,
     "uikTvd": "4674020397221",
+    "uikName": "УИК №554",
     "tikTvd": "26720001632327",
-    "tikName": "Смоленск, Ленинская"
+    "tikName": "Смоленск, Ленинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 555,
     "uikTvd": "4674020397222",
+    "uikName": "УИК №555",
     "tikTvd": "26720001632327",
-    "tikName": "Смоленск, Ленинская"
+    "tikName": "Смоленск, Ленинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 556,
     "uikTvd": "4674020397223",
+    "uikName": "УИК №556",
     "tikTvd": "26720001632327",
-    "tikName": "Смоленск, Ленинская"
+    "tikName": "Смоленск, Ленинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 557,
     "uikTvd": "4674020397224",
+    "uikName": "УИК №557",
     "tikTvd": "26720001632327",
-    "tikName": "Смоленск, Ленинская"
+    "tikName": "Смоленск, Ленинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 558,
     "uikTvd": "4674020397225",
+    "uikName": "УИК №558",
     "tikTvd": "26720001632327",
-    "tikName": "Смоленск, Ленинская"
+    "tikName": "Смоленск, Ленинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 559,
     "uikTvd": "4674020397226",
+    "uikName": "УИК №559",
     "tikTvd": "26720001632327",
-    "tikName": "Смоленск, Ленинская"
+    "tikName": "Смоленск, Ленинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 560,
     "uikTvd": "4674020397227",
+    "uikName": "УИК №560",
     "tikTvd": "26720001632327",
-    "tikName": "Смоленск, Ленинская"
+    "tikName": "Смоленск, Ленинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 561,
     "uikTvd": "4674020397228",
+    "uikName": "УИК №561",
     "tikTvd": "26720001632327",
-    "tikName": "Смоленск, Ленинская"
+    "tikName": "Смоленск, Ленинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 562,
     "uikTvd": "4674020397229",
+    "uikName": "УИК №562",
     "tikTvd": "26720001632327",
-    "tikName": "Смоленск, Ленинская"
+    "tikName": "Смоленск, Ленинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 563,
     "uikTvd": "4674021404122",
+    "uikName": "УИК №563",
     "tikTvd": "26720001632326",
-    "tikName": "Смоленск, Промышленная"
+    "tikName": "Смоленск, Промышленная",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 564,
     "uikTvd": "4674021404123",
+    "uikName": "УИК №564",
     "tikTvd": "26720001632326",
-    "tikName": "Смоленск, Промышленная"
+    "tikName": "Смоленск, Промышленная",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 565,
     "uikTvd": "4674021404124",
+    "uikName": "УИК №565",
     "tikTvd": "26720001632326",
-    "tikName": "Смоленск, Промышленная"
+    "tikName": "Смоленск, Промышленная",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 566,
     "uikTvd": "4674021404125",
+    "uikName": "УИК №566",
     "tikTvd": "26720001632326",
-    "tikName": "Смоленск, Промышленная"
+    "tikName": "Смоленск, Промышленная",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 567,
     "uikTvd": "4674021404126",
+    "uikName": "УИК №567",
     "tikTvd": "26720001632326",
-    "tikName": "Смоленск, Промышленная"
+    "tikName": "Смоленск, Промышленная",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 568,
     "uikTvd": "4674021404127",
+    "uikName": "УИК №568",
     "tikTvd": "26720001632326",
-    "tikName": "Смоленск, Промышленная"
+    "tikName": "Смоленск, Промышленная",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 569,
     "uikTvd": "4674021404128",
+    "uikName": "УИК №569",
     "tikTvd": "26720001632326",
-    "tikName": "Смоленск, Промышленная"
+    "tikName": "Смоленск, Промышленная",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 570,
     "uikTvd": "4674021404129",
+    "uikName": "УИК №570",
     "tikTvd": "26720001632326",
-    "tikName": "Смоленск, Промышленная"
+    "tikName": "Смоленск, Промышленная",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 571,
     "uikTvd": "4674021404130",
+    "uikName": "УИК №571",
     "tikTvd": "26720001632326",
-    "tikName": "Смоленск, Промышленная"
+    "tikName": "Смоленск, Промышленная",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 572,
     "uikTvd": "4674021404131",
+    "uikName": "УИК №572",
     "tikTvd": "26720001632326",
-    "tikName": "Смоленск, Промышленная"
+    "tikName": "Смоленск, Промышленная",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 573,
     "uikTvd": "4674021404132",
+    "uikName": "УИК №573",
     "tikTvd": "26720001632326",
-    "tikName": "Смоленск, Промышленная"
+    "tikName": "Смоленск, Промышленная",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 574,
     "uikTvd": "4674021404133",
+    "uikName": "УИК №574",
     "tikTvd": "26720001632326",
-    "tikName": "Смоленск, Промышленная"
+    "tikName": "Смоленск, Промышленная",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 575,
     "uikTvd": "4674021404134",
+    "uikName": "УИК №575",
     "tikTvd": "26720001632326",
-    "tikName": "Смоленск, Промышленная"
+    "tikName": "Смоленск, Промышленная",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 576,
     "uikTvd": "4674021404135",
+    "uikName": "УИК №576",
     "tikTvd": "26720001632326",
-    "tikName": "Смоленск, Промышленная"
+    "tikName": "Смоленск, Промышленная",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 577,
     "uikTvd": "4674021404136",
+    "uikName": "УИК №577",
     "tikTvd": "26720001632326",
-    "tikName": "Смоленск, Промышленная"
+    "tikName": "Смоленск, Промышленная",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 578,
     "uikTvd": "4674021404137",
+    "uikName": "УИК №578",
     "tikTvd": "26720001632326",
-    "tikName": "Смоленск, Промышленная"
+    "tikName": "Смоленск, Промышленная",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 579,
     "uikTvd": "4674021404138",
+    "uikName": "УИК №579",
     "tikTvd": "26720001632326",
-    "tikName": "Смоленск, Промышленная"
+    "tikName": "Смоленск, Промышленная",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 580,
     "uikTvd": "4674021404139",
+    "uikName": "УИК №580",
     "tikTvd": "26720001632326",
-    "tikName": "Смоленск, Промышленная"
+    "tikName": "Смоленск, Промышленная",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 581,
     "uikTvd": "4674021404140",
+    "uikName": "УИК №581",
     "tikTvd": "26720001632326",
-    "tikName": "Смоленск, Промышленная"
+    "tikName": "Смоленск, Промышленная",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 582,
     "uikTvd": "4674021404141",
+    "uikName": "УИК №582",
     "tikTvd": "26720001632326",
-    "tikName": "Смоленск, Промышленная"
+    "tikName": "Смоленск, Промышленная",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 583,
     "uikTvd": "4674021404142",
+    "uikName": "УИК №583",
     "tikTvd": "26720001632326",
-    "tikName": "Смоленск, Промышленная"
+    "tikName": "Смоленск, Промышленная",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 584,
     "uikTvd": "4674021404143",
+    "uikName": "УИК №584",
     "tikTvd": "26720001632326",
-    "tikName": "Смоленск, Промышленная"
+    "tikName": "Смоленск, Промышленная",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 585,
     "uikTvd": "4674021404144",
+    "uikName": "УИК №585",
     "tikTvd": "26720001632326",
-    "tikName": "Смоленск, Промышленная"
+    "tikName": "Смоленск, Промышленная",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 586,
     "uikTvd": "4674021404145",
+    "uikName": "УИК №586",
     "tikTvd": "26720001632326",
-    "tikName": "Смоленск, Промышленная"
+    "tikName": "Смоленск, Промышленная",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 587,
     "uikTvd": "4674021404146",
+    "uikName": "УИК №587",
     "tikTvd": "26720001632326",
-    "tikName": "Смоленск, Промышленная"
+    "tikName": "Смоленск, Промышленная",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 588,
     "uikTvd": "4674021404147",
+    "uikName": "УИК №588",
     "tikTvd": "26720001632326",
-    "tikName": "Смоленск, Промышленная"
+    "tikName": "Смоленск, Промышленная",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 589,
     "uikTvd": "4674021404148",
+    "uikName": "УИК №589",
     "tikTvd": "26720001632326",
-    "tikName": "Смоленск, Промышленная"
+    "tikName": "Смоленск, Промышленная",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 590,
     "uikTvd": "4674021404149",
+    "uikName": "УИК №590",
     "tikTvd": "26720001632326",
-    "tikName": "Смоленск, Промышленная"
+    "tikName": "Смоленск, Промышленная",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 591,
     "uikTvd": "4674021404150",
+    "uikName": "УИК №591",
     "tikTvd": "26720001632326",
-    "tikName": "Смоленск, Промышленная"
+    "tikName": "Смоленск, Промышленная",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 592,
     "uikTvd": "4674021404151",
+    "uikName": "УИК №592",
     "tikTvd": "26720001632326",
-    "tikName": "Смоленск, Промышленная"
+    "tikName": "Смоленск, Промышленная",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 593,
     "uikTvd": "4674021404152",
+    "uikName": "УИК №593",
     "tikTvd": "26720001632326",
-    "tikName": "Смоленск, Промышленная"
+    "tikName": "Смоленск, Промышленная",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 594,
     "uikTvd": "4674021404153",
+    "uikName": "УИК №594",
     "tikTvd": "26720001632326",
-    "tikName": "Смоленск, Промышленная"
+    "tikName": "Смоленск, Промышленная",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 595,
     "uikTvd": "4674021404154",
+    "uikName": "УИК №595",
     "tikTvd": "26720001632326",
-    "tikName": "Смоленск, Промышленная"
+    "tikName": "Смоленск, Промышленная",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 596,
     "uikTvd": "4674021404155",
+    "uikName": "УИК №596",
     "tikTvd": "26720001632326",
-    "tikName": "Смоленск, Промышленная"
+    "tikName": "Смоленск, Промышленная",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 597,
     "uikTvd": "4674021404156",
+    "uikName": "УИК №597",
     "tikTvd": "26720001632326",
-    "tikName": "Смоленск, Промышленная"
+    "tikName": "Смоленск, Промышленная",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 598,
     "uikTvd": "4674021404157",
+    "uikName": "УИК №598",
     "tikTvd": "26720001632326",
-    "tikName": "Смоленск, Промышленная"
+    "tikName": "Смоленск, Промышленная",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 599,
     "uikTvd": "4674021404158",
+    "uikName": "УИК №599",
     "tikTvd": "26720001632326",
-    "tikName": "Смоленск, Промышленная"
+    "tikName": "Смоленск, Промышленная",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 600,
     "uikTvd": "4674021404159",
+    "uikName": "УИК №600",
     "tikTvd": "26720001632326",
-    "tikName": "Смоленск, Промышленная"
+    "tikName": "Смоленск, Промышленная",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 601,
     "uikTvd": "4674021404160",
+    "uikName": "УИК №601",
     "tikTvd": "26720001632326",
-    "tikName": "Смоленск, Промышленная"
+    "tikName": "Смоленск, Промышленная",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 602,
     "uikTvd": "4674021404161",
+    "uikName": "УИК №602",
     "tikTvd": "26720001632326",
-    "tikName": "Смоленск, Промышленная"
+    "tikName": "Смоленск, Промышленная",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 603,
     "uikTvd": "4674021404162",
+    "uikName": "УИК №603",
     "tikTvd": "26720001632326",
-    "tikName": "Смоленск, Промышленная"
+    "tikName": "Смоленск, Промышленная",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 604,
     "uikTvd": "4674021404163",
+    "uikName": "УИК №604",
     "tikTvd": "26720001632326",
-    "tikName": "Смоленск, Промышленная"
+    "tikName": "Смоленск, Промышленная",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 605,
     "uikTvd": "4674021404164",
+    "uikName": "УИК №605",
     "tikTvd": "26720001632326",
-    "tikName": "Смоленск, Промышленная"
+    "tikName": "Смоленск, Промышленная",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 606,
     "uikTvd": "4674021404165",
+    "uikName": "УИК №606",
     "tikTvd": "26720001632326",
-    "tikName": "Смоленск, Промышленная"
+    "tikName": "Смоленск, Промышленная",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 607,
     "uikTvd": "4674021404166",
+    "uikName": "УИК №607",
     "tikTvd": "26720001632326",
-    "tikName": "Смоленск, Промышленная"
+    "tikName": "Смоленск, Промышленная",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 608,
     "uikTvd": "4674021404167",
+    "uikName": "УИК №608",
     "tikTvd": "26720001632326",
-    "tikName": "Смоленск, Промышленная"
+    "tikName": "Смоленск, Промышленная",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 609,
     "uikTvd": "4674021404168",
+    "uikName": "УИК №609",
     "tikTvd": "26720001632326",
-    "tikName": "Смоленск, Промышленная"
+    "tikName": "Смоленск, Промышленная",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 610,
     "uikTvd": "4674021404169",
+    "uikName": "УИК №610",
     "tikTvd": "26720001632326",
-    "tikName": "Смоленск, Промышленная"
+    "tikName": "Смоленск, Промышленная",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 611,
     "uikTvd": "4674021404170",
+    "uikName": "УИК №611",
     "tikTvd": "26720001632326",
-    "tikName": "Смоленск, Промышленная"
+    "tikName": "Смоленск, Промышленная",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 612,
     "uikTvd": "4674021404171",
+    "uikName": "УИК №612",
     "tikTvd": "26720001632326",
-    "tikName": "Смоленск, Промышленная"
+    "tikName": "Смоленск, Промышленная",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 613,
     "uikTvd": "4674022413952",
+    "uikName": "УИК №613",
     "tikTvd": "26720001632328",
-    "tikName": "Смоленская"
+    "tikName": "Смоленская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 614,
     "uikTvd": "4674022413953",
+    "uikName": "УИК №614",
     "tikTvd": "26720001632328",
-    "tikName": "Смоленская"
+    "tikName": "Смоленская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 615,
     "uikTvd": "4674022413954",
+    "uikName": "УИК №615",
     "tikTvd": "26720001632328",
-    "tikName": "Смоленская"
+    "tikName": "Смоленская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 616,
     "uikTvd": "4674022413955",
+    "uikName": "УИК №616",
     "tikTvd": "26720001632328",
-    "tikName": "Смоленская"
+    "tikName": "Смоленская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 617,
     "uikTvd": "4674022413956",
+    "uikName": "УИК №617",
     "tikTvd": "26720001632328",
-    "tikName": "Смоленская"
+    "tikName": "Смоленская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 618,
     "uikTvd": "4674022413957",
+    "uikName": "УИК №618",
     "tikTvd": "26720001632328",
-    "tikName": "Смоленская"
+    "tikName": "Смоленская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 619,
     "uikTvd": "4674022413958",
+    "uikName": "УИК №619",
     "tikTvd": "26720001632328",
-    "tikName": "Смоленская"
+    "tikName": "Смоленская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 620,
     "uikTvd": "4674022413959",
+    "uikName": "УИК №620",
     "tikTvd": "26720001632328",
-    "tikName": "Смоленская"
+    "tikName": "Смоленская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 621,
     "uikTvd": "4674022413960",
+    "uikName": "УИК №621",
     "tikTvd": "26720001632328",
-    "tikName": "Смоленская"
+    "tikName": "Смоленская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 622,
     "uikTvd": "4674022413961",
+    "uikName": "УИК №622",
     "tikTvd": "26720001632328",
-    "tikName": "Смоленская"
+    "tikName": "Смоленская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 623,
     "uikTvd": "4674022413962",
+    "uikName": "УИК №623",
     "tikTvd": "26720001632328",
-    "tikName": "Смоленская"
+    "tikName": "Смоленская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 624,
     "uikTvd": "4674022413963",
+    "uikName": "УИК №624",
     "tikTvd": "26720001632328",
-    "tikName": "Смоленская"
+    "tikName": "Смоленская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 625,
     "uikTvd": "4674022413964",
+    "uikName": "УИК №625",
     "tikTvd": "26720001632328",
-    "tikName": "Смоленская"
+    "tikName": "Смоленская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 626,
     "uikTvd": "4674022413965",
+    "uikName": "УИК №626",
     "tikTvd": "26720001632328",
-    "tikName": "Смоленская"
+    "tikName": "Смоленская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 627,
     "uikTvd": "4674022413966",
+    "uikName": "УИК №627",
     "tikTvd": "26720001632328",
-    "tikName": "Смоленская"
+    "tikName": "Смоленская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 628,
     "uikTvd": "4674022413967",
+    "uikName": "УИК №628",
     "tikTvd": "26720001632328",
-    "tikName": "Смоленская"
+    "tikName": "Смоленская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 629,
     "uikTvd": "4674022413968",
+    "uikName": "УИК №629",
     "tikTvd": "26720001632328",
-    "tikName": "Смоленская"
+    "tikName": "Смоленская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 630,
     "uikTvd": "4674022413969",
+    "uikName": "УИК №630",
     "tikTvd": "26720001632328",
-    "tikName": "Смоленская"
+    "tikName": "Смоленская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 631,
     "uikTvd": "4674022413970",
+    "uikName": "УИК №631",
     "tikTvd": "26720001632328",
-    "tikName": "Смоленская"
+    "tikName": "Смоленская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 632,
     "uikTvd": "4674022413971",
+    "uikName": "УИК №632",
     "tikTvd": "26720001632328",
-    "tikName": "Смоленская"
+    "tikName": "Смоленская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 633,
     "uikTvd": "4674022413972",
+    "uikName": "УИК №633",
     "tikTvd": "26720001632328",
-    "tikName": "Смоленская"
+    "tikName": "Смоленская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 634,
     "uikTvd": "4674022413973",
+    "uikName": "УИК №634",
     "tikTvd": "26720001632328",
-    "tikName": "Смоленская"
+    "tikName": "Смоленская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 635,
     "uikTvd": "4674022413974",
+    "uikName": "УИК №635",
     "tikTvd": "26720001632328",
-    "tikName": "Смоленская"
+    "tikName": "Смоленская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 636,
     "uikTvd": "4674022413975",
+    "uikName": "УИК №636",
     "tikTvd": "26720001632328",
-    "tikName": "Смоленская"
+    "tikName": "Смоленская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 637,
     "uikTvd": "4674022413976",
+    "uikName": "УИК №637",
     "tikTvd": "26720001632328",
-    "tikName": "Смоленская"
+    "tikName": "Смоленская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 638,
     "uikTvd": "4674022413977",
+    "uikName": "УИК №638",
     "tikTvd": "26720001632328",
-    "tikName": "Смоленская"
+    "tikName": "Смоленская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 640,
     "uikTvd": "4674022413978",
+    "uikName": "УИК №640",
     "tikTvd": "26720001632328",
-    "tikName": "Смоленская"
+    "tikName": "Смоленская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 641,
     "uikTvd": "4674022413979",
+    "uikName": "УИК №641",
     "tikTvd": "26720001632328",
-    "tikName": "Смоленская"
+    "tikName": "Смоленская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 642,
     "uikTvd": "4674022413980",
+    "uikName": "УИК №642",
     "tikTvd": "26720001632328",
-    "tikName": "Смоленская"
+    "tikName": "Смоленская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 643,
     "uikTvd": "4674022413981",
+    "uikName": "УИК №643",
     "tikTvd": "26720001632328",
-    "tikName": "Смоленская"
+    "tikName": "Смоленская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 645,
     "uikTvd": "4674022413982",
+    "uikName": "УИК №645",
     "tikTvd": "26720001632328",
-    "tikName": "Смоленская"
+    "tikName": "Смоленская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 646,
     "uikTvd": "4674022413983",
+    "uikName": "УИК №646",
     "tikTvd": "26720001632328",
-    "tikName": "Смоленская"
+    "tikName": "Смоленская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 647,
     "uikTvd": "4674022413984",
+    "uikName": "УИК №647",
     "tikTvd": "26720001632328",
-    "tikName": "Смоленская"
+    "tikName": "Смоленская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 648,
     "uikTvd": "4674022413985",
+    "uikName": "УИК №648",
     "tikTvd": "26720001632328",
-    "tikName": "Смоленская"
+    "tikName": "Смоленская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 649,
     "uikTvd": "4674022413986",
+    "uikName": "УИК №649",
     "tikTvd": "26720001632328",
-    "tikName": "Смоленская"
+    "tikName": "Смоленская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 650,
     "uikTvd": "4674022413987",
+    "uikName": "УИК №650",
     "tikTvd": "26720001632328",
-    "tikName": "Смоленская"
+    "tikName": "Смоленская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 651,
     "uikTvd": "4674022413988",
+    "uikName": "УИК №651",
     "tikTvd": "26720001632328",
-    "tikName": "Смоленская"
+    "tikName": "Смоленская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 652,
     "uikTvd": "4674022413989",
+    "uikName": "УИК №652",
     "tikTvd": "26720001632328",
-    "tikName": "Смоленская"
+    "tikName": "Смоленская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 653,
     "uikTvd": "4674022413990",
+    "uikName": "УИК №653",
     "tikTvd": "26720001632328",
-    "tikName": "Смоленская"
+    "tikName": "Смоленская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 654,
     "uikTvd": "4674022413991",
+    "uikName": "УИК №654",
     "tikTvd": "26720001632328",
-    "tikName": "Смоленская"
+    "tikName": "Смоленская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 655,
     "uikTvd": "4674022413992",
+    "uikName": "УИК №655",
     "tikTvd": "26720001632328",
-    "tikName": "Смоленская"
+    "tikName": "Смоленская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 656,
     "uikTvd": "4674023300774",
+    "uikName": "УИК №656",
     "tikTvd": "26720001632329",
-    "tikName": "Сычевская"
+    "tikName": "Сычевская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 658,
     "uikTvd": "4674023300775",
+    "uikName": "УИК №658",
     "tikTvd": "26720001632329",
-    "tikName": "Сычевская"
+    "tikName": "Сычевская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 659,
     "uikTvd": "4674023300776",
+    "uikName": "УИК №659",
     "tikTvd": "26720001632329",
-    "tikName": "Сычевская"
+    "tikName": "Сычевская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 660,
     "uikTvd": "4674023300777",
+    "uikName": "УИК №660",
     "tikTvd": "26720001632329",
-    "tikName": "Сычевская"
+    "tikName": "Сычевская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 661,
     "uikTvd": "4674023300778",
+    "uikName": "УИК №661",
     "tikTvd": "26720001632329",
-    "tikName": "Сычевская"
+    "tikName": "Сычевская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 662,
     "uikTvd": "4674023300779",
+    "uikName": "УИК №662",
     "tikTvd": "26720001632329",
-    "tikName": "Сычевская"
+    "tikName": "Сычевская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 663,
     "uikTvd": "4674023300780",
+    "uikName": "УИК №663",
     "tikTvd": "26720001632329",
-    "tikName": "Сычевская"
+    "tikName": "Сычевская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 664,
     "uikTvd": "4674023300781",
+    "uikName": "УИК №664",
     "tikTvd": "26720001632329",
-    "tikName": "Сычевская"
+    "tikName": "Сычевская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 665,
     "uikTvd": "4674023300782",
+    "uikName": "УИК №665",
     "tikTvd": "26720001632329",
-    "tikName": "Сычевская"
+    "tikName": "Сычевская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 667,
     "uikTvd": "4674023300783",
+    "uikName": "УИК №667",
     "tikTvd": "26720001632329",
-    "tikName": "Сычевская"
+    "tikName": "Сычевская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 668,
     "uikTvd": "4674023300784",
+    "uikName": "УИК №668",
     "tikTvd": "26720001632329",
-    "tikName": "Сычевская"
+    "tikName": "Сычевская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 669,
     "uikTvd": "4674023300785",
+    "uikName": "УИК №669",
     "tikTvd": "26720001632329",
-    "tikName": "Сычевская"
+    "tikName": "Сычевская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 670,
     "uikTvd": "4674023300786",
+    "uikName": "УИК №670",
     "tikTvd": "26720001632329",
-    "tikName": "Сычевская"
+    "tikName": "Сычевская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 671,
     "uikTvd": "4674023300787",
+    "uikName": "УИК №671",
     "tikTvd": "26720001632329",
-    "tikName": "Сычевская"
+    "tikName": "Сычевская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 672,
     "uikTvd": "4674023300788",
+    "uikName": "УИК №672",
     "tikTvd": "26720001632329",
-    "tikName": "Сычевская"
+    "tikName": "Сычевская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 673,
     "uikTvd": "4674023300789",
+    "uikName": "УИК №673",
     "tikTvd": "26720001632329",
-    "tikName": "Сычевская"
+    "tikName": "Сычевская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 674,
     "uikTvd": "4674024314026",
+    "uikName": "УИК №674",
     "tikTvd": "26720001632330",
-    "tikName": "Темкинская"
+    "tikName": "Темкинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 675,
     "uikTvd": "4674024314027",
+    "uikName": "УИК №675",
     "tikTvd": "26720001632330",
-    "tikName": "Темкинская"
+    "tikName": "Темкинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 676,
     "uikTvd": "4674024314028",
+    "uikName": "УИК №676",
     "tikTvd": "26720001632330",
-    "tikName": "Темкинская"
+    "tikName": "Темкинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 677,
     "uikTvd": "4674024314029",
+    "uikName": "УИК №677",
     "tikTvd": "26720001632330",
-    "tikName": "Темкинская"
+    "tikName": "Темкинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 678,
     "uikTvd": "4674024314030",
+    "uikName": "УИК №678",
     "tikTvd": "26720001632330",
-    "tikName": "Темкинская"
+    "tikName": "Темкинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 679,
     "uikTvd": "4674024314031",
+    "uikName": "УИК №679",
     "tikTvd": "26720001632330",
-    "tikName": "Темкинская"
+    "tikName": "Темкинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 680,
     "uikTvd": "4674024314032",
+    "uikName": "УИК №680",
     "tikTvd": "26720001632330",
-    "tikName": "Темкинская"
+    "tikName": "Темкинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 681,
     "uikTvd": "4674024314033",
+    "uikName": "УИК №681",
     "tikTvd": "26720001632330",
-    "tikName": "Темкинская"
+    "tikName": "Темкинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 682,
     "uikTvd": "4674024314034",
+    "uikName": "УИК №682",
     "tikTvd": "26720001632330",
-    "tikName": "Темкинская"
+    "tikName": "Темкинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 683,
     "uikTvd": "4674024314035",
+    "uikName": "УИК №683",
     "tikTvd": "26720001632330",
-    "tikName": "Темкинская"
+    "tikName": "Темкинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 684,
     "uikTvd": "4674025271291",
+    "uikName": "УИК №684",
     "tikTvd": "26720001632325",
-    "tikName": "Угранская"
+    "tikName": "Угранская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 685,
     "uikTvd": "4674025271292",
+    "uikName": "УИК №685",
     "tikTvd": "26720001632325",
-    "tikName": "Угранская"
+    "tikName": "Угранская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 686,
     "uikTvd": "4674025271293",
+    "uikName": "УИК №686",
     "tikTvd": "26720001632325",
-    "tikName": "Угранская"
+    "tikName": "Угранская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 688,
     "uikTvd": "4674025271294",
+    "uikName": "УИК №688",
     "tikTvd": "26720001632325",
-    "tikName": "Угранская"
+    "tikName": "Угранская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 689,
     "uikTvd": "4674025271295",
+    "uikName": "УИК №689",
     "tikTvd": "26720001632325",
-    "tikName": "Угранская"
+    "tikName": "Угранская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 690,
     "uikTvd": "4674025271296",
+    "uikName": "УИК №690",
     "tikTvd": "26720001632325",
-    "tikName": "Угранская"
+    "tikName": "Угранская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 691,
     "uikTvd": "4674025271297",
+    "uikName": "УИК №691",
     "tikTvd": "26720001632325",
-    "tikName": "Угранская"
+    "tikName": "Угранская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 693,
     "uikTvd": "4674025271298",
+    "uikName": "УИК №693",
     "tikTvd": "26720001632325",
-    "tikName": "Угранская"
+    "tikName": "Угранская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 694,
     "uikTvd": "4674025271299",
+    "uikName": "УИК №694",
     "tikTvd": "26720001632325",
-    "tikName": "Угранская"
+    "tikName": "Угранская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 697,
     "uikTvd": "4674025271300",
+    "uikName": "УИК №697",
     "tikTvd": "26720001632325",
-    "tikName": "Угранская"
+    "tikName": "Угранская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 699,
     "uikTvd": "4674025271301",
+    "uikName": "УИК №699",
     "tikTvd": "26720001632325",
-    "tikName": "Угранская"
+    "tikName": "Угранская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 700,
     "uikTvd": "4674025271302",
+    "uikName": "УИК №700",
     "tikTvd": "26720001632325",
-    "tikName": "Угранская"
+    "tikName": "Угранская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 701,
     "uikTvd": "4674025271303",
+    "uikName": "УИК №701",
     "tikTvd": "26720001632325",
-    "tikName": "Угранская"
+    "tikName": "Угранская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 702,
     "uikTvd": "4674025271304",
+    "uikName": "УИК №702",
     "tikTvd": "26720001632325",
-    "tikName": "Угранская"
+    "tikName": "Угранская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 703,
     "uikTvd": "4674026264520",
+    "uikName": "УИК №703",
     "tikTvd": "26720001632332",
-    "tikName": "Хиславичская "
+    "tikName": "Хиславичская ",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 704,
     "uikTvd": "4674026264521",
+    "uikName": "УИК №704",
     "tikTvd": "26720001632332",
-    "tikName": "Хиславичская "
+    "tikName": "Хиславичская ",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 705,
     "uikTvd": "4674026264522",
+    "uikName": "УИК №705",
     "tikTvd": "26720001632332",
-    "tikName": "Хиславичская "
+    "tikName": "Хиславичская ",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 706,
     "uikTvd": "4674026264523",
+    "uikName": "УИК №706",
     "tikTvd": "26720001632332",
-    "tikName": "Хиславичская "
+    "tikName": "Хиславичская ",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 707,
     "uikTvd": "4674026264524",
+    "uikName": "УИК №707",
     "tikTvd": "26720001632332",
-    "tikName": "Хиславичская "
+    "tikName": "Хиславичская ",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 708,
     "uikTvd": "4674026264525",
+    "uikName": "УИК №708",
     "tikTvd": "26720001632332",
-    "tikName": "Хиславичская "
+    "tikName": "Хиславичская ",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 710,
     "uikTvd": "4674026264526",
+    "uikName": "УИК №710",
     "tikTvd": "26720001632332",
-    "tikName": "Хиславичская "
+    "tikName": "Хиславичская ",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 711,
     "uikTvd": "4674026264527",
+    "uikName": "УИК №711",
     "tikTvd": "26720001632332",
-    "tikName": "Хиславичская "
+    "tikName": "Хиславичская ",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 712,
     "uikTvd": "4674026264528",
+    "uikName": "УИК №712",
     "tikTvd": "26720001632332",
-    "tikName": "Хиславичская "
+    "tikName": "Хиславичская ",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 714,
     "uikTvd": "4674026264529",
+    "uikName": "УИК №714",
     "tikTvd": "26720001632332",
-    "tikName": "Хиславичская "
+    "tikName": "Хиславичская ",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 715,
     "uikTvd": "4674026264530",
+    "uikName": "УИК №715",
     "tikTvd": "26720001632332",
-    "tikName": "Хиславичская "
+    "tikName": "Хиславичская ",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 716,
     "uikTvd": "4674026264531",
+    "uikName": "УИК №716",
     "tikTvd": "26720001632332",
-    "tikName": "Хиславичская "
+    "tikName": "Хиславичская ",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 720,
     "uikTvd": "4674026264532",
+    "uikName": "УИК №720",
     "tikTvd": "26720001632332",
-    "tikName": "Хиславичская "
+    "tikName": "Хиславичская ",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 721,
     "uikTvd": "4674026264533",
+    "uikName": "УИК №721",
     "tikTvd": "26720001632332",
-    "tikName": "Хиславичская "
+    "tikName": "Хиславичская ",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 723,
     "uikTvd": "4674027283181",
+    "uikName": "УИК №723",
     "tikTvd": "26720001632333",
-    "tikName": "Холм-Жирковская"
+    "tikName": "Холм-Жирковская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 724,
     "uikTvd": "4674027283182",
+    "uikName": "УИК №724",
     "tikTvd": "26720001632333",
-    "tikName": "Холм-Жирковская"
+    "tikName": "Холм-Жирковская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 725,
     "uikTvd": "4674027283183",
+    "uikName": "УИК №725",
     "tikTvd": "26720001632333",
-    "tikName": "Холм-Жирковская"
+    "tikName": "Холм-Жирковская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 726,
     "uikTvd": "4674027283184",
+    "uikName": "УИК №726",
     "tikTvd": "26720001632333",
-    "tikName": "Холм-Жирковская"
+    "tikName": "Холм-Жирковская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 728,
     "uikTvd": "4674027283185",
+    "uikName": "УИК №728",
     "tikTvd": "26720001632333",
-    "tikName": "Холм-Жирковская"
+    "tikName": "Холм-Жирковская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 729,
     "uikTvd": "4674027283186",
+    "uikName": "УИК №729",
     "tikTvd": "26720001632333",
-    "tikName": "Холм-Жирковская"
+    "tikName": "Холм-Жирковская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 730,
     "uikTvd": "4674027283187",
+    "uikName": "УИК №730",
     "tikTvd": "26720001632333",
-    "tikName": "Холм-Жирковская"
+    "tikName": "Холм-Жирковская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 731,
     "uikTvd": "4674027283188",
+    "uikName": "УИК №731",
     "tikTvd": "26720001632333",
-    "tikName": "Холм-Жирковская"
+    "tikName": "Холм-Жирковская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 732,
     "uikTvd": "4674027283189",
+    "uikName": "УИК №732",
     "tikTvd": "26720001632333",
-    "tikName": "Холм-Жирковская"
+    "tikName": "Холм-Жирковская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 733,
     "uikTvd": "4674027283190",
+    "uikName": "УИК №733",
     "tikTvd": "26720001632333",
-    "tikName": "Холм-Жирковская"
+    "tikName": "Холм-Жирковская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 734,
     "uikTvd": "4674027283191",
+    "uikName": "УИК №734",
     "tikTvd": "26720001632333",
-    "tikName": "Холм-Жирковская"
+    "tikName": "Холм-Жирковская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 735,
     "uikTvd": "4674027283192",
+    "uikName": "УИК №735",
     "tikTvd": "26720001632333",
-    "tikName": "Холм-Жирковская"
+    "tikName": "Холм-Жирковская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 736,
     "uikTvd": "4674027283193",
+    "uikName": "УИК №736",
     "tikTvd": "26720001632333",
-    "tikName": "Холм-Жирковская"
+    "tikName": "Холм-Жирковская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 737,
     "uikTvd": "4674027283194",
+    "uikName": "УИК №737",
     "tikTvd": "26720001632333",
-    "tikName": "Холм-Жирковская"
+    "tikName": "Холм-Жирковская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 739,
     "uikTvd": "4674027283195",
+    "uikName": "УИК №739",
     "tikTvd": "26720001632333",
-    "tikName": "Холм-Жирковская"
+    "tikName": "Холм-Жирковская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 740,
     "uikTvd": "4674028273752",
+    "uikName": "УИК №740",
     "tikTvd": "26720001632334",
-    "tikName": "Шумячская"
+    "tikName": "Шумячская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 741,
     "uikTvd": "4674028273753",
+    "uikName": "УИК №741",
     "tikTvd": "26720001632334",
-    "tikName": "Шумячская"
+    "tikName": "Шумячская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 742,
     "uikTvd": "4674028273754",
+    "uikName": "УИК №742",
     "tikTvd": "26720001632334",
-    "tikName": "Шумячская"
+    "tikName": "Шумячская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 743,
     "uikTvd": "4674028273755",
+    "uikName": "УИК №743",
     "tikTvd": "26720001632334",
-    "tikName": "Шумячская"
+    "tikName": "Шумячская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 744,
     "uikTvd": "4674028273756",
+    "uikName": "УИК №744",
     "tikTvd": "26720001632334",
-    "tikName": "Шумячская"
+    "tikName": "Шумячская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 745,
     "uikTvd": "4674028273757",
+    "uikName": "УИК №745",
     "tikTvd": "26720001632334",
-    "tikName": "Шумячская"
+    "tikName": "Шумячская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 746,
     "uikTvd": "4674028273758",
+    "uikName": "УИК №746",
     "tikTvd": "26720001632334",
-    "tikName": "Шумячская"
+    "tikName": "Шумячская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 748,
     "uikTvd": "4674028273759",
+    "uikName": "УИК №748",
     "tikTvd": "26720001632334",
-    "tikName": "Шумячская"
+    "tikName": "Шумячская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 749,
     "uikTvd": "4674028273760",
+    "uikName": "УИК №749",
     "tikTvd": "26720001632334",
-    "tikName": "Шумячская"
+    "tikName": "Шумячская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 750,
     "uikTvd": "4674028273761",
+    "uikName": "УИК №750",
     "tikTvd": "26720001632334",
-    "tikName": "Шумячская"
+    "tikName": "Шумячская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 751,
     "uikTvd": "4674028273762",
+    "uikName": "УИК №751",
     "tikTvd": "26720001632334",
-    "tikName": "Шумячская"
+    "tikName": "Шумячская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 752,
     "uikTvd": "4674028273763",
+    "uikName": "УИК №752",
     "tikTvd": "26720001632334",
-    "tikName": "Шумячская"
+    "tikName": "Шумячская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 753,
     "uikTvd": "4674028273764",
+    "uikName": "УИК №753",
     "tikTvd": "26720001632334",
-    "tikName": "Шумячская"
+    "tikName": "Шумячская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 755,
     "uikTvd": "4674029454628",
+    "uikName": "УИК №755",
     "tikTvd": "26720001632331",
-    "tikName": "Ярцевская"
+    "tikName": "Ярцевская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 756,
     "uikTvd": "4674029454629",
+    "uikName": "УИК №756",
     "tikTvd": "26720001632331",
-    "tikName": "Ярцевская"
+    "tikName": "Ярцевская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 757,
     "uikTvd": "4674029454630",
+    "uikName": "УИК №757",
     "tikTvd": "26720001632331",
-    "tikName": "Ярцевская"
+    "tikName": "Ярцевская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 758,
     "uikTvd": "4674029454631",
+    "uikName": "УИК №758",
     "tikTvd": "26720001632331",
-    "tikName": "Ярцевская"
+    "tikName": "Ярцевская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 759,
     "uikTvd": "4674029454632",
+    "uikName": "УИК №759",
     "tikTvd": "26720001632331",
-    "tikName": "Ярцевская"
+    "tikName": "Ярцевская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 760,
     "uikTvd": "4674029454633",
+    "uikName": "УИК №760",
     "tikTvd": "26720001632331",
-    "tikName": "Ярцевская"
+    "tikName": "Ярцевская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 761,
     "uikTvd": "4674029454634",
+    "uikName": "УИК №761",
     "tikTvd": "26720001632331",
-    "tikName": "Ярцевская"
+    "tikName": "Ярцевская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 763,
     "uikTvd": "4674029454635",
+    "uikName": "УИК №763",
     "tikTvd": "26720001632331",
-    "tikName": "Ярцевская"
+    "tikName": "Ярцевская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 764,
     "uikTvd": "4674029454636",
+    "uikName": "УИК №764",
     "tikTvd": "26720001632331",
-    "tikName": "Ярцевская"
+    "tikName": "Ярцевская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 765,
     "uikTvd": "4674029454637",
+    "uikName": "УИК №765",
     "tikTvd": "26720001632331",
-    "tikName": "Ярцевская"
+    "tikName": "Ярцевская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 766,
     "uikTvd": "4674029454638",
+    "uikName": "УИК №766",
     "tikTvd": "26720001632331",
-    "tikName": "Ярцевская"
+    "tikName": "Ярцевская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 767,
     "uikTvd": "4674029454639",
+    "uikName": "УИК №767",
     "tikTvd": "26720001632331",
-    "tikName": "Ярцевская"
+    "tikName": "Ярцевская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 768,
     "uikTvd": "4674029454640",
+    "uikName": "УИК №768",
     "tikTvd": "26720001632331",
-    "tikName": "Ярцевская"
+    "tikName": "Ярцевская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 769,
     "uikTvd": "4674029454641",
+    "uikName": "УИК №769",
     "tikTvd": "26720001632331",
-    "tikName": "Ярцевская"
+    "tikName": "Ярцевская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 770,
     "uikTvd": "4674029454642",
+    "uikName": "УИК №770",
     "tikTvd": "26720001632331",
-    "tikName": "Ярцевская"
+    "tikName": "Ярцевская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 771,
     "uikTvd": "4674029454643",
+    "uikName": "УИК №771",
     "tikTvd": "26720001632331",
-    "tikName": "Ярцевская"
+    "tikName": "Ярцевская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 772,
     "uikTvd": "4674029454644",
+    "uikName": "УИК №772",
     "tikTvd": "26720001632331",
-    "tikName": "Ярцевская"
+    "tikName": "Ярцевская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 773,
     "uikTvd": "4674029454645",
+    "uikName": "УИК №773",
     "tikTvd": "26720001632331",
-    "tikName": "Ярцевская"
+    "tikName": "Ярцевская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 774,
     "uikTvd": "4674029454646",
+    "uikName": "УИК №774",
     "tikTvd": "26720001632331",
-    "tikName": "Ярцевская"
+    "tikName": "Ярцевская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 775,
     "uikTvd": "4674029454647",
+    "uikName": "УИК №775",
     "tikTvd": "26720001632331",
-    "tikName": "Ярцевская"
+    "tikName": "Ярцевская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 776,
     "uikTvd": "4674029454648",
+    "uikName": "УИК №776",
     "tikTvd": "26720001632331",
-    "tikName": "Ярцевская"
+    "tikName": "Ярцевская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 777,
     "uikTvd": "4674029454649",
+    "uikName": "УИК №777",
     "tikTvd": "26720001632331",
-    "tikName": "Ярцевская"
+    "tikName": "Ярцевская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 778,
     "uikTvd": "4674029454650",
+    "uikName": "УИК №778",
     "tikTvd": "26720001632331",
-    "tikName": "Ярцевская"
+    "tikName": "Ярцевская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 779,
     "uikTvd": "4674029454651",
+    "uikName": "УИК №779",
     "tikTvd": "26720001632331",
-    "tikName": "Ярцевская"
+    "tikName": "Ярцевская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 780,
     "uikTvd": "4674029454652",
+    "uikName": "УИК №780",
     "tikTvd": "26720001632331",
-    "tikName": "Ярцевская"
+    "tikName": "Ярцевская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 781,
     "uikTvd": "4674029454653",
+    "uikName": "УИК №781",
     "tikTvd": "26720001632331",
-    "tikName": "Ярцевская"
+    "tikName": "Ярцевская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 782,
     "uikTvd": "4674029454654",
+    "uikName": "УИК №782",
     "tikTvd": "26720001632331",
-    "tikName": "Ярцевская"
+    "tikName": "Ярцевская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 783,
     "uikTvd": "4674029454655",
+    "uikName": "УИК №783",
     "tikTvd": "26720001632331",
-    "tikName": "Ярцевская"
+    "tikName": "Ярцевская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 784,
     "uikTvd": "4674029454656",
+    "uikName": "УИК №784",
     "tikTvd": "26720001632331",
-    "tikName": "Ярцевская"
+    "tikName": "Ярцевская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 785,
     "uikTvd": "4674029454657",
+    "uikName": "УИК №785",
     "tikTvd": "26720001632331",
-    "tikName": "Ярцевская"
+    "tikName": "Ярцевская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 787,
     "uikTvd": "4674029454658",
+    "uikName": "УИК №787",
     "tikTvd": "26720001632331",
-    "tikName": "Ярцевская"
+    "tikName": "Ярцевская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 788,
     "uikTvd": "4674029454659",
+    "uikName": "УИК №788",
     "tikTvd": "26720001632331",
-    "tikName": "Ярцевская"
+    "tikName": "Ярцевская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 789,
     "uikTvd": "4674029454660",
+    "uikName": "УИК №789",
     "tikTvd": "26720001632331",
-    "tikName": "Ярцевская"
+    "tikName": "Ярцевская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 790,
     "uikTvd": "4674029454661",
+    "uikName": "УИК №790",
     "tikTvd": "26720001632331",
-    "tikName": "Ярцевская"
+    "tikName": "Ярцевская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 791,
     "uikTvd": "4674029454662",
+    "uikName": "УИК №791",
     "tikTvd": "26720001632331",
-    "tikName": "Ярцевская"
+    "tikName": "Ярцевская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 792,
     "uikTvd": "4674029454663",
+    "uikName": "УИК №792",
     "tikTvd": "26720001632331",
-    "tikName": "Ярцевская"
+    "tikName": "Ярцевская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 793,
     "uikTvd": "4674029454664",
+    "uikName": "УИК №793",
     "tikTvd": "26720001632331",
-    "tikName": "Ярцевская"
+    "tikName": "Ярцевская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 794,
     "uikTvd": "4674006238425",
+    "uikName": "УИК №794",
     "tikTvd": "26720001632312",
-    "tikName": "Десногорская"
+    "tikName": "Десногорская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 795,
     "uikTvd": "4674024314036",
+    "uikName": "УИК №795",
     "tikTvd": "26720001632330",
-    "tikName": "Темкинская"
+    "tikName": "Темкинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 796,
     "uikTvd": "4674004213423",
+    "uikName": "УИК №796",
     "tikTvd": "26720001632310",
-    "tikName": "Глинковская"
+    "tikName": "Глинковская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 797,
     "uikTvd": "4674005281498",
+    "uikName": "УИК №797",
     "tikTvd": "26720001632311",
-    "tikName": "Демидовская"
+    "tikName": "Демидовская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 798,
     "uikTvd": "4674005281499",
+    "uikName": "УИК №798",
     "tikTvd": "26720001632311",
-    "tikName": "Демидовская"
+    "tikName": "Демидовская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 799,
     "uikTvd": "4674021404172",
+    "uikName": "УИК №799",
     "tikTvd": "26720001632326",
-    "tikName": "Смоленск, Промышленная"
+    "tikName": "Смоленск, Промышленная",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 800,
     "uikTvd": "4674012252692",
+    "uikName": "УИК №800",
     "tikTvd": "26720001632317",
-    "tikName": "Краснинская"
+    "tikName": "Краснинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 801,
     "uikTvd": "4674022413993",
+    "uikName": "УИК №801",
     "tikTvd": "26720001632328",
-    "tikName": "Смоленская"
+    "tikName": "Смоленская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 802,
     "uikTvd": "4674022413994",
+    "uikName": "УИК №802",
     "tikTvd": "26720001632328",
-    "tikName": "Смоленская"
+    "tikName": "Смоленская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 803,
     "uikTvd": "46740021141457",
+    "uikName": "УИК №803",
     "tikTvd": "26720001632309",
-    "tikName": "Вяземская"
+    "tikName": "Вяземская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 804,
     "uikTvd": "46740021141458",
+    "uikName": "УИК №804",
     "tikTvd": "26720001632309",
-    "tikName": "Вяземская"
+    "tikName": "Вяземская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 805,
     "uikTvd": "46740021141459",
+    "uikName": "УИК №805",
     "tikTvd": "26720001632309",
-    "tikName": "Вяземская"
+    "tikName": "Вяземская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 806,
     "uikTvd": "46740021141460",
+    "uikName": "УИК №806",
     "tikTvd": "26720001632309",
-    "tikName": "Вяземская"
+    "tikName": "Вяземская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 807,
     "uikTvd": "4674003398608",
+    "uikName": "УИК №807",
     "tikTvd": "26720001632335",
-    "tikName": "Гагаринская "
+    "tikName": "Гагаринская ",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 808,
     "uikTvd": "4674019484227",
+    "uikName": "УИК №808",
     "tikTvd": "26720001632324",
-    "tikName": "Смоленск, Заднепровская"
+    "tikName": "Смоленск, Заднепровская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 809,
     "uikTvd": "4674006238427",
+    "uikName": "УИК №809",
     "tikTvd": "26720001632312",
-    "tikName": "Десногорская"
+    "tikName": "Десногорская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 810,
     "uikTvd": "4674006238429",
+    "uikName": "УИК №810",
     "tikTvd": "26720001632312",
-    "tikName": "Десногорская"
+    "tikName": "Десногорская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 811,
     "uikTvd": "4674006238431",
+    "uikName": "УИК №811",
     "tikTvd": "26720001632312",
-    "tikName": "Десногорская"
+    "tikName": "Десногорская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 812,
     "uikTvd": "4674021404173",
+    "uikName": "УИК №812",
     "tikTvd": "26720001632326",
-    "tikName": "Смоленск, Промышленная"
+    "tikName": "Смоленск, Промышленная",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 813,
     "uikTvd": "4674003398609",
+    "uikName": "УИК №813",
     "tikTvd": "26720001632335",
-    "tikName": "Гагаринская "
+    "tikName": "Гагаринская ",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 814,
     "uikTvd": "4674003398610",
+    "uikName": "УИК №814",
     "tikTvd": "26720001632335",
-    "tikName": "Гагаринская "
+    "tikName": "Гагаринская ",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 815,
     "uikTvd": "4674003398611",
+    "uikName": "УИК №815",
     "tikTvd": "26720001632335",
-    "tikName": "Гагаринская "
+    "tikName": "Гагаринская ",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 816,
     "uikTvd": "4674003398612",
+    "uikName": "УИК №816",
     "tikTvd": "26720001632335",
-    "tikName": "Гагаринская "
+    "tikName": "Гагаринская ",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 817,
     "uikTvd": "4674020399097",
+    "uikName": "УИК №817",
     "tikTvd": "26720001632327",
-    "tikName": "Смоленск, Ленинская"
+    "tikName": "Смоленск, Ленинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   },
   {
     "uikNumber": 818,
     "uikTvd": "4674021405533",
+    "uikName": "УИК №818",
     "tikTvd": "26720001632326",
-    "tikName": "Смоленск, Промышленная"
+    "tikName": "Смоленск, Промышленная",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
+    "district": null
   }
 ] satisfies readonly UikTikRelation[];

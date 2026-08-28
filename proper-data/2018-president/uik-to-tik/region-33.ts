@@ -7,5905 +7,10825 @@ export const president_2018_uik_to_tik_region_33 = [
   {
     "uikNumber": 1,
     "uikTvd": "4334001531216",
+    "uikName": "УИК №1",
     "tikTvd": "2332000884263",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 2,
     "uikTvd": "4334001531217",
+    "uikName": "УИК №2",
     "tikTvd": "2332000884263",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 3,
     "uikTvd": "4334001531218",
+    "uikName": "УИК №3",
     "tikTvd": "2332000884263",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 4,
     "uikTvd": "4334001531219",
+    "uikName": "УИК №4",
     "tikTvd": "2332000884263",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 5,
     "uikTvd": "4334001531220",
+    "uikName": "УИК №5",
     "tikTvd": "2332000884263",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 6,
     "uikTvd": "4334001531221",
+    "uikName": "УИК №6",
     "tikTvd": "2332000884263",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 7,
     "uikTvd": "4334001531222",
+    "uikName": "УИК №7",
     "tikTvd": "2332000884263",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 8,
     "uikTvd": "4334001531223",
+    "uikName": "УИК №8",
     "tikTvd": "2332000884263",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 9,
     "uikTvd": "4334001531224",
+    "uikName": "УИК №9",
     "tikTvd": "2332000884263",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 10,
     "uikTvd": "4334001531225",
+    "uikName": "УИК №10",
     "tikTvd": "2332000884263",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 11,
     "uikTvd": "4334001531226",
+    "uikName": "УИК №11",
     "tikTvd": "2332000884263",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 12,
     "uikTvd": "4334001531227",
+    "uikName": "УИК №12",
     "tikTvd": "2332000884263",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 13,
     "uikTvd": "4334001531228",
+    "uikName": "УИК №13",
     "tikTvd": "2332000884263",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 14,
     "uikTvd": "4334001531229",
+    "uikName": "УИК №14",
     "tikTvd": "2332000884263",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 15,
     "uikTvd": "4334001531230",
+    "uikName": "УИК №15",
     "tikTvd": "2332000884263",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 16,
     "uikTvd": "4334001531231",
+    "uikName": "УИК №16",
     "tikTvd": "2332000884263",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 17,
     "uikTvd": "4334001531232",
+    "uikName": "УИК №17",
     "tikTvd": "2332000884263",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 18,
     "uikTvd": "4334001531233",
+    "uikName": "УИК №18",
     "tikTvd": "2332000884263",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 19,
     "uikTvd": "4334001531234",
+    "uikName": "УИК №19",
     "tikTvd": "2332000884263",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 20,
     "uikTvd": "4334001531235",
+    "uikName": "УИК №20",
     "tikTvd": "2332000884263",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 21,
     "uikTvd": "4334001531236",
+    "uikName": "УИК №21",
     "tikTvd": "2332000884263",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 22,
     "uikTvd": "4334001531237",
+    "uikName": "УИК №22",
     "tikTvd": "2332000884263",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 23,
     "uikTvd": "4334001531238",
+    "uikName": "УИК №23",
     "tikTvd": "2332000884263",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 24,
     "uikTvd": "4334001531239",
+    "uikName": "УИК №24",
     "tikTvd": "2332000884263",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 25,
     "uikTvd": "4334001531240",
+    "uikName": "УИК №25",
     "tikTvd": "2332000884263",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 26,
     "uikTvd": "4334001531241",
+    "uikName": "УИК №26",
     "tikTvd": "2332000884263",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 27,
     "uikTvd": "4334001531242",
+    "uikName": "УИК №27",
     "tikTvd": "2332000884263",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 28,
     "uikTvd": "4334001531243",
+    "uikName": "УИК №28",
     "tikTvd": "2332000884263",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 29,
     "uikTvd": "4334001531244",
+    "uikName": "УИК №29",
     "tikTvd": "2332000884263",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 30,
     "uikTvd": "4334001531245",
+    "uikName": "УИК №30",
     "tikTvd": "2332000884263",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 31,
     "uikTvd": "4334001531246",
+    "uikName": "УИК №31",
     "tikTvd": "2332000884263",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 32,
     "uikTvd": "4334001531247",
+    "uikName": "УИК №32",
     "tikTvd": "2332000884263",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 33,
     "uikTvd": "4334001531248",
+    "uikName": "УИК №33",
     "tikTvd": "2332000884263",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 34,
     "uikTvd": "4334001531249",
+    "uikName": "УИК №34",
     "tikTvd": "2332000884263",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 35,
     "uikTvd": "4334001531250",
+    "uikName": "УИК №35",
     "tikTvd": "2332000884263",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 36,
     "uikTvd": "4334001531251",
+    "uikName": "УИК №36",
     "tikTvd": "2332000884263",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 37,
     "uikTvd": "4334001531252",
+    "uikName": "УИК №37",
     "tikTvd": "2332000884263",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 38,
     "uikTvd": "4334001531253",
+    "uikName": "УИК №38",
     "tikTvd": "2332000884263",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 39,
     "uikTvd": "4334001531254",
+    "uikName": "УИК №39",
     "tikTvd": "2332000884263",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 40,
     "uikTvd": "4334001531255",
+    "uikName": "УИК №40",
     "tikTvd": "2332000884263",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 41,
     "uikTvd": "4334001531256",
+    "uikName": "УИК №41",
     "tikTvd": "2332000884263",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 42,
     "uikTvd": "4334001531257",
+    "uikName": "УИК №42",
     "tikTvd": "2332000884263",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 43,
     "uikTvd": "4334001531258",
+    "uikName": "УИК №43",
     "tikTvd": "2332000884263",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 44,
     "uikTvd": "4334001531259",
+    "uikName": "УИК №44",
     "tikTvd": "2332000884263",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 45,
     "uikTvd": "4334001531260",
+    "uikName": "УИК №45",
     "tikTvd": "2332000884263",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 46,
     "uikTvd": "4334001531261",
+    "uikName": "УИК №46",
     "tikTvd": "2332000884263",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 47,
     "uikTvd": "4334001531262",
+    "uikName": "УИК №47",
     "tikTvd": "2332000884263",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 48,
     "uikTvd": "4334001531263",
+    "uikName": "УИК №48",
     "tikTvd": "2332000884263",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 49,
     "uikTvd": "4334001531264",
+    "uikName": "УИК №49",
     "tikTvd": "2332000884263",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 50,
     "uikTvd": "4334001531265",
+    "uikName": "УИК №50",
     "tikTvd": "2332000884263",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 51,
     "uikTvd": "4334001531266",
+    "uikName": "УИК №51",
     "tikTvd": "2332000884263",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 52,
     "uikTvd": "4334001531267",
+    "uikName": "УИК №52",
     "tikTvd": "2332000884263",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 53,
     "uikTvd": "4334001531268",
+    "uikName": "УИК №53",
     "tikTvd": "2332000884263",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 54,
     "uikTvd": "4334001531269",
+    "uikName": "УИК №54",
     "tikTvd": "2332000884263",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 55,
     "uikTvd": "4334001531270",
+    "uikName": "УИК №55",
     "tikTvd": "2332000884263",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 56,
     "uikTvd": "4334001531271",
+    "uikName": "УИК №56",
     "tikTvd": "2332000884263",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 57,
     "uikTvd": "4334001531272",
+    "uikName": "УИК №57",
     "tikTvd": "2332000884263",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 58,
     "uikTvd": "4334001531273",
+    "uikName": "УИК №58",
     "tikTvd": "2332000884263",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 59,
     "uikTvd": "4334001531274",
+    "uikName": "УИК №59",
     "tikTvd": "2332000884263",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 60,
     "uikTvd": "4334001531275",
+    "uikName": "УИК №60",
     "tikTvd": "2332000884263",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 61,
     "uikTvd": "4334001531276",
+    "uikName": "УИК №61",
     "tikTvd": "2332000884263",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 62,
     "uikTvd": "4334001531277",
+    "uikName": "УИК №62",
     "tikTvd": "2332000884263",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 63,
     "uikTvd": "4334001531278",
+    "uikName": "УИК №63",
     "tikTvd": "2332000884263",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 64,
     "uikTvd": "4334001531279",
+    "uikName": "УИК №64",
     "tikTvd": "2332000884263",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 65,
     "uikTvd": "4334001531280",
+    "uikName": "УИК №65",
     "tikTvd": "2332000884263",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 66,
     "uikTvd": "4334001531281",
+    "uikName": "УИК №66",
     "tikTvd": "2332000884263",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 72,
     "uikTvd": "4334009255469",
+    "uikName": "УИК №72",
     "tikTvd": "2332000884277",
-    "tikName": "Киржачская"
+    "tikName": "Киржачская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 73,
     "uikTvd": "4334009255470",
+    "uikName": "УИК №73",
     "tikTvd": "2332000884277",
-    "tikName": "Киржачская"
+    "tikName": "Киржачская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 74,
     "uikTvd": "4334009255471",
+    "uikName": "УИК №74",
     "tikTvd": "2332000884277",
-    "tikName": "Киржачская"
+    "tikName": "Киржачская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 75,
     "uikTvd": "4334009255472",
+    "uikName": "УИК №75",
     "tikTvd": "2332000884277",
-    "tikName": "Киржачская"
+    "tikName": "Киржачская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 76,
     "uikTvd": "4334009255473",
+    "uikName": "УИК №76",
     "tikTvd": "2332000884277",
-    "tikName": "Киржачская"
+    "tikName": "Киржачская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 77,
     "uikTvd": "4334009255474",
+    "uikName": "УИК №77",
     "tikTvd": "2332000884277",
-    "tikName": "Киржачская"
+    "tikName": "Киржачская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 78,
     "uikTvd": "4334009255475",
+    "uikName": "УИК №78",
     "tikTvd": "2332000884277",
-    "tikName": "Киржачская"
+    "tikName": "Киржачская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 79,
     "uikTvd": "4334009255476",
+    "uikName": "УИК №79",
     "tikTvd": "2332000884277",
-    "tikName": "Киржачская"
+    "tikName": "Киржачская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 80,
     "uikTvd": "4334009255477",
+    "uikName": "УИК №80",
     "tikTvd": "2332000884277",
-    "tikName": "Киржачская"
+    "tikName": "Киржачская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 81,
     "uikTvd": "4334009255478",
+    "uikName": "УИК №81",
     "tikTvd": "2332000884277",
-    "tikName": "Киржачская"
+    "tikName": "Киржачская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 82,
     "uikTvd": "4334009255479",
+    "uikName": "УИК №82",
     "tikTvd": "2332000884277",
-    "tikName": "Киржачская"
+    "tikName": "Киржачская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 83,
     "uikTvd": "4334009255480",
+    "uikName": "УИК №83",
     "tikTvd": "2332000884277",
-    "tikName": "Киржачская"
+    "tikName": "Киржачская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 84,
     "uikTvd": "4334009255481",
+    "uikName": "УИК №84",
     "tikTvd": "2332000884277",
-    "tikName": "Киржачская"
+    "tikName": "Киржачская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 85,
     "uikTvd": "4334009255482",
+    "uikName": "УИК №85",
     "tikTvd": "2332000884277",
-    "tikName": "Киржачская"
+    "tikName": "Киржачская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 86,
     "uikTvd": "4334009255483",
+    "uikName": "УИК №86",
     "tikTvd": "2332000884277",
-    "tikName": "Киржачская"
+    "tikName": "Киржачская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 87,
     "uikTvd": "4334009255484",
+    "uikName": "УИК №87",
     "tikTvd": "2332000884277",
-    "tikName": "Киржачская"
+    "tikName": "Киржачская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 88,
     "uikTvd": "4334009255485",
+    "uikName": "УИК №88",
     "tikTvd": "2332000884277",
-    "tikName": "Киржачская"
+    "tikName": "Киржачская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 89,
     "uikTvd": "4334009255486",
+    "uikName": "УИК №89",
     "tikTvd": "2332000884277",
-    "tikName": "Киржачская"
+    "tikName": "Киржачская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 90,
     "uikTvd": "4334009255487",
+    "uikName": "УИК №90",
     "tikTvd": "2332000884277",
-    "tikName": "Киржачская"
+    "tikName": "Киржачская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 91,
     "uikTvd": "4334009255488",
+    "uikName": "УИК №91",
     "tikTvd": "2332000884277",
-    "tikName": "Киржачская"
+    "tikName": "Киржачская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 92,
     "uikTvd": "4334009255489",
+    "uikName": "УИК №92",
     "tikTvd": "2332000884277",
-    "tikName": "Киржачская"
+    "tikName": "Киржачская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 93,
     "uikTvd": "4334009255490",
+    "uikName": "УИК №93",
     "tikTvd": "2332000884277",
-    "tikName": "Киржачская"
+    "tikName": "Киржачская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 94,
     "uikTvd": "4334009255491",
+    "uikName": "УИК №94",
     "tikTvd": "2332000884277",
-    "tikName": "Киржачская"
+    "tikName": "Киржачская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 95,
     "uikTvd": "4334009255492",
+    "uikName": "УИК №95",
     "tikTvd": "2332000884277",
-    "tikName": "Киржачская"
+    "tikName": "Киржачская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 96,
     "uikTvd": "4334009255493",
+    "uikName": "УИК №96",
     "tikTvd": "2332000884277",
-    "tikName": "Киржачская"
+    "tikName": "Киржачская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 97,
     "uikTvd": "4334009255494",
+    "uikName": "УИК №97",
     "tikTvd": "2332000884277",
-    "tikName": "Киржачская"
+    "tikName": "Киржачская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 98,
     "uikTvd": "4334009255495",
+    "uikName": "УИК №98",
     "tikTvd": "2332000884277",
-    "tikName": "Киржачская"
+    "tikName": "Киржачская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 99,
     "uikTvd": "4334009255496",
+    "uikName": "УИК №99",
     "tikTvd": "2332000884277",
-    "tikName": "Киржачская"
+    "tikName": "Киржачская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 100,
     "uikTvd": "4334009255497",
+    "uikName": "УИК №100",
     "tikTvd": "2332000884277",
-    "tikName": "Киржачская"
+    "tikName": "Киржачская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 101,
     "uikTvd": "4334009255498",
+    "uikName": "УИК №101",
     "tikTvd": "2332000884277",
-    "tikName": "Киржачская"
+    "tikName": "Киржачская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 102,
     "uikTvd": "4334009255499",
+    "uikName": "УИК №102",
     "tikTvd": "2332000884277",
-    "tikName": "Киржачская"
+    "tikName": "Киржачская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 103,
     "uikTvd": "4334009255500",
+    "uikName": "УИК №103",
     "tikTvd": "2332000884277",
-    "tikName": "Киржачская"
+    "tikName": "Киржачская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 104,
     "uikTvd": "4334009255501",
+    "uikName": "УИК №104",
     "tikTvd": "2332000884277",
-    "tikName": "Киржачская"
+    "tikName": "Киржачская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 105,
     "uikTvd": "4334009255502",
+    "uikName": "УИК №105",
     "tikTvd": "2332000884277",
-    "tikName": "Киржачская"
+    "tikName": "Киржачская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 106,
     "uikTvd": "4334012225861",
+    "uikName": "УИК №106",
     "tikTvd": "2332000884265",
-    "tikName": "Кольчугинская"
+    "tikName": "Кольчугинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 107,
     "uikTvd": "4334012225862",
+    "uikName": "УИК №107",
     "tikTvd": "2332000884265",
-    "tikName": "Кольчугинская"
+    "tikName": "Кольчугинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 108,
     "uikTvd": "4334012225863",
+    "uikName": "УИК №108",
     "tikTvd": "2332000884265",
-    "tikName": "Кольчугинская"
+    "tikName": "Кольчугинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 109,
     "uikTvd": "4334012225864",
+    "uikName": "УИК №109",
     "tikTvd": "2332000884265",
-    "tikName": "Кольчугинская"
+    "tikName": "Кольчугинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 110,
     "uikTvd": "4334012225865",
+    "uikName": "УИК №110",
     "tikTvd": "2332000884265",
-    "tikName": "Кольчугинская"
+    "tikName": "Кольчугинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 111,
     "uikTvd": "4334012225866",
+    "uikName": "УИК №111",
     "tikTvd": "2332000884265",
-    "tikName": "Кольчугинская"
+    "tikName": "Кольчугинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 112,
     "uikTvd": "4334012225867",
+    "uikName": "УИК №112",
     "tikTvd": "2332000884265",
-    "tikName": "Кольчугинская"
+    "tikName": "Кольчугинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 113,
     "uikTvd": "4334012225868",
+    "uikName": "УИК №113",
     "tikTvd": "2332000884265",
-    "tikName": "Кольчугинская"
+    "tikName": "Кольчугинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 114,
     "uikTvd": "4334012225869",
+    "uikName": "УИК №114",
     "tikTvd": "2332000884265",
-    "tikName": "Кольчугинская"
+    "tikName": "Кольчугинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 115,
     "uikTvd": "4334012225870",
+    "uikName": "УИК №115",
     "tikTvd": "2332000884265",
-    "tikName": "Кольчугинская"
+    "tikName": "Кольчугинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 116,
     "uikTvd": "4334012225871",
+    "uikName": "УИК №116",
     "tikTvd": "2332000884265",
-    "tikName": "Кольчугинская"
+    "tikName": "Кольчугинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 117,
     "uikTvd": "4334012225872",
+    "uikName": "УИК №117",
     "tikTvd": "2332000884265",
-    "tikName": "Кольчугинская"
+    "tikName": "Кольчугинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 118,
     "uikTvd": "4334012225873",
+    "uikName": "УИК №118",
     "tikTvd": "2332000884265",
-    "tikName": "Кольчугинская"
+    "tikName": "Кольчугинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 119,
     "uikTvd": "4334012225874",
+    "uikName": "УИК №119",
     "tikTvd": "2332000884265",
-    "tikName": "Кольчугинская"
+    "tikName": "Кольчугинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 120,
     "uikTvd": "4334012225875",
+    "uikName": "УИК №120",
     "tikTvd": "2332000884265",
-    "tikName": "Кольчугинская"
+    "tikName": "Кольчугинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 121,
     "uikTvd": "4334012225876",
+    "uikName": "УИК №121",
     "tikTvd": "2332000884265",
-    "tikName": "Кольчугинская"
+    "tikName": "Кольчугинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 122,
     "uikTvd": "4334012225877",
+    "uikName": "УИК №122",
     "tikTvd": "2332000884265",
-    "tikName": "Кольчугинская"
+    "tikName": "Кольчугинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 123,
     "uikTvd": "4334012225878",
+    "uikName": "УИК №123",
     "tikTvd": "2332000884265",
-    "tikName": "Кольчугинская"
+    "tikName": "Кольчугинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 124,
     "uikTvd": "4334012225879",
+    "uikName": "УИК №124",
     "tikTvd": "2332000884265",
-    "tikName": "Кольчугинская"
+    "tikName": "Кольчугинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 125,
     "uikTvd": "4334012225880",
+    "uikName": "УИК №125",
     "tikTvd": "2332000884265",
-    "tikName": "Кольчугинская"
+    "tikName": "Кольчугинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 126,
     "uikTvd": "4334012225881",
+    "uikName": "УИК №126",
     "tikTvd": "2332000884265",
-    "tikName": "Кольчугинская"
+    "tikName": "Кольчугинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 127,
     "uikTvd": "4334012225882",
+    "uikName": "УИК №127",
     "tikTvd": "2332000884265",
-    "tikName": "Кольчугинская"
+    "tikName": "Кольчугинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 128,
     "uikTvd": "4334012225883",
+    "uikName": "УИК №128",
     "tikTvd": "2332000884265",
-    "tikName": "Кольчугинская"
+    "tikName": "Кольчугинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 129,
     "uikTvd": "4334012225884",
+    "uikName": "УИК №129",
     "tikTvd": "2332000884265",
-    "tikName": "Кольчугинская"
+    "tikName": "Кольчугинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 130,
     "uikTvd": "4334012225885",
+    "uikName": "УИК №130",
     "tikTvd": "2332000884265",
-    "tikName": "Кольчугинская"
+    "tikName": "Кольчугинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 131,
     "uikTvd": "4334012225886",
+    "uikName": "УИК №131",
     "tikTvd": "2332000884265",
-    "tikName": "Кольчугинская"
+    "tikName": "Кольчугинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 132,
     "uikTvd": "4334012225887",
+    "uikName": "УИК №132",
     "tikTvd": "2332000884265",
-    "tikName": "Кольчугинская"
+    "tikName": "Кольчугинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 133,
     "uikTvd": "4334012225888",
+    "uikName": "УИК №133",
     "tikTvd": "2332000884265",
-    "tikName": "Кольчугинская"
+    "tikName": "Кольчугинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 134,
     "uikTvd": "4334012225889",
+    "uikName": "УИК №134",
     "tikTvd": "2332000884265",
-    "tikName": "Кольчугинская"
+    "tikName": "Кольчугинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 135,
     "uikTvd": "4334012225890",
+    "uikName": "УИК №135",
     "tikTvd": "2332000884265",
-    "tikName": "Кольчугинская"
+    "tikName": "Кольчугинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 136,
     "uikTvd": "4334012225891",
+    "uikName": "УИК №136",
     "tikTvd": "2332000884265",
-    "tikName": "Кольчугинская"
+    "tikName": "Кольчугинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 137,
     "uikTvd": "4334012225892",
+    "uikName": "УИК №137",
     "tikTvd": "2332000884265",
-    "tikName": "Кольчугинская"
+    "tikName": "Кольчугинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 138,
     "uikTvd": "4334012225893",
+    "uikName": "УИК №138",
     "tikTvd": "2332000884265",
-    "tikName": "Кольчугинская"
+    "tikName": "Кольчугинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 139,
     "uikTvd": "4334012225894",
+    "uikName": "УИК №139",
     "tikTvd": "2332000884265",
-    "tikName": "Кольчугинская"
+    "tikName": "Кольчугинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 140,
     "uikTvd": "4334012225895",
+    "uikName": "УИК №140",
     "tikTvd": "2332000884265",
-    "tikName": "Кольчугинская"
+    "tikName": "Кольчугинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 141,
     "uikTvd": "4334012225896",
+    "uikName": "УИК №141",
     "tikTvd": "2332000884265",
-    "tikName": "Кольчугинская"
+    "tikName": "Кольчугинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 142,
     "uikTvd": "4334012225897",
+    "uikName": "УИК №142",
     "tikTvd": "2332000884265",
-    "tikName": "Кольчугинская"
+    "tikName": "Кольчугинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 143,
     "uikTvd": "4334012225898",
+    "uikName": "УИК №143",
     "tikTvd": "2332000884265",
-    "tikName": "Кольчугинская"
+    "tikName": "Кольчугинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 144,
     "uikTvd": "4334012225899",
+    "uikName": "УИК №144",
     "tikTvd": "2332000884265",
-    "tikName": "Кольчугинская"
+    "tikName": "Кольчугинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 145,
     "uikTvd": "4334012225900",
+    "uikName": "УИК №145",
     "tikTvd": "2332000884265",
-    "tikName": "Кольчугинская"
+    "tikName": "Кольчугинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 146,
     "uikTvd": "4334012225901",
+    "uikName": "УИК №146",
     "tikTvd": "2332000884265",
-    "tikName": "Кольчугинская"
+    "tikName": "Кольчугинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 150,
     "uikTvd": "4334015389077",
+    "uikName": "УИК №150",
     "tikTvd": "2332000884271",
-    "tikName": "Петушинская"
+    "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 151,
     "uikTvd": "4334015389078",
+    "uikName": "УИК №151",
     "tikTvd": "2332000884271",
-    "tikName": "Петушинская"
+    "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 152,
     "uikTvd": "4334015389079",
+    "uikName": "УИК №152",
     "tikTvd": "2332000884271",
-    "tikName": "Петушинская"
+    "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 153,
     "uikTvd": "4334015389080",
+    "uikName": "УИК №153",
     "tikTvd": "2332000884271",
-    "tikName": "Петушинская"
+    "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 154,
     "uikTvd": "4334015389081",
+    "uikName": "УИК №154",
     "tikTvd": "2332000884271",
-    "tikName": "Петушинская"
+    "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 155,
     "uikTvd": "4334015389082",
+    "uikName": "УИК №155",
     "tikTvd": "2332000884271",
-    "tikName": "Петушинская"
+    "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 156,
     "uikTvd": "4334015389083",
+    "uikName": "УИК №156",
     "tikTvd": "2332000884271",
-    "tikName": "Петушинская"
+    "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 157,
     "uikTvd": "4334015389084",
+    "uikName": "УИК №157",
     "tikTvd": "2332000884271",
-    "tikName": "Петушинская"
+    "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 158,
     "uikTvd": "4334015389085",
+    "uikName": "УИК №158",
     "tikTvd": "2332000884271",
-    "tikName": "Петушинская"
+    "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 159,
     "uikTvd": "4334015389086",
+    "uikName": "УИК №159",
     "tikTvd": "2332000884271",
-    "tikName": "Петушинская"
+    "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 160,
     "uikTvd": "4334015389087",
+    "uikName": "УИК №160",
     "tikTvd": "2332000884271",
-    "tikName": "Петушинская"
+    "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 161,
     "uikTvd": "4334015389088",
+    "uikName": "УИК №161",
     "tikTvd": "2332000884271",
-    "tikName": "Петушинская"
+    "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 162,
     "uikTvd": "4334015389089",
+    "uikName": "УИК №162",
     "tikTvd": "2332000884271",
-    "tikName": "Петушинская"
+    "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 163,
     "uikTvd": "4334015389090",
+    "uikName": "УИК №163",
     "tikTvd": "2332000884271",
-    "tikName": "Петушинская"
+    "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 164,
     "uikTvd": "4334015389091",
+    "uikName": "УИК №164",
     "tikTvd": "2332000884271",
-    "tikName": "Петушинская"
+    "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 165,
     "uikTvd": "4334015389092",
+    "uikName": "УИК №165",
     "tikTvd": "2332000884271",
-    "tikName": "Петушинская"
+    "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 166,
     "uikTvd": "4334015389093",
+    "uikName": "УИК №166",
     "tikTvd": "2332000884271",
-    "tikName": "Петушинская"
+    "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 167,
     "uikTvd": "4334015389094",
+    "uikName": "УИК №167",
     "tikTvd": "2332000884271",
-    "tikName": "Петушинская"
+    "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 168,
     "uikTvd": "4334015389095",
+    "uikName": "УИК №168",
     "tikTvd": "2332000884271",
-    "tikName": "Петушинская"
+    "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 169,
     "uikTvd": "4334015389096",
+    "uikName": "УИК №169",
     "tikTvd": "2332000884271",
-    "tikName": "Петушинская"
+    "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 170,
     "uikTvd": "4334015389097",
+    "uikName": "УИК №170",
     "tikTvd": "2332000884271",
-    "tikName": "Петушинская"
+    "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 171,
     "uikTvd": "4334015389098",
+    "uikName": "УИК №171",
     "tikTvd": "2332000884271",
-    "tikName": "Петушинская"
+    "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 172,
     "uikTvd": "4334015389099",
+    "uikName": "УИК №172",
     "tikTvd": "2332000884271",
-    "tikName": "Петушинская"
+    "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 173,
     "uikTvd": "4334015389100",
+    "uikName": "УИК №173",
     "tikTvd": "2332000884271",
-    "tikName": "Петушинская"
+    "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 175,
     "uikTvd": "4334015389101",
+    "uikName": "УИК №175",
     "tikTvd": "2332000884271",
-    "tikName": "Петушинская"
+    "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 176,
     "uikTvd": "4334015389102",
+    "uikName": "УИК №176",
     "tikTvd": "2332000884271",
-    "tikName": "Петушинская"
+    "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 177,
     "uikTvd": "4334015389103",
+    "uikName": "УИК №177",
     "tikTvd": "2332000884271",
-    "tikName": "Петушинская"
+    "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 178,
     "uikTvd": "4334015389104",
+    "uikName": "УИК №178",
     "tikTvd": "2332000884271",
-    "tikName": "Петушинская"
+    "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 179,
     "uikTvd": "4334015389105",
+    "uikName": "УИК №179",
     "tikTvd": "2332000884271",
-    "tikName": "Петушинская"
+    "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 180,
     "uikTvd": "4334015389106",
+    "uikName": "УИК №180",
     "tikTvd": "2332000884271",
-    "tikName": "Петушинская"
+    "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 181,
     "uikTvd": "4334015389107",
+    "uikName": "УИК №181",
     "tikTvd": "2332000884271",
-    "tikName": "Петушинская"
+    "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 183,
     "uikTvd": "4334015389108",
+    "uikName": "УИК №183",
     "tikTvd": "2332000884271",
-    "tikName": "Петушинская"
+    "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 184,
     "uikTvd": "4334015389109",
+    "uikName": "УИК №184",
     "tikTvd": "2332000884271",
-    "tikName": "Петушинская"
+    "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 185,
     "uikTvd": "4334015389110",
+    "uikName": "УИК №185",
     "tikTvd": "2332000884271",
-    "tikName": "Петушинская"
+    "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 186,
     "uikTvd": "4334015389111",
+    "uikName": "УИК №186",
     "tikTvd": "2332000884271",
-    "tikName": "Петушинская"
+    "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 187,
     "uikTvd": "4334015389112",
+    "uikName": "УИК №187",
     "tikTvd": "2332000884271",
-    "tikName": "Петушинская"
+    "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 188,
     "uikTvd": "4334015389113",
+    "uikName": "УИК №188",
     "tikTvd": "2332000884271",
-    "tikName": "Петушинская"
+    "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 189,
     "uikTvd": "4334015389114",
+    "uikName": "УИК №189",
     "tikTvd": "2332000884271",
-    "tikName": "Петушинская"
+    "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 190,
     "uikTvd": "4334015389115",
+    "uikName": "УИК №190",
     "tikTvd": "2332000884271",
-    "tikName": "Петушинская"
+    "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 191,
     "uikTvd": "4334015389116",
+    "uikName": "УИК №191",
     "tikTvd": "2332000884271",
-    "tikName": "Петушинская"
+    "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 192,
     "uikTvd": "4334015389117",
+    "uikName": "УИК №192",
     "tikTvd": "2332000884271",
-    "tikName": "Петушинская"
+    "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 193,
     "uikTvd": "4334015389118",
+    "uikName": "УИК №193",
     "tikTvd": "2332000884271",
-    "tikName": "Петушинская"
+    "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 194,
     "uikTvd": "4334015389119",
+    "uikName": "УИК №194",
     "tikTvd": "2332000884271",
-    "tikName": "Петушинская"
+    "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 195,
     "uikTvd": "4334015389120",
+    "uikName": "УИК №195",
     "tikTvd": "2332000884271",
-    "tikName": "Петушинская"
+    "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 196,
     "uikTvd": "4334015389121",
+    "uikName": "УИК №196",
     "tikTvd": "2332000884271",
-    "tikName": "Петушинская"
+    "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 197,
     "uikTvd": "4334015389122",
+    "uikName": "УИК №197",
     "tikTvd": "2332000884271",
-    "tikName": "Петушинская"
+    "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 198,
     "uikTvd": "4334015389123",
+    "uikName": "УИК №198",
     "tikTvd": "2332000884271",
-    "tikName": "Петушинская"
+    "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 199,
     "uikTvd": "4334015389124",
+    "uikName": "УИК №199",
     "tikTvd": "2332000884271",
-    "tikName": "Петушинская"
+    "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 200,
     "uikTvd": "4334015389125",
+    "uikName": "УИК №200",
     "tikTvd": "2332000884271",
-    "tikName": "Петушинская"
+    "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 201,
     "uikTvd": "4334015389126",
+    "uikName": "УИК №201",
     "tikTvd": "2332000884271",
-    "tikName": "Петушинская"
+    "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 202,
     "uikTvd": "4334015389127",
+    "uikName": "УИК №202",
     "tikTvd": "2332000884271",
-    "tikName": "Петушинская"
+    "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 204,
     "uikTvd": "4334015389128",
+    "uikName": "УИК №204",
     "tikTvd": "2332000884271",
-    "tikName": "Петушинская"
+    "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 205,
     "uikTvd": "4334015389129",
+    "uikName": "УИК №205",
     "tikTvd": "2332000884271",
-    "tikName": "Петушинская"
+    "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 206,
     "uikTvd": "4334015389130",
+    "uikName": "УИК №206",
     "tikTvd": "2332000884271",
-    "tikName": "Петушинская"
+    "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 207,
     "uikTvd": "4334015389131",
+    "uikName": "УИК №207",
     "tikTvd": "2332000884271",
-    "tikName": "Петушинская"
+    "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 208,
     "uikTvd": "4334015389132",
+    "uikName": "УИК №208",
     "tikTvd": "2332000884271",
-    "tikName": "Петушинская"
+    "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 211,
     "uikTvd": "4334028454860",
+    "uikName": "УИК №211",
     "tikTvd": "2332000884281",
-    "tikName": "Собинская"
+    "tikName": "Собинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 212,
     "uikTvd": "4334028454861",
+    "uikName": "УИК №212",
     "tikTvd": "2332000884281",
-    "tikName": "Собинская"
+    "tikName": "Собинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 213,
     "uikTvd": "4334028454862",
+    "uikName": "УИК №213",
     "tikTvd": "2332000884281",
-    "tikName": "Собинская"
+    "tikName": "Собинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 214,
     "uikTvd": "4334028454863",
+    "uikName": "УИК №214",
     "tikTvd": "2332000884281",
-    "tikName": "Собинская"
+    "tikName": "Собинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 215,
     "uikTvd": "4334028454864",
+    "uikName": "УИК №215",
     "tikTvd": "2332000884281",
-    "tikName": "Собинская"
+    "tikName": "Собинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 216,
     "uikTvd": "4334028454865",
+    "uikName": "УИК №216",
     "tikTvd": "2332000884281",
-    "tikName": "Собинская"
+    "tikName": "Собинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 217,
     "uikTvd": "4334028454866",
+    "uikName": "УИК №217",
     "tikTvd": "2332000884281",
-    "tikName": "Собинская"
+    "tikName": "Собинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 218,
     "uikTvd": "4334028454867",
+    "uikName": "УИК №218",
     "tikTvd": "2332000884281",
-    "tikName": "Собинская"
+    "tikName": "Собинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 219,
     "uikTvd": "4334028454868",
+    "uikName": "УИК №219",
     "tikTvd": "2332000884281",
-    "tikName": "Собинская"
+    "tikName": "Собинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 220,
     "uikTvd": "4334028454869",
+    "uikName": "УИК №220",
     "tikTvd": "2332000884281",
-    "tikName": "Собинская"
+    "tikName": "Собинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 221,
     "uikTvd": "4334028454870",
+    "uikName": "УИК №221",
     "tikTvd": "2332000884281",
-    "tikName": "Собинская"
+    "tikName": "Собинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 222,
     "uikTvd": "4334028454871",
+    "uikName": "УИК №222",
     "tikTvd": "2332000884281",
-    "tikName": "Собинская"
+    "tikName": "Собинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 223,
     "uikTvd": "4334028454872",
+    "uikName": "УИК №223",
     "tikTvd": "2332000884281",
-    "tikName": "Собинская"
+    "tikName": "Собинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 224,
     "uikTvd": "4334028454873",
+    "uikName": "УИК №224",
     "tikTvd": "2332000884281",
-    "tikName": "Собинская"
+    "tikName": "Собинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 225,
     "uikTvd": "4334028454874",
+    "uikName": "УИК №225",
     "tikTvd": "2332000884281",
-    "tikName": "Собинская"
+    "tikName": "Собинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 226,
     "uikTvd": "4334028454875",
+    "uikName": "УИК №226",
     "tikTvd": "2332000884281",
-    "tikName": "Собинская"
+    "tikName": "Собинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 227,
     "uikTvd": "4334028454876",
+    "uikName": "УИК №227",
     "tikTvd": "2332000884281",
-    "tikName": "Собинская"
+    "tikName": "Собинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 228,
     "uikTvd": "4334028454877",
+    "uikName": "УИК №228",
     "tikTvd": "2332000884281",
-    "tikName": "Собинская"
+    "tikName": "Собинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 229,
     "uikTvd": "4334028454878",
+    "uikName": "УИК №229",
     "tikTvd": "2332000884281",
-    "tikName": "Собинская"
+    "tikName": "Собинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 230,
     "uikTvd": "4334028454879",
+    "uikName": "УИК №230",
     "tikTvd": "2332000884281",
-    "tikName": "Собинская"
+    "tikName": "Собинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 231,
     "uikTvd": "4334028454880",
+    "uikName": "УИК №231",
     "tikTvd": "2332000884281",
-    "tikName": "Собинская"
+    "tikName": "Собинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 232,
     "uikTvd": "4334028454881",
+    "uikName": "УИК №232",
     "tikTvd": "2332000884281",
-    "tikName": "Собинская"
+    "tikName": "Собинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 233,
     "uikTvd": "4334028454882",
+    "uikName": "УИК №233",
     "tikTvd": "2332000884281",
-    "tikName": "Собинская"
+    "tikName": "Собинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 234,
     "uikTvd": "4334028454883",
+    "uikName": "УИК №234",
     "tikTvd": "2332000884281",
-    "tikName": "Собинская"
+    "tikName": "Собинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 235,
     "uikTvd": "4334028454884",
+    "uikName": "УИК №235",
     "tikTvd": "2332000884281",
-    "tikName": "Собинская"
+    "tikName": "Собинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 236,
     "uikTvd": "4334028454885",
+    "uikName": "УИК №236",
     "tikTvd": "2332000884281",
-    "tikName": "Собинская"
+    "tikName": "Собинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 237,
     "uikTvd": "4334028454886",
+    "uikName": "УИК №237",
     "tikTvd": "2332000884281",
-    "tikName": "Собинская"
+    "tikName": "Собинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 238,
     "uikTvd": "4334028454887",
+    "uikName": "УИК №238",
     "tikTvd": "2332000884281",
-    "tikName": "Собинская"
+    "tikName": "Собинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 239,
     "uikTvd": "4334028454888",
+    "uikName": "УИК №239",
     "tikTvd": "2332000884281",
-    "tikName": "Собинская"
+    "tikName": "Собинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 240,
     "uikTvd": "4334028454889",
+    "uikName": "УИК №240",
     "tikTvd": "2332000884281",
-    "tikName": "Собинская"
+    "tikName": "Собинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 241,
     "uikTvd": "4334028454890",
+    "uikName": "УИК №241",
     "tikTvd": "2332000884281",
-    "tikName": "Собинская"
+    "tikName": "Собинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 242,
     "uikTvd": "4334028454891",
+    "uikName": "УИК №242",
     "tikTvd": "2332000884281",
-    "tikName": "Собинская"
+    "tikName": "Собинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 243,
     "uikTvd": "4334028454892",
+    "uikName": "УИК №243",
     "tikTvd": "2332000884281",
-    "tikName": "Собинская"
+    "tikName": "Собинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 244,
     "uikTvd": "4334028454893",
+    "uikName": "УИК №244",
     "tikTvd": "2332000884281",
-    "tikName": "Собинская"
+    "tikName": "Собинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 245,
     "uikTvd": "4334028454894",
+    "uikName": "УИК №245",
     "tikTvd": "2332000884281",
-    "tikName": "Собинская"
+    "tikName": "Собинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 246,
     "uikTvd": "4334028454895",
+    "uikName": "УИК №246",
     "tikTvd": "2332000884281",
-    "tikName": "Собинская"
+    "tikName": "Собинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 247,
     "uikTvd": "4334028454896",
+    "uikName": "УИК №247",
     "tikTvd": "2332000884281",
-    "tikName": "Собинская"
+    "tikName": "Собинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 248,
     "uikTvd": "4334028454897",
+    "uikName": "УИК №248",
     "tikTvd": "2332000884281",
-    "tikName": "Собинская"
+    "tikName": "Собинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 249,
     "uikTvd": "4334028454898",
+    "uikName": "УИК №249",
     "tikTvd": "2332000884281",
-    "tikName": "Собинская"
+    "tikName": "Собинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 250,
     "uikTvd": "4334028454899",
+    "uikName": "УИК №250",
     "tikTvd": "2332000884281",
-    "tikName": "Собинская"
+    "tikName": "Собинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 251,
     "uikTvd": "4334028454900",
+    "uikName": "УИК №251",
     "tikTvd": "2332000884281",
-    "tikName": "Собинская"
+    "tikName": "Собинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 255,
     "uikTvd": "4334021232277",
+    "uikName": "УИК №255",
     "tikTvd": "2332000884278",
-    "tikName": "Юрьев-Польская"
+    "tikName": "Юрьев-Польская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 256,
     "uikTvd": "4334021232278",
+    "uikName": "УИК №256",
     "tikTvd": "2332000884278",
-    "tikName": "Юрьев-Польская"
+    "tikName": "Юрьев-Польская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 257,
     "uikTvd": "4334021232279",
+    "uikName": "УИК №257",
     "tikTvd": "2332000884278",
-    "tikName": "Юрьев-Польская"
+    "tikName": "Юрьев-Польская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 258,
     "uikTvd": "4334021232280",
+    "uikName": "УИК №258",
     "tikTvd": "2332000884278",
-    "tikName": "Юрьев-Польская"
+    "tikName": "Юрьев-Польская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 259,
     "uikTvd": "4334021232281",
+    "uikName": "УИК №259",
     "tikTvd": "2332000884278",
-    "tikName": "Юрьев-Польская"
+    "tikName": "Юрьев-Польская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 260,
     "uikTvd": "4334021232282",
+    "uikName": "УИК №260",
     "tikTvd": "2332000884278",
-    "tikName": "Юрьев-Польская"
+    "tikName": "Юрьев-Польская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 261,
     "uikTvd": "4334021232283",
+    "uikName": "УИК №261",
     "tikTvd": "2332000884278",
-    "tikName": "Юрьев-Польская"
+    "tikName": "Юрьев-Польская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 262,
     "uikTvd": "4334021232284",
+    "uikName": "УИК №262",
     "tikTvd": "2332000884278",
-    "tikName": "Юрьев-Польская"
+    "tikName": "Юрьев-Польская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 263,
     "uikTvd": "4334021232285",
+    "uikName": "УИК №263",
     "tikTvd": "2332000884278",
-    "tikName": "Юрьев-Польская"
+    "tikName": "Юрьев-Польская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 264,
     "uikTvd": "4334021232286",
+    "uikName": "УИК №264",
     "tikTvd": "2332000884278",
-    "tikName": "Юрьев-Польская"
+    "tikName": "Юрьев-Польская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 265,
     "uikTvd": "4334021232287",
+    "uikName": "УИК №265",
     "tikTvd": "2332000884278",
-    "tikName": "Юрьев-Польская"
+    "tikName": "Юрьев-Польская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 266,
     "uikTvd": "4334021232288",
+    "uikName": "УИК №266",
     "tikTvd": "2332000884278",
-    "tikName": "Юрьев-Польская"
+    "tikName": "Юрьев-Польская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 267,
     "uikTvd": "4334021232289",
+    "uikName": "УИК №267",
     "tikTvd": "2332000884278",
-    "tikName": "Юрьев-Польская"
+    "tikName": "Юрьев-Польская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 268,
     "uikTvd": "4334021232290",
+    "uikName": "УИК №268",
     "tikTvd": "2332000884278",
-    "tikName": "Юрьев-Польская"
+    "tikName": "Юрьев-Польская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 269,
     "uikTvd": "4334021232291",
+    "uikName": "УИК №269",
     "tikTvd": "2332000884278",
-    "tikName": "Юрьев-Польская"
+    "tikName": "Юрьев-Польская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 270,
     "uikTvd": "4334021232292",
+    "uikName": "УИК №270",
     "tikTvd": "2332000884278",
-    "tikName": "Юрьев-Польская"
+    "tikName": "Юрьев-Польская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 271,
     "uikTvd": "4334021232293",
+    "uikName": "УИК №271",
     "tikTvd": "2332000884278",
-    "tikName": "Юрьев-Польская"
+    "tikName": "Юрьев-Польская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 272,
     "uikTvd": "4334021232294",
+    "uikName": "УИК №272",
     "tikTvd": "2332000884278",
-    "tikName": "Юрьев-Польская"
+    "tikName": "Юрьев-Польская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 273,
     "uikTvd": "4334021232295",
+    "uikName": "УИК №273",
     "tikTvd": "2332000884278",
-    "tikName": "Юрьев-Польская"
+    "tikName": "Юрьев-Польская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 274,
     "uikTvd": "4334021232296",
+    "uikName": "УИК №274",
     "tikTvd": "2332000884278",
-    "tikName": "Юрьев-Польская"
+    "tikName": "Юрьев-Польская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 275,
     "uikTvd": "4334021232297",
+    "uikName": "УИК №275",
     "tikTvd": "2332000884278",
-    "tikName": "Юрьев-Польская"
+    "tikName": "Юрьев-Польская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 276,
     "uikTvd": "4334021232298",
+    "uikName": "УИК №276",
     "tikTvd": "2332000884278",
-    "tikName": "Юрьев-Польская"
+    "tikName": "Юрьев-Польская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 277,
     "uikTvd": "4334021232299",
+    "uikName": "УИК №277",
     "tikTvd": "2332000884278",
-    "tikName": "Юрьев-Польская"
+    "tikName": "Юрьев-Польская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 278,
     "uikTvd": "4334021232300",
+    "uikName": "УИК №278",
     "tikTvd": "2332000884278",
-    "tikName": "Юрьев-Польская"
+    "tikName": "Юрьев-Польская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 279,
     "uikTvd": "4334021232301",
+    "uikName": "УИК №279",
     "tikTvd": "2332000884278",
-    "tikName": "Юрьев-Польская"
+    "tikName": "Юрьев-Польская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 280,
     "uikTvd": "4334021232302",
+    "uikName": "УИК №280",
     "tikTvd": "2332000884278",
-    "tikName": "Юрьев-Польская"
+    "tikName": "Юрьев-Польская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 281,
     "uikTvd": "4334021232303",
+    "uikName": "УИК №281",
     "tikTvd": "2332000884278",
-    "tikName": "Юрьев-Польская"
+    "tikName": "Юрьев-Польская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 282,
     "uikTvd": "4334021232304",
+    "uikName": "УИК №282",
     "tikTvd": "2332000884278",
-    "tikName": "Юрьев-Польская"
+    "tikName": "Юрьев-Польская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 283,
     "uikTvd": "4334021232305",
+    "uikName": "УИК №283",
     "tikTvd": "2332000884278",
-    "tikName": "Юрьев-Польская"
+    "tikName": "Юрьев-Польская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 284,
     "uikTvd": "4334021232306",
+    "uikName": "УИК №284",
     "tikTvd": "2332000884278",
-    "tikName": "Юрьев-Польская"
+    "tikName": "Юрьев-Польская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 285,
     "uikTvd": "4334021232307",
+    "uikName": "УИК №285",
     "tikTvd": "2332000884278",
-    "tikName": "Юрьев-Польская"
+    "tikName": "Юрьев-Польская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 286,
     "uikTvd": "4334021232308",
+    "uikName": "УИК №286",
     "tikTvd": "2332000884278",
-    "tikName": "Юрьев-Польская"
+    "tikName": "Юрьев-Польская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 287,
     "uikTvd": "4334021232309",
+    "uikName": "УИК №287",
     "tikTvd": "2332000884278",
-    "tikName": "Юрьев-Польская"
+    "tikName": "Юрьев-Польская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 288,
     "uikTvd": "4334021232310",
+    "uikName": "УИК №288",
     "tikTvd": "2332000884278",
-    "tikName": "Юрьев-Польская"
+    "tikName": "Юрьев-Польская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 289,
     "uikTvd": "4334021232311",
+    "uikName": "УИК №289",
     "tikTvd": "2332000884278",
-    "tikName": "Юрьев-Польская"
+    "tikName": "Юрьев-Польская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 290,
     "uikTvd": "4334021232312",
+    "uikName": "УИК №290",
     "tikTvd": "2332000884278",
-    "tikName": "Юрьев-Польская"
+    "tikName": "Юрьев-Польская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 291,
     "uikTvd": "4334021232313",
+    "uikName": "УИК №291",
     "tikTvd": "2332000884278",
-    "tikName": "Юрьев-Польская"
+    "tikName": "Юрьев-Польская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 292,
     "uikTvd": "4334021232314",
+    "uikName": "УИК №292",
     "tikTvd": "2332000884278",
-    "tikName": "Юрьев-Польская"
+    "tikName": "Юрьев-Польская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 293,
     "uikTvd": "4334021232315",
+    "uikName": "УИК №293",
     "tikTvd": "2332000884278",
-    "tikName": "Юрьев-Польская"
+    "tikName": "Юрьев-Польская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 294,
     "uikTvd": "4334021232316",
+    "uikName": "УИК №294",
     "tikTvd": "2332000884278",
-    "tikName": "Юрьев-Польская"
+    "tikName": "Юрьев-Польская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 299,
     "uikTvd": "4334020269484",
+    "uikName": "УИК №299",
     "tikTvd": "2332000884279",
-    "tikName": "Суздальская"
+    "tikName": "Суздальская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 300,
     "uikTvd": "4334020269485",
+    "uikName": "УИК №300",
     "tikTvd": "2332000884279",
-    "tikName": "Суздальская"
+    "tikName": "Суздальская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 301,
     "uikTvd": "4334020269486",
+    "uikName": "УИК №301",
     "tikTvd": "2332000884279",
-    "tikName": "Суздальская"
+    "tikName": "Суздальская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 302,
     "uikTvd": "4334020269487",
+    "uikName": "УИК №302",
     "tikTvd": "2332000884279",
-    "tikName": "Суздальская"
+    "tikName": "Суздальская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 303,
     "uikTvd": "4334020269488",
+    "uikName": "УИК №303",
     "tikTvd": "2332000884279",
-    "tikName": "Суздальская"
+    "tikName": "Суздальская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 304,
     "uikTvd": "4334020269489",
+    "uikName": "УИК №304",
     "tikTvd": "2332000884279",
-    "tikName": "Суздальская"
+    "tikName": "Суздальская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 305,
     "uikTvd": "4334020269490",
+    "uikName": "УИК №305",
     "tikTvd": "2332000884279",
-    "tikName": "Суздальская"
+    "tikName": "Суздальская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 306,
     "uikTvd": "4334020269491",
+    "uikName": "УИК №306",
     "tikTvd": "2332000884279",
-    "tikName": "Суздальская"
+    "tikName": "Суздальская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 307,
     "uikTvd": "4334020269492",
+    "uikName": "УИК №307",
     "tikTvd": "2332000884279",
-    "tikName": "Суздальская"
+    "tikName": "Суздальская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 308,
     "uikTvd": "4334020269493",
+    "uikName": "УИК №308",
     "tikTvd": "2332000884279",
-    "tikName": "Суздальская"
+    "tikName": "Суздальская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 309,
     "uikTvd": "4334020269494",
+    "uikName": "УИК №309",
     "tikTvd": "2332000884279",
-    "tikName": "Суздальская"
+    "tikName": "Суздальская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 310,
     "uikTvd": "4334020269495",
+    "uikName": "УИК №310",
     "tikTvd": "2332000884279",
-    "tikName": "Суздальская"
+    "tikName": "Суздальская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 311,
     "uikTvd": "4334020269496",
+    "uikName": "УИК №311",
     "tikTvd": "2332000884279",
-    "tikName": "Суздальская"
+    "tikName": "Суздальская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 312,
     "uikTvd": "4334020269497",
+    "uikName": "УИК №312",
     "tikTvd": "2332000884279",
-    "tikName": "Суздальская"
+    "tikName": "Суздальская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 313,
     "uikTvd": "4334020269498",
+    "uikName": "УИК №313",
     "tikTvd": "2332000884279",
-    "tikName": "Суздальская"
+    "tikName": "Суздальская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 314,
     "uikTvd": "4334020269499",
+    "uikName": "УИК №314",
     "tikTvd": "2332000884279",
-    "tikName": "Суздальская"
+    "tikName": "Суздальская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 315,
     "uikTvd": "4334020269500",
+    "uikName": "УИК №315",
     "tikTvd": "2332000884279",
-    "tikName": "Суздальская"
+    "tikName": "Суздальская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 316,
     "uikTvd": "4334020269501",
+    "uikName": "УИК №316",
     "tikTvd": "2332000884279",
-    "tikName": "Суздальская"
+    "tikName": "Суздальская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 317,
     "uikTvd": "4334020269502",
+    "uikName": "УИК №317",
     "tikTvd": "2332000884279",
-    "tikName": "Суздальская"
+    "tikName": "Суздальская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 318,
     "uikTvd": "4334020269503",
+    "uikName": "УИК №318",
     "tikTvd": "2332000884279",
-    "tikName": "Суздальская"
+    "tikName": "Суздальская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 319,
     "uikTvd": "4334020269504",
+    "uikName": "УИК №319",
     "tikTvd": "2332000884279",
-    "tikName": "Суздальская"
+    "tikName": "Суздальская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 320,
     "uikTvd": "4334020269505",
+    "uikName": "УИК №320",
     "tikTvd": "2332000884279",
-    "tikName": "Суздальская"
+    "tikName": "Суздальская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 321,
     "uikTvd": "4334020269506",
+    "uikName": "УИК №321",
     "tikTvd": "2332000884279",
-    "tikName": "Суздальская"
+    "tikName": "Суздальская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 322,
     "uikTvd": "4334020269507",
+    "uikName": "УИК №322",
     "tikTvd": "2332000884279",
-    "tikName": "Суздальская"
+    "tikName": "Суздальская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 323,
     "uikTvd": "4334020269508",
+    "uikName": "УИК №323",
     "tikTvd": "2332000884279",
-    "tikName": "Суздальская"
+    "tikName": "Суздальская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 324,
     "uikTvd": "4334020269509",
+    "uikName": "УИК №324",
     "tikTvd": "2332000884279",
-    "tikName": "Суздальская"
+    "tikName": "Суздальская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 325,
     "uikTvd": "4334020269510",
+    "uikName": "УИК №325",
     "tikTvd": "2332000884279",
-    "tikName": "Суздальская"
+    "tikName": "Суздальская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 326,
     "uikTvd": "4334020269511",
+    "uikName": "УИК №326",
     "tikTvd": "2332000884279",
-    "tikName": "Суздальская"
+    "tikName": "Суздальская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 327,
     "uikTvd": "4334020269512",
+    "uikName": "УИК №327",
     "tikTvd": "2332000884279",
-    "tikName": "Суздальская"
+    "tikName": "Суздальская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 328,
     "uikTvd": "4334020269513",
+    "uikName": "УИК №328",
     "tikTvd": "2332000884279",
-    "tikName": "Суздальская"
+    "tikName": "Суздальская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 329,
     "uikTvd": "4334020269514",
+    "uikName": "УИК №329",
     "tikTvd": "2332000884279",
-    "tikName": "Суздальская"
+    "tikName": "Суздальская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 330,
     "uikTvd": "4334020269515",
+    "uikName": "УИК №330",
     "tikTvd": "2332000884279",
-    "tikName": "Суздальская"
+    "tikName": "Суздальская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 331,
     "uikTvd": "4334020269516",
+    "uikName": "УИК №331",
     "tikTvd": "2332000884279",
-    "tikName": "Суздальская"
+    "tikName": "Суздальская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 332,
     "uikTvd": "4334020269517",
+    "uikName": "УИК №332",
     "tikTvd": "2332000884279",
-    "tikName": "Суздальская"
+    "tikName": "Суздальская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 333,
     "uikTvd": "4334020269518",
+    "uikName": "УИК №333",
     "tikTvd": "2332000884279",
-    "tikName": "Суздальская"
+    "tikName": "Суздальская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 334,
     "uikTvd": "4334020269519",
+    "uikName": "УИК №334",
     "tikTvd": "2332000884279",
-    "tikName": "Суздальская"
+    "tikName": "Суздальская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 335,
     "uikTvd": "4334020269520",
+    "uikName": "УИК №335",
     "tikTvd": "2332000884279",
-    "tikName": "Суздальская"
+    "tikName": "Суздальская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 336,
     "uikTvd": "4334020269521",
+    "uikName": "УИК №336",
     "tikTvd": "2332000884279",
-    "tikName": "Суздальская"
+    "tikName": "Суздальская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 337,
     "uikTvd": "4334020269522",
+    "uikName": "УИК №337",
     "tikTvd": "2332000884279",
-    "tikName": "Суздальская"
+    "tikName": "Суздальская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 338,
     "uikTvd": "4334020269523",
+    "uikName": "УИК №338",
     "tikTvd": "2332000884279",
-    "tikName": "Суздальская"
+    "tikName": "Суздальская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 339,
     "uikTvd": "4334020269524",
+    "uikName": "УИК №339",
     "tikTvd": "2332000884279",
-    "tikName": "Суздальская"
+    "tikName": "Суздальская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 340,
     "uikTvd": "4334020269525",
+    "uikName": "УИК №340",
     "tikTvd": "2332000884279",
-    "tikName": "Суздальская"
+    "tikName": "Суздальская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 341,
     "uikTvd": "4334020269526",
+    "uikName": "УИК №341",
     "tikTvd": "2332000884279",
-    "tikName": "Суздальская"
+    "tikName": "Суздальская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 342,
     "uikTvd": "4334020269527",
+    "uikName": "УИК №342",
     "tikTvd": "2332000884279",
-    "tikName": "Суздальская"
+    "tikName": "Суздальская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 345,
     "uikTvd": "4334002197043",
+    "uikName": "УИК №345",
     "tikTvd": "2332000884280",
-    "tikName": "Владимир, Ленинская"
+    "tikName": "Владимир, Ленинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 346,
     "uikTvd": "4334002197044",
+    "uikName": "УИК №346",
     "tikTvd": "2332000884280",
-    "tikName": "Владимир, Ленинская"
+    "tikName": "Владимир, Ленинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 347,
     "uikTvd": "4334002197045",
+    "uikName": "УИК №347",
     "tikTvd": "2332000884280",
-    "tikName": "Владимир, Ленинская"
+    "tikName": "Владимир, Ленинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 348,
     "uikTvd": "4334002197046",
+    "uikName": "УИК №348",
     "tikTvd": "2332000884280",
-    "tikName": "Владимир, Ленинская"
+    "tikName": "Владимир, Ленинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 349,
     "uikTvd": "4334002197047",
+    "uikName": "УИК №349",
     "tikTvd": "2332000884280",
-    "tikName": "Владимир, Ленинская"
+    "tikName": "Владимир, Ленинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 350,
     "uikTvd": "4334002197048",
+    "uikName": "УИК №350",
     "tikTvd": "2332000884280",
-    "tikName": "Владимир, Ленинская"
+    "tikName": "Владимир, Ленинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 351,
     "uikTvd": "4334002197049",
+    "uikName": "УИК №351",
     "tikTvd": "2332000884280",
-    "tikName": "Владимир, Ленинская"
+    "tikName": "Владимир, Ленинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 352,
     "uikTvd": "4334002197050",
+    "uikName": "УИК №352",
     "tikTvd": "2332000884280",
-    "tikName": "Владимир, Ленинская"
+    "tikName": "Владимир, Ленинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 353,
     "uikTvd": "4334002197051",
+    "uikName": "УИК №353",
     "tikTvd": "2332000884280",
-    "tikName": "Владимир, Ленинская"
+    "tikName": "Владимир, Ленинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 354,
     "uikTvd": "4334002197052",
+    "uikName": "УИК №354",
     "tikTvd": "2332000884280",
-    "tikName": "Владимир, Ленинская"
+    "tikName": "Владимир, Ленинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 355,
     "uikTvd": "4334002197053",
+    "uikName": "УИК №355",
     "tikTvd": "2332000884280",
-    "tikName": "Владимир, Ленинская"
+    "tikName": "Владимир, Ленинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 356,
     "uikTvd": "4334002197054",
+    "uikName": "УИК №356",
     "tikTvd": "2332000884280",
-    "tikName": "Владимир, Ленинская"
+    "tikName": "Владимир, Ленинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 357,
     "uikTvd": "4334002197055",
+    "uikName": "УИК №357",
     "tikTvd": "2332000884280",
-    "tikName": "Владимир, Ленинская"
+    "tikName": "Владимир, Ленинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 358,
     "uikTvd": "4334002197056",
+    "uikName": "УИК №358",
     "tikTvd": "2332000884280",
-    "tikName": "Владимир, Ленинская"
+    "tikName": "Владимир, Ленинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 359,
     "uikTvd": "4334002197057",
+    "uikName": "УИК №359",
     "tikTvd": "2332000884280",
-    "tikName": "Владимир, Ленинская"
+    "tikName": "Владимир, Ленинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 360,
     "uikTvd": "4334002197058",
+    "uikName": "УИК №360",
     "tikTvd": "2332000884280",
-    "tikName": "Владимир, Ленинская"
+    "tikName": "Владимир, Ленинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 361,
     "uikTvd": "4334002197059",
+    "uikName": "УИК №361",
     "tikTvd": "2332000884280",
-    "tikName": "Владимир, Ленинская"
+    "tikName": "Владимир, Ленинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 362,
     "uikTvd": "4334002197060",
+    "uikName": "УИК №362",
     "tikTvd": "2332000884280",
-    "tikName": "Владимир, Ленинская"
+    "tikName": "Владимир, Ленинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 363,
     "uikTvd": "4334002197061",
+    "uikName": "УИК №363",
     "tikTvd": "2332000884280",
-    "tikName": "Владимир, Ленинская"
+    "tikName": "Владимир, Ленинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 364,
     "uikTvd": "4334002197062",
+    "uikName": "УИК №364",
     "tikTvd": "2332000884280",
-    "tikName": "Владимир, Ленинская"
+    "tikName": "Владимир, Ленинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 365,
     "uikTvd": "4334002197063",
+    "uikName": "УИК №365",
     "tikTvd": "2332000884280",
-    "tikName": "Владимир, Ленинская"
+    "tikName": "Владимир, Ленинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 366,
     "uikTvd": "4334002197064",
+    "uikName": "УИК №366",
     "tikTvd": "2332000884280",
-    "tikName": "Владимир, Ленинская"
+    "tikName": "Владимир, Ленинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 367,
     "uikTvd": "4334002197065",
+    "uikName": "УИК №367",
     "tikTvd": "2332000884280",
-    "tikName": "Владимир, Ленинская"
+    "tikName": "Владимир, Ленинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 368,
     "uikTvd": "4334002197066",
+    "uikName": "УИК №368",
     "tikTvd": "2332000884280",
-    "tikName": "Владимир, Ленинская"
+    "tikName": "Владимир, Ленинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 369,
     "uikTvd": "4334002197067",
+    "uikName": "УИК №369",
     "tikTvd": "2332000884280",
-    "tikName": "Владимир, Ленинская"
+    "tikName": "Владимир, Ленинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 370,
     "uikTvd": "4334002197068",
+    "uikName": "УИК №370",
     "tikTvd": "2332000884280",
-    "tikName": "Владимир, Ленинская"
+    "tikName": "Владимир, Ленинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 371,
     "uikTvd": "4334002197069",
+    "uikName": "УИК №371",
     "tikTvd": "2332000884280",
-    "tikName": "Владимир, Ленинская"
+    "tikName": "Владимир, Ленинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 372,
     "uikTvd": "4334002197070",
+    "uikName": "УИК №372",
     "tikTvd": "2332000884280",
-    "tikName": "Владимир, Ленинская"
+    "tikName": "Владимир, Ленинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 373,
     "uikTvd": "4334002197071",
+    "uikName": "УИК №373",
     "tikTvd": "2332000884280",
-    "tikName": "Владимир, Ленинская"
+    "tikName": "Владимир, Ленинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 374,
     "uikTvd": "4334002197072",
+    "uikName": "УИК №374",
     "tikTvd": "2332000884280",
-    "tikName": "Владимир, Ленинская"
+    "tikName": "Владимир, Ленинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 375,
     "uikTvd": "4334002197073",
+    "uikName": "УИК №375",
     "tikTvd": "2332000884280",
-    "tikName": "Владимир, Ленинская"
+    "tikName": "Владимир, Ленинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 376,
     "uikTvd": "4334002197074",
+    "uikName": "УИК №376",
     "tikTvd": "2332000884280",
-    "tikName": "Владимир, Ленинская"
+    "tikName": "Владимир, Ленинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 377,
     "uikTvd": "4334002197075",
+    "uikName": "УИК №377",
     "tikTvd": "2332000884280",
-    "tikName": "Владимир, Ленинская"
+    "tikName": "Владимир, Ленинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 378,
     "uikTvd": "4334002197076",
+    "uikName": "УИК №378",
     "tikTvd": "2332000884280",
-    "tikName": "Владимир, Ленинская"
+    "tikName": "Владимир, Ленинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 379,
     "uikTvd": "4334002197077",
+    "uikName": "УИК №379",
     "tikTvd": "2332000884280",
-    "tikName": "Владимир, Ленинская"
+    "tikName": "Владимир, Ленинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 380,
     "uikTvd": "4334002197078",
+    "uikName": "УИК №380",
     "tikTvd": "2332000884280",
-    "tikName": "Владимир, Ленинская"
+    "tikName": "Владимир, Ленинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 381,
     "uikTvd": "4334002197079",
+    "uikName": "УИК №381",
     "tikTvd": "2332000884280",
-    "tikName": "Владимир, Ленинская"
+    "tikName": "Владимир, Ленинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 382,
     "uikTvd": "4334002197080",
+    "uikName": "УИК №382",
     "tikTvd": "2332000884280",
-    "tikName": "Владимир, Ленинская"
+    "tikName": "Владимир, Ленинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 383,
     "uikTvd": "4334002197081",
+    "uikName": "УИК №383",
     "tikTvd": "2332000884280",
-    "tikName": "Владимир, Ленинская"
+    "tikName": "Владимир, Ленинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 384,
     "uikTvd": "4334002197082",
+    "uikName": "УИК №384",
     "tikTvd": "2332000884280",
-    "tikName": "Владимир, Ленинская"
+    "tikName": "Владимир, Ленинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 385,
     "uikTvd": "4334002197083",
+    "uikName": "УИК №385",
     "tikTvd": "2332000884280",
-    "tikName": "Владимир, Ленинская"
+    "tikName": "Владимир, Ленинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 386,
     "uikTvd": "4334002197084",
+    "uikName": "УИК №386",
     "tikTvd": "2332000884280",
-    "tikName": "Владимир, Ленинская"
+    "tikName": "Владимир, Ленинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 387,
     "uikTvd": "4334002197085",
+    "uikName": "УИК №387",
     "tikTvd": "2332000884280",
-    "tikName": "Владимир, Ленинская"
+    "tikName": "Владимир, Ленинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 388,
     "uikTvd": "4334002197086",
+    "uikName": "УИК №388",
     "tikTvd": "2332000884280",
-    "tikName": "Владимир, Ленинская"
+    "tikName": "Владимир, Ленинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 389,
     "uikTvd": "4334002197087",
+    "uikName": "УИК №389",
     "tikTvd": "2332000884280",
-    "tikName": "Владимир, Ленинская"
+    "tikName": "Владимир, Ленинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 390,
     "uikTvd": "4334002197088",
+    "uikName": "УИК №390",
     "tikTvd": "2332000884280",
-    "tikName": "Владимир, Ленинская"
+    "tikName": "Владимир, Ленинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 391,
     "uikTvd": "4334002197089",
+    "uikName": "УИК №391",
     "tikTvd": "2332000884280",
-    "tikName": "Владимир, Ленинская"
+    "tikName": "Владимир, Ленинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 392,
     "uikTvd": "4334002197090",
+    "uikName": "УИК №392",
     "tikTvd": "2332000884280",
-    "tikName": "Владимир, Ленинская"
+    "tikName": "Владимир, Ленинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 393,
     "uikTvd": "4334002197091",
+    "uikName": "УИК №393",
     "tikTvd": "2332000884280",
-    "tikName": "Владимир, Ленинская"
+    "tikName": "Владимир, Ленинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 394,
     "uikTvd": "4334002197092",
+    "uikName": "УИК №394",
     "tikTvd": "2332000884280",
-    "tikName": "Владимир, Ленинская"
+    "tikName": "Владимир, Ленинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 395,
     "uikTvd": "4334002197093",
+    "uikName": "УИК №395",
     "tikTvd": "2332000884280",
-    "tikName": "Владимир, Ленинская"
+    "tikName": "Владимир, Ленинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 396,
     "uikTvd": "4334002197094",
+    "uikName": "УИК №396",
     "tikTvd": "2332000884280",
-    "tikName": "Владимир, Ленинская"
+    "tikName": "Владимир, Ленинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 397,
     "uikTvd": "4334002197095",
+    "uikName": "УИК №397",
     "tikTvd": "2332000884280",
-    "tikName": "Владимир, Ленинская"
+    "tikName": "Владимир, Ленинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 398,
     "uikTvd": "4334002197096",
+    "uikName": "УИК №398",
     "tikTvd": "2332000884280",
-    "tikName": "Владимир, Ленинская"
+    "tikName": "Владимир, Ленинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 399,
     "uikTvd": "4334002197097",
+    "uikName": "УИК №399",
     "tikTvd": "2332000884280",
-    "tikName": "Владимир, Ленинская"
+    "tikName": "Владимир, Ленинская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 402,
     "uikTvd": "4334003176535",
+    "uikName": "УИК №402",
     "tikTvd": "2332000884282",
-    "tikName": "Владимир, Октябрьская"
+    "tikName": "Владимир, Октябрьская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 403,
     "uikTvd": "4334003176536",
+    "uikName": "УИК №403",
     "tikTvd": "2332000884282",
-    "tikName": "Владимир, Октябрьская"
+    "tikName": "Владимир, Октябрьская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 404,
     "uikTvd": "4334003176537",
+    "uikName": "УИК №404",
     "tikTvd": "2332000884282",
-    "tikName": "Владимир, Октябрьская"
+    "tikName": "Владимир, Октябрьская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 405,
     "uikTvd": "4334003176538",
+    "uikName": "УИК №405",
     "tikTvd": "2332000884282",
-    "tikName": "Владимир, Октябрьская"
+    "tikName": "Владимир, Октябрьская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 406,
     "uikTvd": "4334003176539",
+    "uikName": "УИК №406",
     "tikTvd": "2332000884282",
-    "tikName": "Владимир, Октябрьская"
+    "tikName": "Владимир, Октябрьская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 407,
     "uikTvd": "4334003176540",
+    "uikName": "УИК №407",
     "tikTvd": "2332000884282",
-    "tikName": "Владимир, Октябрьская"
+    "tikName": "Владимир, Октябрьская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 408,
     "uikTvd": "4334003176541",
+    "uikName": "УИК №408",
     "tikTvd": "2332000884282",
-    "tikName": "Владимир, Октябрьская"
+    "tikName": "Владимир, Октябрьская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 409,
     "uikTvd": "4334003176542",
+    "uikName": "УИК №409",
     "tikTvd": "2332000884282",
-    "tikName": "Владимир, Октябрьская"
+    "tikName": "Владимир, Октябрьская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 410,
     "uikTvd": "4334003176543",
+    "uikName": "УИК №410",
     "tikTvd": "2332000884282",
-    "tikName": "Владимир, Октябрьская"
+    "tikName": "Владимир, Октябрьская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 411,
     "uikTvd": "4334003176544",
+    "uikName": "УИК №411",
     "tikTvd": "2332000884282",
-    "tikName": "Владимир, Октябрьская"
+    "tikName": "Владимир, Октябрьская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 412,
     "uikTvd": "4334003176545",
+    "uikName": "УИК №412",
     "tikTvd": "2332000884282",
-    "tikName": "Владимир, Октябрьская"
+    "tikName": "Владимир, Октябрьская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 413,
     "uikTvd": "4334003176546",
+    "uikName": "УИК №413",
     "tikTvd": "2332000884282",
-    "tikName": "Владимир, Октябрьская"
+    "tikName": "Владимир, Октябрьская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 414,
     "uikTvd": "4334003176547",
+    "uikName": "УИК №414",
     "tikTvd": "2332000884282",
-    "tikName": "Владимир, Октябрьская"
+    "tikName": "Владимир, Октябрьская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 415,
     "uikTvd": "4334003176548",
+    "uikName": "УИК №415",
     "tikTvd": "2332000884282",
-    "tikName": "Владимир, Октябрьская"
+    "tikName": "Владимир, Октябрьская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 416,
     "uikTvd": "4334003176549",
+    "uikName": "УИК №416",
     "tikTvd": "2332000884282",
-    "tikName": "Владимир, Октябрьская"
+    "tikName": "Владимир, Октябрьская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 417,
     "uikTvd": "4334003176550",
+    "uikName": "УИК №417",
     "tikTvd": "2332000884282",
-    "tikName": "Владимир, Октябрьская"
+    "tikName": "Владимир, Октябрьская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 418,
     "uikTvd": "4334003176551",
+    "uikName": "УИК №418",
     "tikTvd": "2332000884282",
-    "tikName": "Владимир, Октябрьская"
+    "tikName": "Владимир, Октябрьская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 419,
     "uikTvd": "4334003176552",
+    "uikName": "УИК №419",
     "tikTvd": "2332000884282",
-    "tikName": "Владимир, Октябрьская"
+    "tikName": "Владимир, Октябрьская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 420,
     "uikTvd": "4334003176553",
+    "uikName": "УИК №420",
     "tikTvd": "2332000884282",
-    "tikName": "Владимир, Октябрьская"
+    "tikName": "Владимир, Октябрьская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 421,
     "uikTvd": "4334003176554",
+    "uikName": "УИК №421",
     "tikTvd": "2332000884282",
-    "tikName": "Владимир, Октябрьская"
+    "tikName": "Владимир, Октябрьская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 422,
     "uikTvd": "4334003176555",
+    "uikName": "УИК №422",
     "tikTvd": "2332000884282",
-    "tikName": "Владимир, Октябрьская"
+    "tikName": "Владимир, Октябрьская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 423,
     "uikTvd": "4334003176556",
+    "uikName": "УИК №423",
     "tikTvd": "2332000884282",
-    "tikName": "Владимир, Октябрьская"
+    "tikName": "Владимир, Октябрьская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 424,
     "uikTvd": "4334003176557",
+    "uikName": "УИК №424",
     "tikTvd": "2332000884282",
-    "tikName": "Владимир, Октябрьская"
+    "tikName": "Владимир, Октябрьская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 425,
     "uikTvd": "4334003176558",
+    "uikName": "УИК №425",
     "tikTvd": "2332000884282",
-    "tikName": "Владимир, Октябрьская"
+    "tikName": "Владимир, Октябрьская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 426,
     "uikTvd": "4334003176559",
+    "uikName": "УИК №426",
     "tikTvd": "2332000884282",
-    "tikName": "Владимир, Октябрьская"
+    "tikName": "Владимир, Октябрьская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 427,
     "uikTvd": "4334003176560",
+    "uikName": "УИК №427",
     "tikTvd": "2332000884282",
-    "tikName": "Владимир, Октябрьская"
+    "tikName": "Владимир, Октябрьская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 428,
     "uikTvd": "4334003176561",
+    "uikName": "УИК №428",
     "tikTvd": "2332000884282",
-    "tikName": "Владимир, Октябрьская"
+    "tikName": "Владимир, Октябрьская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 429,
     "uikTvd": "4334003176562",
+    "uikName": "УИК №429",
     "tikTvd": "2332000884282",
-    "tikName": "Владимир, Октябрьская"
+    "tikName": "Владимир, Октябрьская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 430,
     "uikTvd": "4334003176563",
+    "uikName": "УИК №430",
     "tikTvd": "2332000884282",
-    "tikName": "Владимир, Октябрьская"
+    "tikName": "Владимир, Октябрьская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 431,
     "uikTvd": "4334003176564",
+    "uikName": "УИК №431",
     "tikTvd": "2332000884282",
-    "tikName": "Владимир, Октябрьская"
+    "tikName": "Владимир, Октябрьская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 432,
     "uikTvd": "4334003176565",
+    "uikName": "УИК №432",
     "tikTvd": "2332000884282",
-    "tikName": "Владимир, Октябрьская"
+    "tikName": "Владимир, Октябрьская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 433,
     "uikTvd": "4334003176566",
+    "uikName": "УИК №433",
     "tikTvd": "2332000884282",
-    "tikName": "Владимир, Октябрьская"
+    "tikName": "Владимир, Октябрьская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 434,
     "uikTvd": "4334003176567",
+    "uikName": "УИК №434",
     "tikTvd": "2332000884282",
-    "tikName": "Владимир, Октябрьская"
+    "tikName": "Владимир, Октябрьская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 435,
     "uikTvd": "4334003176568",
+    "uikName": "УИК №435",
     "tikTvd": "2332000884282",
-    "tikName": "Владимир, Октябрьская"
+    "tikName": "Владимир, Октябрьская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 436,
     "uikTvd": "4334003176569",
+    "uikName": "УИК №436",
     "tikTvd": "2332000884282",
-    "tikName": "Владимир, Октябрьская"
+    "tikName": "Владимир, Октябрьская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 437,
     "uikTvd": "4334003176570",
+    "uikName": "УИК №437",
     "tikTvd": "2332000884282",
-    "tikName": "Владимир, Октябрьская"
+    "tikName": "Владимир, Октябрьская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 438,
     "uikTvd": "4334003176571",
+    "uikName": "УИК №438",
     "tikTvd": "2332000884282",
-    "tikName": "Владимир, Октябрьская"
+    "tikName": "Владимир, Октябрьская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 439,
     "uikTvd": "4334003176572",
+    "uikName": "УИК №439",
     "tikTvd": "2332000884282",
-    "tikName": "Владимир, Октябрьская"
+    "tikName": "Владимир, Октябрьская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 440,
     "uikTvd": "4334003176573",
+    "uikName": "УИК №440",
     "tikTvd": "2332000884282",
-    "tikName": "Владимир, Октябрьская"
+    "tikName": "Владимир, Октябрьская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 441,
     "uikTvd": "4334003176574",
+    "uikName": "УИК №441",
     "tikTvd": "2332000884282",
-    "tikName": "Владимир, Октябрьская"
+    "tikName": "Владимир, Октябрьская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 442,
     "uikTvd": "4334003176575",
+    "uikName": "УИК №442",
     "tikTvd": "2332000884282",
-    "tikName": "Владимир, Октябрьская"
+    "tikName": "Владимир, Октябрьская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 443,
     "uikTvd": "4334003176576",
+    "uikName": "УИК №443",
     "tikTvd": "2332000884282",
-    "tikName": "Владимир, Октябрьская"
+    "tikName": "Владимир, Октябрьская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 444,
     "uikTvd": "4334003176577",
+    "uikName": "УИК №444",
     "tikTvd": "2332000884282",
-    "tikName": "Владимир, Октябрьская"
+    "tikName": "Владимир, Октябрьская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 445,
     "uikTvd": "4334003176578",
+    "uikName": "УИК №445",
     "tikTvd": "2332000884282",
-    "tikName": "Владимир, Октябрьская"
+    "tikName": "Владимир, Октябрьская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 446,
     "uikTvd": "4334003176579",
+    "uikName": "УИК №446",
     "tikTvd": "2332000884282",
-    "tikName": "Владимир, Октябрьская"
+    "tikName": "Владимир, Октябрьская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 447,
     "uikTvd": "4334003176580",
+    "uikName": "УИК №447",
     "tikTvd": "2332000884282",
-    "tikName": "Владимир, Октябрьская"
+    "tikName": "Владимир, Октябрьская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 448,
     "uikTvd": "4334003176581",
+    "uikName": "УИК №448",
     "tikTvd": "2332000884282",
-    "tikName": "Владимир, Октябрьская"
+    "tikName": "Владимир, Октябрьская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 454,
     "uikTvd": "4334004193738",
+    "uikName": "УИК №454",
     "tikTvd": "2332000884264",
-    "tikName": "Владимир, Фрунзенская"
+    "tikName": "Владимир, Фрунзенская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 455,
     "uikTvd": "4334004193739",
+    "uikName": "УИК №455",
     "tikTvd": "2332000884264",
-    "tikName": "Владимир, Фрунзенская"
+    "tikName": "Владимир, Фрунзенская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 456,
     "uikTvd": "4334004193740",
+    "uikName": "УИК №456",
     "tikTvd": "2332000884264",
-    "tikName": "Владимир, Фрунзенская"
+    "tikName": "Владимир, Фрунзенская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 457,
     "uikTvd": "4334004193741",
+    "uikName": "УИК №457",
     "tikTvd": "2332000884264",
-    "tikName": "Владимир, Фрунзенская"
+    "tikName": "Владимир, Фрунзенская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 458,
     "uikTvd": "4334004193742",
+    "uikName": "УИК №458",
     "tikTvd": "2332000884264",
-    "tikName": "Владимир, Фрунзенская"
+    "tikName": "Владимир, Фрунзенская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 459,
     "uikTvd": "4334004193743",
+    "uikName": "УИК №459",
     "tikTvd": "2332000884264",
-    "tikName": "Владимир, Фрунзенская"
+    "tikName": "Владимир, Фрунзенская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 460,
     "uikTvd": "4334004193744",
+    "uikName": "УИК №460",
     "tikTvd": "2332000884264",
-    "tikName": "Владимир, Фрунзенская"
+    "tikName": "Владимир, Фрунзенская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 461,
     "uikTvd": "4334004193745",
+    "uikName": "УИК №461",
     "tikTvd": "2332000884264",
-    "tikName": "Владимир, Фрунзенская"
+    "tikName": "Владимир, Фрунзенская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 462,
     "uikTvd": "4334004193746",
+    "uikName": "УИК №462",
     "tikTvd": "2332000884264",
-    "tikName": "Владимир, Фрунзенская"
+    "tikName": "Владимир, Фрунзенская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 463,
     "uikTvd": "4334004193747",
+    "uikName": "УИК №463",
     "tikTvd": "2332000884264",
-    "tikName": "Владимир, Фрунзенская"
+    "tikName": "Владимир, Фрунзенская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 464,
     "uikTvd": "4334004193748",
+    "uikName": "УИК №464",
     "tikTvd": "2332000884264",
-    "tikName": "Владимир, Фрунзенская"
+    "tikName": "Владимир, Фрунзенская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 465,
     "uikTvd": "4334004193749",
+    "uikName": "УИК №465",
     "tikTvd": "2332000884264",
-    "tikName": "Владимир, Фрунзенская"
+    "tikName": "Владимир, Фрунзенская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 466,
     "uikTvd": "4334004193750",
+    "uikName": "УИК №466",
     "tikTvd": "2332000884264",
-    "tikName": "Владимир, Фрунзенская"
+    "tikName": "Владимир, Фрунзенская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 467,
     "uikTvd": "4334004193751",
+    "uikName": "УИК №467",
     "tikTvd": "2332000884264",
-    "tikName": "Владимир, Фрунзенская"
+    "tikName": "Владимир, Фрунзенская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 468,
     "uikTvd": "4334004193752",
+    "uikName": "УИК №468",
     "tikTvd": "2332000884264",
-    "tikName": "Владимир, Фрунзенская"
+    "tikName": "Владимир, Фрунзенская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 469,
     "uikTvd": "4334004193753",
+    "uikName": "УИК №469",
     "tikTvd": "2332000884264",
-    "tikName": "Владимир, Фрунзенская"
+    "tikName": "Владимир, Фрунзенская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 470,
     "uikTvd": "4334004193754",
+    "uikName": "УИК №470",
     "tikTvd": "2332000884264",
-    "tikName": "Владимир, Фрунзенская"
+    "tikName": "Владимир, Фрунзенская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 471,
     "uikTvd": "4334004193755",
+    "uikName": "УИК №471",
     "tikTvd": "2332000884264",
-    "tikName": "Владимир, Фрунзенская"
+    "tikName": "Владимир, Фрунзенская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 472,
     "uikTvd": "4334004193756",
+    "uikName": "УИК №472",
     "tikTvd": "2332000884264",
-    "tikName": "Владимир, Фрунзенская"
+    "tikName": "Владимир, Фрунзенская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 473,
     "uikTvd": "4334004193757",
+    "uikName": "УИК №473",
     "tikTvd": "2332000884264",
-    "tikName": "Владимир, Фрунзенская"
+    "tikName": "Владимир, Фрунзенская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 474,
     "uikTvd": "4334004193758",
+    "uikName": "УИК №474",
     "tikTvd": "2332000884264",
-    "tikName": "Владимир, Фрунзенская"
+    "tikName": "Владимир, Фрунзенская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 475,
     "uikTvd": "4334004193759",
+    "uikName": "УИК №475",
     "tikTvd": "2332000884264",
-    "tikName": "Владимир, Фрунзенская"
+    "tikName": "Владимир, Фрунзенская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 476,
     "uikTvd": "4334004193760",
+    "uikName": "УИК №476",
     "tikTvd": "2332000884264",
-    "tikName": "Владимир, Фрунзенская"
+    "tikName": "Владимир, Фрунзенская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 477,
     "uikTvd": "4334004193761",
+    "uikName": "УИК №477",
     "tikTvd": "2332000884264",
-    "tikName": "Владимир, Фрунзенская"
+    "tikName": "Владимир, Фрунзенская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 478,
     "uikTvd": "4334004193762",
+    "uikName": "УИК №478",
     "tikTvd": "2332000884264",
-    "tikName": "Владимир, Фрунзенская"
+    "tikName": "Владимир, Фрунзенская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 479,
     "uikTvd": "4334004193763",
+    "uikName": "УИК №479",
     "tikTvd": "2332000884264",
-    "tikName": "Владимир, Фрунзенская"
+    "tikName": "Владимир, Фрунзенская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 480,
     "uikTvd": "4334004193764",
+    "uikName": "УИК №480",
     "tikTvd": "2332000884264",
-    "tikName": "Владимир, Фрунзенская"
+    "tikName": "Владимир, Фрунзенская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 481,
     "uikTvd": "4334004193765",
+    "uikName": "УИК №481",
     "tikTvd": "2332000884264",
-    "tikName": "Владимир, Фрунзенская"
+    "tikName": "Владимир, Фрунзенская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 482,
     "uikTvd": "4334004193766",
+    "uikName": "УИК №482",
     "tikTvd": "2332000884264",
-    "tikName": "Владимир, Фрунзенская"
+    "tikName": "Владимир, Фрунзенская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 483,
     "uikTvd": "4334004193767",
+    "uikName": "УИК №483",
     "tikTvd": "2332000884264",
-    "tikName": "Владимир, Фрунзенская"
+    "tikName": "Владимир, Фрунзенская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 484,
     "uikTvd": "4334004193768",
+    "uikName": "УИК №484",
     "tikTvd": "2332000884264",
-    "tikName": "Владимир, Фрунзенская"
+    "tikName": "Владимир, Фрунзенская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 485,
     "uikTvd": "4334004193769",
+    "uikName": "УИК №485",
     "tikTvd": "2332000884264",
-    "tikName": "Владимир, Фрунзенская"
+    "tikName": "Владимир, Фрунзенская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 486,
     "uikTvd": "4334004193770",
+    "uikName": "УИК №486",
     "tikTvd": "2332000884264",
-    "tikName": "Владимир, Фрунзенская"
+    "tikName": "Владимир, Фрунзенская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 487,
     "uikTvd": "4334004193771",
+    "uikName": "УИК №487",
     "tikTvd": "2332000884264",
-    "tikName": "Владимир, Фрунзенская"
+    "tikName": "Владимир, Фрунзенская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 488,
     "uikTvd": "4334004193772",
+    "uikName": "УИК №488",
     "tikTvd": "2332000884264",
-    "tikName": "Владимир, Фрунзенская"
+    "tikName": "Владимир, Фрунзенская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 489,
     "uikTvd": "4334004193773",
+    "uikName": "УИК №489",
     "tikTvd": "2332000884264",
-    "tikName": "Владимир, Фрунзенская"
+    "tikName": "Владимир, Фрунзенская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 490,
     "uikTvd": "4334004193774",
+    "uikName": "УИК №490",
     "tikTvd": "2332000884264",
-    "tikName": "Владимир, Фрунзенская"
+    "tikName": "Владимир, Фрунзенская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 491,
     "uikTvd": "4334004193775",
+    "uikName": "УИК №491",
     "tikTvd": "2332000884264",
-    "tikName": "Владимир, Фрунзенская"
+    "tikName": "Владимир, Фрунзенская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 492,
     "uikTvd": "4334004193776",
+    "uikName": "УИК №492",
     "tikTvd": "2332000884264",
-    "tikName": "Владимир, Фрунзенская"
+    "tikName": "Владимир, Фрунзенская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 493,
     "uikTvd": "4334004193777",
+    "uikName": "УИК №493",
     "tikTvd": "2332000884264",
-    "tikName": "Владимир, Фрунзенская"
+    "tikName": "Владимир, Фрунзенская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 496,
     "uikTvd": "4334016144443",
+    "uikName": "УИК №496",
     "tikTvd": "2332000884272",
-    "tikName": "Радужная городская"
+    "tikName": "Радужная городская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 497,
     "uikTvd": "4334016144444",
+    "uikName": "УИК №497",
     "tikTvd": "2332000884272",
-    "tikName": "Радужная городская"
+    "tikName": "Радужная городская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 498,
     "uikTvd": "4334016144445",
+    "uikName": "УИК №498",
     "tikTvd": "2332000884272",
-    "tikName": "Радужная городская"
+    "tikName": "Радужная городская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 499,
     "uikTvd": "4334016144446",
+    "uikName": "УИК №499",
     "tikTvd": "2332000884272",
-    "tikName": "Радужная городская"
+    "tikName": "Радужная городская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 500,
     "uikTvd": "4334016144447",
+    "uikName": "УИК №500",
     "tikTvd": "2332000884272",
-    "tikName": "Радужная городская"
+    "tikName": "Радужная городская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 501,
     "uikTvd": "4334016144448",
+    "uikName": "УИК №501",
     "tikTvd": "2332000884272",
-    "tikName": "Радужная городская"
+    "tikName": "Радужная городская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 503,
     "uikTvd": "43340071275794",
+    "uikName": "УИК №503",
     "tikTvd": "2332000884283",
-    "tikName": "Гусь-Хрустальная"
+    "tikName": "Гусь-Хрустальная",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 504,
     "uikTvd": "43340071275795",
+    "uikName": "УИК №504",
     "tikTvd": "2332000884283",
-    "tikName": "Гусь-Хрустальная"
+    "tikName": "Гусь-Хрустальная",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 505,
     "uikTvd": "43340071275796",
+    "uikName": "УИК №505",
     "tikTvd": "2332000884283",
-    "tikName": "Гусь-Хрустальная"
+    "tikName": "Гусь-Хрустальная",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 506,
     "uikTvd": "43340071275797",
+    "uikName": "УИК №506",
     "tikTvd": "2332000884283",
-    "tikName": "Гусь-Хрустальная"
+    "tikName": "Гусь-Хрустальная",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 507,
     "uikTvd": "43340071275798",
+    "uikName": "УИК №507",
     "tikTvd": "2332000884283",
-    "tikName": "Гусь-Хрустальная"
+    "tikName": "Гусь-Хрустальная",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 508,
     "uikTvd": "43340071275799",
+    "uikName": "УИК №508",
     "tikTvd": "2332000884283",
-    "tikName": "Гусь-Хрустальная"
+    "tikName": "Гусь-Хрустальная",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 509,
     "uikTvd": "43340071275800",
+    "uikName": "УИК №509",
     "tikTvd": "2332000884283",
-    "tikName": "Гусь-Хрустальная"
+    "tikName": "Гусь-Хрустальная",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 510,
     "uikTvd": "43340071275801",
+    "uikName": "УИК №510",
     "tikTvd": "2332000884283",
-    "tikName": "Гусь-Хрустальная"
+    "tikName": "Гусь-Хрустальная",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 511,
     "uikTvd": "43340071275802",
+    "uikName": "УИК №511",
     "tikTvd": "2332000884283",
-    "tikName": "Гусь-Хрустальная"
+    "tikName": "Гусь-Хрустальная",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 512,
     "uikTvd": "43340071275803",
+    "uikName": "УИК №512",
     "tikTvd": "2332000884283",
-    "tikName": "Гусь-Хрустальная"
+    "tikName": "Гусь-Хрустальная",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 513,
     "uikTvd": "43340071275804",
+    "uikName": "УИК №513",
     "tikTvd": "2332000884283",
-    "tikName": "Гусь-Хрустальная"
+    "tikName": "Гусь-Хрустальная",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 514,
     "uikTvd": "43340071275805",
+    "uikName": "УИК №514",
     "tikTvd": "2332000884283",
-    "tikName": "Гусь-Хрустальная"
+    "tikName": "Гусь-Хрустальная",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 515,
     "uikTvd": "43340071275806",
+    "uikName": "УИК №515",
     "tikTvd": "2332000884283",
-    "tikName": "Гусь-Хрустальная"
+    "tikName": "Гусь-Хрустальная",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 516,
     "uikTvd": "43340071275807",
+    "uikName": "УИК №516",
     "tikTvd": "2332000884283",
-    "tikName": "Гусь-Хрустальная"
+    "tikName": "Гусь-Хрустальная",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 517,
     "uikTvd": "43340071275808",
+    "uikName": "УИК №517",
     "tikTvd": "2332000884283",
-    "tikName": "Гусь-Хрустальная"
+    "tikName": "Гусь-Хрустальная",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 518,
     "uikTvd": "43340071275809",
+    "uikName": "УИК №518",
     "tikTvd": "2332000884283",
-    "tikName": "Гусь-Хрустальная"
+    "tikName": "Гусь-Хрустальная",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 519,
     "uikTvd": "43340071275810",
+    "uikName": "УИК №519",
     "tikTvd": "2332000884283",
-    "tikName": "Гусь-Хрустальная"
+    "tikName": "Гусь-Хрустальная",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 520,
     "uikTvd": "43340071275811",
+    "uikName": "УИК №520",
     "tikTvd": "2332000884283",
-    "tikName": "Гусь-Хрустальная"
+    "tikName": "Гусь-Хрустальная",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 521,
     "uikTvd": "43340071275812",
+    "uikName": "УИК №521",
     "tikTvd": "2332000884283",
-    "tikName": "Гусь-Хрустальная"
+    "tikName": "Гусь-Хрустальная",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 522,
     "uikTvd": "43340071275813",
+    "uikName": "УИК №522",
     "tikTvd": "2332000884283",
-    "tikName": "Гусь-Хрустальная"
+    "tikName": "Гусь-Хрустальная",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 523,
     "uikTvd": "43340071275814",
+    "uikName": "УИК №523",
     "tikTvd": "2332000884283",
-    "tikName": "Гусь-Хрустальная"
+    "tikName": "Гусь-Хрустальная",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 524,
     "uikTvd": "43340071275815",
+    "uikName": "УИК №524",
     "tikTvd": "2332000884283",
-    "tikName": "Гусь-Хрустальная"
+    "tikName": "Гусь-Хрустальная",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 525,
     "uikTvd": "43340071275816",
+    "uikName": "УИК №525",
     "tikTvd": "2332000884283",
-    "tikName": "Гусь-Хрустальная"
+    "tikName": "Гусь-Хрустальная",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 526,
     "uikTvd": "43340071275817",
+    "uikName": "УИК №526",
     "tikTvd": "2332000884283",
-    "tikName": "Гусь-Хрустальная"
+    "tikName": "Гусь-Хрустальная",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 527,
     "uikTvd": "43340071275818",
+    "uikName": "УИК №527",
     "tikTvd": "2332000884283",
-    "tikName": "Гусь-Хрустальная"
+    "tikName": "Гусь-Хрустальная",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 528,
     "uikTvd": "43340071275819",
+    "uikName": "УИК №528",
     "tikTvd": "2332000884283",
-    "tikName": "Гусь-Хрустальная"
+    "tikName": "Гусь-Хрустальная",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 529,
     "uikTvd": "43340071275820",
+    "uikName": "УИК №529",
     "tikTvd": "2332000884283",
-    "tikName": "Гусь-Хрустальная"
+    "tikName": "Гусь-Хрустальная",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 530,
     "uikTvd": "43340071275821",
+    "uikName": "УИК №530",
     "tikTvd": "2332000884283",
-    "tikName": "Гусь-Хрустальная"
+    "tikName": "Гусь-Хрустальная",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 531,
     "uikTvd": "43340071275822",
+    "uikName": "УИК №531",
     "tikTvd": "2332000884283",
-    "tikName": "Гусь-Хрустальная"
+    "tikName": "Гусь-Хрустальная",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 532,
     "uikTvd": "43340071275823",
+    "uikName": "УИК №532",
     "tikTvd": "2332000884283",
-    "tikName": "Гусь-Хрустальная"
+    "tikName": "Гусь-Хрустальная",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 533,
     "uikTvd": "43340071275824",
+    "uikName": "УИК №533",
     "tikTvd": "2332000884283",
-    "tikName": "Гусь-Хрустальная"
+    "tikName": "Гусь-Хрустальная",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 534,
     "uikTvd": "43340071275825",
+    "uikName": "УИК №534",
     "tikTvd": "2332000884283",
-    "tikName": "Гусь-Хрустальная"
+    "tikName": "Гусь-Хрустальная",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 535,
     "uikTvd": "43340071275826",
+    "uikName": "УИК №535",
     "tikTvd": "2332000884283",
-    "tikName": "Гусь-Хрустальная"
+    "tikName": "Гусь-Хрустальная",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 536,
     "uikTvd": "43340071275827",
+    "uikName": "УИК №536",
     "tikTvd": "2332000884283",
-    "tikName": "Гусь-Хрустальная"
+    "tikName": "Гусь-Хрустальная",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 537,
     "uikTvd": "43340071275828",
+    "uikName": "УИК №537",
     "tikTvd": "2332000884283",
-    "tikName": "Гусь-Хрустальная"
+    "tikName": "Гусь-Хрустальная",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 538,
     "uikTvd": "43340071275829",
+    "uikName": "УИК №538",
     "tikTvd": "2332000884283",
-    "tikName": "Гусь-Хрустальная"
+    "tikName": "Гусь-Хрустальная",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 539,
     "uikTvd": "43340071275830",
+    "uikName": "УИК №539",
     "tikTvd": "2332000884283",
-    "tikName": "Гусь-Хрустальная"
+    "tikName": "Гусь-Хрустальная",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 540,
     "uikTvd": "43340071275831",
+    "uikName": "УИК №540",
     "tikTvd": "2332000884283",
-    "tikName": "Гусь-Хрустальная"
+    "tikName": "Гусь-Хрустальная",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 541,
     "uikTvd": "43340071275832",
+    "uikName": "УИК №541",
     "tikTvd": "2332000884283",
-    "tikName": "Гусь-Хрустальная"
+    "tikName": "Гусь-Хрустальная",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 542,
     "uikTvd": "43340071275833",
+    "uikName": "УИК №542",
     "tikTvd": "2332000884283",
-    "tikName": "Гусь-Хрустальная"
+    "tikName": "Гусь-Хрустальная",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 543,
     "uikTvd": "43340071275834",
+    "uikName": "УИК №543",
     "tikTvd": "2332000884283",
-    "tikName": "Гусь-Хрустальная"
+    "tikName": "Гусь-Хрустальная",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 544,
     "uikTvd": "43340071275835",
+    "uikName": "УИК №544",
     "tikTvd": "2332000884283",
-    "tikName": "Гусь-Хрустальная"
+    "tikName": "Гусь-Хрустальная",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 545,
     "uikTvd": "43340071275836",
+    "uikName": "УИК №545",
     "tikTvd": "2332000884283",
-    "tikName": "Гусь-Хрустальная"
+    "tikName": "Гусь-Хрустальная",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 554,
     "uikTvd": "4334022168971",
+    "uikName": "УИК №554",
     "tikTvd": "2332000884273",
-    "tikName": "Гусь-Хрустальная городская"
+    "tikName": "Гусь-Хрустальная городская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 555,
     "uikTvd": "4334022168972",
+    "uikName": "УИК №555",
     "tikTvd": "2332000884273",
-    "tikName": "Гусь-Хрустальная городская"
+    "tikName": "Гусь-Хрустальная городская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 556,
     "uikTvd": "4334022168973",
+    "uikName": "УИК №556",
     "tikTvd": "2332000884273",
-    "tikName": "Гусь-Хрустальная городская"
+    "tikName": "Гусь-Хрустальная городская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 557,
     "uikTvd": "4334022168974",
+    "uikName": "УИК №557",
     "tikTvd": "2332000884273",
-    "tikName": "Гусь-Хрустальная городская"
+    "tikName": "Гусь-Хрустальная городская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 558,
     "uikTvd": "4334022168975",
+    "uikName": "УИК №558",
     "tikTvd": "2332000884273",
-    "tikName": "Гусь-Хрустальная городская"
+    "tikName": "Гусь-Хрустальная городская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 559,
     "uikTvd": "4334022168976",
+    "uikName": "УИК №559",
     "tikTvd": "2332000884273",
-    "tikName": "Гусь-Хрустальная городская"
+    "tikName": "Гусь-Хрустальная городская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 560,
     "uikTvd": "4334022168977",
+    "uikName": "УИК №560",
     "tikTvd": "2332000884273",
-    "tikName": "Гусь-Хрустальная городская"
+    "tikName": "Гусь-Хрустальная городская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 561,
     "uikTvd": "4334022168978",
+    "uikName": "УИК №561",
     "tikTvd": "2332000884273",
-    "tikName": "Гусь-Хрустальная городская"
+    "tikName": "Гусь-Хрустальная городская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 562,
     "uikTvd": "4334022168979",
+    "uikName": "УИК №562",
     "tikTvd": "2332000884273",
-    "tikName": "Гусь-Хрустальная городская"
+    "tikName": "Гусь-Хрустальная городская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 563,
     "uikTvd": "4334022168980",
+    "uikName": "УИК №563",
     "tikTvd": "2332000884273",
-    "tikName": "Гусь-Хрустальная городская"
+    "tikName": "Гусь-Хрустальная городская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 564,
     "uikTvd": "4334022168981",
+    "uikName": "УИК №564",
     "tikTvd": "2332000884273",
-    "tikName": "Гусь-Хрустальная городская"
+    "tikName": "Гусь-Хрустальная городская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 565,
     "uikTvd": "4334022168982",
+    "uikName": "УИК №565",
     "tikTvd": "2332000884273",
-    "tikName": "Гусь-Хрустальная городская"
+    "tikName": "Гусь-Хрустальная городская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 566,
     "uikTvd": "4334022168983",
+    "uikName": "УИК №566",
     "tikTvd": "2332000884273",
-    "tikName": "Гусь-Хрустальная городская"
+    "tikName": "Гусь-Хрустальная городская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 567,
     "uikTvd": "4334022168984",
+    "uikName": "УИК №567",
     "tikTvd": "2332000884273",
-    "tikName": "Гусь-Хрустальная городская"
+    "tikName": "Гусь-Хрустальная городская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 568,
     "uikTvd": "4334022168985",
+    "uikName": "УИК №568",
     "tikTvd": "2332000884273",
-    "tikName": "Гусь-Хрустальная городская"
+    "tikName": "Гусь-Хрустальная городская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 569,
     "uikTvd": "4334022168986",
+    "uikName": "УИК №569",
     "tikTvd": "2332000884273",
-    "tikName": "Гусь-Хрустальная городская"
+    "tikName": "Гусь-Хрустальная городская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 570,
     "uikTvd": "4334022168987",
+    "uikName": "УИК №570",
     "tikTvd": "2332000884273",
-    "tikName": "Гусь-Хрустальная городская"
+    "tikName": "Гусь-Хрустальная городская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 571,
     "uikTvd": "4334022168988",
+    "uikName": "УИК №571",
     "tikTvd": "2332000884273",
-    "tikName": "Гусь-Хрустальная городская"
+    "tikName": "Гусь-Хрустальная городская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 572,
     "uikTvd": "4334022168989",
+    "uikName": "УИК №572",
     "tikTvd": "2332000884273",
-    "tikName": "Гусь-Хрустальная городская"
+    "tikName": "Гусь-Хрустальная городская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 573,
     "uikTvd": "4334022168990",
+    "uikName": "УИК №573",
     "tikTvd": "2332000884273",
-    "tikName": "Гусь-Хрустальная городская"
+    "tikName": "Гусь-Хрустальная городская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 574,
     "uikTvd": "4334022168991",
+    "uikName": "УИК №574",
     "tikTvd": "2332000884273",
-    "tikName": "Гусь-Хрустальная городская"
+    "tikName": "Гусь-Хрустальная городская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 575,
     "uikTvd": "4334022168992",
+    "uikName": "УИК №575",
     "tikTvd": "2332000884273",
-    "tikName": "Гусь-Хрустальная городская"
+    "tikName": "Гусь-Хрустальная городская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 576,
     "uikTvd": "4334022168993",
+    "uikName": "УИК №576",
     "tikTvd": "2332000884273",
-    "tikName": "Гусь-Хрустальная городская"
+    "tikName": "Гусь-Хрустальная городская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 577,
     "uikTvd": "4334022168994",
+    "uikName": "УИК №577",
     "tikTvd": "2332000884273",
-    "tikName": "Гусь-Хрустальная городская"
+    "tikName": "Гусь-Хрустальная городская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 578,
     "uikTvd": "4334022168995",
+    "uikName": "УИК №578",
     "tikTvd": "2332000884273",
-    "tikName": "Гусь-Хрустальная городская"
+    "tikName": "Гусь-Хрустальная городская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 579,
     "uikTvd": "4334022168996",
+    "uikName": "УИК №579",
     "tikTvd": "2332000884273",
-    "tikName": "Гусь-Хрустальная городская"
+    "tikName": "Гусь-Хрустальная городская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 580,
     "uikTvd": "4334022168997",
+    "uikName": "УИК №580",
     "tikTvd": "2332000884273",
-    "tikName": "Гусь-Хрустальная городская"
+    "tikName": "Гусь-Хрустальная городская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 581,
     "uikTvd": "4334022168998",
+    "uikName": "УИК №581",
     "tikTvd": "2332000884273",
-    "tikName": "Гусь-Хрустальная городская"
+    "tikName": "Гусь-Хрустальная городская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 582,
     "uikTvd": "4334022168999",
+    "uikName": "УИК №582",
     "tikTvd": "2332000884273",
-    "tikName": "Гусь-Хрустальная городская"
+    "tikName": "Гусь-Хрустальная городская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 583,
     "uikTvd": "4334022169000",
+    "uikName": "УИК №583",
     "tikTvd": "2332000884273",
-    "tikName": "Гусь-Хрустальная городская"
+    "tikName": "Гусь-Хрустальная городская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 587,
     "uikTvd": "4334019271638",
+    "uikName": "УИК №587",
     "tikTvd": "2332000884267",
-    "tikName": "Судогодская"
+    "tikName": "Судогодская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 588,
     "uikTvd": "4334019271639",
+    "uikName": "УИК №588",
     "tikTvd": "2332000884267",
-    "tikName": "Судогодская"
+    "tikName": "Судогодская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 589,
     "uikTvd": "4334019271640",
+    "uikName": "УИК №589",
     "tikTvd": "2332000884267",
-    "tikName": "Судогодская"
+    "tikName": "Судогодская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 590,
     "uikTvd": "4334019271641",
+    "uikName": "УИК №590",
     "tikTvd": "2332000884267",
-    "tikName": "Судогодская"
+    "tikName": "Судогодская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 591,
     "uikTvd": "4334019271642",
+    "uikName": "УИК №591",
     "tikTvd": "2332000884267",
-    "tikName": "Судогодская"
+    "tikName": "Судогодская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 592,
     "uikTvd": "4334019271643",
+    "uikName": "УИК №592",
     "tikTvd": "2332000884267",
-    "tikName": "Судогодская"
+    "tikName": "Судогодская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 593,
     "uikTvd": "4334019271644",
+    "uikName": "УИК №593",
     "tikTvd": "2332000884267",
-    "tikName": "Судогодская"
+    "tikName": "Судогодская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 594,
     "uikTvd": "4334019271645",
+    "uikName": "УИК №594",
     "tikTvd": "2332000884267",
-    "tikName": "Судогодская"
+    "tikName": "Судогодская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 595,
     "uikTvd": "4334019271646",
+    "uikName": "УИК №595",
     "tikTvd": "2332000884267",
-    "tikName": "Судогодская"
+    "tikName": "Судогодская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 596,
     "uikTvd": "4334019271647",
+    "uikName": "УИК №596",
     "tikTvd": "2332000884267",
-    "tikName": "Судогодская"
+    "tikName": "Судогодская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 597,
     "uikTvd": "4334019271648",
+    "uikName": "УИК №597",
     "tikTvd": "2332000884267",
-    "tikName": "Судогодская"
+    "tikName": "Судогодская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 598,
     "uikTvd": "4334019271649",
+    "uikName": "УИК №598",
     "tikTvd": "2332000884267",
-    "tikName": "Судогодская"
+    "tikName": "Судогодская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 599,
     "uikTvd": "4334019271650",
+    "uikName": "УИК №599",
     "tikTvd": "2332000884267",
-    "tikName": "Судогодская"
+    "tikName": "Судогодская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 600,
     "uikTvd": "4334019271651",
+    "uikName": "УИК №600",
     "tikTvd": "2332000884267",
-    "tikName": "Судогодская"
+    "tikName": "Судогодская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 601,
     "uikTvd": "4334019271652",
+    "uikName": "УИК №601",
     "tikTvd": "2332000884267",
-    "tikName": "Судогодская"
+    "tikName": "Судогодская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 602,
     "uikTvd": "4334019271653",
+    "uikName": "УИК №602",
     "tikTvd": "2332000884267",
-    "tikName": "Судогодская"
+    "tikName": "Судогодская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 603,
     "uikTvd": "4334019271654",
+    "uikName": "УИК №603",
     "tikTvd": "2332000884267",
-    "tikName": "Судогодская"
+    "tikName": "Судогодская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 604,
     "uikTvd": "4334019271655",
+    "uikName": "УИК №604",
     "tikTvd": "2332000884267",
-    "tikName": "Судогодская"
+    "tikName": "Судогодская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 605,
     "uikTvd": "4334019271656",
+    "uikName": "УИК №605",
     "tikTvd": "2332000884267",
-    "tikName": "Судогодская"
+    "tikName": "Судогодская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 606,
     "uikTvd": "4334019271657",
+    "uikName": "УИК №606",
     "tikTvd": "2332000884267",
-    "tikName": "Судогодская"
+    "tikName": "Судогодская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 607,
     "uikTvd": "4334019271658",
+    "uikName": "УИК №607",
     "tikTvd": "2332000884267",
-    "tikName": "Судогодская"
+    "tikName": "Судогодская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 608,
     "uikTvd": "4334019271659",
+    "uikName": "УИК №608",
     "tikTvd": "2332000884267",
-    "tikName": "Судогодская"
+    "tikName": "Судогодская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 609,
     "uikTvd": "4334019271660",
+    "uikName": "УИК №609",
     "tikTvd": "2332000884267",
-    "tikName": "Судогодская"
+    "tikName": "Судогодская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 610,
     "uikTvd": "4334019271661",
+    "uikName": "УИК №610",
     "tikTvd": "2332000884267",
-    "tikName": "Судогодская"
+    "tikName": "Судогодская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 611,
     "uikTvd": "4334019271662",
+    "uikName": "УИК №611",
     "tikTvd": "2332000884267",
-    "tikName": "Судогодская"
+    "tikName": "Судогодская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 612,
     "uikTvd": "4334019271663",
+    "uikName": "УИК №612",
     "tikTvd": "2332000884267",
-    "tikName": "Судогодская"
+    "tikName": "Судогодская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 613,
     "uikTvd": "4334019271664",
+    "uikName": "УИК №613",
     "tikTvd": "2332000884267",
-    "tikName": "Судогодская"
+    "tikName": "Судогодская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 614,
     "uikTvd": "4334019271665",
+    "uikName": "УИК №614",
     "tikTvd": "2332000884267",
-    "tikName": "Судогодская"
+    "tikName": "Судогодская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 615,
     "uikTvd": "4334019271666",
+    "uikName": "УИК №615",
     "tikTvd": "2332000884267",
-    "tikName": "Судогодская"
+    "tikName": "Судогодская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 616,
     "uikTvd": "4334019271667",
+    "uikName": "УИК №616",
     "tikTvd": "2332000884267",
-    "tikName": "Судогодская"
+    "tikName": "Судогодская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 617,
     "uikTvd": "4334019271668",
+    "uikName": "УИК №617",
     "tikTvd": "2332000884267",
-    "tikName": "Судогодская"
+    "tikName": "Судогодская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 618,
     "uikTvd": "4334019271669",
+    "uikName": "УИК №618",
     "tikTvd": "2332000884267",
-    "tikName": "Судогодская"
+    "tikName": "Судогодская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 619,
     "uikTvd": "4334019271670",
+    "uikName": "УИК №619",
     "tikTvd": "2332000884267",
-    "tikName": "Судогодская"
+    "tikName": "Судогодская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 620,
     "uikTvd": "4334019271671",
+    "uikName": "УИК №620",
     "tikTvd": "2332000884267",
-    "tikName": "Судогодская"
+    "tikName": "Судогодская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 621,
     "uikTvd": "4334019271672",
+    "uikName": "УИК №621",
     "tikTvd": "2332000884267",
-    "tikName": "Судогодская"
+    "tikName": "Судогодская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 622,
     "uikTvd": "4334019271673",
+    "uikName": "УИК №622",
     "tikTvd": "2332000884267",
-    "tikName": "Судогодская"
+    "tikName": "Судогодская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 623,
     "uikTvd": "4334019271674",
+    "uikName": "УИК №623",
     "tikTvd": "2332000884267",
-    "tikName": "Судогодская"
+    "tikName": "Судогодская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 624,
     "uikTvd": "4334019271675",
+    "uikName": "УИК №624",
     "tikTvd": "2332000884267",
-    "tikName": "Судогодская"
+    "tikName": "Судогодская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 625,
     "uikTvd": "4334019271676",
+    "uikName": "УИК №625",
     "tikTvd": "2332000884267",
-    "tikName": "Судогодская"
+    "tikName": "Судогодская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 627,
     "uikTvd": "4334008269234",
+    "uikName": "УИК №627",
     "tikTvd": "2332000884266",
-    "tikName": "Камешковская"
+    "tikName": "Камешковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 628,
     "uikTvd": "4334008269236",
+    "uikName": "УИК №628",
     "tikTvd": "2332000884266",
-    "tikName": "Камешковская"
+    "tikName": "Камешковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 629,
     "uikTvd": "4334008269237",
+    "uikName": "УИК №629",
     "tikTvd": "2332000884266",
-    "tikName": "Камешковская"
+    "tikName": "Камешковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 630,
     "uikTvd": "4334008269238",
+    "uikName": "УИК №630",
     "tikTvd": "2332000884266",
-    "tikName": "Камешковская"
+    "tikName": "Камешковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 631,
     "uikTvd": "4334008269239",
+    "uikName": "УИК №631",
     "tikTvd": "2332000884266",
-    "tikName": "Камешковская"
+    "tikName": "Камешковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 632,
     "uikTvd": "4334008269240",
+    "uikName": "УИК №632",
     "tikTvd": "2332000884266",
-    "tikName": "Камешковская"
+    "tikName": "Камешковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 633,
     "uikTvd": "4334008269241",
+    "uikName": "УИК №633",
     "tikTvd": "2332000884266",
-    "tikName": "Камешковская"
+    "tikName": "Камешковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 634,
     "uikTvd": "4334008269242",
+    "uikName": "УИК №634",
     "tikTvd": "2332000884266",
-    "tikName": "Камешковская"
+    "tikName": "Камешковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 635,
     "uikTvd": "4334008269243",
+    "uikName": "УИК №635",
     "tikTvd": "2332000884266",
-    "tikName": "Камешковская"
+    "tikName": "Камешковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 636,
     "uikTvd": "4334008269244",
+    "uikName": "УИК №636",
     "tikTvd": "2332000884266",
-    "tikName": "Камешковская"
+    "tikName": "Камешковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 637,
     "uikTvd": "4334008269245",
+    "uikName": "УИК №637",
     "tikTvd": "2332000884266",
-    "tikName": "Камешковская"
+    "tikName": "Камешковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 638,
     "uikTvd": "4334008269246",
+    "uikName": "УИК №638",
     "tikTvd": "2332000884266",
-    "tikName": "Камешковская"
+    "tikName": "Камешковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 639,
     "uikTvd": "4334008269247",
+    "uikName": "УИК №639",
     "tikTvd": "2332000884266",
-    "tikName": "Камешковская"
+    "tikName": "Камешковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 640,
     "uikTvd": "4334008269248",
+    "uikName": "УИК №640",
     "tikTvd": "2332000884266",
-    "tikName": "Камешковская"
+    "tikName": "Камешковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 641,
     "uikTvd": "4334008269249",
+    "uikName": "УИК №641",
     "tikTvd": "2332000884266",
-    "tikName": "Камешковская"
+    "tikName": "Камешковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 642,
     "uikTvd": "4334008269250",
+    "uikName": "УИК №642",
     "tikTvd": "2332000884266",
-    "tikName": "Камешковская"
+    "tikName": "Камешковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 643,
     "uikTvd": "4334008269251",
+    "uikName": "УИК №643",
     "tikTvd": "2332000884266",
-    "tikName": "Камешковская"
+    "tikName": "Камешковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 644,
     "uikTvd": "4334008269252",
+    "uikName": "УИК №644",
     "tikTvd": "2332000884266",
-    "tikName": "Камешковская"
+    "tikName": "Камешковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 645,
     "uikTvd": "4334008269253",
+    "uikName": "УИК №645",
     "tikTvd": "2332000884266",
-    "tikName": "Камешковская"
+    "tikName": "Камешковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 646,
     "uikTvd": "4334008269254",
+    "uikName": "УИК №646",
     "tikTvd": "2332000884266",
-    "tikName": "Камешковская"
+    "tikName": "Камешковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 647,
     "uikTvd": "4334008269255",
+    "uikName": "УИК №647",
     "tikTvd": "2332000884266",
-    "tikName": "Камешковская"
+    "tikName": "Камешковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 648,
     "uikTvd": "4334008269256",
+    "uikName": "УИК №648",
     "tikTvd": "2332000884266",
-    "tikName": "Камешковская"
+    "tikName": "Камешковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 649,
     "uikTvd": "4334008269257",
+    "uikName": "УИК №649",
     "tikTvd": "2332000884266",
-    "tikName": "Камешковская"
+    "tikName": "Камешковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 650,
     "uikTvd": "4334008269258",
+    "uikName": "УИК №650",
     "tikTvd": "2332000884266",
-    "tikName": "Камешковская"
+    "tikName": "Камешковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 651,
     "uikTvd": "4334008269259",
+    "uikName": "УИК №651",
     "tikTvd": "2332000884266",
-    "tikName": "Камешковская"
+    "tikName": "Камешковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 652,
     "uikTvd": "4334008269260",
+    "uikName": "УИК №652",
     "tikTvd": "2332000884266",
-    "tikName": "Камешковская"
+    "tikName": "Камешковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 653,
     "uikTvd": "4334008269261",
+    "uikName": "УИК №653",
     "tikTvd": "2332000884266",
-    "tikName": "Камешковская"
+    "tikName": "Камешковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 654,
     "uikTvd": "4334008269262",
+    "uikName": "УИК №654",
     "tikTvd": "2332000884266",
-    "tikName": "Камешковская"
+    "tikName": "Камешковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 655,
     "uikTvd": "4334011266616",
+    "uikName": "УИК №655",
     "tikTvd": "2332000884274",
-    "tikName": "Ковровская"
+    "tikName": "Ковровская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 656,
     "uikTvd": "4334011266617",
+    "uikName": "УИК №656",
     "tikTvd": "2332000884274",
-    "tikName": "Ковровская"
+    "tikName": "Ковровская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 657,
     "uikTvd": "4334011266618",
+    "uikName": "УИК №657",
     "tikTvd": "2332000884274",
-    "tikName": "Ковровская"
+    "tikName": "Ковровская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 658,
     "uikTvd": "4334011266619",
+    "uikName": "УИК №658",
     "tikTvd": "2332000884274",
-    "tikName": "Ковровская"
+    "tikName": "Ковровская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 659,
     "uikTvd": "4334011266620",
+    "uikName": "УИК №659",
     "tikTvd": "2332000884274",
-    "tikName": "Ковровская"
+    "tikName": "Ковровская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 660,
     "uikTvd": "4334011266621",
+    "uikName": "УИК №660",
     "tikTvd": "2332000884274",
-    "tikName": "Ковровская"
+    "tikName": "Ковровская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 661,
     "uikTvd": "4334011266622",
+    "uikName": "УИК №661",
     "tikTvd": "2332000884274",
-    "tikName": "Ковровская"
+    "tikName": "Ковровская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 662,
     "uikTvd": "4334011266623",
+    "uikName": "УИК №662",
     "tikTvd": "2332000884274",
-    "tikName": "Ковровская"
+    "tikName": "Ковровская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 663,
     "uikTvd": "4334011266624",
+    "uikName": "УИК №663",
     "tikTvd": "2332000884274",
-    "tikName": "Ковровская"
+    "tikName": "Ковровская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 664,
     "uikTvd": "4334011266625",
+    "uikName": "УИК №664",
     "tikTvd": "2332000884274",
-    "tikName": "Ковровская"
+    "tikName": "Ковровская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 665,
     "uikTvd": "4334011266626",
+    "uikName": "УИК №665",
     "tikTvd": "2332000884274",
-    "tikName": "Ковровская"
+    "tikName": "Ковровская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 666,
     "uikTvd": "4334011266627",
+    "uikName": "УИК №666",
     "tikTvd": "2332000884274",
-    "tikName": "Ковровская"
+    "tikName": "Ковровская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 667,
     "uikTvd": "4334011266628",
+    "uikName": "УИК №667",
     "tikTvd": "2332000884274",
-    "tikName": "Ковровская"
+    "tikName": "Ковровская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 668,
     "uikTvd": "4334011266629",
+    "uikName": "УИК №668",
     "tikTvd": "2332000884274",
-    "tikName": "Ковровская"
+    "tikName": "Ковровская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 669,
     "uikTvd": "4334011266630",
+    "uikName": "УИК №669",
     "tikTvd": "2332000884274",
-    "tikName": "Ковровская"
+    "tikName": "Ковровская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 670,
     "uikTvd": "4334011266631",
+    "uikName": "УИК №670",
     "tikTvd": "2332000884274",
-    "tikName": "Ковровская"
+    "tikName": "Ковровская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 671,
     "uikTvd": "4334011266632",
+    "uikName": "УИК №671",
     "tikTvd": "2332000884274",
-    "tikName": "Ковровская"
+    "tikName": "Ковровская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 672,
     "uikTvd": "4334011266633",
+    "uikName": "УИК №672",
     "tikTvd": "2332000884274",
-    "tikName": "Ковровская"
+    "tikName": "Ковровская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 673,
     "uikTvd": "4334011266634",
+    "uikName": "УИК №673",
     "tikTvd": "2332000884274",
-    "tikName": "Ковровская"
+    "tikName": "Ковровская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 674,
     "uikTvd": "4334011266635",
+    "uikName": "УИК №674",
     "tikTvd": "2332000884274",
-    "tikName": "Ковровская"
+    "tikName": "Ковровская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 675,
     "uikTvd": "4334011266636",
+    "uikName": "УИК №675",
     "tikTvd": "2332000884274",
-    "tikName": "Ковровская"
+    "tikName": "Ковровская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 676,
     "uikTvd": "4334011266637",
+    "uikName": "УИК №676",
     "tikTvd": "2332000884274",
-    "tikName": "Ковровская"
+    "tikName": "Ковровская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 677,
     "uikTvd": "4334011266638",
+    "uikName": "УИК №677",
     "tikTvd": "2332000884274",
-    "tikName": "Ковровская"
+    "tikName": "Ковровская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 678,
     "uikTvd": "4334011266639",
+    "uikName": "УИК №678",
     "tikTvd": "2332000884274",
-    "tikName": "Ковровская"
+    "tikName": "Ковровская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 679,
     "uikTvd": "4334011266640",
+    "uikName": "УИК №679",
     "tikTvd": "2332000884274",
-    "tikName": "Ковровская"
+    "tikName": "Ковровская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 680,
     "uikTvd": "4334011266641",
+    "uikName": "УИК №680",
     "tikTvd": "2332000884274",
-    "tikName": "Ковровская"
+    "tikName": "Ковровская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 681,
     "uikTvd": "4334011266642",
+    "uikName": "УИК №681",
     "tikTvd": "2332000884274",
-    "tikName": "Ковровская"
+    "tikName": "Ковровская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 682,
     "uikTvd": "4334011266643",
+    "uikName": "УИК №682",
     "tikTvd": "2332000884274",
-    "tikName": "Ковровская"
+    "tikName": "Ковровская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 683,
     "uikTvd": "4334011266644",
+    "uikName": "УИК №683",
     "tikTvd": "2332000884274",
-    "tikName": "Ковровская"
+    "tikName": "Ковровская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 684,
     "uikTvd": "4334011266645",
+    "uikName": "УИК №684",
     "tikTvd": "2332000884274",
-    "tikName": "Ковровская"
+    "tikName": "Ковровская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 685,
     "uikTvd": "4334011266646",
+    "uikName": "УИК №685",
     "tikTvd": "2332000884274",
-    "tikName": "Ковровская"
+    "tikName": "Ковровская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 686,
     "uikTvd": "4334011266647",
+    "uikName": "УИК №686",
     "tikTvd": "2332000884274",
-    "tikName": "Ковровская"
+    "tikName": "Ковровская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 687,
     "uikTvd": "4334011266648",
+    "uikName": "УИК №687",
     "tikTvd": "2332000884274",
-    "tikName": "Ковровская"
+    "tikName": "Ковровская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 690,
     "uikTvd": "4334010230037",
+    "uikName": "УИК №690",
     "tikTvd": "2332000884262",
-    "tikName": "Ковровская городская"
+    "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 691,
     "uikTvd": "4334010230038",
+    "uikName": "УИК №691",
     "tikTvd": "2332000884262",
-    "tikName": "Ковровская городская"
+    "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 692,
     "uikTvd": "4334010230039",
+    "uikName": "УИК №692",
     "tikTvd": "2332000884262",
-    "tikName": "Ковровская городская"
+    "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 693,
     "uikTvd": "4334010230040",
+    "uikName": "УИК №693",
     "tikTvd": "2332000884262",
-    "tikName": "Ковровская городская"
+    "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 694,
     "uikTvd": "4334010230041",
+    "uikName": "УИК №694",
     "tikTvd": "2332000884262",
-    "tikName": "Ковровская городская"
+    "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 695,
     "uikTvd": "4334010230042",
+    "uikName": "УИК №695",
     "tikTvd": "2332000884262",
-    "tikName": "Ковровская городская"
+    "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 696,
     "uikTvd": "4334010230043",
+    "uikName": "УИК №696",
     "tikTvd": "2332000884262",
-    "tikName": "Ковровская городская"
+    "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 697,
     "uikTvd": "4334010230044",
+    "uikName": "УИК №697",
     "tikTvd": "2332000884262",
-    "tikName": "Ковровская городская"
+    "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 698,
     "uikTvd": "4334010230045",
+    "uikName": "УИК №698",
     "tikTvd": "2332000884262",
-    "tikName": "Ковровская городская"
+    "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 699,
     "uikTvd": "4334010230046",
+    "uikName": "УИК №699",
     "tikTvd": "2332000884262",
-    "tikName": "Ковровская городская"
+    "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 700,
     "uikTvd": "4334010230047",
+    "uikName": "УИК №700",
     "tikTvd": "2332000884262",
-    "tikName": "Ковровская городская"
+    "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 701,
     "uikTvd": "4334010230048",
+    "uikName": "УИК №701",
     "tikTvd": "2332000884262",
-    "tikName": "Ковровская городская"
+    "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 702,
     "uikTvd": "4334010230049",
+    "uikName": "УИК №702",
     "tikTvd": "2332000884262",
-    "tikName": "Ковровская городская"
+    "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 703,
     "uikTvd": "4334010230050",
+    "uikName": "УИК №703",
     "tikTvd": "2332000884262",
-    "tikName": "Ковровская городская"
+    "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 704,
     "uikTvd": "4334010230051",
+    "uikName": "УИК №704",
     "tikTvd": "2332000884262",
-    "tikName": "Ковровская городская"
+    "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 705,
     "uikTvd": "4334010230052",
+    "uikName": "УИК №705",
     "tikTvd": "2332000884262",
-    "tikName": "Ковровская городская"
+    "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 706,
     "uikTvd": "4334010230053",
+    "uikName": "УИК №706",
     "tikTvd": "2332000884262",
-    "tikName": "Ковровская городская"
+    "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 707,
     "uikTvd": "4334010230054",
+    "uikName": "УИК №707",
     "tikTvd": "2332000884262",
-    "tikName": "Ковровская городская"
+    "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 708,
     "uikTvd": "4334010230055",
+    "uikName": "УИК №708",
     "tikTvd": "2332000884262",
-    "tikName": "Ковровская городская"
+    "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 709,
     "uikTvd": "4334010230056",
+    "uikName": "УИК №709",
     "tikTvd": "2332000884262",
-    "tikName": "Ковровская городская"
+    "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 710,
     "uikTvd": "4334010230057",
+    "uikName": "УИК №710",
     "tikTvd": "2332000884262",
-    "tikName": "Ковровская городская"
+    "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 711,
     "uikTvd": "4334010230058",
+    "uikName": "УИК №711",
     "tikTvd": "2332000884262",
-    "tikName": "Ковровская городская"
+    "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 712,
     "uikTvd": "4334010230059",
+    "uikName": "УИК №712",
     "tikTvd": "2332000884262",
-    "tikName": "Ковровская городская"
+    "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 713,
     "uikTvd": "4334010230060",
+    "uikName": "УИК №713",
     "tikTvd": "2332000884262",
-    "tikName": "Ковровская городская"
+    "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 714,
     "uikTvd": "4334010230061",
+    "uikName": "УИК №714",
     "tikTvd": "2332000884262",
-    "tikName": "Ковровская городская"
+    "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 715,
     "uikTvd": "4334010230062",
+    "uikName": "УИК №715",
     "tikTvd": "2332000884262",
-    "tikName": "Ковровская городская"
+    "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 716,
     "uikTvd": "4334010230063",
+    "uikName": "УИК №716",
     "tikTvd": "2332000884262",
-    "tikName": "Ковровская городская"
+    "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 717,
     "uikTvd": "4334010230064",
+    "uikName": "УИК №717",
     "tikTvd": "2332000884262",
-    "tikName": "Ковровская городская"
+    "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 718,
     "uikTvd": "4334010230065",
+    "uikName": "УИК №718",
     "tikTvd": "2332000884262",
-    "tikName": "Ковровская городская"
+    "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 719,
     "uikTvd": "4334010230066",
+    "uikName": "УИК №719",
     "tikTvd": "2332000884262",
-    "tikName": "Ковровская городская"
+    "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 720,
     "uikTvd": "4334010230067",
+    "uikName": "УИК №720",
     "tikTvd": "2332000884262",
-    "tikName": "Ковровская городская"
+    "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 721,
     "uikTvd": "4334010230068",
+    "uikName": "УИК №721",
     "tikTvd": "2332000884262",
-    "tikName": "Ковровская городская"
+    "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 722,
     "uikTvd": "4334010230069",
+    "uikName": "УИК №722",
     "tikTvd": "2332000884262",
-    "tikName": "Ковровская городская"
+    "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 723,
     "uikTvd": "4334010230070",
+    "uikName": "УИК №723",
     "tikTvd": "2332000884262",
-    "tikName": "Ковровская городская"
+    "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 724,
     "uikTvd": "4334010230071",
+    "uikName": "УИК №724",
     "tikTvd": "2332000884262",
-    "tikName": "Ковровская городская"
+    "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 725,
     "uikTvd": "4334010230072",
+    "uikName": "УИК №725",
     "tikTvd": "2332000884262",
-    "tikName": "Ковровская городская"
+    "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 726,
     "uikTvd": "4334010230073",
+    "uikName": "УИК №726",
     "tikTvd": "2332000884262",
-    "tikName": "Ковровская городская"
+    "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 727,
     "uikTvd": "4334010230074",
+    "uikName": "УИК №727",
     "tikTvd": "2332000884262",
-    "tikName": "Ковровская городская"
+    "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 728,
     "uikTvd": "4334010230075",
+    "uikName": "УИК №728",
     "tikTvd": "2332000884262",
-    "tikName": "Ковровская городская"
+    "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 729,
     "uikTvd": "4334010230076",
+    "uikName": "УИК №729",
     "tikTvd": "2332000884262",
-    "tikName": "Ковровская городская"
+    "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 730,
     "uikTvd": "4334010230077",
+    "uikName": "УИК №730",
     "tikTvd": "2332000884262",
-    "tikName": "Ковровская городская"
+    "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 731,
     "uikTvd": "4334010230078",
+    "uikName": "УИК №731",
     "tikTvd": "2332000884262",
-    "tikName": "Ковровская городская"
+    "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 732,
     "uikTvd": "4334010230079",
+    "uikName": "УИК №732",
     "tikTvd": "2332000884262",
-    "tikName": "Ковровская городская"
+    "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 733,
     "uikTvd": "4334010230080",
+    "uikName": "УИК №733",
     "tikTvd": "2332000884262",
-    "tikName": "Ковровская городская"
+    "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 734,
     "uikTvd": "4334010230081",
+    "uikName": "УИК №734",
     "tikTvd": "2332000884262",
-    "tikName": "Ковровская городская"
+    "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 735,
     "uikTvd": "4334010230082",
+    "uikName": "УИК №735",
     "tikTvd": "2332000884262",
-    "tikName": "Ковровская городская"
+    "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 736,
     "uikTvd": "4334010230083",
+    "uikName": "УИК №736",
     "tikTvd": "2332000884262",
-    "tikName": "Ковровская городская"
+    "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 737,
     "uikTvd": "4334010230084",
+    "uikName": "УИК №737",
     "tikTvd": "2332000884262",
-    "tikName": "Ковровская городская"
+    "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 738,
     "uikTvd": "4334010230085",
+    "uikName": "УИК №738",
     "tikTvd": "2332000884262",
-    "tikName": "Ковровская городская"
+    "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 739,
     "uikTvd": "4334010230086",
+    "uikName": "УИК №739",
     "tikTvd": "2332000884262",
-    "tikName": "Ковровская городская"
+    "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 740,
     "uikTvd": "4334010230087",
+    "uikName": "УИК №740",
     "tikTvd": "2332000884262",
-    "tikName": "Ковровская городская"
+    "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 741,
     "uikTvd": "4334010230088",
+    "uikName": "УИК №741",
     "tikTvd": "2332000884262",
-    "tikName": "Ковровская городская"
+    "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 742,
     "uikTvd": "4334010230089",
+    "uikName": "УИК №742",
     "tikTvd": "2332000884262",
-    "tikName": "Ковровская городская"
+    "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 743,
     "uikTvd": "4334010230090",
+    "uikName": "УИК №743",
     "tikTvd": "2332000884262",
-    "tikName": "Ковровская городская"
+    "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 744,
     "uikTvd": "4334010230091",
+    "uikName": "УИК №744",
     "tikTvd": "2332000884262",
-    "tikName": "Ковровская городская"
+    "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 745,
     "uikTvd": "4334010230092",
+    "uikName": "УИК №745",
     "tikTvd": "2332000884262",
-    "tikName": "Ковровская городская"
+    "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 746,
     "uikTvd": "4334010230093",
+    "uikName": "УИК №746",
     "tikTvd": "2332000884262",
-    "tikName": "Ковровская городская"
+    "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 747,
     "uikTvd": "4334010230094",
+    "uikName": "УИК №747",
     "tikTvd": "2332000884262",
-    "tikName": "Ковровская городская"
+    "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 748,
     "uikTvd": "4334010230095",
+    "uikName": "УИК №748",
     "tikTvd": "2332000884262",
-    "tikName": "Ковровская городская"
+    "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 749,
     "uikTvd": "4334010230096",
+    "uikName": "УИК №749",
     "tikTvd": "2332000884262",
-    "tikName": "Ковровская городская"
+    "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 750,
     "uikTvd": "4334010230097",
+    "uikName": "УИК №750",
     "tikTvd": "2332000884262",
-    "tikName": "Ковровская городская"
+    "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 751,
     "uikTvd": "4334010230098",
+    "uikName": "УИК №751",
     "tikTvd": "2332000884262",
-    "tikName": "Ковровская городская"
+    "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 752,
     "uikTvd": "4334010230099",
+    "uikName": "УИК №752",
     "tikTvd": "2332000884262",
-    "tikName": "Ковровская городская"
+    "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 753,
     "uikTvd": "4334010230100",
+    "uikName": "УИК №753",
     "tikTvd": "2332000884262",
-    "tikName": "Ковровская городская"
+    "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 754,
     "uikTvd": "4334010230102",
+    "uikName": "УИК №754",
     "tikTvd": "2332000884262",
-    "tikName": "Ковровская городская"
+    "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 759,
     "uikTvd": "4334005324643",
+    "uikName": "УИК №759",
     "tikTvd": "2332000884276",
-    "tikName": "Вязниковская"
+    "tikName": "Вязниковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 760,
     "uikTvd": "4334005324644",
+    "uikName": "УИК №760",
     "tikTvd": "2332000884276",
-    "tikName": "Вязниковская"
+    "tikName": "Вязниковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 761,
     "uikTvd": "4334005324645",
+    "uikName": "УИК №761",
     "tikTvd": "2332000884276",
-    "tikName": "Вязниковская"
+    "tikName": "Вязниковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 762,
     "uikTvd": "4334005324646",
+    "uikName": "УИК №762",
     "tikTvd": "2332000884276",
-    "tikName": "Вязниковская"
+    "tikName": "Вязниковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 763,
     "uikTvd": "4334005324647",
+    "uikName": "УИК №763",
     "tikTvd": "2332000884276",
-    "tikName": "Вязниковская"
+    "tikName": "Вязниковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 764,
     "uikTvd": "4334005324648",
+    "uikName": "УИК №764",
     "tikTvd": "2332000884276",
-    "tikName": "Вязниковская"
+    "tikName": "Вязниковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 765,
     "uikTvd": "4334005324649",
+    "uikName": "УИК №765",
     "tikTvd": "2332000884276",
-    "tikName": "Вязниковская"
+    "tikName": "Вязниковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 766,
     "uikTvd": "4334005324650",
+    "uikName": "УИК №766",
     "tikTvd": "2332000884276",
-    "tikName": "Вязниковская"
+    "tikName": "Вязниковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 767,
     "uikTvd": "4334005324651",
+    "uikName": "УИК №767",
     "tikTvd": "2332000884276",
-    "tikName": "Вязниковская"
+    "tikName": "Вязниковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 768,
     "uikTvd": "4334005324652",
+    "uikName": "УИК №768",
     "tikTvd": "2332000884276",
-    "tikName": "Вязниковская"
+    "tikName": "Вязниковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 769,
     "uikTvd": "4334005324653",
+    "uikName": "УИК №769",
     "tikTvd": "2332000884276",
-    "tikName": "Вязниковская"
+    "tikName": "Вязниковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 770,
     "uikTvd": "4334005324654",
+    "uikName": "УИК №770",
     "tikTvd": "2332000884276",
-    "tikName": "Вязниковская"
+    "tikName": "Вязниковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 771,
     "uikTvd": "4334005324655",
+    "uikName": "УИК №771",
     "tikTvd": "2332000884276",
-    "tikName": "Вязниковская"
+    "tikName": "Вязниковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 772,
     "uikTvd": "4334005324656",
+    "uikName": "УИК №772",
     "tikTvd": "2332000884276",
-    "tikName": "Вязниковская"
+    "tikName": "Вязниковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 773,
     "uikTvd": "4334005324657",
+    "uikName": "УИК №773",
     "tikTvd": "2332000884276",
-    "tikName": "Вязниковская"
+    "tikName": "Вязниковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 774,
     "uikTvd": "4334005324658",
+    "uikName": "УИК №774",
     "tikTvd": "2332000884276",
-    "tikName": "Вязниковская"
+    "tikName": "Вязниковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 775,
     "uikTvd": "4334005324659",
+    "uikName": "УИК №775",
     "tikTvd": "2332000884276",
-    "tikName": "Вязниковская"
+    "tikName": "Вязниковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 776,
     "uikTvd": "4334005324660",
+    "uikName": "УИК №776",
     "tikTvd": "2332000884276",
-    "tikName": "Вязниковская"
+    "tikName": "Вязниковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 777,
     "uikTvd": "4334005324661",
+    "uikName": "УИК №777",
     "tikTvd": "2332000884276",
-    "tikName": "Вязниковская"
+    "tikName": "Вязниковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 778,
     "uikTvd": "4334005324662",
+    "uikName": "УИК №778",
     "tikTvd": "2332000884276",
-    "tikName": "Вязниковская"
+    "tikName": "Вязниковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 779,
     "uikTvd": "4334005324663",
+    "uikName": "УИК №779",
     "tikTvd": "2332000884276",
-    "tikName": "Вязниковская"
+    "tikName": "Вязниковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 780,
     "uikTvd": "4334005324664",
+    "uikName": "УИК №780",
     "tikTvd": "2332000884276",
-    "tikName": "Вязниковская"
+    "tikName": "Вязниковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 781,
     "uikTvd": "4334005324665",
+    "uikName": "УИК №781",
     "tikTvd": "2332000884276",
-    "tikName": "Вязниковская"
+    "tikName": "Вязниковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 782,
     "uikTvd": "4334005324666",
+    "uikName": "УИК №782",
     "tikTvd": "2332000884276",
-    "tikName": "Вязниковская"
+    "tikName": "Вязниковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 783,
     "uikTvd": "4334005324667",
+    "uikName": "УИК №783",
     "tikTvd": "2332000884276",
-    "tikName": "Вязниковская"
+    "tikName": "Вязниковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 784,
     "uikTvd": "4334005324668",
+    "uikName": "УИК №784",
     "tikTvd": "2332000884276",
-    "tikName": "Вязниковская"
+    "tikName": "Вязниковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 785,
     "uikTvd": "4334005324669",
+    "uikName": "УИК №785",
     "tikTvd": "2332000884276",
-    "tikName": "Вязниковская"
+    "tikName": "Вязниковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 786,
     "uikTvd": "4334005324670",
+    "uikName": "УИК №786",
     "tikTvd": "2332000884276",
-    "tikName": "Вязниковская"
+    "tikName": "Вязниковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 787,
     "uikTvd": "4334005324671",
+    "uikName": "УИК №787",
     "tikTvd": "2332000884276",
-    "tikName": "Вязниковская"
+    "tikName": "Вязниковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 788,
     "uikTvd": "4334005324672",
+    "uikName": "УИК №788",
     "tikTvd": "2332000884276",
-    "tikName": "Вязниковская"
+    "tikName": "Вязниковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 789,
     "uikTvd": "4334005324673",
+    "uikName": "УИК №789",
     "tikTvd": "2332000884276",
-    "tikName": "Вязниковская"
+    "tikName": "Вязниковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 790,
     "uikTvd": "4334005324674",
+    "uikName": "УИК №790",
     "tikTvd": "2332000884276",
-    "tikName": "Вязниковская"
+    "tikName": "Вязниковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 791,
     "uikTvd": "4334005324675",
+    "uikName": "УИК №791",
     "tikTvd": "2332000884276",
-    "tikName": "Вязниковская"
+    "tikName": "Вязниковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 792,
     "uikTvd": "4334005324676",
+    "uikName": "УИК №792",
     "tikTvd": "2332000884276",
-    "tikName": "Вязниковская"
+    "tikName": "Вязниковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 793,
     "uikTvd": "4334005324677",
+    "uikName": "УИК №793",
     "tikTvd": "2332000884276",
-    "tikName": "Вязниковская"
+    "tikName": "Вязниковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 794,
     "uikTvd": "4334005324678",
+    "uikName": "УИК №794",
     "tikTvd": "2332000884276",
-    "tikName": "Вязниковская"
+    "tikName": "Вязниковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 795,
     "uikTvd": "4334005324679",
+    "uikName": "УИК №795",
     "tikTvd": "2332000884276",
-    "tikName": "Вязниковская"
+    "tikName": "Вязниковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 796,
     "uikTvd": "4334005324680",
+    "uikName": "УИК №796",
     "tikTvd": "2332000884276",
-    "tikName": "Вязниковская"
+    "tikName": "Вязниковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 797,
     "uikTvd": "4334005324681",
+    "uikName": "УИК №797",
     "tikTvd": "2332000884276",
-    "tikName": "Вязниковская"
+    "tikName": "Вязниковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 798,
     "uikTvd": "4334005324682",
+    "uikName": "УИК №798",
     "tikTvd": "2332000884276",
-    "tikName": "Вязниковская"
+    "tikName": "Вязниковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 799,
     "uikTvd": "4334005324683",
+    "uikName": "УИК №799",
     "tikTvd": "2332000884276",
-    "tikName": "Вязниковская"
+    "tikName": "Вязниковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 800,
     "uikTvd": "4334005324684",
+    "uikName": "УИК №800",
     "tikTvd": "2332000884276",
-    "tikName": "Вязниковская"
+    "tikName": "Вязниковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 801,
     "uikTvd": "4334005324685",
+    "uikName": "УИК №801",
     "tikTvd": "2332000884276",
-    "tikName": "Вязниковская"
+    "tikName": "Вязниковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 802,
     "uikTvd": "4334005324686",
+    "uikName": "УИК №802",
     "tikTvd": "2332000884276",
-    "tikName": "Вязниковская"
+    "tikName": "Вязниковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 803,
     "uikTvd": "4334005324687",
+    "uikName": "УИК №803",
     "tikTvd": "2332000884276",
-    "tikName": "Вязниковская"
+    "tikName": "Вязниковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 804,
     "uikTvd": "4334005324688",
+    "uikName": "УИК №804",
     "tikTvd": "2332000884276",
-    "tikName": "Вязниковская"
+    "tikName": "Вязниковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 805,
     "uikTvd": "4334005324689",
+    "uikName": "УИК №805",
     "tikTvd": "2332000884276",
-    "tikName": "Вязниковская"
+    "tikName": "Вязниковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 806,
     "uikTvd": "4334005324690",
+    "uikName": "УИК №806",
     "tikTvd": "2332000884276",
-    "tikName": "Вязниковская"
+    "tikName": "Вязниковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 807,
     "uikTvd": "4334005324691",
+    "uikName": "УИК №807",
     "tikTvd": "2332000884276",
-    "tikName": "Вязниковская"
+    "tikName": "Вязниковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 808,
     "uikTvd": "4334005324692",
+    "uikName": "УИК №808",
     "tikTvd": "2332000884276",
-    "tikName": "Вязниковская"
+    "tikName": "Вязниковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 809,
     "uikTvd": "4334005324693",
+    "uikName": "УИК №809",
     "tikTvd": "2332000884276",
-    "tikName": "Вязниковская"
+    "tikName": "Вязниковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 810,
     "uikTvd": "4334005324694",
+    "uikName": "УИК №810",
     "tikTvd": "2332000884276",
-    "tikName": "Вязниковская"
+    "tikName": "Вязниковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 811,
     "uikTvd": "4334005324695",
+    "uikName": "УИК №811",
     "tikTvd": "2332000884276",
-    "tikName": "Вязниковская"
+    "tikName": "Вязниковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 812,
     "uikTvd": "4334005324696",
+    "uikName": "УИК №812",
     "tikTvd": "2332000884276",
-    "tikName": "Вязниковская"
+    "tikName": "Вязниковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 813,
     "uikTvd": "4334005324697",
+    "uikName": "УИК №813",
     "tikTvd": "2332000884276",
-    "tikName": "Вязниковская"
+    "tikName": "Вязниковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 814,
     "uikTvd": "4334005324698",
+    "uikName": "УИК №814",
     "tikTvd": "2332000884276",
-    "tikName": "Вязниковская"
+    "tikName": "Вязниковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 815,
     "uikTvd": "4334005324699",
+    "uikName": "УИК №815",
     "tikTvd": "2332000884276",
-    "tikName": "Вязниковская"
+    "tikName": "Вязниковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 816,
     "uikTvd": "4334005324700",
+    "uikName": "УИК №816",
     "tikTvd": "2332000884276",
-    "tikName": "Вязниковская"
+    "tikName": "Вязниковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 817,
     "uikTvd": "4334005324701",
+    "uikName": "УИК №817",
     "tikTvd": "2332000884276",
-    "tikName": "Вязниковская"
+    "tikName": "Вязниковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 818,
     "uikTvd": "4334005324702",
+    "uikName": "УИК №818",
     "tikTvd": "2332000884276",
-    "tikName": "Вязниковская"
+    "tikName": "Вязниковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 819,
     "uikTvd": "4334005324703",
+    "uikName": "УИК №819",
     "tikTvd": "2332000884276",
-    "tikName": "Вязниковская"
+    "tikName": "Вязниковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 820,
     "uikTvd": "4334005324704",
+    "uikName": "УИК №820",
     "tikTvd": "2332000884276",
-    "tikName": "Вязниковская"
+    "tikName": "Вязниковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 821,
     "uikTvd": "4334005324705",
+    "uikName": "УИК №821",
     "tikTvd": "2332000884276",
-    "tikName": "Вязниковская"
+    "tikName": "Вязниковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 822,
     "uikTvd": "4334005324706",
+    "uikName": "УИК №822",
     "tikTvd": "2332000884276",
-    "tikName": "Вязниковская"
+    "tikName": "Вязниковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 823,
     "uikTvd": "4334005324707",
+    "uikName": "УИК №823",
     "tikTvd": "2332000884276",
-    "tikName": "Вязниковская"
+    "tikName": "Вязниковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 824,
     "uikTvd": "4334005324708",
+    "uikName": "УИК №824",
     "tikTvd": "2332000884276",
-    "tikName": "Вязниковская"
+    "tikName": "Вязниковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 825,
     "uikTvd": "4334005324709",
+    "uikName": "УИК №825",
     "tikTvd": "2332000884276",
-    "tikName": "Вязниковская"
+    "tikName": "Вязниковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 826,
     "uikTvd": "4334005324710",
+    "uikName": "УИК №826",
     "tikTvd": "2332000884276",
-    "tikName": "Вязниковская"
+    "tikName": "Вязниковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 827,
     "uikTvd": "4334006264111",
+    "uikName": "УИК №827",
     "tikTvd": "2332000884269",
-    "tikName": "Гороховецкая"
+    "tikName": "Гороховецкая",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 828,
     "uikTvd": "4334006264112",
+    "uikName": "УИК №828",
     "tikTvd": "2332000884269",
-    "tikName": "Гороховецкая"
+    "tikName": "Гороховецкая",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 829,
     "uikTvd": "4334006264113",
+    "uikName": "УИК №829",
     "tikTvd": "2332000884269",
-    "tikName": "Гороховецкая"
+    "tikName": "Гороховецкая",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 830,
     "uikTvd": "4334006264114",
+    "uikName": "УИК №830",
     "tikTvd": "2332000884269",
-    "tikName": "Гороховецкая"
+    "tikName": "Гороховецкая",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 831,
     "uikTvd": "4334006264115",
+    "uikName": "УИК №831",
     "tikTvd": "2332000884269",
-    "tikName": "Гороховецкая"
+    "tikName": "Гороховецкая",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 832,
     "uikTvd": "4334006264116",
+    "uikName": "УИК №832",
     "tikTvd": "2332000884269",
-    "tikName": "Гороховецкая"
+    "tikName": "Гороховецкая",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 833,
     "uikTvd": "4334006264117",
+    "uikName": "УИК №833",
     "tikTvd": "2332000884269",
-    "tikName": "Гороховецкая"
+    "tikName": "Гороховецкая",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 834,
     "uikTvd": "4334006264118",
+    "uikName": "УИК №834",
     "tikTvd": "2332000884269",
-    "tikName": "Гороховецкая"
+    "tikName": "Гороховецкая",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 835,
     "uikTvd": "4334006264119",
+    "uikName": "УИК №835",
     "tikTvd": "2332000884269",
-    "tikName": "Гороховецкая"
+    "tikName": "Гороховецкая",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 836,
     "uikTvd": "4334006264120",
+    "uikName": "УИК №836",
     "tikTvd": "2332000884269",
-    "tikName": "Гороховецкая"
+    "tikName": "Гороховецкая",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 837,
     "uikTvd": "4334006264121",
+    "uikName": "УИК №837",
     "tikTvd": "2332000884269",
-    "tikName": "Гороховецкая"
+    "tikName": "Гороховецкая",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 838,
     "uikTvd": "4334006264122",
+    "uikName": "УИК №838",
     "tikTvd": "2332000884269",
-    "tikName": "Гороховецкая"
+    "tikName": "Гороховецкая",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 840,
     "uikTvd": "4334006264123",
+    "uikName": "УИК №840",
     "tikTvd": "2332000884269",
-    "tikName": "Гороховецкая"
+    "tikName": "Гороховецкая",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 841,
     "uikTvd": "4334006264124",
+    "uikName": "УИК №841",
     "tikTvd": "2332000884269",
-    "tikName": "Гороховецкая"
+    "tikName": "Гороховецкая",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 842,
     "uikTvd": "4334006264125",
+    "uikName": "УИК №842",
     "tikTvd": "2332000884269",
-    "tikName": "Гороховецкая"
+    "tikName": "Гороховецкая",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 843,
     "uikTvd": "4334006264126",
+    "uikName": "УИК №843",
     "tikTvd": "2332000884269",
-    "tikName": "Гороховецкая"
+    "tikName": "Гороховецкая",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 844,
     "uikTvd": "4334006264127",
+    "uikName": "УИК №844",
     "tikTvd": "2332000884269",
-    "tikName": "Гороховецкая"
+    "tikName": "Гороховецкая",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 845,
     "uikTvd": "4334006264128",
+    "uikName": "УИК №845",
     "tikTvd": "2332000884269",
-    "tikName": "Гороховецкая"
+    "tikName": "Гороховецкая",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 846,
     "uikTvd": "4334006264129",
+    "uikName": "УИК №846",
     "tikTvd": "2332000884269",
-    "tikName": "Гороховецкая"
+    "tikName": "Гороховецкая",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 847,
     "uikTvd": "4334006264130",
+    "uikName": "УИК №847",
     "tikTvd": "2332000884269",
-    "tikName": "Гороховецкая"
+    "tikName": "Гороховецкая",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 854,
     "uikTvd": "4334014224792",
+    "uikName": "УИК №854",
     "tikTvd": "2332000884284",
-    "tikName": "Муром округ"
+    "tikName": "Муром округ",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 855,
     "uikTvd": "4334014224793",
+    "uikName": "УИК №855",
     "tikTvd": "2332000884284",
-    "tikName": "Муром округ"
+    "tikName": "Муром округ",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 856,
     "uikTvd": "4334014224794",
+    "uikName": "УИК №856",
     "tikTvd": "2332000884284",
-    "tikName": "Муром округ"
+    "tikName": "Муром округ",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 857,
     "uikTvd": "4334014224795",
+    "uikName": "УИК №857",
     "tikTvd": "2332000884284",
-    "tikName": "Муром округ"
+    "tikName": "Муром округ",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 858,
     "uikTvd": "4334014224796",
+    "uikName": "УИК №858",
     "tikTvd": "2332000884284",
-    "tikName": "Муром округ"
+    "tikName": "Муром округ",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 859,
     "uikTvd": "4334014224797",
+    "uikName": "УИК №859",
     "tikTvd": "2332000884284",
-    "tikName": "Муром округ"
+    "tikName": "Муром округ",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 860,
     "uikTvd": "4334014224798",
+    "uikName": "УИК №860",
     "tikTvd": "2332000884284",
-    "tikName": "Муром округ"
+    "tikName": "Муром округ",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 861,
     "uikTvd": "4334014224799",
+    "uikName": "УИК №861",
     "tikTvd": "2332000884284",
-    "tikName": "Муром округ"
+    "tikName": "Муром округ",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 862,
     "uikTvd": "4334014224800",
+    "uikName": "УИК №862",
     "tikTvd": "2332000884284",
-    "tikName": "Муром округ"
+    "tikName": "Муром округ",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 863,
     "uikTvd": "4334014224801",
+    "uikName": "УИК №863",
     "tikTvd": "2332000884284",
-    "tikName": "Муром округ"
+    "tikName": "Муром округ",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 864,
     "uikTvd": "4334014224802",
+    "uikName": "УИК №864",
     "tikTvd": "2332000884284",
-    "tikName": "Муром округ"
+    "tikName": "Муром округ",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 865,
     "uikTvd": "4334014224803",
+    "uikName": "УИК №865",
     "tikTvd": "2332000884284",
-    "tikName": "Муром округ"
+    "tikName": "Муром округ",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 866,
     "uikTvd": "4334014224804",
+    "uikName": "УИК №866",
     "tikTvd": "2332000884284",
-    "tikName": "Муром округ"
+    "tikName": "Муром округ",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 867,
     "uikTvd": "4334014224805",
+    "uikName": "УИК №867",
     "tikTvd": "2332000884284",
-    "tikName": "Муром округ"
+    "tikName": "Муром округ",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 868,
     "uikTvd": "4334014224806",
+    "uikName": "УИК №868",
     "tikTvd": "2332000884284",
-    "tikName": "Муром округ"
+    "tikName": "Муром округ",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 869,
     "uikTvd": "4334014224807",
+    "uikName": "УИК №869",
     "tikTvd": "2332000884284",
-    "tikName": "Муром округ"
+    "tikName": "Муром округ",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 870,
     "uikTvd": "4334014224808",
+    "uikName": "УИК №870",
     "tikTvd": "2332000884284",
-    "tikName": "Муром округ"
+    "tikName": "Муром округ",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 871,
     "uikTvd": "4334014224809",
+    "uikName": "УИК №871",
     "tikTvd": "2332000884284",
-    "tikName": "Муром округ"
+    "tikName": "Муром округ",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 872,
     "uikTvd": "4334014224810",
+    "uikName": "УИК №872",
     "tikTvd": "2332000884284",
-    "tikName": "Муром округ"
+    "tikName": "Муром округ",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 873,
     "uikTvd": "4334014224811",
+    "uikName": "УИК №873",
     "tikTvd": "2332000884284",
-    "tikName": "Муром округ"
+    "tikName": "Муром округ",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 874,
     "uikTvd": "4334014224812",
+    "uikName": "УИК №874",
     "tikTvd": "2332000884284",
-    "tikName": "Муром округ"
+    "tikName": "Муром округ",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 875,
     "uikTvd": "4334014224813",
+    "uikName": "УИК №875",
     "tikTvd": "2332000884284",
-    "tikName": "Муром округ"
+    "tikName": "Муром округ",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 876,
     "uikTvd": "4334014224814",
+    "uikName": "УИК №876",
     "tikTvd": "2332000884284",
-    "tikName": "Муром округ"
+    "tikName": "Муром округ",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 877,
     "uikTvd": "4334014224815",
+    "uikName": "УИК №877",
     "tikTvd": "2332000884284",
-    "tikName": "Муром округ"
+    "tikName": "Муром округ",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 878,
     "uikTvd": "4334014224816",
+    "uikName": "УИК №878",
     "tikTvd": "2332000884284",
-    "tikName": "Муром округ"
+    "tikName": "Муром округ",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 879,
     "uikTvd": "4334014224817",
+    "uikName": "УИК №879",
     "tikTvd": "2332000884284",
-    "tikName": "Муром округ"
+    "tikName": "Муром округ",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 880,
     "uikTvd": "4334014224818",
+    "uikName": "УИК №880",
     "tikTvd": "2332000884284",
-    "tikName": "Муром округ"
+    "tikName": "Муром округ",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 881,
     "uikTvd": "4334014224819",
+    "uikName": "УИК №881",
     "tikTvd": "2332000884284",
-    "tikName": "Муром округ"
+    "tikName": "Муром округ",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 882,
     "uikTvd": "4334014224820",
+    "uikName": "УИК №882",
     "tikTvd": "2332000884284",
-    "tikName": "Муром округ"
+    "tikName": "Муром округ",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 883,
     "uikTvd": "4334014224821",
+    "uikName": "УИК №883",
     "tikTvd": "2332000884284",
-    "tikName": "Муром округ"
+    "tikName": "Муром округ",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 884,
     "uikTvd": "4334014224822",
+    "uikName": "УИК №884",
     "tikTvd": "2332000884284",
-    "tikName": "Муром округ"
+    "tikName": "Муром округ",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 885,
     "uikTvd": "4334014224823",
+    "uikName": "УИК №885",
     "tikTvd": "2332000884284",
-    "tikName": "Муром округ"
+    "tikName": "Муром округ",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 886,
     "uikTvd": "4334014224824",
+    "uikName": "УИК №886",
     "tikTvd": "2332000884284",
-    "tikName": "Муром округ"
+    "tikName": "Муром округ",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 887,
     "uikTvd": "4334014224825",
+    "uikName": "УИК №887",
     "tikTvd": "2332000884284",
-    "tikName": "Муром округ"
+    "tikName": "Муром округ",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 888,
     "uikTvd": "4334014224826",
+    "uikName": "УИК №888",
     "tikTvd": "2332000884284",
-    "tikName": "Муром округ"
+    "tikName": "Муром округ",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 889,
     "uikTvd": "4334014224827",
+    "uikName": "УИК №889",
     "tikTvd": "2332000884284",
-    "tikName": "Муром округ"
+    "tikName": "Муром округ",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 890,
     "uikTvd": "4334014224828",
+    "uikName": "УИК №890",
     "tikTvd": "2332000884284",
-    "tikName": "Муром округ"
+    "tikName": "Муром округ",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 891,
     "uikTvd": "4334014224829",
+    "uikName": "УИК №891",
     "tikTvd": "2332000884284",
-    "tikName": "Муром округ"
+    "tikName": "Муром округ",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 892,
     "uikTvd": "4334014224830",
+    "uikName": "УИК №892",
     "tikTvd": "2332000884284",
-    "tikName": "Муром округ"
+    "tikName": "Муром округ",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 893,
     "uikTvd": "4334014224831",
+    "uikName": "УИК №893",
     "tikTvd": "2332000884284",
-    "tikName": "Муром округ"
+    "tikName": "Муром округ",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 894,
     "uikTvd": "4334014224832",
+    "uikName": "УИК №894",
     "tikTvd": "2332000884284",
-    "tikName": "Муром округ"
+    "tikName": "Муром округ",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 895,
     "uikTvd": "4334014224833",
+    "uikName": "УИК №895",
     "tikTvd": "2332000884284",
-    "tikName": "Муром округ"
+    "tikName": "Муром округ",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 896,
     "uikTvd": "4334014224834",
+    "uikName": "УИК №896",
     "tikTvd": "2332000884284",
-    "tikName": "Муром округ"
+    "tikName": "Муром округ",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 897,
     "uikTvd": "4334014224835",
+    "uikName": "УИК №897",
     "tikTvd": "2332000884284",
-    "tikName": "Муром округ"
+    "tikName": "Муром округ",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 898,
     "uikTvd": "4334014224836",
+    "uikName": "УИК №898",
     "tikTvd": "2332000884284",
-    "tikName": "Муром округ"
+    "tikName": "Муром округ",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 899,
     "uikTvd": "4334014224837",
+    "uikName": "УИК №899",
     "tikTvd": "2332000884284",
-    "tikName": "Муром округ"
+    "tikName": "Муром округ",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 900,
     "uikTvd": "4334014224838",
+    "uikName": "УИК №900",
     "tikTvd": "2332000884284",
-    "tikName": "Муром округ"
+    "tikName": "Муром округ",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 901,
     "uikTvd": "4334014224839",
+    "uikName": "УИК №901",
     "tikTvd": "2332000884284",
-    "tikName": "Муром округ"
+    "tikName": "Муром округ",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 902,
     "uikTvd": "4334014224840",
+    "uikName": "УИК №902",
     "tikTvd": "2332000884284",
-    "tikName": "Муром округ"
+    "tikName": "Муром округ",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 903,
     "uikTvd": "4334014224841",
+    "uikName": "УИК №903",
     "tikTvd": "2332000884284",
-    "tikName": "Муром округ"
+    "tikName": "Муром округ",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 904,
     "uikTvd": "4334014224842",
+    "uikName": "УИК №904",
     "tikTvd": "2332000884284",
-    "tikName": "Муром округ"
+    "tikName": "Муром округ",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 905,
     "uikTvd": "4334014224843",
+    "uikName": "УИК №905",
     "tikTvd": "2332000884284",
-    "tikName": "Муром округ"
+    "tikName": "Муром округ",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 906,
     "uikTvd": "4334014224844",
+    "uikName": "УИК №906",
     "tikTvd": "2332000884284",
-    "tikName": "Муром округ"
+    "tikName": "Муром округ",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 907,
     "uikTvd": "4334014224845",
+    "uikName": "УИК №907",
     "tikTvd": "2332000884284",
-    "tikName": "Муром округ"
+    "tikName": "Муром округ",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 908,
     "uikTvd": "4334014224846",
+    "uikName": "УИК №908",
     "tikTvd": "2332000884284",
-    "tikName": "Муром округ"
+    "tikName": "Муром округ",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 909,
     "uikTvd": "4334014224847",
+    "uikName": "УИК №909",
     "tikTvd": "2332000884284",
-    "tikName": "Муром округ"
+    "tikName": "Муром округ",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 910,
     "uikTvd": "4334014224848",
+    "uikName": "УИК №910",
     "tikTvd": "2332000884284",
-    "tikName": "Муром округ"
+    "tikName": "Муром округ",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 911,
     "uikTvd": "4334014224849",
+    "uikName": "УИК №911",
     "tikTvd": "2332000884284",
-    "tikName": "Муром округ"
+    "tikName": "Муром округ",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 912,
     "uikTvd": "4334014224850",
+    "uikName": "УИК №912",
     "tikTvd": "2332000884284",
-    "tikName": "Муром округ"
+    "tikName": "Муром округ",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 913,
     "uikTvd": "4334014224851",
+    "uikName": "УИК №913",
     "tikTvd": "2332000884284",
-    "tikName": "Муром округ"
+    "tikName": "Муром округ",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 914,
     "uikTvd": "4334014224852",
+    "uikName": "УИК №914",
     "tikTvd": "2332000884284",
-    "tikName": "Муром округ"
+    "tikName": "Муром округ",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 915,
     "uikTvd": "4334014224853",
+    "uikName": "УИК №915",
     "tikTvd": "2332000884284",
-    "tikName": "Муром округ"
+    "tikName": "Муром округ",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 916,
     "uikTvd": "4334014224854",
+    "uikName": "УИК №916",
     "tikTvd": "2332000884284",
-    "tikName": "Муром округ"
+    "tikName": "Муром округ",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 917,
     "uikTvd": "4334027143830",
+    "uikName": "УИК №917",
     "tikTvd": "2332000884270",
-    "tikName": "Муромская"
+    "tikName": "Муромская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 918,
     "uikTvd": "4334027143831",
+    "uikName": "УИК №918",
     "tikTvd": "2332000884270",
-    "tikName": "Муромская"
+    "tikName": "Муромская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 919,
     "uikTvd": "4334027143832",
+    "uikName": "УИК №919",
     "tikTvd": "2332000884270",
-    "tikName": "Муромская"
+    "tikName": "Муромская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 920,
     "uikTvd": "4334027143833",
+    "uikName": "УИК №920",
     "tikTvd": "2332000884270",
-    "tikName": "Муромская"
+    "tikName": "Муромская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 921,
     "uikTvd": "4334027143834",
+    "uikName": "УИК №921",
     "tikTvd": "2332000884270",
-    "tikName": "Муромская"
+    "tikName": "Муромская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 922,
     "uikTvd": "4334027143835",
+    "uikName": "УИК №922",
     "tikTvd": "2332000884270",
-    "tikName": "Муромская"
+    "tikName": "Муромская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 923,
     "uikTvd": "4334027143836",
+    "uikName": "УИК №923",
     "tikTvd": "2332000884270",
-    "tikName": "Муромская"
+    "tikName": "Муромская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 924,
     "uikTvd": "4334027143837",
+    "uikName": "УИК №924",
     "tikTvd": "2332000884270",
-    "tikName": "Муромская"
+    "tikName": "Муромская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 925,
     "uikTvd": "4334027143838",
+    "uikName": "УИК №925",
     "tikTvd": "2332000884270",
-    "tikName": "Муромская"
+    "tikName": "Муромская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 926,
     "uikTvd": "4334027143839",
+    "uikName": "УИК №926",
     "tikTvd": "2332000884270",
-    "tikName": "Муромская"
+    "tikName": "Муромская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 927,
     "uikTvd": "4334027143840",
+    "uikName": "УИК №927",
     "tikTvd": "2332000884270",
-    "tikName": "Муромская"
+    "tikName": "Муромская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 928,
     "uikTvd": "4334027143841",
+    "uikName": "УИК №928",
     "tikTvd": "2332000884270",
-    "tikName": "Муромская"
+    "tikName": "Муромская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 929,
     "uikTvd": "4334027143842",
+    "uikName": "УИК №929",
     "tikTvd": "2332000884270",
-    "tikName": "Муромская"
+    "tikName": "Муромская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 930,
     "uikTvd": "4334027143843",
+    "uikName": "УИК №930",
     "tikTvd": "2332000884270",
-    "tikName": "Муромская"
+    "tikName": "Муромская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 931,
     "uikTvd": "4334027143844",
+    "uikName": "УИК №931",
     "tikTvd": "2332000884270",
-    "tikName": "Муромская"
+    "tikName": "Муромская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 932,
     "uikTvd": "4334027143845",
+    "uikName": "УИК №932",
     "tikTvd": "2332000884270",
-    "tikName": "Муромская"
+    "tikName": "Муромская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 933,
     "uikTvd": "4334027143846",
+    "uikName": "УИК №933",
     "tikTvd": "2332000884270",
-    "tikName": "Муромская"
+    "tikName": "Муромская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 934,
     "uikTvd": "4334027143847",
+    "uikName": "УИК №934",
     "tikTvd": "2332000884270",
-    "tikName": "Муромская"
+    "tikName": "Муромская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 935,
     "uikTvd": "4334027143848",
+    "uikName": "УИК №935",
     "tikTvd": "2332000884270",
-    "tikName": "Муромская"
+    "tikName": "Муромская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 936,
     "uikTvd": "4334027143849",
+    "uikName": "УИК №936",
     "tikTvd": "2332000884270",
-    "tikName": "Муромская"
+    "tikName": "Муромская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 937,
     "uikTvd": "4334027143850",
+    "uikName": "УИК №937",
     "tikTvd": "2332000884270",
-    "tikName": "Муромская"
+    "tikName": "Муромская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 938,
     "uikTvd": "4334027143851",
+    "uikName": "УИК №938",
     "tikTvd": "2332000884270",
-    "tikName": "Муромская"
+    "tikName": "Муромская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 939,
     "uikTvd": "4334027143852",
+    "uikName": "УИК №939",
     "tikTvd": "2332000884270",
-    "tikName": "Муромская"
+    "tikName": "Муромская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 940,
     "uikTvd": "4334027143853",
+    "uikName": "УИК №940",
     "tikTvd": "2332000884270",
-    "tikName": "Муромская"
+    "tikName": "Муромская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 941,
     "uikTvd": "4334027143854",
+    "uikName": "УИК №941",
     "tikTvd": "2332000884270",
-    "tikName": "Муромская"
+    "tikName": "Муромская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 942,
     "uikTvd": "4334027143855",
+    "uikName": "УИК №942",
     "tikTvd": "2332000884270",
-    "tikName": "Муромская"
+    "tikName": "Муромская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 943,
     "uikTvd": "4334027143856",
+    "uikName": "УИК №943",
     "tikTvd": "2332000884270",
-    "tikName": "Муромская"
+    "tikName": "Муромская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 944,
     "uikTvd": "4334027143857",
+    "uikName": "УИК №944",
     "tikTvd": "2332000884270",
-    "tikName": "Муромская"
+    "tikName": "Муромская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 945,
     "uikTvd": "4334017182977",
+    "uikName": "УИК №945",
     "tikTvd": "2332000884268",
-    "tikName": "Селивановская"
+    "tikName": "Селивановская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 946,
     "uikTvd": "4334017182978",
+    "uikName": "УИК №946",
     "tikTvd": "2332000884268",
-    "tikName": "Селивановская"
+    "tikName": "Селивановская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 947,
     "uikTvd": "4334017182979",
+    "uikName": "УИК №947",
     "tikTvd": "2332000884268",
-    "tikName": "Селивановская"
+    "tikName": "Селивановская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 948,
     "uikTvd": "4334017182980",
+    "uikName": "УИК №948",
     "tikTvd": "2332000884268",
-    "tikName": "Селивановская"
+    "tikName": "Селивановская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 949,
     "uikTvd": "4334017182981",
+    "uikName": "УИК №949",
     "tikTvd": "2332000884268",
-    "tikName": "Селивановская"
+    "tikName": "Селивановская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 950,
     "uikTvd": "4334017182982",
+    "uikName": "УИК №950",
     "tikTvd": "2332000884268",
-    "tikName": "Селивановская"
+    "tikName": "Селивановская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 951,
     "uikTvd": "4334017182983",
+    "uikName": "УИК №951",
     "tikTvd": "2332000884268",
-    "tikName": "Селивановская"
+    "tikName": "Селивановская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 952,
     "uikTvd": "4334017182984",
+    "uikName": "УИК №952",
     "tikTvd": "2332000884268",
-    "tikName": "Селивановская"
+    "tikName": "Селивановская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 953,
     "uikTvd": "4334017182985",
+    "uikName": "УИК №953",
     "tikTvd": "2332000884268",
-    "tikName": "Селивановская"
+    "tikName": "Селивановская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 954,
     "uikTvd": "4334017182986",
+    "uikName": "УИК №954",
     "tikTvd": "2332000884268",
-    "tikName": "Селивановская"
+    "tikName": "Селивановская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 955,
     "uikTvd": "4334017182987",
+    "uikName": "УИК №955",
     "tikTvd": "2332000884268",
-    "tikName": "Селивановская"
+    "tikName": "Селивановская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 956,
     "uikTvd": "4334017182988",
+    "uikName": "УИК №956",
     "tikTvd": "2332000884268",
-    "tikName": "Селивановская"
+    "tikName": "Селивановская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 957,
     "uikTvd": "4334017182989",
+    "uikName": "УИК №957",
     "tikTvd": "2332000884268",
-    "tikName": "Селивановская"
+    "tikName": "Селивановская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 958,
     "uikTvd": "4334017182990",
+    "uikName": "УИК №958",
     "tikTvd": "2332000884268",
-    "tikName": "Селивановская"
+    "tikName": "Селивановская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 959,
     "uikTvd": "4334017182991",
+    "uikName": "УИК №959",
     "tikTvd": "2332000884268",
-    "tikName": "Селивановская"
+    "tikName": "Селивановская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 960,
     "uikTvd": "4334017182992",
+    "uikName": "УИК №960",
     "tikTvd": "2332000884268",
-    "tikName": "Селивановская"
+    "tikName": "Селивановская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 961,
     "uikTvd": "4334017182993",
+    "uikName": "УИК №961",
     "tikTvd": "2332000884268",
-    "tikName": "Селивановская"
+    "tikName": "Селивановская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 962,
     "uikTvd": "4334017182994",
+    "uikName": "УИК №962",
     "tikTvd": "2332000884268",
-    "tikName": "Селивановская"
+    "tikName": "Селивановская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 963,
     "uikTvd": "4334017182995",
+    "uikName": "УИК №963",
     "tikTvd": "2332000884268",
-    "tikName": "Селивановская"
+    "tikName": "Селивановская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 964,
     "uikTvd": "4334017182996",
+    "uikName": "УИК №964",
     "tikTvd": "2332000884268",
-    "tikName": "Селивановская"
+    "tikName": "Селивановская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 965,
     "uikTvd": "4334017182997",
+    "uikName": "УИК №965",
     "tikTvd": "2332000884268",
-    "tikName": "Селивановская"
+    "tikName": "Селивановская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 966,
     "uikTvd": "4334017182998",
+    "uikName": "УИК №966",
     "tikTvd": "2332000884268",
-    "tikName": "Селивановская"
+    "tikName": "Селивановская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 967,
     "uikTvd": "4334017182999",
+    "uikName": "УИК №967",
     "tikTvd": "2332000884268",
-    "tikName": "Селивановская"
+    "tikName": "Селивановская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 968,
     "uikTvd": "4334017183000",
+    "uikName": "УИК №968",
     "tikTvd": "2332000884268",
-    "tikName": "Селивановская"
+    "tikName": "Селивановская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 969,
     "uikTvd": "4334017183001",
+    "uikName": "УИК №969",
     "tikTvd": "2332000884268",
-    "tikName": "Селивановская"
+    "tikName": "Селивановская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 970,
     "uikTvd": "4334017183002",
+    "uikName": "УИК №970",
     "tikTvd": "2332000884268",
-    "tikName": "Селивановская"
+    "tikName": "Селивановская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 972,
     "uikTvd": "4334013349590",
+    "uikName": "УИК №972",
     "tikTvd": "2332000884275",
-    "tikName": "Меленковская"
+    "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 973,
     "uikTvd": "4334013349591",
+    "uikName": "УИК №973",
     "tikTvd": "2332000884275",
-    "tikName": "Меленковская"
+    "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 974,
     "uikTvd": "4334013349592",
+    "uikName": "УИК №974",
     "tikTvd": "2332000884275",
-    "tikName": "Меленковская"
+    "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 975,
     "uikTvd": "4334013349593",
+    "uikName": "УИК №975",
     "tikTvd": "2332000884275",
-    "tikName": "Меленковская"
+    "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 976,
     "uikTvd": "4334013349594",
+    "uikName": "УИК №976",
     "tikTvd": "2332000884275",
-    "tikName": "Меленковская"
+    "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 977,
     "uikTvd": "4334013349595",
+    "uikName": "УИК №977",
     "tikTvd": "2332000884275",
-    "tikName": "Меленковская"
+    "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 978,
     "uikTvd": "4334013349596",
+    "uikName": "УИК №978",
     "tikTvd": "2332000884275",
-    "tikName": "Меленковская"
+    "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 979,
     "uikTvd": "4334013349597",
+    "uikName": "УИК №979",
     "tikTvd": "2332000884275",
-    "tikName": "Меленковская"
+    "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 980,
     "uikTvd": "4334013349598",
+    "uikName": "УИК №980",
     "tikTvd": "2332000884275",
-    "tikName": "Меленковская"
+    "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 981,
     "uikTvd": "4334013349599",
+    "uikName": "УИК №981",
     "tikTvd": "2332000884275",
-    "tikName": "Меленковская"
+    "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 982,
     "uikTvd": "4334013349600",
+    "uikName": "УИК №982",
     "tikTvd": "2332000884275",
-    "tikName": "Меленковская"
+    "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 983,
     "uikTvd": "4334013349601",
+    "uikName": "УИК №983",
     "tikTvd": "2332000884275",
-    "tikName": "Меленковская"
+    "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 984,
     "uikTvd": "4334013349602",
+    "uikName": "УИК №984",
     "tikTvd": "2332000884275",
-    "tikName": "Меленковская"
+    "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 985,
     "uikTvd": "4334013349603",
+    "uikName": "УИК №985",
     "tikTvd": "2332000884275",
-    "tikName": "Меленковская"
+    "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 986,
     "uikTvd": "4334013349604",
+    "uikName": "УИК №986",
     "tikTvd": "2332000884275",
-    "tikName": "Меленковская"
+    "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 987,
     "uikTvd": "4334013349605",
+    "uikName": "УИК №987",
     "tikTvd": "2332000884275",
-    "tikName": "Меленковская"
+    "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 988,
     "uikTvd": "4334013349606",
+    "uikName": "УИК №988",
     "tikTvd": "2332000884275",
-    "tikName": "Меленковская"
+    "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 989,
     "uikTvd": "4334013349607",
+    "uikName": "УИК №989",
     "tikTvd": "2332000884275",
-    "tikName": "Меленковская"
+    "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 990,
     "uikTvd": "4334013349608",
+    "uikName": "УИК №990",
     "tikTvd": "2332000884275",
-    "tikName": "Меленковская"
+    "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 991,
     "uikTvd": "4334013349609",
+    "uikName": "УИК №991",
     "tikTvd": "2332000884275",
-    "tikName": "Меленковская"
+    "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 992,
     "uikTvd": "4334013349610",
+    "uikName": "УИК №992",
     "tikTvd": "2332000884275",
-    "tikName": "Меленковская"
+    "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 993,
     "uikTvd": "4334013349611",
+    "uikName": "УИК №993",
     "tikTvd": "2332000884275",
-    "tikName": "Меленковская"
+    "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 994,
     "uikTvd": "4334013349612",
+    "uikName": "УИК №994",
     "tikTvd": "2332000884275",
-    "tikName": "Меленковская"
+    "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 995,
     "uikTvd": "4334013349613",
+    "uikName": "УИК №995",
     "tikTvd": "2332000884275",
-    "tikName": "Меленковская"
+    "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 996,
     "uikTvd": "4334013349614",
+    "uikName": "УИК №996",
     "tikTvd": "2332000884275",
-    "tikName": "Меленковская"
+    "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 997,
     "uikTvd": "4334013349615",
+    "uikName": "УИК №997",
     "tikTvd": "2332000884275",
-    "tikName": "Меленковская"
+    "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 998,
     "uikTvd": "4334013349616",
+    "uikName": "УИК №998",
     "tikTvd": "2332000884275",
-    "tikName": "Меленковская"
+    "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 999,
     "uikTvd": "4334013349617",
+    "uikName": "УИК №999",
     "tikTvd": "2332000884275",
-    "tikName": "Меленковская"
+    "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 1000,
     "uikTvd": "4334013349618",
+    "uikName": "УИК №1000",
     "tikTvd": "2332000884275",
-    "tikName": "Меленковская"
+    "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 1001,
     "uikTvd": "4334013349619",
+    "uikName": "УИК №1001",
     "tikTvd": "2332000884275",
-    "tikName": "Меленковская"
+    "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 1002,
     "uikTvd": "4334013349620",
+    "uikName": "УИК №1002",
     "tikTvd": "2332000884275",
-    "tikName": "Меленковская"
+    "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 1003,
     "uikTvd": "4334013349621",
+    "uikName": "УИК №1003",
     "tikTvd": "2332000884275",
-    "tikName": "Меленковская"
+    "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 1004,
     "uikTvd": "4334013349622",
+    "uikName": "УИК №1004",
     "tikTvd": "2332000884275",
-    "tikName": "Меленковская"
+    "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 1005,
     "uikTvd": "4334013349623",
+    "uikName": "УИК №1005",
     "tikTvd": "2332000884275",
-    "tikName": "Меленковская"
+    "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 1006,
     "uikTvd": "4334013349624",
+    "uikName": "УИК №1006",
     "tikTvd": "2332000884275",
-    "tikName": "Меленковская"
+    "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 1007,
     "uikTvd": "4334013349625",
+    "uikName": "УИК №1007",
     "tikTvd": "2332000884275",
-    "tikName": "Меленковская"
+    "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 1008,
     "uikTvd": "4334013349626",
+    "uikName": "УИК №1008",
     "tikTvd": "2332000884275",
-    "tikName": "Меленковская"
+    "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 1009,
     "uikTvd": "4334013349627",
+    "uikName": "УИК №1009",
     "tikTvd": "2332000884275",
-    "tikName": "Меленковская"
+    "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 1010,
     "uikTvd": "4334013349628",
+    "uikName": "УИК №1010",
     "tikTvd": "2332000884275",
-    "tikName": "Меленковская"
+    "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 1011,
     "uikTvd": "4334013349629",
+    "uikName": "УИК №1011",
     "tikTvd": "2332000884275",
-    "tikName": "Меленковская"
+    "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 1012,
     "uikTvd": "4334013349630",
+    "uikName": "УИК №1012",
     "tikTvd": "2332000884275",
-    "tikName": "Меленковская"
+    "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 1013,
     "uikTvd": "4334013349631",
+    "uikName": "УИК №1013",
     "tikTvd": "2332000884275",
-    "tikName": "Меленковская"
+    "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 1014,
     "uikTvd": "4334013349632",
+    "uikName": "УИК №1014",
     "tikTvd": "2332000884275",
-    "tikName": "Меленковская"
+    "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 1015,
     "uikTvd": "4334013349633",
+    "uikName": "УИК №1015",
     "tikTvd": "2332000884275",
-    "tikName": "Меленковская"
+    "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 1016,
     "uikTvd": "4334013349634",
+    "uikName": "УИК №1016",
     "tikTvd": "2332000884275",
-    "tikName": "Меленковская"
+    "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 1017,
     "uikTvd": "4334013349635",
+    "uikName": "УИК №1017",
     "tikTvd": "2332000884275",
-    "tikName": "Меленковская"
+    "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 1018,
     "uikTvd": "4334013349636",
+    "uikName": "УИК №1018",
     "tikTvd": "2332000884275",
-    "tikName": "Меленковская"
+    "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 1019,
     "uikTvd": "4334013349637",
+    "uikName": "УИК №1019",
     "tikTvd": "2332000884275",
-    "tikName": "Меленковская"
+    "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 1020,
     "uikTvd": "4334013349638",
+    "uikName": "УИК №1020",
     "tikTvd": "2332000884275",
-    "tikName": "Меленковская"
+    "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 1021,
     "uikTvd": "4334013349639",
+    "uikName": "УИК №1021",
     "tikTvd": "2332000884275",
-    "tikName": "Меленковская"
+    "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 1040,
     "uikTvd": "4334009255503",
+    "uikName": "УИК №1040",
     "tikTvd": "2332000884277",
-    "tikName": "Киржачская"
+    "tikName": "Киржачская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 1041,
     "uikTvd": "4334009255504",
+    "uikName": "УИК №1041",
     "tikTvd": "2332000884277",
-    "tikName": "Киржачская"
+    "tikName": "Киржачская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 1042,
     "uikTvd": "4334014224855",
+    "uikName": "УИК №1042",
     "tikTvd": "2332000884284",
-    "tikName": "Муром округ"
+    "tikName": "Муром округ",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 1043,
     "uikTvd": "4334014224856",
+    "uikName": "УИК №1043",
     "tikTvd": "2332000884284",
-    "tikName": "Муром округ"
+    "tikName": "Муром округ",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 1044,
     "uikTvd": "4334014224857",
+    "uikName": "УИК №1044",
     "tikTvd": "2332000884284",
-    "tikName": "Муром округ"
+    "tikName": "Муром округ",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 1045,
     "uikTvd": "4334014224858",
+    "uikName": "УИК №1045",
     "tikTvd": "2332000884284",
-    "tikName": "Муром округ"
+    "tikName": "Муром округ",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 1046,
     "uikTvd": "4334014224859",
+    "uikName": "УИК №1046",
     "tikTvd": "2332000884284",
-    "tikName": "Муром округ"
+    "tikName": "Муром округ",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 1049,
     "uikTvd": "4334027143858",
+    "uikName": "УИК №1049",
     "tikTvd": "2332000884270",
-    "tikName": "Муромская"
+    "tikName": "Муромская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 1050,
     "uikTvd": "4334027143859",
+    "uikName": "УИК №1050",
     "tikTvd": "2332000884270",
-    "tikName": "Муромская"
+    "tikName": "Муромская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 1051,
     "uikTvd": "4334027143860",
+    "uikName": "УИК №1051",
     "tikTvd": "2332000884270",
-    "tikName": "Муромская"
+    "tikName": "Муромская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 1052,
     "uikTvd": "4334027143861",
+    "uikName": "УИК №1052",
     "tikTvd": "2332000884270",
-    "tikName": "Муромская"
+    "tikName": "Муромская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 1053,
     "uikTvd": "4334027143862",
+    "uikName": "УИК №1053",
     "tikTvd": "2332000884270",
-    "tikName": "Муромская"
+    "tikName": "Муромская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 1054,
     "uikTvd": "4334027143863",
+    "uikName": "УИК №1054",
     "tikTvd": "2332000884270",
-    "tikName": "Муромская"
+    "tikName": "Муромская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 1055,
     "uikTvd": "4334027143864",
+    "uikName": "УИК №1055",
     "tikTvd": "2332000884270",
-    "tikName": "Муромская"
+    "tikName": "Муромская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 1057,
     "uikTvd": "4334017183003",
+    "uikName": "УИК №1057",
     "tikTvd": "2332000884268",
-    "tikName": "Селивановская"
+    "tikName": "Селивановская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 1058,
     "uikTvd": "4334017183004",
+    "uikName": "УИК №1058",
     "tikTvd": "2332000884268",
-    "tikName": "Селивановская"
+    "tikName": "Селивановская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 1059,
     "uikTvd": "4334017183005",
+    "uikName": "УИК №1059",
     "tikTvd": "2332000884268",
-    "tikName": "Селивановская"
+    "tikName": "Селивановская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 1086,
     "uikTvd": "4334005324711",
+    "uikName": "УИК №1086",
     "tikTvd": "2332000884276",
-    "tikName": "Вязниковская"
+    "tikName": "Вязниковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 1091,
     "uikTvd": "4334008269263",
+    "uikName": "УИК №1091",
     "tikTvd": "2332000884266",
-    "tikName": "Камешковская"
+    "tikName": "Камешковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 1092,
     "uikTvd": "4334008269264",
+    "uikName": "УИК №1092",
     "tikTvd": "2332000884266",
-    "tikName": "Камешковская"
+    "tikName": "Камешковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   },
   {
     "uikNumber": 1093,
     "uikTvd": "4334008269265",
+    "uikName": "УИК №1093",
     "tikTvd": "2332000884266",
-    "tikName": "Камешковская"
+    "tikName": "Камешковская",
+    "regionCode": "33",
+    "regionTvd": "100100084849159",
+    "regionName": "Владимирская область",
+    "district": null
   }
 ] satisfies readonly UikTikRelation[];

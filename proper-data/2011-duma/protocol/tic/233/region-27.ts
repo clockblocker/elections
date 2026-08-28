@@ -11,6 +11,9 @@ export const duma_2011_tic_233_region_27 = [
     "ballot": "party",
     "tikTvd": "2272000274323",
     "tikName": "Комсомольская городская",
+    "regionCode": "27",
+    "regionTvd": "100100028713359",
+    "regionName": "Хабаровский край",
     "uikCount": 108,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 206756,
@@ -168,6 +171,9 @@ export const duma_2011_tic_233_region_27 = [
     "ballot": "party",
     "tikTvd": "2272000274324",
     "tikName": "Амурская",
+    "regionCode": "27",
+    "regionTvd": "100100028713359",
+    "regionName": "Хабаровский край",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 49868,
@@ -259,6 +265,9 @@ export const duma_2011_tic_233_region_27 = [
     "ballot": "party",
     "tikTvd": "2272000274325",
     "tikName": "Вяземская",
+    "regionCode": "27",
+    "regionTvd": "100100028713359",
+    "regionName": "Хабаровский край",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 19147,
@@ -336,6 +345,9 @@ export const duma_2011_tic_233_region_27 = [
     "ballot": "party",
     "tikTvd": "2272000274326",
     "tikName": "Осипенковская",
+    "regionCode": "27",
+    "regionTvd": "100100028713359",
+    "regionName": "Хабаровский край",
     "uikCount": 8,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 4407,
@@ -393,6 +405,9 @@ export const duma_2011_tic_233_region_27 = [
     "ballot": "party",
     "tikTvd": "2272000274327",
     "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100028713359",
+    "regionName": "Хабаровский край",
     "uikCount": 55,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 36116,
@@ -497,6 +512,9 @@ export const duma_2011_tic_233_region_27 = [
     "ballot": "party",
     "tikTvd": "2272000274328",
     "tikName": "Бикинская",
+    "regionCode": "27",
+    "regionTvd": "100100028713359",
+    "regionName": "Хабаровский край",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 19720,
@@ -570,6 +588,9 @@ export const duma_2011_tic_233_region_27 = [
     "ballot": "party",
     "tikTvd": "2272000274329",
     "tikName": "Верхнебуреинская",
+    "regionCode": "27",
+    "regionTvd": "100100028713359",
+    "regionName": "Хабаровский край",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 22991,
@@ -647,6 +668,9 @@ export const duma_2011_tic_233_region_27 = [
     "ballot": "party",
     "tikTvd": "2272000274330",
     "tikName": "Ванинская",
+    "regionCode": "27",
+    "regionTvd": "100100028713359",
+    "regionName": "Хабаровский край",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 29608,
@@ -723,6 +747,9 @@ export const duma_2011_tic_233_region_27 = [
     "ballot": "party",
     "tikTvd": "2272000274331",
     "tikName": "Хабаровск, Центральная",
+    "regionCode": "27",
+    "regionTvd": "100100028713359",
+    "regionName": "Хабаровский край",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 69290,
@@ -802,6 +829,9 @@ export const duma_2011_tic_233_region_27 = [
     "ballot": "party",
     "tikTvd": "2272000274332",
     "tikName": "Аяно-Майская",
+    "regionCode": "27",
+    "regionTvd": "100100028713359",
+    "regionName": "Хабаровский край",
     "uikCount": 5,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 2705,
@@ -856,6 +886,9 @@ export const duma_2011_tic_233_region_27 = [
     "ballot": "party",
     "tikTvd": "2272000274333",
     "tikName": "Комсомольская",
+    "regionCode": "27",
+    "regionTvd": "100100028713359",
+    "regionName": "Хабаровский край",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 20193,
@@ -931,6 +964,9 @@ export const duma_2011_tic_233_region_27 = [
     "ballot": "party",
     "tikTvd": "2272000274334",
     "tikName": "Хабаровск, Краснофлотская",
+    "regionCode": "27",
+    "regionTvd": "100100028713359",
+    "regionName": "Хабаровский край",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 67347,
@@ -1012,6 +1048,9 @@ export const duma_2011_tic_233_region_27 = [
     "ballot": "party",
     "tikTvd": "2272000274335",
     "tikName": "Хабаровск, Индустриальная",
+    "regionCode": "27",
+    "regionTvd": "100100028713359",
+    "regionName": "Хабаровский край",
     "uikCount": 80,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 159947,
@@ -1141,6 +1180,9 @@ export const duma_2011_tic_233_region_27 = [
     "ballot": "party",
     "tikTvd": "2272000274336",
     "tikName": "Хабаровск, Кировская",
+    "regionCode": "27",
+    "regionTvd": "100100028713359",
+    "regionName": "Хабаровский край",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 43311,
@@ -1217,6 +1259,9 @@ export const duma_2011_tic_233_region_27 = [
     "ballot": "party",
     "tikTvd": "2272000274337",
     "tikName": "Хабаровск, Железнодорожная",
+    "regionCode": "27",
+    "regionTvd": "100100028713359",
+    "regionName": "Хабаровский край",
     "uikCount": 54,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 113750,
@@ -1320,6 +1365,9 @@ export const duma_2011_tic_233_region_27 = [
     "ballot": "party",
     "tikTvd": "2272000274338",
     "tikName": "Ульчская",
+    "regionCode": "27",
+    "regionTvd": "100100028713359",
+    "regionName": "Хабаровский край",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 14959,
@@ -1397,6 +1445,9 @@ export const duma_2011_tic_233_region_27 = [
     "ballot": "party",
     "tikTvd": "2272000274339",
     "tikName": "Тугуро-Чумиканская",
+    "regionCode": "27",
+    "regionTvd": "100100028713359",
+    "regionName": "Хабаровский край",
     "uikCount": 6,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 1728,
@@ -1452,6 +1503,9 @@ export const duma_2011_tic_233_region_27 = [
     "ballot": "party",
     "tikTvd": "2272000274340",
     "tikName": "Советско-Гаванская",
+    "regionCode": "27",
+    "regionTvd": "100100028713359",
+    "regionName": "Хабаровский край",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 33683,
@@ -1535,6 +1589,9 @@ export const duma_2011_tic_233_region_27 = [
     "ballot": "party",
     "tikTvd": "2272000274341",
     "tikName": "Солнечная",
+    "regionCode": "27",
+    "regionTvd": "100100028713359",
+    "regionName": "Хабаровский край",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 25948,
@@ -1606,6 +1663,9 @@ export const duma_2011_tic_233_region_27 = [
     "ballot": "party",
     "tikTvd": "2272000274342",
     "tikName": "Нанайская",
+    "regionCode": "27",
+    "regionTvd": "100100028713359",
+    "regionName": "Хабаровский край",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 13481,
@@ -1675,6 +1735,9 @@ export const duma_2011_tic_233_region_27 = [
     "ballot": "party",
     "tikTvd": "2272000274343",
     "tikName": "Охотская",
+    "regionCode": "27",
+    "regionTvd": "100100028713359",
+    "regionName": "Хабаровский край",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 7152,
@@ -1741,6 +1804,9 @@ export const duma_2011_tic_233_region_27 = [
     "ballot": "party",
     "tikTvd": "2272000274344",
     "tikName": "Николаевская",
+    "regionCode": "27",
+    "regionTvd": "100100028713359",
+    "regionName": "Хабаровский край",
     "uikCount": 52,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 28585,
@@ -1842,6 +1908,9 @@ export const duma_2011_tic_233_region_27 = [
     "ballot": "party",
     "tikTvd": "2272000274345",
     "tikName": "Хабаровская",
+    "regionCode": "27",
+    "regionTvd": "100100028713359",
+    "regionName": "Хабаровский край",
     "uikCount": 56,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 63788,

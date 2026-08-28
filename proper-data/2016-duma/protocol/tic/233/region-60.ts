@@ -11,6 +11,9 @@ export const duma_2016_tic_233_region_60 = [
     "ballot": "party",
     "tikTvd": "2602000574556",
     "tikName": "Бежаницкая",
+    "regionCode": "60",
+    "regionTvd": "100100067796049",
+    "regionName": "Псковская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 10573,
@@ -85,6 +88,9 @@ export const duma_2016_tic_233_region_60 = [
     "ballot": "party",
     "tikTvd": "2602000574557",
     "tikName": "Великолукская",
+    "regionCode": "60",
+    "regionTvd": "100100067796049",
+    "regionName": "Псковская область",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 18123,
@@ -173,6 +179,9 @@ export const duma_2016_tic_233_region_60 = [
     "ballot": "party",
     "tikTvd": "2602000574558",
     "tikName": "Великолукская городская",
+    "regionCode": "60",
+    "regionTvd": "100100067796049",
+    "regionName": "Псковская область",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 80628,
@@ -272,6 +281,9 @@ export const duma_2016_tic_233_region_60 = [
     "ballot": "party",
     "tikTvd": "2602000574560",
     "tikName": "Гдовская",
+    "regionCode": "60",
+    "regionTvd": "100100067796049",
+    "regionName": "Псковская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 10174,
@@ -348,6 +360,9 @@ export const duma_2016_tic_233_region_60 = [
     "ballot": "party",
     "tikTvd": "2602000574561",
     "tikName": "Дедовичская",
+    "regionCode": "60",
+    "regionTvd": "100100067796049",
+    "regionName": "Псковская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 12282,
@@ -423,6 +438,9 @@ export const duma_2016_tic_233_region_60 = [
     "ballot": "party",
     "tikTvd": "2602000574562",
     "tikName": "Дновская",
+    "regionCode": "60",
+    "regionTvd": "100100067796049",
+    "regionName": "Псковская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 10809,
@@ -494,6 +512,9 @@ export const duma_2016_tic_233_region_60 = [
     "ballot": "party",
     "tikTvd": "2602000574563",
     "tikName": "Красногородская",
+    "regionCode": "60",
+    "regionTvd": "100100067796049",
+    "regionName": "Псковская область",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 6348,
@@ -562,6 +583,9 @@ export const duma_2016_tic_233_region_60 = [
     "ballot": "party",
     "tikTvd": "2602000574564",
     "tikName": "Новосокольническая",
+    "regionCode": "60",
+    "regionTvd": "100100067796049",
+    "regionName": "Псковская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 11870,
@@ -637,6 +661,9 @@ export const duma_2016_tic_233_region_60 = [
     "ballot": "party",
     "tikTvd": "2602000574565",
     "tikName": "Новоржевская",
+    "regionCode": "60",
+    "regionTvd": "100100067796049",
+    "regionName": "Псковская область",
     "uikCount": 10,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 7451,
@@ -703,6 +730,9 @@ export const duma_2016_tic_233_region_60 = [
     "ballot": "party",
     "tikTvd": "2602000574566",
     "tikName": "Невельская",
+    "regionCode": "60",
+    "regionTvd": "100100067796049",
+    "regionName": "Псковская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 21257,
@@ -789,6 +819,9 @@ export const duma_2016_tic_233_region_60 = [
     "ballot": "party",
     "tikTvd": "2602000574567",
     "tikName": "Локнянская",
+    "regionCode": "60",
+    "regionTvd": "100100067796049",
+    "regionName": "Псковская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 8088,
@@ -860,6 +893,9 @@ export const duma_2016_tic_233_region_60 = [
     "ballot": "party",
     "tikTvd": "2602000574568",
     "tikName": "Куньинская",
+    "regionCode": "60",
+    "regionTvd": "100100067796049",
+    "regionName": "Псковская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 7403,
@@ -938,6 +974,9 @@ export const duma_2016_tic_233_region_60 = [
     "ballot": "party",
     "tikTvd": "2602000574569",
     "tikName": "Плюсская",
+    "regionCode": "60",
+    "regionTvd": "100100067796049",
+    "regionName": "Псковская область",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 7508,
@@ -1007,6 +1046,9 @@ export const duma_2016_tic_233_region_60 = [
     "ballot": "party",
     "tikTvd": "2602000574570",
     "tikName": "Печорская",
+    "regionCode": "60",
+    "regionTvd": "100100067796049",
+    "regionName": "Псковская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 17444,
@@ -1083,6 +1125,9 @@ export const duma_2016_tic_233_region_60 = [
     "ballot": "party",
     "tikTvd": "2602000574571",
     "tikName": "Палкинская",
+    "regionCode": "60",
+    "regionTvd": "100100067796049",
+    "regionName": "Псковская область",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 7142,
@@ -1153,6 +1198,9 @@ export const duma_2016_tic_233_region_60 = [
     "ballot": "party",
     "tikTvd": "2602000574572",
     "tikName": "Островская",
+    "regionCode": "60",
+    "regionTvd": "100100067796049",
+    "regionName": "Псковская область",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 25459,
@@ -1247,6 +1295,9 @@ export const duma_2016_tic_233_region_60 = [
     "ballot": "party",
     "tikTvd": "2602000574573",
     "tikName": "Опочецкая",
+    "regionCode": "60",
+    "regionTvd": "100100067796049",
+    "regionName": "Псковская область",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 15382,
@@ -1330,6 +1381,9 @@ export const duma_2016_tic_233_region_60 = [
     "ballot": "party",
     "tikTvd": "2602000574574",
     "tikName": "Порховская",
+    "regionCode": "60",
+    "regionTvd": "100100067796049",
+    "regionName": "Псковская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 18556,
@@ -1414,6 +1468,9 @@ export const duma_2016_tic_233_region_60 = [
     "ballot": "party",
     "tikTvd": "2602000574575",
     "tikName": "Псковская городская",
+    "regionCode": "60",
+    "regionTvd": "100100067796049",
+    "regionName": "Псковская область",
     "uikCount": 93,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 168224,
@@ -1563,6 +1620,9 @@ export const duma_2016_tic_233_region_60 = [
     "ballot": "party",
     "tikTvd": "2602000574576",
     "tikName": "Псковская",
+    "regionCode": "60",
+    "regionTvd": "100100067796049",
+    "regionName": "Псковская область",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 31872,
@@ -1657,6 +1717,9 @@ export const duma_2016_tic_233_region_60 = [
     "ballot": "party",
     "tikTvd": "2602000574577",
     "tikName": "Пыталовская",
+    "regionCode": "60",
+    "regionTvd": "100100067796049",
+    "regionName": "Псковская область",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 9563,
@@ -1729,6 +1792,9 @@ export const duma_2016_tic_233_region_60 = [
     "ballot": "party",
     "tikTvd": "2602000574578",
     "tikName": "Пушкиногорская",
+    "regionCode": "60",
+    "regionTvd": "100100067796049",
+    "regionName": "Псковская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 8086,
@@ -1804,6 +1870,9 @@ export const duma_2016_tic_233_region_60 = [
     "ballot": "party",
     "tikTvd": "2602000574579",
     "tikName": "Пустошкинская",
+    "regionCode": "60",
+    "regionTvd": "100100067796049",
+    "regionName": "Псковская область",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 7682,
@@ -1877,6 +1946,9 @@ export const duma_2016_tic_233_region_60 = [
     "ballot": "party",
     "tikTvd": "2602000574580",
     "tikName": "Усвятская",
+    "regionCode": "60",
+    "regionTvd": "100100067796049",
+    "regionName": "Псковская область",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 4209,
@@ -1944,6 +2016,9 @@ export const duma_2016_tic_233_region_60 = [
     "ballot": "party",
     "tikTvd": "2602000574581",
     "tikName": "Струго-Красненская",
+    "regionCode": "60",
+    "regionTvd": "100100067796049",
+    "regionName": "Псковская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 10766,
@@ -2021,6 +2096,9 @@ export const duma_2016_tic_233_region_60 = [
     "ballot": "party",
     "tikTvd": "2602000574582",
     "tikName": "Себежская",
+    "regionCode": "60",
+    "regionTvd": "100100067796049",
+    "regionName": "Псковская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 15527,

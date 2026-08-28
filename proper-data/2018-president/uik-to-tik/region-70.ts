@@ -7,4669 +7,8559 @@ export const president_2018_uik_to_tik_region_70 = [
   {
     "uikNumber": 1,
     "uikTvd": "4704020145732",
+    "uikName": "УИК №1",
     "tikTvd": "2702000661768",
-    "tikName": "Томск, Советская"
+    "tikName": "Томск, Советская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 2,
     "uikTvd": "4704020145733",
+    "uikName": "УИК №2",
     "tikTvd": "2702000661768",
-    "tikName": "Томск, Советская"
+    "tikName": "Томск, Советская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 3,
     "uikTvd": "4704020145734",
+    "uikName": "УИК №3",
     "tikTvd": "2702000661768",
-    "tikName": "Томск, Советская"
+    "tikName": "Томск, Советская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 4,
     "uikTvd": "4704020145735",
+    "uikName": "УИК №4",
     "tikTvd": "2702000661768",
-    "tikName": "Томск, Советская"
+    "tikName": "Томск, Советская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 5,
     "uikTvd": "4704020145736",
+    "uikName": "УИК №5",
     "tikTvd": "2702000661768",
-    "tikName": "Томск, Советская"
+    "tikName": "Томск, Советская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 6,
     "uikTvd": "4704020145737",
+    "uikName": "УИК №6",
     "tikTvd": "2702000661768",
-    "tikName": "Томск, Советская"
+    "tikName": "Томск, Советская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 7,
     "uikTvd": "4704020145738",
+    "uikName": "УИК №7",
     "tikTvd": "2702000661768",
-    "tikName": "Томск, Советская"
+    "tikName": "Томск, Советская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 8,
     "uikTvd": "4704020145739",
+    "uikName": "УИК №8",
     "tikTvd": "2702000661768",
-    "tikName": "Томск, Советская"
+    "tikName": "Томск, Советская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 9,
     "uikTvd": "4704020145740",
+    "uikName": "УИК №9",
     "tikTvd": "2702000661768",
-    "tikName": "Томск, Советская"
+    "tikName": "Томск, Советская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 10,
     "uikTvd": "4704020145741",
+    "uikName": "УИК №10",
     "tikTvd": "2702000661768",
-    "tikName": "Томск, Советская"
+    "tikName": "Томск, Советская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 11,
     "uikTvd": "4704020145742",
+    "uikName": "УИК №11",
     "tikTvd": "2702000661768",
-    "tikName": "Томск, Советская"
+    "tikName": "Томск, Советская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 12,
     "uikTvd": "4704020145743",
+    "uikName": "УИК №12",
     "tikTvd": "2702000661768",
-    "tikName": "Томск, Советская"
+    "tikName": "Томск, Советская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 13,
     "uikTvd": "4704020145744",
+    "uikName": "УИК №13",
     "tikTvd": "2702000661768",
-    "tikName": "Томск, Советская"
+    "tikName": "Томск, Советская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 14,
     "uikTvd": "4704020145745",
+    "uikName": "УИК №14",
     "tikTvd": "2702000661768",
-    "tikName": "Томск, Советская"
+    "tikName": "Томск, Советская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 15,
     "uikTvd": "4704020145746",
+    "uikName": "УИК №15",
     "tikTvd": "2702000661768",
-    "tikName": "Томск, Советская"
+    "tikName": "Томск, Советская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 16,
     "uikTvd": "4704020145747",
+    "uikName": "УИК №16",
     "tikTvd": "2702000661768",
-    "tikName": "Томск, Советская"
+    "tikName": "Томск, Советская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 17,
     "uikTvd": "4704020145748",
+    "uikName": "УИК №17",
     "tikTvd": "2702000661768",
-    "tikName": "Томск, Советская"
+    "tikName": "Томск, Советская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 18,
     "uikTvd": "4704020145749",
+    "uikName": "УИК №18",
     "tikTvd": "2702000661768",
-    "tikName": "Томск, Советская"
+    "tikName": "Томск, Советская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 19,
     "uikTvd": "4704020145750",
+    "uikName": "УИК №19",
     "tikTvd": "2702000661768",
-    "tikName": "Томск, Советская"
+    "tikName": "Томск, Советская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 20,
     "uikTvd": "4704020145751",
+    "uikName": "УИК №20",
     "tikTvd": "2702000661768",
-    "tikName": "Томск, Советская"
+    "tikName": "Томск, Советская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 21,
     "uikTvd": "4704020145752",
+    "uikName": "УИК №21",
     "tikTvd": "2702000661768",
-    "tikName": "Томск, Советская"
+    "tikName": "Томск, Советская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 22,
     "uikTvd": "4704020145753",
+    "uikName": "УИК №22",
     "tikTvd": "2702000661768",
-    "tikName": "Томск, Советская"
+    "tikName": "Томск, Советская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 23,
     "uikTvd": "4704020145754",
+    "uikName": "УИК №23",
     "tikTvd": "2702000661768",
-    "tikName": "Томск, Советская"
+    "tikName": "Томск, Советская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 24,
     "uikTvd": "4704020145755",
+    "uikName": "УИК №24",
     "tikTvd": "2702000661768",
-    "tikName": "Томск, Советская"
+    "tikName": "Томск, Советская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 25,
     "uikTvd": "4704020145756",
+    "uikName": "УИК №25",
     "tikTvd": "2702000661768",
-    "tikName": "Томск, Советская"
+    "tikName": "Томск, Советская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 26,
     "uikTvd": "4704020145757",
+    "uikName": "УИК №26",
     "tikTvd": "2702000661768",
-    "tikName": "Томск, Советская"
+    "tikName": "Томск, Советская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 27,
     "uikTvd": "4704020145758",
+    "uikName": "УИК №27",
     "tikTvd": "2702000661768",
-    "tikName": "Томск, Советская"
+    "tikName": "Томск, Советская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 28,
     "uikTvd": "4704020145759",
+    "uikName": "УИК №28",
     "tikTvd": "2702000661768",
-    "tikName": "Томск, Советская"
+    "tikName": "Томск, Советская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 29,
     "uikTvd": "4704020145760",
+    "uikName": "УИК №29",
     "tikTvd": "2702000661768",
-    "tikName": "Томск, Советская"
+    "tikName": "Томск, Советская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 30,
     "uikTvd": "4704020145761",
+    "uikName": "УИК №30",
     "tikTvd": "2702000661768",
-    "tikName": "Томск, Советская"
+    "tikName": "Томск, Советская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 31,
     "uikTvd": "4704020145762",
+    "uikName": "УИК №31",
     "tikTvd": "2702000661768",
-    "tikName": "Томск, Советская"
+    "tikName": "Томск, Советская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 32,
     "uikTvd": "4704020145763",
+    "uikName": "УИК №32",
     "tikTvd": "2702000661768",
-    "tikName": "Томск, Советская"
+    "tikName": "Томск, Советская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 33,
     "uikTvd": "4704020145764",
+    "uikName": "УИК №33",
     "tikTvd": "2702000661768",
-    "tikName": "Томск, Советская"
+    "tikName": "Томск, Советская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 34,
     "uikTvd": "4704020145765",
+    "uikName": "УИК №34",
     "tikTvd": "2702000661768",
-    "tikName": "Томск, Советская"
+    "tikName": "Томск, Советская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 35,
     "uikTvd": "4704020145766",
+    "uikName": "УИК №35",
     "tikTvd": "2702000661768",
-    "tikName": "Томск, Советская"
+    "tikName": "Томск, Советская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 36,
     "uikTvd": "4704020145767",
+    "uikName": "УИК №36",
     "tikTvd": "2702000661768",
-    "tikName": "Томск, Советская"
+    "tikName": "Томск, Советская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 37,
     "uikTvd": "4704020145768",
+    "uikName": "УИК №37",
     "tikTvd": "2702000661768",
-    "tikName": "Томск, Советская"
+    "tikName": "Томск, Советская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 38,
     "uikTvd": "4704020145769",
+    "uikName": "УИК №38",
     "tikTvd": "2702000661768",
-    "tikName": "Томск, Советская"
+    "tikName": "Томск, Советская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 39,
     "uikTvd": "4704020145770",
+    "uikName": "УИК №39",
     "tikTvd": "2702000661768",
-    "tikName": "Томск, Советская"
+    "tikName": "Томск, Советская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 40,
     "uikTvd": "4704020145771",
+    "uikName": "УИК №40",
     "tikTvd": "2702000661768",
-    "tikName": "Томск, Советская"
+    "tikName": "Томск, Советская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 41,
     "uikTvd": "4704017164688",
+    "uikName": "УИК №41",
     "tikTvd": "2702000661757",
-    "tikName": "Томск, Кировская"
+    "tikName": "Томск, Кировская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 42,
     "uikTvd": "4704017164689",
+    "uikName": "УИК №42",
     "tikTvd": "2702000661757",
-    "tikName": "Томск, Кировская"
+    "tikName": "Томск, Кировская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 43,
     "uikTvd": "4704017164690",
+    "uikName": "УИК №43",
     "tikTvd": "2702000661757",
-    "tikName": "Томск, Кировская"
+    "tikName": "Томск, Кировская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 44,
     "uikTvd": "4704017164691",
+    "uikName": "УИК №44",
     "tikTvd": "2702000661757",
-    "tikName": "Томск, Кировская"
+    "tikName": "Томск, Кировская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 45,
     "uikTvd": "4704017164692",
+    "uikName": "УИК №45",
     "tikTvd": "2702000661757",
-    "tikName": "Томск, Кировская"
+    "tikName": "Томск, Кировская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 46,
     "uikTvd": "4704017164693",
+    "uikName": "УИК №46",
     "tikTvd": "2702000661757",
-    "tikName": "Томск, Кировская"
+    "tikName": "Томск, Кировская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 47,
     "uikTvd": "4704017164694",
+    "uikName": "УИК №47",
     "tikTvd": "2702000661757",
-    "tikName": "Томск, Кировская"
+    "tikName": "Томск, Кировская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 48,
     "uikTvd": "4704017164695",
+    "uikName": "УИК №48",
     "tikTvd": "2702000661757",
-    "tikName": "Томск, Кировская"
+    "tikName": "Томск, Кировская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 49,
     "uikTvd": "4704017164696",
+    "uikName": "УИК №49",
     "tikTvd": "2702000661757",
-    "tikName": "Томск, Кировская"
+    "tikName": "Томск, Кировская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 50,
     "uikTvd": "4704017164697",
+    "uikName": "УИК №50",
     "tikTvd": "2702000661757",
-    "tikName": "Томск, Кировская"
+    "tikName": "Томск, Кировская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 51,
     "uikTvd": "4704017164698",
+    "uikName": "УИК №51",
     "tikTvd": "2702000661757",
-    "tikName": "Томск, Кировская"
+    "tikName": "Томск, Кировская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 52,
     "uikTvd": "4704017164699",
+    "uikName": "УИК №52",
     "tikTvd": "2702000661757",
-    "tikName": "Томск, Кировская"
+    "tikName": "Томск, Кировская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 53,
     "uikTvd": "4704017164700",
+    "uikName": "УИК №53",
     "tikTvd": "2702000661757",
-    "tikName": "Томск, Кировская"
+    "tikName": "Томск, Кировская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 54,
     "uikTvd": "4704017164701",
+    "uikName": "УИК №54",
     "tikTvd": "2702000661757",
-    "tikName": "Томск, Кировская"
+    "tikName": "Томск, Кировская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 55,
     "uikTvd": "4704017164702",
+    "uikName": "УИК №55",
     "tikTvd": "2702000661757",
-    "tikName": "Томск, Кировская"
+    "tikName": "Томск, Кировская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 56,
     "uikTvd": "4704017164703",
+    "uikName": "УИК №56",
     "tikTvd": "2702000661757",
-    "tikName": "Томск, Кировская"
+    "tikName": "Томск, Кировская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 57,
     "uikTvd": "4704017164704",
+    "uikName": "УИК №57",
     "tikTvd": "2702000661757",
-    "tikName": "Томск, Кировская"
+    "tikName": "Томск, Кировская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 58,
     "uikTvd": "4704017164705",
+    "uikName": "УИК №58",
     "tikTvd": "2702000661757",
-    "tikName": "Томск, Кировская"
+    "tikName": "Томск, Кировская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 59,
     "uikTvd": "4704017164706",
+    "uikName": "УИК №59",
     "tikTvd": "2702000661757",
-    "tikName": "Томск, Кировская"
+    "tikName": "Томск, Кировская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 60,
     "uikTvd": "4704017164707",
+    "uikName": "УИК №60",
     "tikTvd": "2702000661757",
-    "tikName": "Томск, Кировская"
+    "tikName": "Томск, Кировская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 61,
     "uikTvd": "4704017164708",
+    "uikName": "УИК №61",
     "tikTvd": "2702000661757",
-    "tikName": "Томск, Кировская"
+    "tikName": "Томск, Кировская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 62,
     "uikTvd": "4704017164709",
+    "uikName": "УИК №62",
     "tikTvd": "2702000661757",
-    "tikName": "Томск, Кировская"
+    "tikName": "Томск, Кировская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 63,
     "uikTvd": "4704017164710",
+    "uikName": "УИК №63",
     "tikTvd": "2702000661757",
-    "tikName": "Томск, Кировская"
+    "tikName": "Томск, Кировская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 64,
     "uikTvd": "4704017164711",
+    "uikName": "УИК №64",
     "tikTvd": "2702000661757",
-    "tikName": "Томск, Кировская"
+    "tikName": "Томск, Кировская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 65,
     "uikTvd": "4704017164712",
+    "uikName": "УИК №65",
     "tikTvd": "2702000661757",
-    "tikName": "Томск, Кировская"
+    "tikName": "Томск, Кировская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 66,
     "uikTvd": "4704017164713",
+    "uikName": "УИК №66",
     "tikTvd": "2702000661757",
-    "tikName": "Томск, Кировская"
+    "tikName": "Томск, Кировская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 67,
     "uikTvd": "4704017164714",
+    "uikName": "УИК №67",
     "tikTvd": "2702000661757",
-    "tikName": "Томск, Кировская"
+    "tikName": "Томск, Кировская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 68,
     "uikTvd": "4704017164715",
+    "uikName": "УИК №68",
     "tikTvd": "2702000661757",
-    "tikName": "Томск, Кировская"
+    "tikName": "Томск, Кировская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 69,
     "uikTvd": "4704017164716",
+    "uikName": "УИК №69",
     "tikTvd": "2702000661757",
-    "tikName": "Томск, Кировская"
+    "tikName": "Томск, Кировская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 70,
     "uikTvd": "4704017164717",
+    "uikName": "УИК №70",
     "tikTvd": "2702000661757",
-    "tikName": "Томск, Кировская"
+    "tikName": "Томск, Кировская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 71,
     "uikTvd": "4704017164718",
+    "uikName": "УИК №71",
     "tikTvd": "2702000661757",
-    "tikName": "Томск, Кировская"
+    "tikName": "Томск, Кировская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 72,
     "uikTvd": "4704017164719",
+    "uikName": "УИК №72",
     "tikTvd": "2702000661757",
-    "tikName": "Томск, Кировская"
+    "tikName": "Томск, Кировская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 73,
     "uikTvd": "4704017164720",
+    "uikName": "УИК №73",
     "tikTvd": "2702000661757",
-    "tikName": "Томск, Кировская"
+    "tikName": "Томск, Кировская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 74,
     "uikTvd": "4704017164721",
+    "uikName": "УИК №74",
     "tikTvd": "2702000661757",
-    "tikName": "Томск, Кировская"
+    "tikName": "Томск, Кировская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 75,
     "uikTvd": "4704017164722",
+    "uikName": "УИК №75",
     "tikTvd": "2702000661757",
-    "tikName": "Томск, Кировская"
+    "tikName": "Томск, Кировская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 76,
     "uikTvd": "4704017164723",
+    "uikName": "УИК №76",
     "tikTvd": "2702000661757",
-    "tikName": "Томск, Кировская"
+    "tikName": "Томск, Кировская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 77,
     "uikTvd": "4704017164724",
+    "uikName": "УИК №77",
     "tikTvd": "2702000661757",
-    "tikName": "Томск, Кировская"
+    "tikName": "Томск, Кировская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 78,
     "uikTvd": "4704017164725",
+    "uikName": "УИК №78",
     "tikTvd": "2702000661757",
-    "tikName": "Томск, Кировская"
+    "tikName": "Томск, Кировская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 79,
     "uikTvd": "4704017164726",
+    "uikName": "УИК №79",
     "tikTvd": "2702000661757",
-    "tikName": "Томск, Кировская"
+    "tikName": "Томск, Кировская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 80,
     "uikTvd": "4704017164727",
+    "uikName": "УИК №80",
     "tikTvd": "2702000661757",
-    "tikName": "Томск, Кировская"
+    "tikName": "Томск, Кировская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 81,
     "uikTvd": "4704017164728",
+    "uikName": "УИК №81",
     "tikTvd": "2702000661757",
-    "tikName": "Томск, Кировская"
+    "tikName": "Томск, Кировская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 82,
     "uikTvd": "4704017164729",
+    "uikName": "УИК №82",
     "tikTvd": "2702000661757",
-    "tikName": "Томск, Кировская"
+    "tikName": "Томск, Кировская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 83,
     "uikTvd": "4704017164730",
+    "uikName": "УИК №83",
     "tikTvd": "2702000661757",
-    "tikName": "Томск, Кировская"
+    "tikName": "Томск, Кировская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 84,
     "uikTvd": "4704017164731",
+    "uikName": "УИК №84",
     "tikTvd": "2702000661757",
-    "tikName": "Томск, Кировская"
+    "tikName": "Томск, Кировская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 85,
     "uikTvd": "4704017164732",
+    "uikName": "УИК №85",
     "tikTvd": "2702000661757",
-    "tikName": "Томск, Кировская"
+    "tikName": "Томск, Кировская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 86,
     "uikTvd": "4704017164733",
+    "uikName": "УИК №86",
     "tikTvd": "2702000661757",
-    "tikName": "Томск, Кировская"
+    "tikName": "Томск, Кировская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 87,
     "uikTvd": "4704017164734",
+    "uikName": "УИК №87",
     "tikTvd": "2702000661757",
-    "tikName": "Томск, Кировская"
+    "tikName": "Томск, Кировская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 88,
     "uikTvd": "4704017164735",
+    "uikName": "УИК №88",
     "tikTvd": "2702000661757",
-    "tikName": "Томск, Кировская"
+    "tikName": "Томск, Кировская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 89,
     "uikTvd": "4704017164736",
+    "uikName": "УИК №89",
     "tikTvd": "2702000661757",
-    "tikName": "Томск, Кировская"
+    "tikName": "Томск, Кировская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 90,
     "uikTvd": "4704017164737",
+    "uikName": "УИК №90",
     "tikTvd": "2702000661757",
-    "tikName": "Томск, Кировская"
+    "tikName": "Томск, Кировская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 91,
     "uikTvd": "4704017164738",
+    "uikName": "УИК №91",
     "tikTvd": "2702000661757",
-    "tikName": "Томск, Кировская"
+    "tikName": "Томск, Кировская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 92,
     "uikTvd": "4704017164739",
+    "uikName": "УИК №92",
     "tikTvd": "2702000661757",
-    "tikName": "Томск, Кировская"
+    "tikName": "Томск, Кировская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 93,
     "uikTvd": "4704017164740",
+    "uikName": "УИК №93",
     "tikTvd": "2702000661757",
-    "tikName": "Томск, Кировская"
+    "tikName": "Томск, Кировская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 94,
     "uikTvd": "4704017164741",
+    "uikName": "УИК №94",
     "tikTvd": "2702000661757",
-    "tikName": "Томск, Кировская"
+    "tikName": "Томск, Кировская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 95,
     "uikTvd": "4704017164742",
+    "uikName": "УИК №95",
     "tikTvd": "2702000661757",
-    "tikName": "Томск, Кировская"
+    "tikName": "Томск, Кировская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 96,
     "uikTvd": "4704017164743",
+    "uikName": "УИК №96",
     "tikTvd": "2702000661757",
-    "tikName": "Томск, Кировская"
+    "tikName": "Томск, Кировская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 97,
     "uikTvd": "4704019193899",
+    "uikName": "УИК №97",
     "tikTvd": "2702000661755",
-    "tikName": "Томск, Октябрьская"
+    "tikName": "Томск, Октябрьская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 98,
     "uikTvd": "4704019193900",
+    "uikName": "УИК №98",
     "tikTvd": "2702000661755",
-    "tikName": "Томск, Октябрьская"
+    "tikName": "Томск, Октябрьская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 99,
     "uikTvd": "4704019193901",
+    "uikName": "УИК №99",
     "tikTvd": "2702000661755",
-    "tikName": "Томск, Октябрьская"
+    "tikName": "Томск, Октябрьская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 100,
     "uikTvd": "4704019193902",
+    "uikName": "УИК №100",
     "tikTvd": "2702000661755",
-    "tikName": "Томск, Октябрьская"
+    "tikName": "Томск, Октябрьская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 101,
     "uikTvd": "4704019193903",
+    "uikName": "УИК №101",
     "tikTvd": "2702000661755",
-    "tikName": "Томск, Октябрьская"
+    "tikName": "Томск, Октябрьская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 102,
     "uikTvd": "4704019193904",
+    "uikName": "УИК №102",
     "tikTvd": "2702000661755",
-    "tikName": "Томск, Октябрьская"
+    "tikName": "Томск, Октябрьская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 103,
     "uikTvd": "4704019193905",
+    "uikName": "УИК №103",
     "tikTvd": "2702000661755",
-    "tikName": "Томск, Октябрьская"
+    "tikName": "Томск, Октябрьская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 104,
     "uikTvd": "4704019193906",
+    "uikName": "УИК №104",
     "tikTvd": "2702000661755",
-    "tikName": "Томск, Октябрьская"
+    "tikName": "Томск, Октябрьская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 105,
     "uikTvd": "4704019193907",
+    "uikName": "УИК №105",
     "tikTvd": "2702000661755",
-    "tikName": "Томск, Октябрьская"
+    "tikName": "Томск, Октябрьская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 106,
     "uikTvd": "4704019193908",
+    "uikName": "УИК №106",
     "tikTvd": "2702000661755",
-    "tikName": "Томск, Октябрьская"
+    "tikName": "Томск, Октябрьская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 107,
     "uikTvd": "4704019193909",
+    "uikName": "УИК №107",
     "tikTvd": "2702000661755",
-    "tikName": "Томск, Октябрьская"
+    "tikName": "Томск, Октябрьская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 108,
     "uikTvd": "4704019193910",
+    "uikName": "УИК №108",
     "tikTvd": "2702000661755",
-    "tikName": "Томск, Октябрьская"
+    "tikName": "Томск, Октябрьская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 109,
     "uikTvd": "4704019193911",
+    "uikName": "УИК №109",
     "tikTvd": "2702000661755",
-    "tikName": "Томск, Октябрьская"
+    "tikName": "Томск, Октябрьская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 110,
     "uikTvd": "4704019193912",
+    "uikName": "УИК №110",
     "tikTvd": "2702000661755",
-    "tikName": "Томск, Октябрьская"
+    "tikName": "Томск, Октябрьская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 111,
     "uikTvd": "4704019193913",
+    "uikName": "УИК №111",
     "tikTvd": "2702000661755",
-    "tikName": "Томск, Октябрьская"
+    "tikName": "Томск, Октябрьская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 112,
     "uikTvd": "4704019193914",
+    "uikName": "УИК №112",
     "tikTvd": "2702000661755",
-    "tikName": "Томск, Октябрьская"
+    "tikName": "Томск, Октябрьская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 113,
     "uikTvd": "4704019193915",
+    "uikName": "УИК №113",
     "tikTvd": "2702000661755",
-    "tikName": "Томск, Октябрьская"
+    "tikName": "Томск, Октябрьская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 114,
     "uikTvd": "4704019193916",
+    "uikName": "УИК №114",
     "tikTvd": "2702000661755",
-    "tikName": "Томск, Октябрьская"
+    "tikName": "Томск, Октябрьская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 115,
     "uikTvd": "4704019193917",
+    "uikName": "УИК №115",
     "tikTvd": "2702000661755",
-    "tikName": "Томск, Октябрьская"
+    "tikName": "Томск, Октябрьская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 116,
     "uikTvd": "4704019193918",
+    "uikName": "УИК №116",
     "tikTvd": "2702000661755",
-    "tikName": "Томск, Октябрьская"
+    "tikName": "Томск, Октябрьская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 117,
     "uikTvd": "4704019193919",
+    "uikName": "УИК №117",
     "tikTvd": "2702000661755",
-    "tikName": "Томск, Октябрьская"
+    "tikName": "Томск, Октябрьская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 118,
     "uikTvd": "4704019193920",
+    "uikName": "УИК №118",
     "tikTvd": "2702000661755",
-    "tikName": "Томск, Октябрьская"
+    "tikName": "Томск, Октябрьская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 119,
     "uikTvd": "4704019193921",
+    "uikName": "УИК №119",
     "tikTvd": "2702000661755",
-    "tikName": "Томск, Октябрьская"
+    "tikName": "Томск, Октябрьская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 120,
     "uikTvd": "4704019193922",
+    "uikName": "УИК №120",
     "tikTvd": "2702000661755",
-    "tikName": "Томск, Октябрьская"
+    "tikName": "Томск, Октябрьская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 121,
     "uikTvd": "4704019193923",
+    "uikName": "УИК №121",
     "tikTvd": "2702000661755",
-    "tikName": "Томск, Октябрьская"
+    "tikName": "Томск, Октябрьская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 122,
     "uikTvd": "4704019193924",
+    "uikName": "УИК №122",
     "tikTvd": "2702000661755",
-    "tikName": "Томск, Октябрьская"
+    "tikName": "Томск, Октябрьская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 123,
     "uikTvd": "4704019193925",
+    "uikName": "УИК №123",
     "tikTvd": "2702000661755",
-    "tikName": "Томск, Октябрьская"
+    "tikName": "Томск, Октябрьская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 124,
     "uikTvd": "4704019193926",
+    "uikName": "УИК №124",
     "tikTvd": "2702000661755",
-    "tikName": "Томск, Октябрьская"
+    "tikName": "Томск, Октябрьская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 125,
     "uikTvd": "4704019193927",
+    "uikName": "УИК №125",
     "tikTvd": "2702000661755",
-    "tikName": "Томск, Октябрьская"
+    "tikName": "Томск, Октябрьская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 126,
     "uikTvd": "4704019193928",
+    "uikName": "УИК №126",
     "tikTvd": "2702000661755",
-    "tikName": "Томск, Октябрьская"
+    "tikName": "Томск, Октябрьская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 127,
     "uikTvd": "4704019193929",
+    "uikName": "УИК №127",
     "tikTvd": "2702000661755",
-    "tikName": "Томск, Октябрьская"
+    "tikName": "Томск, Октябрьская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 128,
     "uikTvd": "4704019193930",
+    "uikName": "УИК №128",
     "tikTvd": "2702000661755",
-    "tikName": "Томск, Октябрьская"
+    "tikName": "Томск, Октябрьская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 129,
     "uikTvd": "4704019193931",
+    "uikName": "УИК №129",
     "tikTvd": "2702000661755",
-    "tikName": "Томск, Октябрьская"
+    "tikName": "Томск, Октябрьская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 130,
     "uikTvd": "4704019193932",
+    "uikName": "УИК №130",
     "tikTvd": "2702000661755",
-    "tikName": "Томск, Октябрьская"
+    "tikName": "Томск, Октябрьская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 131,
     "uikTvd": "4704019193933",
+    "uikName": "УИК №131",
     "tikTvd": "2702000661755",
-    "tikName": "Томск, Октябрьская"
+    "tikName": "Томск, Октябрьская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 132,
     "uikTvd": "4704019193934",
+    "uikName": "УИК №132",
     "tikTvd": "2702000661755",
-    "tikName": "Томск, Октябрьская"
+    "tikName": "Томск, Октябрьская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 133,
     "uikTvd": "4704019193935",
+    "uikName": "УИК №133",
     "tikTvd": "2702000661755",
-    "tikName": "Томск, Октябрьская"
+    "tikName": "Томск, Октябрьская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 134,
     "uikTvd": "4704019193936",
+    "uikName": "УИК №134",
     "tikTvd": "2702000661755",
-    "tikName": "Томск, Октябрьская"
+    "tikName": "Томск, Октябрьская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 135,
     "uikTvd": "4704019193937",
+    "uikName": "УИК №135",
     "tikTvd": "2702000661755",
-    "tikName": "Томск, Октябрьская"
+    "tikName": "Томск, Октябрьская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 136,
     "uikTvd": "4704019193938",
+    "uikName": "УИК №136",
     "tikTvd": "2702000661755",
-    "tikName": "Томск, Октябрьская"
+    "tikName": "Томск, Октябрьская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 137,
     "uikTvd": "4704019193939",
+    "uikName": "УИК №137",
     "tikTvd": "2702000661755",
-    "tikName": "Томск, Октябрьская"
+    "tikName": "Томск, Октябрьская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 138,
     "uikTvd": "4704019193940",
+    "uikName": "УИК №138",
     "tikTvd": "2702000661755",
-    "tikName": "Томск, Октябрьская"
+    "tikName": "Томск, Октябрьская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 139,
     "uikTvd": "4704019193941",
+    "uikName": "УИК №139",
     "tikTvd": "2702000661755",
-    "tikName": "Томск, Октябрьская"
+    "tikName": "Томск, Октябрьская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 140,
     "uikTvd": "4704019193942",
+    "uikName": "УИК №140",
     "tikTvd": "2702000661755",
-    "tikName": "Томск, Октябрьская"
+    "tikName": "Томск, Октябрьская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 141,
     "uikTvd": "4704019193943",
+    "uikName": "УИК №141",
     "tikTvd": "2702000661755",
-    "tikName": "Томск, Октябрьская"
+    "tikName": "Томск, Октябрьская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 142,
     "uikTvd": "4704019193944",
+    "uikName": "УИК №142",
     "tikTvd": "2702000661755",
-    "tikName": "Томск, Октябрьская"
+    "tikName": "Томск, Октябрьская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 143,
     "uikTvd": "4704019193945",
+    "uikName": "УИК №143",
     "tikTvd": "2702000661755",
-    "tikName": "Томск, Октябрьская"
+    "tikName": "Томск, Октябрьская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 144,
     "uikTvd": "4704019193946",
+    "uikName": "УИК №144",
     "tikTvd": "2702000661755",
-    "tikName": "Томск, Октябрьская"
+    "tikName": "Томск, Октябрьская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 145,
     "uikTvd": "4704019193947",
+    "uikName": "УИК №145",
     "tikTvd": "2702000661755",
-    "tikName": "Томск, Октябрьская"
+    "tikName": "Томск, Октябрьская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 146,
     "uikTvd": "4704019193948",
+    "uikName": "УИК №146",
     "tikTvd": "2702000661755",
-    "tikName": "Томск, Октябрьская"
+    "tikName": "Томск, Октябрьская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 147,
     "uikTvd": "4704019193949",
+    "uikName": "УИК №147",
     "tikTvd": "2702000661755",
-    "tikName": "Томск, Октябрьская"
+    "tikName": "Томск, Октябрьская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 148,
     "uikTvd": "4704019193950",
+    "uikName": "УИК №148",
     "tikTvd": "2702000661755",
-    "tikName": "Томск, Октябрьская"
+    "tikName": "Томск, Октябрьская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 149,
     "uikTvd": "4704019193951",
+    "uikName": "УИК №149",
     "tikTvd": "2702000661755",
-    "tikName": "Томск, Октябрьская"
+    "tikName": "Томск, Октябрьская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 150,
     "uikTvd": "4704019193952",
+    "uikName": "УИК №150",
     "tikTvd": "2702000661755",
-    "tikName": "Томск, Октябрьская"
+    "tikName": "Томск, Октябрьская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 151,
     "uikTvd": "4704019193953",
+    "uikName": "УИК №151",
     "tikTvd": "2702000661755",
-    "tikName": "Томск, Октябрьская"
+    "tikName": "Томск, Октябрьская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 152,
     "uikTvd": "4704019193954",
+    "uikName": "УИК №152",
     "tikTvd": "2702000661755",
-    "tikName": "Томск, Октябрьская"
+    "tikName": "Томск, Октябрьская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 153,
     "uikTvd": "4704019193955",
+    "uikName": "УИК №153",
     "tikTvd": "2702000661755",
-    "tikName": "Томск, Октябрьская"
+    "tikName": "Томск, Октябрьская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 154,
     "uikTvd": "4704019193956",
+    "uikName": "УИК №154",
     "tikTvd": "2702000661755",
-    "tikName": "Томск, Октябрьская"
+    "tikName": "Томск, Октябрьская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 155,
     "uikTvd": "4704019193957",
+    "uikName": "УИК №155",
     "tikTvd": "2702000661755",
-    "tikName": "Томск, Октябрьская"
+    "tikName": "Томск, Октябрьская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 156,
     "uikTvd": "4704019193958",
+    "uikName": "УИК №156",
     "tikTvd": "2702000661755",
-    "tikName": "Томск, Октябрьская"
+    "tikName": "Томск, Октябрьская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 157,
     "uikTvd": "4704019193959",
+    "uikName": "УИК №157",
     "tikTvd": "2702000661755",
-    "tikName": "Томск, Октябрьская"
+    "tikName": "Томск, Октябрьская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 158,
     "uikTvd": "4704019193960",
+    "uikName": "УИК №158",
     "tikTvd": "2702000661755",
-    "tikName": "Томск, Октябрьская"
+    "tikName": "Томск, Октябрьская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 159,
     "uikTvd": "4704019193961",
+    "uikName": "УИК №159",
     "tikTvd": "2702000661755",
-    "tikName": "Томск, Октябрьская"
+    "tikName": "Томск, Октябрьская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 160,
     "uikTvd": "4704019193962",
+    "uikName": "УИК №160",
     "tikTvd": "2702000661755",
-    "tikName": "Томск, Октябрьская"
+    "tikName": "Томск, Октябрьская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 161,
     "uikTvd": "4704019193963",
+    "uikName": "УИК №161",
     "tikTvd": "2702000661755",
-    "tikName": "Томск, Октябрьская"
+    "tikName": "Томск, Октябрьская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 162,
     "uikTvd": "4704019193964",
+    "uikName": "УИК №162",
     "tikTvd": "2702000661755",
-    "tikName": "Томск, Октябрьская"
+    "tikName": "Томск, Октябрьская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 163,
     "uikTvd": "4704019193965",
+    "uikName": "УИК №163",
     "tikTvd": "2702000661755",
-    "tikName": "Томск, Октябрьская"
+    "tikName": "Томск, Октябрьская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 164,
     "uikTvd": "4704019193966",
+    "uikName": "УИК №164",
     "tikTvd": "2702000661755",
-    "tikName": "Томск, Октябрьская"
+    "tikName": "Томск, Октябрьская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 165,
     "uikTvd": "4704019193967",
+    "uikName": "УИК №165",
     "tikTvd": "2702000661755",
-    "tikName": "Томск, Октябрьская"
+    "tikName": "Томск, Октябрьская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 166,
     "uikTvd": "4704019193968",
+    "uikName": "УИК №166",
     "tikTvd": "2702000661755",
-    "tikName": "Томск, Октябрьская"
+    "tikName": "Томск, Октябрьская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 167,
     "uikTvd": "4704019193969",
+    "uikName": "УИК №167",
     "tikTvd": "2702000661755",
-    "tikName": "Томск, Октябрьская"
+    "tikName": "Томск, Октябрьская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 168,
     "uikTvd": "4704018143198",
+    "uikName": "УИК №168",
     "tikTvd": "2702000661758",
-    "tikName": "Томск, Ленинская"
+    "tikName": "Томск, Ленинская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 169,
     "uikTvd": "4704018143199",
+    "uikName": "УИК №169",
     "tikTvd": "2702000661758",
-    "tikName": "Томск, Ленинская"
+    "tikName": "Томск, Ленинская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 170,
     "uikTvd": "4704018143200",
+    "uikName": "УИК №170",
     "tikTvd": "2702000661758",
-    "tikName": "Томск, Ленинская"
+    "tikName": "Томск, Ленинская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 171,
     "uikTvd": "4704018143201",
+    "uikName": "УИК №171",
     "tikTvd": "2702000661758",
-    "tikName": "Томск, Ленинская"
+    "tikName": "Томск, Ленинская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 172,
     "uikTvd": "4704018143202",
+    "uikName": "УИК №172",
     "tikTvd": "2702000661758",
-    "tikName": "Томск, Ленинская"
+    "tikName": "Томск, Ленинская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 173,
     "uikTvd": "4704018143203",
+    "uikName": "УИК №173",
     "tikTvd": "2702000661758",
-    "tikName": "Томск, Ленинская"
+    "tikName": "Томск, Ленинская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 174,
     "uikTvd": "4704018143204",
+    "uikName": "УИК №174",
     "tikTvd": "2702000661758",
-    "tikName": "Томск, Ленинская"
+    "tikName": "Томск, Ленинская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 175,
     "uikTvd": "4704018143205",
+    "uikName": "УИК №175",
     "tikTvd": "2702000661758",
-    "tikName": "Томск, Ленинская"
+    "tikName": "Томск, Ленинская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 176,
     "uikTvd": "4704018143206",
+    "uikName": "УИК №176",
     "tikTvd": "2702000661758",
-    "tikName": "Томск, Ленинская"
+    "tikName": "Томск, Ленинская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 177,
     "uikTvd": "4704018143207",
+    "uikName": "УИК №177",
     "tikTvd": "2702000661758",
-    "tikName": "Томск, Ленинская"
+    "tikName": "Томск, Ленинская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 178,
     "uikTvd": "4704018143208",
+    "uikName": "УИК №178",
     "tikTvd": "2702000661758",
-    "tikName": "Томск, Ленинская"
+    "tikName": "Томск, Ленинская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 179,
     "uikTvd": "4704018143209",
+    "uikName": "УИК №179",
     "tikTvd": "2702000661758",
-    "tikName": "Томск, Ленинская"
+    "tikName": "Томск, Ленинская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 180,
     "uikTvd": "4704018143210",
+    "uikName": "УИК №180",
     "tikTvd": "2702000661758",
-    "tikName": "Томск, Ленинская"
+    "tikName": "Томск, Ленинская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 181,
     "uikTvd": "4704018143211",
+    "uikName": "УИК №181",
     "tikTvd": "2702000661758",
-    "tikName": "Томск, Ленинская"
+    "tikName": "Томск, Ленинская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 182,
     "uikTvd": "4704018143212",
+    "uikName": "УИК №182",
     "tikTvd": "2702000661758",
-    "tikName": "Томск, Ленинская"
+    "tikName": "Томск, Ленинская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 183,
     "uikTvd": "4704018143213",
+    "uikName": "УИК №183",
     "tikTvd": "2702000661758",
-    "tikName": "Томск, Ленинская"
+    "tikName": "Томск, Ленинская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 184,
     "uikTvd": "4704018143214",
+    "uikName": "УИК №184",
     "tikTvd": "2702000661758",
-    "tikName": "Томск, Ленинская"
+    "tikName": "Томск, Ленинская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 185,
     "uikTvd": "4704018143215",
+    "uikName": "УИК №185",
     "tikTvd": "2702000661758",
-    "tikName": "Томск, Ленинская"
+    "tikName": "Томск, Ленинская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 186,
     "uikTvd": "4704018143216",
+    "uikName": "УИК №186",
     "tikTvd": "2702000661758",
-    "tikName": "Томск, Ленинская"
+    "tikName": "Томск, Ленинская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 187,
     "uikTvd": "4704018143217",
+    "uikName": "УИК №187",
     "tikTvd": "2702000661758",
-    "tikName": "Томск, Ленинская"
+    "tikName": "Томск, Ленинская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 188,
     "uikTvd": "4704018143218",
+    "uikName": "УИК №188",
     "tikTvd": "2702000661758",
-    "tikName": "Томск, Ленинская"
+    "tikName": "Томск, Ленинская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 189,
     "uikTvd": "4704018143219",
+    "uikName": "УИК №189",
     "tikTvd": "2702000661758",
-    "tikName": "Томск, Ленинская"
+    "tikName": "Томск, Ленинская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 190,
     "uikTvd": "4704018143220",
+    "uikName": "УИК №190",
     "tikTvd": "2702000661758",
-    "tikName": "Томск, Ленинская"
+    "tikName": "Томск, Ленинская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 191,
     "uikTvd": "4704018143221",
+    "uikName": "УИК №191",
     "tikTvd": "2702000661758",
-    "tikName": "Томск, Ленинская"
+    "tikName": "Томск, Ленинская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 192,
     "uikTvd": "4704018143222",
+    "uikName": "УИК №192",
     "tikTvd": "2702000661758",
-    "tikName": "Томск, Ленинская"
+    "tikName": "Томск, Ленинская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 193,
     "uikTvd": "4704018143223",
+    "uikName": "УИК №193",
     "tikTvd": "2702000661758",
-    "tikName": "Томск, Ленинская"
+    "tikName": "Томск, Ленинская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 194,
     "uikTvd": "4704018143224",
+    "uikName": "УИК №194",
     "tikTvd": "2702000661758",
-    "tikName": "Томск, Ленинская"
+    "tikName": "Томск, Ленинская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 195,
     "uikTvd": "4704018143225",
+    "uikName": "УИК №195",
     "tikTvd": "2702000661758",
-    "tikName": "Томск, Ленинская"
+    "tikName": "Томск, Ленинская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 196,
     "uikTvd": "4704018143226",
+    "uikName": "УИК №196",
     "tikTvd": "2702000661758",
-    "tikName": "Томск, Ленинская"
+    "tikName": "Томск, Ленинская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 197,
     "uikTvd": "4704018143227",
+    "uikName": "УИК №197",
     "tikTvd": "2702000661758",
-    "tikName": "Томск, Ленинская"
+    "tikName": "Томск, Ленинская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 198,
     "uikTvd": "4704018143228",
+    "uikName": "УИК №198",
     "tikTvd": "2702000661758",
-    "tikName": "Томск, Ленинская"
+    "tikName": "Томск, Ленинская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 199,
     "uikTvd": "4704018143229",
+    "uikName": "УИК №199",
     "tikTvd": "2702000661758",
-    "tikName": "Томск, Ленинская"
+    "tikName": "Томск, Ленинская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 200,
     "uikTvd": "4704018143230",
+    "uikName": "УИК №200",
     "tikTvd": "2702000661758",
-    "tikName": "Томск, Ленинская"
+    "tikName": "Томск, Ленинская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 201,
     "uikTvd": "4704018143231",
+    "uikName": "УИК №201",
     "tikTvd": "2702000661758",
-    "tikName": "Томск, Ленинская"
+    "tikName": "Томск, Ленинская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 202,
     "uikTvd": "4704018143232",
+    "uikName": "УИК №202",
     "tikTvd": "2702000661758",
-    "tikName": "Томск, Ленинская"
+    "tikName": "Томск, Ленинская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 203,
     "uikTvd": "4704018143233",
+    "uikName": "УИК №203",
     "tikTvd": "2702000661758",
-    "tikName": "Томск, Ленинская"
+    "tikName": "Томск, Ленинская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 204,
     "uikTvd": "4704018143234",
+    "uikName": "УИК №204",
     "tikTvd": "2702000661758",
-    "tikName": "Томск, Ленинская"
+    "tikName": "Томск, Ленинская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 205,
     "uikTvd": "4704018143235",
+    "uikName": "УИК №205",
     "tikTvd": "2702000661758",
-    "tikName": "Томск, Ленинская"
+    "tikName": "Томск, Ленинская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 206,
     "uikTvd": "4704018143236",
+    "uikName": "УИК №206",
     "tikTvd": "2702000661758",
-    "tikName": "Томск, Ленинская"
+    "tikName": "Томск, Ленинская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 207,
     "uikTvd": "4704018143237",
+    "uikName": "УИК №207",
     "tikTvd": "2702000661758",
-    "tikName": "Томск, Ленинская"
+    "tikName": "Томск, Ленинская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 208,
     "uikTvd": "4704018143238",
+    "uikName": "УИК №208",
     "tikTvd": "2702000661758",
-    "tikName": "Томск, Ленинская"
+    "tikName": "Томск, Ленинская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 209,
     "uikTvd": "4704018143239",
+    "uikName": "УИК №209",
     "tikTvd": "2702000661758",
-    "tikName": "Томск, Ленинская"
+    "tikName": "Томск, Ленинская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 210,
     "uikTvd": "4704018143240",
+    "uikName": "УИК №210",
     "tikTvd": "2702000661758",
-    "tikName": "Томск, Ленинская"
+    "tikName": "Томск, Ленинская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 211,
     "uikTvd": "4704014183817",
+    "uikName": "УИК №211",
     "tikTvd": "2702000661761",
-    "tikName": "Северская городская"
+    "tikName": "Северская городская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 212,
     "uikTvd": "4704014183818",
+    "uikName": "УИК №212",
     "tikTvd": "2702000661761",
-    "tikName": "Северская городская"
+    "tikName": "Северская городская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 213,
     "uikTvd": "4704014183819",
+    "uikName": "УИК №213",
     "tikTvd": "2702000661761",
-    "tikName": "Северская городская"
+    "tikName": "Северская городская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 214,
     "uikTvd": "4704014183820",
+    "uikName": "УИК №214",
     "tikTvd": "2702000661761",
-    "tikName": "Северская городская"
+    "tikName": "Северская городская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 215,
     "uikTvd": "4704014183821",
+    "uikName": "УИК №215",
     "tikTvd": "2702000661761",
-    "tikName": "Северская городская"
+    "tikName": "Северская городская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 216,
     "uikTvd": "4704014183822",
+    "uikName": "УИК №216",
     "tikTvd": "2702000661761",
-    "tikName": "Северская городская"
+    "tikName": "Северская городская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 217,
     "uikTvd": "4704014183823",
+    "uikName": "УИК №217",
     "tikTvd": "2702000661761",
-    "tikName": "Северская городская"
+    "tikName": "Северская городская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 218,
     "uikTvd": "4704014183824",
+    "uikName": "УИК №218",
     "tikTvd": "2702000661761",
-    "tikName": "Северская городская"
+    "tikName": "Северская городская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 219,
     "uikTvd": "4704014183825",
+    "uikName": "УИК №219",
     "tikTvd": "2702000661761",
-    "tikName": "Северская городская"
+    "tikName": "Северская городская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 220,
     "uikTvd": "4704014183826",
+    "uikName": "УИК №220",
     "tikTvd": "2702000661761",
-    "tikName": "Северская городская"
+    "tikName": "Северская городская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 221,
     "uikTvd": "4704014183827",
+    "uikName": "УИК №221",
     "tikTvd": "2702000661761",
-    "tikName": "Северская городская"
+    "tikName": "Северская городская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 222,
     "uikTvd": "4704014183828",
+    "uikName": "УИК №222",
     "tikTvd": "2702000661761",
-    "tikName": "Северская городская"
+    "tikName": "Северская городская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 223,
     "uikTvd": "4704014183829",
+    "uikName": "УИК №223",
     "tikTvd": "2702000661761",
-    "tikName": "Северская городская"
+    "tikName": "Северская городская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 224,
     "uikTvd": "4704014183830",
+    "uikName": "УИК №224",
     "tikTvd": "2702000661761",
-    "tikName": "Северская городская"
+    "tikName": "Северская городская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 225,
     "uikTvd": "4704014183831",
+    "uikName": "УИК №225",
     "tikTvd": "2702000661761",
-    "tikName": "Северская городская"
+    "tikName": "Северская городская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 226,
     "uikTvd": "4704014183832",
+    "uikName": "УИК №226",
     "tikTvd": "2702000661761",
-    "tikName": "Северская городская"
+    "tikName": "Северская городская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 227,
     "uikTvd": "4704014183833",
+    "uikName": "УИК №227",
     "tikTvd": "2702000661761",
-    "tikName": "Северская городская"
+    "tikName": "Северская городская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 228,
     "uikTvd": "4704014183834",
+    "uikName": "УИК №228",
     "tikTvd": "2702000661761",
-    "tikName": "Северская городская"
+    "tikName": "Северская городская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 229,
     "uikTvd": "4704014183835",
+    "uikName": "УИК №229",
     "tikTvd": "2702000661761",
-    "tikName": "Северская городская"
+    "tikName": "Северская городская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 230,
     "uikTvd": "4704014183836",
+    "uikName": "УИК №230",
     "tikTvd": "2702000661761",
-    "tikName": "Северская городская"
+    "tikName": "Северская городская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 231,
     "uikTvd": "4704014183837",
+    "uikName": "УИК №231",
     "tikTvd": "2702000661761",
-    "tikName": "Северская городская"
+    "tikName": "Северская городская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 232,
     "uikTvd": "4704014183838",
+    "uikName": "УИК №232",
     "tikTvd": "2702000661761",
-    "tikName": "Северская городская"
+    "tikName": "Северская городская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 233,
     "uikTvd": "4704014183839",
+    "uikName": "УИК №233",
     "tikTvd": "2702000661761",
-    "tikName": "Северская городская"
+    "tikName": "Северская городская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 234,
     "uikTvd": "4704014183840",
+    "uikName": "УИК №234",
     "tikTvd": "2702000661761",
-    "tikName": "Северская городская"
+    "tikName": "Северская городская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 235,
     "uikTvd": "4704014183841",
+    "uikName": "УИК №235",
     "tikTvd": "2702000661761",
-    "tikName": "Северская городская"
+    "tikName": "Северская городская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 236,
     "uikTvd": "4704014183842",
+    "uikName": "УИК №236",
     "tikTvd": "2702000661761",
-    "tikName": "Северская городская"
+    "tikName": "Северская городская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 237,
     "uikTvd": "4704014183843",
+    "uikName": "УИК №237",
     "tikTvd": "2702000661761",
-    "tikName": "Северская городская"
+    "tikName": "Северская городская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 238,
     "uikTvd": "4704014183844",
+    "uikName": "УИК №238",
     "tikTvd": "2702000661761",
-    "tikName": "Северская городская"
+    "tikName": "Северская городская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 239,
     "uikTvd": "4704014183845",
+    "uikName": "УИК №239",
     "tikTvd": "2702000661761",
-    "tikName": "Северская городская"
+    "tikName": "Северская городская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 240,
     "uikTvd": "4704014183846",
+    "uikName": "УИК №240",
     "tikTvd": "2702000661761",
-    "tikName": "Северская городская"
+    "tikName": "Северская городская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 241,
     "uikTvd": "4704014183847",
+    "uikName": "УИК №241",
     "tikTvd": "2702000661761",
-    "tikName": "Северская городская"
+    "tikName": "Северская городская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 242,
     "uikTvd": "4704014183848",
+    "uikName": "УИК №242",
     "tikTvd": "2702000661761",
-    "tikName": "Северская городская"
+    "tikName": "Северская городская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 243,
     "uikTvd": "4704014183849",
+    "uikName": "УИК №243",
     "tikTvd": "2702000661761",
-    "tikName": "Северская городская"
+    "tikName": "Северская городская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 244,
     "uikTvd": "4704014183850",
+    "uikName": "УИК №244",
     "tikTvd": "2702000661761",
-    "tikName": "Северская городская"
+    "tikName": "Северская городская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 245,
     "uikTvd": "4704014183851",
+    "uikName": "УИК №245",
     "tikTvd": "2702000661761",
-    "tikName": "Северская городская"
+    "tikName": "Северская городская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 246,
     "uikTvd": "4704014183852",
+    "uikName": "УИК №246",
     "tikTvd": "2702000661761",
-    "tikName": "Северская городская"
+    "tikName": "Северская городская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 247,
     "uikTvd": "4704014183853",
+    "uikName": "УИК №247",
     "tikTvd": "2702000661761",
-    "tikName": "Северская городская"
+    "tikName": "Северская городская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 248,
     "uikTvd": "4704014183854",
+    "uikName": "УИК №248",
     "tikTvd": "2702000661761",
-    "tikName": "Северская городская"
+    "tikName": "Северская городская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 249,
     "uikTvd": "4704014183855",
+    "uikName": "УИК №249",
     "tikTvd": "2702000661761",
-    "tikName": "Северская городская"
+    "tikName": "Северская городская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 250,
     "uikTvd": "4704014183856",
+    "uikName": "УИК №250",
     "tikTvd": "2702000661761",
-    "tikName": "Северская городская"
+    "tikName": "Северская городская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 251,
     "uikTvd": "4704014183857",
+    "uikName": "УИК №251",
     "tikTvd": "2702000661761",
-    "tikName": "Северская городская"
+    "tikName": "Северская городская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 252,
     "uikTvd": "4704014183858",
+    "uikName": "УИК №252",
     "tikTvd": "2702000661761",
-    "tikName": "Северская городская"
+    "tikName": "Северская городская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 253,
     "uikTvd": "4704014183859",
+    "uikName": "УИК №253",
     "tikTvd": "2702000661761",
-    "tikName": "Северская городская"
+    "tikName": "Северская городская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 254,
     "uikTvd": "4704014183860",
+    "uikName": "УИК №254",
     "tikTvd": "2702000661761",
-    "tikName": "Северская городская"
+    "tikName": "Северская городская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 255,
     "uikTvd": "4704014183861",
+    "uikName": "УИК №255",
     "tikTvd": "2702000661761",
-    "tikName": "Северская городская"
+    "tikName": "Северская городская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 256,
     "uikTvd": "4704002153016",
+    "uikName": "УИК №256",
     "tikTvd": "2702000661769",
-    "tikName": "Асиновская"
+    "tikName": "Асиновская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 257,
     "uikTvd": "4704002153018",
+    "uikName": "УИК №257",
     "tikTvd": "2702000661769",
-    "tikName": "Асиновская"
+    "tikName": "Асиновская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 258,
     "uikTvd": "4704002153019",
+    "uikName": "УИК №258",
     "tikTvd": "2702000661769",
-    "tikName": "Асиновская"
+    "tikName": "Асиновская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 259,
     "uikTvd": "4704002153020",
+    "uikName": "УИК №259",
     "tikTvd": "2702000661769",
-    "tikName": "Асиновская"
+    "tikName": "Асиновская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 260,
     "uikTvd": "4704002153021",
+    "uikName": "УИК №260",
     "tikTvd": "2702000661769",
-    "tikName": "Асиновская"
+    "tikName": "Асиновская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 261,
     "uikTvd": "4704002153022",
+    "uikName": "УИК №261",
     "tikTvd": "2702000661769",
-    "tikName": "Асиновская"
+    "tikName": "Асиновская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 262,
     "uikTvd": "4704002153023",
+    "uikName": "УИК №262",
     "tikTvd": "2702000661769",
-    "tikName": "Асиновская"
+    "tikName": "Асиновская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 263,
     "uikTvd": "4704002153024",
+    "uikName": "УИК №263",
     "tikTvd": "2702000661769",
-    "tikName": "Асиновская"
+    "tikName": "Асиновская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 264,
     "uikTvd": "4704002153025",
+    "uikName": "УИК №264",
     "tikTvd": "2702000661769",
-    "tikName": "Асиновская"
+    "tikName": "Асиновская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 265,
     "uikTvd": "4704002153026",
+    "uikName": "УИК №265",
     "tikTvd": "2702000661769",
-    "tikName": "Асиновская"
+    "tikName": "Асиновская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 266,
     "uikTvd": "4704002153027",
+    "uikName": "УИК №266",
     "tikTvd": "2702000661769",
-    "tikName": "Асиновская"
+    "tikName": "Асиновская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 267,
     "uikTvd": "4704002153028",
+    "uikName": "УИК №267",
     "tikTvd": "2702000661769",
-    "tikName": "Асиновская"
+    "tikName": "Асиновская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 268,
     "uikTvd": "4704002153029",
+    "uikName": "УИК №268",
     "tikTvd": "2702000661769",
-    "tikName": "Асиновская"
+    "tikName": "Асиновская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 269,
     "uikTvd": "4704002153030",
+    "uikName": "УИК №269",
     "tikTvd": "2702000661769",
-    "tikName": "Асиновская"
+    "tikName": "Асиновская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 270,
     "uikTvd": "4704002153031",
+    "uikName": "УИК №270",
     "tikTvd": "2702000661769",
-    "tikName": "Асиновская"
+    "tikName": "Асиновская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 271,
     "uikTvd": "4704002153032",
+    "uikName": "УИК №271",
     "tikTvd": "2702000661769",
-    "tikName": "Асиновская"
+    "tikName": "Асиновская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 272,
     "uikTvd": "4704002153033",
+    "uikName": "УИК №272",
     "tikTvd": "2702000661769",
-    "tikName": "Асиновская"
+    "tikName": "Асиновская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 273,
     "uikTvd": "4704002153034",
+    "uikName": "УИК №273",
     "tikTvd": "2702000661769",
-    "tikName": "Асиновская"
+    "tikName": "Асиновская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 274,
     "uikTvd": "4704002153035",
+    "uikName": "УИК №274",
     "tikTvd": "2702000661769",
-    "tikName": "Асиновская"
+    "tikName": "Асиновская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 275,
     "uikTvd": "4704002153036",
+    "uikName": "УИК №275",
     "tikTvd": "2702000661769",
-    "tikName": "Асиновская"
+    "tikName": "Асиновская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 276,
     "uikTvd": "4704002153037",
+    "uikName": "УИК №276",
     "tikTvd": "2702000661769",
-    "tikName": "Асиновская"
+    "tikName": "Асиновская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 277,
     "uikTvd": "4704002153038",
+    "uikName": "УИК №277",
     "tikTvd": "2702000661769",
-    "tikName": "Асиновская"
+    "tikName": "Асиновская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 278,
     "uikTvd": "4704002153039",
+    "uikName": "УИК №278",
     "tikTvd": "2702000661769",
-    "tikName": "Асиновская"
+    "tikName": "Асиновская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 279,
     "uikTvd": "4704002153040",
+    "uikName": "УИК №279",
     "tikTvd": "2702000661769",
-    "tikName": "Асиновская"
+    "tikName": "Асиновская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 280,
     "uikTvd": "4704002153041",
+    "uikName": "УИК №280",
     "tikTvd": "2702000661769",
-    "tikName": "Асиновская"
+    "tikName": "Асиновская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 281,
     "uikTvd": "4704002153042",
+    "uikName": "УИК №281",
     "tikTvd": "2702000661769",
-    "tikName": "Асиновская"
+    "tikName": "Асиновская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 282,
     "uikTvd": "4704002153043",
+    "uikName": "УИК №282",
     "tikTvd": "2702000661769",
-    "tikName": "Асиновская"
+    "tikName": "Асиновская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 283,
     "uikTvd": "4704002153044",
+    "uikName": "УИК №283",
     "tikTvd": "2702000661769",
-    "tikName": "Асиновская"
+    "tikName": "Асиновская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 284,
     "uikTvd": "4704002153045",
+    "uikName": "УИК №284",
     "tikTvd": "2702000661769",
-    "tikName": "Асиновская"
+    "tikName": "Асиновская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 285,
     "uikTvd": "4704002153046",
+    "uikName": "УИК №285",
     "tikTvd": "2702000661769",
-    "tikName": "Асиновская"
+    "tikName": "Асиновская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 286,
     "uikTvd": "4704002153047",
+    "uikName": "УИК №286",
     "tikTvd": "2702000661769",
-    "tikName": "Асиновская"
+    "tikName": "Асиновская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 287,
     "uikTvd": "4704002153048",
+    "uikName": "УИК №287",
     "tikTvd": "2702000661769",
-    "tikName": "Асиновская"
+    "tikName": "Асиновская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 288,
     "uikTvd": "4704002153049",
+    "uikName": "УИК №288",
     "tikTvd": "2702000661769",
-    "tikName": "Асиновская"
+    "tikName": "Асиновская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 289,
     "uikTvd": "4704002153050",
+    "uikName": "УИК №289",
     "tikTvd": "2702000661769",
-    "tikName": "Асиновская"
+    "tikName": "Асиновская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 290,
     "uikTvd": "4704002153051",
+    "uikName": "УИК №290",
     "tikTvd": "2702000661769",
-    "tikName": "Асиновская"
+    "tikName": "Асиновская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 291,
     "uikTvd": "4704002153052",
+    "uikName": "УИК №291",
     "tikTvd": "2702000661769",
-    "tikName": "Асиновская"
+    "tikName": "Асиновская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 292,
     "uikTvd": "4704002153053",
+    "uikName": "УИК №292",
     "tikTvd": "2702000661769",
-    "tikName": "Асиновская"
+    "tikName": "Асиновская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 293,
     "uikTvd": "4704002153054",
+    "uikName": "УИК №293",
     "tikTvd": "2702000661769",
-    "tikName": "Асиновская"
+    "tikName": "Асиновская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 294,
     "uikTvd": "4704002153055",
+    "uikName": "УИК №294",
     "tikTvd": "2702000661769",
-    "tikName": "Асиновская"
+    "tikName": "Асиновская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 295,
     "uikTvd": "4704002153056",
+    "uikName": "УИК №295",
     "tikTvd": "2702000661769",
-    "tikName": "Асиновская"
+    "tikName": "Асиновская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 296,
     "uikTvd": "4704002153057",
+    "uikName": "УИК №296",
     "tikTvd": "2702000661769",
-    "tikName": "Асиновская"
+    "tikName": "Асиновская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 297,
     "uikTvd": "4704002153058",
+    "uikName": "УИК №297",
     "tikTvd": "2702000661769",
-    "tikName": "Асиновская"
+    "tikName": "Асиновская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 298,
     "uikTvd": "4704002153059",
+    "uikName": "УИК №298",
     "tikTvd": "2702000661769",
-    "tikName": "Асиновская"
+    "tikName": "Асиновская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 299,
     "uikTvd": "4704002153060",
+    "uikName": "УИК №299",
     "tikTvd": "2702000661769",
-    "tikName": "Асиновская"
+    "tikName": "Асиновская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 300,
     "uikTvd": "470400799762",
+    "uikName": "УИК №300",
     "tikTvd": "2702000661759",
-    "tikName": "Кедровская городская"
+    "tikName": "Кедровская городская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 301,
     "uikTvd": "470400799764",
+    "uikName": "УИК №301",
     "tikTvd": "2702000661759",
-    "tikName": "Кедровская городская"
+    "tikName": "Кедровская городская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 302,
     "uikTvd": "470400799765",
+    "uikName": "УИК №302",
     "tikTvd": "2702000661759",
-    "tikName": "Кедровская городская"
+    "tikName": "Кедровская городская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 303,
     "uikTvd": "470400799766",
+    "uikName": "УИК №303",
     "tikTvd": "2702000661759",
-    "tikName": "Кедровская городская"
+    "tikName": "Кедровская городская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 304,
     "uikTvd": "470400799767",
+    "uikName": "УИК №304",
     "tikTvd": "2702000661759",
-    "tikName": "Кедровская городская"
+    "tikName": "Кедровская городская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 305,
     "uikTvd": "4704009165977",
+    "uikName": "УИК №305",
     "tikTvd": "2702000661763",
-    "tikName": "Колпашевская"
+    "tikName": "Колпашевская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 306,
     "uikTvd": "4704009165978",
+    "uikName": "УИК №306",
     "tikTvd": "2702000661763",
-    "tikName": "Колпашевская"
+    "tikName": "Колпашевская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 307,
     "uikTvd": "4704009165979",
+    "uikName": "УИК №307",
     "tikTvd": "2702000661763",
-    "tikName": "Колпашевская"
+    "tikName": "Колпашевская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 308,
     "uikTvd": "4704009165980",
+    "uikName": "УИК №308",
     "tikTvd": "2702000661763",
-    "tikName": "Колпашевская"
+    "tikName": "Колпашевская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 309,
     "uikTvd": "4704009165981",
+    "uikName": "УИК №309",
     "tikTvd": "2702000661763",
-    "tikName": "Колпашевская"
+    "tikName": "Колпашевская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 310,
     "uikTvd": "4704009165982",
+    "uikName": "УИК №310",
     "tikTvd": "2702000661763",
-    "tikName": "Колпашевская"
+    "tikName": "Колпашевская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 311,
     "uikTvd": "4704009165983",
+    "uikName": "УИК №311",
     "tikTvd": "2702000661763",
-    "tikName": "Колпашевская"
+    "tikName": "Колпашевская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 312,
     "uikTvd": "4704009165984",
+    "uikName": "УИК №312",
     "tikTvd": "2702000661763",
-    "tikName": "Колпашевская"
+    "tikName": "Колпашевская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 313,
     "uikTvd": "4704009165985",
+    "uikName": "УИК №313",
     "tikTvd": "2702000661763",
-    "tikName": "Колпашевская"
+    "tikName": "Колпашевская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 314,
     "uikTvd": "4704009165986",
+    "uikName": "УИК №314",
     "tikTvd": "2702000661763",
-    "tikName": "Колпашевская"
+    "tikName": "Колпашевская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 315,
     "uikTvd": "4704009165987",
+    "uikName": "УИК №315",
     "tikTvd": "2702000661763",
-    "tikName": "Колпашевская"
+    "tikName": "Колпашевская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 316,
     "uikTvd": "4704009165988",
+    "uikName": "УИК №316",
     "tikTvd": "2702000661763",
-    "tikName": "Колпашевская"
+    "tikName": "Колпашевская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 317,
     "uikTvd": "4704009165989",
+    "uikName": "УИК №317",
     "tikTvd": "2702000661763",
-    "tikName": "Колпашевская"
+    "tikName": "Колпашевская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 318,
     "uikTvd": "4704009165990",
+    "uikName": "УИК №318",
     "tikTvd": "2702000661763",
-    "tikName": "Колпашевская"
+    "tikName": "Колпашевская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 319,
     "uikTvd": "4704009165991",
+    "uikName": "УИК №319",
     "tikTvd": "2702000661763",
-    "tikName": "Колпашевская"
+    "tikName": "Колпашевская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 320,
     "uikTvd": "4704009165992",
+    "uikName": "УИК №320",
     "tikTvd": "2702000661763",
-    "tikName": "Колпашевская"
+    "tikName": "Колпашевская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 321,
     "uikTvd": "4704009165993",
+    "uikName": "УИК №321",
     "tikTvd": "2702000661763",
-    "tikName": "Колпашевская"
+    "tikName": "Колпашевская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 322,
     "uikTvd": "4704009165994",
+    "uikName": "УИК №322",
     "tikTvd": "2702000661763",
-    "tikName": "Колпашевская"
+    "tikName": "Колпашевская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 323,
     "uikTvd": "4704009165995",
+    "uikName": "УИК №323",
     "tikTvd": "2702000661763",
-    "tikName": "Колпашевская"
+    "tikName": "Колпашевская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 324,
     "uikTvd": "4704009165996",
+    "uikName": "УИК №324",
     "tikTvd": "2702000661763",
-    "tikName": "Колпашевская"
+    "tikName": "Колпашевская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 325,
     "uikTvd": "4704009165997",
+    "uikName": "УИК №325",
     "tikTvd": "2702000661763",
-    "tikName": "Колпашевская"
+    "tikName": "Колпашевская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 326,
     "uikTvd": "4704009165998",
+    "uikName": "УИК №326",
     "tikTvd": "2702000661763",
-    "tikName": "Колпашевская"
+    "tikName": "Колпашевская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 327,
     "uikTvd": "4704009165999",
+    "uikName": "УИК №327",
     "tikTvd": "2702000661763",
-    "tikName": "Колпашевская"
+    "tikName": "Колпашевская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 328,
     "uikTvd": "4704009166000",
+    "uikName": "УИК №328",
     "tikTvd": "2702000661763",
-    "tikName": "Колпашевская"
+    "tikName": "Колпашевская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 329,
     "uikTvd": "4704009166001",
+    "uikName": "УИК №329",
     "tikTvd": "2702000661763",
-    "tikName": "Колпашевская"
+    "tikName": "Колпашевская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 330,
     "uikTvd": "4704009166002",
+    "uikName": "УИК №330",
     "tikTvd": "2702000661763",
-    "tikName": "Колпашевская"
+    "tikName": "Колпашевская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 331,
     "uikTvd": "4704009166003",
+    "uikName": "УИК №331",
     "tikTvd": "2702000661763",
-    "tikName": "Колпашевская"
+    "tikName": "Колпашевская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 332,
     "uikTvd": "4704009166004",
+    "uikName": "УИК №332",
     "tikTvd": "2702000661763",
-    "tikName": "Колпашевская"
+    "tikName": "Колпашевская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 333,
     "uikTvd": "4704009166005",
+    "uikName": "УИК №333",
     "tikTvd": "2702000661763",
-    "tikName": "Колпашевская"
+    "tikName": "Колпашевская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 334,
     "uikTvd": "4704009166006",
+    "uikName": "УИК №334",
     "tikTvd": "2702000661763",
-    "tikName": "Колпашевская"
+    "tikName": "Колпашевская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 335,
     "uikTvd": "4704009166007",
+    "uikName": "УИК №335",
     "tikTvd": "2702000661763",
-    "tikName": "Колпашевская"
+    "tikName": "Колпашевская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 336,
     "uikTvd": "4704009166008",
+    "uikName": "УИК №336",
     "tikTvd": "2702000661763",
-    "tikName": "Колпашевская"
+    "tikName": "Колпашевская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 337,
     "uikTvd": "4704009166009",
+    "uikName": "УИК №337",
     "tikTvd": "2702000661763",
-    "tikName": "Колпашевская"
+    "tikName": "Колпашевская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 338,
     "uikTvd": "4704009166010",
+    "uikName": "УИК №338",
     "tikTvd": "2702000661763",
-    "tikName": "Колпашевская"
+    "tikName": "Колпашевская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 339,
     "uikTvd": "4704009166011",
+    "uikName": "УИК №339",
     "tikTvd": "2702000661763",
-    "tikName": "Колпашевская"
+    "tikName": "Колпашевская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 340,
     "uikTvd": "4704009166012",
+    "uikName": "УИК №340",
     "tikTvd": "2702000661763",
-    "tikName": "Колпашевская"
+    "tikName": "Колпашевская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 341,
     "uikTvd": "4704009166013",
+    "uikName": "УИК №341",
     "tikTvd": "2702000661763",
-    "tikName": "Колпашевская"
+    "tikName": "Колпашевская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 342,
     "uikTvd": "4704009166014",
+    "uikName": "УИК №342",
     "tikTvd": "2702000661763",
-    "tikName": "Колпашевская"
+    "tikName": "Колпашевская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 343,
     "uikTvd": "4704009166015",
+    "uikName": "УИК №343",
     "tikTvd": "2702000661763",
-    "tikName": "Колпашевская"
+    "tikName": "Колпашевская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 344,
     "uikTvd": "4704009166016",
+    "uikName": "УИК №344",
     "tikTvd": "2702000661763",
-    "tikName": "Колпашевская"
+    "tikName": "Колпашевская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 345,
     "uikTvd": "4704009166017",
+    "uikName": "УИК №345",
     "tikTvd": "2702000661763",
-    "tikName": "Колпашевская"
+    "tikName": "Колпашевская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 346,
     "uikTvd": "4704009166018",
+    "uikName": "УИК №346",
     "tikTvd": "2702000661763",
-    "tikName": "Колпашевская"
+    "tikName": "Колпашевская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 347,
     "uikTvd": "4704009166019",
+    "uikName": "УИК №347",
     "tikTvd": "2702000661763",
-    "tikName": "Колпашевская"
+    "tikName": "Колпашевская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 348,
     "uikTvd": "4704009166020",
+    "uikName": "УИК №348",
     "tikTvd": "2702000661763",
-    "tikName": "Колпашевская"
+    "tikName": "Колпашевская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 349,
     "uikTvd": "4704009166021",
+    "uikName": "УИК №349",
     "tikTvd": "2702000661763",
-    "tikName": "Колпашевская"
+    "tikName": "Колпашевская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 350,
     "uikTvd": "4704009166022",
+    "uikName": "УИК №350",
     "tikTvd": "2702000661763",
-    "tikName": "Колпашевская"
+    "tikName": "Колпашевская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 351,
     "uikTvd": "4704009166023",
+    "uikName": "УИК №351",
     "tikTvd": "2702000661763",
-    "tikName": "Колпашевская"
+    "tikName": "Колпашевская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 352,
     "uikTvd": "4704009166024",
+    "uikName": "УИК №352",
     "tikTvd": "2702000661763",
-    "tikName": "Колпашевская"
+    "tikName": "Колпашевская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 353,
     "uikTvd": "4704009166025",
+    "uikName": "УИК №353",
     "tikTvd": "2702000661763",
-    "tikName": "Колпашевская"
+    "tikName": "Колпашевская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 354,
     "uikTvd": "4704009166026",
+    "uikName": "УИК №354",
     "tikTvd": "2702000661763",
-    "tikName": "Колпашевская"
+    "tikName": "Колпашевская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 355,
     "uikTvd": "4704009166027",
+    "uikName": "УИК №355",
     "tikTvd": "2702000661763",
-    "tikName": "Колпашевская"
+    "tikName": "Колпашевская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 356,
     "uikTvd": "4704015134476",
+    "uikName": "УИК №356",
     "tikTvd": "2702000661752",
-    "tikName": "Cтрежевская городская"
+    "tikName": "Cтрежевская городская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 357,
     "uikTvd": "4704015134477",
+    "uikName": "УИК №357",
     "tikTvd": "2702000661752",
-    "tikName": "Cтрежевская городская"
+    "tikName": "Cтрежевская городская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 358,
     "uikTvd": "4704015134478",
+    "uikName": "УИК №358",
     "tikTvd": "2702000661752",
-    "tikName": "Cтрежевская городская"
+    "tikName": "Cтрежевская городская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 359,
     "uikTvd": "4704015134479",
+    "uikName": "УИК №359",
     "tikTvd": "2702000661752",
-    "tikName": "Cтрежевская городская"
+    "tikName": "Cтрежевская городская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 360,
     "uikTvd": "4704015134480",
+    "uikName": "УИК №360",
     "tikTvd": "2702000661752",
-    "tikName": "Cтрежевская городская"
+    "tikName": "Cтрежевская городская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 361,
     "uikTvd": "4704015134481",
+    "uikName": "УИК №361",
     "tikTvd": "2702000661752",
-    "tikName": "Cтрежевская городская"
+    "tikName": "Cтрежевская городская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 362,
     "uikTvd": "4704015134482",
+    "uikName": "УИК №362",
     "tikTvd": "2702000661752",
-    "tikName": "Cтрежевская городская"
+    "tikName": "Cтрежевская городская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 363,
     "uikTvd": "4704015134483",
+    "uikName": "УИК №363",
     "tikTvd": "2702000661752",
-    "tikName": "Cтрежевская городская"
+    "tikName": "Cтрежевская городская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 364,
     "uikTvd": "4704015134484",
+    "uikName": "УИК №364",
     "tikTvd": "2702000661752",
-    "tikName": "Cтрежевская городская"
+    "tikName": "Cтрежевская городская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 365,
     "uikTvd": "4704015134485",
+    "uikName": "УИК №365",
     "tikTvd": "2702000661752",
-    "tikName": "Cтрежевская городская"
+    "tikName": "Cтрежевская городская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 366,
     "uikTvd": "4704015134486",
+    "uikName": "УИК №366",
     "tikTvd": "2702000661752",
-    "tikName": "Cтрежевская городская"
+    "tikName": "Cтрежевская городская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 367,
     "uikTvd": "4704015134487",
+    "uikName": "УИК №367",
     "tikTvd": "2702000661752",
-    "tikName": "Cтрежевская городская"
+    "tikName": "Cтрежевская городская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 368,
     "uikTvd": "4704001133652",
+    "uikName": "УИК №368",
     "tikTvd": "2702000661767",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 369,
     "uikTvd": "4704001133653",
+    "uikName": "УИК №369",
     "tikTvd": "2702000661767",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 370,
     "uikTvd": "4704001133654",
+    "uikName": "УИК №370",
     "tikTvd": "2702000661767",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 371,
     "uikTvd": "4704001133655",
+    "uikName": "УИК №371",
     "tikTvd": "2702000661767",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 372,
     "uikTvd": "4704001133656",
+    "uikName": "УИК №372",
     "tikTvd": "2702000661767",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 373,
     "uikTvd": "4704001133657",
+    "uikName": "УИК №373",
     "tikTvd": "2702000661767",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 374,
     "uikTvd": "4704001133658",
+    "uikName": "УИК №374",
     "tikTvd": "2702000661767",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 375,
     "uikTvd": "4704001133659",
+    "uikName": "УИК №375",
     "tikTvd": "2702000661767",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 376,
     "uikTvd": "4704001133660",
+    "uikName": "УИК №376",
     "tikTvd": "2702000661767",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 377,
     "uikTvd": "4704001133661",
+    "uikName": "УИК №377",
     "tikTvd": "2702000661767",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 378,
     "uikTvd": "4704001133662",
+    "uikName": "УИК №378",
     "tikTvd": "2702000661767",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 379,
     "uikTvd": "4704001133663",
+    "uikName": "УИК №379",
     "tikTvd": "2702000661767",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 381,
     "uikTvd": "4704003132643",
+    "uikName": "УИК №381",
     "tikTvd": "2702000661751",
-    "tikName": "Бакчарская"
+    "tikName": "Бакчарская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 382,
     "uikTvd": "4704003132644",
+    "uikName": "УИК №382",
     "tikTvd": "2702000661751",
-    "tikName": "Бакчарская"
+    "tikName": "Бакчарская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 383,
     "uikTvd": "4704003132645",
+    "uikName": "УИК №383",
     "tikTvd": "2702000661751",
-    "tikName": "Бакчарская"
+    "tikName": "Бакчарская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 384,
     "uikTvd": "4704003132646",
+    "uikName": "УИК №384",
     "tikTvd": "2702000661751",
-    "tikName": "Бакчарская"
+    "tikName": "Бакчарская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 386,
     "uikTvd": "4704003132647",
+    "uikName": "УИК №386",
     "tikTvd": "2702000661751",
-    "tikName": "Бакчарская"
+    "tikName": "Бакчарская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 387,
     "uikTvd": "4704003132648",
+    "uikName": "УИК №387",
     "tikTvd": "2702000661751",
-    "tikName": "Бакчарская"
+    "tikName": "Бакчарская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 388,
     "uikTvd": "4704003132649",
+    "uikName": "УИК №388",
     "tikTvd": "2702000661751",
-    "tikName": "Бакчарская"
+    "tikName": "Бакчарская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 389,
     "uikTvd": "4704003132650",
+    "uikName": "УИК №389",
     "tikTvd": "2702000661751",
-    "tikName": "Бакчарская"
+    "tikName": "Бакчарская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 390,
     "uikTvd": "4704003132651",
+    "uikName": "УИК №390",
     "tikTvd": "2702000661751",
-    "tikName": "Бакчарская"
+    "tikName": "Бакчарская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 391,
     "uikTvd": "4704003132652",
+    "uikName": "УИК №391",
     "tikTvd": "2702000661751",
-    "tikName": "Бакчарская"
+    "tikName": "Бакчарская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 392,
     "uikTvd": "4704003132653",
+    "uikName": "УИК №392",
     "tikTvd": "2702000661751",
-    "tikName": "Бакчарская"
+    "tikName": "Бакчарская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 393,
     "uikTvd": "4704003132654",
+    "uikName": "УИК №393",
     "tikTvd": "2702000661751",
-    "tikName": "Бакчарская"
+    "tikName": "Бакчарская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 394,
     "uikTvd": "4704003132655",
+    "uikName": "УИК №394",
     "tikTvd": "2702000661751",
-    "tikName": "Бакчарская"
+    "tikName": "Бакчарская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 395,
     "uikTvd": "4704003132656",
+    "uikName": "УИК №395",
     "tikTvd": "2702000661751",
-    "tikName": "Бакчарская"
+    "tikName": "Бакчарская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 396,
     "uikTvd": "4704003132657",
+    "uikName": "УИК №396",
     "tikTvd": "2702000661751",
-    "tikName": "Бакчарская"
+    "tikName": "Бакчарская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 397,
     "uikTvd": "4704003132658",
+    "uikName": "УИК №397",
     "tikTvd": "2702000661751",
-    "tikName": "Бакчарская"
+    "tikName": "Бакчарская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 398,
     "uikTvd": "4704003132659",
+    "uikName": "УИК №398",
     "tikTvd": "2702000661751",
-    "tikName": "Бакчарская"
+    "tikName": "Бакчарская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 399,
     "uikTvd": "4704003132660",
+    "uikName": "УИК №399",
     "tikTvd": "2702000661751",
-    "tikName": "Бакчарская"
+    "tikName": "Бакчарская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 400,
     "uikTvd": "4704003132661",
+    "uikName": "УИК №400",
     "tikTvd": "2702000661751",
-    "tikName": "Бакчарская"
+    "tikName": "Бакчарская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 401,
     "uikTvd": "4704003132662",
+    "uikName": "УИК №401",
     "tikTvd": "2702000661751",
-    "tikName": "Бакчарская"
+    "tikName": "Бакчарская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 402,
     "uikTvd": "4704003132663",
+    "uikName": "УИК №402",
     "tikTvd": "2702000661751",
-    "tikName": "Бакчарская"
+    "tikName": "Бакчарская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 403,
     "uikTvd": "4704003132664",
+    "uikName": "УИК №403",
     "tikTvd": "2702000661751",
-    "tikName": "Бакчарская"
+    "tikName": "Бакчарская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 404,
     "uikTvd": "4704003132665",
+    "uikName": "УИК №404",
     "tikTvd": "2702000661751",
-    "tikName": "Бакчарская"
+    "tikName": "Бакчарская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 405,
     "uikTvd": "4704003132666",
+    "uikName": "УИК №405",
     "tikTvd": "2702000661751",
-    "tikName": "Бакчарская"
+    "tikName": "Бакчарская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 406,
     "uikTvd": "4704003132667",
+    "uikName": "УИК №406",
     "tikTvd": "2702000661751",
-    "tikName": "Бакчарская"
+    "tikName": "Бакчарская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 407,
     "uikTvd": "4704003132668",
+    "uikName": "УИК №407",
     "tikTvd": "2702000661751",
-    "tikName": "Бакчарская"
+    "tikName": "Бакчарская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 409,
     "uikTvd": "4704003132669",
+    "uikName": "УИК №409",
     "tikTvd": "2702000661751",
-    "tikName": "Бакчарская"
+    "tikName": "Бакчарская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 410,
     "uikTvd": "4704004150973",
+    "uikName": "УИК №410",
     "tikTvd": "2702000661760",
-    "tikName": "Верхнекетская"
+    "tikName": "Верхнекетская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 411,
     "uikTvd": "4704004150974",
+    "uikName": "УИК №411",
     "tikTvd": "2702000661760",
-    "tikName": "Верхнекетская"
+    "tikName": "Верхнекетская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 412,
     "uikTvd": "4704004150975",
+    "uikName": "УИК №412",
     "tikTvd": "2702000661760",
-    "tikName": "Верхнекетская"
+    "tikName": "Верхнекетская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 413,
     "uikTvd": "4704004150976",
+    "uikName": "УИК №413",
     "tikTvd": "2702000661760",
-    "tikName": "Верхнекетская"
+    "tikName": "Верхнекетская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 414,
     "uikTvd": "4704004150977",
+    "uikName": "УИК №414",
     "tikTvd": "2702000661760",
-    "tikName": "Верхнекетская"
+    "tikName": "Верхнекетская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 415,
     "uikTvd": "4704004150978",
+    "uikName": "УИК №415",
     "tikTvd": "2702000661760",
-    "tikName": "Верхнекетская"
+    "tikName": "Верхнекетская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 416,
     "uikTvd": "4704004150979",
+    "uikName": "УИК №416",
     "tikTvd": "2702000661760",
-    "tikName": "Верхнекетская"
+    "tikName": "Верхнекетская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 417,
     "uikTvd": "4704004150980",
+    "uikName": "УИК №417",
     "tikTvd": "2702000661760",
-    "tikName": "Верхнекетская"
+    "tikName": "Верхнекетская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 418,
     "uikTvd": "4704004150981",
+    "uikName": "УИК №418",
     "tikTvd": "2702000661760",
-    "tikName": "Верхнекетская"
+    "tikName": "Верхнекетская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 419,
     "uikTvd": "4704004150982",
+    "uikName": "УИК №419",
     "tikTvd": "2702000661760",
-    "tikName": "Верхнекетская"
+    "tikName": "Верхнекетская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 420,
     "uikTvd": "4704004150983",
+    "uikName": "УИК №420",
     "tikTvd": "2702000661760",
-    "tikName": "Верхнекетская"
+    "tikName": "Верхнекетская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 421,
     "uikTvd": "4704004150984",
+    "uikName": "УИК №421",
     "tikTvd": "2702000661760",
-    "tikName": "Верхнекетская"
+    "tikName": "Верхнекетская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 422,
     "uikTvd": "4704004150985",
+    "uikName": "УИК №422",
     "tikTvd": "2702000661760",
-    "tikName": "Верхнекетская"
+    "tikName": "Верхнекетская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 423,
     "uikTvd": "4704004150986",
+    "uikName": "УИК №423",
     "tikTvd": "2702000661760",
-    "tikName": "Верхнекетская"
+    "tikName": "Верхнекетская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 424,
     "uikTvd": "4704004150987",
+    "uikName": "УИК №424",
     "tikTvd": "2702000661760",
-    "tikName": "Верхнекетская"
+    "tikName": "Верхнекетская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 425,
     "uikTvd": "4704004150988",
+    "uikName": "УИК №425",
     "tikTvd": "2702000661760",
-    "tikName": "Верхнекетская"
+    "tikName": "Верхнекетская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 426,
     "uikTvd": "4704005173699",
+    "uikName": "УИК №426",
     "tikTvd": "2702000661749",
-    "tikName": "Зырянская"
+    "tikName": "Зырянская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 427,
     "uikTvd": "4704005173700",
+    "uikName": "УИК №427",
     "tikTvd": "2702000661749",
-    "tikName": "Зырянская"
+    "tikName": "Зырянская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 428,
     "uikTvd": "4704005173701",
+    "uikName": "УИК №428",
     "tikTvd": "2702000661749",
-    "tikName": "Зырянская"
+    "tikName": "Зырянская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 429,
     "uikTvd": "4704005173702",
+    "uikName": "УИК №429",
     "tikTvd": "2702000661749",
-    "tikName": "Зырянская"
+    "tikName": "Зырянская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 430,
     "uikTvd": "4704005173703",
+    "uikName": "УИК №430",
     "tikTvd": "2702000661749",
-    "tikName": "Зырянская"
+    "tikName": "Зырянская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 431,
     "uikTvd": "4704005173704",
+    "uikName": "УИК №431",
     "tikTvd": "2702000661749",
-    "tikName": "Зырянская"
+    "tikName": "Зырянская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 432,
     "uikTvd": "4704005173705",
+    "uikName": "УИК №432",
     "tikTvd": "2702000661749",
-    "tikName": "Зырянская"
+    "tikName": "Зырянская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 433,
     "uikTvd": "4704005173706",
+    "uikName": "УИК №433",
     "tikTvd": "2702000661749",
-    "tikName": "Зырянская"
+    "tikName": "Зырянская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 434,
     "uikTvd": "4704005173707",
+    "uikName": "УИК №434",
     "tikTvd": "2702000661749",
-    "tikName": "Зырянская"
+    "tikName": "Зырянская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 435,
     "uikTvd": "4704005173708",
+    "uikName": "УИК №435",
     "tikTvd": "2702000661749",
-    "tikName": "Зырянская"
+    "tikName": "Зырянская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 436,
     "uikTvd": "4704005173709",
+    "uikName": "УИК №436",
     "tikTvd": "2702000661749",
-    "tikName": "Зырянская"
+    "tikName": "Зырянская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 437,
     "uikTvd": "4704005173710",
+    "uikName": "УИК №437",
     "tikTvd": "2702000661749",
-    "tikName": "Зырянская"
+    "tikName": "Зырянская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 438,
     "uikTvd": "4704005173711",
+    "uikName": "УИК №438",
     "tikTvd": "2702000661749",
-    "tikName": "Зырянская"
+    "tikName": "Зырянская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 439,
     "uikTvd": "4704005173712",
+    "uikName": "УИК №439",
     "tikTvd": "2702000661749",
-    "tikName": "Зырянская"
+    "tikName": "Зырянская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 440,
     "uikTvd": "4704005173713",
+    "uikName": "УИК №440",
     "tikTvd": "2702000661749",
-    "tikName": "Зырянская"
+    "tikName": "Зырянская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 441,
     "uikTvd": "4704005173714",
+    "uikName": "УИК №441",
     "tikTvd": "2702000661749",
-    "tikName": "Зырянская"
+    "tikName": "Зырянская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 442,
     "uikTvd": "4704005173715",
+    "uikName": "УИК №442",
     "tikTvd": "2702000661749",
-    "tikName": "Зырянская"
+    "tikName": "Зырянская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 443,
     "uikTvd": "4704005173716",
+    "uikName": "УИК №443",
     "tikTvd": "2702000661749",
-    "tikName": "Зырянская"
+    "tikName": "Зырянская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 444,
     "uikTvd": "4704005173717",
+    "uikName": "УИК №444",
     "tikTvd": "2702000661749",
-    "tikName": "Зырянская"
+    "tikName": "Зырянская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 445,
     "uikTvd": "4704005173718",
+    "uikName": "УИК №445",
     "tikTvd": "2702000661749",
-    "tikName": "Зырянская"
+    "tikName": "Зырянская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 446,
     "uikTvd": "4704005173719",
+    "uikName": "УИК №446",
     "tikTvd": "2702000661749",
-    "tikName": "Зырянская"
+    "tikName": "Зырянская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 447,
     "uikTvd": "4704005173720",
+    "uikName": "УИК №447",
     "tikTvd": "2702000661749",
-    "tikName": "Зырянская"
+    "tikName": "Зырянская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 448,
     "uikTvd": "4704005173721",
+    "uikName": "УИК №448",
     "tikTvd": "2702000661749",
-    "tikName": "Зырянская"
+    "tikName": "Зырянская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 449,
     "uikTvd": "4704005173722",
+    "uikName": "УИК №449",
     "tikTvd": "2702000661749",
-    "tikName": "Зырянская"
+    "tikName": "Зырянская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 450,
     "uikTvd": "4704005173723",
+    "uikName": "УИК №450",
     "tikTvd": "2702000661749",
-    "tikName": "Зырянская"
+    "tikName": "Зырянская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 451,
     "uikTvd": "4704005173724",
+    "uikName": "УИК №451",
     "tikTvd": "2702000661749",
-    "tikName": "Зырянская"
+    "tikName": "Зырянская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 452,
     "uikTvd": "4704005173725",
+    "uikName": "УИК №452",
     "tikTvd": "2702000661749",
-    "tikName": "Зырянская"
+    "tikName": "Зырянская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 453,
     "uikTvd": "4704005173726",
+    "uikName": "УИК №453",
     "tikTvd": "2702000661749",
-    "tikName": "Зырянская"
+    "tikName": "Зырянская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 454,
     "uikTvd": "4704005173727",
+    "uikName": "УИК №454",
     "tikTvd": "2702000661749",
-    "tikName": "Зырянская"
+    "tikName": "Зырянская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 455,
     "uikTvd": "4704005173728",
+    "uikName": "УИК №455",
     "tikTvd": "2702000661749",
-    "tikName": "Зырянская"
+    "tikName": "Зырянская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 456,
     "uikTvd": "4704005173729",
+    "uikName": "УИК №456",
     "tikTvd": "2702000661749",
-    "tikName": "Зырянская"
+    "tikName": "Зырянская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 457,
     "uikTvd": "4704005173730",
+    "uikName": "УИК №457",
     "tikTvd": "2702000661749",
-    "tikName": "Зырянская"
+    "tikName": "Зырянская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 458,
     "uikTvd": "4704006190257",
+    "uikName": "УИК №458",
     "tikTvd": "2702000661771",
-    "tikName": "Каргасокская"
+    "tikName": "Каргасокская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 459,
     "uikTvd": "4704006190258",
+    "uikName": "УИК №459",
     "tikTvd": "2702000661771",
-    "tikName": "Каргасокская"
+    "tikName": "Каргасокская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 460,
     "uikTvd": "4704006190259",
+    "uikName": "УИК №460",
     "tikTvd": "2702000661771",
-    "tikName": "Каргасокская"
+    "tikName": "Каргасокская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 461,
     "uikTvd": "4704006190260",
+    "uikName": "УИК №461",
     "tikTvd": "2702000661771",
-    "tikName": "Каргасокская"
+    "tikName": "Каргасокская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 462,
     "uikTvd": "4704006190261",
+    "uikName": "УИК №462",
     "tikTvd": "2702000661771",
-    "tikName": "Каргасокская"
+    "tikName": "Каргасокская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 463,
     "uikTvd": "4704006190262",
+    "uikName": "УИК №463",
     "tikTvd": "2702000661771",
-    "tikName": "Каргасокская"
+    "tikName": "Каргасокская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 464,
     "uikTvd": "4704006190263",
+    "uikName": "УИК №464",
     "tikTvd": "2702000661771",
-    "tikName": "Каргасокская"
+    "tikName": "Каргасокская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 465,
     "uikTvd": "4704006190264",
+    "uikName": "УИК №465",
     "tikTvd": "2702000661771",
-    "tikName": "Каргасокская"
+    "tikName": "Каргасокская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 466,
     "uikTvd": "4704006190265",
+    "uikName": "УИК №466",
     "tikTvd": "2702000661771",
-    "tikName": "Каргасокская"
+    "tikName": "Каргасокская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 467,
     "uikTvd": "4704006190266",
+    "uikName": "УИК №467",
     "tikTvd": "2702000661771",
-    "tikName": "Каргасокская"
+    "tikName": "Каргасокская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 468,
     "uikTvd": "4704006190267",
+    "uikName": "УИК №468",
     "tikTvd": "2702000661771",
-    "tikName": "Каргасокская"
+    "tikName": "Каргасокская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 469,
     "uikTvd": "4704006190268",
+    "uikName": "УИК №469",
     "tikTvd": "2702000661771",
-    "tikName": "Каргасокская"
+    "tikName": "Каргасокская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 470,
     "uikTvd": "4704006190269",
+    "uikName": "УИК №470",
     "tikTvd": "2702000661771",
-    "tikName": "Каргасокская"
+    "tikName": "Каргасокская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 471,
     "uikTvd": "4704006190270",
+    "uikName": "УИК №471",
     "tikTvd": "2702000661771",
-    "tikName": "Каргасокская"
+    "tikName": "Каргасокская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 472,
     "uikTvd": "4704006190271",
+    "uikName": "УИК №472",
     "tikTvd": "2702000661771",
-    "tikName": "Каргасокская"
+    "tikName": "Каргасокская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 473,
     "uikTvd": "4704006190272",
+    "uikName": "УИК №473",
     "tikTvd": "2702000661771",
-    "tikName": "Каргасокская"
+    "tikName": "Каргасокская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 474,
     "uikTvd": "4704006190273",
+    "uikName": "УИК №474",
     "tikTvd": "2702000661771",
-    "tikName": "Каргасокская"
+    "tikName": "Каргасокская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 475,
     "uikTvd": "4704006190274",
+    "uikName": "УИК №475",
     "tikTvd": "2702000661771",
-    "tikName": "Каргасокская"
+    "tikName": "Каргасокская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 476,
     "uikTvd": "4704006190275",
+    "uikName": "УИК №476",
     "tikTvd": "2702000661771",
-    "tikName": "Каргасокская"
+    "tikName": "Каргасокская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 477,
     "uikTvd": "4704006190276",
+    "uikName": "УИК №477",
     "tikTvd": "2702000661771",
-    "tikName": "Каргасокская"
+    "tikName": "Каргасокская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 478,
     "uikTvd": "4704006190277",
+    "uikName": "УИК №478",
     "tikTvd": "2702000661771",
-    "tikName": "Каргасокская"
+    "tikName": "Каргасокская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 479,
     "uikTvd": "4704006190278",
+    "uikName": "УИК №479",
     "tikTvd": "2702000661771",
-    "tikName": "Каргасокская"
+    "tikName": "Каргасокская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 480,
     "uikTvd": "4704006190279",
+    "uikName": "УИК №480",
     "tikTvd": "2702000661771",
-    "tikName": "Каргасокская"
+    "tikName": "Каргасокская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 481,
     "uikTvd": "4704006190280",
+    "uikName": "УИК №481",
     "tikTvd": "2702000661771",
-    "tikName": "Каргасокская"
+    "tikName": "Каргасокская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 482,
     "uikTvd": "4704006190281",
+    "uikName": "УИК №482",
     "tikTvd": "2702000661771",
-    "tikName": "Каргасокская"
+    "tikName": "Каргасокская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 483,
     "uikTvd": "4704006190282",
+    "uikName": "УИК №483",
     "tikTvd": "2702000661771",
-    "tikName": "Каргасокская"
+    "tikName": "Каргасокская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 484,
     "uikTvd": "4704006190283",
+    "uikName": "УИК №484",
     "tikTvd": "2702000661771",
-    "tikName": "Каргасокская"
+    "tikName": "Каргасокская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 485,
     "uikTvd": "4704006190284",
+    "uikName": "УИК №485",
     "tikTvd": "2702000661771",
-    "tikName": "Каргасокская"
+    "tikName": "Каргасокская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 486,
     "uikTvd": "4704006190285",
+    "uikName": "УИК №486",
     "tikTvd": "2702000661771",
-    "tikName": "Каргасокская"
+    "tikName": "Каргасокская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 487,
     "uikTvd": "4704006190286",
+    "uikName": "УИК №487",
     "tikTvd": "2702000661771",
-    "tikName": "Каргасокская"
+    "tikName": "Каргасокская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 488,
     "uikTvd": "4704008132962",
+    "uikName": "УИК №488",
     "tikTvd": "2702000661750",
-    "tikName": "Кожевниковская"
+    "tikName": "Кожевниковская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 489,
     "uikTvd": "4704008132963",
+    "uikName": "УИК №489",
     "tikTvd": "2702000661750",
-    "tikName": "Кожевниковская"
+    "tikName": "Кожевниковская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 490,
     "uikTvd": "4704008132964",
+    "uikName": "УИК №490",
     "tikTvd": "2702000661750",
-    "tikName": "Кожевниковская"
+    "tikName": "Кожевниковская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 491,
     "uikTvd": "4704008132965",
+    "uikName": "УИК №491",
     "tikTvd": "2702000661750",
-    "tikName": "Кожевниковская"
+    "tikName": "Кожевниковская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 492,
     "uikTvd": "4704008132966",
+    "uikName": "УИК №492",
     "tikTvd": "2702000661750",
-    "tikName": "Кожевниковская"
+    "tikName": "Кожевниковская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 493,
     "uikTvd": "4704008132967",
+    "uikName": "УИК №493",
     "tikTvd": "2702000661750",
-    "tikName": "Кожевниковская"
+    "tikName": "Кожевниковская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 494,
     "uikTvd": "4704008132968",
+    "uikName": "УИК №494",
     "tikTvd": "2702000661750",
-    "tikName": "Кожевниковская"
+    "tikName": "Кожевниковская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 495,
     "uikTvd": "4704008132969",
+    "uikName": "УИК №495",
     "tikTvd": "2702000661750",
-    "tikName": "Кожевниковская"
+    "tikName": "Кожевниковская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 496,
     "uikTvd": "4704008132970",
+    "uikName": "УИК №496",
     "tikTvd": "2702000661750",
-    "tikName": "Кожевниковская"
+    "tikName": "Кожевниковская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 497,
     "uikTvd": "4704008132971",
+    "uikName": "УИК №497",
     "tikTvd": "2702000661750",
-    "tikName": "Кожевниковская"
+    "tikName": "Кожевниковская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 498,
     "uikTvd": "4704008132972",
+    "uikName": "УИК №498",
     "tikTvd": "2702000661750",
-    "tikName": "Кожевниковская"
+    "tikName": "Кожевниковская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 499,
     "uikTvd": "4704008132973",
+    "uikName": "УИК №499",
     "tikTvd": "2702000661750",
-    "tikName": "Кожевниковская"
+    "tikName": "Кожевниковская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 500,
     "uikTvd": "4704008132974",
+    "uikName": "УИК №500",
     "tikTvd": "2702000661750",
-    "tikName": "Кожевниковская"
+    "tikName": "Кожевниковская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 501,
     "uikTvd": "4704008132975",
+    "uikName": "УИК №501",
     "tikTvd": "2702000661750",
-    "tikName": "Кожевниковская"
+    "tikName": "Кожевниковская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 502,
     "uikTvd": "4704008132976",
+    "uikName": "УИК №502",
     "tikTvd": "2702000661750",
-    "tikName": "Кожевниковская"
+    "tikName": "Кожевниковская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 503,
     "uikTvd": "4704008132977",
+    "uikName": "УИК №503",
     "tikTvd": "2702000661750",
-    "tikName": "Кожевниковская"
+    "tikName": "Кожевниковская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 504,
     "uikTvd": "4704008132978",
+    "uikName": "УИК №504",
     "tikTvd": "2702000661750",
-    "tikName": "Кожевниковская"
+    "tikName": "Кожевниковская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 505,
     "uikTvd": "4704008132979",
+    "uikName": "УИК №505",
     "tikTvd": "2702000661750",
-    "tikName": "Кожевниковская"
+    "tikName": "Кожевниковская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 506,
     "uikTvd": "4704008132980",
+    "uikName": "УИК №506",
     "tikTvd": "2702000661750",
-    "tikName": "Кожевниковская"
+    "tikName": "Кожевниковская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 507,
     "uikTvd": "4704008132981",
+    "uikName": "УИК №507",
     "tikTvd": "2702000661750",
-    "tikName": "Кожевниковская"
+    "tikName": "Кожевниковская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 508,
     "uikTvd": "4704008132982",
+    "uikName": "УИК №508",
     "tikTvd": "2702000661750",
-    "tikName": "Кожевниковская"
+    "tikName": "Кожевниковская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 509,
     "uikTvd": "4704008132983",
+    "uikName": "УИК №509",
     "tikTvd": "2702000661750",
-    "tikName": "Кожевниковская"
+    "tikName": "Кожевниковская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 510,
     "uikTvd": "4704008132984",
+    "uikName": "УИК №510",
     "tikTvd": "2702000661750",
-    "tikName": "Кожевниковская"
+    "tikName": "Кожевниковская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 511,
     "uikTvd": "4704008132985",
+    "uikName": "УИК №511",
     "tikTvd": "2702000661750",
-    "tikName": "Кожевниковская"
+    "tikName": "Кожевниковская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 512,
     "uikTvd": "4704008132986",
+    "uikName": "УИК №512",
     "tikTvd": "2702000661750",
-    "tikName": "Кожевниковская"
+    "tikName": "Кожевниковская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 513,
     "uikTvd": "4704008132987",
+    "uikName": "УИК №513",
     "tikTvd": "2702000661750",
-    "tikName": "Кожевниковская"
+    "tikName": "Кожевниковская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 514,
     "uikTvd": "4704008132988",
+    "uikName": "УИК №514",
     "tikTvd": "2702000661750",
-    "tikName": "Кожевниковская"
+    "tikName": "Кожевниковская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 515,
     "uikTvd": "4704008132989",
+    "uikName": "УИК №515",
     "tikTvd": "2702000661750",
-    "tikName": "Кожевниковская"
+    "tikName": "Кожевниковская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 516,
     "uikTvd": "4704008132990",
+    "uikName": "УИК №516",
     "tikTvd": "2702000661750",
-    "tikName": "Кожевниковская"
+    "tikName": "Кожевниковская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 517,
     "uikTvd": "4704008132991",
+    "uikName": "УИК №517",
     "tikTvd": "2702000661750",
-    "tikName": "Кожевниковская"
+    "tikName": "Кожевниковская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 518,
     "uikTvd": "4704008132992",
+    "uikName": "УИК №518",
     "tikTvd": "2702000661750",
-    "tikName": "Кожевниковская"
+    "tikName": "Кожевниковская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 519,
     "uikTvd": "4704010161904",
+    "uikName": "УИК №519",
     "tikTvd": "2702000661756",
-    "tikName": "Кривошеинская"
+    "tikName": "Кривошеинская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 520,
     "uikTvd": "4704010161905",
+    "uikName": "УИК №520",
     "tikTvd": "2702000661756",
-    "tikName": "Кривошеинская"
+    "tikName": "Кривошеинская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 521,
     "uikTvd": "4704010161906",
+    "uikName": "УИК №521",
     "tikTvd": "2702000661756",
-    "tikName": "Кривошеинская"
+    "tikName": "Кривошеинская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 522,
     "uikTvd": "4704010161907",
+    "uikName": "УИК №522",
     "tikTvd": "2702000661756",
-    "tikName": "Кривошеинская"
+    "tikName": "Кривошеинская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 523,
     "uikTvd": "4704010161908",
+    "uikName": "УИК №523",
     "tikTvd": "2702000661756",
-    "tikName": "Кривошеинская"
+    "tikName": "Кривошеинская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 524,
     "uikTvd": "4704010161909",
+    "uikName": "УИК №524",
     "tikTvd": "2702000661756",
-    "tikName": "Кривошеинская"
+    "tikName": "Кривошеинская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 525,
     "uikTvd": "4704010161910",
+    "uikName": "УИК №525",
     "tikTvd": "2702000661756",
-    "tikName": "Кривошеинская"
+    "tikName": "Кривошеинская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 526,
     "uikTvd": "4704010161911",
+    "uikName": "УИК №526",
     "tikTvd": "2702000661756",
-    "tikName": "Кривошеинская"
+    "tikName": "Кривошеинская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 527,
     "uikTvd": "4704010161912",
+    "uikName": "УИК №527",
     "tikTvd": "2702000661756",
-    "tikName": "Кривошеинская"
+    "tikName": "Кривошеинская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 528,
     "uikTvd": "4704010161913",
+    "uikName": "УИК №528",
     "tikTvd": "2702000661756",
-    "tikName": "Кривошеинская"
+    "tikName": "Кривошеинская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 529,
     "uikTvd": "4704010161914",
+    "uikName": "УИК №529",
     "tikTvd": "2702000661756",
-    "tikName": "Кривошеинская"
+    "tikName": "Кривошеинская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 530,
     "uikTvd": "4704010161915",
+    "uikName": "УИК №530",
     "tikTvd": "2702000661756",
-    "tikName": "Кривошеинская"
+    "tikName": "Кривошеинская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 531,
     "uikTvd": "4704010161916",
+    "uikName": "УИК №531",
     "tikTvd": "2702000661756",
-    "tikName": "Кривошеинская"
+    "tikName": "Кривошеинская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 532,
     "uikTvd": "4704010161917",
+    "uikName": "УИК №532",
     "tikTvd": "2702000661756",
-    "tikName": "Кривошеинская"
+    "tikName": "Кривошеинская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 533,
     "uikTvd": "4704010161918",
+    "uikName": "УИК №533",
     "tikTvd": "2702000661756",
-    "tikName": "Кривошеинская"
+    "tikName": "Кривошеинская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 534,
     "uikTvd": "4704010161919",
+    "uikName": "УИК №534",
     "tikTvd": "2702000661756",
-    "tikName": "Кривошеинская"
+    "tikName": "Кривошеинская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 535,
     "uikTvd": "4704010161920",
+    "uikName": "УИК №535",
     "tikTvd": "2702000661756",
-    "tikName": "Кривошеинская"
+    "tikName": "Кривошеинская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 536,
     "uikTvd": "4704010161921",
+    "uikName": "УИК №536",
     "tikTvd": "2702000661756",
-    "tikName": "Кривошеинская"
+    "tikName": "Кривошеинская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 537,
     "uikTvd": "4704010161922",
+    "uikName": "УИК №537",
     "tikTvd": "2702000661756",
-    "tikName": "Кривошеинская"
+    "tikName": "Кривошеинская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 538,
     "uikTvd": "4704010161923",
+    "uikName": "УИК №538",
     "tikTvd": "2702000661756",
-    "tikName": "Кривошеинская"
+    "tikName": "Кривошеинская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 539,
     "uikTvd": "4704010161924",
+    "uikName": "УИК №539",
     "tikTvd": "2702000661756",
-    "tikName": "Кривошеинская"
+    "tikName": "Кривошеинская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 540,
     "uikTvd": "4704010161925",
+    "uikName": "УИК №540",
     "tikTvd": "2702000661756",
-    "tikName": "Кривошеинская"
+    "tikName": "Кривошеинская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 541,
     "uikTvd": "4704010161926",
+    "uikName": "УИК №541",
     "tikTvd": "2702000661756",
-    "tikName": "Кривошеинская"
+    "tikName": "Кривошеинская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 542,
     "uikTvd": "4704010161927",
+    "uikName": "УИК №542",
     "tikTvd": "2702000661756",
-    "tikName": "Кривошеинская"
+    "tikName": "Кривошеинская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 543,
     "uikTvd": "4704010161928",
+    "uikName": "УИК №543",
     "tikTvd": "2702000661756",
-    "tikName": "Кривошеинская"
+    "tikName": "Кривошеинская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 544,
     "uikTvd": "4704010161929",
+    "uikName": "УИК №544",
     "tikTvd": "2702000661756",
-    "tikName": "Кривошеинская"
+    "tikName": "Кривошеинская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 545,
     "uikTvd": "4704010161930",
+    "uikName": "УИК №545",
     "tikTvd": "2702000661756",
-    "tikName": "Кривошеинская"
+    "tikName": "Кривошеинская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 546,
     "uikTvd": "4704010161931",
+    "uikName": "УИК №546",
     "tikTvd": "2702000661756",
-    "tikName": "Кривошеинская"
+    "tikName": "Кривошеинская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 547,
     "uikTvd": "4704011143464",
+    "uikName": "УИК №547",
     "tikTvd": "2702000661770",
-    "tikName": "Молчановская"
+    "tikName": "Молчановская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 548,
     "uikTvd": "4704011143465",
+    "uikName": "УИК №548",
     "tikTvd": "2702000661770",
-    "tikName": "Молчановская"
+    "tikName": "Молчановская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 549,
     "uikTvd": "4704011143466",
+    "uikName": "УИК №549",
     "tikTvd": "2702000661770",
-    "tikName": "Молчановская"
+    "tikName": "Молчановская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 550,
     "uikTvd": "4704011143467",
+    "uikName": "УИК №550",
     "tikTvd": "2702000661770",
-    "tikName": "Молчановская"
+    "tikName": "Молчановская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 551,
     "uikTvd": "4704011143468",
+    "uikName": "УИК №551",
     "tikTvd": "2702000661770",
-    "tikName": "Молчановская"
+    "tikName": "Молчановская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 552,
     "uikTvd": "4704011143469",
+    "uikName": "УИК №552",
     "tikTvd": "2702000661770",
-    "tikName": "Молчановская"
+    "tikName": "Молчановская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 553,
     "uikTvd": "4704011143470",
+    "uikName": "УИК №553",
     "tikTvd": "2702000661770",
-    "tikName": "Молчановская"
+    "tikName": "Молчановская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 554,
     "uikTvd": "4704011143471",
+    "uikName": "УИК №554",
     "tikTvd": "2702000661770",
-    "tikName": "Молчановская"
+    "tikName": "Молчановская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 555,
     "uikTvd": "4704011143472",
+    "uikName": "УИК №555",
     "tikTvd": "2702000661770",
-    "tikName": "Молчановская"
+    "tikName": "Молчановская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 556,
     "uikTvd": "4704011143473",
+    "uikName": "УИК №556",
     "tikTvd": "2702000661770",
-    "tikName": "Молчановская"
+    "tikName": "Молчановская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 557,
     "uikTvd": "4704011143474",
+    "uikName": "УИК №557",
     "tikTvd": "2702000661770",
-    "tikName": "Молчановская"
+    "tikName": "Молчановская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 558,
     "uikTvd": "4704011143475",
+    "uikName": "УИК №558",
     "tikTvd": "2702000661770",
-    "tikName": "Молчановская"
+    "tikName": "Молчановская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 559,
     "uikTvd": "4704011143476",
+    "uikName": "УИК №559",
     "tikTvd": "2702000661770",
-    "tikName": "Молчановская"
+    "tikName": "Молчановская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 560,
     "uikTvd": "4704011143477",
+    "uikName": "УИК №560",
     "tikTvd": "2702000661770",
-    "tikName": "Молчановская"
+    "tikName": "Молчановская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 561,
     "uikTvd": "4704011143478",
+    "uikName": "УИК №561",
     "tikTvd": "2702000661770",
-    "tikName": "Молчановская"
+    "tikName": "Молчановская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 562,
     "uikTvd": "4704011143479",
+    "uikName": "УИК №562",
     "tikTvd": "2702000661770",
-    "tikName": "Молчановская"
+    "tikName": "Молчановская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 563,
     "uikTvd": "4704011143480",
+    "uikName": "УИК №563",
     "tikTvd": "2702000661770",
-    "tikName": "Молчановская"
+    "tikName": "Молчановская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 564,
     "uikTvd": "4704011143481",
+    "uikName": "УИК №564",
     "tikTvd": "2702000661770",
-    "tikName": "Молчановская"
+    "tikName": "Молчановская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 565,
     "uikTvd": "4704011143482",
+    "uikName": "УИК №565",
     "tikTvd": "2702000661770",
-    "tikName": "Молчановская"
+    "tikName": "Молчановская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 566,
     "uikTvd": "4704011143483",
+    "uikName": "УИК №566",
     "tikTvd": "2702000661770",
-    "tikName": "Молчановская"
+    "tikName": "Молчановская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 567,
     "uikTvd": "4704011143484",
+    "uikName": "УИК №567",
     "tikTvd": "2702000661770",
-    "tikName": "Молчановская"
+    "tikName": "Молчановская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 568,
     "uikTvd": "4704011143485",
+    "uikName": "УИК №568",
     "tikTvd": "2702000661770",
-    "tikName": "Молчановская"
+    "tikName": "Молчановская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 569,
     "uikTvd": "4704011143486",
+    "uikName": "УИК №569",
     "tikTvd": "2702000661770",
-    "tikName": "Молчановская"
+    "tikName": "Молчановская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 570,
     "uikTvd": "4704011143487",
+    "uikName": "УИК №570",
     "tikTvd": "2702000661770",
-    "tikName": "Молчановская"
+    "tikName": "Молчановская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 571,
     "uikTvd": "4704011143488",
+    "uikName": "УИК №571",
     "tikTvd": "2702000661770",
-    "tikName": "Молчановская"
+    "tikName": "Молчановская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 572,
     "uikTvd": "4704011143489",
+    "uikName": "УИК №572",
     "tikTvd": "2702000661770",
-    "tikName": "Молчановская"
+    "tikName": "Молчановская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 574,
     "uikTvd": "9709012135908",
+    "uikName": "УИК №574",
     "tikTvd": "2702000661753",
-    "tikName": "Парабельская"
+    "tikName": "Парабельская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 575,
     "uikTvd": "9709012135909",
+    "uikName": "УИК №575",
     "tikTvd": "2702000661753",
-    "tikName": "Парабельская"
+    "tikName": "Парабельская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 576,
     "uikTvd": "9709012135910",
+    "uikName": "УИК №576",
     "tikTvd": "2702000661753",
-    "tikName": "Парабельская"
+    "tikName": "Парабельская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 577,
     "uikTvd": "9709012135911",
+    "uikName": "УИК №577",
     "tikTvd": "2702000661753",
-    "tikName": "Парабельская"
+    "tikName": "Парабельская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 578,
     "uikTvd": "9709012135912",
+    "uikName": "УИК №578",
     "tikTvd": "2702000661753",
-    "tikName": "Парабельская"
+    "tikName": "Парабельская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 579,
     "uikTvd": "9709012135913",
+    "uikName": "УИК №579",
     "tikTvd": "2702000661753",
-    "tikName": "Парабельская"
+    "tikName": "Парабельская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 580,
     "uikTvd": "9709012135914",
+    "uikName": "УИК №580",
     "tikTvd": "2702000661753",
-    "tikName": "Парабельская"
+    "tikName": "Парабельская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 581,
     "uikTvd": "9709012135915",
+    "uikName": "УИК №581",
     "tikTvd": "2702000661753",
-    "tikName": "Парабельская"
+    "tikName": "Парабельская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 582,
     "uikTvd": "9709012135916",
+    "uikName": "УИК №582",
     "tikTvd": "2702000661753",
-    "tikName": "Парабельская"
+    "tikName": "Парабельская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 583,
     "uikTvd": "9709012135917",
+    "uikName": "УИК №583",
     "tikTvd": "2702000661753",
-    "tikName": "Парабельская"
+    "tikName": "Парабельская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 584,
     "uikTvd": "9709012135918",
+    "uikName": "УИК №584",
     "tikTvd": "2702000661753",
-    "tikName": "Парабельская"
+    "tikName": "Парабельская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 585,
     "uikTvd": "9709012135919",
+    "uikName": "УИК №585",
     "tikTvd": "2702000661753",
-    "tikName": "Парабельская"
+    "tikName": "Парабельская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 586,
     "uikTvd": "9709012135920",
+    "uikName": "УИК №586",
     "tikTvd": "2702000661753",
-    "tikName": "Парабельская"
+    "tikName": "Парабельская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 587,
     "uikTvd": "9709012135921",
+    "uikName": "УИК №587",
     "tikTvd": "2702000661753",
-    "tikName": "Парабельская"
+    "tikName": "Парабельская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 588,
     "uikTvd": "9709012135922",
+    "uikName": "УИК №588",
     "tikTvd": "2702000661753",
-    "tikName": "Парабельская"
+    "tikName": "Парабельская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 589,
     "uikTvd": "9709012135923",
+    "uikName": "УИК №589",
     "tikTvd": "2702000661753",
-    "tikName": "Парабельская"
+    "tikName": "Парабельская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 590,
     "uikTvd": "9709012135924",
+    "uikName": "УИК №590",
     "tikTvd": "2702000661753",
-    "tikName": "Парабельская"
+    "tikName": "Парабельская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 591,
     "uikTvd": "9709012135925",
+    "uikName": "УИК №591",
     "tikTvd": "2702000661753",
-    "tikName": "Парабельская"
+    "tikName": "Парабельская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 592,
     "uikTvd": "9709012135926",
+    "uikName": "УИК №592",
     "tikTvd": "2702000661753",
-    "tikName": "Парабельская"
+    "tikName": "Парабельская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 593,
     "uikTvd": "9709012135927",
+    "uikName": "УИК №593",
     "tikTvd": "2702000661753",
-    "tikName": "Парабельская"
+    "tikName": "Парабельская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 594,
     "uikTvd": "9709012135928",
+    "uikName": "УИК №594",
     "tikTvd": "2702000661753",
-    "tikName": "Парабельская"
+    "tikName": "Парабельская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 595,
     "uikTvd": "9709012135929",
+    "uikName": "УИК №595",
     "tikTvd": "2702000661753",
-    "tikName": "Парабельская"
+    "tikName": "Парабельская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 596,
     "uikTvd": "9709012135930",
+    "uikName": "УИК №596",
     "tikTvd": "2702000661753",
-    "tikName": "Парабельская"
+    "tikName": "Парабельская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 597,
     "uikTvd": "4704013137436",
+    "uikName": "УИК №597",
     "tikTvd": "2702000661764",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 598,
     "uikTvd": "4704013137437",
+    "uikName": "УИК №598",
     "tikTvd": "2702000661764",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 599,
     "uikTvd": "4704013137438",
+    "uikName": "УИК №599",
     "tikTvd": "2702000661764",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 600,
     "uikTvd": "4704013137439",
+    "uikName": "УИК №600",
     "tikTvd": "2702000661764",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 601,
     "uikTvd": "4704013137440",
+    "uikName": "УИК №601",
     "tikTvd": "2702000661764",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 602,
     "uikTvd": "4704013137441",
+    "uikName": "УИК №602",
     "tikTvd": "2702000661764",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 603,
     "uikTvd": "4704013137442",
+    "uikName": "УИК №603",
     "tikTvd": "2702000661764",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 604,
     "uikTvd": "4704013137443",
+    "uikName": "УИК №604",
     "tikTvd": "2702000661764",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 605,
     "uikTvd": "4704013137444",
+    "uikName": "УИК №605",
     "tikTvd": "2702000661764",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 606,
     "uikTvd": "4704013137445",
+    "uikName": "УИК №606",
     "tikTvd": "2702000661764",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 607,
     "uikTvd": "4704013137446",
+    "uikName": "УИК №607",
     "tikTvd": "2702000661764",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 608,
     "uikTvd": "4704013137447",
+    "uikName": "УИК №608",
     "tikTvd": "2702000661764",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 609,
     "uikTvd": "4704013137448",
+    "uikName": "УИК №609",
     "tikTvd": "2702000661764",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 610,
     "uikTvd": "4704013137449",
+    "uikName": "УИК №610",
     "tikTvd": "2702000661764",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 611,
     "uikTvd": "4704013137450",
+    "uikName": "УИК №611",
     "tikTvd": "2702000661764",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 612,
     "uikTvd": "4704013137451",
+    "uikName": "УИК №612",
     "tikTvd": "2702000661764",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 613,
     "uikTvd": "4704013137452",
+    "uikName": "УИК №613",
     "tikTvd": "2702000661764",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 614,
     "uikTvd": "4704013137453",
+    "uikName": "УИК №614",
     "tikTvd": "2702000661764",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 615,
     "uikTvd": "4704013137454",
+    "uikName": "УИК №615",
     "tikTvd": "2702000661764",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 616,
     "uikTvd": "4704013137455",
+    "uikName": "УИК №616",
     "tikTvd": "2702000661764",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 617,
     "uikTvd": "4704013137456",
+    "uikName": "УИК №617",
     "tikTvd": "2702000661764",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 618,
     "uikTvd": "4704013137457",
+    "uikName": "УИК №618",
     "tikTvd": "2702000661764",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 619,
     "uikTvd": "4704013137458",
+    "uikName": "УИК №619",
     "tikTvd": "2702000661764",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 620,
     "uikTvd": "4704013137459",
+    "uikName": "УИК №620",
     "tikTvd": "2702000661764",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 621,
     "uikTvd": "4704013137460",
+    "uikName": "УИК №621",
     "tikTvd": "2702000661764",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 622,
     "uikTvd": "4704013137461",
+    "uikName": "УИК №622",
     "tikTvd": "2702000661764",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 623,
     "uikTvd": "4704013137462",
+    "uikName": "УИК №623",
     "tikTvd": "2702000661764",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 624,
     "uikTvd": "4704013137463",
+    "uikName": "УИК №624",
     "tikTvd": "2702000661764",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 625,
     "uikTvd": "4704013137464",
+    "uikName": "УИК №625",
     "tikTvd": "2702000661764",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 626,
     "uikTvd": "4704013137465",
+    "uikName": "УИК №626",
     "tikTvd": "2702000661764",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 627,
     "uikTvd": "4704016124121",
+    "uikName": "УИК №627",
     "tikTvd": "2702000661762",
-    "tikName": "Тегульдетская"
+    "tikName": "Тегульдетская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 628,
     "uikTvd": "4704016124122",
+    "uikName": "УИК №628",
     "tikTvd": "2702000661762",
-    "tikName": "Тегульдетская"
+    "tikName": "Тегульдетская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 629,
     "uikTvd": "4704016124123",
+    "uikName": "УИК №629",
     "tikTvd": "2702000661762",
-    "tikName": "Тегульдетская"
+    "tikName": "Тегульдетская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 630,
     "uikTvd": "4704016124124",
+    "uikName": "УИК №630",
     "tikTvd": "2702000661762",
-    "tikName": "Тегульдетская"
+    "tikName": "Тегульдетская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 631,
     "uikTvd": "4704016124125",
+    "uikName": "УИК №631",
     "tikTvd": "2702000661762",
-    "tikName": "Тегульдетская"
+    "tikName": "Тегульдетская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 632,
     "uikTvd": "4704016124126",
+    "uikName": "УИК №632",
     "tikTvd": "2702000661762",
-    "tikName": "Тегульдетская"
+    "tikName": "Тегульдетская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 633,
     "uikTvd": "4704016124127",
+    "uikName": "УИК №633",
     "tikTvd": "2702000661762",
-    "tikName": "Тегульдетская"
+    "tikName": "Тегульдетская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 634,
     "uikTvd": "4704016124128",
+    "uikName": "УИК №634",
     "tikTvd": "2702000661762",
-    "tikName": "Тегульдетская"
+    "tikName": "Тегульдетская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 635,
     "uikTvd": "4704016124129",
+    "uikName": "УИК №635",
     "tikTvd": "2702000661762",
-    "tikName": "Тегульдетская"
+    "tikName": "Тегульдетская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 636,
     "uikTvd": "4704016124130",
+    "uikName": "УИК №636",
     "tikTvd": "2702000661762",
-    "tikName": "Тегульдетская"
+    "tikName": "Тегульдетская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 637,
     "uikTvd": "4704016124131",
+    "uikName": "УИК №637",
     "tikTvd": "2702000661762",
-    "tikName": "Тегульдетская"
+    "tikName": "Тегульдетская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 638,
     "uikTvd": "4704016124132",
+    "uikName": "УИК №638",
     "tikTvd": "2702000661762",
-    "tikName": "Тегульдетская"
+    "tikName": "Тегульдетская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 639,
     "uikTvd": "4704016124133",
+    "uikName": "УИК №639",
     "tikTvd": "2702000661762",
-    "tikName": "Тегульдетская"
+    "tikName": "Тегульдетская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 640,
     "uikTvd": "4704016124134",
+    "uikName": "УИК №640",
     "tikTvd": "2702000661762",
-    "tikName": "Тегульдетская"
+    "tikName": "Тегульдетская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 641,
     "uikTvd": "4704021266167",
+    "uikName": "УИК №641",
     "tikTvd": "2702000661754",
-    "tikName": "Томская"
+    "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 642,
     "uikTvd": "4704016124135",
+    "uikName": "УИК №642",
     "tikTvd": "2702000661762",
-    "tikName": "Тегульдетская"
+    "tikName": "Тегульдетская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 643,
     "uikTvd": "4704021266168",
+    "uikName": "УИК №643",
     "tikTvd": "2702000661754",
-    "tikName": "Томская"
+    "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 644,
     "uikTvd": "4704021266169",
+    "uikName": "УИК №644",
     "tikTvd": "2702000661754",
-    "tikName": "Томская"
+    "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 645,
     "uikTvd": "4704021266170",
+    "uikName": "УИК №645",
     "tikTvd": "2702000661754",
-    "tikName": "Томская"
+    "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 646,
     "uikTvd": "4704021266171",
+    "uikName": "УИК №646",
     "tikTvd": "2702000661754",
-    "tikName": "Томская"
+    "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 647,
     "uikTvd": "4704021266172",
+    "uikName": "УИК №647",
     "tikTvd": "2702000661754",
-    "tikName": "Томская"
+    "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 648,
     "uikTvd": "4704021266173",
+    "uikName": "УИК №648",
     "tikTvd": "2702000661754",
-    "tikName": "Томская"
+    "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 649,
     "uikTvd": "4704021266174",
+    "uikName": "УИК №649",
     "tikTvd": "2702000661754",
-    "tikName": "Томская"
+    "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 650,
     "uikTvd": "4704021266175",
+    "uikName": "УИК №650",
     "tikTvd": "2702000661754",
-    "tikName": "Томская"
+    "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 651,
     "uikTvd": "4704021266176",
+    "uikName": "УИК №651",
     "tikTvd": "2702000661754",
-    "tikName": "Томская"
+    "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 652,
     "uikTvd": "4704021266177",
+    "uikName": "УИК №652",
     "tikTvd": "2702000661754",
-    "tikName": "Томская"
+    "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 653,
     "uikTvd": "4704021266178",
+    "uikName": "УИК №653",
     "tikTvd": "2702000661754",
-    "tikName": "Томская"
+    "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 654,
     "uikTvd": "4704021266179",
+    "uikName": "УИК №654",
     "tikTvd": "2702000661754",
-    "tikName": "Томская"
+    "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 655,
     "uikTvd": "4704021266180",
+    "uikName": "УИК №655",
     "tikTvd": "2702000661754",
-    "tikName": "Томская"
+    "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 656,
     "uikTvd": "4704021266181",
+    "uikName": "УИК №656",
     "tikTvd": "2702000661754",
-    "tikName": "Томская"
+    "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 657,
     "uikTvd": "4704021266182",
+    "uikName": "УИК №657",
     "tikTvd": "2702000661754",
-    "tikName": "Томская"
+    "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 658,
     "uikTvd": "4704021266183",
+    "uikName": "УИК №658",
     "tikTvd": "2702000661754",
-    "tikName": "Томская"
+    "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 659,
     "uikTvd": "4704021266184",
+    "uikName": "УИК №659",
     "tikTvd": "2702000661754",
-    "tikName": "Томская"
+    "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 660,
     "uikTvd": "4704021266185",
+    "uikName": "УИК №660",
     "tikTvd": "2702000661754",
-    "tikName": "Томская"
+    "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 661,
     "uikTvd": "4704021266186",
+    "uikName": "УИК №661",
     "tikTvd": "2702000661754",
-    "tikName": "Томская"
+    "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 662,
     "uikTvd": "4704021266187",
+    "uikName": "УИК №662",
     "tikTvd": "2702000661754",
-    "tikName": "Томская"
+    "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 663,
     "uikTvd": "4704021266188",
+    "uikName": "УИК №663",
     "tikTvd": "2702000661754",
-    "tikName": "Томская"
+    "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 664,
     "uikTvd": "4704021266189",
+    "uikName": "УИК №664",
     "tikTvd": "2702000661754",
-    "tikName": "Томская"
+    "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 665,
     "uikTvd": "4704021266190",
+    "uikName": "УИК №665",
     "tikTvd": "2702000661754",
-    "tikName": "Томская"
+    "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 666,
     "uikTvd": "4704021266191",
+    "uikName": "УИК №666",
     "tikTvd": "2702000661754",
-    "tikName": "Томская"
+    "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 667,
     "uikTvd": "4704021266192",
+    "uikName": "УИК №667",
     "tikTvd": "2702000661754",
-    "tikName": "Томская"
+    "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 668,
     "uikTvd": "4704021266193",
+    "uikName": "УИК №668",
     "tikTvd": "2702000661754",
-    "tikName": "Томская"
+    "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 669,
     "uikTvd": "4704021266194",
+    "uikName": "УИК №669",
     "tikTvd": "2702000661754",
-    "tikName": "Томская"
+    "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 670,
     "uikTvd": "4704021266195",
+    "uikName": "УИК №670",
     "tikTvd": "2702000661754",
-    "tikName": "Томская"
+    "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 671,
     "uikTvd": "4704021266196",
+    "uikName": "УИК №671",
     "tikTvd": "2702000661754",
-    "tikName": "Томская"
+    "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 672,
     "uikTvd": "4704021266197",
+    "uikName": "УИК №672",
     "tikTvd": "2702000661754",
-    "tikName": "Томская"
+    "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 673,
     "uikTvd": "4704021266198",
+    "uikName": "УИК №673",
     "tikTvd": "2702000661754",
-    "tikName": "Томская"
+    "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 674,
     "uikTvd": "4704021266199",
+    "uikName": "УИК №674",
     "tikTvd": "2702000661754",
-    "tikName": "Томская"
+    "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 675,
     "uikTvd": "4704021266200",
+    "uikName": "УИК №675",
     "tikTvd": "2702000661754",
-    "tikName": "Томская"
+    "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 676,
     "uikTvd": "4704021266201",
+    "uikName": "УИК №676",
     "tikTvd": "2702000661754",
-    "tikName": "Томская"
+    "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 677,
     "uikTvd": "4704021266202",
+    "uikName": "УИК №677",
     "tikTvd": "2702000661754",
-    "tikName": "Томская"
+    "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 678,
     "uikTvd": "4704021266203",
+    "uikName": "УИК №678",
     "tikTvd": "2702000661754",
-    "tikName": "Томская"
+    "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 679,
     "uikTvd": "4704021266204",
+    "uikName": "УИК №679",
     "tikTvd": "2702000661754",
-    "tikName": "Томская"
+    "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 680,
     "uikTvd": "4704021266205",
+    "uikName": "УИК №680",
     "tikTvd": "2702000661754",
-    "tikName": "Томская"
+    "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 681,
     "uikTvd": "4704021266206",
+    "uikName": "УИК №681",
     "tikTvd": "2702000661754",
-    "tikName": "Томская"
+    "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 682,
     "uikTvd": "4704021266207",
+    "uikName": "УИК №682",
     "tikTvd": "2702000661754",
-    "tikName": "Томская"
+    "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 683,
     "uikTvd": "4704021266208",
+    "uikName": "УИК №683",
     "tikTvd": "2702000661754",
-    "tikName": "Томская"
+    "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 684,
     "uikTvd": "4704021266209",
+    "uikName": "УИК №684",
     "tikTvd": "2702000661754",
-    "tikName": "Томская"
+    "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 685,
     "uikTvd": "4704021266210",
+    "uikName": "УИК №685",
     "tikTvd": "2702000661754",
-    "tikName": "Томская"
+    "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 686,
     "uikTvd": "4704021266211",
+    "uikName": "УИК №686",
     "tikTvd": "2702000661754",
-    "tikName": "Томская"
+    "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 687,
     "uikTvd": "4704021266212",
+    "uikName": "УИК №687",
     "tikTvd": "2702000661754",
-    "tikName": "Томская"
+    "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 688,
     "uikTvd": "4704021266213",
+    "uikName": "УИК №688",
     "tikTvd": "2702000661754",
-    "tikName": "Томская"
+    "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 689,
     "uikTvd": "4704021266214",
+    "uikName": "УИК №689",
     "tikTvd": "2702000661754",
-    "tikName": "Томская"
+    "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 690,
     "uikTvd": "4704021266215",
+    "uikName": "УИК №690",
     "tikTvd": "2702000661754",
-    "tikName": "Томская"
+    "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 691,
     "uikTvd": "4704021266216",
+    "uikName": "УИК №691",
     "tikTvd": "2702000661754",
-    "tikName": "Томская"
+    "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 692,
     "uikTvd": "4704021266217",
+    "uikName": "УИК №692",
     "tikTvd": "2702000661754",
-    "tikName": "Томская"
+    "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 693,
     "uikTvd": "4704021266218",
+    "uikName": "УИК №693",
     "tikTvd": "2702000661754",
-    "tikName": "Томская"
+    "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 694,
     "uikTvd": "4704021266219",
+    "uikName": "УИК №694",
     "tikTvd": "2702000661754",
-    "tikName": "Томская"
+    "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 695,
     "uikTvd": "4704021266220",
+    "uikName": "УИК №695",
     "tikTvd": "2702000661754",
-    "tikName": "Томская"
+    "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 696,
     "uikTvd": "4704021266221",
+    "uikName": "УИК №696",
     "tikTvd": "2702000661754",
-    "tikName": "Томская"
+    "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 697,
     "uikTvd": "4704021266222",
+    "uikName": "УИК №697",
     "tikTvd": "2702000661754",
-    "tikName": "Томская"
+    "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 698,
     "uikTvd": "4704021266223",
+    "uikName": "УИК №698",
     "tikTvd": "2702000661754",
-    "tikName": "Томская"
+    "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 699,
     "uikTvd": "4704021266224",
+    "uikName": "УИК №699",
     "tikTvd": "2702000661754",
-    "tikName": "Томская"
+    "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 700,
     "uikTvd": "4704021266225",
+    "uikName": "УИК №700",
     "tikTvd": "2702000661754",
-    "tikName": "Томская"
+    "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 701,
     "uikTvd": "4704021266226",
+    "uikName": "УИК №701",
     "tikTvd": "2702000661754",
-    "tikName": "Томская"
+    "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 702,
     "uikTvd": "4704021266227",
+    "uikName": "УИК №702",
     "tikTvd": "2702000661754",
-    "tikName": "Томская"
+    "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 703,
     "uikTvd": "4704021266228",
+    "uikName": "УИК №703",
     "tikTvd": "2702000661754",
-    "tikName": "Томская"
+    "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 704,
     "uikTvd": "4704021266229",
+    "uikName": "УИК №704",
     "tikTvd": "2702000661754",
-    "tikName": "Томская"
+    "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 705,
     "uikTvd": "4704021266230",
+    "uikName": "УИК №705",
     "tikTvd": "2702000661754",
-    "tikName": "Томская"
+    "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 706,
     "uikTvd": "4704021266231",
+    "uikName": "УИК №706",
     "tikTvd": "2702000661754",
-    "tikName": "Томская"
+    "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 707,
     "uikTvd": "4704021266232",
+    "uikName": "УИК №707",
     "tikTvd": "2702000661754",
-    "tikName": "Томская"
+    "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 708,
     "uikTvd": "4704021266233",
+    "uikName": "УИК №708",
     "tikTvd": "2702000661754",
-    "tikName": "Томская"
+    "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 709,
     "uikTvd": "4704021266234",
+    "uikName": "УИК №709",
     "tikTvd": "2702000661754",
-    "tikName": "Томская"
+    "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 710,
     "uikTvd": "4704021266235",
+    "uikName": "УИК №710",
     "tikTvd": "2702000661754",
-    "tikName": "Томская"
+    "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 711,
     "uikTvd": "4704021266236",
+    "uikName": "УИК №711",
     "tikTvd": "2702000661754",
-    "tikName": "Томская"
+    "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 712,
     "uikTvd": "4704021266237",
+    "uikName": "УИК №712",
     "tikTvd": "2702000661754",
-    "tikName": "Томская"
+    "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 713,
     "uikTvd": "4704021266238",
+    "uikName": "УИК №713",
     "tikTvd": "2702000661754",
-    "tikName": "Томская"
+    "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 714,
     "uikTvd": "4704021266239",
+    "uikName": "УИК №714",
     "tikTvd": "2702000661754",
-    "tikName": "Томская"
+    "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 715,
     "uikTvd": "4704021266240",
+    "uikName": "УИК №715",
     "tikTvd": "2702000661754",
-    "tikName": "Томская"
+    "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 716,
     "uikTvd": "4704021266241",
+    "uikName": "УИК №716",
     "tikTvd": "2702000661754",
-    "tikName": "Томская"
+    "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 717,
     "uikTvd": "4704021266242",
+    "uikName": "УИК №717",
     "tikTvd": "2702000661754",
-    "tikName": "Томская"
+    "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 718,
     "uikTvd": "4704021266243",
+    "uikName": "УИК №718",
     "tikTvd": "2702000661754",
-    "tikName": "Томская"
+    "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 719,
     "uikTvd": "4704021266244",
+    "uikName": "УИК №719",
     "tikTvd": "2702000661754",
-    "tikName": "Томская"
+    "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 720,
     "uikTvd": "4704021266245",
+    "uikName": "УИК №720",
     "tikTvd": "2702000661754",
-    "tikName": "Томская"
+    "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 721,
     "uikTvd": "4704022130762",
+    "uikName": "УИК №721",
     "tikTvd": "2702000661766",
-    "tikName": "Чаинская"
+    "tikName": "Чаинская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 722,
     "uikTvd": "4704022130763",
+    "uikName": "УИК №722",
     "tikTvd": "2702000661766",
-    "tikName": "Чаинская"
+    "tikName": "Чаинская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 723,
     "uikTvd": "4704022130764",
+    "uikName": "УИК №723",
     "tikTvd": "2702000661766",
-    "tikName": "Чаинская"
+    "tikName": "Чаинская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 724,
     "uikTvd": "4704022130765",
+    "uikName": "УИК №724",
     "tikTvd": "2702000661766",
-    "tikName": "Чаинская"
+    "tikName": "Чаинская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 725,
     "uikTvd": "4704022130766",
+    "uikName": "УИК №725",
     "tikTvd": "2702000661766",
-    "tikName": "Чаинская"
+    "tikName": "Чаинская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 726,
     "uikTvd": "4704022130767",
+    "uikName": "УИК №726",
     "tikTvd": "2702000661766",
-    "tikName": "Чаинская"
+    "tikName": "Чаинская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 727,
     "uikTvd": "4704022130768",
+    "uikName": "УИК №727",
     "tikTvd": "2702000661766",
-    "tikName": "Чаинская"
+    "tikName": "Чаинская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 728,
     "uikTvd": "4704022130769",
+    "uikName": "УИК №728",
     "tikTvd": "2702000661766",
-    "tikName": "Чаинская"
+    "tikName": "Чаинская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 729,
     "uikTvd": "4704022130770",
+    "uikName": "УИК №729",
     "tikTvd": "2702000661766",
-    "tikName": "Чаинская"
+    "tikName": "Чаинская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 730,
     "uikTvd": "4704022130771",
+    "uikName": "УИК №730",
     "tikTvd": "2702000661766",
-    "tikName": "Чаинская"
+    "tikName": "Чаинская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 731,
     "uikTvd": "4704022130772",
+    "uikName": "УИК №731",
     "tikTvd": "2702000661766",
-    "tikName": "Чаинская"
+    "tikName": "Чаинская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 732,
     "uikTvd": "4704022130773",
+    "uikName": "УИК №732",
     "tikTvd": "2702000661766",
-    "tikName": "Чаинская"
+    "tikName": "Чаинская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 733,
     "uikTvd": "4704022130774",
+    "uikName": "УИК №733",
     "tikTvd": "2702000661766",
-    "tikName": "Чаинская"
+    "tikName": "Чаинская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 734,
     "uikTvd": "4704022130775",
+    "uikName": "УИК №734",
     "tikTvd": "2702000661766",
-    "tikName": "Чаинская"
+    "tikName": "Чаинская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 735,
     "uikTvd": "4704022130776",
+    "uikName": "УИК №735",
     "tikTvd": "2702000661766",
-    "tikName": "Чаинская"
+    "tikName": "Чаинская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 736,
     "uikTvd": "4704017164744",
+    "uikName": "УИК №736",
     "tikTvd": "2702000661757",
-    "tikName": "Томск, Кировская"
+    "tikName": "Томск, Кировская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 737,
     "uikTvd": "4704022130777",
+    "uikName": "УИК №737",
     "tikTvd": "2702000661766",
-    "tikName": "Чаинская"
+    "tikName": "Чаинская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 738,
     "uikTvd": "4704022130778",
+    "uikName": "УИК №738",
     "tikTvd": "2702000661766",
-    "tikName": "Чаинская"
+    "tikName": "Чаинская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 739,
     "uikTvd": "4704022130779",
+    "uikName": "УИК №739",
     "tikTvd": "2702000661766",
-    "tikName": "Чаинская"
+    "tikName": "Чаинская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 740,
     "uikTvd": "4704022130780",
+    "uikName": "УИК №740",
     "tikTvd": "2702000661766",
-    "tikName": "Чаинская"
+    "tikName": "Чаинская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 741,
     "uikTvd": "4704022130781",
+    "uikName": "УИК №741",
     "tikTvd": "2702000661766",
-    "tikName": "Чаинская"
+    "tikName": "Чаинская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 742,
     "uikTvd": "4704022130782",
+    "uikName": "УИК №742",
     "tikTvd": "2702000661766",
-    "tikName": "Чаинская"
+    "tikName": "Чаинская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 743,
     "uikTvd": "4704022130783",
+    "uikName": "УИК №743",
     "tikTvd": "2702000661766",
-    "tikName": "Чаинская"
+    "tikName": "Чаинская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 744,
     "uikTvd": "4704022130784",
+    "uikName": "УИК №744",
     "tikTvd": "2702000661766",
-    "tikName": "Чаинская"
+    "tikName": "Чаинская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 745,
     "uikTvd": "4704022130785",
+    "uikName": "УИК №745",
     "tikTvd": "2702000661766",
-    "tikName": "Чаинская"
+    "tikName": "Чаинская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 746,
     "uikTvd": "4704022130786",
+    "uikName": "УИК №746",
     "tikTvd": "2702000661766",
-    "tikName": "Чаинская"
+    "tikName": "Чаинская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 747,
     "uikTvd": "4704022130787",
+    "uikName": "УИК №747",
     "tikTvd": "2702000661766",
-    "tikName": "Чаинская"
+    "tikName": "Чаинская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 748,
     "uikTvd": "4704022130788",
+    "uikName": "УИК №748",
     "tikTvd": "2702000661766",
-    "tikName": "Чаинская"
+    "tikName": "Чаинская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 749,
     "uikTvd": "4704022130789",
+    "uikName": "УИК №749",
     "tikTvd": "2702000661766",
-    "tikName": "Чаинская"
+    "tikName": "Чаинская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 750,
     "uikTvd": "4704022130790",
+    "uikName": "УИК №750",
     "tikTvd": "2702000661766",
-    "tikName": "Чаинская"
+    "tikName": "Чаинская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 751,
     "uikTvd": "4704022130791",
+    "uikName": "УИК №751",
     "tikTvd": "2702000661766",
-    "tikName": "Чаинская"
+    "tikName": "Чаинская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 752,
     "uikTvd": "4704023169631",
+    "uikName": "УИК №752",
     "tikTvd": "2702000661765",
-    "tikName": "Шегарская"
+    "tikName": "Шегарская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 753,
     "uikTvd": "4704023169632",
+    "uikName": "УИК №753",
     "tikTvd": "2702000661765",
-    "tikName": "Шегарская"
+    "tikName": "Шегарская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 754,
     "uikTvd": "4704023169633",
+    "uikName": "УИК №754",
     "tikTvd": "2702000661765",
-    "tikName": "Шегарская"
+    "tikName": "Шегарская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 755,
     "uikTvd": "4704023169634",
+    "uikName": "УИК №755",
     "tikTvd": "2702000661765",
-    "tikName": "Шегарская"
+    "tikName": "Шегарская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 756,
     "uikTvd": "4704023169635",
+    "uikName": "УИК №756",
     "tikTvd": "2702000661765",
-    "tikName": "Шегарская"
+    "tikName": "Шегарская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 757,
     "uikTvd": "4704023169636",
+    "uikName": "УИК №757",
     "tikTvd": "2702000661765",
-    "tikName": "Шегарская"
+    "tikName": "Шегарская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 758,
     "uikTvd": "4704023169637",
+    "uikName": "УИК №758",
     "tikTvd": "2702000661765",
-    "tikName": "Шегарская"
+    "tikName": "Шегарская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 759,
     "uikTvd": "4704023169638",
+    "uikName": "УИК №759",
     "tikTvd": "2702000661765",
-    "tikName": "Шегарская"
+    "tikName": "Шегарская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 760,
     "uikTvd": "4704023169639",
+    "uikName": "УИК №760",
     "tikTvd": "2702000661765",
-    "tikName": "Шегарская"
+    "tikName": "Шегарская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 761,
     "uikTvd": "4704023169640",
+    "uikName": "УИК №761",
     "tikTvd": "2702000661765",
-    "tikName": "Шегарская"
+    "tikName": "Шегарская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 762,
     "uikTvd": "4704023169641",
+    "uikName": "УИК №762",
     "tikTvd": "2702000661765",
-    "tikName": "Шегарская"
+    "tikName": "Шегарская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 763,
     "uikTvd": "4704023169642",
+    "uikName": "УИК №763",
     "tikTvd": "2702000661765",
-    "tikName": "Шегарская"
+    "tikName": "Шегарская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 764,
     "uikTvd": "4704023169643",
+    "uikName": "УИК №764",
     "tikTvd": "2702000661765",
-    "tikName": "Шегарская"
+    "tikName": "Шегарская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 765,
     "uikTvd": "4704023169644",
+    "uikName": "УИК №765",
     "tikTvd": "2702000661765",
-    "tikName": "Шегарская"
+    "tikName": "Шегарская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 766,
     "uikTvd": "4704023169645",
+    "uikName": "УИК №766",
     "tikTvd": "2702000661765",
-    "tikName": "Шегарская"
+    "tikName": "Шегарская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 767,
     "uikTvd": "4704023169646",
+    "uikName": "УИК №767",
     "tikTvd": "2702000661765",
-    "tikName": "Шегарская"
+    "tikName": "Шегарская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 768,
     "uikTvd": "4704023169647",
+    "uikName": "УИК №768",
     "tikTvd": "2702000661765",
-    "tikName": "Шегарская"
+    "tikName": "Шегарская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 769,
     "uikTvd": "4704023169648",
+    "uikName": "УИК №769",
     "tikTvd": "2702000661765",
-    "tikName": "Шегарская"
+    "tikName": "Шегарская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 770,
     "uikTvd": "4704023169649",
+    "uikName": "УИК №770",
     "tikTvd": "2702000661765",
-    "tikName": "Шегарская"
+    "tikName": "Шегарская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 771,
     "uikTvd": "4704023169650",
+    "uikName": "УИК №771",
     "tikTvd": "2702000661765",
-    "tikName": "Шегарская"
+    "tikName": "Шегарская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 772,
     "uikTvd": "4704023169651",
+    "uikName": "УИК №772",
     "tikTvd": "2702000661765",
-    "tikName": "Шегарская"
+    "tikName": "Шегарская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 773,
     "uikTvd": "4704023169652",
+    "uikName": "УИК №773",
     "tikTvd": "2702000661765",
-    "tikName": "Шегарская"
+    "tikName": "Шегарская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 774,
     "uikTvd": "4704023169653",
+    "uikName": "УИК №774",
     "tikTvd": "2702000661765",
-    "tikName": "Шегарская"
+    "tikName": "Шегарская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 775,
     "uikTvd": "4704023169654",
+    "uikName": "УИК №775",
     "tikTvd": "2702000661765",
-    "tikName": "Шегарская"
+    "tikName": "Шегарская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 776,
     "uikTvd": "4704023169655",
+    "uikName": "УИК №776",
     "tikTvd": "2702000661765",
-    "tikName": "Шегарская"
+    "tikName": "Шегарская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 777,
     "uikTvd": "4704023169656",
+    "uikName": "УИК №777",
     "tikTvd": "2702000661765",
-    "tikName": "Шегарская"
+    "tikName": "Шегарская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 778,
     "uikTvd": "4704023169657",
+    "uikName": "УИК №778",
     "tikTvd": "2702000661765",
-    "tikName": "Шегарская"
+    "tikName": "Шегарская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 779,
     "uikTvd": "4704023169658",
+    "uikName": "УИК №779",
     "tikTvd": "2702000661765",
-    "tikName": "Шегарская"
+    "tikName": "Шегарская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 780,
     "uikTvd": "4704023169659",
+    "uikName": "УИК №780",
     "tikTvd": "2702000661765",
-    "tikName": "Шегарская"
+    "tikName": "Шегарская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 781,
     "uikTvd": "4704020145772",
+    "uikName": "УИК №781",
     "tikTvd": "2702000661768",
-    "tikName": "Томск, Советская"
+    "tikName": "Томск, Советская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   },
   {
     "uikNumber": 782,
     "uikTvd": "4704009166218",
+    "uikName": "УИК №782",
     "tikTvd": "2702000661763",
-    "tikName": "Колпашевская"
+    "tikName": "Колпашевская",
+    "regionCode": "70",
+    "regionTvd": "100100084849194",
+    "regionName": "Томская область",
+    "district": null
   }
 ] satisfies readonly UikTikRelation[];

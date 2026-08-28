@@ -11,6 +11,9 @@ export const president_2018_tic_227_region_76 = [
     "ballot": "presidential",
     "tikTvd": "2762000620822",
     "tikName": "Рыбинск, Пролетарская",
+    "regionCode": "76",
+    "regionTvd": "100100084849199",
+    "regionName": "Ярославская область",
     "uikCount": 52,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 79403,
@@ -107,6 +110,9 @@ export const president_2018_tic_227_region_76 = [
     "ballot": "presidential",
     "tikTvd": "2762000620823",
     "tikName": "Рыбинск, Волжская",
+    "regionCode": "76",
+    "regionTvd": "100100084849199",
+    "regionName": "Ярославская область",
     "uikCount": 54,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 79940,
@@ -205,6 +211,9 @@ export const president_2018_tic_227_region_76 = [
     "ballot": "presidential",
     "tikTvd": "2762000620824",
     "tikName": "Переславская",
+    "regionCode": "76",
+    "regionTvd": "100100084849199",
+    "regionName": "Ярославская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 16372,
@@ -280,6 +289,9 @@ export const president_2018_tic_227_region_76 = [
     "ballot": "presidential",
     "tikTvd": "2762000620825",
     "tikName": "Ярославская",
+    "regionCode": "76",
+    "regionTvd": "100100084849199",
+    "regionName": "Ярославская область",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 47981,
@@ -362,6 +374,9 @@ export const president_2018_tic_227_region_76 = [
     "ballot": "presidential",
     "tikTvd": "2762000620826",
     "tikName": "Ярославль, Фрунзенская",
+    "regionCode": "76",
+    "regionTvd": "100100084849199",
+    "regionName": "Ярославская область",
     "uikCount": 58,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 104210,
@@ -464,6 +479,9 @@ export const president_2018_tic_227_region_76 = [
     "ballot": "presidential",
     "tikTvd": "2762000620827",
     "tikName": "Ярославль, Ленинская",
+    "regionCode": "76",
+    "regionTvd": "100100084849199",
+    "regionName": "Ярославская область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 50563,
@@ -544,6 +562,9 @@ export const president_2018_tic_227_region_76 = [
     "ballot": "presidential",
     "tikTvd": "2762000620828",
     "tikName": "Ярославль, Красноперекопская",
+    "regionCode": "76",
+    "regionTvd": "100100084849199",
+    "regionName": "Ярославская область",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 51073,
@@ -615,6 +636,9 @@ export const president_2018_tic_227_region_76 = [
     "ballot": "presidential",
     "tikTvd": "2762000620829",
     "tikName": "Ярославль, Кировская",
+    "regionCode": "76",
+    "regionTvd": "100100084849199",
+    "regionName": "Ярославская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 43658,
@@ -688,6 +712,9 @@ export const president_2018_tic_227_region_76 = [
     "ballot": "presidential",
     "tikTvd": "2762000620830",
     "tikName": "Ярославль, Заволжская",
+    "regionCode": "76",
+    "regionTvd": "100100084849199",
+    "regionName": "Ярославская область",
     "uikCount": 49,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 93877,
@@ -781,6 +808,9 @@ export const president_2018_tic_227_region_76 = [
     "ballot": "presidential",
     "tikTvd": "2762000620831",
     "tikName": "Ярославль, Дзержинская",
+    "regionCode": "76",
+    "regionTvd": "100100084849199",
+    "regionName": "Ярославская область",
     "uikCount": 72,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 132026,
@@ -897,6 +927,9 @@ export const president_2018_tic_227_region_76 = [
     "ballot": "presidential",
     "tikTvd": "2762000620832",
     "tikName": "Угличская",
+    "regionCode": "76",
+    "regionTvd": "100100084849199",
+    "regionName": "Ярославская область",
     "uikCount": 48,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 37136,
@@ -989,6 +1022,9 @@ export const president_2018_tic_227_region_76 = [
     "ballot": "presidential",
     "tikTvd": "2762000620833",
     "tikName": "Тутаевская",
+    "regionCode": "76",
+    "regionTvd": "100100084849199",
+    "regionName": "Ярославская область",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 45556,
@@ -1072,6 +1108,9 @@ export const president_2018_tic_227_region_76 = [
     "ballot": "presidential",
     "tikTvd": "2762000620834",
     "tikName": "Рыбинская",
+    "regionCode": "76",
+    "regionTvd": "100100084849199",
+    "regionName": "Ярославская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 22612,
@@ -1137,6 +1176,9 @@ export const president_2018_tic_227_region_76 = [
     "ballot": "presidential",
     "tikTvd": "2762000620835",
     "tikName": "Ростовская",
+    "regionCode": "76",
+    "regionTvd": "100100084849199",
+    "regionName": "Ярославская область",
     "uikCount": 47,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 53876,
@@ -1228,6 +1270,9 @@ export const president_2018_tic_227_region_76 = [
     "ballot": "presidential",
     "tikTvd": "2762000620836",
     "tikName": "Пошехонская",
+    "regionCode": "76",
+    "regionTvd": "100100084849199",
+    "regionName": "Ярославская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10868,
@@ -1298,6 +1343,9 @@ export const president_2018_tic_227_region_76 = [
     "ballot": "presidential",
     "tikTvd": "2762000620837",
     "tikName": "Переславль-Залесская городская",
+    "regionCode": "76",
+    "regionTvd": "100100084849199",
+    "regionName": "Ярославская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 33763,
@@ -1363,6 +1411,9 @@ export const president_2018_tic_227_region_76 = [
     "ballot": "presidential",
     "tikTvd": "2762000620838",
     "tikName": "Первомайская",
+    "regionCode": "76",
+    "regionTvd": "100100084849199",
+    "regionName": "Ярославская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 8779,
@@ -1426,6 +1477,9 @@ export const president_2018_tic_227_region_76 = [
     "ballot": "presidential",
     "tikTvd": "2762000620839",
     "tikName": "Некрасовская",
+    "regionCode": "76",
+    "regionTvd": "100100084849199",
+    "regionName": "Ярославская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 18456,
@@ -1499,6 +1553,9 @@ export const president_2018_tic_227_region_76 = [
     "ballot": "presidential",
     "tikTvd": "2762000620840",
     "tikName": "Некоузская",
+    "regionCode": "76",
+    "regionTvd": "100100084849199",
+    "regionName": "Ярославская область",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 12686,
@@ -1570,6 +1627,9 @@ export const president_2018_tic_227_region_76 = [
     "ballot": "presidential",
     "tikTvd": "2762000620841",
     "tikName": "Мышкинская",
+    "regionCode": "76",
+    "regionTvd": "100100084849199",
+    "regionName": "Ярославская область",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 8296,
@@ -1631,6 +1691,9 @@ export const president_2018_tic_227_region_76 = [
     "ballot": "presidential",
     "tikTvd": "2762000620842",
     "tikName": "Любимская",
+    "regionCode": "76",
+    "regionTvd": "100100084849199",
+    "regionName": "Ярославская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9567,
@@ -1696,6 +1759,9 @@ export const president_2018_tic_227_region_76 = [
     "ballot": "presidential",
     "tikTvd": "2762000620843",
     "tikName": "Даниловская",
+    "regionCode": "76",
+    "regionTvd": "100100084849199",
+    "regionName": "Ярославская область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 20622,
@@ -1776,6 +1842,9 @@ export const president_2018_tic_227_region_76 = [
     "ballot": "presidential",
     "tikTvd": "2762000620844",
     "tikName": "Гаврилов-Ямская",
+    "regionCode": "76",
+    "regionTvd": "100100084849199",
+    "regionName": "Ярославская область",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 20755,
@@ -1847,6 +1916,9 @@ export const president_2018_tic_227_region_76 = [
     "ballot": "presidential",
     "tikTvd": "2762000620845",
     "tikName": "Брейтовская",
+    "regionCode": "76",
+    "regionTvd": "100100084849199",
+    "regionName": "Ярославская область",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 5703,
@@ -1904,6 +1976,9 @@ export const president_2018_tic_227_region_76 = [
     "ballot": "presidential",
     "tikTvd": "2762000620846",
     "tikName": "Борисоглебская",
+    "regionCode": "76",
+    "regionTvd": "100100084849199",
+    "regionName": "Ярославская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10817,
@@ -1967,6 +2042,9 @@ export const president_2018_tic_227_region_76 = [
     "ballot": "presidential",
     "tikTvd": "2762000620847",
     "tikName": "Большесельская",
+    "regionCode": "76",
+    "regionTvd": "100100084849199",
+    "regionName": "Ярославская область",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 7852,

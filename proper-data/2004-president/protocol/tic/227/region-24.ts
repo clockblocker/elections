@@ -11,6 +11,9 @@ export const president_2004_tic_227_region_24 = [
     "ballot": "presidential",
     "tikTvd": "224200075069",
     "tikName": "Рыбинская",
+    "regionCode": "24",
+    "regionTvd": "1001000882960",
+    "regionName": "Красноярский край",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в список": 14361,
@@ -96,6 +99,9 @@ export const president_2004_tic_227_region_24 = [
     "ballot": "presidential",
     "tikTvd": "224200075070",
     "tikName": "Енисейская",
+    "regionCode": "24",
+    "regionTvd": "1001000882960",
+    "regionName": "Красноярский край",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в список": 22133,
@@ -182,6 +188,9 @@ export const president_2004_tic_227_region_24 = [
     "ballot": "presidential",
     "tikTvd": "224200075071",
     "tikName": "Назаровская",
+    "regionCode": "24",
+    "regionTvd": "1001000882960",
+    "regionName": "Красноярский край",
     "uikCount": 58,
     "accounting": {
       "Число избирателей, внесенных в список": 16754,
@@ -288,6 +297,9 @@ export const president_2004_tic_227_region_24 = [
     "ballot": "presidential",
     "tikTvd": "224200075072",
     "tikName": "Канская городская",
+    "regionCode": "24",
+    "regionTvd": "1001000882960",
+    "regionName": "Красноярский край",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в список": 75582,
@@ -371,6 +383,9 @@ export const president_2004_tic_227_region_24 = [
     "ballot": "presidential",
     "tikTvd": "224200075073",
     "tikName": "Минусинская",
+    "regionCode": "24",
+    "regionTvd": "1001000882960",
+    "regionName": "Красноярский край",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в список": 20368,
@@ -451,6 +466,9 @@ export const president_2004_tic_227_region_24 = [
     "ballot": "presidential",
     "tikTvd": "224200075074",
     "tikName": "Шушенская",
+    "regionCode": "24",
+    "regionTvd": "1001000882960",
+    "regionName": "Красноярский край",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в список": 27835,
@@ -531,6 +549,9 @@ export const president_2004_tic_227_region_24 = [
     "ballot": "presidential",
     "tikTvd": "224200075075",
     "tikName": "Боготольская",
+    "regionCode": "24",
+    "regionTvd": "1001000882960",
+    "regionName": "Красноярский край",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в список": 8781,
@@ -609,6 +630,9 @@ export const president_2004_tic_227_region_24 = [
     "ballot": "presidential",
     "tikTvd": "224200075076",
     "tikName": "Ачинская",
+    "regionCode": "24",
+    "regionTvd": "1001000882960",
+    "regionName": "Красноярский край",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список": 12027,
@@ -675,6 +699,9 @@ export const president_2004_tic_227_region_24 = [
     "ballot": "presidential",
     "tikTvd": "224200075077",
     "tikName": "Шарыповская",
+    "regionCode": "24",
+    "regionTvd": "1001000882960",
+    "regionName": "Красноярский край",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в список": 12580,
@@ -756,6 +783,9 @@ export const president_2004_tic_227_region_24 = [
     "ballot": "presidential",
     "tikTvd": "224200075078",
     "tikName": "Шарыповская городская",
+    "regionCode": "24",
+    "regionTvd": "1001000882960",
+    "regionName": "Красноярский край",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список": 38056,
@@ -823,6 +853,9 @@ export const president_2004_tic_227_region_24 = [
     "ballot": "presidential",
     "tikTvd": "224200075079",
     "tikName": "Уярская",
+    "regionCode": "24",
+    "regionTvd": "1001000882960",
+    "regionName": "Красноярский край",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в список": 16707,
@@ -905,6 +938,9 @@ export const president_2004_tic_227_region_24 = [
     "ballot": "presidential",
     "tikTvd": "224200075080",
     "tikName": "Тюхтетская",
+    "regionCode": "24",
+    "regionTvd": "1001000882960",
+    "regionName": "Красноярский край",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список": 7801,
@@ -978,6 +1014,9 @@ export const president_2004_tic_227_region_24 = [
     "ballot": "presidential",
     "tikTvd": "224200075081",
     "tikName": "Солнечная поселковая",
+    "regionCode": "24",
+    "regionTvd": "1001000882960",
+    "regionName": "Красноярский край",
     "uikCount": 4,
     "accounting": {
       "Число избирателей, внесенных в список": 8317,
@@ -1030,6 +1069,9 @@ export const president_2004_tic_227_region_24 = [
     "ballot": "presidential",
     "tikTvd": "224200075082",
     "tikName": "Ужурская",
+    "regionCode": "24",
+    "regionTvd": "1001000882960",
+    "regionName": "Красноярский край",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, внесенных в список": 24992,
@@ -1124,6 +1166,9 @@ export const president_2004_tic_227_region_24 = [
     "ballot": "presidential",
     "tikTvd": "224200075083",
     "tikName": "Туруханская",
+    "regionCode": "24",
+    "regionTvd": "1001000882960",
+    "regionName": "Красноярский край",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список": 8795,
@@ -1195,6 +1240,9 @@ export const president_2004_tic_227_region_24 = [
     "ballot": "presidential",
     "tikTvd": "224200075084",
     "tikName": "Тасеевская",
+    "regionCode": "24",
+    "regionTvd": "1001000882960",
+    "regionName": "Красноярский край",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в список": 10659,
@@ -1274,6 +1322,9 @@ export const president_2004_tic_227_region_24 = [
     "ballot": "presidential",
     "tikTvd": "224200075085",
     "tikName": "Сухобузимская",
+    "regionCode": "24",
+    "regionTvd": "1001000882960",
+    "regionName": "Красноярский край",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в список": 16150,
@@ -1356,6 +1407,9 @@ export const president_2004_tic_227_region_24 = [
     "ballot": "presidential",
     "tikTvd": "224200075086",
     "tikName": "Северо-Енисейская",
+    "regionCode": "24",
+    "regionTvd": "1001000882960",
+    "regionName": "Красноярский край",
     "uikCount": 10,
     "accounting": {
       "Число избирателей, внесенных в список": 8308,
@@ -1414,6 +1468,9 @@ export const president_2004_tic_227_region_24 = [
     "ballot": "presidential",
     "tikTvd": "224200075087",
     "tikName": "Сосновоборская городская",
+    "regionCode": "24",
+    "regionTvd": "1001000882960",
+    "regionName": "Красноярский край",
     "uikCount": 9,
     "accounting": {
       "Число избирателей, внесенных в список": 23907,
@@ -1471,6 +1528,9 @@ export const president_2004_tic_227_region_24 = [
     "ballot": "presidential",
     "tikTvd": "224200075088",
     "tikName": "Саянская",
+    "regionCode": "24",
+    "regionTvd": "1001000882960",
+    "regionName": "Красноярский край",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список": 10289,
@@ -1542,6 +1602,9 @@ export const president_2004_tic_227_region_24 = [
     "ballot": "presidential",
     "tikTvd": "224200075089",
     "tikName": "Партизанская",
+    "regionCode": "24",
+    "regionTvd": "1001000882960",
+    "regionName": "Красноярский край",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список": 8989,
@@ -1612,6 +1675,9 @@ export const president_2004_tic_227_region_24 = [
     "ballot": "presidential",
     "tikTvd": "224200075090",
     "tikName": "Пировская",
+    "regionCode": "24",
+    "regionTvd": "1001000882960",
+    "regionName": "Красноярский край",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список": 6340,
@@ -1678,6 +1744,9 @@ export const president_2004_tic_227_region_24 = [
     "ballot": "presidential",
     "tikTvd": "224200075091",
     "tikName": "Норильская городская",
+    "regionCode": "24",
+    "regionTvd": "1001000882960",
+    "regionName": "Красноярский край",
     "uikCount": 74,
     "accounting": {
       "Число избирателей, внесенных в список": 161131,
@@ -1800,6 +1869,9 @@ export const president_2004_tic_227_region_24 = [
     "ballot": "presidential",
     "tikTvd": "224200075092",
     "tikName": "Новоселовская",
+    "regionCode": "24",
+    "regionTvd": "1001000882960",
+    "regionName": "Красноярский край",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список": 11458,
@@ -1877,6 +1949,9 @@ export const president_2004_tic_227_region_24 = [
     "ballot": "presidential",
     "tikTvd": "224200075093",
     "tikName": "Мотыгинская",
+    "regionCode": "24",
+    "regionTvd": "1001000882960",
+    "regionName": "Красноярский край",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в список": 13542,
@@ -1942,6 +2017,9 @@ export const president_2004_tic_227_region_24 = [
     "ballot": "presidential",
     "tikTvd": "224200075094",
     "tikName": "Нижнеингашская",
+    "regionCode": "24",
+    "regionTvd": "1001000882960",
+    "regionName": "Красноярский край",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, внесенных в список": 26276,
@@ -2036,6 +2114,9 @@ export const president_2004_tic_227_region_24 = [
     "ballot": "presidential",
     "tikTvd": "224200075095",
     "tikName": "Назаровская городская",
+    "regionCode": "24",
+    "regionTvd": "1001000882960",
+    "regionName": "Красноярский край",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список": 43596,
@@ -2104,6 +2185,9 @@ export const president_2004_tic_227_region_24 = [
     "ballot": "presidential",
     "tikTvd": "224200075096",
     "tikName": "Минусинская городская",
+    "regionCode": "24",
+    "regionTvd": "1001000882960",
+    "regionName": "Красноярский край",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список": 61930,
@@ -2179,6 +2263,9 @@ export const president_2004_tic_227_region_24 = [
     "ballot": "presidential",
     "tikTvd": "224200075097",
     "tikName": "Лесосибирская городская",
+    "regionCode": "24",
+    "regionTvd": "1001000882960",
+    "regionName": "Красноярский край",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в список": 54965,
@@ -2258,6 +2345,9 @@ export const president_2004_tic_227_region_24 = [
     "ballot": "presidential",
     "tikTvd": "224200075098",
     "tikName": "Манская",
+    "regionCode": "24",
+    "regionTvd": "1001000882960",
+    "regionName": "Красноярский край",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в список": 13689,
@@ -2338,6 +2428,9 @@ export const president_2004_tic_227_region_24 = [
     "ballot": "presidential",
     "tikTvd": "224200075099",
     "tikName": "Курагинская",
+    "regionCode": "24",
+    "regionTvd": "1001000882960",
+    "regionName": "Красноярский край",
     "uikCount": 54,
     "accounting": {
       "Число избирателей, внесенных в список": 37425,
@@ -2440,6 +2533,9 @@ export const president_2004_tic_227_region_24 = [
     "ballot": "presidential",
     "tikTvd": "224200075100",
     "tikName": "Красноярск, Центральная",
+    "regionCode": "24",
+    "regionTvd": "1001000882960",
+    "regionName": "Красноярский край",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в список": 46523,
@@ -2519,6 +2615,9 @@ export const president_2004_tic_227_region_24 = [
     "ballot": "presidential",
     "tikTvd": "224200075101",
     "tikName": "Красноярск, Советская",
+    "regionCode": "24",
+    "regionTvd": "1001000882960",
+    "regionName": "Красноярский край",
     "uikCount": 79,
     "accounting": {
       "Число избирателей, внесенных в список": 174541,
@@ -2646,6 +2745,9 @@ export const president_2004_tic_227_region_24 = [
     "ballot": "presidential",
     "tikTvd": "224200075102",
     "tikName": "Красноярск, Октябрьская",
+    "regionCode": "24",
+    "regionTvd": "1001000882960",
+    "regionName": "Красноярский край",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, внесенных в список": 110996,
@@ -2744,6 +2846,9 @@ export const president_2004_tic_227_region_24 = [
     "ballot": "presidential",
     "tikTvd": "224200075103",
     "tikName": "Красноярск, Ленинская",
+    "regionCode": "24",
+    "regionTvd": "1001000882960",
+    "regionName": "Красноярский край",
     "uikCount": 52,
     "accounting": {
       "Число избирателей, внесенных в список": 113827,
@@ -2844,6 +2949,9 @@ export const president_2004_tic_227_region_24 = [
     "ballot": "presidential",
     "tikTvd": "224200075104",
     "tikName": "Красноярск, Свердловская",
+    "regionCode": "24",
+    "regionTvd": "1001000882960",
+    "regionName": "Красноярский край",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, внесенных в список": 101973,
@@ -2938,6 +3046,9 @@ export const president_2004_tic_227_region_24 = [
     "ballot": "presidential",
     "tikTvd": "224200075105",
     "tikName": "Краснотуранская",
+    "regionCode": "24",
+    "regionTvd": "1001000882960",
+    "regionName": "Красноярский край",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список": 12751,
@@ -3013,6 +3124,9 @@ export const president_2004_tic_227_region_24 = [
     "ballot": "presidential",
     "tikTvd": "224200075106",
     "tikName": "Красноярск, Железнодорожная",
+    "regionCode": "24",
+    "regionTvd": "1001000882960",
+    "regionName": "Красноярский край",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в список": 74036,
@@ -3092,6 +3206,9 @@ export const president_2004_tic_227_region_24 = [
     "ballot": "presidential",
     "tikTvd": "224200075107",
     "tikName": "Красноярск, Кировская",
+    "regionCode": "24",
+    "regionTvd": "1001000882960",
+    "regionName": "Красноярский край",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, внесенных в список": 91965,
@@ -3190,6 +3307,9 @@ export const president_2004_tic_227_region_24 = [
     "ballot": "presidential",
     "tikTvd": "224200075108",
     "tikName": "Канская",
+    "regionCode": "24",
+    "regionTvd": "1001000882960",
+    "regionName": "Красноярский край",
     "uikCount": 54,
     "accounting": {
       "Число избирателей, внесенных в список": 19836,
@@ -3292,6 +3412,9 @@ export const president_2004_tic_227_region_24 = [
     "ballot": "presidential",
     "tikTvd": "224200075109",
     "tikName": "Каратузская",
+    "regionCode": "24",
+    "regionTvd": "1001000882960",
+    "regionName": "Красноярский край",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список": 14044,
@@ -3365,6 +3488,9 @@ export const president_2004_tic_227_region_24 = [
     "ballot": "presidential",
     "tikTvd": "224200075110",
     "tikName": "Кежемская",
+    "regionCode": "24",
+    "regionTvd": "1001000882960",
+    "regionName": "Красноярский край",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список": 16424,
@@ -3436,6 +3562,9 @@ export const president_2004_tic_227_region_24 = [
     "ballot": "presidential",
     "tikTvd": "224200075111",
     "tikName": "Козульская",
+    "regionCode": "24",
+    "regionTvd": "1001000882960",
+    "regionName": "Красноярский край",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список": 13573,
@@ -3508,6 +3637,9 @@ export const president_2004_tic_227_region_24 = [
     "ballot": "presidential",
     "tikTvd": "224200075112",
     "tikName": "Казачинская",
+    "regionCode": "24",
+    "regionTvd": "1001000882960",
+    "regionName": "Красноярский край",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список": 9030,
@@ -3578,6 +3710,9 @@ export const president_2004_tic_227_region_24 = [
     "ballot": "presidential",
     "tikTvd": "224200075113",
     "tikName": "Ирбейская",
+    "regionCode": "24",
+    "regionTvd": "1001000882960",
+    "regionName": "Красноярский край",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, внесенных в список": 12635,
@@ -3668,6 +3803,9 @@ export const president_2004_tic_227_region_24 = [
     "ballot": "presidential",
     "tikTvd": "224200075114",
     "tikName": "Иланская",
+    "regionCode": "24",
+    "regionTvd": "1001000882960",
+    "regionName": "Красноярский край",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в список": 20169,
@@ -3753,6 +3891,9 @@ export const president_2004_tic_227_region_24 = [
     "ballot": "presidential",
     "tikTvd": "224200075115",
     "tikName": "Идринская",
+    "regionCode": "24",
+    "regionTvd": "1001000882960",
+    "regionName": "Красноярский край",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в список": 11178,
@@ -3833,6 +3974,9 @@ export const president_2004_tic_227_region_24 = [
     "ballot": "presidential",
     "tikTvd": "224200075116",
     "tikName": "Игарская городская",
+    "regionCode": "24",
+    "regionTvd": "1001000882960",
+    "regionName": "Красноярский край",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, внесенных в список": 6576,
@@ -3892,6 +4036,9 @@ export const president_2004_tic_227_region_24 = [
     "ballot": "presidential",
     "tikTvd": "224200075117",
     "tikName": "Зеленогорская городская",
+    "regionCode": "24",
+    "regionTvd": "1001000882960",
+    "regionName": "Красноярский край",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список": 56035,
@@ -3962,6 +4109,9 @@ export const president_2004_tic_227_region_24 = [
     "ballot": "presidential",
     "tikTvd": "224200075118",
     "tikName": "Заозерная городская",
+    "regionCode": "24",
+    "regionTvd": "1001000882960",
+    "regionName": "Красноярский край",
     "uikCount": 10,
     "accounting": {
       "Число избирателей, внесенных в список": 10762,
@@ -4020,6 +4170,9 @@ export const president_2004_tic_227_region_24 = [
     "ballot": "presidential",
     "tikTvd": "224200075119",
     "tikName": "Енисейская городская",
+    "regionCode": "24",
+    "regionTvd": "1001000882960",
+    "regionName": "Красноярский край",
     "uikCount": 10,
     "accounting": {
       "Число избирателей, внесенных в список": 15691,
@@ -4078,6 +4231,9 @@ export const president_2004_tic_227_region_24 = [
     "ballot": "presidential",
     "tikTvd": "224200075120",
     "tikName": "Ермаковская",
+    "regionCode": "24",
+    "regionTvd": "1001000882960",
+    "regionName": "Красноярский край",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список": 16849,
@@ -4153,6 +4309,9 @@ export const president_2004_tic_227_region_24 = [
     "ballot": "presidential",
     "tikTvd": "224200075121",
     "tikName": "Кедровая поселковая",
+    "regionCode": "24",
+    "regionTvd": "1001000882960",
+    "regionName": "Красноярский край",
     "uikCount": 3,
     "accounting": {
       "Число избирателей, внесенных в список": 3669,
@@ -4204,6 +4363,9 @@ export const president_2004_tic_227_region_24 = [
     "ballot": "presidential",
     "tikTvd": "224200075122",
     "tikName": "Дивногорская городская",
+    "regionCode": "24",
+    "regionTvd": "1001000882960",
+    "regionName": "Красноярский край",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в список": 26889,
@@ -4269,6 +4431,9 @@ export const president_2004_tic_227_region_24 = [
     "ballot": "presidential",
     "tikTvd": "224200075123",
     "tikName": "Емельяновская",
+    "regionCode": "24",
+    "regionTvd": "1001000882960",
+    "regionName": "Красноярский край",
     "uikCount": 55,
     "accounting": {
       "Число избирателей, внесенных в список": 28733,
@@ -4372,6 +4537,9 @@ export const president_2004_tic_227_region_24 = [
     "ballot": "presidential",
     "tikTvd": "224200075124",
     "tikName": "Дзержинская ",
+    "regionCode": "24",
+    "regionTvd": "1001000882960",
+    "regionName": "Красноярский край",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в список": 12279,
@@ -4459,6 +4627,9 @@ export const president_2004_tic_227_region_24 = [
     "ballot": "presidential",
     "tikTvd": "224200075125",
     "tikName": "Большеулуйская",
+    "regionCode": "24",
+    "regionTvd": "1001000882960",
+    "regionName": "Красноярский край",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в список": 6517,
@@ -4524,6 +4695,9 @@ export const president_2004_tic_227_region_24 = [
     "ballot": "presidential",
     "tikTvd": "224200075126",
     "tikName": "Бородинская городская",
+    "regionCode": "24",
+    "regionTvd": "1001000882960",
+    "regionName": "Красноярский край",
     "uikCount": 8,
     "accounting": {
       "Число избирателей, внесенных в список": 16356,
@@ -4580,6 +4754,9 @@ export const president_2004_tic_227_region_24 = [
     "ballot": "presidential",
     "tikTvd": "224200075127",
     "tikName": "Большемуртинская",
+    "regionCode": "24",
+    "regionTvd": "1001000882960",
+    "regionName": "Красноярский край",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в список": 15746,
@@ -4658,6 +4835,9 @@ export const president_2004_tic_227_region_24 = [
     "ballot": "presidential",
     "tikTvd": "224200075128",
     "tikName": "Богучанская",
+    "regionCode": "24",
+    "regionTvd": "1001000882960",
+    "regionName": "Красноярский край",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в список": 33155,
@@ -4741,6 +4921,9 @@ export const president_2004_tic_227_region_24 = [
     "ballot": "presidential",
     "tikTvd": "224200075129",
     "tikName": "Боготольская городская",
+    "regionCode": "24",
+    "regionTvd": "1001000882960",
+    "regionName": "Красноярский край",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список": 17817,
@@ -4809,6 +4992,9 @@ export const president_2004_tic_227_region_24 = [
     "ballot": "presidential",
     "tikTvd": "224200075130",
     "tikName": "Бирилюсская",
+    "regionCode": "24",
+    "regionTvd": "1001000882960",
+    "regionName": "Красноярский край",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список": 9406,
@@ -4884,6 +5070,9 @@ export const president_2004_tic_227_region_24 = [
     "ballot": "presidential",
     "tikTvd": "224200075131",
     "tikName": "Березовская",
+    "regionCode": "24",
+    "regionTvd": "1001000882960",
+    "regionName": "Красноярский край",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в список": 27118,
@@ -4963,6 +5152,9 @@ export const president_2004_tic_227_region_24 = [
     "ballot": "presidential",
     "tikTvd": "224200075132",
     "tikName": "Балахтинская",
+    "regionCode": "24",
+    "regionTvd": "1001000882960",
+    "regionName": "Красноярский край",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, внесенных в список": 17550,
@@ -5057,6 +5249,9 @@ export const president_2004_tic_227_region_24 = [
     "ballot": "presidential",
     "tikTvd": "224200075133",
     "tikName": "Железногорская городская",
+    "regionCode": "24",
+    "regionTvd": "1001000882960",
+    "regionName": "Красноярский край",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в список": 81714,
@@ -5145,6 +5340,9 @@ export const president_2004_tic_227_region_24 = [
     "ballot": "presidential",
     "tikTvd": "224200075134",
     "tikName": "Ачинская городская",
+    "regionCode": "24",
+    "regionTvd": "1001000882960",
+    "regionName": "Красноярский край",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, внесенных в список": 91123,
@@ -5235,6 +5433,9 @@ export const president_2004_tic_227_region_24 = [
     "ballot": "presidential",
     "tikTvd": "224200075135",
     "tikName": "Абанская",
+    "regionCode": "24",
+    "regionTvd": "1001000882960",
+    "regionName": "Красноярский край",
     "uikCount": 49,
     "accounting": {
       "Число избирателей, внесенных в список": 18844,

@@ -11,6 +11,9 @@ export const duma_2007_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "2592000214476",
     "tikName": "ТИК Александровского МР",
+    "regionCode": "90",
+    "regionTvd": "100100021960361",
+    "regionName": "Пермский край",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 26918,
@@ -92,6 +95,9 @@ export const duma_2007_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "2592000214477",
     "tikName": "ТИК г.Березники",
+    "regionCode": "90",
+    "regionTvd": "100100021960361",
+    "regionName": "Пермский край",
     "uikCount": 66,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 130486,
@@ -212,6 +218,9 @@ export const duma_2007_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "2592000214478",
     "tikName": "ТИК Верещагинского МР",
+    "regionCode": "90",
+    "regionTvd": "100100021960361",
+    "regionName": "Пермский край",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 30564,
@@ -304,6 +313,9 @@ export const duma_2007_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "2592000214479",
     "tikName": "ТИК Горнозаводского МР",
+    "regionCode": "90",
+    "regionTvd": "100100021960361",
+    "regionName": "Пермский край",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 22149,
@@ -377,6 +389,9 @@ export const duma_2007_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "2592000214480",
     "tikName": "ТИК Индустриального района г.Перми",
+    "regionCode": "90",
+    "regionTvd": "100100021960361",
+    "regionName": "Пермский край",
     "uikCount": 65,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 125560,
@@ -496,6 +511,9 @@ export const duma_2007_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "2592000214481",
     "tikName": "ТИК Дзержинского района г.Перми",
+    "regionCode": "90",
+    "regionTvd": "100100021960361",
+    "regionName": "Пермский край",
     "uikCount": 64,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 120799,
@@ -614,6 +632,9 @@ export const duma_2007_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "2592000214482",
     "tikName": "ТИК Свердловского района г.Перми",
+    "regionCode": "90",
+    "regionTvd": "100100021960361",
+    "regionName": "Пермский край",
     "uikCount": 91,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 170546,
@@ -759,6 +780,9 @@ export const duma_2007_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "2592000214483",
     "tikName": "ТИК Орджоникидзевского района г.Перми",
+    "regionCode": "90",
+    "regionTvd": "100100021960361",
+    "regionName": "Пермский край",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 89151,
@@ -863,6 +887,9 @@ export const duma_2007_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "2592000214484",
     "tikName": "ТИК Мотовилихинского района г.Перми",
+    "regionCode": "90",
+    "regionTvd": "100100021960361",
+    "regionName": "Пермский край",
     "uikCount": 75,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 141811,
@@ -992,6 +1019,9 @@ export const duma_2007_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "2592000214485",
     "tikName": "ТИК Ленинского района г.Перми",
+    "regionCode": "90",
+    "regionTvd": "100100021960361",
+    "regionName": "Пермский край",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 42759,
@@ -1075,6 +1105,9 @@ export const duma_2007_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "2592000214486",
     "tikName": "ТИК Добрянского МР",
+    "regionCode": "90",
+    "regionTvd": "100100021960361",
+    "regionName": "Пермский край",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 45711,
@@ -1168,6 +1201,9 @@ export const duma_2007_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "2592000214487",
     "tikName": "ТИК Губахинского МР",
+    "regionCode": "90",
+    "regionTvd": "100100021960361",
+    "regionName": "Пермский край",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 33226,
@@ -1248,6 +1284,9 @@ export const duma_2007_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "2592000214488",
     "tikName": "ТИК Гремячинского МР",
+    "regionCode": "90",
+    "regionTvd": "100100021960361",
+    "regionName": "Пермский край",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 13812,
@@ -1317,6 +1356,9 @@ export const duma_2007_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "2592000214489",
     "tikName": "ТИК Кизеловского МР",
+    "regionCode": "90",
+    "regionTvd": "100100021960361",
+    "regionName": "Пермский край",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 25150,
@@ -1388,6 +1430,9 @@ export const duma_2007_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "2592000214490",
     "tikName": "ТИК Карагайского МР",
+    "regionCode": "90",
+    "regionTvd": "100100021960361",
+    "regionName": "Пермский край",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 18201,
@@ -1469,6 +1514,9 @@ export const duma_2007_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "2592000214491",
     "tikName": "ТИК Ильинского МР",
+    "regionCode": "90",
+    "regionTvd": "100100021960361",
+    "regionName": "Пермский край",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 16092,
@@ -1549,6 +1597,9 @@ export const duma_2007_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "2592000214492",
     "tikName": "ТИК Красновишерского МР",
+    "regionCode": "90",
+    "regionTvd": "100100021960361",
+    "regionName": "Пермский край",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 19147,
@@ -1638,6 +1689,9 @@ export const duma_2007_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "2592000214497",
     "tikName": "ТИК Бардымского МР",
+    "regionCode": "90",
+    "regionTvd": "100100021960361",
+    "regionName": "Пермский край",
     "uikCount": 48,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 18694,
@@ -1740,6 +1794,9 @@ export const duma_2007_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "2592000214498",
     "tikName": "ТИК Березовского МР",
+    "regionCode": "90",
+    "regionTvd": "100100021960361",
+    "regionName": "Пермский край",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 13760,
@@ -1832,6 +1889,9 @@ export const duma_2007_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "2592000214499",
     "tikName": "ТИК Большесосновского МР",
+    "regionCode": "90",
+    "regionTvd": "100100021960361",
+    "regionName": "Пермский край",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 11046,
@@ -1905,6 +1965,9 @@ export const duma_2007_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "2592000214500",
     "tikName": "ТИК Еловского МР",
+    "regionCode": "90",
+    "regionTvd": "100100021960361",
+    "regionName": "Пермский край",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 9656,
@@ -1975,6 +2038,9 @@ export const duma_2007_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "2592000214501",
     "tikName": "ТИК ГО ЗАТО Звездный",
+    "regionCode": "90",
+    "regionTvd": "100100021960361",
+    "regionName": "Пермский край",
     "uikCount": 6,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 6730,
@@ -2035,6 +2101,9 @@ export const duma_2007_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "2592000214502",
     "tikName": "ТИК Кишертского МР",
+    "regionCode": "90",
+    "regionTvd": "100100021960361",
+    "regionName": "Пермский край",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 11669,
@@ -2113,6 +2182,9 @@ export const duma_2007_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "2592000214503",
     "tikName": "ТИК Нытвенского МР",
+    "regionCode": "90",
+    "regionTvd": "100100021960361",
+    "regionName": "Пермский край",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 37810,
@@ -2199,6 +2271,9 @@ export const duma_2007_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "2592000214504",
     "tikName": "ТИК Осинского МР",
+    "regionCode": "90",
+    "regionTvd": "100100021960361",
+    "regionName": "Пермский край",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 24625,
@@ -2284,6 +2359,9 @@ export const duma_2007_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "2592000214505",
     "tikName": "ТИК Ординского МР",
+    "regionCode": "90",
+    "regionTvd": "100100021960361",
+    "regionName": "Пермский край",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 12780,
@@ -2358,6 +2436,9 @@ export const duma_2007_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "2592000214506",
     "tikName": "ТИК Октябрьского МР",
+    "regionCode": "90",
+    "regionTvd": "100100021960361",
+    "regionName": "Пермский край",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 24161,
@@ -2456,6 +2537,9 @@ export const duma_2007_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "2592000214507",
     "tikName": "ТИК Очерского МР",
+    "regionCode": "90",
+    "regionTvd": "100100021960361",
+    "regionName": "Пермский край",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 19062,
@@ -2536,6 +2620,9 @@ export const duma_2007_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "2592000214508",
     "tikName": "ТИК Оханского МР",
+    "regionCode": "90",
+    "regionTvd": "100100021960361",
+    "regionName": "Пермский край",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 11675,
@@ -2603,6 +2690,9 @@ export const duma_2007_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "2592000214509",
     "tikName": "ТИК Кировского района г.Перми",
+    "regionCode": "90",
+    "regionTvd": "100100021960361",
+    "regionName": "Пермский край",
     "uikCount": 55,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 102356,
@@ -2712,6 +2802,9 @@ export const duma_2007_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "2592000214510",
     "tikName": "ТИК Пермского МР",
+    "regionCode": "90",
+    "regionTvd": "100100021960361",
+    "regionName": "Пермский край",
     "uikCount": 64,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 70733,
@@ -2830,6 +2923,9 @@ export const duma_2007_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "2592000214511",
     "tikName": "ТИК г.Соликамска",
+    "regionCode": "90",
+    "regionTvd": "100100021960361",
+    "regionName": "Пермский край",
     "uikCount": 45,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 73704,
@@ -2929,6 +3025,9 @@ export const duma_2007_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "2592000214512",
     "tikName": "ТИК Сивинского МР",
+    "regionCode": "90",
+    "regionTvd": "100100021960361",
+    "regionName": "Пермский край",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 12535,
@@ -3006,6 +3105,9 @@ export const duma_2007_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "2592000214513",
     "tikName": "ТИК Соликамского МР",
+    "regionCode": "90",
+    "regionTvd": "100100021960361",
+    "regionName": "Пермский край",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 10773,
@@ -3077,6 +3179,9 @@ export const duma_2007_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "2592000214514",
     "tikName": "ТИК Уинского МР",
+    "regionCode": "90",
+    "regionTvd": "100100021960361",
+    "regionName": "Пермский край",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 9633,
@@ -3156,6 +3261,9 @@ export const duma_2007_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "2592000214515",
     "tikName": "ТИК Суксунского МР",
+    "regionCode": "90",
+    "regionTvd": "100100021960361",
+    "regionName": "Пермский край",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 16444,
@@ -3233,6 +3341,9 @@ export const duma_2007_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "2592000214516",
     "tikName": "ТИК Частинского МР",
+    "regionCode": "90",
+    "regionTvd": "100100021960361",
+    "regionName": "Пермский край",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 10583,
@@ -3309,6 +3420,9 @@ export const duma_2007_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "2592000214517",
     "tikName": "ТИК Чайковского МР",
+    "regionCode": "90",
+    "regionTvd": "100100021960361",
+    "regionName": "Пермский край",
     "uikCount": 48,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 83859,
@@ -3411,6 +3525,9 @@ export const duma_2007_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "2592000214518",
     "tikName": "ТИК Чердынского МР",
+    "regionCode": "90",
+    "regionTvd": "100100021960361",
+    "regionName": "Пермский край",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 18493,
@@ -3496,6 +3613,9 @@ export const duma_2007_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "2592000214519",
     "tikName": "ТИК Усольского МР",
+    "regionCode": "90",
+    "regionTvd": "100100021960361",
+    "regionName": "Пермский край",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 11158,
@@ -3570,6 +3690,9 @@ export const duma_2007_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "2592000214520",
     "tikName": "ТИК Чернушинского МР",
+    "regionCode": "90",
+    "regionTvd": "100100021960361",
+    "regionName": "Пермский край",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 41465,
@@ -3665,6 +3788,9 @@ export const duma_2007_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "2592000214521",
     "tikName": "ТИК Кунгурского МР",
+    "regionCode": "90",
+    "regionTvd": "100100021960361",
+    "regionName": "Пермский край",
     "uikCount": 56,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 34446,
@@ -3775,6 +3901,9 @@ export const duma_2007_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "2592000214522",
     "tikName": "ТИК Чусовского МР",
+    "regionCode": "90",
+    "regionTvd": "100100021960361",
+    "regionName": "Пермский край",
     "uikCount": 52,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 58513,
@@ -3881,6 +4010,9 @@ export const duma_2007_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "2592000214557",
     "tikName": "ТИК Лысьвенского МР",
+    "regionCode": "90",
+    "regionTvd": "100100021960361",
+    "regionName": "Пермский край",
     "uikCount": 49,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 68040,
@@ -3984,6 +4116,9 @@ export const duma_2007_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "2592000214558",
     "tikName": "ТИК г.Кунгура",
+    "regionCode": "90",
+    "regionTvd": "100100021960361",
+    "regionName": "Пермский край",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 51779,
@@ -4065,6 +4200,9 @@ export const duma_2007_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "2592000214559",
     "tikName": "ТИК Куединского МР",
+    "regionCode": "90",
+    "regionTvd": "100100021960361",
+    "regionName": "Пермский край",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 23018,
@@ -4159,6 +4297,9 @@ export const duma_2007_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "2592000214560",
     "tikName": "ТИК Краснокамского МР",
+    "regionCode": "90",
+    "regionTvd": "100100021960361",
+    "regionName": "Пермский край",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 57091,
@@ -4253,6 +4394,9 @@ export const duma_2007_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "2592000214561",
     "tikName": "ТИК Юсьвинского МР",
+    "regionCode": "90",
+    "regionTvd": "100100021960361",
+    "regionName": "Пермский край",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 16744,
@@ -4336,6 +4480,9 @@ export const duma_2007_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "2592000214562",
     "tikName": "ТИК Юрлинского МР",
+    "regionCode": "90",
+    "regionTvd": "100100021960361",
+    "regionName": "Пермский край",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 7639,
@@ -4418,6 +4565,9 @@ export const duma_2007_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "2592000214563",
     "tikName": "ТИК г.Кудымкара",
+    "regionCode": "90",
+    "regionTvd": "100100021960361",
+    "regionName": "Пермский край",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 22105,
@@ -4487,6 +4637,9 @@ export const duma_2007_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "2592000214564",
     "tikName": "ТИК Кудымкарского МР",
+    "regionCode": "90",
+    "regionTvd": "100100021960361",
+    "regionName": "Пермский край",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 19263,
@@ -4585,6 +4738,9 @@ export const duma_2007_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "2592000214565",
     "tikName": "ТИК Кочевского МР",
+    "regionCode": "90",
+    "regionTvd": "100100021960361",
+    "regionName": "Пермский край",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 8961,
@@ -4669,6 +4825,9 @@ export const duma_2007_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "2592000214566",
     "tikName": "ТИК Косинского МР",
+    "regionCode": "90",
+    "regionTvd": "100100021960361",
+    "regionName": "Пермский край",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 6118,
@@ -4743,6 +4902,9 @@ export const duma_2007_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "2592000214567",
     "tikName": "ТИК Гайнского МР",
+    "regionCode": "90",
+    "regionTvd": "100100021960361",
+    "regionName": "Пермский край",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 11818,

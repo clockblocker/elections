@@ -11,6 +11,9 @@ export const president_2024_tic_227_region_69 = [
     "ballot": "presidential",
     "tikTvd": "26920001940575",
     "tikName": "Фировская",
+    "regionCode": "69",
+    "regionTvd": "100100339411261",
+    "regionName": "Тверская область",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 6404,
@@ -62,6 +65,9 @@ export const president_2024_tic_227_region_69 = [
     "ballot": "presidential",
     "tikTvd": "26920001940576",
     "tikName": "Удомельская",
+    "regionCode": "69",
+    "regionTvd": "100100339411261",
+    "regionName": "Тверская область",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 27454,
@@ -134,6 +140,9 @@ export const president_2024_tic_227_region_69 = [
     "ballot": "presidential",
     "tikTvd": "26920001940577",
     "tikName": "Торопецкая",
+    "regionCode": "69",
+    "regionTvd": "100100339411261",
+    "regionName": "Тверская область",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 14653,
@@ -201,6 +210,9 @@ export const president_2024_tic_227_region_69 = [
     "ballot": "presidential",
     "tikTvd": "26920001940578",
     "tikName": "Торжокская городская",
+    "regionCode": "69",
+    "regionTvd": "100100339411261",
+    "regionName": "Тверская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 31227,
@@ -265,6 +277,9 @@ export const president_2024_tic_227_region_69 = [
     "ballot": "presidential",
     "tikTvd": "26920001940579",
     "tikName": "Торжокская",
+    "regionCode": "69",
+    "regionTvd": "100100339411261",
+    "regionName": "Тверская область",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 14657,
@@ -332,6 +347,9 @@ export const president_2024_tic_227_region_69 = [
     "ballot": "presidential",
     "tikTvd": "26920001940580",
     "tikName": "Тверь, Центральная",
+    "regionCode": "69",
+    "regionTvd": "100100339411261",
+    "regionName": "Тверская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 40208,
@@ -395,6 +413,9 @@ export const president_2024_tic_227_region_69 = [
     "ballot": "presidential",
     "tikTvd": "26920001940581",
     "tikName": "Тверь, Пролетарская",
+    "regionCode": "69",
+    "regionTvd": "100100339411261",
+    "regionName": "Тверская область",
     "uikCount": 45,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 73503,
@@ -480,6 +501,9 @@ export const president_2024_tic_227_region_69 = [
     "ballot": "presidential",
     "tikTvd": "26920001940582",
     "tikName": "Тверь, Московская",
+    "regionCode": "69",
+    "regionTvd": "100100339411261",
+    "regionName": "Тверская область",
     "uikCount": 58,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 99707,
@@ -578,6 +602,9 @@ export const president_2024_tic_227_region_69 = [
     "ballot": "presidential",
     "tikTvd": "26920001940583",
     "tikName": "Тверь, Заволжская",
+    "regionCode": "69",
+    "regionTvd": "100100339411261",
+    "regionName": "Тверская область",
     "uikCount": 58,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 119251,
@@ -676,6 +703,9 @@ export const president_2024_tic_227_region_69 = [
     "ballot": "presidential",
     "tikTvd": "26920001940584",
     "tikName": "Старицкая",
+    "regionCode": "69",
+    "regionTvd": "100100339411261",
+    "regionName": "Тверская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 15493,
@@ -741,6 +771,9 @@ export const president_2024_tic_227_region_69 = [
     "ballot": "presidential",
     "tikTvd": "26920001940585",
     "tikName": "Спировская",
+    "regionCode": "69",
+    "regionTvd": "100100339411261",
+    "regionName": "Тверская область",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 7801,
@@ -798,6 +831,9 @@ export const president_2024_tic_227_region_69 = [
     "ballot": "presidential",
     "tikTvd": "26920001940586",
     "tikName": "Сонковская",
+    "regionCode": "69",
+    "regionTvd": "100100339411261",
+    "regionName": "Тверская область",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 5708,
@@ -849,6 +885,9 @@ export const president_2024_tic_227_region_69 = [
     "ballot": "presidential",
     "tikTvd": "26920001940587",
     "tikName": "Солнечная поселковая",
+    "regionCode": "69",
+    "regionTvd": "100100339411261",
+    "regionName": "Тверская область",
     "uikCount": 1,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 1391,
@@ -890,6 +929,9 @@ export const president_2024_tic_227_region_69 = [
     "ballot": "presidential",
     "tikTvd": "26920001940588",
     "tikName": "Селижаровская",
+    "regionCode": "69",
+    "regionTvd": "100100339411261",
+    "regionName": "Тверская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 8837,
@@ -951,6 +993,9 @@ export const president_2024_tic_227_region_69 = [
     "ballot": "presidential",
     "tikTvd": "26920001940589",
     "tikName": "Сандовская",
+    "regionCode": "69",
+    "regionTvd": "100100339411261",
+    "regionName": "Тверская область",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 4261,
@@ -1003,6 +1048,9 @@ export const president_2024_tic_227_region_69 = [
     "ballot": "presidential",
     "tikTvd": "26920001940590",
     "tikName": "Ржевская городская",
+    "regionCode": "69",
+    "regionTvd": "100100339411261",
+    "regionName": "Тверская область",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 41631,
@@ -1070,6 +1118,9 @@ export const president_2024_tic_227_region_69 = [
     "ballot": "presidential",
     "tikTvd": "26920001940591",
     "tikName": "Ржевская",
+    "regionCode": "69",
+    "regionTvd": "100100339411261",
+    "regionName": "Тверская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 8684,
@@ -1135,6 +1186,9 @@ export const president_2024_tic_227_region_69 = [
     "ballot": "presidential",
     "tikTvd": "26920001940592",
     "tikName": "Рамешковская",
+    "regionCode": "69",
+    "regionTvd": "100100339411261",
+    "regionName": "Тверская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10057,
@@ -1190,6 +1244,9 @@ export const president_2024_tic_227_region_69 = [
     "ballot": "presidential",
     "tikTvd": "26920001940593",
     "tikName": "Пеновская",
+    "regionCode": "69",
+    "regionTvd": "100100339411261",
+    "regionName": "Тверская область",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 4557,
@@ -1241,6 +1298,9 @@ export const president_2024_tic_227_region_69 = [
     "ballot": "presidential",
     "tikTvd": "26920001940594",
     "tikName": "Осташковская",
+    "regionCode": "69",
+    "regionTvd": "100100339411261",
+    "regionName": "Тверская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 17151,
@@ -1304,6 +1364,9 @@ export const president_2024_tic_227_region_69 = [
     "ballot": "presidential",
     "tikTvd": "26920001940595",
     "tikName": "Оленинская",
+    "regionCode": "69",
+    "regionTvd": "100100339411261",
+    "regionName": "Тверская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 8185,
@@ -1365,6 +1428,9 @@ export const president_2024_tic_227_region_69 = [
     "ballot": "presidential",
     "tikTvd": "26920001940596",
     "tikName": "Озерная поселковая",
+    "regionCode": "69",
+    "regionTvd": "100100339411261",
+    "regionName": "Тверская область",
     "uikCount": 5,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 7505,
@@ -1410,6 +1476,9 @@ export const president_2024_tic_227_region_69 = [
     "ballot": "presidential",
     "tikTvd": "26920001940597",
     "tikName": "Нелидовская",
+    "regionCode": "69",
+    "regionTvd": "100100339411261",
+    "regionName": "Тверская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 20410,
@@ -1484,6 +1553,9 @@ export const president_2024_tic_227_region_69 = [
     "ballot": "presidential",
     "tikTvd": "26920001940598",
     "tikName": "Молоковская",
+    "regionCode": "69",
+    "regionTvd": "100100339411261",
+    "regionName": "Тверская область",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 3305,
@@ -1535,6 +1607,9 @@ export const president_2024_tic_227_region_69 = [
     "ballot": "presidential",
     "tikTvd": "26920001940599",
     "tikName": "Максатихинская",
+    "regionCode": "69",
+    "regionTvd": "100100339411261",
+    "regionName": "Тверская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 11854,
@@ -1598,6 +1673,9 @@ export const president_2024_tic_227_region_69 = [
     "ballot": "presidential",
     "tikTvd": "26920001940600",
     "tikName": "Лихославльская",
+    "regionCode": "69",
+    "regionTvd": "100100339411261",
+    "regionName": "Тверская область",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 19834,
@@ -1670,6 +1748,9 @@ export const president_2024_tic_227_region_69 = [
     "ballot": "presidential",
     "tikTvd": "26920001940601",
     "tikName": "Лесная",
+    "regionCode": "69",
+    "regionTvd": "100100339411261",
+    "regionName": "Тверская область",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 3496,
@@ -1722,6 +1803,9 @@ export const president_2024_tic_227_region_69 = [
     "ballot": "presidential",
     "tikTvd": "26920001940602",
     "tikName": "Кувшиновская",
+    "regionCode": "69",
+    "regionTvd": "100100339411261",
+    "regionName": "Тверская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10482,
@@ -1782,6 +1866,9 @@ export const president_2024_tic_227_region_69 = [
     "ballot": "presidential",
     "tikTvd": "26920001940603",
     "tikName": "Краснохолмская",
+    "regionCode": "69",
+    "regionTvd": "100100339411261",
+    "regionName": "Тверская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 7455,
@@ -1840,6 +1927,9 @@ export const president_2024_tic_227_region_69 = [
     "ballot": "presidential",
     "tikTvd": "26920001940604",
     "tikName": "Конаковская",
+    "regionCode": "69",
+    "regionTvd": "100100339411261",
+    "regionName": "Тверская область",
     "uikCount": 53,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 65577,
@@ -1933,6 +2023,9 @@ export const president_2024_tic_227_region_69 = [
     "ballot": "presidential",
     "tikTvd": "26920001940605",
     "tikName": "Кимрская городская",
+    "regionCode": "69",
+    "regionTvd": "100100339411261",
+    "regionName": "Тверская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 35096,
@@ -1995,6 +2088,9 @@ export const president_2024_tic_227_region_69 = [
     "ballot": "presidential",
     "tikTvd": "26920001940606",
     "tikName": "Кимрская",
+    "regionCode": "69",
+    "regionTvd": "100100339411261",
+    "regionName": "Тверская область",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10188,
@@ -2049,6 +2145,9 @@ export const president_2024_tic_227_region_69 = [
     "ballot": "presidential",
     "tikTvd": "26920001940607",
     "tikName": "Кесовогорская",
+    "regionCode": "69",
+    "regionTvd": "100100339411261",
+    "regionName": "Тверская область",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 5354,
@@ -2103,6 +2202,9 @@ export const president_2024_tic_227_region_69 = [
     "ballot": "presidential",
     "tikTvd": "26920001940608",
     "tikName": "Кашинская",
+    "regionCode": "69",
+    "regionTvd": "100100339411261",
+    "regionName": "Тверская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 18542,
@@ -2173,6 +2275,9 @@ export const president_2024_tic_227_region_69 = [
     "ballot": "presidential",
     "tikTvd": "26920001940609",
     "tikName": "Калязинская",
+    "regionCode": "69",
+    "regionTvd": "100100339411261",
+    "regionName": "Тверская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 14669,
@@ -2239,6 +2344,9 @@ export const president_2024_tic_227_region_69 = [
     "ballot": "presidential",
     "tikTvd": "26920001940610",
     "tikName": "Калининская",
+    "regionCode": "69",
+    "regionTvd": "100100339411261",
+    "regionName": "Тверская область",
     "uikCount": 49,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 55245,
@@ -2328,6 +2436,9 @@ export const president_2024_tic_227_region_69 = [
     "ballot": "presidential",
     "tikTvd": "26920001940611",
     "tikName": "Зубцовская",
+    "regionCode": "69",
+    "regionTvd": "100100339411261",
+    "regionName": "Тверская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 11722,
@@ -2390,6 +2501,9 @@ export const president_2024_tic_227_region_69 = [
     "ballot": "presidential",
     "tikTvd": "26920001940612",
     "tikName": "Западнодвинская",
+    "regionCode": "69",
+    "regionTvd": "100100339411261",
+    "regionName": "Тверская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 11312,
@@ -2454,6 +2568,9 @@ export const president_2024_tic_227_region_69 = [
     "ballot": "presidential",
     "tikTvd": "26920001940613",
     "tikName": "Жарковская",
+    "regionCode": "69",
+    "regionTvd": "100100339411261",
+    "regionName": "Тверская область",
     "uikCount": 10,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 3752,
@@ -2504,6 +2621,9 @@ export const president_2024_tic_227_region_69 = [
     "ballot": "presidential",
     "tikTvd": "26920001940614",
     "tikName": "Вышневолоцкая",
+    "regionCode": "69",
+    "regionTvd": "100100339411261",
+    "regionName": "Тверская область",
     "uikCount": 62,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 50805,
@@ -2606,6 +2726,9 @@ export const president_2024_tic_227_region_69 = [
     "ballot": "presidential",
     "tikTvd": "26920001940615",
     "tikName": "Весьегонская",
+    "regionCode": "69",
+    "regionTvd": "100100339411261",
+    "regionName": "Тверская область",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 8381,
@@ -2660,6 +2783,9 @@ export const president_2024_tic_227_region_69 = [
     "ballot": "presidential",
     "tikTvd": "26920001940616",
     "tikName": "Бологовская",
+    "regionCode": "69",
+    "regionTvd": "100100339411261",
+    "regionName": "Тверская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 25991,
@@ -2729,6 +2855,9 @@ export const president_2024_tic_227_region_69 = [
     "ballot": "presidential",
     "tikTvd": "26920001940617",
     "tikName": "Бельская",
+    "regionCode": "69",
+    "regionTvd": "100100339411261",
+    "regionName": "Тверская область",
     "uikCount": 8,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 4161,
@@ -2777,6 +2906,9 @@ export const president_2024_tic_227_region_69 = [
     "ballot": "presidential",
     "tikTvd": "26920001940618",
     "tikName": "Бежецкая",
+    "regionCode": "69",
+    "regionTvd": "100100339411261",
+    "regionName": "Тверская область",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 24892,
@@ -2852,6 +2984,9 @@ export const president_2024_tic_227_region_69 = [
     "ballot": "presidential",
     "tikTvd": "26920001940619",
     "tikName": "Андреапольская",
+    "regionCode": "69",
+    "regionTvd": "100100339411261",
+    "regionName": "Тверская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 8065,

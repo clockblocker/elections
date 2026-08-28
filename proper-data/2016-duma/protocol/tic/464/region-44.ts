@@ -11,6 +11,14 @@ export const duma_2016_tic_464_region_44 = [
     "ballot": "single-member",
     "tikTvd": "2442000725611",
     "tikName": "Шарьинская городская",
+    "regionCode": "44",
+    "regionTvd": "100100067795993",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 107,
+      "oikTvd": "100100067795994",
+      "oikName": "Костромская область – Костромской"
+    },
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 29804,
@@ -78,6 +86,14 @@ export const duma_2016_tic_464_region_44 = [
     "ballot": "single-member",
     "tikTvd": "2442000725612",
     "tikName": "Шарьинская ",
+    "regionCode": "44",
+    "regionTvd": "100100067795993",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 107,
+      "oikTvd": "100100067795994",
+      "oikName": "Костромская область – Костромской"
+    },
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 7905,
@@ -147,6 +163,14 @@ export const duma_2016_tic_464_region_44 = [
     "ballot": "single-member",
     "tikTvd": "2442000725613",
     "tikName": "Чухломская",
+    "regionCode": "44",
+    "regionTvd": "100100067795993",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 107,
+      "oikTvd": "100100067795994",
+      "oikName": "Костромская область – Костромской"
+    },
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 9149,
@@ -217,6 +241,14 @@ export const duma_2016_tic_464_region_44 = [
     "ballot": "single-member",
     "tikTvd": "2442000725614",
     "tikName": "Сусанинская",
+    "regionCode": "44",
+    "regionTvd": "100100067795993",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 107,
+      "oikTvd": "100100067795994",
+      "oikName": "Костромская область – Костромской"
+    },
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 6437,
@@ -282,6 +314,14 @@ export const duma_2016_tic_464_region_44 = [
     "ballot": "single-member",
     "tikTvd": "2442000725615",
     "tikName": "Судиславская",
+    "regionCode": "44",
+    "regionTvd": "100100067795993",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 107,
+      "oikTvd": "100100067795994",
+      "oikName": "Костромская область – Костромской"
+    },
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 11316,
@@ -355,6 +395,14 @@ export const duma_2016_tic_464_region_44 = [
     "ballot": "single-member",
     "tikTvd": "2442000725616",
     "tikName": "Солигаличская",
+    "regionCode": "44",
+    "regionTvd": "100100067795993",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 107,
+      "oikTvd": "100100067795994",
+      "oikName": "Костромская область – Костромской"
+    },
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 8294,
@@ -421,6 +469,14 @@ export const duma_2016_tic_464_region_44 = [
     "ballot": "single-member",
     "tikTvd": "2442000725617",
     "tikName": "Пыщугская",
+    "regionCode": "44",
+    "regionTvd": "100100067795993",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 107,
+      "oikTvd": "100100067795994",
+      "oikName": "Костромская область – Костромской"
+    },
     "uikCount": 10,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 4111,
@@ -482,6 +538,14 @@ export const duma_2016_tic_464_region_44 = [
     "ballot": "single-member",
     "tikTvd": "2442000725618",
     "tikName": "Поназыревская",
+    "regionCode": "44",
+    "regionTvd": "100100067795993",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 107,
+      "oikTvd": "100100067795994",
+      "oikName": "Костромская область – Костромской"
+    },
     "uikCount": 8,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 5761,
@@ -541,6 +605,14 @@ export const duma_2016_tic_464_region_44 = [
     "ballot": "single-member",
     "tikTvd": "2442000725619",
     "tikName": "Парфеньевская",
+    "regionCode": "44",
+    "regionTvd": "100100067795993",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 107,
+      "oikTvd": "100100067795994",
+      "oikName": "Костромская область – Костромской"
+    },
     "uikCount": 10,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 5285,
@@ -602,6 +674,14 @@ export const duma_2016_tic_464_region_44 = [
     "ballot": "single-member",
     "tikTvd": "2442000725620",
     "tikName": "Павинская",
+    "regionCode": "44",
+    "regionTvd": "100100067795993",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 107,
+      "oikTvd": "100100067795994",
+      "oikName": "Костромская область – Костромской"
+    },
     "uikCount": 10,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 3948,
@@ -663,6 +743,14 @@ export const duma_2016_tic_464_region_44 = [
     "ballot": "single-member",
     "tikTvd": "2442000725621",
     "tikName": "Островская",
+    "regionCode": "44",
+    "regionTvd": "100100067795993",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 107,
+      "oikTvd": "100100067795994",
+      "oikName": "Костромская область – Костромской"
+    },
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 9856,
@@ -740,6 +828,14 @@ export const duma_2016_tic_464_region_44 = [
     "ballot": "single-member",
     "tikTvd": "2442000725622",
     "tikName": "Октябрьская",
+    "regionCode": "44",
+    "regionTvd": "100100067795993",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 107,
+      "oikTvd": "100100067795994",
+      "oikName": "Костромская область – Костромской"
+    },
     "uikCount": 9,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 4040,
@@ -800,6 +896,14 @@ export const duma_2016_tic_464_region_44 = [
     "ballot": "single-member",
     "tikTvd": "2442000725623",
     "tikName": "Нерехтская",
+    "regionCode": "44",
+    "regionTvd": "100100067795993",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 107,
+      "oikTvd": "100100067795994",
+      "oikName": "Костромская область – Костромской"
+    },
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 29428,
@@ -882,6 +986,14 @@ export const duma_2016_tic_464_region_44 = [
     "ballot": "single-member",
     "tikTvd": "2442000725624",
     "tikName": "Нейская",
+    "regionCode": "44",
+    "regionTvd": "100100067795993",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 107,
+      "oikTvd": "100100067795994",
+      "oikName": "Костромская область – Костромской"
+    },
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 12091,
@@ -949,6 +1061,14 @@ export const duma_2016_tic_464_region_44 = [
     "ballot": "single-member",
     "tikTvd": "2442000725625",
     "tikName": "Межевская",
+    "regionCode": "44",
+    "regionTvd": "100100067795993",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 107,
+      "oikTvd": "100100067795994",
+      "oikName": "Костромская область – Костромской"
+    },
     "uikCount": 7,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 3738,
@@ -1007,6 +1127,14 @@ export const duma_2016_tic_464_region_44 = [
     "ballot": "single-member",
     "tikTvd": "2442000725626",
     "tikName": "Мантуровская городская",
+    "regionCode": "44",
+    "regionTvd": "100100067795993",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 107,
+      "oikTvd": "100100067795994",
+      "oikName": "Костромская область – Костромской"
+    },
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 14155,
@@ -1073,6 +1201,14 @@ export const duma_2016_tic_464_region_44 = [
     "ballot": "single-member",
     "tikTvd": "2442000725627",
     "tikName": "Мантуровская",
+    "regionCode": "44",
+    "regionTvd": "100100067795993",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 107,
+      "oikTvd": "100100067795994",
+      "oikName": "Костромская область – Костромской"
+    },
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 3870,
@@ -1137,6 +1273,14 @@ export const duma_2016_tic_464_region_44 = [
     "ballot": "single-member",
     "tikTvd": "2442000725628",
     "tikName": "Макарьевская",
+    "regionCode": "44",
+    "regionTvd": "100100067795993",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 107,
+      "oikTvd": "100100067795994",
+      "oikName": "Костромская область – Костромской"
+    },
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 12862,
@@ -1214,6 +1358,14 @@ export const duma_2016_tic_464_region_44 = [
     "ballot": "single-member",
     "tikTvd": "2442000725629",
     "tikName": "Красносельская",
+    "regionCode": "44",
+    "regionTvd": "100100067795993",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 107,
+      "oikTvd": "100100067795994",
+      "oikName": "Костромская область – Костромской"
+    },
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 15728,
@@ -1287,6 +1439,14 @@ export const duma_2016_tic_464_region_44 = [
     "ballot": "single-member",
     "tikTvd": "2442000725630",
     "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100067795993",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 107,
+      "oikTvd": "100100067795994",
+      "oikName": "Костромская область – Костромской"
+    },
     "uikCount": 111,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 219603,
@@ -1449,6 +1609,14 @@ export const duma_2016_tic_464_region_44 = [
     "ballot": "single-member",
     "tikTvd": "2442000725631",
     "tikName": "Костромская",
+    "regionCode": "44",
+    "regionTvd": "100100067795993",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 107,
+      "oikTvd": "100100067795994",
+      "oikName": "Костромская область – Костромской"
+    },
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 33846,
@@ -1535,6 +1703,14 @@ export const duma_2016_tic_464_region_44 = [
     "ballot": "single-member",
     "tikTvd": "2442000725632",
     "tikName": "Кологривская",
+    "regionCode": "44",
+    "regionTvd": "100100067795993",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 107,
+      "oikTvd": "100100067795994",
+      "oikName": "Костромская область – Костромской"
+    },
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 5464,
@@ -1602,6 +1778,14 @@ export const duma_2016_tic_464_region_44 = [
     "ballot": "single-member",
     "tikTvd": "2442000725633",
     "tikName": "Кадыйская",
+    "regionCode": "44",
+    "regionTvd": "100100067795993",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 107,
+      "oikTvd": "100100067795994",
+      "oikName": "Костромская область – Костромской"
+    },
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 6985,
@@ -1672,6 +1856,14 @@ export const duma_2016_tic_464_region_44 = [
     "ballot": "single-member",
     "tikTvd": "2442000725634",
     "tikName": "Галичская городская",
+    "regionCode": "44",
+    "regionTvd": "100100067795993",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 107,
+      "oikTvd": "100100067795994",
+      "oikName": "Костромская область – Костромской"
+    },
     "uikCount": 12,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 13948,
@@ -1735,6 +1927,14 @@ export const duma_2016_tic_464_region_44 = [
     "ballot": "single-member",
     "tikTvd": "2442000725635",
     "tikName": "Галичская",
+    "regionCode": "44",
+    "regionTvd": "100100067795993",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 107,
+      "oikTvd": "100100067795994",
+      "oikName": "Костромская область – Костромской"
+    },
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 7273,
@@ -1806,6 +2006,14 @@ export const duma_2016_tic_464_region_44 = [
     "ballot": "single-member",
     "tikTvd": "2442000725636",
     "tikName": "Вохомская",
+    "regionCode": "44",
+    "regionTvd": "100100067795993",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 107,
+      "oikTvd": "100100067795994",
+      "oikName": "Костромская область – Костромской"
+    },
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 8485,
@@ -1880,6 +2088,14 @@ export const duma_2016_tic_464_region_44 = [
     "ballot": "single-member",
     "tikTvd": "2442000725637",
     "tikName": "Волгореченская городская",
+    "regionCode": "44",
+    "regionTvd": "100100067795993",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 107,
+      "oikTvd": "100100067795994",
+      "oikName": "Костромская область – Костромской"
+    },
     "uikCount": 5,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 13781,
@@ -1936,6 +2152,14 @@ export const duma_2016_tic_464_region_44 = [
     "ballot": "single-member",
     "tikTvd": "2442000725638",
     "tikName": "Буйская городская",
+    "regionCode": "44",
+    "regionTvd": "100100067795993",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 107,
+      "oikTvd": "100100067795994",
+      "oikName": "Костромская область – Костромской"
+    },
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 19902,
@@ -2003,6 +2227,14 @@ export const duma_2016_tic_464_region_44 = [
     "ballot": "single-member",
     "tikTvd": "2442000725639",
     "tikName": "Буйская",
+    "regionCode": "44",
+    "regionTvd": "100100067795993",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 107,
+      "oikTvd": "100100067795994",
+      "oikName": "Костромская область – Костромской"
+    },
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 8821,
@@ -2076,6 +2308,14 @@ export const duma_2016_tic_464_region_44 = [
     "ballot": "single-member",
     "tikTvd": "2442000725640",
     "tikName": "Антроповская",
+    "regionCode": "44",
+    "regionTvd": "100100067795993",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 107,
+      "oikTvd": "100100067795994",
+      "oikName": "Костромская область – Костромской"
+    },
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 5900,

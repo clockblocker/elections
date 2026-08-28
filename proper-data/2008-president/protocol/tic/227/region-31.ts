@@ -11,6 +11,9 @@ export const president_2008_tic_227_region_31 = [
     "ballot": "presidential",
     "tikTvd": "2312000131800",
     "tikName": "Волоконовская",
+    "regionCode": "31",
+    "regionTvd": "100100022249930",
+    "regionName": "Белгородская область",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 27624,
@@ -97,6 +100,9 @@ export const president_2008_tic_227_region_31 = [
     "ballot": "presidential",
     "tikTvd": "2312000131801",
     "tikName": "Грайворонская",
+    "regionCode": "31",
+    "regionTvd": "100100022249930",
+    "regionName": "Белгородская область",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 23325,
@@ -182,6 +188,9 @@ export const president_2008_tic_227_region_31 = [
     "ballot": "presidential",
     "tikTvd": "2312000131802",
     "tikName": "Вейделевская",
+    "regionCode": "31",
+    "regionTvd": "100100022249930",
+    "regionName": "Белгородская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 18286,
@@ -260,6 +269,9 @@ export const president_2008_tic_227_region_31 = [
     "ballot": "presidential",
     "tikTvd": "2312000131803",
     "tikName": "Валуйская",
+    "regionCode": "31",
+    "regionTvd": "100100022249930",
+    "regionName": "Белгородская область",
     "uikCount": 69,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 52646,
@@ -376,6 +388,9 @@ export const president_2008_tic_227_region_31 = [
     "ballot": "presidential",
     "tikTvd": "2312000131804",
     "tikName": "Белгородская районная",
+    "regionCode": "31",
+    "regionTvd": "100100022249930",
+    "regionName": "Белгородская область",
     "uikCount": 73,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 78992,
@@ -496,6 +511,9 @@ export const president_2008_tic_227_region_31 = [
     "ballot": "presidential",
     "tikTvd": "2312000131805",
     "tikName": "Белгородская городская",
+    "regionCode": "31",
+    "regionTvd": "100100022249930",
+    "regionName": "Белгородская область",
     "uikCount": 166,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 270555,
@@ -709,6 +727,9 @@ export const president_2008_tic_227_region_31 = [
     "ballot": "presidential",
     "tikTvd": "2312000131806",
     "tikName": "Алексеевская",
+    "regionCode": "31",
+    "regionTvd": "100100022249930",
+    "regionName": "Белгородская область",
     "uikCount": 54,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 51835,
@@ -810,6 +831,9 @@ export const president_2008_tic_227_region_31 = [
     "ballot": "presidential",
     "tikTvd": "2312000131807",
     "tikName": "Борисовская",
+    "regionCode": "31",
+    "regionTvd": "100100022249930",
+    "regionName": "Белгородская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 20808,
@@ -883,6 +907,9 @@ export const president_2008_tic_227_region_31 = [
     "ballot": "presidential",
     "tikTvd": "2312000131808",
     "tikName": "Ракитянская",
+    "regionCode": "31",
+    "regionTvd": "100100022249930",
+    "regionName": "Белгородская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 26580,
@@ -958,6 +985,9 @@ export const president_2008_tic_227_region_31 = [
     "ballot": "presidential",
     "tikTvd": "2312000131809",
     "tikName": "Новооскольская",
+    "regionCode": "31",
+    "regionTvd": "100100022249930",
+    "regionName": "Белгородская область",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 36223,
@@ -1051,6 +1081,9 @@ export const president_2008_tic_227_region_31 = [
     "ballot": "presidential",
     "tikTvd": "2312000131810",
     "tikName": "Краснояружская",
+    "regionCode": "31",
+    "regionTvd": "100100022249930",
+    "regionName": "Белгородская область",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 11552,
@@ -1115,6 +1148,9 @@ export const president_2008_tic_227_region_31 = [
     "ballot": "presidential",
     "tikTvd": "2312000131811",
     "tikName": "Прохоровская",
+    "regionCode": "31",
+    "regionTvd": "100100022249930",
+    "regionName": "Белгородская область",
     "uikCount": 47,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 22885,
@@ -1209,6 +1245,9 @@ export const president_2008_tic_227_region_31 = [
     "ballot": "presidential",
     "tikTvd": "2312000131812",
     "tikName": "Красненская",
+    "regionCode": "31",
+    "regionTvd": "100100022249930",
+    "regionName": "Белгородская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 11107,
@@ -1280,6 +1319,9 @@ export const president_2008_tic_227_region_31 = [
     "ballot": "presidential",
     "tikTvd": "2312000131813",
     "tikName": "Корочанская",
+    "regionCode": "31",
+    "regionTvd": "100100022249930",
+    "regionName": "Белгородская область",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 31385,
@@ -1371,6 +1413,9 @@ export const president_2008_tic_227_region_31 = [
     "ballot": "presidential",
     "tikTvd": "2312000131814",
     "tikName": "Красногвардейская",
+    "regionCode": "31",
+    "regionTvd": "100100022249930",
+    "regionName": "Белгородская область",
     "uikCount": 64,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 33365,
@@ -1482,6 +1527,9 @@ export const president_2008_tic_227_region_31 = [
     "ballot": "presidential",
     "tikTvd": "2312000131815",
     "tikName": "Ивнянская",
+    "regionCode": "31",
+    "regionTvd": "100100022249930",
+    "regionName": "Белгородская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 19066,
@@ -1552,6 +1600,9 @@ export const president_2008_tic_227_region_31 = [
     "ballot": "presidential",
     "tikTvd": "2312000131816",
     "tikName": "Губкинская",
+    "regionCode": "31",
+    "regionTvd": "100100022249930",
+    "regionName": "Белгородская область",
     "uikCount": 95,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 83986,
@@ -1694,6 +1745,9 @@ export const president_2008_tic_227_region_31 = [
     "ballot": "presidential",
     "tikTvd": "2312000131817",
     "tikName": "Яковлевская",
+    "regionCode": "31",
+    "regionTvd": "100100022249930",
+    "regionName": "Белгородская область",
     "uikCount": 49,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 41932,
@@ -1790,6 +1844,9 @@ export const president_2008_tic_227_region_31 = [
     "ballot": "presidential",
     "tikTvd": "2312000131818",
     "tikName": "Шебекинская",
+    "regionCode": "31",
+    "regionTvd": "100100022249930",
+    "regionName": "Белгородская область",
     "uikCount": 74,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 71874,
@@ -1911,6 +1968,9 @@ export const president_2008_tic_227_region_31 = [
     "ballot": "presidential",
     "tikTvd": "2312000131819",
     "tikName": "Чернянская",
+    "regionCode": "31",
+    "regionTvd": "100100022249930",
+    "regionName": "Белгородская область",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 26087,
@@ -2001,6 +2061,9 @@ export const president_2008_tic_227_region_31 = [
     "ballot": "presidential",
     "tikTvd": "2312000131820",
     "tikName": "Старооскольская",
+    "regionCode": "31",
+    "regionTvd": "100100022249930",
+    "regionName": "Белгородская область",
     "uikCount": 132,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 208376,
@@ -2180,6 +2243,9 @@ export const president_2008_tic_227_region_31 = [
     "ballot": "presidential",
     "tikTvd": "2312000131821",
     "tikName": "Ровеньская",
+    "regionCode": "31",
+    "regionTvd": "100100022249930",
+    "regionName": "Белгородская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 18630,

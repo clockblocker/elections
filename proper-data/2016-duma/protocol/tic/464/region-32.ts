@@ -11,6 +11,14 @@ export const duma_2016_tic_464_region_32 = [
     "ballot": "single-member",
     "tikTvd": "2322000940911",
     "tikName": "Брянск, Советская",
+    "regionCode": "32",
+    "regionTvd": "100100067795952",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100067795953",
+      "oikName": "Брянская область – Брянский"
+    },
     "uikCount": 52,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 97368,
@@ -116,6 +124,14 @@ export const duma_2016_tic_464_region_32 = [
     "ballot": "single-member",
     "tikTvd": "2322000940912",
     "tikName": "Брянск, Фокинская",
+    "regionCode": "32",
+    "regionTvd": "100100067795952",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100067795953",
+      "oikName": "Брянская область – Брянский"
+    },
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 66751,
@@ -200,6 +216,14 @@ export const duma_2016_tic_464_region_32 = [
     "ballot": "single-member",
     "tikTvd": "2322000940913",
     "tikName": "Новозыбковская городская",
+    "regionCode": "32",
+    "regionTvd": "100100067795952",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100067795953",
+      "oikName": "Брянская область – Брянский"
+    },
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 34017,
@@ -272,6 +296,14 @@ export const duma_2016_tic_464_region_32 = [
     "ballot": "single-member",
     "tikTvd": "2322000940914",
     "tikName": "Брасовская",
+    "regionCode": "32",
+    "regionTvd": "100100067795952",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100067795953",
+      "oikName": "Брянская область – Брянский"
+    },
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 16120,
@@ -354,6 +386,14 @@ export const duma_2016_tic_464_region_32 = [
     "ballot": "single-member",
     "tikTvd": "2322000940915",
     "tikName": "Брянская - 77",
+    "regionCode": "32",
+    "regionTvd": "100100067795952",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100067795953",
+      "oikName": "Брянская область – Брянский"
+    },
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 26871,
@@ -427,6 +467,14 @@ export const duma_2016_tic_464_region_32 = [
     "ballot": "single-member",
     "tikTvd": "2322000940917",
     "tikName": "Выгоничская",
+    "regionCode": "32",
+    "regionTvd": "100100067795952",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100067795953",
+      "oikName": "Брянская область – Брянский"
+    },
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 15823,
@@ -508,6 +556,14 @@ export const duma_2016_tic_464_region_32 = [
     "ballot": "single-member",
     "tikTvd": "2322000940921",
     "tikName": "Злынковская",
+    "regionCode": "32",
+    "regionTvd": "100100067795952",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100067795953",
+      "oikName": "Брянская область – Брянский"
+    },
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 9390,
@@ -577,6 +633,14 @@ export const duma_2016_tic_464_region_32 = [
     "ballot": "single-member",
     "tikTvd": "2322000940922",
     "tikName": "Карачевская",
+    "regionCode": "32",
+    "regionTvd": "100100067795952",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100067795953",
+      "oikName": "Брянская область – Брянский"
+    },
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 27753,
@@ -669,6 +733,14 @@ export const duma_2016_tic_464_region_32 = [
     "ballot": "single-member",
     "tikTvd": "2322000940923",
     "tikName": "Климовская",
+    "regionCode": "32",
+    "regionTvd": "100100067795952",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100067795953",
+      "oikName": "Брянская область – Брянский"
+    },
     "uikCount": 43,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 24555,
@@ -765,6 +837,14 @@ export const duma_2016_tic_464_region_32 = [
     "ballot": "single-member",
     "tikTvd": "2322000940924",
     "tikName": "Комаричская",
+    "regionCode": "32",
+    "regionTvd": "100100067795952",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100067795953",
+      "oikName": "Брянская область – Брянский"
+    },
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 13685,
@@ -849,6 +929,14 @@ export const duma_2016_tic_464_region_32 = [
     "ballot": "single-member",
     "tikTvd": "2322000940925",
     "tikName": "Навлинская",
+    "regionCode": "32",
+    "regionTvd": "100100067795952",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100067795953",
+      "oikName": "Брянская область – Брянский"
+    },
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 22271,
@@ -931,6 +1019,14 @@ export const duma_2016_tic_464_region_32 = [
     "ballot": "single-member",
     "tikTvd": "2322000940926",
     "tikName": "Новозыбковская",
+    "regionCode": "32",
+    "regionTvd": "100100067795952",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100067795953",
+      "oikName": "Брянская область – Брянский"
+    },
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 8485,
@@ -1005,6 +1101,14 @@ export const duma_2016_tic_464_region_32 = [
     "ballot": "single-member",
     "tikTvd": "2322000940927",
     "tikName": "Погарская",
+    "regionCode": "32",
+    "regionTvd": "100100067795952",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100067795953",
+      "oikName": "Брянская область – Брянский"
+    },
     "uikCount": 55,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 24558,
@@ -1113,6 +1217,14 @@ export const duma_2016_tic_464_region_32 = [
     "ballot": "single-member",
     "tikTvd": "2322000940928",
     "tikName": "Почепская",
+    "regionCode": "32",
+    "regionTvd": "100100067795952",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100067795953",
+      "oikName": "Брянская область – Брянский"
+    },
     "uikCount": 50,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 30721,
@@ -1216,6 +1328,14 @@ export const duma_2016_tic_464_region_32 = [
     "ballot": "single-member",
     "tikTvd": "2322000940929",
     "tikName": "Севская",
+    "regionCode": "32",
+    "regionTvd": "100100067795952",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100067795953",
+      "oikName": "Брянская область – Брянский"
+    },
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 12771,
@@ -1297,6 +1417,14 @@ export const duma_2016_tic_464_region_32 = [
     "ballot": "single-member",
     "tikTvd": "2322000940930",
     "tikName": "Стародубская",
+    "regionCode": "32",
+    "regionTvd": "100100067795952",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100067795953",
+      "oikName": "Брянская область – Брянский"
+    },
     "uikCount": 52,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 30440,
@@ -1402,6 +1530,14 @@ export const duma_2016_tic_464_region_32 = [
     "ballot": "single-member",
     "tikTvd": "2322000940931",
     "tikName": "Суземская",
+    "regionCode": "32",
+    "regionTvd": "100100067795952",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100067795953",
+      "oikName": "Брянская область – Брянский"
+    },
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 14250,
@@ -1479,6 +1615,14 @@ export const duma_2016_tic_464_region_32 = [
     "ballot": "single-member",
     "tikTvd": "2322000940932",
     "tikName": "Трубчевская",
+    "regionCode": "32",
+    "regionTvd": "100100067795952",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 77,
+      "oikTvd": "100100067795953",
+      "oikName": "Брянская область – Брянский"
+    },
     "uikCount": 46,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 27770,
@@ -1578,6 +1722,14 @@ export const duma_2016_tic_464_region_32 = [
     "ballot": "single-member",
     "tikTvd": "2322000940933",
     "tikName": "Брянск, Бежицкая",
+    "regionCode": "32",
+    "regionTvd": "100100067795952",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100067795954",
+      "oikName": "Брянская область – Унечский"
+    },
     "uikCount": 63,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 128061,
@@ -1691,6 +1843,14 @@ export const duma_2016_tic_464_region_32 = [
     "ballot": "single-member",
     "tikTvd": "2322000940934",
     "tikName": "Брянск, Володарская",
+    "regionCode": "32",
+    "regionTvd": "100100067795952",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100067795954",
+      "oikName": "Брянская область – Унечский"
+    },
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 61088,
@@ -1770,6 +1930,14 @@ export const duma_2016_tic_464_region_32 = [
     "ballot": "single-member",
     "tikTvd": "2322000940935",
     "tikName": "Клинцовская городская",
+    "regionCode": "32",
+    "regionTvd": "100100067795952",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100067795954",
+      "oikName": "Брянская область – Унечский"
+    },
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 56927,
@@ -1852,6 +2020,14 @@ export const duma_2016_tic_464_region_32 = [
     "ballot": "single-member",
     "tikTvd": "2322000940936",
     "tikName": "Сельцовская городская",
+    "regionCode": "32",
+    "regionTvd": "100100067795952",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100067795954",
+      "oikName": "Брянская область – Унечский"
+    },
     "uikCount": 11,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 14382,
@@ -1913,6 +2089,14 @@ export const duma_2016_tic_464_region_32 = [
     "ballot": "single-member",
     "tikTvd": "2322000940940",
     "tikName": "Брянская - 78",
+    "regionCode": "32",
+    "regionTvd": "100100067795952",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100067795954",
+      "oikName": "Брянская область – Унечский"
+    },
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 22011,
@@ -1989,6 +2173,14 @@ export const duma_2016_tic_464_region_32 = [
     "ballot": "single-member",
     "tikTvd": "2322000940941",
     "tikName": "Гордеевская",
+    "regionCode": "32",
+    "regionTvd": "100100067795952",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100067795954",
+      "oikName": "Брянская область – Унечский"
+    },
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 8605,
@@ -2061,6 +2253,14 @@ export const duma_2016_tic_464_region_32 = [
     "ballot": "single-member",
     "tikTvd": "2322000940942",
     "tikName": "Дубровская",
+    "regionCode": "32",
+    "regionTvd": "100100067795952",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100067795954",
+      "oikName": "Брянская область – Унечский"
+    },
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 14915,
@@ -2132,6 +2332,14 @@ export const duma_2016_tic_464_region_32 = [
     "ballot": "single-member",
     "tikTvd": "2322000940943",
     "tikName": "Дятьковская",
+    "regionCode": "32",
+    "regionTvd": "100100067795952",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100067795954",
+      "oikName": "Брянская область – Унечский"
+    },
     "uikCount": 46,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 59558,
@@ -2228,6 +2436,14 @@ export const duma_2016_tic_464_region_32 = [
     "ballot": "single-member",
     "tikTvd": "2322000940944",
     "tikName": "Жирятинская",
+    "regionCode": "32",
+    "regionTvd": "100100067795952",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100067795954",
+      "oikName": "Брянская область – Унечский"
+    },
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 5312,
@@ -2292,6 +2508,14 @@ export const duma_2016_tic_464_region_32 = [
     "ballot": "single-member",
     "tikTvd": "2322000940945",
     "tikName": "Жуковская",
+    "regionCode": "32",
+    "regionTvd": "100100067795952",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100067795954",
+      "oikName": "Брянская область – Унечский"
+    },
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 28447,
@@ -2377,6 +2601,14 @@ export const duma_2016_tic_464_region_32 = [
     "ballot": "single-member",
     "tikTvd": "2322000940946",
     "tikName": "Клетнянская",
+    "regionCode": "32",
+    "regionTvd": "100100067795952",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100067795954",
+      "oikName": "Брянская область – Унечский"
+    },
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 15317,
@@ -2460,6 +2692,14 @@ export const duma_2016_tic_464_region_32 = [
     "ballot": "single-member",
     "tikTvd": "2322000940947",
     "tikName": "Клинцовская",
+    "regionCode": "32",
+    "regionTvd": "100100067795952",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100067795954",
+      "oikName": "Брянская область – Унечский"
+    },
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 13795,
@@ -2539,6 +2779,14 @@ export const duma_2016_tic_464_region_32 = [
     "ballot": "single-member",
     "tikTvd": "2322000940948",
     "tikName": "Красногорская",
+    "regionCode": "32",
+    "regionTvd": "100100067795952",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100067795954",
+      "oikName": "Брянская область – Унечский"
+    },
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 10735,
@@ -2615,6 +2863,14 @@ export const duma_2016_tic_464_region_32 = [
     "ballot": "single-member",
     "tikTvd": "2322000940949",
     "tikName": "Мглинская",
+    "regionCode": "32",
+    "regionTvd": "100100067795952",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100067795954",
+      "oikName": "Брянская область – Унечский"
+    },
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 14212,
@@ -2700,6 +2956,14 @@ export const duma_2016_tic_464_region_32 = [
     "ballot": "single-member",
     "tikTvd": "2322000940950",
     "tikName": "Рогнединская",
+    "regionCode": "32",
+    "regionTvd": "100100067795952",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100067795954",
+      "oikName": "Брянская область – Унечский"
+    },
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 5402,
@@ -2763,6 +3027,14 @@ export const duma_2016_tic_464_region_32 = [
     "ballot": "single-member",
     "tikTvd": "2322000940951",
     "tikName": "Суражская",
+    "regionCode": "32",
+    "regionTvd": "100100067795952",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100067795954",
+      "oikName": "Брянская область – Унечский"
+    },
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 19045,
@@ -2851,6 +3123,14 @@ export const duma_2016_tic_464_region_32 = [
     "ballot": "single-member",
     "tikTvd": "2322000940952",
     "tikName": "Унечская",
+    "regionCode": "32",
+    "regionTvd": "100100067795952",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100067795954",
+      "oikName": "Брянская область – Унечский"
+    },
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 32378,

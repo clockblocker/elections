@@ -30,7 +30,7 @@ export async function metadata(slug: string): Promise<Record<string, unknown> | 
     WHERE e.slug = $1
     GROUP BY r.id ORDER BY r.code::integer
   `, [slug]) as Row[];
-  const methods = await db.unsafe("SELECT slug, version, name, description, parameters FROM analysis_methods WHERE slug = 'shpilkin-odds-v1'") as Row[];
+  const methods = await db.unsafe("SELECT slug, version, name, description, parameters FROM analysis_methods WHERE slug = 'peer-clt-v2'") as Row[];
   return {
     election: {
       slug: election.slug,
@@ -84,7 +84,6 @@ export async function points(slug: string, optionId: number, regions: string[]):
     JOIN ballot_accounting a ON a.protocol_id = pr.id
     JOIN votes v ON v.protocol_id = pr.id AND v.option_id = $2
     WHERE e.slug = $1 AND x.kind = 'physical'
-      AND a.registered_voters > 0 AND a.valid_ballots > 0
       ${regionCondition}
     ORDER BY pr.id
   `, values) as Row[];
@@ -100,8 +99,8 @@ export async function points(slug: string, optionId: number, regions: string[]):
     validBallots: Number(row.valid_ballots),
     ballotsCounted: Number(row.ballots_counted),
     optionVotes: Number(row.option_votes),
-    turnout: Number(row.turnout),
-    result: Number(row.result)
+    turnout: row.turnout == null ? null : Number(row.turnout),
+    result: row.result == null ? null : Number(row.result)
   }));
 }
 

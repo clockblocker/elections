@@ -11,6 +11,9 @@ export const duma_2007_tic_233_region_14 = [
     "ballot": "party",
     "tikTvd": "2142000135704",
     "tikName": "Нюрбинская",
+    "regionCode": "14",
+    "regionTvd": "100100021960206",
+    "regionName": "Республика Саха (Якутия)",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 16485,
@@ -98,6 +101,9 @@ export const duma_2007_tic_233_region_14 = [
     "ballot": "party",
     "tikTvd": "2142000135705",
     "tikName": "Нижнеколымская",
+    "regionCode": "14",
+    "regionTvd": "100100021960206",
+    "regionName": "Республика Саха (Якутия)",
     "uikCount": 5,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 3102,
@@ -157,6 +163,9 @@ export const duma_2007_tic_233_region_14 = [
     "ballot": "party",
     "tikTvd": "2142000135706",
     "tikName": "Якутская городская",
+    "regionCode": "14",
+    "regionTvd": "100100021960206",
+    "regionName": "Республика Саха (Якутия)",
     "uikCount": 94,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 177034,
@@ -305,6 +314,9 @@ export const duma_2007_tic_233_region_14 = [
     "ballot": "party",
     "tikTvd": "2142000135707",
     "tikName": "Эвено-Бытантайская",
+    "regionCode": "14",
+    "regionTvd": "100100021960206",
+    "regionName": "Республика Саха (Якутия)",
     "uikCount": 3,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 1708,
@@ -362,6 +374,9 @@ export const duma_2007_tic_233_region_14 = [
     "ballot": "party",
     "tikTvd": "2142000135708",
     "tikName": "Усть-Янская",
+    "regionCode": "14",
+    "regionTvd": "100100021960206",
+    "regionName": "Республика Саха (Якутия)",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 5451,
@@ -429,6 +444,9 @@ export const duma_2007_tic_233_region_14 = [
     "ballot": "party",
     "tikTvd": "2142000135709",
     "tikName": "Усть-Майская",
+    "regionCode": "14",
+    "regionTvd": "100100021960206",
+    "regionName": "Республика Саха (Якутия)",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 7114,
@@ -502,6 +520,9 @@ export const duma_2007_tic_233_region_14 = [
     "ballot": "party",
     "tikTvd": "2142000135710",
     "tikName": "Чурапчинская",
+    "regionCode": "14",
+    "regionTvd": "100100021960206",
+    "regionName": "Республика Саха (Якутия)",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 11461,
@@ -585,6 +606,9 @@ export const duma_2007_tic_233_region_14 = [
     "ballot": "party",
     "tikTvd": "2142000135711",
     "tikName": "Хангаласская",
+    "regionCode": "14",
+    "regionTvd": "100100021960206",
+    "regionName": "Республика Саха (Якутия)",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 21657,
@@ -669,6 +693,9 @@ export const duma_2007_tic_233_region_14 = [
     "ballot": "party",
     "tikTvd": "2142000135712",
     "tikName": "Усть-Алданская",
+    "regionCode": "14",
+    "regionTvd": "100100021960206",
+    "regionName": "Республика Саха (Якутия)",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 12432,
@@ -759,6 +786,9 @@ export const duma_2007_tic_233_region_14 = [
     "ballot": "party",
     "tikTvd": "2142000135713",
     "tikName": "Сунтарская",
+    "regionCode": "14",
+    "regionTvd": "100100021960206",
+    "regionName": "Республика Саха (Якутия)",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 14321,
@@ -844,6 +874,9 @@ export const duma_2007_tic_233_region_14 = [
     "ballot": "party",
     "tikTvd": "2142000135714",
     "tikName": "Таттинская",
+    "regionCode": "14",
+    "regionTvd": "100100021960206",
+    "regionName": "Республика Саха (Якутия)",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 9350,
@@ -914,6 +947,9 @@ export const duma_2007_tic_233_region_14 = [
     "ballot": "party",
     "tikTvd": "2142000135715",
     "tikName": "Томпонская",
+    "regionCode": "14",
+    "regionTvd": "100100021960206",
+    "regionName": "Республика Саха (Якутия)",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 9422,
@@ -986,6 +1022,9 @@ export const duma_2007_tic_233_region_14 = [
     "ballot": "party",
     "tikTvd": "2142000135716",
     "tikName": "Олекминская",
+    "regionCode": "14",
+    "regionTvd": "100100021960206",
+    "regionName": "Республика Саха (Якутия)",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 17148,
@@ -1080,6 +1119,9 @@ export const duma_2007_tic_233_region_14 = [
     "ballot": "party",
     "tikTvd": "2142000135717",
     "tikName": "Среднеколымская",
+    "regionCode": "14",
+    "regionTvd": "100100021960206",
+    "regionName": "Республика Саха (Якутия)",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 5547,
@@ -1146,6 +1188,9 @@ export const duma_2007_tic_233_region_14 = [
     "ballot": "party",
     "tikTvd": "2142000135718",
     "tikName": "Оленекская",
+    "regionCode": "14",
+    "regionTvd": "100100021960206",
+    "regionName": "Республика Саха (Якутия)",
     "uikCount": 4,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 2372,
@@ -1204,6 +1249,9 @@ export const duma_2007_tic_233_region_14 = [
     "ballot": "party",
     "tikTvd": "2142000135719",
     "tikName": "Оймяконская",
+    "regionCode": "14",
+    "regionTvd": "100100021960206",
+    "regionName": "Республика Саха (Якутия)",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 6533,
@@ -1274,6 +1322,9 @@ export const duma_2007_tic_233_region_14 = [
     "ballot": "party",
     "tikTvd": "2142000135720",
     "tikName": "Нерюнгринская",
+    "regionCode": "14",
+    "regionTvd": "100100021960206",
+    "regionName": "Республика Саха (Якутия)",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 59545,
@@ -1361,6 +1412,9 @@ export const duma_2007_tic_233_region_14 = [
     "ballot": "party",
     "tikTvd": "2142000135721",
     "tikName": "Момская",
+    "regionCode": "14",
+    "regionTvd": "100100021960206",
+    "regionName": "Республика Саха (Якутия)",
     "uikCount": 7,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 2721,
@@ -1422,6 +1476,9 @@ export const duma_2007_tic_233_region_14 = [
     "ballot": "party",
     "tikTvd": "2142000135722",
     "tikName": "Намская",
+    "regionCode": "14",
+    "regionTvd": "100100021960206",
+    "regionName": "Республика Саха (Якутия)",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 12543,
@@ -1518,6 +1575,9 @@ export const duma_2007_tic_233_region_14 = [
     "ballot": "party",
     "tikTvd": "2142000135723",
     "tikName": "Мегино-Кангаласская",
+    "regionCode": "14",
+    "regionTvd": "100100021960206",
+    "regionName": "Республика Саха (Якутия)",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 20234,
@@ -1608,6 +1668,9 @@ export const duma_2007_tic_233_region_14 = [
     "ballot": "party",
     "tikTvd": "2142000135724",
     "tikName": "Ленская",
+    "regionCode": "14",
+    "regionTvd": "100100021960206",
+    "regionName": "Республика Саха (Якутия)",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 26686,
@@ -1703,6 +1766,9 @@ export const duma_2007_tic_233_region_14 = [
     "ballot": "party",
     "tikTvd": "2142000135725",
     "tikName": "Кобяйская",
+    "regionCode": "14",
+    "regionTvd": "100100021960206",
+    "regionName": "Республика Саха (Якутия)",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 8357,
@@ -1787,6 +1853,9 @@ export const duma_2007_tic_233_region_14 = [
     "ballot": "party",
     "tikTvd": "2142000135726",
     "tikName": "Мирнинская",
+    "regionCode": "14",
+    "regionTvd": "100100021960206",
+    "regionName": "Республика Саха (Якутия)",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 56405,
@@ -1877,6 +1946,9 @@ export const duma_2007_tic_233_region_14 = [
     "ballot": "party",
     "tikTvd": "2142000135727",
     "tikName": "Горная",
+    "regionCode": "14",
+    "regionTvd": "100100021960206",
+    "regionName": "Республика Саха (Якутия)",
     "uikCount": 10,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 6490,
@@ -1941,6 +2013,9 @@ export const duma_2007_tic_233_region_14 = [
     "ballot": "party",
     "tikTvd": "2142000135728",
     "tikName": "Верхоянская",
+    "regionCode": "14",
+    "regionTvd": "100100021960206",
+    "regionName": "Республика Саха (Якутия)",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 8329,
@@ -2017,6 +2092,9 @@ export const duma_2007_tic_233_region_14 = [
     "ballot": "party",
     "tikTvd": "2142000135729",
     "tikName": "Жиганская",
+    "regionCode": "14",
+    "regionTvd": "100100021960206",
+    "regionName": "Республика Саха (Якутия)",
     "uikCount": 5,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 2715,
@@ -2076,6 +2154,9 @@ export const duma_2007_tic_233_region_14 = [
     "ballot": "party",
     "tikTvd": "2142000135730",
     "tikName": "Вилюйская",
+    "regionCode": "14",
+    "regionTvd": "100100021960206",
+    "regionName": "Республика Саха (Якутия)",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 16564,
@@ -2164,6 +2245,9 @@ export const duma_2007_tic_233_region_14 = [
     "ballot": "party",
     "tikTvd": "2142000135731",
     "tikName": "Верхнеколымская",
+    "regionCode": "14",
+    "regionTvd": "100100021960206",
+    "regionName": "Республика Саха (Якутия)",
     "uikCount": 10,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 3580,
@@ -2228,6 +2312,9 @@ export const duma_2007_tic_233_region_14 = [
     "ballot": "party",
     "tikTvd": "2142000135732",
     "tikName": "Булунская",
+    "regionCode": "14",
+    "regionTvd": "100100021960206",
+    "regionName": "Республика Саха (Якутия)",
     "uikCount": 10,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 5545,
@@ -2292,6 +2379,9 @@ export const duma_2007_tic_233_region_14 = [
     "ballot": "party",
     "tikTvd": "2142000135733",
     "tikName": "Верхневилюйская",
+    "regionCode": "14",
+    "regionTvd": "100100021960206",
+    "regionName": "Республика Саха (Якутия)",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 11165,
@@ -2380,6 +2470,9 @@ export const duma_2007_tic_233_region_14 = [
     "ballot": "party",
     "tikTvd": "2142000135734",
     "tikName": "Амгинская",
+    "regionCode": "14",
+    "regionTvd": "100100021960206",
+    "regionName": "Республика Саха (Якутия)",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 9583,
@@ -2450,6 +2543,9 @@ export const duma_2007_tic_233_region_14 = [
     "ballot": "party",
     "tikTvd": "2142000135735",
     "tikName": "Анабарская",
+    "regionCode": "14",
+    "regionTvd": "100100021960206",
+    "regionName": "Республика Саха (Якутия)",
     "uikCount": 6,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 2864,
@@ -2510,6 +2606,9 @@ export const duma_2007_tic_233_region_14 = [
     "ballot": "party",
     "tikTvd": "2142000135736",
     "tikName": "Аллаиховская",
+    "regionCode": "14",
+    "regionTvd": "100100021960206",
+    "regionName": "Республика Саха (Якутия)",
     "uikCount": 5,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 2283,
@@ -2569,6 +2668,9 @@ export const duma_2007_tic_233_region_14 = [
     "ballot": "party",
     "tikTvd": "2142000135737",
     "tikName": "Алданская",
+    "regionCode": "14",
+    "regionTvd": "100100021960206",
+    "regionName": "Республика Саха (Якутия)",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 33282,
@@ -2654,6 +2756,9 @@ export const duma_2007_tic_233_region_14 = [
     "ballot": "party",
     "tikTvd": "2142000135738",
     "tikName": "Абыйская",
+    "regionCode": "14",
+    "regionTvd": "100100021960206",
+    "regionName": "Республика Саха (Якутия)",
     "uikCount": 7,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 2971,

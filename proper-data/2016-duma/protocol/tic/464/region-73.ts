@@ -11,6 +11,14 @@ export const duma_2016_tic_464_region_73 = [
     "ballot": "single-member",
     "tikTvd": "2732000735882",
     "tikName": "Чердаклинская",
+    "regionCode": "73",
+    "regionTvd": "100100067796101",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 187,
+      "oikTvd": "100100067796102",
+      "oikName": "Ульяновская область – Ульяновский"
+    },
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 30349,
@@ -93,6 +101,14 @@ export const duma_2016_tic_464_region_73 = [
     "ballot": "single-member",
     "tikTvd": "2732000735883",
     "tikName": "Ульяновск, Ленинская",
+    "regionCode": "73",
+    "regionTvd": "100100067796101",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 187,
+      "oikTvd": "100100067796102",
+      "oikName": "Ульяновская область – Ульяновский"
+    },
     "uikCount": 50,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 92010,
@@ -194,6 +210,14 @@ export const duma_2016_tic_464_region_73 = [
     "ballot": "single-member",
     "tikTvd": "2732000735884",
     "tikName": "Ульяновск, Заволжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100067796101",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 187,
+      "oikTvd": "100100067796102",
+      "oikName": "Ульяновская область – Ульяновский"
+    },
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 85263,
@@ -282,6 +306,14 @@ export const duma_2016_tic_464_region_73 = [
     "ballot": "single-member",
     "tikTvd": "2732000735885",
     "tikName": "Ульяновск, Заволжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100067796101",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 187,
+      "oikTvd": "100100067796102",
+      "oikName": "Ульяновская область – Ульяновский"
+    },
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 84355,
@@ -372,6 +404,14 @@ export const duma_2016_tic_464_region_73 = [
     "ballot": "single-member",
     "tikTvd": "2732000735886",
     "tikName": "Тереньгульская",
+    "regionCode": "73",
+    "regionTvd": "100100067796101",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 187,
+      "oikTvd": "100100067796102",
+      "oikName": "Ульяновская область – Ульяновский"
+    },
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 13395,
@@ -449,6 +489,14 @@ export const duma_2016_tic_464_region_73 = [
     "ballot": "single-member",
     "tikTvd": "2732000735887",
     "tikName": "Старомайнская",
+    "regionCode": "73",
+    "regionTvd": "100100067796101",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 187,
+      "oikTvd": "100100067796102",
+      "oikName": "Ульяновская область – Ульяновский"
+    },
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 13799,
@@ -525,6 +573,14 @@ export const duma_2016_tic_464_region_73 = [
     "ballot": "single-member",
     "tikTvd": "2732000735888",
     "tikName": "Сенгилеевская",
+    "regionCode": "73",
+    "regionTvd": "100100067796101",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 187,
+      "oikTvd": "100100067796102",
+      "oikName": "Ульяновская область – Ульяновский"
+    },
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 18273,
@@ -603,6 +659,14 @@ export const duma_2016_tic_464_region_73 = [
     "ballot": "single-member",
     "tikTvd": "2732000735889",
     "tikName": "Новомалыклинская",
+    "regionCode": "73",
+    "regionTvd": "100100067796101",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 187,
+      "oikTvd": "100100067796102",
+      "oikName": "Ульяновская область – Ульяновский"
+    },
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 11613,
@@ -676,6 +740,14 @@ export const duma_2016_tic_464_region_73 = [
     "ballot": "single-member",
     "tikTvd": "2732000735890",
     "tikName": "Мелекесская",
+    "regionCode": "73",
+    "regionTvd": "100100067796101",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 187,
+      "oikTvd": "100100067796102",
+      "oikName": "Ульяновская область – Ульяновский"
+    },
     "uikCount": 48,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 29573,
@@ -775,6 +847,14 @@ export const duma_2016_tic_464_region_73 = [
     "ballot": "single-member",
     "tikTvd": "2732000735891",
     "tikName": "Димитровградская городская",
+    "regionCode": "73",
+    "regionTvd": "100100067796101",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 187,
+      "oikTvd": "100100067796102",
+      "oikName": "Ульяновская область – Ульяновский"
+    },
     "uikCount": 53,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 97595,
@@ -879,6 +959,14 @@ export const duma_2016_tic_464_region_73 = [
     "ballot": "single-member",
     "tikTvd": "2732000735892",
     "tikName": "Новоульяновская",
+    "regionCode": "73",
+    "regionTvd": "100100067796101",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100067796103",
+      "oikName": "Ульяновская область – Радищевский"
+    },
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 14961,
@@ -941,6 +1029,14 @@ export const duma_2016_tic_464_region_73 = [
     "ballot": "single-member",
     "tikTvd": "2732000735893",
     "tikName": "Цильнинская",
+    "regionCode": "73",
+    "regionTvd": "100100067796101",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100067796103",
+      "oikName": "Ульяновская область – Радищевский"
+    },
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 19686,
@@ -1026,6 +1122,14 @@ export const duma_2016_tic_464_region_73 = [
     "ballot": "single-member",
     "tikTvd": "2732000735894",
     "tikName": "Ульяновская",
+    "regionCode": "73",
+    "regionTvd": "100100067796101",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100067796103",
+      "oikName": "Ульяновская область – Радищевский"
+    },
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 26897,
@@ -1105,6 +1209,14 @@ export const duma_2016_tic_464_region_73 = [
     "ballot": "single-member",
     "tikTvd": "2732000735895",
     "tikName": "Ульяновск, Засвияжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100067796101",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100067796103",
+      "oikName": "Ульяновская область – Радищевский"
+    },
     "uikCount": 50,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 97991,
@@ -1204,6 +1316,14 @@ export const duma_2016_tic_464_region_73 = [
     "ballot": "single-member",
     "tikTvd": "2732000735896",
     "tikName": "Ульяновск, Засвияжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100067796101",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100067796103",
+      "oikName": "Ульяновская область – Радищевский"
+    },
     "uikCount": 47,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 78725,
@@ -1300,6 +1420,14 @@ export const duma_2016_tic_464_region_73 = [
     "ballot": "single-member",
     "tikTvd": "2732000735897",
     "tikName": "Ульяновск, Железнодорожная",
+    "regionCode": "73",
+    "regionTvd": "100100067796101",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100067796103",
+      "oikName": "Ульяновская область – Радищевский"
+    },
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 71328,
@@ -1389,6 +1517,14 @@ export const duma_2016_tic_464_region_73 = [
     "ballot": "single-member",
     "tikTvd": "2732000735898",
     "tikName": "Сурская",
+    "regionCode": "73",
+    "regionTvd": "100100067796101",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100067796103",
+      "oikName": "Ульяновская область – Радищевский"
+    },
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 13484,
@@ -1474,6 +1610,14 @@ export const duma_2016_tic_464_region_73 = [
     "ballot": "single-member",
     "tikTvd": "2732000735899",
     "tikName": "Старокулаткинская",
+    "regionCode": "73",
+    "regionTvd": "100100067796101",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100067796103",
+      "oikName": "Ульяновская область – Радищевский"
+    },
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 10839,
@@ -1543,6 +1687,14 @@ export const duma_2016_tic_464_region_73 = [
     "ballot": "single-member",
     "tikTvd": "2732000735900",
     "tikName": "Радищевская",
+    "regionCode": "73",
+    "regionTvd": "100100067796101",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100067796103",
+      "oikName": "Ульяновская область – Радищевский"
+    },
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 9976,
@@ -1617,6 +1769,14 @@ export const duma_2016_tic_464_region_73 = [
     "ballot": "single-member",
     "tikTvd": "2732000735901",
     "tikName": "Павловская",
+    "regionCode": "73",
+    "regionTvd": "100100067796101",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100067796103",
+      "oikName": "Ульяновская область – Радищевский"
+    },
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 11128,
@@ -1691,6 +1851,14 @@ export const duma_2016_tic_464_region_73 = [
     "ballot": "single-member",
     "tikTvd": "2732000735902",
     "tikName": "Новоспасская",
+    "regionCode": "73",
+    "regionTvd": "100100067796101",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100067796103",
+      "oikName": "Ульяновская область – Радищевский"
+    },
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 16941,
@@ -1772,6 +1940,14 @@ export const duma_2016_tic_464_region_73 = [
     "ballot": "single-member",
     "tikTvd": "2732000735903",
     "tikName": "Николаевская",
+    "regionCode": "73",
+    "regionTvd": "100100067796101",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100067796103",
+      "oikName": "Ульяновская область – Радищевский"
+    },
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 20338,
@@ -1857,6 +2033,14 @@ export const duma_2016_tic_464_region_73 = [
     "ballot": "single-member",
     "tikTvd": "2732000735904",
     "tikName": "Майнская",
+    "regionCode": "73",
+    "regionTvd": "100100067796101",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100067796103",
+      "oikName": "Ульяновская область – Радищевский"
+    },
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 20877,
@@ -1941,6 +2125,14 @@ export const duma_2016_tic_464_region_73 = [
     "ballot": "single-member",
     "tikTvd": "2732000735905",
     "tikName": "Кузоватовская",
+    "regionCode": "73",
+    "regionTvd": "100100067796101",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100067796103",
+      "oikName": "Ульяновская область – Радищевский"
+    },
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 17313,
@@ -2019,6 +2211,14 @@ export const duma_2016_tic_464_region_73 = [
     "ballot": "single-member",
     "tikTvd": "2732000735906",
     "tikName": "Карсунская",
+    "regionCode": "73",
+    "regionTvd": "100100067796101",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100067796103",
+      "oikName": "Ульяновская область – Радищевский"
+    },
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 19188,
@@ -2098,6 +2298,14 @@ export const duma_2016_tic_464_region_73 = [
     "ballot": "single-member",
     "tikTvd": "2732000735907",
     "tikName": "Инзенская",
+    "regionCode": "73",
+    "regionTvd": "100100067796101",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100067796103",
+      "oikName": "Ульяновская область – Радищевский"
+    },
     "uikCount": 48,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 26614,
@@ -2195,6 +2403,14 @@ export const duma_2016_tic_464_region_73 = [
     "ballot": "single-member",
     "tikTvd": "2732000735909",
     "tikName": "Вешкаймская",
+    "regionCode": "73",
+    "regionTvd": "100100067796101",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100067796103",
+      "oikName": "Ульяновская область – Радищевский"
+    },
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 15198,
@@ -2270,6 +2486,14 @@ export const duma_2016_tic_464_region_73 = [
     "ballot": "single-member",
     "tikTvd": "2732000735911",
     "tikName": "Барышская",
+    "regionCode": "73",
+    "regionTvd": "100100067796101",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100067796103",
+      "oikName": "Ульяновская область – Радищевский"
+    },
     "uikCount": 50,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 33503,
@@ -2369,6 +2593,14 @@ export const duma_2016_tic_464_region_73 = [
     "ballot": "single-member",
     "tikTvd": "2732000735912",
     "tikName": "Базарносызганская",
+    "regionCode": "73",
+    "regionTvd": "100100067796101",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100067796103",
+      "oikName": "Ульяновская область – Радищевский"
+    },
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 7081,

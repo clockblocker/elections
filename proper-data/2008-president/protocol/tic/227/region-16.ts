@@ -11,6 +11,9 @@ export const president_2008_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000193665",
     "tikName": "Нурлатская",
+    "regionCode": "16",
+    "regionTvd": "100100022249956",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 18770,
@@ -102,6 +105,9 @@ export const president_2008_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000193666",
     "tikName": "Чистопольская",
+    "regionCode": "16",
+    "regionTvd": "100100022249956",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 15447,
@@ -191,6 +197,9 @@ export const president_2008_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000193667",
     "tikName": "Бавлинская",
+    "regionCode": "16",
+    "regionTvd": "100100022249956",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 10378,
@@ -260,6 +269,9 @@ export const president_2008_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000193668",
     "tikName": "Нижнекамская",
+    "regionCode": "16",
+    "regionTvd": "100100022249956",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 26713,
@@ -341,6 +353,9 @@ export const president_2008_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000193669",
     "tikName": "Лениногорская",
+    "regionCode": "16",
+    "regionTvd": "100100022249956",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 17143,
@@ -421,6 +436,9 @@ export const president_2008_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000193670",
     "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100022249956",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 61,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 45768,
@@ -529,6 +547,9 @@ export const president_2008_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000193671",
     "tikName": "Бугульминская",
+    "regionCode": "16",
+    "regionTvd": "100100022249956",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 15316,
@@ -607,6 +628,9 @@ export const president_2008_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000193672",
     "tikName": "Заинская",
+    "regionCode": "16",
+    "regionTvd": "100100022249956",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 11524,
@@ -693,6 +717,9 @@ export const president_2008_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000193673",
     "tikName": "Елабужская",
+    "regionCode": "16",
+    "regionTvd": "100100022249956",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 7724,
@@ -763,6 +790,9 @@ export const president_2008_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000193674",
     "tikName": "Азнакаевская",
+    "regionCode": "16",
+    "regionTvd": "100100022249956",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 23248,
@@ -852,6 +882,9 @@ export const president_2008_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000193675",
     "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100022249956",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 53,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 35819,
@@ -952,6 +985,9 @@ export const president_2008_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000193676",
     "tikName": "Ютазинская",
+    "regionCode": "16",
+    "regionTvd": "100100022249956",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 17474,
@@ -1031,6 +1067,9 @@ export const president_2008_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000193677",
     "tikName": "Чистопольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100022249956",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 51,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 49074,
@@ -1129,6 +1168,9 @@ export const president_2008_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000193678",
     "tikName": "Черемшанская",
+    "regionCode": "16",
+    "regionTvd": "100100022249956",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 14086,
@@ -1210,6 +1252,9 @@ export const president_2008_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000193679",
     "tikName": "Тюлячинская",
+    "regionCode": "16",
+    "regionTvd": "100100022249956",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 10782,
@@ -1285,6 +1330,9 @@ export const president_2008_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000193680",
     "tikName": "Тетюшская",
+    "regionCode": "16",
+    "regionTvd": "100100022249956",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 54,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 19034,
@@ -1386,6 +1434,9 @@ export const president_2008_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000193681",
     "tikName": "Спасская",
+    "regionCode": "16",
+    "regionTvd": "100100022249956",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 16066,
@@ -1472,6 +1523,9 @@ export const president_2008_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000193682",
     "tikName": "Тукаевская",
+    "regionCode": "16",
+    "regionTvd": "100100022249956",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 25043,
@@ -1562,6 +1616,9 @@ export const president_2008_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000193683",
     "tikName": "Сабинская",
+    "regionCode": "16",
+    "regionTvd": "100100022249956",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 23817,
@@ -1649,6 +1706,9 @@ export const president_2008_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000193684",
     "tikName": "Сармановская",
+    "regionCode": "16",
+    "regionTvd": "100100022249956",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 56,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 27192,
@@ -1752,6 +1812,9 @@ export const president_2008_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000193685",
     "tikName": "Рыбно-Слободская",
+    "regionCode": "16",
+    "regionTvd": "100100022249956",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 51,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 22415,
@@ -1850,6 +1913,9 @@ export const president_2008_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000193686",
     "tikName": "Новошешминская",
+    "regionCode": "16",
+    "regionTvd": "100100022249956",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 10975,
@@ -1924,6 +1990,9 @@ export const president_2008_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000193687",
     "tikName": "Нурлатская городская",
+    "regionCode": "16",
+    "regionTvd": "100100022249956",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 22847,
@@ -1986,6 +2055,9 @@ export const president_2008_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000193688",
     "tikName": "Пестречинская",
+    "regionCode": "16",
+    "regionTvd": "100100022249956",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 20763,
@@ -2065,6 +2137,9 @@ export const president_2008_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000193689",
     "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100022249956",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 80,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 158470,
@@ -2192,6 +2267,9 @@ export const president_2008_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000193690",
     "tikName": "Набережные Челны, Автозаводская",
+    "regionCode": "16",
+    "regionTvd": "100100022249956",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 53,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 127510,
@@ -2292,6 +2370,9 @@ export const president_2008_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000193691",
     "tikName": "Муслюмовская",
+    "regionCode": "16",
+    "regionTvd": "100100022249956",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 15713,
@@ -2375,6 +2456,9 @@ export const president_2008_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000193692",
     "tikName": "Мензелинская",
+    "regionCode": "16",
+    "regionTvd": "100100022249956",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 51,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 21426,
@@ -2473,6 +2557,9 @@ export const president_2008_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000193693",
     "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100022249956",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 62,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 32890,
@@ -2582,6 +2669,9 @@ export const president_2008_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000193694",
     "tikName": "Менделеевская",
+    "regionCode": "16",
+    "regionTvd": "100100022249956",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 20982,
@@ -2666,6 +2756,9 @@ export const president_2008_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000193695",
     "tikName": "Лениногорская городская",
+    "regionCode": "16",
+    "regionTvd": "100100022249956",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 48954,
@@ -2739,6 +2832,9 @@ export const president_2008_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000193696",
     "tikName": "Кукморская",
+    "regionCode": "16",
+    "regionTvd": "100100022249956",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 69,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 39144,
@@ -2855,6 +2951,9 @@ export const president_2008_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000193697",
     "tikName": "Лаишевская",
+    "regionCode": "16",
+    "regionTvd": "100100022249956",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 47,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 25828,
@@ -2949,6 +3048,9 @@ export const president_2008_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000193698",
     "tikName": "Кайбицкая",
+    "regionCode": "16",
+    "regionTvd": "100100022249956",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 10959,
@@ -3031,6 +3133,9 @@ export const president_2008_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000193699",
     "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100022249956",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 104,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 207103,
@@ -3182,6 +3287,9 @@ export const president_2008_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000193700",
     "tikName": "Камско-Устьинская",
+    "regionCode": "16",
+    "regionTvd": "100100022249956",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 13306,
@@ -3268,6 +3376,9 @@ export const president_2008_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000193701",
     "tikName": "Казань, Ново-Савиновская",
+    "regionCode": "16",
+    "regionTvd": "100100022249956",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 73,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 166750,
@@ -3388,6 +3499,9 @@ export const president_2008_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000193702",
     "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100022249956",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 53,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 101677,
@@ -3488,6 +3602,9 @@ export const president_2008_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000193703",
     "tikName": "Казань, Кировская",
+    "regionCode": "16",
+    "regionTvd": "100100022249956",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 48,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 82452,
@@ -3583,6 +3700,9 @@ export const president_2008_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000193704",
     "tikName": "Казань, Приволжская",
+    "regionCode": "16",
+    "regionTvd": "100100022249956",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 87,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 181904,
@@ -3717,6 +3837,9 @@ export const president_2008_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000193705",
     "tikName": "Заинская городская",
+    "regionCode": "16",
+    "regionTvd": "100100022249956",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 30384,
@@ -3789,6 +3912,9 @@ export const president_2008_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000193706",
     "tikName": "Казань, Вахитовская",
+    "regionCode": "16",
+    "regionTvd": "100100022249956",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 51,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 70906,
@@ -3887,6 +4013,9 @@ export const president_2008_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000193707",
     "tikName": "Зеленодольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100022249956",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 77331,
@@ -3975,6 +4104,9 @@ export const president_2008_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000193708",
     "tikName": "Казань, Авиастроительная",
+    "regionCode": "16",
+    "regionTvd": "100100022249956",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 87370,
@@ -4061,6 +4193,9 @@ export const president_2008_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000193709",
     "tikName": "Дрожжановская",
+    "regionCode": "16",
+    "regionTvd": "100100022249956",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 19426,
@@ -4146,6 +4281,9 @@ export const president_2008_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000193710",
     "tikName": "Елабужская городская",
+    "regionCode": "16",
+    "regionTvd": "100100022249956",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 50160,
@@ -4231,6 +4369,9 @@ export const president_2008_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000193711",
     "tikName": "Верхнеуслонская",
+    "regionCode": "16",
+    "regionTvd": "100100022249956",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 14108,
@@ -4318,6 +4459,9 @@ export const president_2008_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000193712",
     "tikName": "Балтасинская",
+    "regionCode": "16",
+    "regionTvd": "100100022249956",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 25002,
@@ -4398,6 +4542,9 @@ export const president_2008_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000193713",
     "tikName": "Буинская городская",
+    "regionCode": "16",
+    "regionTvd": "100100022249956",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 14628,
@@ -4458,6 +4605,9 @@ export const president_2008_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000193714",
     "tikName": "Бугульминская городская",
+    "regionCode": "16",
+    "regionTvd": "100100022249956",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 53,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 66762,
@@ -4558,6 +4708,9 @@ export const president_2008_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000193715",
     "tikName": "Арская",
+    "regionCode": "16",
+    "regionTvd": "100100022249956",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 65,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 36851,
@@ -4670,6 +4823,9 @@ export const president_2008_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000193716",
     "tikName": "Бавлинская городская",
+    "regionCode": "16",
+    "regionTvd": "100100022249956",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 16346,
@@ -4732,6 +4888,9 @@ export const president_2008_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000193717",
     "tikName": "Атнинская",
+    "regionCode": "16",
+    "regionTvd": "100100022249956",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 10506,
@@ -4804,6 +4963,9 @@ export const president_2008_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000193718",
     "tikName": "Алькеевская",
+    "regionCode": "16",
+    "regionTvd": "100100022249956",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 49,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 15532,
@@ -4900,6 +5062,9 @@ export const president_2008_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000193719",
     "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100022249956",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 57,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 106763,
@@ -5004,6 +5169,9 @@ export const president_2008_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000193720",
     "tikName": "Апастовская",
+    "regionCode": "16",
+    "regionTvd": "100100022249956",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 57,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 15945,
@@ -5108,6 +5276,9 @@ export const president_2008_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000193721",
     "tikName": "Актанышская",
+    "regionCode": "16",
+    "regionTvd": "100100022249956",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 22370,
@@ -5201,6 +5372,9 @@ export const president_2008_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000193722",
     "tikName": "Аксубаевская",
+    "regionCode": "16",
+    "regionTvd": "100100022249956",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 49,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 22032,
@@ -5297,6 +5471,9 @@ export const president_2008_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000193723",
     "tikName": "Алексеевская",
+    "regionCode": "16",
+    "regionTvd": "100100022249956",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 19741,
@@ -5394,6 +5571,9 @@ export const president_2008_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000193724",
     "tikName": "Агрызская",
+    "regionCode": "16",
+    "regionTvd": "100100022249956",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 26030,
@@ -5491,6 +5671,9 @@ export const president_2008_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000193725",
     "tikName": "Азнакаевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100022249956",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 27955,
@@ -5558,6 +5741,9 @@ export const president_2008_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000193726",
     "tikName": "Высокогорская",
+    "regionCode": "16",
+    "regionTvd": "100100022249956",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 48,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 32181,
@@ -5653,6 +5839,9 @@ export const president_2008_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000193727",
     "tikName": "Буинская",
+    "regionCode": "16",
+    "regionTvd": "100100022249956",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 67,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 19527,
@@ -5767,6 +5956,9 @@ export const president_2008_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000193728",
     "tikName": "Набережные Челны, Комсомольская",
+    "regionCode": "16",
+    "regionTvd": "100100022249956",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 99533,
@@ -5860,6 +6052,9 @@ export const president_2008_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000193729",
     "tikName": "Набережные Челны, Центральная",
+    "regionCode": "16",
+    "regionTvd": "100100022249956",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 60,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 141197,

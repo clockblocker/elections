@@ -11,6 +11,14 @@ export const duma_2016_tic_464_region_79 = [
     "ballot": "single-member",
     "tikTvd": "2792000296131",
     "tikName": "Смидовичская",
+    "regionCode": "79",
+    "regionTvd": "100100067796138",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100067796139",
+      "oikName": "Еврейская автономная область – Еврейский"
+    },
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 19830,
@@ -81,6 +89,14 @@ export const duma_2016_tic_464_region_79 = [
     "ballot": "single-member",
     "tikTvd": "2792000296132",
     "tikName": "Октябрьская",
+    "regionCode": "79",
+    "regionTvd": "100100067796138",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100067796139",
+      "oikName": "Еврейская автономная область – Еврейский"
+    },
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 7965,
@@ -145,6 +161,14 @@ export const duma_2016_tic_464_region_79 = [
     "ballot": "single-member",
     "tikTvd": "2792000296133",
     "tikName": "Облученская",
+    "regionCode": "79",
+    "regionTvd": "100100067796138",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100067796139",
+      "oikName": "Еврейская автономная область – Еврейский"
+    },
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 21349,
@@ -226,6 +250,14 @@ export const duma_2016_tic_464_region_79 = [
     "ballot": "single-member",
     "tikTvd": "2792000296134",
     "tikName": "Ленинская",
+    "regionCode": "79",
+    "regionTvd": "100100067796138",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100067796139",
+      "oikName": "Еврейская автономная область – Еврейский"
+    },
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 14515,
@@ -304,6 +336,14 @@ export const duma_2016_tic_464_region_79 = [
     "ballot": "single-member",
     "tikTvd": "2792000296135",
     "tikName": "Биробиджанская",
+    "regionCode": "79",
+    "regionTvd": "100100067796138",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100067796139",
+      "oikName": "Еврейская автономная область – Еврейский"
+    },
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 9456,
@@ -383,6 +423,14 @@ export const duma_2016_tic_464_region_79 = [
     "ballot": "single-member",
     "tikTvd": "2792000296136",
     "tikName": "Биробиджанская городская",
+    "regionCode": "79",
+    "regionTvd": "100100067796138",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100067796139",
+      "oikName": "Еврейская автономная область – Еврейский"
+    },
     "uikCount": 42,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 60343,

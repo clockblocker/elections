@@ -11,6 +11,9 @@ export const president_2004_tic_227_region_17 = [
     "ballot": "presidential",
     "tikTvd": "217200071641",
     "tikName": "Ак-Довуракская городская",
+    "regionCode": "17",
+    "regionTvd": "1001000882992",
+    "regionName": "Республика Тыва",
     "uikCount": 6,
     "accounting": {
       "Число избирателей, внесенных в список": 5923,
@@ -65,6 +68,9 @@ export const president_2004_tic_227_region_17 = [
     "ballot": "presidential",
     "tikTvd": "217200071642",
     "tikName": "Бай-Тайгинская",
+    "regionCode": "17",
+    "regionTvd": "1001000882992",
+    "regionName": "Республика Тыва",
     "uikCount": 7,
     "accounting": {
       "Число избирателей, внесенных в список": 6128,
@@ -120,6 +126,9 @@ export const president_2004_tic_227_region_17 = [
     "ballot": "presidential",
     "tikTvd": "217200071643",
     "tikName": "Барун-Хемчикская",
+    "regionCode": "17",
+    "regionTvd": "1001000882992",
+    "regionName": "Республика Тыва",
     "uikCount": 10,
     "accounting": {
       "Число избирателей, внесенных в список": 6655,
@@ -178,6 +187,9 @@ export const president_2004_tic_227_region_17 = [
     "ballot": "presidential",
     "tikTvd": "217200071644",
     "tikName": "Дзун-Хемчикская",
+    "regionCode": "17",
+    "regionTvd": "1001000882992",
+    "regionName": "Республика Тыва",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в список": 10927,
@@ -240,6 +252,9 @@ export const president_2004_tic_227_region_17 = [
     "ballot": "presidential",
     "tikTvd": "217200071645",
     "tikName": "Каа-Хемская",
+    "regionCode": "17",
+    "regionTvd": "1001000882992",
+    "regionName": "Республика Тыва",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в список": 7261,
@@ -304,6 +319,9 @@ export const president_2004_tic_227_region_17 = [
     "ballot": "presidential",
     "tikTvd": "217200071646",
     "tikName": "Кызылская городская",
+    "regionCode": "17",
+    "regionTvd": "1001000882992",
+    "regionName": "Республика Тыва",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в список": 54675,
@@ -383,6 +401,9 @@ export const president_2004_tic_227_region_17 = [
     "ballot": "presidential",
     "tikTvd": "217200071647",
     "tikName": "Кызылская",
+    "regionCode": "17",
+    "regionTvd": "1001000882992",
+    "regionName": "Республика Тыва",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, внесенных в список": 11650,
@@ -443,6 +464,9 @@ export const president_2004_tic_227_region_17 = [
     "ballot": "presidential",
     "tikTvd": "217200071648",
     "tikName": "Монгун-Тайгинская",
+    "regionCode": "17",
+    "regionTvd": "1001000882992",
+    "regionName": "Республика Тыва",
     "uikCount": 3,
     "accounting": {
       "Число избирателей, внесенных в список": 2768,
@@ -494,6 +518,9 @@ export const president_2004_tic_227_region_17 = [
     "ballot": "presidential",
     "tikTvd": "217200071649",
     "tikName": "Овюрская",
+    "regionCode": "17",
+    "regionTvd": "1001000882992",
+    "regionName": "Республика Тыва",
     "uikCount": 6,
     "accounting": {
       "Число избирателей, внесенных в список": 3941,
@@ -548,6 +575,9 @@ export const president_2004_tic_227_region_17 = [
     "ballot": "presidential",
     "tikTvd": "217200071650",
     "tikName": "Пии-Хемская",
+    "regionCode": "17",
+    "regionTvd": "1001000882992",
+    "regionName": "Республика Тыва",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в список": 6960,
@@ -610,6 +640,9 @@ export const president_2004_tic_227_region_17 = [
     "ballot": "presidential",
     "tikTvd": "217200071651",
     "tikName": "Сут-Хольская",
+    "regionCode": "17",
+    "regionTvd": "1001000882992",
+    "regionName": "Республика Тыва",
     "uikCount": 7,
     "accounting": {
       "Число избирателей, внесенных в список": 4646,
@@ -665,6 +698,9 @@ export const president_2004_tic_227_region_17 = [
     "ballot": "presidential",
     "tikTvd": "217200071652",
     "tikName": "Тандинская",
+    "regionCode": "17",
+    "regionTvd": "1001000882992",
+    "regionName": "Республика Тыва",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, внесенных в список": 7701,
@@ -724,6 +760,9 @@ export const president_2004_tic_227_region_17 = [
     "ballot": "presidential",
     "tikTvd": "217200071653",
     "tikName": "Тес-Хемская",
+    "regionCode": "17",
+    "regionTvd": "1001000882992",
+    "regionName": "Республика Тыва",
     "uikCount": 7,
     "accounting": {
       "Число избирателей, внесенных в список": 4624,
@@ -779,6 +818,9 @@ export const president_2004_tic_227_region_17 = [
     "ballot": "presidential",
     "tikTvd": "217200071654",
     "tikName": "Тоджинская",
+    "regionCode": "17",
+    "regionTvd": "1001000882992",
+    "regionName": "Республика Тыва",
     "uikCount": 6,
     "accounting": {
       "Число избирателей, внесенных в список": 3052,
@@ -833,6 +875,9 @@ export const president_2004_tic_227_region_17 = [
     "ballot": "presidential",
     "tikTvd": "217200071655",
     "tikName": "Улуг-Хемская",
+    "regionCode": "17",
+    "regionTvd": "1001000882992",
+    "regionName": "Республика Тыва",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в список": 10063,
@@ -894,6 +939,9 @@ export const president_2004_tic_227_region_17 = [
     "ballot": "presidential",
     "tikTvd": "217200071656",
     "tikName": "Чаа-Хольская",
+    "regionCode": "17",
+    "regionTvd": "1001000882992",
+    "regionName": "Республика Тыва",
     "uikCount": 4,
     "accounting": {
       "Число избирателей, внесенных в список": 3562,
@@ -946,6 +994,9 @@ export const president_2004_tic_227_region_17 = [
     "ballot": "presidential",
     "tikTvd": "217200071657",
     "tikName": "Чеди-Хольская",
+    "regionCode": "17",
+    "regionTvd": "1001000882992",
+    "regionName": "Республика Тыва",
     "uikCount": 6,
     "accounting": {
       "Число избирателей, внесенных в список": 4464,
@@ -1000,6 +1051,9 @@ export const president_2004_tic_227_region_17 = [
     "ballot": "presidential",
     "tikTvd": "217200071658",
     "tikName": "Эрзинская",
+    "regionCode": "17",
+    "regionTvd": "1001000882992",
+    "regionName": "Республика Тыва",
     "uikCount": 6,
     "accounting": {
       "Число избирателей, внесенных в список": 4454,
@@ -1054,6 +1108,9 @@ export const president_2004_tic_227_region_17 = [
     "ballot": "presidential",
     "tikTvd": "217200071659",
     "tikName": "Тере-Хольская",
+    "regionCode": "17",
+    "regionTvd": "1001000882992",
+    "regionName": "Республика Тыва",
     "uikCount": 2,
     "accounting": {
       "Число избирателей, внесенных в список": 1189,

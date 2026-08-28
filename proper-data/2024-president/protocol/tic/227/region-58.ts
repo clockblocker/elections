@@ -11,6 +11,9 @@ export const president_2024_tic_227_region_58 = [
     "ballot": "presidential",
     "tikTvd": "25820001472033",
     "tikName": "Шемышейская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 11005,
@@ -71,6 +74,9 @@ export const president_2024_tic_227_region_58 = [
     "ballot": "presidential",
     "tikTvd": "25820001472034",
     "tikName": "Тамалинская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10281,
@@ -132,6 +138,9 @@ export const president_2024_tic_227_region_58 = [
     "ballot": "presidential",
     "tikTvd": "25820001472035",
     "tikName": "Спасская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 7955,
@@ -189,6 +198,9 @@ export const president_2024_tic_227_region_58 = [
     "ballot": "presidential",
     "tikTvd": "25820001472036",
     "tikName": "Сосновоборская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 11106,
@@ -248,6 +260,9 @@ export const president_2024_tic_227_region_58 = [
     "ballot": "presidential",
     "tikTvd": "25820001472037",
     "tikName": "Сердобская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 35424,
@@ -328,6 +343,9 @@ export const president_2024_tic_227_region_58 = [
     "ballot": "presidential",
     "tikTvd": "25820001472038",
     "tikName": "Пензенская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
     "uikCount": 47,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 56905,
@@ -415,6 +433,9 @@ export const president_2024_tic_227_region_58 = [
     "ballot": "presidential",
     "tikTvd": "25820001472039",
     "tikName": "Пачелмская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9984,
@@ -475,6 +496,9 @@ export const president_2024_tic_227_region_58 = [
     "ballot": "presidential",
     "tikTvd": "25820001472040",
     "tikName": "Никольская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 23048,
@@ -546,6 +570,9 @@ export const president_2024_tic_227_region_58 = [
     "ballot": "presidential",
     "tikTvd": "25820001472041",
     "tikName": "Нижнеломовская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 27767,
@@ -626,6 +653,9 @@ export const president_2024_tic_227_region_58 = [
     "ballot": "presidential",
     "tikTvd": "25820001472042",
     "tikName": "Неверкинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10341,
@@ -687,6 +717,9 @@ export const president_2024_tic_227_region_58 = [
     "ballot": "presidential",
     "tikTvd": "25820001472043",
     "tikName": "Наровчатская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 7734,
@@ -743,6 +776,9 @@ export const president_2024_tic_227_region_58 = [
     "ballot": "presidential",
     "tikTvd": "25820001472044",
     "tikName": "Мокшанская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 18984,
@@ -809,6 +845,9 @@ export const president_2024_tic_227_region_58 = [
     "ballot": "presidential",
     "tikTvd": "25820001472045",
     "tikName": "Малосердобинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 5997,
@@ -867,6 +906,9 @@ export const president_2024_tic_227_region_58 = [
     "ballot": "presidential",
     "tikTvd": "25820001472046",
     "tikName": "Лунинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 13295,
@@ -929,6 +971,9 @@ export const president_2024_tic_227_region_58 = [
     "ballot": "presidential",
     "tikTvd": "25820001472047",
     "tikName": "Лопатинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 8869,
@@ -989,6 +1034,9 @@ export const president_2024_tic_227_region_58 = [
     "ballot": "presidential",
     "tikTvd": "25820001472048",
     "tikName": "Кузнецкая",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 25717,
@@ -1059,6 +1107,9 @@ export const president_2024_tic_227_region_58 = [
     "ballot": "presidential",
     "tikTvd": "25820001472049",
     "tikName": "Колышлейская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 15768,
@@ -1124,6 +1175,9 @@ export const president_2024_tic_227_region_58 = [
     "ballot": "presidential",
     "tikTvd": "25820001472050",
     "tikName": "Камешкирская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 7542,
@@ -1177,6 +1231,9 @@ export const president_2024_tic_227_region_58 = [
     "ballot": "presidential",
     "tikTvd": "25820001472051",
     "tikName": "Каменская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 39201,
@@ -1261,6 +1318,9 @@ export const president_2024_tic_227_region_58 = [
     "ballot": "presidential",
     "tikTvd": "25820001472052",
     "tikName": "Иссинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 7169,
@@ -1316,6 +1376,9 @@ export const president_2024_tic_227_region_58 = [
     "ballot": "presidential",
     "tikTvd": "25820001472053",
     "tikName": "Земетчинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 15401,
@@ -1377,6 +1440,9 @@ export const president_2024_tic_227_region_58 = [
     "ballot": "presidential",
     "tikTvd": "25820001472054",
     "tikName": "Городищенская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 34720,
@@ -1451,6 +1517,9 @@ export const president_2024_tic_227_region_58 = [
     "ballot": "presidential",
     "tikTvd": "25820001472055",
     "tikName": "Вадинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 5572,
@@ -1509,6 +1578,9 @@ export const president_2024_tic_227_region_58 = [
     "ballot": "presidential",
     "tikTvd": "25820001472056",
     "tikName": "Бессоновская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 34408,
@@ -1583,6 +1655,9 @@ export const president_2024_tic_227_region_58 = [
     "ballot": "presidential",
     "tikTvd": "25820001472057",
     "tikName": "Белинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 17587,
@@ -1652,6 +1727,9 @@ export const president_2024_tic_227_region_58 = [
     "ballot": "presidential",
     "tikTvd": "25820001472058",
     "tikName": "Бековская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10157,
@@ -1708,6 +1786,9 @@ export const president_2024_tic_227_region_58 = [
     "ballot": "presidential",
     "tikTvd": "25820001472059",
     "tikName": "Башмаковская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 13864,
@@ -1770,6 +1851,9 @@ export const president_2024_tic_227_region_58 = [
     "ballot": "presidential",
     "tikTvd": "25820001472060",
     "tikName": "Кузнецкая городская ",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
     "uikCount": 45,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 61260,
@@ -1855,6 +1939,9 @@ export const president_2024_tic_227_region_58 = [
     "ballot": "presidential",
     "tikTvd": "25820001472061",
     "tikName": "Зареченская городская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 48480,
@@ -1920,6 +2007,9 @@ export const president_2024_tic_227_region_58 = [
     "ballot": "presidential",
     "tikTvd": "25820001472062",
     "tikName": "Пенза, Первомайская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
     "uikCount": 64,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 102010,
@@ -2024,6 +2114,9 @@ export const president_2024_tic_227_region_58 = [
     "ballot": "presidential",
     "tikTvd": "25820001472063",
     "tikName": "Пенза, Ленинская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 67796,
@@ -2103,6 +2196,9 @@ export const president_2024_tic_227_region_58 = [
     "ballot": "presidential",
     "tikTvd": "25820001472064",
     "tikName": "Пенза, Железнодорожная",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
     "uikCount": 51,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 85179,
@@ -2194,6 +2290,9 @@ export const president_2024_tic_227_region_58 = [
     "ballot": "presidential",
     "tikTvd": "25820001472065",
     "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100339411251",
+    "regionName": "Пензенская область",
     "uikCount": 75,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 148663,

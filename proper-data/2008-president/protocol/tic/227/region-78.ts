@@ -11,6 +11,9 @@ export const president_2008_tic_227_region_78 = [
     "ballot": "presidential",
     "tikTvd": "2782000206385",
     "tikName": "Центральная N30",
+    "regionCode": "78",
+    "regionTvd": "100100022249960",
+    "regionName": "Город Санкт-Петербург",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 59752,
@@ -95,6 +98,9 @@ export const president_2008_tic_227_region_78 = [
     "ballot": "presidential",
     "tikTvd": "2782000206386",
     "tikName": "Фрунзенская N29",
+    "regionCode": "78",
+    "regionTvd": "100100022249960",
+    "regionName": "Город Санкт-Петербург",
     "uikCount": 73,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 136555,
@@ -215,6 +221,9 @@ export const president_2008_tic_227_region_78 = [
     "ballot": "presidential",
     "tikTvd": "2782000206387",
     "tikName": "Приморская N28",
+    "regionCode": "78",
+    "regionTvd": "100100022249960",
+    "regionName": "Город Санкт-Петербург",
     "uikCount": 62,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 139978,
@@ -324,6 +333,9 @@ export const president_2008_tic_227_region_78 = [
     "ballot": "presidential",
     "tikTvd": "2782000206388",
     "tikName": "Московская N27",
+    "regionCode": "78",
+    "regionTvd": "100100022249960",
+    "regionName": "Город Санкт-Петербург",
     "uikCount": 48,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 86587,
@@ -419,6 +431,9 @@ export const president_2008_tic_227_region_78 = [
     "ballot": "presidential",
     "tikTvd": "2782000206389",
     "tikName": "Красносельская N26",
+    "regionCode": "78",
+    "regionTvd": "100100022249960",
+    "regionName": "Город Санкт-Петербург",
     "uikCount": 59,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 103500,
@@ -525,6 +540,9 @@ export const president_2008_tic_227_region_78 = [
     "ballot": "presidential",
     "tikTvd": "2782000206390",
     "tikName": "Красногвардейская N25",
+    "regionCode": "78",
+    "regionTvd": "100100022249960",
+    "regionName": "Город Санкт-Петербург",
     "uikCount": 64,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 128154,
@@ -636,6 +654,9 @@ export const president_2008_tic_227_region_78 = [
     "ballot": "presidential",
     "tikTvd": "2782000206391",
     "tikName": "Невская N24",
+    "regionCode": "78",
+    "regionTvd": "100100022249960",
+    "regionName": "Город Санкт-Петербург",
     "uikCount": 75,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 154426,
@@ -758,6 +779,9 @@ export const president_2008_tic_227_region_78 = [
     "ballot": "presidential",
     "tikTvd": "2782000206392",
     "tikName": "Фрунзенская N23",
+    "regionCode": "78",
+    "regionTvd": "100100022249960",
+    "regionName": "Город Санкт-Петербург",
     "uikCount": 63,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 127157,
@@ -868,6 +892,9 @@ export const president_2008_tic_227_region_78 = [
     "ballot": "presidential",
     "tikTvd": "2782000206393",
     "tikName": "Павловская N22",
+    "regionCode": "78",
+    "regionTvd": "100100022249960",
+    "regionName": "Город Санкт-Петербург",
     "uikCount": 9,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 12424,
@@ -924,6 +951,9 @@ export const president_2008_tic_227_region_78 = [
     "ballot": "presidential",
     "tikTvd": "2782000206394",
     "tikName": "Колпинская N21",
+    "regionCode": "78",
+    "regionTvd": "100100022249960",
+    "regionName": "Город Санкт-Петербург",
     "uikCount": 65,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 139720,
@@ -1036,6 +1066,9 @@ export const president_2008_tic_227_region_78 = [
     "ballot": "presidential",
     "tikTvd": "2782000206395",
     "tikName": "Пушкинская N20",
+    "regionCode": "78",
+    "regionTvd": "100100022249960",
+    "regionName": "Город Санкт-Петербург",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 85790,
@@ -1122,6 +1155,9 @@ export const president_2008_tic_227_region_78 = [
     "ballot": "presidential",
     "tikTvd": "2782000206396",
     "tikName": "Московская N19",
+    "regionCode": "78",
+    "regionTvd": "100100022249960",
+    "regionName": "Город Санкт-Петербург",
     "uikCount": 65,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 113723,
@@ -1234,6 +1270,9 @@ export const president_2008_tic_227_region_78 = [
     "ballot": "presidential",
     "tikTvd": "2782000206397",
     "tikName": "Петроградская N18",
+    "regionCode": "78",
+    "regionTvd": "100100022249960",
+    "regionName": "Город Санкт-Петербург",
     "uikCount": 60,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 96235,
@@ -1341,6 +1380,9 @@ export const president_2008_tic_227_region_78 = [
     "ballot": "presidential",
     "tikTvd": "2782000206398",
     "tikName": "Калининская N17",
+    "regionCode": "78",
+    "regionTvd": "100100022249960",
+    "regionName": "Город Санкт-Петербург",
     "uikCount": 63,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 121696,
@@ -1451,6 +1493,9 @@ export const president_2008_tic_227_region_78 = [
     "ballot": "presidential",
     "tikTvd": "2782000206399",
     "tikName": "Центральная N16",
+    "regionCode": "78",
+    "regionTvd": "100100022249960",
+    "regionName": "Город Санкт-Петербург",
     "uikCount": 52,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 78549,
@@ -1550,6 +1595,9 @@ export const president_2008_tic_227_region_78 = [
     "ballot": "presidential",
     "tikTvd": "2782000206400",
     "tikName": "Кронштадтская N15",
+    "regionCode": "78",
+    "regionTvd": "100100022249960",
+    "regionName": "Город Санкт-Петербург",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 34689,
@@ -1611,6 +1659,9 @@ export const president_2008_tic_227_region_78 = [
     "ballot": "presidential",
     "tikTvd": "2782000206401",
     "tikName": "Выборгская N14",
+    "regionCode": "78",
+    "regionTvd": "100100022249960",
+    "regionName": "Город Санкт-Петербург",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 81587,
@@ -1699,6 +1750,9 @@ export const president_2008_tic_227_region_78 = [
     "ballot": "presidential",
     "tikTvd": "2782000206402",
     "tikName": "Курортная N13",
+    "regionCode": "78",
+    "regionTvd": "100100022249960",
+    "regionName": "Город Санкт-Петербург",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 43683,
@@ -1773,6 +1827,9 @@ export const president_2008_tic_227_region_78 = [
     "ballot": "presidential",
     "tikTvd": "2782000206403",
     "tikName": "Приморская N12",
+    "regionCode": "78",
+    "regionTvd": "100100022249960",
+    "regionName": "Город Санкт-Петербург",
     "uikCount": 77,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 181648,
@@ -1897,6 +1954,9 @@ export const president_2008_tic_227_region_78 = [
     "ballot": "presidential",
     "tikTvd": "2782000206404",
     "tikName": "Калининская N11",
+    "regionCode": "78",
+    "regionTvd": "100100022249960",
+    "regionName": "Город Санкт-Петербург",
     "uikCount": 93,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 179581,
@@ -2037,6 +2097,9 @@ export const president_2008_tic_227_region_78 = [
     "ballot": "presidential",
     "tikTvd": "2782000206405",
     "tikName": "Выборгская N10",
+    "regionCode": "78",
+    "regionTvd": "100100022249960",
+    "regionName": "Город Санкт-Петербург",
     "uikCount": 123,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 241685,
@@ -2207,6 +2270,9 @@ export const president_2008_tic_227_region_78 = [
     "ballot": "presidential",
     "tikTvd": "2782000206406",
     "tikName": "Ломоносовская N 9",
+    "regionCode": "78",
+    "regionTvd": "100100022249960",
+    "regionName": "Город Санкт-Петербург",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 26217,
@@ -2270,6 +2336,9 @@ export const president_2008_tic_227_region_78 = [
     "ballot": "presidential",
     "tikTvd": "2782000206407",
     "tikName": "Петродворцовая N 8",
+    "regionCode": "78",
+    "regionTvd": "100100022249960",
+    "regionName": "Город Санкт-Петербург",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 55228,
@@ -2349,6 +2418,9 @@ export const president_2008_tic_227_region_78 = [
     "ballot": "presidential",
     "tikTvd": "2782000206408",
     "tikName": "Кировская N 7",
+    "regionCode": "78",
+    "regionTvd": "100100022249960",
+    "regionName": "Город Санкт-Петербург",
     "uikCount": 59,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 115142,
@@ -2455,6 +2527,9 @@ export const president_2008_tic_227_region_78 = [
     "ballot": "presidential",
     "tikTvd": "2782000206409",
     "tikName": "Красносельская N 6",
+    "regionCode": "78",
+    "regionTvd": "100100022249960",
+    "regionName": "Город Санкт-Петербург",
     "uikCount": 61,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 119071,
@@ -2563,6 +2638,9 @@ export const president_2008_tic_227_region_78 = [
     "ballot": "presidential",
     "tikTvd": "2782000206410",
     "tikName": "Невская N5",
+    "regionCode": "78",
+    "regionTvd": "100100022249960",
+    "regionName": "Город Санкт-Петербург",
     "uikCount": 87,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 179625,
@@ -2697,6 +2775,9 @@ export const president_2008_tic_227_region_78 = [
     "ballot": "presidential",
     "tikTvd": "2782000206411",
     "tikName": "Красногвардейская N 4",
+    "regionCode": "78",
+    "regionTvd": "100100022249960",
+    "regionName": "Город Санкт-Петербург",
     "uikCount": 64,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 108729,
@@ -2808,6 +2889,9 @@ export const president_2008_tic_227_region_78 = [
     "ballot": "presidential",
     "tikTvd": "2782000206412",
     "tikName": "Кировская N 3",
+    "regionCode": "78",
+    "regionTvd": "100100022249960",
+    "regionName": "Город Санкт-Петербург",
     "uikCount": 151,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 143434,
@@ -3006,6 +3090,9 @@ export const president_2008_tic_227_region_78 = [
     "ballot": "presidential",
     "tikTvd": "2782000206413",
     "tikName": "Василеостровская N 2",
+    "regionCode": "78",
+    "regionTvd": "100100022249960",
+    "regionName": "Город Санкт-Петербург",
     "uikCount": 86,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 133655,
@@ -3139,6 +3226,9 @@ export const president_2008_tic_227_region_78 = [
     "ballot": "presidential",
     "tikTvd": "2782000206414",
     "tikName": "Адмиралтейская N 1",
+    "regionCode": "78",
+    "regionTvd": "100100022249960",
+    "regionName": "Город Санкт-Петербург",
     "uikCount": 74,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 129627,

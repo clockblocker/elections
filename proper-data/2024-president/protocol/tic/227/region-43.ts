@@ -11,6 +11,9 @@ export const president_2024_tic_227_region_43 = [
     "ballot": "presidential",
     "tikTvd": "24320001716007",
     "tikName": "Уржумская",
+    "regionCode": "43",
+    "regionTvd": "100100339411236",
+    "regionName": "Кировская область",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 16512,
@@ -94,6 +97,9 @@ export const president_2024_tic_227_region_43 = [
     "ballot": "presidential",
     "tikTvd": "24320001716008",
     "tikName": "Сунская",
+    "regionCode": "43",
+    "regionTvd": "100100339411236",
+    "regionName": "Кировская область",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 4374,
@@ -147,6 +153,9 @@ export const president_2024_tic_227_region_43 = [
     "ballot": "presidential",
     "tikTvd": "24320001716010",
     "tikName": "Нолинская",
+    "regionCode": "43",
+    "regionTvd": "100100339411236",
+    "regionName": "Кировская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 13526,
@@ -207,6 +216,9 @@ export const president_2024_tic_227_region_43 = [
     "ballot": "presidential",
     "tikTvd": "24320001716011",
     "tikName": "Киров, Ленинская 2",
+    "regionCode": "43",
+    "regionTvd": "100100339411236",
+    "regionName": "Кировская область",
     "uikCount": 58,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 96691,
@@ -305,6 +317,9 @@ export const president_2024_tic_227_region_43 = [
     "ballot": "presidential",
     "tikTvd": "24320001716013",
     "tikName": "Мурашинская",
+    "regionCode": "43",
+    "regionTvd": "100100339411236",
+    "regionName": "Кировская область",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 7919,
@@ -359,6 +374,9 @@ export const president_2024_tic_227_region_43 = [
     "ballot": "presidential",
     "tikTvd": "24320001716014",
     "tikName": "Малмыжская",
+    "regionCode": "43",
+    "regionTvd": "100100339411236",
+    "regionName": "Кировская область",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 17653,
@@ -434,6 +452,9 @@ export const president_2024_tic_227_region_43 = [
     "ballot": "presidential",
     "tikTvd": "24320001716017",
     "tikName": "Оричевская",
+    "regionCode": "43",
+    "regionTvd": "100100339411236",
+    "regionName": "Кировская область",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 20634,
@@ -507,6 +528,9 @@ export const president_2024_tic_227_region_43 = [
     "ballot": "presidential",
     "tikTvd": "24320001716018",
     "tikName": "Тужинская",
+    "regionCode": "43",
+    "regionTvd": "100100339411236",
+    "regionName": "Кировская область",
     "uikCount": 10,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 5022,
@@ -557,6 +581,9 @@ export const president_2024_tic_227_region_43 = [
     "ballot": "presidential",
     "tikTvd": "24320001716019",
     "tikName": "Верхнекамская",
+    "regionCode": "43",
+    "regionTvd": "100100339411236",
+    "regionName": "Кировская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 16311,
@@ -625,6 +652,9 @@ export const president_2024_tic_227_region_43 = [
     "ballot": "presidential",
     "tikTvd": "24320001716020",
     "tikName": "Санчурская",
+    "regionCode": "43",
+    "regionTvd": "100100339411236",
+    "regionName": "Кировская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 6372,
@@ -680,6 +710,9 @@ export const president_2024_tic_227_region_43 = [
     "ballot": "presidential",
     "tikTvd": "24320001716021",
     "tikName": "Вятскополянская городская",
+    "regionCode": "43",
+    "regionTvd": "100100339411236",
+    "regionName": "Кировская область",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 25190,
@@ -737,6 +770,9 @@ export const president_2024_tic_227_region_43 = [
     "ballot": "presidential",
     "tikTvd": "24320001716022",
     "tikName": "Орловская",
+    "regionCode": "43",
+    "regionTvd": "100100339411236",
+    "regionName": "Кировская область",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 8752,
@@ -794,6 +830,9 @@ export const president_2024_tic_227_region_43 = [
     "ballot": "presidential",
     "tikTvd": "24320001716023",
     "tikName": "Киров, Первомайская",
+    "regionCode": "43",
+    "regionTvd": "100100339411236",
+    "regionName": "Кировская область",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 68654,
@@ -872,6 +911,9 @@ export const president_2024_tic_227_region_43 = [
     "ballot": "presidential",
     "tikTvd": "24320001716024",
     "tikName": "Киров, Ленинская 1",
+    "regionCode": "43",
+    "regionTvd": "100100339411236",
+    "regionName": "Кировская область",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 94293,
@@ -962,6 +1004,9 @@ export const president_2024_tic_227_region_43 = [
     "ballot": "presidential",
     "tikTvd": "24320001716025",
     "tikName": "ЗАТО Первомайский",
+    "regionCode": "43",
+    "regionTvd": "100100339411236",
+    "regionName": "Кировская область",
     "uikCount": 4,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 2993,
@@ -1006,6 +1051,9 @@ export const president_2024_tic_227_region_43 = [
     "ballot": "presidential",
     "tikTvd": "24320001716026",
     "tikName": "Котельничская городская",
+    "regionCode": "43",
+    "regionTvd": "100100339411236",
+    "regionName": "Кировская область",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 17081,
@@ -1057,6 +1105,9 @@ export const president_2024_tic_227_region_43 = [
     "ballot": "presidential",
     "tikTvd": "24320001716027",
     "tikName": "Слободская городская",
+    "regionCode": "43",
+    "regionTvd": "100100339411236",
+    "regionName": "Кировская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 24618,
@@ -1116,6 +1167,9 @@ export const president_2024_tic_227_region_43 = [
     "ballot": "presidential",
     "tikTvd": "24320001716029",
     "tikName": "Кикнурская",
+    "regionCode": "43",
+    "regionTvd": "100100339411236",
+    "regionName": "Кировская область",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 6726,
@@ -1169,6 +1223,9 @@ export const president_2024_tic_227_region_43 = [
     "ballot": "presidential",
     "tikTvd": "24320001716030",
     "tikName": "Верхошижемская",
+    "regionCode": "43",
+    "regionTvd": "100100339411236",
+    "regionName": "Кировская область",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 5792,
@@ -1221,6 +1278,9 @@ export const president_2024_tic_227_region_43 = [
     "ballot": "presidential",
     "tikTvd": "24320001716031",
     "tikName": "Омутнинская",
+    "regionCode": "43",
+    "regionTvd": "100100339411236",
+    "regionName": "Кировская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 28245,
@@ -1292,6 +1352,9 @@ export const president_2024_tic_227_region_43 = [
     "ballot": "presidential",
     "tikTvd": "24320001716033",
     "tikName": "Пижанская",
+    "regionCode": "43",
+    "regionTvd": "100100339411236",
+    "regionName": "Кировская область",
     "uikCount": 10,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 6605,
@@ -1342,6 +1405,9 @@ export const president_2024_tic_227_region_43 = [
     "ballot": "presidential",
     "tikTvd": "24320001716034",
     "tikName": "Немская",
+    "regionCode": "43",
+    "regionTvd": "100100339411236",
+    "regionName": "Кировская область",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 4668,
@@ -1393,6 +1459,9 @@ export const president_2024_tic_227_region_43 = [
     "ballot": "presidential",
     "tikTvd": "24320001716037",
     "tikName": "Нагорская",
+    "regionCode": "43",
+    "regionTvd": "100100339411236",
+    "regionName": "Кировская область",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 6264,
@@ -1449,6 +1518,9 @@ export const president_2024_tic_227_region_43 = [
     "ballot": "presidential",
     "tikTvd": "24320001716038",
     "tikName": "Белохолуницкая",
+    "regionCode": "43",
+    "regionTvd": "100100339411236",
+    "regionName": "Кировская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 13322,
@@ -1514,6 +1586,9 @@ export const president_2024_tic_227_region_43 = [
     "ballot": "presidential",
     "tikTvd": "24320001716039",
     "tikName": "Киров, Октябрьская 1",
+    "regionCode": "43",
+    "regionTvd": "100100339411236",
+    "regionName": "Кировская область",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 68195,
@@ -1591,6 +1666,9 @@ export const president_2024_tic_227_region_43 = [
     "ballot": "presidential",
     "tikTvd": "24320001716041",
     "tikName": "Куменская",
+    "regionCode": "43",
+    "regionTvd": "100100339411236",
+    "regionName": "Кировская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 12961,
@@ -1652,6 +1730,9 @@ export const president_2024_tic_227_region_43 = [
     "ballot": "presidential",
     "tikTvd": "24320001716042",
     "tikName": "Зуевская",
+    "regionCode": "43",
+    "regionTvd": "100100339411236",
+    "regionName": "Кировская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 15026,
@@ -1720,6 +1801,9 @@ export const president_2024_tic_227_region_43 = [
     "ballot": "presidential",
     "tikTvd": "24320001716043",
     "tikName": "Кирово-Чепецкая городская",
+    "regionCode": "43",
+    "regionTvd": "100100339411236",
+    "regionName": "Кировская область",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 55927,
@@ -1801,6 +1885,9 @@ export const president_2024_tic_227_region_43 = [
     "ballot": "presidential",
     "tikTvd": "24320001716045",
     "tikName": "Опаpинская",
+    "regionCode": "43",
+    "regionTvd": "100100339411236",
+    "regionName": "Кировская область",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 5623,
@@ -1852,6 +1939,9 @@ export const president_2024_tic_227_region_43 = [
     "ballot": "presidential",
     "tikTvd": "24320001716046",
     "tikName": "Богородская",
+    "regionCode": "43",
+    "regionTvd": "100100339411236",
+    "regionName": "Кировская область",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 3114,
@@ -1905,6 +1995,9 @@ export const president_2024_tic_227_region_43 = [
     "ballot": "presidential",
     "tikTvd": "24320001716047",
     "tikName": "Лузская",
+    "regionCode": "43",
+    "regionTvd": "100100339411236",
+    "regionName": "Кировская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 11500,
@@ -1967,6 +2060,9 @@ export const president_2024_tic_227_region_43 = [
     "ballot": "presidential",
     "tikTvd": "24320001716048",
     "tikName": "Шабалинская",
+    "regionCode": "43",
+    "regionTvd": "100100339411236",
+    "regionName": "Кировская область",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 7145,
@@ -2021,6 +2117,9 @@ export const president_2024_tic_227_region_43 = [
     "ballot": "presidential",
     "tikTvd": "24320001716049",
     "tikName": "Арбажская",
+    "regionCode": "43",
+    "regionTvd": "100100339411236",
+    "regionName": "Кировская область",
     "uikCount": 9,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 4654,
@@ -2070,6 +2169,9 @@ export const president_2024_tic_227_region_43 = [
     "ballot": "presidential",
     "tikTvd": "24320001716050",
     "tikName": "Афанасьевская",
+    "regionCode": "43",
+    "regionTvd": "100100339411236",
+    "regionName": "Кировская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 8732,
@@ -2138,6 +2240,9 @@ export const president_2024_tic_227_region_43 = [
     "ballot": "presidential",
     "tikTvd": "24320001716053",
     "tikName": "Свечинская",
+    "regionCode": "43",
+    "regionTvd": "100100339411236",
+    "regionName": "Кировская область",
     "uikCount": 10,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 5373,
@@ -2188,6 +2293,9 @@ export const president_2024_tic_227_region_43 = [
     "ballot": "presidential",
     "tikTvd": "24320001716054",
     "tikName": "Киров, Октябрьская 2",
+    "regionCode": "43",
+    "regionTvd": "100100339411236",
+    "regionName": "Кировская область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 62862,
@@ -2264,6 +2372,9 @@ export const president_2024_tic_227_region_43 = [
     "ballot": "presidential",
     "tikTvd": "24320001716055",
     "tikName": "Яранская",
+    "regionCode": "43",
+    "regionTvd": "100100339411236",
+    "regionName": "Кировская область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 18271,
@@ -2340,6 +2451,9 @@ export const president_2024_tic_227_region_43 = [
     "ballot": "presidential",
     "tikTvd": "24320001716058",
     "tikName": "Кильмезская",
+    "regionCode": "43",
+    "regionTvd": "100100339411236",
+    "regionName": "Кировская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 8510,
@@ -2401,6 +2515,9 @@ export const president_2024_tic_227_region_43 = [
     "ballot": "presidential",
     "tikTvd": "24320001716060",
     "tikName": "Котельничская",
+    "regionCode": "43",
+    "regionTvd": "100100339411236",
+    "regionName": "Кировская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10010,
@@ -2463,6 +2580,9 @@ export const president_2024_tic_227_region_43 = [
     "ballot": "presidential",
     "tikTvd": "24320001716061",
     "tikName": "Кирово-Чепецкая",
+    "regionCode": "43",
+    "regionTvd": "100100339411236",
+    "regionName": "Кировская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 17393,
@@ -2521,6 +2641,9 @@ export const president_2024_tic_227_region_43 = [
     "ballot": "presidential",
     "tikTvd": "24320001716063",
     "tikName": "Вятскополянская",
+    "regionCode": "43",
+    "regionTvd": "100100339411236",
+    "regionName": "Кировская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 20569,
@@ -2595,6 +2718,9 @@ export const president_2024_tic_227_region_43 = [
     "ballot": "presidential",
     "tikTvd": "24320001716065",
     "tikName": "Фаленская",
+    "regionCode": "43",
+    "regionTvd": "100100339411236",
+    "regionName": "Кировская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 7017,
@@ -2653,6 +2779,9 @@ export const president_2024_tic_227_region_43 = [
     "ballot": "presidential",
     "tikTvd": "24320001716066",
     "tikName": "Киров, Нововятская",
+    "regionCode": "43",
+    "regionTvd": "100100339411236",
+    "regionName": "Кировская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 38144,
@@ -2711,6 +2840,9 @@ export const president_2024_tic_227_region_43 = [
     "ballot": "presidential",
     "tikTvd": "24320001716067",
     "tikName": "Юрьянская",
+    "regionCode": "43",
+    "regionTvd": "100100339411236",
+    "regionName": "Кировская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 13477,
@@ -2771,6 +2903,9 @@ export const president_2024_tic_227_region_43 = [
     "ballot": "presidential",
     "tikTvd": "24320001716068",
     "tikName": "Даровская",
+    "regionCode": "43",
+    "regionTvd": "100100339411236",
+    "regionName": "Кировская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 7112,
@@ -2829,6 +2964,9 @@ export const president_2024_tic_227_region_43 = [
     "ballot": "presidential",
     "tikTvd": "24320001716069",
     "tikName": "Слободская",
+    "regionCode": "43",
+    "regionTvd": "100100339411236",
+    "regionName": "Кировская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 23989,
@@ -2900,6 +3038,9 @@ export const president_2024_tic_227_region_43 = [
     "ballot": "presidential",
     "tikTvd": "24320001716070",
     "tikName": "Лебяжская",
+    "regionCode": "43",
+    "regionTvd": "100100339411236",
+    "regionName": "Кировская область",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 5267,
@@ -2954,6 +3095,9 @@ export const president_2024_tic_227_region_43 = [
     "ballot": "presidential",
     "tikTvd": "24320001716072",
     "tikName": "Унинская",
+    "regionCode": "43",
+    "regionTvd": "100100339411236",
+    "regionName": "Кировская область",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 5793,
@@ -3011,6 +3155,9 @@ export const president_2024_tic_227_region_43 = [
     "ballot": "presidential",
     "tikTvd": "24320001716073",
     "tikName": "Советская",
+    "regionCode": "43",
+    "regionTvd": "100100339411236",
+    "regionName": "Кировская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 18504,
@@ -3079,6 +3226,9 @@ export const president_2024_tic_227_region_43 = [
     "ballot": "presidential",
     "tikTvd": "24320001716074",
     "tikName": "Подосиновская",
+    "regionCode": "43",
+    "regionTvd": "100100339411236",
+    "regionName": "Кировская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10330,

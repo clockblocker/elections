@@ -11,6 +11,9 @@ export const president_2024_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "20520002322985",
     "tikName": "Южно-Сухокумская городская",
+    "regionCode": "5",
+    "regionTvd": "100100339411199",
+    "regionName": "Республика Дагестан",
     "uikCount": 4,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 6351,
@@ -55,6 +58,9 @@ export const president_2024_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "20520002322986",
     "tikName": "Шамильская",
+    "regionCode": "5",
+    "regionTvd": "100100339411199",
+    "regionName": "Республика Дагестан",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 20752,
@@ -137,6 +143,9 @@ export const president_2024_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "20520002322987",
     "tikName": "Чародинская",
+    "regionCode": "5",
+    "regionTvd": "100100339411199",
+    "regionName": "Республика Дагестан",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9041,
@@ -209,6 +218,9 @@ export const president_2024_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "20520002322988",
     "tikName": "Цунтинская",
+    "regionCode": "5",
+    "regionTvd": "100100339411199",
+    "regionName": "Республика Дагестан",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 8255,
@@ -283,6 +295,9 @@ export const president_2024_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "20520002322989",
     "tikName": "Цумадинская",
+    "regionCode": "5",
+    "regionTvd": "100100339411199",
+    "regionName": "Республика Дагестан",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 15568,
@@ -367,6 +382,9 @@ export const president_2024_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "20520002322990",
     "tikName": "Хунзахская",
+    "regionCode": "5",
+    "regionTvd": "100100339411199",
+    "regionName": "Республика Дагестан",
     "uikCount": 56,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 21832,
@@ -463,6 +481,9 @@ export const president_2024_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "20520002322991",
     "tikName": "Хивская",
+    "regionCode": "5",
+    "regionTvd": "100100339411199",
+    "regionName": "Республика Дагестан",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 13189,
@@ -538,6 +559,9 @@ export const president_2024_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "20520002322992",
     "tikName": "Хасавюртовская городская",
+    "regionCode": "5",
+    "regionTvd": "100100339411199",
+    "regionName": "Республика Дагестан",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 68739,
@@ -618,6 +642,9 @@ export const president_2024_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "20520002322993",
     "tikName": "Хасавюртовская",
+    "regionCode": "5",
+    "regionTvd": "100100339411199",
+    "regionName": "Республика Дагестан",
     "uikCount": 72,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 101587,
@@ -730,6 +757,9 @@ export const president_2024_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "20520002322994",
     "tikName": "Унцукульская",
+    "regionCode": "5",
+    "regionTvd": "100100339411199",
+    "regionName": "Республика Дагестан",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 15548,
@@ -799,6 +829,9 @@ export const president_2024_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "20520002322995",
     "tikName": "Тляратинская",
+    "regionCode": "5",
+    "regionTvd": "100100339411199",
+    "regionName": "Республика Дагестан",
     "uikCount": 56,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 16938,
@@ -895,6 +928,9 @@ export const president_2024_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "20520002322996",
     "tikName": "Тарумовская",
+    "regionCode": "5",
+    "regionTvd": "100100339411199",
+    "regionName": "Республика Дагестан",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 21636,
@@ -955,6 +991,9 @@ export const president_2024_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "20520002322997",
     "tikName": "Табасаранская",
+    "regionCode": "5",
+    "regionTvd": "100100339411199",
+    "regionName": "Республика Дагестан",
     "uikCount": 66,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 34370,
@@ -1061,6 +1100,9 @@ export const president_2024_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "20520002322998",
     "tikName": "Сулейман-Стальская",
+    "regionCode": "5",
+    "regionTvd": "100100339411199",
+    "regionName": "Республика Дагестан",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 34993,
@@ -1143,6 +1185,9 @@ export const president_2024_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "20520002322999",
     "tikName": "Сергокалинская",
+    "regionCode": "5",
+    "regionTvd": "100100339411199",
+    "regionName": "Республика Дагестан",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 20160,
@@ -1212,6 +1257,9 @@ export const president_2024_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "20520002323000",
     "tikName": "Рутульская",
+    "regionCode": "5",
+    "regionTvd": "100100339411199",
+    "regionName": "Республика Дагестан",
     "uikCount": 47,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 14917,
@@ -1299,6 +1347,9 @@ export const president_2024_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "20520002323001",
     "tikName": "Ногайская",
+    "regionCode": "5",
+    "regionTvd": "100100339411199",
+    "regionName": "Республика Дагестан",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 13293,
@@ -1359,6 +1410,9 @@ export const president_2024_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "20520002323002",
     "tikName": "Новолакская",
+    "regionCode": "5",
+    "regionTvd": "100100339411199",
+    "regionName": "Республика Дагестан",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 23450,
@@ -1424,6 +1478,9 @@ export const president_2024_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "20520002323003",
     "tikName": "Махачкала, Советская",
+    "regionCode": "5",
+    "regionTvd": "100100339411199",
+    "regionName": "Республика Дагестан",
     "uikCount": 63,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 91659,
@@ -1527,6 +1584,9 @@ export const president_2024_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "20520002323004",
     "tikName": "Махачкала, Ленинская",
+    "regionCode": "5",
+    "regionTvd": "100100339411199",
+    "regionName": "Республика Дагестан",
     "uikCount": 57,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 94980,
@@ -1624,6 +1684,9 @@ export const president_2024_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "20520002323005",
     "tikName": "Махачкала, Кировская",
+    "regionCode": "5",
+    "regionTvd": "100100339411199",
+    "regionName": "Республика Дагестан",
     "uikCount": 56,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 93385,
@@ -1720,6 +1783,9 @@ export const president_2024_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "20520002323006",
     "tikName": "Магарамкентская",
+    "regionCode": "5",
+    "regionTvd": "100100339411199",
+    "regionName": "Республика Дагестан",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 39323,
@@ -1798,6 +1864,9 @@ export const president_2024_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "20520002323007",
     "tikName": "Левашинская",
+    "regionCode": "5",
+    "regionTvd": "100100339411199",
+    "regionName": "Республика Дагестан",
     "uikCount": 53,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 52962,
@@ -1891,6 +1960,9 @@ export const president_2024_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "20520002323008",
     "tikName": "Лакская",
+    "regionCode": "5",
+    "regionTvd": "100100339411199",
+    "regionName": "Республика Дагестан",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 7611,
@@ -1957,6 +2029,9 @@ export const president_2024_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "20520002323009",
     "tikName": "Курахская",
+    "regionCode": "5",
+    "regionTvd": "100100339411199",
+    "regionName": "Республика Дагестан",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9892,
@@ -2022,6 +2097,9 @@ export const president_2024_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "20520002323010",
     "tikName": "Кумторкалинская",
+    "regionCode": "5",
+    "regionTvd": "100100339411199",
+    "regionName": "Республика Дагестан",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 16842,
@@ -2074,6 +2152,9 @@ export const president_2024_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "20520002323011",
     "tikName": "Кулинская",
+    "regionCode": "5",
+    "regionTvd": "100100339411199",
+    "regionName": "Республика Дагестан",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 7293,
@@ -2128,6 +2209,9 @@ export const president_2024_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "20520002323012",
     "tikName": "Кизлярская городская",
+    "regionCode": "5",
+    "regionTvd": "100100339411199",
+    "regionName": "Республика Дагестан",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 26118,
@@ -2185,6 +2269,9 @@ export const president_2024_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "20520002323013",
     "tikName": "Кизлярская",
+    "regionCode": "5",
+    "regionTvd": "100100339411199",
+    "regionName": "Республика Дагестан",
     "uikCount": 55,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 46314,
@@ -2280,6 +2367,9 @@ export const president_2024_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "20520002323014",
     "tikName": "Кизилюртовская городская",
+    "regionCode": "5",
+    "regionTvd": "100100339411199",
+    "regionName": "Республика Дагестан",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 25331,
@@ -2341,6 +2431,9 @@ export const president_2024_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "20520002323015",
     "tikName": "Кизилюртовская",
+    "regionCode": "5",
+    "regionTvd": "100100339411199",
+    "regionName": "Республика Дагестан",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 44838,
@@ -2417,6 +2510,9 @@ export const president_2024_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "20520002323016",
     "tikName": "Каякентская",
+    "regionCode": "5",
+    "regionTvd": "100100339411199",
+    "regionName": "Республика Дагестан",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 35312,
@@ -2485,6 +2581,9 @@ export const president_2024_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "20520002323017",
     "tikName": "Каспийская городская",
+    "regionCode": "5",
+    "regionTvd": "100100339411199",
+    "regionName": "Республика Дагестан",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 63047,
@@ -2556,6 +2655,9 @@ export const president_2024_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "20520002323018",
     "tikName": "Карабудахкентская",
+    "regionCode": "5",
+    "regionTvd": "100100339411199",
+    "regionName": "Республика Дагестан",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 52336,
@@ -2629,6 +2731,9 @@ export const president_2024_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "20520002323019",
     "tikName": "Кайтагская",
+    "regionCode": "5",
+    "regionTvd": "100100339411199",
+    "regionName": "Республика Дагестан",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 22031,
@@ -2707,6 +2812,9 @@ export const president_2024_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "20520002323020",
     "tikName": "Казбековская",
+    "regionCode": "5",
+    "regionTvd": "100100339411199",
+    "regionName": "Республика Дагестан",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 32398,
@@ -2777,6 +2885,9 @@ export const president_2024_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "20520002323021",
     "tikName": "Избербашская городская",
+    "regionCode": "5",
+    "regionTvd": "100100339411199",
+    "regionName": "Республика Дагестан",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 31554,
@@ -2835,6 +2946,9 @@ export const president_2024_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "20520002323022",
     "tikName": "Докузпаринская",
+    "regionCode": "5",
+    "regionTvd": "100100339411199",
+    "regionName": "Республика Дагестан",
     "uikCount": 10,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10250,
@@ -2885,6 +2999,9 @@ export const president_2024_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "20520002323023",
     "tikName": "Дербентская городская",
+    "regionCode": "5",
+    "regionTvd": "100100339411199",
+    "regionName": "Республика Дагестан",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 69113,
@@ -2967,6 +3084,9 @@ export const president_2024_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "20520002323024",
     "tikName": "Дербентская",
+    "regionCode": "5",
+    "regionTvd": "100100339411199",
+    "regionName": "Республика Дагестан",
     "uikCount": 47,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 67727,
@@ -3054,6 +3174,9 @@ export const president_2024_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "20520002323025",
     "tikName": "Дахадаевская",
+    "regionCode": "5",
+    "regionTvd": "100100339411199",
+    "regionName": "Республика Дагестан",
     "uikCount": 54,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 25270,
@@ -3148,6 +3271,9 @@ export const president_2024_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "20520002323026",
     "tikName": "Дагогнинская городская",
+    "regionCode": "5",
+    "regionTvd": "100100339411199",
+    "regionName": "Республика Дагестан",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 22778,
@@ -3200,6 +3326,9 @@ export const president_2024_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "20520002323027",
     "tikName": "Гунибская",
+    "regionCode": "5",
+    "regionTvd": "100100339411199",
+    "regionName": "Республика Дагестан",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 15943,
@@ -3280,6 +3409,9 @@ export const president_2024_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "20520002323028",
     "tikName": "Гумбетовская",
+    "regionCode": "5",
+    "regionTvd": "100100339411199",
+    "regionName": "Республика Дагестан",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10972,
@@ -3348,6 +3480,9 @@ export const president_2024_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "20520002323029",
     "tikName": "Гергебильская",
+    "regionCode": "5",
+    "regionTvd": "100100339411199",
+    "regionName": "Республика Дагестан",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 13626,
@@ -3401,6 +3536,9 @@ export const president_2024_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "20520002323030",
     "tikName": "Буйнакская городская",
+    "regionCode": "5",
+    "regionTvd": "100100339411199",
+    "regionName": "Республика Дагестан",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 38929,
@@ -3466,6 +3604,9 @@ export const president_2024_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "20520002323031",
     "tikName": "Буйнакская",
+    "regionCode": "5",
+    "regionTvd": "100100339411199",
+    "regionName": "Республика Дагестан",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 47997,
@@ -3542,6 +3683,9 @@ export const president_2024_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "20520002323032",
     "tikName": "Ботлихская",
+    "regionCode": "5",
+    "regionTvd": "100100339411199",
+    "regionName": "Республика Дагестан",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 28866,
@@ -3626,6 +3770,9 @@ export const president_2024_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "20520002323033",
     "tikName": "Бежтинская",
+    "regionCode": "5",
+    "regionTvd": "100100339411199",
+    "regionName": "Республика Дагестан",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 6021,
@@ -3678,6 +3825,9 @@ export const president_2024_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "20520002323034",
     "tikName": "Бабаюртовская",
+    "regionCode": "5",
+    "regionTvd": "100100339411199",
+    "regionName": "Республика Дагестан",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 28457,
@@ -3743,6 +3893,9 @@ export const president_2024_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "20520002323035",
     "tikName": "Ахтынская",
+    "regionCode": "5",
+    "regionTvd": "100100339411199",
+    "regionName": "Республика Дагестан",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 17069,
@@ -3811,6 +3964,9 @@ export const president_2024_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "20520002323036",
     "tikName": "Ахвахская",
+    "regionCode": "5",
+    "regionTvd": "100100339411199",
+    "regionName": "Республика Дагестан",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 15050,
@@ -3885,6 +4041,9 @@ export const president_2024_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "20520002323037",
     "tikName": "Акушинская",
+    "regionCode": "5",
+    "regionTvd": "100100339411199",
+    "regionName": "Республика Дагестан",
     "uikCount": 51,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 30859,
@@ -3976,6 +4135,9 @@ export const president_2024_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "20520002323038",
     "tikName": "Агульская",
+    "regionCode": "5",
+    "regionTvd": "100100339411199",
+    "regionName": "Республика Дагестан",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 5417,

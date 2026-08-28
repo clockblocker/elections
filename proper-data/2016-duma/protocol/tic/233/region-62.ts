@@ -11,6 +11,9 @@ export const duma_2016_tic_233_region_62 = [
     "ballot": "party",
     "tikTvd": "2622000633349",
     "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "100100067796059",
+    "regionName": "Рязанская область",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 32397,
@@ -117,6 +120,9 @@ export const duma_2016_tic_233_region_62 = [
     "ballot": "party",
     "tikTvd": "2622000633350",
     "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "100100067796059",
+    "regionName": "Рязанская область",
     "uikCount": 49,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 19530,
@@ -222,6 +228,9 @@ export const duma_2016_tic_233_region_62 = [
     "ballot": "party",
     "tikTvd": "2622000633351",
     "tikName": "Чучковская",
+    "regionCode": "62",
+    "regionTvd": "100100067796059",
+    "regionName": "Рязанская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 6818,
@@ -297,6 +306,9 @@ export const duma_2016_tic_233_region_62 = [
     "ballot": "party",
     "tikTvd": "2622000633352",
     "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "100100067796059",
+    "regionName": "Рязанская область",
     "uikCount": 48,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 24441,
@@ -401,6 +413,9 @@ export const duma_2016_tic_233_region_62 = [
     "ballot": "party",
     "tikTvd": "2622000633353",
     "tikName": "Сасовская городская",
+    "regionCode": "62",
+    "regionTvd": "100100067796059",
+    "regionName": "Рязанская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 24399,
@@ -477,6 +492,9 @@ export const duma_2016_tic_233_region_62 = [
     "ballot": "party",
     "tikTvd": "2622000633354",
     "tikName": "Cacовская",
+    "regionCode": "62",
+    "regionTvd": "100100067796059",
+    "regionName": "Рязанская область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 14430,
@@ -569,6 +587,9 @@ export const duma_2016_tic_233_region_62 = [
     "ballot": "party",
     "tikTvd": "2622000633355",
     "tikName": "Cараевская",
+    "regionCode": "62",
+    "regionTvd": "100100067796059",
+    "regionName": "Рязанская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 15032,
@@ -659,6 +680,9 @@ export const duma_2016_tic_233_region_62 = [
     "ballot": "party",
     "tikTvd": "2622000633356",
     "tikName": "Рязань, Советская",
+    "regionCode": "62",
+    "regionTvd": "100100067796059",
+    "regionName": "Рязанская область",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 65351,
@@ -748,6 +772,9 @@ export const duma_2016_tic_233_region_62 = [
     "ballot": "party",
     "tikTvd": "2622000633357",
     "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "100100067796059",
+    "regionName": "Рязанская область",
     "uikCount": 60,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 140903,
@@ -864,6 +891,9 @@ export const duma_2016_tic_233_region_62 = [
     "ballot": "party",
     "tikTvd": "2622000633359",
     "tikName": "Путятинская",
+    "regionCode": "62",
+    "regionTvd": "100100067796059",
+    "regionName": "Рязанская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 6655,
@@ -938,6 +968,9 @@ export const duma_2016_tic_233_region_62 = [
     "ballot": "party",
     "tikTvd": "2622000633360",
     "tikName": "Пителинская",
+    "regionCode": "62",
+    "regionTvd": "100100067796059",
+    "regionName": "Рязанская область",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 4681,
@@ -1010,6 +1043,9 @@ export const duma_2016_tic_233_region_62 = [
     "ballot": "party",
     "tikTvd": "2622000633361",
     "tikName": "Kлепиковская",
+    "regionCode": "62",
+    "regionTvd": "100100067796059",
+    "regionName": "Рязанская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 20463,
@@ -1096,6 +1132,9 @@ export const duma_2016_tic_233_region_62 = [
     "ballot": "party",
     "tikTvd": "2622000633362",
     "tikName": "Касимовская городская",
+    "regionCode": "62",
+    "regionTvd": "100100067796059",
+    "regionName": "Рязанская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 27048,
@@ -1174,6 +1213,9 @@ export const duma_2016_tic_233_region_62 = [
     "ballot": "party",
     "tikTvd": "2622000633363",
     "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "100100067796059",
+    "regionName": "Рязанская область",
     "uikCount": 48,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 24202,
@@ -1278,6 +1320,9 @@ export const duma_2016_tic_233_region_62 = [
     "ballot": "party",
     "tikTvd": "2622000633364",
     "tikName": "Кадомская",
+    "regionCode": "62",
+    "regionTvd": "100100067796059",
+    "regionName": "Рязанская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 6614,
@@ -1354,6 +1399,9 @@ export const duma_2016_tic_233_region_62 = [
     "ballot": "party",
     "tikTvd": "2622000633365",
     "tikName": "Ермишинская",
+    "regionCode": "62",
+    "regionTvd": "100100067796059",
+    "regionName": "Рязанская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 6961,
@@ -1428,6 +1476,9 @@ export const duma_2016_tic_233_region_62 = [
     "ballot": "party",
     "tikTvd": "2622000633367",
     "tikName": "Ухоловская",
+    "regionCode": "62",
+    "regionTvd": "100100067796059",
+    "regionName": "Рязанская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 8473,
@@ -1504,6 +1555,9 @@ export const duma_2016_tic_233_region_62 = [
     "ballot": "party",
     "tikTvd": "2622000633368",
     "tikName": "Старожиловская",
+    "regionCode": "62",
+    "regionTvd": "100100067796059",
+    "regionName": "Рязанская область",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 13305,
@@ -1576,6 +1630,9 @@ export const duma_2016_tic_233_region_62 = [
     "ballot": "party",
     "tikTvd": "2622000633369",
     "tikName": "Скопинская городская",
+    "regionCode": "62",
+    "regionTvd": "100100067796059",
+    "regionName": "Рязанская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 23307,
@@ -1650,6 +1707,9 @@ export const duma_2016_tic_233_region_62 = [
     "ballot": "party",
     "tikTvd": "2622000633370",
     "tikName": "Скопинская",
+    "regionCode": "62",
+    "regionTvd": "100100067796059",
+    "regionName": "Рязанская область",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 22154,
@@ -1741,6 +1801,9 @@ export const duma_2016_tic_233_region_62 = [
     "ballot": "party",
     "tikTvd": "2622000633371",
     "tikName": "Сапожковская",
+    "regionCode": "62",
+    "regionTvd": "100100067796059",
+    "regionName": "Рязанская область",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 8749,
@@ -1814,6 +1877,9 @@ export const duma_2016_tic_233_region_62 = [
     "ballot": "party",
     "tikTvd": "2622000633372",
     "tikName": "Рязань, Октябрьская",
+    "regionCode": "62",
+    "regionTvd": "100100067796059",
+    "regionName": "Рязанская область",
     "uikCount": 49,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 112078,
@@ -1919,6 +1985,9 @@ export const duma_2016_tic_233_region_62 = [
     "ballot": "party",
     "tikTvd": "2622000633373",
     "tikName": "Рязань, Железнодорожная",
+    "regionCode": "62",
+    "regionTvd": "100100067796059",
+    "regionName": "Рязанская область",
     "uikCount": 51,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 108173,
@@ -2026,6 +2095,9 @@ export const duma_2016_tic_233_region_62 = [
     "ballot": "party",
     "tikTvd": "2622000633374",
     "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "100100067796059",
+    "regionName": "Рязанская область",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 23606,
@@ -2114,6 +2186,9 @@ export const duma_2016_tic_233_region_62 = [
     "ballot": "party",
     "tikTvd": "2622000633375",
     "tikName": "Рыбновская",
+    "regionCode": "62",
+    "regionTvd": "100100067796059",
+    "regionName": "Рязанская область",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 28717,
@@ -2208,6 +2283,9 @@ export const duma_2016_tic_233_region_62 = [
     "ballot": "party",
     "tikTvd": "2622000633376",
     "tikName": "Пронская",
+    "regionCode": "62",
+    "regionTvd": "100100067796059",
+    "regionName": "Рязанская область",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 27021,
@@ -2296,6 +2374,9 @@ export const duma_2016_tic_233_region_62 = [
     "ballot": "party",
     "tikTvd": "2622000633377",
     "tikName": "Александро-Невская",
+    "regionCode": "62",
+    "regionTvd": "100100067796059",
+    "regionName": "Рязанская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 8813,
@@ -2374,6 +2455,9 @@ export const duma_2016_tic_233_region_62 = [
     "ballot": "party",
     "tikTvd": "2622000633378",
     "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "100100067796059",
+    "regionName": "Рязанская область",
     "uikCount": 56,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 27096,
@@ -2486,6 +2570,9 @@ export const duma_2016_tic_233_region_62 = [
     "ballot": "party",
     "tikTvd": "2622000633379",
     "tikName": "Милославская",
+    "regionCode": "62",
+    "regionTvd": "100100067796059",
+    "regionName": "Рязанская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 10946,
@@ -2565,6 +2652,9 @@ export const duma_2016_tic_233_region_62 = [
     "ballot": "party",
     "tikTvd": "2622000633380",
     "tikName": "Кораблинская",
+    "regionCode": "62",
+    "regionTvd": "100100067796059",
+    "regionName": "Рязанская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 18934,
@@ -2651,6 +2741,9 @@ export const duma_2016_tic_233_region_62 = [
     "ballot": "party",
     "tikTvd": "2622000633381",
     "tikName": "Захаровская",
+    "regionCode": "62",
+    "regionTvd": "100100067796059",
+    "regionName": "Рязанская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 8204,
@@ -2726,6 +2819,9 @@ export const duma_2016_tic_233_region_62 = [
     "ballot": "party",
     "tikTvd": "2622000634104",
     "tikName": "Рязанская - 156",
+    "regionCode": "62",
+    "regionTvd": "100100067796059",
+    "regionName": "Рязанская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 28360,
@@ -2811,6 +2907,9 @@ export const duma_2016_tic_233_region_62 = [
     "ballot": "party",
     "tikTvd": "2622000634105",
     "tikName": "Рязанская - 157",
+    "regionCode": "62",
+    "regionTvd": "100100067796059",
+    "regionName": "Рязанская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 18129,

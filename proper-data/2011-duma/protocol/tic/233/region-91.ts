@@ -11,6 +11,9 @@ export const duma_2011_tic_233_region_91 = [
     "ballot": "party",
     "tikTvd": "2412000214202",
     "tikName": "Алеутская",
+    "regionCode": "91",
+    "regionTvd": "100100028713483",
+    "regionName": "Камчатский край",
     "uikCount": 1,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 586,
@@ -61,6 +64,9 @@ export const duma_2011_tic_233_region_91 = [
     "ballot": "party",
     "tikTvd": "2412000214203",
     "tikName": "Быстринская",
+    "regionCode": "91",
+    "regionTvd": "100100028713483",
+    "regionName": "Камчатский край",
     "uikCount": 2,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 2013,
@@ -112,6 +118,9 @@ export const duma_2011_tic_233_region_91 = [
     "ballot": "party",
     "tikTvd": "2412000214204",
     "tikName": "Вилючинская ",
+    "regionCode": "91",
+    "regionTvd": "100100028713483",
+    "regionName": "Камчатский край",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 17989,
@@ -177,6 +186,9 @@ export const duma_2011_tic_233_region_91 = [
     "ballot": "party",
     "tikTvd": "2412000214205",
     "tikName": "Елизовская",
+    "regionCode": "91",
+    "regionTvd": "100100028713483",
+    "regionName": "Камчатский край",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 50312,
@@ -261,6 +273,9 @@ export const duma_2011_tic_233_region_91 = [
     "ballot": "party",
     "tikTvd": "2412000214206",
     "tikName": "Мильковская",
+    "regionCode": "91",
+    "regionTvd": "100100028713483",
+    "regionName": "Камчатский край",
     "uikCount": 10,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 7861,
@@ -320,6 +335,9 @@ export const duma_2011_tic_233_region_91 = [
     "ballot": "party",
     "tikTvd": "2412000214207",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100028713483",
+    "regionName": "Камчатский край",
     "uikCount": 84,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 142756,
@@ -453,6 +471,9 @@ export const duma_2011_tic_233_region_91 = [
     "ballot": "party",
     "tikTvd": "2412000214208",
     "tikName": "Тигильская",
+    "regionCode": "91",
+    "regionTvd": "100100028713483",
+    "regionName": "Камчатский край",
     "uikCount": 8,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 5279,
@@ -510,6 +531,9 @@ export const duma_2011_tic_233_region_91 = [
     "ballot": "party",
     "tikTvd": "2412000214209",
     "tikName": "Пенжинская",
+    "regionCode": "91",
+    "regionTvd": "100100028713483",
+    "regionName": "Камчатский край",
     "uikCount": 7,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 1597,
@@ -566,6 +590,9 @@ export const duma_2011_tic_233_region_91 = [
     "ballot": "party",
     "tikTvd": "2412000214210",
     "tikName": "Олюторская",
+    "regionCode": "91",
+    "regionTvd": "100100028713483",
+    "regionName": "Камчатский край",
     "uikCount": 8,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 3521,
@@ -623,6 +650,9 @@ export const duma_2011_tic_233_region_91 = [
     "ballot": "party",
     "tikTvd": "2412000214211",
     "tikName": "Карагинская",
+    "regionCode": "91",
+    "regionTvd": "100100028713483",
+    "regionName": "Камчатский край",
     "uikCount": 6,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 3426,
@@ -678,6 +708,9 @@ export const duma_2011_tic_233_region_91 = [
     "ballot": "party",
     "tikTvd": "2412000214212",
     "tikName": "Усть-Камчатская",
+    "regionCode": "91",
+    "regionTvd": "100100028713483",
+    "regionName": "Камчатский край",
     "uikCount": 8,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 9106,
@@ -735,6 +768,9 @@ export const duma_2011_tic_233_region_91 = [
     "ballot": "party",
     "tikTvd": "2412000214213",
     "tikName": "Усть-Большерецкая",
+    "regionCode": "91",
+    "regionTvd": "100100028713483",
+    "regionName": "Камчатский край",
     "uikCount": 7,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 6024,
@@ -791,6 +827,9 @@ export const duma_2011_tic_233_region_91 = [
     "ballot": "party",
     "tikTvd": "2412000214214",
     "tikName": "Соболевская",
+    "regionCode": "91",
+    "regionTvd": "100100028713483",
+    "regionName": "Камчатский край",
     "uikCount": 4,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 2117,
@@ -844,6 +883,9 @@ export const duma_2011_tic_233_region_91 = [
     "ballot": "party",
     "tikTvd": "2412000214215",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100028713483",
+    "regionName": "Камчатский край",
     "uikCount": 110,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 4632,

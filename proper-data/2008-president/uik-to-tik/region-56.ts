@@ -7,11053 +7,20263 @@ export const president_2008_uik_to_tik_region_56 = [
   {
     "uikNumber": 1,
     "uikTvd": "456400192854",
+    "uikName": "УИК №1",
     "tikTvd": "2562000211368",
-    "tikName": "Абдулинская"
+    "tikName": "Абдулинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 2,
     "uikTvd": "456400192855",
+    "uikName": "УИК №2",
     "tikTvd": "2562000211368",
-    "tikName": "Абдулинская"
+    "tikName": "Абдулинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 3,
     "uikTvd": "456400192856",
+    "uikName": "УИК №3",
     "tikTvd": "2562000211368",
-    "tikName": "Абдулинская"
+    "tikName": "Абдулинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 4,
     "uikTvd": "456400192857",
+    "uikName": "УИК №4",
     "tikTvd": "2562000211368",
-    "tikName": "Абдулинская"
+    "tikName": "Абдулинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 5,
     "uikTvd": "456400192858",
+    "uikName": "УИК №5",
     "tikTvd": "2562000211368",
-    "tikName": "Абдулинская"
+    "tikName": "Абдулинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 6,
     "uikTvd": "456400192859",
+    "uikName": "УИК №6",
     "tikTvd": "2562000211368",
-    "tikName": "Абдулинская"
+    "tikName": "Абдулинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 7,
     "uikTvd": "456400192860",
+    "uikName": "УИК №7",
     "tikTvd": "2562000211368",
-    "tikName": "Абдулинская"
+    "tikName": "Абдулинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 8,
     "uikTvd": "456400192861",
+    "uikName": "УИК №8",
     "tikTvd": "2562000211368",
-    "tikName": "Абдулинская"
+    "tikName": "Абдулинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 9,
     "uikTvd": "456400192862",
+    "uikName": "УИК №9",
     "tikTvd": "2562000211368",
-    "tikName": "Абдулинская"
+    "tikName": "Абдулинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 10,
     "uikTvd": "456400192863",
+    "uikName": "УИК №10",
     "tikTvd": "2562000211368",
-    "tikName": "Абдулинская"
+    "tikName": "Абдулинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 11,
     "uikTvd": "456400192864",
+    "uikName": "УИК №11",
     "tikTvd": "2562000211368",
-    "tikName": "Абдулинская"
+    "tikName": "Абдулинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 12,
     "uikTvd": "456400192865",
+    "uikName": "УИК №12",
     "tikTvd": "2562000211368",
-    "tikName": "Абдулинская"
+    "tikName": "Абдулинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 13,
     "uikTvd": "456400192866",
+    "uikName": "УИК №13",
     "tikTvd": "2562000211368",
-    "tikName": "Абдулинская"
+    "tikName": "Абдулинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 14,
     "uikTvd": "456400192867",
+    "uikName": "УИК №14",
     "tikTvd": "2562000211368",
-    "tikName": "Абдулинская"
+    "tikName": "Абдулинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 15,
     "uikTvd": "456400192868",
+    "uikName": "УИК №15",
     "tikTvd": "2562000211368",
-    "tikName": "Абдулинская"
+    "tikName": "Абдулинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 16,
     "uikTvd": "456400192869",
+    "uikName": "УИК №16",
     "tikTvd": "2562000211368",
-    "tikName": "Абдулинская"
+    "tikName": "Абдулинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 17,
     "uikTvd": "456400192870",
+    "uikName": "УИК №17",
     "tikTvd": "2562000211368",
-    "tikName": "Абдулинская"
+    "tikName": "Абдулинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 18,
     "uikTvd": "456400192871",
+    "uikName": "УИК №18",
     "tikTvd": "2562000211368",
-    "tikName": "Абдулинская"
+    "tikName": "Абдулинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 19,
     "uikTvd": "456400192872",
+    "uikName": "УИК №19",
     "tikTvd": "2562000211368",
-    "tikName": "Абдулинская"
+    "tikName": "Абдулинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 20,
     "uikTvd": "456400192873",
+    "uikName": "УИК №20",
     "tikTvd": "2562000211368",
-    "tikName": "Абдулинская"
+    "tikName": "Абдулинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 21,
     "uikTvd": "456400192874",
+    "uikName": "УИК №21",
     "tikTvd": "2562000211368",
-    "tikName": "Абдулинская"
+    "tikName": "Абдулинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 22,
     "uikTvd": "456400192875",
+    "uikName": "УИК №22",
     "tikTvd": "2562000211368",
-    "tikName": "Абдулинская"
+    "tikName": "Абдулинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 23,
     "uikTvd": "456400192876",
+    "uikName": "УИК №23",
     "tikTvd": "2562000211368",
-    "tikName": "Абдулинская"
+    "tikName": "Абдулинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 24,
     "uikTvd": "456400192877",
+    "uikName": "УИК №24",
     "tikTvd": "2562000211368",
-    "tikName": "Абдулинская"
+    "tikName": "Абдулинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 25,
     "uikTvd": "456400192878",
+    "uikName": "УИК №25",
     "tikTvd": "2562000211368",
-    "tikName": "Абдулинская"
+    "tikName": "Абдулинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 26,
     "uikTvd": "456400192879",
+    "uikName": "УИК №26",
     "tikTvd": "2562000211368",
-    "tikName": "Абдулинская"
+    "tikName": "Абдулинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 27,
     "uikTvd": "456400192880",
+    "uikName": "УИК №27",
     "tikTvd": "2562000211368",
-    "tikName": "Абдулинская"
+    "tikName": "Абдулинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 28,
     "uikTvd": "456400192881",
+    "uikName": "УИК №28",
     "tikTvd": "2562000211368",
-    "tikName": "Абдулинская"
+    "tikName": "Абдулинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 29,
     "uikTvd": "456400192882",
+    "uikName": "УИК №29",
     "tikTvd": "2562000211368",
-    "tikName": "Абдулинская"
+    "tikName": "Абдулинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 30,
     "uikTvd": "456400192883",
+    "uikName": "УИК №30",
     "tikTvd": "2562000211368",
-    "tikName": "Абдулинская"
+    "tikName": "Абдулинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 31,
     "uikTvd": "456400192884",
+    "uikName": "УИК №31",
     "tikTvd": "2562000211368",
-    "tikName": "Абдулинская"
+    "tikName": "Абдулинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 32,
     "uikTvd": "456400192885",
+    "uikName": "УИК №32",
     "tikTvd": "2562000211368",
-    "tikName": "Абдулинская"
+    "tikName": "Абдулинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 33,
     "uikTvd": "456400192886",
+    "uikName": "УИК №33",
     "tikTvd": "2562000211368",
-    "tikName": "Абдулинская"
+    "tikName": "Абдулинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 34,
     "uikTvd": "456400192887",
+    "uikName": "УИК №34",
     "tikTvd": "2562000211368",
-    "tikName": "Абдулинская"
+    "tikName": "Абдулинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 35,
     "uikTvd": "456400192888",
+    "uikName": "УИК №35",
     "tikTvd": "2562000211368",
-    "tikName": "Абдулинская"
+    "tikName": "Абдулинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 36,
     "uikTvd": "456400192889",
+    "uikName": "УИК №36",
     "tikTvd": "2562000211368",
-    "tikName": "Абдулинская"
+    "tikName": "Абдулинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 37,
     "uikTvd": "456400192890",
+    "uikName": "УИК №37",
     "tikTvd": "2562000211368",
-    "tikName": "Абдулинская"
+    "tikName": "Абдулинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 38,
     "uikTvd": "456400192891",
+    "uikName": "УИК №38",
     "tikTvd": "2562000211368",
-    "tikName": "Абдулинская"
+    "tikName": "Абдулинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 39,
     "uikTvd": "456400192892",
+    "uikName": "УИК №39",
     "tikTvd": "2562000211368",
-    "tikName": "Абдулинская"
+    "tikName": "Абдулинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 40,
     "uikTvd": "456400192893",
+    "uikName": "УИК №40",
     "tikTvd": "2562000211368",
-    "tikName": "Абдулинская"
+    "tikName": "Абдулинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 41,
     "uikTvd": "456400192894",
+    "uikName": "УИК №41",
     "tikTvd": "2562000211368",
-    "tikName": "Абдулинская"
+    "tikName": "Абдулинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 42,
     "uikTvd": "456400192895",
+    "uikName": "УИК №42",
     "tikTvd": "2562000211368",
-    "tikName": "Абдулинская"
+    "tikName": "Абдулинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 43,
     "uikTvd": "456400192896",
+    "uikName": "УИК №43",
     "tikTvd": "2562000211368",
-    "tikName": "Абдулинская"
+    "tikName": "Абдулинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 44,
     "uikTvd": "456400289134",
+    "uikName": "УИК №44",
     "tikTvd": "2562000211366",
-    "tikName": "Адамовская"
+    "tikName": "Адамовская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 45,
     "uikTvd": "456400289135",
+    "uikName": "УИК №45",
     "tikTvd": "2562000211366",
-    "tikName": "Адамовская"
+    "tikName": "Адамовская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 46,
     "uikTvd": "456400289136",
+    "uikName": "УИК №46",
     "tikTvd": "2562000211366",
-    "tikName": "Адамовская"
+    "tikName": "Адамовская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 47,
     "uikTvd": "456400289137",
+    "uikName": "УИК №47",
     "tikTvd": "2562000211366",
-    "tikName": "Адамовская"
+    "tikName": "Адамовская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 48,
     "uikTvd": "456400289138",
+    "uikName": "УИК №48",
     "tikTvd": "2562000211366",
-    "tikName": "Адамовская"
+    "tikName": "Адамовская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 49,
     "uikTvd": "456400289139",
+    "uikName": "УИК №49",
     "tikTvd": "2562000211366",
-    "tikName": "Адамовская"
+    "tikName": "Адамовская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 50,
     "uikTvd": "456400289140",
+    "uikName": "УИК №50",
     "tikTvd": "2562000211366",
-    "tikName": "Адамовская"
+    "tikName": "Адамовская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 51,
     "uikTvd": "456400289141",
+    "uikName": "УИК №51",
     "tikTvd": "2562000211366",
-    "tikName": "Адамовская"
+    "tikName": "Адамовская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 52,
     "uikTvd": "456400289142",
+    "uikName": "УИК №52",
     "tikTvd": "2562000211366",
-    "tikName": "Адамовская"
+    "tikName": "Адамовская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 53,
     "uikTvd": "456400289143",
+    "uikName": "УИК №53",
     "tikTvd": "2562000211366",
-    "tikName": "Адамовская"
+    "tikName": "Адамовская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 54,
     "uikTvd": "456400289144",
+    "uikName": "УИК №54",
     "tikTvd": "2562000211366",
-    "tikName": "Адамовская"
+    "tikName": "Адамовская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 55,
     "uikTvd": "456400289145",
+    "uikName": "УИК №55",
     "tikTvd": "2562000211366",
-    "tikName": "Адамовская"
+    "tikName": "Адамовская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 56,
     "uikTvd": "456400289146",
+    "uikName": "УИК №56",
     "tikTvd": "2562000211366",
-    "tikName": "Адамовская"
+    "tikName": "Адамовская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 57,
     "uikTvd": "456400289147",
+    "uikName": "УИК №57",
     "tikTvd": "2562000211366",
-    "tikName": "Адамовская"
+    "tikName": "Адамовская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 58,
     "uikTvd": "456400289148",
+    "uikName": "УИК №58",
     "tikTvd": "2562000211366",
-    "tikName": "Адамовская"
+    "tikName": "Адамовская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 59,
     "uikTvd": "456400289149",
+    "uikName": "УИК №59",
     "tikTvd": "2562000211366",
-    "tikName": "Адамовская"
+    "tikName": "Адамовская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 60,
     "uikTvd": "456400289150",
+    "uikName": "УИК №60",
     "tikTvd": "2562000211366",
-    "tikName": "Адамовская"
+    "tikName": "Адамовская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 61,
     "uikTvd": "456400289151",
+    "uikName": "УИК №61",
     "tikTvd": "2562000211366",
-    "tikName": "Адамовская"
+    "tikName": "Адамовская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 62,
     "uikTvd": "456400289152",
+    "uikName": "УИК №62",
     "tikTvd": "2562000211366",
-    "tikName": "Адамовская"
+    "tikName": "Адамовская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 63,
     "uikTvd": "456400289153",
+    "uikName": "УИК №63",
     "tikTvd": "2562000211366",
-    "tikName": "Адамовская"
+    "tikName": "Адамовская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 64,
     "uikTvd": "456400289154",
+    "uikName": "УИК №64",
     "tikTvd": "2562000211366",
-    "tikName": "Адамовская"
+    "tikName": "Адамовская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 65,
     "uikTvd": "456400289155",
+    "uikName": "УИК №65",
     "tikTvd": "2562000211366",
-    "tikName": "Адамовская"
+    "tikName": "Адамовская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 66,
     "uikTvd": "456400289156",
+    "uikName": "УИК №66",
     "tikTvd": "2562000211366",
-    "tikName": "Адамовская"
+    "tikName": "Адамовская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 67,
     "uikTvd": "456400289157",
+    "uikName": "УИК №67",
     "tikTvd": "2562000211366",
-    "tikName": "Адамовская"
+    "tikName": "Адамовская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 68,
     "uikTvd": "456400289158",
+    "uikName": "УИК №68",
     "tikTvd": "2562000211366",
-    "tikName": "Адамовская"
+    "tikName": "Адамовская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 69,
     "uikTvd": "456400289159",
+    "uikName": "УИК №69",
     "tikTvd": "2562000211366",
-    "tikName": "Адамовская"
+    "tikName": "Адамовская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 70,
     "uikTvd": "456400289160",
+    "uikName": "УИК №70",
     "tikTvd": "2562000211366",
-    "tikName": "Адамовская"
+    "tikName": "Адамовская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 71,
     "uikTvd": "456400289161",
+    "uikName": "УИК №71",
     "tikTvd": "2562000211366",
-    "tikName": "Адамовская"
+    "tikName": "Адамовская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 72,
     "uikTvd": "456400289162",
+    "uikName": "УИК №72",
     "tikTvd": "2562000211366",
-    "tikName": "Адамовская"
+    "tikName": "Адамовская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 73,
     "uikTvd": "456400289163",
+    "uikName": "УИК №73",
     "tikTvd": "2562000211366",
-    "tikName": "Адамовская"
+    "tikName": "Адамовская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 74,
     "uikTvd": "456400289164",
+    "uikName": "УИК №74",
     "tikTvd": "2562000211366",
-    "tikName": "Адамовская"
+    "tikName": "Адамовская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 75,
     "uikTvd": "456400289165",
+    "uikName": "УИК №75",
     "tikTvd": "2562000211366",
-    "tikName": "Адамовская"
+    "tikName": "Адамовская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 76,
     "uikTvd": "456400289166",
+    "uikName": "УИК №76",
     "tikTvd": "2562000211366",
-    "tikName": "Адамовская"
+    "tikName": "Адамовская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 77,
     "uikTvd": "456400289167",
+    "uikName": "УИК №77",
     "tikTvd": "2562000211366",
-    "tikName": "Адамовская"
+    "tikName": "Адамовская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 78,
     "uikTvd": "456400289168",
+    "uikName": "УИК №78",
     "tikTvd": "2562000211366",
-    "tikName": "Адамовская"
+    "tikName": "Адамовская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 79,
     "uikTvd": "456400289169",
+    "uikName": "УИК №79",
     "tikTvd": "2562000211366",
-    "tikName": "Адамовская"
+    "tikName": "Адамовская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 80,
     "uikTvd": "456400289170",
+    "uikName": "УИК №80",
     "tikTvd": "2562000211366",
-    "tikName": "Адамовская"
+    "tikName": "Адамовская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 81,
     "uikTvd": "456400289171",
+    "uikName": "УИК №81",
     "tikTvd": "2562000211366",
-    "tikName": "Адамовская"
+    "tikName": "Адамовская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 82,
     "uikTvd": "456400289172",
+    "uikName": "УИК №82",
     "tikTvd": "2562000211366",
-    "tikName": "Адамовская"
+    "tikName": "Адамовская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 83,
     "uikTvd": "456400289173",
+    "uikName": "УИК №83",
     "tikTvd": "2562000211366",
-    "tikName": "Адамовская"
+    "tikName": "Адамовская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 84,
     "uikTvd": "456400289174",
+    "uikName": "УИК №84",
     "tikTvd": "2562000211366",
-    "tikName": "Адамовская"
+    "tikName": "Адамовская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 85,
     "uikTvd": "456400289175",
+    "uikName": "УИК №85",
     "tikTvd": "2562000211366",
-    "tikName": "Адамовская"
+    "tikName": "Адамовская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 86,
     "uikTvd": "456400392517",
+    "uikName": "УИК №86",
     "tikTvd": "2562000211365",
-    "tikName": "Акбулакская"
+    "tikName": "Акбулакская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 87,
     "uikTvd": "456400392518",
+    "uikName": "УИК №87",
     "tikTvd": "2562000211365",
-    "tikName": "Акбулакская"
+    "tikName": "Акбулакская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 88,
     "uikTvd": "456400392519",
+    "uikName": "УИК №88",
     "tikTvd": "2562000211365",
-    "tikName": "Акбулакская"
+    "tikName": "Акбулакская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 89,
     "uikTvd": "456400392520",
+    "uikName": "УИК №89",
     "tikTvd": "2562000211365",
-    "tikName": "Акбулакская"
+    "tikName": "Акбулакская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 90,
     "uikTvd": "456400392521",
+    "uikName": "УИК №90",
     "tikTvd": "2562000211365",
-    "tikName": "Акбулакская"
+    "tikName": "Акбулакская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 91,
     "uikTvd": "456400392522",
+    "uikName": "УИК №91",
     "tikTvd": "2562000211365",
-    "tikName": "Акбулакская"
+    "tikName": "Акбулакская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 92,
     "uikTvd": "456400392523",
+    "uikName": "УИК №92",
     "tikTvd": "2562000211365",
-    "tikName": "Акбулакская"
+    "tikName": "Акбулакская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 93,
     "uikTvd": "456400392524",
+    "uikName": "УИК №93",
     "tikTvd": "2562000211365",
-    "tikName": "Акбулакская"
+    "tikName": "Акбулакская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 94,
     "uikTvd": "456400392525",
+    "uikName": "УИК №94",
     "tikTvd": "2562000211365",
-    "tikName": "Акбулакская"
+    "tikName": "Акбулакская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 95,
     "uikTvd": "456400392526",
+    "uikName": "УИК №95",
     "tikTvd": "2562000211365",
-    "tikName": "Акбулакская"
+    "tikName": "Акбулакская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 96,
     "uikTvd": "456400392527",
+    "uikName": "УИК №96",
     "tikTvd": "2562000211365",
-    "tikName": "Акбулакская"
+    "tikName": "Акбулакская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 97,
     "uikTvd": "456400392528",
+    "uikName": "УИК №97",
     "tikTvd": "2562000211365",
-    "tikName": "Акбулакская"
+    "tikName": "Акбулакская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 98,
     "uikTvd": "456400392529",
+    "uikName": "УИК №98",
     "tikTvd": "2562000211365",
-    "tikName": "Акбулакская"
+    "tikName": "Акбулакская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 99,
     "uikTvd": "456400392530",
+    "uikName": "УИК №99",
     "tikTvd": "2562000211365",
-    "tikName": "Акбулакская"
+    "tikName": "Акбулакская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 100,
     "uikTvd": "456400392531",
+    "uikName": "УИК №100",
     "tikTvd": "2562000211365",
-    "tikName": "Акбулакская"
+    "tikName": "Акбулакская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 101,
     "uikTvd": "456400392532",
+    "uikName": "УИК №101",
     "tikTvd": "2562000211365",
-    "tikName": "Акбулакская"
+    "tikName": "Акбулакская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 102,
     "uikTvd": "456400392533",
+    "uikName": "УИК №102",
     "tikTvd": "2562000211365",
-    "tikName": "Акбулакская"
+    "tikName": "Акбулакская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 103,
     "uikTvd": "456400392534",
+    "uikName": "УИК №103",
     "tikTvd": "2562000211365",
-    "tikName": "Акбулакская"
+    "tikName": "Акбулакская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 104,
     "uikTvd": "456400392535",
+    "uikName": "УИК №104",
     "tikTvd": "2562000211365",
-    "tikName": "Акбулакская"
+    "tikName": "Акбулакская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 105,
     "uikTvd": "456400392536",
+    "uikName": "УИК №105",
     "tikTvd": "2562000211365",
-    "tikName": "Акбулакская"
+    "tikName": "Акбулакская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 106,
     "uikTvd": "456400392537",
+    "uikName": "УИК №106",
     "tikTvd": "2562000211365",
-    "tikName": "Акбулакская"
+    "tikName": "Акбулакская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 107,
     "uikTvd": "456400392538",
+    "uikName": "УИК №107",
     "tikTvd": "2562000211365",
-    "tikName": "Акбулакская"
+    "tikName": "Акбулакская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 108,
     "uikTvd": "456400392539",
+    "uikName": "УИК №108",
     "tikTvd": "2562000211365",
-    "tikName": "Акбулакская"
+    "tikName": "Акбулакская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 109,
     "uikTvd": "456400392540",
+    "uikName": "УИК №109",
     "tikTvd": "2562000211365",
-    "tikName": "Акбулакская"
+    "tikName": "Акбулакская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 110,
     "uikTvd": "456400392541",
+    "uikName": "УИК №110",
     "tikTvd": "2562000211365",
-    "tikName": "Акбулакская"
+    "tikName": "Акбулакская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 111,
     "uikTvd": "456400392542",
+    "uikName": "УИК №111",
     "tikTvd": "2562000211365",
-    "tikName": "Акбулакская"
+    "tikName": "Акбулакская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 112,
     "uikTvd": "456400392543",
+    "uikName": "УИК №112",
     "tikTvd": "2562000211365",
-    "tikName": "Акбулакская"
+    "tikName": "Акбулакская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 113,
     "uikTvd": "456400392544",
+    "uikName": "УИК №113",
     "tikTvd": "2562000211365",
-    "tikName": "Акбулакская"
+    "tikName": "Акбулакская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 114,
     "uikTvd": "456400392545",
+    "uikName": "УИК №114",
     "tikTvd": "2562000211365",
-    "tikName": "Акбулакская"
+    "tikName": "Акбулакская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 115,
     "uikTvd": "456400392546",
+    "uikName": "УИК №115",
     "tikTvd": "2562000211365",
-    "tikName": "Акбулакская"
+    "tikName": "Акбулакская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 116,
     "uikTvd": "456400392547",
+    "uikName": "УИК №116",
     "tikTvd": "2562000211365",
-    "tikName": "Акбулакская"
+    "tikName": "Акбулакская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 117,
     "uikTvd": "456400392548",
+    "uikName": "УИК №117",
     "tikTvd": "2562000211365",
-    "tikName": "Акбулакская"
+    "tikName": "Акбулакская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 118,
     "uikTvd": "456400392549",
+    "uikName": "УИК №118",
     "tikTvd": "2562000211365",
-    "tikName": "Акбулакская"
+    "tikName": "Акбулакская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 119,
     "uikTvd": "456400392550",
+    "uikName": "УИК №119",
     "tikTvd": "2562000211365",
-    "tikName": "Акбулакская"
+    "tikName": "Акбулакская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 120,
     "uikTvd": "456400392551",
+    "uikName": "УИК №120",
     "tikTvd": "2562000211365",
-    "tikName": "Акбулакская"
+    "tikName": "Акбулакская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 121,
     "uikTvd": "456400392552",
+    "uikName": "УИК №121",
     "tikTvd": "2562000211365",
-    "tikName": "Акбулакская"
+    "tikName": "Акбулакская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 122,
     "uikTvd": "456400392553",
+    "uikName": "УИК №122",
     "tikTvd": "2562000211365",
-    "tikName": "Акбулакская"
+    "tikName": "Акбулакская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 123,
     "uikTvd": "456400392554",
+    "uikName": "УИК №123",
     "tikTvd": "2562000211365",
-    "tikName": "Акбулакская"
+    "tikName": "Акбулакская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 124,
     "uikTvd": "456400392555",
+    "uikName": "УИК №124",
     "tikTvd": "2562000211365",
-    "tikName": "Акбулакская"
+    "tikName": "Акбулакская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 125,
     "uikTvd": "456400392556",
+    "uikName": "УИК №125",
     "tikTvd": "2562000211365",
-    "tikName": "Акбулакская"
+    "tikName": "Акбулакская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 126,
     "uikTvd": "456400392557",
+    "uikName": "УИК №126",
     "tikTvd": "2562000211365",
-    "tikName": "Акбулакская"
+    "tikName": "Акбулакская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 127,
     "uikTvd": "456400392558",
+    "uikName": "УИК №127",
     "tikTvd": "2562000211365",
-    "tikName": "Акбулакская"
+    "tikName": "Акбулакская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 128,
     "uikTvd": "456400392559",
+    "uikName": "УИК №128",
     "tikTvd": "2562000211365",
-    "tikName": "Акбулакская"
+    "tikName": "Акбулакская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 129,
     "uikTvd": "456400392560",
+    "uikName": "УИК №129",
     "tikTvd": "2562000211365",
-    "tikName": "Акбулакская"
+    "tikName": "Акбулакская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 130,
     "uikTvd": "456400493807",
+    "uikName": "УИК №130",
     "tikTvd": "2562000211367",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 131,
     "uikTvd": "456400493808",
+    "uikName": "УИК №131",
     "tikTvd": "2562000211367",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 132,
     "uikTvd": "456400493809",
+    "uikName": "УИК №132",
     "tikTvd": "2562000211367",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 133,
     "uikTvd": "456400493810",
+    "uikName": "УИК №133",
     "tikTvd": "2562000211367",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 134,
     "uikTvd": "456400493811",
+    "uikName": "УИК №134",
     "tikTvd": "2562000211367",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 135,
     "uikTvd": "456400493812",
+    "uikName": "УИК №135",
     "tikTvd": "2562000211367",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 136,
     "uikTvd": "456400493813",
+    "uikName": "УИК №136",
     "tikTvd": "2562000211367",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 137,
     "uikTvd": "456400493814",
+    "uikName": "УИК №137",
     "tikTvd": "2562000211367",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 138,
     "uikTvd": "456400493815",
+    "uikName": "УИК №138",
     "tikTvd": "2562000211367",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 139,
     "uikTvd": "456400493816",
+    "uikName": "УИК №139",
     "tikTvd": "2562000211367",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 140,
     "uikTvd": "456400493817",
+    "uikName": "УИК №140",
     "tikTvd": "2562000211367",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 141,
     "uikTvd": "456400493818",
+    "uikName": "УИК №141",
     "tikTvd": "2562000211367",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 142,
     "uikTvd": "456400493819",
+    "uikName": "УИК №142",
     "tikTvd": "2562000211367",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 143,
     "uikTvd": "456400493820",
+    "uikName": "УИК №143",
     "tikTvd": "2562000211367",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 144,
     "uikTvd": "456400493821",
+    "uikName": "УИК №144",
     "tikTvd": "2562000211367",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 145,
     "uikTvd": "456400493822",
+    "uikName": "УИК №145",
     "tikTvd": "2562000211367",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 146,
     "uikTvd": "456400493823",
+    "uikName": "УИК №146",
     "tikTvd": "2562000211367",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 147,
     "uikTvd": "456400493824",
+    "uikName": "УИК №147",
     "tikTvd": "2562000211367",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 148,
     "uikTvd": "456400493825",
+    "uikName": "УИК №148",
     "tikTvd": "2562000211367",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 149,
     "uikTvd": "456400493826",
+    "uikName": "УИК №149",
     "tikTvd": "2562000211367",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 150,
     "uikTvd": "456400493827",
+    "uikName": "УИК №150",
     "tikTvd": "2562000211367",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 151,
     "uikTvd": "456400493828",
+    "uikName": "УИК №151",
     "tikTvd": "2562000211367",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 152,
     "uikTvd": "456400493829",
+    "uikName": "УИК №152",
     "tikTvd": "2562000211367",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 153,
     "uikTvd": "456400493830",
+    "uikName": "УИК №153",
     "tikTvd": "2562000211367",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 154,
     "uikTvd": "456400493831",
+    "uikName": "УИК №154",
     "tikTvd": "2562000211367",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 155,
     "uikTvd": "456400493832",
+    "uikName": "УИК №155",
     "tikTvd": "2562000211367",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 156,
     "uikTvd": "456400493833",
+    "uikName": "УИК №156",
     "tikTvd": "2562000211367",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 157,
     "uikTvd": "456400493834",
+    "uikName": "УИК №157",
     "tikTvd": "2562000211367",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 158,
     "uikTvd": "456400493835",
+    "uikName": "УИК №158",
     "tikTvd": "2562000211367",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 159,
     "uikTvd": "456400493836",
+    "uikName": "УИК №159",
     "tikTvd": "2562000211367",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 160,
     "uikTvd": "456400493837",
+    "uikName": "УИК №160",
     "tikTvd": "2562000211367",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 161,
     "uikTvd": "456400493838",
+    "uikName": "УИК №161",
     "tikTvd": "2562000211367",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 162,
     "uikTvd": "456400493839",
+    "uikName": "УИК №162",
     "tikTvd": "2562000211367",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 163,
     "uikTvd": "456400493840",
+    "uikName": "УИК №163",
     "tikTvd": "2562000211367",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 164,
     "uikTvd": "456400493841",
+    "uikName": "УИК №164",
     "tikTvd": "2562000211367",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 165,
     "uikTvd": "456400493842",
+    "uikName": "УИК №165",
     "tikTvd": "2562000211367",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 166,
     "uikTvd": "456400493843",
+    "uikName": "УИК №166",
     "tikTvd": "2562000211367",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 167,
     "uikTvd": "456400493844",
+    "uikName": "УИК №167",
     "tikTvd": "2562000211367",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 168,
     "uikTvd": "456400493845",
+    "uikName": "УИК №168",
     "tikTvd": "2562000211367",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 169,
     "uikTvd": "456400493846",
+    "uikName": "УИК №169",
     "tikTvd": "2562000211367",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 170,
     "uikTvd": "456400493847",
+    "uikName": "УИК №170",
     "tikTvd": "2562000211367",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 171,
     "uikTvd": "456400493848",
+    "uikName": "УИК №171",
     "tikTvd": "2562000211367",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 172,
     "uikTvd": "456400493849",
+    "uikName": "УИК №172",
     "tikTvd": "2562000211367",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 173,
     "uikTvd": "456400493850",
+    "uikName": "УИК №173",
     "tikTvd": "2562000211367",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 174,
     "uikTvd": "456400493851",
+    "uikName": "УИК №174",
     "tikTvd": "2562000211367",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 175,
     "uikTvd": "456400493852",
+    "uikName": "УИК №175",
     "tikTvd": "2562000211367",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 176,
     "uikTvd": "456403597266",
+    "uikName": "УИК №176",
     "tikTvd": "2562000211397",
-    "tikName": "Саракташская"
+    "tikName": "Саракташская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 177,
     "uikTvd": "456401498910",
+    "uikName": "УИК №177",
     "tikTvd": "2562000211371",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 178,
     "uikTvd": "456400593133",
+    "uikName": "УИК №178",
     "tikTvd": "2562000211363",
-    "tikName": "Асекеевская"
+    "tikName": "Асекеевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 179,
     "uikTvd": "456400593134",
+    "uikName": "УИК №179",
     "tikTvd": "2562000211363",
-    "tikName": "Асекеевская"
+    "tikName": "Асекеевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 180,
     "uikTvd": "456400593101",
+    "uikName": "УИК №180",
     "tikTvd": "2562000211363",
-    "tikName": "Асекеевская"
+    "tikName": "Асекеевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 181,
     "uikTvd": "456400593102",
+    "uikName": "УИК №181",
     "tikTvd": "2562000211363",
-    "tikName": "Асекеевская"
+    "tikName": "Асекеевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 182,
     "uikTvd": "456400593103",
+    "uikName": "УИК №182",
     "tikTvd": "2562000211363",
-    "tikName": "Асекеевская"
+    "tikName": "Асекеевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 183,
     "uikTvd": "456400593104",
+    "uikName": "УИК №183",
     "tikTvd": "2562000211363",
-    "tikName": "Асекеевская"
+    "tikName": "Асекеевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 184,
     "uikTvd": "456400593105",
+    "uikName": "УИК №184",
     "tikTvd": "2562000211363",
-    "tikName": "Асекеевская"
+    "tikName": "Асекеевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 185,
     "uikTvd": "456400593106",
+    "uikName": "УИК №185",
     "tikTvd": "2562000211363",
-    "tikName": "Асекеевская"
+    "tikName": "Асекеевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 186,
     "uikTvd": "456400593107",
+    "uikName": "УИК №186",
     "tikTvd": "2562000211363",
-    "tikName": "Асекеевская"
+    "tikName": "Асекеевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 187,
     "uikTvd": "456400593108",
+    "uikName": "УИК №187",
     "tikTvd": "2562000211363",
-    "tikName": "Асекеевская"
+    "tikName": "Асекеевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 188,
     "uikTvd": "456400593109",
+    "uikName": "УИК №188",
     "tikTvd": "2562000211363",
-    "tikName": "Асекеевская"
+    "tikName": "Асекеевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 189,
     "uikTvd": "456400593110",
+    "uikName": "УИК №189",
     "tikTvd": "2562000211363",
-    "tikName": "Асекеевская"
+    "tikName": "Асекеевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 190,
     "uikTvd": "456400593111",
+    "uikName": "УИК №190",
     "tikTvd": "2562000211363",
-    "tikName": "Асекеевская"
+    "tikName": "Асекеевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 191,
     "uikTvd": "456400593112",
+    "uikName": "УИК №191",
     "tikTvd": "2562000211363",
-    "tikName": "Асекеевская"
+    "tikName": "Асекеевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 192,
     "uikTvd": "456400593113",
+    "uikName": "УИК №192",
     "tikTvd": "2562000211363",
-    "tikName": "Асекеевская"
+    "tikName": "Асекеевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 193,
     "uikTvd": "456400593114",
+    "uikName": "УИК №193",
     "tikTvd": "2562000211363",
-    "tikName": "Асекеевская"
+    "tikName": "Асекеевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 194,
     "uikTvd": "456400593116",
+    "uikName": "УИК №194",
     "tikTvd": "2562000211363",
-    "tikName": "Асекеевская"
+    "tikName": "Асекеевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 195,
     "uikTvd": "456400593117",
+    "uikName": "УИК №195",
     "tikTvd": "2562000211363",
-    "tikName": "Асекеевская"
+    "tikName": "Асекеевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 196,
     "uikTvd": "456400593118",
+    "uikName": "УИК №196",
     "tikTvd": "2562000211363",
-    "tikName": "Асекеевская"
+    "tikName": "Асекеевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 197,
     "uikTvd": "456400593119",
+    "uikName": "УИК №197",
     "tikTvd": "2562000211363",
-    "tikName": "Асекеевская"
+    "tikName": "Асекеевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 198,
     "uikTvd": "456400593120",
+    "uikName": "УИК №198",
     "tikTvd": "2562000211363",
-    "tikName": "Асекеевская"
+    "tikName": "Асекеевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 199,
     "uikTvd": "456400593121",
+    "uikName": "УИК №199",
     "tikTvd": "2562000211363",
-    "tikName": "Асекеевская"
+    "tikName": "Асекеевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 200,
     "uikTvd": "456400593122",
+    "uikName": "УИК №200",
     "tikTvd": "2562000211363",
-    "tikName": "Асекеевская"
+    "tikName": "Асекеевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 201,
     "uikTvd": "456400593123",
+    "uikName": "УИК №201",
     "tikTvd": "2562000211363",
-    "tikName": "Асекеевская"
+    "tikName": "Асекеевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 202,
     "uikTvd": "456400593124",
+    "uikName": "УИК №202",
     "tikTvd": "2562000211363",
-    "tikName": "Асекеевская"
+    "tikName": "Асекеевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 203,
     "uikTvd": "456400593125",
+    "uikName": "УИК №203",
     "tikTvd": "2562000211363",
-    "tikName": "Асекеевская"
+    "tikName": "Асекеевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 204,
     "uikTvd": "456400593126",
+    "uikName": "УИК №204",
     "tikTvd": "2562000211363",
-    "tikName": "Асекеевская"
+    "tikName": "Асекеевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 205,
     "uikTvd": "456400593127",
+    "uikName": "УИК №205",
     "tikTvd": "2562000211363",
-    "tikName": "Асекеевская"
+    "tikName": "Асекеевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 206,
     "uikTvd": "456400593128",
+    "uikName": "УИК №206",
     "tikTvd": "2562000211363",
-    "tikName": "Асекеевская"
+    "tikName": "Асекеевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 207,
     "uikTvd": "456400593129",
+    "uikName": "УИК №207",
     "tikTvd": "2562000211363",
-    "tikName": "Асекеевская"
+    "tikName": "Асекеевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 208,
     "uikTvd": "456400593130",
+    "uikName": "УИК №208",
     "tikTvd": "2562000211363",
-    "tikName": "Асекеевская"
+    "tikName": "Асекеевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 209,
     "uikTvd": "456400593131",
+    "uikName": "УИК №209",
     "tikTvd": "2562000211363",
-    "tikName": "Асекеевская"
+    "tikName": "Асекеевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 210,
     "uikTvd": "456400593132",
+    "uikName": "УИК №210",
     "tikTvd": "2562000211363",
-    "tikName": "Асекеевская"
+    "tikName": "Асекеевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 211,
     "uikTvd": "456400685777",
+    "uikName": "УИК №211",
     "tikTvd": "2562000211364",
-    "tikName": "Беляевская"
+    "tikName": "Беляевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 212,
     "uikTvd": "456400685778",
+    "uikName": "УИК №212",
     "tikTvd": "2562000211364",
-    "tikName": "Беляевская"
+    "tikName": "Беляевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 213,
     "uikTvd": "456400685779",
+    "uikName": "УИК №213",
     "tikTvd": "2562000211364",
-    "tikName": "Беляевская"
+    "tikName": "Беляевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 214,
     "uikTvd": "456400685780",
+    "uikName": "УИК №214",
     "tikTvd": "2562000211364",
-    "tikName": "Беляевская"
+    "tikName": "Беляевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 215,
     "uikTvd": "456400685781",
+    "uikName": "УИК №215",
     "tikTvd": "2562000211364",
-    "tikName": "Беляевская"
+    "tikName": "Беляевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 216,
     "uikTvd": "456400685782",
+    "uikName": "УИК №216",
     "tikTvd": "2562000211364",
-    "tikName": "Беляевская"
+    "tikName": "Беляевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 217,
     "uikTvd": "456400685783",
+    "uikName": "УИК №217",
     "tikTvd": "2562000211364",
-    "tikName": "Беляевская"
+    "tikName": "Беляевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 218,
     "uikTvd": "456400685784",
+    "uikName": "УИК №218",
     "tikTvd": "2562000211364",
-    "tikName": "Беляевская"
+    "tikName": "Беляевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 219,
     "uikTvd": "456400685785",
+    "uikName": "УИК №219",
     "tikTvd": "2562000211364",
-    "tikName": "Беляевская"
+    "tikName": "Беляевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 220,
     "uikTvd": "456400685786",
+    "uikName": "УИК №220",
     "tikTvd": "2562000211364",
-    "tikName": "Беляевская"
+    "tikName": "Беляевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 221,
     "uikTvd": "456400685787",
+    "uikName": "УИК №221",
     "tikTvd": "2562000211364",
-    "tikName": "Беляевская"
+    "tikName": "Беляевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 222,
     "uikTvd": "456400685788",
+    "uikName": "УИК №222",
     "tikTvd": "2562000211364",
-    "tikName": "Беляевская"
+    "tikName": "Беляевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 223,
     "uikTvd": "456400685789",
+    "uikName": "УИК №223",
     "tikTvd": "2562000211364",
-    "tikName": "Беляевская"
+    "tikName": "Беляевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 224,
     "uikTvd": "456400685790",
+    "uikName": "УИК №224",
     "tikTvd": "2562000211364",
-    "tikName": "Беляевская"
+    "tikName": "Беляевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 225,
     "uikTvd": "456400685791",
+    "uikName": "УИК №225",
     "tikTvd": "2562000211364",
-    "tikName": "Беляевская"
+    "tikName": "Беляевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 226,
     "uikTvd": "456400685792",
+    "uikName": "УИК №226",
     "tikTvd": "2562000211364",
-    "tikName": "Беляевская"
+    "tikName": "Беляевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 227,
     "uikTvd": "456400685793",
+    "uikName": "УИК №227",
     "tikTvd": "2562000211364",
-    "tikName": "Беляевская"
+    "tikName": "Беляевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 228,
     "uikTvd": "456400685794",
+    "uikName": "УИК №228",
     "tikTvd": "2562000211364",
-    "tikName": "Беляевская"
+    "tikName": "Беляевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 229,
     "uikTvd": "456400685795",
+    "uikName": "УИК №229",
     "tikTvd": "2562000211364",
-    "tikName": "Беляевская"
+    "tikName": "Беляевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 230,
     "uikTvd": "456400685796",
+    "uikName": "УИК №230",
     "tikTvd": "2562000211364",
-    "tikName": "Беляевская"
+    "tikName": "Беляевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 231,
     "uikTvd": "456400685797",
+    "uikName": "УИК №231",
     "tikTvd": "2562000211364",
-    "tikName": "Беляевская"
+    "tikName": "Беляевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 232,
     "uikTvd": "456400685798",
+    "uikName": "УИК №232",
     "tikTvd": "2562000211364",
-    "tikName": "Беляевская"
+    "tikName": "Беляевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 233,
     "uikTvd": "456400685799",
+    "uikName": "УИК №233",
     "tikTvd": "2562000211364",
-    "tikName": "Беляевская"
+    "tikName": "Беляевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 234,
     "uikTvd": "456400685800",
+    "uikName": "УИК №234",
     "tikTvd": "2562000211364",
-    "tikName": "Беляевская"
+    "tikName": "Беляевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 235,
     "uikTvd": "456400685801",
+    "uikName": "УИК №235",
     "tikTvd": "2562000211364",
-    "tikName": "Беляевская"
+    "tikName": "Беляевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 236,
     "uikTvd": "456400685802",
+    "uikName": "УИК №236",
     "tikTvd": "2562000211364",
-    "tikName": "Беляевская"
+    "tikName": "Беляевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 237,
     "uikTvd": "456400685803",
+    "uikName": "УИК №237",
     "tikTvd": "2562000211364",
-    "tikName": "Беляевская"
+    "tikName": "Беляевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 238,
     "uikTvd": "456404590782",
+    "uikName": "УИК №238",
     "tikTvd": "2562000211403",
-    "tikName": "Бугурусланская"
+    "tikName": "Бугурусланская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 239,
     "uikTvd": "456404590783",
+    "uikName": "УИК №239",
     "tikTvd": "2562000211403",
-    "tikName": "Бугурусланская"
+    "tikName": "Бугурусланская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 240,
     "uikTvd": "456404590784",
+    "uikName": "УИК №240",
     "tikTvd": "2562000211403",
-    "tikName": "Бугурусланская"
+    "tikName": "Бугурусланская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 241,
     "uikTvd": "456404590785",
+    "uikName": "УИК №241",
     "tikTvd": "2562000211403",
-    "tikName": "Бугурусланская"
+    "tikName": "Бугурусланская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 242,
     "uikTvd": "456404590786",
+    "uikName": "УИК №242",
     "tikTvd": "2562000211403",
-    "tikName": "Бугурусланская"
+    "tikName": "Бугурусланская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 243,
     "uikTvd": "456404590787",
+    "uikName": "УИК №243",
     "tikTvd": "2562000211403",
-    "tikName": "Бугурусланская"
+    "tikName": "Бугурусланская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 244,
     "uikTvd": "456404590788",
+    "uikName": "УИК №244",
     "tikTvd": "2562000211403",
-    "tikName": "Бугурусланская"
+    "tikName": "Бугурусланская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 245,
     "uikTvd": "456404590789",
+    "uikName": "УИК №245",
     "tikTvd": "2562000211403",
-    "tikName": "Бугурусланская"
+    "tikName": "Бугурусланская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 246,
     "uikTvd": "456404590790",
+    "uikName": "УИК №246",
     "tikTvd": "2562000211403",
-    "tikName": "Бугурусланская"
+    "tikName": "Бугурусланская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 247,
     "uikTvd": "456404590791",
+    "uikName": "УИК №247",
     "tikTvd": "2562000211403",
-    "tikName": "Бугурусланская"
+    "tikName": "Бугурусланская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 248,
     "uikTvd": "456404590792",
+    "uikName": "УИК №248",
     "tikTvd": "2562000211403",
-    "tikName": "Бугурусланская"
+    "tikName": "Бугурусланская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 249,
     "uikTvd": "456404590793",
+    "uikName": "УИК №249",
     "tikTvd": "2562000211403",
-    "tikName": "Бугурусланская"
+    "tikName": "Бугурусланская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 250,
     "uikTvd": "456404590794",
+    "uikName": "УИК №250",
     "tikTvd": "2562000211403",
-    "tikName": "Бугурусланская"
+    "tikName": "Бугурусланская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 251,
     "uikTvd": "456404590795",
+    "uikName": "УИК №251",
     "tikTvd": "2562000211403",
-    "tikName": "Бугурусланская"
+    "tikName": "Бугурусланская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 252,
     "uikTvd": "456404590796",
+    "uikName": "УИК №252",
     "tikTvd": "2562000211403",
-    "tikName": "Бугурусланская"
+    "tikName": "Бугурусланская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 253,
     "uikTvd": "456404590797",
+    "uikName": "УИК №253",
     "tikTvd": "2562000211403",
-    "tikName": "Бугурусланская"
+    "tikName": "Бугурусланская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 254,
     "uikTvd": "456404590798",
+    "uikName": "УИК №254",
     "tikTvd": "2562000211403",
-    "tikName": "Бугурусланская"
+    "tikName": "Бугурусланская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 255,
     "uikTvd": "456404590799",
+    "uikName": "УИК №255",
     "tikTvd": "2562000211403",
-    "tikName": "Бугурусланская"
+    "tikName": "Бугурусланская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 256,
     "uikTvd": "456404590800",
+    "uikName": "УИК №256",
     "tikTvd": "2562000211403",
-    "tikName": "Бугурусланская"
+    "tikName": "Бугурусланская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 257,
     "uikTvd": "456404590801",
+    "uikName": "УИК №257",
     "tikTvd": "2562000211403",
-    "tikName": "Бугурусланская"
+    "tikName": "Бугурусланская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 258,
     "uikTvd": "456404590802",
+    "uikName": "УИК №258",
     "tikTvd": "2562000211403",
-    "tikName": "Бугурусланская"
+    "tikName": "Бугурусланская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 259,
     "uikTvd": "456404590803",
+    "uikName": "УИК №259",
     "tikTvd": "2562000211403",
-    "tikName": "Бугурусланская"
+    "tikName": "Бугурусланская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 260,
     "uikTvd": "456404590804",
+    "uikName": "УИК №260",
     "tikTvd": "2562000211403",
-    "tikName": "Бугурусланская"
+    "tikName": "Бугурусланская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 261,
     "uikTvd": "456404590805",
+    "uikName": "УИК №261",
     "tikTvd": "2562000211403",
-    "tikName": "Бугурусланская"
+    "tikName": "Бугурусланская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 262,
     "uikTvd": "456404590806",
+    "uikName": "УИК №262",
     "tikTvd": "2562000211403",
-    "tikName": "Бугурусланская"
+    "tikName": "Бугурусланская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 263,
     "uikTvd": "456404590807",
+    "uikName": "УИК №263",
     "tikTvd": "2562000211403",
-    "tikName": "Бугурусланская"
+    "tikName": "Бугурусланская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 264,
     "uikTvd": "456404590808",
+    "uikName": "УИК №264",
     "tikTvd": "2562000211403",
-    "tikName": "Бугурусланская"
+    "tikName": "Бугурусланская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 265,
     "uikTvd": "456404590809",
+    "uikName": "УИК №265",
     "tikTvd": "2562000211403",
-    "tikName": "Бугурусланская"
+    "tikName": "Бугурусланская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 266,
     "uikTvd": "456404590810",
+    "uikName": "УИК №266",
     "tikTvd": "2562000211403",
-    "tikName": "Бугурусланская"
+    "tikName": "Бугурусланская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 267,
     "uikTvd": "456404590811",
+    "uikName": "УИК №267",
     "tikTvd": "2562000211403",
-    "tikName": "Бугурусланская"
+    "tikName": "Бугурусланская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 268,
     "uikTvd": "456404590812",
+    "uikName": "УИК №268",
     "tikTvd": "2562000211403",
-    "tikName": "Бугурусланская"
+    "tikName": "Бугурусланская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 269,
     "uikTvd": "456404590813",
+    "uikName": "УИК №269",
     "tikTvd": "2562000211403",
-    "tikName": "Бугурусланская"
+    "tikName": "Бугурусланская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 270,
     "uikTvd": "456404590814",
+    "uikName": "УИК №270",
     "tikTvd": "2562000211403",
-    "tikName": "Бугурусланская"
+    "tikName": "Бугурусланская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 271,
     "uikTvd": "456404590815",
+    "uikName": "УИК №271",
     "tikTvd": "2562000211403",
-    "tikName": "Бугурусланская"
+    "tikName": "Бугурусланская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 272,
     "uikTvd": "456404590816",
+    "uikName": "УИК №272",
     "tikTvd": "2562000211403",
-    "tikName": "Бугурусланская"
+    "tikName": "Бугурусланская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 273,
     "uikTvd": "456404590817",
+    "uikName": "УИК №273",
     "tikTvd": "2562000211403",
-    "tikName": "Бугурусланская"
+    "tikName": "Бугурусланская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 274,
     "uikTvd": "456404590818",
+    "uikName": "УИК №274",
     "tikTvd": "2562000211403",
-    "tikName": "Бугурусланская"
+    "tikName": "Бугурусланская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 275,
     "uikTvd": "456404590819",
+    "uikName": "УИК №275",
     "tikTvd": "2562000211403",
-    "tikName": "Бугурусланская"
+    "tikName": "Бугурусланская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 276,
     "uikTvd": "456404590820",
+    "uikName": "УИК №276",
     "tikTvd": "2562000211403",
-    "tikName": "Бугурусланская"
+    "tikName": "Бугурусланская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 277,
     "uikTvd": "456404590821",
+    "uikName": "УИК №277",
     "tikTvd": "2562000211403",
-    "tikName": "Бугурусланская"
+    "tikName": "Бугурусланская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 278,
     "uikTvd": "456404590822",
+    "uikName": "УИК №278",
     "tikTvd": "2562000211403",
-    "tikName": "Бугурусланская"
+    "tikName": "Бугурусланская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 279,
     "uikTvd": "456404590823",
+    "uikName": "УИК №279",
     "tikTvd": "2562000211403",
-    "tikName": "Бугурусланская"
+    "tikName": "Бугурусланская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 280,
     "uikTvd": "456404590824",
+    "uikName": "УИК №280",
     "tikTvd": "2562000211403",
-    "tikName": "Бугурусланская"
+    "tikName": "Бугурусланская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 281,
     "uikTvd": "456404590825",
+    "uikName": "УИК №281",
     "tikTvd": "2562000211403",
-    "tikName": "Бугурусланская"
+    "tikName": "Бугурусланская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 282,
     "uikTvd": "456404590826",
+    "uikName": "УИК №282",
     "tikTvd": "2562000211403",
-    "tikName": "Бугурусланская"
+    "tikName": "Бугурусланская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 283,
     "uikTvd": "456404590827",
+    "uikName": "УИК №283",
     "tikTvd": "2562000211403",
-    "tikName": "Бугурусланская"
+    "tikName": "Бугурусланская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 284,
     "uikTvd": "456400783223",
+    "uikName": "УИК №284",
     "tikTvd": "2562000211375",
-    "tikName": "Бугурусланская городская"
+    "tikName": "Бугурусланская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 285,
     "uikTvd": "456400783224",
+    "uikName": "УИК №285",
     "tikTvd": "2562000211375",
-    "tikName": "Бугурусланская городская"
+    "tikName": "Бугурусланская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 286,
     "uikTvd": "456400783225",
+    "uikName": "УИК №286",
     "tikTvd": "2562000211375",
-    "tikName": "Бугурусланская городская"
+    "tikName": "Бугурусланская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 287,
     "uikTvd": "456400783226",
+    "uikName": "УИК №287",
     "tikTvd": "2562000211375",
-    "tikName": "Бугурусланская городская"
+    "tikName": "Бугурусланская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 288,
     "uikTvd": "456400783227",
+    "uikName": "УИК №288",
     "tikTvd": "2562000211375",
-    "tikName": "Бугурусланская городская"
+    "tikName": "Бугурусланская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 289,
     "uikTvd": "456400783228",
+    "uikName": "УИК №289",
     "tikTvd": "2562000211375",
-    "tikName": "Бугурусланская городская"
+    "tikName": "Бугурусланская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 290,
     "uikTvd": "456400783229",
+    "uikName": "УИК №290",
     "tikTvd": "2562000211375",
-    "tikName": "Бугурусланская городская"
+    "tikName": "Бугурусланская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 291,
     "uikTvd": "456400783230",
+    "uikName": "УИК №291",
     "tikTvd": "2562000211375",
-    "tikName": "Бугурусланская городская"
+    "tikName": "Бугурусланская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 292,
     "uikTvd": "456400783231",
+    "uikName": "УИК №292",
     "tikTvd": "2562000211375",
-    "tikName": "Бугурусланская городская"
+    "tikName": "Бугурусланская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 293,
     "uikTvd": "456400783232",
+    "uikName": "УИК №293",
     "tikTvd": "2562000211375",
-    "tikName": "Бугурусланская городская"
+    "tikName": "Бугурусланская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 294,
     "uikTvd": "456400783233",
+    "uikName": "УИК №294",
     "tikTvd": "2562000211375",
-    "tikName": "Бугурусланская городская"
+    "tikName": "Бугурусланская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 295,
     "uikTvd": "456400783234",
+    "uikName": "УИК №295",
     "tikTvd": "2562000211375",
-    "tikName": "Бугурусланская городская"
+    "tikName": "Бугурусланская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 296,
     "uikTvd": "456400783235",
+    "uikName": "УИК №296",
     "tikTvd": "2562000211375",
-    "tikName": "Бугурусланская городская"
+    "tikName": "Бугурусланская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 297,
     "uikTvd": "456400783236",
+    "uikName": "УИК №297",
     "tikTvd": "2562000211375",
-    "tikName": "Бугурусланская городская"
+    "tikName": "Бугурусланская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 298,
     "uikTvd": "456400783237",
+    "uikName": "УИК №298",
     "tikTvd": "2562000211375",
-    "tikName": "Бугурусланская городская"
+    "tikName": "Бугурусланская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 299,
     "uikTvd": "456400783238",
+    "uikName": "УИК №299",
     "tikTvd": "2562000211375",
-    "tikName": "Бугурусланская городская"
+    "tikName": "Бугурусланская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 300,
     "uikTvd": "456400783239",
+    "uikName": "УИК №300",
     "tikTvd": "2562000211375",
-    "tikName": "Бугурусланская городская"
+    "tikName": "Бугурусланская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 301,
     "uikTvd": "456400783240",
+    "uikName": "УИК №301",
     "tikTvd": "2562000211375",
-    "tikName": "Бугурусланская городская"
+    "tikName": "Бугурусланская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 302,
     "uikTvd": "456400783241",
+    "uikName": "УИК №302",
     "tikTvd": "2562000211375",
-    "tikName": "Бугурусланская городская"
+    "tikName": "Бугурусланская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 303,
     "uikTvd": "456400783242",
+    "uikName": "УИК №303",
     "tikTvd": "2562000211375",
-    "tikName": "Бугурусланская городская"
+    "tikName": "Бугурусланская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 304,
     "uikTvd": "456400783243",
+    "uikName": "УИК №304",
     "tikTvd": "2562000211375",
-    "tikName": "Бугурусланская городская"
+    "tikName": "Бугурусланская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 305,
     "uikTvd": "456400783244",
+    "uikName": "УИК №305",
     "tikTvd": "2562000211375",
-    "tikName": "Бугурусланская городская"
+    "tikName": "Бугурусланская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 306,
     "uikTvd": "456400783245",
+    "uikName": "УИК №306",
     "tikTvd": "2562000211375",
-    "tikName": "Бугурусланская городская"
+    "tikName": "Бугурусланская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 307,
     "uikTvd": "456404892613",
+    "uikName": "УИК №307",
     "tikTvd": "2562000211399",
-    "tikName": "Кувандыкская"
+    "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 308,
     "uikTvd": "4564046100380",
+    "uikName": "УИК №308",
     "tikTvd": "2562000211402",
-    "tikName": "Бузулукская"
+    "tikName": "Бузулукская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 309,
     "uikTvd": "4564046100381",
+    "uikName": "УИК №309",
     "tikTvd": "2562000211402",
-    "tikName": "Бузулукская"
+    "tikName": "Бузулукская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 310,
     "uikTvd": "4564046100382",
+    "uikName": "УИК №310",
     "tikTvd": "2562000211402",
-    "tikName": "Бузулукская"
+    "tikName": "Бузулукская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 311,
     "uikTvd": "4564046100383",
+    "uikName": "УИК №311",
     "tikTvd": "2562000211402",
-    "tikName": "Бузулукская"
+    "tikName": "Бузулукская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 312,
     "uikTvd": "4564046100384",
+    "uikName": "УИК №312",
     "tikTvd": "2562000211402",
-    "tikName": "Бузулукская"
+    "tikName": "Бузулукская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 313,
     "uikTvd": "4564046100385",
+    "uikName": "УИК №313",
     "tikTvd": "2562000211402",
-    "tikName": "Бузулукская"
+    "tikName": "Бузулукская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 314,
     "uikTvd": "4564046100386",
+    "uikName": "УИК №314",
     "tikTvd": "2562000211402",
-    "tikName": "Бузулукская"
+    "tikName": "Бузулукская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 315,
     "uikTvd": "4564046100387",
+    "uikName": "УИК №315",
     "tikTvd": "2562000211402",
-    "tikName": "Бузулукская"
+    "tikName": "Бузулукская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 316,
     "uikTvd": "4564046100388",
+    "uikName": "УИК №316",
     "tikTvd": "2562000211402",
-    "tikName": "Бузулукская"
+    "tikName": "Бузулукская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 317,
     "uikTvd": "4564046100389",
+    "uikName": "УИК №317",
     "tikTvd": "2562000211402",
-    "tikName": "Бузулукская"
+    "tikName": "Бузулукская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 318,
     "uikTvd": "4564046100390",
+    "uikName": "УИК №318",
     "tikTvd": "2562000211402",
-    "tikName": "Бузулукская"
+    "tikName": "Бузулукская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 319,
     "uikTvd": "4564046100391",
+    "uikName": "УИК №319",
     "tikTvd": "2562000211402",
-    "tikName": "Бузулукская"
+    "tikName": "Бузулукская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 320,
     "uikTvd": "4564046100392",
+    "uikName": "УИК №320",
     "tikTvd": "2562000211402",
-    "tikName": "Бузулукская"
+    "tikName": "Бузулукская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 321,
     "uikTvd": "4564046100393",
+    "uikName": "УИК №321",
     "tikTvd": "2562000211402",
-    "tikName": "Бузулукская"
+    "tikName": "Бузулукская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 322,
     "uikTvd": "4564046100394",
+    "uikName": "УИК №322",
     "tikTvd": "2562000211402",
-    "tikName": "Бузулукская"
+    "tikName": "Бузулукская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 323,
     "uikTvd": "4564046100395",
+    "uikName": "УИК №323",
     "tikTvd": "2562000211402",
-    "tikName": "Бузулукская"
+    "tikName": "Бузулукская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 324,
     "uikTvd": "4564046100396",
+    "uikName": "УИК №324",
     "tikTvd": "2562000211402",
-    "tikName": "Бузулукская"
+    "tikName": "Бузулукская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 325,
     "uikTvd": "4564046100397",
+    "uikName": "УИК №325",
     "tikTvd": "2562000211402",
-    "tikName": "Бузулукская"
+    "tikName": "Бузулукская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 326,
     "uikTvd": "4564046100398",
+    "uikName": "УИК №326",
     "tikTvd": "2562000211402",
-    "tikName": "Бузулукская"
+    "tikName": "Бузулукская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 327,
     "uikTvd": "4564046100399",
+    "uikName": "УИК №327",
     "tikTvd": "2562000211402",
-    "tikName": "Бузулукская"
+    "tikName": "Бузулукская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 328,
     "uikTvd": "4564046100400",
+    "uikName": "УИК №328",
     "tikTvd": "2562000211402",
-    "tikName": "Бузулукская"
+    "tikName": "Бузулукская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 329,
     "uikTvd": "4564046100401",
+    "uikName": "УИК №329",
     "tikTvd": "2562000211402",
-    "tikName": "Бузулукская"
+    "tikName": "Бузулукская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 330,
     "uikTvd": "4564046100402",
+    "uikName": "УИК №330",
     "tikTvd": "2562000211402",
-    "tikName": "Бузулукская"
+    "tikName": "Бузулукская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 331,
     "uikTvd": "4564046100403",
+    "uikName": "УИК №331",
     "tikTvd": "2562000211402",
-    "tikName": "Бузулукская"
+    "tikName": "Бузулукская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 332,
     "uikTvd": "4564046100404",
+    "uikName": "УИК №332",
     "tikTvd": "2562000211402",
-    "tikName": "Бузулукская"
+    "tikName": "Бузулукская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 333,
     "uikTvd": "4564046100405",
+    "uikName": "УИК №333",
     "tikTvd": "2562000211402",
-    "tikName": "Бузулукская"
+    "tikName": "Бузулукская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 334,
     "uikTvd": "4564046100406",
+    "uikName": "УИК №334",
     "tikTvd": "2562000211402",
-    "tikName": "Бузулукская"
+    "tikName": "Бузулукская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 335,
     "uikTvd": "4564046100407",
+    "uikName": "УИК №335",
     "tikTvd": "2562000211402",
-    "tikName": "Бузулукская"
+    "tikName": "Бузулукская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 336,
     "uikTvd": "4564046100408",
+    "uikName": "УИК №336",
     "tikTvd": "2562000211402",
-    "tikName": "Бузулукская"
+    "tikName": "Бузулукская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 337,
     "uikTvd": "4564046100409",
+    "uikName": "УИК №337",
     "tikTvd": "2562000211402",
-    "tikName": "Бузулукская"
+    "tikName": "Бузулукская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 338,
     "uikTvd": "4564046100410",
+    "uikName": "УИК №338",
     "tikTvd": "2562000211402",
-    "tikName": "Бузулукская"
+    "tikName": "Бузулукская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 339,
     "uikTvd": "4564046100411",
+    "uikName": "УИК №339",
     "tikTvd": "2562000211402",
-    "tikName": "Бузулукская"
+    "tikName": "Бузулукская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 340,
     "uikTvd": "4564046100412",
+    "uikName": "УИК №340",
     "tikTvd": "2562000211402",
-    "tikName": "Бузулукская"
+    "tikName": "Бузулукская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 341,
     "uikTvd": "4564046100413",
+    "uikName": "УИК №341",
     "tikTvd": "2562000211402",
-    "tikName": "Бузулукская"
+    "tikName": "Бузулукская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 342,
     "uikTvd": "4564046100414",
+    "uikName": "УИК №342",
     "tikTvd": "2562000211402",
-    "tikName": "Бузулукская"
+    "tikName": "Бузулукская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 343,
     "uikTvd": "4564046100415",
+    "uikName": "УИК №343",
     "tikTvd": "2562000211402",
-    "tikName": "Бузулукская"
+    "tikName": "Бузулукская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 344,
     "uikTvd": "4564046100416",
+    "uikName": "УИК №344",
     "tikTvd": "2562000211402",
-    "tikName": "Бузулукская"
+    "tikName": "Бузулукская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 345,
     "uikTvd": "4564046100417",
+    "uikName": "УИК №345",
     "tikTvd": "2562000211402",
-    "tikName": "Бузулукская"
+    "tikName": "Бузулукская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 346,
     "uikTvd": "4564046100418",
+    "uikName": "УИК №346",
     "tikTvd": "2562000211402",
-    "tikName": "Бузулукская"
+    "tikName": "Бузулукская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 347,
     "uikTvd": "4564046100419",
+    "uikName": "УИК №347",
     "tikTvd": "2562000211402",
-    "tikName": "Бузулукская"
+    "tikName": "Бузулукская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 348,
     "uikTvd": "4564046100420",
+    "uikName": "УИК №348",
     "tikTvd": "2562000211402",
-    "tikName": "Бузулукская"
+    "tikName": "Бузулукская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 349,
     "uikTvd": "4564046100421",
+    "uikName": "УИК №349",
     "tikTvd": "2562000211402",
-    "tikName": "Бузулукская"
+    "tikName": "Бузулукская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 350,
     "uikTvd": "4564046100422",
+    "uikName": "УИК №350",
     "tikTvd": "2562000211402",
-    "tikName": "Бузулукская"
+    "tikName": "Бузулукская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 351,
     "uikTvd": "4564046100423",
+    "uikName": "УИК №351",
     "tikTvd": "2562000211402",
-    "tikName": "Бузулукская"
+    "tikName": "Бузулукская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 352,
     "uikTvd": "4564046100424",
+    "uikName": "УИК №352",
     "tikTvd": "2562000211402",
-    "tikName": "Бузулукская"
+    "tikName": "Бузулукская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 353,
     "uikTvd": "4564046100425",
+    "uikName": "УИК №353",
     "tikTvd": "2562000211402",
-    "tikName": "Бузулукская"
+    "tikName": "Бузулукская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 354,
     "uikTvd": "4564046100426",
+    "uikName": "УИК №354",
     "tikTvd": "2562000211402",
-    "tikName": "Бузулукская"
+    "tikName": "Бузулукская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 355,
     "uikTvd": "4564046100427",
+    "uikName": "УИК №355",
     "tikTvd": "2562000211402",
-    "tikName": "Бузулукская"
+    "tikName": "Бузулукская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 356,
     "uikTvd": "4564046100428",
+    "uikName": "УИК №356",
     "tikTvd": "2562000211402",
-    "tikName": "Бузулукская"
+    "tikName": "Бузулукская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 357,
     "uikTvd": "456400877407",
+    "uikName": "УИК №357",
     "tikTvd": "2562000211377",
-    "tikName": "Бузулукская городская"
+    "tikName": "Бузулукская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 358,
     "uikTvd": "456400877408",
+    "uikName": "УИК №358",
     "tikTvd": "2562000211377",
-    "tikName": "Бузулукская городская"
+    "tikName": "Бузулукская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 359,
     "uikTvd": "456400877409",
+    "uikName": "УИК №359",
     "tikTvd": "2562000211377",
-    "tikName": "Бузулукская городская"
+    "tikName": "Бузулукская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 360,
     "uikTvd": "456400877410",
+    "uikName": "УИК №360",
     "tikTvd": "2562000211377",
-    "tikName": "Бузулукская городская"
+    "tikName": "Бузулукская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 361,
     "uikTvd": "456400877411",
+    "uikName": "УИК №361",
     "tikTvd": "2562000211377",
-    "tikName": "Бузулукская городская"
+    "tikName": "Бузулукская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 362,
     "uikTvd": "456400877412",
+    "uikName": "УИК №362",
     "tikTvd": "2562000211377",
-    "tikName": "Бузулукская городская"
+    "tikName": "Бузулукская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 363,
     "uikTvd": "456400877413",
+    "uikName": "УИК №363",
     "tikTvd": "2562000211377",
-    "tikName": "Бузулукская городская"
+    "tikName": "Бузулукская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 364,
     "uikTvd": "456400877414",
+    "uikName": "УИК №364",
     "tikTvd": "2562000211377",
-    "tikName": "Бузулукская городская"
+    "tikName": "Бузулукская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 365,
     "uikTvd": "456400877415",
+    "uikName": "УИК №365",
     "tikTvd": "2562000211377",
-    "tikName": "Бузулукская городская"
+    "tikName": "Бузулукская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 366,
     "uikTvd": "456400877416",
+    "uikName": "УИК №366",
     "tikTvd": "2562000211377",
-    "tikName": "Бузулукская городская"
+    "tikName": "Бузулукская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 367,
     "uikTvd": "456400877417",
+    "uikName": "УИК №367",
     "tikTvd": "2562000211377",
-    "tikName": "Бузулукская городская"
+    "tikName": "Бузулукская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 368,
     "uikTvd": "456400877418",
+    "uikName": "УИК №368",
     "tikTvd": "2562000211377",
-    "tikName": "Бузулукская городская"
+    "tikName": "Бузулукская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 369,
     "uikTvd": "456400877419",
+    "uikName": "УИК №369",
     "tikTvd": "2562000211377",
-    "tikName": "Бузулукская городская"
+    "tikName": "Бузулукская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 370,
     "uikTvd": "456400877420",
+    "uikName": "УИК №370",
     "tikTvd": "2562000211377",
-    "tikName": "Бузулукская городская"
+    "tikName": "Бузулукская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 371,
     "uikTvd": "456400877421",
+    "uikName": "УИК №371",
     "tikTvd": "2562000211377",
-    "tikName": "Бузулукская городская"
+    "tikName": "Бузулукская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 372,
     "uikTvd": "456400877422",
+    "uikName": "УИК №372",
     "tikTvd": "2562000211377",
-    "tikName": "Бузулукская городская"
+    "tikName": "Бузулукская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 373,
     "uikTvd": "456400877423",
+    "uikName": "УИК №373",
     "tikTvd": "2562000211377",
-    "tikName": "Бузулукская городская"
+    "tikName": "Бузулукская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 374,
     "uikTvd": "456400877424",
+    "uikName": "УИК №374",
     "tikTvd": "2562000211377",
-    "tikName": "Бузулукская городская"
+    "tikName": "Бузулукская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 375,
     "uikTvd": "456400877425",
+    "uikName": "УИК №375",
     "tikTvd": "2562000211377",
-    "tikName": "Бузулукская городская"
+    "tikName": "Бузулукская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 376,
     "uikTvd": "456400877426",
+    "uikName": "УИК №376",
     "tikTvd": "2562000211377",
-    "tikName": "Бузулукская городская"
+    "tikName": "Бузулукская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 377,
     "uikTvd": "456400877427",
+    "uikName": "УИК №377",
     "tikTvd": "2562000211377",
-    "tikName": "Бузулукская городская"
+    "tikName": "Бузулукская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 378,
     "uikTvd": "456400877428",
+    "uikName": "УИК №378",
     "tikTvd": "2562000211377",
-    "tikName": "Бузулукская городская"
+    "tikName": "Бузулукская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 379,
     "uikTvd": "456400877429",
+    "uikName": "УИК №379",
     "tikTvd": "2562000211377",
-    "tikName": "Бузулукская городская"
+    "tikName": "Бузулукская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 380,
     "uikTvd": "456400877430",
+    "uikName": "УИК №380",
     "tikTvd": "2562000211377",
-    "tikName": "Бузулукская городская"
+    "tikName": "Бузулукская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 381,
     "uikTvd": "456400877431",
+    "uikName": "УИК №381",
     "tikTvd": "2562000211377",
-    "tikName": "Бузулукская городская"
+    "tikName": "Бузулукская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 382,
     "uikTvd": "456400877432",
+    "uikName": "УИК №382",
     "tikTvd": "2562000211377",
-    "tikName": "Бузулукская городская"
+    "tikName": "Бузулукская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 383,
     "uikTvd": "456400877433",
+    "uikName": "УИК №383",
     "tikTvd": "2562000211377",
-    "tikName": "Бузулукская городская"
+    "tikName": "Бузулукская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 384,
     "uikTvd": "456400877434",
+    "uikName": "УИК №384",
     "tikTvd": "2562000211377",
-    "tikName": "Бузулукская городская"
+    "tikName": "Бузулукская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 385,
     "uikTvd": "456400877435",
+    "uikName": "УИК №385",
     "tikTvd": "2562000211377",
-    "tikName": "Бузулукская городская"
+    "tikName": "Бузулукская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 386,
     "uikTvd": "456400877436",
+    "uikName": "УИК №386",
     "tikTvd": "2562000211377",
-    "tikName": "Бузулукская городская"
+    "tikName": "Бузулукская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 387,
     "uikTvd": "456400877437",
+    "uikName": "УИК №387",
     "tikTvd": "2562000211377",
-    "tikName": "Бузулукская городская"
+    "tikName": "Бузулукская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 388,
     "uikTvd": "456400985363",
+    "uikName": "УИК №388",
     "tikTvd": "2562000211372",
-    "tikName": "Гайская"
+    "tikName": "Гайская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 389,
     "uikTvd": "456400985364",
+    "uikName": "УИК №389",
     "tikTvd": "2562000211372",
-    "tikName": "Гайская"
+    "tikName": "Гайская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 390,
     "uikTvd": "456400985365",
+    "uikName": "УИК №390",
     "tikTvd": "2562000211372",
-    "tikName": "Гайская"
+    "tikName": "Гайская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 391,
     "uikTvd": "456400985366",
+    "uikName": "УИК №391",
     "tikTvd": "2562000211372",
-    "tikName": "Гайская"
+    "tikName": "Гайская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 392,
     "uikTvd": "456400985367",
+    "uikName": "УИК №392",
     "tikTvd": "2562000211372",
-    "tikName": "Гайская"
+    "tikName": "Гайская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 393,
     "uikTvd": "456400985368",
+    "uikName": "УИК №393",
     "tikTvd": "2562000211372",
-    "tikName": "Гайская"
+    "tikName": "Гайская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 394,
     "uikTvd": "456400985369",
+    "uikName": "УИК №394",
     "tikTvd": "2562000211372",
-    "tikName": "Гайская"
+    "tikName": "Гайская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 395,
     "uikTvd": "456400985370",
+    "uikName": "УИК №395",
     "tikTvd": "2562000211372",
-    "tikName": "Гайская"
+    "tikName": "Гайская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 396,
     "uikTvd": "456400985371",
+    "uikName": "УИК №396",
     "tikTvd": "2562000211372",
-    "tikName": "Гайская"
+    "tikName": "Гайская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 397,
     "uikTvd": "456400985372",
+    "uikName": "УИК №397",
     "tikTvd": "2562000211372",
-    "tikName": "Гайская"
+    "tikName": "Гайская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 398,
     "uikTvd": "456400985373",
+    "uikName": "УИК №398",
     "tikTvd": "2562000211372",
-    "tikName": "Гайская"
+    "tikName": "Гайская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 399,
     "uikTvd": "456400985374",
+    "uikName": "УИК №399",
     "tikTvd": "2562000211372",
-    "tikName": "Гайская"
+    "tikName": "Гайская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 400,
     "uikTvd": "456400985375",
+    "uikName": "УИК №400",
     "tikTvd": "2562000211372",
-    "tikName": "Гайская"
+    "tikName": "Гайская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 401,
     "uikTvd": "456400985376",
+    "uikName": "УИК №401",
     "tikTvd": "2562000211372",
-    "tikName": "Гайская"
+    "tikName": "Гайская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 402,
     "uikTvd": "456400985377",
+    "uikName": "УИК №402",
     "tikTvd": "2562000211372",
-    "tikName": "Гайская"
+    "tikName": "Гайская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 403,
     "uikTvd": "456400985378",
+    "uikName": "УИК №403",
     "tikTvd": "2562000211372",
-    "tikName": "Гайская"
+    "tikName": "Гайская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 404,
     "uikTvd": "456400985379",
+    "uikName": "УИК №404",
     "tikTvd": "2562000211372",
-    "tikName": "Гайская"
+    "tikName": "Гайская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 405,
     "uikTvd": "456400985380",
+    "uikName": "УИК №405",
     "tikTvd": "2562000211372",
-    "tikName": "Гайская"
+    "tikName": "Гайская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 406,
     "uikTvd": "456400985381",
+    "uikName": "УИК №406",
     "tikTvd": "2562000211372",
-    "tikName": "Гайская"
+    "tikName": "Гайская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 407,
     "uikTvd": "456400985382",
+    "uikName": "УИК №407",
     "tikTvd": "2562000211372",
-    "tikName": "Гайская"
+    "tikName": "Гайская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 408,
     "uikTvd": "456400985383",
+    "uikName": "УИК №408",
     "tikTvd": "2562000211372",
-    "tikName": "Гайская"
+    "tikName": "Гайская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 409,
     "uikTvd": "456400985384",
+    "uikName": "УИК №409",
     "tikTvd": "2562000211372",
-    "tikName": "Гайская"
+    "tikName": "Гайская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 410,
     "uikTvd": "456400985385",
+    "uikName": "УИК №410",
     "tikTvd": "2562000211372",
-    "tikName": "Гайская"
+    "tikName": "Гайская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 411,
     "uikTvd": "456400985386",
+    "uikName": "УИК №411",
     "tikTvd": "2562000211372",
-    "tikName": "Гайская"
+    "tikName": "Гайская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 412,
     "uikTvd": "456400985387",
+    "uikName": "УИК №412",
     "tikTvd": "2562000211372",
-    "tikName": "Гайская"
+    "tikName": "Гайская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 413,
     "uikTvd": "456400985388",
+    "uikName": "УИК №413",
     "tikTvd": "2562000211372",
-    "tikName": "Гайская"
+    "tikName": "Гайская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 414,
     "uikTvd": "456400985389",
+    "uikName": "УИК №414",
     "tikTvd": "2562000211372",
-    "tikName": "Гайская"
+    "tikName": "Гайская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 415,
     "uikTvd": "456400985390",
+    "uikName": "УИК №415",
     "tikTvd": "2562000211372",
-    "tikName": "Гайская"
+    "tikName": "Гайская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 416,
     "uikTvd": "456400985391",
+    "uikName": "УИК №416",
     "tikTvd": "2562000211372",
-    "tikName": "Гайская"
+    "tikName": "Гайская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 417,
     "uikTvd": "456404780431",
+    "uikName": "УИК №417",
     "tikTvd": "2562000211404",
-    "tikName": "Гайская городская"
+    "tikName": "Гайская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 418,
     "uikTvd": "456404780432",
+    "uikName": "УИК №418",
     "tikTvd": "2562000211404",
-    "tikName": "Гайская городская"
+    "tikName": "Гайская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 419,
     "uikTvd": "456404780433",
+    "uikName": "УИК №419",
     "tikTvd": "2562000211404",
-    "tikName": "Гайская городская"
+    "tikName": "Гайская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 420,
     "uikTvd": "456404780434",
+    "uikName": "УИК №420",
     "tikTvd": "2562000211404",
-    "tikName": "Гайская городская"
+    "tikName": "Гайская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 421,
     "uikTvd": "456404780435",
+    "uikName": "УИК №421",
     "tikTvd": "2562000211404",
-    "tikName": "Гайская городская"
+    "tikName": "Гайская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 422,
     "uikTvd": "456404780436",
+    "uikName": "УИК №422",
     "tikTvd": "2562000211404",
-    "tikName": "Гайская городская"
+    "tikName": "Гайская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 423,
     "uikTvd": "456404780437",
+    "uikName": "УИК №423",
     "tikTvd": "2562000211404",
-    "tikName": "Гайская городская"
+    "tikName": "Гайская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 424,
     "uikTvd": "456404780438",
+    "uikName": "УИК №424",
     "tikTvd": "2562000211404",
-    "tikName": "Гайская городская"
+    "tikName": "Гайская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 425,
     "uikTvd": "456404780439",
+    "uikName": "УИК №425",
     "tikTvd": "2562000211404",
-    "tikName": "Гайская городская"
+    "tikName": "Гайская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 426,
     "uikTvd": "456404780440",
+    "uikName": "УИК №426",
     "tikTvd": "2562000211404",
-    "tikName": "Гайская городская"
+    "tikName": "Гайская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 427,
     "uikTvd": "456404780441",
+    "uikName": "УИК №427",
     "tikTvd": "2562000211404",
-    "tikName": "Гайская городская"
+    "tikName": "Гайская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 428,
     "uikTvd": "456404780442",
+    "uikName": "УИК №428",
     "tikTvd": "2562000211404",
-    "tikName": "Гайская городская"
+    "tikName": "Гайская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 429,
     "uikTvd": "456404780443",
+    "uikName": "УИК №429",
     "tikTvd": "2562000211404",
-    "tikName": "Гайская городская"
+    "tikName": "Гайская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 430,
     "uikTvd": "456401085522",
+    "uikName": "УИК №430",
     "tikTvd": "2562000211373",
-    "tikName": "Грачевская"
+    "tikName": "Грачевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 431,
     "uikTvd": "456401085523",
+    "uikName": "УИК №431",
     "tikTvd": "2562000211373",
-    "tikName": "Грачевская"
+    "tikName": "Грачевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 432,
     "uikTvd": "456401085524",
+    "uikName": "УИК №432",
     "tikTvd": "2562000211373",
-    "tikName": "Грачевская"
+    "tikName": "Грачевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 433,
     "uikTvd": "456401085525",
+    "uikName": "УИК №433",
     "tikTvd": "2562000211373",
-    "tikName": "Грачевская"
+    "tikName": "Грачевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 434,
     "uikTvd": "456401085526",
+    "uikName": "УИК №434",
     "tikTvd": "2562000211373",
-    "tikName": "Грачевская"
+    "tikName": "Грачевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 435,
     "uikTvd": "456401085527",
+    "uikName": "УИК №435",
     "tikTvd": "2562000211373",
-    "tikName": "Грачевская"
+    "tikName": "Грачевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 436,
     "uikTvd": "456401085528",
+    "uikName": "УИК №436",
     "tikTvd": "2562000211373",
-    "tikName": "Грачевская"
+    "tikName": "Грачевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 437,
     "uikTvd": "456401085529",
+    "uikName": "УИК №437",
     "tikTvd": "2562000211373",
-    "tikName": "Грачевская"
+    "tikName": "Грачевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 438,
     "uikTvd": "456401085530",
+    "uikName": "УИК №438",
     "tikTvd": "2562000211373",
-    "tikName": "Грачевская"
+    "tikName": "Грачевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 439,
     "uikTvd": "456401085531",
+    "uikName": "УИК №439",
     "tikTvd": "2562000211373",
-    "tikName": "Грачевская"
+    "tikName": "Грачевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 440,
     "uikTvd": "456401085532",
+    "uikName": "УИК №440",
     "tikTvd": "2562000211373",
-    "tikName": "Грачевская"
+    "tikName": "Грачевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 441,
     "uikTvd": "456401085533",
+    "uikName": "УИК №441",
     "tikTvd": "2562000211373",
-    "tikName": "Грачевская"
+    "tikName": "Грачевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 442,
     "uikTvd": "456401085534",
+    "uikName": "УИК №442",
     "tikTvd": "2562000211373",
-    "tikName": "Грачевская"
+    "tikName": "Грачевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 443,
     "uikTvd": "456401085535",
+    "uikName": "УИК №443",
     "tikTvd": "2562000211373",
-    "tikName": "Грачевская"
+    "tikName": "Грачевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 444,
     "uikTvd": "456401085536",
+    "uikName": "УИК №444",
     "tikTvd": "2562000211373",
-    "tikName": "Грачевская"
+    "tikName": "Грачевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 445,
     "uikTvd": "456401085537",
+    "uikName": "УИК №445",
     "tikTvd": "2562000211373",
-    "tikName": "Грачевская"
+    "tikName": "Грачевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 446,
     "uikTvd": "456401085538",
+    "uikName": "УИК №446",
     "tikTvd": "2562000211373",
-    "tikName": "Грачевская"
+    "tikName": "Грачевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 447,
     "uikTvd": "456401085539",
+    "uikName": "УИК №447",
     "tikTvd": "2562000211373",
-    "tikName": "Грачевская"
+    "tikName": "Грачевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 448,
     "uikTvd": "456401085540",
+    "uikName": "УИК №448",
     "tikTvd": "2562000211373",
-    "tikName": "Грачевская"
+    "tikName": "Грачевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 449,
     "uikTvd": "456401085541",
+    "uikName": "УИК №449",
     "tikTvd": "2562000211373",
-    "tikName": "Грачевская"
+    "tikName": "Грачевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 450,
     "uikTvd": "456401085542",
+    "uikName": "УИК №450",
     "tikTvd": "2562000211373",
-    "tikName": "Грачевская"
+    "tikName": "Грачевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 451,
     "uikTvd": "456401085543",
+    "uikName": "УИК №451",
     "tikTvd": "2562000211373",
-    "tikName": "Грачевская"
+    "tikName": "Грачевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 452,
     "uikTvd": "456401085544",
+    "uikName": "УИК №452",
     "tikTvd": "2562000211373",
-    "tikName": "Грачевская"
+    "tikName": "Грачевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 453,
     "uikTvd": "456400877438",
+    "uikName": "УИК №453",
     "tikTvd": "2562000211377",
-    "tikName": "Бузулукская городская"
+    "tikName": "Бузулукская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 454,
     "uikTvd": "456400877439",
+    "uikName": "УИК №454",
     "tikTvd": "2562000211377",
-    "tikName": "Бузулукская городская"
+    "tikName": "Бузулукская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 455,
     "uikTvd": "456401185245",
+    "uikName": "УИК №455",
     "tikTvd": "2562000211374",
-    "tikName": "Домбаровская"
+    "tikName": "Домбаровская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 456,
     "uikTvd": "456401185246",
+    "uikName": "УИК №456",
     "tikTvd": "2562000211374",
-    "tikName": "Домбаровская"
+    "tikName": "Домбаровская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 457,
     "uikTvd": "456401185247",
+    "uikName": "УИК №457",
     "tikTvd": "2562000211374",
-    "tikName": "Домбаровская"
+    "tikName": "Домбаровская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 458,
     "uikTvd": "456401185248",
+    "uikName": "УИК №458",
     "tikTvd": "2562000211374",
-    "tikName": "Домбаровская"
+    "tikName": "Домбаровская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 459,
     "uikTvd": "456401185249",
+    "uikName": "УИК №459",
     "tikTvd": "2562000211374",
-    "tikName": "Домбаровская"
+    "tikName": "Домбаровская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 460,
     "uikTvd": "456401185250",
+    "uikName": "УИК №460",
     "tikTvd": "2562000211374",
-    "tikName": "Домбаровская"
+    "tikName": "Домбаровская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 461,
     "uikTvd": "456401185251",
+    "uikName": "УИК №461",
     "tikTvd": "2562000211374",
-    "tikName": "Домбаровская"
+    "tikName": "Домбаровская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 462,
     "uikTvd": "456401185252",
+    "uikName": "УИК №462",
     "tikTvd": "2562000211374",
-    "tikName": "Домбаровская"
+    "tikName": "Домбаровская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 463,
     "uikTvd": "456401185253",
+    "uikName": "УИК №463",
     "tikTvd": "2562000211374",
-    "tikName": "Домбаровская"
+    "tikName": "Домбаровская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 464,
     "uikTvd": "456401185254",
+    "uikName": "УИК №464",
     "tikTvd": "2562000211374",
-    "tikName": "Домбаровская"
+    "tikName": "Домбаровская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 465,
     "uikTvd": "456401185255",
+    "uikName": "УИК №465",
     "tikTvd": "2562000211374",
-    "tikName": "Домбаровская"
+    "tikName": "Домбаровская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 466,
     "uikTvd": "456401185256",
+    "uikName": "УИК №466",
     "tikTvd": "2562000211374",
-    "tikName": "Домбаровская"
+    "tikName": "Домбаровская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 467,
     "uikTvd": "456401185257",
+    "uikName": "УИК №467",
     "tikTvd": "2562000211374",
-    "tikName": "Домбаровская"
+    "tikName": "Домбаровская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 468,
     "uikTvd": "456401185258",
+    "uikName": "УИК №468",
     "tikTvd": "2562000211374",
-    "tikName": "Домбаровская"
+    "tikName": "Домбаровская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 469,
     "uikTvd": "456401185259",
+    "uikName": "УИК №469",
     "tikTvd": "2562000211374",
-    "tikName": "Домбаровская"
+    "tikName": "Домбаровская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 470,
     "uikTvd": "456401185260",
+    "uikName": "УИК №470",
     "tikTvd": "2562000211374",
-    "tikName": "Домбаровская"
+    "tikName": "Домбаровская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 471,
     "uikTvd": "456401185261",
+    "uikName": "УИК №471",
     "tikTvd": "2562000211374",
-    "tikName": "Домбаровская"
+    "tikName": "Домбаровская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 472,
     "uikTvd": "456401185262",
+    "uikName": "УИК №472",
     "tikTvd": "2562000211374",
-    "tikName": "Домбаровская"
+    "tikName": "Домбаровская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 473,
     "uikTvd": "456401185263",
+    "uikName": "УИК №473",
     "tikTvd": "2562000211374",
-    "tikName": "Домбаровская"
+    "tikName": "Домбаровская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 474,
     "uikTvd": "456401185264",
+    "uikName": "УИК №474",
     "tikTvd": "2562000211374",
-    "tikName": "Домбаровская"
+    "tikName": "Домбаровская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 475,
     "uikTvd": "456401185265",
+    "uikName": "УИК №475",
     "tikTvd": "2562000211374",
-    "tikName": "Домбаровская"
+    "tikName": "Домбаровская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 476,
     "uikTvd": "456401185266",
+    "uikName": "УИК №476",
     "tikTvd": "2562000211374",
-    "tikName": "Домбаровская"
+    "tikName": "Домбаровская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 477,
     "uikTvd": "456401185267",
+    "uikName": "УИК №477",
     "tikTvd": "2562000211374",
-    "tikName": "Домбаровская"
+    "tikName": "Домбаровская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 478,
     "uikTvd": "456401185268",
+    "uikName": "УИК №478",
     "tikTvd": "2562000211374",
-    "tikName": "Домбаровская"
+    "tikName": "Домбаровская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 479,
     "uikTvd": "456401185269",
+    "uikName": "УИК №479",
     "tikTvd": "2562000211374",
-    "tikName": "Домбаровская"
+    "tikName": "Домбаровская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 480,
     "uikTvd": "456401185270",
+    "uikName": "УИК №480",
     "tikTvd": "2562000211374",
-    "tikName": "Домбаровская"
+    "tikName": "Домбаровская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 481,
     "uikTvd": "456401185271",
+    "uikName": "УИК №481",
     "tikTvd": "2562000211374",
-    "tikName": "Домбаровская"
+    "tikName": "Домбаровская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 482,
     "uikTvd": "456401185272",
+    "uikName": "УИК №482",
     "tikTvd": "2562000211374",
-    "tikName": "Домбаровская"
+    "tikName": "Домбаровская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 483,
     "uikTvd": "456401292149",
+    "uikName": "УИК №483",
     "tikTvd": "2562000211370",
-    "tikName": "Илекская"
+    "tikName": "Илекская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 484,
     "uikTvd": "456401292150",
+    "uikName": "УИК №484",
     "tikTvd": "2562000211370",
-    "tikName": "Илекская"
+    "tikName": "Илекская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 485,
     "uikTvd": "456401292151",
+    "uikName": "УИК №485",
     "tikTvd": "2562000211370",
-    "tikName": "Илекская"
+    "tikName": "Илекская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 486,
     "uikTvd": "456401292152",
+    "uikName": "УИК №486",
     "tikTvd": "2562000211370",
-    "tikName": "Илекская"
+    "tikName": "Илекская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 487,
     "uikTvd": "456401292153",
+    "uikName": "УИК №487",
     "tikTvd": "2562000211370",
-    "tikName": "Илекская"
+    "tikName": "Илекская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 488,
     "uikTvd": "456401292154",
+    "uikName": "УИК №488",
     "tikTvd": "2562000211370",
-    "tikName": "Илекская"
+    "tikName": "Илекская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 489,
     "uikTvd": "456401292155",
+    "uikName": "УИК №489",
     "tikTvd": "2562000211370",
-    "tikName": "Илекская"
+    "tikName": "Илекская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 490,
     "uikTvd": "456401292156",
+    "uikName": "УИК №490",
     "tikTvd": "2562000211370",
-    "tikName": "Илекская"
+    "tikName": "Илекская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 491,
     "uikTvd": "456401292157",
+    "uikName": "УИК №491",
     "tikTvd": "2562000211370",
-    "tikName": "Илекская"
+    "tikName": "Илекская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 492,
     "uikTvd": "456401292158",
+    "uikName": "УИК №492",
     "tikTvd": "2562000211370",
-    "tikName": "Илекская"
+    "tikName": "Илекская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 493,
     "uikTvd": "456401292159",
+    "uikName": "УИК №493",
     "tikTvd": "2562000211370",
-    "tikName": "Илекская"
+    "tikName": "Илекская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 494,
     "uikTvd": "456401292160",
+    "uikName": "УИК №494",
     "tikTvd": "2562000211370",
-    "tikName": "Илекская"
+    "tikName": "Илекская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 495,
     "uikTvd": "456401292161",
+    "uikName": "УИК №495",
     "tikTvd": "2562000211370",
-    "tikName": "Илекская"
+    "tikName": "Илекская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 496,
     "uikTvd": "456401292162",
+    "uikName": "УИК №496",
     "tikTvd": "2562000211370",
-    "tikName": "Илекская"
+    "tikName": "Илекская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 497,
     "uikTvd": "456401292163",
+    "uikName": "УИК №497",
     "tikTvd": "2562000211370",
-    "tikName": "Илекская"
+    "tikName": "Илекская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 498,
     "uikTvd": "456401292164",
+    "uikName": "УИК №498",
     "tikTvd": "2562000211370",
-    "tikName": "Илекская"
+    "tikName": "Илекская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 499,
     "uikTvd": "456401292165",
+    "uikName": "УИК №499",
     "tikTvd": "2562000211370",
-    "tikName": "Илекская"
+    "tikName": "Илекская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 500,
     "uikTvd": "456401292166",
+    "uikName": "УИК №500",
     "tikTvd": "2562000211370",
-    "tikName": "Илекская"
+    "tikName": "Илекская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 501,
     "uikTvd": "456401292167",
+    "uikName": "УИК №501",
     "tikTvd": "2562000211370",
-    "tikName": "Илекская"
+    "tikName": "Илекская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 502,
     "uikTvd": "456401292168",
+    "uikName": "УИК №502",
     "tikTvd": "2562000211370",
-    "tikName": "Илекская"
+    "tikName": "Илекская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 503,
     "uikTvd": "456401292169",
+    "uikName": "УИК №503",
     "tikTvd": "2562000211370",
-    "tikName": "Илекская"
+    "tikName": "Илекская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 504,
     "uikTvd": "456401292170",
+    "uikName": "УИК №504",
     "tikTvd": "2562000211370",
-    "tikName": "Илекская"
+    "tikName": "Илекская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 505,
     "uikTvd": "456401292171",
+    "uikName": "УИК №505",
     "tikTvd": "2562000211370",
-    "tikName": "Илекская"
+    "tikName": "Илекская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 506,
     "uikTvd": "456401292172",
+    "uikName": "УИК №506",
     "tikTvd": "2562000211370",
-    "tikName": "Илекская"
+    "tikName": "Илекская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 507,
     "uikTvd": "456401292173",
+    "uikName": "УИК №507",
     "tikTvd": "2562000211370",
-    "tikName": "Илекская"
+    "tikName": "Илекская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 508,
     "uikTvd": "456401292174",
+    "uikName": "УИК №508",
     "tikTvd": "2562000211370",
-    "tikName": "Илекская"
+    "tikName": "Илекская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 509,
     "uikTvd": "456401292175",
+    "uikName": "УИК №509",
     "tikTvd": "2562000211370",
-    "tikName": "Илекская"
+    "tikName": "Илекская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 510,
     "uikTvd": "456401292176",
+    "uikName": "УИК №510",
     "tikTvd": "2562000211370",
-    "tikName": "Илекская"
+    "tikName": "Илекская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 511,
     "uikTvd": "456401386938",
+    "uikName": "УИК №511",
     "tikTvd": "2562000211369",
-    "tikName": "Кваркенская"
+    "tikName": "Кваркенская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 512,
     "uikTvd": "456401386939",
+    "uikName": "УИК №512",
     "tikTvd": "2562000211369",
-    "tikName": "Кваркенская"
+    "tikName": "Кваркенская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 513,
     "uikTvd": "456401386940",
+    "uikName": "УИК №513",
     "tikTvd": "2562000211369",
-    "tikName": "Кваркенская"
+    "tikName": "Кваркенская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 514,
     "uikTvd": "456401386941",
+    "uikName": "УИК №514",
     "tikTvd": "2562000211369",
-    "tikName": "Кваркенская"
+    "tikName": "Кваркенская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 515,
     "uikTvd": "456401386942",
+    "uikName": "УИК №515",
     "tikTvd": "2562000211369",
-    "tikName": "Кваркенская"
+    "tikName": "Кваркенская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 516,
     "uikTvd": "456401386943",
+    "uikName": "УИК №516",
     "tikTvd": "2562000211369",
-    "tikName": "Кваркенская"
+    "tikName": "Кваркенская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 517,
     "uikTvd": "456401386944",
+    "uikName": "УИК №517",
     "tikTvd": "2562000211369",
-    "tikName": "Кваркенская"
+    "tikName": "Кваркенская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 518,
     "uikTvd": "456401386945",
+    "uikName": "УИК №518",
     "tikTvd": "2562000211369",
-    "tikName": "Кваркенская"
+    "tikName": "Кваркенская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 519,
     "uikTvd": "456401386946",
+    "uikName": "УИК №519",
     "tikTvd": "2562000211369",
-    "tikName": "Кваркенская"
+    "tikName": "Кваркенская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 520,
     "uikTvd": "456401386947",
+    "uikName": "УИК №520",
     "tikTvd": "2562000211369",
-    "tikName": "Кваркенская"
+    "tikName": "Кваркенская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 521,
     "uikTvd": "456401386948",
+    "uikName": "УИК №521",
     "tikTvd": "2562000211369",
-    "tikName": "Кваркенская"
+    "tikName": "Кваркенская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 522,
     "uikTvd": "456401386949",
+    "uikName": "УИК №522",
     "tikTvd": "2562000211369",
-    "tikName": "Кваркенская"
+    "tikName": "Кваркенская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 523,
     "uikTvd": "456401386950",
+    "uikName": "УИК №523",
     "tikTvd": "2562000211369",
-    "tikName": "Кваркенская"
+    "tikName": "Кваркенская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 524,
     "uikTvd": "456401386951",
+    "uikName": "УИК №524",
     "tikTvd": "2562000211369",
-    "tikName": "Кваркенская"
+    "tikName": "Кваркенская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 525,
     "uikTvd": "456401386952",
+    "uikName": "УИК №525",
     "tikTvd": "2562000211369",
-    "tikName": "Кваркенская"
+    "tikName": "Кваркенская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 526,
     "uikTvd": "456401386953",
+    "uikName": "УИК №526",
     "tikTvd": "2562000211369",
-    "tikName": "Кваркенская"
+    "tikName": "Кваркенская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 527,
     "uikTvd": "456401386954",
+    "uikName": "УИК №527",
     "tikTvd": "2562000211369",
-    "tikName": "Кваркенская"
+    "tikName": "Кваркенская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 528,
     "uikTvd": "456401386955",
+    "uikName": "УИК №528",
     "tikTvd": "2562000211369",
-    "tikName": "Кваркенская"
+    "tikName": "Кваркенская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 529,
     "uikTvd": "456401386956",
+    "uikName": "УИК №529",
     "tikTvd": "2562000211369",
-    "tikName": "Кваркенская"
+    "tikName": "Кваркенская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 530,
     "uikTvd": "456401386957",
+    "uikName": "УИК №530",
     "tikTvd": "2562000211369",
-    "tikName": "Кваркенская"
+    "tikName": "Кваркенская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 531,
     "uikTvd": "456401386958",
+    "uikName": "УИК №531",
     "tikTvd": "2562000211369",
-    "tikName": "Кваркенская"
+    "tikName": "Кваркенская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 532,
     "uikTvd": "456401386959",
+    "uikName": "УИК №532",
     "tikTvd": "2562000211369",
-    "tikName": "Кваркенская"
+    "tikName": "Кваркенская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 533,
     "uikTvd": "456401386960",
+    "uikName": "УИК №533",
     "tikTvd": "2562000211369",
-    "tikName": "Кваркенская"
+    "tikName": "Кваркенская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 534,
     "uikTvd": "456401386961",
+    "uikName": "УИК №534",
     "tikTvd": "2562000211369",
-    "tikName": "Кваркенская"
+    "tikName": "Кваркенская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 535,
     "uikTvd": "456401386962",
+    "uikName": "УИК №535",
     "tikTvd": "2562000211369",
-    "tikName": "Кваркенская"
+    "tikName": "Кваркенская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 536,
     "uikTvd": "456401386963",
+    "uikName": "УИК №536",
     "tikTvd": "2562000211369",
-    "tikName": "Кваркенская"
+    "tikName": "Кваркенская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 537,
     "uikTvd": "456401386964",
+    "uikName": "УИК №537",
     "tikTvd": "2562000211369",
-    "tikName": "Кваркенская"
+    "tikName": "Кваркенская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 538,
     "uikTvd": "456401386965",
+    "uikName": "УИК №538",
     "tikTvd": "2562000211369",
-    "tikName": "Кваркенская"
+    "tikName": "Кваркенская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 539,
     "uikTvd": "456401386966",
+    "uikName": "УИК №539",
     "tikTvd": "2562000211369",
-    "tikName": "Кваркенская"
+    "tikName": "Кваркенская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 540,
     "uikTvd": "456401386967",
+    "uikName": "УИК №540",
     "tikTvd": "2562000211369",
-    "tikName": "Кваркенская"
+    "tikName": "Кваркенская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 541,
     "uikTvd": "456401386968",
+    "uikName": "УИК №541",
     "tikTvd": "2562000211369",
-    "tikName": "Кваркенская"
+    "tikName": "Кваркенская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 542,
     "uikTvd": "456401386969",
+    "uikName": "УИК №542",
     "tikTvd": "2562000211369",
-    "tikName": "Кваркенская"
+    "tikName": "Кваркенская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 543,
     "uikTvd": "456401386970",
+    "uikName": "УИК №543",
     "tikTvd": "2562000211369",
-    "tikName": "Кваркенская"
+    "tikName": "Кваркенская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 544,
     "uikTvd": "456401386971",
+    "uikName": "УИК №544",
     "tikTvd": "2562000211369",
-    "tikName": "Кваркенская"
+    "tikName": "Кваркенская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 545,
     "uikTvd": "456401386972",
+    "uikName": "УИК №545",
     "tikTvd": "2562000211369",
-    "tikName": "Кваркенская"
+    "tikName": "Кваркенская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 546,
     "uikTvd": "456401386973",
+    "uikName": "УИК №546",
     "tikTvd": "2562000211369",
-    "tikName": "Кваркенская"
+    "tikName": "Кваркенская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 547,
     "uikTvd": "456401386974",
+    "uikName": "УИК №547",
     "tikTvd": "2562000211369",
-    "tikName": "Кваркенская"
+    "tikName": "Кваркенская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 548,
     "uikTvd": "456401386975",
+    "uikName": "УИК №548",
     "tikTvd": "2562000211369",
-    "tikName": "Кваркенская"
+    "tikName": "Кваркенская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 549,
     "uikTvd": "456401386976",
+    "uikName": "УИК №549",
     "tikTvd": "2562000211369",
-    "tikName": "Кваркенская"
+    "tikName": "Кваркенская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 550,
     "uikTvd": "456401498911",
+    "uikName": "УИК №550",
     "tikTvd": "2562000211371",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 551,
     "uikTvd": "456401498912",
+    "uikName": "УИК №551",
     "tikTvd": "2562000211371",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 552,
     "uikTvd": "456401498913",
+    "uikName": "УИК №552",
     "tikTvd": "2562000211371",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 553,
     "uikTvd": "456401498914",
+    "uikName": "УИК №553",
     "tikTvd": "2562000211371",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 554,
     "uikTvd": "456401498915",
+    "uikName": "УИК №554",
     "tikTvd": "2562000211371",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 555,
     "uikTvd": "456401498916",
+    "uikName": "УИК №555",
     "tikTvd": "2562000211371",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 556,
     "uikTvd": "456401498917",
+    "uikName": "УИК №556",
     "tikTvd": "2562000211371",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 557,
     "uikTvd": "456401498918",
+    "uikName": "УИК №557",
     "tikTvd": "2562000211371",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 558,
     "uikTvd": "456401498919",
+    "uikName": "УИК №558",
     "tikTvd": "2562000211371",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 559,
     "uikTvd": "456401498920",
+    "uikName": "УИК №559",
     "tikTvd": "2562000211371",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 560,
     "uikTvd": "456401498921",
+    "uikName": "УИК №560",
     "tikTvd": "2562000211371",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 561,
     "uikTvd": "456401498922",
+    "uikName": "УИК №561",
     "tikTvd": "2562000211371",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 562,
     "uikTvd": "456401498923",
+    "uikName": "УИК №562",
     "tikTvd": "2562000211371",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 563,
     "uikTvd": "456401498924",
+    "uikName": "УИК №563",
     "tikTvd": "2562000211371",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 564,
     "uikTvd": "456401498925",
+    "uikName": "УИК №564",
     "tikTvd": "2562000211371",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 565,
     "uikTvd": "456401498926",
+    "uikName": "УИК №565",
     "tikTvd": "2562000211371",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 566,
     "uikTvd": "456401498927",
+    "uikName": "УИК №566",
     "tikTvd": "2562000211371",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 567,
     "uikTvd": "456401498928",
+    "uikName": "УИК №567",
     "tikTvd": "2562000211371",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 568,
     "uikTvd": "456401498929",
+    "uikName": "УИК №568",
     "tikTvd": "2562000211371",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 569,
     "uikTvd": "456401498930",
+    "uikName": "УИК №569",
     "tikTvd": "2562000211371",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 570,
     "uikTvd": "456401498931",
+    "uikName": "УИК №570",
     "tikTvd": "2562000211371",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 571,
     "uikTvd": "456401498932",
+    "uikName": "УИК №571",
     "tikTvd": "2562000211371",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 572,
     "uikTvd": "456401498933",
+    "uikName": "УИК №572",
     "tikTvd": "2562000211371",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 573,
     "uikTvd": "456401498934",
+    "uikName": "УИК №573",
     "tikTvd": "2562000211371",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 574,
     "uikTvd": "456401498935",
+    "uikName": "УИК №574",
     "tikTvd": "2562000211371",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 575,
     "uikTvd": "456401498936",
+    "uikName": "УИК №575",
     "tikTvd": "2562000211371",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 576,
     "uikTvd": "456401498937",
+    "uikName": "УИК №576",
     "tikTvd": "2562000211371",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 577,
     "uikTvd": "456401498938",
+    "uikName": "УИК №577",
     "tikTvd": "2562000211371",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 578,
     "uikTvd": "456401498939",
+    "uikName": "УИК №578",
     "tikTvd": "2562000211371",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 579,
     "uikTvd": "456401498940",
+    "uikName": "УИК №579",
     "tikTvd": "2562000211371",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 580,
     "uikTvd": "456401498941",
+    "uikName": "УИК №580",
     "tikTvd": "2562000211371",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 581,
     "uikTvd": "456401498942",
+    "uikName": "УИК №581",
     "tikTvd": "2562000211371",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 582,
     "uikTvd": "456401498943",
+    "uikName": "УИК №582",
     "tikTvd": "2562000211371",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 583,
     "uikTvd": "456401498944",
+    "uikName": "УИК №583",
     "tikTvd": "2562000211371",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 584,
     "uikTvd": "456401498945",
+    "uikName": "УИК №584",
     "tikTvd": "2562000211371",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 585,
     "uikTvd": "456401498946",
+    "uikName": "УИК №585",
     "tikTvd": "2562000211371",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 586,
     "uikTvd": "456401498947",
+    "uikName": "УИК №586",
     "tikTvd": "2562000211371",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 587,
     "uikTvd": "456401498948",
+    "uikName": "УИК №587",
     "tikTvd": "2562000211371",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 588,
     "uikTvd": "456401498949",
+    "uikName": "УИК №588",
     "tikTvd": "2562000211371",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 589,
     "uikTvd": "456401498950",
+    "uikName": "УИК №589",
     "tikTvd": "2562000211371",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 590,
     "uikTvd": "456401498951",
+    "uikName": "УИК №590",
     "tikTvd": "2562000211371",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 591,
     "uikTvd": "456401498952",
+    "uikName": "УИК №591",
     "tikTvd": "2562000211371",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 592,
     "uikTvd": "456401498953",
+    "uikName": "УИК №592",
     "tikTvd": "2562000211371",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 593,
     "uikTvd": "456404892614",
+    "uikName": "УИК №593",
     "tikTvd": "2562000211399",
-    "tikName": "Кувандыкская"
+    "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 594,
     "uikTvd": "456404892615",
+    "uikName": "УИК №594",
     "tikTvd": "2562000211399",
-    "tikName": "Кувандыкская"
+    "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 595,
     "uikTvd": "456404892616",
+    "uikName": "УИК №595",
     "tikTvd": "2562000211399",
-    "tikName": "Кувандыкская"
+    "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 596,
     "uikTvd": "456404892617",
+    "uikName": "УИК №596",
     "tikTvd": "2562000211399",
-    "tikName": "Кувандыкская"
+    "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 597,
     "uikTvd": "456404892618",
+    "uikName": "УИК №597",
     "tikTvd": "2562000211399",
-    "tikName": "Кувандыкская"
+    "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 598,
     "uikTvd": "456404892619",
+    "uikName": "УИК №598",
     "tikTvd": "2562000211399",
-    "tikName": "Кувандыкская"
+    "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 599,
     "uikTvd": "456404892620",
+    "uikName": "УИК №599",
     "tikTvd": "2562000211399",
-    "tikName": "Кувандыкская"
+    "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 600,
     "uikTvd": "456404892621",
+    "uikName": "УИК №600",
     "tikTvd": "2562000211399",
-    "tikName": "Кувандыкская"
+    "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 601,
     "uikTvd": "456404892622",
+    "uikName": "УИК №601",
     "tikTvd": "2562000211399",
-    "tikName": "Кувандыкская"
+    "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 602,
     "uikTvd": "456404892623",
+    "uikName": "УИК №602",
     "tikTvd": "2562000211399",
-    "tikName": "Кувандыкская"
+    "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 603,
     "uikTvd": "456404892624",
+    "uikName": "УИК №603",
     "tikTvd": "2562000211399",
-    "tikName": "Кувандыкская"
+    "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 604,
     "uikTvd": "456404892625",
+    "uikName": "УИК №604",
     "tikTvd": "2562000211399",
-    "tikName": "Кувандыкская"
+    "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 605,
     "uikTvd": "456404892626",
+    "uikName": "УИК №605",
     "tikTvd": "2562000211399",
-    "tikName": "Кувандыкская"
+    "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 606,
     "uikTvd": "456404892627",
+    "uikName": "УИК №606",
     "tikTvd": "2562000211399",
-    "tikName": "Кувандыкская"
+    "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 607,
     "uikTvd": "456404892628",
+    "uikName": "УИК №607",
     "tikTvd": "2562000211399",
-    "tikName": "Кувандыкская"
+    "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 608,
     "uikTvd": "456404892629",
+    "uikName": "УИК №608",
     "tikTvd": "2562000211399",
-    "tikName": "Кувандыкская"
+    "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 609,
     "uikTvd": "456404892630",
+    "uikName": "УИК №609",
     "tikTvd": "2562000211399",
-    "tikName": "Кувандыкская"
+    "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 610,
     "uikTvd": "456404892631",
+    "uikName": "УИК №610",
     "tikTvd": "2562000211399",
-    "tikName": "Кувандыкская"
+    "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 611,
     "uikTvd": "456404892632",
+    "uikName": "УИК №611",
     "tikTvd": "2562000211399",
-    "tikName": "Кувандыкская"
+    "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 612,
     "uikTvd": "456404892633",
+    "uikName": "УИК №612",
     "tikTvd": "2562000211399",
-    "tikName": "Кувандыкская"
+    "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 613,
     "uikTvd": "456404892634",
+    "uikName": "УИК №613",
     "tikTvd": "2562000211399",
-    "tikName": "Кувандыкская"
+    "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 614,
     "uikTvd": "456404892635",
+    "uikName": "УИК №614",
     "tikTvd": "2562000211399",
-    "tikName": "Кувандыкская"
+    "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 615,
     "uikTvd": "456404892636",
+    "uikName": "УИК №615",
     "tikTvd": "2562000211399",
-    "tikName": "Кувандыкская"
+    "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 616,
     "uikTvd": "456404892637",
+    "uikName": "УИК №616",
     "tikTvd": "2562000211399",
-    "tikName": "Кувандыкская"
+    "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 617,
     "uikTvd": "456404892638",
+    "uikName": "УИК №617",
     "tikTvd": "2562000211399",
-    "tikName": "Кувандыкская"
+    "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 618,
     "uikTvd": "456404892639",
+    "uikName": "УИК №618",
     "tikTvd": "2562000211399",
-    "tikName": "Кувандыкская"
+    "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 619,
     "uikTvd": "456404892640",
+    "uikName": "УИК №619",
     "tikTvd": "2562000211399",
-    "tikName": "Кувандыкская"
+    "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 620,
     "uikTvd": "456404892641",
+    "uikName": "УИК №620",
     "tikTvd": "2562000211399",
-    "tikName": "Кувандыкская"
+    "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 621,
     "uikTvd": "456404892642",
+    "uikName": "УИК №621",
     "tikTvd": "2562000211399",
-    "tikName": "Кувандыкская"
+    "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 622,
     "uikTvd": "456404892643",
+    "uikName": "УИК №622",
     "tikTvd": "2562000211399",
-    "tikName": "Кувандыкская"
+    "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 623,
     "uikTvd": "456404892644",
+    "uikName": "УИК №623",
     "tikTvd": "2562000211399",
-    "tikName": "Кувандыкская"
+    "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 624,
     "uikTvd": "456404892645",
+    "uikName": "УИК №624",
     "tikTvd": "2562000211399",
-    "tikName": "Кувандыкская"
+    "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 625,
     "uikTvd": "456404892646",
+    "uikName": "УИК №625",
     "tikTvd": "2562000211399",
-    "tikName": "Кувандыкская"
+    "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 626,
     "uikTvd": "456404892647",
+    "uikName": "УИК №626",
     "tikTvd": "2562000211399",
-    "tikName": "Кувандыкская"
+    "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 627,
     "uikTvd": "456404892648",
+    "uikName": "УИК №627",
     "tikTvd": "2562000211399",
-    "tikName": "Кувандыкская"
+    "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 628,
     "uikTvd": "456404892649",
+    "uikName": "УИК №628",
     "tikTvd": "2562000211399",
-    "tikName": "Кувандыкская"
+    "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 629,
     "uikTvd": "456404892650",
+    "uikName": "УИК №629",
     "tikTvd": "2562000211399",
-    "tikName": "Кувандыкская"
+    "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 630,
     "uikTvd": "456404892651",
+    "uikName": "УИК №630",
     "tikTvd": "2562000211399",
-    "tikName": "Кувандыкская"
+    "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 631,
     "uikTvd": "456404892652",
+    "uikName": "УИК №631",
     "tikTvd": "2562000211399",
-    "tikName": "Кувандыкская"
+    "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 632,
     "uikTvd": "456404892653",
+    "uikName": "УИК №632",
     "tikTvd": "2562000211399",
-    "tikName": "Кувандыкская"
+    "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 633,
     "uikTvd": "456404892654",
+    "uikName": "УИК №633",
     "tikTvd": "2562000211399",
-    "tikName": "Кувандыкская"
+    "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 634,
     "uikTvd": "456404892655",
+    "uikName": "УИК №634",
     "tikTvd": "2562000211399",
-    "tikName": "Кувандыкская"
+    "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 635,
     "uikTvd": "456404892656",
+    "uikName": "УИК №635",
     "tikTvd": "2562000211399",
-    "tikName": "Кувандыкская"
+    "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 636,
     "uikTvd": "456404892657",
+    "uikName": "УИК №636",
     "tikTvd": "2562000211399",
-    "tikName": "Кувандыкская"
+    "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 637,
     "uikTvd": "456404892658",
+    "uikName": "УИК №637",
     "tikTvd": "2562000211399",
-    "tikName": "Кувандыкская"
+    "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 638,
     "uikTvd": "456404892659",
+    "uikName": "УИК №638",
     "tikTvd": "2562000211399",
-    "tikName": "Кувандыкская"
+    "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 639,
     "uikTvd": "456404892660",
+    "uikName": "УИК №639",
     "tikTvd": "2562000211399",
-    "tikName": "Кувандыкская"
+    "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 640,
     "uikTvd": "456404892661",
+    "uikName": "УИК №640",
     "tikTvd": "2562000211399",
-    "tikName": "Кувандыкская"
+    "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 641,
     "uikTvd": "456404892662",
+    "uikName": "УИК №641",
     "tikTvd": "2562000211399",
-    "tikName": "Кувандыкская"
+    "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 642,
     "uikTvd": "456404892663",
+    "uikName": "УИК №642",
     "tikTvd": "2562000211399",
-    "tikName": "Кувандыкская"
+    "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 643,
     "uikTvd": "456404892664",
+    "uikName": "УИК №643",
     "tikTvd": "2562000211399",
-    "tikName": "Кувандыкская"
+    "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 644,
     "uikTvd": "456404892665",
+    "uikName": "УИК №644",
     "tikTvd": "2562000211399",
-    "tikName": "Кувандыкская"
+    "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 645,
     "uikTvd": "456404892666",
+    "uikName": "УИК №645",
     "tikTvd": "2562000211399",
-    "tikName": "Кувандыкская"
+    "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 646,
     "uikTvd": "456404892667",
+    "uikName": "УИК №646",
     "tikTvd": "2562000211399",
-    "tikName": "Кувандыкская"
+    "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 647,
     "uikTvd": "456404892668",
+    "uikName": "УИК №647",
     "tikTvd": "2562000211399",
-    "tikName": "Кувандыкская"
+    "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 648,
     "uikTvd": "456404892669",
+    "uikName": "УИК №648",
     "tikTvd": "2562000211399",
-    "tikName": "Кувандыкская"
+    "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 649,
     "uikTvd": "456404892670",
+    "uikName": "УИК №649",
     "tikTvd": "2562000211399",
-    "tikName": "Кувандыкская"
+    "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 650,
     "uikTvd": "456404892671",
+    "uikName": "УИК №650",
     "tikTvd": "2562000211399",
-    "tikName": "Кувандыкская"
+    "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 651,
     "uikTvd": "456404892672",
+    "uikName": "УИК №651",
     "tikTvd": "2562000211399",
-    "tikName": "Кувандыкская"
+    "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 652,
     "uikTvd": "456404892673",
+    "uikName": "УИК №652",
     "tikTvd": "2562000211399",
-    "tikName": "Кувандыкская"
+    "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 653,
     "uikTvd": "456404892674",
+    "uikName": "УИК №653",
     "tikTvd": "2562000211399",
-    "tikName": "Кувандыкская"
+    "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 654,
     "uikTvd": "456404892675",
+    "uikName": "УИК №654",
     "tikTvd": "2562000211399",
-    "tikName": "Кувандыкская"
+    "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 655,
     "uikTvd": "456404892676",
+    "uikName": "УИК №655",
     "tikTvd": "2562000211399",
-    "tikName": "Кувандыкская"
+    "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 656,
     "uikTvd": "456404892677",
+    "uikName": "УИК №656",
     "tikTvd": "2562000211399",
-    "tikName": "Кувандыкская"
+    "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 657,
     "uikTvd": "456404892678",
+    "uikName": "УИК №657",
     "tikTvd": "2562000211399",
-    "tikName": "Кувандыкская"
+    "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 658,
     "uikTvd": "456401690818",
+    "uikName": "УИК №658",
     "tikTvd": "2562000211383",
-    "tikName": "Курманаевская"
+    "tikName": "Курманаевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 659,
     "uikTvd": "456401690819",
+    "uikName": "УИК №659",
     "tikTvd": "2562000211383",
-    "tikName": "Курманаевская"
+    "tikName": "Курманаевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 660,
     "uikTvd": "456401690820",
+    "uikName": "УИК №660",
     "tikTvd": "2562000211383",
-    "tikName": "Курманаевская"
+    "tikName": "Курманаевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 661,
     "uikTvd": "456401690821",
+    "uikName": "УИК №661",
     "tikTvd": "2562000211383",
-    "tikName": "Курманаевская"
+    "tikName": "Курманаевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 662,
     "uikTvd": "456401690822",
+    "uikName": "УИК №662",
     "tikTvd": "2562000211383",
-    "tikName": "Курманаевская"
+    "tikName": "Курманаевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 663,
     "uikTvd": "456401690823",
+    "uikName": "УИК №663",
     "tikTvd": "2562000211383",
-    "tikName": "Курманаевская"
+    "tikName": "Курманаевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 664,
     "uikTvd": "456401690824",
+    "uikName": "УИК №664",
     "tikTvd": "2562000211383",
-    "tikName": "Курманаевская"
+    "tikName": "Курманаевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 665,
     "uikTvd": "456401690825",
+    "uikName": "УИК №665",
     "tikTvd": "2562000211383",
-    "tikName": "Курманаевская"
+    "tikName": "Курманаевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 666,
     "uikTvd": "456401690826",
+    "uikName": "УИК №666",
     "tikTvd": "2562000211383",
-    "tikName": "Курманаевская"
+    "tikName": "Курманаевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 667,
     "uikTvd": "456401690827",
+    "uikName": "УИК №667",
     "tikTvd": "2562000211383",
-    "tikName": "Курманаевская"
+    "tikName": "Курманаевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 669,
     "uikTvd": "456401690828",
+    "uikName": "УИК №669",
     "tikTvd": "2562000211383",
-    "tikName": "Курманаевская"
+    "tikName": "Курманаевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 670,
     "uikTvd": "456401690829",
+    "uikName": "УИК №670",
     "tikTvd": "2562000211383",
-    "tikName": "Курманаевская"
+    "tikName": "Курманаевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 671,
     "uikTvd": "456401690830",
+    "uikName": "УИК №671",
     "tikTvd": "2562000211383",
-    "tikName": "Курманаевская"
+    "tikName": "Курманаевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 672,
     "uikTvd": "456401690831",
+    "uikName": "УИК №672",
     "tikTvd": "2562000211383",
-    "tikName": "Курманаевская"
+    "tikName": "Курманаевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 673,
     "uikTvd": "456401690832",
+    "uikName": "УИК №673",
     "tikTvd": "2562000211383",
-    "tikName": "Курманаевская"
+    "tikName": "Курманаевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 674,
     "uikTvd": "456401690833",
+    "uikName": "УИК №674",
     "tikTvd": "2562000211383",
-    "tikName": "Курманаевская"
+    "tikName": "Курманаевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 675,
     "uikTvd": "456401690834",
+    "uikName": "УИК №675",
     "tikTvd": "2562000211383",
-    "tikName": "Курманаевская"
+    "tikName": "Курманаевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 676,
     "uikTvd": "456401690835",
+    "uikName": "УИК №676",
     "tikTvd": "2562000211383",
-    "tikName": "Курманаевская"
+    "tikName": "Курманаевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 677,
     "uikTvd": "456401690836",
+    "uikName": "УИК №677",
     "tikTvd": "2562000211383",
-    "tikName": "Курманаевская"
+    "tikName": "Курманаевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 678,
     "uikTvd": "456401690837",
+    "uikName": "УИК №678",
     "tikTvd": "2562000211383",
-    "tikName": "Курманаевская"
+    "tikName": "Курманаевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 679,
     "uikTvd": "456401690838",
+    "uikName": "УИК №679",
     "tikTvd": "2562000211383",
-    "tikName": "Курманаевская"
+    "tikName": "Курманаевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 680,
     "uikTvd": "456401690839",
+    "uikName": "УИК №680",
     "tikTvd": "2562000211383",
-    "tikName": "Курманаевская"
+    "tikName": "Курманаевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 681,
     "uikTvd": "456401690840",
+    "uikName": "УИК №681",
     "tikTvd": "2562000211383",
-    "tikName": "Курманаевская"
+    "tikName": "Курманаевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 682,
     "uikTvd": "456401690841",
+    "uikName": "УИК №682",
     "tikTvd": "2562000211383",
-    "tikName": "Курманаевская"
+    "tikName": "Курманаевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 683,
     "uikTvd": "456401690842",
+    "uikName": "УИК №683",
     "tikTvd": "2562000211383",
-    "tikName": "Курманаевская"
+    "tikName": "Курманаевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 684,
     "uikTvd": "456401690843",
+    "uikName": "УИК №684",
     "tikTvd": "2562000211383",
-    "tikName": "Курманаевская"
+    "tikName": "Курманаевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 686,
     "uikTvd": "456401690844",
+    "uikName": "УИК №686",
     "tikTvd": "2562000211383",
-    "tikName": "Курманаевская"
+    "tikName": "Курманаевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 687,
     "uikTvd": "456401690845",
+    "uikName": "УИК №687",
     "tikTvd": "2562000211383",
-    "tikName": "Курманаевская"
+    "tikName": "Курманаевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 688,
     "uikTvd": "456401690846",
+    "uikName": "УИК №688",
     "tikTvd": "2562000211383",
-    "tikName": "Курманаевская"
+    "tikName": "Курманаевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 689,
     "uikTvd": "456401690847",
+    "uikName": "УИК №689",
     "tikTvd": "2562000211383",
-    "tikName": "Курманаевская"
+    "tikName": "Курманаевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 690,
     "uikTvd": "456401690848",
+    "uikName": "УИК №690",
     "tikTvd": "2562000211383",
-    "tikName": "Курманаевская"
+    "tikName": "Курманаевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 691,
     "uikTvd": "456401690849",
+    "uikName": "УИК №691",
     "tikTvd": "2562000211383",
-    "tikName": "Курманаевская"
+    "tikName": "Курманаевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 692,
     "uikTvd": "456401690850",
+    "uikName": "УИК №692",
     "tikTvd": "2562000211383",
-    "tikName": "Курманаевская"
+    "tikName": "Курманаевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 693,
     "uikTvd": "456401784782",
+    "uikName": "УИК №693",
     "tikTvd": "2562000211381",
-    "tikName": "Матвеевская"
+    "tikName": "Матвеевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 694,
     "uikTvd": "456401784783",
+    "uikName": "УИК №694",
     "tikTvd": "2562000211381",
-    "tikName": "Матвеевская"
+    "tikName": "Матвеевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 695,
     "uikTvd": "456401784784",
+    "uikName": "УИК №695",
     "tikTvd": "2562000211381",
-    "tikName": "Матвеевская"
+    "tikName": "Матвеевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 696,
     "uikTvd": "456401784785",
+    "uikName": "УИК №696",
     "tikTvd": "2562000211381",
-    "tikName": "Матвеевская"
+    "tikName": "Матвеевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 697,
     "uikTvd": "456401784786",
+    "uikName": "УИК №697",
     "tikTvd": "2562000211381",
-    "tikName": "Матвеевская"
+    "tikName": "Матвеевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 698,
     "uikTvd": "456401784787",
+    "uikName": "УИК №698",
     "tikTvd": "2562000211381",
-    "tikName": "Матвеевская"
+    "tikName": "Матвеевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 699,
     "uikTvd": "456401784788",
+    "uikName": "УИК №699",
     "tikTvd": "2562000211381",
-    "tikName": "Матвеевская"
+    "tikName": "Матвеевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 700,
     "uikTvd": "456401784789",
+    "uikName": "УИК №700",
     "tikTvd": "2562000211381",
-    "tikName": "Матвеевская"
+    "tikName": "Матвеевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 701,
     "uikTvd": "456401784790",
+    "uikName": "УИК №701",
     "tikTvd": "2562000211381",
-    "tikName": "Матвеевская"
+    "tikName": "Матвеевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 702,
     "uikTvd": "456401784791",
+    "uikName": "УИК №702",
     "tikTvd": "2562000211381",
-    "tikName": "Матвеевская"
+    "tikName": "Матвеевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 703,
     "uikTvd": "456401784792",
+    "uikName": "УИК №703",
     "tikTvd": "2562000211381",
-    "tikName": "Матвеевская"
+    "tikName": "Матвеевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 704,
     "uikTvd": "456401784793",
+    "uikName": "УИК №704",
     "tikTvd": "2562000211381",
-    "tikName": "Матвеевская"
+    "tikName": "Матвеевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 705,
     "uikTvd": "456401784794",
+    "uikName": "УИК №705",
     "tikTvd": "2562000211381",
-    "tikName": "Матвеевская"
+    "tikName": "Матвеевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 706,
     "uikTvd": "456401784795",
+    "uikName": "УИК №706",
     "tikTvd": "2562000211381",
-    "tikName": "Матвеевская"
+    "tikName": "Матвеевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 707,
     "uikTvd": "456401784796",
+    "uikName": "УИК №707",
     "tikTvd": "2562000211381",
-    "tikName": "Матвеевская"
+    "tikName": "Матвеевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 708,
     "uikTvd": "456401784797",
+    "uikName": "УИК №708",
     "tikTvd": "2562000211381",
-    "tikName": "Матвеевская"
+    "tikName": "Матвеевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 709,
     "uikTvd": "456401784798",
+    "uikName": "УИК №709",
     "tikTvd": "2562000211381",
-    "tikName": "Матвеевская"
+    "tikName": "Матвеевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 710,
     "uikTvd": "456401784799",
+    "uikName": "УИК №710",
     "tikTvd": "2562000211381",
-    "tikName": "Матвеевская"
+    "tikName": "Матвеевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 711,
     "uikTvd": "456401784800",
+    "uikName": "УИК №711",
     "tikTvd": "2562000211381",
-    "tikName": "Матвеевская"
+    "tikName": "Матвеевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 712,
     "uikTvd": "456401784801",
+    "uikName": "УИК №712",
     "tikTvd": "2562000211381",
-    "tikName": "Матвеевская"
+    "tikName": "Матвеевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 713,
     "uikTvd": "456401784802",
+    "uikName": "УИК №713",
     "tikTvd": "2562000211381",
-    "tikName": "Матвеевская"
+    "tikName": "Матвеевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 714,
     "uikTvd": "456401784803",
+    "uikName": "УИК №714",
     "tikTvd": "2562000211381",
-    "tikName": "Матвеевская"
+    "tikName": "Матвеевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 715,
     "uikTvd": "456401784804",
+    "uikName": "УИК №715",
     "tikTvd": "2562000211381",
-    "tikName": "Матвеевская"
+    "tikName": "Матвеевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 716,
     "uikTvd": "456402581037",
+    "uikName": "УИК №716",
     "tikTvd": "2562000211392",
-    "tikName": "Оренбург, Промышленная"
+    "tikName": "Оренбург, Промышленная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 717,
     "uikTvd": "456401784805",
+    "uikName": "УИК №717",
     "tikTvd": "2562000211381",
-    "tikName": "Матвеевская"
+    "tikName": "Матвеевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 718,
     "uikTvd": "456401784806",
+    "uikName": "УИК №718",
     "tikTvd": "2562000211381",
-    "tikName": "Матвеевская"
+    "tikName": "Матвеевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 719,
     "uikTvd": "456401784807",
+    "uikName": "УИК №719",
     "tikTvd": "2562000211381",
-    "tikName": "Матвеевская"
+    "tikName": "Матвеевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 720,
     "uikTvd": "456401784808",
+    "uikName": "УИК №720",
     "tikTvd": "2562000211381",
-    "tikName": "Матвеевская"
+    "tikName": "Матвеевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 721,
     "uikTvd": "456401784809",
+    "uikName": "УИК №721",
     "tikTvd": "2562000211381",
-    "tikName": "Матвеевская"
+    "tikName": "Матвеевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 722,
     "uikTvd": "456401877127",
+    "uikName": "УИК №722",
     "tikTvd": "2562000211382",
-    "tikName": "Медногорская городская"
+    "tikName": "Медногорская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 723,
     "uikTvd": "456401877128",
+    "uikName": "УИК №723",
     "tikTvd": "2562000211382",
-    "tikName": "Медногорская городская"
+    "tikName": "Медногорская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 724,
     "uikTvd": "456401877129",
+    "uikName": "УИК №724",
     "tikTvd": "2562000211382",
-    "tikName": "Медногорская городская"
+    "tikName": "Медногорская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 725,
     "uikTvd": "456401877130",
+    "uikName": "УИК №725",
     "tikTvd": "2562000211382",
-    "tikName": "Медногорская городская"
+    "tikName": "Медногорская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 726,
     "uikTvd": "456401877131",
+    "uikName": "УИК №726",
     "tikTvd": "2562000211382",
-    "tikName": "Медногорская городская"
+    "tikName": "Медногорская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 727,
     "uikTvd": "456401877132",
+    "uikName": "УИК №727",
     "tikTvd": "2562000211382",
-    "tikName": "Медногорская городская"
+    "tikName": "Медногорская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 728,
     "uikTvd": "456401877133",
+    "uikName": "УИК №728",
     "tikTvd": "2562000211382",
-    "tikName": "Медногорская городская"
+    "tikName": "Медногорская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 729,
     "uikTvd": "456401877134",
+    "uikName": "УИК №729",
     "tikTvd": "2562000211382",
-    "tikName": "Медногорская городская"
+    "tikName": "Медногорская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 730,
     "uikTvd": "456401877135",
+    "uikName": "УИК №730",
     "tikTvd": "2562000211382",
-    "tikName": "Медногорская городская"
+    "tikName": "Медногорская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 731,
     "uikTvd": "456401877136",
+    "uikName": "УИК №731",
     "tikTvd": "2562000211382",
-    "tikName": "Медногорская городская"
+    "tikName": "Медногорская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 732,
     "uikTvd": "456401877137",
+    "uikName": "УИК №732",
     "tikTvd": "2562000211382",
-    "tikName": "Медногорская городская"
+    "tikName": "Медногорская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 733,
     "uikTvd": "456401877138",
+    "uikName": "УИК №733",
     "tikTvd": "2562000211382",
-    "tikName": "Медногорская городская"
+    "tikName": "Медногорская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 734,
     "uikTvd": "456401877139",
+    "uikName": "УИК №734",
     "tikTvd": "2562000211382",
-    "tikName": "Медногорская городская"
+    "tikName": "Медногорская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 735,
     "uikTvd": "456401877140",
+    "uikName": "УИК №735",
     "tikTvd": "2562000211382",
-    "tikName": "Медногорская городская"
+    "tikName": "Медногорская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 736,
     "uikTvd": "456401877141",
+    "uikName": "УИК №736",
     "tikTvd": "2562000211382",
-    "tikName": "Медногорская городская"
+    "tikName": "Медногорская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 737,
     "uikTvd": "456401877142",
+    "uikName": "УИК №737",
     "tikTvd": "2562000211382",
-    "tikName": "Медногорская городская"
+    "tikName": "Медногорская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 738,
     "uikTvd": "456401877143",
+    "uikName": "УИК №738",
     "tikTvd": "2562000211382",
-    "tikName": "Медногорская городская"
+    "tikName": "Медногорская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 739,
     "uikTvd": "456401877144",
+    "uikName": "УИК №739",
     "tikTvd": "2562000211382",
-    "tikName": "Медногорская городская"
+    "tikName": "Медногорская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 740,
     "uikTvd": "456401877145",
+    "uikName": "УИК №740",
     "tikTvd": "2562000211382",
-    "tikName": "Медногорская городская"
+    "tikName": "Медногорская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 741,
     "uikTvd": "456401877146",
+    "uikName": "УИК №741",
     "tikTvd": "2562000211382",
-    "tikName": "Медногорская городская"
+    "tikName": "Медногорская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 742,
     "uikTvd": "456401877147",
+    "uikName": "УИК №742",
     "tikTvd": "2562000211382",
-    "tikName": "Медногорская городская"
+    "tikName": "Медногорская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 743,
     "uikTvd": "456401877148",
+    "uikName": "УИК №743",
     "tikTvd": "2562000211382",
-    "tikName": "Медногорская городская"
+    "tikName": "Медногорская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 744,
     "uikTvd": "456401987290",
+    "uikName": "УИК №744",
     "tikTvd": "2562000211379",
-    "tikName": "Новоорская"
+    "tikName": "Новоорская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 745,
     "uikTvd": "456401987291",
+    "uikName": "УИК №745",
     "tikTvd": "2562000211379",
-    "tikName": "Новоорская"
+    "tikName": "Новоорская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 746,
     "uikTvd": "456401987292",
+    "uikName": "УИК №746",
     "tikTvd": "2562000211379",
-    "tikName": "Новоорская"
+    "tikName": "Новоорская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 747,
     "uikTvd": "456401987293",
+    "uikName": "УИК №747",
     "tikTvd": "2562000211379",
-    "tikName": "Новоорская"
+    "tikName": "Новоорская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 748,
     "uikTvd": "456401987294",
+    "uikName": "УИК №748",
     "tikTvd": "2562000211379",
-    "tikName": "Новоорская"
+    "tikName": "Новоорская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 749,
     "uikTvd": "456401987295",
+    "uikName": "УИК №749",
     "tikTvd": "2562000211379",
-    "tikName": "Новоорская"
+    "tikName": "Новоорская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 750,
     "uikTvd": "456401987296",
+    "uikName": "УИК №750",
     "tikTvd": "2562000211379",
-    "tikName": "Новоорская"
+    "tikName": "Новоорская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 751,
     "uikTvd": "456401987297",
+    "uikName": "УИК №751",
     "tikTvd": "2562000211379",
-    "tikName": "Новоорская"
+    "tikName": "Новоорская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 752,
     "uikTvd": "456401987298",
+    "uikName": "УИК №752",
     "tikTvd": "2562000211379",
-    "tikName": "Новоорская"
+    "tikName": "Новоорская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 753,
     "uikTvd": "456401987299",
+    "uikName": "УИК №753",
     "tikTvd": "2562000211379",
-    "tikName": "Новоорская"
+    "tikName": "Новоорская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 754,
     "uikTvd": "456401987300",
+    "uikName": "УИК №754",
     "tikTvd": "2562000211379",
-    "tikName": "Новоорская"
+    "tikName": "Новоорская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 755,
     "uikTvd": "456401987301",
+    "uikName": "УИК №755",
     "tikTvd": "2562000211379",
-    "tikName": "Новоорская"
+    "tikName": "Новоорская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 756,
     "uikTvd": "456401987302",
+    "uikName": "УИК №756",
     "tikTvd": "2562000211379",
-    "tikName": "Новоорская"
+    "tikName": "Новоорская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 757,
     "uikTvd": "456401987303",
+    "uikName": "УИК №757",
     "tikTvd": "2562000211379",
-    "tikName": "Новоорская"
+    "tikName": "Новоорская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 758,
     "uikTvd": "456401987304",
+    "uikName": "УИК №758",
     "tikTvd": "2562000211379",
-    "tikName": "Новоорская"
+    "tikName": "Новоорская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 759,
     "uikTvd": "456401987305",
+    "uikName": "УИК №759",
     "tikTvd": "2562000211379",
-    "tikName": "Новоорская"
+    "tikName": "Новоорская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 760,
     "uikTvd": "456401987306",
+    "uikName": "УИК №760",
     "tikTvd": "2562000211379",
-    "tikName": "Новоорская"
+    "tikName": "Новоорская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 761,
     "uikTvd": "456401987307",
+    "uikName": "УИК №761",
     "tikTvd": "2562000211379",
-    "tikName": "Новоорская"
+    "tikName": "Новоорская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 762,
     "uikTvd": "456401987308",
+    "uikName": "УИК №762",
     "tikTvd": "2562000211379",
-    "tikName": "Новоорская"
+    "tikName": "Новоорская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 763,
     "uikTvd": "456401987309",
+    "uikName": "УИК №763",
     "tikTvd": "2562000211379",
-    "tikName": "Новоорская"
+    "tikName": "Новоорская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 764,
     "uikTvd": "456401987310",
+    "uikName": "УИК №764",
     "tikTvd": "2562000211379",
-    "tikName": "Новоорская"
+    "tikName": "Новоорская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 765,
     "uikTvd": "456401987311",
+    "uikName": "УИК №765",
     "tikTvd": "2562000211379",
-    "tikName": "Новоорская"
+    "tikName": "Новоорская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 766,
     "uikTvd": "456401987312",
+    "uikName": "УИК №766",
     "tikTvd": "2562000211379",
-    "tikName": "Новоорская"
+    "tikName": "Новоорская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 767,
     "uikTvd": "456402088319",
+    "uikName": "УИК №767",
     "tikTvd": "2562000211378",
-    "tikName": "Новосергиевская"
+    "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 768,
     "uikTvd": "456402088320",
+    "uikName": "УИК №768",
     "tikTvd": "2562000211378",
-    "tikName": "Новосергиевская"
+    "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 769,
     "uikTvd": "456402088321",
+    "uikName": "УИК №769",
     "tikTvd": "2562000211378",
-    "tikName": "Новосергиевская"
+    "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 770,
     "uikTvd": "456402088322",
+    "uikName": "УИК №770",
     "tikTvd": "2562000211378",
-    "tikName": "Новосергиевская"
+    "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 771,
     "uikTvd": "456402088323",
+    "uikName": "УИК №771",
     "tikTvd": "2562000211378",
-    "tikName": "Новосергиевская"
+    "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 772,
     "uikTvd": "456402088324",
+    "uikName": "УИК №772",
     "tikTvd": "2562000211378",
-    "tikName": "Новосергиевская"
+    "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 773,
     "uikTvd": "456402088325",
+    "uikName": "УИК №773",
     "tikTvd": "2562000211378",
-    "tikName": "Новосергиевская"
+    "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 774,
     "uikTvd": "456402088326",
+    "uikName": "УИК №774",
     "tikTvd": "2562000211378",
-    "tikName": "Новосергиевская"
+    "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 775,
     "uikTvd": "456402088327",
+    "uikName": "УИК №775",
     "tikTvd": "2562000211378",
-    "tikName": "Новосергиевская"
+    "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 776,
     "uikTvd": "456402088328",
+    "uikName": "УИК №776",
     "tikTvd": "2562000211378",
-    "tikName": "Новосергиевская"
+    "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 777,
     "uikTvd": "456402088329",
+    "uikName": "УИК №777",
     "tikTvd": "2562000211378",
-    "tikName": "Новосергиевская"
+    "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 778,
     "uikTvd": "456402088330",
+    "uikName": "УИК №778",
     "tikTvd": "2562000211378",
-    "tikName": "Новосергиевская"
+    "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 779,
     "uikTvd": "456402088331",
+    "uikName": "УИК №779",
     "tikTvd": "2562000211378",
-    "tikName": "Новосергиевская"
+    "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 780,
     "uikTvd": "456402088332",
+    "uikName": "УИК №780",
     "tikTvd": "2562000211378",
-    "tikName": "Новосергиевская"
+    "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 781,
     "uikTvd": "456402088333",
+    "uikName": "УИК №781",
     "tikTvd": "2562000211378",
-    "tikName": "Новосергиевская"
+    "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 782,
     "uikTvd": "456402088334",
+    "uikName": "УИК №782",
     "tikTvd": "2562000211378",
-    "tikName": "Новосергиевская"
+    "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 783,
     "uikTvd": "456402088335",
+    "uikName": "УИК №783",
     "tikTvd": "2562000211378",
-    "tikName": "Новосергиевская"
+    "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 784,
     "uikTvd": "456402088336",
+    "uikName": "УИК №784",
     "tikTvd": "2562000211378",
-    "tikName": "Новосергиевская"
+    "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 785,
     "uikTvd": "456402088337",
+    "uikName": "УИК №785",
     "tikTvd": "2562000211378",
-    "tikName": "Новосергиевская"
+    "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 786,
     "uikTvd": "456402088338",
+    "uikName": "УИК №786",
     "tikTvd": "2562000211378",
-    "tikName": "Новосергиевская"
+    "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 787,
     "uikTvd": "456402088339",
+    "uikName": "УИК №787",
     "tikTvd": "2562000211378",
-    "tikName": "Новосергиевская"
+    "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 788,
     "uikTvd": "456402088340",
+    "uikName": "УИК №788",
     "tikTvd": "2562000211378",
-    "tikName": "Новосергиевская"
+    "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 789,
     "uikTvd": "456402088341",
+    "uikName": "УИК №789",
     "tikTvd": "2562000211378",
-    "tikName": "Новосергиевская"
+    "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 790,
     "uikTvd": "456402088342",
+    "uikName": "УИК №790",
     "tikTvd": "2562000211378",
-    "tikName": "Новосергиевская"
+    "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 791,
     "uikTvd": "456402088343",
+    "uikName": "УИК №791",
     "tikTvd": "2562000211378",
-    "tikName": "Новосергиевская"
+    "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 792,
     "uikTvd": "456402088344",
+    "uikName": "УИК №792",
     "tikTvd": "2562000211378",
-    "tikName": "Новосергиевская"
+    "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 793,
     "uikTvd": "456402088345",
+    "uikName": "УИК №793",
     "tikTvd": "2562000211378",
-    "tikName": "Новосергиевская"
+    "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 794,
     "uikTvd": "456402088346",
+    "uikName": "УИК №794",
     "tikTvd": "2562000211378",
-    "tikName": "Новосергиевская"
+    "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 795,
     "uikTvd": "456402088347",
+    "uikName": "УИК №795",
     "tikTvd": "2562000211378",
-    "tikName": "Новосергиевская"
+    "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 796,
     "uikTvd": "456402088348",
+    "uikName": "УИК №796",
     "tikTvd": "2562000211378",
-    "tikName": "Новосергиевская"
+    "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 797,
     "uikTvd": "456402088349",
+    "uikName": "УИК №797",
     "tikTvd": "2562000211378",
-    "tikName": "Новосергиевская"
+    "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 798,
     "uikTvd": "456402088350",
+    "uikName": "УИК №798",
     "tikTvd": "2562000211378",
-    "tikName": "Новосергиевская"
+    "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 799,
     "uikTvd": "456402088351",
+    "uikName": "УИК №799",
     "tikTvd": "2562000211378",
-    "tikName": "Новосергиевская"
+    "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 800,
     "uikTvd": "456402088352",
+    "uikName": "УИК №800",
     "tikTvd": "2562000211378",
-    "tikName": "Новосергиевская"
+    "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 801,
     "uikTvd": "456402088353",
+    "uikName": "УИК №801",
     "tikTvd": "2562000211378",
-    "tikName": "Новосергиевская"
+    "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 802,
     "uikTvd": "456402088354",
+    "uikName": "УИК №802",
     "tikTvd": "2562000211378",
-    "tikName": "Новосергиевская"
+    "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 803,
     "uikTvd": "456402088355",
+    "uikName": "УИК №803",
     "tikTvd": "2562000211378",
-    "tikName": "Новосергиевская"
+    "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 804,
     "uikTvd": "456402088356",
+    "uikName": "УИК №804",
     "tikTvd": "2562000211378",
-    "tikName": "Новосергиевская"
+    "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 805,
     "uikTvd": "456402088357",
+    "uikName": "УИК №805",
     "tikTvd": "2562000211378",
-    "tikName": "Новосергиевская"
+    "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 806,
     "uikTvd": "456402088358",
+    "uikName": "УИК №806",
     "tikTvd": "2562000211378",
-    "tikName": "Новосергиевская"
+    "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 807,
     "uikTvd": "456402088359",
+    "uikName": "УИК №807",
     "tikTvd": "2562000211378",
-    "tikName": "Новосергиевская"
+    "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 808,
     "uikTvd": "456402088360",
+    "uikName": "УИК №808",
     "tikTvd": "2562000211378",
-    "tikName": "Новосергиевская"
+    "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 809,
     "uikTvd": "456402088361",
+    "uikName": "УИК №809",
     "tikTvd": "2562000211378",
-    "tikName": "Новосергиевская"
+    "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 810,
     "uikTvd": "456402088362",
+    "uikName": "УИК №810",
     "tikTvd": "2562000211378",
-    "tikName": "Новосергиевская"
+    "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 811,
     "uikTvd": "456402088363",
+    "uikName": "УИК №811",
     "tikTvd": "2562000211378",
-    "tikName": "Новосергиевская"
+    "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 812,
     "uikTvd": "456402088364",
+    "uikName": "УИК №812",
     "tikTvd": "2562000211378",
-    "tikName": "Новосергиевская"
+    "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 813,
     "uikTvd": "456402088365",
+    "uikName": "УИК №813",
     "tikTvd": "2562000211378",
-    "tikName": "Новосергиевская"
+    "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 814,
     "uikTvd": "456402088366",
+    "uikName": "УИК №814",
     "tikTvd": "2562000211378",
-    "tikName": "Новосергиевская"
+    "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 815,
     "uikTvd": "456402088367",
+    "uikName": "УИК №815",
     "tikTvd": "2562000211378",
-    "tikName": "Новосергиевская"
+    "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 816,
     "uikTvd": "456402088368",
+    "uikName": "УИК №816",
     "tikTvd": "2562000211378",
-    "tikName": "Новосергиевская"
+    "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 817,
     "uikTvd": "456402088369",
+    "uikName": "УИК №817",
     "tikTvd": "2562000211378",
-    "tikName": "Новосергиевская"
+    "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 818,
     "uikTvd": "456402088370",
+    "uikName": "УИК №818",
     "tikTvd": "2562000211378",
-    "tikName": "Новосергиевская"
+    "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 819,
     "uikTvd": "456402088371",
+    "uikName": "УИК №819",
     "tikTvd": "2562000211378",
-    "tikName": "Новосергиевская"
+    "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 820,
     "uikTvd": "456402088372",
+    "uikName": "УИК №820",
     "tikTvd": "2562000211378",
-    "tikName": "Новосергиевская"
+    "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 821,
     "uikTvd": "456402088373",
+    "uikName": "УИК №821",
     "tikTvd": "2562000211378",
-    "tikName": "Новосергиевская"
+    "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 822,
     "uikTvd": "456402088374",
+    "uikName": "УИК №822",
     "tikTvd": "2562000211378",
-    "tikName": "Новосергиевская"
+    "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 823,
     "uikTvd": "456402088375",
+    "uikName": "УИК №823",
     "tikTvd": "2562000211378",
-    "tikName": "Новосергиевская"
+    "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 824,
     "uikTvd": "456402184027",
+    "uikName": "УИК №824",
     "tikTvd": "2562000211380",
-    "tikName": "Новотроицкая городская"
+    "tikName": "Новотроицкая городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 825,
     "uikTvd": "456402184028",
+    "uikName": "УИК №825",
     "tikTvd": "2562000211380",
-    "tikName": "Новотроицкая городская"
+    "tikName": "Новотроицкая городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 826,
     "uikTvd": "456402184029",
+    "uikName": "УИК №826",
     "tikTvd": "2562000211380",
-    "tikName": "Новотроицкая городская"
+    "tikName": "Новотроицкая городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 827,
     "uikTvd": "456402184030",
+    "uikName": "УИК №827",
     "tikTvd": "2562000211380",
-    "tikName": "Новотроицкая городская"
+    "tikName": "Новотроицкая городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 828,
     "uikTvd": "456402184031",
+    "uikName": "УИК №828",
     "tikTvd": "2562000211380",
-    "tikName": "Новотроицкая городская"
+    "tikName": "Новотроицкая городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 829,
     "uikTvd": "456402184032",
+    "uikName": "УИК №829",
     "tikTvd": "2562000211380",
-    "tikName": "Новотроицкая городская"
+    "tikName": "Новотроицкая городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 830,
     "uikTvd": "456402184033",
+    "uikName": "УИК №830",
     "tikTvd": "2562000211380",
-    "tikName": "Новотроицкая городская"
+    "tikName": "Новотроицкая городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 831,
     "uikTvd": "456402184034",
+    "uikName": "УИК №831",
     "tikTvd": "2562000211380",
-    "tikName": "Новотроицкая городская"
+    "tikName": "Новотроицкая городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 832,
     "uikTvd": "456402184035",
+    "uikName": "УИК №832",
     "tikTvd": "2562000211380",
-    "tikName": "Новотроицкая городская"
+    "tikName": "Новотроицкая городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 833,
     "uikTvd": "456402184036",
+    "uikName": "УИК №833",
     "tikTvd": "2562000211380",
-    "tikName": "Новотроицкая городская"
+    "tikName": "Новотроицкая городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 834,
     "uikTvd": "456402184037",
+    "uikName": "УИК №834",
     "tikTvd": "2562000211380",
-    "tikName": "Новотроицкая городская"
+    "tikName": "Новотроицкая городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 835,
     "uikTvd": "456402184038",
+    "uikName": "УИК №835",
     "tikTvd": "2562000211380",
-    "tikName": "Новотроицкая городская"
+    "tikName": "Новотроицкая городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 836,
     "uikTvd": "456402184039",
+    "uikName": "УИК №836",
     "tikTvd": "2562000211380",
-    "tikName": "Новотроицкая городская"
+    "tikName": "Новотроицкая городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 837,
     "uikTvd": "456402184040",
+    "uikName": "УИК №837",
     "tikTvd": "2562000211380",
-    "tikName": "Новотроицкая городская"
+    "tikName": "Новотроицкая городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 838,
     "uikTvd": "456402184041",
+    "uikName": "УИК №838",
     "tikTvd": "2562000211380",
-    "tikName": "Новотроицкая городская"
+    "tikName": "Новотроицкая городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 839,
     "uikTvd": "456402184042",
+    "uikName": "УИК №839",
     "tikTvd": "2562000211380",
-    "tikName": "Новотроицкая городская"
+    "tikName": "Новотроицкая городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 840,
     "uikTvd": "456402184043",
+    "uikName": "УИК №840",
     "tikTvd": "2562000211380",
-    "tikName": "Новотроицкая городская"
+    "tikName": "Новотроицкая городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 841,
     "uikTvd": "456402184044",
+    "uikName": "УИК №841",
     "tikTvd": "2562000211380",
-    "tikName": "Новотроицкая городская"
+    "tikName": "Новотроицкая городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 842,
     "uikTvd": "456402184045",
+    "uikName": "УИК №842",
     "tikTvd": "2562000211380",
-    "tikName": "Новотроицкая городская"
+    "tikName": "Новотроицкая городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 843,
     "uikTvd": "456402184046",
+    "uikName": "УИК №843",
     "tikTvd": "2562000211380",
-    "tikName": "Новотроицкая городская"
+    "tikName": "Новотроицкая городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 844,
     "uikTvd": "456402184047",
+    "uikName": "УИК №844",
     "tikTvd": "2562000211380",
-    "tikName": "Новотроицкая городская"
+    "tikName": "Новотроицкая городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 845,
     "uikTvd": "456402184048",
+    "uikName": "УИК №845",
     "tikTvd": "2562000211380",
-    "tikName": "Новотроицкая городская"
+    "tikName": "Новотроицкая городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 846,
     "uikTvd": "456402184049",
+    "uikName": "УИК №846",
     "tikTvd": "2562000211380",
-    "tikName": "Новотроицкая городская"
+    "tikName": "Новотроицкая городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 847,
     "uikTvd": "456402184050",
+    "uikName": "УИК №847",
     "tikTvd": "2562000211380",
-    "tikName": "Новотроицкая городская"
+    "tikName": "Новотроицкая городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 848,
     "uikTvd": "456402184051",
+    "uikName": "УИК №848",
     "tikTvd": "2562000211380",
-    "tikName": "Новотроицкая городская"
+    "tikName": "Новотроицкая городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 849,
     "uikTvd": "456402184052",
+    "uikName": "УИК №849",
     "tikTvd": "2562000211380",
-    "tikName": "Новотроицкая городская"
+    "tikName": "Новотроицкая городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 850,
     "uikTvd": "456402184053",
+    "uikName": "УИК №850",
     "tikTvd": "2562000211380",
-    "tikName": "Новотроицкая городская"
+    "tikName": "Новотроицкая городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 851,
     "uikTvd": "456402184054",
+    "uikName": "УИК №851",
     "tikTvd": "2562000211380",
-    "tikName": "Новотроицкая городская"
+    "tikName": "Новотроицкая городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 852,
     "uikTvd": "456402184055",
+    "uikName": "УИК №852",
     "tikTvd": "2562000211380",
-    "tikName": "Новотроицкая городская"
+    "tikName": "Новотроицкая городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 853,
     "uikTvd": "456402184056",
+    "uikName": "УИК №853",
     "tikTvd": "2562000211380",
-    "tikName": "Новотроицкая городская"
+    "tikName": "Новотроицкая городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 854,
     "uikTvd": "456402184057",
+    "uikName": "УИК №854",
     "tikTvd": "2562000211380",
-    "tikName": "Новотроицкая городская"
+    "tikName": "Новотроицкая городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 855,
     "uikTvd": "456402184058",
+    "uikName": "УИК №855",
     "tikTvd": "2562000211380",
-    "tikName": "Новотроицкая городская"
+    "tikName": "Новотроицкая городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 856,
     "uikTvd": "456402184059",
+    "uikName": "УИК №856",
     "tikTvd": "2562000211380",
-    "tikName": "Новотроицкая городская"
+    "tikName": "Новотроицкая городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 857,
     "uikTvd": "456402184060",
+    "uikName": "УИК №857",
     "tikTvd": "2562000211380",
-    "tikName": "Новотроицкая городская"
+    "tikName": "Новотроицкая городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 858,
     "uikTvd": "456402184061",
+    "uikName": "УИК №858",
     "tikTvd": "2562000211380",
-    "tikName": "Новотроицкая городская"
+    "tikName": "Новотроицкая городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 859,
     "uikTvd": "456402184062",
+    "uikName": "УИК №859",
     "tikTvd": "2562000211380",
-    "tikName": "Новотроицкая городская"
+    "tikName": "Новотроицкая городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 860,
     "uikTvd": "456402184063",
+    "uikName": "УИК №860",
     "tikTvd": "2562000211380",
-    "tikName": "Новотроицкая городская"
+    "tikName": "Новотроицкая городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 861,
     "uikTvd": "456402184064",
+    "uikName": "УИК №861",
     "tikTvd": "2562000211380",
-    "tikName": "Новотроицкая городская"
+    "tikName": "Новотроицкая городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 862,
     "uikTvd": "456402184065",
+    "uikName": "УИК №862",
     "tikTvd": "2562000211380",
-    "tikName": "Новотроицкая городская"
+    "tikName": "Новотроицкая городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 863,
     "uikTvd": "456402184066",
+    "uikName": "УИК №863",
     "tikTvd": "2562000211380",
-    "tikName": "Новотроицкая городская"
+    "tikName": "Новотроицкая городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 864,
     "uikTvd": "456402184067",
+    "uikName": "УИК №864",
     "tikTvd": "2562000211380",
-    "tikName": "Новотроицкая городская"
+    "tikName": "Новотроицкая городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 865,
     "uikTvd": "456402184068",
+    "uikName": "УИК №865",
     "tikTvd": "2562000211380",
-    "tikName": "Новотроицкая городская"
+    "tikName": "Новотроицкая городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 866,
     "uikTvd": "456402184069",
+    "uikName": "УИК №866",
     "tikTvd": "2562000211380",
-    "tikName": "Новотроицкая городская"
+    "tikName": "Новотроицкая городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 867,
     "uikTvd": "456402184070",
+    "uikName": "УИК №867",
     "tikTvd": "2562000211380",
-    "tikName": "Новотроицкая городская"
+    "tikName": "Новотроицкая городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 868,
     "uikTvd": "456402184071",
+    "uikName": "УИК №868",
     "tikTvd": "2562000211380",
-    "tikName": "Новотроицкая городская"
+    "tikName": "Новотроицкая городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 869,
     "uikTvd": "456402184072",
+    "uikName": "УИК №869",
     "tikTvd": "2562000211380",
-    "tikName": "Новотроицкая городская"
+    "tikName": "Новотроицкая городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 870,
     "uikTvd": "456402184073",
+    "uikName": "УИК №870",
     "tikTvd": "2562000211380",
-    "tikName": "Новотроицкая городская"
+    "tikName": "Новотроицкая городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 871,
     "uikTvd": "456402184074",
+    "uikName": "УИК №871",
     "tikTvd": "2562000211380",
-    "tikName": "Новотроицкая городская"
+    "tikName": "Новотроицкая городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 872,
     "uikTvd": "456402184075",
+    "uikName": "УИК №872",
     "tikTvd": "2562000211380",
-    "tikName": "Новотроицкая городская"
+    "tikName": "Новотроицкая городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 873,
     "uikTvd": "456402184076",
+    "uikName": "УИК №873",
     "tikTvd": "2562000211380",
-    "tikName": "Новотроицкая городская"
+    "tikName": "Новотроицкая городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 874,
     "uikTvd": "456402184077",
+    "uikName": "УИК №874",
     "tikTvd": "2562000211380",
-    "tikName": "Новотроицкая городская"
+    "tikName": "Новотроицкая городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 875,
     "uikTvd": "456402184078",
+    "uikName": "УИК №875",
     "tikTvd": "2562000211380",
-    "tikName": "Новотроицкая городская"
+    "tikName": "Новотроицкая городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 876,
     "uikTvd": "456402184079",
+    "uikName": "УИК №876",
     "tikTvd": "2562000211380",
-    "tikName": "Новотроицкая городская"
+    "tikName": "Новотроицкая городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 877,
     "uikTvd": "456402184080",
+    "uikName": "УИК №877",
     "tikTvd": "2562000211380",
-    "tikName": "Новотроицкая городская"
+    "tikName": "Новотроицкая городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 878,
     "uikTvd": "456402292267",
+    "uikName": "УИК №878",
     "tikTvd": "2562000211376",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 879,
     "uikTvd": "456402292268",
+    "uikName": "УИК №879",
     "tikTvd": "2562000211376",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 880,
     "uikTvd": "456402292269",
+    "uikName": "УИК №880",
     "tikTvd": "2562000211376",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 881,
     "uikTvd": "456402292270",
+    "uikName": "УИК №881",
     "tikTvd": "2562000211376",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 882,
     "uikTvd": "456402292271",
+    "uikName": "УИК №882",
     "tikTvd": "2562000211376",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 883,
     "uikTvd": "456402292272",
+    "uikName": "УИК №883",
     "tikTvd": "2562000211376",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 884,
     "uikTvd": "456402292273",
+    "uikName": "УИК №884",
     "tikTvd": "2562000211376",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 885,
     "uikTvd": "456402292274",
+    "uikName": "УИК №885",
     "tikTvd": "2562000211376",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 886,
     "uikTvd": "456402292275",
+    "uikName": "УИК №886",
     "tikTvd": "2562000211376",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 887,
     "uikTvd": "456402292276",
+    "uikName": "УИК №887",
     "tikTvd": "2562000211376",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 888,
     "uikTvd": "456402292277",
+    "uikName": "УИК №888",
     "tikTvd": "2562000211376",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 889,
     "uikTvd": "456402292278",
+    "uikName": "УИК №889",
     "tikTvd": "2562000211376",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 890,
     "uikTvd": "456402292279",
+    "uikName": "УИК №890",
     "tikTvd": "2562000211376",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 891,
     "uikTvd": "456402292280",
+    "uikName": "УИК №891",
     "tikTvd": "2562000211376",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 892,
     "uikTvd": "456402292281",
+    "uikName": "УИК №892",
     "tikTvd": "2562000211376",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 893,
     "uikTvd": "456402292282",
+    "uikName": "УИК №893",
     "tikTvd": "2562000211376",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 894,
     "uikTvd": "456402292283",
+    "uikName": "УИК №894",
     "tikTvd": "2562000211376",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 895,
     "uikTvd": "456402292284",
+    "uikName": "УИК №895",
     "tikTvd": "2562000211376",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 896,
     "uikTvd": "456402292285",
+    "uikName": "УИК №896",
     "tikTvd": "2562000211376",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 897,
     "uikTvd": "456402292286",
+    "uikName": "УИК №897",
     "tikTvd": "2562000211376",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 898,
     "uikTvd": "456402292287",
+    "uikName": "УИК №898",
     "tikTvd": "2562000211376",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 899,
     "uikTvd": "456402292288",
+    "uikName": "УИК №899",
     "tikTvd": "2562000211376",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 900,
     "uikTvd": "456402292289",
+    "uikName": "УИК №900",
     "tikTvd": "2562000211376",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 901,
     "uikTvd": "456402292290",
+    "uikName": "УИК №901",
     "tikTvd": "2562000211376",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 902,
     "uikTvd": "456402292291",
+    "uikName": "УИК №902",
     "tikTvd": "2562000211376",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 903,
     "uikTvd": "456402292292",
+    "uikName": "УИК №903",
     "tikTvd": "2562000211376",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 904,
     "uikTvd": "456402292293",
+    "uikName": "УИК №904",
     "tikTvd": "2562000211376",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 905,
     "uikTvd": "456402292294",
+    "uikName": "УИК №905",
     "tikTvd": "2562000211376",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 906,
     "uikTvd": "456402292295",
+    "uikName": "УИК №906",
     "tikTvd": "2562000211376",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 907,
     "uikTvd": "456402292296",
+    "uikName": "УИК №907",
     "tikTvd": "2562000211376",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 908,
     "uikTvd": "456402292297",
+    "uikName": "УИК №908",
     "tikTvd": "2562000211376",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 909,
     "uikTvd": "456402292298",
+    "uikName": "УИК №909",
     "tikTvd": "2562000211376",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 910,
     "uikTvd": "456402292299",
+    "uikName": "УИК №910",
     "tikTvd": "2562000211376",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 911,
     "uikTvd": "456402292300",
+    "uikName": "УИК №911",
     "tikTvd": "2562000211376",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 912,
     "uikTvd": "456402292301",
+    "uikName": "УИК №912",
     "tikTvd": "2562000211376",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 913,
     "uikTvd": "456402292302",
+    "uikName": "УИК №913",
     "tikTvd": "2562000211376",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 914,
     "uikTvd": "456402292303",
+    "uikName": "УИК №914",
     "tikTvd": "2562000211376",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 915,
     "uikTvd": "456402292304",
+    "uikName": "УИК №915",
     "tikTvd": "2562000211376",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 916,
     "uikTvd": "456402381707",
+    "uikName": "УИК №916",
     "tikTvd": "2562000211390",
-    "tikName": "Оренбург, Дзержинская"
+    "tikName": "Оренбург, Дзержинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 917,
     "uikTvd": "456402381708",
+    "uikName": "УИК №917",
     "tikTvd": "2562000211390",
-    "tikName": "Оренбург, Дзержинская"
+    "tikName": "Оренбург, Дзержинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 918,
     "uikTvd": "456402381709",
+    "uikName": "УИК №918",
     "tikTvd": "2562000211390",
-    "tikName": "Оренбург, Дзержинская"
+    "tikName": "Оренбург, Дзержинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 919,
     "uikTvd": "456402381710",
+    "uikName": "УИК №919",
     "tikTvd": "2562000211390",
-    "tikName": "Оренбург, Дзержинская"
+    "tikName": "Оренбург, Дзержинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 920,
     "uikTvd": "456402381711",
+    "uikName": "УИК №920",
     "tikTvd": "2562000211390",
-    "tikName": "Оренбург, Дзержинская"
+    "tikName": "Оренбург, Дзержинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 921,
     "uikTvd": "456402381712",
+    "uikName": "УИК №921",
     "tikTvd": "2562000211390",
-    "tikName": "Оренбург, Дзержинская"
+    "tikName": "Оренбург, Дзержинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 922,
     "uikTvd": "456402381713",
+    "uikName": "УИК №922",
     "tikTvd": "2562000211390",
-    "tikName": "Оренбург, Дзержинская"
+    "tikName": "Оренбург, Дзержинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 923,
     "uikTvd": "456402381714",
+    "uikName": "УИК №923",
     "tikTvd": "2562000211390",
-    "tikName": "Оренбург, Дзержинская"
+    "tikName": "Оренбург, Дзержинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 924,
     "uikTvd": "456402381715",
+    "uikName": "УИК №924",
     "tikTvd": "2562000211390",
-    "tikName": "Оренбург, Дзержинская"
+    "tikName": "Оренбург, Дзержинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 925,
     "uikTvd": "456402381716",
+    "uikName": "УИК №925",
     "tikTvd": "2562000211390",
-    "tikName": "Оренбург, Дзержинская"
+    "tikName": "Оренбург, Дзержинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 926,
     "uikTvd": "456402381717",
+    "uikName": "УИК №926",
     "tikTvd": "2562000211390",
-    "tikName": "Оренбург, Дзержинская"
+    "tikName": "Оренбург, Дзержинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 927,
     "uikTvd": "456402381718",
+    "uikName": "УИК №927",
     "tikTvd": "2562000211390",
-    "tikName": "Оренбург, Дзержинская"
+    "tikName": "Оренбург, Дзержинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 928,
     "uikTvd": "456402381719",
+    "uikName": "УИК №928",
     "tikTvd": "2562000211390",
-    "tikName": "Оренбург, Дзержинская"
+    "tikName": "Оренбург, Дзержинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 929,
     "uikTvd": "456402381720",
+    "uikName": "УИК №929",
     "tikTvd": "2562000211390",
-    "tikName": "Оренбург, Дзержинская"
+    "tikName": "Оренбург, Дзержинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 930,
     "uikTvd": "456402381721",
+    "uikName": "УИК №930",
     "tikTvd": "2562000211390",
-    "tikName": "Оренбург, Дзержинская"
+    "tikName": "Оренбург, Дзержинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 931,
     "uikTvd": "456402381722",
+    "uikName": "УИК №931",
     "tikTvd": "2562000211390",
-    "tikName": "Оренбург, Дзержинская"
+    "tikName": "Оренбург, Дзержинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 932,
     "uikTvd": "456402381723",
+    "uikName": "УИК №932",
     "tikTvd": "2562000211390",
-    "tikName": "Оренбург, Дзержинская"
+    "tikName": "Оренбург, Дзержинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 933,
     "uikTvd": "456402381724",
+    "uikName": "УИК №933",
     "tikTvd": "2562000211390",
-    "tikName": "Оренбург, Дзержинская"
+    "tikName": "Оренбург, Дзержинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 934,
     "uikTvd": "456402381725",
+    "uikName": "УИК №934",
     "tikTvd": "2562000211390",
-    "tikName": "Оренбург, Дзержинская"
+    "tikName": "Оренбург, Дзержинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 935,
     "uikTvd": "456402381726",
+    "uikName": "УИК №935",
     "tikTvd": "2562000211390",
-    "tikName": "Оренбург, Дзержинская"
+    "tikName": "Оренбург, Дзержинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 936,
     "uikTvd": "456402381727",
+    "uikName": "УИК №936",
     "tikTvd": "2562000211390",
-    "tikName": "Оренбург, Дзержинская"
+    "tikName": "Оренбург, Дзержинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 937,
     "uikTvd": "456402381728",
+    "uikName": "УИК №937",
     "tikTvd": "2562000211390",
-    "tikName": "Оренбург, Дзержинская"
+    "tikName": "Оренбург, Дзержинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 938,
     "uikTvd": "456402381729",
+    "uikName": "УИК №938",
     "tikTvd": "2562000211390",
-    "tikName": "Оренбург, Дзержинская"
+    "tikName": "Оренбург, Дзержинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 939,
     "uikTvd": "456402381730",
+    "uikName": "УИК №939",
     "tikTvd": "2562000211390",
-    "tikName": "Оренбург, Дзержинская"
+    "tikName": "Оренбург, Дзержинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 940,
     "uikTvd": "456402381731",
+    "uikName": "УИК №940",
     "tikTvd": "2562000211390",
-    "tikName": "Оренбург, Дзержинская"
+    "tikName": "Оренбург, Дзержинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 941,
     "uikTvd": "456402381732",
+    "uikName": "УИК №941",
     "tikTvd": "2562000211390",
-    "tikName": "Оренбург, Дзержинская"
+    "tikName": "Оренбург, Дзержинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 942,
     "uikTvd": "456402381733",
+    "uikName": "УИК №942",
     "tikTvd": "2562000211390",
-    "tikName": "Оренбург, Дзержинская"
+    "tikName": "Оренбург, Дзержинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 943,
     "uikTvd": "456402381734",
+    "uikName": "УИК №943",
     "tikTvd": "2562000211390",
-    "tikName": "Оренбург, Дзержинская"
+    "tikName": "Оренбург, Дзержинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 944,
     "uikTvd": "456402381735",
+    "uikName": "УИК №944",
     "tikTvd": "2562000211390",
-    "tikName": "Оренбург, Дзержинская"
+    "tikName": "Оренбург, Дзержинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 945,
     "uikTvd": "456402381736",
+    "uikName": "УИК №945",
     "tikTvd": "2562000211390",
-    "tikName": "Оренбург, Дзержинская"
+    "tikName": "Оренбург, Дзержинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 946,
     "uikTvd": "456402381737",
+    "uikName": "УИК №946",
     "tikTvd": "2562000211390",
-    "tikName": "Оренбург, Дзержинская"
+    "tikName": "Оренбург, Дзержинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 947,
     "uikTvd": "456402381738",
+    "uikName": "УИК №947",
     "tikTvd": "2562000211390",
-    "tikName": "Оренбург, Дзержинская"
+    "tikName": "Оренбург, Дзержинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 948,
     "uikTvd": "456402381739",
+    "uikName": "УИК №948",
     "tikTvd": "2562000211390",
-    "tikName": "Оренбург, Дзержинская"
+    "tikName": "Оренбург, Дзержинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 949,
     "uikTvd": "456402381740",
+    "uikName": "УИК №949",
     "tikTvd": "2562000211390",
-    "tikName": "Оренбург, Дзержинская"
+    "tikName": "Оренбург, Дзержинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 950,
     "uikTvd": "456402381741",
+    "uikName": "УИК №950",
     "tikTvd": "2562000211390",
-    "tikName": "Оренбург, Дзержинская"
+    "tikName": "Оренбург, Дзержинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 951,
     "uikTvd": "456402381742",
+    "uikName": "УИК №951",
     "tikTvd": "2562000211390",
-    "tikName": "Оренбург, Дзержинская"
+    "tikName": "Оренбург, Дзержинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 952,
     "uikTvd": "456402381743",
+    "uikName": "УИК №952",
     "tikTvd": "2562000211390",
-    "tikName": "Оренбург, Дзержинская"
+    "tikName": "Оренбург, Дзержинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 953,
     "uikTvd": "456402381744",
+    "uikName": "УИК №953",
     "tikTvd": "2562000211390",
-    "tikName": "Оренбург, Дзержинская"
+    "tikName": "Оренбург, Дзержинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 954,
     "uikTvd": "456402381745",
+    "uikName": "УИК №954",
     "tikTvd": "2562000211390",
-    "tikName": "Оренбург, Дзержинская"
+    "tikName": "Оренбург, Дзержинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 955,
     "uikTvd": "456402381746",
+    "uikName": "УИК №955",
     "tikTvd": "2562000211390",
-    "tikName": "Оренбург, Дзержинская"
+    "tikName": "Оренбург, Дзержинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 956,
     "uikTvd": "456402381747",
+    "uikName": "УИК №956",
     "tikTvd": "2562000211390",
-    "tikName": "Оренбург, Дзержинская"
+    "tikName": "Оренбург, Дзержинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 957,
     "uikTvd": "456402381748",
+    "uikName": "УИК №957",
     "tikTvd": "2562000211390",
-    "tikName": "Оренбург, Дзержинская"
+    "tikName": "Оренбург, Дзержинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 958,
     "uikTvd": "456402381749",
+    "uikName": "УИК №958",
     "tikTvd": "2562000211390",
-    "tikName": "Оренбург, Дзержинская"
+    "tikName": "Оренбург, Дзержинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 959,
     "uikTvd": "456402381750",
+    "uikName": "УИК №959",
     "tikTvd": "2562000211390",
-    "tikName": "Оренбург, Дзержинская"
+    "tikName": "Оренбург, Дзержинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 960,
     "uikTvd": "456402381751",
+    "uikName": "УИК №960",
     "tikTvd": "2562000211390",
-    "tikName": "Оренбург, Дзержинская"
+    "tikName": "Оренбург, Дзержинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 961,
     "uikTvd": "456402381752",
+    "uikName": "УИК №961",
     "tikTvd": "2562000211390",
-    "tikName": "Оренбург, Дзержинская"
+    "tikName": "Оренбург, Дзержинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 962,
     "uikTvd": "456402381753",
+    "uikName": "УИК №962",
     "tikTvd": "2562000211390",
-    "tikName": "Оренбург, Дзержинская"
+    "tikName": "Оренбург, Дзержинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 963,
     "uikTvd": "456402381754",
+    "uikName": "УИК №963",
     "tikTvd": "2562000211390",
-    "tikName": "Оренбург, Дзержинская"
+    "tikName": "Оренбург, Дзержинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 964,
     "uikTvd": "456402381755",
+    "uikName": "УИК №964",
     "tikTvd": "2562000211390",
-    "tikName": "Оренбург, Дзержинская"
+    "tikName": "Оренбург, Дзержинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 965,
     "uikTvd": "456402381756",
+    "uikName": "УИК №965",
     "tikTvd": "2562000211390",
-    "tikName": "Оренбург, Дзержинская"
+    "tikName": "Оренбург, Дзержинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 966,
     "uikTvd": "456402381757",
+    "uikName": "УИК №966",
     "tikTvd": "2562000211390",
-    "tikName": "Оренбург, Дзержинская"
+    "tikName": "Оренбург, Дзержинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 967,
     "uikTvd": "456402381758",
+    "uikName": "УИК №967",
     "tikTvd": "2562000211390",
-    "tikName": "Оренбург, Дзержинская"
+    "tikName": "Оренбург, Дзержинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 968,
     "uikTvd": "456402381759",
+    "uikName": "УИК №968",
     "tikTvd": "2562000211390",
-    "tikName": "Оренбург, Дзержинская"
+    "tikName": "Оренбург, Дзержинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 969,
     "uikTvd": "456402381760",
+    "uikName": "УИК №969",
     "tikTvd": "2562000211390",
-    "tikName": "Оренбург, Дзержинская"
+    "tikName": "Оренбург, Дзержинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 970,
     "uikTvd": "456402381761",
+    "uikName": "УИК №970",
     "tikTvd": "2562000211390",
-    "tikName": "Оренбург, Дзержинская"
+    "tikName": "Оренбург, Дзержинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 971,
     "uikTvd": "456402381762",
+    "uikName": "УИК №971",
     "tikTvd": "2562000211390",
-    "tikName": "Оренбург, Дзержинская"
+    "tikName": "Оренбург, Дзержинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 972,
     "uikTvd": "456402580991",
+    "uikName": "УИК №972",
     "tikTvd": "2562000211392",
-    "tikName": "Оренбург, Промышленная"
+    "tikName": "Оренбург, Промышленная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 973,
     "uikTvd": "456402580992",
+    "uikName": "УИК №973",
     "tikTvd": "2562000211392",
-    "tikName": "Оренбург, Промышленная"
+    "tikName": "Оренбург, Промышленная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 974,
     "uikTvd": "456402580993",
+    "uikName": "УИК №974",
     "tikTvd": "2562000211392",
-    "tikName": "Оренбург, Промышленная"
+    "tikName": "Оренбург, Промышленная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 975,
     "uikTvd": "456402580994",
+    "uikName": "УИК №975",
     "tikTvd": "2562000211392",
-    "tikName": "Оренбург, Промышленная"
+    "tikName": "Оренбург, Промышленная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 976,
     "uikTvd": "456402580995",
+    "uikName": "УИК №976",
     "tikTvd": "2562000211392",
-    "tikName": "Оренбург, Промышленная"
+    "tikName": "Оренбург, Промышленная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 977,
     "uikTvd": "456402580996",
+    "uikName": "УИК №977",
     "tikTvd": "2562000211392",
-    "tikName": "Оренбург, Промышленная"
+    "tikName": "Оренбург, Промышленная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 978,
     "uikTvd": "456402580997",
+    "uikName": "УИК №978",
     "tikTvd": "2562000211392",
-    "tikName": "Оренбург, Промышленная"
+    "tikName": "Оренбург, Промышленная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 979,
     "uikTvd": "456402580998",
+    "uikName": "УИК №979",
     "tikTvd": "2562000211392",
-    "tikName": "Оренбург, Промышленная"
+    "tikName": "Оренбург, Промышленная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 980,
     "uikTvd": "456402580999",
+    "uikName": "УИК №980",
     "tikTvd": "2562000211392",
-    "tikName": "Оренбург, Промышленная"
+    "tikName": "Оренбург, Промышленная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 981,
     "uikTvd": "456402581000",
+    "uikName": "УИК №981",
     "tikTvd": "2562000211392",
-    "tikName": "Оренбург, Промышленная"
+    "tikName": "Оренбург, Промышленная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 982,
     "uikTvd": "456402581001",
+    "uikName": "УИК №982",
     "tikTvd": "2562000211392",
-    "tikName": "Оренбург, Промышленная"
+    "tikName": "Оренбург, Промышленная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 983,
     "uikTvd": "456402581002",
+    "uikName": "УИК №983",
     "tikTvd": "2562000211392",
-    "tikName": "Оренбург, Промышленная"
+    "tikName": "Оренбург, Промышленная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 984,
     "uikTvd": "456402581003",
+    "uikName": "УИК №984",
     "tikTvd": "2562000211392",
-    "tikName": "Оренбург, Промышленная"
+    "tikName": "Оренбург, Промышленная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 985,
     "uikTvd": "456402581004",
+    "uikName": "УИК №985",
     "tikTvd": "2562000211392",
-    "tikName": "Оренбург, Промышленная"
+    "tikName": "Оренбург, Промышленная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 986,
     "uikTvd": "456402581005",
+    "uikName": "УИК №986",
     "tikTvd": "2562000211392",
-    "tikName": "Оренбург, Промышленная"
+    "tikName": "Оренбург, Промышленная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 987,
     "uikTvd": "456402581006",
+    "uikName": "УИК №987",
     "tikTvd": "2562000211392",
-    "tikName": "Оренбург, Промышленная"
+    "tikName": "Оренбург, Промышленная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 988,
     "uikTvd": "456402581007",
+    "uikName": "УИК №988",
     "tikTvd": "2562000211392",
-    "tikName": "Оренбург, Промышленная"
+    "tikName": "Оренбург, Промышленная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 989,
     "uikTvd": "456402581008",
+    "uikName": "УИК №989",
     "tikTvd": "2562000211392",
-    "tikName": "Оренбург, Промышленная"
+    "tikName": "Оренбург, Промышленная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 990,
     "uikTvd": "456402581009",
+    "uikName": "УИК №990",
     "tikTvd": "2562000211392",
-    "tikName": "Оренбург, Промышленная"
+    "tikName": "Оренбург, Промышленная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 991,
     "uikTvd": "456402581010",
+    "uikName": "УИК №991",
     "tikTvd": "2562000211392",
-    "tikName": "Оренбург, Промышленная"
+    "tikName": "Оренбург, Промышленная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 992,
     "uikTvd": "456402581011",
+    "uikName": "УИК №992",
     "tikTvd": "2562000211392",
-    "tikName": "Оренбург, Промышленная"
+    "tikName": "Оренбург, Промышленная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 993,
     "uikTvd": "456402581012",
+    "uikName": "УИК №993",
     "tikTvd": "2562000211392",
-    "tikName": "Оренбург, Промышленная"
+    "tikName": "Оренбург, Промышленная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 994,
     "uikTvd": "456402581013",
+    "uikName": "УИК №994",
     "tikTvd": "2562000211392",
-    "tikName": "Оренбург, Промышленная"
+    "tikName": "Оренбург, Промышленная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 995,
     "uikTvd": "456402581014",
+    "uikName": "УИК №995",
     "tikTvd": "2562000211392",
-    "tikName": "Оренбург, Промышленная"
+    "tikName": "Оренбург, Промышленная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 996,
     "uikTvd": "456402581015",
+    "uikName": "УИК №996",
     "tikTvd": "2562000211392",
-    "tikName": "Оренбург, Промышленная"
+    "tikName": "Оренбург, Промышленная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 997,
     "uikTvd": "456402581016",
+    "uikName": "УИК №997",
     "tikTvd": "2562000211392",
-    "tikName": "Оренбург, Промышленная"
+    "tikName": "Оренбург, Промышленная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 998,
     "uikTvd": "456402581017",
+    "uikName": "УИК №998",
     "tikTvd": "2562000211392",
-    "tikName": "Оренбург, Промышленная"
+    "tikName": "Оренбург, Промышленная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 999,
     "uikTvd": "456402581018",
+    "uikName": "УИК №999",
     "tikTvd": "2562000211392",
-    "tikName": "Оренбург, Промышленная"
+    "tikName": "Оренбург, Промышленная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1000,
     "uikTvd": "456402581019",
+    "uikName": "УИК №1000",
     "tikTvd": "2562000211392",
-    "tikName": "Оренбург, Промышленная"
+    "tikName": "Оренбург, Промышленная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1001,
     "uikTvd": "456402581020",
+    "uikName": "УИК №1001",
     "tikTvd": "2562000211392",
-    "tikName": "Оренбург, Промышленная"
+    "tikName": "Оренбург, Промышленная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1002,
     "uikTvd": "456402581021",
+    "uikName": "УИК №1002",
     "tikTvd": "2562000211392",
-    "tikName": "Оренбург, Промышленная"
+    "tikName": "Оренбург, Промышленная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1003,
     "uikTvd": "456402581022",
+    "uikName": "УИК №1003",
     "tikTvd": "2562000211392",
-    "tikName": "Оренбург, Промышленная"
+    "tikName": "Оренбург, Промышленная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1004,
     "uikTvd": "456402581023",
+    "uikName": "УИК №1004",
     "tikTvd": "2562000211392",
-    "tikName": "Оренбург, Промышленная"
+    "tikName": "Оренбург, Промышленная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1005,
     "uikTvd": "456402581024",
+    "uikName": "УИК №1005",
     "tikTvd": "2562000211392",
-    "tikName": "Оренбург, Промышленная"
+    "tikName": "Оренбург, Промышленная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1006,
     "uikTvd": "456402581025",
+    "uikName": "УИК №1006",
     "tikTvd": "2562000211392",
-    "tikName": "Оренбург, Промышленная"
+    "tikName": "Оренбург, Промышленная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1007,
     "uikTvd": "456402581026",
+    "uikName": "УИК №1007",
     "tikTvd": "2562000211392",
-    "tikName": "Оренбург, Промышленная"
+    "tikName": "Оренбург, Промышленная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1008,
     "uikTvd": "456402581027",
+    "uikName": "УИК №1008",
     "tikTvd": "2562000211392",
-    "tikName": "Оренбург, Промышленная"
+    "tikName": "Оренбург, Промышленная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1009,
     "uikTvd": "456402581028",
+    "uikName": "УИК №1009",
     "tikTvd": "2562000211392",
-    "tikName": "Оренбург, Промышленная"
+    "tikName": "Оренбург, Промышленная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1010,
     "uikTvd": "456402581029",
+    "uikName": "УИК №1010",
     "tikTvd": "2562000211392",
-    "tikName": "Оренбург, Промышленная"
+    "tikName": "Оренбург, Промышленная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1011,
     "uikTvd": "456402581030",
+    "uikName": "УИК №1011",
     "tikTvd": "2562000211392",
-    "tikName": "Оренбург, Промышленная"
+    "tikName": "Оренбург, Промышленная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1012,
     "uikTvd": "456402581031",
+    "uikName": "УИК №1012",
     "tikTvd": "2562000211392",
-    "tikName": "Оренбург, Промышленная"
+    "tikName": "Оренбург, Промышленная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1013,
     "uikTvd": "456402581032",
+    "uikName": "УИК №1013",
     "tikTvd": "2562000211392",
-    "tikName": "Оренбург, Промышленная"
+    "tikName": "Оренбург, Промышленная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1014,
     "uikTvd": "456402581033",
+    "uikName": "УИК №1014",
     "tikTvd": "2562000211392",
-    "tikName": "Оренбург, Промышленная"
+    "tikName": "Оренбург, Промышленная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1015,
     "uikTvd": "456402581034",
+    "uikName": "УИК №1015",
     "tikTvd": "2562000211392",
-    "tikName": "Оренбург, Промышленная"
+    "tikName": "Оренбург, Промышленная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1016,
     "uikTvd": "456402581035",
+    "uikName": "УИК №1016",
     "tikTvd": "2562000211392",
-    "tikName": "Оренбург, Промышленная"
+    "tikName": "Оренбург, Промышленная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1017,
     "uikTvd": "456402581036",
+    "uikName": "УИК №1017",
     "tikTvd": "2562000211392",
-    "tikName": "Оренбург, Промышленная"
+    "tikName": "Оренбург, Промышленная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1018,
     "uikTvd": "956902482223",
+    "uikName": "УИК №1018",
     "tikTvd": "2562000211391",
-    "tikName": "Оренбург, Ленинская"
+    "tikName": "Оренбург, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1019,
     "uikTvd": "956902482224",
+    "uikName": "УИК №1019",
     "tikTvd": "2562000211391",
-    "tikName": "Оренбург, Ленинская"
+    "tikName": "Оренбург, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1020,
     "uikTvd": "956902482225",
+    "uikName": "УИК №1020",
     "tikTvd": "2562000211391",
-    "tikName": "Оренбург, Ленинская"
+    "tikName": "Оренбург, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1021,
     "uikTvd": "956902482226",
+    "uikName": "УИК №1021",
     "tikTvd": "2562000211391",
-    "tikName": "Оренбург, Ленинская"
+    "tikName": "Оренбург, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1022,
     "uikTvd": "956902482227",
+    "uikName": "УИК №1022",
     "tikTvd": "2562000211391",
-    "tikName": "Оренбург, Ленинская"
+    "tikName": "Оренбург, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1023,
     "uikTvd": "956902482228",
+    "uikName": "УИК №1023",
     "tikTvd": "2562000211391",
-    "tikName": "Оренбург, Ленинская"
+    "tikName": "Оренбург, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1024,
     "uikTvd": "956902482229",
+    "uikName": "УИК №1024",
     "tikTvd": "2562000211391",
-    "tikName": "Оренбург, Ленинская"
+    "tikName": "Оренбург, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1025,
     "uikTvd": "956902482230",
+    "uikName": "УИК №1025",
     "tikTvd": "2562000211391",
-    "tikName": "Оренбург, Ленинская"
+    "tikName": "Оренбург, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1026,
     "uikTvd": "956902482231",
+    "uikName": "УИК №1026",
     "tikTvd": "2562000211391",
-    "tikName": "Оренбург, Ленинская"
+    "tikName": "Оренбург, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1027,
     "uikTvd": "956902482232",
+    "uikName": "УИК №1027",
     "tikTvd": "2562000211391",
-    "tikName": "Оренбург, Ленинская"
+    "tikName": "Оренбург, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1028,
     "uikTvd": "956902482233",
+    "uikName": "УИК №1028",
     "tikTvd": "2562000211391",
-    "tikName": "Оренбург, Ленинская"
+    "tikName": "Оренбург, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1029,
     "uikTvd": "956902482234",
+    "uikName": "УИК №1029",
     "tikTvd": "2562000211391",
-    "tikName": "Оренбург, Ленинская"
+    "tikName": "Оренбург, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1030,
     "uikTvd": "956902482235",
+    "uikName": "УИК №1030",
     "tikTvd": "2562000211391",
-    "tikName": "Оренбург, Ленинская"
+    "tikName": "Оренбург, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1031,
     "uikTvd": "956902482236",
+    "uikName": "УИК №1031",
     "tikTvd": "2562000211391",
-    "tikName": "Оренбург, Ленинская"
+    "tikName": "Оренбург, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1032,
     "uikTvd": "956902482237",
+    "uikName": "УИК №1032",
     "tikTvd": "2562000211391",
-    "tikName": "Оренбург, Ленинская"
+    "tikName": "Оренбург, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1033,
     "uikTvd": "956902482238",
+    "uikName": "УИК №1033",
     "tikTvd": "2562000211391",
-    "tikName": "Оренбург, Ленинская"
+    "tikName": "Оренбург, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1034,
     "uikTvd": "956902482239",
+    "uikName": "УИК №1034",
     "tikTvd": "2562000211391",
-    "tikName": "Оренбург, Ленинская"
+    "tikName": "Оренбург, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1035,
     "uikTvd": "956902482240",
+    "uikName": "УИК №1035",
     "tikTvd": "2562000211391",
-    "tikName": "Оренбург, Ленинская"
+    "tikName": "Оренбург, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1036,
     "uikTvd": "956902482241",
+    "uikName": "УИК №1036",
     "tikTvd": "2562000211391",
-    "tikName": "Оренбург, Ленинская"
+    "tikName": "Оренбург, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1037,
     "uikTvd": "956902482242",
+    "uikName": "УИК №1037",
     "tikTvd": "2562000211391",
-    "tikName": "Оренбург, Ленинская"
+    "tikName": "Оренбург, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1038,
     "uikTvd": "956902482243",
+    "uikName": "УИК №1038",
     "tikTvd": "2562000211391",
-    "tikName": "Оренбург, Ленинская"
+    "tikName": "Оренбург, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1039,
     "uikTvd": "956902482244",
+    "uikName": "УИК №1039",
     "tikTvd": "2562000211391",
-    "tikName": "Оренбург, Ленинская"
+    "tikName": "Оренбург, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1040,
     "uikTvd": "956902482245",
+    "uikName": "УИК №1040",
     "tikTvd": "2562000211391",
-    "tikName": "Оренбург, Ленинская"
+    "tikName": "Оренбург, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1041,
     "uikTvd": "956902482246",
+    "uikName": "УИК №1041",
     "tikTvd": "2562000211391",
-    "tikName": "Оренбург, Ленинская"
+    "tikName": "Оренбург, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1042,
     "uikTvd": "956902482247",
+    "uikName": "УИК №1042",
     "tikTvd": "2562000211391",
-    "tikName": "Оренбург, Ленинская"
+    "tikName": "Оренбург, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1043,
     "uikTvd": "956902482248",
+    "uikName": "УИК №1043",
     "tikTvd": "2562000211391",
-    "tikName": "Оренбург, Ленинская"
+    "tikName": "Оренбург, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1044,
     "uikTvd": "956902482249",
+    "uikName": "УИК №1044",
     "tikTvd": "2562000211391",
-    "tikName": "Оренбург, Ленинская"
+    "tikName": "Оренбург, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1045,
     "uikTvd": "956902482250",
+    "uikName": "УИК №1045",
     "tikTvd": "2562000211391",
-    "tikName": "Оренбург, Ленинская"
+    "tikName": "Оренбург, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1046,
     "uikTvd": "956902482251",
+    "uikName": "УИК №1046",
     "tikTvd": "2562000211391",
-    "tikName": "Оренбург, Ленинская"
+    "tikName": "Оренбург, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1047,
     "uikTvd": "956902482252",
+    "uikName": "УИК №1047",
     "tikTvd": "2562000211391",
-    "tikName": "Оренбург, Ленинская"
+    "tikName": "Оренбург, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1048,
     "uikTvd": "956902482253",
+    "uikName": "УИК №1048",
     "tikTvd": "2562000211391",
-    "tikName": "Оренбург, Ленинская"
+    "tikName": "Оренбург, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1049,
     "uikTvd": "956902482254",
+    "uikName": "УИК №1049",
     "tikTvd": "2562000211391",
-    "tikName": "Оренбург, Ленинская"
+    "tikName": "Оренбург, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1050,
     "uikTvd": "956902482255",
+    "uikName": "УИК №1050",
     "tikTvd": "2562000211391",
-    "tikName": "Оренбург, Ленинская"
+    "tikName": "Оренбург, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1051,
     "uikTvd": "956902482256",
+    "uikName": "УИК №1051",
     "tikTvd": "2562000211391",
-    "tikName": "Оренбург, Ленинская"
+    "tikName": "Оренбург, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1052,
     "uikTvd": "956902482257",
+    "uikName": "УИК №1052",
     "tikTvd": "2562000211391",
-    "tikName": "Оренбург, Ленинская"
+    "tikName": "Оренбург, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1053,
     "uikTvd": "956902482258",
+    "uikName": "УИК №1053",
     "tikTvd": "2562000211391",
-    "tikName": "Оренбург, Ленинская"
+    "tikName": "Оренбург, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1054,
     "uikTvd": "956902482259",
+    "uikName": "УИК №1054",
     "tikTvd": "2562000211391",
-    "tikName": "Оренбург, Ленинская"
+    "tikName": "Оренбург, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1055,
     "uikTvd": "956902482260",
+    "uikName": "УИК №1055",
     "tikTvd": "2562000211391",
-    "tikName": "Оренбург, Ленинская"
+    "tikName": "Оренбург, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1056,
     "uikTvd": "956902482261",
+    "uikName": "УИК №1056",
     "tikTvd": "2562000211391",
-    "tikName": "Оренбург, Ленинская"
+    "tikName": "Оренбург, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1057,
     "uikTvd": "956902482262",
+    "uikName": "УИК №1057",
     "tikTvd": "2562000211391",
-    "tikName": "Оренбург, Ленинская"
+    "tikName": "Оренбург, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1058,
     "uikTvd": "956902482263",
+    "uikName": "УИК №1058",
     "tikTvd": "2562000211391",
-    "tikName": "Оренбург, Ленинская"
+    "tikName": "Оренбург, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1059,
     "uikTvd": "956902482264",
+    "uikName": "УИК №1059",
     "tikTvd": "2562000211391",
-    "tikName": "Оренбург, Ленинская"
+    "tikName": "Оренбург, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1060,
     "uikTvd": "956902482265",
+    "uikName": "УИК №1060",
     "tikTvd": "2562000211391",
-    "tikName": "Оренбург, Ленинская"
+    "tikName": "Оренбург, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1061,
     "uikTvd": "956902482266",
+    "uikName": "УИК №1061",
     "tikTvd": "2562000211391",
-    "tikName": "Оренбург, Ленинская"
+    "tikName": "Оренбург, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1062,
     "uikTvd": "956902482267",
+    "uikName": "УИК №1062",
     "tikTvd": "2562000211391",
-    "tikName": "Оренбург, Ленинская"
+    "tikName": "Оренбург, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1063,
     "uikTvd": "956902482268",
+    "uikName": "УИК №1063",
     "tikTvd": "2562000211391",
-    "tikName": "Оренбург, Ленинская"
+    "tikName": "Оренбург, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1064,
     "uikTvd": "956902482269",
+    "uikName": "УИК №1064",
     "tikTvd": "2562000211391",
-    "tikName": "Оренбург, Ленинская"
+    "tikName": "Оренбург, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1065,
     "uikTvd": "956902482270",
+    "uikName": "УИК №1065",
     "tikTvd": "2562000211391",
-    "tikName": "Оренбург, Ленинская"
+    "tikName": "Оренбург, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1066,
     "uikTvd": "956902482271",
+    "uikName": "УИК №1066",
     "tikTvd": "2562000211391",
-    "tikName": "Оренбург, Ленинская"
+    "tikName": "Оренбург, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1067,
     "uikTvd": "956902482272",
+    "uikName": "УИК №1067",
     "tikTvd": "2562000211391",
-    "tikName": "Оренбург, Ленинская"
+    "tikName": "Оренбург, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1068,
     "uikTvd": "956902482273",
+    "uikName": "УИК №1068",
     "tikTvd": "2562000211391",
-    "tikName": "Оренбург, Ленинская"
+    "tikName": "Оренбург, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1069,
     "uikTvd": "956902482274",
+    "uikName": "УИК №1069",
     "tikTvd": "2562000211391",
-    "tikName": "Оренбург, Ленинская"
+    "tikName": "Оренбург, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1070,
     "uikTvd": "956902482275",
+    "uikName": "УИК №1070",
     "tikTvd": "2562000211391",
-    "tikName": "Оренбург, Ленинская"
+    "tikName": "Оренбург, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1071,
     "uikTvd": "956902482276",
+    "uikName": "УИК №1071",
     "tikTvd": "2562000211391",
-    "tikName": "Оренбург, Ленинская"
+    "tikName": "Оренбург, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1072,
     "uikTvd": "956902482277",
+    "uikName": "УИК №1072",
     "tikTvd": "2562000211391",
-    "tikName": "Оренбург, Ленинская"
+    "tikName": "Оренбург, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1073,
     "uikTvd": "956902482278",
+    "uikName": "УИК №1073",
     "tikTvd": "2562000211391",
-    "tikName": "Оренбург, Ленинская"
+    "tikName": "Оренбург, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1074,
     "uikTvd": "956902482279",
+    "uikName": "УИК №1074",
     "tikTvd": "2562000211391",
-    "tikName": "Оренбург, Ленинская"
+    "tikName": "Оренбург, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1075,
     "uikTvd": "956902482280",
+    "uikName": "УИК №1075",
     "tikTvd": "2562000211391",
-    "tikName": "Оренбург, Ленинская"
+    "tikName": "Оренбург, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1076,
     "uikTvd": "956902482281",
+    "uikName": "УИК №1076",
     "tikTvd": "2562000211391",
-    "tikName": "Оренбург, Ленинская"
+    "tikName": "Оренбург, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1077,
     "uikTvd": "956902482321",
+    "uikName": "УИК №1077",
     "tikTvd": "2562000211391",
-    "tikName": "Оренбург, Ленинская"
+    "tikName": "Оренбург, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1078,
     "uikTvd": "956902482322",
+    "uikName": "УИК №1078",
     "tikTvd": "2562000211391",
-    "tikName": "Оренбург, Ленинская"
+    "tikName": "Оренбург, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1082,
     "uikTvd": "956902482287",
+    "uikName": "УИК №1082",
     "tikTvd": "2562000211391",
-    "tikName": "Оренбург, Ленинская"
+    "tikName": "Оренбург, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1083,
     "uikTvd": "456402678578",
+    "uikName": "УИК №1083",
     "tikTvd": "2562000211389",
-    "tikName": "Оренбург, Центральная"
+    "tikName": "Оренбург, Центральная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1084,
     "uikTvd": "456402678579",
+    "uikName": "УИК №1084",
     "tikTvd": "2562000211389",
-    "tikName": "Оренбург, Центральная"
+    "tikName": "Оренбург, Центральная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1085,
     "uikTvd": "456402678580",
+    "uikName": "УИК №1085",
     "tikTvd": "2562000211389",
-    "tikName": "Оренбург, Центральная"
+    "tikName": "Оренбург, Центральная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1086,
     "uikTvd": "456402678581",
+    "uikName": "УИК №1086",
     "tikTvd": "2562000211389",
-    "tikName": "Оренбург, Центральная"
+    "tikName": "Оренбург, Центральная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1087,
     "uikTvd": "456402678582",
+    "uikName": "УИК №1087",
     "tikTvd": "2562000211389",
-    "tikName": "Оренбург, Центральная"
+    "tikName": "Оренбург, Центральная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1088,
     "uikTvd": "456402678583",
+    "uikName": "УИК №1088",
     "tikTvd": "2562000211389",
-    "tikName": "Оренбург, Центральная"
+    "tikName": "Оренбург, Центральная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1089,
     "uikTvd": "456402678584",
+    "uikName": "УИК №1089",
     "tikTvd": "2562000211389",
-    "tikName": "Оренбург, Центральная"
+    "tikName": "Оренбург, Центральная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1090,
     "uikTvd": "456402678585",
+    "uikName": "УИК №1090",
     "tikTvd": "2562000211389",
-    "tikName": "Оренбург, Центральная"
+    "tikName": "Оренбург, Центральная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1091,
     "uikTvd": "456402678586",
+    "uikName": "УИК №1091",
     "tikTvd": "2562000211389",
-    "tikName": "Оренбург, Центральная"
+    "tikName": "Оренбург, Центральная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1092,
     "uikTvd": "456402678587",
+    "uikName": "УИК №1092",
     "tikTvd": "2562000211389",
-    "tikName": "Оренбург, Центральная"
+    "tikName": "Оренбург, Центральная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1093,
     "uikTvd": "456402678588",
+    "uikName": "УИК №1093",
     "tikTvd": "2562000211389",
-    "tikName": "Оренбург, Центральная"
+    "tikName": "Оренбург, Центральная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1094,
     "uikTvd": "456402678589",
+    "uikName": "УИК №1094",
     "tikTvd": "2562000211389",
-    "tikName": "Оренбург, Центральная"
+    "tikName": "Оренбург, Центральная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1095,
     "uikTvd": "456402678590",
+    "uikName": "УИК №1095",
     "tikTvd": "2562000211389",
-    "tikName": "Оренбург, Центральная"
+    "tikName": "Оренбург, Центральная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1096,
     "uikTvd": "456402678591",
+    "uikName": "УИК №1096",
     "tikTvd": "2562000211389",
-    "tikName": "Оренбург, Центральная"
+    "tikName": "Оренбург, Центральная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1097,
     "uikTvd": "456402678592",
+    "uikName": "УИК №1097",
     "tikTvd": "2562000211389",
-    "tikName": "Оренбург, Центральная"
+    "tikName": "Оренбург, Центральная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1098,
     "uikTvd": "456402678593",
+    "uikName": "УИК №1098",
     "tikTvd": "2562000211389",
-    "tikName": "Оренбург, Центральная"
+    "tikName": "Оренбург, Центральная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1099,
     "uikTvd": "456402678594",
+    "uikName": "УИК №1099",
     "tikTvd": "2562000211389",
-    "tikName": "Оренбург, Центральная"
+    "tikName": "Оренбург, Центральная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1100,
     "uikTvd": "456402678595",
+    "uikName": "УИК №1100",
     "tikTvd": "2562000211389",
-    "tikName": "Оренбург, Центральная"
+    "tikName": "Оренбург, Центральная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1101,
     "uikTvd": "456402678596",
+    "uikName": "УИК №1101",
     "tikTvd": "2562000211389",
-    "tikName": "Оренбург, Центральная"
+    "tikName": "Оренбург, Центральная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1102,
     "uikTvd": "456402678597",
+    "uikName": "УИК №1102",
     "tikTvd": "2562000211389",
-    "tikName": "Оренбург, Центральная"
+    "tikName": "Оренбург, Центральная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1103,
     "uikTvd": "456402678598",
+    "uikName": "УИК №1103",
     "tikTvd": "2562000211389",
-    "tikName": "Оренбург, Центральная"
+    "tikName": "Оренбург, Центральная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1104,
     "uikTvd": "456402678599",
+    "uikName": "УИК №1104",
     "tikTvd": "2562000211389",
-    "tikName": "Оренбург, Центральная"
+    "tikName": "Оренбург, Центральная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1105,
     "uikTvd": "456402678600",
+    "uikName": "УИК №1105",
     "tikTvd": "2562000211389",
-    "tikName": "Оренбург, Центральная"
+    "tikName": "Оренбург, Центральная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1106,
     "uikTvd": "456402678601",
+    "uikName": "УИК №1106",
     "tikTvd": "2562000211389",
-    "tikName": "Оренбург, Центральная"
+    "tikName": "Оренбург, Центральная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1107,
     "uikTvd": "456402678602",
+    "uikName": "УИК №1107",
     "tikTvd": "2562000211389",
-    "tikName": "Оренбург, Центральная"
+    "tikName": "Оренбург, Центральная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1108,
     "uikTvd": "456402678603",
+    "uikName": "УИК №1108",
     "tikTvd": "2562000211389",
-    "tikName": "Оренбург, Центральная"
+    "tikName": "Оренбург, Центральная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1109,
     "uikTvd": "456402678604",
+    "uikName": "УИК №1109",
     "tikTvd": "2562000211389",
-    "tikName": "Оренбург, Центральная"
+    "tikName": "Оренбург, Центральная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1110,
     "uikTvd": "456402678605",
+    "uikName": "УИК №1110",
     "tikTvd": "2562000211389",
-    "tikName": "Оренбург, Центральная"
+    "tikName": "Оренбург, Центральная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1111,
     "uikTvd": "456402678606",
+    "uikName": "УИК №1111",
     "tikTvd": "2562000211389",
-    "tikName": "Оренбург, Центральная"
+    "tikName": "Оренбург, Центральная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1112,
     "uikTvd": "456402678607",
+    "uikName": "УИК №1112",
     "tikTvd": "2562000211389",
-    "tikName": "Оренбург, Центральная"
+    "tikName": "Оренбург, Центральная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1113,
     "uikTvd": "456402678608",
+    "uikName": "УИК №1113",
     "tikTvd": "2562000211389",
-    "tikName": "Оренбург, Центральная"
+    "tikName": "Оренбург, Центральная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1114,
     "uikTvd": "456402678609",
+    "uikName": "УИК №1114",
     "tikTvd": "2562000211389",
-    "tikName": "Оренбург, Центральная"
+    "tikName": "Оренбург, Центральная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1115,
     "uikTvd": "456402678610",
+    "uikName": "УИК №1115",
     "tikTvd": "2562000211389",
-    "tikName": "Оренбург, Центральная"
+    "tikName": "Оренбург, Центральная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1116,
     "uikTvd": "456402678611",
+    "uikName": "УИК №1116",
     "tikTvd": "2562000211389",
-    "tikName": "Оренбург, Центральная"
+    "tikName": "Оренбург, Центральная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1117,
     "uikTvd": "456402678612",
+    "uikName": "УИК №1117",
     "tikTvd": "2562000211389",
-    "tikName": "Оренбург, Центральная"
+    "tikName": "Оренбург, Центральная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1118,
     "uikTvd": "456402678613",
+    "uikName": "УИК №1118",
     "tikTvd": "2562000211389",
-    "tikName": "Оренбург, Центральная"
+    "tikName": "Оренбург, Центральная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1119,
     "uikTvd": "456400877440",
+    "uikName": "УИК №1119",
     "tikTvd": "2562000211377",
-    "tikName": "Бузулукская городская"
+    "tikName": "Бузулукская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1120,
     "uikTvd": "456400877441",
+    "uikName": "УИК №1120",
     "tikTvd": "2562000211377",
-    "tikName": "Бузулукская городская"
+    "tikName": "Бузулукская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1121,
     "uikTvd": "456400877442",
+    "uikName": "УИК №1121",
     "tikTvd": "2562000211377",
-    "tikName": "Бузулукская городская"
+    "tikName": "Бузулукская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1122,
     "uikTvd": "456400877443",
+    "uikName": "УИК №1122",
     "tikTvd": "2562000211377",
-    "tikName": "Бузулукская городская"
+    "tikName": "Бузулукская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1123,
     "uikTvd": "456400877444",
+    "uikName": "УИК №1123",
     "tikTvd": "2562000211377",
-    "tikName": "Бузулукская городская"
+    "tikName": "Бузулукская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1125,
     "uikTvd": "4564027123049",
+    "uikName": "УИК №1125",
     "tikTvd": "2562000211387",
-    "tikName": "Оренбургская"
+    "tikName": "Оренбургская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1126,
     "uikTvd": "4564027123050",
+    "uikName": "УИК №1126",
     "tikTvd": "2562000211387",
-    "tikName": "Оренбургская"
+    "tikName": "Оренбургская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1127,
     "uikTvd": "4564027123051",
+    "uikName": "УИК №1127",
     "tikTvd": "2562000211387",
-    "tikName": "Оренбургская"
+    "tikName": "Оренбургская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1128,
     "uikTvd": "4564027123052",
+    "uikName": "УИК №1128",
     "tikTvd": "2562000211387",
-    "tikName": "Оренбургская"
+    "tikName": "Оренбургская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1129,
     "uikTvd": "4564027123053",
+    "uikName": "УИК №1129",
     "tikTvd": "2562000211387",
-    "tikName": "Оренбургская"
+    "tikName": "Оренбургская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1130,
     "uikTvd": "4564027123054",
+    "uikName": "УИК №1130",
     "tikTvd": "2562000211387",
-    "tikName": "Оренбургская"
+    "tikName": "Оренбургская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1131,
     "uikTvd": "4564027123055",
+    "uikName": "УИК №1131",
     "tikTvd": "2562000211387",
-    "tikName": "Оренбургская"
+    "tikName": "Оренбургская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1132,
     "uikTvd": "4564027123056",
+    "uikName": "УИК №1132",
     "tikTvd": "2562000211387",
-    "tikName": "Оренбургская"
+    "tikName": "Оренбургская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1133,
     "uikTvd": "4564027123057",
+    "uikName": "УИК №1133",
     "tikTvd": "2562000211387",
-    "tikName": "Оренбургская"
+    "tikName": "Оренбургская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1134,
     "uikTvd": "4564027123058",
+    "uikName": "УИК №1134",
     "tikTvd": "2562000211387",
-    "tikName": "Оренбургская"
+    "tikName": "Оренбургская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1135,
     "uikTvd": "4564027123059",
+    "uikName": "УИК №1135",
     "tikTvd": "2562000211387",
-    "tikName": "Оренбургская"
+    "tikName": "Оренбургская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1136,
     "uikTvd": "4564027123060",
+    "uikName": "УИК №1136",
     "tikTvd": "2562000211387",
-    "tikName": "Оренбургская"
+    "tikName": "Оренбургская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1137,
     "uikTvd": "4564027123061",
+    "uikName": "УИК №1137",
     "tikTvd": "2562000211387",
-    "tikName": "Оренбургская"
+    "tikName": "Оренбургская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1138,
     "uikTvd": "4564027123062",
+    "uikName": "УИК №1138",
     "tikTvd": "2562000211387",
-    "tikName": "Оренбургская"
+    "tikName": "Оренбургская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1139,
     "uikTvd": "4564027123063",
+    "uikName": "УИК №1139",
     "tikTvd": "2562000211387",
-    "tikName": "Оренбургская"
+    "tikName": "Оренбургская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1140,
     "uikTvd": "4564027123064",
+    "uikName": "УИК №1140",
     "tikTvd": "2562000211387",
-    "tikName": "Оренбургская"
+    "tikName": "Оренбургская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1141,
     "uikTvd": "4564027123065",
+    "uikName": "УИК №1141",
     "tikTvd": "2562000211387",
-    "tikName": "Оренбургская"
+    "tikName": "Оренбургская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1142,
     "uikTvd": "4564027123066",
+    "uikName": "УИК №1142",
     "tikTvd": "2562000211387",
-    "tikName": "Оренбургская"
+    "tikName": "Оренбургская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1143,
     "uikTvd": "4564027123067",
+    "uikName": "УИК №1143",
     "tikTvd": "2562000211387",
-    "tikName": "Оренбургская"
+    "tikName": "Оренбургская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1144,
     "uikTvd": "4564027123068",
+    "uikName": "УИК №1144",
     "tikTvd": "2562000211387",
-    "tikName": "Оренбургская"
+    "tikName": "Оренбургская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1145,
     "uikTvd": "4564027123069",
+    "uikName": "УИК №1145",
     "tikTvd": "2562000211387",
-    "tikName": "Оренбургская"
+    "tikName": "Оренбургская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1146,
     "uikTvd": "4564027123070",
+    "uikName": "УИК №1146",
     "tikTvd": "2562000211387",
-    "tikName": "Оренбургская"
+    "tikName": "Оренбургская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1147,
     "uikTvd": "4564027123071",
+    "uikName": "УИК №1147",
     "tikTvd": "2562000211387",
-    "tikName": "Оренбургская"
+    "tikName": "Оренбургская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1148,
     "uikTvd": "4564027123072",
+    "uikName": "УИК №1148",
     "tikTvd": "2562000211387",
-    "tikName": "Оренбургская"
+    "tikName": "Оренбургская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1149,
     "uikTvd": "4564027123073",
+    "uikName": "УИК №1149",
     "tikTvd": "2562000211387",
-    "tikName": "Оренбургская"
+    "tikName": "Оренбургская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1150,
     "uikTvd": "4564027123074",
+    "uikName": "УИК №1150",
     "tikTvd": "2562000211387",
-    "tikName": "Оренбургская"
+    "tikName": "Оренбургская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1151,
     "uikTvd": "4564027123075",
+    "uikName": "УИК №1151",
     "tikTvd": "2562000211387",
-    "tikName": "Оренбургская"
+    "tikName": "Оренбургская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1152,
     "uikTvd": "4564027123076",
+    "uikName": "УИК №1152",
     "tikTvd": "2562000211387",
-    "tikName": "Оренбургская"
+    "tikName": "Оренбургская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1153,
     "uikTvd": "4564027123077",
+    "uikName": "УИК №1153",
     "tikTvd": "2562000211387",
-    "tikName": "Оренбургская"
+    "tikName": "Оренбургская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1154,
     "uikTvd": "4564027123078",
+    "uikName": "УИК №1154",
     "tikTvd": "2562000211387",
-    "tikName": "Оренбургская"
+    "tikName": "Оренбургская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1155,
     "uikTvd": "4564027123079",
+    "uikName": "УИК №1155",
     "tikTvd": "2562000211387",
-    "tikName": "Оренбургская"
+    "tikName": "Оренбургская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1156,
     "uikTvd": "4564027123080",
+    "uikName": "УИК №1156",
     "tikTvd": "2562000211387",
-    "tikName": "Оренбургская"
+    "tikName": "Оренбургская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1157,
     "uikTvd": "4564027123081",
+    "uikName": "УИК №1157",
     "tikTvd": "2562000211387",
-    "tikName": "Оренбургская"
+    "tikName": "Оренбургская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1158,
     "uikTvd": "4564027123082",
+    "uikName": "УИК №1158",
     "tikTvd": "2562000211387",
-    "tikName": "Оренбургская"
+    "tikName": "Оренбургская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1159,
     "uikTvd": "4564027123083",
+    "uikName": "УИК №1159",
     "tikTvd": "2562000211387",
-    "tikName": "Оренбургская"
+    "tikName": "Оренбургская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1160,
     "uikTvd": "4564027123084",
+    "uikName": "УИК №1160",
     "tikTvd": "2562000211387",
-    "tikName": "Оренбургская"
+    "tikName": "Оренбургская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1161,
     "uikTvd": "4564027123085",
+    "uikName": "УИК №1161",
     "tikTvd": "2562000211387",
-    "tikName": "Оренбургская"
+    "tikName": "Оренбургская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1162,
     "uikTvd": "4564027123086",
+    "uikName": "УИК №1162",
     "tikTvd": "2562000211387",
-    "tikName": "Оренбургская"
+    "tikName": "Оренбургская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1163,
     "uikTvd": "4564027123087",
+    "uikName": "УИК №1163",
     "tikTvd": "2562000211387",
-    "tikName": "Оренбургская"
+    "tikName": "Оренбургская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1164,
     "uikTvd": "4564027123088",
+    "uikName": "УИК №1164",
     "tikTvd": "2562000211387",
-    "tikName": "Оренбургская"
+    "tikName": "Оренбургская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1165,
     "uikTvd": "4564027123089",
+    "uikName": "УИК №1165",
     "tikTvd": "2562000211387",
-    "tikName": "Оренбургская"
+    "tikName": "Оренбургская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1166,
     "uikTvd": "4564027123090",
+    "uikName": "УИК №1166",
     "tikTvd": "2562000211387",
-    "tikName": "Оренбургская"
+    "tikName": "Оренбургская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1167,
     "uikTvd": "4564027123091",
+    "uikName": "УИК №1167",
     "tikTvd": "2562000211387",
-    "tikName": "Оренбургская"
+    "tikName": "Оренбургская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1168,
     "uikTvd": "4564027123092",
+    "uikName": "УИК №1168",
     "tikTvd": "2562000211387",
-    "tikName": "Оренбургская"
+    "tikName": "Оренбургская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1169,
     "uikTvd": "4564027123093",
+    "uikName": "УИК №1169",
     "tikTvd": "2562000211387",
-    "tikName": "Оренбургская"
+    "tikName": "Оренбургская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1170,
     "uikTvd": "4564027123094",
+    "uikName": "УИК №1170",
     "tikTvd": "2562000211387",
-    "tikName": "Оренбургская"
+    "tikName": "Оренбургская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1171,
     "uikTvd": "4564027123095",
+    "uikName": "УИК №1171",
     "tikTvd": "2562000211387",
-    "tikName": "Оренбургская"
+    "tikName": "Оренбургская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1172,
     "uikTvd": "4564027123096",
+    "uikName": "УИК №1172",
     "tikTvd": "2562000211387",
-    "tikName": "Оренбургская"
+    "tikName": "Оренбургская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1173,
     "uikTvd": "4564027123097",
+    "uikName": "УИК №1173",
     "tikTvd": "2562000211387",
-    "tikName": "Оренбургская"
+    "tikName": "Оренбургская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1174,
     "uikTvd": "4564027123098",
+    "uikName": "УИК №1174",
     "tikTvd": "2562000211387",
-    "tikName": "Оренбургская"
+    "tikName": "Оренбургская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1175,
     "uikTvd": "4564027123099",
+    "uikName": "УИК №1175",
     "tikTvd": "2562000211387",
-    "tikName": "Оренбургская"
+    "tikName": "Оренбургская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1176,
     "uikTvd": "4564027123100",
+    "uikName": "УИК №1176",
     "tikTvd": "2562000211387",
-    "tikName": "Оренбургская"
+    "tikName": "Оренбургская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1177,
     "uikTvd": "4564027123101",
+    "uikName": "УИК №1177",
     "tikTvd": "2562000211387",
-    "tikName": "Оренбургская"
+    "tikName": "Оренбургская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1178,
     "uikTvd": "4564027123102",
+    "uikName": "УИК №1178",
     "tikTvd": "2562000211387",
-    "tikName": "Оренбургская"
+    "tikName": "Оренбургская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1179,
     "uikTvd": "4564027123103",
+    "uikName": "УИК №1179",
     "tikTvd": "2562000211387",
-    "tikName": "Оренбургская"
+    "tikName": "Оренбургская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1180,
     "uikTvd": "4564027123104",
+    "uikName": "УИК №1180",
     "tikTvd": "2562000211387",
-    "tikName": "Оренбургская"
+    "tikName": "Оренбургская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1181,
     "uikTvd": "4564027123105",
+    "uikName": "УИК №1181",
     "tikTvd": "2562000211387",
-    "tikName": "Оренбургская"
+    "tikName": "Оренбургская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1182,
     "uikTvd": "456402887031",
+    "uikName": "УИК №1182",
     "tikTvd": "2562000211388",
-    "tikName": "Орск, Ленинская"
+    "tikName": "Орск, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1183,
     "uikTvd": "456402887032",
+    "uikName": "УИК №1183",
     "tikTvd": "2562000211388",
-    "tikName": "Орск, Ленинская"
+    "tikName": "Орск, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1184,
     "uikTvd": "456402887033",
+    "uikName": "УИК №1184",
     "tikTvd": "2562000211388",
-    "tikName": "Орск, Ленинская"
+    "tikName": "Орск, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1185,
     "uikTvd": "456402887034",
+    "uikName": "УИК №1185",
     "tikTvd": "2562000211388",
-    "tikName": "Орск, Ленинская"
+    "tikName": "Орск, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1186,
     "uikTvd": "456402887035",
+    "uikName": "УИК №1186",
     "tikTvd": "2562000211388",
-    "tikName": "Орск, Ленинская"
+    "tikName": "Орск, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1187,
     "uikTvd": "456402887036",
+    "uikName": "УИК №1187",
     "tikTvd": "2562000211388",
-    "tikName": "Орск, Ленинская"
+    "tikName": "Орск, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1188,
     "uikTvd": "456402887037",
+    "uikName": "УИК №1188",
     "tikTvd": "2562000211388",
-    "tikName": "Орск, Ленинская"
+    "tikName": "Орск, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1189,
     "uikTvd": "456402887038",
+    "uikName": "УИК №1189",
     "tikTvd": "2562000211388",
-    "tikName": "Орск, Ленинская"
+    "tikName": "Орск, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1190,
     "uikTvd": "456402887039",
+    "uikName": "УИК №1190",
     "tikTvd": "2562000211388",
-    "tikName": "Орск, Ленинская"
+    "tikName": "Орск, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1191,
     "uikTvd": "456402887040",
+    "uikName": "УИК №1191",
     "tikTvd": "2562000211388",
-    "tikName": "Орск, Ленинская"
+    "tikName": "Орск, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1192,
     "uikTvd": "456402887041",
+    "uikName": "УИК №1192",
     "tikTvd": "2562000211388",
-    "tikName": "Орск, Ленинская"
+    "tikName": "Орск, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1193,
     "uikTvd": "456402887042",
+    "uikName": "УИК №1193",
     "tikTvd": "2562000211388",
-    "tikName": "Орск, Ленинская"
+    "tikName": "Орск, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1194,
     "uikTvd": "456402887043",
+    "uikName": "УИК №1194",
     "tikTvd": "2562000211388",
-    "tikName": "Орск, Ленинская"
+    "tikName": "Орск, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1195,
     "uikTvd": "456402887044",
+    "uikName": "УИК №1195",
     "tikTvd": "2562000211388",
-    "tikName": "Орск, Ленинская"
+    "tikName": "Орск, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1196,
     "uikTvd": "456402887045",
+    "uikName": "УИК №1196",
     "tikTvd": "2562000211388",
-    "tikName": "Орск, Ленинская"
+    "tikName": "Орск, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1197,
     "uikTvd": "456402887046",
+    "uikName": "УИК №1197",
     "tikTvd": "2562000211388",
-    "tikName": "Орск, Ленинская"
+    "tikName": "Орск, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1198,
     "uikTvd": "456402887047",
+    "uikName": "УИК №1198",
     "tikTvd": "2562000211388",
-    "tikName": "Орск, Ленинская"
+    "tikName": "Орск, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1199,
     "uikTvd": "456402887048",
+    "uikName": "УИК №1199",
     "tikTvd": "2562000211388",
-    "tikName": "Орск, Ленинская"
+    "tikName": "Орск, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1200,
     "uikTvd": "456402887049",
+    "uikName": "УИК №1200",
     "tikTvd": "2562000211388",
-    "tikName": "Орск, Ленинская"
+    "tikName": "Орск, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1201,
     "uikTvd": "456402887050",
+    "uikName": "УИК №1201",
     "tikTvd": "2562000211388",
-    "tikName": "Орск, Ленинская"
+    "tikName": "Орск, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1202,
     "uikTvd": "456402887051",
+    "uikName": "УИК №1202",
     "tikTvd": "2562000211388",
-    "tikName": "Орск, Ленинская"
+    "tikName": "Орск, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1203,
     "uikTvd": "456402887052",
+    "uikName": "УИК №1203",
     "tikTvd": "2562000211388",
-    "tikName": "Орск, Ленинская"
+    "tikName": "Орск, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1204,
     "uikTvd": "456402887053",
+    "uikName": "УИК №1204",
     "tikTvd": "2562000211388",
-    "tikName": "Орск, Ленинская"
+    "tikName": "Орск, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1205,
     "uikTvd": "456402887054",
+    "uikName": "УИК №1205",
     "tikTvd": "2562000211388",
-    "tikName": "Орск, Ленинская"
+    "tikName": "Орск, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1206,
     "uikTvd": "456402887055",
+    "uikName": "УИК №1206",
     "tikTvd": "2562000211388",
-    "tikName": "Орск, Ленинская"
+    "tikName": "Орск, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1207,
     "uikTvd": "456402887056",
+    "uikName": "УИК №1207",
     "tikTvd": "2562000211388",
-    "tikName": "Орск, Ленинская"
+    "tikName": "Орск, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1208,
     "uikTvd": "456402887057",
+    "uikName": "УИК №1208",
     "tikTvd": "2562000211388",
-    "tikName": "Орск, Ленинская"
+    "tikName": "Орск, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1209,
     "uikTvd": "456402887058",
+    "uikName": "УИК №1209",
     "tikTvd": "2562000211388",
-    "tikName": "Орск, Ленинская"
+    "tikName": "Орск, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1210,
     "uikTvd": "456402887059",
+    "uikName": "УИК №1210",
     "tikTvd": "2562000211388",
-    "tikName": "Орск, Ленинская"
+    "tikName": "Орск, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1211,
     "uikTvd": "456402887060",
+    "uikName": "УИК №1211",
     "tikTvd": "2562000211388",
-    "tikName": "Орск, Ленинская"
+    "tikName": "Орск, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1212,
     "uikTvd": "456402887061",
+    "uikName": "УИК №1212",
     "tikTvd": "2562000211388",
-    "tikName": "Орск, Ленинская"
+    "tikName": "Орск, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1213,
     "uikTvd": "456402887062",
+    "uikName": "УИК №1213",
     "tikTvd": "2562000211388",
-    "tikName": "Орск, Ленинская"
+    "tikName": "Орск, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1214,
     "uikTvd": "456402887063",
+    "uikName": "УИК №1214",
     "tikTvd": "2562000211388",
-    "tikName": "Орск, Ленинская"
+    "tikName": "Орск, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1215,
     "uikTvd": "456402986445",
+    "uikName": "УИК №1215",
     "tikTvd": "2562000211405",
-    "tikName": "Орск, Октябрьская"
+    "tikName": "Орск, Октябрьская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1216,
     "uikTvd": "456402986446",
+    "uikName": "УИК №1216",
     "tikTvd": "2562000211405",
-    "tikName": "Орск, Октябрьская"
+    "tikName": "Орск, Октябрьская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1217,
     "uikTvd": "456402986447",
+    "uikName": "УИК №1217",
     "tikTvd": "2562000211405",
-    "tikName": "Орск, Октябрьская"
+    "tikName": "Орск, Октябрьская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1218,
     "uikTvd": "456402986448",
+    "uikName": "УИК №1218",
     "tikTvd": "2562000211405",
-    "tikName": "Орск, Октябрьская"
+    "tikName": "Орск, Октябрьская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1219,
     "uikTvd": "456402986449",
+    "uikName": "УИК №1219",
     "tikTvd": "2562000211405",
-    "tikName": "Орск, Октябрьская"
+    "tikName": "Орск, Октябрьская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1220,
     "uikTvd": "456402986450",
+    "uikName": "УИК №1220",
     "tikTvd": "2562000211405",
-    "tikName": "Орск, Октябрьская"
+    "tikName": "Орск, Октябрьская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1221,
     "uikTvd": "456402986451",
+    "uikName": "УИК №1221",
     "tikTvd": "2562000211405",
-    "tikName": "Орск, Октябрьская"
+    "tikName": "Орск, Октябрьская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1222,
     "uikTvd": "456402986452",
+    "uikName": "УИК №1222",
     "tikTvd": "2562000211405",
-    "tikName": "Орск, Октябрьская"
+    "tikName": "Орск, Октябрьская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1223,
     "uikTvd": "456402986453",
+    "uikName": "УИК №1223",
     "tikTvd": "2562000211405",
-    "tikName": "Орск, Октябрьская"
+    "tikName": "Орск, Октябрьская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1224,
     "uikTvd": "456402986454",
+    "uikName": "УИК №1224",
     "tikTvd": "2562000211405",
-    "tikName": "Орск, Октябрьская"
+    "tikName": "Орск, Октябрьская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1225,
     "uikTvd": "456402986455",
+    "uikName": "УИК №1225",
     "tikTvd": "2562000211405",
-    "tikName": "Орск, Октябрьская"
+    "tikName": "Орск, Октябрьская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1226,
     "uikTvd": "456402986456",
+    "uikName": "УИК №1226",
     "tikTvd": "2562000211405",
-    "tikName": "Орск, Октябрьская"
+    "tikName": "Орск, Октябрьская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1227,
     "uikTvd": "456402986457",
+    "uikName": "УИК №1227",
     "tikTvd": "2562000211405",
-    "tikName": "Орск, Октябрьская"
+    "tikName": "Орск, Октябрьская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1228,
     "uikTvd": "456402986458",
+    "uikName": "УИК №1228",
     "tikTvd": "2562000211405",
-    "tikName": "Орск, Октябрьская"
+    "tikName": "Орск, Октябрьская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1229,
     "uikTvd": "456402986459",
+    "uikName": "УИК №1229",
     "tikTvd": "2562000211405",
-    "tikName": "Орск, Октябрьская"
+    "tikName": "Орск, Октябрьская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1230,
     "uikTvd": "456402986460",
+    "uikName": "УИК №1230",
     "tikTvd": "2562000211405",
-    "tikName": "Орск, Октябрьская"
+    "tikName": "Орск, Октябрьская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1231,
     "uikTvd": "456402986461",
+    "uikName": "УИК №1231",
     "tikTvd": "2562000211405",
-    "tikName": "Орск, Октябрьская"
+    "tikName": "Орск, Октябрьская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1232,
     "uikTvd": "456402986462",
+    "uikName": "УИК №1232",
     "tikTvd": "2562000211405",
-    "tikName": "Орск, Октябрьская"
+    "tikName": "Орск, Октябрьская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1233,
     "uikTvd": "456402986463",
+    "uikName": "УИК №1233",
     "tikTvd": "2562000211405",
-    "tikName": "Орск, Октябрьская"
+    "tikName": "Орск, Октябрьская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1234,
     "uikTvd": "456402986464",
+    "uikName": "УИК №1234",
     "tikTvd": "2562000211405",
-    "tikName": "Орск, Октябрьская"
+    "tikName": "Орск, Октябрьская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1235,
     "uikTvd": "456402986465",
+    "uikName": "УИК №1235",
     "tikTvd": "2562000211405",
-    "tikName": "Орск, Октябрьская"
+    "tikName": "Орск, Октябрьская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1236,
     "uikTvd": "456402986466",
+    "uikName": "УИК №1236",
     "tikTvd": "2562000211405",
-    "tikName": "Орск, Октябрьская"
+    "tikName": "Орск, Октябрьская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1237,
     "uikTvd": "456402986467",
+    "uikName": "УИК №1237",
     "tikTvd": "2562000211405",
-    "tikName": "Орск, Октябрьская"
+    "tikName": "Орск, Октябрьская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1238,
     "uikTvd": "456402986468",
+    "uikName": "УИК №1238",
     "tikTvd": "2562000211405",
-    "tikName": "Орск, Октябрьская"
+    "tikName": "Орск, Октябрьская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1239,
     "uikTvd": "456402986469",
+    "uikName": "УИК №1239",
     "tikTvd": "2562000211405",
-    "tikName": "Орск, Октябрьская"
+    "tikName": "Орск, Октябрьская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1240,
     "uikTvd": "456402986470",
+    "uikName": "УИК №1240",
     "tikTvd": "2562000211405",
-    "tikName": "Орск, Октябрьская"
+    "tikName": "Орск, Октябрьская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1241,
     "uikTvd": "456402986471",
+    "uikName": "УИК №1241",
     "tikTvd": "2562000211405",
-    "tikName": "Орск, Октябрьская"
+    "tikName": "Орск, Октябрьская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1242,
     "uikTvd": "456402986472",
+    "uikName": "УИК №1242",
     "tikTvd": "2562000211405",
-    "tikName": "Орск, Октябрьская"
+    "tikName": "Орск, Октябрьская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1243,
     "uikTvd": "456402986473",
+    "uikName": "УИК №1243",
     "tikTvd": "2562000211405",
-    "tikName": "Орск, Октябрьская"
+    "tikName": "Орск, Октябрьская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1244,
     "uikTvd": "456402986474",
+    "uikName": "УИК №1244",
     "tikTvd": "2562000211405",
-    "tikName": "Орск, Октябрьская"
+    "tikName": "Орск, Октябрьская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1245,
     "uikTvd": "456402986475",
+    "uikName": "УИК №1245",
     "tikTvd": "2562000211405",
-    "tikName": "Орск, Октябрьская"
+    "tikName": "Орск, Октябрьская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1246,
     "uikTvd": "456402986476",
+    "uikName": "УИК №1246",
     "tikTvd": "2562000211405",
-    "tikName": "Орск, Октябрьская"
+    "tikName": "Орск, Октябрьская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1247,
     "uikTvd": "456402986477",
+    "uikName": "УИК №1247",
     "tikTvd": "2562000211405",
-    "tikName": "Орск, Октябрьская"
+    "tikName": "Орск, Октябрьская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1248,
     "uikTvd": "456402986478",
+    "uikName": "УИК №1248",
     "tikTvd": "2562000211405",
-    "tikName": "Орск, Октябрьская"
+    "tikName": "Орск, Октябрьская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1249,
     "uikTvd": "456402986479",
+    "uikName": "УИК №1249",
     "tikTvd": "2562000211405",
-    "tikName": "Орск, Октябрьская"
+    "tikName": "Орск, Октябрьская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1250,
     "uikTvd": "456402986480",
+    "uikName": "УИК №1250",
     "tikTvd": "2562000211405",
-    "tikName": "Орск, Октябрьская"
+    "tikName": "Орск, Октябрьская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1251,
     "uikTvd": "456402986481",
+    "uikName": "УИК №1251",
     "tikTvd": "2562000211405",
-    "tikName": "Орск, Октябрьская"
+    "tikName": "Орск, Октябрьская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1252,
     "uikTvd": "456402986482",
+    "uikName": "УИК №1252",
     "tikTvd": "2562000211405",
-    "tikName": "Орск, Октябрьская"
+    "tikName": "Орск, Октябрьская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1253,
     "uikTvd": "456403082435",
+    "uikName": "УИК №1253",
     "tikTvd": "2562000211386",
-    "tikName": "Орск, Советская"
+    "tikName": "Орск, Советская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1254,
     "uikTvd": "456403082437",
+    "uikName": "УИК №1254",
     "tikTvd": "2562000211386",
-    "tikName": "Орск, Советская"
+    "tikName": "Орск, Советская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1255,
     "uikTvd": "456403082438",
+    "uikName": "УИК №1255",
     "tikTvd": "2562000211386",
-    "tikName": "Орск, Советская"
+    "tikName": "Орск, Советская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1256,
     "uikTvd": "456403082439",
+    "uikName": "УИК №1256",
     "tikTvd": "2562000211386",
-    "tikName": "Орск, Советская"
+    "tikName": "Орск, Советская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1257,
     "uikTvd": "456403082440",
+    "uikName": "УИК №1257",
     "tikTvd": "2562000211386",
-    "tikName": "Орск, Советская"
+    "tikName": "Орск, Советская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1258,
     "uikTvd": "456403082441",
+    "uikName": "УИК №1258",
     "tikTvd": "2562000211386",
-    "tikName": "Орск, Советская"
+    "tikName": "Орск, Советская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1259,
     "uikTvd": "456403082442",
+    "uikName": "УИК №1259",
     "tikTvd": "2562000211386",
-    "tikName": "Орск, Советская"
+    "tikName": "Орск, Советская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1260,
     "uikTvd": "456403082443",
+    "uikName": "УИК №1260",
     "tikTvd": "2562000211386",
-    "tikName": "Орск, Советская"
+    "tikName": "Орск, Советская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1261,
     "uikTvd": "456403082444",
+    "uikName": "УИК №1261",
     "tikTvd": "2562000211386",
-    "tikName": "Орск, Советская"
+    "tikName": "Орск, Советская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1262,
     "uikTvd": "456403082445",
+    "uikName": "УИК №1262",
     "tikTvd": "2562000211386",
-    "tikName": "Орск, Советская"
+    "tikName": "Орск, Советская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1263,
     "uikTvd": "456403082446",
+    "uikName": "УИК №1263",
     "tikTvd": "2562000211386",
-    "tikName": "Орск, Советская"
+    "tikName": "Орск, Советская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1264,
     "uikTvd": "456403082447",
+    "uikName": "УИК №1264",
     "tikTvd": "2562000211386",
-    "tikName": "Орск, Советская"
+    "tikName": "Орск, Советская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1265,
     "uikTvd": "456403082448",
+    "uikName": "УИК №1265",
     "tikTvd": "2562000211386",
-    "tikName": "Орск, Советская"
+    "tikName": "Орск, Советская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1266,
     "uikTvd": "456403082449",
+    "uikName": "УИК №1266",
     "tikTvd": "2562000211386",
-    "tikName": "Орск, Советская"
+    "tikName": "Орск, Советская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1267,
     "uikTvd": "456403082450",
+    "uikName": "УИК №1267",
     "tikTvd": "2562000211386",
-    "tikName": "Орск, Советская"
+    "tikName": "Орск, Советская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1268,
     "uikTvd": "456403082451",
+    "uikName": "УИК №1268",
     "tikTvd": "2562000211386",
-    "tikName": "Орск, Советская"
+    "tikName": "Орск, Советская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1269,
     "uikTvd": "456403082452",
+    "uikName": "УИК №1269",
     "tikTvd": "2562000211386",
-    "tikName": "Орск, Советская"
+    "tikName": "Орск, Советская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1270,
     "uikTvd": "456403082453",
+    "uikName": "УИК №1270",
     "tikTvd": "2562000211386",
-    "tikName": "Орск, Советская"
+    "tikName": "Орск, Советская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1271,
     "uikTvd": "456403082454",
+    "uikName": "УИК №1271",
     "tikTvd": "2562000211386",
-    "tikName": "Орск, Советская"
+    "tikName": "Орск, Советская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1272,
     "uikTvd": "456403082455",
+    "uikName": "УИК №1272",
     "tikTvd": "2562000211386",
-    "tikName": "Орск, Советская"
+    "tikName": "Орск, Советская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1273,
     "uikTvd": "456403082456",
+    "uikName": "УИК №1273",
     "tikTvd": "2562000211386",
-    "tikName": "Орск, Советская"
+    "tikName": "Орск, Советская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1274,
     "uikTvd": "456403082457",
+    "uikName": "УИК №1274",
     "tikTvd": "2562000211386",
-    "tikName": "Орск, Советская"
+    "tikName": "Орск, Советская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1275,
     "uikTvd": "456403082458",
+    "uikName": "УИК №1275",
     "tikTvd": "2562000211386",
-    "tikName": "Орск, Советская"
+    "tikName": "Орск, Советская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1276,
     "uikTvd": "456403082459",
+    "uikName": "УИК №1276",
     "tikTvd": "2562000211386",
-    "tikName": "Орск, Советская"
+    "tikName": "Орск, Советская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1277,
     "uikTvd": "456403082460",
+    "uikName": "УИК №1277",
     "tikTvd": "2562000211386",
-    "tikName": "Орск, Советская"
+    "tikName": "Орск, Советская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1278,
     "uikTvd": "456403082461",
+    "uikName": "УИК №1278",
     "tikTvd": "2562000211386",
-    "tikName": "Орск, Советская"
+    "tikName": "Орск, Советская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1279,
     "uikTvd": "456403082462",
+    "uikName": "УИК №1279",
     "tikTvd": "2562000211386",
-    "tikName": "Орск, Советская"
+    "tikName": "Орск, Советская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1280,
     "uikTvd": "456403082463",
+    "uikName": "УИК №1280",
     "tikTvd": "2562000211386",
-    "tikName": "Орск, Советская"
+    "tikName": "Орск, Советская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1281,
     "uikTvd": "456403082464",
+    "uikName": "УИК №1281",
     "tikTvd": "2562000211386",
-    "tikName": "Орск, Советская"
+    "tikName": "Орск, Советская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1282,
     "uikTvd": "456403082465",
+    "uikName": "УИК №1282",
     "tikTvd": "2562000211386",
-    "tikName": "Орск, Советская"
+    "tikName": "Орск, Советская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1283,
     "uikTvd": "456403082466",
+    "uikName": "УИК №1283",
     "tikTvd": "2562000211386",
-    "tikName": "Орск, Советская"
+    "tikName": "Орск, Советская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1284,
     "uikTvd": "456403082467",
+    "uikName": "УИК №1284",
     "tikTvd": "2562000211386",
-    "tikName": "Орск, Советская"
+    "tikName": "Орск, Советская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1285,
     "uikTvd": "456403082468",
+    "uikName": "УИК №1285",
     "tikTvd": "2562000211386",
-    "tikName": "Орск, Советская"
+    "tikName": "Орск, Советская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1286,
     "uikTvd": "456403082469",
+    "uikName": "УИК №1286",
     "tikTvd": "2562000211386",
-    "tikName": "Орск, Советская"
+    "tikName": "Орск, Советская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1287,
     "uikTvd": "456403082470",
+    "uikName": "УИК №1287",
     "tikTvd": "2562000211386",
-    "tikName": "Орск, Советская"
+    "tikName": "Орск, Советская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1288,
     "uikTvd": "456403082471",
+    "uikName": "УИК №1288",
     "tikTvd": "2562000211386",
-    "tikName": "Орск, Советская"
+    "tikName": "Орск, Советская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1289,
     "uikTvd": "456403082472",
+    "uikName": "УИК №1289",
     "tikTvd": "2562000211386",
-    "tikName": "Орск, Советская"
+    "tikName": "Орск, Советская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1290,
     "uikTvd": "456403082473",
+    "uikName": "УИК №1290",
     "tikTvd": "2562000211386",
-    "tikName": "Орск, Советская"
+    "tikName": "Орск, Советская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1291,
     "uikTvd": "456403082474",
+    "uikName": "УИК №1291",
     "tikTvd": "2562000211386",
-    "tikName": "Орск, Советская"
+    "tikName": "Орск, Советская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1292,
     "uikTvd": "456403082475",
+    "uikName": "УИК №1292",
     "tikTvd": "2562000211386",
-    "tikName": "Орск, Советская"
+    "tikName": "Орск, Советская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1293,
     "uikTvd": "456403082476",
+    "uikName": "УИК №1293",
     "tikTvd": "2562000211386",
-    "tikName": "Орск, Советская"
+    "tikName": "Орск, Советская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1294,
     "uikTvd": "4564031101913",
+    "uikName": "УИК №1294",
     "tikTvd": "2562000211384",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1295,
     "uikTvd": "4564031101914",
+    "uikName": "УИК №1295",
     "tikTvd": "2562000211384",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1296,
     "uikTvd": "4564031101915",
+    "uikName": "УИК №1296",
     "tikTvd": "2562000211384",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1297,
     "uikTvd": "4564031101916",
+    "uikName": "УИК №1297",
     "tikTvd": "2562000211384",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1298,
     "uikTvd": "4564031101917",
+    "uikName": "УИК №1298",
     "tikTvd": "2562000211384",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1299,
     "uikTvd": "4564031101918",
+    "uikName": "УИК №1299",
     "tikTvd": "2562000211384",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1300,
     "uikTvd": "4564031101919",
+    "uikName": "УИК №1300",
     "tikTvd": "2562000211384",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1301,
     "uikTvd": "4564031101920",
+    "uikName": "УИК №1301",
     "tikTvd": "2562000211384",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1302,
     "uikTvd": "4564031101921",
+    "uikName": "УИК №1302",
     "tikTvd": "2562000211384",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1303,
     "uikTvd": "4564031101922",
+    "uikName": "УИК №1303",
     "tikTvd": "2562000211384",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1304,
     "uikTvd": "4564031101923",
+    "uikName": "УИК №1304",
     "tikTvd": "2562000211384",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1305,
     "uikTvd": "4564031101924",
+    "uikName": "УИК №1305",
     "tikTvd": "2562000211384",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1306,
     "uikTvd": "4564031101925",
+    "uikName": "УИК №1306",
     "tikTvd": "2562000211384",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1307,
     "uikTvd": "4564031101926",
+    "uikName": "УИК №1307",
     "tikTvd": "2562000211384",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1308,
     "uikTvd": "4564031101927",
+    "uikName": "УИК №1308",
     "tikTvd": "2562000211384",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1309,
     "uikTvd": "4564031101928",
+    "uikName": "УИК №1309",
     "tikTvd": "2562000211384",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1310,
     "uikTvd": "4564031101929",
+    "uikName": "УИК №1310",
     "tikTvd": "2562000211384",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1311,
     "uikTvd": "4564031101930",
+    "uikName": "УИК №1311",
     "tikTvd": "2562000211384",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1312,
     "uikTvd": "4564031101931",
+    "uikName": "УИК №1312",
     "tikTvd": "2562000211384",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1313,
     "uikTvd": "4564031101932",
+    "uikName": "УИК №1313",
     "tikTvd": "2562000211384",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1314,
     "uikTvd": "4564031101933",
+    "uikName": "УИК №1314",
     "tikTvd": "2562000211384",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1315,
     "uikTvd": "4564031101934",
+    "uikName": "УИК №1315",
     "tikTvd": "2562000211384",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1316,
     "uikTvd": "4564031101935",
+    "uikName": "УИК №1316",
     "tikTvd": "2562000211384",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1317,
     "uikTvd": "4564031101936",
+    "uikName": "УИК №1317",
     "tikTvd": "2562000211384",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1318,
     "uikTvd": "4564031101937",
+    "uikName": "УИК №1318",
     "tikTvd": "2562000211384",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1319,
     "uikTvd": "4564031101938",
+    "uikName": "УИК №1319",
     "tikTvd": "2562000211384",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1320,
     "uikTvd": "4564031101939",
+    "uikName": "УИК №1320",
     "tikTvd": "2562000211384",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1321,
     "uikTvd": "4564031101940",
+    "uikName": "УИК №1321",
     "tikTvd": "2562000211384",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1322,
     "uikTvd": "4564031101941",
+    "uikName": "УИК №1322",
     "tikTvd": "2562000211384",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1323,
     "uikTvd": "4564031101942",
+    "uikName": "УИК №1323",
     "tikTvd": "2562000211384",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1324,
     "uikTvd": "4564031101943",
+    "uikName": "УИК №1324",
     "tikTvd": "2562000211384",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1325,
     "uikTvd": "4564031101944",
+    "uikName": "УИК №1325",
     "tikTvd": "2562000211384",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1326,
     "uikTvd": "4564031101945",
+    "uikName": "УИК №1326",
     "tikTvd": "2562000211384",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1327,
     "uikTvd": "4564031101946",
+    "uikName": "УИК №1327",
     "tikTvd": "2562000211384",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1328,
     "uikTvd": "4564031101947",
+    "uikName": "УИК №1328",
     "tikTvd": "2562000211384",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1329,
     "uikTvd": "4564031101948",
+    "uikName": "УИК №1329",
     "tikTvd": "2562000211384",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1330,
     "uikTvd": "4564031101949",
+    "uikName": "УИК №1330",
     "tikTvd": "2562000211384",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1331,
     "uikTvd": "4564031101950",
+    "uikName": "УИК №1331",
     "tikTvd": "2562000211384",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1332,
     "uikTvd": "4564031101951",
+    "uikName": "УИК №1332",
     "tikTvd": "2562000211384",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1333,
     "uikTvd": "4564031101952",
+    "uikName": "УИК №1333",
     "tikTvd": "2562000211384",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1334,
     "uikTvd": "4564031101953",
+    "uikName": "УИК №1334",
     "tikTvd": "2562000211384",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1335,
     "uikTvd": "4564031101954",
+    "uikName": "УИК №1335",
     "tikTvd": "2562000211384",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1336,
     "uikTvd": "4564031101955",
+    "uikName": "УИК №1336",
     "tikTvd": "2562000211384",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1337,
     "uikTvd": "4564031101956",
+    "uikName": "УИК №1337",
     "tikTvd": "2562000211384",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1338,
     "uikTvd": "4564031101957",
+    "uikName": "УИК №1338",
     "tikTvd": "2562000211384",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1339,
     "uikTvd": "4564027123106",
+    "uikName": "УИК №1339",
     "tikTvd": "2562000211387",
-    "tikName": "Оренбургская"
+    "tikName": "Оренбургская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1340,
     "uikTvd": "4564032113505",
+    "uikName": "УИК №1340",
     "tikTvd": "2562000211385",
-    "tikName": "Переволоцкая"
+    "tikName": "Переволоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1341,
     "uikTvd": "4564032113506",
+    "uikName": "УИК №1341",
     "tikTvd": "2562000211385",
-    "tikName": "Переволоцкая"
+    "tikName": "Переволоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1342,
     "uikTvd": "4564032113507",
+    "uikName": "УИК №1342",
     "tikTvd": "2562000211385",
-    "tikName": "Переволоцкая"
+    "tikName": "Переволоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1343,
     "uikTvd": "4564032113508",
+    "uikName": "УИК №1343",
     "tikTvd": "2562000211385",
-    "tikName": "Переволоцкая"
+    "tikName": "Переволоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1344,
     "uikTvd": "4564032113509",
+    "uikName": "УИК №1344",
     "tikTvd": "2562000211385",
-    "tikName": "Переволоцкая"
+    "tikName": "Переволоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1345,
     "uikTvd": "4564032113510",
+    "uikName": "УИК №1345",
     "tikTvd": "2562000211385",
-    "tikName": "Переволоцкая"
+    "tikName": "Переволоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1346,
     "uikTvd": "4564032113511",
+    "uikName": "УИК №1346",
     "tikTvd": "2562000211385",
-    "tikName": "Переволоцкая"
+    "tikName": "Переволоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1347,
     "uikTvd": "4564032113512",
+    "uikName": "УИК №1347",
     "tikTvd": "2562000211385",
-    "tikName": "Переволоцкая"
+    "tikName": "Переволоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1348,
     "uikTvd": "4564032113513",
+    "uikName": "УИК №1348",
     "tikTvd": "2562000211385",
-    "tikName": "Переволоцкая"
+    "tikName": "Переволоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1349,
     "uikTvd": "4564032113514",
+    "uikName": "УИК №1349",
     "tikTvd": "2562000211385",
-    "tikName": "Переволоцкая"
+    "tikName": "Переволоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1350,
     "uikTvd": "4564032113515",
+    "uikName": "УИК №1350",
     "tikTvd": "2562000211385",
-    "tikName": "Переволоцкая"
+    "tikName": "Переволоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1351,
     "uikTvd": "4564032113516",
+    "uikName": "УИК №1351",
     "tikTvd": "2562000211385",
-    "tikName": "Переволоцкая"
+    "tikName": "Переволоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1352,
     "uikTvd": "4564032113517",
+    "uikName": "УИК №1352",
     "tikTvd": "2562000211385",
-    "tikName": "Переволоцкая"
+    "tikName": "Переволоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1353,
     "uikTvd": "4564032113518",
+    "uikName": "УИК №1353",
     "tikTvd": "2562000211385",
-    "tikName": "Переволоцкая"
+    "tikName": "Переволоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1354,
     "uikTvd": "4564032113519",
+    "uikName": "УИК №1354",
     "tikTvd": "2562000211385",
-    "tikName": "Переволоцкая"
+    "tikName": "Переволоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1355,
     "uikTvd": "4564032113520",
+    "uikName": "УИК №1355",
     "tikTvd": "2562000211385",
-    "tikName": "Переволоцкая"
+    "tikName": "Переволоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1356,
     "uikTvd": "4564032113521",
+    "uikName": "УИК №1356",
     "tikTvd": "2562000211385",
-    "tikName": "Переволоцкая"
+    "tikName": "Переволоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1357,
     "uikTvd": "4564032113522",
+    "uikName": "УИК №1357",
     "tikTvd": "2562000211385",
-    "tikName": "Переволоцкая"
+    "tikName": "Переволоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1358,
     "uikTvd": "4564032113523",
+    "uikName": "УИК №1358",
     "tikTvd": "2562000211385",
-    "tikName": "Переволоцкая"
+    "tikName": "Переволоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1359,
     "uikTvd": "4564032113524",
+    "uikName": "УИК №1359",
     "tikTvd": "2562000211385",
-    "tikName": "Переволоцкая"
+    "tikName": "Переволоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1360,
     "uikTvd": "4564032113525",
+    "uikName": "УИК №1360",
     "tikTvd": "2562000211385",
-    "tikName": "Переволоцкая"
+    "tikName": "Переволоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1361,
     "uikTvd": "4564032113526",
+    "uikName": "УИК №1361",
     "tikTvd": "2562000211385",
-    "tikName": "Переволоцкая"
+    "tikName": "Переволоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1362,
     "uikTvd": "4564032113527",
+    "uikName": "УИК №1362",
     "tikTvd": "2562000211385",
-    "tikName": "Переволоцкая"
+    "tikName": "Переволоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1363,
     "uikTvd": "4564032113528",
+    "uikName": "УИК №1363",
     "tikTvd": "2562000211385",
-    "tikName": "Переволоцкая"
+    "tikName": "Переволоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1364,
     "uikTvd": "4564032113529",
+    "uikName": "УИК №1364",
     "tikTvd": "2562000211385",
-    "tikName": "Переволоцкая"
+    "tikName": "Переволоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1365,
     "uikTvd": "4564032113530",
+    "uikName": "УИК №1365",
     "tikTvd": "2562000211385",
-    "tikName": "Переволоцкая"
+    "tikName": "Переволоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1366,
     "uikTvd": "4564032113531",
+    "uikName": "УИК №1366",
     "tikTvd": "2562000211385",
-    "tikName": "Переволоцкая"
+    "tikName": "Переволоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1367,
     "uikTvd": "4564032113532",
+    "uikName": "УИК №1367",
     "tikTvd": "2562000211385",
-    "tikName": "Переволоцкая"
+    "tikName": "Переволоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1368,
     "uikTvd": "4564032113533",
+    "uikName": "УИК №1368",
     "tikTvd": "2562000211385",
-    "tikName": "Переволоцкая"
+    "tikName": "Переволоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1369,
     "uikTvd": "4564032113534",
+    "uikName": "УИК №1369",
     "tikTvd": "2562000211385",
-    "tikName": "Переволоцкая"
+    "tikName": "Переволоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1370,
     "uikTvd": "4564032113535",
+    "uikName": "УИК №1370",
     "tikTvd": "2562000211385",
-    "tikName": "Переволоцкая"
+    "tikName": "Переволоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1371,
     "uikTvd": "4564032113536",
+    "uikName": "УИК №1371",
     "tikTvd": "2562000211385",
-    "tikName": "Переволоцкая"
+    "tikName": "Переволоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1372,
     "uikTvd": "4564032113537",
+    "uikName": "УИК №1372",
     "tikTvd": "2562000211385",
-    "tikName": "Переволоцкая"
+    "tikName": "Переволоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1373,
     "uikTvd": "4564032113538",
+    "uikName": "УИК №1373",
     "tikTvd": "2562000211385",
-    "tikName": "Переволоцкая"
+    "tikName": "Переволоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1374,
     "uikTvd": "4564032113539",
+    "uikName": "УИК №1374",
     "tikTvd": "2562000211385",
-    "tikName": "Переволоцкая"
+    "tikName": "Переволоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1375,
     "uikTvd": "4564032113540",
+    "uikName": "УИК №1375",
     "tikTvd": "2562000211385",
-    "tikName": "Переволоцкая"
+    "tikName": "Переволоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1376,
     "uikTvd": "4564032113541",
+    "uikName": "УИК №1376",
     "tikTvd": "2562000211385",
-    "tikName": "Переволоцкая"
+    "tikName": "Переволоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1377,
     "uikTvd": "4564032113542",
+    "uikName": "УИК №1377",
     "tikTvd": "2562000211385",
-    "tikName": "Переволоцкая"
+    "tikName": "Переволоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1378,
     "uikTvd": "4564032113543",
+    "uikName": "УИК №1378",
     "tikTvd": "2562000211385",
-    "tikName": "Переволоцкая"
+    "tikName": "Переволоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1379,
     "uikTvd": "4564032113544",
+    "uikName": "УИК №1379",
     "tikTvd": "2562000211385",
-    "tikName": "Переволоцкая"
+    "tikName": "Переволоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1380,
     "uikTvd": "4564032113545",
+    "uikName": "УИК №1380",
     "tikTvd": "2562000211385",
-    "tikName": "Переволоцкая"
+    "tikName": "Переволоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1381,
     "uikTvd": "4564032113546",
+    "uikName": "УИК №1381",
     "tikTvd": "2562000211385",
-    "tikName": "Переволоцкая"
+    "tikName": "Переволоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1382,
     "uikTvd": "4564032113547",
+    "uikName": "УИК №1382",
     "tikTvd": "2562000211385",
-    "tikName": "Переволоцкая"
+    "tikName": "Переволоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1383,
     "uikTvd": "4564032113548",
+    "uikName": "УИК №1383",
     "tikTvd": "2562000211385",
-    "tikName": "Переволоцкая"
+    "tikName": "Переволоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1384,
     "uikTvd": "4564032113549",
+    "uikName": "УИК №1384",
     "tikTvd": "2562000211385",
-    "tikName": "Переволоцкая"
+    "tikName": "Переволоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1385,
     "uikTvd": "4564032113550",
+    "uikName": "УИК №1385",
     "tikTvd": "2562000211385",
-    "tikName": "Переволоцкая"
+    "tikName": "Переволоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1386,
     "uikTvd": "456403393737",
+    "uikName": "УИК №1386",
     "tikTvd": "2562000211400",
-    "tikName": "Пономаревская"
+    "tikName": "Пономаревская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1387,
     "uikTvd": "456403393738",
+    "uikName": "УИК №1387",
     "tikTvd": "2562000211400",
-    "tikName": "Пономаревская"
+    "tikName": "Пономаревская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1388,
     "uikTvd": "456403393739",
+    "uikName": "УИК №1388",
     "tikTvd": "2562000211400",
-    "tikName": "Пономаревская"
+    "tikName": "Пономаревская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1389,
     "uikTvd": "456403393740",
+    "uikName": "УИК №1389",
     "tikTvd": "2562000211400",
-    "tikName": "Пономаревская"
+    "tikName": "Пономаревская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1390,
     "uikTvd": "456403393741",
+    "uikName": "УИК №1390",
     "tikTvd": "2562000211400",
-    "tikName": "Пономаревская"
+    "tikName": "Пономаревская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1391,
     "uikTvd": "456403393742",
+    "uikName": "УИК №1391",
     "tikTvd": "2562000211400",
-    "tikName": "Пономаревская"
+    "tikName": "Пономаревская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1392,
     "uikTvd": "456403393743",
+    "uikName": "УИК №1392",
     "tikTvd": "2562000211400",
-    "tikName": "Пономаревская"
+    "tikName": "Пономаревская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1393,
     "uikTvd": "456403393744",
+    "uikName": "УИК №1393",
     "tikTvd": "2562000211400",
-    "tikName": "Пономаревская"
+    "tikName": "Пономаревская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1394,
     "uikTvd": "456403393745",
+    "uikName": "УИК №1394",
     "tikTvd": "2562000211400",
-    "tikName": "Пономаревская"
+    "tikName": "Пономаревская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1395,
     "uikTvd": "456403393746",
+    "uikName": "УИК №1395",
     "tikTvd": "2562000211400",
-    "tikName": "Пономаревская"
+    "tikName": "Пономаревская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1396,
     "uikTvd": "456403393747",
+    "uikName": "УИК №1396",
     "tikTvd": "2562000211400",
-    "tikName": "Пономаревская"
+    "tikName": "Пономаревская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1397,
     "uikTvd": "456403393748",
+    "uikName": "УИК №1397",
     "tikTvd": "2562000211400",
-    "tikName": "Пономаревская"
+    "tikName": "Пономаревская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1398,
     "uikTvd": "456403393749",
+    "uikName": "УИК №1398",
     "tikTvd": "2562000211400",
-    "tikName": "Пономаревская"
+    "tikName": "Пономаревская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1399,
     "uikTvd": "456403393750",
+    "uikName": "УИК №1399",
     "tikTvd": "2562000211400",
-    "tikName": "Пономаревская"
+    "tikName": "Пономаревская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1400,
     "uikTvd": "456403393751",
+    "uikName": "УИК №1400",
     "tikTvd": "2562000211400",
-    "tikName": "Пономаревская"
+    "tikName": "Пономаревская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1401,
     "uikTvd": "456403393752",
+    "uikName": "УИК №1401",
     "tikTvd": "2562000211400",
-    "tikName": "Пономаревская"
+    "tikName": "Пономаревская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1402,
     "uikTvd": "456403393753",
+    "uikName": "УИК №1402",
     "tikTvd": "2562000211400",
-    "tikName": "Пономаревская"
+    "tikName": "Пономаревская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1403,
     "uikTvd": "456403393754",
+    "uikName": "УИК №1403",
     "tikTvd": "2562000211400",
-    "tikName": "Пономаревская"
+    "tikName": "Пономаревская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1404,
     "uikTvd": "456403393755",
+    "uikName": "УИК №1404",
     "tikTvd": "2562000211400",
-    "tikName": "Пономаревская"
+    "tikName": "Пономаревская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1405,
     "uikTvd": "456403393756",
+    "uikName": "УИК №1405",
     "tikTvd": "2562000211400",
-    "tikName": "Пономаревская"
+    "tikName": "Пономаревская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1406,
     "uikTvd": "456403393757",
+    "uikName": "УИК №1406",
     "tikTvd": "2562000211400",
-    "tikName": "Пономаревская"
+    "tikName": "Пономаревская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1407,
     "uikTvd": "456403393758",
+    "uikName": "УИК №1407",
     "tikTvd": "2562000211400",
-    "tikName": "Пономаревская"
+    "tikName": "Пономаревская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1408,
     "uikTvd": "456403393759",
+    "uikName": "УИК №1408",
     "tikTvd": "2562000211400",
-    "tikName": "Пономаревская"
+    "tikName": "Пономаревская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1409,
     "uikTvd": "456403393760",
+    "uikName": "УИК №1409",
     "tikTvd": "2562000211400",
-    "tikName": "Пономаревская"
+    "tikName": "Пономаревская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1410,
     "uikTvd": "456403393761",
+    "uikName": "УИК №1410",
     "tikTvd": "2562000211400",
-    "tikName": "Пономаревская"
+    "tikName": "Пономаревская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1411,
     "uikTvd": "456403393762",
+    "uikName": "УИК №1411",
     "tikTvd": "2562000211400",
-    "tikName": "Пономаревская"
+    "tikName": "Пономаревская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1412,
     "uikTvd": "456403393763",
+    "uikName": "УИК №1412",
     "tikTvd": "2562000211400",
-    "tikName": "Пономаревская"
+    "tikName": "Пономаревская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1413,
     "uikTvd": "456403393764",
+    "uikName": "УИК №1413",
     "tikTvd": "2562000211400",
-    "tikName": "Пономаревская"
+    "tikName": "Пономаревская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1414,
     "uikTvd": "456403393765",
+    "uikName": "УИК №1414",
     "tikTvd": "2562000211400",
-    "tikName": "Пономаревская"
+    "tikName": "Пономаревская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1415,
     "uikTvd": "456403489758",
+    "uikName": "УИК №1415",
     "tikTvd": "2562000211401",
-    "tikName": "Сакмарская"
+    "tikName": "Сакмарская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1416,
     "uikTvd": "456403489759",
+    "uikName": "УИК №1416",
     "tikTvd": "2562000211401",
-    "tikName": "Сакмарская"
+    "tikName": "Сакмарская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1417,
     "uikTvd": "456403489760",
+    "uikName": "УИК №1417",
     "tikTvd": "2562000211401",
-    "tikName": "Сакмарская"
+    "tikName": "Сакмарская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1418,
     "uikTvd": "456403489761",
+    "uikName": "УИК №1418",
     "tikTvd": "2562000211401",
-    "tikName": "Сакмарская"
+    "tikName": "Сакмарская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1419,
     "uikTvd": "456403489762",
+    "uikName": "УИК №1419",
     "tikTvd": "2562000211401",
-    "tikName": "Сакмарская"
+    "tikName": "Сакмарская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1420,
     "uikTvd": "456403489763",
+    "uikName": "УИК №1420",
     "tikTvd": "2562000211401",
-    "tikName": "Сакмарская"
+    "tikName": "Сакмарская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1421,
     "uikTvd": "456403489764",
+    "uikName": "УИК №1421",
     "tikTvd": "2562000211401",
-    "tikName": "Сакмарская"
+    "tikName": "Сакмарская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1422,
     "uikTvd": "456403489765",
+    "uikName": "УИК №1422",
     "tikTvd": "2562000211401",
-    "tikName": "Сакмарская"
+    "tikName": "Сакмарская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1423,
     "uikTvd": "456403489766",
+    "uikName": "УИК №1423",
     "tikTvd": "2562000211401",
-    "tikName": "Сакмарская"
+    "tikName": "Сакмарская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1424,
     "uikTvd": "456403489767",
+    "uikName": "УИК №1424",
     "tikTvd": "2562000211401",
-    "tikName": "Сакмарская"
+    "tikName": "Сакмарская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1425,
     "uikTvd": "456403489768",
+    "uikName": "УИК №1425",
     "tikTvd": "2562000211401",
-    "tikName": "Сакмарская"
+    "tikName": "Сакмарская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1426,
     "uikTvd": "456403489769",
+    "uikName": "УИК №1426",
     "tikTvd": "2562000211401",
-    "tikName": "Сакмарская"
+    "tikName": "Сакмарская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1427,
     "uikTvd": "456403489770",
+    "uikName": "УИК №1427",
     "tikTvd": "2562000211401",
-    "tikName": "Сакмарская"
+    "tikName": "Сакмарская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1428,
     "uikTvd": "456403489771",
+    "uikName": "УИК №1428",
     "tikTvd": "2562000211401",
-    "tikName": "Сакмарская"
+    "tikName": "Сакмарская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1429,
     "uikTvd": "456403489772",
+    "uikName": "УИК №1429",
     "tikTvd": "2562000211401",
-    "tikName": "Сакмарская"
+    "tikName": "Сакмарская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1430,
     "uikTvd": "456403489773",
+    "uikName": "УИК №1430",
     "tikTvd": "2562000211401",
-    "tikName": "Сакмарская"
+    "tikName": "Сакмарская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1431,
     "uikTvd": "456403489774",
+    "uikName": "УИК №1431",
     "tikTvd": "2562000211401",
-    "tikName": "Сакмарская"
+    "tikName": "Сакмарская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1432,
     "uikTvd": "456403489775",
+    "uikName": "УИК №1432",
     "tikTvd": "2562000211401",
-    "tikName": "Сакмарская"
+    "tikName": "Сакмарская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1433,
     "uikTvd": "456403489776",
+    "uikName": "УИК №1433",
     "tikTvd": "2562000211401",
-    "tikName": "Сакмарская"
+    "tikName": "Сакмарская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1434,
     "uikTvd": "456403489777",
+    "uikName": "УИК №1434",
     "tikTvd": "2562000211401",
-    "tikName": "Сакмарская"
+    "tikName": "Сакмарская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1435,
     "uikTvd": "456403489778",
+    "uikName": "УИК №1435",
     "tikTvd": "2562000211401",
-    "tikName": "Сакмарская"
+    "tikName": "Сакмарская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1436,
     "uikTvd": "456403489779",
+    "uikName": "УИК №1436",
     "tikTvd": "2562000211401",
-    "tikName": "Сакмарская"
+    "tikName": "Сакмарская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1437,
     "uikTvd": "456403489780",
+    "uikName": "УИК №1437",
     "tikTvd": "2562000211401",
-    "tikName": "Сакмарская"
+    "tikName": "Сакмарская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1438,
     "uikTvd": "456403489781",
+    "uikName": "УИК №1438",
     "tikTvd": "2562000211401",
-    "tikName": "Сакмарская"
+    "tikName": "Сакмарская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1439,
     "uikTvd": "456403597219",
+    "uikName": "УИК №1439",
     "tikTvd": "2562000211397",
-    "tikName": "Саракташская"
+    "tikName": "Саракташская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1440,
     "uikTvd": "456403597220",
+    "uikName": "УИК №1440",
     "tikTvd": "2562000211397",
-    "tikName": "Саракташская"
+    "tikName": "Саракташская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1441,
     "uikTvd": "456403597221",
+    "uikName": "УИК №1441",
     "tikTvd": "2562000211397",
-    "tikName": "Саракташская"
+    "tikName": "Саракташская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1442,
     "uikTvd": "456403597222",
+    "uikName": "УИК №1442",
     "tikTvd": "2562000211397",
-    "tikName": "Саракташская"
+    "tikName": "Саракташская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1443,
     "uikTvd": "456403597223",
+    "uikName": "УИК №1443",
     "tikTvd": "2562000211397",
-    "tikName": "Саракташская"
+    "tikName": "Саракташская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1444,
     "uikTvd": "456403597224",
+    "uikName": "УИК №1444",
     "tikTvd": "2562000211397",
-    "tikName": "Саракташская"
+    "tikName": "Саракташская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1445,
     "uikTvd": "456403597225",
+    "uikName": "УИК №1445",
     "tikTvd": "2562000211397",
-    "tikName": "Саракташская"
+    "tikName": "Саракташская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1446,
     "uikTvd": "456403597226",
+    "uikName": "УИК №1446",
     "tikTvd": "2562000211397",
-    "tikName": "Саракташская"
+    "tikName": "Саракташская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1447,
     "uikTvd": "456403597227",
+    "uikName": "УИК №1447",
     "tikTvd": "2562000211397",
-    "tikName": "Саракташская"
+    "tikName": "Саракташская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1448,
     "uikTvd": "456403597228",
+    "uikName": "УИК №1448",
     "tikTvd": "2562000211397",
-    "tikName": "Саракташская"
+    "tikName": "Саракташская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1449,
     "uikTvd": "456403597229",
+    "uikName": "УИК №1449",
     "tikTvd": "2562000211397",
-    "tikName": "Саракташская"
+    "tikName": "Саракташская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1450,
     "uikTvd": "456403597230",
+    "uikName": "УИК №1450",
     "tikTvd": "2562000211397",
-    "tikName": "Саракташская"
+    "tikName": "Саракташская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1451,
     "uikTvd": "456403597231",
+    "uikName": "УИК №1451",
     "tikTvd": "2562000211397",
-    "tikName": "Саракташская"
+    "tikName": "Саракташская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1452,
     "uikTvd": "456403597232",
+    "uikName": "УИК №1452",
     "tikTvd": "2562000211397",
-    "tikName": "Саракташская"
+    "tikName": "Саракташская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1453,
     "uikTvd": "456403597233",
+    "uikName": "УИК №1453",
     "tikTvd": "2562000211397",
-    "tikName": "Саракташская"
+    "tikName": "Саракташская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1454,
     "uikTvd": "456403597234",
+    "uikName": "УИК №1454",
     "tikTvd": "2562000211397",
-    "tikName": "Саракташская"
+    "tikName": "Саракташская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1455,
     "uikTvd": "456403597235",
+    "uikName": "УИК №1455",
     "tikTvd": "2562000211397",
-    "tikName": "Саракташская"
+    "tikName": "Саракташская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1456,
     "uikTvd": "456403597236",
+    "uikName": "УИК №1456",
     "tikTvd": "2562000211397",
-    "tikName": "Саракташская"
+    "tikName": "Саракташская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1457,
     "uikTvd": "456403597237",
+    "uikName": "УИК №1457",
     "tikTvd": "2562000211397",
-    "tikName": "Саракташская"
+    "tikName": "Саракташская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1458,
     "uikTvd": "456403597238",
+    "uikName": "УИК №1458",
     "tikTvd": "2562000211397",
-    "tikName": "Саракташская"
+    "tikName": "Саракташская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1459,
     "uikTvd": "456403597239",
+    "uikName": "УИК №1459",
     "tikTvd": "2562000211397",
-    "tikName": "Саракташская"
+    "tikName": "Саракташская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1460,
     "uikTvd": "456403597240",
+    "uikName": "УИК №1460",
     "tikTvd": "2562000211397",
-    "tikName": "Саракташская"
+    "tikName": "Саракташская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1461,
     "uikTvd": "456403597241",
+    "uikName": "УИК №1461",
     "tikTvd": "2562000211397",
-    "tikName": "Саракташская"
+    "tikName": "Саракташская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1462,
     "uikTvd": "456403597242",
+    "uikName": "УИК №1462",
     "tikTvd": "2562000211397",
-    "tikName": "Саракташская"
+    "tikName": "Саракташская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1463,
     "uikTvd": "456403597243",
+    "uikName": "УИК №1463",
     "tikTvd": "2562000211397",
-    "tikName": "Саракташская"
+    "tikName": "Саракташская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1464,
     "uikTvd": "456403597244",
+    "uikName": "УИК №1464",
     "tikTvd": "2562000211397",
-    "tikName": "Саракташская"
+    "tikName": "Саракташская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1465,
     "uikTvd": "456403597245",
+    "uikName": "УИК №1465",
     "tikTvd": "2562000211397",
-    "tikName": "Саракташская"
+    "tikName": "Саракташская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1466,
     "uikTvd": "456403597246",
+    "uikName": "УИК №1466",
     "tikTvd": "2562000211397",
-    "tikName": "Саракташская"
+    "tikName": "Саракташская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1467,
     "uikTvd": "456403597247",
+    "uikName": "УИК №1467",
     "tikTvd": "2562000211397",
-    "tikName": "Саракташская"
+    "tikName": "Саракташская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1468,
     "uikTvd": "456403597248",
+    "uikName": "УИК №1468",
     "tikTvd": "2562000211397",
-    "tikName": "Саракташская"
+    "tikName": "Саракташская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1469,
     "uikTvd": "456403597249",
+    "uikName": "УИК №1469",
     "tikTvd": "2562000211397",
-    "tikName": "Саракташская"
+    "tikName": "Саракташская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1470,
     "uikTvd": "456403597250",
+    "uikName": "УИК №1470",
     "tikTvd": "2562000211397",
-    "tikName": "Саракташская"
+    "tikName": "Саракташская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1471,
     "uikTvd": "456403597251",
+    "uikName": "УИК №1471",
     "tikTvd": "2562000211397",
-    "tikName": "Саракташская"
+    "tikName": "Саракташская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1472,
     "uikTvd": "456403597252",
+    "uikName": "УИК №1472",
     "tikTvd": "2562000211397",
-    "tikName": "Саракташская"
+    "tikName": "Саракташская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1473,
     "uikTvd": "456403597253",
+    "uikName": "УИК №1473",
     "tikTvd": "2562000211397",
-    "tikName": "Саракташская"
+    "tikName": "Саракташская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1474,
     "uikTvd": "456403597254",
+    "uikName": "УИК №1474",
     "tikTvd": "2562000211397",
-    "tikName": "Саракташская"
+    "tikName": "Саракташская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1475,
     "uikTvd": "456403597255",
+    "uikName": "УИК №1475",
     "tikTvd": "2562000211397",
-    "tikName": "Саракташская"
+    "tikName": "Саракташская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1476,
     "uikTvd": "456403597256",
+    "uikName": "УИК №1476",
     "tikTvd": "2562000211397",
-    "tikName": "Саракташская"
+    "tikName": "Саракташская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1477,
     "uikTvd": "456403597257",
+    "uikName": "УИК №1477",
     "tikTvd": "2562000211397",
-    "tikName": "Саракташская"
+    "tikName": "Саракташская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1478,
     "uikTvd": "456403597258",
+    "uikName": "УИК №1478",
     "tikTvd": "2562000211397",
-    "tikName": "Саракташская"
+    "tikName": "Саракташская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1479,
     "uikTvd": "456403597259",
+    "uikName": "УИК №1479",
     "tikTvd": "2562000211397",
-    "tikName": "Саракташская"
+    "tikName": "Саракташская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1480,
     "uikTvd": "456403597260",
+    "uikName": "УИК №1480",
     "tikTvd": "2562000211397",
-    "tikName": "Саракташская"
+    "tikName": "Саракташская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1481,
     "uikTvd": "456403597261",
+    "uikName": "УИК №1481",
     "tikTvd": "2562000211397",
-    "tikName": "Саракташская"
+    "tikName": "Саракташская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1482,
     "uikTvd": "456403597262",
+    "uikName": "УИК №1482",
     "tikTvd": "2562000211397",
-    "tikName": "Саракташская"
+    "tikName": "Саракташская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1483,
     "uikTvd": "456403597263",
+    "uikName": "УИК №1483",
     "tikTvd": "2562000211397",
-    "tikName": "Саракташская"
+    "tikName": "Саракташская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1484,
     "uikTvd": "456403597264",
+    "uikName": "УИК №1484",
     "tikTvd": "2562000211397",
-    "tikName": "Саракташская"
+    "tikName": "Саракташская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1485,
     "uikTvd": "456403692014",
+    "uikName": "УИК №1485",
     "tikTvd": "2562000211396",
-    "tikName": "Светлинская"
+    "tikName": "Светлинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1486,
     "uikTvd": "456403692016",
+    "uikName": "УИК №1486",
     "tikTvd": "2562000211396",
-    "tikName": "Светлинская"
+    "tikName": "Светлинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1487,
     "uikTvd": "456403692017",
+    "uikName": "УИК №1487",
     "tikTvd": "2562000211396",
-    "tikName": "Светлинская"
+    "tikName": "Светлинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1488,
     "uikTvd": "456403692018",
+    "uikName": "УИК №1488",
     "tikTvd": "2562000211396",
-    "tikName": "Светлинская"
+    "tikName": "Светлинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1489,
     "uikTvd": "456403692019",
+    "uikName": "УИК №1489",
     "tikTvd": "2562000211396",
-    "tikName": "Светлинская"
+    "tikName": "Светлинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1490,
     "uikTvd": "456403692020",
+    "uikName": "УИК №1490",
     "tikTvd": "2562000211396",
-    "tikName": "Светлинская"
+    "tikName": "Светлинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1491,
     "uikTvd": "456403692021",
+    "uikName": "УИК №1491",
     "tikTvd": "2562000211396",
-    "tikName": "Светлинская"
+    "tikName": "Светлинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1492,
     "uikTvd": "456403692022",
+    "uikName": "УИК №1492",
     "tikTvd": "2562000211396",
-    "tikName": "Светлинская"
+    "tikName": "Светлинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1493,
     "uikTvd": "456403692023",
+    "uikName": "УИК №1493",
     "tikTvd": "2562000211396",
-    "tikName": "Светлинская"
+    "tikName": "Светлинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1494,
     "uikTvd": "456403692024",
+    "uikName": "УИК №1494",
     "tikTvd": "2562000211396",
-    "tikName": "Светлинская"
+    "tikName": "Светлинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1495,
     "uikTvd": "456403692025",
+    "uikName": "УИК №1495",
     "tikTvd": "2562000211396",
-    "tikName": "Светлинская"
+    "tikName": "Светлинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1496,
     "uikTvd": "456403692026",
+    "uikName": "УИК №1496",
     "tikTvd": "2562000211396",
-    "tikName": "Светлинская"
+    "tikName": "Светлинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1497,
     "uikTvd": "456403692027",
+    "uikName": "УИК №1497",
     "tikTvd": "2562000211396",
-    "tikName": "Светлинская"
+    "tikName": "Светлинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1498,
     "uikTvd": "456403792777",
+    "uikName": "УИК №1498",
     "tikTvd": "2562000211398",
-    "tikName": "Северная"
+    "tikName": "Северная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1499,
     "uikTvd": "456403792778",
+    "uikName": "УИК №1499",
     "tikTvd": "2562000211398",
-    "tikName": "Северная"
+    "tikName": "Северная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1500,
     "uikTvd": "456403792779",
+    "uikName": "УИК №1500",
     "tikTvd": "2562000211398",
-    "tikName": "Северная"
+    "tikName": "Северная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1501,
     "uikTvd": "456403792780",
+    "uikName": "УИК №1501",
     "tikTvd": "2562000211398",
-    "tikName": "Северная"
+    "tikName": "Северная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1502,
     "uikTvd": "456403792781",
+    "uikName": "УИК №1502",
     "tikTvd": "2562000211398",
-    "tikName": "Северная"
+    "tikName": "Северная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1503,
     "uikTvd": "456403792782",
+    "uikName": "УИК №1503",
     "tikTvd": "2562000211398",
-    "tikName": "Северная"
+    "tikName": "Северная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1504,
     "uikTvd": "456403792783",
+    "uikName": "УИК №1504",
     "tikTvd": "2562000211398",
-    "tikName": "Северная"
+    "tikName": "Северная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1505,
     "uikTvd": "456403792784",
+    "uikName": "УИК №1505",
     "tikTvd": "2562000211398",
-    "tikName": "Северная"
+    "tikName": "Северная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1506,
     "uikTvd": "456403792785",
+    "uikName": "УИК №1506",
     "tikTvd": "2562000211398",
-    "tikName": "Северная"
+    "tikName": "Северная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1507,
     "uikTvd": "456403792786",
+    "uikName": "УИК №1507",
     "tikTvd": "2562000211398",
-    "tikName": "Северная"
+    "tikName": "Северная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1508,
     "uikTvd": "456403792787",
+    "uikName": "УИК №1508",
     "tikTvd": "2562000211398",
-    "tikName": "Северная"
+    "tikName": "Северная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1509,
     "uikTvd": "456403792788",
+    "uikName": "УИК №1509",
     "tikTvd": "2562000211398",
-    "tikName": "Северная"
+    "tikName": "Северная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1510,
     "uikTvd": "456403792789",
+    "uikName": "УИК №1510",
     "tikTvd": "2562000211398",
-    "tikName": "Северная"
+    "tikName": "Северная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1511,
     "uikTvd": "456403792790",
+    "uikName": "УИК №1511",
     "tikTvd": "2562000211398",
-    "tikName": "Северная"
+    "tikName": "Северная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1512,
     "uikTvd": "456403792791",
+    "uikName": "УИК №1512",
     "tikTvd": "2562000211398",
-    "tikName": "Северная"
+    "tikName": "Северная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1513,
     "uikTvd": "456403792792",
+    "uikName": "УИК №1513",
     "tikTvd": "2562000211398",
-    "tikName": "Северная"
+    "tikName": "Северная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1514,
     "uikTvd": "456403792793",
+    "uikName": "УИК №1514",
     "tikTvd": "2562000211398",
-    "tikName": "Северная"
+    "tikName": "Северная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1515,
     "uikTvd": "456403792794",
+    "uikName": "УИК №1515",
     "tikTvd": "2562000211398",
-    "tikName": "Северная"
+    "tikName": "Северная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1516,
     "uikTvd": "456403792795",
+    "uikName": "УИК №1516",
     "tikTvd": "2562000211398",
-    "tikName": "Северная"
+    "tikName": "Северная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1517,
     "uikTvd": "456403792796",
+    "uikName": "УИК №1517",
     "tikTvd": "2562000211398",
-    "tikName": "Северная"
+    "tikName": "Северная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1518,
     "uikTvd": "456403792797",
+    "uikName": "УИК №1518",
     "tikTvd": "2562000211398",
-    "tikName": "Северная"
+    "tikName": "Северная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1519,
     "uikTvd": "456403792798",
+    "uikName": "УИК №1519",
     "tikTvd": "2562000211398",
-    "tikName": "Северная"
+    "tikName": "Северная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1520,
     "uikTvd": "456403792799",
+    "uikName": "УИК №1520",
     "tikTvd": "2562000211398",
-    "tikName": "Северная"
+    "tikName": "Северная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1521,
     "uikTvd": "456403792800",
+    "uikName": "УИК №1521",
     "tikTvd": "2562000211398",
-    "tikName": "Северная"
+    "tikName": "Северная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1522,
     "uikTvd": "456403792801",
+    "uikName": "УИК №1522",
     "tikTvd": "2562000211398",
-    "tikName": "Северная"
+    "tikName": "Северная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1523,
     "uikTvd": "456403792802",
+    "uikName": "УИК №1523",
     "tikTvd": "2562000211398",
-    "tikName": "Северная"
+    "tikName": "Северная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1524,
     "uikTvd": "456403792803",
+    "uikName": "УИК №1524",
     "tikTvd": "2562000211398",
-    "tikName": "Северная"
+    "tikName": "Северная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1525,
     "uikTvd": "456403792804",
+    "uikName": "УИК №1525",
     "tikTvd": "2562000211398",
-    "tikName": "Северная"
+    "tikName": "Северная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1526,
     "uikTvd": "456403792805",
+    "uikName": "УИК №1526",
     "tikTvd": "2562000211398",
-    "tikName": "Северная"
+    "tikName": "Северная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1527,
     "uikTvd": "456403792806",
+    "uikName": "УИК №1527",
     "tikTvd": "2562000211398",
-    "tikName": "Северная"
+    "tikName": "Северная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1528,
     "uikTvd": "456403792807",
+    "uikName": "УИК №1528",
     "tikTvd": "2562000211398",
-    "tikName": "Северная"
+    "tikName": "Северная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1529,
     "uikTvd": "456403792808",
+    "uikName": "УИК №1529",
     "tikTvd": "2562000211398",
-    "tikName": "Северная"
+    "tikName": "Северная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1530,
     "uikTvd": "456403792809",
+    "uikName": "УИК №1530",
     "tikTvd": "2562000211398",
-    "tikName": "Северная"
+    "tikName": "Северная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1531,
     "uikTvd": "456403792810",
+    "uikName": "УИК №1531",
     "tikTvd": "2562000211398",
-    "tikName": "Северная"
+    "tikName": "Северная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1532,
     "uikTvd": "456403792811",
+    "uikName": "УИК №1532",
     "tikTvd": "2562000211398",
-    "tikName": "Северная"
+    "tikName": "Северная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1533,
     "uikTvd": "456403792812",
+    "uikName": "УИК №1533",
     "tikTvd": "2562000211398",
-    "tikName": "Северная"
+    "tikName": "Северная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1534,
     "uikTvd": "456403792813",
+    "uikName": "УИК №1534",
     "tikTvd": "2562000211398",
-    "tikName": "Северная"
+    "tikName": "Северная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1535,
     "uikTvd": "456403893678",
+    "uikName": "УИК №1535",
     "tikTvd": "2562000211394",
-    "tikName": "Соль-Илецкая"
+    "tikName": "Соль-Илецкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1536,
     "uikTvd": "456403893679",
+    "uikName": "УИК №1536",
     "tikTvd": "2562000211394",
-    "tikName": "Соль-Илецкая"
+    "tikName": "Соль-Илецкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1537,
     "uikTvd": "456403893680",
+    "uikName": "УИК №1537",
     "tikTvd": "2562000211394",
-    "tikName": "Соль-Илецкая"
+    "tikName": "Соль-Илецкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1538,
     "uikTvd": "456403893681",
+    "uikName": "УИК №1538",
     "tikTvd": "2562000211394",
-    "tikName": "Соль-Илецкая"
+    "tikName": "Соль-Илецкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1539,
     "uikTvd": "456403893682",
+    "uikName": "УИК №1539",
     "tikTvd": "2562000211394",
-    "tikName": "Соль-Илецкая"
+    "tikName": "Соль-Илецкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1540,
     "uikTvd": "456403893683",
+    "uikName": "УИК №1540",
     "tikTvd": "2562000211394",
-    "tikName": "Соль-Илецкая"
+    "tikName": "Соль-Илецкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1541,
     "uikTvd": "456403893684",
+    "uikName": "УИК №1541",
     "tikTvd": "2562000211394",
-    "tikName": "Соль-Илецкая"
+    "tikName": "Соль-Илецкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1542,
     "uikTvd": "456403893685",
+    "uikName": "УИК №1542",
     "tikTvd": "2562000211394",
-    "tikName": "Соль-Илецкая"
+    "tikName": "Соль-Илецкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1543,
     "uikTvd": "456403893686",
+    "uikName": "УИК №1543",
     "tikTvd": "2562000211394",
-    "tikName": "Соль-Илецкая"
+    "tikName": "Соль-Илецкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1544,
     "uikTvd": "456403893687",
+    "uikName": "УИК №1544",
     "tikTvd": "2562000211394",
-    "tikName": "Соль-Илецкая"
+    "tikName": "Соль-Илецкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1545,
     "uikTvd": "456403893688",
+    "uikName": "УИК №1545",
     "tikTvd": "2562000211394",
-    "tikName": "Соль-Илецкая"
+    "tikName": "Соль-Илецкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1546,
     "uikTvd": "456403893689",
+    "uikName": "УИК №1546",
     "tikTvd": "2562000211394",
-    "tikName": "Соль-Илецкая"
+    "tikName": "Соль-Илецкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1547,
     "uikTvd": "456403893690",
+    "uikName": "УИК №1547",
     "tikTvd": "2562000211394",
-    "tikName": "Соль-Илецкая"
+    "tikName": "Соль-Илецкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1548,
     "uikTvd": "456403893691",
+    "uikName": "УИК №1548",
     "tikTvd": "2562000211394",
-    "tikName": "Соль-Илецкая"
+    "tikName": "Соль-Илецкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1549,
     "uikTvd": "456403893692",
+    "uikName": "УИК №1549",
     "tikTvd": "2562000211394",
-    "tikName": "Соль-Илецкая"
+    "tikName": "Соль-Илецкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1550,
     "uikTvd": "456403893693",
+    "uikName": "УИК №1550",
     "tikTvd": "2562000211394",
-    "tikName": "Соль-Илецкая"
+    "tikName": "Соль-Илецкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1551,
     "uikTvd": "456403893694",
+    "uikName": "УИК №1551",
     "tikTvd": "2562000211394",
-    "tikName": "Соль-Илецкая"
+    "tikName": "Соль-Илецкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1552,
     "uikTvd": "456403893695",
+    "uikName": "УИК №1552",
     "tikTvd": "2562000211394",
-    "tikName": "Соль-Илецкая"
+    "tikName": "Соль-Илецкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1553,
     "uikTvd": "456403893696",
+    "uikName": "УИК №1553",
     "tikTvd": "2562000211394",
-    "tikName": "Соль-Илецкая"
+    "tikName": "Соль-Илецкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1554,
     "uikTvd": "456403893697",
+    "uikName": "УИК №1554",
     "tikTvd": "2562000211394",
-    "tikName": "Соль-Илецкая"
+    "tikName": "Соль-Илецкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1555,
     "uikTvd": "456403893698",
+    "uikName": "УИК №1555",
     "tikTvd": "2562000211394",
-    "tikName": "Соль-Илецкая"
+    "tikName": "Соль-Илецкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1556,
     "uikTvd": "456403893699",
+    "uikName": "УИК №1556",
     "tikTvd": "2562000211394",
-    "tikName": "Соль-Илецкая"
+    "tikName": "Соль-Илецкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1557,
     "uikTvd": "456403893700",
+    "uikName": "УИК №1557",
     "tikTvd": "2562000211394",
-    "tikName": "Соль-Илецкая"
+    "tikName": "Соль-Илецкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1558,
     "uikTvd": "456403893701",
+    "uikName": "УИК №1558",
     "tikTvd": "2562000211394",
-    "tikName": "Соль-Илецкая"
+    "tikName": "Соль-Илецкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1559,
     "uikTvd": "456403893702",
+    "uikName": "УИК №1559",
     "tikTvd": "2562000211394",
-    "tikName": "Соль-Илецкая"
+    "tikName": "Соль-Илецкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1560,
     "uikTvd": "456403893703",
+    "uikName": "УИК №1560",
     "tikTvd": "2562000211394",
-    "tikName": "Соль-Илецкая"
+    "tikName": "Соль-Илецкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1561,
     "uikTvd": "456403893704",
+    "uikName": "УИК №1561",
     "tikTvd": "2562000211394",
-    "tikName": "Соль-Илецкая"
+    "tikName": "Соль-Илецкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1562,
     "uikTvd": "456403893705",
+    "uikName": "УИК №1562",
     "tikTvd": "2562000211394",
-    "tikName": "Соль-Илецкая"
+    "tikName": "Соль-Илецкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1563,
     "uikTvd": "456403893706",
+    "uikName": "УИК №1563",
     "tikTvd": "2562000211394",
-    "tikName": "Соль-Илецкая"
+    "tikName": "Соль-Илецкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1564,
     "uikTvd": "456403893707",
+    "uikName": "УИК №1564",
     "tikTvd": "2562000211394",
-    "tikName": "Соль-Илецкая"
+    "tikName": "Соль-Илецкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1565,
     "uikTvd": "456403893708",
+    "uikName": "УИК №1565",
     "tikTvd": "2562000211394",
-    "tikName": "Соль-Илецкая"
+    "tikName": "Соль-Илецкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1566,
     "uikTvd": "456403893709",
+    "uikName": "УИК №1566",
     "tikTvd": "2562000211394",
-    "tikName": "Соль-Илецкая"
+    "tikName": "Соль-Илецкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1567,
     "uikTvd": "456403893710",
+    "uikName": "УИК №1567",
     "tikTvd": "2562000211394",
-    "tikName": "Соль-Илецкая"
+    "tikName": "Соль-Илецкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1568,
     "uikTvd": "456403893711",
+    "uikName": "УИК №1568",
     "tikTvd": "2562000211394",
-    "tikName": "Соль-Илецкая"
+    "tikName": "Соль-Илецкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1569,
     "uikTvd": "456403893712",
+    "uikName": "УИК №1569",
     "tikTvd": "2562000211394",
-    "tikName": "Соль-Илецкая"
+    "tikName": "Соль-Илецкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1570,
     "uikTvd": "456403893713",
+    "uikName": "УИК №1570",
     "tikTvd": "2562000211394",
-    "tikName": "Соль-Илецкая"
+    "tikName": "Соль-Илецкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1571,
     "uikTvd": "456403893714",
+    "uikName": "УИК №1571",
     "tikTvd": "2562000211394",
-    "tikName": "Соль-Илецкая"
+    "tikName": "Соль-Илецкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1572,
     "uikTvd": "456403893715",
+    "uikName": "УИК №1572",
     "tikTvd": "2562000211394",
-    "tikName": "Соль-Илецкая"
+    "tikName": "Соль-Илецкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1573,
     "uikTvd": "456403893716",
+    "uikName": "УИК №1573",
     "tikTvd": "2562000211394",
-    "tikName": "Соль-Илецкая"
+    "tikName": "Соль-Илецкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1574,
     "uikTvd": "456403893717",
+    "uikName": "УИК №1574",
     "tikTvd": "2562000211394",
-    "tikName": "Соль-Илецкая"
+    "tikName": "Соль-Илецкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1575,
     "uikTvd": "456403893718",
+    "uikName": "УИК №1575",
     "tikTvd": "2562000211394",
-    "tikName": "Соль-Илецкая"
+    "tikName": "Соль-Илецкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1576,
     "uikTvd": "456403893719",
+    "uikName": "УИК №1576",
     "tikTvd": "2562000211394",
-    "tikName": "Соль-Илецкая"
+    "tikName": "Соль-Илецкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1577,
     "uikTvd": "456403893720",
+    "uikName": "УИК №1577",
     "tikTvd": "2562000211394",
-    "tikName": "Соль-Илецкая"
+    "tikName": "Соль-Илецкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1578,
     "uikTvd": "456403893721",
+    "uikName": "УИК №1578",
     "tikTvd": "2562000211394",
-    "tikName": "Соль-Илецкая"
+    "tikName": "Соль-Илецкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1579,
     "uikTvd": "456403893722",
+    "uikName": "УИК №1579",
     "tikTvd": "2562000211394",
-    "tikName": "Соль-Илецкая"
+    "tikName": "Соль-Илецкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1580,
     "uikTvd": "456403893723",
+    "uikName": "УИК №1580",
     "tikTvd": "2562000211394",
-    "tikName": "Соль-Илецкая"
+    "tikName": "Соль-Илецкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1581,
     "uikTvd": "456403893724",
+    "uikName": "УИК №1581",
     "tikTvd": "2562000211394",
-    "tikName": "Соль-Илецкая"
+    "tikName": "Соль-Илецкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1582,
     "uikTvd": "456403893725",
+    "uikName": "УИК №1582",
     "tikTvd": "2562000211394",
-    "tikName": "Соль-Илецкая"
+    "tikName": "Соль-Илецкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1583,
     "uikTvd": "456403893726",
+    "uikName": "УИК №1583",
     "tikTvd": "2562000211394",
-    "tikName": "Соль-Илецкая"
+    "tikName": "Соль-Илецкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1584,
     "uikTvd": "456403893727",
+    "uikName": "УИК №1584",
     "tikTvd": "2562000211394",
-    "tikName": "Соль-Илецкая"
+    "tikName": "Соль-Илецкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1585,
     "uikTvd": "456405099074",
+    "uikName": "УИК №1585",
     "tikTvd": "2562000211362",
-    "tikName": "Сорочинская"
+    "tikName": "Сорочинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1586,
     "uikTvd": "456405099076",
+    "uikName": "УИК №1586",
     "tikTvd": "2562000211362",
-    "tikName": "Сорочинская"
+    "tikName": "Сорочинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1587,
     "uikTvd": "456405099077",
+    "uikName": "УИК №1587",
     "tikTvd": "2562000211362",
-    "tikName": "Сорочинская"
+    "tikName": "Сорочинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1588,
     "uikTvd": "456405099078",
+    "uikName": "УИК №1588",
     "tikTvd": "2562000211362",
-    "tikName": "Сорочинская"
+    "tikName": "Сорочинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1589,
     "uikTvd": "456405099079",
+    "uikName": "УИК №1589",
     "tikTvd": "2562000211362",
-    "tikName": "Сорочинская"
+    "tikName": "Сорочинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1590,
     "uikTvd": "456405099080",
+    "uikName": "УИК №1590",
     "tikTvd": "2562000211362",
-    "tikName": "Сорочинская"
+    "tikName": "Сорочинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1591,
     "uikTvd": "456405099081",
+    "uikName": "УИК №1591",
     "tikTvd": "2562000211362",
-    "tikName": "Сорочинская"
+    "tikName": "Сорочинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1592,
     "uikTvd": "456405099082",
+    "uikName": "УИК №1592",
     "tikTvd": "2562000211362",
-    "tikName": "Сорочинская"
+    "tikName": "Сорочинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1593,
     "uikTvd": "456405099083",
+    "uikName": "УИК №1593",
     "tikTvd": "2562000211362",
-    "tikName": "Сорочинская"
+    "tikName": "Сорочинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1594,
     "uikTvd": "456405099084",
+    "uikName": "УИК №1594",
     "tikTvd": "2562000211362",
-    "tikName": "Сорочинская"
+    "tikName": "Сорочинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1595,
     "uikTvd": "456405099085",
+    "uikName": "УИК №1595",
     "tikTvd": "2562000211362",
-    "tikName": "Сорочинская"
+    "tikName": "Сорочинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1596,
     "uikTvd": "456405099086",
+    "uikName": "УИК №1596",
     "tikTvd": "2562000211362",
-    "tikName": "Сорочинская"
+    "tikName": "Сорочинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1597,
     "uikTvd": "456405099087",
+    "uikName": "УИК №1597",
     "tikTvd": "2562000211362",
-    "tikName": "Сорочинская"
+    "tikName": "Сорочинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1598,
     "uikTvd": "456405099088",
+    "uikName": "УИК №1598",
     "tikTvd": "2562000211362",
-    "tikName": "Сорочинская"
+    "tikName": "Сорочинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1599,
     "uikTvd": "456405099089",
+    "uikName": "УИК №1599",
     "tikTvd": "2562000211362",
-    "tikName": "Сорочинская"
+    "tikName": "Сорочинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1600,
     "uikTvd": "456405099090",
+    "uikName": "УИК №1600",
     "tikTvd": "2562000211362",
-    "tikName": "Сорочинская"
+    "tikName": "Сорочинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1601,
     "uikTvd": "456405099091",
+    "uikName": "УИК №1601",
     "tikTvd": "2562000211362",
-    "tikName": "Сорочинская"
+    "tikName": "Сорочинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1602,
     "uikTvd": "456405099092",
+    "uikName": "УИК №1602",
     "tikTvd": "2562000211362",
-    "tikName": "Сорочинская"
+    "tikName": "Сорочинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1603,
     "uikTvd": "456405099093",
+    "uikName": "УИК №1603",
     "tikTvd": "2562000211362",
-    "tikName": "Сорочинская"
+    "tikName": "Сорочинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1604,
     "uikTvd": "456405099094",
+    "uikName": "УИК №1604",
     "tikTvd": "2562000211362",
-    "tikName": "Сорочинская"
+    "tikName": "Сорочинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1605,
     "uikTvd": "456405099095",
+    "uikName": "УИК №1605",
     "tikTvd": "2562000211362",
-    "tikName": "Сорочинская"
+    "tikName": "Сорочинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1606,
     "uikTvd": "456405099096",
+    "uikName": "УИК №1606",
     "tikTvd": "2562000211362",
-    "tikName": "Сорочинская"
+    "tikName": "Сорочинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1607,
     "uikTvd": "456405099097",
+    "uikName": "УИК №1607",
     "tikTvd": "2562000211362",
-    "tikName": "Сорочинская"
+    "tikName": "Сорочинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1608,
     "uikTvd": "456405099098",
+    "uikName": "УИК №1608",
     "tikTvd": "2562000211362",
-    "tikName": "Сорочинская"
+    "tikName": "Сорочинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1609,
     "uikTvd": "456405099099",
+    "uikName": "УИК №1609",
     "tikTvd": "2562000211362",
-    "tikName": "Сорочинская"
+    "tikName": "Сорочинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1610,
     "uikTvd": "456405099100",
+    "uikName": "УИК №1610",
     "tikTvd": "2562000211362",
-    "tikName": "Сорочинская"
+    "tikName": "Сорочинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1611,
     "uikTvd": "456405099101",
+    "uikName": "УИК №1611",
     "tikTvd": "2562000211362",
-    "tikName": "Сорочинская"
+    "tikName": "Сорочинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1612,
     "uikTvd": "456405099102",
+    "uikName": "УИК №1612",
     "tikTvd": "2562000211362",
-    "tikName": "Сорочинская"
+    "tikName": "Сорочинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1613,
     "uikTvd": "456405099103",
+    "uikName": "УИК №1613",
     "tikTvd": "2562000211362",
-    "tikName": "Сорочинская"
+    "tikName": "Сорочинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1614,
     "uikTvd": "456405099104",
+    "uikName": "УИК №1614",
     "tikTvd": "2562000211362",
-    "tikName": "Сорочинская"
+    "tikName": "Сорочинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1615,
     "uikTvd": "456405099105",
+    "uikName": "УИК №1615",
     "tikTvd": "2562000211362",
-    "tikName": "Сорочинская"
+    "tikName": "Сорочинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1616,
     "uikTvd": "456405099106",
+    "uikName": "УИК №1616",
     "tikTvd": "2562000211362",
-    "tikName": "Сорочинская"
+    "tikName": "Сорочинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1617,
     "uikTvd": "456403979083",
+    "uikName": "УИК №1617",
     "tikTvd": "2562000211393",
-    "tikName": "Сорочинская городская"
+    "tikName": "Сорочинская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1618,
     "uikTvd": "456403979084",
+    "uikName": "УИК №1618",
     "tikTvd": "2562000211393",
-    "tikName": "Сорочинская городская"
+    "tikName": "Сорочинская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1619,
     "uikTvd": "456403979085",
+    "uikName": "УИК №1619",
     "tikTvd": "2562000211393",
-    "tikName": "Сорочинская городская"
+    "tikName": "Сорочинская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1620,
     "uikTvd": "456403979086",
+    "uikName": "УИК №1620",
     "tikTvd": "2562000211393",
-    "tikName": "Сорочинская городская"
+    "tikName": "Сорочинская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1621,
     "uikTvd": "456403979087",
+    "uikName": "УИК №1621",
     "tikTvd": "2562000211393",
-    "tikName": "Сорочинская городская"
+    "tikName": "Сорочинская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1622,
     "uikTvd": "456403979088",
+    "uikName": "УИК №1622",
     "tikTvd": "2562000211393",
-    "tikName": "Сорочинская городская"
+    "tikName": "Сорочинская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1623,
     "uikTvd": "456403979089",
+    "uikName": "УИК №1623",
     "tikTvd": "2562000211393",
-    "tikName": "Сорочинская городская"
+    "tikName": "Сорочинская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1624,
     "uikTvd": "456403979090",
+    "uikName": "УИК №1624",
     "tikTvd": "2562000211393",
-    "tikName": "Сорочинская городская"
+    "tikName": "Сорочинская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1625,
     "uikTvd": "456403979091",
+    "uikName": "УИК №1625",
     "tikTvd": "2562000211393",
-    "tikName": "Сорочинская городская"
+    "tikName": "Сорочинская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1626,
     "uikTvd": "456403979092",
+    "uikName": "УИК №1626",
     "tikTvd": "2562000211393",
-    "tikName": "Сорочинская городская"
+    "tikName": "Сорочинская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1627,
     "uikTvd": "4564040103488",
+    "uikName": "УИК №1627",
     "tikTvd": "2562000211395",
-    "tikName": "Ташлинская"
+    "tikName": "Ташлинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1628,
     "uikTvd": "4564040103489",
+    "uikName": "УИК №1628",
     "tikTvd": "2562000211395",
-    "tikName": "Ташлинская"
+    "tikName": "Ташлинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1629,
     "uikTvd": "4564040103490",
+    "uikName": "УИК №1629",
     "tikTvd": "2562000211395",
-    "tikName": "Ташлинская"
+    "tikName": "Ташлинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1630,
     "uikTvd": "4564040103491",
+    "uikName": "УИК №1630",
     "tikTvd": "2562000211395",
-    "tikName": "Ташлинская"
+    "tikName": "Ташлинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1631,
     "uikTvd": "4564040103492",
+    "uikName": "УИК №1631",
     "tikTvd": "2562000211395",
-    "tikName": "Ташлинская"
+    "tikName": "Ташлинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1632,
     "uikTvd": "4564040103493",
+    "uikName": "УИК №1632",
     "tikTvd": "2562000211395",
-    "tikName": "Ташлинская"
+    "tikName": "Ташлинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1633,
     "uikTvd": "4564040103494",
+    "uikName": "УИК №1633",
     "tikTvd": "2562000211395",
-    "tikName": "Ташлинская"
+    "tikName": "Ташлинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1634,
     "uikTvd": "4564040103495",
+    "uikName": "УИК №1634",
     "tikTvd": "2562000211395",
-    "tikName": "Ташлинская"
+    "tikName": "Ташлинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1635,
     "uikTvd": "4564040103496",
+    "uikName": "УИК №1635",
     "tikTvd": "2562000211395",
-    "tikName": "Ташлинская"
+    "tikName": "Ташлинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1636,
     "uikTvd": "4564040103497",
+    "uikName": "УИК №1636",
     "tikTvd": "2562000211395",
-    "tikName": "Ташлинская"
+    "tikName": "Ташлинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1637,
     "uikTvd": "4564040103498",
+    "uikName": "УИК №1637",
     "tikTvd": "2562000211395",
-    "tikName": "Ташлинская"
+    "tikName": "Ташлинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1638,
     "uikTvd": "4564040103499",
+    "uikName": "УИК №1638",
     "tikTvd": "2562000211395",
-    "tikName": "Ташлинская"
+    "tikName": "Ташлинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1639,
     "uikTvd": "4564040103500",
+    "uikName": "УИК №1639",
     "tikTvd": "2562000211395",
-    "tikName": "Ташлинская"
+    "tikName": "Ташлинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1640,
     "uikTvd": "4564040103501",
+    "uikName": "УИК №1640",
     "tikTvd": "2562000211395",
-    "tikName": "Ташлинская"
+    "tikName": "Ташлинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1641,
     "uikTvd": "4564040103502",
+    "uikName": "УИК №1641",
     "tikTvd": "2562000211395",
-    "tikName": "Ташлинская"
+    "tikName": "Ташлинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1642,
     "uikTvd": "4564040103503",
+    "uikName": "УИК №1642",
     "tikTvd": "2562000211395",
-    "tikName": "Ташлинская"
+    "tikName": "Ташлинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1643,
     "uikTvd": "4564040103504",
+    "uikName": "УИК №1643",
     "tikTvd": "2562000211395",
-    "tikName": "Ташлинская"
+    "tikName": "Ташлинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1644,
     "uikTvd": "4564040103505",
+    "uikName": "УИК №1644",
     "tikTvd": "2562000211395",
-    "tikName": "Ташлинская"
+    "tikName": "Ташлинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1645,
     "uikTvd": "4564040103506",
+    "uikName": "УИК №1645",
     "tikTvd": "2562000211395",
-    "tikName": "Ташлинская"
+    "tikName": "Ташлинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1646,
     "uikTvd": "4564040103507",
+    "uikName": "УИК №1646",
     "tikTvd": "2562000211395",
-    "tikName": "Ташлинская"
+    "tikName": "Ташлинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1647,
     "uikTvd": "4564040103508",
+    "uikName": "УИК №1647",
     "tikTvd": "2562000211395",
-    "tikName": "Ташлинская"
+    "tikName": "Ташлинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1648,
     "uikTvd": "4564040103509",
+    "uikName": "УИК №1648",
     "tikTvd": "2562000211395",
-    "tikName": "Ташлинская"
+    "tikName": "Ташлинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1649,
     "uikTvd": "4564040103510",
+    "uikName": "УИК №1649",
     "tikTvd": "2562000211395",
-    "tikName": "Ташлинская"
+    "tikName": "Ташлинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1650,
     "uikTvd": "4564040103511",
+    "uikName": "УИК №1650",
     "tikTvd": "2562000211395",
-    "tikName": "Ташлинская"
+    "tikName": "Ташлинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1651,
     "uikTvd": "4564040103512",
+    "uikName": "УИК №1651",
     "tikTvd": "2562000211395",
-    "tikName": "Ташлинская"
+    "tikName": "Ташлинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1652,
     "uikTvd": "4564040103513",
+    "uikName": "УИК №1652",
     "tikTvd": "2562000211395",
-    "tikName": "Ташлинская"
+    "tikName": "Ташлинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1653,
     "uikTvd": "4564040103514",
+    "uikName": "УИК №1653",
     "tikTvd": "2562000211395",
-    "tikName": "Ташлинская"
+    "tikName": "Ташлинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1654,
     "uikTvd": "4564040103515",
+    "uikName": "УИК №1654",
     "tikTvd": "2562000211395",
-    "tikName": "Ташлинская"
+    "tikName": "Ташлинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1655,
     "uikTvd": "4564040103516",
+    "uikName": "УИК №1655",
     "tikTvd": "2562000211395",
-    "tikName": "Ташлинская"
+    "tikName": "Ташлинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1656,
     "uikTvd": "4564040103517",
+    "uikName": "УИК №1656",
     "tikTvd": "2562000211395",
-    "tikName": "Ташлинская"
+    "tikName": "Ташлинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1657,
     "uikTvd": "4564040103518",
+    "uikName": "УИК №1657",
     "tikTvd": "2562000211395",
-    "tikName": "Ташлинская"
+    "tikName": "Ташлинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1658,
     "uikTvd": "4564040103519",
+    "uikName": "УИК №1658",
     "tikTvd": "2562000211395",
-    "tikName": "Ташлинская"
+    "tikName": "Ташлинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1659,
     "uikTvd": "4564040103520",
+    "uikName": "УИК №1659",
     "tikTvd": "2562000211395",
-    "tikName": "Ташлинская"
+    "tikName": "Ташлинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1660,
     "uikTvd": "4564040103521",
+    "uikName": "УИК №1660",
     "tikTvd": "2562000211395",
-    "tikName": "Ташлинская"
+    "tikName": "Ташлинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1661,
     "uikTvd": "4564040103522",
+    "uikName": "УИК №1661",
     "tikTvd": "2562000211395",
-    "tikName": "Ташлинская"
+    "tikName": "Ташлинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1662,
     "uikTvd": "4564040103523",
+    "uikName": "УИК №1662",
     "tikTvd": "2562000211395",
-    "tikName": "Ташлинская"
+    "tikName": "Ташлинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1663,
     "uikTvd": "4564040103524",
+    "uikName": "УИК №1663",
     "tikTvd": "2562000211395",
-    "tikName": "Ташлинская"
+    "tikName": "Ташлинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1664,
     "uikTvd": "4564040103525",
+    "uikName": "УИК №1664",
     "tikTvd": "2562000211395",
-    "tikName": "Ташлинская"
+    "tikName": "Ташлинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1665,
     "uikTvd": "4564040103526",
+    "uikName": "УИК №1665",
     "tikTvd": "2562000211395",
-    "tikName": "Ташлинская"
+    "tikName": "Ташлинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1666,
     "uikTvd": "4564040103527",
+    "uikName": "УИК №1666",
     "tikTvd": "2562000211395",
-    "tikName": "Ташлинская"
+    "tikName": "Ташлинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1667,
     "uikTvd": "4564040103528",
+    "uikName": "УИК №1667",
     "tikTvd": "2562000211395",
-    "tikName": "Ташлинская"
+    "tikName": "Ташлинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1668,
     "uikTvd": "4564040103529",
+    "uikName": "УИК №1668",
     "tikTvd": "2562000211395",
-    "tikName": "Ташлинская"
+    "tikName": "Ташлинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1669,
     "uikTvd": "4564040103530",
+    "uikName": "УИК №1669",
     "tikTvd": "2562000211395",
-    "tikName": "Ташлинская"
+    "tikName": "Ташлинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1670,
     "uikTvd": "4564040103531",
+    "uikName": "УИК №1670",
     "tikTvd": "2562000211395",
-    "tikName": "Ташлинская"
+    "tikName": "Ташлинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1671,
     "uikTvd": "4564040103532",
+    "uikName": "УИК №1671",
     "tikTvd": "2562000211395",
-    "tikName": "Ташлинская"
+    "tikName": "Ташлинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1672,
     "uikTvd": "456404191582",
+    "uikName": "УИК №1672",
     "tikTvd": "2562000211360",
-    "tikName": "Тоцкая"
+    "tikName": "Тоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1673,
     "uikTvd": "456404191583",
+    "uikName": "УИК №1673",
     "tikTvd": "2562000211360",
-    "tikName": "Тоцкая"
+    "tikName": "Тоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1674,
     "uikTvd": "456404191584",
+    "uikName": "УИК №1674",
     "tikTvd": "2562000211360",
-    "tikName": "Тоцкая"
+    "tikName": "Тоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1675,
     "uikTvd": "456404191585",
+    "uikName": "УИК №1675",
     "tikTvd": "2562000211360",
-    "tikName": "Тоцкая"
+    "tikName": "Тоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1676,
     "uikTvd": "456404191586",
+    "uikName": "УИК №1676",
     "tikTvd": "2562000211360",
-    "tikName": "Тоцкая"
+    "tikName": "Тоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1677,
     "uikTvd": "456404191587",
+    "uikName": "УИК №1677",
     "tikTvd": "2562000211360",
-    "tikName": "Тоцкая"
+    "tikName": "Тоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1678,
     "uikTvd": "456404191588",
+    "uikName": "УИК №1678",
     "tikTvd": "2562000211360",
-    "tikName": "Тоцкая"
+    "tikName": "Тоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1679,
     "uikTvd": "456404191589",
+    "uikName": "УИК №1679",
     "tikTvd": "2562000211360",
-    "tikName": "Тоцкая"
+    "tikName": "Тоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1680,
     "uikTvd": "456404191590",
+    "uikName": "УИК №1680",
     "tikTvd": "2562000211360",
-    "tikName": "Тоцкая"
+    "tikName": "Тоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1681,
     "uikTvd": "456404191591",
+    "uikName": "УИК №1681",
     "tikTvd": "2562000211360",
-    "tikName": "Тоцкая"
+    "tikName": "Тоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1682,
     "uikTvd": "456404191592",
+    "uikName": "УИК №1682",
     "tikTvd": "2562000211360",
-    "tikName": "Тоцкая"
+    "tikName": "Тоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1683,
     "uikTvd": "456404191593",
+    "uikName": "УИК №1683",
     "tikTvd": "2562000211360",
-    "tikName": "Тоцкая"
+    "tikName": "Тоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1684,
     "uikTvd": "456404191594",
+    "uikName": "УИК №1684",
     "tikTvd": "2562000211360",
-    "tikName": "Тоцкая"
+    "tikName": "Тоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1685,
     "uikTvd": "456404191595",
+    "uikName": "УИК №1685",
     "tikTvd": "2562000211360",
-    "tikName": "Тоцкая"
+    "tikName": "Тоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1686,
     "uikTvd": "456404191596",
+    "uikName": "УИК №1686",
     "tikTvd": "2562000211360",
-    "tikName": "Тоцкая"
+    "tikName": "Тоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1687,
     "uikTvd": "456404191597",
+    "uikName": "УИК №1687",
     "tikTvd": "2562000211360",
-    "tikName": "Тоцкая"
+    "tikName": "Тоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1688,
     "uikTvd": "456404191598",
+    "uikName": "УИК №1688",
     "tikTvd": "2562000211360",
-    "tikName": "Тоцкая"
+    "tikName": "Тоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1689,
     "uikTvd": "456404191599",
+    "uikName": "УИК №1689",
     "tikTvd": "2562000211360",
-    "tikName": "Тоцкая"
+    "tikName": "Тоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1690,
     "uikTvd": "456404191600",
+    "uikName": "УИК №1690",
     "tikTvd": "2562000211360",
-    "tikName": "Тоцкая"
+    "tikName": "Тоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1691,
     "uikTvd": "456404191601",
+    "uikName": "УИК №1691",
     "tikTvd": "2562000211360",
-    "tikName": "Тоцкая"
+    "tikName": "Тоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1692,
     "uikTvd": "456404191602",
+    "uikName": "УИК №1692",
     "tikTvd": "2562000211360",
-    "tikName": "Тоцкая"
+    "tikName": "Тоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1693,
     "uikTvd": "456404191603",
+    "uikName": "УИК №1693",
     "tikTvd": "2562000211360",
-    "tikName": "Тоцкая"
+    "tikName": "Тоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1694,
     "uikTvd": "456404191604",
+    "uikName": "УИК №1694",
     "tikTvd": "2562000211360",
-    "tikName": "Тоцкая"
+    "tikName": "Тоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1695,
     "uikTvd": "456404191605",
+    "uikName": "УИК №1695",
     "tikTvd": "2562000211360",
-    "tikName": "Тоцкая"
+    "tikName": "Тоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1696,
     "uikTvd": "456404191606",
+    "uikName": "УИК №1696",
     "tikTvd": "2562000211360",
-    "tikName": "Тоцкая"
+    "tikName": "Тоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1697,
     "uikTvd": "456404191607",
+    "uikName": "УИК №1697",
     "tikTvd": "2562000211360",
-    "tikName": "Тоцкая"
+    "tikName": "Тоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1698,
     "uikTvd": "456404191608",
+    "uikName": "УИК №1698",
     "tikTvd": "2562000211360",
-    "tikName": "Тоцкая"
+    "tikName": "Тоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1699,
     "uikTvd": "456404191609",
+    "uikName": "УИК №1699",
     "tikTvd": "2562000211360",
-    "tikName": "Тоцкая"
+    "tikName": "Тоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1700,
     "uikTvd": "456404191610",
+    "uikName": "УИК №1700",
     "tikTvd": "2562000211360",
-    "tikName": "Тоцкая"
+    "tikName": "Тоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1701,
     "uikTvd": "456404191611",
+    "uikName": "УИК №1701",
     "tikTvd": "2562000211360",
-    "tikName": "Тоцкая"
+    "tikName": "Тоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1702,
     "uikTvd": "456404191612",
+    "uikName": "УИК №1702",
     "tikTvd": "2562000211360",
-    "tikName": "Тоцкая"
+    "tikName": "Тоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1703,
     "uikTvd": "456404191613",
+    "uikName": "УИК №1703",
     "tikTvd": "2562000211360",
-    "tikName": "Тоцкая"
+    "tikName": "Тоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1704,
     "uikTvd": "456404191614",
+    "uikName": "УИК №1704",
     "tikTvd": "2562000211360",
-    "tikName": "Тоцкая"
+    "tikName": "Тоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1705,
     "uikTvd": "456404191615",
+    "uikName": "УИК №1705",
     "tikTvd": "2562000211360",
-    "tikName": "Тоцкая"
+    "tikName": "Тоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1706,
     "uikTvd": "456404191616",
+    "uikName": "УИК №1706",
     "tikTvd": "2562000211360",
-    "tikName": "Тоцкая"
+    "tikName": "Тоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1707,
     "uikTvd": "456404191617",
+    "uikName": "УИК №1707",
     "tikTvd": "2562000211360",
-    "tikName": "Тоцкая"
+    "tikName": "Тоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1708,
     "uikTvd": "456404191618",
+    "uikName": "УИК №1708",
     "tikTvd": "2562000211360",
-    "tikName": "Тоцкая"
+    "tikName": "Тоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1709,
     "uikTvd": "456404191619",
+    "uikName": "УИК №1709",
     "tikTvd": "2562000211360",
-    "tikName": "Тоцкая"
+    "tikName": "Тоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1710,
     "uikTvd": "456404191620",
+    "uikName": "УИК №1710",
     "tikTvd": "2562000211360",
-    "tikName": "Тоцкая"
+    "tikName": "Тоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1711,
     "uikTvd": "456404191621",
+    "uikName": "УИК №1711",
     "tikTvd": "2562000211360",
-    "tikName": "Тоцкая"
+    "tikName": "Тоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1712,
     "uikTvd": "456404191622",
+    "uikName": "УИК №1712",
     "tikTvd": "2562000211360",
-    "tikName": "Тоцкая"
+    "tikName": "Тоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1713,
     "uikTvd": "456404191623",
+    "uikName": "УИК №1713",
     "tikTvd": "2562000211360",
-    "tikName": "Тоцкая"
+    "tikName": "Тоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1714,
     "uikTvd": "456404191624",
+    "uikName": "УИК №1714",
     "tikTvd": "2562000211360",
-    "tikName": "Тоцкая"
+    "tikName": "Тоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1715,
     "uikTvd": "456404191625",
+    "uikName": "УИК №1715",
     "tikTvd": "2562000211360",
-    "tikName": "Тоцкая"
+    "tikName": "Тоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1716,
     "uikTvd": "456404191626",
+    "uikName": "УИК №1716",
     "tikTvd": "2562000211360",
-    "tikName": "Тоцкая"
+    "tikName": "Тоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1717,
     "uikTvd": "456404191627",
+    "uikName": "УИК №1717",
     "tikTvd": "2562000211360",
-    "tikName": "Тоцкая"
+    "tikName": "Тоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1718,
     "uikTvd": "456404191628",
+    "uikName": "УИК №1718",
     "tikTvd": "2562000211360",
-    "tikName": "Тоцкая"
+    "tikName": "Тоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1721,
     "uikTvd": "456404288351",
+    "uikName": "УИК №1721",
     "tikTvd": "2562000211359",
-    "tikName": "Тюльганская"
+    "tikName": "Тюльганская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1722,
     "uikTvd": "456404288352",
+    "uikName": "УИК №1722",
     "tikTvd": "2562000211359",
-    "tikName": "Тюльганская"
+    "tikName": "Тюльганская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1723,
     "uikTvd": "456404288353",
+    "uikName": "УИК №1723",
     "tikTvd": "2562000211359",
-    "tikName": "Тюльганская"
+    "tikName": "Тюльганская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1724,
     "uikTvd": "456404288354",
+    "uikName": "УИК №1724",
     "tikTvd": "2562000211359",
-    "tikName": "Тюльганская"
+    "tikName": "Тюльганская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1725,
     "uikTvd": "456404288355",
+    "uikName": "УИК №1725",
     "tikTvd": "2562000211359",
-    "tikName": "Тюльганская"
+    "tikName": "Тюльганская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1726,
     "uikTvd": "456404288356",
+    "uikName": "УИК №1726",
     "tikTvd": "2562000211359",
-    "tikName": "Тюльганская"
+    "tikName": "Тюльганская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1727,
     "uikTvd": "456404288357",
+    "uikName": "УИК №1727",
     "tikTvd": "2562000211359",
-    "tikName": "Тюльганская"
+    "tikName": "Тюльганская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1728,
     "uikTvd": "456404288358",
+    "uikName": "УИК №1728",
     "tikTvd": "2562000211359",
-    "tikName": "Тюльганская"
+    "tikName": "Тюльганская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1729,
     "uikTvd": "456404288359",
+    "uikName": "УИК №1729",
     "tikTvd": "2562000211359",
-    "tikName": "Тюльганская"
+    "tikName": "Тюльганская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1730,
     "uikTvd": "456404288360",
+    "uikName": "УИК №1730",
     "tikTvd": "2562000211359",
-    "tikName": "Тюльганская"
+    "tikName": "Тюльганская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1731,
     "uikTvd": "456404288361",
+    "uikName": "УИК №1731",
     "tikTvd": "2562000211359",
-    "tikName": "Тюльганская"
+    "tikName": "Тюльганская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1732,
     "uikTvd": "456404288362",
+    "uikName": "УИК №1732",
     "tikTvd": "2562000211359",
-    "tikName": "Тюльганская"
+    "tikName": "Тюльганская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1733,
     "uikTvd": "456404288363",
+    "uikName": "УИК №1733",
     "tikTvd": "2562000211359",
-    "tikName": "Тюльганская"
+    "tikName": "Тюльганская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1734,
     "uikTvd": "456404288364",
+    "uikName": "УИК №1734",
     "tikTvd": "2562000211359",
-    "tikName": "Тюльганская"
+    "tikName": "Тюльганская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1735,
     "uikTvd": "456404288365",
+    "uikName": "УИК №1735",
     "tikTvd": "2562000211359",
-    "tikName": "Тюльганская"
+    "tikName": "Тюльганская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1736,
     "uikTvd": "456404288366",
+    "uikName": "УИК №1736",
     "tikTvd": "2562000211359",
-    "tikName": "Тюльганская"
+    "tikName": "Тюльганская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1737,
     "uikTvd": "456404288367",
+    "uikName": "УИК №1737",
     "tikTvd": "2562000211359",
-    "tikName": "Тюльганская"
+    "tikName": "Тюльганская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1738,
     "uikTvd": "456404288368",
+    "uikName": "УИК №1738",
     "tikTvd": "2562000211359",
-    "tikName": "Тюльганская"
+    "tikName": "Тюльганская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1739,
     "uikTvd": "456404288369",
+    "uikName": "УИК №1739",
     "tikTvd": "2562000211359",
-    "tikName": "Тюльганская"
+    "tikName": "Тюльганская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1740,
     "uikTvd": "456404288370",
+    "uikName": "УИК №1740",
     "tikTvd": "2562000211359",
-    "tikName": "Тюльганская"
+    "tikName": "Тюльганская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1741,
     "uikTvd": "456404288371",
+    "uikName": "УИК №1741",
     "tikTvd": "2562000211359",
-    "tikName": "Тюльганская"
+    "tikName": "Тюльганская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1742,
     "uikTvd": "456404288372",
+    "uikName": "УИК №1742",
     "tikTvd": "2562000211359",
-    "tikName": "Тюльганская"
+    "tikName": "Тюльганская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1743,
     "uikTvd": "456404288373",
+    "uikName": "УИК №1743",
     "tikTvd": "2562000211359",
-    "tikName": "Тюльганская"
+    "tikName": "Тюльганская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1744,
     "uikTvd": "456404288374",
+    "uikName": "УИК №1744",
     "tikTvd": "2562000211359",
-    "tikName": "Тюльганская"
+    "tikName": "Тюльганская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1745,
     "uikTvd": "456404288375",
+    "uikName": "УИК №1745",
     "tikTvd": "2562000211359",
-    "tikName": "Тюльганская"
+    "tikName": "Тюльганская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1746,
     "uikTvd": "456404288376",
+    "uikName": "УИК №1746",
     "tikTvd": "2562000211359",
-    "tikName": "Тюльганская"
+    "tikName": "Тюльганская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1747,
     "uikTvd": "456404288377",
+    "uikName": "УИК №1747",
     "tikTvd": "2562000211359",
-    "tikName": "Тюльганская"
+    "tikName": "Тюльганская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1748,
     "uikTvd": "456404288378",
+    "uikName": "УИК №1748",
     "tikTvd": "2562000211359",
-    "tikName": "Тюльганская"
+    "tikName": "Тюльганская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1749,
     "uikTvd": "456404391924",
+    "uikName": "УИК №1749",
     "tikTvd": "2562000211358",
-    "tikName": "Шарлыкская"
+    "tikName": "Шарлыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1750,
     "uikTvd": "456404391925",
+    "uikName": "УИК №1750",
     "tikTvd": "2562000211358",
-    "tikName": "Шарлыкская"
+    "tikName": "Шарлыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1751,
     "uikTvd": "456404391926",
+    "uikName": "УИК №1751",
     "tikTvd": "2562000211358",
-    "tikName": "Шарлыкская"
+    "tikName": "Шарлыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1752,
     "uikTvd": "456404391927",
+    "uikName": "УИК №1752",
     "tikTvd": "2562000211358",
-    "tikName": "Шарлыкская"
+    "tikName": "Шарлыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1753,
     "uikTvd": "456404391928",
+    "uikName": "УИК №1753",
     "tikTvd": "2562000211358",
-    "tikName": "Шарлыкская"
+    "tikName": "Шарлыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1754,
     "uikTvd": "456404391929",
+    "uikName": "УИК №1754",
     "tikTvd": "2562000211358",
-    "tikName": "Шарлыкская"
+    "tikName": "Шарлыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1755,
     "uikTvd": "456404391930",
+    "uikName": "УИК №1755",
     "tikTvd": "2562000211358",
-    "tikName": "Шарлыкская"
+    "tikName": "Шарлыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1756,
     "uikTvd": "456404391931",
+    "uikName": "УИК №1756",
     "tikTvd": "2562000211358",
-    "tikName": "Шарлыкская"
+    "tikName": "Шарлыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1757,
     "uikTvd": "456404391932",
+    "uikName": "УИК №1757",
     "tikTvd": "2562000211358",
-    "tikName": "Шарлыкская"
+    "tikName": "Шарлыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1758,
     "uikTvd": "456404391933",
+    "uikName": "УИК №1758",
     "tikTvd": "2562000211358",
-    "tikName": "Шарлыкская"
+    "tikName": "Шарлыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1759,
     "uikTvd": "456404391934",
+    "uikName": "УИК №1759",
     "tikTvd": "2562000211358",
-    "tikName": "Шарлыкская"
+    "tikName": "Шарлыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1760,
     "uikTvd": "456404391935",
+    "uikName": "УИК №1760",
     "tikTvd": "2562000211358",
-    "tikName": "Шарлыкская"
+    "tikName": "Шарлыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1761,
     "uikTvd": "456404391936",
+    "uikName": "УИК №1761",
     "tikTvd": "2562000211358",
-    "tikName": "Шарлыкская"
+    "tikName": "Шарлыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1762,
     "uikTvd": "456404391937",
+    "uikName": "УИК №1762",
     "tikTvd": "2562000211358",
-    "tikName": "Шарлыкская"
+    "tikName": "Шарлыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1763,
     "uikTvd": "456404391938",
+    "uikName": "УИК №1763",
     "tikTvd": "2562000211358",
-    "tikName": "Шарлыкская"
+    "tikName": "Шарлыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1764,
     "uikTvd": "456404391939",
+    "uikName": "УИК №1764",
     "tikTvd": "2562000211358",
-    "tikName": "Шарлыкская"
+    "tikName": "Шарлыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1765,
     "uikTvd": "456404391940",
+    "uikName": "УИК №1765",
     "tikTvd": "2562000211358",
-    "tikName": "Шарлыкская"
+    "tikName": "Шарлыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1766,
     "uikTvd": "456404391941",
+    "uikName": "УИК №1766",
     "tikTvd": "2562000211358",
-    "tikName": "Шарлыкская"
+    "tikName": "Шарлыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1767,
     "uikTvd": "456404391942",
+    "uikName": "УИК №1767",
     "tikTvd": "2562000211358",
-    "tikName": "Шарлыкская"
+    "tikName": "Шарлыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1768,
     "uikTvd": "456404391943",
+    "uikName": "УИК №1768",
     "tikTvd": "2562000211358",
-    "tikName": "Шарлыкская"
+    "tikName": "Шарлыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1769,
     "uikTvd": "456404391944",
+    "uikName": "УИК №1769",
     "tikTvd": "2562000211358",
-    "tikName": "Шарлыкская"
+    "tikName": "Шарлыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1770,
     "uikTvd": "456404391945",
+    "uikName": "УИК №1770",
     "tikTvd": "2562000211358",
-    "tikName": "Шарлыкская"
+    "tikName": "Шарлыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1771,
     "uikTvd": "456404391946",
+    "uikName": "УИК №1771",
     "tikTvd": "2562000211358",
-    "tikName": "Шарлыкская"
+    "tikName": "Шарлыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1772,
     "uikTvd": "456404391947",
+    "uikName": "УИК №1772",
     "tikTvd": "2562000211358",
-    "tikName": "Шарлыкская"
+    "tikName": "Шарлыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1773,
     "uikTvd": "456404391948",
+    "uikName": "УИК №1773",
     "tikTvd": "2562000211358",
-    "tikName": "Шарлыкская"
+    "tikName": "Шарлыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1774,
     "uikTvd": "456404391949",
+    "uikName": "УИК №1774",
     "tikTvd": "2562000211358",
-    "tikName": "Шарлыкская"
+    "tikName": "Шарлыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1775,
     "uikTvd": "456404391950",
+    "uikName": "УИК №1775",
     "tikTvd": "2562000211358",
-    "tikName": "Шарлыкская"
+    "tikName": "Шарлыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1776,
     "uikTvd": "456404391951",
+    "uikName": "УИК №1776",
     "tikTvd": "2562000211358",
-    "tikName": "Шарлыкская"
+    "tikName": "Шарлыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1777,
     "uikTvd": "456404391952",
+    "uikName": "УИК №1777",
     "tikTvd": "2562000211358",
-    "tikName": "Шарлыкская"
+    "tikName": "Шарлыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1778,
     "uikTvd": "456404391953",
+    "uikName": "УИК №1778",
     "tikTvd": "2562000211358",
-    "tikName": "Шарлыкская"
+    "tikName": "Шарлыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1779,
     "uikTvd": "456404391954",
+    "uikName": "УИК №1779",
     "tikTvd": "2562000211358",
-    "tikName": "Шарлыкская"
+    "tikName": "Шарлыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1780,
     "uikTvd": "456404391955",
+    "uikName": "УИК №1780",
     "tikTvd": "2562000211358",
-    "tikName": "Шарлыкская"
+    "tikName": "Шарлыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1781,
     "uikTvd": "456404391956",
+    "uikName": "УИК №1781",
     "tikTvd": "2562000211358",
-    "tikName": "Шарлыкская"
+    "tikName": "Шарлыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1782,
     "uikTvd": "456404391957",
+    "uikName": "УИК №1782",
     "tikTvd": "2562000211358",
-    "tikName": "Шарлыкская"
+    "tikName": "Шарлыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1783,
     "uikTvd": "456404391958",
+    "uikName": "УИК №1783",
     "tikTvd": "2562000211358",
-    "tikName": "Шарлыкская"
+    "tikName": "Шарлыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1784,
     "uikTvd": "456404391959",
+    "uikName": "УИК №1784",
     "tikTvd": "2562000211358",
-    "tikName": "Шарлыкская"
+    "tikName": "Шарлыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1785,
     "uikTvd": "456404391960",
+    "uikName": "УИК №1785",
     "tikTvd": "2562000211358",
-    "tikName": "Шарлыкская"
+    "tikName": "Шарлыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1786,
     "uikTvd": "456404391961",
+    "uikName": "УИК №1786",
     "tikTvd": "2562000211358",
-    "tikName": "Шарлыкская"
+    "tikName": "Шарлыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1787,
     "uikTvd": "456404391962",
+    "uikName": "УИК №1787",
     "tikTvd": "2562000211358",
-    "tikName": "Шарлыкская"
+    "tikName": "Шарлыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1788,
     "uikTvd": "456404391963",
+    "uikName": "УИК №1788",
     "tikTvd": "2562000211358",
-    "tikName": "Шарлыкская"
+    "tikName": "Шарлыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1789,
     "uikTvd": "456404391964",
+    "uikName": "УИК №1789",
     "tikTvd": "2562000211358",
-    "tikName": "Шарлыкская"
+    "tikName": "Шарлыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1790,
     "uikTvd": "456405194984",
+    "uikName": "УИК №1790",
     "tikTvd": "2562000211361",
-    "tikName": "Ясненская"
+    "tikName": "Ясненская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1791,
     "uikTvd": "456405194985",
+    "uikName": "УИК №1791",
     "tikTvd": "2562000211361",
-    "tikName": "Ясненская"
+    "tikName": "Ясненская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1792,
     "uikTvd": "456405194986",
+    "uikName": "УИК №1792",
     "tikTvd": "2562000211361",
-    "tikName": "Ясненская"
+    "tikName": "Ясненская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1793,
     "uikTvd": "456401498954",
+    "uikName": "УИК №1793",
     "tikTvd": "2562000211371",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1794,
     "uikTvd": "456405194988",
+    "uikName": "УИК №1794",
     "tikTvd": "2562000211361",
-    "tikName": "Ясненская"
+    "tikName": "Ясненская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1795,
     "uikTvd": "456405194989",
+    "uikName": "УИК №1795",
     "tikTvd": "2562000211361",
-    "tikName": "Ясненская"
+    "tikName": "Ясненская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1796,
     "uikTvd": "456405194990",
+    "uikName": "УИК №1796",
     "tikTvd": "2562000211361",
-    "tikName": "Ясненская"
+    "tikName": "Ясненская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1797,
     "uikTvd": "456405194991",
+    "uikName": "УИК №1797",
     "tikTvd": "2562000211361",
-    "tikName": "Ясненская"
+    "tikName": "Ясненская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1798,
     "uikTvd": "456405194992",
+    "uikName": "УИК №1798",
     "tikTvd": "2562000211361",
-    "tikName": "Ясненская"
+    "tikName": "Ясненская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1799,
     "uikTvd": "456405194993",
+    "uikName": "УИК №1799",
     "tikTvd": "2562000211361",
-    "tikName": "Ясненская"
+    "tikName": "Ясненская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1800,
     "uikTvd": "456405194994",
+    "uikName": "УИК №1800",
     "tikTvd": "2562000211361",
-    "tikName": "Ясненская"
+    "tikName": "Ясненская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1801,
     "uikTvd": "456405194995",
+    "uikName": "УИК №1801",
     "tikTvd": "2562000211361",
-    "tikName": "Ясненская"
+    "tikName": "Ясненская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1802,
     "uikTvd": "456405194996",
+    "uikName": "УИК №1802",
     "tikTvd": "2562000211361",
-    "tikName": "Ясненская"
+    "tikName": "Ясненская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1803,
     "uikTvd": "456405194997",
+    "uikName": "УИК №1803",
     "tikTvd": "2562000211361",
-    "tikName": "Ясненская"
+    "tikName": "Ясненская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1804,
     "uikTvd": "456405194998",
+    "uikName": "УИК №1804",
     "tikTvd": "2562000211361",
-    "tikName": "Ясненская"
+    "tikName": "Ясненская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1805,
     "uikTvd": "456400593115",
+    "uikName": "УИК №1805",
     "tikTvd": "2562000211363",
-    "tikName": "Асекеевская"
+    "tikName": "Асекеевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1806,
     "uikTvd": "456405195000",
+    "uikName": "УИК №1806",
     "tikTvd": "2562000211361",
-    "tikName": "Ясненская"
+    "tikName": "Ясненская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1807,
     "uikTvd": "456405195001",
+    "uikName": "УИК №1807",
     "tikTvd": "2562000211361",
-    "tikName": "Ясненская"
+    "tikName": "Ясненская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1808,
     "uikTvd": "456405195002",
+    "uikName": "УИК №1808",
     "tikTvd": "2562000211361",
-    "tikName": "Ясненская"
+    "tikName": "Ясненская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1809,
     "uikTvd": "456405195003",
+    "uikName": "УИК №1809",
     "tikTvd": "2562000211361",
-    "tikName": "Ясненская"
+    "tikName": "Ясненская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1810,
     "uikTvd": "456405195004",
+    "uikName": "УИК №1810",
     "tikTvd": "2562000211361",
-    "tikName": "Ясненская"
+    "tikName": "Ясненская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1811,
     "uikTvd": "456405195005",
+    "uikName": "УИК №1811",
     "tikTvd": "2562000211361",
-    "tikName": "Ясненская"
+    "tikName": "Ясненская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1812,
     "uikTvd": "456405195006",
+    "uikName": "УИК №1812",
     "tikTvd": "2562000211361",
-    "tikName": "Ясненская"
+    "tikName": "Ясненская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1813,
     "uikTvd": "456405282801",
+    "uikName": "УИК №1813",
     "tikTvd": "2562000211406",
-    "tikName": "ЗАТО Комаровская"
+    "tikName": "ЗАТО Комаровская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1814,
     "uikTvd": "456405282802",
+    "uikName": "УИК №1814",
     "tikTvd": "2562000211406",
-    "tikName": "ЗАТО Комаровская"
+    "tikName": "ЗАТО Комаровская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1815,
     "uikTvd": "456405282803",
+    "uikName": "УИК №1815",
     "tikTvd": "2562000211406",
-    "tikName": "ЗАТО Комаровская"
+    "tikName": "ЗАТО Комаровская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1816,
     "uikTvd": "456405282804",
+    "uikName": "УИК №1816",
     "tikTvd": "2562000211406",
-    "tikName": "ЗАТО Комаровская"
+    "tikName": "ЗАТО Комаровская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1817,
     "uikTvd": "456404780444",
+    "uikName": "УИК №1817",
     "tikTvd": "2562000211404",
-    "tikName": "Гайская городская"
+    "tikName": "Гайская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1818,
     "uikTvd": "456404780445",
+    "uikName": "УИК №1818",
     "tikTvd": "2562000211404",
-    "tikName": "Гайская городская"
+    "tikName": "Гайская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1819,
     "uikTvd": "456404780446",
+    "uikName": "УИК №1819",
     "tikTvd": "2562000211404",
-    "tikName": "Гайская городская"
+    "tikName": "Гайская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1820,
     "uikTvd": "456404780447",
+    "uikName": "УИК №1820",
     "tikTvd": "2562000211404",
-    "tikName": "Гайская городская"
+    "tikName": "Гайская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1821,
     "uikTvd": "456404590828",
+    "uikName": "УИК №1821",
     "tikTvd": "2562000211403",
-    "tikName": "Бугурусланская"
+    "tikName": "Бугурусланская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1822,
     "uikTvd": "456404590829",
+    "uikName": "УИК №1822",
     "tikTvd": "2562000211403",
-    "tikName": "Бугурусланская"
+    "tikName": "Бугурусланская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1823,
     "uikTvd": "456404590830",
+    "uikName": "УИК №1823",
     "tikTvd": "2562000211403",
-    "tikName": "Бугурусланская"
+    "tikName": "Бугурусланская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1824,
     "uikTvd": "456402292305",
+    "uikName": "УИК №1824",
     "tikTvd": "2562000211376",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1825,
     "uikTvd": "456404892679",
+    "uikName": "УИК №1825",
     "tikTvd": "2562000211399",
-    "tikName": "Кувандыкская"
+    "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1826,
     "uikTvd": "956902482288",
+    "uikName": "УИК №1826",
     "tikTvd": "2562000211391",
-    "tikName": "Оренбург, Ленинская"
+    "tikName": "Оренбург, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1827,
     "uikTvd": "456401185273",
+    "uikName": "УИК №1827",
     "tikTvd": "2562000211374",
-    "tikName": "Домбаровская"
+    "tikName": "Домбаровская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1828,
     "uikTvd": "456404590833",
+    "uikName": "УИК №1828",
     "tikTvd": "2562000211403",
-    "tikName": "Бугурусланская"
+    "tikName": "Бугурусланская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1829,
     "uikTvd": "4564027123107",
+    "uikName": "УИК №1829",
     "tikTvd": "2562000211387",
-    "tikName": "Оренбургская"
+    "tikName": "Оренбургская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1830,
     "uikTvd": "456403597267",
+    "uikName": "УИК №1830",
     "tikTvd": "2562000211397",
-    "tikName": "Саракташская"
+    "tikName": "Саракташская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1831,
     "uikTvd": "456401877149",
+    "uikName": "УИК №1831",
     "tikTvd": "2562000211382",
-    "tikName": "Медногорская городская"
+    "tikName": "Медногорская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1832,
     "uikTvd": "456401877150",
+    "uikName": "УИК №1832",
     "tikTvd": "2562000211382",
-    "tikName": "Медногорская городская"
+    "tikName": "Медногорская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1833,
     "uikTvd": "456401877151",
+    "uikName": "УИК №1833",
     "tikTvd": "2562000211382",
-    "tikName": "Медногорская городская"
+    "tikName": "Медногорская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1834,
     "uikTvd": "456401877152",
+    "uikName": "УИК №1834",
     "tikTvd": "2562000211382",
-    "tikName": "Медногорская городская"
+    "tikName": "Медногорская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1835,
     "uikTvd": "456403979093",
+    "uikName": "УИК №1835",
     "tikTvd": "2562000211393",
-    "tikName": "Сорочинская городская"
+    "tikName": "Сорочинская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1836,
     "uikTvd": "456403979094",
+    "uikName": "УИК №1836",
     "tikTvd": "2562000211393",
-    "tikName": "Сорочинская городская"
+    "tikName": "Сорочинская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1837,
     "uikTvd": "456403979095",
+    "uikName": "УИК №1837",
     "tikTvd": "2562000211393",
-    "tikName": "Сорочинская городская"
+    "tikName": "Сорочинская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1838,
     "uikTvd": "456403979096",
+    "uikName": "УИК №1838",
     "tikTvd": "2562000211393",
-    "tikName": "Сорочинская городская"
+    "tikName": "Сорочинская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1839,
     "uikTvd": "456403979097",
+    "uikName": "УИК №1839",
     "tikTvd": "2562000211393",
-    "tikName": "Сорочинская городская"
+    "tikName": "Сорочинская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1840,
     "uikTvd": "456404780449",
+    "uikName": "УИК №1840",
     "tikTvd": "2562000211404",
-    "tikName": "Гайская городская"
+    "tikName": "Гайская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1841,
     "uikTvd": "456404780450",
+    "uikName": "УИК №1841",
     "tikTvd": "2562000211404",
-    "tikName": "Гайская городская"
+    "tikName": "Гайская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1842,
     "uikTvd": "456404780451",
+    "uikName": "УИК №1842",
     "tikTvd": "2562000211404",
-    "tikName": "Гайская городская"
+    "tikName": "Гайская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1843,
     "uikTvd": "456404780452",
+    "uikName": "УИК №1843",
     "tikTvd": "2562000211404",
-    "tikName": "Гайская городская"
+    "tikName": "Гайская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1844,
     "uikTvd": "456404780453",
+    "uikName": "УИК №1844",
     "tikTvd": "2562000211404",
-    "tikName": "Гайская городская"
+    "tikName": "Гайская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1846,
     "uikTvd": "456402292306",
+    "uikName": "УИК №1846",
     "tikTvd": "2562000211376",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1847,
     "uikTvd": "456402292307",
+    "uikName": "УИК №1847",
     "tikTvd": "2562000211376",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1848,
     "uikTvd": "456402292308",
+    "uikName": "УИК №1848",
     "tikTvd": "2562000211376",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1849,
     "uikTvd": "456400877445",
+    "uikName": "УИК №1849",
     "tikTvd": "2562000211377",
-    "tikName": "Бузулукская городская"
+    "tikName": "Бузулукская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1850,
     "uikTvd": "456403692028",
+    "uikName": "УИК №1850",
     "tikTvd": "2562000211396",
-    "tikName": "Светлинская"
+    "tikName": "Светлинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   },
   {
     "uikNumber": 1852,
     "uikTvd": "456403082477",
+    "uikName": "УИК №1852",
     "tikTvd": "2562000211386",
-    "tikName": "Орск, Советская"
+    "tikName": "Орск, Советская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
+    "district": null
   }
 ] satisfies readonly UikTikRelation[];

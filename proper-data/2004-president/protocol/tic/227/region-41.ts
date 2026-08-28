@@ -11,6 +11,9 @@ export const president_2004_tic_227_region_41 = [
     "ballot": "presidential",
     "tikTvd": "241200070725",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "1001000882968",
+    "regionName": "Камчатская область",
     "uikCount": 130,
     "accounting": {
       "Число избирателей, внесенных в список": 5878,
@@ -189,6 +192,9 @@ export const president_2004_tic_227_region_41 = [
     "ballot": "presidential",
     "tikTvd": "241200070726",
     "tikName": "Усть-Камчатская",
+    "regionCode": "41",
+    "regionTvd": "1001000882968",
+    "regionName": "Камчатская область",
     "uikCount": 9,
     "accounting": {
       "Число избирателей, внесенных в список": 11325,
@@ -246,6 +252,9 @@ export const president_2004_tic_227_region_41 = [
     "ballot": "presidential",
     "tikTvd": "241200070727",
     "tikName": "Усть-Большерецкая",
+    "regionCode": "41",
+    "regionTvd": "1001000882968",
+    "regionName": "Камчатская область",
     "uikCount": 8,
     "accounting": {
       "Число избирателей, внесенных в список": 6887,
@@ -302,6 +311,9 @@ export const president_2004_tic_227_region_41 = [
     "ballot": "presidential",
     "tikTvd": "241200070728",
     "tikName": "Соболевская",
+    "regionCode": "41",
+    "regionTvd": "1001000882968",
+    "regionName": "Камчатская область",
     "uikCount": 4,
     "accounting": {
       "Число избирателей, внесенных в список": 2332,
@@ -354,6 +366,9 @@ export const president_2004_tic_227_region_41 = [
     "ballot": "presidential",
     "tikTvd": "241200070729",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "41",
+    "regionTvd": "1001000882968",
+    "regionName": "Камчатская область",
     "uikCount": 92,
     "accounting": {
       "Число избирателей, внесенных в список": 151738,
@@ -494,6 +509,9 @@ export const president_2004_tic_227_region_41 = [
     "ballot": "presidential",
     "tikTvd": "241200070730",
     "tikName": "Мильковская",
+    "regionCode": "41",
+    "regionTvd": "1001000882968",
+    "regionName": "Камчатская область",
     "uikCount": 10,
     "accounting": {
       "Число избирателей, внесенных в список": 9052,
@@ -552,6 +570,9 @@ export const president_2004_tic_227_region_41 = [
     "ballot": "presidential",
     "tikTvd": "241200070731",
     "tikName": "Елизовская",
+    "regionCode": "41",
+    "regionTvd": "1001000882968",
+    "regionName": "Камчатская область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список": 50370,
@@ -636,6 +657,9 @@ export const president_2004_tic_227_region_41 = [
     "ballot": "presidential",
     "tikTvd": "241200070732",
     "tikName": "Вилючинская городская",
+    "regionCode": "41",
+    "regionTvd": "1001000882968",
+    "regionName": "Камчатская область",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в список": 18663,
@@ -697,6 +721,9 @@ export const president_2004_tic_227_region_41 = [
     "ballot": "presidential",
     "tikTvd": "241200070733",
     "tikName": "Вулканная поселковая",
+    "regionCode": "41",
+    "regionTvd": "1001000882968",
+    "regionName": "Камчатская область",
     "uikCount": 1,
     "accounting": {
       "Число полученных открепительных удостоверений": 143,
@@ -726,6 +753,9 @@ export const president_2004_tic_227_region_41 = [
     "ballot": "presidential",
     "tikTvd": "241200070734",
     "tikName": "Алеутская",
+    "regionCode": "41",
+    "regionTvd": "1001000882968",
+    "regionName": "Камчатская область",
     "uikCount": 1,
     "accounting": {
       "Число избирателей, внесенных в список": 590,
@@ -775,6 +805,9 @@ export const president_2004_tic_227_region_41 = [
     "ballot": "presidential",
     "tikTvd": "241200070735",
     "tikName": "Быстринская",
+    "regionCode": "41",
+    "regionTvd": "1001000882968",
+    "regionName": "Камчатская область",
     "uikCount": 2,
     "accounting": {
       "Число избирателей, проголосовавших по открепительным удостоверениям": 24,

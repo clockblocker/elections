@@ -11,6 +11,14 @@ export const duma_2016_tic_464_region_31 = [
     "ballot": "single-member",
     "tikTvd": "2312000533594",
     "tikName": "Белгородская районная",
+    "regionCode": "31",
+    "regionTvd": "100100067795949",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100067795950",
+      "oikName": "Белгородская область – Белгородский"
+    },
     "uikCount": 89,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 101790,
@@ -150,6 +158,14 @@ export const duma_2016_tic_464_region_31 = [
     "ballot": "single-member",
     "tikTvd": "2312000533595",
     "tikName": "Яковлевская",
+    "regionCode": "31",
+    "regionTvd": "100100067795949",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100067795950",
+      "oikName": "Белгородская область – Белгородский"
+    },
     "uikCount": 50,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 45522,
@@ -250,6 +266,14 @@ export const duma_2016_tic_464_region_31 = [
     "ballot": "single-member",
     "tikTvd": "2312000533597",
     "tikName": "Ракитянская",
+    "regionCode": "31",
+    "regionTvd": "100100067795949",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100067795950",
+      "oikName": "Белгородская область – Белгородский"
+    },
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 26974,
@@ -333,6 +357,14 @@ export const duma_2016_tic_464_region_31 = [
     "ballot": "single-member",
     "tikTvd": "2312000533598",
     "tikName": "Прохоровская",
+    "regionCode": "31",
+    "regionTvd": "100100067795949",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100067795950",
+      "oikName": "Белгородская область – Белгородский"
+    },
     "uikCount": 48,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 22658,
@@ -431,6 +463,14 @@ export const duma_2016_tic_464_region_31 = [
     "ballot": "single-member",
     "tikTvd": "2312000533599",
     "tikName": "Краснояружская",
+    "regionCode": "31",
+    "regionTvd": "100100067795949",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100067795950",
+      "oikName": "Белгородская область – Белгородский"
+    },
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 11450,
@@ -498,6 +538,14 @@ export const duma_2016_tic_464_region_31 = [
     "ballot": "single-member",
     "tikTvd": "2312000533600",
     "tikName": "Корочанская",
+    "regionCode": "31",
+    "regionTvd": "100100067795949",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100067795950",
+      "oikName": "Белгородская область – Белгородский"
+    },
     "uikCount": 42,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 30527,
@@ -590,6 +638,14 @@ export const duma_2016_tic_464_region_31 = [
     "ballot": "single-member",
     "tikTvd": "2312000533601",
     "tikName": "Ивнянская",
+    "regionCode": "31",
+    "regionTvd": "100100067795949",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100067795950",
+      "oikName": "Белгородская область – Белгородский"
+    },
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 19074,
@@ -663,6 +719,14 @@ export const duma_2016_tic_464_region_31 = [
     "ballot": "single-member",
     "tikTvd": "2312000533602",
     "tikName": "Грайворонская",
+    "regionCode": "31",
+    "regionTvd": "100100067795949",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100067795950",
+      "oikName": "Белгородская область – Белгородский"
+    },
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 22048,
@@ -750,6 +814,14 @@ export const duma_2016_tic_464_region_31 = [
     "ballot": "single-member",
     "tikTvd": "2312000533603",
     "tikName": "Борисовская",
+    "regionCode": "31",
+    "regionTvd": "100100067795949",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100067795950",
+      "oikName": "Белгородская область – Белгородский"
+    },
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 20775,
@@ -826,6 +898,14 @@ export const duma_2016_tic_464_region_31 = [
     "ballot": "single-member",
     "tikTvd": "2312000533604",
     "tikName": "Белгородская городская",
+    "regionCode": "31",
+    "regionTvd": "100100067795949",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100067795950",
+      "oikName": "Белгородская область – Белгородский"
+    },
     "uikCount": 189,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 273681,
@@ -1065,6 +1145,14 @@ export const duma_2016_tic_464_region_31 = [
     "ballot": "single-member",
     "tikTvd": "2312000533605",
     "tikName": "Чернянская",
+    "regionCode": "31",
+    "regionTvd": "100100067795949",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100067795951",
+      "oikName": "Белгородская область – Старооскольский"
+    },
     "uikCount": 43,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 23321,
@@ -1158,6 +1246,14 @@ export const duma_2016_tic_464_region_31 = [
     "ballot": "single-member",
     "tikTvd": "2312000533606",
     "tikName": "Старооскольская",
+    "regionCode": "31",
+    "regionTvd": "100100067795949",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100067795951",
+      "oikName": "Белгородская область – Старооскольский"
+    },
     "uikCount": 139,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 208059,
@@ -1347,6 +1443,14 @@ export const duma_2016_tic_464_region_31 = [
     "ballot": "single-member",
     "tikTvd": "2312000533607",
     "tikName": "Ровеньская",
+    "regionCode": "31",
+    "regionTvd": "100100067795949",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100067795951",
+      "oikName": "Белгородская область – Старооскольский"
+    },
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 18466,
@@ -1427,6 +1531,14 @@ export const duma_2016_tic_464_region_31 = [
     "ballot": "single-member",
     "tikTvd": "2312000533608",
     "tikName": "Новооскольская",
+    "regionCode": "31",
+    "regionTvd": "100100067795949",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100067795951",
+      "oikName": "Белгородская область – Старооскольский"
+    },
     "uikCount": 47,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 34514,
@@ -1524,6 +1636,14 @@ export const duma_2016_tic_464_region_31 = [
     "ballot": "single-member",
     "tikTvd": "2312000533609",
     "tikName": "Красногвардейская",
+    "regionCode": "31",
+    "regionTvd": "100100067795949",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100067795951",
+      "oikName": "Белгородская область – Старооскольский"
+    },
     "uikCount": 52,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 30586,
@@ -1626,6 +1746,14 @@ export const duma_2016_tic_464_region_31 = [
     "ballot": "single-member",
     "tikTvd": "2312000533610",
     "tikName": "Красненская",
+    "regionCode": "31",
+    "regionTvd": "100100067795949",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100067795951",
+      "oikName": "Белгородская область – Старооскольский"
+    },
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 10184,
@@ -1699,6 +1827,14 @@ export const duma_2016_tic_464_region_31 = [
     "ballot": "single-member",
     "tikTvd": "2312000533611",
     "tikName": "Губкинская",
+    "regionCode": "31",
+    "regionTvd": "100100067795949",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100067795951",
+      "oikName": "Белгородская область – Старооскольский"
+    },
     "uikCount": 93,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 83590,
@@ -1842,6 +1978,14 @@ export const duma_2016_tic_464_region_31 = [
     "ballot": "single-member",
     "tikTvd": "2312000533612",
     "tikName": "Волоконовская",
+    "regionCode": "31",
+    "regionTvd": "100100067795949",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100067795951",
+      "oikName": "Белгородская область – Старооскольский"
+    },
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 26302,
@@ -1929,6 +2073,14 @@ export const duma_2016_tic_464_region_31 = [
     "ballot": "single-member",
     "tikTvd": "2312000533613",
     "tikName": "Вейделевская",
+    "regionCode": "31",
+    "regionTvd": "100100067795949",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100067795951",
+      "oikName": "Белгородская область – Старооскольский"
+    },
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 17575,
@@ -2012,6 +2164,14 @@ export const duma_2016_tic_464_region_31 = [
     "ballot": "single-member",
     "tikTvd": "2312000533614",
     "tikName": "Валуйская",
+    "regionCode": "31",
+    "regionTvd": "100100067795949",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100067795951",
+      "oikName": "Белгородская область – Старооскольский"
+    },
     "uikCount": 69,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 54747,
@@ -2131,6 +2291,14 @@ export const duma_2016_tic_464_region_31 = [
     "ballot": "single-member",
     "tikTvd": "2312000533615",
     "tikName": "Алексеевская",
+    "regionCode": "31",
+    "regionTvd": "100100067795949",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100067795951",
+      "oikName": "Белгородская область – Старооскольский"
+    },
     "uikCount": 54,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 51443,
@@ -2235,6 +2403,14 @@ export const duma_2016_tic_464_region_31 = [
     "ballot": "single-member",
     "tikTvd": "2312000538624",
     "tikName": "Шебекинская",
+    "regionCode": "31",
+    "regionTvd": "100100067795949",
+    "regionName": "Белгородская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100067795951",
+      "oikName": "Белгородская область – Старооскольский"
+    },
     "uikCount": 77,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 70188,

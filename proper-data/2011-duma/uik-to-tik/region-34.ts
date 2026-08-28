@@ -7,9907 +7,18162 @@ export const duma_2011_uik_to_tik_region_34 = [
   {
     "uikNumber": 1,
     "uikTvd": "4344011123449",
+    "uikName": "УИК №1",
     "tikTvd": "2342000459632",
-    "tikName": "Волжская городская "
+    "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2,
     "uikTvd": "4344011123450",
+    "uikName": "УИК №2",
     "tikTvd": "2342000459632",
-    "tikName": "Волжская городская "
+    "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3,
     "uikTvd": "4344011127822",
+    "uikName": "УИК №3",
     "tikTvd": "2342000459632",
-    "tikName": "Волжская городская "
+    "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 101,
     "uikTvd": "4344001142014",
+    "uikName": "УИК №101",
     "tikTvd": "2342000459661",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 102,
     "uikTvd": "4344001142015",
+    "uikName": "УИК №102",
     "tikTvd": "2342000459661",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 103,
     "uikTvd": "4344001142016",
+    "uikName": "УИК №103",
     "tikTvd": "2342000459661",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 104,
     "uikTvd": "4344001142017",
+    "uikName": "УИК №104",
     "tikTvd": "2342000459661",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 105,
     "uikTvd": "4344001142018",
+    "uikName": "УИК №105",
     "tikTvd": "2342000459661",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 106,
     "uikTvd": "4344001142019",
+    "uikName": "УИК №106",
     "tikTvd": "2342000459661",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 107,
     "uikTvd": "4344001142020",
+    "uikName": "УИК №107",
     "tikTvd": "2342000459661",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 108,
     "uikTvd": "4344001142021",
+    "uikName": "УИК №108",
     "tikTvd": "2342000459661",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 109,
     "uikTvd": "4344001142022",
+    "uikName": "УИК №109",
     "tikTvd": "2342000459661",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 110,
     "uikTvd": "4344001142023",
+    "uikName": "УИК №110",
     "tikTvd": "2342000459661",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 111,
     "uikTvd": "4344001142024",
+    "uikName": "УИК №111",
     "tikTvd": "2342000459661",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 112,
     "uikTvd": "4344001142025",
+    "uikName": "УИК №112",
     "tikTvd": "2342000459661",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 113,
     "uikTvd": "4344001142026",
+    "uikName": "УИК №113",
     "tikTvd": "2342000459661",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 114,
     "uikTvd": "4344001142027",
+    "uikName": "УИК №114",
     "tikTvd": "2342000459661",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 115,
     "uikTvd": "4344001142028",
+    "uikName": "УИК №115",
     "tikTvd": "2342000459661",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 116,
     "uikTvd": "4344001142029",
+    "uikName": "УИК №116",
     "tikTvd": "2342000459661",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 117,
     "uikTvd": "4344001142030",
+    "uikName": "УИК №117",
     "tikTvd": "2342000459661",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 118,
     "uikTvd": "4344001142031",
+    "uikName": "УИК №118",
     "tikTvd": "2342000459661",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 119,
     "uikTvd": "4344001142032",
+    "uikName": "УИК №119",
     "tikTvd": "2342000459661",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 120,
     "uikTvd": "4344001142033",
+    "uikName": "УИК №120",
     "tikTvd": "2342000459661",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 201,
     "uikTvd": "4344002131977",
+    "uikName": "УИК №201",
     "tikTvd": "2342000459634",
-    "tikName": "Быковская"
+    "tikName": "Быковская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 202,
     "uikTvd": "4344002131978",
+    "uikName": "УИК №202",
     "tikTvd": "2342000459634",
-    "tikName": "Быковская"
+    "tikName": "Быковская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 203,
     "uikTvd": "4344002131979",
+    "uikName": "УИК №203",
     "tikTvd": "2342000459634",
-    "tikName": "Быковская"
+    "tikName": "Быковская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 204,
     "uikTvd": "4344002131980",
+    "uikName": "УИК №204",
     "tikTvd": "2342000459634",
-    "tikName": "Быковская"
+    "tikName": "Быковская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 205,
     "uikTvd": "4344002131981",
+    "uikName": "УИК №205",
     "tikTvd": "2342000459634",
-    "tikName": "Быковская"
+    "tikName": "Быковская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 206,
     "uikTvd": "4344002131982",
+    "uikName": "УИК №206",
     "tikTvd": "2342000459634",
-    "tikName": "Быковская"
+    "tikName": "Быковская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 207,
     "uikTvd": "4344002131983",
+    "uikName": "УИК №207",
     "tikTvd": "2342000459634",
-    "tikName": "Быковская"
+    "tikName": "Быковская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 208,
     "uikTvd": "4344002131984",
+    "uikName": "УИК №208",
     "tikTvd": "2342000459634",
-    "tikName": "Быковская"
+    "tikName": "Быковская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 209,
     "uikTvd": "4344002131985",
+    "uikName": "УИК №209",
     "tikTvd": "2342000459634",
-    "tikName": "Быковская"
+    "tikName": "Быковская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 210,
     "uikTvd": "4344002131986",
+    "uikName": "УИК №210",
     "tikTvd": "2342000459634",
-    "tikName": "Быковская"
+    "tikName": "Быковская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 211,
     "uikTvd": "4344002131987",
+    "uikName": "УИК №211",
     "tikTvd": "2342000459634",
-    "tikName": "Быковская"
+    "tikName": "Быковская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 212,
     "uikTvd": "4344002131988",
+    "uikName": "УИК №212",
     "tikTvd": "2342000459634",
-    "tikName": "Быковская"
+    "tikName": "Быковская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 213,
     "uikTvd": "4344002131989",
+    "uikName": "УИК №213",
     "tikTvd": "2342000459634",
-    "tikName": "Быковская"
+    "tikName": "Быковская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 214,
     "uikTvd": "4344002131990",
+    "uikName": "УИК №214",
     "tikTvd": "2342000459634",
-    "tikName": "Быковская"
+    "tikName": "Быковская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 215,
     "uikTvd": "4344002131991",
+    "uikName": "УИК №215",
     "tikTvd": "2342000459634",
-    "tikName": "Быковская"
+    "tikName": "Быковская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 216,
     "uikTvd": "4344002131992",
+    "uikName": "УИК №216",
     "tikTvd": "2342000459634",
-    "tikName": "Быковская"
+    "tikName": "Быковская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 217,
     "uikTvd": "4344002131993",
+    "uikName": "УИК №217",
     "tikTvd": "2342000459634",
-    "tikName": "Быковская"
+    "tikName": "Быковская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 218,
     "uikTvd": "4344002131994",
+    "uikName": "УИК №218",
     "tikTvd": "2342000459634",
-    "tikName": "Быковская"
+    "tikName": "Быковская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 219,
     "uikTvd": "4344002131995",
+    "uikName": "УИК №219",
     "tikTvd": "2342000459634",
-    "tikName": "Быковская"
+    "tikName": "Быковская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 220,
     "uikTvd": "4344002131996",
+    "uikName": "УИК №220",
     "tikTvd": "2342000459634",
-    "tikName": "Быковская"
+    "tikName": "Быковская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 221,
     "uikTvd": "4344002131997",
+    "uikName": "УИК №221",
     "tikTvd": "2342000459634",
-    "tikName": "Быковская"
+    "tikName": "Быковская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 222,
     "uikTvd": "4344002131998",
+    "uikName": "УИК №222",
     "tikTvd": "2342000459634",
-    "tikName": "Быковская"
+    "tikName": "Быковская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 301,
     "uikTvd": "434400389321",
+    "uikName": "УИК №301",
     "tikTvd": "2342000459622",
-    "tikName": "Волгоград, Ворошиловская"
+    "tikName": "Волгоград, Ворошиловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 302,
     "uikTvd": "434400389322",
+    "uikName": "УИК №302",
     "tikTvd": "2342000459622",
-    "tikName": "Волгоград, Ворошиловская"
+    "tikName": "Волгоград, Ворошиловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 303,
     "uikTvd": "434400389323",
+    "uikName": "УИК №303",
     "tikTvd": "2342000459622",
-    "tikName": "Волгоград, Ворошиловская"
+    "tikName": "Волгоград, Ворошиловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 304,
     "uikTvd": "434400389324",
+    "uikName": "УИК №304",
     "tikTvd": "2342000459622",
-    "tikName": "Волгоград, Ворошиловская"
+    "tikName": "Волгоград, Ворошиловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 305,
     "uikTvd": "434400389325",
+    "uikName": "УИК №305",
     "tikTvd": "2342000459622",
-    "tikName": "Волгоград, Ворошиловская"
+    "tikName": "Волгоград, Ворошиловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 306,
     "uikTvd": "434400389326",
+    "uikName": "УИК №306",
     "tikTvd": "2342000459622",
-    "tikName": "Волгоград, Ворошиловская"
+    "tikName": "Волгоград, Ворошиловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 307,
     "uikTvd": "434400389327",
+    "uikName": "УИК №307",
     "tikTvd": "2342000459622",
-    "tikName": "Волгоград, Ворошиловская"
+    "tikName": "Волгоград, Ворошиловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 308,
     "uikTvd": "434400389328",
+    "uikName": "УИК №308",
     "tikTvd": "2342000459622",
-    "tikName": "Волгоград, Ворошиловская"
+    "tikName": "Волгоград, Ворошиловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 309,
     "uikTvd": "434400389329",
+    "uikName": "УИК №309",
     "tikTvd": "2342000459622",
-    "tikName": "Волгоград, Ворошиловская"
+    "tikName": "Волгоград, Ворошиловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 310,
     "uikTvd": "434400389330",
+    "uikName": "УИК №310",
     "tikTvd": "2342000459622",
-    "tikName": "Волгоград, Ворошиловская"
+    "tikName": "Волгоград, Ворошиловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 311,
     "uikTvd": "434400389331",
+    "uikName": "УИК №311",
     "tikTvd": "2342000459622",
-    "tikName": "Волгоград, Ворошиловская"
+    "tikName": "Волгоград, Ворошиловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 312,
     "uikTvd": "434400389332",
+    "uikName": "УИК №312",
     "tikTvd": "2342000459622",
-    "tikName": "Волгоград, Ворошиловская"
+    "tikName": "Волгоград, Ворошиловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 313,
     "uikTvd": "434400389333",
+    "uikName": "УИК №313",
     "tikTvd": "2342000459622",
-    "tikName": "Волгоград, Ворошиловская"
+    "tikName": "Волгоград, Ворошиловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 314,
     "uikTvd": "434400389334",
+    "uikName": "УИК №314",
     "tikTvd": "2342000459622",
-    "tikName": "Волгоград, Ворошиловская"
+    "tikName": "Волгоград, Ворошиловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 315,
     "uikTvd": "434400389335",
+    "uikName": "УИК №315",
     "tikTvd": "2342000459622",
-    "tikName": "Волгоград, Ворошиловская"
+    "tikName": "Волгоград, Ворошиловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 316,
     "uikTvd": "434400389336",
+    "uikName": "УИК №316",
     "tikTvd": "2342000459622",
-    "tikName": "Волгоград, Ворошиловская"
+    "tikName": "Волгоград, Ворошиловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 317,
     "uikTvd": "434400389337",
+    "uikName": "УИК №317",
     "tikTvd": "2342000459622",
-    "tikName": "Волгоград, Ворошиловская"
+    "tikName": "Волгоград, Ворошиловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 318,
     "uikTvd": "434400389338",
+    "uikName": "УИК №318",
     "tikTvd": "2342000459622",
-    "tikName": "Волгоград, Ворошиловская"
+    "tikName": "Волгоград, Ворошиловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 319,
     "uikTvd": "434400389339",
+    "uikName": "УИК №319",
     "tikTvd": "2342000459622",
-    "tikName": "Волгоград, Ворошиловская"
+    "tikName": "Волгоград, Ворошиловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 320,
     "uikTvd": "434400389340",
+    "uikName": "УИК №320",
     "tikTvd": "2342000459622",
-    "tikName": "Волгоград, Ворошиловская"
+    "tikName": "Волгоград, Ворошиловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 321,
     "uikTvd": "434400389341",
+    "uikName": "УИК №321",
     "tikTvd": "2342000459622",
-    "tikName": "Волгоград, Ворошиловская"
+    "tikName": "Волгоград, Ворошиловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 322,
     "uikTvd": "434400389342",
+    "uikName": "УИК №322",
     "tikTvd": "2342000459622",
-    "tikName": "Волгоград, Ворошиловская"
+    "tikName": "Волгоград, Ворошиловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 323,
     "uikTvd": "434400389343",
+    "uikName": "УИК №323",
     "tikTvd": "2342000459622",
-    "tikName": "Волгоград, Ворошиловская"
+    "tikName": "Волгоград, Ворошиловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 324,
     "uikTvd": "434400389344",
+    "uikName": "УИК №324",
     "tikTvd": "2342000459622",
-    "tikName": "Волгоград, Ворошиловская"
+    "tikName": "Волгоград, Ворошиловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 325,
     "uikTvd": "434400389345",
+    "uikName": "УИК №325",
     "tikTvd": "2342000459622",
-    "tikName": "Волгоград, Ворошиловская"
+    "tikName": "Волгоград, Ворошиловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 326,
     "uikTvd": "434400389346",
+    "uikName": "УИК №326",
     "tikTvd": "2342000459622",
-    "tikName": "Волгоград, Ворошиловская"
+    "tikName": "Волгоград, Ворошиловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 327,
     "uikTvd": "434400389347",
+    "uikName": "УИК №327",
     "tikTvd": "2342000459622",
-    "tikName": "Волгоград, Ворошиловская"
+    "tikName": "Волгоград, Ворошиловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 328,
     "uikTvd": "434400389348",
+    "uikName": "УИК №328",
     "tikTvd": "2342000459622",
-    "tikName": "Волгоград, Ворошиловская"
+    "tikName": "Волгоград, Ворошиловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 329,
     "uikTvd": "434400389349",
+    "uikName": "УИК №329",
     "tikTvd": "2342000459622",
-    "tikName": "Волгоград, Ворошиловская"
+    "tikName": "Волгоград, Ворошиловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 330,
     "uikTvd": "434400389350",
+    "uikName": "УИК №330",
     "tikTvd": "2342000459622",
-    "tikName": "Волгоград, Ворошиловская"
+    "tikName": "Волгоград, Ворошиловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 331,
     "uikTvd": "434400389351",
+    "uikName": "УИК №331",
     "tikTvd": "2342000459622",
-    "tikName": "Волгоград, Ворошиловская"
+    "tikName": "Волгоград, Ворошиловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 332,
     "uikTvd": "434400389352",
+    "uikName": "УИК №332",
     "tikTvd": "2342000459622",
-    "tikName": "Волгоград, Ворошиловская"
+    "tikName": "Волгоград, Ворошиловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 333,
     "uikTvd": "434400389353",
+    "uikName": "УИК №333",
     "tikTvd": "2342000459622",
-    "tikName": "Волгоград, Ворошиловская"
+    "tikName": "Волгоград, Ворошиловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 401,
     "uikTvd": "4344004100563",
+    "uikName": "УИК №401",
     "tikTvd": "2342000459621",
-    "tikName": "Волгоград, Дзержинская"
+    "tikName": "Волгоград, Дзержинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 402,
     "uikTvd": "4344004100564",
+    "uikName": "УИК №402",
     "tikTvd": "2342000459621",
-    "tikName": "Волгоград, Дзержинская"
+    "tikName": "Волгоград, Дзержинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 403,
     "uikTvd": "4344004100565",
+    "uikName": "УИК №403",
     "tikTvd": "2342000459621",
-    "tikName": "Волгоград, Дзержинская"
+    "tikName": "Волгоград, Дзержинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 404,
     "uikTvd": "4344004100566",
+    "uikName": "УИК №404",
     "tikTvd": "2342000459621",
-    "tikName": "Волгоград, Дзержинская"
+    "tikName": "Волгоград, Дзержинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 405,
     "uikTvd": "4344004100567",
+    "uikName": "УИК №405",
     "tikTvd": "2342000459621",
-    "tikName": "Волгоград, Дзержинская"
+    "tikName": "Волгоград, Дзержинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 406,
     "uikTvd": "4344004100568",
+    "uikName": "УИК №406",
     "tikTvd": "2342000459621",
-    "tikName": "Волгоград, Дзержинская"
+    "tikName": "Волгоград, Дзержинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 407,
     "uikTvd": "4344004100569",
+    "uikName": "УИК №407",
     "tikTvd": "2342000459621",
-    "tikName": "Волгоград, Дзержинская"
+    "tikName": "Волгоград, Дзержинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 408,
     "uikTvd": "4344004100570",
+    "uikName": "УИК №408",
     "tikTvd": "2342000459621",
-    "tikName": "Волгоград, Дзержинская"
+    "tikName": "Волгоград, Дзержинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 409,
     "uikTvd": "4344004100571",
+    "uikName": "УИК №409",
     "tikTvd": "2342000459621",
-    "tikName": "Волгоград, Дзержинская"
+    "tikName": "Волгоград, Дзержинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 410,
     "uikTvd": "4344004100572",
+    "uikName": "УИК №410",
     "tikTvd": "2342000459621",
-    "tikName": "Волгоград, Дзержинская"
+    "tikName": "Волгоград, Дзержинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 411,
     "uikTvd": "4344004100573",
+    "uikName": "УИК №411",
     "tikTvd": "2342000459621",
-    "tikName": "Волгоград, Дзержинская"
+    "tikName": "Волгоград, Дзержинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 412,
     "uikTvd": "4344004100574",
+    "uikName": "УИК №412",
     "tikTvd": "2342000459621",
-    "tikName": "Волгоград, Дзержинская"
+    "tikName": "Волгоград, Дзержинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 413,
     "uikTvd": "4344004100575",
+    "uikName": "УИК №413",
     "tikTvd": "2342000459621",
-    "tikName": "Волгоград, Дзержинская"
+    "tikName": "Волгоград, Дзержинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 414,
     "uikTvd": "4344004100576",
+    "uikName": "УИК №414",
     "tikTvd": "2342000459621",
-    "tikName": "Волгоград, Дзержинская"
+    "tikName": "Волгоград, Дзержинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 415,
     "uikTvd": "4344004100577",
+    "uikName": "УИК №415",
     "tikTvd": "2342000459621",
-    "tikName": "Волгоград, Дзержинская"
+    "tikName": "Волгоград, Дзержинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 416,
     "uikTvd": "4344004100578",
+    "uikName": "УИК №416",
     "tikTvd": "2342000459621",
-    "tikName": "Волгоград, Дзержинская"
+    "tikName": "Волгоград, Дзержинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 417,
     "uikTvd": "4344004100579",
+    "uikName": "УИК №417",
     "tikTvd": "2342000459621",
-    "tikName": "Волгоград, Дзержинская"
+    "tikName": "Волгоград, Дзержинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 418,
     "uikTvd": "4344004100580",
+    "uikName": "УИК №418",
     "tikTvd": "2342000459621",
-    "tikName": "Волгоград, Дзержинская"
+    "tikName": "Волгоград, Дзержинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 419,
     "uikTvd": "4344004100581",
+    "uikName": "УИК №419",
     "tikTvd": "2342000459621",
-    "tikName": "Волгоград, Дзержинская"
+    "tikName": "Волгоград, Дзержинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 420,
     "uikTvd": "4344004100582",
+    "uikName": "УИК №420",
     "tikTvd": "2342000459621",
-    "tikName": "Волгоград, Дзержинская"
+    "tikName": "Волгоград, Дзержинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 421,
     "uikTvd": "4344004100583",
+    "uikName": "УИК №421",
     "tikTvd": "2342000459621",
-    "tikName": "Волгоград, Дзержинская"
+    "tikName": "Волгоград, Дзержинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 422,
     "uikTvd": "4344004100584",
+    "uikName": "УИК №422",
     "tikTvd": "2342000459621",
-    "tikName": "Волгоград, Дзержинская"
+    "tikName": "Волгоград, Дзержинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 423,
     "uikTvd": "4344004100585",
+    "uikName": "УИК №423",
     "tikTvd": "2342000459621",
-    "tikName": "Волгоград, Дзержинская"
+    "tikName": "Волгоград, Дзержинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 424,
     "uikTvd": "4344004100586",
+    "uikName": "УИК №424",
     "tikTvd": "2342000459621",
-    "tikName": "Волгоград, Дзержинская"
+    "tikName": "Волгоград, Дзержинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 425,
     "uikTvd": "4344004100587",
+    "uikName": "УИК №425",
     "tikTvd": "2342000459621",
-    "tikName": "Волгоград, Дзержинская"
+    "tikName": "Волгоград, Дзержинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 426,
     "uikTvd": "4344004100588",
+    "uikName": "УИК №426",
     "tikTvd": "2342000459621",
-    "tikName": "Волгоград, Дзержинская"
+    "tikName": "Волгоград, Дзержинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 427,
     "uikTvd": "4344004100589",
+    "uikName": "УИК №427",
     "tikTvd": "2342000459621",
-    "tikName": "Волгоград, Дзержинская"
+    "tikName": "Волгоград, Дзержинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 428,
     "uikTvd": "4344004100590",
+    "uikName": "УИК №428",
     "tikTvd": "2342000459621",
-    "tikName": "Волгоград, Дзержинская"
+    "tikName": "Волгоград, Дзержинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 429,
     "uikTvd": "4344004100591",
+    "uikName": "УИК №429",
     "tikTvd": "2342000459621",
-    "tikName": "Волгоград, Дзержинская"
+    "tikName": "Волгоград, Дзержинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 430,
     "uikTvd": "4344004100592",
+    "uikName": "УИК №430",
     "tikTvd": "2342000459621",
-    "tikName": "Волгоград, Дзержинская"
+    "tikName": "Волгоград, Дзержинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 431,
     "uikTvd": "4344004100593",
+    "uikName": "УИК №431",
     "tikTvd": "2342000459621",
-    "tikName": "Волгоград, Дзержинская"
+    "tikName": "Волгоград, Дзержинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 432,
     "uikTvd": "4344004100594",
+    "uikName": "УИК №432",
     "tikTvd": "2342000459621",
-    "tikName": "Волгоград, Дзержинская"
+    "tikName": "Волгоград, Дзержинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 433,
     "uikTvd": "4344004100595",
+    "uikName": "УИК №433",
     "tikTvd": "2342000459621",
-    "tikName": "Волгоград, Дзержинская"
+    "tikName": "Волгоград, Дзержинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 434,
     "uikTvd": "4344004100596",
+    "uikName": "УИК №434",
     "tikTvd": "2342000459621",
-    "tikName": "Волгоград, Дзержинская"
+    "tikName": "Волгоград, Дзержинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 435,
     "uikTvd": "4344004100597",
+    "uikName": "УИК №435",
     "tikTvd": "2342000459621",
-    "tikName": "Волгоград, Дзержинская"
+    "tikName": "Волгоград, Дзержинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 436,
     "uikTvd": "4344004100598",
+    "uikName": "УИК №436",
     "tikTvd": "2342000459621",
-    "tikName": "Волгоград, Дзержинская"
+    "tikName": "Волгоград, Дзержинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 437,
     "uikTvd": "4344004100599",
+    "uikName": "УИК №437",
     "tikTvd": "2342000459621",
-    "tikName": "Волгоград, Дзержинская"
+    "tikName": "Волгоград, Дзержинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 438,
     "uikTvd": "4344004100600",
+    "uikName": "УИК №438",
     "tikTvd": "2342000459621",
-    "tikName": "Волгоград, Дзержинская"
+    "tikName": "Волгоград, Дзержинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 439,
     "uikTvd": "4344004100601",
+    "uikName": "УИК №439",
     "tikTvd": "2342000459621",
-    "tikName": "Волгоград, Дзержинская"
+    "tikName": "Волгоград, Дзержинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 440,
     "uikTvd": "4344004100602",
+    "uikName": "УИК №440",
     "tikTvd": "2342000459621",
-    "tikName": "Волгоград, Дзержинская"
+    "tikName": "Волгоград, Дзержинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 441,
     "uikTvd": "4344004100603",
+    "uikName": "УИК №441",
     "tikTvd": "2342000459621",
-    "tikName": "Волгоград, Дзержинская"
+    "tikName": "Волгоград, Дзержинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 442,
     "uikTvd": "4344004100604",
+    "uikName": "УИК №442",
     "tikTvd": "2342000459621",
-    "tikName": "Волгоград, Дзержинская"
+    "tikName": "Волгоград, Дзержинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 443,
     "uikTvd": "4344004100605",
+    "uikName": "УИК №443",
     "tikTvd": "2342000459621",
-    "tikName": "Волгоград, Дзержинская"
+    "tikName": "Волгоград, Дзержинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 444,
     "uikTvd": "4344004100606",
+    "uikName": "УИК №444",
     "tikTvd": "2342000459621",
-    "tikName": "Волгоград, Дзержинская"
+    "tikName": "Волгоград, Дзержинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 445,
     "uikTvd": "4344004100607",
+    "uikName": "УИК №445",
     "tikTvd": "2342000459621",
-    "tikName": "Волгоград, Дзержинская"
+    "tikName": "Волгоград, Дзержинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 446,
     "uikTvd": "4344004100608",
+    "uikName": "УИК №446",
     "tikTvd": "2342000459621",
-    "tikName": "Волгоград, Дзержинская"
+    "tikName": "Волгоград, Дзержинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 447,
     "uikTvd": "4344004100609",
+    "uikName": "УИК №447",
     "tikTvd": "2342000459621",
-    "tikName": "Волгоград, Дзержинская"
+    "tikName": "Волгоград, Дзержинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 448,
     "uikTvd": "4344004100610",
+    "uikName": "УИК №448",
     "tikTvd": "2342000459621",
-    "tikName": "Волгоград, Дзержинская"
+    "tikName": "Волгоград, Дзержинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 449,
     "uikTvd": "4344004100611",
+    "uikName": "УИК №449",
     "tikTvd": "2342000459621",
-    "tikName": "Волгоград, Дзержинская"
+    "tikName": "Волгоград, Дзержинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 450,
     "uikTvd": "4344004100612",
+    "uikName": "УИК №450",
     "tikTvd": "2342000459621",
-    "tikName": "Волгоград, Дзержинская"
+    "tikName": "Волгоград, Дзержинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 451,
     "uikTvd": "4344004100613",
+    "uikName": "УИК №451",
     "tikTvd": "2342000459621",
-    "tikName": "Волгоград, Дзержинская"
+    "tikName": "Волгоград, Дзержинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 452,
     "uikTvd": "4344004100614",
+    "uikName": "УИК №452",
     "tikTvd": "2342000459621",
-    "tikName": "Волгоград, Дзержинская"
+    "tikName": "Волгоград, Дзержинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 453,
     "uikTvd": "4344004100615",
+    "uikName": "УИК №453",
     "tikTvd": "2342000459621",
-    "tikName": "Волгоград, Дзержинская"
+    "tikName": "Волгоград, Дзержинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 454,
     "uikTvd": "4344004100616",
+    "uikName": "УИК №454",
     "tikTvd": "2342000459621",
-    "tikName": "Волгоград, Дзержинская"
+    "tikName": "Волгоград, Дзержинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 455,
     "uikTvd": "4344004100617",
+    "uikName": "УИК №455",
     "tikTvd": "2342000459621",
-    "tikName": "Волгоград, Дзержинская"
+    "tikName": "Волгоград, Дзержинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 456,
     "uikTvd": "4344004100618",
+    "uikName": "УИК №456",
     "tikTvd": "2342000459621",
-    "tikName": "Волгоград, Дзержинская"
+    "tikName": "Волгоград, Дзержинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 457,
     "uikTvd": "4344004100619",
+    "uikName": "УИК №457",
     "tikTvd": "2342000459621",
-    "tikName": "Волгоград, Дзержинская"
+    "tikName": "Волгоград, Дзержинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 458,
     "uikTvd": "4344004100620",
+    "uikName": "УИК №458",
     "tikTvd": "2342000459621",
-    "tikName": "Волгоград, Дзержинская"
+    "tikName": "Волгоград, Дзержинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 459,
     "uikTvd": "4344004100621",
+    "uikName": "УИК №459",
     "tikTvd": "2342000459621",
-    "tikName": "Волгоград, Дзержинская"
+    "tikName": "Волгоград, Дзержинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 460,
     "uikTvd": "4344004100622",
+    "uikName": "УИК №460",
     "tikTvd": "2342000459621",
-    "tikName": "Волгоград, Дзержинская"
+    "tikName": "Волгоград, Дзержинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 461,
     "uikTvd": "4344004100623",
+    "uikName": "УИК №461",
     "tikTvd": "2342000459621",
-    "tikName": "Волгоград, Дзержинская"
+    "tikName": "Волгоград, Дзержинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 462,
     "uikTvd": "4344004100624",
+    "uikName": "УИК №462",
     "tikTvd": "2342000459621",
-    "tikName": "Волгоград, Дзержинская"
+    "tikName": "Волгоград, Дзержинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 463,
     "uikTvd": "4344004100625",
+    "uikName": "УИК №463",
     "tikTvd": "2342000459621",
-    "tikName": "Волгоград, Дзержинская"
+    "tikName": "Волгоград, Дзержинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 464,
     "uikTvd": "4344004100626",
+    "uikName": "УИК №464",
     "tikTvd": "2342000459621",
-    "tikName": "Волгоград, Дзержинская"
+    "tikName": "Волгоград, Дзержинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 465,
     "uikTvd": "4344004100627",
+    "uikName": "УИК №465",
     "tikTvd": "2342000459621",
-    "tikName": "Волгоград, Дзержинская"
+    "tikName": "Волгоград, Дзержинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 501,
     "uikTvd": "434400591691",
+    "uikName": "УИК №501",
     "tikTvd": "2342000459620",
-    "tikName": "Волгоград, Кировская"
+    "tikName": "Волгоград, Кировская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 502,
     "uikTvd": "434400591692",
+    "uikName": "УИК №502",
     "tikTvd": "2342000459620",
-    "tikName": "Волгоград, Кировская"
+    "tikName": "Волгоград, Кировская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 503,
     "uikTvd": "434400591693",
+    "uikName": "УИК №503",
     "tikTvd": "2342000459620",
-    "tikName": "Волгоград, Кировская"
+    "tikName": "Волгоград, Кировская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 504,
     "uikTvd": "434400591694",
+    "uikName": "УИК №504",
     "tikTvd": "2342000459620",
-    "tikName": "Волгоград, Кировская"
+    "tikName": "Волгоград, Кировская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 505,
     "uikTvd": "434400591695",
+    "uikName": "УИК №505",
     "tikTvd": "2342000459620",
-    "tikName": "Волгоград, Кировская"
+    "tikName": "Волгоград, Кировская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 506,
     "uikTvd": "434400591696",
+    "uikName": "УИК №506",
     "tikTvd": "2342000459620",
-    "tikName": "Волгоград, Кировская"
+    "tikName": "Волгоград, Кировская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 507,
     "uikTvd": "434400591697",
+    "uikName": "УИК №507",
     "tikTvd": "2342000459620",
-    "tikName": "Волгоград, Кировская"
+    "tikName": "Волгоград, Кировская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 508,
     "uikTvd": "434400591698",
+    "uikName": "УИК №508",
     "tikTvd": "2342000459620",
-    "tikName": "Волгоград, Кировская"
+    "tikName": "Волгоград, Кировская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 509,
     "uikTvd": "434400591699",
+    "uikName": "УИК №509",
     "tikTvd": "2342000459620",
-    "tikName": "Волгоград, Кировская"
+    "tikName": "Волгоград, Кировская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 510,
     "uikTvd": "434400591700",
+    "uikName": "УИК №510",
     "tikTvd": "2342000459620",
-    "tikName": "Волгоград, Кировская"
+    "tikName": "Волгоград, Кировская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 511,
     "uikTvd": "434400591701",
+    "uikName": "УИК №511",
     "tikTvd": "2342000459620",
-    "tikName": "Волгоград, Кировская"
+    "tikName": "Волгоград, Кировская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 512,
     "uikTvd": "434400591702",
+    "uikName": "УИК №512",
     "tikTvd": "2342000459620",
-    "tikName": "Волгоград, Кировская"
+    "tikName": "Волгоград, Кировская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 513,
     "uikTvd": "434400591703",
+    "uikName": "УИК №513",
     "tikTvd": "2342000459620",
-    "tikName": "Волгоград, Кировская"
+    "tikName": "Волгоград, Кировская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 514,
     "uikTvd": "434400591704",
+    "uikName": "УИК №514",
     "tikTvd": "2342000459620",
-    "tikName": "Волгоград, Кировская"
+    "tikName": "Волгоград, Кировская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 515,
     "uikTvd": "434400591705",
+    "uikName": "УИК №515",
     "tikTvd": "2342000459620",
-    "tikName": "Волгоград, Кировская"
+    "tikName": "Волгоград, Кировская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 516,
     "uikTvd": "434400591706",
+    "uikName": "УИК №516",
     "tikTvd": "2342000459620",
-    "tikName": "Волгоград, Кировская"
+    "tikName": "Волгоград, Кировская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 517,
     "uikTvd": "434400591707",
+    "uikName": "УИК №517",
     "tikTvd": "2342000459620",
-    "tikName": "Волгоград, Кировская"
+    "tikName": "Волгоград, Кировская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 518,
     "uikTvd": "434400591708",
+    "uikName": "УИК №518",
     "tikTvd": "2342000459620",
-    "tikName": "Волгоград, Кировская"
+    "tikName": "Волгоград, Кировская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 519,
     "uikTvd": "434400591709",
+    "uikName": "УИК №519",
     "tikTvd": "2342000459620",
-    "tikName": "Волгоград, Кировская"
+    "tikName": "Волгоград, Кировская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 520,
     "uikTvd": "434400591710",
+    "uikName": "УИК №520",
     "tikTvd": "2342000459620",
-    "tikName": "Волгоград, Кировская"
+    "tikName": "Волгоград, Кировская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 521,
     "uikTvd": "434400591711",
+    "uikName": "УИК №521",
     "tikTvd": "2342000459620",
-    "tikName": "Волгоград, Кировская"
+    "tikName": "Волгоград, Кировская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 522,
     "uikTvd": "434400591712",
+    "uikName": "УИК №522",
     "tikTvd": "2342000459620",
-    "tikName": "Волгоград, Кировская"
+    "tikName": "Волгоград, Кировская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 523,
     "uikTvd": "434400591713",
+    "uikName": "УИК №523",
     "tikTvd": "2342000459620",
-    "tikName": "Волгоград, Кировская"
+    "tikName": "Волгоград, Кировская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 524,
     "uikTvd": "434400591714",
+    "uikName": "УИК №524",
     "tikTvd": "2342000459620",
-    "tikName": "Волгоград, Кировская"
+    "tikName": "Волгоград, Кировская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 525,
     "uikTvd": "434400591715",
+    "uikName": "УИК №525",
     "tikTvd": "2342000459620",
-    "tikName": "Волгоград, Кировская"
+    "tikName": "Волгоград, Кировская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 526,
     "uikTvd": "434400591716",
+    "uikName": "УИК №526",
     "tikTvd": "2342000459620",
-    "tikName": "Волгоград, Кировская"
+    "tikName": "Волгоград, Кировская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 527,
     "uikTvd": "434400591717",
+    "uikName": "УИК №527",
     "tikTvd": "2342000459620",
-    "tikName": "Волгоград, Кировская"
+    "tikName": "Волгоград, Кировская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 528,
     "uikTvd": "434400591718",
+    "uikName": "УИК №528",
     "tikTvd": "2342000459620",
-    "tikName": "Волгоград, Кировская"
+    "tikName": "Волгоград, Кировская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 529,
     "uikTvd": "434400591719",
+    "uikName": "УИК №529",
     "tikTvd": "2342000459620",
-    "tikName": "Волгоград, Кировская"
+    "tikName": "Волгоград, Кировская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 530,
     "uikTvd": "434400591720",
+    "uikName": "УИК №530",
     "tikTvd": "2342000459620",
-    "tikName": "Волгоград, Кировская"
+    "tikName": "Волгоград, Кировская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 531,
     "uikTvd": "434400591721",
+    "uikName": "УИК №531",
     "tikTvd": "2342000459620",
-    "tikName": "Волгоград, Кировская"
+    "tikName": "Волгоград, Кировская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 532,
     "uikTvd": "434400591722",
+    "uikName": "УИК №532",
     "tikTvd": "2342000459620",
-    "tikName": "Волгоград, Кировская"
+    "tikName": "Волгоград, Кировская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 533,
     "uikTvd": "434400591723",
+    "uikName": "УИК №533",
     "tikTvd": "2342000459620",
-    "tikName": "Волгоград, Кировская"
+    "tikName": "Волгоград, Кировская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 534,
     "uikTvd": "434400591724",
+    "uikName": "УИК №534",
     "tikTvd": "2342000459620",
-    "tikName": "Волгоград, Кировская"
+    "tikName": "Волгоград, Кировская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 535,
     "uikTvd": "434400591725",
+    "uikName": "УИК №535",
     "tikTvd": "2342000459620",
-    "tikName": "Волгоград, Кировская"
+    "tikName": "Волгоград, Кировская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 601,
     "uikTvd": "434400699448",
+    "uikName": "УИК №601",
     "tikTvd": "2342000459619",
-    "tikName": "Волгоград, Красноармейская"
+    "tikName": "Волгоград, Красноармейская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 602,
     "uikTvd": "434400699449",
+    "uikName": "УИК №602",
     "tikTvd": "2342000459619",
-    "tikName": "Волгоград, Красноармейская"
+    "tikName": "Волгоград, Красноармейская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 603,
     "uikTvd": "434400699450",
+    "uikName": "УИК №603",
     "tikTvd": "2342000459619",
-    "tikName": "Волгоград, Красноармейская"
+    "tikName": "Волгоград, Красноармейская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 604,
     "uikTvd": "434400699451",
+    "uikName": "УИК №604",
     "tikTvd": "2342000459619",
-    "tikName": "Волгоград, Красноармейская"
+    "tikName": "Волгоград, Красноармейская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 605,
     "uikTvd": "434400699452",
+    "uikName": "УИК №605",
     "tikTvd": "2342000459619",
-    "tikName": "Волгоград, Красноармейская"
+    "tikName": "Волгоград, Красноармейская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 606,
     "uikTvd": "434400699453",
+    "uikName": "УИК №606",
     "tikTvd": "2342000459619",
-    "tikName": "Волгоград, Красноармейская"
+    "tikName": "Волгоград, Красноармейская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 607,
     "uikTvd": "434400699454",
+    "uikName": "УИК №607",
     "tikTvd": "2342000459619",
-    "tikName": "Волгоград, Красноармейская"
+    "tikName": "Волгоград, Красноармейская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 608,
     "uikTvd": "434400699455",
+    "uikName": "УИК №608",
     "tikTvd": "2342000459619",
-    "tikName": "Волгоград, Красноармейская"
+    "tikName": "Волгоград, Красноармейская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 609,
     "uikTvd": "434400699456",
+    "uikName": "УИК №609",
     "tikTvd": "2342000459619",
-    "tikName": "Волгоград, Красноармейская"
+    "tikName": "Волгоград, Красноармейская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 610,
     "uikTvd": "434400699457",
+    "uikName": "УИК №610",
     "tikTvd": "2342000459619",
-    "tikName": "Волгоград, Красноармейская"
+    "tikName": "Волгоград, Красноармейская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 611,
     "uikTvd": "434400699458",
+    "uikName": "УИК №611",
     "tikTvd": "2342000459619",
-    "tikName": "Волгоград, Красноармейская"
+    "tikName": "Волгоград, Красноармейская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 612,
     "uikTvd": "434400699459",
+    "uikName": "УИК №612",
     "tikTvd": "2342000459619",
-    "tikName": "Волгоград, Красноармейская"
+    "tikName": "Волгоград, Красноармейская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 613,
     "uikTvd": "434400699460",
+    "uikName": "УИК №613",
     "tikTvd": "2342000459619",
-    "tikName": "Волгоград, Красноармейская"
+    "tikName": "Волгоград, Красноармейская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 614,
     "uikTvd": "434400699461",
+    "uikName": "УИК №614",
     "tikTvd": "2342000459619",
-    "tikName": "Волгоград, Красноармейская"
+    "tikName": "Волгоград, Красноармейская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 615,
     "uikTvd": "434400699462",
+    "uikName": "УИК №615",
     "tikTvd": "2342000459619",
-    "tikName": "Волгоград, Красноармейская"
+    "tikName": "Волгоград, Красноармейская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 616,
     "uikTvd": "434400699463",
+    "uikName": "УИК №616",
     "tikTvd": "2342000459619",
-    "tikName": "Волгоград, Красноармейская"
+    "tikName": "Волгоград, Красноармейская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 617,
     "uikTvd": "434400699464",
+    "uikName": "УИК №617",
     "tikTvd": "2342000459619",
-    "tikName": "Волгоград, Красноармейская"
+    "tikName": "Волгоград, Красноармейская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 618,
     "uikTvd": "434400699465",
+    "uikName": "УИК №618",
     "tikTvd": "2342000459619",
-    "tikName": "Волгоград, Красноармейская"
+    "tikName": "Волгоград, Красноармейская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 619,
     "uikTvd": "434400699466",
+    "uikName": "УИК №619",
     "tikTvd": "2342000459619",
-    "tikName": "Волгоград, Красноармейская"
+    "tikName": "Волгоград, Красноармейская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 620,
     "uikTvd": "434400699467",
+    "uikName": "УИК №620",
     "tikTvd": "2342000459619",
-    "tikName": "Волгоград, Красноармейская"
+    "tikName": "Волгоград, Красноармейская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 621,
     "uikTvd": "434400699468",
+    "uikName": "УИК №621",
     "tikTvd": "2342000459619",
-    "tikName": "Волгоград, Красноармейская"
+    "tikName": "Волгоград, Красноармейская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 622,
     "uikTvd": "434400699469",
+    "uikName": "УИК №622",
     "tikTvd": "2342000459619",
-    "tikName": "Волгоград, Красноармейская"
+    "tikName": "Волгоград, Красноармейская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 623,
     "uikTvd": "434400699470",
+    "uikName": "УИК №623",
     "tikTvd": "2342000459619",
-    "tikName": "Волгоград, Красноармейская"
+    "tikName": "Волгоград, Красноармейская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 624,
     "uikTvd": "434400699471",
+    "uikName": "УИК №624",
     "tikTvd": "2342000459619",
-    "tikName": "Волгоград, Красноармейская"
+    "tikName": "Волгоград, Красноармейская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 625,
     "uikTvd": "434400699472",
+    "uikName": "УИК №625",
     "tikTvd": "2342000459619",
-    "tikName": "Волгоград, Красноармейская"
+    "tikName": "Волгоград, Красноармейская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 626,
     "uikTvd": "434400699473",
+    "uikName": "УИК №626",
     "tikTvd": "2342000459619",
-    "tikName": "Волгоград, Красноармейская"
+    "tikName": "Волгоград, Красноармейская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 627,
     "uikTvd": "434400699474",
+    "uikName": "УИК №627",
     "tikTvd": "2342000459619",
-    "tikName": "Волгоград, Красноармейская"
+    "tikName": "Волгоград, Красноармейская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 628,
     "uikTvd": "434400699475",
+    "uikName": "УИК №628",
     "tikTvd": "2342000459619",
-    "tikName": "Волгоград, Красноармейская"
+    "tikName": "Волгоград, Красноармейская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 629,
     "uikTvd": "434400699476",
+    "uikName": "УИК №629",
     "tikTvd": "2342000459619",
-    "tikName": "Волгоград, Красноармейская"
+    "tikName": "Волгоград, Красноармейская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 630,
     "uikTvd": "434400699477",
+    "uikName": "УИК №630",
     "tikTvd": "2342000459619",
-    "tikName": "Волгоград, Красноармейская"
+    "tikName": "Волгоград, Красноармейская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 631,
     "uikTvd": "434400699478",
+    "uikName": "УИК №631",
     "tikTvd": "2342000459619",
-    "tikName": "Волгоград, Красноармейская"
+    "tikName": "Волгоград, Красноармейская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 632,
     "uikTvd": "434400699479",
+    "uikName": "УИК №632",
     "tikTvd": "2342000459619",
-    "tikName": "Волгоград, Красноармейская"
+    "tikName": "Волгоград, Красноармейская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 633,
     "uikTvd": "434400699480",
+    "uikName": "УИК №633",
     "tikTvd": "2342000459619",
-    "tikName": "Волгоград, Красноармейская"
+    "tikName": "Волгоград, Красноармейская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 634,
     "uikTvd": "434400699481",
+    "uikName": "УИК №634",
     "tikTvd": "2342000459619",
-    "tikName": "Волгоград, Красноармейская"
+    "tikName": "Волгоград, Красноармейская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 635,
     "uikTvd": "434400699482",
+    "uikName": "УИК №635",
     "tikTvd": "2342000459619",
-    "tikName": "Волгоград, Красноармейская"
+    "tikName": "Волгоград, Красноармейская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 636,
     "uikTvd": "434400699483",
+    "uikName": "УИК №636",
     "tikTvd": "2342000459619",
-    "tikName": "Волгоград, Красноармейская"
+    "tikName": "Волгоград, Красноармейская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 637,
     "uikTvd": "434400699484",
+    "uikName": "УИК №637",
     "tikTvd": "2342000459619",
-    "tikName": "Волгоград, Красноармейская"
+    "tikName": "Волгоград, Красноармейская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 638,
     "uikTvd": "434400699485",
+    "uikName": "УИК №638",
     "tikTvd": "2342000459619",
-    "tikName": "Волгоград, Красноармейская"
+    "tikName": "Волгоград, Красноармейская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 639,
     "uikTvd": "434400699486",
+    "uikName": "УИК №639",
     "tikTvd": "2342000459619",
-    "tikName": "Волгоград, Красноармейская"
+    "tikName": "Волгоград, Красноармейская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 640,
     "uikTvd": "434400699487",
+    "uikName": "УИК №640",
     "tikTvd": "2342000459619",
-    "tikName": "Волгоград, Красноармейская"
+    "tikName": "Волгоград, Красноармейская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 641,
     "uikTvd": "434400699488",
+    "uikName": "УИК №641",
     "tikTvd": "2342000459619",
-    "tikName": "Волгоград, Красноармейская"
+    "tikName": "Волгоград, Красноармейская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 642,
     "uikTvd": "434400699489",
+    "uikName": "УИК №642",
     "tikTvd": "2342000459619",
-    "tikName": "Волгоград, Красноармейская"
+    "tikName": "Волгоград, Красноармейская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 643,
     "uikTvd": "434400699490",
+    "uikName": "УИК №643",
     "tikTvd": "2342000459619",
-    "tikName": "Волгоград, Красноармейская"
+    "tikName": "Волгоград, Красноармейская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 644,
     "uikTvd": "434400699491",
+    "uikName": "УИК №644",
     "tikTvd": "2342000459619",
-    "tikName": "Волгоград, Красноармейская"
+    "tikName": "Волгоград, Красноармейская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 645,
     "uikTvd": "434400699492",
+    "uikName": "УИК №645",
     "tikTvd": "2342000459619",
-    "tikName": "Волгоград, Красноармейская"
+    "tikName": "Волгоград, Красноармейская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 646,
     "uikTvd": "434400699493",
+    "uikName": "УИК №646",
     "tikTvd": "2342000459619",
-    "tikName": "Волгоград, Красноармейская"
+    "tikName": "Волгоград, Красноармейская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 647,
     "uikTvd": "434400699494",
+    "uikName": "УИК №647",
     "tikTvd": "2342000459619",
-    "tikName": "Волгоград, Красноармейская"
+    "tikName": "Волгоград, Красноармейская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 648,
     "uikTvd": "434400699495",
+    "uikName": "УИК №648",
     "tikTvd": "2342000459619",
-    "tikName": "Волгоград, Красноармейская"
+    "tikName": "Волгоград, Красноармейская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 649,
     "uikTvd": "434400699496",
+    "uikName": "УИК №649",
     "tikTvd": "2342000459619",
-    "tikName": "Волгоград, Красноармейская"
+    "tikName": "Волгоград, Красноармейская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 650,
     "uikTvd": "434400699497",
+    "uikName": "УИК №650",
     "tikTvd": "2342000459619",
-    "tikName": "Волгоград, Красноармейская"
+    "tikName": "Волгоград, Красноармейская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 651,
     "uikTvd": "434400699498",
+    "uikName": "УИК №651",
     "tikTvd": "2342000459619",
-    "tikName": "Волгоград, Красноармейская"
+    "tikName": "Волгоград, Красноармейская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 652,
     "uikTvd": "434400699499",
+    "uikName": "УИК №652",
     "tikTvd": "2342000459619",
-    "tikName": "Волгоград, Красноармейская"
+    "tikName": "Волгоград, Красноармейская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 653,
     "uikTvd": "434400699500",
+    "uikName": "УИК №653",
     "tikTvd": "2342000459619",
-    "tikName": "Волгоград, Красноармейская"
+    "tikName": "Волгоград, Красноармейская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 654,
     "uikTvd": "434400699501",
+    "uikName": "УИК №654",
     "tikTvd": "2342000459619",
-    "tikName": "Волгоград, Красноармейская"
+    "tikName": "Волгоград, Красноармейская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 655,
     "uikTvd": "434400699502",
+    "uikName": "УИК №655",
     "tikTvd": "2342000459619",
-    "tikName": "Волгоград, Красноармейская"
+    "tikName": "Волгоград, Красноармейская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 656,
     "uikTvd": "434400699503",
+    "uikName": "УИК №656",
     "tikTvd": "2342000459619",
-    "tikName": "Волгоград, Красноармейская"
+    "tikName": "Волгоград, Красноармейская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 657,
     "uikTvd": "434400699504",
+    "uikName": "УИК №657",
     "tikTvd": "2342000459619",
-    "tikName": "Волгоград, Красноармейская"
+    "tikName": "Волгоград, Красноармейская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 658,
     "uikTvd": "434400699505",
+    "uikName": "УИК №658",
     "tikTvd": "2342000459619",
-    "tikName": "Волгоград, Красноармейская"
+    "tikName": "Волгоград, Красноармейская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 659,
     "uikTvd": "434400699506",
+    "uikName": "УИК №659",
     "tikTvd": "2342000459619",
-    "tikName": "Волгоград, Красноармейская"
+    "tikName": "Волгоград, Красноармейская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 660,
     "uikTvd": "434400699507",
+    "uikName": "УИК №660",
     "tikTvd": "2342000459619",
-    "tikName": "Волгоград, Красноармейская"
+    "tikName": "Волгоград, Красноармейская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 661,
     "uikTvd": "434400699508",
+    "uikName": "УИК №661",
     "tikTvd": "2342000459619",
-    "tikName": "Волгоград, Красноармейская"
+    "tikName": "Волгоград, Красноармейская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 662,
     "uikTvd": "434400699509",
+    "uikName": "УИК №662",
     "tikTvd": "2342000459619",
-    "tikName": "Волгоград, Красноармейская"
+    "tikName": "Волгоград, Красноармейская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 663,
     "uikTvd": "4344006103463",
+    "uikName": "УИК №663",
     "tikTvd": "2342000459619",
-    "tikName": "Волгоград, Красноармейская"
+    "tikName": "Волгоград, Красноармейская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 664,
     "uikTvd": "4344006103464",
+    "uikName": "УИК №664",
     "tikTvd": "2342000459619",
-    "tikName": "Волгоград, Красноармейская"
+    "tikName": "Волгоград, Красноармейская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 665,
     "uikTvd": "4344006103465",
+    "uikName": "УИК №665",
     "tikTvd": "2342000459619",
-    "tikName": "Волгоград, Красноармейская"
+    "tikName": "Волгоград, Красноармейская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 666,
     "uikTvd": "4344006103466",
+    "uikName": "УИК №666",
     "tikTvd": "2342000459619",
-    "tikName": "Волгоград, Красноармейская"
+    "tikName": "Волгоград, Красноармейская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 667,
     "uikTvd": "4344006103467",
+    "uikName": "УИК №667",
     "tikTvd": "2342000459619",
-    "tikName": "Волгоград, Красноармейская"
+    "tikName": "Волгоград, Красноармейская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 701,
     "uikTvd": "4344007103398",
+    "uikName": "УИК №701",
     "tikTvd": "2342000459618",
-    "tikName": "Волгоград, Краснооктябрьская"
+    "tikName": "Волгоград, Краснооктябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 702,
     "uikTvd": "4344007104211",
+    "uikName": "УИК №702",
     "tikTvd": "2342000459618",
-    "tikName": "Волгоград, Краснооктябрьская"
+    "tikName": "Волгоград, Краснооктябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 703,
     "uikTvd": "4344007104212",
+    "uikName": "УИК №703",
     "tikTvd": "2342000459618",
-    "tikName": "Волгоград, Краснооктябрьская"
+    "tikName": "Волгоград, Краснооктябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 704,
     "uikTvd": "4344007104213",
+    "uikName": "УИК №704",
     "tikTvd": "2342000459618",
-    "tikName": "Волгоград, Краснооктябрьская"
+    "tikName": "Волгоград, Краснооктябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 705,
     "uikTvd": "4344007104214",
+    "uikName": "УИК №705",
     "tikTvd": "2342000459618",
-    "tikName": "Волгоград, Краснооктябрьская"
+    "tikName": "Волгоград, Краснооктябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 706,
     "uikTvd": "4344007104215",
+    "uikName": "УИК №706",
     "tikTvd": "2342000459618",
-    "tikName": "Волгоград, Краснооктябрьская"
+    "tikName": "Волгоград, Краснооктябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 707,
     "uikTvd": "4344007104216",
+    "uikName": "УИК №707",
     "tikTvd": "2342000459618",
-    "tikName": "Волгоград, Краснооктябрьская"
+    "tikName": "Волгоград, Краснооктябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 708,
     "uikTvd": "4344007104217",
+    "uikName": "УИК №708",
     "tikTvd": "2342000459618",
-    "tikName": "Волгоград, Краснооктябрьская"
+    "tikName": "Волгоград, Краснооктябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 709,
     "uikTvd": "4344007104218",
+    "uikName": "УИК №709",
     "tikTvd": "2342000459618",
-    "tikName": "Волгоград, Краснооктябрьская"
+    "tikName": "Волгоград, Краснооктябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 710,
     "uikTvd": "4344007104219",
+    "uikName": "УИК №710",
     "tikTvd": "2342000459618",
-    "tikName": "Волгоград, Краснооктябрьская"
+    "tikName": "Волгоград, Краснооктябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 711,
     "uikTvd": "4344007104220",
+    "uikName": "УИК №711",
     "tikTvd": "2342000459618",
-    "tikName": "Волгоград, Краснооктябрьская"
+    "tikName": "Волгоград, Краснооктябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 712,
     "uikTvd": "4344007104221",
+    "uikName": "УИК №712",
     "tikTvd": "2342000459618",
-    "tikName": "Волгоград, Краснооктябрьская"
+    "tikName": "Волгоград, Краснооктябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 713,
     "uikTvd": "4344007104222",
+    "uikName": "УИК №713",
     "tikTvd": "2342000459618",
-    "tikName": "Волгоград, Краснооктябрьская"
+    "tikName": "Волгоград, Краснооктябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 714,
     "uikTvd": "4344007104223",
+    "uikName": "УИК №714",
     "tikTvd": "2342000459618",
-    "tikName": "Волгоград, Краснооктябрьская"
+    "tikName": "Волгоград, Краснооктябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 715,
     "uikTvd": "4344007104224",
+    "uikName": "УИК №715",
     "tikTvd": "2342000459618",
-    "tikName": "Волгоград, Краснооктябрьская"
+    "tikName": "Волгоград, Краснооктябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 716,
     "uikTvd": "4344007104225",
+    "uikName": "УИК №716",
     "tikTvd": "2342000459618",
-    "tikName": "Волгоград, Краснооктябрьская"
+    "tikName": "Волгоград, Краснооктябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 717,
     "uikTvd": "4344007104226",
+    "uikName": "УИК №717",
     "tikTvd": "2342000459618",
-    "tikName": "Волгоград, Краснооктябрьская"
+    "tikName": "Волгоград, Краснооктябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 718,
     "uikTvd": "4344007104227",
+    "uikName": "УИК №718",
     "tikTvd": "2342000459618",
-    "tikName": "Волгоград, Краснооктябрьская"
+    "tikName": "Волгоград, Краснооктябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 719,
     "uikTvd": "4344007104228",
+    "uikName": "УИК №719",
     "tikTvd": "2342000459618",
-    "tikName": "Волгоград, Краснооктябрьская"
+    "tikName": "Волгоград, Краснооктябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 720,
     "uikTvd": "4344007104229",
+    "uikName": "УИК №720",
     "tikTvd": "2342000459618",
-    "tikName": "Волгоград, Краснооктябрьская"
+    "tikName": "Волгоград, Краснооктябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 721,
     "uikTvd": "4344007104230",
+    "uikName": "УИК №721",
     "tikTvd": "2342000459618",
-    "tikName": "Волгоград, Краснооктябрьская"
+    "tikName": "Волгоград, Краснооктябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 722,
     "uikTvd": "4344007104231",
+    "uikName": "УИК №722",
     "tikTvd": "2342000459618",
-    "tikName": "Волгоград, Краснооктябрьская"
+    "tikName": "Волгоград, Краснооктябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 723,
     "uikTvd": "4344007104232",
+    "uikName": "УИК №723",
     "tikTvd": "2342000459618",
-    "tikName": "Волгоград, Краснооктябрьская"
+    "tikName": "Волгоград, Краснооктябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 724,
     "uikTvd": "4344007104233",
+    "uikName": "УИК №724",
     "tikTvd": "2342000459618",
-    "tikName": "Волгоград, Краснооктябрьская"
+    "tikName": "Волгоград, Краснооктябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 725,
     "uikTvd": "4344007104234",
+    "uikName": "УИК №725",
     "tikTvd": "2342000459618",
-    "tikName": "Волгоград, Краснооктябрьская"
+    "tikName": "Волгоград, Краснооктябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 726,
     "uikTvd": "4344007104235",
+    "uikName": "УИК №726",
     "tikTvd": "2342000459618",
-    "tikName": "Волгоград, Краснооктябрьская"
+    "tikName": "Волгоград, Краснооктябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 727,
     "uikTvd": "4344007104236",
+    "uikName": "УИК №727",
     "tikTvd": "2342000459618",
-    "tikName": "Волгоград, Краснооктябрьская"
+    "tikName": "Волгоград, Краснооктябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 728,
     "uikTvd": "4344007104237",
+    "uikName": "УИК №728",
     "tikTvd": "2342000459618",
-    "tikName": "Волгоград, Краснооктябрьская"
+    "tikName": "Волгоград, Краснооктябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 729,
     "uikTvd": "4344007104238",
+    "uikName": "УИК №729",
     "tikTvd": "2342000459618",
-    "tikName": "Волгоград, Краснооктябрьская"
+    "tikName": "Волгоград, Краснооктябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 730,
     "uikTvd": "4344007104239",
+    "uikName": "УИК №730",
     "tikTvd": "2342000459618",
-    "tikName": "Волгоград, Краснооктябрьская"
+    "tikName": "Волгоград, Краснооктябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 731,
     "uikTvd": "4344007104240",
+    "uikName": "УИК №731",
     "tikTvd": "2342000459618",
-    "tikName": "Волгоград, Краснооктябрьская"
+    "tikName": "Волгоград, Краснооктябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 732,
     "uikTvd": "4344007104241",
+    "uikName": "УИК №732",
     "tikTvd": "2342000459618",
-    "tikName": "Волгоград, Краснооктябрьская"
+    "tikName": "Волгоград, Краснооктябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 733,
     "uikTvd": "4344007104242",
+    "uikName": "УИК №733",
     "tikTvd": "2342000459618",
-    "tikName": "Волгоград, Краснооктябрьская"
+    "tikName": "Волгоград, Краснооктябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 734,
     "uikTvd": "4344007104243",
+    "uikName": "УИК №734",
     "tikTvd": "2342000459618",
-    "tikName": "Волгоград, Краснооктябрьская"
+    "tikName": "Волгоград, Краснооктябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 735,
     "uikTvd": "4344007104244",
+    "uikName": "УИК №735",
     "tikTvd": "2342000459618",
-    "tikName": "Волгоград, Краснооктябрьская"
+    "tikName": "Волгоград, Краснооктябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 736,
     "uikTvd": "4344007104245",
+    "uikName": "УИК №736",
     "tikTvd": "2342000459618",
-    "tikName": "Волгоград, Краснооктябрьская"
+    "tikName": "Волгоград, Краснооктябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 737,
     "uikTvd": "4344007104246",
+    "uikName": "УИК №737",
     "tikTvd": "2342000459618",
-    "tikName": "Волгоград, Краснооктябрьская"
+    "tikName": "Волгоград, Краснооктябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 738,
     "uikTvd": "4344007104247",
+    "uikName": "УИК №738",
     "tikTvd": "2342000459618",
-    "tikName": "Волгоград, Краснооктябрьская"
+    "tikName": "Волгоград, Краснооктябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 739,
     "uikTvd": "4344007104248",
+    "uikName": "УИК №739",
     "tikTvd": "2342000459618",
-    "tikName": "Волгоград, Краснооктябрьская"
+    "tikName": "Волгоград, Краснооктябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 740,
     "uikTvd": "4344007104249",
+    "uikName": "УИК №740",
     "tikTvd": "2342000459618",
-    "tikName": "Волгоград, Краснооктябрьская"
+    "tikName": "Волгоград, Краснооктябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 741,
     "uikTvd": "4344007104250",
+    "uikName": "УИК №741",
     "tikTvd": "2342000459618",
-    "tikName": "Волгоград, Краснооктябрьская"
+    "tikName": "Волгоград, Краснооктябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 742,
     "uikTvd": "4344007104251",
+    "uikName": "УИК №742",
     "tikTvd": "2342000459618",
-    "tikName": "Волгоград, Краснооктябрьская"
+    "tikName": "Волгоград, Краснооктябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 743,
     "uikTvd": "4344007104252",
+    "uikName": "УИК №743",
     "tikTvd": "2342000459618",
-    "tikName": "Волгоград, Краснооктябрьская"
+    "tikName": "Волгоград, Краснооктябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 744,
     "uikTvd": "4344007104253",
+    "uikName": "УИК №744",
     "tikTvd": "2342000459618",
-    "tikName": "Волгоград, Краснооктябрьская"
+    "tikName": "Волгоград, Краснооктябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 745,
     "uikTvd": "4344007104254",
+    "uikName": "УИК №745",
     "tikTvd": "2342000459618",
-    "tikName": "Волгоград, Краснооктябрьская"
+    "tikName": "Волгоград, Краснооктябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 746,
     "uikTvd": "4344007104255",
+    "uikName": "УИК №746",
     "tikTvd": "2342000459618",
-    "tikName": "Волгоград, Краснооктябрьская"
+    "tikName": "Волгоград, Краснооктябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 747,
     "uikTvd": "4344007104256",
+    "uikName": "УИК №747",
     "tikTvd": "2342000459618",
-    "tikName": "Волгоград, Краснооктябрьская"
+    "tikName": "Волгоград, Краснооктябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 748,
     "uikTvd": "4344007104257",
+    "uikName": "УИК №748",
     "tikTvd": "2342000459618",
-    "tikName": "Волгоград, Краснооктябрьская"
+    "tikName": "Волгоград, Краснооктябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 749,
     "uikTvd": "4344007104258",
+    "uikName": "УИК №749",
     "tikTvd": "2342000459618",
-    "tikName": "Волгоград, Краснооктябрьская"
+    "tikName": "Волгоград, Краснооктябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 750,
     "uikTvd": "4344007104259",
+    "uikName": "УИК №750",
     "tikTvd": "2342000459618",
-    "tikName": "Волгоград, Краснооктябрьская"
+    "tikName": "Волгоград, Краснооктябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 751,
     "uikTvd": "4344007104260",
+    "uikName": "УИК №751",
     "tikTvd": "2342000459618",
-    "tikName": "Волгоград, Краснооктябрьская"
+    "tikName": "Волгоград, Краснооктябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 752,
     "uikTvd": "4344007104261",
+    "uikName": "УИК №752",
     "tikTvd": "2342000459618",
-    "tikName": "Волгоград, Краснооктябрьская"
+    "tikName": "Волгоград, Краснооктябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 753,
     "uikTvd": "4344007104262",
+    "uikName": "УИК №753",
     "tikTvd": "2342000459618",
-    "tikName": "Волгоград, Краснооктябрьская"
+    "tikName": "Волгоград, Краснооктябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 754,
     "uikTvd": "4344007104209",
+    "uikName": "УИК №754",
     "tikTvd": "2342000459618",
-    "tikName": "Волгоград, Краснооктябрьская"
+    "tikName": "Волгоград, Краснооктябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 801,
     "uikTvd": "434400891807",
+    "uikName": "УИК №801",
     "tikTvd": "2342000459617",
-    "tikName": "Волгоград, Советская"
+    "tikName": "Волгоград, Советская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 802,
     "uikTvd": "434400891808",
+    "uikName": "УИК №802",
     "tikTvd": "2342000459617",
-    "tikName": "Волгоград, Советская"
+    "tikName": "Волгоград, Советская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 803,
     "uikTvd": "434400891809",
+    "uikName": "УИК №803",
     "tikTvd": "2342000459617",
-    "tikName": "Волгоград, Советская"
+    "tikName": "Волгоград, Советская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 804,
     "uikTvd": "434400891810",
+    "uikName": "УИК №804",
     "tikTvd": "2342000459617",
-    "tikName": "Волгоград, Советская"
+    "tikName": "Волгоград, Советская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 805,
     "uikTvd": "434400891811",
+    "uikName": "УИК №805",
     "tikTvd": "2342000459617",
-    "tikName": "Волгоград, Советская"
+    "tikName": "Волгоград, Советская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 806,
     "uikTvd": "434400891812",
+    "uikName": "УИК №806",
     "tikTvd": "2342000459617",
-    "tikName": "Волгоград, Советская"
+    "tikName": "Волгоград, Советская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 807,
     "uikTvd": "434400891813",
+    "uikName": "УИК №807",
     "tikTvd": "2342000459617",
-    "tikName": "Волгоград, Советская"
+    "tikName": "Волгоград, Советская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 808,
     "uikTvd": "434400891814",
+    "uikName": "УИК №808",
     "tikTvd": "2342000459617",
-    "tikName": "Волгоград, Советская"
+    "tikName": "Волгоград, Советская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 809,
     "uikTvd": "434400891815",
+    "uikName": "УИК №809",
     "tikTvd": "2342000459617",
-    "tikName": "Волгоград, Советская"
+    "tikName": "Волгоград, Советская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 810,
     "uikTvd": "434400891816",
+    "uikName": "УИК №810",
     "tikTvd": "2342000459617",
-    "tikName": "Волгоград, Советская"
+    "tikName": "Волгоград, Советская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 811,
     "uikTvd": "434400891817",
+    "uikName": "УИК №811",
     "tikTvd": "2342000459617",
-    "tikName": "Волгоград, Советская"
+    "tikName": "Волгоград, Советская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 812,
     "uikTvd": "434400891818",
+    "uikName": "УИК №812",
     "tikTvd": "2342000459617",
-    "tikName": "Волгоград, Советская"
+    "tikName": "Волгоград, Советская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 813,
     "uikTvd": "434400891819",
+    "uikName": "УИК №813",
     "tikTvd": "2342000459617",
-    "tikName": "Волгоград, Советская"
+    "tikName": "Волгоград, Советская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 814,
     "uikTvd": "434400891820",
+    "uikName": "УИК №814",
     "tikTvd": "2342000459617",
-    "tikName": "Волгоград, Советская"
+    "tikName": "Волгоград, Советская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 815,
     "uikTvd": "434400891821",
+    "uikName": "УИК №815",
     "tikTvd": "2342000459617",
-    "tikName": "Волгоград, Советская"
+    "tikName": "Волгоград, Советская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 816,
     "uikTvd": "434400891822",
+    "uikName": "УИК №816",
     "tikTvd": "2342000459617",
-    "tikName": "Волгоград, Советская"
+    "tikName": "Волгоград, Советская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 817,
     "uikTvd": "434400891823",
+    "uikName": "УИК №817",
     "tikTvd": "2342000459617",
-    "tikName": "Волгоград, Советская"
+    "tikName": "Волгоград, Советская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 818,
     "uikTvd": "434400891824",
+    "uikName": "УИК №818",
     "tikTvd": "2342000459617",
-    "tikName": "Волгоград, Советская"
+    "tikName": "Волгоград, Советская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 819,
     "uikTvd": "434400891825",
+    "uikName": "УИК №819",
     "tikTvd": "2342000459617",
-    "tikName": "Волгоград, Советская"
+    "tikName": "Волгоград, Советская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 820,
     "uikTvd": "434400891826",
+    "uikName": "УИК №820",
     "tikTvd": "2342000459617",
-    "tikName": "Волгоград, Советская"
+    "tikName": "Волгоград, Советская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 821,
     "uikTvd": "434400891827",
+    "uikName": "УИК №821",
     "tikTvd": "2342000459617",
-    "tikName": "Волгоград, Советская"
+    "tikName": "Волгоград, Советская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 822,
     "uikTvd": "434400891828",
+    "uikName": "УИК №822",
     "tikTvd": "2342000459617",
-    "tikName": "Волгоград, Советская"
+    "tikName": "Волгоград, Советская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 823,
     "uikTvd": "434400891829",
+    "uikName": "УИК №823",
     "tikTvd": "2342000459617",
-    "tikName": "Волгоград, Советская"
+    "tikName": "Волгоград, Советская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 824,
     "uikTvd": "434400891830",
+    "uikName": "УИК №824",
     "tikTvd": "2342000459617",
-    "tikName": "Волгоград, Советская"
+    "tikName": "Волгоград, Советская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 825,
     "uikTvd": "434400891831",
+    "uikName": "УИК №825",
     "tikTvd": "2342000459617",
-    "tikName": "Волгоград, Советская"
+    "tikName": "Волгоград, Советская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 826,
     "uikTvd": "434400891832",
+    "uikName": "УИК №826",
     "tikTvd": "2342000459617",
-    "tikName": "Волгоград, Советская"
+    "tikName": "Волгоград, Советская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 827,
     "uikTvd": "434400891833",
+    "uikName": "УИК №827",
     "tikTvd": "2342000459617",
-    "tikName": "Волгоград, Советская"
+    "tikName": "Волгоград, Советская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 828,
     "uikTvd": "434400891834",
+    "uikName": "УИК №828",
     "tikTvd": "2342000459617",
-    "tikName": "Волгоград, Советская"
+    "tikName": "Волгоград, Советская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 829,
     "uikTvd": "434400891835",
+    "uikName": "УИК №829",
     "tikTvd": "2342000459617",
-    "tikName": "Волгоград, Советская"
+    "tikName": "Волгоград, Советская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 830,
     "uikTvd": "434400891836",
+    "uikName": "УИК №830",
     "tikTvd": "2342000459617",
-    "tikName": "Волгоград, Советская"
+    "tikName": "Волгоград, Советская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 831,
     "uikTvd": "434400891837",
+    "uikName": "УИК №831",
     "tikTvd": "2342000459617",
-    "tikName": "Волгоград, Советская"
+    "tikName": "Волгоград, Советская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 832,
     "uikTvd": "434400891838",
+    "uikName": "УИК №832",
     "tikTvd": "2342000459617",
-    "tikName": "Волгоград, Советская"
+    "tikName": "Волгоград, Советская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 833,
     "uikTvd": "434400891839",
+    "uikName": "УИК №833",
     "tikTvd": "2342000459617",
-    "tikName": "Волгоград, Советская"
+    "tikName": "Волгоград, Советская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 834,
     "uikTvd": "434400891840",
+    "uikName": "УИК №834",
     "tikTvd": "2342000459617",
-    "tikName": "Волгоград, Советская"
+    "tikName": "Волгоград, Советская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 835,
     "uikTvd": "434400891841",
+    "uikName": "УИК №835",
     "tikTvd": "2342000459617",
-    "tikName": "Волгоград, Советская"
+    "tikName": "Волгоград, Советская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 836,
     "uikTvd": "434400891842",
+    "uikName": "УИК №836",
     "tikTvd": "2342000459617",
-    "tikName": "Волгоград, Советская"
+    "tikName": "Волгоград, Советская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 837,
     "uikTvd": "434400891843",
+    "uikName": "УИК №837",
     "tikTvd": "2342000459617",
-    "tikName": "Волгоград, Советская"
+    "tikName": "Волгоград, Советская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 838,
     "uikTvd": "434400891844",
+    "uikName": "УИК №838",
     "tikTvd": "2342000459617",
-    "tikName": "Волгоград, Советская"
+    "tikName": "Волгоград, Советская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 839,
     "uikTvd": "434400891845",
+    "uikName": "УИК №839",
     "tikTvd": "2342000459617",
-    "tikName": "Волгоград, Советская"
+    "tikName": "Волгоград, Советская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 840,
     "uikTvd": "434400891846",
+    "uikName": "УИК №840",
     "tikTvd": "2342000459617",
-    "tikName": "Волгоград, Советская"
+    "tikName": "Волгоград, Советская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 841,
     "uikTvd": "434400891847",
+    "uikName": "УИК №841",
     "tikTvd": "2342000459617",
-    "tikName": "Волгоград, Советская"
+    "tikName": "Волгоград, Советская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 842,
     "uikTvd": "434400891848",
+    "uikName": "УИК №842",
     "tikTvd": "2342000459617",
-    "tikName": "Волгоград, Советская"
+    "tikName": "Волгоград, Советская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 843,
     "uikTvd": "434400891849",
+    "uikName": "УИК №843",
     "tikTvd": "2342000459617",
-    "tikName": "Волгоград, Советская"
+    "tikName": "Волгоград, Советская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 844,
     "uikTvd": "434400891850",
+    "uikName": "УИК №844",
     "tikTvd": "2342000459617",
-    "tikName": "Волгоград, Советская"
+    "tikName": "Волгоград, Советская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 845,
     "uikTvd": "434400891851",
+    "uikName": "УИК №845",
     "tikTvd": "2342000459617",
-    "tikName": "Волгоград, Советская"
+    "tikName": "Волгоград, Советская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 901,
     "uikTvd": "434400995560",
+    "uikName": "УИК №901",
     "tikTvd": "2342000459633",
-    "tikName": "Волгоград, Тракторозаводская"
+    "tikName": "Волгоград, Тракторозаводская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 902,
     "uikTvd": "434400995631",
+    "uikName": "УИК №902",
     "tikTvd": "2342000459633",
-    "tikName": "Волгоград, Тракторозаводская"
+    "tikName": "Волгоград, Тракторозаводская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 903,
     "uikTvd": "434400995632",
+    "uikName": "УИК №903",
     "tikTvd": "2342000459633",
-    "tikName": "Волгоград, Тракторозаводская"
+    "tikName": "Волгоград, Тракторозаводская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 904,
     "uikTvd": "434400995634",
+    "uikName": "УИК №904",
     "tikTvd": "2342000459633",
-    "tikName": "Волгоград, Тракторозаводская"
+    "tikName": "Волгоград, Тракторозаводская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 905,
     "uikTvd": "434400995635",
+    "uikName": "УИК №905",
     "tikTvd": "2342000459633",
-    "tikName": "Волгоград, Тракторозаводская"
+    "tikName": "Волгоград, Тракторозаводская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 906,
     "uikTvd": "434400995636",
+    "uikName": "УИК №906",
     "tikTvd": "2342000459633",
-    "tikName": "Волгоград, Тракторозаводская"
+    "tikName": "Волгоград, Тракторозаводская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 907,
     "uikTvd": "434400995637",
+    "uikName": "УИК №907",
     "tikTvd": "2342000459633",
-    "tikName": "Волгоград, Тракторозаводская"
+    "tikName": "Волгоград, Тракторозаводская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 908,
     "uikTvd": "434400995638",
+    "uikName": "УИК №908",
     "tikTvd": "2342000459633",
-    "tikName": "Волгоград, Тракторозаводская"
+    "tikName": "Волгоград, Тракторозаводская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 909,
     "uikTvd": "434400995639",
+    "uikName": "УИК №909",
     "tikTvd": "2342000459633",
-    "tikName": "Волгоград, Тракторозаводская"
+    "tikName": "Волгоград, Тракторозаводская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 910,
     "uikTvd": "434400995640",
+    "uikName": "УИК №910",
     "tikTvd": "2342000459633",
-    "tikName": "Волгоград, Тракторозаводская"
+    "tikName": "Волгоград, Тракторозаводская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 911,
     "uikTvd": "434400995641",
+    "uikName": "УИК №911",
     "tikTvd": "2342000459633",
-    "tikName": "Волгоград, Тракторозаводская"
+    "tikName": "Волгоград, Тракторозаводская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 912,
     "uikTvd": "434400995642",
+    "uikName": "УИК №912",
     "tikTvd": "2342000459633",
-    "tikName": "Волгоград, Тракторозаводская"
+    "tikName": "Волгоград, Тракторозаводская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 913,
     "uikTvd": "434400995643",
+    "uikName": "УИК №913",
     "tikTvd": "2342000459633",
-    "tikName": "Волгоград, Тракторозаводская"
+    "tikName": "Волгоград, Тракторозаводская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 914,
     "uikTvd": "434400995644",
+    "uikName": "УИК №914",
     "tikTvd": "2342000459633",
-    "tikName": "Волгоград, Тракторозаводская"
+    "tikName": "Волгоград, Тракторозаводская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 915,
     "uikTvd": "434400995645",
+    "uikName": "УИК №915",
     "tikTvd": "2342000459633",
-    "tikName": "Волгоград, Тракторозаводская"
+    "tikName": "Волгоград, Тракторозаводская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 916,
     "uikTvd": "434400995646",
+    "uikName": "УИК №916",
     "tikTvd": "2342000459633",
-    "tikName": "Волгоград, Тракторозаводская"
+    "tikName": "Волгоград, Тракторозаводская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 917,
     "uikTvd": "434400995647",
+    "uikName": "УИК №917",
     "tikTvd": "2342000459633",
-    "tikName": "Волгоград, Тракторозаводская"
+    "tikName": "Волгоград, Тракторозаводская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 918,
     "uikTvd": "434400995648",
+    "uikName": "УИК №918",
     "tikTvd": "2342000459633",
-    "tikName": "Волгоград, Тракторозаводская"
+    "tikName": "Волгоград, Тракторозаводская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 919,
     "uikTvd": "434400995649",
+    "uikName": "УИК №919",
     "tikTvd": "2342000459633",
-    "tikName": "Волгоград, Тракторозаводская"
+    "tikName": "Волгоград, Тракторозаводская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 920,
     "uikTvd": "434400995650",
+    "uikName": "УИК №920",
     "tikTvd": "2342000459633",
-    "tikName": "Волгоград, Тракторозаводская"
+    "tikName": "Волгоград, Тракторозаводская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 921,
     "uikTvd": "434400995651",
+    "uikName": "УИК №921",
     "tikTvd": "2342000459633",
-    "tikName": "Волгоград, Тракторозаводская"
+    "tikName": "Волгоград, Тракторозаводская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 922,
     "uikTvd": "434400995652",
+    "uikName": "УИК №922",
     "tikTvd": "2342000459633",
-    "tikName": "Волгоград, Тракторозаводская"
+    "tikName": "Волгоград, Тракторозаводская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 923,
     "uikTvd": "434400995653",
+    "uikName": "УИК №923",
     "tikTvd": "2342000459633",
-    "tikName": "Волгоград, Тракторозаводская"
+    "tikName": "Волгоград, Тракторозаводская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 924,
     "uikTvd": "434400995654",
+    "uikName": "УИК №924",
     "tikTvd": "2342000459633",
-    "tikName": "Волгоград, Тракторозаводская"
+    "tikName": "Волгоград, Тракторозаводская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 925,
     "uikTvd": "434400995655",
+    "uikName": "УИК №925",
     "tikTvd": "2342000459633",
-    "tikName": "Волгоград, Тракторозаводская"
+    "tikName": "Волгоград, Тракторозаводская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 926,
     "uikTvd": "434400995656",
+    "uikName": "УИК №926",
     "tikTvd": "2342000459633",
-    "tikName": "Волгоград, Тракторозаводская"
+    "tikName": "Волгоград, Тракторозаводская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 927,
     "uikTvd": "434400995657",
+    "uikName": "УИК №927",
     "tikTvd": "2342000459633",
-    "tikName": "Волгоград, Тракторозаводская"
+    "tikName": "Волгоград, Тракторозаводская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 928,
     "uikTvd": "434400995658",
+    "uikName": "УИК №928",
     "tikTvd": "2342000459633",
-    "tikName": "Волгоград, Тракторозаводская"
+    "tikName": "Волгоград, Тракторозаводская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 929,
     "uikTvd": "434400995659",
+    "uikName": "УИК №929",
     "tikTvd": "2342000459633",
-    "tikName": "Волгоград, Тракторозаводская"
+    "tikName": "Волгоград, Тракторозаводская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 930,
     "uikTvd": "434400995660",
+    "uikName": "УИК №930",
     "tikTvd": "2342000459633",
-    "tikName": "Волгоград, Тракторозаводская"
+    "tikName": "Волгоград, Тракторозаводская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 931,
     "uikTvd": "434400995661",
+    "uikName": "УИК №931",
     "tikTvd": "2342000459633",
-    "tikName": "Волгоград, Тракторозаводская"
+    "tikName": "Волгоград, Тракторозаводская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 932,
     "uikTvd": "434400995662",
+    "uikName": "УИК №932",
     "tikTvd": "2342000459633",
-    "tikName": "Волгоград, Тракторозаводская"
+    "tikName": "Волгоград, Тракторозаводская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 933,
     "uikTvd": "434400995663",
+    "uikName": "УИК №933",
     "tikTvd": "2342000459633",
-    "tikName": "Волгоград, Тракторозаводская"
+    "tikName": "Волгоград, Тракторозаводская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 934,
     "uikTvd": "434400995664",
+    "uikName": "УИК №934",
     "tikTvd": "2342000459633",
-    "tikName": "Волгоград, Тракторозаводская"
+    "tikName": "Волгоград, Тракторозаводская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 935,
     "uikTvd": "434400995665",
+    "uikName": "УИК №935",
     "tikTvd": "2342000459633",
-    "tikName": "Волгоград, Тракторозаводская"
+    "tikName": "Волгоград, Тракторозаводская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 936,
     "uikTvd": "434400995666",
+    "uikName": "УИК №936",
     "tikTvd": "2342000459633",
-    "tikName": "Волгоград, Тракторозаводская"
+    "tikName": "Волгоград, Тракторозаводская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 937,
     "uikTvd": "434400995667",
+    "uikName": "УИК №937",
     "tikTvd": "2342000459633",
-    "tikName": "Волгоград, Тракторозаводская"
+    "tikName": "Волгоград, Тракторозаводская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 938,
     "uikTvd": "434400995668",
+    "uikName": "УИК №938",
     "tikTvd": "2342000459633",
-    "tikName": "Волгоград, Тракторозаводская"
+    "tikName": "Волгоград, Тракторозаводская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 939,
     "uikTvd": "434400995669",
+    "uikName": "УИК №939",
     "tikTvd": "2342000459633",
-    "tikName": "Волгоград, Тракторозаводская"
+    "tikName": "Волгоград, Тракторозаводская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 940,
     "uikTvd": "434400995670",
+    "uikName": "УИК №940",
     "tikTvd": "2342000459633",
-    "tikName": "Волгоград, Тракторозаводская"
+    "tikName": "Волгоград, Тракторозаводская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 941,
     "uikTvd": "434400995671",
+    "uikName": "УИК №941",
     "tikTvd": "2342000459633",
-    "tikName": "Волгоград, Тракторозаводская"
+    "tikName": "Волгоград, Тракторозаводская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 942,
     "uikTvd": "434400995672",
+    "uikName": "УИК №942",
     "tikTvd": "2342000459633",
-    "tikName": "Волгоград, Тракторозаводская"
+    "tikName": "Волгоград, Тракторозаводская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 943,
     "uikTvd": "434400995673",
+    "uikName": "УИК №943",
     "tikTvd": "2342000459633",
-    "tikName": "Волгоград, Тракторозаводская"
+    "tikName": "Волгоград, Тракторозаводская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 944,
     "uikTvd": "434400995674",
+    "uikName": "УИК №944",
     "tikTvd": "2342000459633",
-    "tikName": "Волгоград, Тракторозаводская"
+    "tikName": "Волгоград, Тракторозаводская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 945,
     "uikTvd": "434400995675",
+    "uikName": "УИК №945",
     "tikTvd": "2342000459633",
-    "tikName": "Волгоград, Тракторозаводская"
+    "tikName": "Волгоград, Тракторозаводская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 946,
     "uikTvd": "434400995676",
+    "uikName": "УИК №946",
     "tikTvd": "2342000459633",
-    "tikName": "Волгоград, Тракторозаводская"
+    "tikName": "Волгоград, Тракторозаводская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 947,
     "uikTvd": "434400995677",
+    "uikName": "УИК №947",
     "tikTvd": "2342000459633",
-    "tikName": "Волгоград, Тракторозаводская"
+    "tikName": "Волгоград, Тракторозаводская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 948,
     "uikTvd": "434400995678",
+    "uikName": "УИК №948",
     "tikTvd": "2342000459633",
-    "tikName": "Волгоград, Тракторозаводская"
+    "tikName": "Волгоград, Тракторозаводская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 949,
     "uikTvd": "434400995679",
+    "uikName": "УИК №949",
     "tikTvd": "2342000459633",
-    "tikName": "Волгоград, Тракторозаводская"
+    "tikName": "Волгоград, Тракторозаводская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 950,
     "uikTvd": "434400995680",
+    "uikName": "УИК №950",
     "tikTvd": "2342000459633",
-    "tikName": "Волгоград, Тракторозаводская"
+    "tikName": "Волгоград, Тракторозаводская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 951,
     "uikTvd": "434400995681",
+    "uikName": "УИК №951",
     "tikTvd": "2342000459633",
-    "tikName": "Волгоград, Тракторозаводская"
+    "tikName": "Волгоград, Тракторозаводская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1001,
     "uikTvd": "434401094039",
+    "uikName": "УИК №1001",
     "tikTvd": "2342000459616",
-    "tikName": "Волгоград, Центральная"
+    "tikName": "Волгоград, Центральная",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1002,
     "uikTvd": "434401094040",
+    "uikName": "УИК №1002",
     "tikTvd": "2342000459616",
-    "tikName": "Волгоград, Центральная"
+    "tikName": "Волгоград, Центральная",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1003,
     "uikTvd": "434401094041",
+    "uikName": "УИК №1003",
     "tikTvd": "2342000459616",
-    "tikName": "Волгоград, Центральная"
+    "tikName": "Волгоград, Центральная",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1004,
     "uikTvd": "434401094042",
+    "uikName": "УИК №1004",
     "tikTvd": "2342000459616",
-    "tikName": "Волгоград, Центральная"
+    "tikName": "Волгоград, Центральная",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1005,
     "uikTvd": "434401094043",
+    "uikName": "УИК №1005",
     "tikTvd": "2342000459616",
-    "tikName": "Волгоград, Центральная"
+    "tikName": "Волгоград, Центральная",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1006,
     "uikTvd": "434401094044",
+    "uikName": "УИК №1006",
     "tikTvd": "2342000459616",
-    "tikName": "Волгоград, Центральная"
+    "tikName": "Волгоград, Центральная",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1007,
     "uikTvd": "434401094045",
+    "uikName": "УИК №1007",
     "tikTvd": "2342000459616",
-    "tikName": "Волгоград, Центральная"
+    "tikName": "Волгоград, Центральная",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1008,
     "uikTvd": "434401094046",
+    "uikName": "УИК №1008",
     "tikTvd": "2342000459616",
-    "tikName": "Волгоград, Центральная"
+    "tikName": "Волгоград, Центральная",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1009,
     "uikTvd": "434401094047",
+    "uikName": "УИК №1009",
     "tikTvd": "2342000459616",
-    "tikName": "Волгоград, Центральная"
+    "tikName": "Волгоград, Центральная",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1010,
     "uikTvd": "434401094048",
+    "uikName": "УИК №1010",
     "tikTvd": "2342000459616",
-    "tikName": "Волгоград, Центральная"
+    "tikName": "Волгоград, Центральная",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1011,
     "uikTvd": "434401094049",
+    "uikName": "УИК №1011",
     "tikTvd": "2342000459616",
-    "tikName": "Волгоград, Центральная"
+    "tikName": "Волгоград, Центральная",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1012,
     "uikTvd": "434401094050",
+    "uikName": "УИК №1012",
     "tikTvd": "2342000459616",
-    "tikName": "Волгоград, Центральная"
+    "tikName": "Волгоград, Центральная",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1013,
     "uikTvd": "434401094051",
+    "uikName": "УИК №1013",
     "tikTvd": "2342000459616",
-    "tikName": "Волгоград, Центральная"
+    "tikName": "Волгоград, Центральная",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1014,
     "uikTvd": "434401094052",
+    "uikName": "УИК №1014",
     "tikTvd": "2342000459616",
-    "tikName": "Волгоград, Центральная"
+    "tikName": "Волгоград, Центральная",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1015,
     "uikTvd": "434401094053",
+    "uikName": "УИК №1015",
     "tikTvd": "2342000459616",
-    "tikName": "Волгоград, Центральная"
+    "tikName": "Волгоград, Центральная",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1016,
     "uikTvd": "434401094054",
+    "uikName": "УИК №1016",
     "tikTvd": "2342000459616",
-    "tikName": "Волгоград, Центральная"
+    "tikName": "Волгоград, Центральная",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1017,
     "uikTvd": "434401094055",
+    "uikName": "УИК №1017",
     "tikTvd": "2342000459616",
-    "tikName": "Волгоград, Центральная"
+    "tikName": "Волгоград, Центральная",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1018,
     "uikTvd": "434401094056",
+    "uikName": "УИК №1018",
     "tikTvd": "2342000459616",
-    "tikName": "Волгоград, Центральная"
+    "tikName": "Волгоград, Центральная",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1019,
     "uikTvd": "434401094057",
+    "uikName": "УИК №1019",
     "tikTvd": "2342000459616",
-    "tikName": "Волгоград, Центральная"
+    "tikName": "Волгоград, Центральная",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1020,
     "uikTvd": "434401094058",
+    "uikName": "УИК №1020",
     "tikTvd": "2342000459616",
-    "tikName": "Волгоград, Центральная"
+    "tikName": "Волгоград, Центральная",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1021,
     "uikTvd": "434401094059",
+    "uikName": "УИК №1021",
     "tikTvd": "2342000459616",
-    "tikName": "Волгоград, Центральная"
+    "tikName": "Волгоград, Центральная",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1022,
     "uikTvd": "434401094060",
+    "uikName": "УИК №1022",
     "tikTvd": "2342000459616",
-    "tikName": "Волгоград, Центральная"
+    "tikName": "Волгоград, Центральная",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1023,
     "uikTvd": "434401094061",
+    "uikName": "УИК №1023",
     "tikTvd": "2342000459616",
-    "tikName": "Волгоград, Центральная"
+    "tikName": "Волгоград, Центральная",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1024,
     "uikTvd": "434401094062",
+    "uikName": "УИК №1024",
     "tikTvd": "2342000459616",
-    "tikName": "Волгоград, Центральная"
+    "tikName": "Волгоград, Центральная",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1025,
     "uikTvd": "434401094063",
+    "uikName": "УИК №1025",
     "tikTvd": "2342000459616",
-    "tikName": "Волгоград, Центральная"
+    "tikName": "Волгоград, Центральная",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1026,
     "uikTvd": "434401094064",
+    "uikName": "УИК №1026",
     "tikTvd": "2342000459616",
-    "tikName": "Волгоград, Центральная"
+    "tikName": "Волгоград, Центральная",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1027,
     "uikTvd": "434401094065",
+    "uikName": "УИК №1027",
     "tikTvd": "2342000459616",
-    "tikName": "Волгоград, Центральная"
+    "tikName": "Волгоград, Центральная",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1028,
     "uikTvd": "434401094066",
+    "uikName": "УИК №1028",
     "tikTvd": "2342000459616",
-    "tikName": "Волгоград, Центральная"
+    "tikName": "Волгоград, Центральная",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1029,
     "uikTvd": "434401094067",
+    "uikName": "УИК №1029",
     "tikTvd": "2342000459616",
-    "tikName": "Волгоград, Центральная"
+    "tikName": "Волгоград, Центральная",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1030,
     "uikTvd": "434401094068",
+    "uikName": "УИК №1030",
     "tikTvd": "2342000459616",
-    "tikName": "Волгоград, Центральная"
+    "tikName": "Волгоград, Центральная",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1031,
     "uikTvd": "434401094069",
+    "uikName": "УИК №1031",
     "tikTvd": "2342000459616",
-    "tikName": "Волгоград, Центральная"
+    "tikName": "Волгоград, Центральная",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1032,
     "uikTvd": "434401094070",
+    "uikName": "УИК №1032",
     "tikTvd": "2342000459616",
-    "tikName": "Волгоград, Центральная"
+    "tikName": "Волгоград, Центральная",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1033,
     "uikTvd": "434401094071",
+    "uikName": "УИК №1033",
     "tikTvd": "2342000459616",
-    "tikName": "Волгоград, Центральная"
+    "tikName": "Волгоград, Центральная",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1034,
     "uikTvd": "434401094072",
+    "uikName": "УИК №1034",
     "tikTvd": "2342000459616",
-    "tikName": "Волгоград, Центральная"
+    "tikName": "Волгоград, Центральная",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1100,
     "uikTvd": "4344011120199",
+    "uikName": "УИК №1100",
     "tikTvd": "2342000459632",
-    "tikName": "Волжская городская "
+    "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1101,
     "uikTvd": "4344011120200",
+    "uikName": "УИК №1101",
     "tikTvd": "2342000459632",
-    "tikName": "Волжская городская "
+    "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1102,
     "uikTvd": "4344011120201",
+    "uikName": "УИК №1102",
     "tikTvd": "2342000459632",
-    "tikName": "Волжская городская "
+    "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1103,
     "uikTvd": "4344011120202",
+    "uikName": "УИК №1103",
     "tikTvd": "2342000459632",
-    "tikName": "Волжская городская "
+    "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1104,
     "uikTvd": "4344011120203",
+    "uikName": "УИК №1104",
     "tikTvd": "2342000459632",
-    "tikName": "Волжская городская "
+    "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1105,
     "uikTvd": "4344011120204",
+    "uikName": "УИК №1105",
     "tikTvd": "2342000459632",
-    "tikName": "Волжская городская "
+    "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1106,
     "uikTvd": "4344011120205",
+    "uikName": "УИК №1106",
     "tikTvd": "2342000459632",
-    "tikName": "Волжская городская "
+    "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1107,
     "uikTvd": "4344011120206",
+    "uikName": "УИК №1107",
     "tikTvd": "2342000459632",
-    "tikName": "Волжская городская "
+    "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1108,
     "uikTvd": "4344011120207",
+    "uikName": "УИК №1108",
     "tikTvd": "2342000459632",
-    "tikName": "Волжская городская "
+    "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1109,
     "uikTvd": "4344011120208",
+    "uikName": "УИК №1109",
     "tikTvd": "2342000459632",
-    "tikName": "Волжская городская "
+    "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1110,
     "uikTvd": "4344011120209",
+    "uikName": "УИК №1110",
     "tikTvd": "2342000459632",
-    "tikName": "Волжская городская "
+    "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1111,
     "uikTvd": "4344011120210",
+    "uikName": "УИК №1111",
     "tikTvd": "2342000459632",
-    "tikName": "Волжская городская "
+    "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1112,
     "uikTvd": "4344011120211",
+    "uikName": "УИК №1112",
     "tikTvd": "2342000459632",
-    "tikName": "Волжская городская "
+    "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1113,
     "uikTvd": "4344011120212",
+    "uikName": "УИК №1113",
     "tikTvd": "2342000459632",
-    "tikName": "Волжская городская "
+    "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1114,
     "uikTvd": "4344011120213",
+    "uikName": "УИК №1114",
     "tikTvd": "2342000459632",
-    "tikName": "Волжская городская "
+    "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1115,
     "uikTvd": "4344011120214",
+    "uikName": "УИК №1115",
     "tikTvd": "2342000459632",
-    "tikName": "Волжская городская "
+    "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1116,
     "uikTvd": "4344011120215",
+    "uikName": "УИК №1116",
     "tikTvd": "2342000459632",
-    "tikName": "Волжская городская "
+    "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1117,
     "uikTvd": "4344011120216",
+    "uikName": "УИК №1117",
     "tikTvd": "2342000459632",
-    "tikName": "Волжская городская "
+    "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1118,
     "uikTvd": "4344011120217",
+    "uikName": "УИК №1118",
     "tikTvd": "2342000459632",
-    "tikName": "Волжская городская "
+    "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1119,
     "uikTvd": "4344011120218",
+    "uikName": "УИК №1119",
     "tikTvd": "2342000459632",
-    "tikName": "Волжская городская "
+    "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1120,
     "uikTvd": "4344011120219",
+    "uikName": "УИК №1120",
     "tikTvd": "2342000459632",
-    "tikName": "Волжская городская "
+    "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1121,
     "uikTvd": "4344011120220",
+    "uikName": "УИК №1121",
     "tikTvd": "2342000459632",
-    "tikName": "Волжская городская "
+    "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1122,
     "uikTvd": "4344011120221",
+    "uikName": "УИК №1122",
     "tikTvd": "2342000459632",
-    "tikName": "Волжская городская "
+    "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1123,
     "uikTvd": "4344011120222",
+    "uikName": "УИК №1123",
     "tikTvd": "2342000459632",
-    "tikName": "Волжская городская "
+    "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1124,
     "uikTvd": "4344011120223",
+    "uikName": "УИК №1124",
     "tikTvd": "2342000459632",
-    "tikName": "Волжская городская "
+    "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1125,
     "uikTvd": "4344011120224",
+    "uikName": "УИК №1125",
     "tikTvd": "2342000459632",
-    "tikName": "Волжская городская "
+    "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1126,
     "uikTvd": "4344011120225",
+    "uikName": "УИК №1126",
     "tikTvd": "2342000459632",
-    "tikName": "Волжская городская "
+    "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1127,
     "uikTvd": "4344011120226",
+    "uikName": "УИК №1127",
     "tikTvd": "2342000459632",
-    "tikName": "Волжская городская "
+    "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1128,
     "uikTvd": "4344011120227",
+    "uikName": "УИК №1128",
     "tikTvd": "2342000459632",
-    "tikName": "Волжская городская "
+    "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1129,
     "uikTvd": "4344011120228",
+    "uikName": "УИК №1129",
     "tikTvd": "2342000459632",
-    "tikName": "Волжская городская "
+    "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1130,
     "uikTvd": "4344011120229",
+    "uikName": "УИК №1130",
     "tikTvd": "2342000459632",
-    "tikName": "Волжская городская "
+    "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1131,
     "uikTvd": "4344011120230",
+    "uikName": "УИК №1131",
     "tikTvd": "2342000459632",
-    "tikName": "Волжская городская "
+    "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1132,
     "uikTvd": "4344011120231",
+    "uikName": "УИК №1132",
     "tikTvd": "2342000459632",
-    "tikName": "Волжская городская "
+    "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1133,
     "uikTvd": "4344011120232",
+    "uikName": "УИК №1133",
     "tikTvd": "2342000459632",
-    "tikName": "Волжская городская "
+    "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1134,
     "uikTvd": "4344011120233",
+    "uikName": "УИК №1134",
     "tikTvd": "2342000459632",
-    "tikName": "Волжская городская "
+    "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1135,
     "uikTvd": "4344011120234",
+    "uikName": "УИК №1135",
     "tikTvd": "2342000459632",
-    "tikName": "Волжская городская "
+    "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1136,
     "uikTvd": "4344011120235",
+    "uikName": "УИК №1136",
     "tikTvd": "2342000459632",
-    "tikName": "Волжская городская "
+    "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1137,
     "uikTvd": "4344011120236",
+    "uikName": "УИК №1137",
     "tikTvd": "2342000459632",
-    "tikName": "Волжская городская "
+    "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1138,
     "uikTvd": "4344011120237",
+    "uikName": "УИК №1138",
     "tikTvd": "2342000459632",
-    "tikName": "Волжская городская "
+    "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1139,
     "uikTvd": "4344011120238",
+    "uikName": "УИК №1139",
     "tikTvd": "2342000459632",
-    "tikName": "Волжская городская "
+    "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1140,
     "uikTvd": "4344011120239",
+    "uikName": "УИК №1140",
     "tikTvd": "2342000459632",
-    "tikName": "Волжская городская "
+    "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1141,
     "uikTvd": "4344011120240",
+    "uikName": "УИК №1141",
     "tikTvd": "2342000459632",
-    "tikName": "Волжская городская "
+    "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1142,
     "uikTvd": "4344011120241",
+    "uikName": "УИК №1142",
     "tikTvd": "2342000459632",
-    "tikName": "Волжская городская "
+    "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1143,
     "uikTvd": "4344011120242",
+    "uikName": "УИК №1143",
     "tikTvd": "2342000459632",
-    "tikName": "Волжская городская "
+    "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1144,
     "uikTvd": "4344011120243",
+    "uikName": "УИК №1144",
     "tikTvd": "2342000459632",
-    "tikName": "Волжская городская "
+    "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1145,
     "uikTvd": "4344011120244",
+    "uikName": "УИК №1145",
     "tikTvd": "2342000459632",
-    "tikName": "Волжская городская "
+    "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1146,
     "uikTvd": "4344011120245",
+    "uikName": "УИК №1146",
     "tikTvd": "2342000459632",
-    "tikName": "Волжская городская "
+    "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1147,
     "uikTvd": "4344011120246",
+    "uikName": "УИК №1147",
     "tikTvd": "2342000459632",
-    "tikName": "Волжская городская "
+    "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1148,
     "uikTvd": "4344011120247",
+    "uikName": "УИК №1148",
     "tikTvd": "2342000459632",
-    "tikName": "Волжская городская "
+    "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1149,
     "uikTvd": "4344011120248",
+    "uikName": "УИК №1149",
     "tikTvd": "2342000459632",
-    "tikName": "Волжская городская "
+    "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1150,
     "uikTvd": "4344011120249",
+    "uikName": "УИК №1150",
     "tikTvd": "2342000459632",
-    "tikName": "Волжская городская "
+    "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1151,
     "uikTvd": "4344011120250",
+    "uikName": "УИК №1151",
     "tikTvd": "2342000459632",
-    "tikName": "Волжская городская "
+    "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1152,
     "uikTvd": "4344011120251",
+    "uikName": "УИК №1152",
     "tikTvd": "2342000459632",
-    "tikName": "Волжская городская "
+    "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1153,
     "uikTvd": "4344011120252",
+    "uikName": "УИК №1153",
     "tikTvd": "2342000459632",
-    "tikName": "Волжская городская "
+    "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1154,
     "uikTvd": "4344011120253",
+    "uikName": "УИК №1154",
     "tikTvd": "2342000459632",
-    "tikName": "Волжская городская "
+    "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1155,
     "uikTvd": "4344011120254",
+    "uikName": "УИК №1155",
     "tikTvd": "2342000459632",
-    "tikName": "Волжская городская "
+    "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1156,
     "uikTvd": "4344011120255",
+    "uikName": "УИК №1156",
     "tikTvd": "2342000459632",
-    "tikName": "Волжская городская "
+    "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1157,
     "uikTvd": "4344011120256",
+    "uikName": "УИК №1157",
     "tikTvd": "2342000459632",
-    "tikName": "Волжская городская "
+    "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1158,
     "uikTvd": "4344011120257",
+    "uikName": "УИК №1158",
     "tikTvd": "2342000459632",
-    "tikName": "Волжская городская "
+    "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1159,
     "uikTvd": "4344011120258",
+    "uikName": "УИК №1159",
     "tikTvd": "2342000459632",
-    "tikName": "Волжская городская "
+    "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1160,
     "uikTvd": "4344011120259",
+    "uikName": "УИК №1160",
     "tikTvd": "2342000459632",
-    "tikName": "Волжская городская "
+    "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1161,
     "uikTvd": "4344011120260",
+    "uikName": "УИК №1161",
     "tikTvd": "2342000459632",
-    "tikName": "Волжская городская "
+    "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1162,
     "uikTvd": "4344011120261",
+    "uikName": "УИК №1162",
     "tikTvd": "2342000459632",
-    "tikName": "Волжская городская "
+    "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1163,
     "uikTvd": "4344011120262",
+    "uikName": "УИК №1163",
     "tikTvd": "2342000459632",
-    "tikName": "Волжская городская "
+    "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1164,
     "uikTvd": "4344011120263",
+    "uikName": "УИК №1164",
     "tikTvd": "2342000459632",
-    "tikName": "Волжская городская "
+    "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1165,
     "uikTvd": "4344011120264",
+    "uikName": "УИК №1165",
     "tikTvd": "2342000459632",
-    "tikName": "Волжская городская "
+    "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1166,
     "uikTvd": "4344011120265",
+    "uikName": "УИК №1166",
     "tikTvd": "2342000459632",
-    "tikName": "Волжская городская "
+    "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1167,
     "uikTvd": "4344011120266",
+    "uikName": "УИК №1167",
     "tikTvd": "2342000459632",
-    "tikName": "Волжская городская "
+    "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1168,
     "uikTvd": "4344011120267",
+    "uikName": "УИК №1168",
     "tikTvd": "2342000459632",
-    "tikName": "Волжская городская "
+    "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1169,
     "uikTvd": "4344011120268",
+    "uikName": "УИК №1169",
     "tikTvd": "2342000459632",
-    "tikName": "Волжская городская "
+    "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1170,
     "uikTvd": "4344011120269",
+    "uikName": "УИК №1170",
     "tikTvd": "2342000459632",
-    "tikName": "Волжская городская "
+    "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1171,
     "uikTvd": "4344011120270",
+    "uikName": "УИК №1171",
     "tikTvd": "2342000459632",
-    "tikName": "Волжская городская "
+    "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1172,
     "uikTvd": "4344011120271",
+    "uikName": "УИК №1172",
     "tikTvd": "2342000459632",
-    "tikName": "Волжская городская "
+    "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1173,
     "uikTvd": "4344011120272",
+    "uikName": "УИК №1173",
     "tikTvd": "2342000459632",
-    "tikName": "Волжская городская "
+    "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1174,
     "uikTvd": "4344011120273",
+    "uikName": "УИК №1174",
     "tikTvd": "2342000459632",
-    "tikName": "Волжская городская "
+    "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1175,
     "uikTvd": "4344011120274",
+    "uikName": "УИК №1175",
     "tikTvd": "2342000459632",
-    "tikName": "Волжская городская "
+    "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1176,
     "uikTvd": "4344011120275",
+    "uikName": "УИК №1176",
     "tikTvd": "2342000459632",
-    "tikName": "Волжская городская "
+    "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1177,
     "uikTvd": "4344011120276",
+    "uikName": "УИК №1177",
     "tikTvd": "2342000459632",
-    "tikName": "Волжская городская "
+    "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1178,
     "uikTvd": "4344011120277",
+    "uikName": "УИК №1178",
     "tikTvd": "2342000459632",
-    "tikName": "Волжская городская "
+    "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1179,
     "uikTvd": "4344011120278",
+    "uikName": "УИК №1179",
     "tikTvd": "2342000459632",
-    "tikName": "Волжская городская "
+    "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1180,
     "uikTvd": "4344011120279",
+    "uikName": "УИК №1180",
     "tikTvd": "2342000459632",
-    "tikName": "Волжская городская "
+    "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1181,
     "uikTvd": "4344011120280",
+    "uikName": "УИК №1181",
     "tikTvd": "2342000459632",
-    "tikName": "Волжская городская "
+    "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1182,
     "uikTvd": "4344011120281",
+    "uikName": "УИК №1182",
     "tikTvd": "2342000459632",
-    "tikName": "Волжская городская "
+    "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1183,
     "uikTvd": "4344011120282",
+    "uikName": "УИК №1183",
     "tikTvd": "2342000459632",
-    "tikName": "Волжская городская "
+    "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1184,
     "uikTvd": "4344011120283",
+    "uikName": "УИК №1184",
     "tikTvd": "2342000459632",
-    "tikName": "Волжская городская "
+    "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1185,
     "uikTvd": "4344011120284",
+    "uikName": "УИК №1185",
     "tikTvd": "2342000459632",
-    "tikName": "Волжская городская "
+    "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1186,
     "uikTvd": "4344011120285",
+    "uikName": "УИК №1186",
     "tikTvd": "2342000459632",
-    "tikName": "Волжская городская "
+    "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1187,
     "uikTvd": "4344011120286",
+    "uikName": "УИК №1187",
     "tikTvd": "2342000459632",
-    "tikName": "Волжская городская "
+    "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1188,
     "uikTvd": "4344011120287",
+    "uikName": "УИК №1188",
     "tikTvd": "2342000459632",
-    "tikName": "Волжская городская "
+    "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1189,
     "uikTvd": "4344011120288",
+    "uikName": "УИК №1189",
     "tikTvd": "2342000459632",
-    "tikName": "Волжская городская "
+    "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1190,
     "uikTvd": "4344011120289",
+    "uikName": "УИК №1190",
     "tikTvd": "2342000459632",
-    "tikName": "Волжская городская "
+    "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1191,
     "uikTvd": "4344011120290",
+    "uikName": "УИК №1191",
     "tikTvd": "2342000459632",
-    "tikName": "Волжская городская "
+    "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1192,
     "uikTvd": "4344011120291",
+    "uikName": "УИК №1192",
     "tikTvd": "2342000459632",
-    "tikName": "Волжская городская "
+    "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1193,
     "uikTvd": "4344011120292",
+    "uikName": "УИК №1193",
     "tikTvd": "2342000459632",
-    "tikName": "Волжская городская "
+    "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1194,
     "uikTvd": "4344011120293",
+    "uikName": "УИК №1194",
     "tikTvd": "2342000459632",
-    "tikName": "Волжская городская "
+    "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1195,
     "uikTvd": "4344011120294",
+    "uikName": "УИК №1195",
     "tikTvd": "2342000459632",
-    "tikName": "Волжская городская "
+    "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1196,
     "uikTvd": "4344011120295",
+    "uikName": "УИК №1196",
     "tikTvd": "2342000459632",
-    "tikName": "Волжская городская "
+    "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1197,
     "uikTvd": "4344011120296",
+    "uikName": "УИК №1197",
     "tikTvd": "2342000459632",
-    "tikName": "Волжская городская "
+    "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1198,
     "uikTvd": "4344011120297",
+    "uikName": "УИК №1198",
     "tikTvd": "2342000459632",
-    "tikName": "Волжская городская "
+    "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1199,
     "uikTvd": "4344011120298",
+    "uikName": "УИК №1199",
     "tikTvd": "2342000459632",
-    "tikName": "Волжская городская "
+    "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1201,
     "uikTvd": "4344012171052",
+    "uikName": "УИК №1201",
     "tikTvd": "2342000459660",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1202,
     "uikTvd": "4344012171053",
+    "uikName": "УИК №1202",
     "tikTvd": "2342000459660",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1203,
     "uikTvd": "4344012171054",
+    "uikName": "УИК №1203",
     "tikTvd": "2342000459660",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1204,
     "uikTvd": "4344012171055",
+    "uikName": "УИК №1204",
     "tikTvd": "2342000459660",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1205,
     "uikTvd": "4344012171056",
+    "uikName": "УИК №1205",
     "tikTvd": "2342000459660",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1206,
     "uikTvd": "4344012171057",
+    "uikName": "УИК №1206",
     "tikTvd": "2342000459660",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1207,
     "uikTvd": "4344012171058",
+    "uikName": "УИК №1207",
     "tikTvd": "2342000459660",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1208,
     "uikTvd": "4344012171059",
+    "uikName": "УИК №1208",
     "tikTvd": "2342000459660",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1209,
     "uikTvd": "4344012171060",
+    "uikName": "УИК №1209",
     "tikTvd": "2342000459660",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1210,
     "uikTvd": "4344012171061",
+    "uikName": "УИК №1210",
     "tikTvd": "2342000459660",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1211,
     "uikTvd": "4344012171062",
+    "uikName": "УИК №1211",
     "tikTvd": "2342000459660",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1212,
     "uikTvd": "4344012171063",
+    "uikName": "УИК №1212",
     "tikTvd": "2342000459660",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1213,
     "uikTvd": "4344012171064",
+    "uikName": "УИК №1213",
     "tikTvd": "2342000459660",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1214,
     "uikTvd": "4344012171065",
+    "uikName": "УИК №1214",
     "tikTvd": "2342000459660",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1215,
     "uikTvd": "4344012171066",
+    "uikName": "УИК №1215",
     "tikTvd": "2342000459660",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1216,
     "uikTvd": "4344012171067",
+    "uikName": "УИК №1216",
     "tikTvd": "2342000459660",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1217,
     "uikTvd": "4344012171068",
+    "uikName": "УИК №1217",
     "tikTvd": "2342000459660",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1218,
     "uikTvd": "4344012171069",
+    "uikName": "УИК №1218",
     "tikTvd": "2342000459660",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1219,
     "uikTvd": "4344012171070",
+    "uikName": "УИК №1219",
     "tikTvd": "2342000459660",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1220,
     "uikTvd": "4344012171071",
+    "uikName": "УИК №1220",
     "tikTvd": "2342000459660",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1221,
     "uikTvd": "4344012171072",
+    "uikName": "УИК №1221",
     "tikTvd": "2342000459660",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1222,
     "uikTvd": "4344012171073",
+    "uikName": "УИК №1222",
     "tikTvd": "2342000459660",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1223,
     "uikTvd": "4344012171074",
+    "uikName": "УИК №1223",
     "tikTvd": "2342000459660",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1224,
     "uikTvd": "4344012171075",
+    "uikName": "УИК №1224",
     "tikTvd": "2342000459660",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1225,
     "uikTvd": "4344012171076",
+    "uikName": "УИК №1225",
     "tikTvd": "2342000459660",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1226,
     "uikTvd": "4344012171077",
+    "uikName": "УИК №1226",
     "tikTvd": "2342000459660",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1227,
     "uikTvd": "4344012171078",
+    "uikName": "УИК №1227",
     "tikTvd": "2342000459660",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1228,
     "uikTvd": "4344012171079",
+    "uikName": "УИК №1228",
     "tikTvd": "2342000459660",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1229,
     "uikTvd": "4344012171080",
+    "uikName": "УИК №1229",
     "tikTvd": "2342000459660",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1230,
     "uikTvd": "4344012171081",
+    "uikName": "УИК №1230",
     "tikTvd": "2342000459660",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1231,
     "uikTvd": "4344012171082",
+    "uikName": "УИК №1231",
     "tikTvd": "2342000459660",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1232,
     "uikTvd": "4344012171083",
+    "uikName": "УИК №1232",
     "tikTvd": "2342000459660",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1233,
     "uikTvd": "4344012171084",
+    "uikName": "УИК №1233",
     "tikTvd": "2342000459660",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1234,
     "uikTvd": "4344012171085",
+    "uikName": "УИК №1234",
     "tikTvd": "2342000459660",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1235,
     "uikTvd": "4344012171086",
+    "uikName": "УИК №1235",
     "tikTvd": "2342000459660",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1236,
     "uikTvd": "4344012171087",
+    "uikName": "УИК №1236",
     "tikTvd": "2342000459660",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1237,
     "uikTvd": "4344012171088",
+    "uikName": "УИК №1237",
     "tikTvd": "2342000459660",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1238,
     "uikTvd": "4344012171089",
+    "uikName": "УИК №1238",
     "tikTvd": "2342000459660",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1239,
     "uikTvd": "4344012171090",
+    "uikName": "УИК №1239",
     "tikTvd": "2342000459660",
-    "tikName": "Городищенская"
+    "tikName": "Городищенская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1301,
     "uikTvd": "4344013123683",
+    "uikName": "УИК №1301",
     "tikTvd": "2342000459659",
-    "tikName": "Даниловская"
+    "tikName": "Даниловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1302,
     "uikTvd": "4344013123684",
+    "uikName": "УИК №1302",
     "tikTvd": "2342000459659",
-    "tikName": "Даниловская"
+    "tikName": "Даниловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1303,
     "uikTvd": "4344013123685",
+    "uikName": "УИК №1303",
     "tikTvd": "2342000459659",
-    "tikName": "Даниловская"
+    "tikName": "Даниловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1304,
     "uikTvd": "4344013123686",
+    "uikName": "УИК №1304",
     "tikTvd": "2342000459659",
-    "tikName": "Даниловская"
+    "tikName": "Даниловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1305,
     "uikTvd": "4344013123687",
+    "uikName": "УИК №1305",
     "tikTvd": "2342000459659",
-    "tikName": "Даниловская"
+    "tikName": "Даниловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1306,
     "uikTvd": "4344013123688",
+    "uikName": "УИК №1306",
     "tikTvd": "2342000459659",
-    "tikName": "Даниловская"
+    "tikName": "Даниловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1307,
     "uikTvd": "4344013123689",
+    "uikName": "УИК №1307",
     "tikTvd": "2342000459659",
-    "tikName": "Даниловская"
+    "tikName": "Даниловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1308,
     "uikTvd": "4344013123690",
+    "uikName": "УИК №1308",
     "tikTvd": "2342000459659",
-    "tikName": "Даниловская"
+    "tikName": "Даниловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1309,
     "uikTvd": "4344013123691",
+    "uikName": "УИК №1309",
     "tikTvd": "2342000459659",
-    "tikName": "Даниловская"
+    "tikName": "Даниловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1310,
     "uikTvd": "4344013123692",
+    "uikName": "УИК №1310",
     "tikTvd": "2342000459659",
-    "tikName": "Даниловская"
+    "tikName": "Даниловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1311,
     "uikTvd": "4344013123693",
+    "uikName": "УИК №1311",
     "tikTvd": "2342000459659",
-    "tikName": "Даниловская"
+    "tikName": "Даниловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1312,
     "uikTvd": "4344013123694",
+    "uikName": "УИК №1312",
     "tikTvd": "2342000459659",
-    "tikName": "Даниловская"
+    "tikName": "Даниловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1313,
     "uikTvd": "4344013123695",
+    "uikName": "УИК №1313",
     "tikTvd": "2342000459659",
-    "tikName": "Даниловская"
+    "tikName": "Даниловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1314,
     "uikTvd": "4344013123696",
+    "uikName": "УИК №1314",
     "tikTvd": "2342000459659",
-    "tikName": "Даниловская"
+    "tikName": "Даниловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1315,
     "uikTvd": "4344013123697",
+    "uikName": "УИК №1315",
     "tikTvd": "2342000459659",
-    "tikName": "Даниловская"
+    "tikName": "Даниловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1316,
     "uikTvd": "4344013123698",
+    "uikName": "УИК №1316",
     "tikTvd": "2342000459659",
-    "tikName": "Даниловская"
+    "tikName": "Даниловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1317,
     "uikTvd": "4344013123699",
+    "uikName": "УИК №1317",
     "tikTvd": "2342000459659",
-    "tikName": "Даниловская"
+    "tikName": "Даниловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1318,
     "uikTvd": "4344013123700",
+    "uikName": "УИК №1318",
     "tikTvd": "2342000459659",
-    "tikName": "Даниловская"
+    "tikName": "Даниловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1319,
     "uikTvd": "4344013123701",
+    "uikName": "УИК №1319",
     "tikTvd": "2342000459659",
-    "tikName": "Даниловская"
+    "tikName": "Даниловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1320,
     "uikTvd": "4344013123702",
+    "uikName": "УИК №1320",
     "tikTvd": "2342000459659",
-    "tikName": "Даниловская"
+    "tikName": "Даниловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1321,
     "uikTvd": "4344013123703",
+    "uikName": "УИК №1321",
     "tikTvd": "2342000459659",
-    "tikName": "Даниловская"
+    "tikName": "Даниловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1322,
     "uikTvd": "4344013123704",
+    "uikName": "УИК №1322",
     "tikTvd": "2342000459659",
-    "tikName": "Даниловская"
+    "tikName": "Даниловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1323,
     "uikTvd": "4344013123705",
+    "uikName": "УИК №1323",
     "tikTvd": "2342000459659",
-    "tikName": "Даниловская"
+    "tikName": "Даниловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1324,
     "uikTvd": "4344013123706",
+    "uikName": "УИК №1324",
     "tikTvd": "2342000459659",
-    "tikName": "Даниловская"
+    "tikName": "Даниловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1325,
     "uikTvd": "4344013123707",
+    "uikName": "УИК №1325",
     "tikTvd": "2342000459659",
-    "tikName": "Даниловская"
+    "tikName": "Даниловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1401,
     "uikTvd": "4344014145878",
+    "uikName": "УИК №1401",
     "tikTvd": "2342000459658",
-    "tikName": "Дубовская"
+    "tikName": "Дубовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1402,
     "uikTvd": "4344014145879",
+    "uikName": "УИК №1402",
     "tikTvd": "2342000459658",
-    "tikName": "Дубовская"
+    "tikName": "Дубовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1403,
     "uikTvd": "4344014145880",
+    "uikName": "УИК №1403",
     "tikTvd": "2342000459658",
-    "tikName": "Дубовская"
+    "tikName": "Дубовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1404,
     "uikTvd": "4344014145881",
+    "uikName": "УИК №1404",
     "tikTvd": "2342000459658",
-    "tikName": "Дубовская"
+    "tikName": "Дубовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1405,
     "uikTvd": "4344014145882",
+    "uikName": "УИК №1405",
     "tikTvd": "2342000459658",
-    "tikName": "Дубовская"
+    "tikName": "Дубовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1406,
     "uikTvd": "4344014145883",
+    "uikName": "УИК №1406",
     "tikTvd": "2342000459658",
-    "tikName": "Дубовская"
+    "tikName": "Дубовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1407,
     "uikTvd": "4344014145884",
+    "uikName": "УИК №1407",
     "tikTvd": "2342000459658",
-    "tikName": "Дубовская"
+    "tikName": "Дубовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1408,
     "uikTvd": "4344014145885",
+    "uikName": "УИК №1408",
     "tikTvd": "2342000459658",
-    "tikName": "Дубовская"
+    "tikName": "Дубовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1409,
     "uikTvd": "4344014145886",
+    "uikName": "УИК №1409",
     "tikTvd": "2342000459658",
-    "tikName": "Дубовская"
+    "tikName": "Дубовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1410,
     "uikTvd": "4344014145887",
+    "uikName": "УИК №1410",
     "tikTvd": "2342000459658",
-    "tikName": "Дубовская"
+    "tikName": "Дубовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1411,
     "uikTvd": "4344014145888",
+    "uikName": "УИК №1411",
     "tikTvd": "2342000459658",
-    "tikName": "Дубовская"
+    "tikName": "Дубовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1412,
     "uikTvd": "4344014145889",
+    "uikName": "УИК №1412",
     "tikTvd": "2342000459658",
-    "tikName": "Дубовская"
+    "tikName": "Дубовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1413,
     "uikTvd": "4344014145890",
+    "uikName": "УИК №1413",
     "tikTvd": "2342000459658",
-    "tikName": "Дубовская"
+    "tikName": "Дубовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1414,
     "uikTvd": "4344014145891",
+    "uikName": "УИК №1414",
     "tikTvd": "2342000459658",
-    "tikName": "Дубовская"
+    "tikName": "Дубовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1415,
     "uikTvd": "4344014145892",
+    "uikName": "УИК №1415",
     "tikTvd": "2342000459658",
-    "tikName": "Дубовская"
+    "tikName": "Дубовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1416,
     "uikTvd": "4344014145893",
+    "uikName": "УИК №1416",
     "tikTvd": "2342000459658",
-    "tikName": "Дубовская"
+    "tikName": "Дубовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1417,
     "uikTvd": "4344014145894",
+    "uikName": "УИК №1417",
     "tikTvd": "2342000459658",
-    "tikName": "Дубовская"
+    "tikName": "Дубовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1418,
     "uikTvd": "4344014145895",
+    "uikName": "УИК №1418",
     "tikTvd": "2342000459658",
-    "tikName": "Дубовская"
+    "tikName": "Дубовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1419,
     "uikTvd": "4344014145896",
+    "uikName": "УИК №1419",
     "tikTvd": "2342000459658",
-    "tikName": "Дубовская"
+    "tikName": "Дубовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1420,
     "uikTvd": "4344014145897",
+    "uikName": "УИК №1420",
     "tikTvd": "2342000459658",
-    "tikName": "Дубовская"
+    "tikName": "Дубовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1421,
     "uikTvd": "4344014145898",
+    "uikName": "УИК №1421",
     "tikTvd": "2342000459658",
-    "tikName": "Дубовская"
+    "tikName": "Дубовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1422,
     "uikTvd": "4344014145899",
+    "uikName": "УИК №1422",
     "tikTvd": "2342000459658",
-    "tikName": "Дубовская"
+    "tikName": "Дубовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1423,
     "uikTvd": "4344014145900",
+    "uikName": "УИК №1423",
     "tikTvd": "2342000459658",
-    "tikName": "Дубовская"
+    "tikName": "Дубовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1424,
     "uikTvd": "4344014145901",
+    "uikName": "УИК №1424",
     "tikTvd": "2342000459658",
-    "tikName": "Дубовская"
+    "tikName": "Дубовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1425,
     "uikTvd": "4344014145902",
+    "uikName": "УИК №1425",
     "tikTvd": "2342000459658",
-    "tikName": "Дубовская"
+    "tikName": "Дубовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1426,
     "uikTvd": "4344014145903",
+    "uikName": "УИК №1426",
     "tikTvd": "2342000459658",
-    "tikName": "Дубовская"
+    "tikName": "Дубовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1427,
     "uikTvd": "4344014145904",
+    "uikName": "УИК №1427",
     "tikTvd": "2342000459658",
-    "tikName": "Дубовская"
+    "tikName": "Дубовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1428,
     "uikTvd": "4344014145905",
+    "uikName": "УИК №1428",
     "tikTvd": "2342000459658",
-    "tikName": "Дубовская"
+    "tikName": "Дубовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1429,
     "uikTvd": "4344014145906",
+    "uikName": "УИК №1429",
     "tikTvd": "2342000459658",
-    "tikName": "Дубовская"
+    "tikName": "Дубовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1430,
     "uikTvd": "4344014145907",
+    "uikName": "УИК №1430",
     "tikTvd": "2342000459658",
-    "tikName": "Дубовская"
+    "tikName": "Дубовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1431,
     "uikTvd": "4344014145908",
+    "uikName": "УИК №1431",
     "tikTvd": "2342000459658",
-    "tikName": "Дубовская"
+    "tikName": "Дубовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1432,
     "uikTvd": "4344014145909",
+    "uikName": "УИК №1432",
     "tikTvd": "2342000459658",
-    "tikName": "Дубовская"
+    "tikName": "Дубовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1433,
     "uikTvd": "4344014145910",
+    "uikName": "УИК №1433",
     "tikTvd": "2342000459658",
-    "tikName": "Дубовская"
+    "tikName": "Дубовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1434,
     "uikTvd": "4344014145911",
+    "uikName": "УИК №1434",
     "tikTvd": "2342000459658",
-    "tikName": "Дубовская"
+    "tikName": "Дубовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1435,
     "uikTvd": "4344014145912",
+    "uikName": "УИК №1435",
     "tikTvd": "2342000459658",
-    "tikName": "Дубовская"
+    "tikName": "Дубовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1436,
     "uikTvd": "4344014145913",
+    "uikName": "УИК №1436",
     "tikTvd": "2342000459658",
-    "tikName": "Дубовская"
+    "tikName": "Дубовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1501,
     "uikTvd": "4344015144465",
+    "uikName": "УИК №1501",
     "tikTvd": "2342000459657",
-    "tikName": "Еланская"
+    "tikName": "Еланская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1502,
     "uikTvd": "4344015144466",
+    "uikName": "УИК №1502",
     "tikTvd": "2342000459657",
-    "tikName": "Еланская"
+    "tikName": "Еланская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1503,
     "uikTvd": "4344015144467",
+    "uikName": "УИК №1503",
     "tikTvd": "2342000459657",
-    "tikName": "Еланская"
+    "tikName": "Еланская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1504,
     "uikTvd": "4344015144468",
+    "uikName": "УИК №1504",
     "tikTvd": "2342000459657",
-    "tikName": "Еланская"
+    "tikName": "Еланская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1505,
     "uikTvd": "4344015144469",
+    "uikName": "УИК №1505",
     "tikTvd": "2342000459657",
-    "tikName": "Еланская"
+    "tikName": "Еланская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1506,
     "uikTvd": "4344015144470",
+    "uikName": "УИК №1506",
     "tikTvd": "2342000459657",
-    "tikName": "Еланская"
+    "tikName": "Еланская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1507,
     "uikTvd": "4344015144471",
+    "uikName": "УИК №1507",
     "tikTvd": "2342000459657",
-    "tikName": "Еланская"
+    "tikName": "Еланская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1508,
     "uikTvd": "4344015144472",
+    "uikName": "УИК №1508",
     "tikTvd": "2342000459657",
-    "tikName": "Еланская"
+    "tikName": "Еланская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1509,
     "uikTvd": "4344015144473",
+    "uikName": "УИК №1509",
     "tikTvd": "2342000459657",
-    "tikName": "Еланская"
+    "tikName": "Еланская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1510,
     "uikTvd": "4344015144474",
+    "uikName": "УИК №1510",
     "tikTvd": "2342000459657",
-    "tikName": "Еланская"
+    "tikName": "Еланская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1511,
     "uikTvd": "4344015144475",
+    "uikName": "УИК №1511",
     "tikTvd": "2342000459657",
-    "tikName": "Еланская"
+    "tikName": "Еланская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1512,
     "uikTvd": "4344015144476",
+    "uikName": "УИК №1512",
     "tikTvd": "2342000459657",
-    "tikName": "Еланская"
+    "tikName": "Еланская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1513,
     "uikTvd": "4344015144477",
+    "uikName": "УИК №1513",
     "tikTvd": "2342000459657",
-    "tikName": "Еланская"
+    "tikName": "Еланская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1514,
     "uikTvd": "4344015144478",
+    "uikName": "УИК №1514",
     "tikTvd": "2342000459657",
-    "tikName": "Еланская"
+    "tikName": "Еланская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1515,
     "uikTvd": "4344015144479",
+    "uikName": "УИК №1515",
     "tikTvd": "2342000459657",
-    "tikName": "Еланская"
+    "tikName": "Еланская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1516,
     "uikTvd": "4344015144480",
+    "uikName": "УИК №1516",
     "tikTvd": "2342000459657",
-    "tikName": "Еланская"
+    "tikName": "Еланская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1517,
     "uikTvd": "4344015144481",
+    "uikName": "УИК №1517",
     "tikTvd": "2342000459657",
-    "tikName": "Еланская"
+    "tikName": "Еланская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1518,
     "uikTvd": "4344015144482",
+    "uikName": "УИК №1518",
     "tikTvd": "2342000459657",
-    "tikName": "Еланская"
+    "tikName": "Еланская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1519,
     "uikTvd": "4344015144483",
+    "uikName": "УИК №1519",
     "tikTvd": "2342000459657",
-    "tikName": "Еланская"
+    "tikName": "Еланская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1520,
     "uikTvd": "4344015144484",
+    "uikName": "УИК №1520",
     "tikTvd": "2342000459657",
-    "tikName": "Еланская"
+    "tikName": "Еланская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1521,
     "uikTvd": "4344015144485",
+    "uikName": "УИК №1521",
     "tikTvd": "2342000459657",
-    "tikName": "Еланская"
+    "tikName": "Еланская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1522,
     "uikTvd": "4344015144486",
+    "uikName": "УИК №1522",
     "tikTvd": "2342000459657",
-    "tikName": "Еланская"
+    "tikName": "Еланская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1523,
     "uikTvd": "4344015144487",
+    "uikName": "УИК №1523",
     "tikTvd": "2342000459657",
-    "tikName": "Еланская"
+    "tikName": "Еланская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1524,
     "uikTvd": "4344015144488",
+    "uikName": "УИК №1524",
     "tikTvd": "2342000459657",
-    "tikName": "Еланская"
+    "tikName": "Еланская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1525,
     "uikTvd": "4344015144489",
+    "uikName": "УИК №1525",
     "tikTvd": "2342000459657",
-    "tikName": "Еланская"
+    "tikName": "Еланская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1526,
     "uikTvd": "4344015144490",
+    "uikName": "УИК №1526",
     "tikTvd": "2342000459657",
-    "tikName": "Еланская"
+    "tikName": "Еланская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1527,
     "uikTvd": "4344015144491",
+    "uikName": "УИК №1527",
     "tikTvd": "2342000459657",
-    "tikName": "Еланская"
+    "tikName": "Еланская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1528,
     "uikTvd": "4344015144492",
+    "uikName": "УИК №1528",
     "tikTvd": "2342000459657",
-    "tikName": "Еланская"
+    "tikName": "Еланская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1529,
     "uikTvd": "4344015144493",
+    "uikName": "УИК №1529",
     "tikTvd": "2342000459657",
-    "tikName": "Еланская"
+    "tikName": "Еланская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1530,
     "uikTvd": "4344015144494",
+    "uikName": "УИК №1530",
     "tikTvd": "2342000459657",
-    "tikName": "Еланская"
+    "tikName": "Еланская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1531,
     "uikTvd": "4344015144495",
+    "uikName": "УИК №1531",
     "tikTvd": "2342000459657",
-    "tikName": "Еланская"
+    "tikName": "Еланская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1532,
     "uikTvd": "4344015144496",
+    "uikName": "УИК №1532",
     "tikTvd": "2342000459657",
-    "tikName": "Еланская"
+    "tikName": "Еланская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1533,
     "uikTvd": "4344015144497",
+    "uikName": "УИК №1533",
     "tikTvd": "2342000459657",
-    "tikName": "Еланская"
+    "tikName": "Еланская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1534,
     "uikTvd": "4344015144498",
+    "uikName": "УИК №1534",
     "tikTvd": "2342000459657",
-    "tikName": "Еланская"
+    "tikName": "Еланская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1535,
     "uikTvd": "4344015144499",
+    "uikName": "УИК №1535",
     "tikTvd": "2342000459657",
-    "tikName": "Еланская"
+    "tikName": "Еланская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1536,
     "uikTvd": "4344015144500",
+    "uikName": "УИК №1536",
     "tikTvd": "2342000459657",
-    "tikName": "Еланская"
+    "tikName": "Еланская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1537,
     "uikTvd": "4344015144501",
+    "uikName": "УИК №1537",
     "tikTvd": "2342000459657",
-    "tikName": "Еланская"
+    "tikName": "Еланская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1601,
     "uikTvd": "4344016142409",
+    "uikName": "УИК №1601",
     "tikTvd": "2342000459656",
-    "tikName": "Жирновская"
+    "tikName": "Жирновская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1602,
     "uikTvd": "4344016142410",
+    "uikName": "УИК №1602",
     "tikTvd": "2342000459656",
-    "tikName": "Жирновская"
+    "tikName": "Жирновская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1603,
     "uikTvd": "4344016142411",
+    "uikName": "УИК №1603",
     "tikTvd": "2342000459656",
-    "tikName": "Жирновская"
+    "tikName": "Жирновская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1604,
     "uikTvd": "4344016142412",
+    "uikName": "УИК №1604",
     "tikTvd": "2342000459656",
-    "tikName": "Жирновская"
+    "tikName": "Жирновская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1605,
     "uikTvd": "4344016142413",
+    "uikName": "УИК №1605",
     "tikTvd": "2342000459656",
-    "tikName": "Жирновская"
+    "tikName": "Жирновская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1606,
     "uikTvd": "4344016142414",
+    "uikName": "УИК №1606",
     "tikTvd": "2342000459656",
-    "tikName": "Жирновская"
+    "tikName": "Жирновская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1607,
     "uikTvd": "4344016142415",
+    "uikName": "УИК №1607",
     "tikTvd": "2342000459656",
-    "tikName": "Жирновская"
+    "tikName": "Жирновская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1608,
     "uikTvd": "4344016142416",
+    "uikName": "УИК №1608",
     "tikTvd": "2342000459656",
-    "tikName": "Жирновская"
+    "tikName": "Жирновская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1609,
     "uikTvd": "4344016142417",
+    "uikName": "УИК №1609",
     "tikTvd": "2342000459656",
-    "tikName": "Жирновская"
+    "tikName": "Жирновская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1610,
     "uikTvd": "4344016142418",
+    "uikName": "УИК №1610",
     "tikTvd": "2342000459656",
-    "tikName": "Жирновская"
+    "tikName": "Жирновская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1611,
     "uikTvd": "4344016142419",
+    "uikName": "УИК №1611",
     "tikTvd": "2342000459656",
-    "tikName": "Жирновская"
+    "tikName": "Жирновская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1612,
     "uikTvd": "4344016142420",
+    "uikName": "УИК №1612",
     "tikTvd": "2342000459656",
-    "tikName": "Жирновская"
+    "tikName": "Жирновская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1613,
     "uikTvd": "4344016142421",
+    "uikName": "УИК №1613",
     "tikTvd": "2342000459656",
-    "tikName": "Жирновская"
+    "tikName": "Жирновская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1614,
     "uikTvd": "4344016142422",
+    "uikName": "УИК №1614",
     "tikTvd": "2342000459656",
-    "tikName": "Жирновская"
+    "tikName": "Жирновская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1615,
     "uikTvd": "4344016142423",
+    "uikName": "УИК №1615",
     "tikTvd": "2342000459656",
-    "tikName": "Жирновская"
+    "tikName": "Жирновская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1616,
     "uikTvd": "4344016142424",
+    "uikName": "УИК №1616",
     "tikTvd": "2342000459656",
-    "tikName": "Жирновская"
+    "tikName": "Жирновская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1617,
     "uikTvd": "4344016142425",
+    "uikName": "УИК №1617",
     "tikTvd": "2342000459656",
-    "tikName": "Жирновская"
+    "tikName": "Жирновская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1618,
     "uikTvd": "4344016142426",
+    "uikName": "УИК №1618",
     "tikTvd": "2342000459656",
-    "tikName": "Жирновская"
+    "tikName": "Жирновская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1619,
     "uikTvd": "4344016142427",
+    "uikName": "УИК №1619",
     "tikTvd": "2342000459656",
-    "tikName": "Жирновская"
+    "tikName": "Жирновская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1620,
     "uikTvd": "4344016142428",
+    "uikName": "УИК №1620",
     "tikTvd": "2342000459656",
-    "tikName": "Жирновская"
+    "tikName": "Жирновская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1621,
     "uikTvd": "4344016142429",
+    "uikName": "УИК №1621",
     "tikTvd": "2342000459656",
-    "tikName": "Жирновская"
+    "tikName": "Жирновская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1622,
     "uikTvd": "4344016142430",
+    "uikName": "УИК №1622",
     "tikTvd": "2342000459656",
-    "tikName": "Жирновская"
+    "tikName": "Жирновская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1623,
     "uikTvd": "4344016142431",
+    "uikName": "УИК №1623",
     "tikTvd": "2342000459656",
-    "tikName": "Жирновская"
+    "tikName": "Жирновская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1624,
     "uikTvd": "4344016142432",
+    "uikName": "УИК №1624",
     "tikTvd": "2342000459656",
-    "tikName": "Жирновская"
+    "tikName": "Жирновская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1625,
     "uikTvd": "4344016142433",
+    "uikName": "УИК №1625",
     "tikTvd": "2342000459656",
-    "tikName": "Жирновская"
+    "tikName": "Жирновская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1626,
     "uikTvd": "4344016142434",
+    "uikName": "УИК №1626",
     "tikTvd": "2342000459656",
-    "tikName": "Жирновская"
+    "tikName": "Жирновская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1627,
     "uikTvd": "4344016142435",
+    "uikName": "УИК №1627",
     "tikTvd": "2342000459656",
-    "tikName": "Жирновская"
+    "tikName": "Жирновская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1628,
     "uikTvd": "4344016142436",
+    "uikName": "УИК №1628",
     "tikTvd": "2342000459656",
-    "tikName": "Жирновская"
+    "tikName": "Жирновская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1629,
     "uikTvd": "4344016142437",
+    "uikName": "УИК №1629",
     "tikTvd": "2342000459656",
-    "tikName": "Жирновская"
+    "tikName": "Жирновская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1630,
     "uikTvd": "4344016142438",
+    "uikName": "УИК №1630",
     "tikTvd": "2342000459656",
-    "tikName": "Жирновская"
+    "tikName": "Жирновская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1631,
     "uikTvd": "4344016142439",
+    "uikName": "УИК №1631",
     "tikTvd": "2342000459656",
-    "tikName": "Жирновская"
+    "tikName": "Жирновская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1632,
     "uikTvd": "4344016142440",
+    "uikName": "УИК №1632",
     "tikTvd": "2342000459656",
-    "tikName": "Жирновская"
+    "tikName": "Жирновская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1633,
     "uikTvd": "4344016142441",
+    "uikName": "УИК №1633",
     "tikTvd": "2342000459656",
-    "tikName": "Жирновская"
+    "tikName": "Жирновская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1634,
     "uikTvd": "4344016142442",
+    "uikName": "УИК №1634",
     "tikTvd": "2342000459656",
-    "tikName": "Жирновская"
+    "tikName": "Жирновская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1635,
     "uikTvd": "4344016142443",
+    "uikName": "УИК №1635",
     "tikTvd": "2342000459656",
-    "tikName": "Жирновская"
+    "tikName": "Жирновская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1636,
     "uikTvd": "4344016142444",
+    "uikName": "УИК №1636",
     "tikTvd": "2342000459656",
-    "tikName": "Жирновская"
+    "tikName": "Жирновская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1637,
     "uikTvd": "4344016142445",
+    "uikName": "УИК №1637",
     "tikTvd": "2342000459656",
-    "tikName": "Жирновская"
+    "tikName": "Жирновская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1638,
     "uikTvd": "4344016142446",
+    "uikName": "УИК №1638",
     "tikTvd": "2342000459656",
-    "tikName": "Жирновская"
+    "tikName": "Жирновская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1639,
     "uikTvd": "4344016142447",
+    "uikName": "УИК №1639",
     "tikTvd": "2342000459656",
-    "tikName": "Жирновская"
+    "tikName": "Жирновская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1640,
     "uikTvd": "4344016142448",
+    "uikName": "УИК №1640",
     "tikTvd": "2342000459656",
-    "tikName": "Жирновская"
+    "tikName": "Жирновская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1641,
     "uikTvd": "4344016142449",
+    "uikName": "УИК №1641",
     "tikTvd": "2342000459656",
-    "tikName": "Жирновская"
+    "tikName": "Жирновская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1642,
     "uikTvd": "4344016142450",
+    "uikName": "УИК №1642",
     "tikTvd": "2342000459656",
-    "tikName": "Жирновская"
+    "tikName": "Жирновская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1701,
     "uikTvd": "4344017136223",
+    "uikName": "УИК №1701",
     "tikTvd": "2342000459655",
-    "tikName": "Иловлинская"
+    "tikName": "Иловлинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1702,
     "uikTvd": "4344017136224",
+    "uikName": "УИК №1702",
     "tikTvd": "2342000459655",
-    "tikName": "Иловлинская"
+    "tikName": "Иловлинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1703,
     "uikTvd": "4344017136225",
+    "uikName": "УИК №1703",
     "tikTvd": "2342000459655",
-    "tikName": "Иловлинская"
+    "tikName": "Иловлинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1704,
     "uikTvd": "4344017136226",
+    "uikName": "УИК №1704",
     "tikTvd": "2342000459655",
-    "tikName": "Иловлинская"
+    "tikName": "Иловлинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1705,
     "uikTvd": "4344017136227",
+    "uikName": "УИК №1705",
     "tikTvd": "2342000459655",
-    "tikName": "Иловлинская"
+    "tikName": "Иловлинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1706,
     "uikTvd": "4344017136228",
+    "uikName": "УИК №1706",
     "tikTvd": "2342000459655",
-    "tikName": "Иловлинская"
+    "tikName": "Иловлинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1707,
     "uikTvd": "4344017136229",
+    "uikName": "УИК №1707",
     "tikTvd": "2342000459655",
-    "tikName": "Иловлинская"
+    "tikName": "Иловлинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1708,
     "uikTvd": "4344017136230",
+    "uikName": "УИК №1708",
     "tikTvd": "2342000459655",
-    "tikName": "Иловлинская"
+    "tikName": "Иловлинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1709,
     "uikTvd": "4344017136231",
+    "uikName": "УИК №1709",
     "tikTvd": "2342000459655",
-    "tikName": "Иловлинская"
+    "tikName": "Иловлинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1710,
     "uikTvd": "4344017136232",
+    "uikName": "УИК №1710",
     "tikTvd": "2342000459655",
-    "tikName": "Иловлинская"
+    "tikName": "Иловлинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1711,
     "uikTvd": "4344017136233",
+    "uikName": "УИК №1711",
     "tikTvd": "2342000459655",
-    "tikName": "Иловлинская"
+    "tikName": "Иловлинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1712,
     "uikTvd": "4344017136234",
+    "uikName": "УИК №1712",
     "tikTvd": "2342000459655",
-    "tikName": "Иловлинская"
+    "tikName": "Иловлинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1713,
     "uikTvd": "4344017136235",
+    "uikName": "УИК №1713",
     "tikTvd": "2342000459655",
-    "tikName": "Иловлинская"
+    "tikName": "Иловлинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1714,
     "uikTvd": "4344017136236",
+    "uikName": "УИК №1714",
     "tikTvd": "2342000459655",
-    "tikName": "Иловлинская"
+    "tikName": "Иловлинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1715,
     "uikTvd": "4344017136237",
+    "uikName": "УИК №1715",
     "tikTvd": "2342000459655",
-    "tikName": "Иловлинская"
+    "tikName": "Иловлинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1716,
     "uikTvd": "4344017136238",
+    "uikName": "УИК №1716",
     "tikTvd": "2342000459655",
-    "tikName": "Иловлинская"
+    "tikName": "Иловлинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1717,
     "uikTvd": "4344017136239",
+    "uikName": "УИК №1717",
     "tikTvd": "2342000459655",
-    "tikName": "Иловлинская"
+    "tikName": "Иловлинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1718,
     "uikTvd": "4344017136240",
+    "uikName": "УИК №1718",
     "tikTvd": "2342000459655",
-    "tikName": "Иловлинская"
+    "tikName": "Иловлинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1719,
     "uikTvd": "4344017136241",
+    "uikName": "УИК №1719",
     "tikTvd": "2342000459655",
-    "tikName": "Иловлинская"
+    "tikName": "Иловлинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1720,
     "uikTvd": "4344017136242",
+    "uikName": "УИК №1720",
     "tikTvd": "2342000459655",
-    "tikName": "Иловлинская"
+    "tikName": "Иловлинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1721,
     "uikTvd": "4344017136243",
+    "uikName": "УИК №1721",
     "tikTvd": "2342000459655",
-    "tikName": "Иловлинская"
+    "tikName": "Иловлинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1722,
     "uikTvd": "4344017136244",
+    "uikName": "УИК №1722",
     "tikTvd": "2342000459655",
-    "tikName": "Иловлинская"
+    "tikName": "Иловлинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1723,
     "uikTvd": "4344017136245",
+    "uikName": "УИК №1723",
     "tikTvd": "2342000459655",
-    "tikName": "Иловлинская"
+    "tikName": "Иловлинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1724,
     "uikTvd": "4344017136246",
+    "uikName": "УИК №1724",
     "tikTvd": "2342000459655",
-    "tikName": "Иловлинская"
+    "tikName": "Иловлинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1725,
     "uikTvd": "4344017136247",
+    "uikName": "УИК №1725",
     "tikTvd": "2342000459655",
-    "tikName": "Иловлинская"
+    "tikName": "Иловлинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1726,
     "uikTvd": "4344017136248",
+    "uikName": "УИК №1726",
     "tikTvd": "2342000459655",
-    "tikName": "Иловлинская"
+    "tikName": "Иловлинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1727,
     "uikTvd": "4344017136249",
+    "uikName": "УИК №1727",
     "tikTvd": "2342000459655",
-    "tikName": "Иловлинская"
+    "tikName": "Иловлинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1728,
     "uikTvd": "4344017136250",
+    "uikName": "УИК №1728",
     "tikTvd": "2342000459655",
-    "tikName": "Иловлинская"
+    "tikName": "Иловлинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1729,
     "uikTvd": "4344017136251",
+    "uikName": "УИК №1729",
     "tikTvd": "2342000459655",
-    "tikName": "Иловлинская"
+    "tikName": "Иловлинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1730,
     "uikTvd": "4344017136252",
+    "uikName": "УИК №1730",
     "tikTvd": "2342000459655",
-    "tikName": "Иловлинская"
+    "tikName": "Иловлинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1731,
     "uikTvd": "4344017136253",
+    "uikName": "УИК №1731",
     "tikTvd": "2342000459655",
-    "tikName": "Иловлинская"
+    "tikName": "Иловлинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1732,
     "uikTvd": "4344017136254",
+    "uikName": "УИК №1732",
     "tikTvd": "2342000459655",
-    "tikName": "Иловлинская"
+    "tikName": "Иловлинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1733,
     "uikTvd": "4344017136255",
+    "uikName": "УИК №1733",
     "tikTvd": "2342000459655",
-    "tikName": "Иловлинская"
+    "tikName": "Иловлинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1734,
     "uikTvd": "4344017136256",
+    "uikName": "УИК №1734",
     "tikTvd": "2342000459655",
-    "tikName": "Иловлинская"
+    "tikName": "Иловлинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1735,
     "uikTvd": "4344017136257",
+    "uikName": "УИК №1735",
     "tikTvd": "2342000459655",
-    "tikName": "Иловлинская"
+    "tikName": "Иловлинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1736,
     "uikTvd": "4344017136258",
+    "uikName": "УИК №1736",
     "tikTvd": "2342000459655",
-    "tikName": "Иловлинская"
+    "tikName": "Иловлинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1737,
     "uikTvd": "4344017136259",
+    "uikName": "УИК №1737",
     "tikTvd": "2342000459655",
-    "tikName": "Иловлинская"
+    "tikName": "Иловлинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1738,
     "uikTvd": "4344017136260",
+    "uikName": "УИК №1738",
     "tikTvd": "2342000459655",
-    "tikName": "Иловлинская"
+    "tikName": "Иловлинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1739,
     "uikTvd": "4344017136261",
+    "uikName": "УИК №1739",
     "tikTvd": "2342000459655",
-    "tikName": "Иловлинская"
+    "tikName": "Иловлинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1801,
     "uikTvd": "4344018139534",
+    "uikName": "УИК №1801",
     "tikTvd": "2342000459654",
-    "tikName": "Калачевская"
+    "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1802,
     "uikTvd": "4344018139535",
+    "uikName": "УИК №1802",
     "tikTvd": "2342000459654",
-    "tikName": "Калачевская"
+    "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1803,
     "uikTvd": "4344018139536",
+    "uikName": "УИК №1803",
     "tikTvd": "2342000459654",
-    "tikName": "Калачевская"
+    "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1804,
     "uikTvd": "4344018139537",
+    "uikName": "УИК №1804",
     "tikTvd": "2342000459654",
-    "tikName": "Калачевская"
+    "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1805,
     "uikTvd": "4344018139538",
+    "uikName": "УИК №1805",
     "tikTvd": "2342000459654",
-    "tikName": "Калачевская"
+    "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1806,
     "uikTvd": "4344018139539",
+    "uikName": "УИК №1806",
     "tikTvd": "2342000459654",
-    "tikName": "Калачевская"
+    "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1807,
     "uikTvd": "4344018139540",
+    "uikName": "УИК №1807",
     "tikTvd": "2342000459654",
-    "tikName": "Калачевская"
+    "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1808,
     "uikTvd": "4344018139541",
+    "uikName": "УИК №1808",
     "tikTvd": "2342000459654",
-    "tikName": "Калачевская"
+    "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1809,
     "uikTvd": "4344018139542",
+    "uikName": "УИК №1809",
     "tikTvd": "2342000459654",
-    "tikName": "Калачевская"
+    "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1810,
     "uikTvd": "4344018139543",
+    "uikName": "УИК №1810",
     "tikTvd": "2342000459654",
-    "tikName": "Калачевская"
+    "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1811,
     "uikTvd": "4344018139544",
+    "uikName": "УИК №1811",
     "tikTvd": "2342000459654",
-    "tikName": "Калачевская"
+    "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1812,
     "uikTvd": "4344018139545",
+    "uikName": "УИК №1812",
     "tikTvd": "2342000459654",
-    "tikName": "Калачевская"
+    "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1813,
     "uikTvd": "4344018139546",
+    "uikName": "УИК №1813",
     "tikTvd": "2342000459654",
-    "tikName": "Калачевская"
+    "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1814,
     "uikTvd": "4344018139547",
+    "uikName": "УИК №1814",
     "tikTvd": "2342000459654",
-    "tikName": "Калачевская"
+    "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1815,
     "uikTvd": "4344018139548",
+    "uikName": "УИК №1815",
     "tikTvd": "2342000459654",
-    "tikName": "Калачевская"
+    "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1816,
     "uikTvd": "4344018139549",
+    "uikName": "УИК №1816",
     "tikTvd": "2342000459654",
-    "tikName": "Калачевская"
+    "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1817,
     "uikTvd": "4344018139550",
+    "uikName": "УИК №1817",
     "tikTvd": "2342000459654",
-    "tikName": "Калачевская"
+    "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1818,
     "uikTvd": "4344018139551",
+    "uikName": "УИК №1818",
     "tikTvd": "2342000459654",
-    "tikName": "Калачевская"
+    "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1819,
     "uikTvd": "4344018139552",
+    "uikName": "УИК №1819",
     "tikTvd": "2342000459654",
-    "tikName": "Калачевская"
+    "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1820,
     "uikTvd": "4344018139553",
+    "uikName": "УИК №1820",
     "tikTvd": "2342000459654",
-    "tikName": "Калачевская"
+    "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1821,
     "uikTvd": "4344018139554",
+    "uikName": "УИК №1821",
     "tikTvd": "2342000459654",
-    "tikName": "Калачевская"
+    "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1822,
     "uikTvd": "4344018139555",
+    "uikName": "УИК №1822",
     "tikTvd": "2342000459654",
-    "tikName": "Калачевская"
+    "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1823,
     "uikTvd": "4344018139556",
+    "uikName": "УИК №1823",
     "tikTvd": "2342000459654",
-    "tikName": "Калачевская"
+    "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1824,
     "uikTvd": "4344018139557",
+    "uikName": "УИК №1824",
     "tikTvd": "2342000459654",
-    "tikName": "Калачевская"
+    "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1825,
     "uikTvd": "4344018139558",
+    "uikName": "УИК №1825",
     "tikTvd": "2342000459654",
-    "tikName": "Калачевская"
+    "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1826,
     "uikTvd": "4344018139559",
+    "uikName": "УИК №1826",
     "tikTvd": "2342000459654",
-    "tikName": "Калачевская"
+    "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1827,
     "uikTvd": "4344018139560",
+    "uikName": "УИК №1827",
     "tikTvd": "2342000459654",
-    "tikName": "Калачевская"
+    "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1828,
     "uikTvd": "4344018139561",
+    "uikName": "УИК №1828",
     "tikTvd": "2342000459654",
-    "tikName": "Калачевская"
+    "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1829,
     "uikTvd": "4344018139562",
+    "uikName": "УИК №1829",
     "tikTvd": "2342000459654",
-    "tikName": "Калачевская"
+    "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1830,
     "uikTvd": "4344018139563",
+    "uikName": "УИК №1830",
     "tikTvd": "2342000459654",
-    "tikName": "Калачевская"
+    "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1831,
     "uikTvd": "4344018139564",
+    "uikName": "УИК №1831",
     "tikTvd": "2342000459654",
-    "tikName": "Калачевская"
+    "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1832,
     "uikTvd": "4344018139565",
+    "uikName": "УИК №1832",
     "tikTvd": "2342000459654",
-    "tikName": "Калачевская"
+    "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1833,
     "uikTvd": "4344018139566",
+    "uikName": "УИК №1833",
     "tikTvd": "2342000459654",
-    "tikName": "Калачевская"
+    "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1834,
     "uikTvd": "4344018139567",
+    "uikName": "УИК №1834",
     "tikTvd": "2342000459654",
-    "tikName": "Калачевская"
+    "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1835,
     "uikTvd": "4344018139568",
+    "uikName": "УИК №1835",
     "tikTvd": "2342000459654",
-    "tikName": "Калачевская"
+    "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1836,
     "uikTvd": "4344018139569",
+    "uikName": "УИК №1836",
     "tikTvd": "2342000459654",
-    "tikName": "Калачевская"
+    "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1837,
     "uikTvd": "4344018139570",
+    "uikName": "УИК №1837",
     "tikTvd": "2342000459654",
-    "tikName": "Калачевская"
+    "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1838,
     "uikTvd": "4344018139571",
+    "uikName": "УИК №1838",
     "tikTvd": "2342000459654",
-    "tikName": "Калачевская"
+    "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1839,
     "uikTvd": "4344018139572",
+    "uikName": "УИК №1839",
     "tikTvd": "2342000459654",
-    "tikName": "Калачевская"
+    "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1840,
     "uikTvd": "4344018139573",
+    "uikName": "УИК №1840",
     "tikTvd": "2342000459654",
-    "tikName": "Калачевская"
+    "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1841,
     "uikTvd": "4344018139574",
+    "uikName": "УИК №1841",
     "tikTvd": "2342000459654",
-    "tikName": "Калачевская"
+    "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1842,
     "uikTvd": "4344018139575",
+    "uikName": "УИК №1842",
     "tikTvd": "2342000459654",
-    "tikName": "Калачевская"
+    "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1843,
     "uikTvd": "4344018139576",
+    "uikName": "УИК №1843",
     "tikTvd": "2342000459654",
-    "tikName": "Калачевская"
+    "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1844,
     "uikTvd": "4344018139577",
+    "uikName": "УИК №1844",
     "tikTvd": "2342000459654",
-    "tikName": "Калачевская"
+    "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1845,
     "uikTvd": "4344018139578",
+    "uikName": "УИК №1845",
     "tikTvd": "2342000459654",
-    "tikName": "Калачевская"
+    "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1846,
     "uikTvd": "4344018139579",
+    "uikName": "УИК №1846",
     "tikTvd": "2342000459654",
-    "tikName": "Калачевская"
+    "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1847,
     "uikTvd": "4344018139580",
+    "uikName": "УИК №1847",
     "tikTvd": "2342000459654",
-    "tikName": "Калачевская"
+    "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1848,
     "uikTvd": "4344018139581",
+    "uikName": "УИК №1848",
     "tikTvd": "2342000459654",
-    "tikName": "Калачевская"
+    "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1849,
     "uikTvd": "4344018139582",
+    "uikName": "УИК №1849",
     "tikTvd": "2342000459654",
-    "tikName": "Калачевская"
+    "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1850,
     "uikTvd": "4344018139583",
+    "uikName": "УИК №1850",
     "tikTvd": "2342000459654",
-    "tikName": "Калачевская"
+    "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1851,
     "uikTvd": "4344018139584",
+    "uikName": "УИК №1851",
     "tikTvd": "2342000459654",
-    "tikName": "Калачевская"
+    "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1852,
     "uikTvd": "4344018139585",
+    "uikName": "УИК №1852",
     "tikTvd": "2342000459654",
-    "tikName": "Калачевская"
+    "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1901,
     "uikTvd": "4344019143153",
+    "uikName": "УИК №1901",
     "tikTvd": "2342000459631",
-    "tikName": "Камышинская"
+    "tikName": "Камышинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1902,
     "uikTvd": "4344019143154",
+    "uikName": "УИК №1902",
     "tikTvd": "2342000459631",
-    "tikName": "Камышинская"
+    "tikName": "Камышинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1903,
     "uikTvd": "4344019143155",
+    "uikName": "УИК №1903",
     "tikTvd": "2342000459631",
-    "tikName": "Камышинская"
+    "tikName": "Камышинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1904,
     "uikTvd": "4344019143156",
+    "uikName": "УИК №1904",
     "tikTvd": "2342000459631",
-    "tikName": "Камышинская"
+    "tikName": "Камышинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1905,
     "uikTvd": "4344019143157",
+    "uikName": "УИК №1905",
     "tikTvd": "2342000459631",
-    "tikName": "Камышинская"
+    "tikName": "Камышинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1906,
     "uikTvd": "4344019143158",
+    "uikName": "УИК №1906",
     "tikTvd": "2342000459631",
-    "tikName": "Камышинская"
+    "tikName": "Камышинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1907,
     "uikTvd": "4344019143159",
+    "uikName": "УИК №1907",
     "tikTvd": "2342000459631",
-    "tikName": "Камышинская"
+    "tikName": "Камышинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1908,
     "uikTvd": "4344019143160",
+    "uikName": "УИК №1908",
     "tikTvd": "2342000459631",
-    "tikName": "Камышинская"
+    "tikName": "Камышинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1909,
     "uikTvd": "4344019143161",
+    "uikName": "УИК №1909",
     "tikTvd": "2342000459631",
-    "tikName": "Камышинская"
+    "tikName": "Камышинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1910,
     "uikTvd": "4344019143162",
+    "uikName": "УИК №1910",
     "tikTvd": "2342000459631",
-    "tikName": "Камышинская"
+    "tikName": "Камышинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1911,
     "uikTvd": "4344019143163",
+    "uikName": "УИК №1911",
     "tikTvd": "2342000459631",
-    "tikName": "Камышинская"
+    "tikName": "Камышинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1912,
     "uikTvd": "4344019143164",
+    "uikName": "УИК №1912",
     "tikTvd": "2342000459631",
-    "tikName": "Камышинская"
+    "tikName": "Камышинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1913,
     "uikTvd": "4344019143165",
+    "uikName": "УИК №1913",
     "tikTvd": "2342000459631",
-    "tikName": "Камышинская"
+    "tikName": "Камышинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1914,
     "uikTvd": "4344019143166",
+    "uikName": "УИК №1914",
     "tikTvd": "2342000459631",
-    "tikName": "Камышинская"
+    "tikName": "Камышинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1915,
     "uikTvd": "4344019143167",
+    "uikName": "УИК №1915",
     "tikTvd": "2342000459631",
-    "tikName": "Камышинская"
+    "tikName": "Камышинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1916,
     "uikTvd": "4344019143168",
+    "uikName": "УИК №1916",
     "tikTvd": "2342000459631",
-    "tikName": "Камышинская"
+    "tikName": "Камышинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1917,
     "uikTvd": "4344019143169",
+    "uikName": "УИК №1917",
     "tikTvd": "2342000459631",
-    "tikName": "Камышинская"
+    "tikName": "Камышинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1918,
     "uikTvd": "4344019143170",
+    "uikName": "УИК №1918",
     "tikTvd": "2342000459631",
-    "tikName": "Камышинская"
+    "tikName": "Камышинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1919,
     "uikTvd": "4344019143171",
+    "uikName": "УИК №1919",
     "tikTvd": "2342000459631",
-    "tikName": "Камышинская"
+    "tikName": "Камышинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1920,
     "uikTvd": "4344019143172",
+    "uikName": "УИК №1920",
     "tikTvd": "2342000459631",
-    "tikName": "Камышинская"
+    "tikName": "Камышинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1921,
     "uikTvd": "4344019143173",
+    "uikName": "УИК №1921",
     "tikTvd": "2342000459631",
-    "tikName": "Камышинская"
+    "tikName": "Камышинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1922,
     "uikTvd": "4344019143174",
+    "uikName": "УИК №1922",
     "tikTvd": "2342000459631",
-    "tikName": "Камышинская"
+    "tikName": "Камышинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1923,
     "uikTvd": "4344019143175",
+    "uikName": "УИК №1923",
     "tikTvd": "2342000459631",
-    "tikName": "Камышинская"
+    "tikName": "Камышинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1924,
     "uikTvd": "4344019143176",
+    "uikName": "УИК №1924",
     "tikTvd": "2342000459631",
-    "tikName": "Камышинская"
+    "tikName": "Камышинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1925,
     "uikTvd": "4344019143177",
+    "uikName": "УИК №1925",
     "tikTvd": "2342000459631",
-    "tikName": "Камышинская"
+    "tikName": "Камышинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1926,
     "uikTvd": "4344019143178",
+    "uikName": "УИК №1926",
     "tikTvd": "2342000459631",
-    "tikName": "Камышинская"
+    "tikName": "Камышинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1927,
     "uikTvd": "4344019143179",
+    "uikName": "УИК №1927",
     "tikTvd": "2342000459631",
-    "tikName": "Камышинская"
+    "tikName": "Камышинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1928,
     "uikTvd": "4344019143180",
+    "uikName": "УИК №1928",
     "tikTvd": "2342000459631",
-    "tikName": "Камышинская"
+    "tikName": "Камышинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1929,
     "uikTvd": "4344019143181",
+    "uikName": "УИК №1929",
     "tikTvd": "2342000459631",
-    "tikName": "Камышинская"
+    "tikName": "Камышинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1930,
     "uikTvd": "4344019143182",
+    "uikName": "УИК №1930",
     "tikTvd": "2342000459631",
-    "tikName": "Камышинская"
+    "tikName": "Камышинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1931,
     "uikTvd": "4344019143183",
+    "uikName": "УИК №1931",
     "tikTvd": "2342000459631",
-    "tikName": "Камышинская"
+    "tikName": "Камышинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1932,
     "uikTvd": "4344019143184",
+    "uikName": "УИК №1932",
     "tikTvd": "2342000459631",
-    "tikName": "Камышинская"
+    "tikName": "Камышинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1933,
     "uikTvd": "4344019143185",
+    "uikName": "УИК №1933",
     "tikTvd": "2342000459631",
-    "tikName": "Камышинская"
+    "tikName": "Камышинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1934,
     "uikTvd": "4344019143186",
+    "uikName": "УИК №1934",
     "tikTvd": "2342000459631",
-    "tikName": "Камышинская"
+    "tikName": "Камышинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1935,
     "uikTvd": "4344019143187",
+    "uikName": "УИК №1935",
     "tikTvd": "2342000459631",
-    "tikName": "Камышинская"
+    "tikName": "Камышинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1936,
     "uikTvd": "4344019143188",
+    "uikName": "УИК №1936",
     "tikTvd": "2342000459631",
-    "tikName": "Камышинская"
+    "tikName": "Камышинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1937,
     "uikTvd": "4344019143189",
+    "uikName": "УИК №1937",
     "tikTvd": "2342000459631",
-    "tikName": "Камышинская"
+    "tikName": "Камышинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1938,
     "uikTvd": "4344019143190",
+    "uikName": "УИК №1938",
     "tikTvd": "2342000459631",
-    "tikName": "Камышинская"
+    "tikName": "Камышинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1939,
     "uikTvd": "4344019143191",
+    "uikName": "УИК №1939",
     "tikTvd": "2342000459631",
-    "tikName": "Камышинская"
+    "tikName": "Камышинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1940,
     "uikTvd": "4344019143192",
+    "uikName": "УИК №1940",
     "tikTvd": "2342000459631",
-    "tikName": "Камышинская"
+    "tikName": "Камышинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1941,
     "uikTvd": "4344019143193",
+    "uikName": "УИК №1941",
     "tikTvd": "2342000459631",
-    "tikName": "Камышинская"
+    "tikName": "Камышинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 1942,
     "uikTvd": "4344019143194",
+    "uikName": "УИК №1942",
     "tikTvd": "2342000459631",
-    "tikName": "Камышинская"
+    "tikName": "Камышинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2001,
     "uikTvd": "4344020115061",
+    "uikName": "УИК №2001",
     "tikTvd": "2342000459653",
-    "tikName": "Киквидзенская"
+    "tikName": "Киквидзенская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2002,
     "uikTvd": "4344020115062",
+    "uikName": "УИК №2002",
     "tikTvd": "2342000459653",
-    "tikName": "Киквидзенская"
+    "tikName": "Киквидзенская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2003,
     "uikTvd": "4344020115063",
+    "uikName": "УИК №2003",
     "tikTvd": "2342000459653",
-    "tikName": "Киквидзенская"
+    "tikName": "Киквидзенская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2004,
     "uikTvd": "4344020115064",
+    "uikName": "УИК №2004",
     "tikTvd": "2342000459653",
-    "tikName": "Киквидзенская"
+    "tikName": "Киквидзенская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2005,
     "uikTvd": "4344020115065",
+    "uikName": "УИК №2005",
     "tikTvd": "2342000459653",
-    "tikName": "Киквидзенская"
+    "tikName": "Киквидзенская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2006,
     "uikTvd": "4344020115066",
+    "uikName": "УИК №2006",
     "tikTvd": "2342000459653",
-    "tikName": "Киквидзенская"
+    "tikName": "Киквидзенская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2007,
     "uikTvd": "4344020115067",
+    "uikName": "УИК №2007",
     "tikTvd": "2342000459653",
-    "tikName": "Киквидзенская"
+    "tikName": "Киквидзенская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2008,
     "uikTvd": "4344020115068",
+    "uikName": "УИК №2008",
     "tikTvd": "2342000459653",
-    "tikName": "Киквидзенская"
+    "tikName": "Киквидзенская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2009,
     "uikTvd": "4344020115069",
+    "uikName": "УИК №2009",
     "tikTvd": "2342000459653",
-    "tikName": "Киквидзенская"
+    "tikName": "Киквидзенская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2010,
     "uikTvd": "4344020115070",
+    "uikName": "УИК №2010",
     "tikTvd": "2342000459653",
-    "tikName": "Киквидзенская"
+    "tikName": "Киквидзенская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2011,
     "uikTvd": "4344020115071",
+    "uikName": "УИК №2011",
     "tikTvd": "2342000459653",
-    "tikName": "Киквидзенская"
+    "tikName": "Киквидзенская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2012,
     "uikTvd": "4344020115072",
+    "uikName": "УИК №2012",
     "tikTvd": "2342000459653",
-    "tikName": "Киквидзенская"
+    "tikName": "Киквидзенская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2013,
     "uikTvd": "4344020115073",
+    "uikName": "УИК №2013",
     "tikTvd": "2342000459653",
-    "tikName": "Киквидзенская"
+    "tikName": "Киквидзенская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2014,
     "uikTvd": "4344020115074",
+    "uikName": "УИК №2014",
     "tikTvd": "2342000459653",
-    "tikName": "Киквидзенская"
+    "tikName": "Киквидзенская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2015,
     "uikTvd": "4344020115075",
+    "uikName": "УИК №2015",
     "tikTvd": "2342000459653",
-    "tikName": "Киквидзенская"
+    "tikName": "Киквидзенская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2016,
     "uikTvd": "4344020115076",
+    "uikName": "УИК №2016",
     "tikTvd": "2342000459653",
-    "tikName": "Киквидзенская"
+    "tikName": "Киквидзенская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2017,
     "uikTvd": "4344020115077",
+    "uikName": "УИК №2017",
     "tikTvd": "2342000459653",
-    "tikName": "Киквидзенская"
+    "tikName": "Киквидзенская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2018,
     "uikTvd": "4344020115078",
+    "uikName": "УИК №2018",
     "tikTvd": "2342000459653",
-    "tikName": "Киквидзенская"
+    "tikName": "Киквидзенская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2019,
     "uikTvd": "4344020115079",
+    "uikName": "УИК №2019",
     "tikTvd": "2342000459653",
-    "tikName": "Киквидзенская"
+    "tikName": "Киквидзенская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2020,
     "uikTvd": "4344020115080",
+    "uikName": "УИК №2020",
     "tikTvd": "2342000459653",
-    "tikName": "Киквидзенская"
+    "tikName": "Киквидзенская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2021,
     "uikTvd": "4344020115081",
+    "uikName": "УИК №2021",
     "tikTvd": "2342000459653",
-    "tikName": "Киквидзенская"
+    "tikName": "Киквидзенская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2101,
     "uikTvd": "4344021122682",
+    "uikName": "УИК №2101",
     "tikTvd": "2342000459652",
-    "tikName": "Клетская"
+    "tikName": "Клетская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2102,
     "uikTvd": "4344021122684",
+    "uikName": "УИК №2102",
     "tikTvd": "2342000459652",
-    "tikName": "Клетская"
+    "tikName": "Клетская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2103,
     "uikTvd": "4344021122686",
+    "uikName": "УИК №2103",
     "tikTvd": "2342000459652",
-    "tikName": "Клетская"
+    "tikName": "Клетская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2104,
     "uikTvd": "4344021122688",
+    "uikName": "УИК №2104",
     "tikTvd": "2342000459652",
-    "tikName": "Клетская"
+    "tikName": "Клетская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2105,
     "uikTvd": "4344021122690",
+    "uikName": "УИК №2105",
     "tikTvd": "2342000459652",
-    "tikName": "Клетская"
+    "tikName": "Клетская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2106,
     "uikTvd": "4344021122691",
+    "uikName": "УИК №2106",
     "tikTvd": "2342000459652",
-    "tikName": "Клетская"
+    "tikName": "Клетская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2107,
     "uikTvd": "4344021122692",
+    "uikName": "УИК №2107",
     "tikTvd": "2342000459652",
-    "tikName": "Клетская"
+    "tikName": "Клетская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2108,
     "uikTvd": "4344021122693",
+    "uikName": "УИК №2108",
     "tikTvd": "2342000459652",
-    "tikName": "Клетская"
+    "tikName": "Клетская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2109,
     "uikTvd": "4344021122694",
+    "uikName": "УИК №2109",
     "tikTvd": "2342000459652",
-    "tikName": "Клетская"
+    "tikName": "Клетская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2110,
     "uikTvd": "4344021122695",
+    "uikName": "УИК №2110",
     "tikTvd": "2342000459652",
-    "tikName": "Клетская"
+    "tikName": "Клетская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2111,
     "uikTvd": "4344021122696",
+    "uikName": "УИК №2111",
     "tikTvd": "2342000459652",
-    "tikName": "Клетская"
+    "tikName": "Клетская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2112,
     "uikTvd": "4344021122698",
+    "uikName": "УИК №2112",
     "tikTvd": "2342000459652",
-    "tikName": "Клетская"
+    "tikName": "Клетская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2113,
     "uikTvd": "4344021122699",
+    "uikName": "УИК №2113",
     "tikTvd": "2342000459652",
-    "tikName": "Клетская"
+    "tikName": "Клетская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2114,
     "uikTvd": "4344021122700",
+    "uikName": "УИК №2114",
     "tikTvd": "2342000459652",
-    "tikName": "Клетская"
+    "tikName": "Клетская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2115,
     "uikTvd": "4344021122701",
+    "uikName": "УИК №2115",
     "tikTvd": "2342000459652",
-    "tikName": "Клетская"
+    "tikName": "Клетская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2116,
     "uikTvd": "4344021122702",
+    "uikName": "УИК №2116",
     "tikTvd": "2342000459652",
-    "tikName": "Клетская"
+    "tikName": "Клетская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2117,
     "uikTvd": "4344021122703",
+    "uikName": "УИК №2117",
     "tikTvd": "2342000459652",
-    "tikName": "Клетская"
+    "tikName": "Клетская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2118,
     "uikTvd": "4344021122704",
+    "uikName": "УИК №2118",
     "tikTvd": "2342000459652",
-    "tikName": "Клетская"
+    "tikName": "Клетская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2119,
     "uikTvd": "4344021122706",
+    "uikName": "УИК №2119",
     "tikTvd": "2342000459652",
-    "tikName": "Клетская"
+    "tikName": "Клетская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2120,
     "uikTvd": "4344021122707",
+    "uikName": "УИК №2120",
     "tikTvd": "2342000459652",
-    "tikName": "Клетская"
+    "tikName": "Клетская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2121,
     "uikTvd": "4344021122708",
+    "uikName": "УИК №2121",
     "tikTvd": "2342000459652",
-    "tikName": "Клетская"
+    "tikName": "Клетская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2122,
     "uikTvd": "4344021122709",
+    "uikName": "УИК №2122",
     "tikTvd": "2342000459652",
-    "tikName": "Клетская"
+    "tikName": "Клетская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2123,
     "uikTvd": "4344021122713",
+    "uikName": "УИК №2123",
     "tikTvd": "2342000459652",
-    "tikName": "Клетская"
+    "tikName": "Клетская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2124,
     "uikTvd": "4344021122714",
+    "uikName": "УИК №2124",
     "tikTvd": "2342000459652",
-    "tikName": "Клетская"
+    "tikName": "Клетская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2125,
     "uikTvd": "4344021122715",
+    "uikName": "УИК №2125",
     "tikTvd": "2342000459652",
-    "tikName": "Клетская"
+    "tikName": "Клетская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2126,
     "uikTvd": "4344021122716",
+    "uikName": "УИК №2126",
     "tikTvd": "2342000459652",
-    "tikName": "Клетская"
+    "tikName": "Клетская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2127,
     "uikTvd": "4344021122717",
+    "uikName": "УИК №2127",
     "tikTvd": "2342000459652",
-    "tikName": "Клетская"
+    "tikName": "Клетская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2128,
     "uikTvd": "4344021122718",
+    "uikName": "УИК №2128",
     "tikTvd": "2342000459652",
-    "tikName": "Клетская"
+    "tikName": "Клетская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2129,
     "uikTvd": "4344021122719",
+    "uikName": "УИК №2129",
     "tikTvd": "2342000459652",
-    "tikName": "Клетская"
+    "tikName": "Клетская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2130,
     "uikTvd": "4344021122720",
+    "uikName": "УИК №2130",
     "tikTvd": "2342000459652",
-    "tikName": "Клетская"
+    "tikName": "Клетская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2201,
     "uikTvd": "4344022138124",
+    "uikName": "УИК №2201",
     "tikTvd": "2342000459651",
-    "tikName": "Котельниковская"
+    "tikName": "Котельниковская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2202,
     "uikTvd": "4344022138125",
+    "uikName": "УИК №2202",
     "tikTvd": "2342000459651",
-    "tikName": "Котельниковская"
+    "tikName": "Котельниковская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2203,
     "uikTvd": "4344022138126",
+    "uikName": "УИК №2203",
     "tikTvd": "2342000459651",
-    "tikName": "Котельниковская"
+    "tikName": "Котельниковская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2204,
     "uikTvd": "4344022138127",
+    "uikName": "УИК №2204",
     "tikTvd": "2342000459651",
-    "tikName": "Котельниковская"
+    "tikName": "Котельниковская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2205,
     "uikTvd": "4344022138128",
+    "uikName": "УИК №2205",
     "tikTvd": "2342000459651",
-    "tikName": "Котельниковская"
+    "tikName": "Котельниковская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2206,
     "uikTvd": "4344022138129",
+    "uikName": "УИК №2206",
     "tikTvd": "2342000459651",
-    "tikName": "Котельниковская"
+    "tikName": "Котельниковская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2207,
     "uikTvd": "4344022138130",
+    "uikName": "УИК №2207",
     "tikTvd": "2342000459651",
-    "tikName": "Котельниковская"
+    "tikName": "Котельниковская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2208,
     "uikTvd": "4344022138131",
+    "uikName": "УИК №2208",
     "tikTvd": "2342000459651",
-    "tikName": "Котельниковская"
+    "tikName": "Котельниковская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2209,
     "uikTvd": "4344022138132",
+    "uikName": "УИК №2209",
     "tikTvd": "2342000459651",
-    "tikName": "Котельниковская"
+    "tikName": "Котельниковская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2210,
     "uikTvd": "4344022138133",
+    "uikName": "УИК №2210",
     "tikTvd": "2342000459651",
-    "tikName": "Котельниковская"
+    "tikName": "Котельниковская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2211,
     "uikTvd": "4344022138134",
+    "uikName": "УИК №2211",
     "tikTvd": "2342000459651",
-    "tikName": "Котельниковская"
+    "tikName": "Котельниковская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2212,
     "uikTvd": "4344022138135",
+    "uikName": "УИК №2212",
     "tikTvd": "2342000459651",
-    "tikName": "Котельниковская"
+    "tikName": "Котельниковская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2213,
     "uikTvd": "4344022138136",
+    "uikName": "УИК №2213",
     "tikTvd": "2342000459651",
-    "tikName": "Котельниковская"
+    "tikName": "Котельниковская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2214,
     "uikTvd": "4344022138137",
+    "uikName": "УИК №2214",
     "tikTvd": "2342000459651",
-    "tikName": "Котельниковская"
+    "tikName": "Котельниковская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2215,
     "uikTvd": "4344022138138",
+    "uikName": "УИК №2215",
     "tikTvd": "2342000459651",
-    "tikName": "Котельниковская"
+    "tikName": "Котельниковская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2216,
     "uikTvd": "4344022138139",
+    "uikName": "УИК №2216",
     "tikTvd": "2342000459651",
-    "tikName": "Котельниковская"
+    "tikName": "Котельниковская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2217,
     "uikTvd": "4344022138140",
+    "uikName": "УИК №2217",
     "tikTvd": "2342000459651",
-    "tikName": "Котельниковская"
+    "tikName": "Котельниковская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2218,
     "uikTvd": "4344022138141",
+    "uikName": "УИК №2218",
     "tikTvd": "2342000459651",
-    "tikName": "Котельниковская"
+    "tikName": "Котельниковская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2219,
     "uikTvd": "4344022138142",
+    "uikName": "УИК №2219",
     "tikTvd": "2342000459651",
-    "tikName": "Котельниковская"
+    "tikName": "Котельниковская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2220,
     "uikTvd": "4344022138143",
+    "uikName": "УИК №2220",
     "tikTvd": "2342000459651",
-    "tikName": "Котельниковская"
+    "tikName": "Котельниковская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2221,
     "uikTvd": "4344022138144",
+    "uikName": "УИК №2221",
     "tikTvd": "2342000459651",
-    "tikName": "Котельниковская"
+    "tikName": "Котельниковская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2222,
     "uikTvd": "4344022138145",
+    "uikName": "УИК №2222",
     "tikTvd": "2342000459651",
-    "tikName": "Котельниковская"
+    "tikName": "Котельниковская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2223,
     "uikTvd": "4344022138146",
+    "uikName": "УИК №2223",
     "tikTvd": "2342000459651",
-    "tikName": "Котельниковская"
+    "tikName": "Котельниковская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2224,
     "uikTvd": "4344022138147",
+    "uikName": "УИК №2224",
     "tikTvd": "2342000459651",
-    "tikName": "Котельниковская"
+    "tikName": "Котельниковская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2225,
     "uikTvd": "4344022138148",
+    "uikName": "УИК №2225",
     "tikTvd": "2342000459651",
-    "tikName": "Котельниковская"
+    "tikName": "Котельниковская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2226,
     "uikTvd": "4344022138149",
+    "uikName": "УИК №2226",
     "tikTvd": "2342000459651",
-    "tikName": "Котельниковская"
+    "tikName": "Котельниковская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2227,
     "uikTvd": "4344022138150",
+    "uikName": "УИК №2227",
     "tikTvd": "2342000459651",
-    "tikName": "Котельниковская"
+    "tikName": "Котельниковская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2228,
     "uikTvd": "4344022138151",
+    "uikName": "УИК №2228",
     "tikTvd": "2342000459651",
-    "tikName": "Котельниковская"
+    "tikName": "Котельниковская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2229,
     "uikTvd": "4344022138152",
+    "uikName": "УИК №2229",
     "tikTvd": "2342000459651",
-    "tikName": "Котельниковская"
+    "tikName": "Котельниковская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2230,
     "uikTvd": "4344022138153",
+    "uikName": "УИК №2230",
     "tikTvd": "2342000459651",
-    "tikName": "Котельниковская"
+    "tikName": "Котельниковская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2231,
     "uikTvd": "4344022138154",
+    "uikName": "УИК №2231",
     "tikTvd": "2342000459651",
-    "tikName": "Котельниковская"
+    "tikName": "Котельниковская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2232,
     "uikTvd": "4344022138155",
+    "uikName": "УИК №2232",
     "tikTvd": "2342000459651",
-    "tikName": "Котельниковская"
+    "tikName": "Котельниковская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2233,
     "uikTvd": "4344022138156",
+    "uikName": "УИК №2233",
     "tikTvd": "2342000459651",
-    "tikName": "Котельниковская"
+    "tikName": "Котельниковская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2234,
     "uikTvd": "4344022138157",
+    "uikName": "УИК №2234",
     "tikTvd": "2342000459651",
-    "tikName": "Котельниковская"
+    "tikName": "Котельниковская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2235,
     "uikTvd": "4344022138158",
+    "uikName": "УИК №2235",
     "tikTvd": "2342000459651",
-    "tikName": "Котельниковская"
+    "tikName": "Котельниковская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2236,
     "uikTvd": "4344022138159",
+    "uikName": "УИК №2236",
     "tikTvd": "2342000459651",
-    "tikName": "Котельниковская"
+    "tikName": "Котельниковская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2237,
     "uikTvd": "4344022138160",
+    "uikName": "УИК №2237",
     "tikTvd": "2342000459651",
-    "tikName": "Котельниковская"
+    "tikName": "Котельниковская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2238,
     "uikTvd": "4344022138161",
+    "uikName": "УИК №2238",
     "tikTvd": "2342000459651",
-    "tikName": "Котельниковская"
+    "tikName": "Котельниковская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2239,
     "uikTvd": "4344022138122",
+    "uikName": "УИК №2239",
     "tikTvd": "2342000459651",
-    "tikName": "Котельниковская"
+    "tikName": "Котельниковская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2240,
     "uikTvd": "4344022140615",
+    "uikName": "УИК №2240",
     "tikTvd": "2342000459651",
-    "tikName": "Котельниковская"
+    "tikName": "Котельниковская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2301,
     "uikTvd": "4344023125076",
+    "uikName": "УИК №2301",
     "tikTvd": "2342000459629",
-    "tikName": "Котовская"
+    "tikName": "Котовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2302,
     "uikTvd": "4344023125077",
+    "uikName": "УИК №2302",
     "tikTvd": "2342000459629",
-    "tikName": "Котовская"
+    "tikName": "Котовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2303,
     "uikTvd": "4344023125078",
+    "uikName": "УИК №2303",
     "tikTvd": "2342000459629",
-    "tikName": "Котовская"
+    "tikName": "Котовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2304,
     "uikTvd": "4344023125079",
+    "uikName": "УИК №2304",
     "tikTvd": "2342000459629",
-    "tikName": "Котовская"
+    "tikName": "Котовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2305,
     "uikTvd": "4344023125080",
+    "uikName": "УИК №2305",
     "tikTvd": "2342000459629",
-    "tikName": "Котовская"
+    "tikName": "Котовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2306,
     "uikTvd": "4344023125081",
+    "uikName": "УИК №2306",
     "tikTvd": "2342000459629",
-    "tikName": "Котовская"
+    "tikName": "Котовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2307,
     "uikTvd": "4344023125082",
+    "uikName": "УИК №2307",
     "tikTvd": "2342000459629",
-    "tikName": "Котовская"
+    "tikName": "Котовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2308,
     "uikTvd": "4344023125083",
+    "uikName": "УИК №2308",
     "tikTvd": "2342000459629",
-    "tikName": "Котовская"
+    "tikName": "Котовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2309,
     "uikTvd": "4344023125084",
+    "uikName": "УИК №2309",
     "tikTvd": "2342000459629",
-    "tikName": "Котовская"
+    "tikName": "Котовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2310,
     "uikTvd": "4344023125085",
+    "uikName": "УИК №2310",
     "tikTvd": "2342000459629",
-    "tikName": "Котовская"
+    "tikName": "Котовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2311,
     "uikTvd": "4344023125086",
+    "uikName": "УИК №2311",
     "tikTvd": "2342000459629",
-    "tikName": "Котовская"
+    "tikName": "Котовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2312,
     "uikTvd": "4344023125087",
+    "uikName": "УИК №2312",
     "tikTvd": "2342000459629",
-    "tikName": "Котовская"
+    "tikName": "Котовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2313,
     "uikTvd": "4344023125088",
+    "uikName": "УИК №2313",
     "tikTvd": "2342000459629",
-    "tikName": "Котовская"
+    "tikName": "Котовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2314,
     "uikTvd": "4344023125089",
+    "uikName": "УИК №2314",
     "tikTvd": "2342000459629",
-    "tikName": "Котовская"
+    "tikName": "Котовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2315,
     "uikTvd": "4344023125090",
+    "uikName": "УИК №2315",
     "tikTvd": "2342000459629",
-    "tikName": "Котовская"
+    "tikName": "Котовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2316,
     "uikTvd": "4344023125091",
+    "uikName": "УИК №2316",
     "tikTvd": "2342000459629",
-    "tikName": "Котовская"
+    "tikName": "Котовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2317,
     "uikTvd": "4344023125092",
+    "uikName": "УИК №2317",
     "tikTvd": "2342000459629",
-    "tikName": "Котовская"
+    "tikName": "Котовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2318,
     "uikTvd": "4344023125093",
+    "uikName": "УИК №2318",
     "tikTvd": "2342000459629",
-    "tikName": "Котовская"
+    "tikName": "Котовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2319,
     "uikTvd": "4344023125094",
+    "uikName": "УИК №2319",
     "tikTvd": "2342000459629",
-    "tikName": "Котовская"
+    "tikName": "Котовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2320,
     "uikTvd": "4344023125095",
+    "uikName": "УИК №2320",
     "tikTvd": "2342000459629",
-    "tikName": "Котовская"
+    "tikName": "Котовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2321,
     "uikTvd": "4344023125096",
+    "uikName": "УИК №2321",
     "tikTvd": "2342000459629",
-    "tikName": "Котовская"
+    "tikName": "Котовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2322,
     "uikTvd": "4344023125097",
+    "uikName": "УИК №2322",
     "tikTvd": "2342000459629",
-    "tikName": "Котовская"
+    "tikName": "Котовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2323,
     "uikTvd": "4344023125098",
+    "uikName": "УИК №2323",
     "tikTvd": "2342000459629",
-    "tikName": "Котовская"
+    "tikName": "Котовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2324,
     "uikTvd": "4344023125099",
+    "uikName": "УИК №2324",
     "tikTvd": "2342000459629",
-    "tikName": "Котовская"
+    "tikName": "Котовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2325,
     "uikTvd": "4344023125100",
+    "uikName": "УИК №2325",
     "tikTvd": "2342000459629",
-    "tikName": "Котовская"
+    "tikName": "Котовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2326,
     "uikTvd": "4344023125101",
+    "uikName": "УИК №2326",
     "tikTvd": "2342000459629",
-    "tikName": "Котовская"
+    "tikName": "Котовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2327,
     "uikTvd": "4344023125102",
+    "uikName": "УИК №2327",
     "tikTvd": "2342000459629",
-    "tikName": "Котовская"
+    "tikName": "Котовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2328,
     "uikTvd": "4344023125103",
+    "uikName": "УИК №2328",
     "tikTvd": "2342000459629",
-    "tikName": "Котовская"
+    "tikName": "Котовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2401,
     "uikTvd": "4344024114740",
+    "uikName": "УИК №2401",
     "tikTvd": "2342000459628",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2402,
     "uikTvd": "4344024114742",
+    "uikName": "УИК №2402",
     "tikTvd": "2342000459628",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2403,
     "uikTvd": "4344024114743",
+    "uikName": "УИК №2403",
     "tikTvd": "2342000459628",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2404,
     "uikTvd": "4344024114744",
+    "uikName": "УИК №2404",
     "tikTvd": "2342000459628",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2405,
     "uikTvd": "4344024114745",
+    "uikName": "УИК №2405",
     "tikTvd": "2342000459628",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2406,
     "uikTvd": "4344024114746",
+    "uikName": "УИК №2406",
     "tikTvd": "2342000459628",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2407,
     "uikTvd": "4344024114747",
+    "uikName": "УИК №2407",
     "tikTvd": "2342000459628",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2408,
     "uikTvd": "4344024114748",
+    "uikName": "УИК №2408",
     "tikTvd": "2342000459628",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2409,
     "uikTvd": "4344024114749",
+    "uikName": "УИК №2409",
     "tikTvd": "2342000459628",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2410,
     "uikTvd": "4344024114750",
+    "uikName": "УИК №2410",
     "tikTvd": "2342000459628",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2411,
     "uikTvd": "4344024114751",
+    "uikName": "УИК №2411",
     "tikTvd": "2342000459628",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2412,
     "uikTvd": "4344024114752",
+    "uikName": "УИК №2412",
     "tikTvd": "2342000459628",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2413,
     "uikTvd": "4344024114753",
+    "uikName": "УИК №2413",
     "tikTvd": "2342000459628",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2414,
     "uikTvd": "4344024114754",
+    "uikName": "УИК №2414",
     "tikTvd": "2342000459628",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2415,
     "uikTvd": "4344024114755",
+    "uikName": "УИК №2415",
     "tikTvd": "2342000459628",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2416,
     "uikTvd": "4344024114756",
+    "uikName": "УИК №2416",
     "tikTvd": "2342000459628",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2417,
     "uikTvd": "4344024114757",
+    "uikName": "УИК №2417",
     "tikTvd": "2342000459628",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2418,
     "uikTvd": "4344024114758",
+    "uikName": "УИК №2418",
     "tikTvd": "2342000459628",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2419,
     "uikTvd": "4344024114759",
+    "uikName": "УИК №2419",
     "tikTvd": "2342000459628",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2420,
     "uikTvd": "4344024114760",
+    "uikName": "УИК №2420",
     "tikTvd": "2342000459628",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2421,
     "uikTvd": "4344024114761",
+    "uikName": "УИК №2421",
     "tikTvd": "2342000459628",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2422,
     "uikTvd": "4344024114762",
+    "uikName": "УИК №2422",
     "tikTvd": "2342000459628",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2423,
     "uikTvd": "4344024114763",
+    "uikName": "УИК №2423",
     "tikTvd": "2342000459628",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2424,
     "uikTvd": "4344024114764",
+    "uikName": "УИК №2424",
     "tikTvd": "2342000459628",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2425,
     "uikTvd": "4344024114765",
+    "uikName": "УИК №2425",
     "tikTvd": "2342000459628",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2501,
     "uikTvd": "4344025149277",
+    "uikName": "УИК №2501",
     "tikTvd": "2342000459649",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2502,
     "uikTvd": "4344025149278",
+    "uikName": "УИК №2502",
     "tikTvd": "2342000459649",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2503,
     "uikTvd": "4344025149279",
+    "uikName": "УИК №2503",
     "tikTvd": "2342000459649",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2504,
     "uikTvd": "4344025149280",
+    "uikName": "УИК №2504",
     "tikTvd": "2342000459649",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2505,
     "uikTvd": "4344025149281",
+    "uikName": "УИК №2505",
     "tikTvd": "2342000459649",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2506,
     "uikTvd": "4344025149282",
+    "uikName": "УИК №2506",
     "tikTvd": "2342000459649",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2507,
     "uikTvd": "4344025149283",
+    "uikName": "УИК №2507",
     "tikTvd": "2342000459649",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2508,
     "uikTvd": "4344025149284",
+    "uikName": "УИК №2508",
     "tikTvd": "2342000459649",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2509,
     "uikTvd": "4344025149285",
+    "uikName": "УИК №2509",
     "tikTvd": "2342000459649",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2510,
     "uikTvd": "4344025149286",
+    "uikName": "УИК №2510",
     "tikTvd": "2342000459649",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2511,
     "uikTvd": "4344025149287",
+    "uikName": "УИК №2511",
     "tikTvd": "2342000459649",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2512,
     "uikTvd": "4344025149288",
+    "uikName": "УИК №2512",
     "tikTvd": "2342000459649",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2513,
     "uikTvd": "4344025149289",
+    "uikName": "УИК №2513",
     "tikTvd": "2342000459649",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2514,
     "uikTvd": "4344025149290",
+    "uikName": "УИК №2514",
     "tikTvd": "2342000459649",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2515,
     "uikTvd": "4344025149291",
+    "uikName": "УИК №2515",
     "tikTvd": "2342000459649",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2516,
     "uikTvd": "4344025149292",
+    "uikName": "УИК №2516",
     "tikTvd": "2342000459649",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2517,
     "uikTvd": "4344025149293",
+    "uikName": "УИК №2517",
     "tikTvd": "2342000459649",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2518,
     "uikTvd": "4344025149294",
+    "uikName": "УИК №2518",
     "tikTvd": "2342000459649",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2519,
     "uikTvd": "4344025149295",
+    "uikName": "УИК №2519",
     "tikTvd": "2342000459649",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2520,
     "uikTvd": "4344025149296",
+    "uikName": "УИК №2520",
     "tikTvd": "2342000459649",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2521,
     "uikTvd": "4344025149297",
+    "uikName": "УИК №2521",
     "tikTvd": "2342000459649",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2522,
     "uikTvd": "4344025149298",
+    "uikName": "УИК №2522",
     "tikTvd": "2342000459649",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2523,
     "uikTvd": "4344025149299",
+    "uikName": "УИК №2523",
     "tikTvd": "2342000459649",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2524,
     "uikTvd": "4344025149300",
+    "uikName": "УИК №2524",
     "tikTvd": "2342000459649",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2525,
     "uikTvd": "4344025149301",
+    "uikName": "УИК №2525",
     "tikTvd": "2342000459649",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2526,
     "uikTvd": "4344025149302",
+    "uikName": "УИК №2526",
     "tikTvd": "2342000459649",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2527,
     "uikTvd": "4344025149303",
+    "uikName": "УИК №2527",
     "tikTvd": "2342000459649",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2528,
     "uikTvd": "4344025149304",
+    "uikName": "УИК №2528",
     "tikTvd": "2342000459649",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2529,
     "uikTvd": "4344025149305",
+    "uikName": "УИК №2529",
     "tikTvd": "2342000459649",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2530,
     "uikTvd": "4344025149306",
+    "uikName": "УИК №2530",
     "tikTvd": "2342000459649",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2531,
     "uikTvd": "4344025149307",
+    "uikName": "УИК №2531",
     "tikTvd": "2342000459649",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2532,
     "uikTvd": "4344025149308",
+    "uikName": "УИК №2532",
     "tikTvd": "2342000459649",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2533,
     "uikTvd": "4344025149309",
+    "uikName": "УИК №2533",
     "tikTvd": "2342000459649",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2534,
     "uikTvd": "4344025149310",
+    "uikName": "УИК №2534",
     "tikTvd": "2342000459649",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2535,
     "uikTvd": "4344025149311",
+    "uikName": "УИК №2535",
     "tikTvd": "2342000459649",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2536,
     "uikTvd": "4344025149312",
+    "uikName": "УИК №2536",
     "tikTvd": "2342000459649",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2537,
     "uikTvd": "4344025149313",
+    "uikName": "УИК №2537",
     "tikTvd": "2342000459649",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2601,
     "uikTvd": "4344026111429",
+    "uikName": "УИК №2601",
     "tikTvd": "2342000459647",
-    "tikName": "Нехаевская"
+    "tikName": "Нехаевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2602,
     "uikTvd": "4344026111430",
+    "uikName": "УИК №2602",
     "tikTvd": "2342000459647",
-    "tikName": "Нехаевская"
+    "tikName": "Нехаевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2603,
     "uikTvd": "4344026111431",
+    "uikName": "УИК №2603",
     "tikTvd": "2342000459647",
-    "tikName": "Нехаевская"
+    "tikName": "Нехаевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2604,
     "uikTvd": "4344026111432",
+    "uikName": "УИК №2604",
     "tikTvd": "2342000459647",
-    "tikName": "Нехаевская"
+    "tikName": "Нехаевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2605,
     "uikTvd": "4344026111433",
+    "uikName": "УИК №2605",
     "tikTvd": "2342000459647",
-    "tikName": "Нехаевская"
+    "tikName": "Нехаевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2606,
     "uikTvd": "4344026111434",
+    "uikName": "УИК №2606",
     "tikTvd": "2342000459647",
-    "tikName": "Нехаевская"
+    "tikName": "Нехаевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2607,
     "uikTvd": "4344026111435",
+    "uikName": "УИК №2607",
     "tikTvd": "2342000459647",
-    "tikName": "Нехаевская"
+    "tikName": "Нехаевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2608,
     "uikTvd": "4344026111436",
+    "uikName": "УИК №2608",
     "tikTvd": "2342000459647",
-    "tikName": "Нехаевская"
+    "tikName": "Нехаевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2609,
     "uikTvd": "4344026111437",
+    "uikName": "УИК №2609",
     "tikTvd": "2342000459647",
-    "tikName": "Нехаевская"
+    "tikName": "Нехаевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2610,
     "uikTvd": "4344026111438",
+    "uikName": "УИК №2610",
     "tikTvd": "2342000459647",
-    "tikName": "Нехаевская"
+    "tikName": "Нехаевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2611,
     "uikTvd": "4344026111439",
+    "uikName": "УИК №2611",
     "tikTvd": "2342000459647",
-    "tikName": "Нехаевская"
+    "tikName": "Нехаевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2612,
     "uikTvd": "4344026111440",
+    "uikName": "УИК №2612",
     "tikTvd": "2342000459647",
-    "tikName": "Нехаевская"
+    "tikName": "Нехаевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2613,
     "uikTvd": "4344026111441",
+    "uikName": "УИК №2613",
     "tikTvd": "2342000459647",
-    "tikName": "Нехаевская"
+    "tikName": "Нехаевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2614,
     "uikTvd": "4344026111442",
+    "uikName": "УИК №2614",
     "tikTvd": "2342000459647",
-    "tikName": "Нехаевская"
+    "tikName": "Нехаевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2615,
     "uikTvd": "4344026111443",
+    "uikName": "УИК №2615",
     "tikTvd": "2342000459647",
-    "tikName": "Нехаевская"
+    "tikName": "Нехаевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2616,
     "uikTvd": "4344026111444",
+    "uikName": "УИК №2616",
     "tikTvd": "2342000459647",
-    "tikName": "Нехаевская"
+    "tikName": "Нехаевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2617,
     "uikTvd": "4344026111445",
+    "uikName": "УИК №2617",
     "tikTvd": "2342000459647",
-    "tikName": "Нехаевская"
+    "tikName": "Нехаевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2618,
     "uikTvd": "4344026111446",
+    "uikName": "УИК №2618",
     "tikTvd": "2342000459647",
-    "tikName": "Нехаевская"
+    "tikName": "Нехаевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2619,
     "uikTvd": "4344026111447",
+    "uikName": "УИК №2619",
     "tikTvd": "2342000459647",
-    "tikName": "Нехаевская"
+    "tikName": "Нехаевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2620,
     "uikTvd": "4344026111448",
+    "uikName": "УИК №2620",
     "tikTvd": "2342000459647",
-    "tikName": "Нехаевская"
+    "tikName": "Нехаевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2621,
     "uikTvd": "4344026111449",
+    "uikName": "УИК №2621",
     "tikTvd": "2342000459647",
-    "tikName": "Нехаевская"
+    "tikName": "Нехаевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2622,
     "uikTvd": "4344026111450",
+    "uikName": "УИК №2622",
     "tikTvd": "2342000459647",
-    "tikName": "Нехаевская"
+    "tikName": "Нехаевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2623,
     "uikTvd": "4344026111451",
+    "uikName": "УИК №2623",
     "tikTvd": "2342000459647",
-    "tikName": "Нехаевская"
+    "tikName": "Нехаевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2624,
     "uikTvd": "4344026111452",
+    "uikName": "УИК №2624",
     "tikTvd": "2342000459647",
-    "tikName": "Нехаевская"
+    "tikName": "Нехаевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2625,
     "uikTvd": "4344026111453",
+    "uikName": "УИК №2625",
     "tikTvd": "2342000459647",
-    "tikName": "Нехаевская"
+    "tikName": "Нехаевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2626,
     "uikTvd": "4344026111454",
+    "uikName": "УИК №2626",
     "tikTvd": "2342000459647",
-    "tikName": "Нехаевская"
+    "tikName": "Нехаевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2701,
     "uikTvd": "4344027122124",
+    "uikName": "УИК №2701",
     "tikTvd": "2342000459627",
-    "tikName": "Николаевская"
+    "tikName": "Николаевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2702,
     "uikTvd": "4344027122125",
+    "uikName": "УИК №2702",
     "tikTvd": "2342000459627",
-    "tikName": "Николаевская"
+    "tikName": "Николаевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2703,
     "uikTvd": "4344027122126",
+    "uikName": "УИК №2703",
     "tikTvd": "2342000459627",
-    "tikName": "Николаевская"
+    "tikName": "Николаевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2704,
     "uikTvd": "4344027122127",
+    "uikName": "УИК №2704",
     "tikTvd": "2342000459627",
-    "tikName": "Николаевская"
+    "tikName": "Николаевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2705,
     "uikTvd": "4344027122128",
+    "uikName": "УИК №2705",
     "tikTvd": "2342000459627",
-    "tikName": "Николаевская"
+    "tikName": "Николаевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2706,
     "uikTvd": "4344027122129",
+    "uikName": "УИК №2706",
     "tikTvd": "2342000459627",
-    "tikName": "Николаевская"
+    "tikName": "Николаевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2707,
     "uikTvd": "4344027122130",
+    "uikName": "УИК №2707",
     "tikTvd": "2342000459627",
-    "tikName": "Николаевская"
+    "tikName": "Николаевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2708,
     "uikTvd": "4344027122131",
+    "uikName": "УИК №2708",
     "tikTvd": "2342000459627",
-    "tikName": "Николаевская"
+    "tikName": "Николаевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2709,
     "uikTvd": "4344027122132",
+    "uikName": "УИК №2709",
     "tikTvd": "2342000459627",
-    "tikName": "Николаевская"
+    "tikName": "Николаевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2710,
     "uikTvd": "4344027122133",
+    "uikName": "УИК №2710",
     "tikTvd": "2342000459627",
-    "tikName": "Николаевская"
+    "tikName": "Николаевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2711,
     "uikTvd": "4344027122134",
+    "uikName": "УИК №2711",
     "tikTvd": "2342000459627",
-    "tikName": "Николаевская"
+    "tikName": "Николаевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2712,
     "uikTvd": "4344027122135",
+    "uikName": "УИК №2712",
     "tikTvd": "2342000459627",
-    "tikName": "Николаевская"
+    "tikName": "Николаевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2713,
     "uikTvd": "4344027122136",
+    "uikName": "УИК №2713",
     "tikTvd": "2342000459627",
-    "tikName": "Николаевская"
+    "tikName": "Николаевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2714,
     "uikTvd": "4344027122137",
+    "uikName": "УИК №2714",
     "tikTvd": "2342000459627",
-    "tikName": "Николаевская"
+    "tikName": "Николаевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2715,
     "uikTvd": "4344027122138",
+    "uikName": "УИК №2715",
     "tikTvd": "2342000459627",
-    "tikName": "Николаевская"
+    "tikName": "Николаевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2716,
     "uikTvd": "4344027122139",
+    "uikName": "УИК №2716",
     "tikTvd": "2342000459627",
-    "tikName": "Николаевская"
+    "tikName": "Николаевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2717,
     "uikTvd": "4344027122140",
+    "uikName": "УИК №2717",
     "tikTvd": "2342000459627",
-    "tikName": "Николаевская"
+    "tikName": "Николаевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2718,
     "uikTvd": "4344027122141",
+    "uikName": "УИК №2718",
     "tikTvd": "2342000459627",
-    "tikName": "Николаевская"
+    "tikName": "Николаевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2719,
     "uikTvd": "4344027122142",
+    "uikName": "УИК №2719",
     "tikTvd": "2342000459627",
-    "tikName": "Николаевская"
+    "tikName": "Николаевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2720,
     "uikTvd": "4344027122143",
+    "uikName": "УИК №2720",
     "tikTvd": "2342000459627",
-    "tikName": "Николаевская"
+    "tikName": "Николаевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2721,
     "uikTvd": "4344027122144",
+    "uikName": "УИК №2721",
     "tikTvd": "2342000459627",
-    "tikName": "Николаевская"
+    "tikName": "Николаевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2801,
     "uikTvd": "4344028144804",
+    "uikName": "УИК №2801",
     "tikTvd": "2342000459646",
-    "tikName": "Новоаннинская"
+    "tikName": "Новоаннинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2802,
     "uikTvd": "4344028144805",
+    "uikName": "УИК №2802",
     "tikTvd": "2342000459646",
-    "tikName": "Новоаннинская"
+    "tikName": "Новоаннинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2803,
     "uikTvd": "4344028144806",
+    "uikName": "УИК №2803",
     "tikTvd": "2342000459646",
-    "tikName": "Новоаннинская"
+    "tikName": "Новоаннинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2804,
     "uikTvd": "4344028144807",
+    "uikName": "УИК №2804",
     "tikTvd": "2342000459646",
-    "tikName": "Новоаннинская"
+    "tikName": "Новоаннинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2805,
     "uikTvd": "4344028144808",
+    "uikName": "УИК №2805",
     "tikTvd": "2342000459646",
-    "tikName": "Новоаннинская"
+    "tikName": "Новоаннинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2806,
     "uikTvd": "4344028144809",
+    "uikName": "УИК №2806",
     "tikTvd": "2342000459646",
-    "tikName": "Новоаннинская"
+    "tikName": "Новоаннинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2807,
     "uikTvd": "4344028144810",
+    "uikName": "УИК №2807",
     "tikTvd": "2342000459646",
-    "tikName": "Новоаннинская"
+    "tikName": "Новоаннинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2808,
     "uikTvd": "4344028144811",
+    "uikName": "УИК №2808",
     "tikTvd": "2342000459646",
-    "tikName": "Новоаннинская"
+    "tikName": "Новоаннинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2809,
     "uikTvd": "4344028144812",
+    "uikName": "УИК №2809",
     "tikTvd": "2342000459646",
-    "tikName": "Новоаннинская"
+    "tikName": "Новоаннинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2810,
     "uikTvd": "4344028144813",
+    "uikName": "УИК №2810",
     "tikTvd": "2342000459646",
-    "tikName": "Новоаннинская"
+    "tikName": "Новоаннинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2811,
     "uikTvd": "4344028144814",
+    "uikName": "УИК №2811",
     "tikTvd": "2342000459646",
-    "tikName": "Новоаннинская"
+    "tikName": "Новоаннинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2812,
     "uikTvd": "4344028144815",
+    "uikName": "УИК №2812",
     "tikTvd": "2342000459646",
-    "tikName": "Новоаннинская"
+    "tikName": "Новоаннинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2813,
     "uikTvd": "4344028144816",
+    "uikName": "УИК №2813",
     "tikTvd": "2342000459646",
-    "tikName": "Новоаннинская"
+    "tikName": "Новоаннинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2814,
     "uikTvd": "4344028144817",
+    "uikName": "УИК №2814",
     "tikTvd": "2342000459646",
-    "tikName": "Новоаннинская"
+    "tikName": "Новоаннинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2815,
     "uikTvd": "4344028144818",
+    "uikName": "УИК №2815",
     "tikTvd": "2342000459646",
-    "tikName": "Новоаннинская"
+    "tikName": "Новоаннинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2816,
     "uikTvd": "4344028144819",
+    "uikName": "УИК №2816",
     "tikTvd": "2342000459646",
-    "tikName": "Новоаннинская"
+    "tikName": "Новоаннинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2817,
     "uikTvd": "4344028144820",
+    "uikName": "УИК №2817",
     "tikTvd": "2342000459646",
-    "tikName": "Новоаннинская"
+    "tikName": "Новоаннинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2818,
     "uikTvd": "4344028144821",
+    "uikName": "УИК №2818",
     "tikTvd": "2342000459646",
-    "tikName": "Новоаннинская"
+    "tikName": "Новоаннинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2819,
     "uikTvd": "4344028144822",
+    "uikName": "УИК №2819",
     "tikTvd": "2342000459646",
-    "tikName": "Новоаннинская"
+    "tikName": "Новоаннинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2820,
     "uikTvd": "4344028144823",
+    "uikName": "УИК №2820",
     "tikTvd": "2342000459646",
-    "tikName": "Новоаннинская"
+    "tikName": "Новоаннинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2821,
     "uikTvd": "4344028144824",
+    "uikName": "УИК №2821",
     "tikTvd": "2342000459646",
-    "tikName": "Новоаннинская"
+    "tikName": "Новоаннинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2822,
     "uikTvd": "4344028144825",
+    "uikName": "УИК №2822",
     "tikTvd": "2342000459646",
-    "tikName": "Новоаннинская"
+    "tikName": "Новоаннинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2823,
     "uikTvd": "4344028144826",
+    "uikName": "УИК №2823",
     "tikTvd": "2342000459646",
-    "tikName": "Новоаннинская"
+    "tikName": "Новоаннинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2824,
     "uikTvd": "4344028144827",
+    "uikName": "УИК №2824",
     "tikTvd": "2342000459646",
-    "tikName": "Новоаннинская"
+    "tikName": "Новоаннинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2825,
     "uikTvd": "4344028144828",
+    "uikName": "УИК №2825",
     "tikTvd": "2342000459646",
-    "tikName": "Новоаннинская"
+    "tikName": "Новоаннинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2826,
     "uikTvd": "4344028144829",
+    "uikName": "УИК №2826",
     "tikTvd": "2342000459646",
-    "tikName": "Новоаннинская"
+    "tikName": "Новоаннинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2827,
     "uikTvd": "4344028144830",
+    "uikName": "УИК №2827",
     "tikTvd": "2342000459646",
-    "tikName": "Новоаннинская"
+    "tikName": "Новоаннинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2828,
     "uikTvd": "4344028144831",
+    "uikName": "УИК №2828",
     "tikTvd": "2342000459646",
-    "tikName": "Новоаннинская"
+    "tikName": "Новоаннинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2829,
     "uikTvd": "4344028144832",
+    "uikName": "УИК №2829",
     "tikTvd": "2342000459646",
-    "tikName": "Новоаннинская"
+    "tikName": "Новоаннинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2830,
     "uikTvd": "4344028144833",
+    "uikName": "УИК №2830",
     "tikTvd": "2342000459646",
-    "tikName": "Новоаннинская"
+    "tikName": "Новоаннинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2831,
     "uikTvd": "4344028144834",
+    "uikName": "УИК №2831",
     "tikTvd": "2342000459646",
-    "tikName": "Новоаннинская"
+    "tikName": "Новоаннинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2832,
     "uikTvd": "4344028144835",
+    "uikName": "УИК №2832",
     "tikTvd": "2342000459646",
-    "tikName": "Новоаннинская"
+    "tikName": "Новоаннинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2833,
     "uikTvd": "4344028144836",
+    "uikName": "УИК №2833",
     "tikTvd": "2342000459646",
-    "tikName": "Новоаннинская"
+    "tikName": "Новоаннинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2834,
     "uikTvd": "4344028144837",
+    "uikName": "УИК №2834",
     "tikTvd": "2342000459646",
-    "tikName": "Новоаннинская"
+    "tikName": "Новоаннинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2835,
     "uikTvd": "4344028144838",
+    "uikName": "УИК №2835",
     "tikTvd": "2342000459646",
-    "tikName": "Новоаннинская"
+    "tikName": "Новоаннинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2836,
     "uikTvd": "4344028144839",
+    "uikName": "УИК №2836",
     "tikTvd": "2342000459646",
-    "tikName": "Новоаннинская"
+    "tikName": "Новоаннинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2837,
     "uikTvd": "4344028144840",
+    "uikName": "УИК №2837",
     "tikTvd": "2342000459646",
-    "tikName": "Новоаннинская"
+    "tikName": "Новоаннинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2838,
     "uikTvd": "4344028144841",
+    "uikName": "УИК №2838",
     "tikTvd": "2342000459646",
-    "tikName": "Новоаннинская"
+    "tikName": "Новоаннинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2839,
     "uikTvd": "4344028144842",
+    "uikName": "УИК №2839",
     "tikTvd": "2342000459646",
-    "tikName": "Новоаннинская"
+    "tikName": "Новоаннинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2840,
     "uikTvd": "4344028144843",
+    "uikName": "УИК №2840",
     "tikTvd": "2342000459646",
-    "tikName": "Новоаннинская"
+    "tikName": "Новоаннинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2841,
     "uikTvd": "4344028144844",
+    "uikName": "УИК №2841",
     "tikTvd": "2342000459646",
-    "tikName": "Новоаннинская"
+    "tikName": "Новоаннинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2842,
     "uikTvd": "4344028144845",
+    "uikName": "УИК №2842",
     "tikTvd": "2342000459646",
-    "tikName": "Новоаннинская"
+    "tikName": "Новоаннинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2843,
     "uikTvd": "4344028144846",
+    "uikName": "УИК №2843",
     "tikTvd": "2342000459646",
-    "tikName": "Новоаннинская"
+    "tikName": "Новоаннинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2901,
     "uikTvd": "4344029144231",
+    "uikName": "УИК №2901",
     "tikTvd": "2342000459645",
-    "tikName": "Новониколаевская"
+    "tikName": "Новониколаевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2902,
     "uikTvd": "4344029144232",
+    "uikName": "УИК №2902",
     "tikTvd": "2342000459645",
-    "tikName": "Новониколаевская"
+    "tikName": "Новониколаевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2903,
     "uikTvd": "4344029144233",
+    "uikName": "УИК №2903",
     "tikTvd": "2342000459645",
-    "tikName": "Новониколаевская"
+    "tikName": "Новониколаевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2904,
     "uikTvd": "4344029144234",
+    "uikName": "УИК №2904",
     "tikTvd": "2342000459645",
-    "tikName": "Новониколаевская"
+    "tikName": "Новониколаевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2905,
     "uikTvd": "4344029144235",
+    "uikName": "УИК №2905",
     "tikTvd": "2342000459645",
-    "tikName": "Новониколаевская"
+    "tikName": "Новониколаевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2906,
     "uikTvd": "4344029144236",
+    "uikName": "УИК №2906",
     "tikTvd": "2342000459645",
-    "tikName": "Новониколаевская"
+    "tikName": "Новониколаевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2907,
     "uikTvd": "4344029144237",
+    "uikName": "УИК №2907",
     "tikTvd": "2342000459645",
-    "tikName": "Новониколаевская"
+    "tikName": "Новониколаевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2908,
     "uikTvd": "4344029144238",
+    "uikName": "УИК №2908",
     "tikTvd": "2342000459645",
-    "tikName": "Новониколаевская"
+    "tikName": "Новониколаевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2909,
     "uikTvd": "4344029144239",
+    "uikName": "УИК №2909",
     "tikTvd": "2342000459645",
-    "tikName": "Новониколаевская"
+    "tikName": "Новониколаевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2910,
     "uikTvd": "4344029144240",
+    "uikName": "УИК №2910",
     "tikTvd": "2342000459645",
-    "tikName": "Новониколаевская"
+    "tikName": "Новониколаевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2911,
     "uikTvd": "4344029144241",
+    "uikName": "УИК №2911",
     "tikTvd": "2342000459645",
-    "tikName": "Новониколаевская"
+    "tikName": "Новониколаевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2912,
     "uikTvd": "4344029144242",
+    "uikName": "УИК №2912",
     "tikTvd": "2342000459645",
-    "tikName": "Новониколаевская"
+    "tikName": "Новониколаевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2913,
     "uikTvd": "4344029144243",
+    "uikName": "УИК №2913",
     "tikTvd": "2342000459645",
-    "tikName": "Новониколаевская"
+    "tikName": "Новониколаевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2914,
     "uikTvd": "4344029144244",
+    "uikName": "УИК №2914",
     "tikTvd": "2342000459645",
-    "tikName": "Новониколаевская"
+    "tikName": "Новониколаевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2915,
     "uikTvd": "4344029144245",
+    "uikName": "УИК №2915",
     "tikTvd": "2342000459645",
-    "tikName": "Новониколаевская"
+    "tikName": "Новониколаевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2916,
     "uikTvd": "4344029144246",
+    "uikName": "УИК №2916",
     "tikTvd": "2342000459645",
-    "tikName": "Новониколаевская"
+    "tikName": "Новониколаевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2917,
     "uikTvd": "4344029144247",
+    "uikName": "УИК №2917",
     "tikTvd": "2342000459645",
-    "tikName": "Новониколаевская"
+    "tikName": "Новониколаевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2918,
     "uikTvd": "4344029144248",
+    "uikName": "УИК №2918",
     "tikTvd": "2342000459645",
-    "tikName": "Новониколаевская"
+    "tikName": "Новониколаевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2919,
     "uikTvd": "4344029144249",
+    "uikName": "УИК №2919",
     "tikTvd": "2342000459645",
-    "tikName": "Новониколаевская"
+    "tikName": "Новониколаевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2920,
     "uikTvd": "4344029144250",
+    "uikName": "УИК №2920",
     "tikTvd": "2342000459645",
-    "tikName": "Новониколаевская"
+    "tikName": "Новониколаевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2921,
     "uikTvd": "4344029144251",
+    "uikName": "УИК №2921",
     "tikTvd": "2342000459645",
-    "tikName": "Новониколаевская"
+    "tikName": "Новониколаевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2922,
     "uikTvd": "4344029144252",
+    "uikName": "УИК №2922",
     "tikTvd": "2342000459645",
-    "tikName": "Новониколаевская"
+    "tikName": "Новониколаевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2923,
     "uikTvd": "4344029144253",
+    "uikName": "УИК №2923",
     "tikTvd": "2342000459645",
-    "tikName": "Новониколаевская"
+    "tikName": "Новониколаевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2924,
     "uikTvd": "4344029144254",
+    "uikName": "УИК №2924",
     "tikTvd": "2342000459645",
-    "tikName": "Новониколаевская"
+    "tikName": "Новониколаевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2925,
     "uikTvd": "4344029144255",
+    "uikName": "УИК №2925",
     "tikTvd": "2342000459645",
-    "tikName": "Новониколаевская"
+    "tikName": "Новониколаевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 2926,
     "uikTvd": "4344029144256",
+    "uikName": "УИК №2926",
     "tikTvd": "2342000459645",
-    "tikName": "Новониколаевская"
+    "tikName": "Новониколаевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3001,
     "uikTvd": "4344030129780",
+    "uikName": "УИК №3001",
     "tikTvd": "2342000459644",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3002,
     "uikTvd": "4344030129781",
+    "uikName": "УИК №3002",
     "tikTvd": "2342000459644",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3003,
     "uikTvd": "4344030129782",
+    "uikName": "УИК №3003",
     "tikTvd": "2342000459644",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3004,
     "uikTvd": "4344030129783",
+    "uikName": "УИК №3004",
     "tikTvd": "2342000459644",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3005,
     "uikTvd": "4344030129784",
+    "uikName": "УИК №3005",
     "tikTvd": "2342000459644",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3006,
     "uikTvd": "4344030129785",
+    "uikName": "УИК №3006",
     "tikTvd": "2342000459644",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3007,
     "uikTvd": "4344030129786",
+    "uikName": "УИК №3007",
     "tikTvd": "2342000459644",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3008,
     "uikTvd": "4344030129787",
+    "uikName": "УИК №3008",
     "tikTvd": "2342000459644",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3009,
     "uikTvd": "4344030129788",
+    "uikName": "УИК №3009",
     "tikTvd": "2342000459644",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3010,
     "uikTvd": "4344030129789",
+    "uikName": "УИК №3010",
     "tikTvd": "2342000459644",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3011,
     "uikTvd": "4344030129790",
+    "uikName": "УИК №3011",
     "tikTvd": "2342000459644",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3012,
     "uikTvd": "4344030129791",
+    "uikName": "УИК №3012",
     "tikTvd": "2342000459644",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3013,
     "uikTvd": "4344030129792",
+    "uikName": "УИК №3013",
     "tikTvd": "2342000459644",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3014,
     "uikTvd": "4344030129793",
+    "uikName": "УИК №3014",
     "tikTvd": "2342000459644",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3015,
     "uikTvd": "4344030129794",
+    "uikName": "УИК №3015",
     "tikTvd": "2342000459644",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3016,
     "uikTvd": "4344030129795",
+    "uikName": "УИК №3016",
     "tikTvd": "2342000459644",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3017,
     "uikTvd": "4344030129796",
+    "uikName": "УИК №3017",
     "tikTvd": "2342000459644",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3018,
     "uikTvd": "4344030129797",
+    "uikName": "УИК №3018",
     "tikTvd": "2342000459644",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3019,
     "uikTvd": "4344030129798",
+    "uikName": "УИК №3019",
     "tikTvd": "2342000459644",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3020,
     "uikTvd": "4344030129799",
+    "uikName": "УИК №3020",
     "tikTvd": "2342000459644",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3021,
     "uikTvd": "4344030129800",
+    "uikName": "УИК №3021",
     "tikTvd": "2342000459644",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3022,
     "uikTvd": "4344030129801",
+    "uikName": "УИК №3022",
     "tikTvd": "2342000459644",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3023,
     "uikTvd": "4344030129802",
+    "uikName": "УИК №3023",
     "tikTvd": "2342000459644",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3024,
     "uikTvd": "4344030129803",
+    "uikName": "УИК №3024",
     "tikTvd": "2342000459644",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3025,
     "uikTvd": "4344030129804",
+    "uikName": "УИК №3025",
     "tikTvd": "2342000459644",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3026,
     "uikTvd": "4344030129805",
+    "uikName": "УИК №3026",
     "tikTvd": "2342000459644",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3027,
     "uikTvd": "4344030129806",
+    "uikName": "УИК №3027",
     "tikTvd": "2342000459644",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3028,
     "uikTvd": "4344030129807",
+    "uikName": "УИК №3028",
     "tikTvd": "2342000459644",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3029,
     "uikTvd": "4344030129808",
+    "uikName": "УИК №3029",
     "tikTvd": "2342000459644",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3101,
     "uikTvd": "4344031131933",
+    "uikName": "УИК №3101",
     "tikTvd": "2342000459626",
-    "tikName": "Ольховская"
+    "tikName": "Ольховская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3102,
     "uikTvd": "4344031131934",
+    "uikName": "УИК №3102",
     "tikTvd": "2342000459626",
-    "tikName": "Ольховская"
+    "tikName": "Ольховская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3103,
     "uikTvd": "4344031131935",
+    "uikName": "УИК №3103",
     "tikTvd": "2342000459626",
-    "tikName": "Ольховская"
+    "tikName": "Ольховская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3104,
     "uikTvd": "4344031131936",
+    "uikName": "УИК №3104",
     "tikTvd": "2342000459626",
-    "tikName": "Ольховская"
+    "tikName": "Ольховская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3105,
     "uikTvd": "4344031131937",
+    "uikName": "УИК №3105",
     "tikTvd": "2342000459626",
-    "tikName": "Ольховская"
+    "tikName": "Ольховская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3106,
     "uikTvd": "4344031131938",
+    "uikName": "УИК №3106",
     "tikTvd": "2342000459626",
-    "tikName": "Ольховская"
+    "tikName": "Ольховская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3107,
     "uikTvd": "4344031131939",
+    "uikName": "УИК №3107",
     "tikTvd": "2342000459626",
-    "tikName": "Ольховская"
+    "tikName": "Ольховская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3108,
     "uikTvd": "4344031131940",
+    "uikName": "УИК №3108",
     "tikTvd": "2342000459626",
-    "tikName": "Ольховская"
+    "tikName": "Ольховская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3109,
     "uikTvd": "4344031131941",
+    "uikName": "УИК №3109",
     "tikTvd": "2342000459626",
-    "tikName": "Ольховская"
+    "tikName": "Ольховская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3110,
     "uikTvd": "4344031131942",
+    "uikName": "УИК №3110",
     "tikTvd": "2342000459626",
-    "tikName": "Ольховская"
+    "tikName": "Ольховская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3111,
     "uikTvd": "4344031131943",
+    "uikName": "УИК №3111",
     "tikTvd": "2342000459626",
-    "tikName": "Ольховская"
+    "tikName": "Ольховская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3112,
     "uikTvd": "4344031131944",
+    "uikName": "УИК №3112",
     "tikTvd": "2342000459626",
-    "tikName": "Ольховская"
+    "tikName": "Ольховская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3113,
     "uikTvd": "4344031131945",
+    "uikName": "УИК №3113",
     "tikTvd": "2342000459626",
-    "tikName": "Ольховская"
+    "tikName": "Ольховская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3114,
     "uikTvd": "4344031131946",
+    "uikName": "УИК №3114",
     "tikTvd": "2342000459626",
-    "tikName": "Ольховская"
+    "tikName": "Ольховская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3115,
     "uikTvd": "4344031131947",
+    "uikName": "УИК №3115",
     "tikTvd": "2342000459626",
-    "tikName": "Ольховская"
+    "tikName": "Ольховская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3116,
     "uikTvd": "4344031131948",
+    "uikName": "УИК №3116",
     "tikTvd": "2342000459626",
-    "tikName": "Ольховская"
+    "tikName": "Ольховская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3117,
     "uikTvd": "4344031131949",
+    "uikName": "УИК №3117",
     "tikTvd": "2342000459626",
-    "tikName": "Ольховская"
+    "tikName": "Ольховская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3118,
     "uikTvd": "4344031131950",
+    "uikName": "УИК №3118",
     "tikTvd": "2342000459626",
-    "tikName": "Ольховская"
+    "tikName": "Ольховская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3119,
     "uikTvd": "4344031131951",
+    "uikName": "УИК №3119",
     "tikTvd": "2342000459626",
-    "tikName": "Ольховская"
+    "tikName": "Ольховская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3120,
     "uikTvd": "4344031131952",
+    "uikName": "УИК №3120",
     "tikTvd": "2342000459626",
-    "tikName": "Ольховская"
+    "tikName": "Ольховская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3121,
     "uikTvd": "4344031131953",
+    "uikName": "УИК №3121",
     "tikTvd": "2342000459626",
-    "tikName": "Ольховская"
+    "tikName": "Ольховская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3201,
     "uikTvd": "4344032129661",
+    "uikName": "УИК №3201",
     "tikTvd": "2342000459625",
-    "tikName": "Палласовская"
+    "tikName": "Палласовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3202,
     "uikTvd": "4344032129663",
+    "uikName": "УИК №3202",
     "tikTvd": "2342000459625",
-    "tikName": "Палласовская"
+    "tikName": "Палласовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3203,
     "uikTvd": "4344032129664",
+    "uikName": "УИК №3203",
     "tikTvd": "2342000459625",
-    "tikName": "Палласовская"
+    "tikName": "Палласовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3204,
     "uikTvd": "4344032129665",
+    "uikName": "УИК №3204",
     "tikTvd": "2342000459625",
-    "tikName": "Палласовская"
+    "tikName": "Палласовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3205,
     "uikTvd": "4344032129666",
+    "uikName": "УИК №3205",
     "tikTvd": "2342000459625",
-    "tikName": "Палласовская"
+    "tikName": "Палласовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3206,
     "uikTvd": "4344032129667",
+    "uikName": "УИК №3206",
     "tikTvd": "2342000459625",
-    "tikName": "Палласовская"
+    "tikName": "Палласовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3207,
     "uikTvd": "4344032129668",
+    "uikName": "УИК №3207",
     "tikTvd": "2342000459625",
-    "tikName": "Палласовская"
+    "tikName": "Палласовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3208,
     "uikTvd": "4344032129669",
+    "uikName": "УИК №3208",
     "tikTvd": "2342000459625",
-    "tikName": "Палласовская"
+    "tikName": "Палласовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3209,
     "uikTvd": "4344032129670",
+    "uikName": "УИК №3209",
     "tikTvd": "2342000459625",
-    "tikName": "Палласовская"
+    "tikName": "Палласовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3210,
     "uikTvd": "4344032129671",
+    "uikName": "УИК №3210",
     "tikTvd": "2342000459625",
-    "tikName": "Палласовская"
+    "tikName": "Палласовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3211,
     "uikTvd": "4344032129672",
+    "uikName": "УИК №3211",
     "tikTvd": "2342000459625",
-    "tikName": "Палласовская"
+    "tikName": "Палласовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3212,
     "uikTvd": "4344032129673",
+    "uikName": "УИК №3212",
     "tikTvd": "2342000459625",
-    "tikName": "Палласовская"
+    "tikName": "Палласовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3213,
     "uikTvd": "4344032129674",
+    "uikName": "УИК №3213",
     "tikTvd": "2342000459625",
-    "tikName": "Палласовская"
+    "tikName": "Палласовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3214,
     "uikTvd": "4344032129675",
+    "uikName": "УИК №3214",
     "tikTvd": "2342000459625",
-    "tikName": "Палласовская"
+    "tikName": "Палласовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3215,
     "uikTvd": "4344032129676",
+    "uikName": "УИК №3215",
     "tikTvd": "2342000459625",
-    "tikName": "Палласовская"
+    "tikName": "Палласовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3216,
     "uikTvd": "4344032129677",
+    "uikName": "УИК №3216",
     "tikTvd": "2342000459625",
-    "tikName": "Палласовская"
+    "tikName": "Палласовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3217,
     "uikTvd": "4344032129678",
+    "uikName": "УИК №3217",
     "tikTvd": "2342000459625",
-    "tikName": "Палласовская"
+    "tikName": "Палласовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3218,
     "uikTvd": "4344032129679",
+    "uikName": "УИК №3218",
     "tikTvd": "2342000459625",
-    "tikName": "Палласовская"
+    "tikName": "Палласовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3219,
     "uikTvd": "4344032129680",
+    "uikName": "УИК №3219",
     "tikTvd": "2342000459625",
-    "tikName": "Палласовская"
+    "tikName": "Палласовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3220,
     "uikTvd": "4344032129681",
+    "uikName": "УИК №3220",
     "tikTvd": "2342000459625",
-    "tikName": "Палласовская"
+    "tikName": "Палласовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3221,
     "uikTvd": "4344032129682",
+    "uikName": "УИК №3221",
     "tikTvd": "2342000459625",
-    "tikName": "Палласовская"
+    "tikName": "Палласовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3222,
     "uikTvd": "4344032129683",
+    "uikName": "УИК №3222",
     "tikTvd": "2342000459625",
-    "tikName": "Палласовская"
+    "tikName": "Палласовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3223,
     "uikTvd": "4344032129684",
+    "uikName": "УИК №3223",
     "tikTvd": "2342000459625",
-    "tikName": "Палласовская"
+    "tikName": "Палласовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3224,
     "uikTvd": "4344032129685",
+    "uikName": "УИК №3224",
     "tikTvd": "2342000459625",
-    "tikName": "Палласовская"
+    "tikName": "Палласовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3225,
     "uikTvd": "4344032129686",
+    "uikName": "УИК №3225",
     "tikTvd": "2342000459625",
-    "tikName": "Палласовская"
+    "tikName": "Палласовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3226,
     "uikTvd": "4344032129687",
+    "uikName": "УИК №3226",
     "tikTvd": "2342000459625",
-    "tikName": "Палласовская"
+    "tikName": "Палласовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3227,
     "uikTvd": "4344032129688",
+    "uikName": "УИК №3227",
     "tikTvd": "2342000459625",
-    "tikName": "Палласовская"
+    "tikName": "Палласовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3228,
     "uikTvd": "4344032129689",
+    "uikName": "УИК №3228",
     "tikTvd": "2342000459625",
-    "tikName": "Палласовская"
+    "tikName": "Палласовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3229,
     "uikTvd": "4344032129690",
+    "uikName": "УИК №3229",
     "tikTvd": "2342000459625",
-    "tikName": "Палласовская"
+    "tikName": "Палласовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3230,
     "uikTvd": "4344032129691",
+    "uikName": "УИК №3230",
     "tikTvd": "2342000459625",
-    "tikName": "Палласовская"
+    "tikName": "Палласовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3231,
     "uikTvd": "4344032129692",
+    "uikName": "УИК №3231",
     "tikTvd": "2342000459625",
-    "tikName": "Палласовская"
+    "tikName": "Палласовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3232,
     "uikTvd": "4344032129693",
+    "uikName": "УИК №3232",
     "tikTvd": "2342000459625",
-    "tikName": "Палласовская"
+    "tikName": "Палласовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3233,
     "uikTvd": "4344032129694",
+    "uikName": "УИК №3233",
     "tikTvd": "2342000459625",
-    "tikName": "Палласовская"
+    "tikName": "Палласовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3234,
     "uikTvd": "4344032129695",
+    "uikName": "УИК №3234",
     "tikTvd": "2342000459625",
-    "tikName": "Палласовская"
+    "tikName": "Палласовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3235,
     "uikTvd": "4344032129696",
+    "uikName": "УИК №3235",
     "tikTvd": "2342000459625",
-    "tikName": "Палласовская"
+    "tikName": "Палласовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3236,
     "uikTvd": "4344032129697",
+    "uikName": "УИК №3236",
     "tikTvd": "2342000459625",
-    "tikName": "Палласовская"
+    "tikName": "Палласовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3237,
     "uikTvd": "4344032129698",
+    "uikName": "УИК №3237",
     "tikTvd": "2342000459625",
-    "tikName": "Палласовская"
+    "tikName": "Палласовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3238,
     "uikTvd": "4344032129699",
+    "uikName": "УИК №3238",
     "tikTvd": "2342000459625",
-    "tikName": "Палласовская"
+    "tikName": "Палласовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3239,
     "uikTvd": "4344032129700",
+    "uikName": "УИК №3239",
     "tikTvd": "2342000459625",
-    "tikName": "Палласовская"
+    "tikName": "Палласовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3240,
     "uikTvd": "4344032129701",
+    "uikName": "УИК №3240",
     "tikTvd": "2342000459625",
-    "tikName": "Палласовская"
+    "tikName": "Палласовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3241,
     "uikTvd": "4344032129702",
+    "uikName": "УИК №3241",
     "tikTvd": "2342000459625",
-    "tikName": "Палласовская"
+    "tikName": "Палласовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3242,
     "uikTvd": "4344032129703",
+    "uikName": "УИК №3242",
     "tikTvd": "2342000459625",
-    "tikName": "Палласовская"
+    "tikName": "Палласовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3243,
     "uikTvd": "4344032129704",
+    "uikName": "УИК №3243",
     "tikTvd": "2342000459625",
-    "tikName": "Палласовская"
+    "tikName": "Палласовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3301,
     "uikTvd": "4344033117902",
+    "uikName": "УИК №3301",
     "tikTvd": "2342000459650",
-    "tikName": "Кумылженская"
+    "tikName": "Кумылженская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3302,
     "uikTvd": "4344033117903",
+    "uikName": "УИК №3302",
     "tikTvd": "2342000459650",
-    "tikName": "Кумылженская"
+    "tikName": "Кумылженская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3303,
     "uikTvd": "4344033117904",
+    "uikName": "УИК №3303",
     "tikTvd": "2342000459650",
-    "tikName": "Кумылженская"
+    "tikName": "Кумылженская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3304,
     "uikTvd": "4344033117905",
+    "uikName": "УИК №3304",
     "tikTvd": "2342000459650",
-    "tikName": "Кумылженская"
+    "tikName": "Кумылженская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3305,
     "uikTvd": "4344033117906",
+    "uikName": "УИК №3305",
     "tikTvd": "2342000459650",
-    "tikName": "Кумылженская"
+    "tikName": "Кумылженская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3306,
     "uikTvd": "4344033117907",
+    "uikName": "УИК №3306",
     "tikTvd": "2342000459650",
-    "tikName": "Кумылженская"
+    "tikName": "Кумылженская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3307,
     "uikTvd": "4344033117908",
+    "uikName": "УИК №3307",
     "tikTvd": "2342000459650",
-    "tikName": "Кумылженская"
+    "tikName": "Кумылженская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3308,
     "uikTvd": "4344033117909",
+    "uikName": "УИК №3308",
     "tikTvd": "2342000459650",
-    "tikName": "Кумылженская"
+    "tikName": "Кумылженская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3309,
     "uikTvd": "4344033117910",
+    "uikName": "УИК №3309",
     "tikTvd": "2342000459650",
-    "tikName": "Кумылженская"
+    "tikName": "Кумылженская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3310,
     "uikTvd": "4344033117911",
+    "uikName": "УИК №3310",
     "tikTvd": "2342000459650",
-    "tikName": "Кумылженская"
+    "tikName": "Кумылженская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3311,
     "uikTvd": "4344033117912",
+    "uikName": "УИК №3311",
     "tikTvd": "2342000459650",
-    "tikName": "Кумылженская"
+    "tikName": "Кумылженская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3312,
     "uikTvd": "4344033117913",
+    "uikName": "УИК №3312",
     "tikTvd": "2342000459650",
-    "tikName": "Кумылженская"
+    "tikName": "Кумылженская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3313,
     "uikTvd": "4344033117914",
+    "uikName": "УИК №3313",
     "tikTvd": "2342000459650",
-    "tikName": "Кумылженская"
+    "tikName": "Кумылженская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3314,
     "uikTvd": "4344033117915",
+    "uikName": "УИК №3314",
     "tikTvd": "2342000459650",
-    "tikName": "Кумылженская"
+    "tikName": "Кумылженская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3315,
     "uikTvd": "4344033117916",
+    "uikName": "УИК №3315",
     "tikTvd": "2342000459650",
-    "tikName": "Кумылженская"
+    "tikName": "Кумылженская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3316,
     "uikTvd": "4344033117917",
+    "uikName": "УИК №3316",
     "tikTvd": "2342000459650",
-    "tikName": "Кумылженская"
+    "tikName": "Кумылженская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3317,
     "uikTvd": "4344033117918",
+    "uikName": "УИК №3317",
     "tikTvd": "2342000459650",
-    "tikName": "Кумылженская"
+    "tikName": "Кумылженская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3318,
     "uikTvd": "4344033117919",
+    "uikName": "УИК №3318",
     "tikTvd": "2342000459650",
-    "tikName": "Кумылженская"
+    "tikName": "Кумылженская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3319,
     "uikTvd": "4344033117920",
+    "uikName": "УИК №3319",
     "tikTvd": "2342000459650",
-    "tikName": "Кумылженская"
+    "tikName": "Кумылженская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3320,
     "uikTvd": "4344033117921",
+    "uikName": "УИК №3320",
     "tikTvd": "2342000459650",
-    "tikName": "Кумылженская"
+    "tikName": "Кумылженская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3321,
     "uikTvd": "4344033117922",
+    "uikName": "УИК №3321",
     "tikTvd": "2342000459650",
-    "tikName": "Кумылженская"
+    "tikName": "Кумылженская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3322,
     "uikTvd": "4344033117923",
+    "uikName": "УИК №3322",
     "tikTvd": "2342000459650",
-    "tikName": "Кумылженская"
+    "tikName": "Кумылженская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3323,
     "uikTvd": "4344033117924",
+    "uikName": "УИК №3323",
     "tikTvd": "2342000459650",
-    "tikName": "Кумылженская"
+    "tikName": "Кумылженская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3324,
     "uikTvd": "4344033117925",
+    "uikName": "УИК №3324",
     "tikTvd": "2342000459650",
-    "tikName": "Кумылженская"
+    "tikName": "Кумылженская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3325,
     "uikTvd": "4344033117926",
+    "uikName": "УИК №3325",
     "tikTvd": "2342000459650",
-    "tikName": "Кумылженская"
+    "tikName": "Кумылженская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3326,
     "uikTvd": "4344033117927",
+    "uikName": "УИК №3326",
     "tikTvd": "2342000459650",
-    "tikName": "Кумылженская"
+    "tikName": "Кумылженская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3327,
     "uikTvd": "4344033117928",
+    "uikName": "УИК №3327",
     "tikTvd": "2342000459650",
-    "tikName": "Кумылженская"
+    "tikName": "Кумылженская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3328,
     "uikTvd": "4344033117929",
+    "uikName": "УИК №3328",
     "tikTvd": "2342000459650",
-    "tikName": "Кумылженская"
+    "tikName": "Кумылженская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3401,
     "uikTvd": "4344034129907",
+    "uikName": "УИК №3401",
     "tikTvd": "2342000459643",
-    "tikName": "Руднянская"
+    "tikName": "Руднянская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3402,
     "uikTvd": "4344034129908",
+    "uikName": "УИК №3402",
     "tikTvd": "2342000459643",
-    "tikName": "Руднянская"
+    "tikName": "Руднянская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3403,
     "uikTvd": "4344034129909",
+    "uikName": "УИК №3403",
     "tikTvd": "2342000459643",
-    "tikName": "Руднянская"
+    "tikName": "Руднянская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3404,
     "uikTvd": "4344034129910",
+    "uikName": "УИК №3404",
     "tikTvd": "2342000459643",
-    "tikName": "Руднянская"
+    "tikName": "Руднянская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3405,
     "uikTvd": "4344034129911",
+    "uikName": "УИК №3405",
     "tikTvd": "2342000459643",
-    "tikName": "Руднянская"
+    "tikName": "Руднянская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3406,
     "uikTvd": "4344034129912",
+    "uikName": "УИК №3406",
     "tikTvd": "2342000459643",
-    "tikName": "Руднянская"
+    "tikName": "Руднянская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3407,
     "uikTvd": "4344034129913",
+    "uikName": "УИК №3407",
     "tikTvd": "2342000459643",
-    "tikName": "Руднянская"
+    "tikName": "Руднянская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3408,
     "uikTvd": "4344034129914",
+    "uikName": "УИК №3408",
     "tikTvd": "2342000459643",
-    "tikName": "Руднянская"
+    "tikName": "Руднянская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3409,
     "uikTvd": "4344034129915",
+    "uikName": "УИК №3409",
     "tikTvd": "2342000459643",
-    "tikName": "Руднянская"
+    "tikName": "Руднянская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3410,
     "uikTvd": "4344034129916",
+    "uikName": "УИК №3410",
     "tikTvd": "2342000459643",
-    "tikName": "Руднянская"
+    "tikName": "Руднянская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3411,
     "uikTvd": "4344034129917",
+    "uikName": "УИК №3411",
     "tikTvd": "2342000459643",
-    "tikName": "Руднянская"
+    "tikName": "Руднянская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3412,
     "uikTvd": "4344034129918",
+    "uikName": "УИК №3412",
     "tikTvd": "2342000459643",
-    "tikName": "Руднянская"
+    "tikName": "Руднянская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3413,
     "uikTvd": "4344034129919",
+    "uikName": "УИК №3413",
     "tikTvd": "2342000459643",
-    "tikName": "Руднянская"
+    "tikName": "Руднянская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3414,
     "uikTvd": "4344034129920",
+    "uikName": "УИК №3414",
     "tikTvd": "2342000459643",
-    "tikName": "Руднянская"
+    "tikName": "Руднянская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3415,
     "uikTvd": "4344034129921",
+    "uikName": "УИК №3415",
     "tikTvd": "2342000459643",
-    "tikName": "Руднянская"
+    "tikName": "Руднянская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3416,
     "uikTvd": "4344034129922",
+    "uikName": "УИК №3416",
     "tikTvd": "2342000459643",
-    "tikName": "Руднянская"
+    "tikName": "Руднянская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3417,
     "uikTvd": "4344034129923",
+    "uikName": "УИК №3417",
     "tikTvd": "2342000459643",
-    "tikName": "Руднянская"
+    "tikName": "Руднянская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3418,
     "uikTvd": "4344034129924",
+    "uikName": "УИК №3418",
     "tikTvd": "2342000459643",
-    "tikName": "Руднянская"
+    "tikName": "Руднянская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3419,
     "uikTvd": "4344034129925",
+    "uikName": "УИК №3419",
     "tikTvd": "2342000459643",
-    "tikName": "Руднянская"
+    "tikName": "Руднянская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3420,
     "uikTvd": "4344034129926",
+    "uikName": "УИК №3420",
     "tikTvd": "2342000459643",
-    "tikName": "Руднянская"
+    "tikName": "Руднянская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3501,
     "uikTvd": "4344035143984",
+    "uikName": "УИК №3501",
     "tikTvd": "2342000459642",
-    "tikName": "Светлоярская"
+    "tikName": "Светлоярская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3502,
     "uikTvd": "4344035143985",
+    "uikName": "УИК №3502",
     "tikTvd": "2342000459642",
-    "tikName": "Светлоярская"
+    "tikName": "Светлоярская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3503,
     "uikTvd": "4344035143986",
+    "uikName": "УИК №3503",
     "tikTvd": "2342000459642",
-    "tikName": "Светлоярская"
+    "tikName": "Светлоярская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3504,
     "uikTvd": "4344035143987",
+    "uikName": "УИК №3504",
     "tikTvd": "2342000459642",
-    "tikName": "Светлоярская"
+    "tikName": "Светлоярская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3505,
     "uikTvd": "4344035143988",
+    "uikName": "УИК №3505",
     "tikTvd": "2342000459642",
-    "tikName": "Светлоярская"
+    "tikName": "Светлоярская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3506,
     "uikTvd": "4344035143989",
+    "uikName": "УИК №3506",
     "tikTvd": "2342000459642",
-    "tikName": "Светлоярская"
+    "tikName": "Светлоярская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3507,
     "uikTvd": "4344035143990",
+    "uikName": "УИК №3507",
     "tikTvd": "2342000459642",
-    "tikName": "Светлоярская"
+    "tikName": "Светлоярская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3508,
     "uikTvd": "4344035143991",
+    "uikName": "УИК №3508",
     "tikTvd": "2342000459642",
-    "tikName": "Светлоярская"
+    "tikName": "Светлоярская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3509,
     "uikTvd": "4344035143992",
+    "uikName": "УИК №3509",
     "tikTvd": "2342000459642",
-    "tikName": "Светлоярская"
+    "tikName": "Светлоярская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3510,
     "uikTvd": "4344035143993",
+    "uikName": "УИК №3510",
     "tikTvd": "2342000459642",
-    "tikName": "Светлоярская"
+    "tikName": "Светлоярская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3511,
     "uikTvd": "4344035143994",
+    "uikName": "УИК №3511",
     "tikTvd": "2342000459642",
-    "tikName": "Светлоярская"
+    "tikName": "Светлоярская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3512,
     "uikTvd": "4344035143995",
+    "uikName": "УИК №3512",
     "tikTvd": "2342000459642",
-    "tikName": "Светлоярская"
+    "tikName": "Светлоярская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3513,
     "uikTvd": "4344035143996",
+    "uikName": "УИК №3513",
     "tikTvd": "2342000459642",
-    "tikName": "Светлоярская"
+    "tikName": "Светлоярская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3514,
     "uikTvd": "4344035143997",
+    "uikName": "УИК №3514",
     "tikTvd": "2342000459642",
-    "tikName": "Светлоярская"
+    "tikName": "Светлоярская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3515,
     "uikTvd": "4344035143998",
+    "uikName": "УИК №3515",
     "tikTvd": "2342000459642",
-    "tikName": "Светлоярская"
+    "tikName": "Светлоярская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3516,
     "uikTvd": "4344035143999",
+    "uikName": "УИК №3516",
     "tikTvd": "2342000459642",
-    "tikName": "Светлоярская"
+    "tikName": "Светлоярская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3517,
     "uikTvd": "4344035144000",
+    "uikName": "УИК №3517",
     "tikTvd": "2342000459642",
-    "tikName": "Светлоярская"
+    "tikName": "Светлоярская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3518,
     "uikTvd": "4344035144001",
+    "uikName": "УИК №3518",
     "tikTvd": "2342000459642",
-    "tikName": "Светлоярская"
+    "tikName": "Светлоярская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3519,
     "uikTvd": "4344035144002",
+    "uikName": "УИК №3519",
     "tikTvd": "2342000459642",
-    "tikName": "Светлоярская"
+    "tikName": "Светлоярская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3520,
     "uikTvd": "4344035144003",
+    "uikName": "УИК №3520",
     "tikTvd": "2342000459642",
-    "tikName": "Светлоярская"
+    "tikName": "Светлоярская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3521,
     "uikTvd": "4344035144004",
+    "uikName": "УИК №3521",
     "tikTvd": "2342000459642",
-    "tikName": "Светлоярская"
+    "tikName": "Светлоярская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3522,
     "uikTvd": "4344035144005",
+    "uikName": "УИК №3522",
     "tikTvd": "2342000459642",
-    "tikName": "Светлоярская"
+    "tikName": "Светлоярская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3523,
     "uikTvd": "4344035144006",
+    "uikName": "УИК №3523",
     "tikTvd": "2342000459642",
-    "tikName": "Светлоярская"
+    "tikName": "Светлоярская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3524,
     "uikTvd": "4344035144007",
+    "uikName": "УИК №3524",
     "tikTvd": "2342000459642",
-    "tikName": "Светлоярская"
+    "tikName": "Светлоярская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3525,
     "uikTvd": "4344035144008",
+    "uikName": "УИК №3525",
     "tikTvd": "2342000459642",
-    "tikName": "Светлоярская"
+    "tikName": "Светлоярская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3526,
     "uikTvd": "4344035144009",
+    "uikName": "УИК №3526",
     "tikTvd": "2342000459642",
-    "tikName": "Светлоярская"
+    "tikName": "Светлоярская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3527,
     "uikTvd": "4344035144010",
+    "uikName": "УИК №3527",
     "tikTvd": "2342000459642",
-    "tikName": "Светлоярская"
+    "tikName": "Светлоярская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3528,
     "uikTvd": "4344035144011",
+    "uikName": "УИК №3528",
     "tikTvd": "2342000459642",
-    "tikName": "Светлоярская"
+    "tikName": "Светлоярская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3529,
     "uikTvd": "4344035144012",
+    "uikName": "УИК №3529",
     "tikTvd": "2342000459642",
-    "tikName": "Светлоярская"
+    "tikName": "Светлоярская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3530,
     "uikTvd": "4344035144013",
+    "uikName": "УИК №3530",
     "tikTvd": "2342000459642",
-    "tikName": "Светлоярская"
+    "tikName": "Светлоярская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3601,
     "uikTvd": "4344036133207",
+    "uikName": "УИК №3601",
     "tikTvd": "2342000459641",
-    "tikName": "Серафимовичская"
+    "tikName": "Серафимовичская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3602,
     "uikTvd": "4344036133208",
+    "uikName": "УИК №3602",
     "tikTvd": "2342000459641",
-    "tikName": "Серафимовичская"
+    "tikName": "Серафимовичская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3603,
     "uikTvd": "4344036133209",
+    "uikName": "УИК №3603",
     "tikTvd": "2342000459641",
-    "tikName": "Серафимовичская"
+    "tikName": "Серафимовичская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3604,
     "uikTvd": "4344036133210",
+    "uikName": "УИК №3604",
     "tikTvd": "2342000459641",
-    "tikName": "Серафимовичская"
+    "tikName": "Серафимовичская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3605,
     "uikTvd": "4344036133211",
+    "uikName": "УИК №3605",
     "tikTvd": "2342000459641",
-    "tikName": "Серафимовичская"
+    "tikName": "Серафимовичская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3606,
     "uikTvd": "4344036133212",
+    "uikName": "УИК №3606",
     "tikTvd": "2342000459641",
-    "tikName": "Серафимовичская"
+    "tikName": "Серафимовичская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3607,
     "uikTvd": "4344036133213",
+    "uikName": "УИК №3607",
     "tikTvd": "2342000459641",
-    "tikName": "Серафимовичская"
+    "tikName": "Серафимовичская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3608,
     "uikTvd": "4344036133214",
+    "uikName": "УИК №3608",
     "tikTvd": "2342000459641",
-    "tikName": "Серафимовичская"
+    "tikName": "Серафимовичская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3609,
     "uikTvd": "4344036133215",
+    "uikName": "УИК №3609",
     "tikTvd": "2342000459641",
-    "tikName": "Серафимовичская"
+    "tikName": "Серафимовичская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3610,
     "uikTvd": "4344036133216",
+    "uikName": "УИК №3610",
     "tikTvd": "2342000459641",
-    "tikName": "Серафимовичская"
+    "tikName": "Серафимовичская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3611,
     "uikTvd": "4344036133217",
+    "uikName": "УИК №3611",
     "tikTvd": "2342000459641",
-    "tikName": "Серафимовичская"
+    "tikName": "Серафимовичская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3612,
     "uikTvd": "4344036133218",
+    "uikName": "УИК №3612",
     "tikTvd": "2342000459641",
-    "tikName": "Серафимовичская"
+    "tikName": "Серафимовичская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3613,
     "uikTvd": "4344036133219",
+    "uikName": "УИК №3613",
     "tikTvd": "2342000459641",
-    "tikName": "Серафимовичская"
+    "tikName": "Серафимовичская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3614,
     "uikTvd": "4344036133220",
+    "uikName": "УИК №3614",
     "tikTvd": "2342000459641",
-    "tikName": "Серафимовичская"
+    "tikName": "Серафимовичская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3615,
     "uikTvd": "4344036133221",
+    "uikName": "УИК №3615",
     "tikTvd": "2342000459641",
-    "tikName": "Серафимовичская"
+    "tikName": "Серафимовичская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3616,
     "uikTvd": "4344036133222",
+    "uikName": "УИК №3616",
     "tikTvd": "2342000459641",
-    "tikName": "Серафимовичская"
+    "tikName": "Серафимовичская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3617,
     "uikTvd": "4344036133223",
+    "uikName": "УИК №3617",
     "tikTvd": "2342000459641",
-    "tikName": "Серафимовичская"
+    "tikName": "Серафимовичская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3618,
     "uikTvd": "4344036133224",
+    "uikName": "УИК №3618",
     "tikTvd": "2342000459641",
-    "tikName": "Серафимовичская"
+    "tikName": "Серафимовичская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3619,
     "uikTvd": "4344036133225",
+    "uikName": "УИК №3619",
     "tikTvd": "2342000459641",
-    "tikName": "Серафимовичская"
+    "tikName": "Серафимовичская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3620,
     "uikTvd": "4344036133226",
+    "uikName": "УИК №3620",
     "tikTvd": "2342000459641",
-    "tikName": "Серафимовичская"
+    "tikName": "Серафимовичская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3621,
     "uikTvd": "4344036133227",
+    "uikName": "УИК №3621",
     "tikTvd": "2342000459641",
-    "tikName": "Серафимовичская"
+    "tikName": "Серафимовичская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3622,
     "uikTvd": "4344036133228",
+    "uikName": "УИК №3622",
     "tikTvd": "2342000459641",
-    "tikName": "Серафимовичская"
+    "tikName": "Серафимовичская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3623,
     "uikTvd": "4344036133229",
+    "uikName": "УИК №3623",
     "tikTvd": "2342000459641",
-    "tikName": "Серафимовичская"
+    "tikName": "Серафимовичская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3624,
     "uikTvd": "4344036133230",
+    "uikName": "УИК №3624",
     "tikTvd": "2342000459641",
-    "tikName": "Серафимовичская"
+    "tikName": "Серафимовичская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3625,
     "uikTvd": "4344036133231",
+    "uikName": "УИК №3625",
     "tikTvd": "2342000459641",
-    "tikName": "Серафимовичская"
+    "tikName": "Серафимовичская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3626,
     "uikTvd": "4344036133232",
+    "uikName": "УИК №3626",
     "tikTvd": "2342000459641",
-    "tikName": "Серафимовичская"
+    "tikName": "Серафимовичская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3627,
     "uikTvd": "4344036133233",
+    "uikName": "УИК №3627",
     "tikTvd": "2342000459641",
-    "tikName": "Серафимовичская"
+    "tikName": "Серафимовичская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3628,
     "uikTvd": "4344036133234",
+    "uikName": "УИК №3628",
     "tikTvd": "2342000459641",
-    "tikName": "Серафимовичская"
+    "tikName": "Серафимовичская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3629,
     "uikTvd": "4344036133235",
+    "uikName": "УИК №3629",
     "tikTvd": "2342000459641",
-    "tikName": "Серафимовичская"
+    "tikName": "Серафимовичская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3630,
     "uikTvd": "4344036133236",
+    "uikName": "УИК №3630",
     "tikTvd": "2342000459641",
-    "tikName": "Серафимовичская"
+    "tikName": "Серафимовичская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3631,
     "uikTvd": "4344036133237",
+    "uikName": "УИК №3631",
     "tikTvd": "2342000459641",
-    "tikName": "Серафимовичская"
+    "tikName": "Серафимовичская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3632,
     "uikTvd": "4344036133238",
+    "uikName": "УИК №3632",
     "tikTvd": "2342000459641",
-    "tikName": "Серафимовичская"
+    "tikName": "Серафимовичская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3633,
     "uikTvd": "4344036133239",
+    "uikName": "УИК №3633",
     "tikTvd": "2342000459641",
-    "tikName": "Серафимовичская"
+    "tikName": "Серафимовичская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3634,
     "uikTvd": "4344036133240",
+    "uikName": "УИК №3634",
     "tikTvd": "2342000459641",
-    "tikName": "Серафимовичская"
+    "tikName": "Серафимовичская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3635,
     "uikTvd": "4344036133241",
+    "uikName": "УИК №3635",
     "tikTvd": "2342000459641",
-    "tikName": "Серафимовичская"
+    "tikName": "Серафимовичская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3636,
     "uikTvd": "4344036133242",
+    "uikName": "УИК №3636",
     "tikTvd": "2342000459641",
-    "tikName": "Серафимовичская"
+    "tikName": "Серафимовичская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3637,
     "uikTvd": "4344036133243",
+    "uikName": "УИК №3637",
     "tikTvd": "2342000459641",
-    "tikName": "Серафимовичская"
+    "tikName": "Серафимовичская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3638,
     "uikTvd": "4344036133244",
+    "uikName": "УИК №3638",
     "tikTvd": "2342000459641",
-    "tikName": "Серафимовичская"
+    "tikName": "Серафимовичская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3701,
     "uikTvd": "4344037145098",
+    "uikName": "УИК №3701",
     "tikTvd": "2342000459624",
-    "tikName": "Среднеахтубинская"
+    "tikName": "Среднеахтубинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3702,
     "uikTvd": "4344037145099",
+    "uikName": "УИК №3702",
     "tikTvd": "2342000459624",
-    "tikName": "Среднеахтубинская"
+    "tikName": "Среднеахтубинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3703,
     "uikTvd": "4344037145100",
+    "uikName": "УИК №3703",
     "tikTvd": "2342000459624",
-    "tikName": "Среднеахтубинская"
+    "tikName": "Среднеахтубинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3704,
     "uikTvd": "4344037145101",
+    "uikName": "УИК №3704",
     "tikTvd": "2342000459624",
-    "tikName": "Среднеахтубинская"
+    "tikName": "Среднеахтубинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3705,
     "uikTvd": "4344037145102",
+    "uikName": "УИК №3705",
     "tikTvd": "2342000459624",
-    "tikName": "Среднеахтубинская"
+    "tikName": "Среднеахтубинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3706,
     "uikTvd": "4344037145103",
+    "uikName": "УИК №3706",
     "tikTvd": "2342000459624",
-    "tikName": "Среднеахтубинская"
+    "tikName": "Среднеахтубинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3707,
     "uikTvd": "4344037145104",
+    "uikName": "УИК №3707",
     "tikTvd": "2342000459624",
-    "tikName": "Среднеахтубинская"
+    "tikName": "Среднеахтубинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3708,
     "uikTvd": "4344037145105",
+    "uikName": "УИК №3708",
     "tikTvd": "2342000459624",
-    "tikName": "Среднеахтубинская"
+    "tikName": "Среднеахтубинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3709,
     "uikTvd": "4344037145106",
+    "uikName": "УИК №3709",
     "tikTvd": "2342000459624",
-    "tikName": "Среднеахтубинская"
+    "tikName": "Среднеахтубинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3710,
     "uikTvd": "4344037145107",
+    "uikName": "УИК №3710",
     "tikTvd": "2342000459624",
-    "tikName": "Среднеахтубинская"
+    "tikName": "Среднеахтубинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3711,
     "uikTvd": "4344037145108",
+    "uikName": "УИК №3711",
     "tikTvd": "2342000459624",
-    "tikName": "Среднеахтубинская"
+    "tikName": "Среднеахтубинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3712,
     "uikTvd": "4344037145109",
+    "uikName": "УИК №3712",
     "tikTvd": "2342000459624",
-    "tikName": "Среднеахтубинская"
+    "tikName": "Среднеахтубинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3713,
     "uikTvd": "4344037145110",
+    "uikName": "УИК №3713",
     "tikTvd": "2342000459624",
-    "tikName": "Среднеахтубинская"
+    "tikName": "Среднеахтубинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3714,
     "uikTvd": "4344037145111",
+    "uikName": "УИК №3714",
     "tikTvd": "2342000459624",
-    "tikName": "Среднеахтубинская"
+    "tikName": "Среднеахтубинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3715,
     "uikTvd": "4344037145112",
+    "uikName": "УИК №3715",
     "tikTvd": "2342000459624",
-    "tikName": "Среднеахтубинская"
+    "tikName": "Среднеахтубинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3716,
     "uikTvd": "4344037145113",
+    "uikName": "УИК №3716",
     "tikTvd": "2342000459624",
-    "tikName": "Среднеахтубинская"
+    "tikName": "Среднеахтубинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3717,
     "uikTvd": "4344037145114",
+    "uikName": "УИК №3717",
     "tikTvd": "2342000459624",
-    "tikName": "Среднеахтубинская"
+    "tikName": "Среднеахтубинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3718,
     "uikTvd": "4344037145115",
+    "uikName": "УИК №3718",
     "tikTvd": "2342000459624",
-    "tikName": "Среднеахтубинская"
+    "tikName": "Среднеахтубинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3719,
     "uikTvd": "4344037145116",
+    "uikName": "УИК №3719",
     "tikTvd": "2342000459624",
-    "tikName": "Среднеахтубинская"
+    "tikName": "Среднеахтубинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3720,
     "uikTvd": "4344037145117",
+    "uikName": "УИК №3720",
     "tikTvd": "2342000459624",
-    "tikName": "Среднеахтубинская"
+    "tikName": "Среднеахтубинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3721,
     "uikTvd": "4344037145118",
+    "uikName": "УИК №3721",
     "tikTvd": "2342000459624",
-    "tikName": "Среднеахтубинская"
+    "tikName": "Среднеахтубинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3722,
     "uikTvd": "4344037145119",
+    "uikName": "УИК №3722",
     "tikTvd": "2342000459624",
-    "tikName": "Среднеахтубинская"
+    "tikName": "Среднеахтубинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3723,
     "uikTvd": "4344037145120",
+    "uikName": "УИК №3723",
     "tikTvd": "2342000459624",
-    "tikName": "Среднеахтубинская"
+    "tikName": "Среднеахтубинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3724,
     "uikTvd": "4344037145121",
+    "uikName": "УИК №3724",
     "tikTvd": "2342000459624",
-    "tikName": "Среднеахтубинская"
+    "tikName": "Среднеахтубинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3725,
     "uikTvd": "4344037145122",
+    "uikName": "УИК №3725",
     "tikTvd": "2342000459624",
-    "tikName": "Среднеахтубинская"
+    "tikName": "Среднеахтубинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3726,
     "uikTvd": "4344037145123",
+    "uikName": "УИК №3726",
     "tikTvd": "2342000459624",
-    "tikName": "Среднеахтубинская"
+    "tikName": "Среднеахтубинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3727,
     "uikTvd": "4344037145124",
+    "uikName": "УИК №3727",
     "tikTvd": "2342000459624",
-    "tikName": "Среднеахтубинская"
+    "tikName": "Среднеахтубинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3728,
     "uikTvd": "4344037145125",
+    "uikName": "УИК №3728",
     "tikTvd": "2342000459624",
-    "tikName": "Среднеахтубинская"
+    "tikName": "Среднеахтубинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3729,
     "uikTvd": "4344037145126",
+    "uikName": "УИК №3729",
     "tikTvd": "2342000459624",
-    "tikName": "Среднеахтубинская"
+    "tikName": "Среднеахтубинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3730,
     "uikTvd": "4344037145127",
+    "uikName": "УИК №3730",
     "tikTvd": "2342000459624",
-    "tikName": "Среднеахтубинская"
+    "tikName": "Среднеахтубинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3731,
     "uikTvd": "4344037145128",
+    "uikName": "УИК №3731",
     "tikTvd": "2342000459624",
-    "tikName": "Среднеахтубинская"
+    "tikName": "Среднеахтубинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3732,
     "uikTvd": "4344037145129",
+    "uikName": "УИК №3732",
     "tikTvd": "2342000459624",
-    "tikName": "Среднеахтубинская"
+    "tikName": "Среднеахтубинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3733,
     "uikTvd": "4344037145130",
+    "uikName": "УИК №3733",
     "tikTvd": "2342000459624",
-    "tikName": "Среднеахтубинская"
+    "tikName": "Среднеахтубинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3734,
     "uikTvd": "4344037145131",
+    "uikName": "УИК №3734",
     "tikTvd": "2342000459624",
-    "tikName": "Среднеахтубинская"
+    "tikName": "Среднеахтубинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3735,
     "uikTvd": "4344037145132",
+    "uikName": "УИК №3735",
     "tikTvd": "2342000459624",
-    "tikName": "Среднеахтубинская"
+    "tikName": "Среднеахтубинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3736,
     "uikTvd": "4344037145133",
+    "uikName": "УИК №3736",
     "tikTvd": "2342000459624",
-    "tikName": "Среднеахтубинская"
+    "tikName": "Среднеахтубинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3737,
     "uikTvd": "4344037145134",
+    "uikName": "УИК №3737",
     "tikTvd": "2342000459624",
-    "tikName": "Среднеахтубинская"
+    "tikName": "Среднеахтубинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3738,
     "uikTvd": "4344037145135",
+    "uikName": "УИК №3738",
     "tikTvd": "2342000459624",
-    "tikName": "Среднеахтубинская"
+    "tikName": "Среднеахтубинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3739,
     "uikTvd": "4344037145136",
+    "uikName": "УИК №3739",
     "tikTvd": "2342000459624",
-    "tikName": "Среднеахтубинская"
+    "tikName": "Среднеахтубинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3740,
     "uikTvd": "4344037145137",
+    "uikName": "УИК №3740",
     "tikTvd": "2342000459624",
-    "tikName": "Среднеахтубинская"
+    "tikName": "Среднеахтубинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3741,
     "uikTvd": "4344037145138",
+    "uikName": "УИК №3741",
     "tikTvd": "2342000459624",
-    "tikName": "Среднеахтубинская"
+    "tikName": "Среднеахтубинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3742,
     "uikTvd": "4344037145139",
+    "uikName": "УИК №3742",
     "tikTvd": "2342000459624",
-    "tikName": "Среднеахтубинская"
+    "tikName": "Среднеахтубинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3743,
     "uikTvd": "4344037145140",
+    "uikName": "УИК №3743",
     "tikTvd": "2342000459624",
-    "tikName": "Среднеахтубинская"
+    "tikName": "Среднеахтубинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3744,
     "uikTvd": "4344037145141",
+    "uikName": "УИК №3744",
     "tikTvd": "2342000459624",
-    "tikName": "Среднеахтубинская"
+    "tikName": "Среднеахтубинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3745,
     "uikTvd": "4344037145142",
+    "uikName": "УИК №3745",
     "tikTvd": "2342000459624",
-    "tikName": "Среднеахтубинская"
+    "tikName": "Среднеахтубинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3746,
     "uikTvd": "4344037145143",
+    "uikName": "УИК №3746",
     "tikTvd": "2342000459624",
-    "tikName": "Среднеахтубинская"
+    "tikName": "Среднеахтубинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3747,
     "uikTvd": "4344037145144",
+    "uikName": "УИК №3747",
     "tikTvd": "2342000459624",
-    "tikName": "Среднеахтубинская"
+    "tikName": "Среднеахтубинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3748,
     "uikTvd": "4344037145145",
+    "uikName": "УИК №3748",
     "tikTvd": "2342000459624",
-    "tikName": "Среднеахтубинская"
+    "tikName": "Среднеахтубинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3749,
     "uikTvd": "4344037145146",
+    "uikName": "УИК №3749",
     "tikTvd": "2342000459624",
-    "tikName": "Среднеахтубинская"
+    "tikName": "Среднеахтубинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3750,
     "uikTvd": "4344037145147",
+    "uikName": "УИК №3750",
     "tikTvd": "2342000459624",
-    "tikName": "Среднеахтубинская"
+    "tikName": "Среднеахтубинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3751,
     "uikTvd": "4344037145148",
+    "uikName": "УИК №3751",
     "tikTvd": "2342000459624",
-    "tikName": "Среднеахтубинская"
+    "tikName": "Среднеахтубинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3752,
     "uikTvd": "4344037145149",
+    "uikName": "УИК №3752",
     "tikTvd": "2342000459624",
-    "tikName": "Среднеахтубинская"
+    "tikName": "Среднеахтубинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3753,
     "uikTvd": "4344037145150",
+    "uikName": "УИК №3753",
     "tikTvd": "2342000459624",
-    "tikName": "Среднеахтубинская"
+    "tikName": "Среднеахтубинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3754,
     "uikTvd": "4344037145151",
+    "uikName": "УИК №3754",
     "tikTvd": "2342000459624",
-    "tikName": "Среднеахтубинская"
+    "tikName": "Среднеахтубинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3755,
     "uikTvd": "4344037145152",
+    "uikName": "УИК №3755",
     "tikTvd": "2342000459624",
-    "tikName": "Среднеахтубинская"
+    "tikName": "Среднеахтубинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3756,
     "uikTvd": "4344037145153",
+    "uikName": "УИК №3756",
     "tikTvd": "2342000459624",
-    "tikName": "Среднеахтубинская"
+    "tikName": "Среднеахтубинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3801,
     "uikTvd": "4344038131371",
+    "uikName": "УИК №3801",
     "tikTvd": "2342000459623",
-    "tikName": "Старополтавская"
+    "tikName": "Старополтавская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3802,
     "uikTvd": "4344038131373",
+    "uikName": "УИК №3802",
     "tikTvd": "2342000459623",
-    "tikName": "Старополтавская"
+    "tikName": "Старополтавская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3803,
     "uikTvd": "4344038131374",
+    "uikName": "УИК №3803",
     "tikTvd": "2342000459623",
-    "tikName": "Старополтавская"
+    "tikName": "Старополтавская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3804,
     "uikTvd": "4344038131375",
+    "uikName": "УИК №3804",
     "tikTvd": "2342000459623",
-    "tikName": "Старополтавская"
+    "tikName": "Старополтавская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3805,
     "uikTvd": "4344038131376",
+    "uikName": "УИК №3805",
     "tikTvd": "2342000459623",
-    "tikName": "Старополтавская"
+    "tikName": "Старополтавская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3806,
     "uikTvd": "4344038131377",
+    "uikName": "УИК №3806",
     "tikTvd": "2342000459623",
-    "tikName": "Старополтавская"
+    "tikName": "Старополтавская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3807,
     "uikTvd": "4344038131378",
+    "uikName": "УИК №3807",
     "tikTvd": "2342000459623",
-    "tikName": "Старополтавская"
+    "tikName": "Старополтавская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3808,
     "uikTvd": "4344038131379",
+    "uikName": "УИК №3808",
     "tikTvd": "2342000459623",
-    "tikName": "Старополтавская"
+    "tikName": "Старополтавская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3809,
     "uikTvd": "4344038131380",
+    "uikName": "УИК №3809",
     "tikTvd": "2342000459623",
-    "tikName": "Старополтавская"
+    "tikName": "Старополтавская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3810,
     "uikTvd": "4344038131381",
+    "uikName": "УИК №3810",
     "tikTvd": "2342000459623",
-    "tikName": "Старополтавская"
+    "tikName": "Старополтавская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3811,
     "uikTvd": "4344038131382",
+    "uikName": "УИК №3811",
     "tikTvd": "2342000459623",
-    "tikName": "Старополтавская"
+    "tikName": "Старополтавская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3812,
     "uikTvd": "4344038131383",
+    "uikName": "УИК №3812",
     "tikTvd": "2342000459623",
-    "tikName": "Старополтавская"
+    "tikName": "Старополтавская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3813,
     "uikTvd": "4344038131384",
+    "uikName": "УИК №3813",
     "tikTvd": "2342000459623",
-    "tikName": "Старополтавская"
+    "tikName": "Старополтавская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3814,
     "uikTvd": "4344038131385",
+    "uikName": "УИК №3814",
     "tikTvd": "2342000459623",
-    "tikName": "Старополтавская"
+    "tikName": "Старополтавская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3815,
     "uikTvd": "4344038131386",
+    "uikName": "УИК №3815",
     "tikTvd": "2342000459623",
-    "tikName": "Старополтавская"
+    "tikName": "Старополтавская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3816,
     "uikTvd": "4344038131387",
+    "uikName": "УИК №3816",
     "tikTvd": "2342000459623",
-    "tikName": "Старополтавская"
+    "tikName": "Старополтавская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3817,
     "uikTvd": "4344038131388",
+    "uikName": "УИК №3817",
     "tikTvd": "2342000459623",
-    "tikName": "Старополтавская"
+    "tikName": "Старополтавская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3818,
     "uikTvd": "4344038131389",
+    "uikName": "УИК №3818",
     "tikTvd": "2342000459623",
-    "tikName": "Старополтавская"
+    "tikName": "Старополтавская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3819,
     "uikTvd": "4344038131390",
+    "uikName": "УИК №3819",
     "tikTvd": "2342000459623",
-    "tikName": "Старополтавская"
+    "tikName": "Старополтавская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3820,
     "uikTvd": "4344038131391",
+    "uikName": "УИК №3820",
     "tikTvd": "2342000459623",
-    "tikName": "Старополтавская"
+    "tikName": "Старополтавская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3821,
     "uikTvd": "4344038131392",
+    "uikName": "УИК №3821",
     "tikTvd": "2342000459623",
-    "tikName": "Старополтавская"
+    "tikName": "Старополтавская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3822,
     "uikTvd": "4344038131393",
+    "uikName": "УИК №3822",
     "tikTvd": "2342000459623",
-    "tikName": "Старополтавская"
+    "tikName": "Старополтавская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3823,
     "uikTvd": "4344038131394",
+    "uikName": "УИК №3823",
     "tikTvd": "2342000459623",
-    "tikName": "Старополтавская"
+    "tikName": "Старополтавская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3824,
     "uikTvd": "4344038131395",
+    "uikName": "УИК №3824",
     "tikTvd": "2342000459623",
-    "tikName": "Старополтавская"
+    "tikName": "Старополтавская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3825,
     "uikTvd": "4344038131396",
+    "uikName": "УИК №3825",
     "tikTvd": "2342000459623",
-    "tikName": "Старополтавская"
+    "tikName": "Старополтавская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3901,
     "uikTvd": "4344039123431",
+    "uikName": "УИК №3901",
     "tikTvd": "2342000459640",
-    "tikName": "Суровикинская"
+    "tikName": "Суровикинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3902,
     "uikTvd": "4344039123432",
+    "uikName": "УИК №3902",
     "tikTvd": "2342000459640",
-    "tikName": "Суровикинская"
+    "tikName": "Суровикинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3903,
     "uikTvd": "4344039123433",
+    "uikName": "УИК №3903",
     "tikTvd": "2342000459640",
-    "tikName": "Суровикинская"
+    "tikName": "Суровикинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3904,
     "uikTvd": "4344039123434",
+    "uikName": "УИК №3904",
     "tikTvd": "2342000459640",
-    "tikName": "Суровикинская"
+    "tikName": "Суровикинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3905,
     "uikTvd": "4344039123435",
+    "uikName": "УИК №3905",
     "tikTvd": "2342000459640",
-    "tikName": "Суровикинская"
+    "tikName": "Суровикинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3906,
     "uikTvd": "4344039123436",
+    "uikName": "УИК №3906",
     "tikTvd": "2342000459640",
-    "tikName": "Суровикинская"
+    "tikName": "Суровикинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3907,
     "uikTvd": "4344039123437",
+    "uikName": "УИК №3907",
     "tikTvd": "2342000459640",
-    "tikName": "Суровикинская"
+    "tikName": "Суровикинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3908,
     "uikTvd": "4344039123438",
+    "uikName": "УИК №3908",
     "tikTvd": "2342000459640",
-    "tikName": "Суровикинская"
+    "tikName": "Суровикинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3909,
     "uikTvd": "4344039123439",
+    "uikName": "УИК №3909",
     "tikTvd": "2342000459640",
-    "tikName": "Суровикинская"
+    "tikName": "Суровикинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3910,
     "uikTvd": "4344039123440",
+    "uikName": "УИК №3910",
     "tikTvd": "2342000459640",
-    "tikName": "Суровикинская"
+    "tikName": "Суровикинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3911,
     "uikTvd": "4344039123441",
+    "uikName": "УИК №3911",
     "tikTvd": "2342000459640",
-    "tikName": "Суровикинская"
+    "tikName": "Суровикинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3912,
     "uikTvd": "4344039123442",
+    "uikName": "УИК №3912",
     "tikTvd": "2342000459640",
-    "tikName": "Суровикинская"
+    "tikName": "Суровикинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3913,
     "uikTvd": "4344039123443",
+    "uikName": "УИК №3913",
     "tikTvd": "2342000459640",
-    "tikName": "Суровикинская"
+    "tikName": "Суровикинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3914,
     "uikTvd": "4344039123444",
+    "uikName": "УИК №3914",
     "tikTvd": "2342000459640",
-    "tikName": "Суровикинская"
+    "tikName": "Суровикинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3915,
     "uikTvd": "4344039123445",
+    "uikName": "УИК №3915",
     "tikTvd": "2342000459640",
-    "tikName": "Суровикинская"
+    "tikName": "Суровикинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3916,
     "uikTvd": "4344039123446",
+    "uikName": "УИК №3916",
     "tikTvd": "2342000459640",
-    "tikName": "Суровикинская"
+    "tikName": "Суровикинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3917,
     "uikTvd": "4344039123447",
+    "uikName": "УИК №3917",
     "tikTvd": "2342000459640",
-    "tikName": "Суровикинская"
+    "tikName": "Суровикинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3918,
     "uikTvd": "4344039123448",
+    "uikName": "УИК №3918",
     "tikTvd": "2342000459640",
-    "tikName": "Суровикинская"
+    "tikName": "Суровикинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3919,
     "uikTvd": "4344039123449",
+    "uikName": "УИК №3919",
     "tikTvd": "2342000459640",
-    "tikName": "Суровикинская"
+    "tikName": "Суровикинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3920,
     "uikTvd": "4344039123450",
+    "uikName": "УИК №3920",
     "tikTvd": "2342000459640",
-    "tikName": "Суровикинская"
+    "tikName": "Суровикинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3921,
     "uikTvd": "4344039123451",
+    "uikName": "УИК №3921",
     "tikTvd": "2342000459640",
-    "tikName": "Суровикинская"
+    "tikName": "Суровикинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3922,
     "uikTvd": "4344039123452",
+    "uikName": "УИК №3922",
     "tikTvd": "2342000459640",
-    "tikName": "Суровикинская"
+    "tikName": "Суровикинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3923,
     "uikTvd": "4344039123453",
+    "uikName": "УИК №3923",
     "tikTvd": "2342000459640",
-    "tikName": "Суровикинская"
+    "tikName": "Суровикинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3924,
     "uikTvd": "4344039123454",
+    "uikName": "УИК №3924",
     "tikTvd": "2342000459640",
-    "tikName": "Суровикинская"
+    "tikName": "Суровикинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3925,
     "uikTvd": "4344039123455",
+    "uikName": "УИК №3925",
     "tikTvd": "2342000459640",
-    "tikName": "Суровикинская"
+    "tikName": "Суровикинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3926,
     "uikTvd": "4344039123456",
+    "uikName": "УИК №3926",
     "tikTvd": "2342000459640",
-    "tikName": "Суровикинская"
+    "tikName": "Суровикинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3927,
     "uikTvd": "4344039123457",
+    "uikName": "УИК №3927",
     "tikTvd": "2342000459640",
-    "tikName": "Суровикинская"
+    "tikName": "Суровикинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3928,
     "uikTvd": "4344039123458",
+    "uikName": "УИК №3928",
     "tikTvd": "2342000459640",
-    "tikName": "Суровикинская"
+    "tikName": "Суровикинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3929,
     "uikTvd": "4344039123459",
+    "uikName": "УИК №3929",
     "tikTvd": "2342000459640",
-    "tikName": "Суровикинская"
+    "tikName": "Суровикинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3930,
     "uikTvd": "4344039123460",
+    "uikName": "УИК №3930",
     "tikTvd": "2342000459640",
-    "tikName": "Суровикинская"
+    "tikName": "Суровикинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3931,
     "uikTvd": "4344039123461",
+    "uikName": "УИК №3931",
     "tikTvd": "2342000459640",
-    "tikName": "Суровикинская"
+    "tikName": "Суровикинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3932,
     "uikTvd": "4344039123462",
+    "uikName": "УИК №3932",
     "tikTvd": "2342000459640",
-    "tikName": "Суровикинская"
+    "tikName": "Суровикинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3933,
     "uikTvd": "4344039123463",
+    "uikName": "УИК №3933",
     "tikTvd": "2342000459640",
-    "tikName": "Суровикинская"
+    "tikName": "Суровикинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 3934,
     "uikTvd": "4344039123464",
+    "uikName": "УИК №3934",
     "tikTvd": "2342000459640",
-    "tikName": "Суровикинская"
+    "tikName": "Суровикинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4001,
     "uikTvd": "4344040111307",
+    "uikName": "УИК №4001",
     "tikTvd": "2342000459638",
-    "tikName": "Урюпинская городская"
+    "tikName": "Урюпинская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4002,
     "uikTvd": "4344040111308",
+    "uikName": "УИК №4002",
     "tikTvd": "2342000459638",
-    "tikName": "Урюпинская городская"
+    "tikName": "Урюпинская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4003,
     "uikTvd": "4344040111309",
+    "uikName": "УИК №4003",
     "tikTvd": "2342000459638",
-    "tikName": "Урюпинская городская"
+    "tikName": "Урюпинская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4004,
     "uikTvd": "4344040111310",
+    "uikName": "УИК №4004",
     "tikTvd": "2342000459638",
-    "tikName": "Урюпинская городская"
+    "tikName": "Урюпинская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4005,
     "uikTvd": "4344040111311",
+    "uikName": "УИК №4005",
     "tikTvd": "2342000459638",
-    "tikName": "Урюпинская городская"
+    "tikName": "Урюпинская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4006,
     "uikTvd": "4344040111312",
+    "uikName": "УИК №4006",
     "tikTvd": "2342000459638",
-    "tikName": "Урюпинская городская"
+    "tikName": "Урюпинская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4007,
     "uikTvd": "4344040111313",
+    "uikName": "УИК №4007",
     "tikTvd": "2342000459638",
-    "tikName": "Урюпинская городская"
+    "tikName": "Урюпинская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4008,
     "uikTvd": "4344040111314",
+    "uikName": "УИК №4008",
     "tikTvd": "2342000459638",
-    "tikName": "Урюпинская городская"
+    "tikName": "Урюпинская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4009,
     "uikTvd": "4344040111315",
+    "uikName": "УИК №4009",
     "tikTvd": "2342000459638",
-    "tikName": "Урюпинская городская"
+    "tikName": "Урюпинская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4010,
     "uikTvd": "4344040111316",
+    "uikName": "УИК №4010",
     "tikTvd": "2342000459638",
-    "tikName": "Урюпинская городская"
+    "tikName": "Урюпинская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4011,
     "uikTvd": "4344040111317",
+    "uikName": "УИК №4011",
     "tikTvd": "2342000459638",
-    "tikName": "Урюпинская городская"
+    "tikName": "Урюпинская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4012,
     "uikTvd": "4344040111318",
+    "uikName": "УИК №4012",
     "tikTvd": "2342000459638",
-    "tikName": "Урюпинская городская"
+    "tikName": "Урюпинская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4013,
     "uikTvd": "4344040111319",
+    "uikName": "УИК №4013",
     "tikTvd": "2342000459638",
-    "tikName": "Урюпинская городская"
+    "tikName": "Урюпинская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4014,
     "uikTvd": "4344040111320",
+    "uikName": "УИК №4014",
     "tikTvd": "2342000459638",
-    "tikName": "Урюпинская городская"
+    "tikName": "Урюпинская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4015,
     "uikTvd": "4344040111321",
+    "uikName": "УИК №4015",
     "tikTvd": "2342000459638",
-    "tikName": "Урюпинская городская"
+    "tikName": "Урюпинская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4016,
     "uikTvd": "4344040111322",
+    "uikName": "УИК №4016",
     "tikTvd": "2342000459638",
-    "tikName": "Урюпинская городская"
+    "tikName": "Урюпинская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4017,
     "uikTvd": "4344040111323",
+    "uikName": "УИК №4017",
     "tikTvd": "2342000459638",
-    "tikName": "Урюпинская городская"
+    "tikName": "Урюпинская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4018,
     "uikTvd": "4344040111324",
+    "uikName": "УИК №4018",
     "tikTvd": "2342000459638",
-    "tikName": "Урюпинская городская"
+    "tikName": "Урюпинская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4019,
     "uikTvd": "4344040111325",
+    "uikName": "УИК №4019",
     "tikTvd": "2342000459638",
-    "tikName": "Урюпинская городская"
+    "tikName": "Урюпинская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4020,
     "uikTvd": "4344040111326",
+    "uikName": "УИК №4020",
     "tikTvd": "2342000459638",
-    "tikName": "Урюпинская городская"
+    "tikName": "Урюпинская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4101,
     "uikTvd": "4344041142530",
+    "uikName": "УИК №4101",
     "tikTvd": "2342000459637",
-    "tikName": "Фроловская"
+    "tikName": "Фроловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4102,
     "uikTvd": "4344041142531",
+    "uikName": "УИК №4102",
     "tikTvd": "2342000459637",
-    "tikName": "Фроловская"
+    "tikName": "Фроловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4103,
     "uikTvd": "4344041142532",
+    "uikName": "УИК №4103",
     "tikTvd": "2342000459637",
-    "tikName": "Фроловская"
+    "tikName": "Фроловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4104,
     "uikTvd": "4344041142533",
+    "uikName": "УИК №4104",
     "tikTvd": "2342000459637",
-    "tikName": "Фроловская"
+    "tikName": "Фроловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4105,
     "uikTvd": "4344041142534",
+    "uikName": "УИК №4105",
     "tikTvd": "2342000459637",
-    "tikName": "Фроловская"
+    "tikName": "Фроловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4106,
     "uikTvd": "4344041142535",
+    "uikName": "УИК №4106",
     "tikTvd": "2342000459637",
-    "tikName": "Фроловская"
+    "tikName": "Фроловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4107,
     "uikTvd": "4344041142536",
+    "uikName": "УИК №4107",
     "tikTvd": "2342000459637",
-    "tikName": "Фроловская"
+    "tikName": "Фроловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4108,
     "uikTvd": "4344041142537",
+    "uikName": "УИК №4108",
     "tikTvd": "2342000459637",
-    "tikName": "Фроловская"
+    "tikName": "Фроловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4109,
     "uikTvd": "4344041142538",
+    "uikName": "УИК №4109",
     "tikTvd": "2342000459637",
-    "tikName": "Фроловская"
+    "tikName": "Фроловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4110,
     "uikTvd": "4344041142539",
+    "uikName": "УИК №4110",
     "tikTvd": "2342000459637",
-    "tikName": "Фроловская"
+    "tikName": "Фроловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4111,
     "uikTvd": "4344041142540",
+    "uikName": "УИК №4111",
     "tikTvd": "2342000459637",
-    "tikName": "Фроловская"
+    "tikName": "Фроловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4112,
     "uikTvd": "4344041142541",
+    "uikName": "УИК №4112",
     "tikTvd": "2342000459637",
-    "tikName": "Фроловская"
+    "tikName": "Фроловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4113,
     "uikTvd": "4344041142542",
+    "uikName": "УИК №4113",
     "tikTvd": "2342000459637",
-    "tikName": "Фроловская"
+    "tikName": "Фроловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4114,
     "uikTvd": "4344041142543",
+    "uikName": "УИК №4114",
     "tikTvd": "2342000459637",
-    "tikName": "Фроловская"
+    "tikName": "Фроловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4115,
     "uikTvd": "4344041142544",
+    "uikName": "УИК №4115",
     "tikTvd": "2342000459637",
-    "tikName": "Фроловская"
+    "tikName": "Фроловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4116,
     "uikTvd": "4344041142545",
+    "uikName": "УИК №4116",
     "tikTvd": "2342000459637",
-    "tikName": "Фроловская"
+    "tikName": "Фроловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4117,
     "uikTvd": "4344041142546",
+    "uikName": "УИК №4117",
     "tikTvd": "2342000459637",
-    "tikName": "Фроловская"
+    "tikName": "Фроловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4118,
     "uikTvd": "4344041142547",
+    "uikName": "УИК №4118",
     "tikTvd": "2342000459637",
-    "tikName": "Фроловская"
+    "tikName": "Фроловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4119,
     "uikTvd": "4344041142548",
+    "uikName": "УИК №4119",
     "tikTvd": "2342000459637",
-    "tikName": "Фроловская"
+    "tikName": "Фроловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4120,
     "uikTvd": "4344041142549",
+    "uikName": "УИК №4120",
     "tikTvd": "2342000459637",
-    "tikName": "Фроловская"
+    "tikName": "Фроловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4121,
     "uikTvd": "4344041142550",
+    "uikName": "УИК №4121",
     "tikTvd": "2342000459637",
-    "tikName": "Фроловская"
+    "tikName": "Фроловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4201,
     "uikTvd": "4344042126371",
+    "uikName": "УИК №4201",
     "tikTvd": "2342000459635",
-    "tikName": "Чернышковская"
+    "tikName": "Чернышковская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4202,
     "uikTvd": "4344042126372",
+    "uikName": "УИК №4202",
     "tikTvd": "2342000459635",
-    "tikName": "Чернышковская"
+    "tikName": "Чернышковская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4203,
     "uikTvd": "4344042126373",
+    "uikName": "УИК №4203",
     "tikTvd": "2342000459635",
-    "tikName": "Чернышковская"
+    "tikName": "Чернышковская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4204,
     "uikTvd": "4344042126374",
+    "uikName": "УИК №4204",
     "tikTvd": "2342000459635",
-    "tikName": "Чернышковская"
+    "tikName": "Чернышковская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4205,
     "uikTvd": "4344042126375",
+    "uikName": "УИК №4205",
     "tikTvd": "2342000459635",
-    "tikName": "Чернышковская"
+    "tikName": "Чернышковская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4206,
     "uikTvd": "4344042126376",
+    "uikName": "УИК №4206",
     "tikTvd": "2342000459635",
-    "tikName": "Чернышковская"
+    "tikName": "Чернышковская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4207,
     "uikTvd": "4344042126377",
+    "uikName": "УИК №4207",
     "tikTvd": "2342000459635",
-    "tikName": "Чернышковская"
+    "tikName": "Чернышковская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4208,
     "uikTvd": "4344042126378",
+    "uikName": "УИК №4208",
     "tikTvd": "2342000459635",
-    "tikName": "Чернышковская"
+    "tikName": "Чернышковская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4209,
     "uikTvd": "4344042126379",
+    "uikName": "УИК №4209",
     "tikTvd": "2342000459635",
-    "tikName": "Чернышковская"
+    "tikName": "Чернышковская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4210,
     "uikTvd": "4344042126380",
+    "uikName": "УИК №4210",
     "tikTvd": "2342000459635",
-    "tikName": "Чернышковская"
+    "tikName": "Чернышковская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4211,
     "uikTvd": "4344042126381",
+    "uikName": "УИК №4211",
     "tikTvd": "2342000459635",
-    "tikName": "Чернышковская"
+    "tikName": "Чернышковская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4212,
     "uikTvd": "4344042126382",
+    "uikName": "УИК №4212",
     "tikTvd": "2342000459635",
-    "tikName": "Чернышковская"
+    "tikName": "Чернышковская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4213,
     "uikTvd": "4344042126383",
+    "uikName": "УИК №4213",
     "tikTvd": "2342000459635",
-    "tikName": "Чернышковская"
+    "tikName": "Чернышковская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4214,
     "uikTvd": "4344042126384",
+    "uikName": "УИК №4214",
     "tikTvd": "2342000459635",
-    "tikName": "Чернышковская"
+    "tikName": "Чернышковская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4215,
     "uikTvd": "4344042126385",
+    "uikName": "УИК №4215",
     "tikTvd": "2342000459635",
-    "tikName": "Чернышковская"
+    "tikName": "Чернышковская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4216,
     "uikTvd": "4344042126386",
+    "uikName": "УИК №4216",
     "tikTvd": "2342000459635",
-    "tikName": "Чернышковская"
+    "tikName": "Чернышковская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4217,
     "uikTvd": "4344042126387",
+    "uikName": "УИК №4217",
     "tikTvd": "2342000459635",
-    "tikName": "Чернышковская"
+    "tikName": "Чернышковская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4218,
     "uikTvd": "4344042126388",
+    "uikName": "УИК №4218",
     "tikTvd": "2342000459635",
-    "tikName": "Чернышковская"
+    "tikName": "Чернышковская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4219,
     "uikTvd": "4344042126389",
+    "uikName": "УИК №4219",
     "tikTvd": "2342000459635",
-    "tikName": "Чернышковская"
+    "tikName": "Чернышковская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4220,
     "uikTvd": "4344042126390",
+    "uikName": "УИК №4220",
     "tikTvd": "2342000459635",
-    "tikName": "Чернышковская"
+    "tikName": "Чернышковская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4221,
     "uikTvd": "4344042126391",
+    "uikName": "УИК №4221",
     "tikTvd": "2342000459635",
-    "tikName": "Чернышковская"
+    "tikName": "Чернышковская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4222,
     "uikTvd": "4344042126392",
+    "uikName": "УИК №4222",
     "tikTvd": "2342000459635",
-    "tikName": "Чернышковская"
+    "tikName": "Чернышковская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4223,
     "uikTvd": "4344042126393",
+    "uikName": "УИК №4223",
     "tikTvd": "2342000459635",
-    "tikName": "Чернышковская"
+    "tikName": "Чернышковская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4224,
     "uikTvd": "4344042126394",
+    "uikName": "УИК №4224",
     "tikTvd": "2342000459635",
-    "tikName": "Чернышковская"
+    "tikName": "Чернышковская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4225,
     "uikTvd": "4344042126395",
+    "uikName": "УИК №4225",
     "tikTvd": "2342000459635",
-    "tikName": "Чернышковская"
+    "tikName": "Чернышковская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4301,
     "uikTvd": "4344043121538",
+    "uikName": "УИК №4301",
     "tikTvd": "2342000459630",
-    "tikName": "Камышинская городская"
+    "tikName": "Камышинская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4302,
     "uikTvd": "4344043121539",
+    "uikName": "УИК №4302",
     "tikTvd": "2342000459630",
-    "tikName": "Камышинская городская"
+    "tikName": "Камышинская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4303,
     "uikTvd": "4344043121540",
+    "uikName": "УИК №4303",
     "tikTvd": "2342000459630",
-    "tikName": "Камышинская городская"
+    "tikName": "Камышинская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4304,
     "uikTvd": "4344043121541",
+    "uikName": "УИК №4304",
     "tikTvd": "2342000459630",
-    "tikName": "Камышинская городская"
+    "tikName": "Камышинская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4305,
     "uikTvd": "4344043121542",
+    "uikName": "УИК №4305",
     "tikTvd": "2342000459630",
-    "tikName": "Камышинская городская"
+    "tikName": "Камышинская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4306,
     "uikTvd": "4344043121543",
+    "uikName": "УИК №4306",
     "tikTvd": "2342000459630",
-    "tikName": "Камышинская городская"
+    "tikName": "Камышинская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4307,
     "uikTvd": "4344043121544",
+    "uikName": "УИК №4307",
     "tikTvd": "2342000459630",
-    "tikName": "Камышинская городская"
+    "tikName": "Камышинская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4308,
     "uikTvd": "4344043121545",
+    "uikName": "УИК №4308",
     "tikTvd": "2342000459630",
-    "tikName": "Камышинская городская"
+    "tikName": "Камышинская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4309,
     "uikTvd": "4344043121546",
+    "uikName": "УИК №4309",
     "tikTvd": "2342000459630",
-    "tikName": "Камышинская городская"
+    "tikName": "Камышинская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4310,
     "uikTvd": "4344043121547",
+    "uikName": "УИК №4310",
     "tikTvd": "2342000459630",
-    "tikName": "Камышинская городская"
+    "tikName": "Камышинская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4311,
     "uikTvd": "4344043121548",
+    "uikName": "УИК №4311",
     "tikTvd": "2342000459630",
-    "tikName": "Камышинская городская"
+    "tikName": "Камышинская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4312,
     "uikTvd": "4344043121549",
+    "uikName": "УИК №4312",
     "tikTvd": "2342000459630",
-    "tikName": "Камышинская городская"
+    "tikName": "Камышинская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4313,
     "uikTvd": "4344043121550",
+    "uikName": "УИК №4313",
     "tikTvd": "2342000459630",
-    "tikName": "Камышинская городская"
+    "tikName": "Камышинская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4314,
     "uikTvd": "4344043121551",
+    "uikName": "УИК №4314",
     "tikTvd": "2342000459630",
-    "tikName": "Камышинская городская"
+    "tikName": "Камышинская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4315,
     "uikTvd": "4344043121552",
+    "uikName": "УИК №4315",
     "tikTvd": "2342000459630",
-    "tikName": "Камышинская городская"
+    "tikName": "Камышинская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4316,
     "uikTvd": "4344043121553",
+    "uikName": "УИК №4316",
     "tikTvd": "2342000459630",
-    "tikName": "Камышинская городская"
+    "tikName": "Камышинская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4317,
     "uikTvd": "4344043121554",
+    "uikName": "УИК №4317",
     "tikTvd": "2342000459630",
-    "tikName": "Камышинская городская"
+    "tikName": "Камышинская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4318,
     "uikTvd": "4344043121555",
+    "uikName": "УИК №4318",
     "tikTvd": "2342000459630",
-    "tikName": "Камышинская городская"
+    "tikName": "Камышинская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4319,
     "uikTvd": "4344043121556",
+    "uikName": "УИК №4319",
     "tikTvd": "2342000459630",
-    "tikName": "Камышинская городская"
+    "tikName": "Камышинская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4320,
     "uikTvd": "4344043121557",
+    "uikName": "УИК №4320",
     "tikTvd": "2342000459630",
-    "tikName": "Камышинская городская"
+    "tikName": "Камышинская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4321,
     "uikTvd": "4344043121558",
+    "uikName": "УИК №4321",
     "tikTvd": "2342000459630",
-    "tikName": "Камышинская городская"
+    "tikName": "Камышинская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4322,
     "uikTvd": "4344043121559",
+    "uikName": "УИК №4322",
     "tikTvd": "2342000459630",
-    "tikName": "Камышинская городская"
+    "tikName": "Камышинская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4323,
     "uikTvd": "4344043121560",
+    "uikName": "УИК №4323",
     "tikTvd": "2342000459630",
-    "tikName": "Камышинская городская"
+    "tikName": "Камышинская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4324,
     "uikTvd": "4344043121561",
+    "uikName": "УИК №4324",
     "tikTvd": "2342000459630",
-    "tikName": "Камышинская городская"
+    "tikName": "Камышинская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4325,
     "uikTvd": "4344043121562",
+    "uikName": "УИК №4325",
     "tikTvd": "2342000459630",
-    "tikName": "Камышинская городская"
+    "tikName": "Камышинская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4326,
     "uikTvd": "4344043121563",
+    "uikName": "УИК №4326",
     "tikTvd": "2342000459630",
-    "tikName": "Камышинская городская"
+    "tikName": "Камышинская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4327,
     "uikTvd": "4344043121564",
+    "uikName": "УИК №4327",
     "tikTvd": "2342000459630",
-    "tikName": "Камышинская городская"
+    "tikName": "Камышинская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4328,
     "uikTvd": "4344043121565",
+    "uikName": "УИК №4328",
     "tikTvd": "2342000459630",
-    "tikName": "Камышинская городская"
+    "tikName": "Камышинская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4329,
     "uikTvd": "4344043121566",
+    "uikName": "УИК №4329",
     "tikTvd": "2342000459630",
-    "tikName": "Камышинская городская"
+    "tikName": "Камышинская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4330,
     "uikTvd": "4344043121567",
+    "uikName": "УИК №4330",
     "tikTvd": "2342000459630",
-    "tikName": "Камышинская городская"
+    "tikName": "Камышинская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4331,
     "uikTvd": "4344043121568",
+    "uikName": "УИК №4331",
     "tikTvd": "2342000459630",
-    "tikName": "Камышинская городская"
+    "tikName": "Камышинская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4332,
     "uikTvd": "4344043121569",
+    "uikName": "УИК №4332",
     "tikTvd": "2342000459630",
-    "tikName": "Камышинская городская"
+    "tikName": "Камышинская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4333,
     "uikTvd": "4344043121570",
+    "uikName": "УИК №4333",
     "tikTvd": "2342000459630",
-    "tikName": "Камышинская городская"
+    "tikName": "Камышинская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4334,
     "uikTvd": "4344043121571",
+    "uikName": "УИК №4334",
     "tikTvd": "2342000459630",
-    "tikName": "Камышинская городская"
+    "tikName": "Камышинская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4335,
     "uikTvd": "4344043121572",
+    "uikName": "УИК №4335",
     "tikTvd": "2342000459630",
-    "tikName": "Камышинская городская"
+    "tikName": "Камышинская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4336,
     "uikTvd": "4344043121573",
+    "uikName": "УИК №4336",
     "tikTvd": "2342000459630",
-    "tikName": "Камышинская городская"
+    "tikName": "Камышинская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4337,
     "uikTvd": "4344043121574",
+    "uikName": "УИК №4337",
     "tikTvd": "2342000459630",
-    "tikName": "Камышинская городская"
+    "tikName": "Камышинская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4338,
     "uikTvd": "4344043121575",
+    "uikName": "УИК №4338",
     "tikTvd": "2342000459630",
-    "tikName": "Камышинская городская"
+    "tikName": "Камышинская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4339,
     "uikTvd": "4344043121576",
+    "uikName": "УИК №4339",
     "tikTvd": "2342000459630",
-    "tikName": "Камышинская городская"
+    "tikName": "Камышинская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4340,
     "uikTvd": "4344043121577",
+    "uikName": "УИК №4340",
     "tikTvd": "2342000459630",
-    "tikName": "Камышинская городская"
+    "tikName": "Камышинская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4401,
     "uikTvd": "434404490787",
+    "uikName": "УИК №4401",
     "tikTvd": "2342000459648",
-    "tikName": "Михайловская городская"
+    "tikName": "Михайловская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4402,
     "uikTvd": "434404490788",
+    "uikName": "УИК №4402",
     "tikTvd": "2342000459648",
-    "tikName": "Михайловская городская"
+    "tikName": "Михайловская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4403,
     "uikTvd": "434404490789",
+    "uikName": "УИК №4403",
     "tikTvd": "2342000459648",
-    "tikName": "Михайловская городская"
+    "tikName": "Михайловская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4404,
     "uikTvd": "434404490790",
+    "uikName": "УИК №4404",
     "tikTvd": "2342000459648",
-    "tikName": "Михайловская городская"
+    "tikName": "Михайловская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4405,
     "uikTvd": "434404490791",
+    "uikName": "УИК №4405",
     "tikTvd": "2342000459648",
-    "tikName": "Михайловская городская"
+    "tikName": "Михайловская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4406,
     "uikTvd": "434404490792",
+    "uikName": "УИК №4406",
     "tikTvd": "2342000459648",
-    "tikName": "Михайловская городская"
+    "tikName": "Михайловская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4407,
     "uikTvd": "434404490793",
+    "uikName": "УИК №4407",
     "tikTvd": "2342000459648",
-    "tikName": "Михайловская городская"
+    "tikName": "Михайловская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4408,
     "uikTvd": "434404490794",
+    "uikName": "УИК №4408",
     "tikTvd": "2342000459648",
-    "tikName": "Михайловская городская"
+    "tikName": "Михайловская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4409,
     "uikTvd": "434404490795",
+    "uikName": "УИК №4409",
     "tikTvd": "2342000459648",
-    "tikName": "Михайловская городская"
+    "tikName": "Михайловская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4410,
     "uikTvd": "434404490796",
+    "uikName": "УИК №4410",
     "tikTvd": "2342000459648",
-    "tikName": "Михайловская городская"
+    "tikName": "Михайловская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4411,
     "uikTvd": "434404490797",
+    "uikName": "УИК №4411",
     "tikTvd": "2342000459648",
-    "tikName": "Михайловская городская"
+    "tikName": "Михайловская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4412,
     "uikTvd": "434404490798",
+    "uikName": "УИК №4412",
     "tikTvd": "2342000459648",
-    "tikName": "Михайловская городская"
+    "tikName": "Михайловская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4413,
     "uikTvd": "434404490799",
+    "uikName": "УИК №4413",
     "tikTvd": "2342000459648",
-    "tikName": "Михайловская городская"
+    "tikName": "Михайловская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4414,
     "uikTvd": "434404490800",
+    "uikName": "УИК №4414",
     "tikTvd": "2342000459648",
-    "tikName": "Михайловская городская"
+    "tikName": "Михайловская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4415,
     "uikTvd": "434404490801",
+    "uikName": "УИК №4415",
     "tikTvd": "2342000459648",
-    "tikName": "Михайловская городская"
+    "tikName": "Михайловская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4416,
     "uikTvd": "434404490802",
+    "uikName": "УИК №4416",
     "tikTvd": "2342000459648",
-    "tikName": "Михайловская городская"
+    "tikName": "Михайловская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4417,
     "uikTvd": "434404490803",
+    "uikName": "УИК №4417",
     "tikTvd": "2342000459648",
-    "tikName": "Михайловская городская"
+    "tikName": "Михайловская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4418,
     "uikTvd": "434404490804",
+    "uikName": "УИК №4418",
     "tikTvd": "2342000459648",
-    "tikName": "Михайловская городская"
+    "tikName": "Михайловская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4419,
     "uikTvd": "434404490805",
+    "uikName": "УИК №4419",
     "tikTvd": "2342000459648",
-    "tikName": "Михайловская городская"
+    "tikName": "Михайловская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4420,
     "uikTvd": "434404490806",
+    "uikName": "УИК №4420",
     "tikTvd": "2342000459648",
-    "tikName": "Михайловская городская"
+    "tikName": "Михайловская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4421,
     "uikTvd": "434404490807",
+    "uikName": "УИК №4421",
     "tikTvd": "2342000459648",
-    "tikName": "Михайловская городская"
+    "tikName": "Михайловская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4422,
     "uikTvd": "434404490808",
+    "uikName": "УИК №4422",
     "tikTvd": "2342000459648",
-    "tikName": "Михайловская городская"
+    "tikName": "Михайловская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4423,
     "uikTvd": "434404490809",
+    "uikName": "УИК №4423",
     "tikTvd": "2342000459648",
-    "tikName": "Михайловская городская"
+    "tikName": "Михайловская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4424,
     "uikTvd": "434404490810",
+    "uikName": "УИК №4424",
     "tikTvd": "2342000459648",
-    "tikName": "Михайловская городская"
+    "tikName": "Михайловская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4425,
     "uikTvd": "434404490811",
+    "uikName": "УИК №4425",
     "tikTvd": "2342000459648",
-    "tikName": "Михайловская городская"
+    "tikName": "Михайловская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4426,
     "uikTvd": "434404490812",
+    "uikName": "УИК №4426",
     "tikTvd": "2342000459648",
-    "tikName": "Михайловская городская"
+    "tikName": "Михайловская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4501,
     "uikTvd": "4344045183464",
+    "uikName": "УИК №4501",
     "tikTvd": "2342000459639",
-    "tikName": "Урюпинская"
+    "tikName": "Урюпинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4502,
     "uikTvd": "4344045183465",
+    "uikName": "УИК №4502",
     "tikTvd": "2342000459639",
-    "tikName": "Урюпинская"
+    "tikName": "Урюпинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4503,
     "uikTvd": "4344045183466",
+    "uikName": "УИК №4503",
     "tikTvd": "2342000459639",
-    "tikName": "Урюпинская"
+    "tikName": "Урюпинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4504,
     "uikTvd": "4344045183467",
+    "uikName": "УИК №4504",
     "tikTvd": "2342000459639",
-    "tikName": "Урюпинская"
+    "tikName": "Урюпинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4505,
     "uikTvd": "4344045183468",
+    "uikName": "УИК №4505",
     "tikTvd": "2342000459639",
-    "tikName": "Урюпинская"
+    "tikName": "Урюпинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4506,
     "uikTvd": "4344045183469",
+    "uikName": "УИК №4506",
     "tikTvd": "2342000459639",
-    "tikName": "Урюпинская"
+    "tikName": "Урюпинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4507,
     "uikTvd": "4344045183470",
+    "uikName": "УИК №4507",
     "tikTvd": "2342000459639",
-    "tikName": "Урюпинская"
+    "tikName": "Урюпинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4508,
     "uikTvd": "4344045183471",
+    "uikName": "УИК №4508",
     "tikTvd": "2342000459639",
-    "tikName": "Урюпинская"
+    "tikName": "Урюпинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4509,
     "uikTvd": "4344045183472",
+    "uikName": "УИК №4509",
     "tikTvd": "2342000459639",
-    "tikName": "Урюпинская"
+    "tikName": "Урюпинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4510,
     "uikTvd": "4344045183473",
+    "uikName": "УИК №4510",
     "tikTvd": "2342000459639",
-    "tikName": "Урюпинская"
+    "tikName": "Урюпинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4511,
     "uikTvd": "4344045183474",
+    "uikName": "УИК №4511",
     "tikTvd": "2342000459639",
-    "tikName": "Урюпинская"
+    "tikName": "Урюпинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4512,
     "uikTvd": "4344045183475",
+    "uikName": "УИК №4512",
     "tikTvd": "2342000459639",
-    "tikName": "Урюпинская"
+    "tikName": "Урюпинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4513,
     "uikTvd": "4344045183476",
+    "uikName": "УИК №4513",
     "tikTvd": "2342000459639",
-    "tikName": "Урюпинская"
+    "tikName": "Урюпинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4514,
     "uikTvd": "4344045183477",
+    "uikName": "УИК №4514",
     "tikTvd": "2342000459639",
-    "tikName": "Урюпинская"
+    "tikName": "Урюпинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4515,
     "uikTvd": "4344045183478",
+    "uikName": "УИК №4515",
     "tikTvd": "2342000459639",
-    "tikName": "Урюпинская"
+    "tikName": "Урюпинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4516,
     "uikTvd": "4344045183479",
+    "uikName": "УИК №4516",
     "tikTvd": "2342000459639",
-    "tikName": "Урюпинская"
+    "tikName": "Урюпинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4517,
     "uikTvd": "4344045183480",
+    "uikName": "УИК №4517",
     "tikTvd": "2342000459639",
-    "tikName": "Урюпинская"
+    "tikName": "Урюпинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4518,
     "uikTvd": "4344045183481",
+    "uikName": "УИК №4518",
     "tikTvd": "2342000459639",
-    "tikName": "Урюпинская"
+    "tikName": "Урюпинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4519,
     "uikTvd": "4344045183482",
+    "uikName": "УИК №4519",
     "tikTvd": "2342000459639",
-    "tikName": "Урюпинская"
+    "tikName": "Урюпинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4520,
     "uikTvd": "4344045183483",
+    "uikName": "УИК №4520",
     "tikTvd": "2342000459639",
-    "tikName": "Урюпинская"
+    "tikName": "Урюпинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4521,
     "uikTvd": "4344045183484",
+    "uikName": "УИК №4521",
     "tikTvd": "2342000459639",
-    "tikName": "Урюпинская"
+    "tikName": "Урюпинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4522,
     "uikTvd": "4344045183485",
+    "uikName": "УИК №4522",
     "tikTvd": "2342000459639",
-    "tikName": "Урюпинская"
+    "tikName": "Урюпинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4523,
     "uikTvd": "4344045183486",
+    "uikName": "УИК №4523",
     "tikTvd": "2342000459639",
-    "tikName": "Урюпинская"
+    "tikName": "Урюпинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4524,
     "uikTvd": "4344045183487",
+    "uikName": "УИК №4524",
     "tikTvd": "2342000459639",
-    "tikName": "Урюпинская"
+    "tikName": "Урюпинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4525,
     "uikTvd": "4344045183488",
+    "uikName": "УИК №4525",
     "tikTvd": "2342000459639",
-    "tikName": "Урюпинская"
+    "tikName": "Урюпинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4526,
     "uikTvd": "4344045183489",
+    "uikName": "УИК №4526",
     "tikTvd": "2342000459639",
-    "tikName": "Урюпинская"
+    "tikName": "Урюпинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4527,
     "uikTvd": "4344045183490",
+    "uikName": "УИК №4527",
     "tikTvd": "2342000459639",
-    "tikName": "Урюпинская"
+    "tikName": "Урюпинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4528,
     "uikTvd": "4344045183491",
+    "uikName": "УИК №4528",
     "tikTvd": "2342000459639",
-    "tikName": "Урюпинская"
+    "tikName": "Урюпинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4529,
     "uikTvd": "4344045183492",
+    "uikName": "УИК №4529",
     "tikTvd": "2342000459639",
-    "tikName": "Урюпинская"
+    "tikName": "Урюпинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4530,
     "uikTvd": "4344045183493",
+    "uikName": "УИК №4530",
     "tikTvd": "2342000459639",
-    "tikName": "Урюпинская"
+    "tikName": "Урюпинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4531,
     "uikTvd": "4344045183494",
+    "uikName": "УИК №4531",
     "tikTvd": "2342000459639",
-    "tikName": "Урюпинская"
+    "tikName": "Урюпинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4532,
     "uikTvd": "4344045183495",
+    "uikName": "УИК №4532",
     "tikTvd": "2342000459639",
-    "tikName": "Урюпинская"
+    "tikName": "Урюпинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4533,
     "uikTvd": "4344045183496",
+    "uikName": "УИК №4533",
     "tikTvd": "2342000459639",
-    "tikName": "Урюпинская"
+    "tikName": "Урюпинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4534,
     "uikTvd": "4344045183497",
+    "uikName": "УИК №4534",
     "tikTvd": "2342000459639",
-    "tikName": "Урюпинская"
+    "tikName": "Урюпинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4535,
     "uikTvd": "4344045183498",
+    "uikName": "УИК №4535",
     "tikTvd": "2342000459639",
-    "tikName": "Урюпинская"
+    "tikName": "Урюпинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4601,
     "uikTvd": "4344046112018",
+    "uikName": "УИК №4601",
     "tikTvd": "2342000459636",
-    "tikName": "Фроловская городская"
+    "tikName": "Фроловская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4602,
     "uikTvd": "4344046112019",
+    "uikName": "УИК №4602",
     "tikTvd": "2342000459636",
-    "tikName": "Фроловская городская"
+    "tikName": "Фроловская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4603,
     "uikTvd": "4344046112020",
+    "uikName": "УИК №4603",
     "tikTvd": "2342000459636",
-    "tikName": "Фроловская городская"
+    "tikName": "Фроловская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4604,
     "uikTvd": "4344046112021",
+    "uikName": "УИК №4604",
     "tikTvd": "2342000459636",
-    "tikName": "Фроловская городская"
+    "tikName": "Фроловская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4605,
     "uikTvd": "4344046112022",
+    "uikName": "УИК №4605",
     "tikTvd": "2342000459636",
-    "tikName": "Фроловская городская"
+    "tikName": "Фроловская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4606,
     "uikTvd": "4344046112023",
+    "uikName": "УИК №4606",
     "tikTvd": "2342000459636",
-    "tikName": "Фроловская городская"
+    "tikName": "Фроловская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4607,
     "uikTvd": "4344046112024",
+    "uikName": "УИК №4607",
     "tikTvd": "2342000459636",
-    "tikName": "Фроловская городская"
+    "tikName": "Фроловская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4608,
     "uikTvd": "4344046112025",
+    "uikName": "УИК №4608",
     "tikTvd": "2342000459636",
-    "tikName": "Фроловская городская"
+    "tikName": "Фроловская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4609,
     "uikTvd": "4344046112026",
+    "uikName": "УИК №4609",
     "tikTvd": "2342000459636",
-    "tikName": "Фроловская городская"
+    "tikName": "Фроловская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4610,
     "uikTvd": "4344046112027",
+    "uikName": "УИК №4610",
     "tikTvd": "2342000459636",
-    "tikName": "Фроловская городская"
+    "tikName": "Фроловская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4611,
     "uikTvd": "4344046112028",
+    "uikName": "УИК №4611",
     "tikTvd": "2342000459636",
-    "tikName": "Фроловская городская"
+    "tikName": "Фроловская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4612,
     "uikTvd": "4344046112029",
+    "uikName": "УИК №4612",
     "tikTvd": "2342000459636",
-    "tikName": "Фроловская городская"
+    "tikName": "Фроловская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4613,
     "uikTvd": "4344046112030",
+    "uikName": "УИК №4613",
     "tikTvd": "2342000459636",
-    "tikName": "Фроловская городская"
+    "tikName": "Фроловская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4614,
     "uikTvd": "4344046112031",
+    "uikName": "УИК №4614",
     "tikTvd": "2342000459636",
-    "tikName": "Фроловская городская"
+    "tikName": "Фроловская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4615,
     "uikTvd": "4344046112032",
+    "uikName": "УИК №4615",
     "tikTvd": "2342000459636",
-    "tikName": "Фроловская городская"
+    "tikName": "Фроловская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4616,
     "uikTvd": "4344046112033",
+    "uikName": "УИК №4616",
     "tikTvd": "2342000459636",
-    "tikName": "Фроловская городская"
+    "tikName": "Фроловская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4617,
     "uikTvd": "4344046112034",
+    "uikName": "УИК №4617",
     "tikTvd": "2342000459636",
-    "tikName": "Фроловская городская"
+    "tikName": "Фроловская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4618,
     "uikTvd": "4344046112035",
+    "uikName": "УИК №4618",
     "tikTvd": "2342000459636",
-    "tikName": "Фроловская городская"
+    "tikName": "Фроловская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4619,
     "uikTvd": "4344046112036",
+    "uikName": "УИК №4619",
     "tikTvd": "2342000459636",
-    "tikName": "Фроловская городская"
+    "tikName": "Фроловская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4620,
     "uikTvd": "4344046112037",
+    "uikName": "УИК №4620",
     "tikTvd": "2342000459636",
-    "tikName": "Фроловская городская"
+    "tikName": "Фроловская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4621,
     "uikTvd": "4344046112038",
+    "uikName": "УИК №4621",
     "tikTvd": "2342000459636",
-    "tikName": "Фроловская городская"
+    "tikName": "Фроловская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   },
   {
     "uikNumber": 4622,
     "uikTvd": "4344046112039",
+    "uikName": "УИК №4622",
     "tikTvd": "2342000459636",
-    "tikName": "Фроловская городская"
+    "tikName": "Фроловская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
+    "district": null
   }
 ] satisfies readonly UikTikRelation[];

@@ -11,6 +11,9 @@ export const president_2024_tic_227_region_12 = [
     "ballot": "presidential",
     "tikTvd": "21220001106388",
     "tikName": "Волжская городская",
+    "regionCode": "12",
+    "regionTvd": "100100339411206",
+    "regionName": "Республика Марий Эл",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 41552,
@@ -75,6 +78,9 @@ export const president_2024_tic_227_region_12 = [
     "ballot": "presidential",
     "tikTvd": "21220001106389",
     "tikName": "Йошкар-Олинская городская № 2",
+    "regionCode": "12",
+    "regionTvd": "100100339411206",
+    "regionName": "Республика Марий Эл",
     "uikCount": 57,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 105509,
@@ -172,6 +178,9 @@ export const president_2024_tic_227_region_12 = [
     "ballot": "presidential",
     "tikTvd": "21220001106390",
     "tikName": "Горномарийская районная",
+    "regionCode": "12",
+    "regionTvd": "100100339411206",
+    "regionName": "Республика Марий Эл",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 17349,
@@ -249,6 +258,9 @@ export const president_2024_tic_227_region_12 = [
     "ballot": "presidential",
     "tikTvd": "21220001106391",
     "tikName": "Волжская районная",
+    "regionCode": "12",
+    "regionTvd": "100100339411206",
+    "regionName": "Республика Марий Эл",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 16268,
@@ -309,6 +321,9 @@ export const president_2024_tic_227_region_12 = [
     "ballot": "presidential",
     "tikTvd": "21220001106392",
     "tikName": "Юринская районная",
+    "regionCode": "12",
+    "regionTvd": "100100339411206",
+    "regionName": "Республика Марий Эл",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 5563,
@@ -362,6 +377,9 @@ export const president_2024_tic_227_region_12 = [
     "ballot": "presidential",
     "tikTvd": "21220001106393",
     "tikName": "Советская районная",
+    "regionCode": "12",
+    "regionTvd": "100100339411206",
+    "regionName": "Республика Марий Эл",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 19771,
@@ -423,6 +441,9 @@ export const president_2024_tic_227_region_12 = [
     "ballot": "presidential",
     "tikTvd": "21220001106394",
     "tikName": "Сернурская районная",
+    "regionCode": "12",
+    "regionTvd": "100100339411206",
+    "regionName": "Республика Марий Эл",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 15948,
@@ -483,6 +504,9 @@ export const president_2024_tic_227_region_12 = [
     "ballot": "presidential",
     "tikTvd": "21220001106395",
     "tikName": "Параньгинская районная",
+    "regionCode": "12",
+    "regionTvd": "100100339411206",
+    "regionName": "Республика Марий Эл",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10793,
@@ -539,6 +563,9 @@ export const president_2024_tic_227_region_12 = [
     "ballot": "presidential",
     "tikTvd": "21220001106396",
     "tikName": "Оршанская районная",
+    "regionCode": "12",
+    "regionTvd": "100100339411206",
+    "regionName": "Республика Марий Эл",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10258,
@@ -596,6 +623,9 @@ export const president_2024_tic_227_region_12 = [
     "ballot": "presidential",
     "tikTvd": "21220001106397",
     "tikName": "Новоторъяльская районная",
+    "regionCode": "12",
+    "regionTvd": "100100339411206",
+    "regionName": "Республика Марий Эл",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10849,
@@ -655,6 +685,9 @@ export const president_2024_tic_227_region_12 = [
     "ballot": "presidential",
     "tikTvd": "21220001106398",
     "tikName": "Моркинская районная",
+    "regionCode": "12",
+    "regionTvd": "100100339411206",
+    "regionName": "Республика Марий Эл",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 21173,
@@ -723,6 +756,9 @@ export const president_2024_tic_227_region_12 = [
     "ballot": "presidential",
     "tikTvd": "21220001106399",
     "tikName": "Медведевская районная",
+    "regionCode": "12",
+    "regionTvd": "100100339411206",
+    "regionName": "Республика Марий Эл",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 58116,
@@ -813,6 +849,9 @@ export const president_2024_tic_227_region_12 = [
     "ballot": "presidential",
     "tikTvd": "21220001106400",
     "tikName": "Мари-Турекская районная",
+    "regionCode": "12",
+    "regionTvd": "100100339411206",
+    "regionName": "Республика Марий Эл",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 14996,
@@ -872,6 +911,9 @@ export const president_2024_tic_227_region_12 = [
     "ballot": "presidential",
     "tikTvd": "21220001106401",
     "tikName": "Куженерская районная",
+    "regionCode": "12",
+    "regionTvd": "100100339411206",
+    "regionName": "Республика Марий Эл",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10064,
@@ -930,6 +972,9 @@ export const president_2024_tic_227_region_12 = [
     "ballot": "presidential",
     "tikTvd": "21220001106402",
     "tikName": "Козьмодемьянская городская",
+    "regionCode": "12",
+    "regionTvd": "100100339411206",
+    "regionName": "Республика Марий Эл",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 16049,
@@ -986,6 +1031,9 @@ export const president_2024_tic_227_region_12 = [
     "ballot": "presidential",
     "tikTvd": "21220001106403",
     "tikName": "Килемарская районная",
+    "regionCode": "12",
+    "regionTvd": "100100339411206",
+    "regionName": "Республика Марий Эл",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 8387,
@@ -1040,6 +1088,9 @@ export const president_2024_tic_227_region_12 = [
     "ballot": "presidential",
     "tikTvd": "21220001106404",
     "tikName": "Йошкар-Олинская городская № 1",
+    "regionCode": "12",
+    "regionTvd": "100100339411206",
+    "regionName": "Республика Марий Эл",
     "uikCount": 64,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 104565,
@@ -1144,6 +1195,9 @@ export const president_2024_tic_227_region_12 = [
     "ballot": "presidential",
     "tikTvd": "21220001106405",
     "tikName": "Звениговская районная",
+    "regionCode": "12",
+    "regionTvd": "100100339411206",
+    "regionName": "Республика Марий Эл",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 31453,

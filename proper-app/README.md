@@ -23,6 +23,14 @@ bun run db:import
 bun run dev
 ```
 
+The repository's crawler and research environment lives at `proper-app/.venv`. To
+recreate it:
+
+```sh
+python3 -m venv .venv
+.venv/bin/pip install -e 'research[crawler,dev]'
+```
+
 The React client runs at `http://localhost:5173` and proxies `/api` to the Bun server at
 `http://localhost:3001`. PostgreSQL is expected to run as a native OS service.
 
@@ -42,7 +50,7 @@ bun run typecheck
 bun run build
 bun run db:migrate
 bun run db:import
-python -m unittest discover -s research/tests -v
+.venv/bin/python -m unittest discover -s research/tests -v
 ```
 
 The import is idempotent and processes one generated shard at a time. The 732 MB source

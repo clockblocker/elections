@@ -7,1453 +7,2663 @@ export const president_2018_uik_to_tik_region_2 = [
   {
     "uikNumber": 1,
     "uikTvd": "4044001162478",
+    "uikName": "УИК №1",
     "tikTvd": "2042000367645",
-    "tikName": "Горно-Алтайская городская"
+    "tikName": "Горно-Алтайская городская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 2,
     "uikTvd": "4044001162479",
+    "uikName": "УИК №2",
     "tikTvd": "2042000367645",
-    "tikName": "Горно-Алтайская городская"
+    "tikName": "Горно-Алтайская городская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 3,
     "uikTvd": "4044001162480",
+    "uikName": "УИК №3",
     "tikTvd": "2042000367645",
-    "tikName": "Горно-Алтайская городская"
+    "tikName": "Горно-Алтайская городская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 4,
     "uikTvd": "4044001162481",
+    "uikName": "УИК №4",
     "tikTvd": "2042000367645",
-    "tikName": "Горно-Алтайская городская"
+    "tikName": "Горно-Алтайская городская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 5,
     "uikTvd": "4044001162482",
+    "uikName": "УИК №5",
     "tikTvd": "2042000367645",
-    "tikName": "Горно-Алтайская городская"
+    "tikName": "Горно-Алтайская городская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 6,
     "uikTvd": "4044001162483",
+    "uikName": "УИК №6",
     "tikTvd": "2042000367645",
-    "tikName": "Горно-Алтайская городская"
+    "tikName": "Горно-Алтайская городская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 7,
     "uikTvd": "4044001162484",
+    "uikName": "УИК №7",
     "tikTvd": "2042000367645",
-    "tikName": "Горно-Алтайская городская"
+    "tikName": "Горно-Алтайская городская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 8,
     "uikTvd": "4044001162485",
+    "uikName": "УИК №8",
     "tikTvd": "2042000367645",
-    "tikName": "Горно-Алтайская городская"
+    "tikName": "Горно-Алтайская городская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 9,
     "uikTvd": "4044001162486",
+    "uikName": "УИК №9",
     "tikTvd": "2042000367645",
-    "tikName": "Горно-Алтайская городская"
+    "tikName": "Горно-Алтайская городская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 10,
     "uikTvd": "4044001162487",
+    "uikName": "УИК №10",
     "tikTvd": "2042000367645",
-    "tikName": "Горно-Алтайская городская"
+    "tikName": "Горно-Алтайская городская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 11,
     "uikTvd": "4044001162488",
+    "uikName": "УИК №11",
     "tikTvd": "2042000367645",
-    "tikName": "Горно-Алтайская городская"
+    "tikName": "Горно-Алтайская городская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 12,
     "uikTvd": "4044001162489",
+    "uikName": "УИК №12",
     "tikTvd": "2042000367645",
-    "tikName": "Горно-Алтайская городская"
+    "tikName": "Горно-Алтайская городская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 13,
     "uikTvd": "4044001162490",
+    "uikName": "УИК №13",
     "tikTvd": "2042000367645",
-    "tikName": "Горно-Алтайская городская"
+    "tikName": "Горно-Алтайская городская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 14,
     "uikTvd": "4044001162491",
+    "uikName": "УИК №14",
     "tikTvd": "2042000367645",
-    "tikName": "Горно-Алтайская городская"
+    "tikName": "Горно-Алтайская городская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 15,
     "uikTvd": "4044001162492",
+    "uikName": "УИК №15",
     "tikTvd": "2042000367645",
-    "tikName": "Горно-Алтайская городская"
+    "tikName": "Горно-Алтайская городская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 16,
     "uikTvd": "4044001162493",
+    "uikName": "УИК №16",
     "tikTvd": "2042000367645",
-    "tikName": "Горно-Алтайская городская"
+    "tikName": "Горно-Алтайская городская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 17,
     "uikTvd": "4044001162494",
+    "uikName": "УИК №17",
     "tikTvd": "2042000367645",
-    "tikName": "Горно-Алтайская городская"
+    "tikName": "Горно-Алтайская городская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 18,
     "uikTvd": "4044001162495",
+    "uikName": "УИК №18",
     "tikTvd": "2042000367645",
-    "tikName": "Горно-Алтайская городская"
+    "tikName": "Горно-Алтайская городская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 19,
     "uikTvd": "4044001162496",
+    "uikName": "УИК №19",
     "tikTvd": "2042000367645",
-    "tikName": "Горно-Алтайская городская"
+    "tikName": "Горно-Алтайская городская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 20,
     "uikTvd": "4044001162497",
+    "uikName": "УИК №20",
     "tikTvd": "2042000367645",
-    "tikName": "Горно-Алтайская городская"
+    "tikName": "Горно-Алтайская городская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 21,
     "uikTvd": "4044001162498",
+    "uikName": "УИК №21",
     "tikTvd": "2042000367645",
-    "tikName": "Горно-Алтайская городская"
+    "tikName": "Горно-Алтайская городская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 22,
     "uikTvd": "4044001162499",
+    "uikName": "УИК №22",
     "tikTvd": "2042000367645",
-    "tikName": "Горно-Алтайская городская"
+    "tikName": "Горно-Алтайская городская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 23,
     "uikTvd": "4044001162500",
+    "uikName": "УИК №23",
     "tikTvd": "2042000367645",
-    "tikName": "Горно-Алтайская городская"
+    "tikName": "Горно-Алтайская городская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 24,
     "uikTvd": "4044002151380",
+    "uikName": "УИК №24",
     "tikTvd": "2042000367646",
-    "tikName": "Кош-Агачская"
+    "tikName": "Кош-Агачская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 25,
     "uikTvd": "4044002151381",
+    "uikName": "УИК №25",
     "tikTvd": "2042000367646",
-    "tikName": "Кош-Агачская"
+    "tikName": "Кош-Агачская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 26,
     "uikTvd": "4044002151382",
+    "uikName": "УИК №26",
     "tikTvd": "2042000367646",
-    "tikName": "Кош-Агачская"
+    "tikName": "Кош-Агачская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 27,
     "uikTvd": "4044002151383",
+    "uikName": "УИК №27",
     "tikTvd": "2042000367646",
-    "tikName": "Кош-Агачская"
+    "tikName": "Кош-Агачская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 28,
     "uikTvd": "4044002151384",
+    "uikName": "УИК №28",
     "tikTvd": "2042000367646",
-    "tikName": "Кош-Агачская"
+    "tikName": "Кош-Агачская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 29,
     "uikTvd": "4044002151385",
+    "uikName": "УИК №29",
     "tikTvd": "2042000367646",
-    "tikName": "Кош-Агачская"
+    "tikName": "Кош-Агачская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 30,
     "uikTvd": "4044002151386",
+    "uikName": "УИК №30",
     "tikTvd": "2042000367646",
-    "tikName": "Кош-Агачская"
+    "tikName": "Кош-Агачская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 31,
     "uikTvd": "4044002151387",
+    "uikName": "УИК №31",
     "tikTvd": "2042000367646",
-    "tikName": "Кош-Агачская"
+    "tikName": "Кош-Агачская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 32,
     "uikTvd": "4044002151388",
+    "uikName": "УИК №32",
     "tikTvd": "2042000367646",
-    "tikName": "Кош-Агачская"
+    "tikName": "Кош-Агачская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 33,
     "uikTvd": "4044002151389",
+    "uikName": "УИК №33",
     "tikTvd": "2042000367646",
-    "tikName": "Кош-Агачская"
+    "tikName": "Кош-Агачская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 34,
     "uikTvd": "4044002151390",
+    "uikName": "УИК №34",
     "tikTvd": "2042000367646",
-    "tikName": "Кош-Агачская"
+    "tikName": "Кош-Агачская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 35,
     "uikTvd": "4044002151391",
+    "uikName": "УИК №35",
     "tikTvd": "2042000367646",
-    "tikName": "Кош-Агачская"
+    "tikName": "Кош-Агачская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 36,
     "uikTvd": "4044002151392",
+    "uikName": "УИК №36",
     "tikTvd": "2042000367646",
-    "tikName": "Кош-Агачская"
+    "tikName": "Кош-Агачская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 37,
     "uikTvd": "4044002151393",
+    "uikName": "УИК №37",
     "tikTvd": "2042000367646",
-    "tikName": "Кош-Агачская"
+    "tikName": "Кош-Агачская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 38,
     "uikTvd": "4044002151394",
+    "uikName": "УИК №38",
     "tikTvd": "2042000367646",
-    "tikName": "Кош-Агачская"
+    "tikName": "Кош-Агачская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 39,
     "uikTvd": "4044002151395",
+    "uikName": "УИК №39",
     "tikTvd": "2042000367646",
-    "tikName": "Кош-Агачская"
+    "tikName": "Кош-Агачская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 40,
     "uikTvd": "4044002151396",
+    "uikName": "УИК №40",
     "tikTvd": "2042000367646",
-    "tikName": "Кош-Агачская"
+    "tikName": "Кош-Агачская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 41,
     "uikTvd": "4044003206489",
+    "uikName": "УИК №41",
     "tikTvd": "2042000367644",
-    "tikName": "Майминская"
+    "tikName": "Майминская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 42,
     "uikTvd": "4044003206490",
+    "uikName": "УИК №42",
     "tikTvd": "2042000367644",
-    "tikName": "Майминская"
+    "tikName": "Майминская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 43,
     "uikTvd": "4044003206491",
+    "uikName": "УИК №43",
     "tikTvd": "2042000367644",
-    "tikName": "Майминская"
+    "tikName": "Майминская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 44,
     "uikTvd": "4044003206492",
+    "uikName": "УИК №44",
     "tikTvd": "2042000367644",
-    "tikName": "Майминская"
+    "tikName": "Майминская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 45,
     "uikTvd": "4044003206493",
+    "uikName": "УИК №45",
     "tikTvd": "2042000367644",
-    "tikName": "Майминская"
+    "tikName": "Майминская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 46,
     "uikTvd": "4044003206494",
+    "uikName": "УИК №46",
     "tikTvd": "2042000367644",
-    "tikName": "Майминская"
+    "tikName": "Майминская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 47,
     "uikTvd": "4044003206495",
+    "uikName": "УИК №47",
     "tikTvd": "2042000367644",
-    "tikName": "Майминская"
+    "tikName": "Майминская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 48,
     "uikTvd": "4044003206496",
+    "uikName": "УИК №48",
     "tikTvd": "2042000367644",
-    "tikName": "Майминская"
+    "tikName": "Майминская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 49,
     "uikTvd": "4044003206497",
+    "uikName": "УИК №49",
     "tikTvd": "2042000367644",
-    "tikName": "Майминская"
+    "tikName": "Майминская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 50,
     "uikTvd": "4044003206498",
+    "uikName": "УИК №50",
     "tikTvd": "2042000367644",
-    "tikName": "Майминская"
+    "tikName": "Майминская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 51,
     "uikTvd": "4044003206499",
+    "uikName": "УИК №51",
     "tikTvd": "2042000367644",
-    "tikName": "Майминская"
+    "tikName": "Майминская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 52,
     "uikTvd": "4044003206500",
+    "uikName": "УИК №52",
     "tikTvd": "2042000367644",
-    "tikName": "Майминская"
+    "tikName": "Майминская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 53,
     "uikTvd": "4044003206501",
+    "uikName": "УИК №53",
     "tikTvd": "2042000367644",
-    "tikName": "Майминская"
+    "tikName": "Майминская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 54,
     "uikTvd": "4044003206502",
+    "uikName": "УИК №54",
     "tikTvd": "2042000367644",
-    "tikName": "Майминская"
+    "tikName": "Майминская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 55,
     "uikTvd": "4044003206503",
+    "uikName": "УИК №55",
     "tikTvd": "2042000367644",
-    "tikName": "Майминская"
+    "tikName": "Майминская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 56,
     "uikTvd": "4044003206504",
+    "uikName": "УИК №56",
     "tikTvd": "2042000367644",
-    "tikName": "Майминская"
+    "tikName": "Майминская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 57,
     "uikTvd": "4044003206505",
+    "uikName": "УИК №57",
     "tikTvd": "2042000367644",
-    "tikName": "Майминская"
+    "tikName": "Майминская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 58,
     "uikTvd": "4044003206506",
+    "uikName": "УИК №58",
     "tikTvd": "2042000367644",
-    "tikName": "Майминская"
+    "tikName": "Майминская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 59,
     "uikTvd": "4044003206507",
+    "uikName": "УИК №59",
     "tikTvd": "2042000367644",
-    "tikName": "Майминская"
+    "tikName": "Майминская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 60,
     "uikTvd": "4044003206508",
+    "uikName": "УИК №60",
     "tikTvd": "2042000367644",
-    "tikName": "Майминская"
+    "tikName": "Майминская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 61,
     "uikTvd": "4044003206509",
+    "uikName": "УИК №61",
     "tikTvd": "2042000367644",
-    "tikName": "Майминская"
+    "tikName": "Майминская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 62,
     "uikTvd": "4044003206510",
+    "uikName": "УИК №62",
     "tikTvd": "2042000367644",
-    "tikName": "Майминская"
+    "tikName": "Майминская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 63,
     "uikTvd": "4044003206511",
+    "uikName": "УИК №63",
     "tikTvd": "2042000367644",
-    "tikName": "Майминская"
+    "tikName": "Майминская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 64,
     "uikTvd": "4044003206512",
+    "uikName": "УИК №64",
     "tikTvd": "2042000367644",
-    "tikName": "Майминская"
+    "tikName": "Майминская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 65,
     "uikTvd": "4044003206513",
+    "uikName": "УИК №65",
     "tikTvd": "2042000367644",
-    "tikName": "Майминская"
+    "tikName": "Майминская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 66,
     "uikTvd": "4044003206514",
+    "uikName": "УИК №66",
     "tikTvd": "2042000367644",
-    "tikName": "Майминская"
+    "tikName": "Майминская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 67,
     "uikTvd": "4044003206515",
+    "uikName": "УИК №67",
     "tikTvd": "2042000367644",
-    "tikName": "Майминская"
+    "tikName": "Майминская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 68,
     "uikTvd": "4044003206516",
+    "uikName": "УИК №68",
     "tikTvd": "2042000367644",
-    "tikName": "Майминская"
+    "tikName": "Майминская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 69,
     "uikTvd": "4044003206517",
+    "uikName": "УИК №69",
     "tikTvd": "2042000367644",
-    "tikName": "Майминская"
+    "tikName": "Майминская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 70,
     "uikTvd": "4044004127937",
+    "uikName": "УИК №70",
     "tikTvd": "2042000367651",
-    "tikName": "Онгудайская"
+    "tikName": "Онгудайская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 71,
     "uikTvd": "4044004127938",
+    "uikName": "УИК №71",
     "tikTvd": "2042000367651",
-    "tikName": "Онгудайская"
+    "tikName": "Онгудайская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 72,
     "uikTvd": "4044004127939",
+    "uikName": "УИК №72",
     "tikTvd": "2042000367651",
-    "tikName": "Онгудайская"
+    "tikName": "Онгудайская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 73,
     "uikTvd": "4044004127940",
+    "uikName": "УИК №73",
     "tikTvd": "2042000367651",
-    "tikName": "Онгудайская"
+    "tikName": "Онгудайская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 74,
     "uikTvd": "4044004127941",
+    "uikName": "УИК №74",
     "tikTvd": "2042000367651",
-    "tikName": "Онгудайская"
+    "tikName": "Онгудайская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 75,
     "uikTvd": "4044004127942",
+    "uikName": "УИК №75",
     "tikTvd": "2042000367651",
-    "tikName": "Онгудайская"
+    "tikName": "Онгудайская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 76,
     "uikTvd": "4044004127943",
+    "uikName": "УИК №76",
     "tikTvd": "2042000367651",
-    "tikName": "Онгудайская"
+    "tikName": "Онгудайская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 77,
     "uikTvd": "4044004127944",
+    "uikName": "УИК №77",
     "tikTvd": "2042000367651",
-    "tikName": "Онгудайская"
+    "tikName": "Онгудайская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 78,
     "uikTvd": "4044004127945",
+    "uikName": "УИК №78",
     "tikTvd": "2042000367651",
-    "tikName": "Онгудайская"
+    "tikName": "Онгудайская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 79,
     "uikTvd": "4044004127946",
+    "uikName": "УИК №79",
     "tikTvd": "2042000367651",
-    "tikName": "Онгудайская"
+    "tikName": "Онгудайская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 80,
     "uikTvd": "4044004127947",
+    "uikName": "УИК №80",
     "tikTvd": "2042000367651",
-    "tikName": "Онгудайская"
+    "tikName": "Онгудайская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 81,
     "uikTvd": "4044004127948",
+    "uikName": "УИК №81",
     "tikTvd": "2042000367651",
-    "tikName": "Онгудайская"
+    "tikName": "Онгудайская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 82,
     "uikTvd": "4044004127949",
+    "uikName": "УИК №82",
     "tikTvd": "2042000367651",
-    "tikName": "Онгудайская"
+    "tikName": "Онгудайская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 83,
     "uikTvd": "4044004127950",
+    "uikName": "УИК №83",
     "tikTvd": "2042000367651",
-    "tikName": "Онгудайская"
+    "tikName": "Онгудайская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 84,
     "uikTvd": "4044004127951",
+    "uikName": "УИК №84",
     "tikTvd": "2042000367651",
-    "tikName": "Онгудайская"
+    "tikName": "Онгудайская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 85,
     "uikTvd": "4044004127952",
+    "uikName": "УИК №85",
     "tikTvd": "2042000367651",
-    "tikName": "Онгудайская"
+    "tikName": "Онгудайская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 86,
     "uikTvd": "4044004127953",
+    "uikName": "УИК №86",
     "tikTvd": "2042000367651",
-    "tikName": "Онгудайская"
+    "tikName": "Онгудайская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 87,
     "uikTvd": "4044004127954",
+    "uikName": "УИК №87",
     "tikTvd": "2042000367651",
-    "tikName": "Онгудайская"
+    "tikName": "Онгудайская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 88,
     "uikTvd": "4044004127955",
+    "uikName": "УИК №88",
     "tikTvd": "2042000367651",
-    "tikName": "Онгудайская"
+    "tikName": "Онгудайская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 89,
     "uikTvd": "4044004127956",
+    "uikName": "УИК №89",
     "tikTvd": "2042000367651",
-    "tikName": "Онгудайская"
+    "tikName": "Онгудайская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 90,
     "uikTvd": "4044004127957",
+    "uikName": "УИК №90",
     "tikTvd": "2042000367651",
-    "tikName": "Онгудайская"
+    "tikName": "Онгудайская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 91,
     "uikTvd": "4044004127958",
+    "uikName": "УИК №91",
     "tikTvd": "2042000367651",
-    "tikName": "Онгудайская"
+    "tikName": "Онгудайская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 92,
     "uikTvd": "4044004127959",
+    "uikName": "УИК №92",
     "tikTvd": "2042000367651",
-    "tikName": "Онгудайская"
+    "tikName": "Онгудайская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 93,
     "uikTvd": "4044004127960",
+    "uikName": "УИК №93",
     "tikTvd": "2042000367651",
-    "tikName": "Онгудайская"
+    "tikName": "Онгудайская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 94,
     "uikTvd": "4044004127961",
+    "uikName": "УИК №94",
     "tikTvd": "2042000367651",
-    "tikName": "Онгудайская"
+    "tikName": "Онгудайская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 95,
     "uikTvd": "4044004127962",
+    "uikName": "УИК №95",
     "tikTvd": "2042000367651",
-    "tikName": "Онгудайская"
+    "tikName": "Онгудайская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 96,
     "uikTvd": "4044005188984",
+    "uikName": "УИК №96",
     "tikTvd": "2042000367642",
-    "tikName": "Турочакская"
+    "tikName": "Турочакская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 97,
     "uikTvd": "4044005188985",
+    "uikName": "УИК №97",
     "tikTvd": "2042000367642",
-    "tikName": "Турочакская"
+    "tikName": "Турочакская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 98,
     "uikTvd": "4044005188986",
+    "uikName": "УИК №98",
     "tikTvd": "2042000367642",
-    "tikName": "Турочакская"
+    "tikName": "Турочакская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 99,
     "uikTvd": "4044005188987",
+    "uikName": "УИК №99",
     "tikTvd": "2042000367642",
-    "tikName": "Турочакская"
+    "tikName": "Турочакская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 100,
     "uikTvd": "4044005188988",
+    "uikName": "УИК №100",
     "tikTvd": "2042000367642",
-    "tikName": "Турочакская"
+    "tikName": "Турочакская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 101,
     "uikTvd": "4044005188989",
+    "uikName": "УИК №101",
     "tikTvd": "2042000367642",
-    "tikName": "Турочакская"
+    "tikName": "Турочакская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 102,
     "uikTvd": "4044005188990",
+    "uikName": "УИК №102",
     "tikTvd": "2042000367642",
-    "tikName": "Турочакская"
+    "tikName": "Турочакская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 103,
     "uikTvd": "4044005188991",
+    "uikName": "УИК №103",
     "tikTvd": "2042000367642",
-    "tikName": "Турочакская"
+    "tikName": "Турочакская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 104,
     "uikTvd": "4044005188992",
+    "uikName": "УИК №104",
     "tikTvd": "2042000367642",
-    "tikName": "Турочакская"
+    "tikName": "Турочакская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 105,
     "uikTvd": "4044005188993",
+    "uikName": "УИК №105",
     "tikTvd": "2042000367642",
-    "tikName": "Турочакская"
+    "tikName": "Турочакская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 106,
     "uikTvd": "4044005188994",
+    "uikName": "УИК №106",
     "tikTvd": "2042000367642",
-    "tikName": "Турочакская"
+    "tikName": "Турочакская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 107,
     "uikTvd": "4044005188995",
+    "uikName": "УИК №107",
     "tikTvd": "2042000367642",
-    "tikName": "Турочакская"
+    "tikName": "Турочакская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 108,
     "uikTvd": "4044005188996",
+    "uikName": "УИК №108",
     "tikTvd": "2042000367642",
-    "tikName": "Турочакская"
+    "tikName": "Турочакская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 109,
     "uikTvd": "4044005188997",
+    "uikName": "УИК №109",
     "tikTvd": "2042000367642",
-    "tikName": "Турочакская"
+    "tikName": "Турочакская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 110,
     "uikTvd": "4044005188998",
+    "uikName": "УИК №110",
     "tikTvd": "2042000367642",
-    "tikName": "Турочакская"
+    "tikName": "Турочакская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 111,
     "uikTvd": "4044005188999",
+    "uikName": "УИК №111",
     "tikTvd": "2042000367642",
-    "tikName": "Турочакская"
+    "tikName": "Турочакская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 112,
     "uikTvd": "4044005189000",
+    "uikName": "УИК №112",
     "tikTvd": "2042000367642",
-    "tikName": "Турочакская"
+    "tikName": "Турочакская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 113,
     "uikTvd": "4044005189001",
+    "uikName": "УИК №113",
     "tikTvd": "2042000367642",
-    "tikName": "Турочакская"
+    "tikName": "Турочакская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 114,
     "uikTvd": "4044005189002",
+    "uikName": "УИК №114",
     "tikTvd": "2042000367642",
-    "tikName": "Турочакская"
+    "tikName": "Турочакская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 115,
     "uikTvd": "4044005189003",
+    "uikName": "УИК №115",
     "tikTvd": "2042000367642",
-    "tikName": "Турочакская"
+    "tikName": "Турочакская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 116,
     "uikTvd": "4044006160116",
+    "uikName": "УИК №116",
     "tikTvd": "2042000367649",
-    "tikName": "Улаганская"
+    "tikName": "Улаганская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 117,
     "uikTvd": "4044006160117",
+    "uikName": "УИК №117",
     "tikTvd": "2042000367649",
-    "tikName": "Улаганская"
+    "tikName": "Улаганская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 118,
     "uikTvd": "4044006160118",
+    "uikName": "УИК №118",
     "tikTvd": "2042000367649",
-    "tikName": "Улаганская"
+    "tikName": "Улаганская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 119,
     "uikTvd": "4044006160119",
+    "uikName": "УИК №119",
     "tikTvd": "2042000367649",
-    "tikName": "Улаганская"
+    "tikName": "Улаганская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 120,
     "uikTvd": "4044006160120",
+    "uikName": "УИК №120",
     "tikTvd": "2042000367649",
-    "tikName": "Улаганская"
+    "tikName": "Улаганская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 121,
     "uikTvd": "4044006160121",
+    "uikName": "УИК №121",
     "tikTvd": "2042000367649",
-    "tikName": "Улаганская"
+    "tikName": "Улаганская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 122,
     "uikTvd": "4044006160122",
+    "uikName": "УИК №122",
     "tikTvd": "2042000367649",
-    "tikName": "Улаганская"
+    "tikName": "Улаганская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 123,
     "uikTvd": "4044006160123",
+    "uikName": "УИК №123",
     "tikTvd": "2042000367649",
-    "tikName": "Улаганская"
+    "tikName": "Улаганская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 124,
     "uikTvd": "4044006160124",
+    "uikName": "УИК №124",
     "tikTvd": "2042000367649",
-    "tikName": "Улаганская"
+    "tikName": "Улаганская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 125,
     "uikTvd": "4044006160125",
+    "uikName": "УИК №125",
     "tikTvd": "2042000367649",
-    "tikName": "Улаганская"
+    "tikName": "Улаганская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 126,
     "uikTvd": "4044006160126",
+    "uikName": "УИК №126",
     "tikTvd": "2042000367649",
-    "tikName": "Улаганская"
+    "tikName": "Улаганская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 127,
     "uikTvd": "4044007150263",
+    "uikName": "УИК №127",
     "tikTvd": "2042000367650",
-    "tikName": "Усть-Канская"
+    "tikName": "Усть-Канская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 128,
     "uikTvd": "4044007150264",
+    "uikName": "УИК №128",
     "tikTvd": "2042000367650",
-    "tikName": "Усть-Канская"
+    "tikName": "Усть-Канская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 129,
     "uikTvd": "4044007150265",
+    "uikName": "УИК №129",
     "tikTvd": "2042000367650",
-    "tikName": "Усть-Канская"
+    "tikName": "Усть-Канская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 130,
     "uikTvd": "4044007150266",
+    "uikName": "УИК №130",
     "tikTvd": "2042000367650",
-    "tikName": "Усть-Канская"
+    "tikName": "Усть-Канская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 131,
     "uikTvd": "4044007150267",
+    "uikName": "УИК №131",
     "tikTvd": "2042000367650",
-    "tikName": "Усть-Канская"
+    "tikName": "Усть-Канская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 132,
     "uikTvd": "4044007150268",
+    "uikName": "УИК №132",
     "tikTvd": "2042000367650",
-    "tikName": "Усть-Канская"
+    "tikName": "Усть-Канская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 133,
     "uikTvd": "4044007150269",
+    "uikName": "УИК №133",
     "tikTvd": "2042000367650",
-    "tikName": "Усть-Канская"
+    "tikName": "Усть-Канская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 134,
     "uikTvd": "4044007150270",
+    "uikName": "УИК №134",
     "tikTvd": "2042000367650",
-    "tikName": "Усть-Канская"
+    "tikName": "Усть-Канская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 135,
     "uikTvd": "4044007150271",
+    "uikName": "УИК №135",
     "tikTvd": "2042000367650",
-    "tikName": "Усть-Канская"
+    "tikName": "Усть-Канская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 136,
     "uikTvd": "4044007150272",
+    "uikName": "УИК №136",
     "tikTvd": "2042000367650",
-    "tikName": "Усть-Канская"
+    "tikName": "Усть-Канская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 137,
     "uikTvd": "4044007150273",
+    "uikName": "УИК №137",
     "tikTvd": "2042000367650",
-    "tikName": "Усть-Канская"
+    "tikName": "Усть-Канская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 138,
     "uikTvd": "4044007150274",
+    "uikName": "УИК №138",
     "tikTvd": "2042000367650",
-    "tikName": "Усть-Канская"
+    "tikName": "Усть-Канская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 139,
     "uikTvd": "4044007150275",
+    "uikName": "УИК №139",
     "tikTvd": "2042000367650",
-    "tikName": "Усть-Канская"
+    "tikName": "Усть-Канская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 140,
     "uikTvd": "4044007150276",
+    "uikName": "УИК №140",
     "tikTvd": "2042000367650",
-    "tikName": "Усть-Канская"
+    "tikName": "Усть-Канская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 141,
     "uikTvd": "4044007150277",
+    "uikName": "УИК №141",
     "tikTvd": "2042000367650",
-    "tikName": "Усть-Канская"
+    "tikName": "Усть-Канская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 142,
     "uikTvd": "4044007150278",
+    "uikName": "УИК №142",
     "tikTvd": "2042000367650",
-    "tikName": "Усть-Канская"
+    "tikName": "Усть-Канская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 143,
     "uikTvd": "4044007150279",
+    "uikName": "УИК №143",
     "tikTvd": "2042000367650",
-    "tikName": "Усть-Канская"
+    "tikName": "Усть-Канская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 144,
     "uikTvd": "4044007150280",
+    "uikName": "УИК №144",
     "tikTvd": "2042000367650",
-    "tikName": "Усть-Канская"
+    "tikName": "Усть-Канская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 145,
     "uikTvd": "4044007150281",
+    "uikName": "УИК №145",
     "tikTvd": "2042000367650",
-    "tikName": "Усть-Канская"
+    "tikName": "Усть-Канская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 146,
     "uikTvd": "4044007150282",
+    "uikName": "УИК №146",
     "tikTvd": "2042000367650",
-    "tikName": "Усть-Канская"
+    "tikName": "Усть-Канская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 147,
     "uikTvd": "4044007150283",
+    "uikName": "УИК №147",
     "tikTvd": "2042000367650",
-    "tikName": "Усть-Канская"
+    "tikName": "Усть-Канская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 148,
     "uikTvd": "4044007150284",
+    "uikName": "УИК №148",
     "tikTvd": "2042000367650",
-    "tikName": "Усть-Канская"
+    "tikName": "Усть-Канская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 149,
     "uikTvd": "4044007150285",
+    "uikName": "УИК №149",
     "tikTvd": "2042000367650",
-    "tikName": "Усть-Канская"
+    "tikName": "Усть-Канская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 150,
     "uikTvd": "4044007150286",
+    "uikName": "УИК №150",
     "tikTvd": "2042000367650",
-    "tikName": "Усть-Канская"
+    "tikName": "Усть-Канская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 151,
     "uikTvd": "4044008164870",
+    "uikName": "УИК №151",
     "tikTvd": "2042000367643",
-    "tikName": "Усть-Коксинская"
+    "tikName": "Усть-Коксинская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 152,
     "uikTvd": "4044008164871",
+    "uikName": "УИК №152",
     "tikTvd": "2042000367643",
-    "tikName": "Усть-Коксинская"
+    "tikName": "Усть-Коксинская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 153,
     "uikTvd": "4044008164872",
+    "uikName": "УИК №153",
     "tikTvd": "2042000367643",
-    "tikName": "Усть-Коксинская"
+    "tikName": "Усть-Коксинская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 154,
     "uikTvd": "4044008164873",
+    "uikName": "УИК №154",
     "tikTvd": "2042000367643",
-    "tikName": "Усть-Коксинская"
+    "tikName": "Усть-Коксинская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 155,
     "uikTvd": "4044008164874",
+    "uikName": "УИК №155",
     "tikTvd": "2042000367643",
-    "tikName": "Усть-Коксинская"
+    "tikName": "Усть-Коксинская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 156,
     "uikTvd": "4044008164875",
+    "uikName": "УИК №156",
     "tikTvd": "2042000367643",
-    "tikName": "Усть-Коксинская"
+    "tikName": "Усть-Коксинская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 157,
     "uikTvd": "4044008164876",
+    "uikName": "УИК №157",
     "tikTvd": "2042000367643",
-    "tikName": "Усть-Коксинская"
+    "tikName": "Усть-Коксинская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 158,
     "uikTvd": "4044008164877",
+    "uikName": "УИК №158",
     "tikTvd": "2042000367643",
-    "tikName": "Усть-Коксинская"
+    "tikName": "Усть-Коксинская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 159,
     "uikTvd": "4044008164878",
+    "uikName": "УИК №159",
     "tikTvd": "2042000367643",
-    "tikName": "Усть-Коксинская"
+    "tikName": "Усть-Коксинская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 160,
     "uikTvd": "4044008164879",
+    "uikName": "УИК №160",
     "tikTvd": "2042000367643",
-    "tikName": "Усть-Коксинская"
+    "tikName": "Усть-Коксинская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 161,
     "uikTvd": "4044008164880",
+    "uikName": "УИК №161",
     "tikTvd": "2042000367643",
-    "tikName": "Усть-Коксинская"
+    "tikName": "Усть-Коксинская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 162,
     "uikTvd": "4044008164881",
+    "uikName": "УИК №162",
     "tikTvd": "2042000367643",
-    "tikName": "Усть-Коксинская"
+    "tikName": "Усть-Коксинская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 163,
     "uikTvd": "4044008164882",
+    "uikName": "УИК №163",
     "tikTvd": "2042000367643",
-    "tikName": "Усть-Коксинская"
+    "tikName": "Усть-Коксинская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 164,
     "uikTvd": "4044008164883",
+    "uikName": "УИК №164",
     "tikTvd": "2042000367643",
-    "tikName": "Усть-Коксинская"
+    "tikName": "Усть-Коксинская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 165,
     "uikTvd": "4044008164884",
+    "uikName": "УИК №165",
     "tikTvd": "2042000367643",
-    "tikName": "Усть-Коксинская"
+    "tikName": "Усть-Коксинская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 166,
     "uikTvd": "4044008164885",
+    "uikName": "УИК №166",
     "tikTvd": "2042000367643",
-    "tikName": "Усть-Коксинская"
+    "tikName": "Усть-Коксинская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 167,
     "uikTvd": "4044008164886",
+    "uikName": "УИК №167",
     "tikTvd": "2042000367643",
-    "tikName": "Усть-Коксинская"
+    "tikName": "Усть-Коксинская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 168,
     "uikTvd": "4044008164887",
+    "uikName": "УИК №168",
     "tikTvd": "2042000367643",
-    "tikName": "Усть-Коксинская"
+    "tikName": "Усть-Коксинская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 169,
     "uikTvd": "4044008164888",
+    "uikName": "УИК №169",
     "tikTvd": "2042000367643",
-    "tikName": "Усть-Коксинская"
+    "tikName": "Усть-Коксинская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 170,
     "uikTvd": "4044008164889",
+    "uikName": "УИК №170",
     "tikTvd": "2042000367643",
-    "tikName": "Усть-Коксинская"
+    "tikName": "Усть-Коксинская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 171,
     "uikTvd": "4044008164890",
+    "uikName": "УИК №171",
     "tikTvd": "2042000367643",
-    "tikName": "Усть-Коксинская"
+    "tikName": "Усть-Коксинская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 172,
     "uikTvd": "4044008164891",
+    "uikName": "УИК №172",
     "tikTvd": "2042000367643",
-    "tikName": "Усть-Коксинская"
+    "tikName": "Усть-Коксинская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 173,
     "uikTvd": "4044008164892",
+    "uikName": "УИК №173",
     "tikTvd": "2042000367643",
-    "tikName": "Усть-Коксинская"
+    "tikName": "Усть-Коксинская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 174,
     "uikTvd": "4044008164893",
+    "uikName": "УИК №174",
     "tikTvd": "2042000367643",
-    "tikName": "Усть-Коксинская"
+    "tikName": "Усть-Коксинская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 175,
     "uikTvd": "4044008164894",
+    "uikName": "УИК №175",
     "tikTvd": "2042000367643",
-    "tikName": "Усть-Коксинская"
+    "tikName": "Усть-Коксинская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 176,
     "uikTvd": "4044008164895",
+    "uikName": "УИК №176",
     "tikTvd": "2042000367643",
-    "tikName": "Усть-Коксинская"
+    "tikName": "Усть-Коксинская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 177,
     "uikTvd": "4044008164896",
+    "uikName": "УИК №177",
     "tikTvd": "2042000367643",
-    "tikName": "Усть-Коксинская"
+    "tikName": "Усть-Коксинская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 178,
     "uikTvd": "4044008164897",
+    "uikName": "УИК №178",
     "tikTvd": "2042000367643",
-    "tikName": "Усть-Коксинская"
+    "tikName": "Усть-Коксинская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 179,
     "uikTvd": "4044008164898",
+    "uikName": "УИК №179",
     "tikTvd": "2042000367643",
-    "tikName": "Усть-Коксинская"
+    "tikName": "Усть-Коксинская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 180,
     "uikTvd": "4044008164899",
+    "uikName": "УИК №180",
     "tikTvd": "2042000367643",
-    "tikName": "Усть-Коксинская"
+    "tikName": "Усть-Коксинская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 181,
     "uikTvd": "4044009148872",
+    "uikName": "УИК №181",
     "tikTvd": "2042000367652",
-    "tikName": "Чемальская"
+    "tikName": "Чемальская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 182,
     "uikTvd": "4044009148873",
+    "uikName": "УИК №182",
     "tikTvd": "2042000367652",
-    "tikName": "Чемальская"
+    "tikName": "Чемальская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 183,
     "uikTvd": "4044009148874",
+    "uikName": "УИК №183",
     "tikTvd": "2042000367652",
-    "tikName": "Чемальская"
+    "tikName": "Чемальская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 184,
     "uikTvd": "4044009148875",
+    "uikName": "УИК №184",
     "tikTvd": "2042000367652",
-    "tikName": "Чемальская"
+    "tikName": "Чемальская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 185,
     "uikTvd": "4044009148876",
+    "uikName": "УИК №185",
     "tikTvd": "2042000367652",
-    "tikName": "Чемальская"
+    "tikName": "Чемальская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 186,
     "uikTvd": "4044009148877",
+    "uikName": "УИК №186",
     "tikTvd": "2042000367652",
-    "tikName": "Чемальская"
+    "tikName": "Чемальская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 187,
     "uikTvd": "4044009148878",
+    "uikName": "УИК №187",
     "tikTvd": "2042000367652",
-    "tikName": "Чемальская"
+    "tikName": "Чемальская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 188,
     "uikTvd": "4044009148879",
+    "uikName": "УИК №188",
     "tikTvd": "2042000367652",
-    "tikName": "Чемальская"
+    "tikName": "Чемальская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 189,
     "uikTvd": "4044009148880",
+    "uikName": "УИК №189",
     "tikTvd": "2042000367652",
-    "tikName": "Чемальская"
+    "tikName": "Чемальская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 190,
     "uikTvd": "4044009148881",
+    "uikName": "УИК №190",
     "tikTvd": "2042000367652",
-    "tikName": "Чемальская"
+    "tikName": "Чемальская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 191,
     "uikTvd": "4044009148882",
+    "uikName": "УИК №191",
     "tikTvd": "2042000367652",
-    "tikName": "Чемальская"
+    "tikName": "Чемальская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 192,
     "uikTvd": "4044009148883",
+    "uikName": "УИК №192",
     "tikTvd": "2042000367652",
-    "tikName": "Чемальская"
+    "tikName": "Чемальская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 193,
     "uikTvd": "4044009148884",
+    "uikName": "УИК №193",
     "tikTvd": "2042000367652",
-    "tikName": "Чемальская"
+    "tikName": "Чемальская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 194,
     "uikTvd": "4044009148885",
+    "uikName": "УИК №194",
     "tikTvd": "2042000367652",
-    "tikName": "Чемальская"
+    "tikName": "Чемальская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 195,
     "uikTvd": "4044009148886",
+    "uikName": "УИК №195",
     "tikTvd": "2042000367652",
-    "tikName": "Чемальская"
+    "tikName": "Чемальская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 196,
     "uikTvd": "4044009148887",
+    "uikName": "УИК №196",
     "tikTvd": "2042000367652",
-    "tikName": "Чемальская"
+    "tikName": "Чемальская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 197,
     "uikTvd": "4044009148888",
+    "uikName": "УИК №197",
     "tikTvd": "2042000367652",
-    "tikName": "Чемальская"
+    "tikName": "Чемальская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 198,
     "uikTvd": "4044009148889",
+    "uikName": "УИК №198",
     "tikTvd": "2042000367652",
-    "tikName": "Чемальская"
+    "tikName": "Чемальская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 199,
     "uikTvd": "4044009148890",
+    "uikName": "УИК №199",
     "tikTvd": "2042000367652",
-    "tikName": "Чемальская"
+    "tikName": "Чемальская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 200,
     "uikTvd": "4044009148891",
+    "uikName": "УИК №200",
     "tikTvd": "2042000367652",
-    "tikName": "Чемальская"
+    "tikName": "Чемальская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 201,
     "uikTvd": "4044009148892",
+    "uikName": "УИК №201",
     "tikTvd": "2042000367652",
-    "tikName": "Чемальская"
+    "tikName": "Чемальская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 202,
     "uikTvd": "4044009148893",
+    "uikName": "УИК №202",
     "tikTvd": "2042000367652",
-    "tikName": "Чемальская"
+    "tikName": "Чемальская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 203,
     "uikTvd": "4044010114786",
+    "uikName": "УИК №203",
     "tikTvd": "2042000367647",
-    "tikName": "Чойская"
+    "tikName": "Чойская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 204,
     "uikTvd": "4044010114787",
+    "uikName": "УИК №204",
     "tikTvd": "2042000367647",
-    "tikName": "Чойская"
+    "tikName": "Чойская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 205,
     "uikTvd": "4044010114788",
+    "uikName": "УИК №205",
     "tikTvd": "2042000367647",
-    "tikName": "Чойская"
+    "tikName": "Чойская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 206,
     "uikTvd": "4044010114789",
+    "uikName": "УИК №206",
     "tikTvd": "2042000367647",
-    "tikName": "Чойская"
+    "tikName": "Чойская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 207,
     "uikTvd": "4044010114790",
+    "uikName": "УИК №207",
     "tikTvd": "2042000367647",
-    "tikName": "Чойская"
+    "tikName": "Чойская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 208,
     "uikTvd": "4044010114791",
+    "uikName": "УИК №208",
     "tikTvd": "2042000367647",
-    "tikName": "Чойская"
+    "tikName": "Чойская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 209,
     "uikTvd": "4044010114792",
+    "uikName": "УИК №209",
     "tikTvd": "2042000367647",
-    "tikName": "Чойская"
+    "tikName": "Чойская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 210,
     "uikTvd": "4044010114793",
+    "uikName": "УИК №210",
     "tikTvd": "2042000367647",
-    "tikName": "Чойская"
+    "tikName": "Чойская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 211,
     "uikTvd": "4044010114794",
+    "uikName": "УИК №211",
     "tikTvd": "2042000367647",
-    "tikName": "Чойская"
+    "tikName": "Чойская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 212,
     "uikTvd": "4044010114795",
+    "uikName": "УИК №212",
     "tikTvd": "2042000367647",
-    "tikName": "Чойская"
+    "tikName": "Чойская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 213,
     "uikTvd": "4044010114796",
+    "uikName": "УИК №213",
     "tikTvd": "2042000367647",
-    "tikName": "Чойская"
+    "tikName": "Чойская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 214,
     "uikTvd": "4044010114797",
+    "uikName": "УИК №214",
     "tikTvd": "2042000367647",
-    "tikName": "Чойская"
+    "tikName": "Чойская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 215,
     "uikTvd": "4044010114798",
+    "uikName": "УИК №215",
     "tikTvd": "2042000367647",
-    "tikName": "Чойская"
+    "tikName": "Чойская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 216,
     "uikTvd": "4044010114799",
+    "uikName": "УИК №216",
     "tikTvd": "2042000367647",
-    "tikName": "Чойская"
+    "tikName": "Чойская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 217,
     "uikTvd": "4044010114800",
+    "uikName": "УИК №217",
     "tikTvd": "2042000367647",
-    "tikName": "Чойская"
+    "tikName": "Чойская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 218,
     "uikTvd": "4044010114801",
+    "uikName": "УИК №218",
     "tikTvd": "2042000367647",
-    "tikName": "Чойская"
+    "tikName": "Чойская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 219,
     "uikTvd": "4044010114802",
+    "uikName": "УИК №219",
     "tikTvd": "2042000367647",
-    "tikName": "Чойская"
+    "tikName": "Чойская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 220,
     "uikTvd": "4044010114803",
+    "uikName": "УИК №220",
     "tikTvd": "2042000367647",
-    "tikName": "Чойская"
+    "tikName": "Чойская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 221,
     "uikTvd": "4044011154205",
+    "uikName": "УИК №221",
     "tikTvd": "2042000367648",
-    "tikName": "Шебалинская"
+    "tikName": "Шебалинская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 222,
     "uikTvd": "4044011154206",
+    "uikName": "УИК №222",
     "tikTvd": "2042000367648",
-    "tikName": "Шебалинская"
+    "tikName": "Шебалинская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 223,
     "uikTvd": "4044011154207",
+    "uikName": "УИК №223",
     "tikTvd": "2042000367648",
-    "tikName": "Шебалинская"
+    "tikName": "Шебалинская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 224,
     "uikTvd": "4044011154208",
+    "uikName": "УИК №224",
     "tikTvd": "2042000367648",
-    "tikName": "Шебалинская"
+    "tikName": "Шебалинская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 225,
     "uikTvd": "4044011154209",
+    "uikName": "УИК №225",
     "tikTvd": "2042000367648",
-    "tikName": "Шебалинская"
+    "tikName": "Шебалинская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 226,
     "uikTvd": "4044011154210",
+    "uikName": "УИК №226",
     "tikTvd": "2042000367648",
-    "tikName": "Шебалинская"
+    "tikName": "Шебалинская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 227,
     "uikTvd": "4044011154211",
+    "uikName": "УИК №227",
     "tikTvd": "2042000367648",
-    "tikName": "Шебалинская"
+    "tikName": "Шебалинская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 228,
     "uikTvd": "4044011154212",
+    "uikName": "УИК №228",
     "tikTvd": "2042000367648",
-    "tikName": "Шебалинская"
+    "tikName": "Шебалинская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 229,
     "uikTvd": "4044011154213",
+    "uikName": "УИК №229",
     "tikTvd": "2042000367648",
-    "tikName": "Шебалинская"
+    "tikName": "Шебалинская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 230,
     "uikTvd": "4044011154214",
+    "uikName": "УИК №230",
     "tikTvd": "2042000367648",
-    "tikName": "Шебалинская"
+    "tikName": "Шебалинская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 231,
     "uikTvd": "4044011154215",
+    "uikName": "УИК №231",
     "tikTvd": "2042000367648",
-    "tikName": "Шебалинская"
+    "tikName": "Шебалинская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 232,
     "uikTvd": "4044011154216",
+    "uikName": "УИК №232",
     "tikTvd": "2042000367648",
-    "tikName": "Шебалинская"
+    "tikName": "Шебалинская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 233,
     "uikTvd": "4044011154217",
+    "uikName": "УИК №233",
     "tikTvd": "2042000367648",
-    "tikName": "Шебалинская"
+    "tikName": "Шебалинская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 234,
     "uikTvd": "4044011154218",
+    "uikName": "УИК №234",
     "tikTvd": "2042000367648",
-    "tikName": "Шебалинская"
+    "tikName": "Шебалинская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 235,
     "uikTvd": "4044011154219",
+    "uikName": "УИК №235",
     "tikTvd": "2042000367648",
-    "tikName": "Шебалинская"
+    "tikName": "Шебалинская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 236,
     "uikTvd": "4044011154220",
+    "uikName": "УИК №236",
     "tikTvd": "2042000367648",
-    "tikName": "Шебалинская"
+    "tikName": "Шебалинская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 237,
     "uikTvd": "4044011154221",
+    "uikName": "УИК №237",
     "tikTvd": "2042000367648",
-    "tikName": "Шебалинская"
+    "tikName": "Шебалинская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 238,
     "uikTvd": "4044011154222",
+    "uikName": "УИК №238",
     "tikTvd": "2042000367648",
-    "tikName": "Шебалинская"
+    "tikName": "Шебалинская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 239,
     "uikTvd": "4044011154223",
+    "uikName": "УИК №239",
     "tikTvd": "2042000367648",
-    "tikName": "Шебалинская"
+    "tikName": "Шебалинская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 240,
     "uikTvd": "4044011154224",
+    "uikName": "УИК №240",
     "tikTvd": "2042000367648",
-    "tikName": "Шебалинская"
+    "tikName": "Шебалинская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 241,
     "uikTvd": "4044011154225",
+    "uikName": "УИК №241",
     "tikTvd": "2042000367648",
-    "tikName": "Шебалинская"
+    "tikName": "Шебалинская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   },
   {
     "uikNumber": 242,
     "uikTvd": "4044007150287",
+    "uikName": "УИК №242",
     "tikTvd": "2042000367650",
-    "tikName": "Усть-Канская"
+    "tikName": "Усть-Канская",
+    "regionCode": "2",
+    "regionTvd": "100100084849068",
+    "regionName": "Республика Алтай",
+    "district": null
   }
 ] satisfies readonly UikTikRelation[];

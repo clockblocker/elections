@@ -11,6 +11,14 @@ export const duma_2016_tic_464_region_36 = [
     "ballot": "single-member",
     "tikTvd": "23620001147686",
     "tikName": "Новоусманская",
+    "regionCode": "36",
+    "regionTvd": "100100067795966",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100067795967",
+      "oikName": "Воронежская область – Воронежский"
+    },
     "uikCount": 51,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 59165,
@@ -112,6 +120,14 @@ export const duma_2016_tic_464_region_36 = [
     "ballot": "single-member",
     "tikTvd": "23620001147687",
     "tikName": "Лискинская",
+    "regionCode": "36",
+    "regionTvd": "100100067795966",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100067795967",
+      "oikName": "Воронежская область – Воронежский"
+    },
     "uikCount": 87,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 82258,
@@ -249,6 +265,14 @@ export const duma_2016_tic_464_region_36 = [
     "ballot": "single-member",
     "tikTvd": "23620001147688",
     "tikName": "Каширская",
+    "regionCode": "36",
+    "regionTvd": "100100067795966",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100067795967",
+      "oikName": "Воронежская область – Воронежский"
+    },
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 19855,
@@ -326,6 +350,14 @@ export const duma_2016_tic_464_region_36 = [
     "ballot": "single-member",
     "tikTvd": "23620001147689",
     "tikName": "Воронеж, Центральная",
+    "regionCode": "36",
+    "regionTvd": "100100067795966",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100067795967",
+      "oikName": "Воронежская область – Воронежский"
+    },
     "uikCount": 44,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 67073,
@@ -420,6 +452,14 @@ export const duma_2016_tic_464_region_36 = [
     "ballot": "single-member",
     "tikTvd": "23620001147690",
     "tikName": "Воронеж, Левобережная",
+    "regionCode": "36",
+    "regionTvd": "100100067795966",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100067795967",
+      "oikName": "Воронежская область – Воронежский"
+    },
     "uikCount": 76,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 153639,
@@ -546,6 +586,14 @@ export const duma_2016_tic_464_region_36 = [
     "ballot": "single-member",
     "tikTvd": "23620001147691",
     "tikName": "Воронеж, Железнодорожная",
+    "regionCode": "36",
+    "regionTvd": "100100067795966",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100067795967",
+      "oikName": "Воронежская область – Воронежский"
+    },
     "uikCount": 60,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 112148,
@@ -656,6 +704,14 @@ export const duma_2016_tic_464_region_36 = [
     "ballot": "single-member",
     "tikTvd": "23620001147692",
     "tikName": "Хохольская",
+    "regionCode": "36",
+    "regionTvd": "100100067795966",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100067795968",
+      "oikName": "Воронежская область – Правобережный"
+    },
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 24602,
@@ -742,6 +798,14 @@ export const duma_2016_tic_464_region_36 = [
     "ballot": "single-member",
     "tikTvd": "23620001147693",
     "tikName": "Cемилукская",
+    "regionCode": "36",
+    "regionTvd": "100100067795966",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100067795968",
+      "oikName": "Воронежская область – Правобережный"
+    },
     "uikCount": 53,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 51865,
@@ -845,6 +909,14 @@ export const duma_2016_tic_464_region_36 = [
     "ballot": "single-member",
     "tikTvd": "23620001147694",
     "tikName": "Репьевская",
+    "regionCode": "36",
+    "regionTvd": "100100067795966",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100067795968",
+      "oikName": "Воронежская область – Правобережный"
+    },
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 13510,
@@ -910,6 +982,14 @@ export const duma_2016_tic_464_region_36 = [
     "ballot": "single-member",
     "tikTvd": "23620001147695",
     "tikName": "Острогожская",
+    "regionCode": "36",
+    "regionTvd": "100100067795966",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100067795968",
+      "oikName": "Воронежская область – Правобережный"
+    },
     "uikCount": 53,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 44189,
@@ -1013,6 +1093,14 @@ export const duma_2016_tic_464_region_36 = [
     "ballot": "single-member",
     "tikTvd": "23620001147696",
     "tikName": "Нововоронежская городская",
+    "regionCode": "36",
+    "regionTvd": "100100067795966",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100067795968",
+      "oikName": "Воронежская область – Правобережный"
+    },
     "uikCount": 12,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 28862,
@@ -1075,6 +1163,14 @@ export const duma_2016_tic_464_region_36 = [
     "ballot": "single-member",
     "tikTvd": "23620001147697",
     "tikName": "Нижнедевицкая",
+    "regionCode": "36",
+    "regionTvd": "100100067795966",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100067795968",
+      "oikName": "Воронежская область – Правобережный"
+    },
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 15749,
@@ -1159,6 +1255,14 @@ export const duma_2016_tic_464_region_36 = [
     "ballot": "single-member",
     "tikTvd": "23620001147698",
     "tikName": "Воронеж, Советская",
+    "regionCode": "36",
+    "regionTvd": "100100067795966",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100067795968",
+      "oikName": "Воронежская область – Правобережный"
+    },
     "uikCount": 83,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 160367,
@@ -1292,6 +1396,14 @@ export const duma_2016_tic_464_region_36 = [
     "ballot": "single-member",
     "tikTvd": "23620001147699",
     "tikName": "Воронеж, Ленинская",
+    "regionCode": "36",
+    "regionTvd": "100100067795966",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100067795968",
+      "oikName": "Воронежская область – Правобережный"
+    },
     "uikCount": 53,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 112293,
@@ -1395,6 +1507,14 @@ export const duma_2016_tic_464_region_36 = [
     "ballot": "single-member",
     "tikTvd": "23620001147700",
     "tikName": "Эртильская",
+    "regionCode": "36",
+    "regionTvd": "100100067795966",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100067795969",
+      "oikName": "Воронежская область – Аннинский"
+    },
     "uikCount": 42,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 20932,
@@ -1489,6 +1609,14 @@ export const duma_2016_tic_464_region_36 = [
     "ballot": "single-member",
     "tikTvd": "23620001147701",
     "tikName": "Терновская",
+    "regionCode": "36",
+    "regionTvd": "100100067795966",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100067795969",
+      "oikName": "Воронежская область – Аннинский"
+    },
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 16704,
@@ -1572,6 +1700,14 @@ export const duma_2016_tic_464_region_36 = [
     "ballot": "single-member",
     "tikTvd": "23620001147702",
     "tikName": "Рамонская",
+    "regionCode": "36",
+    "regionTvd": "100100067795966",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100067795969",
+      "oikName": "Воронежская область – Аннинский"
+    },
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 26744,
@@ -1654,6 +1790,14 @@ export const duma_2016_tic_464_region_36 = [
     "ballot": "single-member",
     "tikTvd": "23620001147703",
     "tikName": "Поворинская",
+    "regionCode": "36",
+    "regionTvd": "100100067795966",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100067795969",
+      "oikName": "Воронежская область – Аннинский"
+    },
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 24960,
@@ -1728,6 +1872,14 @@ export const duma_2016_tic_464_region_36 = [
     "ballot": "single-member",
     "tikTvd": "23620001147704",
     "tikName": "Панинская",
+    "regionCode": "36",
+    "regionTvd": "100100067795966",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100067795969",
+      "oikName": "Воронежская область – Аннинский"
+    },
     "uikCount": 42,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 21265,
@@ -1822,6 +1974,14 @@ export const duma_2016_tic_464_region_36 = [
     "ballot": "single-member",
     "tikTvd": "23620001147705",
     "tikName": "Грибановская",
+    "regionCode": "36",
+    "regionTvd": "100100067795966",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100067795969",
+      "oikName": "Воронежская область – Аннинский"
+    },
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 26328,
@@ -1913,6 +2073,14 @@ export const duma_2016_tic_464_region_36 = [
     "ballot": "single-member",
     "tikTvd": "23620001147706",
     "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100067795966",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100067795969",
+      "oikName": "Воронежская область – Аннинский"
+    },
     "uikCount": 117,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 227599,
@@ -2082,6 +2250,14 @@ export const duma_2016_tic_464_region_36 = [
     "ballot": "single-member",
     "tikTvd": "23620001147707",
     "tikName": "Верхнехавская",
+    "regionCode": "36",
+    "regionTvd": "100100067795966",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100067795969",
+      "oikName": "Воронежская область – Аннинский"
+    },
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 19261,
@@ -2166,6 +2342,14 @@ export const duma_2016_tic_464_region_36 = [
     "ballot": "single-member",
     "tikTvd": "23620001147708",
     "tikName": "Борисоглебская",
+    "regionCode": "36",
+    "regionTvd": "100100067795966",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100067795969",
+      "oikName": "Воронежская область – Аннинский"
+    },
     "uikCount": 50,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 59450,
@@ -2268,6 +2452,14 @@ export const duma_2016_tic_464_region_36 = [
     "ballot": "single-member",
     "tikTvd": "23620001147709",
     "tikName": "Аннинская",
+    "regionCode": "36",
+    "regionTvd": "100100067795966",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100067795969",
+      "oikName": "Воронежская область – Аннинский"
+    },
     "uikCount": 55,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 36838,
@@ -2375,6 +2567,14 @@ export const duma_2016_tic_464_region_36 = [
     "ballot": "single-member",
     "tikTvd": "23620001147710",
     "tikName": "Павловская",
+    "regionCode": "36",
+    "regionTvd": "100100067795966",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100067795970",
+      "oikName": "Воронежская область – Павловский"
+    },
     "uikCount": 48,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 42594,
@@ -2474,6 +2674,14 @@ export const duma_2016_tic_464_region_36 = [
     "ballot": "single-member",
     "tikTvd": "23620001147711",
     "tikName": "Ольховатская",
+    "regionCode": "36",
+    "regionTvd": "100100067795966",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100067795970",
+      "oikName": "Воронежская область – Павловский"
+    },
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 18363,
@@ -2553,6 +2761,14 @@ export const duma_2016_tic_464_region_36 = [
     "ballot": "single-member",
     "tikTvd": "23620001147712",
     "tikName": "Новохоперская",
+    "regionCode": "36",
+    "regionTvd": "100100067795966",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100067795970",
+      "oikName": "Воронежская область – Павловский"
+    },
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 30009,
@@ -2644,6 +2860,14 @@ export const duma_2016_tic_464_region_36 = [
     "ballot": "single-member",
     "tikTvd": "23620001147713",
     "tikName": "Кантемировская",
+    "regionCode": "36",
+    "regionTvd": "100100067795966",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100067795970",
+      "oikName": "Воронежская область – Павловский"
+    },
     "uikCount": 44,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 27734,
@@ -2739,6 +2963,14 @@ export const duma_2016_tic_464_region_36 = [
     "ballot": "single-member",
     "tikTvd": "23620001147714",
     "tikName": "Каменская",
+    "regionCode": "36",
+    "regionTvd": "100100067795966",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100067795970",
+      "oikName": "Воронежская область – Павловский"
+    },
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 14552,
@@ -2813,6 +3045,14 @@ export const duma_2016_tic_464_region_36 = [
     "ballot": "single-member",
     "tikTvd": "23620001147715",
     "tikName": "Калачеевская",
+    "regionCode": "36",
+    "regionTvd": "100100067795966",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100067795970",
+      "oikName": "Воронежская область – Павловский"
+    },
     "uikCount": 42,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 43543,
@@ -2906,6 +3146,14 @@ export const duma_2016_tic_464_region_36 = [
     "ballot": "single-member",
     "tikTvd": "23620001147716",
     "tikName": "Воробьевская",
+    "regionCode": "36",
+    "regionTvd": "100100067795966",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100067795970",
+      "oikName": "Воронежская область – Павловский"
+    },
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 13925,
@@ -2981,6 +3229,14 @@ export const duma_2016_tic_464_region_36 = [
     "ballot": "single-member",
     "tikTvd": "23620001147717",
     "tikName": "Верхнемамонская",
+    "regionCode": "36",
+    "regionTvd": "100100067795966",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100067795970",
+      "oikName": "Воронежская область – Павловский"
+    },
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 15575,
@@ -3051,6 +3307,14 @@ export const duma_2016_tic_464_region_36 = [
     "ballot": "single-member",
     "tikTvd": "23620001147718",
     "tikName": "Бутурлиновская",
+    "regionCode": "36",
+    "regionTvd": "100100067795966",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100067795970",
+      "oikName": "Воронежская область – Павловский"
+    },
     "uikCount": 41,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 38628,
@@ -3143,6 +3407,14 @@ export const duma_2016_tic_464_region_36 = [
     "ballot": "single-member",
     "tikTvd": "23620001147719",
     "tikName": "Богучарская",
+    "regionCode": "36",
+    "regionTvd": "100100067795966",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100067795970",
+      "oikName": "Воронежская область – Павловский"
+    },
     "uikCount": 47,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 30149,
@@ -3241,6 +3513,14 @@ export const duma_2016_tic_464_region_36 = [
     "ballot": "single-member",
     "tikTvd": "23620001147720",
     "tikName": "Бобровская",
+    "regionCode": "36",
+    "regionTvd": "100100067795966",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100067795970",
+      "oikName": "Воронежская область – Павловский"
+    },
     "uikCount": 48,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 41039,
@@ -3340,6 +3620,14 @@ export const duma_2016_tic_464_region_36 = [
     "ballot": "single-member",
     "tikTvd": "23620001147721",
     "tikName": "Таловская",
+    "regionCode": "36",
+    "regionTvd": "100100067795966",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100067795970",
+      "oikName": "Воронежская область – Павловский"
+    },
     "uikCount": 44,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 31457,
@@ -3435,6 +3723,14 @@ export const duma_2016_tic_464_region_36 = [
     "ballot": "single-member",
     "tikTvd": "23620001147722",
     "tikName": "Россошанская",
+    "regionCode": "36",
+    "regionTvd": "100100067795966",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100067795970",
+      "oikName": "Воронежская область – Павловский"
+    },
     "uikCount": 71,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 71737,
@@ -3557,6 +3853,14 @@ export const duma_2016_tic_464_region_36 = [
     "ballot": "single-member",
     "tikTvd": "23620001147723",
     "tikName": "Подгоренская",
+    "regionCode": "36",
+    "regionTvd": "100100067795966",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100067795970",
+      "oikName": "Воронежская область – Павловский"
+    },
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 19827,
@@ -3643,6 +3947,14 @@ export const duma_2016_tic_464_region_36 = [
     "ballot": "single-member",
     "tikTvd": "23620001147724",
     "tikName": "Петропавловская",
+    "regionCode": "36",
+    "regionTvd": "100100067795966",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100067795970",
+      "oikName": "Воронежская область – Павловский"
+    },
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 15025,

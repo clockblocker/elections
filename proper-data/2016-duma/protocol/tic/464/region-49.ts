@@ -11,6 +11,14 @@ export const duma_2016_tic_464_region_49 = [
     "ballot": "single-member",
     "tikTvd": "2492000255745",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "100100067796007",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100067796008",
+      "oikName": "Магаданская область – Магаданский"
+    },
     "uikCount": 58,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 73545,
@@ -117,6 +125,14 @@ export const duma_2016_tic_464_region_49 = [
     "ballot": "single-member",
     "tikTvd": "2492000255746",
     "tikName": "Ольская",
+    "regionCode": "49",
+    "regionTvd": "100100067796007",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100067796008",
+      "oikName": "Магаданская область – Магаданский"
+    },
     "uikCount": 7,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 5615,
@@ -172,6 +188,14 @@ export const duma_2016_tic_464_region_49 = [
     "ballot": "single-member",
     "tikTvd": "2492000255747",
     "tikName": "Омсукчанская",
+    "regionCode": "49",
+    "regionTvd": "100100067796007",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100067796008",
+      "oikName": "Магаданская область – Магаданский"
+    },
     "uikCount": 3,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 3341,
@@ -223,6 +247,14 @@ export const duma_2016_tic_464_region_49 = [
     "ballot": "single-member",
     "tikTvd": "2492000255748",
     "tikName": "Северо - Эвенская",
+    "regionCode": "49",
+    "regionTvd": "100100067796007",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100067796008",
+      "oikName": "Магаданская область – Магаданский"
+    },
     "uikCount": 5,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1739,
@@ -276,6 +308,14 @@ export const duma_2016_tic_464_region_49 = [
     "ballot": "single-member",
     "tikTvd": "2492000255749",
     "tikName": "Среднеканская",
+    "regionCode": "49",
+    "regionTvd": "100100067796007",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100067796008",
+      "oikName": "Магаданская область – Магаданский"
+    },
     "uikCount": 3,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2211,
@@ -327,6 +367,14 @@ export const duma_2016_tic_464_region_49 = [
     "ballot": "single-member",
     "tikTvd": "2492000255750",
     "tikName": "Сусуманская",
+    "regionCode": "49",
+    "regionTvd": "100100067796007",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100067796008",
+      "oikName": "Магаданская область – Магаданский"
+    },
     "uikCount": 6,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 4596,
@@ -381,6 +429,14 @@ export const duma_2016_tic_464_region_49 = [
     "ballot": "single-member",
     "tikTvd": "2492000255751",
     "tikName": "Тенькинская",
+    "regionCode": "49",
+    "regionTvd": "100100067796007",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100067796008",
+      "oikName": "Магаданская область – Магаданский"
+    },
     "uikCount": 7,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 4258,
@@ -436,6 +492,14 @@ export const duma_2016_tic_464_region_49 = [
     "ballot": "single-member",
     "tikTvd": "2492000255752",
     "tikName": "Хасынская",
+    "regionCode": "49",
+    "regionTvd": "100100067796007",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100067796008",
+      "oikName": "Магаданская область – Магаданский"
+    },
     "uikCount": 7,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 4935,
@@ -491,6 +555,14 @@ export const duma_2016_tic_464_region_49 = [
     "ballot": "single-member",
     "tikTvd": "2492000255753",
     "tikName": "Ягоднинская",
+    "regionCode": "49",
+    "regionTvd": "100100067796007",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100067796008",
+      "oikName": "Магаданская область – Магаданский"
+    },
     "uikCount": 7,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 5923,
@@ -546,6 +618,14 @@ export const duma_2016_tic_464_region_49 = [
     "ballot": "single-member",
     "tikTvd": "2492000255754",
     "tikName": "Арманская",
+    "regionCode": "49",
+    "regionTvd": "100100067796007",
+    "regionName": "Магаданская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100067796008",
+      "oikName": "Магаданская область – Магаданский"
+    },
     "uikCount": 4,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1746,

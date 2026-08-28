@@ -11,6 +11,9 @@ export const president_2004_tic_227_region_98 = [
     "ballot": "presidential",
     "tikTvd": "10010001014038",
     "tikName": "Город Байконур (Республика Казахстан)",
+    "regionCode": "98",
+    "regionTvd": "10010001014038",
+    "regionName": "Город Байконур (Республика Казахстан)",
     "uikCount": 8,
     "accounting": {
       "Число избирателей, внесенных в список": 21082,

@@ -11,6 +11,9 @@ export const president_2004_tic_227_region_4 = [
     "ballot": "presidential",
     "tikTvd": "203200075761",
     "tikName": "Баргузинская",
+    "regionCode": "4",
+    "regionTvd": "1001000882977",
+    "regionName": "Республика Бурятия",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список": 17705,
@@ -95,6 +98,9 @@ export const president_2004_tic_227_region_4 = [
     "ballot": "presidential",
     "tikTvd": "203200075762",
     "tikName": "Хоринская",
+    "regionCode": "4",
+    "regionTvd": "1001000882977",
+    "regionName": "Республика Бурятия",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список": 13575,
@@ -171,6 +177,9 @@ export const president_2004_tic_227_region_4 = [
     "ballot": "presidential",
     "tikTvd": "203200075763",
     "tikName": "Улан-Удэ, Советская",
+    "regionCode": "4",
+    "regionTvd": "1001000882977",
+    "regionName": "Республика Бурятия",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в список": 47318,
@@ -252,6 +261,9 @@ export const president_2004_tic_227_region_4 = [
     "ballot": "presidential",
     "tikTvd": "203200075764",
     "tikName": "Улан-Удэ, Октябрьская",
+    "regionCode": "4",
+    "regionTvd": "1001000882977",
+    "regionName": "Республика Бурятия",
     "uikCount": 65,
     "accounting": {
       "Число избирателей, внесенных в список": 122990,
@@ -365,6 +377,9 @@ export const president_2004_tic_227_region_4 = [
     "ballot": "presidential",
     "tikTvd": "203200075765",
     "tikName": "Улан-Удэ, Железнодорожная",
+    "regionCode": "4",
+    "regionTvd": "1001000882977",
+    "regionName": "Республика Бурятия",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, внесенных в список": 99582,
@@ -463,6 +478,9 @@ export const president_2004_tic_227_region_4 = [
     "ballot": "presidential",
     "tikTvd": "203200075766",
     "tikName": "Тункинская",
+    "regionCode": "4",
+    "regionTvd": "1001000882977",
+    "regionName": "Республика Бурятия",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в список": 14949,
@@ -546,6 +564,9 @@ export const president_2004_tic_227_region_4 = [
     "ballot": "presidential",
     "tikTvd": "203200075767",
     "tikName": "Тарбагатайская ",
+    "regionCode": "4",
+    "regionTvd": "1001000882977",
+    "regionName": "Республика Бурятия",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список": 11604,
@@ -614,6 +635,9 @@ export const president_2004_tic_227_region_4 = [
     "ballot": "presidential",
     "tikTvd": "203200075768",
     "tikName": "Селенгинская",
+    "regionCode": "4",
+    "regionTvd": "1001000882977",
+    "regionName": "Республика Бурятия",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в список": 32896,
@@ -699,6 +723,9 @@ export const president_2004_tic_227_region_4 = [
     "ballot": "presidential",
     "tikTvd": "203200075769",
     "tikName": "Северобайкальская городская",
+    "regionCode": "4",
+    "regionTvd": "1001000882977",
+    "regionName": "Республика Бурятия",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, внесенных в список": 17890,
@@ -759,6 +786,9 @@ export const president_2004_tic_227_region_4 = [
     "ballot": "presidential",
     "tikTvd": "203200075770",
     "tikName": "Северо-Байкальская",
+    "regionCode": "4",
+    "regionTvd": "1001000882977",
+    "regionName": "Республика Бурятия",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список": 11555,
@@ -828,6 +858,9 @@ export const president_2004_tic_227_region_4 = [
     "ballot": "presidential",
     "tikTvd": "203200075771",
     "tikName": "Прибайкальская",
+    "regionCode": "4",
+    "regionTvd": "1001000882977",
+    "regionName": "Республика Бурятия",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в список": 19923,
@@ -909,6 +942,9 @@ export const president_2004_tic_227_region_4 = [
     "ballot": "presidential",
     "tikTvd": "203200075772",
     "tikName": "Окинская ",
+    "regionCode": "4",
+    "regionTvd": "1001000882977",
+    "regionName": "Республика Бурятия",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, внесенных в список": 3505,
@@ -968,6 +1004,9 @@ export const president_2004_tic_227_region_4 = [
     "ballot": "presidential",
     "tikTvd": "203200075773",
     "tikName": "Мухоршибирская",
+    "regionCode": "4",
+    "regionTvd": "1001000882977",
+    "regionName": "Республика Бурятия",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в список": 18372,
@@ -1047,6 +1086,9 @@ export const president_2004_tic_227_region_4 = [
     "ballot": "presidential",
     "tikTvd": "203200075774",
     "tikName": "Муйская",
+    "regionCode": "4",
+    "regionTvd": "1001000882977",
+    "regionName": "Республика Бурятия",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в список": 12577,
@@ -1109,6 +1151,9 @@ export const president_2004_tic_227_region_4 = [
     "ballot": "presidential",
     "tikTvd": "203200075775",
     "tikName": "Кяхтинская",
+    "regionCode": "4",
+    "regionTvd": "1001000882977",
+    "regionName": "Республика Бурятия",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, внесенных в список": 28447,
@@ -1207,6 +1252,9 @@ export const president_2004_tic_227_region_4 = [
     "ballot": "presidential",
     "tikTvd": "203200075776",
     "tikName": "Курумканская",
+    "regionCode": "4",
+    "regionTvd": "1001000882977",
+    "regionName": "Республика Бурятия",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список": 10380,
@@ -1273,6 +1321,9 @@ export const president_2004_tic_227_region_4 = [
     "ballot": "presidential",
     "tikTvd": "203200075777",
     "tikName": "Кижингинская",
+    "regionCode": "4",
+    "regionTvd": "1001000882977",
+    "regionName": "Республика Бурятия",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список": 11847,
@@ -1342,6 +1393,9 @@ export const president_2004_tic_227_region_4 = [
     "ballot": "presidential",
     "tikTvd": "203200075778",
     "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "1001000882977",
+    "regionName": "Республика Бурятия",
     "uikCount": 72,
     "accounting": {
       "Число избирателей, внесенных в список": 43540,
@@ -1462,6 +1516,9 @@ export const president_2004_tic_227_region_4 = [
     "ballot": "presidential",
     "tikTvd": "203200075779",
     "tikName": "Иволгинская",
+    "regionCode": "4",
+    "regionTvd": "1001000882977",
+    "regionName": "Республика Бурятия",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список": 17315,
@@ -1534,6 +1591,9 @@ export const president_2004_tic_227_region_4 = [
     "ballot": "presidential",
     "tikTvd": "203200075780",
     "tikName": "Закаменская ",
+    "regionCode": "4",
+    "regionTvd": "1001000882977",
+    "regionName": "Республика Бурятия",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в список": 19924,
@@ -1613,6 +1673,9 @@ export const president_2004_tic_227_region_4 = [
     "ballot": "presidential",
     "tikTvd": "203200075781",
     "tikName": "Заиграевская",
+    "regionCode": "4",
+    "regionTvd": "1001000882977",
+    "regionName": "Республика Бурятия",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, внесенных в список": 36585,
@@ -1702,6 +1765,9 @@ export const president_2004_tic_227_region_4 = [
     "ballot": "presidential",
     "tikTvd": "203200075782",
     "tikName": "Еравнинская ",
+    "regionCode": "4",
+    "regionTvd": "1001000882977",
+    "regionName": "Республика Бурятия",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список": 11524,
@@ -1776,6 +1842,9 @@ export const president_2004_tic_227_region_4 = [
     "ballot": "presidential",
     "tikTvd": "203200075783",
     "tikName": "Джидинская",
+    "regionCode": "4",
+    "regionTvd": "1001000882977",
+    "regionName": "Республика Бурятия",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в список": 21374,
@@ -1859,6 +1928,9 @@ export const president_2004_tic_227_region_4 = [
     "ballot": "presidential",
     "tikTvd": "203200075784",
     "tikName": "Бичурская",
+    "regionCode": "4",
+    "regionTvd": "1001000882977",
+    "regionName": "Республика Бурятия",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в список": 19154,
@@ -1945,6 +2017,9 @@ export const president_2004_tic_227_region_4 = [
     "ballot": "presidential",
     "tikTvd": "203200075785",
     "tikName": "Баунтовская",
+    "regionCode": "4",
+    "regionTvd": "1001000882977",
+    "regionName": "Республика Бурятия",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в список": 7694,

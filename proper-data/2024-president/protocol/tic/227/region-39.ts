@@ -11,6 +11,9 @@ export const president_2024_tic_227_region_39 = [
     "ballot": "presidential",
     "tikTvd": "23920001450220",
     "tikName": "Янтарнинская",
+    "regionCode": "39",
+    "regionTvd": "100100339411233",
+    "regionName": "Калининградская область",
     "uikCount": 2,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 4160,
@@ -53,6 +56,9 @@ export const president_2024_tic_227_region_39 = [
     "ballot": "presidential",
     "tikTvd": "23920001450221",
     "tikName": "Гвардейская",
+    "regionCode": "39",
+    "regionTvd": "100100339411233",
+    "regionName": "Калининградская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 20561,
@@ -114,6 +120,9 @@ export const president_2024_tic_227_region_39 = [
     "ballot": "presidential",
     "tikTvd": "23920001450222",
     "tikName": "Озерская",
+    "regionCode": "39",
+    "regionTvd": "100100339411233",
+    "regionName": "Калининградская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9270,
@@ -173,6 +182,9 @@ export const president_2024_tic_227_region_39 = [
     "ballot": "presidential",
     "tikTvd": "23920001450223",
     "tikName": "Славская",
+    "regionCode": "39",
+    "regionTvd": "100100339411233",
+    "regionName": "Калининградская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 11980,
@@ -232,6 +244,9 @@ export const president_2024_tic_227_region_39 = [
     "ballot": "presidential",
     "tikTvd": "23920001450224",
     "tikName": "Правдинская",
+    "regionCode": "39",
+    "regionTvd": "100100339411233",
+    "regionName": "Калининградская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 12830,
@@ -287,6 +302,9 @@ export const president_2024_tic_227_region_39 = [
     "ballot": "presidential",
     "tikTvd": "23920001450226",
     "tikName": "Гурьевская",
+    "regionCode": "39",
+    "regionTvd": "100100339411233",
+    "regionName": "Калининградская область",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 65956,
@@ -370,6 +388,9 @@ export const president_2024_tic_227_region_39 = [
     "ballot": "presidential",
     "tikTvd": "23920001450227",
     "tikName": "Черняховская",
+    "regionCode": "39",
+    "regionTvd": "100100339411233",
+    "regionName": "Калининградская область",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 34916,
@@ -447,6 +468,9 @@ export const president_2024_tic_227_region_39 = [
     "ballot": "presidential",
     "tikTvd": "23920001450228",
     "tikName": "Багратионовская",
+    "regionCode": "39",
+    "regionTvd": "100100339411233",
+    "regionName": "Калининградская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 21992,
@@ -509,6 +533,9 @@ export const president_2024_tic_227_region_39 = [
     "ballot": "presidential",
     "tikTvd": "23920001450229",
     "tikName": "Мамоновская",
+    "regionCode": "39",
+    "regionTvd": "100100339411233",
+    "regionName": "Калининградская область",
     "uikCount": 3,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 5787,
@@ -552,6 +579,9 @@ export const president_2024_tic_227_region_39 = [
     "ballot": "presidential",
     "tikTvd": "23920001450230",
     "tikName": "Балтийская",
+    "regionCode": "39",
+    "regionTvd": "100100339411233",
+    "regionName": "Калининградская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 24022,
@@ -614,6 +644,9 @@ export const president_2024_tic_227_region_39 = [
     "ballot": "presidential",
     "tikTvd": "23920001450231",
     "tikName": "Ладушкинская",
+    "regionCode": "39",
+    "regionTvd": "100100339411233",
+    "regionName": "Калининградская область",
     "uikCount": 2,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 2951,
@@ -656,6 +689,9 @@ export const president_2024_tic_227_region_39 = [
     "ballot": "presidential",
     "tikTvd": "23920001450232",
     "tikName": "Гусевская",
+    "regionCode": "39",
+    "regionTvd": "100100339411233",
+    "regionName": "Калининградская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 22813,
@@ -717,6 +753,9 @@ export const president_2024_tic_227_region_39 = [
     "ballot": "presidential",
     "tikTvd": "23920001450233",
     "tikName": "Калининград, Ленинградская",
+    "regionCode": "39",
+    "regionTvd": "100100339411233",
+    "regionName": "Калининградская область",
     "uikCount": 79,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 158810,
@@ -836,6 +875,9 @@ export const president_2024_tic_227_region_39 = [
     "ballot": "presidential",
     "tikTvd": "23920001450234",
     "tikName": "Краснознаменская",
+    "regionCode": "39",
+    "regionTvd": "100100339411233",
+    "regionName": "Калининградская область",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 7739,
@@ -889,6 +931,9 @@ export const president_2024_tic_227_region_39 = [
     "ballot": "presidential",
     "tikTvd": "23920001450235",
     "tikName": "Светлогорская",
+    "regionCode": "39",
+    "regionTvd": "100100339411233",
+    "regionName": "Калининградская область",
     "uikCount": 8,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 14374,
@@ -937,6 +982,9 @@ export const president_2024_tic_227_region_39 = [
     "ballot": "presidential",
     "tikTvd": "23920001450236",
     "tikName": "Полесская",
+    "regionCode": "39",
+    "regionTvd": "100100339411233",
+    "regionName": "Калининградская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 12132,
@@ -992,6 +1040,9 @@ export const president_2024_tic_227_region_39 = [
     "ballot": "presidential",
     "tikTvd": "23920001450237",
     "tikName": "Нестеровская",
+    "regionCode": "39",
+    "regionTvd": "100100339411233",
+    "regionName": "Калининградская область",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9965,
@@ -1048,6 +1099,9 @@ export const president_2024_tic_227_region_39 = [
     "ballot": "presidential",
     "tikTvd": "23920001450238",
     "tikName": "Пионерская ",
+    "regionCode": "39",
+    "regionTvd": "100100339411233",
+    "regionName": "Калининградская область",
     "uikCount": 8,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10339,
@@ -1096,6 +1150,9 @@ export const president_2024_tic_227_region_39 = [
     "ballot": "presidential",
     "tikTvd": "23920001450239",
     "tikName": "Калининград, Московская",
+    "regionCode": "39",
+    "regionTvd": "100100339411233",
+    "regionName": "Калининградская область",
     "uikCount": 82,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 131037,
@@ -1218,6 +1275,9 @@ export const president_2024_tic_227_region_39 = [
     "ballot": "presidential",
     "tikTvd": "23920001450240",
     "tikName": "Неманская",
+    "regionCode": "39",
+    "regionTvd": "100100339411233",
+    "regionName": "Калининградская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 12436,
@@ -1278,6 +1338,9 @@ export const president_2024_tic_227_region_39 = [
     "ballot": "presidential",
     "tikTvd": "23920001450242",
     "tikName": "Советская ",
+    "regionCode": "39",
+    "regionTvd": "100100339411233",
+    "regionName": "Калининградская область",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 25769,
@@ -1334,6 +1397,9 @@ export const president_2024_tic_227_region_39 = [
     "ballot": "presidential",
     "tikTvd": "23920001450243",
     "tikName": "Светловская",
+    "regionCode": "39",
+    "regionTvd": "100100339411233",
+    "regionName": "Калининградская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 19732,
@@ -1389,6 +1455,9 @@ export const president_2024_tic_227_region_39 = [
     "ballot": "presidential",
     "tikTvd": "23920001450244",
     "tikName": "Калининград, Центральная",
+    "regionCode": "39",
+    "regionTvd": "100100339411233",
+    "regionName": "Калининградская область",
     "uikCount": 56,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 105666,
@@ -1485,6 +1554,9 @@ export const president_2024_tic_227_region_39 = [
     "ballot": "presidential",
     "tikTvd": "23920001450245",
     "tikName": "Зеленоградская",
+    "regionCode": "39",
+    "regionTvd": "100100339411233",
+    "regionName": "Калининградская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 29706,

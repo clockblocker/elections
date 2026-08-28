@@ -11,6 +11,9 @@ export const president_2012_tic_227_region_49 = [
     "ballot": "presidential",
     "tikTvd": "2492000155230",
     "tikName": "Магаданская городская",
+    "regionCode": "49",
+    "regionTvd": "100100031793901",
+    "regionName": "Магаданская область",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 76681,
@@ -108,6 +111,9 @@ export const president_2012_tic_227_region_49 = [
     "ballot": "presidential",
     "tikTvd": "2492000155231",
     "tikName": "Ольская",
+    "regionCode": "49",
+    "regionTvd": "100100031793901",
+    "regionName": "Магаданская область",
     "uikCount": 8,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 6107,
@@ -163,6 +169,9 @@ export const president_2012_tic_227_region_49 = [
     "ballot": "presidential",
     "tikTvd": "2492000155232",
     "tikName": "Омсукчанская",
+    "regionCode": "49",
+    "regionTvd": "100100031793901",
+    "regionName": "Магаданская область",
     "uikCount": 3,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 4504,
@@ -213,6 +222,9 @@ export const president_2012_tic_227_region_49 = [
     "ballot": "presidential",
     "tikTvd": "2492000155233",
     "tikName": "Северо-Эвенская",
+    "regionCode": "49",
+    "regionTvd": "100100031793901",
+    "regionName": "Магаданская область",
     "uikCount": 4,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 2146,
@@ -264,6 +276,9 @@ export const president_2012_tic_227_region_49 = [
     "ballot": "presidential",
     "tikTvd": "2492000155234",
     "tikName": "Среднеканская",
+    "regionCode": "49",
+    "regionTvd": "100100031793901",
+    "regionName": "Магаданская область",
     "uikCount": 3,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 2576,
@@ -314,6 +329,9 @@ export const president_2012_tic_227_region_49 = [
     "ballot": "presidential",
     "tikTvd": "2492000155235",
     "tikName": "Сусуманская",
+    "regionCode": "49",
+    "regionTvd": "100100031793901",
+    "regionName": "Магаданская область",
     "uikCount": 9,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 6134,
@@ -370,6 +388,9 @@ export const president_2012_tic_227_region_49 = [
     "ballot": "presidential",
     "tikTvd": "2492000155236",
     "tikName": "Тенькинская",
+    "regionCode": "49",
+    "regionTvd": "100100031793901",
+    "regionName": "Магаданская область",
     "uikCount": 7,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 3999,
@@ -424,6 +445,9 @@ export const president_2012_tic_227_region_49 = [
     "ballot": "presidential",
     "tikTvd": "2492000155237",
     "tikName": "Хасынская",
+    "regionCode": "49",
+    "regionTvd": "100100031793901",
+    "regionName": "Магаданская область",
     "uikCount": 7,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 6139,
@@ -478,6 +502,9 @@ export const president_2012_tic_227_region_49 = [
     "ballot": "presidential",
     "tikTvd": "2492000155238",
     "tikName": "Ягоднинская",
+    "regionCode": "49",
+    "regionTvd": "100100031793901",
+    "regionName": "Магаданская область",
     "uikCount": 7,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 7769,
@@ -532,6 +559,9 @@ export const president_2012_tic_227_region_49 = [
     "ballot": "presidential",
     "tikTvd": "2492000155239",
     "tikName": "Арманская",
+    "regionCode": "49",
+    "regionTvd": "100100031793901",
+    "regionName": "Магаданская область",
     "uikCount": 5,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 2129,

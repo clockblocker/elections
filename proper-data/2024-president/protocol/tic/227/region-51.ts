@@ -11,6 +11,9 @@ export const president_2024_tic_227_region_51 = [
     "ballot": "presidential",
     "tikTvd": "2512000753128",
     "tikName": "Кировская",
+    "regionCode": "51",
+    "regionTvd": "100100339411244",
+    "regionName": "Мурманская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 19622,
@@ -70,6 +73,9 @@ export const president_2024_tic_227_region_51 = [
     "ballot": "presidential",
     "tikTvd": "2512000753129",
     "tikName": "Ловозерская",
+    "regionCode": "51",
+    "regionTvd": "100100339411244",
+    "regionName": "Мурманская область",
     "uikCount": 5,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 6701,
@@ -115,6 +121,9 @@ export const president_2024_tic_227_region_51 = [
     "ballot": "presidential",
     "tikTvd": "2512000753130",
     "tikName": "Заозерская",
+    "regionCode": "51",
+    "regionTvd": "100100339411244",
+    "regionName": "Мурманская область",
     "uikCount": 8,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 4810,
@@ -163,6 +172,9 @@ export const president_2024_tic_227_region_51 = [
     "ballot": "presidential",
     "tikTvd": "2512000753131",
     "tikName": "Полярнозоринская",
+    "regionCode": "51",
+    "regionTvd": "100100339411244",
+    "regionName": "Мурманская область",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 11055,
@@ -215,6 +227,9 @@ export const president_2024_tic_227_region_51 = [
     "ballot": "presidential",
     "tikTvd": "2512000753132",
     "tikName": "Островнинская",
+    "regionCode": "51",
+    "regionTvd": "100100339411244",
+    "regionName": "Мурманская область",
     "uikCount": 2,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 863,
@@ -257,6 +272,9 @@ export const president_2024_tic_227_region_51 = [
     "ballot": "presidential",
     "tikTvd": "2512000753133",
     "tikName": "Терская",
+    "regionCode": "51",
+    "regionTvd": "100100339411244",
+    "regionName": "Мурманская область",
     "uikCount": 5,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 3473,
@@ -302,6 +320,9 @@ export const president_2024_tic_227_region_51 = [
     "ballot": "presidential",
     "tikTvd": "2512000753134",
     "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100339411244",
+    "regionName": "Мурманская область",
     "uikCount": 264,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 188773,
@@ -606,6 +627,9 @@ export const president_2024_tic_227_region_51 = [
     "ballot": "presidential",
     "tikTvd": "2512000753135",
     "tikName": "ТИК ЗАТО Александровск",
+    "regionCode": "51",
+    "regionTvd": "100100339411244",
+    "regionName": "Мурманская область",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 20870,
@@ -688,6 +712,9 @@ export const president_2024_tic_227_region_51 = [
     "ballot": "presidential",
     "tikTvd": "2512000753136",
     "tikName": "Кольская",
+    "regionCode": "51",
+    "regionTvd": "100100339411244",
+    "regionName": "Мурманская область",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 26674,
@@ -765,6 +792,9 @@ export const president_2024_tic_227_region_51 = [
     "ballot": "presidential",
     "tikTvd": "2512000753137",
     "tikName": "Кандалакшская",
+    "regionCode": "51",
+    "regionTvd": "100100339411244",
+    "regionName": "Мурманская область",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 31041,
@@ -840,6 +870,9 @@ export const president_2024_tic_227_region_51 = [
     "ballot": "presidential",
     "tikTvd": "2512000753138",
     "tikName": "Североморская",
+    "regionCode": "51",
+    "regionTvd": "100100339411244",
+    "regionName": "Мурманская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 37008,
@@ -920,6 +953,9 @@ export const president_2024_tic_227_region_51 = [
     "ballot": "presidential",
     "tikTvd": "2512000753139",
     "tikName": "Мончегорская",
+    "regionCode": "51",
+    "regionTvd": "100100339411244",
+    "regionName": "Мурманская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 26838,
@@ -985,6 +1021,9 @@ export const president_2024_tic_227_region_51 = [
     "ballot": "presidential",
     "tikTvd": "2512000753140",
     "tikName": "Печенгская",
+    "regionCode": "51",
+    "regionTvd": "100100339411244",
+    "regionName": "Мурманская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 20081,
@@ -1053,6 +1092,9 @@ export const president_2024_tic_227_region_51 = [
     "ballot": "presidential",
     "tikTvd": "2512000753141",
     "tikName": "Апатитская",
+    "regionCode": "51",
+    "regionTvd": "100100339411244",
+    "regionName": "Мурманская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 34099,
@@ -1118,6 +1160,9 @@ export const president_2024_tic_227_region_51 = [
     "ballot": "presidential",
     "tikTvd": "2512000753142",
     "tikName": "Видяевская",
+    "regionCode": "51",
+    "regionTvd": "100100339411244",
+    "regionName": "Мурманская область",
     "uikCount": 3,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 2335,
@@ -1161,6 +1206,9 @@ export const president_2024_tic_227_region_51 = [
     "ballot": "presidential",
     "tikTvd": "2512000753143",
     "tikName": "Оленегорская",
+    "regionCode": "51",
+    "regionTvd": "100100339411244",
+    "regionName": "Мурманская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 16507,
@@ -1219,6 +1267,9 @@ export const president_2024_tic_227_region_51 = [
     "ballot": "presidential",
     "tikTvd": "2512000753144",
     "tikName": "Ковдорская",
+    "regionCode": "51",
+    "regionTvd": "100100339411244",
+    "regionName": "Мурманская область",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 12905,

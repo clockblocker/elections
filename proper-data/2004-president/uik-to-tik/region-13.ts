@@ -7,5299 +7,9714 @@ export const president_2004_uik_to_tik_region_13 = [
   {
     "uikNumber": 1,
     "uikTvd": "413400174135",
+    "uikName": "УИК №1",
     "tikTvd": "213200093824",
-    "tikName": "Ардатовская"
+    "tikName": "Ардатовская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 2,
     "uikTvd": "413400174136",
+    "uikName": "УИК №2",
     "tikTvd": "213200093824",
-    "tikName": "Ардатовская"
+    "tikName": "Ардатовская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 3,
     "uikTvd": "413400174137",
+    "uikName": "УИК №3",
     "tikTvd": "213200093824",
-    "tikName": "Ардатовская"
+    "tikName": "Ардатовская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 4,
     "uikTvd": "413400174138",
+    "uikName": "УИК №4",
     "tikTvd": "213200093824",
-    "tikName": "Ардатовская"
+    "tikName": "Ардатовская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 5,
     "uikTvd": "413400174139",
+    "uikName": "УИК №5",
     "tikTvd": "213200093824",
-    "tikName": "Ардатовская"
+    "tikName": "Ардатовская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 6,
     "uikTvd": "413400174140",
+    "uikName": "УИК №6",
     "tikTvd": "213200093824",
-    "tikName": "Ардатовская"
+    "tikName": "Ардатовская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 7,
     "uikTvd": "413400174141",
+    "uikName": "УИК №7",
     "tikTvd": "213200093824",
-    "tikName": "Ардатовская"
+    "tikName": "Ардатовская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 8,
     "uikTvd": "413400174142",
+    "uikName": "УИК №8",
     "tikTvd": "213200093824",
-    "tikName": "Ардатовская"
+    "tikName": "Ардатовская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 9,
     "uikTvd": "413400174143",
+    "uikName": "УИК №9",
     "tikTvd": "213200093824",
-    "tikName": "Ардатовская"
+    "tikName": "Ардатовская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 10,
     "uikTvd": "413400174144",
+    "uikName": "УИК №10",
     "tikTvd": "213200093824",
-    "tikName": "Ардатовская"
+    "tikName": "Ардатовская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 11,
     "uikTvd": "413400174145",
+    "uikName": "УИК №11",
     "tikTvd": "213200093824",
-    "tikName": "Ардатовская"
+    "tikName": "Ардатовская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 12,
     "uikTvd": "413400174146",
+    "uikName": "УИК №12",
     "tikTvd": "213200093824",
-    "tikName": "Ардатовская"
+    "tikName": "Ардатовская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 13,
     "uikTvd": "413400174147",
+    "uikName": "УИК №13",
     "tikTvd": "213200093824",
-    "tikName": "Ардатовская"
+    "tikName": "Ардатовская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 14,
     "uikTvd": "413400174148",
+    "uikName": "УИК №14",
     "tikTvd": "213200093824",
-    "tikName": "Ардатовская"
+    "tikName": "Ардатовская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 15,
     "uikTvd": "413400174149",
+    "uikName": "УИК №15",
     "tikTvd": "213200093824",
-    "tikName": "Ардатовская"
+    "tikName": "Ардатовская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 16,
     "uikTvd": "413400174150",
+    "uikName": "УИК №16",
     "tikTvd": "213200093824",
-    "tikName": "Ардатовская"
+    "tikName": "Ардатовская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 17,
     "uikTvd": "413400174151",
+    "uikName": "УИК №17",
     "tikTvd": "213200093824",
-    "tikName": "Ардатовская"
+    "tikName": "Ардатовская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 18,
     "uikTvd": "413400174152",
+    "uikName": "УИК №18",
     "tikTvd": "213200093824",
-    "tikName": "Ардатовская"
+    "tikName": "Ардатовская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 19,
     "uikTvd": "413400174153",
+    "uikName": "УИК №19",
     "tikTvd": "213200093824",
-    "tikName": "Ардатовская"
+    "tikName": "Ардатовская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 20,
     "uikTvd": "413400174154",
+    "uikName": "УИК №20",
     "tikTvd": "213200093824",
-    "tikName": "Ардатовская"
+    "tikName": "Ардатовская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 21,
     "uikTvd": "413400174155",
+    "uikName": "УИК №21",
     "tikTvd": "213200093824",
-    "tikName": "Ардатовская"
+    "tikName": "Ардатовская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 22,
     "uikTvd": "413400174156",
+    "uikName": "УИК №22",
     "tikTvd": "213200093824",
-    "tikName": "Ардатовская"
+    "tikName": "Ардатовская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 23,
     "uikTvd": "413400174157",
+    "uikName": "УИК №23",
     "tikTvd": "213200093824",
-    "tikName": "Ардатовская"
+    "tikName": "Ардатовская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 24,
     "uikTvd": "413400174158",
+    "uikName": "УИК №24",
     "tikTvd": "213200093824",
-    "tikName": "Ардатовская"
+    "tikName": "Ардатовская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 25,
     "uikTvd": "413400174159",
+    "uikName": "УИК №25",
     "tikTvd": "213200093824",
-    "tikName": "Ардатовская"
+    "tikName": "Ардатовская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 26,
     "uikTvd": "413400174160",
+    "uikName": "УИК №26",
     "tikTvd": "213200093824",
-    "tikName": "Ардатовская"
+    "tikName": "Ардатовская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 27,
     "uikTvd": "413400174161",
+    "uikName": "УИК №27",
     "tikTvd": "213200093824",
-    "tikName": "Ардатовская"
+    "tikName": "Ардатовская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 28,
     "uikTvd": "413400174162",
+    "uikName": "УИК №28",
     "tikTvd": "213200093824",
-    "tikName": "Ардатовская"
+    "tikName": "Ардатовская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 29,
     "uikTvd": "413400174163",
+    "uikName": "УИК №29",
     "tikTvd": "213200093824",
-    "tikName": "Ардатовская"
+    "tikName": "Ардатовская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 30,
     "uikTvd": "413400174164",
+    "uikName": "УИК №30",
     "tikTvd": "213200093824",
-    "tikName": "Ардатовская"
+    "tikName": "Ардатовская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 31,
     "uikTvd": "413400174165",
+    "uikName": "УИК №31",
     "tikTvd": "213200093824",
-    "tikName": "Ардатовская"
+    "tikName": "Ардатовская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 32,
     "uikTvd": "413400174166",
+    "uikName": "УИК №32",
     "tikTvd": "213200093824",
-    "tikName": "Ардатовская"
+    "tikName": "Ардатовская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 33,
     "uikTvd": "413400174167",
+    "uikName": "УИК №33",
     "tikTvd": "213200093824",
-    "tikName": "Ардатовская"
+    "tikName": "Ардатовская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 34,
     "uikTvd": "413400174168",
+    "uikName": "УИК №34",
     "tikTvd": "213200093824",
-    "tikName": "Ардатовская"
+    "tikName": "Ардатовская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 35,
     "uikTvd": "413400174169",
+    "uikName": "УИК №35",
     "tikTvd": "213200093824",
-    "tikName": "Ардатовская"
+    "tikName": "Ардатовская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 36,
     "uikTvd": "413400174170",
+    "uikName": "УИК №36",
     "tikTvd": "213200093824",
-    "tikName": "Ардатовская"
+    "tikName": "Ардатовская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 37,
     "uikTvd": "413400174171",
+    "uikName": "УИК №37",
     "tikTvd": "213200093824",
-    "tikName": "Ардатовская"
+    "tikName": "Ардатовская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 38,
     "uikTvd": "413400174172",
+    "uikName": "УИК №38",
     "tikTvd": "213200093824",
-    "tikName": "Ардатовская"
+    "tikName": "Ардатовская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 39,
     "uikTvd": "413400174173",
+    "uikName": "УИК №39",
     "tikTvd": "213200093824",
-    "tikName": "Ардатовская"
+    "tikName": "Ардатовская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 40,
     "uikTvd": "413400174174",
+    "uikName": "УИК №40",
     "tikTvd": "213200093824",
-    "tikName": "Ардатовская"
+    "tikName": "Ардатовская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 41,
     "uikTvd": "413400174175",
+    "uikName": "УИК №41",
     "tikTvd": "213200093824",
-    "tikName": "Ардатовская"
+    "tikName": "Ардатовская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 42,
     "uikTvd": "413400174176",
+    "uikName": "УИК №42",
     "tikTvd": "213200093824",
-    "tikName": "Ардатовская"
+    "tikName": "Ардатовская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 43,
     "uikTvd": "413400174177",
+    "uikName": "УИК №43",
     "tikTvd": "213200093824",
-    "tikName": "Ардатовская"
+    "tikName": "Ардатовская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 44,
     "uikTvd": "413400174178",
+    "uikName": "УИК №44",
     "tikTvd": "213200093824",
-    "tikName": "Ардатовская"
+    "tikName": "Ардатовская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 45,
     "uikTvd": "413400174179",
+    "uikName": "УИК №45",
     "tikTvd": "213200093824",
-    "tikName": "Ардатовская"
+    "tikName": "Ардатовская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 46,
     "uikTvd": "413400174180",
+    "uikName": "УИК №46",
     "tikTvd": "213200093824",
-    "tikName": "Ардатовская"
+    "tikName": "Ардатовская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 47,
     "uikTvd": "413400174181",
+    "uikName": "УИК №47",
     "tikTvd": "213200093824",
-    "tikName": "Ардатовская"
+    "tikName": "Ардатовская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 48,
     "uikTvd": "413400273325",
+    "uikName": "УИК №48",
     "tikTvd": "213200093823",
-    "tikName": "Атюрьевская "
+    "tikName": "Атюрьевская ",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 49,
     "uikTvd": "413400273326",
+    "uikName": "УИК №49",
     "tikTvd": "213200093823",
-    "tikName": "Атюрьевская "
+    "tikName": "Атюрьевская ",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 50,
     "uikTvd": "413400273327",
+    "uikName": "УИК №50",
     "tikTvd": "213200093823",
-    "tikName": "Атюрьевская "
+    "tikName": "Атюрьевская ",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 51,
     "uikTvd": "413400273328",
+    "uikName": "УИК №51",
     "tikTvd": "213200093823",
-    "tikName": "Атюрьевская "
+    "tikName": "Атюрьевская ",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 52,
     "uikTvd": "413400273329",
+    "uikName": "УИК №52",
     "tikTvd": "213200093823",
-    "tikName": "Атюрьевская "
+    "tikName": "Атюрьевская ",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 53,
     "uikTvd": "413400273330",
+    "uikName": "УИК №53",
     "tikTvd": "213200093823",
-    "tikName": "Атюрьевская "
+    "tikName": "Атюрьевская ",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 54,
     "uikTvd": "413400273331",
+    "uikName": "УИК №54",
     "tikTvd": "213200093823",
-    "tikName": "Атюрьевская "
+    "tikName": "Атюрьевская ",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 55,
     "uikTvd": "413400273332",
+    "uikName": "УИК №55",
     "tikTvd": "213200093823",
-    "tikName": "Атюрьевская "
+    "tikName": "Атюрьевская ",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 56,
     "uikTvd": "413400273333",
+    "uikName": "УИК №56",
     "tikTvd": "213200093823",
-    "tikName": "Атюрьевская "
+    "tikName": "Атюрьевская ",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 57,
     "uikTvd": "413400273334",
+    "uikName": "УИК №57",
     "tikTvd": "213200093823",
-    "tikName": "Атюрьевская "
+    "tikName": "Атюрьевская ",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 58,
     "uikTvd": "413400273335",
+    "uikName": "УИК №58",
     "tikTvd": "213200093823",
-    "tikName": "Атюрьевская "
+    "tikName": "Атюрьевская ",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 59,
     "uikTvd": "413400273336",
+    "uikName": "УИК №59",
     "tikTvd": "213200093823",
-    "tikName": "Атюрьевская "
+    "tikName": "Атюрьевская ",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 60,
     "uikTvd": "413400273337",
+    "uikName": "УИК №60",
     "tikTvd": "213200093823",
-    "tikName": "Атюрьевская "
+    "tikName": "Атюрьевская ",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 61,
     "uikTvd": "413400273338",
+    "uikName": "УИК №61",
     "tikTvd": "213200093823",
-    "tikName": "Атюрьевская "
+    "tikName": "Атюрьевская ",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 62,
     "uikTvd": "413400273339",
+    "uikName": "УИК №62",
     "tikTvd": "213200093823",
-    "tikName": "Атюрьевская "
+    "tikName": "Атюрьевская ",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 63,
     "uikTvd": "413400273340",
+    "uikName": "УИК №63",
     "tikTvd": "213200093823",
-    "tikName": "Атюрьевская "
+    "tikName": "Атюрьевская ",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 64,
     "uikTvd": "413400273341",
+    "uikName": "УИК №64",
     "tikTvd": "213200093823",
-    "tikName": "Атюрьевская "
+    "tikName": "Атюрьевская ",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 65,
     "uikTvd": "413400273342",
+    "uikName": "УИК №65",
     "tikTvd": "213200093823",
-    "tikName": "Атюрьевская "
+    "tikName": "Атюрьевская ",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 66,
     "uikTvd": "413400273343",
+    "uikName": "УИК №66",
     "tikTvd": "213200093823",
-    "tikName": "Атюрьевская "
+    "tikName": "Атюрьевская ",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 67,
     "uikTvd": "413400273344",
+    "uikName": "УИК №67",
     "tikTvd": "213200093823",
-    "tikName": "Атюрьевская "
+    "tikName": "Атюрьевская ",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 68,
     "uikTvd": "413400273345",
+    "uikName": "УИК №68",
     "tikTvd": "213200093823",
-    "tikName": "Атюрьевская "
+    "tikName": "Атюрьевская ",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 69,
     "uikTvd": "413400273346",
+    "uikName": "УИК №69",
     "tikTvd": "213200093823",
-    "tikName": "Атюрьевская "
+    "tikName": "Атюрьевская ",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 70,
     "uikTvd": "413400273347",
+    "uikName": "УИК №70",
     "tikTvd": "213200093823",
-    "tikName": "Атюрьевская "
+    "tikName": "Атюрьевская ",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 71,
     "uikTvd": "413400273348",
+    "uikName": "УИК №71",
     "tikTvd": "213200093823",
-    "tikName": "Атюрьевская "
+    "tikName": "Атюрьевская ",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 72,
     "uikTvd": "413400273349",
+    "uikName": "УИК №72",
     "tikTvd": "213200093823",
-    "tikName": "Атюрьевская "
+    "tikName": "Атюрьевская ",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 73,
     "uikTvd": "413400373890",
+    "uikName": "УИК №73",
     "tikTvd": "213200093822",
-    "tikName": "Атяшевская"
+    "tikName": "Атяшевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 74,
     "uikTvd": "413400373891",
+    "uikName": "УИК №74",
     "tikTvd": "213200093822",
-    "tikName": "Атяшевская"
+    "tikName": "Атяшевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 75,
     "uikTvd": "413400373892",
+    "uikName": "УИК №75",
     "tikTvd": "213200093822",
-    "tikName": "Атяшевская"
+    "tikName": "Атяшевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 76,
     "uikTvd": "413400373893",
+    "uikName": "УИК №76",
     "tikTvd": "213200093822",
-    "tikName": "Атяшевская"
+    "tikName": "Атяшевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 77,
     "uikTvd": "413400373894",
+    "uikName": "УИК №77",
     "tikTvd": "213200093822",
-    "tikName": "Атяшевская"
+    "tikName": "Атяшевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 78,
     "uikTvd": "413400373895",
+    "uikName": "УИК №78",
     "tikTvd": "213200093822",
-    "tikName": "Атяшевская"
+    "tikName": "Атяшевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 79,
     "uikTvd": "413400373896",
+    "uikName": "УИК №79",
     "tikTvd": "213200093822",
-    "tikName": "Атяшевская"
+    "tikName": "Атяшевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 80,
     "uikTvd": "413400373897",
+    "uikName": "УИК №80",
     "tikTvd": "213200093822",
-    "tikName": "Атяшевская"
+    "tikName": "Атяшевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 81,
     "uikTvd": "413400373898",
+    "uikName": "УИК №81",
     "tikTvd": "213200093822",
-    "tikName": "Атяшевская"
+    "tikName": "Атяшевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 82,
     "uikTvd": "413400373899",
+    "uikName": "УИК №82",
     "tikTvd": "213200093822",
-    "tikName": "Атяшевская"
+    "tikName": "Атяшевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 83,
     "uikTvd": "413400373900",
+    "uikName": "УИК №83",
     "tikTvd": "213200093822",
-    "tikName": "Атяшевская"
+    "tikName": "Атяшевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 84,
     "uikTvd": "413400373901",
+    "uikName": "УИК №84",
     "tikTvd": "213200093822",
-    "tikName": "Атяшевская"
+    "tikName": "Атяшевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 85,
     "uikTvd": "413400373902",
+    "uikName": "УИК №85",
     "tikTvd": "213200093822",
-    "tikName": "Атяшевская"
+    "tikName": "Атяшевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 86,
     "uikTvd": "413400373903",
+    "uikName": "УИК №86",
     "tikTvd": "213200093822",
-    "tikName": "Атяшевская"
+    "tikName": "Атяшевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 87,
     "uikTvd": "413400373904",
+    "uikName": "УИК №87",
     "tikTvd": "213200093822",
-    "tikName": "Атяшевская"
+    "tikName": "Атяшевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 88,
     "uikTvd": "413400373905",
+    "uikName": "УИК №88",
     "tikTvd": "213200093822",
-    "tikName": "Атяшевская"
+    "tikName": "Атяшевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 89,
     "uikTvd": "413400373906",
+    "uikName": "УИК №89",
     "tikTvd": "213200093822",
-    "tikName": "Атяшевская"
+    "tikName": "Атяшевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 90,
     "uikTvd": "413400373907",
+    "uikName": "УИК №90",
     "tikTvd": "213200093822",
-    "tikName": "Атяшевская"
+    "tikName": "Атяшевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 91,
     "uikTvd": "413400373908",
+    "uikName": "УИК №91",
     "tikTvd": "213200093822",
-    "tikName": "Атяшевская"
+    "tikName": "Атяшевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 92,
     "uikTvd": "413400373909",
+    "uikName": "УИК №92",
     "tikTvd": "213200093822",
-    "tikName": "Атяшевская"
+    "tikName": "Атяшевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 93,
     "uikTvd": "413400373910",
+    "uikName": "УИК №93",
     "tikTvd": "213200093822",
-    "tikName": "Атяшевская"
+    "tikName": "Атяшевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 94,
     "uikTvd": "413400373911",
+    "uikName": "УИК №94",
     "tikTvd": "213200093822",
-    "tikName": "Атяшевская"
+    "tikName": "Атяшевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 95,
     "uikTvd": "413400373912",
+    "uikName": "УИК №95",
     "tikTvd": "213200093822",
-    "tikName": "Атяшевская"
+    "tikName": "Атяшевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 96,
     "uikTvd": "413400373913",
+    "uikName": "УИК №96",
     "tikTvd": "213200093822",
-    "tikName": "Атяшевская"
+    "tikName": "Атяшевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 97,
     "uikTvd": "413400373914",
+    "uikName": "УИК №97",
     "tikTvd": "213200093822",
-    "tikName": "Атяшевская"
+    "tikName": "Атяшевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 98,
     "uikTvd": "413400373915",
+    "uikName": "УИК №98",
     "tikTvd": "213200093822",
-    "tikName": "Атяшевская"
+    "tikName": "Атяшевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 99,
     "uikTvd": "413400373916",
+    "uikName": "УИК №99",
     "tikTvd": "213200093822",
-    "tikName": "Атяшевская"
+    "tikName": "Атяшевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 100,
     "uikTvd": "413400373917",
+    "uikName": "УИК №100",
     "tikTvd": "213200093822",
-    "tikName": "Атяшевская"
+    "tikName": "Атяшевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 101,
     "uikTvd": "413400373918",
+    "uikName": "УИК №101",
     "tikTvd": "213200093822",
-    "tikName": "Атяшевская"
+    "tikName": "Атяшевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 102,
     "uikTvd": "413400373919",
+    "uikName": "УИК №102",
     "tikTvd": "213200093822",
-    "tikName": "Атяшевская"
+    "tikName": "Атяшевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 103,
     "uikTvd": "413400373920",
+    "uikName": "УИК №103",
     "tikTvd": "213200093822",
-    "tikName": "Атяшевская"
+    "tikName": "Атяшевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 104,
     "uikTvd": "413400373921",
+    "uikName": "УИК №104",
     "tikTvd": "213200093822",
-    "tikName": "Атяшевская"
+    "tikName": "Атяшевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 105,
     "uikTvd": "413400373922",
+    "uikName": "УИК №105",
     "tikTvd": "213200093822",
-    "tikName": "Атяшевская"
+    "tikName": "Атяшевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 106,
     "uikTvd": "413400373923",
+    "uikName": "УИК №106",
     "tikTvd": "213200093822",
-    "tikName": "Атяшевская"
+    "tikName": "Атяшевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 107,
     "uikTvd": "413400373924",
+    "uikName": "УИК №107",
     "tikTvd": "213200093822",
-    "tikName": "Атяшевская"
+    "tikName": "Атяшевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 108,
     "uikTvd": "413400373925",
+    "uikName": "УИК №108",
     "tikTvd": "213200093822",
-    "tikName": "Атяшевская"
+    "tikName": "Атяшевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 109,
     "uikTvd": "413400373926",
+    "uikName": "УИК №109",
     "tikTvd": "213200093822",
-    "tikName": "Атяшевская"
+    "tikName": "Атяшевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 110,
     "uikTvd": "413400373927",
+    "uikName": "УИК №110",
     "tikTvd": "213200093822",
-    "tikName": "Атяшевская"
+    "tikName": "Атяшевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 111,
     "uikTvd": "413400373928",
+    "uikName": "УИК №111",
     "tikTvd": "213200093822",
-    "tikName": "Атяшевская"
+    "tikName": "Атяшевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 112,
     "uikTvd": "413400373929",
+    "uikName": "УИК №112",
     "tikTvd": "213200093822",
-    "tikName": "Атяшевская"
+    "tikName": "Атяшевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 113,
     "uikTvd": "413400373888",
+    "uikName": "УИК №113",
     "tikTvd": "213200093822",
-    "tikName": "Атяшевская"
+    "tikName": "Атяшевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 114,
     "uikTvd": "413400473362",
+    "uikName": "УИК №114",
     "tikTvd": "213200093821",
-    "tikName": "Большеберезниковская"
+    "tikName": "Большеберезниковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 115,
     "uikTvd": "413400473363",
+    "uikName": "УИК №115",
     "tikTvd": "213200093821",
-    "tikName": "Большеберезниковская"
+    "tikName": "Большеберезниковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 116,
     "uikTvd": "413400473364",
+    "uikName": "УИК №116",
     "tikTvd": "213200093821",
-    "tikName": "Большеберезниковская"
+    "tikName": "Большеберезниковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 117,
     "uikTvd": "413400473365",
+    "uikName": "УИК №117",
     "tikTvd": "213200093821",
-    "tikName": "Большеберезниковская"
+    "tikName": "Большеберезниковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 118,
     "uikTvd": "413400473366",
+    "uikName": "УИК №118",
     "tikTvd": "213200093821",
-    "tikName": "Большеберезниковская"
+    "tikName": "Большеберезниковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 119,
     "uikTvd": "413400473367",
+    "uikName": "УИК №119",
     "tikTvd": "213200093821",
-    "tikName": "Большеберезниковская"
+    "tikName": "Большеберезниковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 120,
     "uikTvd": "413400473368",
+    "uikName": "УИК №120",
     "tikTvd": "213200093821",
-    "tikName": "Большеберезниковская"
+    "tikName": "Большеберезниковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 121,
     "uikTvd": "413400473369",
+    "uikName": "УИК №121",
     "tikTvd": "213200093821",
-    "tikName": "Большеберезниковская"
+    "tikName": "Большеберезниковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 122,
     "uikTvd": "413400473370",
+    "uikName": "УИК №122",
     "tikTvd": "213200093821",
-    "tikName": "Большеберезниковская"
+    "tikName": "Большеберезниковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 123,
     "uikTvd": "413400473371",
+    "uikName": "УИК №123",
     "tikTvd": "213200093821",
-    "tikName": "Большеберезниковская"
+    "tikName": "Большеберезниковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 124,
     "uikTvd": "413400473372",
+    "uikName": "УИК №124",
     "tikTvd": "213200093821",
-    "tikName": "Большеберезниковская"
+    "tikName": "Большеберезниковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 125,
     "uikTvd": "413400473373",
+    "uikName": "УИК №125",
     "tikTvd": "213200093821",
-    "tikName": "Большеберезниковская"
+    "tikName": "Большеберезниковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 126,
     "uikTvd": "413400473374",
+    "uikName": "УИК №126",
     "tikTvd": "213200093821",
-    "tikName": "Большеберезниковская"
+    "tikName": "Большеберезниковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 127,
     "uikTvd": "413400473375",
+    "uikName": "УИК №127",
     "tikTvd": "213200093821",
-    "tikName": "Большеберезниковская"
+    "tikName": "Большеберезниковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 128,
     "uikTvd": "413400473376",
+    "uikName": "УИК №128",
     "tikTvd": "213200093821",
-    "tikName": "Большеберезниковская"
+    "tikName": "Большеберезниковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 129,
     "uikTvd": "413400473377",
+    "uikName": "УИК №129",
     "tikTvd": "213200093821",
-    "tikName": "Большеберезниковская"
+    "tikName": "Большеберезниковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 130,
     "uikTvd": "413400473378",
+    "uikName": "УИК №130",
     "tikTvd": "213200093821",
-    "tikName": "Большеберезниковская"
+    "tikName": "Большеберезниковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 131,
     "uikTvd": "413400473379",
+    "uikName": "УИК №131",
     "tikTvd": "213200093821",
-    "tikName": "Большеберезниковская"
+    "tikName": "Большеберезниковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 132,
     "uikTvd": "413400473380",
+    "uikName": "УИК №132",
     "tikTvd": "213200093821",
-    "tikName": "Большеберезниковская"
+    "tikName": "Большеберезниковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 133,
     "uikTvd": "413400473381",
+    "uikName": "УИК №133",
     "tikTvd": "213200093821",
-    "tikName": "Большеберезниковская"
+    "tikName": "Большеберезниковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 134,
     "uikTvd": "413400473382",
+    "uikName": "УИК №134",
     "tikTvd": "213200093821",
-    "tikName": "Большеберезниковская"
+    "tikName": "Большеберезниковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 135,
     "uikTvd": "413400473383",
+    "uikName": "УИК №135",
     "tikTvd": "213200093821",
-    "tikName": "Большеберезниковская"
+    "tikName": "Большеберезниковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 136,
     "uikTvd": "413400473384",
+    "uikName": "УИК №136",
     "tikTvd": "213200093821",
-    "tikName": "Большеберезниковская"
+    "tikName": "Большеберезниковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 137,
     "uikTvd": "413400473385",
+    "uikName": "УИК №137",
     "tikTvd": "213200093821",
-    "tikName": "Большеберезниковская"
+    "tikName": "Большеберезниковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 138,
     "uikTvd": "413400473386",
+    "uikName": "УИК №138",
     "tikTvd": "213200093821",
-    "tikName": "Большеберезниковская"
+    "tikName": "Большеберезниковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 139,
     "uikTvd": "413400572479",
+    "uikName": "УИК №139",
     "tikTvd": "213200093845",
-    "tikName": "Большеигнатовская"
+    "tikName": "Большеигнатовская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 140,
     "uikTvd": "413400572480",
+    "uikName": "УИК №140",
     "tikTvd": "213200093845",
-    "tikName": "Большеигнатовская"
+    "tikName": "Большеигнатовская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 141,
     "uikTvd": "413400572481",
+    "uikName": "УИК №141",
     "tikTvd": "213200093845",
-    "tikName": "Большеигнатовская"
+    "tikName": "Большеигнатовская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 142,
     "uikTvd": "413400572482",
+    "uikName": "УИК №142",
     "tikTvd": "213200093845",
-    "tikName": "Большеигнатовская"
+    "tikName": "Большеигнатовская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 143,
     "uikTvd": "413400572483",
+    "uikName": "УИК №143",
     "tikTvd": "213200093845",
-    "tikName": "Большеигнатовская"
+    "tikName": "Большеигнатовская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 144,
     "uikTvd": "413400572484",
+    "uikName": "УИК №144",
     "tikTvd": "213200093845",
-    "tikName": "Большеигнатовская"
+    "tikName": "Большеигнатовская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 145,
     "uikTvd": "413400572485",
+    "uikName": "УИК №145",
     "tikTvd": "213200093845",
-    "tikName": "Большеигнатовская"
+    "tikName": "Большеигнатовская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 146,
     "uikTvd": "413400572486",
+    "uikName": "УИК №146",
     "tikTvd": "213200093845",
-    "tikName": "Большеигнатовская"
+    "tikName": "Большеигнатовская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 147,
     "uikTvd": "413400572487",
+    "uikName": "УИК №147",
     "tikTvd": "213200093845",
-    "tikName": "Большеигнатовская"
+    "tikName": "Большеигнатовская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 148,
     "uikTvd": "413400572488",
+    "uikName": "УИК №148",
     "tikTvd": "213200093845",
-    "tikName": "Большеигнатовская"
+    "tikName": "Большеигнатовская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 149,
     "uikTvd": "413400572489",
+    "uikName": "УИК №149",
     "tikTvd": "213200093845",
-    "tikName": "Большеигнатовская"
+    "tikName": "Большеигнатовская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 150,
     "uikTvd": "413400572490",
+    "uikName": "УИК №150",
     "tikTvd": "213200093845",
-    "tikName": "Большеигнатовская"
+    "tikName": "Большеигнатовская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 151,
     "uikTvd": "413400572491",
+    "uikName": "УИК №151",
     "tikTvd": "213200093845",
-    "tikName": "Большеигнатовская"
+    "tikName": "Большеигнатовская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 152,
     "uikTvd": "413400572492",
+    "uikName": "УИК №152",
     "tikTvd": "213200093845",
-    "tikName": "Большеигнатовская"
+    "tikName": "Большеигнатовская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 153,
     "uikTvd": "413400572493",
+    "uikName": "УИК №153",
     "tikTvd": "213200093845",
-    "tikName": "Большеигнатовская"
+    "tikName": "Большеигнатовская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 154,
     "uikTvd": "413400572494",
+    "uikName": "УИК №154",
     "tikTvd": "213200093845",
-    "tikName": "Большеигнатовская"
+    "tikName": "Большеигнатовская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 155,
     "uikTvd": "413400572495",
+    "uikName": "УИК №155",
     "tikTvd": "213200093845",
-    "tikName": "Большеигнатовская"
+    "tikName": "Большеигнатовская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 156,
     "uikTvd": "413400572496",
+    "uikName": "УИК №156",
     "tikTvd": "213200093845",
-    "tikName": "Большеигнатовская"
+    "tikName": "Большеигнатовская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 157,
     "uikTvd": "413400572497",
+    "uikName": "УИК №157",
     "tikTvd": "213200093845",
-    "tikName": "Большеигнатовская"
+    "tikName": "Большеигнатовская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 158,
     "uikTvd": "413400572498",
+    "uikName": "УИК №158",
     "tikTvd": "213200093845",
-    "tikName": "Большеигнатовская"
+    "tikName": "Большеигнатовская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 159,
     "uikTvd": "413400572499",
+    "uikName": "УИК №159",
     "tikTvd": "213200093845",
-    "tikName": "Большеигнатовская"
+    "tikName": "Большеигнатовская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 160,
     "uikTvd": "413400672881",
+    "uikName": "УИК №160",
     "tikTvd": "213200093843",
-    "tikName": "Дубенская"
+    "tikName": "Дубенская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 161,
     "uikTvd": "413400672882",
+    "uikName": "УИК №161",
     "tikTvd": "213200093843",
-    "tikName": "Дубенская"
+    "tikName": "Дубенская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 162,
     "uikTvd": "413400672883",
+    "uikName": "УИК №162",
     "tikTvd": "213200093843",
-    "tikName": "Дубенская"
+    "tikName": "Дубенская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 163,
     "uikTvd": "413400672884",
+    "uikName": "УИК №163",
     "tikTvd": "213200093843",
-    "tikName": "Дубенская"
+    "tikName": "Дубенская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 164,
     "uikTvd": "413400672885",
+    "uikName": "УИК №164",
     "tikTvd": "213200093843",
-    "tikName": "Дубенская"
+    "tikName": "Дубенская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 165,
     "uikTvd": "413400672886",
+    "uikName": "УИК №165",
     "tikTvd": "213200093843",
-    "tikName": "Дубенская"
+    "tikName": "Дубенская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 166,
     "uikTvd": "413400672887",
+    "uikName": "УИК №166",
     "tikTvd": "213200093843",
-    "tikName": "Дубенская"
+    "tikName": "Дубенская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 167,
     "uikTvd": "413400672888",
+    "uikName": "УИК №167",
     "tikTvd": "213200093843",
-    "tikName": "Дубенская"
+    "tikName": "Дубенская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 168,
     "uikTvd": "413400672889",
+    "uikName": "УИК №168",
     "tikTvd": "213200093843",
-    "tikName": "Дубенская"
+    "tikName": "Дубенская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 169,
     "uikTvd": "413400672890",
+    "uikName": "УИК №169",
     "tikTvd": "213200093843",
-    "tikName": "Дубенская"
+    "tikName": "Дубенская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 170,
     "uikTvd": "413400672891",
+    "uikName": "УИК №170",
     "tikTvd": "213200093843",
-    "tikName": "Дубенская"
+    "tikName": "Дубенская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 171,
     "uikTvd": "413400672892",
+    "uikName": "УИК №171",
     "tikTvd": "213200093843",
-    "tikName": "Дубенская"
+    "tikName": "Дубенская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 172,
     "uikTvd": "413400672893",
+    "uikName": "УИК №172",
     "tikTvd": "213200093843",
-    "tikName": "Дубенская"
+    "tikName": "Дубенская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 173,
     "uikTvd": "413400672894",
+    "uikName": "УИК №173",
     "tikTvd": "213200093843",
-    "tikName": "Дубенская"
+    "tikName": "Дубенская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 174,
     "uikTvd": "413400672895",
+    "uikName": "УИК №174",
     "tikTvd": "213200093843",
-    "tikName": "Дубенская"
+    "tikName": "Дубенская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 175,
     "uikTvd": "413400672896",
+    "uikName": "УИК №175",
     "tikTvd": "213200093843",
-    "tikName": "Дубенская"
+    "tikName": "Дубенская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 176,
     "uikTvd": "413400672897",
+    "uikName": "УИК №176",
     "tikTvd": "213200093843",
-    "tikName": "Дубенская"
+    "tikName": "Дубенская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 177,
     "uikTvd": "413400672898",
+    "uikName": "УИК №177",
     "tikTvd": "213200093843",
-    "tikName": "Дубенская"
+    "tikName": "Дубенская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 178,
     "uikTvd": "413400672899",
+    "uikName": "УИК №178",
     "tikTvd": "213200093843",
-    "tikName": "Дубенская"
+    "tikName": "Дубенская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 179,
     "uikTvd": "413400672900",
+    "uikName": "УИК №179",
     "tikTvd": "213200093843",
-    "tikName": "Дубенская"
+    "tikName": "Дубенская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 180,
     "uikTvd": "413400672901",
+    "uikName": "УИК №180",
     "tikTvd": "213200093843",
-    "tikName": "Дубенская"
+    "tikName": "Дубенская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 181,
     "uikTvd": "413400672902",
+    "uikName": "УИК №181",
     "tikTvd": "213200093843",
-    "tikName": "Дубенская"
+    "tikName": "Дубенская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 182,
     "uikTvd": "413400672903",
+    "uikName": "УИК №182",
     "tikTvd": "213200093843",
-    "tikName": "Дубенская"
+    "tikName": "Дубенская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 183,
     "uikTvd": "413400672904",
+    "uikName": "УИК №183",
     "tikTvd": "213200093843",
-    "tikName": "Дубенская"
+    "tikName": "Дубенская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 184,
     "uikTvd": "413400672879",
+    "uikName": "УИК №184",
     "tikTvd": "213200093843",
-    "tikName": "Дубенская"
+    "tikName": "Дубенская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 185,
     "uikTvd": "413400775862",
+    "uikName": "УИК №185",
     "tikTvd": "213200093844",
-    "tikName": "Ельниковская"
+    "tikName": "Ельниковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 186,
     "uikTvd": "413400775863",
+    "uikName": "УИК №186",
     "tikTvd": "213200093844",
-    "tikName": "Ельниковская"
+    "tikName": "Ельниковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 187,
     "uikTvd": "413400775864",
+    "uikName": "УИК №187",
     "tikTvd": "213200093844",
-    "tikName": "Ельниковская"
+    "tikName": "Ельниковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 188,
     "uikTvd": "413400775865",
+    "uikName": "УИК №188",
     "tikTvd": "213200093844",
-    "tikName": "Ельниковская"
+    "tikName": "Ельниковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 189,
     "uikTvd": "413400775866",
+    "uikName": "УИК №189",
     "tikTvd": "213200093844",
-    "tikName": "Ельниковская"
+    "tikName": "Ельниковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 190,
     "uikTvd": "413400775867",
+    "uikName": "УИК №190",
     "tikTvd": "213200093844",
-    "tikName": "Ельниковская"
+    "tikName": "Ельниковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 191,
     "uikTvd": "413400775868",
+    "uikName": "УИК №191",
     "tikTvd": "213200093844",
-    "tikName": "Ельниковская"
+    "tikName": "Ельниковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 192,
     "uikTvd": "413400775869",
+    "uikName": "УИК №192",
     "tikTvd": "213200093844",
-    "tikName": "Ельниковская"
+    "tikName": "Ельниковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 193,
     "uikTvd": "413400775870",
+    "uikName": "УИК №193",
     "tikTvd": "213200093844",
-    "tikName": "Ельниковская"
+    "tikName": "Ельниковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 194,
     "uikTvd": "413400775871",
+    "uikName": "УИК №194",
     "tikTvd": "213200093844",
-    "tikName": "Ельниковская"
+    "tikName": "Ельниковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 195,
     "uikTvd": "413400775872",
+    "uikName": "УИК №195",
     "tikTvd": "213200093844",
-    "tikName": "Ельниковская"
+    "tikName": "Ельниковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 196,
     "uikTvd": "413400775873",
+    "uikName": "УИК №196",
     "tikTvd": "213200093844",
-    "tikName": "Ельниковская"
+    "tikName": "Ельниковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 197,
     "uikTvd": "413400775874",
+    "uikName": "УИК №197",
     "tikTvd": "213200093844",
-    "tikName": "Ельниковская"
+    "tikName": "Ельниковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 198,
     "uikTvd": "413400775875",
+    "uikName": "УИК №198",
     "tikTvd": "213200093844",
-    "tikName": "Ельниковская"
+    "tikName": "Ельниковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 199,
     "uikTvd": "413400775876",
+    "uikName": "УИК №199",
     "tikTvd": "213200093844",
-    "tikName": "Ельниковская"
+    "tikName": "Ельниковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 200,
     "uikTvd": "413400775877",
+    "uikName": "УИК №200",
     "tikTvd": "213200093844",
-    "tikName": "Ельниковская"
+    "tikName": "Ельниковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 201,
     "uikTvd": "413400775878",
+    "uikName": "УИК №201",
     "tikTvd": "213200093844",
-    "tikName": "Ельниковская"
+    "tikName": "Ельниковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 202,
     "uikTvd": "413400775879",
+    "uikName": "УИК №202",
     "tikTvd": "213200093844",
-    "tikName": "Ельниковская"
+    "tikName": "Ельниковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 203,
     "uikTvd": "413400775880",
+    "uikName": "УИК №203",
     "tikTvd": "213200093844",
-    "tikName": "Ельниковская"
+    "tikName": "Ельниковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 204,
     "uikTvd": "413400775881",
+    "uikName": "УИК №204",
     "tikTvd": "213200093844",
-    "tikName": "Ельниковская"
+    "tikName": "Ельниковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 205,
     "uikTvd": "413400775882",
+    "uikName": "УИК №205",
     "tikTvd": "213200093844",
-    "tikName": "Ельниковская"
+    "tikName": "Ельниковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 206,
     "uikTvd": "413400775883",
+    "uikName": "УИК №206",
     "tikTvd": "213200093844",
-    "tikName": "Ельниковская"
+    "tikName": "Ельниковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 207,
     "uikTvd": "413400775884",
+    "uikName": "УИК №207",
     "tikTvd": "213200093844",
-    "tikName": "Ельниковская"
+    "tikName": "Ельниковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 208,
     "uikTvd": "413400874398",
+    "uikName": "УИК №208",
     "tikTvd": "213200093840",
-    "tikName": "Зубово-Полянская"
+    "tikName": "Зубово-Полянская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 209,
     "uikTvd": "413400874399",
+    "uikName": "УИК №209",
     "tikTvd": "213200093840",
-    "tikName": "Зубово-Полянская"
+    "tikName": "Зубово-Полянская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 210,
     "uikTvd": "413400874400",
+    "uikName": "УИК №210",
     "tikTvd": "213200093840",
-    "tikName": "Зубово-Полянская"
+    "tikName": "Зубово-Полянская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 211,
     "uikTvd": "413400874401",
+    "uikName": "УИК №211",
     "tikTvd": "213200093840",
-    "tikName": "Зубово-Полянская"
+    "tikName": "Зубово-Полянская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 212,
     "uikTvd": "413400874402",
+    "uikName": "УИК №212",
     "tikTvd": "213200093840",
-    "tikName": "Зубово-Полянская"
+    "tikName": "Зубово-Полянская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 213,
     "uikTvd": "413400874403",
+    "uikName": "УИК №213",
     "tikTvd": "213200093840",
-    "tikName": "Зубово-Полянская"
+    "tikName": "Зубово-Полянская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 214,
     "uikTvd": "413400874404",
+    "uikName": "УИК №214",
     "tikTvd": "213200093840",
-    "tikName": "Зубово-Полянская"
+    "tikName": "Зубово-Полянская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 215,
     "uikTvd": "413400874405",
+    "uikName": "УИК №215",
     "tikTvd": "213200093840",
-    "tikName": "Зубово-Полянская"
+    "tikName": "Зубово-Полянская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 216,
     "uikTvd": "413400874406",
+    "uikName": "УИК №216",
     "tikTvd": "213200093840",
-    "tikName": "Зубово-Полянская"
+    "tikName": "Зубово-Полянская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 217,
     "uikTvd": "413400874407",
+    "uikName": "УИК №217",
     "tikTvd": "213200093840",
-    "tikName": "Зубово-Полянская"
+    "tikName": "Зубово-Полянская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 218,
     "uikTvd": "413400874408",
+    "uikName": "УИК №218",
     "tikTvd": "213200093840",
-    "tikName": "Зубово-Полянская"
+    "tikName": "Зубово-Полянская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 219,
     "uikTvd": "413400874409",
+    "uikName": "УИК №219",
     "tikTvd": "213200093840",
-    "tikName": "Зубово-Полянская"
+    "tikName": "Зубово-Полянская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 220,
     "uikTvd": "413400874410",
+    "uikName": "УИК №220",
     "tikTvd": "213200093840",
-    "tikName": "Зубово-Полянская"
+    "tikName": "Зубово-Полянская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 221,
     "uikTvd": "413400874411",
+    "uikName": "УИК №221",
     "tikTvd": "213200093840",
-    "tikName": "Зубово-Полянская"
+    "tikName": "Зубово-Полянская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 222,
     "uikTvd": "413400874412",
+    "uikName": "УИК №222",
     "tikTvd": "213200093840",
-    "tikName": "Зубово-Полянская"
+    "tikName": "Зубово-Полянская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 223,
     "uikTvd": "413400874413",
+    "uikName": "УИК №223",
     "tikTvd": "213200093840",
-    "tikName": "Зубово-Полянская"
+    "tikName": "Зубово-Полянская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 224,
     "uikTvd": "413400874414",
+    "uikName": "УИК №224",
     "tikTvd": "213200093840",
-    "tikName": "Зубово-Полянская"
+    "tikName": "Зубово-Полянская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 225,
     "uikTvd": "413400874415",
+    "uikName": "УИК №225",
     "tikTvd": "213200093840",
-    "tikName": "Зубово-Полянская"
+    "tikName": "Зубово-Полянская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 226,
     "uikTvd": "413400874416",
+    "uikName": "УИК №226",
     "tikTvd": "213200093840",
-    "tikName": "Зубово-Полянская"
+    "tikName": "Зубово-Полянская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 227,
     "uikTvd": "413400874417",
+    "uikName": "УИК №227",
     "tikTvd": "213200093840",
-    "tikName": "Зубово-Полянская"
+    "tikName": "Зубово-Полянская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 228,
     "uikTvd": "413400874418",
+    "uikName": "УИК №228",
     "tikTvd": "213200093840",
-    "tikName": "Зубово-Полянская"
+    "tikName": "Зубово-Полянская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 229,
     "uikTvd": "413400874419",
+    "uikName": "УИК №229",
     "tikTvd": "213200093840",
-    "tikName": "Зубово-Полянская"
+    "tikName": "Зубово-Полянская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 230,
     "uikTvd": "413400874420",
+    "uikName": "УИК №230",
     "tikTvd": "213200093840",
-    "tikName": "Зубово-Полянская"
+    "tikName": "Зубово-Полянская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 231,
     "uikTvd": "413400874421",
+    "uikName": "УИК №231",
     "tikTvd": "213200093840",
-    "tikName": "Зубово-Полянская"
+    "tikName": "Зубово-Полянская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 232,
     "uikTvd": "413400874422",
+    "uikName": "УИК №232",
     "tikTvd": "213200093840",
-    "tikName": "Зубово-Полянская"
+    "tikName": "Зубово-Полянская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 233,
     "uikTvd": "413400874423",
+    "uikName": "УИК №233",
     "tikTvd": "213200093840",
-    "tikName": "Зубово-Полянская"
+    "tikName": "Зубово-Полянская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 234,
     "uikTvd": "413400874424",
+    "uikName": "УИК №234",
     "tikTvd": "213200093840",
-    "tikName": "Зубово-Полянская"
+    "tikName": "Зубово-Полянская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 235,
     "uikTvd": "413400874425",
+    "uikName": "УИК №235",
     "tikTvd": "213200093840",
-    "tikName": "Зубово-Полянская"
+    "tikName": "Зубово-Полянская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 236,
     "uikTvd": "413400874426",
+    "uikName": "УИК №236",
     "tikTvd": "213200093840",
-    "tikName": "Зубово-Полянская"
+    "tikName": "Зубово-Полянская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 237,
     "uikTvd": "413400874427",
+    "uikName": "УИК №237",
     "tikTvd": "213200093840",
-    "tikName": "Зубово-Полянская"
+    "tikName": "Зубово-Полянская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 238,
     "uikTvd": "413400874428",
+    "uikName": "УИК №238",
     "tikTvd": "213200093840",
-    "tikName": "Зубово-Полянская"
+    "tikName": "Зубово-Полянская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 239,
     "uikTvd": "413400874429",
+    "uikName": "УИК №239",
     "tikTvd": "213200093840",
-    "tikName": "Зубово-Полянская"
+    "tikName": "Зубово-Полянская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 240,
     "uikTvd": "413400874430",
+    "uikName": "УИК №240",
     "tikTvd": "213200093840",
-    "tikName": "Зубово-Полянская"
+    "tikName": "Зубово-Полянская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 241,
     "uikTvd": "413400874431",
+    "uikName": "УИК №241",
     "tikTvd": "213200093840",
-    "tikName": "Зубово-Полянская"
+    "tikName": "Зубово-Полянская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 242,
     "uikTvd": "413400874432",
+    "uikName": "УИК №242",
     "tikTvd": "213200093840",
-    "tikName": "Зубово-Полянская"
+    "tikName": "Зубово-Полянская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 243,
     "uikTvd": "413400874433",
+    "uikName": "УИК №243",
     "tikTvd": "213200093840",
-    "tikName": "Зубово-Полянская"
+    "tikName": "Зубово-Полянская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 244,
     "uikTvd": "413400874434",
+    "uikName": "УИК №244",
     "tikTvd": "213200093840",
-    "tikName": "Зубово-Полянская"
+    "tikName": "Зубово-Полянская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 245,
     "uikTvd": "413400874435",
+    "uikName": "УИК №245",
     "tikTvd": "213200093840",
-    "tikName": "Зубово-Полянская"
+    "tikName": "Зубово-Полянская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 246,
     "uikTvd": "413400874436",
+    "uikName": "УИК №246",
     "tikTvd": "213200093840",
-    "tikName": "Зубово-Полянская"
+    "tikName": "Зубово-Полянская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 247,
     "uikTvd": "413400874437",
+    "uikName": "УИК №247",
     "tikTvd": "213200093840",
-    "tikName": "Зубово-Полянская"
+    "tikName": "Зубово-Полянская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 248,
     "uikTvd": "413400874438",
+    "uikName": "УИК №248",
     "tikTvd": "213200093840",
-    "tikName": "Зубово-Полянская"
+    "tikName": "Зубово-Полянская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 249,
     "uikTvd": "413400874439",
+    "uikName": "УИК №249",
     "tikTvd": "213200093840",
-    "tikName": "Зубово-Полянская"
+    "tikName": "Зубово-Полянская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 250,
     "uikTvd": "413400874440",
+    "uikName": "УИК №250",
     "tikTvd": "213200093840",
-    "tikName": "Зубово-Полянская"
+    "tikName": "Зубово-Полянская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 251,
     "uikTvd": "413400874441",
+    "uikName": "УИК №251",
     "tikTvd": "213200093840",
-    "tikName": "Зубово-Полянская"
+    "tikName": "Зубово-Полянская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 252,
     "uikTvd": "413400874442",
+    "uikName": "УИК №252",
     "tikTvd": "213200093840",
-    "tikName": "Зубово-Полянская"
+    "tikName": "Зубово-Полянская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 253,
     "uikTvd": "413400874443",
+    "uikName": "УИК №253",
     "tikTvd": "213200093840",
-    "tikName": "Зубово-Полянская"
+    "tikName": "Зубово-Полянская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 254,
     "uikTvd": "413400874444",
+    "uikName": "УИК №254",
     "tikTvd": "213200093840",
-    "tikName": "Зубово-Полянская"
+    "tikName": "Зубово-Полянская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 255,
     "uikTvd": "413400874445",
+    "uikName": "УИК №255",
     "tikTvd": "213200093840",
-    "tikName": "Зубово-Полянская"
+    "tikName": "Зубово-Полянская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 256,
     "uikTvd": "413400874446",
+    "uikName": "УИК №256",
     "tikTvd": "213200093840",
-    "tikName": "Зубово-Полянская"
+    "tikName": "Зубово-Полянская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 257,
     "uikTvd": "413400874447",
+    "uikName": "УИК №257",
     "tikTvd": "213200093840",
-    "tikName": "Зубово-Полянская"
+    "tikName": "Зубово-Полянская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 258,
     "uikTvd": "413400874448",
+    "uikName": "УИК №258",
     "tikTvd": "213200093840",
-    "tikName": "Зубово-Полянская"
+    "tikName": "Зубово-Полянская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 259,
     "uikTvd": "413400874449",
+    "uikName": "УИК №259",
     "tikTvd": "213200093840",
-    "tikName": "Зубово-Полянская"
+    "tikName": "Зубово-Полянская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 260,
     "uikTvd": "413400874450",
+    "uikName": "УИК №260",
     "tikTvd": "213200093840",
-    "tikName": "Зубово-Полянская"
+    "tikName": "Зубово-Полянская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 261,
     "uikTvd": "413400973377",
+    "uikName": "УИК №261",
     "tikTvd": "213200093841",
-    "tikName": "Инсарская"
+    "tikName": "Инсарская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 262,
     "uikTvd": "413400973378",
+    "uikName": "УИК №262",
     "tikTvd": "213200093841",
-    "tikName": "Инсарская"
+    "tikName": "Инсарская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 263,
     "uikTvd": "413400973379",
+    "uikName": "УИК №263",
     "tikTvd": "213200093841",
-    "tikName": "Инсарская"
+    "tikName": "Инсарская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 264,
     "uikTvd": "413400973380",
+    "uikName": "УИК №264",
     "tikTvd": "213200093841",
-    "tikName": "Инсарская"
+    "tikName": "Инсарская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 265,
     "uikTvd": "413400973381",
+    "uikName": "УИК №265",
     "tikTvd": "213200093841",
-    "tikName": "Инсарская"
+    "tikName": "Инсарская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 266,
     "uikTvd": "413400973382",
+    "uikName": "УИК №266",
     "tikTvd": "213200093841",
-    "tikName": "Инсарская"
+    "tikName": "Инсарская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 267,
     "uikTvd": "413400973383",
+    "uikName": "УИК №267",
     "tikTvd": "213200093841",
-    "tikName": "Инсарская"
+    "tikName": "Инсарская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 268,
     "uikTvd": "413400973384",
+    "uikName": "УИК №268",
     "tikTvd": "213200093841",
-    "tikName": "Инсарская"
+    "tikName": "Инсарская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 269,
     "uikTvd": "413400973385",
+    "uikName": "УИК №269",
     "tikTvd": "213200093841",
-    "tikName": "Инсарская"
+    "tikName": "Инсарская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 270,
     "uikTvd": "413400973386",
+    "uikName": "УИК №270",
     "tikTvd": "213200093841",
-    "tikName": "Инсарская"
+    "tikName": "Инсарская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 271,
     "uikTvd": "413400973387",
+    "uikName": "УИК №271",
     "tikTvd": "213200093841",
-    "tikName": "Инсарская"
+    "tikName": "Инсарская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 272,
     "uikTvd": "413400973388",
+    "uikName": "УИК №272",
     "tikTvd": "213200093841",
-    "tikName": "Инсарская"
+    "tikName": "Инсарская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 273,
     "uikTvd": "413400973389",
+    "uikName": "УИК №273",
     "tikTvd": "213200093841",
-    "tikName": "Инсарская"
+    "tikName": "Инсарская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 274,
     "uikTvd": "413400973390",
+    "uikName": "УИК №274",
     "tikTvd": "213200093841",
-    "tikName": "Инсарская"
+    "tikName": "Инсарская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 275,
     "uikTvd": "413400973391",
+    "uikName": "УИК №275",
     "tikTvd": "213200093841",
-    "tikName": "Инсарская"
+    "tikName": "Инсарская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 276,
     "uikTvd": "413400973392",
+    "uikName": "УИК №276",
     "tikTvd": "213200093841",
-    "tikName": "Инсарская"
+    "tikName": "Инсарская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 277,
     "uikTvd": "413400973393",
+    "uikName": "УИК №277",
     "tikTvd": "213200093841",
-    "tikName": "Инсарская"
+    "tikName": "Инсарская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 278,
     "uikTvd": "413400973394",
+    "uikName": "УИК №278",
     "tikTvd": "213200093841",
-    "tikName": "Инсарская"
+    "tikName": "Инсарская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 279,
     "uikTvd": "413400973395",
+    "uikName": "УИК №279",
     "tikTvd": "213200093841",
-    "tikName": "Инсарская"
+    "tikName": "Инсарская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 280,
     "uikTvd": "413400973396",
+    "uikName": "УИК №280",
     "tikTvd": "213200093841",
-    "tikName": "Инсарская"
+    "tikName": "Инсарская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 281,
     "uikTvd": "413400973397",
+    "uikName": "УИК №281",
     "tikTvd": "213200093841",
-    "tikName": "Инсарская"
+    "tikName": "Инсарская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 282,
     "uikTvd": "413400973398",
+    "uikName": "УИК №282",
     "tikTvd": "213200093841",
-    "tikName": "Инсарская"
+    "tikName": "Инсарская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 283,
     "uikTvd": "413400973399",
+    "uikName": "УИК №283",
     "tikTvd": "213200093841",
-    "tikName": "Инсарская"
+    "tikName": "Инсарская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 284,
     "uikTvd": "413400973400",
+    "uikName": "УИК №284",
     "tikTvd": "213200093841",
-    "tikName": "Инсарская"
+    "tikName": "Инсарская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 285,
     "uikTvd": "413400973401",
+    "uikName": "УИК №285",
     "tikTvd": "213200093841",
-    "tikName": "Инсарская"
+    "tikName": "Инсарская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 286,
     "uikTvd": "413400973402",
+    "uikName": "УИК №286",
     "tikTvd": "213200093841",
-    "tikName": "Инсарская"
+    "tikName": "Инсарская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 287,
     "uikTvd": "413400973403",
+    "uikName": "УИК №287",
     "tikTvd": "213200093841",
-    "tikName": "Инсарская"
+    "tikName": "Инсарская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 288,
     "uikTvd": "413400973404",
+    "uikName": "УИК №288",
     "tikTvd": "213200093841",
-    "tikName": "Инсарская"
+    "tikName": "Инсарская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 289,
     "uikTvd": "413400973405",
+    "uikName": "УИК №289",
     "tikTvd": "213200093841",
-    "tikName": "Инсарская"
+    "tikName": "Инсарская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 290,
     "uikTvd": "413401073918",
+    "uikName": "УИК №290",
     "tikTvd": "213200093842",
-    "tikName": "Ичалковская"
+    "tikName": "Ичалковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 291,
     "uikTvd": "413401073919",
+    "uikName": "УИК №291",
     "tikTvd": "213200093842",
-    "tikName": "Ичалковская"
+    "tikName": "Ичалковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 292,
     "uikTvd": "413401073920",
+    "uikName": "УИК №292",
     "tikTvd": "213200093842",
-    "tikName": "Ичалковская"
+    "tikName": "Ичалковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 293,
     "uikTvd": "413401073921",
+    "uikName": "УИК №293",
     "tikTvd": "213200093842",
-    "tikName": "Ичалковская"
+    "tikName": "Ичалковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 294,
     "uikTvd": "413401073922",
+    "uikName": "УИК №294",
     "tikTvd": "213200093842",
-    "tikName": "Ичалковская"
+    "tikName": "Ичалковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 295,
     "uikTvd": "413401073923",
+    "uikName": "УИК №295",
     "tikTvd": "213200093842",
-    "tikName": "Ичалковская"
+    "tikName": "Ичалковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 296,
     "uikTvd": "413401073924",
+    "uikName": "УИК №296",
     "tikTvd": "213200093842",
-    "tikName": "Ичалковская"
+    "tikName": "Ичалковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 297,
     "uikTvd": "413401073925",
+    "uikName": "УИК №297",
     "tikTvd": "213200093842",
-    "tikName": "Ичалковская"
+    "tikName": "Ичалковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 298,
     "uikTvd": "413401073926",
+    "uikName": "УИК №298",
     "tikTvd": "213200093842",
-    "tikName": "Ичалковская"
+    "tikName": "Ичалковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 299,
     "uikTvd": "413401073927",
+    "uikName": "УИК №299",
     "tikTvd": "213200093842",
-    "tikName": "Ичалковская"
+    "tikName": "Ичалковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 300,
     "uikTvd": "413401073928",
+    "uikName": "УИК №300",
     "tikTvd": "213200093842",
-    "tikName": "Ичалковская"
+    "tikName": "Ичалковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 301,
     "uikTvd": "413401073929",
+    "uikName": "УИК №301",
     "tikTvd": "213200093842",
-    "tikName": "Ичалковская"
+    "tikName": "Ичалковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 302,
     "uikTvd": "413401073930",
+    "uikName": "УИК №302",
     "tikTvd": "213200093842",
-    "tikName": "Ичалковская"
+    "tikName": "Ичалковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 303,
     "uikTvd": "413401073931",
+    "uikName": "УИК №303",
     "tikTvd": "213200093842",
-    "tikName": "Ичалковская"
+    "tikName": "Ичалковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 304,
     "uikTvd": "413401073932",
+    "uikName": "УИК №304",
     "tikTvd": "213200093842",
-    "tikName": "Ичалковская"
+    "tikName": "Ичалковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 305,
     "uikTvd": "413401073933",
+    "uikName": "УИК №305",
     "tikTvd": "213200093842",
-    "tikName": "Ичалковская"
+    "tikName": "Ичалковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 306,
     "uikTvd": "413401073934",
+    "uikName": "УИК №306",
     "tikTvd": "213200093842",
-    "tikName": "Ичалковская"
+    "tikName": "Ичалковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 307,
     "uikTvd": "413401073935",
+    "uikName": "УИК №307",
     "tikTvd": "213200093842",
-    "tikName": "Ичалковская"
+    "tikName": "Ичалковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 308,
     "uikTvd": "413401073936",
+    "uikName": "УИК №308",
     "tikTvd": "213200093842",
-    "tikName": "Ичалковская"
+    "tikName": "Ичалковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 309,
     "uikTvd": "413401073937",
+    "uikName": "УИК №309",
     "tikTvd": "213200093842",
-    "tikName": "Ичалковская"
+    "tikName": "Ичалковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 310,
     "uikTvd": "413401073938",
+    "uikName": "УИК №310",
     "tikTvd": "213200093842",
-    "tikName": "Ичалковская"
+    "tikName": "Ичалковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 311,
     "uikTvd": "413401073939",
+    "uikName": "УИК №311",
     "tikTvd": "213200093842",
-    "tikName": "Ичалковская"
+    "tikName": "Ичалковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 312,
     "uikTvd": "413401073940",
+    "uikName": "УИК №312",
     "tikTvd": "213200093842",
-    "tikName": "Ичалковская"
+    "tikName": "Ичалковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 313,
     "uikTvd": "413401073941",
+    "uikName": "УИК №313",
     "tikTvd": "213200093842",
-    "tikName": "Ичалковская"
+    "tikName": "Ичалковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 314,
     "uikTvd": "413401073942",
+    "uikName": "УИК №314",
     "tikTvd": "213200093842",
-    "tikName": "Ичалковская"
+    "tikName": "Ичалковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 315,
     "uikTvd": "413401073943",
+    "uikName": "УИК №315",
     "tikTvd": "213200093842",
-    "tikName": "Ичалковская"
+    "tikName": "Ичалковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 316,
     "uikTvd": "413401073944",
+    "uikName": "УИК №316",
     "tikTvd": "213200093842",
-    "tikName": "Ичалковская"
+    "tikName": "Ичалковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 317,
     "uikTvd": "413401073945",
+    "uikName": "УИК №317",
     "tikTvd": "213200093842",
-    "tikName": "Ичалковская"
+    "tikName": "Ичалковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 318,
     "uikTvd": "413401073946",
+    "uikName": "УИК №318",
     "tikTvd": "213200093842",
-    "tikName": "Ичалковская"
+    "tikName": "Ичалковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 319,
     "uikTvd": "413401073947",
+    "uikName": "УИК №319",
     "tikTvd": "213200093842",
-    "tikName": "Ичалковская"
+    "tikName": "Ичалковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 320,
     "uikTvd": "413401073948",
+    "uikName": "УИК №320",
     "tikTvd": "213200093842",
-    "tikName": "Ичалковская"
+    "tikName": "Ичалковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 321,
     "uikTvd": "413401073949",
+    "uikName": "УИК №321",
     "tikTvd": "213200093842",
-    "tikName": "Ичалковская"
+    "tikName": "Ичалковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 322,
     "uikTvd": "413401073950",
+    "uikName": "УИК №322",
     "tikTvd": "213200093842",
-    "tikName": "Ичалковская"
+    "tikName": "Ичалковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 323,
     "uikTvd": "413401073951",
+    "uikName": "УИК №323",
     "tikTvd": "213200093842",
-    "tikName": "Ичалковская"
+    "tikName": "Ичалковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 324,
     "uikTvd": "413401073952",
+    "uikName": "УИК №324",
     "tikTvd": "213200093842",
-    "tikName": "Ичалковская"
+    "tikName": "Ичалковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 325,
     "uikTvd": "413401073953",
+    "uikName": "УИК №325",
     "tikTvd": "213200093842",
-    "tikName": "Ичалковская"
+    "tikName": "Ичалковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 326,
     "uikTvd": "413401073954",
+    "uikName": "УИК №326",
     "tikTvd": "213200093842",
-    "tikName": "Ичалковская"
+    "tikName": "Ичалковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 327,
     "uikTvd": "413401073955",
+    "uikName": "УИК №327",
     "tikTvd": "213200093842",
-    "tikName": "Ичалковская"
+    "tikName": "Ичалковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 328,
     "uikTvd": "413401073956",
+    "uikName": "УИК №328",
     "tikTvd": "213200093842",
-    "tikName": "Ичалковская"
+    "tikName": "Ичалковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 329,
     "uikTvd": "413401073957",
+    "uikName": "УИК №329",
     "tikTvd": "213200093842",
-    "tikName": "Ичалковская"
+    "tikName": "Ичалковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 330,
     "uikTvd": "413401073958",
+    "uikName": "УИК №330",
     "tikTvd": "213200093842",
-    "tikName": "Ичалковская"
+    "tikName": "Ичалковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 331,
     "uikTvd": "413401073959",
+    "uikName": "УИК №331",
     "tikTvd": "213200093842",
-    "tikName": "Ичалковская"
+    "tikName": "Ичалковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 332,
     "uikTvd": "413401073960",
+    "uikName": "УИК №332",
     "tikTvd": "213200093842",
-    "tikName": "Ичалковская"
+    "tikName": "Ичалковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 333,
     "uikTvd": "413401073961",
+    "uikName": "УИК №333",
     "tikTvd": "213200093842",
-    "tikName": "Ичалковская"
+    "tikName": "Ичалковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 334,
     "uikTvd": "413401073962",
+    "uikName": "УИК №334",
     "tikTvd": "213200093842",
-    "tikName": "Ичалковская"
+    "tikName": "Ичалковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 335,
     "uikTvd": "413401073963",
+    "uikName": "УИК №335",
     "tikTvd": "213200093842",
-    "tikName": "Ичалковская"
+    "tikName": "Ичалковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 336,
     "uikTvd": "413401172040",
+    "uikName": "УИК №336",
     "tikTvd": "213200093838",
-    "tikName": "Кадошкинская"
+    "tikName": "Кадошкинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 337,
     "uikTvd": "413401172041",
+    "uikName": "УИК №337",
     "tikTvd": "213200093838",
-    "tikName": "Кадошкинская"
+    "tikName": "Кадошкинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 338,
     "uikTvd": "413401172042",
+    "uikName": "УИК №338",
     "tikTvd": "213200093838",
-    "tikName": "Кадошкинская"
+    "tikName": "Кадошкинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 339,
     "uikTvd": "413401172043",
+    "uikName": "УИК №339",
     "tikTvd": "213200093838",
-    "tikName": "Кадошкинская"
+    "tikName": "Кадошкинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 340,
     "uikTvd": "413401172044",
+    "uikName": "УИК №340",
     "tikTvd": "213200093838",
-    "tikName": "Кадошкинская"
+    "tikName": "Кадошкинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 341,
     "uikTvd": "413401172045",
+    "uikName": "УИК №341",
     "tikTvd": "213200093838",
-    "tikName": "Кадошкинская"
+    "tikName": "Кадошкинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 342,
     "uikTvd": "413401172046",
+    "uikName": "УИК №342",
     "tikTvd": "213200093838",
-    "tikName": "Кадошкинская"
+    "tikName": "Кадошкинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 343,
     "uikTvd": "413401172047",
+    "uikName": "УИК №343",
     "tikTvd": "213200093838",
-    "tikName": "Кадошкинская"
+    "tikName": "Кадошкинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 344,
     "uikTvd": "413401172048",
+    "uikName": "УИК №344",
     "tikTvd": "213200093838",
-    "tikName": "Кадошкинская"
+    "tikName": "Кадошкинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 345,
     "uikTvd": "413401172049",
+    "uikName": "УИК №345",
     "tikTvd": "213200093838",
-    "tikName": "Кадошкинская"
+    "tikName": "Кадошкинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 346,
     "uikTvd": "413401172050",
+    "uikName": "УИК №346",
     "tikTvd": "213200093838",
-    "tikName": "Кадошкинская"
+    "tikName": "Кадошкинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 347,
     "uikTvd": "413401172051",
+    "uikName": "УИК №347",
     "tikTvd": "213200093838",
-    "tikName": "Кадошкинская"
+    "tikName": "Кадошкинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 348,
     "uikTvd": "413401172052",
+    "uikName": "УИК №348",
     "tikTvd": "213200093838",
-    "tikName": "Кадошкинская"
+    "tikName": "Кадошкинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 349,
     "uikTvd": "413401172053",
+    "uikName": "УИК №349",
     "tikTvd": "213200093838",
-    "tikName": "Кадошкинская"
+    "tikName": "Кадошкинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 350,
     "uikTvd": "413401172054",
+    "uikName": "УИК №350",
     "tikTvd": "213200093838",
-    "tikName": "Кадошкинская"
+    "tikName": "Кадошкинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 351,
     "uikTvd": "413401275500",
+    "uikName": "УИК №351",
     "tikTvd": "213200093837",
-    "tikName": "Ковылкинская"
+    "tikName": "Ковылкинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 352,
     "uikTvd": "413401275501",
+    "uikName": "УИК №352",
     "tikTvd": "213200093837",
-    "tikName": "Ковылкинская"
+    "tikName": "Ковылкинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 353,
     "uikTvd": "413401275572",
+    "uikName": "УИК №353",
     "tikTvd": "213200093837",
-    "tikName": "Ковылкинская"
+    "tikName": "Ковылкинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 354,
     "uikTvd": "413401275503",
+    "uikName": "УИК №354",
     "tikTvd": "213200093837",
-    "tikName": "Ковылкинская"
+    "tikName": "Ковылкинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 355,
     "uikTvd": "413401275573",
+    "uikName": "УИК №355",
     "tikTvd": "213200093837",
-    "tikName": "Ковылкинская"
+    "tikName": "Ковылкинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 356,
     "uikTvd": "413401275504",
+    "uikName": "УИК №356",
     "tikTvd": "213200093837",
-    "tikName": "Ковылкинская"
+    "tikName": "Ковылкинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 357,
     "uikTvd": "413401275505",
+    "uikName": "УИК №357",
     "tikTvd": "213200093837",
-    "tikName": "Ковылкинская"
+    "tikName": "Ковылкинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 358,
     "uikTvd": "413401275506",
+    "uikName": "УИК №358",
     "tikTvd": "213200093837",
-    "tikName": "Ковылкинская"
+    "tikName": "Ковылкинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 359,
     "uikTvd": "413401275507",
+    "uikName": "УИК №359",
     "tikTvd": "213200093837",
-    "tikName": "Ковылкинская"
+    "tikName": "Ковылкинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 360,
     "uikTvd": "413401275508",
+    "uikName": "УИК №360",
     "tikTvd": "213200093837",
-    "tikName": "Ковылкинская"
+    "tikName": "Ковылкинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 361,
     "uikTvd": "413401275509",
+    "uikName": "УИК №361",
     "tikTvd": "213200093837",
-    "tikName": "Ковылкинская"
+    "tikName": "Ковылкинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 362,
     "uikTvd": "413401275510",
+    "uikName": "УИК №362",
     "tikTvd": "213200093837",
-    "tikName": "Ковылкинская"
+    "tikName": "Ковылкинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 363,
     "uikTvd": "413401275511",
+    "uikName": "УИК №363",
     "tikTvd": "213200093837",
-    "tikName": "Ковылкинская"
+    "tikName": "Ковылкинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 364,
     "uikTvd": "413401275512",
+    "uikName": "УИК №364",
     "tikTvd": "213200093837",
-    "tikName": "Ковылкинская"
+    "tikName": "Ковылкинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 365,
     "uikTvd": "413401275513",
+    "uikName": "УИК №365",
     "tikTvd": "213200093837",
-    "tikName": "Ковылкинская"
+    "tikName": "Ковылкинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 366,
     "uikTvd": "413401275514",
+    "uikName": "УИК №366",
     "tikTvd": "213200093837",
-    "tikName": "Ковылкинская"
+    "tikName": "Ковылкинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 367,
     "uikTvd": "413401275515",
+    "uikName": "УИК №367",
     "tikTvd": "213200093837",
-    "tikName": "Ковылкинская"
+    "tikName": "Ковылкинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 368,
     "uikTvd": "413401275516",
+    "uikName": "УИК №368",
     "tikTvd": "213200093837",
-    "tikName": "Ковылкинская"
+    "tikName": "Ковылкинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 369,
     "uikTvd": "413401275517",
+    "uikName": "УИК №369",
     "tikTvd": "213200093837",
-    "tikName": "Ковылкинская"
+    "tikName": "Ковылкинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 370,
     "uikTvd": "413401275518",
+    "uikName": "УИК №370",
     "tikTvd": "213200093837",
-    "tikName": "Ковылкинская"
+    "tikName": "Ковылкинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 371,
     "uikTvd": "413401275519",
+    "uikName": "УИК №371",
     "tikTvd": "213200093837",
-    "tikName": "Ковылкинская"
+    "tikName": "Ковылкинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 372,
     "uikTvd": "413401275520",
+    "uikName": "УИК №372",
     "tikTvd": "213200093837",
-    "tikName": "Ковылкинская"
+    "tikName": "Ковылкинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 373,
     "uikTvd": "413401275521",
+    "uikName": "УИК №373",
     "tikTvd": "213200093837",
-    "tikName": "Ковылкинская"
+    "tikName": "Ковылкинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 374,
     "uikTvd": "413401275522",
+    "uikName": "УИК №374",
     "tikTvd": "213200093837",
-    "tikName": "Ковылкинская"
+    "tikName": "Ковылкинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 375,
     "uikTvd": "413401275523",
+    "uikName": "УИК №375",
     "tikTvd": "213200093837",
-    "tikName": "Ковылкинская"
+    "tikName": "Ковылкинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 376,
     "uikTvd": "413401275524",
+    "uikName": "УИК №376",
     "tikTvd": "213200093837",
-    "tikName": "Ковылкинская"
+    "tikName": "Ковылкинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 377,
     "uikTvd": "413401275525",
+    "uikName": "УИК №377",
     "tikTvd": "213200093837",
-    "tikName": "Ковылкинская"
+    "tikName": "Ковылкинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 378,
     "uikTvd": "413401275526",
+    "uikName": "УИК №378",
     "tikTvd": "213200093837",
-    "tikName": "Ковылкинская"
+    "tikName": "Ковылкинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 379,
     "uikTvd": "413401275527",
+    "uikName": "УИК №379",
     "tikTvd": "213200093837",
-    "tikName": "Ковылкинская"
+    "tikName": "Ковылкинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 380,
     "uikTvd": "413401275528",
+    "uikName": "УИК №380",
     "tikTvd": "213200093837",
-    "tikName": "Ковылкинская"
+    "tikName": "Ковылкинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 381,
     "uikTvd": "413401275529",
+    "uikName": "УИК №381",
     "tikTvd": "213200093837",
-    "tikName": "Ковылкинская"
+    "tikName": "Ковылкинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 382,
     "uikTvd": "413401275530",
+    "uikName": "УИК №382",
     "tikTvd": "213200093837",
-    "tikName": "Ковылкинская"
+    "tikName": "Ковылкинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 383,
     "uikTvd": "413401275531",
+    "uikName": "УИК №383",
     "tikTvd": "213200093837",
-    "tikName": "Ковылкинская"
+    "tikName": "Ковылкинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 384,
     "uikTvd": "413401275532",
+    "uikName": "УИК №384",
     "tikTvd": "213200093837",
-    "tikName": "Ковылкинская"
+    "tikName": "Ковылкинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 385,
     "uikTvd": "413401275533",
+    "uikName": "УИК №385",
     "tikTvd": "213200093837",
-    "tikName": "Ковылкинская"
+    "tikName": "Ковылкинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 386,
     "uikTvd": "413401275534",
+    "uikName": "УИК №386",
     "tikTvd": "213200093837",
-    "tikName": "Ковылкинская"
+    "tikName": "Ковылкинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 387,
     "uikTvd": "413401275535",
+    "uikName": "УИК №387",
     "tikTvd": "213200093837",
-    "tikName": "Ковылкинская"
+    "tikName": "Ковылкинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 388,
     "uikTvd": "413401275536",
+    "uikName": "УИК №388",
     "tikTvd": "213200093837",
-    "tikName": "Ковылкинская"
+    "tikName": "Ковылкинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 389,
     "uikTvd": "413401275537",
+    "uikName": "УИК №389",
     "tikTvd": "213200093837",
-    "tikName": "Ковылкинская"
+    "tikName": "Ковылкинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 390,
     "uikTvd": "413401275538",
+    "uikName": "УИК №390",
     "tikTvd": "213200093837",
-    "tikName": "Ковылкинская"
+    "tikName": "Ковылкинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 391,
     "uikTvd": "413401275539",
+    "uikName": "УИК №391",
     "tikTvd": "213200093837",
-    "tikName": "Ковылкинская"
+    "tikName": "Ковылкинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 392,
     "uikTvd": "413401275540",
+    "uikName": "УИК №392",
     "tikTvd": "213200093837",
-    "tikName": "Ковылкинская"
+    "tikName": "Ковылкинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 393,
     "uikTvd": "413401275541",
+    "uikName": "УИК №393",
     "tikTvd": "213200093837",
-    "tikName": "Ковылкинская"
+    "tikName": "Ковылкинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 394,
     "uikTvd": "413401275542",
+    "uikName": "УИК №394",
     "tikTvd": "213200093837",
-    "tikName": "Ковылкинская"
+    "tikName": "Ковылкинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 395,
     "uikTvd": "413401275543",
+    "uikName": "УИК №395",
     "tikTvd": "213200093837",
-    "tikName": "Ковылкинская"
+    "tikName": "Ковылкинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 396,
     "uikTvd": "413401275544",
+    "uikName": "УИК №396",
     "tikTvd": "213200093837",
-    "tikName": "Ковылкинская"
+    "tikName": "Ковылкинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 397,
     "uikTvd": "413401275545",
+    "uikName": "УИК №397",
     "tikTvd": "213200093837",
-    "tikName": "Ковылкинская"
+    "tikName": "Ковылкинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 398,
     "uikTvd": "413401275546",
+    "uikName": "УИК №398",
     "tikTvd": "213200093837",
-    "tikName": "Ковылкинская"
+    "tikName": "Ковылкинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 399,
     "uikTvd": "413401275547",
+    "uikName": "УИК №399",
     "tikTvd": "213200093837",
-    "tikName": "Ковылкинская"
+    "tikName": "Ковылкинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 400,
     "uikTvd": "413401275548",
+    "uikName": "УИК №400",
     "tikTvd": "213200093837",
-    "tikName": "Ковылкинская"
+    "tikName": "Ковылкинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 401,
     "uikTvd": "413401275549",
+    "uikName": "УИК №401",
     "tikTvd": "213200093837",
-    "tikName": "Ковылкинская"
+    "tikName": "Ковылкинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 402,
     "uikTvd": "413401275550",
+    "uikName": "УИК №402",
     "tikTvd": "213200093837",
-    "tikName": "Ковылкинская"
+    "tikName": "Ковылкинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 403,
     "uikTvd": "413401275551",
+    "uikName": "УИК №403",
     "tikTvd": "213200093837",
-    "tikName": "Ковылкинская"
+    "tikName": "Ковылкинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 404,
     "uikTvd": "413401275552",
+    "uikName": "УИК №404",
     "tikTvd": "213200093837",
-    "tikName": "Ковылкинская"
+    "tikName": "Ковылкинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 405,
     "uikTvd": "413401275553",
+    "uikName": "УИК №405",
     "tikTvd": "213200093837",
-    "tikName": "Ковылкинская"
+    "tikName": "Ковылкинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 406,
     "uikTvd": "413401275554",
+    "uikName": "УИК №406",
     "tikTvd": "213200093837",
-    "tikName": "Ковылкинская"
+    "tikName": "Ковылкинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 407,
     "uikTvd": "413401275555",
+    "uikName": "УИК №407",
     "tikTvd": "213200093837",
-    "tikName": "Ковылкинская"
+    "tikName": "Ковылкинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 408,
     "uikTvd": "413401275556",
+    "uikName": "УИК №408",
     "tikTvd": "213200093837",
-    "tikName": "Ковылкинская"
+    "tikName": "Ковылкинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 409,
     "uikTvd": "413401275557",
+    "uikName": "УИК №409",
     "tikTvd": "213200093837",
-    "tikName": "Ковылкинская"
+    "tikName": "Ковылкинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 410,
     "uikTvd": "413401275558",
+    "uikName": "УИК №410",
     "tikTvd": "213200093837",
-    "tikName": "Ковылкинская"
+    "tikName": "Ковылкинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 411,
     "uikTvd": "413401275559",
+    "uikName": "УИК №411",
     "tikTvd": "213200093837",
-    "tikName": "Ковылкинская"
+    "tikName": "Ковылкинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 412,
     "uikTvd": "413401275560",
+    "uikName": "УИК №412",
     "tikTvd": "213200093837",
-    "tikName": "Ковылкинская"
+    "tikName": "Ковылкинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 413,
     "uikTvd": "413401275561",
+    "uikName": "УИК №413",
     "tikTvd": "213200093837",
-    "tikName": "Ковылкинская"
+    "tikName": "Ковылкинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 414,
     "uikTvd": "413401275562",
+    "uikName": "УИК №414",
     "tikTvd": "213200093837",
-    "tikName": "Ковылкинская"
+    "tikName": "Ковылкинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 415,
     "uikTvd": "413401275563",
+    "uikName": "УИК №415",
     "tikTvd": "213200093837",
-    "tikName": "Ковылкинская"
+    "tikName": "Ковылкинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 416,
     "uikTvd": "413401275564",
+    "uikName": "УИК №416",
     "tikTvd": "213200093837",
-    "tikName": "Ковылкинская"
+    "tikName": "Ковылкинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 417,
     "uikTvd": "413401275565",
+    "uikName": "УИК №417",
     "tikTvd": "213200093837",
-    "tikName": "Ковылкинская"
+    "tikName": "Ковылкинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 418,
     "uikTvd": "413401275566",
+    "uikName": "УИК №418",
     "tikTvd": "213200093837",
-    "tikName": "Ковылкинская"
+    "tikName": "Ковылкинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 419,
     "uikTvd": "413401275567",
+    "uikName": "УИК №419",
     "tikTvd": "213200093837",
-    "tikName": "Ковылкинская"
+    "tikName": "Ковылкинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 420,
     "uikTvd": "413401275568",
+    "uikName": "УИК №420",
     "tikTvd": "213200093837",
-    "tikName": "Ковылкинская"
+    "tikName": "Ковылкинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 421,
     "uikTvd": "413401275569",
+    "uikName": "УИК №421",
     "tikTvd": "213200093837",
-    "tikName": "Ковылкинская"
+    "tikName": "Ковылкинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 422,
     "uikTvd": "413401275570",
+    "uikName": "УИК №422",
     "tikTvd": "213200093837",
-    "tikName": "Ковылкинская"
+    "tikName": "Ковылкинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 423,
     "uikTvd": "413401275571",
+    "uikName": "УИК №423",
     "tikTvd": "213200093837",
-    "tikName": "Ковылкинская"
+    "tikName": "Ковылкинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 424,
     "uikTvd": "413401372580",
+    "uikName": "УИК №424",
     "tikTvd": "213200093839",
-    "tikName": "Кочкуровская"
+    "tikName": "Кочкуровская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 425,
     "uikTvd": "413401372581",
+    "uikName": "УИК №425",
     "tikTvd": "213200093839",
-    "tikName": "Кочкуровская"
+    "tikName": "Кочкуровская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 426,
     "uikTvd": "413401372582",
+    "uikName": "УИК №426",
     "tikTvd": "213200093839",
-    "tikName": "Кочкуровская"
+    "tikName": "Кочкуровская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 427,
     "uikTvd": "413401372583",
+    "uikName": "УИК №427",
     "tikTvd": "213200093839",
-    "tikName": "Кочкуровская"
+    "tikName": "Кочкуровская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 428,
     "uikTvd": "413401372584",
+    "uikName": "УИК №428",
     "tikTvd": "213200093839",
-    "tikName": "Кочкуровская"
+    "tikName": "Кочкуровская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 429,
     "uikTvd": "413401372585",
+    "uikName": "УИК №429",
     "tikTvd": "213200093839",
-    "tikName": "Кочкуровская"
+    "tikName": "Кочкуровская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 430,
     "uikTvd": "413401372586",
+    "uikName": "УИК №430",
     "tikTvd": "213200093839",
-    "tikName": "Кочкуровская"
+    "tikName": "Кочкуровская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 431,
     "uikTvd": "413401372587",
+    "uikName": "УИК №431",
     "tikTvd": "213200093839",
-    "tikName": "Кочкуровская"
+    "tikName": "Кочкуровская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 432,
     "uikTvd": "413401372588",
+    "uikName": "УИК №432",
     "tikTvd": "213200093839",
-    "tikName": "Кочкуровская"
+    "tikName": "Кочкуровская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 433,
     "uikTvd": "413401372589",
+    "uikName": "УИК №433",
     "tikTvd": "213200093839",
-    "tikName": "Кочкуровская"
+    "tikName": "Кочкуровская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 434,
     "uikTvd": "413401372590",
+    "uikName": "УИК №434",
     "tikTvd": "213200093839",
-    "tikName": "Кочкуровская"
+    "tikName": "Кочкуровская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 435,
     "uikTvd": "413401372591",
+    "uikName": "УИК №435",
     "tikTvd": "213200093839",
-    "tikName": "Кочкуровская"
+    "tikName": "Кочкуровская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 436,
     "uikTvd": "413401372592",
+    "uikName": "УИК №436",
     "tikTvd": "213200093839",
-    "tikName": "Кочкуровская"
+    "tikName": "Кочкуровская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 437,
     "uikTvd": "413401372593",
+    "uikName": "УИК №437",
     "tikTvd": "213200093839",
-    "tikName": "Кочкуровская"
+    "tikName": "Кочкуровская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 438,
     "uikTvd": "413401473706",
+    "uikName": "УИК №438",
     "tikTvd": "213200093836",
-    "tikName": "Краснослободская"
+    "tikName": "Краснослободская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 439,
     "uikTvd": "413401473707",
+    "uikName": "УИК №439",
     "tikTvd": "213200093836",
-    "tikName": "Краснослободская"
+    "tikName": "Краснослободская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 440,
     "uikTvd": "413401473708",
+    "uikName": "УИК №440",
     "tikTvd": "213200093836",
-    "tikName": "Краснослободская"
+    "tikName": "Краснослободская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 441,
     "uikTvd": "413401473709",
+    "uikName": "УИК №441",
     "tikTvd": "213200093836",
-    "tikName": "Краснослободская"
+    "tikName": "Краснослободская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 442,
     "uikTvd": "413401473710",
+    "uikName": "УИК №442",
     "tikTvd": "213200093836",
-    "tikName": "Краснослободская"
+    "tikName": "Краснослободская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 443,
     "uikTvd": "413401473711",
+    "uikName": "УИК №443",
     "tikTvd": "213200093836",
-    "tikName": "Краснослободская"
+    "tikName": "Краснослободская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 444,
     "uikTvd": "413401473712",
+    "uikName": "УИК №444",
     "tikTvd": "213200093836",
-    "tikName": "Краснослободская"
+    "tikName": "Краснослободская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 445,
     "uikTvd": "413401473713",
+    "uikName": "УИК №445",
     "tikTvd": "213200093836",
-    "tikName": "Краснослободская"
+    "tikName": "Краснослободская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 446,
     "uikTvd": "413401473714",
+    "uikName": "УИК №446",
     "tikTvd": "213200093836",
-    "tikName": "Краснослободская"
+    "tikName": "Краснослободская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 447,
     "uikTvd": "413401473715",
+    "uikName": "УИК №447",
     "tikTvd": "213200093836",
-    "tikName": "Краснослободская"
+    "tikName": "Краснослободская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 448,
     "uikTvd": "413401473716",
+    "uikName": "УИК №448",
     "tikTvd": "213200093836",
-    "tikName": "Краснослободская"
+    "tikName": "Краснослободская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 449,
     "uikTvd": "413401473717",
+    "uikName": "УИК №449",
     "tikTvd": "213200093836",
-    "tikName": "Краснослободская"
+    "tikName": "Краснослободская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 450,
     "uikTvd": "413401473718",
+    "uikName": "УИК №450",
     "tikTvd": "213200093836",
-    "tikName": "Краснослободская"
+    "tikName": "Краснослободская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 451,
     "uikTvd": "413401473719",
+    "uikName": "УИК №451",
     "tikTvd": "213200093836",
-    "tikName": "Краснослободская"
+    "tikName": "Краснослободская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 452,
     "uikTvd": "413401473720",
+    "uikName": "УИК №452",
     "tikTvd": "213200093836",
-    "tikName": "Краснослободская"
+    "tikName": "Краснослободская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 453,
     "uikTvd": "413401473721",
+    "uikName": "УИК №453",
     "tikTvd": "213200093836",
-    "tikName": "Краснослободская"
+    "tikName": "Краснослободская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 454,
     "uikTvd": "413401473722",
+    "uikName": "УИК №454",
     "tikTvd": "213200093836",
-    "tikName": "Краснослободская"
+    "tikName": "Краснослободская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 455,
     "uikTvd": "413401473723",
+    "uikName": "УИК №455",
     "tikTvd": "213200093836",
-    "tikName": "Краснослободская"
+    "tikName": "Краснослободская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 456,
     "uikTvd": "413401473724",
+    "uikName": "УИК №456",
     "tikTvd": "213200093836",
-    "tikName": "Краснослободская"
+    "tikName": "Краснослободская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 457,
     "uikTvd": "413401473725",
+    "uikName": "УИК №457",
     "tikTvd": "213200093836",
-    "tikName": "Краснослободская"
+    "tikName": "Краснослободская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 458,
     "uikTvd": "413401473726",
+    "uikName": "УИК №458",
     "tikTvd": "213200093836",
-    "tikName": "Краснослободская"
+    "tikName": "Краснослободская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 459,
     "uikTvd": "413401473727",
+    "uikName": "УИК №459",
     "tikTvd": "213200093836",
-    "tikName": "Краснослободская"
+    "tikName": "Краснослободская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 460,
     "uikTvd": "413401473728",
+    "uikName": "УИК №460",
     "tikTvd": "213200093836",
-    "tikName": "Краснослободская"
+    "tikName": "Краснослободская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 461,
     "uikTvd": "413401473729",
+    "uikName": "УИК №461",
     "tikTvd": "213200093836",
-    "tikName": "Краснослободская"
+    "tikName": "Краснослободская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 462,
     "uikTvd": "413401473730",
+    "uikName": "УИК №462",
     "tikTvd": "213200093836",
-    "tikName": "Краснослободская"
+    "tikName": "Краснослободская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 463,
     "uikTvd": "413401473731",
+    "uikName": "УИК №463",
     "tikTvd": "213200093836",
-    "tikName": "Краснослободская"
+    "tikName": "Краснослободская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 464,
     "uikTvd": "413401473732",
+    "uikName": "УИК №464",
     "tikTvd": "213200093836",
-    "tikName": "Краснослободская"
+    "tikName": "Краснослободская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 465,
     "uikTvd": "413401473733",
+    "uikName": "УИК №465",
     "tikTvd": "213200093836",
-    "tikName": "Краснослободская"
+    "tikName": "Краснослободская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 466,
     "uikTvd": "413401473734",
+    "uikName": "УИК №466",
     "tikTvd": "213200093836",
-    "tikName": "Краснослободская"
+    "tikName": "Краснослободская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 467,
     "uikTvd": "413401473735",
+    "uikName": "УИК №467",
     "tikTvd": "213200093836",
-    "tikName": "Краснослободская"
+    "tikName": "Краснослободская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 468,
     "uikTvd": "413401473736",
+    "uikName": "УИК №468",
     "tikTvd": "213200093836",
-    "tikName": "Краснослободская"
+    "tikName": "Краснослободская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 469,
     "uikTvd": "413401473737",
+    "uikName": "УИК №469",
     "tikTvd": "213200093836",
-    "tikName": "Краснослободская"
+    "tikName": "Краснослободская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 470,
     "uikTvd": "413401473738",
+    "uikName": "УИК №470",
     "tikTvd": "213200093836",
-    "tikName": "Краснослободская"
+    "tikName": "Краснослободская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 471,
     "uikTvd": "413401473739",
+    "uikName": "УИК №471",
     "tikTvd": "213200093836",
-    "tikName": "Краснослободская"
+    "tikName": "Краснослободская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 472,
     "uikTvd": "413401473740",
+    "uikName": "УИК №472",
     "tikTvd": "213200093836",
-    "tikName": "Краснослободская"
+    "tikName": "Краснослободская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 473,
     "uikTvd": "413401473741",
+    "uikName": "УИК №473",
     "tikTvd": "213200093836",
-    "tikName": "Краснослободская"
+    "tikName": "Краснослободская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 474,
     "uikTvd": "413401573867",
+    "uikName": "УИК №474",
     "tikTvd": "213200093835",
-    "tikName": "Лямбирская"
+    "tikName": "Лямбирская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 475,
     "uikTvd": "413401573868",
+    "uikName": "УИК №475",
     "tikTvd": "213200093835",
-    "tikName": "Лямбирская"
+    "tikName": "Лямбирская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 476,
     "uikTvd": "413401573869",
+    "uikName": "УИК №476",
     "tikTvd": "213200093835",
-    "tikName": "Лямбирская"
+    "tikName": "Лямбирская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 477,
     "uikTvd": "413401573870",
+    "uikName": "УИК №477",
     "tikTvd": "213200093835",
-    "tikName": "Лямбирская"
+    "tikName": "Лямбирская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 478,
     "uikTvd": "413401573871",
+    "uikName": "УИК №478",
     "tikTvd": "213200093835",
-    "tikName": "Лямбирская"
+    "tikName": "Лямбирская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 479,
     "uikTvd": "413401573872",
+    "uikName": "УИК №479",
     "tikTvd": "213200093835",
-    "tikName": "Лямбирская"
+    "tikName": "Лямбирская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 480,
     "uikTvd": "413401573873",
+    "uikName": "УИК №480",
     "tikTvd": "213200093835",
-    "tikName": "Лямбирская"
+    "tikName": "Лямбирская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 481,
     "uikTvd": "413401573874",
+    "uikName": "УИК №481",
     "tikTvd": "213200093835",
-    "tikName": "Лямбирская"
+    "tikName": "Лямбирская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 482,
     "uikTvd": "413401573875",
+    "uikName": "УИК №482",
     "tikTvd": "213200093835",
-    "tikName": "Лямбирская"
+    "tikName": "Лямбирская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 483,
     "uikTvd": "413401573876",
+    "uikName": "УИК №483",
     "tikTvd": "213200093835",
-    "tikName": "Лямбирская"
+    "tikName": "Лямбирская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 484,
     "uikTvd": "413401573877",
+    "uikName": "УИК №484",
     "tikTvd": "213200093835",
-    "tikName": "Лямбирская"
+    "tikName": "Лямбирская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 485,
     "uikTvd": "413401573878",
+    "uikName": "УИК №485",
     "tikTvd": "213200093835",
-    "tikName": "Лямбирская"
+    "tikName": "Лямбирская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 486,
     "uikTvd": "413401573879",
+    "uikName": "УИК №486",
     "tikTvd": "213200093835",
-    "tikName": "Лямбирская"
+    "tikName": "Лямбирская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 487,
     "uikTvd": "413401573880",
+    "uikName": "УИК №487",
     "tikTvd": "213200093835",
-    "tikName": "Лямбирская"
+    "tikName": "Лямбирская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 488,
     "uikTvd": "413401573881",
+    "uikName": "УИК №488",
     "tikTvd": "213200093835",
-    "tikName": "Лямбирская"
+    "tikName": "Лямбирская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 489,
     "uikTvd": "413401573882",
+    "uikName": "УИК №489",
     "tikTvd": "213200093835",
-    "tikName": "Лямбирская"
+    "tikName": "Лямбирская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 490,
     "uikTvd": "413401573883",
+    "uikName": "УИК №490",
     "tikTvd": "213200093835",
-    "tikName": "Лямбирская"
+    "tikName": "Лямбирская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 491,
     "uikTvd": "413401573884",
+    "uikName": "УИК №491",
     "tikTvd": "213200093835",
-    "tikName": "Лямбирская"
+    "tikName": "Лямбирская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 492,
     "uikTvd": "413401573885",
+    "uikName": "УИК №492",
     "tikTvd": "213200093835",
-    "tikName": "Лямбирская"
+    "tikName": "Лямбирская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 493,
     "uikTvd": "413401573886",
+    "uikName": "УИК №493",
     "tikTvd": "213200093835",
-    "tikName": "Лямбирская"
+    "tikName": "Лямбирская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 494,
     "uikTvd": "413401573887",
+    "uikName": "УИК №494",
     "tikTvd": "213200093835",
-    "tikName": "Лямбирская"
+    "tikName": "Лямбирская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 495,
     "uikTvd": "413401573888",
+    "uikName": "УИК №495",
     "tikTvd": "213200093835",
-    "tikName": "Лямбирская"
+    "tikName": "Лямбирская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 496,
     "uikTvd": "413401573889",
+    "uikName": "УИК №496",
     "tikTvd": "213200093835",
-    "tikName": "Лямбирская"
+    "tikName": "Лямбирская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 497,
     "uikTvd": "413401573890",
+    "uikName": "УИК №497",
     "tikTvd": "213200093835",
-    "tikName": "Лямбирская"
+    "tikName": "Лямбирская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 498,
     "uikTvd": "413401573891",
+    "uikName": "УИК №498",
     "tikTvd": "213200093835",
-    "tikName": "Лямбирская"
+    "tikName": "Лямбирская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 499,
     "uikTvd": "413401573892",
+    "uikName": "УИК №499",
     "tikTvd": "213200093835",
-    "tikName": "Лямбирская"
+    "tikName": "Лямбирская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 500,
     "uikTvd": "413401573893",
+    "uikName": "УИК №500",
     "tikTvd": "213200093835",
-    "tikName": "Лямбирская"
+    "tikName": "Лямбирская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 501,
     "uikTvd": "413401573894",
+    "uikName": "УИК №501",
     "tikTvd": "213200093835",
-    "tikName": "Лямбирская"
+    "tikName": "Лямбирская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 502,
     "uikTvd": "413401573895",
+    "uikName": "УИК №502",
     "tikTvd": "213200093835",
-    "tikName": "Лямбирская"
+    "tikName": "Лямбирская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 503,
     "uikTvd": "413401573896",
+    "uikName": "УИК №503",
     "tikTvd": "213200093835",
-    "tikName": "Лямбирская"
+    "tikName": "Лямбирская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 504,
     "uikTvd": "413401573897",
+    "uikName": "УИК №504",
     "tikTvd": "213200093835",
-    "tikName": "Лямбирская"
+    "tikName": "Лямбирская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 505,
     "uikTvd": "413401573898",
+    "uikName": "УИК №505",
     "tikTvd": "213200093835",
-    "tikName": "Лямбирская"
+    "tikName": "Лямбирская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 506,
     "uikTvd": "413401573899",
+    "uikName": "УИК №506",
     "tikTvd": "213200093835",
-    "tikName": "Лямбирская"
+    "tikName": "Лямбирская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 507,
     "uikTvd": "413401573900",
+    "uikName": "УИК №507",
     "tikTvd": "213200093835",
-    "tikName": "Лямбирская"
+    "tikName": "Лямбирская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 508,
     "uikTvd": "413401573901",
+    "uikName": "УИК №508",
     "tikTvd": "213200093835",
-    "tikName": "Лямбирская"
+    "tikName": "Лямбирская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 509,
     "uikTvd": "413401672706",
+    "uikName": "УИК №509",
     "tikTvd": "213200093834",
-    "tikName": "Ромодановская"
+    "tikName": "Ромодановская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 510,
     "uikTvd": "413401672707",
+    "uikName": "УИК №510",
     "tikTvd": "213200093834",
-    "tikName": "Ромодановская"
+    "tikName": "Ромодановская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 511,
     "uikTvd": "413401672708",
+    "uikName": "УИК №511",
     "tikTvd": "213200093834",
-    "tikName": "Ромодановская"
+    "tikName": "Ромодановская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 512,
     "uikTvd": "413401672709",
+    "uikName": "УИК №512",
     "tikTvd": "213200093834",
-    "tikName": "Ромодановская"
+    "tikName": "Ромодановская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 513,
     "uikTvd": "413401672710",
+    "uikName": "УИК №513",
     "tikTvd": "213200093834",
-    "tikName": "Ромодановская"
+    "tikName": "Ромодановская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 514,
     "uikTvd": "413401672711",
+    "uikName": "УИК №514",
     "tikTvd": "213200093834",
-    "tikName": "Ромодановская"
+    "tikName": "Ромодановская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 515,
     "uikTvd": "413401672712",
+    "uikName": "УИК №515",
     "tikTvd": "213200093834",
-    "tikName": "Ромодановская"
+    "tikName": "Ромодановская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 516,
     "uikTvd": "413401672713",
+    "uikName": "УИК №516",
     "tikTvd": "213200093834",
-    "tikName": "Ромодановская"
+    "tikName": "Ромодановская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 517,
     "uikTvd": "413401672714",
+    "uikName": "УИК №517",
     "tikTvd": "213200093834",
-    "tikName": "Ромодановская"
+    "tikName": "Ромодановская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 518,
     "uikTvd": "413401672715",
+    "uikName": "УИК №518",
     "tikTvd": "213200093834",
-    "tikName": "Ромодановская"
+    "tikName": "Ромодановская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 519,
     "uikTvd": "413401672716",
+    "uikName": "УИК №519",
     "tikTvd": "213200093834",
-    "tikName": "Ромодановская"
+    "tikName": "Ромодановская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 520,
     "uikTvd": "413401672717",
+    "uikName": "УИК №520",
     "tikTvd": "213200093834",
-    "tikName": "Ромодановская"
+    "tikName": "Ромодановская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 521,
     "uikTvd": "413401672718",
+    "uikName": "УИК №521",
     "tikTvd": "213200093834",
-    "tikName": "Ромодановская"
+    "tikName": "Ромодановская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 522,
     "uikTvd": "413401672719",
+    "uikName": "УИК №522",
     "tikTvd": "213200093834",
-    "tikName": "Ромодановская"
+    "tikName": "Ромодановская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 523,
     "uikTvd": "413401672720",
+    "uikName": "УИК №523",
     "tikTvd": "213200093834",
-    "tikName": "Ромодановская"
+    "tikName": "Ромодановская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 524,
     "uikTvd": "413401672721",
+    "uikName": "УИК №524",
     "tikTvd": "213200093834",
-    "tikName": "Ромодановская"
+    "tikName": "Ромодановская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 525,
     "uikTvd": "413401672722",
+    "uikName": "УИК №525",
     "tikTvd": "213200093834",
-    "tikName": "Ромодановская"
+    "tikName": "Ромодановская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 526,
     "uikTvd": "413401672723",
+    "uikName": "УИК №526",
     "tikTvd": "213200093834",
-    "tikName": "Ромодановская"
+    "tikName": "Ромодановская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 527,
     "uikTvd": "413401672724",
+    "uikName": "УИК №527",
     "tikTvd": "213200093834",
-    "tikName": "Ромодановская"
+    "tikName": "Ромодановская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 528,
     "uikTvd": "413401672725",
+    "uikName": "УИК №528",
     "tikTvd": "213200093834",
-    "tikName": "Ромодановская"
+    "tikName": "Ромодановская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 529,
     "uikTvd": "413401672726",
+    "uikName": "УИК №529",
     "tikTvd": "213200093834",
-    "tikName": "Ромодановская"
+    "tikName": "Ромодановская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 530,
     "uikTvd": "413401672727",
+    "uikName": "УИК №530",
     "tikTvd": "213200093834",
-    "tikName": "Ромодановская"
+    "tikName": "Ромодановская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 531,
     "uikTvd": "413401672728",
+    "uikName": "УИК №531",
     "tikTvd": "213200093834",
-    "tikName": "Ромодановская"
+    "tikName": "Ромодановская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 532,
     "uikTvd": "413401672729",
+    "uikName": "УИК №532",
     "tikTvd": "213200093834",
-    "tikName": "Ромодановская"
+    "tikName": "Ромодановская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 533,
     "uikTvd": "413401672730",
+    "uikName": "УИК №533",
     "tikTvd": "213200093834",
-    "tikName": "Ромодановская"
+    "tikName": "Ромодановская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 534,
     "uikTvd": "413401672731",
+    "uikName": "УИК №534",
     "tikTvd": "213200093834",
-    "tikName": "Ромодановская"
+    "tikName": "Ромодановская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 535,
     "uikTvd": "413401672732",
+    "uikName": "УИК №535",
     "tikTvd": "213200093834",
-    "tikName": "Ромодановская"
+    "tikName": "Ромодановская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 536,
     "uikTvd": "413401672733",
+    "uikName": "УИК №536",
     "tikTvd": "213200093834",
-    "tikName": "Ромодановская"
+    "tikName": "Ромодановская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 537,
     "uikTvd": "413401774986",
+    "uikName": "УИК №537",
     "tikTvd": "213200093832",
-    "tikName": "Рузаевская"
+    "tikName": "Рузаевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 538,
     "uikTvd": "413401774987",
+    "uikName": "УИК №538",
     "tikTvd": "213200093832",
-    "tikName": "Рузаевская"
+    "tikName": "Рузаевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 539,
     "uikTvd": "413401774988",
+    "uikName": "УИК №539",
     "tikTvd": "213200093832",
-    "tikName": "Рузаевская"
+    "tikName": "Рузаевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 540,
     "uikTvd": "413401774989",
+    "uikName": "УИК №540",
     "tikTvd": "213200093832",
-    "tikName": "Рузаевская"
+    "tikName": "Рузаевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 541,
     "uikTvd": "413401774990",
+    "uikName": "УИК №541",
     "tikTvd": "213200093832",
-    "tikName": "Рузаевская"
+    "tikName": "Рузаевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 542,
     "uikTvd": "413401774991",
+    "uikName": "УИК №542",
     "tikTvd": "213200093832",
-    "tikName": "Рузаевская"
+    "tikName": "Рузаевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 543,
     "uikTvd": "413401774992",
+    "uikName": "УИК №543",
     "tikTvd": "213200093832",
-    "tikName": "Рузаевская"
+    "tikName": "Рузаевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 544,
     "uikTvd": "413401774993",
+    "uikName": "УИК №544",
     "tikTvd": "213200093832",
-    "tikName": "Рузаевская"
+    "tikName": "Рузаевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 545,
     "uikTvd": "413401774994",
+    "uikName": "УИК №545",
     "tikTvd": "213200093832",
-    "tikName": "Рузаевская"
+    "tikName": "Рузаевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 546,
     "uikTvd": "413401774995",
+    "uikName": "УИК №546",
     "tikTvd": "213200093832",
-    "tikName": "Рузаевская"
+    "tikName": "Рузаевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 547,
     "uikTvd": "413401774996",
+    "uikName": "УИК №547",
     "tikTvd": "213200093832",
-    "tikName": "Рузаевская"
+    "tikName": "Рузаевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 548,
     "uikTvd": "413401774997",
+    "uikName": "УИК №548",
     "tikTvd": "213200093832",
-    "tikName": "Рузаевская"
+    "tikName": "Рузаевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 549,
     "uikTvd": "413401774998",
+    "uikName": "УИК №549",
     "tikTvd": "213200093832",
-    "tikName": "Рузаевская"
+    "tikName": "Рузаевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 550,
     "uikTvd": "413401774999",
+    "uikName": "УИК №550",
     "tikTvd": "213200093832",
-    "tikName": "Рузаевская"
+    "tikName": "Рузаевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 551,
     "uikTvd": "413401775000",
+    "uikName": "УИК №551",
     "tikTvd": "213200093832",
-    "tikName": "Рузаевская"
+    "tikName": "Рузаевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 552,
     "uikTvd": "413401775001",
+    "uikName": "УИК №552",
     "tikTvd": "213200093832",
-    "tikName": "Рузаевская"
+    "tikName": "Рузаевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 553,
     "uikTvd": "413401775002",
+    "uikName": "УИК №553",
     "tikTvd": "213200093832",
-    "tikName": "Рузаевская"
+    "tikName": "Рузаевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 554,
     "uikTvd": "413401775003",
+    "uikName": "УИК №554",
     "tikTvd": "213200093832",
-    "tikName": "Рузаевская"
+    "tikName": "Рузаевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 555,
     "uikTvd": "413401775004",
+    "uikName": "УИК №555",
     "tikTvd": "213200093832",
-    "tikName": "Рузаевская"
+    "tikName": "Рузаевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 556,
     "uikTvd": "413401775005",
+    "uikName": "УИК №556",
     "tikTvd": "213200093832",
-    "tikName": "Рузаевская"
+    "tikName": "Рузаевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 557,
     "uikTvd": "413401775006",
+    "uikName": "УИК №557",
     "tikTvd": "213200093832",
-    "tikName": "Рузаевская"
+    "tikName": "Рузаевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 558,
     "uikTvd": "413401775007",
+    "uikName": "УИК №558",
     "tikTvd": "213200093832",
-    "tikName": "Рузаевская"
+    "tikName": "Рузаевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 559,
     "uikTvd": "413401775008",
+    "uikName": "УИК №559",
     "tikTvd": "213200093832",
-    "tikName": "Рузаевская"
+    "tikName": "Рузаевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 560,
     "uikTvd": "413401775009",
+    "uikName": "УИК №560",
     "tikTvd": "213200093832",
-    "tikName": "Рузаевская"
+    "tikName": "Рузаевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 561,
     "uikTvd": "413401775010",
+    "uikName": "УИК №561",
     "tikTvd": "213200093832",
-    "tikName": "Рузаевская"
+    "tikName": "Рузаевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 562,
     "uikTvd": "413401775011",
+    "uikName": "УИК №562",
     "tikTvd": "213200093832",
-    "tikName": "Рузаевская"
+    "tikName": "Рузаевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 563,
     "uikTvd": "413401775012",
+    "uikName": "УИК №563",
     "tikTvd": "213200093832",
-    "tikName": "Рузаевская"
+    "tikName": "Рузаевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 564,
     "uikTvd": "413401775013",
+    "uikName": "УИК №564",
     "tikTvd": "213200093832",
-    "tikName": "Рузаевская"
+    "tikName": "Рузаевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 565,
     "uikTvd": "413401775014",
+    "uikName": "УИК №565",
     "tikTvd": "213200093832",
-    "tikName": "Рузаевская"
+    "tikName": "Рузаевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 566,
     "uikTvd": "413401775015",
+    "uikName": "УИК №566",
     "tikTvd": "213200093832",
-    "tikName": "Рузаевская"
+    "tikName": "Рузаевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 567,
     "uikTvd": "413401775016",
+    "uikName": "УИК №567",
     "tikTvd": "213200093832",
-    "tikName": "Рузаевская"
+    "tikName": "Рузаевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 568,
     "uikTvd": "413401775017",
+    "uikName": "УИК №568",
     "tikTvd": "213200093832",
-    "tikName": "Рузаевская"
+    "tikName": "Рузаевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 569,
     "uikTvd": "413401775018",
+    "uikName": "УИК №569",
     "tikTvd": "213200093832",
-    "tikName": "Рузаевская"
+    "tikName": "Рузаевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 570,
     "uikTvd": "413401775019",
+    "uikName": "УИК №570",
     "tikTvd": "213200093832",
-    "tikName": "Рузаевская"
+    "tikName": "Рузаевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 571,
     "uikTvd": "413401775020",
+    "uikName": "УИК №571",
     "tikTvd": "213200093832",
-    "tikName": "Рузаевская"
+    "tikName": "Рузаевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 572,
     "uikTvd": "413401775021",
+    "uikName": "УИК №572",
     "tikTvd": "213200093832",
-    "tikName": "Рузаевская"
+    "tikName": "Рузаевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 573,
     "uikTvd": "413401775022",
+    "uikName": "УИК №573",
     "tikTvd": "213200093832",
-    "tikName": "Рузаевская"
+    "tikName": "Рузаевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 574,
     "uikTvd": "413401775023",
+    "uikName": "УИК №574",
     "tikTvd": "213200093832",
-    "tikName": "Рузаевская"
+    "tikName": "Рузаевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 575,
     "uikTvd": "413401775024",
+    "uikName": "УИК №575",
     "tikTvd": "213200093832",
-    "tikName": "Рузаевская"
+    "tikName": "Рузаевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 576,
     "uikTvd": "413401775025",
+    "uikName": "УИК №576",
     "tikTvd": "213200093832",
-    "tikName": "Рузаевская"
+    "tikName": "Рузаевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 577,
     "uikTvd": "413401775026",
+    "uikName": "УИК №577",
     "tikTvd": "213200093832",
-    "tikName": "Рузаевская"
+    "tikName": "Рузаевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 578,
     "uikTvd": "413401775027",
+    "uikName": "УИК №578",
     "tikTvd": "213200093832",
-    "tikName": "Рузаевская"
+    "tikName": "Рузаевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 579,
     "uikTvd": "413401775028",
+    "uikName": "УИК №579",
     "tikTvd": "213200093832",
-    "tikName": "Рузаевская"
+    "tikName": "Рузаевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 580,
     "uikTvd": "413401775029",
+    "uikName": "УИК №580",
     "tikTvd": "213200093832",
-    "tikName": "Рузаевская"
+    "tikName": "Рузаевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 581,
     "uikTvd": "413401775030",
+    "uikName": "УИК №581",
     "tikTvd": "213200093832",
-    "tikName": "Рузаевская"
+    "tikName": "Рузаевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 582,
     "uikTvd": "413401775031",
+    "uikName": "УИК №582",
     "tikTvd": "213200093832",
-    "tikName": "Рузаевская"
+    "tikName": "Рузаевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 583,
     "uikTvd": "413401775032",
+    "uikName": "УИК №583",
     "tikTvd": "213200093832",
-    "tikName": "Рузаевская"
+    "tikName": "Рузаевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 584,
     "uikTvd": "413401775033",
+    "uikName": "УИК №584",
     "tikTvd": "213200093832",
-    "tikName": "Рузаевская"
+    "tikName": "Рузаевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 585,
     "uikTvd": "413401775034",
+    "uikName": "УИК №585",
     "tikTvd": "213200093832",
-    "tikName": "Рузаевская"
+    "tikName": "Рузаевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 586,
     "uikTvd": "413401775035",
+    "uikName": "УИК №586",
     "tikTvd": "213200093832",
-    "tikName": "Рузаевская"
+    "tikName": "Рузаевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 587,
     "uikTvd": "413401775036",
+    "uikName": "УИК №587",
     "tikTvd": "213200093832",
-    "tikName": "Рузаевская"
+    "tikName": "Рузаевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 588,
     "uikTvd": "413401775037",
+    "uikName": "УИК №588",
     "tikTvd": "213200093832",
-    "tikName": "Рузаевская"
+    "tikName": "Рузаевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 589,
     "uikTvd": "413401775038",
+    "uikName": "УИК №589",
     "tikTvd": "213200093832",
-    "tikName": "Рузаевская"
+    "tikName": "Рузаевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 590,
     "uikTvd": "413401775039",
+    "uikName": "УИК №590",
     "tikTvd": "213200093832",
-    "tikName": "Рузаевская"
+    "tikName": "Рузаевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 591,
     "uikTvd": "413401775040",
+    "uikName": "УИК №591",
     "tikTvd": "213200093832",
-    "tikName": "Рузаевская"
+    "tikName": "Рузаевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 592,
     "uikTvd": "413402173409",
+    "uikName": "УИК №592",
     "tikTvd": "213200093830",
-    "tikName": "Старошайговская"
+    "tikName": "Старошайговская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 593,
     "uikTvd": "413402173410",
+    "uikName": "УИК №593",
     "tikTvd": "213200093830",
-    "tikName": "Старошайговская"
+    "tikName": "Старошайговская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 594,
     "uikTvd": "413402173411",
+    "uikName": "УИК №594",
     "tikTvd": "213200093830",
-    "tikName": "Старошайговская"
+    "tikName": "Старошайговская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 595,
     "uikTvd": "413402173412",
+    "uikName": "УИК №595",
     "tikTvd": "213200093830",
-    "tikName": "Старошайговская"
+    "tikName": "Старошайговская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 596,
     "uikTvd": "413402173413",
+    "uikName": "УИК №596",
     "tikTvd": "213200093830",
-    "tikName": "Старошайговская"
+    "tikName": "Старошайговская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 597,
     "uikTvd": "413402173414",
+    "uikName": "УИК №597",
     "tikTvd": "213200093830",
-    "tikName": "Старошайговская"
+    "tikName": "Старошайговская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 598,
     "uikTvd": "413402173415",
+    "uikName": "УИК №598",
     "tikTvd": "213200093830",
-    "tikName": "Старошайговская"
+    "tikName": "Старошайговская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 599,
     "uikTvd": "413402173416",
+    "uikName": "УИК №599",
     "tikTvd": "213200093830",
-    "tikName": "Старошайговская"
+    "tikName": "Старошайговская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 600,
     "uikTvd": "413402173417",
+    "uikName": "УИК №600",
     "tikTvd": "213200093830",
-    "tikName": "Старошайговская"
+    "tikName": "Старошайговская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 601,
     "uikTvd": "413402173418",
+    "uikName": "УИК №601",
     "tikTvd": "213200093830",
-    "tikName": "Старошайговская"
+    "tikName": "Старошайговская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 602,
     "uikTvd": "413402173419",
+    "uikName": "УИК №602",
     "tikTvd": "213200093830",
-    "tikName": "Старошайговская"
+    "tikName": "Старошайговская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 603,
     "uikTvd": "413402173420",
+    "uikName": "УИК №603",
     "tikTvd": "213200093830",
-    "tikName": "Старошайговская"
+    "tikName": "Старошайговская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 604,
     "uikTvd": "413402173421",
+    "uikName": "УИК №604",
     "tikTvd": "213200093830",
-    "tikName": "Старошайговская"
+    "tikName": "Старошайговская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 605,
     "uikTvd": "413402173422",
+    "uikName": "УИК №605",
     "tikTvd": "213200093830",
-    "tikName": "Старошайговская"
+    "tikName": "Старошайговская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 606,
     "uikTvd": "413402173423",
+    "uikName": "УИК №606",
     "tikTvd": "213200093830",
-    "tikName": "Старошайговская"
+    "tikName": "Старошайговская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 607,
     "uikTvd": "413402173424",
+    "uikName": "УИК №607",
     "tikTvd": "213200093830",
-    "tikName": "Старошайговская"
+    "tikName": "Старошайговская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 608,
     "uikTvd": "413402173425",
+    "uikName": "УИК №608",
     "tikTvd": "213200093830",
-    "tikName": "Старошайговская"
+    "tikName": "Старошайговская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 609,
     "uikTvd": "413402173426",
+    "uikName": "УИК №609",
     "tikTvd": "213200093830",
-    "tikName": "Старошайговская"
+    "tikName": "Старошайговская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 610,
     "uikTvd": "413402173427",
+    "uikName": "УИК №610",
     "tikTvd": "213200093830",
-    "tikName": "Старошайговская"
+    "tikName": "Старошайговская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 611,
     "uikTvd": "413402173428",
+    "uikName": "УИК №611",
     "tikTvd": "213200093830",
-    "tikName": "Старошайговская"
+    "tikName": "Старошайговская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 612,
     "uikTvd": "413402173429",
+    "uikName": "УИК №612",
     "tikTvd": "213200093830",
-    "tikName": "Старошайговская"
+    "tikName": "Старошайговская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 613,
     "uikTvd": "413402173430",
+    "uikName": "УИК №613",
     "tikTvd": "213200093830",
-    "tikName": "Старошайговская"
+    "tikName": "Старошайговская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 614,
     "uikTvd": "413402173431",
+    "uikName": "УИК №614",
     "tikTvd": "213200093830",
-    "tikName": "Старошайговская"
+    "tikName": "Старошайговская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 615,
     "uikTvd": "413402173432",
+    "uikName": "УИК №615",
     "tikTvd": "213200093830",
-    "tikName": "Старошайговская"
+    "tikName": "Старошайговская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 616,
     "uikTvd": "413402173433",
+    "uikName": "УИК №616",
     "tikTvd": "213200093830",
-    "tikName": "Старошайговская"
+    "tikName": "Старошайговская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 617,
     "uikTvd": "413402173434",
+    "uikName": "УИК №617",
     "tikTvd": "213200093830",
-    "tikName": "Старошайговская"
+    "tikName": "Старошайговская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 618,
     "uikTvd": "413402173435",
+    "uikName": "УИК №618",
     "tikTvd": "213200093830",
-    "tikName": "Старошайговская"
+    "tikName": "Старошайговская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 619,
     "uikTvd": "413402173436",
+    "uikName": "УИК №619",
     "tikTvd": "213200093830",
-    "tikName": "Старошайговская"
+    "tikName": "Старошайговская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 620,
     "uikTvd": "413402173437",
+    "uikName": "УИК №620",
     "tikTvd": "213200093830",
-    "tikName": "Старошайговская"
+    "tikName": "Старошайговская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 621,
     "uikTvd": "413402173438",
+    "uikName": "УИК №621",
     "tikTvd": "213200093830",
-    "tikName": "Старошайговская"
+    "tikName": "Старошайговская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 622,
     "uikTvd": "413402173439",
+    "uikName": "УИК №622",
     "tikTvd": "213200093830",
-    "tikName": "Старошайговская"
+    "tikName": "Старошайговская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 623,
     "uikTvd": "413402173440",
+    "uikName": "УИК №623",
     "tikTvd": "213200093830",
-    "tikName": "Старошайговская"
+    "tikName": "Старошайговская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 624,
     "uikTvd": "413402273058",
+    "uikName": "УИК №624",
     "tikTvd": "213200093829",
-    "tikName": "Темниковская"
+    "tikName": "Темниковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 625,
     "uikTvd": "413402273059",
+    "uikName": "УИК №625",
     "tikTvd": "213200093829",
-    "tikName": "Темниковская"
+    "tikName": "Темниковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 626,
     "uikTvd": "413402273060",
+    "uikName": "УИК №626",
     "tikTvd": "213200093829",
-    "tikName": "Темниковская"
+    "tikName": "Темниковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 627,
     "uikTvd": "413402273061",
+    "uikName": "УИК №627",
     "tikTvd": "213200093829",
-    "tikName": "Темниковская"
+    "tikName": "Темниковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 628,
     "uikTvd": "413402273062",
+    "uikName": "УИК №628",
     "tikTvd": "213200093829",
-    "tikName": "Темниковская"
+    "tikName": "Темниковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 629,
     "uikTvd": "413402273063",
+    "uikName": "УИК №629",
     "tikTvd": "213200093829",
-    "tikName": "Темниковская"
+    "tikName": "Темниковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 630,
     "uikTvd": "413402273064",
+    "uikName": "УИК №630",
     "tikTvd": "213200093829",
-    "tikName": "Темниковская"
+    "tikName": "Темниковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 631,
     "uikTvd": "413402273065",
+    "uikName": "УИК №631",
     "tikTvd": "213200093829",
-    "tikName": "Темниковская"
+    "tikName": "Темниковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 632,
     "uikTvd": "413402273066",
+    "uikName": "УИК №632",
     "tikTvd": "213200093829",
-    "tikName": "Темниковская"
+    "tikName": "Темниковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 633,
     "uikTvd": "413402273067",
+    "uikName": "УИК №633",
     "tikTvd": "213200093829",
-    "tikName": "Темниковская"
+    "tikName": "Темниковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 634,
     "uikTvd": "413402273068",
+    "uikName": "УИК №634",
     "tikTvd": "213200093829",
-    "tikName": "Темниковская"
+    "tikName": "Темниковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 635,
     "uikTvd": "413402273069",
+    "uikName": "УИК №635",
     "tikTvd": "213200093829",
-    "tikName": "Темниковская"
+    "tikName": "Темниковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 636,
     "uikTvd": "413402273070",
+    "uikName": "УИК №636",
     "tikTvd": "213200093829",
-    "tikName": "Темниковская"
+    "tikName": "Темниковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 637,
     "uikTvd": "413402273071",
+    "uikName": "УИК №637",
     "tikTvd": "213200093829",
-    "tikName": "Темниковская"
+    "tikName": "Темниковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 638,
     "uikTvd": "413402273072",
+    "uikName": "УИК №638",
     "tikTvd": "213200093829",
-    "tikName": "Темниковская"
+    "tikName": "Темниковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 639,
     "uikTvd": "413402273073",
+    "uikName": "УИК №639",
     "tikTvd": "213200093829",
-    "tikName": "Темниковская"
+    "tikName": "Темниковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 640,
     "uikTvd": "413402273074",
+    "uikName": "УИК №640",
     "tikTvd": "213200093829",
-    "tikName": "Темниковская"
+    "tikName": "Темниковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 641,
     "uikTvd": "413402273075",
+    "uikName": "УИК №641",
     "tikTvd": "213200093829",
-    "tikName": "Темниковская"
+    "tikName": "Темниковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 642,
     "uikTvd": "413402273076",
+    "uikName": "УИК №642",
     "tikTvd": "213200093829",
-    "tikName": "Темниковская"
+    "tikName": "Темниковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 643,
     "uikTvd": "413402273077",
+    "uikName": "УИК №643",
     "tikTvd": "213200093829",
-    "tikName": "Темниковская"
+    "tikName": "Темниковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 644,
     "uikTvd": "413402273078",
+    "uikName": "УИК №644",
     "tikTvd": "213200093829",
-    "tikName": "Темниковская"
+    "tikName": "Темниковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 645,
     "uikTvd": "413402273079",
+    "uikName": "УИК №645",
     "tikTvd": "213200093829",
-    "tikName": "Темниковская"
+    "tikName": "Темниковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 646,
     "uikTvd": "413402273080",
+    "uikName": "УИК №646",
     "tikTvd": "213200093829",
-    "tikName": "Темниковская"
+    "tikName": "Темниковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 647,
     "uikTvd": "413402273081",
+    "uikName": "УИК №647",
     "tikTvd": "213200093829",
-    "tikName": "Темниковская"
+    "tikName": "Темниковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 648,
     "uikTvd": "413402273082",
+    "uikName": "УИК №648",
     "tikTvd": "213200093829",
-    "tikName": "Темниковская"
+    "tikName": "Темниковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 649,
     "uikTvd": "413402273083",
+    "uikName": "УИК №649",
     "tikTvd": "213200093829",
-    "tikName": "Темниковская"
+    "tikName": "Темниковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 650,
     "uikTvd": "413402273084",
+    "uikName": "УИК №650",
     "tikTvd": "213200093829",
-    "tikName": "Темниковская"
+    "tikName": "Темниковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 651,
     "uikTvd": "413402273085",
+    "uikName": "УИК №651",
     "tikTvd": "213200093829",
-    "tikName": "Темниковская"
+    "tikName": "Темниковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 652,
     "uikTvd": "413402273086",
+    "uikName": "УИК №652",
     "tikTvd": "213200093829",
-    "tikName": "Темниковская"
+    "tikName": "Темниковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 653,
     "uikTvd": "413402273087",
+    "uikName": "УИК №653",
     "tikTvd": "213200093829",
-    "tikName": "Темниковская"
+    "tikName": "Темниковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 654,
     "uikTvd": "413402273088",
+    "uikName": "УИК №654",
     "tikTvd": "213200093829",
-    "tikName": "Темниковская"
+    "tikName": "Темниковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 655,
     "uikTvd": "413402372215",
+    "uikName": "УИК №655",
     "tikTvd": "213200093827",
-    "tikName": "Теньгушевская"
+    "tikName": "Теньгушевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 656,
     "uikTvd": "413402372216",
+    "uikName": "УИК №656",
     "tikTvd": "213200093827",
-    "tikName": "Теньгушевская"
+    "tikName": "Теньгушевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 657,
     "uikTvd": "413402372217",
+    "uikName": "УИК №657",
     "tikTvd": "213200093827",
-    "tikName": "Теньгушевская"
+    "tikName": "Теньгушевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 658,
     "uikTvd": "413402372218",
+    "uikName": "УИК №658",
     "tikTvd": "213200093827",
-    "tikName": "Теньгушевская"
+    "tikName": "Теньгушевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 659,
     "uikTvd": "413402372219",
+    "uikName": "УИК №659",
     "tikTvd": "213200093827",
-    "tikName": "Теньгушевская"
+    "tikName": "Теньгушевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 660,
     "uikTvd": "413402372220",
+    "uikName": "УИК №660",
     "tikTvd": "213200093827",
-    "tikName": "Теньгушевская"
+    "tikName": "Теньгушевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 661,
     "uikTvd": "413402372221",
+    "uikName": "УИК №661",
     "tikTvd": "213200093827",
-    "tikName": "Теньгушевская"
+    "tikName": "Теньгушевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 662,
     "uikTvd": "413402372222",
+    "uikName": "УИК №662",
     "tikTvd": "213200093827",
-    "tikName": "Теньгушевская"
+    "tikName": "Теньгушевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 663,
     "uikTvd": "413402372223",
+    "uikName": "УИК №663",
     "tikTvd": "213200093827",
-    "tikName": "Теньгушевская"
+    "tikName": "Теньгушевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 664,
     "uikTvd": "413402372224",
+    "uikName": "УИК №664",
     "tikTvd": "213200093827",
-    "tikName": "Теньгушевская"
+    "tikName": "Теньгушевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 665,
     "uikTvd": "413402372225",
+    "uikName": "УИК №665",
     "tikTvd": "213200093827",
-    "tikName": "Теньгушевская"
+    "tikName": "Теньгушевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 666,
     "uikTvd": "413402372226",
+    "uikName": "УИК №666",
     "tikTvd": "213200093827",
-    "tikName": "Теньгушевская"
+    "tikName": "Теньгушевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 667,
     "uikTvd": "413402372227",
+    "uikName": "УИК №667",
     "tikTvd": "213200093827",
-    "tikName": "Теньгушевская"
+    "tikName": "Теньгушевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 668,
     "uikTvd": "413402372228",
+    "uikName": "УИК №668",
     "tikTvd": "213200093827",
-    "tikName": "Теньгушевская"
+    "tikName": "Теньгушевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 669,
     "uikTvd": "413402372229",
+    "uikName": "УИК №669",
     "tikTvd": "213200093827",
-    "tikName": "Теньгушевская"
+    "tikName": "Теньгушевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 670,
     "uikTvd": "413402372230",
+    "uikName": "УИК №670",
     "tikTvd": "213200093827",
-    "tikName": "Теньгушевская"
+    "tikName": "Теньгушевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 671,
     "uikTvd": "413402372231",
+    "uikName": "УИК №671",
     "tikTvd": "213200093827",
-    "tikName": "Теньгушевская"
+    "tikName": "Теньгушевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 672,
     "uikTvd": "413402372232",
+    "uikName": "УИК №672",
     "tikTvd": "213200093827",
-    "tikName": "Теньгушевская"
+    "tikName": "Теньгушевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 673,
     "uikTvd": "413402372233",
+    "uikName": "УИК №673",
     "tikTvd": "213200093827",
-    "tikName": "Теньгушевская"
+    "tikName": "Теньгушевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 674,
     "uikTvd": "413402372234",
+    "uikName": "УИК №674",
     "tikTvd": "213200093827",
-    "tikName": "Теньгушевская"
+    "tikName": "Теньгушевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 675,
     "uikTvd": "413402372235",
+    "uikName": "УИК №675",
     "tikTvd": "213200093827",
-    "tikName": "Теньгушевская"
+    "tikName": "Теньгушевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 676,
     "uikTvd": "413402372165",
+    "uikName": "УИК №676",
     "tikTvd": "213200093827",
-    "tikName": "Теньгушевская"
+    "tikName": "Теньгушевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 677,
     "uikTvd": "413402372166",
+    "uikName": "УИК №677",
     "tikTvd": "213200093827",
-    "tikName": "Теньгушевская"
+    "tikName": "Теньгушевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 678,
     "uikTvd": "413402372167",
+    "uikName": "УИК №678",
     "tikTvd": "213200093827",
-    "tikName": "Теньгушевская"
+    "tikName": "Теньгушевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 679,
     "uikTvd": "413402473419",
+    "uikName": "УИК №679",
     "tikTvd": "213200093826",
-    "tikName": "Торбеевская"
+    "tikName": "Торбеевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 680,
     "uikTvd": "413402473420",
+    "uikName": "УИК №680",
     "tikTvd": "213200093826",
-    "tikName": "Торбеевская"
+    "tikName": "Торбеевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 681,
     "uikTvd": "413402473421",
+    "uikName": "УИК №681",
     "tikTvd": "213200093826",
-    "tikName": "Торбеевская"
+    "tikName": "Торбеевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 682,
     "uikTvd": "413402473422",
+    "uikName": "УИК №682",
     "tikTvd": "213200093826",
-    "tikName": "Торбеевская"
+    "tikName": "Торбеевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 683,
     "uikTvd": "413402473423",
+    "uikName": "УИК №683",
     "tikTvd": "213200093826",
-    "tikName": "Торбеевская"
+    "tikName": "Торбеевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 684,
     "uikTvd": "413402473424",
+    "uikName": "УИК №684",
     "tikTvd": "213200093826",
-    "tikName": "Торбеевская"
+    "tikName": "Торбеевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 685,
     "uikTvd": "413402473425",
+    "uikName": "УИК №685",
     "tikTvd": "213200093826",
-    "tikName": "Торбеевская"
+    "tikName": "Торбеевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 686,
     "uikTvd": "413402473426",
+    "uikName": "УИК №686",
     "tikTvd": "213200093826",
-    "tikName": "Торбеевская"
+    "tikName": "Торбеевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 687,
     "uikTvd": "413402473427",
+    "uikName": "УИК №687",
     "tikTvd": "213200093826",
-    "tikName": "Торбеевская"
+    "tikName": "Торбеевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 688,
     "uikTvd": "413402473428",
+    "uikName": "УИК №688",
     "tikTvd": "213200093826",
-    "tikName": "Торбеевская"
+    "tikName": "Торбеевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 689,
     "uikTvd": "413402473429",
+    "uikName": "УИК №689",
     "tikTvd": "213200093826",
-    "tikName": "Торбеевская"
+    "tikName": "Торбеевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 690,
     "uikTvd": "413402473430",
+    "uikName": "УИК №690",
     "tikTvd": "213200093826",
-    "tikName": "Торбеевская"
+    "tikName": "Торбеевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 691,
     "uikTvd": "413402473431",
+    "uikName": "УИК №691",
     "tikTvd": "213200093826",
-    "tikName": "Торбеевская"
+    "tikName": "Торбеевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 692,
     "uikTvd": "413402473432",
+    "uikName": "УИК №692",
     "tikTvd": "213200093826",
-    "tikName": "Торбеевская"
+    "tikName": "Торбеевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 693,
     "uikTvd": "413402473433",
+    "uikName": "УИК №693",
     "tikTvd": "213200093826",
-    "tikName": "Торбеевская"
+    "tikName": "Торбеевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 694,
     "uikTvd": "413402473434",
+    "uikName": "УИК №694",
     "tikTvd": "213200093826",
-    "tikName": "Торбеевская"
+    "tikName": "Торбеевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 695,
     "uikTvd": "413402473435",
+    "uikName": "УИК №695",
     "tikTvd": "213200093826",
-    "tikName": "Торбеевская"
+    "tikName": "Торбеевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 696,
     "uikTvd": "413402473436",
+    "uikName": "УИК №696",
     "tikTvd": "213200093826",
-    "tikName": "Торбеевская"
+    "tikName": "Торбеевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 697,
     "uikTvd": "413402473437",
+    "uikName": "УИК №697",
     "tikTvd": "213200093826",
-    "tikName": "Торбеевская"
+    "tikName": "Торбеевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 698,
     "uikTvd": "413402473438",
+    "uikName": "УИК №698",
     "tikTvd": "213200093826",
-    "tikName": "Торбеевская"
+    "tikName": "Торбеевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 699,
     "uikTvd": "413402473439",
+    "uikName": "УИК №699",
     "tikTvd": "213200093826",
-    "tikName": "Торбеевская"
+    "tikName": "Торбеевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 700,
     "uikTvd": "413402473440",
+    "uikName": "УИК №700",
     "tikTvd": "213200093826",
-    "tikName": "Торбеевская"
+    "tikName": "Торбеевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 701,
     "uikTvd": "413402473441",
+    "uikName": "УИК №701",
     "tikTvd": "213200093826",
-    "tikName": "Торбеевская"
+    "tikName": "Торбеевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 702,
     "uikTvd": "413402473442",
+    "uikName": "УИК №702",
     "tikTvd": "213200093826",
-    "tikName": "Торбеевская"
+    "tikName": "Торбеевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 703,
     "uikTvd": "413402473443",
+    "uikName": "УИК №703",
     "tikTvd": "213200093826",
-    "tikName": "Торбеевская"
+    "tikName": "Торбеевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 704,
     "uikTvd": "413402473444",
+    "uikName": "УИК №704",
     "tikTvd": "213200093826",
-    "tikName": "Торбеевская"
+    "tikName": "Торбеевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 705,
     "uikTvd": "413402473445",
+    "uikName": "УИК №705",
     "tikTvd": "213200093826",
-    "tikName": "Торбеевская"
+    "tikName": "Торбеевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 706,
     "uikTvd": "413402473446",
+    "uikName": "УИК №706",
     "tikTvd": "213200093826",
-    "tikName": "Торбеевская"
+    "tikName": "Торбеевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 707,
     "uikTvd": "413402473447",
+    "uikName": "УИК №707",
     "tikTvd": "213200093826",
-    "tikName": "Торбеевская"
+    "tikName": "Торбеевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 708,
     "uikTvd": "413402473448",
+    "uikName": "УИК №708",
     "tikTvd": "213200093826",
-    "tikName": "Торбеевская"
+    "tikName": "Торбеевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 709,
     "uikTvd": "413402473449",
+    "uikName": "УИК №709",
     "tikTvd": "213200093826",
-    "tikName": "Торбеевская"
+    "tikName": "Торбеевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 710,
     "uikTvd": "413402473450",
+    "uikName": "УИК №710",
     "tikTvd": "213200093826",
-    "tikName": "Торбеевская"
+    "tikName": "Торбеевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 711,
     "uikTvd": "413402473451",
+    "uikName": "УИК №711",
     "tikTvd": "213200093826",
-    "tikName": "Торбеевская"
+    "tikName": "Торбеевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 712,
     "uikTvd": "413402473417",
+    "uikName": "УИК №712",
     "tikTvd": "213200093826",
-    "tikName": "Торбеевская"
+    "tikName": "Торбеевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 713,
     "uikTvd": "413402573022",
+    "uikName": "УИК №713",
     "tikTvd": "213200093825",
-    "tikName": "Чамзинская"
+    "tikName": "Чамзинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 714,
     "uikTvd": "413402573023",
+    "uikName": "УИК №714",
     "tikTvd": "213200093825",
-    "tikName": "Чамзинская"
+    "tikName": "Чамзинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 715,
     "uikTvd": "413402573024",
+    "uikName": "УИК №715",
     "tikTvd": "213200093825",
-    "tikName": "Чамзинская"
+    "tikName": "Чамзинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 716,
     "uikTvd": "413402573025",
+    "uikName": "УИК №716",
     "tikTvd": "213200093825",
-    "tikName": "Чамзинская"
+    "tikName": "Чамзинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 717,
     "uikTvd": "413402573026",
+    "uikName": "УИК №717",
     "tikTvd": "213200093825",
-    "tikName": "Чамзинская"
+    "tikName": "Чамзинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 718,
     "uikTvd": "413402573027",
+    "uikName": "УИК №718",
     "tikTvd": "213200093825",
-    "tikName": "Чамзинская"
+    "tikName": "Чамзинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 719,
     "uikTvd": "413402573028",
+    "uikName": "УИК №719",
     "tikTvd": "213200093825",
-    "tikName": "Чамзинская"
+    "tikName": "Чамзинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 720,
     "uikTvd": "413402573029",
+    "uikName": "УИК №720",
     "tikTvd": "213200093825",
-    "tikName": "Чамзинская"
+    "tikName": "Чамзинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 721,
     "uikTvd": "413402573030",
+    "uikName": "УИК №721",
     "tikTvd": "213200093825",
-    "tikName": "Чамзинская"
+    "tikName": "Чамзинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 722,
     "uikTvd": "413402573031",
+    "uikName": "УИК №722",
     "tikTvd": "213200093825",
-    "tikName": "Чамзинская"
+    "tikName": "Чамзинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 723,
     "uikTvd": "413402573032",
+    "uikName": "УИК №723",
     "tikTvd": "213200093825",
-    "tikName": "Чамзинская"
+    "tikName": "Чамзинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 724,
     "uikTvd": "413402573033",
+    "uikName": "УИК №724",
     "tikTvd": "213200093825",
-    "tikName": "Чамзинская"
+    "tikName": "Чамзинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 725,
     "uikTvd": "413402573034",
+    "uikName": "УИК №725",
     "tikTvd": "213200093825",
-    "tikName": "Чамзинская"
+    "tikName": "Чамзинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 726,
     "uikTvd": "413402573035",
+    "uikName": "УИК №726",
     "tikTvd": "213200093825",
-    "tikName": "Чамзинская"
+    "tikName": "Чамзинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 727,
     "uikTvd": "413402573036",
+    "uikName": "УИК №727",
     "tikTvd": "213200093825",
-    "tikName": "Чамзинская"
+    "tikName": "Чамзинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 728,
     "uikTvd": "413402573037",
+    "uikName": "УИК №728",
     "tikTvd": "213200093825",
-    "tikName": "Чамзинская"
+    "tikName": "Чамзинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 729,
     "uikTvd": "413402573038",
+    "uikName": "УИК №729",
     "tikTvd": "213200093825",
-    "tikName": "Чамзинская"
+    "tikName": "Чамзинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 730,
     "uikTvd": "413402573039",
+    "uikName": "УИК №730",
     "tikTvd": "213200093825",
-    "tikName": "Чамзинская"
+    "tikName": "Чамзинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 731,
     "uikTvd": "413402573040",
+    "uikName": "УИК №731",
     "tikTvd": "213200093825",
-    "tikName": "Чамзинская"
+    "tikName": "Чамзинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 732,
     "uikTvd": "413402573041",
+    "uikName": "УИК №732",
     "tikTvd": "213200093825",
-    "tikName": "Чамзинская"
+    "tikName": "Чамзинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 733,
     "uikTvd": "413402573042",
+    "uikName": "УИК №733",
     "tikTvd": "213200093825",
-    "tikName": "Чамзинская"
+    "tikName": "Чамзинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 734,
     "uikTvd": "413402573043",
+    "uikName": "УИК №734",
     "tikTvd": "213200093825",
-    "tikName": "Чамзинская"
+    "tikName": "Чамзинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 735,
     "uikTvd": "413402573044",
+    "uikName": "УИК №735",
     "tikTvd": "213200093825",
-    "tikName": "Чамзинская"
+    "tikName": "Чамзинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 736,
     "uikTvd": "413402573045",
+    "uikName": "УИК №736",
     "tikTvd": "213200093825",
-    "tikName": "Чамзинская"
+    "tikName": "Чамзинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 737,
     "uikTvd": "413402573046",
+    "uikName": "УИК №737",
     "tikTvd": "213200093825",
-    "tikName": "Чамзинская"
+    "tikName": "Чамзинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 738,
     "uikTvd": "413402573047",
+    "uikName": "УИК №738",
     "tikTvd": "213200093825",
-    "tikName": "Чамзинская"
+    "tikName": "Чамзинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 739,
     "uikTvd": "413402573048",
+    "uikName": "УИК №739",
     "tikTvd": "213200093825",
-    "tikName": "Чамзинская"
+    "tikName": "Чамзинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 740,
     "uikTvd": "413402573049",
+    "uikName": "УИК №740",
     "tikTvd": "213200093825",
-    "tikName": "Чамзинская"
+    "tikName": "Чамзинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 741,
     "uikTvd": "413402573050",
+    "uikName": "УИК №741",
     "tikTvd": "213200093825",
-    "tikName": "Чамзинская"
+    "tikName": "Чамзинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 742,
     "uikTvd": "413402573051",
+    "uikName": "УИК №742",
     "tikTvd": "213200093825",
-    "tikName": "Чамзинская"
+    "tikName": "Чамзинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 743,
     "uikTvd": "413402573052",
+    "uikName": "УИК №743",
     "tikTvd": "213200093825",
-    "tikName": "Чамзинская"
+    "tikName": "Чамзинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 744,
     "uikTvd": "413402573053",
+    "uikName": "УИК №744",
     "tikTvd": "213200093825",
-    "tikName": "Чамзинская"
+    "tikName": "Чамзинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 745,
     "uikTvd": "413402573054",
+    "uikName": "УИК №745",
     "tikTvd": "213200093825",
-    "tikName": "Чамзинская"
+    "tikName": "Чамзинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 746,
     "uikTvd": "413402573055",
+    "uikName": "УИК №746",
     "tikTvd": "213200093825",
-    "tikName": "Чамзинская"
+    "tikName": "Чамзинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 747,
     "uikTvd": "413402573056",
+    "uikName": "УИК №747",
     "tikTvd": "213200093825",
-    "tikName": "Чамзинская"
+    "tikName": "Чамзинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 748,
     "uikTvd": "413401875422",
+    "uikName": "УИК №748",
     "tikTvd": "213200093833",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 749,
     "uikTvd": "413401875423",
+    "uikName": "УИК №749",
     "tikTvd": "213200093833",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 750,
     "uikTvd": "413401875424",
+    "uikName": "УИК №750",
     "tikTvd": "213200093833",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 751,
     "uikTvd": "413401875425",
+    "uikName": "УИК №751",
     "tikTvd": "213200093833",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 752,
     "uikTvd": "413401875426",
+    "uikName": "УИК №752",
     "tikTvd": "213200093833",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 753,
     "uikTvd": "413401875427",
+    "uikName": "УИК №753",
     "tikTvd": "213200093833",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 754,
     "uikTvd": "413401875428",
+    "uikName": "УИК №754",
     "tikTvd": "213200093833",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 755,
     "uikTvd": "413401875429",
+    "uikName": "УИК №755",
     "tikTvd": "213200093833",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 756,
     "uikTvd": "413401875430",
+    "uikName": "УИК №756",
     "tikTvd": "213200093833",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 757,
     "uikTvd": "413401875431",
+    "uikName": "УИК №757",
     "tikTvd": "213200093833",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 758,
     "uikTvd": "413401875432",
+    "uikName": "УИК №758",
     "tikTvd": "213200093833",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 759,
     "uikTvd": "413401875433",
+    "uikName": "УИК №759",
     "tikTvd": "213200093833",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 760,
     "uikTvd": "413401875434",
+    "uikName": "УИК №760",
     "tikTvd": "213200093833",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 761,
     "uikTvd": "413401875435",
+    "uikName": "УИК №761",
     "tikTvd": "213200093833",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 762,
     "uikTvd": "413401875436",
+    "uikName": "УИК №762",
     "tikTvd": "213200093833",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 763,
     "uikTvd": "413401875437",
+    "uikName": "УИК №763",
     "tikTvd": "213200093833",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 764,
     "uikTvd": "413401875438",
+    "uikName": "УИК №764",
     "tikTvd": "213200093833",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 765,
     "uikTvd": "413401875439",
+    "uikName": "УИК №765",
     "tikTvd": "213200093833",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 766,
     "uikTvd": "413401875440",
+    "uikName": "УИК №766",
     "tikTvd": "213200093833",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 767,
     "uikTvd": "413401875441",
+    "uikName": "УИК №767",
     "tikTvd": "213200093833",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 768,
     "uikTvd": "413401875442",
+    "uikName": "УИК №768",
     "tikTvd": "213200093833",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 769,
     "uikTvd": "413401875443",
+    "uikName": "УИК №769",
     "tikTvd": "213200093833",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 770,
     "uikTvd": "413401875444",
+    "uikName": "УИК №770",
     "tikTvd": "213200093833",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 771,
     "uikTvd": "413401875445",
+    "uikName": "УИК №771",
     "tikTvd": "213200093833",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 772,
     "uikTvd": "413401875446",
+    "uikName": "УИК №772",
     "tikTvd": "213200093833",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 773,
     "uikTvd": "413401875447",
+    "uikName": "УИК №773",
     "tikTvd": "213200093833",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 774,
     "uikTvd": "413401875448",
+    "uikName": "УИК №774",
     "tikTvd": "213200093833",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 775,
     "uikTvd": "413401875449",
+    "uikName": "УИК №775",
     "tikTvd": "213200093833",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 776,
     "uikTvd": "413401875450",
+    "uikName": "УИК №776",
     "tikTvd": "213200093833",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 777,
     "uikTvd": "413401875451",
+    "uikName": "УИК №777",
     "tikTvd": "213200093833",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 778,
     "uikTvd": "413401875452",
+    "uikName": "УИК №778",
     "tikTvd": "213200093833",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 779,
     "uikTvd": "413401875453",
+    "uikName": "УИК №779",
     "tikTvd": "213200093833",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 780,
     "uikTvd": "413401875454",
+    "uikName": "УИК №780",
     "tikTvd": "213200093833",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 781,
     "uikTvd": "413401875455",
+    "uikName": "УИК №781",
     "tikTvd": "213200093833",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 782,
     "uikTvd": "413401875456",
+    "uikName": "УИК №782",
     "tikTvd": "213200093833",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 783,
     "uikTvd": "413401875457",
+    "uikName": "УИК №783",
     "tikTvd": "213200093833",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 784,
     "uikTvd": "413401875458",
+    "uikName": "УИК №784",
     "tikTvd": "213200093833",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 785,
     "uikTvd": "413401875459",
+    "uikName": "УИК №785",
     "tikTvd": "213200093833",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 786,
     "uikTvd": "413401875460",
+    "uikName": "УИК №786",
     "tikTvd": "213200093833",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 787,
     "uikTvd": "413401875461",
+    "uikName": "УИК №787",
     "tikTvd": "213200093833",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 788,
     "uikTvd": "413401875462",
+    "uikName": "УИК №788",
     "tikTvd": "213200093833",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 789,
     "uikTvd": "413401875463",
+    "uikName": "УИК №789",
     "tikTvd": "213200093833",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 790,
     "uikTvd": "413401875464",
+    "uikName": "УИК №790",
     "tikTvd": "213200093833",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 791,
     "uikTvd": "413401875465",
+    "uikName": "УИК №791",
     "tikTvd": "213200093833",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 792,
     "uikTvd": "413401875466",
+    "uikName": "УИК №792",
     "tikTvd": "213200093833",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 793,
     "uikTvd": "413401875467",
+    "uikName": "УИК №793",
     "tikTvd": "213200093833",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 794,
     "uikTvd": "413401977361",
+    "uikName": "УИК №794",
     "tikTvd": "213200093831",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 795,
     "uikTvd": "413401977362",
+    "uikName": "УИК №795",
     "tikTvd": "213200093831",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 796,
     "uikTvd": "413401977363",
+    "uikName": "УИК №796",
     "tikTvd": "213200093831",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 797,
     "uikTvd": "413401977364",
+    "uikName": "УИК №797",
     "tikTvd": "213200093831",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 798,
     "uikTvd": "413401977365",
+    "uikName": "УИК №798",
     "tikTvd": "213200093831",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 799,
     "uikTvd": "413401977366",
+    "uikName": "УИК №799",
     "tikTvd": "213200093831",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 800,
     "uikTvd": "413401977367",
+    "uikName": "УИК №800",
     "tikTvd": "213200093831",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 801,
     "uikTvd": "413401977368",
+    "uikName": "УИК №801",
     "tikTvd": "213200093831",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 802,
     "uikTvd": "413401977369",
+    "uikName": "УИК №802",
     "tikTvd": "213200093831",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 803,
     "uikTvd": "413401977370",
+    "uikName": "УИК №803",
     "tikTvd": "213200093831",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 804,
     "uikTvd": "413401977371",
+    "uikName": "УИК №804",
     "tikTvd": "213200093831",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 805,
     "uikTvd": "413401977372",
+    "uikName": "УИК №805",
     "tikTvd": "213200093831",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 806,
     "uikTvd": "413401977373",
+    "uikName": "УИК №806",
     "tikTvd": "213200093831",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 807,
     "uikTvd": "413401977374",
+    "uikName": "УИК №807",
     "tikTvd": "213200093831",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 808,
     "uikTvd": "413401977375",
+    "uikName": "УИК №808",
     "tikTvd": "213200093831",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 809,
     "uikTvd": "413401977376",
+    "uikName": "УИК №809",
     "tikTvd": "213200093831",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 810,
     "uikTvd": "413401977377",
+    "uikName": "УИК №810",
     "tikTvd": "213200093831",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 811,
     "uikTvd": "413401977378",
+    "uikName": "УИК №811",
     "tikTvd": "213200093831",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 812,
     "uikTvd": "413401977379",
+    "uikName": "УИК №812",
     "tikTvd": "213200093831",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 813,
     "uikTvd": "413401977380",
+    "uikName": "УИК №813",
     "tikTvd": "213200093831",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 814,
     "uikTvd": "413401977381",
+    "uikName": "УИК №814",
     "tikTvd": "213200093831",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 815,
     "uikTvd": "413401977382",
+    "uikName": "УИК №815",
     "tikTvd": "213200093831",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 816,
     "uikTvd": "413401977383",
+    "uikName": "УИК №816",
     "tikTvd": "213200093831",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 817,
     "uikTvd": "413401977384",
+    "uikName": "УИК №817",
     "tikTvd": "213200093831",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 818,
     "uikTvd": "413401977385",
+    "uikName": "УИК №818",
     "tikTvd": "213200093831",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 819,
     "uikTvd": "413401977386",
+    "uikName": "УИК №819",
     "tikTvd": "213200093831",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 820,
     "uikTvd": "413401977387",
+    "uikName": "УИК №820",
     "tikTvd": "213200093831",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 821,
     "uikTvd": "413401977388",
+    "uikName": "УИК №821",
     "tikTvd": "213200093831",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 822,
     "uikTvd": "413401977389",
+    "uikName": "УИК №822",
     "tikTvd": "213200093831",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 823,
     "uikTvd": "413401977390",
+    "uikName": "УИК №823",
     "tikTvd": "213200093831",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 824,
     "uikTvd": "413401977391",
+    "uikName": "УИК №824",
     "tikTvd": "213200093831",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 825,
     "uikTvd": "413401977392",
+    "uikName": "УИК №825",
     "tikTvd": "213200093831",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 826,
     "uikTvd": "413401977393",
+    "uikName": "УИК №826",
     "tikTvd": "213200093831",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 827,
     "uikTvd": "413401977394",
+    "uikName": "УИК №827",
     "tikTvd": "213200093831",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 828,
     "uikTvd": "413401977395",
+    "uikName": "УИК №828",
     "tikTvd": "213200093831",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 829,
     "uikTvd": "413401977396",
+    "uikName": "УИК №829",
     "tikTvd": "213200093831",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 830,
     "uikTvd": "413401977397",
+    "uikName": "УИК №830",
     "tikTvd": "213200093831",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 831,
     "uikTvd": "413401977398",
+    "uikName": "УИК №831",
     "tikTvd": "213200093831",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 832,
     "uikTvd": "413401977399",
+    "uikName": "УИК №832",
     "tikTvd": "213200093831",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 833,
     "uikTvd": "413401977400",
+    "uikName": "УИК №833",
     "tikTvd": "213200093831",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 834,
     "uikTvd": "413401977401",
+    "uikName": "УИК №834",
     "tikTvd": "213200093831",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 835,
     "uikTvd": "413401977402",
+    "uikName": "УИК №835",
     "tikTvd": "213200093831",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 836,
     "uikTvd": "413401977403",
+    "uikName": "УИК №836",
     "tikTvd": "213200093831",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 837,
     "uikTvd": "413401977404",
+    "uikName": "УИК №837",
     "tikTvd": "213200093831",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 838,
     "uikTvd": "413401977405",
+    "uikName": "УИК №838",
     "tikTvd": "213200093831",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 839,
     "uikTvd": "413401977406",
+    "uikName": "УИК №839",
     "tikTvd": "213200093831",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 840,
     "uikTvd": "413401977407",
+    "uikName": "УИК №840",
     "tikTvd": "213200093831",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 841,
     "uikTvd": "413401977408",
+    "uikName": "УИК №841",
     "tikTvd": "213200093831",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 842,
     "uikTvd": "413401977409",
+    "uikName": "УИК №842",
     "tikTvd": "213200093831",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 843,
     "uikTvd": "413401977410",
+    "uikName": "УИК №843",
     "tikTvd": "213200093831",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 844,
     "uikTvd": "413401977411",
+    "uikName": "УИК №844",
     "tikTvd": "213200093831",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 845,
     "uikTvd": "413401977412",
+    "uikName": "УИК №845",
     "tikTvd": "213200093831",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 846,
     "uikTvd": "413401977413",
+    "uikName": "УИК №846",
     "tikTvd": "213200093831",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 847,
     "uikTvd": "413401977414",
+    "uikName": "УИК №847",
     "tikTvd": "213200093831",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 848,
     "uikTvd": "413401977415",
+    "uikName": "УИК №848",
     "tikTvd": "213200093831",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 849,
     "uikTvd": "413401977416",
+    "uikName": "УИК №849",
     "tikTvd": "213200093831",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 850,
     "uikTvd": "413402074106",
+    "uikName": "УИК №850",
     "tikTvd": "213200093828",
-    "tikName": "Пролетарская"
+    "tikName": "Пролетарская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 851,
     "uikTvd": "413402074107",
+    "uikName": "УИК №851",
     "tikTvd": "213200093828",
-    "tikName": "Пролетарская"
+    "tikName": "Пролетарская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 852,
     "uikTvd": "413402074108",
+    "uikName": "УИК №852",
     "tikTvd": "213200093828",
-    "tikName": "Пролетарская"
+    "tikName": "Пролетарская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 853,
     "uikTvd": "413402074109",
+    "uikName": "УИК №853",
     "tikTvd": "213200093828",
-    "tikName": "Пролетарская"
+    "tikName": "Пролетарская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 854,
     "uikTvd": "413402074110",
+    "uikName": "УИК №854",
     "tikTvd": "213200093828",
-    "tikName": "Пролетарская"
+    "tikName": "Пролетарская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 855,
     "uikTvd": "413402074111",
+    "uikName": "УИК №855",
     "tikTvd": "213200093828",
-    "tikName": "Пролетарская"
+    "tikName": "Пролетарская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 856,
     "uikTvd": "413402074112",
+    "uikName": "УИК №856",
     "tikTvd": "213200093828",
-    "tikName": "Пролетарская"
+    "tikName": "Пролетарская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 857,
     "uikTvd": "413402074113",
+    "uikName": "УИК №857",
     "tikTvd": "213200093828",
-    "tikName": "Пролетарская"
+    "tikName": "Пролетарская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 858,
     "uikTvd": "413402074114",
+    "uikName": "УИК №858",
     "tikTvd": "213200093828",
-    "tikName": "Пролетарская"
+    "tikName": "Пролетарская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 859,
     "uikTvd": "413402074115",
+    "uikName": "УИК №859",
     "tikTvd": "213200093828",
-    "tikName": "Пролетарская"
+    "tikName": "Пролетарская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 860,
     "uikTvd": "413402074116",
+    "uikName": "УИК №860",
     "tikTvd": "213200093828",
-    "tikName": "Пролетарская"
+    "tikName": "Пролетарская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 861,
     "uikTvd": "413402074117",
+    "uikName": "УИК №861",
     "tikTvd": "213200093828",
-    "tikName": "Пролетарская"
+    "tikName": "Пролетарская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 862,
     "uikTvd": "413402074118",
+    "uikName": "УИК №862",
     "tikTvd": "213200093828",
-    "tikName": "Пролетарская"
+    "tikName": "Пролетарская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 863,
     "uikTvd": "413402074119",
+    "uikName": "УИК №863",
     "tikTvd": "213200093828",
-    "tikName": "Пролетарская"
+    "tikName": "Пролетарская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 864,
     "uikTvd": "413402074120",
+    "uikName": "УИК №864",
     "tikTvd": "213200093828",
-    "tikName": "Пролетарская"
+    "tikName": "Пролетарская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 865,
     "uikTvd": "413402074121",
+    "uikName": "УИК №865",
     "tikTvd": "213200093828",
-    "tikName": "Пролетарская"
+    "tikName": "Пролетарская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 866,
     "uikTvd": "413402074122",
+    "uikName": "УИК №866",
     "tikTvd": "213200093828",
-    "tikName": "Пролетарская"
+    "tikName": "Пролетарская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 867,
     "uikTvd": "413402074123",
+    "uikName": "УИК №867",
     "tikTvd": "213200093828",
-    "tikName": "Пролетарская"
+    "tikName": "Пролетарская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 868,
     "uikTvd": "413402074124",
+    "uikName": "УИК №868",
     "tikTvd": "213200093828",
-    "tikName": "Пролетарская"
+    "tikName": "Пролетарская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 869,
     "uikTvd": "413402074125",
+    "uikName": "УИК №869",
     "tikTvd": "213200093828",
-    "tikName": "Пролетарская"
+    "tikName": "Пролетарская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 870,
     "uikTvd": "413402074126",
+    "uikName": "УИК №870",
     "tikTvd": "213200093828",
-    "tikName": "Пролетарская"
+    "tikName": "Пролетарская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 871,
     "uikTvd": "413402074127",
+    "uikName": "УИК №871",
     "tikTvd": "213200093828",
-    "tikName": "Пролетарская"
+    "tikName": "Пролетарская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 872,
     "uikTvd": "413402074128",
+    "uikName": "УИК №872",
     "tikTvd": "213200093828",
-    "tikName": "Пролетарская"
+    "tikName": "Пролетарская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 873,
     "uikTvd": "413402074129",
+    "uikName": "УИК №873",
     "tikTvd": "213200093828",
-    "tikName": "Пролетарская"
+    "tikName": "Пролетарская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 874,
     "uikTvd": "413402074130",
+    "uikName": "УИК №874",
     "tikTvd": "213200093828",
-    "tikName": "Пролетарская"
+    "tikName": "Пролетарская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 875,
     "uikTvd": "413402074131",
+    "uikName": "УИК №875",
     "tikTvd": "213200093828",
-    "tikName": "Пролетарская"
+    "tikName": "Пролетарская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 876,
     "uikTvd": "413402074132",
+    "uikName": "УИК №876",
     "tikTvd": "213200093828",
-    "tikName": "Пролетарская"
+    "tikName": "Пролетарская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 877,
     "uikTvd": "413402074133",
+    "uikName": "УИК №877",
     "tikTvd": "213200093828",
-    "tikName": "Пролетарская"
+    "tikName": "Пролетарская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 878,
     "uikTvd": "413402074134",
+    "uikName": "УИК №878",
     "tikTvd": "213200093828",
-    "tikName": "Пролетарская"
+    "tikName": "Пролетарская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 879,
     "uikTvd": "413402074135",
+    "uikName": "УИК №879",
     "tikTvd": "213200093828",
-    "tikName": "Пролетарская"
+    "tikName": "Пролетарская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 880,
     "uikTvd": "413402074136",
+    "uikName": "УИК №880",
     "tikTvd": "213200093828",
-    "tikName": "Пролетарская"
+    "tikName": "Пролетарская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 881,
     "uikTvd": "413402074137",
+    "uikName": "УИК №881",
     "tikTvd": "213200093828",
-    "tikName": "Пролетарская"
+    "tikName": "Пролетарская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 882,
     "uikTvd": "413402074138",
+    "uikName": "УИК №882",
     "tikTvd": "213200093828",
-    "tikName": "Пролетарская"
+    "tikName": "Пролетарская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   },
   {
     "uikNumber": 883,
     "uikTvd": "413402074139",
+    "uikName": "УИК №883",
     "tikTvd": "213200093828",
-    "tikName": "Пролетарская"
+    "tikName": "Пролетарская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
+    "district": null
   }
 ] satisfies readonly UikTikRelation[];

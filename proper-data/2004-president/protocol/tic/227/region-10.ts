@@ -11,6 +11,9 @@ export const president_2004_tic_227_region_10 = [
     "ballot": "presidential",
     "tikTvd": "210200080289",
     "tikName": "Суоярвская",
+    "regionCode": "10",
+    "regionTvd": "1001000882983",
+    "regionName": "Республика Карелия",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список": 18982,
@@ -86,6 +89,9 @@ export const president_2004_tic_227_region_10 = [
     "ballot": "presidential",
     "tikTvd": "210200080290",
     "tikName": "Сортавальская городская",
+    "regionCode": "10",
+    "regionTvd": "1001000882983",
+    "regionName": "Республика Карелия",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список": 29180,
@@ -160,6 +166,9 @@ export const president_2004_tic_227_region_10 = [
     "ballot": "presidential",
     "tikTvd": "210200080291",
     "tikName": "Пудожская",
+    "regionCode": "10",
+    "regionTvd": "1001000882983",
+    "regionName": "Республика Карелия",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в список": 20727,
@@ -238,6 +247,9 @@ export const president_2004_tic_227_region_10 = [
     "ballot": "presidential",
     "tikTvd": "210200080292",
     "tikName": "Пряжинская",
+    "regionCode": "10",
+    "regionTvd": "1001000882983",
+    "regionName": "Республика Карелия",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список": 14045,
@@ -308,6 +320,9 @@ export const president_2004_tic_227_region_10 = [
     "ballot": "presidential",
     "tikTvd": "210200080293",
     "tikName": "Сегежская",
+    "regionCode": "10",
+    "regionTvd": "1001000882983",
+    "regionName": "Республика Карелия",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, внесенных в список": 37069,
@@ -397,6 +412,9 @@ export const president_2004_tic_227_region_10 = [
     "ballot": "presidential",
     "tikTvd": "210200080294",
     "tikName": "Прионежская",
+    "regionCode": "10",
+    "regionTvd": "1001000882983",
+    "regionName": "Республика Карелия",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список": 17469,
@@ -465,6 +483,9 @@ export const president_2004_tic_227_region_10 = [
     "ballot": "presidential",
     "tikTvd": "210200080295",
     "tikName": "Питкярантская",
+    "regionCode": "10",
+    "regionTvd": "1001000882983",
+    "regionName": "Республика Карелия",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список": 19277,
@@ -538,6 +559,9 @@ export const president_2004_tic_227_region_10 = [
     "ballot": "presidential",
     "tikTvd": "210200080296",
     "tikName": "Петрозаводская городская №1",
+    "regionCode": "10",
+    "regionTvd": "1001000882983",
+    "regionName": "Республика Карелия",
     "uikCount": 72,
     "accounting": {
       "Число избирателей, внесенных в список": 128590,
@@ -658,6 +682,9 @@ export const president_2004_tic_227_region_10 = [
     "ballot": "presidential",
     "tikTvd": "210200080297",
     "tikName": "Муезерская",
+    "regionCode": "10",
+    "regionTvd": "1001000882983",
+    "regionName": "Республика Карелия",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список": 12222,
@@ -721,6 +748,9 @@ export const president_2004_tic_227_region_10 = [
     "ballot": "presidential",
     "tikTvd": "210200080298",
     "tikName": "Медвежьегорская",
+    "regionCode": "10",
+    "regionTvd": "1001000882983",
+    "regionName": "Республика Карелия",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, внесенных в список": 29846,
@@ -815,6 +845,9 @@ export const president_2004_tic_227_region_10 = [
     "ballot": "presidential",
     "tikTvd": "210200080299",
     "tikName": "Олонецкая",
+    "regionCode": "10",
+    "regionTvd": "1001000882983",
+    "regionName": "Республика Карелия",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в список": 21200,
@@ -894,6 +927,9 @@ export const president_2004_tic_227_region_10 = [
     "ballot": "presidential",
     "tikTvd": "210200080300",
     "tikName": "Лоухская",
+    "regionCode": "10",
+    "regionTvd": "1001000882983",
+    "regionName": "Республика Карелия",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список": 15599,
@@ -960,6 +996,9 @@ export const president_2004_tic_227_region_10 = [
     "ballot": "presidential",
     "tikTvd": "210200080301",
     "tikName": "Лахденпохская",
+    "regionCode": "10",
+    "regionTvd": "1001000882983",
+    "regionName": "Республика Карелия",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список": 13519,
@@ -1035,6 +1074,9 @@ export const president_2004_tic_227_region_10 = [
     "ballot": "presidential",
     "tikTvd": "210200080302",
     "tikName": "Костомукшская городская",
+    "regionCode": "10",
+    "regionTvd": "1001000882983",
+    "regionName": "Республика Карелия",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, внесенных в список": 24024,
@@ -1094,6 +1136,9 @@ export const president_2004_tic_227_region_10 = [
     "ballot": "presidential",
     "tikTvd": "210200080303",
     "tikName": "Кемская",
+    "regionCode": "10",
+    "regionTvd": "1001000882983",
+    "regionName": "Республика Карелия",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список": 16923,
@@ -1160,6 +1205,9 @@ export const president_2004_tic_227_region_10 = [
     "ballot": "presidential",
     "tikTvd": "210200080304",
     "tikName": "Калевальская",
+    "regionCode": "10",
+    "regionTvd": "1001000882983",
+    "regionName": "Республика Карелия",
     "uikCount": 8,
     "accounting": {
       "Число избирателей, внесенных в список": 8151,
@@ -1216,6 +1264,9 @@ export const president_2004_tic_227_region_10 = [
     "ballot": "presidential",
     "tikTvd": "210200080305",
     "tikName": "Кондопожская",
+    "regionCode": "10",
+    "regionTvd": "1001000882983",
+    "regionName": "Республика Карелия",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в список": 36036,
@@ -1295,6 +1346,9 @@ export const president_2004_tic_227_region_10 = [
     "ballot": "presidential",
     "tikTvd": "210200080306",
     "tikName": "Беломорская",
+    "regionCode": "10",
+    "regionTvd": "1001000882983",
+    "regionName": "Республика Карелия",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список": 17313,
@@ -1367,6 +1421,9 @@ export const president_2004_tic_227_region_10 = [
     "ballot": "presidential",
     "tikTvd": "210200080307",
     "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "1001000882983",
+    "regionName": "Республика Карелия",
     "uikCount": 58,
     "accounting": {
       "Число избирателей, внесенных в список": 88273,

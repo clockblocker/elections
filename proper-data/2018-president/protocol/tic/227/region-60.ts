@@ -11,6 +11,9 @@ export const president_2018_tic_227_region_60 = [
     "ballot": "presidential",
     "tikTvd": "2602000696767",
     "tikName": "Усвятская",
+    "regionCode": "60",
+    "regionTvd": "100100084849184",
+    "regionName": "Псковская область",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 3953,
@@ -66,6 +69,9 @@ export const president_2018_tic_227_region_60 = [
     "ballot": "presidential",
     "tikTvd": "2602000696768",
     "tikName": "Великолукская городская",
+    "regionCode": "60",
+    "regionTvd": "100100084849184",
+    "regionName": "Псковская область",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 77791,
@@ -153,6 +159,9 @@ export const president_2018_tic_227_region_60 = [
     "ballot": "presidential",
     "tikTvd": "2602000696769",
     "tikName": "Палкинская",
+    "regionCode": "60",
+    "regionTvd": "100100084849184",
+    "regionName": "Псковская область",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 6633,
@@ -211,6 +220,9 @@ export const president_2018_tic_227_region_60 = [
     "ballot": "presidential",
     "tikTvd": "2602000696770",
     "tikName": "Пустошкинская",
+    "regionCode": "60",
+    "regionTvd": "100100084849184",
+    "regionName": "Псковская область",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 7097,
@@ -272,6 +284,9 @@ export const president_2018_tic_227_region_60 = [
     "ballot": "presidential",
     "tikTvd": "2602000696771",
     "tikName": "Невельская",
+    "regionCode": "60",
+    "regionTvd": "100100084849184",
+    "regionName": "Псковская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 19184,
@@ -346,6 +361,9 @@ export const president_2018_tic_227_region_60 = [
     "ballot": "presidential",
     "tikTvd": "2602000696772",
     "tikName": "Порховская",
+    "regionCode": "60",
+    "regionTvd": "100100084849184",
+    "regionName": "Псковская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 17419,
@@ -418,6 +436,9 @@ export const president_2018_tic_227_region_60 = [
     "ballot": "presidential",
     "tikTvd": "2602000696775",
     "tikName": "Гдовская",
+    "regionCode": "60",
+    "regionTvd": "100100084849184",
+    "regionName": "Псковская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9528,
@@ -482,6 +503,9 @@ export const president_2018_tic_227_region_60 = [
     "ballot": "presidential",
     "tikTvd": "2602000696776",
     "tikName": "Пыталовская",
+    "regionCode": "60",
+    "regionTvd": "100100084849184",
+    "regionName": "Псковская область",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9125,
@@ -542,6 +566,9 @@ export const president_2018_tic_227_region_60 = [
     "ballot": "presidential",
     "tikTvd": "2602000696777",
     "tikName": "Бежаницкая",
+    "regionCode": "60",
+    "regionTvd": "100100084849184",
+    "regionName": "Псковская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9186,
@@ -604,6 +631,9 @@ export const president_2018_tic_227_region_60 = [
     "ballot": "presidential",
     "tikTvd": "2602000696778",
     "tikName": "Струго-Красненская",
+    "regionCode": "60",
+    "regionTvd": "100100084849184",
+    "regionName": "Псковская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 8513,
@@ -668,6 +698,9 @@ export const president_2018_tic_227_region_60 = [
     "ballot": "presidential",
     "tikTvd": "2602000696779",
     "tikName": "Великолукская",
+    "regionCode": "60",
+    "regionTvd": "100100084849184",
+    "regionName": "Псковская область",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 16709,
@@ -744,6 +777,9 @@ export const president_2018_tic_227_region_60 = [
     "ballot": "presidential",
     "tikTvd": "2602000696780",
     "tikName": "Себежская",
+    "regionCode": "60",
+    "regionTvd": "100100084849184",
+    "regionName": "Псковская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 14202,
@@ -817,6 +853,9 @@ export const president_2018_tic_227_region_60 = [
     "ballot": "presidential",
     "tikTvd": "2602000696783",
     "tikName": "Дедовичская",
+    "regionCode": "60",
+    "regionTvd": "100100084849184",
+    "regionName": "Псковская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 11013,
@@ -880,6 +919,9 @@ export const president_2018_tic_227_region_60 = [
     "ballot": "presidential",
     "tikTvd": "2602000696784",
     "tikName": "Куньинская",
+    "regionCode": "60",
+    "regionTvd": "100100084849184",
+    "regionName": "Псковская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 6909,
@@ -946,6 +988,9 @@ export const president_2018_tic_227_region_60 = [
     "ballot": "presidential",
     "tikTvd": "2602000696785",
     "tikName": "Новосокольническая",
+    "regionCode": "60",
+    "regionTvd": "100100084849184",
+    "regionName": "Псковская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10481,
@@ -1009,6 +1054,9 @@ export const president_2018_tic_227_region_60 = [
     "ballot": "presidential",
     "tikTvd": "2602000696786",
     "tikName": "Псковская",
+    "regionCode": "60",
+    "regionTvd": "100100084849184",
+    "regionName": "Псковская область",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 31972,
@@ -1091,6 +1139,9 @@ export const president_2018_tic_227_region_60 = [
     "ballot": "presidential",
     "tikTvd": "2602000696788",
     "tikName": "Плюсская",
+    "regionCode": "60",
+    "regionTvd": "100100084849184",
+    "regionName": "Псковская область",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 7226,
@@ -1148,6 +1199,9 @@ export const president_2018_tic_227_region_60 = [
     "ballot": "presidential",
     "tikTvd": "2602000696789",
     "tikName": "Красногородская",
+    "regionCode": "60",
+    "regionTvd": "100100084849184",
+    "regionName": "Псковская область",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 5607,
@@ -1204,6 +1258,9 @@ export const president_2018_tic_227_region_60 = [
     "ballot": "presidential",
     "tikTvd": "2602000696792",
     "tikName": "Островская",
+    "regionCode": "60",
+    "regionTvd": "100100084849184",
+    "regionName": "Псковская область",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 24190,
@@ -1286,6 +1343,9 @@ export const president_2018_tic_227_region_60 = [
     "ballot": "presidential",
     "tikTvd": "2602000696793",
     "tikName": "Печорская",
+    "regionCode": "60",
+    "regionTvd": "100100084849184",
+    "regionName": "Псковская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 15706,
@@ -1350,6 +1410,9 @@ export const president_2018_tic_227_region_60 = [
     "ballot": "presidential",
     "tikTvd": "2602000696794",
     "tikName": "Локнянская",
+    "regionCode": "60",
+    "regionTvd": "100100084849184",
+    "regionName": "Псковская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 7278,
@@ -1409,6 +1472,9 @@ export const president_2018_tic_227_region_60 = [
     "ballot": "presidential",
     "tikTvd": "2602000696795",
     "tikName": "Опочецкая",
+    "regionCode": "60",
+    "regionTvd": "100100084849184",
+    "regionName": "Псковская область",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 14609,
@@ -1480,6 +1546,9 @@ export const president_2018_tic_227_region_60 = [
     "ballot": "presidential",
     "tikTvd": "2602000696797",
     "tikName": "Пушкиногорская",
+    "regionCode": "60",
+    "regionTvd": "100100084849184",
+    "regionName": "Псковская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 7210,
@@ -1543,6 +1612,9 @@ export const president_2018_tic_227_region_60 = [
     "ballot": "presidential",
     "tikTvd": "2602000696800",
     "tikName": "Псковская городская",
+    "regionCode": "60",
+    "regionTvd": "100100084849184",
+    "regionName": "Псковская область",
     "uikCount": 93,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 168837,
@@ -1680,6 +1752,9 @@ export const president_2018_tic_227_region_60 = [
     "ballot": "presidential",
     "tikTvd": "2602000696801",
     "tikName": "Новоржевская",
+    "regionCode": "60",
+    "regionTvd": "100100084849184",
+    "regionName": "Псковская область",
     "uikCount": 10,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 6908,
@@ -1734,6 +1809,9 @@ export const president_2018_tic_227_region_60 = [
     "ballot": "presidential",
     "tikTvd": "2602000696802",
     "tikName": "Дновская",
+    "regionCode": "60",
+    "regionTvd": "100100084849184",
+    "regionName": "Псковская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10191,

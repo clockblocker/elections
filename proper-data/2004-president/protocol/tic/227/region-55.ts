@@ -11,6 +11,9 @@ export const president_2004_tic_227_region_55 = [
     "ballot": "presidential",
     "tikTvd": "255200073001",
     "tikName": "Крутинская",
+    "regionCode": "55",
+    "regionTvd": "1001000883240",
+    "regionName": "Омская область",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, внесенных в список": 14872,
@@ -109,6 +112,9 @@ export const president_2004_tic_227_region_55 = [
     "ballot": "presidential",
     "tikTvd": "255200073002",
     "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "1001000883240",
+    "regionName": "Омская область",
     "uikCount": 72,
     "accounting": {
       "Число избирателей, внесенных в список": 28534,
@@ -229,6 +235,9 @@ export const president_2004_tic_227_region_55 = [
     "ballot": "presidential",
     "tikTvd": "255200073003",
     "tikName": "Кормиловская",
+    "regionCode": "55",
+    "regionTvd": "1001000883240",
+    "regionName": "Омская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в список": 17935,
@@ -311,6 +320,9 @@ export const president_2004_tic_227_region_55 = [
     "ballot": "presidential",
     "tikTvd": "255200073004",
     "tikName": "Колосовская",
+    "regionCode": "55",
+    "regionTvd": "1001000883240",
+    "regionName": "Омская область",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в список": 11250,
@@ -392,6 +404,9 @@ export const president_2004_tic_227_region_55 = [
     "ballot": "presidential",
     "tikTvd": "255200073005",
     "tikName": "Калачинская",
+    "regionCode": "55",
+    "regionTvd": "1001000883240",
+    "regionName": "Омская область",
     "uikCount": 58,
     "accounting": {
       "Число избирателей, внесенных в список": 34792,
@@ -498,6 +513,9 @@ export const president_2004_tic_227_region_55 = [
     "ballot": "presidential",
     "tikTvd": "255200073006",
     "tikName": "Знаменская",
+    "regionCode": "55",
+    "regionTvd": "1001000883240",
+    "regionName": "Омская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список": 9984,
@@ -572,6 +590,9 @@ export const president_2004_tic_227_region_55 = [
     "ballot": "presidential",
     "tikTvd": "255200073007",
     "tikName": "Большеуковская",
+    "regionCode": "55",
+    "regionTvd": "1001000883240",
+    "regionName": "Омская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список": 6819,
@@ -639,6 +660,9 @@ export const president_2004_tic_227_region_55 = [
     "ballot": "presidential",
     "tikTvd": "255200073008",
     "tikName": "Исилькульская",
+    "regionCode": "55",
+    "regionTvd": "1001000883240",
+    "regionName": "Омская область",
     "uikCount": 61,
     "accounting": {
       "Число избирателей, внесенных в список": 33567,
@@ -748,6 +772,9 @@ export const president_2004_tic_227_region_55 = [
     "ballot": "presidential",
     "tikTvd": "255200073009",
     "tikName": "Горьковская  ТИК",
+    "regionCode": "55",
+    "regionTvd": "1001000883240",
+    "regionName": "Омская область",
     "uikCount": 47,
     "accounting": {
       "Число избирателей, внесенных в список": 17639,
@@ -843,6 +870,9 @@ export const president_2004_tic_227_region_55 = [
     "ballot": "presidential",
     "tikTvd": "255200073010",
     "tikName": "Большереченская",
+    "regionCode": "55",
+    "regionTvd": "1001000883240",
+    "regionName": "Омская область",
     "uikCount": 57,
     "accounting": {
       "Число избирателей, внесенных в список": 24085,
@@ -948,6 +978,9 @@ export const president_2004_tic_227_region_55 = [
     "ballot": "presidential",
     "tikTvd": "255200073011",
     "tikName": "Азовская",
+    "regionCode": "55",
+    "regionTvd": "1001000883240",
+    "regionName": "Омская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список": 14629,
@@ -1024,6 +1057,9 @@ export const president_2004_tic_227_region_55 = [
     "ballot": "presidential",
     "tikTvd": "255200073012",
     "tikName": "Омск, Октябрьская",
+    "regionCode": "55",
+    "regionTvd": "1001000883240",
+    "regionName": "Омская область",
     "uikCount": 73,
     "accounting": {
       "Число избирателей, внесенных в список": 139117,
@@ -1145,6 +1181,9 @@ export const president_2004_tic_227_region_55 = [
     "ballot": "presidential",
     "tikTvd": "255200073013",
     "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "1001000883240",
+    "regionName": "Омская область",
     "uikCount": 86,
     "accounting": {
       "Число избирателей, внесенных в список": 179296,
@@ -1279,6 +1318,9 @@ export const president_2004_tic_227_region_55 = [
     "ballot": "presidential",
     "tikTvd": "255200073014",
     "tikName": "Оконешниковская",
+    "regionCode": "55",
+    "regionTvd": "1001000883240",
+    "regionName": "Омская область",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в список": 12163,
@@ -1362,6 +1404,9 @@ export const president_2004_tic_227_region_55 = [
     "ballot": "presidential",
     "tikTvd": "255200073015",
     "tikName": "Омск, Ленинская",
+    "regionCode": "55",
+    "regionTvd": "1001000883240",
+    "regionName": "Омская область",
     "uikCount": 72,
     "accounting": {
       "Число избирателей, внесенных в список": 162852,
@@ -1482,6 +1527,9 @@ export const president_2004_tic_227_region_55 = [
     "ballot": "presidential",
     "tikTvd": "255200073017",
     "tikName": "Называевская",
+    "regionCode": "55",
+    "regionTvd": "1001000883240",
+    "regionName": "Омская область",
     "uikCount": 73,
     "accounting": {
       "Число избирателей, внесенных в список": 21731,
@@ -1603,6 +1651,9 @@ export const president_2004_tic_227_region_55 = [
     "ballot": "presidential",
     "tikTvd": "255200073018",
     "tikName": "Нижнеомская",
+    "regionCode": "55",
+    "regionTvd": "1001000883240",
+    "regionName": "Омская область",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, внесенных в список": 14422,
@@ -1701,6 +1752,9 @@ export const president_2004_tic_227_region_55 = [
     "ballot": "presidential",
     "tikTvd": "255200073019",
     "tikName": "Одесская",
+    "regionCode": "55",
+    "regionTvd": "1001000883240",
+    "regionName": "Омская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список": 13049,
@@ -1768,6 +1822,9 @@ export const president_2004_tic_227_region_55 = [
     "ballot": "presidential",
     "tikTvd": "255200073020",
     "tikName": "Нововаршавская",
+    "regionCode": "55",
+    "regionTvd": "1001000883240",
+    "regionName": "Омская область",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в список": 20062,
@@ -1848,6 +1905,9 @@ export const president_2004_tic_227_region_55 = [
     "ballot": "presidential",
     "tikTvd": "255200073021",
     "tikName": "Муромцевская",
+    "regionCode": "55",
+    "regionTvd": "1001000883240",
+    "regionName": "Омская область",
     "uikCount": 54,
     "accounting": {
       "Число избирателей, внесенных в список": 19245,
@@ -1950,6 +2010,9 @@ export const president_2004_tic_227_region_55 = [
     "ballot": "presidential",
     "tikTvd": "255200073022",
     "tikName": "Марьяновская",
+    "regionCode": "55",
+    "regionTvd": "1001000883240",
+    "regionName": "Омская область",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в список": 19836,
@@ -2036,6 +2099,9 @@ export const president_2004_tic_227_region_55 = [
     "ballot": "presidential",
     "tikTvd": "255200073023",
     "tikName": "Усть-Ишимская",
+    "regionCode": "55",
+    "regionTvd": "1001000883240",
+    "regionName": "Омская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список": 11662,
@@ -2113,6 +2179,9 @@ export const president_2004_tic_227_region_55 = [
     "ballot": "presidential",
     "tikTvd": "255200073024",
     "tikName": "Москаленская",
+    "regionCode": "55",
+    "regionTvd": "1001000883240",
+    "regionName": "Омская область",
     "uikCount": 51,
     "accounting": {
       "Число избирателей, внесенных в список": 21635,
@@ -2212,6 +2281,9 @@ export const president_2004_tic_227_region_55 = [
     "ballot": "presidential",
     "tikTvd": "255200073025",
     "tikName": "Тюкалинская",
+    "regionCode": "55",
+    "regionTvd": "1001000883240",
+    "regionName": "Омская область",
     "uikCount": 73,
     "accounting": {
       "Число избирателей, внесенных в список": 21747,
@@ -2333,6 +2405,9 @@ export const president_2004_tic_227_region_55 = [
     "ballot": "presidential",
     "tikTvd": "255200073026",
     "tikName": "Таврическая",
+    "regionCode": "55",
+    "regionTvd": "1001000883240",
+    "regionName": "Омская область",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, внесенных в список": 28251,
@@ -2424,6 +2499,9 @@ export const president_2004_tic_227_region_55 = [
     "ballot": "presidential",
     "tikTvd": "255200073027",
     "tikName": "Тевризская",
+    "regionCode": "55",
+    "regionTvd": "1001000883240",
+    "regionName": "Омская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в список": 13149,
@@ -2503,6 +2581,9 @@ export const president_2004_tic_227_region_55 = [
     "ballot": "presidential",
     "tikTvd": "255200073028",
     "tikName": "Тарская",
+    "regionCode": "55",
+    "regionTvd": "1001000883240",
+    "regionName": "Омская область",
     "uikCount": 81,
     "accounting": {
       "Число избирателей, внесенных в список": 35219,
@@ -2632,6 +2713,9 @@ export const president_2004_tic_227_region_55 = [
     "ballot": "presidential",
     "tikTvd": "255200073029",
     "tikName": "Саргатская",
+    "regionCode": "55",
+    "regionTvd": "1001000883240",
+    "regionName": "Омская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в список": 16080,
@@ -2720,6 +2804,9 @@ export const president_2004_tic_227_region_55 = [
     "ballot": "presidential",
     "tikTvd": "255200073030",
     "tikName": "Седельниковская",
+    "regionCode": "55",
+    "regionTvd": "1001000883240",
+    "regionName": "Омская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в список": 9295,
@@ -2799,6 +2886,9 @@ export const president_2004_tic_227_region_55 = [
     "ballot": "presidential",
     "tikTvd": "255200073031",
     "tikName": "Русско-Полянская",
+    "regionCode": "55",
+    "regionTvd": "1001000883240",
+    "regionName": "Омская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в список": 17411,
@@ -2877,6 +2967,9 @@ export const president_2004_tic_227_region_55 = [
     "ballot": "presidential",
     "tikTvd": "255200073032",
     "tikName": "Полтавская",
+    "regionCode": "55",
+    "regionTvd": "1001000883240",
+    "regionName": "Омская область",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, внесенных в список": 17288,
@@ -2966,6 +3059,9 @@ export const president_2004_tic_227_region_55 = [
     "ballot": "presidential",
     "tikTvd": "255200073033",
     "tikName": "Павлоградская",
+    "regionCode": "55",
+    "regionTvd": "1001000883240",
+    "regionName": "Омская область",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в список": 15414,
@@ -3046,6 +3142,9 @@ export const president_2004_tic_227_region_55 = [
     "ballot": "presidential",
     "tikTvd": "255200073034",
     "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "1001000883240",
+    "regionName": "Омская область",
     "uikCount": 79,
     "accounting": {
       "Число избирателей, внесенных в список": 70496,
@@ -3173,6 +3272,9 @@ export const president_2004_tic_227_region_55 = [
     "ballot": "presidential",
     "tikTvd": "255200073035",
     "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "1001000883240",
+    "regionName": "Омская область",
     "uikCount": 120,
     "accounting": {
       "Число избирателей, внесенных в список": 223123,
@@ -3341,6 +3443,9 @@ export const president_2004_tic_227_region_55 = [
     "ballot": "presidential",
     "tikTvd": "255200073036",
     "tikName": "Омск, Советская",
+    "regionCode": "55",
+    "regionTvd": "1001000883240",
+    "regionName": "Омская область",
     "uikCount": 94,
     "accounting": {
       "Число избирателей, внесенных в список": 202004,
@@ -3483,6 +3588,9 @@ export const president_2004_tic_227_region_55 = [
     "ballot": "presidential",
     "tikTvd": "255200073037",
     "tikName": "Шербакульская",
+    "regionCode": "55",
+    "regionTvd": "1001000883240",
+    "regionName": "Омская область",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, внесенных в список": 17400,
@@ -3572,6 +3680,9 @@ export const president_2004_tic_227_region_55 = [
     "ballot": "presidential",
     "tikTvd": "255200073038",
     "tikName": "Черлакская",
+    "regionCode": "55",
+    "regionTvd": "1001000883240",
+    "regionName": "Омская область",
     "uikCount": 47,
     "accounting": {
       "Число избирателей, внесенных в список": 26473,

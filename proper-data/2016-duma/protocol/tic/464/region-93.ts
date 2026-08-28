@@ -11,6 +11,14 @@ export const duma_2016_tic_464_region_93 = [
     "ballot": "single-member",
     "tikTvd": "493400789225",
     "tikName": "Симферополь, Железнодорожная",
+    "regionCode": "93",
+    "regionTvd": "100100067796159",
+    "regionName": "Республика Крым",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100067796162",
+      "oikName": "Республика Крым – Евпаторийский"
+    },
     "uikCount": 50,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 73731,
@@ -112,6 +120,14 @@ export const duma_2016_tic_464_region_93 = [
     "ballot": "single-member",
     "tikTvd": "493400789226",
     "tikName": "Симферопольская - 21",
+    "regionCode": "93",
+    "regionTvd": "100100067796159",
+    "regionName": "Республика Крым",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100067796162",
+      "oikName": "Республика Крым – Евпаторийский"
+    },
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 27684,
@@ -181,6 +197,14 @@ export const duma_2016_tic_464_region_93 = [
     "ballot": "single-member",
     "tikTvd": "493400789227",
     "tikName": "Евпаторийская городская",
+    "regionCode": "93",
+    "regionTvd": "100100067796159",
+    "regionName": "Республика Крым",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100067796162",
+      "oikName": "Республика Крым – Евпаторийский"
+    },
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 87451,
@@ -270,6 +294,14 @@ export const duma_2016_tic_464_region_93 = [
     "ballot": "single-member",
     "tikTvd": "493400789267",
     "tikName": "Армянская городская",
+    "regionCode": "93",
+    "regionTvd": "100100067796159",
+    "regionName": "Республика Крым",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100067796162",
+      "oikName": "Республика Крым – Евпаторийский"
+    },
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 20180,
@@ -335,6 +367,14 @@ export const duma_2016_tic_464_region_93 = [
     "ballot": "single-member",
     "tikTvd": "493400789268",
     "tikName": "Джанкойская городская",
+    "regionCode": "93",
+    "regionTvd": "100100067796159",
+    "regionName": "Республика Крым",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100067796162",
+      "oikName": "Республика Крым – Евпаторийский"
+    },
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 34039,
@@ -404,6 +444,14 @@ export const duma_2016_tic_464_region_93 = [
     "ballot": "single-member",
     "tikTvd": "493400789270",
     "tikName": "Красноперекопская городская",
+    "regionCode": "93",
+    "regionTvd": "100100067796159",
+    "regionName": "Республика Крым",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100067796162",
+      "oikName": "Республика Крым – Евпаторийский"
+    },
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 22121,
@@ -468,6 +516,14 @@ export const duma_2016_tic_464_region_93 = [
     "ballot": "single-member",
     "tikTvd": "493400789271",
     "tikName": "Сакская городская",
+    "regionCode": "93",
+    "regionTvd": "100100067796159",
+    "regionName": "Республика Крым",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100067796162",
+      "oikName": "Республика Крым – Евпаторийский"
+    },
     "uikCount": 12,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 21412,
@@ -531,6 +587,14 @@ export const duma_2016_tic_464_region_93 = [
     "ballot": "single-member",
     "tikTvd": "493400789272",
     "tikName": "Джанкойская",
+    "regionCode": "93",
+    "regionTvd": "100100067796159",
+    "regionName": "Республика Крым",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100067796162",
+      "oikName": "Республика Крым – Евпаторийский"
+    },
     "uikCount": 75,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 55105,
@@ -657,6 +721,14 @@ export const duma_2016_tic_464_region_93 = [
     "ballot": "single-member",
     "tikTvd": "493400789273",
     "tikName": "Красноперекопская",
+    "regionCode": "93",
+    "regionTvd": "100100067796159",
+    "regionName": "Республика Крым",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100067796162",
+      "oikName": "Республика Крым – Евпаторийский"
+    },
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 20961,
@@ -732,6 +804,14 @@ export const duma_2016_tic_464_region_93 = [
     "ballot": "single-member",
     "tikTvd": "493400789274",
     "tikName": "Первомайская",
+    "regionCode": "93",
+    "regionTvd": "100100067796159",
+    "regionName": "Республика Крым",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100067796162",
+      "oikName": "Республика Крым – Евпаторийский"
+    },
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 25002,
@@ -817,6 +897,14 @@ export const duma_2016_tic_464_region_93 = [
     "ballot": "single-member",
     "tikTvd": "493400789275",
     "tikName": "Раздольненская",
+    "regionCode": "93",
+    "regionTvd": "100100067796159",
+    "regionName": "Республика Крым",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100067796162",
+      "oikName": "Республика Крым – Евпаторийский"
+    },
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 25668,
@@ -900,6 +988,14 @@ export const duma_2016_tic_464_region_93 = [
     "ballot": "single-member",
     "tikTvd": "493400789276",
     "tikName": "Сакская",
+    "regionCode": "93",
+    "regionTvd": "100100067796159",
+    "regionName": "Республика Крым",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100067796162",
+      "oikName": "Республика Крым – Евпаторийский"
+    },
     "uikCount": 66,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 60533,
@@ -1017,6 +1113,14 @@ export const duma_2016_tic_464_region_93 = [
     "ballot": "single-member",
     "tikTvd": "493400789277",
     "tikName": "Черноморская",
+    "regionCode": "93",
+    "regionTvd": "100100067796159",
+    "regionName": "Республика Крым",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100067796162",
+      "oikName": "Республика Крым – Евпаторийский"
+    },
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 25384,
@@ -1101,6 +1205,14 @@ export const duma_2016_tic_464_region_93 = [
     "ballot": "single-member",
     "tikTvd": "4934014105954",
     "tikName": "Ленинская",
+    "regionCode": "93",
+    "regionTvd": "100100067796159",
+    "regionName": "Республика Крым",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100067796161",
+      "oikName": "Республика Крым – Керченский"
+    },
     "uikCount": 45,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 48584,
@@ -1197,6 +1309,14 @@ export const duma_2016_tic_464_region_93 = [
     "ballot": "single-member",
     "tikTvd": "4934014105955",
     "tikName": "Керченская",
+    "regionCode": "93",
+    "regionTvd": "100100067796159",
+    "regionName": "Республика Крым",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100067796161",
+      "oikName": "Республика Крым – Керченский"
+    },
     "uikCount": 71,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 107562,
@@ -1319,6 +1439,14 @@ export const duma_2016_tic_464_region_93 = [
     "ballot": "single-member",
     "tikTvd": "4934014105967",
     "tikName": "Кировская",
+    "regionCode": "93",
+    "regionTvd": "100100067796159",
+    "regionName": "Республика Крым",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100067796161",
+      "oikName": "Республика Крым – Керченский"
+    },
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 40728,
@@ -1408,6 +1536,14 @@ export const duma_2016_tic_464_region_93 = [
     "ballot": "single-member",
     "tikTvd": "4934014105968",
     "tikName": "Красногвардейская",
+    "regionCode": "93",
+    "regionTvd": "100100067796159",
+    "regionName": "Республика Крым",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100067796161",
+      "oikName": "Республика Крым – Керченский"
+    },
     "uikCount": 64,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 66209,
@@ -1523,6 +1659,14 @@ export const duma_2016_tic_464_region_93 = [
     "ballot": "single-member",
     "tikTvd": "4934014105969",
     "tikName": "Нижнегорская",
+    "regionCode": "93",
+    "regionTvd": "100100067796159",
+    "regionName": "Республика Крым",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100067796161",
+      "oikName": "Республика Крым – Керченский"
+    },
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 38355,
@@ -1604,6 +1748,14 @@ export const duma_2016_tic_464_region_93 = [
     "ballot": "single-member",
     "tikTvd": "4934014105970",
     "tikName": "Советская",
+    "regionCode": "93",
+    "regionTvd": "100100067796159",
+    "regionName": "Республика Крым",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100067796161",
+      "oikName": "Республика Крым – Керченский"
+    },
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 26015,
@@ -1688,6 +1840,14 @@ export const duma_2016_tic_464_region_93 = [
     "ballot": "single-member",
     "tikTvd": "4934014105971",
     "tikName": "Симферополь, Киевская",
+    "regionCode": "93",
+    "regionTvd": "100100067796159",
+    "regionName": "Республика Крым",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100067796161",
+      "oikName": "Республика Крым – Керченский"
+    },
     "uikCount": 72,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 118356,
@@ -1811,6 +1971,14 @@ export const duma_2016_tic_464_region_93 = [
     "ballot": "single-member",
     "tikTvd": "4934014105972",
     "tikName": "Симферопольская - 20",
+    "regionCode": "93",
+    "regionTvd": "100100067796159",
+    "regionName": "Республика Крым",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100067796161",
+      "oikName": "Республика Крым – Керченский"
+    },
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 46443,
@@ -1898,6 +2066,14 @@ export const duma_2016_tic_464_region_93 = [
     "ballot": "single-member",
     "tikTvd": "493402185012",
     "tikName": "Симферополь, Центральная",
+    "regionCode": "93",
+    "regionTvd": "100100067796159",
+    "regionName": "Республика Крым",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100067796160",
+      "oikName": "Республика Крым – Симферопольский"
+    },
     "uikCount": 46,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 80998,
@@ -1995,6 +2171,14 @@ export const duma_2016_tic_464_region_93 = [
     "ballot": "single-member",
     "tikTvd": "493402185013",
     "tikName": "Симферопольская - 19",
+    "regionCode": "93",
+    "regionTvd": "100100067796159",
+    "regionName": "Республика Крым",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100067796160",
+      "oikName": "Республика Крым – Симферопольский"
+    },
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 43368,
@@ -2077,6 +2261,14 @@ export const duma_2016_tic_464_region_93 = [
     "ballot": "single-member",
     "tikTvd": "493402185014",
     "tikName": "Белогорская",
+    "regionCode": "93",
+    "regionTvd": "100100067796159",
+    "regionName": "Республика Крым",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100067796160",
+      "oikName": "Республика Крым – Симферопольский"
+    },
     "uikCount": 60,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 48121,
@@ -2188,6 +2380,14 @@ export const duma_2016_tic_464_region_93 = [
     "ballot": "single-member",
     "tikTvd": "493402185015",
     "tikName": "Бахчисарайская",
+    "regionCode": "93",
+    "regionTvd": "100100067796159",
+    "regionName": "Республика Крым",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100067796160",
+      "oikName": "Республика Крым – Симферопольский"
+    },
     "uikCount": 75,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 73718,
@@ -2314,6 +2514,14 @@ export const duma_2016_tic_464_region_93 = [
     "ballot": "single-member",
     "tikTvd": "493402185016",
     "tikName": "Ялтинская городская",
+    "regionCode": "93",
+    "regionTvd": "100100067796159",
+    "regionName": "Республика Крым",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100067796160",
+      "oikName": "Республика Крым – Симферопольский"
+    },
     "uikCount": 68,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 104284,
@@ -2433,6 +2641,14 @@ export const duma_2016_tic_464_region_93 = [
     "ballot": "single-member",
     "tikTvd": "493402185017",
     "tikName": "Феодосийская городская",
+    "regionCode": "93",
+    "regionTvd": "100100067796159",
+    "regionName": "Республика Крым",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100067796160",
+      "oikName": "Республика Крым – Симферопольский"
+    },
     "uikCount": 51,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 81512,
@@ -2535,6 +2751,14 @@ export const duma_2016_tic_464_region_93 = [
     "ballot": "single-member",
     "tikTvd": "493402185018",
     "tikName": "Судакская городская",
+    "regionCode": "93",
+    "regionTvd": "100100067796159",
+    "regionName": "Республика Крым",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100067796160",
+      "oikName": "Республика Крым – Симферопольский"
+    },
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 24436,
@@ -2609,6 +2833,14 @@ export const duma_2016_tic_464_region_93 = [
     "ballot": "single-member",
     "tikTvd": "493402185019",
     "tikName": "Алуштинская городская",
+    "regionCode": "93",
+    "regionTvd": "100100067796159",
+    "regionName": "Республика Крым",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100067796160",
+      "oikName": "Республика Крым – Симферопольский"
+    },
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 40199,

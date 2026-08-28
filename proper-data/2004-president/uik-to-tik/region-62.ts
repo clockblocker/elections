@@ -7,6805 +7,12475 @@ export const president_2004_uik_to_tik_region_62 = [
   {
     "uikNumber": 1,
     "uikTvd": "462400171407",
+    "uikName": "УИК №1",
     "tikTvd": "262200074527",
-    "tikName": "Ермишинская"
+    "tikName": "Ермишинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 2,
     "uikTvd": "462400171408",
+    "uikName": "УИК №2",
     "tikTvd": "262200074527",
-    "tikName": "Ермишинская"
+    "tikName": "Ермишинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 3,
     "uikTvd": "462400171409",
+    "uikName": "УИК №3",
     "tikTvd": "262200074527",
-    "tikName": "Ермишинская"
+    "tikName": "Ермишинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 4,
     "uikTvd": "462400171410",
+    "uikName": "УИК №4",
     "tikTvd": "262200074527",
-    "tikName": "Ермишинская"
+    "tikName": "Ермишинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 5,
     "uikTvd": "462400171411",
+    "uikName": "УИК №5",
     "tikTvd": "262200074527",
-    "tikName": "Ермишинская"
+    "tikName": "Ермишинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 6,
     "uikTvd": "462400171412",
+    "uikName": "УИК №6",
     "tikTvd": "262200074527",
-    "tikName": "Ермишинская"
+    "tikName": "Ермишинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 7,
     "uikTvd": "462400171413",
+    "uikName": "УИК №7",
     "tikTvd": "262200074527",
-    "tikName": "Ермишинская"
+    "tikName": "Ермишинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 8,
     "uikTvd": "462400171414",
+    "uikName": "УИК №8",
     "tikTvd": "262200074527",
-    "tikName": "Ермишинская"
+    "tikName": "Ермишинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 9,
     "uikTvd": "462400171415",
+    "uikName": "УИК №9",
     "tikTvd": "262200074527",
-    "tikName": "Ермишинская"
+    "tikName": "Ермишинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 10,
     "uikTvd": "462400171416",
+    "uikName": "УИК №10",
     "tikTvd": "262200074527",
-    "tikName": "Ермишинская"
+    "tikName": "Ермишинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 11,
     "uikTvd": "462400171417",
+    "uikName": "УИК №11",
     "tikTvd": "262200074527",
-    "tikName": "Ермишинская"
+    "tikName": "Ермишинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 12,
     "uikTvd": "462400171418",
+    "uikName": "УИК №12",
     "tikTvd": "262200074527",
-    "tikName": "Ермишинская"
+    "tikName": "Ермишинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 13,
     "uikTvd": "462400171419",
+    "uikName": "УИК №13",
     "tikTvd": "262200074527",
-    "tikName": "Ермишинская"
+    "tikName": "Ермишинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 14,
     "uikTvd": "462400171420",
+    "uikName": "УИК №14",
     "tikTvd": "262200074527",
-    "tikName": "Ермишинская"
+    "tikName": "Ермишинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 15,
     "uikTvd": "462400171421",
+    "uikName": "УИК №15",
     "tikTvd": "262200074527",
-    "tikName": "Ермишинская"
+    "tikName": "Ермишинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 16,
     "uikTvd": "462400171422",
+    "uikName": "УИК №16",
     "tikTvd": "262200074527",
-    "tikName": "Ермишинская"
+    "tikName": "Ермишинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 17,
     "uikTvd": "462400171423",
+    "uikName": "УИК №17",
     "tikTvd": "262200074527",
-    "tikName": "Ермишинская"
+    "tikName": "Ермишинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 18,
     "uikTvd": "462400171424",
+    "uikName": "УИК №18",
     "tikTvd": "262200074527",
-    "tikName": "Ермишинская"
+    "tikName": "Ермишинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 19,
     "uikTvd": "462400171425",
+    "uikName": "УИК №19",
     "tikTvd": "262200074527",
-    "tikName": "Ермишинская"
+    "tikName": "Ермишинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 20,
     "uikTvd": "462400171426",
+    "uikName": "УИК №20",
     "tikTvd": "262200074527",
-    "tikName": "Ермишинская"
+    "tikName": "Ермишинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 21,
     "uikTvd": "462400171427",
+    "uikName": "УИК №21",
     "tikTvd": "262200074527",
-    "tikName": "Ермишинская"
+    "tikName": "Ермишинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 22,
     "uikTvd": "462400271304",
+    "uikName": "УИК №22",
     "tikTvd": "262200074528",
-    "tikName": "Захаровская"
+    "tikName": "Захаровская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 23,
     "uikTvd": "462400271305",
+    "uikName": "УИК №23",
     "tikTvd": "262200074528",
-    "tikName": "Захаровская"
+    "tikName": "Захаровская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 24,
     "uikTvd": "462400271306",
+    "uikName": "УИК №24",
     "tikTvd": "262200074528",
-    "tikName": "Захаровская"
+    "tikName": "Захаровская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 25,
     "uikTvd": "462400271307",
+    "uikName": "УИК №25",
     "tikTvd": "262200074528",
-    "tikName": "Захаровская"
+    "tikName": "Захаровская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 26,
     "uikTvd": "462400271308",
+    "uikName": "УИК №26",
     "tikTvd": "262200074528",
-    "tikName": "Захаровская"
+    "tikName": "Захаровская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 27,
     "uikTvd": "462400271309",
+    "uikName": "УИК №27",
     "tikTvd": "262200074528",
-    "tikName": "Захаровская"
+    "tikName": "Захаровская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 28,
     "uikTvd": "462400271310",
+    "uikName": "УИК №28",
     "tikTvd": "262200074528",
-    "tikName": "Захаровская"
+    "tikName": "Захаровская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 29,
     "uikTvd": "462400271311",
+    "uikName": "УИК №29",
     "tikTvd": "262200074528",
-    "tikName": "Захаровская"
+    "tikName": "Захаровская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 30,
     "uikTvd": "462400271312",
+    "uikName": "УИК №30",
     "tikTvd": "262200074528",
-    "tikName": "Захаровская"
+    "tikName": "Захаровская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 31,
     "uikTvd": "462400271313",
+    "uikName": "УИК №31",
     "tikTvd": "262200074528",
-    "tikName": "Захаровская"
+    "tikName": "Захаровская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 32,
     "uikTvd": "462400271314",
+    "uikName": "УИК №32",
     "tikTvd": "262200074528",
-    "tikName": "Захаровская"
+    "tikName": "Захаровская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 33,
     "uikTvd": "462400271315",
+    "uikName": "УИК №33",
     "tikTvd": "262200074528",
-    "tikName": "Захаровская"
+    "tikName": "Захаровская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 34,
     "uikTvd": "462400271316",
+    "uikName": "УИК №34",
     "tikTvd": "262200074528",
-    "tikName": "Захаровская"
+    "tikName": "Захаровская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 35,
     "uikTvd": "462400271317",
+    "uikName": "УИК №35",
     "tikTvd": "262200074528",
-    "tikName": "Захаровская"
+    "tikName": "Захаровская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 36,
     "uikTvd": "462400271318",
+    "uikName": "УИК №36",
     "tikTvd": "262200074528",
-    "tikName": "Захаровская"
+    "tikName": "Захаровская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 37,
     "uikTvd": "462400271319",
+    "uikName": "УИК №37",
     "tikTvd": "262200074528",
-    "tikName": "Захаровская"
+    "tikName": "Захаровская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 38,
     "uikTvd": "462400271320",
+    "uikName": "УИК №38",
     "tikTvd": "262200074528",
-    "tikName": "Захаровская"
+    "tikName": "Захаровская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 39,
     "uikTvd": "462400271321",
+    "uikName": "УИК №39",
     "tikTvd": "262200074528",
-    "tikName": "Захаровская"
+    "tikName": "Захаровская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 40,
     "uikTvd": "462400271322",
+    "uikName": "УИК №40",
     "tikTvd": "262200074528",
-    "tikName": "Захаровская"
+    "tikName": "Захаровская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 41,
     "uikTvd": "462400371335",
+    "uikName": "УИК №41",
     "tikTvd": "262200074524",
-    "tikName": "Кадомская"
+    "tikName": "Кадомская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 42,
     "uikTvd": "462400371336",
+    "uikName": "УИК №42",
     "tikTvd": "262200074524",
-    "tikName": "Кадомская"
+    "tikName": "Кадомская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 43,
     "uikTvd": "462400371337",
+    "uikName": "УИК №43",
     "tikTvd": "262200074524",
-    "tikName": "Кадомская"
+    "tikName": "Кадомская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 44,
     "uikTvd": "462400371338",
+    "uikName": "УИК №44",
     "tikTvd": "262200074524",
-    "tikName": "Кадомская"
+    "tikName": "Кадомская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 45,
     "uikTvd": "462400371339",
+    "uikName": "УИК №45",
     "tikTvd": "262200074524",
-    "tikName": "Кадомская"
+    "tikName": "Кадомская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 46,
     "uikTvd": "462400371340",
+    "uikName": "УИК №46",
     "tikTvd": "262200074524",
-    "tikName": "Кадомская"
+    "tikName": "Кадомская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 47,
     "uikTvd": "462400371341",
+    "uikName": "УИК №47",
     "tikTvd": "262200074524",
-    "tikName": "Кадомская"
+    "tikName": "Кадомская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 48,
     "uikTvd": "462400371342",
+    "uikName": "УИК №48",
     "tikTvd": "262200074524",
-    "tikName": "Кадомская"
+    "tikName": "Кадомская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 49,
     "uikTvd": "462400371343",
+    "uikName": "УИК №49",
     "tikTvd": "262200074524",
-    "tikName": "Кадомская"
+    "tikName": "Кадомская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 50,
     "uikTvd": "462400371344",
+    "uikName": "УИК №50",
     "tikTvd": "262200074524",
-    "tikName": "Кадомская"
+    "tikName": "Кадомская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 51,
     "uikTvd": "462400371345",
+    "uikName": "УИК №51",
     "tikTvd": "262200074524",
-    "tikName": "Кадомская"
+    "tikName": "Кадомская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 52,
     "uikTvd": "462400371346",
+    "uikName": "УИК №52",
     "tikTvd": "262200074524",
-    "tikName": "Кадомская"
+    "tikName": "Кадомская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 53,
     "uikTvd": "462400371347",
+    "uikName": "УИК №53",
     "tikTvd": "262200074524",
-    "tikName": "Кадомская"
+    "tikName": "Кадомская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 54,
     "uikTvd": "462400371348",
+    "uikName": "УИК №54",
     "tikTvd": "262200074524",
-    "tikName": "Кадомская"
+    "tikName": "Кадомская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 55,
     "uikTvd": "462400371349",
+    "uikName": "УИК №55",
     "tikTvd": "262200074524",
-    "tikName": "Кадомская"
+    "tikName": "Кадомская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 56,
     "uikTvd": "462400371350",
+    "uikName": "УИК №56",
     "tikTvd": "262200074524",
-    "tikName": "Кадомская"
+    "tikName": "Кадомская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 57,
     "uikTvd": "462400371351",
+    "uikName": "УИК №57",
     "tikTvd": "262200074524",
-    "tikName": "Кадомская"
+    "tikName": "Кадомская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 58,
     "uikTvd": "462400371352",
+    "uikName": "УИК №58",
     "tikTvd": "262200074524",
-    "tikName": "Кадомская"
+    "tikName": "Кадомская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 59,
     "uikTvd": "462400371353",
+    "uikName": "УИК №59",
     "tikTvd": "262200074524",
-    "tikName": "Кадомская"
+    "tikName": "Кадомская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 60,
     "uikTvd": "462400371354",
+    "uikName": "УИК №60",
     "tikTvd": "262200074524",
-    "tikName": "Кадомская"
+    "tikName": "Кадомская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 61,
     "uikTvd": "462400371355",
+    "uikName": "УИК №61",
     "tikTvd": "262200074524",
-    "tikName": "Кадомская"
+    "tikName": "Кадомская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 62,
     "uikTvd": "462400371356",
+    "uikName": "УИК №62",
     "tikTvd": "262200074524",
-    "tikName": "Кадомская"
+    "tikName": "Кадомская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 63,
     "uikTvd": "462400371357",
+    "uikName": "УИК №63",
     "tikTvd": "262200074524",
-    "tikName": "Кадомская"
+    "tikName": "Кадомская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 64,
     "uikTvd": "462400371358",
+    "uikName": "УИК №64",
     "tikTvd": "262200074524",
-    "tikName": "Кадомская"
+    "tikName": "Кадомская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 65,
     "uikTvd": "462400371359",
+    "uikName": "УИК №65",
     "tikTvd": "262200074524",
-    "tikName": "Кадомская"
+    "tikName": "Кадомская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 66,
     "uikTvd": "462400471932",
+    "uikName": "УИК №66",
     "tikTvd": "262200074525",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 67,
     "uikTvd": "462400471933",
+    "uikName": "УИК №67",
     "tikTvd": "262200074525",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 68,
     "uikTvd": "462400471934",
+    "uikName": "УИК №68",
     "tikTvd": "262200074525",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 69,
     "uikTvd": "462400471935",
+    "uikName": "УИК №69",
     "tikTvd": "262200074525",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 70,
     "uikTvd": "462400471936",
+    "uikName": "УИК №70",
     "tikTvd": "262200074525",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 71,
     "uikTvd": "462400471937",
+    "uikName": "УИК №71",
     "tikTvd": "262200074525",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 72,
     "uikTvd": "462400471938",
+    "uikName": "УИК №72",
     "tikTvd": "262200074525",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 73,
     "uikTvd": "462400471939",
+    "uikName": "УИК №73",
     "tikTvd": "262200074525",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 74,
     "uikTvd": "462400471940",
+    "uikName": "УИК №74",
     "tikTvd": "262200074525",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 75,
     "uikTvd": "462400471941",
+    "uikName": "УИК №75",
     "tikTvd": "262200074525",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 76,
     "uikTvd": "462400471942",
+    "uikName": "УИК №76",
     "tikTvd": "262200074525",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 77,
     "uikTvd": "462400471943",
+    "uikName": "УИК №77",
     "tikTvd": "262200074525",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 78,
     "uikTvd": "462400471944",
+    "uikName": "УИК №78",
     "tikTvd": "262200074525",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 79,
     "uikTvd": "462400471945",
+    "uikName": "УИК №79",
     "tikTvd": "262200074525",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 80,
     "uikTvd": "462400471946",
+    "uikName": "УИК №80",
     "tikTvd": "262200074525",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 81,
     "uikTvd": "462400471947",
+    "uikName": "УИК №81",
     "tikTvd": "262200074525",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 82,
     "uikTvd": "462400471948",
+    "uikName": "УИК №82",
     "tikTvd": "262200074525",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 83,
     "uikTvd": "462400471949",
+    "uikName": "УИК №83",
     "tikTvd": "262200074525",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 84,
     "uikTvd": "462400471950",
+    "uikName": "УИК №84",
     "tikTvd": "262200074525",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 85,
     "uikTvd": "462400471951",
+    "uikName": "УИК №85",
     "tikTvd": "262200074525",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 86,
     "uikTvd": "462400471952",
+    "uikName": "УИК №86",
     "tikTvd": "262200074525",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 87,
     "uikTvd": "462400471953",
+    "uikName": "УИК №87",
     "tikTvd": "262200074525",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 88,
     "uikTvd": "462400471954",
+    "uikName": "УИК №88",
     "tikTvd": "262200074525",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 89,
     "uikTvd": "462400471955",
+    "uikName": "УИК №89",
     "tikTvd": "262200074525",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 90,
     "uikTvd": "462400471956",
+    "uikName": "УИК №90",
     "tikTvd": "262200074525",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 91,
     "uikTvd": "462400471957",
+    "uikName": "УИК №91",
     "tikTvd": "262200074525",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 92,
     "uikTvd": "462400471958",
+    "uikName": "УИК №92",
     "tikTvd": "262200074525",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 93,
     "uikTvd": "462400471959",
+    "uikName": "УИК №93",
     "tikTvd": "262200074525",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 94,
     "uikTvd": "462400471960",
+    "uikName": "УИК №94",
     "tikTvd": "262200074525",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 95,
     "uikTvd": "462400471961",
+    "uikName": "УИК №95",
     "tikTvd": "262200074525",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 96,
     "uikTvd": "462400471962",
+    "uikName": "УИК №96",
     "tikTvd": "262200074525",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 97,
     "uikTvd": "462400471963",
+    "uikName": "УИК №97",
     "tikTvd": "262200074525",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 98,
     "uikTvd": "462400471964",
+    "uikName": "УИК №98",
     "tikTvd": "262200074525",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 99,
     "uikTvd": "462400471965",
+    "uikName": "УИК №99",
     "tikTvd": "262200074525",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 100,
     "uikTvd": "462400471966",
+    "uikName": "УИК №100",
     "tikTvd": "262200074525",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 101,
     "uikTvd": "462400471967",
+    "uikName": "УИК №101",
     "tikTvd": "262200074525",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 102,
     "uikTvd": "462400471968",
+    "uikName": "УИК №102",
     "tikTvd": "262200074525",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 103,
     "uikTvd": "462400471969",
+    "uikName": "УИК №103",
     "tikTvd": "262200074525",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 104,
     "uikTvd": "462400471970",
+    "uikName": "УИК №104",
     "tikTvd": "262200074525",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 105,
     "uikTvd": "462400471971",
+    "uikName": "УИК №105",
     "tikTvd": "262200074525",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 106,
     "uikTvd": "462400471972",
+    "uikName": "УИК №106",
     "tikTvd": "262200074525",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 107,
     "uikTvd": "462400471973",
+    "uikName": "УИК №107",
     "tikTvd": "262200074525",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 108,
     "uikTvd": "462400471974",
+    "uikName": "УИК №108",
     "tikTvd": "262200074525",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 109,
     "uikTvd": "462400471975",
+    "uikName": "УИК №109",
     "tikTvd": "262200074525",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 110,
     "uikTvd": "462400471976",
+    "uikName": "УИК №110",
     "tikTvd": "262200074525",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 111,
     "uikTvd": "462400471977",
+    "uikName": "УИК №111",
     "tikTvd": "262200074525",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 112,
     "uikTvd": "462400471978",
+    "uikName": "УИК №112",
     "tikTvd": "262200074525",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 113,
     "uikTvd": "462400471979",
+    "uikName": "УИК №113",
     "tikTvd": "262200074525",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 114,
     "uikTvd": "462400471980",
+    "uikName": "УИК №114",
     "tikTvd": "262200074525",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 115,
     "uikTvd": "462400471981",
+    "uikName": "УИК №115",
     "tikTvd": "262200074525",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 116,
     "uikTvd": "462400471982",
+    "uikName": "УИК №116",
     "tikTvd": "262200074525",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 117,
     "uikTvd": "462400471983",
+    "uikName": "УИК №117",
     "tikTvd": "262200074525",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 118,
     "uikTvd": "462400471984",
+    "uikName": "УИК №118",
     "tikTvd": "262200074525",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 119,
     "uikTvd": "462403073371",
+    "uikName": "УИК №119",
     "tikTvd": "262200074552",
-    "tikName": "Касимовская городская"
+    "tikName": "Касимовская городская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 120,
     "uikTvd": "462403073372",
+    "uikName": "УИК №120",
     "tikTvd": "262200074552",
-    "tikName": "Касимовская городская"
+    "tikName": "Касимовская городская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 121,
     "uikTvd": "462403073373",
+    "uikName": "УИК №121",
     "tikTvd": "262200074552",
-    "tikName": "Касимовская городская"
+    "tikName": "Касимовская городская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 122,
     "uikTvd": "462403073374",
+    "uikName": "УИК №122",
     "tikTvd": "262200074552",
-    "tikName": "Касимовская городская"
+    "tikName": "Касимовская городская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 123,
     "uikTvd": "462403073375",
+    "uikName": "УИК №123",
     "tikTvd": "262200074552",
-    "tikName": "Касимовская городская"
+    "tikName": "Касимовская городская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 124,
     "uikTvd": "462403073376",
+    "uikName": "УИК №124",
     "tikTvd": "262200074552",
-    "tikName": "Касимовская городская"
+    "tikName": "Касимовская городская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 125,
     "uikTvd": "462403073377",
+    "uikName": "УИК №125",
     "tikTvd": "262200074552",
-    "tikName": "Касимовская городская"
+    "tikName": "Касимовская городская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 126,
     "uikTvd": "462403073378",
+    "uikName": "УИК №126",
     "tikTvd": "262200074552",
-    "tikName": "Касимовская городская"
+    "tikName": "Касимовская городская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 127,
     "uikTvd": "462403073379",
+    "uikName": "УИК №127",
     "tikTvd": "262200074552",
-    "tikName": "Касимовская городская"
+    "tikName": "Касимовская городская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 128,
     "uikTvd": "462403073380",
+    "uikName": "УИК №128",
     "tikTvd": "262200074552",
-    "tikName": "Касимовская городская"
+    "tikName": "Касимовская городская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 129,
     "uikTvd": "462403073381",
+    "uikName": "УИК №129",
     "tikTvd": "262200074552",
-    "tikName": "Касимовская городская"
+    "tikName": "Касимовская городская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 130,
     "uikTvd": "462403073382",
+    "uikName": "УИК №130",
     "tikTvd": "262200074552",
-    "tikName": "Касимовская городская"
+    "tikName": "Касимовская городская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 131,
     "uikTvd": "462403073383",
+    "uikName": "УИК №131",
     "tikTvd": "262200074552",
-    "tikName": "Касимовская городская"
+    "tikName": "Касимовская городская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 132,
     "uikTvd": "462403073384",
+    "uikName": "УИК №132",
     "tikTvd": "262200074552",
-    "tikName": "Касимовская городская"
+    "tikName": "Касимовская городская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 133,
     "uikTvd": "462403073385",
+    "uikName": "УИК №133",
     "tikTvd": "262200074552",
-    "tikName": "Касимовская городская"
+    "tikName": "Касимовская городская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 134,
     "uikTvd": "462403073386",
+    "uikName": "УИК №134",
     "tikTvd": "262200074552",
-    "tikName": "Касимовская городская"
+    "tikName": "Касимовская городская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 135,
     "uikTvd": "462403073387",
+    "uikName": "УИК №135",
     "tikTvd": "262200074552",
-    "tikName": "Касимовская городская"
+    "tikName": "Касимовская городская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 136,
     "uikTvd": "462403073388",
+    "uikName": "УИК №136",
     "tikTvd": "262200074552",
-    "tikName": "Касимовская городская"
+    "tikName": "Касимовская городская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 137,
     "uikTvd": "462403073389",
+    "uikName": "УИК №137",
     "tikTvd": "262200074552",
-    "tikName": "Касимовская городская"
+    "tikName": "Касимовская городская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 138,
     "uikTvd": "462403073390",
+    "uikName": "УИК №138",
     "tikTvd": "262200074552",
-    "tikName": "Касимовская городская"
+    "tikName": "Касимовская городская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 139,
     "uikTvd": "462403073391",
+    "uikName": "УИК №139",
     "tikTvd": "262200074552",
-    "tikName": "Касимовская городская"
+    "tikName": "Касимовская городская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 140,
     "uikTvd": "462403073392",
+    "uikName": "УИК №140",
     "tikTvd": "262200074552",
-    "tikName": "Касимовская городская"
+    "tikName": "Касимовская городская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 141,
     "uikTvd": "462400571804",
+    "uikName": "УИК №141",
     "tikTvd": "262200074523",
-    "tikName": "Kлепиковская"
+    "tikName": "Kлепиковская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 142,
     "uikTvd": "462400571805",
+    "uikName": "УИК №142",
     "tikTvd": "262200074523",
-    "tikName": "Kлепиковская"
+    "tikName": "Kлепиковская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 143,
     "uikTvd": "462400571806",
+    "uikName": "УИК №143",
     "tikTvd": "262200074523",
-    "tikName": "Kлепиковская"
+    "tikName": "Kлепиковская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 144,
     "uikTvd": "462400571807",
+    "uikName": "УИК №144",
     "tikTvd": "262200074523",
-    "tikName": "Kлепиковская"
+    "tikName": "Kлепиковская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 145,
     "uikTvd": "462400571808",
+    "uikName": "УИК №145",
     "tikTvd": "262200074523",
-    "tikName": "Kлепиковская"
+    "tikName": "Kлепиковская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 146,
     "uikTvd": "462400571809",
+    "uikName": "УИК №146",
     "tikTvd": "262200074523",
-    "tikName": "Kлепиковская"
+    "tikName": "Kлепиковская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 147,
     "uikTvd": "462400571810",
+    "uikName": "УИК №147",
     "tikTvd": "262200074523",
-    "tikName": "Kлепиковская"
+    "tikName": "Kлепиковская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 148,
     "uikTvd": "462400571811",
+    "uikName": "УИК №148",
     "tikTvd": "262200074523",
-    "tikName": "Kлепиковская"
+    "tikName": "Kлепиковская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 149,
     "uikTvd": "462400571812",
+    "uikName": "УИК №149",
     "tikTvd": "262200074523",
-    "tikName": "Kлепиковская"
+    "tikName": "Kлепиковская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 150,
     "uikTvd": "462400571813",
+    "uikName": "УИК №150",
     "tikTvd": "262200074523",
-    "tikName": "Kлепиковская"
+    "tikName": "Kлепиковская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 151,
     "uikTvd": "462400571814",
+    "uikName": "УИК №151",
     "tikTvd": "262200074523",
-    "tikName": "Kлепиковская"
+    "tikName": "Kлепиковская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 152,
     "uikTvd": "462400571815",
+    "uikName": "УИК №152",
     "tikTvd": "262200074523",
-    "tikName": "Kлепиковская"
+    "tikName": "Kлепиковская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 153,
     "uikTvd": "462400571816",
+    "uikName": "УИК №153",
     "tikTvd": "262200074523",
-    "tikName": "Kлепиковская"
+    "tikName": "Kлепиковская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 154,
     "uikTvd": "462400571817",
+    "uikName": "УИК №154",
     "tikTvd": "262200074523",
-    "tikName": "Kлепиковская"
+    "tikName": "Kлепиковская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 155,
     "uikTvd": "462400571818",
+    "uikName": "УИК №155",
     "tikTvd": "262200074523",
-    "tikName": "Kлепиковская"
+    "tikName": "Kлепиковская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 156,
     "uikTvd": "462400571819",
+    "uikName": "УИК №156",
     "tikTvd": "262200074523",
-    "tikName": "Kлепиковская"
+    "tikName": "Kлепиковская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 157,
     "uikTvd": "462400571820",
+    "uikName": "УИК №157",
     "tikTvd": "262200074523",
-    "tikName": "Kлепиковская"
+    "tikName": "Kлепиковская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 158,
     "uikTvd": "462400571821",
+    "uikName": "УИК №158",
     "tikTvd": "262200074523",
-    "tikName": "Kлепиковская"
+    "tikName": "Kлепиковская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 159,
     "uikTvd": "462400571822",
+    "uikName": "УИК №159",
     "tikTvd": "262200074523",
-    "tikName": "Kлепиковская"
+    "tikName": "Kлепиковская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 160,
     "uikTvd": "462400571823",
+    "uikName": "УИК №160",
     "tikTvd": "262200074523",
-    "tikName": "Kлепиковская"
+    "tikName": "Kлепиковская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 161,
     "uikTvd": "462400571824",
+    "uikName": "УИК №161",
     "tikTvd": "262200074523",
-    "tikName": "Kлепиковская"
+    "tikName": "Kлепиковская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 162,
     "uikTvd": "462400571825",
+    "uikName": "УИК №162",
     "tikTvd": "262200074523",
-    "tikName": "Kлепиковская"
+    "tikName": "Kлепиковская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 163,
     "uikTvd": "462400571826",
+    "uikName": "УИК №163",
     "tikTvd": "262200074523",
-    "tikName": "Kлепиковская"
+    "tikName": "Kлепиковская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 164,
     "uikTvd": "462400571827",
+    "uikName": "УИК №164",
     "tikTvd": "262200074523",
-    "tikName": "Kлепиковская"
+    "tikName": "Kлепиковская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 165,
     "uikTvd": "462400571828",
+    "uikName": "УИК №165",
     "tikTvd": "262200074523",
-    "tikName": "Kлепиковская"
+    "tikName": "Kлепиковская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 166,
     "uikTvd": "462400571829",
+    "uikName": "УИК №166",
     "tikTvd": "262200074523",
-    "tikName": "Kлепиковская"
+    "tikName": "Kлепиковская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 167,
     "uikTvd": "462400571830",
+    "uikName": "УИК №167",
     "tikTvd": "262200074523",
-    "tikName": "Kлепиковская"
+    "tikName": "Kлепиковская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 168,
     "uikTvd": "462400571831",
+    "uikName": "УИК №168",
     "tikTvd": "262200074523",
-    "tikName": "Kлепиковская"
+    "tikName": "Kлепиковская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 169,
     "uikTvd": "462400571832",
+    "uikName": "УИК №169",
     "tikTvd": "262200074523",
-    "tikName": "Kлепиковская"
+    "tikName": "Kлепиковская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 170,
     "uikTvd": "462400571833",
+    "uikName": "УИК №170",
     "tikTvd": "262200074523",
-    "tikName": "Kлепиковская"
+    "tikName": "Kлепиковская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 171,
     "uikTvd": "462400571834",
+    "uikName": "УИК №171",
     "tikTvd": "262200074523",
-    "tikName": "Kлепиковская"
+    "tikName": "Kлепиковская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 172,
     "uikTvd": "462400571835",
+    "uikName": "УИК №172",
     "tikTvd": "262200074523",
-    "tikName": "Kлепиковская"
+    "tikName": "Kлепиковская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 173,
     "uikTvd": "462400571836",
+    "uikName": "УИК №173",
     "tikTvd": "262200074523",
-    "tikName": "Kлепиковская"
+    "tikName": "Kлепиковская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 174,
     "uikTvd": "462400571837",
+    "uikName": "УИК №174",
     "tikTvd": "262200074523",
-    "tikName": "Kлепиковская"
+    "tikName": "Kлепиковская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 175,
     "uikTvd": "462400571838",
+    "uikName": "УИК №175",
     "tikTvd": "262200074523",
-    "tikName": "Kлепиковская"
+    "tikName": "Kлепиковская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 176,
     "uikTvd": "462400571839",
+    "uikName": "УИК №176",
     "tikTvd": "262200074523",
-    "tikName": "Kлепиковская"
+    "tikName": "Kлепиковская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 177,
     "uikTvd": "462400571840",
+    "uikName": "УИК №177",
     "tikTvd": "262200074523",
-    "tikName": "Kлепиковская"
+    "tikName": "Kлепиковская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 178,
     "uikTvd": "462400571841",
+    "uikName": "УИК №178",
     "tikTvd": "262200074523",
-    "tikName": "Kлепиковская"
+    "tikName": "Kлепиковская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 179,
     "uikTvd": "462400571842",
+    "uikName": "УИК №179",
     "tikTvd": "262200074523",
-    "tikName": "Kлепиковская"
+    "tikName": "Kлепиковская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 180,
     "uikTvd": "462400571843",
+    "uikName": "УИК №180",
     "tikTvd": "262200074523",
-    "tikName": "Kлепиковская"
+    "tikName": "Kлепиковская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 181,
     "uikTvd": "462400671454",
+    "uikName": "УИК №181",
     "tikTvd": "262200074526",
-    "tikName": "Кораблинская"
+    "tikName": "Кораблинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 182,
     "uikTvd": "462400671455",
+    "uikName": "УИК №182",
     "tikTvd": "262200074526",
-    "tikName": "Кораблинская"
+    "tikName": "Кораблинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 183,
     "uikTvd": "462400671456",
+    "uikName": "УИК №183",
     "tikTvd": "262200074526",
-    "tikName": "Кораблинская"
+    "tikName": "Кораблинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 184,
     "uikTvd": "462400671457",
+    "uikName": "УИК №184",
     "tikTvd": "262200074526",
-    "tikName": "Кораблинская"
+    "tikName": "Кораблинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 185,
     "uikTvd": "462400671458",
+    "uikName": "УИК №185",
     "tikTvd": "262200074526",
-    "tikName": "Кораблинская"
+    "tikName": "Кораблинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 186,
     "uikTvd": "462400671459",
+    "uikName": "УИК №186",
     "tikTvd": "262200074526",
-    "tikName": "Кораблинская"
+    "tikName": "Кораблинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 187,
     "uikTvd": "462400671460",
+    "uikName": "УИК №187",
     "tikTvd": "262200074526",
-    "tikName": "Кораблинская"
+    "tikName": "Кораблинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 188,
     "uikTvd": "462400671461",
+    "uikName": "УИК №188",
     "tikTvd": "262200074526",
-    "tikName": "Кораблинская"
+    "tikName": "Кораблинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 189,
     "uikTvd": "462400671462",
+    "uikName": "УИК №189",
     "tikTvd": "262200074526",
-    "tikName": "Кораблинская"
+    "tikName": "Кораблинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 190,
     "uikTvd": "462400671463",
+    "uikName": "УИК №190",
     "tikTvd": "262200074526",
-    "tikName": "Кораблинская"
+    "tikName": "Кораблинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 191,
     "uikTvd": "462400671464",
+    "uikName": "УИК №191",
     "tikTvd": "262200074526",
-    "tikName": "Кораблинская"
+    "tikName": "Кораблинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 192,
     "uikTvd": "462400671465",
+    "uikName": "УИК №192",
     "tikTvd": "262200074526",
-    "tikName": "Кораблинская"
+    "tikName": "Кораблинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 193,
     "uikTvd": "462400671466",
+    "uikName": "УИК №193",
     "tikTvd": "262200074526",
-    "tikName": "Кораблинская"
+    "tikName": "Кораблинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 194,
     "uikTvd": "462400671467",
+    "uikName": "УИК №194",
     "tikTvd": "262200074526",
-    "tikName": "Кораблинская"
+    "tikName": "Кораблинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 195,
     "uikTvd": "462400671468",
+    "uikName": "УИК №195",
     "tikTvd": "262200074526",
-    "tikName": "Кораблинская"
+    "tikName": "Кораблинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 196,
     "uikTvd": "462400671469",
+    "uikName": "УИК №196",
     "tikTvd": "262200074526",
-    "tikName": "Кораблинская"
+    "tikName": "Кораблинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 197,
     "uikTvd": "462400671470",
+    "uikName": "УИК №197",
     "tikTvd": "262200074526",
-    "tikName": "Кораблинская"
+    "tikName": "Кораблинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 198,
     "uikTvd": "462400671471",
+    "uikName": "УИК №198",
     "tikTvd": "262200074526",
-    "tikName": "Кораблинская"
+    "tikName": "Кораблинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 199,
     "uikTvd": "462400671472",
+    "uikName": "УИК №199",
     "tikTvd": "262200074526",
-    "tikName": "Кораблинская"
+    "tikName": "Кораблинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 200,
     "uikTvd": "462400671473",
+    "uikName": "УИК №200",
     "tikTvd": "262200074526",
-    "tikName": "Кораблинская"
+    "tikName": "Кораблинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 201,
     "uikTvd": "462400671474",
+    "uikName": "УИК №201",
     "tikTvd": "262200074526",
-    "tikName": "Кораблинская"
+    "tikName": "Кораблинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 202,
     "uikTvd": "462400671475",
+    "uikName": "УИК №202",
     "tikTvd": "262200074526",
-    "tikName": "Кораблинская"
+    "tikName": "Кораблинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 203,
     "uikTvd": "462400671476",
+    "uikName": "УИК №203",
     "tikTvd": "262200074526",
-    "tikName": "Кораблинская"
+    "tikName": "Кораблинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 204,
     "uikTvd": "462400671477",
+    "uikName": "УИК №204",
     "tikTvd": "262200074526",
-    "tikName": "Кораблинская"
+    "tikName": "Кораблинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 205,
     "uikTvd": "462400671478",
+    "uikName": "УИК №205",
     "tikTvd": "262200074526",
-    "tikName": "Кораблинская"
+    "tikName": "Кораблинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 206,
     "uikTvd": "462400671479",
+    "uikName": "УИК №206",
     "tikTvd": "262200074526",
-    "tikName": "Кораблинская"
+    "tikName": "Кораблинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 207,
     "uikTvd": "462400671480",
+    "uikName": "УИК №207",
     "tikTvd": "262200074526",
-    "tikName": "Кораблинская"
+    "tikName": "Кораблинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 208,
     "uikTvd": "462400671481",
+    "uikName": "УИК №208",
     "tikTvd": "262200074526",
-    "tikName": "Кораблинская"
+    "tikName": "Кораблинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 209,
     "uikTvd": "462400671482",
+    "uikName": "УИК №209",
     "tikTvd": "262200074526",
-    "tikName": "Кораблинская"
+    "tikName": "Кораблинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 210,
     "uikTvd": "462400671483",
+    "uikName": "УИК №210",
     "tikTvd": "262200074526",
-    "tikName": "Кораблинская"
+    "tikName": "Кораблинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 211,
     "uikTvd": "462400671484",
+    "uikName": "УИК №211",
     "tikTvd": "262200074526",
-    "tikName": "Кораблинская"
+    "tikName": "Кораблинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 212,
     "uikTvd": "462400671485",
+    "uikName": "УИК №212",
     "tikTvd": "262200074526",
-    "tikName": "Кораблинская"
+    "tikName": "Кораблинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 213,
     "uikTvd": "462400671486",
+    "uikName": "УИК №213",
     "tikTvd": "262200074526",
-    "tikName": "Кораблинская"
+    "tikName": "Кораблинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 214,
     "uikTvd": "462400772124",
+    "uikName": "УИК №214",
     "tikTvd": "262200074538",
-    "tikName": "Милославская"
+    "tikName": "Милославская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 215,
     "uikTvd": "462400772125",
+    "uikName": "УИК №215",
     "tikTvd": "262200074538",
-    "tikName": "Милославская"
+    "tikName": "Милославская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 216,
     "uikTvd": "462400772126",
+    "uikName": "УИК №216",
     "tikTvd": "262200074538",
-    "tikName": "Милославская"
+    "tikName": "Милославская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 217,
     "uikTvd": "462400772127",
+    "uikName": "УИК №217",
     "tikTvd": "262200074538",
-    "tikName": "Милославская"
+    "tikName": "Милославская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 218,
     "uikTvd": "462400772128",
+    "uikName": "УИК №218",
     "tikTvd": "262200074538",
-    "tikName": "Милославская"
+    "tikName": "Милославская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 219,
     "uikTvd": "462400772129",
+    "uikName": "УИК №219",
     "tikTvd": "262200074538",
-    "tikName": "Милославская"
+    "tikName": "Милославская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 220,
     "uikTvd": "462400772130",
+    "uikName": "УИК №220",
     "tikTvd": "262200074538",
-    "tikName": "Милославская"
+    "tikName": "Милославская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 221,
     "uikTvd": "462400772131",
+    "uikName": "УИК №221",
     "tikTvd": "262200074538",
-    "tikName": "Милославская"
+    "tikName": "Милославская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 222,
     "uikTvd": "462400772132",
+    "uikName": "УИК №222",
     "tikTvd": "262200074538",
-    "tikName": "Милославская"
+    "tikName": "Милославская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 223,
     "uikTvd": "462400772133",
+    "uikName": "УИК №223",
     "tikTvd": "262200074538",
-    "tikName": "Милославская"
+    "tikName": "Милославская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 224,
     "uikTvd": "462400772134",
+    "uikName": "УИК №224",
     "tikTvd": "262200074538",
-    "tikName": "Милославская"
+    "tikName": "Милославская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 225,
     "uikTvd": "462400772135",
+    "uikName": "УИК №225",
     "tikTvd": "262200074538",
-    "tikName": "Милославская"
+    "tikName": "Милославская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 226,
     "uikTvd": "462400772136",
+    "uikName": "УИК №226",
     "tikTvd": "262200074538",
-    "tikName": "Милославская"
+    "tikName": "Милославская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 227,
     "uikTvd": "462400772137",
+    "uikName": "УИК №227",
     "tikTvd": "262200074538",
-    "tikName": "Милославская"
+    "tikName": "Милославская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 228,
     "uikTvd": "462400772138",
+    "uikName": "УИК №228",
     "tikTvd": "262200074538",
-    "tikName": "Милославская"
+    "tikName": "Милославская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 229,
     "uikTvd": "462400772139",
+    "uikName": "УИК №229",
     "tikTvd": "262200074538",
-    "tikName": "Милославская"
+    "tikName": "Милославская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 230,
     "uikTvd": "462400772140",
+    "uikName": "УИК №230",
     "tikTvd": "262200074538",
-    "tikName": "Милославская"
+    "tikName": "Милославская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 231,
     "uikTvd": "462400772141",
+    "uikName": "УИК №231",
     "tikTvd": "262200074538",
-    "tikName": "Милославская"
+    "tikName": "Милославская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 232,
     "uikTvd": "462400772142",
+    "uikName": "УИК №232",
     "tikTvd": "262200074538",
-    "tikName": "Милославская"
+    "tikName": "Милославская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 233,
     "uikTvd": "462400772143",
+    "uikName": "УИК №233",
     "tikTvd": "262200074538",
-    "tikName": "Милославская"
+    "tikName": "Милославская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 234,
     "uikTvd": "462400772144",
+    "uikName": "УИК №234",
     "tikTvd": "262200074538",
-    "tikName": "Милославская"
+    "tikName": "Милославская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 235,
     "uikTvd": "462400772145",
+    "uikName": "УИК №235",
     "tikTvd": "262200074538",
-    "tikName": "Милославская"
+    "tikName": "Милославская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 236,
     "uikTvd": "462400772146",
+    "uikName": "УИК №236",
     "tikTvd": "262200074538",
-    "tikName": "Милославская"
+    "tikName": "Милославская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 237,
     "uikTvd": "462400772147",
+    "uikName": "УИК №237",
     "tikTvd": "262200074538",
-    "tikName": "Милославская"
+    "tikName": "Милославская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 238,
     "uikTvd": "462400772148",
+    "uikName": "УИК №238",
     "tikTvd": "262200074538",
-    "tikName": "Милославская"
+    "tikName": "Милославская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 239,
     "uikTvd": "462400772149",
+    "uikName": "УИК №239",
     "tikTvd": "262200074538",
-    "tikName": "Милославская"
+    "tikName": "Милославская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 240,
     "uikTvd": "462400772150",
+    "uikName": "УИК №240",
     "tikTvd": "262200074538",
-    "tikName": "Милославская"
+    "tikName": "Милославская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 241,
     "uikTvd": "462400772151",
+    "uikName": "УИК №241",
     "tikTvd": "262200074538",
-    "tikName": "Милославская"
+    "tikName": "Милославская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 242,
     "uikTvd": "462400772152",
+    "uikName": "УИК №242",
     "tikTvd": "262200074538",
-    "tikName": "Милославская"
+    "tikName": "Милославская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 243,
     "uikTvd": "462400772153",
+    "uikName": "УИК №243",
     "tikTvd": "262200074538",
-    "tikName": "Милославская"
+    "tikName": "Милославская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 244,
     "uikTvd": "462400772154",
+    "uikName": "УИК №244",
     "tikTvd": "262200074538",
-    "tikName": "Милославская"
+    "tikName": "Милославская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 245,
     "uikTvd": "462400772155",
+    "uikName": "УИК №245",
     "tikTvd": "262200074538",
-    "tikName": "Милославская"
+    "tikName": "Милославская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 246,
     "uikTvd": "462400772156",
+    "uikName": "УИК №246",
     "tikTvd": "262200074538",
-    "tikName": "Милославская"
+    "tikName": "Милославская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 247,
     "uikTvd": "462400772157",
+    "uikName": "УИК №247",
     "tikTvd": "262200074538",
-    "tikName": "Милославская"
+    "tikName": "Милославская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 248,
     "uikTvd": "462400772158",
+    "uikName": "УИК №248",
     "tikTvd": "262200074538",
-    "tikName": "Милославская"
+    "tikName": "Милославская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 249,
     "uikTvd": "462400772159",
+    "uikName": "УИК №249",
     "tikTvd": "262200074538",
-    "tikName": "Милославская"
+    "tikName": "Милославская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 250,
     "uikTvd": "462400772160",
+    "uikName": "УИК №250",
     "tikTvd": "262200074538",
-    "tikName": "Милославская"
+    "tikName": "Милославская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 251,
     "uikTvd": "462400872312",
+    "uikName": "УИК №251",
     "tikTvd": "262200074540",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 252,
     "uikTvd": "462400872313",
+    "uikName": "УИК №252",
     "tikTvd": "262200074540",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 253,
     "uikTvd": "462400872314",
+    "uikName": "УИК №253",
     "tikTvd": "262200074540",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 254,
     "uikTvd": "462400872315",
+    "uikName": "УИК №254",
     "tikTvd": "262200074540",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 255,
     "uikTvd": "462400872316",
+    "uikName": "УИК №255",
     "tikTvd": "262200074540",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 256,
     "uikTvd": "462400872317",
+    "uikName": "УИК №256",
     "tikTvd": "262200074540",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 257,
     "uikTvd": "462400872318",
+    "uikName": "УИК №257",
     "tikTvd": "262200074540",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 258,
     "uikTvd": "462400872319",
+    "uikName": "УИК №258",
     "tikTvd": "262200074540",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 259,
     "uikTvd": "462400872320",
+    "uikName": "УИК №259",
     "tikTvd": "262200074540",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 260,
     "uikTvd": "462400872321",
+    "uikName": "УИК №260",
     "tikTvd": "262200074540",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 261,
     "uikTvd": "462400872322",
+    "uikName": "УИК №261",
     "tikTvd": "262200074540",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 262,
     "uikTvd": "462400872323",
+    "uikName": "УИК №262",
     "tikTvd": "262200074540",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 263,
     "uikTvd": "462400872324",
+    "uikName": "УИК №263",
     "tikTvd": "262200074540",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 264,
     "uikTvd": "462400872325",
+    "uikName": "УИК №264",
     "tikTvd": "262200074540",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 265,
     "uikTvd": "462400872326",
+    "uikName": "УИК №265",
     "tikTvd": "262200074540",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 266,
     "uikTvd": "462400872327",
+    "uikName": "УИК №266",
     "tikTvd": "262200074540",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 267,
     "uikTvd": "462400872328",
+    "uikName": "УИК №267",
     "tikTvd": "262200074540",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 268,
     "uikTvd": "462400872329",
+    "uikName": "УИК №268",
     "tikTvd": "262200074540",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 269,
     "uikTvd": "462400872330",
+    "uikName": "УИК №269",
     "tikTvd": "262200074540",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 270,
     "uikTvd": "462400872331",
+    "uikName": "УИК №270",
     "tikTvd": "262200074540",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 271,
     "uikTvd": "462400872332",
+    "uikName": "УИК №271",
     "tikTvd": "262200074540",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 272,
     "uikTvd": "462400872333",
+    "uikName": "УИК №272",
     "tikTvd": "262200074540",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 273,
     "uikTvd": "462400872334",
+    "uikName": "УИК №273",
     "tikTvd": "262200074540",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 274,
     "uikTvd": "462400872335",
+    "uikName": "УИК №274",
     "tikTvd": "262200074540",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 275,
     "uikTvd": "462400872336",
+    "uikName": "УИК №275",
     "tikTvd": "262200074540",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 276,
     "uikTvd": "462400872337",
+    "uikName": "УИК №276",
     "tikTvd": "262200074540",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 277,
     "uikTvd": "462400872338",
+    "uikName": "УИК №277",
     "tikTvd": "262200074540",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 278,
     "uikTvd": "462400872339",
+    "uikName": "УИК №278",
     "tikTvd": "262200074540",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 279,
     "uikTvd": "462400872340",
+    "uikName": "УИК №279",
     "tikTvd": "262200074540",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 280,
     "uikTvd": "462400872341",
+    "uikName": "УИК №280",
     "tikTvd": "262200074540",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 281,
     "uikTvd": "462400872342",
+    "uikName": "УИК №281",
     "tikTvd": "262200074540",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 282,
     "uikTvd": "462400872343",
+    "uikName": "УИК №282",
     "tikTvd": "262200074540",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 283,
     "uikTvd": "462400872344",
+    "uikName": "УИК №283",
     "tikTvd": "262200074540",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 284,
     "uikTvd": "462400872345",
+    "uikName": "УИК №284",
     "tikTvd": "262200074540",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 285,
     "uikTvd": "462400872346",
+    "uikName": "УИК №285",
     "tikTvd": "262200074540",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 286,
     "uikTvd": "462400872347",
+    "uikName": "УИК №286",
     "tikTvd": "262200074540",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 287,
     "uikTvd": "462400872348",
+    "uikName": "УИК №287",
     "tikTvd": "262200074540",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 288,
     "uikTvd": "462400872349",
+    "uikName": "УИК №288",
     "tikTvd": "262200074540",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 289,
     "uikTvd": "462400872350",
+    "uikName": "УИК №289",
     "tikTvd": "262200074540",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 290,
     "uikTvd": "462400872351",
+    "uikName": "УИК №290",
     "tikTvd": "262200074540",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 291,
     "uikTvd": "462400872352",
+    "uikName": "УИК №291",
     "tikTvd": "262200074540",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 292,
     "uikTvd": "462400872353",
+    "uikName": "УИК №292",
     "tikTvd": "262200074540",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 293,
     "uikTvd": "462400872354",
+    "uikName": "УИК №293",
     "tikTvd": "262200074540",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 294,
     "uikTvd": "462400872355",
+    "uikName": "УИК №294",
     "tikTvd": "262200074540",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 295,
     "uikTvd": "462400872356",
+    "uikName": "УИК №295",
     "tikTvd": "262200074540",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 296,
     "uikTvd": "462400872357",
+    "uikName": "УИК №296",
     "tikTvd": "262200074540",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 297,
     "uikTvd": "462400872358",
+    "uikName": "УИК №297",
     "tikTvd": "262200074540",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 298,
     "uikTvd": "462400872359",
+    "uikName": "УИК №298",
     "tikTvd": "262200074540",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 299,
     "uikTvd": "462400872360",
+    "uikName": "УИК №299",
     "tikTvd": "262200074540",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 300,
     "uikTvd": "462400872361",
+    "uikName": "УИК №300",
     "tikTvd": "262200074540",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 301,
     "uikTvd": "462400872362",
+    "uikName": "УИК №301",
     "tikTvd": "262200074540",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 302,
     "uikTvd": "462400872363",
+    "uikName": "УИК №302",
     "tikTvd": "262200074540",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 303,
     "uikTvd": "462400872364",
+    "uikName": "УИК №303",
     "tikTvd": "262200074540",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 304,
     "uikTvd": "462400872365",
+    "uikName": "УИК №304",
     "tikTvd": "262200074540",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 305,
     "uikTvd": "462400872366",
+    "uikName": "УИК №305",
     "tikTvd": "262200074540",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 306,
     "uikTvd": "462400872367",
+    "uikName": "УИК №306",
     "tikTvd": "262200074540",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 307,
     "uikTvd": "462400872368",
+    "uikName": "УИК №307",
     "tikTvd": "262200074540",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 308,
     "uikTvd": "462400872369",
+    "uikName": "УИК №308",
     "tikTvd": "262200074540",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 309,
     "uikTvd": "462400872370",
+    "uikName": "УИК №309",
     "tikTvd": "262200074540",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 310,
     "uikTvd": "462400872371",
+    "uikName": "УИК №310",
     "tikTvd": "262200074540",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 311,
     "uikTvd": "462400971505",
+    "uikName": "УИК №311",
     "tikTvd": "262200074537",
-    "tikName": "Новодеревенская"
+    "tikName": "Новодеревенская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 312,
     "uikTvd": "462400971506",
+    "uikName": "УИК №312",
     "tikTvd": "262200074537",
-    "tikName": "Новодеревенская"
+    "tikName": "Новодеревенская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 313,
     "uikTvd": "462400971507",
+    "uikName": "УИК №313",
     "tikTvd": "262200074537",
-    "tikName": "Новодеревенская"
+    "tikName": "Новодеревенская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 314,
     "uikTvd": "462400971508",
+    "uikName": "УИК №314",
     "tikTvd": "262200074537",
-    "tikName": "Новодеревенская"
+    "tikName": "Новодеревенская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 315,
     "uikTvd": "462400971509",
+    "uikName": "УИК №315",
     "tikTvd": "262200074537",
-    "tikName": "Новодеревенская"
+    "tikName": "Новодеревенская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 316,
     "uikTvd": "462400971510",
+    "uikName": "УИК №316",
     "tikTvd": "262200074537",
-    "tikName": "Новодеревенская"
+    "tikName": "Новодеревенская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 317,
     "uikTvd": "462400971511",
+    "uikName": "УИК №317",
     "tikTvd": "262200074537",
-    "tikName": "Новодеревенская"
+    "tikName": "Новодеревенская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 318,
     "uikTvd": "462400971512",
+    "uikName": "УИК №318",
     "tikTvd": "262200074537",
-    "tikName": "Новодеревенская"
+    "tikName": "Новодеревенская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 319,
     "uikTvd": "462400971513",
+    "uikName": "УИК №319",
     "tikTvd": "262200074537",
-    "tikName": "Новодеревенская"
+    "tikName": "Новодеревенская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 320,
     "uikTvd": "462400971514",
+    "uikName": "УИК №320",
     "tikTvd": "262200074537",
-    "tikName": "Новодеревенская"
+    "tikName": "Новодеревенская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 321,
     "uikTvd": "462400971515",
+    "uikName": "УИК №321",
     "tikTvd": "262200074537",
-    "tikName": "Новодеревенская"
+    "tikName": "Новодеревенская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 322,
     "uikTvd": "462400971516",
+    "uikName": "УИК №322",
     "tikTvd": "262200074537",
-    "tikName": "Новодеревенская"
+    "tikName": "Новодеревенская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 323,
     "uikTvd": "462400971517",
+    "uikName": "УИК №323",
     "tikTvd": "262200074537",
-    "tikName": "Новодеревенская"
+    "tikName": "Новодеревенская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 324,
     "uikTvd": "462400971518",
+    "uikName": "УИК №324",
     "tikTvd": "262200074537",
-    "tikName": "Новодеревенская"
+    "tikName": "Новодеревенская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 325,
     "uikTvd": "462400971519",
+    "uikName": "УИК №325",
     "tikTvd": "262200074537",
-    "tikName": "Новодеревенская"
+    "tikName": "Новодеревенская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 326,
     "uikTvd": "462400971520",
+    "uikName": "УИК №326",
     "tikTvd": "262200074537",
-    "tikName": "Новодеревенская"
+    "tikName": "Новодеревенская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 327,
     "uikTvd": "462400971521",
+    "uikName": "УИК №327",
     "tikTvd": "262200074537",
-    "tikName": "Новодеревенская"
+    "tikName": "Новодеревенская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 328,
     "uikTvd": "462400971522",
+    "uikName": "УИК №328",
     "tikTvd": "262200074537",
-    "tikName": "Новодеревенская"
+    "tikName": "Новодеревенская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 329,
     "uikTvd": "462400971523",
+    "uikName": "УИК №329",
     "tikTvd": "262200074537",
-    "tikName": "Новодеревенская"
+    "tikName": "Новодеревенская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 330,
     "uikTvd": "462400971524",
+    "uikName": "УИК №330",
     "tikTvd": "262200074537",
-    "tikName": "Новодеревенская"
+    "tikName": "Новодеревенская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 331,
     "uikTvd": "462400971525",
+    "uikName": "УИК №331",
     "tikTvd": "262200074537",
-    "tikName": "Новодеревенская"
+    "tikName": "Новодеревенская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 332,
     "uikTvd": "462400971526",
+    "uikName": "УИК №332",
     "tikTvd": "262200074537",
-    "tikName": "Новодеревенская"
+    "tikName": "Новодеревенская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 333,
     "uikTvd": "462400971527",
+    "uikName": "УИК №333",
     "tikTvd": "262200074537",
-    "tikName": "Новодеревенская"
+    "tikName": "Новодеревенская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 334,
     "uikTvd": "462400971528",
+    "uikName": "УИК №334",
     "tikTvd": "262200074537",
-    "tikName": "Новодеревенская"
+    "tikName": "Новодеревенская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 335,
     "uikTvd": "462400971529",
+    "uikName": "УИК №335",
     "tikTvd": "262200074537",
-    "tikName": "Новодеревенская"
+    "tikName": "Новодеревенская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 336,
     "uikTvd": "462400971530",
+    "uikName": "УИК №336",
     "tikTvd": "262200074537",
-    "tikName": "Новодеревенская"
+    "tikName": "Новодеревенская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 337,
     "uikTvd": "462401071128",
+    "uikName": "УИК №337",
     "tikTvd": "262200074535",
-    "tikName": "Пителинская"
+    "tikName": "Пителинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 338,
     "uikTvd": "462401071129",
+    "uikName": "УИК №338",
     "tikTvd": "262200074535",
-    "tikName": "Пителинская"
+    "tikName": "Пителинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 339,
     "uikTvd": "462401071130",
+    "uikName": "УИК №339",
     "tikTvd": "262200074535",
-    "tikName": "Пителинская"
+    "tikName": "Пителинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 340,
     "uikTvd": "462401071131",
+    "uikName": "УИК №340",
     "tikTvd": "262200074535",
-    "tikName": "Пителинская"
+    "tikName": "Пителинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 341,
     "uikTvd": "462401071132",
+    "uikName": "УИК №341",
     "tikTvd": "262200074535",
-    "tikName": "Пителинская"
+    "tikName": "Пителинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 342,
     "uikTvd": "462401071133",
+    "uikName": "УИК №342",
     "tikTvd": "262200074535",
-    "tikName": "Пителинская"
+    "tikName": "Пителинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 343,
     "uikTvd": "462401071134",
+    "uikName": "УИК №343",
     "tikTvd": "262200074535",
-    "tikName": "Пителинская"
+    "tikName": "Пителинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 344,
     "uikTvd": "462401071135",
+    "uikName": "УИК №344",
     "tikTvd": "262200074535",
-    "tikName": "Пителинская"
+    "tikName": "Пителинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 345,
     "uikTvd": "462401071136",
+    "uikName": "УИК №345",
     "tikTvd": "262200074535",
-    "tikName": "Пителинская"
+    "tikName": "Пителинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 346,
     "uikTvd": "462401071137",
+    "uikName": "УИК №346",
     "tikTvd": "262200074535",
-    "tikName": "Пителинская"
+    "tikName": "Пителинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 347,
     "uikTvd": "462401071138",
+    "uikName": "УИК №347",
     "tikTvd": "262200074535",
-    "tikName": "Пителинская"
+    "tikName": "Пителинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 348,
     "uikTvd": "462401071139",
+    "uikName": "УИК №348",
     "tikTvd": "262200074535",
-    "tikName": "Пителинская"
+    "tikName": "Пителинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 349,
     "uikTvd": "462401071140",
+    "uikName": "УИК №349",
     "tikTvd": "262200074535",
-    "tikName": "Пителинская"
+    "tikName": "Пителинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 350,
     "uikTvd": "462401071141",
+    "uikName": "УИК №350",
     "tikTvd": "262200074535",
-    "tikName": "Пителинская"
+    "tikName": "Пителинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 351,
     "uikTvd": "462401071142",
+    "uikName": "УИК №351",
     "tikTvd": "262200074535",
-    "tikName": "Пителинская"
+    "tikName": "Пителинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 352,
     "uikTvd": "462401071143",
+    "uikName": "УИК №352",
     "tikTvd": "262200074535",
-    "tikName": "Пителинская"
+    "tikName": "Пителинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 353,
     "uikTvd": "462401071144",
+    "uikName": "УИК №353",
     "tikTvd": "262200074535",
-    "tikName": "Пителинская"
+    "tikName": "Пителинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 354,
     "uikTvd": "462401071145",
+    "uikName": "УИК №354",
     "tikTvd": "262200074535",
-    "tikName": "Пителинская"
+    "tikName": "Пителинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 355,
     "uikTvd": "462401071146",
+    "uikName": "УИК №355",
     "tikTvd": "262200074535",
-    "tikName": "Пителинская"
+    "tikName": "Пителинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 356,
     "uikTvd": "462401071147",
+    "uikName": "УИК №356",
     "tikTvd": "262200074535",
-    "tikName": "Пителинская"
+    "tikName": "Пителинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 357,
     "uikTvd": "462401171512",
+    "uikName": "УИК №357",
     "tikTvd": "262200074536",
-    "tikName": "Пронская"
+    "tikName": "Пронская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 358,
     "uikTvd": "462401171513",
+    "uikName": "УИК №358",
     "tikTvd": "262200074536",
-    "tikName": "Пронская"
+    "tikName": "Пронская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 359,
     "uikTvd": "462401171514",
+    "uikName": "УИК №359",
     "tikTvd": "262200074536",
-    "tikName": "Пронская"
+    "tikName": "Пронская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 360,
     "uikTvd": "462401171515",
+    "uikName": "УИК №360",
     "tikTvd": "262200074536",
-    "tikName": "Пронская"
+    "tikName": "Пронская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 361,
     "uikTvd": "462401171516",
+    "uikName": "УИК №361",
     "tikTvd": "262200074536",
-    "tikName": "Пронская"
+    "tikName": "Пронская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 362,
     "uikTvd": "462401171517",
+    "uikName": "УИК №362",
     "tikTvd": "262200074536",
-    "tikName": "Пронская"
+    "tikName": "Пронская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 363,
     "uikTvd": "462401171518",
+    "uikName": "УИК №363",
     "tikTvd": "262200074536",
-    "tikName": "Пронская"
+    "tikName": "Пронская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 364,
     "uikTvd": "462401171519",
+    "uikName": "УИК №364",
     "tikTvd": "262200074536",
-    "tikName": "Пронская"
+    "tikName": "Пронская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 365,
     "uikTvd": "462401171520",
+    "uikName": "УИК №365",
     "tikTvd": "262200074536",
-    "tikName": "Пронская"
+    "tikName": "Пронская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 366,
     "uikTvd": "462401171521",
+    "uikName": "УИК №366",
     "tikTvd": "262200074536",
-    "tikName": "Пронская"
+    "tikName": "Пронская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 367,
     "uikTvd": "462401171522",
+    "uikName": "УИК №367",
     "tikTvd": "262200074536",
-    "tikName": "Пронская"
+    "tikName": "Пронская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 368,
     "uikTvd": "462401171523",
+    "uikName": "УИК №368",
     "tikTvd": "262200074536",
-    "tikName": "Пронская"
+    "tikName": "Пронская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 369,
     "uikTvd": "462401171524",
+    "uikName": "УИК №369",
     "tikTvd": "262200074536",
-    "tikName": "Пронская"
+    "tikName": "Пронская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 370,
     "uikTvd": "462401171525",
+    "uikName": "УИК №370",
     "tikTvd": "262200074536",
-    "tikName": "Пронская"
+    "tikName": "Пронская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 371,
     "uikTvd": "462401171526",
+    "uikName": "УИК №371",
     "tikTvd": "262200074536",
-    "tikName": "Пронская"
+    "tikName": "Пронская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 372,
     "uikTvd": "462401171527",
+    "uikName": "УИК №372",
     "tikTvd": "262200074536",
-    "tikName": "Пронская"
+    "tikName": "Пронская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 373,
     "uikTvd": "462401171528",
+    "uikName": "УИК №373",
     "tikTvd": "262200074536",
-    "tikName": "Пронская"
+    "tikName": "Пронская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 374,
     "uikTvd": "462401171529",
+    "uikName": "УИК №374",
     "tikTvd": "262200074536",
-    "tikName": "Пронская"
+    "tikName": "Пронская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 375,
     "uikTvd": "462401171530",
+    "uikName": "УИК №375",
     "tikTvd": "262200074536",
-    "tikName": "Пронская"
+    "tikName": "Пронская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 376,
     "uikTvd": "462401171531",
+    "uikName": "УИК №376",
     "tikTvd": "262200074536",
-    "tikName": "Пронская"
+    "tikName": "Пронская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 377,
     "uikTvd": "462401171532",
+    "uikName": "УИК №377",
     "tikTvd": "262200074536",
-    "tikName": "Пронская"
+    "tikName": "Пронская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 378,
     "uikTvd": "462401171533",
+    "uikName": "УИК №378",
     "tikTvd": "262200074536",
-    "tikName": "Пронская"
+    "tikName": "Пронская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 379,
     "uikTvd": "462401171534",
+    "uikName": "УИК №379",
     "tikTvd": "262200074536",
-    "tikName": "Пронская"
+    "tikName": "Пронская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 380,
     "uikTvd": "462401171535",
+    "uikName": "УИК №380",
     "tikTvd": "262200074536",
-    "tikName": "Пронская"
+    "tikName": "Пронская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 381,
     "uikTvd": "462401171536",
+    "uikName": "УИК №381",
     "tikTvd": "262200074536",
-    "tikName": "Пронская"
+    "tikName": "Пронская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 382,
     "uikTvd": "462401171537",
+    "uikName": "УИК №382",
     "tikTvd": "262200074536",
-    "tikName": "Пронская"
+    "tikName": "Пронская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 383,
     "uikTvd": "462401171538",
+    "uikName": "УИК №383",
     "tikTvd": "262200074536",
-    "tikName": "Пронская"
+    "tikName": "Пронская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 384,
     "uikTvd": "462401171539",
+    "uikName": "УИК №384",
     "tikTvd": "262200074536",
-    "tikName": "Пронская"
+    "tikName": "Пронская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 385,
     "uikTvd": "462401171540",
+    "uikName": "УИК №385",
     "tikTvd": "262200074536",
-    "tikName": "Пронская"
+    "tikName": "Пронская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 386,
     "uikTvd": "462401171541",
+    "uikName": "УИК №386",
     "tikTvd": "262200074536",
-    "tikName": "Пронская"
+    "tikName": "Пронская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 387,
     "uikTvd": "462401171542",
+    "uikName": "УИК №387",
     "tikTvd": "262200074536",
-    "tikName": "Пронская"
+    "tikName": "Пронская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 388,
     "uikTvd": "462401171543",
+    "uikName": "УИК №388",
     "tikTvd": "262200074536",
-    "tikName": "Пронская"
+    "tikName": "Пронская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 389,
     "uikTvd": "462401272165",
+    "uikName": "УИК №389",
     "tikTvd": "262200074534",
-    "tikName": "Путятинская"
+    "tikName": "Путятинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 390,
     "uikTvd": "462401272166",
+    "uikName": "УИК №390",
     "tikTvd": "262200074534",
-    "tikName": "Путятинская"
+    "tikName": "Путятинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 391,
     "uikTvd": "462401272167",
+    "uikName": "УИК №391",
     "tikTvd": "262200074534",
-    "tikName": "Путятинская"
+    "tikName": "Путятинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 392,
     "uikTvd": "462401272168",
+    "uikName": "УИК №392",
     "tikTvd": "262200074534",
-    "tikName": "Путятинская"
+    "tikName": "Путятинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 393,
     "uikTvd": "462401272169",
+    "uikName": "УИК №393",
     "tikTvd": "262200074534",
-    "tikName": "Путятинская"
+    "tikName": "Путятинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 394,
     "uikTvd": "462401272170",
+    "uikName": "УИК №394",
     "tikTvd": "262200074534",
-    "tikName": "Путятинская"
+    "tikName": "Путятинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 395,
     "uikTvd": "462401272171",
+    "uikName": "УИК №395",
     "tikTvd": "262200074534",
-    "tikName": "Путятинская"
+    "tikName": "Путятинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 396,
     "uikTvd": "462401272172",
+    "uikName": "УИК №396",
     "tikTvd": "262200074534",
-    "tikName": "Путятинская"
+    "tikName": "Путятинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 397,
     "uikTvd": "462401272173",
+    "uikName": "УИК №397",
     "tikTvd": "262200074534",
-    "tikName": "Путятинская"
+    "tikName": "Путятинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 398,
     "uikTvd": "462401272174",
+    "uikName": "УИК №398",
     "tikTvd": "262200074534",
-    "tikName": "Путятинская"
+    "tikName": "Путятинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 399,
     "uikTvd": "462401272175",
+    "uikName": "УИК №399",
     "tikTvd": "262200074534",
-    "tikName": "Путятинская"
+    "tikName": "Путятинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 400,
     "uikTvd": "462401272176",
+    "uikName": "УИК №400",
     "tikTvd": "262200074534",
-    "tikName": "Путятинская"
+    "tikName": "Путятинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 401,
     "uikTvd": "462401272177",
+    "uikName": "УИК №401",
     "tikTvd": "262200074534",
-    "tikName": "Путятинская"
+    "tikName": "Путятинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 402,
     "uikTvd": "462401272178",
+    "uikName": "УИК №402",
     "tikTvd": "262200074534",
-    "tikName": "Путятинская"
+    "tikName": "Путятинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 403,
     "uikTvd": "462401272179",
+    "uikName": "УИК №403",
     "tikTvd": "262200074534",
-    "tikName": "Путятинская"
+    "tikName": "Путятинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 404,
     "uikTvd": "462401272180",
+    "uikName": "УИК №404",
     "tikTvd": "262200074534",
-    "tikName": "Путятинская"
+    "tikName": "Путятинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 405,
     "uikTvd": "462401272181",
+    "uikName": "УИК №405",
     "tikTvd": "262200074534",
-    "tikName": "Путятинская"
+    "tikName": "Путятинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 406,
     "uikTvd": "462401272182",
+    "uikName": "УИК №406",
     "tikTvd": "262200074534",
-    "tikName": "Путятинская"
+    "tikName": "Путятинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 407,
     "uikTvd": "462401272183",
+    "uikName": "УИК №407",
     "tikTvd": "262200074534",
-    "tikName": "Путятинская"
+    "tikName": "Путятинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 408,
     "uikTvd": "462401272184",
+    "uikName": "УИК №408",
     "tikTvd": "262200074534",
-    "tikName": "Путятинская"
+    "tikName": "Путятинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 409,
     "uikTvd": "462401371634",
+    "uikName": "УИК №409",
     "tikTvd": "262200074532",
-    "tikName": "Рыбновская"
+    "tikName": "Рыбновская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 410,
     "uikTvd": "462401371635",
+    "uikName": "УИК №410",
     "tikTvd": "262200074532",
-    "tikName": "Рыбновская"
+    "tikName": "Рыбновская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 411,
     "uikTvd": "462401371636",
+    "uikName": "УИК №411",
     "tikTvd": "262200074532",
-    "tikName": "Рыбновская"
+    "tikName": "Рыбновская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 412,
     "uikTvd": "462401371637",
+    "uikName": "УИК №412",
     "tikTvd": "262200074532",
-    "tikName": "Рыбновская"
+    "tikName": "Рыбновская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 413,
     "uikTvd": "462401371638",
+    "uikName": "УИК №413",
     "tikTvd": "262200074532",
-    "tikName": "Рыбновская"
+    "tikName": "Рыбновская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 414,
     "uikTvd": "462401371639",
+    "uikName": "УИК №414",
     "tikTvd": "262200074532",
-    "tikName": "Рыбновская"
+    "tikName": "Рыбновская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 415,
     "uikTvd": "462401371640",
+    "uikName": "УИК №415",
     "tikTvd": "262200074532",
-    "tikName": "Рыбновская"
+    "tikName": "Рыбновская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 416,
     "uikTvd": "462401371641",
+    "uikName": "УИК №416",
     "tikTvd": "262200074532",
-    "tikName": "Рыбновская"
+    "tikName": "Рыбновская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 417,
     "uikTvd": "462401371642",
+    "uikName": "УИК №417",
     "tikTvd": "262200074532",
-    "tikName": "Рыбновская"
+    "tikName": "Рыбновская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 418,
     "uikTvd": "462401371643",
+    "uikName": "УИК №418",
     "tikTvd": "262200074532",
-    "tikName": "Рыбновская"
+    "tikName": "Рыбновская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 419,
     "uikTvd": "462401371644",
+    "uikName": "УИК №419",
     "tikTvd": "262200074532",
-    "tikName": "Рыбновская"
+    "tikName": "Рыбновская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 420,
     "uikTvd": "462401371645",
+    "uikName": "УИК №420",
     "tikTvd": "262200074532",
-    "tikName": "Рыбновская"
+    "tikName": "Рыбновская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 421,
     "uikTvd": "462401371646",
+    "uikName": "УИК №421",
     "tikTvd": "262200074532",
-    "tikName": "Рыбновская"
+    "tikName": "Рыбновская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 422,
     "uikTvd": "462401371647",
+    "uikName": "УИК №422",
     "tikTvd": "262200074532",
-    "tikName": "Рыбновская"
+    "tikName": "Рыбновская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 423,
     "uikTvd": "462401371648",
+    "uikName": "УИК №423",
     "tikTvd": "262200074532",
-    "tikName": "Рыбновская"
+    "tikName": "Рыбновская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 424,
     "uikTvd": "462401371649",
+    "uikName": "УИК №424",
     "tikTvd": "262200074532",
-    "tikName": "Рыбновская"
+    "tikName": "Рыбновская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 425,
     "uikTvd": "462401371650",
+    "uikName": "УИК №425",
     "tikTvd": "262200074532",
-    "tikName": "Рыбновская"
+    "tikName": "Рыбновская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 426,
     "uikTvd": "462401371651",
+    "uikName": "УИК №426",
     "tikTvd": "262200074532",
-    "tikName": "Рыбновская"
+    "tikName": "Рыбновская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 427,
     "uikTvd": "462401371652",
+    "uikName": "УИК №427",
     "tikTvd": "262200074532",
-    "tikName": "Рыбновская"
+    "tikName": "Рыбновская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 428,
     "uikTvd": "462401371653",
+    "uikName": "УИК №428",
     "tikTvd": "262200074532",
-    "tikName": "Рыбновская"
+    "tikName": "Рыбновская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 429,
     "uikTvd": "462401371654",
+    "uikName": "УИК №429",
     "tikTvd": "262200074532",
-    "tikName": "Рыбновская"
+    "tikName": "Рыбновская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 430,
     "uikTvd": "462401371655",
+    "uikName": "УИК №430",
     "tikTvd": "262200074532",
-    "tikName": "Рыбновская"
+    "tikName": "Рыбновская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 431,
     "uikTvd": "462401371656",
+    "uikName": "УИК №431",
     "tikTvd": "262200074532",
-    "tikName": "Рыбновская"
+    "tikName": "Рыбновская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 432,
     "uikTvd": "462401371657",
+    "uikName": "УИК №432",
     "tikTvd": "262200074532",
-    "tikName": "Рыбновская"
+    "tikName": "Рыбновская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 433,
     "uikTvd": "462401371658",
+    "uikName": "УИК №433",
     "tikTvd": "262200074532",
-    "tikName": "Рыбновская"
+    "tikName": "Рыбновская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 434,
     "uikTvd": "462401371659",
+    "uikName": "УИК №434",
     "tikTvd": "262200074532",
-    "tikName": "Рыбновская"
+    "tikName": "Рыбновская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 435,
     "uikTvd": "462401371660",
+    "uikName": "УИК №435",
     "tikTvd": "262200074532",
-    "tikName": "Рыбновская"
+    "tikName": "Рыбновская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 436,
     "uikTvd": "462401371661",
+    "uikName": "УИК №436",
     "tikTvd": "262200074532",
-    "tikName": "Рыбновская"
+    "tikName": "Рыбновская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 437,
     "uikTvd": "462401371662",
+    "uikName": "УИК №437",
     "tikTvd": "262200074532",
-    "tikName": "Рыбновская"
+    "tikName": "Рыбновская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 438,
     "uikTvd": "462401371663",
+    "uikName": "УИК №438",
     "tikTvd": "262200074532",
-    "tikName": "Рыбновская"
+    "tikName": "Рыбновская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 439,
     "uikTvd": "462401371664",
+    "uikName": "УИК №439",
     "tikTvd": "262200074532",
-    "tikName": "Рыбновская"
+    "tikName": "Рыбновская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 440,
     "uikTvd": "462401371665",
+    "uikName": "УИК №440",
     "tikTvd": "262200074532",
-    "tikName": "Рыбновская"
+    "tikName": "Рыбновская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 441,
     "uikTvd": "462401371666",
+    "uikName": "УИК №441",
     "tikTvd": "262200074532",
-    "tikName": "Рыбновская"
+    "tikName": "Рыбновская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 442,
     "uikTvd": "462401371667",
+    "uikName": "УИК №442",
     "tikTvd": "262200074532",
-    "tikName": "Рыбновская"
+    "tikName": "Рыбновская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 443,
     "uikTvd": "462401371668",
+    "uikName": "УИК №443",
     "tikTvd": "262200074532",
-    "tikName": "Рыбновская"
+    "tikName": "Рыбновская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 444,
     "uikTvd": "462401371669",
+    "uikName": "УИК №444",
     "tikTvd": "262200074532",
-    "tikName": "Рыбновская"
+    "tikName": "Рыбновская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 445,
     "uikTvd": "462401371670",
+    "uikName": "УИК №445",
     "tikTvd": "262200074532",
-    "tikName": "Рыбновская"
+    "tikName": "Рыбновская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 446,
     "uikTvd": "462401371671",
+    "uikName": "УИК №446",
     "tikTvd": "262200074532",
-    "tikName": "Рыбновская"
+    "tikName": "Рыбновская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 447,
     "uikTvd": "462401371672",
+    "uikName": "УИК №447",
     "tikTvd": "262200074532",
-    "tikName": "Рыбновская"
+    "tikName": "Рыбновская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 448,
     "uikTvd": "462401471784",
+    "uikName": "УИК №448",
     "tikTvd": "262200074533",
-    "tikName": "Ряжская"
+    "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 449,
     "uikTvd": "462401471785",
+    "uikName": "УИК №449",
     "tikTvd": "262200074533",
-    "tikName": "Ряжская"
+    "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 450,
     "uikTvd": "462401471786",
+    "uikName": "УИК №450",
     "tikTvd": "262200074533",
-    "tikName": "Ряжская"
+    "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 451,
     "uikTvd": "462401471787",
+    "uikName": "УИК №451",
     "tikTvd": "262200074533",
-    "tikName": "Ряжская"
+    "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 452,
     "uikTvd": "462401471788",
+    "uikName": "УИК №452",
     "tikTvd": "262200074533",
-    "tikName": "Ряжская"
+    "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 453,
     "uikTvd": "462401471789",
+    "uikName": "УИК №453",
     "tikTvd": "262200074533",
-    "tikName": "Ряжская"
+    "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 454,
     "uikTvd": "462401471790",
+    "uikName": "УИК №454",
     "tikTvd": "262200074533",
-    "tikName": "Ряжская"
+    "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 455,
     "uikTvd": "462401471791",
+    "uikName": "УИК №455",
     "tikTvd": "262200074533",
-    "tikName": "Ряжская"
+    "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 456,
     "uikTvd": "462401471792",
+    "uikName": "УИК №456",
     "tikTvd": "262200074533",
-    "tikName": "Ряжская"
+    "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 457,
     "uikTvd": "462401471793",
+    "uikName": "УИК №457",
     "tikTvd": "262200074533",
-    "tikName": "Ряжская"
+    "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 458,
     "uikTvd": "462401471794",
+    "uikName": "УИК №458",
     "tikTvd": "262200074533",
-    "tikName": "Ряжская"
+    "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 459,
     "uikTvd": "462401471795",
+    "uikName": "УИК №459",
     "tikTvd": "262200074533",
-    "tikName": "Ряжская"
+    "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 460,
     "uikTvd": "462401471796",
+    "uikName": "УИК №460",
     "tikTvd": "262200074533",
-    "tikName": "Ряжская"
+    "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 461,
     "uikTvd": "462401471797",
+    "uikName": "УИК №461",
     "tikTvd": "262200074533",
-    "tikName": "Ряжская"
+    "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 462,
     "uikTvd": "462401471798",
+    "uikName": "УИК №462",
     "tikTvd": "262200074533",
-    "tikName": "Ряжская"
+    "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 463,
     "uikTvd": "462401471799",
+    "uikName": "УИК №463",
     "tikTvd": "262200074533",
-    "tikName": "Ряжская"
+    "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 464,
     "uikTvd": "462401471800",
+    "uikName": "УИК №464",
     "tikTvd": "262200074533",
-    "tikName": "Ряжская"
+    "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 465,
     "uikTvd": "462401471801",
+    "uikName": "УИК №465",
     "tikTvd": "262200074533",
-    "tikName": "Ряжская"
+    "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 466,
     "uikTvd": "462401471802",
+    "uikName": "УИК №466",
     "tikTvd": "262200074533",
-    "tikName": "Ряжская"
+    "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 467,
     "uikTvd": "462401471803",
+    "uikName": "УИК №467",
     "tikTvd": "262200074533",
-    "tikName": "Ряжская"
+    "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 468,
     "uikTvd": "462401471804",
+    "uikName": "УИК №468",
     "tikTvd": "262200074533",
-    "tikName": "Ряжская"
+    "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 469,
     "uikTvd": "462401471805",
+    "uikName": "УИК №469",
     "tikTvd": "262200074533",
-    "tikName": "Ряжская"
+    "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 470,
     "uikTvd": "462401471806",
+    "uikName": "УИК №470",
     "tikTvd": "262200074533",
-    "tikName": "Ряжская"
+    "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 471,
     "uikTvd": "462401471807",
+    "uikName": "УИК №471",
     "tikTvd": "262200074533",
-    "tikName": "Ряжская"
+    "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 472,
     "uikTvd": "462401471808",
+    "uikName": "УИК №472",
     "tikTvd": "262200074533",
-    "tikName": "Ряжская"
+    "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 473,
     "uikTvd": "462401471809",
+    "uikName": "УИК №473",
     "tikTvd": "262200074533",
-    "tikName": "Ряжская"
+    "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 474,
     "uikTvd": "462401471810",
+    "uikName": "УИК №474",
     "tikTvd": "262200074533",
-    "tikName": "Ряжская"
+    "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 475,
     "uikTvd": "462401471811",
+    "uikName": "УИК №475",
     "tikTvd": "262200074533",
-    "tikName": "Ряжская"
+    "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 476,
     "uikTvd": "462401471812",
+    "uikName": "УИК №476",
     "tikTvd": "262200074533",
-    "tikName": "Ряжская"
+    "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 477,
     "uikTvd": "462401471813",
+    "uikName": "УИК №477",
     "tikTvd": "262200074533",
-    "tikName": "Ряжская"
+    "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 478,
     "uikTvd": "462401471814",
+    "uikName": "УИК №478",
     "tikTvd": "262200074533",
-    "tikName": "Ряжская"
+    "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 479,
     "uikTvd": "462401471815",
+    "uikName": "УИК №479",
     "tikTvd": "262200074533",
-    "tikName": "Ряжская"
+    "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 480,
     "uikTvd": "462401471816",
+    "uikName": "УИК №480",
     "tikTvd": "262200074533",
-    "tikName": "Ряжская"
+    "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 481,
     "uikTvd": "462401471817",
+    "uikName": "УИК №481",
     "tikTvd": "262200074533",
-    "tikName": "Ряжская"
+    "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 482,
     "uikTvd": "462401471818",
+    "uikName": "УИК №482",
     "tikTvd": "262200074533",
-    "tikName": "Ряжская"
+    "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 483,
     "uikTvd": "462401471819",
+    "uikName": "УИК №483",
     "tikTvd": "262200074533",
-    "tikName": "Ряжская"
+    "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 484,
     "uikTvd": "462401571676",
+    "uikName": "УИК №484",
     "tikTvd": "262200074530",
-    "tikName": "Рязанская"
+    "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 485,
     "uikTvd": "462401571677",
+    "uikName": "УИК №485",
     "tikTvd": "262200074530",
-    "tikName": "Рязанская"
+    "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 486,
     "uikTvd": "462401571678",
+    "uikName": "УИК №486",
     "tikTvd": "262200074530",
-    "tikName": "Рязанская"
+    "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 487,
     "uikTvd": "462401571679",
+    "uikName": "УИК №487",
     "tikTvd": "262200074530",
-    "tikName": "Рязанская"
+    "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 488,
     "uikTvd": "462401571680",
+    "uikName": "УИК №488",
     "tikTvd": "262200074530",
-    "tikName": "Рязанская"
+    "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 489,
     "uikTvd": "462401571681",
+    "uikName": "УИК №489",
     "tikTvd": "262200074530",
-    "tikName": "Рязанская"
+    "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 490,
     "uikTvd": "462401571682",
+    "uikName": "УИК №490",
     "tikTvd": "262200074530",
-    "tikName": "Рязанская"
+    "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 491,
     "uikTvd": "462401571683",
+    "uikName": "УИК №491",
     "tikTvd": "262200074530",
-    "tikName": "Рязанская"
+    "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 492,
     "uikTvd": "462401571684",
+    "uikName": "УИК №492",
     "tikTvd": "262200074530",
-    "tikName": "Рязанская"
+    "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 493,
     "uikTvd": "462401571685",
+    "uikName": "УИК №493",
     "tikTvd": "262200074530",
-    "tikName": "Рязанская"
+    "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 494,
     "uikTvd": "462401571686",
+    "uikName": "УИК №494",
     "tikTvd": "262200074530",
-    "tikName": "Рязанская"
+    "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 495,
     "uikTvd": "462401571687",
+    "uikName": "УИК №495",
     "tikTvd": "262200074530",
-    "tikName": "Рязанская"
+    "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 496,
     "uikTvd": "462401571688",
+    "uikName": "УИК №496",
     "tikTvd": "262200074530",
-    "tikName": "Рязанская"
+    "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 497,
     "uikTvd": "462401571689",
+    "uikName": "УИК №497",
     "tikTvd": "262200074530",
-    "tikName": "Рязанская"
+    "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 498,
     "uikTvd": "462401571690",
+    "uikName": "УИК №498",
     "tikTvd": "262200074530",
-    "tikName": "Рязанская"
+    "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 499,
     "uikTvd": "462401571691",
+    "uikName": "УИК №499",
     "tikTvd": "262200074530",
-    "tikName": "Рязанская"
+    "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 500,
     "uikTvd": "462401571692",
+    "uikName": "УИК №500",
     "tikTvd": "262200074530",
-    "tikName": "Рязанская"
+    "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 501,
     "uikTvd": "462401571693",
+    "uikName": "УИК №501",
     "tikTvd": "262200074530",
-    "tikName": "Рязанская"
+    "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 502,
     "uikTvd": "462401571694",
+    "uikName": "УИК №502",
     "tikTvd": "262200074530",
-    "tikName": "Рязанская"
+    "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 503,
     "uikTvd": "462401571695",
+    "uikName": "УИК №503",
     "tikTvd": "262200074530",
-    "tikName": "Рязанская"
+    "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 504,
     "uikTvd": "462401571696",
+    "uikName": "УИК №504",
     "tikTvd": "262200074530",
-    "tikName": "Рязанская"
+    "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 505,
     "uikTvd": "462401571697",
+    "uikName": "УИК №505",
     "tikTvd": "262200074530",
-    "tikName": "Рязанская"
+    "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 506,
     "uikTvd": "462401571698",
+    "uikName": "УИК №506",
     "tikTvd": "262200074530",
-    "tikName": "Рязанская"
+    "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 507,
     "uikTvd": "462401571699",
+    "uikName": "УИК №507",
     "tikTvd": "262200074530",
-    "tikName": "Рязанская"
+    "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 508,
     "uikTvd": "462401571700",
+    "uikName": "УИК №508",
     "tikTvd": "262200074530",
-    "tikName": "Рязанская"
+    "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 509,
     "uikTvd": "462401571701",
+    "uikName": "УИК №509",
     "tikTvd": "262200074530",
-    "tikName": "Рязанская"
+    "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 510,
     "uikTvd": "462401571702",
+    "uikName": "УИК №510",
     "tikTvd": "262200074530",
-    "tikName": "Рязанская"
+    "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 511,
     "uikTvd": "462401571703",
+    "uikName": "УИК №511",
     "tikTvd": "262200074530",
-    "tikName": "Рязанская"
+    "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 512,
     "uikTvd": "462401571704",
+    "uikName": "УИК №512",
     "tikTvd": "262200074530",
-    "tikName": "Рязанская"
+    "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 513,
     "uikTvd": "462401571705",
+    "uikName": "УИК №513",
     "tikTvd": "262200074530",
-    "tikName": "Рязанская"
+    "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 514,
     "uikTvd": "462401571706",
+    "uikName": "УИК №514",
     "tikTvd": "262200074530",
-    "tikName": "Рязанская"
+    "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 515,
     "uikTvd": "462401571707",
+    "uikName": "УИК №515",
     "tikTvd": "262200074530",
-    "tikName": "Рязанская"
+    "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 516,
     "uikTvd": "462401571708",
+    "uikName": "УИК №516",
     "tikTvd": "262200074530",
-    "tikName": "Рязанская"
+    "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 517,
     "uikTvd": "462401571709",
+    "uikName": "УИК №517",
     "tikTvd": "262200074530",
-    "tikName": "Рязанская"
+    "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 518,
     "uikTvd": "462401571710",
+    "uikName": "УИК №518",
     "tikTvd": "262200074530",
-    "tikName": "Рязанская"
+    "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 519,
     "uikTvd": "462401571711",
+    "uikName": "УИК №519",
     "tikTvd": "262200074530",
-    "tikName": "Рязанская"
+    "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 520,
     "uikTvd": "462401571712",
+    "uikName": "УИК №520",
     "tikTvd": "262200074530",
-    "tikName": "Рязанская"
+    "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 521,
     "uikTvd": "462401571713",
+    "uikName": "УИК №521",
     "tikTvd": "262200074530",
-    "tikName": "Рязанская"
+    "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 522,
     "uikTvd": "462401571714",
+    "uikName": "УИК №522",
     "tikTvd": "262200074530",
-    "tikName": "Рязанская"
+    "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 523,
     "uikTvd": "462401571715",
+    "uikName": "УИК №523",
     "tikTvd": "262200074530",
-    "tikName": "Рязанская"
+    "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 524,
     "uikTvd": "462401571716",
+    "uikName": "УИК №524",
     "tikTvd": "262200074530",
-    "tikName": "Рязанская"
+    "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 525,
     "uikTvd": "462401571717",
+    "uikName": "УИК №525",
     "tikTvd": "262200074530",
-    "tikName": "Рязанская"
+    "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 526,
     "uikTvd": "462401571718",
+    "uikName": "УИК №526",
     "tikTvd": "262200074530",
-    "tikName": "Рязанская"
+    "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 527,
     "uikTvd": "462401571719",
+    "uikName": "УИК №527",
     "tikTvd": "262200074530",
-    "tikName": "Рязанская"
+    "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 528,
     "uikTvd": "462401571720",
+    "uikName": "УИК №528",
     "tikTvd": "262200074530",
-    "tikName": "Рязанская"
+    "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 529,
     "uikTvd": "462401571721",
+    "uikName": "УИК №529",
     "tikTvd": "262200074530",
-    "tikName": "Рязанская"
+    "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 530,
     "uikTvd": "462401571722",
+    "uikName": "УИК №530",
     "tikTvd": "262200074530",
-    "tikName": "Рязанская"
+    "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 531,
     "uikTvd": "462401571723",
+    "uikName": "УИК №531",
     "tikTvd": "262200074530",
-    "tikName": "Рязанская"
+    "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 532,
     "uikTvd": "462401571724",
+    "uikName": "УИК №532",
     "tikTvd": "262200074530",
-    "tikName": "Рязанская"
+    "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 533,
     "uikTvd": "462401571725",
+    "uikName": "УИК №533",
     "tikTvd": "262200074530",
-    "tikName": "Рязанская"
+    "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 534,
     "uikTvd": "462401672170",
+    "uikName": "УИК №534",
     "tikTvd": "262200074529",
-    "tikName": "Рязань, Железнодорожная"
+    "tikName": "Рязань, Железнодорожная",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 535,
     "uikTvd": "462401672171",
+    "uikName": "УИК №535",
     "tikTvd": "262200074529",
-    "tikName": "Рязань, Железнодорожная"
+    "tikName": "Рязань, Железнодорожная",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 536,
     "uikTvd": "462401672172",
+    "uikName": "УИК №536",
     "tikTvd": "262200074529",
-    "tikName": "Рязань, Железнодорожная"
+    "tikName": "Рязань, Железнодорожная",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 537,
     "uikTvd": "462401672173",
+    "uikName": "УИК №537",
     "tikTvd": "262200074529",
-    "tikName": "Рязань, Железнодорожная"
+    "tikName": "Рязань, Железнодорожная",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 538,
     "uikTvd": "462401672174",
+    "uikName": "УИК №538",
     "tikTvd": "262200074529",
-    "tikName": "Рязань, Железнодорожная"
+    "tikName": "Рязань, Железнодорожная",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 539,
     "uikTvd": "462401672175",
+    "uikName": "УИК №539",
     "tikTvd": "262200074529",
-    "tikName": "Рязань, Железнодорожная"
+    "tikName": "Рязань, Железнодорожная",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 540,
     "uikTvd": "462401672176",
+    "uikName": "УИК №540",
     "tikTvd": "262200074529",
-    "tikName": "Рязань, Железнодорожная"
+    "tikName": "Рязань, Железнодорожная",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 541,
     "uikTvd": "462401672177",
+    "uikName": "УИК №541",
     "tikTvd": "262200074529",
-    "tikName": "Рязань, Железнодорожная"
+    "tikName": "Рязань, Железнодорожная",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 542,
     "uikTvd": "462401672178",
+    "uikName": "УИК №542",
     "tikTvd": "262200074529",
-    "tikName": "Рязань, Железнодорожная"
+    "tikName": "Рязань, Железнодорожная",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 543,
     "uikTvd": "462401672179",
+    "uikName": "УИК №543",
     "tikTvd": "262200074529",
-    "tikName": "Рязань, Железнодорожная"
+    "tikName": "Рязань, Железнодорожная",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 544,
     "uikTvd": "462401672180",
+    "uikName": "УИК №544",
     "tikTvd": "262200074529",
-    "tikName": "Рязань, Железнодорожная"
+    "tikName": "Рязань, Железнодорожная",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 545,
     "uikTvd": "462401672181",
+    "uikName": "УИК №545",
     "tikTvd": "262200074529",
-    "tikName": "Рязань, Железнодорожная"
+    "tikName": "Рязань, Железнодорожная",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 546,
     "uikTvd": "462401672182",
+    "uikName": "УИК №546",
     "tikTvd": "262200074529",
-    "tikName": "Рязань, Железнодорожная"
+    "tikName": "Рязань, Железнодорожная",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 547,
     "uikTvd": "462401672183",
+    "uikName": "УИК №547",
     "tikTvd": "262200074529",
-    "tikName": "Рязань, Железнодорожная"
+    "tikName": "Рязань, Железнодорожная",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 548,
     "uikTvd": "462401672184",
+    "uikName": "УИК №548",
     "tikTvd": "262200074529",
-    "tikName": "Рязань, Железнодорожная"
+    "tikName": "Рязань, Железнодорожная",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 549,
     "uikTvd": "462401672185",
+    "uikName": "УИК №549",
     "tikTvd": "262200074529",
-    "tikName": "Рязань, Железнодорожная"
+    "tikName": "Рязань, Железнодорожная",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 550,
     "uikTvd": "462401672186",
+    "uikName": "УИК №550",
     "tikTvd": "262200074529",
-    "tikName": "Рязань, Железнодорожная"
+    "tikName": "Рязань, Железнодорожная",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 551,
     "uikTvd": "462401672187",
+    "uikName": "УИК №551",
     "tikTvd": "262200074529",
-    "tikName": "Рязань, Железнодорожная"
+    "tikName": "Рязань, Железнодорожная",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 552,
     "uikTvd": "462401672188",
+    "uikName": "УИК №552",
     "tikTvd": "262200074529",
-    "tikName": "Рязань, Железнодорожная"
+    "tikName": "Рязань, Железнодорожная",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 553,
     "uikTvd": "462401672189",
+    "uikName": "УИК №553",
     "tikTvd": "262200074529",
-    "tikName": "Рязань, Железнодорожная"
+    "tikName": "Рязань, Железнодорожная",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 554,
     "uikTvd": "462401672190",
+    "uikName": "УИК №554",
     "tikTvd": "262200074529",
-    "tikName": "Рязань, Железнодорожная"
+    "tikName": "Рязань, Железнодорожная",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 555,
     "uikTvd": "462401672191",
+    "uikName": "УИК №555",
     "tikTvd": "262200074529",
-    "tikName": "Рязань, Железнодорожная"
+    "tikName": "Рязань, Железнодорожная",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 556,
     "uikTvd": "462401672192",
+    "uikName": "УИК №556",
     "tikTvd": "262200074529",
-    "tikName": "Рязань, Железнодорожная"
+    "tikName": "Рязань, Железнодорожная",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 557,
     "uikTvd": "462401672193",
+    "uikName": "УИК №557",
     "tikTvd": "262200074529",
-    "tikName": "Рязань, Железнодорожная"
+    "tikName": "Рязань, Железнодорожная",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 558,
     "uikTvd": "462401672194",
+    "uikName": "УИК №558",
     "tikTvd": "262200074529",
-    "tikName": "Рязань, Железнодорожная"
+    "tikName": "Рязань, Железнодорожная",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 559,
     "uikTvd": "462401672195",
+    "uikName": "УИК №559",
     "tikTvd": "262200074529",
-    "tikName": "Рязань, Железнодорожная"
+    "tikName": "Рязань, Железнодорожная",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 560,
     "uikTvd": "462401672196",
+    "uikName": "УИК №560",
     "tikTvd": "262200074529",
-    "tikName": "Рязань, Железнодорожная"
+    "tikName": "Рязань, Железнодорожная",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 561,
     "uikTvd": "462401672197",
+    "uikName": "УИК №561",
     "tikTvd": "262200074529",
-    "tikName": "Рязань, Железнодорожная"
+    "tikName": "Рязань, Железнодорожная",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 562,
     "uikTvd": "462401672198",
+    "uikName": "УИК №562",
     "tikTvd": "262200074529",
-    "tikName": "Рязань, Железнодорожная"
+    "tikName": "Рязань, Железнодорожная",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 563,
     "uikTvd": "462401672199",
+    "uikName": "УИК №563",
     "tikTvd": "262200074529",
-    "tikName": "Рязань, Железнодорожная"
+    "tikName": "Рязань, Железнодорожная",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 564,
     "uikTvd": "462401672200",
+    "uikName": "УИК №564",
     "tikTvd": "262200074529",
-    "tikName": "Рязань, Железнодорожная"
+    "tikName": "Рязань, Железнодорожная",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 565,
     "uikTvd": "462401672201",
+    "uikName": "УИК №565",
     "tikTvd": "262200074529",
-    "tikName": "Рязань, Железнодорожная"
+    "tikName": "Рязань, Железнодорожная",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 566,
     "uikTvd": "462401672202",
+    "uikName": "УИК №566",
     "tikTvd": "262200074529",
-    "tikName": "Рязань, Железнодорожная"
+    "tikName": "Рязань, Железнодорожная",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 567,
     "uikTvd": "462401672203",
+    "uikName": "УИК №567",
     "tikTvd": "262200074529",
-    "tikName": "Рязань, Железнодорожная"
+    "tikName": "Рязань, Железнодорожная",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 568,
     "uikTvd": "462401672204",
+    "uikName": "УИК №568",
     "tikTvd": "262200074529",
-    "tikName": "Рязань, Железнодорожная"
+    "tikName": "Рязань, Железнодорожная",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 569,
     "uikTvd": "462401672205",
+    "uikName": "УИК №569",
     "tikTvd": "262200074529",
-    "tikName": "Рязань, Железнодорожная"
+    "tikName": "Рязань, Железнодорожная",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 570,
     "uikTvd": "462401672206",
+    "uikName": "УИК №570",
     "tikTvd": "262200074529",
-    "tikName": "Рязань, Железнодорожная"
+    "tikName": "Рязань, Железнодорожная",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 571,
     "uikTvd": "462401672207",
+    "uikName": "УИК №571",
     "tikTvd": "262200074529",
-    "tikName": "Рязань, Железнодорожная"
+    "tikName": "Рязань, Железнодорожная",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 572,
     "uikTvd": "462401672208",
+    "uikName": "УИК №572",
     "tikTvd": "262200074529",
-    "tikName": "Рязань, Железнодорожная"
+    "tikName": "Рязань, Железнодорожная",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 573,
     "uikTvd": "462401672209",
+    "uikName": "УИК №573",
     "tikTvd": "262200074529",
-    "tikName": "Рязань, Железнодорожная"
+    "tikName": "Рязань, Железнодорожная",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 574,
     "uikTvd": "462401672210",
+    "uikName": "УИК №574",
     "tikTvd": "262200074529",
-    "tikName": "Рязань, Железнодорожная"
+    "tikName": "Рязань, Железнодорожная",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 575,
     "uikTvd": "462401672211",
+    "uikName": "УИК №575",
     "tikTvd": "262200074529",
-    "tikName": "Рязань, Железнодорожная"
+    "tikName": "Рязань, Железнодорожная",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 576,
     "uikTvd": "462401672212",
+    "uikName": "УИК №576",
     "tikTvd": "262200074529",
-    "tikName": "Рязань, Железнодорожная"
+    "tikName": "Рязань, Железнодорожная",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 577,
     "uikTvd": "462401672213",
+    "uikName": "УИК №577",
     "tikTvd": "262200074529",
-    "tikName": "Рязань, Железнодорожная"
+    "tikName": "Рязань, Железнодорожная",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 578,
     "uikTvd": "462401672214",
+    "uikName": "УИК №578",
     "tikTvd": "262200074529",
-    "tikName": "Рязань, Железнодорожная"
+    "tikName": "Рязань, Железнодорожная",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 579,
     "uikTvd": "462401672215",
+    "uikName": "УИК №579",
     "tikTvd": "262200074529",
-    "tikName": "Рязань, Железнодорожная"
+    "tikName": "Рязань, Железнодорожная",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 580,
     "uikTvd": "462401672216",
+    "uikName": "УИК №580",
     "tikTvd": "262200074529",
-    "tikName": "Рязань, Железнодорожная"
+    "tikName": "Рязань, Железнодорожная",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 581,
     "uikTvd": "462401672217",
+    "uikName": "УИК №581",
     "tikTvd": "262200074529",
-    "tikName": "Рязань, Железнодорожная"
+    "tikName": "Рязань, Железнодорожная",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 582,
     "uikTvd": "462401672218",
+    "uikName": "УИК №582",
     "tikTvd": "262200074529",
-    "tikName": "Рязань, Железнодорожная"
+    "tikName": "Рязань, Железнодорожная",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 583,
     "uikTvd": "462401772819",
+    "uikName": "УИК №583",
     "tikTvd": "262200074531",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 584,
     "uikTvd": "462401772820",
+    "uikName": "УИК №584",
     "tikTvd": "262200074531",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 585,
     "uikTvd": "462401772821",
+    "uikName": "УИК №585",
     "tikTvd": "262200074531",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 586,
     "uikTvd": "462401772822",
+    "uikName": "УИК №586",
     "tikTvd": "262200074531",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 587,
     "uikTvd": "462401772823",
+    "uikName": "УИК №587",
     "tikTvd": "262200074531",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 588,
     "uikTvd": "462401772824",
+    "uikName": "УИК №588",
     "tikTvd": "262200074531",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 589,
     "uikTvd": "462401772825",
+    "uikName": "УИК №589",
     "tikTvd": "262200074531",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 590,
     "uikTvd": "462401772826",
+    "uikName": "УИК №590",
     "tikTvd": "262200074531",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 591,
     "uikTvd": "462401772827",
+    "uikName": "УИК №591",
     "tikTvd": "262200074531",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 592,
     "uikTvd": "462401772828",
+    "uikName": "УИК №592",
     "tikTvd": "262200074531",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 593,
     "uikTvd": "462401772829",
+    "uikName": "УИК №593",
     "tikTvd": "262200074531",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 594,
     "uikTvd": "462401772830",
+    "uikName": "УИК №594",
     "tikTvd": "262200074531",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 595,
     "uikTvd": "462401772831",
+    "uikName": "УИК №595",
     "tikTvd": "262200074531",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 596,
     "uikTvd": "462401772832",
+    "uikName": "УИК №596",
     "tikTvd": "262200074531",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 597,
     "uikTvd": "462401772833",
+    "uikName": "УИК №597",
     "tikTvd": "262200074531",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 598,
     "uikTvd": "462401772834",
+    "uikName": "УИК №598",
     "tikTvd": "262200074531",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 599,
     "uikTvd": "462401772835",
+    "uikName": "УИК №599",
     "tikTvd": "262200074531",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 600,
     "uikTvd": "462401772836",
+    "uikName": "УИК №600",
     "tikTvd": "262200074531",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 601,
     "uikTvd": "462401772837",
+    "uikName": "УИК №601",
     "tikTvd": "262200074531",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 602,
     "uikTvd": "462401772838",
+    "uikName": "УИК №602",
     "tikTvd": "262200074531",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 603,
     "uikTvd": "462401772839",
+    "uikName": "УИК №603",
     "tikTvd": "262200074531",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 604,
     "uikTvd": "462401772840",
+    "uikName": "УИК №604",
     "tikTvd": "262200074531",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 605,
     "uikTvd": "462401772841",
+    "uikName": "УИК №605",
     "tikTvd": "262200074531",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 606,
     "uikTvd": "462401772842",
+    "uikName": "УИК №606",
     "tikTvd": "262200074531",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 607,
     "uikTvd": "462401772843",
+    "uikName": "УИК №607",
     "tikTvd": "262200074531",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 608,
     "uikTvd": "462401772844",
+    "uikName": "УИК №608",
     "tikTvd": "262200074531",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 609,
     "uikTvd": "462401772845",
+    "uikName": "УИК №609",
     "tikTvd": "262200074531",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 610,
     "uikTvd": "462401772846",
+    "uikName": "УИК №610",
     "tikTvd": "262200074531",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 611,
     "uikTvd": "462401772847",
+    "uikName": "УИК №611",
     "tikTvd": "262200074531",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 612,
     "uikTvd": "462401772848",
+    "uikName": "УИК №612",
     "tikTvd": "262200074531",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 613,
     "uikTvd": "462401772849",
+    "uikName": "УИК №613",
     "tikTvd": "262200074531",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 614,
     "uikTvd": "462401772850",
+    "uikName": "УИК №614",
     "tikTvd": "262200074531",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 615,
     "uikTvd": "462401772851",
+    "uikName": "УИК №615",
     "tikTvd": "262200074531",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 616,
     "uikTvd": "462401772852",
+    "uikName": "УИК №616",
     "tikTvd": "262200074531",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 617,
     "uikTvd": "462401772853",
+    "uikName": "УИК №617",
     "tikTvd": "262200074531",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 618,
     "uikTvd": "462401772854",
+    "uikName": "УИК №618",
     "tikTvd": "262200074531",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 619,
     "uikTvd": "462401772855",
+    "uikName": "УИК №619",
     "tikTvd": "262200074531",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 620,
     "uikTvd": "462401772856",
+    "uikName": "УИК №620",
     "tikTvd": "262200074531",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 621,
     "uikTvd": "462401772857",
+    "uikName": "УИК №621",
     "tikTvd": "262200074531",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 622,
     "uikTvd": "462401772858",
+    "uikName": "УИК №622",
     "tikTvd": "262200074531",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 623,
     "uikTvd": "462401772859",
+    "uikName": "УИК №623",
     "tikTvd": "262200074531",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 624,
     "uikTvd": "462401772860",
+    "uikName": "УИК №624",
     "tikTvd": "262200074531",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 625,
     "uikTvd": "462401772861",
+    "uikName": "УИК №625",
     "tikTvd": "262200074531",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 626,
     "uikTvd": "462401772862",
+    "uikName": "УИК №626",
     "tikTvd": "262200074531",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 627,
     "uikTvd": "462401772863",
+    "uikName": "УИК №627",
     "tikTvd": "262200074531",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 628,
     "uikTvd": "462401772864",
+    "uikName": "УИК №628",
     "tikTvd": "262200074531",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 629,
     "uikTvd": "462401772865",
+    "uikName": "УИК №629",
     "tikTvd": "262200074531",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 630,
     "uikTvd": "462401772866",
+    "uikName": "УИК №630",
     "tikTvd": "262200074531",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 631,
     "uikTvd": "462401772867",
+    "uikName": "УИК №631",
     "tikTvd": "262200074531",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 632,
     "uikTvd": "462401772868",
+    "uikName": "УИК №632",
     "tikTvd": "262200074531",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 633,
     "uikTvd": "462401772869",
+    "uikName": "УИК №633",
     "tikTvd": "262200074531",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 634,
     "uikTvd": "462401772870",
+    "uikName": "УИК №634",
     "tikTvd": "262200074531",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 635,
     "uikTvd": "462401772871",
+    "uikName": "УИК №635",
     "tikTvd": "262200074531",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 636,
     "uikTvd": "462401772872",
+    "uikName": "УИК №636",
     "tikTvd": "262200074531",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 637,
     "uikTvd": "462401772873",
+    "uikName": "УИК №637",
     "tikTvd": "262200074531",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 638,
     "uikTvd": "462401772874",
+    "uikName": "УИК №638",
     "tikTvd": "262200074531",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 639,
     "uikTvd": "462401772875",
+    "uikName": "УИК №639",
     "tikTvd": "262200074531",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 640,
     "uikTvd": "462401772876",
+    "uikName": "УИК №640",
     "tikTvd": "262200074531",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 641,
     "uikTvd": "462401772877",
+    "uikName": "УИК №641",
     "tikTvd": "262200074531",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 643,
     "uikTvd": "462401872071",
+    "uikName": "УИК №643",
     "tikTvd": "262200074549",
-    "tikName": "Рязань, Октябрьская"
+    "tikName": "Рязань, Октябрьская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 644,
     "uikTvd": "462401872072",
+    "uikName": "УИК №644",
     "tikTvd": "262200074549",
-    "tikName": "Рязань, Октябрьская"
+    "tikName": "Рязань, Октябрьская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 645,
     "uikTvd": "462401872073",
+    "uikName": "УИК №645",
     "tikTvd": "262200074549",
-    "tikName": "Рязань, Октябрьская"
+    "tikName": "Рязань, Октябрьская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 646,
     "uikTvd": "462401872074",
+    "uikName": "УИК №646",
     "tikTvd": "262200074549",
-    "tikName": "Рязань, Октябрьская"
+    "tikName": "Рязань, Октябрьская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 647,
     "uikTvd": "462401872075",
+    "uikName": "УИК №647",
     "tikTvd": "262200074549",
-    "tikName": "Рязань, Октябрьская"
+    "tikName": "Рязань, Октябрьская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 648,
     "uikTvd": "462401872076",
+    "uikName": "УИК №648",
     "tikTvd": "262200074549",
-    "tikName": "Рязань, Октябрьская"
+    "tikName": "Рязань, Октябрьская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 649,
     "uikTvd": "462401872077",
+    "uikName": "УИК №649",
     "tikTvd": "262200074549",
-    "tikName": "Рязань, Октябрьская"
+    "tikName": "Рязань, Октябрьская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 650,
     "uikTvd": "462401872078",
+    "uikName": "УИК №650",
     "tikTvd": "262200074549",
-    "tikName": "Рязань, Октябрьская"
+    "tikName": "Рязань, Октябрьская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 651,
     "uikTvd": "462401872079",
+    "uikName": "УИК №651",
     "tikTvd": "262200074549",
-    "tikName": "Рязань, Октябрьская"
+    "tikName": "Рязань, Октябрьская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 652,
     "uikTvd": "462401872080",
+    "uikName": "УИК №652",
     "tikTvd": "262200074549",
-    "tikName": "Рязань, Октябрьская"
+    "tikName": "Рязань, Октябрьская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 653,
     "uikTvd": "462401872081",
+    "uikName": "УИК №653",
     "tikTvd": "262200074549",
-    "tikName": "Рязань, Октябрьская"
+    "tikName": "Рязань, Октябрьская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 654,
     "uikTvd": "462401872082",
+    "uikName": "УИК №654",
     "tikTvd": "262200074549",
-    "tikName": "Рязань, Октябрьская"
+    "tikName": "Рязань, Октябрьская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 655,
     "uikTvd": "462401872083",
+    "uikName": "УИК №655",
     "tikTvd": "262200074549",
-    "tikName": "Рязань, Октябрьская"
+    "tikName": "Рязань, Октябрьская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 656,
     "uikTvd": "462401872084",
+    "uikName": "УИК №656",
     "tikTvd": "262200074549",
-    "tikName": "Рязань, Октябрьская"
+    "tikName": "Рязань, Октябрьская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 657,
     "uikTvd": "462401872085",
+    "uikName": "УИК №657",
     "tikTvd": "262200074549",
-    "tikName": "Рязань, Октябрьская"
+    "tikName": "Рязань, Октябрьская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 658,
     "uikTvd": "462401872086",
+    "uikName": "УИК №658",
     "tikTvd": "262200074549",
-    "tikName": "Рязань, Октябрьская"
+    "tikName": "Рязань, Октябрьская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 659,
     "uikTvd": "462401872087",
+    "uikName": "УИК №659",
     "tikTvd": "262200074549",
-    "tikName": "Рязань, Октябрьская"
+    "tikName": "Рязань, Октябрьская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 660,
     "uikTvd": "462401872088",
+    "uikName": "УИК №660",
     "tikTvd": "262200074549",
-    "tikName": "Рязань, Октябрьская"
+    "tikName": "Рязань, Октябрьская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 661,
     "uikTvd": "462401872089",
+    "uikName": "УИК №661",
     "tikTvd": "262200074549",
-    "tikName": "Рязань, Октябрьская"
+    "tikName": "Рязань, Октябрьская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 662,
     "uikTvd": "462401872090",
+    "uikName": "УИК №662",
     "tikTvd": "262200074549",
-    "tikName": "Рязань, Октябрьская"
+    "tikName": "Рязань, Октябрьская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 663,
     "uikTvd": "462401872091",
+    "uikName": "УИК №663",
     "tikTvd": "262200074549",
-    "tikName": "Рязань, Октябрьская"
+    "tikName": "Рязань, Октябрьская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 664,
     "uikTvd": "462401872092",
+    "uikName": "УИК №664",
     "tikTvd": "262200074549",
-    "tikName": "Рязань, Октябрьская"
+    "tikName": "Рязань, Октябрьская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 665,
     "uikTvd": "462401872093",
+    "uikName": "УИК №665",
     "tikTvd": "262200074549",
-    "tikName": "Рязань, Октябрьская"
+    "tikName": "Рязань, Октябрьская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 666,
     "uikTvd": "462401872094",
+    "uikName": "УИК №666",
     "tikTvd": "262200074549",
-    "tikName": "Рязань, Октябрьская"
+    "tikName": "Рязань, Октябрьская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 667,
     "uikTvd": "462401872095",
+    "uikName": "УИК №667",
     "tikTvd": "262200074549",
-    "tikName": "Рязань, Октябрьская"
+    "tikName": "Рязань, Октябрьская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 668,
     "uikTvd": "462401872096",
+    "uikName": "УИК №668",
     "tikTvd": "262200074549",
-    "tikName": "Рязань, Октябрьская"
+    "tikName": "Рязань, Октябрьская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 669,
     "uikTvd": "462401872097",
+    "uikName": "УИК №669",
     "tikTvd": "262200074549",
-    "tikName": "Рязань, Октябрьская"
+    "tikName": "Рязань, Октябрьская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 670,
     "uikTvd": "462401872098",
+    "uikName": "УИК №670",
     "tikTvd": "262200074549",
-    "tikName": "Рязань, Октябрьская"
+    "tikName": "Рязань, Октябрьская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 671,
     "uikTvd": "462401872099",
+    "uikName": "УИК №671",
     "tikTvd": "262200074549",
-    "tikName": "Рязань, Октябрьская"
+    "tikName": "Рязань, Октябрьская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 672,
     "uikTvd": "462401872100",
+    "uikName": "УИК №672",
     "tikTvd": "262200074549",
-    "tikName": "Рязань, Октябрьская"
+    "tikName": "Рязань, Октябрьская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 673,
     "uikTvd": "462401872101",
+    "uikName": "УИК №673",
     "tikTvd": "262200074549",
-    "tikName": "Рязань, Октябрьская"
+    "tikName": "Рязань, Октябрьская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 674,
     "uikTvd": "462401872102",
+    "uikName": "УИК №674",
     "tikTvd": "262200074549",
-    "tikName": "Рязань, Октябрьская"
+    "tikName": "Рязань, Октябрьская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 675,
     "uikTvd": "462401872103",
+    "uikName": "УИК №675",
     "tikTvd": "262200074549",
-    "tikName": "Рязань, Октябрьская"
+    "tikName": "Рязань, Октябрьская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 676,
     "uikTvd": "462401872104",
+    "uikName": "УИК №676",
     "tikTvd": "262200074549",
-    "tikName": "Рязань, Октябрьская"
+    "tikName": "Рязань, Октябрьская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 677,
     "uikTvd": "462401872105",
+    "uikName": "УИК №677",
     "tikTvd": "262200074549",
-    "tikName": "Рязань, Октябрьская"
+    "tikName": "Рязань, Октябрьская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 678,
     "uikTvd": "462401872106",
+    "uikName": "УИК №678",
     "tikTvd": "262200074549",
-    "tikName": "Рязань, Октябрьская"
+    "tikName": "Рязань, Октябрьская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 679,
     "uikTvd": "462401872107",
+    "uikName": "УИК №679",
     "tikTvd": "262200074549",
-    "tikName": "Рязань, Октябрьская"
+    "tikName": "Рязань, Октябрьская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 680,
     "uikTvd": "462401872108",
+    "uikName": "УИК №680",
     "tikTvd": "262200074549",
-    "tikName": "Рязань, Октябрьская"
+    "tikName": "Рязань, Октябрьская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 681,
     "uikTvd": "462401872109",
+    "uikName": "УИК №681",
     "tikTvd": "262200074549",
-    "tikName": "Рязань, Октябрьская"
+    "tikName": "Рязань, Октябрьская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 682,
     "uikTvd": "462401872110",
+    "uikName": "УИК №682",
     "tikTvd": "262200074549",
-    "tikName": "Рязань, Октябрьская"
+    "tikName": "Рязань, Октябрьская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 683,
     "uikTvd": "462401872111",
+    "uikName": "УИК №683",
     "tikTvd": "262200074549",
-    "tikName": "Рязань, Октябрьская"
+    "tikName": "Рязань, Октябрьская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 684,
     "uikTvd": "462401872112",
+    "uikName": "УИК №684",
     "tikTvd": "262200074549",
-    "tikName": "Рязань, Октябрьская"
+    "tikName": "Рязань, Октябрьская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 685,
     "uikTvd": "462401872113",
+    "uikName": "УИК №685",
     "tikTvd": "262200074549",
-    "tikName": "Рязань, Октябрьская"
+    "tikName": "Рязань, Октябрьская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 686,
     "uikTvd": "462401872114",
+    "uikName": "УИК №686",
     "tikTvd": "262200074549",
-    "tikName": "Рязань, Октябрьская"
+    "tikName": "Рязань, Октябрьская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 687,
     "uikTvd": "462401872115",
+    "uikName": "УИК №687",
     "tikTvd": "262200074549",
-    "tikName": "Рязань, Октябрьская"
+    "tikName": "Рязань, Октябрьская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 688,
     "uikTvd": "462401872116",
+    "uikName": "УИК №688",
     "tikTvd": "262200074549",
-    "tikName": "Рязань, Октябрьская"
+    "tikName": "Рязань, Октябрьская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 689,
     "uikTvd": "462401872117",
+    "uikName": "УИК №689",
     "tikTvd": "262200074549",
-    "tikName": "Рязань, Октябрьская"
+    "tikName": "Рязань, Октябрьская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 690,
     "uikTvd": "462401971695",
+    "uikName": "УИК №690",
     "tikTvd": "262200074546",
-    "tikName": "Рязань, Советская"
+    "tikName": "Рязань, Советская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 691,
     "uikTvd": "462401971696",
+    "uikName": "УИК №691",
     "tikTvd": "262200074546",
-    "tikName": "Рязань, Советская"
+    "tikName": "Рязань, Советская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 692,
     "uikTvd": "462401971697",
+    "uikName": "УИК №692",
     "tikTvd": "262200074546",
-    "tikName": "Рязань, Советская"
+    "tikName": "Рязань, Советская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 693,
     "uikTvd": "462401971698",
+    "uikName": "УИК №693",
     "tikTvd": "262200074546",
-    "tikName": "Рязань, Советская"
+    "tikName": "Рязань, Советская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 694,
     "uikTvd": "462401971699",
+    "uikName": "УИК №694",
     "tikTvd": "262200074546",
-    "tikName": "Рязань, Советская"
+    "tikName": "Рязань, Советская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 695,
     "uikTvd": "462401971700",
+    "uikName": "УИК №695",
     "tikTvd": "262200074546",
-    "tikName": "Рязань, Советская"
+    "tikName": "Рязань, Советская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 696,
     "uikTvd": "462401971701",
+    "uikName": "УИК №696",
     "tikTvd": "262200074546",
-    "tikName": "Рязань, Советская"
+    "tikName": "Рязань, Советская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 697,
     "uikTvd": "462401971702",
+    "uikName": "УИК №697",
     "tikTvd": "262200074546",
-    "tikName": "Рязань, Советская"
+    "tikName": "Рязань, Советская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 698,
     "uikTvd": "462401971703",
+    "uikName": "УИК №698",
     "tikTvd": "262200074546",
-    "tikName": "Рязань, Советская"
+    "tikName": "Рязань, Советская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 699,
     "uikTvd": "462401971704",
+    "uikName": "УИК №699",
     "tikTvd": "262200074546",
-    "tikName": "Рязань, Советская"
+    "tikName": "Рязань, Советская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 700,
     "uikTvd": "462401971705",
+    "uikName": "УИК №700",
     "tikTvd": "262200074546",
-    "tikName": "Рязань, Советская"
+    "tikName": "Рязань, Советская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 701,
     "uikTvd": "462401971706",
+    "uikName": "УИК №701",
     "tikTvd": "262200074546",
-    "tikName": "Рязань, Советская"
+    "tikName": "Рязань, Советская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 702,
     "uikTvd": "462401971707",
+    "uikName": "УИК №702",
     "tikTvd": "262200074546",
-    "tikName": "Рязань, Советская"
+    "tikName": "Рязань, Советская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 703,
     "uikTvd": "462401971708",
+    "uikName": "УИК №703",
     "tikTvd": "262200074546",
-    "tikName": "Рязань, Советская"
+    "tikName": "Рязань, Советская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 704,
     "uikTvd": "462401971709",
+    "uikName": "УИК №704",
     "tikTvd": "262200074546",
-    "tikName": "Рязань, Советская"
+    "tikName": "Рязань, Советская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 705,
     "uikTvd": "462401971710",
+    "uikName": "УИК №705",
     "tikTvd": "262200074546",
-    "tikName": "Рязань, Советская"
+    "tikName": "Рязань, Советская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 706,
     "uikTvd": "462401971711",
+    "uikName": "УИК №706",
     "tikTvd": "262200074546",
-    "tikName": "Рязань, Советская"
+    "tikName": "Рязань, Советская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 707,
     "uikTvd": "462401971712",
+    "uikName": "УИК №707",
     "tikTvd": "262200074546",
-    "tikName": "Рязань, Советская"
+    "tikName": "Рязань, Советская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 708,
     "uikTvd": "462401971713",
+    "uikName": "УИК №708",
     "tikTvd": "262200074546",
-    "tikName": "Рязань, Советская"
+    "tikName": "Рязань, Советская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 709,
     "uikTvd": "462401971714",
+    "uikName": "УИК №709",
     "tikTvd": "262200074546",
-    "tikName": "Рязань, Советская"
+    "tikName": "Рязань, Советская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 710,
     "uikTvd": "462401971715",
+    "uikName": "УИК №710",
     "tikTvd": "262200074546",
-    "tikName": "Рязань, Советская"
+    "tikName": "Рязань, Советская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 711,
     "uikTvd": "462401971716",
+    "uikName": "УИК №711",
     "tikTvd": "262200074546",
-    "tikName": "Рязань, Советская"
+    "tikName": "Рязань, Советская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 712,
     "uikTvd": "462401971717",
+    "uikName": "УИК №712",
     "tikTvd": "262200074546",
-    "tikName": "Рязань, Советская"
+    "tikName": "Рязань, Советская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 713,
     "uikTvd": "462401971718",
+    "uikName": "УИК №713",
     "tikTvd": "262200074546",
-    "tikName": "Рязань, Советская"
+    "tikName": "Рязань, Советская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 714,
     "uikTvd": "462401971719",
+    "uikName": "УИК №714",
     "tikTvd": "262200074546",
-    "tikName": "Рязань, Советская"
+    "tikName": "Рязань, Советская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 715,
     "uikTvd": "462401971720",
+    "uikName": "УИК №715",
     "tikTvd": "262200074546",
-    "tikName": "Рязань, Советская"
+    "tikName": "Рязань, Советская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 716,
     "uikTvd": "462401971721",
+    "uikName": "УИК №716",
     "tikTvd": "262200074546",
-    "tikName": "Рязань, Советская"
+    "tikName": "Рязань, Советская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 717,
     "uikTvd": "462401971722",
+    "uikName": "УИК №717",
     "tikTvd": "262200074546",
-    "tikName": "Рязань, Советская"
+    "tikName": "Рязань, Советская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 718,
     "uikTvd": "462401971723",
+    "uikName": "УИК №718",
     "tikTvd": "262200074546",
-    "tikName": "Рязань, Советская"
+    "tikName": "Рязань, Советская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 719,
     "uikTvd": "462401971724",
+    "uikName": "УИК №719",
     "tikTvd": "262200074546",
-    "tikName": "Рязань, Советская"
+    "tikName": "Рязань, Советская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 720,
     "uikTvd": "462401971725",
+    "uikName": "УИК №720",
     "tikTvd": "262200074546",
-    "tikName": "Рязань, Советская"
+    "tikName": "Рязань, Советская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 721,
     "uikTvd": "462402071194",
+    "uikName": "УИК №721",
     "tikTvd": "262200074547",
-    "tikName": "Сапожковская"
+    "tikName": "Сапожковская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 722,
     "uikTvd": "462402071195",
+    "uikName": "УИК №722",
     "tikTvd": "262200074547",
-    "tikName": "Сапожковская"
+    "tikName": "Сапожковская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 723,
     "uikTvd": "462402071196",
+    "uikName": "УИК №723",
     "tikTvd": "262200074547",
-    "tikName": "Сапожковская"
+    "tikName": "Сапожковская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 724,
     "uikTvd": "462402071197",
+    "uikName": "УИК №724",
     "tikTvd": "262200074547",
-    "tikName": "Сапожковская"
+    "tikName": "Сапожковская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 725,
     "uikTvd": "462402071198",
+    "uikName": "УИК №725",
     "tikTvd": "262200074547",
-    "tikName": "Сапожковская"
+    "tikName": "Сапожковская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 726,
     "uikTvd": "462402071199",
+    "uikName": "УИК №726",
     "tikTvd": "262200074547",
-    "tikName": "Сапожковская"
+    "tikName": "Сапожковская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 727,
     "uikTvd": "462402071200",
+    "uikName": "УИК №727",
     "tikTvd": "262200074547",
-    "tikName": "Сапожковская"
+    "tikName": "Сапожковская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 728,
     "uikTvd": "462402071201",
+    "uikName": "УИК №728",
     "tikTvd": "262200074547",
-    "tikName": "Сапожковская"
+    "tikName": "Сапожковская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 729,
     "uikTvd": "462402071202",
+    "uikName": "УИК №729",
     "tikTvd": "262200074547",
-    "tikName": "Сапожковская"
+    "tikName": "Сапожковская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 730,
     "uikTvd": "462402071203",
+    "uikName": "УИК №730",
     "tikTvd": "262200074547",
-    "tikName": "Сапожковская"
+    "tikName": "Сапожковская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 731,
     "uikTvd": "462402071204",
+    "uikName": "УИК №731",
     "tikTvd": "262200074547",
-    "tikName": "Сапожковская"
+    "tikName": "Сапожковская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 732,
     "uikTvd": "462402071205",
+    "uikName": "УИК №732",
     "tikTvd": "262200074547",
-    "tikName": "Сапожковская"
+    "tikName": "Сапожковская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 733,
     "uikTvd": "462402071206",
+    "uikName": "УИК №733",
     "tikTvd": "262200074547",
-    "tikName": "Сапожковская"
+    "tikName": "Сапожковская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 734,
     "uikTvd": "462402071207",
+    "uikName": "УИК №734",
     "tikTvd": "262200074547",
-    "tikName": "Сапожковская"
+    "tikName": "Сапожковская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 735,
     "uikTvd": "462402071208",
+    "uikName": "УИК №735",
     "tikTvd": "262200074547",
-    "tikName": "Сапожковская"
+    "tikName": "Сапожковская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 736,
     "uikTvd": "462402071209",
+    "uikName": "УИК №736",
     "tikTvd": "262200074547",
-    "tikName": "Сапожковская"
+    "tikName": "Сапожковская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 737,
     "uikTvd": "462402071210",
+    "uikName": "УИК №737",
     "tikTvd": "262200074547",
-    "tikName": "Сапожковская"
+    "tikName": "Сапожковская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 738,
     "uikTvd": "462402071211",
+    "uikName": "УИК №738",
     "tikTvd": "262200074547",
-    "tikName": "Сапожковская"
+    "tikName": "Сапожковская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 739,
     "uikTvd": "462402071212",
+    "uikName": "УИК №739",
     "tikTvd": "262200074547",
-    "tikName": "Сапожковская"
+    "tikName": "Сапожковская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 740,
     "uikTvd": "462402071213",
+    "uikName": "УИК №740",
     "tikTvd": "262200074547",
-    "tikName": "Сапожковская"
+    "tikName": "Сапожковская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 741,
     "uikTvd": "462402071214",
+    "uikName": "УИК №741",
     "tikTvd": "262200074547",
-    "tikName": "Сапожковская"
+    "tikName": "Сапожковская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 742,
     "uikTvd": "462402071215",
+    "uikName": "УИК №742",
     "tikTvd": "262200074547",
-    "tikName": "Сапожковская"
+    "tikName": "Сапожковская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 743,
     "uikTvd": "462402071216",
+    "uikName": "УИК №743",
     "tikTvd": "262200074547",
-    "tikName": "Сапожковская"
+    "tikName": "Сапожковская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 744,
     "uikTvd": "462402071217",
+    "uikName": "УИК №744",
     "tikTvd": "262200074547",
-    "tikName": "Сапожковская"
+    "tikName": "Сапожковская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 745,
     "uikTvd": "462402171738",
+    "uikName": "УИК №745",
     "tikTvd": "262200074545",
-    "tikName": "Cараевская"
+    "tikName": "Cараевская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 746,
     "uikTvd": "462402171739",
+    "uikName": "УИК №746",
     "tikTvd": "262200074545",
-    "tikName": "Cараевская"
+    "tikName": "Cараевская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 747,
     "uikTvd": "462402171740",
+    "uikName": "УИК №747",
     "tikTvd": "262200074545",
-    "tikName": "Cараевская"
+    "tikName": "Cараевская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 748,
     "uikTvd": "462402171741",
+    "uikName": "УИК №748",
     "tikTvd": "262200074545",
-    "tikName": "Cараевская"
+    "tikName": "Cараевская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 749,
     "uikTvd": "462402171742",
+    "uikName": "УИК №749",
     "tikTvd": "262200074545",
-    "tikName": "Cараевская"
+    "tikName": "Cараевская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 750,
     "uikTvd": "462402171743",
+    "uikName": "УИК №750",
     "tikTvd": "262200074545",
-    "tikName": "Cараевская"
+    "tikName": "Cараевская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 751,
     "uikTvd": "462402171744",
+    "uikName": "УИК №751",
     "tikTvd": "262200074545",
-    "tikName": "Cараевская"
+    "tikName": "Cараевская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 752,
     "uikTvd": "462402171745",
+    "uikName": "УИК №752",
     "tikTvd": "262200074545",
-    "tikName": "Cараевская"
+    "tikName": "Cараевская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 753,
     "uikTvd": "462402171746",
+    "uikName": "УИК №753",
     "tikTvd": "262200074545",
-    "tikName": "Cараевская"
+    "tikName": "Cараевская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 754,
     "uikTvd": "462402171747",
+    "uikName": "УИК №754",
     "tikTvd": "262200074545",
-    "tikName": "Cараевская"
+    "tikName": "Cараевская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 755,
     "uikTvd": "462402171748",
+    "uikName": "УИК №755",
     "tikTvd": "262200074545",
-    "tikName": "Cараевская"
+    "tikName": "Cараевская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 756,
     "uikTvd": "462402171749",
+    "uikName": "УИК №756",
     "tikTvd": "262200074545",
-    "tikName": "Cараевская"
+    "tikName": "Cараевская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 757,
     "uikTvd": "462402171750",
+    "uikName": "УИК №757",
     "tikTvd": "262200074545",
-    "tikName": "Cараевская"
+    "tikName": "Cараевская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 758,
     "uikTvd": "462402171751",
+    "uikName": "УИК №758",
     "tikTvd": "262200074545",
-    "tikName": "Cараевская"
+    "tikName": "Cараевская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 759,
     "uikTvd": "462402171752",
+    "uikName": "УИК №759",
     "tikTvd": "262200074545",
-    "tikName": "Cараевская"
+    "tikName": "Cараевская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 760,
     "uikTvd": "462402171753",
+    "uikName": "УИК №760",
     "tikTvd": "262200074545",
-    "tikName": "Cараевская"
+    "tikName": "Cараевская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 761,
     "uikTvd": "462402171754",
+    "uikName": "УИК №761",
     "tikTvd": "262200074545",
-    "tikName": "Cараевская"
+    "tikName": "Cараевская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 762,
     "uikTvd": "462402171755",
+    "uikName": "УИК №762",
     "tikTvd": "262200074545",
-    "tikName": "Cараевская"
+    "tikName": "Cараевская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 763,
     "uikTvd": "462402171756",
+    "uikName": "УИК №763",
     "tikTvd": "262200074545",
-    "tikName": "Cараевская"
+    "tikName": "Cараевская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 764,
     "uikTvd": "462402171757",
+    "uikName": "УИК №764",
     "tikTvd": "262200074545",
-    "tikName": "Cараевская"
+    "tikName": "Cараевская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 765,
     "uikTvd": "462402171758",
+    "uikName": "УИК №765",
     "tikTvd": "262200074545",
-    "tikName": "Cараевская"
+    "tikName": "Cараевская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 766,
     "uikTvd": "462402171759",
+    "uikName": "УИК №766",
     "tikTvd": "262200074545",
-    "tikName": "Cараевская"
+    "tikName": "Cараевская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 767,
     "uikTvd": "462402171760",
+    "uikName": "УИК №767",
     "tikTvd": "262200074545",
-    "tikName": "Cараевская"
+    "tikName": "Cараевская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 768,
     "uikTvd": "462402171761",
+    "uikName": "УИК №768",
     "tikTvd": "262200074545",
-    "tikName": "Cараевская"
+    "tikName": "Cараевская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 769,
     "uikTvd": "462402171762",
+    "uikName": "УИК №769",
     "tikTvd": "262200074545",
-    "tikName": "Cараевская"
+    "tikName": "Cараевская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 770,
     "uikTvd": "462402171763",
+    "uikName": "УИК №770",
     "tikTvd": "262200074545",
-    "tikName": "Cараевская"
+    "tikName": "Cараевская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 771,
     "uikTvd": "462402171764",
+    "uikName": "УИК №771",
     "tikTvd": "262200074545",
-    "tikName": "Cараевская"
+    "tikName": "Cараевская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 772,
     "uikTvd": "462402171765",
+    "uikName": "УИК №772",
     "tikTvd": "262200074545",
-    "tikName": "Cараевская"
+    "tikName": "Cараевская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 773,
     "uikTvd": "462402171766",
+    "uikName": "УИК №773",
     "tikTvd": "262200074545",
-    "tikName": "Cараевская"
+    "tikName": "Cараевская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 774,
     "uikTvd": "462402171767",
+    "uikName": "УИК №774",
     "tikTvd": "262200074545",
-    "tikName": "Cараевская"
+    "tikName": "Cараевская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 775,
     "uikTvd": "462402171768",
+    "uikName": "УИК №775",
     "tikTvd": "262200074545",
-    "tikName": "Cараевская"
+    "tikName": "Cараевская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 776,
     "uikTvd": "462402171769",
+    "uikName": "УИК №776",
     "tikTvd": "262200074545",
-    "tikName": "Cараевская"
+    "tikName": "Cараевская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 777,
     "uikTvd": "462402171770",
+    "uikName": "УИК №777",
     "tikTvd": "262200074545",
-    "tikName": "Cараевская"
+    "tikName": "Cараевская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 778,
     "uikTvd": "462402171771",
+    "uikName": "УИК №778",
     "tikTvd": "262200074545",
-    "tikName": "Cараевская"
+    "tikName": "Cараевская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 779,
     "uikTvd": "462402171772",
+    "uikName": "УИК №779",
     "tikTvd": "262200074545",
-    "tikName": "Cараевская"
+    "tikName": "Cараевская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 780,
     "uikTvd": "462402171773",
+    "uikName": "УИК №780",
     "tikTvd": "262200074545",
-    "tikName": "Cараевская"
+    "tikName": "Cараевская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 781,
     "uikTvd": "462402171774",
+    "uikName": "УИК №781",
     "tikTvd": "262200074545",
-    "tikName": "Cараевская"
+    "tikName": "Cараевская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 782,
     "uikTvd": "462402171775",
+    "uikName": "УИК №782",
     "tikTvd": "262200074545",
-    "tikName": "Cараевская"
+    "tikName": "Cараевская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 783,
     "uikTvd": "462402171776",
+    "uikName": "УИК №783",
     "tikTvd": "262200074545",
-    "tikName": "Cараевская"
+    "tikName": "Cараевская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 784,
     "uikTvd": "462402171777",
+    "uikName": "УИК №784",
     "tikTvd": "262200074545",
-    "tikName": "Cараевская"
+    "tikName": "Cараевская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 785,
     "uikTvd": "462402271847",
+    "uikName": "УИК №785",
     "tikTvd": "262200074548",
-    "tikName": "Cacовская"
+    "tikName": "Cacовская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 786,
     "uikTvd": "462402271848",
+    "uikName": "УИК №786",
     "tikTvd": "262200074548",
-    "tikName": "Cacовская"
+    "tikName": "Cacовская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 787,
     "uikTvd": "462402271849",
+    "uikName": "УИК №787",
     "tikTvd": "262200074548",
-    "tikName": "Cacовская"
+    "tikName": "Cacовская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 788,
     "uikTvd": "462402271850",
+    "uikName": "УИК №788",
     "tikTvd": "262200074548",
-    "tikName": "Cacовская"
+    "tikName": "Cacовская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 789,
     "uikTvd": "462402271851",
+    "uikName": "УИК №789",
     "tikTvd": "262200074548",
-    "tikName": "Cacовская"
+    "tikName": "Cacовская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 790,
     "uikTvd": "462402271852",
+    "uikName": "УИК №790",
     "tikTvd": "262200074548",
-    "tikName": "Cacовская"
+    "tikName": "Cacовская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 791,
     "uikTvd": "462402271853",
+    "uikName": "УИК №791",
     "tikTvd": "262200074548",
-    "tikName": "Cacовская"
+    "tikName": "Cacовская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 792,
     "uikTvd": "462402271854",
+    "uikName": "УИК №792",
     "tikTvd": "262200074548",
-    "tikName": "Cacовская"
+    "tikName": "Cacовская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 793,
     "uikTvd": "462402271855",
+    "uikName": "УИК №793",
     "tikTvd": "262200074548",
-    "tikName": "Cacовская"
+    "tikName": "Cacовская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 794,
     "uikTvd": "462402271856",
+    "uikName": "УИК №794",
     "tikTvd": "262200074548",
-    "tikName": "Cacовская"
+    "tikName": "Cacовская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 795,
     "uikTvd": "462402271857",
+    "uikName": "УИК №795",
     "tikTvd": "262200074548",
-    "tikName": "Cacовская"
+    "tikName": "Cacовская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 796,
     "uikTvd": "462402271858",
+    "uikName": "УИК №796",
     "tikTvd": "262200074548",
-    "tikName": "Cacовская"
+    "tikName": "Cacовская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 797,
     "uikTvd": "462402271859",
+    "uikName": "УИК №797",
     "tikTvd": "262200074548",
-    "tikName": "Cacовская"
+    "tikName": "Cacовская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 798,
     "uikTvd": "462402271860",
+    "uikName": "УИК №798",
     "tikTvd": "262200074548",
-    "tikName": "Cacовская"
+    "tikName": "Cacовская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 799,
     "uikTvd": "462402271861",
+    "uikName": "УИК №799",
     "tikTvd": "262200074548",
-    "tikName": "Cacовская"
+    "tikName": "Cacовская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 800,
     "uikTvd": "462402271862",
+    "uikName": "УИК №800",
     "tikTvd": "262200074548",
-    "tikName": "Cacовская"
+    "tikName": "Cacовская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 801,
     "uikTvd": "462402271863",
+    "uikName": "УИК №801",
     "tikTvd": "262200074548",
-    "tikName": "Cacовская"
+    "tikName": "Cacовская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 802,
     "uikTvd": "462402271864",
+    "uikName": "УИК №802",
     "tikTvd": "262200074548",
-    "tikName": "Cacовская"
+    "tikName": "Cacовская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 803,
     "uikTvd": "462402271865",
+    "uikName": "УИК №803",
     "tikTvd": "262200074548",
-    "tikName": "Cacовская"
+    "tikName": "Cacовская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 804,
     "uikTvd": "462402271866",
+    "uikName": "УИК №804",
     "tikTvd": "262200074548",
-    "tikName": "Cacовская"
+    "tikName": "Cacовская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 805,
     "uikTvd": "462402271867",
+    "uikName": "УИК №805",
     "tikTvd": "262200074548",
-    "tikName": "Cacовская"
+    "tikName": "Cacовская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 806,
     "uikTvd": "462402271868",
+    "uikName": "УИК №806",
     "tikTvd": "262200074548",
-    "tikName": "Cacовская"
+    "tikName": "Cacовская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 807,
     "uikTvd": "462402271869",
+    "uikName": "УИК №807",
     "tikTvd": "262200074548",
-    "tikName": "Cacовская"
+    "tikName": "Cacовская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 808,
     "uikTvd": "462402271870",
+    "uikName": "УИК №808",
     "tikTvd": "262200074548",
-    "tikName": "Cacовская"
+    "tikName": "Cacовская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 809,
     "uikTvd": "462402271871",
+    "uikName": "УИК №809",
     "tikTvd": "262200074548",
-    "tikName": "Cacовская"
+    "tikName": "Cacовская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 810,
     "uikTvd": "462402271872",
+    "uikName": "УИК №810",
     "tikTvd": "262200074548",
-    "tikName": "Cacовская"
+    "tikName": "Cacовская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 811,
     "uikTvd": "462402271873",
+    "uikName": "УИК №811",
     "tikTvd": "262200074548",
-    "tikName": "Cacовская"
+    "tikName": "Cacовская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 812,
     "uikTvd": "462402271874",
+    "uikName": "УИК №812",
     "tikTvd": "262200074548",
-    "tikName": "Cacовская"
+    "tikName": "Cacовская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 813,
     "uikTvd": "462402271875",
+    "uikName": "УИК №813",
     "tikTvd": "262200074548",
-    "tikName": "Cacовская"
+    "tikName": "Cacовская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 814,
     "uikTvd": "462402271876",
+    "uikName": "УИК №814",
     "tikTvd": "262200074548",
-    "tikName": "Cacовская"
+    "tikName": "Cacовская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 815,
     "uikTvd": "462402271877",
+    "uikName": "УИК №815",
     "tikTvd": "262200074548",
-    "tikName": "Cacовская"
+    "tikName": "Cacовская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 816,
     "uikTvd": "462402271878",
+    "uikName": "УИК №816",
     "tikTvd": "262200074548",
-    "tikName": "Cacовская"
+    "tikName": "Cacовская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 817,
     "uikTvd": "462402271879",
+    "uikName": "УИК №817",
     "tikTvd": "262200074548",
-    "tikName": "Cacовская"
+    "tikName": "Cacовская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 818,
     "uikTvd": "462402271880",
+    "uikName": "УИК №818",
     "tikTvd": "262200074548",
-    "tikName": "Cacовская"
+    "tikName": "Cacовская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 819,
     "uikTvd": "462402271881",
+    "uikName": "УИК №819",
     "tikTvd": "262200074548",
-    "tikName": "Cacовская"
+    "tikName": "Cacовская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 820,
     "uikTvd": "462402271882",
+    "uikName": "УИК №820",
     "tikTvd": "262200074548",
-    "tikName": "Cacовская"
+    "tikName": "Cacовская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 821,
     "uikTvd": "462402271883",
+    "uikName": "УИК №821",
     "tikTvd": "262200074548",
-    "tikName": "Cacовская"
+    "tikName": "Cacовская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 822,
     "uikTvd": "462402271884",
+    "uikName": "УИК №822",
     "tikTvd": "262200074548",
-    "tikName": "Cacовская"
+    "tikName": "Cacовская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 823,
     "uikTvd": "462402271885",
+    "uikName": "УИК №823",
     "tikTvd": "262200074548",
-    "tikName": "Cacовская"
+    "tikName": "Cacовская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 824,
     "uikTvd": "462402271886",
+    "uikName": "УИК №824",
     "tikTvd": "262200074548",
-    "tikName": "Cacовская"
+    "tikName": "Cacовская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 825,
     "uikTvd": "462402271887",
+    "uikName": "УИК №825",
     "tikTvd": "262200074548",
-    "tikName": "Cacовская"
+    "tikName": "Cacовская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 826,
     "uikTvd": "462403171024",
+    "uikName": "УИК №826",
     "tikTvd": "262200074550",
-    "tikName": "Сасовская городская"
+    "tikName": "Сасовская городская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 827,
     "uikTvd": "462403171025",
+    "uikName": "УИК №827",
     "tikTvd": "262200074550",
-    "tikName": "Сасовская городская"
+    "tikName": "Сасовская городская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 828,
     "uikTvd": "462403171026",
+    "uikName": "УИК №828",
     "tikTvd": "262200074550",
-    "tikName": "Сасовская городская"
+    "tikName": "Сасовская городская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 829,
     "uikTvd": "462403171027",
+    "uikName": "УИК №829",
     "tikTvd": "262200074550",
-    "tikName": "Сасовская городская"
+    "tikName": "Сасовская городская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 830,
     "uikTvd": "462403171028",
+    "uikName": "УИК №830",
     "tikTvd": "262200074550",
-    "tikName": "Сасовская городская"
+    "tikName": "Сасовская городская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 831,
     "uikTvd": "462403171029",
+    "uikName": "УИК №831",
     "tikTvd": "262200074550",
-    "tikName": "Сасовская городская"
+    "tikName": "Сасовская городская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 832,
     "uikTvd": "462403171030",
+    "uikName": "УИК №832",
     "tikTvd": "262200074550",
-    "tikName": "Сасовская городская"
+    "tikName": "Сасовская городская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 833,
     "uikTvd": "462403171031",
+    "uikName": "УИК №833",
     "tikTvd": "262200074550",
-    "tikName": "Сасовская городская"
+    "tikName": "Сасовская городская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 834,
     "uikTvd": "462403171032",
+    "uikName": "УИК №834",
     "tikTvd": "262200074550",
-    "tikName": "Сасовская городская"
+    "tikName": "Сасовская городская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 835,
     "uikTvd": "462403171033",
+    "uikName": "УИК №835",
     "tikTvd": "262200074550",
-    "tikName": "Сасовская городская"
+    "tikName": "Сасовская городская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 836,
     "uikTvd": "462403171034",
+    "uikName": "УИК №836",
     "tikTvd": "262200074550",
-    "tikName": "Сасовская городская"
+    "tikName": "Сасовская городская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 837,
     "uikTvd": "462403171035",
+    "uikName": "УИК №837",
     "tikTvd": "262200074550",
-    "tikName": "Сасовская городская"
+    "tikName": "Сасовская городская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 838,
     "uikTvd": "462402372031",
+    "uikName": "УИК №838",
     "tikTvd": "262200074544",
-    "tikName": "Скопинская"
+    "tikName": "Скопинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 839,
     "uikTvd": "462402372032",
+    "uikName": "УИК №839",
     "tikTvd": "262200074544",
-    "tikName": "Скопинская"
+    "tikName": "Скопинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 840,
     "uikTvd": "462402372033",
+    "uikName": "УИК №840",
     "tikTvd": "262200074544",
-    "tikName": "Скопинская"
+    "tikName": "Скопинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 841,
     "uikTvd": "462402372034",
+    "uikName": "УИК №841",
     "tikTvd": "262200074544",
-    "tikName": "Скопинская"
+    "tikName": "Скопинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 842,
     "uikTvd": "462402372035",
+    "uikName": "УИК №842",
     "tikTvd": "262200074544",
-    "tikName": "Скопинская"
+    "tikName": "Скопинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 843,
     "uikTvd": "462402372036",
+    "uikName": "УИК №843",
     "tikTvd": "262200074544",
-    "tikName": "Скопинская"
+    "tikName": "Скопинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 844,
     "uikTvd": "462402372037",
+    "uikName": "УИК №844",
     "tikTvd": "262200074544",
-    "tikName": "Скопинская"
+    "tikName": "Скопинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 845,
     "uikTvd": "462402372038",
+    "uikName": "УИК №845",
     "tikTvd": "262200074544",
-    "tikName": "Скопинская"
+    "tikName": "Скопинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 846,
     "uikTvd": "462402372039",
+    "uikName": "УИК №846",
     "tikTvd": "262200074544",
-    "tikName": "Скопинская"
+    "tikName": "Скопинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 847,
     "uikTvd": "462402372040",
+    "uikName": "УИК №847",
     "tikTvd": "262200074544",
-    "tikName": "Скопинская"
+    "tikName": "Скопинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 848,
     "uikTvd": "462402372041",
+    "uikName": "УИК №848",
     "tikTvd": "262200074544",
-    "tikName": "Скопинская"
+    "tikName": "Скопинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 849,
     "uikTvd": "462402372042",
+    "uikName": "УИК №849",
     "tikTvd": "262200074544",
-    "tikName": "Скопинская"
+    "tikName": "Скопинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 850,
     "uikTvd": "462402372043",
+    "uikName": "УИК №850",
     "tikTvd": "262200074544",
-    "tikName": "Скопинская"
+    "tikName": "Скопинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 851,
     "uikTvd": "462402372044",
+    "uikName": "УИК №851",
     "tikTvd": "262200074544",
-    "tikName": "Скопинская"
+    "tikName": "Скопинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 852,
     "uikTvd": "462402372045",
+    "uikName": "УИК №852",
     "tikTvd": "262200074544",
-    "tikName": "Скопинская"
+    "tikName": "Скопинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 853,
     "uikTvd": "462402372046",
+    "uikName": "УИК №853",
     "tikTvd": "262200074544",
-    "tikName": "Скопинская"
+    "tikName": "Скопинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 854,
     "uikTvd": "462402372047",
+    "uikName": "УИК №854",
     "tikTvd": "262200074544",
-    "tikName": "Скопинская"
+    "tikName": "Скопинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 855,
     "uikTvd": "462402372048",
+    "uikName": "УИК №855",
     "tikTvd": "262200074544",
-    "tikName": "Скопинская"
+    "tikName": "Скопинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 856,
     "uikTvd": "462402372049",
+    "uikName": "УИК №856",
     "tikTvd": "262200074544",
-    "tikName": "Скопинская"
+    "tikName": "Скопинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 857,
     "uikTvd": "462402372050",
+    "uikName": "УИК №857",
     "tikTvd": "262200074544",
-    "tikName": "Скопинская"
+    "tikName": "Скопинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 858,
     "uikTvd": "462402372051",
+    "uikName": "УИК №858",
     "tikTvd": "262200074544",
-    "tikName": "Скопинская"
+    "tikName": "Скопинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 859,
     "uikTvd": "462402372052",
+    "uikName": "УИК №859",
     "tikTvd": "262200074544",
-    "tikName": "Скопинская"
+    "tikName": "Скопинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 860,
     "uikTvd": "462402372053",
+    "uikName": "УИК №860",
     "tikTvd": "262200074544",
-    "tikName": "Скопинская"
+    "tikName": "Скопинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 861,
     "uikTvd": "462402372054",
+    "uikName": "УИК №861",
     "tikTvd": "262200074544",
-    "tikName": "Скопинская"
+    "tikName": "Скопинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 862,
     "uikTvd": "462402372055",
+    "uikName": "УИК №862",
     "tikTvd": "262200074544",
-    "tikName": "Скопинская"
+    "tikName": "Скопинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 863,
     "uikTvd": "462402372056",
+    "uikName": "УИК №863",
     "tikTvd": "262200074544",
-    "tikName": "Скопинская"
+    "tikName": "Скопинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 864,
     "uikTvd": "462402372057",
+    "uikName": "УИК №864",
     "tikTvd": "262200074544",
-    "tikName": "Скопинская"
+    "tikName": "Скопинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 865,
     "uikTvd": "462402372058",
+    "uikName": "УИК №865",
     "tikTvd": "262200074544",
-    "tikName": "Скопинская"
+    "tikName": "Скопинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 866,
     "uikTvd": "462402372059",
+    "uikName": "УИК №866",
     "tikTvd": "262200074544",
-    "tikName": "Скопинская"
+    "tikName": "Скопинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 867,
     "uikTvd": "462402372060",
+    "uikName": "УИК №867",
     "tikTvd": "262200074544",
-    "tikName": "Скопинская"
+    "tikName": "Скопинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 868,
     "uikTvd": "462402372061",
+    "uikName": "УИК №868",
     "tikTvd": "262200074544",
-    "tikName": "Скопинская"
+    "tikName": "Скопинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 869,
     "uikTvd": "462402372062",
+    "uikName": "УИК №869",
     "tikTvd": "262200074544",
-    "tikName": "Скопинская"
+    "tikName": "Скопинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 870,
     "uikTvd": "462402372063",
+    "uikName": "УИК №870",
     "tikTvd": "262200074544",
-    "tikName": "Скопинская"
+    "tikName": "Скопинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 871,
     "uikTvd": "462402372064",
+    "uikName": "УИК №871",
     "tikTvd": "262200074544",
-    "tikName": "Скопинская"
+    "tikName": "Скопинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 872,
     "uikTvd": "462402372065",
+    "uikName": "УИК №872",
     "tikTvd": "262200074544",
-    "tikName": "Скопинская"
+    "tikName": "Скопинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 873,
     "uikTvd": "462402372066",
+    "uikName": "УИК №873",
     "tikTvd": "262200074544",
-    "tikName": "Скопинская"
+    "tikName": "Скопинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 874,
     "uikTvd": "462402372067",
+    "uikName": "УИК №874",
     "tikTvd": "262200074544",
-    "tikName": "Скопинская"
+    "tikName": "Скопинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 875,
     "uikTvd": "462402372068",
+    "uikName": "УИК №875",
     "tikTvd": "262200074544",
-    "tikName": "Скопинская"
+    "tikName": "Скопинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 876,
     "uikTvd": "462402372069",
+    "uikName": "УИК №876",
     "tikTvd": "262200074544",
-    "tikName": "Скопинская"
+    "tikName": "Скопинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 877,
     "uikTvd": "462402372070",
+    "uikName": "УИК №877",
     "tikTvd": "262200074544",
-    "tikName": "Скопинская"
+    "tikName": "Скопинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 878,
     "uikTvd": "462402372071",
+    "uikName": "УИК №878",
     "tikTvd": "262200074544",
-    "tikName": "Скопинская"
+    "tikName": "Скопинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 879,
     "uikTvd": "462402372072",
+    "uikName": "УИК №879",
     "tikTvd": "262200074544",
-    "tikName": "Скопинская"
+    "tikName": "Скопинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 880,
     "uikTvd": "462402372073",
+    "uikName": "УИК №880",
     "tikTvd": "262200074544",
-    "tikName": "Скопинская"
+    "tikName": "Скопинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 881,
     "uikTvd": "462402372074",
+    "uikName": "УИК №881",
     "tikTvd": "262200074544",
-    "tikName": "Скопинская"
+    "tikName": "Скопинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 882,
     "uikTvd": "462402372075",
+    "uikName": "УИК №882",
     "tikTvd": "262200074544",
-    "tikName": "Скопинская"
+    "tikName": "Скопинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 883,
     "uikTvd": "462402372076",
+    "uikName": "УИК №883",
     "tikTvd": "262200074544",
-    "tikName": "Скопинская"
+    "tikName": "Скопинская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 884,
     "uikTvd": "462403271118",
+    "uikName": "УИК №884",
     "tikTvd": "262200074551",
-    "tikName": "Скопинская городская"
+    "tikName": "Скопинская городская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 885,
     "uikTvd": "462403271119",
+    "uikName": "УИК №885",
     "tikTvd": "262200074551",
-    "tikName": "Скопинская городская"
+    "tikName": "Скопинская городская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 886,
     "uikTvd": "462403271120",
+    "uikName": "УИК №886",
     "tikTvd": "262200074551",
-    "tikName": "Скопинская городская"
+    "tikName": "Скопинская городская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 887,
     "uikTvd": "462403271121",
+    "uikName": "УИК №887",
     "tikTvd": "262200074551",
-    "tikName": "Скопинская городская"
+    "tikName": "Скопинская городская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 888,
     "uikTvd": "462403271122",
+    "uikName": "УИК №888",
     "tikTvd": "262200074551",
-    "tikName": "Скопинская городская"
+    "tikName": "Скопинская городская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 889,
     "uikTvd": "462403271123",
+    "uikName": "УИК №889",
     "tikTvd": "262200074551",
-    "tikName": "Скопинская городская"
+    "tikName": "Скопинская городская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 890,
     "uikTvd": "462403271124",
+    "uikName": "УИК №890",
     "tikTvd": "262200074551",
-    "tikName": "Скопинская городская"
+    "tikName": "Скопинская городская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 891,
     "uikTvd": "462403271125",
+    "uikName": "УИК №891",
     "tikTvd": "262200074551",
-    "tikName": "Скопинская городская"
+    "tikName": "Скопинская городская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 892,
     "uikTvd": "462403271126",
+    "uikName": "УИК №892",
     "tikTvd": "262200074551",
-    "tikName": "Скопинская городская"
+    "tikName": "Скопинская городская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 893,
     "uikTvd": "462403271127",
+    "uikName": "УИК №893",
     "tikTvd": "262200074551",
-    "tikName": "Скопинская городская"
+    "tikName": "Скопинская городская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 894,
     "uikTvd": "462403271128",
+    "uikName": "УИК №894",
     "tikTvd": "262200074551",
-    "tikName": "Скопинская городская"
+    "tikName": "Скопинская городская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 895,
     "uikTvd": "462403271129",
+    "uikName": "УИК №895",
     "tikTvd": "262200074551",
-    "tikName": "Скопинская городская"
+    "tikName": "Скопинская городская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 896,
     "uikTvd": "462403271130",
+    "uikName": "УИК №896",
     "tikTvd": "262200074551",
-    "tikName": "Скопинская городская"
+    "tikName": "Скопинская городская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 897,
     "uikTvd": "462403271131",
+    "uikName": "УИК №897",
     "tikTvd": "262200074551",
-    "tikName": "Скопинская городская"
+    "tikName": "Скопинская городская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 898,
     "uikTvd": "462403271132",
+    "uikName": "УИК №898",
     "tikTvd": "262200074551",
-    "tikName": "Скопинская городская"
+    "tikName": "Скопинская городская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 899,
     "uikTvd": "462403271133",
+    "uikName": "УИК №899",
     "tikTvd": "262200074551",
-    "tikName": "Скопинская городская"
+    "tikName": "Скопинская городская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 900,
     "uikTvd": "462403271134",
+    "uikName": "УИК №900",
     "tikTvd": "262200074551",
-    "tikName": "Скопинская городская"
+    "tikName": "Скопинская городская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 901,
     "uikTvd": "462402473133",
+    "uikName": "УИК №901",
     "tikTvd": "262200074542",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 902,
     "uikTvd": "462402473134",
+    "uikName": "УИК №902",
     "tikTvd": "262200074542",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 903,
     "uikTvd": "462402473135",
+    "uikName": "УИК №903",
     "tikTvd": "262200074542",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 904,
     "uikTvd": "462402473136",
+    "uikName": "УИК №904",
     "tikTvd": "262200074542",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 905,
     "uikTvd": "462402473137",
+    "uikName": "УИК №905",
     "tikTvd": "262200074542",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 906,
     "uikTvd": "462402473138",
+    "uikName": "УИК №906",
     "tikTvd": "262200074542",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 907,
     "uikTvd": "462402473139",
+    "uikName": "УИК №907",
     "tikTvd": "262200074542",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 908,
     "uikTvd": "462402473140",
+    "uikName": "УИК №908",
     "tikTvd": "262200074542",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 909,
     "uikTvd": "462402473141",
+    "uikName": "УИК №909",
     "tikTvd": "262200074542",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 910,
     "uikTvd": "462402473142",
+    "uikName": "УИК №910",
     "tikTvd": "262200074542",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 911,
     "uikTvd": "462402473143",
+    "uikName": "УИК №911",
     "tikTvd": "262200074542",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 912,
     "uikTvd": "462402473144",
+    "uikName": "УИК №912",
     "tikTvd": "262200074542",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 913,
     "uikTvd": "462402473145",
+    "uikName": "УИК №913",
     "tikTvd": "262200074542",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 914,
     "uikTvd": "462402473146",
+    "uikName": "УИК №914",
     "tikTvd": "262200074542",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 915,
     "uikTvd": "462402473147",
+    "uikName": "УИК №915",
     "tikTvd": "262200074542",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 916,
     "uikTvd": "462402473148",
+    "uikName": "УИК №916",
     "tikTvd": "262200074542",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 917,
     "uikTvd": "462402473149",
+    "uikName": "УИК №917",
     "tikTvd": "262200074542",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 918,
     "uikTvd": "462402473150",
+    "uikName": "УИК №918",
     "tikTvd": "262200074542",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 919,
     "uikTvd": "462402473151",
+    "uikName": "УИК №919",
     "tikTvd": "262200074542",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 920,
     "uikTvd": "462402473152",
+    "uikName": "УИК №920",
     "tikTvd": "262200074542",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 921,
     "uikTvd": "462402473153",
+    "uikName": "УИК №921",
     "tikTvd": "262200074542",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 922,
     "uikTvd": "462402473154",
+    "uikName": "УИК №922",
     "tikTvd": "262200074542",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 923,
     "uikTvd": "462402473155",
+    "uikName": "УИК №923",
     "tikTvd": "262200074542",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 924,
     "uikTvd": "462402473156",
+    "uikName": "УИК №924",
     "tikTvd": "262200074542",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 925,
     "uikTvd": "462402473157",
+    "uikName": "УИК №925",
     "tikTvd": "262200074542",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 926,
     "uikTvd": "462402473158",
+    "uikName": "УИК №926",
     "tikTvd": "262200074542",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 927,
     "uikTvd": "462402473159",
+    "uikName": "УИК №927",
     "tikTvd": "262200074542",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 928,
     "uikTvd": "462402473160",
+    "uikName": "УИК №928",
     "tikTvd": "262200074542",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 929,
     "uikTvd": "462402473161",
+    "uikName": "УИК №929",
     "tikTvd": "262200074542",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 930,
     "uikTvd": "462402473162",
+    "uikName": "УИК №930",
     "tikTvd": "262200074542",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 931,
     "uikTvd": "462402473163",
+    "uikName": "УИК №931",
     "tikTvd": "262200074542",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 932,
     "uikTvd": "462402473164",
+    "uikName": "УИК №932",
     "tikTvd": "262200074542",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 933,
     "uikTvd": "462402473165",
+    "uikName": "УИК №933",
     "tikTvd": "262200074542",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 934,
     "uikTvd": "462402473166",
+    "uikName": "УИК №934",
     "tikTvd": "262200074542",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 935,
     "uikTvd": "462402473167",
+    "uikName": "УИК №935",
     "tikTvd": "262200074542",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 936,
     "uikTvd": "462402473168",
+    "uikName": "УИК №936",
     "tikTvd": "262200074542",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 937,
     "uikTvd": "462402473169",
+    "uikName": "УИК №937",
     "tikTvd": "262200074542",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 938,
     "uikTvd": "462402473170",
+    "uikName": "УИК №938",
     "tikTvd": "262200074542",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 939,
     "uikTvd": "462402473171",
+    "uikName": "УИК №939",
     "tikTvd": "262200074542",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 940,
     "uikTvd": "462402473172",
+    "uikName": "УИК №940",
     "tikTvd": "262200074542",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 941,
     "uikTvd": "462402473173",
+    "uikName": "УИК №941",
     "tikTvd": "262200074542",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 942,
     "uikTvd": "462402473174",
+    "uikName": "УИК №942",
     "tikTvd": "262200074542",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 943,
     "uikTvd": "462402473175",
+    "uikName": "УИК №943",
     "tikTvd": "262200074542",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 944,
     "uikTvd": "462402473176",
+    "uikName": "УИК №944",
     "tikTvd": "262200074542",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 945,
     "uikTvd": "462402473177",
+    "uikName": "УИК №945",
     "tikTvd": "262200074542",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 946,
     "uikTvd": "462402473178",
+    "uikName": "УИК №946",
     "tikTvd": "262200074542",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 947,
     "uikTvd": "462402473179",
+    "uikName": "УИК №947",
     "tikTvd": "262200074542",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 948,
     "uikTvd": "462402473180",
+    "uikName": "УИК №948",
     "tikTvd": "262200074542",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 949,
     "uikTvd": "462402473181",
+    "uikName": "УИК №949",
     "tikTvd": "262200074542",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 950,
     "uikTvd": "462402473182",
+    "uikName": "УИК №950",
     "tikTvd": "262200074542",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 951,
     "uikTvd": "462402473183",
+    "uikName": "УИК №951",
     "tikTvd": "262200074542",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 952,
     "uikTvd": "462402473184",
+    "uikName": "УИК №952",
     "tikTvd": "262200074542",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 953,
     "uikTvd": "462402473185",
+    "uikName": "УИК №953",
     "tikTvd": "262200074542",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 954,
     "uikTvd": "462402473186",
+    "uikName": "УИК №954",
     "tikTvd": "262200074542",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 955,
     "uikTvd": "462402473187",
+    "uikName": "УИК №955",
     "tikTvd": "262200074542",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 956,
     "uikTvd": "462402473188",
+    "uikName": "УИК №956",
     "tikTvd": "262200074542",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 957,
     "uikTvd": "462402473189",
+    "uikName": "УИК №957",
     "tikTvd": "262200074542",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 958,
     "uikTvd": "462402571282",
+    "uikName": "УИК №958",
     "tikTvd": "262200074541",
-    "tikName": "Старожиловская"
+    "tikName": "Старожиловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 959,
     "uikTvd": "462402571283",
+    "uikName": "УИК №959",
     "tikTvd": "262200074541",
-    "tikName": "Старожиловская"
+    "tikName": "Старожиловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 960,
     "uikTvd": "462402571284",
+    "uikName": "УИК №960",
     "tikTvd": "262200074541",
-    "tikName": "Старожиловская"
+    "tikName": "Старожиловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 961,
     "uikTvd": "462402571285",
+    "uikName": "УИК №961",
     "tikTvd": "262200074541",
-    "tikName": "Старожиловская"
+    "tikName": "Старожиловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 962,
     "uikTvd": "462402571286",
+    "uikName": "УИК №962",
     "tikTvd": "262200074541",
-    "tikName": "Старожиловская"
+    "tikName": "Старожиловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 963,
     "uikTvd": "462402571287",
+    "uikName": "УИК №963",
     "tikTvd": "262200074541",
-    "tikName": "Старожиловская"
+    "tikName": "Старожиловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 964,
     "uikTvd": "462402571288",
+    "uikName": "УИК №964",
     "tikTvd": "262200074541",
-    "tikName": "Старожиловская"
+    "tikName": "Старожиловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 965,
     "uikTvd": "462402571289",
+    "uikName": "УИК №965",
     "tikTvd": "262200074541",
-    "tikName": "Старожиловская"
+    "tikName": "Старожиловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 966,
     "uikTvd": "462402571290",
+    "uikName": "УИК №966",
     "tikTvd": "262200074541",
-    "tikName": "Старожиловская"
+    "tikName": "Старожиловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 967,
     "uikTvd": "462402571291",
+    "uikName": "УИК №967",
     "tikTvd": "262200074541",
-    "tikName": "Старожиловская"
+    "tikName": "Старожиловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 968,
     "uikTvd": "462402571292",
+    "uikName": "УИК №968",
     "tikTvd": "262200074541",
-    "tikName": "Старожиловская"
+    "tikName": "Старожиловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 969,
     "uikTvd": "462402571293",
+    "uikName": "УИК №969",
     "tikTvd": "262200074541",
-    "tikName": "Старожиловская"
+    "tikName": "Старожиловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 970,
     "uikTvd": "462402571294",
+    "uikName": "УИК №970",
     "tikTvd": "262200074541",
-    "tikName": "Старожиловская"
+    "tikName": "Старожиловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 971,
     "uikTvd": "462402571295",
+    "uikName": "УИК №971",
     "tikTvd": "262200074541",
-    "tikName": "Старожиловская"
+    "tikName": "Старожиловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 972,
     "uikTvd": "462402571296",
+    "uikName": "УИК №972",
     "tikTvd": "262200074541",
-    "tikName": "Старожиловская"
+    "tikName": "Старожиловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 973,
     "uikTvd": "462402571297",
+    "uikName": "УИК №973",
     "tikTvd": "262200074541",
-    "tikName": "Старожиловская"
+    "tikName": "Старожиловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 974,
     "uikTvd": "462402571298",
+    "uikName": "УИК №974",
     "tikTvd": "262200074541",
-    "tikName": "Старожиловская"
+    "tikName": "Старожиловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 975,
     "uikTvd": "462402571299",
+    "uikName": "УИК №975",
     "tikTvd": "262200074541",
-    "tikName": "Старожиловская"
+    "tikName": "Старожиловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 976,
     "uikTvd": "462402671448",
+    "uikName": "УИК №976",
     "tikTvd": "262200074543",
-    "tikName": "Ухоловская"
+    "tikName": "Ухоловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 977,
     "uikTvd": "462402671449",
+    "uikName": "УИК №977",
     "tikTvd": "262200074543",
-    "tikName": "Ухоловская"
+    "tikName": "Ухоловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 978,
     "uikTvd": "462402671450",
+    "uikName": "УИК №978",
     "tikTvd": "262200074543",
-    "tikName": "Ухоловская"
+    "tikName": "Ухоловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 979,
     "uikTvd": "462402671451",
+    "uikName": "УИК №979",
     "tikTvd": "262200074543",
-    "tikName": "Ухоловская"
+    "tikName": "Ухоловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 980,
     "uikTvd": "462402671452",
+    "uikName": "УИК №980",
     "tikTvd": "262200074543",
-    "tikName": "Ухоловская"
+    "tikName": "Ухоловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 981,
     "uikTvd": "462402671453",
+    "uikName": "УИК №981",
     "tikTvd": "262200074543",
-    "tikName": "Ухоловская"
+    "tikName": "Ухоловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 982,
     "uikTvd": "462402671454",
+    "uikName": "УИК №982",
     "tikTvd": "262200074543",
-    "tikName": "Ухоловская"
+    "tikName": "Ухоловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 983,
     "uikTvd": "462402671455",
+    "uikName": "УИК №983",
     "tikTvd": "262200074543",
-    "tikName": "Ухоловская"
+    "tikName": "Ухоловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 984,
     "uikTvd": "462402671456",
+    "uikName": "УИК №984",
     "tikTvd": "262200074543",
-    "tikName": "Ухоловская"
+    "tikName": "Ухоловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 985,
     "uikTvd": "462402671457",
+    "uikName": "УИК №985",
     "tikTvd": "262200074543",
-    "tikName": "Ухоловская"
+    "tikName": "Ухоловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 986,
     "uikTvd": "462402671458",
+    "uikName": "УИК №986",
     "tikTvd": "262200074543",
-    "tikName": "Ухоловская"
+    "tikName": "Ухоловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 987,
     "uikTvd": "462402671459",
+    "uikName": "УИК №987",
     "tikTvd": "262200074543",
-    "tikName": "Ухоловская"
+    "tikName": "Ухоловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 988,
     "uikTvd": "462402671460",
+    "uikName": "УИК №988",
     "tikTvd": "262200074543",
-    "tikName": "Ухоловская"
+    "tikName": "Ухоловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 989,
     "uikTvd": "462402671461",
+    "uikName": "УИК №989",
     "tikTvd": "262200074543",
-    "tikName": "Ухоловская"
+    "tikName": "Ухоловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 990,
     "uikTvd": "462402671462",
+    "uikName": "УИК №990",
     "tikTvd": "262200074543",
-    "tikName": "Ухоловская"
+    "tikName": "Ухоловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 991,
     "uikTvd": "462402671463",
+    "uikName": "УИК №991",
     "tikTvd": "262200074543",
-    "tikName": "Ухоловская"
+    "tikName": "Ухоловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 992,
     "uikTvd": "462402671464",
+    "uikName": "УИК №992",
     "tikTvd": "262200074543",
-    "tikName": "Ухоловская"
+    "tikName": "Ухоловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 993,
     "uikTvd": "462402671465",
+    "uikName": "УИК №993",
     "tikTvd": "262200074543",
-    "tikName": "Ухоловская"
+    "tikName": "Ухоловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 994,
     "uikTvd": "462402671466",
+    "uikName": "УИК №994",
     "tikTvd": "262200074543",
-    "tikName": "Ухоловская"
+    "tikName": "Ухоловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 995,
     "uikTvd": "462402671467",
+    "uikName": "УИК №995",
     "tikTvd": "262200074543",
-    "tikName": "Ухоловская"
+    "tikName": "Ухоловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 996,
     "uikTvd": "462402671468",
+    "uikName": "УИК №996",
     "tikTvd": "262200074543",
-    "tikName": "Ухоловская"
+    "tikName": "Ухоловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 997,
     "uikTvd": "462402771231",
+    "uikName": "УИК №997",
     "tikTvd": "262200074539",
-    "tikName": "Чучковская"
+    "tikName": "Чучковская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 998,
     "uikTvd": "462402771232",
+    "uikName": "УИК №998",
     "tikTvd": "262200074539",
-    "tikName": "Чучковская"
+    "tikName": "Чучковская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 999,
     "uikTvd": "462402771233",
+    "uikName": "УИК №999",
     "tikTvd": "262200074539",
-    "tikName": "Чучковская"
+    "tikName": "Чучковская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1000,
     "uikTvd": "462402771234",
+    "uikName": "УИК №1000",
     "tikTvd": "262200074539",
-    "tikName": "Чучковская"
+    "tikName": "Чучковская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1001,
     "uikTvd": "462402771235",
+    "uikName": "УИК №1001",
     "tikTvd": "262200074539",
-    "tikName": "Чучковская"
+    "tikName": "Чучковская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1002,
     "uikTvd": "462402771236",
+    "uikName": "УИК №1002",
     "tikTvd": "262200074539",
-    "tikName": "Чучковская"
+    "tikName": "Чучковская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1003,
     "uikTvd": "462402771237",
+    "uikName": "УИК №1003",
     "tikTvd": "262200074539",
-    "tikName": "Чучковская"
+    "tikName": "Чучковская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1004,
     "uikTvd": "462402771238",
+    "uikName": "УИК №1004",
     "tikTvd": "262200074539",
-    "tikName": "Чучковская"
+    "tikName": "Чучковская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1005,
     "uikTvd": "462402771239",
+    "uikName": "УИК №1005",
     "tikTvd": "262200074539",
-    "tikName": "Чучковская"
+    "tikName": "Чучковская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1006,
     "uikTvd": "462402771240",
+    "uikName": "УИК №1006",
     "tikTvd": "262200074539",
-    "tikName": "Чучковская"
+    "tikName": "Чучковская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1007,
     "uikTvd": "462402771241",
+    "uikName": "УИК №1007",
     "tikTvd": "262200074539",
-    "tikName": "Чучковская"
+    "tikName": "Чучковская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1008,
     "uikTvd": "462402771242",
+    "uikName": "УИК №1008",
     "tikTvd": "262200074539",
-    "tikName": "Чучковская"
+    "tikName": "Чучковская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1009,
     "uikTvd": "462402771243",
+    "uikName": "УИК №1009",
     "tikTvd": "262200074539",
-    "tikName": "Чучковская"
+    "tikName": "Чучковская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1010,
     "uikTvd": "462402771244",
+    "uikName": "УИК №1010",
     "tikTvd": "262200074539",
-    "tikName": "Чучковская"
+    "tikName": "Чучковская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1011,
     "uikTvd": "462402771245",
+    "uikName": "УИК №1011",
     "tikTvd": "262200074539",
-    "tikName": "Чучковская"
+    "tikName": "Чучковская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1012,
     "uikTvd": "462402771246",
+    "uikName": "УИК №1012",
     "tikTvd": "262200074539",
-    "tikName": "Чучковская"
+    "tikName": "Чучковская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1013,
     "uikTvd": "462402771247",
+    "uikName": "УИК №1013",
     "tikTvd": "262200074539",
-    "tikName": "Чучковская"
+    "tikName": "Чучковская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1014,
     "uikTvd": "462402771248",
+    "uikName": "УИК №1014",
     "tikTvd": "262200074539",
-    "tikName": "Чучковская"
+    "tikName": "Чучковская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1015,
     "uikTvd": "462402771249",
+    "uikName": "УИК №1015",
     "tikTvd": "262200074539",
-    "tikName": "Чучковская"
+    "tikName": "Чучковская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1016,
     "uikTvd": "462402771250",
+    "uikName": "УИК №1016",
     "tikTvd": "262200074539",
-    "tikName": "Чучковская"
+    "tikName": "Чучковская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1017,
     "uikTvd": "462402771251",
+    "uikName": "УИК №1017",
     "tikTvd": "262200074539",
-    "tikName": "Чучковская"
+    "tikName": "Чучковская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1018,
     "uikTvd": "462402872272",
+    "uikName": "УИК №1018",
     "tikTvd": "262200074554",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1019,
     "uikTvd": "462402872273",
+    "uikName": "УИК №1019",
     "tikTvd": "262200074554",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1020,
     "uikTvd": "462402872274",
+    "uikName": "УИК №1020",
     "tikTvd": "262200074554",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1021,
     "uikTvd": "462402872275",
+    "uikName": "УИК №1021",
     "tikTvd": "262200074554",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1022,
     "uikTvd": "462402872276",
+    "uikName": "УИК №1022",
     "tikTvd": "262200074554",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1023,
     "uikTvd": "462402872277",
+    "uikName": "УИК №1023",
     "tikTvd": "262200074554",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1024,
     "uikTvd": "462402872278",
+    "uikName": "УИК №1024",
     "tikTvd": "262200074554",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1025,
     "uikTvd": "462402872279",
+    "uikName": "УИК №1025",
     "tikTvd": "262200074554",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1026,
     "uikTvd": "462402872280",
+    "uikName": "УИК №1026",
     "tikTvd": "262200074554",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1027,
     "uikTvd": "462402872281",
+    "uikName": "УИК №1027",
     "tikTvd": "262200074554",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1028,
     "uikTvd": "462402872282",
+    "uikName": "УИК №1028",
     "tikTvd": "262200074554",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1029,
     "uikTvd": "462402872283",
+    "uikName": "УИК №1029",
     "tikTvd": "262200074554",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1030,
     "uikTvd": "462402872284",
+    "uikName": "УИК №1030",
     "tikTvd": "262200074554",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1031,
     "uikTvd": "462402872285",
+    "uikName": "УИК №1031",
     "tikTvd": "262200074554",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1032,
     "uikTvd": "462402872286",
+    "uikName": "УИК №1032",
     "tikTvd": "262200074554",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1033,
     "uikTvd": "462402872287",
+    "uikName": "УИК №1033",
     "tikTvd": "262200074554",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1034,
     "uikTvd": "462402872288",
+    "uikName": "УИК №1034",
     "tikTvd": "262200074554",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1035,
     "uikTvd": "462402872289",
+    "uikName": "УИК №1035",
     "tikTvd": "262200074554",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1036,
     "uikTvd": "462402872290",
+    "uikName": "УИК №1036",
     "tikTvd": "262200074554",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1037,
     "uikTvd": "462402872291",
+    "uikName": "УИК №1037",
     "tikTvd": "262200074554",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1038,
     "uikTvd": "462402872292",
+    "uikName": "УИК №1038",
     "tikTvd": "262200074554",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1039,
     "uikTvd": "462402872293",
+    "uikName": "УИК №1039",
     "tikTvd": "262200074554",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1040,
     "uikTvd": "462402872294",
+    "uikName": "УИК №1040",
     "tikTvd": "262200074554",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1041,
     "uikTvd": "462402872295",
+    "uikName": "УИК №1041",
     "tikTvd": "262200074554",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1042,
     "uikTvd": "462402872296",
+    "uikName": "УИК №1042",
     "tikTvd": "262200074554",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1043,
     "uikTvd": "462402872297",
+    "uikName": "УИК №1043",
     "tikTvd": "262200074554",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1044,
     "uikTvd": "462402872298",
+    "uikName": "УИК №1044",
     "tikTvd": "262200074554",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1045,
     "uikTvd": "462402872299",
+    "uikName": "УИК №1045",
     "tikTvd": "262200074554",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1046,
     "uikTvd": "462402872300",
+    "uikName": "УИК №1046",
     "tikTvd": "262200074554",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1047,
     "uikTvd": "462402872301",
+    "uikName": "УИК №1047",
     "tikTvd": "262200074554",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1048,
     "uikTvd": "462402872302",
+    "uikName": "УИК №1048",
     "tikTvd": "262200074554",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1049,
     "uikTvd": "462402872303",
+    "uikName": "УИК №1049",
     "tikTvd": "262200074554",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1050,
     "uikTvd": "462402872304",
+    "uikName": "УИК №1050",
     "tikTvd": "262200074554",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1051,
     "uikTvd": "462402872305",
+    "uikName": "УИК №1051",
     "tikTvd": "262200074554",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1052,
     "uikTvd": "462402872306",
+    "uikName": "УИК №1052",
     "tikTvd": "262200074554",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1053,
     "uikTvd": "462402872307",
+    "uikName": "УИК №1053",
     "tikTvd": "262200074554",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1054,
     "uikTvd": "462402872308",
+    "uikName": "УИК №1054",
     "tikTvd": "262200074554",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1055,
     "uikTvd": "462402872309",
+    "uikName": "УИК №1055",
     "tikTvd": "262200074554",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1056,
     "uikTvd": "462402872310",
+    "uikName": "УИК №1056",
     "tikTvd": "262200074554",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1057,
     "uikTvd": "462402872311",
+    "uikName": "УИК №1057",
     "tikTvd": "262200074554",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1058,
     "uikTvd": "462402872312",
+    "uikName": "УИК №1058",
     "tikTvd": "262200074554",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1059,
     "uikTvd": "462402872313",
+    "uikName": "УИК №1059",
     "tikTvd": "262200074554",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1060,
     "uikTvd": "462402872314",
+    "uikName": "УИК №1060",
     "tikTvd": "262200074554",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1061,
     "uikTvd": "462402872315",
+    "uikName": "УИК №1061",
     "tikTvd": "262200074554",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1062,
     "uikTvd": "462402872316",
+    "uikName": "УИК №1062",
     "tikTvd": "262200074554",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1063,
     "uikTvd": "462402872317",
+    "uikName": "УИК №1063",
     "tikTvd": "262200074554",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1064,
     "uikTvd": "462402872318",
+    "uikName": "УИК №1064",
     "tikTvd": "262200074554",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1065,
     "uikTvd": "462402872319",
+    "uikName": "УИК №1065",
     "tikTvd": "262200074554",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1066,
     "uikTvd": "462402872320",
+    "uikName": "УИК №1066",
     "tikTvd": "262200074554",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1067,
     "uikTvd": "462402872321",
+    "uikName": "УИК №1067",
     "tikTvd": "262200074554",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1068,
     "uikTvd": "462402872322",
+    "uikName": "УИК №1068",
     "tikTvd": "262200074554",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1069,
     "uikTvd": "462402872323",
+    "uikName": "УИК №1069",
     "tikTvd": "262200074554",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1070,
     "uikTvd": "462402872324",
+    "uikName": "УИК №1070",
     "tikTvd": "262200074554",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1071,
     "uikTvd": "462402872325",
+    "uikName": "УИК №1071",
     "tikTvd": "262200074554",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1072,
     "uikTvd": "462402872326",
+    "uikName": "УИК №1072",
     "tikTvd": "262200074554",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1073,
     "uikTvd": "462402872327",
+    "uikName": "УИК №1073",
     "tikTvd": "262200074554",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1074,
     "uikTvd": "462402872328",
+    "uikName": "УИК №1074",
     "tikTvd": "262200074554",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1075,
     "uikTvd": "462402872329",
+    "uikName": "УИК №1075",
     "tikTvd": "262200074554",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1076,
     "uikTvd": "462402972517",
+    "uikName": "УИК №1076",
     "tikTvd": "262200074553",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1077,
     "uikTvd": "462402972518",
+    "uikName": "УИК №1077",
     "tikTvd": "262200074553",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1078,
     "uikTvd": "462402972519",
+    "uikName": "УИК №1078",
     "tikTvd": "262200074553",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1079,
     "uikTvd": "462402972520",
+    "uikName": "УИК №1079",
     "tikTvd": "262200074553",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1080,
     "uikTvd": "462402972521",
+    "uikName": "УИК №1080",
     "tikTvd": "262200074553",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1081,
     "uikTvd": "462402972522",
+    "uikName": "УИК №1081",
     "tikTvd": "262200074553",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1082,
     "uikTvd": "462402972523",
+    "uikName": "УИК №1082",
     "tikTvd": "262200074553",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1083,
     "uikTvd": "462402972524",
+    "uikName": "УИК №1083",
     "tikTvd": "262200074553",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1084,
     "uikTvd": "462402972525",
+    "uikName": "УИК №1084",
     "tikTvd": "262200074553",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1085,
     "uikTvd": "462402972526",
+    "uikName": "УИК №1085",
     "tikTvd": "262200074553",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1086,
     "uikTvd": "462402972527",
+    "uikName": "УИК №1086",
     "tikTvd": "262200074553",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1087,
     "uikTvd": "462402972528",
+    "uikName": "УИК №1087",
     "tikTvd": "262200074553",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1088,
     "uikTvd": "462402972529",
+    "uikName": "УИК №1088",
     "tikTvd": "262200074553",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1089,
     "uikTvd": "462402972530",
+    "uikName": "УИК №1089",
     "tikTvd": "262200074553",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1090,
     "uikTvd": "462402972531",
+    "uikName": "УИК №1090",
     "tikTvd": "262200074553",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1091,
     "uikTvd": "462402972532",
+    "uikName": "УИК №1091",
     "tikTvd": "262200074553",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1092,
     "uikTvd": "462402972533",
+    "uikName": "УИК №1092",
     "tikTvd": "262200074553",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1093,
     "uikTvd": "462402972534",
+    "uikName": "УИК №1093",
     "tikTvd": "262200074553",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1094,
     "uikTvd": "462402972535",
+    "uikName": "УИК №1094",
     "tikTvd": "262200074553",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1095,
     "uikTvd": "462402972536",
+    "uikName": "УИК №1095",
     "tikTvd": "262200074553",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1096,
     "uikTvd": "462402972537",
+    "uikName": "УИК №1096",
     "tikTvd": "262200074553",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1097,
     "uikTvd": "462402972538",
+    "uikName": "УИК №1097",
     "tikTvd": "262200074553",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1098,
     "uikTvd": "462402972539",
+    "uikName": "УИК №1098",
     "tikTvd": "262200074553",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1099,
     "uikTvd": "462402972540",
+    "uikName": "УИК №1099",
     "tikTvd": "262200074553",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1100,
     "uikTvd": "462402972541",
+    "uikName": "УИК №1100",
     "tikTvd": "262200074553",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1101,
     "uikTvd": "462402972542",
+    "uikName": "УИК №1101",
     "tikTvd": "262200074553",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1102,
     "uikTvd": "462402972543",
+    "uikName": "УИК №1102",
     "tikTvd": "262200074553",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1103,
     "uikTvd": "462402972544",
+    "uikName": "УИК №1103",
     "tikTvd": "262200074553",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1104,
     "uikTvd": "462402972545",
+    "uikName": "УИК №1104",
     "tikTvd": "262200074553",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1105,
     "uikTvd": "462402972546",
+    "uikName": "УИК №1105",
     "tikTvd": "262200074553",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1106,
     "uikTvd": "462402972547",
+    "uikName": "УИК №1106",
     "tikTvd": "262200074553",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1107,
     "uikTvd": "462402972548",
+    "uikName": "УИК №1107",
     "tikTvd": "262200074553",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1108,
     "uikTvd": "462402972549",
+    "uikName": "УИК №1108",
     "tikTvd": "262200074553",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1109,
     "uikTvd": "462402972550",
+    "uikName": "УИК №1109",
     "tikTvd": "262200074553",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1110,
     "uikTvd": "462402972551",
+    "uikName": "УИК №1110",
     "tikTvd": "262200074553",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1111,
     "uikTvd": "462402972552",
+    "uikName": "УИК №1111",
     "tikTvd": "262200074553",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1112,
     "uikTvd": "462402972553",
+    "uikName": "УИК №1112",
     "tikTvd": "262200074553",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1113,
     "uikTvd": "462402972554",
+    "uikName": "УИК №1113",
     "tikTvd": "262200074553",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1114,
     "uikTvd": "462402972555",
+    "uikName": "УИК №1114",
     "tikTvd": "262200074553",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1115,
     "uikTvd": "462402972556",
+    "uikName": "УИК №1115",
     "tikTvd": "262200074553",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1116,
     "uikTvd": "462402972557",
+    "uikName": "УИК №1116",
     "tikTvd": "262200074553",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1117,
     "uikTvd": "462402972558",
+    "uikName": "УИК №1117",
     "tikTvd": "262200074553",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1118,
     "uikTvd": "462402972559",
+    "uikName": "УИК №1118",
     "tikTvd": "262200074553",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1119,
     "uikTvd": "462402972560",
+    "uikName": "УИК №1119",
     "tikTvd": "262200074553",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1120,
     "uikTvd": "462402972561",
+    "uikName": "УИК №1120",
     "tikTvd": "262200074553",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1121,
     "uikTvd": "462402972562",
+    "uikName": "УИК №1121",
     "tikTvd": "262200074553",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1122,
     "uikTvd": "462402972563",
+    "uikName": "УИК №1122",
     "tikTvd": "262200074553",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1123,
     "uikTvd": "462402972564",
+    "uikName": "УИК №1123",
     "tikTvd": "262200074553",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1124,
     "uikTvd": "462402972565",
+    "uikName": "УИК №1124",
     "tikTvd": "262200074553",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1125,
     "uikTvd": "462402972566",
+    "uikName": "УИК №1125",
     "tikTvd": "262200074553",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1126,
     "uikTvd": "462402972567",
+    "uikName": "УИК №1126",
     "tikTvd": "262200074553",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1127,
     "uikTvd": "462402972568",
+    "uikName": "УИК №1127",
     "tikTvd": "262200074553",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1128,
     "uikTvd": "462402972569",
+    "uikName": "УИК №1128",
     "tikTvd": "262200074553",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1129,
     "uikTvd": "462402972570",
+    "uikName": "УИК №1129",
     "tikTvd": "262200074553",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1130,
     "uikTvd": "462402972571",
+    "uikName": "УИК №1130",
     "tikTvd": "262200074553",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1131,
     "uikTvd": "462402972572",
+    "uikName": "УИК №1131",
     "tikTvd": "262200074553",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1132,
     "uikTvd": "462402972573",
+    "uikName": "УИК №1132",
     "tikTvd": "262200074553",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1133,
     "uikTvd": "462402972574",
+    "uikName": "УИК №1133",
     "tikTvd": "262200074553",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1134,
     "uikTvd": "462402972575",
+    "uikName": "УИК №1134",
     "tikTvd": "262200074553",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   },
   {
     "uikNumber": 1135,
     "uikTvd": "462402972576",
+    "uikName": "УИК №1135",
     "tikTvd": "262200074553",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "1001000883016",
+    "regionName": "Рязанская область",
+    "district": null
   }
 ] satisfies readonly UikTikRelation[];

@@ -11,6 +11,9 @@ export const president_2012_tic_227_region_40 = [
     "ballot": "presidential",
     "tikTvd": "2402000227019",
     "tikName": "Юхновская",
+    "regionCode": "40",
+    "regionTvd": "100100031793844",
+    "regionName": "Калужская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9878,
@@ -76,6 +79,9 @@ export const president_2012_tic_227_region_40 = [
     "ballot": "presidential",
     "tikTvd": "2402000227020",
     "tikName": "Хвастовичская",
+    "regionCode": "40",
+    "regionTvd": "100100031793844",
+    "regionName": "Калужская область",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 7786,
@@ -140,6 +146,9 @@ export const president_2012_tic_227_region_40 = [
     "ballot": "presidential",
     "tikTvd": "2402000227021",
     "tikName": "Ферзиковская",
+    "regionCode": "40",
+    "regionTvd": "100100031793844",
+    "regionName": "Калужская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 11234,
@@ -205,6 +214,9 @@ export const president_2012_tic_227_region_40 = [
     "ballot": "presidential",
     "tikTvd": "2402000227022",
     "tikName": "Ульяновская",
+    "regionCode": "40",
+    "regionTvd": "100100031793844",
+    "regionName": "Калужская область",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 5723,
@@ -268,6 +280,9 @@ export const president_2012_tic_227_region_40 = [
     "ballot": "presidential",
     "tikTvd": "2402000227023",
     "tikName": "Тарусская",
+    "regionCode": "40",
+    "regionTvd": "100100031793844",
+    "regionName": "Калужская область",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 11101,
@@ -331,6 +346,9 @@ export const president_2012_tic_227_region_40 = [
     "ballot": "presidential",
     "tikTvd": "2402000227024",
     "tikName": "Сухиничская",
+    "regionCode": "40",
+    "regionTvd": "100100031793844",
+    "regionName": "Калужская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 19258,
@@ -406,6 +424,9 @@ export const president_2012_tic_227_region_40 = [
     "ballot": "presidential",
     "tikTvd": "2402000227025",
     "tikName": "Спас-Деменская",
+    "regionCode": "40",
+    "regionTvd": "100100031793844",
+    "regionName": "Калужская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 6931,
@@ -468,6 +489,9 @@ export const president_2012_tic_227_region_40 = [
     "ballot": "presidential",
     "tikTvd": "2402000227026",
     "tikName": "Перемышльская",
+    "regionCode": "40",
+    "regionTvd": "100100031793844",
+    "regionName": "Калужская область",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9957,
@@ -532,6 +556,9 @@ export const president_2012_tic_227_region_40 = [
     "ballot": "presidential",
     "tikTvd": "2402000227027",
     "tikName": "Обнинская городская",
+    "regionCode": "40",
+    "regionTvd": "100100031793844",
+    "regionName": "Калужская область",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 88323,
@@ -617,6 +644,9 @@ export const president_2012_tic_227_region_40 = [
     "ballot": "presidential",
     "tikTvd": "2402000227028",
     "tikName": "Мосальская",
+    "regionCode": "40",
+    "regionTvd": "100100031793844",
+    "regionName": "Калужская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 6660,
@@ -684,6 +714,9 @@ export const president_2012_tic_227_region_40 = [
     "ballot": "presidential",
     "tikTvd": "2402000227029",
     "tikName": "Мещовская",
+    "regionCode": "40",
+    "regionTvd": "100100031793844",
+    "regionName": "Калужская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 8418,
@@ -751,6 +784,9 @@ export const president_2012_tic_227_region_40 = [
     "ballot": "presidential",
     "tikTvd": "2402000227030",
     "tikName": "Медынская",
+    "regionCode": "40",
+    "regionTvd": "100100031793844",
+    "regionName": "Калужская область",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9032,
@@ -812,6 +848,9 @@ export const president_2012_tic_227_region_40 = [
     "ballot": "presidential",
     "tikTvd": "2402000227031",
     "tikName": "Малоярославецкая",
+    "regionCode": "40",
+    "regionTvd": "100100031793844",
+    "regionName": "Калужская область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 44869,
@@ -895,6 +934,9 @@ export const president_2012_tic_227_region_40 = [
     "ballot": "presidential",
     "tikTvd": "2402000227032",
     "tikName": "Людиновская",
+    "regionCode": "40",
+    "regionTvd": "100100031793844",
+    "regionName": "Калужская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 34607,
@@ -971,6 +1013,9 @@ export const president_2012_tic_227_region_40 = [
     "ballot": "presidential",
     "tikTvd": "2402000227033",
     "tikName": "Куйбышевская",
+    "regionCode": "40",
+    "regionTvd": "100100031793844",
+    "regionName": "Калужская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 6001,
@@ -1036,6 +1081,9 @@ export const president_2012_tic_227_region_40 = [
     "ballot": "presidential",
     "tikTvd": "2402000227034",
     "tikName": "Козельская",
+    "regionCode": "40",
+    "regionTvd": "100100031793844",
+    "regionName": "Калужская область",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 33027,
@@ -1115,6 +1163,9 @@ export const president_2012_tic_227_region_40 = [
     "ballot": "presidential",
     "tikTvd": "2402000227035",
     "tikName": "Кировская",
+    "regionCode": "40",
+    "regionTvd": "100100031793844",
+    "regionName": "Калужская область",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 31642,
@@ -1194,6 +1245,9 @@ export const president_2012_tic_227_region_40 = [
     "ballot": "presidential",
     "tikTvd": "2402000227036",
     "tikName": "Калуга, Октябрьская",
+    "regionCode": "40",
+    "regionTvd": "100100031793844",
+    "regionName": "Калужская область",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 93451,
@@ -1291,6 +1345,9 @@ export const president_2012_tic_227_region_40 = [
     "ballot": "presidential",
     "tikTvd": "2402000227037",
     "tikName": "Калуга, Московская",
+    "regionCode": "40",
+    "regionTvd": "100100031793844",
+    "regionName": "Калужская область",
     "uikCount": 45,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 89170,
@@ -1383,6 +1440,9 @@ export const president_2012_tic_227_region_40 = [
     "ballot": "presidential",
     "tikTvd": "2402000227038",
     "tikName": "Калуга, Ленинская",
+    "regionCode": "40",
+    "regionTvd": "100100031793844",
+    "regionName": "Калужская область",
     "uikCount": 52,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 104864,
@@ -1482,6 +1542,9 @@ export const president_2012_tic_227_region_40 = [
     "ballot": "presidential",
     "tikTvd": "2402000227039",
     "tikName": "Износковская",
+    "regionCode": "40",
+    "regionTvd": "100100031793844",
+    "regionName": "Калужская область",
     "uikCount": 10,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 4368,
@@ -1539,6 +1602,9 @@ export const president_2012_tic_227_region_40 = [
     "ballot": "presidential",
     "tikTvd": "2402000227040",
     "tikName": "Жуковская",
+    "regionCode": "40",
+    "regionTvd": "100100031793844",
+    "regionName": "Калужская область",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 35636,
@@ -1621,6 +1687,9 @@ export const president_2012_tic_227_region_40 = [
     "ballot": "presidential",
     "tikTvd": "2402000227041",
     "tikName": "Жиздринская",
+    "regionCode": "40",
+    "regionTvd": "100100031793844",
+    "regionName": "Калужская область",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 7606,
@@ -1684,6 +1753,9 @@ export const president_2012_tic_227_region_40 = [
     "ballot": "presidential",
     "tikTvd": "2402000227042",
     "tikName": "Думиничская",
+    "regionCode": "40",
+    "regionTvd": "100100031793844",
+    "regionName": "Калужская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10979,
@@ -1750,6 +1822,9 @@ export const president_2012_tic_227_region_40 = [
     "ballot": "presidential",
     "tikTvd": "2402000227043",
     "tikName": "Дзержинская",
+    "regionCode": "40",
+    "regionTvd": "100100031793844",
+    "regionName": "Калужская область",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 44750,
@@ -1839,6 +1914,9 @@ export const president_2012_tic_227_region_40 = [
     "ballot": "presidential",
     "tikTvd": "2402000227044",
     "tikName": "Боровская",
+    "regionCode": "40",
+    "regionTvd": "100100031793844",
+    "regionName": "Калужская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 41952,
@@ -1920,6 +1998,9 @@ export const president_2012_tic_227_region_40 = [
     "ballot": "presidential",
     "tikTvd": "2402000227045",
     "tikName": "Барятинская",
+    "regionCode": "40",
+    "regionTvd": "100100031793844",
+    "regionName": "Калужская область",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 4032,
@@ -1981,6 +2062,9 @@ export const president_2012_tic_227_region_40 = [
     "ballot": "presidential",
     "tikTvd": "2402000227046",
     "tikName": "Бабынинская",
+    "regionCode": "40",
+    "regionTvd": "100100031793844",
+    "regionName": "Калужская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 16941,

@@ -11,6 +11,14 @@ export const duma_2016_tic_464_region_63 = [
     "ballot": "single-member",
     "tikTvd": "26320001030015",
     "tikName": "Самара, Самарская",
+    "regionCode": "63",
+    "regionTvd": "100100067796062",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 158,
+      "oikTvd": "100100067796063",
+      "oikName": "Самарская область – Самарский"
+    },
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 27287,
@@ -79,6 +87,14 @@ export const duma_2016_tic_464_region_63 = [
     "ballot": "single-member",
     "tikTvd": "26320001030016",
     "tikName": "Самара, Октябрьская",
+    "regionCode": "63",
+    "regionTvd": "100100067796062",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 158,
+      "oikTvd": "100100067796063",
+      "oikName": "Самарская область – Самарский"
+    },
     "uikCount": 44,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 93463,
@@ -176,6 +192,14 @@ export const duma_2016_tic_464_region_63 = [
     "ballot": "single-member",
     "tikTvd": "26320001030017",
     "tikName": "Самара, Ленинская",
+    "regionCode": "63",
+    "regionTvd": "100100067796062",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 158,
+      "oikTvd": "100100067796063",
+      "oikName": "Самарская область – Самарский"
+    },
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 54347,
@@ -253,6 +277,14 @@ export const duma_2016_tic_464_region_63 = [
     "ballot": "single-member",
     "tikTvd": "26320001030018",
     "tikName": "Самара, Куйбышевская",
+    "regionCode": "63",
+    "regionTvd": "100100067796062",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 158,
+      "oikTvd": "100100067796063",
+      "oikName": "Самарская область – Самарский"
+    },
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 63149,
@@ -339,6 +371,14 @@ export const duma_2016_tic_464_region_63 = [
     "ballot": "single-member",
     "tikTvd": "26320001030019",
     "tikName": "Самара, Железнодорожная",
+    "regionCode": "63",
+    "regionTvd": "100100067796062",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 158,
+      "oikTvd": "100100067796063",
+      "oikName": "Самарская область – Самарский"
+    },
     "uikCount": 43,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 79791,
@@ -435,6 +475,14 @@ export const duma_2016_tic_464_region_63 = [
     "ballot": "single-member",
     "tikTvd": "26320001030020",
     "tikName": "Новокуйбышевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100067796062",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 158,
+      "oikTvd": "100100067796063",
+      "oikName": "Самарская область – Самарский"
+    },
     "uikCount": 52,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 84088,
@@ -540,6 +588,14 @@ export const duma_2016_tic_464_region_63 = [
     "ballot": "single-member",
     "tikTvd": "26320001030021",
     "tikName": "Нефтегорская",
+    "regionCode": "63",
+    "regionTvd": "100100067796062",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 158,
+      "oikTvd": "100100067796063",
+      "oikName": "Самарская область – Самарский"
+    },
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 24143,
@@ -621,6 +677,14 @@ export const duma_2016_tic_464_region_63 = [
     "ballot": "single-member",
     "tikTvd": "26320001030022",
     "tikName": "Волжская - 158",
+    "regionCode": "63",
+    "regionTvd": "100100067796062",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 158,
+      "oikTvd": "100100067796063",
+      "oikName": "Самарская область – Самарский"
+    },
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 26818,
@@ -692,6 +756,14 @@ export const duma_2016_tic_464_region_63 = [
     "ballot": "single-member",
     "tikTvd": "26320001030023",
     "tikName": "Большечерниговская",
+    "regionCode": "63",
+    "regionTvd": "100100067796062",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 158,
+      "oikTvd": "100100067796063",
+      "oikName": "Самарская область – Самарский"
+    },
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 13109,
@@ -773,6 +845,14 @@ export const duma_2016_tic_464_region_63 = [
     "ballot": "single-member",
     "tikTvd": "26320001030024",
     "tikName": "Большеглушицкая",
+    "regionCode": "63",
+    "regionTvd": "100100067796062",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 158,
+      "oikTvd": "100100067796063",
+      "oikName": "Самарская область – Самарский"
+    },
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 14603,
@@ -849,6 +929,14 @@ export const duma_2016_tic_464_region_63 = [
     "ballot": "single-member",
     "tikTvd": "26320001030025",
     "tikName": "Алексеевская",
+    "regionCode": "63",
+    "regionTvd": "100100067796062",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 158,
+      "oikTvd": "100100067796063",
+      "oikName": "Самарская область – Самарский"
+    },
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 9476,
@@ -930,6 +1018,14 @@ export const duma_2016_tic_464_region_63 = [
     "ballot": "single-member",
     "tikTvd": "26320001030062",
     "tikName": "Шигонская",
+    "regionCode": "63",
+    "regionTvd": "100100067796062",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 159,
+      "oikTvd": "100100067796064",
+      "oikName": "Самарская область – Тольяттинский"
+    },
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 14568,
@@ -1010,6 +1106,14 @@ export const duma_2016_tic_464_region_63 = [
     "ballot": "single-member",
     "tikTvd": "26320001030063",
     "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "100100067796062",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 159,
+      "oikTvd": "100100067796064",
+      "oikName": "Самарская область – Тольяттинский"
+    },
     "uikCount": 58,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 120401,
@@ -1120,6 +1224,14 @@ export const duma_2016_tic_464_region_63 = [
     "ballot": "single-member",
     "tikTvd": "26320001030064",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100067796062",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 159,
+      "oikTvd": "100100067796064",
+      "oikName": "Самарская область – Тольяттинский"
+    },
     "uikCount": 144,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 339143,
@@ -1316,6 +1428,14 @@ export const duma_2016_tic_464_region_63 = [
     "ballot": "single-member",
     "tikTvd": "26320001030065",
     "tikName": "Ставропольская - 159",
+    "regionCode": "63",
+    "regionTvd": "100100067796062",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 159,
+      "oikTvd": "100100067796064",
+      "oikName": "Самарская область – Тольяттинский"
+    },
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 39184,
@@ -1394,6 +1514,14 @@ export const duma_2016_tic_464_region_63 = [
     "ballot": "single-member",
     "tikTvd": "26320001030066",
     "tikName": "Шенталинская",
+    "regionCode": "63",
+    "regionTvd": "100100067796062",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 160,
+      "oikTvd": "100100067796065",
+      "oikName": "Самарская область – Красноглинский"
+    },
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 11550,
@@ -1475,6 +1603,14 @@ export const duma_2016_tic_464_region_63 = [
     "ballot": "single-member",
     "tikTvd": "26320001030067",
     "tikName": "Челно-Вершинская",
+    "regionCode": "63",
+    "regionTvd": "100100067796062",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 160,
+      "oikTvd": "100100067796065",
+      "oikName": "Самарская область – Красноглинский"
+    },
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 13254,
@@ -1557,6 +1693,14 @@ export const duma_2016_tic_464_region_63 = [
     "ballot": "single-member",
     "tikTvd": "26320001030068",
     "tikName": "Самара, Красноглинская",
+    "regionCode": "63",
+    "regionTvd": "100100067796062",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 160,
+      "oikTvd": "100100067796065",
+      "oikName": "Самарская область – Красноглинский"
+    },
     "uikCount": 45,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 79933,
@@ -1656,6 +1800,14 @@ export const duma_2016_tic_464_region_63 = [
     "ballot": "single-member",
     "tikTvd": "26320001030069",
     "tikName": "Самара, Кировская",
+    "regionCode": "63",
+    "regionTvd": "100100067796062",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 160,
+      "oikTvd": "100100067796065",
+      "oikName": "Самарская область – Красноглинский"
+    },
     "uikCount": 89,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 185293,
@@ -1799,6 +1951,14 @@ export const duma_2016_tic_464_region_63 = [
     "ballot": "single-member",
     "tikTvd": "26320001030070",
     "tikName": "Сергиевская",
+    "regionCode": "63",
+    "regionTvd": "100100067796062",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 160,
+      "oikTvd": "100100067796065",
+      "oikName": "Самарская область – Красноглинский"
+    },
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 35033,
@@ -1889,6 +2049,14 @@ export const duma_2016_tic_464_region_63 = [
     "ballot": "single-member",
     "tikTvd": "26320001030071",
     "tikName": "Похвистневская городская",
+    "regionCode": "63",
+    "regionTvd": "100100067796062",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 160,
+      "oikTvd": "100100067796065",
+      "oikName": "Самарская область – Красноглинский"
+    },
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 18983,
@@ -1958,6 +2126,14 @@ export const duma_2016_tic_464_region_63 = [
     "ballot": "single-member",
     "tikTvd": "26320001030072",
     "tikName": "Похвистневская",
+    "regionCode": "63",
+    "regionTvd": "100100067796062",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 160,
+      "oikTvd": "100100067796065",
+      "oikName": "Самарская область – Красноглинский"
+    },
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 20690,
@@ -2040,6 +2216,14 @@ export const duma_2016_tic_464_region_63 = [
     "ballot": "single-member",
     "tikTvd": "26320001030073",
     "tikName": "Красноярская",
+    "regionCode": "63",
+    "regionTvd": "100100067796062",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 160,
+      "oikTvd": "100100067796065",
+      "oikName": "Самарская область – Красноглинский"
+    },
     "uikCount": 45,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 39324,
@@ -2139,6 +2323,14 @@ export const duma_2016_tic_464_region_63 = [
     "ballot": "single-member",
     "tikTvd": "26320001030074",
     "tikName": "Кошкинская",
+    "regionCode": "63",
+    "regionTvd": "100100067796062",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 160,
+      "oikTvd": "100100067796065",
+      "oikName": "Самарская область – Красноглинский"
+    },
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 15022,
@@ -2228,6 +2420,14 @@ export const duma_2016_tic_464_region_63 = [
     "ballot": "single-member",
     "tikTvd": "26320001030075",
     "tikName": "Клявлинская",
+    "regionCode": "63",
+    "regionTvd": "100100067796062",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 160,
+      "oikTvd": "100100067796065",
+      "oikName": "Самарская область – Красноглинский"
+    },
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 11168,
@@ -2305,6 +2505,14 @@ export const duma_2016_tic_464_region_63 = [
     "ballot": "single-member",
     "tikTvd": "26320001030076",
     "tikName": "Камышлинская",
+    "regionCode": "63",
+    "regionTvd": "100100067796062",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 160,
+      "oikTvd": "100100067796065",
+      "oikName": "Самарская область – Красноглинский"
+    },
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 7365,
@@ -2373,6 +2581,14 @@ export const duma_2016_tic_464_region_63 = [
     "ballot": "single-member",
     "tikTvd": "26320001030077",
     "tikName": "Исаклинская",
+    "regionCode": "63",
+    "regionTvd": "100100067796062",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 160,
+      "oikTvd": "100100067796065",
+      "oikName": "Самарская область – Красноглинский"
+    },
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 10079,
@@ -2452,6 +2668,14 @@ export const duma_2016_tic_464_region_63 = [
     "ballot": "single-member",
     "tikTvd": "26320001030078",
     "tikName": "Елховская",
+    "regionCode": "63",
+    "regionTvd": "100100067796062",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 160,
+      "oikTvd": "100100067796065",
+      "oikName": "Самарская область – Красноглинский"
+    },
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 7225,
@@ -2527,6 +2751,14 @@ export const duma_2016_tic_464_region_63 = [
     "ballot": "single-member",
     "tikTvd": "26320001030080",
     "tikName": "Ставропольская - 160",
+    "regionCode": "63",
+    "regionTvd": "100100067796062",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 160,
+      "oikTvd": "100100067796065",
+      "oikName": "Самарская область – Красноглинский"
+    },
     "uikCount": 3,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2216,
@@ -2584,6 +2816,14 @@ export const duma_2016_tic_464_region_63 = [
     "ballot": "single-member",
     "tikTvd": "26320001030081",
     "tikName": "Тольятти, Комсомольская",
+    "regionCode": "63",
+    "regionTvd": "100100067796062",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100067796066",
+      "oikName": "Самарская область – Жигулевский"
+    },
     "uikCount": 44,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 89505,
@@ -2680,6 +2920,14 @@ export const duma_2016_tic_464_region_63 = [
     "ballot": "single-member",
     "tikTvd": "26320001030082",
     "tikName": "Чапаевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100067796062",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100067796066",
+      "oikName": "Самарская область – Жигулевский"
+    },
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 55081,
@@ -2766,6 +3014,14 @@ export const duma_2016_tic_464_region_63 = [
     "ballot": "single-member",
     "tikTvd": "26320001030083",
     "tikName": "Хворостянская",
+    "regionCode": "63",
+    "regionTvd": "100100067796062",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100067796066",
+      "oikName": "Самарская область – Жигулевский"
+    },
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 10420,
@@ -2840,6 +3096,14 @@ export const duma_2016_tic_464_region_63 = [
     "ballot": "single-member",
     "tikTvd": "26320001030084",
     "tikName": "Сызранская городская",
+    "regionCode": "63",
+    "regionTvd": "100100067796062",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100067796066",
+      "oikName": "Самарская область – Жигулевский"
+    },
     "uikCount": 85,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 132417,
@@ -2977,6 +3241,14 @@ export const duma_2016_tic_464_region_63 = [
     "ballot": "single-member",
     "tikTvd": "26320001030085",
     "tikName": "Сызранская",
+    "regionCode": "63",
+    "regionTvd": "100100067796062",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100067796066",
+      "oikName": "Самарская область – Жигулевский"
+    },
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 19483,
@@ -3065,6 +3337,14 @@ export const duma_2016_tic_464_region_63 = [
     "ballot": "single-member",
     "tikTvd": "26320001030086",
     "tikName": "Ставропольская - 161",
+    "regionCode": "63",
+    "regionTvd": "100100067796062",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100067796066",
+      "oikName": "Самарская область – Жигулевский"
+    },
     "uikCount": 12,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 10963,
@@ -3129,6 +3409,14 @@ export const duma_2016_tic_464_region_63 = [
     "ballot": "single-member",
     "tikTvd": "26320001030087",
     "tikName": "Приволжская",
+    "regionCode": "63",
+    "regionTvd": "100100067796062",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100067796066",
+      "oikName": "Самарская область – Жигулевский"
+    },
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 16822,
@@ -3210,6 +3498,14 @@ export const duma_2016_tic_464_region_63 = [
     "ballot": "single-member",
     "tikTvd": "26320001030088",
     "tikName": "Пестравская",
+    "regionCode": "63",
+    "regionTvd": "100100067796062",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100067796066",
+      "oikName": "Самарская область – Жигулевский"
+    },
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 12853,
@@ -3289,6 +3585,14 @@ export const duma_2016_tic_464_region_63 = [
     "ballot": "single-member",
     "tikTvd": "26320001030089",
     "tikName": "Октябрьская городская",
+    "regionCode": "63",
+    "regionTvd": "100100067796062",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100067796066",
+      "oikName": "Самарская область – Жигулевский"
+    },
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 18866,
@@ -3358,6 +3662,14 @@ export const duma_2016_tic_464_region_63 = [
     "ballot": "single-member",
     "tikTvd": "26320001030090",
     "tikName": "Красноармейская",
+    "regionCode": "63",
+    "regionTvd": "100100067796062",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100067796066",
+      "oikName": "Самарская область – Жигулевский"
+    },
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 11562,
@@ -3440,6 +3752,14 @@ export const duma_2016_tic_464_region_63 = [
     "ballot": "single-member",
     "tikTvd": "26320001030091",
     "tikName": "Жигулевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100067796062",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100067796066",
+      "oikName": "Самарская область – Жигулевский"
+    },
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 46605,
@@ -3518,6 +3838,14 @@ export const duma_2016_tic_464_region_63 = [
     "ballot": "single-member",
     "tikTvd": "26320001030092",
     "tikName": "Безенчукская",
+    "regionCode": "63",
+    "regionTvd": "100100067796062",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100067796066",
+      "oikName": "Самарская область – Жигулевский"
+    },
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 30048,
@@ -3603,6 +3931,14 @@ export const duma_2016_tic_464_region_63 = [
     "ballot": "single-member",
     "tikTvd": "26320001030094",
     "tikName": "Волжская - 160",
+    "regionCode": "63",
+    "regionTvd": "100100067796062",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 160,
+      "oikTvd": "100100067796065",
+      "oikName": "Самарская область – Красноглинский"
+    },
     "uikCount": 9,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 17038,
@@ -3666,6 +4002,14 @@ export const duma_2016_tic_464_region_63 = [
     "ballot": "single-member",
     "tikTvd": "26320001030095",
     "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "100100067796062",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 162,
+      "oikTvd": "100100067796067",
+      "oikName": "Самарская область – Промышленный"
+    },
     "uikCount": 62,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 130279,
@@ -3780,6 +4124,14 @@ export const duma_2016_tic_464_region_63 = [
     "ballot": "single-member",
     "tikTvd": "26320001030096",
     "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "100100067796062",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 162,
+      "oikTvd": "100100067796067",
+      "oikName": "Самарская область – Промышленный"
+    },
     "uikCount": 100,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 212509,
@@ -3932,6 +4284,14 @@ export const duma_2016_tic_464_region_63 = [
     "ballot": "single-member",
     "tikTvd": "26320001030097",
     "tikName": "Отрадная городская",
+    "regionCode": "63",
+    "regionTvd": "100100067796062",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 162,
+      "oikTvd": "100100067796067",
+      "oikName": "Самарская область – Промышленный"
+    },
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 31086,
@@ -4004,6 +4364,14 @@ export const duma_2016_tic_464_region_63 = [
     "ballot": "single-member",
     "tikTvd": "26320001030098",
     "tikName": "Кинельская городская",
+    "regionCode": "63",
+    "regionTvd": "100100067796062",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 162,
+      "oikTvd": "100100067796067",
+      "oikName": "Самарская область – Промышленный"
+    },
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 33663,
@@ -4087,6 +4455,14 @@ export const duma_2016_tic_464_region_63 = [
     "ballot": "single-member",
     "tikTvd": "26320001030099",
     "tikName": "Кинельская",
+    "regionCode": "63",
+    "regionTvd": "100100067796062",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 162,
+      "oikTvd": "100100067796067",
+      "oikName": "Самарская область – Промышленный"
+    },
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 20189,
@@ -4165,6 +4541,14 @@ export const duma_2016_tic_464_region_63 = [
     "ballot": "single-member",
     "tikTvd": "26320001030100",
     "tikName": "Кинель-Черкасская",
+    "regionCode": "63",
+    "regionTvd": "100100067796062",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 162,
+      "oikTvd": "100100067796067",
+      "oikName": "Самарская область – Промышленный"
+    },
     "uikCount": 50,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 34665,
@@ -4267,6 +4651,14 @@ export const duma_2016_tic_464_region_63 = [
     "ballot": "single-member",
     "tikTvd": "26320001030101",
     "tikName": "Волжская - 162",
+    "regionCode": "63",
+    "regionTvd": "100100067796062",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 162,
+      "oikTvd": "100100067796067",
+      "oikName": "Самарская область – Промышленный"
+    },
     "uikCount": 9,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 13669,
@@ -4328,6 +4720,14 @@ export const duma_2016_tic_464_region_63 = [
     "ballot": "single-member",
     "tikTvd": "26320001030102",
     "tikName": "Борская",
+    "regionCode": "63",
+    "regionTvd": "100100067796062",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 162,
+      "oikTvd": "100100067796067",
+      "oikName": "Самарская область – Промышленный"
+    },
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 15457,
@@ -4412,6 +4812,14 @@ export const duma_2016_tic_464_region_63 = [
     "ballot": "single-member",
     "tikTvd": "26320001030103",
     "tikName": "Богатовская",
+    "regionCode": "63",
+    "regionTvd": "100100067796062",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 162,
+      "oikTvd": "100100067796067",
+      "oikName": "Самарская область – Промышленный"
+    },
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 12052,

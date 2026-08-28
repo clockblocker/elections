@@ -7,5005 +7,9175 @@ export const duma_2011_uik_to_tik_region_4 = [
   {
     "uikNumber": 1,
     "uikTvd": "4034001102444",
+    "uikName": "УИК №1",
     "tikTvd": "2032000253948",
-    "tikName": "Баргузинская"
+    "tikName": "Баргузинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 2,
     "uikTvd": "4034001102445",
+    "uikName": "УИК №2",
     "tikTvd": "2032000253948",
-    "tikName": "Баргузинская"
+    "tikName": "Баргузинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 3,
     "uikTvd": "4034001102446",
+    "uikName": "УИК №3",
     "tikTvd": "2032000253948",
-    "tikName": "Баргузинская"
+    "tikName": "Баргузинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 4,
     "uikTvd": "4034001102447",
+    "uikName": "УИК №4",
     "tikTvd": "2032000253948",
-    "tikName": "Баргузинская"
+    "tikName": "Баргузинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 5,
     "uikTvd": "4034001102448",
+    "uikName": "УИК №5",
     "tikTvd": "2032000253948",
-    "tikName": "Баргузинская"
+    "tikName": "Баргузинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 6,
     "uikTvd": "4034001102449",
+    "uikName": "УИК №6",
     "tikTvd": "2032000253948",
-    "tikName": "Баргузинская"
+    "tikName": "Баргузинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 7,
     "uikTvd": "4034001102442",
+    "uikName": "УИК №7",
     "tikTvd": "2032000253948",
-    "tikName": "Баргузинская"
+    "tikName": "Баргузинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 8,
     "uikTvd": "4034001102450",
+    "uikName": "УИК №8",
     "tikTvd": "2032000253948",
-    "tikName": "Баргузинская"
+    "tikName": "Баргузинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 9,
     "uikTvd": "4034001102451",
+    "uikName": "УИК №9",
     "tikTvd": "2032000253948",
-    "tikName": "Баргузинская"
+    "tikName": "Баргузинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 10,
     "uikTvd": "4034001102452",
+    "uikName": "УИК №10",
     "tikTvd": "2032000253948",
-    "tikName": "Баргузинская"
+    "tikName": "Баргузинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 11,
     "uikTvd": "4034001102453",
+    "uikName": "УИК №11",
     "tikTvd": "2032000253948",
-    "tikName": "Баргузинская"
+    "tikName": "Баргузинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 12,
     "uikTvd": "4034001102454",
+    "uikName": "УИК №12",
     "tikTvd": "2032000253948",
-    "tikName": "Баргузинская"
+    "tikName": "Баргузинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 13,
     "uikTvd": "4034001102455",
+    "uikName": "УИК №13",
     "tikTvd": "2032000253948",
-    "tikName": "Баргузинская"
+    "tikName": "Баргузинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 14,
     "uikTvd": "4034001102456",
+    "uikName": "УИК №14",
     "tikTvd": "2032000253948",
-    "tikName": "Баргузинская"
+    "tikName": "Баргузинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 15,
     "uikTvd": "4034001102457",
+    "uikName": "УИК №15",
     "tikTvd": "2032000253948",
-    "tikName": "Баргузинская"
+    "tikName": "Баргузинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 16,
     "uikTvd": "4034001102458",
+    "uikName": "УИК №16",
     "tikTvd": "2032000253948",
-    "tikName": "Баргузинская"
+    "tikName": "Баргузинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 17,
     "uikTvd": "4034001102459",
+    "uikName": "УИК №17",
     "tikTvd": "2032000253948",
-    "tikName": "Баргузинская"
+    "tikName": "Баргузинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 18,
     "uikTvd": "4034001102460",
+    "uikName": "УИК №18",
     "tikTvd": "2032000253948",
-    "tikName": "Баргузинская"
+    "tikName": "Баргузинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 19,
     "uikTvd": "4034001102461",
+    "uikName": "УИК №19",
     "tikTvd": "2032000253948",
-    "tikName": "Баргузинская"
+    "tikName": "Баргузинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 20,
     "uikTvd": "4034001102462",
+    "uikName": "УИК №20",
     "tikTvd": "2032000253948",
-    "tikName": "Баргузинская"
+    "tikName": "Баргузинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 21,
     "uikTvd": "4034001102463",
+    "uikName": "УИК №21",
     "tikTvd": "2032000253948",
-    "tikName": "Баргузинская"
+    "tikName": "Баргузинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 22,
     "uikTvd": "4034001102464",
+    "uikName": "УИК №22",
     "tikTvd": "2032000253948",
-    "tikName": "Баргузинская"
+    "tikName": "Баргузинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 23,
     "uikTvd": "4034001102465",
+    "uikName": "УИК №23",
     "tikTvd": "2032000253948",
-    "tikName": "Баргузинская"
+    "tikName": "Баргузинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 24,
     "uikTvd": "4034001102466",
+    "uikName": "УИК №24",
     "tikTvd": "2032000253948",
-    "tikName": "Баргузинская"
+    "tikName": "Баргузинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 25,
     "uikTvd": "4034001102467",
+    "uikName": "УИК №25",
     "tikTvd": "2032000253948",
-    "tikName": "Баргузинская"
+    "tikName": "Баргузинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 26,
     "uikTvd": "4034001102468",
+    "uikName": "УИК №26",
     "tikTvd": "2032000253948",
-    "tikName": "Баргузинская"
+    "tikName": "Баргузинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 27,
     "uikTvd": "4034001102469",
+    "uikName": "УИК №27",
     "tikTvd": "2032000253948",
-    "tikName": "Баргузинская"
+    "tikName": "Баргузинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 28,
     "uikTvd": "4034001102470",
+    "uikName": "УИК №28",
     "tikTvd": "2032000253948",
-    "tikName": "Баргузинская"
+    "tikName": "Баргузинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 29,
     "uikTvd": "4034001102471",
+    "uikName": "УИК №29",
     "tikTvd": "2032000253948",
-    "tikName": "Баргузинская"
+    "tikName": "Баргузинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 30,
     "uikTvd": "4034001102472",
+    "uikName": "УИК №30",
     "tikTvd": "2032000253948",
-    "tikName": "Баргузинская"
+    "tikName": "Баргузинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 31,
     "uikTvd": "4034001102473",
+    "uikName": "УИК №31",
     "tikTvd": "2032000253948",
-    "tikName": "Баргузинская"
+    "tikName": "Баргузинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 32,
     "uikTvd": "4034001102474",
+    "uikName": "УИК №32",
     "tikTvd": "2032000253948",
-    "tikName": "Баргузинская"
+    "tikName": "Баргузинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 33,
     "uikTvd": "4034001102475",
+    "uikName": "УИК №33",
     "tikTvd": "2032000253948",
-    "tikName": "Баргузинская"
+    "tikName": "Баргузинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 34,
     "uikTvd": "4034001102476",
+    "uikName": "УИК №34",
     "tikTvd": "2032000253948",
-    "tikName": "Баргузинская"
+    "tikName": "Баргузинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 35,
     "uikTvd": "4034001102477",
+    "uikName": "УИК №35",
     "tikTvd": "2032000253948",
-    "tikName": "Баргузинская"
+    "tikName": "Баргузинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 36,
     "uikTvd": "4034001102478",
+    "uikName": "УИК №36",
     "tikTvd": "2032000253948",
-    "tikName": "Баргузинская"
+    "tikName": "Баргузинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 37,
     "uikTvd": "4034002103846",
+    "uikName": "УИК №37",
     "tikTvd": "2032000253972",
-    "tikName": "Баунтовская"
+    "tikName": "Баунтовская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 38,
     "uikTvd": "4034002103847",
+    "uikName": "УИК №38",
     "tikTvd": "2032000253972",
-    "tikName": "Баунтовская"
+    "tikName": "Баунтовская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 39,
     "uikTvd": "4034002103848",
+    "uikName": "УИК №39",
     "tikTvd": "2032000253972",
-    "tikName": "Баунтовская"
+    "tikName": "Баунтовская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 40,
     "uikTvd": "4034002103849",
+    "uikName": "УИК №40",
     "tikTvd": "2032000253972",
-    "tikName": "Баунтовская"
+    "tikName": "Баунтовская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 41,
     "uikTvd": "4034002103850",
+    "uikName": "УИК №41",
     "tikTvd": "2032000253972",
-    "tikName": "Баунтовская"
+    "tikName": "Баунтовская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 42,
     "uikTvd": "4034002103851",
+    "uikName": "УИК №42",
     "tikTvd": "2032000253972",
-    "tikName": "Баунтовская"
+    "tikName": "Баунтовская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 43,
     "uikTvd": "4034002103852",
+    "uikName": "УИК №43",
     "tikTvd": "2032000253972",
-    "tikName": "Баунтовская"
+    "tikName": "Баунтовская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 44,
     "uikTvd": "4034002103853",
+    "uikName": "УИК №44",
     "tikTvd": "2032000253972",
-    "tikName": "Баунтовская"
+    "tikName": "Баунтовская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 45,
     "uikTvd": "4034002103854",
+    "uikName": "УИК №45",
     "tikTvd": "2032000253972",
-    "tikName": "Баунтовская"
+    "tikName": "Баунтовская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 46,
     "uikTvd": "4034002103855",
+    "uikName": "УИК №46",
     "tikTvd": "2032000253972",
-    "tikName": "Баунтовская"
+    "tikName": "Баунтовская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 47,
     "uikTvd": "4034002103856",
+    "uikName": "УИК №47",
     "tikTvd": "2032000253972",
-    "tikName": "Баунтовская"
+    "tikName": "Баунтовская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 48,
     "uikTvd": "4034002103857",
+    "uikName": "УИК №48",
     "tikTvd": "2032000253972",
-    "tikName": "Баунтовская"
+    "tikName": "Баунтовская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 49,
     "uikTvd": "4034003135445",
+    "uikName": "УИК №49",
     "tikTvd": "2032000253971",
-    "tikName": "Бичурская"
+    "tikName": "Бичурская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 50,
     "uikTvd": "4034003135446",
+    "uikName": "УИК №50",
     "tikTvd": "2032000253971",
-    "tikName": "Бичурская"
+    "tikName": "Бичурская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 51,
     "uikTvd": "4034003135447",
+    "uikName": "УИК №51",
     "tikTvd": "2032000253971",
-    "tikName": "Бичурская"
+    "tikName": "Бичурская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 52,
     "uikTvd": "4034003135448",
+    "uikName": "УИК №52",
     "tikTvd": "2032000253971",
-    "tikName": "Бичурская"
+    "tikName": "Бичурская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 53,
     "uikTvd": "4034003135449",
+    "uikName": "УИК №53",
     "tikTvd": "2032000253971",
-    "tikName": "Бичурская"
+    "tikName": "Бичурская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 54,
     "uikTvd": "4034003135450",
+    "uikName": "УИК №54",
     "tikTvd": "2032000253971",
-    "tikName": "Бичурская"
+    "tikName": "Бичурская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 55,
     "uikTvd": "4034003135451",
+    "uikName": "УИК №55",
     "tikTvd": "2032000253971",
-    "tikName": "Бичурская"
+    "tikName": "Бичурская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 56,
     "uikTvd": "4034003135452",
+    "uikName": "УИК №56",
     "tikTvd": "2032000253971",
-    "tikName": "Бичурская"
+    "tikName": "Бичурская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 57,
     "uikTvd": "4034003135453",
+    "uikName": "УИК №57",
     "tikTvd": "2032000253971",
-    "tikName": "Бичурская"
+    "tikName": "Бичурская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 58,
     "uikTvd": "4034003135454",
+    "uikName": "УИК №58",
     "tikTvd": "2032000253971",
-    "tikName": "Бичурская"
+    "tikName": "Бичурская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 59,
     "uikTvd": "4034003135455",
+    "uikName": "УИК №59",
     "tikTvd": "2032000253971",
-    "tikName": "Бичурская"
+    "tikName": "Бичурская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 60,
     "uikTvd": "4034003135456",
+    "uikName": "УИК №60",
     "tikTvd": "2032000253971",
-    "tikName": "Бичурская"
+    "tikName": "Бичурская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 61,
     "uikTvd": "4034003135457",
+    "uikName": "УИК №61",
     "tikTvd": "2032000253971",
-    "tikName": "Бичурская"
+    "tikName": "Бичурская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 62,
     "uikTvd": "4034003135458",
+    "uikName": "УИК №62",
     "tikTvd": "2032000253971",
-    "tikName": "Бичурская"
+    "tikName": "Бичурская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 63,
     "uikTvd": "4034003135459",
+    "uikName": "УИК №63",
     "tikTvd": "2032000253971",
-    "tikName": "Бичурская"
+    "tikName": "Бичурская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 64,
     "uikTvd": "4034003135460",
+    "uikName": "УИК №64",
     "tikTvd": "2032000253971",
-    "tikName": "Бичурская"
+    "tikName": "Бичурская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 65,
     "uikTvd": "4034003135461",
+    "uikName": "УИК №65",
     "tikTvd": "2032000253971",
-    "tikName": "Бичурская"
+    "tikName": "Бичурская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 66,
     "uikTvd": "4034003135462",
+    "uikName": "УИК №66",
     "tikTvd": "2032000253971",
-    "tikName": "Бичурская"
+    "tikName": "Бичурская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 67,
     "uikTvd": "4034003135463",
+    "uikName": "УИК №67",
     "tikTvd": "2032000253971",
-    "tikName": "Бичурская"
+    "tikName": "Бичурская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 68,
     "uikTvd": "4034003135464",
+    "uikName": "УИК №68",
     "tikTvd": "2032000253971",
-    "tikName": "Бичурская"
+    "tikName": "Бичурская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 69,
     "uikTvd": "4034003135465",
+    "uikName": "УИК №69",
     "tikTvd": "2032000253971",
-    "tikName": "Бичурская"
+    "tikName": "Бичурская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 70,
     "uikTvd": "4034003135466",
+    "uikName": "УИК №70",
     "tikTvd": "2032000253971",
-    "tikName": "Бичурская"
+    "tikName": "Бичурская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 71,
     "uikTvd": "4034003135467",
+    "uikName": "УИК №71",
     "tikTvd": "2032000253971",
-    "tikName": "Бичурская"
+    "tikName": "Бичурская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 72,
     "uikTvd": "4034003135468",
+    "uikName": "УИК №72",
     "tikTvd": "2032000253971",
-    "tikName": "Бичурская"
+    "tikName": "Бичурская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 73,
     "uikTvd": "4034003135469",
+    "uikName": "УИК №73",
     "tikTvd": "2032000253971",
-    "tikName": "Бичурская"
+    "tikName": "Бичурская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 74,
     "uikTvd": "4034003135470",
+    "uikName": "УИК №74",
     "tikTvd": "2032000253971",
-    "tikName": "Бичурская"
+    "tikName": "Бичурская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 75,
     "uikTvd": "4034003135471",
+    "uikName": "УИК №75",
     "tikTvd": "2032000253971",
-    "tikName": "Бичурская"
+    "tikName": "Бичурская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 76,
     "uikTvd": "4034003135472",
+    "uikName": "УИК №76",
     "tikTvd": "2032000253971",
-    "tikName": "Бичурская"
+    "tikName": "Бичурская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 77,
     "uikTvd": "4034003135473",
+    "uikName": "УИК №77",
     "tikTvd": "2032000253971",
-    "tikName": "Бичурская"
+    "tikName": "Бичурская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 78,
     "uikTvd": "4034003135474",
+    "uikName": "УИК №78",
     "tikTvd": "2032000253971",
-    "tikName": "Бичурская"
+    "tikName": "Бичурская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 79,
     "uikTvd": "4034003135475",
+    "uikName": "УИК №79",
     "tikTvd": "2032000253971",
-    "tikName": "Бичурская"
+    "tikName": "Бичурская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 80,
     "uikTvd": "4034003135476",
+    "uikName": "УИК №80",
     "tikTvd": "2032000253971",
-    "tikName": "Бичурская"
+    "tikName": "Бичурская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 81,
     "uikTvd": "4034003135477",
+    "uikName": "УИК №81",
     "tikTvd": "2032000253971",
-    "tikName": "Бичурская"
+    "tikName": "Бичурская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 82,
     "uikTvd": "4034003135478",
+    "uikName": "УИК №82",
     "tikTvd": "2032000253971",
-    "tikName": "Бичурская"
+    "tikName": "Бичурская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 83,
     "uikTvd": "4034003135479",
+    "uikName": "УИК №83",
     "tikTvd": "2032000253971",
-    "tikName": "Бичурская"
+    "tikName": "Бичурская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 84,
     "uikTvd": "4034003135480",
+    "uikName": "УИК №84",
     "tikTvd": "2032000253971",
-    "tikName": "Бичурская"
+    "tikName": "Бичурская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 85,
     "uikTvd": "4034003135481",
+    "uikName": "УИК №85",
     "tikTvd": "2032000253971",
-    "tikName": "Бичурская"
+    "tikName": "Бичурская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 86,
     "uikTvd": "4034003135482",
+    "uikName": "УИК №86",
     "tikTvd": "2032000253971",
-    "tikName": "Бичурская"
+    "tikName": "Бичурская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 87,
     "uikTvd": "4034004123756",
+    "uikName": "УИК №87",
     "tikTvd": "2032000253970",
-    "tikName": "Джидинская"
+    "tikName": "Джидинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 88,
     "uikTvd": "4034004123757",
+    "uikName": "УИК №88",
     "tikTvd": "2032000253970",
-    "tikName": "Джидинская"
+    "tikName": "Джидинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 89,
     "uikTvd": "4034004123758",
+    "uikName": "УИК №89",
     "tikTvd": "2032000253970",
-    "tikName": "Джидинская"
+    "tikName": "Джидинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 90,
     "uikTvd": "4034004123759",
+    "uikName": "УИК №90",
     "tikTvd": "2032000253970",
-    "tikName": "Джидинская"
+    "tikName": "Джидинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 91,
     "uikTvd": "4034004123760",
+    "uikName": "УИК №91",
     "tikTvd": "2032000253970",
-    "tikName": "Джидинская"
+    "tikName": "Джидинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 92,
     "uikTvd": "4034004123761",
+    "uikName": "УИК №92",
     "tikTvd": "2032000253970",
-    "tikName": "Джидинская"
+    "tikName": "Джидинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 93,
     "uikTvd": "4034004123762",
+    "uikName": "УИК №93",
     "tikTvd": "2032000253970",
-    "tikName": "Джидинская"
+    "tikName": "Джидинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 94,
     "uikTvd": "4034004123763",
+    "uikName": "УИК №94",
     "tikTvd": "2032000253970",
-    "tikName": "Джидинская"
+    "tikName": "Джидинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 95,
     "uikTvd": "4034004123764",
+    "uikName": "УИК №95",
     "tikTvd": "2032000253970",
-    "tikName": "Джидинская"
+    "tikName": "Джидинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 96,
     "uikTvd": "4034004123765",
+    "uikName": "УИК №96",
     "tikTvd": "2032000253970",
-    "tikName": "Джидинская"
+    "tikName": "Джидинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 97,
     "uikTvd": "4034004123766",
+    "uikName": "УИК №97",
     "tikTvd": "2032000253970",
-    "tikName": "Джидинская"
+    "tikName": "Джидинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 98,
     "uikTvd": "4034004123767",
+    "uikName": "УИК №98",
     "tikTvd": "2032000253970",
-    "tikName": "Джидинская"
+    "tikName": "Джидинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 99,
     "uikTvd": "4034004123768",
+    "uikName": "УИК №99",
     "tikTvd": "2032000253970",
-    "tikName": "Джидинская"
+    "tikName": "Джидинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 100,
     "uikTvd": "4034004123769",
+    "uikName": "УИК №100",
     "tikTvd": "2032000253970",
-    "tikName": "Джидинская"
+    "tikName": "Джидинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 101,
     "uikTvd": "4034004123770",
+    "uikName": "УИК №101",
     "tikTvd": "2032000253970",
-    "tikName": "Джидинская"
+    "tikName": "Джидинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 102,
     "uikTvd": "4034004123771",
+    "uikName": "УИК №102",
     "tikTvd": "2032000253970",
-    "tikName": "Джидинская"
+    "tikName": "Джидинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 103,
     "uikTvd": "4034004123772",
+    "uikName": "УИК №103",
     "tikTvd": "2032000253970",
-    "tikName": "Джидинская"
+    "tikName": "Джидинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 104,
     "uikTvd": "4034004123773",
+    "uikName": "УИК №104",
     "tikTvd": "2032000253970",
-    "tikName": "Джидинская"
+    "tikName": "Джидинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 105,
     "uikTvd": "4034004123774",
+    "uikName": "УИК №105",
     "tikTvd": "2032000253970",
-    "tikName": "Джидинская"
+    "tikName": "Джидинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 106,
     "uikTvd": "4034004123775",
+    "uikName": "УИК №106",
     "tikTvd": "2032000253970",
-    "tikName": "Джидинская"
+    "tikName": "Джидинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 107,
     "uikTvd": "4034004123776",
+    "uikName": "УИК №107",
     "tikTvd": "2032000253970",
-    "tikName": "Джидинская"
+    "tikName": "Джидинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 108,
     "uikTvd": "4034004123777",
+    "uikName": "УИК №108",
     "tikTvd": "2032000253970",
-    "tikName": "Джидинская"
+    "tikName": "Джидинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 109,
     "uikTvd": "4034004123778",
+    "uikName": "УИК №109",
     "tikTvd": "2032000253970",
-    "tikName": "Джидинская"
+    "tikName": "Джидинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 110,
     "uikTvd": "4034004123779",
+    "uikName": "УИК №110",
     "tikTvd": "2032000253970",
-    "tikName": "Джидинская"
+    "tikName": "Джидинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 111,
     "uikTvd": "4034004123780",
+    "uikName": "УИК №111",
     "tikTvd": "2032000253970",
-    "tikName": "Джидинская"
+    "tikName": "Джидинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 112,
     "uikTvd": "4034004123781",
+    "uikName": "УИК №112",
     "tikTvd": "2032000253970",
-    "tikName": "Джидинская"
+    "tikName": "Джидинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 113,
     "uikTvd": "4034004123782",
+    "uikName": "УИК №113",
     "tikTvd": "2032000253970",
-    "tikName": "Джидинская"
+    "tikName": "Джидинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 114,
     "uikTvd": "4034004123783",
+    "uikName": "УИК №114",
     "tikTvd": "2032000253970",
-    "tikName": "Джидинская"
+    "tikName": "Джидинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 115,
     "uikTvd": "4034004123784",
+    "uikName": "УИК №115",
     "tikTvd": "2032000253970",
-    "tikName": "Джидинская"
+    "tikName": "Джидинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 116,
     "uikTvd": "4034004123785",
+    "uikName": "УИК №116",
     "tikTvd": "2032000253970",
-    "tikName": "Джидинская"
+    "tikName": "Джидинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 117,
     "uikTvd": "4034004123786",
+    "uikName": "УИК №117",
     "tikTvd": "2032000253970",
-    "tikName": "Джидинская"
+    "tikName": "Джидинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 118,
     "uikTvd": "4034004123787",
+    "uikName": "УИК №118",
     "tikTvd": "2032000253970",
-    "tikName": "Джидинская"
+    "tikName": "Джидинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 119,
     "uikTvd": "4034004123788",
+    "uikName": "УИК №119",
     "tikTvd": "2032000253970",
-    "tikName": "Джидинская"
+    "tikName": "Джидинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 120,
     "uikTvd": "4034004123789",
+    "uikName": "УИК №120",
     "tikTvd": "2032000253970",
-    "tikName": "Джидинская"
+    "tikName": "Джидинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 121,
     "uikTvd": "4034004123790",
+    "uikName": "УИК №121",
     "tikTvd": "2032000253970",
-    "tikName": "Джидинская"
+    "tikName": "Джидинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 122,
     "uikTvd": "4034005109037",
+    "uikName": "УИК №122",
     "tikTvd": "2032000253969",
-    "tikName": "Еравнинская"
+    "tikName": "Еравнинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 123,
     "uikTvd": "4034005109038",
+    "uikName": "УИК №123",
     "tikTvd": "2032000253969",
-    "tikName": "Еравнинская"
+    "tikName": "Еравнинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 124,
     "uikTvd": "4034005109039",
+    "uikName": "УИК №124",
     "tikTvd": "2032000253969",
-    "tikName": "Еравнинская"
+    "tikName": "Еравнинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 125,
     "uikTvd": "4034005109040",
+    "uikName": "УИК №125",
     "tikTvd": "2032000253969",
-    "tikName": "Еравнинская"
+    "tikName": "Еравнинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 126,
     "uikTvd": "4034005109041",
+    "uikName": "УИК №126",
     "tikTvd": "2032000253969",
-    "tikName": "Еравнинская"
+    "tikName": "Еравнинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 127,
     "uikTvd": "4034005109042",
+    "uikName": "УИК №127",
     "tikTvd": "2032000253969",
-    "tikName": "Еравнинская"
+    "tikName": "Еравнинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 128,
     "uikTvd": "4034005109043",
+    "uikName": "УИК №128",
     "tikTvd": "2032000253969",
-    "tikName": "Еравнинская"
+    "tikName": "Еравнинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 129,
     "uikTvd": "4034005109044",
+    "uikName": "УИК №129",
     "tikTvd": "2032000253969",
-    "tikName": "Еравнинская"
+    "tikName": "Еравнинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 130,
     "uikTvd": "4034005109045",
+    "uikName": "УИК №130",
     "tikTvd": "2032000253969",
-    "tikName": "Еравнинская"
+    "tikName": "Еравнинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 131,
     "uikTvd": "4034005109046",
+    "uikName": "УИК №131",
     "tikTvd": "2032000253969",
-    "tikName": "Еравнинская"
+    "tikName": "Еравнинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 132,
     "uikTvd": "4034005109047",
+    "uikName": "УИК №132",
     "tikTvd": "2032000253969",
-    "tikName": "Еравнинская"
+    "tikName": "Еравнинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 133,
     "uikTvd": "4034005109048",
+    "uikName": "УИК №133",
     "tikTvd": "2032000253969",
-    "tikName": "Еравнинская"
+    "tikName": "Еравнинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 134,
     "uikTvd": "4034005109049",
+    "uikName": "УИК №134",
     "tikTvd": "2032000253969",
-    "tikName": "Еравнинская"
+    "tikName": "Еравнинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 135,
     "uikTvd": "4034005109050",
+    "uikName": "УИК №135",
     "tikTvd": "2032000253969",
-    "tikName": "Еравнинская"
+    "tikName": "Еравнинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 136,
     "uikTvd": "4034005109051",
+    "uikName": "УИК №136",
     "tikTvd": "2032000253969",
-    "tikName": "Еравнинская"
+    "tikName": "Еравнинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 137,
     "uikTvd": "4034005109052",
+    "uikName": "УИК №137",
     "tikTvd": "2032000253969",
-    "tikName": "Еравнинская"
+    "tikName": "Еравнинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 138,
     "uikTvd": "4034005109053",
+    "uikName": "УИК №138",
     "tikTvd": "2032000253969",
-    "tikName": "Еравнинская"
+    "tikName": "Еравнинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 139,
     "uikTvd": "4034005109054",
+    "uikName": "УИК №139",
     "tikTvd": "2032000253969",
-    "tikName": "Еравнинская"
+    "tikName": "Еравнинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 140,
     "uikTvd": "4034005109055",
+    "uikName": "УИК №140",
     "tikTvd": "2032000253969",
-    "tikName": "Еравнинская"
+    "tikName": "Еравнинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 141,
     "uikTvd": "4034005109056",
+    "uikName": "УИК №141",
     "tikTvd": "2032000253969",
-    "tikName": "Еравнинская"
+    "tikName": "Еравнинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 142,
     "uikTvd": "4034005109057",
+    "uikName": "УИК №142",
     "tikTvd": "2032000253969",
-    "tikName": "Еравнинская"
+    "tikName": "Еравнинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 143,
     "uikTvd": "4034005109058",
+    "uikName": "УИК №143",
     "tikTvd": "2032000253969",
-    "tikName": "Еравнинская"
+    "tikName": "Еравнинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 144,
     "uikTvd": "4034005109059",
+    "uikName": "УИК №144",
     "tikTvd": "2032000253969",
-    "tikName": "Еравнинская"
+    "tikName": "Еравнинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 145,
     "uikTvd": "4034005109060",
+    "uikName": "УИК №145",
     "tikTvd": "2032000253969",
-    "tikName": "Еравнинская"
+    "tikName": "Еравнинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 146,
     "uikTvd": "4034005109061",
+    "uikName": "УИК №146",
     "tikTvd": "2032000253969",
-    "tikName": "Еравнинская"
+    "tikName": "Еравнинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 147,
     "uikTvd": "4034005109062",
+    "uikName": "УИК №147",
     "tikTvd": "2032000253969",
-    "tikName": "Еравнинская"
+    "tikName": "Еравнинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 148,
     "uikTvd": "4034006137003",
+    "uikName": "УИК №148",
     "tikTvd": "2032000253968",
-    "tikName": "Заиграевская"
+    "tikName": "Заиграевская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 149,
     "uikTvd": "4034006137004",
+    "uikName": "УИК №149",
     "tikTvd": "2032000253968",
-    "tikName": "Заиграевская"
+    "tikName": "Заиграевская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 150,
     "uikTvd": "4034006137005",
+    "uikName": "УИК №150",
     "tikTvd": "2032000253968",
-    "tikName": "Заиграевская"
+    "tikName": "Заиграевская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 151,
     "uikTvd": "4034006137006",
+    "uikName": "УИК №151",
     "tikTvd": "2032000253968",
-    "tikName": "Заиграевская"
+    "tikName": "Заиграевская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 152,
     "uikTvd": "4034006137007",
+    "uikName": "УИК №152",
     "tikTvd": "2032000253968",
-    "tikName": "Заиграевская"
+    "tikName": "Заиграевская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 153,
     "uikTvd": "4034006137008",
+    "uikName": "УИК №153",
     "tikTvd": "2032000253968",
-    "tikName": "Заиграевская"
+    "tikName": "Заиграевская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 154,
     "uikTvd": "4034006137009",
+    "uikName": "УИК №154",
     "tikTvd": "2032000253968",
-    "tikName": "Заиграевская"
+    "tikName": "Заиграевская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 155,
     "uikTvd": "4034006137010",
+    "uikName": "УИК №155",
     "tikTvd": "2032000253968",
-    "tikName": "Заиграевская"
+    "tikName": "Заиграевская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 156,
     "uikTvd": "4034006137011",
+    "uikName": "УИК №156",
     "tikTvd": "2032000253968",
-    "tikName": "Заиграевская"
+    "tikName": "Заиграевская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 157,
     "uikTvd": "4034006137012",
+    "uikName": "УИК №157",
     "tikTvd": "2032000253968",
-    "tikName": "Заиграевская"
+    "tikName": "Заиграевская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 158,
     "uikTvd": "4034006137013",
+    "uikName": "УИК №158",
     "tikTvd": "2032000253968",
-    "tikName": "Заиграевская"
+    "tikName": "Заиграевская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 159,
     "uikTvd": "4034006137014",
+    "uikName": "УИК №159",
     "tikTvd": "2032000253968",
-    "tikName": "Заиграевская"
+    "tikName": "Заиграевская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 160,
     "uikTvd": "4034006137015",
+    "uikName": "УИК №160",
     "tikTvd": "2032000253968",
-    "tikName": "Заиграевская"
+    "tikName": "Заиграевская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 161,
     "uikTvd": "4034006137016",
+    "uikName": "УИК №161",
     "tikTvd": "2032000253968",
-    "tikName": "Заиграевская"
+    "tikName": "Заиграевская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 162,
     "uikTvd": "4034006137017",
+    "uikName": "УИК №162",
     "tikTvd": "2032000253968",
-    "tikName": "Заиграевская"
+    "tikName": "Заиграевская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 163,
     "uikTvd": "4034006137018",
+    "uikName": "УИК №163",
     "tikTvd": "2032000253968",
-    "tikName": "Заиграевская"
+    "tikName": "Заиграевская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 164,
     "uikTvd": "4034006137019",
+    "uikName": "УИК №164",
     "tikTvd": "2032000253968",
-    "tikName": "Заиграевская"
+    "tikName": "Заиграевская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 165,
     "uikTvd": "4034006137020",
+    "uikName": "УИК №165",
     "tikTvd": "2032000253968",
-    "tikName": "Заиграевская"
+    "tikName": "Заиграевская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 166,
     "uikTvd": "4034006137021",
+    "uikName": "УИК №166",
     "tikTvd": "2032000253968",
-    "tikName": "Заиграевская"
+    "tikName": "Заиграевская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 167,
     "uikTvd": "4034006137022",
+    "uikName": "УИК №167",
     "tikTvd": "2032000253968",
-    "tikName": "Заиграевская"
+    "tikName": "Заиграевская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 168,
     "uikTvd": "4034006137023",
+    "uikName": "УИК №168",
     "tikTvd": "2032000253968",
-    "tikName": "Заиграевская"
+    "tikName": "Заиграевская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 169,
     "uikTvd": "4034006137024",
+    "uikName": "УИК №169",
     "tikTvd": "2032000253968",
-    "tikName": "Заиграевская"
+    "tikName": "Заиграевская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 170,
     "uikTvd": "4034006137025",
+    "uikName": "УИК №170",
     "tikTvd": "2032000253968",
-    "tikName": "Заиграевская"
+    "tikName": "Заиграевская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 171,
     "uikTvd": "4034006137026",
+    "uikName": "УИК №171",
     "tikTvd": "2032000253968",
-    "tikName": "Заиграевская"
+    "tikName": "Заиграевская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 172,
     "uikTvd": "4034006137027",
+    "uikName": "УИК №172",
     "tikTvd": "2032000253968",
-    "tikName": "Заиграевская"
+    "tikName": "Заиграевская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 173,
     "uikTvd": "4034006137028",
+    "uikName": "УИК №173",
     "tikTvd": "2032000253968",
-    "tikName": "Заиграевская"
+    "tikName": "Заиграевская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 174,
     "uikTvd": "4034006137029",
+    "uikName": "УИК №174",
     "tikTvd": "2032000253968",
-    "tikName": "Заиграевская"
+    "tikName": "Заиграевская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 175,
     "uikTvd": "4034006137030",
+    "uikName": "УИК №175",
     "tikTvd": "2032000253968",
-    "tikName": "Заиграевская"
+    "tikName": "Заиграевская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 176,
     "uikTvd": "4034006137031",
+    "uikName": "УИК №176",
     "tikTvd": "2032000253968",
-    "tikName": "Заиграевская"
+    "tikName": "Заиграевская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 177,
     "uikTvd": "4034006137032",
+    "uikName": "УИК №177",
     "tikTvd": "2032000253968",
-    "tikName": "Заиграевская"
+    "tikName": "Заиграевская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 178,
     "uikTvd": "4034006137033",
+    "uikName": "УИК №178",
     "tikTvd": "2032000253968",
-    "tikName": "Заиграевская"
+    "tikName": "Заиграевская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 179,
     "uikTvd": "4034006137034",
+    "uikName": "УИК №179",
     "tikTvd": "2032000253968",
-    "tikName": "Заиграевская"
+    "tikName": "Заиграевская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 180,
     "uikTvd": "4034006137035",
+    "uikName": "УИК №180",
     "tikTvd": "2032000253968",
-    "tikName": "Заиграевская"
+    "tikName": "Заиграевская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 181,
     "uikTvd": "4034006137036",
+    "uikName": "УИК №181",
     "tikTvd": "2032000253968",
-    "tikName": "Заиграевская"
+    "tikName": "Заиграевская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 182,
     "uikTvd": "4034006137037",
+    "uikName": "УИК №182",
     "tikTvd": "2032000253968",
-    "tikName": "Заиграевская"
+    "tikName": "Заиграевская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 183,
     "uikTvd": "4034006137038",
+    "uikName": "УИК №183",
     "tikTvd": "2032000253968",
-    "tikName": "Заиграевская"
+    "tikName": "Заиграевская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 184,
     "uikTvd": "4034006137039",
+    "uikName": "УИК №184",
     "tikTvd": "2032000253968",
-    "tikName": "Заиграевская"
+    "tikName": "Заиграевская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 185,
     "uikTvd": "4034006137040",
+    "uikName": "УИК №185",
     "tikTvd": "2032000253968",
-    "tikName": "Заиграевская"
+    "tikName": "Заиграевская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 186,
     "uikTvd": "4034006137041",
+    "uikName": "УИК №186",
     "tikTvd": "2032000253968",
-    "tikName": "Заиграевская"
+    "tikName": "Заиграевская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 187,
     "uikTvd": "4034006137042",
+    "uikName": "УИК №187",
     "tikTvd": "2032000253968",
-    "tikName": "Заиграевская"
+    "tikName": "Заиграевская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 188,
     "uikTvd": "4034006137043",
+    "uikName": "УИК №188",
     "tikTvd": "2032000253968",
-    "tikName": "Заиграевская"
+    "tikName": "Заиграевская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 189,
     "uikTvd": "4034006137044",
+    "uikName": "УИК №189",
     "tikTvd": "2032000253968",
-    "tikName": "Заиграевская"
+    "tikName": "Заиграевская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 190,
     "uikTvd": "4034006137045",
+    "uikName": "УИК №190",
     "tikTvd": "2032000253968",
-    "tikName": "Заиграевская"
+    "tikName": "Заиграевская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 191,
     "uikTvd": "4034006137046",
+    "uikName": "УИК №191",
     "tikTvd": "2032000253968",
-    "tikName": "Заиграевская"
+    "tikName": "Заиграевская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 192,
     "uikTvd": "4034007113919",
+    "uikName": "УИК №192",
     "tikTvd": "2032000253967",
-    "tikName": "Закаменская"
+    "tikName": "Закаменская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 193,
     "uikTvd": "4034007113920",
+    "uikName": "УИК №193",
     "tikTvd": "2032000253967",
-    "tikName": "Закаменская"
+    "tikName": "Закаменская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 194,
     "uikTvd": "4034007113921",
+    "uikName": "УИК №194",
     "tikTvd": "2032000253967",
-    "tikName": "Закаменская"
+    "tikName": "Закаменская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 195,
     "uikTvd": "4034007113922",
+    "uikName": "УИК №195",
     "tikTvd": "2032000253967",
-    "tikName": "Закаменская"
+    "tikName": "Закаменская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 196,
     "uikTvd": "4034007113923",
+    "uikName": "УИК №196",
     "tikTvd": "2032000253967",
-    "tikName": "Закаменская"
+    "tikName": "Закаменская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 197,
     "uikTvd": "4034007113924",
+    "uikName": "УИК №197",
     "tikTvd": "2032000253967",
-    "tikName": "Закаменская"
+    "tikName": "Закаменская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 198,
     "uikTvd": "4034007113925",
+    "uikName": "УИК №198",
     "tikTvd": "2032000253967",
-    "tikName": "Закаменская"
+    "tikName": "Закаменская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 199,
     "uikTvd": "4034007113926",
+    "uikName": "УИК №199",
     "tikTvd": "2032000253967",
-    "tikName": "Закаменская"
+    "tikName": "Закаменская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 200,
     "uikTvd": "4034007113927",
+    "uikName": "УИК №200",
     "tikTvd": "2032000253967",
-    "tikName": "Закаменская"
+    "tikName": "Закаменская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 201,
     "uikTvd": "4034007113928",
+    "uikName": "УИК №201",
     "tikTvd": "2032000253967",
-    "tikName": "Закаменская"
+    "tikName": "Закаменская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 202,
     "uikTvd": "4034007113929",
+    "uikName": "УИК №202",
     "tikTvd": "2032000253967",
-    "tikName": "Закаменская"
+    "tikName": "Закаменская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 203,
     "uikTvd": "4034007113930",
+    "uikName": "УИК №203",
     "tikTvd": "2032000253967",
-    "tikName": "Закаменская"
+    "tikName": "Закаменская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 204,
     "uikTvd": "4034007113931",
+    "uikName": "УИК №204",
     "tikTvd": "2032000253967",
-    "tikName": "Закаменская"
+    "tikName": "Закаменская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 205,
     "uikTvd": "4034007113932",
+    "uikName": "УИК №205",
     "tikTvd": "2032000253967",
-    "tikName": "Закаменская"
+    "tikName": "Закаменская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 206,
     "uikTvd": "4034007113933",
+    "uikName": "УИК №206",
     "tikTvd": "2032000253967",
-    "tikName": "Закаменская"
+    "tikName": "Закаменская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 207,
     "uikTvd": "4034007113934",
+    "uikName": "УИК №207",
     "tikTvd": "2032000253967",
-    "tikName": "Закаменская"
+    "tikName": "Закаменская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 208,
     "uikTvd": "4034007113935",
+    "uikName": "УИК №208",
     "tikTvd": "2032000253967",
-    "tikName": "Закаменская"
+    "tikName": "Закаменская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 209,
     "uikTvd": "4034007113936",
+    "uikName": "УИК №209",
     "tikTvd": "2032000253967",
-    "tikName": "Закаменская"
+    "tikName": "Закаменская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 210,
     "uikTvd": "4034007113937",
+    "uikName": "УИК №210",
     "tikTvd": "2032000253967",
-    "tikName": "Закаменская"
+    "tikName": "Закаменская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 211,
     "uikTvd": "4034007113938",
+    "uikName": "УИК №211",
     "tikTvd": "2032000253967",
-    "tikName": "Закаменская"
+    "tikName": "Закаменская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 212,
     "uikTvd": "4034007113939",
+    "uikName": "УИК №212",
     "tikTvd": "2032000253967",
-    "tikName": "Закаменская"
+    "tikName": "Закаменская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 213,
     "uikTvd": "4034007113940",
+    "uikName": "УИК №213",
     "tikTvd": "2032000253967",
-    "tikName": "Закаменская"
+    "tikName": "Закаменская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 214,
     "uikTvd": "4034007113941",
+    "uikName": "УИК №214",
     "tikTvd": "2032000253967",
-    "tikName": "Закаменская"
+    "tikName": "Закаменская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 215,
     "uikTvd": "4034007113942",
+    "uikName": "УИК №215",
     "tikTvd": "2032000253967",
-    "tikName": "Закаменская"
+    "tikName": "Закаменская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 216,
     "uikTvd": "4034007113943",
+    "uikName": "УИК №216",
     "tikTvd": "2032000253967",
-    "tikName": "Закаменская"
+    "tikName": "Закаменская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 217,
     "uikTvd": "4034007113944",
+    "uikName": "УИК №217",
     "tikTvd": "2032000253967",
-    "tikName": "Закаменская"
+    "tikName": "Закаменская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 218,
     "uikTvd": "4034007113945",
+    "uikName": "УИК №218",
     "tikTvd": "2032000253967",
-    "tikName": "Закаменская"
+    "tikName": "Закаменская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 219,
     "uikTvd": "4034007113946",
+    "uikName": "УИК №219",
     "tikTvd": "2032000253967",
-    "tikName": "Закаменская"
+    "tikName": "Закаменская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 220,
     "uikTvd": "4034007113947",
+    "uikName": "УИК №220",
     "tikTvd": "2032000253967",
-    "tikName": "Закаменская"
+    "tikName": "Закаменская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 221,
     "uikTvd": "4034007113948",
+    "uikName": "УИК №221",
     "tikTvd": "2032000253967",
-    "tikName": "Закаменская"
+    "tikName": "Закаменская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 222,
     "uikTvd": "4034007113949",
+    "uikName": "УИК №222",
     "tikTvd": "2032000253967",
-    "tikName": "Закаменская"
+    "tikName": "Закаменская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 223,
     "uikTvd": "4034007113950",
+    "uikName": "УИК №223",
     "tikTvd": "2032000253967",
-    "tikName": "Закаменская"
+    "tikName": "Закаменская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 224,
     "uikTvd": "4034008110570",
+    "uikName": "УИК №224",
     "tikTvd": "2032000253966",
-    "tikName": "Иволгинская"
+    "tikName": "Иволгинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 225,
     "uikTvd": "4034008110571",
+    "uikName": "УИК №225",
     "tikTvd": "2032000253966",
-    "tikName": "Иволгинская"
+    "tikName": "Иволгинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 226,
     "uikTvd": "4034008110572",
+    "uikName": "УИК №226",
     "tikTvd": "2032000253966",
-    "tikName": "Иволгинская"
+    "tikName": "Иволгинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 227,
     "uikTvd": "4034008110573",
+    "uikName": "УИК №227",
     "tikTvd": "2032000253966",
-    "tikName": "Иволгинская"
+    "tikName": "Иволгинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 228,
     "uikTvd": "4034008110574",
+    "uikName": "УИК №228",
     "tikTvd": "2032000253966",
-    "tikName": "Иволгинская"
+    "tikName": "Иволгинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 229,
     "uikTvd": "4034008110575",
+    "uikName": "УИК №229",
     "tikTvd": "2032000253966",
-    "tikName": "Иволгинская"
+    "tikName": "Иволгинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 230,
     "uikTvd": "4034008110576",
+    "uikName": "УИК №230",
     "tikTvd": "2032000253966",
-    "tikName": "Иволгинская"
+    "tikName": "Иволгинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 231,
     "uikTvd": "4034008110577",
+    "uikName": "УИК №231",
     "tikTvd": "2032000253966",
-    "tikName": "Иволгинская"
+    "tikName": "Иволгинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 232,
     "uikTvd": "4034008110578",
+    "uikName": "УИК №232",
     "tikTvd": "2032000253966",
-    "tikName": "Иволгинская"
+    "tikName": "Иволгинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 233,
     "uikTvd": "4034008110579",
+    "uikName": "УИК №233",
     "tikTvd": "2032000253966",
-    "tikName": "Иволгинская"
+    "tikName": "Иволгинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 234,
     "uikTvd": "4034008110580",
+    "uikName": "УИК №234",
     "tikTvd": "2032000253966",
-    "tikName": "Иволгинская"
+    "tikName": "Иволгинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 235,
     "uikTvd": "4034008110581",
+    "uikName": "УИК №235",
     "tikTvd": "2032000253966",
-    "tikName": "Иволгинская"
+    "tikName": "Иволгинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 236,
     "uikTvd": "4034008110582",
+    "uikName": "УИК №236",
     "tikTvd": "2032000253966",
-    "tikName": "Иволгинская"
+    "tikName": "Иволгинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 237,
     "uikTvd": "4034008110583",
+    "uikName": "УИК №237",
     "tikTvd": "2032000253966",
-    "tikName": "Иволгинская"
+    "tikName": "Иволгинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 238,
     "uikTvd": "4034008110584",
+    "uikName": "УИК №238",
     "tikTvd": "2032000253966",
-    "tikName": "Иволгинская"
+    "tikName": "Иволгинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 239,
     "uikTvd": "4034008110585",
+    "uikName": "УИК №239",
     "tikTvd": "2032000253966",
-    "tikName": "Иволгинская"
+    "tikName": "Иволгинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 240,
     "uikTvd": "4034008110586",
+    "uikName": "УИК №240",
     "tikTvd": "2032000253966",
-    "tikName": "Иволгинская"
+    "tikName": "Иволгинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 241,
     "uikTvd": "4034008110587",
+    "uikName": "УИК №241",
     "tikTvd": "2032000253966",
-    "tikName": "Иволгинская"
+    "tikName": "Иволгинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 242,
     "uikTvd": "4034008110588",
+    "uikName": "УИК №242",
     "tikTvd": "2032000253966",
-    "tikName": "Иволгинская"
+    "tikName": "Иволгинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 243,
     "uikTvd": "4034008110589",
+    "uikName": "УИК №243",
     "tikTvd": "2032000253966",
-    "tikName": "Иволгинская"
+    "tikName": "Иволгинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 244,
     "uikTvd": "4034008110590",
+    "uikName": "УИК №244",
     "tikTvd": "2032000253966",
-    "tikName": "Иволгинская"
+    "tikName": "Иволгинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 245,
     "uikTvd": "4034008110591",
+    "uikName": "УИК №245",
     "tikTvd": "2032000253966",
-    "tikName": "Иволгинская"
+    "tikName": "Иволгинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 246,
     "uikTvd": "4034008110592",
+    "uikName": "УИК №246",
     "tikTvd": "2032000253966",
-    "tikName": "Иволгинская"
+    "tikName": "Иволгинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 247,
     "uikTvd": "4034008110593",
+    "uikName": "УИК №247",
     "tikTvd": "2032000253966",
-    "tikName": "Иволгинская"
+    "tikName": "Иволгинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 248,
     "uikTvd": "4034009125054",
+    "uikName": "УИК №248",
     "tikTvd": "2032000253965",
-    "tikName": "Кабанская"
+    "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 249,
     "uikTvd": "4034009125055",
+    "uikName": "УИК №249",
     "tikTvd": "2032000253965",
-    "tikName": "Кабанская"
+    "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 250,
     "uikTvd": "4034009125056",
+    "uikName": "УИК №250",
     "tikTvd": "2032000253965",
-    "tikName": "Кабанская"
+    "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 251,
     "uikTvd": "4034009125057",
+    "uikName": "УИК №251",
     "tikTvd": "2032000253965",
-    "tikName": "Кабанская"
+    "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 252,
     "uikTvd": "4034009125058",
+    "uikName": "УИК №252",
     "tikTvd": "2032000253965",
-    "tikName": "Кабанская"
+    "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 253,
     "uikTvd": "4034009125059",
+    "uikName": "УИК №253",
     "tikTvd": "2032000253965",
-    "tikName": "Кабанская"
+    "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 254,
     "uikTvd": "4034009125060",
+    "uikName": "УИК №254",
     "tikTvd": "2032000253965",
-    "tikName": "Кабанская"
+    "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 255,
     "uikTvd": "4034009125061",
+    "uikName": "УИК №255",
     "tikTvd": "2032000253965",
-    "tikName": "Кабанская"
+    "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 256,
     "uikTvd": "4034009125062",
+    "uikName": "УИК №256",
     "tikTvd": "2032000253965",
-    "tikName": "Кабанская"
+    "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 257,
     "uikTvd": "4034009125063",
+    "uikName": "УИК №257",
     "tikTvd": "2032000253965",
-    "tikName": "Кабанская"
+    "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 258,
     "uikTvd": "4034009125064",
+    "uikName": "УИК №258",
     "tikTvd": "2032000253965",
-    "tikName": "Кабанская"
+    "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 259,
     "uikTvd": "4034009125065",
+    "uikName": "УИК №259",
     "tikTvd": "2032000253965",
-    "tikName": "Кабанская"
+    "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 260,
     "uikTvd": "4034009125066",
+    "uikName": "УИК №260",
     "tikTvd": "2032000253965",
-    "tikName": "Кабанская"
+    "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 261,
     "uikTvd": "4034009125067",
+    "uikName": "УИК №261",
     "tikTvd": "2032000253965",
-    "tikName": "Кабанская"
+    "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 262,
     "uikTvd": "4034009125068",
+    "uikName": "УИК №262",
     "tikTvd": "2032000253965",
-    "tikName": "Кабанская"
+    "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 263,
     "uikTvd": "4034009125069",
+    "uikName": "УИК №263",
     "tikTvd": "2032000253965",
-    "tikName": "Кабанская"
+    "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 264,
     "uikTvd": "4034009125070",
+    "uikName": "УИК №264",
     "tikTvd": "2032000253965",
-    "tikName": "Кабанская"
+    "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 265,
     "uikTvd": "4034009125071",
+    "uikName": "УИК №265",
     "tikTvd": "2032000253965",
-    "tikName": "Кабанская"
+    "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 266,
     "uikTvd": "4034009125072",
+    "uikName": "УИК №266",
     "tikTvd": "2032000253965",
-    "tikName": "Кабанская"
+    "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 267,
     "uikTvd": "4034009125073",
+    "uikName": "УИК №267",
     "tikTvd": "2032000253965",
-    "tikName": "Кабанская"
+    "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 268,
     "uikTvd": "4034009125074",
+    "uikName": "УИК №268",
     "tikTvd": "2032000253965",
-    "tikName": "Кабанская"
+    "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 269,
     "uikTvd": "4034009125075",
+    "uikName": "УИК №269",
     "tikTvd": "2032000253965",
-    "tikName": "Кабанская"
+    "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 270,
     "uikTvd": "4034009125076",
+    "uikName": "УИК №270",
     "tikTvd": "2032000253965",
-    "tikName": "Кабанская"
+    "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 271,
     "uikTvd": "4034009125077",
+    "uikName": "УИК №271",
     "tikTvd": "2032000253965",
-    "tikName": "Кабанская"
+    "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 272,
     "uikTvd": "4034009125078",
+    "uikName": "УИК №272",
     "tikTvd": "2032000253965",
-    "tikName": "Кабанская"
+    "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 273,
     "uikTvd": "4034009125079",
+    "uikName": "УИК №273",
     "tikTvd": "2032000253965",
-    "tikName": "Кабанская"
+    "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 274,
     "uikTvd": "4034009125080",
+    "uikName": "УИК №274",
     "tikTvd": "2032000253965",
-    "tikName": "Кабанская"
+    "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 275,
     "uikTvd": "4034009125081",
+    "uikName": "УИК №275",
     "tikTvd": "2032000253965",
-    "tikName": "Кабанская"
+    "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 276,
     "uikTvd": "4034009125082",
+    "uikName": "УИК №276",
     "tikTvd": "2032000253965",
-    "tikName": "Кабанская"
+    "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 277,
     "uikTvd": "4034009125083",
+    "uikName": "УИК №277",
     "tikTvd": "2032000253965",
-    "tikName": "Кабанская"
+    "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 278,
     "uikTvd": "4034009125084",
+    "uikName": "УИК №278",
     "tikTvd": "2032000253965",
-    "tikName": "Кабанская"
+    "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 279,
     "uikTvd": "4034009125085",
+    "uikName": "УИК №279",
     "tikTvd": "2032000253965",
-    "tikName": "Кабанская"
+    "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 280,
     "uikTvd": "4034009125086",
+    "uikName": "УИК №280",
     "tikTvd": "2032000253965",
-    "tikName": "Кабанская"
+    "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 281,
     "uikTvd": "4034009125087",
+    "uikName": "УИК №281",
     "tikTvd": "2032000253965",
-    "tikName": "Кабанская"
+    "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 282,
     "uikTvd": "4034009125088",
+    "uikName": "УИК №282",
     "tikTvd": "2032000253965",
-    "tikName": "Кабанская"
+    "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 283,
     "uikTvd": "4034009125089",
+    "uikName": "УИК №283",
     "tikTvd": "2032000253965",
-    "tikName": "Кабанская"
+    "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 284,
     "uikTvd": "4034009125090",
+    "uikName": "УИК №284",
     "tikTvd": "2032000253965",
-    "tikName": "Кабанская"
+    "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 285,
     "uikTvd": "4034009125091",
+    "uikName": "УИК №285",
     "tikTvd": "2032000253965",
-    "tikName": "Кабанская"
+    "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 286,
     "uikTvd": "4034009125092",
+    "uikName": "УИК №286",
     "tikTvd": "2032000253965",
-    "tikName": "Кабанская"
+    "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 287,
     "uikTvd": "4034009125093",
+    "uikName": "УИК №287",
     "tikTvd": "2032000253965",
-    "tikName": "Кабанская"
+    "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 288,
     "uikTvd": "4034009125094",
+    "uikName": "УИК №288",
     "tikTvd": "2032000253965",
-    "tikName": "Кабанская"
+    "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 289,
     "uikTvd": "4034009125095",
+    "uikName": "УИК №289",
     "tikTvd": "2032000253965",
-    "tikName": "Кабанская"
+    "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 290,
     "uikTvd": "4034009125096",
+    "uikName": "УИК №290",
     "tikTvd": "2032000253965",
-    "tikName": "Кабанская"
+    "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 291,
     "uikTvd": "4034009125097",
+    "uikName": "УИК №291",
     "tikTvd": "2032000253965",
-    "tikName": "Кабанская"
+    "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 292,
     "uikTvd": "4034009125098",
+    "uikName": "УИК №292",
     "tikTvd": "2032000253965",
-    "tikName": "Кабанская"
+    "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 293,
     "uikTvd": "4034009125099",
+    "uikName": "УИК №293",
     "tikTvd": "2032000253965",
-    "tikName": "Кабанская"
+    "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 294,
     "uikTvd": "4034009125100",
+    "uikName": "УИК №294",
     "tikTvd": "2032000253965",
-    "tikName": "Кабанская"
+    "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 295,
     "uikTvd": "4034009125101",
+    "uikName": "УИК №295",
     "tikTvd": "2032000253965",
-    "tikName": "Кабанская"
+    "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 296,
     "uikTvd": "4034009125102",
+    "uikName": "УИК №296",
     "tikTvd": "2032000253965",
-    "tikName": "Кабанская"
+    "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 297,
     "uikTvd": "4034009125103",
+    "uikName": "УИК №297",
     "tikTvd": "2032000253965",
-    "tikName": "Кабанская"
+    "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 298,
     "uikTvd": "4034009125104",
+    "uikName": "УИК №298",
     "tikTvd": "2032000253965",
-    "tikName": "Кабанская"
+    "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 299,
     "uikTvd": "4034009125105",
+    "uikName": "УИК №299",
     "tikTvd": "2032000253965",
-    "tikName": "Кабанская"
+    "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 300,
     "uikTvd": "4034009125106",
+    "uikName": "УИК №300",
     "tikTvd": "2032000253965",
-    "tikName": "Кабанская"
+    "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 301,
     "uikTvd": "4034009125107",
+    "uikName": "УИК №301",
     "tikTvd": "2032000253965",
-    "tikName": "Кабанская"
+    "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 302,
     "uikTvd": "4034009125108",
+    "uikName": "УИК №302",
     "tikTvd": "2032000253965",
-    "tikName": "Кабанская"
+    "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 303,
     "uikTvd": "4034009125109",
+    "uikName": "УИК №303",
     "tikTvd": "2032000253965",
-    "tikName": "Кабанская"
+    "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 304,
     "uikTvd": "4034009125110",
+    "uikName": "УИК №304",
     "tikTvd": "2032000253965",
-    "tikName": "Кабанская"
+    "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 305,
     "uikTvd": "4034009125111",
+    "uikName": "УИК №305",
     "tikTvd": "2032000253965",
-    "tikName": "Кабанская"
+    "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 306,
     "uikTvd": "4034009125112",
+    "uikName": "УИК №306",
     "tikTvd": "2032000253965",
-    "tikName": "Кабанская"
+    "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 307,
     "uikTvd": "4034009125113",
+    "uikName": "УИК №307",
     "tikTvd": "2032000253965",
-    "tikName": "Кабанская"
+    "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 308,
     "uikTvd": "4034009125114",
+    "uikName": "УИК №308",
     "tikTvd": "2032000253965",
-    "tikName": "Кабанская"
+    "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 309,
     "uikTvd": "4034009125115",
+    "uikName": "УИК №309",
     "tikTvd": "2032000253965",
-    "tikName": "Кабанская"
+    "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 310,
     "uikTvd": "4034009125116",
+    "uikName": "УИК №310",
     "tikTvd": "2032000253965",
-    "tikName": "Кабанская"
+    "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 311,
     "uikTvd": "4034009125117",
+    "uikName": "УИК №311",
     "tikTvd": "2032000253965",
-    "tikName": "Кабанская"
+    "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 312,
     "uikTvd": "4034009125118",
+    "uikName": "УИК №312",
     "tikTvd": "2032000253965",
-    "tikName": "Кабанская"
+    "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 313,
     "uikTvd": "4034009125119",
+    "uikName": "УИК №313",
     "tikTvd": "2032000253965",
-    "tikName": "Кабанская"
+    "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 314,
     "uikTvd": "4034009125120",
+    "uikName": "УИК №314",
     "tikTvd": "2032000253965",
-    "tikName": "Кабанская"
+    "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 315,
     "uikTvd": "4034009125121",
+    "uikName": "УИК №315",
     "tikTvd": "2032000253965",
-    "tikName": "Кабанская"
+    "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 316,
     "uikTvd": "4034009125122",
+    "uikName": "УИК №316",
     "tikTvd": "2032000253965",
-    "tikName": "Кабанская"
+    "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 317,
     "uikTvd": "4034009125123",
+    "uikName": "УИК №317",
     "tikTvd": "2032000253965",
-    "tikName": "Кабанская"
+    "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 318,
     "uikTvd": "4034009125124",
+    "uikName": "УИК №318",
     "tikTvd": "2032000253965",
-    "tikName": "Кабанская"
+    "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 319,
     "uikTvd": "4034009125125",
+    "uikName": "УИК №319",
     "tikTvd": "2032000253965",
-    "tikName": "Кабанская"
+    "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 320,
     "uikTvd": "4034009125126",
+    "uikName": "УИК №320",
     "tikTvd": "2032000253965",
-    "tikName": "Кабанская"
+    "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 321,
     "uikTvd": "4034009125127",
+    "uikName": "УИК №321",
     "tikTvd": "2032000253965",
-    "tikName": "Кабанская"
+    "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 322,
     "uikTvd": "4034009125128",
+    "uikName": "УИК №322",
     "tikTvd": "2032000253965",
-    "tikName": "Кабанская"
+    "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 323,
     "uikTvd": "4034009125129",
+    "uikName": "УИК №323",
     "tikTvd": "2032000253965",
-    "tikName": "Кабанская"
+    "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 324,
     "uikTvd": "4034009125130",
+    "uikName": "УИК №324",
     "tikTvd": "2032000253965",
-    "tikName": "Кабанская"
+    "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 325,
     "uikTvd": "4034010109315",
+    "uikName": "УИК №325",
     "tikTvd": "2032000253964",
-    "tikName": "Кижингинская"
+    "tikName": "Кижингинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 326,
     "uikTvd": "4034010109291",
+    "uikName": "УИК №326",
     "tikTvd": "2032000253964",
-    "tikName": "Кижингинская"
+    "tikName": "Кижингинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 327,
     "uikTvd": "4034010109292",
+    "uikName": "УИК №327",
     "tikTvd": "2032000253964",
-    "tikName": "Кижингинская"
+    "tikName": "Кижингинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 328,
     "uikTvd": "4034010109293",
+    "uikName": "УИК №328",
     "tikTvd": "2032000253964",
-    "tikName": "Кижингинская"
+    "tikName": "Кижингинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 329,
     "uikTvd": "4034010109294",
+    "uikName": "УИК №329",
     "tikTvd": "2032000253964",
-    "tikName": "Кижингинская"
+    "tikName": "Кижингинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 330,
     "uikTvd": "4034010109295",
+    "uikName": "УИК №330",
     "tikTvd": "2032000253964",
-    "tikName": "Кижингинская"
+    "tikName": "Кижингинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 331,
     "uikTvd": "4034010109297",
+    "uikName": "УИК №331",
     "tikTvd": "2032000253964",
-    "tikName": "Кижингинская"
+    "tikName": "Кижингинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 332,
     "uikTvd": "4034010109298",
+    "uikName": "УИК №332",
     "tikTvd": "2032000253964",
-    "tikName": "Кижингинская"
+    "tikName": "Кижингинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 333,
     "uikTvd": "4034010109299",
+    "uikName": "УИК №333",
     "tikTvd": "2032000253964",
-    "tikName": "Кижингинская"
+    "tikName": "Кижингинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 334,
     "uikTvd": "4034010109300",
+    "uikName": "УИК №334",
     "tikTvd": "2032000253964",
-    "tikName": "Кижингинская"
+    "tikName": "Кижингинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 335,
     "uikTvd": "4034010109301",
+    "uikName": "УИК №335",
     "tikTvd": "2032000253964",
-    "tikName": "Кижингинская"
+    "tikName": "Кижингинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 336,
     "uikTvd": "4034010109302",
+    "uikName": "УИК №336",
     "tikTvd": "2032000253964",
-    "tikName": "Кижингинская"
+    "tikName": "Кижингинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 337,
     "uikTvd": "4034010109303",
+    "uikName": "УИК №337",
     "tikTvd": "2032000253964",
-    "tikName": "Кижингинская"
+    "tikName": "Кижингинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 338,
     "uikTvd": "4034010109304",
+    "uikName": "УИК №338",
     "tikTvd": "2032000253964",
-    "tikName": "Кижингинская"
+    "tikName": "Кижингинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 339,
     "uikTvd": "4034010109305",
+    "uikName": "УИК №339",
     "tikTvd": "2032000253964",
-    "tikName": "Кижингинская"
+    "tikName": "Кижингинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 340,
     "uikTvd": "4034010109306",
+    "uikName": "УИК №340",
     "tikTvd": "2032000253964",
-    "tikName": "Кижингинская"
+    "tikName": "Кижингинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 341,
     "uikTvd": "4034010109307",
+    "uikName": "УИК №341",
     "tikTvd": "2032000253964",
-    "tikName": "Кижингинская"
+    "tikName": "Кижингинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 342,
     "uikTvd": "4034010109308",
+    "uikName": "УИК №342",
     "tikTvd": "2032000253964",
-    "tikName": "Кижингинская"
+    "tikName": "Кижингинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 343,
     "uikTvd": "4034010109309",
+    "uikName": "УИК №343",
     "tikTvd": "2032000253964",
-    "tikName": "Кижингинская"
+    "tikName": "Кижингинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 344,
     "uikTvd": "4034010109310",
+    "uikName": "УИК №344",
     "tikTvd": "2032000253964",
-    "tikName": "Кижингинская"
+    "tikName": "Кижингинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 345,
     "uikTvd": "4034010109311",
+    "uikName": "УИК №345",
     "tikTvd": "2032000253964",
-    "tikName": "Кижингинская"
+    "tikName": "Кижингинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 346,
     "uikTvd": "4034010109312",
+    "uikName": "УИК №346",
     "tikTvd": "2032000253964",
-    "tikName": "Кижингинская"
+    "tikName": "Кижингинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 347,
     "uikTvd": "4034010109296",
+    "uikName": "УИК №347",
     "tikTvd": "2032000253964",
-    "tikName": "Кижингинская"
+    "tikName": "Кижингинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 348,
     "uikTvd": "4034010109289",
+    "uikName": "УИК №348",
     "tikTvd": "2032000253964",
-    "tikName": "Кижингинская"
+    "tikName": "Кижингинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 349,
     "uikTvd": "4034011103814",
+    "uikName": "УИК №349",
     "tikTvd": "2032000253963",
-    "tikName": "Курумканская"
+    "tikName": "Курумканская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 350,
     "uikTvd": "4034011103782",
+    "uikName": "УИК №350",
     "tikTvd": "2032000253963",
-    "tikName": "Курумканская"
+    "tikName": "Курумканская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 351,
     "uikTvd": "4034011103783",
+    "uikName": "УИК №351",
     "tikTvd": "2032000253963",
-    "tikName": "Курумканская"
+    "tikName": "Курумканская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 352,
     "uikTvd": "4034011103784",
+    "uikName": "УИК №352",
     "tikTvd": "2032000253963",
-    "tikName": "Курумканская"
+    "tikName": "Курумканская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 353,
     "uikTvd": "4034011103785",
+    "uikName": "УИК №353",
     "tikTvd": "2032000253963",
-    "tikName": "Курумканская"
+    "tikName": "Курумканская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 354,
     "uikTvd": "4034011103786",
+    "uikName": "УИК №354",
     "tikTvd": "2032000253963",
-    "tikName": "Курумканская"
+    "tikName": "Курумканская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 355,
     "uikTvd": "4034011103787",
+    "uikName": "УИК №355",
     "tikTvd": "2032000253963",
-    "tikName": "Курумканская"
+    "tikName": "Курумканская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 356,
     "uikTvd": "4034011103788",
+    "uikName": "УИК №356",
     "tikTvd": "2032000253963",
-    "tikName": "Курумканская"
+    "tikName": "Курумканская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 357,
     "uikTvd": "4034011103789",
+    "uikName": "УИК №357",
     "tikTvd": "2032000253963",
-    "tikName": "Курумканская"
+    "tikName": "Курумканская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 358,
     "uikTvd": "4034011103790",
+    "uikName": "УИК №358",
     "tikTvd": "2032000253963",
-    "tikName": "Курумканская"
+    "tikName": "Курумканская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 359,
     "uikTvd": "4034011103791",
+    "uikName": "УИК №359",
     "tikTvd": "2032000253963",
-    "tikName": "Курумканская"
+    "tikName": "Курумканская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 360,
     "uikTvd": "4034011103792",
+    "uikName": "УИК №360",
     "tikTvd": "2032000253963",
-    "tikName": "Курумканская"
+    "tikName": "Курумканская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 361,
     "uikTvd": "4034011103793",
+    "uikName": "УИК №361",
     "tikTvd": "2032000253963",
-    "tikName": "Курумканская"
+    "tikName": "Курумканская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 362,
     "uikTvd": "4034011103794",
+    "uikName": "УИК №362",
     "tikTvd": "2032000253963",
-    "tikName": "Курумканская"
+    "tikName": "Курумканская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 363,
     "uikTvd": "4034011103795",
+    "uikName": "УИК №363",
     "tikTvd": "2032000253963",
-    "tikName": "Курумканская"
+    "tikName": "Курумканская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 364,
     "uikTvd": "4034011103796",
+    "uikName": "УИК №364",
     "tikTvd": "2032000253963",
-    "tikName": "Курумканская"
+    "tikName": "Курумканская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 365,
     "uikTvd": "4034011103797",
+    "uikName": "УИК №365",
     "tikTvd": "2032000253963",
-    "tikName": "Курумканская"
+    "tikName": "Курумканская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 366,
     "uikTvd": "4034011103798",
+    "uikName": "УИК №366",
     "tikTvd": "2032000253963",
-    "tikName": "Курумканская"
+    "tikName": "Курумканская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 367,
     "uikTvd": "4034012130100",
+    "uikName": "УИК №367",
     "tikTvd": "2032000253962",
-    "tikName": "Кяхтинская"
+    "tikName": "Кяхтинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 368,
     "uikTvd": "4034012130101",
+    "uikName": "УИК №368",
     "tikTvd": "2032000253962",
-    "tikName": "Кяхтинская"
+    "tikName": "Кяхтинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 369,
     "uikTvd": "4034012130102",
+    "uikName": "УИК №369",
     "tikTvd": "2032000253962",
-    "tikName": "Кяхтинская"
+    "tikName": "Кяхтинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 370,
     "uikTvd": "4034012130103",
+    "uikName": "УИК №370",
     "tikTvd": "2032000253962",
-    "tikName": "Кяхтинская"
+    "tikName": "Кяхтинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 371,
     "uikTvd": "4034012130104",
+    "uikName": "УИК №371",
     "tikTvd": "2032000253962",
-    "tikName": "Кяхтинская"
+    "tikName": "Кяхтинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 372,
     "uikTvd": "4034012130105",
+    "uikName": "УИК №372",
     "tikTvd": "2032000253962",
-    "tikName": "Кяхтинская"
+    "tikName": "Кяхтинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 373,
     "uikTvd": "4034012130106",
+    "uikName": "УИК №373",
     "tikTvd": "2032000253962",
-    "tikName": "Кяхтинская"
+    "tikName": "Кяхтинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 374,
     "uikTvd": "4034012130107",
+    "uikName": "УИК №374",
     "tikTvd": "2032000253962",
-    "tikName": "Кяхтинская"
+    "tikName": "Кяхтинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 375,
     "uikTvd": "4034012130108",
+    "uikName": "УИК №375",
     "tikTvd": "2032000253962",
-    "tikName": "Кяхтинская"
+    "tikName": "Кяхтинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 376,
     "uikTvd": "4034012130109",
+    "uikName": "УИК №376",
     "tikTvd": "2032000253962",
-    "tikName": "Кяхтинская"
+    "tikName": "Кяхтинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 377,
     "uikTvd": "4034012130110",
+    "uikName": "УИК №377",
     "tikTvd": "2032000253962",
-    "tikName": "Кяхтинская"
+    "tikName": "Кяхтинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 378,
     "uikTvd": "4034012130111",
+    "uikName": "УИК №378",
     "tikTvd": "2032000253962",
-    "tikName": "Кяхтинская"
+    "tikName": "Кяхтинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 379,
     "uikTvd": "4034012130112",
+    "uikName": "УИК №379",
     "tikTvd": "2032000253962",
-    "tikName": "Кяхтинская"
+    "tikName": "Кяхтинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 380,
     "uikTvd": "4034012130113",
+    "uikName": "УИК №380",
     "tikTvd": "2032000253962",
-    "tikName": "Кяхтинская"
+    "tikName": "Кяхтинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 381,
     "uikTvd": "4034012130114",
+    "uikName": "УИК №381",
     "tikTvd": "2032000253962",
-    "tikName": "Кяхтинская"
+    "tikName": "Кяхтинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 382,
     "uikTvd": "4034012130115",
+    "uikName": "УИК №382",
     "tikTvd": "2032000253962",
-    "tikName": "Кяхтинская"
+    "tikName": "Кяхтинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 383,
     "uikTvd": "4034012130116",
+    "uikName": "УИК №383",
     "tikTvd": "2032000253962",
-    "tikName": "Кяхтинская"
+    "tikName": "Кяхтинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 384,
     "uikTvd": "4034012130117",
+    "uikName": "УИК №384",
     "tikTvd": "2032000253962",
-    "tikName": "Кяхтинская"
+    "tikName": "Кяхтинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 385,
     "uikTvd": "4034012130118",
+    "uikName": "УИК №385",
     "tikTvd": "2032000253962",
-    "tikName": "Кяхтинская"
+    "tikName": "Кяхтинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 386,
     "uikTvd": "4034012130119",
+    "uikName": "УИК №386",
     "tikTvd": "2032000253962",
-    "tikName": "Кяхтинская"
+    "tikName": "Кяхтинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 387,
     "uikTvd": "4034012130120",
+    "uikName": "УИК №387",
     "tikTvd": "2032000253962",
-    "tikName": "Кяхтинская"
+    "tikName": "Кяхтинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 388,
     "uikTvd": "4034012130121",
+    "uikName": "УИК №388",
     "tikTvd": "2032000253962",
-    "tikName": "Кяхтинская"
+    "tikName": "Кяхтинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 389,
     "uikTvd": "4034012130122",
+    "uikName": "УИК №389",
     "tikTvd": "2032000253962",
-    "tikName": "Кяхтинская"
+    "tikName": "Кяхтинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 390,
     "uikTvd": "4034012130123",
+    "uikName": "УИК №390",
     "tikTvd": "2032000253962",
-    "tikName": "Кяхтинская"
+    "tikName": "Кяхтинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 391,
     "uikTvd": "4034012130124",
+    "uikName": "УИК №391",
     "tikTvd": "2032000253962",
-    "tikName": "Кяхтинская"
+    "tikName": "Кяхтинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 392,
     "uikTvd": "4034012130125",
+    "uikName": "УИК №392",
     "tikTvd": "2032000253962",
-    "tikName": "Кяхтинская"
+    "tikName": "Кяхтинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 393,
     "uikTvd": "4034012130126",
+    "uikName": "УИК №393",
     "tikTvd": "2032000253962",
-    "tikName": "Кяхтинская"
+    "tikName": "Кяхтинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 394,
     "uikTvd": "4034012130127",
+    "uikName": "УИК №394",
     "tikTvd": "2032000253962",
-    "tikName": "Кяхтинская"
+    "tikName": "Кяхтинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 395,
     "uikTvd": "4034012130128",
+    "uikName": "УИК №395",
     "tikTvd": "2032000253962",
-    "tikName": "Кяхтинская"
+    "tikName": "Кяхтинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 396,
     "uikTvd": "4034012130129",
+    "uikName": "УИК №396",
     "tikTvd": "2032000253962",
-    "tikName": "Кяхтинская"
+    "tikName": "Кяхтинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 397,
     "uikTvd": "4034012130130",
+    "uikName": "УИК №397",
     "tikTvd": "2032000253962",
-    "tikName": "Кяхтинская"
+    "tikName": "Кяхтинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 398,
     "uikTvd": "4034012130131",
+    "uikName": "УИК №398",
     "tikTvd": "2032000253962",
-    "tikName": "Кяхтинская"
+    "tikName": "Кяхтинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 399,
     "uikTvd": "4034012130132",
+    "uikName": "УИК №399",
     "tikTvd": "2032000253962",
-    "tikName": "Кяхтинская"
+    "tikName": "Кяхтинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 400,
     "uikTvd": "4034012130133",
+    "uikName": "УИК №400",
     "tikTvd": "2032000253962",
-    "tikName": "Кяхтинская"
+    "tikName": "Кяхтинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 401,
     "uikTvd": "4034012130134",
+    "uikName": "УИК №401",
     "tikTvd": "2032000253962",
-    "tikName": "Кяхтинская"
+    "tikName": "Кяхтинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 402,
     "uikTvd": "4034012130135",
+    "uikName": "УИК №402",
     "tikTvd": "2032000253962",
-    "tikName": "Кяхтинская"
+    "tikName": "Кяхтинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 403,
     "uikTvd": "4034012130136",
+    "uikName": "УИК №403",
     "tikTvd": "2032000253962",
-    "tikName": "Кяхтинская"
+    "tikName": "Кяхтинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 404,
     "uikTvd": "4034012130137",
+    "uikName": "УИК №404",
     "tikTvd": "2032000253962",
-    "tikName": "Кяхтинская"
+    "tikName": "Кяхтинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 405,
     "uikTvd": "4034012130138",
+    "uikName": "УИК №405",
     "tikTvd": "2032000253962",
-    "tikName": "Кяхтинская"
+    "tikName": "Кяхтинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 406,
     "uikTvd": "4034012130139",
+    "uikName": "УИК №406",
     "tikTvd": "2032000253962",
-    "tikName": "Кяхтинская"
+    "tikName": "Кяхтинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 407,
     "uikTvd": "4034012130140",
+    "uikName": "УИК №407",
     "tikTvd": "2032000253962",
-    "tikName": "Кяхтинская"
+    "tikName": "Кяхтинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 408,
     "uikTvd": "4034012130141",
+    "uikName": "УИК №408",
     "tikTvd": "2032000253962",
-    "tikName": "Кяхтинская"
+    "tikName": "Кяхтинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 409,
     "uikTvd": "4034012130142",
+    "uikName": "УИК №409",
     "tikTvd": "2032000253962",
-    "tikName": "Кяхтинская"
+    "tikName": "Кяхтинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 410,
     "uikTvd": "4034012130143",
+    "uikName": "УИК №410",
     "tikTvd": "2032000253962",
-    "tikName": "Кяхтинская"
+    "tikName": "Кяхтинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 411,
     "uikTvd": "4034012130144",
+    "uikName": "УИК №411",
     "tikTvd": "2032000253962",
-    "tikName": "Кяхтинская"
+    "tikName": "Кяхтинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 412,
     "uikTvd": "4034012130145",
+    "uikName": "УИК №412",
     "tikTvd": "2032000253962",
-    "tikName": "Кяхтинская"
+    "tikName": "Кяхтинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 413,
     "uikTvd": "4034012130146",
+    "uikName": "УИК №413",
     "tikTvd": "2032000253962",
-    "tikName": "Кяхтинская"
+    "tikName": "Кяхтинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 414,
     "uikTvd": "4034012130147",
+    "uikName": "УИК №414",
     "tikTvd": "2032000253962",
-    "tikName": "Кяхтинская"
+    "tikName": "Кяхтинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 415,
     "uikTvd": "4034012130148",
+    "uikName": "УИК №415",
     "tikTvd": "2032000253962",
-    "tikName": "Кяхтинская"
+    "tikName": "Кяхтинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 416,
     "uikTvd": "4034012130149",
+    "uikName": "УИК №416",
     "tikTvd": "2032000253962",
-    "tikName": "Кяхтинская"
+    "tikName": "Кяхтинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 417,
     "uikTvd": "4034012130150",
+    "uikName": "УИК №417",
     "tikTvd": "2032000253962",
-    "tikName": "Кяхтинская"
+    "tikName": "Кяхтинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 418,
     "uikTvd": "403401398934",
+    "uikName": "УИК №418",
     "tikTvd": "2032000253961",
-    "tikName": "Муйская"
+    "tikName": "Муйская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 419,
     "uikTvd": "403401398935",
+    "uikName": "УИК №419",
     "tikTvd": "2032000253961",
-    "tikName": "Муйская"
+    "tikName": "Муйская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 420,
     "uikTvd": "403401398936",
+    "uikName": "УИК №420",
     "tikTvd": "2032000253961",
-    "tikName": "Муйская"
+    "tikName": "Муйская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 421,
     "uikTvd": "403401398937",
+    "uikName": "УИК №421",
     "tikTvd": "2032000253961",
-    "tikName": "Муйская"
+    "tikName": "Муйская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 422,
     "uikTvd": "403401398938",
+    "uikName": "УИК №422",
     "tikTvd": "2032000253961",
-    "tikName": "Муйская"
+    "tikName": "Муйская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 423,
     "uikTvd": "403401398939",
+    "uikName": "УИК №423",
     "tikTvd": "2032000253961",
-    "tikName": "Муйская"
+    "tikName": "Муйская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 424,
     "uikTvd": "403401398940",
+    "uikName": "УИК №424",
     "tikTvd": "2032000253961",
-    "tikName": "Муйская"
+    "tikName": "Муйская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 425,
     "uikTvd": "403401398941",
+    "uikName": "УИК №425",
     "tikTvd": "2032000253961",
-    "tikName": "Муйская"
+    "tikName": "Муйская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 426,
     "uikTvd": "403401398942",
+    "uikName": "УИК №426",
     "tikTvd": "2032000253961",
-    "tikName": "Муйская"
+    "tikName": "Муйская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 427,
     "uikTvd": "403401398943",
+    "uikName": "УИК №427",
     "tikTvd": "2032000253961",
-    "tikName": "Муйская"
+    "tikName": "Муйская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 428,
     "uikTvd": "403401398944",
+    "uikName": "УИК №428",
     "tikTvd": "2032000253961",
-    "tikName": "Муйская"
+    "tikName": "Муйская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 429,
     "uikTvd": "403401398945",
+    "uikName": "УИК №429",
     "tikTvd": "2032000253961",
-    "tikName": "Муйская"
+    "tikName": "Муйская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 430,
     "uikTvd": "4034014109662",
+    "uikName": "УИК №430",
     "tikTvd": "2032000253960",
-    "tikName": "Мухоршибирская"
+    "tikName": "Мухоршибирская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 431,
     "uikTvd": "4034014109664",
+    "uikName": "УИК №431",
     "tikTvd": "2032000253960",
-    "tikName": "Мухоршибирская"
+    "tikName": "Мухоршибирская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 432,
     "uikTvd": "4034014109666",
+    "uikName": "УИК №432",
     "tikTvd": "2032000253960",
-    "tikName": "Мухоршибирская"
+    "tikName": "Мухоршибирская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 433,
     "uikTvd": "4034014109668",
+    "uikName": "УИК №433",
     "tikTvd": "2032000253960",
-    "tikName": "Мухоршибирская"
+    "tikName": "Мухоршибирская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 434,
     "uikTvd": "4034014109670",
+    "uikName": "УИК №434",
     "tikTvd": "2032000253960",
-    "tikName": "Мухоршибирская"
+    "tikName": "Мухоршибирская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 435,
     "uikTvd": "4034014109672",
+    "uikName": "УИК №435",
     "tikTvd": "2032000253960",
-    "tikName": "Мухоршибирская"
+    "tikName": "Мухоршибирская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 436,
     "uikTvd": "4034014109674",
+    "uikName": "УИК №436",
     "tikTvd": "2032000253960",
-    "tikName": "Мухоршибирская"
+    "tikName": "Мухоршибирская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 437,
     "uikTvd": "4034014109676",
+    "uikName": "УИК №437",
     "tikTvd": "2032000253960",
-    "tikName": "Мухоршибирская"
+    "tikName": "Мухоршибирская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 438,
     "uikTvd": "4034014109678",
+    "uikName": "УИК №438",
     "tikTvd": "2032000253960",
-    "tikName": "Мухоршибирская"
+    "tikName": "Мухоршибирская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 439,
     "uikTvd": "4034014109680",
+    "uikName": "УИК №439",
     "tikTvd": "2032000253960",
-    "tikName": "Мухоршибирская"
+    "tikName": "Мухоршибирская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 440,
     "uikTvd": "4034014109682",
+    "uikName": "УИК №440",
     "tikTvd": "2032000253960",
-    "tikName": "Мухоршибирская"
+    "tikName": "Мухоршибирская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 441,
     "uikTvd": "4034014109684",
+    "uikName": "УИК №441",
     "tikTvd": "2032000253960",
-    "tikName": "Мухоршибирская"
+    "tikName": "Мухоршибирская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 442,
     "uikTvd": "4034014109686",
+    "uikName": "УИК №442",
     "tikTvd": "2032000253960",
-    "tikName": "Мухоршибирская"
+    "tikName": "Мухоршибирская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 443,
     "uikTvd": "4034014109688",
+    "uikName": "УИК №443",
     "tikTvd": "2032000253960",
-    "tikName": "Мухоршибирская"
+    "tikName": "Мухоршибирская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 444,
     "uikTvd": "4034014109690",
+    "uikName": "УИК №444",
     "tikTvd": "2032000253960",
-    "tikName": "Мухоршибирская"
+    "tikName": "Мухоршибирская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 445,
     "uikTvd": "4034014109692",
+    "uikName": "УИК №445",
     "tikTvd": "2032000253960",
-    "tikName": "Мухоршибирская"
+    "tikName": "Мухоршибирская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 446,
     "uikTvd": "4034014109694",
+    "uikName": "УИК №446",
     "tikTvd": "2032000253960",
-    "tikName": "Мухоршибирская"
+    "tikName": "Мухоршибирская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 447,
     "uikTvd": "4034014109696",
+    "uikName": "УИК №447",
     "tikTvd": "2032000253960",
-    "tikName": "Мухоршибирская"
+    "tikName": "Мухоршибирская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 448,
     "uikTvd": "4034014109698",
+    "uikName": "УИК №448",
     "tikTvd": "2032000253960",
-    "tikName": "Мухоршибирская"
+    "tikName": "Мухоршибирская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 449,
     "uikTvd": "4034014109700",
+    "uikName": "УИК №449",
     "tikTvd": "2032000253960",
-    "tikName": "Мухоршибирская"
+    "tikName": "Мухоршибирская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 450,
     "uikTvd": "4034014109702",
+    "uikName": "УИК №450",
     "tikTvd": "2032000253960",
-    "tikName": "Мухоршибирская"
+    "tikName": "Мухоршибирская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 451,
     "uikTvd": "4034014109704",
+    "uikName": "УИК №451",
     "tikTvd": "2032000253960",
-    "tikName": "Мухоршибирская"
+    "tikName": "Мухоршибирская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 452,
     "uikTvd": "4034014109706",
+    "uikName": "УИК №452",
     "tikTvd": "2032000253960",
-    "tikName": "Мухоршибирская"
+    "tikName": "Мухоршибирская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 453,
     "uikTvd": "4034014109708",
+    "uikName": "УИК №453",
     "tikTvd": "2032000253960",
-    "tikName": "Мухоршибирская"
+    "tikName": "Мухоршибирская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 454,
     "uikTvd": "4034014109710",
+    "uikName": "УИК №454",
     "tikTvd": "2032000253960",
-    "tikName": "Мухоршибирская"
+    "tikName": "Мухоршибирская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 455,
     "uikTvd": "4034014109712",
+    "uikName": "УИК №455",
     "tikTvd": "2032000253960",
-    "tikName": "Мухоршибирская"
+    "tikName": "Мухоршибирская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 456,
     "uikTvd": "4034014109714",
+    "uikName": "УИК №456",
     "tikTvd": "2032000253960",
-    "tikName": "Мухоршибирская"
+    "tikName": "Мухоршибирская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 457,
     "uikTvd": "4034014109716",
+    "uikName": "УИК №457",
     "tikTvd": "2032000253960",
-    "tikName": "Мухоршибирская"
+    "tikName": "Мухоршибирская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 458,
     "uikTvd": "4034014109718",
+    "uikName": "УИК №458",
     "tikTvd": "2032000253960",
-    "tikName": "Мухоршибирская"
+    "tikName": "Мухоршибирская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 459,
     "uikTvd": "4034014109720",
+    "uikName": "УИК №459",
     "tikTvd": "2032000253960",
-    "tikName": "Мухоршибирская"
+    "tikName": "Мухоршибирская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 460,
     "uikTvd": "4034014109722",
+    "uikName": "УИК №460",
     "tikTvd": "2032000253960",
-    "tikName": "Мухоршибирская"
+    "tikName": "Мухоршибирская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 461,
     "uikTvd": "403401594864",
+    "uikName": "УИК №461",
     "tikTvd": "2032000253959",
-    "tikName": "Окинская"
+    "tikName": "Окинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 462,
     "uikTvd": "403401594865",
+    "uikName": "УИК №462",
     "tikTvd": "2032000253959",
-    "tikName": "Окинская"
+    "tikName": "Окинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 463,
     "uikTvd": "403401594866",
+    "uikName": "УИК №463",
     "tikTvd": "2032000253959",
-    "tikName": "Окинская"
+    "tikName": "Окинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 464,
     "uikTvd": "403401594867",
+    "uikName": "УИК №464",
     "tikTvd": "2032000253959",
-    "tikName": "Окинская"
+    "tikName": "Окинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 465,
     "uikTvd": "403401594868",
+    "uikName": "УИК №465",
     "tikTvd": "2032000253959",
-    "tikName": "Окинская"
+    "tikName": "Окинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 466,
     "uikTvd": "403401594869",
+    "uikName": "УИК №466",
     "tikTvd": "2032000253959",
-    "tikName": "Окинская"
+    "tikName": "Окинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 467,
     "uikTvd": "403401594870",
+    "uikName": "УИК №467",
     "tikTvd": "2032000253959",
-    "tikName": "Окинская"
+    "tikName": "Окинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 468,
     "uikTvd": "403401594871",
+    "uikName": "УИК №468",
     "tikTvd": "2032000253959",
-    "tikName": "Окинская"
+    "tikName": "Окинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 469,
     "uikTvd": "403401594872",
+    "uikName": "УИК №469",
     "tikTvd": "2032000253959",
-    "tikName": "Окинская"
+    "tikName": "Окинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 470,
     "uikTvd": "403401594873",
+    "uikName": "УИК №470",
     "tikTvd": "2032000253959",
-    "tikName": "Окинская"
+    "tikName": "Окинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 471,
     "uikTvd": "403401594874",
+    "uikName": "УИК №471",
     "tikTvd": "2032000253959",
-    "tikName": "Окинская"
+    "tikName": "Окинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 472,
     "uikTvd": "4034016115301",
+    "uikName": "УИК №472",
     "tikTvd": "2032000253958",
-    "tikName": "Прибайкальская"
+    "tikName": "Прибайкальская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 473,
     "uikTvd": "4034016115302",
+    "uikName": "УИК №473",
     "tikTvd": "2032000253958",
-    "tikName": "Прибайкальская"
+    "tikName": "Прибайкальская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 474,
     "uikTvd": "4034016115303",
+    "uikName": "УИК №474",
     "tikTvd": "2032000253958",
-    "tikName": "Прибайкальская"
+    "tikName": "Прибайкальская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 475,
     "uikTvd": "4034016115304",
+    "uikName": "УИК №475",
     "tikTvd": "2032000253958",
-    "tikName": "Прибайкальская"
+    "tikName": "Прибайкальская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 476,
     "uikTvd": "4034016115305",
+    "uikName": "УИК №476",
     "tikTvd": "2032000253958",
-    "tikName": "Прибайкальская"
+    "tikName": "Прибайкальская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 477,
     "uikTvd": "4034016115306",
+    "uikName": "УИК №477",
     "tikTvd": "2032000253958",
-    "tikName": "Прибайкальская"
+    "tikName": "Прибайкальская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 478,
     "uikTvd": "4034016115307",
+    "uikName": "УИК №478",
     "tikTvd": "2032000253958",
-    "tikName": "Прибайкальская"
+    "tikName": "Прибайкальская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 479,
     "uikTvd": "4034016115308",
+    "uikName": "УИК №479",
     "tikTvd": "2032000253958",
-    "tikName": "Прибайкальская"
+    "tikName": "Прибайкальская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 480,
     "uikTvd": "4034016115309",
+    "uikName": "УИК №480",
     "tikTvd": "2032000253958",
-    "tikName": "Прибайкальская"
+    "tikName": "Прибайкальская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 481,
     "uikTvd": "4034016115310",
+    "uikName": "УИК №481",
     "tikTvd": "2032000253958",
-    "tikName": "Прибайкальская"
+    "tikName": "Прибайкальская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 482,
     "uikTvd": "4034016115311",
+    "uikName": "УИК №482",
     "tikTvd": "2032000253958",
-    "tikName": "Прибайкальская"
+    "tikName": "Прибайкальская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 483,
     "uikTvd": "4034016115312",
+    "uikName": "УИК №483",
     "tikTvd": "2032000253958",
-    "tikName": "Прибайкальская"
+    "tikName": "Прибайкальская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 484,
     "uikTvd": "4034016115313",
+    "uikName": "УИК №484",
     "tikTvd": "2032000253958",
-    "tikName": "Прибайкальская"
+    "tikName": "Прибайкальская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 485,
     "uikTvd": "4034016115314",
+    "uikName": "УИК №485",
     "tikTvd": "2032000253958",
-    "tikName": "Прибайкальская"
+    "tikName": "Прибайкальская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 486,
     "uikTvd": "4034016115315",
+    "uikName": "УИК №486",
     "tikTvd": "2032000253958",
-    "tikName": "Прибайкальская"
+    "tikName": "Прибайкальская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 487,
     "uikTvd": "4034016115316",
+    "uikName": "УИК №487",
     "tikTvd": "2032000253958",
-    "tikName": "Прибайкальская"
+    "tikName": "Прибайкальская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 488,
     "uikTvd": "4034016115317",
+    "uikName": "УИК №488",
     "tikTvd": "2032000253958",
-    "tikName": "Прибайкальская"
+    "tikName": "Прибайкальская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 489,
     "uikTvd": "4034016115318",
+    "uikName": "УИК №489",
     "tikTvd": "2032000253958",
-    "tikName": "Прибайкальская"
+    "tikName": "Прибайкальская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 490,
     "uikTvd": "4034016115319",
+    "uikName": "УИК №490",
     "tikTvd": "2032000253958",
-    "tikName": "Прибайкальская"
+    "tikName": "Прибайкальская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 491,
     "uikTvd": "4034016115320",
+    "uikName": "УИК №491",
     "tikTvd": "2032000253958",
-    "tikName": "Прибайкальская"
+    "tikName": "Прибайкальская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 492,
     "uikTvd": "4034016115321",
+    "uikName": "УИК №492",
     "tikTvd": "2032000253958",
-    "tikName": "Прибайкальская"
+    "tikName": "Прибайкальская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 493,
     "uikTvd": "4034016115322",
+    "uikName": "УИК №493",
     "tikTvd": "2032000253958",
-    "tikName": "Прибайкальская"
+    "tikName": "Прибайкальская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 494,
     "uikTvd": "4034016115323",
+    "uikName": "УИК №494",
     "tikTvd": "2032000253958",
-    "tikName": "Прибайкальская"
+    "tikName": "Прибайкальская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 495,
     "uikTvd": "4034016115324",
+    "uikName": "УИК №495",
     "tikTvd": "2032000253958",
-    "tikName": "Прибайкальская"
+    "tikName": "Прибайкальская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 496,
     "uikTvd": "4034016115325",
+    "uikName": "УИК №496",
     "tikTvd": "2032000253958",
-    "tikName": "Прибайкальская"
+    "tikName": "Прибайкальская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 497,
     "uikTvd": "4034016115326",
+    "uikName": "УИК №497",
     "tikTvd": "2032000253958",
-    "tikName": "Прибайкальская"
+    "tikName": "Прибайкальская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 498,
     "uikTvd": "4034016115327",
+    "uikName": "УИК №498",
     "tikTvd": "2032000253958",
-    "tikName": "Прибайкальская"
+    "tikName": "Прибайкальская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 499,
     "uikTvd": "4034016115328",
+    "uikName": "УИК №499",
     "tikTvd": "2032000253958",
-    "tikName": "Прибайкальская"
+    "tikName": "Прибайкальская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 500,
     "uikTvd": "4034016115329",
+    "uikName": "УИК №500",
     "tikTvd": "2032000253958",
-    "tikName": "Прибайкальская"
+    "tikName": "Прибайкальская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 501,
     "uikTvd": "4034016115330",
+    "uikName": "УИК №501",
     "tikTvd": "2032000253958",
-    "tikName": "Прибайкальская"
+    "tikName": "Прибайкальская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 502,
     "uikTvd": "4034016115331",
+    "uikName": "УИК №502",
     "tikTvd": "2032000253958",
-    "tikName": "Прибайкальская"
+    "tikName": "Прибайкальская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 503,
     "uikTvd": "4034016115332",
+    "uikName": "УИК №503",
     "tikTvd": "2032000253958",
-    "tikName": "Прибайкальская"
+    "tikName": "Прибайкальская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 504,
     "uikTvd": "4034016115333",
+    "uikName": "УИК №504",
     "tikTvd": "2032000253958",
-    "tikName": "Прибайкальская"
+    "tikName": "Прибайкальская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 505,
     "uikTvd": "4034016115334",
+    "uikName": "УИК №505",
     "tikTvd": "2032000253958",
-    "tikName": "Прибайкальская"
+    "tikName": "Прибайкальская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 506,
     "uikTvd": "4034016115335",
+    "uikName": "УИК №506",
     "tikTvd": "2032000253958",
-    "tikName": "Прибайкальская"
+    "tikName": "Прибайкальская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 507,
     "uikTvd": "4034016115336",
+    "uikName": "УИК №507",
     "tikTvd": "2032000253958",
-    "tikName": "Прибайкальская"
+    "tikName": "Прибайкальская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 508,
     "uikTvd": "4034016115337",
+    "uikName": "УИК №508",
     "tikTvd": "2032000253958",
-    "tikName": "Прибайкальская"
+    "tikName": "Прибайкальская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 509,
     "uikTvd": "4034016115338",
+    "uikName": "УИК №509",
     "tikTvd": "2032000253958",
-    "tikName": "Прибайкальская"
+    "tikName": "Прибайкальская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 510,
     "uikTvd": "4034016115339",
+    "uikName": "УИК №510",
     "tikTvd": "2032000253958",
-    "tikName": "Прибайкальская"
+    "tikName": "Прибайкальская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 511,
     "uikTvd": "4034017110388",
+    "uikName": "УИК №511",
     "tikTvd": "2032000253957",
-    "tikName": "Северо-Байкальская"
+    "tikName": "Северо-Байкальская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 512,
     "uikTvd": "4034017110389",
+    "uikName": "УИК №512",
     "tikTvd": "2032000253957",
-    "tikName": "Северо-Байкальская"
+    "tikName": "Северо-Байкальская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 513,
     "uikTvd": "4034017110390",
+    "uikName": "УИК №513",
     "tikTvd": "2032000253957",
-    "tikName": "Северо-Байкальская"
+    "tikName": "Северо-Байкальская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 514,
     "uikTvd": "4034017110391",
+    "uikName": "УИК №514",
     "tikTvd": "2032000253957",
-    "tikName": "Северо-Байкальская"
+    "tikName": "Северо-Байкальская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 515,
     "uikTvd": "4034017110392",
+    "uikName": "УИК №515",
     "tikTvd": "2032000253957",
-    "tikName": "Северо-Байкальская"
+    "tikName": "Северо-Байкальская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 516,
     "uikTvd": "4034017110393",
+    "uikName": "УИК №516",
     "tikTvd": "2032000253957",
-    "tikName": "Северо-Байкальская"
+    "tikName": "Северо-Байкальская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 517,
     "uikTvd": "4034017110394",
+    "uikName": "УИК №517",
     "tikTvd": "2032000253957",
-    "tikName": "Северо-Байкальская"
+    "tikName": "Северо-Байкальская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 518,
     "uikTvd": "4034017110395",
+    "uikName": "УИК №518",
     "tikTvd": "2032000253957",
-    "tikName": "Северо-Байкальская"
+    "tikName": "Северо-Байкальская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 519,
     "uikTvd": "4034017110396",
+    "uikName": "УИК №519",
     "tikTvd": "2032000253957",
-    "tikName": "Северо-Байкальская"
+    "tikName": "Северо-Байкальская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 520,
     "uikTvd": "4034017110397",
+    "uikName": "УИК №520",
     "tikTvd": "2032000253957",
-    "tikName": "Северо-Байкальская"
+    "tikName": "Северо-Байкальская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 521,
     "uikTvd": "4034017110398",
+    "uikName": "УИК №521",
     "tikTvd": "2032000253957",
-    "tikName": "Северо-Байкальская"
+    "tikName": "Северо-Байкальская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 522,
     "uikTvd": "4034017110399",
+    "uikName": "УИК №522",
     "tikTvd": "2032000253957",
-    "tikName": "Северо-Байкальская"
+    "tikName": "Северо-Байкальская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 523,
     "uikTvd": "4034017110400",
+    "uikName": "УИК №523",
     "tikTvd": "2032000253957",
-    "tikName": "Северо-Байкальская"
+    "tikName": "Северо-Байкальская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 524,
     "uikTvd": "4034017110401",
+    "uikName": "УИК №524",
     "tikTvd": "2032000253957",
-    "tikName": "Северо-Байкальская"
+    "tikName": "Северо-Байкальская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 525,
     "uikTvd": "4034017110402",
+    "uikName": "УИК №525",
     "tikTvd": "2032000253957",
-    "tikName": "Северо-Байкальская"
+    "tikName": "Северо-Байкальская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 526,
     "uikTvd": "4034017110403",
+    "uikName": "УИК №526",
     "tikTvd": "2032000253957",
-    "tikName": "Северо-Байкальская"
+    "tikName": "Северо-Байкальская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 527,
     "uikTvd": "4034017110404",
+    "uikName": "УИК №527",
     "tikTvd": "2032000253957",
-    "tikName": "Северо-Байкальская"
+    "tikName": "Северо-Байкальская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 528,
     "uikTvd": "4034017110405",
+    "uikName": "УИК №528",
     "tikTvd": "2032000253957",
-    "tikName": "Северо-Байкальская"
+    "tikName": "Северо-Байкальская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 529,
     "uikTvd": "4034017110406",
+    "uikName": "УИК №529",
     "tikTvd": "2032000253957",
-    "tikName": "Северо-Байкальская"
+    "tikName": "Северо-Байкальская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 530,
     "uikTvd": "403401889321",
+    "uikName": "УИК №530",
     "tikTvd": "2032000253956",
-    "tikName": "Северобайкальская городская"
+    "tikName": "Северобайкальская городская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 531,
     "uikTvd": "403401889322",
+    "uikName": "УИК №531",
     "tikTvd": "2032000253956",
-    "tikName": "Северобайкальская городская"
+    "tikName": "Северобайкальская городская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 532,
     "uikTvd": "403401889323",
+    "uikName": "УИК №532",
     "tikTvd": "2032000253956",
-    "tikName": "Северобайкальская городская"
+    "tikName": "Северобайкальская городская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 533,
     "uikTvd": "403401889324",
+    "uikName": "УИК №533",
     "tikTvd": "2032000253956",
-    "tikName": "Северобайкальская городская"
+    "tikName": "Северобайкальская городская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 534,
     "uikTvd": "403401889325",
+    "uikName": "УИК №534",
     "tikTvd": "2032000253956",
-    "tikName": "Северобайкальская городская"
+    "tikName": "Северобайкальская городская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 535,
     "uikTvd": "403401889326",
+    "uikName": "УИК №535",
     "tikTvd": "2032000253956",
-    "tikName": "Северобайкальская городская"
+    "tikName": "Северобайкальская городская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 536,
     "uikTvd": "403401889327",
+    "uikName": "УИК №536",
     "tikTvd": "2032000253956",
-    "tikName": "Северобайкальская городская"
+    "tikName": "Северобайкальская городская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 537,
     "uikTvd": "403401889328",
+    "uikName": "УИК №537",
     "tikTvd": "2032000253956",
-    "tikName": "Северобайкальская городская"
+    "tikName": "Северобайкальская городская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 538,
     "uikTvd": "403401889329",
+    "uikName": "УИК №538",
     "tikTvd": "2032000253956",
-    "tikName": "Северобайкальская городская"
+    "tikName": "Северобайкальская городская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 539,
     "uikTvd": "403401889330",
+    "uikName": "УИК №539",
     "tikTvd": "2032000253956",
-    "tikName": "Северобайкальская городская"
+    "tikName": "Северобайкальская городская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 540,
     "uikTvd": "403401889331",
+    "uikName": "УИК №540",
     "tikTvd": "2032000253956",
-    "tikName": "Северобайкальская городская"
+    "tikName": "Северобайкальская городская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 541,
     "uikTvd": "4034019128165",
+    "uikName": "УИК №541",
     "tikTvd": "2032000253955",
-    "tikName": "Селенгинская"
+    "tikName": "Селенгинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 542,
     "uikTvd": "4034019128166",
+    "uikName": "УИК №542",
     "tikTvd": "2032000253955",
-    "tikName": "Селенгинская"
+    "tikName": "Селенгинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 543,
     "uikTvd": "4034019128167",
+    "uikName": "УИК №543",
     "tikTvd": "2032000253955",
-    "tikName": "Селенгинская"
+    "tikName": "Селенгинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 544,
     "uikTvd": "4034019128168",
+    "uikName": "УИК №544",
     "tikTvd": "2032000253955",
-    "tikName": "Селенгинская"
+    "tikName": "Селенгинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 545,
     "uikTvd": "4034019128169",
+    "uikName": "УИК №545",
     "tikTvd": "2032000253955",
-    "tikName": "Селенгинская"
+    "tikName": "Селенгинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 546,
     "uikTvd": "4034019128170",
+    "uikName": "УИК №546",
     "tikTvd": "2032000253955",
-    "tikName": "Селенгинская"
+    "tikName": "Селенгинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 547,
     "uikTvd": "4034019128171",
+    "uikName": "УИК №547",
     "tikTvd": "2032000253955",
-    "tikName": "Селенгинская"
+    "tikName": "Селенгинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 548,
     "uikTvd": "4034019128172",
+    "uikName": "УИК №548",
     "tikTvd": "2032000253955",
-    "tikName": "Селенгинская"
+    "tikName": "Селенгинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 549,
     "uikTvd": "4034019128173",
+    "uikName": "УИК №549",
     "tikTvd": "2032000253955",
-    "tikName": "Селенгинская"
+    "tikName": "Селенгинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 550,
     "uikTvd": "4034019128174",
+    "uikName": "УИК №550",
     "tikTvd": "2032000253955",
-    "tikName": "Селенгинская"
+    "tikName": "Селенгинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 551,
     "uikTvd": "4034019128175",
+    "uikName": "УИК №551",
     "tikTvd": "2032000253955",
-    "tikName": "Селенгинская"
+    "tikName": "Селенгинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 552,
     "uikTvd": "4034019128176",
+    "uikName": "УИК №552",
     "tikTvd": "2032000253955",
-    "tikName": "Селенгинская"
+    "tikName": "Селенгинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 553,
     "uikTvd": "4034019128177",
+    "uikName": "УИК №553",
     "tikTvd": "2032000253955",
-    "tikName": "Селенгинская"
+    "tikName": "Селенгинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 554,
     "uikTvd": "4034019128178",
+    "uikName": "УИК №554",
     "tikTvd": "2032000253955",
-    "tikName": "Селенгинская"
+    "tikName": "Селенгинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 555,
     "uikTvd": "4034019128179",
+    "uikName": "УИК №555",
     "tikTvd": "2032000253955",
-    "tikName": "Селенгинская"
+    "tikName": "Селенгинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 556,
     "uikTvd": "4034019128180",
+    "uikName": "УИК №556",
     "tikTvd": "2032000253955",
-    "tikName": "Селенгинская"
+    "tikName": "Селенгинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 557,
     "uikTvd": "4034019128181",
+    "uikName": "УИК №557",
     "tikTvd": "2032000253955",
-    "tikName": "Селенгинская"
+    "tikName": "Селенгинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 558,
     "uikTvd": "4034019128182",
+    "uikName": "УИК №558",
     "tikTvd": "2032000253955",
-    "tikName": "Селенгинская"
+    "tikName": "Селенгинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 559,
     "uikTvd": "4034019128183",
+    "uikName": "УИК №559",
     "tikTvd": "2032000253955",
-    "tikName": "Селенгинская"
+    "tikName": "Селенгинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 560,
     "uikTvd": "4034019128184",
+    "uikName": "УИК №560",
     "tikTvd": "2032000253955",
-    "tikName": "Селенгинская"
+    "tikName": "Селенгинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 561,
     "uikTvd": "4034019128185",
+    "uikName": "УИК №561",
     "tikTvd": "2032000253955",
-    "tikName": "Селенгинская"
+    "tikName": "Селенгинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 562,
     "uikTvd": "4034019128186",
+    "uikName": "УИК №562",
     "tikTvd": "2032000253955",
-    "tikName": "Селенгинская"
+    "tikName": "Селенгинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 563,
     "uikTvd": "4034019128187",
+    "uikName": "УИК №563",
     "tikTvd": "2032000253955",
-    "tikName": "Селенгинская"
+    "tikName": "Селенгинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 564,
     "uikTvd": "4034019128188",
+    "uikName": "УИК №564",
     "tikTvd": "2032000253955",
-    "tikName": "Селенгинская"
+    "tikName": "Селенгинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 565,
     "uikTvd": "4034019128189",
+    "uikName": "УИК №565",
     "tikTvd": "2032000253955",
-    "tikName": "Селенгинская"
+    "tikName": "Селенгинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 566,
     "uikTvd": "4034019128190",
+    "uikName": "УИК №566",
     "tikTvd": "2032000253955",
-    "tikName": "Селенгинская"
+    "tikName": "Селенгинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 567,
     "uikTvd": "4034019128191",
+    "uikName": "УИК №567",
     "tikTvd": "2032000253955",
-    "tikName": "Селенгинская"
+    "tikName": "Селенгинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 568,
     "uikTvd": "4034019128192",
+    "uikName": "УИК №568",
     "tikTvd": "2032000253955",
-    "tikName": "Селенгинская"
+    "tikName": "Селенгинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 569,
     "uikTvd": "4034019128193",
+    "uikName": "УИК №569",
     "tikTvd": "2032000253955",
-    "tikName": "Селенгинская"
+    "tikName": "Селенгинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 570,
     "uikTvd": "4034019128194",
+    "uikName": "УИК №570",
     "tikTvd": "2032000253955",
-    "tikName": "Селенгинская"
+    "tikName": "Селенгинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 571,
     "uikTvd": "4034019128195",
+    "uikName": "УИК №571",
     "tikTvd": "2032000253955",
-    "tikName": "Селенгинская"
+    "tikName": "Селенгинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 572,
     "uikTvd": "4034019128196",
+    "uikName": "УИК №572",
     "tikTvd": "2032000253955",
-    "tikName": "Селенгинская"
+    "tikName": "Селенгинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 573,
     "uikTvd": "4034019128197",
+    "uikName": "УИК №573",
     "tikTvd": "2032000253955",
-    "tikName": "Селенгинская"
+    "tikName": "Селенгинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 574,
     "uikTvd": "4034019128198",
+    "uikName": "УИК №574",
     "tikTvd": "2032000253955",
-    "tikName": "Селенгинская"
+    "tikName": "Селенгинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 575,
     "uikTvd": "4034019128199",
+    "uikName": "УИК №575",
     "tikTvd": "2032000253955",
-    "tikName": "Селенгинская"
+    "tikName": "Селенгинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 576,
     "uikTvd": "4034019128200",
+    "uikName": "УИК №576",
     "tikTvd": "2032000253955",
-    "tikName": "Селенгинская"
+    "tikName": "Селенгинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 577,
     "uikTvd": "4034019128201",
+    "uikName": "УИК №577",
     "tikTvd": "2032000253955",
-    "tikName": "Селенгинская"
+    "tikName": "Селенгинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 578,
     "uikTvd": "403402098009",
+    "uikName": "УИК №578",
     "tikTvd": "2032000253954",
-    "tikName": "Тарбагатайская ТИК"
+    "tikName": "Тарбагатайская ТИК",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 579,
     "uikTvd": "403402098010",
+    "uikName": "УИК №579",
     "tikTvd": "2032000253954",
-    "tikName": "Тарбагатайская ТИК"
+    "tikName": "Тарбагатайская ТИК",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 580,
     "uikTvd": "403402098011",
+    "uikName": "УИК №580",
     "tikTvd": "2032000253954",
-    "tikName": "Тарбагатайская ТИК"
+    "tikName": "Тарбагатайская ТИК",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 581,
     "uikTvd": "403402098012",
+    "uikName": "УИК №581",
     "tikTvd": "2032000253954",
-    "tikName": "Тарбагатайская ТИК"
+    "tikName": "Тарбагатайская ТИК",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 582,
     "uikTvd": "403402098013",
+    "uikName": "УИК №582",
     "tikTvd": "2032000253954",
-    "tikName": "Тарбагатайская ТИК"
+    "tikName": "Тарбагатайская ТИК",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 583,
     "uikTvd": "403402098014",
+    "uikName": "УИК №583",
     "tikTvd": "2032000253954",
-    "tikName": "Тарбагатайская ТИК"
+    "tikName": "Тарбагатайская ТИК",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 584,
     "uikTvd": "403402098015",
+    "uikName": "УИК №584",
     "tikTvd": "2032000253954",
-    "tikName": "Тарбагатайская ТИК"
+    "tikName": "Тарбагатайская ТИК",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 585,
     "uikTvd": "403402098016",
+    "uikName": "УИК №585",
     "tikTvd": "2032000253954",
-    "tikName": "Тарбагатайская ТИК"
+    "tikName": "Тарбагатайская ТИК",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 586,
     "uikTvd": "403402098017",
+    "uikName": "УИК №586",
     "tikTvd": "2032000253954",
-    "tikName": "Тарбагатайская ТИК"
+    "tikName": "Тарбагатайская ТИК",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 587,
     "uikTvd": "403402098018",
+    "uikName": "УИК №587",
     "tikTvd": "2032000253954",
-    "tikName": "Тарбагатайская ТИК"
+    "tikName": "Тарбагатайская ТИК",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 588,
     "uikTvd": "403402098019",
+    "uikName": "УИК №588",
     "tikTvd": "2032000253954",
-    "tikName": "Тарбагатайская ТИК"
+    "tikName": "Тарбагатайская ТИК",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 589,
     "uikTvd": "403402098020",
+    "uikName": "УИК №589",
     "tikTvd": "2032000253954",
-    "tikName": "Тарбагатайская ТИК"
+    "tikName": "Тарбагатайская ТИК",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 590,
     "uikTvd": "403402098021",
+    "uikName": "УИК №590",
     "tikTvd": "2032000253954",
-    "tikName": "Тарбагатайская ТИК"
+    "tikName": "Тарбагатайская ТИК",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 591,
     "uikTvd": "403402098022",
+    "uikName": "УИК №591",
     "tikTvd": "2032000253954",
-    "tikName": "Тарбагатайская ТИК"
+    "tikName": "Тарбагатайская ТИК",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 592,
     "uikTvd": "403402098023",
+    "uikName": "УИК №592",
     "tikTvd": "2032000253954",
-    "tikName": "Тарбагатайская ТИК"
+    "tikName": "Тарбагатайская ТИК",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 593,
     "uikTvd": "403402098024",
+    "uikName": "УИК №593",
     "tikTvd": "2032000253954",
-    "tikName": "Тарбагатайская ТИК"
+    "tikName": "Тарбагатайская ТИК",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 594,
     "uikTvd": "403402098025",
+    "uikName": "УИК №594",
     "tikTvd": "2032000253954",
-    "tikName": "Тарбагатайская ТИК"
+    "tikName": "Тарбагатайская ТИК",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 595,
     "uikTvd": "403402098026",
+    "uikName": "УИК №595",
     "tikTvd": "2032000253954",
-    "tikName": "Тарбагатайская ТИК"
+    "tikName": "Тарбагатайская ТИК",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 596,
     "uikTvd": "403402098027",
+    "uikName": "УИК №596",
     "tikTvd": "2032000253954",
-    "tikName": "Тарбагатайская ТИК"
+    "tikName": "Тарбагатайская ТИК",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 597,
     "uikTvd": "403402098028",
+    "uikName": "УИК №597",
     "tikTvd": "2032000253954",
-    "tikName": "Тарбагатайская ТИК"
+    "tikName": "Тарбагатайская ТИК",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 598,
     "uikTvd": "4034021113855",
+    "uikName": "УИК №598",
     "tikTvd": "2032000253953",
-    "tikName": "Тункинская"
+    "tikName": "Тункинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 599,
     "uikTvd": "4034021113856",
+    "uikName": "УИК №599",
     "tikTvd": "2032000253953",
-    "tikName": "Тункинская"
+    "tikName": "Тункинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 600,
     "uikTvd": "4034021113857",
+    "uikName": "УИК №600",
     "tikTvd": "2032000253953",
-    "tikName": "Тункинская"
+    "tikName": "Тункинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 601,
     "uikTvd": "4034021113858",
+    "uikName": "УИК №601",
     "tikTvd": "2032000253953",
-    "tikName": "Тункинская"
+    "tikName": "Тункинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 602,
     "uikTvd": "4034021113859",
+    "uikName": "УИК №602",
     "tikTvd": "2032000253953",
-    "tikName": "Тункинская"
+    "tikName": "Тункинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 603,
     "uikTvd": "4034021113860",
+    "uikName": "УИК №603",
     "tikTvd": "2032000253953",
-    "tikName": "Тункинская"
+    "tikName": "Тункинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 604,
     "uikTvd": "4034021113861",
+    "uikName": "УИК №604",
     "tikTvd": "2032000253953",
-    "tikName": "Тункинская"
+    "tikName": "Тункинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 605,
     "uikTvd": "4034021113862",
+    "uikName": "УИК №605",
     "tikTvd": "2032000253953",
-    "tikName": "Тункинская"
+    "tikName": "Тункинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 606,
     "uikTvd": "4034021113863",
+    "uikName": "УИК №606",
     "tikTvd": "2032000253953",
-    "tikName": "Тункинская"
+    "tikName": "Тункинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 607,
     "uikTvd": "4034021113864",
+    "uikName": "УИК №607",
     "tikTvd": "2032000253953",
-    "tikName": "Тункинская"
+    "tikName": "Тункинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 608,
     "uikTvd": "4034021113865",
+    "uikName": "УИК №608",
     "tikTvd": "2032000253953",
-    "tikName": "Тункинская"
+    "tikName": "Тункинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 609,
     "uikTvd": "4034021113866",
+    "uikName": "УИК №609",
     "tikTvd": "2032000253953",
-    "tikName": "Тункинская"
+    "tikName": "Тункинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 610,
     "uikTvd": "4034021113867",
+    "uikName": "УИК №610",
     "tikTvd": "2032000253953",
-    "tikName": "Тункинская"
+    "tikName": "Тункинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 611,
     "uikTvd": "4034021113868",
+    "uikName": "УИК №611",
     "tikTvd": "2032000253953",
-    "tikName": "Тункинская"
+    "tikName": "Тункинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 612,
     "uikTvd": "4034021113869",
+    "uikName": "УИК №612",
     "tikTvd": "2032000253953",
-    "tikName": "Тункинская"
+    "tikName": "Тункинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 613,
     "uikTvd": "4034021113870",
+    "uikName": "УИК №613",
     "tikTvd": "2032000253953",
-    "tikName": "Тункинская"
+    "tikName": "Тункинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 614,
     "uikTvd": "4034021113871",
+    "uikName": "УИК №614",
     "tikTvd": "2032000253953",
-    "tikName": "Тункинская"
+    "tikName": "Тункинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 615,
     "uikTvd": "4034021113872",
+    "uikName": "УИК №615",
     "tikTvd": "2032000253953",
-    "tikName": "Тункинская"
+    "tikName": "Тункинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 616,
     "uikTvd": "4034021113873",
+    "uikName": "УИК №616",
     "tikTvd": "2032000253953",
-    "tikName": "Тункинская"
+    "tikName": "Тункинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 617,
     "uikTvd": "4034021113874",
+    "uikName": "УИК №617",
     "tikTvd": "2032000253953",
-    "tikName": "Тункинская"
+    "tikName": "Тункинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 618,
     "uikTvd": "4034021113875",
+    "uikName": "УИК №618",
     "tikTvd": "2032000253953",
-    "tikName": "Тункинская"
+    "tikName": "Тункинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 619,
     "uikTvd": "4034021113876",
+    "uikName": "УИК №619",
     "tikTvd": "2032000253953",
-    "tikName": "Тункинская"
+    "tikName": "Тункинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 620,
     "uikTvd": "4034021113877",
+    "uikName": "УИК №620",
     "tikTvd": "2032000253953",
-    "tikName": "Тункинская"
+    "tikName": "Тункинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 621,
     "uikTvd": "4034021113878",
+    "uikName": "УИК №621",
     "tikTvd": "2032000253953",
-    "tikName": "Тункинская"
+    "tikName": "Тункинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 622,
     "uikTvd": "4034021113879",
+    "uikName": "УИК №622",
     "tikTvd": "2032000253953",
-    "tikName": "Тункинская"
+    "tikName": "Тункинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 623,
     "uikTvd": "4034021113880",
+    "uikName": "УИК №623",
     "tikTvd": "2032000253953",
-    "tikName": "Тункинская"
+    "tikName": "Тункинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 624,
     "uikTvd": "4034021113881",
+    "uikName": "УИК №624",
     "tikTvd": "2032000253953",
-    "tikName": "Тункинская"
+    "tikName": "Тункинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 625,
     "uikTvd": "4034021113882",
+    "uikName": "УИК №625",
     "tikTvd": "2032000253953",
-    "tikName": "Тункинская"
+    "tikName": "Тункинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 626,
     "uikTvd": "4034021113883",
+    "uikName": "УИК №626",
     "tikTvd": "2032000253953",
-    "tikName": "Тункинская"
+    "tikName": "Тункинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 627,
     "uikTvd": "4034021113884",
+    "uikName": "УИК №627",
     "tikTvd": "2032000253953",
-    "tikName": "Тункинская"
+    "tikName": "Тункинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 628,
     "uikTvd": "4034021113885",
+    "uikName": "УИК №628",
     "tikTvd": "2032000253953",
-    "tikName": "Тункинская"
+    "tikName": "Тункинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 629,
     "uikTvd": "4034021113886",
+    "uikName": "УИК №629",
     "tikTvd": "2032000253953",
-    "tikName": "Тункинская"
+    "tikName": "Тункинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 630,
     "uikTvd": "4034021113887",
+    "uikName": "УИК №630",
     "tikTvd": "2032000253953",
-    "tikName": "Тункинская"
+    "tikName": "Тункинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 631,
     "uikTvd": "4034021113888",
+    "uikName": "УИК №631",
     "tikTvd": "2032000253953",
-    "tikName": "Тункинская"
+    "tikName": "Тункинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 632,
     "uikTvd": "4034021113889",
+    "uikName": "УИК №632",
     "tikTvd": "2032000253953",
-    "tikName": "Тункинская"
+    "tikName": "Тункинская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 633,
     "uikTvd": "403402291475",
+    "uikName": "УИК №633",
     "tikTvd": "2032000253952",
-    "tikName": "Улан-Удэ, Железнодорожная"
+    "tikName": "Улан-Удэ, Железнодорожная",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 634,
     "uikTvd": "403402291477",
+    "uikName": "УИК №634",
     "tikTvd": "2032000253952",
-    "tikName": "Улан-Удэ, Железнодорожная"
+    "tikName": "Улан-Удэ, Железнодорожная",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 635,
     "uikTvd": "403402291478",
+    "uikName": "УИК №635",
     "tikTvd": "2032000253952",
-    "tikName": "Улан-Удэ, Железнодорожная"
+    "tikName": "Улан-Удэ, Железнодорожная",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 636,
     "uikTvd": "403402291479",
+    "uikName": "УИК №636",
     "tikTvd": "2032000253952",
-    "tikName": "Улан-Удэ, Железнодорожная"
+    "tikName": "Улан-Удэ, Железнодорожная",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 637,
     "uikTvd": "403402291480",
+    "uikName": "УИК №637",
     "tikTvd": "2032000253952",
-    "tikName": "Улан-Удэ, Железнодорожная"
+    "tikName": "Улан-Удэ, Железнодорожная",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 638,
     "uikTvd": "403402291481",
+    "uikName": "УИК №638",
     "tikTvd": "2032000253952",
-    "tikName": "Улан-Удэ, Железнодорожная"
+    "tikName": "Улан-Удэ, Железнодорожная",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 639,
     "uikTvd": "403402291482",
+    "uikName": "УИК №639",
     "tikTvd": "2032000253952",
-    "tikName": "Улан-Удэ, Железнодорожная"
+    "tikName": "Улан-Удэ, Железнодорожная",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 640,
     "uikTvd": "403402291483",
+    "uikName": "УИК №640",
     "tikTvd": "2032000253952",
-    "tikName": "Улан-Удэ, Железнодорожная"
+    "tikName": "Улан-Удэ, Железнодорожная",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 641,
     "uikTvd": "403402291484",
+    "uikName": "УИК №641",
     "tikTvd": "2032000253952",
-    "tikName": "Улан-Удэ, Железнодорожная"
+    "tikName": "Улан-Удэ, Железнодорожная",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 642,
     "uikTvd": "403402291485",
+    "uikName": "УИК №642",
     "tikTvd": "2032000253952",
-    "tikName": "Улан-Удэ, Железнодорожная"
+    "tikName": "Улан-Удэ, Железнодорожная",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 643,
     "uikTvd": "403402291486",
+    "uikName": "УИК №643",
     "tikTvd": "2032000253952",
-    "tikName": "Улан-Удэ, Железнодорожная"
+    "tikName": "Улан-Удэ, Железнодорожная",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 644,
     "uikTvd": "403402291487",
+    "uikName": "УИК №644",
     "tikTvd": "2032000253952",
-    "tikName": "Улан-Удэ, Железнодорожная"
+    "tikName": "Улан-Удэ, Железнодорожная",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 645,
     "uikTvd": "403402291488",
+    "uikName": "УИК №645",
     "tikTvd": "2032000253952",
-    "tikName": "Улан-Удэ, Железнодорожная"
+    "tikName": "Улан-Удэ, Железнодорожная",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 646,
     "uikTvd": "403402291489",
+    "uikName": "УИК №646",
     "tikTvd": "2032000253952",
-    "tikName": "Улан-Удэ, Железнодорожная"
+    "tikName": "Улан-Удэ, Железнодорожная",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 647,
     "uikTvd": "403402291490",
+    "uikName": "УИК №647",
     "tikTvd": "2032000253952",
-    "tikName": "Улан-Удэ, Железнодорожная"
+    "tikName": "Улан-Удэ, Железнодорожная",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 648,
     "uikTvd": "403402291491",
+    "uikName": "УИК №648",
     "tikTvd": "2032000253952",
-    "tikName": "Улан-Удэ, Железнодорожная"
+    "tikName": "Улан-Удэ, Железнодорожная",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 649,
     "uikTvd": "403402291492",
+    "uikName": "УИК №649",
     "tikTvd": "2032000253952",
-    "tikName": "Улан-Удэ, Железнодорожная"
+    "tikName": "Улан-Удэ, Железнодорожная",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 650,
     "uikTvd": "403402291493",
+    "uikName": "УИК №650",
     "tikTvd": "2032000253952",
-    "tikName": "Улан-Удэ, Железнодорожная"
+    "tikName": "Улан-Удэ, Железнодорожная",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 651,
     "uikTvd": "403402291494",
+    "uikName": "УИК №651",
     "tikTvd": "2032000253952",
-    "tikName": "Улан-Удэ, Железнодорожная"
+    "tikName": "Улан-Удэ, Железнодорожная",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 652,
     "uikTvd": "403402291495",
+    "uikName": "УИК №652",
     "tikTvd": "2032000253952",
-    "tikName": "Улан-Удэ, Железнодорожная"
+    "tikName": "Улан-Удэ, Железнодорожная",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 653,
     "uikTvd": "403402291496",
+    "uikName": "УИК №653",
     "tikTvd": "2032000253952",
-    "tikName": "Улан-Удэ, Железнодорожная"
+    "tikName": "Улан-Удэ, Железнодорожная",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 654,
     "uikTvd": "403402291497",
+    "uikName": "УИК №654",
     "tikTvd": "2032000253952",
-    "tikName": "Улан-Удэ, Железнодорожная"
+    "tikName": "Улан-Удэ, Железнодорожная",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 655,
     "uikTvd": "403402291498",
+    "uikName": "УИК №655",
     "tikTvd": "2032000253952",
-    "tikName": "Улан-Удэ, Железнодорожная"
+    "tikName": "Улан-Удэ, Железнодорожная",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 656,
     "uikTvd": "403402291499",
+    "uikName": "УИК №656",
     "tikTvd": "2032000253952",
-    "tikName": "Улан-Удэ, Железнодорожная"
+    "tikName": "Улан-Удэ, Железнодорожная",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 657,
     "uikTvd": "403402291500",
+    "uikName": "УИК №657",
     "tikTvd": "2032000253952",
-    "tikName": "Улан-Удэ, Железнодорожная"
+    "tikName": "Улан-Удэ, Железнодорожная",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 658,
     "uikTvd": "403402291501",
+    "uikName": "УИК №658",
     "tikTvd": "2032000253952",
-    "tikName": "Улан-Удэ, Железнодорожная"
+    "tikName": "Улан-Удэ, Железнодорожная",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 659,
     "uikTvd": "403402291502",
+    "uikName": "УИК №659",
     "tikTvd": "2032000253952",
-    "tikName": "Улан-Удэ, Железнодорожная"
+    "tikName": "Улан-Удэ, Железнодорожная",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 660,
     "uikTvd": "403402291503",
+    "uikName": "УИК №660",
     "tikTvd": "2032000253952",
-    "tikName": "Улан-Удэ, Железнодорожная"
+    "tikName": "Улан-Удэ, Железнодорожная",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 661,
     "uikTvd": "403402291504",
+    "uikName": "УИК №661",
     "tikTvd": "2032000253952",
-    "tikName": "Улан-Удэ, Железнодорожная"
+    "tikName": "Улан-Удэ, Железнодорожная",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 662,
     "uikTvd": "403402291505",
+    "uikName": "УИК №662",
     "tikTvd": "2032000253952",
-    "tikName": "Улан-Удэ, Железнодорожная"
+    "tikName": "Улан-Удэ, Железнодорожная",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 663,
     "uikTvd": "403402291506",
+    "uikName": "УИК №663",
     "tikTvd": "2032000253952",
-    "tikName": "Улан-Удэ, Железнодорожная"
+    "tikName": "Улан-Удэ, Железнодорожная",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 664,
     "uikTvd": "403402291507",
+    "uikName": "УИК №664",
     "tikTvd": "2032000253952",
-    "tikName": "Улан-Удэ, Железнодорожная"
+    "tikName": "Улан-Удэ, Железнодорожная",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 665,
     "uikTvd": "403402291508",
+    "uikName": "УИК №665",
     "tikTvd": "2032000253952",
-    "tikName": "Улан-Удэ, Железнодорожная"
+    "tikName": "Улан-Удэ, Железнодорожная",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 666,
     "uikTvd": "403402291509",
+    "uikName": "УИК №666",
     "tikTvd": "2032000253952",
-    "tikName": "Улан-Удэ, Железнодорожная"
+    "tikName": "Улан-Удэ, Железнодорожная",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 667,
     "uikTvd": "403402291510",
+    "uikName": "УИК №667",
     "tikTvd": "2032000253952",
-    "tikName": "Улан-Удэ, Железнодорожная"
+    "tikName": "Улан-Удэ, Железнодорожная",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 668,
     "uikTvd": "403402291511",
+    "uikName": "УИК №668",
     "tikTvd": "2032000253952",
-    "tikName": "Улан-Удэ, Железнодорожная"
+    "tikName": "Улан-Удэ, Железнодорожная",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 669,
     "uikTvd": "403402291512",
+    "uikName": "УИК №669",
     "tikTvd": "2032000253952",
-    "tikName": "Улан-Удэ, Железнодорожная"
+    "tikName": "Улан-Удэ, Железнодорожная",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 670,
     "uikTvd": "403402291513",
+    "uikName": "УИК №670",
     "tikTvd": "2032000253952",
-    "tikName": "Улан-Удэ, Железнодорожная"
+    "tikName": "Улан-Удэ, Железнодорожная",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 671,
     "uikTvd": "403402291514",
+    "uikName": "УИК №671",
     "tikTvd": "2032000253952",
-    "tikName": "Улан-Удэ, Железнодорожная"
+    "tikName": "Улан-Удэ, Железнодорожная",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 672,
     "uikTvd": "403402291515",
+    "uikName": "УИК №672",
     "tikTvd": "2032000253952",
-    "tikName": "Улан-Удэ, Железнодорожная"
+    "tikName": "Улан-Удэ, Железнодорожная",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 673,
     "uikTvd": "403402291516",
+    "uikName": "УИК №673",
     "tikTvd": "2032000253952",
-    "tikName": "Улан-Удэ, Железнодорожная"
+    "tikName": "Улан-Удэ, Железнодорожная",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 674,
     "uikTvd": "403402291517",
+    "uikName": "УИК №674",
     "tikTvd": "2032000253952",
-    "tikName": "Улан-Удэ, Железнодорожная"
+    "tikName": "Улан-Удэ, Железнодорожная",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 675,
     "uikTvd": "403402291518",
+    "uikName": "УИК №675",
     "tikTvd": "2032000253952",
-    "tikName": "Улан-Удэ, Железнодорожная"
+    "tikName": "Улан-Удэ, Железнодорожная",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 676,
     "uikTvd": "403402291519",
+    "uikName": "УИК №676",
     "tikTvd": "2032000253952",
-    "tikName": "Улан-Удэ, Железнодорожная"
+    "tikName": "Улан-Удэ, Железнодорожная",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 677,
     "uikTvd": "403402291520",
+    "uikName": "УИК №677",
     "tikTvd": "2032000253952",
-    "tikName": "Улан-Удэ, Железнодорожная"
+    "tikName": "Улан-Удэ, Железнодорожная",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 678,
     "uikTvd": "403402291521",
+    "uikName": "УИК №678",
     "tikTvd": "2032000253952",
-    "tikName": "Улан-Удэ, Железнодорожная"
+    "tikName": "Улан-Удэ, Железнодорожная",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 679,
     "uikTvd": "403402291522",
+    "uikName": "УИК №679",
     "tikTvd": "2032000253952",
-    "tikName": "Улан-Удэ, Железнодорожная"
+    "tikName": "Улан-Удэ, Железнодорожная",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 680,
     "uikTvd": "403402291523",
+    "uikName": "УИК №680",
     "tikTvd": "2032000253952",
-    "tikName": "Улан-Удэ, Железнодорожная"
+    "tikName": "Улан-Удэ, Железнодорожная",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 681,
     "uikTvd": "403402291524",
+    "uikName": "УИК №681",
     "tikTvd": "2032000253952",
-    "tikName": "Улан-Удэ, Железнодорожная"
+    "tikName": "Улан-Удэ, Железнодорожная",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 682,
     "uikTvd": "403402291525",
+    "uikName": "УИК №682",
     "tikTvd": "2032000253952",
-    "tikName": "Улан-Удэ, Железнодорожная"
+    "tikName": "Улан-Удэ, Железнодорожная",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 683,
     "uikTvd": "403402291526",
+    "uikName": "УИК №683",
     "tikTvd": "2032000253952",
-    "tikName": "Улан-Удэ, Железнодорожная"
+    "tikName": "Улан-Удэ, Железнодорожная",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 684,
     "uikTvd": "403402291527",
+    "uikName": "УИК №684",
     "tikTvd": "2032000253952",
-    "tikName": "Улан-Удэ, Железнодорожная"
+    "tikName": "Улан-Удэ, Железнодорожная",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 685,
     "uikTvd": "403402291528",
+    "uikName": "УИК №685",
     "tikTvd": "2032000253952",
-    "tikName": "Улан-Удэ, Железнодорожная"
+    "tikName": "Улан-Удэ, Железнодорожная",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 686,
     "uikTvd": "403402291529",
+    "uikName": "УИК №686",
     "tikTvd": "2032000253952",
-    "tikName": "Улан-Удэ, Железнодорожная"
+    "tikName": "Улан-Удэ, Железнодорожная",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 687,
     "uikTvd": "403402291530",
+    "uikName": "УИК №687",
     "tikTvd": "2032000253952",
-    "tikName": "Улан-Удэ, Железнодорожная"
+    "tikName": "Улан-Удэ, Железнодорожная",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 688,
     "uikTvd": "403402291531",
+    "uikName": "УИК №688",
     "tikTvd": "2032000253952",
-    "tikName": "Улан-Удэ, Железнодорожная"
+    "tikName": "Улан-Удэ, Железнодорожная",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 689,
     "uikTvd": "403402291532",
+    "uikName": "УИК №689",
     "tikTvd": "2032000253952",
-    "tikName": "Улан-Удэ, Железнодорожная"
+    "tikName": "Улан-Удэ, Железнодорожная",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 690,
     "uikTvd": "403402291533",
+    "uikName": "УИК №690",
     "tikTvd": "2032000253952",
-    "tikName": "Улан-Удэ, Железнодорожная"
+    "tikName": "Улан-Удэ, Железнодорожная",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 691,
     "uikTvd": "403402291534",
+    "uikName": "УИК №691",
     "tikTvd": "2032000253952",
-    "tikName": "Улан-Удэ, Железнодорожная"
+    "tikName": "Улан-Удэ, Железнодорожная",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 692,
     "uikTvd": "403402291535",
+    "uikName": "УИК №692",
     "tikTvd": "2032000253952",
-    "tikName": "Улан-Удэ, Железнодорожная"
+    "tikName": "Улан-Удэ, Железнодорожная",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 693,
     "uikTvd": "403402291536",
+    "uikName": "УИК №693",
     "tikTvd": "2032000253952",
-    "tikName": "Улан-Удэ, Железнодорожная"
+    "tikName": "Улан-Удэ, Железнодорожная",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 694,
     "uikTvd": "403402291537",
+    "uikName": "УИК №694",
     "tikTvd": "2032000253952",
-    "tikName": "Улан-Удэ, Железнодорожная"
+    "tikName": "Улан-Удэ, Железнодорожная",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 695,
     "uikTvd": "403402398292",
+    "uikName": "УИК №695",
     "tikTvd": "2032000253951",
-    "tikName": "Улан-Удэ, Октябрьская"
+    "tikName": "Улан-Удэ, Октябрьская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 696,
     "uikTvd": "403402398293",
+    "uikName": "УИК №696",
     "tikTvd": "2032000253951",
-    "tikName": "Улан-Удэ, Октябрьская"
+    "tikName": "Улан-Удэ, Октябрьская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 697,
     "uikTvd": "403402398294",
+    "uikName": "УИК №697",
     "tikTvd": "2032000253951",
-    "tikName": "Улан-Удэ, Октябрьская"
+    "tikName": "Улан-Удэ, Октябрьская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 698,
     "uikTvd": "403402398295",
+    "uikName": "УИК №698",
     "tikTvd": "2032000253951",
-    "tikName": "Улан-Удэ, Октябрьская"
+    "tikName": "Улан-Удэ, Октябрьская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 699,
     "uikTvd": "403402398296",
+    "uikName": "УИК №699",
     "tikTvd": "2032000253951",
-    "tikName": "Улан-Удэ, Октябрьская"
+    "tikName": "Улан-Удэ, Октябрьская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 700,
     "uikTvd": "403402398297",
+    "uikName": "УИК №700",
     "tikTvd": "2032000253951",
-    "tikName": "Улан-Удэ, Октябрьская"
+    "tikName": "Улан-Удэ, Октябрьская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 701,
     "uikTvd": "403402398298",
+    "uikName": "УИК №701",
     "tikTvd": "2032000253951",
-    "tikName": "Улан-Удэ, Октябрьская"
+    "tikName": "Улан-Удэ, Октябрьская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 702,
     "uikTvd": "403402398299",
+    "uikName": "УИК №702",
     "tikTvd": "2032000253951",
-    "tikName": "Улан-Удэ, Октябрьская"
+    "tikName": "Улан-Удэ, Октябрьская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 703,
     "uikTvd": "403402398300",
+    "uikName": "УИК №703",
     "tikTvd": "2032000253951",
-    "tikName": "Улан-Удэ, Октябрьская"
+    "tikName": "Улан-Удэ, Октябрьская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 704,
     "uikTvd": "403402398301",
+    "uikName": "УИК №704",
     "tikTvd": "2032000253951",
-    "tikName": "Улан-Удэ, Октябрьская"
+    "tikName": "Улан-Удэ, Октябрьская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 705,
     "uikTvd": "403402398302",
+    "uikName": "УИК №705",
     "tikTvd": "2032000253951",
-    "tikName": "Улан-Удэ, Октябрьская"
+    "tikName": "Улан-Удэ, Октябрьская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 706,
     "uikTvd": "403402398303",
+    "uikName": "УИК №706",
     "tikTvd": "2032000253951",
-    "tikName": "Улан-Удэ, Октябрьская"
+    "tikName": "Улан-Удэ, Октябрьская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 707,
     "uikTvd": "403402398304",
+    "uikName": "УИК №707",
     "tikTvd": "2032000253951",
-    "tikName": "Улан-Удэ, Октябрьская"
+    "tikName": "Улан-Удэ, Октябрьская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 708,
     "uikTvd": "403402398305",
+    "uikName": "УИК №708",
     "tikTvd": "2032000253951",
-    "tikName": "Улан-Удэ, Октябрьская"
+    "tikName": "Улан-Удэ, Октябрьская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 709,
     "uikTvd": "403402398306",
+    "uikName": "УИК №709",
     "tikTvd": "2032000253951",
-    "tikName": "Улан-Удэ, Октябрьская"
+    "tikName": "Улан-Удэ, Октябрьская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 710,
     "uikTvd": "403402398307",
+    "uikName": "УИК №710",
     "tikTvd": "2032000253951",
-    "tikName": "Улан-Удэ, Октябрьская"
+    "tikName": "Улан-Удэ, Октябрьская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 711,
     "uikTvd": "403402398308",
+    "uikName": "УИК №711",
     "tikTvd": "2032000253951",
-    "tikName": "Улан-Удэ, Октябрьская"
+    "tikName": "Улан-Удэ, Октябрьская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 712,
     "uikTvd": "403402398309",
+    "uikName": "УИК №712",
     "tikTvd": "2032000253951",
-    "tikName": "Улан-Удэ, Октябрьская"
+    "tikName": "Улан-Удэ, Октябрьская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 713,
     "uikTvd": "403402398310",
+    "uikName": "УИК №713",
     "tikTvd": "2032000253951",
-    "tikName": "Улан-Удэ, Октябрьская"
+    "tikName": "Улан-Удэ, Октябрьская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 714,
     "uikTvd": "403402398311",
+    "uikName": "УИК №714",
     "tikTvd": "2032000253951",
-    "tikName": "Улан-Удэ, Октябрьская"
+    "tikName": "Улан-Удэ, Октябрьская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 715,
     "uikTvd": "403402398312",
+    "uikName": "УИК №715",
     "tikTvd": "2032000253951",
-    "tikName": "Улан-Удэ, Октябрьская"
+    "tikName": "Улан-Удэ, Октябрьская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 716,
     "uikTvd": "403402398313",
+    "uikName": "УИК №716",
     "tikTvd": "2032000253951",
-    "tikName": "Улан-Удэ, Октябрьская"
+    "tikName": "Улан-Удэ, Октябрьская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 717,
     "uikTvd": "403402398314",
+    "uikName": "УИК №717",
     "tikTvd": "2032000253951",
-    "tikName": "Улан-Удэ, Октябрьская"
+    "tikName": "Улан-Удэ, Октябрьская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 718,
     "uikTvd": "403402398315",
+    "uikName": "УИК №718",
     "tikTvd": "2032000253951",
-    "tikName": "Улан-Удэ, Октябрьская"
+    "tikName": "Улан-Удэ, Октябрьская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 719,
     "uikTvd": "403402398316",
+    "uikName": "УИК №719",
     "tikTvd": "2032000253951",
-    "tikName": "Улан-Удэ, Октябрьская"
+    "tikName": "Улан-Удэ, Октябрьская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 720,
     "uikTvd": "403402398317",
+    "uikName": "УИК №720",
     "tikTvd": "2032000253951",
-    "tikName": "Улан-Удэ, Октябрьская"
+    "tikName": "Улан-Удэ, Октябрьская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 721,
     "uikTvd": "403402398318",
+    "uikName": "УИК №721",
     "tikTvd": "2032000253951",
-    "tikName": "Улан-Удэ, Октябрьская"
+    "tikName": "Улан-Удэ, Октябрьская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 722,
     "uikTvd": "403402398319",
+    "uikName": "УИК №722",
     "tikTvd": "2032000253951",
-    "tikName": "Улан-Удэ, Октябрьская"
+    "tikName": "Улан-Удэ, Октябрьская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 723,
     "uikTvd": "403402398320",
+    "uikName": "УИК №723",
     "tikTvd": "2032000253951",
-    "tikName": "Улан-Удэ, Октябрьская"
+    "tikName": "Улан-Удэ, Октябрьская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 724,
     "uikTvd": "403402398321",
+    "uikName": "УИК №724",
     "tikTvd": "2032000253951",
-    "tikName": "Улан-Удэ, Октябрьская"
+    "tikName": "Улан-Удэ, Октябрьская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 725,
     "uikTvd": "403402398322",
+    "uikName": "УИК №725",
     "tikTvd": "2032000253951",
-    "tikName": "Улан-Удэ, Октябрьская"
+    "tikName": "Улан-Удэ, Октябрьская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 726,
     "uikTvd": "403402398323",
+    "uikName": "УИК №726",
     "tikTvd": "2032000253951",
-    "tikName": "Улан-Удэ, Октябрьская"
+    "tikName": "Улан-Удэ, Октябрьская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 727,
     "uikTvd": "403402398324",
+    "uikName": "УИК №727",
     "tikTvd": "2032000253951",
-    "tikName": "Улан-Удэ, Октябрьская"
+    "tikName": "Улан-Удэ, Октябрьская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 728,
     "uikTvd": "403402398325",
+    "uikName": "УИК №728",
     "tikTvd": "2032000253951",
-    "tikName": "Улан-Удэ, Октябрьская"
+    "tikName": "Улан-Удэ, Октябрьская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 729,
     "uikTvd": "403402398326",
+    "uikName": "УИК №729",
     "tikTvd": "2032000253951",
-    "tikName": "Улан-Удэ, Октябрьская"
+    "tikName": "Улан-Удэ, Октябрьская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 730,
     "uikTvd": "403402398327",
+    "uikName": "УИК №730",
     "tikTvd": "2032000253951",
-    "tikName": "Улан-Удэ, Октябрьская"
+    "tikName": "Улан-Удэ, Октябрьская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 731,
     "uikTvd": "403402398328",
+    "uikName": "УИК №731",
     "tikTvd": "2032000253951",
-    "tikName": "Улан-Удэ, Октябрьская"
+    "tikName": "Улан-Удэ, Октябрьская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 732,
     "uikTvd": "403402398329",
+    "uikName": "УИК №732",
     "tikTvd": "2032000253951",
-    "tikName": "Улан-Удэ, Октябрьская"
+    "tikName": "Улан-Удэ, Октябрьская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 733,
     "uikTvd": "403402398330",
+    "uikName": "УИК №733",
     "tikTvd": "2032000253951",
-    "tikName": "Улан-Удэ, Октябрьская"
+    "tikName": "Улан-Удэ, Октябрьская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 734,
     "uikTvd": "403402398331",
+    "uikName": "УИК №734",
     "tikTvd": "2032000253951",
-    "tikName": "Улан-Удэ, Октябрьская"
+    "tikName": "Улан-Удэ, Октябрьская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 735,
     "uikTvd": "403402398332",
+    "uikName": "УИК №735",
     "tikTvd": "2032000253951",
-    "tikName": "Улан-Удэ, Октябрьская"
+    "tikName": "Улан-Удэ, Октябрьская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 736,
     "uikTvd": "403402398333",
+    "uikName": "УИК №736",
     "tikTvd": "2032000253951",
-    "tikName": "Улан-Удэ, Октябрьская"
+    "tikName": "Улан-Удэ, Октябрьская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 737,
     "uikTvd": "403402398334",
+    "uikName": "УИК №737",
     "tikTvd": "2032000253951",
-    "tikName": "Улан-Удэ, Октябрьская"
+    "tikName": "Улан-Удэ, Октябрьская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 738,
     "uikTvd": "403402398335",
+    "uikName": "УИК №738",
     "tikTvd": "2032000253951",
-    "tikName": "Улан-Удэ, Октябрьская"
+    "tikName": "Улан-Удэ, Октябрьская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 739,
     "uikTvd": "403402398336",
+    "uikName": "УИК №739",
     "tikTvd": "2032000253951",
-    "tikName": "Улан-Удэ, Октябрьская"
+    "tikName": "Улан-Удэ, Октябрьская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 740,
     "uikTvd": "403402398337",
+    "uikName": "УИК №740",
     "tikTvd": "2032000253951",
-    "tikName": "Улан-Удэ, Октябрьская"
+    "tikName": "Улан-Удэ, Октябрьская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 741,
     "uikTvd": "403402398338",
+    "uikName": "УИК №741",
     "tikTvd": "2032000253951",
-    "tikName": "Улан-Удэ, Октябрьская"
+    "tikName": "Улан-Удэ, Октябрьская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 742,
     "uikTvd": "403402398339",
+    "uikName": "УИК №742",
     "tikTvd": "2032000253951",
-    "tikName": "Улан-Удэ, Октябрьская"
+    "tikName": "Улан-Удэ, Октябрьская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 743,
     "uikTvd": "403402398340",
+    "uikName": "УИК №743",
     "tikTvd": "2032000253951",
-    "tikName": "Улан-Удэ, Октябрьская"
+    "tikName": "Улан-Удэ, Октябрьская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 744,
     "uikTvd": "403402398341",
+    "uikName": "УИК №744",
     "tikTvd": "2032000253951",
-    "tikName": "Улан-Удэ, Октябрьская"
+    "tikName": "Улан-Удэ, Октябрьская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 745,
     "uikTvd": "403402398342",
+    "uikName": "УИК №745",
     "tikTvd": "2032000253951",
-    "tikName": "Улан-Удэ, Октябрьская"
+    "tikName": "Улан-Удэ, Октябрьская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 746,
     "uikTvd": "403402398343",
+    "uikName": "УИК №746",
     "tikTvd": "2032000253951",
-    "tikName": "Улан-Удэ, Октябрьская"
+    "tikName": "Улан-Удэ, Октябрьская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 747,
     "uikTvd": "403402398344",
+    "uikName": "УИК №747",
     "tikTvd": "2032000253951",
-    "tikName": "Улан-Удэ, Октябрьская"
+    "tikName": "Улан-Удэ, Октябрьская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 748,
     "uikTvd": "403402398345",
+    "uikName": "УИК №748",
     "tikTvd": "2032000253951",
-    "tikName": "Улан-Удэ, Октябрьская"
+    "tikName": "Улан-Удэ, Октябрьская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 749,
     "uikTvd": "403402398346",
+    "uikName": "УИК №749",
     "tikTvd": "2032000253951",
-    "tikName": "Улан-Удэ, Октябрьская"
+    "tikName": "Улан-Удэ, Октябрьская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 750,
     "uikTvd": "403402398347",
+    "uikName": "УИК №750",
     "tikTvd": "2032000253951",
-    "tikName": "Улан-Удэ, Октябрьская"
+    "tikName": "Улан-Удэ, Октябрьская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 751,
     "uikTvd": "403402398348",
+    "uikName": "УИК №751",
     "tikTvd": "2032000253951",
-    "tikName": "Улан-Удэ, Октябрьская"
+    "tikName": "Улан-Удэ, Октябрьская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 752,
     "uikTvd": "403402398349",
+    "uikName": "УИК №752",
     "tikTvd": "2032000253951",
-    "tikName": "Улан-Удэ, Октябрьская"
+    "tikName": "Улан-Удэ, Октябрьская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 753,
     "uikTvd": "403402398350",
+    "uikName": "УИК №753",
     "tikTvd": "2032000253951",
-    "tikName": "Улан-Удэ, Октябрьская"
+    "tikName": "Улан-Удэ, Октябрьская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 754,
     "uikTvd": "403402398351",
+    "uikName": "УИК №754",
     "tikTvd": "2032000253951",
-    "tikName": "Улан-Удэ, Октябрьская"
+    "tikName": "Улан-Удэ, Октябрьская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 755,
     "uikTvd": "403402398352",
+    "uikName": "УИК №755",
     "tikTvd": "2032000253951",
-    "tikName": "Улан-Удэ, Октябрьская"
+    "tikName": "Улан-Удэ, Октябрьская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 756,
     "uikTvd": "403402398353",
+    "uikName": "УИК №756",
     "tikTvd": "2032000253951",
-    "tikName": "Улан-Удэ, Октябрьская"
+    "tikName": "Улан-Удэ, Октябрьская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 757,
     "uikTvd": "403402398354",
+    "uikName": "УИК №757",
     "tikTvd": "2032000253951",
-    "tikName": "Улан-Удэ, Октябрьская"
+    "tikName": "Улан-Удэ, Октябрьская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 758,
     "uikTvd": "403402398355",
+    "uikName": "УИК №758",
     "tikTvd": "2032000253951",
-    "tikName": "Улан-Удэ, Октябрьская"
+    "tikName": "Улан-Удэ, Октябрьская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 759,
     "uikTvd": "403402398356",
+    "uikName": "УИК №759",
     "tikTvd": "2032000253951",
-    "tikName": "Улан-Удэ, Октябрьская"
+    "tikName": "Улан-Удэ, Октябрьская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 760,
     "uikTvd": "403402398357",
+    "uikName": "УИК №760",
     "tikTvd": "2032000253951",
-    "tikName": "Улан-Удэ, Октябрьская"
+    "tikName": "Улан-Удэ, Октябрьская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 761,
     "uikTvd": "403402398358",
+    "uikName": "УИК №761",
     "tikTvd": "2032000253951",
-    "tikName": "Улан-Удэ, Октябрьская"
+    "tikName": "Улан-Удэ, Октябрьская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 762,
     "uikTvd": "403402398359",
+    "uikName": "УИК №762",
     "tikTvd": "2032000253951",
-    "tikName": "Улан-Удэ, Октябрьская"
+    "tikName": "Улан-Удэ, Октябрьская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 763,
     "uikTvd": "403402398360",
+    "uikName": "УИК №763",
     "tikTvd": "2032000253951",
-    "tikName": "Улан-Удэ, Октябрьская"
+    "tikName": "Улан-Удэ, Октябрьская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 764,
     "uikTvd": "403402398361",
+    "uikName": "УИК №764",
     "tikTvd": "2032000253951",
-    "tikName": "Улан-Удэ, Октябрьская"
+    "tikName": "Улан-Удэ, Октябрьская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 765,
     "uikTvd": "403402398362",
+    "uikName": "УИК №765",
     "tikTvd": "2032000253951",
-    "tikName": "Улан-Удэ, Октябрьская"
+    "tikName": "Улан-Удэ, Октябрьская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 766,
     "uikTvd": "403402398363",
+    "uikName": "УИК №766",
     "tikTvd": "2032000253951",
-    "tikName": "Улан-Удэ, Октябрьская"
+    "tikName": "Улан-Удэ, Октябрьская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 767,
     "uikTvd": "403402487169",
+    "uikName": "УИК №767",
     "tikTvd": "2032000253950",
-    "tikName": "Улан-Удэ, Советская"
+    "tikName": "Улан-Удэ, Советская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 768,
     "uikTvd": "403402487170",
+    "uikName": "УИК №768",
     "tikTvd": "2032000253950",
-    "tikName": "Улан-Удэ, Советская"
+    "tikName": "Улан-Удэ, Советская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 769,
     "uikTvd": "403402487171",
+    "uikName": "УИК №769",
     "tikTvd": "2032000253950",
-    "tikName": "Улан-Удэ, Советская"
+    "tikName": "Улан-Удэ, Советская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 770,
     "uikTvd": "403402487172",
+    "uikName": "УИК №770",
     "tikTvd": "2032000253950",
-    "tikName": "Улан-Удэ, Советская"
+    "tikName": "Улан-Удэ, Советская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 771,
     "uikTvd": "403402487173",
+    "uikName": "УИК №771",
     "tikTvd": "2032000253950",
-    "tikName": "Улан-Удэ, Советская"
+    "tikName": "Улан-Удэ, Советская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 772,
     "uikTvd": "403402487174",
+    "uikName": "УИК №772",
     "tikTvd": "2032000253950",
-    "tikName": "Улан-Удэ, Советская"
+    "tikName": "Улан-Удэ, Советская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 773,
     "uikTvd": "403402487175",
+    "uikName": "УИК №773",
     "tikTvd": "2032000253950",
-    "tikName": "Улан-Удэ, Советская"
+    "tikName": "Улан-Удэ, Советская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 774,
     "uikTvd": "403402487176",
+    "uikName": "УИК №774",
     "tikTvd": "2032000253950",
-    "tikName": "Улан-Удэ, Советская"
+    "tikName": "Улан-Удэ, Советская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 775,
     "uikTvd": "403402487177",
+    "uikName": "УИК №775",
     "tikTvd": "2032000253950",
-    "tikName": "Улан-Удэ, Советская"
+    "tikName": "Улан-Удэ, Советская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 776,
     "uikTvd": "403402487178",
+    "uikName": "УИК №776",
     "tikTvd": "2032000253950",
-    "tikName": "Улан-Удэ, Советская"
+    "tikName": "Улан-Удэ, Советская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 777,
     "uikTvd": "403402487179",
+    "uikName": "УИК №777",
     "tikTvd": "2032000253950",
-    "tikName": "Улан-Удэ, Советская"
+    "tikName": "Улан-Удэ, Советская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 778,
     "uikTvd": "403402487180",
+    "uikName": "УИК №778",
     "tikTvd": "2032000253950",
-    "tikName": "Улан-Удэ, Советская"
+    "tikName": "Улан-Удэ, Советская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 779,
     "uikTvd": "403402487181",
+    "uikName": "УИК №779",
     "tikTvd": "2032000253950",
-    "tikName": "Улан-Удэ, Советская"
+    "tikName": "Улан-Удэ, Советская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 780,
     "uikTvd": "403402487182",
+    "uikName": "УИК №780",
     "tikTvd": "2032000253950",
-    "tikName": "Улан-Удэ, Советская"
+    "tikName": "Улан-Удэ, Советская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 781,
     "uikTvd": "403402487183",
+    "uikName": "УИК №781",
     "tikTvd": "2032000253950",
-    "tikName": "Улан-Удэ, Советская"
+    "tikName": "Улан-Удэ, Советская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 782,
     "uikTvd": "403402487184",
+    "uikName": "УИК №782",
     "tikTvd": "2032000253950",
-    "tikName": "Улан-Удэ, Советская"
+    "tikName": "Улан-Удэ, Советская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 783,
     "uikTvd": "403402487185",
+    "uikName": "УИК №783",
     "tikTvd": "2032000253950",
-    "tikName": "Улан-Удэ, Советская"
+    "tikName": "Улан-Удэ, Советская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 784,
     "uikTvd": "403402487186",
+    "uikName": "УИК №784",
     "tikTvd": "2032000253950",
-    "tikName": "Улан-Удэ, Советская"
+    "tikName": "Улан-Удэ, Советская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 785,
     "uikTvd": "403402487187",
+    "uikName": "УИК №785",
     "tikTvd": "2032000253950",
-    "tikName": "Улан-Удэ, Советская"
+    "tikName": "Улан-Удэ, Советская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 786,
     "uikTvd": "403402487188",
+    "uikName": "УИК №786",
     "tikTvd": "2032000253950",
-    "tikName": "Улан-Удэ, Советская"
+    "tikName": "Улан-Удэ, Советская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 787,
     "uikTvd": "403402487189",
+    "uikName": "УИК №787",
     "tikTvd": "2032000253950",
-    "tikName": "Улан-Удэ, Советская"
+    "tikName": "Улан-Удэ, Советская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 788,
     "uikTvd": "403402487190",
+    "uikName": "УИК №788",
     "tikTvd": "2032000253950",
-    "tikName": "Улан-Удэ, Советская"
+    "tikName": "Улан-Удэ, Советская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 789,
     "uikTvd": "403402487191",
+    "uikName": "УИК №789",
     "tikTvd": "2032000253950",
-    "tikName": "Улан-Удэ, Советская"
+    "tikName": "Улан-Удэ, Советская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 790,
     "uikTvd": "403402487192",
+    "uikName": "УИК №790",
     "tikTvd": "2032000253950",
-    "tikName": "Улан-Удэ, Советская"
+    "tikName": "Улан-Удэ, Советская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 791,
     "uikTvd": "403402487193",
+    "uikName": "УИК №791",
     "tikTvd": "2032000253950",
-    "tikName": "Улан-Удэ, Советская"
+    "tikName": "Улан-Удэ, Советская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 792,
     "uikTvd": "403402487194",
+    "uikName": "УИК №792",
     "tikTvd": "2032000253950",
-    "tikName": "Улан-Удэ, Советская"
+    "tikName": "Улан-Удэ, Советская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 793,
     "uikTvd": "403402487195",
+    "uikName": "УИК №793",
     "tikTvd": "2032000253950",
-    "tikName": "Улан-Удэ, Советская"
+    "tikName": "Улан-Удэ, Советская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 794,
     "uikTvd": "403402487196",
+    "uikName": "УИК №794",
     "tikTvd": "2032000253950",
-    "tikName": "Улан-Удэ, Советская"
+    "tikName": "Улан-Удэ, Советская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 795,
     "uikTvd": "403402487197",
+    "uikName": "УИК №795",
     "tikTvd": "2032000253950",
-    "tikName": "Улан-Удэ, Советская"
+    "tikName": "Улан-Удэ, Советская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 796,
     "uikTvd": "403402487198",
+    "uikName": "УИК №796",
     "tikTvd": "2032000253950",
-    "tikName": "Улан-Удэ, Советская"
+    "tikName": "Улан-Удэ, Советская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 797,
     "uikTvd": "403402487199",
+    "uikName": "УИК №797",
     "tikTvd": "2032000253950",
-    "tikName": "Улан-Удэ, Советская"
+    "tikName": "Улан-Удэ, Советская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 798,
     "uikTvd": "403402487200",
+    "uikName": "УИК №798",
     "tikTvd": "2032000253950",
-    "tikName": "Улан-Удэ, Советская"
+    "tikName": "Улан-Удэ, Советская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 799,
     "uikTvd": "403402487201",
+    "uikName": "УИК №799",
     "tikTvd": "2032000253950",
-    "tikName": "Улан-Удэ, Советская"
+    "tikName": "Улан-Удэ, Советская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 800,
     "uikTvd": "403402487202",
+    "uikName": "УИК №800",
     "tikTvd": "2032000253950",
-    "tikName": "Улан-Удэ, Советская"
+    "tikName": "Улан-Удэ, Советская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 801,
     "uikTvd": "403402487203",
+    "uikName": "УИК №801",
     "tikTvd": "2032000253950",
-    "tikName": "Улан-Удэ, Советская"
+    "tikName": "Улан-Удэ, Советская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 802,
     "uikTvd": "403402487204",
+    "uikName": "УИК №802",
     "tikTvd": "2032000253950",
-    "tikName": "Улан-Удэ, Советская"
+    "tikName": "Улан-Удэ, Советская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 803,
     "uikTvd": "403402487205",
+    "uikName": "УИК №803",
     "tikTvd": "2032000253950",
-    "tikName": "Улан-Удэ, Советская"
+    "tikName": "Улан-Удэ, Советская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 804,
     "uikTvd": "403402487206",
+    "uikName": "УИК №804",
     "tikTvd": "2032000253950",
-    "tikName": "Улан-Удэ, Советская"
+    "tikName": "Улан-Удэ, Советская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 805,
     "uikTvd": "403402487207",
+    "uikName": "УИК №805",
     "tikTvd": "2032000253950",
-    "tikName": "Улан-Удэ, Советская"
+    "tikName": "Улан-Удэ, Советская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 806,
     "uikTvd": "403402487208",
+    "uikName": "УИК №806",
     "tikTvd": "2032000253950",
-    "tikName": "Улан-Удэ, Советская"
+    "tikName": "Улан-Удэ, Советская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 807,
     "uikTvd": "4034025105270",
+    "uikName": "УИК №807",
     "tikTvd": "2032000253949",
-    "tikName": "Хоринская"
+    "tikName": "Хоринская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 808,
     "uikTvd": "4034025105271",
+    "uikName": "УИК №808",
     "tikTvd": "2032000253949",
-    "tikName": "Хоринская"
+    "tikName": "Хоринская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 809,
     "uikTvd": "4034025105272",
+    "uikName": "УИК №809",
     "tikTvd": "2032000253949",
-    "tikName": "Хоринская"
+    "tikName": "Хоринская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 810,
     "uikTvd": "4034025105273",
+    "uikName": "УИК №810",
     "tikTvd": "2032000253949",
-    "tikName": "Хоринская"
+    "tikName": "Хоринская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 811,
     "uikTvd": "4034025105274",
+    "uikName": "УИК №811",
     "tikTvd": "2032000253949",
-    "tikName": "Хоринская"
+    "tikName": "Хоринская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 812,
     "uikTvd": "4034025105275",
+    "uikName": "УИК №812",
     "tikTvd": "2032000253949",
-    "tikName": "Хоринская"
+    "tikName": "Хоринская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 813,
     "uikTvd": "4034025105276",
+    "uikName": "УИК №813",
     "tikTvd": "2032000253949",
-    "tikName": "Хоринская"
+    "tikName": "Хоринская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 814,
     "uikTvd": "4034025105277",
+    "uikName": "УИК №814",
     "tikTvd": "2032000253949",
-    "tikName": "Хоринская"
+    "tikName": "Хоринская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 815,
     "uikTvd": "4034025105278",
+    "uikName": "УИК №815",
     "tikTvd": "2032000253949",
-    "tikName": "Хоринская"
+    "tikName": "Хоринская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 816,
     "uikTvd": "4034025105279",
+    "uikName": "УИК №816",
     "tikTvd": "2032000253949",
-    "tikName": "Хоринская"
+    "tikName": "Хоринская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 817,
     "uikTvd": "4034025105280",
+    "uikName": "УИК №817",
     "tikTvd": "2032000253949",
-    "tikName": "Хоринская"
+    "tikName": "Хоринская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 818,
     "uikTvd": "4034025105281",
+    "uikName": "УИК №818",
     "tikTvd": "2032000253949",
-    "tikName": "Хоринская"
+    "tikName": "Хоринская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 819,
     "uikTvd": "4034025105282",
+    "uikName": "УИК №819",
     "tikTvd": "2032000253949",
-    "tikName": "Хоринская"
+    "tikName": "Хоринская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 820,
     "uikTvd": "4034025105283",
+    "uikName": "УИК №820",
     "tikTvd": "2032000253949",
-    "tikName": "Хоринская"
+    "tikName": "Хоринская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 821,
     "uikTvd": "4034025105284",
+    "uikName": "УИК №821",
     "tikTvd": "2032000253949",
-    "tikName": "Хоринская"
+    "tikName": "Хоринская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 822,
     "uikTvd": "4034025105285",
+    "uikName": "УИК №822",
     "tikTvd": "2032000253949",
-    "tikName": "Хоринская"
+    "tikName": "Хоринская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 823,
     "uikTvd": "4034025105286",
+    "uikName": "УИК №823",
     "tikTvd": "2032000253949",
-    "tikName": "Хоринская"
+    "tikName": "Хоринская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 824,
     "uikTvd": "4034025105287",
+    "uikName": "УИК №824",
     "tikTvd": "2032000253949",
-    "tikName": "Хоринская"
+    "tikName": "Хоринская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 825,
     "uikTvd": "4034025105288",
+    "uikName": "УИК №825",
     "tikTvd": "2032000253949",
-    "tikName": "Хоринская"
+    "tikName": "Хоринская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 826,
     "uikTvd": "4034025105289",
+    "uikName": "УИК №826",
     "tikTvd": "2032000253949",
-    "tikName": "Хоринская"
+    "tikName": "Хоринская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 827,
     "uikTvd": "4034025105290",
+    "uikName": "УИК №827",
     "tikTvd": "2032000253949",
-    "tikName": "Хоринская"
+    "tikName": "Хоринская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 828,
     "uikTvd": "4034025105291",
+    "uikName": "УИК №828",
     "tikTvd": "2032000253949",
-    "tikName": "Хоринская"
+    "tikName": "Хоринская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 829,
     "uikTvd": "4034025105292",
+    "uikName": "УИК №829",
     "tikTvd": "2032000253949",
-    "tikName": "Хоринская"
+    "tikName": "Хоринская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 830,
     "uikTvd": "4034025105293",
+    "uikName": "УИК №830",
     "tikTvd": "2032000253949",
-    "tikName": "Хоринская"
+    "tikName": "Хоринская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 831,
     "uikTvd": "4034025105294",
+    "uikName": "УИК №831",
     "tikTvd": "2032000253949",
-    "tikName": "Хоринская"
+    "tikName": "Хоринская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 832,
     "uikTvd": "4034025105295",
+    "uikName": "УИК №832",
     "tikTvd": "2032000253949",
-    "tikName": "Хоринская"
+    "tikName": "Хоринская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 833,
     "uikTvd": "4034025105296",
+    "uikName": "УИК №833",
     "tikTvd": "2032000253949",
-    "tikName": "Хоринская"
+    "tikName": "Хоринская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   },
   {
     "uikNumber": 834,
     "uikTvd": "4034025105297",
+    "uikName": "УИК №834",
     "tikTvd": "2032000253949",
-    "tikName": "Хоринская"
+    "tikName": "Хоринская",
+    "regionCode": "4",
+    "regionTvd": "100100028713312",
+    "regionName": "Республика Бурятия",
+    "district": null
   }
 ] satisfies readonly UikTikRelation[];

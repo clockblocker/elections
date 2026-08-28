@@ -11,6 +11,9 @@ export const duma_2007_tic_233_region_26 = [
     "ballot": "party",
     "tikTvd": "2262000154700",
     "tikName": "Буденновская городская",
+    "regionCode": "26",
+    "regionTvd": "100100021960235",
+    "regionName": "Ставропольский край",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 45040,
@@ -90,6 +93,9 @@ export const duma_2007_tic_233_region_26 = [
     "ballot": "party",
     "tikTvd": "2262000154701",
     "tikName": "Георгиевская городская",
+    "regionCode": "26",
+    "regionTvd": "100100021960235",
+    "regionName": "Ставропольский край",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 49158,
@@ -169,6 +175,9 @@ export const duma_2007_tic_233_region_26 = [
     "ballot": "party",
     "tikTvd": "2262000154702",
     "tikName": "Степновская",
+    "regionCode": "26",
+    "regionTvd": "100100021960235",
+    "regionName": "Ставропольский край",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 15495,
@@ -239,6 +248,9 @@ export const duma_2007_tic_233_region_26 = [
     "ballot": "party",
     "tikTvd": "2262000154703",
     "tikName": "Советская",
+    "regionCode": "26",
+    "regionTvd": "100100021960235",
+    "regionName": "Ставропольский край",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 52348,
@@ -328,6 +340,9 @@ export const duma_2007_tic_233_region_26 = [
     "ballot": "party",
     "tikTvd": "2262000154704",
     "tikName": "Пятигорская городская",
+    "regionCode": "26",
+    "regionTvd": "100100021960235",
+    "regionName": "Ставропольский край",
     "uikCount": 75,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 139763,
@@ -457,6 +472,9 @@ export const duma_2007_tic_233_region_26 = [
     "ballot": "party",
     "tikTvd": "2262000154705",
     "tikName": "Предгорная",
+    "regionCode": "26",
+    "regionTvd": "100100021960235",
+    "regionName": "Ставропольский край",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 75057,
@@ -555,6 +573,9 @@ export const duma_2007_tic_233_region_26 = [
     "ballot": "party",
     "tikTvd": "2262000154706",
     "tikName": "Новоселицкая",
+    "regionCode": "26",
+    "regionTvd": "100100021960235",
+    "regionName": "Ставропольский край",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 17829,
@@ -622,6 +643,9 @@ export const duma_2007_tic_233_region_26 = [
     "ballot": "party",
     "tikTvd": "2262000154707",
     "tikName": "Нефтекумская",
+    "regionCode": "26",
+    "regionTvd": "100100021960235",
+    "regionName": "Ставропольский край",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 46144,
@@ -713,6 +737,9 @@ export const duma_2007_tic_233_region_26 = [
     "ballot": "party",
     "tikTvd": "2262000154709",
     "tikName": "Лермонтовская городская",
+    "regionCode": "26",
+    "regionTvd": "100100021960235",
+    "regionName": "Ставропольский край",
     "uikCount": 9,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 19208,
@@ -776,6 +803,9 @@ export const duma_2007_tic_233_region_26 = [
     "ballot": "party",
     "tikTvd": "2262000154710",
     "tikName": "Курская",
+    "regionCode": "26",
+    "regionTvd": "100100021960235",
+    "regionName": "Ставропольский край",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 35584,
@@ -863,6 +893,9 @@ export const duma_2007_tic_233_region_26 = [
     "ballot": "party",
     "tikTvd": "2262000154711",
     "tikName": "Кисловодская городская",
+    "regionCode": "26",
+    "regionTvd": "100100021960235",
+    "regionName": "Ставропольский край",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 77642,
@@ -967,6 +1000,9 @@ export const duma_2007_tic_233_region_26 = [
     "ballot": "party",
     "tikTvd": "2262000154712",
     "tikName": "Кировская",
+    "regionCode": "26",
+    "regionTvd": "100100021960235",
+    "regionName": "Ставропольский край",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 48958,
@@ -1045,6 +1081,9 @@ export const duma_2007_tic_233_region_26 = [
     "ballot": "party",
     "tikTvd": "2262000154713",
     "tikName": "Железноводская городская",
+    "regionCode": "26",
+    "regionTvd": "100100021960235",
+    "regionName": "Ставропольский край",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 37884,
@@ -1129,6 +1168,9 @@ export const duma_2007_tic_233_region_26 = [
     "ballot": "party",
     "tikTvd": "2262000154714",
     "tikName": "Ессентукская городская",
+    "regionCode": "26",
+    "regionTvd": "100100021960235",
+    "regionName": "Ставропольский край",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 64745,
@@ -1229,6 +1271,9 @@ export const duma_2007_tic_233_region_26 = [
     "ballot": "party",
     "tikTvd": "2262000154715",
     "tikName": "Георгиевская",
+    "regionCode": "26",
+    "regionTvd": "100100021960235",
+    "regionName": "Ставропольский край",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 66073,
@@ -1319,6 +1364,9 @@ export const duma_2007_tic_233_region_26 = [
     "ballot": "party",
     "tikTvd": "2262000154716",
     "tikName": "Буденновская",
+    "regionCode": "26",
+    "regionTvd": "100100021960235",
+    "regionName": "Ставропольский край",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 36872,
@@ -1400,6 +1448,9 @@ export const duma_2007_tic_233_region_26 = [
     "ballot": "party",
     "tikTvd": "2262000154717",
     "tikName": "Андроповская",
+    "regionCode": "26",
+    "regionTvd": "100100021960235",
+    "regionName": "Ставропольский край",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 24052,
@@ -1480,6 +1531,9 @@ export const duma_2007_tic_233_region_26 = [
     "ballot": "party",
     "tikTvd": "2262000154718",
     "tikName": "Александровская",
+    "regionCode": "26",
+    "regionTvd": "100100021960235",
+    "regionName": "Ставропольский край",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 36948,
@@ -1558,6 +1612,9 @@ export const duma_2007_tic_233_region_26 = [
     "ballot": "party",
     "tikTvd": "2262000154719",
     "tikName": "Минераловодская",
+    "regionCode": "26",
+    "regionTvd": "100100021960235",
+    "regionName": "Ставропольский край",
     "uikCount": 67,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 97510,
@@ -1679,6 +1736,9 @@ export const duma_2007_tic_233_region_26 = [
     "ballot": "party",
     "tikTvd": "2262000154720",
     "tikName": "Шпаковская",
+    "regionCode": "26",
+    "regionTvd": "100100021960235",
+    "regionName": "Ставропольский край",
     "uikCount": 52,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 75016,
@@ -1785,6 +1845,9 @@ export const duma_2007_tic_233_region_26 = [
     "ballot": "party",
     "tikTvd": "2262000154721",
     "tikName": "Туркменская",
+    "regionCode": "26",
+    "regionTvd": "100100021960235",
+    "regionName": "Ставропольский край",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 20006,
@@ -1861,6 +1924,9 @@ export const duma_2007_tic_233_region_26 = [
     "ballot": "party",
     "tikTvd": "2262000154722",
     "tikName": "Труновская",
+    "regionCode": "26",
+    "regionTvd": "100100021960235",
+    "regionName": "Ставропольский край",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 26345,
@@ -1940,6 +2006,9 @@ export const duma_2007_tic_233_region_26 = [
     "ballot": "party",
     "tikTvd": "2262000154723",
     "tikName": "Ставрополь, Промышленная",
+    "regionCode": "26",
+    "regionTvd": "100100021960235",
+    "regionName": "Ставропольский край",
     "uikCount": 71,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 135437,
@@ -2065,6 +2134,9 @@ export const duma_2007_tic_233_region_26 = [
     "ballot": "party",
     "tikTvd": "2262000154724",
     "tikName": "Ставрополь, Октябрьская",
+    "regionCode": "26",
+    "regionTvd": "100100021960235",
+    "regionName": "Ставропольский край",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 54801,
@@ -2149,6 +2221,9 @@ export const duma_2007_tic_233_region_26 = [
     "ballot": "party",
     "tikTvd": "2262000154725",
     "tikName": "Ставрополь, Ленинская",
+    "regionCode": "26",
+    "regionTvd": "100100021960235",
+    "regionName": "Ставропольский край",
     "uikCount": 53,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 79975,
@@ -2256,6 +2331,9 @@ export const duma_2007_tic_233_region_26 = [
     "ballot": "party",
     "tikTvd": "2262000154726",
     "tikName": "Петровская",
+    "regionCode": "26",
+    "regionTvd": "100100021960235",
+    "regionName": "Ставропольский край",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 59042,
@@ -2353,6 +2431,9 @@ export const duma_2007_tic_233_region_26 = [
     "ballot": "party",
     "tikTvd": "2262000154727",
     "tikName": "Новоалександровская",
+    "regionCode": "26",
+    "regionTvd": "100100021960235",
+    "regionName": "Ставропольский край",
     "uikCount": 49,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 47107,
@@ -2456,6 +2537,9 @@ export const duma_2007_tic_233_region_26 = [
     "ballot": "party",
     "tikTvd": "2262000154728",
     "tikName": "Невинномысская городская",
+    "regionCode": "26",
+    "regionTvd": "100100021960235",
+    "regionName": "Ставропольский край",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 97492,
@@ -2556,6 +2640,9 @@ export const duma_2007_tic_233_region_26 = [
     "ballot": "party",
     "tikTvd": "2262000154729",
     "tikName": "Левокумская",
+    "regionCode": "26",
+    "regionTvd": "100100021960235",
+    "regionName": "Ставропольский край",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 29174,
@@ -2629,6 +2716,9 @@ export const duma_2007_tic_233_region_26 = [
     "ballot": "party",
     "tikTvd": "2262000154730",
     "tikName": "Красногвардейская",
+    "regionCode": "26",
+    "regionTvd": "100100021960235",
+    "regionName": "Ставропольский край",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 31254,
@@ -2703,6 +2793,9 @@ export const duma_2007_tic_233_region_26 = [
     "ballot": "party",
     "tikTvd": "2262000154731",
     "tikName": "Кочубеевская",
+    "regionCode": "26",
+    "regionTvd": "100100021960235",
+    "regionName": "Ставропольский край",
     "uikCount": 53,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 57797,
@@ -2810,6 +2903,9 @@ export const duma_2007_tic_233_region_26 = [
     "ballot": "party",
     "tikTvd": "2262000154732",
     "tikName": "Ипатовская",
+    "regionCode": "26",
+    "regionTvd": "100100021960235",
+    "regionName": "Ставропольский край",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 50212,
@@ -2906,6 +3002,9 @@ export const duma_2007_tic_233_region_26 = [
     "ballot": "party",
     "tikTvd": "2262000154733",
     "tikName": "Изобильненская",
+    "regionCode": "26",
+    "regionTvd": "100100021960235",
+    "regionName": "Ставропольский край",
     "uikCount": 53,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 75637,
@@ -3013,6 +3112,9 @@ export const duma_2007_tic_233_region_26 = [
     "ballot": "party",
     "tikTvd": "2262000154734",
     "tikName": "Грачевская",
+    "regionCode": "26",
+    "regionTvd": "100100021960235",
+    "regionName": "Ставропольский край",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 27171,
@@ -3086,6 +3188,9 @@ export const duma_2007_tic_233_region_26 = [
     "ballot": "party",
     "tikTvd": "2262000154735",
     "tikName": "Благодарненская",
+    "regionCode": "26",
+    "regionTvd": "100100021960235",
+    "regionName": "Ставропольский край",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 46950,
@@ -3166,6 +3271,9 @@ export const duma_2007_tic_233_region_26 = [
     "ballot": "party",
     "tikTvd": "2262000154736",
     "tikName": "Арзгирская",
+    "regionCode": "26",
+    "regionTvd": "100100021960235",
+    "regionName": "Ставропольский край",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 19727,
@@ -3232,6 +3340,9 @@ export const duma_2007_tic_233_region_26 = [
     "ballot": "party",
     "tikTvd": "2262000154737",
     "tikName": "Апанасенковская",
+    "regionCode": "26",
+    "regionTvd": "100100021960235",
+    "regionName": "Ставропольский край",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 26154,

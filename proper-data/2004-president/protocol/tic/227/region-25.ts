@@ -11,6 +11,9 @@ export const president_2004_tic_227_region_25 = [
     "ballot": "presidential",
     "tikTvd": "225200073841",
     "tikName": "Спасская",
+    "regionCode": "25",
+    "regionTvd": "1001000883018",
+    "regionName": "Приморский край",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в список": 20284,
@@ -99,6 +102,9 @@ export const president_2004_tic_227_region_25 = [
     "ballot": "presidential",
     "tikTvd": "225200073842",
     "tikName": "Дальнереченская",
+    "regionCode": "25",
+    "regionTvd": "1001000883018",
+    "regionName": "Приморский край",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список": 9525,
@@ -171,6 +177,9 @@ export const president_2004_tic_227_region_25 = [
     "ballot": "presidential",
     "tikTvd": "225200073843",
     "tikName": "Шкотовский район",
+    "regionCode": "25",
+    "regionTvd": "1001000883018",
+    "regionName": "Приморский край",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в список": 17688,
@@ -235,6 +244,9 @@ export const president_2004_tic_227_region_25 = [
     "ballot": "presidential",
     "tikTvd": "225200073844",
     "tikName": "Яковлевская",
+    "regionCode": "25",
+    "regionTvd": "1001000883018",
+    "regionName": "Приморский край",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список": 13977,
@@ -310,6 +322,9 @@ export const president_2004_tic_227_region_25 = [
     "ballot": "presidential",
     "tikTvd": "225200073845",
     "tikName": "ЗАТО город Фокино",
+    "regionCode": "25",
+    "regionTvd": "1001000883018",
+    "regionName": "Приморский край",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в список": 25280,
@@ -371,6 +386,9 @@ export const president_2004_tic_227_region_25 = [
     "ballot": "presidential",
     "tikTvd": "225200073846",
     "tikName": "Черниговская",
+    "regionCode": "25",
+    "regionTvd": "1001000883018",
+    "regionName": "Приморский край",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список": 28278,
@@ -448,6 +466,9 @@ export const president_2004_tic_227_region_25 = [
     "ballot": "presidential",
     "tikTvd": "225200073847",
     "tikName": "Чугуевская",
+    "regionCode": "25",
+    "regionTvd": "1001000883018",
+    "regionName": "Приморский край",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в список": 19027,
@@ -531,6 +552,9 @@ export const president_2004_tic_227_region_25 = [
     "ballot": "presidential",
     "tikTvd": "225200073848",
     "tikName": "Хасанская",
+    "regionCode": "25",
+    "regionTvd": "1001000883018",
+    "regionName": "Приморский край",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в список": 29141,
@@ -619,6 +643,9 @@ export const president_2004_tic_227_region_25 = [
     "ballot": "presidential",
     "tikTvd": "225200073849",
     "tikName": "Ханкайская",
+    "regionCode": "25",
+    "regionTvd": "1001000883018",
+    "regionName": "Приморский край",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список": 18846,
@@ -692,6 +719,9 @@ export const president_2004_tic_227_region_25 = [
     "ballot": "presidential",
     "tikTvd": "225200073850",
     "tikName": "Уссурийская",
+    "regionCode": "25",
+    "regionTvd": "1001000883018",
+    "regionName": "Приморский край",
     "uikCount": 106,
     "accounting": {
       "Число избирателей, внесенных в список": 135571,
@@ -846,6 +876,9 @@ export const president_2004_tic_227_region_25 = [
     "ballot": "presidential",
     "tikTvd": "225200073851",
     "tikName": "Хорольская",
+    "regionCode": "25",
+    "regionTvd": "1001000883018",
+    "regionName": "Приморский край",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в список": 23832,
@@ -924,6 +957,9 @@ export const president_2004_tic_227_region_25 = [
     "ballot": "presidential",
     "tikTvd": "225200073852",
     "tikName": "Тернейская",
+    "regionCode": "25",
+    "regionTvd": "1001000883018",
+    "regionName": "Приморский край",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в список": 10126,
@@ -986,6 +1022,9 @@ export const president_2004_tic_227_region_25 = [
     "ballot": "presidential",
     "tikTvd": "225200073853",
     "tikName": "Спасская городская",
+    "regionCode": "25",
+    "regionTvd": "1001000883018",
+    "regionName": "Приморский край",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в список": 38766,
@@ -1064,6 +1103,9 @@ export const president_2004_tic_227_region_25 = [
     "ballot": "presidential",
     "tikTvd": "225200073854",
     "tikName": "Пожарская",
+    "regionCode": "25",
+    "regionTvd": "1001000883018",
+    "regionName": "Приморский край",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список": 24031,
@@ -1139,6 +1181,9 @@ export const president_2004_tic_227_region_25 = [
     "ballot": "presidential",
     "tikTvd": "225200073855",
     "tikName": "Пограничная",
+    "regionCode": "25",
+    "regionTvd": "1001000883018",
+    "regionName": "Приморский край",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список": 19232,
@@ -1210,6 +1255,9 @@ export const president_2004_tic_227_region_25 = [
     "ballot": "presidential",
     "tikTvd": "225200073856",
     "tikName": "Партизанская городская",
+    "regionCode": "25",
+    "regionTvd": "1001000883018",
+    "regionName": "Приморский край",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, внесенных в список": 41237,
@@ -1301,6 +1349,9 @@ export const president_2004_tic_227_region_25 = [
     "ballot": "presidential",
     "tikTvd": "225200073857",
     "tikName": "Партизанская",
+    "regionCode": "25",
+    "regionTvd": "1001000883018",
+    "regionName": "Приморский край",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список": 19578,
@@ -1377,6 +1428,9 @@ export const president_2004_tic_227_region_25 = [
     "ballot": "presidential",
     "tikTvd": "225200073858",
     "tikName": "Ольгинская",
+    "regionCode": "25",
+    "regionTvd": "1001000883018",
+    "regionName": "Приморский край",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в список": 8857,
@@ -1442,6 +1496,9 @@ export const president_2004_tic_227_region_25 = [
     "ballot": "presidential",
     "tikTvd": "225200073859",
     "tikName": "Октябрьская",
+    "regionCode": "25",
+    "regionTvd": "1001000883018",
+    "regionName": "Приморский край",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список": 25703,
@@ -1517,6 +1574,9 @@ export const president_2004_tic_227_region_25 = [
     "ballot": "presidential",
     "tikTvd": "225200073860",
     "tikName": "Михайловская",
+    "regionCode": "25",
+    "regionTvd": "1001000883018",
+    "regionName": "Приморский край",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в список": 26486,
@@ -1597,6 +1657,9 @@ export const president_2004_tic_227_region_25 = [
     "ballot": "presidential",
     "tikTvd": "225200073861",
     "tikName": "Надеждинская",
+    "regionCode": "25",
+    "regionTvd": "1001000883018",
+    "regionName": "Приморский край",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в список": 27689,
@@ -1678,6 +1741,9 @@ export const president_2004_tic_227_region_25 = [
     "ballot": "presidential",
     "tikTvd": "225200073862",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "1001000883018",
+    "regionName": "Приморский край",
     "uikCount": 161,
     "accounting": {
       "Число избирателей, внесенных в список": 114427,
@@ -1887,6 +1953,9 @@ export const president_2004_tic_227_region_25 = [
     "ballot": "presidential",
     "tikTvd": "225200073863",
     "tikName": "Красноармейская",
+    "regionCode": "25",
+    "regionTvd": "1001000883018",
+    "regionName": "Приморский край",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список": 14124,
@@ -1959,6 +2028,9 @@ export const president_2004_tic_227_region_25 = [
     "ballot": "presidential",
     "tikTvd": "225200073864",
     "tikName": "Лесозаводская городская",
+    "regionCode": "25",
+    "regionTvd": "1001000883018",
+    "regionName": "Приморский край",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в список": 38823,
@@ -2047,6 +2119,9 @@ export const president_2004_tic_227_region_25 = [
     "ballot": "presidential",
     "tikTvd": "225200073865",
     "tikName": "Лазовская",
+    "regionCode": "25",
+    "regionTvd": "1001000883018",
+    "regionName": "Приморский край",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список": 10877,
@@ -2113,6 +2188,9 @@ export const president_2004_tic_227_region_25 = [
     "ballot": "presidential",
     "tikTvd": "225200073866",
     "tikName": "Кировская",
+    "regionCode": "25",
+    "regionTvd": "1001000883018",
+    "regionName": "Приморский край",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в список": 19921,
@@ -2194,6 +2272,9 @@ export const president_2004_tic_227_region_25 = [
     "ballot": "presidential",
     "tikTvd": "225200073867",
     "tikName": "Кавалеровская   ",
+    "regionCode": "25",
+    "regionTvd": "1001000883018",
+    "regionName": "Приморский край",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список": 22709,
@@ -2269,6 +2350,9 @@ export const president_2004_tic_227_region_25 = [
     "ballot": "presidential",
     "tikTvd": "225200073868",
     "tikName": "Дальнереченская городская",
+    "regionCode": "25",
+    "regionTvd": "1001000883018",
+    "regionName": "Приморский край",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список": 25990,
@@ -2338,6 +2422,9 @@ export const president_2004_tic_227_region_25 = [
     "ballot": "presidential",
     "tikTvd": "225200073869",
     "tikName": "Дальнегорская городская",
+    "regionCode": "25",
+    "regionTvd": "1001000883018",
+    "regionName": "Приморский край",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список": 40811,
@@ -2409,6 +2496,9 @@ export const president_2004_tic_227_region_25 = [
     "ballot": "presidential",
     "tikTvd": "225200073870",
     "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "1001000883018",
+    "regionName": "Приморский край",
     "uikCount": 141,
     "accounting": {
       "Число избирателей, внесенных в список": 49297,
@@ -2598,6 +2688,9 @@ export const president_2004_tic_227_region_25 = [
     "ballot": "presidential",
     "tikTvd": "225200073871",
     "tikName": "Владивосток, Советская",
+    "regionCode": "25",
+    "regionTvd": "1001000883018",
+    "regionName": "Приморский край",
     "uikCount": 54,
     "accounting": {
       "Число избирателей, внесенных в список": 83909,
@@ -2700,6 +2793,9 @@ export const president_2004_tic_227_region_25 = [
     "ballot": "presidential",
     "tikTvd": "225200073872",
     "tikName": "Владивосток, Ленинская ",
+    "regionCode": "25",
+    "regionTvd": "1001000883018",
+    "regionName": "Приморский край",
     "uikCount": 66,
     "accounting": {
       "Число избирателей, внесенных в список": 115329,
@@ -2814,6 +2910,9 @@ export const president_2004_tic_227_region_25 = [
     "ballot": "presidential",
     "tikTvd": "225200073873",
     "tikName": "Владивосток, Первореченская",
+    "regionCode": "25",
+    "regionTvd": "1001000883018",
+    "regionName": "Приморский край",
     "uikCount": 51,
     "accounting": {
       "Число избирателей, внесенных в список": 93775,
@@ -2913,6 +3012,9 @@ export const president_2004_tic_227_region_25 = [
     "ballot": "presidential",
     "tikTvd": "225200073874",
     "tikName": "Владивосток, Первомайская",
+    "regionCode": "25",
+    "regionTvd": "1001000883018",
+    "regionName": "Приморский край",
     "uikCount": 157,
     "accounting": {
       "Число избирателей, внесенных в список": 118036,
@@ -3118,6 +3220,9 @@ export const president_2004_tic_227_region_25 = [
     "ballot": "presidential",
     "tikTvd": "225200073875",
     "tikName": "Арсеньевская городская",
+    "regionCode": "25",
+    "regionTvd": "1001000883018",
+    "regionName": "Приморский край",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список": 46796,
@@ -3190,6 +3295,9 @@ export const president_2004_tic_227_region_25 = [
     "ballot": "presidential",
     "tikTvd": "225200073876",
     "tikName": "ЗАТО г.Большой Камень",
+    "regionCode": "25",
+    "regionTvd": "1001000883018",
+    "regionName": "Приморский край",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в список": 30666,
@@ -3251,6 +3359,9 @@ export const president_2004_tic_227_region_25 = [
     "ballot": "presidential",
     "tikTvd": "225200073877",
     "tikName": "Артемовская городская",
+    "regionCode": "25",
+    "regionTvd": "1001000883018",
+    "regionName": "Приморский край",
     "uikCount": 51,
     "accounting": {
       "Число избирателей, внесенных в список": 76636,
@@ -3350,6 +3461,9 @@ export const president_2004_tic_227_region_25 = [
     "ballot": "presidential",
     "tikTvd": "225200073878",
     "tikName": "Анучинская",
+    "regionCode": "25",
+    "regionTvd": "1001000883018",
+    "regionName": "Приморский край",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список": 11188,

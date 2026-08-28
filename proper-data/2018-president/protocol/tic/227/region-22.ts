@@ -11,6 +11,9 @@ export const president_2018_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "22220001593751",
     "tikName": "Первомайская",
+    "regionCode": "22",
+    "regionTvd": "100100084849148",
+    "regionName": "Алтайский край",
     "uikCount": 45,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 39715,
@@ -100,6 +103,9 @@ export const president_2018_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "22220001593752",
     "tikName": "Новоалтайская городская",
+    "regionCode": "22",
+    "regionTvd": "100100084849148",
+    "regionName": "Алтайский край",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 57703,
@@ -174,6 +180,9 @@ export const president_2018_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "22220001593753",
     "tikName": "Смоленская",
+    "regionCode": "22",
+    "regionTvd": "100100084849148",
+    "regionName": "Алтайский край",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 19361,
@@ -243,6 +252,9 @@ export const president_2018_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "22220001593754",
     "tikName": "Целинная",
+    "regionCode": "22",
+    "regionTvd": "100100084849148",
+    "regionName": "Алтайский край",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 12683,
@@ -308,6 +320,9 @@ export const president_2018_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "22220001593755",
     "tikName": "Ключевская",
+    "regionCode": "22",
+    "regionTvd": "100100084849148",
+    "regionName": "Алтайский край",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 13081,
@@ -368,6 +383,9 @@ export const president_2018_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "22220001593756",
     "tikName": "Романовская",
+    "regionCode": "22",
+    "regionTvd": "100100084849148",
+    "regionName": "Алтайский край",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9845,
@@ -427,6 +445,9 @@ export const president_2018_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "22220001593757",
     "tikName": "Суетская",
+    "regionCode": "22",
+    "regionTvd": "100100084849148",
+    "regionName": "Алтайский край",
     "uikCount": 7,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 3453,
@@ -478,6 +499,9 @@ export const president_2018_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "22220001593758",
     "tikName": "Зональная",
+    "regionCode": "22",
+    "regionTvd": "100100084849148",
+    "regionName": "Алтайский край",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 15060,
@@ -535,6 +559,9 @@ export const president_2018_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "22220001593759",
     "tikName": "Змеиногорская",
+    "regionCode": "22",
+    "regionTvd": "100100084849148",
+    "regionName": "Алтайский край",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 16072,
@@ -605,6 +632,9 @@ export const president_2018_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "22220001593760",
     "tikName": "Топчихинская",
+    "regionCode": "22",
+    "regionTvd": "100100084849148",
+    "regionName": "Алтайский край",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 17612,
@@ -676,6 +706,9 @@ export const president_2018_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "22220001593761",
     "tikName": "Советская",
+    "regionCode": "22",
+    "regionTvd": "100100084849148",
+    "regionName": "Алтайский край",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 12508,
@@ -738,6 +771,9 @@ export const president_2018_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "22220001593762",
     "tikName": "Краснощековская",
+    "regionCode": "22",
+    "regionTvd": "100100084849148",
+    "regionName": "Алтайский край",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 13223,
@@ -801,6 +837,9 @@ export const president_2018_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "22220001593763",
     "tikName": "Павловская",
+    "regionCode": "22",
+    "regionTvd": "100100084849148",
+    "regionName": "Алтайский край",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 32582,
@@ -880,6 +919,9 @@ export const president_2018_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "22220001593764",
     "tikName": "Барнаул, Железнодорожная",
+    "regionCode": "22",
+    "regionTvd": "100100084849148",
+    "regionName": "Алтайский край",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 78348,
@@ -967,6 +1009,9 @@ export const president_2018_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "22220001593765",
     "tikName": "Локтевская",
+    "regionCode": "22",
+    "regionTvd": "100100084849148",
+    "regionName": "Алтайский край",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 20001,
@@ -1036,6 +1081,9 @@ export const president_2018_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "22220001593766",
     "tikName": "Барнаул, Октябрьская",
+    "regionCode": "22",
+    "regionTvd": "100100084849148",
+    "regionName": "Алтайский край",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 75858,
@@ -1117,6 +1165,9 @@ export const president_2018_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "22220001593767",
     "tikName": "Крутихинская",
+    "regionCode": "22",
+    "regionTvd": "100100084849148",
+    "regionName": "Алтайский край",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 8389,
@@ -1175,6 +1226,9 @@ export const president_2018_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "22220001593768",
     "tikName": "Хабарская",
+    "regionCode": "22",
+    "regionTvd": "100100084849148",
+    "regionName": "Алтайский край",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 12690,
@@ -1240,6 +1294,9 @@ export const president_2018_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "22220001593769",
     "tikName": "Быстроистокская",
+    "regionCode": "22",
+    "regionTvd": "100100084849148",
+    "regionName": "Алтайский край",
     "uikCount": 10,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 7424,
@@ -1294,6 +1351,9 @@ export const president_2018_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "22220001593770",
     "tikName": "Бийская",
+    "regionCode": "22",
+    "regionTvd": "100100084849148",
+    "regionName": "Алтайский край",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 27482,
@@ -1369,6 +1429,9 @@ export const president_2018_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "22220001593771",
     "tikName": "Кулундинская",
+    "regionCode": "22",
+    "regionTvd": "100100084849148",
+    "regionName": "Алтайский край",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 16147,
@@ -1441,6 +1504,9 @@ export const president_2018_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "22220001593772",
     "tikName": "Завьяловская",
+    "regionCode": "22",
+    "regionTvd": "100100084849148",
+    "regionName": "Алтайский край",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 14489,
@@ -1500,6 +1566,9 @@ export const president_2018_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "22220001593773",
     "tikName": "Немецкая",
+    "regionCode": "22",
+    "regionTvd": "100100084849148",
+    "regionName": "Алтайский край",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 12281,
@@ -1558,6 +1627,9 @@ export const president_2018_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "22220001593774",
     "tikName": "Солтонская",
+    "regionCode": "22",
+    "regionTvd": "100100084849148",
+    "regionName": "Алтайский край",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 6601,
@@ -1618,6 +1690,9 @@ export const president_2018_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "22220001593775",
     "tikName": "Бийск, Восточная",
+    "regionCode": "22",
+    "regionTvd": "100100084849148",
+    "regionName": "Алтайский край",
     "uikCount": 52,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 80133,
@@ -1714,6 +1789,9 @@ export const president_2018_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "22220001593776",
     "tikName": "Барнаул, Индустриальная",
+    "regionCode": "22",
+    "regionTvd": "100100084849148",
+    "regionName": "Алтайский край",
     "uikCount": 81,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 168777,
@@ -1839,6 +1917,9 @@ export const president_2018_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "22220001593777",
     "tikName": "Косихинская",
+    "regionCode": "22",
+    "regionTvd": "100100084849148",
+    "regionName": "Алтайский край",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 13950,
@@ -1908,6 +1989,9 @@ export const president_2018_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "22220001593778",
     "tikName": "Угловская",
+    "regionCode": "22",
+    "regionTvd": "100100084849148",
+    "regionName": "Алтайский край",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9488,
@@ -1972,6 +2056,9 @@ export const president_2018_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "22220001593779",
     "tikName": "Курьинская",
+    "regionCode": "22",
+    "regionTvd": "100100084849148",
+    "regionName": "Алтайский край",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 8314,
@@ -2031,6 +2118,9 @@ export const president_2018_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "22220001593780",
     "tikName": "Каменская",
+    "regionCode": "22",
+    "regionTvd": "100100084849148",
+    "regionName": "Алтайский край",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 38162,
@@ -2125,6 +2215,9 @@ export const president_2018_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "22220001593781",
     "tikName": "Тогульская",
+    "regionCode": "22",
+    "regionTvd": "100100084849148",
+    "regionName": "Алтайский край",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 6404,
@@ -2183,6 +2276,9 @@ export const president_2018_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "22220001593782",
     "tikName": "Тальменская",
+    "regionCode": "22",
+    "regionTvd": "100100084849148",
+    "regionName": "Алтайский край",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 33314,
@@ -2270,6 +2366,9 @@ export const president_2018_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "22220001593783",
     "tikName": "Калманская",
+    "regionCode": "22",
+    "regionTvd": "100100084849148",
+    "regionName": "Алтайский край",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 11140,
@@ -2335,6 +2434,9 @@ export const president_2018_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "22220001593784",
     "tikName": "Алтайская",
+    "regionCode": "22",
+    "regionTvd": "100100084849148",
+    "regionName": "Алтайский край",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 19418,
@@ -2402,6 +2504,9 @@ export const president_2018_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "22220001593785",
     "tikName": "Бурлинская",
+    "regionCode": "22",
+    "regionTvd": "100100084849148",
+    "regionName": "Алтайский край",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 8285,
@@ -2465,6 +2570,9 @@ export const president_2018_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "22220001593786",
     "tikName": "Тюменцевская",
+    "regionCode": "22",
+    "regionTvd": "100100084849148",
+    "regionName": "Алтайский край",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10485,
@@ -2529,6 +2637,9 @@ export const president_2018_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "22220001593787",
     "tikName": "Залесовская",
+    "regionCode": "22",
+    "regionTvd": "100100084849148",
+    "regionName": "Алтайский край",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 11453,
@@ -2594,6 +2705,9 @@ export const president_2018_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "22220001593788",
     "tikName": "Белокурихинская городская",
+    "regionCode": "22",
+    "regionTvd": "100100084849148",
+    "regionName": "Алтайский край",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 13871,
@@ -2650,6 +2764,9 @@ export const president_2018_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "22220001593789",
     "tikName": "Егорьевская",
+    "regionCode": "22",
+    "regionTvd": "100100084849148",
+    "regionName": "Алтайский край",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10202,
@@ -2706,6 +2823,9 @@ export const president_2018_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "22220001593790",
     "tikName": "Рубцовская городская",
+    "regionCode": "22",
+    "regionTvd": "100100084849148",
+    "regionName": "Алтайский край",
     "uikCount": 58,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 101070,
@@ -2808,6 +2928,9 @@ export const president_2018_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "22220001593791",
     "tikName": "Красногорская",
+    "regionCode": "22",
+    "regionTvd": "100100084849148",
+    "regionName": "Алтайский край",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 12020,
@@ -2881,6 +3004,9 @@ export const president_2018_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "22220001593792",
     "tikName": "Баевская",
+    "regionCode": "22",
+    "regionTvd": "100100084849148",
+    "regionName": "Алтайский край",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 7975,
@@ -2939,6 +3065,9 @@ export const president_2018_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "22220001593793",
     "tikName": "Шелаболихинская",
+    "regionCode": "22",
+    "regionTvd": "100100084849148",
+    "regionName": "Алтайский край",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10292,
@@ -2999,6 +3128,9 @@ export const president_2018_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "22220001593794",
     "tikName": "Заринская городская",
+    "regionCode": "22",
+    "regionTvd": "100100084849148",
+    "regionName": "Алтайский край",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 36476,
@@ -3063,6 +3195,9 @@ export const president_2018_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "22220001593795",
     "tikName": "Поспелихинская",
+    "regionCode": "22",
+    "regionTvd": "100100084849148",
+    "regionName": "Алтайский край",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 18819,
@@ -3127,6 +3262,9 @@ export const president_2018_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "22220001593796",
     "tikName": "Алейская",
+    "regionCode": "22",
+    "regionTvd": "100100084849148",
+    "regionName": "Алтайский край",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 12191,
@@ -3205,6 +3343,9 @@ export const president_2018_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "22220001593797",
     "tikName": "Шипуновская",
+    "regionCode": "22",
+    "regionTvd": "100100084849148",
+    "regionName": "Алтайский край",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 23060,
@@ -3285,6 +3426,9 @@ export const president_2018_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "22220001593798",
     "tikName": "Алейская городская",
+    "regionCode": "22",
+    "regionTvd": "100100084849148",
+    "regionName": "Алтайский край",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 21318,
@@ -3344,6 +3488,9 @@ export const president_2018_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "22220001593799",
     "tikName": "Усть-Пристанская",
+    "regionCode": "22",
+    "regionTvd": "100100084849148",
+    "regionName": "Алтайский край",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10314,
@@ -3407,6 +3554,9 @@ export const president_2018_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "22220001593800",
     "tikName": "Солонешенская",
+    "regionCode": "22",
+    "regionTvd": "100100084849148",
+    "regionName": "Алтайский край",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 7152,
@@ -3469,6 +3619,9 @@ export const president_2018_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "22220001593801",
     "tikName": "Мамонтовская",
+    "regionCode": "22",
+    "regionTvd": "100100084849148",
+    "regionName": "Алтайский край",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 17161,
@@ -3535,6 +3688,9 @@ export const president_2018_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "22220001593802",
     "tikName": "Рубцовская",
+    "regionCode": "22",
+    "regionTvd": "100100084849148",
+    "regionName": "Алтайский край",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 17146,
@@ -3606,6 +3762,9 @@ export const president_2018_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "22220001593803",
     "tikName": "Родинская",
+    "regionCode": "22",
+    "regionTvd": "100100084849148",
+    "regionName": "Алтайский край",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 13310,
@@ -3672,6 +3831,9 @@ export const president_2018_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "22220001593804",
     "tikName": "Троицкая",
+    "regionCode": "22",
+    "regionTvd": "100100084849148",
+    "regionName": "Алтайский край",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 19080,
@@ -3754,6 +3916,9 @@ export const president_2018_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "22220001593805",
     "tikName": "Славгородская городская",
+    "regionCode": "22",
+    "regionTvd": "100100084849148",
+    "regionName": "Алтайский край",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 31041,
@@ -3827,6 +3992,9 @@ export const president_2018_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "22220001593806",
     "tikName": "Бийск, Приобская",
+    "regionCode": "22",
+    "regionTvd": "100100084849148",
+    "regionName": "Алтайский край",
     "uikCount": 47,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 84119,
@@ -3918,6 +4086,9 @@ export const president_2018_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "22220001593807",
     "tikName": "Табунская",
+    "regionCode": "22",
+    "regionTvd": "100100084849148",
+    "regionName": "Алтайский край",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 6862,
@@ -3977,6 +4148,9 @@ export const president_2018_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "22220001593808",
     "tikName": "Ельцовская",
+    "regionCode": "22",
+    "regionTvd": "100100084849148",
+    "regionName": "Алтайский край",
     "uikCount": 6,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 4768,
@@ -4027,6 +4201,9 @@ export const president_2018_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "22220001593809",
     "tikName": "Волчихинская",
+    "regionCode": "22",
+    "regionTvd": "100100084849148",
+    "regionName": "Алтайский край",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 14318,
@@ -4089,6 +4266,9 @@ export const president_2018_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "22220001593810",
     "tikName": "Сибирская городская",
+    "regionCode": "22",
+    "regionTvd": "100100084849148",
+    "regionName": "Алтайский край",
     "uikCount": 6,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 8260,
@@ -4139,6 +4319,9 @@ export const president_2018_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "22220001593811",
     "tikName": "Барнаул, Ленинская",
+    "regionCode": "22",
+    "regionTvd": "100100084849148",
+    "regionName": "Алтайский край",
     "uikCount": 54,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 107937,
@@ -4237,6 +4420,9 @@ export const president_2018_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "22220001593812",
     "tikName": "Третьяковская",
+    "regionCode": "22",
+    "regionTvd": "100100084849148",
+    "regionName": "Алтайский край",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10225,
@@ -4300,6 +4486,9 @@ export const president_2018_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "22220001593813",
     "tikName": "Петропавловская",
+    "regionCode": "22",
+    "regionTvd": "100100084849148",
+    "regionName": "Алтайский край",
     "uikCount": 10,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9237,
@@ -4354,6 +4543,9 @@ export const president_2018_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "22220001593814",
     "tikName": "Благовещенская",
+    "regionCode": "22",
+    "regionTvd": "100100084849148",
+    "regionName": "Алтайский край",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 22244,
@@ -4426,6 +4618,9 @@ export const president_2018_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "22220001593815",
     "tikName": "Ребрихинская",
+    "regionCode": "22",
+    "regionTvd": "100100084849148",
+    "regionName": "Алтайский край",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 18158,
@@ -4495,6 +4690,9 @@ export const president_2018_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "22220001593816",
     "tikName": "Барнаул, Центральная",
+    "regionCode": "22",
+    "regionTvd": "100100084849148",
+    "regionName": "Алтайский край",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 101491,
@@ -4589,6 +4787,9 @@ export const president_2018_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "22220001593817",
     "tikName": "Чарышская",
+    "regionCode": "22",
+    "regionTvd": "100100084849148",
+    "regionName": "Алтайский край",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9284,
@@ -4654,6 +4855,9 @@ export const president_2018_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "22220001593818",
     "tikName": "Михайловская",
+    "regionCode": "22",
+    "regionTvd": "100100084849148",
+    "regionName": "Алтайский край",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 15873,
@@ -4712,6 +4916,9 @@ export const president_2018_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "22220001593819",
     "tikName": "Заринская",
+    "regionCode": "22",
+    "regionTvd": "100100084849148",
+    "regionName": "Алтайский край",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 12658,
@@ -4795,6 +5002,9 @@ export const president_2018_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "22220001593820",
     "tikName": "Усть-Калманская",
+    "regionCode": "22",
+    "regionTvd": "100100084849148",
+    "regionName": "Алтайский край",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 11739,
@@ -4856,6 +5066,9 @@ export const president_2018_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "22220001593821",
     "tikName": "Панкрушихинская",
+    "regionCode": "22",
+    "regionTvd": "100100084849148",
+    "regionName": "Алтайский край",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9805,
@@ -4920,6 +5133,9 @@ export const president_2018_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "22220001593822",
     "tikName": "Яровская городская",
+    "regionCode": "22",
+    "regionTvd": "100100084849148",
+    "regionName": "Алтайский край",
     "uikCount": 6,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 13078,
@@ -4970,6 +5186,9 @@ export const president_2018_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "22220001593823",
     "tikName": "Новичихинская",
+    "regionCode": "22",
+    "regionTvd": "100100084849148",
+    "regionName": "Алтайский край",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 7619,
@@ -5030,6 +5249,9 @@ export const president_2018_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "22220001593824",
     "tikName": "Кытмановская",
+    "regionCode": "22",
+    "regionTvd": "100100084849148",
+    "regionName": "Алтайский край",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10099,

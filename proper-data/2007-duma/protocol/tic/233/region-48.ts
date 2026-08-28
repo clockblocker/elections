@@ -11,6 +11,9 @@ export const duma_2007_tic_233_region_48 = [
     "ballot": "party",
     "tikTvd": "2482000118522",
     "tikName": "Задонская",
+    "regionCode": "48",
+    "regionTvd": "100100021960268",
+    "regionName": "Липецкая область",
     "uikCount": 55,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 28167,
@@ -120,6 +123,9 @@ export const duma_2007_tic_233_region_48 = [
     "ballot": "party",
     "tikTvd": "2482000118523",
     "tikName": "Долгоруковская",
+    "regionCode": "48",
+    "regionTvd": "100100021960268",
+    "regionName": "Липецкая область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 15237,
@@ -208,6 +214,9 @@ export const duma_2007_tic_233_region_48 = [
     "ballot": "party",
     "tikTvd": "2482000118524",
     "tikName": "Елецкая городская",
+    "regionCode": "48",
+    "regionTvd": "100100021960268",
+    "regionName": "Липецкая область",
     "uikCount": 59,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 90807,
@@ -321,6 +330,9 @@ export const duma_2007_tic_233_region_48 = [
     "ballot": "party",
     "tikTvd": "2482000118525",
     "tikName": "Елецкая",
+    "regionCode": "48",
+    "regionTvd": "100100021960268",
+    "regionName": "Липецкая область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 22989,
@@ -409,6 +421,9 @@ export const duma_2007_tic_233_region_48 = [
     "ballot": "party",
     "tikTvd": "2482000118526",
     "tikName": "Добровская",
+    "regionCode": "48",
+    "regionTvd": "100100021960268",
+    "regionName": "Липецкая область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 20424,
@@ -494,6 +509,9 @@ export const duma_2007_tic_233_region_48 = [
     "ballot": "party",
     "tikTvd": "2482000118527",
     "tikName": "Добринская",
+    "regionCode": "48",
+    "regionTvd": "100100021960268",
+    "regionName": "Липецкая область",
     "uikCount": 45,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 30122,
@@ -593,6 +611,9 @@ export const duma_2007_tic_233_region_48 = [
     "ballot": "party",
     "tikTvd": "2482000118528",
     "tikName": "Данковская",
+    "regionCode": "48",
+    "regionTvd": "100100021960268",
+    "regionName": "Липецкая область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 31701,
@@ -681,6 +702,9 @@ export const duma_2007_tic_233_region_48 = [
     "ballot": "party",
     "tikTvd": "2482000118529",
     "tikName": "Грязинская",
+    "regionCode": "48",
+    "regionTvd": "100100021960268",
+    "regionName": "Липецкая область",
     "uikCount": 52,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 55244,
@@ -787,6 +811,9 @@ export const duma_2007_tic_233_region_48 = [
     "ballot": "party",
     "tikTvd": "2482000118530",
     "tikName": "Измалковская",
+    "regionCode": "48",
+    "regionTvd": "100100021960268",
+    "regionName": "Липецкая область",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 14156,
@@ -873,6 +900,9 @@ export const duma_2007_tic_233_region_48 = [
     "ballot": "party",
     "tikTvd": "2482000118531",
     "tikName": "Воловская",
+    "regionCode": "48",
+    "regionTvd": "100100021960268",
+    "regionName": "Липецкая область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 12447,
@@ -948,6 +978,9 @@ export const duma_2007_tic_233_region_48 = [
     "ballot": "party",
     "tikTvd": "2482000118532",
     "tikName": "Хлевенская",
+    "regionCode": "48",
+    "regionTvd": "100100021960268",
+    "regionName": "Липецкая область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 16821,
@@ -1028,6 +1061,9 @@ export const duma_2007_tic_233_region_48 = [
     "ballot": "party",
     "tikTvd": "2482000118533",
     "tikName": "Липецк, Левобережная",
+    "regionCode": "48",
+    "regionTvd": "100100021960268",
+    "regionName": "Липецкая область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 41234,
@@ -1108,6 +1144,9 @@ export const duma_2007_tic_233_region_48 = [
     "ballot": "party",
     "tikTvd": "2482000118534",
     "tikName": "Чаплыгинская",
+    "regionCode": "48",
+    "regionTvd": "100100021960268",
+    "regionName": "Липецкая область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 26374,
@@ -1198,6 +1237,9 @@ export const duma_2007_tic_233_region_48 = [
     "ballot": "party",
     "tikTvd": "2482000118535",
     "tikName": "Тербунская",
+    "regionCode": "48",
+    "regionTvd": "100100021960268",
+    "regionName": "Липецкая область",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 17837,
@@ -1285,6 +1327,9 @@ export const duma_2007_tic_233_region_48 = [
     "ballot": "party",
     "tikTvd": "2482000118536",
     "tikName": "Становлянская",
+    "regionCode": "48",
+    "regionTvd": "100100021960268",
+    "regionName": "Липецкая область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 15478,
@@ -1368,6 +1413,9 @@ export const duma_2007_tic_233_region_48 = [
     "ballot": "party",
     "tikTvd": "2482000118537",
     "tikName": "Усманская",
+    "regionCode": "48",
+    "regionTvd": "100100021960268",
+    "regionName": "Липецкая область",
     "uikCount": 47,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 37386,
@@ -1469,6 +1517,9 @@ export const duma_2007_tic_233_region_48 = [
     "ballot": "party",
     "tikTvd": "2482000118538",
     "tikName": "Липецкая",
+    "regionCode": "48",
+    "regionTvd": "100100021960268",
+    "regionName": "Липецкая область",
     "uikCount": 47,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 38333,
@@ -1570,6 +1621,9 @@ export const duma_2007_tic_233_region_48 = [
     "ballot": "party",
     "tikTvd": "2482000118539",
     "tikName": "Лев-Толстовская",
+    "regionCode": "48",
+    "regionTvd": "100100021960268",
+    "regionName": "Липецкая область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 13188,
@@ -1649,6 +1703,9 @@ export const duma_2007_tic_233_region_48 = [
     "ballot": "party",
     "tikTvd": "2482000118540",
     "tikName": "Краснинская",
+    "regionCode": "48",
+    "regionTvd": "100100021960268",
+    "regionName": "Липецкая область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 11443,
@@ -1725,6 +1782,9 @@ export const duma_2007_tic_233_region_48 = [
     "ballot": "party",
     "tikTvd": "2482000118541",
     "tikName": "Липецк, Октябрьская",
+    "regionCode": "48",
+    "regionTvd": "100100021960268",
+    "regionName": "Липецкая область",
     "uikCount": 76,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 165450,
@@ -1855,6 +1915,9 @@ export const duma_2007_tic_233_region_48 = [
     "ballot": "party",
     "tikTvd": "2482000118542",
     "tikName": "Лебедянская",
+    "regionCode": "48",
+    "regionTvd": "100100021960268",
+    "regionName": "Липецкая область",
     "uikCount": 49,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 36199,
@@ -1958,6 +2021,9 @@ export const duma_2007_tic_233_region_48 = [
     "ballot": "party",
     "tikTvd": "2482000118543",
     "tikName": "Липецк, Советская",
+    "regionCode": "48",
+    "regionTvd": "100100021960268",
+    "regionName": "Липецкая область",
     "uikCount": 69,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 136743,
@@ -2081,6 +2147,9 @@ export const duma_2007_tic_233_region_48 = [
     "ballot": "party",
     "tikTvd": "2482000118544",
     "tikName": "Липецк, Правобережная",
+    "regionCode": "48",
+    "regionTvd": "100100021960268",
+    "regionName": "Липецкая область",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 64397,

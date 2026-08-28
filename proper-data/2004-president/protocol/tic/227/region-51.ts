@@ -11,6 +11,9 @@ export const president_2004_tic_227_region_51 = [
     "ballot": "presidential",
     "tikTvd": "251200077693",
     "tikName": "Видяевская",
+    "regionCode": "51",
+    "regionTvd": "1001000883232",
+    "regionName": "Мурманская область",
     "uikCount": 3,
     "accounting": {
       "Число избирателей, внесенных в список": 5295,
@@ -62,6 +65,9 @@ export const president_2004_tic_227_region_51 = [
     "ballot": "presidential",
     "tikTvd": "251200077694",
     "tikName": "Заозерская ",
+    "regionCode": "51",
+    "regionTvd": "1001000883232",
+    "regionName": "Мурманская область",
     "uikCount": 5,
     "accounting": {
       "Число избирателей, внесенных в список": 10020,
@@ -115,6 +121,9 @@ export const president_2004_tic_227_region_51 = [
     "ballot": "presidential",
     "tikTvd": "251200077695",
     "tikName": "Полярнинская",
+    "regionCode": "51",
+    "regionTvd": "1001000883232",
+    "regionName": "Мурманская область",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в список": 15815,
@@ -176,6 +185,9 @@ export const president_2004_tic_227_region_51 = [
     "ballot": "presidential",
     "tikTvd": "251200077696",
     "tikName": "Печенгская",
+    "regionCode": "51",
+    "regionTvd": "1001000883232",
+    "regionName": "Мурманская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в список": 37428,
@@ -254,6 +266,9 @@ export const president_2004_tic_227_region_51 = [
     "ballot": "presidential",
     "tikTvd": "251200077697",
     "tikName": "Кировская",
+    "regionCode": "51",
+    "regionTvd": "1001000883232",
+    "regionName": "Мурманская область",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в список": 29028,
@@ -318,6 +333,9 @@ export const president_2004_tic_227_region_51 = [
     "ballot": "presidential",
     "tikTvd": "251200077698",
     "tikName": "Снежногорская территориальная избирательная комиссия",
+    "regionCode": "51",
+    "regionTvd": "1001000883232",
+    "regionName": "Мурманская область",
     "uikCount": 6,
     "accounting": {
       "Число избирателей, внесенных в список": 10162,
@@ -372,6 +390,9 @@ export const president_2004_tic_227_region_51 = [
     "ballot": "presidential",
     "tikTvd": "251200077699",
     "tikName": "Скалистинская",
+    "regionCode": "51",
+    "regionTvd": "1001000883232",
+    "regionName": "Мурманская область",
     "uikCount": 7,
     "accounting": {
       "Число избирателей, внесенных в список": 11376,
@@ -427,6 +448,9 @@ export const president_2004_tic_227_region_51 = [
     "ballot": "presidential",
     "tikTvd": "251200077700",
     "tikName": "Североморская",
+    "regionCode": "51",
+    "regionTvd": "1001000883232",
+    "regionName": "Мурманская область",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в список": 64412,
@@ -507,6 +531,9 @@ export const president_2004_tic_227_region_51 = [
     "ballot": "presidential",
     "tikTvd": "251200077701",
     "tikName": "Полярнозоринская",
+    "regionCode": "51",
+    "regionTvd": "1001000883232",
+    "regionName": "Мурманская область",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, внесенных в список": 15641,
@@ -567,6 +594,9 @@ export const president_2004_tic_227_region_51 = [
     "ballot": "presidential",
     "tikTvd": "251200077702",
     "tikName": "Апатитская",
+    "regionCode": "51",
+    "regionTvd": "1001000883232",
+    "regionName": "Мурманская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список": 54717,
@@ -641,6 +671,9 @@ export const president_2004_tic_227_region_51 = [
     "ballot": "presidential",
     "tikTvd": "251200077703",
     "tikName": "Кандалакшская",
+    "regionCode": "51",
+    "regionTvd": "1001000883232",
+    "regionName": "Мурманская область",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, внесенных в список": 48056,
@@ -731,6 +764,9 @@ export const president_2004_tic_227_region_51 = [
     "ballot": "presidential",
     "tikTvd": "251200077704",
     "tikName": "Мончегорская",
+    "regionCode": "51",
+    "regionTvd": "1001000883232",
+    "regionName": "Мурманская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список": 44746,
@@ -805,6 +841,9 @@ export const president_2004_tic_227_region_51 = [
     "ballot": "presidential",
     "tikTvd": "251200077705",
     "tikName": "Островнинская",
+    "regionCode": "51",
+    "regionTvd": "1001000883232",
+    "regionName": "Мурманская область",
     "uikCount": 2,
     "accounting": {
       "Число выданных открепительных удостоверений": 48
@@ -834,6 +873,9 @@ export const president_2004_tic_227_region_51 = [
     "ballot": "presidential",
     "tikTvd": "251200077706",
     "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "1001000883232",
+    "regionName": "Мурманская область",
     "uikCount": 349,
     "accounting": {
       "Число избирателей, внесенных в список": 283355,
@@ -1231,6 +1273,9 @@ export const president_2004_tic_227_region_51 = [
     "ballot": "presidential",
     "tikTvd": "251200077707",
     "tikName": "Кольская",
+    "regionCode": "51",
+    "regionTvd": "1001000883232",
+    "regionName": "Мурманская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в список": 37967,
@@ -1313,6 +1358,9 @@ export const president_2004_tic_227_region_51 = [
     "ballot": "presidential",
     "tikTvd": "251200077708",
     "tikName": "Ковдорская",
+    "regionCode": "51",
+    "regionTvd": "1001000883232",
+    "regionName": "Мурманская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список": 21479,
@@ -1376,6 +1424,9 @@ export const president_2004_tic_227_region_51 = [
     "ballot": "presidential",
     "tikTvd": "251200077709",
     "tikName": "Ловозерская",
+    "regionCode": "51",
+    "regionTvd": "1001000883232",
+    "regionName": "Мурманская область",
     "uikCount": 10,
     "accounting": {
       "Число избирателей, внесенных в список": 11105,
@@ -1434,6 +1485,9 @@ export const president_2004_tic_227_region_51 = [
     "ballot": "presidential",
     "tikTvd": "251200077710",
     "tikName": "Оленегорская",
+    "regionCode": "51",
+    "regionTvd": "1001000883232",
+    "regionName": "Мурманская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список": 26237,
@@ -1500,6 +1554,9 @@ export const president_2004_tic_227_region_51 = [
     "ballot": "presidential",
     "tikTvd": "251200077711",
     "tikName": "Терская",
+    "regionCode": "51",
+    "regionTvd": "1001000883232",
+    "regionName": "Мурманская область",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в список": 5914,

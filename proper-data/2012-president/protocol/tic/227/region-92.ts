@@ -11,6 +11,9 @@ export const president_2012_tic_227_region_92 = [
     "ballot": "presidential",
     "tikTvd": "2752000367597",
     "tikName": "Улетовская",
+    "regionCode": "92",
+    "regionTvd": "100100031793932",
+    "regionName": "Забайкальский край",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 16063,
@@ -82,6 +85,9 @@ export const president_2012_tic_227_region_92 = [
     "ballot": "presidential",
     "tikTvd": "2752000367598",
     "tikName": "Агинская",
+    "regionCode": "92",
+    "regionTvd": "100100031793932",
+    "regionName": "Забайкальский край",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10954,
@@ -146,6 +152,9 @@ export const president_2012_tic_227_region_92 = [
     "ballot": "presidential",
     "tikTvd": "2752000367599",
     "tikName": "Дульдургинская",
+    "regionCode": "92",
+    "regionTvd": "100100031793932",
+    "regionName": "Забайкальский край",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10362,
@@ -206,6 +215,9 @@ export const president_2012_tic_227_region_92 = [
     "ballot": "presidential",
     "tikTvd": "2752000367600",
     "tikName": "Могойтуйская",
+    "regionCode": "92",
+    "regionTvd": "100100031793932",
+    "regionName": "Забайкальский край",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 18311,
@@ -276,6 +288,9 @@ export const president_2012_tic_227_region_92 = [
     "ballot": "presidential",
     "tikTvd": "2752000367601",
     "tikName": "Чита, Железнодорожная",
+    "regionCode": "92",
+    "regionTvd": "100100031793932",
+    "regionName": "Забайкальский край",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 38517,
@@ -338,6 +353,9 @@ export const president_2012_tic_227_region_92 = [
     "ballot": "presidential",
     "tikTvd": "2752000367602",
     "tikName": "Чита, Ингодинская",
+    "regionCode": "92",
+    "regionTvd": "100100031793932",
+    "regionName": "Забайкальский край",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 53642,
@@ -413,6 +431,9 @@ export const president_2012_tic_227_region_92 = [
     "ballot": "presidential",
     "tikTvd": "2752000367603",
     "tikName": "Чита, Центральная",
+    "regionCode": "92",
+    "regionTvd": "100100031793932",
+    "regionName": "Забайкальский край",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 95113,
@@ -503,6 +524,9 @@ export const president_2012_tic_227_region_92 = [
     "ballot": "presidential",
     "tikTvd": "2752000367604",
     "tikName": "Чита, Черновская",
+    "regionCode": "92",
+    "regionTvd": "100100031793932",
+    "regionName": "Забайкальский край",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 61747,
@@ -583,6 +607,9 @@ export const president_2012_tic_227_region_92 = [
     "ballot": "presidential",
     "tikTvd": "2752000367605",
     "tikName": "Агинская городская",
+    "regionCode": "92",
+    "regionTvd": "100100031793932",
+    "regionName": "Забайкальский край",
     "uikCount": 4,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10085,
@@ -634,6 +661,9 @@ export const president_2012_tic_227_region_92 = [
     "ballot": "presidential",
     "tikTvd": "2752000367606",
     "tikName": "Акшинская",
+    "regionCode": "92",
+    "regionTvd": "100100031793932",
+    "regionName": "Забайкальский край",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 8997,
@@ -697,6 +727,9 @@ export const president_2012_tic_227_region_92 = [
     "ballot": "presidential",
     "tikTvd": "2752000367607",
     "tikName": "Кыринская",
+    "regionCode": "92",
+    "regionTvd": "100100031793932",
+    "regionName": "Забайкальский край",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 11193,
@@ -762,6 +795,9 @@ export const president_2012_tic_227_region_92 = [
     "ballot": "presidential",
     "tikTvd": "2752000367608",
     "tikName": "Красночикойская",
+    "regionCode": "92",
+    "regionTvd": "100100031793932",
+    "regionName": "Забайкальский край",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 15437,
@@ -846,6 +882,9 @@ export const president_2012_tic_227_region_92 = [
     "ballot": "presidential",
     "tikTvd": "2752000367609",
     "tikName": "Калганская",
+    "regionCode": "92",
+    "regionTvd": "100100031793932",
+    "regionName": "Забайкальский край",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 6929,
@@ -904,6 +943,9 @@ export const president_2012_tic_227_region_92 = [
     "ballot": "presidential",
     "tikTvd": "2752000367610",
     "tikName": "Краснокаменская",
+    "regionCode": "92",
+    "regionTvd": "100100031793932",
+    "regionName": "Забайкальский край",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 49604,
@@ -983,6 +1025,9 @@ export const president_2012_tic_227_region_92 = [
     "ballot": "presidential",
     "tikTvd": "2752000367611",
     "tikName": "Карымская",
+    "regionCode": "92",
+    "regionTvd": "100100031793932",
+    "regionName": "Забайкальский край",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 26056,
@@ -1059,6 +1104,9 @@ export const president_2012_tic_227_region_92 = [
     "ballot": "presidential",
     "tikTvd": "2752000367612",
     "tikName": "Забайкальская",
+    "regionCode": "92",
+    "regionTvd": "100100031793932",
+    "regionName": "Забайкальский край",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 15464,
@@ -1121,6 +1169,9 @@ export const president_2012_tic_227_region_92 = [
     "ballot": "presidential",
     "tikTvd": "2752000367613",
     "tikName": "Каларская",
+    "regionCode": "92",
+    "regionTvd": "100100031793932",
+    "regionName": "Забайкальский край",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 6815,
@@ -1183,6 +1234,9 @@ export const president_2012_tic_227_region_92 = [
     "ballot": "presidential",
     "tikTvd": "2752000367614",
     "tikName": "Газимуро-Заводская",
+    "regionCode": "92",
+    "regionTvd": "100100031793932",
+    "regionName": "Забайкальский край",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 7363,
@@ -1253,6 +1307,9 @@ export const president_2012_tic_227_region_92 = [
     "ballot": "presidential",
     "tikTvd": "2752000367615",
     "tikName": "Тунгокоченская",
+    "regionCode": "92",
+    "regionTvd": "100100031793932",
+    "regionName": "Забайкальский край",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10212,
@@ -1320,6 +1377,9 @@ export const president_2012_tic_227_region_92 = [
     "ballot": "presidential",
     "tikTvd": "2752000367616",
     "tikName": "Тунгиро-Олекминская",
+    "regionCode": "92",
+    "regionTvd": "100100031793932",
+    "regionName": "Забайкальский край",
     "uikCount": 5,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 1033,
@@ -1372,6 +1432,9 @@ export const president_2012_tic_227_region_92 = [
     "ballot": "presidential",
     "tikTvd": "2752000367617",
     "tikName": "Борзинская",
+    "regionCode": "92",
+    "regionTvd": "100100031793932",
+    "regionName": "Забайкальский край",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 39595,
@@ -1458,6 +1521,9 @@ export const president_2012_tic_227_region_92 = [
     "ballot": "presidential",
     "tikTvd": "2752000367618",
     "tikName": "Приаргунская",
+    "regionCode": "92",
+    "regionTvd": "100100031793932",
+    "regionName": "Забайкальский край",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 17178,
@@ -1533,6 +1599,9 @@ export const president_2012_tic_227_region_92 = [
     "ballot": "presidential",
     "tikTvd": "2752000367619",
     "tikName": "Сретенская",
+    "regionCode": "92",
+    "regionTvd": "100100031793932",
+    "regionName": "Забайкальский край",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 17529,
@@ -1620,6 +1689,9 @@ export const president_2012_tic_227_region_92 = [
     "ballot": "presidential",
     "tikTvd": "2752000367620",
     "tikName": "Петровск-Забайкальская",
+    "regionCode": "92",
+    "regionTvd": "100100031793932",
+    "regionName": "Забайкальский край",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 14449,
@@ -1690,6 +1762,9 @@ export const president_2012_tic_227_region_92 = [
     "ballot": "presidential",
     "tikTvd": "2752000367621",
     "tikName": "Нерчинско-Заводская",
+    "regionCode": "92",
+    "regionTvd": "100100031793932",
+    "regionName": "Забайкальский край",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 8505,
@@ -1758,6 +1833,9 @@ export const president_2012_tic_227_region_92 = [
     "ballot": "presidential",
     "tikTvd": "2752000367622",
     "tikName": "Ононская",
+    "regionCode": "92",
+    "regionTvd": "100100031793932",
+    "regionName": "Забайкальский край",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9164,
@@ -1826,6 +1904,9 @@ export const president_2012_tic_227_region_92 = [
     "ballot": "presidential",
     "tikTvd": "2752000367623",
     "tikName": "Нерчинская",
+    "regionCode": "92",
+    "regionTvd": "100100031793932",
+    "regionName": "Забайкальский край",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 19475,
@@ -1911,6 +1992,9 @@ export const president_2012_tic_227_region_92 = [
     "ballot": "presidential",
     "tikTvd": "2752000367624",
     "tikName": "Оловяннинская",
+    "regionCode": "92",
+    "regionTvd": "100100031793932",
+    "regionName": "Забайкальский край",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 27766,
@@ -1995,6 +2079,9 @@ export const president_2012_tic_227_region_92 = [
     "ballot": "presidential",
     "tikTvd": "2752000367625",
     "tikName": "Балейская",
+    "regionCode": "92",
+    "regionTvd": "100100031793932",
+    "regionName": "Забайкальский край",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 16449,
@@ -2079,6 +2166,9 @@ export const president_2012_tic_227_region_92 = [
     "ballot": "presidential",
     "tikTvd": "2752000367626",
     "tikName": "Могочинская",
+    "regionCode": "92",
+    "regionTvd": "100100031793932",
+    "regionName": "Забайкальский край",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 19653,
@@ -2144,6 +2234,9 @@ export const president_2012_tic_227_region_92 = [
     "ballot": "presidential",
     "tikTvd": "2752000367627",
     "tikName": "Петровск-Забайкальская городская",
+    "regionCode": "92",
+    "regionTvd": "100100031793932",
+    "regionName": "Забайкальский край",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 14140,
@@ -2211,6 +2304,9 @@ export const president_2012_tic_227_region_92 = [
     "ballot": "presidential",
     "tikTvd": "2752000367628",
     "tikName": "Читинская",
+    "regionCode": "92",
+    "regionTvd": "100100031793932",
+    "regionName": "Забайкальский край",
     "uikCount": 55,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 50074,
@@ -2313,6 +2409,9 @@ export const president_2012_tic_227_region_92 = [
     "ballot": "presidential",
     "tikTvd": "2752000367629",
     "tikName": "Шелопугинская",
+    "regionCode": "92",
+    "regionTvd": "100100031793932",
+    "regionName": "Забайкальский край",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 6715,
@@ -2379,6 +2478,9 @@ export const president_2012_tic_227_region_92 = [
     "ballot": "presidential",
     "tikTvd": "2752000367630",
     "tikName": "Шилкинская",
+    "regionCode": "92",
+    "regionTvd": "100100031793932",
+    "regionName": "Забайкальский край",
     "uikCount": 45,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 34057,
@@ -2471,6 +2573,9 @@ export const president_2012_tic_227_region_92 = [
     "ballot": "presidential",
     "tikTvd": "2752000367631",
     "tikName": "ЗАТО п. Горный",
+    "regionCode": "92",
+    "regionTvd": "100100031793932",
+    "regionName": "Забайкальский край",
     "uikCount": 3,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 6268,
@@ -2521,6 +2626,9 @@ export const president_2012_tic_227_region_92 = [
     "ballot": "presidential",
     "tikTvd": "2752000367632",
     "tikName": "Хилокская",
+    "regionCode": "92",
+    "regionTvd": "100100031793932",
+    "regionName": "Забайкальский край",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 23424,
@@ -2594,6 +2702,9 @@ export const president_2012_tic_227_region_92 = [
     "ballot": "presidential",
     "tikTvd": "2752000367633",
     "tikName": "Чернышевская",
+    "regionCode": "92",
+    "regionTvd": "100100031793932",
+    "regionName": "Забайкальский край",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 26062,
@@ -2678,6 +2789,9 @@ export const president_2012_tic_227_region_92 = [
     "ballot": "presidential",
     "tikTvd": "2752000367634",
     "tikName": "Александрово-Заводская",
+    "regionCode": "92",
+    "regionTvd": "100100031793932",
+    "regionName": "Забайкальский край",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 7312,

@@ -11,6 +11,9 @@ export const president_2004_tic_227_region_84 = [
     "ballot": "presidential",
     "tikTvd": "784700068321",
     "tikName": "Хатангская",
+    "regionCode": "84",
+    "regionTvd": "1001000882952",
+    "regionName": "Таймырский (Долгано-Ненецкий) автономный округ",
     "uikCount": 10,
     "accounting": {
       "Число избирателей, внесенных в список": 4593,
@@ -69,6 +72,9 @@ export const president_2004_tic_227_region_84 = [
     "ballot": "presidential",
     "tikTvd": "784700068322",
     "tikName": "Дудинская",
+    "regionCode": "84",
+    "regionTvd": "1001000882952",
+    "regionName": "Таймырский (Долгано-Ненецкий) автономный округ",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в список": 21433,
@@ -133,6 +139,9 @@ export const president_2004_tic_227_region_84 = [
     "ballot": "presidential",
     "tikTvd": "784700068323",
     "tikName": "Усть-Енисейская",
+    "regionCode": "84",
+    "regionTvd": "1001000882952",
+    "regionName": "Таймырский (Долгано-Ненецкий) автономный округ",
     "uikCount": 6,
     "accounting": {
       "Число избирателей, внесенных в список": 2398,
@@ -187,6 +196,9 @@ export const president_2004_tic_227_region_84 = [
     "ballot": "presidential",
     "tikTvd": "784700068324",
     "tikName": "Диксонская",
+    "regionCode": "84",
+    "regionTvd": "1001000882952",
+    "regionName": "Таймырский (Долгано-Ненецкий) автономный округ",
     "uikCount": 2,
     "accounting": {
       "Число неиспользованных открепительных удостоверений": 62

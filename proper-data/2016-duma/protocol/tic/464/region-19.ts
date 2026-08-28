@@ -11,6 +11,14 @@ export const duma_2016_tic_464_region_19 = [
     "ballot": "single-member",
     "tikTvd": "2192000448404",
     "tikName": "Боградская",
+    "regionCode": "19",
+    "regionTvd": "100100067795904",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100067795905",
+      "oikName": "Республика Хакасия – Хакасский"
+    },
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 10608,
@@ -85,6 +93,14 @@ export const duma_2016_tic_464_region_19 = [
     "ballot": "single-member",
     "tikTvd": "2192000448405",
     "tikName": "Таштыпская",
+    "regionCode": "19",
+    "regionTvd": "100100067795904",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100067795905",
+      "oikName": "Республика Хакасия – Хакасский"
+    },
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 10829,
@@ -159,6 +175,14 @@ export const duma_2016_tic_464_region_19 = [
     "ballot": "single-member",
     "tikTvd": "2192000448406",
     "tikName": "Аскизская",
+    "regionCode": "19",
+    "regionTvd": "100100067795904",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100067795905",
+      "oikName": "Республика Хакасия – Хакасский"
+    },
     "uikCount": 42,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 30518,
@@ -249,6 +273,14 @@ export const duma_2016_tic_464_region_19 = [
     "ballot": "single-member",
     "tikTvd": "2192000448407",
     "tikName": "Абазинская городская",
+    "regionCode": "19",
+    "regionTvd": "100100067795904",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100067795905",
+      "oikName": "Республика Хакасия – Хакасский"
+    },
     "uikCount": 11,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 11336,
@@ -308,6 +340,14 @@ export const duma_2016_tic_464_region_19 = [
     "ballot": "single-member",
     "tikTvd": "2192000448408",
     "tikName": "Черногорская городская",
+    "regionCode": "19",
+    "regionTvd": "100100067795904",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100067795905",
+      "oikName": "Республика Хакасия – Хакасский"
+    },
     "uikCount": 42,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 51011,
@@ -398,6 +438,14 @@ export const duma_2016_tic_464_region_19 = [
     "ballot": "single-member",
     "tikTvd": "2192000448409",
     "tikName": "Саяногорская городская",
+    "regionCode": "19",
+    "regionTvd": "100100067795904",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100067795905",
+      "oikName": "Республика Хакасия – Хакасский"
+    },
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 50224,
@@ -472,6 +520,14 @@ export const duma_2016_tic_464_region_19 = [
     "ballot": "single-member",
     "tikTvd": "2192000448410",
     "tikName": "Бейская",
+    "regionCode": "19",
+    "regionTvd": "100100067795904",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100067795905",
+      "oikName": "Республика Хакасия – Хакасский"
+    },
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 15722,
@@ -547,6 +603,14 @@ export const duma_2016_tic_464_region_19 = [
     "ballot": "single-member",
     "tikTvd": "2192000448411",
     "tikName": "Усть-Абаканская",
+    "regionCode": "19",
+    "regionTvd": "100100067795904",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100067795905",
+      "oikName": "Республика Хакасия – Хакасский"
+    },
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 32005,
@@ -629,6 +693,14 @@ export const duma_2016_tic_464_region_19 = [
     "ballot": "single-member",
     "tikTvd": "2192000448412",
     "tikName": "Сорская городская",
+    "regionCode": "19",
+    "regionTvd": "100100067795904",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100067795905",
+      "oikName": "Республика Хакасия – Хакасский"
+    },
     "uikCount": 7,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 8447,
@@ -684,6 +756,14 @@ export const duma_2016_tic_464_region_19 = [
     "ballot": "single-member",
     "tikTvd": "2192000448413",
     "tikName": "Абаканская городская",
+    "regionCode": "19",
+    "regionTvd": "100100067795904",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100067795905",
+      "oikName": "Республика Хакасия – Хакасский"
+    },
     "uikCount": 75,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 126164,
@@ -807,6 +887,14 @@ export const duma_2016_tic_464_region_19 = [
     "ballot": "single-member",
     "tikTvd": "2192000448414",
     "tikName": "Алтайская",
+    "regionCode": "19",
+    "regionTvd": "100100067795904",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100067795905",
+      "oikName": "Республика Хакасия – Хакасский"
+    },
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 17223,
@@ -879,6 +967,14 @@ export const duma_2016_tic_464_region_19 = [
     "ballot": "single-member",
     "tikTvd": "2192000448415",
     "tikName": "Ширинская",
+    "regionCode": "19",
+    "regionTvd": "100100067795904",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100067795905",
+      "oikName": "Республика Хакасия – Хакасский"
+    },
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 21969,
@@ -958,6 +1054,14 @@ export const duma_2016_tic_464_region_19 = [
     "ballot": "single-member",
     "tikTvd": "2192000448416",
     "tikName": "Орджоникидзевская",
+    "regionCode": "19",
+    "regionTvd": "100100067795904",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100067795905",
+      "oikName": "Республика Хакасия – Хакасский"
+    },
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 9799,

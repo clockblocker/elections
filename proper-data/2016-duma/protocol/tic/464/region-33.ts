@@ -11,6 +11,14 @@ export const duma_2016_tic_464_region_33 = [
     "ballot": "single-member",
     "tikTvd": "2332000725947",
     "tikName": "Владимир, Октябрьская",
+    "regionCode": "33",
+    "regionTvd": "100100067795955",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 79,
+      "oikTvd": "100100067795956",
+      "oikName": "Владимирская область – Владимирский"
+    },
     "uikCount": 46,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 84756,
@@ -109,6 +117,14 @@ export const duma_2016_tic_464_region_33 = [
     "ballot": "single-member",
     "tikTvd": "2332000725973",
     "tikName": "Селивановская",
+    "regionCode": "33",
+    "regionTvd": "100100067795955",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 79,
+      "oikTvd": "100100067795956",
+      "oikName": "Владимирская область – Владимирский"
+    },
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 15757,
@@ -190,6 +206,14 @@ export const duma_2016_tic_464_region_33 = [
     "ballot": "single-member",
     "tikTvd": "2332000725974",
     "tikName": "Муромская",
+    "regionCode": "33",
+    "regionTvd": "100100067795955",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 79,
+      "oikTvd": "100100067795956",
+      "oikName": "Владимирская область – Владимирский"
+    },
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 12943,
@@ -277,6 +301,14 @@ export const duma_2016_tic_464_region_33 = [
     "ballot": "single-member",
     "tikTvd": "2332000725975",
     "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100067795955",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 79,
+      "oikTvd": "100100067795956",
+      "oikName": "Владимирская область – Владимирский"
+    },
     "uikCount": 50,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 29200,
@@ -379,6 +411,14 @@ export const duma_2016_tic_464_region_33 = [
     "ballot": "single-member",
     "tikTvd": "2332000725976",
     "tikName": "Ковровская",
+    "regionCode": "33",
+    "regionTvd": "100100067795955",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 79,
+      "oikTvd": "100100067795956",
+      "oikName": "Владимирская область – Владимирский"
+    },
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 23021,
@@ -464,6 +504,14 @@ export const duma_2016_tic_464_region_33 = [
     "ballot": "single-member",
     "tikTvd": "2332000725977",
     "tikName": "Камешковская",
+    "regionCode": "33",
+    "regionTvd": "100100067795955",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 79,
+      "oikTvd": "100100067795956",
+      "oikName": "Владимирская область – Владимирский"
+    },
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 24904,
@@ -547,6 +595,14 @@ export const duma_2016_tic_464_region_33 = [
     "ballot": "single-member",
     "tikTvd": "2332000725978",
     "tikName": "Гусь-Хрустальная",
+    "regionCode": "33",
+    "regionTvd": "100100067795955",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 79,
+      "oikTvd": "100100067795956",
+      "oikName": "Владимирская область – Владимирский"
+    },
     "uikCount": 43,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 35379,
@@ -642,6 +698,14 @@ export const duma_2016_tic_464_region_33 = [
     "ballot": "single-member",
     "tikTvd": "2332000725979",
     "tikName": "Гороховецкая",
+    "regionCode": "33",
+    "regionTvd": "100100067795955",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 79,
+      "oikTvd": "100100067795956",
+      "oikName": "Владимирская область – Владимирский"
+    },
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 17693,
@@ -714,6 +778,14 @@ export const duma_2016_tic_464_region_33 = [
     "ballot": "single-member",
     "tikTvd": "2332000725980",
     "tikName": "Вязниковская",
+    "regionCode": "33",
+    "regionTvd": "100100067795955",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 79,
+      "oikTvd": "100100067795956",
+      "oikName": "Владимирская область – Владимирский"
+    },
     "uikCount": 69,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 66405,
@@ -835,6 +907,14 @@ export const duma_2016_tic_464_region_33 = [
     "ballot": "single-member",
     "tikTvd": "2332000725981",
     "tikName": "Муром округ",
+    "regionCode": "33",
+    "regionTvd": "100100067795955",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 79,
+      "oikTvd": "100100067795956",
+      "oikName": "Владимирская область – Владимирский"
+    },
     "uikCount": 68,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 103206,
@@ -955,6 +1035,14 @@ export const duma_2016_tic_464_region_33 = [
     "ballot": "single-member",
     "tikTvd": "2332000725982",
     "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100067795955",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 79,
+      "oikTvd": "100100067795956",
+      "oikName": "Владимирская область – Владимирский"
+    },
     "uikCount": 65,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 116279,
@@ -1072,6 +1160,14 @@ export const duma_2016_tic_464_region_33 = [
     "ballot": "single-member",
     "tikTvd": "2332000725983",
     "tikName": "Гусь-Хрустальная городская",
+    "regionCode": "33",
+    "regionTvd": "100100067795955",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 79,
+      "oikTvd": "100100067795956",
+      "oikName": "Владимирская область – Владимирский"
+    },
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 54774,
@@ -1154,6 +1250,14 @@ export const duma_2016_tic_464_region_33 = [
     "ballot": "single-member",
     "tikTvd": "2332000725984",
     "tikName": "Юрьев-Польская",
+    "regionCode": "33",
+    "regionTvd": "100100067795955",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100067795957",
+      "oikName": "Владимирская область – Суздальский"
+    },
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 27421,
@@ -1245,6 +1349,14 @@ export const duma_2016_tic_464_region_33 = [
     "ballot": "single-member",
     "tikTvd": "2332000725985",
     "tikName": "Суздальская",
+    "regionCode": "33",
+    "regionTvd": "100100067795955",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100067795957",
+      "oikName": "Владимирская область – Суздальский"
+    },
     "uikCount": 44,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 35013,
@@ -1340,6 +1452,14 @@ export const duma_2016_tic_464_region_33 = [
     "ballot": "single-member",
     "tikTvd": "2332000725986",
     "tikName": "Судогодская",
+    "regionCode": "33",
+    "regionTvd": "100100067795955",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100067795957",
+      "oikName": "Владимирская область – Суздальский"
+    },
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 31730,
@@ -1430,6 +1550,14 @@ export const duma_2016_tic_464_region_33 = [
     "ballot": "single-member",
     "tikTvd": "2332000725987",
     "tikName": "Собинская",
+    "regionCode": "33",
+    "regionTvd": "100100067795955",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100067795957",
+      "oikName": "Владимирская область – Суздальский"
+    },
     "uikCount": 41,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 47586,
@@ -1522,6 +1650,14 @@ export const duma_2016_tic_464_region_33 = [
     "ballot": "single-member",
     "tikTvd": "2332000725988",
     "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100067795955",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100067795957",
+      "oikName": "Владимирская область – Суздальский"
+    },
     "uikCount": 56,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 52463,
@@ -1629,6 +1765,14 @@ export const duma_2016_tic_464_region_33 = [
     "ballot": "single-member",
     "tikTvd": "2332000725989",
     "tikName": "Кольчугинская",
+    "regionCode": "33",
+    "regionTvd": "100100067795955",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100067795957",
+      "oikName": "Владимирская область – Суздальский"
+    },
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 44015,
@@ -1720,6 +1864,14 @@ export const duma_2016_tic_464_region_33 = [
     "ballot": "single-member",
     "tikTvd": "2332000725990",
     "tikName": "Киржачская",
+    "regionCode": "33",
+    "regionTvd": "100100067795955",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100067795957",
+      "oikName": "Владимирская область – Суздальский"
+    },
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 33428,
@@ -1807,6 +1959,14 @@ export const duma_2016_tic_464_region_33 = [
     "ballot": "single-member",
     "tikTvd": "2332000725991",
     "tikName": "Александровская",
+    "regionCode": "33",
+    "regionTvd": "100100067795955",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100067795957",
+      "oikName": "Владимирская область – Суздальский"
+    },
     "uikCount": 66,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 91461,
@@ -1924,6 +2084,14 @@ export const duma_2016_tic_464_region_33 = [
     "ballot": "single-member",
     "tikTvd": "2332000725992",
     "tikName": "Радужная городская",
+    "regionCode": "33",
+    "regionTvd": "100100067795955",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100067795957",
+      "oikName": "Владимирская область – Суздальский"
+    },
     "uikCount": 6,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 13895,
@@ -1981,6 +2149,14 @@ export const duma_2016_tic_464_region_33 = [
     "ballot": "single-member",
     "tikTvd": "2332000725993",
     "tikName": "Владимир, Фрунзенская",
+    "regionCode": "33",
+    "regionTvd": "100100067795955",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100067795957",
+      "oikName": "Владимирская область – Суздальский"
+    },
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 89670,
@@ -2072,6 +2248,14 @@ export const duma_2016_tic_464_region_33 = [
     "ballot": "single-member",
     "tikTvd": "2332000725994",
     "tikName": "Владимир, Ленинская",
+    "regionCode": "33",
+    "regionTvd": "100100067795955",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100067795957",
+      "oikName": "Владимирская область – Суздальский"
+    },
     "uikCount": 55,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 100707,

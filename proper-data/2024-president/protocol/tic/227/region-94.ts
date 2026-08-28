@@ -11,6 +11,9 @@ export const president_2024_tic_227_region_94 = [
     "ballot": "presidential",
     "tikTvd": "2942000371546",
     "tikName": "Нахимовская",
+    "regionCode": "94",
+    "regionTvd": "100100339411279",
+    "regionName": "город Севастополь",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 84158,
@@ -97,6 +100,9 @@ export const president_2024_tic_227_region_94 = [
     "ballot": "presidential",
     "tikTvd": "2942000371547",
     "tikName": "Ленинская",
+    "regionCode": "94",
+    "regionTvd": "100100339411279",
+    "regionName": "город Севастополь",
     "uikCount": 53,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 78262,
@@ -190,6 +196,9 @@ export const president_2024_tic_227_region_94 = [
     "ballot": "presidential",
     "tikTvd": "2942000371548",
     "tikName": "Гагаринская",
+    "regionCode": "94",
+    "regionTvd": "100100339411279",
+    "regionName": "город Севастополь",
     "uikCount": 54,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 107831,
@@ -284,6 +293,9 @@ export const president_2024_tic_227_region_94 = [
     "ballot": "presidential",
     "tikTvd": "2942000371549",
     "tikName": "Балаклавская",
+    "regionCode": "94",
+    "regionTvd": "100100339411279",
+    "regionName": "город Севастополь",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 43196,

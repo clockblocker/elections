@@ -7,10849 +7,27121 @@ export const duma_2016_uik_to_tik_region_55 = [
   {
     "uikNumber": 1,
     "uikTvd": "4554020199939",
+    "uikName": "УИК №1",
     "tikTvd": "2552000897341",
-    "tikName": "Омск, Кировская"
+    "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 2,
     "uikTvd": "4554020199940",
+    "uikName": "УИК №2",
     "tikTvd": "2552000897341",
-    "tikName": "Омск, Кировская"
+    "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 3,
     "uikTvd": "4554020199941",
+    "uikName": "УИК №3",
     "tikTvd": "2552000897341",
-    "tikName": "Омск, Кировская"
+    "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 4,
     "uikTvd": "4554020199942",
+    "uikName": "УИК №4",
     "tikTvd": "2552000897341",
-    "tikName": "Омск, Кировская"
+    "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 5,
     "uikTvd": "4554020199943",
+    "uikName": "УИК №5",
     "tikTvd": "2552000897341",
-    "tikName": "Омск, Кировская"
+    "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 6,
     "uikTvd": "4554020199944",
+    "uikName": "УИК №6",
     "tikTvd": "2552000897341",
-    "tikName": "Омск, Кировская"
+    "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 7,
     "uikTvd": "4554020199945",
+    "uikName": "УИК №7",
     "tikTvd": "2552000897341",
-    "tikName": "Омск, Кировская"
+    "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 8,
     "uikTvd": "4554020199946",
+    "uikName": "УИК №8",
     "tikTvd": "2552000897341",
-    "tikName": "Омск, Кировская"
+    "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 9,
     "uikTvd": "4554020199947",
+    "uikName": "УИК №9",
     "tikTvd": "2552000897341",
-    "tikName": "Омск, Кировская"
+    "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 10,
     "uikTvd": "4554020199948",
+    "uikName": "УИК №10",
     "tikTvd": "2552000897341",
-    "tikName": "Омск, Кировская"
+    "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 11,
     "uikTvd": "4554020199949",
+    "uikName": "УИК №11",
     "tikTvd": "2552000897341",
-    "tikName": "Омск, Кировская"
+    "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 12,
     "uikTvd": "4554020199950",
+    "uikName": "УИК №12",
     "tikTvd": "2552000897341",
-    "tikName": "Омск, Кировская"
+    "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 13,
     "uikTvd": "4554020199951",
+    "uikName": "УИК №13",
     "tikTvd": "2552000897341",
-    "tikName": "Омск, Кировская"
+    "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 14,
     "uikTvd": "4554020199952",
+    "uikName": "УИК №14",
     "tikTvd": "2552000897341",
-    "tikName": "Омск, Кировская"
+    "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 15,
     "uikTvd": "4554020199953",
+    "uikName": "УИК №15",
     "tikTvd": "2552000897341",
-    "tikName": "Омск, Кировская"
+    "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 16,
     "uikTvd": "4554020199954",
+    "uikName": "УИК №16",
     "tikTvd": "2552000897341",
-    "tikName": "Омск, Кировская"
+    "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 17,
     "uikTvd": "4554020199955",
+    "uikName": "УИК №17",
     "tikTvd": "2552000897341",
-    "tikName": "Омск, Кировская"
+    "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 18,
     "uikTvd": "4554020199956",
+    "uikName": "УИК №18",
     "tikTvd": "2552000897341",
-    "tikName": "Омск, Кировская"
+    "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 19,
     "uikTvd": "4554020199957",
+    "uikName": "УИК №19",
     "tikTvd": "2552000897341",
-    "tikName": "Омск, Кировская"
+    "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 20,
     "uikTvd": "4554020199958",
+    "uikName": "УИК №20",
     "tikTvd": "2552000897341",
-    "tikName": "Омск, Кировская"
+    "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 21,
     "uikTvd": "4554020199959",
+    "uikName": "УИК №21",
     "tikTvd": "2552000897341",
-    "tikName": "Омск, Кировская"
+    "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 22,
     "uikTvd": "4554020199960",
+    "uikName": "УИК №22",
     "tikTvd": "2552000897341",
-    "tikName": "Омск, Кировская"
+    "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 23,
     "uikTvd": "4554020199961",
+    "uikName": "УИК №23",
     "tikTvd": "2552000897341",
-    "tikName": "Омск, Кировская"
+    "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 24,
     "uikTvd": "4554020199962",
+    "uikName": "УИК №24",
     "tikTvd": "2552000897341",
-    "tikName": "Омск, Кировская"
+    "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 25,
     "uikTvd": "4554020199963",
+    "uikName": "УИК №25",
     "tikTvd": "2552000897341",
-    "tikName": "Омск, Кировская"
+    "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 26,
     "uikTvd": "4554020199964",
+    "uikName": "УИК №26",
     "tikTvd": "2552000897341",
-    "tikName": "Омск, Кировская"
+    "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 27,
     "uikTvd": "4554020199965",
+    "uikName": "УИК №27",
     "tikTvd": "2552000897341",
-    "tikName": "Омск, Кировская"
+    "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 28,
     "uikTvd": "4554020199966",
+    "uikName": "УИК №28",
     "tikTvd": "2552000897341",
-    "tikName": "Омск, Кировская"
+    "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 29,
     "uikTvd": "4554020199967",
+    "uikName": "УИК №29",
     "tikTvd": "2552000897341",
-    "tikName": "Омск, Кировская"
+    "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 30,
     "uikTvd": "4554020199968",
+    "uikName": "УИК №30",
     "tikTvd": "2552000897341",
-    "tikName": "Омск, Кировская"
+    "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 31,
     "uikTvd": "4554020199969",
+    "uikName": "УИК №31",
     "tikTvd": "2552000897341",
-    "tikName": "Омск, Кировская"
+    "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 32,
     "uikTvd": "4554020199970",
+    "uikName": "УИК №32",
     "tikTvd": "2552000897341",
-    "tikName": "Омск, Кировская"
+    "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 33,
     "uikTvd": "4554020199971",
+    "uikName": "УИК №33",
     "tikTvd": "2552000897341",
-    "tikName": "Омск, Кировская"
+    "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 34,
     "uikTvd": "4554020199972",
+    "uikName": "УИК №34",
     "tikTvd": "2552000897341",
-    "tikName": "Омск, Кировская"
+    "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 35,
     "uikTvd": "4554020199973",
+    "uikName": "УИК №35",
     "tikTvd": "2552000897341",
-    "tikName": "Омск, Кировская"
+    "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 36,
     "uikTvd": "4554020199974",
+    "uikName": "УИК №36",
     "tikTvd": "2552000897341",
-    "tikName": "Омск, Кировская"
+    "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 37,
     "uikTvd": "4554020199975",
+    "uikName": "УИК №37",
     "tikTvd": "2552000897341",
-    "tikName": "Омск, Кировская"
+    "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 38,
     "uikTvd": "4554020199976",
+    "uikName": "УИК №38",
     "tikTvd": "2552000897341",
-    "tikName": "Омск, Кировская"
+    "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 39,
     "uikTvd": "4554020199977",
+    "uikName": "УИК №39",
     "tikTvd": "2552000897341",
-    "tikName": "Омск, Кировская"
+    "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 40,
     "uikTvd": "4554020199978",
+    "uikName": "УИК №40",
     "tikTvd": "2552000897341",
-    "tikName": "Омск, Кировская"
+    "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 41,
     "uikTvd": "4554020199979",
+    "uikName": "УИК №41",
     "tikTvd": "2552000897341",
-    "tikName": "Омск, Кировская"
+    "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 42,
     "uikTvd": "4554020199980",
+    "uikName": "УИК №42",
     "tikTvd": "2552000897341",
-    "tikName": "Омск, Кировская"
+    "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 43,
     "uikTvd": "4554020199981",
+    "uikName": "УИК №43",
     "tikTvd": "2552000897341",
-    "tikName": "Омск, Кировская"
+    "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 44,
     "uikTvd": "4554020199982",
+    "uikName": "УИК №44",
     "tikTvd": "2552000897341",
-    "tikName": "Омск, Кировская"
+    "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 45,
     "uikTvd": "4554020199983",
+    "uikName": "УИК №45",
     "tikTvd": "2552000897341",
-    "tikName": "Омск, Кировская"
+    "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 46,
     "uikTvd": "4554020199984",
+    "uikName": "УИК №46",
     "tikTvd": "2552000897341",
-    "tikName": "Омск, Кировская"
+    "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 47,
     "uikTvd": "4554020199985",
+    "uikName": "УИК №47",
     "tikTvd": "2552000897341",
-    "tikName": "Омск, Кировская"
+    "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 48,
     "uikTvd": "4554020199986",
+    "uikName": "УИК №48",
     "tikTvd": "2552000897341",
-    "tikName": "Омск, Кировская"
+    "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 49,
     "uikTvd": "4554020199987",
+    "uikName": "УИК №49",
     "tikTvd": "2552000897341",
-    "tikName": "Омск, Кировская"
+    "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 50,
     "uikTvd": "4554020199988",
+    "uikName": "УИК №50",
     "tikTvd": "2552000897341",
-    "tikName": "Омск, Кировская"
+    "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 51,
     "uikTvd": "4554020199989",
+    "uikName": "УИК №51",
     "tikTvd": "2552000897341",
-    "tikName": "Омск, Кировская"
+    "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 52,
     "uikTvd": "4554020199990",
+    "uikName": "УИК №52",
     "tikTvd": "2552000897341",
-    "tikName": "Омск, Кировская"
+    "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 53,
     "uikTvd": "4554020199991",
+    "uikName": "УИК №53",
     "tikTvd": "2552000897341",
-    "tikName": "Омск, Кировская"
+    "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 54,
     "uikTvd": "4554020199992",
+    "uikName": "УИК №54",
     "tikTvd": "2552000897341",
-    "tikName": "Омск, Кировская"
+    "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 55,
     "uikTvd": "4554020199993",
+    "uikName": "УИК №55",
     "tikTvd": "2552000897341",
-    "tikName": "Омск, Кировская"
+    "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 56,
     "uikTvd": "4554020199994",
+    "uikName": "УИК №56",
     "tikTvd": "2552000897341",
-    "tikName": "Омск, Кировская"
+    "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 57,
     "uikTvd": "4554020199995",
+    "uikName": "УИК №57",
     "tikTvd": "2552000897341",
-    "tikName": "Омск, Кировская"
+    "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 58,
     "uikTvd": "4554020199996",
+    "uikName": "УИК №58",
     "tikTvd": "2552000897341",
-    "tikName": "Омск, Кировская"
+    "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 59,
     "uikTvd": "4554020199997",
+    "uikName": "УИК №59",
     "tikTvd": "2552000897341",
-    "tikName": "Омск, Кировская"
+    "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 60,
     "uikTvd": "4554020199998",
+    "uikName": "УИК №60",
     "tikTvd": "2552000897341",
-    "tikName": "Омск, Кировская"
+    "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 61,
     "uikTvd": "4554020199999",
+    "uikName": "УИК №61",
     "tikTvd": "2552000897341",
-    "tikName": "Омск, Кировская"
+    "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 62,
     "uikTvd": "4554020200000",
+    "uikName": "УИК №62",
     "tikTvd": "2552000897341",
-    "tikName": "Омск, Кировская"
+    "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 63,
     "uikTvd": "4554020200001",
+    "uikName": "УИК №63",
     "tikTvd": "2552000897341",
-    "tikName": "Омск, Кировская"
+    "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 64,
     "uikTvd": "4554020200002",
+    "uikName": "УИК №64",
     "tikTvd": "2552000897341",
-    "tikName": "Омск, Кировская"
+    "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 65,
     "uikTvd": "4554020200003",
+    "uikName": "УИК №65",
     "tikTvd": "2552000897341",
-    "tikName": "Омск, Кировская"
+    "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 66,
     "uikTvd": "4554020200004",
+    "uikName": "УИК №66",
     "tikTvd": "2552000897341",
-    "tikName": "Омск, Кировская"
+    "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 67,
     "uikTvd": "4554020200005",
+    "uikName": "УИК №67",
     "tikTvd": "2552000897341",
-    "tikName": "Омск, Кировская"
+    "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 68,
     "uikTvd": "4554020200006",
+    "uikName": "УИК №68",
     "tikTvd": "2552000897341",
-    "tikName": "Омск, Кировская"
+    "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 69,
     "uikTvd": "4554020200007",
+    "uikName": "УИК №69",
     "tikTvd": "2552000897341",
-    "tikName": "Омск, Кировская"
+    "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 70,
     "uikTvd": "4554020200008",
+    "uikName": "УИК №70",
     "tikTvd": "2552000897341",
-    "tikName": "Омск, Кировская"
+    "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 71,
     "uikTvd": "4554020200009",
+    "uikName": "УИК №71",
     "tikTvd": "2552000897341",
-    "tikName": "Омск, Кировская"
+    "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 72,
     "uikTvd": "4554020200010",
+    "uikName": "УИК №72",
     "tikTvd": "2552000897341",
-    "tikName": "Омск, Кировская"
+    "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 73,
     "uikTvd": "4554020200011",
+    "uikName": "УИК №73",
     "tikTvd": "2552000897341",
-    "tikName": "Омск, Кировская"
+    "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 74,
     "uikTvd": "4554020200012",
+    "uikName": "УИК №74",
     "tikTvd": "2552000897341",
-    "tikName": "Омск, Кировская"
+    "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 75,
     "uikTvd": "4554020200013",
+    "uikName": "УИК №75",
     "tikTvd": "2552000897341",
-    "tikName": "Омск, Кировская"
+    "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 76,
     "uikTvd": "4554020200014",
+    "uikName": "УИК №76",
     "tikTvd": "2552000897341",
-    "tikName": "Омск, Кировская"
+    "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 77,
     "uikTvd": "4554020200015",
+    "uikName": "УИК №77",
     "tikTvd": "2552000897341",
-    "tikName": "Омск, Кировская"
+    "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 78,
     "uikTvd": "4554020200016",
+    "uikName": "УИК №78",
     "tikTvd": "2552000897341",
-    "tikName": "Омск, Кировская"
+    "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 79,
     "uikTvd": "4554020200017",
+    "uikName": "УИК №79",
     "tikTvd": "2552000897341",
-    "tikName": "Омск, Кировская"
+    "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 80,
     "uikTvd": "4554020200018",
+    "uikName": "УИК №80",
     "tikTvd": "2552000897341",
-    "tikName": "Омск, Кировская"
+    "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 81,
     "uikTvd": "4554020200019",
+    "uikName": "УИК №81",
     "tikTvd": "2552000897341",
-    "tikName": "Омск, Кировская"
+    "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 82,
     "uikTvd": "4554020200020",
+    "uikName": "УИК №82",
     "tikTvd": "2552000897341",
-    "tikName": "Омск, Кировская"
+    "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 83,
     "uikTvd": "4554020200021",
+    "uikName": "УИК №83",
     "tikTvd": "2552000897341",
-    "tikName": "Омск, Кировская"
+    "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 84,
     "uikTvd": "4554020200022",
+    "uikName": "УИК №84",
     "tikTvd": "2552000897341",
-    "tikName": "Омск, Кировская"
+    "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 85,
     "uikTvd": "4554020200023",
+    "uikName": "УИК №85",
     "tikTvd": "2552000897341",
-    "tikName": "Омск, Кировская"
+    "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 86,
     "uikTvd": "4554020200024",
+    "uikName": "УИК №86",
     "tikTvd": "2552000897341",
-    "tikName": "Омск, Кировская"
+    "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 87,
     "uikTvd": "4554020200025",
+    "uikName": "УИК №87",
     "tikTvd": "2552000897341",
-    "tikName": "Омск, Кировская"
+    "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 88,
     "uikTvd": "4554020200026",
+    "uikName": "УИК №88",
     "tikTvd": "2552000897341",
-    "tikName": "Омск, Кировская"
+    "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 89,
     "uikTvd": "4554020200027",
+    "uikName": "УИК №89",
     "tikTvd": "2552000897341",
-    "tikName": "Омск, Кировская"
+    "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 90,
     "uikTvd": "4554020200028",
+    "uikName": "УИК №90",
     "tikTvd": "2552000897341",
-    "tikName": "Омск, Кировская"
+    "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 91,
     "uikTvd": "4554020200029",
+    "uikName": "УИК №91",
     "tikTvd": "2552000897341",
-    "tikName": "Омск, Кировская"
+    "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 92,
     "uikTvd": "4554020200030",
+    "uikName": "УИК №92",
     "tikTvd": "2552000897341",
-    "tikName": "Омск, Кировская"
+    "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 93,
     "uikTvd": "4554020200031",
+    "uikName": "УИК №93",
     "tikTvd": "2552000897341",
-    "tikName": "Омск, Кировская"
+    "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 94,
     "uikTvd": "4554020200032",
+    "uikName": "УИК №94",
     "tikTvd": "2552000897341",
-    "tikName": "Омск, Кировская"
+    "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 95,
     "uikTvd": "4554020218448",
+    "uikName": "УИК №95",
     "tikTvd": "2552000897341",
-    "tikName": "Омск, Кировская"
+    "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 96,
     "uikTvd": "4554020218469",
+    "uikName": "УИК №96",
     "tikTvd": "2552000897341",
-    "tikName": "Омск, Кировская"
+    "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 97,
     "uikTvd": "4554020218471",
+    "uikName": "УИК №97",
     "tikTvd": "2552000897341",
-    "tikName": "Омск, Кировская"
+    "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 98,
     "uikTvd": "4554022171841",
+    "uikName": "УИК №98",
     "tikTvd": "2552000897342",
-    "tikName": "Омск, Ленинская"
+    "tikName": "Омск, Ленинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 99,
     "uikTvd": "4554022171842",
+    "uikName": "УИК №99",
     "tikTvd": "2552000897342",
-    "tikName": "Омск, Ленинская"
+    "tikName": "Омск, Ленинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 100,
     "uikTvd": "4554022171843",
+    "uikName": "УИК №100",
     "tikTvd": "2552000897342",
-    "tikName": "Омск, Ленинская"
+    "tikName": "Омск, Ленинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 101,
     "uikTvd": "4554022171844",
+    "uikName": "УИК №101",
     "tikTvd": "2552000897342",
-    "tikName": "Омск, Ленинская"
+    "tikName": "Омск, Ленинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 102,
     "uikTvd": "4554022171845",
+    "uikName": "УИК №102",
     "tikTvd": "2552000897342",
-    "tikName": "Омск, Ленинская"
+    "tikName": "Омск, Ленинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 103,
     "uikTvd": "4554022171846",
+    "uikName": "УИК №103",
     "tikTvd": "2552000897342",
-    "tikName": "Омск, Ленинская"
+    "tikName": "Омск, Ленинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 104,
     "uikTvd": "4554022171847",
+    "uikName": "УИК №104",
     "tikTvd": "2552000897342",
-    "tikName": "Омск, Ленинская"
+    "tikName": "Омск, Ленинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 105,
     "uikTvd": "4554022171848",
+    "uikName": "УИК №105",
     "tikTvd": "2552000897342",
-    "tikName": "Омск, Ленинская"
+    "tikName": "Омск, Ленинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 106,
     "uikTvd": "4554022171849",
+    "uikName": "УИК №106",
     "tikTvd": "2552000897342",
-    "tikName": "Омск, Ленинская"
+    "tikName": "Омск, Ленинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 107,
     "uikTvd": "4554022171850",
+    "uikName": "УИК №107",
     "tikTvd": "2552000897342",
-    "tikName": "Омск, Ленинская"
+    "tikName": "Омск, Ленинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 108,
     "uikTvd": "4554022171851",
+    "uikName": "УИК №108",
     "tikTvd": "2552000897342",
-    "tikName": "Омск, Ленинская"
+    "tikName": "Омск, Ленинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 109,
     "uikTvd": "4554022171852",
+    "uikName": "УИК №109",
     "tikTvd": "2552000897342",
-    "tikName": "Омск, Ленинская"
+    "tikName": "Омск, Ленинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 110,
     "uikTvd": "4554022171853",
+    "uikName": "УИК №110",
     "tikTvd": "2552000897342",
-    "tikName": "Омск, Ленинская"
+    "tikName": "Омск, Ленинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 111,
     "uikTvd": "4554022171854",
+    "uikName": "УИК №111",
     "tikTvd": "2552000897342",
-    "tikName": "Омск, Ленинская"
+    "tikName": "Омск, Ленинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 112,
     "uikTvd": "4554022171855",
+    "uikName": "УИК №112",
     "tikTvd": "2552000897342",
-    "tikName": "Омск, Ленинская"
+    "tikName": "Омск, Ленинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 113,
     "uikTvd": "4554022171856",
+    "uikName": "УИК №113",
     "tikTvd": "2552000897342",
-    "tikName": "Омск, Ленинская"
+    "tikName": "Омск, Ленинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 114,
     "uikTvd": "4554022171857",
+    "uikName": "УИК №114",
     "tikTvd": "2552000897342",
-    "tikName": "Омск, Ленинская"
+    "tikName": "Омск, Ленинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 115,
     "uikTvd": "4554022171858",
+    "uikName": "УИК №115",
     "tikTvd": "2552000897342",
-    "tikName": "Омск, Ленинская"
+    "tikName": "Омск, Ленинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 116,
     "uikTvd": "4554022171859",
+    "uikName": "УИК №116",
     "tikTvd": "2552000897342",
-    "tikName": "Омск, Ленинская"
+    "tikName": "Омск, Ленинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 117,
     "uikTvd": "4554022171860",
+    "uikName": "УИК №117",
     "tikTvd": "2552000897342",
-    "tikName": "Омск, Ленинская"
+    "tikName": "Омск, Ленинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 118,
     "uikTvd": "4554022171861",
+    "uikName": "УИК №118",
     "tikTvd": "2552000897342",
-    "tikName": "Омск, Ленинская"
+    "tikName": "Омск, Ленинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 119,
     "uikTvd": "4554022171862",
+    "uikName": "УИК №119",
     "tikTvd": "2552000897342",
-    "tikName": "Омск, Ленинская"
+    "tikName": "Омск, Ленинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 120,
     "uikTvd": "4554022171863",
+    "uikName": "УИК №120",
     "tikTvd": "2552000897342",
-    "tikName": "Омск, Ленинская"
+    "tikName": "Омск, Ленинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 121,
     "uikTvd": "4554022171864",
+    "uikName": "УИК №121",
     "tikTvd": "2552000897342",
-    "tikName": "Омск, Ленинская"
+    "tikName": "Омск, Ленинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 122,
     "uikTvd": "4554022171865",
+    "uikName": "УИК №122",
     "tikTvd": "2552000897342",
-    "tikName": "Омск, Ленинская"
+    "tikName": "Омск, Ленинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 123,
     "uikTvd": "4554022171866",
+    "uikName": "УИК №123",
     "tikTvd": "2552000897342",
-    "tikName": "Омск, Ленинская"
+    "tikName": "Омск, Ленинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 124,
     "uikTvd": "4554022171867",
+    "uikName": "УИК №124",
     "tikTvd": "2552000897342",
-    "tikName": "Омск, Ленинская"
+    "tikName": "Омск, Ленинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 125,
     "uikTvd": "4554022171868",
+    "uikName": "УИК №125",
     "tikTvd": "2552000897342",
-    "tikName": "Омск, Ленинская"
+    "tikName": "Омск, Ленинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 126,
     "uikTvd": "4554022171869",
+    "uikName": "УИК №126",
     "tikTvd": "2552000897342",
-    "tikName": "Омск, Ленинская"
+    "tikName": "Омск, Ленинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 127,
     "uikTvd": "4554022171870",
+    "uikName": "УИК №127",
     "tikTvd": "2552000897342",
-    "tikName": "Омск, Ленинская"
+    "tikName": "Омск, Ленинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 128,
     "uikTvd": "4554022171871",
+    "uikName": "УИК №128",
     "tikTvd": "2552000897342",
-    "tikName": "Омск, Ленинская"
+    "tikName": "Омск, Ленинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 129,
     "uikTvd": "4554022171872",
+    "uikName": "УИК №129",
     "tikTvd": "2552000897342",
-    "tikName": "Омск, Ленинская"
+    "tikName": "Омск, Ленинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 130,
     "uikTvd": "4554022171873",
+    "uikName": "УИК №130",
     "tikTvd": "2552000897342",
-    "tikName": "Омск, Ленинская"
+    "tikName": "Омск, Ленинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 131,
     "uikTvd": "4554022171874",
+    "uikName": "УИК №131",
     "tikTvd": "2552000897342",
-    "tikName": "Омск, Ленинская"
+    "tikName": "Омск, Ленинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 132,
     "uikTvd": "4554022171875",
+    "uikName": "УИК №132",
     "tikTvd": "2552000897342",
-    "tikName": "Омск, Ленинская"
+    "tikName": "Омск, Ленинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 133,
     "uikTvd": "4554022171876",
+    "uikName": "УИК №133",
     "tikTvd": "2552000897342",
-    "tikName": "Омск, Ленинская"
+    "tikName": "Омск, Ленинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 134,
     "uikTvd": "4554022171877",
+    "uikName": "УИК №134",
     "tikTvd": "2552000897342",
-    "tikName": "Омск, Ленинская"
+    "tikName": "Омск, Ленинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 135,
     "uikTvd": "4554022171878",
+    "uikName": "УИК №135",
     "tikTvd": "2552000897342",
-    "tikName": "Омск, Ленинская"
+    "tikName": "Омск, Ленинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 136,
     "uikTvd": "4554022171879",
+    "uikName": "УИК №136",
     "tikTvd": "2552000897342",
-    "tikName": "Омск, Ленинская"
+    "tikName": "Омск, Ленинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 137,
     "uikTvd": "4554022171880",
+    "uikName": "УИК №137",
     "tikTvd": "2552000897342",
-    "tikName": "Омск, Ленинская"
+    "tikName": "Омск, Ленинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 138,
     "uikTvd": "4554022171881",
+    "uikName": "УИК №138",
     "tikTvd": "2552000897342",
-    "tikName": "Омск, Ленинская"
+    "tikName": "Омск, Ленинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 139,
     "uikTvd": "4554022171882",
+    "uikName": "УИК №139",
     "tikTvd": "2552000897342",
-    "tikName": "Омск, Ленинская"
+    "tikName": "Омск, Ленинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 140,
     "uikTvd": "4554022171883",
+    "uikName": "УИК №140",
     "tikTvd": "2552000897342",
-    "tikName": "Омск, Ленинская"
+    "tikName": "Омск, Ленинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 141,
     "uikTvd": "4554022171884",
+    "uikName": "УИК №141",
     "tikTvd": "2552000897342",
-    "tikName": "Омск, Ленинская"
+    "tikName": "Омск, Ленинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 142,
     "uikTvd": "4554022171885",
+    "uikName": "УИК №142",
     "tikTvd": "2552000897342",
-    "tikName": "Омск, Ленинская"
+    "tikName": "Омск, Ленинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 143,
     "uikTvd": "4554022171886",
+    "uikName": "УИК №143",
     "tikTvd": "2552000897342",
-    "tikName": "Омск, Ленинская"
+    "tikName": "Омск, Ленинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 144,
     "uikTvd": "4554022171887",
+    "uikName": "УИК №144",
     "tikTvd": "2552000897342",
-    "tikName": "Омск, Ленинская"
+    "tikName": "Омск, Ленинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 145,
     "uikTvd": "4554022171888",
+    "uikName": "УИК №145",
     "tikTvd": "2552000897342",
-    "tikName": "Омск, Ленинская"
+    "tikName": "Омск, Ленинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 146,
     "uikTvd": "4554022171889",
+    "uikName": "УИК №146",
     "tikTvd": "2552000897342",
-    "tikName": "Омск, Ленинская"
+    "tikName": "Омск, Ленинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 147,
     "uikTvd": "4554022171890",
+    "uikName": "УИК №147",
     "tikTvd": "2552000897342",
-    "tikName": "Омск, Ленинская"
+    "tikName": "Омск, Ленинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 148,
     "uikTvd": "4554022171891",
+    "uikName": "УИК №148",
     "tikTvd": "2552000897342",
-    "tikName": "Омск, Ленинская"
+    "tikName": "Омск, Ленинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 149,
     "uikTvd": "4554022171892",
+    "uikName": "УИК №149",
     "tikTvd": "2552000897342",
-    "tikName": "Омск, Ленинская"
+    "tikName": "Омск, Ленинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 150,
     "uikTvd": "4554022171893",
+    "uikName": "УИК №150",
     "tikTvd": "2552000897342",
-    "tikName": "Омск, Ленинская"
+    "tikName": "Омск, Ленинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 151,
     "uikTvd": "4554022171894",
+    "uikName": "УИК №151",
     "tikTvd": "2552000897342",
-    "tikName": "Омск, Ленинская"
+    "tikName": "Омск, Ленинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 152,
     "uikTvd": "4554022171895",
+    "uikName": "УИК №152",
     "tikTvd": "2552000897342",
-    "tikName": "Омск, Ленинская"
+    "tikName": "Омск, Ленинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 153,
     "uikTvd": "4554022171896",
+    "uikName": "УИК №153",
     "tikTvd": "2552000897342",
-    "tikName": "Омск, Ленинская"
+    "tikName": "Омск, Ленинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 154,
     "uikTvd": "4554022171897",
+    "uikName": "УИК №154",
     "tikTvd": "2552000897342",
-    "tikName": "Омск, Ленинская"
+    "tikName": "Омск, Ленинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 155,
     "uikTvd": "4554022171898",
+    "uikName": "УИК №155",
     "tikTvd": "2552000897342",
-    "tikName": "Омск, Ленинская"
+    "tikName": "Омск, Ленинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 156,
     "uikTvd": "4554022171899",
+    "uikName": "УИК №156",
     "tikTvd": "2552000897342",
-    "tikName": "Омск, Ленинская"
+    "tikName": "Омск, Ленинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 157,
     "uikTvd": "4554022171900",
+    "uikName": "УИК №157",
     "tikTvd": "2552000897342",
-    "tikName": "Омск, Ленинская"
+    "tikName": "Омск, Ленинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 158,
     "uikTvd": "4554022171901",
+    "uikName": "УИК №158",
     "tikTvd": "2552000897342",
-    "tikName": "Омск, Ленинская"
+    "tikName": "Омск, Ленинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 159,
     "uikTvd": "4554022171902",
+    "uikName": "УИК №159",
     "tikTvd": "2552000897342",
-    "tikName": "Омск, Ленинская"
+    "tikName": "Омск, Ленинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 160,
     "uikTvd": "4554022171903",
+    "uikName": "УИК №160",
     "tikTvd": "2552000897342",
-    "tikName": "Омск, Ленинская"
+    "tikName": "Омск, Ленинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 161,
     "uikTvd": "4554022171904",
+    "uikName": "УИК №161",
     "tikTvd": "2552000897342",
-    "tikName": "Омск, Ленинская"
+    "tikName": "Омск, Ленинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 162,
     "uikTvd": "4554022171905",
+    "uikName": "УИК №162",
     "tikTvd": "2552000897342",
-    "tikName": "Омск, Ленинская"
+    "tikName": "Омск, Ленинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 163,
     "uikTvd": "4554022171906",
+    "uikName": "УИК №163",
     "tikTvd": "2552000897342",
-    "tikName": "Омск, Ленинская"
+    "tikName": "Омск, Ленинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 164,
     "uikTvd": "4554022171907",
+    "uikName": "УИК №164",
     "tikTvd": "2552000897342",
-    "tikName": "Омск, Ленинская"
+    "tikName": "Омск, Ленинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 165,
     "uikTvd": "4554022171908",
+    "uikName": "УИК №165",
     "tikTvd": "2552000897342",
-    "tikName": "Омск, Ленинская"
+    "tikName": "Омск, Ленинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 166,
     "uikTvd": "4554022171909",
+    "uikName": "УИК №166",
     "tikTvd": "2552000897342",
-    "tikName": "Омск, Ленинская"
+    "tikName": "Омск, Ленинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 167,
     "uikTvd": "4554022171910",
+    "uikName": "УИК №167",
     "tikTvd": "2552000897342",
-    "tikName": "Омск, Ленинская"
+    "tikName": "Омск, Ленинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 168,
     "uikTvd": "4554022171911",
+    "uikName": "УИК №168",
     "tikTvd": "2552000897342",
-    "tikName": "Омск, Ленинская"
+    "tikName": "Омск, Ленинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 169,
     "uikTvd": "4554022171912",
+    "uikName": "УИК №169",
     "tikTvd": "2552000897342",
-    "tikName": "Омск, Ленинская"
+    "tikName": "Омск, Ленинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 170,
     "uikTvd": "4554022171913",
+    "uikName": "УИК №170",
     "tikTvd": "2552000897342",
-    "tikName": "Омск, Ленинская"
+    "tikName": "Омск, Ленинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 171,
     "uikTvd": "4554022171914",
+    "uikName": "УИК №171",
     "tikTvd": "2552000897342",
-    "tikName": "Омск, Ленинская"
+    "tikName": "Омск, Ленинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 172,
     "uikTvd": "4554022171915",
+    "uikName": "УИК №172",
     "tikTvd": "2552000897342",
-    "tikName": "Омск, Ленинская"
+    "tikName": "Омск, Ленинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 173,
     "uikTvd": "4554022171916",
+    "uikName": "УИК №173",
     "tikTvd": "2552000897342",
-    "tikName": "Омск, Ленинская"
+    "tikName": "Омск, Ленинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 174,
     "uikTvd": "4554022171917",
+    "uikName": "УИК №174",
     "tikTvd": "2552000897342",
-    "tikName": "Омск, Ленинская"
+    "tikName": "Омск, Ленинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 175,
     "uikTvd": "4554022171918",
+    "uikName": "УИК №175",
     "tikTvd": "2552000897342",
-    "tikName": "Омск, Ленинская"
+    "tikName": "Омск, Ленинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 176,
     "uikTvd": "4554022171919",
+    "uikName": "УИК №176",
     "tikTvd": "2552000897342",
-    "tikName": "Омск, Ленинская"
+    "tikName": "Омск, Ленинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 177,
     "uikTvd": "4554022186153",
+    "uikName": "УИК №177",
     "tikTvd": "2552000897342",
-    "tikName": "Омск, Ленинская"
+    "tikName": "Омск, Ленинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 178,
     "uikTvd": "4554022186154",
+    "uikName": "УИК №178",
     "tikTvd": "2552000897342",
-    "tikName": "Омск, Ленинская"
+    "tikName": "Омск, Ленинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 179,
     "uikTvd": "4554022186155",
+    "uikName": "УИК №179",
     "tikTvd": "2552000897342",
-    "tikName": "Омск, Ленинская"
+    "tikName": "Омск, Ленинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 182,
     "uikTvd": "4554023172720",
+    "uikName": "УИК №182",
     "tikTvd": "2552000897331",
-    "tikName": "Омск, Октябрьская"
+    "tikName": "Омск, Октябрьская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 183,
     "uikTvd": "4554023172721",
+    "uikName": "УИК №183",
     "tikTvd": "2552000897331",
-    "tikName": "Омск, Октябрьская"
+    "tikName": "Омск, Октябрьская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 184,
     "uikTvd": "4554023172722",
+    "uikName": "УИК №184",
     "tikTvd": "2552000897331",
-    "tikName": "Омск, Октябрьская"
+    "tikName": "Омск, Октябрьская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 185,
     "uikTvd": "4554023172723",
+    "uikName": "УИК №185",
     "tikTvd": "2552000897331",
-    "tikName": "Омск, Октябрьская"
+    "tikName": "Омск, Октябрьская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 186,
     "uikTvd": "4554023172724",
+    "uikName": "УИК №186",
     "tikTvd": "2552000897331",
-    "tikName": "Омск, Октябрьская"
+    "tikName": "Омск, Октябрьская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 187,
     "uikTvd": "4554023172725",
+    "uikName": "УИК №187",
     "tikTvd": "2552000897331",
-    "tikName": "Омск, Октябрьская"
+    "tikName": "Омск, Октябрьская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 188,
     "uikTvd": "4554023172726",
+    "uikName": "УИК №188",
     "tikTvd": "2552000897331",
-    "tikName": "Омск, Октябрьская"
+    "tikName": "Омск, Октябрьская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 189,
     "uikTvd": "4554023172727",
+    "uikName": "УИК №189",
     "tikTvd": "2552000897331",
-    "tikName": "Омск, Октябрьская"
+    "tikName": "Омск, Октябрьская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 190,
     "uikTvd": "4554023172728",
+    "uikName": "УИК №190",
     "tikTvd": "2552000897331",
-    "tikName": "Омск, Октябрьская"
+    "tikName": "Омск, Октябрьская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 191,
     "uikTvd": "4554023172729",
+    "uikName": "УИК №191",
     "tikTvd": "2552000897331",
-    "tikName": "Омск, Октябрьская"
+    "tikName": "Омск, Октябрьская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 192,
     "uikTvd": "4554023172730",
+    "uikName": "УИК №192",
     "tikTvd": "2552000897331",
-    "tikName": "Омск, Октябрьская"
+    "tikName": "Омск, Октябрьская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 193,
     "uikTvd": "4554023172731",
+    "uikName": "УИК №193",
     "tikTvd": "2552000897331",
-    "tikName": "Омск, Октябрьская"
+    "tikName": "Омск, Октябрьская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 194,
     "uikTvd": "4554023172732",
+    "uikName": "УИК №194",
     "tikTvd": "2552000897331",
-    "tikName": "Омск, Октябрьская"
+    "tikName": "Омск, Октябрьская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 195,
     "uikTvd": "4554023172733",
+    "uikName": "УИК №195",
     "tikTvd": "2552000897331",
-    "tikName": "Омск, Октябрьская"
+    "tikName": "Омск, Октябрьская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 196,
     "uikTvd": "4554023172734",
+    "uikName": "УИК №196",
     "tikTvd": "2552000897331",
-    "tikName": "Омск, Октябрьская"
+    "tikName": "Омск, Октябрьская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 197,
     "uikTvd": "4554023172735",
+    "uikName": "УИК №197",
     "tikTvd": "2552000897331",
-    "tikName": "Омск, Октябрьская"
+    "tikName": "Омск, Октябрьская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 198,
     "uikTvd": "4554023172736",
+    "uikName": "УИК №198",
     "tikTvd": "2552000897331",
-    "tikName": "Омск, Октябрьская"
+    "tikName": "Омск, Октябрьская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 199,
     "uikTvd": "4554023172737",
+    "uikName": "УИК №199",
     "tikTvd": "2552000897331",
-    "tikName": "Омск, Октябрьская"
+    "tikName": "Омск, Октябрьская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 200,
     "uikTvd": "4554023172738",
+    "uikName": "УИК №200",
     "tikTvd": "2552000897331",
-    "tikName": "Омск, Октябрьская"
+    "tikName": "Омск, Октябрьская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 201,
     "uikTvd": "4554023172739",
+    "uikName": "УИК №201",
     "tikTvd": "2552000897331",
-    "tikName": "Омск, Октябрьская"
+    "tikName": "Омск, Октябрьская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 202,
     "uikTvd": "4554023172740",
+    "uikName": "УИК №202",
     "tikTvd": "2552000897331",
-    "tikName": "Омск, Октябрьская"
+    "tikName": "Омск, Октябрьская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 203,
     "uikTvd": "4554023172741",
+    "uikName": "УИК №203",
     "tikTvd": "2552000897331",
-    "tikName": "Омск, Октябрьская"
+    "tikName": "Омск, Октябрьская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 204,
     "uikTvd": "4554023172742",
+    "uikName": "УИК №204",
     "tikTvd": "2552000897331",
-    "tikName": "Омск, Октябрьская"
+    "tikName": "Омск, Октябрьская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 205,
     "uikTvd": "4554023172743",
+    "uikName": "УИК №205",
     "tikTvd": "2552000897331",
-    "tikName": "Омск, Октябрьская"
+    "tikName": "Омск, Октябрьская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 206,
     "uikTvd": "4554023172744",
+    "uikName": "УИК №206",
     "tikTvd": "2552000897331",
-    "tikName": "Омск, Октябрьская"
+    "tikName": "Омск, Октябрьская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 207,
     "uikTvd": "4554023172745",
+    "uikName": "УИК №207",
     "tikTvd": "2552000897331",
-    "tikName": "Омск, Октябрьская"
+    "tikName": "Омск, Октябрьская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 208,
     "uikTvd": "4554023172746",
+    "uikName": "УИК №208",
     "tikTvd": "2552000897331",
-    "tikName": "Омск, Октябрьская"
+    "tikName": "Омск, Октябрьская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 209,
     "uikTvd": "4554023172747",
+    "uikName": "УИК №209",
     "tikTvd": "2552000897331",
-    "tikName": "Омск, Октябрьская"
+    "tikName": "Омск, Октябрьская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 210,
     "uikTvd": "4554023172748",
+    "uikName": "УИК №210",
     "tikTvd": "2552000897331",
-    "tikName": "Омск, Октябрьская"
+    "tikName": "Омск, Октябрьская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 211,
     "uikTvd": "4554023172749",
+    "uikName": "УИК №211",
     "tikTvd": "2552000897331",
-    "tikName": "Омск, Октябрьская"
+    "tikName": "Омск, Октябрьская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 212,
     "uikTvd": "4554023172750",
+    "uikName": "УИК №212",
     "tikTvd": "2552000897331",
-    "tikName": "Омск, Октябрьская"
+    "tikName": "Омск, Октябрьская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 213,
     "uikTvd": "4554023172751",
+    "uikName": "УИК №213",
     "tikTvd": "2552000897331",
-    "tikName": "Омск, Октябрьская"
+    "tikName": "Омск, Октябрьская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 214,
     "uikTvd": "4554023172752",
+    "uikName": "УИК №214",
     "tikTvd": "2552000897331",
-    "tikName": "Омск, Октябрьская"
+    "tikName": "Омск, Октябрьская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 215,
     "uikTvd": "4554023172753",
+    "uikName": "УИК №215",
     "tikTvd": "2552000897331",
-    "tikName": "Омск, Октябрьская"
+    "tikName": "Омск, Октябрьская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 216,
     "uikTvd": "4554023172754",
+    "uikName": "УИК №216",
     "tikTvd": "2552000897331",
-    "tikName": "Омск, Октябрьская"
+    "tikName": "Омск, Октябрьская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 217,
     "uikTvd": "4554023172755",
+    "uikName": "УИК №217",
     "tikTvd": "2552000897331",
-    "tikName": "Омск, Октябрьская"
+    "tikName": "Омск, Октябрьская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 218,
     "uikTvd": "4554023172756",
+    "uikName": "УИК №218",
     "tikTvd": "2552000897331",
-    "tikName": "Омск, Октябрьская"
+    "tikName": "Омск, Октябрьская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 219,
     "uikTvd": "4554023172757",
+    "uikName": "УИК №219",
     "tikTvd": "2552000897331",
-    "tikName": "Омск, Октябрьская"
+    "tikName": "Омск, Октябрьская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 220,
     "uikTvd": "4554023172758",
+    "uikName": "УИК №220",
     "tikTvd": "2552000897331",
-    "tikName": "Омск, Октябрьская"
+    "tikName": "Омск, Октябрьская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 221,
     "uikTvd": "4554023172759",
+    "uikName": "УИК №221",
     "tikTvd": "2552000897331",
-    "tikName": "Омск, Октябрьская"
+    "tikName": "Омск, Октябрьская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 222,
     "uikTvd": "4554023172760",
+    "uikName": "УИК №222",
     "tikTvd": "2552000897331",
-    "tikName": "Омск, Октябрьская"
+    "tikName": "Омск, Октябрьская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 223,
     "uikTvd": "4554023172761",
+    "uikName": "УИК №223",
     "tikTvd": "2552000897331",
-    "tikName": "Омск, Октябрьская"
+    "tikName": "Омск, Октябрьская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 224,
     "uikTvd": "4554023172762",
+    "uikName": "УИК №224",
     "tikTvd": "2552000897331",
-    "tikName": "Омск, Октябрьская"
+    "tikName": "Омск, Октябрьская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 225,
     "uikTvd": "4554023172763",
+    "uikName": "УИК №225",
     "tikTvd": "2552000897331",
-    "tikName": "Омск, Октябрьская"
+    "tikName": "Омск, Октябрьская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 226,
     "uikTvd": "4554023172764",
+    "uikName": "УИК №226",
     "tikTvd": "2552000897331",
-    "tikName": "Омск, Октябрьская"
+    "tikName": "Омск, Октябрьская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 227,
     "uikTvd": "4554023172765",
+    "uikName": "УИК №227",
     "tikTvd": "2552000897331",
-    "tikName": "Омск, Октябрьская"
+    "tikName": "Омск, Октябрьская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 228,
     "uikTvd": "4554023172766",
+    "uikName": "УИК №228",
     "tikTvd": "2552000897331",
-    "tikName": "Омск, Октябрьская"
+    "tikName": "Омск, Октябрьская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 229,
     "uikTvd": "4554023172767",
+    "uikName": "УИК №229",
     "tikTvd": "2552000897331",
-    "tikName": "Омск, Октябрьская"
+    "tikName": "Омск, Октябрьская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 230,
     "uikTvd": "4554023172768",
+    "uikName": "УИК №230",
     "tikTvd": "2552000897331",
-    "tikName": "Омск, Октябрьская"
+    "tikName": "Омск, Октябрьская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 231,
     "uikTvd": "4554023172769",
+    "uikName": "УИК №231",
     "tikTvd": "2552000897331",
-    "tikName": "Омск, Октябрьская"
+    "tikName": "Омск, Октябрьская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 232,
     "uikTvd": "4554023172770",
+    "uikName": "УИК №232",
     "tikTvd": "2552000897331",
-    "tikName": "Омск, Октябрьская"
+    "tikName": "Омск, Октябрьская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 233,
     "uikTvd": "4554023172771",
+    "uikName": "УИК №233",
     "tikTvd": "2552000897331",
-    "tikName": "Омск, Октябрьская"
+    "tikName": "Омск, Октябрьская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 234,
     "uikTvd": "4554023172772",
+    "uikName": "УИК №234",
     "tikTvd": "2552000897331",
-    "tikName": "Омск, Октябрьская"
+    "tikName": "Омск, Октябрьская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 235,
     "uikTvd": "4554023172773",
+    "uikName": "УИК №235",
     "tikTvd": "2552000897331",
-    "tikName": "Омск, Октябрьская"
+    "tikName": "Омск, Октябрьская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 236,
     "uikTvd": "4554023172774",
+    "uikName": "УИК №236",
     "tikTvd": "2552000897331",
-    "tikName": "Омск, Октябрьская"
+    "tikName": "Омск, Октябрьская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 237,
     "uikTvd": "4554023172775",
+    "uikName": "УИК №237",
     "tikTvd": "2552000897331",
-    "tikName": "Омск, Октябрьская"
+    "tikName": "Омск, Октябрьская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 238,
     "uikTvd": "4554023172776",
+    "uikName": "УИК №238",
     "tikTvd": "2552000897331",
-    "tikName": "Омск, Октябрьская"
+    "tikName": "Омск, Октябрьская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 239,
     "uikTvd": "4554023172777",
+    "uikName": "УИК №239",
     "tikTvd": "2552000897331",
-    "tikName": "Омск, Октябрьская"
+    "tikName": "Омск, Октябрьская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 240,
     "uikTvd": "4554023172778",
+    "uikName": "УИК №240",
     "tikTvd": "2552000897331",
-    "tikName": "Омск, Октябрьская"
+    "tikName": "Омск, Октябрьская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 241,
     "uikTvd": "4554023172779",
+    "uikName": "УИК №241",
     "tikTvd": "2552000897331",
-    "tikName": "Омск, Октябрьская"
+    "tikName": "Омск, Октябрьская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 242,
     "uikTvd": "4554023172780",
+    "uikName": "УИК №242",
     "tikTvd": "2552000897331",
-    "tikName": "Омск, Октябрьская"
+    "tikName": "Омск, Октябрьская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 243,
     "uikTvd": "4554023172781",
+    "uikName": "УИК №243",
     "tikTvd": "2552000897331",
-    "tikName": "Омск, Октябрьская"
+    "tikName": "Омск, Октябрьская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 244,
     "uikTvd": "4554023172782",
+    "uikName": "УИК №244",
     "tikTvd": "2552000897331",
-    "tikName": "Омск, Октябрьская"
+    "tikName": "Омск, Октябрьская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 245,
     "uikTvd": "4554023172783",
+    "uikName": "УИК №245",
     "tikTvd": "2552000897331",
-    "tikName": "Омск, Октябрьская"
+    "tikName": "Омск, Октябрьская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 246,
     "uikTvd": "4554023172784",
+    "uikName": "УИК №246",
     "tikTvd": "2552000897331",
-    "tikName": "Омск, Октябрьская"
+    "tikName": "Омск, Октябрьская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 247,
     "uikTvd": "4554023172785",
+    "uikName": "УИК №247",
     "tikTvd": "2552000897331",
-    "tikName": "Омск, Октябрьская"
+    "tikName": "Омск, Октябрьская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 248,
     "uikTvd": "4554023172786",
+    "uikName": "УИК №248",
     "tikTvd": "2552000897331",
-    "tikName": "Омск, Октябрьская"
+    "tikName": "Омск, Октябрьская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 249,
     "uikTvd": "4554023172787",
+    "uikName": "УИК №249",
     "tikTvd": "2552000897331",
-    "tikName": "Омск, Октябрьская"
+    "tikName": "Омск, Октябрьская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 250,
     "uikTvd": "4554023172788",
+    "uikName": "УИК №250",
     "tikTvd": "2552000897331",
-    "tikName": "Омск, Октябрьская"
+    "tikName": "Омск, Октябрьская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 251,
     "uikTvd": "4554023172789",
+    "uikName": "УИК №251",
     "tikTvd": "2552000897331",
-    "tikName": "Омск, Октябрьская"
+    "tikName": "Омск, Октябрьская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 252,
     "uikTvd": "4554023172790",
+    "uikName": "УИК №252",
     "tikTvd": "2552000897331",
-    "tikName": "Омск, Октябрьская"
+    "tikName": "Омск, Октябрьская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 253,
     "uikTvd": "4554023190295",
+    "uikName": "УИК №253",
     "tikTvd": "2552000897331",
-    "tikName": "Омск, Октябрьская"
+    "tikName": "Омск, Октябрьская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 254,
     "uikTvd": "4554023190300",
+    "uikName": "УИК №254",
     "tikTvd": "2552000897331",
-    "tikName": "Омск, Октябрьская"
+    "tikName": "Омск, Октябрьская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 259,
     "uikTvd": "4554025201598",
+    "uikName": "УИК №259",
     "tikTvd": "2552000897351",
-    "tikName": "Омск, Советская"
+    "tikName": "Омск, Советская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 260,
     "uikTvd": "4554025201599",
+    "uikName": "УИК №260",
     "tikTvd": "2552000897351",
-    "tikName": "Омск, Советская"
+    "tikName": "Омск, Советская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 261,
     "uikTvd": "4554025201600",
+    "uikName": "УИК №261",
     "tikTvd": "2552000897351",
-    "tikName": "Омск, Советская"
+    "tikName": "Омск, Советская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 262,
     "uikTvd": "4554025201601",
+    "uikName": "УИК №262",
     "tikTvd": "2552000897351",
-    "tikName": "Омск, Советская"
+    "tikName": "Омск, Советская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 263,
     "uikTvd": "4554025201602",
+    "uikName": "УИК №263",
     "tikTvd": "2552000897351",
-    "tikName": "Омск, Советская"
+    "tikName": "Омск, Советская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 264,
     "uikTvd": "4554025201603",
+    "uikName": "УИК №264",
     "tikTvd": "2552000897351",
-    "tikName": "Омск, Советская"
+    "tikName": "Омск, Советская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 265,
     "uikTvd": "4554025201604",
+    "uikName": "УИК №265",
     "tikTvd": "2552000897351",
-    "tikName": "Омск, Советская"
+    "tikName": "Омск, Советская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 266,
     "uikTvd": "4554025201605",
+    "uikName": "УИК №266",
     "tikTvd": "2552000897351",
-    "tikName": "Омск, Советская"
+    "tikName": "Омск, Советская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 267,
     "uikTvd": "4554025201606",
+    "uikName": "УИК №267",
     "tikTvd": "2552000897351",
-    "tikName": "Омск, Советская"
+    "tikName": "Омск, Советская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 268,
     "uikTvd": "4554025201607",
+    "uikName": "УИК №268",
     "tikTvd": "2552000897351",
-    "tikName": "Омск, Советская"
+    "tikName": "Омск, Советская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 269,
     "uikTvd": "4554025201608",
+    "uikName": "УИК №269",
     "tikTvd": "2552000897351",
-    "tikName": "Омск, Советская"
+    "tikName": "Омск, Советская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 270,
     "uikTvd": "4554025201609",
+    "uikName": "УИК №270",
     "tikTvd": "2552000897351",
-    "tikName": "Омск, Советская"
+    "tikName": "Омск, Советская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 271,
     "uikTvd": "4554025201610",
+    "uikName": "УИК №271",
     "tikTvd": "2552000897351",
-    "tikName": "Омск, Советская"
+    "tikName": "Омск, Советская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 272,
     "uikTvd": "4554025201611",
+    "uikName": "УИК №272",
     "tikTvd": "2552000897351",
-    "tikName": "Омск, Советская"
+    "tikName": "Омск, Советская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 273,
     "uikTvd": "4554025201612",
+    "uikName": "УИК №273",
     "tikTvd": "2552000897351",
-    "tikName": "Омск, Советская"
+    "tikName": "Омск, Советская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 274,
     "uikTvd": "4554025201613",
+    "uikName": "УИК №274",
     "tikTvd": "2552000897351",
-    "tikName": "Омск, Советская"
+    "tikName": "Омск, Советская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 275,
     "uikTvd": "4554025201614",
+    "uikName": "УИК №275",
     "tikTvd": "2552000897351",
-    "tikName": "Омск, Советская"
+    "tikName": "Омск, Советская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 276,
     "uikTvd": "4554025201615",
+    "uikName": "УИК №276",
     "tikTvd": "2552000897351",
-    "tikName": "Омск, Советская"
+    "tikName": "Омск, Советская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 277,
     "uikTvd": "4554025201616",
+    "uikName": "УИК №277",
     "tikTvd": "2552000897351",
-    "tikName": "Омск, Советская"
+    "tikName": "Омск, Советская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 278,
     "uikTvd": "4554025201617",
+    "uikName": "УИК №278",
     "tikTvd": "2552000897351",
-    "tikName": "Омск, Советская"
+    "tikName": "Омск, Советская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 279,
     "uikTvd": "4554025201618",
+    "uikName": "УИК №279",
     "tikTvd": "2552000897351",
-    "tikName": "Омск, Советская"
+    "tikName": "Омск, Советская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 280,
     "uikTvd": "4554025201619",
+    "uikName": "УИК №280",
     "tikTvd": "2552000897351",
-    "tikName": "Омск, Советская"
+    "tikName": "Омск, Советская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 281,
     "uikTvd": "4554025201620",
+    "uikName": "УИК №281",
     "tikTvd": "2552000897351",
-    "tikName": "Омск, Советская"
+    "tikName": "Омск, Советская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 282,
     "uikTvd": "4554025201621",
+    "uikName": "УИК №282",
     "tikTvd": "2552000897351",
-    "tikName": "Омск, Советская"
+    "tikName": "Омск, Советская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 283,
     "uikTvd": "4554025201622",
+    "uikName": "УИК №283",
     "tikTvd": "2552000897351",
-    "tikName": "Омск, Советская"
+    "tikName": "Омск, Советская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 284,
     "uikTvd": "4554025201623",
+    "uikName": "УИК №284",
     "tikTvd": "2552000897351",
-    "tikName": "Омск, Советская"
+    "tikName": "Омск, Советская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 285,
     "uikTvd": "4554025201624",
+    "uikName": "УИК №285",
     "tikTvd": "2552000897351",
-    "tikName": "Омск, Советская"
+    "tikName": "Омск, Советская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 286,
     "uikTvd": "4554025201625",
+    "uikName": "УИК №286",
     "tikTvd": "2552000897351",
-    "tikName": "Омск, Советская"
+    "tikName": "Омск, Советская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 287,
     "uikTvd": "4554025201626",
+    "uikName": "УИК №287",
     "tikTvd": "2552000897351",
-    "tikName": "Омск, Советская"
+    "tikName": "Омск, Советская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 288,
     "uikTvd": "4554025201627",
+    "uikName": "УИК №288",
     "tikTvd": "2552000897351",
-    "tikName": "Омск, Советская"
+    "tikName": "Омск, Советская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 289,
     "uikTvd": "4554025201628",
+    "uikName": "УИК №289",
     "tikTvd": "2552000897351",
-    "tikName": "Омск, Советская"
+    "tikName": "Омск, Советская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 290,
     "uikTvd": "4554025201629",
+    "uikName": "УИК №290",
     "tikTvd": "2552000897351",
-    "tikName": "Омск, Советская"
+    "tikName": "Омск, Советская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 291,
     "uikTvd": "4554025201630",
+    "uikName": "УИК №291",
     "tikTvd": "2552000897351",
-    "tikName": "Омск, Советская"
+    "tikName": "Омск, Советская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 292,
     "uikTvd": "4554025201631",
+    "uikName": "УИК №292",
     "tikTvd": "2552000897351",
-    "tikName": "Омск, Советская"
+    "tikName": "Омск, Советская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 293,
     "uikTvd": "4554025201632",
+    "uikName": "УИК №293",
     "tikTvd": "2552000897351",
-    "tikName": "Омск, Советская"
+    "tikName": "Омск, Советская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 294,
     "uikTvd": "4554025201633",
+    "uikName": "УИК №294",
     "tikTvd": "2552000897351",
-    "tikName": "Омск, Советская"
+    "tikName": "Омск, Советская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 295,
     "uikTvd": "4554025201634",
+    "uikName": "УИК №295",
     "tikTvd": "2552000897351",
-    "tikName": "Омск, Советская"
+    "tikName": "Омск, Советская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 296,
     "uikTvd": "4554025201635",
+    "uikName": "УИК №296",
     "tikTvd": "2552000897351",
-    "tikName": "Омск, Советская"
+    "tikName": "Омск, Советская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 297,
     "uikTvd": "4554025201636",
+    "uikName": "УИК №297",
     "tikTvd": "2552000897351",
-    "tikName": "Омск, Советская"
+    "tikName": "Омск, Советская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 298,
     "uikTvd": "4554025201637",
+    "uikName": "УИК №298",
     "tikTvd": "2552000897351",
-    "tikName": "Омск, Советская"
+    "tikName": "Омск, Советская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 299,
     "uikTvd": "4554025201638",
+    "uikName": "УИК №299",
     "tikTvd": "2552000897351",
-    "tikName": "Омск, Советская"
+    "tikName": "Омск, Советская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 300,
     "uikTvd": "4554025201639",
+    "uikName": "УИК №300",
     "tikTvd": "2552000897351",
-    "tikName": "Омск, Советская"
+    "tikName": "Омск, Советская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 301,
     "uikTvd": "4554025201640",
+    "uikName": "УИК №301",
     "tikTvd": "2552000897351",
-    "tikName": "Омск, Советская"
+    "tikName": "Омск, Советская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 302,
     "uikTvd": "4554025201641",
+    "uikName": "УИК №302",
     "tikTvd": "2552000897351",
-    "tikName": "Омск, Советская"
+    "tikName": "Омск, Советская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 303,
     "uikTvd": "4554025201642",
+    "uikName": "УИК №303",
     "tikTvd": "2552000897351",
-    "tikName": "Омск, Советская"
+    "tikName": "Омск, Советская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 304,
     "uikTvd": "4554025201643",
+    "uikName": "УИК №304",
     "tikTvd": "2552000897351",
-    "tikName": "Омск, Советская"
+    "tikName": "Омск, Советская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 305,
     "uikTvd": "4554025201644",
+    "uikName": "УИК №305",
     "tikTvd": "2552000897351",
-    "tikName": "Омск, Советская"
+    "tikName": "Омск, Советская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 306,
     "uikTvd": "4554025201645",
+    "uikName": "УИК №306",
     "tikTvd": "2552000897351",
-    "tikName": "Омск, Советская"
+    "tikName": "Омск, Советская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 307,
     "uikTvd": "4554025201646",
+    "uikName": "УИК №307",
     "tikTvd": "2552000897351",
-    "tikName": "Омск, Советская"
+    "tikName": "Омск, Советская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 308,
     "uikTvd": "4554025201647",
+    "uikName": "УИК №308",
     "tikTvd": "2552000897351",
-    "tikName": "Омск, Советская"
+    "tikName": "Омск, Советская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 309,
     "uikTvd": "4554025201648",
+    "uikName": "УИК №309",
     "tikTvd": "2552000897351",
-    "tikName": "Омск, Советская"
+    "tikName": "Омск, Советская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 310,
     "uikTvd": "4554025201649",
+    "uikName": "УИК №310",
     "tikTvd": "2552000897351",
-    "tikName": "Омск, Советская"
+    "tikName": "Омск, Советская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 311,
     "uikTvd": "4554025201650",
+    "uikName": "УИК №311",
     "tikTvd": "2552000897351",
-    "tikName": "Омск, Советская"
+    "tikName": "Омск, Советская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 312,
     "uikTvd": "4554025201651",
+    "uikName": "УИК №312",
     "tikTvd": "2552000897351",
-    "tikName": "Омск, Советская"
+    "tikName": "Омск, Советская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 313,
     "uikTvd": "4554025201652",
+    "uikName": "УИК №313",
     "tikTvd": "2552000897351",
-    "tikName": "Омск, Советская"
+    "tikName": "Омск, Советская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 314,
     "uikTvd": "4554025201653",
+    "uikName": "УИК №314",
     "tikTvd": "2552000897351",
-    "tikName": "Омск, Советская"
+    "tikName": "Омск, Советская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 315,
     "uikTvd": "4554025201654",
+    "uikName": "УИК №315",
     "tikTvd": "2552000897351",
-    "tikName": "Омск, Советская"
+    "tikName": "Омск, Советская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 316,
     "uikTvd": "4554025201655",
+    "uikName": "УИК №316",
     "tikTvd": "2552000897351",
-    "tikName": "Омск, Советская"
+    "tikName": "Омск, Советская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 317,
     "uikTvd": "4554025201656",
+    "uikName": "УИК №317",
     "tikTvd": "2552000897351",
-    "tikName": "Омск, Советская"
+    "tikName": "Омск, Советская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 318,
     "uikTvd": "4554025201657",
+    "uikName": "УИК №318",
     "tikTvd": "2552000897351",
-    "tikName": "Омск, Советская"
+    "tikName": "Омск, Советская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 319,
     "uikTvd": "4554025201658",
+    "uikName": "УИК №319",
     "tikTvd": "2552000897351",
-    "tikName": "Омск, Советская"
+    "tikName": "Омск, Советская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 320,
     "uikTvd": "4554025201659",
+    "uikName": "УИК №320",
     "tikTvd": "2552000897351",
-    "tikName": "Омск, Советская"
+    "tikName": "Омск, Советская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 321,
     "uikTvd": "4554025201660",
+    "uikName": "УИК №321",
     "tikTvd": "2552000897351",
-    "tikName": "Омск, Советская"
+    "tikName": "Омск, Советская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 322,
     "uikTvd": "4554025201661",
+    "uikName": "УИК №322",
     "tikTvd": "2552000897351",
-    "tikName": "Омск, Советская"
+    "tikName": "Омск, Советская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 323,
     "uikTvd": "4554025201662",
+    "uikName": "УИК №323",
     "tikTvd": "2552000897351",
-    "tikName": "Омск, Советская"
+    "tikName": "Омск, Советская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 324,
     "uikTvd": "4554025201663",
+    "uikName": "УИК №324",
     "tikTvd": "2552000897351",
-    "tikName": "Омск, Советская"
+    "tikName": "Омск, Советская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 325,
     "uikTvd": "4554025201664",
+    "uikName": "УИК №325",
     "tikTvd": "2552000897351",
-    "tikName": "Омск, Советская"
+    "tikName": "Омск, Советская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 326,
     "uikTvd": "4554025201665",
+    "uikName": "УИК №326",
     "tikTvd": "2552000897351",
-    "tikName": "Омск, Советская"
+    "tikName": "Омск, Советская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 327,
     "uikTvd": "4554025201666",
+    "uikName": "УИК №327",
     "tikTvd": "2552000897351",
-    "tikName": "Омск, Советская"
+    "tikName": "Омск, Советская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 328,
     "uikTvd": "4554025201667",
+    "uikName": "УИК №328",
     "tikTvd": "2552000897351",
-    "tikName": "Омск, Советская"
+    "tikName": "Омск, Советская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 329,
     "uikTvd": "4554025201668",
+    "uikName": "УИК №329",
     "tikTvd": "2552000897351",
-    "tikName": "Омск, Советская"
+    "tikName": "Омск, Советская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 330,
     "uikTvd": "4554025201669",
+    "uikName": "УИК №330",
     "tikTvd": "2552000897351",
-    "tikName": "Омск, Советская"
+    "tikName": "Омск, Советская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 331,
     "uikTvd": "4554025201670",
+    "uikName": "УИК №331",
     "tikTvd": "2552000897351",
-    "tikName": "Омск, Советская"
+    "tikName": "Омск, Советская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 332,
     "uikTvd": "4554025201671",
+    "uikName": "УИК №332",
     "tikTvd": "2552000897351",
-    "tikName": "Омск, Советская"
+    "tikName": "Омск, Советская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 333,
     "uikTvd": "4554025201672",
+    "uikName": "УИК №333",
     "tikTvd": "2552000897351",
-    "tikName": "Омск, Советская"
+    "tikName": "Омск, Советская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 334,
     "uikTvd": "4554025201673",
+    "uikName": "УИК №334",
     "tikTvd": "2552000897351",
-    "tikName": "Омск, Советская"
+    "tikName": "Омск, Советская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 335,
     "uikTvd": "4554025201674",
+    "uikName": "УИК №335",
     "tikTvd": "2552000897351",
-    "tikName": "Омск, Советская"
+    "tikName": "Омск, Советская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 336,
     "uikTvd": "4554025201675",
+    "uikName": "УИК №336",
     "tikTvd": "2552000897351",
-    "tikName": "Омск, Советская"
+    "tikName": "Омск, Советская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 337,
     "uikTvd": "4554025201676",
+    "uikName": "УИК №337",
     "tikTvd": "2552000897351",
-    "tikName": "Омск, Советская"
+    "tikName": "Омск, Советская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 338,
     "uikTvd": "4554025201677",
+    "uikName": "УИК №338",
     "tikTvd": "2552000897351",
-    "tikName": "Омск, Советская"
+    "tikName": "Омск, Советская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 339,
     "uikTvd": "4554025201678",
+    "uikName": "УИК №339",
     "tikTvd": "2552000897351",
-    "tikName": "Омск, Советская"
+    "tikName": "Омск, Советская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 340,
     "uikTvd": "4554025201679",
+    "uikName": "УИК №340",
     "tikTvd": "2552000897351",
-    "tikName": "Омск, Советская"
+    "tikName": "Омск, Советская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 341,
     "uikTvd": "4554025201680",
+    "uikName": "УИК №341",
     "tikTvd": "2552000897351",
-    "tikName": "Омск, Советская"
+    "tikName": "Омск, Советская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 342,
     "uikTvd": "4554025201681",
+    "uikName": "УИК №342",
     "tikTvd": "2552000897351",
-    "tikName": "Омск, Советская"
+    "tikName": "Омск, Советская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 343,
     "uikTvd": "4554025201682",
+    "uikName": "УИК №343",
     "tikTvd": "2552000897351",
-    "tikName": "Омск, Советская"
+    "tikName": "Омск, Советская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 344,
     "uikTvd": "4554025201683",
+    "uikName": "УИК №344",
     "tikTvd": "2552000897351",
-    "tikName": "Омск, Советская"
+    "tikName": "Омск, Советская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 345,
     "uikTvd": "4554025201684",
+    "uikName": "УИК №345",
     "tikTvd": "2552000897351",
-    "tikName": "Омск, Советская"
+    "tikName": "Омск, Советская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 346,
     "uikTvd": "4554025201685",
+    "uikName": "УИК №346",
     "tikTvd": "2552000897351",
-    "tikName": "Омск, Советская"
+    "tikName": "Омск, Советская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 347,
     "uikTvd": "4554025201686",
+    "uikName": "УИК №347",
     "tikTvd": "2552000897351",
-    "tikName": "Омск, Советская"
+    "tikName": "Омск, Советская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 348,
     "uikTvd": "4554025201687",
+    "uikName": "УИК №348",
     "tikTvd": "2552000897351",
-    "tikName": "Омск, Советская"
+    "tikName": "Омск, Советская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 349,
     "uikTvd": "4554025201688",
+    "uikName": "УИК №349",
     "tikTvd": "2552000897351",
-    "tikName": "Омск, Советская"
+    "tikName": "Омск, Советская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 350,
     "uikTvd": "4554025201689",
+    "uikName": "УИК №350",
     "tikTvd": "2552000897351",
-    "tikName": "Омск, Советская"
+    "tikName": "Омск, Советская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 351,
     "uikTvd": "4554025201690",
+    "uikName": "УИК №351",
     "tikTvd": "2552000897351",
-    "tikName": "Омск, Советская"
+    "tikName": "Омск, Советская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 352,
     "uikTvd": "4554025201691",
+    "uikName": "УИК №352",
     "tikTvd": "2552000897351",
-    "tikName": "Омск, Советская"
+    "tikName": "Омск, Советская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 353,
     "uikTvd": "4554025211822",
+    "uikName": "УИК №353",
     "tikTvd": "2552000897351",
-    "tikName": "Омск, Советская"
+    "tikName": "Омск, Советская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 354,
     "uikTvd": "4554025211823",
+    "uikName": "УИК №354",
     "tikTvd": "2552000897351",
-    "tikName": "Омск, Советская"
+    "tikName": "Омск, Советская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 355,
     "uikTvd": "4554025211824",
+    "uikName": "УИК №355",
     "tikTvd": "2552000897351",
-    "tikName": "Омск, Советская"
+    "tikName": "Омск, Советская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 356,
     "uikTvd": "4554025211825",
+    "uikName": "УИК №356",
     "tikTvd": "2552000897351",
-    "tikName": "Омск, Советская"
+    "tikName": "Омск, Советская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 360,
     "uikTvd": "4554026217787",
+    "uikName": "УИК №360",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 361,
     "uikTvd": "4554026217788",
+    "uikName": "УИК №361",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 362,
     "uikTvd": "4554026217789",
+    "uikName": "УИК №362",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 363,
     "uikTvd": "4554026217790",
+    "uikName": "УИК №363",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 364,
     "uikTvd": "4554026217791",
+    "uikName": "УИК №364",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 365,
     "uikTvd": "4554026217792",
+    "uikName": "УИК №365",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 366,
     "uikTvd": "4554026217793",
+    "uikName": "УИК №366",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 367,
     "uikTvd": "4554026217794",
+    "uikName": "УИК №367",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 368,
     "uikTvd": "4554026217795",
+    "uikName": "УИК №368",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 369,
     "uikTvd": "4554026217796",
+    "uikName": "УИК №369",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 370,
     "uikTvd": "4554026217797",
+    "uikName": "УИК №370",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 371,
     "uikTvd": "4554026217798",
+    "uikName": "УИК №371",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 372,
     "uikTvd": "4554026217799",
+    "uikName": "УИК №372",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 373,
     "uikTvd": "4554026217800",
+    "uikName": "УИК №373",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 374,
     "uikTvd": "4554026217801",
+    "uikName": "УИК №374",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 375,
     "uikTvd": "4554026217802",
+    "uikName": "УИК №375",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 376,
     "uikTvd": "4554026217803",
+    "uikName": "УИК №376",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 377,
     "uikTvd": "4554026217804",
+    "uikName": "УИК №377",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 378,
     "uikTvd": "4554026217805",
+    "uikName": "УИК №378",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 379,
     "uikTvd": "4554026217806",
+    "uikName": "УИК №379",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 380,
     "uikTvd": "4554026217807",
+    "uikName": "УИК №380",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 381,
     "uikTvd": "4554026217808",
+    "uikName": "УИК №381",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 382,
     "uikTvd": "4554026217809",
+    "uikName": "УИК №382",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 383,
     "uikTvd": "4554026217810",
+    "uikName": "УИК №383",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 384,
     "uikTvd": "4554026217811",
+    "uikName": "УИК №384",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 385,
     "uikTvd": "4554026217812",
+    "uikName": "УИК №385",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 386,
     "uikTvd": "4554026217813",
+    "uikName": "УИК №386",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 387,
     "uikTvd": "4554026217814",
+    "uikName": "УИК №387",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 388,
     "uikTvd": "4554026217815",
+    "uikName": "УИК №388",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 389,
     "uikTvd": "4554026217816",
+    "uikName": "УИК №389",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 390,
     "uikTvd": "4554026217817",
+    "uikName": "УИК №390",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 391,
     "uikTvd": "4554026217818",
+    "uikName": "УИК №391",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 392,
     "uikTvd": "4554026217819",
+    "uikName": "УИК №392",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 393,
     "uikTvd": "4554026217820",
+    "uikName": "УИК №393",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 394,
     "uikTvd": "4554026217821",
+    "uikName": "УИК №394",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 395,
     "uikTvd": "4554026217822",
+    "uikName": "УИК №395",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 396,
     "uikTvd": "4554026217823",
+    "uikName": "УИК №396",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 397,
     "uikTvd": "4554026217824",
+    "uikName": "УИК №397",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 398,
     "uikTvd": "4554026217825",
+    "uikName": "УИК №398",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 399,
     "uikTvd": "4554026217826",
+    "uikName": "УИК №399",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 400,
     "uikTvd": "4554026217827",
+    "uikName": "УИК №400",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 401,
     "uikTvd": "4554026217828",
+    "uikName": "УИК №401",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 402,
     "uikTvd": "4554026217829",
+    "uikName": "УИК №402",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 403,
     "uikTvd": "4554026217830",
+    "uikName": "УИК №403",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 404,
     "uikTvd": "4554026217831",
+    "uikName": "УИК №404",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 405,
     "uikTvd": "4554026217832",
+    "uikName": "УИК №405",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 406,
     "uikTvd": "4554026217833",
+    "uikName": "УИК №406",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 407,
     "uikTvd": "4554026217834",
+    "uikName": "УИК №407",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 408,
     "uikTvd": "4554026217835",
+    "uikName": "УИК №408",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 409,
     "uikTvd": "4554026217836",
+    "uikName": "УИК №409",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 410,
     "uikTvd": "4554026217837",
+    "uikName": "УИК №410",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 411,
     "uikTvd": "4554026217838",
+    "uikName": "УИК №411",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 412,
     "uikTvd": "4554026217839",
+    "uikName": "УИК №412",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 413,
     "uikTvd": "4554026217840",
+    "uikName": "УИК №413",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 414,
     "uikTvd": "4554026217841",
+    "uikName": "УИК №414",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 415,
     "uikTvd": "4554026217842",
+    "uikName": "УИК №415",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 416,
     "uikTvd": "4554026217843",
+    "uikName": "УИК №416",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 417,
     "uikTvd": "4554026217844",
+    "uikName": "УИК №417",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 418,
     "uikTvd": "4554026217845",
+    "uikName": "УИК №418",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 419,
     "uikTvd": "4554026217846",
+    "uikName": "УИК №419",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 420,
     "uikTvd": "4554026217847",
+    "uikName": "УИК №420",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 421,
     "uikTvd": "4554026217848",
+    "uikName": "УИК №421",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 422,
     "uikTvd": "4554026217849",
+    "uikName": "УИК №422",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 423,
     "uikTvd": "4554026217850",
+    "uikName": "УИК №423",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 424,
     "uikTvd": "4554026217851",
+    "uikName": "УИК №424",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 425,
     "uikTvd": "4554026217852",
+    "uikName": "УИК №425",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 426,
     "uikTvd": "4554026217853",
+    "uikName": "УИК №426",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 427,
     "uikTvd": "4554026217854",
+    "uikName": "УИК №427",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 428,
     "uikTvd": "4554026217855",
+    "uikName": "УИК №428",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 429,
     "uikTvd": "4554026217856",
+    "uikName": "УИК №429",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 430,
     "uikTvd": "4554026217857",
+    "uikName": "УИК №430",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 431,
     "uikTvd": "4554026217858",
+    "uikName": "УИК №431",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 432,
     "uikTvd": "4554026217859",
+    "uikName": "УИК №432",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 433,
     "uikTvd": "4554026217860",
+    "uikName": "УИК №433",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 434,
     "uikTvd": "4554026217861",
+    "uikName": "УИК №434",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 435,
     "uikTvd": "4554026217862",
+    "uikName": "УИК №435",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 436,
     "uikTvd": "4554026217863",
+    "uikName": "УИК №436",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 437,
     "uikTvd": "4554026217864",
+    "uikName": "УИК №437",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 438,
     "uikTvd": "4554026217865",
+    "uikName": "УИК №438",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 439,
     "uikTvd": "4554026217866",
+    "uikName": "УИК №439",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 440,
     "uikTvd": "4554026217867",
+    "uikName": "УИК №440",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 441,
     "uikTvd": "4554026217868",
+    "uikName": "УИК №441",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 442,
     "uikTvd": "4554026217869",
+    "uikName": "УИК №442",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 443,
     "uikTvd": "4554026217870",
+    "uikName": "УИК №443",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 444,
     "uikTvd": "4554026217871",
+    "uikName": "УИК №444",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 445,
     "uikTvd": "4554026217872",
+    "uikName": "УИК №445",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 446,
     "uikTvd": "4554026217873",
+    "uikName": "УИК №446",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 447,
     "uikTvd": "4554026217874",
+    "uikName": "УИК №447",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 448,
     "uikTvd": "4554026217875",
+    "uikName": "УИК №448",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 449,
     "uikTvd": "4554026217876",
+    "uikName": "УИК №449",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 450,
     "uikTvd": "4554026217877",
+    "uikName": "УИК №450",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 451,
     "uikTvd": "4554026217878",
+    "uikName": "УИК №451",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 452,
     "uikTvd": "4554026217879",
+    "uikName": "УИК №452",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 453,
     "uikTvd": "4554026217880",
+    "uikName": "УИК №453",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 454,
     "uikTvd": "4554026217881",
+    "uikName": "УИК №454",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 455,
     "uikTvd": "4554026217882",
+    "uikName": "УИК №455",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 456,
     "uikTvd": "4554026217883",
+    "uikName": "УИК №456",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 457,
     "uikTvd": "4554026217884",
+    "uikName": "УИК №457",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 458,
     "uikTvd": "4554026217885",
+    "uikName": "УИК №458",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 459,
     "uikTvd": "4554026217886",
+    "uikName": "УИК №459",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 460,
     "uikTvd": "4554026217887",
+    "uikName": "УИК №460",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 461,
     "uikTvd": "4554026217888",
+    "uikName": "УИК №461",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 462,
     "uikTvd": "4554026217889",
+    "uikName": "УИК №462",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 463,
     "uikTvd": "4554026217890",
+    "uikName": "УИК №463",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 464,
     "uikTvd": "4554026217891",
+    "uikName": "УИК №464",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 465,
     "uikTvd": "4554026217892",
+    "uikName": "УИК №465",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 466,
     "uikTvd": "4554026217893",
+    "uikName": "УИК №466",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 467,
     "uikTvd": "4554026217894",
+    "uikName": "УИК №467",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 468,
     "uikTvd": "4554026217895",
+    "uikName": "УИК №468",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 469,
     "uikTvd": "4554026217896",
+    "uikName": "УИК №469",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 470,
     "uikTvd": "4554026217897",
+    "uikName": "УИК №470",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 471,
     "uikTvd": "4554026217898",
+    "uikName": "УИК №471",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 472,
     "uikTvd": "4554026233020",
+    "uikName": "УИК №472",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 473,
     "uikTvd": "4554026233021",
+    "uikName": "УИК №473",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 474,
     "uikTvd": "4554026233022",
+    "uikName": "УИК №474",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 475,
     "uikTvd": "4554026233023",
+    "uikName": "УИК №475",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 476,
     "uikTvd": "4554026233024",
+    "uikName": "УИК №476",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 477,
     "uikTvd": "4554026233025",
+    "uikName": "УИК №477",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 478,
     "uikTvd": "4554026233026",
+    "uikName": "УИК №478",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 479,
     "uikTvd": "4554026233027",
+    "uikName": "УИК №479",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 480,
     "uikTvd": "4554026233028",
+    "uikName": "УИК №480",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 481,
     "uikTvd": "4554026233029",
+    "uikName": "УИК №481",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 482,
     "uikTvd": "4554026233030",
+    "uikName": "УИК №482",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 483,
     "uikTvd": "4554026233031",
+    "uikName": "УИК №483",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 484,
     "uikTvd": "4554026233032",
+    "uikName": "УИК №484",
     "tikTvd": "2552000897332",
-    "tikName": "Омск, Центральная"
+    "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 485,
     "uikTvd": "4554001144178",
+    "uikName": "УИК №485",
     "tikTvd": "2552000897343",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 486,
     "uikTvd": "4554001144179",
+    "uikName": "УИК №486",
     "tikTvd": "2552000897343",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 487,
     "uikTvd": "4554001144180",
+    "uikName": "УИК №487",
     "tikTvd": "2552000897343",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 488,
     "uikTvd": "4554001144181",
+    "uikName": "УИК №488",
     "tikTvd": "2552000897343",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 489,
     "uikTvd": "4554001144182",
+    "uikName": "УИК №489",
     "tikTvd": "2552000897343",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 490,
     "uikTvd": "4554001144183",
+    "uikName": "УИК №490",
     "tikTvd": "2552000897343",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 491,
     "uikTvd": "4554001144184",
+    "uikName": "УИК №491",
     "tikTvd": "2552000897343",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 492,
     "uikTvd": "4554001144185",
+    "uikName": "УИК №492",
     "tikTvd": "2552000897343",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 493,
     "uikTvd": "4554001144186",
+    "uikName": "УИК №493",
     "tikTvd": "2552000897343",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 494,
     "uikTvd": "4554001144187",
+    "uikName": "УИК №494",
     "tikTvd": "2552000897343",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 495,
     "uikTvd": "4554001144188",
+    "uikName": "УИК №495",
     "tikTvd": "2552000897343",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 496,
     "uikTvd": "4554001144189",
+    "uikName": "УИК №496",
     "tikTvd": "2552000897343",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 497,
     "uikTvd": "4554001144190",
+    "uikName": "УИК №497",
     "tikTvd": "2552000897343",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 498,
     "uikTvd": "4554001144191",
+    "uikName": "УИК №498",
     "tikTvd": "2552000897343",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 499,
     "uikTvd": "4554001144192",
+    "uikName": "УИК №499",
     "tikTvd": "2552000897343",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 500,
     "uikTvd": "4554001144193",
+    "uikName": "УИК №500",
     "tikTvd": "2552000897343",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 501,
     "uikTvd": "4554001144194",
+    "uikName": "УИК №501",
     "tikTvd": "2552000897343",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 502,
     "uikTvd": "4554001144195",
+    "uikName": "УИК №502",
     "tikTvd": "2552000897343",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 503,
     "uikTvd": "4554001144196",
+    "uikName": "УИК №503",
     "tikTvd": "2552000897343",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 504,
     "uikTvd": "4554001144197",
+    "uikName": "УИК №504",
     "tikTvd": "2552000897343",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 505,
     "uikTvd": "4554001144198",
+    "uikName": "УИК №505",
     "tikTvd": "2552000897343",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 506,
     "uikTvd": "4554001144199",
+    "uikName": "УИК №506",
     "tikTvd": "2552000897343",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 507,
     "uikTvd": "4554001144200",
+    "uikName": "УИК №507",
     "tikTvd": "2552000897343",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 508,
     "uikTvd": "4554001144201",
+    "uikName": "УИК №508",
     "tikTvd": "2552000897343",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 509,
     "uikTvd": "4554001144202",
+    "uikName": "УИК №509",
     "tikTvd": "2552000897343",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 510,
     "uikTvd": "4554001144203",
+    "uikName": "УИК №510",
     "tikTvd": "2552000897343",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 511,
     "uikTvd": "4554001144204",
+    "uikName": "УИК №511",
     "tikTvd": "2552000897343",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 512,
     "uikTvd": "4554001144205",
+    "uikName": "УИК №512",
     "tikTvd": "2552000897343",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 513,
     "uikTvd": "4554001144206",
+    "uikName": "УИК №513",
     "tikTvd": "2552000897343",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 514,
     "uikTvd": "4554001144207",
+    "uikName": "УИК №514",
     "tikTvd": "2552000897343",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 515,
     "uikTvd": "4554001144208",
+    "uikName": "УИК №515",
     "tikTvd": "2552000897343",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 516,
     "uikTvd": "4554001144209",
+    "uikName": "УИК №516",
     "tikTvd": "2552000897343",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 517,
     "uikTvd": "4554001144210",
+    "uikName": "УИК №517",
     "tikTvd": "2552000897343",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 518,
     "uikTvd": "4554001144211",
+    "uikName": "УИК №518",
     "tikTvd": "2552000897343",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 519,
     "uikTvd": "4554001144212",
+    "uikName": "УИК №519",
     "tikTvd": "2552000897343",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 522,
     "uikTvd": "4554002171211",
+    "uikName": "УИК №522",
     "tikTvd": "2552000897352",
-    "tikName": "Большереченская"
+    "tikName": "Большереченская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 523,
     "uikTvd": "4554002171212",
+    "uikName": "УИК №523",
     "tikTvd": "2552000897352",
-    "tikName": "Большереченская"
+    "tikName": "Большереченская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 524,
     "uikTvd": "4554002171213",
+    "uikName": "УИК №524",
     "tikTvd": "2552000897352",
-    "tikName": "Большереченская"
+    "tikName": "Большереченская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 525,
     "uikTvd": "4554002171214",
+    "uikName": "УИК №525",
     "tikTvd": "2552000897352",
-    "tikName": "Большереченская"
+    "tikName": "Большереченская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 526,
     "uikTvd": "4554002171215",
+    "uikName": "УИК №526",
     "tikTvd": "2552000897352",
-    "tikName": "Большереченская"
+    "tikName": "Большереченская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 527,
     "uikTvd": "4554002171216",
+    "uikName": "УИК №527",
     "tikTvd": "2552000897352",
-    "tikName": "Большереченская"
+    "tikName": "Большереченская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 528,
     "uikTvd": "4554002171217",
+    "uikName": "УИК №528",
     "tikTvd": "2552000897352",
-    "tikName": "Большереченская"
+    "tikName": "Большереченская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 529,
     "uikTvd": "4554002171218",
+    "uikName": "УИК №529",
     "tikTvd": "2552000897352",
-    "tikName": "Большереченская"
+    "tikName": "Большереченская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 530,
     "uikTvd": "4554002171219",
+    "uikName": "УИК №530",
     "tikTvd": "2552000897352",
-    "tikName": "Большереченская"
+    "tikName": "Большереченская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 531,
     "uikTvd": "4554002171220",
+    "uikName": "УИК №531",
     "tikTvd": "2552000897352",
-    "tikName": "Большереченская"
+    "tikName": "Большереченская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 532,
     "uikTvd": "4554002171221",
+    "uikName": "УИК №532",
     "tikTvd": "2552000897352",
-    "tikName": "Большереченская"
+    "tikName": "Большереченская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 533,
     "uikTvd": "4554002171222",
+    "uikName": "УИК №533",
     "tikTvd": "2552000897352",
-    "tikName": "Большереченская"
+    "tikName": "Большереченская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 534,
     "uikTvd": "4554002171223",
+    "uikName": "УИК №534",
     "tikTvd": "2552000897352",
-    "tikName": "Большереченская"
+    "tikName": "Большереченская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 535,
     "uikTvd": "4554002171224",
+    "uikName": "УИК №535",
     "tikTvd": "2552000897352",
-    "tikName": "Большереченская"
+    "tikName": "Большереченская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 536,
     "uikTvd": "4554002171225",
+    "uikName": "УИК №536",
     "tikTvd": "2552000897352",
-    "tikName": "Большереченская"
+    "tikName": "Большереченская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 537,
     "uikTvd": "4554002171226",
+    "uikName": "УИК №537",
     "tikTvd": "2552000897352",
-    "tikName": "Большереченская"
+    "tikName": "Большереченская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 538,
     "uikTvd": "4554002171227",
+    "uikName": "УИК №538",
     "tikTvd": "2552000897352",
-    "tikName": "Большереченская"
+    "tikName": "Большереченская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 539,
     "uikTvd": "4554002171228",
+    "uikName": "УИК №539",
     "tikTvd": "2552000897352",
-    "tikName": "Большереченская"
+    "tikName": "Большереченская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 540,
     "uikTvd": "4554002171229",
+    "uikName": "УИК №540",
     "tikTvd": "2552000897352",
-    "tikName": "Большереченская"
+    "tikName": "Большереченская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 541,
     "uikTvd": "4554002171230",
+    "uikName": "УИК №541",
     "tikTvd": "2552000897352",
-    "tikName": "Большереченская"
+    "tikName": "Большереченская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 542,
     "uikTvd": "4554002171231",
+    "uikName": "УИК №542",
     "tikTvd": "2552000897352",
-    "tikName": "Большереченская"
+    "tikName": "Большереченская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 543,
     "uikTvd": "4554002171232",
+    "uikName": "УИК №543",
     "tikTvd": "2552000897352",
-    "tikName": "Большереченская"
+    "tikName": "Большереченская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 544,
     "uikTvd": "4554002171233",
+    "uikName": "УИК №544",
     "tikTvd": "2552000897352",
-    "tikName": "Большереченская"
+    "tikName": "Большереченская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 545,
     "uikTvd": "4554002171234",
+    "uikName": "УИК №545",
     "tikTvd": "2552000897352",
-    "tikName": "Большереченская"
+    "tikName": "Большереченская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 546,
     "uikTvd": "4554002171235",
+    "uikName": "УИК №546",
     "tikTvd": "2552000897352",
-    "tikName": "Большереченская"
+    "tikName": "Большереченская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 547,
     "uikTvd": "4554002171236",
+    "uikName": "УИК №547",
     "tikTvd": "2552000897352",
-    "tikName": "Большереченская"
+    "tikName": "Большереченская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 548,
     "uikTvd": "4554002171237",
+    "uikName": "УИК №548",
     "tikTvd": "2552000897352",
-    "tikName": "Большереченская"
+    "tikName": "Большереченская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 549,
     "uikTvd": "4554002171238",
+    "uikName": "УИК №549",
     "tikTvd": "2552000897352",
-    "tikName": "Большереченская"
+    "tikName": "Большереченская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 550,
     "uikTvd": "4554002171239",
+    "uikName": "УИК №550",
     "tikTvd": "2552000897352",
-    "tikName": "Большереченская"
+    "tikName": "Большереченская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 551,
     "uikTvd": "4554002171240",
+    "uikName": "УИК №551",
     "tikTvd": "2552000897352",
-    "tikName": "Большереченская"
+    "tikName": "Большереченская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 552,
     "uikTvd": "4554002171241",
+    "uikName": "УИК №552",
     "tikTvd": "2552000897352",
-    "tikName": "Большереченская"
+    "tikName": "Большереченская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 553,
     "uikTvd": "4554002171242",
+    "uikName": "УИК №553",
     "tikTvd": "2552000897352",
-    "tikName": "Большереченская"
+    "tikName": "Большереченская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 554,
     "uikTvd": "4554002171243",
+    "uikName": "УИК №554",
     "tikTvd": "2552000897352",
-    "tikName": "Большереченская"
+    "tikName": "Большереченская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 555,
     "uikTvd": "4554002171244",
+    "uikName": "УИК №555",
     "tikTvd": "2552000897352",
-    "tikName": "Большереченская"
+    "tikName": "Большереченская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 556,
     "uikTvd": "4554002171245",
+    "uikName": "УИК №556",
     "tikTvd": "2552000897352",
-    "tikName": "Большереченская"
+    "tikName": "Большереченская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 557,
     "uikTvd": "4554002171246",
+    "uikName": "УИК №557",
     "tikTvd": "2552000897352",
-    "tikName": "Большереченская"
+    "tikName": "Большереченская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 558,
     "uikTvd": "4554002171247",
+    "uikName": "УИК №558",
     "tikTvd": "2552000897352",
-    "tikName": "Большереченская"
+    "tikName": "Большереченская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 559,
     "uikTvd": "4554002171248",
+    "uikName": "УИК №559",
     "tikTvd": "2552000897352",
-    "tikName": "Большереченская"
+    "tikName": "Большереченская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 560,
     "uikTvd": "4554002171249",
+    "uikName": "УИК №560",
     "tikTvd": "2552000897352",
-    "tikName": "Большереченская"
+    "tikName": "Большереченская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 561,
     "uikTvd": "4554002171250",
+    "uikName": "УИК №561",
     "tikTvd": "2552000897352",
-    "tikName": "Большереченская"
+    "tikName": "Большереченская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 562,
     "uikTvd": "4554002171251",
+    "uikName": "УИК №562",
     "tikTvd": "2552000897352",
-    "tikName": "Большереченская"
+    "tikName": "Большереченская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 563,
     "uikTvd": "4554002171252",
+    "uikName": "УИК №563",
     "tikTvd": "2552000897352",
-    "tikName": "Большереченская"
+    "tikName": "Большереченская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 564,
     "uikTvd": "4554002171253",
+    "uikName": "УИК №564",
     "tikTvd": "2552000897352",
-    "tikName": "Большереченская"
+    "tikName": "Большереченская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 565,
     "uikTvd": "4554002171254",
+    "uikName": "УИК №565",
     "tikTvd": "2552000897352",
-    "tikName": "Большереченская"
+    "tikName": "Большереченская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 566,
     "uikTvd": "4554002171255",
+    "uikName": "УИК №566",
     "tikTvd": "2552000897352",
-    "tikName": "Большереченская"
+    "tikName": "Большереченская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 567,
     "uikTvd": "4554002171256",
+    "uikName": "УИК №567",
     "tikTvd": "2552000897352",
-    "tikName": "Большереченская"
+    "tikName": "Большереченская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 568,
     "uikTvd": "4554002171257",
+    "uikName": "УИК №568",
     "tikTvd": "2552000897352",
-    "tikName": "Большереченская"
+    "tikName": "Большереченская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 569,
     "uikTvd": "4554002171258",
+    "uikName": "УИК №569",
     "tikTvd": "2552000897352",
-    "tikName": "Большереченская"
+    "tikName": "Большереченская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 570,
     "uikTvd": "4554002171259",
+    "uikName": "УИК №570",
     "tikTvd": "2552000897352",
-    "tikName": "Большереченская"
+    "tikName": "Большереченская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 571,
     "uikTvd": "4554002171260",
+    "uikName": "УИК №571",
     "tikTvd": "2552000897352",
-    "tikName": "Большереченская"
+    "tikName": "Большереченская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 572,
     "uikTvd": "4554002171261",
+    "uikName": "УИК №572",
     "tikTvd": "2552000897352",
-    "tikName": "Большереченская"
+    "tikName": "Большереченская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 573,
     "uikTvd": "4554002171262",
+    "uikName": "УИК №573",
     "tikTvd": "2552000897352",
-    "tikName": "Большереченская"
+    "tikName": "Большереченская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 574,
     "uikTvd": "4554002171263",
+    "uikName": "УИК №574",
     "tikTvd": "2552000897352",
-    "tikName": "Большереченская"
+    "tikName": "Большереченская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 575,
     "uikTvd": "4554002171264",
+    "uikName": "УИК №575",
     "tikTvd": "2552000897352",
-    "tikName": "Большереченская"
+    "tikName": "Большереченская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 576,
     "uikTvd": "4554002171265",
+    "uikName": "УИК №576",
     "tikTvd": "2552000897352",
-    "tikName": "Большереченская"
+    "tikName": "Большереченская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 577,
     "uikTvd": "4554002171266",
+    "uikName": "УИК №577",
     "tikTvd": "2552000897352",
-    "tikName": "Большереченская"
+    "tikName": "Большереченская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 578,
     "uikTvd": "4554002171267",
+    "uikName": "УИК №578",
     "tikTvd": "2552000897352",
-    "tikName": "Большереченская"
+    "tikName": "Большереченская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 579,
     "uikTvd": "4554002171268",
+    "uikName": "УИК №579",
     "tikTvd": "2552000897352",
-    "tikName": "Большереченская"
+    "tikName": "Большереченская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 580,
     "uikTvd": "4554002171269",
+    "uikName": "УИК №580",
     "tikTvd": "2552000897352",
-    "tikName": "Большереченская"
+    "tikName": "Большереченская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 581,
     "uikTvd": "4554002171270",
+    "uikName": "УИК №581",
     "tikTvd": "2552000897352",
-    "tikName": "Большереченская"
+    "tikName": "Большереченская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 582,
     "uikTvd": "4554002171271",
+    "uikName": "УИК №582",
     "tikTvd": "2552000897352",
-    "tikName": "Большереченская"
+    "tikName": "Большереченская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 583,
     "uikTvd": "4554002171272",
+    "uikName": "УИК №583",
     "tikTvd": "2552000897352",
-    "tikName": "Большереченская"
+    "tikName": "Большереченская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 584,
     "uikTvd": "4554002171273",
+    "uikName": "УИК №584",
     "tikTvd": "2552000897352",
-    "tikName": "Большереченская"
+    "tikName": "Большереченская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 585,
     "uikTvd": "4554002171274",
+    "uikName": "УИК №585",
     "tikTvd": "2552000897352",
-    "tikName": "Большереченская"
+    "tikName": "Большереченская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 586,
     "uikTvd": "4554002171275",
+    "uikName": "УИК №586",
     "tikTvd": "2552000897352",
-    "tikName": "Большереченская"
+    "tikName": "Большереченская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 587,
     "uikTvd": "4554002171276",
+    "uikName": "УИК №587",
     "tikTvd": "2552000897352",
-    "tikName": "Большереченская"
+    "tikName": "Большереченская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 588,
     "uikTvd": "4554002173737",
+    "uikName": "УИК №588",
     "tikTvd": "2552000897352",
-    "tikName": "Большереченская"
+    "tikName": "Большереченская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 591,
     "uikTvd": "4554003131513",
+    "uikName": "УИК №591",
     "tikTvd": "2552000897353",
-    "tikName": "Большеуковская"
+    "tikName": "Большеуковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 592,
     "uikTvd": "4554003131515",
+    "uikName": "УИК №592",
     "tikTvd": "2552000897353",
-    "tikName": "Большеуковская"
+    "tikName": "Большеуковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 593,
     "uikTvd": "4554003131517",
+    "uikName": "УИК №593",
     "tikTvd": "2552000897353",
-    "tikName": "Большеуковская"
+    "tikName": "Большеуковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 594,
     "uikTvd": "4554003131518",
+    "uikName": "УИК №594",
     "tikTvd": "2552000897353",
-    "tikName": "Большеуковская"
+    "tikName": "Большеуковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 595,
     "uikTvd": "4554003131519",
+    "uikName": "УИК №595",
     "tikTvd": "2552000897353",
-    "tikName": "Большеуковская"
+    "tikName": "Большеуковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 596,
     "uikTvd": "4554003131520",
+    "uikName": "УИК №596",
     "tikTvd": "2552000897353",
-    "tikName": "Большеуковская"
+    "tikName": "Большеуковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 597,
     "uikTvd": "4554003131521",
+    "uikName": "УИК №597",
     "tikTvd": "2552000897353",
-    "tikName": "Большеуковская"
+    "tikName": "Большеуковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 598,
     "uikTvd": "4554003131522",
+    "uikName": "УИК №598",
     "tikTvd": "2552000897353",
-    "tikName": "Большеуковская"
+    "tikName": "Большеуковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 599,
     "uikTvd": "4554003131523",
+    "uikName": "УИК №599",
     "tikTvd": "2552000897353",
-    "tikName": "Большеуковская"
+    "tikName": "Большеуковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 600,
     "uikTvd": "4554003131524",
+    "uikName": "УИК №600",
     "tikTvd": "2552000897353",
-    "tikName": "Большеуковская"
+    "tikName": "Большеуковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 601,
     "uikTvd": "4554003131525",
+    "uikName": "УИК №601",
     "tikTvd": "2552000897353",
-    "tikName": "Большеуковская"
+    "tikName": "Большеуковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 602,
     "uikTvd": "4554003131526",
+    "uikName": "УИК №602",
     "tikTvd": "2552000897353",
-    "tikName": "Большеуковская"
+    "tikName": "Большеуковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 603,
     "uikTvd": "4554003131527",
+    "uikName": "УИК №603",
     "tikTvd": "2552000897353",
-    "tikName": "Большеуковская"
+    "tikName": "Большеуковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 604,
     "uikTvd": "4554003131528",
+    "uikName": "УИК №604",
     "tikTvd": "2552000897353",
-    "tikName": "Большеуковская"
+    "tikName": "Большеуковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 605,
     "uikTvd": "4554003131529",
+    "uikName": "УИК №605",
     "tikTvd": "2552000897353",
-    "tikName": "Большеуковская"
+    "tikName": "Большеуковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 606,
     "uikTvd": "4554003131530",
+    "uikName": "УИК №606",
     "tikTvd": "2552000897353",
-    "tikName": "Большеуковская"
+    "tikName": "Большеуковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 607,
     "uikTvd": "4554003131531",
+    "uikName": "УИК №607",
     "tikTvd": "2552000897353",
-    "tikName": "Большеуковская"
+    "tikName": "Большеуковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 608,
     "uikTvd": "4554003131532",
+    "uikName": "УИК №608",
     "tikTvd": "2552000897353",
-    "tikName": "Большеуковская"
+    "tikName": "Большеуковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 611,
     "uikTvd": "4554004175380",
+    "uikName": "УИК №611",
     "tikTvd": "2552000897354",
-    "tikName": "Горьковская"
+    "tikName": "Горьковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 612,
     "uikTvd": "4554004175381",
+    "uikName": "УИК №612",
     "tikTvd": "2552000897354",
-    "tikName": "Горьковская"
+    "tikName": "Горьковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 613,
     "uikTvd": "4554004175382",
+    "uikName": "УИК №613",
     "tikTvd": "2552000897354",
-    "tikName": "Горьковская"
+    "tikName": "Горьковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 614,
     "uikTvd": "4554004175383",
+    "uikName": "УИК №614",
     "tikTvd": "2552000897354",
-    "tikName": "Горьковская"
+    "tikName": "Горьковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 615,
     "uikTvd": "4554004175384",
+    "uikName": "УИК №615",
     "tikTvd": "2552000897354",
-    "tikName": "Горьковская"
+    "tikName": "Горьковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 616,
     "uikTvd": "4554004175385",
+    "uikName": "УИК №616",
     "tikTvd": "2552000897354",
-    "tikName": "Горьковская"
+    "tikName": "Горьковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 617,
     "uikTvd": "4554004175386",
+    "uikName": "УИК №617",
     "tikTvd": "2552000897354",
-    "tikName": "Горьковская"
+    "tikName": "Горьковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 618,
     "uikTvd": "4554004175387",
+    "uikName": "УИК №618",
     "tikTvd": "2552000897354",
-    "tikName": "Горьковская"
+    "tikName": "Горьковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 619,
     "uikTvd": "4554004175388",
+    "uikName": "УИК №619",
     "tikTvd": "2552000897354",
-    "tikName": "Горьковская"
+    "tikName": "Горьковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 620,
     "uikTvd": "4554004175389",
+    "uikName": "УИК №620",
     "tikTvd": "2552000897354",
-    "tikName": "Горьковская"
+    "tikName": "Горьковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 621,
     "uikTvd": "4554004175390",
+    "uikName": "УИК №621",
     "tikTvd": "2552000897354",
-    "tikName": "Горьковская"
+    "tikName": "Горьковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 622,
     "uikTvd": "4554004175391",
+    "uikName": "УИК №622",
     "tikTvd": "2552000897354",
-    "tikName": "Горьковская"
+    "tikName": "Горьковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 623,
     "uikTvd": "4554004175392",
+    "uikName": "УИК №623",
     "tikTvd": "2552000897354",
-    "tikName": "Горьковская"
+    "tikName": "Горьковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 624,
     "uikTvd": "4554004175393",
+    "uikName": "УИК №624",
     "tikTvd": "2552000897354",
-    "tikName": "Горьковская"
+    "tikName": "Горьковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 625,
     "uikTvd": "4554004175394",
+    "uikName": "УИК №625",
     "tikTvd": "2552000897354",
-    "tikName": "Горьковская"
+    "tikName": "Горьковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 626,
     "uikTvd": "4554004175395",
+    "uikName": "УИК №626",
     "tikTvd": "2552000897354",
-    "tikName": "Горьковская"
+    "tikName": "Горьковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 627,
     "uikTvd": "4554004175396",
+    "uikName": "УИК №627",
     "tikTvd": "2552000897354",
-    "tikName": "Горьковская"
+    "tikName": "Горьковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 628,
     "uikTvd": "4554004175397",
+    "uikName": "УИК №628",
     "tikTvd": "2552000897354",
-    "tikName": "Горьковская"
+    "tikName": "Горьковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 629,
     "uikTvd": "4554004175398",
+    "uikName": "УИК №629",
     "tikTvd": "2552000897354",
-    "tikName": "Горьковская"
+    "tikName": "Горьковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 630,
     "uikTvd": "4554004175399",
+    "uikName": "УИК №630",
     "tikTvd": "2552000897354",
-    "tikName": "Горьковская"
+    "tikName": "Горьковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 631,
     "uikTvd": "4554004175400",
+    "uikName": "УИК №631",
     "tikTvd": "2552000897354",
-    "tikName": "Горьковская"
+    "tikName": "Горьковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 632,
     "uikTvd": "4554004175401",
+    "uikName": "УИК №632",
     "tikTvd": "2552000897354",
-    "tikName": "Горьковская"
+    "tikName": "Горьковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 633,
     "uikTvd": "4554004175402",
+    "uikName": "УИК №633",
     "tikTvd": "2552000897354",
-    "tikName": "Горьковская"
+    "tikName": "Горьковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 634,
     "uikTvd": "4554004175403",
+    "uikName": "УИК №634",
     "tikTvd": "2552000897354",
-    "tikName": "Горьковская"
+    "tikName": "Горьковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 635,
     "uikTvd": "4554004175404",
+    "uikName": "УИК №635",
     "tikTvd": "2552000897354",
-    "tikName": "Горьковская"
+    "tikName": "Горьковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 636,
     "uikTvd": "4554004175405",
+    "uikName": "УИК №636",
     "tikTvd": "2552000897354",
-    "tikName": "Горьковская"
+    "tikName": "Горьковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 637,
     "uikTvd": "4554004175406",
+    "uikName": "УИК №637",
     "tikTvd": "2552000897354",
-    "tikName": "Горьковская"
+    "tikName": "Горьковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 638,
     "uikTvd": "4554004175407",
+    "uikName": "УИК №638",
     "tikTvd": "2552000897354",
-    "tikName": "Горьковская"
+    "tikName": "Горьковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 639,
     "uikTvd": "4554004175408",
+    "uikName": "УИК №639",
     "tikTvd": "2552000897354",
-    "tikName": "Горьковская"
+    "tikName": "Горьковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 640,
     "uikTvd": "4554004175409",
+    "uikName": "УИК №640",
     "tikTvd": "2552000897354",
-    "tikName": "Горьковская"
+    "tikName": "Горьковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 641,
     "uikTvd": "4554004175410",
+    "uikName": "УИК №641",
     "tikTvd": "2552000897354",
-    "tikName": "Горьковская"
+    "tikName": "Горьковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 642,
     "uikTvd": "4554004175411",
+    "uikName": "УИК №642",
     "tikTvd": "2552000897354",
-    "tikName": "Горьковская"
+    "tikName": "Горьковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 643,
     "uikTvd": "4554004175412",
+    "uikName": "УИК №643",
     "tikTvd": "2552000897354",
-    "tikName": "Горьковская"
+    "tikName": "Горьковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 644,
     "uikTvd": "4554004175413",
+    "uikName": "УИК №644",
     "tikTvd": "2552000897354",
-    "tikName": "Горьковская"
+    "tikName": "Горьковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 645,
     "uikTvd": "4554004175414",
+    "uikName": "УИК №645",
     "tikTvd": "2552000897354",
-    "tikName": "Горьковская"
+    "tikName": "Горьковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 646,
     "uikTvd": "4554004175415",
+    "uikName": "УИК №646",
     "tikTvd": "2552000897354",
-    "tikName": "Горьковская"
+    "tikName": "Горьковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 647,
     "uikTvd": "4554004175416",
+    "uikName": "УИК №647",
     "tikTvd": "2552000897354",
-    "tikName": "Горьковская"
+    "tikName": "Горьковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 648,
     "uikTvd": "4554004175417",
+    "uikName": "УИК №648",
     "tikTvd": "2552000897354",
-    "tikName": "Горьковская"
+    "tikName": "Горьковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 649,
     "uikTvd": "4554004175418",
+    "uikName": "УИК №649",
     "tikTvd": "2552000897354",
-    "tikName": "Горьковская"
+    "tikName": "Горьковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 650,
     "uikTvd": "4554004175419",
+    "uikName": "УИК №650",
     "tikTvd": "2552000897354",
-    "tikName": "Горьковская"
+    "tikName": "Горьковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 651,
     "uikTvd": "4554004175420",
+    "uikName": "УИК №651",
     "tikTvd": "2552000897354",
-    "tikName": "Горьковская"
+    "tikName": "Горьковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 652,
     "uikTvd": "4554004175421",
+    "uikName": "УИК №652",
     "tikTvd": "2552000897354",
-    "tikName": "Горьковская"
+    "tikName": "Горьковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 653,
     "uikTvd": "4554004175422",
+    "uikName": "УИК №653",
     "tikTvd": "2552000897354",
-    "tikName": "Горьковская"
+    "tikName": "Горьковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 654,
     "uikTvd": "4554004175423",
+    "uikName": "УИК №654",
     "tikTvd": "2552000897354",
-    "tikName": "Горьковская"
+    "tikName": "Горьковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 655,
     "uikTvd": "4554004175424",
+    "uikName": "УИК №655",
     "tikTvd": "2552000897354",
-    "tikName": "Горьковская"
+    "tikName": "Горьковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 659,
     "uikTvd": "4554005151323",
+    "uikName": "УИК №659",
     "tikTvd": "2552000897355",
-    "tikName": "Знаменская"
+    "tikName": "Знаменская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 660,
     "uikTvd": "4554005151324",
+    "uikName": "УИК №660",
     "tikTvd": "2552000897355",
-    "tikName": "Знаменская"
+    "tikName": "Знаменская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 661,
     "uikTvd": "4554005151325",
+    "uikName": "УИК №661",
     "tikTvd": "2552000897355",
-    "tikName": "Знаменская"
+    "tikName": "Знаменская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 662,
     "uikTvd": "4554005151326",
+    "uikName": "УИК №662",
     "tikTvd": "2552000897355",
-    "tikName": "Знаменская"
+    "tikName": "Знаменская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 663,
     "uikTvd": "4554005151327",
+    "uikName": "УИК №663",
     "tikTvd": "2552000897355",
-    "tikName": "Знаменская"
+    "tikName": "Знаменская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 664,
     "uikTvd": "4554005151328",
+    "uikName": "УИК №664",
     "tikTvd": "2552000897355",
-    "tikName": "Знаменская"
+    "tikName": "Знаменская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 665,
     "uikTvd": "4554005151329",
+    "uikName": "УИК №665",
     "tikTvd": "2552000897355",
-    "tikName": "Знаменская"
+    "tikName": "Знаменская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 666,
     "uikTvd": "4554005151330",
+    "uikName": "УИК №666",
     "tikTvd": "2552000897355",
-    "tikName": "Знаменская"
+    "tikName": "Знаменская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 667,
     "uikTvd": "4554005151331",
+    "uikName": "УИК №667",
     "tikTvd": "2552000897355",
-    "tikName": "Знаменская"
+    "tikName": "Знаменская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 668,
     "uikTvd": "4554005151332",
+    "uikName": "УИК №668",
     "tikTvd": "2552000897355",
-    "tikName": "Знаменская"
+    "tikName": "Знаменская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 669,
     "uikTvd": "4554005151333",
+    "uikName": "УИК №669",
     "tikTvd": "2552000897355",
-    "tikName": "Знаменская"
+    "tikName": "Знаменская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 670,
     "uikTvd": "4554005151334",
+    "uikName": "УИК №670",
     "tikTvd": "2552000897355",
-    "tikName": "Знаменская"
+    "tikName": "Знаменская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 671,
     "uikTvd": "4554005151335",
+    "uikName": "УИК №671",
     "tikTvd": "2552000897355",
-    "tikName": "Знаменская"
+    "tikName": "Знаменская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 672,
     "uikTvd": "4554005151336",
+    "uikName": "УИК №672",
     "tikTvd": "2552000897355",
-    "tikName": "Знаменская"
+    "tikName": "Знаменская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 673,
     "uikTvd": "4554005151337",
+    "uikName": "УИК №673",
     "tikTvd": "2552000897355",
-    "tikName": "Знаменская"
+    "tikName": "Знаменская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 674,
     "uikTvd": "4554005151338",
+    "uikName": "УИК №674",
     "tikTvd": "2552000897355",
-    "tikName": "Знаменская"
+    "tikName": "Знаменская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 675,
     "uikTvd": "4554005151339",
+    "uikName": "УИК №675",
     "tikTvd": "2552000897355",
-    "tikName": "Знаменская"
+    "tikName": "Знаменская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 676,
     "uikTvd": "4554005151340",
+    "uikName": "УИК №676",
     "tikTvd": "2552000897355",
-    "tikName": "Знаменская"
+    "tikName": "Знаменская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 677,
     "uikTvd": "4554005151341",
+    "uikName": "УИК №677",
     "tikTvd": "2552000897355",
-    "tikName": "Знаменская"
+    "tikName": "Знаменская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 678,
     "uikTvd": "4554005151342",
+    "uikName": "УИК №678",
     "tikTvd": "2552000897355",
-    "tikName": "Знаменская"
+    "tikName": "Знаменская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 679,
     "uikTvd": "4554005151343",
+    "uikName": "УИК №679",
     "tikTvd": "2552000897355",
-    "tikName": "Знаменская"
+    "tikName": "Знаменская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 680,
     "uikTvd": "4554005151344",
+    "uikName": "УИК №680",
     "tikTvd": "2552000897355",
-    "tikName": "Знаменская"
+    "tikName": "Знаменская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 681,
     "uikTvd": "4554005151345",
+    "uikName": "УИК №681",
     "tikTvd": "2552000897355",
-    "tikName": "Знаменская"
+    "tikName": "Знаменская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 682,
     "uikTvd": "4554005151346",
+    "uikName": "УИК №682",
     "tikTvd": "2552000897355",
-    "tikName": "Знаменская"
+    "tikName": "Знаменская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 683,
     "uikTvd": "4554005151347",
+    "uikName": "УИК №683",
     "tikTvd": "2552000897355",
-    "tikName": "Знаменская"
+    "tikName": "Знаменская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 684,
     "uikTvd": "4554005151348",
+    "uikName": "УИК №684",
     "tikTvd": "2552000897355",
-    "tikName": "Знаменская"
+    "tikName": "Знаменская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 685,
     "uikTvd": "4554005151349",
+    "uikName": "УИК №685",
     "tikTvd": "2552000897355",
-    "tikName": "Знаменская"
+    "tikName": "Знаменская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 686,
     "uikTvd": "4554005151350",
+    "uikName": "УИК №686",
     "tikTvd": "2552000897355",
-    "tikName": "Знаменская"
+    "tikName": "Знаменская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 687,
     "uikTvd": "4554005151351",
+    "uikName": "УИК №687",
     "tikTvd": "2552000897355",
-    "tikName": "Знаменская"
+    "tikName": "Знаменская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 690,
     "uikTvd": "4554006199832",
+    "uikName": "УИК №690",
     "tikTvd": "2552000897356",
-    "tikName": "Исилькульская"
+    "tikName": "Исилькульская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 691,
     "uikTvd": "4554006199833",
+    "uikName": "УИК №691",
     "tikTvd": "2552000897356",
-    "tikName": "Исилькульская"
+    "tikName": "Исилькульская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 692,
     "uikTvd": "4554006199834",
+    "uikName": "УИК №692",
     "tikTvd": "2552000897356",
-    "tikName": "Исилькульская"
+    "tikName": "Исилькульская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 693,
     "uikTvd": "4554006199835",
+    "uikName": "УИК №693",
     "tikTvd": "2552000897356",
-    "tikName": "Исилькульская"
+    "tikName": "Исилькульская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 694,
     "uikTvd": "4554006199836",
+    "uikName": "УИК №694",
     "tikTvd": "2552000897356",
-    "tikName": "Исилькульская"
+    "tikName": "Исилькульская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 695,
     "uikTvd": "4554006199837",
+    "uikName": "УИК №695",
     "tikTvd": "2552000897356",
-    "tikName": "Исилькульская"
+    "tikName": "Исилькульская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 696,
     "uikTvd": "4554006199838",
+    "uikName": "УИК №696",
     "tikTvd": "2552000897356",
-    "tikName": "Исилькульская"
+    "tikName": "Исилькульская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 697,
     "uikTvd": "4554006199839",
+    "uikName": "УИК №697",
     "tikTvd": "2552000897356",
-    "tikName": "Исилькульская"
+    "tikName": "Исилькульская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 698,
     "uikTvd": "4554006199840",
+    "uikName": "УИК №698",
     "tikTvd": "2552000897356",
-    "tikName": "Исилькульская"
+    "tikName": "Исилькульская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 699,
     "uikTvd": "4554006199841",
+    "uikName": "УИК №699",
     "tikTvd": "2552000897356",
-    "tikName": "Исилькульская"
+    "tikName": "Исилькульская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 700,
     "uikTvd": "4554006199842",
+    "uikName": "УИК №700",
     "tikTvd": "2552000897356",
-    "tikName": "Исилькульская"
+    "tikName": "Исилькульская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 701,
     "uikTvd": "4554006199843",
+    "uikName": "УИК №701",
     "tikTvd": "2552000897356",
-    "tikName": "Исилькульская"
+    "tikName": "Исилькульская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 702,
     "uikTvd": "4554006199844",
+    "uikName": "УИК №702",
     "tikTvd": "2552000897356",
-    "tikName": "Исилькульская"
+    "tikName": "Исилькульская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 703,
     "uikTvd": "4554006199845",
+    "uikName": "УИК №703",
     "tikTvd": "2552000897356",
-    "tikName": "Исилькульская"
+    "tikName": "Исилькульская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 704,
     "uikTvd": "4554006199846",
+    "uikName": "УИК №704",
     "tikTvd": "2552000897356",
-    "tikName": "Исилькульская"
+    "tikName": "Исилькульская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 705,
     "uikTvd": "4554006199847",
+    "uikName": "УИК №705",
     "tikTvd": "2552000897356",
-    "tikName": "Исилькульская"
+    "tikName": "Исилькульская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 706,
     "uikTvd": "4554006199848",
+    "uikName": "УИК №706",
     "tikTvd": "2552000897356",
-    "tikName": "Исилькульская"
+    "tikName": "Исилькульская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 707,
     "uikTvd": "4554006199849",
+    "uikName": "УИК №707",
     "tikTvd": "2552000897356",
-    "tikName": "Исилькульская"
+    "tikName": "Исилькульская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 708,
     "uikTvd": "4554006199850",
+    "uikName": "УИК №708",
     "tikTvd": "2552000897356",
-    "tikName": "Исилькульская"
+    "tikName": "Исилькульская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 709,
     "uikTvd": "4554006199851",
+    "uikName": "УИК №709",
     "tikTvd": "2552000897356",
-    "tikName": "Исилькульская"
+    "tikName": "Исилькульская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 710,
     "uikTvd": "4554006199852",
+    "uikName": "УИК №710",
     "tikTvd": "2552000897356",
-    "tikName": "Исилькульская"
+    "tikName": "Исилькульская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 712,
     "uikTvd": "4554006199853",
+    "uikName": "УИК №712",
     "tikTvd": "2552000897356",
-    "tikName": "Исилькульская"
+    "tikName": "Исилькульская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 714,
     "uikTvd": "4554006199854",
+    "uikName": "УИК №714",
     "tikTvd": "2552000897356",
-    "tikName": "Исилькульская"
+    "tikName": "Исилькульская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 715,
     "uikTvd": "4554006199855",
+    "uikName": "УИК №715",
     "tikTvd": "2552000897356",
-    "tikName": "Исилькульская"
+    "tikName": "Исилькульская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 716,
     "uikTvd": "4554006199856",
+    "uikName": "УИК №716",
     "tikTvd": "2552000897356",
-    "tikName": "Исилькульская"
+    "tikName": "Исилькульская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 717,
     "uikTvd": "4554006199857",
+    "uikName": "УИК №717",
     "tikTvd": "2552000897356",
-    "tikName": "Исилькульская"
+    "tikName": "Исилькульская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 718,
     "uikTvd": "4554006199858",
+    "uikName": "УИК №718",
     "tikTvd": "2552000897356",
-    "tikName": "Исилькульская"
+    "tikName": "Исилькульская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 719,
     "uikTvd": "4554006199859",
+    "uikName": "УИК №719",
     "tikTvd": "2552000897356",
-    "tikName": "Исилькульская"
+    "tikName": "Исилькульская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 720,
     "uikTvd": "4554006199860",
+    "uikName": "УИК №720",
     "tikTvd": "2552000897356",
-    "tikName": "Исилькульская"
+    "tikName": "Исилькульская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 721,
     "uikTvd": "4554006199861",
+    "uikName": "УИК №721",
     "tikTvd": "2552000897356",
-    "tikName": "Исилькульская"
+    "tikName": "Исилькульская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 722,
     "uikTvd": "4554006199862",
+    "uikName": "УИК №722",
     "tikTvd": "2552000897356",
-    "tikName": "Исилькульская"
+    "tikName": "Исилькульская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 723,
     "uikTvd": "4554006199863",
+    "uikName": "УИК №723",
     "tikTvd": "2552000897356",
-    "tikName": "Исилькульская"
+    "tikName": "Исилькульская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 724,
     "uikTvd": "4554006199864",
+    "uikName": "УИК №724",
     "tikTvd": "2552000897356",
-    "tikName": "Исилькульская"
+    "tikName": "Исилькульская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 725,
     "uikTvd": "4554006199865",
+    "uikName": "УИК №725",
     "tikTvd": "2552000897356",
-    "tikName": "Исилькульская"
+    "tikName": "Исилькульская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 726,
     "uikTvd": "4554006199866",
+    "uikName": "УИК №726",
     "tikTvd": "2552000897356",
-    "tikName": "Исилькульская"
+    "tikName": "Исилькульская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 727,
     "uikTvd": "4554006199867",
+    "uikName": "УИК №727",
     "tikTvd": "2552000897356",
-    "tikName": "Исилькульская"
+    "tikName": "Исилькульская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 728,
     "uikTvd": "4554006199868",
+    "uikName": "УИК №728",
     "tikTvd": "2552000897356",
-    "tikName": "Исилькульская"
+    "tikName": "Исилькульская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 729,
     "uikTvd": "4554006199869",
+    "uikName": "УИК №729",
     "tikTvd": "2552000897356",
-    "tikName": "Исилькульская"
+    "tikName": "Исилькульская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 730,
     "uikTvd": "4554006199870",
+    "uikName": "УИК №730",
     "tikTvd": "2552000897356",
-    "tikName": "Исилькульская"
+    "tikName": "Исилькульская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 731,
     "uikTvd": "4554006199871",
+    "uikName": "УИК №731",
     "tikTvd": "2552000897356",
-    "tikName": "Исилькульская"
+    "tikName": "Исилькульская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 732,
     "uikTvd": "4554006199872",
+    "uikName": "УИК №732",
     "tikTvd": "2552000897356",
-    "tikName": "Исилькульская"
+    "tikName": "Исилькульская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 733,
     "uikTvd": "4554006199873",
+    "uikName": "УИК №733",
     "tikTvd": "2552000897356",
-    "tikName": "Исилькульская"
+    "tikName": "Исилькульская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 734,
     "uikTvd": "4554006199874",
+    "uikName": "УИК №734",
     "tikTvd": "2552000897356",
-    "tikName": "Исилькульская"
+    "tikName": "Исилькульская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 735,
     "uikTvd": "4554006199875",
+    "uikName": "УИК №735",
     "tikTvd": "2552000897356",
-    "tikName": "Исилькульская"
+    "tikName": "Исилькульская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 737,
     "uikTvd": "4554006199876",
+    "uikName": "УИК №737",
     "tikTvd": "2552000897356",
-    "tikName": "Исилькульская"
+    "tikName": "Исилькульская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 738,
     "uikTvd": "4554006199877",
+    "uikName": "УИК №738",
     "tikTvd": "2552000897356",
-    "tikName": "Исилькульская"
+    "tikName": "Исилькульская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 739,
     "uikTvd": "4554006199878",
+    "uikName": "УИК №739",
     "tikTvd": "2552000897356",
-    "tikName": "Исилькульская"
+    "tikName": "Исилькульская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 740,
     "uikTvd": "4554006199879",
+    "uikName": "УИК №740",
     "tikTvd": "2552000897356",
-    "tikName": "Исилькульская"
+    "tikName": "Исилькульская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 741,
     "uikTvd": "4554006199880",
+    "uikName": "УИК №741",
     "tikTvd": "2552000897356",
-    "tikName": "Исилькульская"
+    "tikName": "Исилькульская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 742,
     "uikTvd": "4554006199881",
+    "uikName": "УИК №742",
     "tikTvd": "2552000897356",
-    "tikName": "Исилькульская"
+    "tikName": "Исилькульская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 743,
     "uikTvd": "4554006199882",
+    "uikName": "УИК №743",
     "tikTvd": "2552000897356",
-    "tikName": "Исилькульская"
+    "tikName": "Исилькульская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 744,
     "uikTvd": "4554006199883",
+    "uikName": "УИК №744",
     "tikTvd": "2552000897356",
-    "tikName": "Исилькульская"
+    "tikName": "Исилькульская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 749,
     "uikTvd": "4554007204736",
+    "uikName": "УИК №749",
     "tikTvd": "2552000897333",
-    "tikName": "Калачинская"
+    "tikName": "Калачинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 750,
     "uikTvd": "4554007204737",
+    "uikName": "УИК №750",
     "tikTvd": "2552000897333",
-    "tikName": "Калачинская"
+    "tikName": "Калачинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 751,
     "uikTvd": "4554007204738",
+    "uikName": "УИК №751",
     "tikTvd": "2552000897333",
-    "tikName": "Калачинская"
+    "tikName": "Калачинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 752,
     "uikTvd": "4554007204739",
+    "uikName": "УИК №752",
     "tikTvd": "2552000897333",
-    "tikName": "Калачинская"
+    "tikName": "Калачинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 753,
     "uikTvd": "4554007204740",
+    "uikName": "УИК №753",
     "tikTvd": "2552000897333",
-    "tikName": "Калачинская"
+    "tikName": "Калачинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 754,
     "uikTvd": "4554007204741",
+    "uikName": "УИК №754",
     "tikTvd": "2552000897333",
-    "tikName": "Калачинская"
+    "tikName": "Калачинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 755,
     "uikTvd": "4554007204742",
+    "uikName": "УИК №755",
     "tikTvd": "2552000897333",
-    "tikName": "Калачинская"
+    "tikName": "Калачинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 756,
     "uikTvd": "4554007204743",
+    "uikName": "УИК №756",
     "tikTvd": "2552000897333",
-    "tikName": "Калачинская"
+    "tikName": "Калачинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 757,
     "uikTvd": "4554007204744",
+    "uikName": "УИК №757",
     "tikTvd": "2552000897333",
-    "tikName": "Калачинская"
+    "tikName": "Калачинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 758,
     "uikTvd": "4554007204745",
+    "uikName": "УИК №758",
     "tikTvd": "2552000897333",
-    "tikName": "Калачинская"
+    "tikName": "Калачинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 759,
     "uikTvd": "4554007204746",
+    "uikName": "УИК №759",
     "tikTvd": "2552000897333",
-    "tikName": "Калачинская"
+    "tikName": "Калачинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 760,
     "uikTvd": "4554007204747",
+    "uikName": "УИК №760",
     "tikTvd": "2552000897333",
-    "tikName": "Калачинская"
+    "tikName": "Калачинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 762,
     "uikTvd": "4554007204748",
+    "uikName": "УИК №762",
     "tikTvd": "2552000897333",
-    "tikName": "Калачинская"
+    "tikName": "Калачинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 763,
     "uikTvd": "4554007204749",
+    "uikName": "УИК №763",
     "tikTvd": "2552000897333",
-    "tikName": "Калачинская"
+    "tikName": "Калачинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 764,
     "uikTvd": "4554007204750",
+    "uikName": "УИК №764",
     "tikTvd": "2552000897333",
-    "tikName": "Калачинская"
+    "tikName": "Калачинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 765,
     "uikTvd": "4554007204751",
+    "uikName": "УИК №765",
     "tikTvd": "2552000897333",
-    "tikName": "Калачинская"
+    "tikName": "Калачинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 766,
     "uikTvd": "4554007204752",
+    "uikName": "УИК №766",
     "tikTvd": "2552000897333",
-    "tikName": "Калачинская"
+    "tikName": "Калачинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 767,
     "uikTvd": "4554007204753",
+    "uikName": "УИК №767",
     "tikTvd": "2552000897333",
-    "tikName": "Калачинская"
+    "tikName": "Калачинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 768,
     "uikTvd": "4554007204754",
+    "uikName": "УИК №768",
     "tikTvd": "2552000897333",
-    "tikName": "Калачинская"
+    "tikName": "Калачинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 769,
     "uikTvd": "4554007204755",
+    "uikName": "УИК №769",
     "tikTvd": "2552000897333",
-    "tikName": "Калачинская"
+    "tikName": "Калачинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 770,
     "uikTvd": "4554007204756",
+    "uikName": "УИК №770",
     "tikTvd": "2552000897333",
-    "tikName": "Калачинская"
+    "tikName": "Калачинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 771,
     "uikTvd": "4554007204757",
+    "uikName": "УИК №771",
     "tikTvd": "2552000897333",
-    "tikName": "Калачинская"
+    "tikName": "Калачинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 772,
     "uikTvd": "4554007204758",
+    "uikName": "УИК №772",
     "tikTvd": "2552000897333",
-    "tikName": "Калачинская"
+    "tikName": "Калачинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 773,
     "uikTvd": "4554007204759",
+    "uikName": "УИК №773",
     "tikTvd": "2552000897333",
-    "tikName": "Калачинская"
+    "tikName": "Калачинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 774,
     "uikTvd": "4554007204760",
+    "uikName": "УИК №774",
     "tikTvd": "2552000897333",
-    "tikName": "Калачинская"
+    "tikName": "Калачинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 775,
     "uikTvd": "4554007204761",
+    "uikName": "УИК №775",
     "tikTvd": "2552000897333",
-    "tikName": "Калачинская"
+    "tikName": "Калачинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 776,
     "uikTvd": "4554007204762",
+    "uikName": "УИК №776",
     "tikTvd": "2552000897333",
-    "tikName": "Калачинская"
+    "tikName": "Калачинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 777,
     "uikTvd": "4554007204763",
+    "uikName": "УИК №777",
     "tikTvd": "2552000897333",
-    "tikName": "Калачинская"
+    "tikName": "Калачинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 778,
     "uikTvd": "4554007204764",
+    "uikName": "УИК №778",
     "tikTvd": "2552000897333",
-    "tikName": "Калачинская"
+    "tikName": "Калачинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 779,
     "uikTvd": "4554007204765",
+    "uikName": "УИК №779",
     "tikTvd": "2552000897333",
-    "tikName": "Калачинская"
+    "tikName": "Калачинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 780,
     "uikTvd": "4554007204766",
+    "uikName": "УИК №780",
     "tikTvd": "2552000897333",
-    "tikName": "Калачинская"
+    "tikName": "Калачинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 781,
     "uikTvd": "4554007204767",
+    "uikName": "УИК №781",
     "tikTvd": "2552000897333",
-    "tikName": "Калачинская"
+    "tikName": "Калачинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 782,
     "uikTvd": "4554007204768",
+    "uikName": "УИК №782",
     "tikTvd": "2552000897333",
-    "tikName": "Калачинская"
+    "tikName": "Калачинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 783,
     "uikTvd": "4554007204769",
+    "uikName": "УИК №783",
     "tikTvd": "2552000897333",
-    "tikName": "Калачинская"
+    "tikName": "Калачинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 784,
     "uikTvd": "4554007204770",
+    "uikName": "УИК №784",
     "tikTvd": "2552000897333",
-    "tikName": "Калачинская"
+    "tikName": "Калачинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 785,
     "uikTvd": "4554007204771",
+    "uikName": "УИК №785",
     "tikTvd": "2552000897333",
-    "tikName": "Калачинская"
+    "tikName": "Калачинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 786,
     "uikTvd": "4554007204772",
+    "uikName": "УИК №786",
     "tikTvd": "2552000897333",
-    "tikName": "Калачинская"
+    "tikName": "Калачинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 787,
     "uikTvd": "4554007204773",
+    "uikName": "УИК №787",
     "tikTvd": "2552000897333",
-    "tikName": "Калачинская"
+    "tikName": "Калачинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 788,
     "uikTvd": "4554007204774",
+    "uikName": "УИК №788",
     "tikTvd": "2552000897333",
-    "tikName": "Калачинская"
+    "tikName": "Калачинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 789,
     "uikTvd": "4554007204775",
+    "uikName": "УИК №789",
     "tikTvd": "2552000897333",
-    "tikName": "Калачинская"
+    "tikName": "Калачинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 790,
     "uikTvd": "4554007204776",
+    "uikName": "УИК №790",
     "tikTvd": "2552000897333",
-    "tikName": "Калачинская"
+    "tikName": "Калачинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 791,
     "uikTvd": "4554007204777",
+    "uikName": "УИК №791",
     "tikTvd": "2552000897333",
-    "tikName": "Калачинская"
+    "tikName": "Калачинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 792,
     "uikTvd": "4554007204778",
+    "uikName": "УИК №792",
     "tikTvd": "2552000897333",
-    "tikName": "Калачинская"
+    "tikName": "Калачинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 793,
     "uikTvd": "4554007204779",
+    "uikName": "УИК №793",
     "tikTvd": "2552000897333",
-    "tikName": "Калачинская"
+    "tikName": "Калачинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 794,
     "uikTvd": "4554007204780",
+    "uikName": "УИК №794",
     "tikTvd": "2552000897333",
-    "tikName": "Калачинская"
+    "tikName": "Калачинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 795,
     "uikTvd": "4554007204781",
+    "uikName": "УИК №795",
     "tikTvd": "2552000897333",
-    "tikName": "Калачинская"
+    "tikName": "Калачинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 796,
     "uikTvd": "4554007204782",
+    "uikName": "УИК №796",
     "tikTvd": "2552000897333",
-    "tikName": "Калачинская"
+    "tikName": "Калачинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 797,
     "uikTvd": "4554007204783",
+    "uikName": "УИК №797",
     "tikTvd": "2552000897333",
-    "tikName": "Калачинская"
+    "tikName": "Калачинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 798,
     "uikTvd": "4554007204784",
+    "uikName": "УИК №798",
     "tikTvd": "2552000897333",
-    "tikName": "Калачинская"
+    "tikName": "Калачинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 799,
     "uikTvd": "4554007204785",
+    "uikName": "УИК №799",
     "tikTvd": "2552000897333",
-    "tikName": "Калачинская"
+    "tikName": "Калачинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 800,
     "uikTvd": "4554007204786",
+    "uikName": "УИК №800",
     "tikTvd": "2552000897333",
-    "tikName": "Калачинская"
+    "tikName": "Калачинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 801,
     "uikTvd": "4554007204787",
+    "uikName": "УИК №801",
     "tikTvd": "2552000897333",
-    "tikName": "Калачинская"
+    "tikName": "Калачинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 802,
     "uikTvd": "4554007204788",
+    "uikName": "УИК №802",
     "tikTvd": "2552000897333",
-    "tikName": "Калачинская"
+    "tikName": "Калачинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 803,
     "uikTvd": "4554007204789",
+    "uikName": "УИК №803",
     "tikTvd": "2552000897333",
-    "tikName": "Калачинская"
+    "tikName": "Калачинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 804,
     "uikTvd": "4554007210732",
+    "uikName": "УИК №804",
     "tikTvd": "2552000897333",
-    "tikName": "Калачинская"
+    "tikName": "Калачинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 808,
     "uikTvd": "4554008153985",
+    "uikName": "УИК №808",
     "tikTvd": "2552000897357",
-    "tikName": "Колосовская"
+    "tikName": "Колосовская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 809,
     "uikTvd": "4554008153986",
+    "uikName": "УИК №809",
     "tikTvd": "2552000897357",
-    "tikName": "Колосовская"
+    "tikName": "Колосовская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 810,
     "uikTvd": "4554008153987",
+    "uikName": "УИК №810",
     "tikTvd": "2552000897357",
-    "tikName": "Колосовская"
+    "tikName": "Колосовская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 811,
     "uikTvd": "4554008153988",
+    "uikName": "УИК №811",
     "tikTvd": "2552000897357",
-    "tikName": "Колосовская"
+    "tikName": "Колосовская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 812,
     "uikTvd": "4554008153989",
+    "uikName": "УИК №812",
     "tikTvd": "2552000897357",
-    "tikName": "Колосовская"
+    "tikName": "Колосовская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 813,
     "uikTvd": "4554008153990",
+    "uikName": "УИК №813",
     "tikTvd": "2552000897357",
-    "tikName": "Колосовская"
+    "tikName": "Колосовская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 814,
     "uikTvd": "4554008153991",
+    "uikName": "УИК №814",
     "tikTvd": "2552000897357",
-    "tikName": "Колосовская"
+    "tikName": "Колосовская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 815,
     "uikTvd": "4554008153992",
+    "uikName": "УИК №815",
     "tikTvd": "2552000897357",
-    "tikName": "Колосовская"
+    "tikName": "Колосовская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 816,
     "uikTvd": "4554008153993",
+    "uikName": "УИК №816",
     "tikTvd": "2552000897357",
-    "tikName": "Колосовская"
+    "tikName": "Колосовская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 817,
     "uikTvd": "4554008153994",
+    "uikName": "УИК №817",
     "tikTvd": "2552000897357",
-    "tikName": "Колосовская"
+    "tikName": "Колосовская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 818,
     "uikTvd": "4554008153995",
+    "uikName": "УИК №818",
     "tikTvd": "2552000897357",
-    "tikName": "Колосовская"
+    "tikName": "Колосовская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 819,
     "uikTvd": "4554008153996",
+    "uikName": "УИК №819",
     "tikTvd": "2552000897357",
-    "tikName": "Колосовская"
+    "tikName": "Колосовская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 820,
     "uikTvd": "4554008153997",
+    "uikName": "УИК №820",
     "tikTvd": "2552000897357",
-    "tikName": "Колосовская"
+    "tikName": "Колосовская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 821,
     "uikTvd": "4554008153998",
+    "uikName": "УИК №821",
     "tikTvd": "2552000897357",
-    "tikName": "Колосовская"
+    "tikName": "Колосовская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 822,
     "uikTvd": "4554008153999",
+    "uikName": "УИК №822",
     "tikTvd": "2552000897357",
-    "tikName": "Колосовская"
+    "tikName": "Колосовская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 823,
     "uikTvd": "4554008154000",
+    "uikName": "УИК №823",
     "tikTvd": "2552000897357",
-    "tikName": "Колосовская"
+    "tikName": "Колосовская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 824,
     "uikTvd": "4554008154001",
+    "uikName": "УИК №824",
     "tikTvd": "2552000897357",
-    "tikName": "Колосовская"
+    "tikName": "Колосовская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 826,
     "uikTvd": "4554008154002",
+    "uikName": "УИК №826",
     "tikTvd": "2552000897357",
-    "tikName": "Колосовская"
+    "tikName": "Колосовская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 827,
     "uikTvd": "4554008154003",
+    "uikName": "УИК №827",
     "tikTvd": "2552000897357",
-    "tikName": "Колосовская"
+    "tikName": "Колосовская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 828,
     "uikTvd": "4554008154004",
+    "uikName": "УИК №828",
     "tikTvd": "2552000897357",
-    "tikName": "Колосовская"
+    "tikName": "Колосовская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 829,
     "uikTvd": "4554008154005",
+    "uikName": "УИК №829",
     "tikTvd": "2552000897357",
-    "tikName": "Колосовская"
+    "tikName": "Колосовская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 830,
     "uikTvd": "4554008154006",
+    "uikName": "УИК №830",
     "tikTvd": "2552000897357",
-    "tikName": "Колосовская"
+    "tikName": "Колосовская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 831,
     "uikTvd": "4554008154007",
+    "uikName": "УИК №831",
     "tikTvd": "2552000897357",
-    "tikName": "Колосовская"
+    "tikName": "Колосовская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 832,
     "uikTvd": "4554008154008",
+    "uikName": "УИК №832",
     "tikTvd": "2552000897357",
-    "tikName": "Колосовская"
+    "tikName": "Колосовская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 833,
     "uikTvd": "4554008154009",
+    "uikName": "УИК №833",
     "tikTvd": "2552000897357",
-    "tikName": "Колосовская"
+    "tikName": "Колосовская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 834,
     "uikTvd": "4554008154010",
+    "uikName": "УИК №834",
     "tikTvd": "2552000897357",
-    "tikName": "Колосовская"
+    "tikName": "Колосовская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 837,
     "uikTvd": "4554009178777",
+    "uikName": "УИК №837",
     "tikTvd": "2552000897334",
-    "tikName": "Кормиловская"
+    "tikName": "Кормиловская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 838,
     "uikTvd": "4554009178778",
+    "uikName": "УИК №838",
     "tikTvd": "2552000897334",
-    "tikName": "Кормиловская"
+    "tikName": "Кормиловская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 839,
     "uikTvd": "4554009178779",
+    "uikName": "УИК №839",
     "tikTvd": "2552000897334",
-    "tikName": "Кормиловская"
+    "tikName": "Кормиловская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 840,
     "uikTvd": "4554009178780",
+    "uikName": "УИК №840",
     "tikTvd": "2552000897334",
-    "tikName": "Кормиловская"
+    "tikName": "Кормиловская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 841,
     "uikTvd": "4554009178781",
+    "uikName": "УИК №841",
     "tikTvd": "2552000897334",
-    "tikName": "Кормиловская"
+    "tikName": "Кормиловская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 842,
     "uikTvd": "4554009178782",
+    "uikName": "УИК №842",
     "tikTvd": "2552000897334",
-    "tikName": "Кормиловская"
+    "tikName": "Кормиловская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 843,
     "uikTvd": "4554009178783",
+    "uikName": "УИК №843",
     "tikTvd": "2552000897334",
-    "tikName": "Кормиловская"
+    "tikName": "Кормиловская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 844,
     "uikTvd": "4554009178784",
+    "uikName": "УИК №844",
     "tikTvd": "2552000897334",
-    "tikName": "Кормиловская"
+    "tikName": "Кормиловская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 845,
     "uikTvd": "4554009178785",
+    "uikName": "УИК №845",
     "tikTvd": "2552000897334",
-    "tikName": "Кормиловская"
+    "tikName": "Кормиловская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 846,
     "uikTvd": "4554009178786",
+    "uikName": "УИК №846",
     "tikTvd": "2552000897334",
-    "tikName": "Кормиловская"
+    "tikName": "Кормиловская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 847,
     "uikTvd": "4554009178787",
+    "uikName": "УИК №847",
     "tikTvd": "2552000897334",
-    "tikName": "Кормиловская"
+    "tikName": "Кормиловская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 848,
     "uikTvd": "4554009178788",
+    "uikName": "УИК №848",
     "tikTvd": "2552000897334",
-    "tikName": "Кормиловская"
+    "tikName": "Кормиловская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 849,
     "uikTvd": "4554009178789",
+    "uikName": "УИК №849",
     "tikTvd": "2552000897334",
-    "tikName": "Кормиловская"
+    "tikName": "Кормиловская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 850,
     "uikTvd": "4554009178790",
+    "uikName": "УИК №850",
     "tikTvd": "2552000897334",
-    "tikName": "Кормиловская"
+    "tikName": "Кормиловская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 851,
     "uikTvd": "4554009178791",
+    "uikName": "УИК №851",
     "tikTvd": "2552000897334",
-    "tikName": "Кормиловская"
+    "tikName": "Кормиловская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 852,
     "uikTvd": "4554009178792",
+    "uikName": "УИК №852",
     "tikTvd": "2552000897334",
-    "tikName": "Кормиловская"
+    "tikName": "Кормиловская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 853,
     "uikTvd": "4554009178793",
+    "uikName": "УИК №853",
     "tikTvd": "2552000897334",
-    "tikName": "Кормиловская"
+    "tikName": "Кормиловская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 854,
     "uikTvd": "4554009178794",
+    "uikName": "УИК №854",
     "tikTvd": "2552000897334",
-    "tikName": "Кормиловская"
+    "tikName": "Кормиловская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 855,
     "uikTvd": "4554009178795",
+    "uikName": "УИК №855",
     "tikTvd": "2552000897334",
-    "tikName": "Кормиловская"
+    "tikName": "Кормиловская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 856,
     "uikTvd": "4554009178796",
+    "uikName": "УИК №856",
     "tikTvd": "2552000897334",
-    "tikName": "Кормиловская"
+    "tikName": "Кормиловская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 857,
     "uikTvd": "4554009178797",
+    "uikName": "УИК №857",
     "tikTvd": "2552000897334",
-    "tikName": "Кормиловская"
+    "tikName": "Кормиловская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 858,
     "uikTvd": "4554009178798",
+    "uikName": "УИК №858",
     "tikTvd": "2552000897334",
-    "tikName": "Кормиловская"
+    "tikName": "Кормиловская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 859,
     "uikTvd": "4554009178799",
+    "uikName": "УИК №859",
     "tikTvd": "2552000897334",
-    "tikName": "Кормиловская"
+    "tikName": "Кормиловская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 860,
     "uikTvd": "4554009178800",
+    "uikName": "УИК №860",
     "tikTvd": "2552000897334",
-    "tikName": "Кормиловская"
+    "tikName": "Кормиловская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 861,
     "uikTvd": "4554009178801",
+    "uikName": "УИК №861",
     "tikTvd": "2552000897334",
-    "tikName": "Кормиловская"
+    "tikName": "Кормиловская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 862,
     "uikTvd": "4554009178802",
+    "uikName": "УИК №862",
     "tikTvd": "2552000897334",
-    "tikName": "Кормиловская"
+    "tikName": "Кормиловская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 863,
     "uikTvd": "4554009178803",
+    "uikName": "УИК №863",
     "tikTvd": "2552000897334",
-    "tikName": "Кормиловская"
+    "tikName": "Кормиловская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 864,
     "uikTvd": "4554009178804",
+    "uikName": "УИК №864",
     "tikTvd": "2552000897334",
-    "tikName": "Кормиловская"
+    "tikName": "Кормиловская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 865,
     "uikTvd": "4554009178805",
+    "uikName": "УИК №865",
     "tikTvd": "2552000897334",
-    "tikName": "Кормиловская"
+    "tikName": "Кормиловская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 866,
     "uikTvd": "4554009178806",
+    "uikName": "УИК №866",
     "tikTvd": "2552000897334",
-    "tikName": "Кормиловская"
+    "tikName": "Кормиловская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 867,
     "uikTvd": "4554009178807",
+    "uikName": "УИК №867",
     "tikTvd": "2552000897334",
-    "tikName": "Кормиловская"
+    "tikName": "Кормиловская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 868,
     "uikTvd": "4554009178808",
+    "uikName": "УИК №868",
     "tikTvd": "2552000897334",
-    "tikName": "Кормиловская"
+    "tikName": "Кормиловская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 869,
     "uikTvd": "4554009178809",
+    "uikName": "УИК №869",
     "tikTvd": "2552000897334",
-    "tikName": "Кормиловская"
+    "tikName": "Кормиловская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 870,
     "uikTvd": "4554009178810",
+    "uikName": "УИК №870",
     "tikTvd": "2552000897334",
-    "tikName": "Кормиловская"
+    "tikName": "Кормиловская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 871,
     "uikTvd": "4554009178811",
+    "uikName": "УИК №871",
     "tikTvd": "2552000897334",
-    "tikName": "Кормиловская"
+    "tikName": "Кормиловская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 872,
     "uikTvd": "4554009178812",
+    "uikName": "УИК №872",
     "tikTvd": "2552000897334",
-    "tikName": "Кормиловская"
+    "tikName": "Кормиловская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 873,
     "uikTvd": "4554009178813",
+    "uikName": "УИК №873",
     "tikTvd": "2552000897334",
-    "tikName": "Кормиловская"
+    "tikName": "Кормиловская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 874,
     "uikTvd": "4554009178814",
+    "uikName": "УИК №874",
     "tikTvd": "2552000897334",
-    "tikName": "Кормиловская"
+    "tikName": "Кормиловская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 875,
     "uikTvd": "4554009178815",
+    "uikName": "УИК №875",
     "tikTvd": "2552000897334",
-    "tikName": "Кормиловская"
+    "tikName": "Кормиловская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 879,
     "uikTvd": "4554010170537",
+    "uikName": "УИК №879",
     "tikTvd": "2552000897358",
-    "tikName": "Крутинская"
+    "tikName": "Крутинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 880,
     "uikTvd": "4554010170539",
+    "uikName": "УИК №880",
     "tikTvd": "2552000897358",
-    "tikName": "Крутинская"
+    "tikName": "Крутинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 881,
     "uikTvd": "4554010170541",
+    "uikName": "УИК №881",
     "tikTvd": "2552000897358",
-    "tikName": "Крутинская"
+    "tikName": "Крутинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 882,
     "uikTvd": "4554010170543",
+    "uikName": "УИК №882",
     "tikTvd": "2552000897358",
-    "tikName": "Крутинская"
+    "tikName": "Крутинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 883,
     "uikTvd": "4554010170545",
+    "uikName": "УИК №883",
     "tikTvd": "2552000897358",
-    "tikName": "Крутинская"
+    "tikName": "Крутинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 886,
     "uikTvd": "4554010170547",
+    "uikName": "УИК №886",
     "tikTvd": "2552000897358",
-    "tikName": "Крутинская"
+    "tikName": "Крутинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 887,
     "uikTvd": "4554010170549",
+    "uikName": "УИК №887",
     "tikTvd": "2552000897358",
-    "tikName": "Крутинская"
+    "tikName": "Крутинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 888,
     "uikTvd": "4554010170550",
+    "uikName": "УИК №888",
     "tikTvd": "2552000897358",
-    "tikName": "Крутинская"
+    "tikName": "Крутинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 889,
     "uikTvd": "4554010170551",
+    "uikName": "УИК №889",
     "tikTvd": "2552000897358",
-    "tikName": "Крутинская"
+    "tikName": "Крутинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 890,
     "uikTvd": "4554010170552",
+    "uikName": "УИК №890",
     "tikTvd": "2552000897358",
-    "tikName": "Крутинская"
+    "tikName": "Крутинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 891,
     "uikTvd": "4554010170553",
+    "uikName": "УИК №891",
     "tikTvd": "2552000897358",
-    "tikName": "Крутинская"
+    "tikName": "Крутинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 892,
     "uikTvd": "4554010170554",
+    "uikName": "УИК №892",
     "tikTvd": "2552000897358",
-    "tikName": "Крутинская"
+    "tikName": "Крутинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 893,
     "uikTvd": "4554010170555",
+    "uikName": "УИК №893",
     "tikTvd": "2552000897358",
-    "tikName": "Крутинская"
+    "tikName": "Крутинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 894,
     "uikTvd": "4554010170556",
+    "uikName": "УИК №894",
     "tikTvd": "2552000897358",
-    "tikName": "Крутинская"
+    "tikName": "Крутинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 895,
     "uikTvd": "4554010170557",
+    "uikName": "УИК №895",
     "tikTvd": "2552000897358",
-    "tikName": "Крутинская"
+    "tikName": "Крутинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 896,
     "uikTvd": "4554010170558",
+    "uikName": "УИК №896",
     "tikTvd": "2552000897358",
-    "tikName": "Крутинская"
+    "tikName": "Крутинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 897,
     "uikTvd": "4554010170559",
+    "uikName": "УИК №897",
     "tikTvd": "2552000897358",
-    "tikName": "Крутинская"
+    "tikName": "Крутинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 898,
     "uikTvd": "4554010170560",
+    "uikName": "УИК №898",
     "tikTvd": "2552000897358",
-    "tikName": "Крутинская"
+    "tikName": "Крутинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 899,
     "uikTvd": "4554010170561",
+    "uikName": "УИК №899",
     "tikTvd": "2552000897358",
-    "tikName": "Крутинская"
+    "tikName": "Крутинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 900,
     "uikTvd": "4554010170562",
+    "uikName": "УИК №900",
     "tikTvd": "2552000897358",
-    "tikName": "Крутинская"
+    "tikName": "Крутинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 901,
     "uikTvd": "4554010170563",
+    "uikName": "УИК №901",
     "tikTvd": "2552000897358",
-    "tikName": "Крутинская"
+    "tikName": "Крутинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 902,
     "uikTvd": "4554010170564",
+    "uikName": "УИК №902",
     "tikTvd": "2552000897358",
-    "tikName": "Крутинская"
+    "tikName": "Крутинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 903,
     "uikTvd": "4554010170565",
+    "uikName": "УИК №903",
     "tikTvd": "2552000897358",
-    "tikName": "Крутинская"
+    "tikName": "Крутинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 904,
     "uikTvd": "4554010170566",
+    "uikName": "УИК №904",
     "tikTvd": "2552000897358",
-    "tikName": "Крутинская"
+    "tikName": "Крутинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 905,
     "uikTvd": "4554010170567",
+    "uikName": "УИК №905",
     "tikTvd": "2552000897358",
-    "tikName": "Крутинская"
+    "tikName": "Крутинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 906,
     "uikTvd": "4554010170568",
+    "uikName": "УИК №906",
     "tikTvd": "2552000897358",
-    "tikName": "Крутинская"
+    "tikName": "Крутинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 907,
     "uikTvd": "4554010170569",
+    "uikName": "УИК №907",
     "tikTvd": "2552000897358",
-    "tikName": "Крутинская"
+    "tikName": "Крутинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 908,
     "uikTvd": "4554010170570",
+    "uikName": "УИК №908",
     "tikTvd": "2552000897358",
-    "tikName": "Крутинская"
+    "tikName": "Крутинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 909,
     "uikTvd": "4554010170571",
+    "uikName": "УИК №909",
     "tikTvd": "2552000897358",
-    "tikName": "Крутинская"
+    "tikName": "Крутинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 910,
     "uikTvd": "4554010170572",
+    "uikName": "УИК №910",
     "tikTvd": "2552000897358",
-    "tikName": "Крутинская"
+    "tikName": "Крутинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 911,
     "uikTvd": "4554010170573",
+    "uikName": "УИК №911",
     "tikTvd": "2552000897358",
-    "tikName": "Крутинская"
+    "tikName": "Крутинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 912,
     "uikTvd": "4554010170574",
+    "uikName": "УИК №912",
     "tikTvd": "2552000897358",
-    "tikName": "Крутинская"
+    "tikName": "Крутинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 915,
     "uikTvd": "4554011217604",
+    "uikName": "УИК №915",
     "tikTvd": "2552000897359",
-    "tikName": "Любинская"
+    "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 916,
     "uikTvd": "4554011217605",
+    "uikName": "УИК №916",
     "tikTvd": "2552000897359",
-    "tikName": "Любинская"
+    "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 917,
     "uikTvd": "4554011217606",
+    "uikName": "УИК №917",
     "tikTvd": "2552000897359",
-    "tikName": "Любинская"
+    "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 918,
     "uikTvd": "4554011217607",
+    "uikName": "УИК №918",
     "tikTvd": "2552000897359",
-    "tikName": "Любинская"
+    "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 919,
     "uikTvd": "4554011217608",
+    "uikName": "УИК №919",
     "tikTvd": "2552000897359",
-    "tikName": "Любинская"
+    "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 920,
     "uikTvd": "4554011217609",
+    "uikName": "УИК №920",
     "tikTvd": "2552000897359",
-    "tikName": "Любинская"
+    "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 921,
     "uikTvd": "4554011217610",
+    "uikName": "УИК №921",
     "tikTvd": "2552000897359",
-    "tikName": "Любинская"
+    "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 922,
     "uikTvd": "4554011217611",
+    "uikName": "УИК №922",
     "tikTvd": "2552000897359",
-    "tikName": "Любинская"
+    "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 923,
     "uikTvd": "4554011217612",
+    "uikName": "УИК №923",
     "tikTvd": "2552000897359",
-    "tikName": "Любинская"
+    "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 924,
     "uikTvd": "4554011217613",
+    "uikName": "УИК №924",
     "tikTvd": "2552000897359",
-    "tikName": "Любинская"
+    "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 925,
     "uikTvd": "4554011217614",
+    "uikName": "УИК №925",
     "tikTvd": "2552000897359",
-    "tikName": "Любинская"
+    "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 926,
     "uikTvd": "4554011217615",
+    "uikName": "УИК №926",
     "tikTvd": "2552000897359",
-    "tikName": "Любинская"
+    "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 927,
     "uikTvd": "4554011217616",
+    "uikName": "УИК №927",
     "tikTvd": "2552000897359",
-    "tikName": "Любинская"
+    "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 928,
     "uikTvd": "4554011217617",
+    "uikName": "УИК №928",
     "tikTvd": "2552000897359",
-    "tikName": "Любинская"
+    "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 929,
     "uikTvd": "4554011217618",
+    "uikName": "УИК №929",
     "tikTvd": "2552000897359",
-    "tikName": "Любинская"
+    "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 930,
     "uikTvd": "4554011217619",
+    "uikName": "УИК №930",
     "tikTvd": "2552000897359",
-    "tikName": "Любинская"
+    "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 931,
     "uikTvd": "4554011217620",
+    "uikName": "УИК №931",
     "tikTvd": "2552000897359",
-    "tikName": "Любинская"
+    "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 932,
     "uikTvd": "4554011217621",
+    "uikName": "УИК №932",
     "tikTvd": "2552000897359",
-    "tikName": "Любинская"
+    "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 933,
     "uikTvd": "4554011217622",
+    "uikName": "УИК №933",
     "tikTvd": "2552000897359",
-    "tikName": "Любинская"
+    "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 934,
     "uikTvd": "4554011217623",
+    "uikName": "УИК №934",
     "tikTvd": "2552000897359",
-    "tikName": "Любинская"
+    "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 935,
     "uikTvd": "4554011217624",
+    "uikName": "УИК №935",
     "tikTvd": "2552000897359",
-    "tikName": "Любинская"
+    "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 936,
     "uikTvd": "4554011217625",
+    "uikName": "УИК №936",
     "tikTvd": "2552000897359",
-    "tikName": "Любинская"
+    "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 937,
     "uikTvd": "4554011217626",
+    "uikName": "УИК №937",
     "tikTvd": "2552000897359",
-    "tikName": "Любинская"
+    "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 938,
     "uikTvd": "4554011217627",
+    "uikName": "УИК №938",
     "tikTvd": "2552000897359",
-    "tikName": "Любинская"
+    "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 939,
     "uikTvd": "4554011217628",
+    "uikName": "УИК №939",
     "tikTvd": "2552000897359",
-    "tikName": "Любинская"
+    "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 940,
     "uikTvd": "4554011217629",
+    "uikName": "УИК №940",
     "tikTvd": "2552000897359",
-    "tikName": "Любинская"
+    "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 941,
     "uikTvd": "4554011217630",
+    "uikName": "УИК №941",
     "tikTvd": "2552000897359",
-    "tikName": "Любинская"
+    "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 942,
     "uikTvd": "4554011217631",
+    "uikName": "УИК №942",
     "tikTvd": "2552000897359",
-    "tikName": "Любинская"
+    "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 943,
     "uikTvd": "4554011217632",
+    "uikName": "УИК №943",
     "tikTvd": "2552000897359",
-    "tikName": "Любинская"
+    "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 944,
     "uikTvd": "4554011217633",
+    "uikName": "УИК №944",
     "tikTvd": "2552000897359",
-    "tikName": "Любинская"
+    "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 945,
     "uikTvd": "4554011217634",
+    "uikName": "УИК №945",
     "tikTvd": "2552000897359",
-    "tikName": "Любинская"
+    "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 946,
     "uikTvd": "4554011217635",
+    "uikName": "УИК №946",
     "tikTvd": "2552000897359",
-    "tikName": "Любинская"
+    "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 947,
     "uikTvd": "4554011217636",
+    "uikName": "УИК №947",
     "tikTvd": "2552000897359",
-    "tikName": "Любинская"
+    "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 948,
     "uikTvd": "4554011217637",
+    "uikName": "УИК №948",
     "tikTvd": "2552000897359",
-    "tikName": "Любинская"
+    "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 949,
     "uikTvd": "4554011217638",
+    "uikName": "УИК №949",
     "tikTvd": "2552000897359",
-    "tikName": "Любинская"
+    "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 950,
     "uikTvd": "4554011217639",
+    "uikName": "УИК №950",
     "tikTvd": "2552000897359",
-    "tikName": "Любинская"
+    "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 951,
     "uikTvd": "4554011217640",
+    "uikName": "УИК №951",
     "tikTvd": "2552000897359",
-    "tikName": "Любинская"
+    "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 952,
     "uikTvd": "4554011217641",
+    "uikName": "УИК №952",
     "tikTvd": "2552000897359",
-    "tikName": "Любинская"
+    "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 953,
     "uikTvd": "4554011217642",
+    "uikName": "УИК №953",
     "tikTvd": "2552000897359",
-    "tikName": "Любинская"
+    "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 954,
     "uikTvd": "4554011217643",
+    "uikName": "УИК №954",
     "tikTvd": "2552000897359",
-    "tikName": "Любинская"
+    "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 955,
     "uikTvd": "4554011217644",
+    "uikName": "УИК №955",
     "tikTvd": "2552000897359",
-    "tikName": "Любинская"
+    "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 956,
     "uikTvd": "4554011217645",
+    "uikName": "УИК №956",
     "tikTvd": "2552000897359",
-    "tikName": "Любинская"
+    "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 957,
     "uikTvd": "4554011217646",
+    "uikName": "УИК №957",
     "tikTvd": "2552000897359",
-    "tikName": "Любинская"
+    "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 958,
     "uikTvd": "4554011217647",
+    "uikName": "УИК №958",
     "tikTvd": "2552000897359",
-    "tikName": "Любинская"
+    "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 959,
     "uikTvd": "4554011217648",
+    "uikName": "УИК №959",
     "tikTvd": "2552000897359",
-    "tikName": "Любинская"
+    "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 960,
     "uikTvd": "4554011217649",
+    "uikName": "УИК №960",
     "tikTvd": "2552000897359",
-    "tikName": "Любинская"
+    "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 961,
     "uikTvd": "4554011217650",
+    "uikName": "УИК №961",
     "tikTvd": "2552000897359",
-    "tikName": "Любинская"
+    "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 962,
     "uikTvd": "4554011217651",
+    "uikName": "УИК №962",
     "tikTvd": "2552000897359",
-    "tikName": "Любинская"
+    "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 963,
     "uikTvd": "4554011217652",
+    "uikName": "УИК №963",
     "tikTvd": "2552000897359",
-    "tikName": "Любинская"
+    "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 964,
     "uikTvd": "4554011217653",
+    "uikName": "УИК №964",
     "tikTvd": "2552000897359",
-    "tikName": "Любинская"
+    "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 965,
     "uikTvd": "4554011217654",
+    "uikName": "УИК №965",
     "tikTvd": "2552000897359",
-    "tikName": "Любинская"
+    "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 966,
     "uikTvd": "4554011217655",
+    "uikName": "УИК №966",
     "tikTvd": "2552000897359",
-    "tikName": "Любинская"
+    "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 967,
     "uikTvd": "4554011217656",
+    "uikName": "УИК №967",
     "tikTvd": "2552000897359",
-    "tikName": "Любинская"
+    "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 968,
     "uikTvd": "4554011217657",
+    "uikName": "УИК №968",
     "tikTvd": "2552000897359",
-    "tikName": "Любинская"
+    "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 969,
     "uikTvd": "4554011217658",
+    "uikName": "УИК №969",
     "tikTvd": "2552000897359",
-    "tikName": "Любинская"
+    "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 970,
     "uikTvd": "4554011217659",
+    "uikName": "УИК №970",
     "tikTvd": "2552000897359",
-    "tikName": "Любинская"
+    "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 971,
     "uikTvd": "4554011217660",
+    "uikName": "УИК №971",
     "tikTvd": "2552000897359",
-    "tikName": "Любинская"
+    "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 972,
     "uikTvd": "4554011217661",
+    "uikName": "УИК №972",
     "tikTvd": "2552000897359",
-    "tikName": "Любинская"
+    "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 973,
     "uikTvd": "4554011217662",
+    "uikName": "УИК №973",
     "tikTvd": "2552000897359",
-    "tikName": "Любинская"
+    "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 974,
     "uikTvd": "4554011217663",
+    "uikName": "УИК №974",
     "tikTvd": "2552000897359",
-    "tikName": "Любинская"
+    "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 975,
     "uikTvd": "4554011217664",
+    "uikName": "УИК №975",
     "tikTvd": "2552000897359",
-    "tikName": "Любинская"
+    "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 976,
     "uikTvd": "4554011217665",
+    "uikName": "УИК №976",
     "tikTvd": "2552000897359",
-    "tikName": "Любинская"
+    "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 977,
     "uikTvd": "4554011217666",
+    "uikName": "УИК №977",
     "tikTvd": "2552000897359",
-    "tikName": "Любинская"
+    "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 982,
     "uikTvd": "4554012176001",
+    "uikName": "УИК №982",
     "tikTvd": "2552000897344",
-    "tikName": "Марьяновская"
+    "tikName": "Марьяновская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 983,
     "uikTvd": "4554012176002",
+    "uikName": "УИК №983",
     "tikTvd": "2552000897344",
-    "tikName": "Марьяновская"
+    "tikName": "Марьяновская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 984,
     "uikTvd": "4554012176003",
+    "uikName": "УИК №984",
     "tikTvd": "2552000897344",
-    "tikName": "Марьяновская"
+    "tikName": "Марьяновская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 985,
     "uikTvd": "4554012176004",
+    "uikName": "УИК №985",
     "tikTvd": "2552000897344",
-    "tikName": "Марьяновская"
+    "tikName": "Марьяновская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 986,
     "uikTvd": "4554012176005",
+    "uikName": "УИК №986",
     "tikTvd": "2552000897344",
-    "tikName": "Марьяновская"
+    "tikName": "Марьяновская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 987,
     "uikTvd": "4554012176006",
+    "uikName": "УИК №987",
     "tikTvd": "2552000897344",
-    "tikName": "Марьяновская"
+    "tikName": "Марьяновская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 988,
     "uikTvd": "4554012176007",
+    "uikName": "УИК №988",
     "tikTvd": "2552000897344",
-    "tikName": "Марьяновская"
+    "tikName": "Марьяновская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 989,
     "uikTvd": "4554012176008",
+    "uikName": "УИК №989",
     "tikTvd": "2552000897344",
-    "tikName": "Марьяновская"
+    "tikName": "Марьяновская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 990,
     "uikTvd": "4554012176009",
+    "uikName": "УИК №990",
     "tikTvd": "2552000897344",
-    "tikName": "Марьяновская"
+    "tikName": "Марьяновская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 991,
     "uikTvd": "4554012176010",
+    "uikName": "УИК №991",
     "tikTvd": "2552000897344",
-    "tikName": "Марьяновская"
+    "tikName": "Марьяновская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 992,
     "uikTvd": "4554012176011",
+    "uikName": "УИК №992",
     "tikTvd": "2552000897344",
-    "tikName": "Марьяновская"
+    "tikName": "Марьяновская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 993,
     "uikTvd": "4554012176012",
+    "uikName": "УИК №993",
     "tikTvd": "2552000897344",
-    "tikName": "Марьяновская"
+    "tikName": "Марьяновская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 994,
     "uikTvd": "4554012176013",
+    "uikName": "УИК №994",
     "tikTvd": "2552000897344",
-    "tikName": "Марьяновская"
+    "tikName": "Марьяновская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 995,
     "uikTvd": "4554012176014",
+    "uikName": "УИК №995",
     "tikTvd": "2552000897344",
-    "tikName": "Марьяновская"
+    "tikName": "Марьяновская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 996,
     "uikTvd": "4554012176015",
+    "uikName": "УИК №996",
     "tikTvd": "2552000897344",
-    "tikName": "Марьяновская"
+    "tikName": "Марьяновская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 997,
     "uikTvd": "4554012176016",
+    "uikName": "УИК №997",
     "tikTvd": "2552000897344",
-    "tikName": "Марьяновская"
+    "tikName": "Марьяновская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 998,
     "uikTvd": "4554012176017",
+    "uikName": "УИК №998",
     "tikTvd": "2552000897344",
-    "tikName": "Марьяновская"
+    "tikName": "Марьяновская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 999,
     "uikTvd": "4554012176018",
+    "uikName": "УИК №999",
     "tikTvd": "2552000897344",
-    "tikName": "Марьяновская"
+    "tikName": "Марьяновская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1000,
     "uikTvd": "4554012176019",
+    "uikName": "УИК №1000",
     "tikTvd": "2552000897344",
-    "tikName": "Марьяновская"
+    "tikName": "Марьяновская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1001,
     "uikTvd": "4554012176020",
+    "uikName": "УИК №1001",
     "tikTvd": "2552000897344",
-    "tikName": "Марьяновская"
+    "tikName": "Марьяновская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1002,
     "uikTvd": "4554012176021",
+    "uikName": "УИК №1002",
     "tikTvd": "2552000897344",
-    "tikName": "Марьяновская"
+    "tikName": "Марьяновская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1003,
     "uikTvd": "4554012176022",
+    "uikName": "УИК №1003",
     "tikTvd": "2552000897344",
-    "tikName": "Марьяновская"
+    "tikName": "Марьяновская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1004,
     "uikTvd": "4554012176023",
+    "uikName": "УИК №1004",
     "tikTvd": "2552000897344",
-    "tikName": "Марьяновская"
+    "tikName": "Марьяновская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1005,
     "uikTvd": "4554012176024",
+    "uikName": "УИК №1005",
     "tikTvd": "2552000897344",
-    "tikName": "Марьяновская"
+    "tikName": "Марьяновская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1006,
     "uikTvd": "4554012176025",
+    "uikName": "УИК №1006",
     "tikTvd": "2552000897344",
-    "tikName": "Марьяновская"
+    "tikName": "Марьяновская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1007,
     "uikTvd": "4554012176026",
+    "uikName": "УИК №1007",
     "tikTvd": "2552000897344",
-    "tikName": "Марьяновская"
+    "tikName": "Марьяновская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1008,
     "uikTvd": "4554012176027",
+    "uikName": "УИК №1008",
     "tikTvd": "2552000897344",
-    "tikName": "Марьяновская"
+    "tikName": "Марьяновская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1009,
     "uikTvd": "4554012176028",
+    "uikName": "УИК №1009",
     "tikTvd": "2552000897344",
-    "tikName": "Марьяновская"
+    "tikName": "Марьяновская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1010,
     "uikTvd": "4554012176029",
+    "uikName": "УИК №1010",
     "tikTvd": "2552000897344",
-    "tikName": "Марьяновская"
+    "tikName": "Марьяновская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1011,
     "uikTvd": "4554012176030",
+    "uikName": "УИК №1011",
     "tikTvd": "2552000897344",
-    "tikName": "Марьяновская"
+    "tikName": "Марьяновская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1012,
     "uikTvd": "4554012176031",
+    "uikName": "УИК №1012",
     "tikTvd": "2552000897344",
-    "tikName": "Марьяновская"
+    "tikName": "Марьяновская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1013,
     "uikTvd": "4554012176032",
+    "uikName": "УИК №1013",
     "tikTvd": "2552000897344",
-    "tikName": "Марьяновская"
+    "tikName": "Марьяновская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1014,
     "uikTvd": "4554012176033",
+    "uikName": "УИК №1014",
     "tikTvd": "2552000897344",
-    "tikName": "Марьяновская"
+    "tikName": "Марьяновская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1015,
     "uikTvd": "4554012176034",
+    "uikName": "УИК №1015",
     "tikTvd": "2552000897344",
-    "tikName": "Марьяновская"
+    "tikName": "Марьяновская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1016,
     "uikTvd": "4554012176035",
+    "uikName": "УИК №1016",
     "tikTvd": "2552000897344",
-    "tikName": "Марьяновская"
+    "tikName": "Марьяновская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1017,
     "uikTvd": "4554012176036",
+    "uikName": "УИК №1017",
     "tikTvd": "2552000897344",
-    "tikName": "Марьяновская"
+    "tikName": "Марьяновская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1018,
     "uikTvd": "4554012176037",
+    "uikName": "УИК №1018",
     "tikTvd": "2552000897344",
-    "tikName": "Марьяновская"
+    "tikName": "Марьяновская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1019,
     "uikTvd": "4554012176038",
+    "uikName": "УИК №1019",
     "tikTvd": "2552000897344",
-    "tikName": "Марьяновская"
+    "tikName": "Марьяновская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1020,
     "uikTvd": "4554012176039",
+    "uikName": "УИК №1020",
     "tikTvd": "2552000897344",
-    "tikName": "Марьяновская"
+    "tikName": "Марьяновская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1021,
     "uikTvd": "4554012176040",
+    "uikName": "УИК №1021",
     "tikTvd": "2552000897344",
-    "tikName": "Марьяновская"
+    "tikName": "Марьяновская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1022,
     "uikTvd": "4554012176041",
+    "uikName": "УИК №1022",
     "tikTvd": "2552000897344",
-    "tikName": "Марьяновская"
+    "tikName": "Марьяновская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1023,
     "uikTvd": "4554012176042",
+    "uikName": "УИК №1023",
     "tikTvd": "2552000897344",
-    "tikName": "Марьяновская"
+    "tikName": "Марьяновская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1027,
     "uikTvd": "4554013171245",
+    "uikName": "УИК №1027",
     "tikTvd": "2552000897345",
-    "tikName": "Москаленская"
+    "tikName": "Москаленская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1028,
     "uikTvd": "4554013171246",
+    "uikName": "УИК №1028",
     "tikTvd": "2552000897345",
-    "tikName": "Москаленская"
+    "tikName": "Москаленская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1029,
     "uikTvd": "4554013171247",
+    "uikName": "УИК №1029",
     "tikTvd": "2552000897345",
-    "tikName": "Москаленская"
+    "tikName": "Москаленская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1030,
     "uikTvd": "4554013171248",
+    "uikName": "УИК №1030",
     "tikTvd": "2552000897345",
-    "tikName": "Москаленская"
+    "tikName": "Москаленская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1031,
     "uikTvd": "4554013171249",
+    "uikName": "УИК №1031",
     "tikTvd": "2552000897345",
-    "tikName": "Москаленская"
+    "tikName": "Москаленская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1032,
     "uikTvd": "4554013171250",
+    "uikName": "УИК №1032",
     "tikTvd": "2552000897345",
-    "tikName": "Москаленская"
+    "tikName": "Москаленская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1033,
     "uikTvd": "4554013171251",
+    "uikName": "УИК №1033",
     "tikTvd": "2552000897345",
-    "tikName": "Москаленская"
+    "tikName": "Москаленская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1034,
     "uikTvd": "4554013171252",
+    "uikName": "УИК №1034",
     "tikTvd": "2552000897345",
-    "tikName": "Москаленская"
+    "tikName": "Москаленская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1035,
     "uikTvd": "4554013171253",
+    "uikName": "УИК №1035",
     "tikTvd": "2552000897345",
-    "tikName": "Москаленская"
+    "tikName": "Москаленская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1036,
     "uikTvd": "4554013171254",
+    "uikName": "УИК №1036",
     "tikTvd": "2552000897345",
-    "tikName": "Москаленская"
+    "tikName": "Москаленская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1037,
     "uikTvd": "4554013171255",
+    "uikName": "УИК №1037",
     "tikTvd": "2552000897345",
-    "tikName": "Москаленская"
+    "tikName": "Москаленская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1038,
     "uikTvd": "4554013171256",
+    "uikName": "УИК №1038",
     "tikTvd": "2552000897345",
-    "tikName": "Москаленская"
+    "tikName": "Москаленская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1039,
     "uikTvd": "4554013171257",
+    "uikName": "УИК №1039",
     "tikTvd": "2552000897345",
-    "tikName": "Москаленская"
+    "tikName": "Москаленская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1040,
     "uikTvd": "4554013171258",
+    "uikName": "УИК №1040",
     "tikTvd": "2552000897345",
-    "tikName": "Москаленская"
+    "tikName": "Москаленская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1041,
     "uikTvd": "4554013171259",
+    "uikName": "УИК №1041",
     "tikTvd": "2552000897345",
-    "tikName": "Москаленская"
+    "tikName": "Москаленская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1042,
     "uikTvd": "4554013171260",
+    "uikName": "УИК №1042",
     "tikTvd": "2552000897345",
-    "tikName": "Москаленская"
+    "tikName": "Москаленская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1043,
     "uikTvd": "4554013171261",
+    "uikName": "УИК №1043",
     "tikTvd": "2552000897345",
-    "tikName": "Москаленская"
+    "tikName": "Москаленская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1044,
     "uikTvd": "4554013171262",
+    "uikName": "УИК №1044",
     "tikTvd": "2552000897345",
-    "tikName": "Москаленская"
+    "tikName": "Москаленская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1045,
     "uikTvd": "4554013171263",
+    "uikName": "УИК №1045",
     "tikTvd": "2552000897345",
-    "tikName": "Москаленская"
+    "tikName": "Москаленская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1046,
     "uikTvd": "4554013171264",
+    "uikName": "УИК №1046",
     "tikTvd": "2552000897345",
-    "tikName": "Москаленская"
+    "tikName": "Москаленская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1047,
     "uikTvd": "4554013171265",
+    "uikName": "УИК №1047",
     "tikTvd": "2552000897345",
-    "tikName": "Москаленская"
+    "tikName": "Москаленская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1048,
     "uikTvd": "4554013171266",
+    "uikName": "УИК №1048",
     "tikTvd": "2552000897345",
-    "tikName": "Москаленская"
+    "tikName": "Москаленская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1049,
     "uikTvd": "4554013171267",
+    "uikName": "УИК №1049",
     "tikTvd": "2552000897345",
-    "tikName": "Москаленская"
+    "tikName": "Москаленская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1050,
     "uikTvd": "4554013171268",
+    "uikName": "УИК №1050",
     "tikTvd": "2552000897345",
-    "tikName": "Москаленская"
+    "tikName": "Москаленская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1051,
     "uikTvd": "4554013171269",
+    "uikName": "УИК №1051",
     "tikTvd": "2552000897345",
-    "tikName": "Москаленская"
+    "tikName": "Москаленская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1052,
     "uikTvd": "4554013171270",
+    "uikName": "УИК №1052",
     "tikTvd": "2552000897345",
-    "tikName": "Москаленская"
+    "tikName": "Москаленская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1053,
     "uikTvd": "4554013171271",
+    "uikName": "УИК №1053",
     "tikTvd": "2552000897345",
-    "tikName": "Москаленская"
+    "tikName": "Москаленская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1054,
     "uikTvd": "4554013171272",
+    "uikName": "УИК №1054",
     "tikTvd": "2552000897345",
-    "tikName": "Москаленская"
+    "tikName": "Москаленская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1055,
     "uikTvd": "4554013171273",
+    "uikName": "УИК №1055",
     "tikTvd": "2552000897345",
-    "tikName": "Москаленская"
+    "tikName": "Москаленская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1056,
     "uikTvd": "4554013171274",
+    "uikName": "УИК №1056",
     "tikTvd": "2552000897345",
-    "tikName": "Москаленская"
+    "tikName": "Москаленская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1057,
     "uikTvd": "4554013171275",
+    "uikName": "УИК №1057",
     "tikTvd": "2552000897345",
-    "tikName": "Москаленская"
+    "tikName": "Москаленская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1058,
     "uikTvd": "4554013171276",
+    "uikName": "УИК №1058",
     "tikTvd": "2552000897345",
-    "tikName": "Москаленская"
+    "tikName": "Москаленская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1059,
     "uikTvd": "4554013171277",
+    "uikName": "УИК №1059",
     "tikTvd": "2552000897345",
-    "tikName": "Москаленская"
+    "tikName": "Москаленская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1060,
     "uikTvd": "4554013171278",
+    "uikName": "УИК №1060",
     "tikTvd": "2552000897345",
-    "tikName": "Москаленская"
+    "tikName": "Москаленская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1061,
     "uikTvd": "4554013171279",
+    "uikName": "УИК №1061",
     "tikTvd": "2552000897345",
-    "tikName": "Москаленская"
+    "tikName": "Москаленская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1062,
     "uikTvd": "4554013171280",
+    "uikName": "УИК №1062",
     "tikTvd": "2552000897345",
-    "tikName": "Москаленская"
+    "tikName": "Москаленская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1063,
     "uikTvd": "4554013171281",
+    "uikName": "УИК №1063",
     "tikTvd": "2552000897345",
-    "tikName": "Москаленская"
+    "tikName": "Москаленская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1064,
     "uikTvd": "4554013171282",
+    "uikName": "УИК №1064",
     "tikTvd": "2552000897345",
-    "tikName": "Москаленская"
+    "tikName": "Москаленская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1065,
     "uikTvd": "4554013171283",
+    "uikName": "УИК №1065",
     "tikTvd": "2552000897345",
-    "tikName": "Москаленская"
+    "tikName": "Москаленская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1066,
     "uikTvd": "4554013171284",
+    "uikName": "УИК №1066",
     "tikTvd": "2552000897345",
-    "tikName": "Москаленская"
+    "tikName": "Москаленская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1067,
     "uikTvd": "4554013171285",
+    "uikName": "УИК №1067",
     "tikTvd": "2552000897345",
-    "tikName": "Москаленская"
+    "tikName": "Москаленская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1068,
     "uikTvd": "4554013171286",
+    "uikName": "УИК №1068",
     "tikTvd": "2552000897345",
-    "tikName": "Москаленская"
+    "tikName": "Москаленская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1069,
     "uikTvd": "4554013171287",
+    "uikName": "УИК №1069",
     "tikTvd": "2552000897345",
-    "tikName": "Москаленская"
+    "tikName": "Москаленская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1070,
     "uikTvd": "4554013171288",
+    "uikName": "УИК №1070",
     "tikTvd": "2552000897345",
-    "tikName": "Москаленская"
+    "tikName": "Москаленская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1071,
     "uikTvd": "4554013171289",
+    "uikName": "УИК №1071",
     "tikTvd": "2552000897345",
-    "tikName": "Москаленская"
+    "tikName": "Москаленская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1072,
     "uikTvd": "4554013171290",
+    "uikName": "УИК №1072",
     "tikTvd": "2552000897345",
-    "tikName": "Москаленская"
+    "tikName": "Москаленская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1073,
     "uikTvd": "4554013171291",
+    "uikName": "УИК №1073",
     "tikTvd": "2552000897345",
-    "tikName": "Москаленская"
+    "tikName": "Москаленская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1077,
     "uikTvd": "4554014171151",
+    "uikName": "УИК №1077",
     "tikTvd": "2552000897360",
-    "tikName": "Муромцевская"
+    "tikName": "Муромцевская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1078,
     "uikTvd": "4554014171152",
+    "uikName": "УИК №1078",
     "tikTvd": "2552000897360",
-    "tikName": "Муромцевская"
+    "tikName": "Муромцевская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1079,
     "uikTvd": "4554014171153",
+    "uikName": "УИК №1079",
     "tikTvd": "2552000897360",
-    "tikName": "Муромцевская"
+    "tikName": "Муромцевская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1080,
     "uikTvd": "4554014171154",
+    "uikName": "УИК №1080",
     "tikTvd": "2552000897360",
-    "tikName": "Муромцевская"
+    "tikName": "Муромцевская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1081,
     "uikTvd": "4554014171155",
+    "uikName": "УИК №1081",
     "tikTvd": "2552000897360",
-    "tikName": "Муромцевская"
+    "tikName": "Муромцевская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1082,
     "uikTvd": "4554014171156",
+    "uikName": "УИК №1082",
     "tikTvd": "2552000897360",
-    "tikName": "Муромцевская"
+    "tikName": "Муромцевская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1083,
     "uikTvd": "4554014171157",
+    "uikName": "УИК №1083",
     "tikTvd": "2552000897360",
-    "tikName": "Муромцевская"
+    "tikName": "Муромцевская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1084,
     "uikTvd": "4554014171158",
+    "uikName": "УИК №1084",
     "tikTvd": "2552000897360",
-    "tikName": "Муромцевская"
+    "tikName": "Муромцевская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1085,
     "uikTvd": "4554014171159",
+    "uikName": "УИК №1085",
     "tikTvd": "2552000897360",
-    "tikName": "Муромцевская"
+    "tikName": "Муромцевская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1086,
     "uikTvd": "4554014171160",
+    "uikName": "УИК №1086",
     "tikTvd": "2552000897360",
-    "tikName": "Муромцевская"
+    "tikName": "Муромцевская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1087,
     "uikTvd": "4554014171161",
+    "uikName": "УИК №1087",
     "tikTvd": "2552000897360",
-    "tikName": "Муромцевская"
+    "tikName": "Муромцевская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1088,
     "uikTvd": "4554014171162",
+    "uikName": "УИК №1088",
     "tikTvd": "2552000897360",
-    "tikName": "Муромцевская"
+    "tikName": "Муромцевская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1089,
     "uikTvd": "4554014171163",
+    "uikName": "УИК №1089",
     "tikTvd": "2552000897360",
-    "tikName": "Муромцевская"
+    "tikName": "Муромцевская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1090,
     "uikTvd": "4554014171164",
+    "uikName": "УИК №1090",
     "tikTvd": "2552000897360",
-    "tikName": "Муромцевская"
+    "tikName": "Муромцевская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1091,
     "uikTvd": "4554014171165",
+    "uikName": "УИК №1091",
     "tikTvd": "2552000897360",
-    "tikName": "Муромцевская"
+    "tikName": "Муромцевская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1092,
     "uikTvd": "4554014171166",
+    "uikName": "УИК №1092",
     "tikTvd": "2552000897360",
-    "tikName": "Муромцевская"
+    "tikName": "Муромцевская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1093,
     "uikTvd": "4554014171167",
+    "uikName": "УИК №1093",
     "tikTvd": "2552000897360",
-    "tikName": "Муромцевская"
+    "tikName": "Муромцевская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1094,
     "uikTvd": "4554014171168",
+    "uikName": "УИК №1094",
     "tikTvd": "2552000897360",
-    "tikName": "Муромцевская"
+    "tikName": "Муромцевская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1095,
     "uikTvd": "4554014171169",
+    "uikName": "УИК №1095",
     "tikTvd": "2552000897360",
-    "tikName": "Муромцевская"
+    "tikName": "Муромцевская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1096,
     "uikTvd": "4554014171170",
+    "uikName": "УИК №1096",
     "tikTvd": "2552000897360",
-    "tikName": "Муромцевская"
+    "tikName": "Муромцевская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1097,
     "uikTvd": "4554014171171",
+    "uikName": "УИК №1097",
     "tikTvd": "2552000897360",
-    "tikName": "Муромцевская"
+    "tikName": "Муромцевская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1098,
     "uikTvd": "4554014171172",
+    "uikName": "УИК №1098",
     "tikTvd": "2552000897360",
-    "tikName": "Муромцевская"
+    "tikName": "Муромцевская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1099,
     "uikTvd": "4554014171173",
+    "uikName": "УИК №1099",
     "tikTvd": "2552000897360",
-    "tikName": "Муромцевская"
+    "tikName": "Муромцевская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1100,
     "uikTvd": "4554014171174",
+    "uikName": "УИК №1100",
     "tikTvd": "2552000897360",
-    "tikName": "Муромцевская"
+    "tikName": "Муромцевская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1101,
     "uikTvd": "4554014171175",
+    "uikName": "УИК №1101",
     "tikTvd": "2552000897360",
-    "tikName": "Муромцевская"
+    "tikName": "Муромцевская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1102,
     "uikTvd": "4554014171176",
+    "uikName": "УИК №1102",
     "tikTvd": "2552000897360",
-    "tikName": "Муромцевская"
+    "tikName": "Муромцевская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1103,
     "uikTvd": "4554014171177",
+    "uikName": "УИК №1103",
     "tikTvd": "2552000897360",
-    "tikName": "Муромцевская"
+    "tikName": "Муромцевская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1104,
     "uikTvd": "4554014171178",
+    "uikName": "УИК №1104",
     "tikTvd": "2552000897360",
-    "tikName": "Муромцевская"
+    "tikName": "Муромцевская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1105,
     "uikTvd": "4554014171179",
+    "uikName": "УИК №1105",
     "tikTvd": "2552000897360",
-    "tikName": "Муромцевская"
+    "tikName": "Муромцевская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1106,
     "uikTvd": "4554014171180",
+    "uikName": "УИК №1106",
     "tikTvd": "2552000897360",
-    "tikName": "Муромцевская"
+    "tikName": "Муромцевская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1107,
     "uikTvd": "4554014171181",
+    "uikName": "УИК №1107",
     "tikTvd": "2552000897360",
-    "tikName": "Муромцевская"
+    "tikName": "Муромцевская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1108,
     "uikTvd": "4554014171182",
+    "uikName": "УИК №1108",
     "tikTvd": "2552000897360",
-    "tikName": "Муромцевская"
+    "tikName": "Муромцевская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1109,
     "uikTvd": "4554014171183",
+    "uikName": "УИК №1109",
     "tikTvd": "2552000897360",
-    "tikName": "Муромцевская"
+    "tikName": "Муромцевская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1110,
     "uikTvd": "4554014171184",
+    "uikName": "УИК №1110",
     "tikTvd": "2552000897360",
-    "tikName": "Муромцевская"
+    "tikName": "Муромцевская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1111,
     "uikTvd": "4554014171185",
+    "uikName": "УИК №1111",
     "tikTvd": "2552000897360",
-    "tikName": "Муромцевская"
+    "tikName": "Муромцевская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1112,
     "uikTvd": "4554014171186",
+    "uikName": "УИК №1112",
     "tikTvd": "2552000897360",
-    "tikName": "Муромцевская"
+    "tikName": "Муромцевская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1113,
     "uikTvd": "4554014171187",
+    "uikName": "УИК №1113",
     "tikTvd": "2552000897360",
-    "tikName": "Муромцевская"
+    "tikName": "Муромцевская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1114,
     "uikTvd": "4554014171188",
+    "uikName": "УИК №1114",
     "tikTvd": "2552000897360",
-    "tikName": "Муромцевская"
+    "tikName": "Муромцевская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1115,
     "uikTvd": "4554014171189",
+    "uikName": "УИК №1115",
     "tikTvd": "2552000897360",
-    "tikName": "Муромцевская"
+    "tikName": "Муромцевская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1116,
     "uikTvd": "4554014171190",
+    "uikName": "УИК №1116",
     "tikTvd": "2552000897360",
-    "tikName": "Муромцевская"
+    "tikName": "Муромцевская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1117,
     "uikTvd": "4554014171191",
+    "uikName": "УИК №1117",
     "tikTvd": "2552000897360",
-    "tikName": "Муромцевская"
+    "tikName": "Муромцевская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1118,
     "uikTvd": "4554014171192",
+    "uikName": "УИК №1118",
     "tikTvd": "2552000897360",
-    "tikName": "Муромцевская"
+    "tikName": "Муромцевская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1119,
     "uikTvd": "4554014171193",
+    "uikName": "УИК №1119",
     "tikTvd": "2552000897360",
-    "tikName": "Муромцевская"
+    "tikName": "Муромцевская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1120,
     "uikTvd": "4554014171194",
+    "uikName": "УИК №1120",
     "tikTvd": "2552000897360",
-    "tikName": "Муромцевская"
+    "tikName": "Муромцевская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1121,
     "uikTvd": "4554014171195",
+    "uikName": "УИК №1121",
     "tikTvd": "2552000897360",
-    "tikName": "Муромцевская"
+    "tikName": "Муромцевская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1125,
     "uikTvd": "4554015184524",
+    "uikName": "УИК №1125",
     "tikTvd": "2552000897361",
-    "tikName": "Называевская"
+    "tikName": "Называевская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1126,
     "uikTvd": "4554015184525",
+    "uikName": "УИК №1126",
     "tikTvd": "2552000897361",
-    "tikName": "Называевская"
+    "tikName": "Называевская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1127,
     "uikTvd": "4554015184526",
+    "uikName": "УИК №1127",
     "tikTvd": "2552000897361",
-    "tikName": "Называевская"
+    "tikName": "Называевская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1128,
     "uikTvd": "4554015184527",
+    "uikName": "УИК №1128",
     "tikTvd": "2552000897361",
-    "tikName": "Называевская"
+    "tikName": "Называевская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1129,
     "uikTvd": "4554015184528",
+    "uikName": "УИК №1129",
     "tikTvd": "2552000897361",
-    "tikName": "Называевская"
+    "tikName": "Называевская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1130,
     "uikTvd": "4554015184529",
+    "uikName": "УИК №1130",
     "tikTvd": "2552000897361",
-    "tikName": "Называевская"
+    "tikName": "Называевская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1131,
     "uikTvd": "4554015184530",
+    "uikName": "УИК №1131",
     "tikTvd": "2552000897361",
-    "tikName": "Называевская"
+    "tikName": "Называевская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1132,
     "uikTvd": "4554015184531",
+    "uikName": "УИК №1132",
     "tikTvd": "2552000897361",
-    "tikName": "Называевская"
+    "tikName": "Называевская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1133,
     "uikTvd": "4554015184532",
+    "uikName": "УИК №1133",
     "tikTvd": "2552000897361",
-    "tikName": "Называевская"
+    "tikName": "Называевская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1134,
     "uikTvd": "4554015184533",
+    "uikName": "УИК №1134",
     "tikTvd": "2552000897361",
-    "tikName": "Называевская"
+    "tikName": "Называевская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1135,
     "uikTvd": "4554015184534",
+    "uikName": "УИК №1135",
     "tikTvd": "2552000897361",
-    "tikName": "Называевская"
+    "tikName": "Называевская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1136,
     "uikTvd": "4554015184535",
+    "uikName": "УИК №1136",
     "tikTvd": "2552000897361",
-    "tikName": "Называевская"
+    "tikName": "Называевская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1137,
     "uikTvd": "4554015184536",
+    "uikName": "УИК №1137",
     "tikTvd": "2552000897361",
-    "tikName": "Называевская"
+    "tikName": "Называевская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1138,
     "uikTvd": "4554015184537",
+    "uikName": "УИК №1138",
     "tikTvd": "2552000897361",
-    "tikName": "Называевская"
+    "tikName": "Называевская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1139,
     "uikTvd": "4554015184538",
+    "uikName": "УИК №1139",
     "tikTvd": "2552000897361",
-    "tikName": "Называевская"
+    "tikName": "Называевская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1140,
     "uikTvd": "4554015184539",
+    "uikName": "УИК №1140",
     "tikTvd": "2552000897361",
-    "tikName": "Называевская"
+    "tikName": "Называевская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1141,
     "uikTvd": "4554015184540",
+    "uikName": "УИК №1141",
     "tikTvd": "2552000897361",
-    "tikName": "Называевская"
+    "tikName": "Называевская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1142,
     "uikTvd": "4554015184541",
+    "uikName": "УИК №1142",
     "tikTvd": "2552000897361",
-    "tikName": "Называевская"
+    "tikName": "Называевская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1143,
     "uikTvd": "4554015184542",
+    "uikName": "УИК №1143",
     "tikTvd": "2552000897361",
-    "tikName": "Называевская"
+    "tikName": "Называевская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1144,
     "uikTvd": "4554015184543",
+    "uikName": "УИК №1144",
     "tikTvd": "2552000897361",
-    "tikName": "Называевская"
+    "tikName": "Называевская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1145,
     "uikTvd": "4554015184544",
+    "uikName": "УИК №1145",
     "tikTvd": "2552000897361",
-    "tikName": "Называевская"
+    "tikName": "Называевская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1146,
     "uikTvd": "4554015184545",
+    "uikName": "УИК №1146",
     "tikTvd": "2552000897361",
-    "tikName": "Называевская"
+    "tikName": "Называевская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1147,
     "uikTvd": "4554015184546",
+    "uikName": "УИК №1147",
     "tikTvd": "2552000897361",
-    "tikName": "Называевская"
+    "tikName": "Называевская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1148,
     "uikTvd": "4554015184547",
+    "uikName": "УИК №1148",
     "tikTvd": "2552000897361",
-    "tikName": "Называевская"
+    "tikName": "Называевская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1150,
     "uikTvd": "4554015184548",
+    "uikName": "УИК №1150",
     "tikTvd": "2552000897361",
-    "tikName": "Называевская"
+    "tikName": "Называевская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1151,
     "uikTvd": "4554015184549",
+    "uikName": "УИК №1151",
     "tikTvd": "2552000897361",
-    "tikName": "Называевская"
+    "tikName": "Называевская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1152,
     "uikTvd": "4554015184550",
+    "uikName": "УИК №1152",
     "tikTvd": "2552000897361",
-    "tikName": "Называевская"
+    "tikName": "Называевская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1153,
     "uikTvd": "4554015184551",
+    "uikName": "УИК №1153",
     "tikTvd": "2552000897361",
-    "tikName": "Называевская"
+    "tikName": "Называевская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1154,
     "uikTvd": "4554015184552",
+    "uikName": "УИК №1154",
     "tikTvd": "2552000897361",
-    "tikName": "Называевская"
+    "tikName": "Называевская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1155,
     "uikTvd": "4554015184553",
+    "uikName": "УИК №1155",
     "tikTvd": "2552000897361",
-    "tikName": "Называевская"
+    "tikName": "Называевская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1156,
     "uikTvd": "4554015184554",
+    "uikName": "УИК №1156",
     "tikTvd": "2552000897361",
-    "tikName": "Называевская"
+    "tikName": "Называевская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1158,
     "uikTvd": "4554015184555",
+    "uikName": "УИК №1158",
     "tikTvd": "2552000897361",
-    "tikName": "Называевская"
+    "tikName": "Называевская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1159,
     "uikTvd": "4554015184556",
+    "uikName": "УИК №1159",
     "tikTvd": "2552000897361",
-    "tikName": "Называевская"
+    "tikName": "Называевская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1160,
     "uikTvd": "4554015184557",
+    "uikName": "УИК №1160",
     "tikTvd": "2552000897361",
-    "tikName": "Называевская"
+    "tikName": "Называевская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1161,
     "uikTvd": "4554015184558",
+    "uikName": "УИК №1161",
     "tikTvd": "2552000897361",
-    "tikName": "Называевская"
+    "tikName": "Называевская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1162,
     "uikTvd": "4554015184559",
+    "uikName": "УИК №1162",
     "tikTvd": "2552000897361",
-    "tikName": "Называевская"
+    "tikName": "Называевская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1163,
     "uikTvd": "4554015184560",
+    "uikName": "УИК №1163",
     "tikTvd": "2552000897361",
-    "tikName": "Называевская"
+    "tikName": "Называевская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1164,
     "uikTvd": "4554015184561",
+    "uikName": "УИК №1164",
     "tikTvd": "2552000897361",
-    "tikName": "Называевская"
+    "tikName": "Называевская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1165,
     "uikTvd": "4554015184562",
+    "uikName": "УИК №1165",
     "tikTvd": "2552000897361",
-    "tikName": "Называевская"
+    "tikName": "Называевская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1166,
     "uikTvd": "4554015184563",
+    "uikName": "УИК №1166",
     "tikTvd": "2552000897361",
-    "tikName": "Называевская"
+    "tikName": "Называевская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1167,
     "uikTvd": "4554015184564",
+    "uikName": "УИК №1167",
     "tikTvd": "2552000897361",
-    "tikName": "Называевская"
+    "tikName": "Называевская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1168,
     "uikTvd": "4554015184565",
+    "uikName": "УИК №1168",
     "tikTvd": "2552000897361",
-    "tikName": "Называевская"
+    "tikName": "Называевская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1169,
     "uikTvd": "4554015184566",
+    "uikName": "УИК №1169",
     "tikTvd": "2552000897361",
-    "tikName": "Называевская"
+    "tikName": "Называевская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1170,
     "uikTvd": "4554015184567",
+    "uikName": "УИК №1170",
     "tikTvd": "2552000897361",
-    "tikName": "Называевская"
+    "tikName": "Называевская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1171,
     "uikTvd": "4554015184568",
+    "uikName": "УИК №1171",
     "tikTvd": "2552000897361",
-    "tikName": "Называевская"
+    "tikName": "Называевская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1172,
     "uikTvd": "4554015184569",
+    "uikName": "УИК №1172",
     "tikTvd": "2552000897361",
-    "tikName": "Называевская"
+    "tikName": "Называевская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1173,
     "uikTvd": "4554015184570",
+    "uikName": "УИК №1173",
     "tikTvd": "2552000897361",
-    "tikName": "Называевская"
+    "tikName": "Называевская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1178,
     "uikTvd": "4554016169194",
+    "uikName": "УИК №1178",
     "tikTvd": "2552000897362",
-    "tikName": "Нижнеомская"
+    "tikName": "Нижнеомская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1179,
     "uikTvd": "4554016169195",
+    "uikName": "УИК №1179",
     "tikTvd": "2552000897362",
-    "tikName": "Нижнеомская"
+    "tikName": "Нижнеомская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1180,
     "uikTvd": "4554016169196",
+    "uikName": "УИК №1180",
     "tikTvd": "2552000897362",
-    "tikName": "Нижнеомская"
+    "tikName": "Нижнеомская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1181,
     "uikTvd": "4554016169197",
+    "uikName": "УИК №1181",
     "tikTvd": "2552000897362",
-    "tikName": "Нижнеомская"
+    "tikName": "Нижнеомская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1182,
     "uikTvd": "4554016169198",
+    "uikName": "УИК №1182",
     "tikTvd": "2552000897362",
-    "tikName": "Нижнеомская"
+    "tikName": "Нижнеомская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1183,
     "uikTvd": "4554016169199",
+    "uikName": "УИК №1183",
     "tikTvd": "2552000897362",
-    "tikName": "Нижнеомская"
+    "tikName": "Нижнеомская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1184,
     "uikTvd": "4554016169200",
+    "uikName": "УИК №1184",
     "tikTvd": "2552000897362",
-    "tikName": "Нижнеомская"
+    "tikName": "Нижнеомская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1185,
     "uikTvd": "4554016169201",
+    "uikName": "УИК №1185",
     "tikTvd": "2552000897362",
-    "tikName": "Нижнеомская"
+    "tikName": "Нижнеомская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1186,
     "uikTvd": "4554016169202",
+    "uikName": "УИК №1186",
     "tikTvd": "2552000897362",
-    "tikName": "Нижнеомская"
+    "tikName": "Нижнеомская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1187,
     "uikTvd": "4554016169203",
+    "uikName": "УИК №1187",
     "tikTvd": "2552000897362",
-    "tikName": "Нижнеомская"
+    "tikName": "Нижнеомская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1188,
     "uikTvd": "4554016169204",
+    "uikName": "УИК №1188",
     "tikTvd": "2552000897362",
-    "tikName": "Нижнеомская"
+    "tikName": "Нижнеомская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1189,
     "uikTvd": "4554016169205",
+    "uikName": "УИК №1189",
     "tikTvd": "2552000897362",
-    "tikName": "Нижнеомская"
+    "tikName": "Нижнеомская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1190,
     "uikTvd": "4554016169206",
+    "uikName": "УИК №1190",
     "tikTvd": "2552000897362",
-    "tikName": "Нижнеомская"
+    "tikName": "Нижнеомская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1191,
     "uikTvd": "4554016169207",
+    "uikName": "УИК №1191",
     "tikTvd": "2552000897362",
-    "tikName": "Нижнеомская"
+    "tikName": "Нижнеомская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1192,
     "uikTvd": "4554016169208",
+    "uikName": "УИК №1192",
     "tikTvd": "2552000897362",
-    "tikName": "Нижнеомская"
+    "tikName": "Нижнеомская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1193,
     "uikTvd": "4554016169209",
+    "uikName": "УИК №1193",
     "tikTvd": "2552000897362",
-    "tikName": "Нижнеомская"
+    "tikName": "Нижнеомская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1194,
     "uikTvd": "4554016169210",
+    "uikName": "УИК №1194",
     "tikTvd": "2552000897362",
-    "tikName": "Нижнеомская"
+    "tikName": "Нижнеомская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1195,
     "uikTvd": "4554016169211",
+    "uikName": "УИК №1195",
     "tikTvd": "2552000897362",
-    "tikName": "Нижнеомская"
+    "tikName": "Нижнеомская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1196,
     "uikTvd": "4554016169212",
+    "uikName": "УИК №1196",
     "tikTvd": "2552000897362",
-    "tikName": "Нижнеомская"
+    "tikName": "Нижнеомская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1197,
     "uikTvd": "4554016169213",
+    "uikName": "УИК №1197",
     "tikTvd": "2552000897362",
-    "tikName": "Нижнеомская"
+    "tikName": "Нижнеомская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1198,
     "uikTvd": "4554016169214",
+    "uikName": "УИК №1198",
     "tikTvd": "2552000897362",
-    "tikName": "Нижнеомская"
+    "tikName": "Нижнеомская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1199,
     "uikTvd": "4554016169215",
+    "uikName": "УИК №1199",
     "tikTvd": "2552000897362",
-    "tikName": "Нижнеомская"
+    "tikName": "Нижнеомская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1200,
     "uikTvd": "4554016169216",
+    "uikName": "УИК №1200",
     "tikTvd": "2552000897362",
-    "tikName": "Нижнеомская"
+    "tikName": "Нижнеомская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1201,
     "uikTvd": "4554016169217",
+    "uikName": "УИК №1201",
     "tikTvd": "2552000897362",
-    "tikName": "Нижнеомская"
+    "tikName": "Нижнеомская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1202,
     "uikTvd": "4554016169218",
+    "uikName": "УИК №1202",
     "tikTvd": "2552000897362",
-    "tikName": "Нижнеомская"
+    "tikName": "Нижнеомская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1203,
     "uikTvd": "4554016169219",
+    "uikName": "УИК №1203",
     "tikTvd": "2552000897362",
-    "tikName": "Нижнеомская"
+    "tikName": "Нижнеомская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1204,
     "uikTvd": "4554016169220",
+    "uikName": "УИК №1204",
     "tikTvd": "2552000897362",
-    "tikName": "Нижнеомская"
+    "tikName": "Нижнеомская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1205,
     "uikTvd": "4554016169221",
+    "uikName": "УИК №1205",
     "tikTvd": "2552000897362",
-    "tikName": "Нижнеомская"
+    "tikName": "Нижнеомская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1206,
     "uikTvd": "4554016169222",
+    "uikName": "УИК №1206",
     "tikTvd": "2552000897362",
-    "tikName": "Нижнеомская"
+    "tikName": "Нижнеомская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1207,
     "uikTvd": "4554016169223",
+    "uikName": "УИК №1207",
     "tikTvd": "2552000897362",
-    "tikName": "Нижнеомская"
+    "tikName": "Нижнеомская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1208,
     "uikTvd": "4554016169224",
+    "uikName": "УИК №1208",
     "tikTvd": "2552000897362",
-    "tikName": "Нижнеомская"
+    "tikName": "Нижнеомская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1209,
     "uikTvd": "4554016169225",
+    "uikName": "УИК №1209",
     "tikTvd": "2552000897362",
-    "tikName": "Нижнеомская"
+    "tikName": "Нижнеомская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1210,
     "uikTvd": "4554016169226",
+    "uikName": "УИК №1210",
     "tikTvd": "2552000897362",
-    "tikName": "Нижнеомская"
+    "tikName": "Нижнеомская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1211,
     "uikTvd": "4554016169227",
+    "uikName": "УИК №1211",
     "tikTvd": "2552000897362",
-    "tikName": "Нижнеомская"
+    "tikName": "Нижнеомская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1212,
     "uikTvd": "4554016169228",
+    "uikName": "УИК №1212",
     "tikTvd": "2552000897362",
-    "tikName": "Нижнеомская"
+    "tikName": "Нижнеомская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1213,
     "uikTvd": "4554016169229",
+    "uikName": "УИК №1213",
     "tikTvd": "2552000897362",
-    "tikName": "Нижнеомская"
+    "tikName": "Нижнеомская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1214,
     "uikTvd": "4554016169230",
+    "uikName": "УИК №1214",
     "tikTvd": "2552000897362",
-    "tikName": "Нижнеомская"
+    "tikName": "Нижнеомская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1215,
     "uikTvd": "4554016169231",
+    "uikName": "УИК №1215",
     "tikTvd": "2552000897362",
-    "tikName": "Нижнеомская"
+    "tikName": "Нижнеомская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1216,
     "uikTvd": "4554016169232",
+    "uikName": "УИК №1216",
     "tikTvd": "2552000897362",
-    "tikName": "Нижнеомская"
+    "tikName": "Нижнеомская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1217,
     "uikTvd": "4554016169233",
+    "uikName": "УИК №1217",
     "tikTvd": "2552000897362",
-    "tikName": "Нижнеомская"
+    "tikName": "Нижнеомская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1218,
     "uikTvd": "4554016169234",
+    "uikName": "УИК №1218",
     "tikTvd": "2552000897362",
-    "tikName": "Нижнеомская"
+    "tikName": "Нижнеомская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1219,
     "uikTvd": "4554016169235",
+    "uikName": "УИК №1219",
     "tikTvd": "2552000897362",
-    "tikName": "Нижнеомская"
+    "tikName": "Нижнеомская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1220,
     "uikTvd": "4554016169236",
+    "uikName": "УИК №1220",
     "tikTvd": "2552000897362",
-    "tikName": "Нижнеомская"
+    "tikName": "Нижнеомская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1221,
     "uikTvd": "4554016169237",
+    "uikName": "УИК №1221",
     "tikTvd": "2552000897362",
-    "tikName": "Нижнеомская"
+    "tikName": "Нижнеомская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1222,
     "uikTvd": "4554016169238",
+    "uikName": "УИК №1222",
     "tikTvd": "2552000897362",
-    "tikName": "Нижнеомская"
+    "tikName": "Нижнеомская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1223,
     "uikTvd": "4554016169239",
+    "uikName": "УИК №1223",
     "tikTvd": "2552000897362",
-    "tikName": "Нижнеомская"
+    "tikName": "Нижнеомская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1224,
     "uikTvd": "4554016169240",
+    "uikName": "УИК №1224",
     "tikTvd": "2552000897362",
-    "tikName": "Нижнеомская"
+    "tikName": "Нижнеомская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1228,
     "uikTvd": "4554017161405",
+    "uikName": "УИК №1228",
     "tikTvd": "2552000897335",
-    "tikName": "Нововаршавская"
+    "tikName": "Нововаршавская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1229,
     "uikTvd": "4554017161406",
+    "uikName": "УИК №1229",
     "tikTvd": "2552000897335",
-    "tikName": "Нововаршавская"
+    "tikName": "Нововаршавская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1230,
     "uikTvd": "4554017161407",
+    "uikName": "УИК №1230",
     "tikTvd": "2552000897335",
-    "tikName": "Нововаршавская"
+    "tikName": "Нововаршавская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1231,
     "uikTvd": "4554017161408",
+    "uikName": "УИК №1231",
     "tikTvd": "2552000897335",
-    "tikName": "Нововаршавская"
+    "tikName": "Нововаршавская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1232,
     "uikTvd": "4554017161409",
+    "uikName": "УИК №1232",
     "tikTvd": "2552000897335",
-    "tikName": "Нововаршавская"
+    "tikName": "Нововаршавская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1233,
     "uikTvd": "4554017161410",
+    "uikName": "УИК №1233",
     "tikTvd": "2552000897335",
-    "tikName": "Нововаршавская"
+    "tikName": "Нововаршавская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1234,
     "uikTvd": "4554017161411",
+    "uikName": "УИК №1234",
     "tikTvd": "2552000897335",
-    "tikName": "Нововаршавская"
+    "tikName": "Нововаршавская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1235,
     "uikTvd": "4554017161412",
+    "uikName": "УИК №1235",
     "tikTvd": "2552000897335",
-    "tikName": "Нововаршавская"
+    "tikName": "Нововаршавская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1236,
     "uikTvd": "4554017161413",
+    "uikName": "УИК №1236",
     "tikTvd": "2552000897335",
-    "tikName": "Нововаршавская"
+    "tikName": "Нововаршавская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1237,
     "uikTvd": "4554017161414",
+    "uikName": "УИК №1237",
     "tikTvd": "2552000897335",
-    "tikName": "Нововаршавская"
+    "tikName": "Нововаршавская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1238,
     "uikTvd": "4554017161415",
+    "uikName": "УИК №1238",
     "tikTvd": "2552000897335",
-    "tikName": "Нововаршавская"
+    "tikName": "Нововаршавская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1239,
     "uikTvd": "4554017161416",
+    "uikName": "УИК №1239",
     "tikTvd": "2552000897335",
-    "tikName": "Нововаршавская"
+    "tikName": "Нововаршавская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1240,
     "uikTvd": "4554017161417",
+    "uikName": "УИК №1240",
     "tikTvd": "2552000897335",
-    "tikName": "Нововаршавская"
+    "tikName": "Нововаршавская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1241,
     "uikTvd": "4554017161418",
+    "uikName": "УИК №1241",
     "tikTvd": "2552000897335",
-    "tikName": "Нововаршавская"
+    "tikName": "Нововаршавская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1242,
     "uikTvd": "4554017161419",
+    "uikName": "УИК №1242",
     "tikTvd": "2552000897335",
-    "tikName": "Нововаршавская"
+    "tikName": "Нововаршавская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1243,
     "uikTvd": "4554017161420",
+    "uikName": "УИК №1243",
     "tikTvd": "2552000897335",
-    "tikName": "Нововаршавская"
+    "tikName": "Нововаршавская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1244,
     "uikTvd": "4554017161421",
+    "uikName": "УИК №1244",
     "tikTvd": "2552000897335",
-    "tikName": "Нововаршавская"
+    "tikName": "Нововаршавская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1245,
     "uikTvd": "4554017161422",
+    "uikName": "УИК №1245",
     "tikTvd": "2552000897335",
-    "tikName": "Нововаршавская"
+    "tikName": "Нововаршавская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1246,
     "uikTvd": "4554017161423",
+    "uikName": "УИК №1246",
     "tikTvd": "2552000897335",
-    "tikName": "Нововаршавская"
+    "tikName": "Нововаршавская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1247,
     "uikTvd": "4554017161424",
+    "uikName": "УИК №1247",
     "tikTvd": "2552000897335",
-    "tikName": "Нововаршавская"
+    "tikName": "Нововаршавская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1248,
     "uikTvd": "4554017161425",
+    "uikName": "УИК №1248",
     "tikTvd": "2552000897335",
-    "tikName": "Нововаршавская"
+    "tikName": "Нововаршавская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1249,
     "uikTvd": "4554017161426",
+    "uikName": "УИК №1249",
     "tikTvd": "2552000897335",
-    "tikName": "Нововаршавская"
+    "tikName": "Нововаршавская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1250,
     "uikTvd": "4554017161427",
+    "uikName": "УИК №1250",
     "tikTvd": "2552000897335",
-    "tikName": "Нововаршавская"
+    "tikName": "Нововаршавская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1251,
     "uikTvd": "4554017161428",
+    "uikName": "УИК №1251",
     "tikTvd": "2552000897335",
-    "tikName": "Нововаршавская"
+    "tikName": "Нововаршавская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1252,
     "uikTvd": "4554017161429",
+    "uikName": "УИК №1252",
     "tikTvd": "2552000897335",
-    "tikName": "Нововаршавская"
+    "tikName": "Нововаршавская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1253,
     "uikTvd": "4554017161430",
+    "uikName": "УИК №1253",
     "tikTvd": "2552000897335",
-    "tikName": "Нововаршавская"
+    "tikName": "Нововаршавская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1254,
     "uikTvd": "4554017161431",
+    "uikName": "УИК №1254",
     "tikTvd": "2552000897335",
-    "tikName": "Нововаршавская"
+    "tikName": "Нововаршавская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1255,
     "uikTvd": "4554017161432",
+    "uikName": "УИК №1255",
     "tikTvd": "2552000897335",
-    "tikName": "Нововаршавская"
+    "tikName": "Нововаршавская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1256,
     "uikTvd": "4554017161433",
+    "uikName": "УИК №1256",
     "tikTvd": "2552000897335",
-    "tikName": "Нововаршавская"
+    "tikName": "Нововаршавская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1257,
     "uikTvd": "4554017161434",
+    "uikName": "УИК №1257",
     "tikTvd": "2552000897335",
-    "tikName": "Нововаршавская"
+    "tikName": "Нововаршавская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1258,
     "uikTvd": "4554017161435",
+    "uikName": "УИК №1258",
     "tikTvd": "2552000897335",
-    "tikName": "Нововаршавская"
+    "tikName": "Нововаршавская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1259,
     "uikTvd": "4554017161436",
+    "uikName": "УИК №1259",
     "tikTvd": "2552000897335",
-    "tikName": "Нововаршавская"
+    "tikName": "Нововаршавская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1260,
     "uikTvd": "4554017161437",
+    "uikName": "УИК №1260",
     "tikTvd": "2552000897335",
-    "tikName": "Нововаршавская"
+    "tikName": "Нововаршавская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1261,
     "uikTvd": "4554017161438",
+    "uikName": "УИК №1261",
     "tikTvd": "2552000897335",
-    "tikName": "Нововаршавская"
+    "tikName": "Нововаршавская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1262,
     "uikTvd": "4554017161439",
+    "uikName": "УИК №1262",
     "tikTvd": "2552000897335",
-    "tikName": "Нововаршавская"
+    "tikName": "Нововаршавская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1265,
     "uikTvd": "4554018137380",
+    "uikName": "УИК №1265",
     "tikTvd": "2552000897346",
-    "tikName": "Одесская"
+    "tikName": "Одесская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1266,
     "uikTvd": "4554018137381",
+    "uikName": "УИК №1266",
     "tikTvd": "2552000897346",
-    "tikName": "Одесская"
+    "tikName": "Одесская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1267,
     "uikTvd": "4554018137382",
+    "uikName": "УИК №1267",
     "tikTvd": "2552000897346",
-    "tikName": "Одесская"
+    "tikName": "Одесская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1268,
     "uikTvd": "4554018137383",
+    "uikName": "УИК №1268",
     "tikTvd": "2552000897346",
-    "tikName": "Одесская"
+    "tikName": "Одесская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1269,
     "uikTvd": "4554018137384",
+    "uikName": "УИК №1269",
     "tikTvd": "2552000897346",
-    "tikName": "Одесская"
+    "tikName": "Одесская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1270,
     "uikTvd": "4554018137385",
+    "uikName": "УИК №1270",
     "tikTvd": "2552000897346",
-    "tikName": "Одесская"
+    "tikName": "Одесская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1271,
     "uikTvd": "4554018137386",
+    "uikName": "УИК №1271",
     "tikTvd": "2552000897346",
-    "tikName": "Одесская"
+    "tikName": "Одесская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1272,
     "uikTvd": "4554018137387",
+    "uikName": "УИК №1272",
     "tikTvd": "2552000897346",
-    "tikName": "Одесская"
+    "tikName": "Одесская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1273,
     "uikTvd": "4554018137388",
+    "uikName": "УИК №1273",
     "tikTvd": "2552000897346",
-    "tikName": "Одесская"
+    "tikName": "Одесская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1274,
     "uikTvd": "4554018137389",
+    "uikName": "УИК №1274",
     "tikTvd": "2552000897346",
-    "tikName": "Одесская"
+    "tikName": "Одесская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1275,
     "uikTvd": "4554018137390",
+    "uikName": "УИК №1275",
     "tikTvd": "2552000897346",
-    "tikName": "Одесская"
+    "tikName": "Одесская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1276,
     "uikTvd": "4554018137391",
+    "uikName": "УИК №1276",
     "tikTvd": "2552000897346",
-    "tikName": "Одесская"
+    "tikName": "Одесская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1277,
     "uikTvd": "4554018137392",
+    "uikName": "УИК №1277",
     "tikTvd": "2552000897346",
-    "tikName": "Одесская"
+    "tikName": "Одесская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1278,
     "uikTvd": "4554018137393",
+    "uikName": "УИК №1278",
     "tikTvd": "2552000897346",
-    "tikName": "Одесская"
+    "tikName": "Одесская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1279,
     "uikTvd": "4554018137394",
+    "uikName": "УИК №1279",
     "tikTvd": "2552000897346",
-    "tikName": "Одесская"
+    "tikName": "Одесская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1280,
     "uikTvd": "4554018137395",
+    "uikName": "УИК №1280",
     "tikTvd": "2552000897346",
-    "tikName": "Одесская"
+    "tikName": "Одесская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1281,
     "uikTvd": "4554018137396",
+    "uikName": "УИК №1281",
     "tikTvd": "2552000897346",
-    "tikName": "Одесская"
+    "tikName": "Одесская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1282,
     "uikTvd": "4554018137397",
+    "uikName": "УИК №1282",
     "tikTvd": "2552000897346",
-    "tikName": "Одесская"
+    "tikName": "Одесская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1283,
     "uikTvd": "4554018137398",
+    "uikName": "УИК №1283",
     "tikTvd": "2552000897346",
-    "tikName": "Одесская"
+    "tikName": "Одесская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1284,
     "uikTvd": "4554018137399",
+    "uikName": "УИК №1284",
     "tikTvd": "2552000897346",
-    "tikName": "Одесская"
+    "tikName": "Одесская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1285,
     "uikTvd": "4554018137400",
+    "uikName": "УИК №1285",
     "tikTvd": "2552000897346",
-    "tikName": "Одесская"
+    "tikName": "Одесская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1286,
     "uikTvd": "4554019140188",
+    "uikName": "УИК №1286",
     "tikTvd": "2552000897336",
-    "tikName": "Оконешниковская"
+    "tikName": "Оконешниковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1287,
     "uikTvd": "4554019140189",
+    "uikName": "УИК №1287",
     "tikTvd": "2552000897336",
-    "tikName": "Оконешниковская"
+    "tikName": "Оконешниковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1288,
     "uikTvd": "4554019140190",
+    "uikName": "УИК №1288",
     "tikTvd": "2552000897336",
-    "tikName": "Оконешниковская"
+    "tikName": "Оконешниковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1289,
     "uikTvd": "4554019140191",
+    "uikName": "УИК №1289",
     "tikTvd": "2552000897336",
-    "tikName": "Оконешниковская"
+    "tikName": "Оконешниковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1290,
     "uikTvd": "4554019140192",
+    "uikName": "УИК №1290",
     "tikTvd": "2552000897336",
-    "tikName": "Оконешниковская"
+    "tikName": "Оконешниковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1292,
     "uikTvd": "4554019140193",
+    "uikName": "УИК №1292",
     "tikTvd": "2552000897336",
-    "tikName": "Оконешниковская"
+    "tikName": "Оконешниковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1293,
     "uikTvd": "4554019140194",
+    "uikName": "УИК №1293",
     "tikTvd": "2552000897336",
-    "tikName": "Оконешниковская"
+    "tikName": "Оконешниковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1294,
     "uikTvd": "4554019140195",
+    "uikName": "УИК №1294",
     "tikTvd": "2552000897336",
-    "tikName": "Оконешниковская"
+    "tikName": "Оконешниковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1295,
     "uikTvd": "4554019140196",
+    "uikName": "УИК №1295",
     "tikTvd": "2552000897336",
-    "tikName": "Оконешниковская"
+    "tikName": "Оконешниковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1296,
     "uikTvd": "4554019140197",
+    "uikName": "УИК №1296",
     "tikTvd": "2552000897336",
-    "tikName": "Оконешниковская"
+    "tikName": "Оконешниковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1297,
     "uikTvd": "4554019140198",
+    "uikName": "УИК №1297",
     "tikTvd": "2552000897336",
-    "tikName": "Оконешниковская"
+    "tikName": "Оконешниковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1298,
     "uikTvd": "4554019140199",
+    "uikName": "УИК №1298",
     "tikTvd": "2552000897336",
-    "tikName": "Оконешниковская"
+    "tikName": "Оконешниковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1299,
     "uikTvd": "4554019140200",
+    "uikName": "УИК №1299",
     "tikTvd": "2552000897336",
-    "tikName": "Оконешниковская"
+    "tikName": "Оконешниковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1300,
     "uikTvd": "4554019140201",
+    "uikName": "УИК №1300",
     "tikTvd": "2552000897336",
-    "tikName": "Оконешниковская"
+    "tikName": "Оконешниковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1301,
     "uikTvd": "4554019140202",
+    "uikName": "УИК №1301",
     "tikTvd": "2552000897336",
-    "tikName": "Оконешниковская"
+    "tikName": "Оконешниковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1302,
     "uikTvd": "4554019140203",
+    "uikName": "УИК №1302",
     "tikTvd": "2552000897336",
-    "tikName": "Оконешниковская"
+    "tikName": "Оконешниковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1305,
     "uikTvd": "4554019140204",
+    "uikName": "УИК №1305",
     "tikTvd": "2552000897336",
-    "tikName": "Оконешниковская"
+    "tikName": "Оконешниковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1306,
     "uikTvd": "4554019140205",
+    "uikName": "УИК №1306",
     "tikTvd": "2552000897336",
-    "tikName": "Оконешниковская"
+    "tikName": "Оконешниковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1307,
     "uikTvd": "4554019140206",
+    "uikName": "УИК №1307",
     "tikTvd": "2552000897336",
-    "tikName": "Оконешниковская"
+    "tikName": "Оконешниковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1308,
     "uikTvd": "4554019140207",
+    "uikName": "УИК №1308",
     "tikTvd": "2552000897336",
-    "tikName": "Оконешниковская"
+    "tikName": "Оконешниковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1310,
     "uikTvd": "4554019140208",
+    "uikName": "УИК №1310",
     "tikTvd": "2552000897336",
-    "tikName": "Оконешниковская"
+    "tikName": "Оконешниковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1311,
     "uikTvd": "4554019140209",
+    "uikName": "УИК №1311",
     "tikTvd": "2552000897336",
-    "tikName": "Оконешниковская"
+    "tikName": "Оконешниковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1312,
     "uikTvd": "4554019140210",
+    "uikName": "УИК №1312",
     "tikTvd": "2552000897336",
-    "tikName": "Оконешниковская"
+    "tikName": "Оконешниковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1313,
     "uikTvd": "4554019140211",
+    "uikName": "УИК №1313",
     "tikTvd": "2552000897336",
-    "tikName": "Оконешниковская"
+    "tikName": "Оконешниковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1314,
     "uikTvd": "4554019140212",
+    "uikName": "УИК №1314",
     "tikTvd": "2552000897336",
-    "tikName": "Оконешниковская"
+    "tikName": "Оконешниковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1315,
     "uikTvd": "4554019140213",
+    "uikName": "УИК №1315",
     "tikTvd": "2552000897336",
-    "tikName": "Оконешниковская"
+    "tikName": "Оконешниковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1316,
     "uikTvd": "4554019140214",
+    "uikName": "УИК №1316",
     "tikTvd": "2552000897336",
-    "tikName": "Оконешниковская"
+    "tikName": "Оконешниковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1317,
     "uikTvd": "4554019140215",
+    "uikName": "УИК №1317",
     "tikTvd": "2552000897336",
-    "tikName": "Оконешниковская"
+    "tikName": "Оконешниковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1318,
     "uikTvd": "4554019140216",
+    "uikName": "УИК №1318",
     "tikTvd": "2552000897336",
-    "tikName": "Оконешниковская"
+    "tikName": "Оконешниковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1321,
     "uikTvd": "4554027261363",
+    "uikName": "УИК №1321",
     "tikTvd": "2552000897340",
-    "tikName": "Омская"
+    "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1322,
     "uikTvd": "4554027261364",
+    "uikName": "УИК №1322",
     "tikTvd": "2552000897340",
-    "tikName": "Омская"
+    "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1323,
     "uikTvd": "4554027261365",
+    "uikName": "УИК №1323",
     "tikTvd": "2552000897340",
-    "tikName": "Омская"
+    "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1324,
     "uikTvd": "4554027261366",
+    "uikName": "УИК №1324",
     "tikTvd": "2552000897340",
-    "tikName": "Омская"
+    "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1325,
     "uikTvd": "4554027261399",
+    "uikName": "УИК №1325",
     "tikTvd": "2552000897349",
-    "tikName": "Омская"
+    "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1326,
     "uikTvd": "4554027261400",
+    "uikName": "УИК №1326",
     "tikTvd": "2552000897349",
-    "tikName": "Омская"
+    "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1327,
     "uikTvd": "4554027261401",
+    "uikName": "УИК №1327",
     "tikTvd": "2552000897349",
-    "tikName": "Омская"
+    "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1328,
     "uikTvd": "4554027261368",
+    "uikName": "УИК №1328",
     "tikTvd": "2552000897340",
-    "tikName": "Омская"
+    "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1329,
     "uikTvd": "4554027261369",
+    "uikName": "УИК №1329",
     "tikTvd": "2552000897340",
-    "tikName": "Омская"
+    "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1330,
     "uikTvd": "4554027261370",
+    "uikName": "УИК №1330",
     "tikTvd": "2552000897340",
-    "tikName": "Омская"
+    "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1331,
     "uikTvd": "4554027261453",
+    "uikName": "УИК №1331",
     "tikTvd": "2552000897363",
-    "tikName": "Омская"
+    "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1332,
     "uikTvd": "4554027261454",
+    "uikName": "УИК №1332",
     "tikTvd": "2552000897363",
-    "tikName": "Омская"
+    "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1333,
     "uikTvd": "4554027261455",
+    "uikName": "УИК №1333",
     "tikTvd": "2552000897363",
-    "tikName": "Омская"
+    "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1334,
     "uikTvd": "4554027261456",
+    "uikName": "УИК №1334",
     "tikTvd": "2552000897363",
-    "tikName": "Омская"
+    "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1335,
     "uikTvd": "4554027261403",
+    "uikName": "УИК №1335",
     "tikTvd": "2552000897349",
-    "tikName": "Омская"
+    "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1336,
     "uikTvd": "4554027261418",
+    "uikName": "УИК №1336",
     "tikTvd": "2552000897349",
-    "tikName": "Омская"
+    "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1337,
     "uikTvd": "4554027261419",
+    "uikName": "УИК №1337",
     "tikTvd": "2552000897349",
-    "tikName": "Омская"
+    "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1338,
     "uikTvd": "4554027261457",
+    "uikName": "УИК №1338",
     "tikTvd": "2552000897363",
-    "tikName": "Омская"
+    "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1339,
     "uikTvd": "4554027261458",
+    "uikName": "УИК №1339",
     "tikTvd": "2552000897363",
-    "tikName": "Омская"
+    "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1340,
     "uikTvd": "4554027261459",
+    "uikName": "УИК №1340",
     "tikTvd": "2552000897363",
-    "tikName": "Омская"
+    "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1341,
     "uikTvd": "4554027261421",
+    "uikName": "УИК №1341",
     "tikTvd": "2552000897349",
-    "tikName": "Омская"
+    "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1342,
     "uikTvd": "4554027261422",
+    "uikName": "УИК №1342",
     "tikTvd": "2552000897349",
-    "tikName": "Омская"
+    "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1343,
     "uikTvd": "4554027261423",
+    "uikName": "УИК №1343",
     "tikTvd": "2552000897349",
-    "tikName": "Омская"
+    "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1344,
     "uikTvd": "4554027261424",
+    "uikName": "УИК №1344",
     "tikTvd": "2552000897349",
-    "tikName": "Омская"
+    "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1345,
     "uikTvd": "4554027261372",
+    "uikName": "УИК №1345",
     "tikTvd": "2552000897340",
-    "tikName": "Омская"
+    "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1346,
     "uikTvd": "4554027261373",
+    "uikName": "УИК №1346",
     "tikTvd": "2552000897340",
-    "tikName": "Омская"
+    "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1347,
     "uikTvd": "4554027261374",
+    "uikName": "УИК №1347",
     "tikTvd": "2552000897340",
-    "tikName": "Омская"
+    "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1348,
     "uikTvd": "4554027261375",
+    "uikName": "УИК №1348",
     "tikTvd": "2552000897340",
-    "tikName": "Омская"
+    "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1349,
     "uikTvd": "4554027261426",
+    "uikName": "УИК №1349",
     "tikTvd": "2552000897349",
-    "tikName": "Омская"
+    "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1350,
     "uikTvd": "4554027261427",
+    "uikName": "УИК №1350",
     "tikTvd": "2552000897349",
-    "tikName": "Омская"
+    "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1351,
     "uikTvd": "4554027261428",
+    "uikName": "УИК №1351",
     "tikTvd": "2552000897349",
-    "tikName": "Омская"
+    "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1352,
     "uikTvd": "4554027261429",
+    "uikName": "УИК №1352",
     "tikTvd": "2552000897349",
-    "tikName": "Омская"
+    "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1353,
     "uikTvd": "4554027261430",
+    "uikName": "УИК №1353",
     "tikTvd": "2552000897349",
-    "tikName": "Омская"
+    "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1354,
     "uikTvd": "4554027261431",
+    "uikName": "УИК №1354",
     "tikTvd": "2552000897349",
-    "tikName": "Омская"
+    "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1355,
     "uikTvd": "4554027261433",
+    "uikName": "УИК №1355",
     "tikTvd": "2552000897349",
-    "tikName": "Омская"
+    "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1356,
     "uikTvd": "4554027261434",
+    "uikName": "УИК №1356",
     "tikTvd": "2552000897349",
-    "tikName": "Омская"
+    "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1357,
     "uikTvd": "4554027261435",
+    "uikName": "УИК №1357",
     "tikTvd": "2552000897349",
-    "tikName": "Омская"
+    "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1358,
     "uikTvd": "4554027261436",
+    "uikName": "УИК №1358",
     "tikTvd": "2552000897349",
-    "tikName": "Омская"
+    "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1359,
     "uikTvd": "4554027261437",
+    "uikName": "УИК №1359",
     "tikTvd": "2552000897349",
-    "tikName": "Омская"
+    "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1360,
     "uikTvd": "4554027261460",
+    "uikName": "УИК №1360",
     "tikTvd": "2552000897363",
-    "tikName": "Омская"
+    "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1361,
     "uikTvd": "4554027261461",
+    "uikName": "УИК №1361",
     "tikTvd": "2552000897363",
-    "tikName": "Омская"
+    "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1362,
     "uikTvd": "4554027261439",
+    "uikName": "УИК №1362",
     "tikTvd": "2552000897349",
-    "tikName": "Омская"
+    "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1363,
     "uikTvd": "4554027261440",
+    "uikName": "УИК №1363",
     "tikTvd": "2552000897349",
-    "tikName": "Омская"
+    "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1364,
     "uikTvd": "4554027261441",
+    "uikName": "УИК №1364",
     "tikTvd": "2552000897349",
-    "tikName": "Омская"
+    "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1365,
     "uikTvd": "4554027261442",
+    "uikName": "УИК №1365",
     "tikTvd": "2552000897349",
-    "tikName": "Омская"
+    "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1366,
     "uikTvd": "4554027261462",
+    "uikName": "УИК №1366",
     "tikTvd": "2552000897363",
-    "tikName": "Омская"
+    "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1367,
     "uikTvd": "4554027261463",
+    "uikName": "УИК №1367",
     "tikTvd": "2552000897363",
-    "tikName": "Омская"
+    "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1368,
     "uikTvd": "4554027261464",
+    "uikName": "УИК №1368",
     "tikTvd": "2552000897363",
-    "tikName": "Омская"
+    "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1369,
     "uikTvd": "4554027261465",
+    "uikName": "УИК №1369",
     "tikTvd": "2552000897363",
-    "tikName": "Омская"
+    "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1370,
     "uikTvd": "4554027261377",
+    "uikName": "УИК №1370",
     "tikTvd": "2552000897340",
-    "tikName": "Омская"
+    "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1371,
     "uikTvd": "4554027261378",
+    "uikName": "УИК №1371",
     "tikTvd": "2552000897340",
-    "tikName": "Омская"
+    "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1372,
     "uikTvd": "4554027261379",
+    "uikName": "УИК №1372",
     "tikTvd": "2552000897340",
-    "tikName": "Омская"
+    "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1373,
     "uikTvd": "4554027261380",
+    "uikName": "УИК №1373",
     "tikTvd": "2552000897340",
-    "tikName": "Омская"
+    "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1374,
     "uikTvd": "4554027261381",
+    "uikName": "УИК №1374",
     "tikTvd": "2552000897340",
-    "tikName": "Омская"
+    "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1375,
     "uikTvd": "4554027261382",
+    "uikName": "УИК №1375",
     "tikTvd": "2552000897340",
-    "tikName": "Омская"
+    "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1376,
     "uikTvd": "4554027261384",
+    "uikName": "УИК №1376",
     "tikTvd": "2552000897340",
-    "tikName": "Омская"
+    "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1377,
     "uikTvd": "4554027261385",
+    "uikName": "УИК №1377",
     "tikTvd": "2552000897340",
-    "tikName": "Омская"
+    "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1378,
     "uikTvd": "4554027261386",
+    "uikName": "УИК №1378",
     "tikTvd": "2552000897340",
-    "tikName": "Омская"
+    "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1379,
     "uikTvd": "4554027261387",
+    "uikName": "УИК №1379",
     "tikTvd": "2552000897340",
-    "tikName": "Омская"
+    "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1380,
     "uikTvd": "4554027261466",
+    "uikName": "УИК №1380",
     "tikTvd": "2552000897363",
-    "tikName": "Омская"
+    "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1381,
     "uikTvd": "4554027261467",
+    "uikName": "УИК №1381",
     "tikTvd": "2552000897363",
-    "tikName": "Омская"
+    "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1382,
     "uikTvd": "4554027261468",
+    "uikName": "УИК №1382",
     "tikTvd": "2552000897363",
-    "tikName": "Омская"
+    "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1383,
     "uikTvd": "4554027261444",
+    "uikName": "УИК №1383",
     "tikTvd": "2552000897349",
-    "tikName": "Омская"
+    "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1384,
     "uikTvd": "4554027261445",
+    "uikName": "УИК №1384",
     "tikTvd": "2552000897349",
-    "tikName": "Омская"
+    "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1385,
     "uikTvd": "4554027261389",
+    "uikName": "УИК №1385",
     "tikTvd": "2552000897340",
-    "tikName": "Омская"
+    "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1386,
     "uikTvd": "4554027261390",
+    "uikName": "УИК №1386",
     "tikTvd": "2552000897340",
-    "tikName": "Омская"
+    "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1387,
     "uikTvd": "4554027261391",
+    "uikName": "УИК №1387",
     "tikTvd": "2552000897340",
-    "tikName": "Омская"
+    "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1388,
     "uikTvd": "4554027261447",
+    "uikName": "УИК №1388",
     "tikTvd": "2552000897349",
-    "tikName": "Омская"
+    "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1389,
     "uikTvd": "4554027261448",
+    "uikName": "УИК №1389",
     "tikTvd": "2552000897349",
-    "tikName": "Омская"
+    "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1390,
     "uikTvd": "4554027261449",
+    "uikName": "УИК №1390",
     "tikTvd": "2552000897349",
-    "tikName": "Омская"
+    "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1391,
     "uikTvd": "4554027261450",
+    "uikName": "УИК №1391",
     "tikTvd": "2552000897349",
-    "tikName": "Омская"
+    "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1392,
     "uikTvd": "4554027261451",
+    "uikName": "УИК №1392",
     "tikTvd": "2552000897349",
-    "tikName": "Омская"
+    "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1393,
     "uikTvd": "4554027261469",
+    "uikName": "УИК №1393",
     "tikTvd": "2552000897363",
-    "tikName": "Омская"
+    "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1394,
     "uikTvd": "4554027261470",
+    "uikName": "УИК №1394",
     "tikTvd": "2552000897363",
-    "tikName": "Омская"
+    "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1395,
     "uikTvd": "4554027261405",
+    "uikName": "УИК №1395",
     "tikTvd": "2552000897349",
-    "tikName": "Омская"
+    "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1400,
     "uikTvd": "4554028163212",
+    "uikName": "УИК №1400",
     "tikTvd": "2552000897337",
-    "tikName": "Павлоградская"
+    "tikName": "Павлоградская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1401,
     "uikTvd": "4554028163213",
+    "uikName": "УИК №1401",
     "tikTvd": "2552000897337",
-    "tikName": "Павлоградская"
+    "tikName": "Павлоградская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1402,
     "uikTvd": "4554028163214",
+    "uikName": "УИК №1402",
     "tikTvd": "2552000897337",
-    "tikName": "Павлоградская"
+    "tikName": "Павлоградская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1403,
     "uikTvd": "4554028163215",
+    "uikName": "УИК №1403",
     "tikTvd": "2552000897337",
-    "tikName": "Павлоградская"
+    "tikName": "Павлоградская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1404,
     "uikTvd": "4554028163216",
+    "uikName": "УИК №1404",
     "tikTvd": "2552000897337",
-    "tikName": "Павлоградская"
+    "tikName": "Павлоградская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1405,
     "uikTvd": "4554028163217",
+    "uikName": "УИК №1405",
     "tikTvd": "2552000897337",
-    "tikName": "Павлоградская"
+    "tikName": "Павлоградская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1406,
     "uikTvd": "4554028163218",
+    "uikName": "УИК №1406",
     "tikTvd": "2552000897337",
-    "tikName": "Павлоградская"
+    "tikName": "Павлоградская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1407,
     "uikTvd": "4554028163219",
+    "uikName": "УИК №1407",
     "tikTvd": "2552000897337",
-    "tikName": "Павлоградская"
+    "tikName": "Павлоградская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1408,
     "uikTvd": "4554028163220",
+    "uikName": "УИК №1408",
     "tikTvd": "2552000897337",
-    "tikName": "Павлоградская"
+    "tikName": "Павлоградская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1409,
     "uikTvd": "4554028163221",
+    "uikName": "УИК №1409",
     "tikTvd": "2552000897337",
-    "tikName": "Павлоградская"
+    "tikName": "Павлоградская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1410,
     "uikTvd": "4554028163222",
+    "uikName": "УИК №1410",
     "tikTvd": "2552000897337",
-    "tikName": "Павлоградская"
+    "tikName": "Павлоградская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1411,
     "uikTvd": "4554028163223",
+    "uikName": "УИК №1411",
     "tikTvd": "2552000897337",
-    "tikName": "Павлоградская"
+    "tikName": "Павлоградская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1412,
     "uikTvd": "4554028163224",
+    "uikName": "УИК №1412",
     "tikTvd": "2552000897337",
-    "tikName": "Павлоградская"
+    "tikName": "Павлоградская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1413,
     "uikTvd": "4554028163225",
+    "uikName": "УИК №1413",
     "tikTvd": "2552000897337",
-    "tikName": "Павлоградская"
+    "tikName": "Павлоградская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1414,
     "uikTvd": "4554028163226",
+    "uikName": "УИК №1414",
     "tikTvd": "2552000897337",
-    "tikName": "Павлоградская"
+    "tikName": "Павлоградская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1415,
     "uikTvd": "4554028163227",
+    "uikName": "УИК №1415",
     "tikTvd": "2552000897337",
-    "tikName": "Павлоградская"
+    "tikName": "Павлоградская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1416,
     "uikTvd": "4554028163228",
+    "uikName": "УИК №1416",
     "tikTvd": "2552000897337",
-    "tikName": "Павлоградская"
+    "tikName": "Павлоградская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1417,
     "uikTvd": "4554028163229",
+    "uikName": "УИК №1417",
     "tikTvd": "2552000897337",
-    "tikName": "Павлоградская"
+    "tikName": "Павлоградская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1418,
     "uikTvd": "4554028163230",
+    "uikName": "УИК №1418",
     "tikTvd": "2552000897337",
-    "tikName": "Павлоградская"
+    "tikName": "Павлоградская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1419,
     "uikTvd": "4554028163231",
+    "uikName": "УИК №1419",
     "tikTvd": "2552000897337",
-    "tikName": "Павлоградская"
+    "tikName": "Павлоградская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1420,
     "uikTvd": "4554028163232",
+    "uikName": "УИК №1420",
     "tikTvd": "2552000897337",
-    "tikName": "Павлоградская"
+    "tikName": "Павлоградская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1421,
     "uikTvd": "4554028163233",
+    "uikName": "УИК №1421",
     "tikTvd": "2552000897337",
-    "tikName": "Павлоградская"
+    "tikName": "Павлоградская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1422,
     "uikTvd": "4554028163234",
+    "uikName": "УИК №1422",
     "tikTvd": "2552000897337",
-    "tikName": "Павлоградская"
+    "tikName": "Павлоградская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1423,
     "uikTvd": "4554028163235",
+    "uikName": "УИК №1423",
     "tikTvd": "2552000897337",
-    "tikName": "Павлоградская"
+    "tikName": "Павлоградская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1424,
     "uikTvd": "4554028163236",
+    "uikName": "УИК №1424",
     "tikTvd": "2552000897337",
-    "tikName": "Павлоградская"
+    "tikName": "Павлоградская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1425,
     "uikTvd": "4554028163237",
+    "uikName": "УИК №1425",
     "tikTvd": "2552000897337",
-    "tikName": "Павлоградская"
+    "tikName": "Павлоградская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1426,
     "uikTvd": "4554028163238",
+    "uikName": "УИК №1426",
     "tikTvd": "2552000897337",
-    "tikName": "Павлоградская"
+    "tikName": "Павлоградская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1427,
     "uikTvd": "4554028163239",
+    "uikName": "УИК №1427",
     "tikTvd": "2552000897337",
-    "tikName": "Павлоградская"
+    "tikName": "Павлоградская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1428,
     "uikTvd": "4554028163240",
+    "uikName": "УИК №1428",
     "tikTvd": "2552000897337",
-    "tikName": "Павлоградская"
+    "tikName": "Павлоградская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1429,
     "uikTvd": "4554028163241",
+    "uikName": "УИК №1429",
     "tikTvd": "2552000897337",
-    "tikName": "Павлоградская"
+    "tikName": "Павлоградская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1430,
     "uikTvd": "4554028163242",
+    "uikName": "УИК №1430",
     "tikTvd": "2552000897337",
-    "tikName": "Павлоградская"
+    "tikName": "Павлоградская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1431,
     "uikTvd": "4554028163243",
+    "uikName": "УИК №1431",
     "tikTvd": "2552000897337",
-    "tikName": "Павлоградская"
+    "tikName": "Павлоградская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1432,
     "uikTvd": "4554028163244",
+    "uikName": "УИК №1432",
     "tikTvd": "2552000897337",
-    "tikName": "Павлоградская"
+    "tikName": "Павлоградская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1433,
     "uikTvd": "4554028163245",
+    "uikName": "УИК №1433",
     "tikTvd": "2552000897337",
-    "tikName": "Павлоградская"
+    "tikName": "Павлоградская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1434,
     "uikTvd": "4554028163246",
+    "uikName": "УИК №1434",
     "tikTvd": "2552000897337",
-    "tikName": "Павлоградская"
+    "tikName": "Павлоградская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1438,
     "uikTvd": "4554029153237",
+    "uikName": "УИК №1438",
     "tikTvd": "2552000897350",
-    "tikName": "Полтавская"
+    "tikName": "Полтавская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1439,
     "uikTvd": "4554029153238",
+    "uikName": "УИК №1439",
     "tikTvd": "2552000897350",
-    "tikName": "Полтавская"
+    "tikName": "Полтавская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1440,
     "uikTvd": "4554029153239",
+    "uikName": "УИК №1440",
     "tikTvd": "2552000897350",
-    "tikName": "Полтавская"
+    "tikName": "Полтавская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1441,
     "uikTvd": "4554029153240",
+    "uikName": "УИК №1441",
     "tikTvd": "2552000897350",
-    "tikName": "Полтавская"
+    "tikName": "Полтавская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1442,
     "uikTvd": "4554029153241",
+    "uikName": "УИК №1442",
     "tikTvd": "2552000897350",
-    "tikName": "Полтавская"
+    "tikName": "Полтавская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1443,
     "uikTvd": "4554029153242",
+    "uikName": "УИК №1443",
     "tikTvd": "2552000897350",
-    "tikName": "Полтавская"
+    "tikName": "Полтавская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1444,
     "uikTvd": "4554029153243",
+    "uikName": "УИК №1444",
     "tikTvd": "2552000897350",
-    "tikName": "Полтавская"
+    "tikName": "Полтавская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1445,
     "uikTvd": "4554029153244",
+    "uikName": "УИК №1445",
     "tikTvd": "2552000897350",
-    "tikName": "Полтавская"
+    "tikName": "Полтавская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1446,
     "uikTvd": "4554029153245",
+    "uikName": "УИК №1446",
     "tikTvd": "2552000897350",
-    "tikName": "Полтавская"
+    "tikName": "Полтавская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1447,
     "uikTvd": "4554029153246",
+    "uikName": "УИК №1447",
     "tikTvd": "2552000897350",
-    "tikName": "Полтавская"
+    "tikName": "Полтавская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1448,
     "uikTvd": "4554029153247",
+    "uikName": "УИК №1448",
     "tikTvd": "2552000897350",
-    "tikName": "Полтавская"
+    "tikName": "Полтавская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1449,
     "uikTvd": "4554029153248",
+    "uikName": "УИК №1449",
     "tikTvd": "2552000897350",
-    "tikName": "Полтавская"
+    "tikName": "Полтавская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1450,
     "uikTvd": "4554029153249",
+    "uikName": "УИК №1450",
     "tikTvd": "2552000897350",
-    "tikName": "Полтавская"
+    "tikName": "Полтавская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1451,
     "uikTvd": "4554029153250",
+    "uikName": "УИК №1451",
     "tikTvd": "2552000897350",
-    "tikName": "Полтавская"
+    "tikName": "Полтавская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1452,
     "uikTvd": "4554029153251",
+    "uikName": "УИК №1452",
     "tikTvd": "2552000897350",
-    "tikName": "Полтавская"
+    "tikName": "Полтавская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1453,
     "uikTvd": "4554029153252",
+    "uikName": "УИК №1453",
     "tikTvd": "2552000897350",
-    "tikName": "Полтавская"
+    "tikName": "Полтавская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1454,
     "uikTvd": "4554029153253",
+    "uikName": "УИК №1454",
     "tikTvd": "2552000897350",
-    "tikName": "Полтавская"
+    "tikName": "Полтавская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1455,
     "uikTvd": "4554029153254",
+    "uikName": "УИК №1455",
     "tikTvd": "2552000897350",
-    "tikName": "Полтавская"
+    "tikName": "Полтавская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1456,
     "uikTvd": "4554029153255",
+    "uikName": "УИК №1456",
     "tikTvd": "2552000897350",
-    "tikName": "Полтавская"
+    "tikName": "Полтавская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1457,
     "uikTvd": "4554029153256",
+    "uikName": "УИК №1457",
     "tikTvd": "2552000897350",
-    "tikName": "Полтавская"
+    "tikName": "Полтавская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1458,
     "uikTvd": "4554029153257",
+    "uikName": "УИК №1458",
     "tikTvd": "2552000897350",
-    "tikName": "Полтавская"
+    "tikName": "Полтавская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1459,
     "uikTvd": "4554029153258",
+    "uikName": "УИК №1459",
     "tikTvd": "2552000897350",
-    "tikName": "Полтавская"
+    "tikName": "Полтавская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1460,
     "uikTvd": "4554029153259",
+    "uikName": "УИК №1460",
     "tikTvd": "2552000897350",
-    "tikName": "Полтавская"
+    "tikName": "Полтавская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1461,
     "uikTvd": "4554029153260",
+    "uikName": "УИК №1461",
     "tikTvd": "2552000897350",
-    "tikName": "Полтавская"
+    "tikName": "Полтавская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1462,
     "uikTvd": "4554029153261",
+    "uikName": "УИК №1462",
     "tikTvd": "2552000897350",
-    "tikName": "Полтавская"
+    "tikName": "Полтавская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1463,
     "uikTvd": "4554029153262",
+    "uikName": "УИК №1463",
     "tikTvd": "2552000897350",
-    "tikName": "Полтавская"
+    "tikName": "Полтавская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1464,
     "uikTvd": "4554029153263",
+    "uikName": "УИК №1464",
     "tikTvd": "2552000897350",
-    "tikName": "Полтавская"
+    "tikName": "Полтавская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1465,
     "uikTvd": "4554029153264",
+    "uikName": "УИК №1465",
     "tikTvd": "2552000897350",
-    "tikName": "Полтавская"
+    "tikName": "Полтавская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1466,
     "uikTvd": "4554029153265",
+    "uikName": "УИК №1466",
     "tikTvd": "2552000897350",
-    "tikName": "Полтавская"
+    "tikName": "Полтавская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1467,
     "uikTvd": "4554029153266",
+    "uikName": "УИК №1467",
     "tikTvd": "2552000897350",
-    "tikName": "Полтавская"
+    "tikName": "Полтавская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1468,
     "uikTvd": "4554029153267",
+    "uikName": "УИК №1468",
     "tikTvd": "2552000897350",
-    "tikName": "Полтавская"
+    "tikName": "Полтавская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1469,
     "uikTvd": "4554029153268",
+    "uikName": "УИК №1469",
     "tikTvd": "2552000897350",
-    "tikName": "Полтавская"
+    "tikName": "Полтавская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1470,
     "uikTvd": "4554029153269",
+    "uikName": "УИК №1470",
     "tikTvd": "2552000897350",
-    "tikName": "Полтавская"
+    "tikName": "Полтавская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1471,
     "uikTvd": "4554029153270",
+    "uikName": "УИК №1471",
     "tikTvd": "2552000897350",
-    "tikName": "Полтавская"
+    "tikName": "Полтавская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1472,
     "uikTvd": "4554029153271",
+    "uikName": "УИК №1472",
     "tikTvd": "2552000897350",
-    "tikName": "Полтавская"
+    "tikName": "Полтавская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1473,
     "uikTvd": "4554029153272",
+    "uikName": "УИК №1473",
     "tikTvd": "2552000897350",
-    "tikName": "Полтавская"
+    "tikName": "Полтавская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1474,
     "uikTvd": "4554029153273",
+    "uikName": "УИК №1474",
     "tikTvd": "2552000897350",
-    "tikName": "Полтавская"
+    "tikName": "Полтавская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1475,
     "uikTvd": "4554029153274",
+    "uikName": "УИК №1475",
     "tikTvd": "2552000897350",
-    "tikName": "Полтавская"
+    "tikName": "Полтавская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1476,
     "uikTvd": "4554029153275",
+    "uikName": "УИК №1476",
     "tikTvd": "2552000897350",
-    "tikName": "Полтавская"
+    "tikName": "Полтавская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1477,
     "uikTvd": "4554029153276",
+    "uikName": "УИК №1477",
     "tikTvd": "2552000897350",
-    "tikName": "Полтавская"
+    "tikName": "Полтавская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1482,
     "uikTvd": "4554030165229",
+    "uikName": "УИК №1482",
     "tikTvd": "2552000897338",
-    "tikName": "Русско-Полянская"
+    "tikName": "Русско-Полянская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1483,
     "uikTvd": "4554030165230",
+    "uikName": "УИК №1483",
     "tikTvd": "2552000897338",
-    "tikName": "Русско-Полянская"
+    "tikName": "Русско-Полянская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1484,
     "uikTvd": "4554030165231",
+    "uikName": "УИК №1484",
     "tikTvd": "2552000897338",
-    "tikName": "Русско-Полянская"
+    "tikName": "Русско-Полянская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1485,
     "uikTvd": "4554030165232",
+    "uikName": "УИК №1485",
     "tikTvd": "2552000897338",
-    "tikName": "Русско-Полянская"
+    "tikName": "Русско-Полянская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1486,
     "uikTvd": "4554030165233",
+    "uikName": "УИК №1486",
     "tikTvd": "2552000897338",
-    "tikName": "Русско-Полянская"
+    "tikName": "Русско-Полянская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1487,
     "uikTvd": "4554030165234",
+    "uikName": "УИК №1487",
     "tikTvd": "2552000897338",
-    "tikName": "Русско-Полянская"
+    "tikName": "Русско-Полянская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1488,
     "uikTvd": "4554030165235",
+    "uikName": "УИК №1488",
     "tikTvd": "2552000897338",
-    "tikName": "Русско-Полянская"
+    "tikName": "Русско-Полянская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1489,
     "uikTvd": "4554030165236",
+    "uikName": "УИК №1489",
     "tikTvd": "2552000897338",
-    "tikName": "Русско-Полянская"
+    "tikName": "Русско-Полянская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1490,
     "uikTvd": "4554030165237",
+    "uikName": "УИК №1490",
     "tikTvd": "2552000897338",
-    "tikName": "Русско-Полянская"
+    "tikName": "Русско-Полянская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1491,
     "uikTvd": "4554030165238",
+    "uikName": "УИК №1491",
     "tikTvd": "2552000897338",
-    "tikName": "Русско-Полянская"
+    "tikName": "Русско-Полянская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1492,
     "uikTvd": "4554030165239",
+    "uikName": "УИК №1492",
     "tikTvd": "2552000897338",
-    "tikName": "Русско-Полянская"
+    "tikName": "Русско-Полянская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1493,
     "uikTvd": "4554030165240",
+    "uikName": "УИК №1493",
     "tikTvd": "2552000897338",
-    "tikName": "Русско-Полянская"
+    "tikName": "Русско-Полянская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1494,
     "uikTvd": "4554030165241",
+    "uikName": "УИК №1494",
     "tikTvd": "2552000897338",
-    "tikName": "Русско-Полянская"
+    "tikName": "Русско-Полянская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1495,
     "uikTvd": "4554030165242",
+    "uikName": "УИК №1495",
     "tikTvd": "2552000897338",
-    "tikName": "Русско-Полянская"
+    "tikName": "Русско-Полянская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1496,
     "uikTvd": "4554030165243",
+    "uikName": "УИК №1496",
     "tikTvd": "2552000897338",
-    "tikName": "Русско-Полянская"
+    "tikName": "Русско-Полянская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1497,
     "uikTvd": "4554030165244",
+    "uikName": "УИК №1497",
     "tikTvd": "2552000897338",
-    "tikName": "Русско-Полянская"
+    "tikName": "Русско-Полянская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1498,
     "uikTvd": "4554030165245",
+    "uikName": "УИК №1498",
     "tikTvd": "2552000897338",
-    "tikName": "Русско-Полянская"
+    "tikName": "Русско-Полянская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1499,
     "uikTvd": "4554030165246",
+    "uikName": "УИК №1499",
     "tikTvd": "2552000897338",
-    "tikName": "Русско-Полянская"
+    "tikName": "Русско-Полянская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1500,
     "uikTvd": "4554030165247",
+    "uikName": "УИК №1500",
     "tikTvd": "2552000897338",
-    "tikName": "Русско-Полянская"
+    "tikName": "Русско-Полянская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1501,
     "uikTvd": "4554030165248",
+    "uikName": "УИК №1501",
     "tikTvd": "2552000897338",
-    "tikName": "Русско-Полянская"
+    "tikName": "Русско-Полянская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1502,
     "uikTvd": "4554030165249",
+    "uikName": "УИК №1502",
     "tikTvd": "2552000897338",
-    "tikName": "Русско-Полянская"
+    "tikName": "Русско-Полянская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1503,
     "uikTvd": "4554030165250",
+    "uikName": "УИК №1503",
     "tikTvd": "2552000897338",
-    "tikName": "Русско-Полянская"
+    "tikName": "Русско-Полянская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1504,
     "uikTvd": "4554030165251",
+    "uikName": "УИК №1504",
     "tikTvd": "2552000897338",
-    "tikName": "Русско-Полянская"
+    "tikName": "Русско-Полянская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1505,
     "uikTvd": "4554030165252",
+    "uikName": "УИК №1505",
     "tikTvd": "2552000897338",
-    "tikName": "Русско-Полянская"
+    "tikName": "Русско-Полянская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1506,
     "uikTvd": "4554030165253",
+    "uikName": "УИК №1506",
     "tikTvd": "2552000897338",
-    "tikName": "Русско-Полянская"
+    "tikName": "Русско-Полянская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1507,
     "uikTvd": "4554030165254",
+    "uikName": "УИК №1507",
     "tikTvd": "2552000897338",
-    "tikName": "Русско-Полянская"
+    "tikName": "Русско-Полянская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1508,
     "uikTvd": "4554030165255",
+    "uikName": "УИК №1508",
     "tikTvd": "2552000897338",
-    "tikName": "Русско-Полянская"
+    "tikName": "Русско-Полянская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1509,
     "uikTvd": "4554030165256",
+    "uikName": "УИК №1509",
     "tikTvd": "2552000897338",
-    "tikName": "Русско-Полянская"
+    "tikName": "Русско-Полянская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1510,
     "uikTvd": "4554030165257",
+    "uikName": "УИК №1510",
     "tikTvd": "2552000897338",
-    "tikName": "Русско-Полянская"
+    "tikName": "Русско-Полянская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1511,
     "uikTvd": "4554030165258",
+    "uikName": "УИК №1511",
     "tikTvd": "2552000897338",
-    "tikName": "Русско-Полянская"
+    "tikName": "Русско-Полянская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1515,
     "uikTvd": "4554031170906",
+    "uikName": "УИК №1515",
     "tikTvd": "2552000897364",
-    "tikName": "Саргатская"
+    "tikName": "Саргатская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1516,
     "uikTvd": "4554031170907",
+    "uikName": "УИК №1516",
     "tikTvd": "2552000897364",
-    "tikName": "Саргатская"
+    "tikName": "Саргатская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1517,
     "uikTvd": "4554031170908",
+    "uikName": "УИК №1517",
     "tikTvd": "2552000897364",
-    "tikName": "Саргатская"
+    "tikName": "Саргатская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1518,
     "uikTvd": "4554031170909",
+    "uikName": "УИК №1518",
     "tikTvd": "2552000897364",
-    "tikName": "Саргатская"
+    "tikName": "Саргатская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1519,
     "uikTvd": "4554031170910",
+    "uikName": "УИК №1519",
     "tikTvd": "2552000897364",
-    "tikName": "Саргатская"
+    "tikName": "Саргатская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1520,
     "uikTvd": "4554031170911",
+    "uikName": "УИК №1520",
     "tikTvd": "2552000897364",
-    "tikName": "Саргатская"
+    "tikName": "Саргатская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1521,
     "uikTvd": "4554031170912",
+    "uikName": "УИК №1521",
     "tikTvd": "2552000897364",
-    "tikName": "Саргатская"
+    "tikName": "Саргатская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1522,
     "uikTvd": "4554031170913",
+    "uikName": "УИК №1522",
     "tikTvd": "2552000897364",
-    "tikName": "Саргатская"
+    "tikName": "Саргатская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1523,
     "uikTvd": "4554031170914",
+    "uikName": "УИК №1523",
     "tikTvd": "2552000897364",
-    "tikName": "Саргатская"
+    "tikName": "Саргатская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1524,
     "uikTvd": "4554031170915",
+    "uikName": "УИК №1524",
     "tikTvd": "2552000897364",
-    "tikName": "Саргатская"
+    "tikName": "Саргатская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1525,
     "uikTvd": "4554031170916",
+    "uikName": "УИК №1525",
     "tikTvd": "2552000897364",
-    "tikName": "Саргатская"
+    "tikName": "Саргатская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1526,
     "uikTvd": "4554031170917",
+    "uikName": "УИК №1526",
     "tikTvd": "2552000897364",
-    "tikName": "Саргатская"
+    "tikName": "Саргатская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1527,
     "uikTvd": "4554031170918",
+    "uikName": "УИК №1527",
     "tikTvd": "2552000897364",
-    "tikName": "Саргатская"
+    "tikName": "Саргатская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1528,
     "uikTvd": "4554031170919",
+    "uikName": "УИК №1528",
     "tikTvd": "2552000897364",
-    "tikName": "Саргатская"
+    "tikName": "Саргатская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1529,
     "uikTvd": "4554031170920",
+    "uikName": "УИК №1529",
     "tikTvd": "2552000897364",
-    "tikName": "Саргатская"
+    "tikName": "Саргатская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1530,
     "uikTvd": "4554031170921",
+    "uikName": "УИК №1530",
     "tikTvd": "2552000897364",
-    "tikName": "Саргатская"
+    "tikName": "Саргатская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1531,
     "uikTvd": "4554031170922",
+    "uikName": "УИК №1531",
     "tikTvd": "2552000897364",
-    "tikName": "Саргатская"
+    "tikName": "Саргатская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1532,
     "uikTvd": "4554031170923",
+    "uikName": "УИК №1532",
     "tikTvd": "2552000897364",
-    "tikName": "Саргатская"
+    "tikName": "Саргатская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1533,
     "uikTvd": "4554031170924",
+    "uikName": "УИК №1533",
     "tikTvd": "2552000897364",
-    "tikName": "Саргатская"
+    "tikName": "Саргатская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1534,
     "uikTvd": "4554031170925",
+    "uikName": "УИК №1534",
     "tikTvd": "2552000897364",
-    "tikName": "Саргатская"
+    "tikName": "Саргатская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1535,
     "uikTvd": "4554031170926",
+    "uikName": "УИК №1535",
     "tikTvd": "2552000897364",
-    "tikName": "Саргатская"
+    "tikName": "Саргатская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1536,
     "uikTvd": "4554031170927",
+    "uikName": "УИК №1536",
     "tikTvd": "2552000897364",
-    "tikName": "Саргатская"
+    "tikName": "Саргатская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1537,
     "uikTvd": "4554031170928",
+    "uikName": "УИК №1537",
     "tikTvd": "2552000897364",
-    "tikName": "Саргатская"
+    "tikName": "Саргатская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1538,
     "uikTvd": "4554031170929",
+    "uikName": "УИК №1538",
     "tikTvd": "2552000897364",
-    "tikName": "Саргатская"
+    "tikName": "Саргатская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1539,
     "uikTvd": "4554031170930",
+    "uikName": "УИК №1539",
     "tikTvd": "2552000897364",
-    "tikName": "Саргатская"
+    "tikName": "Саргатская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1540,
     "uikTvd": "4554031170931",
+    "uikName": "УИК №1540",
     "tikTvd": "2552000897364",
-    "tikName": "Саргатская"
+    "tikName": "Саргатская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1541,
     "uikTvd": "4554031170932",
+    "uikName": "УИК №1541",
     "tikTvd": "2552000897364",
-    "tikName": "Саргатская"
+    "tikName": "Саргатская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1542,
     "uikTvd": "4554031170933",
+    "uikName": "УИК №1542",
     "tikTvd": "2552000897364",
-    "tikName": "Саргатская"
+    "tikName": "Саргатская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1543,
     "uikTvd": "4554031170934",
+    "uikName": "УИК №1543",
     "tikTvd": "2552000897364",
-    "tikName": "Саргатская"
+    "tikName": "Саргатская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1544,
     "uikTvd": "4554031170935",
+    "uikName": "УИК №1544",
     "tikTvd": "2552000897364",
-    "tikName": "Саргатская"
+    "tikName": "Саргатская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1545,
     "uikTvd": "4554031170936",
+    "uikName": "УИК №1545",
     "tikTvd": "2552000897364",
-    "tikName": "Саргатская"
+    "tikName": "Саргатская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1546,
     "uikTvd": "4554031170937",
+    "uikName": "УИК №1546",
     "tikTvd": "2552000897364",
-    "tikName": "Саргатская"
+    "tikName": "Саргатская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1547,
     "uikTvd": "4554031170938",
+    "uikName": "УИК №1547",
     "tikTvd": "2552000897364",
-    "tikName": "Саргатская"
+    "tikName": "Саргатская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1548,
     "uikTvd": "4554031170939",
+    "uikName": "УИК №1548",
     "tikTvd": "2552000897364",
-    "tikName": "Саргатская"
+    "tikName": "Саргатская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1549,
     "uikTvd": "4554031170940",
+    "uikName": "УИК №1549",
     "tikTvd": "2552000897364",
-    "tikName": "Саргатская"
+    "tikName": "Саргатская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1550,
     "uikTvd": "4554031170941",
+    "uikName": "УИК №1550",
     "tikTvd": "2552000897364",
-    "tikName": "Саргатская"
+    "tikName": "Саргатская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1555,
     "uikTvd": "4554032145062",
+    "uikName": "УИК №1555",
     "tikTvd": "2552000897365",
-    "tikName": "Седельниковская"
+    "tikName": "Седельниковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1556,
     "uikTvd": "4554032145064",
+    "uikName": "УИК №1556",
     "tikTvd": "2552000897365",
-    "tikName": "Седельниковская"
+    "tikName": "Седельниковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1557,
     "uikTvd": "4554032145065",
+    "uikName": "УИК №1557",
     "tikTvd": "2552000897365",
-    "tikName": "Седельниковская"
+    "tikName": "Седельниковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1559,
     "uikTvd": "4554032145066",
+    "uikName": "УИК №1559",
     "tikTvd": "2552000897365",
-    "tikName": "Седельниковская"
+    "tikName": "Седельниковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1561,
     "uikTvd": "4554032145067",
+    "uikName": "УИК №1561",
     "tikTvd": "2552000897365",
-    "tikName": "Седельниковская"
+    "tikName": "Седельниковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1562,
     "uikTvd": "4554032145068",
+    "uikName": "УИК №1562",
     "tikTvd": "2552000897365",
-    "tikName": "Седельниковская"
+    "tikName": "Седельниковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1564,
     "uikTvd": "4554032145069",
+    "uikName": "УИК №1564",
     "tikTvd": "2552000897365",
-    "tikName": "Седельниковская"
+    "tikName": "Седельниковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1565,
     "uikTvd": "4554032145070",
+    "uikName": "УИК №1565",
     "tikTvd": "2552000897365",
-    "tikName": "Седельниковская"
+    "tikName": "Седельниковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1566,
     "uikTvd": "4554032145071",
+    "uikName": "УИК №1566",
     "tikTvd": "2552000897365",
-    "tikName": "Седельниковская"
+    "tikName": "Седельниковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1567,
     "uikTvd": "4554032145072",
+    "uikName": "УИК №1567",
     "tikTvd": "2552000897365",
-    "tikName": "Седельниковская"
+    "tikName": "Седельниковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1569,
     "uikTvd": "4554032145073",
+    "uikName": "УИК №1569",
     "tikTvd": "2552000897365",
-    "tikName": "Седельниковская"
+    "tikName": "Седельниковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1570,
     "uikTvd": "4554032145074",
+    "uikName": "УИК №1570",
     "tikTvd": "2552000897365",
-    "tikName": "Седельниковская"
+    "tikName": "Седельниковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1571,
     "uikTvd": "4554032145075",
+    "uikName": "УИК №1571",
     "tikTvd": "2552000897365",
-    "tikName": "Седельниковская"
+    "tikName": "Седельниковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1572,
     "uikTvd": "4554032145076",
+    "uikName": "УИК №1572",
     "tikTvd": "2552000897365",
-    "tikName": "Седельниковская"
+    "tikName": "Седельниковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1573,
     "uikTvd": "4554032145077",
+    "uikName": "УИК №1573",
     "tikTvd": "2552000897365",
-    "tikName": "Седельниковская"
+    "tikName": "Седельниковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1574,
     "uikTvd": "4554032145078",
+    "uikName": "УИК №1574",
     "tikTvd": "2552000897365",
-    "tikName": "Седельниковская"
+    "tikName": "Седельниковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1575,
     "uikTvd": "4554032145079",
+    "uikName": "УИК №1575",
     "tikTvd": "2552000897365",
-    "tikName": "Седельниковская"
+    "tikName": "Седельниковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1576,
     "uikTvd": "4554032145080",
+    "uikName": "УИК №1576",
     "tikTvd": "2552000897365",
-    "tikName": "Седельниковская"
+    "tikName": "Седельниковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1577,
     "uikTvd": "4554032145081",
+    "uikName": "УИК №1577",
     "tikTvd": "2552000897365",
-    "tikName": "Седельниковская"
+    "tikName": "Седельниковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1579,
     "uikTvd": "4554032145082",
+    "uikName": "УИК №1579",
     "tikTvd": "2552000897365",
-    "tikName": "Седельниковская"
+    "tikName": "Седельниковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1580,
     "uikTvd": "4554032145083",
+    "uikName": "УИК №1580",
     "tikTvd": "2552000897365",
-    "tikName": "Седельниковская"
+    "tikName": "Седельниковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1581,
     "uikTvd": "4554032145084",
+    "uikName": "УИК №1581",
     "tikTvd": "2552000897365",
-    "tikName": "Седельниковская"
+    "tikName": "Седельниковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1582,
     "uikTvd": "4554032145085",
+    "uikName": "УИК №1582",
     "tikTvd": "2552000897365",
-    "tikName": "Седельниковская"
+    "tikName": "Седельниковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1583,
     "uikTvd": "4554032145086",
+    "uikName": "УИК №1583",
     "tikTvd": "2552000897365",
-    "tikName": "Седельниковская"
+    "tikName": "Седельниковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1584,
     "uikTvd": "4554032145087",
+    "uikName": "УИК №1584",
     "tikTvd": "2552000897365",
-    "tikName": "Седельниковская"
+    "tikName": "Седельниковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1585,
     "uikTvd": "4554032145088",
+    "uikName": "УИК №1585",
     "tikTvd": "2552000897365",
-    "tikName": "Седельниковская"
+    "tikName": "Седельниковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1589,
     "uikTvd": "4554033184854",
+    "uikName": "УИК №1589",
     "tikTvd": "2552000897347",
-    "tikName": "Таврическая"
+    "tikName": "Таврическая",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1590,
     "uikTvd": "4554033184856",
+    "uikName": "УИК №1590",
     "tikTvd": "2552000897347",
-    "tikName": "Таврическая"
+    "tikName": "Таврическая",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1591,
     "uikTvd": "4554033184857",
+    "uikName": "УИК №1591",
     "tikTvd": "2552000897347",
-    "tikName": "Таврическая"
+    "tikName": "Таврическая",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1592,
     "uikTvd": "4554033184858",
+    "uikName": "УИК №1592",
     "tikTvd": "2552000897347",
-    "tikName": "Таврическая"
+    "tikName": "Таврическая",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1593,
     "uikTvd": "4554033184859",
+    "uikName": "УИК №1593",
     "tikTvd": "2552000897347",
-    "tikName": "Таврическая"
+    "tikName": "Таврическая",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1594,
     "uikTvd": "4554033184860",
+    "uikName": "УИК №1594",
     "tikTvd": "2552000897347",
-    "tikName": "Таврическая"
+    "tikName": "Таврическая",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1595,
     "uikTvd": "4554033184861",
+    "uikName": "УИК №1595",
     "tikTvd": "2552000897347",
-    "tikName": "Таврическая"
+    "tikName": "Таврическая",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1596,
     "uikTvd": "4554033184862",
+    "uikName": "УИК №1596",
     "tikTvd": "2552000897347",
-    "tikName": "Таврическая"
+    "tikName": "Таврическая",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1597,
     "uikTvd": "4554033184863",
+    "uikName": "УИК №1597",
     "tikTvd": "2552000897347",
-    "tikName": "Таврическая"
+    "tikName": "Таврическая",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1598,
     "uikTvd": "4554033184864",
+    "uikName": "УИК №1598",
     "tikTvd": "2552000897347",
-    "tikName": "Таврическая"
+    "tikName": "Таврическая",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1599,
     "uikTvd": "4554033184865",
+    "uikName": "УИК №1599",
     "tikTvd": "2552000897347",
-    "tikName": "Таврическая"
+    "tikName": "Таврическая",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1600,
     "uikTvd": "4554033184866",
+    "uikName": "УИК №1600",
     "tikTvd": "2552000897347",
-    "tikName": "Таврическая"
+    "tikName": "Таврическая",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1601,
     "uikTvd": "4554033184867",
+    "uikName": "УИК №1601",
     "tikTvd": "2552000897347",
-    "tikName": "Таврическая"
+    "tikName": "Таврическая",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1602,
     "uikTvd": "4554033184868",
+    "uikName": "УИК №1602",
     "tikTvd": "2552000897347",
-    "tikName": "Таврическая"
+    "tikName": "Таврическая",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1603,
     "uikTvd": "4554033184869",
+    "uikName": "УИК №1603",
     "tikTvd": "2552000897347",
-    "tikName": "Таврическая"
+    "tikName": "Таврическая",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1604,
     "uikTvd": "4554033184870",
+    "uikName": "УИК №1604",
     "tikTvd": "2552000897347",
-    "tikName": "Таврическая"
+    "tikName": "Таврическая",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1605,
     "uikTvd": "4554033184871",
+    "uikName": "УИК №1605",
     "tikTvd": "2552000897347",
-    "tikName": "Таврическая"
+    "tikName": "Таврическая",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1606,
     "uikTvd": "4554033184872",
+    "uikName": "УИК №1606",
     "tikTvd": "2552000897347",
-    "tikName": "Таврическая"
+    "tikName": "Таврическая",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1607,
     "uikTvd": "4554033184873",
+    "uikName": "УИК №1607",
     "tikTvd": "2552000897347",
-    "tikName": "Таврическая"
+    "tikName": "Таврическая",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1608,
     "uikTvd": "4554033184874",
+    "uikName": "УИК №1608",
     "tikTvd": "2552000897347",
-    "tikName": "Таврическая"
+    "tikName": "Таврическая",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1609,
     "uikTvd": "4554033184875",
+    "uikName": "УИК №1609",
     "tikTvd": "2552000897347",
-    "tikName": "Таврическая"
+    "tikName": "Таврическая",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1610,
     "uikTvd": "4554033184876",
+    "uikName": "УИК №1610",
     "tikTvd": "2552000897347",
-    "tikName": "Таврическая"
+    "tikName": "Таврическая",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1611,
     "uikTvd": "4554033184877",
+    "uikName": "УИК №1611",
     "tikTvd": "2552000897347",
-    "tikName": "Таврическая"
+    "tikName": "Таврическая",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1612,
     "uikTvd": "4554033184878",
+    "uikName": "УИК №1612",
     "tikTvd": "2552000897347",
-    "tikName": "Таврическая"
+    "tikName": "Таврическая",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1613,
     "uikTvd": "4554033184879",
+    "uikName": "УИК №1613",
     "tikTvd": "2552000897347",
-    "tikName": "Таврическая"
+    "tikName": "Таврическая",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1614,
     "uikTvd": "4554033184880",
+    "uikName": "УИК №1614",
     "tikTvd": "2552000897347",
-    "tikName": "Таврическая"
+    "tikName": "Таврическая",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1615,
     "uikTvd": "4554033184881",
+    "uikName": "УИК №1615",
     "tikTvd": "2552000897347",
-    "tikName": "Таврическая"
+    "tikName": "Таврическая",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1616,
     "uikTvd": "4554033184882",
+    "uikName": "УИК №1616",
     "tikTvd": "2552000897347",
-    "tikName": "Таврическая"
+    "tikName": "Таврическая",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1617,
     "uikTvd": "4554033184883",
+    "uikName": "УИК №1617",
     "tikTvd": "2552000897347",
-    "tikName": "Таврическая"
+    "tikName": "Таврическая",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1618,
     "uikTvd": "4554033184884",
+    "uikName": "УИК №1618",
     "tikTvd": "2552000897347",
-    "tikName": "Таврическая"
+    "tikName": "Таврическая",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1619,
     "uikTvd": "4554033184885",
+    "uikName": "УИК №1619",
     "tikTvd": "2552000897347",
-    "tikName": "Таврическая"
+    "tikName": "Таврическая",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1620,
     "uikTvd": "4554033184886",
+    "uikName": "УИК №1620",
     "tikTvd": "2552000897347",
-    "tikName": "Таврическая"
+    "tikName": "Таврическая",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1621,
     "uikTvd": "4554033184887",
+    "uikName": "УИК №1621",
     "tikTvd": "2552000897347",
-    "tikName": "Таврическая"
+    "tikName": "Таврическая",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1622,
     "uikTvd": "4554033184888",
+    "uikName": "УИК №1622",
     "tikTvd": "2552000897347",
-    "tikName": "Таврическая"
+    "tikName": "Таврическая",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1623,
     "uikTvd": "4554033184889",
+    "uikName": "УИК №1623",
     "tikTvd": "2552000897347",
-    "tikName": "Таврическая"
+    "tikName": "Таврическая",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1624,
     "uikTvd": "4554033184890",
+    "uikName": "УИК №1624",
     "tikTvd": "2552000897347",
-    "tikName": "Таврическая"
+    "tikName": "Таврическая",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1625,
     "uikTvd": "4554033184891",
+    "uikName": "УИК №1625",
     "tikTvd": "2552000897347",
-    "tikName": "Таврическая"
+    "tikName": "Таврическая",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1626,
     "uikTvd": "4554033184892",
+    "uikName": "УИК №1626",
     "tikTvd": "2552000897347",
-    "tikName": "Таврическая"
+    "tikName": "Таврическая",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1627,
     "uikTvd": "4554033184893",
+    "uikName": "УИК №1627",
     "tikTvd": "2552000897347",
-    "tikName": "Таврическая"
+    "tikName": "Таврическая",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1628,
     "uikTvd": "4554033184894",
+    "uikName": "УИК №1628",
     "tikTvd": "2552000897347",
-    "tikName": "Таврическая"
+    "tikName": "Таврическая",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1629,
     "uikTvd": "4554033184895",
+    "uikName": "УИК №1629",
     "tikTvd": "2552000897347",
-    "tikName": "Таврическая"
+    "tikName": "Таврическая",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1630,
     "uikTvd": "4554033184896",
+    "uikName": "УИК №1630",
     "tikTvd": "2552000897347",
-    "tikName": "Таврическая"
+    "tikName": "Таврическая",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1631,
     "uikTvd": "4554033184897",
+    "uikName": "УИК №1631",
     "tikTvd": "2552000897347",
-    "tikName": "Таврическая"
+    "tikName": "Таврическая",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1632,
     "uikTvd": "4554033184898",
+    "uikName": "УИК №1632",
     "tikTvd": "2552000897347",
-    "tikName": "Таврическая"
+    "tikName": "Таврическая",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1633,
     "uikTvd": "4554033184899",
+    "uikName": "УИК №1633",
     "tikTvd": "2552000897347",
-    "tikName": "Таврическая"
+    "tikName": "Таврическая",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1634,
     "uikTvd": "4554033184900",
+    "uikName": "УИК №1634",
     "tikTvd": "2552000897347",
-    "tikName": "Таврическая"
+    "tikName": "Таврическая",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1635,
     "uikTvd": "4554033184901",
+    "uikName": "УИК №1635",
     "tikTvd": "2552000897347",
-    "tikName": "Таврическая"
+    "tikName": "Таврическая",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1636,
     "uikTvd": "4554033184902",
+    "uikName": "УИК №1636",
     "tikTvd": "2552000897347",
-    "tikName": "Таврическая"
+    "tikName": "Таврическая",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1642,
     "uikTvd": "4554034227287",
+    "uikName": "УИК №1642",
     "tikTvd": "2552000897366",
-    "tikName": "Тарская"
+    "tikName": "Тарская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1643,
     "uikTvd": "4554034227288",
+    "uikName": "УИК №1643",
     "tikTvd": "2552000897366",
-    "tikName": "Тарская"
+    "tikName": "Тарская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1644,
     "uikTvd": "4554034227289",
+    "uikName": "УИК №1644",
     "tikTvd": "2552000897366",
-    "tikName": "Тарская"
+    "tikName": "Тарская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1645,
     "uikTvd": "4554034227290",
+    "uikName": "УИК №1645",
     "tikTvd": "2552000897366",
-    "tikName": "Тарская"
+    "tikName": "Тарская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1646,
     "uikTvd": "4554034227291",
+    "uikName": "УИК №1646",
     "tikTvd": "2552000897366",
-    "tikName": "Тарская"
+    "tikName": "Тарская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1647,
     "uikTvd": "4554034227292",
+    "uikName": "УИК №1647",
     "tikTvd": "2552000897366",
-    "tikName": "Тарская"
+    "tikName": "Тарская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1648,
     "uikTvd": "4554034227293",
+    "uikName": "УИК №1648",
     "tikTvd": "2552000897366",
-    "tikName": "Тарская"
+    "tikName": "Тарская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1649,
     "uikTvd": "4554034227294",
+    "uikName": "УИК №1649",
     "tikTvd": "2552000897366",
-    "tikName": "Тарская"
+    "tikName": "Тарская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1650,
     "uikTvd": "4554034227295",
+    "uikName": "УИК №1650",
     "tikTvd": "2552000897366",
-    "tikName": "Тарская"
+    "tikName": "Тарская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1651,
     "uikTvd": "4554034227296",
+    "uikName": "УИК №1651",
     "tikTvd": "2552000897366",
-    "tikName": "Тарская"
+    "tikName": "Тарская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1652,
     "uikTvd": "4554034227297",
+    "uikName": "УИК №1652",
     "tikTvd": "2552000897366",
-    "tikName": "Тарская"
+    "tikName": "Тарская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1653,
     "uikTvd": "4554034227298",
+    "uikName": "УИК №1653",
     "tikTvd": "2552000897366",
-    "tikName": "Тарская"
+    "tikName": "Тарская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1654,
     "uikTvd": "4554034227299",
+    "uikName": "УИК №1654",
     "tikTvd": "2552000897366",
-    "tikName": "Тарская"
+    "tikName": "Тарская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1655,
     "uikTvd": "4554034227300",
+    "uikName": "УИК №1655",
     "tikTvd": "2552000897366",
-    "tikName": "Тарская"
+    "tikName": "Тарская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1656,
     "uikTvd": "4554034227301",
+    "uikName": "УИК №1656",
     "tikTvd": "2552000897366",
-    "tikName": "Тарская"
+    "tikName": "Тарская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1657,
     "uikTvd": "4554034227302",
+    "uikName": "УИК №1657",
     "tikTvd": "2552000897366",
-    "tikName": "Тарская"
+    "tikName": "Тарская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1658,
     "uikTvd": "4554034227303",
+    "uikName": "УИК №1658",
     "tikTvd": "2552000897366",
-    "tikName": "Тарская"
+    "tikName": "Тарская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1659,
     "uikTvd": "4554034227304",
+    "uikName": "УИК №1659",
     "tikTvd": "2552000897366",
-    "tikName": "Тарская"
+    "tikName": "Тарская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1660,
     "uikTvd": "4554034227305",
+    "uikName": "УИК №1660",
     "tikTvd": "2552000897366",
-    "tikName": "Тарская"
+    "tikName": "Тарская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1661,
     "uikTvd": "4554034227306",
+    "uikName": "УИК №1661",
     "tikTvd": "2552000897366",
-    "tikName": "Тарская"
+    "tikName": "Тарская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1662,
     "uikTvd": "4554034227307",
+    "uikName": "УИК №1662",
     "tikTvd": "2552000897366",
-    "tikName": "Тарская"
+    "tikName": "Тарская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1663,
     "uikTvd": "4554034227308",
+    "uikName": "УИК №1663",
     "tikTvd": "2552000897366",
-    "tikName": "Тарская"
+    "tikName": "Тарская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1664,
     "uikTvd": "4554034227309",
+    "uikName": "УИК №1664",
     "tikTvd": "2552000897366",
-    "tikName": "Тарская"
+    "tikName": "Тарская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1665,
     "uikTvd": "4554034227310",
+    "uikName": "УИК №1665",
     "tikTvd": "2552000897366",
-    "tikName": "Тарская"
+    "tikName": "Тарская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1667,
     "uikTvd": "4554034227311",
+    "uikName": "УИК №1667",
     "tikTvd": "2552000897366",
-    "tikName": "Тарская"
+    "tikName": "Тарская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1668,
     "uikTvd": "4554034227312",
+    "uikName": "УИК №1668",
     "tikTvd": "2552000897366",
-    "tikName": "Тарская"
+    "tikName": "Тарская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1669,
     "uikTvd": "4554034227313",
+    "uikName": "УИК №1669",
     "tikTvd": "2552000897366",
-    "tikName": "Тарская"
+    "tikName": "Тарская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1670,
     "uikTvd": "4554034227314",
+    "uikName": "УИК №1670",
     "tikTvd": "2552000897366",
-    "tikName": "Тарская"
+    "tikName": "Тарская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1671,
     "uikTvd": "4554034227315",
+    "uikName": "УИК №1671",
     "tikTvd": "2552000897366",
-    "tikName": "Тарская"
+    "tikName": "Тарская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1672,
     "uikTvd": "4554034227316",
+    "uikName": "УИК №1672",
     "tikTvd": "2552000897366",
-    "tikName": "Тарская"
+    "tikName": "Тарская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1673,
     "uikTvd": "4554034227317",
+    "uikName": "УИК №1673",
     "tikTvd": "2552000897366",
-    "tikName": "Тарская"
+    "tikName": "Тарская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1674,
     "uikTvd": "4554034227318",
+    "uikName": "УИК №1674",
     "tikTvd": "2552000897366",
-    "tikName": "Тарская"
+    "tikName": "Тарская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1675,
     "uikTvd": "4554034227319",
+    "uikName": "УИК №1675",
     "tikTvd": "2552000897366",
-    "tikName": "Тарская"
+    "tikName": "Тарская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1676,
     "uikTvd": "4554034227320",
+    "uikName": "УИК №1676",
     "tikTvd": "2552000897366",
-    "tikName": "Тарская"
+    "tikName": "Тарская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1677,
     "uikTvd": "4554034227321",
+    "uikName": "УИК №1677",
     "tikTvd": "2552000897366",
-    "tikName": "Тарская"
+    "tikName": "Тарская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1678,
     "uikTvd": "4554034227322",
+    "uikName": "УИК №1678",
     "tikTvd": "2552000897366",
-    "tikName": "Тарская"
+    "tikName": "Тарская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1679,
     "uikTvd": "4554034227323",
+    "uikName": "УИК №1679",
     "tikTvd": "2552000897366",
-    "tikName": "Тарская"
+    "tikName": "Тарская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1680,
     "uikTvd": "4554034227324",
+    "uikName": "УИК №1680",
     "tikTvd": "2552000897366",
-    "tikName": "Тарская"
+    "tikName": "Тарская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1681,
     "uikTvd": "4554034227325",
+    "uikName": "УИК №1681",
     "tikTvd": "2552000897366",
-    "tikName": "Тарская"
+    "tikName": "Тарская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1682,
     "uikTvd": "4554034227326",
+    "uikName": "УИК №1682",
     "tikTvd": "2552000897366",
-    "tikName": "Тарская"
+    "tikName": "Тарская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1683,
     "uikTvd": "4554034227327",
+    "uikName": "УИК №1683",
     "tikTvd": "2552000897366",
-    "tikName": "Тарская"
+    "tikName": "Тарская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1684,
     "uikTvd": "4554034227328",
+    "uikName": "УИК №1684",
     "tikTvd": "2552000897366",
-    "tikName": "Тарская"
+    "tikName": "Тарская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1685,
     "uikTvd": "4554034227329",
+    "uikName": "УИК №1685",
     "tikTvd": "2552000897366",
-    "tikName": "Тарская"
+    "tikName": "Тарская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1686,
     "uikTvd": "4554034227330",
+    "uikName": "УИК №1686",
     "tikTvd": "2552000897366",
-    "tikName": "Тарская"
+    "tikName": "Тарская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1687,
     "uikTvd": "4554034227331",
+    "uikName": "УИК №1687",
     "tikTvd": "2552000897366",
-    "tikName": "Тарская"
+    "tikName": "Тарская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1688,
     "uikTvd": "4554034227332",
+    "uikName": "УИК №1688",
     "tikTvd": "2552000897366",
-    "tikName": "Тарская"
+    "tikName": "Тарская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1689,
     "uikTvd": "4554034227333",
+    "uikName": "УИК №1689",
     "tikTvd": "2552000897366",
-    "tikName": "Тарская"
+    "tikName": "Тарская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1690,
     "uikTvd": "4554034227334",
+    "uikName": "УИК №1690",
     "tikTvd": "2552000897366",
-    "tikName": "Тарская"
+    "tikName": "Тарская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1691,
     "uikTvd": "4554034227335",
+    "uikName": "УИК №1691",
     "tikTvd": "2552000897366",
-    "tikName": "Тарская"
+    "tikName": "Тарская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1692,
     "uikTvd": "4554034227336",
+    "uikName": "УИК №1692",
     "tikTvd": "2552000897366",
-    "tikName": "Тарская"
+    "tikName": "Тарская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1693,
     "uikTvd": "4554034227337",
+    "uikName": "УИК №1693",
     "tikTvd": "2552000897366",
-    "tikName": "Тарская"
+    "tikName": "Тарская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1694,
     "uikTvd": "4554034227338",
+    "uikName": "УИК №1694",
     "tikTvd": "2552000897366",
-    "tikName": "Тарская"
+    "tikName": "Тарская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1695,
     "uikTvd": "4554034227339",
+    "uikName": "УИК №1695",
     "tikTvd": "2552000897366",
-    "tikName": "Тарская"
+    "tikName": "Тарская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1696,
     "uikTvd": "4554034227340",
+    "uikName": "УИК №1696",
     "tikTvd": "2552000897366",
-    "tikName": "Тарская"
+    "tikName": "Тарская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1697,
     "uikTvd": "4554034227341",
+    "uikName": "УИК №1697",
     "tikTvd": "2552000897366",
-    "tikName": "Тарская"
+    "tikName": "Тарская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1698,
     "uikTvd": "4554034227342",
+    "uikName": "УИК №1698",
     "tikTvd": "2552000897366",
-    "tikName": "Тарская"
+    "tikName": "Тарская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1699,
     "uikTvd": "4554034227343",
+    "uikName": "УИК №1699",
     "tikTvd": "2552000897366",
-    "tikName": "Тарская"
+    "tikName": "Тарская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1700,
     "uikTvd": "4554034227344",
+    "uikName": "УИК №1700",
     "tikTvd": "2552000897366",
-    "tikName": "Тарская"
+    "tikName": "Тарская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1701,
     "uikTvd": "4554034227345",
+    "uikName": "УИК №1701",
     "tikTvd": "2552000897366",
-    "tikName": "Тарская"
+    "tikName": "Тарская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1702,
     "uikTvd": "4554034227346",
+    "uikName": "УИК №1702",
     "tikTvd": "2552000897366",
-    "tikName": "Тарская"
+    "tikName": "Тарская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1703,
     "uikTvd": "4554034227347",
+    "uikName": "УИК №1703",
     "tikTvd": "2552000897366",
-    "tikName": "Тарская"
+    "tikName": "Тарская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1704,
     "uikTvd": "4554034227348",
+    "uikName": "УИК №1704",
     "tikTvd": "2552000897366",
-    "tikName": "Тарская"
+    "tikName": "Тарская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1705,
     "uikTvd": "4554034227349",
+    "uikName": "УИК №1705",
     "tikTvd": "2552000897366",
-    "tikName": "Тарская"
+    "tikName": "Тарская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1706,
     "uikTvd": "4554034227350",
+    "uikName": "УИК №1706",
     "tikTvd": "2552000897366",
-    "tikName": "Тарская"
+    "tikName": "Тарская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1707,
     "uikTvd": "4554034227351",
+    "uikName": "УИК №1707",
     "tikTvd": "2552000897366",
-    "tikName": "Тарская"
+    "tikName": "Тарская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1708,
     "uikTvd": "4554034227352",
+    "uikName": "УИК №1708",
     "tikTvd": "2552000897366",
-    "tikName": "Тарская"
+    "tikName": "Тарская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1709,
     "uikTvd": "4554034227353",
+    "uikName": "УИК №1709",
     "tikTvd": "2552000897366",
-    "tikName": "Тарская"
+    "tikName": "Тарская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1710,
     "uikTvd": "4554034227354",
+    "uikName": "УИК №1710",
     "tikTvd": "2552000897366",
-    "tikName": "Тарская"
+    "tikName": "Тарская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1711,
     "uikTvd": "4554034227355",
+    "uikName": "УИК №1711",
     "tikTvd": "2552000897366",
-    "tikName": "Тарская"
+    "tikName": "Тарская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1712,
     "uikTvd": "4554034227356",
+    "uikName": "УИК №1712",
     "tikTvd": "2552000897366",
-    "tikName": "Тарская"
+    "tikName": "Тарская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1713,
     "uikTvd": "4554034231164",
+    "uikName": "УИК №1713",
     "tikTvd": "2552000897366",
-    "tikName": "Тарская"
+    "tikName": "Тарская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1714,
     "uikTvd": "4554034231165",
+    "uikName": "УИК №1714",
     "tikTvd": "2552000897366",
-    "tikName": "Тарская"
+    "tikName": "Тарская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1715,
     "uikTvd": "4554034231166",
+    "uikName": "УИК №1715",
     "tikTvd": "2552000897366",
-    "tikName": "Тарская"
+    "tikName": "Тарская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1719,
     "uikTvd": "4554035161091",
+    "uikName": "УИК №1719",
     "tikTvd": "2552000897367",
-    "tikName": "Тевризская"
+    "tikName": "Тевризская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1720,
     "uikTvd": "4554035161092",
+    "uikName": "УИК №1720",
     "tikTvd": "2552000897367",
-    "tikName": "Тевризская"
+    "tikName": "Тевризская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1721,
     "uikTvd": "4554035161093",
+    "uikName": "УИК №1721",
     "tikTvd": "2552000897367",
-    "tikName": "Тевризская"
+    "tikName": "Тевризская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1722,
     "uikTvd": "4554035161094",
+    "uikName": "УИК №1722",
     "tikTvd": "2552000897367",
-    "tikName": "Тевризская"
+    "tikName": "Тевризская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1723,
     "uikTvd": "4554035161095",
+    "uikName": "УИК №1723",
     "tikTvd": "2552000897367",
-    "tikName": "Тевризская"
+    "tikName": "Тевризская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1724,
     "uikTvd": "4554035161096",
+    "uikName": "УИК №1724",
     "tikTvd": "2552000897367",
-    "tikName": "Тевризская"
+    "tikName": "Тевризская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1725,
     "uikTvd": "4554035161097",
+    "uikName": "УИК №1725",
     "tikTvd": "2552000897367",
-    "tikName": "Тевризская"
+    "tikName": "Тевризская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1726,
     "uikTvd": "4554035161098",
+    "uikName": "УИК №1726",
     "tikTvd": "2552000897367",
-    "tikName": "Тевризская"
+    "tikName": "Тевризская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1727,
     "uikTvd": "4554035161099",
+    "uikName": "УИК №1727",
     "tikTvd": "2552000897367",
-    "tikName": "Тевризская"
+    "tikName": "Тевризская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1728,
     "uikTvd": "4554035161100",
+    "uikName": "УИК №1728",
     "tikTvd": "2552000897367",
-    "tikName": "Тевризская"
+    "tikName": "Тевризская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1729,
     "uikTvd": "4554035161101",
+    "uikName": "УИК №1729",
     "tikTvd": "2552000897367",
-    "tikName": "Тевризская"
+    "tikName": "Тевризская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1730,
     "uikTvd": "4554035161102",
+    "uikName": "УИК №1730",
     "tikTvd": "2552000897367",
-    "tikName": "Тевризская"
+    "tikName": "Тевризская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1731,
     "uikTvd": "4554035161103",
+    "uikName": "УИК №1731",
     "tikTvd": "2552000897367",
-    "tikName": "Тевризская"
+    "tikName": "Тевризская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1732,
     "uikTvd": "4554035161104",
+    "uikName": "УИК №1732",
     "tikTvd": "2552000897367",
-    "tikName": "Тевризская"
+    "tikName": "Тевризская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1733,
     "uikTvd": "4554035161105",
+    "uikName": "УИК №1733",
     "tikTvd": "2552000897367",
-    "tikName": "Тевризская"
+    "tikName": "Тевризская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1734,
     "uikTvd": "4554035161106",
+    "uikName": "УИК №1734",
     "tikTvd": "2552000897367",
-    "tikName": "Тевризская"
+    "tikName": "Тевризская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1735,
     "uikTvd": "4554035161107",
+    "uikName": "УИК №1735",
     "tikTvd": "2552000897367",
-    "tikName": "Тевризская"
+    "tikName": "Тевризская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1736,
     "uikTvd": "4554035161108",
+    "uikName": "УИК №1736",
     "tikTvd": "2552000897367",
-    "tikName": "Тевризская"
+    "tikName": "Тевризская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1737,
     "uikTvd": "4554035161109",
+    "uikName": "УИК №1737",
     "tikTvd": "2552000897367",
-    "tikName": "Тевризская"
+    "tikName": "Тевризская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1738,
     "uikTvd": "4554035161110",
+    "uikName": "УИК №1738",
     "tikTvd": "2552000897367",
-    "tikName": "Тевризская"
+    "tikName": "Тевризская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1739,
     "uikTvd": "4554035161111",
+    "uikName": "УИК №1739",
     "tikTvd": "2552000897367",
-    "tikName": "Тевризская"
+    "tikName": "Тевризская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1740,
     "uikTvd": "4554035161112",
+    "uikName": "УИК №1740",
     "tikTvd": "2552000897367",
-    "tikName": "Тевризская"
+    "tikName": "Тевризская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1741,
     "uikTvd": "4554035161113",
+    "uikName": "УИК №1741",
     "tikTvd": "2552000897367",
-    "tikName": "Тевризская"
+    "tikName": "Тевризская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1742,
     "uikTvd": "4554035161114",
+    "uikName": "УИК №1742",
     "tikTvd": "2552000897367",
-    "tikName": "Тевризская"
+    "tikName": "Тевризская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1743,
     "uikTvd": "4554035161115",
+    "uikName": "УИК №1743",
     "tikTvd": "2552000897367",
-    "tikName": "Тевризская"
+    "tikName": "Тевризская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1744,
     "uikTvd": "4554035161116",
+    "uikName": "УИК №1744",
     "tikTvd": "2552000897367",
-    "tikName": "Тевризская"
+    "tikName": "Тевризская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1745,
     "uikTvd": "4554035161117",
+    "uikName": "УИК №1745",
     "tikTvd": "2552000897367",
-    "tikName": "Тевризская"
+    "tikName": "Тевризская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1746,
     "uikTvd": "4554035161118",
+    "uikName": "УИК №1746",
     "tikTvd": "2552000897367",
-    "tikName": "Тевризская"
+    "tikName": "Тевризская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1747,
     "uikTvd": "4554035161119",
+    "uikName": "УИК №1747",
     "tikTvd": "2552000897367",
-    "tikName": "Тевризская"
+    "tikName": "Тевризская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1748,
     "uikTvd": "4554035161120",
+    "uikName": "УИК №1748",
     "tikTvd": "2552000897367",
-    "tikName": "Тевризская"
+    "tikName": "Тевризская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1749,
     "uikTvd": "4554035161121",
+    "uikName": "УИК №1749",
     "tikTvd": "2552000897367",
-    "tikName": "Тевризская"
+    "tikName": "Тевризская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1750,
     "uikTvd": "4554035161122",
+    "uikName": "УИК №1750",
     "tikTvd": "2552000897367",
-    "tikName": "Тевризская"
+    "tikName": "Тевризская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1751,
     "uikTvd": "4554035161123",
+    "uikName": "УИК №1751",
     "tikTvd": "2552000897367",
-    "tikName": "Тевризская"
+    "tikName": "Тевризская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1752,
     "uikTvd": "4554035161124",
+    "uikName": "УИК №1752",
     "tikTvd": "2552000897367",
-    "tikName": "Тевризская"
+    "tikName": "Тевризская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1753,
     "uikTvd": "4554035161125",
+    "uikName": "УИК №1753",
     "tikTvd": "2552000897367",
-    "tikName": "Тевризская"
+    "tikName": "Тевризская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1756,
     "uikTvd": "4554036199721",
+    "uikName": "УИК №1756",
     "tikTvd": "2552000897368",
-    "tikName": "Тюкалинская"
+    "tikName": "Тюкалинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1757,
     "uikTvd": "4554036199722",
+    "uikName": "УИК №1757",
     "tikTvd": "2552000897368",
-    "tikName": "Тюкалинская"
+    "tikName": "Тюкалинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1758,
     "uikTvd": "4554036199723",
+    "uikName": "УИК №1758",
     "tikTvd": "2552000897368",
-    "tikName": "Тюкалинская"
+    "tikName": "Тюкалинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1760,
     "uikTvd": "4554036199724",
+    "uikName": "УИК №1760",
     "tikTvd": "2552000897368",
-    "tikName": "Тюкалинская"
+    "tikName": "Тюкалинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1761,
     "uikTvd": "4554036199725",
+    "uikName": "УИК №1761",
     "tikTvd": "2552000897368",
-    "tikName": "Тюкалинская"
+    "tikName": "Тюкалинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1762,
     "uikTvd": "4554036199726",
+    "uikName": "УИК №1762",
     "tikTvd": "2552000897368",
-    "tikName": "Тюкалинская"
+    "tikName": "Тюкалинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1763,
     "uikTvd": "4554036199727",
+    "uikName": "УИК №1763",
     "tikTvd": "2552000897368",
-    "tikName": "Тюкалинская"
+    "tikName": "Тюкалинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1764,
     "uikTvd": "4554036199728",
+    "uikName": "УИК №1764",
     "tikTvd": "2552000897368",
-    "tikName": "Тюкалинская"
+    "tikName": "Тюкалинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1765,
     "uikTvd": "4554036199729",
+    "uikName": "УИК №1765",
     "tikTvd": "2552000897368",
-    "tikName": "Тюкалинская"
+    "tikName": "Тюкалинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1767,
     "uikTvd": "4554036199730",
+    "uikName": "УИК №1767",
     "tikTvd": "2552000897368",
-    "tikName": "Тюкалинская"
+    "tikName": "Тюкалинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1768,
     "uikTvd": "4554036199731",
+    "uikName": "УИК №1768",
     "tikTvd": "2552000897368",
-    "tikName": "Тюкалинская"
+    "tikName": "Тюкалинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1769,
     "uikTvd": "4554036199732",
+    "uikName": "УИК №1769",
     "tikTvd": "2552000897368",
-    "tikName": "Тюкалинская"
+    "tikName": "Тюкалинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1770,
     "uikTvd": "4554036199733",
+    "uikName": "УИК №1770",
     "tikTvd": "2552000897368",
-    "tikName": "Тюкалинская"
+    "tikName": "Тюкалинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1771,
     "uikTvd": "4554036199734",
+    "uikName": "УИК №1771",
     "tikTvd": "2552000897368",
-    "tikName": "Тюкалинская"
+    "tikName": "Тюкалинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1772,
     "uikTvd": "4554036199735",
+    "uikName": "УИК №1772",
     "tikTvd": "2552000897368",
-    "tikName": "Тюкалинская"
+    "tikName": "Тюкалинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1773,
     "uikTvd": "4554036199736",
+    "uikName": "УИК №1773",
     "tikTvd": "2552000897368",
-    "tikName": "Тюкалинская"
+    "tikName": "Тюкалинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1774,
     "uikTvd": "4554036199737",
+    "uikName": "УИК №1774",
     "tikTvd": "2552000897368",
-    "tikName": "Тюкалинская"
+    "tikName": "Тюкалинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1775,
     "uikTvd": "4554036199738",
+    "uikName": "УИК №1775",
     "tikTvd": "2552000897368",
-    "tikName": "Тюкалинская"
+    "tikName": "Тюкалинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1776,
     "uikTvd": "4554036199739",
+    "uikName": "УИК №1776",
     "tikTvd": "2552000897368",
-    "tikName": "Тюкалинская"
+    "tikName": "Тюкалинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1777,
     "uikTvd": "4554036199740",
+    "uikName": "УИК №1777",
     "tikTvd": "2552000897368",
-    "tikName": "Тюкалинская"
+    "tikName": "Тюкалинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1778,
     "uikTvd": "4554036199741",
+    "uikName": "УИК №1778",
     "tikTvd": "2552000897368",
-    "tikName": "Тюкалинская"
+    "tikName": "Тюкалинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1779,
     "uikTvd": "4554036199742",
+    "uikName": "УИК №1779",
     "tikTvd": "2552000897368",
-    "tikName": "Тюкалинская"
+    "tikName": "Тюкалинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1780,
     "uikTvd": "4554036199743",
+    "uikName": "УИК №1780",
     "tikTvd": "2552000897368",
-    "tikName": "Тюкалинская"
+    "tikName": "Тюкалинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1781,
     "uikTvd": "4554036199744",
+    "uikName": "УИК №1781",
     "tikTvd": "2552000897368",
-    "tikName": "Тюкалинская"
+    "tikName": "Тюкалинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1782,
     "uikTvd": "4554036199745",
+    "uikName": "УИК №1782",
     "tikTvd": "2552000897368",
-    "tikName": "Тюкалинская"
+    "tikName": "Тюкалинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1783,
     "uikTvd": "4554036199746",
+    "uikName": "УИК №1783",
     "tikTvd": "2552000897368",
-    "tikName": "Тюкалинская"
+    "tikName": "Тюкалинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1784,
     "uikTvd": "4554036199747",
+    "uikName": "УИК №1784",
     "tikTvd": "2552000897368",
-    "tikName": "Тюкалинская"
+    "tikName": "Тюкалинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1785,
     "uikTvd": "4554036199748",
+    "uikName": "УИК №1785",
     "tikTvd": "2552000897368",
-    "tikName": "Тюкалинская"
+    "tikName": "Тюкалинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1786,
     "uikTvd": "4554036199749",
+    "uikName": "УИК №1786",
     "tikTvd": "2552000897368",
-    "tikName": "Тюкалинская"
+    "tikName": "Тюкалинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1787,
     "uikTvd": "4554036199750",
+    "uikName": "УИК №1787",
     "tikTvd": "2552000897368",
-    "tikName": "Тюкалинская"
+    "tikName": "Тюкалинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1788,
     "uikTvd": "4554036199751",
+    "uikName": "УИК №1788",
     "tikTvd": "2552000897368",
-    "tikName": "Тюкалинская"
+    "tikName": "Тюкалинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1789,
     "uikTvd": "4554036199752",
+    "uikName": "УИК №1789",
     "tikTvd": "2552000897368",
-    "tikName": "Тюкалинская"
+    "tikName": "Тюкалинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1790,
     "uikTvd": "4554036199753",
+    "uikName": "УИК №1790",
     "tikTvd": "2552000897368",
-    "tikName": "Тюкалинская"
+    "tikName": "Тюкалинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1791,
     "uikTvd": "4554036199754",
+    "uikName": "УИК №1791",
     "tikTvd": "2552000897368",
-    "tikName": "Тюкалинская"
+    "tikName": "Тюкалинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1792,
     "uikTvd": "4554036199755",
+    "uikName": "УИК №1792",
     "tikTvd": "2552000897368",
-    "tikName": "Тюкалинская"
+    "tikName": "Тюкалинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1793,
     "uikTvd": "4554036199756",
+    "uikName": "УИК №1793",
     "tikTvd": "2552000897368",
-    "tikName": "Тюкалинская"
+    "tikName": "Тюкалинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1794,
     "uikTvd": "4554036199757",
+    "uikName": "УИК №1794",
     "tikTvd": "2552000897368",
-    "tikName": "Тюкалинская"
+    "tikName": "Тюкалинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1796,
     "uikTvd": "4554036199758",
+    "uikName": "УИК №1796",
     "tikTvd": "2552000897368",
-    "tikName": "Тюкалинская"
+    "tikName": "Тюкалинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1797,
     "uikTvd": "4554036199759",
+    "uikName": "УИК №1797",
     "tikTvd": "2552000897368",
-    "tikName": "Тюкалинская"
+    "tikName": "Тюкалинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1798,
     "uikTvd": "4554036199760",
+    "uikName": "УИК №1798",
     "tikTvd": "2552000897368",
-    "tikName": "Тюкалинская"
+    "tikName": "Тюкалинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1799,
     "uikTvd": "4554036199761",
+    "uikName": "УИК №1799",
     "tikTvd": "2552000897368",
-    "tikName": "Тюкалинская"
+    "tikName": "Тюкалинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1800,
     "uikTvd": "4554036199762",
+    "uikName": "УИК №1800",
     "tikTvd": "2552000897368",
-    "tikName": "Тюкалинская"
+    "tikName": "Тюкалинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1801,
     "uikTvd": "4554036199763",
+    "uikName": "УИК №1801",
     "tikTvd": "2552000897368",
-    "tikName": "Тюкалинская"
+    "tikName": "Тюкалинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1802,
     "uikTvd": "4554036199764",
+    "uikName": "УИК №1802",
     "tikTvd": "2552000897368",
-    "tikName": "Тюкалинская"
+    "tikName": "Тюкалинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1803,
     "uikTvd": "4554036199765",
+    "uikName": "УИК №1803",
     "tikTvd": "2552000897368",
-    "tikName": "Тюкалинская"
+    "tikName": "Тюкалинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1808,
     "uikTvd": "4554037141721",
+    "uikName": "УИК №1808",
     "tikTvd": "2552000897369",
-    "tikName": "Усть-Ишимская"
+    "tikName": "Усть-Ишимская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1809,
     "uikTvd": "4554037141722",
+    "uikName": "УИК №1809",
     "tikTvd": "2552000897369",
-    "tikName": "Усть-Ишимская"
+    "tikName": "Усть-Ишимская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1810,
     "uikTvd": "4554037141723",
+    "uikName": "УИК №1810",
     "tikTvd": "2552000897369",
-    "tikName": "Усть-Ишимская"
+    "tikName": "Усть-Ишимская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1811,
     "uikTvd": "4554037141724",
+    "uikName": "УИК №1811",
     "tikTvd": "2552000897369",
-    "tikName": "Усть-Ишимская"
+    "tikName": "Усть-Ишимская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1812,
     "uikTvd": "4554037141725",
+    "uikName": "УИК №1812",
     "tikTvd": "2552000897369",
-    "tikName": "Усть-Ишимская"
+    "tikName": "Усть-Ишимская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1813,
     "uikTvd": "4554037141726",
+    "uikName": "УИК №1813",
     "tikTvd": "2552000897369",
-    "tikName": "Усть-Ишимская"
+    "tikName": "Усть-Ишимская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1814,
     "uikTvd": "4554037141727",
+    "uikName": "УИК №1814",
     "tikTvd": "2552000897369",
-    "tikName": "Усть-Ишимская"
+    "tikName": "Усть-Ишимская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1815,
     "uikTvd": "4554037141728",
+    "uikName": "УИК №1815",
     "tikTvd": "2552000897369",
-    "tikName": "Усть-Ишимская"
+    "tikName": "Усть-Ишимская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1816,
     "uikTvd": "4554037141729",
+    "uikName": "УИК №1816",
     "tikTvd": "2552000897369",
-    "tikName": "Усть-Ишимская"
+    "tikName": "Усть-Ишимская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1817,
     "uikTvd": "4554037141730",
+    "uikName": "УИК №1817",
     "tikTvd": "2552000897369",
-    "tikName": "Усть-Ишимская"
+    "tikName": "Усть-Ишимская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1818,
     "uikTvd": "4554037141731",
+    "uikName": "УИК №1818",
     "tikTvd": "2552000897369",
-    "tikName": "Усть-Ишимская"
+    "tikName": "Усть-Ишимская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1819,
     "uikTvd": "4554037141732",
+    "uikName": "УИК №1819",
     "tikTvd": "2552000897369",
-    "tikName": "Усть-Ишимская"
+    "tikName": "Усть-Ишимская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1820,
     "uikTvd": "4554037141733",
+    "uikName": "УИК №1820",
     "tikTvd": "2552000897369",
-    "tikName": "Усть-Ишимская"
+    "tikName": "Усть-Ишимская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1821,
     "uikTvd": "4554037141734",
+    "uikName": "УИК №1821",
     "tikTvd": "2552000897369",
-    "tikName": "Усть-Ишимская"
+    "tikName": "Усть-Ишимская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1822,
     "uikTvd": "4554037141735",
+    "uikName": "УИК №1822",
     "tikTvd": "2552000897369",
-    "tikName": "Усть-Ишимская"
+    "tikName": "Усть-Ишимская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1823,
     "uikTvd": "4554037141736",
+    "uikName": "УИК №1823",
     "tikTvd": "2552000897369",
-    "tikName": "Усть-Ишимская"
+    "tikName": "Усть-Ишимская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1824,
     "uikTvd": "4554037141737",
+    "uikName": "УИК №1824",
     "tikTvd": "2552000897369",
-    "tikName": "Усть-Ишимская"
+    "tikName": "Усть-Ишимская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1825,
     "uikTvd": "4554037141738",
+    "uikName": "УИК №1825",
     "tikTvd": "2552000897369",
-    "tikName": "Усть-Ишимская"
+    "tikName": "Усть-Ишимская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1826,
     "uikTvd": "4554037141739",
+    "uikName": "УИК №1826",
     "tikTvd": "2552000897369",
-    "tikName": "Усть-Ишимская"
+    "tikName": "Усть-Ишимская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1827,
     "uikTvd": "4554037141740",
+    "uikName": "УИК №1827",
     "tikTvd": "2552000897369",
-    "tikName": "Усть-Ишимская"
+    "tikName": "Усть-Ишимская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1828,
     "uikTvd": "4554037141741",
+    "uikName": "УИК №1828",
     "tikTvd": "2552000897369",
-    "tikName": "Усть-Ишимская"
+    "tikName": "Усть-Ишимская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1829,
     "uikTvd": "4554037141742",
+    "uikName": "УИК №1829",
     "tikTvd": "2552000897369",
-    "tikName": "Усть-Ишимская"
+    "tikName": "Усть-Ишимская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1830,
     "uikTvd": "4554037141743",
+    "uikName": "УИК №1830",
     "tikTvd": "2552000897369",
-    "tikName": "Усть-Ишимская"
+    "tikName": "Усть-Ишимская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1831,
     "uikTvd": "4554037141744",
+    "uikName": "УИК №1831",
     "tikTvd": "2552000897369",
-    "tikName": "Усть-Ишимская"
+    "tikName": "Усть-Ишимская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1832,
     "uikTvd": "4554037141745",
+    "uikName": "УИК №1832",
     "tikTvd": "2552000897369",
-    "tikName": "Усть-Ишимская"
+    "tikName": "Усть-Ишимская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1833,
     "uikTvd": "4554037141746",
+    "uikName": "УИК №1833",
     "tikTvd": "2552000897369",
-    "tikName": "Усть-Ишимская"
+    "tikName": "Усть-Ишимская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1834,
     "uikTvd": "4554037141747",
+    "uikName": "УИК №1834",
     "tikTvd": "2552000897369",
-    "tikName": "Усть-Ишимская"
+    "tikName": "Усть-Ишимская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1835,
     "uikTvd": "4554037141748",
+    "uikName": "УИК №1835",
     "tikTvd": "2552000897369",
-    "tikName": "Усть-Ишимская"
+    "tikName": "Усть-Ишимская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1836,
     "uikTvd": "4554037141749",
+    "uikName": "УИК №1836",
     "tikTvd": "2552000897369",
-    "tikName": "Усть-Ишимская"
+    "tikName": "Усть-Ишимская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1837,
     "uikTvd": "4554037141750",
+    "uikName": "УИК №1837",
     "tikTvd": "2552000897369",
-    "tikName": "Усть-Ишимская"
+    "tikName": "Усть-Ишимская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 141,
+      "oikTvd": "100100067796039",
+      "oikName": "Омская область – Любинский"
+    }
   },
   {
     "uikNumber": 1840,
     "uikTvd": "4554038155363",
+    "uikName": "УИК №1840",
     "tikTvd": "2552000897339",
-    "tikName": "Черлакская"
+    "tikName": "Черлакская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1841,
     "uikTvd": "4554038155364",
+    "uikName": "УИК №1841",
     "tikTvd": "2552000897339",
-    "tikName": "Черлакская"
+    "tikName": "Черлакская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1842,
     "uikTvd": "4554038155365",
+    "uikName": "УИК №1842",
     "tikTvd": "2552000897339",
-    "tikName": "Черлакская"
+    "tikName": "Черлакская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1843,
     "uikTvd": "4554038155366",
+    "uikName": "УИК №1843",
     "tikTvd": "2552000897339",
-    "tikName": "Черлакская"
+    "tikName": "Черлакская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1844,
     "uikTvd": "4554038155367",
+    "uikName": "УИК №1844",
     "tikTvd": "2552000897339",
-    "tikName": "Черлакская"
+    "tikName": "Черлакская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1845,
     "uikTvd": "4554038155368",
+    "uikName": "УИК №1845",
     "tikTvd": "2552000897339",
-    "tikName": "Черлакская"
+    "tikName": "Черлакская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1846,
     "uikTvd": "4554038155369",
+    "uikName": "УИК №1846",
     "tikTvd": "2552000897339",
-    "tikName": "Черлакская"
+    "tikName": "Черлакская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1847,
     "uikTvd": "4554038155370",
+    "uikName": "УИК №1847",
     "tikTvd": "2552000897339",
-    "tikName": "Черлакская"
+    "tikName": "Черлакская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1848,
     "uikTvd": "4554038155371",
+    "uikName": "УИК №1848",
     "tikTvd": "2552000897339",
-    "tikName": "Черлакская"
+    "tikName": "Черлакская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1849,
     "uikTvd": "4554038155372",
+    "uikName": "УИК №1849",
     "tikTvd": "2552000897339",
-    "tikName": "Черлакская"
+    "tikName": "Черлакская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1850,
     "uikTvd": "4554038155373",
+    "uikName": "УИК №1850",
     "tikTvd": "2552000897339",
-    "tikName": "Черлакская"
+    "tikName": "Черлакская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1851,
     "uikTvd": "4554038155374",
+    "uikName": "УИК №1851",
     "tikTvd": "2552000897339",
-    "tikName": "Черлакская"
+    "tikName": "Черлакская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1852,
     "uikTvd": "4554038155375",
+    "uikName": "УИК №1852",
     "tikTvd": "2552000897339",
-    "tikName": "Черлакская"
+    "tikName": "Черлакская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1853,
     "uikTvd": "4554038155376",
+    "uikName": "УИК №1853",
     "tikTvd": "2552000897339",
-    "tikName": "Черлакская"
+    "tikName": "Черлакская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1854,
     "uikTvd": "4554038155377",
+    "uikName": "УИК №1854",
     "tikTvd": "2552000897339",
-    "tikName": "Черлакская"
+    "tikName": "Черлакская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1855,
     "uikTvd": "4554038155378",
+    "uikName": "УИК №1855",
     "tikTvd": "2552000897339",
-    "tikName": "Черлакская"
+    "tikName": "Черлакская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1856,
     "uikTvd": "4554038155379",
+    "uikName": "УИК №1856",
     "tikTvd": "2552000897339",
-    "tikName": "Черлакская"
+    "tikName": "Черлакская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1857,
     "uikTvd": "4554038155380",
+    "uikName": "УИК №1857",
     "tikTvd": "2552000897339",
-    "tikName": "Черлакская"
+    "tikName": "Черлакская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1858,
     "uikTvd": "4554038155381",
+    "uikName": "УИК №1858",
     "tikTvd": "2552000897339",
-    "tikName": "Черлакская"
+    "tikName": "Черлакская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1859,
     "uikTvd": "4554038155382",
+    "uikName": "УИК №1859",
     "tikTvd": "2552000897339",
-    "tikName": "Черлакская"
+    "tikName": "Черлакская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1860,
     "uikTvd": "4554038155383",
+    "uikName": "УИК №1860",
     "tikTvd": "2552000897339",
-    "tikName": "Черлакская"
+    "tikName": "Черлакская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1861,
     "uikTvd": "4554038155384",
+    "uikName": "УИК №1861",
     "tikTvd": "2552000897339",
-    "tikName": "Черлакская"
+    "tikName": "Черлакская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1862,
     "uikTvd": "4554038155385",
+    "uikName": "УИК №1862",
     "tikTvd": "2552000897339",
-    "tikName": "Черлакская"
+    "tikName": "Черлакская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1863,
     "uikTvd": "4554038155386",
+    "uikName": "УИК №1863",
     "tikTvd": "2552000897339",
-    "tikName": "Черлакская"
+    "tikName": "Черлакская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1864,
     "uikTvd": "4554038155387",
+    "uikName": "УИК №1864",
     "tikTvd": "2552000897339",
-    "tikName": "Черлакская"
+    "tikName": "Черлакская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1865,
     "uikTvd": "4554038155388",
+    "uikName": "УИК №1865",
     "tikTvd": "2552000897339",
-    "tikName": "Черлакская"
+    "tikName": "Черлакская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1866,
     "uikTvd": "4554038155389",
+    "uikName": "УИК №1866",
     "tikTvd": "2552000897339",
-    "tikName": "Черлакская"
+    "tikName": "Черлакская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1867,
     "uikTvd": "4554038155390",
+    "uikName": "УИК №1867",
     "tikTvd": "2552000897339",
-    "tikName": "Черлакская"
+    "tikName": "Черлакская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1868,
     "uikTvd": "4554038155391",
+    "uikName": "УИК №1868",
     "tikTvd": "2552000897339",
-    "tikName": "Черлакская"
+    "tikName": "Черлакская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1869,
     "uikTvd": "4554038155392",
+    "uikName": "УИК №1869",
     "tikTvd": "2552000897339",
-    "tikName": "Черлакская"
+    "tikName": "Черлакская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1870,
     "uikTvd": "4554038155393",
+    "uikName": "УИК №1870",
     "tikTvd": "2552000897339",
-    "tikName": "Черлакская"
+    "tikName": "Черлакская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1871,
     "uikTvd": "4554038155394",
+    "uikName": "УИК №1871",
     "tikTvd": "2552000897339",
-    "tikName": "Черлакская"
+    "tikName": "Черлакская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1872,
     "uikTvd": "4554038155395",
+    "uikName": "УИК №1872",
     "tikTvd": "2552000897339",
-    "tikName": "Черлакская"
+    "tikName": "Черлакская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1873,
     "uikTvd": "4554038155396",
+    "uikName": "УИК №1873",
     "tikTvd": "2552000897339",
-    "tikName": "Черлакская"
+    "tikName": "Черлакская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1874,
     "uikTvd": "4554038155397",
+    "uikName": "УИК №1874",
     "tikTvd": "2552000897339",
-    "tikName": "Черлакская"
+    "tikName": "Черлакская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1875,
     "uikTvd": "4554038155398",
+    "uikName": "УИК №1875",
     "tikTvd": "2552000897339",
-    "tikName": "Черлакская"
+    "tikName": "Черлакская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1876,
     "uikTvd": "4554038155399",
+    "uikName": "УИК №1876",
     "tikTvd": "2552000897339",
-    "tikName": "Черлакская"
+    "tikName": "Черлакская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1877,
     "uikTvd": "4554038155400",
+    "uikName": "УИК №1877",
     "tikTvd": "2552000897339",
-    "tikName": "Черлакская"
+    "tikName": "Черлакская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1878,
     "uikTvd": "4554038155401",
+    "uikName": "УИК №1878",
     "tikTvd": "2552000897339",
-    "tikName": "Черлакская"
+    "tikName": "Черлакская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1879,
     "uikTvd": "4554038155402",
+    "uikName": "УИК №1879",
     "tikTvd": "2552000897339",
-    "tikName": "Черлакская"
+    "tikName": "Черлакская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1880,
     "uikTvd": "4554038155403",
+    "uikName": "УИК №1880",
     "tikTvd": "2552000897339",
-    "tikName": "Черлакская"
+    "tikName": "Черлакская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1881,
     "uikTvd": "4554038155404",
+    "uikName": "УИК №1881",
     "tikTvd": "2552000897339",
-    "tikName": "Черлакская"
+    "tikName": "Черлакская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1882,
     "uikTvd": "4554038155405",
+    "uikName": "УИК №1882",
     "tikTvd": "2552000897339",
-    "tikName": "Черлакская"
+    "tikName": "Черлакская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1883,
     "uikTvd": "4554038155406",
+    "uikName": "УИК №1883",
     "tikTvd": "2552000897339",
-    "tikName": "Черлакская"
+    "tikName": "Черлакская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1884,
     "uikTvd": "4554038155407",
+    "uikName": "УИК №1884",
     "tikTvd": "2552000897339",
-    "tikName": "Черлакская"
+    "tikName": "Черлакская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100067796037",
+      "oikName": "Омская область – Омский"
+    }
   },
   {
     "uikNumber": 1890,
     "uikTvd": "4554039174896",
+    "uikName": "УИК №1890",
     "tikTvd": "2552000897348",
-    "tikName": "Шербакульская"
+    "tikName": "Шербакульская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1891,
     "uikTvd": "4554039174897",
+    "uikName": "УИК №1891",
     "tikTvd": "2552000897348",
-    "tikName": "Шербакульская"
+    "tikName": "Шербакульская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1892,
     "uikTvd": "4554039174898",
+    "uikName": "УИК №1892",
     "tikTvd": "2552000897348",
-    "tikName": "Шербакульская"
+    "tikName": "Шербакульская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1893,
     "uikTvd": "4554039174899",
+    "uikName": "УИК №1893",
     "tikTvd": "2552000897348",
-    "tikName": "Шербакульская"
+    "tikName": "Шербакульская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1894,
     "uikTvd": "4554039174900",
+    "uikName": "УИК №1894",
     "tikTvd": "2552000897348",
-    "tikName": "Шербакульская"
+    "tikName": "Шербакульская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1895,
     "uikTvd": "4554039174901",
+    "uikName": "УИК №1895",
     "tikTvd": "2552000897348",
-    "tikName": "Шербакульская"
+    "tikName": "Шербакульская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1896,
     "uikTvd": "4554039174902",
+    "uikName": "УИК №1896",
     "tikTvd": "2552000897348",
-    "tikName": "Шербакульская"
+    "tikName": "Шербакульская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1897,
     "uikTvd": "4554039174903",
+    "uikName": "УИК №1897",
     "tikTvd": "2552000897348",
-    "tikName": "Шербакульская"
+    "tikName": "Шербакульская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1898,
     "uikTvd": "4554039174904",
+    "uikName": "УИК №1898",
     "tikTvd": "2552000897348",
-    "tikName": "Шербакульская"
+    "tikName": "Шербакульская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1899,
     "uikTvd": "4554039174905",
+    "uikName": "УИК №1899",
     "tikTvd": "2552000897348",
-    "tikName": "Шербакульская"
+    "tikName": "Шербакульская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1900,
     "uikTvd": "4554039174906",
+    "uikName": "УИК №1900",
     "tikTvd": "2552000897348",
-    "tikName": "Шербакульская"
+    "tikName": "Шербакульская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1901,
     "uikTvd": "4554039174907",
+    "uikName": "УИК №1901",
     "tikTvd": "2552000897348",
-    "tikName": "Шербакульская"
+    "tikName": "Шербакульская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1902,
     "uikTvd": "4554039174908",
+    "uikName": "УИК №1902",
     "tikTvd": "2552000897348",
-    "tikName": "Шербакульская"
+    "tikName": "Шербакульская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1903,
     "uikTvd": "4554039174909",
+    "uikName": "УИК №1903",
     "tikTvd": "2552000897348",
-    "tikName": "Шербакульская"
+    "tikName": "Шербакульская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1904,
     "uikTvd": "4554039174910",
+    "uikName": "УИК №1904",
     "tikTvd": "2552000897348",
-    "tikName": "Шербакульская"
+    "tikName": "Шербакульская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1905,
     "uikTvd": "4554039174911",
+    "uikName": "УИК №1905",
     "tikTvd": "2552000897348",
-    "tikName": "Шербакульская"
+    "tikName": "Шербакульская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1906,
     "uikTvd": "4554039174912",
+    "uikName": "УИК №1906",
     "tikTvd": "2552000897348",
-    "tikName": "Шербакульская"
+    "tikName": "Шербакульская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1907,
     "uikTvd": "4554039174913",
+    "uikName": "УИК №1907",
     "tikTvd": "2552000897348",
-    "tikName": "Шербакульская"
+    "tikName": "Шербакульская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1908,
     "uikTvd": "4554039174914",
+    "uikName": "УИК №1908",
     "tikTvd": "2552000897348",
-    "tikName": "Шербакульская"
+    "tikName": "Шербакульская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1909,
     "uikTvd": "4554039174915",
+    "uikName": "УИК №1909",
     "tikTvd": "2552000897348",
-    "tikName": "Шербакульская"
+    "tikName": "Шербакульская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1910,
     "uikTvd": "4554039174916",
+    "uikName": "УИК №1910",
     "tikTvd": "2552000897348",
-    "tikName": "Шербакульская"
+    "tikName": "Шербакульская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1911,
     "uikTvd": "4554039174917",
+    "uikName": "УИК №1911",
     "tikTvd": "2552000897348",
-    "tikName": "Шербакульская"
+    "tikName": "Шербакульская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1912,
     "uikTvd": "4554039174918",
+    "uikName": "УИК №1912",
     "tikTvd": "2552000897348",
-    "tikName": "Шербакульская"
+    "tikName": "Шербакульская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1913,
     "uikTvd": "4554039174919",
+    "uikName": "УИК №1913",
     "tikTvd": "2552000897348",
-    "tikName": "Шербакульская"
+    "tikName": "Шербакульская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1914,
     "uikTvd": "4554039174920",
+    "uikName": "УИК №1914",
     "tikTvd": "2552000897348",
-    "tikName": "Шербакульская"
+    "tikName": "Шербакульская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1915,
     "uikTvd": "4554039174921",
+    "uikName": "УИК №1915",
     "tikTvd": "2552000897348",
-    "tikName": "Шербакульская"
+    "tikName": "Шербакульская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1916,
     "uikTvd": "4554039174922",
+    "uikName": "УИК №1916",
     "tikTvd": "2552000897348",
-    "tikName": "Шербакульская"
+    "tikName": "Шербакульская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1917,
     "uikTvd": "4554039174923",
+    "uikName": "УИК №1917",
     "tikTvd": "2552000897348",
-    "tikName": "Шербакульская"
+    "tikName": "Шербакульская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1918,
     "uikTvd": "4554039174924",
+    "uikName": "УИК №1918",
     "tikTvd": "2552000897348",
-    "tikName": "Шербакульская"
+    "tikName": "Шербакульская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1919,
     "uikTvd": "4554039174925",
+    "uikName": "УИК №1919",
     "tikTvd": "2552000897348",
-    "tikName": "Шербакульская"
+    "tikName": "Шербакульская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1920,
     "uikTvd": "4554039174926",
+    "uikName": "УИК №1920",
     "tikTvd": "2552000897348",
-    "tikName": "Шербакульская"
+    "tikName": "Шербакульская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1921,
     "uikTvd": "4554039174927",
+    "uikName": "УИК №1921",
     "tikTvd": "2552000897348",
-    "tikName": "Шербакульская"
+    "tikName": "Шербакульская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1922,
     "uikTvd": "4554039174928",
+    "uikName": "УИК №1922",
     "tikTvd": "2552000897348",
-    "tikName": "Шербакульская"
+    "tikName": "Шербакульская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1923,
     "uikTvd": "4554039174929",
+    "uikName": "УИК №1923",
     "tikTvd": "2552000897348",
-    "tikName": "Шербакульская"
+    "tikName": "Шербакульская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1924,
     "uikTvd": "4554039174930",
+    "uikName": "УИК №1924",
     "tikTvd": "2552000897348",
-    "tikName": "Шербакульская"
+    "tikName": "Шербакульская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1925,
     "uikTvd": "4554039174931",
+    "uikName": "УИК №1925",
     "tikTvd": "2552000897348",
-    "tikName": "Шербакульская"
+    "tikName": "Шербакульская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1929,
     "uikTvd": "4554018137401",
+    "uikName": "УИК №1929",
     "tikTvd": "2552000897346",
-    "tikName": "Одесская"
+    "tikName": "Одесская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1930,
     "uikTvd": "4554018137402",
+    "uikName": "УИК №1930",
     "tikTvd": "2552000897346",
-    "tikName": "Одесская"
+    "tikName": "Одесская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1931,
     "uikTvd": "4554018137403",
+    "uikName": "УИК №1931",
     "tikTvd": "2552000897346",
-    "tikName": "Одесская"
+    "tikName": "Одесская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1933,
     "uikTvd": "4554020218473",
+    "uikName": "УИК №1933",
     "tikTvd": "2552000897341",
-    "tikName": "Омск, Кировская"
+    "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   },
   {
     "uikNumber": 1934,
     "uikTvd": "4554020218475",
+    "uikName": "УИК №1934",
     "tikTvd": "2552000897341",
-    "tikName": "Омск, Кировская"
+    "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100067796038",
+      "oikName": "Омская область – Москаленский"
+    }
   }
 ] satisfies readonly UikTikRelation[];

@@ -11,6 +11,14 @@ export const duma_2016_tic_464_region_57 = [
     "ballot": "single-member",
     "tikTvd": "2572000787235",
     "tikName": "Троснянская",
+    "regionCode": "57",
+    "regionTvd": "100100067796044",
+    "regionName": "Орловская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100067796045",
+      "oikName": "Орловская область – Орловский"
+    },
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 8124,
@@ -80,6 +88,14 @@ export const duma_2016_tic_464_region_57 = [
     "ballot": "single-member",
     "tikTvd": "2572000787236",
     "tikName": "Глазуновская",
+    "regionCode": "57",
+    "regionTvd": "100100067796044",
+    "regionName": "Орловская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100067796045",
+      "oikName": "Орловская область – Орловский"
+    },
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 10919,
@@ -152,6 +168,14 @@ export const duma_2016_tic_464_region_57 = [
     "ballot": "single-member",
     "tikTvd": "2572000787237",
     "tikName": "Мценская",
+    "regionCode": "57",
+    "regionTvd": "100100067796044",
+    "regionName": "Орловская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100067796045",
+      "oikName": "Орловская область – Орловский"
+    },
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 16265,
@@ -233,6 +257,14 @@ export const duma_2016_tic_464_region_57 = [
     "ballot": "single-member",
     "tikTvd": "2572000787238",
     "tikName": "Орел, Советская",
+    "regionCode": "57",
+    "regionTvd": "100100067796044",
+    "regionName": "Орловская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100067796045",
+      "oikName": "Орловская область – Орловский"
+    },
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 64636,
@@ -325,6 +357,14 @@ export const duma_2016_tic_464_region_57 = [
     "ballot": "single-member",
     "tikTvd": "2572000787239",
     "tikName": "Краснозоренская",
+    "regionCode": "57",
+    "regionTvd": "100100067796044",
+    "regionName": "Орловская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100067796045",
+      "oikName": "Орловская область – Орловский"
+    },
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 5529,
@@ -391,6 +431,14 @@ export const duma_2016_tic_464_region_57 = [
     "ballot": "single-member",
     "tikTvd": "2572000787240",
     "tikName": "Новосильская",
+    "regionCode": "57",
+    "regionTvd": "100100067796044",
+    "regionName": "Орловская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100067796045",
+      "oikName": "Орловская область – Орловский"
+    },
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 7054,
@@ -458,6 +506,14 @@ export const duma_2016_tic_464_region_57 = [
     "ballot": "single-member",
     "tikTvd": "2572000787241",
     "tikName": "Орел, Северная ",
+    "regionCode": "57",
+    "regionTvd": "100100067796044",
+    "regionName": "Орловская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100067796045",
+      "oikName": "Орловская область – Орловский"
+    },
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 56037,
@@ -536,6 +592,14 @@ export const duma_2016_tic_464_region_57 = [
     "ballot": "single-member",
     "tikTvd": "2572000787242",
     "tikName": "Дмитровская",
+    "regionCode": "57",
+    "regionTvd": "100100067796044",
+    "regionName": "Орловская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100067796045",
+      "oikName": "Орловская область – Орловский"
+    },
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 10715,
@@ -610,6 +674,14 @@ export const duma_2016_tic_464_region_57 = [
     "ballot": "single-member",
     "tikTvd": "2572000787243",
     "tikName": "Хотынецкая",
+    "regionCode": "57",
+    "regionTvd": "100100067796044",
+    "regionName": "Орловская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100067796045",
+      "oikName": "Орловская область – Орловский"
+    },
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 8530,
@@ -678,6 +750,14 @@ export const duma_2016_tic_464_region_57 = [
     "ballot": "single-member",
     "tikTvd": "2572000787244",
     "tikName": "Покровская",
+    "regionCode": "57",
+    "regionTvd": "100100067796044",
+    "regionName": "Орловская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100067796045",
+      "oikName": "Орловская область – Орловский"
+    },
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 11912,
@@ -757,6 +837,14 @@ export const duma_2016_tic_464_region_57 = [
     "ballot": "single-member",
     "tikTvd": "2572000787245",
     "tikName": "Болховская",
+    "regionCode": "57",
+    "regionTvd": "100100067796044",
+    "regionName": "Орловская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100067796045",
+      "oikName": "Орловская область – Орловский"
+    },
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 15476,
@@ -831,6 +919,14 @@ export const duma_2016_tic_464_region_57 = [
     "ballot": "single-member",
     "tikTvd": "2572000787246",
     "tikName": "Сосковская",
+    "regionCode": "57",
+    "regionTvd": "100100067796044",
+    "regionName": "Орловская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100067796045",
+      "oikName": "Орловская область – Орловский"
+    },
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 5193,
@@ -897,6 +993,14 @@ export const duma_2016_tic_464_region_57 = [
     "ballot": "single-member",
     "tikTvd": "2572000787247",
     "tikName": "Верховская",
+    "regionCode": "57",
+    "regionTvd": "100100067796044",
+    "regionName": "Орловская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100067796045",
+      "oikName": "Орловская область – Орловский"
+    },
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 15288,
@@ -973,6 +1077,14 @@ export const duma_2016_tic_464_region_57 = [
     "ballot": "single-member",
     "tikTvd": "2572000787248",
     "tikName": "Свердловская",
+    "regionCode": "57",
+    "regionTvd": "100100067796044",
+    "regionName": "Орловская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100067796045",
+      "oikName": "Орловская область – Орловский"
+    },
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 13121,
@@ -1050,6 +1162,14 @@ export const duma_2016_tic_464_region_57 = [
     "ballot": "single-member",
     "tikTvd": "2572000787249",
     "tikName": "Должанская",
+    "regionCode": "57",
+    "regionTvd": "100100067796044",
+    "regionName": "Орловская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100067796045",
+      "oikName": "Орловская область – Орловский"
+    },
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 9355,
@@ -1124,6 +1244,14 @@ export const duma_2016_tic_464_region_57 = [
     "ballot": "single-member",
     "tikTvd": "2572000787250",
     "tikName": "Колпнянская",
+    "regionCode": "57",
+    "regionTvd": "100100067796044",
+    "regionName": "Орловская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100067796045",
+      "oikName": "Орловская область – Орловский"
+    },
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 12403,
@@ -1200,6 +1328,14 @@ export const duma_2016_tic_464_region_57 = [
     "ballot": "single-member",
     "tikTvd": "2572000787251",
     "tikName": "Ливенская",
+    "regionCode": "57",
+    "regionTvd": "100100067796044",
+    "regionName": "Орловская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100067796045",
+      "oikName": "Орловская область – Орловский"
+    },
     "uikCount": 44,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 24795,
@@ -1296,6 +1432,14 @@ export const duma_2016_tic_464_region_57 = [
     "ballot": "single-member",
     "tikTvd": "2572000787252",
     "tikName": "Орел, Железнодорожная",
+    "regionCode": "57",
+    "regionTvd": "100100067796044",
+    "regionName": "Орловская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100067796045",
+      "oikName": "Орловская область – Орловский"
+    },
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 52767,
@@ -1378,6 +1522,14 @@ export const duma_2016_tic_464_region_57 = [
     "ballot": "single-member",
     "tikTvd": "2572000787253",
     "tikName": "Новодеревеньковская",
+    "regionCode": "57",
+    "regionTvd": "100100067796044",
+    "regionName": "Орловская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100067796045",
+      "oikName": "Орловская область – Орловский"
+    },
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 9114,
@@ -1451,6 +1603,14 @@ export const duma_2016_tic_464_region_57 = [
     "ballot": "single-member",
     "tikTvd": "2572000787254",
     "tikName": "Знаменская",
+    "regionCode": "57",
+    "regionTvd": "100100067796044",
+    "regionName": "Орловская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100067796045",
+      "oikName": "Орловская область – Орловский"
+    },
     "uikCount": 11,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 4059,
@@ -1514,6 +1674,14 @@ export const duma_2016_tic_464_region_57 = [
     "ballot": "single-member",
     "tikTvd": "2572000787255",
     "tikName": "Малоархангельская",
+    "regionCode": "57",
+    "regionTvd": "100100067796044",
+    "regionName": "Орловская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100067796045",
+      "oikName": "Орловская область – Орловский"
+    },
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 9863,
@@ -1586,6 +1754,14 @@ export const duma_2016_tic_464_region_57 = [
     "ballot": "single-member",
     "tikTvd": "2572000787256",
     "tikName": "Мценская городская",
+    "regionCode": "57",
+    "regionTvd": "100100067796044",
+    "regionName": "Орловская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100067796045",
+      "oikName": "Орловская область – Орловский"
+    },
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 35347,
@@ -1663,6 +1839,14 @@ export const duma_2016_tic_464_region_57 = [
     "ballot": "single-member",
     "tikTvd": "2572000787257",
     "tikName": "Корсаковская",
+    "regionCode": "57",
+    "regionTvd": "100100067796044",
+    "regionName": "Орловская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100067796045",
+      "oikName": "Орловская область – Орловский"
+    },
     "uikCount": 9,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 3721,
@@ -1724,6 +1908,14 @@ export const duma_2016_tic_464_region_57 = [
     "ballot": "single-member",
     "tikTvd": "2572000787258",
     "tikName": "Ливенская городская",
+    "regionCode": "57",
+    "regionTvd": "100100067796044",
+    "regionName": "Орловская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100067796045",
+      "oikName": "Орловская область – Орловский"
+    },
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 39365,
@@ -1803,6 +1995,14 @@ export const duma_2016_tic_464_region_57 = [
     "ballot": "single-member",
     "tikTvd": "2572000787259",
     "tikName": "Орловская",
+    "regionCode": "57",
+    "regionTvd": "100100067796044",
+    "regionName": "Орловская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100067796045",
+      "oikName": "Орловская область – Орловский"
+    },
     "uikCount": 54,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 54267,
@@ -1909,6 +2109,14 @@ export const duma_2016_tic_464_region_57 = [
     "ballot": "single-member",
     "tikTvd": "2572000787260",
     "tikName": "Орел, Заводская",
+    "regionCode": "57",
+    "regionTvd": "100100067796044",
+    "regionName": "Орловская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100067796045",
+      "oikName": "Орловская область – Орловский"
+    },
     "uikCount": 49,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 88114,
@@ -2010,6 +2218,14 @@ export const duma_2016_tic_464_region_57 = [
     "ballot": "single-member",
     "tikTvd": "2572000787261",
     "tikName": "Кромская",
+    "regionCode": "57",
+    "regionTvd": "100100067796044",
+    "regionName": "Орловская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100067796045",
+      "oikName": "Орловская область – Орловский"
+    },
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 16914,
@@ -2094,6 +2310,14 @@ export const duma_2016_tic_464_region_57 = [
     "ballot": "single-member",
     "tikTvd": "2572000787262",
     "tikName": "Залегощенская",
+    "regionCode": "57",
+    "regionTvd": "100100067796044",
+    "regionName": "Орловская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100067796045",
+      "oikName": "Орловская область – Орловский"
+    },
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 12418,
@@ -2168,6 +2392,14 @@ export const duma_2016_tic_464_region_57 = [
     "ballot": "single-member",
     "tikTvd": "2572000787263",
     "tikName": "Шаблыкинская",
+    "regionCode": "57",
+    "regionTvd": "100100067796044",
+    "regionName": "Орловская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100067796045",
+      "oikName": "Орловская область – Орловский"
+    },
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 6324,
@@ -2235,6 +2467,14 @@ export const duma_2016_tic_464_region_57 = [
     "ballot": "single-member",
     "tikTvd": "2572000787264",
     "tikName": "Урицкая",
+    "regionCode": "57",
+    "regionTvd": "100100067796044",
+    "regionName": "Орловская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100067796045",
+      "oikName": "Орловская область – Орловский"
+    },
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 14767,

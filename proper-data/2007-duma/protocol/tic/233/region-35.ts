@@ -11,6 +11,9 @@ export const duma_2007_tic_233_region_35 = [
     "ballot": "party",
     "tikTvd": "2352000162915",
     "tikName": "Верховажская",
+    "regionCode": "35",
+    "regionTvd": "100100021960249",
+    "regionName": "Вологодская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 11845,
@@ -93,6 +96,9 @@ export const duma_2007_tic_233_region_35 = [
     "ballot": "party",
     "tikTvd": "2352000162916",
     "tikName": "Вожегодская",
+    "regionCode": "35",
+    "regionTvd": "100100021960249",
+    "regionName": "Вологодская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 13370,
@@ -175,6 +181,9 @@ export const duma_2007_tic_233_region_35 = [
     "ballot": "party",
     "tikTvd": "2352000162917",
     "tikName": "Вашкинская",
+    "regionCode": "35",
+    "regionTvd": "100100021960249",
+    "regionName": "Вологодская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 7662,
@@ -248,6 +257,9 @@ export const duma_2007_tic_233_region_35 = [
     "ballot": "party",
     "tikTvd": "2352000162918",
     "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "100100021960249",
+    "regionName": "Вологодская область",
     "uikCount": 113,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 254581,
@@ -415,6 +427,9 @@ export const duma_2007_tic_233_region_35 = [
     "ballot": "party",
     "tikTvd": "2352000162919",
     "tikName": "Череповецкая",
+    "regionCode": "35",
+    "regionTvd": "100100021960249",
+    "regionName": "Вологодская область",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 31631,
@@ -519,6 +534,9 @@ export const duma_2007_tic_233_region_35 = [
     "ballot": "party",
     "tikTvd": "2352000162920",
     "tikName": "Шекснинская",
+    "regionCode": "35",
+    "regionTvd": "100100021960249",
+    "regionName": "Вологодская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 25316,
@@ -607,6 +625,9 @@ export const duma_2007_tic_233_region_35 = [
     "ballot": "party",
     "tikTvd": "2352000162921",
     "tikName": "Чагодощенская",
+    "regionCode": "35",
+    "regionTvd": "100100021960249",
+    "regionName": "Вологодская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 11695,
@@ -679,6 +700,9 @@ export const duma_2007_tic_233_region_35 = [
     "ballot": "party",
     "tikTvd": "2352000162922",
     "tikName": "Усть-Кубинская",
+    "regionCode": "35",
+    "regionTvd": "100100021960249",
+    "regionName": "Вологодская область",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 7107,
@@ -747,6 +771,9 @@ export const duma_2007_tic_233_region_35 = [
     "ballot": "party",
     "tikTvd": "2352000162923",
     "tikName": "Харовская",
+    "regionCode": "35",
+    "regionTvd": "100100021960249",
+    "regionName": "Вологодская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 15037,
@@ -825,6 +852,9 @@ export const duma_2007_tic_233_region_35 = [
     "ballot": "party",
     "tikTvd": "2352000162924",
     "tikName": "Тотемская",
+    "regionCode": "35",
+    "regionTvd": "100100021960249",
+    "regionName": "Вологодская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 20542,
@@ -913,6 +943,9 @@ export const duma_2007_tic_233_region_35 = [
     "ballot": "party",
     "tikTvd": "2352000162925",
     "tikName": "Устюженская",
+    "regionCode": "35",
+    "regionTvd": "100100021960249",
+    "regionName": "Вологодская область",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 15171,
@@ -1000,6 +1033,9 @@ export const duma_2007_tic_233_region_35 = [
     "ballot": "party",
     "tikTvd": "2352000162926",
     "tikName": "Сокольская",
+    "regionCode": "35",
+    "regionTvd": "100100021960249",
+    "regionName": "Вологодская область",
     "uikCount": 45,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 44139,
@@ -1099,6 +1135,9 @@ export const duma_2007_tic_233_region_35 = [
     "ballot": "party",
     "tikTvd": "2352000162927",
     "tikName": "Тарногская",
+    "regionCode": "35",
+    "regionTvd": "100100021960249",
+    "regionName": "Вологодская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 11130,
@@ -1177,6 +1216,9 @@ export const duma_2007_tic_233_region_35 = [
     "ballot": "party",
     "tikTvd": "2352000162928",
     "tikName": "Сямженская",
+    "regionCode": "35",
+    "regionTvd": "100100021960249",
+    "regionName": "Вологодская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 8028,
@@ -1253,6 +1295,9 @@ export const duma_2007_tic_233_region_35 = [
     "ballot": "party",
     "tikTvd": "2352000162929",
     "tikName": "Нюксенская",
+    "regionCode": "35",
+    "regionTvd": "100100021960249",
+    "regionName": "Вологодская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 8599,
@@ -1331,6 +1376,9 @@ export const duma_2007_tic_233_region_35 = [
     "ballot": "party",
     "tikTvd": "2352000162930",
     "tikName": "Бабаевская",
+    "regionCode": "35",
+    "regionTvd": "100100021960249",
+    "regionName": "Вологодская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 19569,
@@ -1419,6 +1467,9 @@ export const duma_2007_tic_233_region_35 = [
     "ballot": "party",
     "tikTvd": "2352000162931",
     "tikName": "Бабушкинская",
+    "regionCode": "35",
+    "regionTvd": "100100021960249",
+    "regionName": "Вологодская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 11874,
@@ -1498,6 +1549,9 @@ export const duma_2007_tic_233_region_35 = [
     "ballot": "party",
     "tikTvd": "2352000162932",
     "tikName": "Белозерская",
+    "regionCode": "35",
+    "regionTvd": "100100021960249",
+    "regionName": "Вологодская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 15890,
@@ -1582,6 +1636,9 @@ export const duma_2007_tic_233_region_35 = [
     "ballot": "party",
     "tikTvd": "2352000162933",
     "tikName": "Никольская",
+    "regionCode": "35",
+    "regionTvd": "100100021960249",
+    "regionName": "Вологодская область",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 19008,
@@ -1677,6 +1734,9 @@ export const duma_2007_tic_233_region_35 = [
     "ballot": "party",
     "tikTvd": "2352000162934",
     "tikName": "Междуреченская",
+    "regionCode": "35",
+    "regionTvd": "100100021960249",
+    "regionName": "Вологодская область",
     "uikCount": 10,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 5744,
@@ -1741,6 +1801,9 @@ export const duma_2007_tic_233_region_35 = [
     "ballot": "party",
     "tikTvd": "2352000162935",
     "tikName": "Кадуйская",
+    "regionCode": "35",
+    "regionTvd": "100100021960249",
+    "regionName": "Вологодская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 14236,
@@ -1817,6 +1880,9 @@ export const duma_2007_tic_233_region_35 = [
     "ballot": "party",
     "tikTvd": "2352000162936",
     "tikName": "Кирилловская",
+    "regionCode": "35",
+    "regionTvd": "100100021960249",
+    "regionName": "Вологодская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 13922,
@@ -1900,6 +1966,9 @@ export const duma_2007_tic_233_region_35 = [
     "ballot": "party",
     "tikTvd": "2352000162937",
     "tikName": "Кичменгско-городецкая",
+    "regionCode": "35",
+    "regionTvd": "100100021960249",
+    "regionName": "Вологодская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 15093,
@@ -1985,6 +2054,9 @@ export const duma_2007_tic_233_region_35 = [
     "ballot": "party",
     "tikTvd": "2352000162938",
     "tikName": "Вытегорская",
+    "regionCode": "35",
+    "regionTvd": "100100021960249",
+    "regionName": "Вологодская область",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 23240,
@@ -2083,6 +2155,9 @@ export const duma_2007_tic_233_region_35 = [
     "ballot": "party",
     "tikTvd": "2352000162939",
     "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "100100021960249",
+    "regionName": "Вологодская область",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 29460,
@@ -2178,6 +2253,9 @@ export const duma_2007_tic_233_region_35 = [
     "ballot": "party",
     "tikTvd": "2352000162940",
     "tikName": "Вологодская",
+    "regionCode": "35",
+    "regionTvd": "100100021960249",
+    "regionName": "Вологодская область",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 38393,
@@ -2276,6 +2354,9 @@ export const duma_2007_tic_233_region_35 = [
     "ballot": "party",
     "tikTvd": "2352000162941",
     "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "100100021960249",
+    "regionName": "Вологодская область",
     "uikCount": 143,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 248445,
@@ -2473,6 +2554,9 @@ export const duma_2007_tic_233_region_35 = [
     "ballot": "party",
     "tikTvd": "2352000162942",
     "tikName": "Великоустюгская",
+    "regionCode": "35",
+    "regionTvd": "100100021960249",
+    "regionName": "Вологодская область",
     "uikCount": 54,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 50061,

@@ -11,6 +11,9 @@ export const duma_2011_tic_233_region_43 = [
     "ballot": "party",
     "tikTvd": "7437000293756",
     "tikName": "Санчурская",
+    "regionCode": "43",
+    "regionTvd": "100100028713384",
+    "regionName": "Кировская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 8726,
@@ -79,6 +82,9 @@ export const duma_2011_tic_233_region_43 = [
     "ballot": "party",
     "tikTvd": "7437000293757",
     "tikName": "Сунская",
+    "regionCode": "43",
+    "regionTvd": "100100028713384",
+    "regionName": "Кировская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 6064,
@@ -143,6 +149,9 @@ export const duma_2011_tic_233_region_43 = [
     "ballot": "party",
     "tikTvd": "7437000293758",
     "tikName": "Советская",
+    "regionCode": "43",
+    "regionTvd": "100100028713384",
+    "regionName": "Кировская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 22833,
@@ -226,6 +235,9 @@ export const duma_2011_tic_233_region_43 = [
     "ballot": "party",
     "tikTvd": "7437000293759",
     "tikName": "Унинская",
+    "regionCode": "43",
+    "regionTvd": "100100028713384",
+    "regionName": "Кировская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 7997,
@@ -295,6 +307,9 @@ export const duma_2011_tic_233_region_43 = [
     "ballot": "party",
     "tikTvd": "7437000293760",
     "tikName": "Тужинская",
+    "regionCode": "43",
+    "regionTvd": "100100028713384",
+    "regionName": "Кировская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 6743,
@@ -359,6 +374,9 @@ export const duma_2011_tic_233_region_43 = [
     "ballot": "party",
     "tikTvd": "7437000293761",
     "tikName": "Свечинская",
+    "regionCode": "43",
+    "regionTvd": "100100028713384",
+    "regionName": "Кировская область",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 7122,
@@ -422,6 +440,9 @@ export const duma_2011_tic_233_region_43 = [
     "ballot": "party",
     "tikTvd": "7437000293762",
     "tikName": "Шабалинская",
+    "regionCode": "43",
+    "regionTvd": "100100028713384",
+    "regionName": "Кировская область",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 9599,
@@ -487,6 +508,9 @@ export const duma_2011_tic_233_region_43 = [
     "ballot": "party",
     "tikTvd": "7437000293763",
     "tikName": "Слободская",
+    "regionCode": "43",
+    "regionTvd": "100100028713384",
+    "regionName": "Кировская область",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 25394,
@@ -569,6 +593,9 @@ export const duma_2011_tic_233_region_43 = [
     "ballot": "party",
     "tikTvd": "7437000293764",
     "tikName": "Вятско-Полянская городская",
+    "regionCode": "43",
+    "regionTvd": "100100028713384",
+    "regionName": "Кировская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 30282,
@@ -636,6 +663,9 @@ export const duma_2011_tic_233_region_43 = [
     "ballot": "party",
     "tikTvd": "7437000293765",
     "tikName": "Слободская городская",
+    "regionCode": "43",
+    "regionTvd": "100100028713384",
+    "regionName": "Кировская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 29249,
@@ -704,6 +734,9 @@ export const duma_2011_tic_233_region_43 = [
     "ballot": "party",
     "tikTvd": "7437000293766",
     "tikName": "Яранская",
+    "regionCode": "43",
+    "regionTvd": "100100028713384",
+    "regionName": "Кировская область",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 24701,
@@ -790,6 +823,9 @@ export const duma_2011_tic_233_region_43 = [
     "ballot": "party",
     "tikTvd": "7437000293767",
     "tikName": "Котельничская городская",
+    "regionCode": "43",
+    "regionTvd": "100100028713384",
+    "regionName": "Кировская область",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 21522,
@@ -852,6 +888,9 @@ export const duma_2011_tic_233_region_43 = [
     "ballot": "party",
     "tikTvd": "7437000293768",
     "tikName": "Юрьянская",
+    "regionCode": "43",
+    "regionTvd": "100100028713384",
+    "regionName": "Кировская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 16208,
@@ -921,6 +960,9 @@ export const duma_2011_tic_233_region_43 = [
     "ballot": "party",
     "tikTvd": "7437000293769",
     "tikName": "Зуевская",
+    "regionCode": "43",
+    "regionTvd": "100100028713384",
+    "regionName": "Кировская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 20216,
@@ -999,6 +1041,9 @@ export const duma_2011_tic_233_region_43 = [
     "ballot": "party",
     "tikTvd": "7437000293770",
     "tikName": "Вятско-Полянская",
+    "regionCode": "43",
+    "regionTvd": "100100028713384",
+    "regionName": "Кировская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 25748,
@@ -1082,6 +1127,9 @@ export const duma_2011_tic_233_region_43 = [
     "ballot": "party",
     "tikTvd": "7437000293771",
     "tikName": "Даровская",
+    "regionCode": "43",
+    "regionTvd": "100100028713384",
+    "regionName": "Кировская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 10251,
@@ -1151,6 +1199,9 @@ export const duma_2011_tic_233_region_43 = [
     "ballot": "party",
     "tikTvd": "7437000293772",
     "tikName": "Верхнекамская",
+    "regionCode": "43",
+    "regionTvd": "100100028713384",
+    "regionName": "Кировская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 24266,
@@ -1228,6 +1279,9 @@ export const duma_2011_tic_233_region_43 = [
     "ballot": "party",
     "tikTvd": "7437000293773",
     "tikName": "Богородская",
+    "regionCode": "43",
+    "regionTvd": "100100028713384",
+    "regionName": "Кировская область",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 4504,
@@ -1289,6 +1343,9 @@ export const duma_2011_tic_233_region_43 = [
     "ballot": "party",
     "tikTvd": "7437000293774",
     "tikName": "Верхошижемская",
+    "regionCode": "43",
+    "regionTvd": "100100028713384",
+    "regionName": "Кировская область",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 7992,
@@ -1351,6 +1408,9 @@ export const duma_2011_tic_233_region_43 = [
     "ballot": "party",
     "tikTvd": "7437000293775",
     "tikName": "Белохолуницкая",
+    "regionCode": "43",
+    "regionTvd": "100100028713384",
+    "regionName": "Кировская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 17165,
@@ -1425,6 +1485,9 @@ export const duma_2011_tic_233_region_43 = [
     "ballot": "party",
     "tikTvd": "7437000293776",
     "tikName": "Арбажская",
+    "regionCode": "43",
+    "regionTvd": "100100028713384",
+    "regionName": "Кировская область",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 6597,
@@ -1487,6 +1550,9 @@ export const duma_2011_tic_233_region_43 = [
     "ballot": "party",
     "tikTvd": "7437000293777",
     "tikName": "Афанасьевская",
+    "regionCode": "43",
+    "regionTvd": "100100028713384",
+    "regionName": "Кировская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 11486,
@@ -1566,6 +1632,9 @@ export const duma_2011_tic_233_region_43 = [
     "ballot": "party",
     "tikTvd": "7437000293778",
     "tikName": "ЗАТО Первомайский",
+    "regionCode": "43",
+    "regionTvd": "100100028713384",
+    "regionName": "Кировская область",
     "uikCount": 4,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 4509,
@@ -1619,6 +1688,9 @@ export const duma_2011_tic_233_region_43 = [
     "ballot": "party",
     "tikTvd": "7437000293779",
     "tikName": "Киров, Октябрьская",
+    "regionCode": "43",
+    "regionTvd": "100100028713384",
+    "regionName": "Кировская область",
     "uikCount": 75,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 132697,
@@ -1743,6 +1815,9 @@ export const duma_2011_tic_233_region_43 = [
     "ballot": "party",
     "tikTvd": "7437000293780",
     "tikName": "Киров, Первомайская",
+    "regionCode": "43",
+    "regionTvd": "100100028713384",
+    "regionName": "Кировская область",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 66770,
@@ -1827,6 +1902,9 @@ export const duma_2011_tic_233_region_43 = [
     "ballot": "party",
     "tikTvd": "7437000293781",
     "tikName": "Киров, Ленинская",
+    "regionCode": "43",
+    "regionTvd": "100100028713384",
+    "regionName": "Кировская область",
     "uikCount": 98,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 174976,
@@ -1974,6 +2052,9 @@ export const duma_2011_tic_233_region_43 = [
     "ballot": "party",
     "tikTvd": "7437000293782",
     "tikName": "Киров, Нововятская",
+    "regionCode": "43",
+    "regionTvd": "100100028713384",
+    "regionName": "Кировская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 39101,
@@ -2042,6 +2123,9 @@ export const duma_2011_tic_233_region_43 = [
     "ballot": "party",
     "tikTvd": "7437000293783",
     "tikName": "Кильмезская",
+    "regionCode": "43",
+    "regionTvd": "100100028713384",
+    "regionName": "Кировская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 11179,
@@ -2116,6 +2200,9 @@ export const duma_2011_tic_233_region_43 = [
     "ballot": "party",
     "tikTvd": "7437000293784",
     "tikName": "Кирово-Чепецкая городская",
+    "regionCode": "43",
+    "regionTvd": "100100028713384",
+    "regionName": "Кировская область",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 68868,
@@ -2206,6 +2293,9 @@ export const duma_2011_tic_233_region_43 = [
     "ballot": "party",
     "tikTvd": "7437000293785",
     "tikName": "Мурашинская",
+    "regionCode": "43",
+    "regionTvd": "100100028713384",
+    "regionName": "Кировская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 11388,
@@ -2274,6 +2364,9 @@ export const duma_2011_tic_233_region_43 = [
     "ballot": "party",
     "tikTvd": "7437000293786",
     "tikName": "Кикнурская",
+    "regionCode": "43",
+    "regionTvd": "100100028713384",
+    "regionName": "Кировская область",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 8899,
@@ -2340,6 +2433,9 @@ export const duma_2011_tic_233_region_43 = [
     "ballot": "party",
     "tikTvd": "7437000293787",
     "tikName": "Лузская",
+    "regionCode": "43",
+    "regionTvd": "100100028713384",
+    "regionName": "Кировская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 15240,
@@ -2413,6 +2509,9 @@ export const duma_2011_tic_233_region_43 = [
     "ballot": "party",
     "tikTvd": "7437000293788",
     "tikName": "Лебяжская",
+    "regionCode": "43",
+    "regionTvd": "100100028713384",
+    "regionName": "Кировская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 7871,
@@ -2481,6 +2580,9 @@ export const duma_2011_tic_233_region_43 = [
     "ballot": "party",
     "tikTvd": "7437000293789",
     "tikName": "Малмыжская",
+    "regionCode": "43",
+    "regionTvd": "100100028713384",
+    "regionName": "Кировская область",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 22771,
@@ -2565,6 +2667,9 @@ export const duma_2011_tic_233_region_43 = [
     "ballot": "party",
     "tikTvd": "7437000293790",
     "tikName": "Котельничская",
+    "regionCode": "43",
+    "regionTvd": "100100028713384",
+    "regionName": "Кировская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 14432,
@@ -2637,6 +2742,9 @@ export const duma_2011_tic_233_region_43 = [
     "ballot": "party",
     "tikTvd": "7437000293791",
     "tikName": "Кирово-Чепецкая",
+    "regionCode": "43",
+    "regionTvd": "100100028713384",
+    "regionName": "Кировская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 18987,
@@ -2705,6 +2813,9 @@ export const duma_2011_tic_233_region_43 = [
     "ballot": "party",
     "tikTvd": "7437000293792",
     "tikName": "Куменская",
+    "regionCode": "43",
+    "regionTvd": "100100028713384",
+    "regionName": "Кировская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 15207,
@@ -2777,6 +2888,9 @@ export const duma_2011_tic_233_region_43 = [
     "ballot": "party",
     "tikTvd": "7437000293793",
     "tikName": "Нагорская",
+    "regionCode": "43",
+    "regionTvd": "100100028713384",
+    "regionName": "Кировская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 9196,
@@ -2845,6 +2959,9 @@ export const duma_2011_tic_233_region_43 = [
     "ballot": "party",
     "tikTvd": "7437000293794",
     "tikName": "Пижанская",
+    "regionCode": "43",
+    "regionTvd": "100100028713384",
+    "regionName": "Кировская область",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 8777,
@@ -2907,6 +3024,9 @@ export const duma_2011_tic_233_region_43 = [
     "ballot": "party",
     "tikTvd": "7437000293795",
     "tikName": "Подосиновская",
+    "regionCode": "43",
+    "regionTvd": "100100028713384",
+    "regionName": "Кировская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 14186,
@@ -2976,6 +3096,9 @@ export const duma_2011_tic_233_region_43 = [
     "ballot": "party",
     "tikTvd": "7437000293796",
     "tikName": "Орловская",
+    "regionCode": "43",
+    "regionTvd": "100100028713384",
+    "regionName": "Кировская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 11468,
@@ -3044,6 +3167,9 @@ export const duma_2011_tic_233_region_43 = [
     "ballot": "party",
     "tikTvd": "7437000293797",
     "tikName": "Опаpинская",
+    "regionCode": "43",
+    "regionTvd": "100100028713384",
+    "regionName": "Кировская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 9317,
@@ -3108,6 +3234,9 @@ export const duma_2011_tic_233_region_43 = [
     "ballot": "party",
     "tikTvd": "7437000293798",
     "tikName": "Оричевская",
+    "regionCode": "43",
+    "regionTvd": "100100028713384",
+    "regionName": "Кировская область",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 25040,
@@ -3190,6 +3319,9 @@ export const duma_2011_tic_233_region_43 = [
     "ballot": "party",
     "tikTvd": "7437000293799",
     "tikName": "Омутнинская",
+    "regionCode": "43",
+    "regionTvd": "100100028713384",
+    "regionName": "Кировская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 34536,
@@ -3273,6 +3405,9 @@ export const duma_2011_tic_233_region_43 = [
     "ballot": "party",
     "tikTvd": "7437000293800",
     "tikName": "Немская",
+    "regionCode": "43",
+    "regionTvd": "100100028713384",
+    "regionName": "Кировская область",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 7227,
@@ -3333,6 +3468,9 @@ export const duma_2011_tic_233_region_43 = [
     "ballot": "party",
     "tikTvd": "7437000293801",
     "tikName": "Нолинская",
+    "regionCode": "43",
+    "regionTvd": "100100028713384",
+    "regionName": "Кировская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 17422,
@@ -3403,6 +3541,9 @@ export const duma_2011_tic_233_region_43 = [
     "ballot": "party",
     "tikTvd": "7437000293802",
     "tikName": "Фаленская",
+    "regionCode": "43",
+    "regionTvd": "100100028713384",
+    "regionName": "Кировская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 10281,
@@ -3472,6 +3613,9 @@ export const duma_2011_tic_233_region_43 = [
     "ballot": "party",
     "tikTvd": "7437000293803",
     "tikName": "Уржумская",
+    "regionCode": "43",
+    "regionTvd": "100100028713384",
+    "regionName": "Кировская область",
     "uikCount": 51,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 22114,

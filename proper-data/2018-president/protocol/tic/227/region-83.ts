@@ -11,6 +11,9 @@ export const president_2018_tic_227_region_83 = [
     "ballot": "presidential",
     "tikTvd": "2832000270496",
     "tikName": "Нарьян-Марская",
+    "regionCode": "83",
+    "regionTvd": "100100084849203",
+    "regionName": "Ненецкий автономный округ",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 17498,
@@ -66,6 +69,9 @@ export const president_2018_tic_227_region_83 = [
     "ballot": "presidential",
     "tikTvd": "2832000270497",
     "tikName": "Заполярная",
+    "regionCode": "83",
+    "regionTvd": "100100084849203",
+    "regionName": "Ненецкий автономный округ",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 21972,

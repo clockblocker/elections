@@ -11,6 +11,9 @@ export const duma_2011_tic_233_region_33 = [
     "ballot": "party",
     "tikTvd": "2332000342124",
     "tikName": "Владимир, Ленинская",
+    "regionCode": "33",
+    "regionTvd": "100100028713365",
+    "regionName": "Владимирская область",
     "uikCount": 48,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 101845,
@@ -108,6 +111,9 @@ export const duma_2011_tic_233_region_33 = [
     "ballot": "party",
     "tikTvd": "2332000342147",
     "tikName": "Владимир, Октябрьская",
+    "regionCode": "33",
+    "regionTvd": "100100028713365",
+    "regionName": "Владимирская область",
     "uikCount": 51,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 106656,
@@ -208,6 +214,9 @@ export const duma_2011_tic_233_region_33 = [
     "ballot": "party",
     "tikTvd": "2332000342148",
     "tikName": "Владимир, Фрунзенская",
+    "regionCode": "33",
+    "regionTvd": "100100028713365",
+    "regionName": "Владимирская область",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 102560,
@@ -301,6 +310,9 @@ export const duma_2011_tic_233_region_33 = [
     "ballot": "party",
     "tikTvd": "2332000342149",
     "tikName": "Гусь-Хрустальная городская",
+    "regionCode": "33",
+    "regionTvd": "100100028713365",
+    "regionName": "Владимирская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 60137,
@@ -379,6 +391,9 @@ export const duma_2011_tic_233_region_33 = [
     "ballot": "party",
     "tikTvd": "2332000342150",
     "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100028713365",
+    "regionName": "Владимирская область",
     "uikCount": 69,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 141717,
@@ -497,6 +512,9 @@ export const duma_2011_tic_233_region_33 = [
     "ballot": "party",
     "tikTvd": "2332000342151",
     "tikName": "Муром округ",
+    "regionCode": "33",
+    "regionTvd": "100100028713365",
+    "regionName": "Владимирская область",
     "uikCount": 71,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 117251,
@@ -617,6 +635,9 @@ export const duma_2011_tic_233_region_33 = [
     "ballot": "party",
     "tikTvd": "2332000342152",
     "tikName": "Радужная городская",
+    "regionCode": "33",
+    "regionTvd": "100100028713365",
+    "regionName": "Владимирская область",
     "uikCount": 6,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 14645,
@@ -672,6 +693,9 @@ export const duma_2011_tic_233_region_33 = [
     "ballot": "party",
     "tikTvd": "2332000342153",
     "tikName": "Александровская",
+    "regionCode": "33",
+    "regionTvd": "100100028713365",
+    "regionName": "Владимирская область",
     "uikCount": 63,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 94700,
@@ -784,6 +808,9 @@ export const duma_2011_tic_233_region_33 = [
     "ballot": "party",
     "tikTvd": "2332000342154",
     "tikName": "Вязниковская",
+    "regionCode": "33",
+    "regionTvd": "100100028713365",
+    "regionName": "Владимирская область",
     "uikCount": 63,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 71193,
@@ -896,6 +923,9 @@ export const duma_2011_tic_233_region_33 = [
     "ballot": "party",
     "tikTvd": "2332000342155",
     "tikName": "Гороховецкая",
+    "regionCode": "33",
+    "regionTvd": "100100028713365",
+    "regionName": "Владимирская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 18998,
@@ -963,6 +993,9 @@ export const duma_2011_tic_233_region_33 = [
     "ballot": "party",
     "tikTvd": "2332000342156",
     "tikName": "Гусь-Хрустальная",
+    "regionCode": "33",
+    "regionTvd": "100100028713365",
+    "regionName": "Владимирская область",
     "uikCount": 45,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 39489,
@@ -1057,6 +1090,9 @@ export const duma_2011_tic_233_region_33 = [
     "ballot": "party",
     "tikTvd": "2332000342157",
     "tikName": "Камешковская",
+    "regionCode": "33",
+    "regionTvd": "100100028713365",
+    "regionName": "Владимирская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 26139,
@@ -1131,6 +1167,9 @@ export const duma_2011_tic_233_region_33 = [
     "ballot": "party",
     "tikTvd": "2332000342158",
     "tikName": "Киржачская",
+    "regionCode": "33",
+    "regionTvd": "100100028713365",
+    "regionName": "Владимирская область",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 34372,
@@ -1213,6 +1252,9 @@ export const duma_2011_tic_233_region_33 = [
     "ballot": "party",
     "tikTvd": "2332000342159",
     "tikName": "Ковровская",
+    "regionCode": "33",
+    "regionTvd": "100100028713365",
+    "regionName": "Владимирская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 26187,
@@ -1296,6 +1338,9 @@ export const duma_2011_tic_233_region_33 = [
     "ballot": "party",
     "tikTvd": "2332000342160",
     "tikName": "Кольчугинская",
+    "regionCode": "33",
+    "regionTvd": "100100028713365",
+    "regionName": "Владимирская область",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 47128,
@@ -1383,6 +1428,9 @@ export const duma_2011_tic_233_region_33 = [
     "ballot": "party",
     "tikTvd": "2332000342161",
     "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100028713365",
+    "regionName": "Владимирская область",
     "uikCount": 54,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 30771,
@@ -1486,6 +1534,9 @@ export const duma_2011_tic_233_region_33 = [
     "ballot": "party",
     "tikTvd": "2332000342162",
     "tikName": "Муромская",
+    "regionCode": "33",
+    "regionTvd": "100100028713365",
+    "regionName": "Владимирская область",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 12715,
@@ -1562,6 +1613,9 @@ export const duma_2011_tic_233_region_33 = [
     "ballot": "party",
     "tikTvd": "2332000342163",
     "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100028713365",
+    "regionName": "Владимирская область",
     "uikCount": 60,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 54722,
@@ -1671,6 +1725,9 @@ export const duma_2011_tic_233_region_33 = [
     "ballot": "party",
     "tikTvd": "2332000342164",
     "tikName": "Селивановская",
+    "regionCode": "33",
+    "regionTvd": "100100028713365",
+    "regionName": "Владимирская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 16807,
@@ -1743,6 +1800,9 @@ export const duma_2011_tic_233_region_33 = [
     "ballot": "party",
     "tikTvd": "2332000342165",
     "tikName": "Собинская",
+    "regionCode": "33",
+    "regionTvd": "100100028713365",
+    "regionName": "Владимирская область",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 49395,
@@ -1829,6 +1889,9 @@ export const duma_2011_tic_233_region_33 = [
     "ballot": "party",
     "tikTvd": "2332000342166",
     "tikName": "Судогодская",
+    "regionCode": "33",
+    "regionTvd": "100100028713365",
+    "regionName": "Владимирская область",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 32465,
@@ -1917,6 +1980,9 @@ export const duma_2011_tic_233_region_33 = [
     "ballot": "party",
     "tikTvd": "2332000342167",
     "tikName": "Суздальская",
+    "regionCode": "33",
+    "regionTvd": "100100028713365",
+    "regionName": "Владимирская область",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 34606,
@@ -2010,6 +2076,9 @@ export const duma_2011_tic_233_region_33 = [
     "ballot": "party",
     "tikTvd": "2332000342168",
     "tikName": "Юрьев-Польская",
+    "regionCode": "33",
+    "regionTvd": "100100028713365",
+    "regionName": "Владимирская область",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 28799,

@@ -11,6 +11,9 @@ export const duma_2007_tic_233_region_18 = [
     "ballot": "party",
     "tikTvd": "2182000165030",
     "tikName": "Ярская",
+    "regionCode": "18",
+    "regionTvd": "100100021960214",
+    "regionName": "Удмуртская Республика",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 13802,
@@ -89,6 +92,9 @@ export const duma_2007_tic_233_region_18 = [
     "ballot": "party",
     "tikTvd": "2182000165031",
     "tikName": "Якшур-Бодьинская",
+    "regionCode": "18",
+    "regionTvd": "100100021960214",
+    "regionName": "Удмуртская Республика",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 17232,
@@ -171,6 +177,9 @@ export const duma_2007_tic_233_region_18 = [
     "ballot": "party",
     "tikTvd": "2182000165032",
     "tikName": "Юкаменская",
+    "regionCode": "18",
+    "regionTvd": "100100021960214",
+    "regionName": "Удмуртская Республика",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 9193,
@@ -249,6 +258,9 @@ export const duma_2007_tic_233_region_18 = [
     "ballot": "party",
     "tikTvd": "2182000165033",
     "tikName": "Шарканская",
+    "regionCode": "18",
+    "regionTvd": "100100021960214",
+    "regionName": "Удмуртская Республика",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 16366,
@@ -335,6 +347,9 @@ export const duma_2007_tic_233_region_18 = [
     "ballot": "party",
     "tikTvd": "2182000165034",
     "tikName": "Увинская",
+    "regionCode": "18",
+    "regionTvd": "100100021960214",
+    "regionName": "Удмуртская Республика",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 31315,
@@ -428,6 +443,9 @@ export const duma_2007_tic_233_region_18 = [
     "ballot": "party",
     "tikTvd": "2182000165035",
     "tikName": "Сюмсинская",
+    "regionCode": "18",
+    "regionTvd": "100100021960214",
+    "regionName": "Удмуртская Республика",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 11790,
@@ -511,6 +529,9 @@ export const duma_2007_tic_233_region_18 = [
     "ballot": "party",
     "tikTvd": "2182000165036",
     "tikName": "Селтинская",
+    "regionCode": "18",
+    "regionTvd": "100100021960214",
+    "regionName": "Удмуртская Республика",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 10471,
@@ -582,6 +603,9 @@ export const duma_2007_tic_233_region_18 = [
     "ballot": "party",
     "tikTvd": "2182000165037",
     "tikName": "Сарапульская городская",
+    "regionCode": "18",
+    "regionTvd": "100100021960214",
+    "regionName": "Удмуртская Республика",
     "uikCount": 54,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 81490,
@@ -690,6 +714,9 @@ export const duma_2007_tic_233_region_18 = [
     "ballot": "party",
     "tikTvd": "2182000165038",
     "tikName": "Сарапульская",
+    "regionCode": "18",
+    "regionTvd": "100100021960214",
+    "regionName": "Удмуртская Республика",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 19160,
@@ -772,6 +799,9 @@ export const duma_2007_tic_233_region_18 = [
     "ballot": "party",
     "tikTvd": "2182000165039",
     "tikName": "Можгинская городская",
+    "regionCode": "18",
+    "regionTvd": "100100021960214",
+    "regionName": "Удмуртская Республика",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 35152,
@@ -847,6 +877,9 @@ export const duma_2007_tic_233_region_18 = [
     "ballot": "party",
     "tikTvd": "2182000165040",
     "tikName": "Можгинская",
+    "regionCode": "18",
+    "regionTvd": "100100021960214",
+    "regionName": "Удмуртская Республика",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 21241,
@@ -934,6 +967,9 @@ export const duma_2007_tic_233_region_18 = [
     "ballot": "party",
     "tikTvd": "2182000165041",
     "tikName": "Малопургинская",
+    "regionCode": "18",
+    "regionTvd": "100100021960214",
+    "regionName": "Удмуртская Республика",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 24845,
@@ -1030,6 +1066,9 @@ export const duma_2007_tic_233_region_18 = [
     "ballot": "party",
     "tikTvd": "2182000165042",
     "tikName": "Красногорская",
+    "regionCode": "18",
+    "regionTvd": "100100021960214",
+    "regionName": "Удмуртская Республика",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 9465,
@@ -1102,6 +1141,9 @@ export const duma_2007_tic_233_region_18 = [
     "ballot": "party",
     "tikTvd": "2182000165043",
     "tikName": "Киясовская",
+    "regionCode": "18",
+    "regionTvd": "100100021960214",
+    "regionName": "Удмуртская Республика",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 8593,
@@ -1177,6 +1219,9 @@ export const duma_2007_tic_233_region_18 = [
     "ballot": "party",
     "tikTvd": "2182000165044",
     "tikName": "Кизнерская",
+    "regionCode": "18",
+    "regionTvd": "100100021960214",
+    "regionName": "Удмуртская Республика",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 18205,
@@ -1266,6 +1311,9 @@ export const duma_2007_tic_233_region_18 = [
     "ballot": "party",
     "tikTvd": "2182000165045",
     "tikName": "Кезская",
+    "regionCode": "18",
+    "regionTvd": "100100021960214",
+    "regionName": "Удмуртская Республика",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 19904,
@@ -1356,6 +1404,9 @@ export const duma_2007_tic_233_region_18 = [
     "ballot": "party",
     "tikTvd": "2182000165046",
     "tikName": "Каракулинская",
+    "regionCode": "18",
+    "regionTvd": "100100021960214",
+    "regionName": "Удмуртская Республика",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 10494,
@@ -1427,6 +1478,9 @@ export const duma_2007_tic_233_region_18 = [
     "ballot": "party",
     "tikTvd": "2182000165047",
     "tikName": "Камбарская",
+    "regionCode": "18",
+    "regionTvd": "100100021960214",
+    "regionName": "Удмуртская Республика",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 16935,
@@ -1498,6 +1552,9 @@ export const duma_2007_tic_233_region_18 = [
     "ballot": "party",
     "tikTvd": "2182000165048",
     "tikName": "Ижевск, Устиновская",
+    "regionCode": "18",
+    "regionTvd": "100100021960214",
+    "regionName": "Удмуртская Республика",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 104916,
@@ -1602,6 +1659,9 @@ export const duma_2007_tic_233_region_18 = [
     "ballot": "party",
     "tikTvd": "2182000165049",
     "tikName": "Ижевск, Первомайская",
+    "regionCode": "18",
+    "regionTvd": "100100021960214",
+    "regionName": "Удмуртская Республика",
     "uikCount": 53,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 101470,
@@ -1709,6 +1769,9 @@ export const duma_2007_tic_233_region_18 = [
     "ballot": "party",
     "tikTvd": "2182000165050",
     "tikName": "Ижевск, Октябрьская",
+    "regionCode": "18",
+    "regionTvd": "100100021960214",
+    "regionName": "Удмуртская Республика",
     "uikCount": 61,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 111366,
@@ -1824,6 +1887,9 @@ export const duma_2007_tic_233_region_18 = [
     "ballot": "party",
     "tikTvd": "2182000165051",
     "tikName": "Ижевск, Ленинская",
+    "regionCode": "18",
+    "regionTvd": "100100021960214",
+    "regionName": "Удмуртская Республика",
     "uikCount": 51,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 94988,
@@ -1929,6 +1995,9 @@ export const duma_2007_tic_233_region_18 = [
     "ballot": "party",
     "tikTvd": "2182000165052",
     "tikName": "Ижевск, Индустриальная",
+    "regionCode": "18",
+    "regionTvd": "100100021960214",
+    "regionName": "Удмуртская Республика",
     "uikCount": 51,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 87629,
@@ -2034,6 +2103,9 @@ export const duma_2007_tic_233_region_18 = [
     "ballot": "party",
     "tikTvd": "2182000165053",
     "tikName": "Игринская",
+    "regionCode": "18",
+    "regionTvd": "100100021960214",
+    "regionName": "Удмуртская Республика",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 33387,
@@ -2132,6 +2204,9 @@ export const duma_2007_tic_233_region_18 = [
     "ballot": "party",
     "tikTvd": "2182000165054",
     "tikName": "Завьяловская",
+    "regionCode": "18",
+    "regionTvd": "100100021960214",
+    "regionName": "Удмуртская Республика",
     "uikCount": 58,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 45000,
@@ -2244,6 +2319,9 @@ export const duma_2007_tic_233_region_18 = [
     "ballot": "party",
     "tikTvd": "2182000165055",
     "tikName": "Дебесская",
+    "regionCode": "18",
+    "regionTvd": "100100021960214",
+    "regionName": "Удмуртская Республика",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 10725,
@@ -2322,6 +2400,9 @@ export const duma_2007_tic_233_region_18 = [
     "ballot": "party",
     "tikTvd": "2182000165056",
     "tikName": "Граховская",
+    "regionCode": "18",
+    "regionTvd": "100100021960214",
+    "regionName": "Удмуртская Республика",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 8127,
@@ -2400,6 +2481,9 @@ export const duma_2007_tic_233_region_18 = [
     "ballot": "party",
     "tikTvd": "2182000165057",
     "tikName": "Глазовская городская",
+    "regionCode": "18",
+    "regionTvd": "100100021960214",
+    "regionName": "Удмуртская Республика",
     "uikCount": 45,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 77503,
@@ -2499,6 +2583,9 @@ export const duma_2007_tic_233_region_18 = [
     "ballot": "party",
     "tikTvd": "2182000165058",
     "tikName": "Глазовская",
+    "regionCode": "18",
+    "regionTvd": "100100021960214",
+    "regionName": "Удмуртская Республика",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 14968,
@@ -2575,6 +2662,9 @@ export const duma_2007_tic_233_region_18 = [
     "ballot": "party",
     "tikTvd": "2182000165059",
     "tikName": "Воткинская городская",
+    "regionCode": "18",
+    "regionTvd": "100100021960214",
+    "regionName": "Удмуртская Республика",
     "uikCount": 51,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 78974,
@@ -2680,6 +2770,9 @@ export const duma_2007_tic_233_region_18 = [
     "ballot": "party",
     "tikTvd": "2182000165060",
     "tikName": "Воткинская",
+    "regionCode": "18",
+    "regionTvd": "100100021960214",
+    "regionName": "Удмуртская Республика",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 17630,
@@ -2761,6 +2854,9 @@ export const duma_2007_tic_233_region_18 = [
     "ballot": "party",
     "tikTvd": "2182000165061",
     "tikName": "Вавожская",
+    "regionCode": "18",
+    "regionTvd": "100100021960214",
+    "regionName": "Удмуртская Республика",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 12887,
@@ -2841,6 +2937,9 @@ export const duma_2007_tic_233_region_18 = [
     "ballot": "party",
     "tikTvd": "2182000165062",
     "tikName": "Балезинская",
+    "regionCode": "18",
+    "regionTvd": "100100021960214",
+    "regionName": "Удмуртская Республика",
     "uikCount": 53,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 29548,
@@ -2948,6 +3047,9 @@ export const duma_2007_tic_233_region_18 = [
     "ballot": "party",
     "tikTvd": "2182000165063",
     "tikName": "Алнашская",
+    "regionCode": "18",
+    "regionTvd": "100100021960214",
+    "regionName": "Удмуртская Республика",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 16917,

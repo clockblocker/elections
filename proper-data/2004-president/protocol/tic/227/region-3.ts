@@ -11,6 +11,9 @@ export const president_2004_tic_227_region_3 = [
     "ballot": "presidential",
     "tikTvd": "2022000130698",
     "tikName": "Мечетлинская",
+    "regionCode": "3",
+    "regionTvd": "1001000882976",
+    "regionName": "Республика Башкортостан",
     "uikCount": 47,
     "accounting": {
       "Число избирателей, внесенных в список": 16910,
@@ -106,6 +109,9 @@ export const president_2004_tic_227_region_3 = [
     "ballot": "presidential",
     "tikTvd": "2022000130699",
     "tikName": "Мишкинская",
+    "regionCode": "3",
+    "regionTvd": "1001000882976",
+    "regionName": "Республика Башкортостан",
     "uikCount": 59,
     "accounting": {
       "Число избирателей, внесенных в список": 18644,
@@ -213,6 +219,9 @@ export const president_2004_tic_227_region_3 = [
     "ballot": "presidential",
     "tikTvd": "2022000130700",
     "tikName": "Кугарчинская",
+    "regionCode": "3",
+    "regionTvd": "1001000882976",
+    "regionName": "Республика Башкортостан",
     "uikCount": 61,
     "accounting": {
       "Число избирателей, внесенных в список": 22669,
@@ -322,6 +331,9 @@ export const president_2004_tic_227_region_3 = [
     "ballot": "presidential",
     "tikTvd": "2022000130701",
     "tikName": "Туймазинская",
+    "regionCode": "3",
+    "regionTvd": "1001000882976",
+    "regionName": "Республика Башкортостан",
     "uikCount": 100,
     "accounting": {
       "Число избирателей, внесенных в список": 89072,
@@ -470,6 +482,9 @@ export const president_2004_tic_227_region_3 = [
     "ballot": "presidential",
     "tikTvd": "2022000130702",
     "tikName": "Мелеузовская",
+    "regionCode": "3",
+    "regionTvd": "1001000882976",
+    "regionName": "Республика Башкортостан",
     "uikCount": 61,
     "accounting": {
       "Число избирателей, внесенных в список": 63028,
@@ -579,6 +594,9 @@ export const president_2004_tic_227_region_3 = [
     "ballot": "presidential",
     "tikTvd": "2022000130703",
     "tikName": "Межгорьевская городская",
+    "regionCode": "3",
+    "regionTvd": "1001000882976",
+    "regionName": "Республика Башкортостан",
     "uikCount": 6,
     "accounting": {
       "Число избирателей, внесенных в список": 12707,
@@ -633,6 +651,9 @@ export const president_2004_tic_227_region_3 = [
     "ballot": "presidential",
     "tikTvd": "2022000130704",
     "tikName": "Куюргазинская",
+    "regionCode": "3",
+    "regionTvd": "1001000882976",
+    "regionName": "Республика Башкортостан",
     "uikCount": 53,
     "accounting": {
       "Число избирателей, внесенных в список": 17728,
@@ -734,6 +755,9 @@ export const president_2004_tic_227_region_3 = [
     "ballot": "presidential",
     "tikTvd": "2022000130705",
     "tikName": "Бирская  городская ",
+    "regionCode": "3",
+    "regionTvd": "1001000882976",
+    "regionName": "Республика Башкортостан",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, внесенных в список": 42430,
@@ -826,6 +850,9 @@ export const president_2004_tic_227_region_3 = [
     "ballot": "presidential",
     "tikTvd": "2022000130707",
     "tikName": "Янаульская городская",
+    "regionCode": "3",
+    "regionTvd": "1001000882976",
+    "regionName": "Республика Башкортостан",
     "uikCount": 72,
     "accounting": {
       "Число избирателей, внесенных в список": 36196,
@@ -946,6 +973,9 @@ export const president_2004_tic_227_region_3 = [
     "ballot": "presidential",
     "tikTvd": "2022000130708",
     "tikName": "Шаранская",
+    "regionCode": "3",
+    "regionTvd": "1001000882976",
+    "regionName": "Республика Башкортостан",
     "uikCount": 45,
     "accounting": {
       "Число избирателей, внесенных в список": 16284,
@@ -1039,6 +1069,9 @@ export const president_2004_tic_227_region_3 = [
     "ballot": "presidential",
     "tikTvd": "2022000130709",
     "tikName": "Чишминская",
+    "regionCode": "3",
+    "regionTvd": "1001000882976",
+    "regionName": "Республика Башкортостан",
     "uikCount": 67,
     "accounting": {
       "Число избирателей, внесенных в список": 36358,
@@ -1154,6 +1187,9 @@ export const president_2004_tic_227_region_3 = [
     "ballot": "presidential",
     "tikTvd": "2022000130710",
     "tikName": "Чекмагушевская",
+    "regionCode": "3",
+    "regionTvd": "1001000882976",
+    "regionName": "Республика Башкортостан",
     "uikCount": 51,
     "accounting": {
       "Число избирателей, внесенных в список": 22599,
@@ -1253,6 +1289,9 @@ export const president_2004_tic_227_region_3 = [
     "ballot": "presidential",
     "tikTvd": "2022000130711",
     "tikName": "Хайбуллинская",
+    "regionCode": "3",
+    "regionTvd": "1001000882976",
+    "regionName": "Республика Башкортостан",
     "uikCount": 58,
     "accounting": {
       "Число избирателей, внесенных в список": 22340,
@@ -1359,6 +1398,9 @@ export const president_2004_tic_227_region_3 = [
     "ballot": "presidential",
     "tikTvd": "2022000130712",
     "tikName": "Федоровская",
+    "regionCode": "3",
+    "regionTvd": "1001000882976",
+    "regionName": "Республика Башкортостан",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в список": 13978,
@@ -1442,6 +1484,9 @@ export const president_2004_tic_227_region_3 = [
     "ballot": "presidential",
     "tikTvd": "2022000130713",
     "tikName": "Учалинская",
+    "regionCode": "3",
+    "regionTvd": "1001000882976",
+    "regionName": "Республика Башкортостан",
     "uikCount": 76,
     "accounting": {
       "Число избирателей, внесенных в список": 52921,
@@ -1566,6 +1611,9 @@ export const president_2004_tic_227_region_3 = [
     "ballot": "presidential",
     "tikTvd": "2022000130714",
     "tikName": "Уфимская",
+    "regionCode": "3",
+    "regionTvd": "1001000882976",
+    "regionName": "Республика Башкортостан",
     "uikCount": 51,
     "accounting": {
       "Число избирателей, внесенных в список": 39732,
@@ -1665,6 +1713,9 @@ export const president_2004_tic_227_region_3 = [
     "ballot": "presidential",
     "tikTvd": "2022000130715",
     "tikName": "Уфа, Советская",
+    "regionCode": "3",
+    "regionTvd": "1001000882976",
+    "regionName": "Республика Башкортостан",
     "uikCount": 77,
     "accounting": {
       "Число избирателей, внесенных в список": 133890,
@@ -1790,6 +1841,9 @@ export const president_2004_tic_227_region_3 = [
     "ballot": "presidential",
     "tikTvd": "2022000130716",
     "tikName": "Уфа, Орджоникидзевская",
+    "regionCode": "3",
+    "regionTvd": "1001000882976",
+    "regionName": "Республика Башкортостан",
     "uikCount": 67,
     "accounting": {
       "Число избирателей, внесенных в список": 133226,
@@ -1905,6 +1959,9 @@ export const president_2004_tic_227_region_3 = [
     "ballot": "presidential",
     "tikTvd": "2022000130717",
     "tikName": "Уфа, Октябрьская",
+    "regionCode": "3",
+    "regionTvd": "1001000882976",
+    "regionName": "Республика Башкортостан",
     "uikCount": 73,
     "accounting": {
       "Число избирателей, внесенных в список": 170020,
@@ -2026,6 +2083,9 @@ export const president_2004_tic_227_region_3 = [
     "ballot": "presidential",
     "tikTvd": "2022000130718",
     "tikName": "Уфа, Ленинская",
+    "regionCode": "3",
+    "regionTvd": "1001000882976",
+    "regionName": "Республика Башкортостан",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список": 51335,
@@ -2110,6 +2170,9 @@ export const president_2004_tic_227_region_3 = [
     "ballot": "presidential",
     "tikTvd": "2022000130719",
     "tikName": "Уфа, Кировская",
+    "regionCode": "3",
+    "regionTvd": "1001000882976",
+    "regionName": "Республика Башкортостан",
     "uikCount": 68,
     "accounting": {
       "Число избирателей, внесенных в список": 106129,
@@ -2226,6 +2289,9 @@ export const president_2004_tic_227_region_3 = [
     "ballot": "presidential",
     "tikTvd": "2022000130720",
     "tikName": "Уфа, Калининская",
+    "regionCode": "3",
+    "regionTvd": "1001000882976",
+    "regionName": "Республика Башкортостан",
     "uikCount": 70,
     "accounting": {
       "Число избирателей, внесенных в список": 139366,
@@ -2344,6 +2410,9 @@ export const president_2004_tic_227_region_3 = [
     "ballot": "presidential",
     "tikTvd": "2022000130721",
     "tikName": "Уфа, Демская",
+    "regionCode": "3",
+    "regionTvd": "1001000882976",
+    "regionName": "Республика Башкортостан",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список": 37801,
@@ -2414,6 +2483,9 @@ export const president_2004_tic_227_region_3 = [
     "ballot": "presidential",
     "tikTvd": "2022000130722",
     "tikName": "Татышлинская",
+    "regionCode": "3",
+    "regionTvd": "1001000882976",
+    "regionName": "Республика Башкортостан",
     "uikCount": 51,
     "accounting": {
       "Число избирателей, внесенных в список": 18914,
@@ -2513,6 +2585,9 @@ export const president_2004_tic_227_region_3 = [
     "ballot": "presidential",
     "tikTvd": "2022000130723",
     "tikName": "Стерлитамакская",
+    "regionCode": "3",
+    "regionTvd": "1001000882976",
+    "regionName": "Республика Башкортостан",
     "uikCount": 59,
     "accounting": {
       "Число избирателей, внесенных в список": 26129,
@@ -2620,6 +2695,9 @@ export const president_2004_tic_227_region_3 = [
     "ballot": "presidential",
     "tikTvd": "2022000130724",
     "tikName": "Стерлитамакская городская",
+    "regionCode": "3",
+    "regionTvd": "1001000882976",
+    "regionName": "Республика Башкортостан",
     "uikCount": 108,
     "accounting": {
       "Число избирателей, внесенных в список": 194085,
@@ -2776,6 +2854,9 @@ export const president_2004_tic_227_region_3 = [
     "ballot": "presidential",
     "tikTvd": "2022000130725",
     "tikName": "Стерлибашевская",
+    "regionCode": "3",
+    "regionTvd": "1001000882976",
+    "regionName": "Республика Башкортостан",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в список": 15494,
@@ -2864,6 +2945,9 @@ export const president_2004_tic_227_region_3 = [
     "ballot": "presidential",
     "tikTvd": "2022000130726",
     "tikName": "Сибайская городская",
+    "regionCode": "3",
+    "regionTvd": "1001000882976",
+    "regionName": "Республика Башкортостан",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список": 43704,
@@ -2937,6 +3021,9 @@ export const president_2004_tic_227_region_3 = [
     "ballot": "presidential",
     "tikTvd": "2022000130727",
     "tikName": "Салаватская",
+    "regionCode": "3",
+    "regionTvd": "1001000882976",
+    "regionName": "Республика Башкортостан",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, внесенных в список": 19469,
@@ -3027,6 +3114,9 @@ export const president_2004_tic_227_region_3 = [
     "ballot": "presidential",
     "tikTvd": "2022000130728",
     "tikName": "Салаватская городская",
+    "regionCode": "3",
+    "regionTvd": "1001000882976",
+    "regionName": "Республика Башкортостан",
     "uikCount": 62,
     "accounting": {
       "Число избирателей, внесенных в список": 111893,
@@ -3137,6 +3227,9 @@ export const president_2004_tic_227_region_3 = [
     "ballot": "presidential",
     "tikTvd": "2022000130729",
     "tikName": "Октябрьская",
+    "regionCode": "3",
+    "regionTvd": "1001000882976",
+    "regionName": "Республика Башкортостан",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в список": 76910,
@@ -3224,6 +3317,9 @@ export const president_2004_tic_227_region_3 = [
     "ballot": "presidential",
     "tikTvd": "2022000130730",
     "tikName": "Нуримановская",
+    "regionCode": "3",
+    "regionTvd": "1001000882976",
+    "regionName": "Республика Башкортостан",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в список": 15008,
@@ -3303,6 +3399,9 @@ export const president_2004_tic_227_region_3 = [
     "ballot": "presidential",
     "tikTvd": "2022000130731",
     "tikName": "Нефтекамская городская",
+    "regionCode": "3",
+    "regionTvd": "1001000882976",
+    "regionName": "Республика Башкортостан",
     "uikCount": 47,
     "accounting": {
       "Число избирателей, внесенных в список": 95971,
@@ -3398,6 +3497,9 @@ export const president_2004_tic_227_region_3 = [
     "ballot": "presidential",
     "tikTvd": "2022000130732",
     "tikName": "Миякинская",
+    "regionCode": "3",
+    "regionTvd": "1001000882976",
+    "regionName": "Республика Башкортостан",
     "uikCount": 59,
     "accounting": {
       "Число избирателей, внесенных в список": 20415,
@@ -3505,6 +3607,9 @@ export const president_2004_tic_227_region_3 = [
     "ballot": "presidential",
     "tikTvd": "2022000130733",
     "tikName": "Кушнаренковская",
+    "regionCode": "3",
+    "regionTvd": "1001000882976",
+    "regionName": "Республика Башкортостан",
     "uikCount": 49,
     "accounting": {
       "Число избирателей, внесенных в список": 19887,
@@ -3602,6 +3707,9 @@ export const president_2004_tic_227_region_3 = [
     "ballot": "presidential",
     "tikTvd": "2022000130734",
     "tikName": "Кумертауская городская",
+    "regionCode": "3",
+    "regionTvd": "1001000882976",
+    "regionName": "Республика Башкортостан",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список": 54386,
@@ -3677,6 +3785,9 @@ export const president_2004_tic_227_region_3 = [
     "ballot": "presidential",
     "tikTvd": "2022000130735",
     "tikName": "Краснокамская",
+    "regionCode": "3",
+    "regionTvd": "1001000882976",
+    "regionName": "Республика Башкортостан",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в список": 19538,
@@ -3764,6 +3875,9 @@ export const president_2004_tic_227_region_3 = [
     "ballot": "presidential",
     "tikTvd": "2022000130736",
     "tikName": "Кигинская",
+    "regionCode": "3",
+    "regionTvd": "1001000882976",
+    "regionName": "Республика Башкортостан",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в список": 13197,
@@ -3843,6 +3957,9 @@ export const president_2004_tic_227_region_3 = [
     "ballot": "presidential",
     "tikTvd": "2022000130737",
     "tikName": "Кармаскалинская",
+    "regionCode": "3",
+    "regionTvd": "1001000882976",
+    "regionName": "Республика Башкортостан",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, внесенных в список": 33892,
@@ -3935,6 +4052,9 @@ export const president_2004_tic_227_region_3 = [
     "ballot": "presidential",
     "tikTvd": "2022000130738",
     "tikName": "Караидельская",
+    "regionCode": "3",
+    "regionTvd": "1001000882976",
+    "regionName": "Республика Башкортостан",
     "uikCount": 53,
     "accounting": {
       "Число избирателей, внесенных в список": 18901,
@@ -4036,6 +4156,9 @@ export const president_2004_tic_227_region_3 = [
     "ballot": "presidential",
     "tikTvd": "2022000130739",
     "tikName": "Калтасинская",
+    "regionCode": "3",
+    "regionTvd": "1001000882976",
+    "regionName": "Республика Башкортостан",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в список": 20333,
@@ -4121,6 +4244,9 @@ export const president_2004_tic_227_region_3 = [
     "ballot": "presidential",
     "tikTvd": "2022000130740",
     "tikName": "Ишимбайская городская",
+    "regionCode": "3",
+    "regionTvd": "1001000882976",
+    "regionName": "Республика Башкортостан",
     "uikCount": 74,
     "accounting": {
       "Число избирателей, внесенных в список": 67603,
@@ -4243,6 +4369,9 @@ export const president_2004_tic_227_region_3 = [
     "ballot": "presidential",
     "tikTvd": "2022000130741",
     "tikName": "Илишевская",
+    "regionCode": "3",
+    "regionTvd": "1001000882976",
+    "regionName": "Республика Башкортостан",
     "uikCount": 69,
     "accounting": {
       "Число избирателей, внесенных в список": 23769,
@@ -4360,6 +4489,9 @@ export const president_2004_tic_227_region_3 = [
     "ballot": "presidential",
     "tikTvd": "2022000130742",
     "tikName": "Иглинская",
+    "regionCode": "3",
+    "regionTvd": "1001000882976",
+    "regionName": "Республика Башкортостан",
     "uikCount": 56,
     "accounting": {
       "Число избирателей, внесенных в список": 24702,
@@ -4464,6 +4596,9 @@ export const president_2004_tic_227_region_3 = [
     "ballot": "presidential",
     "tikTvd": "2022000130743",
     "tikName": "Зилаирская",
+    "regionCode": "3",
+    "regionTvd": "1001000882976",
+    "regionName": "Республика Башкортостан",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в список": 12594,
@@ -4546,6 +4681,9 @@ export const president_2004_tic_227_region_3 = [
     "ballot": "presidential",
     "tikTvd": "2022000130744",
     "tikName": "Зианчуринская",
+    "regionCode": "3",
+    "regionTvd": "1001000882976",
+    "regionName": "Республика Башкортостан",
     "uikCount": 64,
     "accounting": {
       "Число избирателей, внесенных в список": 19834,
@@ -4658,6 +4796,9 @@ export const president_2004_tic_227_region_3 = [
     "ballot": "presidential",
     "tikTvd": "2022000130745",
     "tikName": "Ермекеевская",
+    "regionCode": "3",
+    "regionTvd": "1001000882976",
+    "regionName": "Республика Башкортостан",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в список": 12477,
@@ -4741,6 +4882,9 @@ export const president_2004_tic_227_region_3 = [
     "ballot": "presidential",
     "tikTvd": "2022000130746",
     "tikName": "Дюртюлинская городская",
+    "regionCode": "3",
+    "regionTvd": "1001000882976",
+    "regionName": "Республика Башкортостан",
     "uikCount": 57,
     "accounting": {
       "Число избирателей, внесенных в список": 45344,
@@ -4846,6 +4990,9 @@ export const president_2004_tic_227_region_3 = [
     "ballot": "presidential",
     "tikTvd": "2022000130747",
     "tikName": "Дуванская",
+    "regionCode": "3",
+    "regionTvd": "1001000882976",
+    "regionName": "Республика Башкортостан",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в список": 21277,
@@ -4933,6 +5080,9 @@ export const president_2004_tic_227_region_3 = [
     "ballot": "presidential",
     "tikTvd": "2022000130748",
     "tikName": "Давлекановская",
+    "regionCode": "3",
+    "regionTvd": "1001000882976",
+    "regionName": "Республика Башкортостан",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, внесенных в список": 29550,
@@ -5031,6 +5181,9 @@ export const president_2004_tic_227_region_3 = [
     "ballot": "presidential",
     "tikTvd": "2022000130749",
     "tikName": "Гафурийская",
+    "regionCode": "3",
+    "regionTvd": "1001000882976",
+    "regionName": "Республика Башкортостан",
     "uikCount": 47,
     "accounting": {
       "Число избирателей, внесенных в список": 24335,
@@ -5126,6 +5279,9 @@ export const president_2004_tic_227_region_3 = [
     "ballot": "presidential",
     "tikTvd": "2022000130750",
     "tikName": "Бурзянская",
+    "regionCode": "3",
+    "regionTvd": "1001000882976",
+    "regionName": "Республика Башкортостан",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в список": 10294,
@@ -5209,6 +5365,9 @@ export const president_2004_tic_227_region_3 = [
     "ballot": "presidential",
     "tikTvd": "2022000130751",
     "tikName": "Бураевская",
+    "regionCode": "3",
+    "regionTvd": "1001000882976",
+    "regionName": "Республика Башкортостан",
     "uikCount": 56,
     "accounting": {
       "Число избирателей, внесенных в список": 20080,
@@ -5313,6 +5472,9 @@ export const president_2004_tic_227_region_3 = [
     "ballot": "presidential",
     "tikTvd": "2022000130752",
     "tikName": "Буздякская",
+    "regionCode": "3",
+    "regionTvd": "1001000882976",
+    "regionName": "Республика Башкортостан",
     "uikCount": 55,
     "accounting": {
       "Число избирателей, внесенных в список": 22348,
@@ -5416,6 +5578,9 @@ export const president_2004_tic_227_region_3 = [
     "ballot": "presidential",
     "tikTvd": "2022000130753",
     "tikName": "Благовещенская городская",
+    "regionCode": "3",
+    "regionTvd": "1001000882976",
+    "regionName": "Республика Башкортостан",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, внесенных в список": 30784,
@@ -5508,6 +5673,9 @@ export const president_2004_tic_227_region_3 = [
     "ballot": "presidential",
     "tikTvd": "2022000130754",
     "tikName": "Благоварская",
+    "regionCode": "3",
+    "regionTvd": "1001000882976",
+    "regionName": "Республика Башкортостан",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в список": 17910,
@@ -5589,6 +5757,9 @@ export const president_2004_tic_227_region_3 = [
     "ballot": "presidential",
     "tikTvd": "2022000130755",
     "tikName": "Бижбулякская",
+    "regionCode": "3",
+    "regionTvd": "1001000882976",
+    "regionName": "Республика Башкортостан",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, внесенных в список": 18237,
@@ -5683,6 +5854,9 @@ export const president_2004_tic_227_region_3 = [
     "ballot": "presidential",
     "tikTvd": "2022000130756",
     "tikName": "Белорецкая городская",
+    "regionCode": "3",
+    "regionTvd": "1001000882976",
+    "regionName": "Республика Башкортостан",
     "uikCount": 94,
     "accounting": {
       "Число избирателей, внесенных в список": 82334,
@@ -5825,6 +5999,9 @@ export const president_2004_tic_227_region_3 = [
     "ballot": "presidential",
     "tikTvd": "2022000130757",
     "tikName": "Белокатайская",
+    "regionCode": "3",
+    "regionTvd": "1001000882976",
+    "regionName": "Республика Башкортостан",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список": 15042,
@@ -5899,6 +6076,9 @@ export const president_2004_tic_227_region_3 = [
     "ballot": "presidential",
     "tikTvd": "2022000130758",
     "tikName": "Белебеевская",
+    "regionCode": "3",
+    "regionTvd": "1001000882976",
+    "regionName": "Республика Башкортостан",
     "uikCount": 70,
     "accounting": {
       "Число избирателей, внесенных в список": 74341,
@@ -6017,6 +6197,9 @@ export const president_2004_tic_227_region_3 = [
     "ballot": "presidential",
     "tikTvd": "2022000130759",
     "tikName": "Балтачевская",
+    "regionCode": "3",
+    "regionTvd": "1001000882976",
+    "regionName": "Республика Башкортостан",
     "uikCount": 57,
     "accounting": {
       "Число избирателей, внесенных в список": 17524,
@@ -6122,6 +6305,9 @@ export const president_2004_tic_227_region_3 = [
     "ballot": "presidential",
     "tikTvd": "2022000130760",
     "tikName": "Бакалинская",
+    "regionCode": "3",
+    "regionTvd": "1001000882976",
+    "regionName": "Республика Башкортостан",
     "uikCount": 53,
     "accounting": {
       "Число избирателей, внесенных в список": 21942,
@@ -6223,6 +6409,9 @@ export const president_2004_tic_227_region_3 = [
     "ballot": "presidential",
     "tikTvd": "2022000130761",
     "tikName": "Баймакская",
+    "regionCode": "3",
+    "regionTvd": "1001000882976",
+    "regionName": "Республика Башкортостан",
     "uikCount": 77,
     "accounting": {
       "Число избирателей, внесенных в список": 39083,
@@ -6348,6 +6537,9 @@ export const president_2004_tic_227_region_3 = [
     "ballot": "presidential",
     "tikTvd": "2022000130762",
     "tikName": "Аургазинская",
+    "regionCode": "3",
+    "regionTvd": "1001000882976",
+    "regionName": "Республика Башкортостан",
     "uikCount": 49,
     "accounting": {
       "Число избирателей, внесенных в список": 27148,
@@ -6445,6 +6637,9 @@ export const president_2004_tic_227_region_3 = [
     "ballot": "presidential",
     "tikTvd": "2022000130763",
     "tikName": "Аскинская",
+    "regionCode": "3",
+    "regionTvd": "1001000882976",
+    "regionName": "Республика Башкортостан",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, внесенных в список": 16099,
@@ -6537,6 +6732,9 @@ export const president_2004_tic_227_region_3 = [
     "ballot": "presidential",
     "tikTvd": "2022000130764",
     "tikName": "Архангельская",
+    "regionCode": "3",
+    "regionTvd": "1001000882976",
+    "regionName": "Республика Башкортостан",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список": 13999,
@@ -6621,6 +6819,9 @@ export const president_2004_tic_227_region_3 = [
     "ballot": "presidential",
     "tikTvd": "2022000130765",
     "tikName": "Альшеевская",
+    "regionCode": "3",
+    "regionTvd": "1001000882976",
+    "regionName": "Республика Башкортостан",
     "uikCount": 54,
     "accounting": {
       "Число избирателей, внесенных в список": 32770,
@@ -6723,6 +6924,9 @@ export const president_2004_tic_227_region_3 = [
     "ballot": "presidential",
     "tikTvd": "2022000130766",
     "tikName": "Агидельская городская",
+    "regionCode": "3",
+    "regionTvd": "1001000882976",
+    "regionName": "Республика Башкортостан",
     "uikCount": 5,
     "accounting": {
       "Число избирателей, внесенных в список": 12244,
@@ -6776,6 +6980,9 @@ export const president_2004_tic_227_region_3 = [
     "ballot": "presidential",
     "tikTvd": "2022000130767",
     "tikName": "Абзелиловская ",
+    "regionCode": "3",
+    "regionTvd": "1001000882976",
+    "regionName": "Республика Башкортостан",
     "uikCount": 75,
     "accounting": {
       "Число избирателей, внесенных в список": 27406,

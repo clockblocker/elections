@@ -7,5395 +7,9890 @@ export const president_2004_uik_to_tik_region_75 = [
   {
     "uikNumber": 1,
     "uikTvd": "475402968703",
+    "uikName": "УИК №1",
     "tikTvd": "275200071338",
-    "tikName": "Центральная, Чита"
+    "tikName": "Центральная, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 2,
     "uikTvd": "475402968738",
+    "uikName": "УИК №2",
     "tikTvd": "275200071338",
-    "tikName": "Центральная, Чита"
+    "tikName": "Центральная, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 3,
     "uikTvd": "475402968739",
+    "uikName": "УИК №3",
     "tikTvd": "275200071338",
-    "tikName": "Центральная, Чита"
+    "tikName": "Центральная, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 4,
     "uikTvd": "475402968740",
+    "uikName": "УИК №4",
     "tikTvd": "275200071338",
-    "tikName": "Центральная, Чита"
+    "tikName": "Центральная, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 5,
     "uikTvd": "475402968741",
+    "uikName": "УИК №5",
     "tikTvd": "275200071338",
-    "tikName": "Центральная, Чита"
+    "tikName": "Центральная, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 6,
     "uikTvd": "475402968742",
+    "uikName": "УИК №6",
     "tikTvd": "275200071338",
-    "tikName": "Центральная, Чита"
+    "tikName": "Центральная, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 7,
     "uikTvd": "475402968773",
+    "uikName": "УИК №7",
     "tikTvd": "275200071338",
-    "tikName": "Центральная, Чита"
+    "tikName": "Центральная, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 8,
     "uikTvd": "475402968743",
+    "uikName": "УИК №8",
     "tikTvd": "275200071338",
-    "tikName": "Центральная, Чита"
+    "tikName": "Центральная, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 9,
     "uikTvd": "475402968744",
+    "uikName": "УИК №9",
     "tikTvd": "275200071338",
-    "tikName": "Центральная, Чита"
+    "tikName": "Центральная, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 10,
     "uikTvd": "475402968745",
+    "uikName": "УИК №10",
     "tikTvd": "275200071338",
-    "tikName": "Центральная, Чита"
+    "tikName": "Центральная, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 11,
     "uikTvd": "475402968746",
+    "uikName": "УИК №11",
     "tikTvd": "275200071338",
-    "tikName": "Центральная, Чита"
+    "tikName": "Центральная, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 12,
     "uikTvd": "475402968747",
+    "uikName": "УИК №12",
     "tikTvd": "275200071338",
-    "tikName": "Центральная, Чита"
+    "tikName": "Центральная, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 13,
     "uikTvd": "475402968748",
+    "uikName": "УИК №13",
     "tikTvd": "275200071338",
-    "tikName": "Центральная, Чита"
+    "tikName": "Центральная, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 14,
     "uikTvd": "475402968749",
+    "uikName": "УИК №14",
     "tikTvd": "275200071338",
-    "tikName": "Центральная, Чита"
+    "tikName": "Центральная, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 15,
     "uikTvd": "475402968750",
+    "uikName": "УИК №15",
     "tikTvd": "275200071338",
-    "tikName": "Центральная, Чита"
+    "tikName": "Центральная, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 16,
     "uikTvd": "475402968751",
+    "uikName": "УИК №16",
     "tikTvd": "275200071338",
-    "tikName": "Центральная, Чита"
+    "tikName": "Центральная, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 17,
     "uikTvd": "475402968752",
+    "uikName": "УИК №17",
     "tikTvd": "275200071338",
-    "tikName": "Центральная, Чита"
+    "tikName": "Центральная, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 18,
     "uikTvd": "475402968753",
+    "uikName": "УИК №18",
     "tikTvd": "275200071338",
-    "tikName": "Центральная, Чита"
+    "tikName": "Центральная, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 19,
     "uikTvd": "475402968754",
+    "uikName": "УИК №19",
     "tikTvd": "275200071338",
-    "tikName": "Центральная, Чита"
+    "tikName": "Центральная, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 20,
     "uikTvd": "475402968755",
+    "uikName": "УИК №20",
     "tikTvd": "275200071338",
-    "tikName": "Центральная, Чита"
+    "tikName": "Центральная, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 21,
     "uikTvd": "475402968756",
+    "uikName": "УИК №21",
     "tikTvd": "275200071338",
-    "tikName": "Центральная, Чита"
+    "tikName": "Центральная, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 22,
     "uikTvd": "475402968757",
+    "uikName": "УИК №22",
     "tikTvd": "275200071338",
-    "tikName": "Центральная, Чита"
+    "tikName": "Центральная, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 23,
     "uikTvd": "475402968758",
+    "uikName": "УИК №23",
     "tikTvd": "275200071338",
-    "tikName": "Центральная, Чита"
+    "tikName": "Центральная, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 24,
     "uikTvd": "475402968759",
+    "uikName": "УИК №24",
     "tikTvd": "275200071338",
-    "tikName": "Центральная, Чита"
+    "tikName": "Центральная, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 25,
     "uikTvd": "475402968760",
+    "uikName": "УИК №25",
     "tikTvd": "275200071338",
-    "tikName": "Центральная, Чита"
+    "tikName": "Центральная, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 26,
     "uikTvd": "475402968761",
+    "uikName": "УИК №26",
     "tikTvd": "275200071338",
-    "tikName": "Центральная, Чита"
+    "tikName": "Центральная, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 27,
     "uikTvd": "475402968762",
+    "uikName": "УИК №27",
     "tikTvd": "275200071338",
-    "tikName": "Центральная, Чита"
+    "tikName": "Центральная, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 28,
     "uikTvd": "475402968763",
+    "uikName": "УИК №28",
     "tikTvd": "275200071338",
-    "tikName": "Центральная, Чита"
+    "tikName": "Центральная, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 29,
     "uikTvd": "475402968764",
+    "uikName": "УИК №29",
     "tikTvd": "275200071338",
-    "tikName": "Центральная, Чита"
+    "tikName": "Центральная, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 30,
     "uikTvd": "475402968765",
+    "uikName": "УИК №30",
     "tikTvd": "275200071338",
-    "tikName": "Центральная, Чита"
+    "tikName": "Центральная, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 31,
     "uikTvd": "475402968766",
+    "uikName": "УИК №31",
     "tikTvd": "275200071338",
-    "tikName": "Центральная, Чита"
+    "tikName": "Центральная, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 32,
     "uikTvd": "475402968767",
+    "uikName": "УИК №32",
     "tikTvd": "275200071338",
-    "tikName": "Центральная, Чита"
+    "tikName": "Центральная, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 33,
     "uikTvd": "475402968768",
+    "uikName": "УИК №33",
     "tikTvd": "275200071338",
-    "tikName": "Центральная, Чита"
+    "tikName": "Центральная, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 34,
     "uikTvd": "475402968769",
+    "uikName": "УИК №34",
     "tikTvd": "275200071338",
-    "tikName": "Центральная, Чита"
+    "tikName": "Центральная, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 35,
     "uikTvd": "475402968770",
+    "uikName": "УИК №35",
     "tikTvd": "275200071338",
-    "tikName": "Центральная, Чита"
+    "tikName": "Центральная, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 36,
     "uikTvd": "475402867924",
+    "uikName": "УИК №36",
     "tikTvd": "275200071337",
-    "tikName": "Ингодинская, Чита"
+    "tikName": "Ингодинская, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 37,
     "uikTvd": "475402867925",
+    "uikName": "УИК №37",
     "tikTvd": "275200071337",
-    "tikName": "Ингодинская, Чита"
+    "tikName": "Ингодинская, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 38,
     "uikTvd": "475402867926",
+    "uikName": "УИК №38",
     "tikTvd": "275200071337",
-    "tikName": "Ингодинская, Чита"
+    "tikName": "Ингодинская, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 39,
     "uikTvd": "475402867927",
+    "uikName": "УИК №39",
     "tikTvd": "275200071337",
-    "tikName": "Ингодинская, Чита"
+    "tikName": "Ингодинская, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 40,
     "uikTvd": "475402867928",
+    "uikName": "УИК №40",
     "tikTvd": "275200071337",
-    "tikName": "Ингодинская, Чита"
+    "tikName": "Ингодинская, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 41,
     "uikTvd": "475402867929",
+    "uikName": "УИК №41",
     "tikTvd": "275200071337",
-    "tikName": "Ингодинская, Чита"
+    "tikName": "Ингодинская, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 42,
     "uikTvd": "475402867930",
+    "uikName": "УИК №42",
     "tikTvd": "275200071337",
-    "tikName": "Ингодинская, Чита"
+    "tikName": "Ингодинская, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 43,
     "uikTvd": "475402867931",
+    "uikName": "УИК №43",
     "tikTvd": "275200071337",
-    "tikName": "Ингодинская, Чита"
+    "tikName": "Ингодинская, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 44,
     "uikTvd": "475402867932",
+    "uikName": "УИК №44",
     "tikTvd": "275200071337",
-    "tikName": "Ингодинская, Чита"
+    "tikName": "Ингодинская, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 45,
     "uikTvd": "475402867933",
+    "uikName": "УИК №45",
     "tikTvd": "275200071337",
-    "tikName": "Ингодинская, Чита"
+    "tikName": "Ингодинская, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 46,
     "uikTvd": "475402867934",
+    "uikName": "УИК №46",
     "tikTvd": "275200071337",
-    "tikName": "Ингодинская, Чита"
+    "tikName": "Ингодинская, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 47,
     "uikTvd": "475402867935",
+    "uikName": "УИК №47",
     "tikTvd": "275200071337",
-    "tikName": "Ингодинская, Чита"
+    "tikName": "Ингодинская, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 48,
     "uikTvd": "475402867936",
+    "uikName": "УИК №48",
     "tikTvd": "275200071337",
-    "tikName": "Ингодинская, Чита"
+    "tikName": "Ингодинская, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 49,
     "uikTvd": "475402867937",
+    "uikName": "УИК №49",
     "tikTvd": "275200071337",
-    "tikName": "Ингодинская, Чита"
+    "tikName": "Ингодинская, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 50,
     "uikTvd": "475402867938",
+    "uikName": "УИК №50",
     "tikTvd": "275200071337",
-    "tikName": "Ингодинская, Чита"
+    "tikName": "Ингодинская, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 51,
     "uikTvd": "475402867939",
+    "uikName": "УИК №51",
     "tikTvd": "275200071337",
-    "tikName": "Ингодинская, Чита"
+    "tikName": "Ингодинская, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 52,
     "uikTvd": "475402867940",
+    "uikName": "УИК №52",
     "tikTvd": "275200071337",
-    "tikName": "Ингодинская, Чита"
+    "tikName": "Ингодинская, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 53,
     "uikTvd": "475402867941",
+    "uikName": "УИК №53",
     "tikTvd": "275200071337",
-    "tikName": "Ингодинская, Чита"
+    "tikName": "Ингодинская, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 54,
     "uikTvd": "475402867942",
+    "uikName": "УИК №54",
     "tikTvd": "275200071337",
-    "tikName": "Ингодинская, Чита"
+    "tikName": "Ингодинская, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 55,
     "uikTvd": "475402867943",
+    "uikName": "УИК №55",
     "tikTvd": "275200071337",
-    "tikName": "Ингодинская, Чита"
+    "tikName": "Ингодинская, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 56,
     "uikTvd": "475402867944",
+    "uikName": "УИК №56",
     "tikTvd": "275200071337",
-    "tikName": "Ингодинская, Чита"
+    "tikName": "Ингодинская, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 57,
     "uikTvd": "475402867945",
+    "uikName": "УИК №57",
     "tikTvd": "275200071337",
-    "tikName": "Ингодинская, Чита"
+    "tikName": "Ингодинская, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 58,
     "uikTvd": "475402867946",
+    "uikName": "УИК №58",
     "tikTvd": "275200071337",
-    "tikName": "Ингодинская, Чита"
+    "tikName": "Ингодинская, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 59,
     "uikTvd": "475402867947",
+    "uikName": "УИК №59",
     "tikTvd": "275200071337",
-    "tikName": "Ингодинская, Чита"
+    "tikName": "Ингодинская, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 60,
     "uikTvd": "475402867948",
+    "uikName": "УИК №60",
     "tikTvd": "275200071337",
-    "tikName": "Ингодинская, Чита"
+    "tikName": "Ингодинская, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 61,
     "uikTvd": "475402867949",
+    "uikName": "УИК №61",
     "tikTvd": "275200071337",
-    "tikName": "Ингодинская, Чита"
+    "tikName": "Ингодинская, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 62,
     "uikTvd": "475402767811",
+    "uikName": "УИК  62",
     "tikTvd": "275200071336",
-    "tikName": "Железнодорожная, Чита"
+    "tikName": "Железнодорожная, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 63,
     "uikTvd": "475402767812",
+    "uikName": "УИК  63",
     "tikTvd": "275200071336",
-    "tikName": "Железнодорожная, Чита"
+    "tikName": "Железнодорожная, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 64,
     "uikTvd": "475402767813",
+    "uikName": "УИК  64",
     "tikTvd": "275200071336",
-    "tikName": "Железнодорожная, Чита"
+    "tikName": "Железнодорожная, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 65,
     "uikTvd": "475402767814",
+    "uikName": "УИК  65",
     "tikTvd": "275200071336",
-    "tikName": "Железнодорожная, Чита"
+    "tikName": "Железнодорожная, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 66,
     "uikTvd": "475402767815",
+    "uikName": "УИК  66",
     "tikTvd": "275200071336",
-    "tikName": "Железнодорожная, Чита"
+    "tikName": "Железнодорожная, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 67,
     "uikTvd": "475402767816",
+    "uikName": "УИК  67",
     "tikTvd": "275200071336",
-    "tikName": "Железнодорожная, Чита"
+    "tikName": "Железнодорожная, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 68,
     "uikTvd": "475402767818",
+    "uikName": "УИК  68",
     "tikTvd": "275200071336",
-    "tikName": "Железнодорожная, Чита"
+    "tikName": "Железнодорожная, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 69,
     "uikTvd": "475402767819",
+    "uikName": "УИК  69",
     "tikTvd": "275200071336",
-    "tikName": "Железнодорожная, Чита"
+    "tikName": "Железнодорожная, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 70,
     "uikTvd": "475402767820",
+    "uikName": "УИК  70",
     "tikTvd": "275200071336",
-    "tikName": "Железнодорожная, Чита"
+    "tikName": "Железнодорожная, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 71,
     "uikTvd": "475402767821",
+    "uikName": "УИК  71",
     "tikTvd": "275200071336",
-    "tikName": "Железнодорожная, Чита"
+    "tikName": "Железнодорожная, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 72,
     "uikTvd": "475402767822",
+    "uikName": "УИК  72",
     "tikTvd": "275200071336",
-    "tikName": "Железнодорожная, Чита"
+    "tikName": "Железнодорожная, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 73,
     "uikTvd": "475402767823",
+    "uikName": "УИК  73",
     "tikTvd": "275200071336",
-    "tikName": "Железнодорожная, Чита"
+    "tikName": "Железнодорожная, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 74,
     "uikTvd": "475402767824",
+    "uikName": "УИК  74",
     "tikTvd": "275200071336",
-    "tikName": "Железнодорожная, Чита"
+    "tikName": "Железнодорожная, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 75,
     "uikTvd": "475402767825",
+    "uikName": "УИК  75",
     "tikTvd": "275200071336",
-    "tikName": "Железнодорожная, Чита"
+    "tikName": "Железнодорожная, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 76,
     "uikTvd": "475403068440",
+    "uikName": "УИК №76",
     "tikTvd": "275200071339",
-    "tikName": "Черновская, Чита"
+    "tikName": "Черновская, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 77,
     "uikTvd": "475403068441",
+    "uikName": "УИК №77",
     "tikTvd": "275200071339",
-    "tikName": "Черновская, Чита"
+    "tikName": "Черновская, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 78,
     "uikTvd": "475403068442",
+    "uikName": "УИК №78",
     "tikTvd": "275200071339",
-    "tikName": "Черновская, Чита"
+    "tikName": "Черновская, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 79,
     "uikTvd": "475403068443",
+    "uikName": "УИК №79",
     "tikTvd": "275200071339",
-    "tikName": "Черновская, Чита"
+    "tikName": "Черновская, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 80,
     "uikTvd": "475403068444",
+    "uikName": "УИК №80",
     "tikTvd": "275200071339",
-    "tikName": "Черновская, Чита"
+    "tikName": "Черновская, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 81,
     "uikTvd": "475403068445",
+    "uikName": "УИК №81",
     "tikTvd": "275200071339",
-    "tikName": "Черновская, Чита"
+    "tikName": "Черновская, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 82,
     "uikTvd": "475403068446",
+    "uikName": "УИК №82",
     "tikTvd": "275200071339",
-    "tikName": "Черновская, Чита"
+    "tikName": "Черновская, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 83,
     "uikTvd": "475403068447",
+    "uikName": "УИК №83",
     "tikTvd": "275200071339",
-    "tikName": "Черновская, Чита"
+    "tikName": "Черновская, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 84,
     "uikTvd": "475403068448",
+    "uikName": "УИК №84",
     "tikTvd": "275200071339",
-    "tikName": "Черновская, Чита"
+    "tikName": "Черновская, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 85,
     "uikTvd": "475403068449",
+    "uikName": "УИК №85",
     "tikTvd": "275200071339",
-    "tikName": "Черновская, Чита"
+    "tikName": "Черновская, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 86,
     "uikTvd": "475403068450",
+    "uikName": "УИК №86",
     "tikTvd": "275200071339",
-    "tikName": "Черновская, Чита"
+    "tikName": "Черновская, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 87,
     "uikTvd": "475403068451",
+    "uikName": "УИК №87",
     "tikTvd": "275200071339",
-    "tikName": "Черновская, Чита"
+    "tikName": "Черновская, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 88,
     "uikTvd": "475403068452",
+    "uikName": "УИК №88",
     "tikTvd": "275200071339",
-    "tikName": "Черновская, Чита"
+    "tikName": "Черновская, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 89,
     "uikTvd": "475403068453",
+    "uikName": "УИК №89",
     "tikTvd": "275200071339",
-    "tikName": "Черновская, Чита"
+    "tikName": "Черновская, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 90,
     "uikTvd": "475403068454",
+    "uikName": "УИК №90",
     "tikTvd": "275200071339",
-    "tikName": "Черновская, Чита"
+    "tikName": "Черновская, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 91,
     "uikTvd": "475403068455",
+    "uikName": "УИК №91",
     "tikTvd": "275200071339",
-    "tikName": "Черновская, Чита"
+    "tikName": "Черновская, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 92,
     "uikTvd": "475403068456",
+    "uikName": "УИК №92",
     "tikTvd": "275200071339",
-    "tikName": "Черновская, Чита"
+    "tikName": "Черновская, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 93,
     "uikTvd": "475403068457",
+    "uikName": "УИК №93",
     "tikTvd": "275200071339",
-    "tikName": "Черновская, Чита"
+    "tikName": "Черновская, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 94,
     "uikTvd": "475403068458",
+    "uikName": "УИК №94",
     "tikTvd": "275200071339",
-    "tikName": "Черновская, Чита"
+    "tikName": "Черновская, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 95,
     "uikTvd": "475403068459",
+    "uikName": "УИК №95",
     "tikTvd": "275200071339",
-    "tikName": "Черновская, Чита"
+    "tikName": "Черновская, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 96,
     "uikTvd": "475403068460",
+    "uikName": "УИК №96",
     "tikTvd": "275200071339",
-    "tikName": "Черновская, Чита"
+    "tikName": "Черновская, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 97,
     "uikTvd": "475403068461",
+    "uikName": "УИК №97",
     "tikTvd": "275200071339",
-    "tikName": "Черновская, Чита"
+    "tikName": "Черновская, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 98,
     "uikTvd": "475403068462",
+    "uikName": "УИК №98",
     "tikTvd": "275200071339",
-    "tikName": "Черновская, Чита"
+    "tikName": "Черновская, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 99,
     "uikTvd": "475403068463",
+    "uikName": "УИК №99",
     "tikTvd": "275200071339",
-    "tikName": "Черновская, Чита"
+    "tikName": "Черновская, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 100,
     "uikTvd": "475403068464",
+    "uikName": "УИК №100",
     "tikTvd": "275200071339",
-    "tikName": "Черновская, Чита"
+    "tikName": "Черновская, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 101,
     "uikTvd": "475403068465",
+    "uikName": "УИК №101",
     "tikTvd": "275200071339",
-    "tikName": "Черновская, Чита"
+    "tikName": "Черновская, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 102,
     "uikTvd": "475403068466",
+    "uikName": "УИК №102",
     "tikTvd": "275200071339",
-    "tikName": "Черновская, Чита"
+    "tikName": "Черновская, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 103,
     "uikTvd": "475403068467",
+    "uikName": "УИК №103",
     "tikTvd": "275200071339",
-    "tikName": "Черновская, Чита"
+    "tikName": "Черновская, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 104,
     "uikTvd": "475403068468",
+    "uikName": "УИК №104",
     "tikTvd": "275200071339",
-    "tikName": "Черновская, Чита"
+    "tikName": "Черновская, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 105,
     "uikTvd": "475403068469",
+    "uikName": "УИК №105",
     "tikTvd": "275200071339",
-    "tikName": "Черновская, Чита"
+    "tikName": "Черновская, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 106,
     "uikTvd": "475403068470",
+    "uikName": "УИК №106",
     "tikTvd": "275200071339",
-    "tikName": "Черновская, Чита"
+    "tikName": "Черновская, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 107,
     "uikTvd": "475403068471",
+    "uikName": "УИК №107",
     "tikTvd": "275200071339",
-    "tikName": "Черновская, Чита"
+    "tikName": "Черновская, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 108,
     "uikTvd": "475403668064",
+    "uikName": "УИК  108",
     "tikTvd": "275200071328",
-    "tikName": "Петровск-Забайкальская городская"
+    "tikName": "Петровск-Забайкальская городская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 109,
     "uikTvd": "475403668065",
+    "uikName": "УИК  109",
     "tikTvd": "275200071328",
-    "tikName": "Петровск-Забайкальская городская"
+    "tikName": "Петровск-Забайкальская городская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 110,
     "uikTvd": "475403668066",
+    "uikName": "УИК  110",
     "tikTvd": "275200071328",
-    "tikName": "Петровск-Забайкальская городская"
+    "tikName": "Петровск-Забайкальская городская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 111,
     "uikTvd": "475403668067",
+    "uikName": "УИК  111",
     "tikTvd": "275200071328",
-    "tikName": "Петровск-Забайкальская городская"
+    "tikName": "Петровск-Забайкальская городская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 112,
     "uikTvd": "475403668068",
+    "uikName": "УИК  112",
     "tikTvd": "275200071328",
-    "tikName": "Петровск-Забайкальская городская"
+    "tikName": "Петровск-Забайкальская городская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 113,
     "uikTvd": "475403668069",
+    "uikName": "УИК  113",
     "tikTvd": "275200071328",
-    "tikName": "Петровск-Забайкальская городская"
+    "tikName": "Петровск-Забайкальская городская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 114,
     "uikTvd": "475403668070",
+    "uikName": "УИК  114",
     "tikTvd": "275200071328",
-    "tikName": "Петровск-Забайкальская городская"
+    "tikName": "Петровск-Забайкальская городская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 115,
     "uikTvd": "475403668071",
+    "uikName": "УИК  115",
     "tikTvd": "275200071328",
-    "tikName": "Петровск-Забайкальская городская"
+    "tikName": "Петровск-Забайкальская городская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 116,
     "uikTvd": "475403668072",
+    "uikName": "УИК  116",
     "tikTvd": "275200071328",
-    "tikName": "Петровск-Забайкальская городская"
+    "tikName": "Петровск-Забайкальская городская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 117,
     "uikTvd": "475403668073",
+    "uikName": "УИК  117",
     "tikTvd": "275200071328",
-    "tikName": "Петровск-Забайкальская городская"
+    "tikName": "Петровск-Забайкальская городская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 118,
     "uikTvd": "475403668074",
+    "uikName": "УИК  118",
     "tikTvd": "275200071328",
-    "tikName": "Петровск-Забайкальская городская"
+    "tikName": "Петровск-Забайкальская городская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 119,
     "uikTvd": "475403668075",
+    "uikName": "УИК  119",
     "tikTvd": "275200071328",
-    "tikName": "Петровск-Забайкальская городская"
+    "tikName": "Петровск-Забайкальская городская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 120,
     "uikTvd": "475403668076",
+    "uikName": "УИК  120",
     "tikTvd": "275200071328",
-    "tikName": "Петровск-Забайкальская городская"
+    "tikName": "Петровск-Забайкальская городская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 121,
     "uikTvd": "475403668077",
+    "uikName": "УИК  121",
     "tikTvd": "275200071328",
-    "tikName": "Петровск-Забайкальская городская"
+    "tikName": "Петровск-Забайкальская городская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 122,
     "uikTvd": "475403668078",
+    "uikName": "УИК  122",
     "tikTvd": "275200071328",
-    "tikName": "Петровск-Забайкальская городская"
+    "tikName": "Петровск-Забайкальская городская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 123,
     "uikTvd": "475403668079",
+    "uikName": "УИК  123",
     "tikTvd": "275200071328",
-    "tikName": "Петровск-Забайкальская городская"
+    "tikName": "Петровск-Забайкальская городская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 124,
     "uikTvd": "475403668080",
+    "uikName": "УИК  124",
     "tikTvd": "275200071328",
-    "tikName": "Петровск-Забайкальская городская"
+    "tikName": "Петровск-Забайкальская городская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 125,
     "uikTvd": "475403668081",
+    "uikName": "УИК  125",
     "tikTvd": "275200071328",
-    "tikName": "Петровск-Забайкальская городская"
+    "tikName": "Петровск-Забайкальская городская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 126,
     "uikTvd": "475403668082",
+    "uikName": "УИК  126",
     "tikTvd": "275200071328",
-    "tikName": "Петровск-Забайкальская городская"
+    "tikName": "Петровск-Забайкальская городская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 127,
     "uikTvd": "475403668083",
+    "uikName": "УИК  127",
     "tikTvd": "275200071328",
-    "tikName": "Петровск-Забайкальская городская"
+    "tikName": "Петровск-Забайкальская городская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 128,
     "uikTvd": "475403668084",
+    "uikName": "УИК  128",
     "tikTvd": "275200071328",
-    "tikName": "Петровск-Забайкальская городская"
+    "tikName": "Петровск-Забайкальская городская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 129,
     "uikTvd": "475403668085",
+    "uikName": "УИК  129",
     "tikTvd": "275200071328",
-    "tikName": "Петровск-Забайкальская городская"
+    "tikName": "Петровск-Забайкальская городская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 130,
     "uikTvd": "475400167848",
+    "uikName": "УИК  130",
     "tikTvd": "275200071309",
-    "tikName": "Акшинская"
+    "tikName": "Акшинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 131,
     "uikTvd": "475400167849",
+    "uikName": "УИК  131",
     "tikTvd": "275200071309",
-    "tikName": "Акшинская"
+    "tikName": "Акшинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 132,
     "uikTvd": "475400167850",
+    "uikName": "УИК  132",
     "tikTvd": "275200071309",
-    "tikName": "Акшинская"
+    "tikName": "Акшинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 133,
     "uikTvd": "475400167851",
+    "uikName": "УИК  133",
     "tikTvd": "275200071309",
-    "tikName": "Акшинская"
+    "tikName": "Акшинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 134,
     "uikTvd": "475400167852",
+    "uikName": "УИК  134",
     "tikTvd": "275200071309",
-    "tikName": "Акшинская"
+    "tikName": "Акшинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 135,
     "uikTvd": "475400167853",
+    "uikName": "УИК  135",
     "tikTvd": "275200071309",
-    "tikName": "Акшинская"
+    "tikName": "Акшинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 136,
     "uikTvd": "475400167854",
+    "uikName": "УИК  136",
     "tikTvd": "275200071309",
-    "tikName": "Акшинская"
+    "tikName": "Акшинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 137,
     "uikTvd": "475400167855",
+    "uikName": "УИК  137",
     "tikTvd": "275200071309",
-    "tikName": "Акшинская"
+    "tikName": "Акшинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 138,
     "uikTvd": "475400167856",
+    "uikName": "УИК  138",
     "tikTvd": "275200071309",
-    "tikName": "Акшинская"
+    "tikName": "Акшинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 139,
     "uikTvd": "475400167857",
+    "uikName": "УИК  139",
     "tikTvd": "275200071309",
-    "tikName": "Акшинская"
+    "tikName": "Акшинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 140,
     "uikTvd": "475400167858",
+    "uikName": "УИК  140",
     "tikTvd": "275200071309",
-    "tikName": "Акшинская"
+    "tikName": "Акшинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 141,
     "uikTvd": "475400167859",
+    "uikName": "УИК  141",
     "tikTvd": "275200071309",
-    "tikName": "Акшинская"
+    "tikName": "Акшинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 142,
     "uikTvd": "475400167860",
+    "uikName": "УИК  142",
     "tikTvd": "275200071309",
-    "tikName": "Акшинская"
+    "tikName": "Акшинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 143,
     "uikTvd": "475400167861",
+    "uikName": "УИК  143",
     "tikTvd": "275200071309",
-    "tikName": "Акшинская"
+    "tikName": "Акшинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 144,
     "uikTvd": "475400167862",
+    "uikName": "УИК  144",
     "tikTvd": "275200071309",
-    "tikName": "Акшинская"
+    "tikName": "Акшинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 145,
     "uikTvd": "475400767587",
+    "uikName": "УИК №145",
     "tikTvd": "275200071316",
-    "tikName": "Каларская"
+    "tikName": "Каларская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 146,
     "uikTvd": "475400767588",
+    "uikName": "УИК №146",
     "tikTvd": "275200071316",
-    "tikName": "Каларская"
+    "tikName": "Каларская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 147,
     "uikTvd": "475400767589",
+    "uikName": "УИК №147",
     "tikTvd": "275200071316",
-    "tikName": "Каларская"
+    "tikName": "Каларская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 148,
     "uikTvd": "475400767590",
+    "uikName": "УИК №148",
     "tikTvd": "275200071316",
-    "tikName": "Каларская"
+    "tikName": "Каларская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 149,
     "uikTvd": "475400767591",
+    "uikName": "УИК №149",
     "tikTvd": "275200071316",
-    "tikName": "Каларская"
+    "tikName": "Каларская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 150,
     "uikTvd": "475400767592",
+    "uikName": "УИК №150",
     "tikTvd": "275200071316",
-    "tikName": "Каларская"
+    "tikName": "Каларская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 151,
     "uikTvd": "475400767593",
+    "uikName": "УИК №151",
     "tikTvd": "275200071316",
-    "tikName": "Каларская"
+    "tikName": "Каларская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 152,
     "uikTvd": "475400767594",
+    "uikName": "УИК №152",
     "tikTvd": "275200071316",
-    "tikName": "Каларская"
+    "tikName": "Каларская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 153,
     "uikTvd": "475400767595",
+    "uikName": "УИК №153",
     "tikTvd": "275200071316",
-    "tikName": "Каларская"
+    "tikName": "Каларская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 154,
     "uikTvd": "475400767596",
+    "uikName": "УИК №154",
     "tikTvd": "275200071316",
-    "tikName": "Каларская"
+    "tikName": "Каларская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 155,
     "uikTvd": "475400767597",
+    "uikName": "УИК №155",
     "tikTvd": "275200071316",
-    "tikName": "Каларская"
+    "tikName": "Каларская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 156,
     "uikTvd": "475400767598",
+    "uikName": "УИК №156",
     "tikTvd": "275200071316",
-    "tikName": "Каларская"
+    "tikName": "Каларская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 157,
     "uikTvd": "475400767599",
+    "uikName": "УИК №157",
     "tikTvd": "275200071316",
-    "tikName": "Каларская"
+    "tikName": "Каларская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 158,
     "uikTvd": "475400767600",
+    "uikName": "УИК №158",
     "tikTvd": "275200071316",
-    "tikName": "Каларская"
+    "tikName": "Каларская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 159,
     "uikTvd": "475400767601",
+    "uikName": "УИК №159",
     "tikTvd": "275200071316",
-    "tikName": "Каларская"
+    "tikName": "Каларская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 160,
     "uikTvd": "475400767602",
+    "uikName": "УИК №160",
     "tikTvd": "275200071316",
-    "tikName": "Каларская"
+    "tikName": "Каларская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 161,
     "uikTvd": "475401168085",
+    "uikName": "УИК  161",
     "tikTvd": "275200071320",
-    "tikName": "Красночикойская"
+    "tikName": "Красночикойская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 162,
     "uikTvd": "475401168086",
+    "uikName": "УИК  162",
     "tikTvd": "275200071320",
-    "tikName": "Красночикойская"
+    "tikName": "Красночикойская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 163,
     "uikTvd": "475401168087",
+    "uikName": "УИК  163",
     "tikTvd": "275200071320",
-    "tikName": "Красночикойская"
+    "tikName": "Красночикойская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 164,
     "uikTvd": "475401168088",
+    "uikName": "УИК  164",
     "tikTvd": "275200071320",
-    "tikName": "Красночикойская"
+    "tikName": "Красночикойская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 165,
     "uikTvd": "475401168089",
+    "uikName": "УИК  165",
     "tikTvd": "275200071320",
-    "tikName": "Красночикойская"
+    "tikName": "Красночикойская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 166,
     "uikTvd": "475401168090",
+    "uikName": "УИК  166",
     "tikTvd": "275200071320",
-    "tikName": "Красночикойская"
+    "tikName": "Красночикойская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 167,
     "uikTvd": "475401168091",
+    "uikName": "УИК  167",
     "tikTvd": "275200071320",
-    "tikName": "Красночикойская"
+    "tikName": "Красночикойская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 168,
     "uikTvd": "475401168092",
+    "uikName": "УИК  168",
     "tikTvd": "275200071320",
-    "tikName": "Красночикойская"
+    "tikName": "Красночикойская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 169,
     "uikTvd": "475401168093",
+    "uikName": "УИК  169",
     "tikTvd": "275200071320",
-    "tikName": "Красночикойская"
+    "tikName": "Красночикойская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 170,
     "uikTvd": "475401168094",
+    "uikName": "УИК  170",
     "tikTvd": "275200071320",
-    "tikName": "Красночикойская"
+    "tikName": "Красночикойская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 171,
     "uikTvd": "475401168095",
+    "uikName": "УИК  171",
     "tikTvd": "275200071320",
-    "tikName": "Красночикойская"
+    "tikName": "Красночикойская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 172,
     "uikTvd": "475401168096",
+    "uikName": "УИК  172",
     "tikTvd": "275200071320",
-    "tikName": "Красночикойская"
+    "tikName": "Красночикойская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 173,
     "uikTvd": "475401168097",
+    "uikName": "УИК  173",
     "tikTvd": "275200071320",
-    "tikName": "Красночикойская"
+    "tikName": "Красночикойская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 174,
     "uikTvd": "475401168098",
+    "uikName": "УИК  174",
     "tikTvd": "275200071320",
-    "tikName": "Красночикойская"
+    "tikName": "Красночикойская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 175,
     "uikTvd": "475401168099",
+    "uikName": "УИК  175",
     "tikTvd": "275200071320",
-    "tikName": "Красночикойская"
+    "tikName": "Красночикойская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 176,
     "uikTvd": "475401168100",
+    "uikName": "УИК  176",
     "tikTvd": "275200071320",
-    "tikName": "Красночикойская"
+    "tikName": "Красночикойская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 177,
     "uikTvd": "475401168101",
+    "uikName": "УИК  177",
     "tikTvd": "275200071320",
-    "tikName": "Красночикойская"
+    "tikName": "Красночикойская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 178,
     "uikTvd": "475401168102",
+    "uikName": "УИК  178",
     "tikTvd": "275200071320",
-    "tikName": "Красночикойская"
+    "tikName": "Красночикойская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 179,
     "uikTvd": "475401168103",
+    "uikName": "УИК  179",
     "tikTvd": "275200071320",
-    "tikName": "Красночикойская"
+    "tikName": "Красночикойская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 180,
     "uikTvd": "475401168104",
+    "uikName": "УИК  180",
     "tikTvd": "275200071320",
-    "tikName": "Красночикойская"
+    "tikName": "Красночикойская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 181,
     "uikTvd": "475401168105",
+    "uikName": "УИК  181",
     "tikTvd": "275200071320",
-    "tikName": "Красночикойская"
+    "tikName": "Красночикойская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 182,
     "uikTvd": "475401168106",
+    "uikName": "УИК  182",
     "tikTvd": "275200071320",
-    "tikName": "Красночикойская"
+    "tikName": "Красночикойская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 183,
     "uikTvd": "475401168107",
+    "uikName": "УИК  183",
     "tikTvd": "275200071320",
-    "tikName": "Красночикойская"
+    "tikName": "Красночикойская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 184,
     "uikTvd": "475401168108",
+    "uikName": "УИК  184",
     "tikTvd": "275200071320",
-    "tikName": "Красночикойская"
+    "tikName": "Красночикойская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 185,
     "uikTvd": "475401168109",
+    "uikName": "УИК  185",
     "tikTvd": "275200071320",
-    "tikName": "Красночикойская"
+    "tikName": "Красночикойская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 186,
     "uikTvd": "475401168110",
+    "uikName": "УИК  186",
     "tikTvd": "275200071320",
-    "tikName": "Красночикойская"
+    "tikName": "Красночикойская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 187,
     "uikTvd": "475401168111",
+    "uikName": "УИК  187",
     "tikTvd": "275200071320",
-    "tikName": "Красночикойская"
+    "tikName": "Красночикойская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 188,
     "uikTvd": "475401168112",
+    "uikName": "УИК  188",
     "tikTvd": "275200071320",
-    "tikName": "Красночикойская"
+    "tikName": "Красночикойская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 189,
     "uikTvd": "475401168113",
+    "uikName": "УИК  189",
     "tikTvd": "275200071320",
-    "tikName": "Красночикойская"
+    "tikName": "Красночикойская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 190,
     "uikTvd": "475401168114",
+    "uikName": "УИК  190",
     "tikTvd": "275200071320",
-    "tikName": "Красночикойская"
+    "tikName": "Красночикойская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 191,
     "uikTvd": "475401168115",
+    "uikName": "УИК  191",
     "tikTvd": "275200071320",
-    "tikName": "Красночикойская"
+    "tikName": "Красночикойская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 192,
     "uikTvd": "475401168116",
+    "uikName": "УИК  192",
     "tikTvd": "275200071320",
-    "tikName": "Красночикойская"
+    "tikName": "Красночикойская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 193,
     "uikTvd": "475401168117",
+    "uikName": "УИК  193",
     "tikTvd": "275200071320",
-    "tikName": "Красночикойская"
+    "tikName": "Красночикойская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 194,
     "uikTvd": "475401267743",
+    "uikName": "УИК  194",
     "tikTvd": "275200071321",
-    "tikName": "Кыринская"
+    "tikName": "Кыринская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 195,
     "uikTvd": "475401267744",
+    "uikName": "УИК  195",
     "tikTvd": "275200071321",
-    "tikName": "Кыринская"
+    "tikName": "Кыринская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 196,
     "uikTvd": "475401267745",
+    "uikName": "УИК  196",
     "tikTvd": "275200071321",
-    "tikName": "Кыринская"
+    "tikName": "Кыринская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 197,
     "uikTvd": "475401267746",
+    "uikName": "УИК  197",
     "tikTvd": "275200071321",
-    "tikName": "Кыринская"
+    "tikName": "Кыринская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 198,
     "uikTvd": "475401267747",
+    "uikName": "УИК  198",
     "tikTvd": "275200071321",
-    "tikName": "Кыринская"
+    "tikName": "Кыринская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 199,
     "uikTvd": "475401267748",
+    "uikName": "УИК  199",
     "tikTvd": "275200071321",
-    "tikName": "Кыринская"
+    "tikName": "Кыринская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 200,
     "uikTvd": "475401267749",
+    "uikName": "УИК  200",
     "tikTvd": "275200071321",
-    "tikName": "Кыринская"
+    "tikName": "Кыринская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 201,
     "uikTvd": "475401267750",
+    "uikName": "УИК  201",
     "tikTvd": "275200071321",
-    "tikName": "Кыринская"
+    "tikName": "Кыринская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 202,
     "uikTvd": "475401267751",
+    "uikName": "УИК  202",
     "tikTvd": "275200071321",
-    "tikName": "Кыринская"
+    "tikName": "Кыринская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 203,
     "uikTvd": "475401267752",
+    "uikName": "УИК  203",
     "tikTvd": "275200071321",
-    "tikName": "Кыринская"
+    "tikName": "Кыринская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 204,
     "uikTvd": "475401267753",
+    "uikName": "УИК  204",
     "tikTvd": "275200071321",
-    "tikName": "Кыринская"
+    "tikName": "Кыринская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 205,
     "uikTvd": "475401267754",
+    "uikName": "УИК  205",
     "tikTvd": "275200071321",
-    "tikName": "Кыринская"
+    "tikName": "Кыринская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 206,
     "uikTvd": "475401267755",
+    "uikName": "УИК  206",
     "tikTvd": "275200071321",
-    "tikName": "Кыринская"
+    "tikName": "Кыринская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 207,
     "uikTvd": "475401267756",
+    "uikName": "УИК  207",
     "tikTvd": "275200071321",
-    "tikName": "Кыринская"
+    "tikName": "Кыринская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 208,
     "uikTvd": "475401267757",
+    "uikName": "УИК  208",
     "tikTvd": "275200071321",
-    "tikName": "Кыринская"
+    "tikName": "Кыринская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 209,
     "uikTvd": "475401267758",
+    "uikName": "УИК  209",
     "tikTvd": "275200071321",
-    "tikName": "Кыринская"
+    "tikName": "Кыринская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 210,
     "uikTvd": "475401267759",
+    "uikName": "УИК  210",
     "tikTvd": "275200071321",
-    "tikName": "Кыринская"
+    "tikName": "Кыринская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 211,
     "uikTvd": "475401267805",
+    "uikName": "УИК  211",
     "tikTvd": "275200071321",
-    "tikName": "Кыринская"
+    "tikName": "Кыринская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 212,
     "uikTvd": "475401267806",
+    "uikName": "УИК  212",
     "tikTvd": "275200071321",
-    "tikName": "Кыринская"
+    "tikName": "Кыринская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 213,
     "uikTvd": "475401867847",
+    "uikName": "УИК  213",
     "tikTvd": "275200071327",
-    "tikName": "Петровск-Забайкальская"
+    "tikName": "Петровск-Забайкальская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 214,
     "uikTvd": "475401867861",
+    "uikName": "УИК  214",
     "tikTvd": "275200071327",
-    "tikName": "Петровск-Забайкальская"
+    "tikName": "Петровск-Забайкальская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 215,
     "uikTvd": "475401867862",
+    "uikName": "УИК  215",
     "tikTvd": "275200071327",
-    "tikName": "Петровск-Забайкальская"
+    "tikName": "Петровск-Забайкальская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 216,
     "uikTvd": "475401867863",
+    "uikName": "УИК  216",
     "tikTvd": "275200071327",
-    "tikName": "Петровск-Забайкальская"
+    "tikName": "Петровск-Забайкальская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 217,
     "uikTvd": "475401867864",
+    "uikName": "УИК  217",
     "tikTvd": "275200071327",
-    "tikName": "Петровск-Забайкальская"
+    "tikName": "Петровск-Забайкальская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 218,
     "uikTvd": "475401867865",
+    "uikName": "УИК  218",
     "tikTvd": "275200071327",
-    "tikName": "Петровск-Забайкальская"
+    "tikName": "Петровск-Забайкальская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 219,
     "uikTvd": "475401867866",
+    "uikName": "УИК  219",
     "tikTvd": "275200071327",
-    "tikName": "Петровск-Забайкальская"
+    "tikName": "Петровск-Забайкальская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 220,
     "uikTvd": "475401867867",
+    "uikName": "УИК  220",
     "tikTvd": "275200071327",
-    "tikName": "Петровск-Забайкальская"
+    "tikName": "Петровск-Забайкальская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 221,
     "uikTvd": "475401867868",
+    "uikName": "УИК  221",
     "tikTvd": "275200071327",
-    "tikName": "Петровск-Забайкальская"
+    "tikName": "Петровск-Забайкальская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 222,
     "uikTvd": "475401867869",
+    "uikName": "УИК  222",
     "tikTvd": "275200071327",
-    "tikName": "Петровск-Забайкальская"
+    "tikName": "Петровск-Забайкальская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 223,
     "uikTvd": "475401867870",
+    "uikName": "УИК  223",
     "tikTvd": "275200071327",
-    "tikName": "Петровск-Забайкальская"
+    "tikName": "Петровск-Забайкальская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 224,
     "uikTvd": "475401867871",
+    "uikName": "УИК  224",
     "tikTvd": "275200071327",
-    "tikName": "Петровск-Забайкальская"
+    "tikName": "Петровск-Забайкальская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 225,
     "uikTvd": "475401867872",
+    "uikName": "УИК  225",
     "tikTvd": "275200071327",
-    "tikName": "Петровск-Забайкальская"
+    "tikName": "Петровск-Забайкальская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 226,
     "uikTvd": "475401867873",
+    "uikName": "УИК  226",
     "tikTvd": "275200071327",
-    "tikName": "Петровск-Забайкальская"
+    "tikName": "Петровск-Забайкальская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 227,
     "uikTvd": "475401867874",
+    "uikName": "УИК  227",
     "tikTvd": "275200071327",
-    "tikName": "Петровск-Забайкальская"
+    "tikName": "Петровск-Забайкальская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 228,
     "uikTvd": "475401867875",
+    "uikName": "УИК  228",
     "tikTvd": "275200071327",
-    "tikName": "Петровск-Забайкальская"
+    "tikName": "Петровск-Забайкальская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 229,
     "uikTvd": "475401867876",
+    "uikName": "УИК  229",
     "tikTvd": "275200071327",
-    "tikName": "Петровск-Забайкальская"
+    "tikName": "Петровск-Забайкальская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 230,
     "uikTvd": "475401867877",
+    "uikName": "УИК  230",
     "tikTvd": "275200071327",
-    "tikName": "Петровск-Забайкальская"
+    "tikName": "Петровск-Забайкальская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 231,
     "uikTvd": "475401867878",
+    "uikName": "УИК  231",
     "tikTvd": "275200071327",
-    "tikName": "Петровск-Забайкальская"
+    "tikName": "Петровск-Забайкальская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 232,
     "uikTvd": "475401867879",
+    "uikName": "УИК  232",
     "tikTvd": "275200071327",
-    "tikName": "Петровск-Забайкальская"
+    "tikName": "Петровск-Забайкальская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 233,
     "uikTvd": "475401867880",
+    "uikName": "УИК  233",
     "tikTvd": "275200071327",
-    "tikName": "Петровск-Забайкальская"
+    "tikName": "Петровск-Забайкальская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 234,
     "uikTvd": "475401867881",
+    "uikName": "УИК  234",
     "tikTvd": "275200071327",
-    "tikName": "Петровск-Забайкальская"
+    "tikName": "Петровск-Забайкальская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 235,
     "uikTvd": "475401867882",
+    "uikName": "УИК  235",
     "tikTvd": "275200071327",
-    "tikName": "Петровск-Забайкальская"
+    "tikName": "Петровск-Забайкальская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 236,
     "uikTvd": "475402167447",
+    "uikName": "УИК  236",
     "tikTvd": "275200071331",
-    "tikName": "Тунгиро-Олекминская"
+    "tikName": "Тунгиро-Олекминская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 237,
     "uikTvd": "475402167448",
+    "uikName": "УИК  237",
     "tikTvd": "275200071331",
-    "tikName": "Тунгиро-Олекминская"
+    "tikName": "Тунгиро-Олекминская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 238,
     "uikTvd": "475402167449",
+    "uikName": "УИК  238",
     "tikTvd": "275200071331",
-    "tikName": "Тунгиро-Олекминская"
+    "tikName": "Тунгиро-Олекминская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 239,
     "uikTvd": "475402167450",
+    "uikName": "УИК  239",
     "tikTvd": "275200071331",
-    "tikName": "Тунгиро-Олекминская"
+    "tikName": "Тунгиро-Олекминская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 240,
     "uikTvd": "475402167451",
+    "uikName": "УИК  240",
     "tikTvd": "275200071331",
-    "tikName": "Тунгиро-Олекминская"
+    "tikName": "Тунгиро-Олекминская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 241,
     "uikTvd": "475402268242",
+    "uikName": "УИК №241",
     "tikTvd": "275200071332",
-    "tikName": "Тунгокоченская"
+    "tikName": "Тунгокоченская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 242,
     "uikTvd": "475402268243",
+    "uikName": "УИК №242",
     "tikTvd": "275200071332",
-    "tikName": "Тунгокоченская"
+    "tikName": "Тунгокоченская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 243,
     "uikTvd": "475402268244",
+    "uikName": "УИК №243",
     "tikTvd": "275200071332",
-    "tikName": "Тунгокоченская"
+    "tikName": "Тунгокоченская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 244,
     "uikTvd": "475402268245",
+    "uikName": "УИК №244",
     "tikTvd": "275200071332",
-    "tikName": "Тунгокоченская"
+    "tikName": "Тунгокоченская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 245,
     "uikTvd": "475402268246",
+    "uikName": "УИК №245",
     "tikTvd": "275200071332",
-    "tikName": "Тунгокоченская"
+    "tikName": "Тунгокоченская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 246,
     "uikTvd": "475402268247",
+    "uikName": "УИК №246",
     "tikTvd": "275200071332",
-    "tikName": "Тунгокоченская"
+    "tikName": "Тунгокоченская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 247,
     "uikTvd": "475402268248",
+    "uikName": "УИК №247",
     "tikTvd": "275200071332",
-    "tikName": "Тунгокоченская"
+    "tikName": "Тунгокоченская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 248,
     "uikTvd": "475402268249",
+    "uikName": "УИК №248",
     "tikTvd": "275200071332",
-    "tikName": "Тунгокоченская"
+    "tikName": "Тунгокоченская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 249,
     "uikTvd": "475402268250",
+    "uikName": "УИК №249",
     "tikTvd": "275200071332",
-    "tikName": "Тунгокоченская"
+    "tikName": "Тунгокоченская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 250,
     "uikTvd": "475402268251",
+    "uikName": "УИК №250",
     "tikTvd": "275200071332",
-    "tikName": "Тунгокоченская"
+    "tikName": "Тунгокоченская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 251,
     "uikTvd": "475402268252",
+    "uikName": "УИК №251",
     "tikTvd": "275200071332",
-    "tikName": "Тунгокоченская"
+    "tikName": "Тунгокоченская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 252,
     "uikTvd": "475402268253",
+    "uikName": "УИК №252",
     "tikTvd": "275200071332",
-    "tikName": "Тунгокоченская"
+    "tikName": "Тунгокоченская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 253,
     "uikTvd": "475402268254",
+    "uikName": "УИК №253",
     "tikTvd": "275200071332",
-    "tikName": "Тунгокоченская"
+    "tikName": "Тунгокоченская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 254,
     "uikTvd": "475402268255",
+    "uikName": "УИК №254",
     "tikTvd": "275200071332",
-    "tikName": "Тунгокоченская"
+    "tikName": "Тунгокоченская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 255,
     "uikTvd": "475402268256",
+    "uikName": "УИК №255",
     "tikTvd": "275200071332",
-    "tikName": "Тунгокоченская"
+    "tikName": "Тунгокоченская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 256,
     "uikTvd": "475402268257",
+    "uikName": "УИК №256",
     "tikTvd": "275200071332",
-    "tikName": "Тунгокоченская"
+    "tikName": "Тунгокоченская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 257,
     "uikTvd": "475402268258",
+    "uikName": "УИК №257",
     "tikTvd": "275200071332",
-    "tikName": "Тунгокоченская"
+    "tikName": "Тунгокоченская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 258,
     "uikTvd": "475402268259",
+    "uikName": "УИК №258",
     "tikTvd": "275200071332",
-    "tikName": "Тунгокоченская"
+    "tikName": "Тунгокоченская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 259,
     "uikTvd": "475402268260",
+    "uikName": "УИК №259",
     "tikTvd": "275200071332",
-    "tikName": "Тунгокоченская"
+    "tikName": "Тунгокоченская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 260,
     "uikTvd": "475402268261",
+    "uikName": "УИК №260",
     "tikTvd": "275200071332",
-    "tikName": "Тунгокоченская"
+    "tikName": "Тунгокоченская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 261,
     "uikTvd": "475402367683",
+    "uikName": "УИК  261",
     "tikTvd": "275200071333",
-    "tikName": "Улетовская"
+    "tikName": "Улетовская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 262,
     "uikTvd": "475402367687",
+    "uikName": "УИК  262",
     "tikTvd": "275200071333",
-    "tikName": "Улетовская"
+    "tikName": "Улетовская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 263,
     "uikTvd": "475402367688",
+    "uikName": "УИК  263",
     "tikTvd": "275200071333",
-    "tikName": "Улетовская"
+    "tikName": "Улетовская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 264,
     "uikTvd": "475402367689",
+    "uikName": "УИК  264",
     "tikTvd": "275200071333",
-    "tikName": "Улетовская"
+    "tikName": "Улетовская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 265,
     "uikTvd": "475402367690",
+    "uikName": "УИК  265",
     "tikTvd": "275200071333",
-    "tikName": "Улетовская"
+    "tikName": "Улетовская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 266,
     "uikTvd": "475402367691",
+    "uikName": "УИК  266",
     "tikTvd": "275200071333",
-    "tikName": "Улетовская"
+    "tikName": "Улетовская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 267,
     "uikTvd": "475402367692",
+    "uikName": "УИК  267",
     "tikTvd": "275200071333",
-    "tikName": "Улетовская"
+    "tikName": "Улетовская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 268,
     "uikTvd": "475402367693",
+    "uikName": "УИК  268",
     "tikTvd": "275200071333",
-    "tikName": "Улетовская"
+    "tikName": "Улетовская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 269,
     "uikTvd": "475402367694",
+    "uikName": "УИК  269",
     "tikTvd": "275200071333",
-    "tikName": "Улетовская"
+    "tikName": "Улетовская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 270,
     "uikTvd": "475402367695",
+    "uikName": "УИК  270",
     "tikTvd": "275200071333",
-    "tikName": "Улетовская"
+    "tikName": "Улетовская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 271,
     "uikTvd": "475402367696",
+    "uikName": "УИК  271",
     "tikTvd": "275200071333",
-    "tikName": "Улетовская"
+    "tikName": "Улетовская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 272,
     "uikTvd": "475402367697",
+    "uikName": "УИК  272",
     "tikTvd": "275200071333",
-    "tikName": "Улетовская"
+    "tikName": "Улетовская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 273,
     "uikTvd": "475402367698",
+    "uikName": "УИК  273",
     "tikTvd": "275200071333",
-    "tikName": "Улетовская"
+    "tikName": "Улетовская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 274,
     "uikTvd": "475402367699",
+    "uikName": "УИК  274",
     "tikTvd": "275200071333",
-    "tikName": "Улетовская"
+    "tikName": "Улетовская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 275,
     "uikTvd": "475402367700",
+    "uikName": "УИК  275",
     "tikTvd": "275200071333",
-    "tikName": "Улетовская"
+    "tikName": "Улетовская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 276,
     "uikTvd": "475402367701",
+    "uikName": "УИК  276",
     "tikTvd": "275200071333",
-    "tikName": "Улетовская"
+    "tikName": "Улетовская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 277,
     "uikTvd": "475402367702",
+    "uikName": "УИК  277",
     "tikTvd": "275200071333",
-    "tikName": "Улетовская"
+    "tikName": "Улетовская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 278,
     "uikTvd": "475402367703",
+    "uikName": "УИК  278",
     "tikTvd": "275200071333",
-    "tikName": "Улетовская"
+    "tikName": "Улетовская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 279,
     "uikTvd": "475402367704",
+    "uikName": "УИК  279",
     "tikTvd": "275200071333",
-    "tikName": "Улетовская"
+    "tikName": "Улетовская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 280,
     "uikTvd": "475402367705",
+    "uikName": "УИК  280",
     "tikTvd": "275200071333",
-    "tikName": "Улетовская"
+    "tikName": "Улетовская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 281,
     "uikTvd": "475402367706",
+    "uikName": "УИК  281",
     "tikTvd": "275200071333",
-    "tikName": "Улетовская"
+    "tikName": "Улетовская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 282,
     "uikTvd": "475402367707",
+    "uikName": "УИК  282",
     "tikTvd": "275200071333",
-    "tikName": "Улетовская"
+    "tikName": "Улетовская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 283,
     "uikTvd": "475402367708",
+    "uikName": "УИК  283",
     "tikTvd": "275200071333",
-    "tikName": "Улетовская"
+    "tikName": "Улетовская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 284,
     "uikTvd": "475402367709",
+    "uikName": "УИК  284",
     "tikTvd": "275200071333",
-    "tikName": "Улетовская"
+    "tikName": "Улетовская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 285,
     "uikTvd": "475402467343",
+    "uikName": "УИК  285",
     "tikTvd": "275200071341",
-    "tikName": "Читинская-46 поселковая"
+    "tikName": "Читинская-46 поселковая",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 286,
     "uikTvd": "475402467344",
+    "uikName": "УИК  286",
     "tikTvd": "275200071341",
-    "tikName": "Читинская-46 поселковая"
+    "tikName": "Читинская-46 поселковая",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 287,
     "uikTvd": "475402467345",
+    "uikName": "УИК  287",
     "tikTvd": "275200071341",
-    "tikName": "Читинская-46 поселковая"
+    "tikName": "Читинская-46 поселковая",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 288,
     "uikTvd": "475402567696",
+    "uikName": "УИК №288",
     "tikTvd": "275200071334",
-    "tikName": "Хилокская"
+    "tikName": "Хилокская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 289,
     "uikTvd": "475402567697",
+    "uikName": "УИК №289",
     "tikTvd": "275200071334",
-    "tikName": "Хилокская"
+    "tikName": "Хилокская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 290,
     "uikTvd": "475402567698",
+    "uikName": "УИК №290",
     "tikTvd": "275200071334",
-    "tikName": "Хилокская"
+    "tikName": "Хилокская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 291,
     "uikTvd": "475402567699",
+    "uikName": "УИК №291",
     "tikTvd": "275200071334",
-    "tikName": "Хилокская"
+    "tikName": "Хилокская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 292,
     "uikTvd": "475402567700",
+    "uikName": "УИК №292",
     "tikTvd": "275200071334",
-    "tikName": "Хилокская"
+    "tikName": "Хилокская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 293,
     "uikTvd": "475402567701",
+    "uikName": "УИК №293",
     "tikTvd": "275200071334",
-    "tikName": "Хилокская"
+    "tikName": "Хилокская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 294,
     "uikTvd": "475402567702",
+    "uikName": "УИК №294",
     "tikTvd": "275200071334",
-    "tikName": "Хилокская"
+    "tikName": "Хилокская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 295,
     "uikTvd": "475402567703",
+    "uikName": "УИК №295",
     "tikTvd": "275200071334",
-    "tikName": "Хилокская"
+    "tikName": "Хилокская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 296,
     "uikTvd": "475402567704",
+    "uikName": "УИК №296",
     "tikTvd": "275200071334",
-    "tikName": "Хилокская"
+    "tikName": "Хилокская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 297,
     "uikTvd": "475402567705",
+    "uikName": "УИК №297",
     "tikTvd": "275200071334",
-    "tikName": "Хилокская"
+    "tikName": "Хилокская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 298,
     "uikTvd": "475402567706",
+    "uikName": "УИК №298",
     "tikTvd": "275200071334",
-    "tikName": "Хилокская"
+    "tikName": "Хилокская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 299,
     "uikTvd": "475402567707",
+    "uikName": "УИК №299",
     "tikTvd": "275200071334",
-    "tikName": "Хилокская"
+    "tikName": "Хилокская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 300,
     "uikTvd": "475402567708",
+    "uikName": "УИК №300",
     "tikTvd": "275200071334",
-    "tikName": "Хилокская"
+    "tikName": "Хилокская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 301,
     "uikTvd": "475402567709",
+    "uikName": "УИК №301",
     "tikTvd": "275200071334",
-    "tikName": "Хилокская"
+    "tikName": "Хилокская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 302,
     "uikTvd": "475402567710",
+    "uikName": "УИК №302",
     "tikTvd": "275200071334",
-    "tikName": "Хилокская"
+    "tikName": "Хилокская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 303,
     "uikTvd": "475402567711",
+    "uikName": "УИК №303",
     "tikTvd": "275200071334",
-    "tikName": "Хилокская"
+    "tikName": "Хилокская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 304,
     "uikTvd": "475402567712",
+    "uikName": "УИК №304",
     "tikTvd": "275200071334",
-    "tikName": "Хилокская"
+    "tikName": "Хилокская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 305,
     "uikTvd": "475402567713",
+    "uikName": "УИК №305",
     "tikTvd": "275200071334",
-    "tikName": "Хилокская"
+    "tikName": "Хилокская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 306,
     "uikTvd": "475402567714",
+    "uikName": "УИК №306",
     "tikTvd": "275200071334",
-    "tikName": "Хилокская"
+    "tikName": "Хилокская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 307,
     "uikTvd": "475402567715",
+    "uikName": "УИК №307",
     "tikTvd": "275200071334",
-    "tikName": "Хилокская"
+    "tikName": "Хилокская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 308,
     "uikTvd": "475402567716",
+    "uikName": "УИК №308",
     "tikTvd": "275200071334",
-    "tikName": "Хилокская"
+    "tikName": "Хилокская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 309,
     "uikTvd": "475402567717",
+    "uikName": "УИК №309",
     "tikTvd": "275200071334",
-    "tikName": "Хилокская"
+    "tikName": "Хилокская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 310,
     "uikTvd": "475402567718",
+    "uikName": "УИК №310",
     "tikTvd": "275200071334",
-    "tikName": "Хилокская"
+    "tikName": "Хилокская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 311,
     "uikTvd": "475402567719",
+    "uikName": "УИК №311",
     "tikTvd": "275200071334",
-    "tikName": "Хилокская"
+    "tikName": "Хилокская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 312,
     "uikTvd": "475402567720",
+    "uikName": "УИК №312",
     "tikTvd": "275200071334",
-    "tikName": "Хилокская"
+    "tikName": "Хилокская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 313,
     "uikTvd": "475402567721",
+    "uikName": "УИК №313",
     "tikTvd": "275200071334",
-    "tikName": "Хилокская"
+    "tikName": "Хилокская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 314,
     "uikTvd": "475403169537",
+    "uikName": "УИК  314",
     "tikTvd": "275200071340",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 315,
     "uikTvd": "475403169538",
+    "uikName": "УИК  315",
     "tikTvd": "275200071340",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 316,
     "uikTvd": "475403169539",
+    "uikName": "УИК  316",
     "tikTvd": "275200071340",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 317,
     "uikTvd": "475403169540",
+    "uikName": "УИК  317",
     "tikTvd": "275200071340",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 318,
     "uikTvd": "475403169543",
+    "uikName": "УИК  318",
     "tikTvd": "275200071340",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 319,
     "uikTvd": "475403169544",
+    "uikName": "УИК  319",
     "tikTvd": "275200071340",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 320,
     "uikTvd": "475403169545",
+    "uikName": "УИК  320",
     "tikTvd": "275200071340",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 321,
     "uikTvd": "475403169546",
+    "uikName": "УИК  321",
     "tikTvd": "275200071340",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 322,
     "uikTvd": "475403169547",
+    "uikName": "УИК  322",
     "tikTvd": "275200071340",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 323,
     "uikTvd": "475403169548",
+    "uikName": "УИК  323",
     "tikTvd": "275200071340",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 324,
     "uikTvd": "475403169549",
+    "uikName": "УИК  324",
     "tikTvd": "275200071340",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 325,
     "uikTvd": "475403169550",
+    "uikName": "УИК  325",
     "tikTvd": "275200071340",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 326,
     "uikTvd": "475403169551",
+    "uikName": "УИК  326",
     "tikTvd": "275200071340",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 327,
     "uikTvd": "475403169552",
+    "uikName": "УИК  327",
     "tikTvd": "275200071340",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 328,
     "uikTvd": "475403169553",
+    "uikName": "УИК  328",
     "tikTvd": "275200071340",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 329,
     "uikTvd": "475403169554",
+    "uikName": "УИК  329",
     "tikTvd": "275200071340",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 330,
     "uikTvd": "475403169555",
+    "uikName": "УИК  330",
     "tikTvd": "275200071340",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 331,
     "uikTvd": "475403169556",
+    "uikName": "УИК  331",
     "tikTvd": "275200071340",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 332,
     "uikTvd": "475403169557",
+    "uikName": "УИК  332",
     "tikTvd": "275200071340",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 333,
     "uikTvd": "475403169558",
+    "uikName": "УИК  333",
     "tikTvd": "275200071340",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 334,
     "uikTvd": "475403169559",
+    "uikName": "УИК  334",
     "tikTvd": "275200071340",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 335,
     "uikTvd": "475403169560",
+    "uikName": "УИК  335",
     "tikTvd": "275200071340",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 336,
     "uikTvd": "475403169561",
+    "uikName": "УИК  336",
     "tikTvd": "275200071340",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 337,
     "uikTvd": "475403169562",
+    "uikName": "УИК  337",
     "tikTvd": "275200071340",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 338,
     "uikTvd": "475403169563",
+    "uikName": "УИК  338",
     "tikTvd": "275200071340",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 339,
     "uikTvd": "475403169564",
+    "uikName": "УИК  339",
     "tikTvd": "275200071340",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 340,
     "uikTvd": "475403169565",
+    "uikName": "УИК  340",
     "tikTvd": "275200071340",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 341,
     "uikTvd": "475403169566",
+    "uikName": "УИК  341",
     "tikTvd": "275200071340",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 342,
     "uikTvd": "475403169567",
+    "uikName": "УИК  342",
     "tikTvd": "275200071340",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 343,
     "uikTvd": "475403169568",
+    "uikName": "УИК  343",
     "tikTvd": "275200071340",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 344,
     "uikTvd": "475403169569",
+    "uikName": "УИК  344",
     "tikTvd": "275200071340",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 345,
     "uikTvd": "475403169570",
+    "uikName": "УИК  345",
     "tikTvd": "275200071340",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 346,
     "uikTvd": "475403169571",
+    "uikName": "УИК  346",
     "tikTvd": "275200071340",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 347,
     "uikTvd": "475403169572",
+    "uikName": "УИК  347",
     "tikTvd": "275200071340",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 348,
     "uikTvd": "475403169573",
+    "uikName": "УИК  348",
     "tikTvd": "275200071340",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 349,
     "uikTvd": "475403169574",
+    "uikName": "УИК  349",
     "tikTvd": "275200071340",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 350,
     "uikTvd": "475403169575",
+    "uikName": "УИК  350",
     "tikTvd": "275200071340",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 351,
     "uikTvd": "475403169576",
+    "uikName": "УИК  351",
     "tikTvd": "275200071340",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 352,
     "uikTvd": "475403169577",
+    "uikName": "УИК  352",
     "tikTvd": "275200071340",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 353,
     "uikTvd": "475403169578",
+    "uikName": "УИК  353",
     "tikTvd": "275200071340",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 354,
     "uikTvd": "475403169579",
+    "uikName": "УИК  354",
     "tikTvd": "275200071340",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 355,
     "uikTvd": "475403169580",
+    "uikName": "УИК  355",
     "tikTvd": "275200071340",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 356,
     "uikTvd": "475403169581",
+    "uikName": "УИК  356",
     "tikTvd": "275200071340",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 357,
     "uikTvd": "475403169582",
+    "uikName": "УИК  357",
     "tikTvd": "275200071340",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 358,
     "uikTvd": "475403169583",
+    "uikName": "УИК  358",
     "tikTvd": "275200071340",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 359,
     "uikTvd": "475403169584",
+    "uikName": "УИК  359",
     "tikTvd": "275200071340",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 360,
     "uikTvd": "475403169585",
+    "uikName": "УИК  360",
     "tikTvd": "275200071340",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 361,
     "uikTvd": "475403169586",
+    "uikName": "УИК  361",
     "tikTvd": "275200071340",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 362,
     "uikTvd": "475403169587",
+    "uikName": "УИК  362",
     "tikTvd": "275200071340",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 363,
     "uikTvd": "475403169588",
+    "uikName": "УИК  363",
     "tikTvd": "275200071340",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 364,
     "uikTvd": "475403169589",
+    "uikName": "УИК  364",
     "tikTvd": "275200071340",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 365,
     "uikTvd": "475403169590",
+    "uikName": "УИК  365",
     "tikTvd": "275200071340",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 366,
     "uikTvd": "475403169591",
+    "uikName": "УИК  366",
     "tikTvd": "275200071340",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 367,
     "uikTvd": "475403169592",
+    "uikName": "УИК  367",
     "tikTvd": "275200071340",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 368,
     "uikTvd": "475400367462",
+    "uikName": "УИК  368",
     "tikTvd": "275200071312",
-    "tikName": "Балейская городская"
+    "tikName": "Балейская городская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 369,
     "uikTvd": "475400367463",
+    "uikName": "УИК  369",
     "tikTvd": "275200071312",
-    "tikName": "Балейская городская"
+    "tikName": "Балейская городская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 370,
     "uikTvd": "475400367464",
+    "uikName": "УИК  370",
     "tikTvd": "275200071312",
-    "tikName": "Балейская городская"
+    "tikName": "Балейская городская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 371,
     "uikTvd": "475400367465",
+    "uikName": "УИК  371",
     "tikTvd": "275200071312",
-    "tikName": "Балейская городская"
+    "tikName": "Балейская городская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 372,
     "uikTvd": "475400367466",
+    "uikName": "УИК  372",
     "tikTvd": "275200071312",
-    "tikName": "Балейская городская"
+    "tikName": "Балейская городская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 373,
     "uikTvd": "475400367467",
+    "uikName": "УИК  373",
     "tikTvd": "275200071312",
-    "tikName": "Балейская городская"
+    "tikName": "Балейская городская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 374,
     "uikTvd": "475400367468",
+    "uikName": "УИК  374",
     "tikTvd": "275200071312",
-    "tikName": "Балейская городская"
+    "tikName": "Балейская городская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 375,
     "uikTvd": "475400367469",
+    "uikName": "УИК  375",
     "tikTvd": "275200071312",
-    "tikName": "Балейская городская"
+    "tikName": "Балейская городская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 376,
     "uikTvd": "475400367470",
+    "uikName": "УИК  376",
     "tikTvd": "275200071312",
-    "tikName": "Балейская городская"
+    "tikName": "Балейская городская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 377,
     "uikTvd": "475400367471",
+    "uikName": "УИК  377",
     "tikTvd": "275200071312",
-    "tikName": "Балейская городская"
+    "tikName": "Балейская городская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 378,
     "uikTvd": "475400367472",
+    "uikName": "УИК  378",
     "tikTvd": "275200071312",
-    "tikName": "Балейская городская"
+    "tikName": "Балейская городская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 379,
     "uikTvd": "475400367473",
+    "uikName": "УИК  379",
     "tikTvd": "275200071312",
-    "tikName": "Балейская городская"
+    "tikName": "Балейская городская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 380,
     "uikTvd": "475400367474",
+    "uikName": "УИК  380",
     "tikTvd": "275200071312",
-    "tikName": "Балейская городская"
+    "tikName": "Балейская городская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 381,
     "uikTvd": "475400367475",
+    "uikName": "УИК  381",
     "tikTvd": "275200071312",
-    "tikName": "Балейская городская"
+    "tikName": "Балейская городская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 382,
     "uikTvd": "475400468102",
+    "uikName": "УИК  382",
     "tikTvd": "275200071313",
-    "tikName": "Борзинская"
+    "tikName": "Борзинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 383,
     "uikTvd": "475400468103",
+    "uikName": "УИК  383",
     "tikTvd": "275200071313",
-    "tikName": "Борзинская"
+    "tikName": "Борзинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 384,
     "uikTvd": "475400468104",
+    "uikName": "УИК  384",
     "tikTvd": "275200071313",
-    "tikName": "Борзинская"
+    "tikName": "Борзинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 385,
     "uikTvd": "475400468105",
+    "uikName": "УИК  385",
     "tikTvd": "275200071313",
-    "tikName": "Борзинская"
+    "tikName": "Борзинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 386,
     "uikTvd": "475400468106",
+    "uikName": "УИК  386",
     "tikTvd": "275200071313",
-    "tikName": "Борзинская"
+    "tikName": "Борзинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 387,
     "uikTvd": "475400468107",
+    "uikName": "УИК  387",
     "tikTvd": "275200071313",
-    "tikName": "Борзинская"
+    "tikName": "Борзинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 388,
     "uikTvd": "475400468108",
+    "uikName": "УИК  388",
     "tikTvd": "275200071313",
-    "tikName": "Борзинская"
+    "tikName": "Борзинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 389,
     "uikTvd": "475400468109",
+    "uikName": "УИК  389",
     "tikTvd": "275200071313",
-    "tikName": "Борзинская"
+    "tikName": "Борзинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 390,
     "uikTvd": "475400468110",
+    "uikName": "УИК  390",
     "tikTvd": "275200071313",
-    "tikName": "Борзинская"
+    "tikName": "Борзинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 391,
     "uikTvd": "475400468111",
+    "uikName": "УИК  391",
     "tikTvd": "275200071313",
-    "tikName": "Борзинская"
+    "tikName": "Борзинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 392,
     "uikTvd": "475400468112",
+    "uikName": "УИК  392",
     "tikTvd": "275200071313",
-    "tikName": "Борзинская"
+    "tikName": "Борзинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 393,
     "uikTvd": "475400468113",
+    "uikName": "УИК  393",
     "tikTvd": "275200071313",
-    "tikName": "Борзинская"
+    "tikName": "Борзинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 394,
     "uikTvd": "475400468114",
+    "uikName": "УИК  394",
     "tikTvd": "275200071313",
-    "tikName": "Борзинская"
+    "tikName": "Борзинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 395,
     "uikTvd": "475400468115",
+    "uikName": "УИК  395",
     "tikTvd": "275200071313",
-    "tikName": "Борзинская"
+    "tikName": "Борзинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 396,
     "uikTvd": "475400468116",
+    "uikName": "УИК  396",
     "tikTvd": "275200071313",
-    "tikName": "Борзинская"
+    "tikName": "Борзинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 397,
     "uikTvd": "475400468117",
+    "uikName": "УИК  397",
     "tikTvd": "275200071313",
-    "tikName": "Борзинская"
+    "tikName": "Борзинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 398,
     "uikTvd": "475400468118",
+    "uikName": "УИК  398",
     "tikTvd": "275200071313",
-    "tikName": "Борзинская"
+    "tikName": "Борзинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 399,
     "uikTvd": "475400468119",
+    "uikName": "УИК  399",
     "tikTvd": "275200071313",
-    "tikName": "Борзинская"
+    "tikName": "Борзинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 400,
     "uikTvd": "475400468120",
+    "uikName": "УИК  400",
     "tikTvd": "275200071313",
-    "tikName": "Борзинская"
+    "tikName": "Борзинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 401,
     "uikTvd": "475400468121",
+    "uikName": "УИК  401",
     "tikTvd": "275200071313",
-    "tikName": "Борзинская"
+    "tikName": "Борзинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 402,
     "uikTvd": "475400468122",
+    "uikName": "УИК  402",
     "tikTvd": "275200071313",
-    "tikName": "Борзинская"
+    "tikName": "Борзинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 403,
     "uikTvd": "475400468123",
+    "uikName": "УИК  403",
     "tikTvd": "275200071313",
-    "tikName": "Борзинская"
+    "tikName": "Борзинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 404,
     "uikTvd": "475400468124",
+    "uikName": "УИК  404",
     "tikTvd": "275200071313",
-    "tikName": "Борзинская"
+    "tikName": "Борзинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 405,
     "uikTvd": "475400468125",
+    "uikName": "УИК  405",
     "tikTvd": "275200071313",
-    "tikName": "Борзинская"
+    "tikName": "Борзинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 406,
     "uikTvd": "475400468126",
+    "uikName": "УИК  406",
     "tikTvd": "275200071313",
-    "tikName": "Борзинская"
+    "tikName": "Борзинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 407,
     "uikTvd": "475400468127",
+    "uikName": "УИК  407",
     "tikTvd": "275200071313",
-    "tikName": "Борзинская"
+    "tikName": "Борзинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 408,
     "uikTvd": "475400468128",
+    "uikName": "УИК  408",
     "tikTvd": "275200071313",
-    "tikName": "Борзинская"
+    "tikName": "Борзинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 409,
     "uikTvd": "475400468129",
+    "uikName": "УИК  409",
     "tikTvd": "275200071313",
-    "tikName": "Борзинская"
+    "tikName": "Борзинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 410,
     "uikTvd": "475400468130",
+    "uikName": "УИК  410",
     "tikTvd": "275200071313",
-    "tikName": "Борзинская"
+    "tikName": "Борзинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 411,
     "uikTvd": "475400468131",
+    "uikName": "УИК  411",
     "tikTvd": "275200071313",
-    "tikName": "Борзинская"
+    "tikName": "Борзинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 412,
     "uikTvd": "475400468132",
+    "uikName": "УИК  412",
     "tikTvd": "275200071313",
-    "tikName": "Борзинская"
+    "tikName": "Борзинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 413,
     "uikTvd": "475400468133",
+    "uikName": "УИК  413",
     "tikTvd": "275200071313",
-    "tikName": "Борзинская"
+    "tikName": "Борзинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 414,
     "uikTvd": "475400468137",
+    "uikName": "УИК  414",
     "tikTvd": "275200071313",
-    "tikName": "Борзинская"
+    "tikName": "Борзинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 415,
     "uikTvd": "475400468138",
+    "uikName": "УИК  415",
     "tikTvd": "275200071313",
-    "tikName": "Борзинская"
+    "tikName": "Борзинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 416,
     "uikTvd": "475400468139",
+    "uikName": "УИК  416",
     "tikTvd": "275200071313",
-    "tikName": "Борзинская"
+    "tikName": "Борзинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 417,
     "uikTvd": "475400468140",
+    "uikName": "УИК  417",
     "tikTvd": "275200071313",
-    "tikName": "Борзинская"
+    "tikName": "Борзинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 418,
     "uikTvd": "475400468141",
+    "uikName": "УИК  418",
     "tikTvd": "275200071313",
-    "tikName": "Борзинская"
+    "tikName": "Борзинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 419,
     "uikTvd": "475400468142",
+    "uikName": "УИК  419",
     "tikTvd": "275200071313",
-    "tikName": "Борзинская"
+    "tikName": "Борзинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 420,
     "uikTvd": "475400468143",
+    "uikName": "УИК  420",
     "tikTvd": "275200071313",
-    "tikName": "Борзинская"
+    "tikName": "Борзинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 421,
     "uikTvd": "475401067890",
+    "uikName": "УИК  421",
     "tikTvd": "275200071319",
-    "tikName": "Краснокаменская"
+    "tikName": "Краснокаменская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 422,
     "uikTvd": "475401067891",
+    "uikName": "УИК  422",
     "tikTvd": "275200071319",
-    "tikName": "Краснокаменская"
+    "tikName": "Краснокаменская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 423,
     "uikTvd": "475401067892",
+    "uikName": "УИК  423",
     "tikTvd": "275200071319",
-    "tikName": "Краснокаменская"
+    "tikName": "Краснокаменская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 424,
     "uikTvd": "475401067893",
+    "uikName": "УИК  424",
     "tikTvd": "275200071319",
-    "tikName": "Краснокаменская"
+    "tikName": "Краснокаменская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 425,
     "uikTvd": "475401067895",
+    "uikName": "УИК  425",
     "tikTvd": "275200071319",
-    "tikName": "Краснокаменская"
+    "tikName": "Краснокаменская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 426,
     "uikTvd": "475401067896",
+    "uikName": "УИК  426",
     "tikTvd": "275200071319",
-    "tikName": "Краснокаменская"
+    "tikName": "Краснокаменская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 427,
     "uikTvd": "475401067897",
+    "uikName": "УИК  427",
     "tikTvd": "275200071319",
-    "tikName": "Краснокаменская"
+    "tikName": "Краснокаменская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 428,
     "uikTvd": "475401067898",
+    "uikName": "УИК  428",
     "tikTvd": "275200071319",
-    "tikName": "Краснокаменская"
+    "tikName": "Краснокаменская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 429,
     "uikTvd": "475401067899",
+    "uikName": "УИК  429",
     "tikTvd": "275200071319",
-    "tikName": "Краснокаменская"
+    "tikName": "Краснокаменская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 430,
     "uikTvd": "475401067900",
+    "uikName": "УИК  430",
     "tikTvd": "275200071319",
-    "tikName": "Краснокаменская"
+    "tikName": "Краснокаменская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 431,
     "uikTvd": "475401067901",
+    "uikName": "УИК  431",
     "tikTvd": "275200071319",
-    "tikName": "Краснокаменская"
+    "tikName": "Краснокаменская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 432,
     "uikTvd": "475401067902",
+    "uikName": "УИК  432",
     "tikTvd": "275200071319",
-    "tikName": "Краснокаменская"
+    "tikName": "Краснокаменская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 433,
     "uikTvd": "475401067903",
+    "uikName": "УИК  433",
     "tikTvd": "275200071319",
-    "tikName": "Краснокаменская"
+    "tikName": "Краснокаменская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 434,
     "uikTvd": "475401067904",
+    "uikName": "УИК  434",
     "tikTvd": "275200071319",
-    "tikName": "Краснокаменская"
+    "tikName": "Краснокаменская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 435,
     "uikTvd": "475401067905",
+    "uikName": "УИК  435",
     "tikTvd": "275200071319",
-    "tikName": "Краснокаменская"
+    "tikName": "Краснокаменская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 436,
     "uikTvd": "475401067906",
+    "uikName": "УИК  436",
     "tikTvd": "275200071319",
-    "tikName": "Краснокаменская"
+    "tikName": "Краснокаменская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 437,
     "uikTvd": "475401067907",
+    "uikName": "УИК  437",
     "tikTvd": "275200071319",
-    "tikName": "Краснокаменская"
+    "tikName": "Краснокаменская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 438,
     "uikTvd": "475401067908",
+    "uikName": "УИК  438",
     "tikTvd": "275200071319",
-    "tikName": "Краснокаменская"
+    "tikName": "Краснокаменская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 439,
     "uikTvd": "475401067909",
+    "uikName": "УИК  439",
     "tikTvd": "275200071319",
-    "tikName": "Краснокаменская"
+    "tikName": "Краснокаменская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 440,
     "uikTvd": "475401067910",
+    "uikName": "УИК  440",
     "tikTvd": "275200071319",
-    "tikName": "Краснокаменская"
+    "tikName": "Краснокаменская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 441,
     "uikTvd": "475401067911",
+    "uikName": "УИК  441",
     "tikTvd": "275200071319",
-    "tikName": "Краснокаменская"
+    "tikName": "Краснокаменская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 442,
     "uikTvd": "475401067912",
+    "uikName": "УИК  442",
     "tikTvd": "275200071319",
-    "tikName": "Краснокаменская"
+    "tikName": "Краснокаменская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 443,
     "uikTvd": "475401067913",
+    "uikName": "УИК  443",
     "tikTvd": "275200071319",
-    "tikName": "Краснокаменская"
+    "tikName": "Краснокаменская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 444,
     "uikTvd": "475401067914",
+    "uikName": "УИК  444",
     "tikTvd": "275200071319",
-    "tikName": "Краснокаменская"
+    "tikName": "Краснокаменская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 445,
     "uikTvd": "475401067915",
+    "uikName": "УИК  445",
     "tikTvd": "275200071319",
-    "tikName": "Краснокаменская"
+    "tikName": "Краснокаменская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 446,
     "uikTvd": "475401067916",
+    "uikName": "УИК  446",
     "tikTvd": "275200071319",
-    "tikName": "Краснокаменская"
+    "tikName": "Краснокаменская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 447,
     "uikTvd": "475401067917",
+    "uikName": "УИК  447",
     "tikTvd": "275200071319",
-    "tikName": "Краснокаменская"
+    "tikName": "Краснокаменская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 448,
     "uikTvd": "475401067918",
+    "uikName": "УИК  448",
     "tikTvd": "275200071319",
-    "tikName": "Краснокаменская"
+    "tikName": "Краснокаменская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 449,
     "uikTvd": "475401067919",
+    "uikName": "УИК  449",
     "tikTvd": "275200071319",
-    "tikName": "Краснокаменская"
+    "tikName": "Краснокаменская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 450,
     "uikTvd": "475401067920",
+    "uikName": "УИК  450",
     "tikTvd": "275200071319",
-    "tikName": "Краснокаменская"
+    "tikName": "Краснокаменская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 451,
     "uikTvd": "475401067921",
+    "uikName": "УИК  451",
     "tikTvd": "275200071319",
-    "tikName": "Краснокаменская"
+    "tikName": "Краснокаменская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 452,
     "uikTvd": "475401067922",
+    "uikName": "УИК  452",
     "tikTvd": "275200071319",
-    "tikName": "Краснокаменская"
+    "tikName": "Краснокаменская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 453,
     "uikTvd": "475401067923",
+    "uikName": "УИК  453",
     "tikTvd": "275200071319",
-    "tikName": "Краснокаменская"
+    "tikName": "Краснокаменская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 454,
     "uikTvd": "475401067924",
+    "uikName": "УИК  454",
     "tikTvd": "275200071319",
-    "tikName": "Краснокаменская"
+    "tikName": "Краснокаменская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 455,
     "uikTvd": "475401067925",
+    "uikName": "УИК  455",
     "tikTvd": "275200071319",
-    "tikName": "Краснокаменская"
+    "tikName": "Краснокаменская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 456,
     "uikTvd": "475401067926",
+    "uikName": "УИК  456",
     "tikTvd": "275200071319",
-    "tikName": "Краснокаменская"
+    "tikName": "Краснокаменская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 457,
     "uikTvd": "475401067927",
+    "uikName": "УИК  457",
     "tikTvd": "275200071319",
-    "tikName": "Краснокаменская"
+    "tikName": "Краснокаменская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 458,
     "uikTvd": "475401067928",
+    "uikName": "УИК  458",
     "tikTvd": "275200071319",
-    "tikName": "Краснокаменская"
+    "tikName": "Краснокаменская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 459,
     "uikTvd": "475401067929",
+    "uikName": "УИК  459",
     "tikTvd": "275200071319",
-    "tikName": "Краснокаменская"
+    "tikName": "Краснокаменская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 460,
     "uikTvd": "475400267781",
+    "uikName": "УИК  460",
     "tikTvd": "275200071310",
-    "tikName": "Александрово-Заводская"
+    "tikName": "Александрово-Заводская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 461,
     "uikTvd": "475400267782",
+    "uikName": "УИК  461",
     "tikTvd": "275200071310",
-    "tikName": "Александрово-Заводская"
+    "tikName": "Александрово-Заводская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 462,
     "uikTvd": "475400267806",
+    "uikName": "УИК  462",
     "tikTvd": "275200071310",
-    "tikName": "Александрово-Заводская"
+    "tikName": "Александрово-Заводская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 463,
     "uikTvd": "475400267807",
+    "uikName": "УИК  463",
     "tikTvd": "275200071310",
-    "tikName": "Александрово-Заводская"
+    "tikName": "Александрово-Заводская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 464,
     "uikTvd": "475400267808",
+    "uikName": "УИК  464",
     "tikTvd": "275200071310",
-    "tikName": "Александрово-Заводская"
+    "tikName": "Александрово-Заводская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 465,
     "uikTvd": "475400267809",
+    "uikName": "УИК  465",
     "tikTvd": "275200071310",
-    "tikName": "Александрово-Заводская"
+    "tikName": "Александрово-Заводская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 466,
     "uikTvd": "475400267810",
+    "uikName": "УИК  466",
     "tikTvd": "275200071310",
-    "tikName": "Александрово-Заводская"
+    "tikName": "Александрово-Заводская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 467,
     "uikTvd": "475400267811",
+    "uikName": "УИК  467",
     "tikTvd": "275200071310",
-    "tikName": "Александрово-Заводская"
+    "tikName": "Александрово-Заводская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 468,
     "uikTvd": "475400267812",
+    "uikName": "УИК  468",
     "tikTvd": "275200071310",
-    "tikName": "Александрово-Заводская"
+    "tikName": "Александрово-Заводская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 469,
     "uikTvd": "475400267813",
+    "uikName": "УИК  469",
     "tikTvd": "275200071310",
-    "tikName": "Александрово-Заводская"
+    "tikName": "Александрово-Заводская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 470,
     "uikTvd": "475400267814",
+    "uikName": "УИК  470",
     "tikTvd": "275200071310",
-    "tikName": "Александрово-Заводская"
+    "tikName": "Александрово-Заводская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 471,
     "uikTvd": "475400267815",
+    "uikName": "УИК  471",
     "tikTvd": "275200071310",
-    "tikName": "Александрово-Заводская"
+    "tikName": "Александрово-Заводская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 472,
     "uikTvd": "475400267816",
+    "uikName": "УИК  472",
     "tikTvd": "275200071310",
-    "tikName": "Александрово-Заводская"
+    "tikName": "Александрово-Заводская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 473,
     "uikTvd": "475400267817",
+    "uikName": "УИК  473",
     "tikTvd": "275200071310",
-    "tikName": "Александрово-Заводская"
+    "tikName": "Александрово-Заводская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 474,
     "uikTvd": "475400267818",
+    "uikName": "УИК  474",
     "tikTvd": "275200071310",
-    "tikName": "Александрово-Заводская"
+    "tikName": "Александрово-Заводская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 475,
     "uikTvd": "475400267819",
+    "uikName": "УИК  475",
     "tikTvd": "275200071310",
-    "tikName": "Александрово-Заводская"
+    "tikName": "Александрово-Заводская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 476,
     "uikTvd": "475400267820",
+    "uikName": "УИК  476",
     "tikTvd": "275200071310",
-    "tikName": "Александрово-Заводская"
+    "tikName": "Александрово-Заводская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 477,
     "uikTvd": "475400267821",
+    "uikName": "УИК  477",
     "tikTvd": "275200071310",
-    "tikName": "Александрово-Заводская"
+    "tikName": "Александрово-Заводская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 478,
     "uikTvd": "475400267822",
+    "uikName": "УИК  478",
     "tikTvd": "275200071310",
-    "tikName": "Александрово-Заводская"
+    "tikName": "Александрово-Заводская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 479,
     "uikTvd": "475400267823",
+    "uikName": "УИК  479",
     "tikTvd": "275200071310",
-    "tikName": "Александрово-Заводская"
+    "tikName": "Александрово-Заводская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 480,
     "uikTvd": "475400267824",
+    "uikName": "УИК  480",
     "tikTvd": "275200071310",
-    "tikName": "Александрово-Заводская"
+    "tikName": "Александрово-Заводская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 481,
     "uikTvd": "475400267825",
+    "uikName": "УИК  481",
     "tikTvd": "275200071310",
-    "tikName": "Александрово-Заводская"
+    "tikName": "Александрово-Заводская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 482,
     "uikTvd": "475400267826",
+    "uikName": "УИК  482",
     "tikTvd": "275200071310",
-    "tikName": "Александрово-Заводская"
+    "tikName": "Александрово-Заводская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 483,
     "uikTvd": "475400267827",
+    "uikName": "УИК  483",
     "tikTvd": "275200071310",
-    "tikName": "Александрово-Заводская"
+    "tikName": "Александрово-Заводская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 484,
     "uikTvd": "475400267828",
+    "uikName": "УИК  484",
     "tikTvd": "275200071310",
-    "tikName": "Александрово-Заводская"
+    "tikName": "Александрово-Заводская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 485,
     "uikTvd": "475400267829",
+    "uikName": "УИК  485",
     "tikTvd": "275200071310",
-    "tikName": "Александрово-Заводская"
+    "tikName": "Александрово-Заводская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 486,
     "uikTvd": "475400267830",
+    "uikName": "УИК  486",
     "tikTvd": "275200071310",
-    "tikName": "Александрово-Заводская"
+    "tikName": "Александрово-Заводская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 487,
     "uikTvd": "475403467640",
+    "uikName": "УИК  487",
     "tikTvd": "275200071311",
-    "tikName": "Балейская"
+    "tikName": "Балейская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 488,
     "uikTvd": "475403467641",
+    "uikName": "УИК  488",
     "tikTvd": "275200071311",
-    "tikName": "Балейская"
+    "tikName": "Балейская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 489,
     "uikTvd": "475403467642",
+    "uikName": "УИК  489",
     "tikTvd": "275200071311",
-    "tikName": "Балейская"
+    "tikName": "Балейская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 490,
     "uikTvd": "475403467643",
+    "uikName": "УИК  490",
     "tikTvd": "275200071311",
-    "tikName": "Балейская"
+    "tikName": "Балейская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 491,
     "uikTvd": "475403467644",
+    "uikName": "УИК  491",
     "tikTvd": "275200071311",
-    "tikName": "Балейская"
+    "tikName": "Балейская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 492,
     "uikTvd": "475403467645",
+    "uikName": "УИК  492",
     "tikTvd": "275200071311",
-    "tikName": "Балейская"
+    "tikName": "Балейская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 493,
     "uikTvd": "475403467646",
+    "uikName": "УИК  493",
     "tikTvd": "275200071311",
-    "tikName": "Балейская"
+    "tikName": "Балейская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 494,
     "uikTvd": "475403467647",
+    "uikName": "УИК  494",
     "tikTvd": "275200071311",
-    "tikName": "Балейская"
+    "tikName": "Балейская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 495,
     "uikTvd": "475403467648",
+    "uikName": "УИК  495",
     "tikTvd": "275200071311",
-    "tikName": "Балейская"
+    "tikName": "Балейская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 496,
     "uikTvd": "475403467649",
+    "uikName": "УИК  496",
     "tikTvd": "275200071311",
-    "tikName": "Балейская"
+    "tikName": "Балейская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 497,
     "uikTvd": "475403467650",
+    "uikName": "УИК  497",
     "tikTvd": "275200071311",
-    "tikName": "Балейская"
+    "tikName": "Балейская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 498,
     "uikTvd": "475403467651",
+    "uikName": "УИК  498",
     "tikTvd": "275200071311",
-    "tikName": "Балейская"
+    "tikName": "Балейская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 499,
     "uikTvd": "475403467652",
+    "uikName": "УИК  499",
     "tikTvd": "275200071311",
-    "tikName": "Балейская"
+    "tikName": "Балейская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 500,
     "uikTvd": "475403467653",
+    "uikName": "УИК  500",
     "tikTvd": "275200071311",
-    "tikName": "Балейская"
+    "tikName": "Балейская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 501,
     "uikTvd": "475403467654",
+    "uikName": "УИК  501",
     "tikTvd": "275200071311",
-    "tikName": "Балейская"
+    "tikName": "Балейская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 502,
     "uikTvd": "475403467655",
+    "uikName": "УИК  502",
     "tikTvd": "275200071311",
-    "tikName": "Балейская"
+    "tikName": "Балейская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 503,
     "uikTvd": "475403467656",
+    "uikName": "УИК  503",
     "tikTvd": "275200071311",
-    "tikName": "Балейская"
+    "tikName": "Балейская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 504,
     "uikTvd": "475403467657",
+    "uikName": "УИК  504",
     "tikTvd": "275200071311",
-    "tikName": "Балейская"
+    "tikName": "Балейская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 505,
     "uikTvd": "475403467658",
+    "uikName": "УИК  505",
     "tikTvd": "275200071311",
-    "tikName": "Балейская"
+    "tikName": "Балейская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 506,
     "uikTvd": "475403467659",
+    "uikName": "УИК  506",
     "tikTvd": "275200071311",
-    "tikName": "Балейская"
+    "tikName": "Балейская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 507,
     "uikTvd": "475403467660",
+    "uikName": "УИК  507",
     "tikTvd": "275200071311",
-    "tikName": "Балейская"
+    "tikName": "Балейская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 508,
     "uikTvd": "475403467661",
+    "uikName": "УИК  508",
     "tikTvd": "275200071311",
-    "tikName": "Балейская"
+    "tikName": "Балейская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 509,
     "uikTvd": "475403467662",
+    "uikName": "УИК  509",
     "tikTvd": "275200071311",
-    "tikName": "Балейская"
+    "tikName": "Балейская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 510,
     "uikTvd": "475400567702",
+    "uikName": "УИК  510",
     "tikTvd": "275200071314",
-    "tikName": "Газимуро-Заводская"
+    "tikName": "Газимуро-Заводская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 511,
     "uikTvd": "475400567703",
+    "uikName": "УИК  511",
     "tikTvd": "275200071314",
-    "tikName": "Газимуро-Заводская"
+    "tikName": "Газимуро-Заводская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 512,
     "uikTvd": "475400567704",
+    "uikName": "УИК  512",
     "tikTvd": "275200071314",
-    "tikName": "Газимуро-Заводская"
+    "tikName": "Газимуро-Заводская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 513,
     "uikTvd": "475400567705",
+    "uikName": "УИК  513",
     "tikTvd": "275200071314",
-    "tikName": "Газимуро-Заводская"
+    "tikName": "Газимуро-Заводская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 514,
     "uikTvd": "475400567706",
+    "uikName": "УИК  514",
     "tikTvd": "275200071314",
-    "tikName": "Газимуро-Заводская"
+    "tikName": "Газимуро-Заводская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 515,
     "uikTvd": "475400567707",
+    "uikName": "УИК  515",
     "tikTvd": "275200071314",
-    "tikName": "Газимуро-Заводская"
+    "tikName": "Газимуро-Заводская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 516,
     "uikTvd": "475400567708",
+    "uikName": "УИК  516",
     "tikTvd": "275200071314",
-    "tikName": "Газимуро-Заводская"
+    "tikName": "Газимуро-Заводская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 517,
     "uikTvd": "475400567709",
+    "uikName": "УИК  517",
     "tikTvd": "275200071314",
-    "tikName": "Газимуро-Заводская"
+    "tikName": "Газимуро-Заводская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 518,
     "uikTvd": "475400567710",
+    "uikName": "УИК  518",
     "tikTvd": "275200071314",
-    "tikName": "Газимуро-Заводская"
+    "tikName": "Газимуро-Заводская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 519,
     "uikTvd": "475400567711",
+    "uikName": "УИК  519",
     "tikTvd": "275200071314",
-    "tikName": "Газимуро-Заводская"
+    "tikName": "Газимуро-Заводская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 520,
     "uikTvd": "475400567712",
+    "uikName": "УИК  520",
     "tikTvd": "275200071314",
-    "tikName": "Газимуро-Заводская"
+    "tikName": "Газимуро-Заводская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 521,
     "uikTvd": "475400567713",
+    "uikName": "УИК  521",
     "tikTvd": "275200071314",
-    "tikName": "Газимуро-Заводская"
+    "tikName": "Газимуро-Заводская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 522,
     "uikTvd": "475400567714",
+    "uikName": "УИК  522",
     "tikTvd": "275200071314",
-    "tikName": "Газимуро-Заводская"
+    "tikName": "Газимуро-Заводская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 523,
     "uikTvd": "475400567715",
+    "uikName": "УИК  523",
     "tikTvd": "275200071314",
-    "tikName": "Газимуро-Заводская"
+    "tikName": "Газимуро-Заводская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 524,
     "uikTvd": "475400567716",
+    "uikName": "УИК  524",
     "tikTvd": "275200071314",
-    "tikName": "Газимуро-Заводская"
+    "tikName": "Газимуро-Заводская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 525,
     "uikTvd": "475400567717",
+    "uikName": "УИК  525",
     "tikTvd": "275200071314",
-    "tikName": "Газимуро-Заводская"
+    "tikName": "Газимуро-Заводская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 526,
     "uikTvd": "475400567718",
+    "uikName": "УИК  526",
     "tikTvd": "275200071314",
-    "tikName": "Газимуро-Заводская"
+    "tikName": "Газимуро-Заводская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 527,
     "uikTvd": "475400567719",
+    "uikName": "УИК  527",
     "tikTvd": "275200071314",
-    "tikName": "Газимуро-Заводская"
+    "tikName": "Газимуро-Заводская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 528,
     "uikTvd": "475400567720",
+    "uikName": "УИК  528",
     "tikTvd": "275200071314",
-    "tikName": "Газимуро-Заводская"
+    "tikName": "Газимуро-Заводская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 529,
     "uikTvd": "475400567721",
+    "uikName": "УИК  529",
     "tikTvd": "275200071314",
-    "tikName": "Газимуро-Заводская"
+    "tikName": "Газимуро-Заводская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 530,
     "uikTvd": "475400667584",
+    "uikName": "УИК  530",
     "tikTvd": "275200071315",
-    "tikName": "Забайкальская"
+    "tikName": "Забайкальская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 531,
     "uikTvd": "475400667586",
+    "uikName": "УИК №531",
     "tikTvd": "275200071315",
-    "tikName": "Забайкальская"
+    "tikName": "Забайкальская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 532,
     "uikTvd": "475400667587",
+    "uikName": "УИК №532",
     "tikTvd": "275200071315",
-    "tikName": "Забайкальская"
+    "tikName": "Забайкальская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 533,
     "uikTvd": "475400667588",
+    "uikName": "УИК №533",
     "tikTvd": "275200071315",
-    "tikName": "Забайкальская"
+    "tikName": "Забайкальская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 534,
     "uikTvd": "475400667589",
+    "uikName": "УИК №534",
     "tikTvd": "275200071315",
-    "tikName": "Забайкальская"
+    "tikName": "Забайкальская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 535,
     "uikTvd": "475400667590",
+    "uikName": "УИК №535",
     "tikTvd": "275200071315",
-    "tikName": "Забайкальская"
+    "tikName": "Забайкальская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 536,
     "uikTvd": "475400667591",
+    "uikName": "УИК №536",
     "tikTvd": "275200071315",
-    "tikName": "Забайкальская"
+    "tikName": "Забайкальская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 537,
     "uikTvd": "475400667592",
+    "uikName": "УИК №537",
     "tikTvd": "275200071315",
-    "tikName": "Забайкальская"
+    "tikName": "Забайкальская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 538,
     "uikTvd": "475400667593",
+    "uikName": "УИК №538",
     "tikTvd": "275200071315",
-    "tikName": "Забайкальская"
+    "tikName": "Забайкальская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 539,
     "uikTvd": "475400667594",
+    "uikName": "УИК №539",
     "tikTvd": "275200071315",
-    "tikName": "Забайкальская"
+    "tikName": "Забайкальская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 540,
     "uikTvd": "475400667595",
+    "uikName": "УИК №540",
     "tikTvd": "275200071315",
-    "tikName": "Забайкальская"
+    "tikName": "Забайкальская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 541,
     "uikTvd": "475400667596",
+    "uikName": "УИК №541",
     "tikTvd": "275200071315",
-    "tikName": "Забайкальская"
+    "tikName": "Забайкальская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 542,
     "uikTvd": "475400667597",
+    "uikName": "УИК №542",
     "tikTvd": "275200071315",
-    "tikName": "Забайкальская"
+    "tikName": "Забайкальская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 543,
     "uikTvd": "475400667598",
+    "uikName": "УИК №543",
     "tikTvd": "275200071315",
-    "tikName": "Забайкальская"
+    "tikName": "Забайкальская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 544,
     "uikTvd": "475400667599",
+    "uikName": "УИК №544",
     "tikTvd": "275200071315",
-    "tikName": "Забайкальская"
+    "tikName": "Забайкальская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 545,
     "uikTvd": "475400867761",
+    "uikName": "УИК  545",
     "tikTvd": "275200071317",
-    "tikName": "Калганская"
+    "tikName": "Калганская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 546,
     "uikTvd": "475400867762",
+    "uikName": "УИК  546",
     "tikTvd": "275200071317",
-    "tikName": "Калганская"
+    "tikName": "Калганская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 547,
     "uikTvd": "475400867763",
+    "uikName": "УИК  547",
     "tikTvd": "275200071317",
-    "tikName": "Калганская"
+    "tikName": "Калганская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 548,
     "uikTvd": "475400867764",
+    "uikName": "УИК  548",
     "tikTvd": "275200071317",
-    "tikName": "Калганская"
+    "tikName": "Калганская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 549,
     "uikTvd": "475400867765",
+    "uikName": "УИК  549",
     "tikTvd": "275200071317",
-    "tikName": "Калганская"
+    "tikName": "Калганская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 550,
     "uikTvd": "475400867766",
+    "uikName": "УИК  550",
     "tikTvd": "275200071317",
-    "tikName": "Калганская"
+    "tikName": "Калганская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 551,
     "uikTvd": "475400867767",
+    "uikName": "УИК  551",
     "tikTvd": "275200071317",
-    "tikName": "Калганская"
+    "tikName": "Калганская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 552,
     "uikTvd": "475400867768",
+    "uikName": "УИК  552",
     "tikTvd": "275200071317",
-    "tikName": "Калганская"
+    "tikName": "Калганская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 553,
     "uikTvd": "475400867769",
+    "uikName": "УИК  553",
     "tikTvd": "275200071317",
-    "tikName": "Калганская"
+    "tikName": "Калганская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 554,
     "uikTvd": "475400867770",
+    "uikName": "УИК  554",
     "tikTvd": "275200071317",
-    "tikName": "Калганская"
+    "tikName": "Калганская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 555,
     "uikTvd": "475400867771",
+    "uikName": "УИК  555",
     "tikTvd": "275200071317",
-    "tikName": "Калганская"
+    "tikName": "Калганская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 556,
     "uikTvd": "475400967886",
+    "uikName": "УИК  556",
     "tikTvd": "275200071318",
-    "tikName": "Карымская"
+    "tikName": "Карымская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 557,
     "uikTvd": "475400967887",
+    "uikName": "УИК  557",
     "tikTvd": "275200071318",
-    "tikName": "Карымская"
+    "tikName": "Карымская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 558,
     "uikTvd": "475400967888",
+    "uikName": "УИК  558",
     "tikTvd": "275200071318",
-    "tikName": "Карымская"
+    "tikName": "Карымская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 559,
     "uikTvd": "475400967889",
+    "uikName": "УИК  559",
     "tikTvd": "275200071318",
-    "tikName": "Карымская"
+    "tikName": "Карымская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 560,
     "uikTvd": "475400967890",
+    "uikName": "УИК  560",
     "tikTvd": "275200071318",
-    "tikName": "Карымская"
+    "tikName": "Карымская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 561,
     "uikTvd": "475400967891",
+    "uikName": "УИК  561",
     "tikTvd": "275200071318",
-    "tikName": "Карымская"
+    "tikName": "Карымская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 562,
     "uikTvd": "475400967892",
+    "uikName": "УИК  562",
     "tikTvd": "275200071318",
-    "tikName": "Карымская"
+    "tikName": "Карымская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 563,
     "uikTvd": "475400967893",
+    "uikName": "УИК  563",
     "tikTvd": "275200071318",
-    "tikName": "Карымская"
+    "tikName": "Карымская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 564,
     "uikTvd": "475400967894",
+    "uikName": "УИК  564",
     "tikTvd": "275200071318",
-    "tikName": "Карымская"
+    "tikName": "Карымская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 565,
     "uikTvd": "475400967895",
+    "uikName": "УИК  565",
     "tikTvd": "275200071318",
-    "tikName": "Карымская"
+    "tikName": "Карымская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 566,
     "uikTvd": "475400967896",
+    "uikName": "УИК  566",
     "tikTvd": "275200071318",
-    "tikName": "Карымская"
+    "tikName": "Карымская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 567,
     "uikTvd": "475400967897",
+    "uikName": "УИК  567",
     "tikTvd": "275200071318",
-    "tikName": "Карымская"
+    "tikName": "Карымская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 568,
     "uikTvd": "475400967898",
+    "uikName": "УИК  568",
     "tikTvd": "275200071318",
-    "tikName": "Карымская"
+    "tikName": "Карымская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 569,
     "uikTvd": "475400967899",
+    "uikName": "УИК  569",
     "tikTvd": "275200071318",
-    "tikName": "Карымская"
+    "tikName": "Карымская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 570,
     "uikTvd": "475400967900",
+    "uikName": "УИК  570",
     "tikTvd": "275200071318",
-    "tikName": "Карымская"
+    "tikName": "Карымская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 571,
     "uikTvd": "475400967901",
+    "uikName": "УИК  571",
     "tikTvd": "275200071318",
-    "tikName": "Карымская"
+    "tikName": "Карымская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 572,
     "uikTvd": "475400967902",
+    "uikName": "УИК  572",
     "tikTvd": "275200071318",
-    "tikName": "Карымская"
+    "tikName": "Карымская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 573,
     "uikTvd": "475400967903",
+    "uikName": "УИК  573",
     "tikTvd": "275200071318",
-    "tikName": "Карымская"
+    "tikName": "Карымская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 574,
     "uikTvd": "475400967904",
+    "uikName": "УИК  574",
     "tikTvd": "275200071318",
-    "tikName": "Карымская"
+    "tikName": "Карымская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 575,
     "uikTvd": "475400967905",
+    "uikName": "УИК  575",
     "tikTvd": "275200071318",
-    "tikName": "Карымская"
+    "tikName": "Карымская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 576,
     "uikTvd": "475400967906",
+    "uikName": "УИК  576",
     "tikTvd": "275200071318",
-    "tikName": "Карымская"
+    "tikName": "Карымская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 577,
     "uikTvd": "475400967907",
+    "uikName": "УИК  577",
     "tikTvd": "275200071318",
-    "tikName": "Карымская"
+    "tikName": "Карымская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 578,
     "uikTvd": "475400967908",
+    "uikName": "УИК  578",
     "tikTvd": "275200071318",
-    "tikName": "Карымская"
+    "tikName": "Карымская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 579,
     "uikTvd": "475400967909",
+    "uikName": "УИК  579",
     "tikTvd": "275200071318",
-    "tikName": "Карымская"
+    "tikName": "Карымская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 580,
     "uikTvd": "475400967910",
+    "uikName": "УИК  580",
     "tikTvd": "275200071318",
-    "tikName": "Карымская"
+    "tikName": "Карымская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 581,
     "uikTvd": "475400967911",
+    "uikName": "УИК  581",
     "tikTvd": "275200071318",
-    "tikName": "Карымская"
+    "tikName": "Карымская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 582,
     "uikTvd": "475400967912",
+    "uikName": "УИК  582",
     "tikTvd": "275200071318",
-    "tikName": "Карымская"
+    "tikName": "Карымская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 583,
     "uikTvd": "475400967913",
+    "uikName": "УИК  583",
     "tikTvd": "275200071318",
-    "tikName": "Карымская"
+    "tikName": "Карымская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 584,
     "uikTvd": "475400967914",
+    "uikName": "УИК  584",
     "tikTvd": "275200071318",
-    "tikName": "Карымская"
+    "tikName": "Карымская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 585,
     "uikTvd": "475400967915",
+    "uikName": "УИК  585",
     "tikTvd": "275200071318",
-    "tikName": "Карымская"
+    "tikName": "Карымская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 586,
     "uikTvd": "475400967916",
+    "uikName": "УИК  586",
     "tikTvd": "275200071318",
-    "tikName": "Карымская"
+    "tikName": "Карымская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 587,
     "uikTvd": "475401367982",
+    "uikName": "УИК  587",
     "tikTvd": "275200071322",
-    "tikName": "Могочинская"
+    "tikName": "Могочинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 588,
     "uikTvd": "475401367983",
+    "uikName": "УИК  588",
     "tikTvd": "275200071322",
-    "tikName": "Могочинская"
+    "tikName": "Могочинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 589,
     "uikTvd": "475401367984",
+    "uikName": "УИК  589",
     "tikTvd": "275200071322",
-    "tikName": "Могочинская"
+    "tikName": "Могочинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 590,
     "uikTvd": "475401367985",
+    "uikName": "УИК  590",
     "tikTvd": "275200071322",
-    "tikName": "Могочинская"
+    "tikName": "Могочинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 591,
     "uikTvd": "475401367986",
+    "uikName": "УИК  591",
     "tikTvd": "275200071322",
-    "tikName": "Могочинская"
+    "tikName": "Могочинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 592,
     "uikTvd": "475401367987",
+    "uikName": "УИК  592",
     "tikTvd": "275200071322",
-    "tikName": "Могочинская"
+    "tikName": "Могочинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 593,
     "uikTvd": "475401367988",
+    "uikName": "УИК  593",
     "tikTvd": "275200071322",
-    "tikName": "Могочинская"
+    "tikName": "Могочинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 594,
     "uikTvd": "475401367989",
+    "uikName": "УИК  594",
     "tikTvd": "275200071322",
-    "tikName": "Могочинская"
+    "tikName": "Могочинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 595,
     "uikTvd": "475401367990",
+    "uikName": "УИК  595",
     "tikTvd": "275200071322",
-    "tikName": "Могочинская"
+    "tikName": "Могочинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 596,
     "uikTvd": "475401367991",
+    "uikName": "УИК  596",
     "tikTvd": "275200071322",
-    "tikName": "Могочинская"
+    "tikName": "Могочинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 597,
     "uikTvd": "475401367992",
+    "uikName": "УИК  597",
     "tikTvd": "275200071322",
-    "tikName": "Могочинская"
+    "tikName": "Могочинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 598,
     "uikTvd": "475401367993",
+    "uikName": "УИК  598",
     "tikTvd": "275200071322",
-    "tikName": "Могочинская"
+    "tikName": "Могочинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 599,
     "uikTvd": "475401367994",
+    "uikName": "УИК  599",
     "tikTvd": "275200071322",
-    "tikName": "Могочинская"
+    "tikName": "Могочинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 600,
     "uikTvd": "475401367995",
+    "uikName": "УИК  600",
     "tikTvd": "275200071322",
-    "tikName": "Могочинская"
+    "tikName": "Могочинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 601,
     "uikTvd": "475401367996",
+    "uikName": "УИК  601",
     "tikTvd": "275200071322",
-    "tikName": "Могочинская"
+    "tikName": "Могочинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 602,
     "uikTvd": "475401367997",
+    "uikName": "УИК  602",
     "tikTvd": "275200071322",
-    "tikName": "Могочинская"
+    "tikName": "Могочинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 603,
     "uikTvd": "475401367998",
+    "uikName": "УИК  603",
     "tikTvd": "275200071322",
-    "tikName": "Могочинская"
+    "tikName": "Могочинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 604,
     "uikTvd": "475401367999",
+    "uikName": "УИК  604",
     "tikTvd": "275200071322",
-    "tikName": "Могочинская"
+    "tikName": "Могочинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 605,
     "uikTvd": "475401368000",
+    "uikName": "УИК  605",
     "tikTvd": "275200071322",
-    "tikName": "Могочинская"
+    "tikName": "Могочинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 606,
     "uikTvd": "475401368001",
+    "uikName": "УИК  606",
     "tikTvd": "275200071322",
-    "tikName": "Могочинская"
+    "tikName": "Могочинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 607,
     "uikTvd": "475401468045",
+    "uikName": "УИК  607",
     "tikTvd": "275200071323",
-    "tikName": "Нерчинская"
+    "tikName": "Нерчинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 608,
     "uikTvd": "475401468046",
+    "uikName": "УИК  608",
     "tikTvd": "275200071323",
-    "tikName": "Нерчинская"
+    "tikName": "Нерчинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 609,
     "uikTvd": "475401468047",
+    "uikName": "УИК  609",
     "tikTvd": "275200071323",
-    "tikName": "Нерчинская"
+    "tikName": "Нерчинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 610,
     "uikTvd": "475401468048",
+    "uikName": "УИК  610",
     "tikTvd": "275200071323",
-    "tikName": "Нерчинская"
+    "tikName": "Нерчинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 611,
     "uikTvd": "475401468049",
+    "uikName": "УИК  611",
     "tikTvd": "275200071323",
-    "tikName": "Нерчинская"
+    "tikName": "Нерчинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 612,
     "uikTvd": "475401468050",
+    "uikName": "УИК  612",
     "tikTvd": "275200071323",
-    "tikName": "Нерчинская"
+    "tikName": "Нерчинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 613,
     "uikTvd": "475401468051",
+    "uikName": "УИК  613",
     "tikTvd": "275200071323",
-    "tikName": "Нерчинская"
+    "tikName": "Нерчинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 614,
     "uikTvd": "475401468052",
+    "uikName": "УИК  614",
     "tikTvd": "275200071323",
-    "tikName": "Нерчинская"
+    "tikName": "Нерчинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 615,
     "uikTvd": "475401468053",
+    "uikName": "УИК  615",
     "tikTvd": "275200071323",
-    "tikName": "Нерчинская"
+    "tikName": "Нерчинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 616,
     "uikTvd": "475401468054",
+    "uikName": "УИК  616",
     "tikTvd": "275200071323",
-    "tikName": "Нерчинская"
+    "tikName": "Нерчинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 617,
     "uikTvd": "475401468055",
+    "uikName": "УИК  617",
     "tikTvd": "275200071323",
-    "tikName": "Нерчинская"
+    "tikName": "Нерчинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 618,
     "uikTvd": "475401468056",
+    "uikName": "УИК  618",
     "tikTvd": "275200071323",
-    "tikName": "Нерчинская"
+    "tikName": "Нерчинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 619,
     "uikTvd": "475401468057",
+    "uikName": "УИК  619",
     "tikTvd": "275200071323",
-    "tikName": "Нерчинская"
+    "tikName": "Нерчинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 620,
     "uikTvd": "475401468058",
+    "uikName": "УИК  620",
     "tikTvd": "275200071323",
-    "tikName": "Нерчинская"
+    "tikName": "Нерчинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 621,
     "uikTvd": "475401468059",
+    "uikName": "УИК  621",
     "tikTvd": "275200071323",
-    "tikName": "Нерчинская"
+    "tikName": "Нерчинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 622,
     "uikTvd": "475401468060",
+    "uikName": "УИК  622",
     "tikTvd": "275200071323",
-    "tikName": "Нерчинская"
+    "tikName": "Нерчинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 623,
     "uikTvd": "475401468061",
+    "uikName": "УИК  623",
     "tikTvd": "275200071323",
-    "tikName": "Нерчинская"
+    "tikName": "Нерчинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 624,
     "uikTvd": "475401468062",
+    "uikName": "УИК  624",
     "tikTvd": "275200071323",
-    "tikName": "Нерчинская"
+    "tikName": "Нерчинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 625,
     "uikTvd": "475401468063",
+    "uikName": "УИК  625",
     "tikTvd": "275200071323",
-    "tikName": "Нерчинская"
+    "tikName": "Нерчинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 626,
     "uikTvd": "475401468064",
+    "uikName": "УИК  626",
     "tikTvd": "275200071323",
-    "tikName": "Нерчинская"
+    "tikName": "Нерчинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 627,
     "uikTvd": "475401468065",
+    "uikName": "УИК  627",
     "tikTvd": "275200071323",
-    "tikName": "Нерчинская"
+    "tikName": "Нерчинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 628,
     "uikTvd": "475401468066",
+    "uikName": "УИК  628",
     "tikTvd": "275200071323",
-    "tikName": "Нерчинская"
+    "tikName": "Нерчинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 629,
     "uikTvd": "475401468067",
+    "uikName": "УИК  629",
     "tikTvd": "275200071323",
-    "tikName": "Нерчинская"
+    "tikName": "Нерчинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 630,
     "uikTvd": "475401468068",
+    "uikName": "УИК  630",
     "tikTvd": "275200071323",
-    "tikName": "Нерчинская"
+    "tikName": "Нерчинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 631,
     "uikTvd": "475401468069",
+    "uikName": "УИК  631",
     "tikTvd": "275200071323",
-    "tikName": "Нерчинская"
+    "tikName": "Нерчинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 632,
     "uikTvd": "475401468070",
+    "uikName": "УИК  632",
     "tikTvd": "275200071323",
-    "tikName": "Нерчинская"
+    "tikName": "Нерчинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 633,
     "uikTvd": "475401468071",
+    "uikName": "УИК  633",
     "tikTvd": "275200071323",
-    "tikName": "Нерчинская"
+    "tikName": "Нерчинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 634,
     "uikTvd": "475401468072",
+    "uikName": "УИК  634",
     "tikTvd": "275200071323",
-    "tikName": "Нерчинская"
+    "tikName": "Нерчинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 635,
     "uikTvd": "475401468073",
+    "uikName": "УИК  635",
     "tikTvd": "275200071323",
-    "tikName": "Нерчинская"
+    "tikName": "Нерчинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 636,
     "uikTvd": "475401468074",
+    "uikName": "УИК  636",
     "tikTvd": "275200071323",
-    "tikName": "Нерчинская"
+    "tikName": "Нерчинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 637,
     "uikTvd": "475401468075",
+    "uikName": "УИК  637",
     "tikTvd": "275200071323",
-    "tikName": "Нерчинская"
+    "tikName": "Нерчинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 638,
     "uikTvd": "475401468076",
+    "uikName": "УИК  638",
     "tikTvd": "275200071323",
-    "tikName": "Нерчинская"
+    "tikName": "Нерчинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 639,
     "uikTvd": "475401468077",
+    "uikName": "УИК  639",
     "tikTvd": "275200071323",
-    "tikName": "Нерчинская"
+    "tikName": "Нерчинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 640,
     "uikTvd": "475401468078",
+    "uikName": "УИК  640",
     "tikTvd": "275200071323",
-    "tikName": "Нерчинская"
+    "tikName": "Нерчинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 641,
     "uikTvd": "475401468079",
+    "uikName": "УИК  641",
     "tikTvd": "275200071323",
-    "tikName": "Нерчинская"
+    "tikName": "Нерчинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 642,
     "uikTvd": "475401468080",
+    "uikName": "УИК  642",
     "tikTvd": "275200071323",
-    "tikName": "Нерчинская"
+    "tikName": "Нерчинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 643,
     "uikTvd": "475401468081",
+    "uikName": "УИК  643",
     "tikTvd": "275200071323",
-    "tikName": "Нерчинская"
+    "tikName": "Нерчинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 644,
     "uikTvd": "475401468121",
+    "uikName": "УИК  644",
     "tikTvd": "275200071323",
-    "tikName": "Нерчинская"
+    "tikName": "Нерчинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 645,
     "uikTvd": "475401567901",
+    "uikName": "УИК  645",
     "tikTvd": "275200071324",
-    "tikName": "Нерчинско-Заводская"
+    "tikName": "Нерчинско-Заводская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 646,
     "uikTvd": "475401567902",
+    "uikName": "УИК  646",
     "tikTvd": "275200071324",
-    "tikName": "Нерчинско-Заводская"
+    "tikName": "Нерчинско-Заводская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 647,
     "uikTvd": "475401567903",
+    "uikName": "УИК  647",
     "tikTvd": "275200071324",
-    "tikName": "Нерчинско-Заводская"
+    "tikName": "Нерчинско-Заводская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 648,
     "uikTvd": "475401567904",
+    "uikName": "УИК  648",
     "tikTvd": "275200071324",
-    "tikName": "Нерчинско-Заводская"
+    "tikName": "Нерчинско-Заводская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 649,
     "uikTvd": "475401567905",
+    "uikName": "УИК  649",
     "tikTvd": "275200071324",
-    "tikName": "Нерчинско-Заводская"
+    "tikName": "Нерчинско-Заводская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 650,
     "uikTvd": "475401567906",
+    "uikName": "УИК  650",
     "tikTvd": "275200071324",
-    "tikName": "Нерчинско-Заводская"
+    "tikName": "Нерчинско-Заводская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 651,
     "uikTvd": "475401567907",
+    "uikName": "УИК  651",
     "tikTvd": "275200071324",
-    "tikName": "Нерчинско-Заводская"
+    "tikName": "Нерчинско-Заводская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 652,
     "uikTvd": "475401567908",
+    "uikName": "УИК  652",
     "tikTvd": "275200071324",
-    "tikName": "Нерчинско-Заводская"
+    "tikName": "Нерчинско-Заводская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 653,
     "uikTvd": "475401567909",
+    "uikName": "УИК  653",
     "tikTvd": "275200071324",
-    "tikName": "Нерчинско-Заводская"
+    "tikName": "Нерчинско-Заводская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 654,
     "uikTvd": "475401567910",
+    "uikName": "УИК  654",
     "tikTvd": "275200071324",
-    "tikName": "Нерчинско-Заводская"
+    "tikName": "Нерчинско-Заводская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 655,
     "uikTvd": "475401567911",
+    "uikName": "УИК  655",
     "tikTvd": "275200071324",
-    "tikName": "Нерчинско-Заводская"
+    "tikName": "Нерчинско-Заводская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 656,
     "uikTvd": "475401567912",
+    "uikName": "УИК  656",
     "tikTvd": "275200071324",
-    "tikName": "Нерчинско-Заводская"
+    "tikName": "Нерчинско-Заводская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 657,
     "uikTvd": "475401567913",
+    "uikName": "УИК  657",
     "tikTvd": "275200071324",
-    "tikName": "Нерчинско-Заводская"
+    "tikName": "Нерчинско-Заводская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 658,
     "uikTvd": "475401567914",
+    "uikName": "УИК  658",
     "tikTvd": "275200071324",
-    "tikName": "Нерчинско-Заводская"
+    "tikName": "Нерчинско-Заводская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 659,
     "uikTvd": "475401567915",
+    "uikName": "УИК  659",
     "tikTvd": "275200071324",
-    "tikName": "Нерчинско-Заводская"
+    "tikName": "Нерчинско-Заводская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 660,
     "uikTvd": "475401567916",
+    "uikName": "УИК  660",
     "tikTvd": "275200071324",
-    "tikName": "Нерчинско-Заводская"
+    "tikName": "Нерчинско-Заводская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 661,
     "uikTvd": "475401567917",
+    "uikName": "УИК  661",
     "tikTvd": "275200071324",
-    "tikName": "Нерчинско-Заводская"
+    "tikName": "Нерчинско-Заводская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 662,
     "uikTvd": "475401567918",
+    "uikName": "УИК  662",
     "tikTvd": "275200071324",
-    "tikName": "Нерчинско-Заводская"
+    "tikName": "Нерчинско-Заводская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 663,
     "uikTvd": "475401567919",
+    "uikName": "УИК  663",
     "tikTvd": "275200071324",
-    "tikName": "Нерчинско-Заводская"
+    "tikName": "Нерчинско-Заводская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 664,
     "uikTvd": "475401567920",
+    "uikName": "УИК  664",
     "tikTvd": "275200071324",
-    "tikName": "Нерчинско-Заводская"
+    "tikName": "Нерчинско-Заводская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 665,
     "uikTvd": "475401567921",
+    "uikName": "УИК  665",
     "tikTvd": "275200071324",
-    "tikName": "Нерчинско-Заводская"
+    "tikName": "Нерчинско-Заводская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 666,
     "uikTvd": "475401567922",
+    "uikName": "УИК  666",
     "tikTvd": "275200071324",
-    "tikName": "Нерчинско-Заводская"
+    "tikName": "Нерчинско-Заводская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 667,
     "uikTvd": "475401667683",
+    "uikName": "УИК  667",
     "tikTvd": "275200071325",
-    "tikName": "Оловяннинская"
+    "tikName": "Оловяннинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 668,
     "uikTvd": "475401667684",
+    "uikName": "УИК  668",
     "tikTvd": "275200071325",
-    "tikName": "Оловяннинская"
+    "tikName": "Оловяннинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 669,
     "uikTvd": "475401667685",
+    "uikName": "УИК  669",
     "tikTvd": "275200071325",
-    "tikName": "Оловяннинская"
+    "tikName": "Оловяннинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 670,
     "uikTvd": "475401667686",
+    "uikName": "УИК  670",
     "tikTvd": "275200071325",
-    "tikName": "Оловяннинская"
+    "tikName": "Оловяннинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 671,
     "uikTvd": "475401667687",
+    "uikName": "УИК  671",
     "tikTvd": "275200071325",
-    "tikName": "Оловяннинская"
+    "tikName": "Оловяннинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 672,
     "uikTvd": "475401667688",
+    "uikName": "УИК  672",
     "tikTvd": "275200071325",
-    "tikName": "Оловяннинская"
+    "tikName": "Оловяннинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 673,
     "uikTvd": "475401667689",
+    "uikName": "УИК  673",
     "tikTvd": "275200071325",
-    "tikName": "Оловяннинская"
+    "tikName": "Оловяннинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 674,
     "uikTvd": "475401667690",
+    "uikName": "УИК  674",
     "tikTvd": "275200071325",
-    "tikName": "Оловяннинская"
+    "tikName": "Оловяннинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 675,
     "uikTvd": "475401667691",
+    "uikName": "УИК  675",
     "tikTvd": "275200071325",
-    "tikName": "Оловяннинская"
+    "tikName": "Оловяннинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 676,
     "uikTvd": "475401667692",
+    "uikName": "УИК  676",
     "tikTvd": "275200071325",
-    "tikName": "Оловяннинская"
+    "tikName": "Оловяннинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 677,
     "uikTvd": "475401667693",
+    "uikName": "УИК  677",
     "tikTvd": "275200071325",
-    "tikName": "Оловяннинская"
+    "tikName": "Оловяннинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 678,
     "uikTvd": "475401667694",
+    "uikName": "УИК  678",
     "tikTvd": "275200071325",
-    "tikName": "Оловяннинская"
+    "tikName": "Оловяннинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 679,
     "uikTvd": "475401667695",
+    "uikName": "УИК  679",
     "tikTvd": "275200071325",
-    "tikName": "Оловяннинская"
+    "tikName": "Оловяннинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 680,
     "uikTvd": "475401667696",
+    "uikName": "УИК  680",
     "tikTvd": "275200071325",
-    "tikName": "Оловяннинская"
+    "tikName": "Оловяннинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 681,
     "uikTvd": "475401667697",
+    "uikName": "УИК  681",
     "tikTvd": "275200071325",
-    "tikName": "Оловяннинская"
+    "tikName": "Оловяннинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 682,
     "uikTvd": "475401667698",
+    "uikName": "УИК  682",
     "tikTvd": "275200071325",
-    "tikName": "Оловяннинская"
+    "tikName": "Оловяннинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 683,
     "uikTvd": "475401667699",
+    "uikName": "УИК  683",
     "tikTvd": "275200071325",
-    "tikName": "Оловяннинская"
+    "tikName": "Оловяннинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 684,
     "uikTvd": "475401667700",
+    "uikName": "УИК  684",
     "tikTvd": "275200071325",
-    "tikName": "Оловяннинская"
+    "tikName": "Оловяннинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 685,
     "uikTvd": "475401667701",
+    "uikName": "УИК  685",
     "tikTvd": "275200071325",
-    "tikName": "Оловяннинская"
+    "tikName": "Оловяннинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 686,
     "uikTvd": "475401667702",
+    "uikName": "УИК  686",
     "tikTvd": "275200071325",
-    "tikName": "Оловяннинская"
+    "tikName": "Оловяннинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 687,
     "uikTvd": "475401667703",
+    "uikName": "УИК  687",
     "tikTvd": "275200071325",
-    "tikName": "Оловяннинская"
+    "tikName": "Оловяннинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 688,
     "uikTvd": "475401667704",
+    "uikName": "УИК  688",
     "tikTvd": "275200071325",
-    "tikName": "Оловяннинская"
+    "tikName": "Оловяннинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 689,
     "uikTvd": "475401667705",
+    "uikName": "УИК  689",
     "tikTvd": "275200071325",
-    "tikName": "Оловяннинская"
+    "tikName": "Оловяннинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 690,
     "uikTvd": "475401667706",
+    "uikName": "УИК  690",
     "tikTvd": "275200071325",
-    "tikName": "Оловяннинская"
+    "tikName": "Оловяннинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 691,
     "uikTvd": "475401667707",
+    "uikName": "УИК  691",
     "tikTvd": "275200071325",
-    "tikName": "Оловяннинская"
+    "tikName": "Оловяннинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 692,
     "uikTvd": "475401667708",
+    "uikName": "УИК  692",
     "tikTvd": "275200071325",
-    "tikName": "Оловяннинская"
+    "tikName": "Оловяннинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 693,
     "uikTvd": "475401667709",
+    "uikName": "УИК  693",
     "tikTvd": "275200071325",
-    "tikName": "Оловяннинская"
+    "tikName": "Оловяннинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 694,
     "uikTvd": "475401667710",
+    "uikName": "УИК  694",
     "tikTvd": "275200071325",
-    "tikName": "Оловяннинская"
+    "tikName": "Оловяннинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 695,
     "uikTvd": "475401667711",
+    "uikName": "УИК  695",
     "tikTvd": "275200071325",
-    "tikName": "Оловяннинская"
+    "tikName": "Оловяннинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 696,
     "uikTvd": "475401667712",
+    "uikName": "УИК  696",
     "tikTvd": "275200071325",
-    "tikName": "Оловяннинская"
+    "tikName": "Оловяннинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 697,
     "uikTvd": "475401667713",
+    "uikName": "УИК  697",
     "tikTvd": "275200071325",
-    "tikName": "Оловяннинская"
+    "tikName": "Оловяннинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 698,
     "uikTvd": "475401667714",
+    "uikName": "УИК  698",
     "tikTvd": "275200071325",
-    "tikName": "Оловяннинская"
+    "tikName": "Оловяннинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 699,
     "uikTvd": "475401667715",
+    "uikName": "УИК  699",
     "tikTvd": "275200071325",
-    "tikName": "Оловяннинская"
+    "tikName": "Оловяннинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 700,
     "uikTvd": "475401667716",
+    "uikName": "УИК  700",
     "tikTvd": "275200071325",
-    "tikName": "Оловяннинская"
+    "tikName": "Оловяннинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 701,
     "uikTvd": "475401667717",
+    "uikName": "УИК  701",
     "tikTvd": "275200071325",
-    "tikName": "Оловяннинская"
+    "tikName": "Оловяннинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 702,
     "uikTvd": "475401667718",
+    "uikName": "УИК  702",
     "tikTvd": "275200071325",
-    "tikName": "Оловяннинская"
+    "tikName": "Оловяннинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 703,
     "uikTvd": "475401667719",
+    "uikName": "УИК  703",
     "tikTvd": "275200071325",
-    "tikName": "Оловяннинская"
+    "tikName": "Оловяннинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 704,
     "uikTvd": "475401667720",
+    "uikName": "УИК  704",
     "tikTvd": "275200071325",
-    "tikName": "Оловяннинская"
+    "tikName": "Оловяннинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 705,
     "uikTvd": "475401667721",
+    "uikName": "УИК  705",
     "tikTvd": "275200071325",
-    "tikName": "Оловяннинская"
+    "tikName": "Оловяннинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 706,
     "uikTvd": "475401767364",
+    "uikName": "УИК №706",
     "tikTvd": "275200071326",
-    "tikName": "Ононская"
+    "tikName": "Ононская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 707,
     "uikTvd": "475401767365",
+    "uikName": "УИК №707",
     "tikTvd": "275200071326",
-    "tikName": "Ононская"
+    "tikName": "Ононская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 708,
     "uikTvd": "475401767366",
+    "uikName": "УИК №708",
     "tikTvd": "275200071326",
-    "tikName": "Ононская"
+    "tikName": "Ононская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 709,
     "uikTvd": "475401767367",
+    "uikName": "УИК №709",
     "tikTvd": "275200071326",
-    "tikName": "Ононская"
+    "tikName": "Ононская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 710,
     "uikTvd": "475401767368",
+    "uikName": "УИК №710",
     "tikTvd": "275200071326",
-    "tikName": "Ононская"
+    "tikName": "Ононская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 711,
     "uikTvd": "475401767369",
+    "uikName": "УИК №711",
     "tikTvd": "275200071326",
-    "tikName": "Ононская"
+    "tikName": "Ононская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 712,
     "uikTvd": "475401767370",
+    "uikName": "УИК №712",
     "tikTvd": "275200071326",
-    "tikName": "Ононская"
+    "tikName": "Ононская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 713,
     "uikTvd": "475401767371",
+    "uikName": "УИК №713",
     "tikTvd": "275200071326",
-    "tikName": "Ононская"
+    "tikName": "Ононская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 714,
     "uikTvd": "475401767372",
+    "uikName": "УИК №714",
     "tikTvd": "275200071326",
-    "tikName": "Ононская"
+    "tikName": "Ононская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 715,
     "uikTvd": "475401767373",
+    "uikName": "УИК №715",
     "tikTvd": "275200071326",
-    "tikName": "Ононская"
+    "tikName": "Ононская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 716,
     "uikTvd": "475401767374",
+    "uikName": "УИК №716",
     "tikTvd": "275200071326",
-    "tikName": "Ононская"
+    "tikName": "Ононская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 717,
     "uikTvd": "475401767375",
+    "uikName": "УИК №717",
     "tikTvd": "275200071326",
-    "tikName": "Ононская"
+    "tikName": "Ононская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 718,
     "uikTvd": "475401767376",
+    "uikName": "УИК №718",
     "tikTvd": "275200071326",
-    "tikName": "Ононская"
+    "tikName": "Ононская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 719,
     "uikTvd": "475401767377",
+    "uikName": "УИК №719",
     "tikTvd": "275200071326",
-    "tikName": "Ононская"
+    "tikName": "Ононская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 720,
     "uikTvd": "475401767378",
+    "uikName": "УИК №720",
     "tikTvd": "275200071326",
-    "tikName": "Ононская"
+    "tikName": "Ононская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 721,
     "uikTvd": "475401767379",
+    "uikName": "УИК №721",
     "tikTvd": "275200071326",
-    "tikName": "Ононская"
+    "tikName": "Ононская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 722,
     "uikTvd": "475401767380",
+    "uikName": "УИК №722",
     "tikTvd": "275200071326",
-    "tikName": "Ононская"
+    "tikName": "Ононская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 723,
     "uikTvd": "475401767381",
+    "uikName": "УИК №723",
     "tikTvd": "275200071326",
-    "tikName": "Ононская"
+    "tikName": "Ононская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 724,
     "uikTvd": "475401767382",
+    "uikName": "УИК №724",
     "tikTvd": "275200071326",
-    "tikName": "Ононская"
+    "tikName": "Ононская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 725,
     "uikTvd": "475401767383",
+    "uikName": "УИК №725",
     "tikTvd": "275200071326",
-    "tikName": "Ононская"
+    "tikName": "Ононская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 726,
     "uikTvd": "475401767384",
+    "uikName": "УИК №726",
     "tikTvd": "275200071326",
-    "tikName": "Ононская"
+    "tikName": "Ононская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 727,
     "uikTvd": "475401968541",
+    "uikName": "УИК  727",
     "tikTvd": "275200071329",
-    "tikName": "Приаргунская"
+    "tikName": "Приаргунская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 728,
     "uikTvd": "475401968542",
+    "uikName": "УИК  728",
     "tikTvd": "275200071329",
-    "tikName": "Приаргунская"
+    "tikName": "Приаргунская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 729,
     "uikTvd": "475401968543",
+    "uikName": "УИК  729",
     "tikTvd": "275200071329",
-    "tikName": "Приаргунская"
+    "tikName": "Приаргунская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 730,
     "uikTvd": "475401968544",
+    "uikName": "УИК  730",
     "tikTvd": "275200071329",
-    "tikName": "Приаргунская"
+    "tikName": "Приаргунская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 731,
     "uikTvd": "475401968545",
+    "uikName": "УИК  731",
     "tikTvd": "275200071329",
-    "tikName": "Приаргунская"
+    "tikName": "Приаргунская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 732,
     "uikTvd": "475401968546",
+    "uikName": "УИК  732",
     "tikTvd": "275200071329",
-    "tikName": "Приаргунская"
+    "tikName": "Приаргунская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 733,
     "uikTvd": "475401968547",
+    "uikName": "УИК  733",
     "tikTvd": "275200071329",
-    "tikName": "Приаргунская"
+    "tikName": "Приаргунская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 734,
     "uikTvd": "475401968548",
+    "uikName": "УИК  734",
     "tikTvd": "275200071329",
-    "tikName": "Приаргунская"
+    "tikName": "Приаргунская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 735,
     "uikTvd": "475401968549",
+    "uikName": "УИК  735",
     "tikTvd": "275200071329",
-    "tikName": "Приаргунская"
+    "tikName": "Приаргунская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 736,
     "uikTvd": "475401968550",
+    "uikName": "УИК  736",
     "tikTvd": "275200071329",
-    "tikName": "Приаргунская"
+    "tikName": "Приаргунская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 737,
     "uikTvd": "475401968551",
+    "uikName": "УИК  737",
     "tikTvd": "275200071329",
-    "tikName": "Приаргунская"
+    "tikName": "Приаргунская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 738,
     "uikTvd": "475401968552",
+    "uikName": "УИК  738",
     "tikTvd": "275200071329",
-    "tikName": "Приаргунская"
+    "tikName": "Приаргунская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 739,
     "uikTvd": "475401968553",
+    "uikName": "УИК  739",
     "tikTvd": "275200071329",
-    "tikName": "Приаргунская"
+    "tikName": "Приаргунская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 740,
     "uikTvd": "475401968554",
+    "uikName": "УИК  740",
     "tikTvd": "275200071329",
-    "tikName": "Приаргунская"
+    "tikName": "Приаргунская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 741,
     "uikTvd": "475401968555",
+    "uikName": "УИК  741",
     "tikTvd": "275200071329",
-    "tikName": "Приаргунская"
+    "tikName": "Приаргунская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 742,
     "uikTvd": "475401968556",
+    "uikName": "УИК  742",
     "tikTvd": "275200071329",
-    "tikName": "Приаргунская"
+    "tikName": "Приаргунская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 743,
     "uikTvd": "475401968557",
+    "uikName": "УИК  743",
     "tikTvd": "275200071329",
-    "tikName": "Приаргунская"
+    "tikName": "Приаргунская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 744,
     "uikTvd": "475401968558",
+    "uikName": "УИК  744",
     "tikTvd": "275200071329",
-    "tikName": "Приаргунская"
+    "tikName": "Приаргунская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 745,
     "uikTvd": "475401968559",
+    "uikName": "УИК  745",
     "tikTvd": "275200071329",
-    "tikName": "Приаргунская"
+    "tikName": "Приаргунская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 746,
     "uikTvd": "475401968560",
+    "uikName": "УИК  746",
     "tikTvd": "275200071329",
-    "tikName": "Приаргунская"
+    "tikName": "Приаргунская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 747,
     "uikTvd": "475401968561",
+    "uikName": "УИК  747",
     "tikTvd": "275200071329",
-    "tikName": "Приаргунская"
+    "tikName": "Приаргунская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 748,
     "uikTvd": "475401968562",
+    "uikName": "УИК  748",
     "tikTvd": "275200071329",
-    "tikName": "Приаргунская"
+    "tikName": "Приаргунская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 749,
     "uikTvd": "475401968563",
+    "uikName": "УИК  749",
     "tikTvd": "275200071329",
-    "tikName": "Приаргунская"
+    "tikName": "Приаргунская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 750,
     "uikTvd": "475401968564",
+    "uikName": "УИК  750",
     "tikTvd": "275200071329",
-    "tikName": "Приаргунская"
+    "tikName": "Приаргунская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 751,
     "uikTvd": "475401968565",
+    "uikName": "УИК  751",
     "tikTvd": "275200071329",
-    "tikName": "Приаргунская"
+    "tikName": "Приаргунская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 752,
     "uikTvd": "475401968566",
+    "uikName": "УИК  752",
     "tikTvd": "275200071329",
-    "tikName": "Приаргунская"
+    "tikName": "Приаргунская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 753,
     "uikTvd": "475401968567",
+    "uikName": "УИК  753",
     "tikTvd": "275200071329",
-    "tikName": "Приаргунская"
+    "tikName": "Приаргунская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 754,
     "uikTvd": "475402068743",
+    "uikName": "УИК  754",
     "tikTvd": "275200071330",
-    "tikName": "Сретенская"
+    "tikName": "Сретенская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 755,
     "uikTvd": "475402068744",
+    "uikName": "УИК  755",
     "tikTvd": "275200071330",
-    "tikName": "Сретенская"
+    "tikName": "Сретенская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 756,
     "uikTvd": "475402068745",
+    "uikName": "УИК  756",
     "tikTvd": "275200071330",
-    "tikName": "Сретенская"
+    "tikName": "Сретенская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 757,
     "uikTvd": "475402068746",
+    "uikName": "УИК  757",
     "tikTvd": "275200071330",
-    "tikName": "Сретенская"
+    "tikName": "Сретенская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 758,
     "uikTvd": "475402068747",
+    "uikName": "УИК  758",
     "tikTvd": "275200071330",
-    "tikName": "Сретенская"
+    "tikName": "Сретенская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 759,
     "uikTvd": "475402068748",
+    "uikName": "УИК  759",
     "tikTvd": "275200071330",
-    "tikName": "Сретенская"
+    "tikName": "Сретенская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 760,
     "uikTvd": "475402068749",
+    "uikName": "УИК  760",
     "tikTvd": "275200071330",
-    "tikName": "Сретенская"
+    "tikName": "Сретенская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 761,
     "uikTvd": "475402068750",
+    "uikName": "УИК  761",
     "tikTvd": "275200071330",
-    "tikName": "Сретенская"
+    "tikName": "Сретенская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 762,
     "uikTvd": "475402068751",
+    "uikName": "УИК  762",
     "tikTvd": "275200071330",
-    "tikName": "Сретенская"
+    "tikName": "Сретенская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 763,
     "uikTvd": "475402068752",
+    "uikName": "УИК  763",
     "tikTvd": "275200071330",
-    "tikName": "Сретенская"
+    "tikName": "Сретенская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 764,
     "uikTvd": "475402068753",
+    "uikName": "УИК  764",
     "tikTvd": "275200071330",
-    "tikName": "Сретенская"
+    "tikName": "Сретенская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 765,
     "uikTvd": "475402068754",
+    "uikName": "УИК  765",
     "tikTvd": "275200071330",
-    "tikName": "Сретенская"
+    "tikName": "Сретенская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 766,
     "uikTvd": "475402068755",
+    "uikName": "УИК  766",
     "tikTvd": "275200071330",
-    "tikName": "Сретенская"
+    "tikName": "Сретенская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 767,
     "uikTvd": "475402068756",
+    "uikName": "УИК  767",
     "tikTvd": "275200071330",
-    "tikName": "Сретенская"
+    "tikName": "Сретенская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 768,
     "uikTvd": "475402068757",
+    "uikName": "УИК  768",
     "tikTvd": "275200071330",
-    "tikName": "Сретенская"
+    "tikName": "Сретенская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 769,
     "uikTvd": "475402068758",
+    "uikName": "УИК  769",
     "tikTvd": "275200071330",
-    "tikName": "Сретенская"
+    "tikName": "Сретенская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 770,
     "uikTvd": "475402068759",
+    "uikName": "УИК  770",
     "tikTvd": "275200071330",
-    "tikName": "Сретенская"
+    "tikName": "Сретенская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 771,
     "uikTvd": "475402068760",
+    "uikName": "УИК  771",
     "tikTvd": "275200071330",
-    "tikName": "Сретенская"
+    "tikName": "Сретенская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 772,
     "uikTvd": "475402068761",
+    "uikName": "УИК  772",
     "tikTvd": "275200071330",
-    "tikName": "Сретенская"
+    "tikName": "Сретенская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 773,
     "uikTvd": "475402068762",
+    "uikName": "УИК  773",
     "tikTvd": "275200071330",
-    "tikName": "Сретенская"
+    "tikName": "Сретенская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 774,
     "uikTvd": "475402068763",
+    "uikName": "УИК  774",
     "tikTvd": "275200071330",
-    "tikName": "Сретенская"
+    "tikName": "Сретенская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 775,
     "uikTvd": "475402068764",
+    "uikName": "УИК  775",
     "tikTvd": "275200071330",
-    "tikName": "Сретенская"
+    "tikName": "Сретенская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 776,
     "uikTvd": "475402068765",
+    "uikName": "УИК  776",
     "tikTvd": "275200071330",
-    "tikName": "Сретенская"
+    "tikName": "Сретенская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 777,
     "uikTvd": "475402068766",
+    "uikName": "УИК  777",
     "tikTvd": "275200071330",
-    "tikName": "Сретенская"
+    "tikName": "Сретенская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 778,
     "uikTvd": "475402068767",
+    "uikName": "УИК  778",
     "tikTvd": "275200071330",
-    "tikName": "Сретенская"
+    "tikName": "Сретенская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 779,
     "uikTvd": "475402068768",
+    "uikName": "УИК  779",
     "tikTvd": "275200071330",
-    "tikName": "Сретенская"
+    "tikName": "Сретенская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 780,
     "uikTvd": "475402068769",
+    "uikName": "УИК  780",
     "tikTvd": "275200071330",
-    "tikName": "Сретенская"
+    "tikName": "Сретенская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 781,
     "uikTvd": "475402068770",
+    "uikName": "УИК  781",
     "tikTvd": "275200071330",
-    "tikName": "Сретенская"
+    "tikName": "Сретенская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 782,
     "uikTvd": "475402068771",
+    "uikName": "УИК  782",
     "tikTvd": "275200071330",
-    "tikName": "Сретенская"
+    "tikName": "Сретенская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 783,
     "uikTvd": "475402068772",
+    "uikName": "УИК  783",
     "tikTvd": "275200071330",
-    "tikName": "Сретенская"
+    "tikName": "Сретенская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 784,
     "uikTvd": "475402068773",
+    "uikName": "УИК  784",
     "tikTvd": "275200071330",
-    "tikName": "Сретенская"
+    "tikName": "Сретенская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 785,
     "uikTvd": "475402068774",
+    "uikName": "УИК  785",
     "tikTvd": "275200071330",
-    "tikName": "Сретенская"
+    "tikName": "Сретенская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 786,
     "uikTvd": "475402068775",
+    "uikName": "УИК  786",
     "tikTvd": "275200071330",
-    "tikName": "Сретенская"
+    "tikName": "Сретенская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 787,
     "uikTvd": "475402068776",
+    "uikName": "УИК  787",
     "tikTvd": "275200071330",
-    "tikName": "Сретенская"
+    "tikName": "Сретенская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 788,
     "uikTvd": "475402068777",
+    "uikName": "УИК  788",
     "tikTvd": "275200071330",
-    "tikName": "Сретенская"
+    "tikName": "Сретенская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 789,
     "uikTvd": "475402068778",
+    "uikName": "УИК  789",
     "tikTvd": "275200071330",
-    "tikName": "Сретенская"
+    "tikName": "Сретенская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 790,
     "uikTvd": "475402068779",
+    "uikName": "УИК  790",
     "tikTvd": "275200071330",
-    "tikName": "Сретенская"
+    "tikName": "Сретенская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 791,
     "uikTvd": "475402068780",
+    "uikName": "УИК  791",
     "tikTvd": "275200071330",
-    "tikName": "Сретенская"
+    "tikName": "Сретенская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 792,
     "uikTvd": "475402068781",
+    "uikName": "УИК  792",
     "tikTvd": "275200071330",
-    "tikName": "Сретенская"
+    "tikName": "Сретенская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 793,
     "uikTvd": "475402068782",
+    "uikName": "УИК  793",
     "tikTvd": "275200071330",
-    "tikName": "Сретенская"
+    "tikName": "Сретенская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 794,
     "uikTvd": "475402669446",
+    "uikName": "УИК  794",
     "tikTvd": "275200071335",
-    "tikName": "Чернышевская"
+    "tikName": "Чернышевская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 795,
     "uikTvd": "475402669447",
+    "uikName": "УИК  795",
     "tikTvd": "275200071335",
-    "tikName": "Чернышевская"
+    "tikName": "Чернышевская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 796,
     "uikTvd": "475402669448",
+    "uikName": "УИК  796",
     "tikTvd": "275200071335",
-    "tikName": "Чернышевская"
+    "tikName": "Чернышевская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 797,
     "uikTvd": "475402669449",
+    "uikName": "УИК  797",
     "tikTvd": "275200071335",
-    "tikName": "Чернышевская"
+    "tikName": "Чернышевская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 798,
     "uikTvd": "475402669450",
+    "uikName": "УИК  798",
     "tikTvd": "275200071335",
-    "tikName": "Чернышевская"
+    "tikName": "Чернышевская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 799,
     "uikTvd": "475402669451",
+    "uikName": "УИК  799",
     "tikTvd": "275200071335",
-    "tikName": "Чернышевская"
+    "tikName": "Чернышевская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 800,
     "uikTvd": "475402669452",
+    "uikName": "УИК  800",
     "tikTvd": "275200071335",
-    "tikName": "Чернышевская"
+    "tikName": "Чернышевская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 801,
     "uikTvd": "475402669453",
+    "uikName": "УИК  801",
     "tikTvd": "275200071335",
-    "tikName": "Чернышевская"
+    "tikName": "Чернышевская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 802,
     "uikTvd": "475402669454",
+    "uikName": "УИК  802",
     "tikTvd": "275200071335",
-    "tikName": "Чернышевская"
+    "tikName": "Чернышевская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 803,
     "uikTvd": "475402669455",
+    "uikName": "УИК  803",
     "tikTvd": "275200071335",
-    "tikName": "Чернышевская"
+    "tikName": "Чернышевская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 804,
     "uikTvd": "475402669456",
+    "uikName": "УИК  804",
     "tikTvd": "275200071335",
-    "tikName": "Чернышевская"
+    "tikName": "Чернышевская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 805,
     "uikTvd": "475402669457",
+    "uikName": "УИК  805",
     "tikTvd": "275200071335",
-    "tikName": "Чернышевская"
+    "tikName": "Чернышевская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 806,
     "uikTvd": "475402669458",
+    "uikName": "УИК  806",
     "tikTvd": "275200071335",
-    "tikName": "Чернышевская"
+    "tikName": "Чернышевская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 807,
     "uikTvd": "475402669459",
+    "uikName": "УИК  807",
     "tikTvd": "275200071335",
-    "tikName": "Чернышевская"
+    "tikName": "Чернышевская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 808,
     "uikTvd": "475402669460",
+    "uikName": "УИК  808",
     "tikTvd": "275200071335",
-    "tikName": "Чернышевская"
+    "tikName": "Чернышевская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 809,
     "uikTvd": "475402669461",
+    "uikName": "УИК  809",
     "tikTvd": "275200071335",
-    "tikName": "Чернышевская"
+    "tikName": "Чернышевская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 810,
     "uikTvd": "475402669462",
+    "uikName": "УИК  810",
     "tikTvd": "275200071335",
-    "tikName": "Чернышевская"
+    "tikName": "Чернышевская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 811,
     "uikTvd": "475402669463",
+    "uikName": "УИК  811",
     "tikTvd": "275200071335",
-    "tikName": "Чернышевская"
+    "tikName": "Чернышевская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 812,
     "uikTvd": "475402669464",
+    "uikName": "УИК  812",
     "tikTvd": "275200071335",
-    "tikName": "Чернышевская"
+    "tikName": "Чернышевская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 813,
     "uikTvd": "475402669465",
+    "uikName": "УИК  813",
     "tikTvd": "275200071335",
-    "tikName": "Чернышевская"
+    "tikName": "Чернышевская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 814,
     "uikTvd": "475402669466",
+    "uikName": "УИК  814",
     "tikTvd": "275200071335",
-    "tikName": "Чернышевская"
+    "tikName": "Чернышевская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 815,
     "uikTvd": "475402669467",
+    "uikName": "УИК  815",
     "tikTvd": "275200071335",
-    "tikName": "Чернышевская"
+    "tikName": "Чернышевская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 816,
     "uikTvd": "475402669468",
+    "uikName": "УИК  816",
     "tikTvd": "275200071335",
-    "tikName": "Чернышевская"
+    "tikName": "Чернышевская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 817,
     "uikTvd": "475402669469",
+    "uikName": "УИК  817",
     "tikTvd": "275200071335",
-    "tikName": "Чернышевская"
+    "tikName": "Чернышевская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 818,
     "uikTvd": "475402669470",
+    "uikName": "УИК  818",
     "tikTvd": "275200071335",
-    "tikName": "Чернышевская"
+    "tikName": "Чернышевская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 819,
     "uikTvd": "475402669471",
+    "uikName": "УИК  819",
     "tikTvd": "275200071335",
-    "tikName": "Чернышевская"
+    "tikName": "Чернышевская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 820,
     "uikTvd": "475402669472",
+    "uikName": "УИК  820",
     "tikTvd": "275200071335",
-    "tikName": "Чернышевская"
+    "tikName": "Чернышевская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 821,
     "uikTvd": "475402669473",
+    "uikName": "УИК  821",
     "tikTvd": "275200071335",
-    "tikName": "Чернышевская"
+    "tikName": "Чернышевская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 822,
     "uikTvd": "475402669474",
+    "uikName": "УИК  822",
     "tikTvd": "275200071335",
-    "tikName": "Чернышевская"
+    "tikName": "Чернышевская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 823,
     "uikTvd": "475402669475",
+    "uikName": "УИК  823",
     "tikTvd": "275200071335",
-    "tikName": "Чернышевская"
+    "tikName": "Чернышевская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 824,
     "uikTvd": "475402669476",
+    "uikName": "УИК  824",
     "tikTvd": "275200071335",
-    "tikName": "Чернышевская"
+    "tikName": "Чернышевская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 825,
     "uikTvd": "475402669477",
+    "uikName": "УИК  825",
     "tikTvd": "275200071335",
-    "tikName": "Чернышевская"
+    "tikName": "Чернышевская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 826,
     "uikTvd": "475402669478",
+    "uikName": "УИК  826",
     "tikTvd": "275200071335",
-    "tikName": "Чернышевская"
+    "tikName": "Чернышевская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 827,
     "uikTvd": "475402669479",
+    "uikName": "УИК  827",
     "tikTvd": "275200071335",
-    "tikName": "Чернышевская"
+    "tikName": "Чернышевская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 828,
     "uikTvd": "475402669480",
+    "uikName": "УИК  828",
     "tikTvd": "275200071335",
-    "tikName": "Чернышевская"
+    "tikName": "Чернышевская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 829,
     "uikTvd": "475402669481",
+    "uikName": "УИК  829",
     "tikTvd": "275200071335",
-    "tikName": "Чернышевская"
+    "tikName": "Чернышевская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 830,
     "uikTvd": "475402669482",
+    "uikName": "УИК  830",
     "tikTvd": "275200071335",
-    "tikName": "Чернышевская"
+    "tikName": "Чернышевская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 831,
     "uikTvd": "475402669483",
+    "uikName": "УИК  831",
     "tikTvd": "275200071335",
-    "tikName": "Чернышевская"
+    "tikName": "Чернышевская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 832,
     "uikTvd": "475403267783",
+    "uikName": "УИК  832",
     "tikTvd": "275200071342",
-    "tikName": "Шелопугинская"
+    "tikName": "Шелопугинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 833,
     "uikTvd": "475403267784",
+    "uikName": "УИК  833",
     "tikTvd": "275200071342",
-    "tikName": "Шелопугинская"
+    "tikName": "Шелопугинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 834,
     "uikTvd": "475403267785",
+    "uikName": "УИК  834",
     "tikTvd": "275200071342",
-    "tikName": "Шелопугинская"
+    "tikName": "Шелопугинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 835,
     "uikTvd": "475403267786",
+    "uikName": "УИК  835",
     "tikTvd": "275200071342",
-    "tikName": "Шелопугинская"
+    "tikName": "Шелопугинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 836,
     "uikTvd": "475403267787",
+    "uikName": "УИК  836",
     "tikTvd": "275200071342",
-    "tikName": "Шелопугинская"
+    "tikName": "Шелопугинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 837,
     "uikTvd": "475403267788",
+    "uikName": "УИК  837",
     "tikTvd": "275200071342",
-    "tikName": "Шелопугинская"
+    "tikName": "Шелопугинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 838,
     "uikTvd": "475403267789",
+    "uikName": "УИК  838",
     "tikTvd": "275200071342",
-    "tikName": "Шелопугинская"
+    "tikName": "Шелопугинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 839,
     "uikTvd": "475403267790",
+    "uikName": "УИК  839",
     "tikTvd": "275200071342",
-    "tikName": "Шелопугинская"
+    "tikName": "Шелопугинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 840,
     "uikTvd": "475403267791",
+    "uikName": "УИК  840",
     "tikTvd": "275200071342",
-    "tikName": "Шелопугинская"
+    "tikName": "Шелопугинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 841,
     "uikTvd": "475403267792",
+    "uikName": "УИК  841",
     "tikTvd": "275200071342",
-    "tikName": "Шелопугинская"
+    "tikName": "Шелопугинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 842,
     "uikTvd": "475403267793",
+    "uikName": "УИК  842",
     "tikTvd": "275200071342",
-    "tikName": "Шелопугинская"
+    "tikName": "Шелопугинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 843,
     "uikTvd": "475403267794",
+    "uikName": "УИК  843",
     "tikTvd": "275200071342",
-    "tikName": "Шелопугинская"
+    "tikName": "Шелопугинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 844,
     "uikTvd": "475403267795",
+    "uikName": "УИК  844",
     "tikTvd": "275200071342",
-    "tikName": "Шелопугинская"
+    "tikName": "Шелопугинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 845,
     "uikTvd": "475403267796",
+    "uikName": "УИК  845",
     "tikTvd": "275200071342",
-    "tikName": "Шелопугинская"
+    "tikName": "Шелопугинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 846,
     "uikTvd": "475403267797",
+    "uikName": "УИК  846",
     "tikTvd": "275200071342",
-    "tikName": "Шелопугинская"
+    "tikName": "Шелопугинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 847,
     "uikTvd": "475403267798",
+    "uikName": "УИК  847",
     "tikTvd": "275200071342",
-    "tikName": "Шелопугинская"
+    "tikName": "Шелопугинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 848,
     "uikTvd": "475403267799",
+    "uikName": "УИК  848",
     "tikTvd": "275200071342",
-    "tikName": "Шелопугинская"
+    "tikName": "Шелопугинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 849,
     "uikTvd": "475403267800",
+    "uikName": "УИК  849",
     "tikTvd": "275200071342",
-    "tikName": "Шелопугинская"
+    "tikName": "Шелопугинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 850,
     "uikTvd": "475403267801",
+    "uikName": "УИК  850",
     "tikTvd": "275200071342",
-    "tikName": "Шелопугинская"
+    "tikName": "Шелопугинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 851,
     "uikTvd": "475403267802",
+    "uikName": "УИК  851",
     "tikTvd": "275200071342",
-    "tikName": "Шелопугинская"
+    "tikName": "Шелопугинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 852,
     "uikTvd": "475403267803",
+    "uikName": "УИК  852",
     "tikTvd": "275200071342",
-    "tikName": "Шелопугинская"
+    "tikName": "Шелопугинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 853,
     "uikTvd": "475403267804",
+    "uikName": "УИК  853",
     "tikTvd": "275200071342",
-    "tikName": "Шелопугинская"
+    "tikName": "Шелопугинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 854,
     "uikTvd": "475403368738",
+    "uikName": "УИК  854",
     "tikTvd": "275200071343",
-    "tikName": "Шилкинская"
+    "tikName": "Шилкинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 855,
     "uikTvd": "475403368739",
+    "uikName": "УИК  855",
     "tikTvd": "275200071343",
-    "tikName": "Шилкинская"
+    "tikName": "Шилкинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 856,
     "uikTvd": "475403368740",
+    "uikName": "УИК  856",
     "tikTvd": "275200071343",
-    "tikName": "Шилкинская"
+    "tikName": "Шилкинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 857,
     "uikTvd": "475403368741",
+    "uikName": "УИК  857",
     "tikTvd": "275200071343",
-    "tikName": "Шилкинская"
+    "tikName": "Шилкинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 858,
     "uikTvd": "475403368742",
+    "uikName": "УИК  858",
     "tikTvd": "275200071343",
-    "tikName": "Шилкинская"
+    "tikName": "Шилкинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 859,
     "uikTvd": "475403368743",
+    "uikName": "УИК  859",
     "tikTvd": "275200071343",
-    "tikName": "Шилкинская"
+    "tikName": "Шилкинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 860,
     "uikTvd": "475403368744",
+    "uikName": "УИК  860",
     "tikTvd": "275200071343",
-    "tikName": "Шилкинская"
+    "tikName": "Шилкинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 861,
     "uikTvd": "475403368745",
+    "uikName": "УИК  861",
     "tikTvd": "275200071343",
-    "tikName": "Шилкинская"
+    "tikName": "Шилкинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 862,
     "uikTvd": "475403368746",
+    "uikName": "УИК  862",
     "tikTvd": "275200071343",
-    "tikName": "Шилкинская"
+    "tikName": "Шилкинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 863,
     "uikTvd": "475403368747",
+    "uikName": "УИК  863",
     "tikTvd": "275200071343",
-    "tikName": "Шилкинская"
+    "tikName": "Шилкинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 864,
     "uikTvd": "475403368748",
+    "uikName": "УИК  864",
     "tikTvd": "275200071343",
-    "tikName": "Шилкинская"
+    "tikName": "Шилкинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 865,
     "uikTvd": "475403368749",
+    "uikName": "УИК  865",
     "tikTvd": "275200071343",
-    "tikName": "Шилкинская"
+    "tikName": "Шилкинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 866,
     "uikTvd": "475403368750",
+    "uikName": "УИК  866",
     "tikTvd": "275200071343",
-    "tikName": "Шилкинская"
+    "tikName": "Шилкинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 867,
     "uikTvd": "475403368751",
+    "uikName": "УИК  867",
     "tikTvd": "275200071343",
-    "tikName": "Шилкинская"
+    "tikName": "Шилкинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 868,
     "uikTvd": "475403368752",
+    "uikName": "УИК  868",
     "tikTvd": "275200071343",
-    "tikName": "Шилкинская"
+    "tikName": "Шилкинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 869,
     "uikTvd": "475403368753",
+    "uikName": "УИК  869",
     "tikTvd": "275200071343",
-    "tikName": "Шилкинская"
+    "tikName": "Шилкинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 870,
     "uikTvd": "475403368754",
+    "uikName": "УИК  870",
     "tikTvd": "275200071343",
-    "tikName": "Шилкинская"
+    "tikName": "Шилкинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 871,
     "uikTvd": "475403368755",
+    "uikName": "УИК  871",
     "tikTvd": "275200071343",
-    "tikName": "Шилкинская"
+    "tikName": "Шилкинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 872,
     "uikTvd": "475403368756",
+    "uikName": "УИК  872",
     "tikTvd": "275200071343",
-    "tikName": "Шилкинская"
+    "tikName": "Шилкинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 873,
     "uikTvd": "475403368757",
+    "uikName": "УИК  873",
     "tikTvd": "275200071343",
-    "tikName": "Шилкинская"
+    "tikName": "Шилкинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 874,
     "uikTvd": "475403368758",
+    "uikName": "УИК  874",
     "tikTvd": "275200071343",
-    "tikName": "Шилкинская"
+    "tikName": "Шилкинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 875,
     "uikTvd": "475403368759",
+    "uikName": "УИК  875",
     "tikTvd": "275200071343",
-    "tikName": "Шилкинская"
+    "tikName": "Шилкинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 876,
     "uikTvd": "475403368760",
+    "uikName": "УИК  876",
     "tikTvd": "275200071343",
-    "tikName": "Шилкинская"
+    "tikName": "Шилкинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 877,
     "uikTvd": "475403368761",
+    "uikName": "УИК  877",
     "tikTvd": "275200071343",
-    "tikName": "Шилкинская"
+    "tikName": "Шилкинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 878,
     "uikTvd": "475403368762",
+    "uikName": "УИК  878",
     "tikTvd": "275200071343",
-    "tikName": "Шилкинская"
+    "tikName": "Шилкинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 879,
     "uikTvd": "475403368763",
+    "uikName": "УИК  879",
     "tikTvd": "275200071343",
-    "tikName": "Шилкинская"
+    "tikName": "Шилкинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 880,
     "uikTvd": "475403368764",
+    "uikName": "УИК  880",
     "tikTvd": "275200071343",
-    "tikName": "Шилкинская"
+    "tikName": "Шилкинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 881,
     "uikTvd": "475403368765",
+    "uikName": "УИК  881",
     "tikTvd": "275200071343",
-    "tikName": "Шилкинская"
+    "tikName": "Шилкинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 882,
     "uikTvd": "475403368766",
+    "uikName": "УИК  882",
     "tikTvd": "275200071343",
-    "tikName": "Шилкинская"
+    "tikName": "Шилкинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 883,
     "uikTvd": "475403368767",
+    "uikName": "УИК  883",
     "tikTvd": "275200071343",
-    "tikName": "Шилкинская"
+    "tikName": "Шилкинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 884,
     "uikTvd": "475403368768",
+    "uikName": "УИК  884",
     "tikTvd": "275200071343",
-    "tikName": "Шилкинская"
+    "tikName": "Шилкинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 885,
     "uikTvd": "475403368769",
+    "uikName": "УИК  885",
     "tikTvd": "275200071343",
-    "tikName": "Шилкинская"
+    "tikName": "Шилкинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 886,
     "uikTvd": "475403368770",
+    "uikName": "УИК  886",
     "tikTvd": "275200071343",
-    "tikName": "Шилкинская"
+    "tikName": "Шилкинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 887,
     "uikTvd": "475403368771",
+    "uikName": "УИК  887",
     "tikTvd": "275200071343",
-    "tikName": "Шилкинская"
+    "tikName": "Шилкинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 888,
     "uikTvd": "475403368772",
+    "uikName": "УИК  888",
     "tikTvd": "275200071343",
-    "tikName": "Шилкинская"
+    "tikName": "Шилкинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 889,
     "uikTvd": "475403368773",
+    "uikName": "УИК  889",
     "tikTvd": "275200071343",
-    "tikName": "Шилкинская"
+    "tikName": "Шилкинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 890,
     "uikTvd": "475403368774",
+    "uikName": "УИК  890",
     "tikTvd": "275200071343",
-    "tikName": "Шилкинская"
+    "tikName": "Шилкинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 891,
     "uikTvd": "475403368775",
+    "uikName": "УИК  891",
     "tikTvd": "275200071343",
-    "tikName": "Шилкинская"
+    "tikName": "Шилкинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 892,
     "uikTvd": "475403368776",
+    "uikName": "УИК  892",
     "tikTvd": "275200071343",
-    "tikName": "Шилкинская"
+    "tikName": "Шилкинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 893,
     "uikTvd": "475403368777",
+    "uikName": "УИК  893",
     "tikTvd": "275200071343",
-    "tikName": "Шилкинская"
+    "tikName": "Шилкинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 894,
     "uikTvd": "475403368778",
+    "uikName": "УИК  894",
     "tikTvd": "275200071343",
-    "tikName": "Шилкинская"
+    "tikName": "Шилкинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 895,
     "uikTvd": "475403368779",
+    "uikName": "УИК  895",
     "tikTvd": "275200071343",
-    "tikName": "Шилкинская"
+    "tikName": "Шилкинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 896,
     "uikTvd": "475403368780",
+    "uikName": "УИК  896",
     "tikTvd": "275200071343",
-    "tikName": "Шилкинская"
+    "tikName": "Шилкинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 897,
     "uikTvd": "475403368781",
+    "uikName": "УИК  897",
     "tikTvd": "275200071343",
-    "tikName": "Шилкинская"
+    "tikName": "Шилкинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 898,
     "uikTvd": "475403368782",
+    "uikName": "УИК  898",
     "tikTvd": "275200071343",
-    "tikName": "Шилкинская"
+    "tikName": "Шилкинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   },
   {
     "uikNumber": 899,
     "uikTvd": "475403368783",
+    "uikName": "УИК  899",
     "tikTvd": "275200071343",
-    "tikName": "Шилкинская"
+    "tikName": "Шилкинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
+    "district": null
   }
 ] satisfies readonly UikTikRelation[];

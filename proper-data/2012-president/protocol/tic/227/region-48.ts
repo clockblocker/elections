@@ -11,6 +11,9 @@ export const president_2012_tic_227_region_48 = [
     "ballot": "presidential",
     "tikTvd": "2482000302147",
     "tikName": "Задонская",
+    "regionCode": "48",
+    "regionTvd": "100100031793900",
+    "regionName": "Липецкая область",
     "uikCount": 52,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 27795,
@@ -110,6 +113,9 @@ export const president_2012_tic_227_region_48 = [
     "ballot": "presidential",
     "tikTvd": "2482000302148",
     "tikName": "Долгоруковская",
+    "regionCode": "48",
+    "regionTvd": "100100031793900",
+    "regionName": "Липецкая область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 15471,
@@ -186,6 +192,9 @@ export const president_2012_tic_227_region_48 = [
     "ballot": "presidential",
     "tikTvd": "2482000302149",
     "tikName": "Елецкая городская",
+    "regionCode": "48",
+    "regionTvd": "100100031793900",
+    "regionName": "Липецкая область",
     "uikCount": 55,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 88971,
@@ -288,6 +297,9 @@ export const president_2012_tic_227_region_48 = [
     "ballot": "presidential",
     "tikTvd": "2482000302150",
     "tikName": "Елецкая",
+    "regionCode": "48",
+    "regionTvd": "100100031793900",
+    "regionName": "Липецкая область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 23015,
@@ -366,6 +378,9 @@ export const president_2012_tic_227_region_48 = [
     "ballot": "presidential",
     "tikTvd": "2482000302151",
     "tikName": "Добровская",
+    "regionCode": "48",
+    "regionTvd": "100100031793900",
+    "regionName": "Липецкая область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 20065,
@@ -442,6 +457,9 @@ export const president_2012_tic_227_region_48 = [
     "ballot": "presidential",
     "tikTvd": "2482000302152",
     "tikName": "Добринская",
+    "regionCode": "48",
+    "regionTvd": "100100031793900",
+    "regionName": "Липецкая область",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 29811,
@@ -528,6 +546,9 @@ export const president_2012_tic_227_region_48 = [
     "ballot": "presidential",
     "tikTvd": "2482000302153",
     "tikName": "Данковская",
+    "regionCode": "48",
+    "regionTvd": "100100031793900",
+    "regionName": "Липецкая область",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 30609,
@@ -610,6 +631,9 @@ export const president_2012_tic_227_region_48 = [
     "ballot": "presidential",
     "tikTvd": "2482000302154",
     "tikName": "Грязинская",
+    "regionCode": "48",
+    "regionTvd": "100100031793900",
+    "regionName": "Липецкая область",
     "uikCount": 49,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 59986,
@@ -706,6 +730,9 @@ export const president_2012_tic_227_region_48 = [
     "ballot": "presidential",
     "tikTvd": "2482000302155",
     "tikName": "Измалковская",
+    "regionCode": "48",
+    "regionTvd": "100100031793900",
+    "regionName": "Липецкая область",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 13671,
@@ -780,6 +807,9 @@ export const president_2012_tic_227_region_48 = [
     "ballot": "presidential",
     "tikTvd": "2482000302156",
     "tikName": "Воловская",
+    "regionCode": "48",
+    "regionTvd": "100100031793900",
+    "regionName": "Липецкая область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 12141,
@@ -848,6 +878,9 @@ export const president_2012_tic_227_region_48 = [
     "ballot": "presidential",
     "tikTvd": "2482000302157",
     "tikName": "Хлевенская",
+    "regionCode": "48",
+    "regionTvd": "100100031793900",
+    "regionName": "Липецкая область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 16855,
@@ -916,6 +949,9 @@ export const president_2012_tic_227_region_48 = [
     "ballot": "presidential",
     "tikTvd": "2482000302158",
     "tikName": "Липецк, Левобережная",
+    "regionCode": "48",
+    "regionTvd": "100100031793900",
+    "regionName": "Липецкая область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 41344,
@@ -989,6 +1025,9 @@ export const president_2012_tic_227_region_48 = [
     "ballot": "presidential",
     "tikTvd": "2482000302159",
     "tikName": "Чаплыгинская",
+    "regionCode": "48",
+    "regionTvd": "100100031793900",
+    "regionName": "Липецкая область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 25934,
@@ -1072,6 +1111,9 @@ export const president_2012_tic_227_region_48 = [
     "ballot": "presidential",
     "tikTvd": "2482000302160",
     "tikName": "Тербунская",
+    "regionCode": "48",
+    "regionTvd": "100100031793900",
+    "regionName": "Липецкая область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 18000,
@@ -1149,6 +1191,9 @@ export const president_2012_tic_227_region_48 = [
     "ballot": "presidential",
     "tikTvd": "2482000302161",
     "tikName": "Становлянская",
+    "regionCode": "48",
+    "regionTvd": "100100031793900",
+    "regionName": "Липецкая область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 15218,
@@ -1224,6 +1269,9 @@ export const president_2012_tic_227_region_48 = [
     "ballot": "presidential",
     "tikTvd": "2482000302162",
     "tikName": "Усманская",
+    "regionCode": "48",
+    "regionTvd": "100100031793900",
+    "regionName": "Липецкая область",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 38788,
@@ -1315,6 +1363,9 @@ export const president_2012_tic_227_region_48 = [
     "ballot": "presidential",
     "tikTvd": "2482000302163",
     "tikName": "Липецкая",
+    "regionCode": "48",
+    "regionTvd": "100100031793900",
+    "regionName": "Липецкая область",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 41063,
@@ -1401,6 +1452,9 @@ export const president_2012_tic_227_region_48 = [
     "ballot": "presidential",
     "tikTvd": "2482000302164",
     "tikName": "Лев-Толстовская",
+    "regionCode": "48",
+    "regionTvd": "100100031793900",
+    "regionName": "Липецкая область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 13189,
@@ -1476,6 +1530,9 @@ export const president_2012_tic_227_region_48 = [
     "ballot": "presidential",
     "tikTvd": "2482000302165",
     "tikName": "Краснинская",
+    "regionCode": "48",
+    "regionTvd": "100100031793900",
+    "regionName": "Липецкая область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 11475,
@@ -1545,6 +1602,9 @@ export const president_2012_tic_227_region_48 = [
     "ballot": "presidential",
     "tikTvd": "2482000302166",
     "tikName": "Липецк, Октябрьская",
+    "regionCode": "48",
+    "regionTvd": "100100031793900",
+    "regionName": "Липецкая область",
     "uikCount": 79,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 172524,
@@ -1671,6 +1731,9 @@ export const president_2012_tic_227_region_48 = [
     "ballot": "presidential",
     "tikTvd": "2482000302167",
     "tikName": "Лебедянская",
+    "regionCode": "48",
+    "regionTvd": "100100031793900",
+    "regionName": "Липецкая область",
     "uikCount": 47,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 35885,
@@ -1765,6 +1828,9 @@ export const president_2012_tic_227_region_48 = [
     "ballot": "presidential",
     "tikTvd": "2482000302168",
     "tikName": "Липецк, Советская",
+    "regionCode": "48",
+    "regionTvd": "100100031793900",
+    "regionName": "Липецкая область",
     "uikCount": 69,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 135883,
@@ -1881,6 +1947,9 @@ export const president_2012_tic_227_region_48 = [
     "ballot": "presidential",
     "tikTvd": "2482000302169",
     "tikName": "Липецк, Правобережная",
+    "regionCode": "48",
+    "regionTvd": "100100031793900",
+    "regionName": "Липецкая область",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 67002,

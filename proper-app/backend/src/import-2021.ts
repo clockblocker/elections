@@ -57,12 +57,14 @@ async function bootstrap(): Promise<{ electionId: number; ballotId: number; regi
 
   await db.unsafe(`
     INSERT INTO analysis_methods (slug, version, name, description, parameters)
-    VALUES ('shpilkin-odds-v1', 1, 'Regional baseline odds', $1, $2::jsonb)
+    VALUES ('peer-clt-v2', 2, 'Peer-conditioned CLT residuals', $1, $2::jsonb)
     ON CONFLICT (slug) DO UPDATE SET version = EXCLUDED.version, name = EXCLUDED.name,
       description = EXCLUDED.description, parameters = EXCLUDED.parameters
   `, [
-    "Estimates target-party excess votes above a turnout threshold from target-to-other valid-vote odds observed in a configurable reference turnout band.",
-    JSON.stringify({ referenceTurnoutMin: 20, referenceTurnoutMax: 50, analysisTurnoutMin: 50, positiveExcessOnly: true, degIncluded: false })
+    "Leave-one-out TIK/region peer expectations with hierarchical shrinkage, robust overdispersion, empirical P_sus calibration, and Benjamini-Yekutieli review q-values.",
+    JSON.stringify({ turnoutBinWidth: 2.5, turnoutWindow: 10, minTikPeers: 8,
+      minRegionPeers: 30, tikPriorBallots: 2000, regionPriorBallots: 10000,
+      dispersionPriorPoints: 30, fdrThreshold: 0.05, degIncluded: false })
   ]);
   return { electionId, ballotId: Number(ballot.id), regionIds };
 }
@@ -179,7 +181,7 @@ await db.unsafe(`
     missing_party_protocols = EXCLUDED.missing_party_protocols, deg_policy = EXCLUDED.deg_policy,
     source_schema_version = EXCLUDED.source_schema_version, updated_at = now()
 `, [electionId, coverage.regions.length, totals.tiks, totals.uiks, imported, totals.missing,
-  "excluded-outside-shpilkin-model", coverage.schema_version]);
+  "excluded-outside-peer-clt-model", coverage.schema_version]);
 
 if (imported !== totals.party) throw new Error(`Imported ${imported} protocols, coverage declares ${totals.party}`);
 console.log(`2021 party-list import complete: ${imported.toLocaleString()} physical UIK protocols`);

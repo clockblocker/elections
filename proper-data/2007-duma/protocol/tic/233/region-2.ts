@@ -11,6 +11,9 @@ export const duma_2007_tic_233_region_2 = [
     "ballot": "party",
     "tikTvd": "2042000103120",
     "tikName": "Шебалинская",
+    "regionCode": "2",
+    "regionTvd": "100100021960188",
+    "regionName": "Республика Алтай",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 10224,
@@ -87,6 +90,9 @@ export const duma_2007_tic_233_region_2 = [
     "ballot": "party",
     "tikTvd": "2042000103121",
     "tikName": "Чойская",
+    "regionCode": "2",
+    "regionTvd": "100100021960188",
+    "regionName": "Республика Алтай",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 6368,
@@ -155,6 +161,9 @@ export const duma_2007_tic_233_region_2 = [
     "ballot": "party",
     "tikTvd": "2042000103122",
     "tikName": "Чемальская",
+    "regionCode": "2",
+    "regionTvd": "100100021960188",
+    "regionName": "Республика Алтай",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 6790,
@@ -231,6 +240,9 @@ export const duma_2007_tic_233_region_2 = [
     "ballot": "party",
     "tikTvd": "2042000103123",
     "tikName": "Усть-Коксинская",
+    "regionCode": "2",
+    "regionTvd": "100100021960188",
+    "regionName": "Республика Алтай",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 11412,
@@ -316,6 +328,9 @@ export const duma_2007_tic_233_region_2 = [
     "ballot": "party",
     "tikTvd": "2042000103124",
     "tikName": "Усть-Канская",
+    "regionCode": "2",
+    "regionTvd": "100100021960188",
+    "regionName": "Республика Алтай",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 9959,
@@ -394,6 +409,9 @@ export const duma_2007_tic_233_region_2 = [
     "ballot": "party",
     "tikTvd": "2042000103125",
     "tikName": "Улаганская",
+    "regionCode": "2",
+    "regionTvd": "100100021960188",
+    "regionName": "Республика Алтай",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 7473,
@@ -459,6 +477,9 @@ export const duma_2007_tic_233_region_2 = [
     "ballot": "party",
     "tikTvd": "2042000103126",
     "tikName": "Турочакская",
+    "regionCode": "2",
+    "regionTvd": "100100021960188",
+    "regionName": "Республика Алтай",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 9641,
@@ -535,6 +556,9 @@ export const duma_2007_tic_233_region_2 = [
     "ballot": "party",
     "tikTvd": "2042000103127",
     "tikName": "Онгудайская",
+    "regionCode": "2",
+    "regionTvd": "100100021960188",
+    "regionName": "Республика Алтай",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 11050,
@@ -615,6 +639,9 @@ export const duma_2007_tic_233_region_2 = [
     "ballot": "party",
     "tikTvd": "2042000103128",
     "tikName": "Майминская",
+    "regionCode": "2",
+    "regionTvd": "100100021960188",
+    "regionName": "Республика Алтай",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 19860,
@@ -697,6 +724,9 @@ export const duma_2007_tic_233_region_2 = [
     "ballot": "party",
     "tikTvd": "2042000103129",
     "tikName": "Кош-Агачская",
+    "regionCode": "2",
+    "regionTvd": "100100021960188",
+    "regionName": "Республика Алтай",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 11467,
@@ -769,6 +799,9 @@ export const duma_2007_tic_233_region_2 = [
     "ballot": "party",
     "tikTvd": "2042000103130",
     "tikName": "Горно-Алтайская городская",
+    "regionCode": "2",
+    "regionTvd": "100100021960188",
+    "regionName": "Республика Алтай",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 40239,

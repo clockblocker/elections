@@ -19,6 +19,17 @@ export type CandidateRegistrySource = Readonly<{
   retrievedAt?: string;
   finalUrl?: string;
   provenance?: "live-official" | "wayback";
+  winnerSource: WinnerRegistrySource;
+}>;
+
+export type WinnerRegistrySource = Readonly<{
+  url: string;
+  sha256: string;
+  resolution: "61/467-8";
+  resolutionDate: "2021-09-24";
+  retrievedAt?: string;
+  finalUrl?: string;
+  provenance?: "live-official" | "wayback";
 }>;
 
 export type DistrictCandidate = Readonly<{

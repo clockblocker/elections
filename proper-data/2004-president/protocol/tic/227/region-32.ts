@@ -11,6 +11,9 @@ export const president_2004_tic_227_region_32 = [
     "ballot": "presidential",
     "tikTvd": "232200074335",
     "tikName": "Брянск, Володарская",
+    "regionCode": "32",
+    "regionTvd": "1001000883228",
+    "regionName": "Брянская область",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список": 65294,
@@ -86,6 +89,9 @@ export const president_2004_tic_227_region_32 = [
     "ballot": "presidential",
     "tikTvd": "232200074336",
     "tikName": "Клинцовская",
+    "regionCode": "32",
+    "regionTvd": "1001000883228",
+    "regionName": "Брянская область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список": 17049,
@@ -170,6 +176,9 @@ export const president_2004_tic_227_region_32 = [
     "ballot": "presidential",
     "tikTvd": "232200074337",
     "tikName": "Новозыбковская",
+    "regionCode": "32",
+    "regionTvd": "1001000883228",
+    "regionName": "Брянская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список": 10031,
@@ -242,6 +251,9 @@ export const president_2004_tic_227_region_32 = [
     "ballot": "presidential",
     "tikTvd": "232200074338",
     "tikName": "Унечская",
+    "regionCode": "32",
+    "regionTvd": "1001000883228",
+    "regionName": "Брянская область",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, внесенных в список": 36202,
@@ -331,6 +343,9 @@ export const president_2004_tic_227_region_32 = [
     "ballot": "presidential",
     "tikTvd": "232200074339",
     "tikName": "Трубчевская",
+    "regionCode": "32",
+    "regionTvd": "1001000883228",
+    "regionName": "Брянская область",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, внесенных в список": 30115,
@@ -423,6 +438,9 @@ export const president_2004_tic_227_region_32 = [
     "ballot": "presidential",
     "tikTvd": "232200074340",
     "tikName": "Брасовская",
+    "regionCode": "32",
+    "regionTvd": "1001000883228",
+    "regionName": "Брянская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в список": 18314,
@@ -505,6 +523,9 @@ export const president_2004_tic_227_region_32 = [
     "ballot": "presidential",
     "tikTvd": "232200074341",
     "tikName": "Брянск, Бежицкая",
+    "regionCode": "32",
+    "regionTvd": "1001000883228",
+    "regionName": "Брянская область",
     "uikCount": 62,
     "accounting": {
       "Число избирателей, внесенных в список": 136398,
@@ -615,6 +636,9 @@ export const president_2004_tic_227_region_32 = [
     "ballot": "presidential",
     "tikTvd": "232200074342",
     "tikName": "Жуковская ",
+    "regionCode": "32",
+    "regionTvd": "1001000883228",
+    "regionName": "Брянская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в список": 29953,
@@ -703,6 +727,9 @@ export const president_2004_tic_227_region_32 = [
     "ballot": "presidential",
     "tikTvd": "232200074343",
     "tikName": "Жирятинская",
+    "regionCode": "32",
+    "regionTvd": "1001000883228",
+    "regionName": "Брянская область",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в список": 5719,
@@ -765,6 +792,9 @@ export const president_2004_tic_227_region_32 = [
     "ballot": "presidential",
     "tikTvd": "232200074344",
     "tikName": "ТИК г. Дятьково и Дятьковского района",
+    "regionCode": "32",
+    "regionTvd": "1001000883228",
+    "regionName": "Брянская область",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, внесенных в список": 62201,
@@ -855,6 +885,9 @@ export const president_2004_tic_227_region_32 = [
     "ballot": "presidential",
     "tikTvd": "232200074345",
     "tikName": "Дубровская",
+    "regionCode": "32",
+    "regionTvd": "1001000883228",
+    "regionName": "Брянская область",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список": 17123,
@@ -930,6 +963,9 @@ export const president_2004_tic_227_region_32 = [
     "ballot": "presidential",
     "tikTvd": "232200074346",
     "tikName": "Гордеевская",
+    "regionCode": "32",
+    "regionTvd": "1001000883228",
+    "regionName": "Брянская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список": 9894,
@@ -1004,6 +1040,9 @@ export const president_2004_tic_227_region_32 = [
     "ballot": "presidential",
     "tikTvd": "232200074347",
     "tikName": "Выгоничская",
+    "regionCode": "32",
+    "regionTvd": "1001000883228",
+    "regionName": "Брянская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в список": 17471,
@@ -1082,6 +1121,9 @@ export const president_2004_tic_227_region_32 = [
     "ballot": "presidential",
     "tikTvd": "232200074348",
     "tikName": "Брянская",
+    "regionCode": "32",
+    "regionTvd": "1001000883228",
+    "regionName": "Брянская область",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, внесенных в список": 41841,
@@ -1174,6 +1216,9 @@ export const president_2004_tic_227_region_32 = [
     "ballot": "presidential",
     "tikTvd": "232200074349",
     "tikName": "Брянск, Советская",
+    "regionCode": "32",
+    "regionTvd": "1001000883228",
+    "regionName": "Брянская область",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, внесенных в список": 98953,
@@ -1268,6 +1313,9 @@ export const president_2004_tic_227_region_32 = [
     "ballot": "presidential",
     "tikTvd": "232200074350",
     "tikName": "Брянск, Фокинская",
+    "regionCode": "32",
+    "regionTvd": "1001000883228",
+    "regionName": "Брянская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в список": 69704,
@@ -1346,6 +1394,9 @@ export const president_2004_tic_227_region_32 = [
     "ballot": "presidential",
     "tikTvd": "232200074351",
     "tikName": "Навлинская",
+    "regionCode": "32",
+    "regionTvd": "1001000883228",
+    "regionName": "Брянская область",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в список": 22751,
@@ -1427,6 +1478,9 @@ export const president_2004_tic_227_region_32 = [
     "ballot": "presidential",
     "tikTvd": "232200074352",
     "tikName": "Мглинская",
+    "regionCode": "32",
+    "regionTvd": "1001000883228",
+    "regionName": "Брянская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в список": 16134,
@@ -1505,6 +1559,9 @@ export const president_2004_tic_227_region_32 = [
     "ballot": "presidential",
     "tikTvd": "232200074353",
     "tikName": "Красногорская",
+    "regionCode": "32",
+    "regionTvd": "1001000883228",
+    "regionName": "Брянская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список": 12976,
@@ -1581,6 +1638,9 @@ export const president_2004_tic_227_region_32 = [
     "ballot": "presidential",
     "tikTvd": "232200074354",
     "tikName": "Комаричская",
+    "regionCode": "32",
+    "regionTvd": "1001000883228",
+    "regionName": "Брянская область",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в список": 14377,
@@ -1662,6 +1722,9 @@ export const president_2004_tic_227_region_32 = [
     "ballot": "presidential",
     "tikTvd": "232200074355",
     "tikName": "Климовская",
+    "regionCode": "32",
+    "regionTvd": "1001000883228",
+    "regionName": "Брянская область",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, внесенных в список": 26814,
@@ -1753,6 +1816,9 @@ export const president_2004_tic_227_region_32 = [
     "ballot": "presidential",
     "tikTvd": "232200074356",
     "tikName": "Клетнянская",
+    "regionCode": "32",
+    "regionTvd": "1001000883228",
+    "regionName": "Брянская область",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в список": 16652,
@@ -1833,6 +1899,9 @@ export const president_2004_tic_227_region_32 = [
     "ballot": "presidential",
     "tikTvd": "232200074357",
     "tikName": "Клинцовская городская",
+    "regionCode": "32",
+    "regionTvd": "1001000883228",
+    "regionName": "Брянская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в список": 56518,
@@ -1912,6 +1981,9 @@ export const president_2004_tic_227_region_32 = [
     "ballot": "presidential",
     "tikTvd": "232200074358",
     "tikName": "Злынковская",
+    "regionCode": "32",
+    "regionTvd": "1001000883228",
+    "regionName": "Брянская область",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в список": 10301,
@@ -1976,6 +2048,9 @@ export const president_2004_tic_227_region_32 = [
     "ballot": "presidential",
     "tikTvd": "232200074359",
     "tikName": "Суражская",
+    "regionCode": "32",
+    "regionTvd": "1001000883228",
+    "regionName": "Брянская область",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в список": 20971,
@@ -2061,6 +2136,9 @@ export const president_2004_tic_227_region_32 = [
     "ballot": "presidential",
     "tikTvd": "232200074360",
     "tikName": "Карачевская",
+    "regionCode": "32",
+    "regionTvd": "1001000883228",
+    "regionName": "Брянская область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список": 29527,
@@ -2145,6 +2223,9 @@ export const president_2004_tic_227_region_32 = [
     "ballot": "presidential",
     "tikTvd": "232200074361",
     "tikName": "Суземская",
+    "regionCode": "32",
+    "regionTvd": "1001000883228",
+    "regionName": "Брянская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список": 14280,
@@ -2219,6 +2300,9 @@ export const president_2004_tic_227_region_32 = [
     "ballot": "presidential",
     "tikTvd": "232200074362",
     "tikName": "Стародубская",
+    "regionCode": "32",
+    "regionTvd": "1001000883228",
+    "regionName": "Брянская область",
     "uikCount": 59,
     "accounting": {
       "Число избирателей, внесенных в список": 33529,
@@ -2326,6 +2410,9 @@ export const president_2004_tic_227_region_32 = [
     "ballot": "presidential",
     "tikTvd": "232200074363",
     "tikName": "Сельцовская городская",
+    "regionCode": "32",
+    "regionTvd": "1001000883228",
+    "regionName": "Брянская область",
     "uikCount": 9,
     "accounting": {
       "Число избирателей, внесенных в список": 15985,
@@ -2383,6 +2470,9 @@ export const president_2004_tic_227_region_32 = [
     "ballot": "presidential",
     "tikTvd": "232200074364",
     "tikName": "Почепская",
+    "regionCode": "32",
+    "regionTvd": "1001000883228",
+    "regionName": "Брянская область",
     "uikCount": 56,
     "accounting": {
       "Число избирателей, внесенных в список": 34451,
@@ -2487,6 +2577,9 @@ export const president_2004_tic_227_region_32 = [
     "ballot": "presidential",
     "tikTvd": "232200074365",
     "tikName": "Севская",
+    "regionCode": "32",
+    "regionTvd": "1001000883228",
+    "regionName": "Брянская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в список": 14221,
@@ -2569,6 +2662,9 @@ export const president_2004_tic_227_region_32 = [
     "ballot": "presidential",
     "tikTvd": "232200074366",
     "tikName": "Рогнединская",
+    "regionCode": "32",
+    "regionTvd": "1001000883228",
+    "regionName": "Брянская область",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в список": 6506,
@@ -2634,6 +2730,9 @@ export const president_2004_tic_227_region_32 = [
     "ballot": "presidential",
     "tikTvd": "232200074367",
     "tikName": "Новозыбковская городская",
+    "regionCode": "32",
+    "regionTvd": "1001000883228",
+    "regionName": "Брянская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список": 34949,
@@ -2700,6 +2799,9 @@ export const president_2004_tic_227_region_32 = [
     "ballot": "presidential",
     "tikTvd": "232200074368",
     "tikName": "Погарская",
+    "regionCode": "32",
+    "regionTvd": "1001000883228",
+    "regionName": "Брянская область",
     "uikCount": 51,
     "accounting": {
       "Число избирателей, внесенных в список": 25717,

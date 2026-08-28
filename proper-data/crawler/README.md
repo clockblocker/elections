@@ -14,6 +14,8 @@ The election VRN is `100100225883172`.
 
 | Type | Page contents | Output |
 | --- | --- | --- |
+| 220 | official OIK candidate registry | `districts.ts`, `districts/region-*` |
+| CEC Resolution 61/467-8 appendix | immutable 24 Sep 2021 list of 225 winners | district `isElected` and `winnerSource` |
 | 233 | party table, UIKs in columns below one TIK | `tic/233`, extracted `uik/242` |
 | 242 | direct party protocol for one UIK | `uik/242` |
 | 464 | candidate table, UIKs in columns below one TIK | `tic/464`, extracted `uik/463` |
@@ -67,24 +69,30 @@ Descendants come from the official endpoint:
 ```
 
 ```sh
-backend/.venv/bin/python proper-data/crawler/duma2021.py discover \
+proper-app/.venv/bin/python proper-data/crawler/duma2021.py discover \
   --root-html data/raw/duma-2021-single-member-cec/index/a52134a1b6d1e88209d6.html \
   --output reports/generated/gas-duma-2021/hierarchy.json
 ```
 
-Use `--region 22 --region 93` for a smaller discovery. Output includes region/TIK/UIK
-counts, exact UIK-to-TIK relations, and unresolved load-on-demand nodes. Discovery
-then fetches each TIK's official navigation page and extracts its exact type 233 and
-464 links. Require both `complete` and `report_links_complete` to be true.
+Use `--region 22 --region 93` for a smaller discovery. Output includes the complete
+region → district/OIK → TIK → UIK topology, commission names and TVDs, and
+unresolved load-on-demand nodes. Discovery then fetches each TIK's official
+navigation page, requires its one exact `ОИК №…` breadcrumb, follows one such
+link per OIK, and extracts the exact type 220 candidate-registry link from that OIK
+page. Types 233 and 464 also come from exact official navigation. Require `complete`,
+`report_links_complete`, and `candidate_registry_links_complete` to be true.
 
 ## 2. Non-mutating dry run
 
-The normal plan uses two TIK-column requests per TIK. This supplies every UIK while
-marking its derivation `extracted-tic-column`. `--direct-uik` also plans direct UIK
-protocols as duplicate official observations for stronger reconciliation.
+The normal plan uses two TIK-column requests per TIK, one type 220 registry per
+district, and the archived official appendix to CEC Resolution 61/467-8 (5,944
+requests nationally: 5,718 results, 225 registries, and one immutable winner source).
+This supplies every UIK while marking its derivation `extracted-tic-column`.
+`--direct-uik` also plans direct UIK protocols as duplicate official observations for
+stronger reconciliation.
 
 ```sh
-backend/.venv/bin/python proper-data/crawler/duma2021.py plan \
+proper-app/.venv/bin/python proper-data/crawler/duma2021.py plan \
   --hierarchy reports/generated/gas-duma-2021/hierarchy.json \
   --rate 10 --concurrency 6 \
   --output reports/generated/gas-duma-2021/plan.json
@@ -101,7 +109,7 @@ direct UIK page. Preserved live pages retain their original timestamp; exact Way
 fallbacks are marked explicitly.
 
 ```sh
-backend/.venv/bin/python proper-data/crawler/duma2021.py probe \
+proper-app/.venv/bin/python proper-data/crawler/duma2021.py probe \
   --spec proper-data/crawler/probe-2021-duma.json \
   --raw-dir data/raw/gas-duma-2021-probe \
   --report reports/generated/gas-duma-2021/probe.json
@@ -115,7 +123,7 @@ UIK page before the nationwide run.
 Start and resume are the same idempotent command:
 
 ```sh
-backend/.venv/bin/python proper-data/crawler/duma2021.py crawl \
+proper-app/.venv/bin/python proper-data/crawler/duma2021.py crawl \
   --plan reports/generated/gas-duma-2021/plan.json \
   --raw-dir data/raw/gas-duma-2021 \
   --report reports/generated/gas-duma-2021/crawl.json
@@ -124,7 +132,7 @@ backend/.venv/bin/python proper-data/crawler/duma2021.py crawl \
 Retry only absent, failed, or non-2xx observations:
 
 ```sh
-backend/.venv/bin/python proper-data/crawler/duma2021.py crawl \
+proper-app/.venv/bin/python proper-data/crawler/duma2021.py crawl \
   --plan reports/generated/gas-duma-2021/plan.json \
   --raw-dir data/raw/gas-duma-2021 --only-failures \
   --report reports/generated/gas-duma-2021/retry.json
@@ -135,11 +143,12 @@ tables, and ETA. The raw manifest is the checkpoint after interruption.
 
 ## 5. Offline generation and validation
 
-Decode, transpose, pair the two ballots, and reconcile UIK sums to TIK totals without
-refetching:
+Decode, transpose, pair the two ballots, reconcile UIK sums to TIK totals, and join
+single-member result labels to registered official candidates by district and exact
+normalized full name without refetching:
 
 ```sh
-backend/.venv/bin/python proper-data/crawler/duma2021.py build \
+proper-app/.venv/bin/python proper-data/crawler/duma2021.py build \
   --hierarchy reports/generated/gas-duma-2021/hierarchy.json \
   --crawl-report reports/generated/gas-duma-2021/crawl.json \
   --raw-dir data/raw/gas-duma-2021 \
@@ -151,13 +160,13 @@ protocol pages. Rebuild with that report so agreeing direct observations gain di
 provenance and official error documents appear in final coverage.
 
 ```sh
-backend/.venv/bin/python proper-data/crawler/duma2021.py recover-gaps \
+proper-app/.venv/bin/python proper-data/crawler/duma2021.py recover-gaps \
   --hierarchy reports/generated/gas-duma-2021/hierarchy.json \
   --protocols reports/generated/gas-duma-2021/protocols.json \
   --raw-dir data/raw/gas-duma-2021 \
   --report reports/generated/gas-duma-2021/direct-recovery.json
 
-backend/.venv/bin/python proper-data/crawler/duma2021.py build \
+proper-app/.venv/bin/python proper-data/crawler/duma2021.py build \
   --hierarchy reports/generated/gas-duma-2021/hierarchy.json \
   --crawl-report reports/generated/gas-duma-2021/crawl.json \
   --additional-crawl-report reports/generated/gas-duma-2021/direct-recovery.json \
@@ -168,28 +177,49 @@ backend/.venv/bin/python proper-data/crawler/duma2021.py build \
 Then regenerate TypeScript offline:
 
 ```sh
-backend/.venv/bin/python proper-data/crawler/generate_typescript.py \
+proper-app/.venv/bin/python proper-data/crawler/generate_typescript.py \
   reports/generated/gas-duma-2021/protocols.json \
   --output proper-data/2021-duma --shard-by-region --shard-size 250
 ```
 
 The generator sorts deterministically, writes atomically, removes stale generated
 files, emits legal identifiers and autogenerated warnings, and retains `direct` versus
-`extracted-tic-column`. Nationwide output uses deterministic regional batches to stay
-within TypeScript's union-size limit. The logical layout is:
+`extracted-tic-column`. Single-member vote maps use candidate `vibid` keys, while the
+separate catalog supplies names, nominating entities, registration status, and the
+live type 220 mandate status. Because that status changes when mandates are vacated or
+later reassigned, `isElected` is joined from the immutable 24 September 2021 CEC
+resolution; every district retains both independently hashed sources. Nationwide
+output uses deterministic regional batches to stay within TypeScript's union-size
+limit. The logical layout is:
 
 ```text
 proper-data/2021-duma/uik-to-tik.ts
 proper-data/2021-duma/uik-to-tik/region-{region}.ts
+proper-data/2021-duma/districts.ts
+proper-data/2021-duma/districts/region-{region}.ts
 proper-data/2021-duma/protocol/types.ts
 proper-data/2021-duma/protocol/tic/{233,464}/region-{region}.ts
 proper-data/2021-duma/protocol/uik/{242,463}/region-{region}-part-{batch}.ts
 ```
 
+Generation refuses to publish 2021 Duma files unless all district gates pass:
+
+1. exactly 225 unique district numbers `1…225` and OIK TVDs;
+2. every TIK and UIK has one region and district/OIK assignment;
+3. every result candidate matches one registered type 220 candidate;
+4. every district has exactly one official election-date winner from CEC Resolution
+   61/467-8, matched to one registered type 220 candidate;
+5. that official winner equals the unique highest district vote total; and
+6. every type 220 source is present and SHA-256 hashed with live/Wayback provenance.
+
+The winner gate also requires the official CEC appendix itself to be present, hashed,
+and parsed as a conflict-free set of districts `1…225`; generation records its
+Wayback provenance in each district's `winnerSource`.
+
 Create the machine-readable regional coverage report:
 
 ```sh
-backend/.venv/bin/python proper-data/crawler/duma2021.py validate \
+proper-app/.venv/bin/python proper-data/crawler/duma2021.py validate \
   --hierarchy reports/generated/gas-duma-2021/hierarchy.json \
   --crawl-report reports/generated/gas-duma-2021/crawl.json \
   --additional-crawl-report reports/generated/gas-duma-2021/direct-recovery.json \
@@ -203,9 +233,9 @@ missing types, failed URLs/error classes, live/Wayback counts, and reconciliatio
 ## Required checks before commit
 
 ```sh
-backend/.venv/bin/python -m unittest discover -s proper-data/crawler/tests -v
-backend/.venv/bin/ruff check proper-data/crawler
-frontend/node_modules/.bin/tsc --project proper-data/tsconfig.json --noEmit
+proper-app/.venv/bin/python -m unittest discover -s proper-data/crawler/tests -v
+proper-app/.venv/bin/ruff check proper-data/crawler
+proper-app/frontend/node_modules/.bin/tsc --project proper-data/tsconfig.json --noEmit
 git diff --check
 git grep -nEi '(https?://[^/[:space:]]+:[^/@[:space:]]+@|BEGIN (RSA |OPENSSH )?PRIVATE KEY|api[_-]?key|proxy[^[:space:]]*password)' -- proper-data/crawler proper-data/2021-duma
 ```
@@ -240,7 +270,7 @@ Always inspect a dry run before network access. Discover the checked-in inventor
 show exact archived-official entry URLs:
 
 ```sh
-backend/.venv/bin/python proper-data/crawler/historical.py plan \
+proper-app/.venv/bin/python proper-data/crawler/historical.py plan \
   --source-mode archive-only --rate 10 --concurrency 2 \
   --output reports/generated/gas-duma-history/archive-entry-plan.json
 ```
@@ -249,11 +279,11 @@ Probe one election or all known elections. The same command resumes from verifie
 hashes after interruption:
 
 ```sh
-backend/.venv/bin/python proper-data/crawler/historical.py probe \
+proper-app/.venv/bin/python proper-data/crawler/historical.py probe \
   --year 2011 --source-mode archive-only \
   --report reports/generated/gas-duma-history/2011-entry.json
 
-backend/.venv/bin/python proper-data/crawler/historical.py probe \
+proper-app/.venv/bin/python proper-data/crawler/historical.py probe \
   --source-mode archive-only \
   --report reports/generated/gas-duma-history/all-entries.json
 ```
@@ -273,37 +303,37 @@ the raw manifest remains the atomic restart checkpoint.
 For each `YEAR` in `2003 2007 2011 2016`, run:
 
 ```sh
-backend/.venv/bin/python proper-data/crawler/historical_nationwide.py discover \
+proper-app/.venv/bin/python proper-data/crawler/historical_nationwide.py discover \
   --year YEAR --raw-dir data/raw/gas-duma-YEAR \
   --output reports/generated/gas-duma-YEAR/hierarchy.json
 
-backend/.venv/bin/python proper-data/crawler/historical_nationwide.py plan \
+proper-app/.venv/bin/python proper-data/crawler/historical_nationwide.py plan \
   --year YEAR --raw-dir data/raw/gas-duma-YEAR \
   --hierarchy reports/generated/gas-duma-YEAR/hierarchy.json \
   --output reports/generated/gas-duma-YEAR/plan.json
 
-backend/.venv/bin/python proper-data/crawler/historical_nationwide.py crawl \
+proper-app/.venv/bin/python proper-data/crawler/historical_nationwide.py crawl \
   --year YEAR --raw-dir data/raw/gas-duma-YEAR \
   --plan reports/generated/gas-duma-YEAR/plan.json \
   --report reports/generated/gas-duma-YEAR/crawl.json
 
-backend/.venv/bin/python proper-data/crawler/historical_nationwide.py build \
+proper-app/.venv/bin/python proper-data/crawler/historical_nationwide.py build \
   --year YEAR --raw-dir data/raw/gas-duma-YEAR \
   --hierarchy reports/generated/gas-duma-YEAR/hierarchy.json \
   --crawl-report reports/generated/gas-duma-YEAR/crawl.json \
   --output reports/generated/gas-duma-YEAR/protocols.json
 
-backend/.venv/bin/python proper-data/crawler/historical_nationwide.py recover-gaps \
+proper-app/.venv/bin/python proper-data/crawler/historical_nationwide.py recover-gaps \
   --year YEAR --raw-dir data/raw/gas-duma-YEAR \
   --hierarchy reports/generated/gas-duma-YEAR/hierarchy.json \
   --protocols reports/generated/gas-duma-YEAR/protocols.json \
   --report reports/generated/gas-duma-YEAR/direct-recovery.json
 
-backend/.venv/bin/python proper-data/crawler/generate_historical_typescript.py \
+proper-app/.venv/bin/python proper-data/crawler/generate_historical_typescript.py \
   reports/generated/gas-duma-YEAR/protocols.json \
   --output proper-data/YEAR-duma --shard-size 250
 
-backend/.venv/bin/python proper-data/crawler/historical_nationwide.py validate \
+proper-app/.venv/bin/python proper-data/crawler/historical_nationwide.py validate \
   --year YEAR --raw-dir data/raw/gas-duma-YEAR \
   --hierarchy reports/generated/gas-duma-YEAR/hierarchy.json \
   --protocols reports/generated/gas-duma-YEAR/protocols.json \
@@ -322,6 +352,15 @@ accounting rows are separated by their official `Число ...` labels rather t
 reconciles every aggregate row, and reports missing hierarchy UIKs without silently
 dropping them. Generated TypeScript is deterministically sharded by region in the
 same logical layout as 2021.
+
+Historical generation rebuilds commission ancestry from the saved tree on every
+offline build. Every UIK/TIK/relation carries the official region code, region TVD,
+and region name. The 2003 and 2016 single-member trees additionally carry the exact
+OIK TVD/name and district number: generation requires 225 unique OIK TVDs and the
+complete `1..225` number set, joined only from the `ОИК №…` breadcrumb whose link
+targets that OIK in a hashed official TIK result page. The party-only 2007/2011 trees
+and all presidential trees emit no invented OIK; their relation has `district: null`.
+Intermediate navigation groupings in those trees are never promoted to districts.
 
 ### Completed nationwide historical run (2026-08-26)
 
@@ -394,13 +433,13 @@ verified. To choose different regions or TIKs, copy the JSON and retain only exa
 evidence-derived URLs. Never manufacture TVDs arithmetically.
 
 ```sh
-backend/.venv/bin/python proper-data/crawler/historical.py probe-spec \
+proper-app/.venv/bin/python proper-data/crawler/historical.py probe-spec \
   --spec proper-data/crawler/historical-probes.json \
   --source-mode live-only --rate 5 --concurrency 2 \
   --raw-dir data/raw/gas-duma-history-live \
   --report reports/generated/gas-duma-history/live-core-probes.json --dry-run
 
-backend/.venv/bin/python proper-data/crawler/historical.py probe-spec \
+proper-app/.venv/bin/python proper-data/crawler/historical.py probe-spec \
   --spec proper-data/crawler/historical-probes.json \
   --source-mode live-only --rate 5 --concurrency 2 \
   --raw-dir data/raw/gas-duma-history-live \
@@ -410,7 +449,7 @@ backend/.venv/bin/python proper-data/crawler/historical.py probe-spec \
 Resume with the second command. Retry only absent, failed, or non-2xx observations:
 
 ```sh
-backend/.venv/bin/python proper-data/crawler/historical.py probe-spec \
+proper-app/.venv/bin/python proper-data/crawler/historical.py probe-spec \
   --spec proper-data/crawler/historical-probes.json --source-mode live-only \
   --raw-dir data/raw/gas-duma-history-live --only-failures \
   --report reports/generated/gas-duma-history/core-retry.json
@@ -421,18 +460,18 @@ The checked-in selection registry chooses Kamchatka and Moscow, two TIKs per reg
 every applicable contest, and up to three UIKs per TIK (all UIKs when fewer exist):
 
 ```sh
-backend/.venv/bin/python proper-data/crawler/historical.py make-sample-spec \
+proper-app/.venv/bin/python proper-data/crawler/historical.py make-sample-spec \
   --hierarchy-report reports/generated/gas-duma-history/live-core-probes.json \
   --selections proper-data/crawler/historical-protocol-selections.json \
   --output reports/generated/gas-duma-history/live-protocol-probe-spec.json
 
-backend/.venv/bin/python proper-data/crawler/historical.py probe-spec \
+proper-app/.venv/bin/python proper-data/crawler/historical.py probe-spec \
   --spec reports/generated/gas-duma-history/live-protocol-probe-spec.json \
   --source-mode live-only --rate 5 --concurrency 2 \
   --raw-dir data/raw/gas-duma-history-live \
   --report reports/generated/gas-duma-history/live-protocol-probes.json --dry-run
 
-backend/.venv/bin/python proper-data/crawler/historical.py probe-spec \
+proper-app/.venv/bin/python proper-data/crawler/historical.py probe-spec \
   --spec reports/generated/gas-duma-history/live-protocol-probe-spec.json \
   --source-mode live-only --rate 5 --concurrency 2 \
   --raw-dir data/raw/gas-duma-history-live \
@@ -444,7 +483,7 @@ Validate election/type identity, hierarchy versus UIK headers, aggregate arithme
 and direct UIK/TIK rows against the paired aggregate report without network access:
 
 ```sh
-backend/.venv/bin/python proper-data/crawler/historical.py validate-samples \
+proper-app/.venv/bin/python proper-data/crawler/historical.py validate-samples \
   --probe-report reports/generated/gas-duma-history/live-protocol-probes.json \
   --output reports/generated/gas-duma-history/live-protocol-validation.json
 ```
@@ -453,7 +492,7 @@ Decode or classify preserved responses with no network access. Add
 `--direct-protocol` for a verified leaf/TIK protocol table:
 
 ```sh
-backend/.venv/bin/python proper-data/crawler/historical.py classify \
+proper-app/.venv/bin/python proper-data/crawler/historical.py classify \
   --input data/raw/gas-duma-history-live/sha256/84/84891d562e218ea23c2e0bbc1a58a6b3517d36077b6104fc75f1c0bef82238f8 \
   --direct-protocol \
   --output reports/generated/gas-duma-history/decoded-2011-aleut.json
@@ -463,11 +502,11 @@ Generate only verified sample TypeScript protocols, then validate the checked-in
 availability matrix and evidence hashes:
 
 ```sh
-backend/.venv/bin/python proper-data/crawler/historical.py generate-samples \
+proper-app/.venv/bin/python proper-data/crawler/historical.py generate-samples \
   --probe-report reports/generated/gas-duma-history/live-protocol-probes.json \
   --output-root proper-data
 
-backend/.venv/bin/python proper-data/crawler/historical.py validate-matrix \
+proper-app/.venv/bin/python proper-data/crawler/historical.py validate-matrix \
   --matrix proper-data/historical-duma-availability.json
 ```
 

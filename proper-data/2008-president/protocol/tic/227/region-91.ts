@@ -11,6 +11,9 @@ export const president_2008_tic_227_region_91 = [
     "ballot": "presidential",
     "tikTvd": "2412000122540",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100022250003",
+    "regionName": "Камчатский край",
     "uikCount": 147,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 6131,
@@ -205,6 +208,9 @@ export const president_2008_tic_227_region_91 = [
     "ballot": "presidential",
     "tikTvd": "2412000122541",
     "tikName": "Усть-Камчатская",
+    "regionCode": "91",
+    "regionTvd": "100100022250003",
+    "regionName": "Камчатский край",
     "uikCount": 9,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 10081,
@@ -261,6 +267,9 @@ export const president_2008_tic_227_region_91 = [
     "ballot": "presidential",
     "tikTvd": "2412000122542",
     "tikName": "Усть-Большерецкая",
+    "regionCode": "91",
+    "regionTvd": "100100022250003",
+    "regionName": "Камчатский край",
     "uikCount": 8,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 6713,
@@ -316,6 +325,9 @@ export const president_2008_tic_227_region_91 = [
     "ballot": "presidential",
     "tikTvd": "2412000122543",
     "tikName": "Соболевская",
+    "regionCode": "91",
+    "regionTvd": "100100022250003",
+    "regionName": "Камчатский край",
     "uikCount": 4,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 1918,
@@ -367,6 +379,9 @@ export const president_2008_tic_227_region_91 = [
     "ballot": "presidential",
     "tikTvd": "2412000122544",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100022250003",
+    "regionName": "Камчатский край",
     "uikCount": 87,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 140811,
@@ -501,6 +516,9 @@ export const president_2008_tic_227_region_91 = [
     "ballot": "presidential",
     "tikTvd": "2412000122545",
     "tikName": "Мильковская",
+    "regionCode": "91",
+    "regionTvd": "100100022250003",
+    "regionName": "Камчатский край",
     "uikCount": 10,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 8147,
@@ -558,6 +576,9 @@ export const president_2008_tic_227_region_91 = [
     "ballot": "presidential",
     "tikTvd": "2412000122546",
     "tikName": "Елизовская",
+    "regionCode": "91",
+    "regionTvd": "100100022250003",
+    "regionName": "Камчатский край",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 49988,
@@ -642,6 +663,9 @@ export const president_2008_tic_227_region_91 = [
     "ballot": "presidential",
     "tikTvd": "2412000122547",
     "tikName": "Вилючинская ",
+    "regionCode": "91",
+    "regionTvd": "100100022250003",
+    "regionName": "Камчатский край",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 18419,
@@ -705,6 +729,9 @@ export const president_2008_tic_227_region_91 = [
     "ballot": "presidential",
     "tikTvd": "2412000122548",
     "tikName": "Алеутская",
+    "regionCode": "91",
+    "regionTvd": "100100022250003",
+    "regionName": "Камчатский край",
     "uikCount": 1,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 554,
@@ -753,6 +780,9 @@ export const president_2008_tic_227_region_91 = [
     "ballot": "presidential",
     "tikTvd": "2412000122549",
     "tikName": "Быстринская",
+    "regionCode": "91",
+    "regionTvd": "100100022250003",
+    "regionName": "Камчатский край",
     "uikCount": 2,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 2237,
@@ -802,6 +832,9 @@ export const president_2008_tic_227_region_91 = [
     "ballot": "presidential",
     "tikTvd": "2412000122550",
     "tikName": "Карагинская",
+    "regionCode": "91",
+    "regionTvd": "100100022250003",
+    "regionName": "Камчатский край",
     "uikCount": 6,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 3818,
@@ -855,6 +888,9 @@ export const president_2008_tic_227_region_91 = [
     "ballot": "presidential",
     "tikTvd": "2412000122551",
     "tikName": "Олюторская",
+    "regionCode": "91",
+    "regionTvd": "100100022250003",
+    "regionName": "Камчатский край",
     "uikCount": 8,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 3725,
@@ -910,6 +946,9 @@ export const president_2008_tic_227_region_91 = [
     "ballot": "presidential",
     "tikTvd": "2412000122552",
     "tikName": "Пенжинская",
+    "regionCode": "91",
+    "regionTvd": "100100022250003",
+    "regionName": "Камчатский край",
     "uikCount": 7,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 1701,
@@ -964,6 +1003,9 @@ export const president_2008_tic_227_region_91 = [
     "ballot": "presidential",
     "tikTvd": "2412000122553",
     "tikName": "Тигильская",
+    "regionCode": "91",
+    "regionTvd": "100100022250003",
+    "regionName": "Камчатский край",
     "uikCount": 7,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 3503,
@@ -1018,6 +1060,9 @@ export const president_2008_tic_227_region_91 = [
     "ballot": "presidential",
     "tikTvd": "2412000122554",
     "tikName": "Паланская городская",
+    "regionCode": "91",
+    "regionTvd": "100100022250003",
+    "regionName": "Камчатский край",
     "uikCount": 1,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 2465,

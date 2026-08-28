@@ -1,3 +1,3 @@
-from .shpilkin_v1 import Analysis, Parameters, Point, analyze
+from .peer_clt_v2 import Analysis, Parameters, Point, PointEstimate, analyze
 
-__all__ = ["Analysis", "Parameters", "Point", "analyze"]
+__all__ = ["Analysis", "Parameters", "Point", "PointEstimate", "analyze"]

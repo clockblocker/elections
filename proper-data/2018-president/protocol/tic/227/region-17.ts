@@ -11,6 +11,9 @@ export const president_2018_tic_227_region_17 = [
     "ballot": "presidential",
     "tikTvd": "2172000521591",
     "tikName": "Ак-Довуракская",
+    "regionCode": "17",
+    "regionTvd": "100100084849143",
+    "regionName": "Республика Тыва",
     "uikCount": 6,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 6508,
@@ -61,6 +64,9 @@ export const president_2018_tic_227_region_17 = [
     "ballot": "presidential",
     "tikTvd": "2172000521608",
     "tikName": "Каа-Хемская",
+    "regionCode": "17",
+    "regionTvd": "100100084849143",
+    "regionName": "Республика Тыва",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 7192,
@@ -120,6 +126,9 @@ export const president_2018_tic_227_region_17 = [
     "ballot": "presidential",
     "tikTvd": "2172000521609",
     "tikName": "Монгун-Тайгинская",
+    "regionCode": "17",
+    "regionTvd": "100100084849143",
+    "regionName": "Республика Тыва",
     "uikCount": 3,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 3078,
@@ -167,6 +176,9 @@ export const president_2018_tic_227_region_17 = [
     "ballot": "presidential",
     "tikTvd": "2172000521610",
     "tikName": "Барун-Хемчикская",
+    "regionCode": "17",
+    "regionTvd": "100100084849143",
+    "regionName": "Республика Тыва",
     "uikCount": 10,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 7211,
@@ -221,6 +233,9 @@ export const president_2018_tic_227_region_17 = [
     "ballot": "presidential",
     "tikTvd": "2172000521611",
     "tikName": "Тандинская",
+    "regionCode": "17",
+    "regionTvd": "100100084849143",
+    "regionName": "Республика Тыва",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 6384,
@@ -276,6 +291,9 @@ export const president_2018_tic_227_region_17 = [
     "ballot": "presidential",
     "tikTvd": "2172000521612",
     "tikName": "Улуг-Хемская",
+    "regionCode": "17",
+    "regionTvd": "100100084849143",
+    "regionName": "Республика Тыва",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10379,
@@ -333,6 +351,9 @@ export const president_2018_tic_227_region_17 = [
     "ballot": "presidential",
     "tikTvd": "2172000521613",
     "tikName": "Тере-Хольская",
+    "regionCode": "17",
+    "regionTvd": "100100084849143",
+    "regionName": "Республика Тыва",
     "uikCount": 2,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 1007,
@@ -379,6 +400,9 @@ export const president_2018_tic_227_region_17 = [
     "ballot": "presidential",
     "tikTvd": "2172000521614",
     "tikName": "Пий-Хемская",
+    "regionCode": "17",
+    "regionTvd": "100100084849143",
+    "regionName": "Республика Тыва",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 7479,
@@ -436,6 +460,9 @@ export const president_2018_tic_227_region_17 = [
     "ballot": "presidential",
     "tikTvd": "2172000521615",
     "tikName": "Чеди-Хольская",
+    "regionCode": "17",
+    "regionTvd": "100100084849143",
+    "regionName": "Республика Тыва",
     "uikCount": 6,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 4291,
@@ -486,6 +513,9 @@ export const president_2018_tic_227_region_17 = [
     "ballot": "presidential",
     "tikTvd": "2172000521616",
     "tikName": "Эрзинская",
+    "regionCode": "17",
+    "regionTvd": "100100084849143",
+    "regionName": "Республика Тыва",
     "uikCount": 6,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 4004,
@@ -536,6 +566,9 @@ export const president_2018_tic_227_region_17 = [
     "ballot": "presidential",
     "tikTvd": "2172000521617",
     "tikName": "Кызылская",
+    "regionCode": "17",
+    "regionTvd": "100100084849143",
+    "regionName": "Республика Тыва",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 14965,
@@ -594,6 +627,9 @@ export const president_2018_tic_227_region_17 = [
     "ballot": "presidential",
     "tikTvd": "2172000521618",
     "tikName": "Дзун-Хемчикская",
+    "regionCode": "17",
+    "regionTvd": "100100084849143",
+    "regionName": "Республика Тыва",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10798,
@@ -653,6 +689,9 @@ export const president_2018_tic_227_region_17 = [
     "ballot": "presidential",
     "tikTvd": "2172000521619",
     "tikName": "Тоджинская",
+    "regionCode": "17",
+    "regionTvd": "100100084849143",
+    "regionName": "Республика Тыва",
     "uikCount": 6,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 3665,
@@ -703,6 +742,9 @@ export const president_2018_tic_227_region_17 = [
     "ballot": "presidential",
     "tikTvd": "2172000521620",
     "tikName": "Чаа-Хольская",
+    "regionCode": "17",
+    "regionTvd": "100100084849143",
+    "regionName": "Республика Тыва",
     "uikCount": 4,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 3603,
@@ -751,6 +793,9 @@ export const president_2018_tic_227_region_17 = [
     "ballot": "presidential",
     "tikTvd": "2172000521621",
     "tikName": "Овюрская",
+    "regionCode": "17",
+    "regionTvd": "100100084849143",
+    "regionName": "Республика Тыва",
     "uikCount": 6,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 4221,
@@ -801,6 +846,9 @@ export const president_2018_tic_227_region_17 = [
     "ballot": "presidential",
     "tikTvd": "2172000521622",
     "tikName": "Тес-Хемская",
+    "regionCode": "17",
+    "regionTvd": "100100084849143",
+    "regionName": "Республика Тыва",
     "uikCount": 7,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 4610,
@@ -852,6 +900,9 @@ export const president_2018_tic_227_region_17 = [
     "ballot": "presidential",
     "tikTvd": "2172000521623",
     "tikName": "Бай-Тайгинская",
+    "regionCode": "17",
+    "regionTvd": "100100084849143",
+    "regionName": "Республика Тыва",
     "uikCount": 7,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 5063,
@@ -903,6 +954,9 @@ export const president_2018_tic_227_region_17 = [
     "ballot": "presidential",
     "tikTvd": "2172000521624",
     "tikName": "Кызылская городская",
+    "regionCode": "17",
+    "regionTvd": "100100084849143",
+    "regionName": "Республика Тыва",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 65895,
@@ -979,6 +1033,9 @@ export const president_2018_tic_227_region_17 = [
     "ballot": "presidential",
     "tikTvd": "2172000521625",
     "tikName": "Сут-Хольская",
+    "regionCode": "17",
+    "regionTvd": "100100084849143",
+    "regionName": "Республика Тыва",
     "uikCount": 7,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 4749,

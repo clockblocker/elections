@@ -11,6 +11,9 @@ export const president_2024_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "21620003681025",
     "tikName": "Мензелинская",
+    "regionCode": "16",
+    "regionTvd": "100100339411210",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 20426,
@@ -97,6 +100,9 @@ export const president_2024_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "21620003681026",
     "tikName": "Лениногорская городская",
+    "regionCode": "16",
+    "regionTvd": "100100339411210",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 44004,
@@ -161,6 +167,9 @@ export const president_2024_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "21620003681027",
     "tikName": "Пестречинская",
+    "regionCode": "16",
+    "regionTvd": "100100339411210",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 45787,
@@ -238,6 +247,9 @@ export const president_2024_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "21620003681028",
     "tikName": "Зеленодольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100339411210",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 75114,
@@ -317,6 +329,9 @@ export const president_2024_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "21620003681029",
     "tikName": "Нижнекамская",
+    "regionCode": "16",
+    "regionTvd": "100100339411210",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 27826,
@@ -390,6 +405,9 @@ export const president_2024_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "21620003681030",
     "tikName": "Спасская",
+    "regionCode": "16",
+    "regionTvd": "100100339411210",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 13597,
@@ -468,6 +486,9 @@ export const president_2024_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "21620003681031",
     "tikName": "Заинская",
+    "regionCode": "16",
+    "regionTvd": "100100339411210",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9474,
@@ -549,6 +570,9 @@ export const president_2024_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "21620003681032",
     "tikName": "Елабужская городская",
+    "regionCode": "16",
+    "regionTvd": "100100339411210",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 52389,
@@ -628,6 +652,9 @@ export const president_2024_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "21620003681033",
     "tikName": "Черемшанская",
+    "regionCode": "16",
+    "regionTvd": "100100339411210",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 13414,
@@ -702,6 +729,9 @@ export const president_2024_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "21620003681034",
     "tikName": "Рыбно-Слободская",
+    "regionCode": "16",
+    "regionTvd": "100100339411210",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 47,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 19130,
@@ -789,6 +819,9 @@ export const president_2024_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "21620003681037",
     "tikName": "Казань, Кировская",
+    "regionCode": "16",
+    "regionTvd": "100100339411210",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 97389,
@@ -879,6 +912,9 @@ export const president_2024_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "21620003681038",
     "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100339411210",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 53,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 30398,
@@ -972,6 +1008,9 @@ export const president_2024_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "21620003681039",
     "tikName": "Актанышская",
+    "regionCode": "16",
+    "regionTvd": "100100339411210",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 20660,
@@ -1053,6 +1092,9 @@ export const president_2024_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "21620003681040",
     "tikName": "Кайбицкая",
+    "regionCode": "16",
+    "regionTvd": "100100339411210",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9527,
@@ -1124,6 +1166,9 @@ export const president_2024_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "21620003681041",
     "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100339411210",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 54,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 36076,
@@ -1218,6 +1263,9 @@ export const president_2024_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "21620003681044",
     "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100339411210",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 88906,
@@ -1308,6 +1356,9 @@ export const president_2024_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "21620003681045",
     "tikName": "Бугульминская",
+    "regionCode": "16",
+    "regionTvd": "100100339411210",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 15031,
@@ -1377,6 +1428,9 @@ export const president_2024_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "21620003681046",
     "tikName": "Бавлинская",
+    "regionCode": "16",
+    "regionTvd": "100100339411210",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 8830,
@@ -1437,6 +1491,9 @@ export const president_2024_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "21620003681049",
     "tikName": "Казань, Ново-Савиновская",
+    "regionCode": "16",
+    "regionTvd": "100100339411210",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 77,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 161084,
@@ -1554,6 +1611,9 @@ export const president_2024_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "21620003681050",
     "tikName": "Верхнеуслонская",
+    "regionCode": "16",
+    "regionTvd": "100100339411210",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 15563,
@@ -1629,6 +1689,9 @@ export const president_2024_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "21620003681051",
     "tikName": "Лаишевская",
+    "regionCode": "16",
+    "regionTvd": "100100339411210",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 53,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 46202,
@@ -1722,6 +1785,9 @@ export const president_2024_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "21620003681052",
     "tikName": "Сармановская",
+    "regionCode": "16",
+    "regionTvd": "100100339411210",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 25107,
@@ -1805,6 +1871,9 @@ export const president_2024_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "21620003681053",
     "tikName": "Алексеевская",
+    "regionCode": "16",
+    "regionTvd": "100100339411210",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 18231,
@@ -1887,6 +1956,9 @@ export const president_2024_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "21620003681054",
     "tikName": "Арская",
+    "regionCode": "16",
+    "regionTvd": "100100339411210",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 62,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 38292,
@@ -1989,6 +2061,9 @@ export const president_2024_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "21620003681057",
     "tikName": "Казань, Авиастроительная",
+    "regionCode": "16",
+    "regionTvd": "100100339411210",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 90558,
@@ -2071,6 +2146,9 @@ export const president_2024_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "21620003681058",
     "tikName": "Казань, Приволжская",
+    "regionCode": "16",
+    "regionTvd": "100100339411210",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 92,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 198916,
@@ -2203,6 +2281,9 @@ export const president_2024_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "21620003681059",
     "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100339411210",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 57,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 50505,
@@ -2300,6 +2381,9 @@ export const president_2024_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "21620003681060",
     "tikName": "Тюлячинская",
+    "regionCode": "16",
+    "regionTvd": "100100339411210",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10098,
@@ -2367,6 +2451,9 @@ export const president_2024_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "21620003681063",
     "tikName": "Тукаевская",
+    "regionCode": "16",
+    "regionTvd": "100100339411210",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 37550,
@@ -2451,6 +2538,9 @@ export const president_2024_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "21620003681064",
     "tikName": "Заинская городская",
+    "regionCode": "16",
+    "regionTvd": "100100339411210",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 28009,
@@ -2511,6 +2601,9 @@ export const president_2024_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "21620003681065",
     "tikName": "Азнакаевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100339411210",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 25577,
@@ -2571,6 +2664,9 @@ export const president_2024_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "21620003681066",
     "tikName": "Балтасинская",
+    "regionCode": "16",
+    "regionTvd": "100100339411210",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 24442,
@@ -2645,6 +2741,9 @@ export const president_2024_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "21620003681067",
     "tikName": "Ютазинская",
+    "regionCode": "16",
+    "regionTvd": "100100339411210",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 15409,
@@ -2710,6 +2809,9 @@ export const president_2024_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "21620003681068",
     "tikName": "Высокогорская",
+    "regionCode": "16",
+    "regionTvd": "100100339411210",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 47,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 46808,
@@ -2797,6 +2899,9 @@ export const president_2024_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "21620003681069",
     "tikName": "Апастовская",
+    "regionCode": "16",
+    "regionTvd": "100100339411210",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 54,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 14281,
@@ -2891,6 +2996,9 @@ export const president_2024_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "21620003681070",
     "tikName": "Буинская",
+    "regionCode": "16",
+    "regionTvd": "100100339411210",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 47,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 16171,
@@ -2978,6 +3086,9 @@ export const president_2024_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "21620003681071",
     "tikName": "Казань, Вахитовская",
+    "regionCode": "16",
+    "regionTvd": "100100339411210",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 64431,
@@ -3060,6 +3171,9 @@ export const president_2024_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "21620003681072",
     "tikName": "Новошешминская",
+    "regionCode": "16",
+    "regionTvd": "100100339411210",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10211,
@@ -3127,6 +3241,9 @@ export const president_2024_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "21620003681073",
     "tikName": "Аксубаевская",
+    "regionCode": "16",
+    "regionTvd": "100100339411210",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 19917,
@@ -3208,6 +3325,9 @@ export const president_2024_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "21620003681074",
     "tikName": "Елабужская",
+    "regionCode": "16",
+    "regionTvd": "100100339411210",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 8936,
@@ -3271,6 +3391,9 @@ export const president_2024_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "21620003681077",
     "tikName": "Набережные Челны, Автозаводская",
+    "regionCode": "16",
+    "regionTvd": "100100339411210",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 57,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 131158,
@@ -3368,6 +3491,9 @@ export const president_2024_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "21620003681078",
     "tikName": "Агрызская",
+    "regionCode": "16",
+    "regionTvd": "100100339411210",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 23065,
@@ -3454,6 +3580,9 @@ export const president_2024_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "21620003681079",
     "tikName": "Азнакаевская",
+    "regionCode": "16",
+    "regionTvd": "100100339411210",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 19473,
@@ -3536,6 +3665,9 @@ export const president_2024_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "21620003681080",
     "tikName": "Сабинская",
+    "regionCode": "16",
+    "regionTvd": "100100339411210",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 23211,
@@ -3616,6 +3748,9 @@ export const president_2024_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "21620003681081",
     "tikName": "Камско-Устьинская",
+    "regionCode": "16",
+    "regionTvd": "100100339411210",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 12047,
@@ -3692,6 +3827,9 @@ export const president_2024_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "21620003681082",
     "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100339411210",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 84,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 166274,
@@ -3816,6 +3954,9 @@ export const president_2024_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "21620003681085",
     "tikName": "Набережные Челны, Центральная",
+    "regionCode": "16",
+    "regionTvd": "100100339411210",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 67,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 150233,
@@ -3923,6 +4064,9 @@ export const president_2024_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "21620003681086",
     "tikName": "Чистопольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100339411210",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 44471,
@@ -3988,6 +4132,9 @@ export const president_2024_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "21620003681087",
     "tikName": "Нурлатская городская",
+    "regionCode": "16",
+    "regionTvd": "100100339411210",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 25373,
@@ -4044,6 +4191,9 @@ export const president_2024_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "21620003681088",
     "tikName": "Атнинская",
+    "regionCode": "16",
+    "regionTvd": "100100339411210",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9358,
@@ -4107,6 +4257,9 @@ export const president_2024_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "21620003681089",
     "tikName": "Тетюшская",
+    "regionCode": "16",
+    "regionTvd": "100100339411210",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 15720,
@@ -4187,6 +4340,9 @@ export const president_2024_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "21620003681090",
     "tikName": "Буинская городская",
+    "regionCode": "16",
+    "regionTvd": "100100339411210",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 15563,
@@ -4242,6 +4398,9 @@ export const president_2024_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "21620003681091",
     "tikName": "Бугульминская городская",
+    "regionCode": "16",
+    "regionTvd": "100100339411210",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 48,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 61505,
@@ -4330,6 +4489,9 @@ export const president_2024_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "21620003681092",
     "tikName": "Нурлатская",
+    "regionCode": "16",
+    "regionTvd": "100100339411210",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 14782,
@@ -4410,6 +4572,9 @@ export const president_2024_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "21620003681093",
     "tikName": "Алькеевская",
+    "regionCode": "16",
+    "regionTvd": "100100339411210",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 49,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 13145,
@@ -4499,6 +4664,9 @@ export const president_2024_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "21620003681094",
     "tikName": "Чистопольская",
+    "regionCode": "16",
+    "regionTvd": "100100339411210",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 11892,
@@ -4573,6 +4741,9 @@ export const president_2024_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "21620003681095",
     "tikName": "Муслюмовская",
+    "regionCode": "16",
+    "regionTvd": "100100339411210",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 14740,
@@ -4643,6 +4814,9 @@ export const president_2024_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "21620003681096",
     "tikName": "Бавлинская городская",
+    "regionCode": "16",
+    "regionTvd": "100100339411210",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 16223,
@@ -4699,6 +4873,9 @@ export const president_2024_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "21620003681097",
     "tikName": "Набережные Челны, Комсомольская",
+    "regionCode": "16",
+    "regionTvd": "100100339411210",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 49,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 110091,
@@ -4788,6 +4965,9 @@ export const president_2024_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "21620003681098",
     "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100339411210",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 62,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 110748,
@@ -4890,6 +5070,9 @@ export const president_2024_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "21620003681099",
     "tikName": "Кукморская",
+    "regionCode": "16",
+    "regionTvd": "100100339411210",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 68,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 38308,
@@ -4998,6 +5181,9 @@ export const president_2024_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "21620003681100",
     "tikName": "Дрожжановская",
+    "regionCode": "16",
+    "regionTvd": "100100339411210",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 15856,
@@ -5074,6 +5260,9 @@ export const president_2024_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "21620003681101",
     "tikName": "Менделеевская",
+    "regionCode": "16",
+    "regionTvd": "100100339411210",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 20626,
@@ -5153,6 +5342,9 @@ export const president_2024_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "21620003681102",
     "tikName": "Лениногорская",
+    "regionCode": "16",
+    "regionTvd": "100100339411210",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 14616,
@@ -5225,6 +5417,9 @@ export const president_2024_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "21620003681103",
     "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100339411210",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 113,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 258819,

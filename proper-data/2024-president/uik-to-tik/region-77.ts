@@ -7,13225 +7,24245 @@ export const president_2024_uik_to_tik_region_77 = [
   {
     "uikNumber": 1,
     "uikTvd": "4774079193611",
+    "uikName": "УИК №1",
     "tikTvd": "27720002782229",
-    "tikName": "район Арбат"
+    "tikName": "район Арбат",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2,
     "uikTvd": "4774079193612",
+    "uikName": "УИК №2",
     "tikTvd": "27720002782229",
-    "tikName": "район Арбат"
+    "tikName": "район Арбат",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 4,
     "uikTvd": "4774079193613",
+    "uikName": "УИК №4",
     "tikTvd": "27720002782229",
-    "tikName": "район Арбат"
+    "tikName": "район Арбат",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 9,
     "uikTvd": "4774079193614",
+    "uikName": "УИК №9",
     "tikTvd": "27720002782229",
-    "tikName": "район Арбат"
+    "tikName": "район Арбат",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 10,
     "uikTvd": "4774080322658",
+    "uikName": "УИК №10",
     "tikTvd": "27720002782279",
-    "tikName": "Басманный район"
+    "tikName": "Басманный район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 13,
     "uikTvd": "4774080322659",
+    "uikName": "УИК №13",
     "tikTvd": "27720002782279",
-    "tikName": "Басманный район"
+    "tikName": "Басманный район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 14,
     "uikTvd": "4774080322660",
+    "uikName": "УИК №14",
     "tikTvd": "27720002782279",
-    "tikName": "Басманный район"
+    "tikName": "Басманный район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 18,
     "uikTvd": "4774080322661",
+    "uikName": "УИК №18",
     "tikTvd": "27720002782279",
-    "tikName": "Басманный район"
+    "tikName": "Басманный район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 21,
     "uikTvd": "4774080322662",
+    "uikName": "УИК №21",
     "tikTvd": "27720002782279",
-    "tikName": "Басманный район"
+    "tikName": "Басманный район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 23,
     "uikTvd": "4774080322663",
+    "uikName": "УИК №23",
     "tikTvd": "27720002782279",
-    "tikName": "Басманный район"
+    "tikName": "Басманный район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 24,
     "uikTvd": "4774080322664",
+    "uikName": "УИК №24",
     "tikTvd": "27720002782279",
-    "tikName": "Басманный район"
+    "tikName": "Басманный район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 25,
     "uikTvd": "4774080322665",
+    "uikName": "УИК №25",
     "tikTvd": "27720002782279",
-    "tikName": "Басманный район"
+    "tikName": "Басманный район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 26,
     "uikTvd": "4774080322666",
+    "uikName": "УИК №26",
     "tikTvd": "27720002782279",
-    "tikName": "Басманный район"
+    "tikName": "Басманный район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 27,
     "uikTvd": "4774080322667",
+    "uikName": "УИК №27",
     "tikTvd": "27720002782279",
-    "tikName": "Басманный район"
+    "tikName": "Басманный район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 29,
     "uikTvd": "4774080322668",
+    "uikName": "УИК №29",
     "tikTvd": "27720002782279",
-    "tikName": "Басманный район"
+    "tikName": "Басманный район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 30,
     "uikTvd": "4774080322669",
+    "uikName": "УИК №30",
     "tikTvd": "27720002782279",
-    "tikName": "Басманный район"
+    "tikName": "Басманный район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 32,
     "uikTvd": "4774080322670",
+    "uikName": "УИК №32",
     "tikTvd": "27720002782279",
-    "tikName": "Басманный район"
+    "tikName": "Басманный район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 33,
     "uikTvd": "4774080322671",
+    "uikName": "УИК №33",
     "tikTvd": "27720002782279",
-    "tikName": "Басманный район"
+    "tikName": "Басманный район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 34,
     "uikTvd": "4774080322672",
+    "uikName": "УИК №34",
     "tikTvd": "27720002782279",
-    "tikName": "Басманный район"
+    "tikName": "Басманный район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 36,
     "uikTvd": "4774080322673",
+    "uikName": "УИК №36",
     "tikTvd": "27720002782279",
-    "tikName": "Басманный район"
+    "tikName": "Басманный район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 37,
     "uikTvd": "4774080322674",
+    "uikName": "УИК №37",
     "tikTvd": "27720002782279",
-    "tikName": "Басманный район"
+    "tikName": "Басманный район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 38,
     "uikTvd": "4774081206535",
+    "uikName": "УИК №38",
     "tikTvd": "27720002782337",
-    "tikName": "район Замоскворечье"
+    "tikName": "район Замоскворечье",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 40,
     "uikTvd": "4774081206536",
+    "uikName": "УИК №40",
     "tikTvd": "27720002782337",
-    "tikName": "район Замоскворечье"
+    "tikName": "район Замоскворечье",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 41,
     "uikTvd": "4774081206537",
+    "uikName": "УИК №41",
     "tikTvd": "27720002782337",
-    "tikName": "район Замоскворечье"
+    "tikName": "район Замоскворечье",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 42,
     "uikTvd": "4774081206538",
+    "uikName": "УИК №42",
     "tikTvd": "27720002782337",
-    "tikName": "район Замоскворечье"
+    "tikName": "район Замоскворечье",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 45,
     "uikTvd": "4774081206539",
+    "uikName": "УИК №45",
     "tikTvd": "27720002782337",
-    "tikName": "район Замоскворечье"
+    "tikName": "район Замоскворечье",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 46,
     "uikTvd": "4774081206540",
+    "uikName": "УИК №46",
     "tikTvd": "27720002782337",
-    "tikName": "район Замоскворечье"
+    "tikName": "район Замоскворечье",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 48,
     "uikTvd": "4774081206541",
+    "uikName": "УИК №48",
     "tikTvd": "27720002782337",
-    "tikName": "район Замоскворечье"
+    "tikName": "район Замоскворечье",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 49,
     "uikTvd": "4774082326566",
+    "uikName": "УИК №49",
     "tikTvd": "27720002782223",
-    "tikName": "Красносельский район"
+    "tikName": "Красносельский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 50,
     "uikTvd": "4774082326567",
+    "uikName": "УИК №50",
     "tikTvd": "27720002782223",
-    "tikName": "Красносельский район"
+    "tikName": "Красносельский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 51,
     "uikTvd": "4774082326568",
+    "uikName": "УИК №51",
     "tikTvd": "27720002782223",
-    "tikName": "Красносельский район"
+    "tikName": "Красносельский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 54,
     "uikTvd": "4774082326569",
+    "uikName": "УИК №54",
     "tikTvd": "27720002782223",
-    "tikName": "Красносельский район"
+    "tikName": "Красносельский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 55,
     "uikTvd": "4774082326570",
+    "uikName": "УИК №55",
     "tikTvd": "27720002782223",
-    "tikName": "Красносельский район"
+    "tikName": "Красносельский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 56,
     "uikTvd": "4774082326571",
+    "uikName": "УИК №56",
     "tikTvd": "27720002782223",
-    "tikName": "Красносельский район"
+    "tikName": "Красносельский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 59,
     "uikTvd": "4774083222724",
+    "uikName": "УИК №59",
     "tikTvd": "27720002782308",
-    "tikName": "Мещанский район"
+    "tikName": "Мещанский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 61,
     "uikTvd": "4774083222725",
+    "uikName": "УИК №61",
     "tikTvd": "27720002782308",
-    "tikName": "Мещанский район"
+    "tikName": "Мещанский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 62,
     "uikTvd": "4774083222726",
+    "uikName": "УИК №62",
     "tikTvd": "27720002782308",
-    "tikName": "Мещанский район"
+    "tikName": "Мещанский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 63,
     "uikTvd": "4774083222727",
+    "uikName": "УИК №63",
     "tikTvd": "27720002782308",
-    "tikName": "Мещанский район"
+    "tikName": "Мещанский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 64,
     "uikTvd": "4774083222728",
+    "uikName": "УИК №64",
     "tikTvd": "27720002782308",
-    "tikName": "Мещанский район"
+    "tikName": "Мещанский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 66,
     "uikTvd": "4774083222729",
+    "uikName": "УИК №66",
     "tikTvd": "27720002782308",
-    "tikName": "Мещанский район"
+    "tikName": "Мещанский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 67,
     "uikTvd": "4774083222730",
+    "uikName": "УИК №67",
     "tikTvd": "27720002782308",
-    "tikName": "Мещанский район"
+    "tikName": "Мещанский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 69,
     "uikTvd": "4774083222731",
+    "uikName": "УИК №69",
     "tikTvd": "27720002782308",
-    "tikName": "Мещанский район"
+    "tikName": "Мещанский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 70,
     "uikTvd": "4774083222732",
+    "uikName": "УИК №70",
     "tikTvd": "27720002782308",
-    "tikName": "Мещанский район"
+    "tikName": "Мещанский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 72,
     "uikTvd": "4774083222733",
+    "uikName": "УИК №72",
     "tikTvd": "27720002782308",
-    "tikName": "Мещанский район"
+    "tikName": "Мещанский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 73,
     "uikTvd": "4774084463370",
+    "uikName": "УИК №73",
     "tikTvd": "27720002782259",
-    "tikName": "Пресненский район"
+    "tikName": "Пресненский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 74,
     "uikTvd": "4774084463371",
+    "uikName": "УИК №74",
     "tikTvd": "27720002782259",
-    "tikName": "Пресненский район"
+    "tikName": "Пресненский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 75,
     "uikTvd": "4774084463372",
+    "uikName": "УИК №75",
     "tikTvd": "27720002782259",
-    "tikName": "Пресненский район"
+    "tikName": "Пресненский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 78,
     "uikTvd": "4774084463373",
+    "uikName": "УИК №78",
     "tikTvd": "27720002782259",
-    "tikName": "Пресненский район"
+    "tikName": "Пресненский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 80,
     "uikTvd": "4774084463374",
+    "uikName": "УИК №80",
     "tikTvd": "27720002782259",
-    "tikName": "Пресненский район"
+    "tikName": "Пресненский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 83,
     "uikTvd": "4774084463375",
+    "uikName": "УИК №83",
     "tikTvd": "27720002782259",
-    "tikName": "Пресненский район"
+    "tikName": "Пресненский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 84,
     "uikTvd": "4774084463376",
+    "uikName": "УИК №84",
     "tikTvd": "27720002782259",
-    "tikName": "Пресненский район"
+    "tikName": "Пресненский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 85,
     "uikTvd": "4774084463377",
+    "uikName": "УИК №85",
     "tikTvd": "27720002782259",
-    "tikName": "Пресненский район"
+    "tikName": "Пресненский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 87,
     "uikTvd": "4774084463378",
+    "uikName": "УИК №87",
     "tikTvd": "27720002782259",
-    "tikName": "Пресненский район"
+    "tikName": "Пресненский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 88,
     "uikTvd": "4774084463379",
+    "uikName": "УИК №88",
     "tikTvd": "27720002782259",
-    "tikName": "Пресненский район"
+    "tikName": "Пресненский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 90,
     "uikTvd": "4774084463380",
+    "uikName": "УИК №90",
     "tikTvd": "27720002782259",
-    "tikName": "Пресненский район"
+    "tikName": "Пресненский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 92,
     "uikTvd": "4774084463381",
+    "uikName": "УИК №92",
     "tikTvd": "27720002782259",
-    "tikName": "Пресненский район"
+    "tikName": "Пресненский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 93,
     "uikTvd": "4774084463382",
+    "uikName": "УИК №93",
     "tikTvd": "27720002782259",
-    "tikName": "Пресненский район"
+    "tikName": "Пресненский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 96,
     "uikTvd": "4774084463383",
+    "uikName": "УИК №96",
     "tikTvd": "27720002782259",
-    "tikName": "Пресненский район"
+    "tikName": "Пресненский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 97,
     "uikTvd": "4774084463384",
+    "uikName": "УИК №97",
     "tikTvd": "27720002782259",
-    "tikName": "Пресненский район"
+    "tikName": "Пресненский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 98,
     "uikTvd": "4774084463385",
+    "uikName": "УИК №98",
     "tikTvd": "27720002782259",
-    "tikName": "Пресненский район"
+    "tikName": "Пресненский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 100,
     "uikTvd": "4774084463386",
+    "uikName": "УИК №100",
     "tikTvd": "27720002782259",
-    "tikName": "Пресненский район"
+    "tikName": "Пресненский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 103,
     "uikTvd": "4774084463387",
+    "uikName": "УИК №103",
     "tikTvd": "27720002782259",
-    "tikName": "Пресненский район"
+    "tikName": "Пресненский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 104,
     "uikTvd": "4774084463388",
+    "uikName": "УИК №104",
     "tikTvd": "27720002782259",
-    "tikName": "Пресненский район"
+    "tikName": "Пресненский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 105,
     "uikTvd": "4774085328391",
+    "uikName": "УИК №105",
     "tikTvd": "27720002782239",
-    "tikName": "Таганский район"
+    "tikName": "Таганский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 106,
     "uikTvd": "4774085328392",
+    "uikName": "УИК №106",
     "tikTvd": "27720002782239",
-    "tikName": "Таганский район"
+    "tikName": "Таганский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 110,
     "uikTvd": "4774085328393",
+    "uikName": "УИК №110",
     "tikTvd": "27720002782239",
-    "tikName": "Таганский район"
+    "tikName": "Таганский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 111,
     "uikTvd": "4774085328394",
+    "uikName": "УИК №111",
     "tikTvd": "27720002782239",
-    "tikName": "Таганский район"
+    "tikName": "Таганский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 113,
     "uikTvd": "4774085328395",
+    "uikName": "УИК №113",
     "tikTvd": "27720002782239",
-    "tikName": "Таганский район"
+    "tikName": "Таганский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 115,
     "uikTvd": "4774085328396",
+    "uikName": "УИК №115",
     "tikTvd": "27720002782239",
-    "tikName": "Таганский район"
+    "tikName": "Таганский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 116,
     "uikTvd": "4774085328397",
+    "uikName": "УИК №116",
     "tikTvd": "27720002782239",
-    "tikName": "Таганский район"
+    "tikName": "Таганский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 118,
     "uikTvd": "4774085328398",
+    "uikName": "УИК №118",
     "tikTvd": "27720002782239",
-    "tikName": "Таганский район"
+    "tikName": "Таганский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 120,
     "uikTvd": "4774085328399",
+    "uikName": "УИК №120",
     "tikTvd": "27720002782239",
-    "tikName": "Таганский район"
+    "tikName": "Таганский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 122,
     "uikTvd": "4774085328400",
+    "uikName": "УИК №122",
     "tikTvd": "27720002782239",
-    "tikName": "Таганский район"
+    "tikName": "Таганский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 124,
     "uikTvd": "4774085328401",
+    "uikName": "УИК №124",
     "tikTvd": "27720002782239",
-    "tikName": "Таганский район"
+    "tikName": "Таганский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 125,
     "uikTvd": "4774085328402",
+    "uikName": "УИК №125",
     "tikTvd": "27720002782239",
-    "tikName": "Таганский район"
+    "tikName": "Таганский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 126,
     "uikTvd": "4774085328403",
+    "uikName": "УИК №126",
     "tikTvd": "27720002782239",
-    "tikName": "Таганский район"
+    "tikName": "Таганский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 128,
     "uikTvd": "4774085328404",
+    "uikName": "УИК №128",
     "tikTvd": "27720002782239",
-    "tikName": "Таганский район"
+    "tikName": "Таганский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 130,
     "uikTvd": "4774085328405",
+    "uikName": "УИК №130",
     "tikTvd": "27720002782239",
-    "tikName": "Таганский район"
+    "tikName": "Таганский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 132,
     "uikTvd": "4774085328406",
+    "uikName": "УИК №132",
     "tikTvd": "27720002782239",
-    "tikName": "Таганский район"
+    "tikName": "Таганский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 135,
     "uikTvd": "4774085328407",
+    "uikName": "УИК №135",
     "tikTvd": "27720002782239",
-    "tikName": "Таганский район"
+    "tikName": "Таганский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 136,
     "uikTvd": "4774085328408",
+    "uikName": "УИК №136",
     "tikTvd": "27720002782239",
-    "tikName": "Таганский район"
+    "tikName": "Таганский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 137,
     "uikTvd": "4774086273600",
+    "uikName": "УИК №137",
     "tikTvd": "27720002782193",
-    "tikName": "Тверской район"
+    "tikName": "Тверской район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 139,
     "uikTvd": "4774086273601",
+    "uikName": "УИК №139",
     "tikTvd": "27720002782193",
-    "tikName": "Тверской район"
+    "tikName": "Тверской район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 140,
     "uikTvd": "4774086273602",
+    "uikName": "УИК №140",
     "tikTvd": "27720002782193",
-    "tikName": "Тверской район"
+    "tikName": "Тверской район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 143,
     "uikTvd": "4774086273603",
+    "uikName": "УИК №143",
     "tikTvd": "27720002782193",
-    "tikName": "Тверской район"
+    "tikName": "Тверской район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 146,
     "uikTvd": "4774086273604",
+    "uikName": "УИК №146",
     "tikTvd": "27720002782193",
-    "tikName": "Тверской район"
+    "tikName": "Тверской район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 147,
     "uikTvd": "4774086273605",
+    "uikName": "УИК №147",
     "tikTvd": "27720002782193",
-    "tikName": "Тверской район"
+    "tikName": "Тверской район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 148,
     "uikTvd": "4774086273606",
+    "uikName": "УИК №148",
     "tikTvd": "27720002782193",
-    "tikName": "Тверской район"
+    "tikName": "Тверской район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 149,
     "uikTvd": "4774086273607",
+    "uikName": "УИК №149",
     "tikTvd": "27720002782193",
-    "tikName": "Тверской район"
+    "tikName": "Тверской район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 151,
     "uikTvd": "4774086273608",
+    "uikName": "УИК №151",
     "tikTvd": "27720002782193",
-    "tikName": "Тверской район"
+    "tikName": "Тверской район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 152,
     "uikTvd": "4774086273609",
+    "uikName": "УИК №152",
     "tikTvd": "27720002782193",
-    "tikName": "Тверской район"
+    "tikName": "Тверской район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 153,
     "uikTvd": "4774086273610",
+    "uikName": "УИК №153",
     "tikTvd": "27720002782193",
-    "tikName": "Тверской район"
+    "tikName": "Тверской район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 155,
     "uikTvd": "4774086273611",
+    "uikName": "УИК №155",
     "tikTvd": "27720002782193",
-    "tikName": "Тверской район"
+    "tikName": "Тверской район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 156,
     "uikTvd": "4774087271966",
+    "uikName": "УИК №156",
     "tikTvd": "27720002782317",
-    "tikName": "район Хамовники"
+    "tikName": "район Хамовники",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 157,
     "uikTvd": "4774087271967",
+    "uikName": "УИК №157",
     "tikTvd": "27720002782317",
-    "tikName": "район Хамовники"
+    "tikName": "район Хамовники",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 160,
     "uikTvd": "4774087271968",
+    "uikName": "УИК №160",
     "tikTvd": "27720002782317",
-    "tikName": "район Хамовники"
+    "tikName": "район Хамовники",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 162,
     "uikTvd": "4774087271969",
+    "uikName": "УИК №162",
     "tikTvd": "27720002782317",
-    "tikName": "район Хамовники"
+    "tikName": "район Хамовники",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 165,
     "uikTvd": "4774087271970",
+    "uikName": "УИК №165",
     "tikTvd": "27720002782317",
-    "tikName": "район Хамовники"
+    "tikName": "район Хамовники",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 166,
     "uikTvd": "4774087271971",
+    "uikName": "УИК №166",
     "tikTvd": "27720002782317",
-    "tikName": "район Хамовники"
+    "tikName": "район Хамовники",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 168,
     "uikTvd": "4774087271972",
+    "uikName": "УИК №168",
     "tikTvd": "27720002782317",
-    "tikName": "район Хамовники"
+    "tikName": "район Хамовники",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 170,
     "uikTvd": "4774087271973",
+    "uikName": "УИК №170",
     "tikTvd": "27720002782317",
-    "tikName": "район Хамовники"
+    "tikName": "район Хамовники",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 171,
     "uikTvd": "4774087271974",
+    "uikName": "УИК №171",
     "tikTvd": "27720002782317",
-    "tikName": "район Хамовники"
+    "tikName": "район Хамовники",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 172,
     "uikTvd": "4774087271975",
+    "uikName": "УИК №172",
     "tikTvd": "27720002782317",
-    "tikName": "район Хамовники"
+    "tikName": "район Хамовники",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 173,
     "uikTvd": "4774087271976",
+    "uikName": "УИК №173",
     "tikTvd": "27720002782317",
-    "tikName": "район Хамовники"
+    "tikName": "район Хамовники",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 179,
     "uikTvd": "4774087271977",
+    "uikName": "УИК №179",
     "tikTvd": "27720002782317",
-    "tikName": "район Хамовники"
+    "tikName": "район Хамовники",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 180,
     "uikTvd": "4774087271978",
+    "uikName": "УИК №180",
     "tikTvd": "27720002782317",
-    "tikName": "район Хамовники"
+    "tikName": "район Хамовники",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 182,
     "uikTvd": "4774088185454",
+    "uikName": "УИК №182",
     "tikTvd": "27720002782243",
-    "tikName": "район Якиманка"
+    "tikName": "район Якиманка",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 183,
     "uikTvd": "4774088185455",
+    "uikName": "УИК №183",
     "tikTvd": "27720002782243",
-    "tikName": "район Якиманка"
+    "tikName": "район Якиманка",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 186,
     "uikTvd": "4774088185456",
+    "uikName": "УИК №186",
     "tikTvd": "27720002782243",
-    "tikName": "район Якиманка"
+    "tikName": "район Якиманка",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 187,
     "uikTvd": "4774088185457",
+    "uikName": "УИК №187",
     "tikTvd": "27720002782243",
-    "tikName": "район Якиманка"
+    "tikName": "район Якиманка",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 188,
     "uikTvd": "4774037241706",
+    "uikName": "УИК №188",
     "tikTvd": "27720002782237",
-    "tikName": "район Аэропорт"
+    "tikName": "район Аэропорт",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 190,
     "uikTvd": "4774037241708",
+    "uikName": "УИК №190",
     "tikTvd": "27720002782237",
-    "tikName": "район Аэропорт"
+    "tikName": "район Аэропорт",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 192,
     "uikTvd": "4774037241709",
+    "uikName": "УИК №192",
     "tikTvd": "27720002782237",
-    "tikName": "район Аэропорт"
+    "tikName": "район Аэропорт",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 194,
     "uikTvd": "4774037241710",
+    "uikName": "УИК №194",
     "tikTvd": "27720002782237",
-    "tikName": "район Аэропорт"
+    "tikName": "район Аэропорт",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 196,
     "uikTvd": "4774037241711",
+    "uikName": "УИК №196",
     "tikTvd": "27720002782237",
-    "tikName": "район Аэропорт"
+    "tikName": "район Аэропорт",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 197,
     "uikTvd": "4774037241712",
+    "uikName": "УИК №197",
     "tikTvd": "27720002782237",
-    "tikName": "район Аэропорт"
+    "tikName": "район Аэропорт",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 198,
     "uikTvd": "4774037241713",
+    "uikName": "УИК №198",
     "tikTvd": "27720002782237",
-    "tikName": "район Аэропорт"
+    "tikName": "район Аэропорт",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 199,
     "uikTvd": "4774037241714",
+    "uikName": "УИК №199",
     "tikTvd": "27720002782237",
-    "tikName": "район Аэропорт"
+    "tikName": "район Аэропорт",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 201,
     "uikTvd": "4774037241715",
+    "uikName": "УИК №201",
     "tikTvd": "27720002782237",
-    "tikName": "район Аэропорт"
+    "tikName": "район Аэропорт",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 202,
     "uikTvd": "4774037241716",
+    "uikName": "УИК №202",
     "tikTvd": "27720002782237",
-    "tikName": "район Аэропорт"
+    "tikName": "район Аэропорт",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 204,
     "uikTvd": "4774037241717",
+    "uikName": "УИК №204",
     "tikTvd": "27720002782237",
-    "tikName": "район Аэропорт"
+    "tikName": "район Аэропорт",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 205,
     "uikTvd": "4774037241718",
+    "uikName": "УИК №205",
     "tikTvd": "27720002782237",
-    "tikName": "район Аэропорт"
+    "tikName": "район Аэропорт",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 207,
     "uikTvd": "4774038207599",
+    "uikName": "УИК №207",
     "tikTvd": "27720002782254",
-    "tikName": "район Беговой "
+    "tikName": "район Беговой ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 208,
     "uikTvd": "4774038207600",
+    "uikName": "УИК №208",
     "tikTvd": "27720002782254",
-    "tikName": "район Беговой "
+    "tikName": "район Беговой ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 210,
     "uikTvd": "4774038207601",
+    "uikName": "УИК №210",
     "tikTvd": "27720002782254",
-    "tikName": "район Беговой "
+    "tikName": "район Беговой ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 211,
     "uikTvd": "4774038207602",
+    "uikName": "УИК №211",
     "tikTvd": "27720002782254",
-    "tikName": "район Беговой "
+    "tikName": "район Беговой ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 213,
     "uikTvd": "4774038207603",
+    "uikName": "УИК №213",
     "tikTvd": "27720002782254",
-    "tikName": "район Беговой "
+    "tikName": "район Беговой ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 216,
     "uikTvd": "4774038207604",
+    "uikName": "УИК №216",
     "tikTvd": "27720002782254",
-    "tikName": "район Беговой "
+    "tikName": "район Беговой ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 217,
     "uikTvd": "4774038207605",
+    "uikName": "УИК №217",
     "tikTvd": "27720002782254",
-    "tikName": "район Беговой "
+    "tikName": "район Беговой ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 218,
     "uikTvd": "4774039248986",
+    "uikName": "УИК №218",
     "tikTvd": "27720002782281",
-    "tikName": "Бескудниковский район "
+    "tikName": "Бескудниковский район ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 219,
     "uikTvd": "4774039248987",
+    "uikName": "УИК №219",
     "tikTvd": "27720002782281",
-    "tikName": "Бескудниковский район "
+    "tikName": "Бескудниковский район ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 222,
     "uikTvd": "4774039248988",
+    "uikName": "УИК №222",
     "tikTvd": "27720002782281",
-    "tikName": "Бескудниковский район "
+    "tikName": "Бескудниковский район ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 223,
     "uikTvd": "4774039248989",
+    "uikName": "УИК №223",
     "tikTvd": "27720002782281",
-    "tikName": "Бескудниковский район "
+    "tikName": "Бескудниковский район ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 224,
     "uikTvd": "4774039248990",
+    "uikName": "УИК №224",
     "tikTvd": "27720002782281",
-    "tikName": "Бескудниковский район "
+    "tikName": "Бескудниковский район ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 225,
     "uikTvd": "4774039248991",
+    "uikName": "УИК №225",
     "tikTvd": "27720002782281",
-    "tikName": "Бескудниковский район "
+    "tikName": "Бескудниковский район ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 226,
     "uikTvd": "4774039248992",
+    "uikName": "УИК №226",
     "tikTvd": "27720002782281",
-    "tikName": "Бескудниковский район "
+    "tikName": "Бескудниковский район ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 227,
     "uikTvd": "4774039248993",
+    "uikName": "УИК №227",
     "tikTvd": "27720002782281",
-    "tikName": "Бескудниковский район "
+    "tikName": "Бескудниковский район ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 231,
     "uikTvd": "4774039248994",
+    "uikName": "УИК №231",
     "tikTvd": "27720002782281",
-    "tikName": "Бескудниковский район "
+    "tikName": "Бескудниковский район ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 232,
     "uikTvd": "4774039248995",
+    "uikName": "УИК №232",
     "tikTvd": "27720002782281",
-    "tikName": "Бескудниковский район "
+    "tikName": "Бескудниковский район ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 234,
     "uikTvd": "4774039248996",
+    "uikName": "УИК №234",
     "tikTvd": "27720002782281",
-    "tikName": "Бескудниковский район "
+    "tikName": "Бескудниковский район ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 236,
     "uikTvd": "4774039248997",
+    "uikName": "УИК №236",
     "tikTvd": "27720002782281",
-    "tikName": "Бескудниковский район "
+    "tikName": "Бескудниковский район ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 238,
     "uikTvd": "4774039248998",
+    "uikName": "УИК №238",
     "tikTvd": "27720002782281",
-    "tikName": "Бескудниковский район "
+    "tikName": "Бескудниковский район ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 239,
     "uikTvd": "4774041241201",
+    "uikName": "УИК №239",
     "tikTvd": "27720002782194",
-    "tikName": "Войковский район"
+    "tikName": "Войковский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 240,
     "uikTvd": "4774041241202",
+    "uikName": "УИК №240",
     "tikTvd": "27720002782194",
-    "tikName": "Войковский район"
+    "tikName": "Войковский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 241,
     "uikTvd": "4774041241203",
+    "uikName": "УИК №241",
     "tikTvd": "27720002782194",
-    "tikName": "Войковский район"
+    "tikName": "Войковский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 244,
     "uikTvd": "4774041241204",
+    "uikName": "УИК №244",
     "tikTvd": "27720002782194",
-    "tikName": "Войковский район"
+    "tikName": "Войковский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 247,
     "uikTvd": "4774041241205",
+    "uikName": "УИК №247",
     "tikTvd": "27720002782194",
-    "tikName": "Войковский район"
+    "tikName": "Войковский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 248,
     "uikTvd": "4774041241206",
+    "uikName": "УИК №248",
     "tikTvd": "27720002782194",
-    "tikName": "Войковский район"
+    "tikName": "Войковский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 249,
     "uikTvd": "4774041241207",
+    "uikName": "УИК №249",
     "tikTvd": "27720002782194",
-    "tikName": "Войковский район"
+    "tikName": "Войковский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 252,
     "uikTvd": "4774041241208",
+    "uikName": "УИК №252",
     "tikTvd": "27720002782194",
-    "tikName": "Войковский район"
+    "tikName": "Войковский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 254,
     "uikTvd": "4774041241209",
+    "uikName": "УИК №254",
     "tikTvd": "27720002782194",
-    "tikName": "Войковский район"
+    "tikName": "Войковский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 255,
     "uikTvd": "4774041241210",
+    "uikName": "УИК №255",
     "tikTvd": "27720002782194",
-    "tikName": "Войковский район"
+    "tikName": "Войковский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 257,
     "uikTvd": "4774042261195",
+    "uikName": "УИК №257",
     "tikTvd": "27720002782275",
-    "tikName": "район Восточное Дегунино"
+    "tikName": "район Восточное Дегунино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 258,
     "uikTvd": "4774042261196",
+    "uikName": "УИК №258",
     "tikTvd": "27720002782275",
-    "tikName": "район Восточное Дегунино"
+    "tikName": "район Восточное Дегунино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 261,
     "uikTvd": "4774042261197",
+    "uikName": "УИК №261",
     "tikTvd": "27720002782275",
-    "tikName": "район Восточное Дегунино"
+    "tikName": "район Восточное Дегунино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 264,
     "uikTvd": "4774042261198",
+    "uikName": "УИК №264",
     "tikTvd": "27720002782275",
-    "tikName": "район Восточное Дегунино"
+    "tikName": "район Восточное Дегунино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 265,
     "uikTvd": "4774042261199",
+    "uikName": "УИК №265",
     "tikTvd": "27720002782275",
-    "tikName": "район Восточное Дегунино"
+    "tikName": "район Восточное Дегунино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 267,
     "uikTvd": "4774042261200",
+    "uikName": "УИК №267",
     "tikTvd": "27720002782275",
-    "tikName": "район Восточное Дегунино"
+    "tikName": "район Восточное Дегунино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 268,
     "uikTvd": "4774042261201",
+    "uikName": "УИК №268",
     "tikTvd": "27720002782275",
-    "tikName": "район Восточное Дегунино"
+    "tikName": "район Восточное Дегунино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 269,
     "uikTvd": "4774042261202",
+    "uikName": "УИК №269",
     "tikTvd": "27720002782275",
-    "tikName": "район Восточное Дегунино"
+    "tikName": "район Восточное Дегунино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 270,
     "uikTvd": "4774042261203",
+    "uikName": "УИК №270",
     "tikTvd": "27720002782275",
-    "tikName": "район Восточное Дегунино"
+    "tikName": "район Восточное Дегунино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 273,
     "uikTvd": "4774042261204",
+    "uikName": "УИК №273",
     "tikTvd": "27720002782275",
-    "tikName": "район Восточное Дегунино"
+    "tikName": "район Восточное Дегунино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 274,
     "uikTvd": "4774042261205",
+    "uikName": "УИК №274",
     "tikTvd": "27720002782275",
-    "tikName": "район Восточное Дегунино"
+    "tikName": "район Восточное Дегунино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 275,
     "uikTvd": "4774042261206",
+    "uikName": "УИК №275",
     "tikTvd": "27720002782275",
-    "tikName": "район Восточное Дегунино"
+    "tikName": "район Восточное Дегунино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 277,
     "uikTvd": "4774042261207",
+    "uikName": "УИК №277",
     "tikTvd": "27720002782275",
-    "tikName": "район Восточное Дегунино"
+    "tikName": "район Восточное Дегунино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 279,
     "uikTvd": "4774042261208",
+    "uikName": "УИК №279",
     "tikTvd": "27720002782275",
-    "tikName": "район Восточное Дегунино"
+    "tikName": "район Восточное Дегунино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 280,
     "uikTvd": "4774042261209",
+    "uikName": "УИК №280",
     "tikTvd": "27720002782275",
-    "tikName": "район Восточное Дегунино"
+    "tikName": "район Восточное Дегунино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 281,
     "uikTvd": "4774043277909",
+    "uikName": "УИК №281",
     "tikTvd": "27720002782257",
-    "tikName": "Головинский район"
+    "tikName": "Головинский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 284,
     "uikTvd": "4774043277910",
+    "uikName": "УИК №284",
     "tikTvd": "27720002782257",
-    "tikName": "Головинский район"
+    "tikName": "Головинский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 285,
     "uikTvd": "4774043277911",
+    "uikName": "УИК №285",
     "tikTvd": "27720002782257",
-    "tikName": "Головинский район"
+    "tikName": "Головинский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 286,
     "uikTvd": "4774043277912",
+    "uikName": "УИК №286",
     "tikTvd": "27720002782257",
-    "tikName": "Головинский район"
+    "tikName": "Головинский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 287,
     "uikTvd": "4774043277913",
+    "uikName": "УИК №287",
     "tikTvd": "27720002782257",
-    "tikName": "Головинский район"
+    "tikName": "Головинский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 288,
     "uikTvd": "4774043277914",
+    "uikName": "УИК №288",
     "tikTvd": "27720002782257",
-    "tikName": "Головинский район"
+    "tikName": "Головинский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 290,
     "uikTvd": "4774043277915",
+    "uikName": "УИК №290",
     "tikTvd": "27720002782257",
-    "tikName": "Головинский район"
+    "tikName": "Головинский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 292,
     "uikTvd": "4774043277916",
+    "uikName": "УИК №292",
     "tikTvd": "27720002782257",
-    "tikName": "Головинский район"
+    "tikName": "Головинский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 295,
     "uikTvd": "4774043277917",
+    "uikName": "УИК №295",
     "tikTvd": "27720002782257",
-    "tikName": "Головинский район"
+    "tikName": "Головинский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 296,
     "uikTvd": "4774043277918",
+    "uikName": "УИК №296",
     "tikTvd": "27720002782257",
-    "tikName": "Головинский район"
+    "tikName": "Головинский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 298,
     "uikTvd": "4774043277919",
+    "uikName": "УИК №298",
     "tikTvd": "27720002782257",
-    "tikName": "Головинский район"
+    "tikName": "Головинский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 299,
     "uikTvd": "4774043277920",
+    "uikName": "УИК №299",
     "tikTvd": "27720002782257",
-    "tikName": "Головинский район"
+    "tikName": "Головинский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 300,
     "uikTvd": "4774043277921",
+    "uikName": "УИК №300",
     "tikTvd": "27720002782257",
-    "tikName": "Головинский район"
+    "tikName": "Головинский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 301,
     "uikTvd": "4774043277922",
+    "uikName": "УИК №301",
     "tikTvd": "27720002782257",
-    "tikName": "Головинский район"
+    "tikName": "Головинский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 303,
     "uikTvd": "4774043277923",
+    "uikName": "УИК №303",
     "tikTvd": "27720002782257",
-    "tikName": "Головинский район"
+    "tikName": "Головинский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 305,
     "uikTvd": "4774043277924",
+    "uikName": "УИК №305",
     "tikTvd": "27720002782257",
-    "tikName": "Головинский район"
+    "tikName": "Головинский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 307,
     "uikTvd": "4774044237875",
+    "uikName": "УИК №307",
     "tikTvd": "27720002782260",
-    "tikName": "Дмитровский район"
+    "tikName": "Дмитровский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 309,
     "uikTvd": "4774044237876",
+    "uikName": "УИК №309",
     "tikTvd": "27720002782260",
-    "tikName": "Дмитровский район"
+    "tikName": "Дмитровский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 311,
     "uikTvd": "4774044237877",
+    "uikName": "УИК №311",
     "tikTvd": "27720002782260",
-    "tikName": "Дмитровский район"
+    "tikName": "Дмитровский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 313,
     "uikTvd": "4774044237878",
+    "uikName": "УИК №313",
     "tikTvd": "27720002782260",
-    "tikName": "Дмитровский район"
+    "tikName": "Дмитровский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 315,
     "uikTvd": "4774044237879",
+    "uikName": "УИК №315",
     "tikTvd": "27720002782260",
-    "tikName": "Дмитровский район"
+    "tikName": "Дмитровский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 316,
     "uikTvd": "4774044237880",
+    "uikName": "УИК №316",
     "tikTvd": "27720002782260",
-    "tikName": "Дмитровский район"
+    "tikName": "Дмитровский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 317,
     "uikTvd": "4774044237881",
+    "uikName": "УИК №317",
     "tikTvd": "27720002782260",
-    "tikName": "Дмитровский район"
+    "tikName": "Дмитровский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 319,
     "uikTvd": "4774044237882",
+    "uikName": "УИК №319",
     "tikTvd": "27720002782260",
-    "tikName": "Дмитровский район"
+    "tikName": "Дмитровский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 321,
     "uikTvd": "4774044237883",
+    "uikName": "УИК №321",
     "tikTvd": "27720002782260",
-    "tikName": "Дмитровский район"
+    "tikName": "Дмитровский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 323,
     "uikTvd": "4774044237884",
+    "uikName": "УИК №323",
     "tikTvd": "27720002782260",
-    "tikName": "Дмитровский район"
+    "tikName": "Дмитровский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 324,
     "uikTvd": "4774044237885",
+    "uikName": "УИК №324",
     "tikTvd": "27720002782260",
-    "tikName": "Дмитровский район"
+    "tikName": "Дмитровский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 326,
     "uikTvd": "4774044237886",
+    "uikName": "УИК №326",
     "tikTvd": "27720002782260",
-    "tikName": "Дмитровский район"
+    "tikName": "Дмитровский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 327,
     "uikTvd": "4774044237887",
+    "uikName": "УИК №327",
     "tikTvd": "27720002782260",
-    "tikName": "Дмитровский район"
+    "tikName": "Дмитровский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 328,
     "uikTvd": "4774044237888",
+    "uikName": "УИК №328",
     "tikTvd": "27720002782260",
-    "tikName": "Дмитровский район"
+    "tikName": "Дмитровский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 330,
     "uikTvd": "4774045261032",
+    "uikName": "УИК №330",
     "tikTvd": "27720002782247",
-    "tikName": "район Западное Дегунино"
+    "tikName": "район Западное Дегунино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 332,
     "uikTvd": "4774045261033",
+    "uikName": "УИК №332",
     "tikTvd": "27720002782247",
-    "tikName": "район Западное Дегунино"
+    "tikName": "район Западное Дегунино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 333,
     "uikTvd": "4774045261034",
+    "uikName": "УИК №333",
     "tikTvd": "27720002782247",
-    "tikName": "район Западное Дегунино"
+    "tikName": "район Западное Дегунино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 334,
     "uikTvd": "4774045261035",
+    "uikName": "УИК №334",
     "tikTvd": "27720002782247",
-    "tikName": "район Западное Дегунино"
+    "tikName": "район Западное Дегунино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 336,
     "uikTvd": "4774045261036",
+    "uikName": "УИК №336",
     "tikTvd": "27720002782247",
-    "tikName": "район Западное Дегунино"
+    "tikName": "район Западное Дегунино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 337,
     "uikTvd": "4774045261037",
+    "uikName": "УИК №337",
     "tikTvd": "27720002782247",
-    "tikName": "район Западное Дегунино"
+    "tikName": "район Западное Дегунино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 338,
     "uikTvd": "4774045261038",
+    "uikName": "УИК №338",
     "tikTvd": "27720002782247",
-    "tikName": "район Западное Дегунино"
+    "tikName": "район Западное Дегунино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 340,
     "uikTvd": "4774045261039",
+    "uikName": "УИК №340",
     "tikTvd": "27720002782247",
-    "tikName": "район Западное Дегунино"
+    "tikName": "район Западное Дегунино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 342,
     "uikTvd": "4774045261040",
+    "uikName": "УИК №342",
     "tikTvd": "27720002782247",
-    "tikName": "район Западное Дегунино"
+    "tikName": "район Западное Дегунино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 344,
     "uikTvd": "4774045261041",
+    "uikName": "УИК №344",
     "tikTvd": "27720002782247",
-    "tikName": "район Западное Дегунино"
+    "tikName": "район Западное Дегунино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 345,
     "uikTvd": "4774045261042",
+    "uikName": "УИК №345",
     "tikTvd": "27720002782247",
-    "tikName": "район Западное Дегунино"
+    "tikName": "район Западное Дегунино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 347,
     "uikTvd": "4774045261043",
+    "uikName": "УИК №347",
     "tikTvd": "27720002782247",
-    "tikName": "район Западное Дегунино"
+    "tikName": "район Западное Дегунино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 348,
     "uikTvd": "4774045261044",
+    "uikName": "УИК №348",
     "tikTvd": "27720002782247",
-    "tikName": "район Западное Дегунино"
+    "tikName": "район Западное Дегунино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 349,
     "uikTvd": "4774045261045",
+    "uikName": "УИК №349",
     "tikTvd": "27720002782247",
-    "tikName": "район Западное Дегунино"
+    "tikName": "район Западное Дегунино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 352,
     "uikTvd": "4774046261486",
+    "uikName": "УИК №352",
     "tikTvd": "27720002782305",
-    "tikName": "район Коптево"
+    "tikName": "район Коптево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 353,
     "uikTvd": "4774046261487",
+    "uikName": "УИК №353",
     "tikTvd": "27720002782305",
-    "tikName": "район Коптево"
+    "tikName": "район Коптево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 355,
     "uikTvd": "4774046261488",
+    "uikName": "УИК №355",
     "tikTvd": "27720002782305",
-    "tikName": "район Коптево"
+    "tikName": "район Коптево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 356,
     "uikTvd": "4774046261489",
+    "uikName": "УИК №356",
     "tikTvd": "27720002782305",
-    "tikName": "район Коптево"
+    "tikName": "район Коптево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 358,
     "uikTvd": "4774046261490",
+    "uikName": "УИК №358",
     "tikTvd": "27720002782305",
-    "tikName": "район Коптево"
+    "tikName": "район Коптево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 361,
     "uikTvd": "4774046261491",
+    "uikName": "УИК №361",
     "tikTvd": "27720002782305",
-    "tikName": "район Коптево"
+    "tikName": "район Коптево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 363,
     "uikTvd": "4774046261492",
+    "uikName": "УИК №363",
     "tikTvd": "27720002782305",
-    "tikName": "район Коптево"
+    "tikName": "район Коптево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 364,
     "uikTvd": "4774046261493",
+    "uikName": "УИК №364",
     "tikTvd": "27720002782305",
-    "tikName": "район Коптево"
+    "tikName": "район Коптево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 365,
     "uikTvd": "4774046261494",
+    "uikName": "УИК №365",
     "tikTvd": "27720002782305",
-    "tikName": "район Коптево"
+    "tikName": "район Коптево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 367,
     "uikTvd": "4774046261495",
+    "uikName": "УИК №367",
     "tikTvd": "27720002782305",
-    "tikName": "район Коптево"
+    "tikName": "район Коптево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 369,
     "uikTvd": "4774046261496",
+    "uikName": "УИК №369",
     "tikTvd": "27720002782305",
-    "tikName": "район Коптево"
+    "tikName": "район Коптево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 370,
     "uikTvd": "4774046261497",
+    "uikName": "УИК №370",
     "tikTvd": "27720002782305",
-    "tikName": "район Коптево"
+    "tikName": "район Коптево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 371,
     "uikTvd": "4774046261498",
+    "uikName": "УИК №371",
     "tikTvd": "27720002782305",
-    "tikName": "район Коптево"
+    "tikName": "район Коптево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 373,
     "uikTvd": "4774046261499",
+    "uikName": "УИК №373",
     "tikTvd": "27720002782305",
-    "tikName": "район Коптево"
+    "tikName": "район Коптево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 374,
     "uikTvd": "4774046261500",
+    "uikName": "УИК №374",
     "tikTvd": "27720002782305",
-    "tikName": "район Коптево"
+    "tikName": "район Коптево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 376,
     "uikTvd": "4774047230586",
+    "uikName": "УИК №376",
     "tikTvd": "27720002782329",
-    "tikName": "Левобережный район"
+    "tikName": "Левобережный район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 377,
     "uikTvd": "4774047230587",
+    "uikName": "УИК №377",
     "tikTvd": "27720002782329",
-    "tikName": "Левобережный район"
+    "tikName": "Левобережный район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 378,
     "uikTvd": "4774047230588",
+    "uikName": "УИК №378",
     "tikTvd": "27720002782329",
-    "tikName": "Левобережный район"
+    "tikName": "Левобережный район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 380,
     "uikTvd": "4774047230589",
+    "uikName": "УИК №380",
     "tikTvd": "27720002782329",
-    "tikName": "Левобережный район"
+    "tikName": "Левобережный район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 381,
     "uikTvd": "4774047230590",
+    "uikName": "УИК №381",
     "tikTvd": "27720002782329",
-    "tikName": "Левобережный район"
+    "tikName": "Левобережный район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 382,
     "uikTvd": "4774047230591",
+    "uikName": "УИК №382",
     "tikTvd": "27720002782329",
-    "tikName": "Левобережный район"
+    "tikName": "Левобережный район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 385,
     "uikTvd": "4774047230592",
+    "uikName": "УИК №385",
     "tikTvd": "27720002782329",
-    "tikName": "Левобережный район"
+    "tikName": "Левобережный район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 386,
     "uikTvd": "4774047230593",
+    "uikName": "УИК №386",
     "tikTvd": "27720002782329",
-    "tikName": "Левобережный район"
+    "tikName": "Левобережный район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 390,
     "uikTvd": "4774049234680",
+    "uikName": "УИК №390",
     "tikTvd": "27720002782265",
-    "tikName": "Савеловский район"
+    "tikName": "Савеловский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 392,
     "uikTvd": "4774049234681",
+    "uikName": "УИК №392",
     "tikTvd": "27720002782265",
-    "tikName": "Савеловский район"
+    "tikName": "Савеловский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 394,
     "uikTvd": "4774049234682",
+    "uikName": "УИК №394",
     "tikTvd": "27720002782265",
-    "tikName": "Савеловский район"
+    "tikName": "Савеловский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 395,
     "uikTvd": "4774049234683",
+    "uikName": "УИК №395",
     "tikTvd": "27720002782265",
-    "tikName": "Савеловский район"
+    "tikName": "Савеловский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 397,
     "uikTvd": "4774049234684",
+    "uikName": "УИК №397",
     "tikTvd": "27720002782265",
-    "tikName": "Савеловский район"
+    "tikName": "Савеловский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 400,
     "uikTvd": "4774049234685",
+    "uikName": "УИК №400",
     "tikTvd": "27720002782265",
-    "tikName": "Савеловский район"
+    "tikName": "Савеловский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 401,
     "uikTvd": "4774049234686",
+    "uikName": "УИК №401",
     "tikTvd": "27720002782265",
-    "tikName": "Савеловский район"
+    "tikName": "Савеловский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 402,
     "uikTvd": "4774049234687",
+    "uikName": "УИК №402",
     "tikTvd": "27720002782265",
-    "tikName": "Савеловский район"
+    "tikName": "Савеловский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 404,
     "uikTvd": "4774049234688",
+    "uikName": "УИК №404",
     "tikTvd": "27720002782265",
-    "tikName": "Савеловский район"
+    "tikName": "Савеловский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 405,
     "uikTvd": "4774050226160",
+    "uikName": "УИК №405",
     "tikTvd": "27720002782312",
-    "tikName": "район Сокол"
+    "tikName": "район Сокол",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 407,
     "uikTvd": "4774050226161",
+    "uikName": "УИК №407",
     "tikTvd": "27720002782312",
-    "tikName": "район Сокол"
+    "tikName": "район Сокол",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 409,
     "uikTvd": "4774050226162",
+    "uikName": "УИК №409",
     "tikTvd": "27720002782312",
-    "tikName": "район Сокол"
+    "tikName": "район Сокол",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 410,
     "uikTvd": "4774050226163",
+    "uikName": "УИК №410",
     "tikTvd": "27720002782312",
-    "tikName": "район Сокол"
+    "tikName": "район Сокол",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 412,
     "uikTvd": "4774050226164",
+    "uikName": "УИК №412",
     "tikTvd": "27720002782312",
-    "tikName": "район Сокол"
+    "tikName": "район Сокол",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 413,
     "uikTvd": "4774050226165",
+    "uikName": "УИК №413",
     "tikTvd": "27720002782312",
-    "tikName": "район Сокол"
+    "tikName": "район Сокол",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 415,
     "uikTvd": "4774050226166",
+    "uikName": "УИК №415",
     "tikTvd": "27720002782312",
-    "tikName": "район Сокол"
+    "tikName": "район Сокол",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 416,
     "uikTvd": "4774050226167",
+    "uikName": "УИК №416",
     "tikTvd": "27720002782312",
-    "tikName": "район Сокол"
+    "tikName": "район Сокол",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 418,
     "uikTvd": "4774050226168",
+    "uikName": "УИК №418",
     "tikTvd": "27720002782312",
-    "tikName": "район Сокол"
+    "tikName": "район Сокол",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 419,
     "uikTvd": "4774051259029",
+    "uikName": "УИК №419",
     "tikTvd": "27720002782298",
-    "tikName": "Тимирязевский район"
+    "tikName": "Тимирязевский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 420,
     "uikTvd": "4774051259030",
+    "uikName": "УИК №420",
     "tikTvd": "27720002782298",
-    "tikName": "Тимирязевский район"
+    "tikName": "Тимирязевский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 421,
     "uikTvd": "4774051259031",
+    "uikName": "УИК №421",
     "tikTvd": "27720002782298",
-    "tikName": "Тимирязевский район"
+    "tikName": "Тимирязевский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 422,
     "uikTvd": "4774051259032",
+    "uikName": "УИК №422",
     "tikTvd": "27720002782298",
-    "tikName": "Тимирязевский район"
+    "tikName": "Тимирязевский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 427,
     "uikTvd": "4774051259033",
+    "uikName": "УИК №427",
     "tikTvd": "27720002782298",
-    "tikName": "Тимирязевский район"
+    "tikName": "Тимирязевский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 428,
     "uikTvd": "4774051259034",
+    "uikName": "УИК №428",
     "tikTvd": "27720002782298",
-    "tikName": "Тимирязевский район"
+    "tikName": "Тимирязевский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 430,
     "uikTvd": "4774051259035",
+    "uikName": "УИК №430",
     "tikTvd": "27720002782298",
-    "tikName": "Тимирязевский район"
+    "tikName": "Тимирязевский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 432,
     "uikTvd": "4774051259036",
+    "uikName": "УИК №432",
     "tikTvd": "27720002782298",
-    "tikName": "Тимирязевский район"
+    "tikName": "Тимирязевский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 433,
     "uikTvd": "4774051259037",
+    "uikName": "УИК №433",
     "tikTvd": "27720002782298",
-    "tikName": "Тимирязевский район"
+    "tikName": "Тимирязевский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 434,
     "uikTvd": "4774051259038",
+    "uikName": "УИК №434",
     "tikTvd": "27720002782298",
-    "tikName": "Тимирязевский район"
+    "tikName": "Тимирязевский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 436,
     "uikTvd": "4774051259039",
+    "uikName": "УИК №436",
     "tikTvd": "27720002782298",
-    "tikName": "Тимирязевский район"
+    "tikName": "Тимирязевский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 438,
     "uikTvd": "4774051259040",
+    "uikName": "УИК №438",
     "tikTvd": "27720002782298",
-    "tikName": "Тимирязевский район"
+    "tikName": "Тимирязевский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 439,
     "uikTvd": "4774051259041",
+    "uikName": "УИК №439",
     "tikTvd": "27720002782298",
-    "tikName": "Тимирязевский район"
+    "tikName": "Тимирязевский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 440,
     "uikTvd": "4774052298939",
+    "uikName": "УИК №440",
     "tikTvd": "27720002782245",
-    "tikName": "район Ховрино"
+    "tikName": "район Ховрино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 441,
     "uikTvd": "4774052298941",
+    "uikName": "УИК №441",
     "tikTvd": "27720002782245",
-    "tikName": "район Ховрино"
+    "tikName": "район Ховрино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 442,
     "uikTvd": "4774052298942",
+    "uikName": "УИК №442",
     "tikTvd": "27720002782245",
-    "tikName": "район Ховрино"
+    "tikName": "район Ховрино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 446,
     "uikTvd": "4774052298943",
+    "uikName": "УИК №446",
     "tikTvd": "27720002782245",
-    "tikName": "район Ховрино"
+    "tikName": "район Ховрино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 447,
     "uikTvd": "4774052298944",
+    "uikName": "УИК №447",
     "tikTvd": "27720002782245",
-    "tikName": "район Ховрино"
+    "tikName": "район Ховрино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 448,
     "uikTvd": "4774052298945",
+    "uikName": "УИК №448",
     "tikTvd": "27720002782245",
-    "tikName": "район Ховрино"
+    "tikName": "район Ховрино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 451,
     "uikTvd": "4774052298947",
+    "uikName": "УИК №451",
     "tikTvd": "27720002782245",
-    "tikName": "район Ховрино"
+    "tikName": "район Ховрино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 452,
     "uikTvd": "4774052298948",
+    "uikName": "УИК №452",
     "tikTvd": "27720002782245",
-    "tikName": "район Ховрино"
+    "tikName": "район Ховрино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 455,
     "uikTvd": "4774052298949",
+    "uikName": "УИК №455",
     "tikTvd": "27720002782245",
-    "tikName": "район Ховрино"
+    "tikName": "район Ховрино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 456,
     "uikTvd": "4774052298950",
+    "uikName": "УИК №456",
     "tikTvd": "27720002782245",
-    "tikName": "район Ховрино"
+    "tikName": "район Ховрино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 458,
     "uikTvd": "4774052298951",
+    "uikName": "УИК №458",
     "tikTvd": "27720002782245",
-    "tikName": "район Ховрино"
+    "tikName": "район Ховрино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 459,
     "uikTvd": "4774052298953",
+    "uikName": "УИК №459",
     "tikTvd": "27720002782245",
-    "tikName": "район Ховрино"
+    "tikName": "район Ховрино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 460,
     "uikTvd": "4774052298954",
+    "uikName": "УИК №460",
     "tikTvd": "27720002782245",
-    "tikName": "район Ховрино"
+    "tikName": "район Ховрино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 462,
     "uikTvd": "4774053231019",
+    "uikName": "УИК №462",
     "tikTvd": "27720002782240",
-    "tikName": "Хорошевский район"
+    "tikName": "Хорошевский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 463,
     "uikTvd": "4774053231020",
+    "uikName": "УИК №463",
     "tikTvd": "27720002782240",
-    "tikName": "Хорошевский район"
+    "tikName": "Хорошевский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 464,
     "uikTvd": "4774053231021",
+    "uikName": "УИК №464",
     "tikTvd": "27720002782240",
-    "tikName": "Хорошевский район"
+    "tikName": "Хорошевский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 466,
     "uikTvd": "4774053231022",
+    "uikName": "УИК №466",
     "tikTvd": "27720002782240",
-    "tikName": "Хорошевский район"
+    "tikName": "Хорошевский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 467,
     "uikTvd": "4774053231023",
+    "uikName": "УИК №467",
     "tikTvd": "27720002782240",
-    "tikName": "Хорошевский район"
+    "tikName": "Хорошевский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 469,
     "uikTvd": "4774053231024",
+    "uikName": "УИК №469",
     "tikTvd": "27720002782240",
-    "tikName": "Хорошевский район"
+    "tikName": "Хорошевский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 470,
     "uikTvd": "4774053231025",
+    "uikName": "УИК №470",
     "tikTvd": "27720002782240",
-    "tikName": "Хорошевский район"
+    "tikName": "Хорошевский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 471,
     "uikTvd": "4774053231026",
+    "uikName": "УИК №471",
     "tikTvd": "27720002782240",
-    "tikName": "Хорошевский район"
+    "tikName": "Хорошевский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 472,
     "uikTvd": "4774053231027",
+    "uikName": "УИК №472",
     "tikTvd": "27720002782240",
-    "tikName": "Хорошевский район"
+    "tikName": "Хорошевский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 475,
     "uikTvd": "4774053231028",
+    "uikName": "УИК №475",
     "tikTvd": "27720002782240",
-    "tikName": "Хорошевский район"
+    "tikName": "Хорошевский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 476,
     "uikTvd": "4774053231029",
+    "uikName": "УИК №476",
     "tikTvd": "27720002782240",
-    "tikName": "Хорошевский район"
+    "tikName": "Хорошевский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 477,
     "uikTvd": "4774053231030",
+    "uikName": "УИК №477",
     "tikTvd": "27720002782240",
-    "tikName": "Хорошевский район"
+    "tikName": "Хорошевский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 479,
     "uikTvd": "4774053231031",
+    "uikName": "УИК №479",
     "tikTvd": "27720002782240",
-    "tikName": "Хорошевский район"
+    "tikName": "Хорошевский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 480,
     "uikTvd": "4774054221461",
+    "uikName": "УИК №480",
     "tikTvd": "27720002782261",
-    "tikName": "Алексеевский район"
+    "tikName": "Алексеевский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 481,
     "uikTvd": "4774054221462",
+    "uikName": "УИК №481",
     "tikTvd": "27720002782261",
-    "tikName": "Алексеевский район"
+    "tikName": "Алексеевский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 482,
     "uikTvd": "4774054221463",
+    "uikName": "УИК №482",
     "tikTvd": "27720002782261",
-    "tikName": "Алексеевский район"
+    "tikName": "Алексеевский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 484,
     "uikTvd": "4774054221464",
+    "uikName": "УИК №484",
     "tikTvd": "27720002782261",
-    "tikName": "Алексеевский район"
+    "tikName": "Алексеевский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 486,
     "uikTvd": "4774054221465",
+    "uikName": "УИК №486",
     "tikTvd": "27720002782261",
-    "tikName": "Алексеевский район"
+    "tikName": "Алексеевский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 488,
     "uikTvd": "4774054221466",
+    "uikName": "УИК №488",
     "tikTvd": "27720002782261",
-    "tikName": "Алексеевский район"
+    "tikName": "Алексеевский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 491,
     "uikTvd": "4774054221467",
+    "uikName": "УИК №491",
     "tikTvd": "27720002782261",
-    "tikName": "Алексеевский район"
+    "tikName": "Алексеевский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 492,
     "uikTvd": "4774054221468",
+    "uikName": "УИК №492",
     "tikTvd": "27720002782261",
-    "tikName": "Алексеевский район"
+    "tikName": "Алексеевский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 496,
     "uikTvd": "4774054221469",
+    "uikName": "УИК №496",
     "tikTvd": "27720002782261",
-    "tikName": "Алексеевский район"
+    "tikName": "Алексеевский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 497,
     "uikTvd": "4774054221470",
+    "uikName": "УИК №497",
     "tikTvd": "27720002782261",
-    "tikName": "Алексеевский район"
+    "tikName": "Алексеевский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 501,
     "uikTvd": "4774055221683",
+    "uikName": "УИК №501",
     "tikTvd": "27720002782274",
-    "tikName": "Алтуфьевский район"
+    "tikName": "Алтуфьевский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 502,
     "uikTvd": "4774055221684",
+    "uikName": "УИК №502",
     "tikTvd": "27720002782274",
-    "tikName": "Алтуфьевский район"
+    "tikName": "Алтуфьевский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 505,
     "uikTvd": "4774055221685",
+    "uikName": "УИК №505",
     "tikTvd": "27720002782274",
-    "tikName": "Алтуфьевский район"
+    "tikName": "Алтуфьевский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 506,
     "uikTvd": "4774055221686",
+    "uikName": "УИК №506",
     "tikTvd": "27720002782274",
-    "tikName": "Алтуфьевский район"
+    "tikName": "Алтуфьевский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 507,
     "uikTvd": "4774055221687",
+    "uikName": "УИК №507",
     "tikTvd": "27720002782274",
-    "tikName": "Алтуфьевский район"
+    "tikName": "Алтуфьевский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 508,
     "uikTvd": "4774055221688",
+    "uikName": "УИК №508",
     "tikTvd": "27720002782274",
-    "tikName": "Алтуфьевский район"
+    "tikName": "Алтуфьевский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 510,
     "uikTvd": "4774055221689",
+    "uikName": "УИК №510",
     "tikTvd": "27720002782274",
-    "tikName": "Алтуфьевский район"
+    "tikName": "Алтуфьевский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 512,
     "uikTvd": "4774055221690",
+    "uikName": "УИК №512",
     "tikTvd": "27720002782274",
-    "tikName": "Алтуфьевский район"
+    "tikName": "Алтуфьевский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 513,
     "uikTvd": "4774055221691",
+    "uikName": "УИК №513",
     "tikTvd": "27720002782274",
-    "tikName": "Алтуфьевский район"
+    "tikName": "Алтуфьевский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 514,
     "uikTvd": "4774056252471",
+    "uikName": "УИК №514",
     "tikTvd": "27720002782311",
-    "tikName": "Бабушкинский район"
+    "tikName": "Бабушкинский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 515,
     "uikTvd": "4774056252472",
+    "uikName": "УИК №515",
     "tikTvd": "27720002782311",
-    "tikName": "Бабушкинский район"
+    "tikName": "Бабушкинский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 517,
     "uikTvd": "4774056252473",
+    "uikName": "УИК №517",
     "tikTvd": "27720002782311",
-    "tikName": "Бабушкинский район"
+    "tikName": "Бабушкинский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 519,
     "uikTvd": "4774056252474",
+    "uikName": "УИК №519",
     "tikTvd": "27720002782311",
-    "tikName": "Бабушкинский район"
+    "tikName": "Бабушкинский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 522,
     "uikTvd": "4774056252475",
+    "uikName": "УИК №522",
     "tikTvd": "27720002782311",
-    "tikName": "Бабушкинский район"
+    "tikName": "Бабушкинский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 524,
     "uikTvd": "4774056252476",
+    "uikName": "УИК №524",
     "tikTvd": "27720002782311",
-    "tikName": "Бабушкинский район"
+    "tikName": "Бабушкинский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 525,
     "uikTvd": "4774056252477",
+    "uikName": "УИК №525",
     "tikTvd": "27720002782311",
-    "tikName": "Бабушкинский район"
+    "tikName": "Бабушкинский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 528,
     "uikTvd": "4774056252478",
+    "uikName": "УИК №528",
     "tikTvd": "27720002782311",
-    "tikName": "Бабушкинский район"
+    "tikName": "Бабушкинский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 529,
     "uikTvd": "4774056252479",
+    "uikName": "УИК №529",
     "tikTvd": "27720002782311",
-    "tikName": "Бабушкинский район"
+    "tikName": "Бабушкинский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 530,
     "uikTvd": "4774056252480",
+    "uikName": "УИК №530",
     "tikTvd": "27720002782311",
-    "tikName": "Бабушкинский район"
+    "tikName": "Бабушкинский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 531,
     "uikTvd": "4774056252481",
+    "uikName": "УИК №531",
     "tikTvd": "27720002782311",
-    "tikName": "Бабушкинский район"
+    "tikName": "Бабушкинский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 533,
     "uikTvd": "4774056252482",
+    "uikName": "УИК №533",
     "tikTvd": "27720002782311",
-    "tikName": "Бабушкинский район"
+    "tikName": "Бабушкинский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 538,
     "uikTvd": "4774056252483",
+    "uikName": "УИК №538",
     "tikTvd": "27720002782311",
-    "tikName": "Бабушкинский район"
+    "tikName": "Бабушкинский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 539,
     "uikTvd": "4774057299796",
+    "uikName": "УИК №539",
     "tikTvd": "27720002782212",
-    "tikName": "район Бибирево"
+    "tikName": "район Бибирево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 542,
     "uikTvd": "4774057299797",
+    "uikName": "УИК №542",
     "tikTvd": "27720002782212",
-    "tikName": "район Бибирево"
+    "tikName": "район Бибирево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 544,
     "uikTvd": "4774057299798",
+    "uikName": "УИК №544",
     "tikTvd": "27720002782212",
-    "tikName": "район Бибирево"
+    "tikName": "район Бибирево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 547,
     "uikTvd": "4774057299799",
+    "uikName": "УИК №547",
     "tikTvd": "27720002782212",
-    "tikName": "район Бибирево"
+    "tikName": "район Бибирево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 548,
     "uikTvd": "4774057299800",
+    "uikName": "УИК №548",
     "tikTvd": "27720002782212",
-    "tikName": "район Бибирево"
+    "tikName": "район Бибирево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 549,
     "uikTvd": "4774057299801",
+    "uikName": "УИК №549",
     "tikTvd": "27720002782212",
-    "tikName": "район Бибирево"
+    "tikName": "район Бибирево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 551,
     "uikTvd": "4774057299802",
+    "uikName": "УИК №551",
     "tikTvd": "27720002782212",
-    "tikName": "район Бибирево"
+    "tikName": "район Бибирево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 553,
     "uikTvd": "4774057299803",
+    "uikName": "УИК №553",
     "tikTvd": "27720002782212",
-    "tikName": "район Бибирево"
+    "tikName": "район Бибирево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 555,
     "uikTvd": "4774057299804",
+    "uikName": "УИК №555",
     "tikTvd": "27720002782212",
-    "tikName": "район Бибирево"
+    "tikName": "район Бибирево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 559,
     "uikTvd": "4774057299805",
+    "uikName": "УИК №559",
     "tikTvd": "27720002782212",
-    "tikName": "район Бибирево"
+    "tikName": "район Бибирево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 561,
     "uikTvd": "4774057299806",
+    "uikName": "УИК №561",
     "tikTvd": "27720002782212",
-    "tikName": "район Бибирево"
+    "tikName": "район Бибирево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 563,
     "uikTvd": "4774057299807",
+    "uikName": "УИК №563",
     "tikTvd": "27720002782212",
-    "tikName": "район Бибирево"
+    "tikName": "район Бибирево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 564,
     "uikTvd": "4774057299808",
+    "uikName": "УИК №564",
     "tikTvd": "27720002782212",
-    "tikName": "район Бибирево"
+    "tikName": "район Бибирево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 566,
     "uikTvd": "4774057299809",
+    "uikName": "УИК №566",
     "tikTvd": "27720002782212",
-    "tikName": "район Бибирево"
+    "tikName": "район Бибирево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 569,
     "uikTvd": "4774057299810",
+    "uikName": "УИК №569",
     "tikTvd": "27720002782212",
-    "tikName": "район Бибирево"
+    "tikName": "район Бибирево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 571,
     "uikTvd": "4774057299811",
+    "uikName": "УИК №571",
     "tikTvd": "27720002782212",
-    "tikName": "район Бибирево"
+    "tikName": "район Бибирево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 573,
     "uikTvd": "4774057299812",
+    "uikName": "УИК №573",
     "tikTvd": "27720002782212",
-    "tikName": "район Бибирево"
+    "tikName": "район Бибирево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 576,
     "uikTvd": "4774057299813",
+    "uikName": "УИК №576",
     "tikTvd": "27720002782212",
-    "tikName": "район Бибирево"
+    "tikName": "район Бибирево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 577,
     "uikTvd": "4774057299814",
+    "uikName": "УИК №577",
     "tikTvd": "27720002782212",
-    "tikName": "район Бибирево"
+    "tikName": "район Бибирево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 578,
     "uikTvd": "4774057299815",
+    "uikName": "УИК №578",
     "tikTvd": "27720002782212",
-    "tikName": "район Бибирево"
+    "tikName": "район Бибирево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 580,
     "uikTvd": "4774057299816",
+    "uikName": "УИК №580",
     "tikTvd": "27720002782212",
-    "tikName": "район Бибирево"
+    "tikName": "район Бибирево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 582,
     "uikTvd": "4774058205871",
+    "uikName": "УИК №582",
     "tikTvd": "27720002782269",
-    "tikName": "Бутырский район"
+    "tikName": "Бутырский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 584,
     "uikTvd": "4774058205872",
+    "uikName": "УИК №584",
     "tikTvd": "27720002782269",
-    "tikName": "Бутырский район"
+    "tikName": "Бутырский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 585,
     "uikTvd": "4774058205873",
+    "uikName": "УИК №585",
     "tikTvd": "27720002782269",
-    "tikName": "Бутырский район"
+    "tikName": "Бутырский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 588,
     "uikTvd": "4774058205874",
+    "uikName": "УИК №588",
     "tikTvd": "27720002782269",
-    "tikName": "Бутырский район"
+    "tikName": "Бутырский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 589,
     "uikTvd": "4774058205875",
+    "uikName": "УИК №589",
     "tikTvd": "27720002782269",
-    "tikName": "Бутырский район"
+    "tikName": "Бутырский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 590,
     "uikTvd": "4774058205876",
+    "uikName": "УИК №590",
     "tikTvd": "27720002782269",
-    "tikName": "Бутырский район"
+    "tikName": "Бутырский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 593,
     "uikTvd": "4774058205877",
+    "uikName": "УИК №593",
     "tikTvd": "27720002782269",
-    "tikName": "Бутырский район"
+    "tikName": "Бутырский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 596,
     "uikTvd": "4774058205878",
+    "uikName": "УИК №596",
     "tikTvd": "27720002782269",
-    "tikName": "Бутырский район"
+    "tikName": "Бутырский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 597,
     "uikTvd": "4774058205879",
+    "uikName": "УИК №597",
     "tikTvd": "27720002782269",
-    "tikName": "Бутырский район"
+    "tikName": "Бутырский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 599,
     "uikTvd": "4774059254951",
+    "uikName": "УИК №599",
     "tikTvd": "27720002782241",
-    "tikName": "район Лианозово"
+    "tikName": "район Лианозово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 601,
     "uikTvd": "4774059254952",
+    "uikName": "УИК №601",
     "tikTvd": "27720002782241",
-    "tikName": "район Лианозово"
+    "tikName": "район Лианозово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 602,
     "uikTvd": "4774059254953",
+    "uikName": "УИК №602",
     "tikTvd": "27720002782241",
-    "tikName": "район Лианозово"
+    "tikName": "район Лианозово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 605,
     "uikTvd": "4774059254954",
+    "uikName": "УИК №605",
     "tikTvd": "27720002782241",
-    "tikName": "район Лианозово"
+    "tikName": "район Лианозово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 606,
     "uikTvd": "4774059254955",
+    "uikName": "УИК №606",
     "tikTvd": "27720002782241",
-    "tikName": "район Лианозово"
+    "tikName": "район Лианозово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 607,
     "uikTvd": "4774059254956",
+    "uikName": "УИК №607",
     "tikTvd": "27720002782241",
-    "tikName": "район Лианозово"
+    "tikName": "район Лианозово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 609,
     "uikTvd": "4774059254957",
+    "uikName": "УИК №609",
     "tikTvd": "27720002782241",
-    "tikName": "район Лианозово"
+    "tikName": "район Лианозово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 613,
     "uikTvd": "4774059254958",
+    "uikName": "УИК №613",
     "tikTvd": "27720002782241",
-    "tikName": "район Лианозово"
+    "tikName": "район Лианозово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 614,
     "uikTvd": "4774059254959",
+    "uikName": "УИК №614",
     "tikTvd": "27720002782241",
-    "tikName": "район Лианозово"
+    "tikName": "район Лианозово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 615,
     "uikTvd": "4774059254960",
+    "uikName": "УИК №615",
     "tikTvd": "27720002782241",
-    "tikName": "район Лианозово"
+    "tikName": "район Лианозово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 617,
     "uikTvd": "4774059254961",
+    "uikName": "УИК №617",
     "tikTvd": "27720002782241",
-    "tikName": "район Лианозово"
+    "tikName": "район Лианозово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 618,
     "uikTvd": "4774059254962",
+    "uikName": "УИК №618",
     "tikTvd": "27720002782241",
-    "tikName": "район Лианозово"
+    "tikName": "район Лианозово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 621,
     "uikTvd": "4774059254963",
+    "uikName": "УИК №621",
     "tikTvd": "27720002782241",
-    "tikName": "район Лианозово"
+    "tikName": "район Лианозово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 622,
     "uikTvd": "4774060237148",
+    "uikName": "УИК №622",
     "tikTvd": "27720002782218",
-    "tikName": "Лосиноостровский район"
+    "tikName": "Лосиноостровский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 624,
     "uikTvd": "4774060237149",
+    "uikName": "УИК №624",
     "tikTvd": "27720002782218",
-    "tikName": "Лосиноостровский район"
+    "tikName": "Лосиноостровский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 626,
     "uikTvd": "4774060237150",
+    "uikName": "УИК №626",
     "tikTvd": "27720002782218",
-    "tikName": "Лосиноостровский район"
+    "tikName": "Лосиноостровский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 627,
     "uikTvd": "4774060237151",
+    "uikName": "УИК №627",
     "tikTvd": "27720002782218",
-    "tikName": "Лосиноостровский район"
+    "tikName": "Лосиноостровский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 629,
     "uikTvd": "4774060237152",
+    "uikName": "УИК №629",
     "tikTvd": "27720002782218",
-    "tikName": "Лосиноостровский район"
+    "tikName": "Лосиноостровский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 630,
     "uikTvd": "4774060237153",
+    "uikName": "УИК №630",
     "tikTvd": "27720002782218",
-    "tikName": "Лосиноостровский район"
+    "tikName": "Лосиноостровский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 633,
     "uikTvd": "4774060237154",
+    "uikName": "УИК №633",
     "tikTvd": "27720002782218",
-    "tikName": "Лосиноостровский район"
+    "tikName": "Лосиноостровский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 634,
     "uikTvd": "4774060237155",
+    "uikName": "УИК №634",
     "tikTvd": "27720002782218",
-    "tikName": "Лосиноостровский район"
+    "tikName": "Лосиноостровский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 636,
     "uikTvd": "4774060237156",
+    "uikName": "УИК №636",
     "tikTvd": "27720002782218",
-    "tikName": "Лосиноостровский район"
+    "tikName": "Лосиноостровский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 638,
     "uikTvd": "4774060237157",
+    "uikName": "УИК №638",
     "tikTvd": "27720002782218",
-    "tikName": "Лосиноостровский район"
+    "tikName": "Лосиноостровский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 639,
     "uikTvd": "4774060237158",
+    "uikName": "УИК №639",
     "tikTvd": "27720002782218",
-    "tikName": "Лосиноостровский район"
+    "tikName": "Лосиноостровский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 640,
     "uikTvd": "4774060237159",
+    "uikName": "УИК №640",
     "tikTvd": "27720002782218",
-    "tikName": "Лосиноостровский район"
+    "tikName": "Лосиноостровский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 641,
     "uikTvd": "4774060237160",
+    "uikName": "УИК №641",
     "tikTvd": "27720002782218",
-    "tikName": "Лосиноостровский район"
+    "tikName": "Лосиноостровский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 644,
     "uikTvd": "4774061171781",
+    "uikName": "УИК №644",
     "tikTvd": "27720002782216",
-    "tikName": "район Марфино"
+    "tikName": "район Марфино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 645,
     "uikTvd": "4774061171782",
+    "uikName": "УИК №645",
     "tikTvd": "27720002782216",
-    "tikName": "район Марфино"
+    "tikName": "район Марфино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 646,
     "uikTvd": "4774061171783",
+    "uikName": "УИК №646",
     "tikTvd": "27720002782216",
-    "tikName": "район Марфино"
+    "tikName": "район Марфино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 649,
     "uikTvd": "4774061171784",
+    "uikName": "УИК №649",
     "tikTvd": "27720002782216",
-    "tikName": "район Марфино"
+    "tikName": "район Марфино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 651,
     "uikTvd": "4774061171785",
+    "uikName": "УИК №651",
     "tikTvd": "27720002782216",
-    "tikName": "район Марфино"
+    "tikName": "район Марфино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 654,
     "uikTvd": "4774062214386",
+    "uikName": "УИК №654",
     "tikTvd": "27720002782272",
-    "tikName": "район Марьина Роща"
+    "tikName": "район Марьина Роща",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 657,
     "uikTvd": "4774062214387",
+    "uikName": "УИК №657",
     "tikTvd": "27720002782272",
-    "tikName": "район Марьина Роща"
+    "tikName": "район Марьина Роща",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 659,
     "uikTvd": "4774062214388",
+    "uikName": "УИК №659",
     "tikTvd": "27720002782272",
-    "tikName": "район Марьина Роща"
+    "tikName": "район Марьина Роща",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 660,
     "uikTvd": "4774062214389",
+    "uikName": "УИК №660",
     "tikTvd": "27720002782272",
-    "tikName": "район Марьина Роща"
+    "tikName": "район Марьина Роща",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 664,
     "uikTvd": "4774062214390",
+    "uikName": "УИК №664",
     "tikTvd": "27720002782272",
-    "tikName": "район Марьина Роща"
+    "tikName": "район Марьина Роща",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 665,
     "uikTvd": "4774062214391",
+    "uikName": "УИК №665",
     "tikTvd": "27720002782272",
-    "tikName": "район Марьина Роща"
+    "tikName": "район Марьина Роща",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 666,
     "uikTvd": "4774062214392",
+    "uikName": "УИК №666",
     "tikTvd": "27720002782272",
-    "tikName": "район Марьина Роща"
+    "tikName": "район Марьина Роща",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 668,
     "uikTvd": "4774062214393",
+    "uikName": "УИК №668",
     "tikTvd": "27720002782272",
-    "tikName": "район Марьина Роща"
+    "tikName": "район Марьина Роща",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 669,
     "uikTvd": "4774062214394",
+    "uikName": "УИК №669",
     "tikTvd": "27720002782272",
-    "tikName": "район Марьина Роща"
+    "tikName": "район Марьина Роща",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 670,
     "uikTvd": "4774063223087",
+    "uikName": "УИК №670",
     "tikTvd": "27720002782246",
-    "tikName": "Останкинский район"
+    "tikName": "Останкинский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 673,
     "uikTvd": "4774063223088",
+    "uikName": "УИК №673",
     "tikTvd": "27720002782246",
-    "tikName": "Останкинский район"
+    "tikName": "Останкинский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 677,
     "uikTvd": "4774063223089",
+    "uikName": "УИК №677",
     "tikTvd": "27720002782246",
-    "tikName": "Останкинский район"
+    "tikName": "Останкинский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 679,
     "uikTvd": "4774063223090",
+    "uikName": "УИК №679",
     "tikTvd": "27720002782246",
-    "tikName": "Останкинский район"
+    "tikName": "Останкинский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 680,
     "uikTvd": "4774063223091",
+    "uikName": "УИК №680",
     "tikTvd": "27720002782246",
-    "tikName": "Останкинский район"
+    "tikName": "Останкинский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 681,
     "uikTvd": "4774063223092",
+    "uikName": "УИК №681",
     "tikTvd": "27720002782246",
-    "tikName": "Останкинский район"
+    "tikName": "Останкинский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 683,
     "uikTvd": "4774063223093",
+    "uikName": "УИК №683",
     "tikTvd": "27720002782246",
-    "tikName": "Останкинский район"
+    "tikName": "Останкинский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 684,
     "uikTvd": "4774063223094",
+    "uikName": "УИК №684",
     "tikTvd": "27720002782246",
-    "tikName": "Останкинский район"
+    "tikName": "Останкинский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 685,
     "uikTvd": "4774063223095",
+    "uikName": "УИК №685",
     "tikTvd": "27720002782246",
-    "tikName": "Останкинский район"
+    "tikName": "Останкинский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 688,
     "uikTvd": "4774064493930",
+    "uikName": "УИК №688",
     "tikTvd": "27720002782316",
-    "tikName": "район Отрадное"
+    "tikName": "район Отрадное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 690,
     "uikTvd": "4774064493931",
+    "uikName": "УИК №690",
     "tikTvd": "27720002782316",
-    "tikName": "район Отрадное"
+    "tikName": "район Отрадное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 692,
     "uikTvd": "4774064493932",
+    "uikName": "УИК №692",
     "tikTvd": "27720002782316",
-    "tikName": "район Отрадное"
+    "tikName": "район Отрадное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 693,
     "uikTvd": "4774064493933",
+    "uikName": "УИК №693",
     "tikTvd": "27720002782316",
-    "tikName": "район Отрадное"
+    "tikName": "район Отрадное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 696,
     "uikTvd": "4774064493934",
+    "uikName": "УИК №696",
     "tikTvd": "27720002782316",
-    "tikName": "район Отрадное"
+    "tikName": "район Отрадное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 697,
     "uikTvd": "4774064493935",
+    "uikName": "УИК №697",
     "tikTvd": "27720002782316",
-    "tikName": "район Отрадное"
+    "tikName": "район Отрадное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 699,
     "uikTvd": "4774064493936",
+    "uikName": "УИК №699",
     "tikTvd": "27720002782316",
-    "tikName": "район Отрадное"
+    "tikName": "район Отрадное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 701,
     "uikTvd": "4774064493937",
+    "uikName": "УИК №701",
     "tikTvd": "27720002782316",
-    "tikName": "район Отрадное"
+    "tikName": "район Отрадное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 705,
     "uikTvd": "4774064493938",
+    "uikName": "УИК №705",
     "tikTvd": "27720002782316",
-    "tikName": "район Отрадное"
+    "tikName": "район Отрадное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 707,
     "uikTvd": "4774064493939",
+    "uikName": "УИК №707",
     "tikTvd": "27720002782316",
-    "tikName": "район Отрадное"
+    "tikName": "район Отрадное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 708,
     "uikTvd": "4774064493940",
+    "uikName": "УИК №708",
     "tikTvd": "27720002782316",
-    "tikName": "район Отрадное"
+    "tikName": "район Отрадное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 711,
     "uikTvd": "4774064493941",
+    "uikName": "УИК №711",
     "tikTvd": "27720002782316",
-    "tikName": "район Отрадное"
+    "tikName": "район Отрадное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 712,
     "uikTvd": "4774064493942",
+    "uikName": "УИК №712",
     "tikTvd": "27720002782316",
-    "tikName": "район Отрадное"
+    "tikName": "район Отрадное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 714,
     "uikTvd": "4774064493943",
+    "uikName": "УИК №714",
     "tikTvd": "27720002782316",
-    "tikName": "район Отрадное"
+    "tikName": "район Отрадное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 715,
     "uikTvd": "4774064493944",
+    "uikName": "УИК №715",
     "tikTvd": "27720002782316",
-    "tikName": "район Отрадное"
+    "tikName": "район Отрадное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 718,
     "uikTvd": "4774064493945",
+    "uikName": "УИК №718",
     "tikTvd": "27720002782316",
-    "tikName": "район Отрадное"
+    "tikName": "район Отрадное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 720,
     "uikTvd": "4774064493946",
+    "uikName": "УИК №720",
     "tikTvd": "27720002782316",
-    "tikName": "район Отрадное"
+    "tikName": "район Отрадное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 721,
     "uikTvd": "4774064493947",
+    "uikName": "УИК №721",
     "tikTvd": "27720002782316",
-    "tikName": "район Отрадное"
+    "tikName": "район Отрадное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 724,
     "uikTvd": "4774064493948",
+    "uikName": "УИК №724",
     "tikTvd": "27720002782316",
-    "tikName": "район Отрадное"
+    "tikName": "район Отрадное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 725,
     "uikTvd": "4774064493949",
+    "uikName": "УИК №725",
     "tikTvd": "27720002782316",
-    "tikName": "район Отрадное"
+    "tikName": "район Отрадное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 729,
     "uikTvd": "4774064493950",
+    "uikName": "УИК №729",
     "tikTvd": "27720002782316",
-    "tikName": "район Отрадное"
+    "tikName": "район Отрадное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 730,
     "uikTvd": "4774064493951",
+    "uikName": "УИК №730",
     "tikTvd": "27720002782316",
-    "tikName": "район Отрадное"
+    "tikName": "район Отрадное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 732,
     "uikTvd": "4774064493952",
+    "uikName": "УИК №732",
     "tikTvd": "27720002782316",
-    "tikName": "район Отрадное"
+    "tikName": "район Отрадное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 735,
     "uikTvd": "4774064493953",
+    "uikName": "УИК №735",
     "tikTvd": "27720002782316",
-    "tikName": "район Отрадное"
+    "tikName": "район Отрадное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 736,
     "uikTvd": "4774064493954",
+    "uikName": "УИК №736",
     "tikTvd": "27720002782316",
-    "tikName": "район Отрадное"
+    "tikName": "район Отрадное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 741,
     "uikTvd": "4774065201183",
+    "uikName": "УИК №741",
     "tikTvd": "27720002782226",
-    "tikName": "район Ростокино"
+    "tikName": "район Ростокино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 743,
     "uikTvd": "4774065201184",
+    "uikName": "УИК №743",
     "tikTvd": "27720002782226",
-    "tikName": "район Ростокино"
+    "tikName": "район Ростокино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 747,
     "uikTvd": "4774065201185",
+    "uikName": "УИК №747",
     "tikTvd": "27720002782226",
-    "tikName": "район Ростокино"
+    "tikName": "район Ростокино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 749,
     "uikTvd": "4774065201186",
+    "uikName": "УИК №749",
     "tikTvd": "27720002782226",
-    "tikName": "район Ростокино"
+    "tikName": "район Ростокино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 750,
     "uikTvd": "4774065201187",
+    "uikName": "УИК №750",
     "tikTvd": "27720002782226",
-    "tikName": "район Ростокино"
+    "tikName": "район Ростокино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 752,
     "uikTvd": "4774065201188",
+    "uikName": "УИК №752",
     "tikTvd": "27720002782226",
-    "tikName": "район Ростокино"
+    "tikName": "район Ростокино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 754,
     "uikTvd": "4774066207759",
+    "uikName": "УИК №754",
     "tikTvd": "27720002782287",
-    "tikName": "район Свиблово"
+    "tikName": "район Свиблово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 756,
     "uikTvd": "4774066207760",
+    "uikName": "УИК №756",
     "tikTvd": "27720002782287",
-    "tikName": "район Свиблово"
+    "tikName": "район Свиблово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 757,
     "uikTvd": "4774066207761",
+    "uikName": "УИК №757",
     "tikTvd": "27720002782287",
-    "tikName": "район Свиблово"
+    "tikName": "район Свиблово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 760,
     "uikTvd": "4774066207762",
+    "uikName": "УИК №760",
     "tikTvd": "27720002782287",
-    "tikName": "район Свиблово"
+    "tikName": "район Свиблово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 761,
     "uikTvd": "4774066207763",
+    "uikName": "УИК №761",
     "tikTvd": "27720002782287",
-    "tikName": "район Свиблово"
+    "tikName": "район Свиблово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 762,
     "uikTvd": "4774066207764",
+    "uikName": "УИК №762",
     "tikTvd": "27720002782287",
-    "tikName": "район Свиблово"
+    "tikName": "район Свиблово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 764,
     "uikTvd": "4774066207765",
+    "uikName": "УИК №764",
     "tikTvd": "27720002782287",
-    "tikName": "район Свиблово"
+    "tikName": "район Свиблово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 765,
     "uikTvd": "4774066207766",
+    "uikName": "УИК №765",
     "tikTvd": "27720002782287",
-    "tikName": "район Свиблово"
+    "tikName": "район Свиблово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 767,
     "uikTvd": "4774067281164",
+    "uikName": "УИК №767",
     "tikTvd": "27720002782332",
-    "tikName": "район Северное Медведково"
+    "tikName": "район Северное Медведково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 768,
     "uikTvd": "4774067281165",
+    "uikName": "УИК №768",
     "tikTvd": "27720002782332",
-    "tikName": "район Северное Медведково"
+    "tikName": "район Северное Медведково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 769,
     "uikTvd": "4774067281166",
+    "uikName": "УИК №769",
     "tikTvd": "27720002782332",
-    "tikName": "район Северное Медведково"
+    "tikName": "район Северное Медведково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 772,
     "uikTvd": "4774067281167",
+    "uikName": "УИК №772",
     "tikTvd": "27720002782332",
-    "tikName": "район Северное Медведково"
+    "tikName": "район Северное Медведково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 773,
     "uikTvd": "4774067281168",
+    "uikName": "УИК №773",
     "tikTvd": "27720002782332",
-    "tikName": "район Северное Медведково"
+    "tikName": "район Северное Медведково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 774,
     "uikTvd": "4774067281169",
+    "uikName": "УИК №774",
     "tikTvd": "27720002782332",
-    "tikName": "район Северное Медведково"
+    "tikName": "район Северное Медведково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 775,
     "uikTvd": "4774067281170",
+    "uikName": "УИК №775",
     "tikTvd": "27720002782332",
-    "tikName": "район Северное Медведково"
+    "tikName": "район Северное Медведково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 777,
     "uikTvd": "4774067281171",
+    "uikName": "УИК №777",
     "tikTvd": "27720002782332",
-    "tikName": "район Северное Медведково"
+    "tikName": "район Северное Медведково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 780,
     "uikTvd": "4774067281172",
+    "uikName": "УИК №780",
     "tikTvd": "27720002782332",
-    "tikName": "район Северное Медведково"
+    "tikName": "район Северное Медведково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 781,
     "uikTvd": "4774067281173",
+    "uikName": "УИК №781",
     "tikTvd": "27720002782332",
-    "tikName": "район Северное Медведково"
+    "tikName": "район Северное Медведково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 783,
     "uikTvd": "4774067281174",
+    "uikName": "УИК №783",
     "tikTvd": "27720002782332",
-    "tikName": "район Северное Медведково"
+    "tikName": "район Северное Медведково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 784,
     "uikTvd": "4774067281175",
+    "uikName": "УИК №784",
     "tikTvd": "27720002782332",
-    "tikName": "район Северное Медведково"
+    "tikName": "район Северное Медведково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 787,
     "uikTvd": "4774067281176",
+    "uikName": "УИК №787",
     "tikTvd": "27720002782332",
-    "tikName": "район Северное Медведково"
+    "tikName": "район Северное Медведково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 788,
     "uikTvd": "4774067281177",
+    "uikName": "УИК №788",
     "tikTvd": "27720002782332",
-    "tikName": "район Северное Медведково"
+    "tikName": "район Северное Медведково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 790,
     "uikTvd": "4774067281178",
+    "uikName": "УИК №790",
     "tikTvd": "27720002782332",
-    "tikName": "район Северное Медведково"
+    "tikName": "район Северное Медведково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 791,
     "uikTvd": "4774067281179",
+    "uikName": "УИК №791",
     "tikTvd": "27720002782332",
-    "tikName": "район Северное Медведково"
+    "tikName": "район Северное Медведково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 792,
     "uikTvd": "4774067281180",
+    "uikName": "УИК №792",
     "tikTvd": "27720002782332",
-    "tikName": "район Северное Медведково"
+    "tikName": "район Северное Медведково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 794,
     "uikTvd": "4774067281181",
+    "uikName": "УИК №794",
     "tikTvd": "27720002782332",
-    "tikName": "район Северное Медведково"
+    "tikName": "район Северное Медведково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 798,
     "uikTvd": "4774068266228",
+    "uikName": "УИК №798",
     "tikTvd": "27720002782234",
-    "tikName": "район Северный"
+    "tikName": "район Северный",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 799,
     "uikTvd": "4774068266229",
+    "uikName": "УИК №799",
     "tikTvd": "27720002782234",
-    "tikName": "район Северный"
+    "tikName": "район Северный",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 800,
     "uikTvd": "4774068266230",
+    "uikName": "УИК №800",
     "tikTvd": "27720002782234",
-    "tikName": "район Северный"
+    "tikName": "район Северный",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 803,
     "uikTvd": "4774068266231",
+    "uikName": "УИК №803",
     "tikTvd": "27720002782234",
-    "tikName": "район Северный"
+    "tikName": "район Северный",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 804,
     "uikTvd": "4774068266232",
+    "uikName": "УИК №804",
     "tikTvd": "27720002782234",
-    "tikName": "район Северный"
+    "tikName": "район Северный",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 806,
     "uikTvd": "4774068266233",
+    "uikName": "УИК №806",
     "tikTvd": "27720002782234",
-    "tikName": "район Северный"
+    "tikName": "район Северный",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 807,
     "uikTvd": "4774069233541",
+    "uikName": "УИК №807",
     "tikTvd": "27720002782278",
-    "tikName": "район Южное Медведково"
+    "tikName": "район Южное Медведково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 808,
     "uikTvd": "4774069233542",
+    "uikName": "УИК №808",
     "tikTvd": "27720002782278",
-    "tikName": "район Южное Медведково"
+    "tikName": "район Южное Медведково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 809,
     "uikTvd": "4774069233543",
+    "uikName": "УИК №809",
     "tikTvd": "27720002782278",
-    "tikName": "район Южное Медведково"
+    "tikName": "район Южное Медведково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 810,
     "uikTvd": "4774069233544",
+    "uikName": "УИК №810",
     "tikTvd": "27720002782278",
-    "tikName": "район Южное Медведково"
+    "tikName": "район Южное Медведково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 811,
     "uikTvd": "4774069233545",
+    "uikName": "УИК №811",
     "tikTvd": "27720002782278",
-    "tikName": "район Южное Медведково"
+    "tikName": "район Южное Медведково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 813,
     "uikTvd": "4774069233546",
+    "uikName": "УИК №813",
     "tikTvd": "27720002782278",
-    "tikName": "район Южное Медведково"
+    "tikName": "район Южное Медведково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 815,
     "uikTvd": "4774069233547",
+    "uikName": "УИК №815",
     "tikTvd": "27720002782278",
-    "tikName": "район Южное Медведково"
+    "tikName": "район Южное Медведково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 816,
     "uikTvd": "4774069233548",
+    "uikName": "УИК №816",
     "tikTvd": "27720002782278",
-    "tikName": "район Южное Медведково"
+    "tikName": "район Южное Медведково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 817,
     "uikTvd": "4774069233549",
+    "uikName": "УИК №817",
     "tikTvd": "27720002782278",
-    "tikName": "район Южное Медведково"
+    "tikName": "район Южное Медведково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 818,
     "uikTvd": "4774069233550",
+    "uikName": "УИК №818",
     "tikTvd": "27720002782278",
-    "tikName": "район Южное Медведково"
+    "tikName": "район Южное Медведково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 819,
     "uikTvd": "4774069233551",
+    "uikName": "УИК №819",
     "tikTvd": "27720002782278",
-    "tikName": "район Южное Медведково"
+    "tikName": "район Южное Медведково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 820,
     "uikTvd": "4774069233552",
+    "uikName": "УИК №820",
     "tikTvd": "27720002782278",
-    "tikName": "район Южное Медведково"
+    "tikName": "район Южное Медведково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 824,
     "uikTvd": "4774069233553",
+    "uikName": "УИК №824",
     "tikTvd": "27720002782278",
-    "tikName": "район Южное Медведково"
+    "tikName": "район Южное Медведково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 825,
     "uikTvd": "4774069233554",
+    "uikName": "УИК №825",
     "tikTvd": "27720002782278",
-    "tikName": "район Южное Медведково"
+    "tikName": "район Южное Медведково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 827,
     "uikTvd": "4774070272333",
+    "uikName": "УИК №827",
     "tikTvd": "27720002782263",
-    "tikName": "Ярославский район"
+    "tikName": "Ярославский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 829,
     "uikTvd": "4774070272334",
+    "uikName": "УИК №829",
     "tikTvd": "27720002782263",
-    "tikName": "Ярославский район"
+    "tikName": "Ярославский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 831,
     "uikTvd": "4774070272335",
+    "uikName": "УИК №831",
     "tikTvd": "27720002782263",
-    "tikName": "Ярославский район"
+    "tikName": "Ярославский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 832,
     "uikTvd": "4774070272336",
+    "uikName": "УИК №832",
     "tikTvd": "27720002782263",
-    "tikName": "Ярославский район"
+    "tikName": "Ярославский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 833,
     "uikTvd": "4774070272337",
+    "uikName": "УИК №833",
     "tikTvd": "27720002782263",
-    "tikName": "Ярославский район"
+    "tikName": "Ярославский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 836,
     "uikTvd": "4774070272338",
+    "uikName": "УИК №836",
     "tikTvd": "27720002782263",
-    "tikName": "Ярославский район"
+    "tikName": "Ярославский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 837,
     "uikTvd": "4774070272339",
+    "uikName": "УИК №837",
     "tikTvd": "27720002782263",
-    "tikName": "Ярославский район"
+    "tikName": "Ярославский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 839,
     "uikTvd": "4774070272340",
+    "uikName": "УИК №839",
     "tikTvd": "27720002782263",
-    "tikName": "Ярославский район"
+    "tikName": "Ярославский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 841,
     "uikTvd": "4774070272341",
+    "uikName": "УИК №841",
     "tikTvd": "27720002782263",
-    "tikName": "Ярославский район"
+    "tikName": "Ярославский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 842,
     "uikTvd": "4774070272342",
+    "uikName": "УИК №842",
     "tikTvd": "27720002782263",
-    "tikName": "Ярославский район"
+    "tikName": "Ярославский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 844,
     "uikTvd": "4774070272343",
+    "uikName": "УИК №844",
     "tikTvd": "27720002782263",
-    "tikName": "Ярославский район"
+    "tikName": "Ярославский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 845,
     "uikTvd": "4774070272344",
+    "uikName": "УИК №845",
     "tikTvd": "27720002782263",
-    "tikName": "Ярославский район"
+    "tikName": "Ярославский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 846,
     "uikTvd": "4774070272345",
+    "uikName": "УИК №846",
     "tikTvd": "27720002782263",
-    "tikName": "Ярославский район"
+    "tikName": "Ярославский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 848,
     "uikTvd": "4774070272346",
+    "uikName": "УИК №848",
     "tikTvd": "27720002782263",
-    "tikName": "Ярославский район"
+    "tikName": "Ярославский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 849,
     "uikTvd": "4774070272347",
+    "uikName": "УИК №849",
     "tikTvd": "27720002782263",
-    "tikName": "Ярославский район"
+    "tikName": "Ярославский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 850,
     "uikTvd": "4774001294868",
+    "uikName": "УИК №850",
     "tikTvd": "27720002782306",
-    "tikName": "район Богородское"
+    "tikName": "район Богородское",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 852,
     "uikTvd": "4774001294869",
+    "uikName": "УИК №852",
     "tikTvd": "27720002782306",
-    "tikName": "район Богородское"
+    "tikName": "район Богородское",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 853,
     "uikTvd": "4774001294870",
+    "uikName": "УИК №853",
     "tikTvd": "27720002782306",
-    "tikName": "район Богородское"
+    "tikName": "район Богородское",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 855,
     "uikTvd": "4774001294871",
+    "uikName": "УИК №855",
     "tikTvd": "27720002782306",
-    "tikName": "район Богородское"
+    "tikName": "район Богородское",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 856,
     "uikTvd": "4774001294872",
+    "uikName": "УИК №856",
     "tikTvd": "27720002782306",
-    "tikName": "район Богородское"
+    "tikName": "район Богородское",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 857,
     "uikTvd": "4774001294873",
+    "uikName": "УИК №857",
     "tikTvd": "27720002782306",
-    "tikName": "район Богородское"
+    "tikName": "район Богородское",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 859,
     "uikTvd": "4774001294874",
+    "uikName": "УИК №859",
     "tikTvd": "27720002782306",
-    "tikName": "район Богородское"
+    "tikName": "район Богородское",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 861,
     "uikTvd": "4774001294875",
+    "uikName": "УИК №861",
     "tikTvd": "27720002782306",
-    "tikName": "район Богородское"
+    "tikName": "район Богородское",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 863,
     "uikTvd": "4774001294876",
+    "uikName": "УИК №863",
     "tikTvd": "27720002782306",
-    "tikName": "район Богородское"
+    "tikName": "район Богородское",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 867,
     "uikTvd": "4774001294877",
+    "uikName": "УИК №867",
     "tikTvd": "27720002782306",
-    "tikName": "район Богородское"
+    "tikName": "район Богородское",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 868,
     "uikTvd": "4774001294878",
+    "uikName": "УИК №868",
     "tikTvd": "27720002782306",
-    "tikName": "район Богородское"
+    "tikName": "район Богородское",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 869,
     "uikTvd": "4774001294879",
+    "uikName": "УИК №869",
     "tikTvd": "27720002782306",
-    "tikName": "район Богородское"
+    "tikName": "район Богородское",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 871,
     "uikTvd": "4774001294880",
+    "uikName": "УИК №871",
     "tikTvd": "27720002782306",
-    "tikName": "район Богородское"
+    "tikName": "район Богородское",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 872,
     "uikTvd": "4774001294881",
+    "uikName": "УИК №872",
     "tikTvd": "27720002782306",
-    "tikName": "район Богородское"
+    "tikName": "район Богородское",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 873,
     "uikTvd": "4774001294882",
+    "uikName": "УИК №873",
     "tikTvd": "27720002782306",
-    "tikName": "район Богородское"
+    "tikName": "район Богородское",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 875,
     "uikTvd": "4774001294883",
+    "uikName": "УИК №875",
     "tikTvd": "27720002782306",
-    "tikName": "район Богородское"
+    "tikName": "район Богородское",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 876,
     "uikTvd": "4774001294884",
+    "uikName": "УИК №876",
     "tikTvd": "27720002782306",
-    "tikName": "район Богородское"
+    "tikName": "район Богородское",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 878,
     "uikTvd": "4774001294885",
+    "uikName": "УИК №878",
     "tikTvd": "27720002782306",
-    "tikName": "район Богородское"
+    "tikName": "район Богородское",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 879,
     "uikTvd": "4774001294886",
+    "uikName": "УИК №879",
     "tikTvd": "27720002782306",
-    "tikName": "район Богородское"
+    "tikName": "район Богородское",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 880,
     "uikTvd": "4774001294887",
+    "uikName": "УИК №880",
     "tikTvd": "27720002782306",
-    "tikName": "район Богородское"
+    "tikName": "район Богородское",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 882,
     "uikTvd": "4774002338186",
+    "uikName": "УИК №882",
     "tikTvd": "27720002782309",
-    "tikName": "район Вешняки "
+    "tikName": "район Вешняки ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 883,
     "uikTvd": "4774002338187",
+    "uikName": "УИК №883",
     "tikTvd": "27720002782309",
-    "tikName": "район Вешняки "
+    "tikName": "район Вешняки ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 885,
     "uikTvd": "4774002338188",
+    "uikName": "УИК №885",
     "tikTvd": "27720002782309",
-    "tikName": "район Вешняки "
+    "tikName": "район Вешняки ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 887,
     "uikTvd": "4774002338189",
+    "uikName": "УИК №887",
     "tikTvd": "27720002782309",
-    "tikName": "район Вешняки "
+    "tikName": "район Вешняки ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 889,
     "uikTvd": "4774002338190",
+    "uikName": "УИК №889",
     "tikTvd": "27720002782309",
-    "tikName": "район Вешняки "
+    "tikName": "район Вешняки ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 890,
     "uikTvd": "4774002338191",
+    "uikName": "УИК №890",
     "tikTvd": "27720002782309",
-    "tikName": "район Вешняки "
+    "tikName": "район Вешняки ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 892,
     "uikTvd": "4774002338192",
+    "uikName": "УИК №892",
     "tikTvd": "27720002782309",
-    "tikName": "район Вешняки "
+    "tikName": "район Вешняки ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 894,
     "uikTvd": "4774002338193",
+    "uikName": "УИК №894",
     "tikTvd": "27720002782309",
-    "tikName": "район Вешняки "
+    "tikName": "район Вешняки ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 895,
     "uikTvd": "4774002338194",
+    "uikName": "УИК №895",
     "tikTvd": "27720002782309",
-    "tikName": "район Вешняки "
+    "tikName": "район Вешняки ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 897,
     "uikTvd": "4774002338195",
+    "uikName": "УИК №897",
     "tikTvd": "27720002782309",
-    "tikName": "район Вешняки "
+    "tikName": "район Вешняки ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 898,
     "uikTvd": "4774002338196",
+    "uikName": "УИК №898",
     "tikTvd": "27720002782309",
-    "tikName": "район Вешняки "
+    "tikName": "район Вешняки ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 899,
     "uikTvd": "4774002338197",
+    "uikName": "УИК №899",
     "tikTvd": "27720002782309",
-    "tikName": "район Вешняки "
+    "tikName": "район Вешняки ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 902,
     "uikTvd": "4774002338198",
+    "uikName": "УИК №902",
     "tikTvd": "27720002782309",
-    "tikName": "район Вешняки "
+    "tikName": "район Вешняки ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 904,
     "uikTvd": "4774002338199",
+    "uikName": "УИК №904",
     "tikTvd": "27720002782309",
-    "tikName": "район Вешняки "
+    "tikName": "район Вешняки ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 906,
     "uikTvd": "4774002338200",
+    "uikName": "УИК №906",
     "tikTvd": "27720002782309",
-    "tikName": "район Вешняки "
+    "tikName": "район Вешняки ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 909,
     "uikTvd": "4774002338201",
+    "uikName": "УИК №909",
     "tikTvd": "27720002782309",
-    "tikName": "район Вешняки "
+    "tikName": "район Вешняки ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 910,
     "uikTvd": "4774002338202",
+    "uikName": "УИК №910",
     "tikTvd": "27720002782309",
-    "tikName": "район Вешняки "
+    "tikName": "район Вешняки ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 911,
     "uikTvd": "4774002338203",
+    "uikName": "УИК №911",
     "tikTvd": "27720002782309",
-    "tikName": "район Вешняки "
+    "tikName": "район Вешняки ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 913,
     "uikTvd": "4774002338204",
+    "uikName": "УИК №913",
     "tikTvd": "27720002782309",
-    "tikName": "район Вешняки "
+    "tikName": "район Вешняки ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 916,
     "uikTvd": "4774002338205",
+    "uikName": "УИК №916",
     "tikTvd": "27720002782309",
-    "tikName": "район Вешняки "
+    "tikName": "район Вешняки ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 917,
     "uikTvd": "4774002338206",
+    "uikName": "УИК №917",
     "tikTvd": "27720002782309",
-    "tikName": "район Вешняки "
+    "tikName": "район Вешняки ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 921,
     "uikTvd": "4774003229866",
+    "uikName": "УИК №921",
     "tikTvd": "27720002782221",
-    "tikName": "район Восточное Измайлово "
+    "tikName": "район Восточное Измайлово ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 922,
     "uikTvd": "4774003229867",
+    "uikName": "УИК №922",
     "tikTvd": "27720002782221",
-    "tikName": "район Восточное Измайлово "
+    "tikName": "район Восточное Измайлово ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 923,
     "uikTvd": "4774003229868",
+    "uikName": "УИК №923",
     "tikTvd": "27720002782221",
-    "tikName": "район Восточное Измайлово "
+    "tikName": "район Восточное Измайлово ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 924,
     "uikTvd": "4774003229869",
+    "uikName": "УИК №924",
     "tikTvd": "27720002782221",
-    "tikName": "район Восточное Измайлово "
+    "tikName": "район Восточное Измайлово ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 927,
     "uikTvd": "4774003229870",
+    "uikName": "УИК №927",
     "tikTvd": "27720002782221",
-    "tikName": "район Восточное Измайлово "
+    "tikName": "район Восточное Измайлово ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 928,
     "uikTvd": "4774003229871",
+    "uikName": "УИК №928",
     "tikTvd": "27720002782221",
-    "tikName": "район Восточное Измайлово "
+    "tikName": "район Восточное Измайлово ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 929,
     "uikTvd": "4774003229872",
+    "uikName": "УИК №929",
     "tikTvd": "27720002782221",
-    "tikName": "район Восточное Измайлово "
+    "tikName": "район Восточное Измайлово ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 930,
     "uikTvd": "4774003229873",
+    "uikName": "УИК №930",
     "tikTvd": "27720002782221",
-    "tikName": "район Восточное Измайлово "
+    "tikName": "район Восточное Измайлово ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 933,
     "uikTvd": "4774003229874",
+    "uikName": "УИК №933",
     "tikTvd": "27720002782221",
-    "tikName": "район Восточное Измайлово "
+    "tikName": "район Восточное Измайлово ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 934,
     "uikTvd": "4774003229875",
+    "uikName": "УИК №934",
     "tikTvd": "27720002782221",
-    "tikName": "район Восточное Измайлово "
+    "tikName": "район Восточное Измайлово ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 935,
     "uikTvd": "4774003229876",
+    "uikName": "УИК №935",
     "tikTvd": "27720002782221",
-    "tikName": "район Восточное Измайлово "
+    "tikName": "район Восточное Измайлово ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 936,
     "uikTvd": "4774003229877",
+    "uikName": "УИК №936",
     "tikTvd": "27720002782221",
-    "tikName": "район Восточное Измайлово "
+    "tikName": "район Восточное Измайлово ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 940,
     "uikTvd": "4774012160052",
+    "uikName": "УИК №940",
     "tikTvd": "27720002782318",
-    "tikName": "район Восточный"
+    "tikName": "район Восточный",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 942,
     "uikTvd": "4774012160053",
+    "uikName": "УИК №942",
     "tikTvd": "27720002782318",
-    "tikName": "район Восточный"
+    "tikName": "район Восточный",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 943,
     "uikTvd": "4774012160054",
+    "uikName": "УИК №943",
     "tikTvd": "27720002782318",
-    "tikName": "район Восточный"
+    "tikName": "район Восточный",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 944,
     "uikTvd": "4774004338474",
+    "uikName": "УИК №944",
     "tikTvd": "27720002782301",
-    "tikName": "район Гольяново "
+    "tikName": "район Гольяново ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 946,
     "uikTvd": "4774004338475",
+    "uikName": "УИК №946",
     "tikTvd": "27720002782301",
-    "tikName": "район Гольяново "
+    "tikName": "район Гольяново ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 947,
     "uikTvd": "4774004338476",
+    "uikName": "УИК №947",
     "tikTvd": "27720002782301",
-    "tikName": "район Гольяново "
+    "tikName": "район Гольяново ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 949,
     "uikTvd": "4774004338477",
+    "uikName": "УИК №949",
     "tikTvd": "27720002782301",
-    "tikName": "район Гольяново "
+    "tikName": "район Гольяново ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 950,
     "uikTvd": "4774004338478",
+    "uikName": "УИК №950",
     "tikTvd": "27720002782301",
-    "tikName": "район Гольяново "
+    "tikName": "район Гольяново ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 951,
     "uikTvd": "4774004338479",
+    "uikName": "УИК №951",
     "tikTvd": "27720002782301",
-    "tikName": "район Гольяново "
+    "tikName": "район Гольяново ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 952,
     "uikTvd": "4774004338480",
+    "uikName": "УИК №952",
     "tikTvd": "27720002782301",
-    "tikName": "район Гольяново "
+    "tikName": "район Гольяново ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 954,
     "uikTvd": "4774004338481",
+    "uikName": "УИК №954",
     "tikTvd": "27720002782301",
-    "tikName": "район Гольяново "
+    "tikName": "район Гольяново ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 956,
     "uikTvd": "4774004338482",
+    "uikName": "УИК №956",
     "tikTvd": "27720002782301",
-    "tikName": "район Гольяново "
+    "tikName": "район Гольяново ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 959,
     "uikTvd": "4774004338483",
+    "uikName": "УИК №959",
     "tikTvd": "27720002782301",
-    "tikName": "район Гольяново "
+    "tikName": "район Гольяново ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 961,
     "uikTvd": "4774004338484",
+    "uikName": "УИК №961",
     "tikTvd": "27720002782301",
-    "tikName": "район Гольяново "
+    "tikName": "район Гольяново ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 962,
     "uikTvd": "4774004338485",
+    "uikName": "УИК №962",
     "tikTvd": "27720002782301",
-    "tikName": "район Гольяново "
+    "tikName": "район Гольяново ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 964,
     "uikTvd": "4774004338486",
+    "uikName": "УИК №964",
     "tikTvd": "27720002782301",
-    "tikName": "район Гольяново "
+    "tikName": "район Гольяново ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 965,
     "uikTvd": "4774004338487",
+    "uikName": "УИК №965",
     "tikTvd": "27720002782301",
-    "tikName": "район Гольяново "
+    "tikName": "район Гольяново ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 967,
     "uikTvd": "4774004338488",
+    "uikName": "УИК №967",
     "tikTvd": "27720002782301",
-    "tikName": "район Гольяново "
+    "tikName": "район Гольяново ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 968,
     "uikTvd": "4774004338489",
+    "uikName": "УИК №968",
     "tikTvd": "27720002782301",
-    "tikName": "район Гольяново "
+    "tikName": "район Гольяново ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 970,
     "uikTvd": "4774004338490",
+    "uikName": "УИК №970",
     "tikTvd": "27720002782301",
-    "tikName": "район Гольяново "
+    "tikName": "район Гольяново ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 973,
     "uikTvd": "4774004338491",
+    "uikName": "УИК №973",
     "tikTvd": "27720002782301",
-    "tikName": "район Гольяново "
+    "tikName": "район Гольяново ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 974,
     "uikTvd": "4774004338492",
+    "uikName": "УИК №974",
     "tikTvd": "27720002782301",
-    "tikName": "район Гольяново "
+    "tikName": "район Гольяново ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 975,
     "uikTvd": "4774004338493",
+    "uikName": "УИК №975",
     "tikTvd": "27720002782301",
-    "tikName": "район Гольяново "
+    "tikName": "район Гольяново ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 977,
     "uikTvd": "4774004338494",
+    "uikName": "УИК №977",
     "tikTvd": "27720002782301",
-    "tikName": "район Гольяново "
+    "tikName": "район Гольяново ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 978,
     "uikTvd": "4774004338495",
+    "uikName": "УИК №978",
     "tikTvd": "27720002782301",
-    "tikName": "район Гольяново "
+    "tikName": "район Гольяново ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 980,
     "uikTvd": "4774004338496",
+    "uikName": "УИК №980",
     "tikTvd": "27720002782301",
-    "tikName": "район Гольяново "
+    "tikName": "район Гольяново ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 981,
     "uikTvd": "4774004338497",
+    "uikName": "УИК №981",
     "tikTvd": "27720002782301",
-    "tikName": "район Гольяново "
+    "tikName": "район Гольяново ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 982,
     "uikTvd": "4774004338498",
+    "uikName": "УИК №982",
     "tikTvd": "27720002782301",
-    "tikName": "район Гольяново "
+    "tikName": "район Гольяново ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 983,
     "uikTvd": "4774004338499",
+    "uikName": "УИК №983",
     "tikTvd": "27720002782301",
-    "tikName": "район Гольяново "
+    "tikName": "район Гольяново ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 985,
     "uikTvd": "4774004338500",
+    "uikName": "УИК №985",
     "tikTvd": "27720002782301",
-    "tikName": "район Гольяново "
+    "tikName": "район Гольяново ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 987,
     "uikTvd": "4774004338501",
+    "uikName": "УИК №987",
     "tikTvd": "27720002782301",
-    "tikName": "район Гольяново "
+    "tikName": "район Гольяново ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 989,
     "uikTvd": "4774004338502",
+    "uikName": "УИК №989",
     "tikTvd": "27720002782301",
-    "tikName": "район Гольяново "
+    "tikName": "район Гольяново ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 990,
     "uikTvd": "4774005416457",
+    "uikName": "УИК №990",
     "tikTvd": "27720002782276",
-    "tikName": "район Ивановское "
+    "tikName": "район Ивановское ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 992,
     "uikTvd": "4774005416458",
+    "uikName": "УИК №992",
     "tikTvd": "27720002782276",
-    "tikName": "район Ивановское "
+    "tikName": "район Ивановское ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 995,
     "uikTvd": "4774005416459",
+    "uikName": "УИК №995",
     "tikTvd": "27720002782276",
-    "tikName": "район Ивановское "
+    "tikName": "район Ивановское ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 996,
     "uikTvd": "4774005416460",
+    "uikName": "УИК №996",
     "tikTvd": "27720002782276",
-    "tikName": "район Ивановское "
+    "tikName": "район Ивановское ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 998,
     "uikTvd": "4774005416461",
+    "uikName": "УИК №998",
     "tikTvd": "27720002782276",
-    "tikName": "район Ивановское "
+    "tikName": "район Ивановское ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1000,
     "uikTvd": "4774005416462",
+    "uikName": "УИК №1000",
     "tikTvd": "27720002782276",
-    "tikName": "район Ивановское "
+    "tikName": "район Ивановское ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1001,
     "uikTvd": "4774005416463",
+    "uikName": "УИК №1001",
     "tikTvd": "27720002782276",
-    "tikName": "район Ивановское "
+    "tikName": "район Ивановское ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1002,
     "uikTvd": "4774005416464",
+    "uikName": "УИК №1002",
     "tikTvd": "27720002782276",
-    "tikName": "район Ивановское "
+    "tikName": "район Ивановское ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1004,
     "uikTvd": "4774005416465",
+    "uikName": "УИК №1004",
     "tikTvd": "27720002782276",
-    "tikName": "район Ивановское "
+    "tikName": "район Ивановское ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1006,
     "uikTvd": "4774005416466",
+    "uikName": "УИК №1006",
     "tikTvd": "27720002782276",
-    "tikName": "район Ивановское "
+    "tikName": "район Ивановское ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1008,
     "uikTvd": "4774005416467",
+    "uikName": "УИК №1008",
     "tikTvd": "27720002782276",
-    "tikName": "район Ивановское "
+    "tikName": "район Ивановское ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1009,
     "uikTvd": "4774005416468",
+    "uikName": "УИК №1009",
     "tikTvd": "27720002782276",
-    "tikName": "район Ивановское "
+    "tikName": "район Ивановское ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1011,
     "uikTvd": "4774005416469",
+    "uikName": "УИК №1011",
     "tikTvd": "27720002782276",
-    "tikName": "район Ивановское "
+    "tikName": "район Ивановское ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1012,
     "uikTvd": "4774005416470",
+    "uikName": "УИК №1012",
     "tikTvd": "27720002782276",
-    "tikName": "район Ивановское "
+    "tikName": "район Ивановское ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1014,
     "uikTvd": "4774005416471",
+    "uikName": "УИК №1014",
     "tikTvd": "27720002782276",
-    "tikName": "район Ивановское "
+    "tikName": "район Ивановское ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1016,
     "uikTvd": "4774005416472",
+    "uikName": "УИК №1016",
     "tikTvd": "27720002782276",
-    "tikName": "район Ивановское "
+    "tikName": "район Ивановское ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1017,
     "uikTvd": "4774005416473",
+    "uikName": "УИК №1017",
     "tikTvd": "27720002782276",
-    "tikName": "район Ивановское "
+    "tikName": "район Ивановское ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1020,
     "uikTvd": "4774005416474",
+    "uikName": "УИК №1020",
     "tikTvd": "27720002782276",
-    "tikName": "район Ивановское "
+    "tikName": "район Ивановское ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1022,
     "uikTvd": "4774005416475",
+    "uikName": "УИК №1022",
     "tikTvd": "27720002782276",
-    "tikName": "район Ивановское "
+    "tikName": "район Ивановское ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1023,
     "uikTvd": "4774005416476",
+    "uikName": "УИК №1023",
     "tikTvd": "27720002782276",
-    "tikName": "район Ивановское "
+    "tikName": "район Ивановское ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1025,
     "uikTvd": "4774005416477",
+    "uikName": "УИК №1025",
     "tikTvd": "27720002782276",
-    "tikName": "район Ивановское "
+    "tikName": "район Ивановское ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1027,
     "uikTvd": "4774006294505",
+    "uikName": "УИК №1027",
     "tikTvd": "27720002782214",
-    "tikName": "район Измайлово "
+    "tikName": "район Измайлово ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1030,
     "uikTvd": "4774006294506",
+    "uikName": "УИК №1030",
     "tikTvd": "27720002782214",
-    "tikName": "район Измайлово "
+    "tikName": "район Измайлово ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1031,
     "uikTvd": "4774006294507",
+    "uikName": "УИК №1031",
     "tikTvd": "27720002782214",
-    "tikName": "район Измайлово "
+    "tikName": "район Измайлово ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1033,
     "uikTvd": "4774006294508",
+    "uikName": "УИК №1033",
     "tikTvd": "27720002782214",
-    "tikName": "район Измайлово "
+    "tikName": "район Измайлово ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1035,
     "uikTvd": "4774006294509",
+    "uikName": "УИК №1035",
     "tikTvd": "27720002782214",
-    "tikName": "район Измайлово "
+    "tikName": "район Измайлово ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1038,
     "uikTvd": "4774006294510",
+    "uikName": "УИК №1038",
     "tikTvd": "27720002782214",
-    "tikName": "район Измайлово "
+    "tikName": "район Измайлово ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1039,
     "uikTvd": "4774006294511",
+    "uikName": "УИК №1039",
     "tikTvd": "27720002782214",
-    "tikName": "район Измайлово "
+    "tikName": "район Измайлово ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1040,
     "uikTvd": "4774006294512",
+    "uikName": "УИК №1040",
     "tikTvd": "27720002782214",
-    "tikName": "район Измайлово "
+    "tikName": "район Измайлово ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1042,
     "uikTvd": "4774006294513",
+    "uikName": "УИК №1042",
     "tikTvd": "27720002782214",
-    "tikName": "район Измайлово "
+    "tikName": "район Измайлово ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1044,
     "uikTvd": "4774006294514",
+    "uikName": "УИК №1044",
     "tikTvd": "27720002782214",
-    "tikName": "район Измайлово "
+    "tikName": "район Измайлово ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1046,
     "uikTvd": "4774006294515",
+    "uikName": "УИК №1046",
     "tikTvd": "27720002782214",
-    "tikName": "район Измайлово "
+    "tikName": "район Измайлово ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1048,
     "uikTvd": "4774006294516",
+    "uikName": "УИК №1048",
     "tikTvd": "27720002782214",
-    "tikName": "район Измайлово "
+    "tikName": "район Измайлово ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1051,
     "uikTvd": "4774006294517",
+    "uikName": "УИК №1051",
     "tikTvd": "27720002782214",
-    "tikName": "район Измайлово "
+    "tikName": "район Измайлово ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1052,
     "uikTvd": "4774006294518",
+    "uikName": "УИК №1052",
     "tikTvd": "27720002782214",
-    "tikName": "район Измайлово "
+    "tikName": "район Измайлово ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1057,
     "uikTvd": "4774006294519",
+    "uikName": "УИК №1057",
     "tikTvd": "27720002782214",
-    "tikName": "район Измайлово "
+    "tikName": "район Измайлово ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1059,
     "uikTvd": "4774006294520",
+    "uikName": "УИК №1059",
     "tikTvd": "27720002782214",
-    "tikName": "район Измайлово "
+    "tikName": "район Измайлово ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1062,
     "uikTvd": "4774007236112",
+    "uikName": "УИК №1062",
     "tikTvd": "27720002782325",
-    "tikName": "район Косино-Ухтомский "
+    "tikName": "район Косино-Ухтомский ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1063,
     "uikTvd": "4774007236113",
+    "uikName": "УИК №1063",
     "tikTvd": "27720002782325",
-    "tikName": "район Косино-Ухтомский "
+    "tikName": "район Косино-Ухтомский ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1064,
     "uikTvd": "4774007236114",
+    "uikName": "УИК №1064",
     "tikTvd": "27720002782325",
-    "tikName": "район Косино-Ухтомский "
+    "tikName": "район Косино-Ухтомский ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1065,
     "uikTvd": "4774007236115",
+    "uikName": "УИК №1065",
     "tikTvd": "27720002782325",
-    "tikName": "район Косино-Ухтомский "
+    "tikName": "район Косино-Ухтомский ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1067,
     "uikTvd": "4774007236116",
+    "uikName": "УИК №1067",
     "tikTvd": "27720002782325",
-    "tikName": "район Косино-Ухтомский "
+    "tikName": "район Косино-Ухтомский ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1068,
     "uikTvd": "4774007236117",
+    "uikName": "УИК №1068",
     "tikTvd": "27720002782325",
-    "tikName": "район Косино-Ухтомский "
+    "tikName": "район Косино-Ухтомский ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1069,
     "uikTvd": "4774007236118",
+    "uikName": "УИК №1069",
     "tikTvd": "27720002782325",
-    "tikName": "район Косино-Ухтомский "
+    "tikName": "район Косино-Ухтомский ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1071,
     "uikTvd": "4774007236119",
+    "uikName": "УИК №1071",
     "tikTvd": "27720002782325",
-    "tikName": "район Косино-Ухтомский "
+    "tikName": "район Косино-Ухтомский ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1072,
     "uikTvd": "4774007236120",
+    "uikName": "УИК №1072",
     "tikTvd": "27720002782325",
-    "tikName": "район Косино-Ухтомский "
+    "tikName": "район Косино-Ухтомский ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1074,
     "uikTvd": "4774007236121",
+    "uikName": "УИК №1074",
     "tikTvd": "27720002782325",
-    "tikName": "район Косино-Ухтомский "
+    "tikName": "район Косино-Ухтомский ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1076,
     "uikTvd": "4774007236122",
+    "uikName": "УИК №1076",
     "tikTvd": "27720002782325",
-    "tikName": "район Косино-Ухтомский "
+    "tikName": "район Косино-Ухтомский ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1077,
     "uikTvd": "4774007236123",
+    "uikName": "УИК №1077",
     "tikTvd": "27720002782325",
-    "tikName": "район Косино-Ухтомский "
+    "tikName": "район Косино-Ухтомский ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1078,
     "uikTvd": "4774007236124",
+    "uikName": "УИК №1078",
     "tikTvd": "27720002782325",
-    "tikName": "район Косино-Ухтомский "
+    "tikName": "район Косино-Ухтомский ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1080,
     "uikTvd": "4774008184520",
+    "uikName": "УИК №1080",
     "tikTvd": "27720002782277",
-    "tikName": "район Метрогородок "
+    "tikName": "район Метрогородок ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1082,
     "uikTvd": "4774008184521",
+    "uikName": "УИК №1082",
     "tikTvd": "27720002782277",
-    "tikName": "район Метрогородок "
+    "tikName": "район Метрогородок ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1085,
     "uikTvd": "4774008184522",
+    "uikName": "УИК №1085",
     "tikTvd": "27720002782277",
-    "tikName": "район Метрогородок "
+    "tikName": "район Метрогородок ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1088,
     "uikTvd": "4774008184523",
+    "uikName": "УИК №1088",
     "tikTvd": "27720002782277",
-    "tikName": "район Метрогородок "
+    "tikName": "район Метрогородок ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1090,
     "uikTvd": "4774008184524",
+    "uikName": "УИК №1090",
     "tikTvd": "27720002782277",
-    "tikName": "район Метрогородок "
+    "tikName": "район Метрогородок ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1091,
     "uikTvd": "4774008184525",
+    "uikName": "УИК №1091",
     "tikTvd": "27720002782277",
-    "tikName": "район Метрогородок "
+    "tikName": "район Метрогородок ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1094,
     "uikTvd": "4774010272407",
+    "uikName": "УИК №1094",
     "tikTvd": "27720002782227",
-    "tikName": "район Новогиреево "
+    "tikName": "район Новогиреево ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1096,
     "uikTvd": "4774010272408",
+    "uikName": "УИК №1096",
     "tikTvd": "27720002782227",
-    "tikName": "район Новогиреево "
+    "tikName": "район Новогиреево ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1098,
     "uikTvd": "4774010272409",
+    "uikName": "УИК №1098",
     "tikTvd": "27720002782227",
-    "tikName": "район Новогиреево "
+    "tikName": "район Новогиреево ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1100,
     "uikTvd": "4774010272410",
+    "uikName": "УИК №1100",
     "tikTvd": "27720002782227",
-    "tikName": "район Новогиреево "
+    "tikName": "район Новогиреево ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1102,
     "uikTvd": "4774010272411",
+    "uikName": "УИК №1102",
     "tikTvd": "27720002782227",
-    "tikName": "район Новогиреево "
+    "tikName": "район Новогиреево ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1105,
     "uikTvd": "4774010272412",
+    "uikName": "УИК №1105",
     "tikTvd": "27720002782227",
-    "tikName": "район Новогиреево "
+    "tikName": "район Новогиреево ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1106,
     "uikTvd": "4774010272413",
+    "uikName": "УИК №1106",
     "tikTvd": "27720002782227",
-    "tikName": "район Новогиреево "
+    "tikName": "район Новогиреево ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1108,
     "uikTvd": "4774010272414",
+    "uikName": "УИК №1108",
     "tikTvd": "27720002782227",
-    "tikName": "район Новогиреево "
+    "tikName": "район Новогиреево ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1109,
     "uikTvd": "4774010272415",
+    "uikName": "УИК №1109",
     "tikTvd": "27720002782227",
-    "tikName": "район Новогиреево "
+    "tikName": "район Новогиреево ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1112,
     "uikTvd": "4774010272416",
+    "uikName": "УИК №1112",
     "tikTvd": "27720002782227",
-    "tikName": "район Новогиреево "
+    "tikName": "район Новогиреево ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1113,
     "uikTvd": "4774010272417",
+    "uikName": "УИК №1113",
     "tikTvd": "27720002782227",
-    "tikName": "район Новогиреево "
+    "tikName": "район Новогиреево ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1115,
     "uikTvd": "4774010272418",
+    "uikName": "УИК №1115",
     "tikTvd": "27720002782227",
-    "tikName": "район Новогиреево "
+    "tikName": "район Новогиреево ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1116,
     "uikTvd": "4774010272419",
+    "uikName": "УИК №1116",
     "tikTvd": "27720002782227",
-    "tikName": "район Новогиреево "
+    "tikName": "район Новогиреево ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1118,
     "uikTvd": "4774010272420",
+    "uikName": "УИК №1118",
     "tikTvd": "27720002782227",
-    "tikName": "район Новогиреево "
+    "tikName": "район Новогиреево ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1120,
     "uikTvd": "4774010272421",
+    "uikName": "УИК №1120",
     "tikTvd": "27720002782227",
-    "tikName": "район Новогиреево "
+    "tikName": "район Новогиреево ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1121,
     "uikTvd": "4774009278792",
+    "uikName": "УИК №1121",
     "tikTvd": "27720002782252",
-    "tikName": "район Новокосино "
+    "tikName": "район Новокосино ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1122,
     "uikTvd": "4774009278793",
+    "uikName": "УИК №1122",
     "tikTvd": "27720002782252",
-    "tikName": "район Новокосино "
+    "tikName": "район Новокосино ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1124,
     "uikTvd": "4774009278794",
+    "uikName": "УИК №1124",
     "tikTvd": "27720002782252",
-    "tikName": "район Новокосино "
+    "tikName": "район Новокосино ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1125,
     "uikTvd": "4774009278795",
+    "uikName": "УИК №1125",
     "tikTvd": "27720002782252",
-    "tikName": "район Новокосино "
+    "tikName": "район Новокосино ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1128,
     "uikTvd": "4774009278796",
+    "uikName": "УИК №1128",
     "tikTvd": "27720002782252",
-    "tikName": "район Новокосино "
+    "tikName": "район Новокосино ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1130,
     "uikTvd": "4774009278797",
+    "uikName": "УИК №1130",
     "tikTvd": "27720002782252",
-    "tikName": "район Новокосино "
+    "tikName": "район Новокосино ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1132,
     "uikTvd": "4774009278798",
+    "uikName": "УИК №1132",
     "tikTvd": "27720002782252",
-    "tikName": "район Новокосино "
+    "tikName": "район Новокосино ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1133,
     "uikTvd": "4774009278799",
+    "uikName": "УИК №1133",
     "tikTvd": "27720002782252",
-    "tikName": "район Новокосино "
+    "tikName": "район Новокосино ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1136,
     "uikTvd": "4774009278800",
+    "uikName": "УИК №1136",
     "tikTvd": "27720002782252",
-    "tikName": "район Новокосино "
+    "tikName": "район Новокосино ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1138,
     "uikTvd": "4774009278801",
+    "uikName": "УИК №1138",
     "tikTvd": "27720002782252",
-    "tikName": "район Новокосино "
+    "tikName": "район Новокосино ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1140,
     "uikTvd": "4774009278802",
+    "uikName": "УИК №1140",
     "tikTvd": "27720002782252",
-    "tikName": "район Новокосино "
+    "tikName": "район Новокосино ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1141,
     "uikTvd": "4774009278803",
+    "uikName": "УИК №1141",
     "tikTvd": "27720002782252",
-    "tikName": "район Новокосино "
+    "tikName": "район Новокосино ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1142,
     "uikTvd": "4774009278804",
+    "uikName": "УИК №1142",
     "tikTvd": "27720002782252",
-    "tikName": "район Новокосино "
+    "tikName": "район Новокосино ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1143,
     "uikTvd": "4774009278805",
+    "uikName": "УИК №1143",
     "tikTvd": "27720002782252",
-    "tikName": "район Новокосино "
+    "tikName": "район Новокосино ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1146,
     "uikTvd": "4774009278806",
+    "uikName": "УИК №1146",
     "tikTvd": "27720002782252",
-    "tikName": "район Новокосино "
+    "tikName": "район Новокосино ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1148,
     "uikTvd": "4774009278807",
+    "uikName": "УИК №1148",
     "tikTvd": "27720002782252",
-    "tikName": "район Новокосино "
+    "tikName": "район Новокосино ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1150,
     "uikTvd": "4774011370534",
+    "uikName": "УИК №1150",
     "tikTvd": "27720002782282",
-    "tikName": "район Перово"
+    "tikName": "район Перово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1153,
     "uikTvd": "4774011370535",
+    "uikName": "УИК №1153",
     "tikTvd": "27720002782282",
-    "tikName": "район Перово"
+    "tikName": "район Перово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1155,
     "uikTvd": "4774011370536",
+    "uikName": "УИК №1155",
     "tikTvd": "27720002782282",
-    "tikName": "район Перово"
+    "tikName": "район Перово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1156,
     "uikTvd": "4774011370537",
+    "uikName": "УИК №1156",
     "tikTvd": "27720002782282",
-    "tikName": "район Перово"
+    "tikName": "район Перово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1158,
     "uikTvd": "4774011370538",
+    "uikName": "УИК №1158",
     "tikTvd": "27720002782282",
-    "tikName": "район Перово"
+    "tikName": "район Перово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1160,
     "uikTvd": "4774011370539",
+    "uikName": "УИК №1160",
     "tikTvd": "27720002782282",
-    "tikName": "район Перово"
+    "tikName": "район Перово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1163,
     "uikTvd": "4774011370540",
+    "uikName": "УИК №1163",
     "tikTvd": "27720002782282",
-    "tikName": "район Перово"
+    "tikName": "район Перово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1164,
     "uikTvd": "4774011370541",
+    "uikName": "УИК №1164",
     "tikTvd": "27720002782282",
-    "tikName": "район Перово"
+    "tikName": "район Перово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1168,
     "uikTvd": "4774011370542",
+    "uikName": "УИК №1168",
     "tikTvd": "27720002782282",
-    "tikName": "район Перово"
+    "tikName": "район Перово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1169,
     "uikTvd": "4774011370543",
+    "uikName": "УИК №1169",
     "tikTvd": "27720002782282",
-    "tikName": "район Перово"
+    "tikName": "район Перово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1171,
     "uikTvd": "4774011370544",
+    "uikName": "УИК №1171",
     "tikTvd": "27720002782282",
-    "tikName": "район Перово"
+    "tikName": "район Перово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1173,
     "uikTvd": "4774011370545",
+    "uikName": "УИК №1173",
     "tikTvd": "27720002782282",
-    "tikName": "район Перово"
+    "tikName": "район Перово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1176,
     "uikTvd": "4774011370546",
+    "uikName": "УИК №1176",
     "tikTvd": "27720002782282",
-    "tikName": "район Перово"
+    "tikName": "район Перово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1178,
     "uikTvd": "4774011370547",
+    "uikName": "УИК №1178",
     "tikTvd": "27720002782282",
-    "tikName": "район Перово"
+    "tikName": "район Перово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1180,
     "uikTvd": "4774011370548",
+    "uikName": "УИК №1180",
     "tikTvd": "27720002782282",
-    "tikName": "район Перово"
+    "tikName": "район Перово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1181,
     "uikTvd": "4774011370549",
+    "uikName": "УИК №1181",
     "tikTvd": "27720002782282",
-    "tikName": "район Перово"
+    "tikName": "район Перово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1182,
     "uikTvd": "4774011370550",
+    "uikName": "УИК №1182",
     "tikTvd": "27720002782282",
-    "tikName": "район Перово"
+    "tikName": "район Перово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1183,
     "uikTvd": "4774011370551",
+    "uikName": "УИК №1183",
     "tikTvd": "27720002782282",
-    "tikName": "район Перово"
+    "tikName": "район Перово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1184,
     "uikTvd": "4774011370552",
+    "uikName": "УИК №1184",
     "tikTvd": "27720002782282",
-    "tikName": "район Перово"
+    "tikName": "район Перово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1188,
     "uikTvd": "4774013244097",
+    "uikName": "УИК №1188",
     "tikTvd": "27720002782280",
-    "tikName": "район Преображенское"
+    "tikName": "район Преображенское",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1189,
     "uikTvd": "4774013244098",
+    "uikName": "УИК №1189",
     "tikTvd": "27720002782280",
-    "tikName": "район Преображенское"
+    "tikName": "район Преображенское",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1191,
     "uikTvd": "4774013244099",
+    "uikName": "УИК №1191",
     "tikTvd": "27720002782280",
-    "tikName": "район Преображенское"
+    "tikName": "район Преображенское",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1192,
     "uikTvd": "4774013244100",
+    "uikName": "УИК №1192",
     "tikTvd": "27720002782280",
-    "tikName": "район Преображенское"
+    "tikName": "район Преображенское",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1194,
     "uikTvd": "4774013244101",
+    "uikName": "УИК №1194",
     "tikTvd": "27720002782280",
-    "tikName": "район Преображенское"
+    "tikName": "район Преображенское",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1197,
     "uikTvd": "4774013244102",
+    "uikName": "УИК №1197",
     "tikTvd": "27720002782280",
-    "tikName": "район Преображенское"
+    "tikName": "район Преображенское",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1198,
     "uikTvd": "4774013244103",
+    "uikName": "УИК №1198",
     "tikTvd": "27720002782280",
-    "tikName": "район Преображенское"
+    "tikName": "район Преображенское",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1200,
     "uikTvd": "4774013244104",
+    "uikName": "УИК №1200",
     "tikTvd": "27720002782280",
-    "tikName": "район Преображенское"
+    "tikName": "район Преображенское",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1201,
     "uikTvd": "4774013244105",
+    "uikName": "УИК №1201",
     "tikTvd": "27720002782280",
-    "tikName": "район Преображенское"
+    "tikName": "район Преображенское",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1203,
     "uikTvd": "4774013244106",
+    "uikName": "УИК №1203",
     "tikTvd": "27720002782280",
-    "tikName": "район Преображенское"
+    "tikName": "район Преображенское",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1204,
     "uikTvd": "4774013244107",
+    "uikName": "УИК №1204",
     "tikTvd": "27720002782280",
-    "tikName": "район Преображенское"
+    "tikName": "район Преображенское",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1207,
     "uikTvd": "4774013244108",
+    "uikName": "УИК №1207",
     "tikTvd": "27720002782280",
-    "tikName": "район Преображенское"
+    "tikName": "район Преображенское",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1208,
     "uikTvd": "4774013244109",
+    "uikName": "УИК №1208",
     "tikTvd": "27720002782280",
-    "tikName": "район Преображенское"
+    "tikName": "район Преображенское",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1210,
     "uikTvd": "4774014293515",
+    "uikName": "УИК №1210",
     "tikTvd": "27720002782249",
-    "tikName": "район Северное Измайлово"
+    "tikName": "район Северное Измайлово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1212,
     "uikTvd": "4774014293516",
+    "uikName": "УИК №1212",
     "tikTvd": "27720002782249",
-    "tikName": "район Северное Измайлово"
+    "tikName": "район Северное Измайлово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1213,
     "uikTvd": "4774014293517",
+    "uikName": "УИК №1213",
     "tikTvd": "27720002782249",
-    "tikName": "район Северное Измайлово"
+    "tikName": "район Северное Измайлово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1215,
     "uikTvd": "4774014293518",
+    "uikName": "УИК №1215",
     "tikTvd": "27720002782249",
-    "tikName": "район Северное Измайлово"
+    "tikName": "район Северное Измайлово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1216,
     "uikTvd": "4774014293519",
+    "uikName": "УИК №1216",
     "tikTvd": "27720002782249",
-    "tikName": "район Северное Измайлово"
+    "tikName": "район Северное Измайлово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1218,
     "uikTvd": "4774014293520",
+    "uikName": "УИК №1218",
     "tikTvd": "27720002782249",
-    "tikName": "район Северное Измайлово"
+    "tikName": "район Северное Измайлово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1219,
     "uikTvd": "4774014293521",
+    "uikName": "УИК №1219",
     "tikTvd": "27720002782249",
-    "tikName": "район Северное Измайлово"
+    "tikName": "район Северное Измайлово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1223,
     "uikTvd": "4774014293522",
+    "uikName": "УИК №1223",
     "tikTvd": "27720002782249",
-    "tikName": "район Северное Измайлово"
+    "tikName": "район Северное Измайлово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1225,
     "uikTvd": "4774014293523",
+    "uikName": "УИК №1225",
     "tikTvd": "27720002782249",
-    "tikName": "район Северное Измайлово"
+    "tikName": "район Северное Измайлово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1226,
     "uikTvd": "4774014293524",
+    "uikName": "УИК №1226",
     "tikTvd": "27720002782249",
-    "tikName": "район Северное Измайлово"
+    "tikName": "район Северное Измайлово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1228,
     "uikTvd": "4774014293525",
+    "uikName": "УИК №1228",
     "tikTvd": "27720002782249",
-    "tikName": "район Северное Измайлово"
+    "tikName": "район Северное Измайлово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1229,
     "uikTvd": "4774014293526",
+    "uikName": "УИК №1229",
     "tikTvd": "27720002782249",
-    "tikName": "район Северное Измайлово"
+    "tikName": "район Северное Измайлово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1230,
     "uikTvd": "4774014293527",
+    "uikName": "УИК №1230",
     "tikTvd": "27720002782249",
-    "tikName": "район Северное Измайлово"
+    "tikName": "район Северное Измайлово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1233,
     "uikTvd": "4774014293528",
+    "uikName": "УИК №1233",
     "tikTvd": "27720002782249",
-    "tikName": "район Северное Измайлово"
+    "tikName": "район Северное Измайлово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1234,
     "uikTvd": "4774014293529",
+    "uikName": "УИК №1234",
     "tikTvd": "27720002782249",
-    "tikName": "район Северное Измайлово"
+    "tikName": "район Северное Измайлово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1235,
     "uikTvd": "4774014293530",
+    "uikName": "УИК №1235",
     "tikTvd": "27720002782249",
-    "tikName": "район Северное Измайлово"
+    "tikName": "район Северное Измайлово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1237,
     "uikTvd": "4774015291186",
+    "uikName": "УИК №1237",
     "tikTvd": "27720002782294",
-    "tikName": "район Соколиная гора"
+    "tikName": "район Соколиная гора",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1239,
     "uikTvd": "4774015291187",
+    "uikName": "УИК №1239",
     "tikTvd": "27720002782294",
-    "tikName": "район Соколиная гора"
+    "tikName": "район Соколиная гора",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1241,
     "uikTvd": "4774015291188",
+    "uikName": "УИК №1241",
     "tikTvd": "27720002782294",
-    "tikName": "район Соколиная гора"
+    "tikName": "район Соколиная гора",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1242,
     "uikTvd": "4774015291189",
+    "uikName": "УИК №1242",
     "tikTvd": "27720002782294",
-    "tikName": "район Соколиная гора"
+    "tikName": "район Соколиная гора",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1243,
     "uikTvd": "4774015291190",
+    "uikName": "УИК №1243",
     "tikTvd": "27720002782294",
-    "tikName": "район Соколиная гора"
+    "tikName": "район Соколиная гора",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1245,
     "uikTvd": "4774015291191",
+    "uikName": "УИК №1245",
     "tikTvd": "27720002782294",
-    "tikName": "район Соколиная гора"
+    "tikName": "район Соколиная гора",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1246,
     "uikTvd": "4774015291192",
+    "uikName": "УИК №1246",
     "tikTvd": "27720002782294",
-    "tikName": "район Соколиная гора"
+    "tikName": "район Соколиная гора",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1249,
     "uikTvd": "4774015291193",
+    "uikName": "УИК №1249",
     "tikTvd": "27720002782294",
-    "tikName": "район Соколиная гора"
+    "tikName": "район Соколиная гора",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1250,
     "uikTvd": "4774015291194",
+    "uikName": "УИК №1250",
     "tikTvd": "27720002782294",
-    "tikName": "район Соколиная гора"
+    "tikName": "район Соколиная гора",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1253,
     "uikTvd": "4774015291195",
+    "uikName": "УИК №1253",
     "tikTvd": "27720002782294",
-    "tikName": "район Соколиная гора"
+    "tikName": "район Соколиная гора",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1254,
     "uikTvd": "4774015291196",
+    "uikName": "УИК №1254",
     "tikTvd": "27720002782294",
-    "tikName": "район Соколиная гора"
+    "tikName": "район Соколиная гора",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1255,
     "uikTvd": "4774015291197",
+    "uikName": "УИК №1255",
     "tikTvd": "27720002782294",
-    "tikName": "район Соколиная гора"
+    "tikName": "район Соколиная гора",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1256,
     "uikTvd": "4774015291198",
+    "uikName": "УИК №1256",
     "tikTvd": "27720002782294",
-    "tikName": "район Соколиная гора"
+    "tikName": "район Соколиная гора",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1259,
     "uikTvd": "4774015291199",
+    "uikName": "УИК №1259",
     "tikTvd": "27720002782294",
-    "tikName": "район Соколиная гора"
+    "tikName": "район Соколиная гора",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1260,
     "uikTvd": "4774015291200",
+    "uikName": "УИК №1260",
     "tikTvd": "27720002782294",
-    "tikName": "район Соколиная гора"
+    "tikName": "район Соколиная гора",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1263,
     "uikTvd": "4774016229676",
+    "uikName": "УИК №1263",
     "tikTvd": "27720002782209",
-    "tikName": "район Сокольники"
+    "tikName": "район Сокольники",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1265,
     "uikTvd": "4774016229677",
+    "uikName": "УИК №1265",
     "tikTvd": "27720002782209",
-    "tikName": "район Сокольники"
+    "tikName": "район Сокольники",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1266,
     "uikTvd": "4774016229678",
+    "uikName": "УИК №1266",
     "tikTvd": "27720002782209",
-    "tikName": "район Сокольники"
+    "tikName": "район Сокольники",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1269,
     "uikTvd": "4774016229679",
+    "uikName": "УИК №1269",
     "tikTvd": "27720002782209",
-    "tikName": "район Сокольники"
+    "tikName": "район Сокольники",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1271,
     "uikTvd": "4774016229680",
+    "uikName": "УИК №1271",
     "tikTvd": "27720002782209",
-    "tikName": "район Сокольники"
+    "tikName": "район Сокольники",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1272,
     "uikTvd": "4774016229681",
+    "uikName": "УИК №1272",
     "tikTvd": "27720002782209",
-    "tikName": "район Сокольники"
+    "tikName": "район Сокольники",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1273,
     "uikTvd": "4774016229682",
+    "uikName": "УИК №1273",
     "tikTvd": "27720002782209",
-    "tikName": "район Сокольники"
+    "tikName": "район Сокольники",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1274,
     "uikTvd": "4774016229683",
+    "uikName": "УИК №1274",
     "tikTvd": "27720002782209",
-    "tikName": "район Сокольники"
+    "tikName": "район Сокольники",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1275,
     "uikTvd": "4774016229684",
+    "uikName": "УИК №1275",
     "tikTvd": "27720002782209",
-    "tikName": "район Сокольники"
+    "tikName": "район Сокольники",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1277,
     "uikTvd": "4774089425687",
+    "uikName": "УИК №1277",
     "tikTvd": "27720002782207",
-    "tikName": "район Выхино-Жулебино"
+    "tikName": "район Выхино-Жулебино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1278,
     "uikTvd": "4774089425688",
+    "uikName": "УИК №1278",
     "tikTvd": "27720002782207",
-    "tikName": "район Выхино-Жулебино"
+    "tikName": "район Выхино-Жулебино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1282,
     "uikTvd": "4774089425689",
+    "uikName": "УИК №1282",
     "tikTvd": "27720002782207",
-    "tikName": "район Выхино-Жулебино"
+    "tikName": "район Выхино-Жулебино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1283,
     "uikTvd": "4774089425690",
+    "uikName": "УИК №1283",
     "tikTvd": "27720002782207",
-    "tikName": "район Выхино-Жулебино"
+    "tikName": "район Выхино-Жулебино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1285,
     "uikTvd": "4774089425691",
+    "uikName": "УИК №1285",
     "tikTvd": "27720002782207",
-    "tikName": "район Выхино-Жулебино"
+    "tikName": "район Выхино-Жулебино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1286,
     "uikTvd": "4774089425692",
+    "uikName": "УИК №1286",
     "tikTvd": "27720002782207",
-    "tikName": "район Выхино-Жулебино"
+    "tikName": "район Выхино-Жулебино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1287,
     "uikTvd": "4774089425693",
+    "uikName": "УИК №1287",
     "tikTvd": "27720002782207",
-    "tikName": "район Выхино-Жулебино"
+    "tikName": "район Выхино-Жулебино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1289,
     "uikTvd": "4774089425694",
+    "uikName": "УИК №1289",
     "tikTvd": "27720002782207",
-    "tikName": "район Выхино-Жулебино"
+    "tikName": "район Выхино-Жулебино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1290,
     "uikTvd": "4774089425695",
+    "uikName": "УИК №1290",
     "tikTvd": "27720002782207",
-    "tikName": "район Выхино-Жулебино"
+    "tikName": "район Выхино-Жулебино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1291,
     "uikTvd": "4774089425696",
+    "uikName": "УИК №1291",
     "tikTvd": "27720002782207",
-    "tikName": "район Выхино-Жулебино"
+    "tikName": "район Выхино-Жулебино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1293,
     "uikTvd": "4774089425697",
+    "uikName": "УИК №1293",
     "tikTvd": "27720002782207",
-    "tikName": "район Выхино-Жулебино"
+    "tikName": "район Выхино-Жулебино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1294,
     "uikTvd": "4774089425698",
+    "uikName": "УИК №1294",
     "tikTvd": "27720002782207",
-    "tikName": "район Выхино-Жулебино"
+    "tikName": "район Выхино-Жулебино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1298,
     "uikTvd": "4774089425699",
+    "uikName": "УИК №1298",
     "tikTvd": "27720002782207",
-    "tikName": "район Выхино-Жулебино"
+    "tikName": "район Выхино-Жулебино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1299,
     "uikTvd": "4774089425700",
+    "uikName": "УИК №1299",
     "tikTvd": "27720002782207",
-    "tikName": "район Выхино-Жулебино"
+    "tikName": "район Выхино-Жулебино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1300,
     "uikTvd": "4774089425701",
+    "uikName": "УИК №1300",
     "tikTvd": "27720002782207",
-    "tikName": "район Выхино-Жулебино"
+    "tikName": "район Выхино-Жулебино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1303,
     "uikTvd": "4774089425702",
+    "uikName": "УИК №1303",
     "tikTvd": "27720002782207",
-    "tikName": "район Выхино-Жулебино"
+    "tikName": "район Выхино-Жулебино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1304,
     "uikTvd": "4774089425703",
+    "uikName": "УИК №1304",
     "tikTvd": "27720002782207",
-    "tikName": "район Выхино-Жулебино"
+    "tikName": "район Выхино-Жулебино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1306,
     "uikTvd": "4774089425704",
+    "uikName": "УИК №1306",
     "tikTvd": "27720002782207",
-    "tikName": "район Выхино-Жулебино"
+    "tikName": "район Выхино-Жулебино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1308,
     "uikTvd": "4774089425705",
+    "uikName": "УИК №1308",
     "tikTvd": "27720002782207",
-    "tikName": "район Выхино-Жулебино"
+    "tikName": "район Выхино-Жулебино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1311,
     "uikTvd": "4774089425706",
+    "uikName": "УИК №1311",
     "tikTvd": "27720002782207",
-    "tikName": "район Выхино-Жулебино"
+    "tikName": "район Выхино-Жулебино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1314,
     "uikTvd": "4774089425707",
+    "uikName": "УИК №1314",
     "tikTvd": "27720002782207",
-    "tikName": "район Выхино-Жулебино"
+    "tikName": "район Выхино-Жулебино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1315,
     "uikTvd": "4774089425708",
+    "uikName": "УИК №1315",
     "tikTvd": "27720002782207",
-    "tikName": "район Выхино-Жулебино"
+    "tikName": "район Выхино-Жулебино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1318,
     "uikTvd": "4774089425709",
+    "uikName": "УИК №1318",
     "tikTvd": "27720002782207",
-    "tikName": "район Выхино-Жулебино"
+    "tikName": "район Выхино-Жулебино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1321,
     "uikTvd": "4774089425710",
+    "uikName": "УИК №1321",
     "tikTvd": "27720002782207",
-    "tikName": "район Выхино-Жулебино"
+    "tikName": "район Выхино-Жулебино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1322,
     "uikTvd": "4774089425711",
+    "uikName": "УИК №1322",
     "tikTvd": "27720002782207",
-    "tikName": "район Выхино-Жулебино"
+    "tikName": "район Выхино-Жулебино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1323,
     "uikTvd": "4774089425712",
+    "uikName": "УИК №1323",
     "tikTvd": "27720002782207",
-    "tikName": "район Выхино-Жулебино"
+    "tikName": "район Выхино-Жулебино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1325,
     "uikTvd": "4774089425713",
+    "uikName": "УИК №1325",
     "tikTvd": "27720002782207",
-    "tikName": "район Выхино-Жулебино"
+    "tikName": "район Выхино-Жулебино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1327,
     "uikTvd": "4774089425714",
+    "uikName": "УИК №1327",
     "tikTvd": "27720002782207",
-    "tikName": "район Выхино-Жулебино"
+    "tikName": "район Выхино-Жулебино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1330,
     "uikTvd": "4774089425715",
+    "uikName": "УИК №1330",
     "tikTvd": "27720002782207",
-    "tikName": "район Выхино-Жулебино"
+    "tikName": "район Выхино-Жулебино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1331,
     "uikTvd": "4774089425716",
+    "uikName": "УИК №1331",
     "tikTvd": "27720002782207",
-    "tikName": "район Выхино-Жулебино"
+    "tikName": "район Выхино-Жулебино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1332,
     "uikTvd": "4774089425717",
+    "uikName": "УИК №1332",
     "tikTvd": "27720002782207",
-    "tikName": "район Выхино-Жулебино"
+    "tikName": "район Выхино-Жулебино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1334,
     "uikTvd": "4774089425718",
+    "uikName": "УИК №1334",
     "tikTvd": "27720002782207",
-    "tikName": "район Выхино-Жулебино"
+    "tikName": "район Выхино-Жулебино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1336,
     "uikTvd": "4774090174988",
+    "uikName": "УИК №1336",
     "tikTvd": "27720002782200",
-    "tikName": "район Капотня"
+    "tikName": "район Капотня",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1338,
     "uikTvd": "4774090174989",
+    "uikName": "УИК №1338",
     "tikTvd": "27720002782200",
-    "tikName": "район Капотня"
+    "tikName": "район Капотня",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1339,
     "uikTvd": "4774090174990",
+    "uikName": "УИК №1339",
     "tikTvd": "27720002782200",
-    "tikName": "район Капотня"
+    "tikName": "район Капотня",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1341,
     "uikTvd": "4774090174991",
+    "uikName": "УИК №1341",
     "tikTvd": "27720002782200",
-    "tikName": "район Капотня"
+    "tikName": "район Капотня",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1342,
     "uikTvd": "4774090174992",
+    "uikName": "УИК №1342",
     "tikTvd": "27720002782200",
-    "tikName": "район Капотня"
+    "tikName": "район Капотня",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1344,
     "uikTvd": "4774090174993",
+    "uikName": "УИК №1344",
     "tikTvd": "27720002782200",
-    "tikName": "район Капотня"
+    "tikName": "район Капотня",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1345,
     "uikTvd": "4774091305719",
+    "uikName": "УИК №1345",
     "tikTvd": "27720002782289",
-    "tikName": "район Кузьминки"
+    "tikName": "район Кузьминки",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1347,
     "uikTvd": "4774091305720",
+    "uikName": "УИК №1347",
     "tikTvd": "27720002782289",
-    "tikName": "район Кузьминки"
+    "tikName": "район Кузьминки",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1349,
     "uikTvd": "4774091305721",
+    "uikName": "УИК №1349",
     "tikTvd": "27720002782289",
-    "tikName": "район Кузьминки"
+    "tikName": "район Кузьминки",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1350,
     "uikTvd": "4774091305722",
+    "uikName": "УИК №1350",
     "tikTvd": "27720002782289",
-    "tikName": "район Кузьминки"
+    "tikName": "район Кузьминки",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1351,
     "uikTvd": "4774091305723",
+    "uikName": "УИК №1351",
     "tikTvd": "27720002782289",
-    "tikName": "район Кузьминки"
+    "tikName": "район Кузьминки",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1355,
     "uikTvd": "4774091305724",
+    "uikName": "УИК №1355",
     "tikTvd": "27720002782289",
-    "tikName": "район Кузьминки"
+    "tikName": "район Кузьминки",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1356,
     "uikTvd": "4774091305725",
+    "uikName": "УИК №1356",
     "tikTvd": "27720002782289",
-    "tikName": "район Кузьминки"
+    "tikName": "район Кузьминки",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1357,
     "uikTvd": "4774091305726",
+    "uikName": "УИК №1357",
     "tikTvd": "27720002782289",
-    "tikName": "район Кузьминки"
+    "tikName": "район Кузьминки",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1360,
     "uikTvd": "4774091305727",
+    "uikName": "УИК №1360",
     "tikTvd": "27720002782289",
-    "tikName": "район Кузьминки"
+    "tikName": "район Кузьминки",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1361,
     "uikTvd": "4774091305728",
+    "uikName": "УИК №1361",
     "tikTvd": "27720002782289",
-    "tikName": "район Кузьминки"
+    "tikName": "район Кузьминки",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1362,
     "uikTvd": "4774091305729",
+    "uikName": "УИК №1362",
     "tikTvd": "27720002782289",
-    "tikName": "район Кузьминки"
+    "tikName": "район Кузьминки",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1363,
     "uikTvd": "4774091305730",
+    "uikName": "УИК №1363",
     "tikTvd": "27720002782289",
-    "tikName": "район Кузьминки"
+    "tikName": "район Кузьминки",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1364,
     "uikTvd": "4774091305731",
+    "uikName": "УИК №1364",
     "tikTvd": "27720002782289",
-    "tikName": "район Кузьминки"
+    "tikName": "район Кузьминки",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1366,
     "uikTvd": "4774091305732",
+    "uikName": "УИК №1366",
     "tikTvd": "27720002782289",
-    "tikName": "район Кузьминки"
+    "tikName": "район Кузьминки",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1368,
     "uikTvd": "4774091305733",
+    "uikName": "УИК №1368",
     "tikTvd": "27720002782289",
-    "tikName": "район Кузьминки"
+    "tikName": "район Кузьминки",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1369,
     "uikTvd": "4774091305734",
+    "uikName": "УИК №1369",
     "tikTvd": "27720002782289",
-    "tikName": "район Кузьминки"
+    "tikName": "район Кузьминки",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1371,
     "uikTvd": "4774091305735",
+    "uikName": "УИК №1371",
     "tikTvd": "27720002782289",
-    "tikName": "район Кузьминки"
+    "tikName": "район Кузьминки",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1373,
     "uikTvd": "4774091305736",
+    "uikName": "УИК №1373",
     "tikTvd": "27720002782289",
-    "tikName": "район Кузьминки"
+    "tikName": "район Кузьминки",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1375,
     "uikTvd": "4774091305737",
+    "uikName": "УИК №1375",
     "tikTvd": "27720002782289",
-    "tikName": "район Кузьминки"
+    "tikName": "район Кузьминки",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1378,
     "uikTvd": "4774091305738",
+    "uikName": "УИК №1378",
     "tikTvd": "27720002782289",
-    "tikName": "район Кузьминки"
+    "tikName": "район Кузьминки",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1380,
     "uikTvd": "4774091305739",
+    "uikName": "УИК №1380",
     "tikTvd": "27720002782289",
-    "tikName": "район Кузьминки"
+    "tikName": "район Кузьминки",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1381,
     "uikTvd": "4774091305740",
+    "uikName": "УИК №1381",
     "tikTvd": "27720002782289",
-    "tikName": "район Кузьминки"
+    "tikName": "район Кузьминки",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1383,
     "uikTvd": "4774092278587",
+    "uikName": "УИК №1383",
     "tikTvd": "27720002782303",
-    "tikName": "район Лефортово"
+    "tikName": "район Лефортово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1384,
     "uikTvd": "4774092278588",
+    "uikName": "УИК №1384",
     "tikTvd": "27720002782303",
-    "tikName": "район Лефортово"
+    "tikName": "район Лефортово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1388,
     "uikTvd": "4774092278589",
+    "uikName": "УИК №1388",
     "tikTvd": "27720002782303",
-    "tikName": "район Лефортово"
+    "tikName": "район Лефортово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1390,
     "uikTvd": "4774092278590",
+    "uikName": "УИК №1390",
     "tikTvd": "27720002782303",
-    "tikName": "район Лефортово"
+    "tikName": "район Лефортово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1391,
     "uikTvd": "4774092278591",
+    "uikName": "УИК №1391",
     "tikTvd": "27720002782303",
-    "tikName": "район Лефортово"
+    "tikName": "район Лефортово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1392,
     "uikTvd": "4774092278592",
+    "uikName": "УИК №1392",
     "tikTvd": "27720002782303",
-    "tikName": "район Лефортово"
+    "tikName": "район Лефортово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1394,
     "uikTvd": "4774092278593",
+    "uikName": "УИК №1394",
     "tikTvd": "27720002782303",
-    "tikName": "район Лефортово"
+    "tikName": "район Лефортово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1396,
     "uikTvd": "4774092278594",
+    "uikName": "УИК №1396",
     "tikTvd": "27720002782303",
-    "tikName": "район Лефортово"
+    "tikName": "район Лефортово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1398,
     "uikTvd": "4774092278595",
+    "uikName": "УИК №1398",
     "tikTvd": "27720002782303",
-    "tikName": "район Лефортово"
+    "tikName": "район Лефортово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1399,
     "uikTvd": "4774092278596",
+    "uikName": "УИК №1399",
     "tikTvd": "27720002782303",
-    "tikName": "район Лефортово"
+    "tikName": "район Лефортово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1402,
     "uikTvd": "4774092278597",
+    "uikName": "УИК №1402",
     "tikTvd": "27720002782303",
-    "tikName": "район Лефортово"
+    "tikName": "район Лефортово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1403,
     "uikTvd": "4774092278598",
+    "uikName": "УИК №1403",
     "tikTvd": "27720002782303",
-    "tikName": "район Лефортово"
+    "tikName": "район Лефортово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1405,
     "uikTvd": "4774092278599",
+    "uikName": "УИК №1405",
     "tikTvd": "27720002782303",
-    "tikName": "район Лефортово"
+    "tikName": "район Лефортово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1407,
     "uikTvd": "4774092278600",
+    "uikName": "УИК №1407",
     "tikTvd": "27720002782303",
-    "tikName": "район Лефортово"
+    "tikName": "район Лефортово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1408,
     "uikTvd": "4774093420859",
+    "uikName": "УИК №1408",
     "tikTvd": "27720002782322",
-    "tikName": "район Люблино"
+    "tikName": "район Люблино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1409,
     "uikTvd": "4774093420860",
+    "uikName": "УИК №1409",
     "tikTvd": "27720002782322",
-    "tikName": "район Люблино"
+    "tikName": "район Люблино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1412,
     "uikTvd": "4774093420861",
+    "uikName": "УИК №1412",
     "tikTvd": "27720002782322",
-    "tikName": "район Люблино"
+    "tikName": "район Люблино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1415,
     "uikTvd": "4774093420862",
+    "uikName": "УИК №1415",
     "tikTvd": "27720002782322",
-    "tikName": "район Люблино"
+    "tikName": "район Люблино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1416,
     "uikTvd": "4774093420863",
+    "uikName": "УИК №1416",
     "tikTvd": "27720002782322",
-    "tikName": "район Люблино"
+    "tikName": "район Люблино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1418,
     "uikTvd": "4774093420864",
+    "uikName": "УИК №1418",
     "tikTvd": "27720002782322",
-    "tikName": "район Люблино"
+    "tikName": "район Люблино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1419,
     "uikTvd": "4774093420865",
+    "uikName": "УИК №1419",
     "tikTvd": "27720002782322",
-    "tikName": "район Люблино"
+    "tikName": "район Люблино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1421,
     "uikTvd": "4774093420866",
+    "uikName": "УИК №1421",
     "tikTvd": "27720002782322",
-    "tikName": "район Люблино"
+    "tikName": "район Люблино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1423,
     "uikTvd": "4774093420867",
+    "uikName": "УИК №1423",
     "tikTvd": "27720002782322",
-    "tikName": "район Люблино"
+    "tikName": "район Люблино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1425,
     "uikTvd": "4774093420868",
+    "uikName": "УИК №1425",
     "tikTvd": "27720002782322",
-    "tikName": "район Люблино"
+    "tikName": "район Люблино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1426,
     "uikTvd": "4774093420869",
+    "uikName": "УИК №1426",
     "tikTvd": "27720002782322",
-    "tikName": "район Люблино"
+    "tikName": "район Люблино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1428,
     "uikTvd": "4774093420870",
+    "uikName": "УИК №1428",
     "tikTvd": "27720002782322",
-    "tikName": "район Люблино"
+    "tikName": "район Люблино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1429,
     "uikTvd": "4774093420871",
+    "uikName": "УИК №1429",
     "tikTvd": "27720002782322",
-    "tikName": "район Люблино"
+    "tikName": "район Люблино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1431,
     "uikTvd": "4774093420872",
+    "uikName": "УИК №1431",
     "tikTvd": "27720002782322",
-    "tikName": "район Люблино"
+    "tikName": "район Люблино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1432,
     "uikTvd": "4774093420873",
+    "uikName": "УИК №1432",
     "tikTvd": "27720002782322",
-    "tikName": "район Люблино"
+    "tikName": "район Люблино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1433,
     "uikTvd": "4774093420874",
+    "uikName": "УИК №1433",
     "tikTvd": "27720002782322",
-    "tikName": "район Люблино"
+    "tikName": "район Люблино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1434,
     "uikTvd": "4774093420875",
+    "uikName": "УИК №1434",
     "tikTvd": "27720002782322",
-    "tikName": "район Люблино"
+    "tikName": "район Люблино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1438,
     "uikTvd": "4774093420876",
+    "uikName": "УИК №1438",
     "tikTvd": "27720002782322",
-    "tikName": "район Люблино"
+    "tikName": "район Люблино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1439,
     "uikTvd": "4774093420877",
+    "uikName": "УИК №1439",
     "tikTvd": "27720002782322",
-    "tikName": "район Люблино"
+    "tikName": "район Люблино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1440,
     "uikTvd": "4774093420878",
+    "uikName": "УИК №1440",
     "tikTvd": "27720002782322",
-    "tikName": "район Люблино"
+    "tikName": "район Люблино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1443,
     "uikTvd": "4774093420879",
+    "uikName": "УИК №1443",
     "tikTvd": "27720002782322",
-    "tikName": "район Люблино"
+    "tikName": "район Люблино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1444,
     "uikTvd": "4774093420880",
+    "uikName": "УИК №1444",
     "tikTvd": "27720002782322",
-    "tikName": "район Люблино"
+    "tikName": "район Люблино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1446,
     "uikTvd": "4774093420881",
+    "uikName": "УИК №1446",
     "tikTvd": "27720002782322",
-    "tikName": "район Люблино"
+    "tikName": "район Люблино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1448,
     "uikTvd": "4774093420882",
+    "uikName": "УИК №1448",
     "tikTvd": "27720002782322",
-    "tikName": "район Люблино"
+    "tikName": "район Люблино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1449,
     "uikTvd": "4774093420883",
+    "uikName": "УИК №1449",
     "tikTvd": "27720002782322",
-    "tikName": "район Люблино"
+    "tikName": "район Люблино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1452,
     "uikTvd": "4774093420884",
+    "uikName": "УИК №1452",
     "tikTvd": "27720002782322",
-    "tikName": "район Люблино"
+    "tikName": "район Люблино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1454,
     "uikTvd": "4774093420885",
+    "uikName": "УИК №1454",
     "tikTvd": "27720002782322",
-    "tikName": "район Люблино"
+    "tikName": "район Люблино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1456,
     "uikTvd": "4774093420886",
+    "uikName": "УИК №1456",
     "tikTvd": "27720002782322",
-    "tikName": "район Люблино"
+    "tikName": "район Люблино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1457,
     "uikTvd": "4774093420887",
+    "uikName": "УИК №1457",
     "tikTvd": "27720002782322",
-    "tikName": "район Люблино"
+    "tikName": "район Люблино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1458,
     "uikTvd": "4774093420888",
+    "uikName": "УИК №1458",
     "tikTvd": "27720002782322",
-    "tikName": "район Люблино"
+    "tikName": "район Люблино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1460,
     "uikTvd": "4774094516712",
+    "uikName": "УИК №1460",
     "tikTvd": "27720002782323",
-    "tikName": "район Марьино"
+    "tikName": "район Марьино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1464,
     "uikTvd": "4774094516713",
+    "uikName": "УИК №1464",
     "tikTvd": "27720002782323",
-    "tikName": "район Марьино"
+    "tikName": "район Марьино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1465,
     "uikTvd": "4774094516714",
+    "uikName": "УИК №1465",
     "tikTvd": "27720002782323",
-    "tikName": "район Марьино"
+    "tikName": "район Марьино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1467,
     "uikTvd": "4774094516715",
+    "uikName": "УИК №1467",
     "tikTvd": "27720002782323",
-    "tikName": "район Марьино"
+    "tikName": "район Марьино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1468,
     "uikTvd": "4774094516716",
+    "uikName": "УИК №1468",
     "tikTvd": "27720002782323",
-    "tikName": "район Марьино"
+    "tikName": "район Марьино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1469,
     "uikTvd": "4774094516717",
+    "uikName": "УИК №1469",
     "tikTvd": "27720002782323",
-    "tikName": "район Марьино"
+    "tikName": "район Марьино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1470,
     "uikTvd": "4774094516718",
+    "uikName": "УИК №1470",
     "tikTvd": "27720002782323",
-    "tikName": "район Марьино"
+    "tikName": "район Марьино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1473,
     "uikTvd": "4774094516719",
+    "uikName": "УИК №1473",
     "tikTvd": "27720002782323",
-    "tikName": "район Марьино"
+    "tikName": "район Марьино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1475,
     "uikTvd": "4774094516720",
+    "uikName": "УИК №1475",
     "tikTvd": "27720002782323",
-    "tikName": "район Марьино"
+    "tikName": "район Марьино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1476,
     "uikTvd": "4774094516721",
+    "uikName": "УИК №1476",
     "tikTvd": "27720002782323",
-    "tikName": "район Марьино"
+    "tikName": "район Марьино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1479,
     "uikTvd": "4774094516722",
+    "uikName": "УИК №1479",
     "tikTvd": "27720002782323",
-    "tikName": "район Марьино"
+    "tikName": "район Марьино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1480,
     "uikTvd": "4774094516723",
+    "uikName": "УИК №1480",
     "tikTvd": "27720002782323",
-    "tikName": "район Марьино"
+    "tikName": "район Марьино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1483,
     "uikTvd": "4774094516724",
+    "uikName": "УИК №1483",
     "tikTvd": "27720002782323",
-    "tikName": "район Марьино"
+    "tikName": "район Марьино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1485,
     "uikTvd": "4774094516725",
+    "uikName": "УИК №1485",
     "tikTvd": "27720002782323",
-    "tikName": "район Марьино"
+    "tikName": "район Марьино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1486,
     "uikTvd": "4774094516726",
+    "uikName": "УИК №1486",
     "tikTvd": "27720002782323",
-    "tikName": "район Марьино"
+    "tikName": "район Марьино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1489,
     "uikTvd": "4774094516727",
+    "uikName": "УИК №1489",
     "tikTvd": "27720002782323",
-    "tikName": "район Марьино"
+    "tikName": "район Марьино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1490,
     "uikTvd": "4774094516728",
+    "uikName": "УИК №1490",
     "tikTvd": "27720002782323",
-    "tikName": "район Марьино"
+    "tikName": "район Марьино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1491,
     "uikTvd": "4774094516729",
+    "uikName": "УИК №1491",
     "tikTvd": "27720002782323",
-    "tikName": "район Марьино"
+    "tikName": "район Марьино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1494,
     "uikTvd": "4774094516730",
+    "uikName": "УИК №1494",
     "tikTvd": "27720002782323",
-    "tikName": "район Марьино"
+    "tikName": "район Марьино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1495,
     "uikTvd": "4774094516731",
+    "uikName": "УИК №1495",
     "tikTvd": "27720002782323",
-    "tikName": "район Марьино"
+    "tikName": "район Марьино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1497,
     "uikTvd": "4774094516732",
+    "uikName": "УИК №1497",
     "tikTvd": "27720002782323",
-    "tikName": "район Марьино"
+    "tikName": "район Марьино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1498,
     "uikTvd": "4774094516733",
+    "uikName": "УИК №1498",
     "tikTvd": "27720002782323",
-    "tikName": "район Марьино"
+    "tikName": "район Марьино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1500,
     "uikTvd": "4774094516734",
+    "uikName": "УИК №1500",
     "tikTvd": "27720002782323",
-    "tikName": "район Марьино"
+    "tikName": "район Марьино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1502,
     "uikTvd": "4774094516735",
+    "uikName": "УИК №1502",
     "tikTvd": "27720002782323",
-    "tikName": "район Марьино"
+    "tikName": "район Марьино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1503,
     "uikTvd": "4774094516736",
+    "uikName": "УИК №1503",
     "tikTvd": "27720002782323",
-    "tikName": "район Марьино"
+    "tikName": "район Марьино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1505,
     "uikTvd": "4774094516737",
+    "uikName": "УИК №1505",
     "tikTvd": "27720002782323",
-    "tikName": "район Марьино"
+    "tikName": "район Марьино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1506,
     "uikTvd": "4774094516738",
+    "uikName": "УИК №1506",
     "tikTvd": "27720002782323",
-    "tikName": "район Марьино"
+    "tikName": "район Марьино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1509,
     "uikTvd": "4774094516739",
+    "uikName": "УИК №1509",
     "tikTvd": "27720002782323",
-    "tikName": "район Марьино"
+    "tikName": "район Марьино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1511,
     "uikTvd": "4774094516740",
+    "uikName": "УИК №1511",
     "tikTvd": "27720002782323",
-    "tikName": "район Марьино"
+    "tikName": "район Марьино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1512,
     "uikTvd": "4774094516741",
+    "uikName": "УИК №1512",
     "tikTvd": "27720002782323",
-    "tikName": "район Марьино"
+    "tikName": "район Марьино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1513,
     "uikTvd": "4774094516742",
+    "uikName": "УИК №1513",
     "tikTvd": "27720002782323",
-    "tikName": "район Марьино"
+    "tikName": "район Марьино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1516,
     "uikTvd": "4774094516743",
+    "uikName": "УИК №1516",
     "tikTvd": "27720002782323",
-    "tikName": "район Марьино"
+    "tikName": "район Марьино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1517,
     "uikTvd": "4774094516744",
+    "uikName": "УИК №1517",
     "tikTvd": "27720002782323",
-    "tikName": "район Марьино"
+    "tikName": "район Марьино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1518,
     "uikTvd": "4774094516745",
+    "uikName": "УИК №1518",
     "tikTvd": "27720002782323",
-    "tikName": "район Марьино"
+    "tikName": "район Марьино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1520,
     "uikTvd": "4774094516746",
+    "uikName": "УИК №1520",
     "tikTvd": "27720002782323",
-    "tikName": "район Марьино"
+    "tikName": "район Марьино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1521,
     "uikTvd": "4774094516747",
+    "uikName": "УИК №1521",
     "tikTvd": "27720002782323",
-    "tikName": "район Марьино"
+    "tikName": "район Марьино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1524,
     "uikTvd": "4774094516748",
+    "uikName": "УИК №1524",
     "tikTvd": "27720002782323",
-    "tikName": "район Марьино"
+    "tikName": "район Марьино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1525,
     "uikTvd": "4774094516749",
+    "uikName": "УИК №1525",
     "tikTvd": "27720002782323",
-    "tikName": "район Марьино"
+    "tikName": "район Марьино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1527,
     "uikTvd": "4774094516750",
+    "uikName": "УИК №1527",
     "tikTvd": "27720002782323",
-    "tikName": "район Марьино"
+    "tikName": "район Марьино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1529,
     "uikTvd": "4774095219386",
+    "uikName": "УИК №1529",
     "tikTvd": "27720002782230",
-    "tikName": "район Некрасовка"
+    "tikName": "район Некрасовка",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1531,
     "uikTvd": "4774095219387",
+    "uikName": "УИК №1531",
     "tikTvd": "27720002782230",
-    "tikName": "район Некрасовка"
+    "tikName": "район Некрасовка",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1532,
     "uikTvd": "4774095219388",
+    "uikName": "УИК №1532",
     "tikTvd": "27720002782230",
-    "tikName": "район Некрасовка"
+    "tikName": "район Некрасовка",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1535,
     "uikTvd": "4774095219389",
+    "uikName": "УИК №1535",
     "tikTvd": "27720002782230",
-    "tikName": "район Некрасовка"
+    "tikName": "район Некрасовка",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1536,
     "uikTvd": "4774096200109",
+    "uikName": "УИК №1536",
     "tikTvd": "27720002782324",
-    "tikName": "Нижегородский район"
+    "tikName": "Нижегородский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1537,
     "uikTvd": "4774096200110",
+    "uikName": "УИК №1537",
     "tikTvd": "27720002782324",
-    "tikName": "Нижегородский район"
+    "tikName": "Нижегородский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1539,
     "uikTvd": "4774096200111",
+    "uikName": "УИК №1539",
     "tikTvd": "27720002782324",
-    "tikName": "Нижегородский район"
+    "tikName": "Нижегородский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1540,
     "uikTvd": "4774096200112",
+    "uikName": "УИК №1540",
     "tikTvd": "27720002782324",
-    "tikName": "Нижегородский район"
+    "tikName": "Нижегородский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1542,
     "uikTvd": "4774096200113",
+    "uikName": "УИК №1542",
     "tikTvd": "27720002782324",
-    "tikName": "Нижегородский район"
+    "tikName": "Нижегородский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1543,
     "uikTvd": "4774096200114",
+    "uikName": "УИК №1543",
     "tikTvd": "27720002782324",
-    "tikName": "Нижегородский район"
+    "tikName": "Нижегородский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1544,
     "uikTvd": "4774096200115",
+    "uikName": "УИК №1544",
     "tikTvd": "27720002782324",
-    "tikName": "Нижегородский район"
+    "tikName": "Нижегородский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1546,
     "uikTvd": "4774096200116",
+    "uikName": "УИК №1546",
     "tikTvd": "27720002782324",
-    "tikName": "Нижегородский район"
+    "tikName": "Нижегородский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1547,
     "uikTvd": "4774096200117",
+    "uikName": "УИК №1547",
     "tikTvd": "27720002782324",
-    "tikName": "Нижегородский район"
+    "tikName": "Нижегородский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1549,
     "uikTvd": "4774097273209",
+    "uikName": "УИК №1549",
     "tikTvd": "27720002782338",
-    "tikName": "район Печатники"
+    "tikName": "район Печатники",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1551,
     "uikTvd": "4774097273210",
+    "uikName": "УИК №1551",
     "tikTvd": "27720002782338",
-    "tikName": "район Печатники"
+    "tikName": "район Печатники",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1552,
     "uikTvd": "4774097273211",
+    "uikName": "УИК №1552",
     "tikTvd": "27720002782338",
-    "tikName": "район Печатники"
+    "tikName": "район Печатники",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1555,
     "uikTvd": "4774097273212",
+    "uikName": "УИК №1555",
     "tikTvd": "27720002782338",
-    "tikName": "район Печатники"
+    "tikName": "район Печатники",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1556,
     "uikTvd": "4774097273213",
+    "uikName": "УИК №1556",
     "tikTvd": "27720002782338",
-    "tikName": "район Печатники"
+    "tikName": "район Печатники",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1559,
     "uikTvd": "4774097273214",
+    "uikName": "УИК №1559",
     "tikTvd": "27720002782338",
-    "tikName": "район Печатники"
+    "tikName": "район Печатники",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1561,
     "uikTvd": "4774097273215",
+    "uikName": "УИК №1561",
     "tikTvd": "27720002782338",
-    "tikName": "район Печатники"
+    "tikName": "район Печатники",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1562,
     "uikTvd": "4774097273216",
+    "uikName": "УИК №1562",
     "tikTvd": "27720002782338",
-    "tikName": "район Печатники"
+    "tikName": "район Печатники",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1563,
     "uikTvd": "4774097273217",
+    "uikName": "УИК №1563",
     "tikTvd": "27720002782338",
-    "tikName": "район Печатники"
+    "tikName": "район Печатники",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1564,
     "uikTvd": "4774097273218",
+    "uikName": "УИК №1564",
     "tikTvd": "27720002782338",
-    "tikName": "район Печатники"
+    "tikName": "район Печатники",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1566,
     "uikTvd": "4774097273219",
+    "uikName": "УИК №1566",
     "tikTvd": "27720002782338",
-    "tikName": "район Печатники"
+    "tikName": "район Печатники",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1568,
     "uikTvd": "4774097273220",
+    "uikName": "УИК №1568",
     "tikTvd": "27720002782338",
-    "tikName": "район Печатники"
+    "tikName": "район Печатники",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1570,
     "uikTvd": "4774097273221",
+    "uikName": "УИК №1570",
     "tikTvd": "27720002782338",
-    "tikName": "район Печатники"
+    "tikName": "район Печатники",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1573,
     "uikTvd": "4774097273222",
+    "uikName": "УИК №1573",
     "tikTvd": "27720002782338",
-    "tikName": "район Печатники"
+    "tikName": "район Печатники",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1574,
     "uikTvd": "4774098272364",
+    "uikName": "УИК №1574",
     "tikTvd": "27720002782270",
-    "tikName": "Рязанский район"
+    "tikName": "Рязанский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1575,
     "uikTvd": "4774098272365",
+    "uikName": "УИК №1575",
     "tikTvd": "27720002782270",
-    "tikName": "Рязанский район"
+    "tikName": "Рязанский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1578,
     "uikTvd": "4774098272366",
+    "uikName": "УИК №1578",
     "tikTvd": "27720002782270",
-    "tikName": "Рязанский район"
+    "tikName": "Рязанский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1580,
     "uikTvd": "4774098272367",
+    "uikName": "УИК №1580",
     "tikTvd": "27720002782270",
-    "tikName": "Рязанский район"
+    "tikName": "Рязанский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1582,
     "uikTvd": "4774098272368",
+    "uikName": "УИК №1582",
     "tikTvd": "27720002782270",
-    "tikName": "Рязанский район"
+    "tikName": "Рязанский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1584,
     "uikTvd": "4774098272369",
+    "uikName": "УИК №1584",
     "tikTvd": "27720002782270",
-    "tikName": "Рязанский район"
+    "tikName": "Рязанский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1586,
     "uikTvd": "4774098272370",
+    "uikName": "УИК №1586",
     "tikTvd": "27720002782270",
-    "tikName": "Рязанский район"
+    "tikName": "Рязанский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1587,
     "uikTvd": "4774098272371",
+    "uikName": "УИК №1587",
     "tikTvd": "27720002782270",
-    "tikName": "Рязанский район"
+    "tikName": "Рязанский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1590,
     "uikTvd": "4774098272372",
+    "uikName": "УИК №1590",
     "tikTvd": "27720002782270",
-    "tikName": "Рязанский район"
+    "tikName": "Рязанский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1592,
     "uikTvd": "4774098272373",
+    "uikName": "УИК №1592",
     "tikTvd": "27720002782270",
-    "tikName": "Рязанский район"
+    "tikName": "Рязанский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1593,
     "uikTvd": "4774098272374",
+    "uikName": "УИК №1593",
     "tikTvd": "27720002782270",
-    "tikName": "Рязанский район"
+    "tikName": "Рязанский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1595,
     "uikTvd": "4774098272375",
+    "uikName": "УИК №1595",
     "tikTvd": "27720002782270",
-    "tikName": "Рязанский район"
+    "tikName": "Рязанский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1597,
     "uikTvd": "4774098272376",
+    "uikName": "УИК №1597",
     "tikTvd": "27720002782270",
-    "tikName": "Рязанский район"
+    "tikName": "Рязанский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1598,
     "uikTvd": "4774098272377",
+    "uikName": "УИК №1598",
     "tikTvd": "27720002782270",
-    "tikName": "Рязанский район"
+    "tikName": "Рязанский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1599,
     "uikTvd": "4774098272378",
+    "uikName": "УИК №1599",
     "tikTvd": "27720002782270",
-    "tikName": "Рязанский район"
+    "tikName": "Рязанский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1601,
     "uikTvd": "4774098272379",
+    "uikName": "УИК №1601",
     "tikTvd": "27720002782270",
-    "tikName": "Рязанский район"
+    "tikName": "Рязанский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1602,
     "uikTvd": "4774098272380",
+    "uikName": "УИК №1602",
     "tikTvd": "27720002782270",
-    "tikName": "Рязанский район"
+    "tikName": "Рязанский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1605,
     "uikTvd": "4774099267436",
+    "uikName": "УИК №1605",
     "tikTvd": "27720002782198",
-    "tikName": "район Текстильщики"
+    "tikName": "район Текстильщики",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1606,
     "uikTvd": "4774099267437",
+    "uikName": "УИК №1606",
     "tikTvd": "27720002782198",
-    "tikName": "район Текстильщики"
+    "tikName": "район Текстильщики",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1607,
     "uikTvd": "4774099267438",
+    "uikName": "УИК №1607",
     "tikTvd": "27720002782198",
-    "tikName": "район Текстильщики"
+    "tikName": "район Текстильщики",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1609,
     "uikTvd": "4774099267439",
+    "uikName": "УИК №1609",
     "tikTvd": "27720002782198",
-    "tikName": "район Текстильщики"
+    "tikName": "район Текстильщики",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1610,
     "uikTvd": "4774099267440",
+    "uikName": "УИК №1610",
     "tikTvd": "27720002782198",
-    "tikName": "район Текстильщики"
+    "tikName": "район Текстильщики",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1611,
     "uikTvd": "4774099267441",
+    "uikName": "УИК №1611",
     "tikTvd": "27720002782198",
-    "tikName": "район Текстильщики"
+    "tikName": "район Текстильщики",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1613,
     "uikTvd": "4774099267442",
+    "uikName": "УИК №1613",
     "tikTvd": "27720002782198",
-    "tikName": "район Текстильщики"
+    "tikName": "район Текстильщики",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1615,
     "uikTvd": "4774099267443",
+    "uikName": "УИК №1615",
     "tikTvd": "27720002782198",
-    "tikName": "район Текстильщики"
+    "tikName": "район Текстильщики",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1617,
     "uikTvd": "4774099267444",
+    "uikName": "УИК №1617",
     "tikTvd": "27720002782198",
-    "tikName": "район Текстильщики"
+    "tikName": "район Текстильщики",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1618,
     "uikTvd": "4774099267445",
+    "uikName": "УИК №1618",
     "tikTvd": "27720002782198",
-    "tikName": "район Текстильщики"
+    "tikName": "район Текстильщики",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1620,
     "uikTvd": "4774099267446",
+    "uikName": "УИК №1620",
     "tikTvd": "27720002782198",
-    "tikName": "район Текстильщики"
+    "tikName": "район Текстильщики",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1622,
     "uikTvd": "4774099267447",
+    "uikName": "УИК №1622",
     "tikTvd": "27720002782198",
-    "tikName": "район Текстильщики"
+    "tikName": "район Текстильщики",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1623,
     "uikTvd": "4774099267448",
+    "uikName": "УИК №1623",
     "tikTvd": "27720002782198",
-    "tikName": "район Текстильщики"
+    "tikName": "район Текстильщики",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1625,
     "uikTvd": "4774099267449",
+    "uikName": "УИК №1625",
     "tikTvd": "27720002782198",
-    "tikName": "район Текстильщики"
+    "tikName": "район Текстильщики",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1626,
     "uikTvd": "4774099267450",
+    "uikName": "УИК №1626",
     "tikTvd": "27720002782198",
-    "tikName": "район Текстильщики"
+    "tikName": "район Текстильщики",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1627,
     "uikTvd": "4774099267451",
+    "uikName": "УИК №1627",
     "tikTvd": "27720002782198",
-    "tikName": "район Текстильщики"
+    "tikName": "район Текстильщики",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1633,
     "uikTvd": "4774100252018",
+    "uikName": "УИК №1633",
     "tikTvd": "27720002782331",
-    "tikName": "Южнопортовый район"
+    "tikName": "Южнопортовый район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1636,
     "uikTvd": "4774100252019",
+    "uikName": "УИК №1636",
     "tikTvd": "27720002782331",
-    "tikName": "Южнопортовый район"
+    "tikName": "Южнопортовый район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1637,
     "uikTvd": "4774100252020",
+    "uikName": "УИК №1637",
     "tikTvd": "27720002782331",
-    "tikName": "Южнопортовый район"
+    "tikName": "Южнопортовый район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1638,
     "uikTvd": "4774100252021",
+    "uikName": "УИК №1638",
     "tikTvd": "27720002782331",
-    "tikName": "Южнопортовый район"
+    "tikName": "Южнопортовый район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1640,
     "uikTvd": "4774100252022",
+    "uikName": "УИК №1640",
     "tikTvd": "27720002782331",
-    "tikName": "Южнопортовый район"
+    "tikName": "Южнопортовый район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1644,
     "uikTvd": "4774100252023",
+    "uikName": "УИК №1644",
     "tikTvd": "27720002782331",
-    "tikName": "Южнопортовый район"
+    "tikName": "Южнопортовый район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1645,
     "uikTvd": "4774100252024",
+    "uikName": "УИК №1645",
     "tikTvd": "27720002782331",
-    "tikName": "Южнопортовый район"
+    "tikName": "Южнопортовый район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1646,
     "uikTvd": "4774100252025",
+    "uikName": "УИК №1646",
     "tikTvd": "27720002782331",
-    "tikName": "Южнопортовый район"
+    "tikName": "Южнопортовый район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1649,
     "uikTvd": "4774100252026",
+    "uikName": "УИК №1649",
     "tikTvd": "27720002782331",
-    "tikName": "Южнопортовый район"
+    "tikName": "Южнопортовый район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1651,
     "uikTvd": "4774100252027",
+    "uikName": "УИК №1651",
     "tikTvd": "27720002782331",
-    "tikName": "Южнопортовый район"
+    "tikName": "Южнопортовый район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1654,
     "uikTvd": "4774100252028",
+    "uikName": "УИК №1654",
     "tikTvd": "27720002782331",
-    "tikName": "Южнопортовый район"
+    "tikName": "Южнопортовый район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1655,
     "uikTvd": "4774113364110",
+    "uikName": "УИК №1655",
     "tikTvd": "27720002782326",
-    "tikName": "район Бирюлево Восточное"
+    "tikName": "район Бирюлево Восточное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1656,
     "uikTvd": "4774113364111",
+    "uikName": "УИК №1656",
     "tikTvd": "27720002782326",
-    "tikName": "район Бирюлево Восточное"
+    "tikName": "район Бирюлево Восточное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1660,
     "uikTvd": "4774113364112",
+    "uikName": "УИК №1660",
     "tikTvd": "27720002782326",
-    "tikName": "район Бирюлево Восточное"
+    "tikName": "район Бирюлево Восточное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1661,
     "uikTvd": "4774113364113",
+    "uikName": "УИК №1661",
     "tikTvd": "27720002782326",
-    "tikName": "район Бирюлево Восточное"
+    "tikName": "район Бирюлево Восточное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1663,
     "uikTvd": "4774113364114",
+    "uikName": "УИК №1663",
     "tikTvd": "27720002782326",
-    "tikName": "район Бирюлево Восточное"
+    "tikName": "район Бирюлево Восточное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1664,
     "uikTvd": "4774113364115",
+    "uikName": "УИК №1664",
     "tikTvd": "27720002782326",
-    "tikName": "район Бирюлево Восточное"
+    "tikName": "район Бирюлево Восточное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1666,
     "uikTvd": "4774113364116",
+    "uikName": "УИК №1666",
     "tikTvd": "27720002782326",
-    "tikName": "район Бирюлево Восточное"
+    "tikName": "район Бирюлево Восточное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1668,
     "uikTvd": "4774113364117",
+    "uikName": "УИК №1668",
     "tikTvd": "27720002782326",
-    "tikName": "район Бирюлево Восточное"
+    "tikName": "район Бирюлево Восточное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1671,
     "uikTvd": "4774113364118",
+    "uikName": "УИК №1671",
     "tikTvd": "27720002782326",
-    "tikName": "район Бирюлево Восточное"
+    "tikName": "район Бирюлево Восточное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1674,
     "uikTvd": "4774113364119",
+    "uikName": "УИК №1674",
     "tikTvd": "27720002782326",
-    "tikName": "район Бирюлево Восточное"
+    "tikName": "район Бирюлево Восточное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1677,
     "uikTvd": "4774113364120",
+    "uikName": "УИК №1677",
     "tikTvd": "27720002782326",
-    "tikName": "район Бирюлево Восточное"
+    "tikName": "район Бирюлево Восточное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1678,
     "uikTvd": "4774113364121",
+    "uikName": "УИК №1678",
     "tikTvd": "27720002782326",
-    "tikName": "район Бирюлево Восточное"
+    "tikName": "район Бирюлево Восточное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1679,
     "uikTvd": "4774113364122",
+    "uikName": "УИК №1679",
     "tikTvd": "27720002782326",
-    "tikName": "район Бирюлево Восточное"
+    "tikName": "район Бирюлево Восточное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1681,
     "uikTvd": "4774113364123",
+    "uikName": "УИК №1681",
     "tikTvd": "27720002782326",
-    "tikName": "район Бирюлево Восточное"
+    "tikName": "район Бирюлево Восточное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1682,
     "uikTvd": "4774113364124",
+    "uikName": "УИК №1682",
     "tikTvd": "27720002782326",
-    "tikName": "район Бирюлево Восточное"
+    "tikName": "район Бирюлево Восточное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1684,
     "uikTvd": "4774113364125",
+    "uikName": "УИК №1684",
     "tikTvd": "27720002782326",
-    "tikName": "район Бирюлево Восточное"
+    "tikName": "район Бирюлево Восточное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1687,
     "uikTvd": "4774113364126",
+    "uikName": "УИК №1687",
     "tikTvd": "27720002782326",
-    "tikName": "район Бирюлево Восточное"
+    "tikName": "район Бирюлево Восточное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1688,
     "uikTvd": "4774113364127",
+    "uikName": "УИК №1688",
     "tikTvd": "27720002782326",
-    "tikName": "район Бирюлево Восточное"
+    "tikName": "район Бирюлево Восточное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1689,
     "uikTvd": "4774113364128",
+    "uikName": "УИК №1689",
     "tikTvd": "27720002782326",
-    "tikName": "район Бирюлево Восточное"
+    "tikName": "район Бирюлево Восточное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1690,
     "uikTvd": "4774113364129",
+    "uikName": "УИК №1690",
     "tikTvd": "27720002782326",
-    "tikName": "район Бирюлево Восточное"
+    "tikName": "район Бирюлево Восточное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1691,
     "uikTvd": "4774113364130",
+    "uikName": "УИК №1691",
     "tikTvd": "27720002782326",
-    "tikName": "район Бирюлево Восточное"
+    "tikName": "район Бирюлево Восточное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1694,
     "uikTvd": "4774113364131",
+    "uikName": "УИК №1694",
     "tikTvd": "27720002782326",
-    "tikName": "район Бирюлево Восточное"
+    "tikName": "район Бирюлево Восточное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1696,
     "uikTvd": "4774114266974",
+    "uikName": "УИК №1696",
     "tikTvd": "27720002782283",
-    "tikName": "район Бирюлево Западное"
+    "tikName": "район Бирюлево Западное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1698,
     "uikTvd": "4774114266975",
+    "uikName": "УИК №1698",
     "tikTvd": "27720002782283",
-    "tikName": "район Бирюлево Западное"
+    "tikName": "район Бирюлево Западное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1699,
     "uikTvd": "4774114266976",
+    "uikName": "УИК №1699",
     "tikTvd": "27720002782283",
-    "tikName": "район Бирюлево Западное"
+    "tikName": "район Бирюлево Западное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1701,
     "uikTvd": "4774114266977",
+    "uikName": "УИК №1701",
     "tikTvd": "27720002782283",
-    "tikName": "район Бирюлево Западное"
+    "tikName": "район Бирюлево Западное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1702,
     "uikTvd": "4774114266978",
+    "uikName": "УИК №1702",
     "tikTvd": "27720002782283",
-    "tikName": "район Бирюлево Западное"
+    "tikName": "район Бирюлево Западное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1703,
     "uikTvd": "4774114266979",
+    "uikName": "УИК №1703",
     "tikTvd": "27720002782283",
-    "tikName": "район Бирюлево Западное"
+    "tikName": "район Бирюлево Западное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1704,
     "uikTvd": "4774114266980",
+    "uikName": "УИК №1704",
     "tikTvd": "27720002782283",
-    "tikName": "район Бирюлево Западное"
+    "tikName": "район Бирюлево Западное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1708,
     "uikTvd": "4774114266981",
+    "uikName": "УИК №1708",
     "tikTvd": "27720002782283",
-    "tikName": "район Бирюлево Западное"
+    "tikName": "район Бирюлево Западное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1711,
     "uikTvd": "4774114266982",
+    "uikName": "УИК №1711",
     "tikTvd": "27720002782283",
-    "tikName": "район Бирюлево Западное"
+    "tikName": "район Бирюлево Западное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1713,
     "uikTvd": "4774114266983",
+    "uikName": "УИК №1713",
     "tikTvd": "27720002782283",
-    "tikName": "район Бирюлево Западное"
+    "tikName": "район Бирюлево Западное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1714,
     "uikTvd": "4774114266984",
+    "uikName": "УИК №1714",
     "tikTvd": "27720002782283",
-    "tikName": "район Бирюлево Западное"
+    "tikName": "район Бирюлево Западное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1716,
     "uikTvd": "4774114266985",
+    "uikName": "УИК №1716",
     "tikTvd": "27720002782283",
-    "tikName": "район Бирюлево Западное"
+    "tikName": "район Бирюлево Западное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1717,
     "uikTvd": "4774114266986",
+    "uikName": "УИК №1717",
     "tikTvd": "27720002782283",
-    "tikName": "район Бирюлево Западное"
+    "tikName": "район Бирюлево Западное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1719,
     "uikTvd": "4774115276668",
+    "uikName": "УИК №1719",
     "tikTvd": "27720002782236",
-    "tikName": "район Братеево"
+    "tikName": "район Братеево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1721,
     "uikTvd": "4774115276669",
+    "uikName": "УИК №1721",
     "tikTvd": "27720002782236",
-    "tikName": "район Братеево"
+    "tikName": "район Братеево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1722,
     "uikTvd": "4774115276670",
+    "uikName": "УИК №1722",
     "tikTvd": "27720002782236",
-    "tikName": "район Братеево"
+    "tikName": "район Братеево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1724,
     "uikTvd": "4774115276671",
+    "uikName": "УИК №1724",
     "tikTvd": "27720002782236",
-    "tikName": "район Братеево"
+    "tikName": "район Братеево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1725,
     "uikTvd": "4774115276672",
+    "uikName": "УИК №1725",
     "tikTvd": "27720002782236",
-    "tikName": "район Братеево"
+    "tikName": "район Братеево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1726,
     "uikTvd": "4774115276673",
+    "uikName": "УИК №1726",
     "tikTvd": "27720002782236",
-    "tikName": "район Братеево"
+    "tikName": "район Братеево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1728,
     "uikTvd": "4774115276674",
+    "uikName": "УИК №1728",
     "tikTvd": "27720002782236",
-    "tikName": "район Братеево"
+    "tikName": "район Братеево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1729,
     "uikTvd": "4774115276675",
+    "uikName": "УИК №1729",
     "tikTvd": "27720002782236",
-    "tikName": "район Братеево"
+    "tikName": "район Братеево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1732,
     "uikTvd": "4774115276676",
+    "uikName": "УИК №1732",
     "tikTvd": "27720002782236",
-    "tikName": "район Братеево"
+    "tikName": "район Братеево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1736,
     "uikTvd": "4774115276677",
+    "uikName": "УИК №1736",
     "tikTvd": "27720002782236",
-    "tikName": "район Братеево"
+    "tikName": "район Братеево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1738,
     "uikTvd": "4774115276678",
+    "uikName": "УИК №1738",
     "tikTvd": "27720002782236",
-    "tikName": "район Братеево"
+    "tikName": "район Братеево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1739,
     "uikTvd": "4774115276679",
+    "uikName": "УИК №1739",
     "tikTvd": "27720002782236",
-    "tikName": "район Братеево"
+    "tikName": "район Братеево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1740,
     "uikTvd": "4774115276680",
+    "uikName": "УИК №1740",
     "tikTvd": "27720002782236",
-    "tikName": "район Братеево"
+    "tikName": "район Братеево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1741,
     "uikTvd": "4774115276681",
+    "uikName": "УИК №1741",
     "tikTvd": "27720002782236",
-    "tikName": "район Братеево"
+    "tikName": "район Братеево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1745,
     "uikTvd": "4774116268039",
+    "uikName": "УИК №1745",
     "tikTvd": "27720002782235",
-    "tikName": "Даниловский район"
+    "tikName": "Даниловский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1747,
     "uikTvd": "4774116268040",
+    "uikName": "УИК №1747",
     "tikTvd": "27720002782235",
-    "tikName": "Даниловский район"
+    "tikName": "Даниловский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1748,
     "uikTvd": "4774116268041",
+    "uikName": "УИК №1748",
     "tikTvd": "27720002782235",
-    "tikName": "Даниловский район"
+    "tikName": "Даниловский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1750,
     "uikTvd": "4774116268042",
+    "uikName": "УИК №1750",
     "tikTvd": "27720002782235",
-    "tikName": "Даниловский район"
+    "tikName": "Даниловский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1752,
     "uikTvd": "4774116268043",
+    "uikName": "УИК №1752",
     "tikTvd": "27720002782235",
-    "tikName": "Даниловский район"
+    "tikName": "Даниловский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1753,
     "uikTvd": "4774116268044",
+    "uikName": "УИК №1753",
     "tikTvd": "27720002782235",
-    "tikName": "Даниловский район"
+    "tikName": "Даниловский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1757,
     "uikTvd": "4774116268045",
+    "uikName": "УИК №1757",
     "tikTvd": "27720002782235",
-    "tikName": "Даниловский район"
+    "tikName": "Даниловский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1759,
     "uikTvd": "4774116268046",
+    "uikName": "УИК №1759",
     "tikTvd": "27720002782235",
-    "tikName": "Даниловский район"
+    "tikName": "Даниловский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1760,
     "uikTvd": "4774116268047",
+    "uikName": "УИК №1760",
     "tikTvd": "27720002782235",
-    "tikName": "Даниловский район"
+    "tikName": "Даниловский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1761,
     "uikTvd": "4774116268048",
+    "uikName": "УИК №1761",
     "tikTvd": "27720002782235",
-    "tikName": "Даниловский район"
+    "tikName": "Даниловский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1763,
     "uikTvd": "4774116268049",
+    "uikName": "УИК №1763",
     "tikTvd": "27720002782235",
-    "tikName": "Даниловский район"
+    "tikName": "Даниловский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1764,
     "uikTvd": "4774116268050",
+    "uikName": "УИК №1764",
     "tikTvd": "27720002782235",
-    "tikName": "Даниловский район"
+    "tikName": "Даниловский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1766,
     "uikTvd": "4774116268051",
+    "uikName": "УИК №1766",
     "tikTvd": "27720002782235",
-    "tikName": "Даниловский район"
+    "tikName": "Даниловский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1768,
     "uikTvd": "4774116268052",
+    "uikName": "УИК №1768",
     "tikTvd": "27720002782235",
-    "tikName": "Даниловский район"
+    "tikName": "Даниловский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1769,
     "uikTvd": "4774116268053",
+    "uikName": "УИК №1769",
     "tikTvd": "27720002782235",
-    "tikName": "Даниловский район"
+    "tikName": "Даниловский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1772,
     "uikTvd": "4774117227072",
+    "uikName": "УИК №1772",
     "tikTvd": "27720002782255",
-    "tikName": "Донской район"
+    "tikName": "Донской район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1776,
     "uikTvd": "4774117227073",
+    "uikName": "УИК №1776",
     "tikTvd": "27720002782255",
-    "tikName": "Донской район"
+    "tikName": "Донской район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1779,
     "uikTvd": "4774117227074",
+    "uikName": "УИК №1779",
     "tikTvd": "27720002782255",
-    "tikName": "Донской район"
+    "tikName": "Донской район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1780,
     "uikTvd": "4774117227075",
+    "uikName": "УИК №1780",
     "tikTvd": "27720002782255",
-    "tikName": "Донской район"
+    "tikName": "Донской район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1781,
     "uikTvd": "4774117227076",
+    "uikName": "УИК №1781",
     "tikTvd": "27720002782255",
-    "tikName": "Донской район"
+    "tikName": "Донской район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1783,
     "uikTvd": "4774117227077",
+    "uikName": "УИК №1783",
     "tikTvd": "27720002782255",
-    "tikName": "Донской район"
+    "tikName": "Донской район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1785,
     "uikTvd": "4774117227078",
+    "uikName": "УИК №1785",
     "tikTvd": "27720002782255",
-    "tikName": "Донской район"
+    "tikName": "Донской район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1787,
     "uikTvd": "4774117227079",
+    "uikName": "УИК №1787",
     "tikTvd": "27720002782255",
-    "tikName": "Донской район"
+    "tikName": "Донской район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1788,
     "uikTvd": "4774119295597",
+    "uikName": "УИК №1788",
     "tikTvd": "27720002782205",
-    "tikName": "район Зябликово"
+    "tikName": "район Зябликово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1790,
     "uikTvd": "4774119295598",
+    "uikName": "УИК №1790",
     "tikTvd": "27720002782205",
-    "tikName": "район Зябликово"
+    "tikName": "район Зябликово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1791,
     "uikTvd": "4774119295599",
+    "uikName": "УИК №1791",
     "tikTvd": "27720002782205",
-    "tikName": "район Зябликово"
+    "tikName": "район Зябликово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1795,
     "uikTvd": "4774119295600",
+    "uikName": "УИК №1795",
     "tikTvd": "27720002782205",
-    "tikName": "район Зябликово"
+    "tikName": "район Зябликово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1796,
     "uikTvd": "4774119295601",
+    "uikName": "УИК №1796",
     "tikTvd": "27720002782205",
-    "tikName": "район Зябликово"
+    "tikName": "район Зябликово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1797,
     "uikTvd": "4774119295602",
+    "uikName": "УИК №1797",
     "tikTvd": "27720002782205",
-    "tikName": "район Зябликово"
+    "tikName": "район Зябликово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1798,
     "uikTvd": "4774119295603",
+    "uikName": "УИК №1798",
     "tikTvd": "27720002782205",
-    "tikName": "район Зябликово"
+    "tikName": "район Зябликово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1801,
     "uikTvd": "4774119295604",
+    "uikName": "УИК №1801",
     "tikTvd": "27720002782205",
-    "tikName": "район Зябликово"
+    "tikName": "район Зябликово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1804,
     "uikTvd": "4774119295605",
+    "uikName": "УИК №1804",
     "tikTvd": "27720002782205",
-    "tikName": "район Зябликово"
+    "tikName": "район Зябликово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1806,
     "uikTvd": "4774119295606",
+    "uikName": "УИК №1806",
     "tikTvd": "27720002782205",
-    "tikName": "район Зябликово"
+    "tikName": "район Зябликово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1807,
     "uikTvd": "4774119295607",
+    "uikName": "УИК №1807",
     "tikTvd": "27720002782205",
-    "tikName": "район Зябликово"
+    "tikName": "район Зябликово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1808,
     "uikTvd": "4774119295608",
+    "uikName": "УИК №1808",
     "tikTvd": "27720002782205",
-    "tikName": "район Зябликово"
+    "tikName": "район Зябликово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1810,
     "uikTvd": "4774119295609",
+    "uikName": "УИК №1810",
     "tikTvd": "27720002782205",
-    "tikName": "район Зябликово"
+    "tikName": "район Зябликово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1811,
     "uikTvd": "4774119295610",
+    "uikName": "УИК №1811",
     "tikTvd": "27720002782205",
-    "tikName": "район Зябликово"
+    "tikName": "район Зябликово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1812,
     "uikTvd": "4774119295611",
+    "uikName": "УИК №1812",
     "tikTvd": "27720002782205",
-    "tikName": "район Зябликово"
+    "tikName": "район Зябликово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1814,
     "uikTvd": "4774119295612",
+    "uikName": "УИК №1814",
     "tikTvd": "27720002782205",
-    "tikName": "район Зябликово"
+    "tikName": "район Зябликово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1816,
     "uikTvd": "4774119295613",
+    "uikName": "УИК №1816",
     "tikTvd": "27720002782205",
-    "tikName": "район Зябликово"
+    "tikName": "район Зябликово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1817,
     "uikTvd": "4774119295614",
+    "uikName": "УИК №1817",
     "tikTvd": "27720002782205",
-    "tikName": "район Зябликово"
+    "tikName": "район Зябликово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1819,
     "uikTvd": "4774119295615",
+    "uikName": "УИК №1819",
     "tikTvd": "27720002782205",
-    "tikName": "район Зябликово"
+    "tikName": "район Зябликово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1821,
     "uikTvd": "4774120245780",
+    "uikName": "УИК №1821",
     "tikTvd": "27720002782250",
-    "tikName": "район Москворечье-Сабурово"
+    "tikName": "район Москворечье-Сабурово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1822,
     "uikTvd": "4774120245781",
+    "uikName": "УИК №1822",
     "tikTvd": "27720002782250",
-    "tikName": "район Москворечье-Сабурово"
+    "tikName": "район Москворечье-Сабурово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1824,
     "uikTvd": "4774120245782",
+    "uikName": "УИК №1824",
     "tikTvd": "27720002782250",
-    "tikName": "район Москворечье-Сабурово"
+    "tikName": "район Москворечье-Сабурово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1825,
     "uikTvd": "4774120245783",
+    "uikName": "УИК №1825",
     "tikTvd": "27720002782250",
-    "tikName": "район Москворечье-Сабурово"
+    "tikName": "район Москворечье-Сабурово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1827,
     "uikTvd": "4774120245784",
+    "uikName": "УИК №1827",
     "tikTvd": "27720002782250",
-    "tikName": "район Москворечье-Сабурово"
+    "tikName": "район Москворечье-Сабурово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1828,
     "uikTvd": "4774120245785",
+    "uikName": "УИК №1828",
     "tikTvd": "27720002782250",
-    "tikName": "район Москворечье-Сабурово"
+    "tikName": "район Москворечье-Сабурово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1833,
     "uikTvd": "4774120245786",
+    "uikName": "УИК №1833",
     "tikTvd": "27720002782250",
-    "tikName": "район Москворечье-Сабурово"
+    "tikName": "район Москворечье-Сабурово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1834,
     "uikTvd": "4774120245787",
+    "uikName": "УИК №1834",
     "tikTvd": "27720002782250",
-    "tikName": "район Москворечье-Сабурово"
+    "tikName": "район Москворечье-Сабурово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1835,
     "uikTvd": "4774120245788",
+    "uikName": "УИК №1835",
     "tikTvd": "27720002782250",
-    "tikName": "район Москворечье-Сабурово"
+    "tikName": "район Москворечье-Сабурово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1838,
     "uikTvd": "4774120245789",
+    "uikName": "УИК №1838",
     "tikTvd": "27720002782250",
-    "tikName": "район Москворечье-Сабурово"
+    "tikName": "район Москворечье-Сабурово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1839,
     "uikTvd": "4774120245790",
+    "uikName": "УИК №1839",
     "tikTvd": "27720002782250",
-    "tikName": "район Москворечье-Сабурово"
+    "tikName": "район Москворечье-Сабурово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1840,
     "uikTvd": "4774121284376",
+    "uikName": "УИК №1840",
     "tikTvd": "27720002782191",
-    "tikName": "район Нагатино-Садовники"
+    "tikName": "район Нагатино-Садовники",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1843,
     "uikTvd": "4774121284377",
+    "uikName": "УИК №1843",
     "tikTvd": "27720002782191",
-    "tikName": "район Нагатино-Садовники"
+    "tikName": "район Нагатино-Садовники",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1845,
     "uikTvd": "4774121284378",
+    "uikName": "УИК №1845",
     "tikTvd": "27720002782191",
-    "tikName": "район Нагатино-Садовники"
+    "tikName": "район Нагатино-Садовники",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1846,
     "uikTvd": "4774121284379",
+    "uikName": "УИК №1846",
     "tikTvd": "27720002782191",
-    "tikName": "район Нагатино-Садовники"
+    "tikName": "район Нагатино-Садовники",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1849,
     "uikTvd": "4774121284380",
+    "uikName": "УИК №1849",
     "tikTvd": "27720002782191",
-    "tikName": "район Нагатино-Садовники"
+    "tikName": "район Нагатино-Садовники",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1850,
     "uikTvd": "4774121284381",
+    "uikName": "УИК №1850",
     "tikTvd": "27720002782191",
-    "tikName": "район Нагатино-Садовники"
+    "tikName": "район Нагатино-Садовники",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1855,
     "uikTvd": "4774121284382",
+    "uikName": "УИК №1855",
     "tikTvd": "27720002782191",
-    "tikName": "район Нагатино-Садовники"
+    "tikName": "район Нагатино-Садовники",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1856,
     "uikTvd": "4774121284383",
+    "uikName": "УИК №1856",
     "tikTvd": "27720002782191",
-    "tikName": "район Нагатино-Садовники"
+    "tikName": "район Нагатино-Садовники",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1857,
     "uikTvd": "4774121284384",
+    "uikName": "УИК №1857",
     "tikTvd": "27720002782191",
-    "tikName": "район Нагатино-Садовники"
+    "tikName": "район Нагатино-Садовники",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1860,
     "uikTvd": "4774121284385",
+    "uikName": "УИК №1860",
     "tikTvd": "27720002782191",
-    "tikName": "район Нагатино-Садовники"
+    "tikName": "район Нагатино-Садовники",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1861,
     "uikTvd": "4774121284386",
+    "uikName": "УИК №1861",
     "tikTvd": "27720002782191",
-    "tikName": "район Нагатино-Садовники"
+    "tikName": "район Нагатино-Садовники",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1862,
     "uikTvd": "4774121284387",
+    "uikName": "УИК №1862",
     "tikTvd": "27720002782191",
-    "tikName": "район Нагатино-Садовники"
+    "tikName": "район Нагатино-Садовники",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1863,
     "uikTvd": "4774122305864",
+    "uikName": "УИК №1863",
     "tikTvd": "27720002782296",
-    "tikName": "район Нагатинский затон"
+    "tikName": "район Нагатинский затон",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1865,
     "uikTvd": "4774122305865",
+    "uikName": "УИК №1865",
     "tikTvd": "27720002782296",
-    "tikName": "район Нагатинский затон"
+    "tikName": "район Нагатинский затон",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1866,
     "uikTvd": "4774122305866",
+    "uikName": "УИК №1866",
     "tikTvd": "27720002782296",
-    "tikName": "район Нагатинский затон"
+    "tikName": "район Нагатинский затон",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1869,
     "uikTvd": "4774122305867",
+    "uikName": "УИК №1869",
     "tikTvd": "27720002782296",
-    "tikName": "район Нагатинский затон"
+    "tikName": "район Нагатинский затон",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1872,
     "uikTvd": "4774122305868",
+    "uikName": "УИК №1872",
     "tikTvd": "27720002782296",
-    "tikName": "район Нагатинский затон"
+    "tikName": "район Нагатинский затон",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1873,
     "uikTvd": "4774122305869",
+    "uikName": "УИК №1873",
     "tikTvd": "27720002782296",
-    "tikName": "район Нагатинский затон"
+    "tikName": "район Нагатинский затон",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1874,
     "uikTvd": "4774122305870",
+    "uikName": "УИК №1874",
     "tikTvd": "27720002782296",
-    "tikName": "район Нагатинский затон"
+    "tikName": "район Нагатинский затон",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1877,
     "uikTvd": "4774122305871",
+    "uikName": "УИК №1877",
     "tikTvd": "27720002782296",
-    "tikName": "район Нагатинский затон"
+    "tikName": "район Нагатинский затон",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1878,
     "uikTvd": "4774122305872",
+    "uikName": "УИК №1878",
     "tikTvd": "27720002782296",
-    "tikName": "район Нагатинский затон"
+    "tikName": "район Нагатинский затон",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1879,
     "uikTvd": "4774122305873",
+    "uikName": "УИК №1879",
     "tikTvd": "27720002782296",
-    "tikName": "район Нагатинский затон"
+    "tikName": "район Нагатинский затон",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1881,
     "uikTvd": "4774122305874",
+    "uikName": "УИК №1881",
     "tikTvd": "27720002782296",
-    "tikName": "район Нагатинский затон"
+    "tikName": "район Нагатинский затон",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1882,
     "uikTvd": "4774122305875",
+    "uikName": "УИК №1882",
     "tikTvd": "27720002782296",
-    "tikName": "район Нагатинский затон"
+    "tikName": "район Нагатинский затон",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1884,
     "uikTvd": "4774122305876",
+    "uikName": "УИК №1884",
     "tikTvd": "27720002782296",
-    "tikName": "район Нагатинский затон"
+    "tikName": "район Нагатинский затон",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1885,
     "uikTvd": "4774122305877",
+    "uikName": "УИК №1885",
     "tikTvd": "27720002782296",
-    "tikName": "район Нагатинский затон"
+    "tikName": "район Нагатинский затон",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1886,
     "uikTvd": "4774122305878",
+    "uikName": "УИК №1886",
     "tikTvd": "27720002782296",
-    "tikName": "район Нагатинский затон"
+    "tikName": "район Нагатинский затон",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1888,
     "uikTvd": "4774122305879",
+    "uikName": "УИК №1888",
     "tikTvd": "27720002782296",
-    "tikName": "район Нагатинский затон"
+    "tikName": "район Нагатинский затон",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1891,
     "uikTvd": "4774122305880",
+    "uikName": "УИК №1891",
     "tikTvd": "27720002782296",
-    "tikName": "район Нагатинский затон"
+    "tikName": "район Нагатинский затон",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1893,
     "uikTvd": "4774122305881",
+    "uikName": "УИК №1893",
     "tikTvd": "27720002782296",
-    "tikName": "район Нагатинский затон"
+    "tikName": "район Нагатинский затон",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1895,
     "uikTvd": "4774122305882",
+    "uikName": "УИК №1895",
     "tikTvd": "27720002782296",
-    "tikName": "район Нагатинский затон"
+    "tikName": "район Нагатинский затон",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1896,
     "uikTvd": "4774123283701",
+    "uikName": "УИК №1896",
     "tikTvd": "27720002782225",
-    "tikName": "Нагорный район"
+    "tikName": "Нагорный район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1898,
     "uikTvd": "4774123283702",
+    "uikName": "УИК №1898",
     "tikTvd": "27720002782225",
-    "tikName": "Нагорный район"
+    "tikName": "Нагорный район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1899,
     "uikTvd": "4774123283703",
+    "uikName": "УИК №1899",
     "tikTvd": "27720002782225",
-    "tikName": "Нагорный район"
+    "tikName": "Нагорный район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1900,
     "uikTvd": "4774123283704",
+    "uikName": "УИК №1900",
     "tikTvd": "27720002782225",
-    "tikName": "Нагорный район"
+    "tikName": "Нагорный район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1905,
     "uikTvd": "4774123283705",
+    "uikName": "УИК №1905",
     "tikTvd": "27720002782225",
-    "tikName": "Нагорный район"
+    "tikName": "Нагорный район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1906,
     "uikTvd": "4774123283706",
+    "uikName": "УИК №1906",
     "tikTvd": "27720002782225",
-    "tikName": "Нагорный район"
+    "tikName": "Нагорный район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1908,
     "uikTvd": "4774123283707",
+    "uikName": "УИК №1908",
     "tikTvd": "27720002782225",
-    "tikName": "Нагорный район"
+    "tikName": "Нагорный район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1909,
     "uikTvd": "4774123283708",
+    "uikName": "УИК №1909",
     "tikTvd": "27720002782225",
-    "tikName": "Нагорный район"
+    "tikName": "Нагорный район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1910,
     "uikTvd": "4774123283709",
+    "uikName": "УИК №1910",
     "tikTvd": "27720002782225",
-    "tikName": "Нагорный район"
+    "tikName": "Нагорный район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1911,
     "uikTvd": "4774123283710",
+    "uikName": "УИК №1911",
     "tikTvd": "27720002782225",
-    "tikName": "Нагорный район"
+    "tikName": "Нагорный район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1912,
     "uikTvd": "4774123283711",
+    "uikName": "УИК №1912",
     "tikTvd": "27720002782225",
-    "tikName": "Нагорный район"
+    "tikName": "Нагорный район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1915,
     "uikTvd": "4774123283712",
+    "uikName": "УИК №1915",
     "tikTvd": "27720002782225",
-    "tikName": "Нагорный район"
+    "tikName": "Нагорный район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1917,
     "uikTvd": "4774124365113",
+    "uikName": "УИК №1917",
     "tikTvd": "27720002782284",
-    "tikName": "район Орехово-Борисово Северное"
+    "tikName": "район Орехово-Борисово Северное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1919,
     "uikTvd": "4774124365114",
+    "uikName": "УИК №1919",
     "tikTvd": "27720002782284",
-    "tikName": "район Орехово-Борисово Северное"
+    "tikName": "район Орехово-Борисово Северное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1920,
     "uikTvd": "4774124365115",
+    "uikName": "УИК №1920",
     "tikTvd": "27720002782284",
-    "tikName": "район Орехово-Борисово Северное"
+    "tikName": "район Орехово-Борисово Северное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1921,
     "uikTvd": "4774124365116",
+    "uikName": "УИК №1921",
     "tikTvd": "27720002782284",
-    "tikName": "район Орехово-Борисово Северное"
+    "tikName": "район Орехово-Борисово Северное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1923,
     "uikTvd": "4774124365117",
+    "uikName": "УИК №1923",
     "tikTvd": "27720002782284",
-    "tikName": "район Орехово-Борисово Северное"
+    "tikName": "район Орехово-Борисово Северное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1924,
     "uikTvd": "4774124365118",
+    "uikName": "УИК №1924",
     "tikTvd": "27720002782284",
-    "tikName": "район Орехово-Борисово Северное"
+    "tikName": "район Орехово-Борисово Северное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1925,
     "uikTvd": "4774124365119",
+    "uikName": "УИК №1925",
     "tikTvd": "27720002782284",
-    "tikName": "район Орехово-Борисово Северное"
+    "tikName": "район Орехово-Борисово Северное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1928,
     "uikTvd": "4774124365120",
+    "uikName": "УИК №1928",
     "tikTvd": "27720002782284",
-    "tikName": "район Орехово-Борисово Северное"
+    "tikName": "район Орехово-Борисово Северное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1929,
     "uikTvd": "4774124365121",
+    "uikName": "УИК №1929",
     "tikTvd": "27720002782284",
-    "tikName": "район Орехово-Борисово Северное"
+    "tikName": "район Орехово-Борисово Северное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1930,
     "uikTvd": "4774124365122",
+    "uikName": "УИК №1930",
     "tikTvd": "27720002782284",
-    "tikName": "район Орехово-Борисово Северное"
+    "tikName": "район Орехово-Борисово Северное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1932,
     "uikTvd": "4774124365123",
+    "uikName": "УИК №1932",
     "tikTvd": "27720002782284",
-    "tikName": "район Орехово-Борисово Северное"
+    "tikName": "район Орехово-Борисово Северное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1933,
     "uikTvd": "4774124365124",
+    "uikName": "УИК №1933",
     "tikTvd": "27720002782284",
-    "tikName": "район Орехово-Борисово Северное"
+    "tikName": "район Орехово-Борисово Северное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1936,
     "uikTvd": "4774124365125",
+    "uikName": "УИК №1936",
     "tikTvd": "27720002782284",
-    "tikName": "район Орехово-Борисово Северное"
+    "tikName": "район Орехово-Борисово Северное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1937,
     "uikTvd": "4774124365126",
+    "uikName": "УИК №1937",
     "tikTvd": "27720002782284",
-    "tikName": "район Орехово-Борисово Северное"
+    "tikName": "район Орехово-Борисово Северное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1938,
     "uikTvd": "4774124365127",
+    "uikName": "УИК №1938",
     "tikTvd": "27720002782284",
-    "tikName": "район Орехово-Борисово Северное"
+    "tikName": "район Орехово-Борисово Северное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1940,
     "uikTvd": "4774124365128",
+    "uikName": "УИК №1940",
     "tikTvd": "27720002782284",
-    "tikName": "район Орехово-Борисово Северное"
+    "tikName": "район Орехово-Борисово Северное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1942,
     "uikTvd": "4774124365129",
+    "uikName": "УИК №1942",
     "tikTvd": "27720002782284",
-    "tikName": "район Орехово-Борисово Северное"
+    "tikName": "район Орехово-Борисово Северное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1944,
     "uikTvd": "4774124365130",
+    "uikName": "УИК №1944",
     "tikTvd": "27720002782284",
-    "tikName": "район Орехово-Борисово Северное"
+    "tikName": "район Орехово-Борисово Северное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1945,
     "uikTvd": "4774124365131",
+    "uikName": "УИК №1945",
     "tikTvd": "27720002782284",
-    "tikName": "район Орехово-Борисово Северное"
+    "tikName": "район Орехово-Борисово Северное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1946,
     "uikTvd": "4774124365132",
+    "uikName": "УИК №1946",
     "tikTvd": "27720002782284",
-    "tikName": "район Орехово-Борисово Северное"
+    "tikName": "район Орехово-Борисово Северное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1950,
     "uikTvd": "4774125347834",
+    "uikName": "УИК №1950",
     "tikTvd": "27720002782217",
-    "tikName": "район Орехово-Борисово Южное"
+    "tikName": "район Орехово-Борисово Южное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1951,
     "uikTvd": "4774125347835",
+    "uikName": "УИК №1951",
     "tikTvd": "27720002782217",
-    "tikName": "район Орехово-Борисово Южное"
+    "tikName": "район Орехово-Борисово Южное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1952,
     "uikTvd": "4774125347836",
+    "uikName": "УИК №1952",
     "tikTvd": "27720002782217",
-    "tikName": "район Орехово-Борисово Южное"
+    "tikName": "район Орехово-Борисово Южное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1953,
     "uikTvd": "4774125347837",
+    "uikName": "УИК №1953",
     "tikTvd": "27720002782217",
-    "tikName": "район Орехово-Борисово Южное"
+    "tikName": "район Орехово-Борисово Южное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1954,
     "uikTvd": "4774125347838",
+    "uikName": "УИК №1954",
     "tikTvd": "27720002782217",
-    "tikName": "район Орехово-Борисово Южное"
+    "tikName": "район Орехово-Борисово Южное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1957,
     "uikTvd": "4774125347839",
+    "uikName": "УИК №1957",
     "tikTvd": "27720002782217",
-    "tikName": "район Орехово-Борисово Южное"
+    "tikName": "район Орехово-Борисово Южное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1958,
     "uikTvd": "4774125347840",
+    "uikName": "УИК №1958",
     "tikTvd": "27720002782217",
-    "tikName": "район Орехово-Борисово Южное"
+    "tikName": "район Орехово-Борисово Южное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1960,
     "uikTvd": "4774125347841",
+    "uikName": "УИК №1960",
     "tikTvd": "27720002782217",
-    "tikName": "район Орехово-Борисово Южное"
+    "tikName": "район Орехово-Борисово Южное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1963,
     "uikTvd": "4774125347842",
+    "uikName": "УИК №1963",
     "tikTvd": "27720002782217",
-    "tikName": "район Орехово-Борисово Южное"
+    "tikName": "район Орехово-Борисово Южное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1964,
     "uikTvd": "4774125347843",
+    "uikName": "УИК №1964",
     "tikTvd": "27720002782217",
-    "tikName": "район Орехово-Борисово Южное"
+    "tikName": "район Орехово-Борисово Южное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1966,
     "uikTvd": "4774125347844",
+    "uikName": "УИК №1966",
     "tikTvd": "27720002782217",
-    "tikName": "район Орехово-Борисово Южное"
+    "tikName": "район Орехово-Борисово Южное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1967,
     "uikTvd": "4774125347845",
+    "uikName": "УИК №1967",
     "tikTvd": "27720002782217",
-    "tikName": "район Орехово-Борисово Южное"
+    "tikName": "район Орехово-Борисово Южное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1968,
     "uikTvd": "4774125347846",
+    "uikName": "УИК №1968",
     "tikTvd": "27720002782217",
-    "tikName": "район Орехово-Борисово Южное"
+    "tikName": "район Орехово-Борисово Южное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1969,
     "uikTvd": "4774125347847",
+    "uikName": "УИК №1969",
     "tikTvd": "27720002782217",
-    "tikName": "район Орехово-Борисово Южное"
+    "tikName": "район Орехово-Борисово Южное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1971,
     "uikTvd": "4774125347848",
+    "uikName": "УИК №1971",
     "tikTvd": "27720002782217",
-    "tikName": "район Орехово-Борисово Южное"
+    "tikName": "район Орехово-Борисово Южное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1972,
     "uikTvd": "4774125347849",
+    "uikName": "УИК №1972",
     "tikTvd": "27720002782217",
-    "tikName": "район Орехово-Борисово Южное"
+    "tikName": "район Орехово-Борисово Южное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1973,
     "uikTvd": "4774125347850",
+    "uikName": "УИК №1973",
     "tikTvd": "27720002782217",
-    "tikName": "район Орехово-Борисово Южное"
+    "tikName": "район Орехово-Борисово Южное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1974,
     "uikTvd": "4774125347851",
+    "uikName": "УИК №1974",
     "tikTvd": "27720002782217",
-    "tikName": "район Орехово-Борисово Южное"
+    "tikName": "район Орехово-Борисово Южное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1975,
     "uikTvd": "4774125347852",
+    "uikName": "УИК №1975",
     "tikTvd": "27720002782217",
-    "tikName": "район Орехово-Борисово Южное"
+    "tikName": "район Орехово-Борисово Южное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1976,
     "uikTvd": "4774125347853",
+    "uikName": "УИК №1976",
     "tikTvd": "27720002782217",
-    "tikName": "район Орехово-Борисово Южное"
+    "tikName": "район Орехово-Борисово Южное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1979,
     "uikTvd": "4774125347854",
+    "uikName": "УИК №1979",
     "tikTvd": "27720002782217",
-    "tikName": "район Орехово-Борисово Южное"
+    "tikName": "район Орехово-Борисово Южное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1980,
     "uikTvd": "4774125347855",
+    "uikName": "УИК №1980",
     "tikTvd": "27720002782217",
-    "tikName": "район Орехово-Борисово Южное"
+    "tikName": "район Орехово-Борисово Южное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1981,
     "uikTvd": "4774125347856",
+    "uikName": "УИК №1981",
     "tikTvd": "27720002782217",
-    "tikName": "район Орехово-Борисово Южное"
+    "tikName": "район Орехово-Борисово Южное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1984,
     "uikTvd": "4774125347857",
+    "uikName": "УИК №1984",
     "tikTvd": "27720002782217",
-    "tikName": "район Орехово-Борисово Южное"
+    "tikName": "район Орехово-Борисово Южное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1985,
     "uikTvd": "4774128286024",
+    "uikName": "УИК №1985",
     "tikTvd": "27720002782267",
-    "tikName": "район Царицыно"
+    "tikName": "район Царицыно",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1987,
     "uikTvd": "4774128286025",
+    "uikName": "УИК №1987",
     "tikTvd": "27720002782267",
-    "tikName": "район Царицыно"
+    "tikName": "район Царицыно",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1988,
     "uikTvd": "4774128286026",
+    "uikName": "УИК №1988",
     "tikTvd": "27720002782267",
-    "tikName": "район Царицыно"
+    "tikName": "район Царицыно",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1992,
     "uikTvd": "4774128286027",
+    "uikName": "УИК №1992",
     "tikTvd": "27720002782267",
-    "tikName": "район Царицыно"
+    "tikName": "район Царицыно",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1993,
     "uikTvd": "4774128286028",
+    "uikName": "УИК №1993",
     "tikTvd": "27720002782267",
-    "tikName": "район Царицыно"
+    "tikName": "район Царицыно",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1994,
     "uikTvd": "4774128286029",
+    "uikName": "УИК №1994",
     "tikTvd": "27720002782267",
-    "tikName": "район Царицыно"
+    "tikName": "район Царицыно",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1996,
     "uikTvd": "4774128286030",
+    "uikName": "УИК №1996",
     "tikTvd": "27720002782267",
-    "tikName": "район Царицыно"
+    "tikName": "район Царицыно",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1997,
     "uikTvd": "4774128286031",
+    "uikName": "УИК №1997",
     "tikTvd": "27720002782267",
-    "tikName": "район Царицыно"
+    "tikName": "район Царицыно",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 1999,
     "uikTvd": "4774128286032",
+    "uikName": "УИК №1999",
     "tikTvd": "27720002782267",
-    "tikName": "район Царицыно"
+    "tikName": "район Царицыно",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2001,
     "uikTvd": "4774128286033",
+    "uikName": "УИК №2001",
     "tikTvd": "27720002782267",
-    "tikName": "район Царицыно"
+    "tikName": "район Царицыно",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2003,
     "uikTvd": "4774128286034",
+    "uikName": "УИК №2003",
     "tikTvd": "27720002782267",
-    "tikName": "район Царицыно"
+    "tikName": "район Царицыно",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2005,
     "uikTvd": "4774128286035",
+    "uikName": "УИК №2005",
     "tikTvd": "27720002782267",
-    "tikName": "район Царицыно"
+    "tikName": "район Царицыно",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2006,
     "uikTvd": "4774128286036",
+    "uikName": "УИК №2006",
     "tikTvd": "27720002782267",
-    "tikName": "район Царицыно"
+    "tikName": "район Царицыно",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2007,
     "uikTvd": "4774128286037",
+    "uikName": "УИК №2007",
     "tikTvd": "27720002782267",
-    "tikName": "район Царицыно"
+    "tikName": "район Царицыно",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2009,
     "uikTvd": "4774128286038",
+    "uikName": "УИК №2009",
     "tikTvd": "27720002782267",
-    "tikName": "район Царицыно"
+    "tikName": "район Царицыно",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2010,
     "uikTvd": "4774128286039",
+    "uikName": "УИК №2010",
     "tikTvd": "27720002782267",
-    "tikName": "район Царицыно"
+    "tikName": "район Царицыно",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2012,
     "uikTvd": "4774128286040",
+    "uikName": "УИК №2012",
     "tikTvd": "27720002782267",
-    "tikName": "район Царицыно"
+    "tikName": "район Царицыно",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2014,
     "uikTvd": "4774128286041",
+    "uikName": "УИК №2014",
     "tikTvd": "27720002782267",
-    "tikName": "район Царицыно"
+    "tikName": "район Царицыно",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2016,
     "uikTvd": "4774128286042",
+    "uikName": "УИК №2016",
     "tikTvd": "27720002782267",
-    "tikName": "район Царицыно"
+    "tikName": "район Царицыно",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2017,
     "uikTvd": "4774128286043",
+    "uikName": "УИК №2017",
     "tikTvd": "27720002782267",
-    "tikName": "район Царицыно"
+    "tikName": "район Царицыно",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2018,
     "uikTvd": "4774129258463",
+    "uikName": "УИК №2018",
     "tikTvd": "27720002782228",
-    "tikName": "район Чертаново Северное"
+    "tikName": "район Чертаново Северное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2020,
     "uikTvd": "4774129258464",
+    "uikName": "УИК №2020",
     "tikTvd": "27720002782228",
-    "tikName": "район Чертаново Северное"
+    "tikName": "район Чертаново Северное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2021,
     "uikTvd": "4774129258465",
+    "uikName": "УИК №2021",
     "tikTvd": "27720002782228",
-    "tikName": "район Чертаново Северное"
+    "tikName": "район Чертаново Северное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2023,
     "uikTvd": "4774129258466",
+    "uikName": "УИК №2023",
     "tikTvd": "27720002782228",
-    "tikName": "район Чертаново Северное"
+    "tikName": "район Чертаново Северное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2025,
     "uikTvd": "4774129258467",
+    "uikName": "УИК №2025",
     "tikTvd": "27720002782228",
-    "tikName": "район Чертаново Северное"
+    "tikName": "район Чертаново Северное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2026,
     "uikTvd": "4774129258468",
+    "uikName": "УИК №2026",
     "tikTvd": "27720002782228",
-    "tikName": "район Чертаново Северное"
+    "tikName": "район Чертаново Северное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2027,
     "uikTvd": "4774129258469",
+    "uikName": "УИК №2027",
     "tikTvd": "27720002782228",
-    "tikName": "район Чертаново Северное"
+    "tikName": "район Чертаново Северное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2028,
     "uikTvd": "4774129258470",
+    "uikName": "УИК №2028",
     "tikTvd": "27720002782228",
-    "tikName": "район Чертаново Северное"
+    "tikName": "район Чертаново Северное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2031,
     "uikTvd": "4774129258471",
+    "uikName": "УИК №2031",
     "tikTvd": "27720002782228",
-    "tikName": "район Чертаново Северное"
+    "tikName": "район Чертаново Северное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2032,
     "uikTvd": "4774129258472",
+    "uikName": "УИК №2032",
     "tikTvd": "27720002782228",
-    "tikName": "район Чертаново Северное"
+    "tikName": "район Чертаново Северное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2033,
     "uikTvd": "4774129258473",
+    "uikName": "УИК №2033",
     "tikTvd": "27720002782228",
-    "tikName": "район Чертаново Северное"
+    "tikName": "район Чертаново Северное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2034,
     "uikTvd": "4774129258474",
+    "uikName": "УИК №2034",
     "tikTvd": "27720002782228",
-    "tikName": "район Чертаново Северное"
+    "tikName": "район Чертаново Северное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2036,
     "uikTvd": "4774129258475",
+    "uikName": "УИК №2036",
     "tikTvd": "27720002782228",
-    "tikName": "район Чертаново Северное"
+    "tikName": "район Чертаново Северное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2038,
     "uikTvd": "4774129258476",
+    "uikName": "УИК №2038",
     "tikTvd": "27720002782228",
-    "tikName": "район Чертаново Северное"
+    "tikName": "район Чертаново Северное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2040,
     "uikTvd": "4774129258477",
+    "uikName": "УИК №2040",
     "tikTvd": "27720002782228",
-    "tikName": "район Чертаново Северное"
+    "tikName": "район Чертаново Северное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2041,
     "uikTvd": "4774129258478",
+    "uikName": "УИК №2041",
     "tikTvd": "27720002782228",
-    "tikName": "район Чертаново Северное"
+    "tikName": "район Чертаново Северное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2042,
     "uikTvd": "4774129258479",
+    "uikName": "УИК №2042",
     "tikTvd": "27720002782228",
-    "tikName": "район Чертаново Северное"
+    "tikName": "район Чертаново Северное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2044,
     "uikTvd": "4774129258480",
+    "uikName": "УИК №2044",
     "tikTvd": "27720002782228",
-    "tikName": "район Чертаново Северное"
+    "tikName": "район Чертаново Северное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2046,
     "uikTvd": "4774129258481",
+    "uikName": "УИК №2046",
     "tikTvd": "27720002782228",
-    "tikName": "район Чертаново Северное"
+    "tikName": "район Чертаново Северное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2048,
     "uikTvd": "4774130271203",
+    "uikName": "УИК №2048",
     "tikTvd": "27720002782327",
-    "tikName": "район Чертаново Центральное"
+    "tikName": "район Чертаново Центральное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2050,
     "uikTvd": "4774130271204",
+    "uikName": "УИК №2050",
     "tikTvd": "27720002782327",
-    "tikName": "район Чертаново Центральное"
+    "tikName": "район Чертаново Центральное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2052,
     "uikTvd": "4774130271205",
+    "uikName": "УИК №2052",
     "tikTvd": "27720002782327",
-    "tikName": "район Чертаново Центральное"
+    "tikName": "район Чертаново Центральное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2054,
     "uikTvd": "4774130271206",
+    "uikName": "УИК №2054",
     "tikTvd": "27720002782327",
-    "tikName": "район Чертаново Центральное"
+    "tikName": "район Чертаново Центральное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2055,
     "uikTvd": "4774130271207",
+    "uikName": "УИК №2055",
     "tikTvd": "27720002782327",
-    "tikName": "район Чертаново Центральное"
+    "tikName": "район Чертаново Центральное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2056,
     "uikTvd": "4774130271208",
+    "uikName": "УИК №2056",
     "tikTvd": "27720002782327",
-    "tikName": "район Чертаново Центральное"
+    "tikName": "район Чертаново Центральное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2057,
     "uikTvd": "4774130271209",
+    "uikName": "УИК №2057",
     "tikTvd": "27720002782327",
-    "tikName": "район Чертаново Центральное"
+    "tikName": "район Чертаново Центральное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2058,
     "uikTvd": "4774130271210",
+    "uikName": "УИК №2058",
     "tikTvd": "27720002782327",
-    "tikName": "район Чертаново Центральное"
+    "tikName": "район Чертаново Центральное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2062,
     "uikTvd": "4774130271211",
+    "uikName": "УИК №2062",
     "tikTvd": "27720002782327",
-    "tikName": "район Чертаново Центральное"
+    "tikName": "район Чертаново Центральное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2063,
     "uikTvd": "4774130271212",
+    "uikName": "УИК №2063",
     "tikTvd": "27720002782327",
-    "tikName": "район Чертаново Центральное"
+    "tikName": "район Чертаново Центральное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2064,
     "uikTvd": "4774130271213",
+    "uikName": "УИК №2064",
     "tikTvd": "27720002782327",
-    "tikName": "район Чертаново Центральное"
+    "tikName": "район Чертаново Центральное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2065,
     "uikTvd": "4774130271214",
+    "uikName": "УИК №2065",
     "tikTvd": "27720002782327",
-    "tikName": "район Чертаново Центральное"
+    "tikName": "район Чертаново Центральное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2069,
     "uikTvd": "4774130271215",
+    "uikName": "УИК №2069",
     "tikTvd": "27720002782327",
-    "tikName": "район Чертаново Центральное"
+    "tikName": "район Чертаново Центральное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2073,
     "uikTvd": "4774130271216",
+    "uikName": "УИК №2073",
     "tikTvd": "27720002782327",
-    "tikName": "район Чертаново Центральное"
+    "tikName": "район Чертаново Центральное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2074,
     "uikTvd": "4774130271217",
+    "uikName": "УИК №2074",
     "tikTvd": "27720002782327",
-    "tikName": "район Чертаново Центральное"
+    "tikName": "район Чертаново Центральное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2076,
     "uikTvd": "4774130271218",
+    "uikName": "УИК №2076",
     "tikTvd": "27720002782327",
-    "tikName": "район Чертаново Центральное"
+    "tikName": "район Чертаново Центральное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2077,
     "uikTvd": "4774130271219",
+    "uikName": "УИК №2077",
     "tikTvd": "27720002782327",
-    "tikName": "район Чертаново Центральное"
+    "tikName": "район Чертаново Центральное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2078,
     "uikTvd": "4774131357640",
+    "uikName": "УИК №2078",
     "tikTvd": "27720002782258",
-    "tikName": "район Чертаново Южное"
+    "tikName": "район Чертаново Южное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2081,
     "uikTvd": "4774131357641",
+    "uikName": "УИК №2081",
     "tikTvd": "27720002782258",
-    "tikName": "район Чертаново Южное"
+    "tikName": "район Чертаново Южное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2082,
     "uikTvd": "4774131357642",
+    "uikName": "УИК №2082",
     "tikTvd": "27720002782258",
-    "tikName": "район Чертаново Южное"
+    "tikName": "район Чертаново Южное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2083,
     "uikTvd": "4774131357643",
+    "uikName": "УИК №2083",
     "tikTvd": "27720002782258",
-    "tikName": "район Чертаново Южное"
+    "tikName": "район Чертаново Южное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2084,
     "uikTvd": "4774131357644",
+    "uikName": "УИК №2084",
     "tikTvd": "27720002782258",
-    "tikName": "район Чертаново Южное"
+    "tikName": "район Чертаново Южное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2086,
     "uikTvd": "4774131357645",
+    "uikName": "УИК №2086",
     "tikTvd": "27720002782258",
-    "tikName": "район Чертаново Южное"
+    "tikName": "район Чертаново Южное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2087,
     "uikTvd": "4774131357646",
+    "uikName": "УИК №2087",
     "tikTvd": "27720002782258",
-    "tikName": "район Чертаново Южное"
+    "tikName": "район Чертаново Южное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2090,
     "uikTvd": "4774131357647",
+    "uikName": "УИК №2090",
     "tikTvd": "27720002782258",
-    "tikName": "район Чертаново Южное"
+    "tikName": "район Чертаново Южное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2091,
     "uikTvd": "4774131357648",
+    "uikName": "УИК №2091",
     "tikTvd": "27720002782258",
-    "tikName": "район Чертаново Южное"
+    "tikName": "район Чертаново Южное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2093,
     "uikTvd": "4774131357649",
+    "uikName": "УИК №2093",
     "tikTvd": "27720002782258",
-    "tikName": "район Чертаново Южное"
+    "tikName": "район Чертаново Южное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2094,
     "uikTvd": "4774131357650",
+    "uikName": "УИК №2094",
     "tikTvd": "27720002782258",
-    "tikName": "район Чертаново Южное"
+    "tikName": "район Чертаново Южное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2095,
     "uikTvd": "4774131357651",
+    "uikName": "УИК №2095",
     "tikTvd": "27720002782258",
-    "tikName": "район Чертаново Южное"
+    "tikName": "район Чертаново Южное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2099,
     "uikTvd": "4774131357652",
+    "uikName": "УИК №2099",
     "tikTvd": "27720002782258",
-    "tikName": "район Чертаново Южное"
+    "tikName": "район Чертаново Южное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2100,
     "uikTvd": "4774131357653",
+    "uikName": "УИК №2100",
     "tikTvd": "27720002782258",
-    "tikName": "район Чертаново Южное"
+    "tikName": "район Чертаново Южное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2101,
     "uikTvd": "4774131357654",
+    "uikName": "УИК №2101",
     "tikTvd": "27720002782258",
-    "tikName": "район Чертаново Южное"
+    "tikName": "район Чертаново Южное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2102,
     "uikTvd": "4774131357655",
+    "uikName": "УИК №2102",
     "tikTvd": "27720002782258",
-    "tikName": "район Чертаново Южное"
+    "tikName": "район Чертаново Южное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2105,
     "uikTvd": "4774131357656",
+    "uikName": "УИК №2105",
     "tikTvd": "27720002782258",
-    "tikName": "район Чертаново Южное"
+    "tikName": "район Чертаново Южное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2108,
     "uikTvd": "4774131357657",
+    "uikName": "УИК №2108",
     "tikTvd": "27720002782258",
-    "tikName": "район Чертаново Южное"
+    "tikName": "район Чертаново Южное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2110,
     "uikTvd": "4774131357658",
+    "uikName": "УИК №2110",
     "tikTvd": "27720002782258",
-    "tikName": "район Чертаново Южное"
+    "tikName": "район Чертаново Южное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2111,
     "uikTvd": "4774131357659",
+    "uikName": "УИК №2111",
     "tikTvd": "27720002782258",
-    "tikName": "район Чертаново Южное"
+    "tikName": "район Чертаново Южное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2112,
     "uikTvd": "4774131357660",
+    "uikName": "УИК №2112",
     "tikTvd": "27720002782258",
-    "tikName": "район Чертаново Южное"
+    "tikName": "район Чертаново Южное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2114,
     "uikTvd": "4774131357661",
+    "uikName": "УИК №2114",
     "tikTvd": "27720002782258",
-    "tikName": "район Чертаново Южное"
+    "tikName": "район Чертаново Южное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2115,
     "uikTvd": "4774131357662",
+    "uikName": "УИК №2115",
     "tikTvd": "27720002782258",
-    "tikName": "район Чертаново Южное"
+    "tikName": "район Чертаново Южное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2116,
     "uikTvd": "4774131357663",
+    "uikName": "УИК №2116",
     "tikTvd": "27720002782258",
-    "tikName": "район Чертаново Южное"
+    "tikName": "район Чертаново Южное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2121,
     "uikTvd": "4774101290819",
+    "uikName": "УИК №2121",
     "tikTvd": "27720002782222",
-    "tikName": "Академический район"
+    "tikName": "Академический район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2123,
     "uikTvd": "4774101290820",
+    "uikName": "УИК №2123",
     "tikTvd": "27720002782222",
-    "tikName": "Академический район"
+    "tikName": "Академический район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2124,
     "uikTvd": "4774101290821",
+    "uikName": "УИК №2124",
     "tikTvd": "27720002782222",
-    "tikName": "Академический район"
+    "tikName": "Академический район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2125,
     "uikTvd": "4774101290822",
+    "uikName": "УИК №2125",
     "tikTvd": "27720002782222",
-    "tikName": "Академический район"
+    "tikName": "Академический район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2128,
     "uikTvd": "4774101290823",
+    "uikName": "УИК №2128",
     "tikTvd": "27720002782222",
-    "tikName": "Академический район"
+    "tikName": "Академический район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2129,
     "uikTvd": "4774101290824",
+    "uikName": "УИК №2129",
     "tikTvd": "27720002782222",
-    "tikName": "Академический район"
+    "tikName": "Академический район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2131,
     "uikTvd": "4774101290825",
+    "uikName": "УИК №2131",
     "tikTvd": "27720002782222",
-    "tikName": "Академический район"
+    "tikName": "Академический район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2133,
     "uikTvd": "4774101290826",
+    "uikName": "УИК №2133",
     "tikTvd": "27720002782222",
-    "tikName": "Академический район"
+    "tikName": "Академический район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2135,
     "uikTvd": "4774101290827",
+    "uikName": "УИК №2135",
     "tikTvd": "27720002782222",
-    "tikName": "Академический район"
+    "tikName": "Академический район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2137,
     "uikTvd": "4774101290828",
+    "uikName": "УИК №2137",
     "tikTvd": "27720002782222",
-    "tikName": "Академический район"
+    "tikName": "Академический район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2138,
     "uikTvd": "4774101290829",
+    "uikName": "УИК №2138",
     "tikTvd": "27720002782222",
-    "tikName": "Академический район"
+    "tikName": "Академический район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2140,
     "uikTvd": "4774101290830",
+    "uikName": "УИК №2140",
     "tikTvd": "27720002782222",
-    "tikName": "Академический район"
+    "tikName": "Академический район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2141,
     "uikTvd": "4774101290831",
+    "uikName": "УИК №2141",
     "tikTvd": "27720002782222",
-    "tikName": "Академический район"
+    "tikName": "Академический район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2144,
     "uikTvd": "4774101290832",
+    "uikName": "УИК №2144",
     "tikTvd": "27720002782222",
-    "tikName": "Академический район"
+    "tikName": "Академический район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2146,
     "uikTvd": "4774101290833",
+    "uikName": "УИК №2146",
     "tikTvd": "27720002782222",
-    "tikName": "Академический район"
+    "tikName": "Академический район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2147,
     "uikTvd": "4774101290834",
+    "uikName": "УИК №2147",
     "tikTvd": "27720002782222",
-    "tikName": "Академический район"
+    "tikName": "Академический район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2149,
     "uikTvd": "4774102270650",
+    "uikName": "УИК №2149",
     "tikTvd": "27720002782264",
-    "tikName": "Гагаринский район"
+    "tikName": "Гагаринский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2151,
     "uikTvd": "4774102270651",
+    "uikName": "УИК №2151",
     "tikTvd": "27720002782264",
-    "tikName": "Гагаринский район"
+    "tikName": "Гагаринский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2152,
     "uikTvd": "4774102270652",
+    "uikName": "УИК №2152",
     "tikTvd": "27720002782264",
-    "tikName": "Гагаринский район"
+    "tikName": "Гагаринский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2153,
     "uikTvd": "4774102270653",
+    "uikName": "УИК №2153",
     "tikTvd": "27720002782264",
-    "tikName": "Гагаринский район"
+    "tikName": "Гагаринский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2155,
     "uikTvd": "4774102270654",
+    "uikName": "УИК №2155",
     "tikTvd": "27720002782264",
-    "tikName": "Гагаринский район"
+    "tikName": "Гагаринский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2157,
     "uikTvd": "4774102270655",
+    "uikName": "УИК №2157",
     "tikTvd": "27720002782264",
-    "tikName": "Гагаринский район"
+    "tikName": "Гагаринский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2160,
     "uikTvd": "4774102270656",
+    "uikName": "УИК №2160",
     "tikTvd": "27720002782264",
-    "tikName": "Гагаринский район"
+    "tikName": "Гагаринский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2161,
     "uikTvd": "4774102270657",
+    "uikName": "УИК №2161",
     "tikTvd": "27720002782264",
-    "tikName": "Гагаринский район"
+    "tikName": "Гагаринский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2163,
     "uikTvd": "4774102270658",
+    "uikName": "УИК №2163",
     "tikTvd": "27720002782264",
-    "tikName": "Гагаринский район"
+    "tikName": "Гагаринский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2164,
     "uikTvd": "4774102270659",
+    "uikName": "УИК №2164",
     "tikTvd": "27720002782264",
-    "tikName": "Гагаринский район"
+    "tikName": "Гагаринский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2167,
     "uikTvd": "4774102270660",
+    "uikName": "УИК №2167",
     "tikTvd": "27720002782264",
-    "tikName": "Гагаринский район"
+    "tikName": "Гагаринский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2168,
     "uikTvd": "4774102270661",
+    "uikName": "УИК №2168",
     "tikTvd": "27720002782264",
-    "tikName": "Гагаринский район"
+    "tikName": "Гагаринский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2170,
     "uikTvd": "4774102270662",
+    "uikName": "УИК №2170",
     "tikTvd": "27720002782264",
-    "tikName": "Гагаринский район"
+    "tikName": "Гагаринский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2174,
     "uikTvd": "4774103304496",
+    "uikName": "УИК №2174",
     "tikTvd": "27720002782203",
-    "tikName": "район Зюзино"
+    "tikName": "район Зюзино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2175,
     "uikTvd": "4774103304497",
+    "uikName": "УИК №2175",
     "tikTvd": "27720002782203",
-    "tikName": "район Зюзино"
+    "tikName": "район Зюзино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2176,
     "uikTvd": "4774103304498",
+    "uikName": "УИК №2176",
     "tikTvd": "27720002782203",
-    "tikName": "район Зюзино"
+    "tikName": "район Зюзино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2178,
     "uikTvd": "4774103304499",
+    "uikName": "УИК №2178",
     "tikTvd": "27720002782203",
-    "tikName": "район Зюзино"
+    "tikName": "район Зюзино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2179,
     "uikTvd": "4774103304500",
+    "uikName": "УИК №2179",
     "tikTvd": "27720002782203",
-    "tikName": "район Зюзино"
+    "tikName": "район Зюзино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2181,
     "uikTvd": "4774103304501",
+    "uikName": "УИК №2181",
     "tikTvd": "27720002782203",
-    "tikName": "район Зюзино"
+    "tikName": "район Зюзино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2182,
     "uikTvd": "4774103304502",
+    "uikName": "УИК №2182",
     "tikTvd": "27720002782203",
-    "tikName": "район Зюзино"
+    "tikName": "район Зюзино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2184,
     "uikTvd": "4774103304503",
+    "uikName": "УИК №2184",
     "tikTvd": "27720002782203",
-    "tikName": "район Зюзино"
+    "tikName": "район Зюзино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2185,
     "uikTvd": "4774103304504",
+    "uikName": "УИК №2185",
     "tikTvd": "27720002782203",
-    "tikName": "район Зюзино"
+    "tikName": "район Зюзино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2191,
     "uikTvd": "4774103304505",
+    "uikName": "УИК №2191",
     "tikTvd": "27720002782203",
-    "tikName": "район Зюзино"
+    "tikName": "район Зюзино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2192,
     "uikTvd": "4774103304506",
+    "uikName": "УИК №2192",
     "tikTvd": "27720002782203",
-    "tikName": "район Зюзино"
+    "tikName": "район Зюзино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2193,
     "uikTvd": "4774103304507",
+    "uikName": "УИК №2193",
     "tikTvd": "27720002782203",
-    "tikName": "район Зюзино"
+    "tikName": "район Зюзино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2195,
     "uikTvd": "4774103304508",
+    "uikName": "УИК №2195",
     "tikTvd": "27720002782203",
-    "tikName": "район Зюзино"
+    "tikName": "район Зюзино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2196,
     "uikTvd": "4774103304509",
+    "uikName": "УИК №2196",
     "tikTvd": "27720002782203",
-    "tikName": "район Зюзино"
+    "tikName": "район Зюзино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2197,
     "uikTvd": "4774103304510",
+    "uikName": "УИК №2197",
     "tikTvd": "27720002782203",
-    "tikName": "район Зюзино"
+    "tikName": "район Зюзино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2198,
     "uikTvd": "4774103304511",
+    "uikName": "УИК №2198",
     "tikTvd": "27720002782203",
-    "tikName": "район Зюзино"
+    "tikName": "район Зюзино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2200,
     "uikTvd": "4774103304512",
+    "uikName": "УИК №2200",
     "tikTvd": "27720002782203",
-    "tikName": "район Зюзино"
+    "tikName": "район Зюзино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2202,
     "uikTvd": "4774103304513",
+    "uikName": "УИК №2202",
     "tikTvd": "27720002782203",
-    "tikName": "район Зюзино"
+    "tikName": "район Зюзино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2203,
     "uikTvd": "4774103304514",
+    "uikName": "УИК №2203",
     "tikTvd": "27720002782203",
-    "tikName": "район Зюзино"
+    "tikName": "район Зюзино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2206,
     "uikTvd": "4774104351855",
+    "uikName": "УИК №2206",
     "tikTvd": "27720002782195",
-    "tikName": "район Коньково"
+    "tikName": "район Коньково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2208,
     "uikTvd": "4774104351856",
+    "uikName": "УИК №2208",
     "tikTvd": "27720002782195",
-    "tikName": "район Коньково"
+    "tikName": "район Коньково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2210,
     "uikTvd": "4774104351857",
+    "uikName": "УИК №2210",
     "tikTvd": "27720002782195",
-    "tikName": "район Коньково"
+    "tikName": "район Коньково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2211,
     "uikTvd": "4774104351858",
+    "uikName": "УИК №2211",
     "tikTvd": "27720002782195",
-    "tikName": "район Коньково"
+    "tikName": "район Коньково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2213,
     "uikTvd": "4774104351859",
+    "uikName": "УИК №2213",
     "tikTvd": "27720002782195",
-    "tikName": "район Коньково"
+    "tikName": "район Коньково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2214,
     "uikTvd": "4774104351860",
+    "uikName": "УИК №2214",
     "tikTvd": "27720002782195",
-    "tikName": "район Коньково"
+    "tikName": "район Коньково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2216,
     "uikTvd": "4774104351861",
+    "uikName": "УИК №2216",
     "tikTvd": "27720002782195",
-    "tikName": "район Коньково"
+    "tikName": "район Коньково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2217,
     "uikTvd": "4774104351862",
+    "uikName": "УИК №2217",
     "tikTvd": "27720002782195",
-    "tikName": "район Коньково"
+    "tikName": "район Коньково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2220,
     "uikTvd": "4774104351863",
+    "uikName": "УИК №2220",
     "tikTvd": "27720002782195",
-    "tikName": "район Коньково"
+    "tikName": "район Коньково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2221,
     "uikTvd": "4774104351864",
+    "uikName": "УИК №2221",
     "tikTvd": "27720002782195",
-    "tikName": "район Коньково"
+    "tikName": "район Коньково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2224,
     "uikTvd": "4774104351865",
+    "uikName": "УИК №2224",
     "tikTvd": "27720002782195",
-    "tikName": "район Коньково"
+    "tikName": "район Коньково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2225,
     "uikTvd": "4774104351866",
+    "uikName": "УИК №2225",
     "tikTvd": "27720002782195",
-    "tikName": "район Коньково"
+    "tikName": "район Коньково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2228,
     "uikTvd": "4774104351867",
+    "uikName": "УИК №2228",
     "tikTvd": "27720002782195",
-    "tikName": "район Коньково"
+    "tikName": "район Коньково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2229,
     "uikTvd": "4774104351868",
+    "uikName": "УИК №2229",
     "tikTvd": "27720002782195",
-    "tikName": "район Коньково"
+    "tikName": "район Коньково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2231,
     "uikTvd": "4774104351869",
+    "uikName": "УИК №2231",
     "tikTvd": "27720002782195",
-    "tikName": "район Коньково"
+    "tikName": "район Коньково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2232,
     "uikTvd": "4774104351870",
+    "uikName": "УИК №2232",
     "tikTvd": "27720002782195",
-    "tikName": "район Коньково"
+    "tikName": "район Коньково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2234,
     "uikTvd": "4774104351871",
+    "uikName": "УИК №2234",
     "tikTvd": "27720002782195",
-    "tikName": "район Коньково"
+    "tikName": "район Коньково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2235,
     "uikTvd": "4774104351872",
+    "uikName": "УИК №2235",
     "tikTvd": "27720002782195",
-    "tikName": "район Коньково"
+    "tikName": "район Коньково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2236,
     "uikTvd": "4774104351873",
+    "uikName": "УИК №2236",
     "tikTvd": "27720002782195",
-    "tikName": "район Коньково"
+    "tikName": "район Коньково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2239,
     "uikTvd": "4774104351874",
+    "uikName": "УИК №2239",
     "tikTvd": "27720002782195",
-    "tikName": "район Коньково"
+    "tikName": "район Коньково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2241,
     "uikTvd": "4774104351875",
+    "uikName": "УИК №2241",
     "tikTvd": "27720002782195",
-    "tikName": "район Коньково"
+    "tikName": "район Коньково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2242,
     "uikTvd": "4774104351876",
+    "uikName": "УИК №2242",
     "tikTvd": "27720002782195",
-    "tikName": "район Коньково"
+    "tikName": "район Коньково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2243,
     "uikTvd": "4774104351877",
+    "uikName": "УИК №2243",
     "tikTvd": "27720002782195",
-    "tikName": "район Коньково"
+    "tikName": "район Коньково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2244,
     "uikTvd": "4774104351878",
+    "uikName": "УИК №2244",
     "tikTvd": "27720002782195",
-    "tikName": "район Коньково"
+    "tikName": "район Коньково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2245,
     "uikTvd": "4774104351879",
+    "uikName": "УИК №2245",
     "tikTvd": "27720002782195",
-    "tikName": "район Коньково"
+    "tikName": "район Коньково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2246,
     "uikTvd": "4774104351880",
+    "uikName": "УИК №2246",
     "tikTvd": "27720002782195",
-    "tikName": "район Коньково"
+    "tikName": "район Коньково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2248,
     "uikTvd": "4774105227400",
+    "uikName": "УИК №2248",
     "tikTvd": "27720002782231",
-    "tikName": "район Котловка"
+    "tikName": "район Котловка",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2250,
     "uikTvd": "4774105227401",
+    "uikName": "УИК №2250",
     "tikTvd": "27720002782231",
-    "tikName": "район Котловка"
+    "tikName": "район Котловка",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2252,
     "uikTvd": "4774105227402",
+    "uikName": "УИК №2252",
     "tikTvd": "27720002782231",
-    "tikName": "район Котловка"
+    "tikName": "район Котловка",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2254,
     "uikTvd": "4774105227403",
+    "uikName": "УИК №2254",
     "tikTvd": "27720002782231",
-    "tikName": "район Котловка"
+    "tikName": "район Котловка",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2255,
     "uikTvd": "4774105227404",
+    "uikName": "УИК №2255",
     "tikTvd": "27720002782231",
-    "tikName": "район Котловка"
+    "tikName": "район Котловка",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2257,
     "uikTvd": "4774105227405",
+    "uikName": "УИК №2257",
     "tikTvd": "27720002782231",
-    "tikName": "район Котловка"
+    "tikName": "район Котловка",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2258,
     "uikTvd": "4774105227406",
+    "uikName": "УИК №2258",
     "tikTvd": "27720002782231",
-    "tikName": "район Котловка"
+    "tikName": "район Котловка",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2262,
     "uikTvd": "4774105227407",
+    "uikName": "УИК №2262",
     "tikTvd": "27720002782231",
-    "tikName": "район Котловка"
+    "tikName": "район Котловка",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2263,
     "uikTvd": "4774105227408",
+    "uikName": "УИК №2263",
     "tikTvd": "27720002782231",
-    "tikName": "район Котловка"
+    "tikName": "район Котловка",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2264,
     "uikTvd": "4774105227409",
+    "uikName": "УИК №2264",
     "tikTvd": "27720002782231",
-    "tikName": "район Котловка"
+    "tikName": "район Котловка",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2267,
     "uikTvd": "4774106309576",
+    "uikName": "УИК №2267",
     "tikTvd": "27720002782310",
-    "tikName": "Ломоносовский район"
+    "tikName": "Ломоносовский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2269,
     "uikTvd": "4774106309577",
+    "uikName": "УИК №2269",
     "tikTvd": "27720002782310",
-    "tikName": "Ломоносовский район"
+    "tikName": "Ломоносовский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2272,
     "uikTvd": "4774106309578",
+    "uikName": "УИК №2272",
     "tikTvd": "27720002782310",
-    "tikName": "Ломоносовский район"
+    "tikName": "Ломоносовский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2274,
     "uikTvd": "4774106309579",
+    "uikName": "УИК №2274",
     "tikTvd": "27720002782310",
-    "tikName": "Ломоносовский район"
+    "tikName": "Ломоносовский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2276,
     "uikTvd": "4774106309580",
+    "uikName": "УИК №2276",
     "tikTvd": "27720002782310",
-    "tikName": "Ломоносовский район"
+    "tikName": "Ломоносовский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2278,
     "uikTvd": "4774106309581",
+    "uikName": "УИК №2278",
     "tikTvd": "27720002782310",
-    "tikName": "Ломоносовский район"
+    "tikName": "Ломоносовский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2280,
     "uikTvd": "4774106309582",
+    "uikName": "УИК №2280",
     "tikTvd": "27720002782310",
-    "tikName": "Ломоносовский район"
+    "tikName": "Ломоносовский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2281,
     "uikTvd": "4774106309583",
+    "uikName": "УИК №2281",
     "tikTvd": "27720002782310",
-    "tikName": "Ломоносовский район"
+    "tikName": "Ломоносовский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2284,
     "uikTvd": "4774106309584",
+    "uikName": "УИК №2284",
     "tikTvd": "27720002782310",
-    "tikName": "Ломоносовский район"
+    "tikName": "Ломоносовский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2286,
     "uikTvd": "4774106309585",
+    "uikName": "УИК №2286",
     "tikTvd": "27720002782310",
-    "tikName": "Ломоносовский район"
+    "tikName": "Ломоносовский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2287,
     "uikTvd": "4774106309586",
+    "uikName": "УИК №2287",
     "tikTvd": "27720002782310",
-    "tikName": "Ломоносовский район"
+    "tikName": "Ломоносовский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2291,
     "uikTvd": "4774106309587",
+    "uikName": "УИК №2291",
     "tikTvd": "27720002782310",
-    "tikName": "Ломоносовский район"
+    "tikName": "Ломоносовский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2293,
     "uikTvd": "4774107264641",
+    "uikName": "УИК №2293",
     "tikTvd": "27720002782266",
-    "tikName": "Обручевский район"
+    "tikName": "Обручевский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2295,
     "uikTvd": "4774107264642",
+    "uikName": "УИК №2295",
     "tikTvd": "27720002782266",
-    "tikName": "Обручевский район"
+    "tikName": "Обручевский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2297,
     "uikTvd": "4774107264643",
+    "uikName": "УИК №2297",
     "tikTvd": "27720002782266",
-    "tikName": "Обручевский район"
+    "tikName": "Обручевский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2300,
     "uikTvd": "4774107264644",
+    "uikName": "УИК №2300",
     "tikTvd": "27720002782266",
-    "tikName": "Обручевский район"
+    "tikName": "Обручевский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2301,
     "uikTvd": "4774107264645",
+    "uikName": "УИК №2301",
     "tikTvd": "27720002782266",
-    "tikName": "Обручевский район"
+    "tikName": "Обручевский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2302,
     "uikTvd": "4774107264646",
+    "uikName": "УИК №2302",
     "tikTvd": "27720002782266",
-    "tikName": "Обручевский район"
+    "tikName": "Обручевский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2304,
     "uikTvd": "4774107264647",
+    "uikName": "УИК №2304",
     "tikTvd": "27720002782266",
-    "tikName": "Обручевский район"
+    "tikName": "Обручевский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2305,
     "uikTvd": "4774107264648",
+    "uikName": "УИК №2305",
     "tikTvd": "27720002782266",
-    "tikName": "Обручевский район"
+    "tikName": "Обручевский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2308,
     "uikTvd": "4774107264649",
+    "uikName": "УИК №2308",
     "tikTvd": "27720002782266",
-    "tikName": "Обручевский район"
+    "tikName": "Обручевский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2310,
     "uikTvd": "4774107264650",
+    "uikName": "УИК №2310",
     "tikTvd": "27720002782266",
-    "tikName": "Обручевский район"
+    "tikName": "Обручевский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2312,
     "uikTvd": "4774107264651",
+    "uikName": "УИК №2312",
     "tikTvd": "27720002782266",
-    "tikName": "Обручевский район"
+    "tikName": "Обручевский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2313,
     "uikTvd": "4774107264652",
+    "uikName": "УИК №2313",
     "tikTvd": "27720002782266",
-    "tikName": "Обручевский район"
+    "tikName": "Обручевский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2314,
     "uikTvd": "4774107264653",
+    "uikName": "УИК №2314",
     "tikTvd": "27720002782266",
-    "tikName": "Обручевский район"
+    "tikName": "Обручевский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2316,
     "uikTvd": "4774108291898",
+    "uikName": "УИК №2316",
     "tikTvd": "27720002782248",
-    "tikName": "район Северное Бутово"
+    "tikName": "район Северное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2317,
     "uikTvd": "4774108291899",
+    "uikName": "УИК №2317",
     "tikTvd": "27720002782248",
-    "tikName": "район Северное Бутово"
+    "tikName": "район Северное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2319,
     "uikTvd": "4774108291900",
+    "uikName": "УИК №2319",
     "tikTvd": "27720002782248",
-    "tikName": "район Северное Бутово"
+    "tikName": "район Северное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2321,
     "uikTvd": "4774108291901",
+    "uikName": "УИК №2321",
     "tikTvd": "27720002782248",
-    "tikName": "район Северное Бутово"
+    "tikName": "район Северное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2323,
     "uikTvd": "4774108291902",
+    "uikName": "УИК №2323",
     "tikTvd": "27720002782248",
-    "tikName": "район Северное Бутово"
+    "tikName": "район Северное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2325,
     "uikTvd": "4774108291903",
+    "uikName": "УИК №2325",
     "tikTvd": "27720002782248",
-    "tikName": "район Северное Бутово"
+    "tikName": "район Северное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2327,
     "uikTvd": "4774108291904",
+    "uikName": "УИК №2327",
     "tikTvd": "27720002782248",
-    "tikName": "район Северное Бутово"
+    "tikName": "район Северное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2328,
     "uikTvd": "4774108291905",
+    "uikName": "УИК №2328",
     "tikTvd": "27720002782248",
-    "tikName": "район Северное Бутово"
+    "tikName": "район Северное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2330,
     "uikTvd": "4774108291906",
+    "uikName": "УИК №2330",
     "tikTvd": "27720002782248",
-    "tikName": "район Северное Бутово"
+    "tikName": "район Северное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2332,
     "uikTvd": "4774108291907",
+    "uikName": "УИК №2332",
     "tikTvd": "27720002782248",
-    "tikName": "район Северное Бутово"
+    "tikName": "район Северное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2334,
     "uikTvd": "4774108291908",
+    "uikName": "УИК №2334",
     "tikTvd": "27720002782248",
-    "tikName": "район Северное Бутово"
+    "tikName": "район Северное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2336,
     "uikTvd": "4774108291909",
+    "uikName": "УИК №2336",
     "tikTvd": "27720002782248",
-    "tikName": "район Северное Бутово"
+    "tikName": "район Северное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2337,
     "uikTvd": "4774108291910",
+    "uikName": "УИК №2337",
     "tikTvd": "27720002782248",
-    "tikName": "район Северное Бутово"
+    "tikName": "район Северное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2340,
     "uikTvd": "4774108291911",
+    "uikName": "УИК №2340",
     "tikTvd": "27720002782248",
-    "tikName": "район Северное Бутово"
+    "tikName": "район Северное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2341,
     "uikTvd": "4774108291912",
+    "uikName": "УИК №2341",
     "tikTvd": "27720002782248",
-    "tikName": "район Северное Бутово"
+    "tikName": "район Северное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2344,
     "uikTvd": "4774109316272",
+    "uikName": "УИК №2344",
     "tikTvd": "27720002782304",
-    "tikName": "район Теплый Стан"
+    "tikName": "район Теплый Стан",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2345,
     "uikTvd": "4774109316273",
+    "uikName": "УИК №2345",
     "tikTvd": "27720002782304",
-    "tikName": "район Теплый Стан"
+    "tikName": "район Теплый Стан",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2348,
     "uikTvd": "4774109316274",
+    "uikName": "УИК №2348",
     "tikTvd": "27720002782304",
-    "tikName": "район Теплый Стан"
+    "tikName": "район Теплый Стан",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2349,
     "uikTvd": "4774109316275",
+    "uikName": "УИК №2349",
     "tikTvd": "27720002782304",
-    "tikName": "район Теплый Стан"
+    "tikName": "район Теплый Стан",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2350,
     "uikTvd": "4774109316276",
+    "uikName": "УИК №2350",
     "tikTvd": "27720002782304",
-    "tikName": "район Теплый Стан"
+    "tikName": "район Теплый Стан",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2353,
     "uikTvd": "4774109316277",
+    "uikName": "УИК №2353",
     "tikTvd": "27720002782304",
-    "tikName": "район Теплый Стан"
+    "tikName": "район Теплый Стан",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2354,
     "uikTvd": "4774109316278",
+    "uikName": "УИК №2354",
     "tikTvd": "27720002782304",
-    "tikName": "район Теплый Стан"
+    "tikName": "район Теплый Стан",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2356,
     "uikTvd": "4774109316279",
+    "uikName": "УИК №2356",
     "tikTvd": "27720002782304",
-    "tikName": "район Теплый Стан"
+    "tikName": "район Теплый Стан",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2359,
     "uikTvd": "4774109316280",
+    "uikName": "УИК №2359",
     "tikTvd": "27720002782304",
-    "tikName": "район Теплый Стан"
+    "tikName": "район Теплый Стан",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2361,
     "uikTvd": "4774109316281",
+    "uikName": "УИК №2361",
     "tikTvd": "27720002782304",
-    "tikName": "район Теплый Стан"
+    "tikName": "район Теплый Стан",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2362,
     "uikTvd": "4774109316282",
+    "uikName": "УИК №2362",
     "tikTvd": "27720002782304",
-    "tikName": "район Теплый Стан"
+    "tikName": "район Теплый Стан",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2366,
     "uikTvd": "4774109316283",
+    "uikName": "УИК №2366",
     "tikTvd": "27720002782304",
-    "tikName": "район Теплый Стан"
+    "tikName": "район Теплый Стан",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2367,
     "uikTvd": "4774109316284",
+    "uikName": "УИК №2367",
     "tikTvd": "27720002782304",
-    "tikName": "район Теплый Стан"
+    "tikName": "район Теплый Стан",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2370,
     "uikTvd": "4774109316285",
+    "uikName": "УИК №2370",
     "tikTvd": "27720002782304",
-    "tikName": "район Теплый Стан"
+    "tikName": "район Теплый Стан",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2371,
     "uikTvd": "4774109316286",
+    "uikName": "УИК №2371",
     "tikTvd": "27720002782304",
-    "tikName": "район Теплый Стан"
+    "tikName": "район Теплый Стан",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2372,
     "uikTvd": "4774109316287",
+    "uikName": "УИК №2372",
     "tikTvd": "27720002782304",
-    "tikName": "район Теплый Стан"
+    "tikName": "район Теплый Стан",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2374,
     "uikTvd": "4774109316288",
+    "uikName": "УИК №2374",
     "tikTvd": "27720002782304",
-    "tikName": "район Теплый Стан"
+    "tikName": "район Теплый Стан",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2376,
     "uikTvd": "4774109316289",
+    "uikName": "УИК №2376",
     "tikTvd": "27720002782304",
-    "tikName": "район Теплый Стан"
+    "tikName": "район Теплый Стан",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2377,
     "uikTvd": "4774109316290",
+    "uikName": "УИК №2377",
     "tikTvd": "27720002782304",
-    "tikName": "район Теплый Стан"
+    "tikName": "район Теплый Стан",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2378,
     "uikTvd": "4774109316291",
+    "uikName": "УИК №2378",
     "tikTvd": "27720002782304",
-    "tikName": "район Теплый Стан"
+    "tikName": "район Теплый Стан",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2381,
     "uikTvd": "4774109316292",
+    "uikName": "УИК №2381",
     "tikTvd": "27720002782304",
-    "tikName": "район Теплый Стан"
+    "tikName": "район Теплый Стан",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2382,
     "uikTvd": "4774109316293",
+    "uikName": "УИК №2382",
     "tikTvd": "27720002782304",
-    "tikName": "район Теплый Стан"
+    "tikName": "район Теплый Стан",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2386,
     "uikTvd": "4774110269707",
+    "uikName": "УИК №2386",
     "tikTvd": "27720002782292",
-    "tikName": "район Черемушки"
+    "tikName": "район Черемушки",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2388,
     "uikTvd": "4774110269708",
+    "uikName": "УИК №2388",
     "tikTvd": "27720002782292",
-    "tikName": "район Черемушки"
+    "tikName": "район Черемушки",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2390,
     "uikTvd": "4774110269709",
+    "uikName": "УИК №2390",
     "tikTvd": "27720002782292",
-    "tikName": "район Черемушки"
+    "tikName": "район Черемушки",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2391,
     "uikTvd": "4774110269710",
+    "uikName": "УИК №2391",
     "tikTvd": "27720002782292",
-    "tikName": "район Черемушки"
+    "tikName": "район Черемушки",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2394,
     "uikTvd": "4774110269711",
+    "uikName": "УИК №2394",
     "tikTvd": "27720002782292",
-    "tikName": "район Черемушки"
+    "tikName": "район Черемушки",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2395,
     "uikTvd": "4774110269712",
+    "uikName": "УИК №2395",
     "tikTvd": "27720002782292",
-    "tikName": "район Черемушки"
+    "tikName": "район Черемушки",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2397,
     "uikTvd": "4774110269713",
+    "uikName": "УИК №2397",
     "tikTvd": "27720002782292",
-    "tikName": "район Черемушки"
+    "tikName": "район Черемушки",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2398,
     "uikTvd": "4774110269714",
+    "uikName": "УИК №2398",
     "tikTvd": "27720002782292",
-    "tikName": "район Черемушки"
+    "tikName": "район Черемушки",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2401,
     "uikTvd": "4774110269715",
+    "uikName": "УИК №2401",
     "tikTvd": "27720002782292",
-    "tikName": "район Черемушки"
+    "tikName": "район Черемушки",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2402,
     "uikTvd": "4774110269716",
+    "uikName": "УИК №2402",
     "tikTvd": "27720002782292",
-    "tikName": "район Черемушки"
+    "tikName": "район Черемушки",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2403,
     "uikTvd": "4774110269717",
+    "uikName": "УИК №2403",
     "tikTvd": "27720002782292",
-    "tikName": "район Черемушки"
+    "tikName": "район Черемушки",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2405,
     "uikTvd": "4774110269718",
+    "uikName": "УИК №2405",
     "tikTvd": "27720002782292",
-    "tikName": "район Черемушки"
+    "tikName": "район Черемушки",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2406,
     "uikTvd": "4774110269719",
+    "uikName": "УИК №2406",
     "tikTvd": "27720002782292",
-    "tikName": "район Черемушки"
+    "tikName": "район Черемушки",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2407,
     "uikTvd": "4774110269720",
+    "uikName": "УИК №2407",
     "tikTvd": "27720002782292",
-    "tikName": "район Черемушки"
+    "tikName": "район Черемушки",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2409,
     "uikTvd": "4774110269721",
+    "uikName": "УИК №2409",
     "tikTvd": "27720002782292",
-    "tikName": "район Черемушки"
+    "tikName": "район Черемушки",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2412,
     "uikTvd": "4774110269722",
+    "uikName": "УИК №2412",
     "tikTvd": "27720002782292",
-    "tikName": "район Черемушки"
+    "tikName": "район Черемушки",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2413,
     "uikTvd": "4774110269723",
+    "uikName": "УИК №2413",
     "tikTvd": "27720002782292",
-    "tikName": "район Черемушки"
+    "tikName": "район Черемушки",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2414,
     "uikTvd": "4774110269724",
+    "uikName": "УИК №2414",
     "tikTvd": "27720002782292",
-    "tikName": "район Черемушки"
+    "tikName": "район Черемушки",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2416,
     "uikTvd": "4774111549115",
+    "uikName": "УИК №2416",
     "tikTvd": "27720002782314",
-    "tikName": "район Южное Бутово"
+    "tikName": "район Южное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2418,
     "uikTvd": "4774111549116",
+    "uikName": "УИК №2418",
     "tikTvd": "27720002782314",
-    "tikName": "район Южное Бутово"
+    "tikName": "район Южное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2419,
     "uikTvd": "4774111549117",
+    "uikName": "УИК №2419",
     "tikTvd": "27720002782314",
-    "tikName": "район Южное Бутово"
+    "tikName": "район Южное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2420,
     "uikTvd": "4774111549118",
+    "uikName": "УИК №2420",
     "tikTvd": "27720002782314",
-    "tikName": "район Южное Бутово"
+    "tikName": "район Южное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2423,
     "uikTvd": "4774111549119",
+    "uikName": "УИК №2423",
     "tikTvd": "27720002782314",
-    "tikName": "район Южное Бутово"
+    "tikName": "район Южное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2426,
     "uikTvd": "4774111549120",
+    "uikName": "УИК №2426",
     "tikTvd": "27720002782314",
-    "tikName": "район Южное Бутово"
+    "tikName": "район Южное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2427,
     "uikTvd": "4774111549121",
+    "uikName": "УИК №2427",
     "tikTvd": "27720002782314",
-    "tikName": "район Южное Бутово"
+    "tikName": "район Южное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2428,
     "uikTvd": "4774111549122",
+    "uikName": "УИК №2428",
     "tikTvd": "27720002782314",
-    "tikName": "район Южное Бутово"
+    "tikName": "район Южное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2430,
     "uikTvd": "4774111549123",
+    "uikName": "УИК №2430",
     "tikTvd": "27720002782314",
-    "tikName": "район Южное Бутово"
+    "tikName": "район Южное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2433,
     "uikTvd": "4774111549124",
+    "uikName": "УИК №2433",
     "tikTvd": "27720002782314",
-    "tikName": "район Южное Бутово"
+    "tikName": "район Южное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2434,
     "uikTvd": "4774111549125",
+    "uikName": "УИК №2434",
     "tikTvd": "27720002782314",
-    "tikName": "район Южное Бутово"
+    "tikName": "район Южное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2435,
     "uikTvd": "4774111549126",
+    "uikName": "УИК №2435",
     "tikTvd": "27720002782314",
-    "tikName": "район Южное Бутово"
+    "tikName": "район Южное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2438,
     "uikTvd": "4774111549127",
+    "uikName": "УИК №2438",
     "tikTvd": "27720002782314",
-    "tikName": "район Южное Бутово"
+    "tikName": "район Южное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2439,
     "uikTvd": "4774111549128",
+    "uikName": "УИК №2439",
     "tikTvd": "27720002782314",
-    "tikName": "район Южное Бутово"
+    "tikName": "район Южное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2440,
     "uikTvd": "4774111549129",
+    "uikName": "УИК №2440",
     "tikTvd": "27720002782314",
-    "tikName": "район Южное Бутово"
+    "tikName": "район Южное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2441,
     "uikTvd": "4774111549130",
+    "uikName": "УИК №2441",
     "tikTvd": "27720002782314",
-    "tikName": "район Южное Бутово"
+    "tikName": "район Южное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2445,
     "uikTvd": "4774111549131",
+    "uikName": "УИК №2445",
     "tikTvd": "27720002782314",
-    "tikName": "район Южное Бутово"
+    "tikName": "район Южное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2446,
     "uikTvd": "4774111549132",
+    "uikName": "УИК №2446",
     "tikTvd": "27720002782314",
-    "tikName": "район Южное Бутово"
+    "tikName": "район Южное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2448,
     "uikTvd": "4774111549133",
+    "uikName": "УИК №2448",
     "tikTvd": "27720002782314",
-    "tikName": "район Южное Бутово"
+    "tikName": "район Южное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2450,
     "uikTvd": "4774111549134",
+    "uikName": "УИК №2450",
     "tikTvd": "27720002782314",
-    "tikName": "район Южное Бутово"
+    "tikName": "район Южное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2451,
     "uikTvd": "4774111549135",
+    "uikName": "УИК №2451",
     "tikTvd": "27720002782314",
-    "tikName": "район Южное Бутово"
+    "tikName": "район Южное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2454,
     "uikTvd": "4774111549136",
+    "uikName": "УИК №2454",
     "tikTvd": "27720002782314",
-    "tikName": "район Южное Бутово"
+    "tikName": "район Южное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2456,
     "uikTvd": "4774111549137",
+    "uikName": "УИК №2456",
     "tikTvd": "27720002782314",
-    "tikName": "район Южное Бутово"
+    "tikName": "район Южное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2457,
     "uikTvd": "4774111549138",
+    "uikName": "УИК №2457",
     "tikTvd": "27720002782314",
-    "tikName": "район Южное Бутово"
+    "tikName": "район Южное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2458,
     "uikTvd": "4774111549139",
+    "uikName": "УИК №2458",
     "tikTvd": "27720002782314",
-    "tikName": "район Южное Бутово"
+    "tikName": "район Южное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2459,
     "uikTvd": "4774111549140",
+    "uikName": "УИК №2459",
     "tikTvd": "27720002782314",
-    "tikName": "район Южное Бутово"
+    "tikName": "район Южное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2461,
     "uikTvd": "4774111549141",
+    "uikName": "УИК №2461",
     "tikTvd": "27720002782314",
-    "tikName": "район Южное Бутово"
+    "tikName": "район Южное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2462,
     "uikTvd": "4774111549142",
+    "uikName": "УИК №2462",
     "tikTvd": "27720002782314",
-    "tikName": "район Южное Бутово"
+    "tikName": "район Южное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2464,
     "uikTvd": "4774111549143",
+    "uikName": "УИК №2464",
     "tikTvd": "27720002782314",
-    "tikName": "район Южное Бутово"
+    "tikName": "район Южное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2465,
     "uikTvd": "4774111549144",
+    "uikName": "УИК №2465",
     "tikTvd": "27720002782314",
-    "tikName": "район Южное Бутово"
+    "tikName": "район Южное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2466,
     "uikTvd": "4774111549145",
+    "uikName": "УИК №2466",
     "tikTvd": "27720002782314",
-    "tikName": "район Южное Бутово"
+    "tikName": "район Южное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2469,
     "uikTvd": "4774111549146",
+    "uikName": "УИК №2469",
     "tikTvd": "27720002782314",
-    "tikName": "район Южное Бутово"
+    "tikName": "район Южное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2470,
     "uikTvd": "4774111549147",
+    "uikName": "УИК №2470",
     "tikTvd": "27720002782314",
-    "tikName": "район Южное Бутово"
+    "tikName": "район Южное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2471,
     "uikTvd": "4774111549148",
+    "uikName": "УИК №2471",
     "tikTvd": "27720002782314",
-    "tikName": "район Южное Бутово"
+    "tikName": "район Южное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2475,
     "uikTvd": "4774112410825",
+    "uikName": "УИК №2475",
     "tikTvd": "27720002782290",
-    "tikName": "район Ясенево"
+    "tikName": "район Ясенево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2476,
     "uikTvd": "4774112410826",
+    "uikName": "УИК №2476",
     "tikTvd": "27720002782290",
-    "tikName": "район Ясенево"
+    "tikName": "район Ясенево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2478,
     "uikTvd": "4774112410827",
+    "uikName": "УИК №2478",
     "tikTvd": "27720002782290",
-    "tikName": "район Ясенево"
+    "tikName": "район Ясенево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2480,
     "uikTvd": "4774112410828",
+    "uikName": "УИК №2480",
     "tikTvd": "27720002782290",
-    "tikName": "район Ясенево"
+    "tikName": "район Ясенево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2485,
     "uikTvd": "4774112410829",
+    "uikName": "УИК №2485",
     "tikTvd": "27720002782290",
-    "tikName": "район Ясенево"
+    "tikName": "район Ясенево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2486,
     "uikTvd": "4774112410830",
+    "uikName": "УИК №2486",
     "tikTvd": "27720002782290",
-    "tikName": "район Ясенево"
+    "tikName": "район Ясенево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2487,
     "uikTvd": "4774112410831",
+    "uikName": "УИК №2487",
     "tikTvd": "27720002782290",
-    "tikName": "район Ясенево"
+    "tikName": "район Ясенево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2489,
     "uikTvd": "4774112410832",
+    "uikName": "УИК №2489",
     "tikTvd": "27720002782290",
-    "tikName": "район Ясенево"
+    "tikName": "район Ясенево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2493,
     "uikTvd": "4774112410833",
+    "uikName": "УИК №2493",
     "tikTvd": "27720002782290",
-    "tikName": "район Ясенево"
+    "tikName": "район Ясенево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2494,
     "uikTvd": "4774112410834",
+    "uikName": "УИК №2494",
     "tikTvd": "27720002782290",
-    "tikName": "район Ясенево"
+    "tikName": "район Ясенево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2496,
     "uikTvd": "4774112410835",
+    "uikName": "УИК №2496",
     "tikTvd": "27720002782290",
-    "tikName": "район Ясенево"
+    "tikName": "район Ясенево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2498,
     "uikTvd": "4774112410836",
+    "uikName": "УИК №2498",
     "tikTvd": "27720002782290",
-    "tikName": "район Ясенево"
+    "tikName": "район Ясенево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2499,
     "uikTvd": "4774112410837",
+    "uikName": "УИК №2499",
     "tikTvd": "27720002782290",
-    "tikName": "район Ясенево"
+    "tikName": "район Ясенево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2502,
     "uikTvd": "4774112410838",
+    "uikName": "УИК №2502",
     "tikTvd": "27720002782290",
-    "tikName": "район Ясенево"
+    "tikName": "район Ясенево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2504,
     "uikTvd": "4774112410839",
+    "uikName": "УИК №2504",
     "tikTvd": "27720002782290",
-    "tikName": "район Ясенево"
+    "tikName": "район Ясенево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2506,
     "uikTvd": "4774112410840",
+    "uikName": "УИК №2506",
     "tikTvd": "27720002782290",
-    "tikName": "район Ясенево"
+    "tikName": "район Ясенево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2508,
     "uikTvd": "4774112410841",
+    "uikName": "УИК №2508",
     "tikTvd": "27720002782290",
-    "tikName": "район Ясенево"
+    "tikName": "район Ясенево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2511,
     "uikTvd": "4774112410842",
+    "uikName": "УИК №2511",
     "tikTvd": "27720002782290",
-    "tikName": "район Ясенево"
+    "tikName": "район Ясенево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2512,
     "uikTvd": "4774112410843",
+    "uikName": "УИК №2512",
     "tikTvd": "27720002782290",
-    "tikName": "район Ясенево"
+    "tikName": "район Ясенево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2513,
     "uikTvd": "4774112410844",
+    "uikName": "УИК №2513",
     "tikTvd": "27720002782290",
-    "tikName": "район Ясенево"
+    "tikName": "район Ясенево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2516,
     "uikTvd": "4774112410845",
+    "uikName": "УИК №2516",
     "tikTvd": "27720002782290",
-    "tikName": "район Ясенево"
+    "tikName": "район Ясенево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2517,
     "uikTvd": "4774112410846",
+    "uikName": "УИК №2517",
     "tikTvd": "27720002782290",
-    "tikName": "район Ясенево"
+    "tikName": "район Ясенево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2521,
     "uikTvd": "4774112410847",
+    "uikName": "УИК №2521",
     "tikTvd": "27720002782290",
-    "tikName": "район Ясенево"
+    "tikName": "район Ясенево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2523,
     "uikTvd": "4774112410848",
+    "uikName": "УИК №2523",
     "tikTvd": "27720002782290",
-    "tikName": "район Ясенево"
+    "tikName": "район Ясенево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2527,
     "uikTvd": "4774112410849",
+    "uikName": "УИК №2527",
     "tikTvd": "27720002782290",
-    "tikName": "район Ясенево"
+    "tikName": "район Ясенево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2530,
     "uikTvd": "4774112410850",
+    "uikName": "УИК №2530",
     "tikTvd": "27720002782290",
-    "tikName": "район Ясенево"
+    "tikName": "район Ясенево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2532,
     "uikTvd": "4774112410851",
+    "uikName": "УИК №2532",
     "tikTvd": "27720002782290",
-    "tikName": "район Ясенево"
+    "tikName": "район Ясенево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2535,
     "uikTvd": "4774112410852",
+    "uikName": "УИК №2535",
     "tikTvd": "27720002782290",
-    "tikName": "район Ясенево"
+    "tikName": "район Ясенево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2536,
     "uikTvd": "4774112410853",
+    "uikName": "УИК №2536",
     "tikTvd": "27720002782290",
-    "tikName": "район Ясенево"
+    "tikName": "район Ясенево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2538,
     "uikTvd": "4774112410854",
+    "uikName": "УИК №2538",
     "tikTvd": "27720002782290",
-    "tikName": "район Ясенево"
+    "tikName": "район Ясенево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2541,
     "uikTvd": "4774017166811",
+    "uikName": "УИК №2541",
     "tikTvd": "27720002782244",
-    "tikName": "район Внуково"
+    "tikName": "район Внуково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2542,
     "uikTvd": "4774017166812",
+    "uikName": "УИК №2542",
     "tikTvd": "27720002782244",
-    "tikName": "район Внуково"
+    "tikName": "район Внуково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2543,
     "uikTvd": "4774017166813",
+    "uikName": "УИК №2543",
     "tikTvd": "27720002782244",
-    "tikName": "район Внуково"
+    "tikName": "район Внуково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2545,
     "uikTvd": "4774017166814",
+    "uikName": "УИК №2545",
     "tikTvd": "27720002782244",
-    "tikName": "район Внуково"
+    "tikName": "район Внуково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2547,
     "uikTvd": "4774017166815",
+    "uikName": "УИК №2547",
     "tikTvd": "27720002782244",
-    "tikName": "район Внуково"
+    "tikName": "район Внуково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2549,
     "uikTvd": "4774018225079",
+    "uikName": "УИК №2549",
     "tikTvd": "27720002782297",
-    "tikName": "район Дорогомилово"
+    "tikName": "район Дорогомилово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2551,
     "uikTvd": "4774018225080",
+    "uikName": "УИК №2551",
     "tikTvd": "27720002782297",
-    "tikName": "район Дорогомилово"
+    "tikName": "район Дорогомилово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2555,
     "uikTvd": "4774018225081",
+    "uikName": "УИК №2555",
     "tikTvd": "27720002782297",
-    "tikName": "район Дорогомилово"
+    "tikName": "район Дорогомилово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2557,
     "uikTvd": "4774018225082",
+    "uikName": "УИК №2557",
     "tikTvd": "27720002782297",
-    "tikName": "район Дорогомилово"
+    "tikName": "район Дорогомилово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2558,
     "uikTvd": "4774018225083",
+    "uikName": "УИК №2558",
     "tikTvd": "27720002782297",
-    "tikName": "район Дорогомилово"
+    "tikName": "район Дорогомилово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2560,
     "uikTvd": "4774018225084",
+    "uikName": "УИК №2560",
     "tikTvd": "27720002782297",
-    "tikName": "район Дорогомилово"
+    "tikName": "район Дорогомилово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2561,
     "uikTvd": "4774018225085",
+    "uikName": "УИК №2561",
     "tikTvd": "27720002782297",
-    "tikName": "район Дорогомилово"
+    "tikName": "район Дорогомилово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2564,
     "uikTvd": "4774018225086",
+    "uikName": "УИК №2564",
     "tikTvd": "27720002782297",
-    "tikName": "район Дорогомилово"
+    "tikName": "район Дорогомилово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2567,
     "uikTvd": "4774018225087",
+    "uikName": "УИК №2567",
     "tikTvd": "27720002782297",
-    "tikName": "район Дорогомилово"
+    "tikName": "район Дорогомилово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2569,
     "uikTvd": "4774019234347",
+    "uikName": "УИК №2569",
     "tikTvd": "27720002782320",
-    "tikName": "район Крылатское"
+    "tikName": "район Крылатское",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2571,
     "uikTvd": "4774019234349",
+    "uikName": "УИК №2571",
     "tikTvd": "27720002782320",
-    "tikName": "район Крылатское"
+    "tikName": "район Крылатское",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2573,
     "uikTvd": "4774019234351",
+    "uikName": "УИК №2573",
     "tikTvd": "27720002782320",
-    "tikName": "район Крылатское"
+    "tikName": "район Крылатское",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2574,
     "uikTvd": "4774019234353",
+    "uikName": "УИК №2574",
     "tikTvd": "27720002782320",
-    "tikName": "район Крылатское"
+    "tikName": "район Крылатское",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2576,
     "uikTvd": "4774019234354",
+    "uikName": "УИК №2576",
     "tikTvd": "27720002782320",
-    "tikName": "район Крылатское"
+    "tikName": "район Крылатское",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2577,
     "uikTvd": "4774019234355",
+    "uikName": "УИК №2577",
     "tikTvd": "27720002782320",
-    "tikName": "район Крылатское"
+    "tikName": "район Крылатское",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2578,
     "uikTvd": "4774019234356",
+    "uikName": "УИК №2578",
     "tikTvd": "27720002782320",
-    "tikName": "район Крылатское"
+    "tikName": "район Крылатское",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2580,
     "uikTvd": "4774019234357",
+    "uikName": "УИК №2580",
     "tikTvd": "27720002782320",
-    "tikName": "район Крылатское"
+    "tikName": "район Крылатское",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2582,
     "uikTvd": "4774019234358",
+    "uikName": "УИК №2582",
     "tikTvd": "27720002782320",
-    "tikName": "район Крылатское"
+    "tikName": "район Крылатское",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2583,
     "uikTvd": "4774019234359",
+    "uikName": "УИК №2583",
     "tikTvd": "27720002782320",
-    "tikName": "район Крылатское"
+    "tikName": "район Крылатское",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2585,
     "uikTvd": "4774019234360",
+    "uikName": "УИК №2585",
     "tikTvd": "27720002782320",
-    "tikName": "район Крылатское"
+    "tikName": "район Крылатское",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2587,
     "uikTvd": "4774019234361",
+    "uikName": "УИК №2587",
     "tikTvd": "27720002782320",
-    "tikName": "район Крылатское"
+    "tikName": "район Крылатское",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2589,
     "uikTvd": "4774019234362",
+    "uikName": "УИК №2589",
     "tikTvd": "27720002782320",
-    "tikName": "район Крылатское"
+    "tikName": "район Крылатское",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2593,
     "uikTvd": "4774020341797",
+    "uikName": "УИК №2593",
     "tikTvd": "27720002782211",
-    "tikName": "район Кунцево"
+    "tikName": "район Кунцево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2595,
     "uikTvd": "4774020341798",
+    "uikName": "УИК №2595",
     "tikTvd": "27720002782211",
-    "tikName": "район Кунцево"
+    "tikName": "район Кунцево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2596,
     "uikTvd": "4774020341799",
+    "uikName": "УИК №2596",
     "tikTvd": "27720002782211",
-    "tikName": "район Кунцево"
+    "tikName": "район Кунцево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2597,
     "uikTvd": "4774020341800",
+    "uikName": "УИК №2597",
     "tikTvd": "27720002782211",
-    "tikName": "район Кунцево"
+    "tikName": "район Кунцево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2599,
     "uikTvd": "4774020341801",
+    "uikName": "УИК №2599",
     "tikTvd": "27720002782211",
-    "tikName": "район Кунцево"
+    "tikName": "район Кунцево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2600,
     "uikTvd": "4774020341802",
+    "uikName": "УИК №2600",
     "tikTvd": "27720002782211",
-    "tikName": "район Кунцево"
+    "tikName": "район Кунцево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2601,
     "uikTvd": "4774020341803",
+    "uikName": "УИК №2601",
     "tikTvd": "27720002782211",
-    "tikName": "район Кунцево"
+    "tikName": "район Кунцево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2604,
     "uikTvd": "4774020341804",
+    "uikName": "УИК №2604",
     "tikTvd": "27720002782211",
-    "tikName": "район Кунцево"
+    "tikName": "район Кунцево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2605,
     "uikTvd": "4774020341805",
+    "uikName": "УИК №2605",
     "tikTvd": "27720002782211",
-    "tikName": "район Кунцево"
+    "tikName": "район Кунцево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2608,
     "uikTvd": "4774020341806",
+    "uikName": "УИК №2608",
     "tikTvd": "27720002782211",
-    "tikName": "район Кунцево"
+    "tikName": "район Кунцево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2609,
     "uikTvd": "4774020341807",
+    "uikName": "УИК №2609",
     "tikTvd": "27720002782211",
-    "tikName": "район Кунцево"
+    "tikName": "район Кунцево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2610,
     "uikTvd": "4774020341808",
+    "uikName": "УИК №2610",
     "tikTvd": "27720002782211",
-    "tikName": "район Кунцево"
+    "tikName": "район Кунцево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2611,
     "uikTvd": "4774020341809",
+    "uikName": "УИК №2611",
     "tikTvd": "27720002782211",
-    "tikName": "район Кунцево"
+    "tikName": "район Кунцево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2613,
     "uikTvd": "4774020341810",
+    "uikName": "УИК №2613",
     "tikTvd": "27720002782211",
-    "tikName": "район Кунцево"
+    "tikName": "район Кунцево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2614,
     "uikTvd": "4774020341811",
+    "uikName": "УИК №2614",
     "tikTvd": "27720002782211",
-    "tikName": "район Кунцево"
+    "tikName": "район Кунцево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2616,
     "uikTvd": "4774020341812",
+    "uikName": "УИК №2616",
     "tikTvd": "27720002782211",
-    "tikName": "район Кунцево"
+    "tikName": "район Кунцево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2618,
     "uikTvd": "4774020341813",
+    "uikName": "УИК №2618",
     "tikTvd": "27720002782211",
-    "tikName": "район Кунцево"
+    "tikName": "район Кунцево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2620,
     "uikTvd": "4774020341814",
+    "uikName": "УИК №2620",
     "tikTvd": "27720002782211",
-    "tikName": "район Кунцево"
+    "tikName": "район Кунцево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2621,
     "uikTvd": "4774020341815",
+    "uikName": "УИК №2621",
     "tikTvd": "27720002782211",
-    "tikName": "район Кунцево"
+    "tikName": "район Кунцево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2623,
     "uikTvd": "4774020341816",
+    "uikName": "УИК №2623",
     "tikTvd": "27720002782211",
-    "tikName": "район Кунцево"
+    "tikName": "район Кунцево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2624,
     "uikTvd": "4774020341817",
+    "uikName": "УИК №2624",
     "tikTvd": "27720002782211",
-    "tikName": "район Кунцево"
+    "tikName": "район Кунцево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2627,
     "uikTvd": "4774020341818",
+    "uikName": "УИК №2627",
     "tikTvd": "27720002782211",
-    "tikName": "район Кунцево"
+    "tikName": "район Кунцево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2628,
     "uikTvd": "4774020341819",
+    "uikName": "УИК №2628",
     "tikTvd": "27720002782211",
-    "tikName": "район Кунцево"
+    "tikName": "район Кунцево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2630,
     "uikTvd": "4774022296298",
+    "uikName": "УИК №2630",
     "tikTvd": "27720002782256",
-    "tikName": "Можайский район"
+    "tikName": "Можайский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2632,
     "uikTvd": "4774022296299",
+    "uikName": "УИК №2632",
     "tikTvd": "27720002782256",
-    "tikName": "Можайский район"
+    "tikName": "Можайский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2633,
     "uikTvd": "4774022296300",
+    "uikName": "УИК №2633",
     "tikTvd": "27720002782256",
-    "tikName": "Можайский район"
+    "tikName": "Можайский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2634,
     "uikTvd": "4774022296301",
+    "uikName": "УИК №2634",
     "tikTvd": "27720002782256",
-    "tikName": "Можайский район"
+    "tikName": "Можайский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2637,
     "uikTvd": "4774022296302",
+    "uikName": "УИК №2637",
     "tikTvd": "27720002782256",
-    "tikName": "Можайский район"
+    "tikName": "Можайский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2639,
     "uikTvd": "4774022296303",
+    "uikName": "УИК №2639",
     "tikTvd": "27720002782256",
-    "tikName": "Можайский район"
+    "tikName": "Можайский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2640,
     "uikTvd": "4774022296304",
+    "uikName": "УИК №2640",
     "tikTvd": "27720002782256",
-    "tikName": "Можайский район"
+    "tikName": "Можайский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2641,
     "uikTvd": "4774022296305",
+    "uikName": "УИК №2641",
     "tikTvd": "27720002782256",
-    "tikName": "Можайский район"
+    "tikName": "Можайский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2643,
     "uikTvd": "4774022296306",
+    "uikName": "УИК №2643",
     "tikTvd": "27720002782256",
-    "tikName": "Можайский район"
+    "tikName": "Можайский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2645,
     "uikTvd": "4774022296307",
+    "uikName": "УИК №2645",
     "tikTvd": "27720002782256",
-    "tikName": "Можайский район"
+    "tikName": "Можайский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2648,
     "uikTvd": "4774022296308",
+    "uikName": "УИК №2648",
     "tikTvd": "27720002782256",
-    "tikName": "Можайский район"
+    "tikName": "Можайский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2650,
     "uikTvd": "4774022296309",
+    "uikName": "УИК №2650",
     "tikTvd": "27720002782256",
-    "tikName": "Можайский район"
+    "tikName": "Можайский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2652,
     "uikTvd": "4774022296310",
+    "uikName": "УИК №2652",
     "tikTvd": "27720002782256",
-    "tikName": "Можайский район"
+    "tikName": "Можайский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2654,
     "uikTvd": "4774022296311",
+    "uikName": "УИК №2654",
     "tikTvd": "27720002782256",
-    "tikName": "Можайский район"
+    "tikName": "Можайский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2656,
     "uikTvd": "4774022296312",
+    "uikName": "УИК №2656",
     "tikTvd": "27720002782256",
-    "tikName": "Можайский район"
+    "tikName": "Можайский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2657,
     "uikTvd": "4774022296313",
+    "uikName": "УИК №2657",
     "tikTvd": "27720002782256",
-    "tikName": "Можайский район"
+    "tikName": "Можайский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2660,
     "uikTvd": "4774022296314",
+    "uikName": "УИК №2660",
     "tikTvd": "27720002782256",
-    "tikName": "Можайский район"
+    "tikName": "Можайский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2661,
     "uikTvd": "4774022296315",
+    "uikName": "УИК №2661",
     "tikTvd": "27720002782256",
-    "tikName": "Можайский район"
+    "tikName": "Можайский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2663,
     "uikTvd": "4774022296316",
+    "uikName": "УИК №2663",
     "tikTvd": "27720002782256",
-    "tikName": "Можайский район"
+    "tikName": "Можайский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2665,
     "uikTvd": "4774022296317",
+    "uikName": "УИК №2665",
     "tikTvd": "27720002782256",
-    "tikName": "Можайский район"
+    "tikName": "Можайский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2666,
     "uikTvd": "4774022296318",
+    "uikName": "УИК №2666",
     "tikTvd": "27720002782256",
-    "tikName": "Можайский район"
+    "tikName": "Можайский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2667,
     "uikTvd": "4774024316744",
+    "uikName": "УИК №2667",
     "tikTvd": "27720002782271",
-    "tikName": "район Ново-Переделкино"
+    "tikName": "район Ново-Переделкино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2669,
     "uikTvd": "4774024316745",
+    "uikName": "УИК №2669",
     "tikTvd": "27720002782271",
-    "tikName": "район Ново-Переделкино"
+    "tikName": "район Ново-Переделкино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2671,
     "uikTvd": "4774024316746",
+    "uikName": "УИК №2671",
     "tikTvd": "27720002782271",
-    "tikName": "район Ново-Переделкино"
+    "tikName": "район Ново-Переделкино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2673,
     "uikTvd": "4774024316747",
+    "uikName": "УИК №2673",
     "tikTvd": "27720002782271",
-    "tikName": "район Ново-Переделкино"
+    "tikName": "район Ново-Переделкино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2675,
     "uikTvd": "4774024316748",
+    "uikName": "УИК №2675",
     "tikTvd": "27720002782271",
-    "tikName": "район Ново-Переделкино"
+    "tikName": "район Ново-Переделкино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2677,
     "uikTvd": "4774024316749",
+    "uikName": "УИК №2677",
     "tikTvd": "27720002782271",
-    "tikName": "район Ново-Переделкино"
+    "tikName": "район Ново-Переделкино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2679,
     "uikTvd": "4774024316750",
+    "uikName": "УИК №2679",
     "tikTvd": "27720002782271",
-    "tikName": "район Ново-Переделкино"
+    "tikName": "район Ново-Переделкино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2682,
     "uikTvd": "4774024316751",
+    "uikName": "УИК №2682",
     "tikTvd": "27720002782271",
-    "tikName": "район Ново-Переделкино"
+    "tikName": "район Ново-Переделкино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2685,
     "uikTvd": "4774024316752",
+    "uikName": "УИК №2685",
     "tikTvd": "27720002782271",
-    "tikName": "район Ново-Переделкино"
+    "tikName": "район Ново-Переделкино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2686,
     "uikTvd": "4774024316753",
+    "uikName": "УИК №2686",
     "tikTvd": "27720002782271",
-    "tikName": "район Ново-Переделкино"
+    "tikName": "район Ново-Переделкино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2687,
     "uikTvd": "4774024316754",
+    "uikName": "УИК №2687",
     "tikTvd": "27720002782271",
-    "tikName": "район Ново-Переделкино"
+    "tikName": "район Ново-Переделкино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2691,
     "uikTvd": "4774024316755",
+    "uikName": "УИК №2691",
     "tikTvd": "27720002782271",
-    "tikName": "район Ново-Переделкино"
+    "tikName": "район Ново-Переделкино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2693,
     "uikTvd": "4774024316756",
+    "uikName": "УИК №2693",
     "tikTvd": "27720002782271",
-    "tikName": "район Ново-Переделкино"
+    "tikName": "район Ново-Переделкино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2695,
     "uikTvd": "4774024316757",
+    "uikName": "УИК №2695",
     "tikTvd": "27720002782271",
-    "tikName": "район Ново-Переделкино"
+    "tikName": "район Ново-Переделкино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2697,
     "uikTvd": "4774024316758",
+    "uikName": "УИК №2697",
     "tikTvd": "27720002782271",
-    "tikName": "район Ново-Переделкино"
+    "tikName": "район Ново-Переделкино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2700,
     "uikTvd": "4774024316759",
+    "uikName": "УИК №2700",
     "tikTvd": "27720002782271",
-    "tikName": "район Ново-Переделкино"
+    "tikName": "район Ново-Переделкино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2701,
     "uikTvd": "4774024316760",
+    "uikName": "УИК №2701",
     "tikTvd": "27720002782271",
-    "tikName": "район Ново-Переделкино"
+    "tikName": "район Ново-Переделкино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2702,
     "uikTvd": "4774024316761",
+    "uikName": "УИК №2702",
     "tikTvd": "27720002782271",
-    "tikName": "район Ново-Переделкино"
+    "tikName": "район Ново-Переделкино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2704,
     "uikTvd": "4774025284947",
+    "uikName": "УИК №2704",
     "tikTvd": "27720002782199",
-    "tikName": "район Очаково-Матвеевское"
+    "tikName": "район Очаково-Матвеевское",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2705,
     "uikTvd": "4774025284948",
+    "uikName": "УИК №2705",
     "tikTvd": "27720002782199",
-    "tikName": "район Очаково-Матвеевское"
+    "tikName": "район Очаково-Матвеевское",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2707,
     "uikTvd": "4774025284949",
+    "uikName": "УИК №2707",
     "tikTvd": "27720002782199",
-    "tikName": "район Очаково-Матвеевское"
+    "tikName": "район Очаково-Матвеевское",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2708,
     "uikTvd": "4774025284950",
+    "uikName": "УИК №2708",
     "tikTvd": "27720002782199",
-    "tikName": "район Очаково-Матвеевское"
+    "tikName": "район Очаково-Матвеевское",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2710,
     "uikTvd": "4774025284951",
+    "uikName": "УИК №2710",
     "tikTvd": "27720002782199",
-    "tikName": "район Очаково-Матвеевское"
+    "tikName": "район Очаково-Матвеевское",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2713,
     "uikTvd": "4774025284952",
+    "uikName": "УИК №2713",
     "tikTvd": "27720002782199",
-    "tikName": "район Очаково-Матвеевское"
+    "tikName": "район Очаково-Матвеевское",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2715,
     "uikTvd": "4774025284953",
+    "uikName": "УИК №2715",
     "tikTvd": "27720002782199",
-    "tikName": "район Очаково-Матвеевское"
+    "tikName": "район Очаково-Матвеевское",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2716,
     "uikTvd": "4774025284954",
+    "uikName": "УИК №2716",
     "tikTvd": "27720002782199",
-    "tikName": "район Очаково-Матвеевское"
+    "tikName": "район Очаково-Матвеевское",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2718,
     "uikTvd": "4774025284955",
+    "uikName": "УИК №2718",
     "tikTvd": "27720002782199",
-    "tikName": "район Очаково-Матвеевское"
+    "tikName": "район Очаково-Матвеевское",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2719,
     "uikTvd": "4774025284956",
+    "uikName": "УИК №2719",
     "tikTvd": "27720002782199",
-    "tikName": "район Очаково-Матвеевское"
+    "tikName": "район Очаково-Матвеевское",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2720,
     "uikTvd": "4774025284957",
+    "uikName": "УИК №2720",
     "tikTvd": "27720002782199",
-    "tikName": "район Очаково-Матвеевское"
+    "tikName": "район Очаково-Матвеевское",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2722,
     "uikTvd": "4774025284958",
+    "uikName": "УИК №2722",
     "tikTvd": "27720002782199",
-    "tikName": "район Очаково-Матвеевское"
+    "tikName": "район Очаково-Матвеевское",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2723,
     "uikTvd": "4774025284959",
+    "uikName": "УИК №2723",
     "tikTvd": "27720002782199",
-    "tikName": "район Очаково-Матвеевское"
+    "tikName": "район Очаково-Матвеевское",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2724,
     "uikTvd": "4774025284960",
+    "uikName": "УИК №2724",
     "tikTvd": "27720002782199",
-    "tikName": "район Очаково-Матвеевское"
+    "tikName": "район Очаково-Матвеевское",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2727,
     "uikTvd": "4774025284961",
+    "uikName": "УИК №2727",
     "tikTvd": "27720002782199",
-    "tikName": "район Очаково-Матвеевское"
+    "tikName": "район Очаково-Матвеевское",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2728,
     "uikTvd": "4774025284962",
+    "uikName": "УИК №2728",
     "tikTvd": "27720002782199",
-    "tikName": "район Очаково-Матвеевское"
+    "tikName": "район Очаково-Матвеевское",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2730,
     "uikTvd": "4774025284963",
+    "uikName": "УИК №2730",
     "tikTvd": "27720002782199",
-    "tikName": "район Очаково-Матвеевское"
+    "tikName": "район Очаково-Матвеевское",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2732,
     "uikTvd": "4774025284964",
+    "uikName": "УИК №2732",
     "tikTvd": "27720002782199",
-    "tikName": "район Очаково-Матвеевское"
+    "tikName": "район Очаково-Матвеевское",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2733,
     "uikTvd": "4774025284965",
+    "uikName": "УИК №2733",
     "tikTvd": "27720002782199",
-    "tikName": "район Очаково-Матвеевское"
+    "tikName": "район Очаково-Матвеевское",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2734,
     "uikTvd": "4774026221090",
+    "uikName": "УИК №2734",
     "tikTvd": "27720002782291",
-    "tikName": "район Проспект Вернадского"
+    "tikName": "район Проспект Вернадского",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2738,
     "uikTvd": "4774026221091",
+    "uikName": "УИК №2738",
     "tikTvd": "27720002782291",
-    "tikName": "район Проспект Вернадского"
+    "tikName": "район Проспект Вернадского",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2741,
     "uikTvd": "4774026221092",
+    "uikName": "УИК №2741",
     "tikTvd": "27720002782291",
-    "tikName": "район Проспект Вернадского"
+    "tikName": "район Проспект Вернадского",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2743,
     "uikTvd": "4774026221093",
+    "uikName": "УИК №2743",
     "tikTvd": "27720002782291",
-    "tikName": "район Проспект Вернадского"
+    "tikName": "район Проспект Вернадского",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2745,
     "uikTvd": "4774026221094",
+    "uikName": "УИК №2745",
     "tikTvd": "27720002782291",
-    "tikName": "район Проспект Вернадского"
+    "tikName": "район Проспект Вернадского",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2746,
     "uikTvd": "4774026221095",
+    "uikName": "УИК №2746",
     "tikTvd": "27720002782291",
-    "tikName": "район Проспект Вернадского"
+    "tikName": "район Проспект Вернадского",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2748,
     "uikTvd": "4774026221096",
+    "uikName": "УИК №2748",
     "tikTvd": "27720002782291",
-    "tikName": "район Проспект Вернадского"
+    "tikName": "район Проспект Вернадского",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2749,
     "uikTvd": "4774026221097",
+    "uikName": "УИК №2749",
     "tikTvd": "27720002782291",
-    "tikName": "район Проспект Вернадского"
+    "tikName": "район Проспект Вернадского",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2751,
     "uikTvd": "4774026221098",
+    "uikName": "УИК №2751",
     "tikTvd": "27720002782291",
-    "tikName": "район Проспект Вернадского"
+    "tikName": "район Проспект Вернадского",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2752,
     "uikTvd": "4774026221099",
+    "uikName": "УИК №2752",
     "tikTvd": "27720002782291",
-    "tikName": "район Проспект Вернадского"
+    "tikName": "район Проспект Вернадского",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2753,
     "uikTvd": "4774027291148",
+    "uikName": "УИК №2753",
     "tikTvd": "27720002782215",
-    "tikName": "район Раменки"
+    "tikName": "район Раменки",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2756,
     "uikTvd": "4774027291149",
+    "uikName": "УИК №2756",
     "tikTvd": "27720002782215",
-    "tikName": "район Раменки"
+    "tikName": "район Раменки",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2757,
     "uikTvd": "4774027291150",
+    "uikName": "УИК №2757",
     "tikTvd": "27720002782215",
-    "tikName": "район Раменки"
+    "tikName": "район Раменки",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2759,
     "uikTvd": "4774027291151",
+    "uikName": "УИК №2759",
     "tikTvd": "27720002782215",
-    "tikName": "район Раменки"
+    "tikName": "район Раменки",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2761,
     "uikTvd": "4774027291152",
+    "uikName": "УИК №2761",
     "tikTvd": "27720002782215",
-    "tikName": "район Раменки"
+    "tikName": "район Раменки",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2763,
     "uikTvd": "4774027291153",
+    "uikName": "УИК №2763",
     "tikTvd": "27720002782215",
-    "tikName": "район Раменки"
+    "tikName": "район Раменки",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2764,
     "uikTvd": "4774027291154",
+    "uikName": "УИК №2764",
     "tikTvd": "27720002782215",
-    "tikName": "район Раменки"
+    "tikName": "район Раменки",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2765,
     "uikTvd": "4774027291155",
+    "uikName": "УИК №2765",
     "tikTvd": "27720002782215",
-    "tikName": "район Раменки"
+    "tikName": "район Раменки",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2766,
     "uikTvd": "4774027291156",
+    "uikName": "УИК №2766",
     "tikTvd": "27720002782215",
-    "tikName": "район Раменки"
+    "tikName": "район Раменки",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2770,
     "uikTvd": "4774027291157",
+    "uikName": "УИК №2770",
     "tikTvd": "27720002782215",
-    "tikName": "район Раменки"
+    "tikName": "район Раменки",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2771,
     "uikTvd": "4774027291158",
+    "uikName": "УИК №2771",
     "tikTvd": "27720002782215",
-    "tikName": "район Раменки"
+    "tikName": "район Раменки",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2773,
     "uikTvd": "4774027291159",
+    "uikName": "УИК №2773",
     "tikTvd": "27720002782215",
-    "tikName": "район Раменки"
+    "tikName": "район Раменки",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2775,
     "uikTvd": "4774027291160",
+    "uikName": "УИК №2775",
     "tikTvd": "27720002782215",
-    "tikName": "район Раменки"
+    "tikName": "район Раменки",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2777,
     "uikTvd": "4774027291161",
+    "uikName": "УИК №2777",
     "tikTvd": "27720002782215",
-    "tikName": "район Раменки"
+    "tikName": "район Раменки",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2779,
     "uikTvd": "4774027291162",
+    "uikName": "УИК №2779",
     "tikTvd": "27720002782215",
-    "tikName": "район Раменки"
+    "tikName": "район Раменки",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2780,
     "uikTvd": "4774027291163",
+    "uikName": "УИК №2780",
     "tikTvd": "27720002782215",
-    "tikName": "район Раменки"
+    "tikName": "район Раменки",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2781,
     "uikTvd": "4774027291164",
+    "uikName": "УИК №2781",
     "tikTvd": "27720002782215",
-    "tikName": "район Раменки"
+    "tikName": "район Раменки",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2783,
     "uikTvd": "4774027291165",
+    "uikName": "УИК №2783",
     "tikTvd": "27720002782215",
-    "tikName": "район Раменки"
+    "tikName": "район Раменки",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2785,
     "uikTvd": "4774027291166",
+    "uikName": "УИК №2785",
     "tikTvd": "27720002782215",
-    "tikName": "район Раменки"
+    "tikName": "район Раменки",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2786,
     "uikTvd": "4774027291167",
+    "uikName": "УИК №2786",
     "tikTvd": "27720002782215",
-    "tikName": "район Раменки"
+    "tikName": "район Раменки",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2787,
     "uikTvd": "4774027291168",
+    "uikName": "УИК №2787",
     "tikTvd": "27720002782215",
-    "tikName": "район Раменки"
+    "tikName": "район Раменки",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2788,
     "uikTvd": "4774027291169",
+    "uikName": "УИК №2788",
     "tikTvd": "27720002782215",
-    "tikName": "район Раменки"
+    "tikName": "район Раменки",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2793,
     "uikTvd": "4774028284181",
+    "uikName": "УИК №2793",
     "tikTvd": "27720002782196",
-    "tikName": "район Солнцево"
+    "tikName": "район Солнцево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2794,
     "uikTvd": "4774028284182",
+    "uikName": "УИК №2794",
     "tikTvd": "27720002782196",
-    "tikName": "район Солнцево"
+    "tikName": "район Солнцево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2796,
     "uikTvd": "4774028284183",
+    "uikName": "УИК №2796",
     "tikTvd": "27720002782196",
-    "tikName": "район Солнцево"
+    "tikName": "район Солнцево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2798,
     "uikTvd": "4774028284184",
+    "uikName": "УИК №2798",
     "tikTvd": "27720002782196",
-    "tikName": "район Солнцево"
+    "tikName": "район Солнцево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2799,
     "uikTvd": "4774028284185",
+    "uikName": "УИК №2799",
     "tikTvd": "27720002782196",
-    "tikName": "район Солнцево"
+    "tikName": "район Солнцево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2800,
     "uikTvd": "4774028284186",
+    "uikName": "УИК №2800",
     "tikTvd": "27720002782196",
-    "tikName": "район Солнцево"
+    "tikName": "район Солнцево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2802,
     "uikTvd": "4774028284187",
+    "uikName": "УИК №2802",
     "tikTvd": "27720002782196",
-    "tikName": "район Солнцево"
+    "tikName": "район Солнцево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2803,
     "uikTvd": "4774028284188",
+    "uikName": "УИК №2803",
     "tikTvd": "27720002782196",
-    "tikName": "район Солнцево"
+    "tikName": "район Солнцево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2805,
     "uikTvd": "4774028284189",
+    "uikName": "УИК №2805",
     "tikTvd": "27720002782196",
-    "tikName": "район Солнцево"
+    "tikName": "район Солнцево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2806,
     "uikTvd": "4774028284190",
+    "uikName": "УИК №2806",
     "tikTvd": "27720002782196",
-    "tikName": "район Солнцево"
+    "tikName": "район Солнцево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2808,
     "uikTvd": "4774028284191",
+    "uikName": "УИК №2808",
     "tikTvd": "27720002782196",
-    "tikName": "район Солнцево"
+    "tikName": "район Солнцево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2809,
     "uikTvd": "4774028284192",
+    "uikName": "УИК №2809",
     "tikTvd": "27720002782196",
-    "tikName": "район Солнцево"
+    "tikName": "район Солнцево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2811,
     "uikTvd": "4774028284193",
+    "uikName": "УИК №2811",
     "tikTvd": "27720002782196",
-    "tikName": "район Солнцево"
+    "tikName": "район Солнцево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2813,
     "uikTvd": "4774028284194",
+    "uikName": "УИК №2813",
     "tikTvd": "27720002782196",
-    "tikName": "район Солнцево"
+    "tikName": "район Солнцево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2815,
     "uikTvd": "4774028284195",
+    "uikName": "УИК №2815",
     "tikTvd": "27720002782196",
-    "tikName": "район Солнцево"
+    "tikName": "район Солнцево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2816,
     "uikTvd": "4774028284196",
+    "uikName": "УИК №2816",
     "tikTvd": "27720002782196",
-    "tikName": "район Солнцево"
+    "tikName": "район Солнцево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2817,
     "uikTvd": "4774028284197",
+    "uikName": "УИК №2817",
     "tikTvd": "27720002782196",
-    "tikName": "район Солнцево"
+    "tikName": "район Солнцево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2820,
     "uikTvd": "4774029288824",
+    "uikName": "УИК №2820",
     "tikTvd": "27720002782286",
-    "tikName": "район Тропарево-Никулино"
+    "tikName": "район Тропарево-Никулино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2821,
     "uikTvd": "4774029288825",
+    "uikName": "УИК №2821",
     "tikTvd": "27720002782286",
-    "tikName": "район Тропарево-Никулино"
+    "tikName": "район Тропарево-Никулино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2823,
     "uikTvd": "4774029288826",
+    "uikName": "УИК №2823",
     "tikTvd": "27720002782286",
-    "tikName": "район Тропарево-Никулино"
+    "tikName": "район Тропарево-Никулино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2825,
     "uikTvd": "4774029288827",
+    "uikName": "УИК №2825",
     "tikTvd": "27720002782286",
-    "tikName": "район Тропарево-Никулино"
+    "tikName": "район Тропарево-Никулино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2826,
     "uikTvd": "4774029288828",
+    "uikName": "УИК №2826",
     "tikTvd": "27720002782286",
-    "tikName": "район Тропарево-Никулино"
+    "tikName": "район Тропарево-Никулино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2827,
     "uikTvd": "4774029288829",
+    "uikName": "УИК №2827",
     "tikTvd": "27720002782286",
-    "tikName": "район Тропарево-Никулино"
+    "tikName": "район Тропарево-Никулино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2828,
     "uikTvd": "4774029288830",
+    "uikName": "УИК №2828",
     "tikTvd": "27720002782286",
-    "tikName": "район Тропарево-Никулино"
+    "tikName": "район Тропарево-Никулино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2833,
     "uikTvd": "4774029288831",
+    "uikName": "УИК №2833",
     "tikTvd": "27720002782286",
-    "tikName": "район Тропарево-Никулино"
+    "tikName": "район Тропарево-Никулино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2834,
     "uikTvd": "4774029288832",
+    "uikName": "УИК №2834",
     "tikTvd": "27720002782286",
-    "tikName": "район Тропарево-Никулино"
+    "tikName": "район Тропарево-Никулино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2837,
     "uikTvd": "4774029288833",
+    "uikName": "УИК №2837",
     "tikTvd": "27720002782286",
-    "tikName": "район Тропарево-Никулино"
+    "tikName": "район Тропарево-Никулино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2839,
     "uikTvd": "4774029288834",
+    "uikName": "УИК №2839",
     "tikTvd": "27720002782286",
-    "tikName": "район Тропарево-Никулино"
+    "tikName": "район Тропарево-Никулино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2840,
     "uikTvd": "4774029288835",
+    "uikName": "УИК №2840",
     "tikTvd": "27720002782286",
-    "tikName": "район Тропарево-Никулино"
+    "tikName": "район Тропарево-Никулино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2843,
     "uikTvd": "4774029288836",
+    "uikName": "УИК №2843",
     "tikTvd": "27720002782286",
-    "tikName": "район Тропарево-Никулино"
+    "tikName": "район Тропарево-Никулино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2844,
     "uikTvd": "4774029288837",
+    "uikName": "УИК №2844",
     "tikTvd": "27720002782286",
-    "tikName": "район Тропарево-Никулино"
+    "tikName": "район Тропарево-Никулино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2846,
     "uikTvd": "4774029288838",
+    "uikName": "УИК №2846",
     "tikTvd": "27720002782286",
-    "tikName": "район Тропарево-Никулино"
+    "tikName": "район Тропарево-Никулино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2848,
     "uikTvd": "4774029288839",
+    "uikName": "УИК №2848",
     "tikTvd": "27720002782286",
-    "tikName": "район Тропарево-Никулино"
+    "tikName": "район Тропарево-Никулино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2850,
     "uikTvd": "4774029288840",
+    "uikName": "УИК №2850",
     "tikTvd": "27720002782286",
-    "tikName": "район Тропарево-Никулино"
+    "tikName": "район Тропарево-Никулино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2851,
     "uikTvd": "4774029288841",
+    "uikName": "УИК №2851",
     "tikTvd": "27720002782286",
-    "tikName": "район Тропарево-Никулино"
+    "tikName": "район Тропарево-Никулино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2852,
     "uikTvd": "4774030238199",
+    "uikName": "УИК №2852",
     "tikTvd": "27720002782299",
-    "tikName": "район Филевский парк"
+    "tikName": "район Филевский парк",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2855,
     "uikTvd": "4774030238200",
+    "uikName": "УИК №2855",
     "tikTvd": "27720002782299",
-    "tikName": "район Филевский парк"
+    "tikName": "район Филевский парк",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2856,
     "uikTvd": "4774030238201",
+    "uikName": "УИК №2856",
     "tikTvd": "27720002782299",
-    "tikName": "район Филевский парк"
+    "tikName": "район Филевский парк",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2859,
     "uikTvd": "4774030238202",
+    "uikName": "УИК №2859",
     "tikTvd": "27720002782299",
-    "tikName": "район Филевский парк"
+    "tikName": "район Филевский парк",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2860,
     "uikTvd": "4774030238203",
+    "uikName": "УИК №2860",
     "tikTvd": "27720002782299",
-    "tikName": "район Филевский парк"
+    "tikName": "район Филевский парк",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2861,
     "uikTvd": "4774030238204",
+    "uikName": "УИК №2861",
     "tikTvd": "27720002782299",
-    "tikName": "район Филевский парк"
+    "tikName": "район Филевский парк",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2863,
     "uikTvd": "4774030238205",
+    "uikName": "УИК №2863",
     "tikTvd": "27720002782299",
-    "tikName": "район Филевский парк"
+    "tikName": "район Филевский парк",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2865,
     "uikTvd": "4774030238206",
+    "uikName": "УИК №2865",
     "tikTvd": "27720002782299",
-    "tikName": "район Филевский парк"
+    "tikName": "район Филевский парк",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2866,
     "uikTvd": "4774030238207",
+    "uikName": "УИК №2866",
     "tikTvd": "27720002782299",
-    "tikName": "район Филевский парк"
+    "tikName": "район Филевский парк",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2867,
     "uikTvd": "4774030238208",
+    "uikName": "УИК №2867",
     "tikTvd": "27720002782299",
-    "tikName": "район Филевский парк"
+    "tikName": "район Филевский парк",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2869,
     "uikTvd": "4774030238209",
+    "uikName": "УИК №2869",
     "tikTvd": "27720002782299",
-    "tikName": "район Филевский парк"
+    "tikName": "район Филевский парк",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2872,
     "uikTvd": "4774030238210",
+    "uikName": "УИК №2872",
     "tikTvd": "27720002782299",
-    "tikName": "район Филевский парк"
+    "tikName": "район Филевский парк",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2873,
     "uikTvd": "4774030238211",
+    "uikName": "УИК №2873",
     "tikTvd": "27720002782299",
-    "tikName": "район Филевский парк"
+    "tikName": "район Филевский парк",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2874,
     "uikTvd": "4774030238212",
+    "uikName": "УИК №2874",
     "tikTvd": "27720002782299",
-    "tikName": "район Филевский парк"
+    "tikName": "район Филевский парк",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2878,
     "uikTvd": "4774031285899",
+    "uikName": "УИК №2878",
     "tikTvd": "27720002782202",
-    "tikName": "район Фили-Давыдково"
+    "tikName": "район Фили-Давыдково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2880,
     "uikTvd": "4774031285900",
+    "uikName": "УИК №2880",
     "tikTvd": "27720002782202",
-    "tikName": "район Фили-Давыдково"
+    "tikName": "район Фили-Давыдково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2882,
     "uikTvd": "4774031285901",
+    "uikName": "УИК №2882",
     "tikTvd": "27720002782202",
-    "tikName": "район Фили-Давыдково"
+    "tikName": "район Фили-Давыдково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2884,
     "uikTvd": "4774031285902",
+    "uikName": "УИК №2884",
     "tikTvd": "27720002782202",
-    "tikName": "район Фили-Давыдково"
+    "tikName": "район Фили-Давыдково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2885,
     "uikTvd": "4774031285903",
+    "uikName": "УИК №2885",
     "tikTvd": "27720002782202",
-    "tikName": "район Фили-Давыдково"
+    "tikName": "район Фили-Давыдково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2887,
     "uikTvd": "4774031285904",
+    "uikName": "УИК №2887",
     "tikTvd": "27720002782202",
-    "tikName": "район Фили-Давыдково"
+    "tikName": "район Фили-Давыдково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2889,
     "uikTvd": "4774031285905",
+    "uikName": "УИК №2889",
     "tikTvd": "27720002782202",
-    "tikName": "район Фили-Давыдково"
+    "tikName": "район Фили-Давыдково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2890,
     "uikTvd": "4774031285906",
+    "uikName": "УИК №2890",
     "tikTvd": "27720002782202",
-    "tikName": "район Фили-Давыдково"
+    "tikName": "район Фили-Давыдково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2892,
     "uikTvd": "4774031285907",
+    "uikName": "УИК №2892",
     "tikTvd": "27720002782202",
-    "tikName": "район Фили-Давыдково"
+    "tikName": "район Фили-Давыдково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2894,
     "uikTvd": "4774031285908",
+    "uikName": "УИК №2894",
     "tikTvd": "27720002782202",
-    "tikName": "район Фили-Давыдково"
+    "tikName": "район Фили-Давыдково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2897,
     "uikTvd": "4774031285909",
+    "uikName": "УИК №2897",
     "tikTvd": "27720002782202",
-    "tikName": "район Фили-Давыдково"
+    "tikName": "район Фили-Давыдково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2898,
     "uikTvd": "4774031285910",
+    "uikName": "УИК №2898",
     "tikTvd": "27720002782202",
-    "tikName": "район Фили-Давыдково"
+    "tikName": "район Фили-Давыдково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2900,
     "uikTvd": "4774031285911",
+    "uikName": "УИК №2900",
     "tikTvd": "27720002782202",
-    "tikName": "район Фили-Давыдково"
+    "tikName": "район Фили-Давыдково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2901,
     "uikTvd": "4774031285912",
+    "uikName": "УИК №2901",
     "tikTvd": "27720002782202",
-    "tikName": "район Фили-Давыдково"
+    "tikName": "район Фили-Давыдково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2902,
     "uikTvd": "4774031285913",
+    "uikName": "УИК №2902",
     "tikTvd": "27720002782202",
-    "tikName": "район Фили-Давыдково"
+    "tikName": "район Фили-Давыдково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2904,
     "uikTvd": "4774031285914",
+    "uikName": "УИК №2904",
     "tikTvd": "27720002782202",
-    "tikName": "район Фили-Давыдково"
+    "tikName": "район Фили-Давыдково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2905,
     "uikTvd": "4774071177740",
+    "uikName": "УИК №2905",
     "tikTvd": "27720002782330",
-    "tikName": "район Куркино"
+    "tikName": "район Куркино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2907,
     "uikTvd": "4774071177741",
+    "uikName": "УИК №2907",
     "tikTvd": "27720002782330",
-    "tikName": "район Куркино"
+    "tikName": "район Куркино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2908,
     "uikTvd": "4774071177742",
+    "uikName": "УИК №2908",
     "tikTvd": "27720002782330",
-    "tikName": "район Куркино"
+    "tikName": "район Куркино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2910,
     "uikTvd": "4774071177743",
+    "uikName": "УИК №2910",
     "tikTvd": "27720002782330",
-    "tikName": "район Куркино"
+    "tikName": "район Куркино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2911,
     "uikTvd": "4774071177744",
+    "uikName": "УИК №2911",
     "tikTvd": "27720002782330",
-    "tikName": "район Куркино"
+    "tikName": "район Куркино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2913,
     "uikTvd": "4774071177745",
+    "uikName": "УИК №2913",
     "tikTvd": "27720002782330",
-    "tikName": "район Куркино"
+    "tikName": "район Куркино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2914,
     "uikTvd": "4774072399773",
+    "uikName": "УИК №2914",
     "tikTvd": "27720002782302",
-    "tikName": "район Митино"
+    "tikName": "район Митино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2915,
     "uikTvd": "4774072399774",
+    "uikName": "УИК №2915",
     "tikTvd": "27720002782302",
-    "tikName": "район Митино"
+    "tikName": "район Митино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2917,
     "uikTvd": "4774072399775",
+    "uikName": "УИК №2917",
     "tikTvd": "27720002782302",
-    "tikName": "район Митино"
+    "tikName": "район Митино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2921,
     "uikTvd": "4774072399776",
+    "uikName": "УИК №2921",
     "tikTvd": "27720002782302",
-    "tikName": "район Митино"
+    "tikName": "район Митино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2922,
     "uikTvd": "4774072399777",
+    "uikName": "УИК №2922",
     "tikTvd": "27720002782302",
-    "tikName": "район Митино"
+    "tikName": "район Митино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2923,
     "uikTvd": "4774072399778",
+    "uikName": "УИК №2923",
     "tikTvd": "27720002782302",
-    "tikName": "район Митино"
+    "tikName": "район Митино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2926,
     "uikTvd": "4774072399779",
+    "uikName": "УИК №2926",
     "tikTvd": "27720002782302",
-    "tikName": "район Митино"
+    "tikName": "район Митино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2927,
     "uikTvd": "4774072399780",
+    "uikName": "УИК №2927",
     "tikTvd": "27720002782302",
-    "tikName": "район Митино"
+    "tikName": "район Митино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2930,
     "uikTvd": "4774072399781",
+    "uikName": "УИК №2930",
     "tikTvd": "27720002782302",
-    "tikName": "район Митино"
+    "tikName": "район Митино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2932,
     "uikTvd": "4774072399782",
+    "uikName": "УИК №2932",
     "tikTvd": "27720002782302",
-    "tikName": "район Митино"
+    "tikName": "район Митино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2933,
     "uikTvd": "4774072399783",
+    "uikName": "УИК №2933",
     "tikTvd": "27720002782302",
-    "tikName": "район Митино"
+    "tikName": "район Митино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2934,
     "uikTvd": "4774072399784",
+    "uikName": "УИК №2934",
     "tikTvd": "27720002782302",
-    "tikName": "район Митино"
+    "tikName": "район Митино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2935,
     "uikTvd": "4774072399785",
+    "uikName": "УИК №2935",
     "tikTvd": "27720002782302",
-    "tikName": "район Митино"
+    "tikName": "район Митино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2939,
     "uikTvd": "4774072399786",
+    "uikName": "УИК №2939",
     "tikTvd": "27720002782302",
-    "tikName": "район Митино"
+    "tikName": "район Митино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2940,
     "uikTvd": "4774072399787",
+    "uikName": "УИК №2940",
     "tikTvd": "27720002782302",
-    "tikName": "район Митино"
+    "tikName": "район Митино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2941,
     "uikTvd": "4774072399788",
+    "uikName": "УИК №2941",
     "tikTvd": "27720002782302",
-    "tikName": "район Митино"
+    "tikName": "район Митино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2944,
     "uikTvd": "4774072399789",
+    "uikName": "УИК №2944",
     "tikTvd": "27720002782302",
-    "tikName": "район Митино"
+    "tikName": "район Митино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2945,
     "uikTvd": "4774072399790",
+    "uikName": "УИК №2945",
     "tikTvd": "27720002782302",
-    "tikName": "район Митино"
+    "tikName": "район Митино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2946,
     "uikTvd": "4774072399791",
+    "uikName": "УИК №2946",
     "tikTvd": "27720002782302",
-    "tikName": "район Митино"
+    "tikName": "район Митино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2948,
     "uikTvd": "4774072399792",
+    "uikName": "УИК №2948",
     "tikTvd": "27720002782302",
-    "tikName": "район Митино"
+    "tikName": "район Митино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2950,
     "uikTvd": "4774072399793",
+    "uikName": "УИК №2950",
     "tikTvd": "27720002782302",
-    "tikName": "район Митино"
+    "tikName": "район Митино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2951,
     "uikTvd": "4774072399794",
+    "uikName": "УИК №2951",
     "tikTvd": "27720002782302",
-    "tikName": "район Митино"
+    "tikName": "район Митино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2952,
     "uikTvd": "4774072399795",
+    "uikName": "УИК №2952",
     "tikTvd": "27720002782302",
-    "tikName": "район Митино"
+    "tikName": "район Митино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2954,
     "uikTvd": "4774072399796",
+    "uikName": "УИК №2954",
     "tikTvd": "27720002782302",
-    "tikName": "район Митино"
+    "tikName": "район Митино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2955,
     "uikTvd": "4774072399797",
+    "uikName": "УИК №2955",
     "tikTvd": "27720002782302",
-    "tikName": "район Митино"
+    "tikName": "район Митино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2956,
     "uikTvd": "4774072399798",
+    "uikName": "УИК №2956",
     "tikTvd": "27720002782302",
-    "tikName": "район Митино"
+    "tikName": "район Митино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2958,
     "uikTvd": "4774072399799",
+    "uikName": "УИК №2958",
     "tikTvd": "27720002782302",
-    "tikName": "район Митино"
+    "tikName": "район Митино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2960,
     "uikTvd": "4774072399800",
+    "uikName": "УИК №2960",
     "tikTvd": "27720002782302",
-    "tikName": "район Митино"
+    "tikName": "район Митино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2962,
     "uikTvd": "4774072399801",
+    "uikName": "УИК №2962",
     "tikTvd": "27720002782302",
-    "tikName": "район Митино"
+    "tikName": "район Митино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2965,
     "uikTvd": "4774073244125",
+    "uikName": "УИК №2965",
     "tikTvd": "27720002782233",
-    "tikName": "район Покровское-Стрешнево"
+    "tikName": "район Покровское-Стрешнево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2966,
     "uikTvd": "4774073244126",
+    "uikName": "УИК №2966",
     "tikTvd": "27720002782233",
-    "tikName": "район Покровское-Стрешнево"
+    "tikName": "район Покровское-Стрешнево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2968,
     "uikTvd": "4774073244127",
+    "uikName": "УИК №2968",
     "tikTvd": "27720002782233",
-    "tikName": "район Покровское-Стрешнево"
+    "tikName": "район Покровское-Стрешнево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2969,
     "uikTvd": "4774073244128",
+    "uikName": "УИК №2969",
     "tikTvd": "27720002782233",
-    "tikName": "район Покровское-Стрешнево"
+    "tikName": "район Покровское-Стрешнево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2970,
     "uikTvd": "4774073244129",
+    "uikName": "УИК №2970",
     "tikTvd": "27720002782233",
-    "tikName": "район Покровское-Стрешнево"
+    "tikName": "район Покровское-Стрешнево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2972,
     "uikTvd": "4774073244130",
+    "uikName": "УИК №2972",
     "tikTvd": "27720002782233",
-    "tikName": "район Покровское-Стрешнево"
+    "tikName": "район Покровское-Стрешнево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2973,
     "uikTvd": "4774073244131",
+    "uikName": "УИК №2973",
     "tikTvd": "27720002782233",
-    "tikName": "район Покровское-Стрешнево"
+    "tikName": "район Покровское-Стрешнево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2974,
     "uikTvd": "4774073244132",
+    "uikName": "УИК №2974",
     "tikTvd": "27720002782233",
-    "tikName": "район Покровское-Стрешнево"
+    "tikName": "район Покровское-Стрешнево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2975,
     "uikTvd": "4774073244133",
+    "uikName": "УИК №2975",
     "tikTvd": "27720002782233",
-    "tikName": "район Покровское-Стрешнево"
+    "tikName": "район Покровское-Стрешнево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2976,
     "uikTvd": "4774073244134",
+    "uikName": "УИК №2976",
     "tikTvd": "27720002782233",
-    "tikName": "район Покровское-Стрешнево"
+    "tikName": "район Покровское-Стрешнево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2977,
     "uikTvd": "4774073244135",
+    "uikName": "УИК №2977",
     "tikTvd": "27720002782233",
-    "tikName": "район Покровское-Стрешнево"
+    "tikName": "район Покровское-Стрешнево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2979,
     "uikTvd": "4774073244136",
+    "uikName": "УИК №2979",
     "tikTvd": "27720002782233",
-    "tikName": "район Покровское-Стрешнево"
+    "tikName": "район Покровское-Стрешнево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2980,
     "uikTvd": "4774074358746",
+    "uikName": "УИК №2980",
     "tikTvd": "27720002782333",
-    "tikName": "район Северное Тушино"
+    "tikName": "район Северное Тушино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2982,
     "uikTvd": "4774074358747",
+    "uikName": "УИК №2982",
     "tikTvd": "27720002782333",
-    "tikName": "район Северное Тушино"
+    "tikName": "район Северное Тушино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2985,
     "uikTvd": "4774074358748",
+    "uikName": "УИК №2985",
     "tikTvd": "27720002782333",
-    "tikName": "район Северное Тушино"
+    "tikName": "район Северное Тушино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2987,
     "uikTvd": "4774074358749",
+    "uikName": "УИК №2987",
     "tikTvd": "27720002782333",
-    "tikName": "район Северное Тушино"
+    "tikName": "район Северное Тушино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2988,
     "uikTvd": "4774074358750",
+    "uikName": "УИК №2988",
     "tikTvd": "27720002782333",
-    "tikName": "район Северное Тушино"
+    "tikName": "район Северное Тушино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2989,
     "uikTvd": "4774074358751",
+    "uikName": "УИК №2989",
     "tikTvd": "27720002782333",
-    "tikName": "район Северное Тушино"
+    "tikName": "район Северное Тушино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2991,
     "uikTvd": "4774074358752",
+    "uikName": "УИК №2991",
     "tikTvd": "27720002782333",
-    "tikName": "район Северное Тушино"
+    "tikName": "район Северное Тушино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2993,
     "uikTvd": "4774074358753",
+    "uikName": "УИК №2993",
     "tikTvd": "27720002782333",
-    "tikName": "район Северное Тушино"
+    "tikName": "район Северное Тушино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2995,
     "uikTvd": "4774074358754",
+    "uikName": "УИК №2995",
     "tikTvd": "27720002782333",
-    "tikName": "район Северное Тушино"
+    "tikName": "район Северное Тушино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2996,
     "uikTvd": "4774074358755",
+    "uikName": "УИК №2996",
     "tikTvd": "27720002782333",
-    "tikName": "район Северное Тушино"
+    "tikName": "район Северное Тушино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2997,
     "uikTvd": "4774074358756",
+    "uikName": "УИК №2997",
     "tikTvd": "27720002782333",
-    "tikName": "район Северное Тушино"
+    "tikName": "район Северное Тушино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 2999,
     "uikTvd": "4774074358757",
+    "uikName": "УИК №2999",
     "tikTvd": "27720002782333",
-    "tikName": "район Северное Тушино"
+    "tikName": "район Северное Тушино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3001,
     "uikTvd": "4774074358758",
+    "uikName": "УИК №3001",
     "tikTvd": "27720002782333",
-    "tikName": "район Северное Тушино"
+    "tikName": "район Северное Тушино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3003,
     "uikTvd": "4774074358759",
+    "uikName": "УИК №3003",
     "tikTvd": "27720002782333",
-    "tikName": "район Северное Тушино"
+    "tikName": "район Северное Тушино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3004,
     "uikTvd": "4774074358760",
+    "uikName": "УИК №3004",
     "tikTvd": "27720002782333",
-    "tikName": "район Северное Тушино"
+    "tikName": "район Северное Тушино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3006,
     "uikTvd": "4774074358761",
+    "uikName": "УИК №3006",
     "tikTvd": "27720002782333",
-    "tikName": "район Северное Тушино"
+    "tikName": "район Северное Тушино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3007,
     "uikTvd": "4774074358762",
+    "uikName": "УИК №3007",
     "tikTvd": "27720002782333",
-    "tikName": "район Северное Тушино"
+    "tikName": "район Северное Тушино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3009,
     "uikTvd": "4774074358763",
+    "uikName": "УИК №3009",
     "tikTvd": "27720002782333",
-    "tikName": "район Северное Тушино"
+    "tikName": "район Северное Тушино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3010,
     "uikTvd": "4774074358764",
+    "uikName": "УИК №3010",
     "tikTvd": "27720002782333",
-    "tikName": "район Северное Тушино"
+    "tikName": "район Северное Тушино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3012,
     "uikTvd": "4774074358765",
+    "uikName": "УИК №3012",
     "tikTvd": "27720002782333",
-    "tikName": "район Северное Тушино"
+    "tikName": "район Северное Тушино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3013,
     "uikTvd": "4774074358766",
+    "uikName": "УИК №3013",
     "tikTvd": "27720002782333",
-    "tikName": "район Северное Тушино"
+    "tikName": "район Северное Тушино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3014,
     "uikTvd": "4774074358767",
+    "uikName": "УИК №3014",
     "tikTvd": "27720002782333",
-    "tikName": "район Северное Тушино"
+    "tikName": "район Северное Тушино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3017,
     "uikTvd": "4774074358768",
+    "uikName": "УИК №3017",
     "tikTvd": "27720002782333",
-    "tikName": "район Северное Тушино"
+    "tikName": "район Северное Тушино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3020,
     "uikTvd": "4774075363077",
+    "uikName": "УИК №3020",
     "tikTvd": "27720002782295",
-    "tikName": "район Строгино"
+    "tikName": "район Строгино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3023,
     "uikTvd": "4774075363078",
+    "uikName": "УИК №3023",
     "tikTvd": "27720002782295",
-    "tikName": "район Строгино"
+    "tikName": "район Строгино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3024,
     "uikTvd": "4774075363079",
+    "uikName": "УИК №3024",
     "tikTvd": "27720002782295",
-    "tikName": "район Строгино"
+    "tikName": "район Строгино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3025,
     "uikTvd": "4774075363080",
+    "uikName": "УИК №3025",
     "tikTvd": "27720002782295",
-    "tikName": "район Строгино"
+    "tikName": "район Строгино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3026,
     "uikTvd": "4774075363081",
+    "uikName": "УИК №3026",
     "tikTvd": "27720002782295",
-    "tikName": "район Строгино"
+    "tikName": "район Строгино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3030,
     "uikTvd": "4774075363082",
+    "uikName": "УИК №3030",
     "tikTvd": "27720002782295",
-    "tikName": "район Строгино"
+    "tikName": "район Строгино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3033,
     "uikTvd": "4774075363083",
+    "uikName": "УИК №3033",
     "tikTvd": "27720002782295",
-    "tikName": "район Строгино"
+    "tikName": "район Строгино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3037,
     "uikTvd": "4774075363084",
+    "uikName": "УИК №3037",
     "tikTvd": "27720002782295",
-    "tikName": "район Строгино"
+    "tikName": "район Строгино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3038,
     "uikTvd": "4774075363085",
+    "uikName": "УИК №3038",
     "tikTvd": "27720002782295",
-    "tikName": "район Строгино"
+    "tikName": "район Строгино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3040,
     "uikTvd": "4774075363086",
+    "uikName": "УИК №3040",
     "tikTvd": "27720002782295",
-    "tikName": "район Строгино"
+    "tikName": "район Строгино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3041,
     "uikTvd": "4774075363087",
+    "uikName": "УИК №3041",
     "tikTvd": "27720002782295",
-    "tikName": "район Строгино"
+    "tikName": "район Строгино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3042,
     "uikTvd": "4774075363088",
+    "uikName": "УИК №3042",
     "tikTvd": "27720002782295",
-    "tikName": "район Строгино"
+    "tikName": "район Строгино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3045,
     "uikTvd": "4774075363089",
+    "uikName": "УИК №3045",
     "tikTvd": "27720002782295",
-    "tikName": "район Строгино"
+    "tikName": "район Строгино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3046,
     "uikTvd": "4774075363090",
+    "uikName": "УИК №3046",
     "tikTvd": "27720002782295",
-    "tikName": "район Строгино"
+    "tikName": "район Строгино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3048,
     "uikTvd": "4774075363091",
+    "uikName": "УИК №3048",
     "tikTvd": "27720002782295",
-    "tikName": "район Строгино"
+    "tikName": "район Строгино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3049,
     "uikTvd": "4774075363092",
+    "uikName": "УИК №3049",
     "tikTvd": "27720002782295",
-    "tikName": "район Строгино"
+    "tikName": "район Строгино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3050,
     "uikTvd": "4774075363093",
+    "uikName": "УИК №3050",
     "tikTvd": "27720002782295",
-    "tikName": "район Строгино"
+    "tikName": "район Строгино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3052,
     "uikTvd": "4774075363094",
+    "uikName": "УИК №3052",
     "tikTvd": "27720002782295",
-    "tikName": "район Строгино"
+    "tikName": "район Строгино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3054,
     "uikTvd": "4774075363095",
+    "uikName": "УИК №3054",
     "tikTvd": "27720002782295",
-    "tikName": "район Строгино"
+    "tikName": "район Строгино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3056,
     "uikTvd": "4774075363096",
+    "uikName": "УИК №3056",
     "tikTvd": "27720002782295",
-    "tikName": "район Строгино"
+    "tikName": "район Строгино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3057,
     "uikTvd": "4774075363097",
+    "uikName": "УИК №3057",
     "tikTvd": "27720002782295",
-    "tikName": "район Строгино"
+    "tikName": "район Строгино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3058,
     "uikTvd": "4774075363098",
+    "uikName": "УИК №3058",
     "tikTvd": "27720002782295",
-    "tikName": "район Строгино"
+    "tikName": "район Строгино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3060,
     "uikTvd": "4774075363099",
+    "uikName": "УИК №3060",
     "tikTvd": "27720002782295",
-    "tikName": "район Строгино"
+    "tikName": "район Строгино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3062,
     "uikTvd": "4774075363100",
+    "uikName": "УИК №3062",
     "tikTvd": "27720002782295",
-    "tikName": "район Строгино"
+    "tikName": "район Строгино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3063,
     "uikTvd": "4774075363101",
+    "uikName": "УИК №3063",
     "tikTvd": "27720002782295",
-    "tikName": "район Строгино"
+    "tikName": "район Строгино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3065,
     "uikTvd": "4774076399667",
+    "uikName": "УИК №3065",
     "tikTvd": "27720002782197",
-    "tikName": "район Хорошево-Мневники"
+    "tikName": "район Хорошево-Мневники",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3067,
     "uikTvd": "4774076399668",
+    "uikName": "УИК №3067",
     "tikTvd": "27720002782197",
-    "tikName": "район Хорошево-Мневники"
+    "tikName": "район Хорошево-Мневники",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3069,
     "uikTvd": "4774076399669",
+    "uikName": "УИК №3069",
     "tikTvd": "27720002782197",
-    "tikName": "район Хорошево-Мневники"
+    "tikName": "район Хорошево-Мневники",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3070,
     "uikTvd": "4774076399670",
+    "uikName": "УИК №3070",
     "tikTvd": "27720002782197",
-    "tikName": "район Хорошево-Мневники"
+    "tikName": "район Хорошево-Мневники",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3071,
     "uikTvd": "4774076399671",
+    "uikName": "УИК №3071",
     "tikTvd": "27720002782197",
-    "tikName": "район Хорошево-Мневники"
+    "tikName": "район Хорошево-Мневники",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3073,
     "uikTvd": "4774076399672",
+    "uikName": "УИК №3073",
     "tikTvd": "27720002782197",
-    "tikName": "район Хорошево-Мневники"
+    "tikName": "район Хорошево-Мневники",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3074,
     "uikTvd": "4774076399673",
+    "uikName": "УИК №3074",
     "tikTvd": "27720002782197",
-    "tikName": "район Хорошево-Мневники"
+    "tikName": "район Хорошево-Мневники",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3076,
     "uikTvd": "4774076399674",
+    "uikName": "УИК №3076",
     "tikTvd": "27720002782197",
-    "tikName": "район Хорошево-Мневники"
+    "tikName": "район Хорошево-Мневники",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3077,
     "uikTvd": "4774076399675",
+    "uikName": "УИК №3077",
     "tikTvd": "27720002782197",
-    "tikName": "район Хорошево-Мневники"
+    "tikName": "район Хорошево-Мневники",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3079,
     "uikTvd": "4774076399676",
+    "uikName": "УИК №3079",
     "tikTvd": "27720002782197",
-    "tikName": "район Хорошево-Мневники"
+    "tikName": "район Хорошево-Мневники",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3080,
     "uikTvd": "4774076399677",
+    "uikName": "УИК №3080",
     "tikTvd": "27720002782197",
-    "tikName": "район Хорошево-Мневники"
+    "tikName": "район Хорошево-Мневники",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3083,
     "uikTvd": "4774076399678",
+    "uikName": "УИК №3083",
     "tikTvd": "27720002782197",
-    "tikName": "район Хорошево-Мневники"
+    "tikName": "район Хорошево-Мневники",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3084,
     "uikTvd": "4774076399679",
+    "uikName": "УИК №3084",
     "tikTvd": "27720002782197",
-    "tikName": "район Хорошево-Мневники"
+    "tikName": "район Хорошево-Мневники",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3085,
     "uikTvd": "4774076399680",
+    "uikName": "УИК №3085",
     "tikTvd": "27720002782197",
-    "tikName": "район Хорошево-Мневники"
+    "tikName": "район Хорошево-Мневники",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3086,
     "uikTvd": "4774076399681",
+    "uikName": "УИК №3086",
     "tikTvd": "27720002782197",
-    "tikName": "район Хорошево-Мневники"
+    "tikName": "район Хорошево-Мневники",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3087,
     "uikTvd": "4774076399682",
+    "uikName": "УИК №3087",
     "tikTvd": "27720002782197",
-    "tikName": "район Хорошево-Мневники"
+    "tikName": "район Хорошево-Мневники",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3090,
     "uikTvd": "4774076399683",
+    "uikName": "УИК №3090",
     "tikTvd": "27720002782197",
-    "tikName": "район Хорошево-Мневники"
+    "tikName": "район Хорошево-Мневники",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3091,
     "uikTvd": "4774076399684",
+    "uikName": "УИК №3091",
     "tikTvd": "27720002782197",
-    "tikName": "район Хорошево-Мневники"
+    "tikName": "район Хорошево-Мневники",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3092,
     "uikTvd": "4774076399685",
+    "uikName": "УИК №3092",
     "tikTvd": "27720002782197",
-    "tikName": "район Хорошево-Мневники"
+    "tikName": "район Хорошево-Мневники",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3094,
     "uikTvd": "4774076399686",
+    "uikName": "УИК №3094",
     "tikTvd": "27720002782197",
-    "tikName": "район Хорошево-Мневники"
+    "tikName": "район Хорошево-Мневники",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3096,
     "uikTvd": "4774076399687",
+    "uikName": "УИК №3096",
     "tikTvd": "27720002782197",
-    "tikName": "район Хорошево-Мневники"
+    "tikName": "район Хорошево-Мневники",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3097,
     "uikTvd": "4774076399688",
+    "uikName": "УИК №3097",
     "tikTvd": "27720002782197",
-    "tikName": "район Хорошево-Мневники"
+    "tikName": "район Хорошево-Мневники",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3098,
     "uikTvd": "4774076399689",
+    "uikName": "УИК №3098",
     "tikTvd": "27720002782197",
-    "tikName": "район Хорошево-Мневники"
+    "tikName": "район Хорошево-Мневники",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3099,
     "uikTvd": "4774076399690",
+    "uikName": "УИК №3099",
     "tikTvd": "27720002782197",
-    "tikName": "район Хорошево-Мневники"
+    "tikName": "район Хорошево-Мневники",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3101,
     "uikTvd": "4774076399691",
+    "uikName": "УИК №3101",
     "tikTvd": "27720002782197",
-    "tikName": "район Хорошево-Мневники"
+    "tikName": "район Хорошево-Мневники",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3103,
     "uikTvd": "4774076399692",
+    "uikName": "УИК №3103",
     "tikTvd": "27720002782197",
-    "tikName": "район Хорошево-Мневники"
+    "tikName": "район Хорошево-Мневники",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3105,
     "uikTvd": "4774076399693",
+    "uikName": "УИК №3105",
     "tikTvd": "27720002782197",
-    "tikName": "район Хорошево-Мневники"
+    "tikName": "район Хорошево-Мневники",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3106,
     "uikTvd": "4774076399694",
+    "uikName": "УИК №3106",
     "tikTvd": "27720002782197",
-    "tikName": "район Хорошево-Мневники"
+    "tikName": "район Хорошево-Мневники",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3107,
     "uikTvd": "4774076399695",
+    "uikName": "УИК №3107",
     "tikTvd": "27720002782197",
-    "tikName": "район Хорошево-Мневники"
+    "tikName": "район Хорошево-Мневники",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3109,
     "uikTvd": "4774076399696",
+    "uikName": "УИК №3109",
     "tikTvd": "27720002782197",
-    "tikName": "район Хорошево-Мневники"
+    "tikName": "район Хорошево-Мневники",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3112,
     "uikTvd": "4774077323052",
+    "uikName": "УИК №3112",
     "tikTvd": "27720002782219",
-    "tikName": "район Щукино"
+    "tikName": "район Щукино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3113,
     "uikTvd": "4774077323053",
+    "uikName": "УИК №3113",
     "tikTvd": "27720002782219",
-    "tikName": "район Щукино"
+    "tikName": "район Щукино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3114,
     "uikTvd": "4774077323054",
+    "uikName": "УИК №3114",
     "tikTvd": "27720002782219",
-    "tikName": "район Щукино"
+    "tikName": "район Щукино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3115,
     "uikTvd": "4774077323055",
+    "uikName": "УИК №3115",
     "tikTvd": "27720002782219",
-    "tikName": "район Щукино"
+    "tikName": "район Щукино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3117,
     "uikTvd": "4774077323056",
+    "uikName": "УИК №3117",
     "tikTvd": "27720002782219",
-    "tikName": "район Щукино"
+    "tikName": "район Щукино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3121,
     "uikTvd": "4774077323057",
+    "uikName": "УИК №3121",
     "tikTvd": "27720002782219",
-    "tikName": "район Щукино"
+    "tikName": "район Щукино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3122,
     "uikTvd": "4774077323058",
+    "uikName": "УИК №3122",
     "tikTvd": "27720002782219",
-    "tikName": "район Щукино"
+    "tikName": "район Щукино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3123,
     "uikTvd": "4774077323059",
+    "uikName": "УИК №3123",
     "tikTvd": "27720002782219",
-    "tikName": "район Щукино"
+    "tikName": "район Щукино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3124,
     "uikTvd": "4774077323060",
+    "uikName": "УИК №3124",
     "tikTvd": "27720002782219",
-    "tikName": "район Щукино"
+    "tikName": "район Щукино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3125,
     "uikTvd": "4774077323061",
+    "uikName": "УИК №3125",
     "tikTvd": "27720002782219",
-    "tikName": "район Щукино"
+    "tikName": "район Щукино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3126,
     "uikTvd": "4774077323062",
+    "uikName": "УИК №3126",
     "tikTvd": "27720002782219",
-    "tikName": "район Щукино"
+    "tikName": "район Щукино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3129,
     "uikTvd": "4774077323063",
+    "uikName": "УИК №3129",
     "tikTvd": "27720002782219",
-    "tikName": "район Щукино"
+    "tikName": "район Щукино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3131,
     "uikTvd": "4774077323064",
+    "uikName": "УИК №3131",
     "tikTvd": "27720002782219",
-    "tikName": "район Щукино"
+    "tikName": "район Щукино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3132,
     "uikTvd": "4774077323065",
+    "uikName": "УИК №3132",
     "tikTvd": "27720002782219",
-    "tikName": "район Щукино"
+    "tikName": "район Щукино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3133,
     "uikTvd": "4774077323066",
+    "uikName": "УИК №3133",
     "tikTvd": "27720002782219",
-    "tikName": "район Щукино"
+    "tikName": "район Щукино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3137,
     "uikTvd": "4774077323067",
+    "uikName": "УИК №3137",
     "tikTvd": "27720002782219",
-    "tikName": "район Щукино"
+    "tikName": "район Щукино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3139,
     "uikTvd": "4774077323068",
+    "uikName": "УИК №3139",
     "tikTvd": "27720002782219",
-    "tikName": "район Щукино"
+    "tikName": "район Щукино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3140,
     "uikTvd": "4774078256987",
+    "uikName": "УИК №3140",
     "tikTvd": "27720002782253",
-    "tikName": "район Южное Тушино"
+    "tikName": "район Южное Тушино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3143,
     "uikTvd": "4774078256988",
+    "uikName": "УИК №3143",
     "tikTvd": "27720002782253",
-    "tikName": "район Южное Тушино"
+    "tikName": "район Южное Тушино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3144,
     "uikTvd": "4774078256989",
+    "uikName": "УИК №3144",
     "tikTvd": "27720002782253",
-    "tikName": "район Южное Тушино"
+    "tikName": "район Южное Тушино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3147,
     "uikTvd": "4774078256990",
+    "uikName": "УИК №3147",
     "tikTvd": "27720002782253",
-    "tikName": "район Южное Тушино"
+    "tikName": "район Южное Тушино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3148,
     "uikTvd": "4774078256991",
+    "uikName": "УИК №3148",
     "tikTvd": "27720002782253",
-    "tikName": "район Южное Тушино"
+    "tikName": "район Южное Тушино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3149,
     "uikTvd": "4774078256992",
+    "uikName": "УИК №3149",
     "tikTvd": "27720002782253",
-    "tikName": "район Южное Тушино"
+    "tikName": "район Южное Тушино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3151,
     "uikTvd": "4774078256993",
+    "uikName": "УИК №3151",
     "tikTvd": "27720002782253",
-    "tikName": "район Южное Тушино"
+    "tikName": "район Южное Тушино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3153,
     "uikTvd": "4774078256994",
+    "uikName": "УИК №3153",
     "tikTvd": "27720002782253",
-    "tikName": "район Южное Тушино"
+    "tikName": "район Южное Тушино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3157,
     "uikTvd": "4774078256995",
+    "uikName": "УИК №3157",
     "tikTvd": "27720002782253",
-    "tikName": "район Южное Тушино"
+    "tikName": "район Южное Тушино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3159,
     "uikTvd": "4774078256996",
+    "uikName": "УИК №3159",
     "tikTvd": "27720002782253",
-    "tikName": "район Южное Тушино"
+    "tikName": "район Южное Тушино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3160,
     "uikTvd": "4774078256997",
+    "uikName": "УИК №3160",
     "tikTvd": "27720002782253",
-    "tikName": "район Южное Тушино"
+    "tikName": "район Южное Тушино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3162,
     "uikTvd": "4774078256998",
+    "uikName": "УИК №3162",
     "tikTvd": "27720002782253",
-    "tikName": "район Южное Тушино"
+    "tikName": "район Южное Тушино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3164,
     "uikTvd": "4774078256999",
+    "uikName": "УИК №3164",
     "tikTvd": "27720002782253",
-    "tikName": "район Южное Тушино"
+    "tikName": "район Южное Тушино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3167,
     "uikTvd": "4774078257000",
+    "uikName": "УИК №3167",
     "tikTvd": "27720002782253",
-    "tikName": "район Южное Тушино"
+    "tikName": "район Южное Тушино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3168,
     "uikTvd": "4774078257001",
+    "uikName": "УИК №3168",
     "tikTvd": "27720002782253",
-    "tikName": "район Южное Тушино"
+    "tikName": "район Южное Тушино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3170,
     "uikTvd": "4774078257002",
+    "uikName": "УИК №3170",
     "tikTvd": "27720002782253",
-    "tikName": "район Южное Тушино"
+    "tikName": "район Южное Тушино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3172,
     "uikTvd": "4774033332178",
+    "uikName": "УИК №3172",
     "tikTvd": "27720002782210",
-    "tikName": "район Крюково"
+    "tikName": "район Крюково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3173,
     "uikTvd": "4774033332179",
+    "uikName": "УИК №3173",
     "tikTvd": "27720002782210",
-    "tikName": "район Крюково"
+    "tikName": "район Крюково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3177,
     "uikTvd": "4774033332180",
+    "uikName": "УИК №3177",
     "tikTvd": "27720002782210",
-    "tikName": "район Крюково"
+    "tikName": "район Крюково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3180,
     "uikTvd": "4774033332181",
+    "uikName": "УИК №3180",
     "tikTvd": "27720002782210",
-    "tikName": "район Крюково"
+    "tikName": "район Крюково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3182,
     "uikTvd": "4774033332182",
+    "uikName": "УИК №3182",
     "tikTvd": "27720002782210",
-    "tikName": "район Крюково"
+    "tikName": "район Крюково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3183,
     "uikTvd": "4774033332183",
+    "uikName": "УИК №3183",
     "tikTvd": "27720002782210",
-    "tikName": "район Крюково"
+    "tikName": "район Крюково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3186,
     "uikTvd": "4774033332184",
+    "uikName": "УИК №3186",
     "tikTvd": "27720002782210",
-    "tikName": "район Крюково"
+    "tikName": "район Крюково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3187,
     "uikTvd": "4774033332185",
+    "uikName": "УИК №3187",
     "tikTvd": "27720002782210",
-    "tikName": "район Крюково"
+    "tikName": "район Крюково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3188,
     "uikTvd": "4774033332186",
+    "uikName": "УИК №3188",
     "tikTvd": "27720002782210",
-    "tikName": "район Крюково"
+    "tikName": "район Крюково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3190,
     "uikTvd": "4774033332187",
+    "uikName": "УИК №3190",
     "tikTvd": "27720002782210",
-    "tikName": "район Крюково"
+    "tikName": "район Крюково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3191,
     "uikTvd": "4774033332188",
+    "uikName": "УИК №3191",
     "tikTvd": "27720002782210",
-    "tikName": "район Крюково"
+    "tikName": "район Крюково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3193,
     "uikTvd": "4774033332189",
+    "uikName": "УИК №3193",
     "tikTvd": "27720002782210",
-    "tikName": "район Крюково"
+    "tikName": "район Крюково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3197,
     "uikTvd": "4774033332190",
+    "uikName": "УИК №3197",
     "tikTvd": "27720002782210",
-    "tikName": "район Крюково"
+    "tikName": "район Крюково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3198,
     "uikTvd": "4774033332191",
+    "uikName": "УИК №3198",
     "tikTvd": "27720002782210",
-    "tikName": "район Крюково"
+    "tikName": "район Крюково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3201,
     "uikTvd": "4774033332192",
+    "uikName": "УИК №3201",
     "tikTvd": "27720002782210",
-    "tikName": "район Крюково"
+    "tikName": "район Крюково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3203,
     "uikTvd": "4774033332193",
+    "uikName": "УИК №3203",
     "tikTvd": "27720002782210",
-    "tikName": "район Крюково"
+    "tikName": "район Крюково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3207,
     "uikTvd": "4774033332194",
+    "uikName": "УИК №3207",
     "tikTvd": "27720002782210",
-    "tikName": "район Крюково"
+    "tikName": "район Крюково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3210,
     "uikTvd": "4774033332195",
+    "uikName": "УИК №3210",
     "tikTvd": "27720002782210",
-    "tikName": "район Крюково"
+    "tikName": "район Крюково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3212,
     "uikTvd": "4774033332196",
+    "uikName": "УИК №3212",
     "tikTvd": "27720002782210",
-    "tikName": "район Крюково"
+    "tikName": "район Крюково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3214,
     "uikTvd": "4774035228309",
+    "uikName": "УИК №3214",
     "tikTvd": "27720002782335",
-    "tikName": "район Матушкино"
+    "tikName": "район Матушкино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3219,
     "uikTvd": "4774035228310",
+    "uikName": "УИК №3219",
     "tikTvd": "27720002782335",
-    "tikName": "район Матушкино"
+    "tikName": "район Матушкино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3221,
     "uikTvd": "4774035228311",
+    "uikName": "УИК №3221",
     "tikTvd": "27720002782335",
-    "tikName": "район Матушкино"
+    "tikName": "район Матушкино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3223,
     "uikTvd": "4774035228312",
+    "uikName": "УИК №3223",
     "tikTvd": "27720002782335",
-    "tikName": "район Матушкино"
+    "tikName": "район Матушкино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3225,
     "uikTvd": "4774035228313",
+    "uikName": "УИК №3225",
     "tikTvd": "27720002782335",
-    "tikName": "район Матушкино"
+    "tikName": "район Матушкино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3227,
     "uikTvd": "4774035228314",
+    "uikName": "УИК №3227",
     "tikTvd": "27720002782335",
-    "tikName": "район Матушкино"
+    "tikName": "район Матушкино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3229,
     "uikTvd": "4774035228315",
+    "uikName": "УИК №3229",
     "tikTvd": "27720002782335",
-    "tikName": "район Матушкино"
+    "tikName": "район Матушкино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3231,
     "uikTvd": "4774035228316",
+    "uikName": "УИК №3231",
     "tikTvd": "27720002782335",
-    "tikName": "район Матушкино"
+    "tikName": "район Матушкино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3237,
     "uikTvd": "4774035228317",
+    "uikName": "УИК №3237",
     "tikTvd": "27720002782335",
-    "tikName": "район Матушкино"
+    "tikName": "район Матушкино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3238,
     "uikTvd": "4774040209835",
+    "uikName": "УИК №3238",
     "tikTvd": "27720002782334",
-    "tikName": "район Савелки"
+    "tikName": "район Савелки",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3241,
     "uikTvd": "4774040209836",
+    "uikName": "УИК №3241",
     "tikTvd": "27720002782334",
-    "tikName": "район Савелки"
+    "tikName": "район Савелки",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3244,
     "uikTvd": "4774040209837",
+    "uikName": "УИК №3244",
     "tikTvd": "27720002782334",
-    "tikName": "район Савелки"
+    "tikName": "район Савелки",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3245,
     "uikTvd": "4774040209838",
+    "uikName": "УИК №3245",
     "tikTvd": "27720002782334",
-    "tikName": "район Савелки"
+    "tikName": "район Савелки",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3248,
     "uikTvd": "4774040209839",
+    "uikName": "УИК №3248",
     "tikTvd": "27720002782334",
-    "tikName": "район Савелки"
+    "tikName": "район Савелки",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3249,
     "uikTvd": "4774040209840",
+    "uikName": "УИК №3249",
     "tikTvd": "27720002782334",
-    "tikName": "район Савелки"
+    "tikName": "район Савелки",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3251,
     "uikTvd": "4774040209841",
+    "uikName": "УИК №3251",
     "tikTvd": "27720002782334",
-    "tikName": "район Савелки"
+    "tikName": "район Савелки",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3254,
     "uikTvd": "4774040209842",
+    "uikName": "УИК №3254",
     "tikTvd": "27720002782334",
-    "tikName": "район Савелки"
+    "tikName": "район Савелки",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3258,
     "uikTvd": "4774032233447",
+    "uikName": "УИК №3258",
     "tikTvd": "27720002782206",
-    "tikName": "район Силино"
+    "tikName": "район Силино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3259,
     "uikTvd": "4774032233448",
+    "uikName": "УИК №3259",
     "tikTvd": "27720002782206",
-    "tikName": "район Силино"
+    "tikName": "район Силино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3261,
     "uikTvd": "4774032233449",
+    "uikName": "УИК №3261",
     "tikTvd": "27720002782206",
-    "tikName": "район Силино"
+    "tikName": "район Силино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3265,
     "uikTvd": "4774032233450",
+    "uikName": "УИК №3265",
     "tikTvd": "27720002782206",
-    "tikName": "район Силино"
+    "tikName": "район Силино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3266,
     "uikTvd": "4774032233451",
+    "uikName": "УИК №3266",
     "tikTvd": "27720002782206",
-    "tikName": "район Силино"
+    "tikName": "район Силино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3270,
     "uikTvd": "4774032233452",
+    "uikName": "УИК №3270",
     "tikTvd": "27720002782206",
-    "tikName": "район Силино"
+    "tikName": "район Силино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3271,
     "uikTvd": "4774032233453",
+    "uikName": "УИК №3271",
     "tikTvd": "27720002782206",
-    "tikName": "район Силино"
+    "tikName": "район Силино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3281,
     "uikTvd": "4774032233454",
+    "uikName": "УИК №3281",
     "tikTvd": "27720002782206",
-    "tikName": "район Силино"
+    "tikName": "район Силино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3284,
     "uikTvd": "4774034207209",
+    "uikName": "УИК №3284",
     "tikTvd": "27720002782288",
-    "tikName": "район Старое Крюково"
+    "tikName": "район Старое Крюково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3286,
     "uikTvd": "4774034207210",
+    "uikName": "УИК №3286",
     "tikTvd": "27720002782288",
-    "tikName": "район Старое Крюково"
+    "tikName": "район Старое Крюково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3288,
     "uikTvd": "4774034207211",
+    "uikName": "УИК №3288",
     "tikTvd": "27720002782288",
-    "tikName": "район Старое Крюково"
+    "tikName": "район Старое Крюково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3289,
     "uikTvd": "4774034207212",
+    "uikName": "УИК №3289",
     "tikTvd": "27720002782288",
-    "tikName": "район Старое Крюково"
+    "tikName": "район Старое Крюково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3291,
     "uikTvd": "4774034207213",
+    "uikName": "УИК №3291",
     "tikTvd": "27720002782288",
-    "tikName": "район Старое Крюково"
+    "tikName": "район Старое Крюково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3293,
     "uikTvd": "4774034207214",
+    "uikName": "УИК №3293",
     "tikTvd": "27720002782288",
-    "tikName": "район Старое Крюково"
+    "tikName": "район Старое Крюково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3294,
     "uikTvd": "4774034207215",
+    "uikName": "УИК №3294",
     "tikTvd": "27720002782288",
-    "tikName": "район Старое Крюково"
+    "tikName": "район Старое Крюково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3297,
     "uikTvd": "4774034207216",
+    "uikName": "УИК №3297",
     "tikTvd": "27720002782288",
-    "tikName": "район Старое Крюково"
+    "tikName": "район Старое Крюково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3299,
     "uikTvd": "4774132410496",
+    "uikName": "УИК №3299",
     "tikTvd": "27720002782321",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3300,
     "uikTvd": "4774132410497",
+    "uikName": "УИК №3300",
     "tikTvd": "27720002782321",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3301,
     "uikTvd": "4774132410498",
+    "uikName": "УИК №3301",
     "tikTvd": "27720002782321",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3302,
     "uikTvd": "4774132410499",
+    "uikName": "УИК №3302",
     "tikTvd": "27720002782321",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3303,
     "uikTvd": "4774134411178",
+    "uikName": "УИК №3303",
     "tikTvd": "27720002782273",
-    "tikName": "Сосенская"
+    "tikName": "Сосенская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3304,
     "uikTvd": "4774134411179",
+    "uikName": "УИК №3304",
     "tikTvd": "27720002782273",
-    "tikName": "Сосенская"
+    "tikName": "Сосенская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3305,
     "uikTvd": "4774134411180",
+    "uikName": "УИК №3305",
     "tikTvd": "27720002782273",
-    "tikName": "Сосенская"
+    "tikName": "Сосенская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3306,
     "uikTvd": "4774132410500",
+    "uikName": "УИК №3306",
     "tikTvd": "27720002782321",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3307,
     "uikTvd": "4774132410501",
+    "uikName": "УИК №3307",
     "tikTvd": "27720002782321",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3308,
     "uikTvd": "4774132410502",
+    "uikName": "УИК №3308",
     "tikTvd": "27720002782321",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3309,
     "uikTvd": "4774132410503",
+    "uikName": "УИК №3309",
     "tikTvd": "27720002782321",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3310,
     "uikTvd": "4774132410504",
+    "uikName": "УИК №3310",
     "tikTvd": "27720002782321",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3311,
     "uikTvd": "4774132410505",
+    "uikName": "УИК №3311",
     "tikTvd": "27720002782321",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3312,
     "uikTvd": "4774132410506",
+    "uikName": "УИК №3312",
     "tikTvd": "27720002782321",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3313,
     "uikTvd": "4774132410507",
+    "uikName": "УИК №3313",
     "tikTvd": "27720002782321",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3314,
     "uikTvd": "4774132410508",
+    "uikName": "УИК №3314",
     "tikTvd": "27720002782321",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3315,
     "uikTvd": "4774132410509",
+    "uikName": "УИК №3315",
     "tikTvd": "27720002782321",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3316,
     "uikTvd": "4774132410510",
+    "uikName": "УИК №3316",
     "tikTvd": "27720002782321",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3317,
     "uikTvd": "4774132410511",
+    "uikName": "УИК №3317",
     "tikTvd": "27720002782321",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3318,
     "uikTvd": "4774132410512",
+    "uikName": "УИК №3318",
     "tikTvd": "27720002782321",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3319,
     "uikTvd": "4774132410513",
+    "uikName": "УИК №3319",
     "tikTvd": "27720002782321",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3320,
     "uikTvd": "4774132410514",
+    "uikName": "УИК №3320",
     "tikTvd": "27720002782321",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3321,
     "uikTvd": "4774132410515",
+    "uikName": "УИК №3321",
     "tikTvd": "27720002782321",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3322,
     "uikTvd": "4774132410516",
+    "uikName": "УИК №3322",
     "tikTvd": "27720002782321",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3323,
     "uikTvd": "4774132410517",
+    "uikName": "УИК №3323",
     "tikTvd": "27720002782321",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3325,
     "uikTvd": "4774132410518",
+    "uikName": "УИК №3325",
     "tikTvd": "27720002782321",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3326,
     "uikTvd": "4774132410519",
+    "uikName": "УИК №3326",
     "tikTvd": "27720002782321",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3327,
     "uikTvd": "4774132410520",
+    "uikName": "УИК №3327",
     "tikTvd": "27720002782321",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3328,
     "uikTvd": "4774132410521",
+    "uikName": "УИК №3328",
     "tikTvd": "27720002782321",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3329,
     "uikTvd": "4774132410522",
+    "uikName": "УИК №3329",
     "tikTvd": "27720002782321",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3330,
     "uikTvd": "4774132410523",
+    "uikName": "УИК №3330",
     "tikTvd": "27720002782321",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3331,
     "uikTvd": "4774134411181",
+    "uikName": "УИК №3331",
     "tikTvd": "27720002782273",
-    "tikName": "Сосенская"
+    "tikName": "Сосенская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3332,
     "uikTvd": "4774134411182",
+    "uikName": "УИК №3332",
     "tikTvd": "27720002782273",
-    "tikName": "Сосенская"
+    "tikName": "Сосенская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3333,
     "uikTvd": "4774134411183",
+    "uikName": "УИК №3333",
     "tikTvd": "27720002782273",
-    "tikName": "Сосенская"
+    "tikName": "Сосенская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3334,
     "uikTvd": "4774134411184",
+    "uikName": "УИК №3334",
     "tikTvd": "27720002782273",
-    "tikName": "Сосенская"
+    "tikName": "Сосенская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3335,
     "uikTvd": "4774134411185",
+    "uikName": "УИК №3335",
     "tikTvd": "27720002782273",
-    "tikName": "Сосенская"
+    "tikName": "Сосенская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3336,
     "uikTvd": "4774134411186",
+    "uikName": "УИК №3336",
     "tikTvd": "27720002782273",
-    "tikName": "Сосенская"
+    "tikName": "Сосенская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3337,
     "uikTvd": "4774134411187",
+    "uikName": "УИК №3337",
     "tikTvd": "27720002782273",
-    "tikName": "Сосенская"
+    "tikName": "Сосенская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3338,
     "uikTvd": "4774134411188",
+    "uikName": "УИК №3338",
     "tikTvd": "27720002782273",
-    "tikName": "Сосенская"
+    "tikName": "Сосенская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3339,
     "uikTvd": "4774134411189",
+    "uikName": "УИК №3339",
     "tikTvd": "27720002782273",
-    "tikName": "Сосенская"
+    "tikName": "Сосенская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3340,
     "uikTvd": "4774134411190",
+    "uikName": "УИК №3340",
     "tikTvd": "27720002782273",
-    "tikName": "Сосенская"
+    "tikName": "Сосенская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3341,
     "uikTvd": "4774134411191",
+    "uikName": "УИК №3341",
     "tikTvd": "27720002782273",
-    "tikName": "Сосенская"
+    "tikName": "Сосенская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3342,
     "uikTvd": "4774134411192",
+    "uikName": "УИК №3342",
     "tikTvd": "27720002782273",
-    "tikName": "Сосенская"
+    "tikName": "Сосенская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3343,
     "uikTvd": "4774134411193",
+    "uikName": "УИК №3343",
     "tikTvd": "27720002782273",
-    "tikName": "Сосенская"
+    "tikName": "Сосенская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3344,
     "uikTvd": "4774134411194",
+    "uikName": "УИК №3344",
     "tikTvd": "27720002782273",
-    "tikName": "Сосенская"
+    "tikName": "Сосенская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3345,
     "uikTvd": "4774134411195",
+    "uikName": "УИК №3345",
     "tikTvd": "27720002782273",
-    "tikName": "Сосенская"
+    "tikName": "Сосенская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3346,
     "uikTvd": "4774134411196",
+    "uikName": "УИК №3346",
     "tikTvd": "27720002782273",
-    "tikName": "Сосенская"
+    "tikName": "Сосенская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3347,
     "uikTvd": "4774134411197",
+    "uikName": "УИК №3347",
     "tikTvd": "27720002782273",
-    "tikName": "Сосенская"
+    "tikName": "Сосенская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3348,
     "uikTvd": "4774134411198",
+    "uikName": "УИК №3348",
     "tikTvd": "27720002782273",
-    "tikName": "Сосенская"
+    "tikName": "Сосенская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3349,
     "uikTvd": "4774134411199",
+    "uikName": "УИК №3349",
     "tikTvd": "27720002782273",
-    "tikName": "Сосенская"
+    "tikName": "Сосенская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3350,
     "uikTvd": "4774134411200",
+    "uikName": "УИК №3350",
     "tikTvd": "27720002782273",
-    "tikName": "Сосенская"
+    "tikName": "Сосенская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3352,
     "uikTvd": "4774132410524",
+    "uikName": "УИК №3352",
     "tikTvd": "27720002782321",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3353,
     "uikTvd": "4774132410525",
+    "uikName": "УИК №3353",
     "tikTvd": "27720002782321",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3354,
     "uikTvd": "4774132410526",
+    "uikName": "УИК №3354",
     "tikTvd": "27720002782321",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3355,
     "uikTvd": "4774132410527",
+    "uikName": "УИК №3355",
     "tikTvd": "27720002782321",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3356,
     "uikTvd": "4774134411201",
+    "uikName": "УИК №3356",
     "tikTvd": "27720002782273",
-    "tikName": "Сосенская"
+    "tikName": "Сосенская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3357,
     "uikTvd": "4774134411202",
+    "uikName": "УИК №3357",
     "tikTvd": "27720002782273",
-    "tikName": "Сосенская"
+    "tikName": "Сосенская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3358,
     "uikTvd": "4774134411203",
+    "uikName": "УИК №3358",
     "tikTvd": "27720002782273",
-    "tikName": "Сосенская"
+    "tikName": "Сосенская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3359,
     "uikTvd": "4774134411204",
+    "uikName": "УИК №3359",
     "tikTvd": "27720002782273",
-    "tikName": "Сосенская"
+    "tikName": "Сосенская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3360,
     "uikTvd": "4774134411205",
+    "uikName": "УИК №3360",
     "tikTvd": "27720002782273",
-    "tikName": "Сосенская"
+    "tikName": "Сосенская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3361,
     "uikTvd": "4774134411206",
+    "uikName": "УИК №3361",
     "tikTvd": "27720002782273",
-    "tikName": "Сосенская"
+    "tikName": "Сосенская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3362,
     "uikTvd": "4774134411207",
+    "uikName": "УИК №3362",
     "tikTvd": "27720002782273",
-    "tikName": "Сосенская"
+    "tikName": "Сосенская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3363,
     "uikTvd": "4774134411208",
+    "uikName": "УИК №3363",
     "tikTvd": "27720002782273",
-    "tikName": "Сосенская"
+    "tikName": "Сосенская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3364,
     "uikTvd": "4774134411209",
+    "uikName": "УИК №3364",
     "tikTvd": "27720002782273",
-    "tikName": "Сосенская"
+    "tikName": "Сосенская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3365,
     "uikTvd": "4774134411210",
+    "uikName": "УИК №3365",
     "tikTvd": "27720002782273",
-    "tikName": "Сосенская"
+    "tikName": "Сосенская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3366,
     "uikTvd": "4774134411211",
+    "uikName": "УИК №3366",
     "tikTvd": "27720002782273",
-    "tikName": "Сосенская"
+    "tikName": "Сосенская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3367,
     "uikTvd": "4774134411212",
+    "uikName": "УИК №3367",
     "tikTvd": "27720002782273",
-    "tikName": "Сосенская"
+    "tikName": "Сосенская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3368,
     "uikTvd": "4774134411213",
+    "uikName": "УИК №3368",
     "tikTvd": "27720002782273",
-    "tikName": "Сосенская"
+    "tikName": "Сосенская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3369,
     "uikTvd": "4774134411214",
+    "uikName": "УИК №3369",
     "tikTvd": "27720002782273",
-    "tikName": "Сосенская"
+    "tikName": "Сосенская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3370,
     "uikTvd": "4774133419873",
+    "uikName": "УИК №3370",
     "tikTvd": "27720002782192",
-    "tikName": "Троицкий административный округ"
+    "tikName": "Троицкий административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3371,
     "uikTvd": "4774133419874",
+    "uikName": "УИК №3371",
     "tikTvd": "27720002782192",
-    "tikName": "Троицкий административный округ"
+    "tikName": "Троицкий административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3372,
     "uikTvd": "4774133419875",
+    "uikName": "УИК №3372",
     "tikTvd": "27720002782192",
-    "tikName": "Троицкий административный округ"
+    "tikName": "Троицкий административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3373,
     "uikTvd": "4774133419876",
+    "uikName": "УИК №3373",
     "tikTvd": "27720002782192",
-    "tikName": "Троицкий административный округ"
+    "tikName": "Троицкий административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3374,
     "uikTvd": "4774133419877",
+    "uikName": "УИК №3374",
     "tikTvd": "27720002782192",
-    "tikName": "Троицкий административный округ"
+    "tikName": "Троицкий административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3375,
     "uikTvd": "4774133419878",
+    "uikName": "УИК №3375",
     "tikTvd": "27720002782192",
-    "tikName": "Троицкий административный округ"
+    "tikName": "Троицкий административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3376,
     "uikTvd": "4774133419879",
+    "uikName": "УИК №3376",
     "tikTvd": "27720002782192",
-    "tikName": "Троицкий административный округ"
+    "tikName": "Троицкий административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3377,
     "uikTvd": "4774133419880",
+    "uikName": "УИК №3377",
     "tikTvd": "27720002782192",
-    "tikName": "Троицкий административный округ"
+    "tikName": "Троицкий административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3378,
     "uikTvd": "4774133419881",
+    "uikName": "УИК №3378",
     "tikTvd": "27720002782192",
-    "tikName": "Троицкий административный округ"
+    "tikName": "Троицкий административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3379,
     "uikTvd": "4774133419882",
+    "uikName": "УИК №3379",
     "tikTvd": "27720002782192",
-    "tikName": "Троицкий административный округ"
+    "tikName": "Троицкий административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3380,
     "uikTvd": "4774133419883",
+    "uikName": "УИК №3380",
     "tikTvd": "27720002782192",
-    "tikName": "Троицкий административный округ"
+    "tikName": "Троицкий административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3381,
     "uikTvd": "4774133419884",
+    "uikName": "УИК №3381",
     "tikTvd": "27720002782192",
-    "tikName": "Троицкий административный округ"
+    "tikName": "Троицкий административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3382,
     "uikTvd": "4774133419885",
+    "uikName": "УИК №3382",
     "tikTvd": "27720002782192",
-    "tikName": "Троицкий административный округ"
+    "tikName": "Троицкий административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3383,
     "uikTvd": "4774133419886",
+    "uikName": "УИК №3383",
     "tikTvd": "27720002782192",
-    "tikName": "Троицкий административный округ"
+    "tikName": "Троицкий административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3384,
     "uikTvd": "4774133419887",
+    "uikName": "УИК №3384",
     "tikTvd": "27720002782192",
-    "tikName": "Троицкий административный округ"
+    "tikName": "Троицкий административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3385,
     "uikTvd": "4774133419888",
+    "uikName": "УИК №3385",
     "tikTvd": "27720002782192",
-    "tikName": "Троицкий административный округ"
+    "tikName": "Троицкий административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3386,
     "uikTvd": "4774133419889",
+    "uikName": "УИК №3386",
     "tikTvd": "27720002782192",
-    "tikName": "Троицкий административный округ"
+    "tikName": "Троицкий административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3387,
     "uikTvd": "4774133419890",
+    "uikName": "УИК №3387",
     "tikTvd": "27720002782192",
-    "tikName": "Троицкий административный округ"
+    "tikName": "Троицкий административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3388,
     "uikTvd": "4774133419891",
+    "uikName": "УИК №3388",
     "tikTvd": "27720002782192",
-    "tikName": "Троицкий административный округ"
+    "tikName": "Троицкий административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3389,
     "uikTvd": "4774133419892",
+    "uikName": "УИК №3389",
     "tikTvd": "27720002782192",
-    "tikName": "Троицкий административный округ"
+    "tikName": "Троицкий административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3390,
     "uikTvd": "4774133419893",
+    "uikName": "УИК №3390",
     "tikTvd": "27720002782192",
-    "tikName": "Троицкий административный округ"
+    "tikName": "Троицкий административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3391,
     "uikTvd": "4774133419894",
+    "uikName": "УИК №3391",
     "tikTvd": "27720002782192",
-    "tikName": "Троицкий административный округ"
+    "tikName": "Троицкий административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3392,
     "uikTvd": "4774133419895",
+    "uikName": "УИК №3392",
     "tikTvd": "27720002782192",
-    "tikName": "Троицкий административный округ"
+    "tikName": "Троицкий административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3393,
     "uikTvd": "4774133419896",
+    "uikName": "УИК №3393",
     "tikTvd": "27720002782192",
-    "tikName": "Троицкий административный округ"
+    "tikName": "Троицкий административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3394,
     "uikTvd": "4774133419897",
+    "uikName": "УИК №3394",
     "tikTvd": "27720002782192",
-    "tikName": "Троицкий административный округ"
+    "tikName": "Троицкий административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3395,
     "uikTvd": "4774133419898",
+    "uikName": "УИК №3395",
     "tikTvd": "27720002782192",
-    "tikName": "Троицкий административный округ"
+    "tikName": "Троицкий административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3396,
     "uikTvd": "4774133419899",
+    "uikName": "УИК №3396",
     "tikTvd": "27720002782192",
-    "tikName": "Троицкий административный округ"
+    "tikName": "Троицкий административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3397,
     "uikTvd": "4774133419900",
+    "uikName": "УИК №3397",
     "tikTvd": "27720002782192",
-    "tikName": "Троицкий административный округ"
+    "tikName": "Троицкий административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3398,
     "uikTvd": "4774133419901",
+    "uikName": "УИК №3398",
     "tikTvd": "27720002782192",
-    "tikName": "Троицкий административный округ"
+    "tikName": "Троицкий административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3399,
     "uikTvd": "4774133419902",
+    "uikName": "УИК №3399",
     "tikTvd": "27720002782192",
-    "tikName": "Троицкий административный округ"
+    "tikName": "Троицкий административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3400,
     "uikTvd": "4774133419903",
+    "uikName": "УИК №3400",
     "tikTvd": "27720002782192",
-    "tikName": "Троицкий административный округ"
+    "tikName": "Троицкий административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3401,
     "uikTvd": "4774133419904",
+    "uikName": "УИК №3401",
     "tikTvd": "27720002782192",
-    "tikName": "Троицкий административный округ"
+    "tikName": "Троицкий административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3402,
     "uikTvd": "4774133419905",
+    "uikName": "УИК №3402",
     "tikTvd": "27720002782192",
-    "tikName": "Троицкий административный округ"
+    "tikName": "Троицкий административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3403,
     "uikTvd": "4774133419906",
+    "uikName": "УИК №3403",
     "tikTvd": "27720002782192",
-    "tikName": "Троицкий административный округ"
+    "tikName": "Троицкий административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3404,
     "uikTvd": "4774133419907",
+    "uikName": "УИК №3404",
     "tikTvd": "27720002782192",
-    "tikName": "Троицкий административный округ"
+    "tikName": "Троицкий административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3405,
     "uikTvd": "4774133419908",
+    "uikName": "УИК №3405",
     "tikTvd": "27720002782192",
-    "tikName": "Троицкий административный округ"
+    "tikName": "Троицкий административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3406,
     "uikTvd": "4774133419909",
+    "uikName": "УИК №3406",
     "tikTvd": "27720002782192",
-    "tikName": "Троицкий административный округ"
+    "tikName": "Троицкий административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3407,
     "uikTvd": "4774133419910",
+    "uikName": "УИК №3407",
     "tikTvd": "27720002782192",
-    "tikName": "Троицкий административный округ"
+    "tikName": "Троицкий административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3408,
     "uikTvd": "4774133419911",
+    "uikName": "УИК №3408",
     "tikTvd": "27720002782192",
-    "tikName": "Троицкий административный округ"
+    "tikName": "Троицкий административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3409,
     "uikTvd": "4774133419912",
+    "uikName": "УИК №3409",
     "tikTvd": "27720002782192",
-    "tikName": "Троицкий административный округ"
+    "tikName": "Троицкий административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3410,
     "uikTvd": "4774133419913",
+    "uikName": "УИК №3410",
     "tikTvd": "27720002782192",
-    "tikName": "Троицкий административный округ"
+    "tikName": "Троицкий административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3411,
     "uikTvd": "4774133419914",
+    "uikName": "УИК №3411",
     "tikTvd": "27720002782192",
-    "tikName": "Троицкий административный округ"
+    "tikName": "Троицкий административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3412,
     "uikTvd": "4774095219390",
+    "uikName": "УИК №3412",
     "tikTvd": "27720002782230",
-    "tikName": "район Некрасовка"
+    "tikName": "район Некрасовка",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3413,
     "uikTvd": "4774095219391",
+    "uikName": "УИК №3413",
     "tikTvd": "27720002782230",
-    "tikName": "район Некрасовка"
+    "tikName": "район Некрасовка",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3415,
     "uikTvd": "4774132410528",
+    "uikName": "УИК №3415",
     "tikTvd": "27720002782321",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3418,
     "uikTvd": "4774095219392",
+    "uikName": "УИК №3418",
     "tikTvd": "27720002782230",
-    "tikName": "район Некрасовка"
+    "tikName": "район Некрасовка",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3419,
     "uikTvd": "4774095219393",
+    "uikName": "УИК №3419",
     "tikTvd": "27720002782230",
-    "tikName": "район Некрасовка"
+    "tikName": "район Некрасовка",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3420,
     "uikTvd": "4774095219394",
+    "uikName": "УИК №3420",
     "tikTvd": "27720002782230",
-    "tikName": "район Некрасовка"
+    "tikName": "район Некрасовка",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3422,
     "uikTvd": "4774111549149",
+    "uikName": "УИК №3422",
     "tikTvd": "27720002782314",
-    "tikName": "район Южное Бутово"
+    "tikName": "район Южное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3423,
     "uikTvd": "4774028284198",
+    "uikName": "УИК №3423",
     "tikTvd": "27720002782196",
-    "tikName": "район Солнцево"
+    "tikName": "район Солнцево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3425,
     "uikTvd": "4774132410529",
+    "uikName": "УИК №3425",
     "tikTvd": "27720002782321",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3426,
     "uikTvd": "4774132410530",
+    "uikName": "УИК №3426",
     "tikTvd": "27720002782321",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3427,
     "uikTvd": "4774132410531",
+    "uikName": "УИК №3427",
     "tikTvd": "27720002782321",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3428,
     "uikTvd": "4774132410532",
+    "uikName": "УИК №3428",
     "tikTvd": "27720002782321",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3429,
     "uikTvd": "4774132410533",
+    "uikName": "УИК №3429",
     "tikTvd": "27720002782321",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3430,
     "uikTvd": "4774134411215",
+    "uikName": "УИК №3430",
     "tikTvd": "27720002782273",
-    "tikName": "Сосенская"
+    "tikName": "Сосенская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3431,
     "uikTvd": "4774134411216",
+    "uikName": "УИК №3431",
     "tikTvd": "27720002782273",
-    "tikName": "Сосенская"
+    "tikName": "Сосенская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3432,
     "uikTvd": "4774134411217",
+    "uikName": "УИК №3432",
     "tikTvd": "27720002782273",
-    "tikName": "Сосенская"
+    "tikName": "Сосенская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3433,
     "uikTvd": "4774133419915",
+    "uikName": "УИК №3433",
     "tikTvd": "27720002782192",
-    "tikName": "Троицкий административный округ"
+    "tikName": "Троицкий административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3434,
     "uikTvd": "4774061171786",
+    "uikName": "УИК №3434",
     "tikTvd": "27720002782216",
-    "tikName": "район Марфино"
+    "tikName": "район Марфино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3436,
     "uikTvd": "4774095219395",
+    "uikName": "УИК №3436",
     "tikTvd": "27720002782230",
-    "tikName": "район Некрасовка"
+    "tikName": "район Некрасовка",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3437,
     "uikTvd": "4774041241211",
+    "uikName": "УИК №3437",
     "tikTvd": "27720002782194",
-    "tikName": "Войковский район"
+    "tikName": "Войковский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3438,
     "uikTvd": "4774048148702",
+    "uikName": "УИК №3438",
     "tikTvd": "27720002782315",
-    "tikName": "Молжаниновский район"
+    "tikName": "Молжаниновский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3439,
     "uikTvd": "4774052298955",
+    "uikName": "УИК №3439",
     "tikTvd": "27720002782245",
-    "tikName": "район Ховрино"
+    "tikName": "район Ховрино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3440,
     "uikTvd": "4774095219396",
+    "uikName": "УИК №3440",
     "tikTvd": "27720002782230",
-    "tikName": "район Некрасовка"
+    "tikName": "район Некрасовка",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3441,
     "uikTvd": "4774132410534",
+    "uikName": "УИК №3441",
     "tikTvd": "27720002782321",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3442,
     "uikTvd": "4774134411218",
+    "uikName": "УИК №3442",
     "tikTvd": "27720002782273",
-    "tikName": "Сосенская"
+    "tikName": "Сосенская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3443,
     "uikTvd": "4774132410535",
+    "uikName": "УИК №3443",
     "tikTvd": "27720002782321",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3444,
     "uikTvd": "4774132410536",
+    "uikName": "УИК №3444",
     "tikTvd": "27720002782321",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3445,
     "uikTvd": "4774132410537",
+    "uikName": "УИК №3445",
     "tikTvd": "27720002782321",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3446,
     "uikTvd": "4774134411219",
+    "uikName": "УИК №3446",
     "tikTvd": "27720002782273",
-    "tikName": "Сосенская"
+    "tikName": "Сосенская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3448,
     "uikTvd": "4774134411220",
+    "uikName": "УИК №3448",
     "tikTvd": "27720002782273",
-    "tikName": "Сосенская"
+    "tikName": "Сосенская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3450,
     "uikTvd": "4774045261046",
+    "uikName": "УИК №3450",
     "tikTvd": "27720002782247",
-    "tikName": "район Западное Дегунино"
+    "tikName": "район Западное Дегунино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3451,
     "uikTvd": "4774048148703",
+    "uikName": "УИК №3451",
     "tikTvd": "27720002782315",
-    "tikName": "Молжаниновский район"
+    "tikName": "Молжаниновский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3452,
     "uikTvd": "4774052298956",
+    "uikName": "УИК №3452",
     "tikTvd": "27720002782245",
-    "tikName": "район Ховрино"
+    "tikName": "район Ховрино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3453,
     "uikTvd": "4774066207767",
+    "uikName": "УИК №3453",
     "tikTvd": "27720002782287",
-    "tikName": "район Свиблово"
+    "tikName": "район Свиблово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3454,
     "uikTvd": "4774068266234",
+    "uikName": "УИК №3454",
     "tikTvd": "27720002782234",
-    "tikName": "район Северный"
+    "tikName": "район Северный",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3455,
     "uikTvd": "4774028284199",
+    "uikName": "УИК №3455",
     "tikTvd": "27720002782196",
-    "tikName": "район Солнцево"
+    "tikName": "район Солнцево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3456,
     "uikTvd": "4774072399802",
+    "uikName": "УИК №3456",
     "tikTvd": "27720002782302",
-    "tikName": "район Митино"
+    "tikName": "район Митино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3457,
     "uikTvd": "4774132410538",
+    "uikName": "УИК №3457",
     "tikTvd": "27720002782321",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3458,
     "uikTvd": "4774132410539",
+    "uikName": "УИК №3458",
     "tikTvd": "27720002782321",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3459,
     "uikTvd": "4774134411221",
+    "uikName": "УИК №3459",
     "tikTvd": "27720002782273",
-    "tikName": "Сосенская"
+    "tikName": "Сосенская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3460,
     "uikTvd": "4774134411222",
+    "uikName": "УИК №3460",
     "tikTvd": "27720002782273",
-    "tikName": "Сосенская"
+    "tikName": "Сосенская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3461,
     "uikTvd": "4774134411223",
+    "uikName": "УИК №3461",
     "tikTvd": "27720002782273",
-    "tikName": "Сосенская"
+    "tikName": "Сосенская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3462,
     "uikTvd": "4774134411224",
+    "uikName": "УИК №3462",
     "tikTvd": "27720002782273",
-    "tikName": "Сосенская"
+    "tikName": "Сосенская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3463,
     "uikTvd": "4774134411225",
+    "uikName": "УИК №3463",
     "tikTvd": "27720002782273",
-    "tikName": "Сосенская"
+    "tikName": "Сосенская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3464,
     "uikTvd": "4774084463389",
+    "uikName": "УИК №3464",
     "tikTvd": "27720002782259",
-    "tikName": "Пресненский район"
+    "tikName": "Пресненский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3465,
     "uikTvd": "4774041241212",
+    "uikName": "УИК №3465",
     "tikTvd": "27720002782194",
-    "tikName": "Войковский район"
+    "tikName": "Войковский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3467,
     "uikTvd": "4774045261047",
+    "uikName": "УИК №3467",
     "tikTvd": "27720002782247",
-    "tikName": "район Западное Дегунино"
+    "tikName": "район Западное Дегунино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3469,
     "uikTvd": "4774053231032",
+    "uikName": "УИК №3469",
     "tikTvd": "27720002782240",
-    "tikName": "Хорошевский район"
+    "tikName": "Хорошевский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3470,
     "uikTvd": "4774063223096",
+    "uikName": "УИК №3470",
     "tikTvd": "27720002782246",
-    "tikName": "Останкинский район"
+    "tikName": "Останкинский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3472,
     "uikTvd": "4774068266235",
+    "uikName": "УИК №3472",
     "tikTvd": "27720002782234",
-    "tikName": "район Северный"
+    "tikName": "район Северный",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3473,
     "uikTvd": "4774015291201",
+    "uikName": "УИК №3473",
     "tikTvd": "27720002782294",
-    "tikName": "район Соколиная гора"
+    "tikName": "район Соколиная гора",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3476,
     "uikTvd": "4774094516751",
+    "uikName": "УИК №3476",
     "tikTvd": "27720002782323",
-    "tikName": "район Марьино"
+    "tikName": "район Марьино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3477,
     "uikTvd": "4774095219397",
+    "uikName": "УИК №3477",
     "tikTvd": "27720002782230",
-    "tikName": "район Некрасовка"
+    "tikName": "район Некрасовка",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3478,
     "uikTvd": "4774096200118",
+    "uikName": "УИК №3478",
     "tikTvd": "27720002782324",
-    "tikName": "Нижегородский район"
+    "tikName": "Нижегородский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3479,
     "uikTvd": "4774113364132",
+    "uikName": "УИК №3479",
     "tikTvd": "27720002782326",
-    "tikName": "район Бирюлево Восточное"
+    "tikName": "район Бирюлево Восточное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3480,
     "uikTvd": "4774116268054",
+    "uikName": "УИК №3480",
     "tikTvd": "27720002782235",
-    "tikName": "Даниловский район"
+    "tikName": "Даниловский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3481,
     "uikTvd": "4774121284388",
+    "uikName": "УИК №3481",
     "tikTvd": "27720002782191",
-    "tikName": "район Нагатино-Садовники"
+    "tikName": "район Нагатино-Садовники",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3485,
     "uikTvd": "4774028284200",
+    "uikName": "УИК №3485",
     "tikTvd": "27720002782196",
-    "tikName": "район Солнцево"
+    "tikName": "район Солнцево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3491,
     "uikTvd": "4774033332197",
+    "uikName": "УИК №3491",
     "tikTvd": "27720002782210",
-    "tikName": "район Крюково"
+    "tikName": "район Крюково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3493,
     "uikTvd": "4774033332198",
+    "uikName": "УИК №3493",
     "tikTvd": "27720002782210",
-    "tikName": "район Крюково"
+    "tikName": "район Крюково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3495,
     "uikTvd": "4774033332199",
+    "uikName": "УИК №3495",
     "tikTvd": "27720002782210",
-    "tikName": "район Крюково"
+    "tikName": "район Крюково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3496,
     "uikTvd": "4774132410540",
+    "uikName": "УИК №3496",
     "tikTvd": "27720002782321",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3497,
     "uikTvd": "4774134411226",
+    "uikName": "УИК №3497",
     "tikTvd": "27720002782273",
-    "tikName": "Сосенская"
+    "tikName": "Сосенская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3498,
     "uikTvd": "4774132410541",
+    "uikName": "УИК №3498",
     "tikTvd": "27720002782321",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3499,
     "uikTvd": "4774132410542",
+    "uikName": "УИК №3499",
     "tikTvd": "27720002782321",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3500,
     "uikTvd": "4774132410543",
+    "uikName": "УИК №3500",
     "tikTvd": "27720002782321",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3501,
     "uikTvd": "4774132410544",
+    "uikName": "УИК №3501",
     "tikTvd": "27720002782321",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3502,
     "uikTvd": "4774134411227",
+    "uikName": "УИК №3502",
     "tikTvd": "27720002782273",
-    "tikName": "Сосенская"
+    "tikName": "Сосенская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3503,
     "uikTvd": "4774134411228",
+    "uikName": "УИК №3503",
     "tikTvd": "27720002782273",
-    "tikName": "Сосенская"
+    "tikName": "Сосенская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3504,
     "uikTvd": "4774134411229",
+    "uikName": "УИК №3504",
     "tikTvd": "27720002782273",
-    "tikName": "Сосенская"
+    "tikName": "Сосенская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3505,
     "uikTvd": "4774134411230",
+    "uikName": "УИК №3505",
     "tikTvd": "27720002782273",
-    "tikName": "Сосенская"
+    "tikName": "Сосенская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3506,
     "uikTvd": "4774134411231",
+    "uikName": "УИК №3506",
     "tikTvd": "27720002782273",
-    "tikName": "Сосенская"
+    "tikName": "Сосенская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3507,
     "uikTvd": "4774133419916",
+    "uikName": "УИК №3507",
     "tikTvd": "27720002782192",
-    "tikName": "Троицкий административный округ"
+    "tikName": "Троицкий административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3508,
     "uikTvd": "4774133419917",
+    "uikName": "УИК №3508",
     "tikTvd": "27720002782192",
-    "tikName": "Троицкий административный округ"
+    "tikName": "Троицкий административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3509,
     "uikTvd": "4774133419918",
+    "uikName": "УИК №3509",
     "tikTvd": "27720002782192",
-    "tikName": "Троицкий административный округ"
+    "tikName": "Троицкий административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3510,
     "uikTvd": "4774133419919",
+    "uikName": "УИК №3510",
     "tikTvd": "27720002782192",
-    "tikName": "Троицкий административный округ"
+    "tikName": "Троицкий административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3511,
     "uikTvd": "4774133419920",
+    "uikName": "УИК №3511",
     "tikTvd": "27720002782192",
-    "tikName": "Троицкий административный округ"
+    "tikName": "Троицкий административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3512,
     "uikTvd": "4774133419921",
+    "uikName": "УИК №3512",
     "tikTvd": "27720002782192",
-    "tikName": "Троицкий административный округ"
+    "tikName": "Троицкий административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3514,
     "uikTvd": "4774095219398",
+    "uikName": "УИК №3514",
     "tikTvd": "27720002782230",
-    "tikName": "район Некрасовка"
+    "tikName": "район Некрасовка",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3515,
     "uikTvd": "4774098272381",
+    "uikName": "УИК №3515",
     "tikTvd": "27720002782270",
-    "tikName": "Рязанский район"
+    "tikName": "Рязанский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3516,
     "uikTvd": "4774132410545",
+    "uikName": "УИК №3516",
     "tikTvd": "27720002782321",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3517,
     "uikTvd": "4774132410546",
+    "uikName": "УИК №3517",
     "tikTvd": "27720002782321",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3518,
     "uikTvd": "4774134411232",
+    "uikName": "УИК №3518",
     "tikTvd": "27720002782273",
-    "tikName": "Сосенская"
+    "tikName": "Сосенская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3601,
     "uikTvd": "4774080322675",
+    "uikName": "УИК №3601",
     "tikTvd": "27720002782279",
-    "tikName": "Басманный район"
+    "tikName": "Басманный район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3602,
     "uikTvd": "4774080322676",
+    "uikName": "УИК №3602",
     "tikTvd": "27720002782279",
-    "tikName": "Басманный район"
+    "tikName": "Басманный район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3606,
     "uikTvd": "4774080322677",
+    "uikName": "УИК №3606",
     "tikTvd": "27720002782279",
-    "tikName": "Басманный район"
+    "tikName": "Басманный район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3607,
     "uikTvd": "4774080322678",
+    "uikName": "УИК №3607",
     "tikTvd": "27720002782279",
-    "tikName": "Басманный район"
+    "tikName": "Басманный район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3608,
     "uikTvd": "4774080322679",
+    "uikName": "УИК №3608",
     "tikTvd": "27720002782279",
-    "tikName": "Басманный район"
+    "tikName": "Басманный район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3609,
     "uikTvd": "4774080322680",
+    "uikName": "УИК №3609",
     "tikTvd": "27720002782279",
-    "tikName": "Басманный район"
+    "tikName": "Басманный район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3611,
     "uikTvd": "4774081206542",
+    "uikName": "УИК №3611",
     "tikTvd": "27720002782337",
-    "tikName": "район Замоскворечье"
+    "tikName": "район Замоскворечье",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3613,
     "uikTvd": "4774083222734",
+    "uikName": "УИК №3613",
     "tikTvd": "27720002782308",
-    "tikName": "Мещанский район"
+    "tikName": "Мещанский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3614,
     "uikTvd": "4774083222735",
+    "uikName": "УИК №3614",
     "tikTvd": "27720002782308",
-    "tikName": "Мещанский район"
+    "tikName": "Мещанский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3619,
     "uikTvd": "4774085328409",
+    "uikName": "УИК №3619",
     "tikTvd": "27720002782239",
-    "tikName": "Таганский район"
+    "tikName": "Таганский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3620,
     "uikTvd": "4774085328410",
+    "uikName": "УИК №3620",
     "tikTvd": "27720002782239",
-    "tikName": "Таганский район"
+    "tikName": "Таганский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3621,
     "uikTvd": "4774085328411",
+    "uikName": "УИК №3621",
     "tikTvd": "27720002782239",
-    "tikName": "Таганский район"
+    "tikName": "Таганский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3622,
     "uikTvd": "4774086273612",
+    "uikName": "УИК №3622",
     "tikTvd": "27720002782193",
-    "tikName": "Тверской район"
+    "tikName": "Тверской район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3625,
     "uikTvd": "4774086273614",
+    "uikName": "УИК №3625",
     "tikTvd": "27720002782193",
-    "tikName": "Тверской район"
+    "tikName": "Тверской район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3627,
     "uikTvd": "4774087271979",
+    "uikName": "УИК №3627",
     "tikTvd": "27720002782317",
-    "tikName": "район Хамовники"
+    "tikName": "район Хамовники",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3629,
     "uikTvd": "4774087271980",
+    "uikName": "УИК №3629",
     "tikTvd": "27720002782317",
-    "tikName": "район Хамовники"
+    "tikName": "район Хамовники",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3631,
     "uikTvd": "4774087271981",
+    "uikName": "УИК №3631",
     "tikTvd": "27720002782317",
-    "tikName": "район Хамовники"
+    "tikName": "район Хамовники",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3632,
     "uikTvd": "4774088185458",
+    "uikName": "УИК №3632",
     "tikTvd": "27720002782243",
-    "tikName": "район Якиманка"
+    "tikName": "район Якиманка",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3634,
     "uikTvd": "4774037241719",
+    "uikName": "УИК №3634",
     "tikTvd": "27720002782237",
-    "tikName": "район Аэропорт"
+    "tikName": "район Аэропорт",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3635,
     "uikTvd": "4774037241720",
+    "uikName": "УИК №3635",
     "tikTvd": "27720002782237",
-    "tikName": "район Аэропорт"
+    "tikName": "район Аэропорт",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3636,
     "uikTvd": "4774038207606",
+    "uikName": "УИК №3636",
     "tikTvd": "27720002782254",
-    "tikName": "район Беговой "
+    "tikName": "район Беговой ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3637,
     "uikTvd": "4774038207607",
+    "uikName": "УИК №3637",
     "tikTvd": "27720002782254",
-    "tikName": "район Беговой "
+    "tikName": "район Беговой ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3639,
     "uikTvd": "4774039248999",
+    "uikName": "УИК №3639",
     "tikTvd": "27720002782281",
-    "tikName": "Бескудниковский район "
+    "tikName": "Бескудниковский район ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3640,
     "uikTvd": "4774039249000",
+    "uikName": "УИК №3640",
     "tikTvd": "27720002782281",
-    "tikName": "Бескудниковский район "
+    "tikName": "Бескудниковский район ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3641,
     "uikTvd": "4774041241213",
+    "uikName": "УИК №3641",
     "tikTvd": "27720002782194",
-    "tikName": "Войковский район"
+    "tikName": "Войковский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3642,
     "uikTvd": "4774044237889",
+    "uikName": "УИК №3642",
     "tikTvd": "27720002782260",
-    "tikName": "Дмитровский район"
+    "tikName": "Дмитровский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3643,
     "uikTvd": "4774045261048",
+    "uikName": "УИК №3643",
     "tikTvd": "27720002782247",
-    "tikName": "район Западное Дегунино"
+    "tikName": "район Западное Дегунино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3644,
     "uikTvd": "4774046261501",
+    "uikName": "УИК №3644",
     "tikTvd": "27720002782305",
-    "tikName": "район Коптево"
+    "tikName": "район Коптево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3645,
     "uikTvd": "4774046261502",
+    "uikName": "УИК №3645",
     "tikTvd": "27720002782305",
-    "tikName": "район Коптево"
+    "tikName": "район Коптево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3646,
     "uikTvd": "4774046261503",
+    "uikName": "УИК №3646",
     "tikTvd": "27720002782305",
-    "tikName": "район Коптево"
+    "tikName": "район Коптево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3647,
     "uikTvd": "4774047230594",
+    "uikName": "УИК №3647",
     "tikTvd": "27720002782329",
-    "tikName": "Левобережный район"
+    "tikName": "Левобережный район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3650,
     "uikTvd": "4774049234689",
+    "uikName": "УИК №3650",
     "tikTvd": "27720002782265",
-    "tikName": "Савеловский район"
+    "tikName": "Савеловский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3653,
     "uikTvd": "4774051259042",
+    "uikName": "УИК №3653",
     "tikTvd": "27720002782298",
-    "tikName": "Тимирязевский район"
+    "tikName": "Тимирязевский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3656,
     "uikTvd": "4774056252484",
+    "uikName": "УИК №3656",
     "tikTvd": "27720002782311",
-    "tikName": "Бабушкинский район"
+    "tikName": "Бабушкинский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3659,
     "uikTvd": "4774060237161",
+    "uikName": "УИК №3659",
     "tikTvd": "27720002782218",
-    "tikName": "Лосиноостровский район"
+    "tikName": "Лосиноостровский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3660,
     "uikTvd": "4774062214395",
+    "uikName": "УИК №3660",
     "tikTvd": "27720002782272",
-    "tikName": "район Марьина Роща"
+    "tikName": "район Марьина Роща",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3662,
     "uikTvd": "4774065201189",
+    "uikName": "УИК №3662",
     "tikTvd": "27720002782226",
-    "tikName": "район Ростокино"
+    "tikName": "район Ростокино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3663,
     "uikTvd": "4774065201190",
+    "uikName": "УИК №3663",
     "tikTvd": "27720002782226",
-    "tikName": "район Ростокино"
+    "tikName": "район Ростокино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3665,
     "uikTvd": "4774069233555",
+    "uikName": "УИК №3665",
     "tikTvd": "27720002782278",
-    "tikName": "район Южное Медведково"
+    "tikName": "район Южное Медведково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3666,
     "uikTvd": "4774001294888",
+    "uikName": "УИК №3666",
     "tikTvd": "27720002782306",
-    "tikName": "район Богородское"
+    "tikName": "район Богородское",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3667,
     "uikTvd": "4774002338207",
+    "uikName": "УИК №3667",
     "tikTvd": "27720002782309",
-    "tikName": "район Вешняки "
+    "tikName": "район Вешняки ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3668,
     "uikTvd": "4774002338208",
+    "uikName": "УИК №3668",
     "tikTvd": "27720002782309",
-    "tikName": "район Вешняки "
+    "tikName": "район Вешняки ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3669,
     "uikTvd": "4774003229878",
+    "uikName": "УИК №3669",
     "tikTvd": "27720002782221",
-    "tikName": "район Восточное Измайлово "
+    "tikName": "район Восточное Измайлово ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3670,
     "uikTvd": "4774003229879",
+    "uikName": "УИК №3670",
     "tikTvd": "27720002782221",
-    "tikName": "район Восточное Измайлово "
+    "tikName": "район Восточное Измайлово ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3672,
     "uikTvd": "4774006294521",
+    "uikName": "УИК №3672",
     "tikTvd": "27720002782214",
-    "tikName": "район Измайлово "
+    "tikName": "район Измайлово ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3673,
     "uikTvd": "4774006294522",
+    "uikName": "УИК №3673",
     "tikTvd": "27720002782214",
-    "tikName": "район Измайлово "
+    "tikName": "район Измайлово ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3674,
     "uikTvd": "4774008184526",
+    "uikName": "УИК №3674",
     "tikTvd": "27720002782277",
-    "tikName": "район Метрогородок "
+    "tikName": "район Метрогородок ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3675,
     "uikTvd": "4774008184527",
+    "uikName": "УИК №3675",
     "tikTvd": "27720002782277",
-    "tikName": "район Метрогородок "
+    "tikName": "район Метрогородок ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3677,
     "uikTvd": "4774008184528",
+    "uikName": "УИК №3677",
     "tikTvd": "27720002782277",
-    "tikName": "район Метрогородок "
+    "tikName": "район Метрогородок ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3678,
     "uikTvd": "4774008184529",
+    "uikName": "УИК №3678",
     "tikTvd": "27720002782277",
-    "tikName": "район Метрогородок "
+    "tikName": "район Метрогородок ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3680,
     "uikTvd": "4774011370553",
+    "uikName": "УИК №3680",
     "tikTvd": "27720002782282",
-    "tikName": "район Перово"
+    "tikName": "район Перово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3681,
     "uikTvd": "4774013244110",
+    "uikName": "УИК №3681",
     "tikTvd": "27720002782280",
-    "tikName": "район Преображенское"
+    "tikName": "район Преображенское",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3682,
     "uikTvd": "4774013244111",
+    "uikName": "УИК №3682",
     "tikTvd": "27720002782280",
-    "tikName": "район Преображенское"
+    "tikName": "район Преображенское",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3684,
     "uikTvd": "4774015291202",
+    "uikName": "УИК №3684",
     "tikTvd": "27720002782294",
-    "tikName": "район Соколиная гора"
+    "tikName": "район Соколиная гора",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3685,
     "uikTvd": "4774015291203",
+    "uikName": "УИК №3685",
     "tikTvd": "27720002782294",
-    "tikName": "район Соколиная гора"
+    "tikName": "район Соколиная гора",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3688,
     "uikTvd": "4774016229685",
+    "uikName": "УИК №3688",
     "tikTvd": "27720002782209",
-    "tikName": "район Сокольники"
+    "tikName": "район Сокольники",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3690,
     "uikTvd": "4774016229686",
+    "uikName": "УИК №3690",
     "tikTvd": "27720002782209",
-    "tikName": "район Сокольники"
+    "tikName": "район Сокольники",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3692,
     "uikTvd": "4774016229687",
+    "uikName": "УИК №3692",
     "tikTvd": "27720002782209",
-    "tikName": "район Сокольники"
+    "tikName": "район Сокольники",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3693,
     "uikTvd": "4774016229688",
+    "uikName": "УИК №3693",
     "tikTvd": "27720002782209",
-    "tikName": "район Сокольники"
+    "tikName": "район Сокольники",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3694,
     "uikTvd": "4774016229689",
+    "uikName": "УИК №3694",
     "tikTvd": "27720002782209",
-    "tikName": "район Сокольники"
+    "tikName": "район Сокольники",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3695,
     "uikTvd": "4774016229690",
+    "uikName": "УИК №3695",
     "tikTvd": "27720002782209",
-    "tikName": "район Сокольники"
+    "tikName": "район Сокольники",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3696,
     "uikTvd": "4774016229691",
+    "uikName": "УИК №3696",
     "tikTvd": "27720002782209",
-    "tikName": "район Сокольники"
+    "tikName": "район Сокольники",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3697,
     "uikTvd": "4774016229692",
+    "uikName": "УИК №3697",
     "tikTvd": "27720002782209",
-    "tikName": "район Сокольники"
+    "tikName": "район Сокольники",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3698,
     "uikTvd": "4774089425719",
+    "uikName": "УИК №3698",
     "tikTvd": "27720002782207",
-    "tikName": "район Выхино-Жулебино"
+    "tikName": "район Выхино-Жулебино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3701,
     "uikTvd": "4774092278601",
+    "uikName": "УИК №3701",
     "tikTvd": "27720002782303",
-    "tikName": "район Лефортово"
+    "tikName": "район Лефортово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3702,
     "uikTvd": "4774092278602",
+    "uikName": "УИК №3702",
     "tikTvd": "27720002782303",
-    "tikName": "район Лефортово"
+    "tikName": "район Лефортово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3703,
     "uikTvd": "4774093420889",
+    "uikName": "УИК №3703",
     "tikTvd": "27720002782322",
-    "tikName": "район Люблино"
+    "tikName": "район Люблино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3704,
     "uikTvd": "4774093420890",
+    "uikName": "УИК №3704",
     "tikTvd": "27720002782322",
-    "tikName": "район Люблино"
+    "tikName": "район Люблино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3705,
     "uikTvd": "4774093420891",
+    "uikName": "УИК №3705",
     "tikTvd": "27720002782322",
-    "tikName": "район Люблино"
+    "tikName": "район Люблино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3708,
     "uikTvd": "4774097273223",
+    "uikName": "УИК №3708",
     "tikTvd": "27720002782338",
-    "tikName": "район Печатники"
+    "tikName": "район Печатники",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3709,
     "uikTvd": "4774097273224",
+    "uikName": "УИК №3709",
     "tikTvd": "27720002782338",
-    "tikName": "район Печатники"
+    "tikName": "район Печатники",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3710,
     "uikTvd": "4774099267452",
+    "uikName": "УИК №3710",
     "tikTvd": "27720002782198",
-    "tikName": "район Текстильщики"
+    "tikName": "район Текстильщики",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3711,
     "uikTvd": "4774099267453",
+    "uikName": "УИК №3711",
     "tikTvd": "27720002782198",
-    "tikName": "район Текстильщики"
+    "tikName": "район Текстильщики",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3712,
     "uikTvd": "4774099267454",
+    "uikName": "УИК №3712",
     "tikTvd": "27720002782198",
-    "tikName": "район Текстильщики"
+    "tikName": "район Текстильщики",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3714,
     "uikTvd": "4774100252029",
+    "uikName": "УИК №3714",
     "tikTvd": "27720002782331",
-    "tikName": "Южнопортовый район"
+    "tikName": "Южнопортовый район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3718,
     "uikTvd": "4774117227080",
+    "uikName": "УИК №3718",
     "tikTvd": "27720002782255",
-    "tikName": "Донской район"
+    "tikName": "Донской район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3719,
     "uikTvd": "4774117227081",
+    "uikName": "УИК №3719",
     "tikTvd": "27720002782255",
-    "tikName": "Донской район"
+    "tikName": "Донской район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3720,
     "uikTvd": "4774117227082",
+    "uikName": "УИК №3720",
     "tikTvd": "27720002782255",
-    "tikName": "Донской район"
+    "tikName": "Донской район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3721,
     "uikTvd": "4774117227083",
+    "uikName": "УИК №3721",
     "tikTvd": "27720002782255",
-    "tikName": "Донской район"
+    "tikName": "Донской район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3722,
     "uikTvd": "4774119295616",
+    "uikName": "УИК №3722",
     "tikTvd": "27720002782205",
-    "tikName": "район Зябликово"
+    "tikName": "район Зябликово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3723,
     "uikTvd": "4774120245791",
+    "uikName": "УИК №3723",
     "tikTvd": "27720002782250",
-    "tikName": "район Москворечье-Сабурово"
+    "tikName": "район Москворечье-Сабурово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3724,
     "uikTvd": "4774120245792",
+    "uikName": "УИК №3724",
     "tikTvd": "27720002782250",
-    "tikName": "район Москворечье-Сабурово"
+    "tikName": "район Москворечье-Сабурово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3725,
     "uikTvd": "4774120245793",
+    "uikName": "УИК №3725",
     "tikTvd": "27720002782250",
-    "tikName": "район Москворечье-Сабурово"
+    "tikName": "район Москворечье-Сабурово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3726,
     "uikTvd": "4774120245794",
+    "uikName": "УИК №3726",
     "tikTvd": "27720002782250",
-    "tikName": "район Москворечье-Сабурово"
+    "tikName": "район Москворечье-Сабурово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3727,
     "uikTvd": "4774120245795",
+    "uikName": "УИК №3727",
     "tikTvd": "27720002782250",
-    "tikName": "район Москворечье-Сабурово"
+    "tikName": "район Москворечье-Сабурово",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3728,
     "uikTvd": "4774121284389",
+    "uikName": "УИК №3728",
     "tikTvd": "27720002782191",
-    "tikName": "район Нагатино-Садовники"
+    "tikName": "район Нагатино-Садовники",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3729,
     "uikTvd": "4774121284390",
+    "uikName": "УИК №3729",
     "tikTvd": "27720002782191",
-    "tikName": "район Нагатино-Садовники"
+    "tikName": "район Нагатино-Садовники",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3730,
     "uikTvd": "4774121284391",
+    "uikName": "УИК №3730",
     "tikTvd": "27720002782191",
-    "tikName": "район Нагатино-Садовники"
+    "tikName": "район Нагатино-Садовники",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3731,
     "uikTvd": "4774121284392",
+    "uikName": "УИК №3731",
     "tikTvd": "27720002782191",
-    "tikName": "район Нагатино-Садовники"
+    "tikName": "район Нагатино-Садовники",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3734,
     "uikTvd": "4774128286044",
+    "uikName": "УИК №3734",
     "tikTvd": "27720002782267",
-    "tikName": "район Царицыно"
+    "tikName": "район Царицыно",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3735,
     "uikTvd": "4774128286045",
+    "uikName": "УИК №3735",
     "tikTvd": "27720002782267",
-    "tikName": "район Царицыно"
+    "tikName": "район Царицыно",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3736,
     "uikTvd": "4774131357664",
+    "uikName": "УИК №3736",
     "tikTvd": "27720002782258",
-    "tikName": "район Чертаново Южное"
+    "tikName": "район Чертаново Южное",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3737,
     "uikTvd": "4774101290835",
+    "uikName": "УИК №3737",
     "tikTvd": "27720002782222",
-    "tikName": "Академический район"
+    "tikName": "Академический район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3738,
     "uikTvd": "4774101290836",
+    "uikName": "УИК №3738",
     "tikTvd": "27720002782222",
-    "tikName": "Академический район"
+    "tikName": "Академический район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3740,
     "uikTvd": "4774103304515",
+    "uikName": "УИК №3740",
     "tikTvd": "27720002782203",
-    "tikName": "район Зюзино"
+    "tikName": "район Зюзино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3742,
     "uikTvd": "4774104351881",
+    "uikName": "УИК №3742",
     "tikTvd": "27720002782195",
-    "tikName": "район Коньково"
+    "tikName": "район Коньково",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3743,
     "uikTvd": "4774107264654",
+    "uikName": "УИК №3743",
     "tikTvd": "27720002782266",
-    "tikName": "Обручевский район"
+    "tikName": "Обручевский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3744,
     "uikTvd": "4774107264655",
+    "uikName": "УИК №3744",
     "tikTvd": "27720002782266",
-    "tikName": "Обручевский район"
+    "tikName": "Обручевский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3745,
     "uikTvd": "4774107264656",
+    "uikName": "УИК №3745",
     "tikTvd": "27720002782266",
-    "tikName": "Обручевский район"
+    "tikName": "Обручевский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3746,
     "uikTvd": "4774107264657",
+    "uikName": "УИК №3746",
     "tikTvd": "27720002782266",
-    "tikName": "Обручевский район"
+    "tikName": "Обручевский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3747,
     "uikTvd": "4774107264658",
+    "uikName": "УИК №3747",
     "tikTvd": "27720002782266",
-    "tikName": "Обручевский район"
+    "tikName": "Обручевский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3748,
     "uikTvd": "4774110269725",
+    "uikName": "УИК №3748",
     "tikTvd": "27720002782292",
-    "tikName": "район Черемушки"
+    "tikName": "район Черемушки",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3749,
     "uikTvd": "4774112410855",
+    "uikName": "УИК №3749",
     "tikTvd": "27720002782290",
-    "tikName": "район Ясенево"
+    "tikName": "район Ясенево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3750,
     "uikTvd": "4774112410856",
+    "uikName": "УИК №3750",
     "tikTvd": "27720002782290",
-    "tikName": "район Ясенево"
+    "tikName": "район Ясенево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3751,
     "uikTvd": "4774020341820",
+    "uikName": "УИК №3751",
     "tikTvd": "27720002782211",
-    "tikName": "район Кунцево"
+    "tikName": "район Кунцево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3752,
     "uikTvd": "4774020341821",
+    "uikName": "УИК №3752",
     "tikTvd": "27720002782211",
-    "tikName": "район Кунцево"
+    "tikName": "район Кунцево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3753,
     "uikTvd": "4774020341822",
+    "uikName": "УИК №3753",
     "tikTvd": "27720002782211",
-    "tikName": "район Кунцево"
+    "tikName": "район Кунцево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3756,
     "uikTvd": "4774020341823",
+    "uikName": "УИК №3756",
     "tikTvd": "27720002782211",
-    "tikName": "район Кунцево"
+    "tikName": "район Кунцево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3757,
     "uikTvd": "4774022296319",
+    "uikName": "УИК №3757",
     "tikTvd": "27720002782256",
-    "tikName": "Можайский район"
+    "tikName": "Можайский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3760,
     "uikTvd": "4774025284966",
+    "uikName": "УИК №3760",
     "tikTvd": "27720002782199",
-    "tikName": "район Очаково-Матвеевское"
+    "tikName": "район Очаково-Матвеевское",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3761,
     "uikTvd": "4774025284967",
+    "uikName": "УИК №3761",
     "tikTvd": "27720002782199",
-    "tikName": "район Очаково-Матвеевское"
+    "tikName": "район Очаково-Матвеевское",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3762,
     "uikTvd": "4774026221100",
+    "uikName": "УИК №3762",
     "tikTvd": "27720002782291",
-    "tikName": "район Проспект Вернадского"
+    "tikName": "район Проспект Вернадского",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3763,
     "uikTvd": "4774027291170",
+    "uikName": "УИК №3763",
     "tikTvd": "27720002782215",
-    "tikName": "район Раменки"
+    "tikName": "район Раменки",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3765,
     "uikTvd": "4774028284201",
+    "uikName": "УИК №3765",
     "tikTvd": "27720002782196",
-    "tikName": "район Солнцево"
+    "tikName": "район Солнцево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3768,
     "uikTvd": "4774071177746",
+    "uikName": "УИК №3768",
     "tikTvd": "27720002782330",
-    "tikName": "район Куркино"
+    "tikName": "район Куркино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3769,
     "uikTvd": "4774073244137",
+    "uikName": "УИК №3769",
     "tikTvd": "27720002782233",
-    "tikName": "район Покровское-Стрешнево"
+    "tikName": "район Покровское-Стрешнево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3770,
     "uikTvd": "4774073244138",
+    "uikName": "УИК №3770",
     "tikTvd": "27720002782233",
-    "tikName": "район Покровское-Стрешнево"
+    "tikName": "район Покровское-Стрешнево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3771,
     "uikTvd": "4774073244139",
+    "uikName": "УИК №3771",
     "tikTvd": "27720002782233",
-    "tikName": "район Покровское-Стрешнево"
+    "tikName": "район Покровское-Стрешнево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3772,
     "uikTvd": "4774073244140",
+    "uikName": "УИК №3772",
     "tikTvd": "27720002782233",
-    "tikName": "район Покровское-Стрешнево"
+    "tikName": "район Покровское-Стрешнево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3774,
     "uikTvd": "4774073244141",
+    "uikName": "УИК №3774",
     "tikTvd": "27720002782233",
-    "tikName": "район Покровское-Стрешнево"
+    "tikName": "район Покровское-Стрешнево",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3777,
     "uikTvd": "4774076399697",
+    "uikName": "УИК №3777",
     "tikTvd": "27720002782197",
-    "tikName": "район Хорошево-Мневники"
+    "tikName": "район Хорошево-Мневники",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3779,
     "uikTvd": "4774076399699",
+    "uikName": "УИК №3779",
     "tikTvd": "27720002782197",
-    "tikName": "район Хорошево-Мневники"
+    "tikName": "район Хорошево-Мневники",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3780,
     "uikTvd": "4774077323069",
+    "uikName": "УИК №3780",
     "tikTvd": "27720002782219",
-    "tikName": "район Щукино"
+    "tikName": "район Щукино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3781,
     "uikTvd": "4774077323070",
+    "uikName": "УИК №3781",
     "tikTvd": "27720002782219",
-    "tikName": "район Щукино"
+    "tikName": "район Щукино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3782,
     "uikTvd": "4774077323071",
+    "uikName": "УИК №3782",
     "tikTvd": "27720002782219",
-    "tikName": "район Щукино"
+    "tikName": "район Щукино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3783,
     "uikTvd": "4774077323072",
+    "uikName": "УИК №3783",
     "tikTvd": "27720002782219",
-    "tikName": "район Щукино"
+    "tikName": "район Щукино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3784,
     "uikTvd": "4774077323073",
+    "uikName": "УИК №3784",
     "tikTvd": "27720002782219",
-    "tikName": "район Щукино"
+    "tikName": "район Щукино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3785,
     "uikTvd": "4774077323074",
+    "uikName": "УИК №3785",
     "tikTvd": "27720002782219",
-    "tikName": "район Щукино"
+    "tikName": "район Щукино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3786,
     "uikTvd": "4774077323075",
+    "uikName": "УИК №3786",
     "tikTvd": "27720002782219",
-    "tikName": "район Щукино"
+    "tikName": "район Щукино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3787,
     "uikTvd": "4774077323076",
+    "uikName": "УИК №3787",
     "tikTvd": "27720002782219",
-    "tikName": "район Щукино"
+    "tikName": "район Щукино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3788,
     "uikTvd": "4774077323077",
+    "uikName": "УИК №3788",
     "tikTvd": "27720002782219",
-    "tikName": "район Щукино"
+    "tikName": "район Щукино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3790,
     "uikTvd": "4774078257003",
+    "uikName": "УИК №3790",
     "tikTvd": "27720002782253",
-    "tikName": "район Южное Тушино"
+    "tikName": "район Южное Тушино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3791,
     "uikTvd": "4774040209843",
+    "uikName": "УИК №3791",
     "tikTvd": "27720002782334",
-    "tikName": "район Савелки"
+    "tikName": "район Савелки",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3792,
     "uikTvd": "4774032233455",
+    "uikName": "УИК №3792",
     "tikTvd": "27720002782206",
-    "tikName": "район Силино"
+    "tikName": "район Силино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3793,
     "uikTvd": "4774060237162",
+    "uikName": "УИК №3793",
     "tikTvd": "27720002782218",
-    "tikName": "Лосиноостровский район"
+    "tikName": "Лосиноостровский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3794,
     "uikTvd": "4774008184530",
+    "uikName": "УИК №3794",
     "tikTvd": "27720002782277",
-    "tikName": "район Метрогородок "
+    "tikName": "район Метрогородок ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3795,
     "uikTvd": "4774089425720",
+    "uikName": "УИК №3795",
     "tikTvd": "27720002782207",
-    "tikName": "район Выхино-Жулебино"
+    "tikName": "район Выхино-Жулебино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3796,
     "uikTvd": "4774116268055",
+    "uikName": "УИК №3796",
     "tikTvd": "27720002782235",
-    "tikName": "Даниловский район"
+    "tikName": "Даниловский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3797,
     "uikTvd": "4774006294523",
+    "uikName": "УИК №3797",
     "tikTvd": "27720002782214",
-    "tikName": "район Измайлово "
+    "tikName": "район Измайлово ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3798,
     "uikTvd": "4774077323078",
+    "uikName": "УИК №3798",
     "tikTvd": "27720002782219",
-    "tikName": "район Щукино"
+    "tikName": "район Щукино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3802,
     "uikTvd": "4774134411233",
+    "uikName": "УИК №3802",
     "tikTvd": "27720002782273",
-    "tikName": "Сосенская"
+    "tikName": "Сосенская",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3803,
     "uikTvd": "4774133419922",
+    "uikName": "УИК №3803",
     "tikTvd": "27720002782192",
-    "tikName": "Троицкий административный округ"
+    "tikName": "Троицкий административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 3804,
     "uikTvd": "4774107264659",
+    "uikName": "УИК №3804",
     "tikTvd": "27720002782266",
-    "tikName": "Обручевский район"
+    "tikName": "Обручевский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 9001,
     "uikTvd": "4774044238506",
+    "uikName": "УИК №9001",
     "tikTvd": "27720002782260",
-    "tikName": "Дмитровский район"
+    "tikName": "Дмитровский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 9002,
     "uikTvd": "4774093423425",
+    "uikName": "УИК №9002",
     "tikTvd": "27720002782322",
-    "tikName": "район Люблино"
+    "tikName": "район Люблино",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   },
   {
     "uikNumber": 9003,
     "uikTvd": "4774063224864",
+    "uikName": "УИК №9003",
     "tikTvd": "27720002782246",
-    "tikName": "Останкинский район"
+    "tikName": "Останкинский район",
+    "regionCode": "77",
+    "regionTvd": "100100339411268",
+    "regionName": "город Москва",
+    "district": null
   }
 ] satisfies readonly UikTikRelation[];

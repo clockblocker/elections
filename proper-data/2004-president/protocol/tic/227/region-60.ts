@@ -11,6 +11,9 @@ export const president_2004_tic_227_region_60 = [
     "ballot": "presidential",
     "tikTvd": "260200078225",
     "tikName": "Куньинская",
+    "regionCode": "60",
+    "regionTvd": "1001000882997",
+    "regionName": "Псковская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список": 9584,
@@ -81,6 +84,9 @@ export const president_2004_tic_227_region_60 = [
     "ballot": "presidential",
     "tikTvd": "260200078226",
     "tikName": "Красногородская",
+    "regionCode": "60",
+    "regionTvd": "1001000882997",
+    "regionName": "Псковская область",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в список": 7711,
@@ -143,6 +149,9 @@ export const president_2004_tic_227_region_60 = [
     "ballot": "presidential",
     "tikTvd": "260200078227",
     "tikName": "Гдовская",
+    "regionCode": "60",
+    "regionTvd": "1001000882997",
+    "regionName": "Псковская область",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список": 13008,
@@ -218,6 +227,9 @@ export const president_2004_tic_227_region_60 = [
     "ballot": "presidential",
     "tikTvd": "260200078228",
     "tikName": "Великолукская городская",
+    "regionCode": "60",
+    "regionTvd": "1001000882997",
+    "regionName": "Псковская область",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, внесенных в список": 89906,
@@ -312,6 +324,9 @@ export const president_2004_tic_227_region_60 = [
     "ballot": "presidential",
     "tikTvd": "260200078229",
     "tikName": "Дновская",
+    "regionCode": "60",
+    "regionTvd": "1001000882997",
+    "regionName": "Псковская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список": 13186,
@@ -380,6 +395,9 @@ export const president_2004_tic_227_region_60 = [
     "ballot": "presidential",
     "tikTvd": "260200078230",
     "tikName": "Дедовичская",
+    "regionCode": "60",
+    "regionTvd": "1001000882997",
+    "regionName": "Псковская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список": 14149,
@@ -447,6 +465,9 @@ export const president_2004_tic_227_region_60 = [
     "ballot": "presidential",
     "tikTvd": "260200078231",
     "tikName": "Бежаницкая",
+    "regionCode": "60",
+    "regionTvd": "1001000882997",
+    "regionName": "Псковская область",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список": 13379,
@@ -522,6 +543,9 @@ export const president_2004_tic_227_region_60 = [
     "ballot": "presidential",
     "tikTvd": "260200078232",
     "tikName": "Плюсская",
+    "regionCode": "60",
+    "regionTvd": "1001000882997",
+    "regionName": "Псковская область",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в список": 9044,
@@ -583,6 +607,9 @@ export const president_2004_tic_227_region_60 = [
     "ballot": "presidential",
     "tikTvd": "260200078233",
     "tikName": "Палкинская",
+    "regionCode": "60",
+    "regionTvd": "1001000882997",
+    "regionName": "Псковская область",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в список": 7531,
@@ -645,6 +672,9 @@ export const president_2004_tic_227_region_60 = [
     "ballot": "presidential",
     "tikTvd": "260200078234",
     "tikName": "Печорская",
+    "regionCode": "60",
+    "regionTvd": "1001000882997",
+    "regionName": "Псковская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список": 20135,
@@ -713,6 +743,9 @@ export const president_2004_tic_227_region_60 = [
     "ballot": "presidential",
     "tikTvd": "260200078235",
     "tikName": "Опочецкая",
+    "regionCode": "60",
+    "regionTvd": "1001000882997",
+    "regionName": "Псковская область",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в список": 18810,
@@ -796,6 +829,9 @@ export const president_2004_tic_227_region_60 = [
     "ballot": "presidential",
     "tikTvd": "260200078236",
     "tikName": "Новосокольническая",
+    "regionCode": "60",
+    "regionTvd": "1001000882997",
+    "regionName": "Псковская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список": 14315,
@@ -867,6 +903,9 @@ export const president_2004_tic_227_region_60 = [
     "ballot": "presidential",
     "tikTvd": "260200078237",
     "tikName": "Новоржевская",
+    "regionCode": "60",
+    "regionTvd": "1001000882997",
+    "regionName": "Псковская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список": 9943,
@@ -935,6 +974,9 @@ export const president_2004_tic_227_region_60 = [
     "ballot": "presidential",
     "tikTvd": "260200078238",
     "tikName": "Островская",
+    "regionCode": "60",
+    "regionTvd": "1001000882997",
+    "regionName": "Псковская область",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в список": 29985,
@@ -1020,6 +1062,9 @@ export const president_2004_tic_227_region_60 = [
     "ballot": "presidential",
     "tikTvd": "260200078239",
     "tikName": "Усвятская",
+    "regionCode": "60",
+    "regionTvd": "1001000882997",
+    "regionName": "Псковская область",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, внесенных в список": 4913,
@@ -1079,6 +1124,9 @@ export const president_2004_tic_227_region_60 = [
     "ballot": "presidential",
     "tikTvd": "260200078240",
     "tikName": "Невельская",
+    "regionCode": "60",
+    "regionTvd": "1001000882997",
+    "regionName": "Псковская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в список": 25727,
@@ -1158,6 +1206,9 @@ export const president_2004_tic_227_region_60 = [
     "ballot": "presidential",
     "tikTvd": "260200078241",
     "tikName": "Локнянская",
+    "regionCode": "60",
+    "regionTvd": "1001000882997",
+    "regionName": "Псковская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список": 10281,
@@ -1226,6 +1277,9 @@ export const president_2004_tic_227_region_60 = [
     "ballot": "presidential",
     "tikTvd": "260200078242",
     "tikName": "Себежская",
+    "regionCode": "60",
+    "regionTvd": "1001000882997",
+    "regionName": "Псковская область",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в список": 18760,
@@ -1309,6 +1363,9 @@ export const president_2004_tic_227_region_60 = [
     "ballot": "presidential",
     "tikTvd": "260200078243",
     "tikName": "Пыталовская",
+    "regionCode": "60",
+    "regionTvd": "1001000882997",
+    "regionName": "Псковская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список": 11353,
@@ -1375,6 +1432,9 @@ export const president_2004_tic_227_region_60 = [
     "ballot": "presidential",
     "tikTvd": "260200078244",
     "tikName": "Стругокрасненская",
+    "regionCode": "60",
+    "regionTvd": "1001000882997",
+    "regionName": "Псковская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список": 13130,
@@ -1443,6 +1503,9 @@ export const president_2004_tic_227_region_60 = [
     "ballot": "presidential",
     "tikTvd": "260200078245",
     "tikName": "Псковская",
+    "regionCode": "60",
+    "regionTvd": "1001000882997",
+    "regionName": "Псковская область",
     "uikCount": 48,
     "accounting": {
       "Число избирателей, внесенных в список": 28953,
@@ -1539,6 +1602,9 @@ export const president_2004_tic_227_region_60 = [
     "ballot": "presidential",
     "tikTvd": "260200078246",
     "tikName": "Пушкиногорская",
+    "regionCode": "60",
+    "regionTvd": "1001000882997",
+    "regionName": "Псковская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список": 9209,
@@ -1606,6 +1672,9 @@ export const president_2004_tic_227_region_60 = [
     "ballot": "presidential",
     "tikTvd": "260200078247",
     "tikName": "Псковская городская",
+    "regionCode": "60",
+    "regionTvd": "1001000882997",
+    "regionName": "Псковская область",
     "uikCount": 87,
     "accounting": {
       "Число избирателей, внесенных в список": 170407,
@@ -1741,6 +1810,9 @@ export const president_2004_tic_227_region_60 = [
     "ballot": "presidential",
     "tikTvd": "260200078248",
     "tikName": "Пустошкинская",
+    "regionCode": "60",
+    "regionTvd": "1001000882997",
+    "regionName": "Псковская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список": 9417,
@@ -1809,6 +1881,9 @@ export const president_2004_tic_227_region_60 = [
     "ballot": "presidential",
     "tikTvd": "260200078249",
     "tikName": "Порховская",
+    "regionCode": "60",
+    "regionTvd": "1001000882997",
+    "regionName": "Псковская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в список": 22407,
@@ -1888,6 +1963,9 @@ export const president_2004_tic_227_region_60 = [
     "ballot": "presidential",
     "tikTvd": "260200078250",
     "tikName": "Великолукская",
+    "regionCode": "60",
+    "regionTvd": "1001000882997",
+    "regionName": "Псковская область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список": 19134,

@@ -11,6 +11,9 @@ export const president_2018_tic_227_region_94 = [
     "ballot": "presidential",
     "tikTvd": "2942000160980",
     "tikName": "Нахимовская",
+    "regionCode": "94",
+    "regionTvd": "100100084849211",
+    "regionName": "город Севастополь",
     "uikCount": 47,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 90846,
@@ -102,6 +105,9 @@ export const president_2018_tic_227_region_94 = [
     "ballot": "presidential",
     "tikTvd": "2942000160981",
     "tikName": "Ленинская",
+    "regionCode": "94",
+    "regionTvd": "100100084849211",
+    "regionName": "город Севастополь",
     "uikCount": 55,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 91688,
@@ -201,6 +207,9 @@ export const president_2018_tic_227_region_94 = [
     "ballot": "presidential",
     "tikTvd": "2942000160982",
     "tikName": "Балаклавская",
+    "regionCode": "94",
+    "regionTvd": "100100084849211",
+    "regionName": "город Севастополь",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 40790,
@@ -277,6 +286,9 @@ export const president_2018_tic_227_region_94 = [
     "ballot": "presidential",
     "tikTvd": "2942000160983",
     "tikName": "Гагаринская",
+    "regionCode": "94",
+    "regionTvd": "100100084849211",
+    "regionName": "город Севастополь",
     "uikCount": 48,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 115686,

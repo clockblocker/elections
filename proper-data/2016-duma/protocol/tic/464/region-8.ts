@@ -11,6 +11,14 @@ export const duma_2016_tic_464_region_8 = [
     "ballot": "single-member",
     "tikTvd": "2082000402616",
     "tikName": "Малодербетовская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    },
     "uikCount": 12,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 7714,
@@ -75,6 +83,14 @@ export const duma_2016_tic_464_region_8 = [
     "ballot": "single-member",
     "tikTvd": "2082000402617",
     "tikName": "Сарпинская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    },
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 9302,
@@ -142,6 +158,14 @@ export const duma_2016_tic_464_region_8 = [
     "ballot": "single-member",
     "tikTvd": "2082000402618",
     "tikName": "Лаганская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    },
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 13777,
@@ -217,6 +241,14 @@ export const duma_2016_tic_464_region_8 = [
     "ballot": "single-member",
     "tikTvd": "2082000402619",
     "tikName": "Юстинская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    },
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 7095,
@@ -284,6 +316,14 @@ export const duma_2016_tic_464_region_8 = [
     "ballot": "single-member",
     "tikTvd": "2082000402620",
     "tikName": "Черноземельская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    },
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 8228,
@@ -349,6 +389,14 @@ export const duma_2016_tic_464_region_8 = [
     "ballot": "single-member",
     "tikTvd": "2082000402621",
     "tikName": "Приютненская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    },
     "uikCount": 12,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 8090,
@@ -413,6 +461,14 @@ export const duma_2016_tic_464_region_8 = [
     "ballot": "single-member",
     "tikTvd": "2082000402622",
     "tikName": "Кетченеровская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    },
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 7418,
@@ -481,6 +537,14 @@ export const duma_2016_tic_464_region_8 = [
     "ballot": "single-member",
     "tikTvd": "2082000402623",
     "tikName": "Яшкульская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    },
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 10081,
@@ -548,6 +612,14 @@ export const duma_2016_tic_464_region_8 = [
     "ballot": "single-member",
     "tikTvd": "2082000402624",
     "tikName": "Целинная",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    },
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 14460,
@@ -618,6 +690,14 @@ export const duma_2016_tic_464_region_8 = [
     "ballot": "single-member",
     "tikTvd": "2082000402625",
     "tikName": "Яшалтинская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    },
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 11219,
@@ -685,6 +765,14 @@ export const duma_2016_tic_464_region_8 = [
     "ballot": "single-member",
     "tikTvd": "2082000402626",
     "tikName": "Городовиковская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    },
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 13036,
@@ -760,6 +848,14 @@ export const duma_2016_tic_464_region_8 = [
     "ballot": "single-member",
     "tikTvd": "2082000402627",
     "tikName": "Ики-Бурульская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    },
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 7417,
@@ -826,6 +922,14 @@ export const duma_2016_tic_464_region_8 = [
     "ballot": "single-member",
     "tikTvd": "2082000402628",
     "tikName": "Элистинская городская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    },
     "uikCount": 50,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 87436,
@@ -928,6 +1032,14 @@ export const duma_2016_tic_464_region_8 = [
     "ballot": "single-member",
     "tikTvd": "2082000402629",
     "tikName": "Октябрьская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    },
     "uikCount": 10,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 6082,

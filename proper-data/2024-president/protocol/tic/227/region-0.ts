@@ -11,6 +11,9 @@ export const president_2024_tic_227_region_0 = [
     "ballot": "presidential",
     "tikTvd": "100100340344874",
     "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100340344874",
+    "regionName": "Территория за пределами РФ",
     "uikCount": 288,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 383553,
@@ -339,6 +342,9 @@ export const president_2024_tic_227_region_0 = [
     "ballot": "presidential",
     "tikTvd": "100100340344875",
     "tikName": "Город Байконур (Республика Казахстан)",
+    "regionCode": "0",
+    "regionTvd": "100100340344875",
+    "regionName": "Город Байконур (Республика Казахстан)",
     "uikCount": 7,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 13064,

@@ -11,6 +11,9 @@ export const duma_2011_tic_233_region_23 = [
     "ballot": "party",
     "tikTvd": "2232000586426",
     "tikName": "Армавирская",
+    "regionCode": "23",
+    "regionTvd": "100100028713340",
+    "regionName": "Краснодарский край",
     "uikCount": 74,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 125882,
@@ -134,6 +137,9 @@ export const duma_2011_tic_233_region_23 = [
     "ballot": "party",
     "tikTvd": "2232000586427",
     "tikName": "Тимашевская",
+    "regionCode": "23",
+    "regionTvd": "100100028713340",
+    "regionName": "Краснодарский край",
     "uikCount": 61,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 76654,
@@ -244,6 +250,9 @@ export const duma_2011_tic_233_region_23 = [
     "ballot": "party",
     "tikTvd": "2232000586428",
     "tikName": "Темрюкская",
+    "regionCode": "23",
+    "regionTvd": "100100028713340",
+    "regionName": "Краснодарский край",
     "uikCount": 54,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 84393,
@@ -347,6 +356,9 @@ export const duma_2011_tic_233_region_23 = [
     "ballot": "party",
     "tikTvd": "2232000586429",
     "tikName": "Тбилисская",
+    "regionCode": "23",
+    "regionTvd": "100100028713340",
+    "regionName": "Краснодарский край",
     "uikCount": 45,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 37406,
@@ -441,6 +453,9 @@ export const duma_2011_tic_233_region_23 = [
     "ballot": "party",
     "tikTvd": "2232000586430",
     "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100028713340",
+    "regionName": "Краснодарский край",
     "uikCount": 63,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 96938,
@@ -553,6 +568,9 @@ export const duma_2011_tic_233_region_23 = [
     "ballot": "party",
     "tikTvd": "2232000586431",
     "tikName": "Приморско-Ахтарская",
+    "regionCode": "23",
+    "regionTvd": "100100028713340",
+    "regionName": "Краснодарский край",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 41791,
@@ -637,6 +655,9 @@ export const duma_2011_tic_233_region_23 = [
     "ballot": "party",
     "tikTvd": "2232000586432",
     "tikName": "Новокубанская",
+    "regionCode": "23",
+    "regionTvd": "100100028713340",
+    "regionName": "Краснодарский край",
     "uikCount": 60,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 65321,
@@ -746,6 +767,9 @@ export const duma_2011_tic_233_region_23 = [
     "ballot": "party",
     "tikTvd": "2232000586433",
     "tikName": "Курганинская",
+    "regionCode": "23",
+    "regionTvd": "100100028713340",
+    "regionName": "Краснодарский край",
     "uikCount": 59,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 70111,
@@ -854,6 +878,9 @@ export const duma_2011_tic_233_region_23 = [
     "ballot": "party",
     "tikTvd": "2232000586434",
     "tikName": "Кореновская",
+    "regionCode": "23",
+    "regionTvd": "100100028713340",
+    "regionName": "Краснодарский край",
     "uikCount": 57,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 64349,
@@ -960,6 +987,9 @@ export const duma_2011_tic_233_region_23 = [
     "ballot": "party",
     "tikTvd": "2232000586435",
     "tikName": "Калининская",
+    "regionCode": "23",
+    "regionTvd": "100100028713340",
+    "regionName": "Краснодарский край",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 36270,
@@ -1034,6 +1064,9 @@ export const duma_2011_tic_233_region_23 = [
     "ballot": "party",
     "tikTvd": "2232000586436",
     "tikName": "Выселковская",
+    "regionCode": "23",
+    "regionTvd": "100100028713340",
+    "regionName": "Краснодарский край",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 46399,
@@ -1123,6 +1156,9 @@ export const duma_2011_tic_233_region_23 = [
     "ballot": "party",
     "tikTvd": "2232000586437",
     "tikName": "Щербиновская",
+    "regionCode": "23",
+    "regionTvd": "100100028713340",
+    "regionName": "Краснодарский край",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 29096,
@@ -1190,6 +1226,9 @@ export const duma_2011_tic_233_region_23 = [
     "ballot": "party",
     "tikTvd": "2232000586438",
     "tikName": "Тихорецкая городская",
+    "regionCode": "23",
+    "regionTvd": "100100028713340",
+    "regionName": "Краснодарский край",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 49877,
@@ -1274,6 +1313,9 @@ export const duma_2011_tic_233_region_23 = [
     "ballot": "party",
     "tikTvd": "2232000586439",
     "tikName": "Тихорецкая районная",
+    "regionCode": "23",
+    "regionTvd": "100100028713340",
+    "regionName": "Краснодарский край",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 43814,
@@ -1366,6 +1408,9 @@ export const duma_2011_tic_233_region_23 = [
     "ballot": "party",
     "tikTvd": "2232000586440",
     "tikName": "Староминская",
+    "regionCode": "23",
+    "regionTvd": "100100028713340",
+    "regionName": "Краснодарский край",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 31908,
@@ -1436,6 +1481,9 @@ export const duma_2011_tic_233_region_23 = [
     "ballot": "party",
     "tikTvd": "2232000586441",
     "tikName": "Павловская",
+    "regionCode": "23",
+    "regionTvd": "100100028713340",
+    "regionName": "Краснодарский край",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 53375,
@@ -1529,6 +1577,9 @@ export const duma_2011_tic_233_region_23 = [
     "ballot": "party",
     "tikTvd": "2232000586442",
     "tikName": "Новопокровская",
+    "regionCode": "23",
+    "regionTvd": "100100028713340",
+    "regionName": "Краснодарский край",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 34602,
@@ -1607,6 +1658,9 @@ export const duma_2011_tic_233_region_23 = [
     "ballot": "party",
     "tikTvd": "2232000586443",
     "tikName": "Ленинградская",
+    "regionCode": "23",
+    "regionTvd": "100100028713340",
+    "regionName": "Краснодарский край",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 50256,
@@ -1691,6 +1745,9 @@ export const duma_2011_tic_233_region_23 = [
     "ballot": "party",
     "tikTvd": "2232000586444",
     "tikName": "Кущевская",
+    "regionCode": "23",
+    "regionTvd": "100100028713340",
+    "regionName": "Краснодарский край",
     "uikCount": 49,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 53321,
@@ -1789,6 +1846,9 @@ export const duma_2011_tic_233_region_23 = [
     "ballot": "party",
     "tikTvd": "2232000586445",
     "tikName": "Крыловская",
+    "regionCode": "23",
+    "regionTvd": "100100028713340",
+    "regionName": "Краснодарский край",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 25387,
@@ -1875,6 +1935,9 @@ export const duma_2011_tic_233_region_23 = [
     "ballot": "party",
     "tikTvd": "2232000586446",
     "tikName": "Каневская",
+    "regionCode": "23",
+    "regionTvd": "100100028713340",
+    "regionName": "Краснодарский край",
     "uikCount": 52,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 72709,
@@ -1976,6 +2039,9 @@ export const duma_2011_tic_233_region_23 = [
     "ballot": "party",
     "tikTvd": "2232000586447",
     "tikName": "Кавказская",
+    "regionCode": "23",
+    "regionTvd": "100100028713340",
+    "regionName": "Краснодарский край",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 34721,
@@ -2048,6 +2114,9 @@ export const duma_2011_tic_233_region_23 = [
     "ballot": "party",
     "tikTvd": "2232000586448",
     "tikName": "Ейская городская",
+    "regionCode": "23",
+    "regionTvd": "100100028713340",
+    "regionName": "Краснодарский край",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 71950,
@@ -2137,6 +2206,9 @@ export const duma_2011_tic_233_region_23 = [
     "ballot": "party",
     "tikTvd": "2232000586449",
     "tikName": "Ейская районная",
+    "regionCode": "23",
+    "regionTvd": "100100028713340",
+    "regionName": "Краснодарский край",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 32735,
@@ -2212,6 +2284,9 @@ export const duma_2011_tic_233_region_23 = [
     "ballot": "party",
     "tikTvd": "2232000586450",
     "tikName": "Гулькевичская",
+    "regionCode": "23",
+    "regionTvd": "100100028713340",
+    "regionName": "Краснодарский край",
     "uikCount": 70,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 72925,
@@ -2331,6 +2406,9 @@ export const duma_2011_tic_233_region_23 = [
     "ballot": "party",
     "tikTvd": "2232000586451",
     "tikName": "Брюховецкая",
+    "regionCode": "23",
+    "regionTvd": "100100028713340",
+    "regionName": "Краснодарский край",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 43300,
@@ -2416,6 +2494,9 @@ export const duma_2011_tic_233_region_23 = [
     "ballot": "party",
     "tikTvd": "2232000586452",
     "tikName": "Белоглинская",
+    "regionCode": "23",
+    "regionTvd": "100100028713340",
+    "regionName": "Краснодарский край",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 23564,
@@ -2486,6 +2567,9 @@ export const duma_2011_tic_233_region_23 = [
     "ballot": "party",
     "tikTvd": "2232000586453",
     "tikName": "Северская",
+    "regionCode": "23",
+    "regionTvd": "100100028713340",
+    "regionName": "Краснодарский край",
     "uikCount": 70,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 84531,
@@ -2605,6 +2689,9 @@ export const duma_2011_tic_233_region_23 = [
     "ballot": "party",
     "tikTvd": "2232000586454",
     "tikName": "Краснодар, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100028713340",
+    "regionName": "Краснодарский край",
     "uikCount": 64,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 115566,
@@ -2718,6 +2805,9 @@ export const duma_2011_tic_233_region_23 = [
     "ballot": "party",
     "tikTvd": "2232000586455",
     "tikName": "Краснодар, Прикубанская",
+    "regionCode": "23",
+    "regionTvd": "100100028713340",
+    "regionName": "Краснодарский край",
     "uikCount": 93,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 201523,
@@ -2860,6 +2950,9 @@ export const duma_2011_tic_233_region_23 = [
     "ballot": "party",
     "tikTvd": "2232000586456",
     "tikName": "Краснодар, Карасунская",
+    "regionCode": "23",
+    "regionTvd": "100100028713340",
+    "regionName": "Краснодарский край",
     "uikCount": 72,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 164398,
@@ -2981,6 +3074,9 @@ export const duma_2011_tic_233_region_23 = [
     "ballot": "party",
     "tikTvd": "2232000586457",
     "tikName": "Краснодар, Западная",
+    "regionCode": "23",
+    "regionTvd": "100100028713340",
+    "regionName": "Краснодарский край",
     "uikCount": 64,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 121743,
@@ -3094,6 +3190,9 @@ export const duma_2011_tic_233_region_23 = [
     "ballot": "party",
     "tikTvd": "2232000586458",
     "tikName": "Горячеключевская",
+    "regionCode": "23",
+    "regionTvd": "100100028713340",
+    "regionName": "Краснодарский край",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 44124,
@@ -3180,6 +3279,9 @@ export const duma_2011_tic_233_region_23 = [
     "ballot": "party",
     "tikTvd": "2232000586459",
     "tikName": "Белореченская",
+    "regionCode": "23",
+    "regionTvd": "100100028713340",
+    "regionName": "Краснодарский край",
     "uikCount": 75,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 72311,
@@ -3304,6 +3406,9 @@ export const duma_2011_tic_233_region_23 = [
     "ballot": "party",
     "tikTvd": "2232000586460",
     "tikName": "Новороссийск, Южная",
+    "regionCode": "23",
+    "regionTvd": "100100028713340",
+    "regionName": "Краснодарский край",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 39784,
@@ -3376,6 +3481,9 @@ export const duma_2011_tic_233_region_23 = [
     "ballot": "party",
     "tikTvd": "2232000586461",
     "tikName": "Усть-Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100028713340",
+    "regionName": "Краснодарский край",
     "uikCount": 62,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 80738,
@@ -3487,6 +3595,9 @@ export const duma_2011_tic_233_region_23 = [
     "ballot": "party",
     "tikTvd": "2232000586462",
     "tikName": "Новороссийск, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100028713340",
+    "regionName": "Краснодарский край",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 45798,
@@ -3567,6 +3678,9 @@ export const duma_2011_tic_233_region_23 = [
     "ballot": "party",
     "tikTvd": "2232000586463",
     "tikName": "Новороссийск, Судовая",
+    "regionCode": "23",
+    "regionTvd": "100100028713340",
+    "regionName": "Краснодарский край",
     "uikCount": 2,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 54,
@@ -3618,6 +3732,9 @@ export const duma_2011_tic_233_region_23 = [
     "ballot": "party",
     "tikTvd": "2232000586464",
     "tikName": "Новороссийск, Приморская",
+    "regionCode": "23",
+    "regionTvd": "100100028713340",
+    "regionName": "Краснодарский край",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 42021,
@@ -3693,6 +3810,9 @@ export const duma_2011_tic_233_region_23 = [
     "ballot": "party",
     "tikTvd": "2232000586465",
     "tikName": "Новороссийск, Восточная",
+    "regionCode": "23",
+    "regionTvd": "100100028713340",
+    "regionName": "Краснодарский край",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 23508,
@@ -3760,6 +3880,9 @@ export const duma_2011_tic_233_region_23 = [
     "ballot": "party",
     "tikTvd": "2232000586466",
     "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100028713340",
+    "regionName": "Краснодарский край",
     "uikCount": 65,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 97268,
@@ -3874,6 +3997,9 @@ export const duma_2011_tic_233_region_23 = [
     "ballot": "party",
     "tikTvd": "2232000586467",
     "tikName": "Красноармейская",
+    "regionCode": "23",
+    "regionTvd": "100100028713340",
+    "regionName": "Краснодарский край",
     "uikCount": 65,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 79217,
@@ -3988,6 +4114,9 @@ export const duma_2011_tic_233_region_23 = [
     "ballot": "party",
     "tikTvd": "2232000586468",
     "tikName": "Динская",
+    "regionCode": "23",
+    "regionTvd": "100100028713340",
+    "regionName": "Краснодарский край",
     "uikCount": 48,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 93154,
@@ -4085,6 +4214,9 @@ export const duma_2011_tic_233_region_23 = [
     "ballot": "party",
     "tikTvd": "2232000586469",
     "tikName": "Анапская",
+    "regionCode": "23",
+    "regionTvd": "100100028713340",
+    "regionName": "Краснодарский край",
     "uikCount": 68,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 106972,
@@ -4202,6 +4334,9 @@ export const duma_2011_tic_233_region_23 = [
     "ballot": "party",
     "tikTvd": "2232000586470",
     "tikName": "Абинская",
+    "regionCode": "23",
+    "regionTvd": "100100028713340",
+    "regionName": "Краснодарский край",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 66496,
@@ -4293,6 +4428,9 @@ export const duma_2011_tic_233_region_23 = [
     "ballot": "party",
     "tikTvd": "2232000586471",
     "tikName": "Кропоткинская",
+    "regionCode": "23",
+    "regionTvd": "100100028713340",
+    "regionName": "Краснодарский край",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 57981,
@@ -4377,6 +4515,9 @@ export const duma_2011_tic_233_region_23 = [
     "ballot": "party",
     "tikTvd": "2232000586472",
     "tikName": "Успенская",
+    "regionCode": "23",
+    "regionTvd": "100100028713340",
+    "regionName": "Краснодарский край",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 29590,
@@ -4450,6 +4591,9 @@ export const duma_2011_tic_233_region_23 = [
     "ballot": "party",
     "tikTvd": "2232000586473",
     "tikName": "Туапсинская городская",
+    "regionCode": "23",
+    "regionTvd": "100100028713340",
+    "regionName": "Краснодарский край",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 44793,
@@ -4527,6 +4671,9 @@ export const duma_2011_tic_233_region_23 = [
     "ballot": "party",
     "tikTvd": "2232000586474",
     "tikName": "Туапсинская районная",
+    "regionCode": "23",
+    "regionTvd": "100100028713340",
+    "regionName": "Краснодарский край",
     "uikCount": 57,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 40777,
@@ -4633,6 +4780,9 @@ export const duma_2011_tic_233_region_23 = [
     "ballot": "party",
     "tikTvd": "2232000586475",
     "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100028713340",
+    "regionName": "Краснодарский край",
     "uikCount": 62,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 93627,
@@ -4744,6 +4894,9 @@ export const duma_2011_tic_233_region_23 = [
     "ballot": "party",
     "tikTvd": "2232000586476",
     "tikName": "Сочи, Хостинская",
+    "regionCode": "23",
+    "regionTvd": "100100028713340",
+    "regionName": "Краснодарский край",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 55295,
@@ -4827,6 +4980,9 @@ export const duma_2011_tic_233_region_23 = [
     "ballot": "party",
     "tikTvd": "2232000586477",
     "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100028713340",
+    "regionName": "Краснодарский край",
     "uikCount": 55,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 60275,
@@ -4931,6 +5087,9 @@ export const duma_2011_tic_233_region_23 = [
     "ballot": "party",
     "tikTvd": "2232000586478",
     "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100028713340",
+    "regionName": "Краснодарский край",
     "uikCount": 76,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 83489,
@@ -5056,6 +5215,9 @@ export const duma_2011_tic_233_region_23 = [
     "ballot": "party",
     "tikTvd": "2232000586479",
     "tikName": "Отрадненская",
+    "regionCode": "23",
+    "regionTvd": "100100028713340",
+    "regionName": "Краснодарский край",
     "uikCount": 51,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 47643,
@@ -5156,6 +5318,9 @@ export const duma_2011_tic_233_region_23 = [
     "ballot": "party",
     "tikTvd": "2232000586480",
     "tikName": "Мостовская",
+    "regionCode": "23",
+    "regionTvd": "100100028713340",
+    "regionName": "Краснодарский край",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 50568,
@@ -5247,6 +5412,9 @@ export const duma_2011_tic_233_region_23 = [
     "ballot": "party",
     "tikTvd": "2232000586481",
     "tikName": "Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100028713340",
+    "regionName": "Краснодарский край",
     "uikCount": 54,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 74640,
@@ -5350,6 +5518,9 @@ export const duma_2011_tic_233_region_23 = [
     "ballot": "party",
     "tikTvd": "2232000586482",
     "tikName": "Геленджикская",
+    "regionCode": "23",
+    "regionTvd": "100100028713340",
+    "regionName": "Краснодарский край",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 70326,
@@ -5437,6 +5608,9 @@ export const duma_2011_tic_233_region_23 = [
     "ballot": "party",
     "tikTvd": "2232000586483",
     "tikName": "Апшеронская",
+    "regionCode": "23",
+    "regionTvd": "100100028713340",
+    "regionName": "Краснодарский край",
     "uikCount": 57,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 58333,
@@ -5543,6 +5717,9 @@ export const duma_2011_tic_233_region_23 = [
     "ballot": "party",
     "tikTvd": "2232000586485",
     "tikName": "Новороссийск, Пригородная",
+    "regionCode": "23",
+    "regionTvd": "100100028713340",
+    "regionName": "Краснодарский край",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 34494,

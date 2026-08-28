@@ -11,6 +11,9 @@ export const president_2024_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "25620001965749",
     "tikName": "Октябрьская",
+    "regionCode": "56",
+    "regionTvd": "100100339411249",
+    "regionName": "Оренбургская область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 14874,
@@ -87,6 +90,9 @@ export const president_2024_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "25620001965750",
     "tikName": "Акбулакская",
+    "regionCode": "56",
+    "regionTvd": "100100339411249",
+    "regionName": "Оренбургская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 16725,
@@ -155,6 +161,9 @@ export const president_2024_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "25620001965751",
     "tikName": "Илекская",
+    "regionCode": "56",
+    "regionTvd": "100100339411249",
+    "regionName": "Оренбургская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 17392,
@@ -217,6 +226,9 @@ export const president_2024_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "25620001965752",
     "tikName": "Северная",
+    "regionCode": "56",
+    "regionTvd": "100100339411249",
+    "regionName": "Оренбургская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9592,
@@ -283,6 +295,9 @@ export const president_2024_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "25620001965753",
     "tikName": "Матвеевская",
+    "regionCode": "56",
+    "regionTvd": "100100339411249",
+    "regionName": "Оренбургская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 8672,
@@ -343,6 +358,9 @@ export const president_2024_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "25620001965754",
     "tikName": "Бузулукская городская",
+    "regionCode": "56",
+    "regionTvd": "100100339411249",
+    "regionName": "Оренбургская область",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 64471,
@@ -422,6 +440,9 @@ export const president_2024_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "25620001965755",
     "tikName": "ЗАТО Комаровская",
+    "regionCode": "56",
+    "regionTvd": "100100339411249",
+    "regionName": "Оренбургская область",
     "uikCount": 2,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 5075,
@@ -464,6 +485,9 @@ export const president_2024_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "25620001965756",
     "tikName": "Оренбург, Центральная",
+    "regionCode": "56",
+    "regionTvd": "100100339411249",
+    "regionName": "Оренбургская область",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 72574,
@@ -539,6 +563,9 @@ export const president_2024_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "25620001965757",
     "tikName": "Александровская",
+    "regionCode": "56",
+    "regionTvd": "100100339411249",
+    "regionName": "Оренбургская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10281,
@@ -605,6 +632,9 @@ export const president_2024_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "25620001965758",
     "tikName": "Оренбург, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100339411249",
+    "regionName": "Оренбургская область",
     "uikCount": 75,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 154644,
@@ -720,6 +750,9 @@ export const president_2024_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "25620001965759",
     "tikName": "Шарлыкская",
+    "regionCode": "56",
+    "regionTvd": "100100339411249",
+    "regionName": "Оренбургская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 12962,
@@ -794,6 +827,9 @@ export const president_2024_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "25620001965760",
     "tikName": "Новоорская",
+    "regionCode": "56",
+    "regionTvd": "100100339411249",
+    "regionName": "Оренбургская область",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 21473,
@@ -850,6 +886,9 @@ export const president_2024_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "25620001965761",
     "tikName": "Ташлинская",
+    "regionCode": "56",
+    "regionTvd": "100100339411249",
+    "regionName": "Оренбургская область",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 16815,
@@ -928,6 +967,9 @@ export const president_2024_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "25620001965762",
     "tikName": "Абдулинская городская",
+    "regionCode": "56",
+    "regionTvd": "100100339411249",
+    "regionName": "Оренбургская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 21683,
@@ -1002,6 +1044,9 @@ export const president_2024_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "25620001965763",
     "tikName": "Новотроицкая городская",
+    "regionCode": "56",
+    "regionTvd": "100100339411249",
+    "regionName": "Оренбургская область",
     "uikCount": 59,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 69265,
@@ -1101,6 +1146,9 @@ export const president_2024_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "25620001965764",
     "tikName": "Адамовская",
+    "regionCode": "56",
+    "regionTvd": "100100339411249",
+    "regionName": "Оренбургская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 15366,
@@ -1175,6 +1223,9 @@ export const president_2024_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "25620001965765",
     "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100339411249",
+    "regionName": "Оренбургская область",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 24152,
@@ -1256,6 +1307,9 @@ export const president_2024_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "25620001965766",
     "tikName": "Оренбургская",
+    "regionCode": "56",
+    "regionTvd": "100100339411249",
+    "regionName": "Оренбургская область",
     "uikCount": 71,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 93001,
@@ -1367,6 +1421,9 @@ export const president_2024_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "25620001965767",
     "tikName": "Соль-Илецкая городская",
+    "regionCode": "56",
+    "regionTvd": "100100339411249",
+    "regionName": "Оренбургская область",
     "uikCount": 51,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 36168,
@@ -1458,6 +1515,9 @@ export const president_2024_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "25620001965768",
     "tikName": "Пономаревская",
+    "regionCode": "56",
+    "regionTvd": "100100339411249",
+    "regionName": "Оренбургская область",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10121,
@@ -1514,6 +1574,9 @@ export const president_2024_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "25620001965769",
     "tikName": "Ясненская городская",
+    "regionCode": "56",
+    "regionTvd": "100100339411249",
+    "regionName": "Оренбургская область",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 14427,
@@ -1566,6 +1629,9 @@ export const president_2024_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "25620001965770",
     "tikName": "Тюльганская",
+    "regionCode": "56",
+    "regionTvd": "100100339411249",
+    "regionName": "Оренбургская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 13993,
@@ -1627,6 +1693,9 @@ export const president_2024_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "25620001965771",
     "tikName": "Асекеевская",
+    "regionCode": "56",
+    "regionTvd": "100100339411249",
+    "regionName": "Оренбургская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 13648,
@@ -1691,6 +1760,9 @@ export const president_2024_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "25620001965772",
     "tikName": "Переволоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100339411249",
+    "regionName": "Оренбургская область",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 18206,
@@ -1772,6 +1844,9 @@ export const president_2024_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "25620001965773",
     "tikName": "Бугурусланская городская",
+    "regionCode": "56",
+    "regionTvd": "100100339411249",
+    "regionName": "Оренбургская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 35151,
@@ -1834,6 +1909,9 @@ export const president_2024_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "25620001965774",
     "tikName": "Гайская городская",
+    "regionCode": "56",
+    "regionTvd": "100100339411249",
+    "regionName": "Оренбургская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 34685,
@@ -1914,6 +1992,9 @@ export const president_2024_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "25620001965775",
     "tikName": "Кувандыкская городская",
+    "regionCode": "56",
+    "regionTvd": "100100339411249",
+    "regionName": "Оренбургская область",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 31198,
@@ -1997,6 +2078,9 @@ export const president_2024_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "25620001965776",
     "tikName": "Орск, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100339411249",
+    "regionName": "Оренбургская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 51994,
@@ -2068,6 +2152,9 @@ export const president_2024_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "25620001965777",
     "tikName": "Красногвардейская",
+    "regionCode": "56",
+    "regionTvd": "100100339411249",
+    "regionName": "Оренбургская область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 13817,
@@ -2144,6 +2231,9 @@ export const president_2024_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "25620001965778",
     "tikName": "Бугурусланская",
+    "regionCode": "56",
+    "regionTvd": "100100339411249",
+    "regionName": "Оренбургская область",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 13380,
@@ -2221,6 +2311,9 @@ export const president_2024_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "25620001965779",
     "tikName": "Сорочинская городская",
+    "regionCode": "56",
+    "regionTvd": "100100339411249",
+    "regionName": "Оренбургская область",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 30800,
@@ -2299,6 +2392,9 @@ export const president_2024_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "25620001965780",
     "tikName": "Домбаровская",
+    "regionCode": "56",
+    "regionTvd": "100100339411249",
+    "regionName": "Оренбургская область",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9961,
@@ -2355,6 +2451,9 @@ export const president_2024_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "25620001965781",
     "tikName": "Кваркенская",
+    "regionCode": "56",
+    "regionTvd": "100100339411249",
+    "regionName": "Оренбургская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 11422,
@@ -2417,6 +2516,9 @@ export const president_2024_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "25620001965782",
     "tikName": "Тоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100339411249",
+    "regionName": "Оренбургская область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 21014,
@@ -2493,6 +2595,9 @@ export const president_2024_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "25620001965783",
     "tikName": "Бузулукская",
+    "regionCode": "56",
+    "regionTvd": "100100339411249",
+    "regionName": "Оренбургская область",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 23093,
@@ -2576,6 +2681,9 @@ export const president_2024_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "25620001965784",
     "tikName": "Грачевская",
+    "regionCode": "56",
+    "regionTvd": "100100339411249",
+    "regionName": "Оренбургская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9843,
@@ -2637,6 +2745,9 @@ export const president_2024_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "25620001965785",
     "tikName": "Сакмарская",
+    "regionCode": "56",
+    "regionTvd": "100100339411249",
+    "regionName": "Оренбургская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 19698,
@@ -2698,6 +2809,9 @@ export const president_2024_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "25620001965786",
     "tikName": "Орск, Октябрьская",
+    "regionCode": "56",
+    "regionTvd": "100100339411249",
+    "regionName": "Оренбургская область",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 67449,
@@ -2777,6 +2891,9 @@ export const president_2024_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "25620001965787",
     "tikName": "Медногорская городская",
+    "regionCode": "56",
+    "regionTvd": "100100339411249",
+    "regionName": "Оренбургская область",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 19983,
@@ -2833,6 +2950,9 @@ export const president_2024_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "25620001965788",
     "tikName": "Курманаевская",
+    "regionCode": "56",
+    "regionTvd": "100100339411249",
+    "regionName": "Оренбургская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 12471,
@@ -2896,6 +3016,9 @@ export const president_2024_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "25620001965789",
     "tikName": "Саракташская",
+    "regionCode": "56",
+    "regionTvd": "100100339411249",
+    "regionName": "Оренбургская область",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 29058,
@@ -2982,6 +3105,9 @@ export const president_2024_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "25620001965790",
     "tikName": "Беляевская",
+    "regionCode": "56",
+    "regionTvd": "100100339411249",
+    "regionName": "Оренбургская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10795,
@@ -3048,6 +3174,9 @@ export const president_2024_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "25620001965791",
     "tikName": "Оренбург, Промышленная",
+    "regionCode": "56",
+    "regionTvd": "100100339411249",
+    "regionName": "Оренбургская область",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 83960,
@@ -3138,6 +3267,9 @@ export const president_2024_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "25620001965792",
     "tikName": "Светлинская",
+    "regionCode": "56",
+    "regionTvd": "100100339411249",
+    "regionName": "Оренбургская область",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 8079,
@@ -3190,6 +3322,9 @@ export const president_2024_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "25620001965793",
     "tikName": "Орск, Советская",
+    "regionCode": "56",
+    "regionTvd": "100100339411249",
+    "regionName": "Оренбургская область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 51497,
@@ -3266,6 +3401,9 @@ export const president_2024_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "25620001965794",
     "tikName": "Первомайская",
+    "regionCode": "56",
+    "regionTvd": "100100339411249",
+    "regionName": "Оренбургская область",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 16553,
@@ -3339,6 +3477,9 @@ export const president_2024_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "25620001965795",
     "tikName": "Оренбург, Дзержинская",
+    "regionCode": "56",
+    "regionTvd": "100100339411249",
+    "regionName": "Оренбургская область",
     "uikCount": 65,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 125037,

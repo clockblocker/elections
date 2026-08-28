@@ -11,6 +11,9 @@ export const president_2024_tic_227_region_93 = [
     "ballot": "presidential",
     "tikTvd": "2932000879342",
     "tikName": "ТИК Черноморского района",
+    "regionCode": "93",
+    "regionTvd": "100100339411278",
+    "regionName": "Республика Крым",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 24466,
@@ -84,6 +87,9 @@ export const president_2024_tic_227_region_93 = [
     "ballot": "presidential",
     "tikTvd": "2932000879343",
     "tikName": "ТИК Бахчисарайского района",
+    "regionCode": "93",
+    "regionTvd": "100100339411278",
+    "regionName": "Республика Крым",
     "uikCount": 73,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 67279,
@@ -197,6 +203,9 @@ export const president_2024_tic_227_region_93 = [
     "ballot": "presidential",
     "tikTvd": "2932000879344",
     "tikName": "ТИК Первомайского района",
+    "regionCode": "93",
+    "regionTvd": "100100339411278",
+    "regionName": "Республика Крым",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 21140,
@@ -271,6 +280,9 @@ export const president_2024_tic_227_region_93 = [
     "ballot": "presidential",
     "tikTvd": "2932000879345",
     "tikName": "ТИК Центрального района города Симферополя",
+    "regionCode": "93",
+    "regionTvd": "100100339411278",
+    "regionName": "Республика Крым",
     "uikCount": 48,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 74608,
@@ -359,6 +371,9 @@ export const president_2024_tic_227_region_93 = [
     "ballot": "presidential",
     "tikTvd": "2932000879346",
     "tikName": "ТИК Красногвардейского района",
+    "regionCode": "93",
+    "regionTvd": "100100339411278",
+    "regionName": "Республика Крым",
     "uikCount": 64,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 58534,
@@ -463,6 +478,9 @@ export const president_2024_tic_227_region_93 = [
     "ballot": "presidential",
     "tikTvd": "2932000879347",
     "tikName": "ТИК Сакского района",
+    "regionCode": "93",
+    "regionTvd": "100100339411278",
+    "regionName": "Республика Крым",
     "uikCount": 62,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 58714,
@@ -565,6 +583,9 @@ export const president_2024_tic_227_region_93 = [
     "ballot": "presidential",
     "tikTvd": "2932000879348",
     "tikName": "ТИК Белогорского района",
+    "regionCode": "93",
+    "regionTvd": "100100339411278",
+    "regionName": "Республика Крым",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 43306,
@@ -649,6 +670,9 @@ export const president_2024_tic_227_region_93 = [
     "ballot": "presidential",
     "tikTvd": "2932000879349",
     "tikName": "ТИК № 2 Симферопольского района",
+    "regionCode": "93",
+    "regionTvd": "100100339411278",
+    "regionName": "Республика Крым",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 67977,
@@ -733,6 +757,9 @@ export const president_2024_tic_227_region_93 = [
     "ballot": "presidential",
     "tikTvd": "2932000879350",
     "tikName": "ТИК Советского района",
+    "regionCode": "93",
+    "regionTvd": "100100339411278",
+    "regionName": "Республика Крым",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 23401,
@@ -805,6 +832,9 @@ export const president_2024_tic_227_region_93 = [
     "ballot": "presidential",
     "tikTvd": "2932000879351",
     "tikName": "ТИК города Алушты",
+    "regionCode": "93",
+    "regionTvd": "100100339411278",
+    "regionName": "Республика Крым",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 39595,
@@ -882,6 +912,9 @@ export const president_2024_tic_227_region_93 = [
     "ballot": "presidential",
     "tikTvd": "2932000879352",
     "tikName": "ТИК города Феодосии",
+    "regionCode": "93",
+    "regionTvd": "100100339411278",
+    "regionName": "Республика Крым",
     "uikCount": 47,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 74342,
@@ -969,6 +1002,9 @@ export const president_2024_tic_227_region_93 = [
     "ballot": "presidential",
     "tikTvd": "2932000879353",
     "tikName": "ТИК города Армянска",
+    "regionCode": "93",
+    "regionTvd": "100100339411278",
+    "regionName": "Республика Крым",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 18715,
@@ -1023,6 +1059,9 @@ export const president_2024_tic_227_region_93 = [
     "ballot": "presidential",
     "tikTvd": "2932000879354",
     "tikName": "ТИК города Судака",
+    "regionCode": "93",
+    "regionTvd": "100100339411278",
+    "regionName": "Республика Крым",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 23623,
@@ -1086,6 +1125,9 @@ export const president_2024_tic_227_region_93 = [
     "ballot": "presidential",
     "tikTvd": "2932000879355",
     "tikName": "ТИК города Джанкоя",
+    "regionCode": "93",
+    "regionTvd": "100100339411278",
+    "regionName": "Республика Крым",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 29673,
@@ -1144,6 +1186,9 @@ export const president_2024_tic_227_region_93 = [
     "ballot": "presidential",
     "tikTvd": "2932000879356",
     "tikName": "ТИК города Керчи",
+    "regionCode": "93",
+    "regionTvd": "100100339411278",
+    "regionName": "Республика Крым",
     "uikCount": 69,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 95733,
@@ -1253,6 +1298,9 @@ export const president_2024_tic_227_region_93 = [
     "ballot": "presidential",
     "tikTvd": "2932000879357",
     "tikName": "ТИК Красноперекопского района",
+    "regionCode": "93",
+    "regionTvd": "100100339411278",
+    "regionName": "Республика Крым",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 18290,
@@ -1316,6 +1364,9 @@ export const president_2024_tic_227_region_93 = [
     "ballot": "presidential",
     "tikTvd": "2932000879358",
     "tikName": "ТИК Железнодорожного района города Симферополя",
+    "regionCode": "93",
+    "regionTvd": "100100339411278",
+    "regionName": "Республика Крым",
     "uikCount": 48,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 66686,
@@ -1404,6 +1455,9 @@ export const president_2024_tic_227_region_93 = [
     "ballot": "presidential",
     "tikTvd": "2932000879359",
     "tikName": "ТИК города Саки",
+    "regionCode": "93",
+    "regionTvd": "100100339411278",
+    "regionName": "Республика Крым",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 18973,
@@ -1456,6 +1510,9 @@ export const president_2024_tic_227_region_93 = [
     "ballot": "presidential",
     "tikTvd": "2932000879360",
     "tikName": "ТИК города Евпатории",
+    "regionCode": "93",
+    "regionTvd": "100100339411278",
+    "regionName": "Республика Крым",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 80385,
@@ -1534,6 +1591,9 @@ export const president_2024_tic_227_region_93 = [
     "ballot": "presidential",
     "tikTvd": "2932000879361",
     "tikName": "ТИК Нижнегорского района",
+    "regionCode": "93",
+    "regionTvd": "100100339411278",
+    "regionName": "Республика Крым",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 34243,
@@ -1604,6 +1664,9 @@ export const president_2024_tic_227_region_93 = [
     "ballot": "presidential",
     "tikTvd": "2932000879362",
     "tikName": "ТИК Раздольненского района",
+    "regionCode": "93",
+    "regionTvd": "100100339411278",
+    "regionName": "Республика Крым",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 22646,
@@ -1676,6 +1739,9 @@ export const president_2024_tic_227_region_93 = [
     "ballot": "presidential",
     "tikTvd": "2932000879363",
     "tikName": "ТИК Кировского района",
+    "regionCode": "93",
+    "regionTvd": "100100339411278",
+    "regionName": "Республика Крым",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 37777,
@@ -1754,6 +1820,9 @@ export const president_2024_tic_227_region_93 = [
     "ballot": "presidential",
     "tikTvd": "2932000879364",
     "tikName": "ТИК Ленинского района",
+    "regionCode": "93",
+    "regionTvd": "100100339411278",
+    "regionName": "Республика Крым",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 44389,
@@ -1838,6 +1907,9 @@ export const president_2024_tic_227_region_93 = [
     "ballot": "presidential",
     "tikTvd": "2932000879365",
     "tikName": "ТИК Симферопольского района",
+    "regionCode": "93",
+    "regionTvd": "100100339411278",
+    "regionName": "Республика Крым",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 57832,
@@ -1922,6 +1994,9 @@ export const president_2024_tic_227_region_93 = [
     "ballot": "presidential",
     "tikTvd": "2932000879366",
     "tikName": "ТИК Киевского района города Симферополя",
+    "regionCode": "93",
+    "regionTvd": "100100339411278",
+    "regionName": "Республика Крым",
     "uikCount": 67,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 110393,
@@ -2029,6 +2104,9 @@ export const president_2024_tic_227_region_93 = [
     "ballot": "presidential",
     "tikTvd": "2932000879367",
     "tikName": "ТИК города Красноперекопска",
+    "regionCode": "93",
+    "regionTvd": "100100339411278",
+    "regionName": "Республика Крым",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 19430,
@@ -2082,6 +2160,9 @@ export const president_2024_tic_227_region_93 = [
     "ballot": "presidential",
     "tikTvd": "2932000879368",
     "tikName": "ТИК Джанкойского района",
+    "regionCode": "93",
+    "regionTvd": "100100339411278",
+    "regionName": "Республика Крым",
     "uikCount": 66,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 48778,
@@ -2188,6 +2269,9 @@ export const president_2024_tic_227_region_93 = [
     "ballot": "presidential",
     "tikTvd": "2932000879369",
     "tikName": "ТИК города Ялты",
+    "regionCode": "93",
+    "regionTvd": "100100339411278",
+    "regionName": "Республика Крым",
     "uikCount": 68,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 95688,

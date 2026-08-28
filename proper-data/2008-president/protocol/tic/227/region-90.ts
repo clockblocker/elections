@@ -11,6 +11,9 @@ export const president_2008_tic_227_region_90 = [
     "ballot": "presidential",
     "tikTvd": "2592000225330",
     "tikName": "Бардымская",
+    "regionCode": "90",
+    "regionTvd": "100100022250004",
+    "regionName": "Пермский край",
     "uikCount": 48,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 20152,
@@ -106,6 +109,9 @@ export const president_2008_tic_227_region_90 = [
     "ballot": "presidential",
     "tikTvd": "2592000225331",
     "tikName": "Березниковская городская ",
+    "regionCode": "90",
+    "regionTvd": "100100022250004",
+    "regionName": "Пермский край",
     "uikCount": 66,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 130813,
@@ -219,6 +225,9 @@ export const president_2008_tic_227_region_90 = [
     "ballot": "presidential",
     "tikTvd": "2592000225332",
     "tikName": "Александровская",
+    "regionCode": "90",
+    "regionTvd": "100100022250004",
+    "regionName": "Пермский край",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 26847,
@@ -292,6 +301,9 @@ export const president_2008_tic_227_region_90 = [
     "ballot": "presidential",
     "tikTvd": "2592000225333",
     "tikName": "Губахинская",
+    "regionCode": "90",
+    "regionTvd": "100100022250004",
+    "regionName": "Пермский край",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 32422,
@@ -365,6 +377,9 @@ export const president_2008_tic_227_region_90 = [
     "ballot": "presidential",
     "tikTvd": "2592000225334",
     "tikName": "Еловская",
+    "regionCode": "90",
+    "regionTvd": "100100022250004",
+    "regionName": "Пермский край",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 9396,
@@ -432,6 +447,9 @@ export const president_2008_tic_227_region_90 = [
     "ballot": "presidential",
     "tikTvd": "2592000225335",
     "tikName": "Добрянская",
+    "regionCode": "90",
+    "regionTvd": "100100022250004",
+    "regionName": "Пермский край",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 45102,
@@ -518,6 +536,9 @@ export const president_2008_tic_227_region_90 = [
     "ballot": "presidential",
     "tikTvd": "2592000225336",
     "tikName": "Верещагинская",
+    "regionCode": "90",
+    "regionTvd": "100100022250004",
+    "regionName": "Пермский край",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 32705,
@@ -603,6 +624,9 @@ export const president_2008_tic_227_region_90 = [
     "ballot": "presidential",
     "tikTvd": "2592000225337",
     "tikName": "Гремячинская",
+    "regionCode": "90",
+    "regionTvd": "100100022250004",
+    "regionName": "Пермский край",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 13671,
@@ -665,6 +689,9 @@ export const president_2008_tic_227_region_90 = [
     "ballot": "presidential",
     "tikTvd": "2592000225338",
     "tikName": "Горнозаводская",
+    "regionCode": "90",
+    "regionTvd": "100100022250004",
+    "regionName": "Пермский край",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 22076,
@@ -731,6 +758,9 @@ export const president_2008_tic_227_region_90 = [
     "ballot": "presidential",
     "tikTvd": "2592000225339",
     "tikName": "Лысьвенская",
+    "regionCode": "90",
+    "regionTvd": "100100022250004",
+    "regionName": "Пермский край",
     "uikCount": 49,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 67023,
@@ -827,6 +857,9 @@ export const president_2008_tic_227_region_90 = [
     "ballot": "presidential",
     "tikTvd": "2592000225340",
     "tikName": "Березовская",
+    "regionCode": "90",
+    "regionTvd": "100100022250004",
+    "regionName": "Пермский край",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 13887,
@@ -912,6 +945,9 @@ export const president_2008_tic_227_region_90 = [
     "ballot": "presidential",
     "tikTvd": "2592000225341",
     "tikName": "Большесосновская",
+    "regionCode": "90",
+    "regionTvd": "100100022250004",
+    "regionName": "Пермский край",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 10698,
@@ -978,6 +1014,9 @@ export const president_2008_tic_227_region_90 = [
     "ballot": "presidential",
     "tikTvd": "2592000225342",
     "tikName": "Краснокамская",
+    "regionCode": "90",
+    "regionTvd": "100100022250004",
+    "regionName": "Пермский край",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 57094,
@@ -1065,6 +1104,9 @@ export const president_2008_tic_227_region_90 = [
     "ballot": "presidential",
     "tikTvd": "2592000225343",
     "tikName": "Куединская",
+    "regionCode": "90",
+    "regionTvd": "100100022250004",
+    "regionName": "Пермский край",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 23063,
@@ -1152,6 +1194,9 @@ export const president_2008_tic_227_region_90 = [
     "ballot": "presidential",
     "tikTvd": "2592000225344",
     "tikName": "Кунгурская городская",
+    "regionCode": "90",
+    "regionTvd": "100100022250004",
+    "regionName": "Пермский край",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 52350,
@@ -1233,6 +1278,9 @@ export const president_2008_tic_227_region_90 = [
     "ballot": "presidential",
     "tikTvd": "2592000225345",
     "tikName": "Кишертская",
+    "regionCode": "90",
+    "regionTvd": "100100022250004",
+    "regionName": "Пермский край",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 11524,
@@ -1303,6 +1351,9 @@ export const president_2008_tic_227_region_90 = [
     "ballot": "presidential",
     "tikTvd": "2592000225346",
     "tikName": "Кизеловская",
+    "regionCode": "90",
+    "regionTvd": "100100022250004",
+    "regionName": "Пермский край",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 25357,
@@ -1366,6 +1417,9 @@ export const president_2008_tic_227_region_90 = [
     "ballot": "presidential",
     "tikTvd": "2592000225347",
     "tikName": "Красновишерская",
+    "regionCode": "90",
+    "regionTvd": "100100022250004",
+    "regionName": "Пермский край",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 19652,
@@ -1448,6 +1502,9 @@ export const president_2008_tic_227_region_90 = [
     "ballot": "presidential",
     "tikTvd": "2592000225348",
     "tikName": "Пермь, Индустриальная",
+    "regionCode": "90",
+    "regionTvd": "100100022250004",
+    "regionName": "Пермский край",
     "uikCount": 65,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 121411,
@@ -1560,6 +1617,9 @@ export const president_2008_tic_227_region_90 = [
     "ballot": "presidential",
     "tikTvd": "2592000225349",
     "tikName": "Карагайская",
+    "regionCode": "90",
+    "regionTvd": "100100022250004",
+    "regionName": "Пермский край",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 18197,
@@ -1634,6 +1694,9 @@ export const president_2008_tic_227_region_90 = [
     "ballot": "presidential",
     "tikTvd": "2592000225350",
     "tikName": "Ильинская",
+    "regionCode": "90",
+    "regionTvd": "100100022250004",
+    "regionName": "Пермский край",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 15488,
@@ -1709,6 +1772,9 @@ export const president_2008_tic_227_region_90 = [
     "ballot": "presidential",
     "tikTvd": "2592000225351",
     "tikName": "Очерская",
+    "regionCode": "90",
+    "regionTvd": "100100022250004",
+    "regionName": "Пермский край",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 19021,
@@ -1782,6 +1848,9 @@ export const president_2008_tic_227_region_90 = [
     "ballot": "presidential",
     "tikTvd": "2592000225352",
     "tikName": "Пермь, Дзержинская",
+    "regionCode": "90",
+    "regionTvd": "100100022250004",
+    "regionName": "Пермский край",
     "uikCount": 64,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 119788,
@@ -1893,6 +1962,9 @@ export const president_2008_tic_227_region_90 = [
     "ballot": "presidential",
     "tikTvd": "2592000225353",
     "tikName": "Пермская",
+    "regionCode": "90",
+    "regionTvd": "100100022250004",
+    "regionName": "Пермский край",
     "uikCount": 64,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 69506,
@@ -2004,6 +2076,9 @@ export const president_2008_tic_227_region_90 = [
     "ballot": "presidential",
     "tikTvd": "2592000225354",
     "tikName": "Осинская",
+    "regionCode": "90",
+    "regionTvd": "100100022250004",
+    "regionName": "Пермский край",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 24403,
@@ -2082,6 +2157,9 @@ export const president_2008_tic_227_region_90 = [
     "ballot": "presidential",
     "tikTvd": "2592000225355",
     "tikName": "Ординская",
+    "regionCode": "90",
+    "regionTvd": "100100022250004",
+    "regionName": "Пермский край",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 12593,
@@ -2149,6 +2227,9 @@ export const president_2008_tic_227_region_90 = [
     "ballot": "presidential",
     "tikTvd": "2592000225356",
     "tikName": "Оханская",
+    "regionCode": "90",
+    "regionTvd": "100100022250004",
+    "regionName": "Пермский край",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 11071,
@@ -2209,6 +2290,9 @@ export const president_2008_tic_227_region_90 = [
     "ballot": "presidential",
     "tikTvd": "2592000225357",
     "tikName": "Октябрьская",
+    "regionCode": "90",
+    "regionTvd": "100100022250004",
+    "regionName": "Пермский край",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 24108,
@@ -2300,6 +2384,9 @@ export const president_2008_tic_227_region_90 = [
     "ballot": "presidential",
     "tikTvd": "2592000225358",
     "tikName": "Суксунская",
+    "regionCode": "90",
+    "regionTvd": "100100022250004",
+    "regionName": "Пермский край",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 16475,
@@ -2370,6 +2457,9 @@ export const president_2008_tic_227_region_90 = [
     "ballot": "presidential",
     "tikTvd": "2592000225359",
     "tikName": "Нытвенская",
+    "regionCode": "90",
+    "regionTvd": "100100022250004",
+    "regionName": "Пермский край",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 37689,
@@ -2449,6 +2539,9 @@ export const president_2008_tic_227_region_90 = [
     "ballot": "presidential",
     "tikTvd": "2592000225360",
     "tikName": "Сивинская",
+    "regionCode": "90",
+    "regionTvd": "100100022250004",
+    "regionName": "Пермский край",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 12351,
@@ -2519,6 +2612,9 @@ export const president_2008_tic_227_region_90 = [
     "ballot": "presidential",
     "tikTvd": "2592000225361",
     "tikName": "Пермь, Свердловская",
+    "regionCode": "90",
+    "regionTvd": "100100022250004",
+    "regionName": "Пермский край",
     "uikCount": 91,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 170094,
@@ -2657,6 +2753,9 @@ export const president_2008_tic_227_region_90 = [
     "ballot": "presidential",
     "tikTvd": "2592000225362",
     "tikName": "Соликамская городская",
+    "regionCode": "90",
+    "regionTvd": "100100022250004",
+    "regionName": "Пермский край",
     "uikCount": 45,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 73879,
@@ -2749,6 +2848,9 @@ export const president_2008_tic_227_region_90 = [
     "ballot": "presidential",
     "tikTvd": "2592000225363",
     "tikName": "Кунгурская",
+    "regionCode": "90",
+    "regionTvd": "100100022250004",
+    "regionName": "Пермский край",
     "uikCount": 56,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 34561,
@@ -2852,6 +2954,9 @@ export const president_2008_tic_227_region_90 = [
     "ballot": "presidential",
     "tikTvd": "2592000225364",
     "tikName": "Звездная городская",
+    "regionCode": "90",
+    "regionTvd": "100100022250004",
+    "regionName": "Пермский край",
     "uikCount": 6,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 6115,
@@ -2905,6 +3010,9 @@ export const president_2008_tic_227_region_90 = [
     "ballot": "presidential",
     "tikTvd": "2592000225365",
     "tikName": "Пермь, Кировская",
+    "regionCode": "90",
+    "regionTvd": "100100022250004",
+    "regionName": "Пермский край",
     "uikCount": 55,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 102203,
@@ -3007,6 +3115,9 @@ export const president_2008_tic_227_region_90 = [
     "ballot": "presidential",
     "tikTvd": "2592000225366",
     "tikName": "Чусовская",
+    "regionCode": "90",
+    "regionTvd": "100100022250004",
+    "regionName": "Пермский край",
     "uikCount": 52,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 57858,
@@ -3106,6 +3217,9 @@ export const president_2008_tic_227_region_90 = [
     "ballot": "presidential",
     "tikTvd": "2592000225367",
     "tikName": "Чернушинская",
+    "regionCode": "90",
+    "regionTvd": "100100022250004",
+    "regionName": "Пермский край",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 40621,
@@ -3194,6 +3308,9 @@ export const president_2008_tic_227_region_90 = [
     "ballot": "presidential",
     "tikTvd": "2592000225368",
     "tikName": "Чердынская",
+    "regionCode": "90",
+    "regionTvd": "100100022250004",
+    "regionName": "Пермский край",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 18359,
@@ -3272,6 +3389,9 @@ export const president_2008_tic_227_region_90 = [
     "ballot": "presidential",
     "tikTvd": "2592000225369",
     "tikName": "Частинская",
+    "regionCode": "90",
+    "regionTvd": "100100022250004",
+    "regionName": "Пермский край",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 10441,
@@ -3341,6 +3461,9 @@ export const president_2008_tic_227_region_90 = [
     "ballot": "presidential",
     "tikTvd": "2592000225370",
     "tikName": "Усольская",
+    "regionCode": "90",
+    "regionTvd": "100100022250004",
+    "regionName": "Пермский край",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 11138,
@@ -3408,6 +3531,9 @@ export const president_2008_tic_227_region_90 = [
     "ballot": "presidential",
     "tikTvd": "2592000225371",
     "tikName": "Чайковская",
+    "regionCode": "90",
+    "regionTvd": "100100022250004",
+    "regionName": "Пермский край",
     "uikCount": 49,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 84104,
@@ -3504,6 +3630,9 @@ export const president_2008_tic_227_region_90 = [
     "ballot": "presidential",
     "tikTvd": "2592000225372",
     "tikName": "Уинская",
+    "regionCode": "90",
+    "regionTvd": "100100022250004",
+    "regionName": "Пермский край",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 9250,
@@ -3576,6 +3705,9 @@ export const president_2008_tic_227_region_90 = [
     "ballot": "presidential",
     "tikTvd": "2592000225373",
     "tikName": "Соликамская",
+    "regionCode": "90",
+    "regionTvd": "100100022250004",
+    "regionName": "Пермский край",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 10742,
@@ -3640,6 +3772,9 @@ export const president_2008_tic_227_region_90 = [
     "ballot": "presidential",
     "tikTvd": "2592000225374",
     "tikName": "Пермь, Орджоникидзевская",
+    "regionCode": "90",
+    "regionTvd": "100100022250004",
+    "regionName": "Пермский край",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 85092,
@@ -3737,6 +3872,9 @@ export const president_2008_tic_227_region_90 = [
     "ballot": "presidential",
     "tikTvd": "2592000225375",
     "tikName": "Пермь, Мотовилихинская",
+    "regionCode": "90",
+    "regionTvd": "100100022250004",
+    "regionName": "Пермский край",
     "uikCount": 75,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 141571,
@@ -3859,6 +3997,9 @@ export const president_2008_tic_227_region_90 = [
     "ballot": "presidential",
     "tikTvd": "2592000225376",
     "tikName": "Пермь, Ленинская",
+    "regionCode": "90",
+    "regionTvd": "100100022250004",
+    "regionName": "Пермский край",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 41386,
@@ -3935,6 +4076,9 @@ export const president_2008_tic_227_region_90 = [
     "ballot": "presidential",
     "tikTvd": "2592000225377",
     "tikName": "Кудымкарская",
+    "regionCode": "90",
+    "regionTvd": "100100022250004",
+    "regionName": "Пермский край",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 19277,
@@ -4026,6 +4170,9 @@ export const president_2008_tic_227_region_90 = [
     "ballot": "presidential",
     "tikTvd": "2592000225378",
     "tikName": "Гайнская",
+    "regionCode": "90",
+    "regionTvd": "100100022250004",
+    "regionName": "Пермский край",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 11998,
@@ -4102,6 +4249,9 @@ export const president_2008_tic_227_region_90 = [
     "ballot": "presidential",
     "tikTvd": "2592000225379",
     "tikName": "Косинская",
+    "regionCode": "90",
+    "regionTvd": "100100022250004",
+    "regionName": "Пермский край",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 6150,
@@ -4169,6 +4319,9 @@ export const president_2008_tic_227_region_90 = [
     "ballot": "presidential",
     "tikTvd": "2592000225380",
     "tikName": "Юрлинская",
+    "regionCode": "90",
+    "regionTvd": "100100022250004",
+    "regionName": "Пермский край",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 7737,
@@ -4244,6 +4397,9 @@ export const president_2008_tic_227_region_90 = [
     "ballot": "presidential",
     "tikTvd": "2592000225381",
     "tikName": "Юсьвинская",
+    "regionCode": "90",
+    "regionTvd": "100100022250004",
+    "regionName": "Пермский край",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 16624,
@@ -4320,6 +4476,9 @@ export const president_2008_tic_227_region_90 = [
     "ballot": "presidential",
     "tikTvd": "2592000225382",
     "tikName": "Кочевская",
+    "regionCode": "90",
+    "regionTvd": "100100022250004",
+    "regionName": "Пермский край",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 8797,
@@ -4397,6 +4556,9 @@ export const president_2008_tic_227_region_90 = [
     "ballot": "presidential",
     "tikTvd": "2592000225383",
     "tikName": "Кудымкарская городская",
+    "regionCode": "90",
+    "regionTvd": "100100022250004",
+    "regionName": "Пермский край",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 22270,

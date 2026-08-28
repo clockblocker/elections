@@ -11,6 +11,9 @@ export const president_2004_tic_227_region_59 = [
     "ballot": "presidential",
     "tikTvd": "259200086450",
     "tikName": "Бардымская",
+    "regionCode": "59",
+    "regionTvd": "1001000882985",
+    "regionName": "Пермская область",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, внесенных в список": 19028,
@@ -105,6 +108,9 @@ export const president_2004_tic_227_region_59 = [
     "ballot": "presidential",
     "tikTvd": "259200086451",
     "tikName": "Березниковская городская",
+    "regionCode": "59",
+    "regionTvd": "1001000882985",
+    "regionName": "Пермская область",
     "uikCount": 67,
     "accounting": {
       "Число избирателей, внесенных в список": 132600,
@@ -220,6 +226,9 @@ export const president_2004_tic_227_region_59 = [
     "ballot": "presidential",
     "tikTvd": "259200086452",
     "tikName": "Александровская городская",
+    "regionCode": "59",
+    "regionTvd": "1001000882985",
+    "regionName": "Пермская область",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список": 27561,
@@ -295,6 +304,9 @@ export const president_2004_tic_227_region_59 = [
     "ballot": "presidential",
     "tikTvd": "259200086453",
     "tikName": "Губахинская городская",
+    "regionCode": "59",
+    "regionTvd": "1001000882985",
+    "regionName": "Пермская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список": 33092,
@@ -369,6 +381,9 @@ export const president_2004_tic_227_region_59 = [
     "ballot": "presidential",
     "tikTvd": "259200086454",
     "tikName": "Еловская",
+    "regionCode": "59",
+    "regionTvd": "1001000882985",
+    "regionName": "Пермская область",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в список": 8962,
@@ -434,6 +449,9 @@ export const president_2004_tic_227_region_59 = [
     "ballot": "presidential",
     "tikTvd": "259200086455",
     "tikName": "Добрянская городская",
+    "regionCode": "59",
+    "regionTvd": "1001000882985",
+    "regionName": "Пермская область",
     "uikCount": 45,
     "accounting": {
       "Число избирателей, внесенных в список": 44581,
@@ -527,6 +545,9 @@ export const president_2004_tic_227_region_59 = [
     "ballot": "presidential",
     "tikTvd": "259200086456",
     "tikName": "Верещагинская",
+    "regionCode": "59",
+    "regionTvd": "1001000882985",
+    "regionName": "Пермская область",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в список": 31492,
@@ -612,6 +633,9 @@ export const president_2004_tic_227_region_59 = [
     "ballot": "presidential",
     "tikTvd": "259200086457",
     "tikName": "Гремячинская городская",
+    "regionCode": "59",
+    "regionTvd": "1001000882985",
+    "regionName": "Пермская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список": 13776,
@@ -675,6 +699,9 @@ export const president_2004_tic_227_region_59 = [
     "ballot": "presidential",
     "tikTvd": "259200086458",
     "tikName": "Горнозаводская",
+    "regionCode": "59",
+    "regionTvd": "1001000882985",
+    "regionName": "Пермская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список": 21877,
@@ -744,6 +771,9 @@ export const president_2004_tic_227_region_59 = [
     "ballot": "presidential",
     "tikTvd": "259200086459",
     "tikName": "Лысьвенская городская",
+    "regionCode": "59",
+    "regionTvd": "1001000882985",
+    "regionName": "Пермская область",
     "uikCount": 49,
     "accounting": {
       "Число избирателей, внесенных в список": 67957,
@@ -841,6 +871,9 @@ export const president_2004_tic_227_region_59 = [
     "ballot": "presidential",
     "tikTvd": "259200086460",
     "tikName": "Березовская",
+    "regionCode": "59",
+    "regionTvd": "1001000882985",
+    "regionName": "Пермская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в список": 12951,
@@ -929,6 +962,9 @@ export const president_2004_tic_227_region_59 = [
     "ballot": "presidential",
     "tikTvd": "259200086461",
     "tikName": "Большесосновская",
+    "regionCode": "59",
+    "regionTvd": "1001000882985",
+    "regionName": "Пермская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список": 11038,
@@ -997,6 +1033,9 @@ export const president_2004_tic_227_region_59 = [
     "ballot": "presidential",
     "tikTvd": "259200086462",
     "tikName": "Краснокамская городская",
+    "regionCode": "59",
+    "regionTvd": "1001000882985",
+    "regionName": "Пермская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в список": 55779,
@@ -1085,6 +1124,9 @@ export const president_2004_tic_227_region_59 = [
     "ballot": "presidential",
     "tikTvd": "259200086463",
     "tikName": "Куединская",
+    "regionCode": "59",
+    "regionTvd": "1001000882985",
+    "regionName": "Пермская область",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, внесенных в список": 21819,
@@ -1174,6 +1216,9 @@ export const president_2004_tic_227_region_59 = [
     "ballot": "presidential",
     "tikTvd": "259200086464",
     "tikName": "Кунгурская городская",
+    "regionCode": "59",
+    "regionTvd": "1001000882985",
+    "regionName": "Пермская область",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список": 51524,
@@ -1249,6 +1294,9 @@ export const president_2004_tic_227_region_59 = [
     "ballot": "presidential",
     "tikTvd": "259200086465",
     "tikName": "Кишертская",
+    "regionCode": "59",
+    "regionTvd": "1001000882985",
+    "regionName": "Пермская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список": 11476,
@@ -1321,6 +1369,9 @@ export const president_2004_tic_227_region_59 = [
     "ballot": "presidential",
     "tikTvd": "259200086466",
     "tikName": "Кизеловская городская",
+    "regionCode": "59",
+    "regionTvd": "1001000882985",
+    "regionName": "Пермская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список": 25563,
@@ -1388,6 +1439,9 @@ export const president_2004_tic_227_region_59 = [
     "ballot": "presidential",
     "tikTvd": "259200086467",
     "tikName": "Красновишерская",
+    "regionCode": "59",
+    "regionTvd": "1001000882985",
+    "regionName": "Пермская область",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, внесенных в список": 19460,
@@ -1478,6 +1532,9 @@ export const president_2004_tic_227_region_59 = [
     "ballot": "presidential",
     "tikTvd": "259200086468",
     "tikName": "Пермь, Индустриальная",
+    "regionCode": "59",
+    "regionTvd": "1001000882985",
+    "regionName": "Пермская область",
     "uikCount": 64,
     "accounting": {
       "Число избирателей, внесенных в список": 119373,
@@ -1590,6 +1647,9 @@ export const president_2004_tic_227_region_59 = [
     "ballot": "presidential",
     "tikTvd": "259200086469",
     "tikName": "Карагайская",
+    "regionCode": "59",
+    "regionTvd": "1001000882985",
+    "regionName": "Пермская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список": 17185,
@@ -1664,6 +1724,9 @@ export const president_2004_tic_227_region_59 = [
     "ballot": "presidential",
     "tikTvd": "259200086470",
     "tikName": "Ильинская",
+    "regionCode": "59",
+    "regionTvd": "1001000882985",
+    "regionName": "Пермская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список": 15069,
@@ -1736,6 +1799,9 @@ export const president_2004_tic_227_region_59 = [
     "ballot": "presidential",
     "tikTvd": "259200086471",
     "tikName": "Очерская",
+    "regionCode": "59",
+    "regionTvd": "1001000882985",
+    "regionName": "Пермская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список": 18609,
@@ -1810,6 +1876,9 @@ export const president_2004_tic_227_region_59 = [
     "ballot": "presidential",
     "tikTvd": "259200086472",
     "tikName": "Пермь, Дзержинская",
+    "regionCode": "59",
+    "regionTvd": "1001000882985",
+    "regionName": "Пермская область",
     "uikCount": 62,
     "accounting": {
       "Число избирателей, внесенных в список": 115817,
@@ -1920,6 +1989,9 @@ export const president_2004_tic_227_region_59 = [
     "ballot": "presidential",
     "tikTvd": "259200086473",
     "tikName": "Пермская",
+    "regionCode": "59",
+    "regionTvd": "1001000882985",
+    "regionName": "Пермская область",
     "uikCount": 63,
     "accounting": {
       "Число избирателей, внесенных в список": 64507,
@@ -2031,6 +2103,9 @@ export const president_2004_tic_227_region_59 = [
     "ballot": "presidential",
     "tikTvd": "259200086474",
     "tikName": "Осинская",
+    "regionCode": "59",
+    "regionTvd": "1001000882985",
+    "regionName": "Пермская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список": 24038,
@@ -2107,6 +2182,9 @@ export const president_2004_tic_227_region_59 = [
     "ballot": "presidential",
     "tikTvd": "259200086475",
     "tikName": "Ординская",
+    "regionCode": "59",
+    "regionTvd": "1001000882985",
+    "regionName": "Пермская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список": 11924,
@@ -2178,6 +2256,9 @@ export const president_2004_tic_227_region_59 = [
     "ballot": "presidential",
     "tikTvd": "259200086476",
     "tikName": "Оханская",
+    "regionCode": "59",
+    "regionTvd": "1001000882985",
+    "regionName": "Пермская область",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в список": 11560,
@@ -2239,6 +2320,9 @@ export const president_2004_tic_227_region_59 = [
     "ballot": "presidential",
     "tikTvd": "259200086477",
     "tikName": "Октябрьская",
+    "regionCode": "59",
+    "regionTvd": "1001000882985",
+    "regionName": "Пермская область",
     "uikCount": 45,
     "accounting": {
       "Число избирателей, внесенных в список": 24522,
@@ -2332,6 +2416,9 @@ export const president_2004_tic_227_region_59 = [
     "ballot": "presidential",
     "tikTvd": "259200086478",
     "tikName": "Суксунская",
+    "regionCode": "59",
+    "regionTvd": "1001000882985",
+    "regionName": "Пермская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список": 16465,
@@ -2404,6 +2491,9 @@ export const president_2004_tic_227_region_59 = [
     "ballot": "presidential",
     "tikTvd": "259200086479",
     "tikName": "Нытвенская",
+    "regionCode": "59",
+    "regionTvd": "1001000882985",
+    "regionName": "Пермская область",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в список": 36119,
@@ -2484,6 +2574,9 @@ export const president_2004_tic_227_region_59 = [
     "ballot": "presidential",
     "tikTvd": "259200086480",
     "tikName": "Сивинская",
+    "regionCode": "59",
+    "regionTvd": "1001000882985",
+    "regionName": "Пермская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список": 11524,
@@ -2558,6 +2651,9 @@ export const president_2004_tic_227_region_59 = [
     "ballot": "presidential",
     "tikTvd": "259200086481",
     "tikName": "Пермь, Свердловская",
+    "regionCode": "59",
+    "regionTvd": "1001000882985",
+    "regionName": "Пермская область",
     "uikCount": 91,
     "accounting": {
       "Число избирателей, внесенных в список": 173033,
@@ -2697,6 +2793,9 @@ export const president_2004_tic_227_region_59 = [
     "ballot": "presidential",
     "tikTvd": "259200086482",
     "tikName": "Соликамская городская",
+    "regionCode": "59",
+    "regionTvd": "1001000882985",
+    "regionName": "Пермская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в список": 75586,
@@ -2785,6 +2884,9 @@ export const president_2004_tic_227_region_59 = [
     "ballot": "presidential",
     "tikTvd": "259200086483",
     "tikName": "Кунгурская",
+    "regionCode": "59",
+    "regionTvd": "1001000882985",
+    "regionName": "Пермская область",
     "uikCount": 60,
     "accounting": {
       "Число избирателей, внесенных в список": 32362,
@@ -2893,6 +2995,9 @@ export const president_2004_tic_227_region_59 = [
     "ballot": "presidential",
     "tikTvd": "259200086484",
     "tikName": "Звездная поселковая",
+    "regionCode": "59",
+    "regionTvd": "1001000882985",
+    "regionName": "Пермская область",
     "uikCount": 6,
     "accounting": {
       "Число избирателей, внесенных в список": 6639,
@@ -2947,6 +3052,9 @@ export const president_2004_tic_227_region_59 = [
     "ballot": "presidential",
     "tikTvd": "259200086485",
     "tikName": "Пермь, Кировская",
+    "regionCode": "59",
+    "regionTvd": "1001000882985",
+    "regionName": "Пермская область",
     "uikCount": 55,
     "accounting": {
       "Число избирателей, внесенных в список": 101023,
@@ -3050,6 +3158,9 @@ export const president_2004_tic_227_region_59 = [
     "ballot": "presidential",
     "tikTvd": "259200086486",
     "tikName": "Чусовская городская",
+    "regionCode": "59",
+    "regionTvd": "1001000882985",
+    "regionName": "Пермская область",
     "uikCount": 52,
     "accounting": {
       "Число избирателей, внесенных в список": 58059,
@@ -3150,6 +3261,9 @@ export const president_2004_tic_227_region_59 = [
     "ballot": "presidential",
     "tikTvd": "259200086487",
     "tikName": "Чернушинская",
+    "regionCode": "59",
+    "regionTvd": "1001000882985",
+    "regionName": "Пермская область",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в список": 38180,
@@ -3237,6 +3351,9 @@ export const president_2004_tic_227_region_59 = [
     "ballot": "presidential",
     "tikTvd": "259200086488",
     "tikName": "Чердынская",
+    "regionCode": "59",
+    "regionTvd": "1001000882985",
+    "regionName": "Пермская область",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в список": 18935,
@@ -3318,6 +3435,9 @@ export const president_2004_tic_227_region_59 = [
     "ballot": "presidential",
     "tikTvd": "259200086489",
     "tikName": "Частинская",
+    "regionCode": "59",
+    "regionTvd": "1001000882985",
+    "regionName": "Пермская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список": 9991,
@@ -3386,6 +3506,9 @@ export const president_2004_tic_227_region_59 = [
     "ballot": "presidential",
     "tikTvd": "259200086490",
     "tikName": "Усольская",
+    "regionCode": "59",
+    "regionTvd": "1001000882985",
+    "regionName": "Пермская область",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в список": 9001,
@@ -3450,6 +3573,9 @@ export const president_2004_tic_227_region_59 = [
     "ballot": "presidential",
     "tikTvd": "259200086491",
     "tikName": "Чайковская городская",
+    "regionCode": "59",
+    "regionTvd": "1001000882985",
+    "regionName": "Пермская область",
     "uikCount": 49,
     "accounting": {
       "Число избирателей, внесенных в список": 82145,
@@ -3547,6 +3673,9 @@ export const president_2004_tic_227_region_59 = [
     "ballot": "presidential",
     "tikTvd": "259200086492",
     "tikName": "Уинская",
+    "regionCode": "59",
+    "regionTvd": "1001000882985",
+    "regionName": "Пермская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список": 8899,
@@ -3620,6 +3749,9 @@ export const president_2004_tic_227_region_59 = [
     "ballot": "presidential",
     "tikTvd": "259200086493",
     "tikName": "Соликамская",
+    "regionCode": "59",
+    "regionTvd": "1001000882985",
+    "regionName": "Пермская область",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в список": 10315,
@@ -3685,6 +3817,9 @@ export const president_2004_tic_227_region_59 = [
     "ballot": "presidential",
     "tikTvd": "259200086494",
     "tikName": "Пермь, Орджоникидзевская",
+    "regionCode": "59",
+    "regionTvd": "1001000882985",
+    "regionName": "Пермская область",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, внесенных в список": 82943,
@@ -3783,6 +3918,9 @@ export const president_2004_tic_227_region_59 = [
     "ballot": "presidential",
     "tikTvd": "259200086495",
     "tikName": "Пермь, Мотовилихинская",
+    "regionCode": "59",
+    "regionTvd": "1001000882985",
+    "regionName": "Пермская область",
     "uikCount": 74,
     "accounting": {
       "Число избирателей, внесенных в список": 133764,
@@ -3905,6 +4043,9 @@ export const president_2004_tic_227_region_59 = [
     "ballot": "presidential",
     "tikTvd": "259200086496",
     "tikName": "Пермь,  Ленинская",
+    "regionCode": "59",
+    "regionTvd": "1001000882985",
+    "regionName": "Пермская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список": 44473,

@@ -11,6 +11,9 @@ export const president_2024_tic_227_region_11 = [
     "ballot": "presidential",
     "tikTvd": "21120001464306",
     "tikName": "Сыктывкар, Эжвинская",
+    "regionCode": "11",
+    "regionTvd": "100100339411205",
+    "regionName": "Республика Коми",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 37852,
@@ -72,6 +75,9 @@ export const president_2024_tic_227_region_11 = [
     "ballot": "presidential",
     "tikTvd": "21120001464307",
     "tikName": "Ухтинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100339411205",
+    "regionName": "Республика Коми",
     "uikCount": 58,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 79385,
@@ -170,6 +176,9 @@ export const president_2024_tic_227_region_11 = [
     "ballot": "presidential",
     "tikTvd": "21120001464308",
     "tikName": "Усть-Цилемская",
+    "regionCode": "11",
+    "regionTvd": "100100339411205",
+    "regionName": "Республика Коми",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9180,
@@ -231,6 +240,9 @@ export const president_2024_tic_227_region_11 = [
     "ballot": "presidential",
     "tikTvd": "21120001464309",
     "tikName": "Усть-Куломская",
+    "regionCode": "11",
+    "regionTvd": "100100339411205",
+    "regionName": "Республика Коми",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 18713,
@@ -297,6 +309,9 @@ export const president_2024_tic_227_region_11 = [
     "ballot": "presidential",
     "tikTvd": "21120001464310",
     "tikName": "Усть-Вымская",
+    "regionCode": "11",
+    "regionTvd": "100100339411205",
+    "regionName": "Республика Коми",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 19589,
@@ -361,6 +376,9 @@ export const president_2024_tic_227_region_11 = [
     "ballot": "presidential",
     "tikTvd": "21120001464311",
     "tikName": "Усинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100339411205",
+    "regionName": "Республика Коми",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 30080,
@@ -431,6 +449,9 @@ export const president_2024_tic_227_region_11 = [
     "ballot": "presidential",
     "tikTvd": "21120001464312",
     "tikName": "Удорская",
+    "regionCode": "11",
+    "regionTvd": "100100339411205",
+    "regionName": "Республика Коми",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10783,
@@ -490,6 +511,9 @@ export const president_2024_tic_227_region_11 = [
     "ballot": "presidential",
     "tikTvd": "21120001464313",
     "tikName": "Троицко-Печорская",
+    "regionCode": "11",
+    "regionTvd": "100100339411205",
+    "regionName": "Республика Коми",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 8977,
@@ -551,6 +575,9 @@ export const president_2024_tic_227_region_11 = [
     "ballot": "presidential",
     "tikTvd": "21120001464314",
     "tikName": "Сысольская",
+    "regionCode": "11",
+    "regionTvd": "100100339411205",
+    "regionName": "Республика Коми",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10120,
@@ -611,6 +638,9 @@ export const president_2024_tic_227_region_11 = [
     "ballot": "presidential",
     "tikTvd": "21120001464315",
     "tikName": "Сыктывкарская городская",
+    "regionCode": "11",
+    "regionTvd": "100100339411205",
+    "regionName": "Республика Коми",
     "uikCount": 88,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 148192,
@@ -739,6 +769,9 @@ export const president_2024_tic_227_region_11 = [
     "ballot": "presidential",
     "tikTvd": "21120001464316",
     "tikName": "Сыктывдинская",
+    "regionCode": "11",
+    "regionTvd": "100100339411205",
+    "regionName": "Республика Коми",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 18878,
@@ -798,6 +831,9 @@ export const president_2024_tic_227_region_11 = [
     "ballot": "presidential",
     "tikTvd": "21120001464317",
     "tikName": "Сосногорская городская",
+    "regionCode": "11",
+    "regionTvd": "100100339411205",
+    "regionName": "Республика Коми",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 31011,
@@ -865,6 +901,9 @@ export const president_2024_tic_227_region_11 = [
     "ballot": "presidential",
     "tikTvd": "21120001464318",
     "tikName": "Прилузская",
+    "regionCode": "11",
+    "regionTvd": "100100339411205",
+    "regionName": "Республика Коми",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 14869,
@@ -936,6 +975,9 @@ export const president_2024_tic_227_region_11 = [
     "ballot": "presidential",
     "tikTvd": "21120001464319",
     "tikName": "Печорская городская",
+    "regionCode": "11",
+    "regionTvd": "100100339411205",
+    "regionName": "Республика Коми",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 37714,
@@ -1015,6 +1057,9 @@ export const president_2024_tic_227_region_11 = [
     "ballot": "presidential",
     "tikTvd": "21120001464320",
     "tikName": "Корткеросская",
+    "regionCode": "11",
+    "regionTvd": "100100339411205",
+    "regionName": "Республика Коми",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 15391,
@@ -1084,6 +1129,9 @@ export const president_2024_tic_227_region_11 = [
     "ballot": "presidential",
     "tikTvd": "21120001464321",
     "tikName": "Койгородская",
+    "regionCode": "11",
+    "regionTvd": "100100339411205",
+    "regionName": "Республика Коми",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 6175,
@@ -1136,6 +1184,9 @@ export const president_2024_tic_227_region_11 = [
     "ballot": "presidential",
     "tikTvd": "21120001464322",
     "tikName": "Княжпогостская",
+    "regionCode": "11",
+    "regionTvd": "100100339411205",
+    "regionName": "Республика Коми",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 13946,
@@ -1196,6 +1247,9 @@ export const president_2024_tic_227_region_11 = [
     "ballot": "presidential",
     "tikTvd": "21120001464323",
     "tikName": "Интинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100339411205",
+    "regionName": "Республика Коми",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 21334,
@@ -1259,6 +1313,9 @@ export const president_2024_tic_227_region_11 = [
     "ballot": "presidential",
     "tikTvd": "21120001464324",
     "tikName": "Ижемская",
+    "regionCode": "11",
+    "regionTvd": "100100339411205",
+    "regionName": "Республика Коми",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 13377,
@@ -1319,6 +1376,9 @@ export const president_2024_tic_227_region_11 = [
     "ballot": "presidential",
     "tikTvd": "21120001464325",
     "tikName": "Вуктыльская городская",
+    "regionCode": "11",
+    "regionTvd": "100100339411205",
+    "regionName": "Республика Коми",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9100,
@@ -1371,6 +1431,9 @@ export const president_2024_tic_227_region_11 = [
     "ballot": "presidential",
     "tikTvd": "21120001464326",
     "tikName": "Воркутинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100339411205",
+    "regionName": "Республика Коми",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 53990,

@@ -11,6 +11,14 @@ export const duma_2016_tic_464_region_67 = [
     "ballot": "single-member",
     "tikTvd": "2672000788053",
     "tikName": "Велижская",
+    "regionCode": "67",
+    "regionTvd": "100100067796083",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100067796084",
+      "oikName": "Смоленская область – Смоленский"
+    },
     "uikCount": 11,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 10191,
@@ -74,6 +82,14 @@ export const duma_2016_tic_464_region_67 = [
     "ballot": "single-member",
     "tikTvd": "2672000788054",
     "tikName": "Ярцевская",
+    "regionCode": "67",
+    "regionTvd": "100100067796083",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100067796084",
+      "oikName": "Смоленская область – Смоленский"
+    },
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 46100,
@@ -165,6 +181,14 @@ export const duma_2016_tic_464_region_67 = [
     "ballot": "single-member",
     "tikTvd": "2672000788055",
     "tikName": "Холм-Жирковская",
+    "regionCode": "67",
+    "regionTvd": "100100067796083",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100067796084",
+      "oikName": "Смоленская область – Смоленский"
+    },
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 8447,
@@ -234,6 +258,14 @@ export const duma_2016_tic_464_region_67 = [
     "ballot": "single-member",
     "tikTvd": "2672000788056",
     "tikName": "Угранская",
+    "regionCode": "67",
+    "regionTvd": "100100067796083",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100067796084",
+      "oikName": "Смоленская область – Смоленский"
+    },
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 7193,
@@ -305,6 +337,14 @@ export const duma_2016_tic_464_region_67 = [
     "ballot": "single-member",
     "tikTvd": "2672000788057",
     "tikName": "Темкинская",
+    "regionCode": "67",
+    "regionTvd": "100100067796083",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100067796084",
+      "oikName": "Смоленская область – Смоленский"
+    },
     "uikCount": 11,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 4532,
@@ -368,6 +408,14 @@ export const duma_2016_tic_464_region_67 = [
     "ballot": "single-member",
     "tikTvd": "2672000788058",
     "tikName": "Сычевская",
+    "regionCode": "67",
+    "regionTvd": "100100067796083",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100067796084",
+      "oikName": "Смоленская область – Смоленский"
+    },
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 10962,
@@ -438,6 +486,14 @@ export const duma_2016_tic_464_region_67 = [
     "ballot": "single-member",
     "tikTvd": "2672000788059",
     "tikName": "Смоленская 175",
+    "regionCode": "67",
+    "regionTvd": "100100067796083",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100067796084",
+      "oikName": "Смоленская область – Смоленский"
+    },
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 22542,
@@ -518,6 +574,14 @@ export const duma_2016_tic_464_region_67 = [
     "ballot": "single-member",
     "tikTvd": "2672000788060",
     "tikName": "Сафоновская",
+    "regionCode": "67",
+    "regionTvd": "100100067796083",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100067796084",
+      "oikName": "Смоленская область – Смоленский"
+    },
     "uikCount": 44,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 44807,
@@ -614,6 +678,14 @@ export const duma_2016_tic_464_region_67 = [
     "ballot": "single-member",
     "tikTvd": "2672000788061",
     "tikName": "Руднянская",
+    "regionCode": "67",
+    "regionTvd": "100100067796083",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100067796084",
+      "oikName": "Смоленская область – Смоленский"
+    },
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 19269,
@@ -705,6 +777,14 @@ export const duma_2016_tic_464_region_67 = [
     "ballot": "single-member",
     "tikTvd": "2672000788062",
     "tikName": "Новодугинская",
+    "regionCode": "67",
+    "regionTvd": "100100067796083",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100067796084",
+      "oikName": "Смоленская область – Смоленский"
+    },
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 7652,
@@ -777,6 +857,14 @@ export const duma_2016_tic_464_region_67 = [
     "ballot": "single-member",
     "tikTvd": "2672000788063",
     "tikName": "Духовщинская",
+    "regionCode": "67",
+    "regionTvd": "100100067796083",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100067796084",
+      "oikName": "Смоленская область – Смоленский"
+    },
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 13377,
@@ -850,6 +938,14 @@ export const duma_2016_tic_464_region_67 = [
     "ballot": "single-member",
     "tikTvd": "2672000788064",
     "tikName": "Дорогобужская",
+    "regionCode": "67",
+    "regionTvd": "100100067796083",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100067796084",
+      "oikName": "Смоленская область – Смоленский"
+    },
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 23733,
@@ -930,6 +1026,14 @@ export const duma_2016_tic_464_region_67 = [
     "ballot": "single-member",
     "tikTvd": "2672000788065",
     "tikName": "Демидовская",
+    "regionCode": "67",
+    "regionTvd": "100100067796083",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100067796084",
+      "oikName": "Смоленская область – Смоленский"
+    },
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 11966,
@@ -1004,6 +1108,14 @@ export const duma_2016_tic_464_region_67 = [
     "ballot": "single-member",
     "tikTvd": "2672000788066",
     "tikName": "Гагаринская",
+    "regionCode": "67",
+    "regionTvd": "100100067796083",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100067796084",
+      "oikName": "Смоленская область – Смоленский"
+    },
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 36253,
@@ -1092,6 +1204,14 @@ export const duma_2016_tic_464_region_67 = [
     "ballot": "single-member",
     "tikTvd": "2672000788067",
     "tikName": "Вяземская",
+    "regionCode": "67",
+    "regionTvd": "100100067796083",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100067796084",
+      "oikName": "Смоленская область – Смоленский"
+    },
     "uikCount": 55,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 73531,
@@ -1199,6 +1319,14 @@ export const duma_2016_tic_464_region_67 = [
     "ballot": "single-member",
     "tikTvd": "2672000788068",
     "tikName": "Смоленск, Заднепровская",
+    "regionCode": "67",
+    "regionTvd": "100100067796083",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100067796084",
+      "oikName": "Смоленская область – Смоленский"
+    },
     "uikCount": 46,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 77840,
@@ -1297,6 +1425,14 @@ export const duma_2016_tic_464_region_67 = [
     "ballot": "single-member",
     "tikTvd": "2672000788069",
     "tikName": "Шумячская",
+    "regionCode": "67",
+    "regionTvd": "100100067796083",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 176,
+      "oikTvd": "100100067796085",
+      "oikName": "Смоленская область – Рославльский"
+    },
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 9445,
@@ -1364,6 +1500,14 @@ export const duma_2016_tic_464_region_67 = [
     "ballot": "single-member",
     "tikTvd": "2672000788070",
     "tikName": "Хиславичская",
+    "regionCode": "67",
+    "regionTvd": "100100067796083",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 176,
+      "oikTvd": "100100067796085",
+      "oikName": "Смоленская область – Рославльский"
+    },
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 7995,
@@ -1436,6 +1580,14 @@ export const duma_2016_tic_464_region_67 = [
     "ballot": "single-member",
     "tikTvd": "2672000788071",
     "tikName": "Смоленская 176",
+    "regionCode": "67",
+    "regionTvd": "100100067796083",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 176,
+      "oikTvd": "100100067796085",
+      "oikName": "Смоленская область – Рославльский"
+    },
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 15396,
@@ -1505,6 +1657,14 @@ export const duma_2016_tic_464_region_67 = [
     "ballot": "single-member",
     "tikTvd": "2672000788072",
     "tikName": "Смоленск, Промышленная",
+    "regionCode": "67",
+    "regionTvd": "100100067796083",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 176,
+      "oikTvd": "100100067796085",
+      "oikName": "Смоленская область – Рославльский"
+    },
     "uikCount": 52,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 104930,
@@ -1609,6 +1769,14 @@ export const duma_2016_tic_464_region_67 = [
     "ballot": "single-member",
     "tikTvd": "2672000788073",
     "tikName": "Смоленск, Ленинская",
+    "regionCode": "67",
+    "regionTvd": "100100067796083",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 176,
+      "oikTvd": "100100067796085",
+      "oikName": "Смоленская область – Рославльский"
+    },
     "uikCount": 43,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 81638,
@@ -1704,6 +1872,14 @@ export const duma_2016_tic_464_region_67 = [
     "ballot": "single-member",
     "tikTvd": "2672000788074",
     "tikName": "Рославльская",
+    "regionCode": "67",
+    "regionTvd": "100100067796083",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 176,
+      "oikTvd": "100100067796085",
+      "oikName": "Смоленская область – Рославльский"
+    },
     "uikCount": 47,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 58533,
@@ -1803,6 +1979,14 @@ export const duma_2016_tic_464_region_67 = [
     "ballot": "single-member",
     "tikTvd": "2672000788075",
     "tikName": "Починковская",
+    "regionCode": "67",
+    "regionTvd": "100100067796083",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 176,
+      "oikTvd": "100100067796085",
+      "oikName": "Смоленская область – Рославльский"
+    },
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 25505,
@@ -1895,6 +2079,14 @@ export const duma_2016_tic_464_region_67 = [
     "ballot": "single-member",
     "tikTvd": "2672000788076",
     "tikName": "Монастырщинская",
+    "regionCode": "67",
+    "regionTvd": "100100067796083",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 176,
+      "oikTvd": "100100067796085",
+      "oikName": "Смоленская область – Рославльский"
+    },
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 9114,
@@ -1968,6 +2160,14 @@ export const duma_2016_tic_464_region_67 = [
     "ballot": "single-member",
     "tikTvd": "2672000788077",
     "tikName": "Краснинская",
+    "regionCode": "67",
+    "regionTvd": "100100067796083",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 176,
+      "oikTvd": "100100067796085",
+      "oikName": "Смоленская область – Рославльский"
+    },
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 10954,
@@ -2044,6 +2244,14 @@ export const duma_2016_tic_464_region_67 = [
     "ballot": "single-member",
     "tikTvd": "2672000788078",
     "tikName": "Кардымовская",
+    "regionCode": "67",
+    "regionTvd": "100100067796083",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 176,
+      "oikTvd": "100100067796085",
+      "oikName": "Смоленская область – Рославльский"
+    },
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 8770,
@@ -2112,6 +2320,14 @@ export const duma_2016_tic_464_region_67 = [
     "ballot": "single-member",
     "tikTvd": "2672000788079",
     "tikName": "Ершичская",
+    "regionCode": "67",
+    "regionTvd": "100100067796083",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 176,
+      "oikTvd": "100100067796085",
+      "oikName": "Смоленская область – Рославльский"
+    },
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 5800,
@@ -2177,6 +2393,14 @@ export const duma_2016_tic_464_region_67 = [
     "ballot": "single-member",
     "tikTvd": "2672000788080",
     "tikName": "Ельнинская",
+    "regionCode": "67",
+    "regionTvd": "100100067796083",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 176,
+      "oikTvd": "100100067796085",
+      "oikName": "Смоленская область – Рославльский"
+    },
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 11102,
@@ -2252,6 +2476,14 @@ export const duma_2016_tic_464_region_67 = [
     "ballot": "single-member",
     "tikTvd": "2672000788081",
     "tikName": "Глинковская",
+    "regionCode": "67",
+    "regionTvd": "100100067796083",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 176,
+      "oikTvd": "100100067796085",
+      "oikName": "Смоленская область – Рославльский"
+    },
     "uikCount": 12,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 5027,
@@ -2316,6 +2548,14 @@ export const duma_2016_tic_464_region_67 = [
     "ballot": "single-member",
     "tikTvd": "2672000788431",
     "tikName": "Десногорская городская",
+    "regionCode": "67",
+    "regionTvd": "100100067796083",
+    "regionName": "Смоленская область",
+    "district": {
+      "districtNumber": 176,
+      "oikTvd": "100100067796085",
+      "oikName": "Смоленская область – Рославльский"
+    },
     "uikCount": 12,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 24760,

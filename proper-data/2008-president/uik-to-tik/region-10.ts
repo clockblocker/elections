@@ -7,3499 +7,6414 @@ export const president_2008_uik_to_tik_region_10 = [
   {
     "uikNumber": 1,
     "uikTvd": "4104011114912",
+    "uikName": "УИК №1",
     "tikTvd": "2102000149586",
-    "tikName": "Петрозаводская городская №1"
+    "tikName": "Петрозаводская городская №1",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 3,
     "uikTvd": "4104013112221",
+    "uikName": "УИК №3",
     "tikTvd": "2102000149584",
-    "tikName": "Прионежская"
+    "tikName": "Прионежская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 4,
     "uikTvd": "4104011114913",
+    "uikName": "УИК №4",
     "tikTvd": "2102000149586",
-    "tikName": "Петрозаводская городская №1"
+    "tikName": "Петрозаводская городская №1",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 5,
     "uikTvd": "4104011114914",
+    "uikName": "УИК №5",
     "tikTvd": "2102000149586",
-    "tikName": "Петрозаводская городская №1"
+    "tikName": "Петрозаводская городская №1",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 6,
     "uikTvd": "4104011114915",
+    "uikName": "УИК №6",
     "tikTvd": "2102000149586",
-    "tikName": "Петрозаводская городская №1"
+    "tikName": "Петрозаводская городская №1",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 7,
     "uikTvd": "4104011114916",
+    "uikName": "УИК №7",
     "tikTvd": "2102000149586",
-    "tikName": "Петрозаводская городская №1"
+    "tikName": "Петрозаводская городская №1",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 8,
     "uikTvd": "4104011114917",
+    "uikName": "УИК №8",
     "tikTvd": "2102000149586",
-    "tikName": "Петрозаводская городская №1"
+    "tikName": "Петрозаводская городская №1",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 9,
     "uikTvd": "4104011114918",
+    "uikName": "УИК №9",
     "tikTvd": "2102000149586",
-    "tikName": "Петрозаводская городская №1"
+    "tikName": "Петрозаводская городская №1",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 10,
     "uikTvd": "4104011114919",
+    "uikName": "УИК №10",
     "tikTvd": "2102000149586",
-    "tikName": "Петрозаводская городская №1"
+    "tikName": "Петрозаводская городская №1",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 11,
     "uikTvd": "4104011114920",
+    "uikName": "УИК №11",
     "tikTvd": "2102000149586",
-    "tikName": "Петрозаводская городская №1"
+    "tikName": "Петрозаводская городская №1",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 12,
     "uikTvd": "4104011114921",
+    "uikName": "УИК №12",
     "tikTvd": "2102000149586",
-    "tikName": "Петрозаводская городская №1"
+    "tikName": "Петрозаводская городская №1",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 13,
     "uikTvd": "4104011114922",
+    "uikName": "УИК №13",
     "tikTvd": "2102000149586",
-    "tikName": "Петрозаводская городская №1"
+    "tikName": "Петрозаводская городская №1",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 14,
     "uikTvd": "4104011114923",
+    "uikName": "УИК №14",
     "tikTvd": "2102000149586",
-    "tikName": "Петрозаводская городская №1"
+    "tikName": "Петрозаводская городская №1",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 15,
     "uikTvd": "4104011114924",
+    "uikName": "УИК №15",
     "tikTvd": "2102000149586",
-    "tikName": "Петрозаводская городская №1"
+    "tikName": "Петрозаводская городская №1",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 16,
     "uikTvd": "4104011114925",
+    "uikName": "УИК №16",
     "tikTvd": "2102000149586",
-    "tikName": "Петрозаводская городская №1"
+    "tikName": "Петрозаводская городская №1",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 17,
     "uikTvd": "4104011114926",
+    "uikName": "УИК №17",
     "tikTvd": "2102000149586",
-    "tikName": "Петрозаводская городская №1"
+    "tikName": "Петрозаводская городская №1",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 18,
     "uikTvd": "4104011114927",
+    "uikName": "УИК №18",
     "tikTvd": "2102000149586",
-    "tikName": "Петрозаводская городская №1"
+    "tikName": "Петрозаводская городская №1",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 19,
     "uikTvd": "4104011114928",
+    "uikName": "УИК №19",
     "tikTvd": "2102000149586",
-    "tikName": "Петрозаводская городская №1"
+    "tikName": "Петрозаводская городская №1",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 20,
     "uikTvd": "4104011114929",
+    "uikName": "УИК №20",
     "tikTvd": "2102000149586",
-    "tikName": "Петрозаводская городская №1"
+    "tikName": "Петрозаводская городская №1",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 21,
     "uikTvd": "4104011114930",
+    "uikName": "УИК №21",
     "tikTvd": "2102000149586",
-    "tikName": "Петрозаводская городская №1"
+    "tikName": "Петрозаводская городская №1",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 22,
     "uikTvd": "4104011114931",
+    "uikName": "УИК №22",
     "tikTvd": "2102000149586",
-    "tikName": "Петрозаводская городская №1"
+    "tikName": "Петрозаводская городская №1",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 23,
     "uikTvd": "4104011114932",
+    "uikName": "УИК №23",
     "tikTvd": "2102000149586",
-    "tikName": "Петрозаводская городская №1"
+    "tikName": "Петрозаводская городская №1",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 24,
     "uikTvd": "4104011114933",
+    "uikName": "УИК №24",
     "tikTvd": "2102000149586",
-    "tikName": "Петрозаводская городская №1"
+    "tikName": "Петрозаводская городская №1",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 25,
     "uikTvd": "4104011114934",
+    "uikName": "УИК №25",
     "tikTvd": "2102000149586",
-    "tikName": "Петрозаводская городская №1"
+    "tikName": "Петрозаводская городская №1",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 26,
     "uikTvd": "4104011114935",
+    "uikName": "УИК №26",
     "tikTvd": "2102000149586",
-    "tikName": "Петрозаводская городская №1"
+    "tikName": "Петрозаводская городская №1",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 27,
     "uikTvd": "4104011114936",
+    "uikName": "УИК №27",
     "tikTvd": "2102000149586",
-    "tikName": "Петрозаводская городская №1"
+    "tikName": "Петрозаводская городская №1",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 28,
     "uikTvd": "4104011114937",
+    "uikName": "УИК №28",
     "tikTvd": "2102000149586",
-    "tikName": "Петрозаводская городская №1"
+    "tikName": "Петрозаводская городская №1",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 29,
     "uikTvd": "4104011114938",
+    "uikName": "УИК №29",
     "tikTvd": "2102000149586",
-    "tikName": "Петрозаводская городская №1"
+    "tikName": "Петрозаводская городская №1",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 30,
     "uikTvd": "4104011114939",
+    "uikName": "УИК №30",
     "tikTvd": "2102000149586",
-    "tikName": "Петрозаводская городская №1"
+    "tikName": "Петрозаводская городская №1",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 31,
     "uikTvd": "4104011114940",
+    "uikName": "УИК №31",
     "tikTvd": "2102000149586",
-    "tikName": "Петрозаводская городская №1"
+    "tikName": "Петрозаводская городская №1",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 32,
     "uikTvd": "4104011114941",
+    "uikName": "УИК №32",
     "tikTvd": "2102000149586",
-    "tikName": "Петрозаводская городская №1"
+    "tikName": "Петрозаводская городская №1",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 33,
     "uikTvd": "4104011114942",
+    "uikName": "УИК №33",
     "tikTvd": "2102000149586",
-    "tikName": "Петрозаводская городская №1"
+    "tikName": "Петрозаводская городская №1",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 34,
     "uikTvd": "4104011114943",
+    "uikName": "УИК №34",
     "tikTvd": "2102000149586",
-    "tikName": "Петрозаводская городская №1"
+    "tikName": "Петрозаводская городская №1",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 35,
     "uikTvd": "4104011114944",
+    "uikName": "УИК №35",
     "tikTvd": "2102000149586",
-    "tikName": "Петрозаводская городская №1"
+    "tikName": "Петрозаводская городская №1",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 36,
     "uikTvd": "4104011114945",
+    "uikName": "УИК №36",
     "tikTvd": "2102000149586",
-    "tikName": "Петрозаводская городская №1"
+    "tikName": "Петрозаводская городская №1",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 37,
     "uikTvd": "4104011114946",
+    "uikName": "УИК №37",
     "tikTvd": "2102000149586",
-    "tikName": "Петрозаводская городская №1"
+    "tikName": "Петрозаводская городская №1",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 38,
     "uikTvd": "4104011114947",
+    "uikName": "УИК №38",
     "tikTvd": "2102000149586",
-    "tikName": "Петрозаводская городская №1"
+    "tikName": "Петрозаводская городская №1",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 39,
     "uikTvd": "4104011114948",
+    "uikName": "УИК №39",
     "tikTvd": "2102000149586",
-    "tikName": "Петрозаводская городская №1"
+    "tikName": "Петрозаводская городская №1",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 40,
     "uikTvd": "4104011114949",
+    "uikName": "УИК №40",
     "tikTvd": "2102000149586",
-    "tikName": "Петрозаводская городская №1"
+    "tikName": "Петрозаводская городская №1",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 41,
     "uikTvd": "4104011114950",
+    "uikName": "УИК №41",
     "tikTvd": "2102000149586",
-    "tikName": "Петрозаводская городская №1"
+    "tikName": "Петрозаводская городская №1",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 42,
     "uikTvd": "4104011114951",
+    "uikName": "УИК №42",
     "tikTvd": "2102000149586",
-    "tikName": "Петрозаводская городская №1"
+    "tikName": "Петрозаводская городская №1",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 43,
     "uikTvd": "4104011114952",
+    "uikName": "УИК №43",
     "tikTvd": "2102000149586",
-    "tikName": "Петрозаводская городская №1"
+    "tikName": "Петрозаводская городская №1",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 44,
     "uikTvd": "4104011114953",
+    "uikName": "УИК №44",
     "tikTvd": "2102000149586",
-    "tikName": "Петрозаводская городская №1"
+    "tikName": "Петрозаводская городская №1",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 45,
     "uikTvd": "4104011114954",
+    "uikName": "УИК №45",
     "tikTvd": "2102000149586",
-    "tikName": "Петрозаводская городская №1"
+    "tikName": "Петрозаводская городская №1",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 46,
     "uikTvd": "4104011114955",
+    "uikName": "УИК №46",
     "tikTvd": "2102000149586",
-    "tikName": "Петрозаводская городская №1"
+    "tikName": "Петрозаводская городская №1",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 47,
     "uikTvd": "4104011114956",
+    "uikName": "УИК №47",
     "tikTvd": "2102000149586",
-    "tikName": "Петрозаводская городская №1"
+    "tikName": "Петрозаводская городская №1",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 48,
     "uikTvd": "4104011114957",
+    "uikName": "УИК №48",
     "tikTvd": "2102000149586",
-    "tikName": "Петрозаводская городская №1"
+    "tikName": "Петрозаводская городская №1",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 49,
     "uikTvd": "4104011114958",
+    "uikName": "УИК №49",
     "tikTvd": "2102000149586",
-    "tikName": "Петрозаводская городская №1"
+    "tikName": "Петрозаводская городская №1",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 50,
     "uikTvd": "4104011114959",
+    "uikName": "УИК №50",
     "tikTvd": "2102000149586",
-    "tikName": "Петрозаводская городская №1"
+    "tikName": "Петрозаводская городская №1",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 51,
     "uikTvd": "4104011114960",
+    "uikName": "УИК №51",
     "tikTvd": "2102000149586",
-    "tikName": "Петрозаводская городская №1"
+    "tikName": "Петрозаводская городская №1",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 52,
     "uikTvd": "4104011114961",
+    "uikName": "УИК №52",
     "tikTvd": "2102000149586",
-    "tikName": "Петрозаводская городская №1"
+    "tikName": "Петрозаводская городская №1",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 53,
     "uikTvd": "4104011114962",
+    "uikName": "УИК №53",
     "tikTvd": "2102000149586",
-    "tikName": "Петрозаводская городская №1"
+    "tikName": "Петрозаводская городская №1",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 54,
     "uikTvd": "4104011114963",
+    "uikName": "УИК №54",
     "tikTvd": "2102000149586",
-    "tikName": "Петрозаводская городская №1"
+    "tikName": "Петрозаводская городская №1",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 55,
     "uikTvd": "4104011114964",
+    "uikName": "УИК №55",
     "tikTvd": "2102000149586",
-    "tikName": "Петрозаводская городская №1"
+    "tikName": "Петрозаводская городская №1",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 56,
     "uikTvd": "4104011114965",
+    "uikName": "УИК №56",
     "tikTvd": "2102000149586",
-    "tikName": "Петрозаводская городская №1"
+    "tikName": "Петрозаводская городская №1",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 57,
     "uikTvd": "4104019107084",
+    "uikName": "УИК №57",
     "tikTvd": "2102000149597",
-    "tikName": "Петрозаводская городская №2"
+    "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 58,
     "uikTvd": "4104019107086",
+    "uikName": "УИК №58",
     "tikTvd": "2102000149597",
-    "tikName": "Петрозаводская городская №2"
+    "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 59,
     "uikTvd": "4104019107088",
+    "uikName": "УИК №59",
     "tikTvd": "2102000149597",
-    "tikName": "Петрозаводская городская №2"
+    "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 60,
     "uikTvd": "4104019107090",
+    "uikName": "УИК №60",
     "tikTvd": "2102000149597",
-    "tikName": "Петрозаводская городская №2"
+    "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 61,
     "uikTvd": "4104019107092",
+    "uikName": "УИК №61",
     "tikTvd": "2102000149597",
-    "tikName": "Петрозаводская городская №2"
+    "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 62,
     "uikTvd": "4104019107094",
+    "uikName": "УИК №62",
     "tikTvd": "2102000149597",
-    "tikName": "Петрозаводская городская №2"
+    "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 63,
     "uikTvd": "4104019107096",
+    "uikName": "УИК №63",
     "tikTvd": "2102000149597",
-    "tikName": "Петрозаводская городская №2"
+    "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 64,
     "uikTvd": "4104019107098",
+    "uikName": "УИК №64",
     "tikTvd": "2102000149597",
-    "tikName": "Петрозаводская городская №2"
+    "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 65,
     "uikTvd": "4104019107100",
+    "uikName": "УИК №65",
     "tikTvd": "2102000149597",
-    "tikName": "Петрозаводская городская №2"
+    "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 66,
     "uikTvd": "4104019107102",
+    "uikName": "УИК №66",
     "tikTvd": "2102000149597",
-    "tikName": "Петрозаводская городская №2"
+    "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 67,
     "uikTvd": "4104019107104",
+    "uikName": "УИК №67",
     "tikTvd": "2102000149597",
-    "tikName": "Петрозаводская городская №2"
+    "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 68,
     "uikTvd": "4104019107106",
+    "uikName": "УИК №68",
     "tikTvd": "2102000149597",
-    "tikName": "Петрозаводская городская №2"
+    "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 69,
     "uikTvd": "4104019107108",
+    "uikName": "УИК №69",
     "tikTvd": "2102000149597",
-    "tikName": "Петрозаводская городская №2"
+    "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 70,
     "uikTvd": "4104019107110",
+    "uikName": "УИК №70",
     "tikTvd": "2102000149597",
-    "tikName": "Петрозаводская городская №2"
+    "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 71,
     "uikTvd": "4104019107112",
+    "uikName": "УИК №71",
     "tikTvd": "2102000149597",
-    "tikName": "Петрозаводская городская №2"
+    "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 72,
     "uikTvd": "4104019107114",
+    "uikName": "УИК №72",
     "tikTvd": "2102000149597",
-    "tikName": "Петрозаводская городская №2"
+    "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 73,
     "uikTvd": "4104011114966",
+    "uikName": "УИК №73",
     "tikTvd": "2102000149586",
-    "tikName": "Петрозаводская городская №1"
+    "tikName": "Петрозаводская городская №1",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 74,
     "uikTvd": "4104011114967",
+    "uikName": "УИК №74",
     "tikTvd": "2102000149586",
-    "tikName": "Петрозаводская городская №1"
+    "tikName": "Петрозаводская городская №1",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 75,
     "uikTvd": "4104011114968",
+    "uikName": "УИК №75",
     "tikTvd": "2102000149586",
-    "tikName": "Петрозаводская городская №1"
+    "tikName": "Петрозаводская городская №1",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 76,
     "uikTvd": "4104011114969",
+    "uikName": "УИК №76",
     "tikTvd": "2102000149586",
-    "tikName": "Петрозаводская городская №1"
+    "tikName": "Петрозаводская городская №1",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 77,
     "uikTvd": "4104011114970",
+    "uikName": "УИК №77",
     "tikTvd": "2102000149586",
-    "tikName": "Петрозаводская городская №1"
+    "tikName": "Петрозаводская городская №1",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 78,
     "uikTvd": "4104011114971",
+    "uikName": "УИК №78",
     "tikTvd": "2102000149586",
-    "tikName": "Петрозаводская городская №1"
+    "tikName": "Петрозаводская городская №1",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 79,
     "uikTvd": "4104011114972",
+    "uikName": "УИК №79",
     "tikTvd": "2102000149586",
-    "tikName": "Петрозаводская городская №1"
+    "tikName": "Петрозаводская городская №1",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 80,
     "uikTvd": "4104011114973",
+    "uikName": "УИК №80",
     "tikTvd": "2102000149586",
-    "tikName": "Петрозаводская городская №1"
+    "tikName": "Петрозаводская городская №1",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 81,
     "uikTvd": "4104011114974",
+    "uikName": "УИК №81",
     "tikTvd": "2102000149586",
-    "tikName": "Петрозаводская городская №1"
+    "tikName": "Петрозаводская городская №1",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 82,
     "uikTvd": "4104011114975",
+    "uikName": "УИК №82",
     "tikTvd": "2102000149586",
-    "tikName": "Петрозаводская городская №1"
+    "tikName": "Петрозаводская городская №1",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 83,
     "uikTvd": "4104011114976",
+    "uikName": "УИК №83",
     "tikTvd": "2102000149586",
-    "tikName": "Петрозаводская городская №1"
+    "tikName": "Петрозаводская городская №1",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 84,
     "uikTvd": "4104011114977",
+    "uikName": "УИК №84",
     "tikTvd": "2102000149586",
-    "tikName": "Петрозаводская городская №1"
+    "tikName": "Петрозаводская городская №1",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 85,
     "uikTvd": "4104011114978",
+    "uikName": "УИК №85",
     "tikTvd": "2102000149586",
-    "tikName": "Петрозаводская городская №1"
+    "tikName": "Петрозаводская городская №1",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 86,
     "uikTvd": "4104011114979",
+    "uikName": "УИК №86",
     "tikTvd": "2102000149586",
-    "tikName": "Петрозаводская городская №1"
+    "tikName": "Петрозаводская городская №1",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 87,
     "uikTvd": "4104011114980",
+    "uikName": "УИК №87",
     "tikTvd": "2102000149586",
-    "tikName": "Петрозаводская городская №1"
+    "tikName": "Петрозаводская городская №1",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 88,
     "uikTvd": "4104011114981",
+    "uikName": "УИК №88",
     "tikTvd": "2102000149586",
-    "tikName": "Петрозаводская городская №1"
+    "tikName": "Петрозаводская городская №1",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 89,
     "uikTvd": "4104019107116",
+    "uikName": "УИК №89",
     "tikTvd": "2102000149597",
-    "tikName": "Петрозаводская городская №2"
+    "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 90,
     "uikTvd": "4104019107118",
+    "uikName": "УИК №90",
     "tikTvd": "2102000149597",
-    "tikName": "Петрозаводская городская №2"
+    "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 91,
     "uikTvd": "4104019107120",
+    "uikName": "УИК №91",
     "tikTvd": "2102000149597",
-    "tikName": "Петрозаводская городская №2"
+    "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 92,
     "uikTvd": "4104019107122",
+    "uikName": "УИК №92",
     "tikTvd": "2102000149597",
-    "tikName": "Петрозаводская городская №2"
+    "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 93,
     "uikTvd": "4104019107124",
+    "uikName": "УИК №93",
     "tikTvd": "2102000149597",
-    "tikName": "Петрозаводская городская №2"
+    "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 94,
     "uikTvd": "4104019107126",
+    "uikName": "УИК №94",
     "tikTvd": "2102000149597",
-    "tikName": "Петрозаводская городская №2"
+    "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 95,
     "uikTvd": "4104019107128",
+    "uikName": "УИК №95",
     "tikTvd": "2102000149597",
-    "tikName": "Петрозаводская городская №2"
+    "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 96,
     "uikTvd": "4104019107130",
+    "uikName": "УИК №96",
     "tikTvd": "2102000149597",
-    "tikName": "Петрозаводская городская №2"
+    "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 97,
     "uikTvd": "4104019107132",
+    "uikName": "УИК №97",
     "tikTvd": "2102000149597",
-    "tikName": "Петрозаводская городская №2"
+    "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 98,
     "uikTvd": "4104019107134",
+    "uikName": "УИК №98",
     "tikTvd": "2102000149597",
-    "tikName": "Петрозаводская городская №2"
+    "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 99,
     "uikTvd": "4104019107136",
+    "uikName": "УИК №99",
     "tikTvd": "2102000149597",
-    "tikName": "Петрозаводская городская №2"
+    "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 100,
     "uikTvd": "4104019107138",
+    "uikName": "УИК №100",
     "tikTvd": "2102000149597",
-    "tikName": "Петрозаводская городская №2"
+    "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 101,
     "uikTvd": "4104019107140",
+    "uikName": "УИК №101",
     "tikTvd": "2102000149597",
-    "tikName": "Петрозаводская городская №2"
+    "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 102,
     "uikTvd": "4104011114982",
+    "uikName": "УИК №102",
     "tikTvd": "2102000149586",
-    "tikName": "Петрозаводская городская №1"
+    "tikName": "Петрозаводская городская №1",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 103,
     "uikTvd": "4104019107142",
+    "uikName": "УИК №103",
     "tikTvd": "2102000149597",
-    "tikName": "Петрозаводская городская №2"
+    "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 104,
     "uikTvd": "4104019107144",
+    "uikName": "УИК №104",
     "tikTvd": "2102000149597",
-    "tikName": "Петрозаводская городская №2"
+    "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 105,
     "uikTvd": "4104019107146",
+    "uikName": "УИК №105",
     "tikTvd": "2102000149597",
-    "tikName": "Петрозаводская городская №2"
+    "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 106,
     "uikTvd": "4104019107148",
+    "uikName": "УИК №106",
     "tikTvd": "2102000149597",
-    "tikName": "Петрозаводская городская №2"
+    "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 107,
     "uikTvd": "4104019107150",
+    "uikName": "УИК №107",
     "tikTvd": "2102000149597",
-    "tikName": "Петрозаводская городская №2"
+    "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 108,
     "uikTvd": "4104019107152",
+    "uikName": "УИК №108",
     "tikTvd": "2102000149597",
-    "tikName": "Петрозаводская городская №2"
+    "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 109,
     "uikTvd": "4104019107154",
+    "uikName": "УИК №109",
     "tikTvd": "2102000149597",
-    "tikName": "Петрозаводская городская №2"
+    "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 110,
     "uikTvd": "4104019107156",
+    "uikName": "УИК №110",
     "tikTvd": "2102000149597",
-    "tikName": "Петрозаводская городская №2"
+    "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 111,
     "uikTvd": "4104019107158",
+    "uikName": "УИК №111",
     "tikTvd": "2102000149597",
-    "tikName": "Петрозаводская городская №2"
+    "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 112,
     "uikTvd": "4104019107160",
+    "uikName": "УИК №112",
     "tikTvd": "2102000149597",
-    "tikName": "Петрозаводская городская №2"
+    "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 113,
     "uikTvd": "4104019107162",
+    "uikName": "УИК №113",
     "tikTvd": "2102000149597",
-    "tikName": "Петрозаводская городская №2"
+    "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 114,
     "uikTvd": "4104019107164",
+    "uikName": "УИК №114",
     "tikTvd": "2102000149597",
-    "tikName": "Петрозаводская городская №2"
+    "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 115,
     "uikTvd": "4104019107166",
+    "uikName": "УИК №115",
     "tikTvd": "2102000149597",
-    "tikName": "Петрозаводская городская №2"
+    "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 116,
     "uikTvd": "4104019107168",
+    "uikName": "УИК №116",
     "tikTvd": "2102000149597",
-    "tikName": "Петрозаводская городская №2"
+    "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 117,
     "uikTvd": "4104019107170",
+    "uikName": "УИК №117",
     "tikTvd": "2102000149597",
-    "tikName": "Петрозаводская городская №2"
+    "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 118,
     "uikTvd": "4104019107172",
+    "uikName": "УИК №118",
     "tikTvd": "2102000149597",
-    "tikName": "Петрозаводская городская №2"
+    "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 119,
     "uikTvd": "4104019107174",
+    "uikName": "УИК №119",
     "tikTvd": "2102000149597",
-    "tikName": "Петрозаводская городская №2"
+    "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 120,
     "uikTvd": "4104019107176",
+    "uikName": "УИК №120",
     "tikTvd": "2102000149597",
-    "tikName": "Петрозаводская городская №2"
+    "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 121,
     "uikTvd": "4104019107178",
+    "uikName": "УИК №121",
     "tikTvd": "2102000149597",
-    "tikName": "Петрозаводская городская №2"
+    "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 122,
     "uikTvd": "4104019107180",
+    "uikName": "УИК №122",
     "tikTvd": "2102000149597",
-    "tikName": "Петрозаводская городская №2"
+    "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 123,
     "uikTvd": "4104019107182",
+    "uikName": "УИК №123",
     "tikTvd": "2102000149597",
-    "tikName": "Петрозаводская городская №2"
+    "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 124,
     "uikTvd": "4104019107184",
+    "uikName": "УИК №124",
     "tikTvd": "2102000149597",
-    "tikName": "Петрозаводская городская №2"
+    "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 125,
     "uikTvd": "4104019107186",
+    "uikName": "УИК №125",
     "tikTvd": "2102000149597",
-    "tikName": "Петрозаводская городская №2"
+    "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 126,
     "uikTvd": "4104019107188",
+    "uikName": "УИК №126",
     "tikTvd": "2102000149597",
-    "tikName": "Петрозаводская городская №2"
+    "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 127,
     "uikTvd": "4104019107190",
+    "uikName": "УИК №127",
     "tikTvd": "2102000149597",
-    "tikName": "Петрозаводская городская №2"
+    "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 128,
     "uikTvd": "4104019107192",
+    "uikName": "УИК №128",
     "tikTvd": "2102000149597",
-    "tikName": "Петрозаводская городская №2"
+    "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 129,
     "uikTvd": "4104019107194",
+    "uikName": "УИК №129",
     "tikTvd": "2102000149597",
-    "tikName": "Петрозаводская городская №2"
+    "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 136,
     "uikTvd": "4104017100922",
+    "uikName": "УИК №136",
     "tikTvd": "2102000149580",
-    "tikName": "Сортавальская городская"
+    "tikName": "Сортавальская городская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 137,
     "uikTvd": "4104017100923",
+    "uikName": "УИК №137",
     "tikTvd": "2102000149580",
-    "tikName": "Сортавальская городская"
+    "tikName": "Сортавальская городская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 138,
     "uikTvd": "4104017100924",
+    "uikName": "УИК №138",
     "tikTvd": "2102000149580",
-    "tikName": "Сортавальская городская"
+    "tikName": "Сортавальская городская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 139,
     "uikTvd": "4104017100925",
+    "uikName": "УИК №139",
     "tikTvd": "2102000149580",
-    "tikName": "Сортавальская городская"
+    "tikName": "Сортавальская городская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 140,
     "uikTvd": "4104017100926",
+    "uikName": "УИК №140",
     "tikTvd": "2102000149580",
-    "tikName": "Сортавальская городская"
+    "tikName": "Сортавальская городская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 141,
     "uikTvd": "4104017100927",
+    "uikName": "УИК №141",
     "tikTvd": "2102000149580",
-    "tikName": "Сортавальская городская"
+    "tikName": "Сортавальская городская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 142,
     "uikTvd": "4104017100928",
+    "uikName": "УИК №142",
     "tikTvd": "2102000149580",
-    "tikName": "Сортавальская городская"
+    "tikName": "Сортавальская городская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 143,
     "uikTvd": "4104017100929",
+    "uikName": "УИК №143",
     "tikTvd": "2102000149580",
-    "tikName": "Сортавальская городская"
+    "tikName": "Сортавальская городская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 144,
     "uikTvd": "4104017100930",
+    "uikName": "УИК №144",
     "tikTvd": "2102000149580",
-    "tikName": "Сортавальская городская"
+    "tikName": "Сортавальская городская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 145,
     "uikTvd": "4104017100931",
+    "uikName": "УИК №145",
     "tikTvd": "2102000149580",
-    "tikName": "Сортавальская городская"
+    "tikName": "Сортавальская городская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 146,
     "uikTvd": "4104017100932",
+    "uikName": "УИК №146",
     "tikTvd": "2102000149580",
-    "tikName": "Сортавальская городская"
+    "tikName": "Сортавальская городская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 147,
     "uikTvd": "4104017100933",
+    "uikName": "УИК №147",
     "tikTvd": "2102000149580",
-    "tikName": "Сортавальская городская"
+    "tikName": "Сортавальская городская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 148,
     "uikTvd": "4104017100934",
+    "uikName": "УИК №148",
     "tikTvd": "2102000149580",
-    "tikName": "Сортавальская городская"
+    "tikName": "Сортавальская городская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 149,
     "uikTvd": "4104017100935",
+    "uikName": "УИК №149",
     "tikTvd": "2102000149580",
-    "tikName": "Сортавальская городская"
+    "tikName": "Сортавальская городская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 150,
     "uikTvd": "4104017100936",
+    "uikName": "УИК №150",
     "tikTvd": "2102000149580",
-    "tikName": "Сортавальская городская"
+    "tikName": "Сортавальская городская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 151,
     "uikTvd": "4104017100937",
+    "uikName": "УИК №151",
     "tikTvd": "2102000149580",
-    "tikName": "Сортавальская городская"
+    "tikName": "Сортавальская городская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 152,
     "uikTvd": "4104017100938",
+    "uikName": "УИК №152",
     "tikTvd": "2102000149580",
-    "tikName": "Сортавальская городская"
+    "tikName": "Сортавальская городская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 153,
     "uikTvd": "4104017100939",
+    "uikName": "УИК №153",
     "tikTvd": "2102000149580",
-    "tikName": "Сортавальская городская"
+    "tikName": "Сортавальская городская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 154,
     "uikTvd": "4104017100940",
+    "uikName": "УИК №154",
     "tikTvd": "2102000149580",
-    "tikName": "Сортавальская городская"
+    "tikName": "Сортавальская городская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 155,
     "uikTvd": "4104017100941",
+    "uikName": "УИК №155",
     "tikTvd": "2102000149580",
-    "tikName": "Сортавальская городская"
+    "tikName": "Сортавальская городская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 156,
     "uikTvd": "4104017100942",
+    "uikName": "УИК №156",
     "tikTvd": "2102000149580",
-    "tikName": "Сортавальская городская"
+    "tikName": "Сортавальская городская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 157,
     "uikTvd": "4104017100943",
+    "uikName": "УИК №157",
     "tikTvd": "2102000149580",
-    "tikName": "Сортавальская городская"
+    "tikName": "Сортавальская городская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 158,
     "uikTvd": "4104017100944",
+    "uikName": "УИК №158",
     "tikTvd": "2102000149580",
-    "tikName": "Сортавальская городская"
+    "tikName": "Сортавальская городская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 159,
     "uikTvd": "4104017100945",
+    "uikName": "УИК №159",
     "tikTvd": "2102000149580",
-    "tikName": "Сортавальская городская"
+    "tikName": "Сортавальская городская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 160,
     "uikTvd": "4104017100946",
+    "uikName": "УИК №160",
     "tikTvd": "2102000149580",
-    "tikName": "Сортавальская городская"
+    "tikName": "Сортавальская городская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 161,
     "uikTvd": "410401296155",
+    "uikName": "УИК №161",
     "tikTvd": "2102000149585",
-    "tikName": "Питкярантская"
+    "tikName": "Питкярантская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 162,
     "uikTvd": "410401296156",
+    "uikName": "УИК №162",
     "tikTvd": "2102000149585",
-    "tikName": "Питкярантская"
+    "tikName": "Питкярантская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 163,
     "uikTvd": "410401296157",
+    "uikName": "УИК №163",
     "tikTvd": "2102000149585",
-    "tikName": "Питкярантская"
+    "tikName": "Питкярантская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 164,
     "uikTvd": "410401296158",
+    "uikName": "УИК №164",
     "tikTvd": "2102000149585",
-    "tikName": "Питкярантская"
+    "tikName": "Питкярантская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 165,
     "uikTvd": "410401296159",
+    "uikName": "УИК №165",
     "tikTvd": "2102000149585",
-    "tikName": "Питкярантская"
+    "tikName": "Питкярантская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 166,
     "uikTvd": "410401296160",
+    "uikName": "УИК №166",
     "tikTvd": "2102000149585",
-    "tikName": "Питкярантская"
+    "tikName": "Питкярантская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 167,
     "uikTvd": "410401296161",
+    "uikName": "УИК №167",
     "tikTvd": "2102000149585",
-    "tikName": "Питкярантская"
+    "tikName": "Питкярантская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 168,
     "uikTvd": "410401296162",
+    "uikName": "УИК №168",
     "tikTvd": "2102000149585",
-    "tikName": "Питкярантская"
+    "tikName": "Питкярантская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 169,
     "uikTvd": "410401296163",
+    "uikName": "УИК №169",
     "tikTvd": "2102000149585",
-    "tikName": "Питкярантская"
+    "tikName": "Питкярантская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 170,
     "uikTvd": "410401296164",
+    "uikName": "УИК №170",
     "tikTvd": "2102000149585",
-    "tikName": "Питкярантская"
+    "tikName": "Питкярантская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 171,
     "uikTvd": "410401296165",
+    "uikName": "УИК №171",
     "tikTvd": "2102000149585",
-    "tikName": "Питкярантская"
+    "tikName": "Питкярантская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 172,
     "uikTvd": "410401296166",
+    "uikName": "УИК №172",
     "tikTvd": "2102000149585",
-    "tikName": "Питкярантская"
+    "tikName": "Питкярантская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 173,
     "uikTvd": "410401296167",
+    "uikName": "УИК №173",
     "tikTvd": "2102000149585",
-    "tikName": "Питкярантская"
+    "tikName": "Питкярантская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 174,
     "uikTvd": "410401296168",
+    "uikName": "УИК №174",
     "tikTvd": "2102000149585",
-    "tikName": "Питкярантская"
+    "tikName": "Питкярантская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 175,
     "uikTvd": "410401296169",
+    "uikName": "УИК №175",
     "tikTvd": "2102000149585",
-    "tikName": "Питкярантская"
+    "tikName": "Питкярантская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 176,
     "uikTvd": "410401296170",
+    "uikName": "УИК №176",
     "tikTvd": "2102000149585",
-    "tikName": "Питкярантская"
+    "tikName": "Питкярантская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 177,
     "uikTvd": "410401296171",
+    "uikName": "УИК №177",
     "tikTvd": "2102000149585",
-    "tikName": "Питкярантская"
+    "tikName": "Питкярантская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 178,
     "uikTvd": "410401296172",
+    "uikName": "УИК №178",
     "tikTvd": "2102000149585",
-    "tikName": "Питкярантская"
+    "tikName": "Питкярантская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 179,
     "uikTvd": "410401296173",
+    "uikName": "УИК №179",
     "tikTvd": "2102000149585",
-    "tikName": "Питкярантская"
+    "tikName": "Питкярантская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 180,
     "uikTvd": "410401296174",
+    "uikName": "УИК №180",
     "tikTvd": "2102000149585",
-    "tikName": "Питкярантская"
+    "tikName": "Питкярантская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 181,
     "uikTvd": "410401296175",
+    "uikName": "УИК №181",
     "tikTvd": "2102000149585",
-    "tikName": "Питкярантская"
+    "tikName": "Питкярантская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 182,
     "uikTvd": "410401296176",
+    "uikName": "УИК №182",
     "tikTvd": "2102000149585",
-    "tikName": "Питкярантская"
+    "tikName": "Питкярантская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 184,
     "uikTvd": "410400195463",
+    "uikName": "УИК №184",
     "tikTvd": "2102000149596",
-    "tikName": "Беломорская"
+    "tikName": "Беломорская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 185,
     "uikTvd": "410400195465",
+    "uikName": "УИК №185",
     "tikTvd": "2102000149596",
-    "tikName": "Беломорская"
+    "tikName": "Беломорская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 186,
     "uikTvd": "410400195467",
+    "uikName": "УИК №186",
     "tikTvd": "2102000149596",
-    "tikName": "Беломорская"
+    "tikName": "Беломорская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 187,
     "uikTvd": "410400195469",
+    "uikName": "УИК №187",
     "tikTvd": "2102000149596",
-    "tikName": "Беломорская"
+    "tikName": "Беломорская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 188,
     "uikTvd": "410400195471",
+    "uikName": "УИК №188",
     "tikTvd": "2102000149596",
-    "tikName": "Беломорская"
+    "tikName": "Беломорская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 189,
     "uikTvd": "410400195473",
+    "uikName": "УИК №189",
     "tikTvd": "2102000149596",
-    "tikName": "Беломорская"
+    "tikName": "Беломорская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 190,
     "uikTvd": "410400195475",
+    "uikName": "УИК №190",
     "tikTvd": "2102000149596",
-    "tikName": "Беломорская"
+    "tikName": "Беломорская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 191,
     "uikTvd": "410400195477",
+    "uikName": "УИК №191",
     "tikTvd": "2102000149596",
-    "tikName": "Беломорская"
+    "tikName": "Беломорская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 192,
     "uikTvd": "410400195479",
+    "uikName": "УИК №192",
     "tikTvd": "2102000149596",
-    "tikName": "Беломорская"
+    "tikName": "Беломорская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 193,
     "uikTvd": "410400195481",
+    "uikName": "УИК №193",
     "tikTvd": "2102000149596",
-    "tikName": "Беломорская"
+    "tikName": "Беломорская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 194,
     "uikTvd": "410400195483",
+    "uikName": "УИК №194",
     "tikTvd": "2102000149596",
-    "tikName": "Беломорская"
+    "tikName": "Беломорская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 195,
     "uikTvd": "410400195485",
+    "uikName": "УИК №195",
     "tikTvd": "2102000149596",
-    "tikName": "Беломорская"
+    "tikName": "Беломорская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 196,
     "uikTvd": "410400195487",
+    "uikName": "УИК №196",
     "tikTvd": "2102000149596",
-    "tikName": "Беломорская"
+    "tikName": "Беломорская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 197,
     "uikTvd": "410400195489",
+    "uikName": "УИК №197",
     "tikTvd": "2102000149596",
-    "tikName": "Беломорская"
+    "tikName": "Беломорская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 198,
     "uikTvd": "410400195491",
+    "uikName": "УИК №198",
     "tikTvd": "2102000149596",
-    "tikName": "Беломорская"
+    "tikName": "Беломорская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 199,
     "uikTvd": "410400195493",
+    "uikName": "УИК №199",
     "tikTvd": "2102000149596",
-    "tikName": "Беломорская"
+    "tikName": "Беломорская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 200,
     "uikTvd": "410400195495",
+    "uikName": "УИК №200",
     "tikTvd": "2102000149596",
-    "tikName": "Беломорская"
+    "tikName": "Беломорская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 202,
     "uikTvd": "410400195497",
+    "uikName": "УИК №202",
     "tikTvd": "2102000149596",
-    "tikName": "Беломорская"
+    "tikName": "Беломорская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 203,
     "uikTvd": "410400195499",
+    "uikName": "УИК №203",
     "tikTvd": "2102000149596",
-    "tikName": "Беломорская"
+    "tikName": "Беломорская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 205,
     "uikTvd": "410400195501",
+    "uikName": "УИК №205",
     "tikTvd": "2102000149596",
-    "tikName": "Беломорская"
+    "tikName": "Беломорская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 206,
     "uikTvd": "410400195503",
+    "uikName": "УИК №206",
     "tikTvd": "2102000149596",
-    "tikName": "Беломорская"
+    "tikName": "Беломорская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 207,
     "uikTvd": "410400195505",
+    "uikName": "УИК №207",
     "tikTvd": "2102000149596",
-    "tikName": "Беломорская"
+    "tikName": "Беломорская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 212,
     "uikTvd": "410400288819",
+    "uikName": "УИК №212",
     "tikTvd": "2102000149594",
-    "tikName": "Калевальская"
+    "tikName": "Калевальская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 213,
     "uikTvd": "410400288821",
+    "uikName": "УИК №213",
     "tikTvd": "2102000149594",
-    "tikName": "Калевальская"
+    "tikName": "Калевальская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 214,
     "uikTvd": "410400288823",
+    "uikName": "УИК №214",
     "tikTvd": "2102000149594",
-    "tikName": "Калевальская"
+    "tikName": "Калевальская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 215,
     "uikTvd": "410400288825",
+    "uikName": "УИК №215",
     "tikTvd": "2102000149594",
-    "tikName": "Калевальская"
+    "tikName": "Калевальская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 216,
     "uikTvd": "410400288827",
+    "uikName": "УИК №216",
     "tikTvd": "2102000149594",
-    "tikName": "Калевальская"
+    "tikName": "Калевальская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 217,
     "uikTvd": "410400288829",
+    "uikName": "УИК №217",
     "tikTvd": "2102000149594",
-    "tikName": "Калевальская"
+    "tikName": "Калевальская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 218,
     "uikTvd": "410400288831",
+    "uikName": "УИК №218",
     "tikTvd": "2102000149594",
-    "tikName": "Калевальская"
+    "tikName": "Калевальская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 219,
     "uikTvd": "410400288833",
+    "uikName": "УИК №219",
     "tikTvd": "2102000149594",
-    "tikName": "Калевальская"
+    "tikName": "Калевальская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 221,
     "uikTvd": "4104003100121",
+    "uikName": "УИК №221",
     "tikTvd": "2102000149593",
-    "tikName": "Кемская"
+    "tikName": "Кемская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 222,
     "uikTvd": "4104003100122",
+    "uikName": "УИК №222",
     "tikTvd": "2102000149593",
-    "tikName": "Кемская"
+    "tikName": "Кемская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 223,
     "uikTvd": "4104003100123",
+    "uikName": "УИК №223",
     "tikTvd": "2102000149593",
-    "tikName": "Кемская"
+    "tikName": "Кемская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 224,
     "uikTvd": "4104003100124",
+    "uikName": "УИК №224",
     "tikTvd": "2102000149593",
-    "tikName": "Кемская"
+    "tikName": "Кемская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 225,
     "uikTvd": "4104003100125",
+    "uikName": "УИК №225",
     "tikTvd": "2102000149593",
-    "tikName": "Кемская"
+    "tikName": "Кемская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 226,
     "uikTvd": "4104003100126",
+    "uikName": "УИК №226",
     "tikTvd": "2102000149593",
-    "tikName": "Кемская"
+    "tikName": "Кемская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 227,
     "uikTvd": "4104003100127",
+    "uikName": "УИК №227",
     "tikTvd": "2102000149593",
-    "tikName": "Кемская"
+    "tikName": "Кемская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 228,
     "uikTvd": "4104003100128",
+    "uikName": "УИК №228",
     "tikTvd": "2102000149593",
-    "tikName": "Кемская"
+    "tikName": "Кемская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 229,
     "uikTvd": "4104003100129",
+    "uikName": "УИК №229",
     "tikTvd": "2102000149593",
-    "tikName": "Кемская"
+    "tikName": "Кемская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 230,
     "uikTvd": "4104003100130",
+    "uikName": "УИК №230",
     "tikTvd": "2102000149593",
-    "tikName": "Кемская"
+    "tikName": "Кемская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 231,
     "uikTvd": "4104003100131",
+    "uikName": "УИК №231",
     "tikTvd": "2102000149593",
-    "tikName": "Кемская"
+    "tikName": "Кемская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 232,
     "uikTvd": "4104003100132",
+    "uikName": "УИК №232",
     "tikTvd": "2102000149593",
-    "tikName": "Кемская"
+    "tikName": "Кемская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 233,
     "uikTvd": "4104003100133",
+    "uikName": "УИК №233",
     "tikTvd": "2102000149593",
-    "tikName": "Кемская"
+    "tikName": "Кемская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 234,
     "uikTvd": "4104003100134",
+    "uikName": "УИК №234",
     "tikTvd": "2102000149593",
-    "tikName": "Кемская"
+    "tikName": "Кемская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 235,
     "uikTvd": "4104003100135",
+    "uikName": "УИК №235",
     "tikTvd": "2102000149593",
-    "tikName": "Кемская"
+    "tikName": "Кемская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 236,
     "uikTvd": "4104003100136",
+    "uikName": "УИК №236",
     "tikTvd": "2102000149593",
-    "tikName": "Кемская"
+    "tikName": "Кемская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 237,
     "uikTvd": "4104003100137",
+    "uikName": "УИК №237",
     "tikTvd": "2102000149593",
-    "tikName": "Кемская"
+    "tikName": "Кемская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 238,
     "uikTvd": "4104003100138",
+    "uikName": "УИК №238",
     "tikTvd": "2102000149593",
-    "tikName": "Кемская"
+    "tikName": "Кемская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 241,
     "uikTvd": "4104006101128",
+    "uikName": "УИК №241",
     "tikTvd": "2102000149591",
-    "tikName": "Лахденпохская"
+    "tikName": "Лахденпохская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 242,
     "uikTvd": "4104006101129",
+    "uikName": "УИК №242",
     "tikTvd": "2102000149591",
-    "tikName": "Лахденпохская"
+    "tikName": "Лахденпохская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 243,
     "uikTvd": "4104006101130",
+    "uikName": "УИК №243",
     "tikTvd": "2102000149591",
-    "tikName": "Лахденпохская"
+    "tikName": "Лахденпохская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 244,
     "uikTvd": "4104006101131",
+    "uikName": "УИК №244",
     "tikTvd": "2102000149591",
-    "tikName": "Лахденпохская"
+    "tikName": "Лахденпохская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 245,
     "uikTvd": "4104006101132",
+    "uikName": "УИК №245",
     "tikTvd": "2102000149591",
-    "tikName": "Лахденпохская"
+    "tikName": "Лахденпохская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 246,
     "uikTvd": "4104006101133",
+    "uikName": "УИК №246",
     "tikTvd": "2102000149591",
-    "tikName": "Лахденпохская"
+    "tikName": "Лахденпохская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 247,
     "uikTvd": "4104006101134",
+    "uikName": "УИК №247",
     "tikTvd": "2102000149591",
-    "tikName": "Лахденпохская"
+    "tikName": "Лахденпохская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 249,
     "uikTvd": "4104006101135",
+    "uikName": "УИК №249",
     "tikTvd": "2102000149591",
-    "tikName": "Лахденпохская"
+    "tikName": "Лахденпохская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 251,
     "uikTvd": "4104006101136",
+    "uikName": "УИК №251",
     "tikTvd": "2102000149591",
-    "tikName": "Лахденпохская"
+    "tikName": "Лахденпохская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 252,
     "uikTvd": "4104006101137",
+    "uikName": "УИК №252",
     "tikTvd": "2102000149591",
-    "tikName": "Лахденпохская"
+    "tikName": "Лахденпохская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 253,
     "uikTvd": "4104006101138",
+    "uikName": "УИК №253",
     "tikTvd": "2102000149591",
-    "tikName": "Лахденпохская"
+    "tikName": "Лахденпохская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 254,
     "uikTvd": "4104006101139",
+    "uikName": "УИК №254",
     "tikTvd": "2102000149591",
-    "tikName": "Лахденпохская"
+    "tikName": "Лахденпохская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 255,
     "uikTvd": "4104006101140",
+    "uikName": "УИК №255",
     "tikTvd": "2102000149591",
-    "tikName": "Лахденпохская"
+    "tikName": "Лахденпохская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 256,
     "uikTvd": "4104006101141",
+    "uikName": "УИК №256",
     "tikTvd": "2102000149591",
-    "tikName": "Лахденпохская"
+    "tikName": "Лахденпохская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 258,
     "uikTvd": "4104006101142",
+    "uikName": "УИК №258",
     "tikTvd": "2102000149591",
-    "tikName": "Лахденпохская"
+    "tikName": "Лахденпохская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 259,
     "uikTvd": "4104006101143",
+    "uikName": "УИК №259",
     "tikTvd": "2102000149591",
-    "tikName": "Лахденпохская"
+    "tikName": "Лахденпохская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 260,
     "uikTvd": "4104006101144",
+    "uikName": "УИК №260",
     "tikTvd": "2102000149591",
-    "tikName": "Лахденпохская"
+    "tikName": "Лахденпохская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 261,
     "uikTvd": "4104006101145",
+    "uikName": "УИК №261",
     "tikTvd": "2102000149591",
-    "tikName": "Лахденпохская"
+    "tikName": "Лахденпохская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 262,
     "uikTvd": "4104006101146",
+    "uikName": "УИК №262",
     "tikTvd": "2102000149591",
-    "tikName": "Лахденпохская"
+    "tikName": "Лахденпохская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 263,
     "uikTvd": "4104006101147",
+    "uikName": "УИК №263",
     "tikTvd": "2102000149591",
-    "tikName": "Лахденпохская"
+    "tikName": "Лахденпохская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 264,
     "uikTvd": "4104006101148",
+    "uikName": "УИК №264",
     "tikTvd": "2102000149591",
-    "tikName": "Лахденпохская"
+    "tikName": "Лахденпохская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 266,
     "uikTvd": "4104006101149",
+    "uikName": "УИК №266",
     "tikTvd": "2102000149591",
-    "tikName": "Лахденпохская"
+    "tikName": "Лахденпохская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 267,
     "uikTvd": "4104006101150",
+    "uikName": "УИК №267",
     "tikTvd": "2102000149591",
-    "tikName": "Лахденпохская"
+    "tikName": "Лахденпохская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 268,
     "uikTvd": "410400793585",
+    "uikName": "УИК №268",
     "tikTvd": "2102000149590",
-    "tikName": "Лоухская"
+    "tikName": "Лоухская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 269,
     "uikTvd": "410400793586",
+    "uikName": "УИК №269",
     "tikTvd": "2102000149590",
-    "tikName": "Лоухская"
+    "tikName": "Лоухская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 270,
     "uikTvd": "410400793587",
+    "uikName": "УИК №270",
     "tikTvd": "2102000149590",
-    "tikName": "Лоухская"
+    "tikName": "Лоухская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 271,
     "uikTvd": "410400793588",
+    "uikName": "УИК №271",
     "tikTvd": "2102000149590",
-    "tikName": "Лоухская"
+    "tikName": "Лоухская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 273,
     "uikTvd": "410400793590",
+    "uikName": "УИК №273",
     "tikTvd": "2102000149590",
-    "tikName": "Лоухская"
+    "tikName": "Лоухская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 274,
     "uikTvd": "410400793591",
+    "uikName": "УИК №274",
     "tikTvd": "2102000149590",
-    "tikName": "Лоухская"
+    "tikName": "Лоухская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 275,
     "uikTvd": "410400793592",
+    "uikName": "УИК №275",
     "tikTvd": "2102000149590",
-    "tikName": "Лоухская"
+    "tikName": "Лоухская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 276,
     "uikTvd": "410400793593",
+    "uikName": "УИК №276",
     "tikTvd": "2102000149590",
-    "tikName": "Лоухская"
+    "tikName": "Лоухская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 277,
     "uikTvd": "410400793594",
+    "uikName": "УИК №277",
     "tikTvd": "2102000149590",
-    "tikName": "Лоухская"
+    "tikName": "Лоухская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 278,
     "uikTvd": "410400793595",
+    "uikName": "УИК №278",
     "tikTvd": "2102000149590",
-    "tikName": "Лоухская"
+    "tikName": "Лоухская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 279,
     "uikTvd": "410400793596",
+    "uikName": "УИК №279",
     "tikTvd": "2102000149590",
-    "tikName": "Лоухская"
+    "tikName": "Лоухская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 280,
     "uikTvd": "410400793597",
+    "uikName": "УИК №280",
     "tikTvd": "2102000149590",
-    "tikName": "Лоухская"
+    "tikName": "Лоухская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 281,
     "uikTvd": "410400793598",
+    "uikName": "УИК №281",
     "tikTvd": "2102000149590",
-    "tikName": "Лоухская"
+    "tikName": "Лоухская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 282,
     "uikTvd": "410400793599",
+    "uikName": "УИК №282",
     "tikTvd": "2102000149590",
-    "tikName": "Лоухская"
+    "tikName": "Лоухская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 283,
     "uikTvd": "410400793600",
+    "uikName": "УИК №283",
     "tikTvd": "2102000149590",
-    "tikName": "Лоухская"
+    "tikName": "Лоухская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 284,
     "uikTvd": "410400793601",
+    "uikName": "УИК №284",
     "tikTvd": "2102000149590",
-    "tikName": "Лоухская"
+    "tikName": "Лоухская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 285,
     "uikTvd": "410400793602",
+    "uikName": "УИК №285",
     "tikTvd": "2102000149590",
-    "tikName": "Лоухская"
+    "tikName": "Лоухская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 292,
     "uikTvd": "4104008102370",
+    "uikName": "УИК №292",
     "tikTvd": "2102000149588",
-    "tikName": "Медвежьегорская"
+    "tikName": "Медвежьегорская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 293,
     "uikTvd": "4104008102371",
+    "uikName": "УИК №293",
     "tikTvd": "2102000149588",
-    "tikName": "Медвежьегорская"
+    "tikName": "Медвежьегорская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 294,
     "uikTvd": "4104008102372",
+    "uikName": "УИК №294",
     "tikTvd": "2102000149588",
-    "tikName": "Медвежьегорская"
+    "tikName": "Медвежьегорская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 295,
     "uikTvd": "4104008102373",
+    "uikName": "УИК №295",
     "tikTvd": "2102000149588",
-    "tikName": "Медвежьегорская"
+    "tikName": "Медвежьегорская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 296,
     "uikTvd": "4104008102374",
+    "uikName": "УИК №296",
     "tikTvd": "2102000149588",
-    "tikName": "Медвежьегорская"
+    "tikName": "Медвежьегорская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 297,
     "uikTvd": "4104008102375",
+    "uikName": "УИК №297",
     "tikTvd": "2102000149588",
-    "tikName": "Медвежьегорская"
+    "tikName": "Медвежьегорская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 298,
     "uikTvd": "4104008102376",
+    "uikName": "УИК №298",
     "tikTvd": "2102000149588",
-    "tikName": "Медвежьегорская"
+    "tikName": "Медвежьегорская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 299,
     "uikTvd": "4104008102377",
+    "uikName": "УИК №299",
     "tikTvd": "2102000149588",
-    "tikName": "Медвежьегорская"
+    "tikName": "Медвежьегорская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 300,
     "uikTvd": "4104008102378",
+    "uikName": "УИК №300",
     "tikTvd": "2102000149588",
-    "tikName": "Медвежьегорская"
+    "tikName": "Медвежьегорская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 301,
     "uikTvd": "4104008102379",
+    "uikName": "УИК №301",
     "tikTvd": "2102000149588",
-    "tikName": "Медвежьегорская"
+    "tikName": "Медвежьегорская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 302,
     "uikTvd": "4104008102380",
+    "uikName": "УИК №302",
     "tikTvd": "2102000149588",
-    "tikName": "Медвежьегорская"
+    "tikName": "Медвежьегорская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 303,
     "uikTvd": "4104008102381",
+    "uikName": "УИК №303",
     "tikTvd": "2102000149588",
-    "tikName": "Медвежьегорская"
+    "tikName": "Медвежьегорская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 304,
     "uikTvd": "4104008102382",
+    "uikName": "УИК №304",
     "tikTvd": "2102000149588",
-    "tikName": "Медвежьегорская"
+    "tikName": "Медвежьегорская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 305,
     "uikTvd": "4104008102383",
+    "uikName": "УИК №305",
     "tikTvd": "2102000149588",
-    "tikName": "Медвежьегорская"
+    "tikName": "Медвежьегорская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 306,
     "uikTvd": "4104008102384",
+    "uikName": "УИК №306",
     "tikTvd": "2102000149588",
-    "tikName": "Медвежьегорская"
+    "tikName": "Медвежьегорская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 307,
     "uikTvd": "4104008102385",
+    "uikName": "УИК №307",
     "tikTvd": "2102000149588",
-    "tikName": "Медвежьегорская"
+    "tikName": "Медвежьегорская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 308,
     "uikTvd": "4104008102386",
+    "uikName": "УИК №308",
     "tikTvd": "2102000149588",
-    "tikName": "Медвежьегорская"
+    "tikName": "Медвежьегорская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 309,
     "uikTvd": "4104008102387",
+    "uikName": "УИК №309",
     "tikTvd": "2102000149588",
-    "tikName": "Медвежьегорская"
+    "tikName": "Медвежьегорская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 310,
     "uikTvd": "4104008102388",
+    "uikName": "УИК №310",
     "tikTvd": "2102000149588",
-    "tikName": "Медвежьегорская"
+    "tikName": "Медвежьегорская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 311,
     "uikTvd": "4104008102389",
+    "uikName": "УИК №311",
     "tikTvd": "2102000149588",
-    "tikName": "Медвежьегорская"
+    "tikName": "Медвежьегорская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 312,
     "uikTvd": "4104008102390",
+    "uikName": "УИК №312",
     "tikTvd": "2102000149588",
-    "tikName": "Медвежьегорская"
+    "tikName": "Медвежьегорская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 313,
     "uikTvd": "4104008102391",
+    "uikName": "УИК №313",
     "tikTvd": "2102000149588",
-    "tikName": "Медвежьегорская"
+    "tikName": "Медвежьегорская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 314,
     "uikTvd": "4104008102392",
+    "uikName": "УИК №314",
     "tikTvd": "2102000149588",
-    "tikName": "Медвежьегорская"
+    "tikName": "Медвежьегорская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 315,
     "uikTvd": "4104008102393",
+    "uikName": "УИК №315",
     "tikTvd": "2102000149588",
-    "tikName": "Медвежьегорская"
+    "tikName": "Медвежьегорская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 316,
     "uikTvd": "4104008102394",
+    "uikName": "УИК №316",
     "tikTvd": "2102000149588",
-    "tikName": "Медвежьегорская"
+    "tikName": "Медвежьегорская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 317,
     "uikTvd": "4104008102395",
+    "uikName": "УИК №317",
     "tikTvd": "2102000149588",
-    "tikName": "Медвежьегорская"
+    "tikName": "Медвежьегорская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 318,
     "uikTvd": "4104008102396",
+    "uikName": "УИК №318",
     "tikTvd": "2102000149588",
-    "tikName": "Медвежьегорская"
+    "tikName": "Медвежьегорская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 319,
     "uikTvd": "4104008102397",
+    "uikName": "УИК №319",
     "tikTvd": "2102000149588",
-    "tikName": "Медвежьегорская"
+    "tikName": "Медвежьегорская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 320,
     "uikTvd": "410400584641",
+    "uikName": "УИК №320",
     "tikTvd": "2102000149592",
-    "tikName": "Костомукшская городская"
+    "tikName": "Костомукшская городская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 321,
     "uikTvd": "4104008102398",
+    "uikName": "УИК №321",
     "tikTvd": "2102000149588",
-    "tikName": "Медвежьегорская"
+    "tikName": "Медвежьегорская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 322,
     "uikTvd": "4104008102399",
+    "uikName": "УИК №322",
     "tikTvd": "2102000149588",
-    "tikName": "Медвежьегорская"
+    "tikName": "Медвежьегорская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 323,
     "uikTvd": "4104008102400",
+    "uikName": "УИК №323",
     "tikTvd": "2102000149588",
-    "tikName": "Медвежьегорская"
+    "tikName": "Медвежьегорская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 324,
     "uikTvd": "4104008102401",
+    "uikName": "УИК №324",
     "tikTvd": "2102000149588",
-    "tikName": "Медвежьегорская"
+    "tikName": "Медвежьегорская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 325,
     "uikTvd": "4104008102402",
+    "uikName": "УИК №325",
     "tikTvd": "2102000149588",
-    "tikName": "Медвежьегорская"
+    "tikName": "Медвежьегорская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 326,
     "uikTvd": "4104008102403",
+    "uikName": "УИК №326",
     "tikTvd": "2102000149588",
-    "tikName": "Медвежьегорская"
+    "tikName": "Медвежьегорская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 327,
     "uikTvd": "4104008102404",
+    "uikName": "УИК №327",
     "tikTvd": "2102000149588",
-    "tikName": "Медвежьегорская"
+    "tikName": "Медвежьегорская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 333,
     "uikTvd": "4104009103598",
+    "uikName": "УИК №333",
     "tikTvd": "2102000149587",
-    "tikName": "Муезерская"
+    "tikName": "Муезерская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 345,
     "uikTvd": "4104009103599",
+    "uikName": "УИК №345",
     "tikTvd": "2102000149587",
-    "tikName": "Муезерская"
+    "tikName": "Муезерская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 346,
     "uikTvd": "4104009103600",
+    "uikName": "УИК №346",
     "tikTvd": "2102000149587",
-    "tikName": "Муезерская"
+    "tikName": "Муезерская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 347,
     "uikTvd": "4104009103601",
+    "uikName": "УИК №347",
     "tikTvd": "2102000149587",
-    "tikName": "Муезерская"
+    "tikName": "Муезерская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 348,
     "uikTvd": "4104009103602",
+    "uikName": "УИК №348",
     "tikTvd": "2102000149587",
-    "tikName": "Муезерская"
+    "tikName": "Муезерская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 349,
     "uikTvd": "4104009103603",
+    "uikName": "УИК №349",
     "tikTvd": "2102000149587",
-    "tikName": "Муезерская"
+    "tikName": "Муезерская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 350,
     "uikTvd": "4104009103604",
+    "uikName": "УИК №350",
     "tikTvd": "2102000149587",
-    "tikName": "Муезерская"
+    "tikName": "Муезерская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 351,
     "uikTvd": "4104009103605",
+    "uikName": "УИК №351",
     "tikTvd": "2102000149587",
-    "tikName": "Муезерская"
+    "tikName": "Муезерская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 352,
     "uikTvd": "4104009103606",
+    "uikName": "УИК №352",
     "tikTvd": "2102000149587",
-    "tikName": "Муезерская"
+    "tikName": "Муезерская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 353,
     "uikTvd": "4104009103607",
+    "uikName": "УИК №353",
     "tikTvd": "2102000149587",
-    "tikName": "Муезерская"
+    "tikName": "Муезерская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 354,
     "uikTvd": "4104009103608",
+    "uikName": "УИК №354",
     "tikTvd": "2102000149587",
-    "tikName": "Муезерская"
+    "tikName": "Муезерская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 355,
     "uikTvd": "4104009103609",
+    "uikName": "УИК №355",
     "tikTvd": "2102000149587",
-    "tikName": "Муезерская"
+    "tikName": "Муезерская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 356,
     "uikTvd": "4104009103610",
+    "uikName": "УИК №356",
     "tikTvd": "2102000149587",
-    "tikName": "Муезерская"
+    "tikName": "Муезерская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 357,
     "uikTvd": "4104009103611",
+    "uikName": "УИК №357",
     "tikTvd": "2102000149587",
-    "tikName": "Муезерская"
+    "tikName": "Муезерская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 358,
     "uikTvd": "4104009103612",
+    "uikName": "УИК №358",
     "tikTvd": "2102000149587",
-    "tikName": "Муезерская"
+    "tikName": "Муезерская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 359,
     "uikTvd": "4104009103613",
+    "uikName": "УИК №359",
     "tikTvd": "2102000149587",
-    "tikName": "Муезерская"
+    "tikName": "Муезерская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 360,
     "uikTvd": "4104010105581",
+    "uikName": "УИК №360",
     "tikTvd": "2102000149589",
-    "tikName": "Олонецкая"
+    "tikName": "Олонецкая",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 361,
     "uikTvd": "4104010105584",
+    "uikName": "УИК №361",
     "tikTvd": "2102000149589",
-    "tikName": "Олонецкая"
+    "tikName": "Олонецкая",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 362,
     "uikTvd": "4104010105585",
+    "uikName": "УИК №362",
     "tikTvd": "2102000149589",
-    "tikName": "Олонецкая"
+    "tikName": "Олонецкая",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 363,
     "uikTvd": "4104010105586",
+    "uikName": "УИК №363",
     "tikTvd": "2102000149589",
-    "tikName": "Олонецкая"
+    "tikName": "Олонецкая",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 364,
     "uikTvd": "4104010105587",
+    "uikName": "УИК №364",
     "tikTvd": "2102000149589",
-    "tikName": "Олонецкая"
+    "tikName": "Олонецкая",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 365,
     "uikTvd": "4104010105588",
+    "uikName": "УИК №365",
     "tikTvd": "2102000149589",
-    "tikName": "Олонецкая"
+    "tikName": "Олонецкая",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 366,
     "uikTvd": "4104010105589",
+    "uikName": "УИК №366",
     "tikTvd": "2102000149589",
-    "tikName": "Олонецкая"
+    "tikName": "Олонецкая",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 367,
     "uikTvd": "4104010105590",
+    "uikName": "УИК №367",
     "tikTvd": "2102000149589",
-    "tikName": "Олонецкая"
+    "tikName": "Олонецкая",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 368,
     "uikTvd": "4104010105592",
+    "uikName": "УИК №368",
     "tikTvd": "2102000149589",
-    "tikName": "Олонецкая"
+    "tikName": "Олонецкая",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 369,
     "uikTvd": "4104010105593",
+    "uikName": "УИК №369",
     "tikTvd": "2102000149589",
-    "tikName": "Олонецкая"
+    "tikName": "Олонецкая",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 370,
     "uikTvd": "4104010105594",
+    "uikName": "УИК №370",
     "tikTvd": "2102000149589",
-    "tikName": "Олонецкая"
+    "tikName": "Олонецкая",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 371,
     "uikTvd": "4104010105595",
+    "uikName": "УИК №371",
     "tikTvd": "2102000149589",
-    "tikName": "Олонецкая"
+    "tikName": "Олонецкая",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 372,
     "uikTvd": "4104010105596",
+    "uikName": "УИК №372",
     "tikTvd": "2102000149589",
-    "tikName": "Олонецкая"
+    "tikName": "Олонецкая",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 373,
     "uikTvd": "4104010105597",
+    "uikName": "УИК №373",
     "tikTvd": "2102000149589",
-    "tikName": "Олонецкая"
+    "tikName": "Олонецкая",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 374,
     "uikTvd": "4104010105598",
+    "uikName": "УИК №374",
     "tikTvd": "2102000149589",
-    "tikName": "Олонецкая"
+    "tikName": "Олонецкая",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 375,
     "uikTvd": "4104010105599",
+    "uikName": "УИК №375",
     "tikTvd": "2102000149589",
-    "tikName": "Олонецкая"
+    "tikName": "Олонецкая",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 376,
     "uikTvd": "4104010105600",
+    "uikName": "УИК №376",
     "tikTvd": "2102000149589",
-    "tikName": "Олонецкая"
+    "tikName": "Олонецкая",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 377,
     "uikTvd": "4104010105601",
+    "uikName": "УИК №377",
     "tikTvd": "2102000149589",
-    "tikName": "Олонецкая"
+    "tikName": "Олонецкая",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 378,
     "uikTvd": "4104010105602",
+    "uikName": "УИК №378",
     "tikTvd": "2102000149589",
-    "tikName": "Олонецкая"
+    "tikName": "Олонецкая",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 379,
     "uikTvd": "4104010105603",
+    "uikName": "УИК №379",
     "tikTvd": "2102000149589",
-    "tikName": "Олонецкая"
+    "tikName": "Олонецкая",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 384,
     "uikTvd": "4104010105605",
+    "uikName": "УИК №384",
     "tikTvd": "2102000149589",
-    "tikName": "Олонецкая"
+    "tikName": "Олонецкая",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 385,
     "uikTvd": "4104010105606",
+    "uikName": "УИК №385",
     "tikTvd": "2102000149589",
-    "tikName": "Олонецкая"
+    "tikName": "Олонецкая",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 386,
     "uikTvd": "4104010105607",
+    "uikName": "УИК №386",
     "tikTvd": "2102000149589",
-    "tikName": "Олонецкая"
+    "tikName": "Олонецкая",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 387,
     "uikTvd": "4104010105608",
+    "uikName": "УИК №387",
     "tikTvd": "2102000149589",
-    "tikName": "Олонецкая"
+    "tikName": "Олонецкая",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 388,
     "uikTvd": "4104010105609",
+    "uikName": "УИК №388",
     "tikTvd": "2102000149589",
-    "tikName": "Олонецкая"
+    "tikName": "Олонецкая",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 389,
     "uikTvd": "4104010105610",
+    "uikName": "УИК №389",
     "tikTvd": "2102000149589",
-    "tikName": "Олонецкая"
+    "tikName": "Олонецкая",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 393,
     "uikTvd": "4104013112222",
+    "uikName": "УИК №393",
     "tikTvd": "2102000149584",
-    "tikName": "Прионежская"
+    "tikName": "Прионежская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 394,
     "uikTvd": "4104013112223",
+    "uikName": "УИК №394",
     "tikTvd": "2102000149584",
-    "tikName": "Прионежская"
+    "tikName": "Прионежская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 395,
     "uikTvd": "4104013112224",
+    "uikName": "УИК №395",
     "tikTvd": "2102000149584",
-    "tikName": "Прионежская"
+    "tikName": "Прионежская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 396,
     "uikTvd": "4104013112225",
+    "uikName": "УИК №396",
     "tikTvd": "2102000149584",
-    "tikName": "Прионежская"
+    "tikName": "Прионежская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 397,
     "uikTvd": "4104013112226",
+    "uikName": "УИК №397",
     "tikTvd": "2102000149584",
-    "tikName": "Прионежская"
+    "tikName": "Прионежская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 398,
     "uikTvd": "4104013112227",
+    "uikName": "УИК №398",
     "tikTvd": "2102000149584",
-    "tikName": "Прионежская"
+    "tikName": "Прионежская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 399,
     "uikTvd": "4104013112228",
+    "uikName": "УИК №399",
     "tikTvd": "2102000149584",
-    "tikName": "Прионежская"
+    "tikName": "Прионежская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 400,
     "uikTvd": "4104013112229",
+    "uikName": "УИК №400",
     "tikTvd": "2102000149584",
-    "tikName": "Прионежская"
+    "tikName": "Прионежская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 402,
     "uikTvd": "4104013112230",
+    "uikName": "УИК №402",
     "tikTvd": "2102000149584",
-    "tikName": "Прионежская"
+    "tikName": "Прионежская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 403,
     "uikTvd": "4104013112231",
+    "uikName": "УИК №403",
     "tikTvd": "2102000149584",
-    "tikName": "Прионежская"
+    "tikName": "Прионежская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 404,
     "uikTvd": "4104013112232",
+    "uikName": "УИК №404",
     "tikTvd": "2102000149584",
-    "tikName": "Прионежская"
+    "tikName": "Прионежская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 405,
     "uikTvd": "4104013112233",
+    "uikName": "УИК №405",
     "tikTvd": "2102000149584",
-    "tikName": "Прионежская"
+    "tikName": "Прионежская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 406,
     "uikTvd": "4104013112234",
+    "uikName": "УИК №406",
     "tikTvd": "2102000149584",
-    "tikName": "Прионежская"
+    "tikName": "Прионежская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 407,
     "uikTvd": "4104013112235",
+    "uikName": "УИК №407",
     "tikTvd": "2102000149584",
-    "tikName": "Прионежская"
+    "tikName": "Прионежская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 408,
     "uikTvd": "4104013112236",
+    "uikName": "УИК №408",
     "tikTvd": "2102000149584",
-    "tikName": "Прионежская"
+    "tikName": "Прионежская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 414,
     "uikTvd": "4104013112237",
+    "uikName": "УИК №414",
     "tikTvd": "2102000149584",
-    "tikName": "Прионежская"
+    "tikName": "Прионежская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 415,
     "uikTvd": "4104013112238",
+    "uikName": "УИК №415",
     "tikTvd": "2102000149584",
-    "tikName": "Прионежская"
+    "tikName": "Прионежская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 416,
     "uikTvd": "4104013112239",
+    "uikName": "УИК №416",
     "tikTvd": "2102000149584",
-    "tikName": "Прионежская"
+    "tikName": "Прионежская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 417,
     "uikTvd": "4104013112240",
+    "uikName": "УИК №417",
     "tikTvd": "2102000149584",
-    "tikName": "Прионежская"
+    "tikName": "Прионежская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 418,
     "uikTvd": "410401496968",
+    "uikName": "УИК №418",
     "tikTvd": "2102000149582",
-    "tikName": "Пряжинская"
+    "tikName": "Пряжинская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 419,
     "uikTvd": "410401496970",
+    "uikName": "УИК №419",
     "tikTvd": "2102000149582",
-    "tikName": "Пряжинская"
+    "tikName": "Пряжинская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 420,
     "uikTvd": "410401496974",
+    "uikName": "УИК №420",
     "tikTvd": "2102000149582",
-    "tikName": "Пряжинская"
+    "tikName": "Пряжинская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 421,
     "uikTvd": "410401496976",
+    "uikName": "УИК №421",
     "tikTvd": "2102000149582",
-    "tikName": "Пряжинская"
+    "tikName": "Пряжинская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 422,
     "uikTvd": "410401496978",
+    "uikName": "УИК №422",
     "tikTvd": "2102000149582",
-    "tikName": "Пряжинская"
+    "tikName": "Пряжинская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 423,
     "uikTvd": "410401496980",
+    "uikName": "УИК №423",
     "tikTvd": "2102000149582",
-    "tikName": "Пряжинская"
+    "tikName": "Пряжинская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 424,
     "uikTvd": "410401496982",
+    "uikName": "УИК №424",
     "tikTvd": "2102000149582",
-    "tikName": "Пряжинская"
+    "tikName": "Пряжинская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 425,
     "uikTvd": "410401496984",
+    "uikName": "УИК №425",
     "tikTvd": "2102000149582",
-    "tikName": "Пряжинская"
+    "tikName": "Пряжинская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 426,
     "uikTvd": "410401496986",
+    "uikName": "УИК №426",
     "tikTvd": "2102000149582",
-    "tikName": "Пряжинская"
+    "tikName": "Пряжинская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 427,
     "uikTvd": "410401496988",
+    "uikName": "УИК №427",
     "tikTvd": "2102000149582",
-    "tikName": "Пряжинская"
+    "tikName": "Пряжинская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 428,
     "uikTvd": "410401496990",
+    "uikName": "УИК №428",
     "tikTvd": "2102000149582",
-    "tikName": "Пряжинская"
+    "tikName": "Пряжинская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 429,
     "uikTvd": "410401496992",
+    "uikName": "УИК №429",
     "tikTvd": "2102000149582",
-    "tikName": "Пряжинская"
+    "tikName": "Пряжинская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 430,
     "uikTvd": "410401496994",
+    "uikName": "УИК №430",
     "tikTvd": "2102000149582",
-    "tikName": "Пряжинская"
+    "tikName": "Пряжинская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 431,
     "uikTvd": "410401496996",
+    "uikName": "УИК №431",
     "tikTvd": "2102000149582",
-    "tikName": "Пряжинская"
+    "tikName": "Пряжинская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 432,
     "uikTvd": "410401496998",
+    "uikName": "УИК №432",
     "tikTvd": "2102000149582",
-    "tikName": "Пряжинская"
+    "tikName": "Пряжинская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 433,
     "uikTvd": "410401497000",
+    "uikName": "УИК №433",
     "tikTvd": "2102000149582",
-    "tikName": "Пряжинская"
+    "tikName": "Пряжинская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 434,
     "uikTvd": "410401497002",
+    "uikName": "УИК №434",
     "tikTvd": "2102000149582",
-    "tikName": "Пряжинская"
+    "tikName": "Пряжинская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 435,
     "uikTvd": "410401497004",
+    "uikName": "УИК №435",
     "tikTvd": "2102000149582",
-    "tikName": "Пряжинская"
+    "tikName": "Пряжинская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 437,
     "uikTvd": "410401497006",
+    "uikName": "УИК №437",
     "tikTvd": "2102000149582",
-    "tikName": "Пряжинская"
+    "tikName": "Пряжинская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 438,
     "uikTvd": "410401497008",
+    "uikName": "УИК №438",
     "tikTvd": "2102000149582",
-    "tikName": "Пряжинская"
+    "tikName": "Пряжинская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 439,
     "uikTvd": "410401497010",
+    "uikName": "УИК №439",
     "tikTvd": "2102000149582",
-    "tikName": "Пряжинская"
+    "tikName": "Пряжинская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 442,
     "uikTvd": "410401597911",
+    "uikName": "УИК №442",
     "tikTvd": "2102000149581",
-    "tikName": "Пудожская"
+    "tikName": "Пудожская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 443,
     "uikTvd": "410401597912",
+    "uikName": "УИК №443",
     "tikTvd": "2102000149581",
-    "tikName": "Пудожская"
+    "tikName": "Пудожская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 444,
     "uikTvd": "410401597913",
+    "uikName": "УИК №444",
     "tikTvd": "2102000149581",
-    "tikName": "Пудожская"
+    "tikName": "Пудожская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 445,
     "uikTvd": "410401597914",
+    "uikName": "УИК №445",
     "tikTvd": "2102000149581",
-    "tikName": "Пудожская"
+    "tikName": "Пудожская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 446,
     "uikTvd": "410401597915",
+    "uikName": "УИК №446",
     "tikTvd": "2102000149581",
-    "tikName": "Пудожская"
+    "tikName": "Пудожская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 447,
     "uikTvd": "410401597916",
+    "uikName": "УИК №447",
     "tikTvd": "2102000149581",
-    "tikName": "Пудожская"
+    "tikName": "Пудожская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 448,
     "uikTvd": "410401597917",
+    "uikName": "УИК №448",
     "tikTvd": "2102000149581",
-    "tikName": "Пудожская"
+    "tikName": "Пудожская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 449,
     "uikTvd": "410401597918",
+    "uikName": "УИК №449",
     "tikTvd": "2102000149581",
-    "tikName": "Пудожская"
+    "tikName": "Пудожская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 450,
     "uikTvd": "410401597919",
+    "uikName": "УИК №450",
     "tikTvd": "2102000149581",
-    "tikName": "Пудожская"
+    "tikName": "Пудожская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 451,
     "uikTvd": "410401597920",
+    "uikName": "УИК №451",
     "tikTvd": "2102000149581",
-    "tikName": "Пудожская"
+    "tikName": "Пудожская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 452,
     "uikTvd": "410401597921",
+    "uikName": "УИК №452",
     "tikTvd": "2102000149581",
-    "tikName": "Пудожская"
+    "tikName": "Пудожская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 453,
     "uikTvd": "410401597922",
+    "uikName": "УИК №453",
     "tikTvd": "2102000149581",
-    "tikName": "Пудожская"
+    "tikName": "Пудожская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 454,
     "uikTvd": "410401597923",
+    "uikName": "УИК №454",
     "tikTvd": "2102000149581",
-    "tikName": "Пудожская"
+    "tikName": "Пудожская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 455,
     "uikTvd": "410401597924",
+    "uikName": "УИК №455",
     "tikTvd": "2102000149581",
-    "tikName": "Пудожская"
+    "tikName": "Пудожская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 456,
     "uikTvd": "410401597925",
+    "uikName": "УИК №456",
     "tikTvd": "2102000149581",
-    "tikName": "Пудожская"
+    "tikName": "Пудожская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 457,
     "uikTvd": "410401597926",
+    "uikName": "УИК №457",
     "tikTvd": "2102000149581",
-    "tikName": "Пудожская"
+    "tikName": "Пудожская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 458,
     "uikTvd": "410401597927",
+    "uikName": "УИК №458",
     "tikTvd": "2102000149581",
-    "tikName": "Пудожская"
+    "tikName": "Пудожская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 459,
     "uikTvd": "410401597928",
+    "uikName": "УИК №459",
     "tikTvd": "2102000149581",
-    "tikName": "Пудожская"
+    "tikName": "Пудожская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 460,
     "uikTvd": "410401597929",
+    "uikName": "УИК №460",
     "tikTvd": "2102000149581",
-    "tikName": "Пудожская"
+    "tikName": "Пудожская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 461,
     "uikTvd": "410401597930",
+    "uikName": "УИК №461",
     "tikTvd": "2102000149581",
-    "tikName": "Пудожская"
+    "tikName": "Пудожская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 463,
     "uikTvd": "410401597931",
+    "uikName": "УИК №463",
     "tikTvd": "2102000149581",
-    "tikName": "Пудожская"
+    "tikName": "Пудожская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 464,
     "uikTvd": "410401597932",
+    "uikName": "УИК №464",
     "tikTvd": "2102000149581",
-    "tikName": "Пудожская"
+    "tikName": "Пудожская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 465,
     "uikTvd": "410401597933",
+    "uikName": "УИК №465",
     "tikTvd": "2102000149581",
-    "tikName": "Пудожская"
+    "tikName": "Пудожская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 466,
     "uikTvd": "410401597934",
+    "uikName": "УИК №466",
     "tikTvd": "2102000149581",
-    "tikName": "Пудожская"
+    "tikName": "Пудожская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 467,
     "uikTvd": "410401597935",
+    "uikName": "УИК №467",
     "tikTvd": "2102000149581",
-    "tikName": "Пудожская"
+    "tikName": "Пудожская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 468,
     "uikTvd": "410401597936",
+    "uikName": "УИК №468",
     "tikTvd": "2102000149581",
-    "tikName": "Пудожская"
+    "tikName": "Пудожская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 469,
     "uikTvd": "410401597937",
+    "uikName": "УИК №469",
     "tikTvd": "2102000149581",
-    "tikName": "Пудожская"
+    "tikName": "Пудожская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 471,
     "uikTvd": "410401597938",
+    "uikName": "УИК №471",
     "tikTvd": "2102000149581",
-    "tikName": "Пудожская"
+    "tikName": "Пудожская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 472,
     "uikTvd": "410401597939",
+    "uikName": "УИК №472",
     "tikTvd": "2102000149581",
-    "tikName": "Пудожская"
+    "tikName": "Пудожская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 473,
     "uikTvd": "410401597940",
+    "uikName": "УИК №473",
     "tikTvd": "2102000149581",
-    "tikName": "Пудожская"
+    "tikName": "Пудожская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 475,
     "uikTvd": "4104016104688",
+    "uikName": "УИК №475",
     "tikTvd": "2102000149583",
-    "tikName": "Сегежская"
+    "tikName": "Сегежская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 476,
     "uikTvd": "4104016104689",
+    "uikName": "УИК №476",
     "tikTvd": "2102000149583",
-    "tikName": "Сегежская"
+    "tikName": "Сегежская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 477,
     "uikTvd": "4104016104690",
+    "uikName": "УИК №477",
     "tikTvd": "2102000149583",
-    "tikName": "Сегежская"
+    "tikName": "Сегежская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 478,
     "uikTvd": "4104016104691",
+    "uikName": "УИК №478",
     "tikTvd": "2102000149583",
-    "tikName": "Сегежская"
+    "tikName": "Сегежская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 479,
     "uikTvd": "4104016104692",
+    "uikName": "УИК №479",
     "tikTvd": "2102000149583",
-    "tikName": "Сегежская"
+    "tikName": "Сегежская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 480,
     "uikTvd": "4104016104693",
+    "uikName": "УИК №480",
     "tikTvd": "2102000149583",
-    "tikName": "Сегежская"
+    "tikName": "Сегежская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 481,
     "uikTvd": "4104016104694",
+    "uikName": "УИК №481",
     "tikTvd": "2102000149583",
-    "tikName": "Сегежская"
+    "tikName": "Сегежская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 482,
     "uikTvd": "4104016104695",
+    "uikName": "УИК №482",
     "tikTvd": "2102000149583",
-    "tikName": "Сегежская"
+    "tikName": "Сегежская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 483,
     "uikTvd": "4104016104696",
+    "uikName": "УИК №483",
     "tikTvd": "2102000149583",
-    "tikName": "Сегежская"
+    "tikName": "Сегежская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 484,
     "uikTvd": "4104016104697",
+    "uikName": "УИК №484",
     "tikTvd": "2102000149583",
-    "tikName": "Сегежская"
+    "tikName": "Сегежская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 485,
     "uikTvd": "4104016104698",
+    "uikName": "УИК №485",
     "tikTvd": "2102000149583",
-    "tikName": "Сегежская"
+    "tikName": "Сегежская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 486,
     "uikTvd": "4104016104699",
+    "uikName": "УИК №486",
     "tikTvd": "2102000149583",
-    "tikName": "Сегежская"
+    "tikName": "Сегежская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 487,
     "uikTvd": "4104016104700",
+    "uikName": "УИК №487",
     "tikTvd": "2102000149583",
-    "tikName": "Сегежская"
+    "tikName": "Сегежская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 488,
     "uikTvd": "4104016104701",
+    "uikName": "УИК №488",
     "tikTvd": "2102000149583",
-    "tikName": "Сегежская"
+    "tikName": "Сегежская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 489,
     "uikTvd": "4104016104702",
+    "uikName": "УИК №489",
     "tikTvd": "2102000149583",
-    "tikName": "Сегежская"
+    "tikName": "Сегежская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 490,
     "uikTvd": "4104016104703",
+    "uikName": "УИК №490",
     "tikTvd": "2102000149583",
-    "tikName": "Сегежская"
+    "tikName": "Сегежская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 491,
     "uikTvd": "4104016104704",
+    "uikName": "УИК №491",
     "tikTvd": "2102000149583",
-    "tikName": "Сегежская"
+    "tikName": "Сегежская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 492,
     "uikTvd": "4104016104705",
+    "uikName": "УИК №492",
     "tikTvd": "2102000149583",
-    "tikName": "Сегежская"
+    "tikName": "Сегежская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 493,
     "uikTvd": "4104016104706",
+    "uikName": "УИК №493",
     "tikTvd": "2102000149583",
-    "tikName": "Сегежская"
+    "tikName": "Сегежская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 494,
     "uikTvd": "4104016104707",
+    "uikName": "УИК №494",
     "tikTvd": "2102000149583",
-    "tikName": "Сегежская"
+    "tikName": "Сегежская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 495,
     "uikTvd": "4104016104708",
+    "uikName": "УИК №495",
     "tikTvd": "2102000149583",
-    "tikName": "Сегежская"
+    "tikName": "Сегежская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 496,
     "uikTvd": "4104016104709",
+    "uikName": "УИК №496",
     "tikTvd": "2102000149583",
-    "tikName": "Сегежская"
+    "tikName": "Сегежская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 497,
     "uikTvd": "4104016104710",
+    "uikName": "УИК №497",
     "tikTvd": "2102000149583",
-    "tikName": "Сегежская"
+    "tikName": "Сегежская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 498,
     "uikTvd": "4104016104711",
+    "uikName": "УИК №498",
     "tikTvd": "2102000149583",
-    "tikName": "Сегежская"
+    "tikName": "Сегежская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 499,
     "uikTvd": "4104016104712",
+    "uikName": "УИК №499",
     "tikTvd": "2102000149583",
-    "tikName": "Сегежская"
+    "tikName": "Сегежская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 500,
     "uikTvd": "4104016104713",
+    "uikName": "УИК №500",
     "tikTvd": "2102000149583",
-    "tikName": "Сегежская"
+    "tikName": "Сегежская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 501,
     "uikTvd": "4104016104714",
+    "uikName": "УИК №501",
     "tikTvd": "2102000149583",
-    "tikName": "Сегежская"
+    "tikName": "Сегежская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 502,
     "uikTvd": "4104016104715",
+    "uikName": "УИК №502",
     "tikTvd": "2102000149583",
-    "tikName": "Сегежская"
+    "tikName": "Сегежская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 503,
     "uikTvd": "4104016104716",
+    "uikName": "УИК №503",
     "tikTvd": "2102000149583",
-    "tikName": "Сегежская"
+    "tikName": "Сегежская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 504,
     "uikTvd": "4104016104717",
+    "uikName": "УИК №504",
     "tikTvd": "2102000149583",
-    "tikName": "Сегежская"
+    "tikName": "Сегежская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 505,
     "uikTvd": "4104016104718",
+    "uikName": "УИК №505",
     "tikTvd": "2102000149583",
-    "tikName": "Сегежская"
+    "tikName": "Сегежская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 506,
     "uikTvd": "4104016104719",
+    "uikName": "УИК №506",
     "tikTvd": "2102000149583",
-    "tikName": "Сегежская"
+    "tikName": "Сегежская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 507,
     "uikTvd": "4104016104720",
+    "uikName": "УИК №507",
     "tikTvd": "2102000149583",
-    "tikName": "Сегежская"
+    "tikName": "Сегежская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 508,
     "uikTvd": "4104016104721",
+    "uikName": "УИК №508",
     "tikTvd": "2102000149583",
-    "tikName": "Сегежская"
+    "tikName": "Сегежская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 509,
     "uikTvd": "4104016104722",
+    "uikName": "УИК №509",
     "tikTvd": "2102000149583",
-    "tikName": "Сегежская"
+    "tikName": "Сегежская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 510,
     "uikTvd": "4104016104723",
+    "uikName": "УИК №510",
     "tikTvd": "2102000149583",
-    "tikName": "Сегежская"
+    "tikName": "Сегежская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 511,
     "uikTvd": "4104016104724",
+    "uikName": "УИК №511",
     "tikTvd": "2102000149583",
-    "tikName": "Сегежская"
+    "tikName": "Сегежская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 512,
     "uikTvd": "4104016104725",
+    "uikName": "УИК №512",
     "tikTvd": "2102000149583",
-    "tikName": "Сегежская"
+    "tikName": "Сегежская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 519,
     "uikTvd": "410401893689",
+    "uikName": "УИК №519",
     "tikTvd": "2102000149579",
-    "tikName": "Суоярвская"
+    "tikName": "Суоярвская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 520,
     "uikTvd": "410401893690",
+    "uikName": "УИК №520",
     "tikTvd": "2102000149579",
-    "tikName": "Суоярвская"
+    "tikName": "Суоярвская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 521,
     "uikTvd": "410401893691",
+    "uikName": "УИК №521",
     "tikTvd": "2102000149579",
-    "tikName": "Суоярвская"
+    "tikName": "Суоярвская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 523,
     "uikTvd": "410401893692",
+    "uikName": "УИК №523",
     "tikTvd": "2102000149579",
-    "tikName": "Суоярвская"
+    "tikName": "Суоярвская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 526,
     "uikTvd": "410401893693",
+    "uikName": "УИК №526",
     "tikTvd": "2102000149579",
-    "tikName": "Суоярвская"
+    "tikName": "Суоярвская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 528,
     "uikTvd": "410401893694",
+    "uikName": "УИК №528",
     "tikTvd": "2102000149579",
-    "tikName": "Суоярвская"
+    "tikName": "Суоярвская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 529,
     "uikTvd": "410401893695",
+    "uikName": "УИК №529",
     "tikTvd": "2102000149579",
-    "tikName": "Суоярвская"
+    "tikName": "Суоярвская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 530,
     "uikTvd": "410401893696",
+    "uikName": "УИК №530",
     "tikTvd": "2102000149579",
-    "tikName": "Суоярвская"
+    "tikName": "Суоярвская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 531,
     "uikTvd": "410401893697",
+    "uikName": "УИК №531",
     "tikTvd": "2102000149579",
-    "tikName": "Суоярвская"
+    "tikName": "Суоярвская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 532,
     "uikTvd": "410401893698",
+    "uikName": "УИК №532",
     "tikTvd": "2102000149579",
-    "tikName": "Суоярвская"
+    "tikName": "Суоярвская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 535,
     "uikTvd": "410401893699",
+    "uikName": "УИК №535",
     "tikTvd": "2102000149579",
-    "tikName": "Суоярвская"
+    "tikName": "Суоярвская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 536,
     "uikTvd": "410401893700",
+    "uikName": "УИК №536",
     "tikTvd": "2102000149579",
-    "tikName": "Суоярвская"
+    "tikName": "Суоярвская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 537,
     "uikTvd": "410401893701",
+    "uikName": "УИК №537",
     "tikTvd": "2102000149579",
-    "tikName": "Суоярвская"
+    "tikName": "Суоярвская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 538,
     "uikTvd": "410401893702",
+    "uikName": "УИК №538",
     "tikTvd": "2102000149579",
-    "tikName": "Суоярвская"
+    "tikName": "Суоярвская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 539,
     "uikTvd": "410401893703",
+    "uikName": "УИК №539",
     "tikTvd": "2102000149579",
-    "tikName": "Суоярвская"
+    "tikName": "Суоярвская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 540,
     "uikTvd": "410401893704",
+    "uikName": "УИК №540",
     "tikTvd": "2102000149579",
-    "tikName": "Суоярвская"
+    "tikName": "Суоярвская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 541,
     "uikTvd": "410401893705",
+    "uikName": "УИК №541",
     "tikTvd": "2102000149579",
-    "tikName": "Суоярвская"
+    "tikName": "Суоярвская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 542,
     "uikTvd": "410401893706",
+    "uikName": "УИК №542",
     "tikTvd": "2102000149579",
-    "tikName": "Суоярвская"
+    "tikName": "Суоярвская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 543,
     "uikTvd": "410401893707",
+    "uikName": "УИК №543",
     "tikTvd": "2102000149579",
-    "tikName": "Суоярвская"
+    "tikName": "Суоярвская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 545,
     "uikTvd": "410401893708",
+    "uikName": "УИК №545",
     "tikTvd": "2102000149579",
-    "tikName": "Суоярвская"
+    "tikName": "Суоярвская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 547,
     "uikTvd": "4104017100947",
+    "uikName": "УИК №547",
     "tikTvd": "2102000149580",
-    "tikName": "Сортавальская городская"
+    "tikName": "Сортавальская городская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 555,
     "uikTvd": "4104017100948",
+    "uikName": "УИК №555",
     "tikTvd": "2102000149580",
-    "tikName": "Сортавальская городская"
+    "tikName": "Сортавальская городская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 565,
     "uikTvd": "410400584644",
+    "uikName": "УИК №565",
     "tikTvd": "2102000149592",
-    "tikName": "Костомукшская городская"
+    "tikName": "Костомукшская городская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 566,
     "uikTvd": "410400584646",
+    "uikName": "УИК №566",
     "tikTvd": "2102000149592",
-    "tikName": "Костомукшская городская"
+    "tikName": "Костомукшская городская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 567,
     "uikTvd": "410400584648",
+    "uikName": "УИК №567",
     "tikTvd": "2102000149592",
-    "tikName": "Костомукшская городская"
+    "tikName": "Костомукшская городская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 568,
     "uikTvd": "410400584650",
+    "uikName": "УИК №568",
     "tikTvd": "2102000149592",
-    "tikName": "Костомукшская городская"
+    "tikName": "Костомукшская городская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 569,
     "uikTvd": "410400584652",
+    "uikName": "УИК №569",
     "tikTvd": "2102000149592",
-    "tikName": "Костомукшская городская"
+    "tikName": "Костомукшская городская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 570,
     "uikTvd": "410400584654",
+    "uikName": "УИК №570",
     "tikTvd": "2102000149592",
-    "tikName": "Костомукшская городская"
+    "tikName": "Костомукшская городская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 571,
     "uikTvd": "410400584656",
+    "uikName": "УИК №571",
     "tikTvd": "2102000149592",
-    "tikName": "Костомукшская городская"
+    "tikName": "Костомукшская городская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 572,
     "uikTvd": "410400584658",
+    "uikName": "УИК №572",
     "tikTvd": "2102000149592",
-    "tikName": "Костомукшская городская"
+    "tikName": "Костомукшская городская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 573,
     "uikTvd": "410400584660",
+    "uikName": "УИК №573",
     "tikTvd": "2102000149592",
-    "tikName": "Костомукшская городская"
+    "tikName": "Костомукшская городская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 574,
     "uikTvd": "410400584662",
+    "uikName": "УИК №574",
     "tikTvd": "2102000149592",
-    "tikName": "Костомукшская городская"
+    "tikName": "Костомукшская городская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 575,
     "uikTvd": "410400584664",
+    "uikName": "УИК №575",
     "tikTvd": "2102000149592",
-    "tikName": "Костомукшская городская"
+    "tikName": "Костомукшская городская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 576,
     "uikTvd": "4104004105312",
+    "uikName": "УИК №576",
     "tikTvd": "2102000149595",
-    "tikName": "Кондопожская"
+    "tikName": "Кондопожская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 577,
     "uikTvd": "4104004105313",
+    "uikName": "УИК №577",
     "tikTvd": "2102000149595",
-    "tikName": "Кондопожская"
+    "tikName": "Кондопожская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 578,
     "uikTvd": "4104004105314",
+    "uikName": "УИК №578",
     "tikTvd": "2102000149595",
-    "tikName": "Кондопожская"
+    "tikName": "Кондопожская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 579,
     "uikTvd": "4104004105315",
+    "uikName": "УИК №579",
     "tikTvd": "2102000149595",
-    "tikName": "Кондопожская"
+    "tikName": "Кондопожская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 580,
     "uikTvd": "4104004105316",
+    "uikName": "УИК №580",
     "tikTvd": "2102000149595",
-    "tikName": "Кондопожская"
+    "tikName": "Кондопожская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 581,
     "uikTvd": "4104004105317",
+    "uikName": "УИК №581",
     "tikTvd": "2102000149595",
-    "tikName": "Кондопожская"
+    "tikName": "Кондопожская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 582,
     "uikTvd": "4104004105318",
+    "uikName": "УИК №582",
     "tikTvd": "2102000149595",
-    "tikName": "Кондопожская"
+    "tikName": "Кондопожская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 583,
     "uikTvd": "4104004105319",
+    "uikName": "УИК №583",
     "tikTvd": "2102000149595",
-    "tikName": "Кондопожская"
+    "tikName": "Кондопожская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 584,
     "uikTvd": "4104004105320",
+    "uikName": "УИК №584",
     "tikTvd": "2102000149595",
-    "tikName": "Кондопожская"
+    "tikName": "Кондопожская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 585,
     "uikTvd": "4104004105321",
+    "uikName": "УИК №585",
     "tikTvd": "2102000149595",
-    "tikName": "Кондопожская"
+    "tikName": "Кондопожская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 586,
     "uikTvd": "4104004105322",
+    "uikName": "УИК №586",
     "tikTvd": "2102000149595",
-    "tikName": "Кондопожская"
+    "tikName": "Кондопожская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 587,
     "uikTvd": "4104004105323",
+    "uikName": "УИК №587",
     "tikTvd": "2102000149595",
-    "tikName": "Кондопожская"
+    "tikName": "Кондопожская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 588,
     "uikTvd": "4104004105324",
+    "uikName": "УИК №588",
     "tikTvd": "2102000149595",
-    "tikName": "Кондопожская"
+    "tikName": "Кондопожская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 589,
     "uikTvd": "4104004105325",
+    "uikName": "УИК №589",
     "tikTvd": "2102000149595",
-    "tikName": "Кондопожская"
+    "tikName": "Кондопожская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 590,
     "uikTvd": "4104004105326",
+    "uikName": "УИК №590",
     "tikTvd": "2102000149595",
-    "tikName": "Кондопожская"
+    "tikName": "Кондопожская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 591,
     "uikTvd": "4104004105327",
+    "uikName": "УИК №591",
     "tikTvd": "2102000149595",
-    "tikName": "Кондопожская"
+    "tikName": "Кондопожская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 592,
     "uikTvd": "4104004105328",
+    "uikName": "УИК №592",
     "tikTvd": "2102000149595",
-    "tikName": "Кондопожская"
+    "tikName": "Кондопожская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 593,
     "uikTvd": "4104004105329",
+    "uikName": "УИК №593",
     "tikTvd": "2102000149595",
-    "tikName": "Кондопожская"
+    "tikName": "Кондопожская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 594,
     "uikTvd": "4104004105330",
+    "uikName": "УИК №594",
     "tikTvd": "2102000149595",
-    "tikName": "Кондопожская"
+    "tikName": "Кондопожская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 595,
     "uikTvd": "4104004105331",
+    "uikName": "УИК №595",
     "tikTvd": "2102000149595",
-    "tikName": "Кондопожская"
+    "tikName": "Кондопожская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 596,
     "uikTvd": "4104004105332",
+    "uikName": "УИК №596",
     "tikTvd": "2102000149595",
-    "tikName": "Кондопожская"
+    "tikName": "Кондопожская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 597,
     "uikTvd": "4104004105333",
+    "uikName": "УИК №597",
     "tikTvd": "2102000149595",
-    "tikName": "Кондопожская"
+    "tikName": "Кондопожская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 598,
     "uikTvd": "4104004105334",
+    "uikName": "УИК №598",
     "tikTvd": "2102000149595",
-    "tikName": "Кондопожская"
+    "tikName": "Кондопожская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 599,
     "uikTvd": "4104004105335",
+    "uikName": "УИК №599",
     "tikTvd": "2102000149595",
-    "tikName": "Кондопожская"
+    "tikName": "Кондопожская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 600,
     "uikTvd": "4104004105336",
+    "uikName": "УИК №600",
     "tikTvd": "2102000149595",
-    "tikName": "Кондопожская"
+    "tikName": "Кондопожская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 601,
     "uikTvd": "4104004105337",
+    "uikName": "УИК №601",
     "tikTvd": "2102000149595",
-    "tikName": "Кондопожская"
+    "tikName": "Кондопожская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 602,
     "uikTvd": "4104004105338",
+    "uikName": "УИК №602",
     "tikTvd": "2102000149595",
-    "tikName": "Кондопожская"
+    "tikName": "Кондопожская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 603,
     "uikTvd": "4104004105339",
+    "uikName": "УИК №603",
     "tikTvd": "2102000149595",
-    "tikName": "Кондопожская"
+    "tikName": "Кондопожская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 604,
     "uikTvd": "4104004105340",
+    "uikName": "УИК №604",
     "tikTvd": "2102000149595",
-    "tikName": "Кондопожская"
+    "tikName": "Кондопожская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 605,
     "uikTvd": "4104004105341",
+    "uikName": "УИК №605",
     "tikTvd": "2102000149595",
-    "tikName": "Кондопожская"
+    "tikName": "Кондопожская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 606,
     "uikTvd": "4104004105343",
+    "uikName": "УИК №606",
     "tikTvd": "2102000149595",
-    "tikName": "Кондопожская"
+    "tikName": "Кондопожская",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 701,
     "uikTvd": "4104019107507",
+    "uikName": "УИК №701",
     "tikTvd": "2102000149598",
-    "tikName": "Петрозаводская городская №3 (судовая)"
+    "tikName": "Петрозаводская городская №3 (судовая)",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 702,
     "uikTvd": "4104019107508",
+    "uikName": "УИК №702",
     "tikTvd": "2102000149598",
-    "tikName": "Петрозаводская городская №3 (судовая)"
+    "tikName": "Петрозаводская городская №3 (судовая)",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 703,
     "uikTvd": "4104019107509",
+    "uikName": "УИК №703",
     "tikTvd": "2102000149598",
-    "tikName": "Петрозаводская городская №3 (судовая)"
+    "tikName": "Петрозаводская городская №3 (судовая)",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 704,
     "uikTvd": "4104019107510",
+    "uikName": "УИК №704",
     "tikTvd": "2102000149598",
-    "tikName": "Петрозаводская городская №3 (судовая)"
+    "tikName": "Петрозаводская городская №3 (судовая)",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 705,
     "uikTvd": "4104019107511",
+    "uikName": "УИК №705",
     "tikTvd": "2102000149598",
-    "tikName": "Петрозаводская городская №3 (судовая)"
+    "tikName": "Петрозаводская городская №3 (судовая)",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 706,
     "uikTvd": "4104019107512",
+    "uikName": "УИК №706",
     "tikTvd": "2102000149598",
-    "tikName": "Петрозаводская городская №3 (судовая)"
+    "tikName": "Петрозаводская городская №3 (судовая)",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 707,
     "uikTvd": "4104019107513",
+    "uikName": "УИК №707",
     "tikTvd": "2102000149598",
-    "tikName": "Петрозаводская городская №3 (судовая)"
+    "tikName": "Петрозаводская городская №3 (судовая)",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 708,
     "uikTvd": "4104019107514",
+    "uikName": "УИК №708",
     "tikTvd": "2102000149598",
-    "tikName": "Петрозаводская городская №3 (судовая)"
+    "tikName": "Петрозаводская городская №3 (судовая)",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 709,
     "uikTvd": "4104019107515",
+    "uikName": "УИК №709",
     "tikTvd": "2102000149598",
-    "tikName": "Петрозаводская городская №3 (судовая)"
+    "tikName": "Петрозаводская городская №3 (судовая)",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 710,
     "uikTvd": "4104019107516",
+    "uikName": "УИК №710",
     "tikTvd": "2102000149598",
-    "tikName": "Петрозаводская городская №3 (судовая)"
+    "tikName": "Петрозаводская городская №3 (судовая)",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 711,
     "uikTvd": "4104019107517",
+    "uikName": "УИК №711",
     "tikTvd": "2102000149598",
-    "tikName": "Петрозаводская городская №3 (судовая)"
+    "tikName": "Петрозаводская городская №3 (судовая)",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 712,
     "uikTvd": "4104019107518",
+    "uikName": "УИК №712",
     "tikTvd": "2102000149598",
-    "tikName": "Петрозаводская городская №3 (судовая)"
+    "tikName": "Петрозаводская городская №3 (судовая)",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 713,
     "uikTvd": "4104019107519",
+    "uikName": "УИК №713",
     "tikTvd": "2102000149598",
-    "tikName": "Петрозаводская городская №3 (судовая)"
+    "tikName": "Петрозаводская городская №3 (судовая)",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 714,
     "uikTvd": "4104019107520",
+    "uikName": "УИК №714",
     "tikTvd": "2102000149598",
-    "tikName": "Петрозаводская городская №3 (судовая)"
+    "tikName": "Петрозаводская городская №3 (судовая)",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 715,
     "uikTvd": "4104019107521",
+    "uikName": "УИК №715",
     "tikTvd": "2102000149598",
-    "tikName": "Петрозаводская городская №3 (судовая)"
+    "tikName": "Петрозаводская городская №3 (судовая)",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 716,
     "uikTvd": "4104019107522",
+    "uikName": "УИК №716",
     "tikTvd": "2102000149598",
-    "tikName": "Петрозаводская городская №3 (судовая)"
+    "tikName": "Петрозаводская городская №3 (судовая)",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 717,
     "uikTvd": "4104019107523",
+    "uikName": "УИК №717",
     "tikTvd": "2102000149598",
-    "tikName": "Петрозаводская городская №3 (судовая)"
+    "tikName": "Петрозаводская городская №3 (судовая)",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 718,
     "uikTvd": "4104019107524",
+    "uikName": "УИК №718",
     "tikTvd": "2102000149598",
-    "tikName": "Петрозаводская городская №3 (судовая)"
+    "tikName": "Петрозаводская городская №3 (судовая)",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 719,
     "uikTvd": "4104019107525",
+    "uikName": "УИК №719",
     "tikTvd": "2102000149598",
-    "tikName": "Петрозаводская городская №3 (судовая)"
+    "tikName": "Петрозаводская городская №3 (судовая)",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 720,
     "uikTvd": "4104019107526",
+    "uikName": "УИК №720",
     "tikTvd": "2102000149598",
-    "tikName": "Петрозаводская городская №3 (судовая)"
+    "tikName": "Петрозаводская городская №3 (судовая)",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 721,
     "uikTvd": "4104019107527",
+    "uikName": "УИК №721",
     "tikTvd": "2102000149598",
-    "tikName": "Петрозаводская городская №3 (судовая)"
+    "tikName": "Петрозаводская городская №3 (судовая)",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 722,
     "uikTvd": "4104019107528",
+    "uikName": "УИК №722",
     "tikTvd": "2102000149598",
-    "tikName": "Петрозаводская городская №3 (судовая)"
+    "tikName": "Петрозаводская городская №3 (судовая)",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 723,
     "uikTvd": "4104019107529",
+    "uikName": "УИК №723",
     "tikTvd": "2102000149598",
-    "tikName": "Петрозаводская городская №3 (судовая)"
+    "tikName": "Петрозаводская городская №3 (судовая)",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 724,
     "uikTvd": "4104019107530",
+    "uikName": "УИК №724",
     "tikTvd": "2102000149598",
-    "tikName": "Петрозаводская городская №3 (судовая)"
+    "tikName": "Петрозаводская городская №3 (судовая)",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 725,
     "uikTvd": "4104019107531",
+    "uikName": "УИК №725",
     "tikTvd": "2102000149598",
-    "tikName": "Петрозаводская городская №3 (судовая)"
+    "tikName": "Петрозаводская городская №3 (судовая)",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 726,
     "uikTvd": "4104019107532",
+    "uikName": "УИК №726",
     "tikTvd": "2102000149598",
-    "tikName": "Петрозаводская городская №3 (судовая)"
+    "tikName": "Петрозаводская городская №3 (судовая)",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 727,
     "uikTvd": "4104019107533",
+    "uikName": "УИК №727",
     "tikTvd": "2102000149598",
-    "tikName": "Петрозаводская городская №3 (судовая)"
+    "tikName": "Петрозаводская городская №3 (судовая)",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 728,
     "uikTvd": "4104019107534",
+    "uikName": "УИК №728",
     "tikTvd": "2102000149598",
-    "tikName": "Петрозаводская городская №3 (судовая)"
+    "tikName": "Петрозаводская городская №3 (судовая)",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 729,
     "uikTvd": "4104019107535",
+    "uikName": "УИК №729",
     "tikTvd": "2102000149598",
-    "tikName": "Петрозаводская городская №3 (судовая)"
+    "tikName": "Петрозаводская городская №3 (судовая)",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 730,
     "uikTvd": "4104019107536",
+    "uikName": "УИК №730",
     "tikTvd": "2102000149598",
-    "tikName": "Петрозаводская городская №3 (судовая)"
+    "tikName": "Петрозаводская городская №3 (судовая)",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 731,
     "uikTvd": "4104019107537",
+    "uikName": "УИК №731",
     "tikTvd": "2102000149598",
-    "tikName": "Петрозаводская городская №3 (судовая)"
+    "tikName": "Петрозаводская городская №3 (судовая)",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 732,
     "uikTvd": "4104019107538",
+    "uikName": "УИК №732",
     "tikTvd": "2102000149598",
-    "tikName": "Петрозаводская городская №3 (судовая)"
+    "tikName": "Петрозаводская городская №3 (судовая)",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 733,
     "uikTvd": "4104019107539",
+    "uikName": "УИК №733",
     "tikTvd": "2102000149598",
-    "tikName": "Петрозаводская городская №3 (судовая)"
+    "tikName": "Петрозаводская городская №3 (судовая)",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 734,
     "uikTvd": "4104019107540",
+    "uikName": "УИК №734",
     "tikTvd": "2102000149598",
-    "tikName": "Петрозаводская городская №3 (судовая)"
+    "tikName": "Петрозаводская городская №3 (судовая)",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 735,
     "uikTvd": "4104019107541",
+    "uikName": "УИК №735",
     "tikTvd": "2102000149598",
-    "tikName": "Петрозаводская городская №3 (судовая)"
+    "tikName": "Петрозаводская городская №3 (судовая)",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 736,
     "uikTvd": "4104019107542",
+    "uikName": "УИК №736",
     "tikTvd": "2102000149598",
-    "tikName": "Петрозаводская городская №3 (судовая)"
+    "tikName": "Петрозаводская городская №3 (судовая)",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 737,
     "uikTvd": "4104019107543",
+    "uikName": "УИК №737",
     "tikTvd": "2102000149598",
-    "tikName": "Петрозаводская городская №3 (судовая)"
+    "tikName": "Петрозаводская городская №3 (судовая)",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 738,
     "uikTvd": "4104019107544",
+    "uikName": "УИК №738",
     "tikTvd": "2102000149598",
-    "tikName": "Петрозаводская городская №3 (судовая)"
+    "tikName": "Петрозаводская городская №3 (судовая)",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 739,
     "uikTvd": "4104019107545",
+    "uikName": "УИК №739",
     "tikTvd": "2102000149598",
-    "tikName": "Петрозаводская городская №3 (судовая)"
+    "tikName": "Петрозаводская городская №3 (судовая)",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 740,
     "uikTvd": "4104019107546",
+    "uikName": "УИК №740",
     "tikTvd": "2102000149598",
-    "tikName": "Петрозаводская городская №3 (судовая)"
+    "tikName": "Петрозаводская городская №3 (судовая)",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 741,
     "uikTvd": "4104019107547",
+    "uikName": "УИК №741",
     "tikTvd": "2102000149598",
-    "tikName": "Петрозаводская городская №3 (судовая)"
+    "tikName": "Петрозаводская городская №3 (судовая)",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 742,
     "uikTvd": "4104019107548",
+    "uikName": "УИК №742",
     "tikTvd": "2102000149598",
-    "tikName": "Петрозаводская городская №3 (судовая)"
+    "tikName": "Петрозаводская городская №3 (судовая)",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 743,
     "uikTvd": "4104019107549",
+    "uikName": "УИК №743",
     "tikTvd": "2102000149598",
-    "tikName": "Петрозаводская городская №3 (судовая)"
+    "tikName": "Петрозаводская городская №3 (судовая)",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 744,
     "uikTvd": "4104019107550",
+    "uikName": "УИК №744",
     "tikTvd": "2102000149598",
-    "tikName": "Петрозаводская городская №3 (судовая)"
+    "tikName": "Петрозаводская городская №3 (судовая)",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 745,
     "uikTvd": "4104019107551",
+    "uikName": "УИК №745",
     "tikTvd": "2102000149598",
-    "tikName": "Петрозаводская городская №3 (судовая)"
+    "tikName": "Петрозаводская городская №3 (судовая)",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 746,
     "uikTvd": "4104019107552",
+    "uikName": "УИК №746",
     "tikTvd": "2102000149598",
-    "tikName": "Петрозаводская городская №3 (судовая)"
+    "tikName": "Петрозаводская городская №3 (судовая)",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 747,
     "uikTvd": "4104019107553",
+    "uikName": "УИК №747",
     "tikTvd": "2102000149598",
-    "tikName": "Петрозаводская городская №3 (судовая)"
+    "tikName": "Петрозаводская городская №3 (судовая)",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 748,
     "uikTvd": "4104019107554",
+    "uikName": "УИК №748",
     "tikTvd": "2102000149598",
-    "tikName": "Петрозаводская городская №3 (судовая)"
+    "tikName": "Петрозаводская городская №3 (судовая)",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 749,
     "uikTvd": "4104019107555",
+    "uikName": "УИК №749",
     "tikTvd": "2102000149598",
-    "tikName": "Петрозаводская городская №3 (судовая)"
+    "tikName": "Петрозаводская городская №3 (судовая)",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 750,
     "uikTvd": "4104019107556",
+    "uikName": "УИК №750",
     "tikTvd": "2102000149598",
-    "tikName": "Петрозаводская городская №3 (судовая)"
+    "tikName": "Петрозаводская городская №3 (судовая)",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 751,
     "uikTvd": "4104019107557",
+    "uikName": "УИК №751",
     "tikTvd": "2102000149598",
-    "tikName": "Петрозаводская городская №3 (судовая)"
+    "tikName": "Петрозаводская городская №3 (судовая)",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 752,
     "uikTvd": "4104019107558",
+    "uikName": "УИК №752",
     "tikTvd": "2102000149598",
-    "tikName": "Петрозаводская городская №3 (судовая)"
+    "tikName": "Петрозаводская городская №3 (судовая)",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 753,
     "uikTvd": "4104019107559",
+    "uikName": "УИК №753",
     "tikTvd": "2102000149598",
-    "tikName": "Петрозаводская городская №3 (судовая)"
+    "tikName": "Петрозаводская городская №3 (судовая)",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 754,
     "uikTvd": "4104019107560",
+    "uikName": "УИК №754",
     "tikTvd": "2102000149598",
-    "tikName": "Петрозаводская городская №3 (судовая)"
+    "tikName": "Петрозаводская городская №3 (судовая)",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 755,
     "uikTvd": "4104019107561",
+    "uikName": "УИК №755",
     "tikTvd": "2102000149598",
-    "tikName": "Петрозаводская городская №3 (судовая)"
+    "tikName": "Петрозаводская городская №3 (судовая)",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 756,
     "uikTvd": "4104019107562",
+    "uikName": "УИК №756",
     "tikTvd": "2102000149598",
-    "tikName": "Петрозаводская городская №3 (судовая)"
+    "tikName": "Петрозаводская городская №3 (судовая)",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 757,
     "uikTvd": "4104019107563",
+    "uikName": "УИК №757",
     "tikTvd": "2102000149598",
-    "tikName": "Петрозаводская городская №3 (судовая)"
+    "tikName": "Петрозаводская городская №3 (судовая)",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 758,
     "uikTvd": "4104019107564",
+    "uikName": "УИК №758",
     "tikTvd": "2102000149598",
-    "tikName": "Петрозаводская городская №3 (судовая)"
+    "tikName": "Петрозаводская городская №3 (судовая)",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 759,
     "uikTvd": "4104019107565",
+    "uikName": "УИК №759",
     "tikTvd": "2102000149598",
-    "tikName": "Петрозаводская городская №3 (судовая)"
+    "tikName": "Петрозаводская городская №3 (судовая)",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 760,
     "uikTvd": "4104019107566",
+    "uikName": "УИК №760",
     "tikTvd": "2102000149598",
-    "tikName": "Петрозаводская городская №3 (судовая)"
+    "tikName": "Петрозаводская городская №3 (судовая)",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 761,
     "uikTvd": "4104019107567",
+    "uikName": "УИК №761",
     "tikTvd": "2102000149598",
-    "tikName": "Петрозаводская городская №3 (судовая)"
+    "tikName": "Петрозаводская городская №3 (судовая)",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 762,
     "uikTvd": "4104019107568",
+    "uikName": "УИК №762",
     "tikTvd": "2102000149598",
-    "tikName": "Петрозаводская городская №3 (судовая)"
+    "tikName": "Петрозаводская городская №3 (судовая)",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 763,
     "uikTvd": "4104019107569",
+    "uikName": "УИК №763",
     "tikTvd": "2102000149598",
-    "tikName": "Петрозаводская городская №3 (судовая)"
+    "tikName": "Петрозаводская городская №3 (судовая)",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 764,
     "uikTvd": "4104019107570",
+    "uikName": "УИК №764",
     "tikTvd": "2102000149598",
-    "tikName": "Петрозаводская городская №3 (судовая)"
+    "tikName": "Петрозаводская городская №3 (судовая)",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 765,
     "uikTvd": "4104019107571",
+    "uikName": "УИК №765",
     "tikTvd": "2102000149598",
-    "tikName": "Петрозаводская городская №3 (судовая)"
+    "tikName": "Петрозаводская городская №3 (судовая)",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 766,
     "uikTvd": "4104019107572",
+    "uikName": "УИК №766",
     "tikTvd": "2102000149598",
-    "tikName": "Петрозаводская городская №3 (судовая)"
+    "tikName": "Петрозаводская городская №3 (судовая)",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 767,
     "uikTvd": "4104019107573",
+    "uikName": "УИК №767",
     "tikTvd": "2102000149598",
-    "tikName": "Петрозаводская городская №3 (судовая)"
+    "tikName": "Петрозаводская городская №3 (судовая)",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 768,
     "uikTvd": "4104019107574",
+    "uikName": "УИК №768",
     "tikTvd": "2102000149598",
-    "tikName": "Петрозаводская городская №3 (судовая)"
+    "tikName": "Петрозаводская городская №3 (судовая)",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 769,
     "uikTvd": "4104019107818",
+    "uikName": "УИК №769",
     "tikTvd": "2102000149598",
-    "tikName": "Петрозаводская городская №3 (судовая)"
+    "tikName": "Петрозаводская городская №3 (судовая)",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   },
   {
     "uikNumber": 770,
     "uikTvd": "4104019108408",
+    "uikName": "УИК №770",
     "tikTvd": "2102000149598",
-    "tikName": "Петрозаводская городская №3 (судовая)"
+    "tikName": "Петрозаводская городская №3 (судовая)",
+    "regionCode": "10",
+    "regionTvd": "100100022249950",
+    "regionName": "Республика Карелия",
+    "district": null
   }
 ] satisfies readonly UikTikRelation[];

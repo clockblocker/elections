@@ -11,6 +11,9 @@ export const president_2024_tic_227_region_14 = [
     "ballot": "presidential",
     "tikTvd": "21420001315700",
     "tikName": "Томпонская",
+    "regionCode": "14",
+    "regionTvd": "100100339411208",
+    "regionName": "Республика Саха (Якутия)",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 8334,
@@ -67,6 +70,9 @@ export const president_2024_tic_227_region_14 = [
     "ballot": "presidential",
     "tikTvd": "21420001315702",
     "tikName": "Среднеколымская",
+    "regionCode": "14",
+    "regionTvd": "100100339411208",
+    "regionName": "Республика Саха (Якутия)",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 4792,
@@ -118,6 +124,9 @@ export const president_2024_tic_227_region_14 = [
     "ballot": "presidential",
     "tikTvd": "21420001315705",
     "tikName": "Оленекская",
+    "regionCode": "14",
+    "regionTvd": "100100339411208",
+    "regionName": "Республика Саха (Якутия)",
     "uikCount": 4,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 2087,
@@ -162,6 +171,9 @@ export const president_2024_tic_227_region_14 = [
     "ballot": "presidential",
     "tikTvd": "21420001315707",
     "tikName": "Усть-Янская",
+    "regionCode": "14",
+    "regionTvd": "100100339411208",
+    "regionName": "Республика Саха (Якутия)",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 4756,
@@ -214,6 +226,9 @@ export const president_2024_tic_227_region_14 = [
     "ballot": "presidential",
     "tikTvd": "21420001315708",
     "tikName": "Анабарская",
+    "regionCode": "14",
+    "regionTvd": "100100339411208",
+    "regionName": "Республика Саха (Якутия)",
     "uikCount": 6,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 2644,
@@ -260,6 +275,9 @@ export const president_2024_tic_227_region_14 = [
     "ballot": "presidential",
     "tikTvd": "21420001315710",
     "tikName": "Верхнеколымская",
+    "regionCode": "14",
+    "regionTvd": "100100339411208",
+    "regionName": "Республика Саха (Якутия)",
     "uikCount": 8,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 2524,
@@ -308,6 +326,9 @@ export const president_2024_tic_227_region_14 = [
     "ballot": "presidential",
     "tikTvd": "21420001315712",
     "tikName": "Хангаласская",
+    "regionCode": "14",
+    "regionTvd": "100100339411208",
+    "regionName": "Республика Саха (Якутия)",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 21004,
@@ -378,6 +399,9 @@ export const president_2024_tic_227_region_14 = [
     "ballot": "presidential",
     "tikTvd": "21420001315717",
     "tikName": "Мирнинская",
+    "regionCode": "14",
+    "regionTvd": "100100339411208",
+    "regionName": "Республика Саха (Якутия)",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 53070,
@@ -451,6 +475,9 @@ export const president_2024_tic_227_region_14 = [
     "ballot": "presidential",
     "tikTvd": "21420001315721",
     "tikName": "Кобяйская",
+    "regionCode": "14",
+    "regionTvd": "100100339411208",
+    "regionName": "Республика Саха (Якутия)",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 7230,
@@ -514,6 +541,9 @@ export const president_2024_tic_227_region_14 = [
     "ballot": "presidential",
     "tikTvd": "21420001315722",
     "tikName": "Чурапчинская",
+    "regionCode": "14",
+    "regionTvd": "100100339411208",
+    "regionName": "Республика Саха (Якутия)",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 13358,
@@ -583,6 +613,9 @@ export const president_2024_tic_227_region_14 = [
     "ballot": "presidential",
     "tikTvd": "21420001315723",
     "tikName": "Нижнеколымская",
+    "regionCode": "14",
+    "regionTvd": "100100339411208",
+    "regionName": "Республика Саха (Якутия)",
     "uikCount": 5,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 2764,
@@ -628,6 +661,9 @@ export const president_2024_tic_227_region_14 = [
     "ballot": "presidential",
     "tikTvd": "21420001315725",
     "tikName": "Булунская",
+    "regionCode": "14",
+    "regionTvd": "100100339411208",
+    "regionName": "Республика Саха (Якутия)",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 5187,
@@ -681,6 +717,9 @@ export const president_2024_tic_227_region_14 = [
     "ballot": "presidential",
     "tikTvd": "21420001315726",
     "tikName": "Горная",
+    "regionCode": "14",
+    "regionTvd": "100100339411208",
+    "regionName": "Республика Саха (Якутия)",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 6785,
@@ -732,6 +771,9 @@ export const president_2024_tic_227_region_14 = [
     "ballot": "presidential",
     "tikTvd": "21420001315729",
     "tikName": "Усть-Алданская",
+    "regionCode": "14",
+    "regionTvd": "100100339411208",
+    "regionName": "Республика Саха (Якутия)",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 12635,
@@ -808,6 +850,9 @@ export const president_2024_tic_227_region_14 = [
     "ballot": "presidential",
     "tikTvd": "21420001315731",
     "tikName": "Эвено-Бытантайская",
+    "regionCode": "14",
+    "regionTvd": "100100339411208",
+    "regionName": "Республика Саха (Якутия)",
     "uikCount": 3,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 1517,
@@ -851,6 +896,9 @@ export const president_2024_tic_227_region_14 = [
     "ballot": "presidential",
     "tikTvd": "21420001315732",
     "tikName": "Таттинская",
+    "regionCode": "14",
+    "regionTvd": "100100339411208",
+    "regionName": "Республика Саха (Якутия)",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9223,
@@ -907,6 +955,9 @@ export const president_2024_tic_227_region_14 = [
     "ballot": "presidential",
     "tikTvd": "21420001315736",
     "tikName": "Сунтарская",
+    "regionCode": "14",
+    "regionTvd": "100100339411208",
+    "regionName": "Республика Саха (Якутия)",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 14519,
@@ -978,6 +1029,9 @@ export const president_2024_tic_227_region_14 = [
     "ballot": "presidential",
     "tikTvd": "21420001315738",
     "tikName": "Аллаиховская",
+    "regionCode": "14",
+    "regionTvd": "100100339411208",
+    "regionName": "Республика Саха (Якутия)",
     "uikCount": 5,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 1577,
@@ -1023,6 +1077,9 @@ export const president_2024_tic_227_region_14 = [
     "ballot": "presidential",
     "tikTvd": "21420001315740",
     "tikName": "Мегино-Кангаласская",
+    "regionCode": "14",
+    "regionTvd": "100100339411208",
+    "regionName": "Республика Саха (Якутия)",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 22827,
@@ -1097,6 +1154,9 @@ export const president_2024_tic_227_region_14 = [
     "ballot": "presidential",
     "tikTvd": "21420001315744",
     "tikName": "Нюрбинская",
+    "regionCode": "14",
+    "regionTvd": "100100339411208",
+    "regionName": "Республика Саха (Якутия)",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 16732,
@@ -1168,6 +1228,9 @@ export const president_2024_tic_227_region_14 = [
     "ballot": "presidential",
     "tikTvd": "21420001315746",
     "tikName": "Вилюйская",
+    "regionCode": "14",
+    "regionTvd": "100100339411208",
+    "regionName": "Республика Саха (Якутия)",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 15361,
@@ -1242,6 +1305,9 @@ export const president_2024_tic_227_region_14 = [
     "ballot": "presidential",
     "tikTvd": "21420001315748",
     "tikName": "Намская",
+    "regionCode": "14",
+    "regionTvd": "100100339411208",
+    "regionName": "Республика Саха (Якутия)",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 15312,
@@ -1309,6 +1375,9 @@ export const president_2024_tic_227_region_14 = [
     "ballot": "presidential",
     "tikTvd": "21420001315752",
     "tikName": "Усть-Майская",
+    "regionCode": "14",
+    "regionTvd": "100100339411208",
+    "regionName": "Республика Саха (Якутия)",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 5263,
@@ -1363,6 +1432,9 @@ export const president_2024_tic_227_region_14 = [
     "ballot": "presidential",
     "tikTvd": "21420001315754",
     "tikName": "Амгинская",
+    "regionCode": "14",
+    "regionTvd": "100100339411208",
+    "regionName": "Республика Саха (Якутия)",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10424,
@@ -1420,6 +1492,9 @@ export const president_2024_tic_227_region_14 = [
     "ballot": "presidential",
     "tikTvd": "21420001315756",
     "tikName": "Олекминская",
+    "regionCode": "14",
+    "regionTvd": "100100339411208",
+    "regionName": "Республика Саха (Якутия)",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 17791,
@@ -1500,6 +1575,9 @@ export const president_2024_tic_227_region_14 = [
     "ballot": "presidential",
     "tikTvd": "21420001315758",
     "tikName": "Абыйская",
+    "regionCode": "14",
+    "regionTvd": "100100339411208",
+    "regionName": "Республика Саха (Якутия)",
     "uikCount": 6,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 2263,
@@ -1546,6 +1624,9 @@ export const president_2024_tic_227_region_14 = [
     "ballot": "presidential",
     "tikTvd": "21420001315761",
     "tikName": "Алданская",
+    "regionCode": "14",
+    "regionTvd": "100100339411208",
+    "regionName": "Республика Саха (Якутия)",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 30070,
@@ -1615,6 +1696,9 @@ export const president_2024_tic_227_region_14 = [
     "ballot": "presidential",
     "tikTvd": "21420001315765",
     "tikName": "Жиганская",
+    "regionCode": "14",
+    "regionTvd": "100100339411208",
+    "regionName": "Республика Саха (Якутия)",
     "uikCount": 6,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 3265,
@@ -1661,6 +1745,9 @@ export const president_2024_tic_227_region_14 = [
     "ballot": "presidential",
     "tikTvd": "21420001315766",
     "tikName": "Нерюнгринская",
+    "regionCode": "14",
+    "regionTvd": "100100339411208",
+    "regionName": "Республика Саха (Якутия)",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 51830,
@@ -1738,6 +1825,9 @@ export const president_2024_tic_227_region_14 = [
     "ballot": "presidential",
     "tikTvd": "21420001315770",
     "tikName": "Момская",
+    "regionCode": "14",
+    "regionTvd": "100100339411208",
+    "regionName": "Республика Саха (Якутия)",
     "uikCount": 7,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 2688,
@@ -1785,6 +1875,9 @@ export const president_2024_tic_227_region_14 = [
     "ballot": "presidential",
     "tikTvd": "21420001315772",
     "tikName": "Верхневилюйская",
+    "regionCode": "14",
+    "regionTvd": "100100339411208",
+    "regionName": "Республика Саха (Якутия)",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9973,
@@ -1859,6 +1952,9 @@ export const president_2024_tic_227_region_14 = [
     "ballot": "presidential",
     "tikTvd": "21420001315774",
     "tikName": "Ленская",
+    "regionCode": "14",
+    "regionTvd": "100100339411208",
+    "regionName": "Республика Саха (Якутия)",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 31481,
@@ -1938,6 +2034,9 @@ export const president_2024_tic_227_region_14 = [
     "ballot": "presidential",
     "tikTvd": "21420001315777",
     "tikName": "Верхоянская",
+    "regionCode": "14",
+    "regionTvd": "100100339411208",
+    "regionName": "Республика Саха (Якутия)",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 7134,
@@ -2000,6 +2099,9 @@ export const president_2024_tic_227_region_14 = [
     "ballot": "presidential",
     "tikTvd": "21420001315779",
     "tikName": "Оймяконская",
+    "regionCode": "14",
+    "regionTvd": "100100339411208",
+    "regionName": "Республика Саха (Якутия)",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 6130,
@@ -2056,6 +2158,9 @@ export const president_2024_tic_227_region_14 = [
     "ballot": "presidential",
     "tikTvd": "21420001315781",
     "tikName": "Якутская городская",
+    "regionCode": "14",
+    "regionTvd": "100100339411208",
+    "regionName": "Республика Саха (Якутия)",
     "uikCount": 126,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 209502,

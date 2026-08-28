@@ -11,6 +11,14 @@ export const duma_2016_tic_464_region_27 = [
     "ballot": "single-member",
     "tikTvd": "2272000676913",
     "tikName": "Хабаровск, Центральная",
+    "regionCode": "27",
+    "regionTvd": "100100067795939",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100067795940",
+      "oikName": "Хабаровский край – Хабаровский"
+    },
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 66142,
@@ -91,6 +99,14 @@ export const duma_2016_tic_464_region_27 = [
     "ballot": "single-member",
     "tikTvd": "2272000676914",
     "tikName": "Хабаровск, Кировская",
+    "regionCode": "27",
+    "regionTvd": "100100067795939",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100067795940",
+      "oikName": "Хабаровский край – Хабаровский"
+    },
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 39816,
@@ -168,6 +184,14 @@ export const duma_2016_tic_464_region_27 = [
     "ballot": "single-member",
     "tikTvd": "2272000676915",
     "tikName": "Хабаровск, Индустриальная",
+    "regionCode": "27",
+    "regionTvd": "100100067795939",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100067795940",
+      "oikName": "Хабаровский край – Хабаровский"
+    },
     "uikCount": 81,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 160394,
@@ -299,6 +323,14 @@ export const duma_2016_tic_464_region_27 = [
     "ballot": "single-member",
     "tikTvd": "2272000676916",
     "tikName": "Ульчская",
+    "regionCode": "27",
+    "regionTvd": "100100067795939",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100067795940",
+      "oikName": "Хабаровский край – Хабаровский"
+    },
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 14893,
@@ -379,6 +411,14 @@ export const duma_2016_tic_464_region_27 = [
     "ballot": "single-member",
     "tikTvd": "2272000676917",
     "tikName": "Советско-Гаванская",
+    "regionCode": "27",
+    "regionTvd": "100100067795939",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100067795940",
+      "oikName": "Хабаровский край – Хабаровский"
+    },
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 31174,
@@ -468,6 +508,14 @@ export const duma_2016_tic_464_region_27 = [
     "ballot": "single-member",
     "tikTvd": "2272000676918",
     "tikName": "Николаевская",
+    "regionCode": "27",
+    "regionTvd": "100100067795939",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100067795940",
+      "oikName": "Хабаровский край – Хабаровский"
+    },
     "uikCount": 43,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 26030,
@@ -561,6 +609,14 @@ export const duma_2016_tic_464_region_27 = [
     "ballot": "single-member",
     "tikTvd": "2272000676919",
     "tikName": "Нанайская",
+    "regionCode": "27",
+    "regionTvd": "100100067795939",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100067795940",
+      "oikName": "Хабаровский край – Хабаровский"
+    },
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 12663,
@@ -630,6 +686,14 @@ export const duma_2016_tic_464_region_27 = [
     "ballot": "single-member",
     "tikTvd": "2272000676920",
     "tikName": "Комсомольская",
+    "regionCode": "27",
+    "regionTvd": "100100067795939",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100067795940",
+      "oikName": "Хабаровский край – Хабаровский"
+    },
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 17267,
@@ -708,6 +772,14 @@ export const duma_2016_tic_464_region_27 = [
     "ballot": "single-member",
     "tikTvd": "2272000676921",
     "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100067795939",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100067795940",
+      "oikName": "Хабаровский край – Хабаровский"
+    },
     "uikCount": 55,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 36813,
@@ -813,6 +885,14 @@ export const duma_2016_tic_464_region_27 = [
     "ballot": "single-member",
     "tikTvd": "2272000676922",
     "tikName": "Вяземская",
+    "regionCode": "27",
+    "regionTvd": "100100067795939",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100067795940",
+      "oikName": "Хабаровский край – Хабаровский"
+    },
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 18372,
@@ -895,6 +975,14 @@ export const duma_2016_tic_464_region_27 = [
     "ballot": "single-member",
     "tikTvd": "2272000676923",
     "tikName": "Ванинская",
+    "regionCode": "27",
+    "regionTvd": "100100067795939",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100067795940",
+      "oikName": "Хабаровский край – Хабаровский"
+    },
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 27448,
@@ -969,6 +1057,14 @@ export const duma_2016_tic_464_region_27 = [
     "ballot": "single-member",
     "tikTvd": "2272000676924",
     "tikName": "Бикинская",
+    "regionCode": "27",
+    "regionTvd": "100100067795939",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100067795940",
+      "oikName": "Хабаровский край – Хабаровский"
+    },
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 17670,
@@ -1041,6 +1137,14 @@ export const duma_2016_tic_464_region_27 = [
     "ballot": "single-member",
     "tikTvd": "2272000676929",
     "tikName": "Хабаровская (ОИК 69)",
+    "regionCode": "27",
+    "regionTvd": "100100067795939",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100067795940",
+      "oikName": "Хабаровский край – Хабаровский"
+    },
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 31726,
@@ -1113,6 +1217,14 @@ export const duma_2016_tic_464_region_27 = [
     "ballot": "single-member",
     "tikTvd": "2272000676930",
     "tikName": "Хабаровская (ОИК 70)",
+    "regionCode": "27",
+    "regionTvd": "100100067795939",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 70,
+      "oikTvd": "100100067795941",
+      "oikName": "Хабаровский край – Комсомольский"
+    },
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 31221,
@@ -1197,6 +1309,14 @@ export const duma_2016_tic_464_region_27 = [
     "ballot": "single-member",
     "tikTvd": "2272000676931",
     "tikName": "Хабаровск, Краснофлотская",
+    "regionCode": "27",
+    "regionTvd": "100100067795939",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 70,
+      "oikTvd": "100100067795941",
+      "oikName": "Хабаровский край – Комсомольский"
+    },
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 63592,
@@ -1279,6 +1399,14 @@ export const duma_2016_tic_464_region_27 = [
     "ballot": "single-member",
     "tikTvd": "2272000676932",
     "tikName": "Хабаровск, Железнодорожная",
+    "regionCode": "27",
+    "regionTvd": "100100067795939",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 70,
+      "oikTvd": "100100067795941",
+      "oikName": "Хабаровский край – Комсомольский"
+    },
     "uikCount": 55,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 111054,
@@ -1383,6 +1511,14 @@ export const duma_2016_tic_464_region_27 = [
     "ballot": "single-member",
     "tikTvd": "2272000676933",
     "tikName": "Тугуро-Чумиканская",
+    "regionCode": "27",
+    "regionTvd": "100100067795939",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 70,
+      "oikTvd": "100100067795941",
+      "oikName": "Хабаровский край – Комсомольский"
+    },
     "uikCount": 7,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1805,
@@ -1439,6 +1575,14 @@ export const duma_2016_tic_464_region_27 = [
     "ballot": "single-member",
     "tikTvd": "2272000676934",
     "tikName": "Солнечная",
+    "regionCode": "27",
+    "regionTvd": "100100067795939",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 70,
+      "oikTvd": "100100067795941",
+      "oikName": "Хабаровский край – Комсомольский"
+    },
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 23672,
@@ -1509,6 +1653,14 @@ export const duma_2016_tic_464_region_27 = [
     "ballot": "single-member",
     "tikTvd": "2272000676935",
     "tikName": "Охотская",
+    "regionCode": "27",
+    "regionTvd": "100100067795939",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 70,
+      "oikTvd": "100100067795941",
+      "oikName": "Хабаровский край – Комсомольский"
+    },
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 5968,
@@ -1576,6 +1728,14 @@ export const duma_2016_tic_464_region_27 = [
     "ballot": "single-member",
     "tikTvd": "2272000676936",
     "tikName": "Комсомольская городская",
+    "regionCode": "27",
+    "regionTvd": "100100067795939",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 70,
+      "oikTvd": "100100067795941",
+      "oikName": "Хабаровский край – Комсомольский"
+    },
     "uikCount": 107,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 193920,
@@ -1732,6 +1892,14 @@ export const duma_2016_tic_464_region_27 = [
     "ballot": "single-member",
     "tikTvd": "2272000676937",
     "tikName": "Осипенковская",
+    "regionCode": "27",
+    "regionTvd": "100100067795939",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 70,
+      "oikTvd": "100100067795941",
+      "oikName": "Хабаровский край – Комсомольский"
+    },
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 4328,
@@ -1798,6 +1966,14 @@ export const duma_2016_tic_464_region_27 = [
     "ballot": "single-member",
     "tikTvd": "2272000676938",
     "tikName": "Верхнебуреинская",
+    "regionCode": "27",
+    "regionTvd": "100100067795939",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 70,
+      "oikTvd": "100100067795941",
+      "oikName": "Хабаровский край – Комсомольский"
+    },
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 22020,
@@ -1879,6 +2055,14 @@ export const duma_2016_tic_464_region_27 = [
     "ballot": "single-member",
     "tikTvd": "2272000676939",
     "tikName": "Аяно-Майская",
+    "regionCode": "27",
+    "regionTvd": "100100067795939",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 70,
+      "oikTvd": "100100067795941",
+      "oikName": "Хабаровский край – Комсомольский"
+    },
     "uikCount": 4,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1551,
@@ -1932,6 +2116,14 @@ export const duma_2016_tic_464_region_27 = [
     "ballot": "single-member",
     "tikTvd": "2272000676940",
     "tikName": "Амурская",
+    "regionCode": "27",
+    "regionTvd": "100100067795939",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 70,
+      "oikTvd": "100100067795941",
+      "oikName": "Хабаровский край – Комсомольский"
+    },
     "uikCount": 43,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 48970,

@@ -11,6 +11,9 @@ export const president_2008_tic_227_region_20 = [
     "ballot": "presidential",
     "tikTvd": "220200094257",
     "tikName": "Аргунская",
+    "regionCode": "20",
+    "regionTvd": "100100022249986",
+    "regionName": "Чеченская Республика",
     "uikCount": 9,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 13121,
@@ -67,6 +70,9 @@ export const president_2008_tic_227_region_20 = [
     "ballot": "presidential",
     "tikTvd": "220200094258",
     "tikName": "Веденская",
+    "regionCode": "20",
+    "regionTvd": "100100022249986",
+    "regionName": "Чеченская Республика",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 17136,
@@ -141,6 +147,9 @@ export const president_2008_tic_227_region_20 = [
     "ballot": "presidential",
     "tikTvd": "220200094259",
     "tikName": "Ачхой-Мартановская",
+    "regionCode": "20",
+    "regionTvd": "100100022249986",
+    "regionName": "Чеченская Республика",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 34260,
@@ -212,6 +221,9 @@ export const president_2008_tic_227_region_20 = [
     "ballot": "presidential",
     "tikTvd": "220200094260",
     "tikName": "Грозненская",
+    "regionCode": "20",
+    "regionTvd": "100100022249986",
+    "regionName": "Чеченская Республика",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 65219,
@@ -299,6 +311,9 @@ export const president_2008_tic_227_region_20 = [
     "ballot": "presidential",
     "tikTvd": "220200094261",
     "tikName": "Гудермесская",
+    "regionCode": "20",
+    "regionTvd": "100100022249986",
+    "regionName": "Чеченская Республика",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 64319,
@@ -390,6 +405,9 @@ export const president_2008_tic_227_region_20 = [
     "ballot": "presidential",
     "tikTvd": "220200094262",
     "tikName": "Итум-Калинская",
+    "regionCode": "20",
+    "regionTvd": "100100022249986",
+    "regionName": "Чеченская Республика",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 3476,
@@ -449,6 +467,9 @@ export const president_2008_tic_227_region_20 = [
     "ballot": "presidential",
     "tikTvd": "220200094263",
     "tikName": "Курчалоевская",
+    "regionCode": "20",
+    "regionTvd": "100100022249986",
+    "regionName": "Чеченская Республика",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 38496,
@@ -522,6 +543,9 @@ export const president_2008_tic_227_region_20 = [
     "ballot": "presidential",
     "tikTvd": "220200094264",
     "tikName": "Надтеречная",
+    "regionCode": "20",
+    "regionTvd": "100100022249986",
+    "regionName": "Чеченская Республика",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 31879,
@@ -589,6 +613,9 @@ export const president_2008_tic_227_region_20 = [
     "ballot": "presidential",
     "tikTvd": "220200094265",
     "tikName": "Наурская",
+    "regionCode": "20",
+    "regionTvd": "100100022249986",
+    "regionName": "Чеченская Республика",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 28050,
@@ -655,6 +682,9 @@ export const president_2008_tic_227_region_20 = [
     "ballot": "presidential",
     "tikTvd": "220200094266",
     "tikName": "Ножай-Юртовская",
+    "regionCode": "20",
+    "regionTvd": "100100022249986",
+    "regionName": "Чеченская Республика",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 23941,
@@ -732,6 +762,9 @@ export const president_2008_tic_227_region_20 = [
     "ballot": "presidential",
     "tikTvd": "220200094267",
     "tikName": "Сунженская",
+    "regionCode": "20",
+    "regionTvd": "100100022249986",
+    "regionName": "Чеченская Республика",
     "uikCount": 7,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 9008,
@@ -786,6 +819,9 @@ export const president_2008_tic_227_region_20 = [
     "ballot": "presidential",
     "tikTvd": "220200094268",
     "tikName": "Урус-Мартановская",
+    "regionCode": "20",
+    "regionTvd": "100100022249986",
+    "regionName": "Чеченская Республика",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 55334,
@@ -865,6 +901,9 @@ export const president_2008_tic_227_region_20 = [
     "ballot": "presidential",
     "tikTvd": "220200094269",
     "tikName": "Шалинская",
+    "regionCode": "20",
+    "regionTvd": "100100022249986",
+    "regionName": "Чеченская Республика",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 43049,
@@ -939,6 +978,9 @@ export const president_2008_tic_227_region_20 = [
     "ballot": "presidential",
     "tikTvd": "220200094270",
     "tikName": "Шаройская",
+    "regionCode": "20",
+    "regionTvd": "100100022249986",
+    "regionName": "Чеченская Республика",
     "uikCount": 9,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 1388,
@@ -995,6 +1037,9 @@ export const president_2008_tic_227_region_20 = [
     "ballot": "presidential",
     "tikTvd": "220200094271",
     "tikName": "Шатойская",
+    "regionCode": "20",
+    "regionTvd": "100100022249986",
+    "regionName": "Чеченская Республика",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 8475,
@@ -1061,6 +1106,9 @@ export const president_2008_tic_227_region_20 = [
     "ballot": "presidential",
     "tikTvd": "220200094272",
     "tikName": "Шелковская",
+    "regionCode": "20",
+    "regionTvd": "100100022249986",
+    "regionName": "Чеченская Республика",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 26866,
@@ -1134,6 +1182,9 @@ export const president_2008_tic_227_region_20 = [
     "ballot": "presidential",
     "tikTvd": "220200094273",
     "tikName": "г. Грозный, Заводская",
+    "regionCode": "20",
+    "regionTvd": "100100022249986",
+    "regionName": "Чеченская Республика",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 27538,
@@ -1194,6 +1245,9 @@ export const president_2008_tic_227_region_20 = [
     "ballot": "presidential",
     "tikTvd": "220200094274",
     "tikName": "г. Грозный, Ленинская",
+    "regionCode": "20",
+    "regionTvd": "100100022249986",
+    "regionName": "Чеченская Республика",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 21540,
@@ -1259,6 +1313,9 @@ export const president_2008_tic_227_region_20 = [
     "ballot": "presidential",
     "tikTvd": "220200094275",
     "tikName": "г. Грозный, Октябрьская",
+    "regionCode": "20",
+    "regionTvd": "100100022249986",
+    "regionName": "Чеченская Республика",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 40317,
@@ -1328,6 +1385,9 @@ export const president_2008_tic_227_region_20 = [
     "ballot": "presidential",
     "tikTvd": "220200094276",
     "tikName": "г. Грозный, Старопромысловская",
+    "regionCode": "20",
+    "regionTvd": "100100022249986",
+    "regionName": "Чеченская Республика",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 33752,

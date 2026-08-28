@@ -11,6 +11,9 @@ export const duma_2007_tic_233_region_37 = [
     "ballot": "party",
     "tikTvd": "2372000156157",
     "tikName": "Иваново, Фрунзенская",
+    "regionCode": "37",
+    "regionTvd": "100100021960253",
+    "regionName": "Ивановская область",
     "uikCount": 45,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 92856,
@@ -110,6 +113,9 @@ export const duma_2007_tic_233_region_37 = [
     "ballot": "party",
     "tikTvd": "2372000156158",
     "tikName": "Иваново, Советская",
+    "regionCode": "37",
+    "regionTvd": "100100021960253",
+    "regionName": "Ивановская область",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 53334,
@@ -199,6 +205,9 @@ export const duma_2007_tic_233_region_37 = [
     "ballot": "party",
     "tikTvd": "2372000156167",
     "tikName": "Юрьевецкая",
+    "regionCode": "37",
+    "regionTvd": "100100021960253",
+    "regionName": "Ивановская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 14742,
@@ -276,6 +285,9 @@ export const duma_2007_tic_233_region_37 = [
     "ballot": "party",
     "tikTvd": "2372000156168",
     "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100021960253",
+    "regionName": "Ивановская область",
     "uikCount": 58,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 126411,
@@ -388,6 +400,9 @@ export const duma_2007_tic_233_region_37 = [
     "ballot": "party",
     "tikTvd": "2372000156169",
     "tikName": "Заволжская",
+    "regionCode": "37",
+    "regionTvd": "100100021960253",
+    "regionName": "Ивановская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 16994,
@@ -466,6 +481,9 @@ export const duma_2007_tic_233_region_37 = [
     "ballot": "party",
     "tikTvd": "2372000156170",
     "tikName": "Иваново, Октябрьская",
+    "regionCode": "37",
+    "regionTvd": "100100021960253",
+    "regionName": "Ивановская область",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 74745,
@@ -559,6 +577,9 @@ export const duma_2007_tic_233_region_37 = [
     "ballot": "party",
     "tikTvd": "2372000156171",
     "tikName": "Вичугская городская",
+    "regionCode": "37",
+    "regionTvd": "100100021960253",
+    "regionName": "Ивановская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 31816,
@@ -634,6 +655,9 @@ export const duma_2007_tic_233_region_37 = [
     "ballot": "party",
     "tikTvd": "2372000156172",
     "tikName": "Верхнеландеховская",
+    "regionCode": "37",
+    "regionTvd": "100100021960253",
+    "regionName": "Ивановская область",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 4056,
@@ -699,6 +723,9 @@ export const duma_2007_tic_233_region_37 = [
     "ballot": "party",
     "tikTvd": "2372000156173",
     "tikName": "Гаврилово-Посадская",
+    "regionCode": "37",
+    "regionTvd": "100100021960253",
+    "regionName": "Ивановская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 14299,
@@ -774,6 +801,9 @@ export const duma_2007_tic_233_region_37 = [
     "ballot": "party",
     "tikTvd": "2372000156174",
     "tikName": "Приволжская",
+    "regionCode": "37",
+    "regionTvd": "100100021960253",
+    "regionName": "Ивановская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 22141,
@@ -857,6 +887,9 @@ export const duma_2007_tic_233_region_37 = [
     "ballot": "party",
     "tikTvd": "2372000156175",
     "tikName": "Пестяковская",
+    "regionCode": "37",
+    "regionTvd": "100100021960253",
+    "regionName": "Ивановская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 6442,
@@ -926,6 +959,9 @@ export const duma_2007_tic_233_region_37 = [
     "ballot": "party",
     "tikTvd": "2372000156176",
     "tikName": "Палехская",
+    "regionCode": "37",
+    "regionTvd": "100100021960253",
+    "regionName": "Ивановская область",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 9639,
@@ -993,6 +1029,9 @@ export const duma_2007_tic_233_region_37 = [
     "ballot": "party",
     "tikTvd": "2372000156177",
     "tikName": "Пучежская",
+    "regionCode": "37",
+    "regionTvd": "100100021960253",
+    "regionName": "Ивановская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 13071,
@@ -1071,6 +1110,9 @@ export const duma_2007_tic_233_region_37 = [
     "ballot": "party",
     "tikTvd": "2372000156178",
     "tikName": "Комсомольская",
+    "regionCode": "37",
+    "regionTvd": "100100021960253",
+    "regionName": "Ивановская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 17183,
@@ -1145,6 +1187,9 @@ export const duma_2007_tic_233_region_37 = [
     "ballot": "party",
     "tikTvd": "2372000156179",
     "tikName": "Лухская",
+    "regionCode": "37",
+    "regionTvd": "100100021960253",
+    "regionName": "Ивановская область",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 6631,
@@ -1215,6 +1260,9 @@ export const duma_2007_tic_233_region_37 = [
     "ballot": "party",
     "tikTvd": "2372000156180",
     "tikName": "Лежневская",
+    "regionCode": "37",
+    "regionTvd": "100100021960253",
+    "regionName": "Ивановская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 15410,
@@ -1288,6 +1336,9 @@ export const duma_2007_tic_233_region_37 = [
     "ballot": "party",
     "tikTvd": "2372000156181",
     "tikName": "Ивановская",
+    "regionCode": "37",
+    "regionTvd": "100100021960253",
+    "regionName": "Ивановская область",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 27665,
@@ -1379,6 +1430,9 @@ export const duma_2007_tic_233_region_37 = [
     "ballot": "party",
     "tikTvd": "2372000156182",
     "tikName": "Кинешемская городская",
+    "regionCode": "37",
+    "regionTvd": "100100021960253",
+    "regionName": "Ивановская область",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 73391,
@@ -1475,6 +1529,9 @@ export const duma_2007_tic_233_region_37 = [
     "ballot": "party",
     "tikTvd": "2372000156183",
     "tikName": "Ильинская",
+    "regionCode": "37",
+    "regionTvd": "100100021960253",
+    "regionName": "Ивановская область",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 7960,
@@ -1542,6 +1599,9 @@ export const duma_2007_tic_233_region_37 = [
     "ballot": "party",
     "tikTvd": "2372000156184",
     "tikName": "Вичугская",
+    "regionCode": "37",
+    "regionTvd": "100100021960253",
+    "regionName": "Ивановская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 16372,
@@ -1624,6 +1684,9 @@ export const duma_2007_tic_233_region_37 = [
     "ballot": "party",
     "tikTvd": "2372000156185",
     "tikName": "Южская",
+    "regionCode": "37",
+    "regionTvd": "100100021960253",
+    "regionName": "Ивановская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 18567,
@@ -1698,6 +1761,9 @@ export const duma_2007_tic_233_region_37 = [
     "ballot": "party",
     "tikTvd": "2372000156186",
     "tikName": "Кинешемская",
+    "regionCode": "37",
+    "regionTvd": "100100021960253",
+    "regionName": "Ивановская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 19602,
@@ -1778,6 +1844,9 @@ export const duma_2007_tic_233_region_37 = [
     "ballot": "party",
     "tikTvd": "2372000156187",
     "tikName": "Фурмановская",
+    "regionCode": "37",
+    "regionTvd": "100100021960253",
+    "regionName": "Ивановская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 38257,
@@ -1862,6 +1931,9 @@ export const duma_2007_tic_233_region_37 = [
     "ballot": "party",
     "tikTvd": "2372000156188",
     "tikName": "Тейковская городская",
+    "regionCode": "37",
+    "regionTvd": "100100021960253",
+    "regionName": "Ивановская область",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 30713,
@@ -1933,6 +2005,9 @@ export const duma_2007_tic_233_region_37 = [
     "ballot": "party",
     "tikTvd": "2372000156189",
     "tikName": "Шуйская городская",
+    "regionCode": "37",
+    "regionTvd": "100100021960253",
+    "regionName": "Ивановская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 49235,
@@ -2015,6 +2090,9 @@ export const duma_2007_tic_233_region_37 = [
     "ballot": "party",
     "tikTvd": "2372000156190",
     "tikName": "Савинская",
+    "regionCode": "37",
+    "regionTvd": "100100021960253",
+    "regionName": "Ивановская область",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 11118,
@@ -2085,6 +2163,9 @@ export const duma_2007_tic_233_region_37 = [
     "ballot": "party",
     "tikTvd": "2372000156191",
     "tikName": "Родниковская",
+    "regionCode": "37",
+    "regionTvd": "100100021960253",
+    "regionName": "Ивановская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 30850,
@@ -2169,6 +2250,9 @@ export const duma_2007_tic_233_region_37 = [
     "ballot": "party",
     "tikTvd": "2372000156192",
     "tikName": "Кохомская городская",
+    "regionCode": "37",
+    "regionTvd": "100100021960253",
+    "regionName": "Ивановская область",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 21533,
@@ -2239,6 +2323,9 @@ export const duma_2007_tic_233_region_37 = [
     "ballot": "party",
     "tikTvd": "2372000156193",
     "tikName": "Шуйская",
+    "regionCode": "37",
+    "regionTvd": "100100021960253",
+    "regionName": "Ивановская область",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 16822,
@@ -2320,6 +2407,9 @@ export const duma_2007_tic_233_region_37 = [
     "ballot": "party",
     "tikTvd": "2372000156194",
     "tikName": "Тейковская",
+    "regionCode": "37",
+    "regionTvd": "100100021960253",
+    "regionName": "Ивановская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 11202,

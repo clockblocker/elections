@@ -11,6 +11,9 @@ export const president_2018_tic_227_region_7 = [
     "ballot": "presidential",
     "tikTvd": "2072000393409",
     "tikName": "Майская",
+    "regionCode": "7",
+    "regionTvd": "100100084849073",
+    "regionName": "Кабардино-Балкарская Республика",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 25571,
@@ -73,6 +76,9 @@ export const president_2018_tic_227_region_7 = [
     "ballot": "presidential",
     "tikTvd": "2072000393410",
     "tikName": "Прохладненская городская",
+    "regionCode": "7",
+    "regionTvd": "100100084849073",
+    "regionName": "Кабардино-Балкарская Республика",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 38446,
@@ -137,6 +143,9 @@ export const president_2018_tic_227_region_7 = [
     "ballot": "presidential",
     "tikTvd": "2072000393411",
     "tikName": "Зольская",
+    "regionCode": "7",
+    "regionTvd": "100100084849073",
+    "regionName": "Кабардино-Балкарская Республика",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 28458,
@@ -206,6 +215,9 @@ export const president_2018_tic_227_region_7 = [
     "ballot": "presidential",
     "tikTvd": "2072000393412",
     "tikName": "Черекская",
+    "regionCode": "7",
+    "regionTvd": "100100084849073",
+    "regionName": "Кабардино-Балкарская Республика",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 17995,
@@ -267,6 +279,9 @@ export const president_2018_tic_227_region_7 = [
     "ballot": "presidential",
     "tikTvd": "2072000393413",
     "tikName": "Урванская",
+    "regionCode": "7",
+    "regionTvd": "100100084849073",
+    "regionName": "Кабардино-Балкарская Республика",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 43329,
@@ -334,6 +349,9 @@ export const president_2018_tic_227_region_7 = [
     "ballot": "presidential",
     "tikTvd": "2072000393414",
     "tikName": "Прохладненская",
+    "regionCode": "7",
+    "regionTvd": "100100084849073",
+    "regionName": "Кабардино-Балкарская Республика",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 31510,
@@ -411,6 +429,9 @@ export const president_2018_tic_227_region_7 = [
     "ballot": "presidential",
     "tikTvd": "2072000393415",
     "tikName": "Лескенская",
+    "regionCode": "7",
+    "regionTvd": "100100084849073",
+    "regionName": "Кабардино-Балкарская Республика",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 17936,
@@ -466,6 +487,9 @@ export const president_2018_tic_227_region_7 = [
     "ballot": "presidential",
     "tikTvd": "2072000393416",
     "tikName": "Терская",
+    "regionCode": "7",
+    "regionTvd": "100100084849073",
+    "regionName": "Кабардино-Балкарская Республика",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 35244,
@@ -534,6 +558,9 @@ export const president_2018_tic_227_region_7 = [
     "ballot": "presidential",
     "tikTvd": "2072000393417",
     "tikName": "Эльбрусская",
+    "regionCode": "7",
+    "regionTvd": "100100084849073",
+    "regionName": "Кабардино-Балкарская Республика",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 21048,
@@ -599,6 +626,9 @@ export const president_2018_tic_227_region_7 = [
     "ballot": "presidential",
     "tikTvd": "2072000393418",
     "tikName": "Баксанская",
+    "regionCode": "7",
+    "regionTvd": "100100084849073",
+    "regionName": "Кабардино-Балкарская Республика",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 39883,
@@ -669,6 +699,9 @@ export const president_2018_tic_227_region_7 = [
     "ballot": "presidential",
     "tikTvd": "2072000393419",
     "tikName": "Баксанская городская",
+    "regionCode": "7",
+    "regionTvd": "100100084849073",
+    "regionName": "Кабардино-Балкарская Республика",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 28519,
@@ -729,6 +762,9 @@ export const president_2018_tic_227_region_7 = [
     "ballot": "presidential",
     "tikTvd": "2072000393420",
     "tikName": "Чегемская",
+    "regionCode": "7",
+    "regionTvd": "100100084849073",
+    "regionName": "Кабардино-Балкарская Республика",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 39215,
@@ -791,6 +827,9 @@ export const president_2018_tic_227_region_7 = [
     "ballot": "presidential",
     "tikTvd": "2072000393421",
     "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100084849073",
+    "regionName": "Кабардино-Балкарская Республика",
     "uikCount": 102,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 161277,

@@ -11,6 +11,9 @@ export const president_2024_tic_227_region_44 = [
     "ballot": "presidential",
     "tikTvd": "24420001320828",
     "tikName": "Чухломская",
+    "regionCode": "44",
+    "regionTvd": "100100339411237",
+    "regionName": "Костромская область",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 7361,
@@ -64,6 +67,9 @@ export const president_2024_tic_227_region_44 = [
     "ballot": "presidential",
     "tikTvd": "24420001320830",
     "tikName": "Солигаличская",
+    "regionCode": "44",
+    "regionTvd": "100100339411237",
+    "regionName": "Костромская область",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 6757,
@@ -116,6 +122,9 @@ export const president_2024_tic_227_region_44 = [
     "ballot": "presidential",
     "tikTvd": "24420001320831",
     "tikName": "Пыщугская",
+    "regionCode": "44",
+    "regionTvd": "100100339411237",
+    "regionName": "Костромская область",
     "uikCount": 7,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 2930,
@@ -163,6 +172,9 @@ export const president_2024_tic_227_region_44 = [
     "ballot": "presidential",
     "tikTvd": "24420001320832",
     "tikName": "Костромская городская 2",
+    "regionCode": "44",
+    "regionTvd": "100100339411237",
+    "regionName": "Костромская область",
     "uikCount": 51,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 119061,
@@ -254,6 +266,9 @@ export const president_2024_tic_227_region_44 = [
     "ballot": "presidential",
     "tikTvd": "24420001320834",
     "tikName": "Вохомская",
+    "regionCode": "44",
+    "regionTvd": "100100339411237",
+    "regionName": "Костромская область",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 6082,
@@ -308,6 +323,9 @@ export const president_2024_tic_227_region_44 = [
     "ballot": "presidential",
     "tikTvd": "24420001320836",
     "tikName": "Кадыйская",
+    "regionCode": "44",
+    "regionTvd": "100100339411237",
+    "regionName": "Костромская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 5408,
@@ -363,6 +381,9 @@ export const president_2024_tic_227_region_44 = [
     "ballot": "presidential",
     "tikTvd": "24420001320838",
     "tikName": "Межевская",
+    "regionCode": "44",
+    "regionTvd": "100100339411237",
+    "regionName": "Костромская область",
     "uikCount": 3,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 2558,
@@ -406,6 +427,9 @@ export const president_2024_tic_227_region_44 = [
     "ballot": "presidential",
     "tikTvd": "24420001320839",
     "tikName": "Макарьевская",
+    "regionCode": "44",
+    "regionTvd": "100100339411237",
+    "regionName": "Костромская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9889,
@@ -467,6 +491,9 @@ export const president_2024_tic_227_region_44 = [
     "ballot": "presidential",
     "tikTvd": "24420001320841",
     "tikName": "Островская",
+    "regionCode": "44",
+    "regionTvd": "100100339411237",
+    "regionName": "Костромская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 7541,
@@ -526,6 +553,9 @@ export const president_2024_tic_227_region_44 = [
     "ballot": "presidential",
     "tikTvd": "24420001320843",
     "tikName": "Костромская городская 1",
+    "regionCode": "44",
+    "regionTvd": "100100339411237",
+    "regionName": "Костромская область",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 99052,
@@ -612,6 +642,9 @@ export const president_2024_tic_227_region_44 = [
     "ballot": "presidential",
     "tikTvd": "24420001320844",
     "tikName": "Галичская",
+    "regionCode": "44",
+    "regionTvd": "100100339411237",
+    "regionName": "Костромская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 5425,
@@ -671,6 +704,9 @@ export const president_2024_tic_227_region_44 = [
     "ballot": "presidential",
     "tikTvd": "24420001320845",
     "tikName": "Шарьинская",
+    "regionCode": "44",
+    "regionTvd": "100100339411237",
+    "regionName": "Костромская область",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 5627,
@@ -725,6 +761,9 @@ export const president_2024_tic_227_region_44 = [
     "ballot": "presidential",
     "tikTvd": "24420001320847",
     "tikName": "Сусанинская",
+    "regionCode": "44",
+    "regionTvd": "100100339411237",
+    "regionName": "Костромская область",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 5063,
@@ -779,6 +818,9 @@ export const president_2024_tic_227_region_44 = [
     "ballot": "presidential",
     "tikTvd": "24420001320848",
     "tikName": "Судиславская",
+    "regionCode": "44",
+    "regionTvd": "100100339411237",
+    "regionName": "Костромская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9537,
@@ -840,6 +882,9 @@ export const president_2024_tic_227_region_44 = [
     "ballot": "presidential",
     "tikTvd": "24420001320849",
     "tikName": "Буйская городская",
+    "regionCode": "44",
+    "regionTvd": "100100339411237",
+    "regionName": "Костромская область",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 17301,
@@ -896,6 +941,9 @@ export const president_2024_tic_227_region_44 = [
     "ballot": "presidential",
     "tikTvd": "24420001320851",
     "tikName": "Павинская",
+    "regionCode": "44",
+    "regionTvd": "100100339411237",
+    "regionName": "Костромская область",
     "uikCount": 5,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 2619,
@@ -941,6 +989,9 @@ export const president_2024_tic_227_region_44 = [
     "ballot": "presidential",
     "tikTvd": "24420001320852",
     "tikName": "Костромская",
+    "regionCode": "44",
+    "regionTvd": "100100339411237",
+    "regionName": "Костромская область",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 34641,
@@ -1014,6 +1065,9 @@ export const president_2024_tic_227_region_44 = [
     "ballot": "presidential",
     "tikTvd": "24420001320853",
     "tikName": "Нерехтская",
+    "regionCode": "44",
+    "regionTvd": "100100339411237",
+    "regionName": "Костромская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 26137,
@@ -1085,6 +1139,9 @@ export const president_2024_tic_227_region_44 = [
     "ballot": "presidential",
     "tikTvd": "24420001320855",
     "tikName": "Шарьинская городская",
+    "regionCode": "44",
+    "regionTvd": "100100339411237",
+    "regionName": "Костромская область",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 26932,
@@ -1141,6 +1198,9 @@ export const president_2024_tic_227_region_44 = [
     "ballot": "presidential",
     "tikTvd": "24420001320856",
     "tikName": "Волгореченская городская",
+    "regionCode": "44",
+    "regionTvd": "100100339411237",
+    "regionName": "Костромская область",
     "uikCount": 5,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 12483,
@@ -1186,6 +1246,9 @@ export const president_2024_tic_227_region_44 = [
     "ballot": "presidential",
     "tikTvd": "24420001320857",
     "tikName": "Поназыревская",
+    "regionCode": "44",
+    "regionTvd": "100100339411237",
+    "regionName": "Костромская область",
     "uikCount": 5,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 4159,
@@ -1231,6 +1294,9 @@ export const president_2024_tic_227_region_44 = [
     "ballot": "presidential",
     "tikTvd": "24420001320859",
     "tikName": "Антроповская",
+    "regionCode": "44",
+    "regionTvd": "100100339411237",
+    "regionName": "Костромская область",
     "uikCount": 10,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 4332,
@@ -1281,6 +1347,9 @@ export const president_2024_tic_227_region_44 = [
     "ballot": "presidential",
     "tikTvd": "24420001320860",
     "tikName": "Буйская",
+    "regionCode": "44",
+    "regionTvd": "100100339411237",
+    "regionName": "Костромская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 7255,
@@ -1341,6 +1410,9 @@ export const president_2024_tic_227_region_44 = [
     "ballot": "presidential",
     "tikTvd": "24420001320864",
     "tikName": "Красносельская",
+    "regionCode": "44",
+    "regionTvd": "100100339411237",
+    "regionName": "Костромская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 15063,
@@ -1402,6 +1474,9 @@ export const president_2024_tic_227_region_44 = [
     "ballot": "presidential",
     "tikTvd": "24420001320865",
     "tikName": "Октябрьская",
+    "regionCode": "44",
+    "regionTvd": "100100339411237",
+    "regionName": "Костромская область",
     "uikCount": 7,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 2699,
@@ -1449,6 +1524,9 @@ export const president_2024_tic_227_region_44 = [
     "ballot": "presidential",
     "tikTvd": "24420001320866",
     "tikName": "Нейская",
+    "regionCode": "44",
+    "regionTvd": "100100339411237",
+    "regionName": "Костромская область",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9479,
@@ -1505,6 +1583,9 @@ export const president_2024_tic_227_region_44 = [
     "ballot": "presidential",
     "tikTvd": "24420001320867",
     "tikName": "Галичская городская",
+    "regionCode": "44",
+    "regionTvd": "100100339411237",
+    "regionName": "Костромская область",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 12692,
@@ -1556,6 +1637,9 @@ export const president_2024_tic_227_region_44 = [
     "ballot": "presidential",
     "tikTvd": "24420001320871",
     "tikName": "Кологривская",
+    "regionCode": "44",
+    "regionTvd": "100100339411237",
+    "regionName": "Костромская область",
     "uikCount": 8,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 3495,
@@ -1604,6 +1688,9 @@ export const president_2024_tic_227_region_44 = [
     "ballot": "presidential",
     "tikTvd": "24420001320873",
     "tikName": "Парфеньевская",
+    "regionCode": "44",
+    "regionTvd": "100100339411237",
+    "regionName": "Костромская область",
     "uikCount": 9,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 4088,
@@ -1653,6 +1740,9 @@ export const president_2024_tic_227_region_44 = [
     "ballot": "presidential",
     "tikTvd": "24420001320878",
     "tikName": "Мантуровская",
+    "regionCode": "44",
+    "regionTvd": "100100339411237",
+    "regionName": "Костромская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 14401,

@@ -11,6 +11,9 @@ export const president_2018_tic_227_region_27 = [
     "ballot": "presidential",
     "tikTvd": "2272000832918",
     "tikName": "Хабаровская",
+    "regionCode": "27",
+    "regionTvd": "100100084849153",
+    "regionName": "Хабаровский край",
     "uikCount": 57,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 63689,
@@ -112,6 +115,9 @@ export const president_2018_tic_227_region_27 = [
     "ballot": "presidential",
     "tikTvd": "2272000832919",
     "tikName": "Хабаровск, Центральная",
+    "regionCode": "27",
+    "regionTvd": "100100084849153",
+    "regionName": "Хабаровский край",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 69817,
@@ -186,6 +192,9 @@ export const president_2018_tic_227_region_27 = [
     "ballot": "presidential",
     "tikTvd": "2272000832920",
     "tikName": "Хабаровск, Краснофлотская",
+    "regionCode": "27",
+    "regionTvd": "100100084849153",
+    "regionName": "Хабаровский край",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 64706,
@@ -264,6 +273,9 @@ export const president_2018_tic_227_region_27 = [
     "ballot": "presidential",
     "tikTvd": "2272000832921",
     "tikName": "Хабаровск, Кировская",
+    "regionCode": "27",
+    "regionTvd": "100100084849153",
+    "regionName": "Хабаровский край",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 42652,
@@ -335,6 +347,9 @@ export const president_2018_tic_227_region_27 = [
     "ballot": "presidential",
     "tikTvd": "2272000832922",
     "tikName": "Хабаровск, Индустриальная",
+    "regionCode": "27",
+    "regionTvd": "100100084849153",
+    "regionName": "Хабаровский край",
     "uikCount": 81,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 162017,
@@ -460,6 +475,9 @@ export const president_2018_tic_227_region_27 = [
     "ballot": "presidential",
     "tikTvd": "2272000832923",
     "tikName": "Хабаровск, Железнодорожная",
+    "regionCode": "27",
+    "regionTvd": "100100084849153",
+    "regionName": "Хабаровский край",
     "uikCount": 55,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 112700,
@@ -559,6 +577,9 @@ export const president_2018_tic_227_region_27 = [
     "ballot": "presidential",
     "tikTvd": "2272000832924",
     "tikName": "Ульчская",
+    "regionCode": "27",
+    "regionTvd": "100100084849153",
+    "regionName": "Хабаровский край",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 12852,
@@ -631,6 +652,9 @@ export const president_2018_tic_227_region_27 = [
     "ballot": "presidential",
     "tikTvd": "2272000832925",
     "tikName": "Тугуро-Чумиканская",
+    "regionCode": "27",
+    "regionTvd": "100100084849153",
+    "regionName": "Хабаровский край",
     "uikCount": 7,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 1893,
@@ -682,6 +706,9 @@ export const president_2018_tic_227_region_27 = [
     "ballot": "presidential",
     "tikTvd": "2272000832926",
     "tikName": "Солнечная",
+    "regionCode": "27",
+    "regionTvd": "100100084849153",
+    "regionName": "Хабаровский край",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 23153,
@@ -747,6 +774,9 @@ export const president_2018_tic_227_region_27 = [
     "ballot": "presidential",
     "tikTvd": "2272000832927",
     "tikName": "Советско-Гаванская",
+    "regionCode": "27",
+    "regionTvd": "100100084849153",
+    "regionName": "Хабаровский край",
     "uikCount": 55,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 31504,
@@ -846,6 +876,9 @@ export const president_2018_tic_227_region_27 = [
     "ballot": "presidential",
     "tikTvd": "2272000832928",
     "tikName": "Охотская",
+    "regionCode": "27",
+    "regionTvd": "100100084849153",
+    "regionName": "Хабаровский край",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 6530,
@@ -910,6 +943,9 @@ export const president_2018_tic_227_region_27 = [
     "ballot": "presidential",
     "tikTvd": "2272000832929",
     "tikName": "Николаевская",
+    "regionCode": "27",
+    "regionTvd": "100100084849153",
+    "regionName": "Хабаровский край",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 24411,
@@ -994,6 +1030,9 @@ export const president_2018_tic_227_region_27 = [
     "ballot": "presidential",
     "tikTvd": "2272000832930",
     "tikName": "Нанайская",
+    "regionCode": "27",
+    "regionTvd": "100100084849153",
+    "regionName": "Хабаровский край",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 12199,
@@ -1057,6 +1096,9 @@ export const president_2018_tic_227_region_27 = [
     "ballot": "presidential",
     "tikTvd": "2272000832931",
     "tikName": "Комсомольская",
+    "regionCode": "27",
+    "regionTvd": "100100084849153",
+    "regionName": "Хабаровский край",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 17613,
@@ -1130,6 +1172,9 @@ export const president_2018_tic_227_region_27 = [
     "ballot": "presidential",
     "tikTvd": "2272000832932",
     "tikName": "Комсомольская городская",
+    "regionCode": "27",
+    "regionTvd": "100100084849153",
+    "regionName": "Хабаровский край",
     "uikCount": 105,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 190563,
@@ -1279,6 +1324,9 @@ export const president_2018_tic_227_region_27 = [
     "ballot": "presidential",
     "tikTvd": "2272000832933",
     "tikName": "Осипенковская",
+    "regionCode": "27",
+    "regionTvd": "100100084849153",
+    "regionName": "Хабаровский край",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 4466,
@@ -1340,6 +1388,9 @@ export const president_2018_tic_227_region_27 = [
     "ballot": "presidential",
     "tikTvd": "2272000832934",
     "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100084849153",
+    "regionName": "Хабаровский край",
     "uikCount": 55,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 35873,
@@ -1439,6 +1490,9 @@ export const president_2018_tic_227_region_27 = [
     "ballot": "presidential",
     "tikTvd": "2272000832935",
     "tikName": "Вяземская",
+    "regionCode": "27",
+    "regionTvd": "100100084849153",
+    "regionName": "Хабаровский край",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 18015,
@@ -1515,6 +1569,9 @@ export const president_2018_tic_227_region_27 = [
     "ballot": "presidential",
     "tikTvd": "2272000832936",
     "tikName": "Верхнебуреинская",
+    "regionCode": "27",
+    "regionTvd": "100100084849153",
+    "regionName": "Хабаровский край",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 21649,
@@ -1591,6 +1648,9 @@ export const president_2018_tic_227_region_27 = [
     "ballot": "presidential",
     "tikTvd": "2272000832937",
     "tikName": "Ванинская",
+    "regionCode": "27",
+    "regionTvd": "100100084849153",
+    "regionName": "Хабаровский край",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 25743,
@@ -1677,6 +1737,9 @@ export const president_2018_tic_227_region_27 = [
     "ballot": "presidential",
     "tikTvd": "2272000832938",
     "tikName": "Бикинская",
+    "regionCode": "27",
+    "regionTvd": "100100084849153",
+    "regionName": "Хабаровский край",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 17813,
@@ -1743,6 +1806,9 @@ export const president_2018_tic_227_region_27 = [
     "ballot": "presidential",
     "tikTvd": "2272000832939",
     "tikName": "Аяно-Майская",
+    "regionCode": "27",
+    "regionTvd": "100100084849153",
+    "regionName": "Хабаровский край",
     "uikCount": 4,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 1808,
@@ -1791,6 +1857,9 @@ export const president_2018_tic_227_region_27 = [
     "ballot": "presidential",
     "tikTvd": "2272000832940",
     "tikName": "Амурская",
+    "regionCode": "27",
+    "regionTvd": "100100084849153",
+    "regionName": "Хабаровский край",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 48110,

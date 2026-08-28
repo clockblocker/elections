@@ -11,6 +11,14 @@ export const duma_2016_tic_464_region_50 = [
     "ballot": "single-member",
     "tikTvd": "25020002005521",
     "tikName": "Реутовская городская",
+    "regionCode": "50",
+    "regionTvd": "100100067796009",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100067796010",
+      "oikName": "Московская область – Балашихинский"
+    },
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 67086,
@@ -102,6 +110,14 @@ export const duma_2016_tic_464_region_50 = [
     "ballot": "single-member",
     "tikTvd": "25020002005522",
     "tikName": "Мытищинская городская",
+    "regionCode": "50",
+    "regionTvd": "100100067796009",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100067796010",
+      "oikName": "Московская область – Балашихинский"
+    },
     "uikCount": 96,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 169425,
@@ -249,6 +265,14 @@ export const duma_2016_tic_464_region_50 = [
     "ballot": "single-member",
     "tikTvd": "25020002005523",
     "tikName": "Балашихинская",
+    "regionCode": "50",
+    "regionTvd": "100100067796009",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100067796010",
+      "oikName": "Московская область – Балашихинский"
+    },
     "uikCount": 152,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 327930,
@@ -452,6 +476,14 @@ export const duma_2016_tic_464_region_50 = [
     "ballot": "single-member",
     "tikTvd": "25020002005524",
     "tikName": "Солнечногорская 1",
+    "regionCode": "50",
+    "regionTvd": "100100067796009",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100067796011",
+      "oikName": "Московская область – Дмитровский"
+    },
     "uikCount": 4,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 4770,
@@ -508,6 +540,14 @@ export const duma_2016_tic_464_region_50 = [
     "ballot": "single-member",
     "tikTvd": "25020002005525",
     "tikName": "Химкинская городская",
+    "regionCode": "50",
+    "regionTvd": "100100067796009",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100067796011",
+      "oikName": "Московская область – Дмитровский"
+    },
     "uikCount": 93,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 160261,
@@ -653,6 +693,14 @@ export const duma_2016_tic_464_region_50 = [
     "ballot": "single-member",
     "tikTvd": "25020002005526",
     "tikName": "Талдомская",
+    "regionCode": "50",
+    "regionTvd": "100100067796009",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100067796011",
+      "oikName": "Московская область – Дмитровский"
+    },
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 37510,
@@ -737,6 +785,14 @@ export const duma_2016_tic_464_region_50 = [
     "ballot": "single-member",
     "tikTvd": "25020002005527",
     "tikName": "Лобненская городская",
+    "regionCode": "50",
+    "regionTvd": "100100067796009",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100067796011",
+      "oikName": "Московская область – Дмитровский"
+    },
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 62813,
@@ -823,6 +879,14 @@ export const duma_2016_tic_464_region_50 = [
     "ballot": "single-member",
     "tikTvd": "25020002005528",
     "tikName": "Дубненская городская",
+    "regionCode": "50",
+    "regionTvd": "100100067796009",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100067796011",
+      "oikName": "Московская область – Дмитровский"
+    },
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 54876,
@@ -903,6 +967,14 @@ export const duma_2016_tic_464_region_50 = [
     "ballot": "single-member",
     "tikTvd": "25020002005529",
     "tikName": "Долгопрудненская городская",
+    "regionCode": "50",
+    "regionTvd": "100100067796009",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100067796011",
+      "oikName": "Московская область – Дмитровский"
+    },
     "uikCount": 43,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 68942,
@@ -998,6 +1070,14 @@ export const duma_2016_tic_464_region_50 = [
     "ballot": "single-member",
     "tikTvd": "25020002005530",
     "tikName": "Дмитровcкая",
+    "regionCode": "50",
+    "regionTvd": "100100067796009",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100067796011",
+      "oikName": "Московская область – Дмитровский"
+    },
     "uikCount": 96,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 125526,
@@ -1146,6 +1226,14 @@ export const duma_2016_tic_464_region_50 = [
     "ballot": "single-member",
     "tikTvd": "25020002005531",
     "tikName": "Серебряно-Прудская городская",
+    "regionCode": "50",
+    "regionTvd": "100100067796009",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100067796012",
+      "oikName": "Московская область – Коломенский"
+    },
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 19140,
@@ -1217,6 +1305,14 @@ export const duma_2016_tic_464_region_50 = [
     "ballot": "single-member",
     "tikTvd": "25020002005532",
     "tikName": "Луховицкая",
+    "regionCode": "50",
+    "regionTvd": "100100067796009",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100067796012",
+      "oikName": "Московская область – Коломенский"
+    },
     "uikCount": 60,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 49569,
@@ -1327,6 +1423,14 @@ export const duma_2016_tic_464_region_50 = [
     "ballot": "single-member",
     "tikTvd": "25020002005533",
     "tikName": "Коломенская городская",
+    "regionCode": "50",
+    "regionTvd": "100100067796009",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100067796012",
+      "oikName": "Московская область – Коломенский"
+    },
     "uikCount": 78,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 118720,
@@ -1455,6 +1559,14 @@ export const duma_2016_tic_464_region_50 = [
     "ballot": "single-member",
     "tikTvd": "25020002005534",
     "tikName": "Коломенская",
+    "regionCode": "50",
+    "regionTvd": "100100067796009",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100067796012",
+      "oikName": "Московская область – Коломенский"
+    },
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 37947,
@@ -1545,6 +1657,14 @@ export const duma_2016_tic_464_region_50 = [
     "ballot": "single-member",
     "tikTvd": "25020002005535",
     "tikName": "Зарайская",
+    "regionCode": "50",
+    "regionTvd": "100100067796009",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100067796012",
+      "oikName": "Московская область – Коломенский"
+    },
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 32193,
@@ -1628,6 +1748,14 @@ export const duma_2016_tic_464_region_50 = [
     "ballot": "single-member",
     "tikTvd": "25020002005536",
     "tikName": "Егорьевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100067796009",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100067796012",
+      "oikName": "Московская область – Коломенский"
+    },
     "uikCount": 59,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 80163,
@@ -1737,6 +1865,14 @@ export const duma_2016_tic_464_region_50 = [
     "ballot": "single-member",
     "tikTvd": "25020002005537",
     "tikName": "Воскресенская",
+    "regionCode": "50",
+    "regionTvd": "100100067796009",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100067796012",
+      "oikName": "Московская область – Коломенский"
+    },
     "uikCount": 81,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 120036,
@@ -1868,6 +2004,14 @@ export const duma_2016_tic_464_region_50 = [
     "ballot": "single-member",
     "tikTvd": "25020002005538",
     "tikName": "Шаховская городская",
+    "regionCode": "50",
+    "regionTvd": "100100067796009",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100067796013",
+      "oikName": "Московская область – Красногорский"
+    },
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 19599,
@@ -1935,6 +2079,14 @@ export const duma_2016_tic_464_region_50 = [
     "ballot": "single-member",
     "tikTvd": "25020002005539",
     "tikName": "Солнечногорская",
+    "regionCode": "50",
+    "regionTvd": "100100067796009",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100067796013",
+      "oikName": "Московская область – Красногорский"
+    },
     "uikCount": 63,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 107774,
@@ -2050,6 +2202,14 @@ export const duma_2016_tic_464_region_50 = [
     "ballot": "single-member",
     "tikTvd": "25020002005540",
     "tikName": "Лотошинская",
+    "regionCode": "50",
+    "regionTvd": "100100067796009",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100067796013",
+      "oikName": "Московская область – Красногорский"
+    },
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 14374,
@@ -2116,6 +2276,14 @@ export const duma_2016_tic_464_region_50 = [
     "ballot": "single-member",
     "tikTvd": "25020002005541",
     "tikName": "Красногорская",
+    "regionCode": "50",
+    "regionTvd": "100100067796009",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100067796013",
+      "oikName": "Московская область – Красногорский"
+    },
     "uikCount": 96,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 159923,
@@ -2264,6 +2432,14 @@ export const duma_2016_tic_464_region_50 = [
     "ballot": "single-member",
     "tikTvd": "25020002005542",
     "tikName": "Клинская",
+    "regionCode": "50",
+    "regionTvd": "100100067796009",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100067796013",
+      "oikName": "Московская область – Красногорский"
+    },
     "uikCount": 84,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 103456,
@@ -2400,6 +2576,14 @@ export const duma_2016_tic_464_region_50 = [
     "ballot": "single-member",
     "tikTvd": "25020002005543",
     "tikName": "Истринская",
+    "regionCode": "50",
+    "regionTvd": "100100067796009",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100067796013",
+      "oikName": "Московская область – Красногорский"
+    },
     "uikCount": 61,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 102963,
@@ -2513,6 +2697,14 @@ export const duma_2016_tic_464_region_50 = [
     "ballot": "single-member",
     "tikTvd": "25020002005544",
     "tikName": "Восходненская поселковая",
+    "regionCode": "50",
+    "regionTvd": "100100067796009",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100067796013",
+      "oikName": "Московская область – Красногорский"
+    },
     "uikCount": 1,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1410,
@@ -2566,6 +2758,14 @@ export const duma_2016_tic_464_region_50 = [
     "ballot": "single-member",
     "tikTvd": "25020002005545",
     "tikName": "Волоколамская",
+    "regionCode": "50",
+    "regionTvd": "100100067796009",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100067796013",
+      "oikName": "Московская область – Красногорский"
+    },
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 41069,
@@ -2651,6 +2851,14 @@ export const duma_2016_tic_464_region_50 = [
     "ballot": "single-member",
     "tikTvd": "25020002005546",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100067796009",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100067796014",
+      "oikName": "Московская область – Люберецкий"
+    },
     "uikCount": 137,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 177411,
@@ -2840,6 +3048,14 @@ export const duma_2016_tic_464_region_50 = [
     "ballot": "single-member",
     "tikTvd": "25020002005547",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100067796009",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100067796014",
+      "oikName": "Московская область – Люберецкий"
+    },
     "uikCount": 135,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 219805,
@@ -3027,6 +3243,14 @@ export const duma_2016_tic_464_region_50 = [
     "ballot": "single-member",
     "tikTvd": "25020002005548",
     "tikName": "Котельниковская поселковая",
+    "regionCode": "50",
+    "regionTvd": "100100067796009",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100067796014",
+      "oikName": "Московская область – Люберецкий"
+    },
     "uikCount": 10,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 23855,
@@ -3089,6 +3313,14 @@ export const duma_2016_tic_464_region_50 = [
     "ballot": "single-member",
     "tikTvd": "25020002005549",
     "tikName": "Жуковская городская",
+    "regionCode": "50",
+    "regionTvd": "100100067796009",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100067796014",
+      "oikName": "Московская область – Люберецкий"
+    },
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 77681,
@@ -3177,6 +3409,14 @@ export const duma_2016_tic_464_region_50 = [
     "ballot": "single-member",
     "tikTvd": "25020002005550",
     "tikName": "Дзержинская городская",
+    "regionCode": "50",
+    "regionTvd": "100100067796009",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100067796014",
+      "oikName": "Московская область – Люберецкий"
+    },
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 35676,
@@ -3249,6 +3489,14 @@ export const duma_2016_tic_464_region_50 = [
     "ballot": "single-member",
     "tikTvd": "25020002005551",
     "tikName": "Бронницкая городская",
+    "regionCode": "50",
+    "regionTvd": "100100067796009",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 121,
+      "oikTvd": "100100067796014",
+      "oikName": "Московская область – Люберецкий"
+    },
     "uikCount": 9,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 16302,
@@ -3310,6 +3558,14 @@ export const duma_2016_tic_464_region_50 = [
     "ballot": "single-member",
     "tikTvd": "25020002005552",
     "tikName": "Рузская",
+    "regionCode": "50",
+    "regionTvd": "100100067796009",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100067796015",
+      "oikName": "Московская область – Одинцовский"
+    },
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 51592,
@@ -3400,6 +3656,14 @@ export const duma_2016_tic_464_region_50 = [
     "ballot": "single-member",
     "tikTvd": "25020002005553",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100067796009",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100067796015",
+      "oikName": "Московская область – Одинцовский"
+    },
     "uikCount": 130,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 244307,
@@ -3582,6 +3846,14 @@ export const duma_2016_tic_464_region_50 = [
     "ballot": "single-member",
     "tikTvd": "25020002005554",
     "tikName": "Наро-Фоминская",
+    "regionCode": "50",
+    "regionTvd": "100100067796009",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100067796015",
+      "oikName": "Московская область – Одинцовский"
+    },
     "uikCount": 90,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 127978,
@@ -3724,6 +3996,14 @@ export const duma_2016_tic_464_region_50 = [
     "ballot": "single-member",
     "tikTvd": "25020002005555",
     "tikName": "Молодежная поселковая",
+    "regionCode": "50",
+    "regionTvd": "100100067796009",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100067796015",
+      "oikName": "Московская область – Одинцовский"
+    },
     "uikCount": 1,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2174,
@@ -3777,6 +4057,14 @@ export const duma_2016_tic_464_region_50 = [
     "ballot": "single-member",
     "tikTvd": "25020002005556",
     "tikName": "Можайская",
+    "regionCode": "50",
+    "regionTvd": "100100067796009",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100067796015",
+      "oikName": "Московская область – Одинцовский"
+    },
     "uikCount": 64,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 55997,
@@ -3893,6 +4181,14 @@ export const duma_2016_tic_464_region_50 = [
     "ballot": "single-member",
     "tikTvd": "25020002005557",
     "tikName": "Краснознаменская городская",
+    "regionCode": "50",
+    "regionTvd": "100100067796009",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100067796015",
+      "oikName": "Московская область – Одинцовский"
+    },
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 32123,
@@ -3960,6 +4256,14 @@ export const duma_2016_tic_464_region_50 = [
     "ballot": "single-member",
     "tikTvd": "25020002005558",
     "tikName": "Звенигородская городская",
+    "regionCode": "50",
+    "regionTvd": "100100067796009",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100067796015",
+      "oikName": "Московская область – Одинцовский"
+    },
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 18686,
@@ -4025,6 +4329,14 @@ export const duma_2016_tic_464_region_50 = [
     "ballot": "single-member",
     "tikTvd": "25020002005559",
     "tikName": "Власихинская городская",
+    "regionCode": "50",
+    "regionTvd": "100100067796009",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100067796015",
+      "oikName": "Московская область – Одинцовский"
+    },
     "uikCount": 9,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 18536,
@@ -4086,6 +4398,14 @@ export const duma_2016_tic_464_region_50 = [
     "ballot": "single-member",
     "tikTvd": "25020002005560",
     "tikName": "Электростальская городская",
+    "regionCode": "50",
+    "regionTvd": "100100067796009",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100067796016",
+      "oikName": "Московская область – Орехово-Зуевский"
+    },
     "uikCount": 50,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 116853,
@@ -4187,6 +4507,14 @@ export const duma_2016_tic_464_region_50 = [
     "ballot": "single-member",
     "tikTvd": "25020002005561",
     "tikName": "Электрогорская городская",
+    "regionCode": "50",
+    "regionTvd": "100100067796009",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100067796016",
+      "oikName": "Московская область – Орехово-Зуевский"
+    },
     "uikCount": 9,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 17820,
@@ -4247,6 +4575,14 @@ export const duma_2016_tic_464_region_50 = [
     "ballot": "single-member",
     "tikTvd": "25020002005562",
     "tikName": "Шатурская",
+    "regionCode": "50",
+    "regionTvd": "100100067796009",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100067796016",
+      "oikName": "Московская область – Орехово-Зуевский"
+    },
     "uikCount": 46,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 55474,
@@ -4344,6 +4680,14 @@ export const duma_2016_tic_464_region_50 = [
     "ballot": "single-member",
     "tikTvd": "25020002005563",
     "tikName": "Рошальская городская",
+    "regionCode": "50",
+    "regionTvd": "100100067796009",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100067796016",
+      "oikName": "Московская область – Орехово-Зуевский"
+    },
     "uikCount": 8,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 16989,
@@ -4403,6 +4747,14 @@ export const duma_2016_tic_464_region_50 = [
     "ballot": "single-member",
     "tikTvd": "25020002005564",
     "tikName": "Павлово-Посадская",
+    "regionCode": "50",
+    "regionTvd": "100100067796009",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100067796016",
+      "oikName": "Московская область – Орехово-Зуевский"
+    },
     "uikCount": 51,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 65142,
@@ -4505,6 +4857,14 @@ export const duma_2016_tic_464_region_50 = [
     "ballot": "single-member",
     "tikTvd": "25020002005565",
     "tikName": "Орехово-Зуевская",
+    "regionCode": "50",
+    "regionTvd": "100100067796009",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100067796016",
+      "oikName": "Московская область – Орехово-Зуевский"
+    },
     "uikCount": 78,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 93028,
@@ -4634,6 +4994,14 @@ export const duma_2016_tic_464_region_50 = [
     "ballot": "single-member",
     "tikTvd": "25020002005566",
     "tikName": "Орехово-Зуевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100067796009",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100067796016",
+      "oikName": "Московская область – Орехово-Зуевский"
+    },
     "uikCount": 61,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 95759,
@@ -4746,6 +5114,14 @@ export const duma_2016_tic_464_region_50 = [
     "ballot": "single-member",
     "tikTvd": "25020002005567",
     "tikName": "Подольская городская",
+    "regionCode": "50",
+    "regionTvd": "100100067796009",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100067796017",
+      "oikName": "Московская область – Подольский"
+    },
     "uikCount": 131,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 259790,
@@ -4927,6 +5303,14 @@ export const duma_2016_tic_464_region_50 = [
     "ballot": "single-member",
     "tikTvd": "25020002005568",
     "tikName": "Лыткаринская городская",
+    "regionCode": "50",
+    "regionTvd": "100100067796009",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100067796017",
+      "oikName": "Московская область – Подольский"
+    },
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 41236,
@@ -4997,6 +5381,14 @@ export const duma_2016_tic_464_region_50 = [
     "ballot": "single-member",
     "tikTvd": "25020002005569",
     "tikName": "Ленинская",
+    "regionCode": "50",
+    "regionTvd": "100100067796009",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100067796017",
+      "oikName": "Московская область – Подольский"
+    },
     "uikCount": 49,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 86380,
@@ -5096,6 +5488,14 @@ export const duma_2016_tic_464_region_50 = [
     "ballot": "single-member",
     "tikTvd": "25020002005570",
     "tikName": "Домодедовская",
+    "regionCode": "50",
+    "regionTvd": "100100067796009",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100067796017",
+      "oikName": "Московская область – Подольский"
+    },
     "uikCount": 86,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 119842,
@@ -5232,6 +5632,14 @@ export const duma_2016_tic_464_region_50 = [
     "ballot": "single-member",
     "tikTvd": "25020002005571",
     "tikName": "Сергиево-Посадская",
+    "regionCode": "50",
+    "regionTvd": "100100067796009",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 125,
+      "oikTvd": "100100067796018",
+      "oikName": "Московская область – Сергиево-Посадский"
+    },
     "uikCount": 125,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 202665,
@@ -5409,6 +5817,14 @@ export const duma_2016_tic_464_region_50 = [
     "ballot": "single-member",
     "tikTvd": "25020002005572",
     "tikName": "Пушкинская",
+    "regionCode": "50",
+    "regionTvd": "100100067796009",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 125,
+      "oikTvd": "100100067796018",
+      "oikName": "Московская область – Сергиево-Посадский"
+    },
     "uikCount": 82,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 133128,
@@ -5543,6 +5959,14 @@ export const duma_2016_tic_464_region_50 = [
     "ballot": "single-member",
     "tikTvd": "25020002005573",
     "tikName": "Красноармейская городская",
+    "regionCode": "50",
+    "regionTvd": "100100067796009",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 125,
+      "oikTvd": "100100067796018",
+      "oikName": "Московская область – Сергиево-Посадский"
+    },
     "uikCount": 11,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 20745,
@@ -5606,6 +6030,14 @@ export const duma_2016_tic_464_region_50 = [
     "ballot": "single-member",
     "tikTvd": "25020002005574",
     "tikName": "Королевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100067796009",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 125,
+      "oikTvd": "100100067796018",
+      "oikName": "Московская область – Сергиево-Посадский"
+    },
     "uikCount": 100,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 168273,
@@ -5758,6 +6190,14 @@ export const duma_2016_tic_464_region_50 = [
     "ballot": "single-member",
     "tikTvd": "25020002005575",
     "tikName": "Чеховская",
+    "regionCode": "50",
+    "regionTvd": "100100067796009",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100067796019",
+      "oikName": "Московская область – Серпуховский"
+    },
     "uikCount": 83,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 104096,
@@ -5894,6 +6334,14 @@ export const duma_2016_tic_464_region_50 = [
     "ballot": "single-member",
     "tikTvd": "25020002005576",
     "tikName": "Ступинская",
+    "regionCode": "50",
+    "regionTvd": "100100067796009",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100067796019",
+      "oikName": "Московская область – Серпуховский"
+    },
     "uikCount": 53,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 88906,
@@ -6000,6 +6448,14 @@ export const duma_2016_tic_464_region_50 = [
     "ballot": "single-member",
     "tikTvd": "25020002005577",
     "tikName": "Серпуховская",
+    "regionCode": "50",
+    "regionTvd": "100100067796009",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100067796019",
+      "oikName": "Московская область – Серпуховский"
+    },
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 32750,
@@ -6091,6 +6547,14 @@ export const duma_2016_tic_464_region_50 = [
     "ballot": "single-member",
     "tikTvd": "25020002005578",
     "tikName": "Серпуховская городская",
+    "regionCode": "50",
+    "regionTvd": "100100067796009",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100067796019",
+      "oikName": "Московская область – Серпуховский"
+    },
     "uikCount": 60,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 106057,
@@ -6204,6 +6668,14 @@ export const duma_2016_tic_464_region_50 = [
     "ballot": "single-member",
     "tikTvd": "25020002005579",
     "tikName": "Пущинская городская",
+    "regionCode": "50",
+    "regionTvd": "100100067796009",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100067796019",
+      "oikName": "Московская область – Серпуховский"
+    },
     "uikCount": 9,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 17631,
@@ -6266,6 +6738,14 @@ export const duma_2016_tic_464_region_50 = [
     "ballot": "single-member",
     "tikTvd": "25020002005580",
     "tikName": "Протвинская городская",
+    "regionCode": "50",
+    "regionTvd": "100100067796009",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100067796019",
+      "oikName": "Московская область – Серпуховский"
+    },
     "uikCount": 12,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 29774,
@@ -6331,6 +6811,14 @@ export const duma_2016_tic_464_region_50 = [
     "ballot": "single-member",
     "tikTvd": "25020002005581",
     "tikName": "Озерская городская",
+    "regionCode": "50",
+    "regionTvd": "100100067796009",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100067796019",
+      "oikName": "Московская область – Серпуховский"
+    },
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 29179,
@@ -6412,6 +6900,14 @@ export const duma_2016_tic_464_region_50 = [
     "ballot": "single-member",
     "tikTvd": "25020002005582",
     "tikName": "Каширская городская",
+    "regionCode": "50",
+    "regionTvd": "100100067796009",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100067796019",
+      "oikName": "Московская область – Серпуховский"
+    },
     "uikCount": 45,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 56458,
@@ -6510,6 +7006,14 @@ export const duma_2016_tic_464_region_50 = [
     "ballot": "single-member",
     "tikTvd": "25020002005583",
     "tikName": "Щелковская",
+    "regionCode": "50",
+    "regionTvd": "100100067796009",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100067796020",
+      "oikName": "Московская область – Щелковский"
+    },
     "uikCount": 121,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 166265,
@@ -6682,6 +7186,14 @@ export const duma_2016_tic_464_region_50 = [
     "ballot": "single-member",
     "tikTvd": "25020002005584",
     "tikName": "Фрязинская городская",
+    "regionCode": "50",
+    "regionTvd": "100100067796009",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100067796020",
+      "oikName": "Московская область – Щелковский"
+    },
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 46614,
@@ -6758,6 +7270,14 @@ export const duma_2016_tic_464_region_50 = [
     "ballot": "single-member",
     "tikTvd": "25020002005585",
     "tikName": "Ногинская",
+    "regionCode": "50",
+    "regionTvd": "100100067796009",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100067796020",
+      "oikName": "Московская область – Щелковский"
+    },
     "uikCount": 128,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 171208,
@@ -6937,6 +7457,14 @@ export const duma_2016_tic_464_region_50 = [
     "ballot": "single-member",
     "tikTvd": "25020002005586",
     "tikName": "Лосино-Петровская городская",
+    "regionCode": "50",
+    "regionTvd": "100100067796009",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100067796020",
+      "oikName": "Московская область – Щелковский"
+    },
     "uikCount": 9,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 16734,
@@ -6997,6 +7525,14 @@ export const duma_2016_tic_464_region_50 = [
     "ballot": "single-member",
     "tikTvd": "25020002005587",
     "tikName": "Ивантеевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100067796009",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100067796020",
+      "oikName": "Московская область – Щелковский"
+    },
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 51265,
@@ -7068,6 +7604,14 @@ export const duma_2016_tic_464_region_50 = [
     "ballot": "single-member",
     "tikTvd": "25020002005588",
     "tikName": "Звездный городок городская",
+    "regionCode": "50",
+    "regionTvd": "100100067796009",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100067796020",
+      "oikName": "Московская область – Щелковский"
+    },
     "uikCount": 3,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 5101,
@@ -7122,6 +7666,14 @@ export const duma_2016_tic_464_region_50 = [
     "ballot": "single-member",
     "tikTvd": "25020002005811",
     "tikName": "Черноголовская поселковая",
+    "regionCode": "50",
+    "regionTvd": "100100067796009",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100067796020",
+      "oikName": "Московская область – Щелковский"
+    },
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 18133,
@@ -7186,6 +7738,14 @@ export const duma_2016_tic_464_region_50 = [
     "ballot": "single-member",
     "tikTvd": "4504062400939",
     "tikName": "Байконур ",
+    "regionCode": "50",
+    "regionTvd": "100100067796009",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100067796020",
+      "oikName": "Московская область – Щелковский"
+    },
     "uikCount": 7,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 14921,

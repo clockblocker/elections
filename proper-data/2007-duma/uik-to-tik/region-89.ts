@@ -7,1213 +7,2223 @@ export const duma_2007_uik_to_tik_region_89 = [
   {
     "uikNumber": 1,
     "uikTvd": "489401380724",
+    "uikName": "УИК №1",
     "tikTvd": "2892000122775",
-    "tikName": "Губкинская городская"
+    "tikName": "Губкинская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 2,
     "uikTvd": "489401380725",
+    "uikName": "УИК №2",
     "tikTvd": "2892000122775",
-    "tikName": "Губкинская городская"
+    "tikName": "Губкинская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 3,
     "uikTvd": "489401380726",
+    "uikName": "УИК №3",
     "tikTvd": "2892000122775",
-    "tikName": "Губкинская городская"
+    "tikName": "Губкинская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 4,
     "uikTvd": "489401380727",
+    "uikName": "УИК №4",
     "tikTvd": "2892000122775",
-    "tikName": "Губкинская городская"
+    "tikName": "Губкинская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5,
     "uikTvd": "489401380728",
+    "uikName": "УИК №5",
     "tikTvd": "2892000122775",
-    "tikName": "Губкинская городская"
+    "tikName": "Губкинская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 6,
     "uikTvd": "489401380729",
+    "uikName": "УИК №6",
     "tikTvd": "2892000122775",
-    "tikName": "Губкинская городская"
+    "tikName": "Губкинская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 7,
     "uikTvd": "489401380730",
+    "uikName": "УИК №7",
     "tikTvd": "2892000122775",
-    "tikName": "Губкинская городская"
+    "tikName": "Губкинская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 8,
     "uikTvd": "489401380731",
+    "uikName": "УИК №8",
     "tikTvd": "2892000122775",
-    "tikName": "Губкинская городская"
+    "tikName": "Губкинская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 9,
     "uikTvd": "489400182028",
+    "uikName": "УИК №9",
     "tikTvd": "2892000122773",
-    "tikName": "Красноселькупская"
+    "tikName": "Красноселькупская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 10,
     "uikTvd": "489400182029",
+    "uikName": "УИК №10",
     "tikTvd": "2892000122773",
-    "tikName": "Красноселькупская"
+    "tikName": "Красноселькупская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 11,
     "uikTvd": "489400182030",
+    "uikName": "УИК №11",
     "tikTvd": "2892000122773",
-    "tikName": "Красноселькупская"
+    "tikName": "Красноселькупская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 12,
     "uikTvd": "489400292040",
+    "uikName": "УИК №12",
     "tikTvd": "2892000122772",
-    "tikName": "Лабытнангская городская"
+    "tikName": "Лабытнангская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 13,
     "uikTvd": "489400292041",
+    "uikName": "УИК №13",
     "tikTvd": "2892000122772",
-    "tikName": "Лабытнангская городская"
+    "tikName": "Лабытнангская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 14,
     "uikTvd": "489400292042",
+    "uikName": "УИК №14",
     "tikTvd": "2892000122772",
-    "tikName": "Лабытнангская городская"
+    "tikName": "Лабытнангская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 15,
     "uikTvd": "489400292043",
+    "uikName": "УИК №15",
     "tikTvd": "2892000122772",
-    "tikName": "Лабытнангская городская"
+    "tikName": "Лабытнангская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 16,
     "uikTvd": "489400292044",
+    "uikName": "УИК №16",
     "tikTvd": "2892000122772",
-    "tikName": "Лабытнангская городская"
+    "tikName": "Лабытнангская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 17,
     "uikTvd": "489400292045",
+    "uikName": "УИК №17",
     "tikTvd": "2892000122772",
-    "tikName": "Лабытнангская городская"
+    "tikName": "Лабытнангская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 18,
     "uikTvd": "489400292046",
+    "uikName": "УИК №18",
     "tikTvd": "2892000122772",
-    "tikName": "Лабытнангская городская"
+    "tikName": "Лабытнангская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 19,
     "uikTvd": "489400292047",
+    "uikName": "УИК №19",
     "tikTvd": "2892000122772",
-    "tikName": "Лабытнангская городская"
+    "tikName": "Лабытнангская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 20,
     "uikTvd": "489400292048",
+    "uikName": "УИК №20",
     "tikTvd": "2892000122772",
-    "tikName": "Лабытнангская городская"
+    "tikName": "Лабытнангская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 21,
     "uikTvd": "489400292049",
+    "uikName": "УИК №21",
     "tikTvd": "2892000122772",
-    "tikName": "Лабытнангская городская"
+    "tikName": "Лабытнангская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 22,
     "uikTvd": "489400292050",
+    "uikName": "УИК №22",
     "tikTvd": "2892000122772",
-    "tikName": "Лабытнангская городская"
+    "tikName": "Лабытнангская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 23,
     "uikTvd": "489400292051",
+    "uikName": "УИК №23",
     "tikTvd": "2892000122772",
-    "tikName": "Лабытнангская городская"
+    "tikName": "Лабытнангская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 24,
     "uikTvd": "489400292052",
+    "uikName": "УИК №24",
     "tikTvd": "2892000122772",
-    "tikName": "Лабытнангская городская"
+    "tikName": "Лабытнангская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 25,
     "uikTvd": "489400292053",
+    "uikName": "УИК №25",
     "tikTvd": "2892000122772",
-    "tikName": "Лабытнангская городская"
+    "tikName": "Лабытнангская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 26,
     "uikTvd": "489400394201",
+    "uikName": "УИК №26",
     "tikTvd": "2892000122771",
-    "tikName": "Муравленковская городская"
+    "tikName": "Муравленковская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 27,
     "uikTvd": "489400394202",
+    "uikName": "УИК №27",
     "tikTvd": "2892000122771",
-    "tikName": "Муравленковская городская"
+    "tikName": "Муравленковская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 28,
     "uikTvd": "489400394203",
+    "uikName": "УИК №28",
     "tikTvd": "2892000122771",
-    "tikName": "Муравленковская городская"
+    "tikName": "Муравленковская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 29,
     "uikTvd": "489400394204",
+    "uikName": "УИК №29",
     "tikTvd": "2892000122771",
-    "tikName": "Муравленковская городская"
+    "tikName": "Муравленковская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 30,
     "uikTvd": "489400394205",
+    "uikName": "УИК №30",
     "tikTvd": "2892000122771",
-    "tikName": "Муравленковская городская"
+    "tikName": "Муравленковская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 31,
     "uikTvd": "489400394206",
+    "uikName": "УИК №31",
     "tikTvd": "2892000122771",
-    "tikName": "Муравленковская городская"
+    "tikName": "Муравленковская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 32,
     "uikTvd": "489400394207",
+    "uikName": "УИК №32",
     "tikTvd": "2892000122771",
-    "tikName": "Муравленковская городская"
+    "tikName": "Муравленковская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 33,
     "uikTvd": "489400394208",
+    "uikName": "УИК №33",
     "tikTvd": "2892000122771",
-    "tikName": "Муравленковская городская"
+    "tikName": "Муравленковская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 34,
     "uikTvd": "489400394209",
+    "uikName": "УИК №34",
     "tikTvd": "2892000122771",
-    "tikName": "Муравленковская городская"
+    "tikName": "Муравленковская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 35,
     "uikTvd": "489400394210",
+    "uikName": "УИК №35",
     "tikTvd": "2892000122771",
-    "tikName": "Муравленковская городская"
+    "tikName": "Муравленковская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 36,
     "uikTvd": "4894004108908",
+    "uikName": "УИК №36",
     "tikTvd": "2892000122783",
-    "tikName": "Надымская"
+    "tikName": "Надымская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 37,
     "uikTvd": "4894004108661",
+    "uikName": "УИК №37",
     "tikTvd": "2892000122783",
-    "tikName": "Надымская"
+    "tikName": "Надымская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 38,
     "uikTvd": "4894004108663",
+    "uikName": "УИК №38",
     "tikTvd": "2892000122783",
-    "tikName": "Надымская"
+    "tikName": "Надымская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 39,
     "uikTvd": "4894004108665",
+    "uikName": "УИК №39",
     "tikTvd": "2892000122783",
-    "tikName": "Надымская"
+    "tikName": "Надымская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 40,
     "uikTvd": "4894004108667",
+    "uikName": "УИК №40",
     "tikTvd": "2892000122783",
-    "tikName": "Надымская"
+    "tikName": "Надымская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 41,
     "uikTvd": "4894004108669",
+    "uikName": "УИК №41",
     "tikTvd": "2892000122783",
-    "tikName": "Надымская"
+    "tikName": "Надымская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 42,
     "uikTvd": "4894004108671",
+    "uikName": "УИК №42",
     "tikTvd": "2892000122783",
-    "tikName": "Надымская"
+    "tikName": "Надымская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 43,
     "uikTvd": "4894004108673",
+    "uikName": "УИК №43",
     "tikTvd": "2892000122783",
-    "tikName": "Надымская"
+    "tikName": "Надымская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 44,
     "uikTvd": "4894004108675",
+    "uikName": "УИК №44",
     "tikTvd": "2892000122783",
-    "tikName": "Надымская"
+    "tikName": "Надымская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 45,
     "uikTvd": "4894004108677",
+    "uikName": "УИК №45",
     "tikTvd": "2892000122783",
-    "tikName": "Надымская"
+    "tikName": "Надымская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 46,
     "uikTvd": "4894004108679",
+    "uikName": "УИК №46",
     "tikTvd": "2892000122783",
-    "tikName": "Надымская"
+    "tikName": "Надымская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 47,
     "uikTvd": "4894004108681",
+    "uikName": "УИК №47",
     "tikTvd": "2892000122783",
-    "tikName": "Надымская"
+    "tikName": "Надымская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 48,
     "uikTvd": "4894004108683",
+    "uikName": "УИК №48",
     "tikTvd": "2892000122783",
-    "tikName": "Надымская"
+    "tikName": "Надымская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 49,
     "uikTvd": "4894004108685",
+    "uikName": "УИК №49",
     "tikTvd": "2892000122783",
-    "tikName": "Надымская"
+    "tikName": "Надымская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 50,
     "uikTvd": "4894004108687",
+    "uikName": "УИК №50",
     "tikTvd": "2892000122783",
-    "tikName": "Надымская"
+    "tikName": "Надымская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 51,
     "uikTvd": "4894004108689",
+    "uikName": "УИК №51",
     "tikTvd": "2892000122783",
-    "tikName": "Надымская"
+    "tikName": "Надымская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 52,
     "uikTvd": "4894004108691",
+    "uikName": "УИК №52",
     "tikTvd": "2892000122783",
-    "tikName": "Надымская"
+    "tikName": "Надымская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 53,
     "uikTvd": "4894004108693",
+    "uikName": "УИК №53",
     "tikTvd": "2892000122783",
-    "tikName": "Надымская"
+    "tikName": "Надымская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 54,
     "uikTvd": "4894004108695",
+    "uikName": "УИК №54",
     "tikTvd": "2892000122783",
-    "tikName": "Надымская"
+    "tikName": "Надымская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 55,
     "uikTvd": "4894004108697",
+    "uikName": "УИК №55",
     "tikTvd": "2892000122783",
-    "tikName": "Надымская"
+    "tikName": "Надымская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 56,
     "uikTvd": "4894004108699",
+    "uikName": "УИК №56",
     "tikTvd": "2892000122783",
-    "tikName": "Надымская"
+    "tikName": "Надымская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 57,
     "uikTvd": "4894004108701",
+    "uikName": "УИК №57",
     "tikTvd": "2892000122783",
-    "tikName": "Надымская"
+    "tikName": "Надымская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 58,
     "uikTvd": "4894004108703",
+    "uikName": "УИК №58",
     "tikTvd": "2892000122783",
-    "tikName": "Надымская"
+    "tikName": "Надымская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 59,
     "uikTvd": "4894004108705",
+    "uikName": "УИК №59",
     "tikTvd": "2892000122783",
-    "tikName": "Надымская"
+    "tikName": "Надымская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 60,
     "uikTvd": "4894004108714",
+    "uikName": "УИК №60",
     "tikTvd": "2892000122783",
-    "tikName": "Надымская"
+    "tikName": "Надымская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 61,
     "uikTvd": "4894004108716",
+    "uikName": "УИК №61",
     "tikTvd": "2892000122783",
-    "tikName": "Надымская"
+    "tikName": "Надымская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 62,
     "uikTvd": "4894004108718",
+    "uikName": "УИК №62",
     "tikTvd": "2892000122783",
-    "tikName": "Надымская"
+    "tikName": "Надымская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 63,
     "uikTvd": "4894004108720",
+    "uikName": "УИК №63",
     "tikTvd": "2892000122783",
-    "tikName": "Надымская"
+    "tikName": "Надымская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 64,
     "uikTvd": "4894004108722",
+    "uikName": "УИК №64",
     "tikTvd": "2892000122783",
-    "tikName": "Надымская"
+    "tikName": "Надымская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 65,
     "uikTvd": "4894004108724",
+    "uikName": "УИК №65",
     "tikTvd": "2892000122783",
-    "tikName": "Надымская"
+    "tikName": "Надымская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 66,
     "uikTvd": "489400595609",
+    "uikName": "УИК №66",
     "tikTvd": "2892000122782",
-    "tikName": "Новоуренгойская городская"
+    "tikName": "Новоуренгойская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 67,
     "uikTvd": "489400595610",
+    "uikName": "УИК №67",
     "tikTvd": "2892000122782",
-    "tikName": "Новоуренгойская городская"
+    "tikName": "Новоуренгойская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 68,
     "uikTvd": "489400595611",
+    "uikName": "УИК №68",
     "tikTvd": "2892000122782",
-    "tikName": "Новоуренгойская городская"
+    "tikName": "Новоуренгойская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 69,
     "uikTvd": "489400595612",
+    "uikName": "УИК №69",
     "tikTvd": "2892000122782",
-    "tikName": "Новоуренгойская городская"
+    "tikName": "Новоуренгойская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 70,
     "uikTvd": "489400595613",
+    "uikName": "УИК №70",
     "tikTvd": "2892000122782",
-    "tikName": "Новоуренгойская городская"
+    "tikName": "Новоуренгойская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 71,
     "uikTvd": "489400595614",
+    "uikName": "УИК №71",
     "tikTvd": "2892000122782",
-    "tikName": "Новоуренгойская городская"
+    "tikName": "Новоуренгойская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 72,
     "uikTvd": "489400595615",
+    "uikName": "УИК №72",
     "tikTvd": "2892000122782",
-    "tikName": "Новоуренгойская городская"
+    "tikName": "Новоуренгойская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 73,
     "uikTvd": "489400595616",
+    "uikName": "УИК №73",
     "tikTvd": "2892000122782",
-    "tikName": "Новоуренгойская городская"
+    "tikName": "Новоуренгойская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 74,
     "uikTvd": "489400595617",
+    "uikName": "УИК №74",
     "tikTvd": "2892000122782",
-    "tikName": "Новоуренгойская городская"
+    "tikName": "Новоуренгойская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 75,
     "uikTvd": "489400595618",
+    "uikName": "УИК №75",
     "tikTvd": "2892000122782",
-    "tikName": "Новоуренгойская городская"
+    "tikName": "Новоуренгойская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 76,
     "uikTvd": "489400595619",
+    "uikName": "УИК №76",
     "tikTvd": "2892000122782",
-    "tikName": "Новоуренгойская городская"
+    "tikName": "Новоуренгойская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 77,
     "uikTvd": "489400595620",
+    "uikName": "УИК №77",
     "tikTvd": "2892000122782",
-    "tikName": "Новоуренгойская городская"
+    "tikName": "Новоуренгойская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 78,
     "uikTvd": "489400595621",
+    "uikName": "УИК №78",
     "tikTvd": "2892000122782",
-    "tikName": "Новоуренгойская городская"
+    "tikName": "Новоуренгойская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 79,
     "uikTvd": "489400595622",
+    "uikName": "УИК №79",
     "tikTvd": "2892000122782",
-    "tikName": "Новоуренгойская городская"
+    "tikName": "Новоуренгойская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 80,
     "uikTvd": "489400595623",
+    "uikName": "УИК №80",
     "tikTvd": "2892000122782",
-    "tikName": "Новоуренгойская городская"
+    "tikName": "Новоуренгойская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 81,
     "uikTvd": "489400595624",
+    "uikName": "УИК №81",
     "tikTvd": "2892000122782",
-    "tikName": "Новоуренгойская городская"
+    "tikName": "Новоуренгойская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 82,
     "uikTvd": "489400595625",
+    "uikName": "УИК №82",
     "tikTvd": "2892000122782",
-    "tikName": "Новоуренгойская городская"
+    "tikName": "Новоуренгойская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 83,
     "uikTvd": "489400595626",
+    "uikName": "УИК №83",
     "tikTvd": "2892000122782",
-    "tikName": "Новоуренгойская городская"
+    "tikName": "Новоуренгойская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 84,
     "uikTvd": "489400595627",
+    "uikName": "УИК №84",
     "tikTvd": "2892000122782",
-    "tikName": "Новоуренгойская городская"
+    "tikName": "Новоуренгойская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 85,
     "uikTvd": "489400595628",
+    "uikName": "УИК №85",
     "tikTvd": "2892000122782",
-    "tikName": "Новоуренгойская городская"
+    "tikName": "Новоуренгойская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 86,
     "uikTvd": "489400595629",
+    "uikName": "УИК №86",
     "tikTvd": "2892000122782",
-    "tikName": "Новоуренгойская городская"
+    "tikName": "Новоуренгойская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 87,
     "uikTvd": "489400595630",
+    "uikName": "УИК №87",
     "tikTvd": "2892000122782",
-    "tikName": "Новоуренгойская городская"
+    "tikName": "Новоуренгойская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 88,
     "uikTvd": "489400595631",
+    "uikName": "УИК №88",
     "tikTvd": "2892000122782",
-    "tikName": "Новоуренгойская городская"
+    "tikName": "Новоуренгойская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 89,
     "uikTvd": "489400595632",
+    "uikName": "УИК №89",
     "tikTvd": "2892000122782",
-    "tikName": "Новоуренгойская городская"
+    "tikName": "Новоуренгойская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 90,
     "uikTvd": "489400595633",
+    "uikName": "УИК №90",
     "tikTvd": "2892000122782",
-    "tikName": "Новоуренгойская городская"
+    "tikName": "Новоуренгойская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 91,
     "uikTvd": "489400595634",
+    "uikName": "УИК №91",
     "tikTvd": "2892000122782",
-    "tikName": "Новоуренгойская городская"
+    "tikName": "Новоуренгойская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 92,
     "uikTvd": "489400595635",
+    "uikName": "УИК №92",
     "tikTvd": "2892000122782",
-    "tikName": "Новоуренгойская городская"
+    "tikName": "Новоуренгойская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 93,
     "uikTvd": "489400595636",
+    "uikName": "УИК №93",
     "tikTvd": "2892000122782",
-    "tikName": "Новоуренгойская городская"
+    "tikName": "Новоуренгойская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 94,
     "uikTvd": "489400595637",
+    "uikName": "УИК №94",
     "tikTvd": "2892000122782",
-    "tikName": "Новоуренгойская городская"
+    "tikName": "Новоуренгойская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 95,
     "uikTvd": "489400595638",
+    "uikName": "УИК №95",
     "tikTvd": "2892000122782",
-    "tikName": "Новоуренгойская городская"
+    "tikName": "Новоуренгойская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 96,
     "uikTvd": "489400595639",
+    "uikName": "УИК №96",
     "tikTvd": "2892000122782",
-    "tikName": "Новоуренгойская городская"
+    "tikName": "Новоуренгойская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 97,
     "uikTvd": "489400595640",
+    "uikName": "УИК №97",
     "tikTvd": "2892000122782",
-    "tikName": "Новоуренгойская городская"
+    "tikName": "Новоуренгойская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 98,
     "uikTvd": "489400595641",
+    "uikName": "УИК №98",
     "tikTvd": "2892000122782",
-    "tikName": "Новоуренгойская городская"
+    "tikName": "Новоуренгойская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 99,
     "uikTvd": "489400595642",
+    "uikName": "УИК №99",
     "tikTvd": "2892000122782",
-    "tikName": "Новоуренгойская городская"
+    "tikName": "Новоуренгойская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 100,
     "uikTvd": "489400595643",
+    "uikName": "УИК №100",
     "tikTvd": "2892000122782",
-    "tikName": "Новоуренгойская городская"
+    "tikName": "Новоуренгойская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 101,
     "uikTvd": "489400595644",
+    "uikName": "УИК №101",
     "tikTvd": "2892000122782",
-    "tikName": "Новоуренгойская городская"
+    "tikName": "Новоуренгойская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 102,
     "uikTvd": "489400595645",
+    "uikName": "УИК №102",
     "tikTvd": "2892000122782",
-    "tikName": "Новоуренгойская городская"
+    "tikName": "Новоуренгойская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 103,
     "uikTvd": "489400595646",
+    "uikName": "УИК №103",
     "tikTvd": "2892000122782",
-    "tikName": "Новоуренгойская городская"
+    "tikName": "Новоуренгойская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 104,
     "uikTvd": "489400595647",
+    "uikName": "УИК №104",
     "tikTvd": "2892000122782",
-    "tikName": "Новоуренгойская городская"
+    "tikName": "Новоуренгойская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 105,
     "uikTvd": "489400595648",
+    "uikName": "УИК №105",
     "tikTvd": "2892000122782",
-    "tikName": "Новоуренгойская городская"
+    "tikName": "Новоуренгойская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 106,
     "uikTvd": "489400693772",
+    "uikName": "УИК №106",
     "tikTvd": "2892000122779",
-    "tikName": "Ноябрьская городская"
+    "tikName": "Ноябрьская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 107,
     "uikTvd": "489400693773",
+    "uikName": "УИК №107",
     "tikTvd": "2892000122779",
-    "tikName": "Ноябрьская городская"
+    "tikName": "Ноябрьская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 108,
     "uikTvd": "489400693774",
+    "uikName": "УИК №108",
     "tikTvd": "2892000122779",
-    "tikName": "Ноябрьская городская"
+    "tikName": "Ноябрьская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 109,
     "uikTvd": "489400693775",
+    "uikName": "УИК №109",
     "tikTvd": "2892000122779",
-    "tikName": "Ноябрьская городская"
+    "tikName": "Ноябрьская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 110,
     "uikTvd": "489400693776",
+    "uikName": "УИК №110",
     "tikTvd": "2892000122779",
-    "tikName": "Ноябрьская городская"
+    "tikName": "Ноябрьская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 111,
     "uikTvd": "489400693777",
+    "uikName": "УИК №111",
     "tikTvd": "2892000122779",
-    "tikName": "Ноябрьская городская"
+    "tikName": "Ноябрьская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 112,
     "uikTvd": "489400693778",
+    "uikName": "УИК №112",
     "tikTvd": "2892000122779",
-    "tikName": "Ноябрьская городская"
+    "tikName": "Ноябрьская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 113,
     "uikTvd": "489400693779",
+    "uikName": "УИК №113",
     "tikTvd": "2892000122779",
-    "tikName": "Ноябрьская городская"
+    "tikName": "Ноябрьская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 114,
     "uikTvd": "489400693780",
+    "uikName": "УИК №114",
     "tikTvd": "2892000122779",
-    "tikName": "Ноябрьская городская"
+    "tikName": "Ноябрьская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 115,
     "uikTvd": "489400693781",
+    "uikName": "УИК №115",
     "tikTvd": "2892000122779",
-    "tikName": "Ноябрьская городская"
+    "tikName": "Ноябрьская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 116,
     "uikTvd": "489400693782",
+    "uikName": "УИК №116",
     "tikTvd": "2892000122779",
-    "tikName": "Ноябрьская городская"
+    "tikName": "Ноябрьская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 117,
     "uikTvd": "489400693783",
+    "uikName": "УИК №117",
     "tikTvd": "2892000122779",
-    "tikName": "Ноябрьская городская"
+    "tikName": "Ноябрьская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 118,
     "uikTvd": "489400693784",
+    "uikName": "УИК №118",
     "tikTvd": "2892000122779",
-    "tikName": "Ноябрьская городская"
+    "tikName": "Ноябрьская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 119,
     "uikTvd": "489400693785",
+    "uikName": "УИК №119",
     "tikTvd": "2892000122779",
-    "tikName": "Ноябрьская городская"
+    "tikName": "Ноябрьская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 120,
     "uikTvd": "489400693786",
+    "uikName": "УИК №120",
     "tikTvd": "2892000122779",
-    "tikName": "Ноябрьская городская"
+    "tikName": "Ноябрьская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 121,
     "uikTvd": "489400693787",
+    "uikName": "УИК №121",
     "tikTvd": "2892000122779",
-    "tikName": "Ноябрьская городская"
+    "tikName": "Ноябрьская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 122,
     "uikTvd": "489400693788",
+    "uikName": "УИК №122",
     "tikTvd": "2892000122779",
-    "tikName": "Ноябрьская городская"
+    "tikName": "Ноябрьская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 123,
     "uikTvd": "489400693789",
+    "uikName": "УИК №123",
     "tikTvd": "2892000122779",
-    "tikName": "Ноябрьская городская"
+    "tikName": "Ноябрьская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 124,
     "uikTvd": "489400693790",
+    "uikName": "УИК №124",
     "tikTvd": "2892000122779",
-    "tikName": "Ноябрьская городская"
+    "tikName": "Ноябрьская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 125,
     "uikTvd": "489400693791",
+    "uikName": "УИК №125",
     "tikTvd": "2892000122779",
-    "tikName": "Ноябрьская городская"
+    "tikName": "Ноябрьская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 126,
     "uikTvd": "489400693792",
+    "uikName": "УИК №126",
     "tikTvd": "2892000122779",
-    "tikName": "Ноябрьская городская"
+    "tikName": "Ноябрьская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 127,
     "uikTvd": "489400693793",
+    "uikName": "УИК №127",
     "tikTvd": "2892000122779",
-    "tikName": "Ноябрьская городская"
+    "tikName": "Ноябрьская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 128,
     "uikTvd": "489400693794",
+    "uikName": "УИК №128",
     "tikTvd": "2892000122779",
-    "tikName": "Ноябрьская городская"
+    "tikName": "Ноябрьская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 129,
     "uikTvd": "489400693795",
+    "uikName": "УИК №129",
     "tikTvd": "2892000122779",
-    "tikName": "Ноябрьская городская"
+    "tikName": "Ноябрьская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 130,
     "uikTvd": "489400693796",
+    "uikName": "УИК №130",
     "tikTvd": "2892000122779",
-    "tikName": "Ноябрьская городская"
+    "tikName": "Ноябрьская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 131,
     "uikTvd": "489400693797",
+    "uikName": "УИК №131",
     "tikTvd": "2892000122779",
-    "tikName": "Ноябрьская городская"
+    "tikName": "Ноябрьская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 132,
     "uikTvd": "489400693798",
+    "uikName": "УИК №132",
     "tikTvd": "2892000122779",
-    "tikName": "Ноябрьская городская"
+    "tikName": "Ноябрьская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 133,
     "uikTvd": "489400693799",
+    "uikName": "УИК №133",
     "tikTvd": "2892000122779",
-    "tikName": "Ноябрьская городская"
+    "tikName": "Ноябрьская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 134,
     "uikTvd": "489400693800",
+    "uikName": "УИК №134",
     "tikTvd": "2892000122779",
-    "tikName": "Ноябрьская городская"
+    "tikName": "Ноябрьская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 135,
     "uikTvd": "489400693801",
+    "uikName": "УИК №135",
     "tikTvd": "2892000122779",
-    "tikName": "Ноябрьская городская"
+    "tikName": "Ноябрьская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 136,
     "uikTvd": "489400693802",
+    "uikName": "УИК №136",
     "tikTvd": "2892000122779",
-    "tikName": "Ноябрьская городская"
+    "tikName": "Ноябрьская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 137,
     "uikTvd": "489400693803",
+    "uikName": "УИК №137",
     "tikTvd": "2892000122779",
-    "tikName": "Ноябрьская городская"
+    "tikName": "Ноябрьская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 138,
     "uikTvd": "489400693804",
+    "uikName": "УИК №138",
     "tikTvd": "2892000122779",
-    "tikName": "Ноябрьская городская"
+    "tikName": "Ноябрьская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 139,
     "uikTvd": "489400693805",
+    "uikName": "УИК №139",
     "tikTvd": "2892000122779",
-    "tikName": "Ноябрьская городская"
+    "tikName": "Ноябрьская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 140,
     "uikTvd": "489400693806",
+    "uikName": "УИК №140",
     "tikTvd": "2892000122779",
-    "tikName": "Ноябрьская городская"
+    "tikName": "Ноябрьская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 141,
     "uikTvd": "489400786877",
+    "uikName": "УИК №141",
     "tikTvd": "2892000122780",
-    "tikName": "Приуральская"
+    "tikName": "Приуральская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 142,
     "uikTvd": "489400786878",
+    "uikName": "УИК №142",
     "tikTvd": "2892000122780",
-    "tikName": "Приуральская"
+    "tikName": "Приуральская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 143,
     "uikTvd": "489400786879",
+    "uikName": "УИК №143",
     "tikTvd": "2892000122780",
-    "tikName": "Приуральская"
+    "tikName": "Приуральская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 144,
     "uikTvd": "489400786880",
+    "uikName": "УИК №144",
     "tikTvd": "2892000122780",
-    "tikName": "Приуральская"
+    "tikName": "Приуральская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 145,
     "uikTvd": "489400786881",
+    "uikName": "УИК №145",
     "tikTvd": "2892000122780",
-    "tikName": "Приуральская"
+    "tikName": "Приуральская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 146,
     "uikTvd": "489400786882",
+    "uikName": "УИК №146",
     "tikTvd": "2892000122780",
-    "tikName": "Приуральская"
+    "tikName": "Приуральская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 147,
     "uikTvd": "4894008107897",
+    "uikName": "УИК №147",
     "tikTvd": "2892000122781",
-    "tikName": "Пуровская"
+    "tikName": "Пуровская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 148,
     "uikTvd": "4894008107898",
+    "uikName": "УИК №148",
     "tikTvd": "2892000122781",
-    "tikName": "Пуровская"
+    "tikName": "Пуровская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 149,
     "uikTvd": "4894008107899",
+    "uikName": "УИК №149",
     "tikTvd": "2892000122781",
-    "tikName": "Пуровская"
+    "tikName": "Пуровская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 150,
     "uikTvd": "4894008107900",
+    "uikName": "УИК №150",
     "tikTvd": "2892000122781",
-    "tikName": "Пуровская"
+    "tikName": "Пуровская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 151,
     "uikTvd": "4894008107901",
+    "uikName": "УИК №151",
     "tikTvd": "2892000122781",
-    "tikName": "Пуровская"
+    "tikName": "Пуровская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 152,
     "uikTvd": "4894008107902",
+    "uikName": "УИК №152",
     "tikTvd": "2892000122781",
-    "tikName": "Пуровская"
+    "tikName": "Пуровская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 153,
     "uikTvd": "4894008107903",
+    "uikName": "УИК №153",
     "tikTvd": "2892000122781",
-    "tikName": "Пуровская"
+    "tikName": "Пуровская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 154,
     "uikTvd": "4894008107904",
+    "uikName": "УИК №154",
     "tikTvd": "2892000122781",
-    "tikName": "Пуровская"
+    "tikName": "Пуровская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 155,
     "uikTvd": "4894008107905",
+    "uikName": "УИК №155",
     "tikTvd": "2892000122781",
-    "tikName": "Пуровская"
+    "tikName": "Пуровская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 156,
     "uikTvd": "4894008107906",
+    "uikName": "УИК №156",
     "tikTvd": "2892000122781",
-    "tikName": "Пуровская"
+    "tikName": "Пуровская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 157,
     "uikTvd": "4894008107907",
+    "uikName": "УИК №157",
     "tikTvd": "2892000122781",
-    "tikName": "Пуровская"
+    "tikName": "Пуровская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 158,
     "uikTvd": "4894008107908",
+    "uikName": "УИК №158",
     "tikTvd": "2892000122781",
-    "tikName": "Пуровская"
+    "tikName": "Пуровская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 159,
     "uikTvd": "4894008107909",
+    "uikName": "УИК №159",
     "tikTvd": "2892000122781",
-    "tikName": "Пуровская"
+    "tikName": "Пуровская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 160,
     "uikTvd": "4894008107910",
+    "uikName": "УИК №160",
     "tikTvd": "2892000122781",
-    "tikName": "Пуровская"
+    "tikName": "Пуровская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 161,
     "uikTvd": "4894008107911",
+    "uikName": "УИК №161",
     "tikTvd": "2892000122781",
-    "tikName": "Пуровская"
+    "tikName": "Пуровская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 162,
     "uikTvd": "4894008107912",
+    "uikName": "УИК №162",
     "tikTvd": "2892000122781",
-    "tikName": "Пуровская"
+    "tikName": "Пуровская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 163,
     "uikTvd": "4894008107913",
+    "uikName": "УИК №163",
     "tikTvd": "2892000122781",
-    "tikName": "Пуровская"
+    "tikName": "Пуровская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 164,
     "uikTvd": "4894008107914",
+    "uikName": "УИК №164",
     "tikTvd": "2892000122781",
-    "tikName": "Пуровская"
+    "tikName": "Пуровская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 165,
     "uikTvd": "4894008107915",
+    "uikName": "УИК №165",
     "tikTvd": "2892000122781",
-    "tikName": "Пуровская"
+    "tikName": "Пуровская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 166,
     "uikTvd": "4894008107916",
+    "uikName": "УИК №166",
     "tikTvd": "2892000122781",
-    "tikName": "Пуровская"
+    "tikName": "Пуровская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 167,
     "uikTvd": "489400990469",
+    "uikName": "УИК №167",
     "tikTvd": "2892000122777",
-    "tikName": "Салехардская городская"
+    "tikName": "Салехардская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 168,
     "uikTvd": "489400990470",
+    "uikName": "УИК №168",
     "tikTvd": "2892000122777",
-    "tikName": "Салехардская городская"
+    "tikName": "Салехардская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 169,
     "uikTvd": "489400990471",
+    "uikName": "УИК №169",
     "tikTvd": "2892000122777",
-    "tikName": "Салехардская городская"
+    "tikName": "Салехардская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 170,
     "uikTvd": "489400990472",
+    "uikName": "УИК №170",
     "tikTvd": "2892000122777",
-    "tikName": "Салехардская городская"
+    "tikName": "Салехардская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 171,
     "uikTvd": "489400990473",
+    "uikName": "УИК №171",
     "tikTvd": "2892000122777",
-    "tikName": "Салехардская городская"
+    "tikName": "Салехардская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 172,
     "uikTvd": "489400990474",
+    "uikName": "УИК №172",
     "tikTvd": "2892000122777",
-    "tikName": "Салехардская городская"
+    "tikName": "Салехардская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 173,
     "uikTvd": "489400990475",
+    "uikName": "УИК №173",
     "tikTvd": "2892000122777",
-    "tikName": "Салехардская городская"
+    "tikName": "Салехардская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 174,
     "uikTvd": "489400990476",
+    "uikName": "УИК №174",
     "tikTvd": "2892000122777",
-    "tikName": "Салехардская городская"
+    "tikName": "Салехардская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 175,
     "uikTvd": "489400990477",
+    "uikName": "УИК №175",
     "tikTvd": "2892000122777",
-    "tikName": "Салехардская городская"
+    "tikName": "Салехардская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 176,
     "uikTvd": "489400990478",
+    "uikName": "УИК №176",
     "tikTvd": "2892000122777",
-    "tikName": "Салехардская городская"
+    "tikName": "Салехардская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 177,
     "uikTvd": "489400990479",
+    "uikName": "УИК №177",
     "tikTvd": "2892000122777",
-    "tikName": "Салехардская городская"
+    "tikName": "Салехардская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 178,
     "uikTvd": "489400990480",
+    "uikName": "УИК №178",
     "tikTvd": "2892000122777",
-    "tikName": "Салехардская городская"
+    "tikName": "Салехардская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 179,
     "uikTvd": "489401097187",
+    "uikName": "УИК №179",
     "tikTvd": "2892000122776",
-    "tikName": "Тазовская"
+    "tikName": "Тазовская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 180,
     "uikTvd": "489401097188",
+    "uikName": "УИК №180",
     "tikTvd": "2892000122776",
-    "tikName": "Тазовская"
+    "tikName": "Тазовская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 181,
     "uikTvd": "489401097189",
+    "uikName": "УИК №181",
     "tikTvd": "2892000122776",
-    "tikName": "Тазовская"
+    "tikName": "Тазовская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 182,
     "uikTvd": "489401097190",
+    "uikName": "УИК №182",
     "tikTvd": "2892000122776",
-    "tikName": "Тазовская"
+    "tikName": "Тазовская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 183,
     "uikTvd": "489401097191",
+    "uikName": "УИК №183",
     "tikTvd": "2892000122776",
-    "tikName": "Тазовская"
+    "tikName": "Тазовская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 184,
     "uikTvd": "489401097192",
+    "uikName": "УИК №184",
     "tikTvd": "2892000122776",
-    "tikName": "Тазовская"
+    "tikName": "Тазовская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 185,
     "uikTvd": "489401097193",
+    "uikName": "УИК №185",
     "tikTvd": "2892000122776",
-    "tikName": "Тазовская"
+    "tikName": "Тазовская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 186,
     "uikTvd": "489401097194",
+    "uikName": "УИК №186",
     "tikTvd": "2892000122776",
-    "tikName": "Тазовская"
+    "tikName": "Тазовская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 187,
     "uikTvd": "489401097195",
+    "uikName": "УИК №187",
     "tikTvd": "2892000122776",
-    "tikName": "Тазовская"
+    "tikName": "Тазовская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 188,
     "uikTvd": "4894011116569",
+    "uikName": "УИК №188",
     "tikTvd": "2892000122778",
-    "tikName": "Шурышкарская"
+    "tikName": "Шурышкарская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 189,
     "uikTvd": "4894011116570",
+    "uikName": "УИК №189",
     "tikTvd": "2892000122778",
-    "tikName": "Шурышкарская"
+    "tikName": "Шурышкарская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 190,
     "uikTvd": "4894011116571",
+    "uikName": "УИК №190",
     "tikTvd": "2892000122778",
-    "tikName": "Шурышкарская"
+    "tikName": "Шурышкарская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 191,
     "uikTvd": "4894011116572",
+    "uikName": "УИК №191",
     "tikTvd": "2892000122778",
-    "tikName": "Шурышкарская"
+    "tikName": "Шурышкарская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 192,
     "uikTvd": "4894011116573",
+    "uikName": "УИК №192",
     "tikTvd": "2892000122778",
-    "tikName": "Шурышкарская"
+    "tikName": "Шурышкарская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 193,
     "uikTvd": "4894011116574",
+    "uikName": "УИК №193",
     "tikTvd": "2892000122778",
-    "tikName": "Шурышкарская"
+    "tikName": "Шурышкарская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 194,
     "uikTvd": "4894011116575",
+    "uikName": "УИК №194",
     "tikTvd": "2892000122778",
-    "tikName": "Шурышкарская"
+    "tikName": "Шурышкарская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 195,
     "uikTvd": "4894011116576",
+    "uikName": "УИК №195",
     "tikTvd": "2892000122778",
-    "tikName": "Шурышкарская"
+    "tikName": "Шурышкарская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 196,
     "uikTvd": "489401295499",
+    "uikName": "УИК №196",
     "tikTvd": "2892000122774",
-    "tikName": "Ямальская"
+    "tikName": "Ямальская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 197,
     "uikTvd": "489401295500",
+    "uikName": "УИК №197",
     "tikTvd": "2892000122774",
-    "tikName": "Ямальская"
+    "tikName": "Ямальская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 198,
     "uikTvd": "489401295501",
+    "uikName": "УИК №198",
     "tikTvd": "2892000122774",
-    "tikName": "Ямальская"
+    "tikName": "Ямальская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 199,
     "uikTvd": "489401295502",
+    "uikName": "УИК №199",
     "tikTvd": "2892000122774",
-    "tikName": "Ямальская"
+    "tikName": "Ямальская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 200,
     "uikTvd": "489401295503",
+    "uikName": "УИК №200",
     "tikTvd": "2892000122774",
-    "tikName": "Ямальская"
+    "tikName": "Ямальская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 201,
     "uikTvd": "489401295504",
+    "uikName": "УИК №201",
     "tikTvd": "2892000122774",
-    "tikName": "Ямальская"
+    "tikName": "Ямальская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 202,
     "uikTvd": "489401295505",
+    "uikName": "УИК №202",
     "tikTvd": "2892000122774",
-    "tikName": "Ямальская"
+    "tikName": "Ямальская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": null
   }
 ] satisfies readonly UikTikRelation[];

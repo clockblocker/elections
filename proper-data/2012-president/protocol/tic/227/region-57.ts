@@ -11,6 +11,9 @@ export const president_2012_tic_227_region_57 = [
     "ballot": "presidential",
     "tikTvd": "2572000435751",
     "tikName": "Урицкая",
+    "regionCode": "57",
+    "regionTvd": "100100031793924",
+    "regionName": "Орловская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 14913,
@@ -78,6 +81,9 @@ export const president_2012_tic_227_region_57 = [
     "ballot": "presidential",
     "tikTvd": "2572000435752",
     "tikName": "Должанская",
+    "regionCode": "57",
+    "regionTvd": "100100031793924",
+    "regionName": "Орловская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9528,
@@ -150,6 +156,9 @@ export const president_2012_tic_227_region_57 = [
     "ballot": "presidential",
     "tikTvd": "2572000435753",
     "tikName": "Дмитровская",
+    "regionCode": "57",
+    "regionTvd": "100100031793924",
+    "regionName": "Орловская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 11115,
@@ -220,6 +229,9 @@ export const president_2012_tic_227_region_57 = [
     "ballot": "presidential",
     "tikTvd": "2572000435754",
     "tikName": "Верховская",
+    "regionCode": "57",
+    "regionTvd": "100100031793924",
+    "regionName": "Орловская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 15970,
@@ -291,6 +303,9 @@ export const president_2012_tic_227_region_57 = [
     "ballot": "presidential",
     "tikTvd": "2572000435755",
     "tikName": "Глазуновская",
+    "regionCode": "57",
+    "regionTvd": "100100031793924",
+    "regionName": "Орловская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 11194,
@@ -358,6 +373,9 @@ export const president_2012_tic_227_region_57 = [
     "ballot": "presidential",
     "tikTvd": "2572000435756",
     "tikName": "Болховская",
+    "regionCode": "57",
+    "regionTvd": "100100031793924",
+    "regionName": "Орловская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 15575,
@@ -428,6 +446,9 @@ export const president_2012_tic_227_region_57 = [
     "ballot": "presidential",
     "tikTvd": "2572000435757",
     "tikName": "Ливенская городская",
+    "regionCode": "57",
+    "regionTvd": "100100031793924",
+    "regionName": "Орловская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 41002,
@@ -505,6 +526,9 @@ export const president_2012_tic_227_region_57 = [
     "ballot": "presidential",
     "tikTvd": "2572000435758",
     "tikName": "Малоархангельская",
+    "regionCode": "57",
+    "regionTvd": "100100031793924",
+    "regionName": "Орловская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10309,
@@ -572,6 +596,9 @@ export const president_2012_tic_227_region_57 = [
     "ballot": "presidential",
     "tikTvd": "2572000435759",
     "tikName": "Кромская",
+    "regionCode": "57",
+    "regionTvd": "100100031793924",
+    "regionName": "Орловская область",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 17048,
@@ -652,6 +679,9 @@ export const president_2012_tic_227_region_57 = [
     "ballot": "presidential",
     "tikTvd": "2572000435760",
     "tikName": "Краснозоренская",
+    "regionCode": "57",
+    "regionTvd": "100100031793924",
+    "regionName": "Орловская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 5941,
@@ -714,6 +744,9 @@ export const president_2012_tic_227_region_57 = [
     "ballot": "presidential",
     "tikTvd": "2572000435761",
     "tikName": "Корсаковская",
+    "regionCode": "57",
+    "regionTvd": "100100031793924",
+    "regionName": "Орловская область",
     "uikCount": 10,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 3808,
@@ -771,6 +804,9 @@ export const president_2012_tic_227_region_57 = [
     "ballot": "presidential",
     "tikTvd": "2572000435762",
     "tikName": "Колпнянская",
+    "regionCode": "57",
+    "regionTvd": "100100031793924",
+    "regionName": "Орловская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 13104,
@@ -844,6 +880,9 @@ export const president_2012_tic_227_region_57 = [
     "ballot": "presidential",
     "tikTvd": "2572000435763",
     "tikName": "Залегощенская",
+    "regionCode": "57",
+    "regionTvd": "100100031793924",
+    "regionName": "Орловская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 12778,
@@ -913,6 +952,9 @@ export const president_2012_tic_227_region_57 = [
     "ballot": "presidential",
     "tikTvd": "2572000435764",
     "tikName": "Знаменская",
+    "regionCode": "57",
+    "regionTvd": "100100031793924",
+    "regionName": "Орловская область",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 4431,
@@ -971,6 +1013,9 @@ export const president_2012_tic_227_region_57 = [
     "ballot": "presidential",
     "tikTvd": "2572000435765",
     "tikName": "Орловская",
+    "regionCode": "57",
+    "regionTvd": "100100031793924",
+    "regionName": "Орловская область",
     "uikCount": 56,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 52318,
@@ -1074,6 +1119,9 @@ export const president_2012_tic_227_region_57 = [
     "ballot": "presidential",
     "tikTvd": "2572000435766",
     "tikName": "Покровская",
+    "regionCode": "57",
+    "regionTvd": "100100031793924",
+    "regionName": "Орловская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 12668,
@@ -1150,6 +1198,9 @@ export const president_2012_tic_227_region_57 = [
     "ballot": "presidential",
     "tikTvd": "2572000435767",
     "tikName": "Свердловская",
+    "regionCode": "57",
+    "regionTvd": "100100031793924",
+    "regionName": "Орловская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 13718,
@@ -1223,6 +1274,9 @@ export const president_2012_tic_227_region_57 = [
     "ballot": "presidential",
     "tikTvd": "2572000435768",
     "tikName": "Орел, Советская",
+    "regionCode": "57",
+    "regionTvd": "100100031793924",
+    "regionName": "Орловская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 70928,
@@ -1310,6 +1364,9 @@ export const president_2012_tic_227_region_57 = [
     "ballot": "presidential",
     "tikTvd": "2572000435769",
     "tikName": "Орел, Железнодорожная",
+    "regionCode": "57",
+    "regionTvd": "100100031793924",
+    "regionName": "Орловская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 55912,
@@ -1387,6 +1444,9 @@ export const president_2012_tic_227_region_57 = [
     "ballot": "presidential",
     "tikTvd": "2572000435770",
     "tikName": "Орел, Заводская",
+    "regionCode": "57",
+    "regionTvd": "100100031793924",
+    "regionName": "Орловская область",
     "uikCount": 47,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 88701,
@@ -1481,6 +1541,9 @@ export const president_2012_tic_227_region_57 = [
     "ballot": "presidential",
     "tikTvd": "2572000435771",
     "tikName": "Новосильская",
+    "regionCode": "57",
+    "regionTvd": "100100031793924",
+    "regionName": "Орловская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 7380,
@@ -1543,6 +1606,9 @@ export const president_2012_tic_227_region_57 = [
     "ballot": "presidential",
     "tikTvd": "2572000435772",
     "tikName": "Мценская",
+    "regionCode": "57",
+    "regionTvd": "100100031793924",
+    "regionName": "Орловская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 15592,
@@ -1619,6 +1685,9 @@ export const president_2012_tic_227_region_57 = [
     "ballot": "presidential",
     "tikTvd": "2572000435773",
     "tikName": "Новодеревеньковская",
+    "regionCode": "57",
+    "regionTvd": "100100031793924",
+    "regionName": "Орловская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9660,
@@ -1688,6 +1757,9 @@ export const president_2012_tic_227_region_57 = [
     "ballot": "presidential",
     "tikTvd": "2572000435774",
     "tikName": "Мценская городская",
+    "regionCode": "57",
+    "regionTvd": "100100031793924",
+    "regionName": "Орловская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 37236,
@@ -1756,6 +1828,9 @@ export const president_2012_tic_227_region_57 = [
     "ballot": "presidential",
     "tikTvd": "2572000435775",
     "tikName": "Ливенская",
+    "regionCode": "57",
+    "regionTvd": "100100031793924",
+    "regionName": "Орловская область",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 25272,
@@ -1847,6 +1922,9 @@ export const president_2012_tic_227_region_57 = [
     "ballot": "presidential",
     "tikTvd": "2572000435776",
     "tikName": "Шаблыкинская",
+    "regionCode": "57",
+    "regionTvd": "100100031793924",
+    "regionName": "Орловская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 6698,
@@ -1909,6 +1987,9 @@ export const president_2012_tic_227_region_57 = [
     "ballot": "presidential",
     "tikTvd": "2572000435777",
     "tikName": "Хотынецкая",
+    "regionCode": "57",
+    "regionTvd": "100100031793924",
+    "regionName": "Орловская область",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 8677,
@@ -1972,6 +2053,9 @@ export const president_2012_tic_227_region_57 = [
     "ballot": "presidential",
     "tikTvd": "2572000435778",
     "tikName": "Троснянская",
+    "regionCode": "57",
+    "regionTvd": "100100031793924",
+    "regionName": "Орловская область",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 8546,
@@ -2036,6 +2120,9 @@ export const president_2012_tic_227_region_57 = [
     "ballot": "presidential",
     "tikTvd": "2572000435779",
     "tikName": "Сосковская",
+    "regionCode": "57",
+    "regionTvd": "100100031793924",
+    "regionName": "Орловская область",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 5579,
@@ -2097,6 +2184,9 @@ export const president_2012_tic_227_region_57 = [
     "ballot": "presidential",
     "tikTvd": "2572000435780",
     "tikName": "Орел, Северная ",
+    "regionCode": "57",
+    "regionTvd": "100100031793924",
+    "regionName": "Орловская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 56000,

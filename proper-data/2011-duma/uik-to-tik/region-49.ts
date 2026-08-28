@@ -7,667 +7,1222 @@ export const duma_2011_uik_to_tik_region_49 = [
   {
     "uikNumber": 1,
     "uikTvd": "4494001112393",
+    "uikName": "УИК №1",
     "tikTvd": "2492000150375",
-    "tikName": "Магаданская городская"
+    "tikName": "Магаданская городская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 2,
     "uikTvd": "4494001112394",
+    "uikName": "УИК №2",
     "tikTvd": "2492000150375",
-    "tikName": "Магаданская городская"
+    "tikName": "Магаданская городская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 3,
     "uikTvd": "4494001112395",
+    "uikName": "УИК №3",
     "tikTvd": "2492000150375",
-    "tikName": "Магаданская городская"
+    "tikName": "Магаданская городская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 4,
     "uikTvd": "4494001112396",
+    "uikName": "УИК №4",
     "tikTvd": "2492000150375",
-    "tikName": "Магаданская городская"
+    "tikName": "Магаданская городская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 5,
     "uikTvd": "4494001112397",
+    "uikName": "УИК №5",
     "tikTvd": "2492000150375",
-    "tikName": "Магаданская городская"
+    "tikName": "Магаданская городская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 6,
     "uikTvd": "4494001112398",
+    "uikName": "УИК №6",
     "tikTvd": "2492000150375",
-    "tikName": "Магаданская городская"
+    "tikName": "Магаданская городская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 7,
     "uikTvd": "4494001112399",
+    "uikName": "УИК №7",
     "tikTvd": "2492000150375",
-    "tikName": "Магаданская городская"
+    "tikName": "Магаданская городская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 8,
     "uikTvd": "4494001112400",
+    "uikName": "УИК №8",
     "tikTvd": "2492000150375",
-    "tikName": "Магаданская городская"
+    "tikName": "Магаданская городская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 9,
     "uikTvd": "4494001112401",
+    "uikName": "УИК №9",
     "tikTvd": "2492000150375",
-    "tikName": "Магаданская городская"
+    "tikName": "Магаданская городская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 10,
     "uikTvd": "4494001112402",
+    "uikName": "УИК №10",
     "tikTvd": "2492000150375",
-    "tikName": "Магаданская городская"
+    "tikName": "Магаданская городская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 11,
     "uikTvd": "4494001112403",
+    "uikName": "УИК №11",
     "tikTvd": "2492000150375",
-    "tikName": "Магаданская городская"
+    "tikName": "Магаданская городская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 12,
     "uikTvd": "4494001112404",
+    "uikName": "УИК №12",
     "tikTvd": "2492000150375",
-    "tikName": "Магаданская городская"
+    "tikName": "Магаданская городская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 13,
     "uikTvd": "4494001112405",
+    "uikName": "УИК №13",
     "tikTvd": "2492000150375",
-    "tikName": "Магаданская городская"
+    "tikName": "Магаданская городская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 14,
     "uikTvd": "4494001112406",
+    "uikName": "УИК №14",
     "tikTvd": "2492000150375",
-    "tikName": "Магаданская городская"
+    "tikName": "Магаданская городская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 15,
     "uikTvd": "4494001112407",
+    "uikName": "УИК №15",
     "tikTvd": "2492000150375",
-    "tikName": "Магаданская городская"
+    "tikName": "Магаданская городская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 16,
     "uikTvd": "4494001112408",
+    "uikName": "УИК №16",
     "tikTvd": "2492000150375",
-    "tikName": "Магаданская городская"
+    "tikName": "Магаданская городская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 17,
     "uikTvd": "4494001112409",
+    "uikName": "УИК №17",
     "tikTvd": "2492000150375",
-    "tikName": "Магаданская городская"
+    "tikName": "Магаданская городская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 18,
     "uikTvd": "4494001112410",
+    "uikName": "УИК №18",
     "tikTvd": "2492000150375",
-    "tikName": "Магаданская городская"
+    "tikName": "Магаданская городская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 19,
     "uikTvd": "4494001112411",
+    "uikName": "УИК №19",
     "tikTvd": "2492000150375",
-    "tikName": "Магаданская городская"
+    "tikName": "Магаданская городская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 20,
     "uikTvd": "4494001112412",
+    "uikName": "УИК №20",
     "tikTvd": "2492000150375",
-    "tikName": "Магаданская городская"
+    "tikName": "Магаданская городская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 21,
     "uikTvd": "4494001112413",
+    "uikName": "УИК №21",
     "tikTvd": "2492000150375",
-    "tikName": "Магаданская городская"
+    "tikName": "Магаданская городская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 22,
     "uikTvd": "4494001112414",
+    "uikName": "УИК №22",
     "tikTvd": "2492000150375",
-    "tikName": "Магаданская городская"
+    "tikName": "Магаданская городская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 23,
     "uikTvd": "4494001112415",
+    "uikName": "УИК №23",
     "tikTvd": "2492000150375",
-    "tikName": "Магаданская городская"
+    "tikName": "Магаданская городская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 24,
     "uikTvd": "4494001112416",
+    "uikName": "УИК №24",
     "tikTvd": "2492000150375",
-    "tikName": "Магаданская городская"
+    "tikName": "Магаданская городская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 25,
     "uikTvd": "4494001112417",
+    "uikName": "УИК №25",
     "tikTvd": "2492000150375",
-    "tikName": "Магаданская городская"
+    "tikName": "Магаданская городская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 26,
     "uikTvd": "4494001112418",
+    "uikName": "УИК №26",
     "tikTvd": "2492000150375",
-    "tikName": "Магаданская городская"
+    "tikName": "Магаданская городская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 27,
     "uikTvd": "4494001112419",
+    "uikName": "УИК №27",
     "tikTvd": "2492000150375",
-    "tikName": "Магаданская городская"
+    "tikName": "Магаданская городская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 28,
     "uikTvd": "4494001112420",
+    "uikName": "УИК №28",
     "tikTvd": "2492000150375",
-    "tikName": "Магаданская городская"
+    "tikName": "Магаданская городская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 29,
     "uikTvd": "4494001112421",
+    "uikName": "УИК №29",
     "tikTvd": "2492000150375",
-    "tikName": "Магаданская городская"
+    "tikName": "Магаданская городская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 30,
     "uikTvd": "4494001112422",
+    "uikName": "УИК №30",
     "tikTvd": "2492000150375",
-    "tikName": "Магаданская городская"
+    "tikName": "Магаданская городская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 31,
     "uikTvd": "4494001112423",
+    "uikName": "УИК №31",
     "tikTvd": "2492000150375",
-    "tikName": "Магаданская городская"
+    "tikName": "Магаданская городская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 32,
     "uikTvd": "4494001112424",
+    "uikName": "УИК №32",
     "tikTvd": "2492000150375",
-    "tikName": "Магаданская городская"
+    "tikName": "Магаданская городская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 33,
     "uikTvd": "4494001112425",
+    "uikName": "УИК №33",
     "tikTvd": "2492000150375",
-    "tikName": "Магаданская городская"
+    "tikName": "Магаданская городская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 34,
     "uikTvd": "4494001112426",
+    "uikName": "УИК №34",
     "tikTvd": "2492000150375",
-    "tikName": "Магаданская городская"
+    "tikName": "Магаданская городская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 35,
     "uikTvd": "4494001112427",
+    "uikName": "УИК №35",
     "tikTvd": "2492000150375",
-    "tikName": "Магаданская городская"
+    "tikName": "Магаданская городская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 36,
     "uikTvd": "4494001112428",
+    "uikName": "УИК №36",
     "tikTvd": "2492000150375",
-    "tikName": "Магаданская городская"
+    "tikName": "Магаданская городская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 37,
     "uikTvd": "4494001112429",
+    "uikName": "УИК №37",
     "tikTvd": "2492000150375",
-    "tikName": "Магаданская городская"
+    "tikName": "Магаданская городская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 38,
     "uikTvd": "4494001112430",
+    "uikName": "УИК №38",
     "tikTvd": "2492000150375",
-    "tikName": "Магаданская городская"
+    "tikName": "Магаданская городская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 39,
     "uikTvd": "4494001112431",
+    "uikName": "УИК №39",
     "tikTvd": "2492000150375",
-    "tikName": "Магаданская городская"
+    "tikName": "Магаданская городская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 40,
     "uikTvd": "449400288805",
+    "uikName": "УИК №40",
     "tikTvd": "2492000150376",
-    "tikName": "Ольская"
+    "tikName": "Ольская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 41,
     "uikTvd": "449400288806",
+    "uikName": "УИК №41",
     "tikTvd": "2492000150376",
-    "tikName": "Ольская"
+    "tikName": "Ольская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 42,
     "uikTvd": "449400288807",
+    "uikName": "УИК №42",
     "tikTvd": "2492000150376",
-    "tikName": "Ольская"
+    "tikName": "Ольская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 43,
     "uikTvd": "449400288808",
+    "uikName": "УИК №43",
     "tikTvd": "2492000150376",
-    "tikName": "Ольская"
+    "tikName": "Ольская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 44,
     "uikTvd": "449400288809",
+    "uikName": "УИК №44",
     "tikTvd": "2492000150376",
-    "tikName": "Ольская"
+    "tikName": "Ольская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 45,
     "uikTvd": "449400288812",
+    "uikName": "УИК №45",
     "tikTvd": "2492000150376",
-    "tikName": "Ольская"
+    "tikName": "Ольская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 46,
     "uikTvd": "449400288813",
+    "uikName": "УИК №46",
     "tikTvd": "2492000150376",
-    "tikName": "Ольская"
+    "tikName": "Ольская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 47,
     "uikTvd": "449400288814",
+    "uikName": "УИК №47",
     "tikTvd": "2492000150376",
-    "tikName": "Ольская"
+    "tikName": "Ольская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 48,
     "uikTvd": "449401080529",
+    "uikName": "УИК №48",
     "tikTvd": "2492000150384",
-    "tikName": "Арманская"
+    "tikName": "Арманская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 49,
     "uikTvd": "449401080530",
+    "uikName": "УИК №49",
     "tikTvd": "2492000150384",
-    "tikName": "Арманская"
+    "tikName": "Арманская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 50,
     "uikTvd": "449401080531",
+    "uikName": "УИК №50",
     "tikTvd": "2492000150384",
-    "tikName": "Арманская"
+    "tikName": "Арманская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 51,
     "uikTvd": "449401080532",
+    "uikName": "УИК №51",
     "tikTvd": "2492000150384",
-    "tikName": "Арманская"
+    "tikName": "Арманская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 52,
     "uikTvd": "449401080533",
+    "uikName": "УИК №52",
     "tikTvd": "2492000150384",
-    "tikName": "Арманская"
+    "tikName": "Арманская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 53,
     "uikTvd": "449400385731",
+    "uikName": "УИК №53",
     "tikTvd": "2492000150377",
-    "tikName": "Омсукчанская"
+    "tikName": "Омсукчанская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 54,
     "uikTvd": "449400385732",
+    "uikName": "УИК №54",
     "tikTvd": "2492000150377",
-    "tikName": "Омсукчанская"
+    "tikName": "Омсукчанская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 55,
     "uikTvd": "449400385733",
+    "uikName": "УИК №55",
     "tikTvd": "2492000150377",
-    "tikName": "Омсукчанская"
+    "tikName": "Омсукчанская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 56,
     "uikTvd": "449400489304",
+    "uikName": "УИК №56",
     "tikTvd": "2492000150378",
-    "tikName": "Северо-Эвенская"
+    "tikName": "Северо-Эвенская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 57,
     "uikTvd": "449400489305",
+    "uikName": "УИК №57",
     "tikTvd": "2492000150378",
-    "tikName": "Северо-Эвенская"
+    "tikName": "Северо-Эвенская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 58,
     "uikTvd": "449400489306",
+    "uikName": "УИК №58",
     "tikTvd": "2492000150378",
-    "tikName": "Северо-Эвенская"
+    "tikName": "Северо-Эвенская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 59,
     "uikTvd": "449400489307",
+    "uikName": "УИК №59",
     "tikTvd": "2492000150378",
-    "tikName": "Северо-Эвенская"
+    "tikName": "Северо-Эвенская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 60,
     "uikTvd": "449400590729",
+    "uikName": "УИК №60",
     "tikTvd": "2492000150379",
-    "tikName": "Среднеканская"
+    "tikName": "Среднеканская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 61,
     "uikTvd": "449400590730",
+    "uikName": "УИК №61",
     "tikTvd": "2492000150379",
-    "tikName": "Среднеканская"
+    "tikName": "Среднеканская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 62,
     "uikTvd": "449400590731",
+    "uikName": "УИК №62",
     "tikTvd": "2492000150379",
-    "tikName": "Среднеканская"
+    "tikName": "Среднеканская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 63,
     "uikTvd": "449400695799",
+    "uikName": "УИК №63",
     "tikTvd": "2492000150380",
-    "tikName": "Сусуманская"
+    "tikName": "Сусуманская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 64,
     "uikTvd": "449400695800",
+    "uikName": "УИК №64",
     "tikTvd": "2492000150380",
-    "tikName": "Сусуманская"
+    "tikName": "Сусуманская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 65,
     "uikTvd": "449400695801",
+    "uikName": "УИК №65",
     "tikTvd": "2492000150380",
-    "tikName": "Сусуманская"
+    "tikName": "Сусуманская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 66,
     "uikTvd": "449400695802",
+    "uikName": "УИК №66",
     "tikTvd": "2492000150380",
-    "tikName": "Сусуманская"
+    "tikName": "Сусуманская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 67,
     "uikTvd": "449400695803",
+    "uikName": "УИК №67",
     "tikTvd": "2492000150380",
-    "tikName": "Сусуманская"
+    "tikName": "Сусуманская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 68,
     "uikTvd": "449400695804",
+    "uikName": "УИК №68",
     "tikTvd": "2492000150380",
-    "tikName": "Сусуманская"
+    "tikName": "Сусуманская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 69,
     "uikTvd": "449400695805",
+    "uikName": "УИК №69",
     "tikTvd": "2492000150380",
-    "tikName": "Сусуманская"
+    "tikName": "Сусуманская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 70,
     "uikTvd": "449400695806",
+    "uikName": "УИК №70",
     "tikTvd": "2492000150380",
-    "tikName": "Сусуманская"
+    "tikName": "Сусуманская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 71,
     "uikTvd": "449400695807",
+    "uikName": "УИК №71",
     "tikTvd": "2492000150380",
-    "tikName": "Сусуманская"
+    "tikName": "Сусуманская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 72,
     "uikTvd": "449400695808",
+    "uikName": "УИК №72",
     "tikTvd": "2492000150380",
-    "tikName": "Сусуманская"
+    "tikName": "Сусуманская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 73,
     "uikTvd": "449400792363",
+    "uikName": "УИК №73",
     "tikTvd": "2492000150381",
-    "tikName": "Тенькинская"
+    "tikName": "Тенькинская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 74,
     "uikTvd": "449400792364",
+    "uikName": "УИК №74",
     "tikTvd": "2492000150381",
-    "tikName": "Тенькинская"
+    "tikName": "Тенькинская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 75,
     "uikTvd": "449400792365",
+    "uikName": "УИК №75",
     "tikTvd": "2492000150381",
-    "tikName": "Тенькинская"
+    "tikName": "Тенькинская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 76,
     "uikTvd": "449400792366",
+    "uikName": "УИК №76",
     "tikTvd": "2492000150381",
-    "tikName": "Тенькинская"
+    "tikName": "Тенькинская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 77,
     "uikTvd": "449400792367",
+    "uikName": "УИК №77",
     "tikTvd": "2492000150381",
-    "tikName": "Тенькинская"
+    "tikName": "Тенькинская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 78,
     "uikTvd": "449400792368",
+    "uikName": "УИК №78",
     "tikTvd": "2492000150381",
-    "tikName": "Тенькинская"
+    "tikName": "Тенькинская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 79,
     "uikTvd": "449400792369",
+    "uikName": "УИК №79",
     "tikTvd": "2492000150381",
-    "tikName": "Тенькинская"
+    "tikName": "Тенькинская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 80,
     "uikTvd": "449400893527",
+    "uikName": "УИК №80",
     "tikTvd": "2492000150382",
-    "tikName": "Хасынская"
+    "tikName": "Хасынская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 81,
     "uikTvd": "449400893528",
+    "uikName": "УИК №81",
     "tikTvd": "2492000150382",
-    "tikName": "Хасынская"
+    "tikName": "Хасынская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 82,
     "uikTvd": "449400893529",
+    "uikName": "УИК №82",
     "tikTvd": "2492000150382",
-    "tikName": "Хасынская"
+    "tikName": "Хасынская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 83,
     "uikTvd": "449400893530",
+    "uikName": "УИК №83",
     "tikTvd": "2492000150382",
-    "tikName": "Хасынская"
+    "tikName": "Хасынская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 84,
     "uikTvd": "449400893531",
+    "uikName": "УИК №84",
     "tikTvd": "2492000150382",
-    "tikName": "Хасынская"
+    "tikName": "Хасынская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 85,
     "uikTvd": "449400893532",
+    "uikName": "УИК №85",
     "tikTvd": "2492000150382",
-    "tikName": "Хасынская"
+    "tikName": "Хасынская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 86,
     "uikTvd": "449400893533",
+    "uikName": "УИК №86",
     "tikTvd": "2492000150382",
-    "tikName": "Хасынская"
+    "tikName": "Хасынская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 87,
     "uikTvd": "449400997827",
+    "uikName": "УИК №87",
     "tikTvd": "2492000150383",
-    "tikName": "Ягоднинская"
+    "tikName": "Ягоднинская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 88,
     "uikTvd": "449400997828",
+    "uikName": "УИК №88",
     "tikTvd": "2492000150383",
-    "tikName": "Ягоднинская"
+    "tikName": "Ягоднинская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 89,
     "uikTvd": "449400997829",
+    "uikName": "УИК №89",
     "tikTvd": "2492000150383",
-    "tikName": "Ягоднинская"
+    "tikName": "Ягоднинская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 90,
     "uikTvd": "449400997830",
+    "uikName": "УИК №90",
     "tikTvd": "2492000150383",
-    "tikName": "Ягоднинская"
+    "tikName": "Ягоднинская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 91,
     "uikTvd": "449400997831",
+    "uikName": "УИК №91",
     "tikTvd": "2492000150383",
-    "tikName": "Ягоднинская"
+    "tikName": "Ягоднинская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 92,
     "uikTvd": "449400997832",
+    "uikName": "УИК №92",
     "tikTvd": "2492000150383",
-    "tikName": "Ягоднинская"
+    "tikName": "Ягоднинская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 93,
     "uikTvd": "449400997833",
+    "uikName": "УИК №93",
     "tikTvd": "2492000150383",
-    "tikName": "Ягоднинская"
+    "tikName": "Ягоднинская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 94,
     "uikTvd": "4494001112831",
+    "uikName": "УИК №94",
     "tikTvd": "2492000150375",
-    "tikName": "Магаданская городская"
+    "tikName": "Магаданская городская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 95,
     "uikTvd": "4494001112832",
+    "uikName": "УИК №95",
     "tikTvd": "2492000150375",
-    "tikName": "Магаданская городская"
+    "tikName": "Магаданская городская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 96,
     "uikTvd": "4494001112833",
+    "uikName": "УИК №96",
     "tikTvd": "2492000150375",
-    "tikName": "Магаданская городская"
+    "tikName": "Магаданская городская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 97,
     "uikTvd": "4494001112834",
+    "uikName": "УИК №97",
     "tikTvd": "2492000150375",
-    "tikName": "Магаданская городская"
+    "tikName": "Магаданская городская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 98,
     "uikTvd": "4494001112835",
+    "uikName": "УИК №98",
     "tikTvd": "2492000150375",
-    "tikName": "Магаданская городская"
+    "tikName": "Магаданская городская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 100,
     "uikTvd": "4494001112837",
+    "uikName": "УИК №100",
     "tikTvd": "2492000150375",
-    "tikName": "Магаданская городская"
+    "tikName": "Магаданская городская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 101,
     "uikTvd": "4494001112838",
+    "uikName": "УИК №101",
     "tikTvd": "2492000150375",
-    "tikName": "Магаданская городская"
+    "tikName": "Магаданская городская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 102,
     "uikTvd": "4494001112839",
+    "uikName": "УИК №102",
     "tikTvd": "2492000150375",
-    "tikName": "Магаданская городская"
+    "tikName": "Магаданская городская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 104,
     "uikTvd": "4494001112841",
+    "uikName": "УИК №104",
     "tikTvd": "2492000150375",
-    "tikName": "Магаданская городская"
+    "tikName": "Магаданская городская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 105,
     "uikTvd": "4494001112842",
+    "uikName": "УИК №105",
     "tikTvd": "2492000150375",
-    "tikName": "Магаданская городская"
+    "tikName": "Магаданская городская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 106,
     "uikTvd": "4494001112843",
+    "uikName": "УИК №106",
     "tikTvd": "2492000150375",
-    "tikName": "Магаданская городская"
+    "tikName": "Магаданская городская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 107,
     "uikTvd": "4494001112844",
+    "uikName": "УИК №107",
     "tikTvd": "2492000150375",
-    "tikName": "Магаданская городская"
+    "tikName": "Магаданская городская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 108,
     "uikTvd": "4494001112845",
+    "uikName": "УИК №108",
     "tikTvd": "2492000150375",
-    "tikName": "Магаданская городская"
+    "tikName": "Магаданская городская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 109,
     "uikTvd": "4494001112846",
+    "uikName": "УИК №109",
     "tikTvd": "2492000150375",
-    "tikName": "Магаданская городская"
+    "tikName": "Магаданская городская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 110,
     "uikTvd": "4494001112847",
+    "uikName": "УИК №110",
     "tikTvd": "2492000150375",
-    "tikName": "Магаданская городская"
+    "tikName": "Магаданская городская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 111,
     "uikTvd": "4494001112848",
+    "uikName": "УИК №111",
     "tikTvd": "2492000150375",
-    "tikName": "Магаданская городская"
+    "tikName": "Магаданская городская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 112,
     "uikTvd": "4494001113360",
+    "uikName": "УИК №112",
     "tikTvd": "2492000150375",
-    "tikName": "Магаданская городская"
+    "tikName": "Магаданская городская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   },
   {
     "uikNumber": 113,
     "uikTvd": "4494001114536",
+    "uikName": "УИК №113",
     "tikTvd": "2492000150375",
-    "tikName": "Магаданская городская"
+    "tikName": "Магаданская городская",
+    "regionCode": "49",
+    "regionTvd": "100100028713390",
+    "regionName": "Магаданская область",
+    "district": null
   }
 ] satisfies readonly UikTikRelation[];

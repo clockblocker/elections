@@ -11,6 +11,9 @@ export const president_2024_tic_227_region_90 = [
     "ballot": "presidential",
     "tikTvd": "25920002708165",
     "tikName": "Чусовская городская",
+    "regionCode": "90",
+    "regionTvd": "100100339411275",
+    "regionName": "Пермский край",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 41831,
@@ -101,6 +104,9 @@ export const president_2024_tic_227_region_90 = [
     "ballot": "presidential",
     "tikTvd": "25920002708166",
     "tikName": "Частинская",
+    "regionCode": "90",
+    "regionTvd": "100100339411275",
+    "regionName": "Пермский край",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 8172,
@@ -158,6 +164,9 @@ export const president_2024_tic_227_region_90 = [
     "ballot": "presidential",
     "tikTvd": "25920002708167",
     "tikName": "Юсьвинская",
+    "regionCode": "90",
+    "regionTvd": "100100339411275",
+    "regionName": "Пермский край",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 12169,
@@ -222,6 +231,9 @@ export const president_2024_tic_227_region_90 = [
     "ballot": "presidential",
     "tikTvd": "25920002708168",
     "tikName": "Пермь, Дзержинская",
+    "regionCode": "90",
+    "regionTvd": "100100339411275",
+    "regionName": "Пермский край",
     "uikCount": 64,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 109188,
@@ -326,6 +338,9 @@ export const president_2024_tic_227_region_90 = [
     "ballot": "presidential",
     "tikTvd": "25920002708169",
     "tikName": "Косинская",
+    "regionCode": "90",
+    "regionTvd": "100100339411275",
+    "regionName": "Пермский край",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 4612,
@@ -379,6 +394,9 @@ export const president_2024_tic_227_region_90 = [
     "ballot": "presidential",
     "tikTvd": "25920002708170",
     "tikName": "Оханская городская",
+    "regionCode": "90",
+    "regionTvd": "100100339411275",
+    "regionName": "Пермский край",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10169,
@@ -432,6 +450,9 @@ export const president_2024_tic_227_region_90 = [
     "ballot": "presidential",
     "tikTvd": "25920002708171",
     "tikName": "Осинская городская",
+    "regionCode": "90",
+    "regionTvd": "100100339411275",
+    "regionName": "Пермский край",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 19004,
@@ -503,6 +524,9 @@ export const president_2024_tic_227_region_90 = [
     "ballot": "presidential",
     "tikTvd": "25920002708172",
     "tikName": "Пермь, Свердловская № 1",
+    "regionCode": "90",
+    "regionTvd": "100100339411275",
+    "regionName": "Пермский край",
     "uikCount": 48,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 83369,
@@ -591,6 +615,9 @@ export const president_2024_tic_227_region_90 = [
     "ballot": "presidential",
     "tikTvd": "25920002708173",
     "tikName": "Пермь, Ленинская",
+    "regionCode": "90",
+    "regionTvd": "100100339411275",
+    "regionName": "Пермский край",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 33531,
@@ -660,6 +687,9 @@ export const president_2024_tic_227_region_90 = [
     "ballot": "presidential",
     "tikTvd": "25920002708174",
     "tikName": "Чердынская городская",
+    "regionCode": "90",
+    "regionTvd": "100100339411275",
+    "regionName": "Пермский край",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 11767,
@@ -720,6 +750,9 @@ export const president_2024_tic_227_region_90 = [
     "ballot": "presidential",
     "tikTvd": "25920002708175",
     "tikName": "Большесосновская",
+    "regionCode": "90",
+    "regionTvd": "100100339411275",
+    "regionName": "Пермский край",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9257,
@@ -781,6 +814,9 @@ export const president_2024_tic_227_region_90 = [
     "ballot": "presidential",
     "tikTvd": "25920002708176",
     "tikName": "Соликамская городская",
+    "regionCode": "90",
+    "regionTvd": "100100339411275",
+    "regionName": "Пермский край",
     "uikCount": 60,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 66237,
@@ -881,6 +917,9 @@ export const president_2024_tic_227_region_90 = [
     "ballot": "presidential",
     "tikTvd": "25920002708177",
     "tikName": "Пермь, Мотовилихинская",
+    "regionCode": "90",
+    "regionTvd": "100100339411275",
+    "regionName": "Пермский край",
     "uikCount": 75,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 128248,
@@ -996,6 +1035,9 @@ export const president_2024_tic_227_region_90 = [
     "ballot": "presidential",
     "tikTvd": "25920002708178",
     "tikName": "Красновишерская городская",
+    "regionCode": "90",
+    "regionTvd": "100100339411275",
+    "regionName": "Пермский край",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 13948,
@@ -1064,6 +1106,9 @@ export const president_2024_tic_227_region_90 = [
     "ballot": "presidential",
     "tikTvd": "25920002708179",
     "tikName": "Карагайская",
+    "regionCode": "90",
+    "regionTvd": "100100339411275",
+    "regionName": "Пермский край",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 14666,
@@ -1130,6 +1175,9 @@ export const president_2024_tic_227_region_90 = [
     "ballot": "presidential",
     "tikTvd": "25920002708180",
     "tikName": "Пермь, Орджоникидзевская",
+    "regionCode": "90",
+    "regionTvd": "100100339411275",
+    "regionName": "Пермский край",
     "uikCount": 54,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 87733,
@@ -1224,6 +1272,9 @@ export const president_2024_tic_227_region_90 = [
     "ballot": "presidential",
     "tikTvd": "25920002708181",
     "tikName": "Лысьвенская городская",
+    "regionCode": "90",
+    "regionTvd": "100100339411275",
+    "regionName": "Пермский край",
     "uikCount": 53,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 52584,
@@ -1317,6 +1368,9 @@ export const president_2024_tic_227_region_90 = [
     "ballot": "presidential",
     "tikTvd": "25920002708182",
     "tikName": "Верещагинская городская",
+    "regionCode": "90",
+    "regionTvd": "100100339411275",
+    "regionName": "Пермский край",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 28001,
@@ -1392,6 +1446,9 @@ export const president_2024_tic_227_region_90 = [
     "ballot": "presidential",
     "tikTvd": "25920002708183",
     "tikName": "Еловская",
+    "regionCode": "90",
+    "regionTvd": "100100339411275",
+    "regionName": "Пермский край",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 7092,
@@ -1447,6 +1504,9 @@ export const president_2024_tic_227_region_90 = [
     "ballot": "presidential",
     "tikTvd": "25920002708184",
     "tikName": "Пермь, Индустриальная",
+    "regionCode": "90",
+    "regionTvd": "100100339411275",
+    "regionName": "Пермский край",
     "uikCount": 65,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 106453,
@@ -1552,6 +1612,9 @@ export const president_2024_tic_227_region_90 = [
     "ballot": "presidential",
     "tikTvd": "25920002708185",
     "tikName": "Пермь, Свердловская № 2",
+    "regionCode": "90",
+    "regionTvd": "100100339411275",
+    "regionName": "Пермский край",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 61300,
@@ -1635,6 +1698,9 @@ export const president_2024_tic_227_region_90 = [
     "ballot": "presidential",
     "tikTvd": "25920002708186",
     "tikName": "Пермская",
+    "regionCode": "90",
+    "regionTvd": "100100339411275",
+    "regionName": "Пермский край",
     "uikCount": 65,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 90945,
@@ -1740,6 +1806,9 @@ export const president_2024_tic_227_region_90 = [
     "ballot": "presidential",
     "tikTvd": "25920002708187",
     "tikName": "Очерская городская",
+    "regionCode": "90",
+    "regionTvd": "100100339411275",
+    "regionName": "Пермский край",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 16055,
@@ -1806,6 +1875,9 @@ export const president_2024_tic_227_region_90 = [
     "ballot": "presidential",
     "tikTvd": "25920002708188",
     "tikName": "Березниковская городская",
+    "regionCode": "90",
+    "regionTvd": "100100339411275",
+    "regionName": "Пермский край",
     "uikCount": 75,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 101854,
@@ -1921,6 +1993,9 @@ export const president_2024_tic_227_region_90 = [
     "ballot": "presidential",
     "tikTvd": "25920002708189",
     "tikName": "Кишертская",
+    "regionCode": "90",
+    "regionTvd": "100100339411275",
+    "regionName": "Пермский край",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 8469,
@@ -1982,6 +2057,9 @@ export const president_2024_tic_227_region_90 = [
     "ballot": "presidential",
     "tikTvd": "25920002708190",
     "tikName": "Нытвенская городская",
+    "regionCode": "90",
+    "regionTvd": "100100339411275",
+    "regionName": "Пермский край",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 31485,
@@ -2056,6 +2134,9 @@ export const president_2024_tic_227_region_90 = [
     "ballot": "presidential",
     "tikTvd": "25920002708191",
     "tikName": "Добрянская городская",
+    "regionCode": "90",
+    "regionTvd": "100100339411275",
+    "regionName": "Пермский край",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 38979,
@@ -2140,6 +2221,9 @@ export const president_2024_tic_227_region_90 = [
     "ballot": "presidential",
     "tikTvd": "25920002708192",
     "tikName": "Куединская",
+    "regionCode": "90",
+    "regionTvd": "100100339411275",
+    "regionName": "Пермский край",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 17863,
@@ -2211,6 +2295,9 @@ export const president_2024_tic_227_region_90 = [
     "ballot": "presidential",
     "tikTvd": "25920002708193",
     "tikName": "Пермь, Кировская",
+    "regionCode": "90",
+    "regionTvd": "100100339411275",
+    "regionName": "Пермский край",
     "uikCount": 55,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 89195,
@@ -2306,6 +2393,9 @@ export const president_2024_tic_227_region_90 = [
     "ballot": "presidential",
     "tikTvd": "25920002708194",
     "tikName": "Березовская",
+    "regionCode": "90",
+    "regionTvd": "100100339411275",
+    "regionName": "Пермский край",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10717,
@@ -2370,6 +2460,9 @@ export const president_2024_tic_227_region_90 = [
     "ballot": "presidential",
     "tikTvd": "25920002708195",
     "tikName": "Ординская",
+    "regionCode": "90",
+    "regionTvd": "100100339411275",
+    "regionName": "Пермский край",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10386,
@@ -2430,6 +2523,9 @@ export const president_2024_tic_227_region_90 = [
     "ballot": "presidential",
     "tikTvd": "25920002708196",
     "tikName": "Кунгурская",
+    "regionCode": "90",
+    "regionTvd": "100100339411275",
+    "regionName": "Пермский край",
     "uikCount": 83,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 71833,
@@ -2553,6 +2649,9 @@ export const president_2024_tic_227_region_90 = [
     "ballot": "presidential",
     "tikTvd": "25920002708197",
     "tikName": "Александровская",
+    "regionCode": "90",
+    "regionTvd": "100100339411275",
+    "regionName": "Пермский край",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 19473,
@@ -2615,6 +2714,9 @@ export const president_2024_tic_227_region_90 = [
     "ballot": "presidential",
     "tikTvd": "25920002708198",
     "tikName": "Бардымская",
+    "regionCode": "90",
+    "regionTvd": "100100339411275",
+    "regionName": "Пермский край",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 17604,
@@ -2699,6 +2801,9 @@ export const president_2024_tic_227_region_90 = [
     "ballot": "presidential",
     "tikTvd": "25920002708199",
     "tikName": "Суксунская городская",
+    "regionCode": "90",
+    "regionTvd": "100100339411275",
+    "regionName": "Пермский край",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 13616,
@@ -2762,6 +2867,9 @@ export const president_2024_tic_227_region_90 = [
     "ballot": "presidential",
     "tikTvd": "25920002708200",
     "tikName": "Кочевская",
+    "regionCode": "90",
+    "regionTvd": "100100339411275",
+    "regionName": "Пермский край",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 7447,
@@ -2823,6 +2931,9 @@ export const president_2024_tic_227_region_90 = [
     "ballot": "presidential",
     "tikTvd": "25920002708201",
     "tikName": "Гайнская",
+    "regionCode": "90",
+    "regionTvd": "100100339411275",
+    "regionName": "Пермский край",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9057,
@@ -2880,6 +2991,9 @@ export const president_2024_tic_227_region_90 = [
     "ballot": "presidential",
     "tikTvd": "25920002708202",
     "tikName": "Юрлинская",
+    "regionCode": "90",
+    "regionTvd": "100100339411275",
+    "regionName": "Пермский край",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 6232,
@@ -2937,6 +3051,9 @@ export const president_2024_tic_227_region_90 = [
     "ballot": "presidential",
     "tikTvd": "25920002708203",
     "tikName": "Ильинская городская",
+    "regionCode": "90",
+    "regionTvd": "100100339411275",
+    "regionName": "Пермский край",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 12917,
@@ -3004,6 +3121,9 @@ export const president_2024_tic_227_region_90 = [
     "ballot": "presidential",
     "tikTvd": "25920002708204",
     "tikName": "Краснокамская городская",
+    "regionCode": "90",
+    "regionTvd": "100100339411275",
+    "regionName": "Пермский край",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 48650,
@@ -3085,6 +3205,9 @@ export const president_2024_tic_227_region_90 = [
     "ballot": "presidential",
     "tikTvd": "25920002708205",
     "tikName": "Кудымкарская",
+    "regionCode": "90",
+    "regionTvd": "100100339411275",
+    "regionName": "Пермский край",
     "uikCount": 52,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 35515,
@@ -3177,6 +3300,9 @@ export const president_2024_tic_227_region_90 = [
     "ballot": "presidential",
     "tikTvd": "25920002708206",
     "tikName": "Горнозаводская городская",
+    "regionCode": "90",
+    "regionTvd": "100100339411275",
+    "regionName": "Пермский край",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 16338,
@@ -3240,6 +3366,9 @@ export const president_2024_tic_227_region_90 = [
     "ballot": "presidential",
     "tikTvd": "25920002708207",
     "tikName": "Звездная городская",
+    "regionCode": "90",
+    "regionTvd": "100100339411275",
+    "regionName": "Пермский край",
     "uikCount": 5,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 4672,
@@ -3285,6 +3414,9 @@ export const president_2024_tic_227_region_90 = [
     "ballot": "presidential",
     "tikTvd": "25920002708208",
     "tikName": "Кизеловская городская",
+    "regionCode": "90",
+    "regionTvd": "100100339411275",
+    "regionName": "Пермский край",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 14623,
@@ -3345,6 +3477,9 @@ export const president_2024_tic_227_region_90 = [
     "ballot": "presidential",
     "tikTvd": "25920002708209",
     "tikName": "Губахинская ",
+    "regionCode": "90",
+    "regionTvd": "100100339411275",
+    "regionName": "Пермский край",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 30663,
@@ -3426,6 +3561,9 @@ export const president_2024_tic_227_region_90 = [
     "ballot": "presidential",
     "tikTvd": "25920002708210",
     "tikName": "Уинская",
+    "regionCode": "90",
+    "regionTvd": "100100339411275",
+    "regionName": "Пермский край",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 7570,
@@ -3485,6 +3623,9 @@ export const president_2024_tic_227_region_90 = [
     "ballot": "presidential",
     "tikTvd": "25920002708211",
     "tikName": "Октябрьская городская",
+    "regionCode": "90",
+    "regionTvd": "100100339411275",
+    "regionName": "Пермский край",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 19505,
@@ -3564,6 +3705,9 @@ export const president_2024_tic_227_region_90 = [
     "ballot": "presidential",
     "tikTvd": "25920002708212",
     "tikName": "Чернушинская городская",
+    "regionCode": "90",
+    "regionTvd": "100100339411275",
+    "regionName": "Пермский край",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 34177,
@@ -3646,6 +3790,9 @@ export const president_2024_tic_227_region_90 = [
     "ballot": "presidential",
     "tikTvd": "25920002708213",
     "tikName": "Чайковская городская",
+    "regionCode": "90",
+    "regionTvd": "100100339411275",
+    "regionName": "Пермский край",
     "uikCount": 51,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 68491,
@@ -3737,6 +3884,9 @@ export const president_2024_tic_227_region_90 = [
     "ballot": "presidential",
     "tikTvd": "25920002708214",
     "tikName": "Сивинская",
+    "regionCode": "90",
+    "regionTvd": "100100339411275",
+    "regionName": "Пермский край",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9880,

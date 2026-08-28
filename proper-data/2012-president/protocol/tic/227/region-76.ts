@@ -11,6 +11,9 @@ export const president_2012_tic_227_region_76 = [
     "ballot": "presidential",
     "tikTvd": "2762000244673",
     "tikName": "Некрасовская",
+    "regionCode": "76",
+    "regionTvd": "100100031793875",
+    "regionName": "Ярославская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 18759,
@@ -88,6 +91,9 @@ export const president_2012_tic_227_region_76 = [
     "ballot": "presidential",
     "tikTvd": "2762000244674",
     "tikName": "Некоузская",
+    "regionCode": "76",
+    "regionTvd": "100100031793875",
+    "regionName": "Ярославская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 13851,
@@ -163,6 +169,9 @@ export const president_2012_tic_227_region_76 = [
     "ballot": "presidential",
     "tikTvd": "2762000244675",
     "tikName": "Мышкинская",
+    "regionCode": "76",
+    "regionTvd": "100100031793875",
+    "regionName": "Ярославская область",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 8718,
@@ -227,6 +236,9 @@ export const president_2012_tic_227_region_76 = [
     "ballot": "presidential",
     "tikTvd": "2762000244676",
     "tikName": "Гаврилов-Ямская",
+    "regionCode": "76",
+    "regionTvd": "100100031793875",
+    "regionName": "Ярославская область",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 21698,
@@ -301,6 +313,9 @@ export const president_2012_tic_227_region_76 = [
     "ballot": "presidential",
     "tikTvd": "2762000244677",
     "tikName": "Любимская",
+    "regionCode": "76",
+    "regionTvd": "100100031793875",
+    "regionName": "Ярославская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10313,
@@ -374,6 +389,9 @@ export const president_2012_tic_227_region_76 = [
     "ballot": "presidential",
     "tikTvd": "2762000244678",
     "tikName": "Даниловская",
+    "regionCode": "76",
+    "regionTvd": "100100031793875",
+    "regionName": "Ярославская область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 20609,
@@ -457,6 +475,9 @@ export const president_2012_tic_227_region_76 = [
     "ballot": "presidential",
     "tikTvd": "2762000244679",
     "tikName": "Большесельская",
+    "regionCode": "76",
+    "regionTvd": "100100031793875",
+    "regionName": "Ярославская область",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 8164,
@@ -518,6 +539,9 @@ export const president_2012_tic_227_region_76 = [
     "ballot": "presidential",
     "tikTvd": "2762000244680",
     "tikName": "Брейтовская",
+    "regionCode": "76",
+    "regionTvd": "100100031793875",
+    "regionName": "Ярославская область",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 6188,
@@ -582,6 +606,9 @@ export const president_2012_tic_227_region_76 = [
     "ballot": "presidential",
     "tikTvd": "2762000244681",
     "tikName": "Борисоглебская",
+    "regionCode": "76",
+    "regionTvd": "100100031793875",
+    "regionName": "Ярославская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10529,
@@ -651,6 +678,9 @@ export const president_2012_tic_227_region_76 = [
     "ballot": "presidential",
     "tikTvd": "2762000244682",
     "tikName": "Ярославль, Ленинская",
+    "regionCode": "76",
+    "regionTvd": "100100031793875",
+    "regionName": "Ярославская область",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 53424,
@@ -733,6 +763,9 @@ export const president_2012_tic_227_region_76 = [
     "ballot": "presidential",
     "tikTvd": "2762000244683",
     "tikName": "Ярославль, Красноперекопская",
+    "regionCode": "76",
+    "regionTvd": "100100031793875",
+    "regionName": "Ярославская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 53385,
@@ -808,6 +841,9 @@ export const president_2012_tic_227_region_76 = [
     "ballot": "presidential",
     "tikTvd": "2762000244684",
     "tikName": "Ярославль, Кировская",
+    "regionCode": "76",
+    "regionTvd": "100100031793875",
+    "regionName": "Ярославская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 47511,
@@ -884,6 +920,9 @@ export const president_2012_tic_227_region_76 = [
     "ballot": "presidential",
     "tikTvd": "2762000244685",
     "tikName": "Ярославль, Заволжская",
+    "regionCode": "76",
+    "regionTvd": "100100031793875",
+    "regionName": "Ярославская область",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 94407,
@@ -981,6 +1020,9 @@ export const president_2012_tic_227_region_76 = [
     "ballot": "presidential",
     "tikTvd": "2762000244686",
     "tikName": "Рыбинская",
+    "regionCode": "76",
+    "regionTvd": "100100031793875",
+    "regionName": "Ярославская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 23448,
@@ -1053,6 +1095,9 @@ export const president_2012_tic_227_region_76 = [
     "ballot": "presidential",
     "tikTvd": "2762000244687",
     "tikName": "Ярославль, Дзержинская",
+    "regionCode": "76",
+    "regionTvd": "100100031793875",
+    "regionName": "Ярославская область",
     "uikCount": 72,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 132275,
@@ -1172,6 +1217,9 @@ export const president_2012_tic_227_region_76 = [
     "ballot": "presidential",
     "tikTvd": "2762000244688",
     "tikName": "Угличская",
+    "regionCode": "76",
+    "regionTvd": "100100031793875",
+    "regionName": "Ярославская область",
     "uikCount": 51,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 39738,
@@ -1270,6 +1318,9 @@ export const president_2012_tic_227_region_76 = [
     "ballot": "presidential",
     "tikTvd": "2762000244689",
     "tikName": "Тутаевская",
+    "regionCode": "76",
+    "regionTvd": "100100031793875",
+    "regionName": "Ярославская область",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 47188,
@@ -1358,6 +1409,9 @@ export const president_2012_tic_227_region_76 = [
     "ballot": "presidential",
     "tikTvd": "2762000244690",
     "tikName": "Ростовская",
+    "regionCode": "76",
+    "regionTvd": "100100031793875",
+    "regionName": "Ярославская область",
     "uikCount": 47,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 56058,
@@ -1452,6 +1506,9 @@ export const president_2012_tic_227_region_76 = [
     "ballot": "presidential",
     "tikTvd": "2762000244691",
     "tikName": "Переславль-Залесская городская",
+    "regionCode": "76",
+    "regionTvd": "100100031793875",
+    "regionName": "Ярославская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 35651,
@@ -1520,6 +1577,9 @@ export const president_2012_tic_227_region_76 = [
     "ballot": "presidential",
     "tikTvd": "2762000244692",
     "tikName": "Пошехонская",
+    "regionCode": "76",
+    "regionTvd": "100100031793875",
+    "regionName": "Ярославская область",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 12470,
@@ -1594,6 +1654,9 @@ export const president_2012_tic_227_region_76 = [
     "ballot": "presidential",
     "tikTvd": "2762000244693",
     "tikName": "Первомайская",
+    "regionCode": "76",
+    "regionTvd": "100100031793875",
+    "regionName": "Ярославская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 8943,
@@ -1663,6 +1726,9 @@ export const president_2012_tic_227_region_76 = [
     "ballot": "presidential",
     "tikTvd": "2762000244694",
     "tikName": "Рыбинск, Пролетарская",
+    "regionCode": "76",
+    "regionTvd": "100100031793875",
+    "regionName": "Ярославская область",
     "uikCount": 58,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 86284,
@@ -1768,6 +1834,9 @@ export const president_2012_tic_227_region_76 = [
     "ballot": "presidential",
     "tikTvd": "2762000244695",
     "tikName": "Рыбинск, Волжская",
+    "regionCode": "76",
+    "regionTvd": "100100031793875",
+    "regionName": "Ярославская область",
     "uikCount": 54,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 85981,
@@ -1869,6 +1938,9 @@ export const president_2012_tic_227_region_76 = [
     "ballot": "presidential",
     "tikTvd": "2762000244696",
     "tikName": "Переславская",
+    "regionCode": "76",
+    "regionTvd": "100100031793875",
+    "regionName": "Ярославская область",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 16575,
@@ -1951,6 +2023,9 @@ export const president_2012_tic_227_region_76 = [
     "ballot": "presidential",
     "tikTvd": "2762000244697",
     "tikName": "Ярославская",
+    "regionCode": "76",
+    "regionTvd": "100100031793875",
+    "regionName": "Ярославская область",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 41927,
@@ -2036,6 +2111,9 @@ export const president_2012_tic_227_region_76 = [
     "ballot": "presidential",
     "tikTvd": "2762000244698",
     "tikName": "Ярославль, Фрунзенская",
+    "regionCode": "76",
+    "regionTvd": "100100031793875",
+    "regionName": "Ярославская область",
     "uikCount": 56,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 102854,

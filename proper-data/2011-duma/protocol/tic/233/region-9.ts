@@ -11,6 +11,9 @@ export const duma_2011_tic_233_region_9 = [
     "ballot": "party",
     "tikTvd": "2092000218871",
     "tikName": "Ногайская",
+    "regionCode": "9",
+    "regionTvd": "100100028713319",
+    "regionName": "Карачаево-Черкесская Республика",
     "uikCount": 8,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 10378,
@@ -68,6 +71,9 @@ export const duma_2011_tic_233_region_9 = [
     "ballot": "party",
     "tikTvd": "2092000218872",
     "tikName": "Абазинская",
+    "regionCode": "9",
+    "regionTvd": "100100028713319",
+    "regionName": "Карачаево-Черкесская Республика",
     "uikCount": 7,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 10716,
@@ -124,6 +130,9 @@ export const duma_2011_tic_233_region_9 = [
     "ballot": "party",
     "tikTvd": "2092000218873",
     "tikName": "Тик по г. Черкесску",
+    "regionCode": "9",
+    "regionTvd": "100100028713319",
+    "regionName": "Карачаево-Черкесская Республика",
     "uikCount": 52,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 93760,
@@ -225,6 +234,9 @@ export const duma_2011_tic_233_region_9 = [
     "ballot": "party",
     "tikTvd": "2092000218874",
     "tikName": "Хабезская",
+    "regionCode": "9",
+    "regionTvd": "100100028713319",
+    "regionName": "Карачаево-Черкесская Республика",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 19325,
@@ -290,6 +302,9 @@ export const duma_2011_tic_233_region_9 = [
     "ballot": "party",
     "tikTvd": "2092000218875",
     "tikName": "Усть-Джегутинская",
+    "regionCode": "9",
+    "regionTvd": "100100028713319",
+    "regionName": "Карачаево-Черкесская Республика",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 35356,
@@ -362,6 +377,9 @@ export const duma_2011_tic_233_region_9 = [
     "ballot": "party",
     "tikTvd": "2092000218876",
     "tikName": "Урупская",
+    "regionCode": "9",
+    "regionTvd": "100100028713319",
+    "regionName": "Карачаево-Черкесская Республика",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 13947,
@@ -426,6 +444,9 @@ export const duma_2011_tic_233_region_9 = [
     "ballot": "party",
     "tikTvd": "2092000218877",
     "tikName": "Прикубанская",
+    "regionCode": "9",
+    "regionTvd": "100100028713319",
+    "regionName": "Карачаево-Черкесская Республика",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 21695,
@@ -497,6 +518,9 @@ export const duma_2011_tic_233_region_9 = [
     "ballot": "party",
     "tikTvd": "2092000218878",
     "tikName": "Малокарачаевская",
+    "regionCode": "9",
+    "regionTvd": "100100028713319",
+    "regionName": "Карачаево-Черкесская Республика",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 27548,
@@ -563,6 +587,9 @@ export const duma_2011_tic_233_region_9 = [
     "ballot": "party",
     "tikTvd": "2092000218879",
     "tikName": "Карачаевская городская",
+    "regionCode": "9",
+    "regionTvd": "100100028713319",
+    "regionName": "Карачаево-Черкесская Республика",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 19700,
@@ -630,6 +657,9 @@ export const duma_2011_tic_233_region_9 = [
     "ballot": "party",
     "tikTvd": "2092000218880",
     "tikName": "Карачаевская",
+    "regionCode": "9",
+    "regionTvd": "100100028713319",
+    "regionName": "Карачаево-Черкесская Республика",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 19176,
@@ -695,6 +725,9 @@ export const duma_2011_tic_233_region_9 = [
     "ballot": "party",
     "tikTvd": "2092000218881",
     "tikName": "Зеленчукская",
+    "regionCode": "9",
+    "regionTvd": "100100028713319",
+    "regionName": "Карачаево-Черкесская Республика",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 38379,
@@ -782,6 +815,9 @@ export const duma_2011_tic_233_region_9 = [
     "ballot": "party",
     "tikTvd": "2092000218882",
     "tikName": "Адыге-Хабльская",
+    "regionCode": "9",
+    "regionTvd": "100100028713319",
+    "regionName": "Карачаево-Черкесская Республика",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 9499,

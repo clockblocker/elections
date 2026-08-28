@@ -11,6 +11,14 @@ export const duma_2016_tic_464_region_22 = [
     "ballot": "single-member",
     "tikTvd": "22220001272327",
     "tikName": "Чарышская",
+    "regionCode": "22",
+    "regionTvd": "100100067795911",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100067795912",
+      "oikName": "Алтайский край – Барнаульский"
+    },
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 10048,
@@ -81,6 +89,14 @@ export const duma_2016_tic_464_region_22 = [
     "ballot": "single-member",
     "tikTvd": "22220001272328",
     "tikName": "Усть-Пристанская",
+    "regionCode": "22",
+    "regionTvd": "100100067795911",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100067795912",
+      "oikName": "Алтайский край – Барнаульский"
+    },
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 11070,
@@ -149,6 +165,14 @@ export const duma_2016_tic_464_region_22 = [
     "ballot": "single-member",
     "tikTvd": "22220001272329",
     "tikName": "Усть-Калманская",
+    "regionCode": "22",
+    "regionTvd": "100100067795911",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100067795912",
+      "oikName": "Алтайский край – Барнаульский"
+    },
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 12718,
@@ -215,6 +239,14 @@ export const duma_2016_tic_464_region_22 = [
     "ballot": "single-member",
     "tikTvd": "22220001272330",
     "tikName": "Третьяковская",
+    "regionCode": "22",
+    "regionTvd": "100100067795911",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100067795912",
+      "oikName": "Алтайский край – Барнаульский"
+    },
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 11171,
@@ -283,6 +315,14 @@ export const duma_2016_tic_464_region_22 = [
     "ballot": "single-member",
     "tikTvd": "22220001272331",
     "tikName": "Топчихинская",
+    "regionCode": "22",
+    "regionTvd": "100100067795911",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100067795912",
+      "oikName": "Алтайский край – Барнаульский"
+    },
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 19259,
@@ -359,6 +399,14 @@ export const duma_2016_tic_464_region_22 = [
     "ballot": "single-member",
     "tikTvd": "22220001272332",
     "tikName": "Солтонская",
+    "regionCode": "22",
+    "regionTvd": "100100067795911",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100067795912",
+      "oikName": "Алтайский край – Барнаульский"
+    },
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 6983,
@@ -424,6 +472,14 @@ export const duma_2016_tic_464_region_22 = [
     "ballot": "single-member",
     "tikTvd": "22220001272333",
     "tikName": "Солонешенская",
+    "regionCode": "22",
+    "regionTvd": "100100067795911",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100067795912",
+      "oikName": "Алтайский край – Барнаульский"
+    },
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 7896,
@@ -492,6 +548,14 @@ export const duma_2016_tic_464_region_22 = [
     "ballot": "single-member",
     "tikTvd": "22220001272334",
     "tikName": "Советская",
+    "regionCode": "22",
+    "regionTvd": "100100067795911",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100067795912",
+      "oikName": "Алтайский край – Барнаульский"
+    },
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 13125,
@@ -559,6 +623,14 @@ export const duma_2016_tic_464_region_22 = [
     "ballot": "single-member",
     "tikTvd": "22220001272335",
     "tikName": "Смоленская",
+    "regionCode": "22",
+    "regionTvd": "100100067795911",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100067795912",
+      "oikName": "Алтайский край – Барнаульский"
+    },
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 20254,
@@ -633,6 +705,14 @@ export const duma_2016_tic_464_region_22 = [
     "ballot": "single-member",
     "tikTvd": "22220001272336",
     "tikName": "Петропавловская",
+    "regionCode": "22",
+    "regionTvd": "100100067795911",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100067795912",
+      "oikName": "Алтайский край – Барнаульский"
+    },
     "uikCount": 10,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 9926,
@@ -692,6 +772,14 @@ export const duma_2016_tic_464_region_22 = [
     "ballot": "single-member",
     "tikTvd": "22220001272337",
     "tikName": "Локтевская",
+    "regionCode": "22",
+    "regionTvd": "100100067795911",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100067795912",
+      "oikName": "Алтайский край – Барнаульский"
+    },
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 21589,
@@ -766,6 +854,14 @@ export const duma_2016_tic_464_region_22 = [
     "ballot": "single-member",
     "tikTvd": "22220001272338",
     "tikName": "Курьинская",
+    "regionCode": "22",
+    "regionTvd": "100100067795911",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100067795912",
+      "oikName": "Алтайский край – Барнаульский"
+    },
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 8914,
@@ -830,6 +926,14 @@ export const duma_2016_tic_464_region_22 = [
     "ballot": "single-member",
     "tikTvd": "22220001272339",
     "tikName": "Краснощековская",
+    "regionCode": "22",
+    "regionTvd": "100100067795911",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100067795912",
+      "oikName": "Алтайский край – Барнаульский"
+    },
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 14817,
@@ -898,6 +1002,14 @@ export const duma_2016_tic_464_region_22 = [
     "ballot": "single-member",
     "tikTvd": "22220001272340",
     "tikName": "Красногорская",
+    "regionCode": "22",
+    "regionTvd": "100100067795911",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100067795912",
+      "oikName": "Алтайский край – Барнаульский"
+    },
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 12665,
@@ -976,6 +1088,14 @@ export const duma_2016_tic_464_region_22 = [
     "ballot": "single-member",
     "tikTvd": "22220001272341",
     "tikName": "Калманская",
+    "regionCode": "22",
+    "regionTvd": "100100067795911",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100067795912",
+      "oikName": "Алтайский край – Барнаульский"
+    },
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 11747,
@@ -1046,6 +1166,14 @@ export const duma_2016_tic_464_region_22 = [
     "ballot": "single-member",
     "tikTvd": "22220001272342",
     "tikName": "Змеиногорская",
+    "regionCode": "22",
+    "regionTvd": "100100067795911",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100067795912",
+      "oikName": "Алтайский край – Барнаульский"
+    },
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 17076,
@@ -1122,6 +1250,14 @@ export const duma_2016_tic_464_region_22 = [
     "ballot": "single-member",
     "tikTvd": "22220001272343",
     "tikName": "Быстроистокская",
+    "regionCode": "22",
+    "regionTvd": "100100067795911",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100067795912",
+      "oikName": "Алтайский край – Барнаульский"
+    },
     "uikCount": 10,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 7969,
@@ -1181,6 +1317,14 @@ export const duma_2016_tic_464_region_22 = [
     "ballot": "single-member",
     "tikTvd": "22220001272344",
     "tikName": "Бийская",
+    "regionCode": "22",
+    "regionTvd": "100100067795911",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100067795912",
+      "oikName": "Алтайский край – Барнаульский"
+    },
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 28099,
@@ -1261,6 +1405,14 @@ export const duma_2016_tic_464_region_22 = [
     "ballot": "single-member",
     "tikTvd": "22220001272345",
     "tikName": "Белокурихинская городская",
+    "regionCode": "22",
+    "regionTvd": "100100067795911",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100067795912",
+      "oikName": "Алтайский край – Барнаульский"
+    },
     "uikCount": 12,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 12315,
@@ -1322,6 +1474,14 @@ export const duma_2016_tic_464_region_22 = [
     "ballot": "single-member",
     "tikTvd": "22220001272346",
     "tikName": "Барнаул, Центральная",
+    "regionCode": "22",
+    "regionTvd": "100100067795911",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100067795912",
+      "oikName": "Алтайский край – Барнаульский"
+    },
     "uikCount": 65,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 101255,
@@ -1436,6 +1596,14 @@ export const duma_2016_tic_464_region_22 = [
     "ballot": "single-member",
     "tikTvd": "22220001272347",
     "tikName": "Барнаул, Железнодорожная",
+    "regionCode": "22",
+    "regionTvd": "100100067795911",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100067795912",
+      "oikName": "Алтайский край – Барнаульский"
+    },
     "uikCount": 44,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 78634,
@@ -1529,6 +1697,14 @@ export const duma_2016_tic_464_region_22 = [
     "ballot": "single-member",
     "tikTvd": "22220001272348",
     "tikName": "Алтайская",
+    "regionCode": "22",
+    "regionTvd": "100100067795911",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 39,
+      "oikTvd": "100100067795912",
+      "oikName": "Алтайский край – Барнаульский"
+    },
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 20240,
@@ -1601,6 +1777,14 @@ export const duma_2016_tic_464_region_22 = [
     "ballot": "single-member",
     "tikTvd": "22220001272349",
     "tikName": "Шипуновская",
+    "regionCode": "22",
+    "regionTvd": "100100067795911",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 40,
+      "oikTvd": "100100067795913",
+      "oikName": "Алтайский край – Рубцовский"
+    },
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 24743,
@@ -1688,6 +1872,14 @@ export const duma_2016_tic_464_region_22 = [
     "ballot": "single-member",
     "tikTvd": "22220001272350",
     "tikName": "Угловская",
+    "regionCode": "22",
+    "regionTvd": "100100067795911",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 40,
+      "oikTvd": "100100067795913",
+      "oikName": "Алтайский край – Рубцовский"
+    },
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 10406,
@@ -1760,6 +1952,14 @@ export const duma_2016_tic_464_region_22 = [
     "ballot": "single-member",
     "tikTvd": "22220001272351",
     "tikName": "Рубцовская городская",
+    "regionCode": "22",
+    "regionTvd": "100100067795911",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 40,
+      "oikTvd": "100100067795913",
+      "oikName": "Алтайский край – Рубцовский"
+    },
     "uikCount": 58,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 105051,
@@ -1869,6 +2069,14 @@ export const duma_2016_tic_464_region_22 = [
     "ballot": "single-member",
     "tikTvd": "22220001272352",
     "tikName": "Рубцовская",
+    "regionCode": "22",
+    "regionTvd": "100100067795911",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 40,
+      "oikTvd": "100100067795913",
+      "oikName": "Алтайский край – Рубцовский"
+    },
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 19343,
@@ -1947,6 +2155,14 @@ export const duma_2016_tic_464_region_22 = [
     "ballot": "single-member",
     "tikTvd": "22220001272353",
     "tikName": "Романовская",
+    "regionCode": "22",
+    "regionTvd": "100100067795911",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 40,
+      "oikTvd": "100100067795913",
+      "oikName": "Алтайский край – Рубцовский"
+    },
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 10808,
@@ -2013,6 +2229,14 @@ export const duma_2016_tic_464_region_22 = [
     "ballot": "single-member",
     "tikTvd": "22220001272354",
     "tikName": "Ребрихинская",
+    "regionCode": "22",
+    "regionTvd": "100100067795911",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 40,
+      "oikTvd": "100100067795913",
+      "oikName": "Алтайский край – Рубцовский"
+    },
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 19590,
@@ -2089,6 +2313,14 @@ export const duma_2016_tic_464_region_22 = [
     "ballot": "single-member",
     "tikTvd": "22220001272355",
     "tikName": "Поспелихинская",
+    "regionCode": "22",
+    "regionTvd": "100100067795911",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 40,
+      "oikTvd": "100100067795913",
+      "oikName": "Алтайский край – Рубцовский"
+    },
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 20074,
@@ -2160,6 +2392,14 @@ export const duma_2016_tic_464_region_22 = [
     "ballot": "single-member",
     "tikTvd": "22220001272356",
     "tikName": "Павловская",
+    "regionCode": "22",
+    "regionTvd": "100100067795911",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 40,
+      "oikTvd": "100100067795913",
+      "oikName": "Алтайский край – Рубцовский"
+    },
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 33994,
@@ -2247,6 +2487,14 @@ export const duma_2016_tic_464_region_22 = [
     "ballot": "single-member",
     "tikTvd": "22220001272357",
     "tikName": "Новичихинская",
+    "regionCode": "22",
+    "regionTvd": "100100067795911",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 40,
+      "oikTvd": "100100067795913",
+      "oikName": "Алтайский край – Рубцовский"
+    },
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 8135,
@@ -2314,6 +2562,14 @@ export const duma_2016_tic_464_region_22 = [
     "ballot": "single-member",
     "tikTvd": "22220001272358",
     "tikName": "Мамонтовская",
+    "regionCode": "22",
+    "regionTvd": "100100067795911",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 40,
+      "oikTvd": "100100067795913",
+      "oikName": "Алтайский край – Рубцовский"
+    },
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 19054,
@@ -2387,6 +2643,14 @@ export const duma_2016_tic_464_region_22 = [
     "ballot": "single-member",
     "tikTvd": "22220001272359",
     "tikName": "Егорьевская",
+    "regionCode": "22",
+    "regionTvd": "100100067795911",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 40,
+      "oikTvd": "100100067795913",
+      "oikName": "Алтайский край – Рубцовский"
+    },
     "uikCount": 12,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 11087,
@@ -2450,6 +2714,14 @@ export const duma_2016_tic_464_region_22 = [
     "ballot": "single-member",
     "tikTvd": "22220001272360",
     "tikName": "Волчихинская",
+    "regionCode": "22",
+    "regionTvd": "100100067795911",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 40,
+      "oikTvd": "100100067795913",
+      "oikName": "Алтайский край – Рубцовский"
+    },
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 15256,
@@ -2519,6 +2791,14 @@ export const duma_2016_tic_464_region_22 = [
     "ballot": "single-member",
     "tikTvd": "22220001272361",
     "tikName": "Барнаул, Индустриальная",
+    "regionCode": "22",
+    "regionTvd": "100100067795911",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 40,
+      "oikTvd": "100100067795913",
+      "oikName": "Алтайский край – Рубцовский"
+    },
     "uikCount": 76,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 160571,
@@ -2646,6 +2926,14 @@ export const duma_2016_tic_464_region_22 = [
     "ballot": "single-member",
     "tikTvd": "22220001272362",
     "tikName": "Алейская городская",
+    "regionCode": "22",
+    "regionTvd": "100100067795911",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 40,
+      "oikTvd": "100100067795913",
+      "oikName": "Алтайский край – Рубцовский"
+    },
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 21036,
@@ -2712,6 +3000,14 @@ export const duma_2016_tic_464_region_22 = [
     "ballot": "single-member",
     "tikTvd": "22220001272363",
     "tikName": "Алейская",
+    "regionCode": "22",
+    "regionTvd": "100100067795911",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 40,
+      "oikTvd": "100100067795913",
+      "oikName": "Алтайский край – Рубцовский"
+    },
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 13558,
@@ -2800,6 +3096,14 @@ export const duma_2016_tic_464_region_22 = [
     "ballot": "single-member",
     "tikTvd": "22220001272364",
     "tikName": "Целинная",
+    "regionCode": "22",
+    "regionTvd": "100100067795911",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 41,
+      "oikTvd": "100100067795914",
+      "oikName": "Алтайский край – Бийский"
+    },
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 13508,
@@ -2872,6 +3176,14 @@ export const duma_2016_tic_464_region_22 = [
     "ballot": "single-member",
     "tikTvd": "22220001272365",
     "tikName": "Троицкая",
+    "regionCode": "22",
+    "regionTvd": "100100067795911",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 41,
+      "oikTvd": "100100067795914",
+      "oikName": "Алтайский край – Бийский"
+    },
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 20327,
@@ -2961,6 +3273,14 @@ export const duma_2016_tic_464_region_22 = [
     "ballot": "single-member",
     "tikTvd": "22220001272366",
     "tikName": "Тогульская",
+    "regionCode": "22",
+    "regionTvd": "100100067795911",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 41,
+      "oikTvd": "100100067795914",
+      "oikName": "Алтайский край – Бийский"
+    },
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 6886,
@@ -3026,6 +3346,14 @@ export const duma_2016_tic_464_region_22 = [
     "ballot": "single-member",
     "tikTvd": "22220001272367",
     "tikName": "Сибирская городская",
+    "regionCode": "22",
+    "regionTvd": "100100067795911",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 41,
+      "oikTvd": "100100067795914",
+      "oikName": "Алтайский край – Бийский"
+    },
     "uikCount": 6,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 8284,
@@ -3083,6 +3411,14 @@ export const duma_2016_tic_464_region_22 = [
     "ballot": "single-member",
     "tikTvd": "22220001272368",
     "tikName": "Первомайская",
+    "regionCode": "22",
+    "regionTvd": "100100067795911",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 41,
+      "oikTvd": "100100067795914",
+      "oikName": "Алтайский край – Бийский"
+    },
     "uikCount": 45,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 40181,
@@ -3179,6 +3515,14 @@ export const duma_2016_tic_464_region_22 = [
     "ballot": "single-member",
     "tikTvd": "22220001272369",
     "tikName": "Новоалтайская городская",
+    "regionCode": "22",
+    "regionTvd": "100100067795911",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 41,
+      "oikTvd": "100100067795914",
+      "oikName": "Алтайский край – Бийский"
+    },
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 58141,
@@ -3260,6 +3604,14 @@ export const duma_2016_tic_464_region_22 = [
     "ballot": "single-member",
     "tikTvd": "22220001272370",
     "tikName": "Кытмановская",
+    "regionCode": "22",
+    "regionTvd": "100100067795911",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 41,
+      "oikTvd": "100100067795914",
+      "oikName": "Алтайский край – Бийский"
+    },
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 11236,
@@ -3335,6 +3687,14 @@ export const duma_2016_tic_464_region_22 = [
     "ballot": "single-member",
     "tikTvd": "22220001272371",
     "tikName": "Косихинская",
+    "regionCode": "22",
+    "regionTvd": "100100067795911",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 41,
+      "oikTvd": "100100067795914",
+      "oikName": "Алтайский край – Бийский"
+    },
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 14802,
@@ -3411,6 +3771,14 @@ export const duma_2016_tic_464_region_22 = [
     "ballot": "single-member",
     "tikTvd": "22220001272372",
     "tikName": "Зональная",
+    "regionCode": "22",
+    "regionTvd": "100100067795911",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 41,
+      "oikTvd": "100100067795914",
+      "oikName": "Алтайский край – Бийский"
+    },
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 15426,
@@ -3475,6 +3843,14 @@ export const duma_2016_tic_464_region_22 = [
     "ballot": "single-member",
     "tikTvd": "22220001272373",
     "tikName": "Заринская городская",
+    "regionCode": "22",
+    "regionTvd": "100100067795911",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 41,
+      "oikTvd": "100100067795914",
+      "oikName": "Алтайский край – Бийский"
+    },
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 37964,
@@ -3546,6 +3922,14 @@ export const duma_2016_tic_464_region_22 = [
     "ballot": "single-member",
     "tikTvd": "22220001272374",
     "tikName": "Заринская",
+    "regionCode": "22",
+    "regionTvd": "100100067795911",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 41,
+      "oikTvd": "100100067795914",
+      "oikName": "Алтайский край – Бийский"
+    },
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 14099,
@@ -3636,6 +4020,14 @@ export const duma_2016_tic_464_region_22 = [
     "ballot": "single-member",
     "tikTvd": "22220001272375",
     "tikName": "Залесовская",
+    "regionCode": "22",
+    "regionTvd": "100100067795911",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 41,
+      "oikTvd": "100100067795914",
+      "oikName": "Алтайский край – Бийский"
+    },
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 11930,
@@ -3708,6 +4100,14 @@ export const duma_2016_tic_464_region_22 = [
     "ballot": "single-member",
     "tikTvd": "22220001272376",
     "tikName": "Ельцовская",
+    "regionCode": "22",
+    "regionTvd": "100100067795911",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 41,
+      "oikTvd": "100100067795914",
+      "oikName": "Алтайский край – Бийский"
+    },
     "uikCount": 6,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 5130,
@@ -3765,6 +4165,14 @@ export const duma_2016_tic_464_region_22 = [
     "ballot": "single-member",
     "tikTvd": "22220001272377",
     "tikName": "Бийск, Приобская",
+    "regionCode": "22",
+    "regionTvd": "100100067795911",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 41,
+      "oikTvd": "100100067795914",
+      "oikName": "Алтайский край – Бийский"
+    },
     "uikCount": 47,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 85753,
@@ -3863,6 +4271,14 @@ export const duma_2016_tic_464_region_22 = [
     "ballot": "single-member",
     "tikTvd": "22220001272378",
     "tikName": "Бийск, Восточная",
+    "regionCode": "22",
+    "regionTvd": "100100067795911",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 41,
+      "oikTvd": "100100067795914",
+      "oikName": "Алтайский край – Бийский"
+    },
     "uikCount": 52,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 82808,
@@ -3966,6 +4382,14 @@ export const duma_2016_tic_464_region_22 = [
     "ballot": "single-member",
     "tikTvd": "22220001272379",
     "tikName": "Барнаул, Октябрьская",
+    "regionCode": "22",
+    "regionTvd": "100100067795911",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 41,
+      "oikTvd": "100100067795914",
+      "oikName": "Алтайский край – Бийский"
+    },
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 69557,
@@ -4054,6 +4478,14 @@ export const duma_2016_tic_464_region_22 = [
     "ballot": "single-member",
     "tikTvd": "22220001272380",
     "tikName": "Яровская городская",
+    "regionCode": "22",
+    "regionTvd": "100100067795911",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 42,
+      "oikTvd": "100100067795915",
+      "oikName": "Алтайский край – Славгородский"
+    },
     "uikCount": 6,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 13985,
@@ -4110,6 +4542,14 @@ export const duma_2016_tic_464_region_22 = [
     "ballot": "single-member",
     "tikTvd": "22220001272381",
     "tikName": "Шелаболихинская",
+    "regionCode": "22",
+    "regionTvd": "100100067795911",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 42,
+      "oikTvd": "100100067795915",
+      "oikName": "Алтайский край – Славгородский"
+    },
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 11188,
@@ -4176,6 +4616,14 @@ export const duma_2016_tic_464_region_22 = [
     "ballot": "single-member",
     "tikTvd": "22220001272382",
     "tikName": "Хабарская",
+    "regionCode": "22",
+    "regionTvd": "100100067795911",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 42,
+      "oikTvd": "100100067795915",
+      "oikName": "Алтайский край – Славгородский"
+    },
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 13518,
@@ -4247,6 +4695,14 @@ export const duma_2016_tic_464_region_22 = [
     "ballot": "single-member",
     "tikTvd": "22220001272383",
     "tikName": "Тюменцевская",
+    "regionCode": "22",
+    "regionTvd": "100100067795911",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 42,
+      "oikTvd": "100100067795915",
+      "oikName": "Алтайский край – Славгородский"
+    },
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 11689,
@@ -4317,6 +4773,14 @@ export const duma_2016_tic_464_region_22 = [
     "ballot": "single-member",
     "tikTvd": "22220001272384",
     "tikName": "Тальменская",
+    "regionCode": "22",
+    "regionTvd": "100100067795911",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 42,
+      "oikTvd": "100100067795915",
+      "oikName": "Алтайский край – Славгородский"
+    },
     "uikCount": 43,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 35661,
@@ -4410,6 +4874,14 @@ export const duma_2016_tic_464_region_22 = [
     "ballot": "single-member",
     "tikTvd": "22220001272385",
     "tikName": "Табунская",
+    "regionCode": "22",
+    "regionTvd": "100100067795911",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 42,
+      "oikTvd": "100100067795915",
+      "oikName": "Алтайский край – Славгородский"
+    },
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 7472,
@@ -4475,6 +4947,14 @@ export const duma_2016_tic_464_region_22 = [
     "ballot": "single-member",
     "tikTvd": "22220001272386",
     "tikName": "Суетская",
+    "regionCode": "22",
+    "regionTvd": "100100067795911",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 42,
+      "oikTvd": "100100067795915",
+      "oikName": "Алтайский край – Славгородский"
+    },
     "uikCount": 7,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 3845,
@@ -4532,6 +5012,14 @@ export const duma_2016_tic_464_region_22 = [
     "ballot": "single-member",
     "tikTvd": "22220001272387",
     "tikName": "Славгородская городская",
+    "regionCode": "22",
+    "regionTvd": "100100067795911",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 42,
+      "oikTvd": "100100067795915",
+      "oikName": "Алтайский край – Славгородский"
+    },
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 32314,
@@ -4611,6 +5099,14 @@ export const duma_2016_tic_464_region_22 = [
     "ballot": "single-member",
     "tikTvd": "22220001272388",
     "tikName": "Родинская",
+    "regionCode": "22",
+    "regionTvd": "100100067795911",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 42,
+      "oikTvd": "100100067795915",
+      "oikName": "Алтайский край – Славгородский"
+    },
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 16768,
@@ -4683,6 +5179,14 @@ export const duma_2016_tic_464_region_22 = [
     "ballot": "single-member",
     "tikTvd": "22220001272389",
     "tikName": "Панкрушихинская",
+    "regionCode": "22",
+    "regionTvd": "100100067795911",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 42,
+      "oikTvd": "100100067795915",
+      "oikName": "Алтайский край – Славгородский"
+    },
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 10391,
@@ -4753,6 +5257,14 @@ export const duma_2016_tic_464_region_22 = [
     "ballot": "single-member",
     "tikTvd": "22220001272390",
     "tikName": "Немецкая",
+    "regionCode": "22",
+    "regionTvd": "100100067795911",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 42,
+      "oikTvd": "100100067795915",
+      "oikName": "Алтайский край – Славгородский"
+    },
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 13232,
@@ -4817,6 +5329,14 @@ export const duma_2016_tic_464_region_22 = [
     "ballot": "single-member",
     "tikTvd": "22220001272391",
     "tikName": "Михайловская",
+    "regionCode": "22",
+    "regionTvd": "100100067795911",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 42,
+      "oikTvd": "100100067795915",
+      "oikName": "Алтайский край – Славгородский"
+    },
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 16667,
@@ -4881,6 +5401,14 @@ export const duma_2016_tic_464_region_22 = [
     "ballot": "single-member",
     "tikTvd": "22220001272392",
     "tikName": "Кулундинская",
+    "regionCode": "22",
+    "regionTvd": "100100067795911",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 42,
+      "oikTvd": "100100067795915",
+      "oikName": "Алтайский край – Славгородский"
+    },
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 17821,
@@ -4959,6 +5487,14 @@ export const duma_2016_tic_464_region_22 = [
     "ballot": "single-member",
     "tikTvd": "22220001272393",
     "tikName": "Крутихинская",
+    "regionCode": "22",
+    "regionTvd": "100100067795911",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 42,
+      "oikTvd": "100100067795915",
+      "oikName": "Алтайский край – Славгородский"
+    },
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 8991,
@@ -5023,6 +5559,14 @@ export const duma_2016_tic_464_region_22 = [
     "ballot": "single-member",
     "tikTvd": "22220001272394",
     "tikName": "Ключевская",
+    "regionCode": "22",
+    "regionTvd": "100100067795911",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 42,
+      "oikTvd": "100100067795915",
+      "oikName": "Алтайский край – Славгородский"
+    },
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 14244,
@@ -5089,6 +5633,14 @@ export const duma_2016_tic_464_region_22 = [
     "ballot": "single-member",
     "tikTvd": "22220001272395",
     "tikName": "Каменская",
+    "regionCode": "22",
+    "regionTvd": "100100067795911",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 42,
+      "oikTvd": "100100067795915",
+      "oikName": "Алтайский край – Славгородский"
+    },
     "uikCount": 51,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 41407,
@@ -5190,6 +5742,14 @@ export const duma_2016_tic_464_region_22 = [
     "ballot": "single-member",
     "tikTvd": "22220001272396",
     "tikName": "Завьяловская",
+    "regionCode": "22",
+    "regionTvd": "100100067795911",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 42,
+      "oikTvd": "100100067795915",
+      "oikName": "Алтайский край – Славгородский"
+    },
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 16265,
@@ -5255,6 +5815,14 @@ export const duma_2016_tic_464_region_22 = [
     "ballot": "single-member",
     "tikTvd": "22220001272397",
     "tikName": "Бурлинская",
+    "regionCode": "22",
+    "regionTvd": "100100067795911",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 42,
+      "oikTvd": "100100067795915",
+      "oikName": "Алтайский край – Славгородский"
+    },
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 9141,
@@ -5324,6 +5892,14 @@ export const duma_2016_tic_464_region_22 = [
     "ballot": "single-member",
     "tikTvd": "22220001272398",
     "tikName": "Благовещенская",
+    "regionCode": "22",
+    "regionTvd": "100100067795911",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 42,
+      "oikTvd": "100100067795915",
+      "oikName": "Алтайский край – Славгородский"
+    },
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 24008,
@@ -5402,6 +5978,14 @@ export const duma_2016_tic_464_region_22 = [
     "ballot": "single-member",
     "tikTvd": "22220001272399",
     "tikName": "Барнаул, Ленинская",
+    "regionCode": "22",
+    "regionTvd": "100100067795911",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 42,
+      "oikTvd": "100100067795915",
+      "oikName": "Алтайский край – Славгородский"
+    },
     "uikCount": 86,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 124632,
@@ -5538,6 +6122,14 @@ export const duma_2016_tic_464_region_22 = [
     "ballot": "single-member",
     "tikTvd": "22220001272400",
     "tikName": "Баевская",
+    "regionCode": "22",
+    "regionTvd": "100100067795911",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 42,
+      "oikTvd": "100100067795915",
+      "oikName": "Алтайский край – Славгородский"
+    },
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 8753,

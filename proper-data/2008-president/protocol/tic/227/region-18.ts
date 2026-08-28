@@ -11,6 +11,9 @@ export const president_2008_tic_227_region_18 = [
     "ballot": "presidential",
     "tikTvd": "2182000194118",
     "tikName": "Можгинская городская",
+    "regionCode": "18",
+    "regionTvd": "100100022249959",
+    "regionName": "Удмуртская Республика",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 36127,
@@ -81,6 +84,9 @@ export const president_2008_tic_227_region_18 = [
     "ballot": "presidential",
     "tikTvd": "2182000194119",
     "tikName": "Глазовская",
+    "regionCode": "18",
+    "regionTvd": "100100022249959",
+    "regionName": "Удмуртская Республика",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 15280,
@@ -150,6 +156,9 @@ export const president_2008_tic_227_region_18 = [
     "ballot": "presidential",
     "tikTvd": "2182000194120",
     "tikName": "Ярская",
+    "regionCode": "18",
+    "regionTvd": "100100022249959",
+    "regionName": "Удмуртская Республика",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 13568,
@@ -219,6 +228,9 @@ export const president_2008_tic_227_region_18 = [
     "ballot": "presidential",
     "tikTvd": "2182000194121",
     "tikName": "Якшур-Бодьинская",
+    "regionCode": "18",
+    "regionTvd": "100100022249959",
+    "regionName": "Удмуртская Республика",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 17174,
@@ -295,6 +307,9 @@ export const president_2008_tic_227_region_18 = [
     "ballot": "presidential",
     "tikTvd": "2182000194122",
     "tikName": "Воткинская городская",
+    "regionCode": "18",
+    "regionTvd": "100100022249959",
+    "regionName": "Удмуртская Республика",
     "uikCount": 51,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 78421,
@@ -393,6 +408,9 @@ export const president_2008_tic_227_region_18 = [
     "ballot": "presidential",
     "tikTvd": "2182000194123",
     "tikName": "Юкаменская",
+    "regionCode": "18",
+    "regionTvd": "100100022249959",
+    "regionName": "Удмуртская Республика",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 9160,
@@ -462,6 +480,9 @@ export const president_2008_tic_227_region_18 = [
     "ballot": "presidential",
     "tikTvd": "2182000194124",
     "tikName": "Увинская",
+    "regionCode": "18",
+    "regionTvd": "100100022249959",
+    "regionName": "Удмуртская Республика",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 31016,
@@ -549,6 +570,9 @@ export const president_2008_tic_227_region_18 = [
     "ballot": "presidential",
     "tikTvd": "2182000194125",
     "tikName": "Шарканская",
+    "regionCode": "18",
+    "regionTvd": "100100022249959",
+    "regionName": "Удмуртская Республика",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 16163,
@@ -628,6 +652,9 @@ export const president_2008_tic_227_region_18 = [
     "ballot": "presidential",
     "tikTvd": "2182000194126",
     "tikName": "Сюмсинская",
+    "regionCode": "18",
+    "regionTvd": "100100022249959",
+    "regionName": "Удмуртская Республика",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 11645,
@@ -704,6 +731,9 @@ export const president_2008_tic_227_region_18 = [
     "ballot": "presidential",
     "tikTvd": "2182000194127",
     "tikName": "Сарапульская",
+    "regionCode": "18",
+    "regionTvd": "100100022249959",
+    "regionName": "Удмуртская Республика",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 18733,
@@ -779,6 +809,9 @@ export const president_2008_tic_227_region_18 = [
     "ballot": "presidential",
     "tikTvd": "2182000194128",
     "tikName": "Селтинская",
+    "regionCode": "18",
+    "regionTvd": "100100022249959",
+    "regionName": "Удмуртская Республика",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 10275,
@@ -843,6 +876,9 @@ export const president_2008_tic_227_region_18 = [
     "ballot": "presidential",
     "tikTvd": "2182000194129",
     "tikName": "Можгинская",
+    "regionCode": "18",
+    "regionTvd": "100100022249959",
+    "regionName": "Удмуртская Республика",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 20625,
@@ -924,6 +960,9 @@ export const president_2008_tic_227_region_18 = [
     "ballot": "presidential",
     "tikTvd": "2182000194130",
     "tikName": "Малопургинская",
+    "regionCode": "18",
+    "regionTvd": "100100022249959",
+    "regionName": "Удмуртская Республика",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 24606,
@@ -1015,6 +1054,9 @@ export const president_2008_tic_227_region_18 = [
     "ballot": "presidential",
     "tikTvd": "2182000194131",
     "tikName": "Каракулинская",
+    "regionCode": "18",
+    "regionTvd": "100100022249959",
+    "regionName": "Удмуртская Республика",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 10472,
@@ -1079,6 +1121,9 @@ export const president_2008_tic_227_region_18 = [
     "ballot": "presidential",
     "tikTvd": "2182000194132",
     "tikName": "Кизнерская",
+    "regionCode": "18",
+    "regionTvd": "100100022249959",
+    "regionName": "Удмуртская Республика",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 17975,
@@ -1161,6 +1206,9 @@ export const president_2008_tic_227_region_18 = [
     "ballot": "presidential",
     "tikTvd": "2182000194133",
     "tikName": "Ижевск, Октябрьская",
+    "regionCode": "18",
+    "regionTvd": "100100022249959",
+    "regionName": "Удмуртская Республика",
     "uikCount": 62,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 111425,
@@ -1270,6 +1318,9 @@ export const president_2008_tic_227_region_18 = [
     "ballot": "presidential",
     "tikTvd": "2182000194134",
     "tikName": "Ижевск, Устиновская",
+    "regionCode": "18",
+    "regionTvd": "100100022249959",
+    "regionName": "Удмуртская Республика",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 106423,
@@ -1367,6 +1418,9 @@ export const president_2008_tic_227_region_18 = [
     "ballot": "presidential",
     "tikTvd": "2182000194135",
     "tikName": "Ижевск, Первомайская",
+    "regionCode": "18",
+    "regionTvd": "100100022249959",
+    "regionName": "Удмуртская Республика",
     "uikCount": 53,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 101742,
@@ -1467,6 +1521,9 @@ export const president_2008_tic_227_region_18 = [
     "ballot": "presidential",
     "tikTvd": "2182000194136",
     "tikName": "Камбарская",
+    "regionCode": "18",
+    "regionTvd": "100100022249959",
+    "regionName": "Удмуртская Республика",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 16745,
@@ -1532,6 +1589,9 @@ export const president_2008_tic_227_region_18 = [
     "ballot": "presidential",
     "tikTvd": "2182000194137",
     "tikName": "Завьяловская",
+    "regionCode": "18",
+    "regionTvd": "100100022249959",
+    "regionName": "Удмуртская Республика",
     "uikCount": 62,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 44831,
@@ -1641,6 +1701,9 @@ export const president_2008_tic_227_region_18 = [
     "ballot": "presidential",
     "tikTvd": "2182000194138",
     "tikName": "Ижевск, Индустриальная",
+    "regionCode": "18",
+    "regionTvd": "100100022249959",
+    "regionName": "Удмуртская Республика",
     "uikCount": 51,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 88362,
@@ -1739,6 +1802,9 @@ export const president_2008_tic_227_region_18 = [
     "ballot": "presidential",
     "tikTvd": "2182000194139",
     "tikName": "Игринская",
+    "regionCode": "18",
+    "regionTvd": "100100022249959",
+    "regionName": "Удмуртская Республика",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 32560,
@@ -1823,6 +1889,9 @@ export const president_2008_tic_227_region_18 = [
     "ballot": "presidential",
     "tikTvd": "2182000194140",
     "tikName": "Ижевск, Ленинская",
+    "regionCode": "18",
+    "regionTvd": "100100022249959",
+    "regionName": "Удмуртская Республика",
     "uikCount": 51,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 96204,
@@ -1921,6 +1990,9 @@ export const president_2008_tic_227_region_18 = [
     "ballot": "presidential",
     "tikTvd": "2182000194141",
     "tikName": "Глазовская городская",
+    "regionCode": "18",
+    "regionTvd": "100100022249959",
+    "regionName": "Удмуртская Республика",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 78214,
@@ -2012,6 +2084,9 @@ export const president_2008_tic_227_region_18 = [
     "ballot": "presidential",
     "tikTvd": "2182000194142",
     "tikName": "Граховская",
+    "regionCode": "18",
+    "regionTvd": "100100022249959",
+    "regionName": "Удмуртская Республика",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 8163,
@@ -2081,6 +2156,9 @@ export const president_2008_tic_227_region_18 = [
     "ballot": "presidential",
     "tikTvd": "2182000194143",
     "tikName": "Дебесская",
+    "regionCode": "18",
+    "regionTvd": "100100022249959",
+    "regionName": "Удмуртская Республика",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 10679,
@@ -2152,6 +2230,9 @@ export const president_2008_tic_227_region_18 = [
     "ballot": "presidential",
     "tikTvd": "2182000194144",
     "tikName": "Балезинская",
+    "regionCode": "18",
+    "regionTvd": "100100022249959",
+    "regionName": "Удмуртская Республика",
     "uikCount": 53,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 29531,
@@ -2252,6 +2333,9 @@ export const president_2008_tic_227_region_18 = [
     "ballot": "presidential",
     "tikTvd": "2182000194145",
     "tikName": "Вавожская",
+    "regionCode": "18",
+    "regionTvd": "100100022249959",
+    "regionName": "Удмуртская Республика",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 13096,
@@ -2325,6 +2409,9 @@ export const president_2008_tic_227_region_18 = [
     "ballot": "presidential",
     "tikTvd": "2182000194146",
     "tikName": "Воткинская",
+    "regionCode": "18",
+    "regionTvd": "100100022249959",
+    "regionName": "Удмуртская Республика",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 17028,
@@ -2398,6 +2485,9 @@ export const president_2008_tic_227_region_18 = [
     "ballot": "presidential",
     "tikTvd": "2182000194147",
     "tikName": "Алнашская",
+    "regionCode": "18",
+    "regionTvd": "100100022249959",
+    "regionName": "Удмуртская Республика",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 16543,
@@ -2470,6 +2560,9 @@ export const president_2008_tic_227_region_18 = [
     "ballot": "presidential",
     "tikTvd": "2182000194148",
     "tikName": "Красногорская",
+    "regionCode": "18",
+    "regionTvd": "100100022249959",
+    "regionName": "Удмуртская Республика",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 9316,
@@ -2536,6 +2629,9 @@ export const president_2008_tic_227_region_18 = [
     "ballot": "presidential",
     "tikTvd": "2182000194149",
     "tikName": "Сарапульская городская",
+    "regionCode": "18",
+    "regionTvd": "100100022249959",
+    "regionName": "Удмуртская Республика",
     "uikCount": 54,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 77960,
@@ -2637,6 +2733,9 @@ export const president_2008_tic_227_region_18 = [
     "ballot": "presidential",
     "tikTvd": "2182000194150",
     "tikName": "Кезская",
+    "regionCode": "18",
+    "regionTvd": "100100022249959",
+    "regionName": "Удмуртская Республика",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 19410,
@@ -2722,6 +2821,9 @@ export const president_2008_tic_227_region_18 = [
     "ballot": "presidential",
     "tikTvd": "2182000194151",
     "tikName": "Киясовская",
+    "regionCode": "18",
+    "regionTvd": "100100022249959",
+    "regionName": "Удмуртская Республика",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 8402,

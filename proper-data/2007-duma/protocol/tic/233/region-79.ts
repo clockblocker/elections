@@ -11,6 +11,9 @@ export const duma_2007_tic_233_region_79 = [
     "ballot": "party",
     "tikTvd": "279200092998",
     "tikName": "Биробиджанская",
+    "regionCode": "79",
+    "regionTvd": "100100021960354",
+    "regionName": "Еврейская автономная область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 9084,
@@ -84,6 +87,9 @@ export const duma_2007_tic_233_region_79 = [
     "ballot": "party",
     "tikTvd": "279200092999",
     "tikName": "Смидовичская",
+    "regionCode": "79",
+    "regionTvd": "100100021960354",
+    "regionName": "Еврейская автономная область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 19550,
@@ -159,6 +165,9 @@ export const duma_2007_tic_233_region_79 = [
     "ballot": "party",
     "tikTvd": "279200093000",
     "tikName": "Ленинская",
+    "regionCode": "79",
+    "regionTvd": "100100021960354",
+    "regionName": "Еврейская автономная область",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 15582,
@@ -240,6 +249,9 @@ export const duma_2007_tic_233_region_79 = [
     "ballot": "party",
     "tikTvd": "279200093001",
     "tikName": "Облученская",
+    "regionCode": "79",
+    "regionTvd": "100100021960354",
+    "regionName": "Еврейская автономная область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 22824,
@@ -322,6 +334,9 @@ export const duma_2007_tic_233_region_79 = [
     "ballot": "party",
     "tikTvd": "279200093002",
     "tikName": "Октябрьская",
+    "regionCode": "79",
+    "regionTvd": "100100021960354",
+    "regionName": "Еврейская автономная область",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 8403,
@@ -390,6 +405,9 @@ export const duma_2007_tic_233_region_79 = [
     "ballot": "party",
     "tikTvd": "279200093003",
     "tikName": "Биробиджанская городская",
+    "regionCode": "79",
+    "regionTvd": "100100021960354",
+    "regionName": "Еврейская автономная область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 57602,

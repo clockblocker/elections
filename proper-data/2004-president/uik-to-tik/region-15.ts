@@ -7,1897 +7,3477 @@ export const president_2004_uik_to_tik_region_15 = [
   {
     "uikNumber": 1,
     "uikTvd": "415400172104",
+    "uikName": "УИК №1",
     "tikTvd": "215200072982",
-    "tikName": "Алагирская"
+    "tikName": "Алагирская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 2,
     "uikTvd": "415400172105",
+    "uikName": "УИК №2",
     "tikTvd": "215200072982",
-    "tikName": "Алагирская"
+    "tikName": "Алагирская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 3,
     "uikTvd": "415400172106",
+    "uikName": "УИК №3",
     "tikTvd": "215200072982",
-    "tikName": "Алагирская"
+    "tikName": "Алагирская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 4,
     "uikTvd": "415400172107",
+    "uikName": "УИК №4",
     "tikTvd": "215200072982",
-    "tikName": "Алагирская"
+    "tikName": "Алагирская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 5,
     "uikTvd": "415400172108",
+    "uikName": "УИК №5",
     "tikTvd": "215200072982",
-    "tikName": "Алагирская"
+    "tikName": "Алагирская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 6,
     "uikTvd": "415400172109",
+    "uikName": "УИК №6",
     "tikTvd": "215200072982",
-    "tikName": "Алагирская"
+    "tikName": "Алагирская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 7,
     "uikTvd": "415400172110",
+    "uikName": "УИК №7",
     "tikTvd": "215200072982",
-    "tikName": "Алагирская"
+    "tikName": "Алагирская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 8,
     "uikTvd": "415400172111",
+    "uikName": "УИК №8",
     "tikTvd": "215200072982",
-    "tikName": "Алагирская"
+    "tikName": "Алагирская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 9,
     "uikTvd": "415400172112",
+    "uikName": "УИК №9",
     "tikTvd": "215200072982",
-    "tikName": "Алагирская"
+    "tikName": "Алагирская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 10,
     "uikTvd": "415400172113",
+    "uikName": "УИК №10",
     "tikTvd": "215200072982",
-    "tikName": "Алагирская"
+    "tikName": "Алагирская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 11,
     "uikTvd": "415400172114",
+    "uikName": "УИК №11",
     "tikTvd": "215200072982",
-    "tikName": "Алагирская"
+    "tikName": "Алагирская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 12,
     "uikTvd": "415400172115",
+    "uikName": "УИК №12",
     "tikTvd": "215200072982",
-    "tikName": "Алагирская"
+    "tikName": "Алагирская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 13,
     "uikTvd": "415400172116",
+    "uikName": "УИК №13",
     "tikTvd": "215200072982",
-    "tikName": "Алагирская"
+    "tikName": "Алагирская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 14,
     "uikTvd": "415400172117",
+    "uikName": "УИК №14",
     "tikTvd": "215200072982",
-    "tikName": "Алагирская"
+    "tikName": "Алагирская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 15,
     "uikTvd": "415400172118",
+    "uikName": "УИК №15",
     "tikTvd": "215200072982",
-    "tikName": "Алагирская"
+    "tikName": "Алагирская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 16,
     "uikTvd": "415400172119",
+    "uikName": "УИК №16",
     "tikTvd": "215200072982",
-    "tikName": "Алагирская"
+    "tikName": "Алагирская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 17,
     "uikTvd": "415400172120",
+    "uikName": "УИК №17",
     "tikTvd": "215200072982",
-    "tikName": "Алагирская"
+    "tikName": "Алагирская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 18,
     "uikTvd": "415400172121",
+    "uikName": "УИК №18",
     "tikTvd": "215200072982",
-    "tikName": "Алагирская"
+    "tikName": "Алагирская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 19,
     "uikTvd": "415400172122",
+    "uikName": "УИК №19",
     "tikTvd": "215200072982",
-    "tikName": "Алагирская"
+    "tikName": "Алагирская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 20,
     "uikTvd": "415400172123",
+    "uikName": "УИК №20",
     "tikTvd": "215200072982",
-    "tikName": "Алагирская"
+    "tikName": "Алагирская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 21,
     "uikTvd": "415400172124",
+    "uikName": "УИК №21",
     "tikTvd": "215200072982",
-    "tikName": "Алагирская"
+    "tikName": "Алагирская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 22,
     "uikTvd": "415400172125",
+    "uikName": "УИК №22",
     "tikTvd": "215200072982",
-    "tikName": "Алагирская"
+    "tikName": "Алагирская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 23,
     "uikTvd": "415400172126",
+    "uikName": "УИК №23",
     "tikTvd": "215200072982",
-    "tikName": "Алагирская"
+    "tikName": "Алагирская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 24,
     "uikTvd": "415400172127",
+    "uikName": "УИК №24",
     "tikTvd": "215200072982",
-    "tikName": "Алагирская"
+    "tikName": "Алагирская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 25,
     "uikTvd": "415400172128",
+    "uikName": "УИК №25",
     "tikTvd": "215200072982",
-    "tikName": "Алагирская"
+    "tikName": "Алагирская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 26,
     "uikTvd": "415400172129",
+    "uikName": "УИК №26",
     "tikTvd": "215200072982",
-    "tikName": "Алагирская"
+    "tikName": "Алагирская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 27,
     "uikTvd": "415400172130",
+    "uikName": "УИК №27",
     "tikTvd": "215200072982",
-    "tikName": "Алагирская"
+    "tikName": "Алагирская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 28,
     "uikTvd": "415400172131",
+    "uikName": "УИК №28",
     "tikTvd": "215200072982",
-    "tikName": "Алагирская"
+    "tikName": "Алагирская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 29,
     "uikTvd": "415400172132",
+    "uikName": "УИК №29",
     "tikTvd": "215200072982",
-    "tikName": "Алагирская"
+    "tikName": "Алагирская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 30,
     "uikTvd": "415400172133",
+    "uikName": "УИК №30",
     "tikTvd": "215200072982",
-    "tikName": "Алагирская"
+    "tikName": "Алагирская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 31,
     "uikTvd": "415400172134",
+    "uikName": "УИК №31",
     "tikTvd": "215200072982",
-    "tikName": "Алагирская"
+    "tikName": "Алагирская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 32,
     "uikTvd": "415400172135",
+    "uikName": "УИК №32",
     "tikTvd": "215200072982",
-    "tikName": "Алагирская"
+    "tikName": "Алагирская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 33,
     "uikTvd": "415400172136",
+    "uikName": "УИК №33",
     "tikTvd": "215200072982",
-    "tikName": "Алагирская"
+    "tikName": "Алагирская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 34,
     "uikTvd": "415400172137",
+    "uikName": "УИК №34",
     "tikTvd": "215200072982",
-    "tikName": "Алагирская"
+    "tikName": "Алагирская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 35,
     "uikTvd": "415400172138",
+    "uikName": "УИК №35",
     "tikTvd": "215200072982",
-    "tikName": "Алагирская"
+    "tikName": "Алагирская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 36,
     "uikTvd": "415400172139",
+    "uikName": "УИК №36",
     "tikTvd": "215200072982",
-    "tikName": "Алагирская"
+    "tikName": "Алагирская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 37,
     "uikTvd": "415400271236",
+    "uikName": "УИК №37",
     "tikTvd": "215200072983",
-    "tikName": "Ардонская"
+    "tikName": "Ардонская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 38,
     "uikTvd": "415400271237",
+    "uikName": "УИК №38",
     "tikTvd": "215200072983",
-    "tikName": "Ардонская"
+    "tikName": "Ардонская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 39,
     "uikTvd": "415400271238",
+    "uikName": "УИК №39",
     "tikTvd": "215200072983",
-    "tikName": "Ардонская"
+    "tikName": "Ардонская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 40,
     "uikTvd": "415400271239",
+    "uikName": "УИК №40",
     "tikTvd": "215200072983",
-    "tikName": "Ардонская"
+    "tikName": "Ардонская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 41,
     "uikTvd": "415400271240",
+    "uikName": "УИК №41",
     "tikTvd": "215200072983",
-    "tikName": "Ардонская"
+    "tikName": "Ардонская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 42,
     "uikTvd": "415400271241",
+    "uikName": "УИК №42",
     "tikTvd": "215200072983",
-    "tikName": "Ардонская"
+    "tikName": "Ардонская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 43,
     "uikTvd": "415400271242",
+    "uikName": "УИК №43",
     "tikTvd": "215200072983",
-    "tikName": "Ардонская"
+    "tikName": "Ардонская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 44,
     "uikTvd": "415400271243",
+    "uikName": "УИК №44",
     "tikTvd": "215200072983",
-    "tikName": "Ардонская"
+    "tikName": "Ардонская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 45,
     "uikTvd": "415400271244",
+    "uikName": "УИК №45",
     "tikTvd": "215200072983",
-    "tikName": "Ардонская"
+    "tikName": "Ардонская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 46,
     "uikTvd": "415400271245",
+    "uikName": "УИК №46",
     "tikTvd": "215200072983",
-    "tikName": "Ардонская"
+    "tikName": "Ардонская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 47,
     "uikTvd": "415400271246",
+    "uikName": "УИК №47",
     "tikTvd": "215200072983",
-    "tikName": "Ардонская"
+    "tikName": "Ардонская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 48,
     "uikTvd": "415400271247",
+    "uikName": "УИК №48",
     "tikTvd": "215200072983",
-    "tikName": "Ардонская"
+    "tikName": "Ардонская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 49,
     "uikTvd": "415400271248",
+    "uikName": "УИК №49",
     "tikTvd": "215200072983",
-    "tikName": "Ардонская"
+    "tikName": "Ардонская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 50,
     "uikTvd": "415400271249",
+    "uikName": "УИК №50",
     "tikTvd": "215200072983",
-    "tikName": "Ардонская"
+    "tikName": "Ардонская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 51,
     "uikTvd": "415400471097",
+    "uikName": "УИК №51",
     "tikTvd": "215200072986",
-    "tikName": "Дигорская"
+    "tikName": "Дигорская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 52,
     "uikTvd": "415400471099",
+    "uikName": "УИК №52",
     "tikTvd": "215200072986",
-    "tikName": "Дигорская"
+    "tikName": "Дигорская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 53,
     "uikTvd": "415400471100",
+    "uikName": "УИК №53",
     "tikTvd": "215200072986",
-    "tikName": "Дигорская"
+    "tikName": "Дигорская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 54,
     "uikTvd": "415400471101",
+    "uikName": "УИК №54",
     "tikTvd": "215200072986",
-    "tikName": "Дигорская"
+    "tikName": "Дигорская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 55,
     "uikTvd": "415400471102",
+    "uikName": "УИК №55",
     "tikTvd": "215200072986",
-    "tikName": "Дигорская"
+    "tikName": "Дигорская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 56,
     "uikTvd": "415400471103",
+    "uikName": "УИК №56",
     "tikTvd": "215200072986",
-    "tikName": "Дигорская"
+    "tikName": "Дигорская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 57,
     "uikTvd": "415400471104",
+    "uikName": "УИК №57",
     "tikTvd": "215200072986",
-    "tikName": "Дигорская"
+    "tikName": "Дигорская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 58,
     "uikTvd": "415400471105",
+    "uikName": "УИК №58",
     "tikTvd": "215200072986",
-    "tikName": "Дигорская"
+    "tikName": "Дигорская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 59,
     "uikTvd": "415400471106",
+    "uikName": "УИК №59",
     "tikTvd": "215200072986",
-    "tikName": "Дигорская"
+    "tikName": "Дигорская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 60,
     "uikTvd": "415400471107",
+    "uikName": "УИК №60",
     "tikTvd": "215200072986",
-    "tikName": "Дигорская"
+    "tikName": "Дигорская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 61,
     "uikTvd": "415400471108",
+    "uikName": "УИК №61",
     "tikTvd": "215200072986",
-    "tikName": "Дигорская"
+    "tikName": "Дигорская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 62,
     "uikTvd": "415400471109",
+    "uikName": "УИК №62",
     "tikTvd": "215200072986",
-    "tikName": "Дигорская"
+    "tikName": "Дигорская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 63,
     "uikTvd": "415400471110",
+    "uikName": "УИК №63",
     "tikTvd": "215200072986",
-    "tikName": "Дигорская"
+    "tikName": "Дигорская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 64,
     "uikTvd": "415400571401",
+    "uikName": "УИК №64",
     "tikTvd": "215200072987",
-    "tikName": "Ирафская"
+    "tikName": "Ирафская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 65,
     "uikTvd": "415400571402",
+    "uikName": "УИК №65",
     "tikTvd": "215200072987",
-    "tikName": "Ирафская"
+    "tikName": "Ирафская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 66,
     "uikTvd": "415400571403",
+    "uikName": "УИК №66",
     "tikTvd": "215200072987",
-    "tikName": "Ирафская"
+    "tikName": "Ирафская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 67,
     "uikTvd": "415400571404",
+    "uikName": "УИК №67",
     "tikTvd": "215200072987",
-    "tikName": "Ирафская"
+    "tikName": "Ирафская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 68,
     "uikTvd": "415400571405",
+    "uikName": "УИК №68",
     "tikTvd": "215200072987",
-    "tikName": "Ирафская"
+    "tikName": "Ирафская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 69,
     "uikTvd": "415400571406",
+    "uikName": "УИК №69",
     "tikTvd": "215200072987",
-    "tikName": "Ирафская"
+    "tikName": "Ирафская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 70,
     "uikTvd": "415400571407",
+    "uikName": "УИК №70",
     "tikTvd": "215200072987",
-    "tikName": "Ирафская"
+    "tikName": "Ирафская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 71,
     "uikTvd": "415400571408",
+    "uikName": "УИК №71",
     "tikTvd": "215200072987",
-    "tikName": "Ирафская"
+    "tikName": "Ирафская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 72,
     "uikTvd": "415400571409",
+    "uikName": "УИК №72",
     "tikTvd": "215200072987",
-    "tikName": "Ирафская"
+    "tikName": "Ирафская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 73,
     "uikTvd": "415400571410",
+    "uikName": "УИК №73",
     "tikTvd": "215200072987",
-    "tikName": "Ирафская"
+    "tikName": "Ирафская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 74,
     "uikTvd": "415400571411",
+    "uikName": "УИК №74",
     "tikTvd": "215200072987",
-    "tikName": "Ирафская"
+    "tikName": "Ирафская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 75,
     "uikTvd": "415400571412",
+    "uikName": "УИК №75",
     "tikTvd": "215200072987",
-    "tikName": "Ирафская"
+    "tikName": "Ирафская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 76,
     "uikTvd": "415400571413",
+    "uikName": "УИК №76",
     "tikTvd": "215200072987",
-    "tikName": "Ирафская"
+    "tikName": "Ирафская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 77,
     "uikTvd": "415400571414",
+    "uikName": "УИК №77",
     "tikTvd": "215200072987",
-    "tikName": "Ирафская"
+    "tikName": "Ирафская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 78,
     "uikTvd": "415400571415",
+    "uikName": "УИК №78",
     "tikTvd": "215200072987",
-    "tikName": "Ирафская"
+    "tikName": "Ирафская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 79,
     "uikTvd": "415400571416",
+    "uikName": "УИК №79",
     "tikTvd": "215200072987",
-    "tikName": "Ирафская"
+    "tikName": "Ирафская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 80,
     "uikTvd": "415400571417",
+    "uikName": "УИК №80",
     "tikTvd": "215200072987",
-    "tikName": "Ирафская"
+    "tikName": "Ирафская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 81,
     "uikTvd": "415400571418",
+    "uikName": "УИК №81",
     "tikTvd": "215200072987",
-    "tikName": "Ирафская"
+    "tikName": "Ирафская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 82,
     "uikTvd": "415400571419",
+    "uikName": "УИК №82",
     "tikTvd": "215200072987",
-    "tikName": "Ирафская"
+    "tikName": "Ирафская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 83,
     "uikTvd": "415400571420",
+    "uikName": "УИК №83",
     "tikTvd": "215200072987",
-    "tikName": "Ирафская"
+    "tikName": "Ирафская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 84,
     "uikTvd": "415400671266",
+    "uikName": "УИК №84",
     "tikTvd": "215200072988",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 85,
     "uikTvd": "415400671268",
+    "uikName": "УИК №85",
     "tikTvd": "215200072988",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 86,
     "uikTvd": "415400671269",
+    "uikName": "УИК №86",
     "tikTvd": "215200072988",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 87,
     "uikTvd": "415400671270",
+    "uikName": "УИК №87",
     "tikTvd": "215200072988",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 88,
     "uikTvd": "415400671271",
+    "uikName": "УИК №88",
     "tikTvd": "215200072988",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 89,
     "uikTvd": "415400671272",
+    "uikName": "УИК №89",
     "tikTvd": "215200072988",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 90,
     "uikTvd": "415400671273",
+    "uikName": "УИК №90",
     "tikTvd": "215200072988",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 91,
     "uikTvd": "415400671274",
+    "uikName": "УИК №91",
     "tikTvd": "215200072988",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 92,
     "uikTvd": "415400671275",
+    "uikName": "УИК №92",
     "tikTvd": "215200072988",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 93,
     "uikTvd": "415400671276",
+    "uikName": "УИК №93",
     "tikTvd": "215200072988",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 94,
     "uikTvd": "415400671277",
+    "uikName": "УИК №94",
     "tikTvd": "215200072988",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 95,
     "uikTvd": "415400671278",
+    "uikName": "УИК №95",
     "tikTvd": "215200072988",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 96,
     "uikTvd": "415400671279",
+    "uikName": "УИК №96",
     "tikTvd": "215200072988",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 97,
     "uikTvd": "415400772246",
+    "uikName": "УИК №97",
     "tikTvd": "215200072989",
-    "tikName": "Моздокская"
+    "tikName": "Моздокская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 98,
     "uikTvd": "415400772247",
+    "uikName": "УИК №98",
     "tikTvd": "215200072989",
-    "tikName": "Моздокская"
+    "tikName": "Моздокская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 99,
     "uikTvd": "415400772248",
+    "uikName": "УИК №99",
     "tikTvd": "215200072989",
-    "tikName": "Моздокская"
+    "tikName": "Моздокская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 100,
     "uikTvd": "415400772249",
+    "uikName": "УИК №100",
     "tikTvd": "215200072989",
-    "tikName": "Моздокская"
+    "tikName": "Моздокская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 101,
     "uikTvd": "415400772250",
+    "uikName": "УИК №101",
     "tikTvd": "215200072989",
-    "tikName": "Моздокская"
+    "tikName": "Моздокская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 102,
     "uikTvd": "415400772251",
+    "uikName": "УИК №102",
     "tikTvd": "215200072989",
-    "tikName": "Моздокская"
+    "tikName": "Моздокская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 103,
     "uikTvd": "415400772252",
+    "uikName": "УИК №103",
     "tikTvd": "215200072989",
-    "tikName": "Моздокская"
+    "tikName": "Моздокская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 104,
     "uikTvd": "415400772253",
+    "uikName": "УИК №104",
     "tikTvd": "215200072989",
-    "tikName": "Моздокская"
+    "tikName": "Моздокская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 105,
     "uikTvd": "415400772254",
+    "uikName": "УИК №105",
     "tikTvd": "215200072989",
-    "tikName": "Моздокская"
+    "tikName": "Моздокская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 106,
     "uikTvd": "415400772255",
+    "uikName": "УИК №106",
     "tikTvd": "215200072989",
-    "tikName": "Моздокская"
+    "tikName": "Моздокская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 107,
     "uikTvd": "415400772256",
+    "uikName": "УИК №107",
     "tikTvd": "215200072989",
-    "tikName": "Моздокская"
+    "tikName": "Моздокская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 108,
     "uikTvd": "415400772257",
+    "uikName": "УИК №108",
     "tikTvd": "215200072989",
-    "tikName": "Моздокская"
+    "tikName": "Моздокская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 109,
     "uikTvd": "415400772258",
+    "uikName": "УИК №109",
     "tikTvd": "215200072989",
-    "tikName": "Моздокская"
+    "tikName": "Моздокская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 110,
     "uikTvd": "415400772259",
+    "uikName": "УИК №110",
     "tikTvd": "215200072989",
-    "tikName": "Моздокская"
+    "tikName": "Моздокская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 111,
     "uikTvd": "415400772260",
+    "uikName": "УИК №111",
     "tikTvd": "215200072989",
-    "tikName": "Моздокская"
+    "tikName": "Моздокская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 112,
     "uikTvd": "415400772261",
+    "uikName": "УИК №112",
     "tikTvd": "215200072989",
-    "tikName": "Моздокская"
+    "tikName": "Моздокская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 113,
     "uikTvd": "415400772262",
+    "uikName": "УИК №113",
     "tikTvd": "215200072989",
-    "tikName": "Моздокская"
+    "tikName": "Моздокская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 114,
     "uikTvd": "415400772263",
+    "uikName": "УИК №114",
     "tikTvd": "215200072989",
-    "tikName": "Моздокская"
+    "tikName": "Моздокская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 115,
     "uikTvd": "415400772264",
+    "uikName": "УИК №115",
     "tikTvd": "215200072989",
-    "tikName": "Моздокская"
+    "tikName": "Моздокская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 116,
     "uikTvd": "415400772265",
+    "uikName": "УИК №116",
     "tikTvd": "215200072989",
-    "tikName": "Моздокская"
+    "tikName": "Моздокская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 117,
     "uikTvd": "415400772266",
+    "uikName": "УИК №117",
     "tikTvd": "215200072989",
-    "tikName": "Моздокская"
+    "tikName": "Моздокская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 118,
     "uikTvd": "415400772267",
+    "uikName": "УИК №118",
     "tikTvd": "215200072989",
-    "tikName": "Моздокская"
+    "tikName": "Моздокская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 119,
     "uikTvd": "415400772268",
+    "uikName": "УИК №119",
     "tikTvd": "215200072989",
-    "tikName": "Моздокская"
+    "tikName": "Моздокская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 120,
     "uikTvd": "415400772269",
+    "uikName": "УИК №120",
     "tikTvd": "215200072989",
-    "tikName": "Моздокская"
+    "tikName": "Моздокская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 121,
     "uikTvd": "415400772270",
+    "uikName": "УИК №121",
     "tikTvd": "215200072989",
-    "tikName": "Моздокская"
+    "tikName": "Моздокская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 122,
     "uikTvd": "415400772271",
+    "uikName": "УИК №122",
     "tikTvd": "215200072989",
-    "tikName": "Моздокская"
+    "tikName": "Моздокская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 123,
     "uikTvd": "415400772272",
+    "uikName": "УИК №123",
     "tikTvd": "215200072989",
-    "tikName": "Моздокская"
+    "tikName": "Моздокская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 124,
     "uikTvd": "415400772273",
+    "uikName": "УИК №124",
     "tikTvd": "215200072989",
-    "tikName": "Моздокская"
+    "tikName": "Моздокская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 125,
     "uikTvd": "415400772274",
+    "uikName": "УИК №125",
     "tikTvd": "215200072989",
-    "tikName": "Моздокская"
+    "tikName": "Моздокская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 126,
     "uikTvd": "415400772275",
+    "uikName": "УИК №126",
     "tikTvd": "215200072989",
-    "tikName": "Моздокская"
+    "tikName": "Моздокская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 127,
     "uikTvd": "415400772276",
+    "uikName": "УИК №127",
     "tikTvd": "215200072989",
-    "tikName": "Моздокская"
+    "tikName": "Моздокская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 128,
     "uikTvd": "415400772277",
+    "uikName": "УИК №128",
     "tikTvd": "215200072989",
-    "tikName": "Моздокская"
+    "tikName": "Моздокская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 129,
     "uikTvd": "415400772278",
+    "uikName": "УИК №129",
     "tikTvd": "215200072989",
-    "tikName": "Моздокская"
+    "tikName": "Моздокская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 130,
     "uikTvd": "415400772279",
+    "uikName": "УИК №130",
     "tikTvd": "215200072989",
-    "tikName": "Моздокская"
+    "tikName": "Моздокская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 131,
     "uikTvd": "415400772280",
+    "uikName": "УИК №131",
     "tikTvd": "215200072989",
-    "tikName": "Моздокская"
+    "tikName": "Моздокская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 132,
     "uikTvd": "415400772281",
+    "uikName": "УИК №132",
     "tikTvd": "215200072989",
-    "tikName": "Моздокская"
+    "tikName": "Моздокская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 133,
     "uikTvd": "415400772282",
+    "uikName": "УИК №133",
     "tikTvd": "215200072989",
-    "tikName": "Моздокская"
+    "tikName": "Моздокская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 134,
     "uikTvd": "415400772283",
+    "uikName": "УИК №134",
     "tikTvd": "215200072989",
-    "tikName": "Моздокская"
+    "tikName": "Моздокская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 135,
     "uikTvd": "415400772284",
+    "uikName": "УИК №135",
     "tikTvd": "215200072989",
-    "tikName": "Моздокская"
+    "tikName": "Моздокская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 136,
     "uikTvd": "415400772285",
+    "uikName": "УИК №136",
     "tikTvd": "215200072989",
-    "tikName": "Моздокская"
+    "tikName": "Моздокская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 137,
     "uikTvd": "415400772286",
+    "uikName": "УИК №137",
     "tikTvd": "215200072989",
-    "tikName": "Моздокская"
+    "tikName": "Моздокская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 138,
     "uikTvd": "415400772287",
+    "uikName": "УИК №138",
     "tikTvd": "215200072989",
-    "tikName": "Моздокская"
+    "tikName": "Моздокская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 139,
     "uikTvd": "415400772288",
+    "uikName": "УИК №139",
     "tikTvd": "215200072989",
-    "tikName": "Моздокская"
+    "tikName": "Моздокская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 140,
     "uikTvd": "415400871637",
+    "uikName": "УИК №140",
     "tikTvd": "215200072990",
-    "tikName": "Правобережная"
+    "tikName": "Правобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 141,
     "uikTvd": "415400871638",
+    "uikName": "УИК №141",
     "tikTvd": "215200072990",
-    "tikName": "Правобережная"
+    "tikName": "Правобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 142,
     "uikTvd": "415400871639",
+    "uikName": "УИК №142",
     "tikTvd": "215200072990",
-    "tikName": "Правобережная"
+    "tikName": "Правобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 143,
     "uikTvd": "415400871640",
+    "uikName": "УИК №143",
     "tikTvd": "215200072990",
-    "tikName": "Правобережная"
+    "tikName": "Правобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 144,
     "uikTvd": "415400871641",
+    "uikName": "УИК №144",
     "tikTvd": "215200072990",
-    "tikName": "Правобережная"
+    "tikName": "Правобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 145,
     "uikTvd": "415400871642",
+    "uikName": "УИК №145",
     "tikTvd": "215200072990",
-    "tikName": "Правобережная"
+    "tikName": "Правобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 146,
     "uikTvd": "415400871643",
+    "uikName": "УИК №146",
     "tikTvd": "215200072990",
-    "tikName": "Правобережная"
+    "tikName": "Правобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 147,
     "uikTvd": "415400871644",
+    "uikName": "УИК №147",
     "tikTvd": "215200072990",
-    "tikName": "Правобережная"
+    "tikName": "Правобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 148,
     "uikTvd": "415400871645",
+    "uikName": "УИК №148",
     "tikTvd": "215200072990",
-    "tikName": "Правобережная"
+    "tikName": "Правобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 149,
     "uikTvd": "415400871646",
+    "uikName": "УИК №149",
     "tikTvd": "215200072990",
-    "tikName": "Правобережная"
+    "tikName": "Правобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 150,
     "uikTvd": "415400871647",
+    "uikName": "УИК №150",
     "tikTvd": "215200072990",
-    "tikName": "Правобережная"
+    "tikName": "Правобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 151,
     "uikTvd": "415400871648",
+    "uikName": "УИК №151",
     "tikTvd": "215200072990",
-    "tikName": "Правобережная"
+    "tikName": "Правобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 152,
     "uikTvd": "415400871649",
+    "uikName": "УИК №152",
     "tikTvd": "215200072990",
-    "tikName": "Правобережная"
+    "tikName": "Правобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 153,
     "uikTvd": "415400871650",
+    "uikName": "УИК №153",
     "tikTvd": "215200072990",
-    "tikName": "Правобережная"
+    "tikName": "Правобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 154,
     "uikTvd": "415400871651",
+    "uikName": "УИК №154",
     "tikTvd": "215200072990",
-    "tikName": "Правобережная"
+    "tikName": "Правобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 155,
     "uikTvd": "415400871652",
+    "uikName": "УИК №155",
     "tikTvd": "215200072990",
-    "tikName": "Правобережная"
+    "tikName": "Правобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 156,
     "uikTvd": "415400871653",
+    "uikName": "УИК №156",
     "tikTvd": "215200072990",
-    "tikName": "Правобережная"
+    "tikName": "Правобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 157,
     "uikTvd": "415400871654",
+    "uikName": "УИК №157",
     "tikTvd": "215200072990",
-    "tikName": "Правобережная"
+    "tikName": "Правобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 158,
     "uikTvd": "415400871655",
+    "uikName": "УИК №158",
     "tikTvd": "215200072990",
-    "tikName": "Правобережная"
+    "tikName": "Правобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 159,
     "uikTvd": "415400871656",
+    "uikName": "УИК №159",
     "tikTvd": "215200072990",
-    "tikName": "Правобережная"
+    "tikName": "Правобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 160,
     "uikTvd": "415400972210",
+    "uikName": "УИК №160",
     "tikTvd": "215200072991",
-    "tikName": "Пригородная"
+    "tikName": "Пригородная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 161,
     "uikTvd": "415400972211",
+    "uikName": "УИК №161",
     "tikTvd": "215200072991",
-    "tikName": "Пригородная"
+    "tikName": "Пригородная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 162,
     "uikTvd": "415400972212",
+    "uikName": "УИК №162",
     "tikTvd": "215200072991",
-    "tikName": "Пригородная"
+    "tikName": "Пригородная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 163,
     "uikTvd": "415400972213",
+    "uikName": "УИК №163",
     "tikTvd": "215200072991",
-    "tikName": "Пригородная"
+    "tikName": "Пригородная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 164,
     "uikTvd": "415400972214",
+    "uikName": "УИК №164",
     "tikTvd": "215200072991",
-    "tikName": "Пригородная"
+    "tikName": "Пригородная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 165,
     "uikTvd": "415400972215",
+    "uikName": "УИК №165",
     "tikTvd": "215200072991",
-    "tikName": "Пригородная"
+    "tikName": "Пригородная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 166,
     "uikTvd": "415400972216",
+    "uikName": "УИК №166",
     "tikTvd": "215200072991",
-    "tikName": "Пригородная"
+    "tikName": "Пригородная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 167,
     "uikTvd": "415400972217",
+    "uikName": "УИК №167",
     "tikTvd": "215200072991",
-    "tikName": "Пригородная"
+    "tikName": "Пригородная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 168,
     "uikTvd": "415400972218",
+    "uikName": "УИК №168",
     "tikTvd": "215200072991",
-    "tikName": "Пригородная"
+    "tikName": "Пригородная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 169,
     "uikTvd": "415400972219",
+    "uikName": "УИК №169",
     "tikTvd": "215200072991",
-    "tikName": "Пригородная"
+    "tikName": "Пригородная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 170,
     "uikTvd": "415400972220",
+    "uikName": "УИК №170",
     "tikTvd": "215200072991",
-    "tikName": "Пригородная"
+    "tikName": "Пригородная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 171,
     "uikTvd": "415400972221",
+    "uikName": "УИК №171",
     "tikTvd": "215200072991",
-    "tikName": "Пригородная"
+    "tikName": "Пригородная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 172,
     "uikTvd": "415400972222",
+    "uikName": "УИК №172",
     "tikTvd": "215200072991",
-    "tikName": "Пригородная"
+    "tikName": "Пригородная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 173,
     "uikTvd": "415400972223",
+    "uikName": "УИК №173",
     "tikTvd": "215200072991",
-    "tikName": "Пригородная"
+    "tikName": "Пригородная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 174,
     "uikTvd": "415400972224",
+    "uikName": "УИК №174",
     "tikTvd": "215200072991",
-    "tikName": "Пригородная"
+    "tikName": "Пригородная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 175,
     "uikTvd": "415400972225",
+    "uikName": "УИК №175",
     "tikTvd": "215200072991",
-    "tikName": "Пригородная"
+    "tikName": "Пригородная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 176,
     "uikTvd": "415400972226",
+    "uikName": "УИК №176",
     "tikTvd": "215200072991",
-    "tikName": "Пригородная"
+    "tikName": "Пригородная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 177,
     "uikTvd": "415400972227",
+    "uikName": "УИК №177",
     "tikTvd": "215200072991",
-    "tikName": "Пригородная"
+    "tikName": "Пригородная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 178,
     "uikTvd": "415400972228",
+    "uikName": "УИК №178",
     "tikTvd": "215200072991",
-    "tikName": "Пригородная"
+    "tikName": "Пригородная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 179,
     "uikTvd": "415400972229",
+    "uikName": "УИК №179",
     "tikTvd": "215200072991",
-    "tikName": "Пригородная"
+    "tikName": "Пригородная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 180,
     "uikTvd": "415400972230",
+    "uikName": "УИК №180",
     "tikTvd": "215200072991",
-    "tikName": "Пригородная"
+    "tikName": "Пригородная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 181,
     "uikTvd": "415400972231",
+    "uikName": "УИК №181",
     "tikTvd": "215200072991",
-    "tikName": "Пригородная"
+    "tikName": "Пригородная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 182,
     "uikTvd": "415400972232",
+    "uikName": "УИК №182",
     "tikTvd": "215200072991",
-    "tikName": "Пригородная"
+    "tikName": "Пригородная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 183,
     "uikTvd": "415400972233",
+    "uikName": "УИК №183",
     "tikTvd": "215200072991",
-    "tikName": "Пригородная"
+    "tikName": "Пригородная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 184,
     "uikTvd": "415400972234",
+    "uikName": "УИК №184",
     "tikTvd": "215200072991",
-    "tikName": "Пригородная"
+    "tikName": "Пригородная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 185,
     "uikTvd": "415400972235",
+    "uikName": "УИК №185",
     "tikTvd": "215200072991",
-    "tikName": "Пригородная"
+    "tikName": "Пригородная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 186,
     "uikTvd": "415400972236",
+    "uikName": "УИК №186",
     "tikTvd": "215200072991",
-    "tikName": "Пригородная"
+    "tikName": "Пригородная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 187,
     "uikTvd": "415400972237",
+    "uikName": "УИК №187",
     "tikTvd": "215200072991",
-    "tikName": "Пригородная"
+    "tikName": "Пригородная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 188,
     "uikTvd": "415400972238",
+    "uikName": "УИК №188",
     "tikTvd": "215200072991",
-    "tikName": "Пригородная"
+    "tikName": "Пригородная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 189,
     "uikTvd": "415400972239",
+    "uikName": "УИК №189",
     "tikTvd": "215200072991",
-    "tikName": "Пригородная"
+    "tikName": "Пригородная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 190,
     "uikTvd": "415400972240",
+    "uikName": "УИК №190",
     "tikTvd": "215200072991",
-    "tikName": "Пригородная"
+    "tikName": "Пригородная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 191,
     "uikTvd": "415400972241",
+    "uikName": "УИК №191",
     "tikTvd": "215200072991",
-    "tikName": "Пригородная"
+    "tikName": "Пригородная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 192,
     "uikTvd": "415400972242",
+    "uikName": "УИК №192",
     "tikTvd": "215200072991",
-    "tikName": "Пригородная"
+    "tikName": "Пригородная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 193,
     "uikTvd": "415400972243",
+    "uikName": "УИК №193",
     "tikTvd": "215200072991",
-    "tikName": "Пригородная"
+    "tikName": "Пригородная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 194,
     "uikTvd": "415400972244",
+    "uikName": "УИК №194",
     "tikTvd": "215200072991",
-    "tikName": "Пригородная"
+    "tikName": "Пригородная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 195,
     "uikTvd": "415400972245",
+    "uikName": "УИК №195",
     "tikTvd": "215200072991",
-    "tikName": "Пригородная"
+    "tikName": "Пригородная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 196,
     "uikTvd": "415400373053",
+    "uikName": "УИК №196",
     "tikTvd": "215200072985",
-    "tikName": "Владикавказ, Правобережная"
+    "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 197,
     "uikTvd": "415400373054",
+    "uikName": "УИК №197",
     "tikTvd": "215200072985",
-    "tikName": "Владикавказ, Правобережная"
+    "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 198,
     "uikTvd": "415400373055",
+    "uikName": "УИК №198",
     "tikTvd": "215200072985",
-    "tikName": "Владикавказ, Правобережная"
+    "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 199,
     "uikTvd": "415400373056",
+    "uikName": "УИК №199",
     "tikTvd": "215200072985",
-    "tikName": "Владикавказ, Правобережная"
+    "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 200,
     "uikTvd": "415400373057",
+    "uikName": "УИК №200",
     "tikTvd": "215200072985",
-    "tikName": "Владикавказ, Правобережная"
+    "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 201,
     "uikTvd": "415400373058",
+    "uikName": "УИК №201",
     "tikTvd": "215200072985",
-    "tikName": "Владикавказ, Правобережная"
+    "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 202,
     "uikTvd": "415400373059",
+    "uikName": "УИК №202",
     "tikTvd": "215200072985",
-    "tikName": "Владикавказ, Правобережная"
+    "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 203,
     "uikTvd": "415400373060",
+    "uikName": "УИК №203",
     "tikTvd": "215200072985",
-    "tikName": "Владикавказ, Правобережная"
+    "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 204,
     "uikTvd": "415400373061",
+    "uikName": "УИК №204",
     "tikTvd": "215200072985",
-    "tikName": "Владикавказ, Правобережная"
+    "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 206,
     "uikTvd": "415400373063",
+    "uikName": "УИК №206",
     "tikTvd": "215200072985",
-    "tikName": "Владикавказ, Правобережная"
+    "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 207,
     "uikTvd": "415400373064",
+    "uikName": "УИК №207",
     "tikTvd": "215200072985",
-    "tikName": "Владикавказ, Правобережная"
+    "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 208,
     "uikTvd": "415400373065",
+    "uikName": "УИК №208",
     "tikTvd": "215200072985",
-    "tikName": "Владикавказ, Правобережная"
+    "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 209,
     "uikTvd": "415400373066",
+    "uikName": "УИК №209",
     "tikTvd": "215200072985",
-    "tikName": "Владикавказ, Правобережная"
+    "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 210,
     "uikTvd": "415400373067",
+    "uikName": "УИК №210",
     "tikTvd": "215200072985",
-    "tikName": "Владикавказ, Правобережная"
+    "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 211,
     "uikTvd": "415400373068",
+    "uikName": "УИК №211",
     "tikTvd": "215200072985",
-    "tikName": "Владикавказ, Правобережная"
+    "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 212,
     "uikTvd": "415400373069",
+    "uikName": "УИК №212",
     "tikTvd": "215200072985",
-    "tikName": "Владикавказ, Правобережная"
+    "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 213,
     "uikTvd": "415400373070",
+    "uikName": "УИК №213",
     "tikTvd": "215200072985",
-    "tikName": "Владикавказ, Правобережная"
+    "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 214,
     "uikTvd": "415400373071",
+    "uikName": "УИК №214",
     "tikTvd": "215200072985",
-    "tikName": "Владикавказ, Правобережная"
+    "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 215,
     "uikTvd": "415400373072",
+    "uikName": "УИК №215",
     "tikTvd": "215200072985",
-    "tikName": "Владикавказ, Правобережная"
+    "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 216,
     "uikTvd": "415400373073",
+    "uikName": "УИК №216",
     "tikTvd": "215200072985",
-    "tikName": "Владикавказ, Правобережная"
+    "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 217,
     "uikTvd": "415400373074",
+    "uikName": "УИК №217",
     "tikTvd": "215200072985",
-    "tikName": "Владикавказ, Правобережная"
+    "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 218,
     "uikTvd": "415400373075",
+    "uikName": "УИК №218",
     "tikTvd": "215200072985",
-    "tikName": "Владикавказ, Правобережная"
+    "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 219,
     "uikTvd": "415400373076",
+    "uikName": "УИК №219",
     "tikTvd": "215200072985",
-    "tikName": "Владикавказ, Правобережная"
+    "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 220,
     "uikTvd": "415400373077",
+    "uikName": "УИК №220",
     "tikTvd": "215200072985",
-    "tikName": "Владикавказ, Правобережная"
+    "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 221,
     "uikTvd": "415400373078",
+    "uikName": "УИК №221",
     "tikTvd": "215200072985",
-    "tikName": "Владикавказ, Правобережная"
+    "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 222,
     "uikTvd": "415400373079",
+    "uikName": "УИК №222",
     "tikTvd": "215200072985",
-    "tikName": "Владикавказ, Правобережная"
+    "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 223,
     "uikTvd": "415400373080",
+    "uikName": "УИК №223",
     "tikTvd": "215200072985",
-    "tikName": "Владикавказ, Правобережная"
+    "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 224,
     "uikTvd": "415400373081",
+    "uikName": "УИК №224",
     "tikTvd": "215200072985",
-    "tikName": "Владикавказ, Правобережная"
+    "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 225,
     "uikTvd": "415400373082",
+    "uikName": "УИК №225",
     "tikTvd": "215200072985",
-    "tikName": "Владикавказ, Правобережная"
+    "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 226,
     "uikTvd": "415400373083",
+    "uikName": "УИК №226",
     "tikTvd": "215200072985",
-    "tikName": "Владикавказ, Правобережная"
+    "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 227,
     "uikTvd": "415400373084",
+    "uikName": "УИК №227",
     "tikTvd": "215200072985",
-    "tikName": "Владикавказ, Правобережная"
+    "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 228,
     "uikTvd": "415400373085",
+    "uikName": "УИК №228",
     "tikTvd": "215200072985",
-    "tikName": "Владикавказ, Правобережная"
+    "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 229,
     "uikTvd": "415400373086",
+    "uikName": "УИК №229",
     "tikTvd": "215200072985",
-    "tikName": "Владикавказ, Правобережная"
+    "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 230,
     "uikTvd": "415400373087",
+    "uikName": "УИК №230",
     "tikTvd": "215200072985",
-    "tikName": "Владикавказ, Правобережная"
+    "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 231,
     "uikTvd": "415400373088",
+    "uikName": "УИК №231",
     "tikTvd": "215200072985",
-    "tikName": "Владикавказ, Правобережная"
+    "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 232,
     "uikTvd": "415400373089",
+    "uikName": "УИК №232",
     "tikTvd": "215200072985",
-    "tikName": "Владикавказ, Правобережная"
+    "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 233,
     "uikTvd": "415400373090",
+    "uikName": "УИК №233",
     "tikTvd": "215200072985",
-    "tikName": "Владикавказ, Правобережная"
+    "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 234,
     "uikTvd": "415400373091",
+    "uikName": "УИК №234",
     "tikTvd": "215200072985",
-    "tikName": "Владикавказ, Правобережная"
+    "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 235,
     "uikTvd": "415400373092",
+    "uikName": "УИК №235",
     "tikTvd": "215200072985",
-    "tikName": "Владикавказ, Правобережная"
+    "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 236,
     "uikTvd": "415400373093",
+    "uikName": "УИК №236",
     "tikTvd": "215200072985",
-    "tikName": "Владикавказ, Правобережная"
+    "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 237,
     "uikTvd": "415400373094",
+    "uikName": "УИК №237",
     "tikTvd": "215200072985",
-    "tikName": "Владикавказ, Правобережная"
+    "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 238,
     "uikTvd": "415400373095",
+    "uikName": "УИК №238",
     "tikTvd": "215200072985",
-    "tikName": "Владикавказ, Правобережная"
+    "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 239,
     "uikTvd": "415400373096",
+    "uikName": "УИК №239",
     "tikTvd": "215200072985",
-    "tikName": "Владикавказ, Правобережная"
+    "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 240,
     "uikTvd": "415400373097",
+    "uikName": "УИК №240",
     "tikTvd": "215200072985",
-    "tikName": "Владикавказ, Правобережная"
+    "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 241,
     "uikTvd": "415400373098",
+    "uikName": "УИК №241",
     "tikTvd": "215200072985",
-    "tikName": "Владикавказ, Правобережная"
+    "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 242,
     "uikTvd": "415400373099",
+    "uikName": "УИК №242",
     "tikTvd": "215200072985",
-    "tikName": "Владикавказ, Правобережная"
+    "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 243,
     "uikTvd": "415400373100",
+    "uikName": "УИК №243",
     "tikTvd": "215200072985",
-    "tikName": "Владикавказ, Правобережная"
+    "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 244,
     "uikTvd": "415400373101",
+    "uikName": "УИК №244",
     "tikTvd": "215200072985",
-    "tikName": "Владикавказ, Правобережная"
+    "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 245,
     "uikTvd": "415400373102",
+    "uikName": "УИК №245",
     "tikTvd": "215200072985",
-    "tikName": "Владикавказ, Правобережная"
+    "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 246,
     "uikTvd": "415400373103",
+    "uikName": "УИК №246",
     "tikTvd": "215200072985",
-    "tikName": "Владикавказ, Правобережная"
+    "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 247,
     "uikTvd": "415400373104",
+    "uikName": "УИК №247",
     "tikTvd": "215200072985",
-    "tikName": "Владикавказ, Правобережная"
+    "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 248,
     "uikTvd": "415400373105",
+    "uikName": "УИК №248",
     "tikTvd": "215200072985",
-    "tikName": "Владикавказ, Правобережная"
+    "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 249,
     "uikTvd": "415400373106",
+    "uikName": "УИК №249",
     "tikTvd": "215200072985",
-    "tikName": "Владикавказ, Правобережная"
+    "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 250,
     "uikTvd": "415400373107",
+    "uikName": "УИК №250",
     "tikTvd": "215200072985",
-    "tikName": "Владикавказ, Правобережная"
+    "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 251,
     "uikTvd": "415400373108",
+    "uikName": "УИК №251",
     "tikTvd": "215200072985",
-    "tikName": "Владикавказ, Правобережная"
+    "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 252,
     "uikTvd": "415400373109",
+    "uikName": "УИК №252",
     "tikTvd": "215200072985",
-    "tikName": "Владикавказ, Правобережная"
+    "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 253,
     "uikTvd": "415400373110",
+    "uikName": "УИК №253",
     "tikTvd": "215200072985",
-    "tikName": "Владикавказ, Правобережная"
+    "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 254,
     "uikTvd": "415400373111",
+    "uikName": "УИК №254",
     "tikTvd": "215200072985",
-    "tikName": "Владикавказ, Правобережная"
+    "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 255,
     "uikTvd": "415400373112",
+    "uikName": "УИК №255",
     "tikTvd": "215200072985",
-    "tikName": "Владикавказ, Правобережная"
+    "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 256,
     "uikTvd": "415400373113",
+    "uikName": "УИК №256",
     "tikTvd": "215200072985",
-    "tikName": "Владикавказ, Правобережная"
+    "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 257,
     "uikTvd": "415400373114",
+    "uikName": "УИК №257",
     "tikTvd": "215200072985",
-    "tikName": "Владикавказ, Правобережная"
+    "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 258,
     "uikTvd": "415400373115",
+    "uikName": "УИК №258",
     "tikTvd": "215200072985",
-    "tikName": "Владикавказ, Правобережная"
+    "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 259,
     "uikTvd": "415400373116",
+    "uikName": "УИК №259",
     "tikTvd": "215200072985",
-    "tikName": "Владикавказ, Правобережная"
+    "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 260,
     "uikTvd": "415400373117",
+    "uikName": "УИК №260",
     "tikTvd": "215200072985",
-    "tikName": "Владикавказ, Правобережная"
+    "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 261,
     "uikTvd": "415401073185",
+    "uikName": "УИК №261",
     "tikTvd": "215200072984",
-    "tikName": "Владикавказ, Левобережная"
+    "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 262,
     "uikTvd": "415401073186",
+    "uikName": "УИК №262",
     "tikTvd": "215200072984",
-    "tikName": "Владикавказ, Левобережная"
+    "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 263,
     "uikTvd": "415401073187",
+    "uikName": "УИК №263",
     "tikTvd": "215200072984",
-    "tikName": "Владикавказ, Левобережная"
+    "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 264,
     "uikTvd": "415401073188",
+    "uikName": "УИК №264",
     "tikTvd": "215200072984",
-    "tikName": "Владикавказ, Левобережная"
+    "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 265,
     "uikTvd": "415401073189",
+    "uikName": "УИК №265",
     "tikTvd": "215200072984",
-    "tikName": "Владикавказ, Левобережная"
+    "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 266,
     "uikTvd": "415401073190",
+    "uikName": "УИК №266",
     "tikTvd": "215200072984",
-    "tikName": "Владикавказ, Левобережная"
+    "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 267,
     "uikTvd": "415401073191",
+    "uikName": "УИК №267",
     "tikTvd": "215200072984",
-    "tikName": "Владикавказ, Левобережная"
+    "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 268,
     "uikTvd": "415401073192",
+    "uikName": "УИК №268",
     "tikTvd": "215200072984",
-    "tikName": "Владикавказ, Левобережная"
+    "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 269,
     "uikTvd": "415401073193",
+    "uikName": "УИК №269",
     "tikTvd": "215200072984",
-    "tikName": "Владикавказ, Левобережная"
+    "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 270,
     "uikTvd": "415401073194",
+    "uikName": "УИК №270",
     "tikTvd": "215200072984",
-    "tikName": "Владикавказ, Левобережная"
+    "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 271,
     "uikTvd": "415401073195",
+    "uikName": "УИК №271",
     "tikTvd": "215200072984",
-    "tikName": "Владикавказ, Левобережная"
+    "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 272,
     "uikTvd": "415401073196",
+    "uikName": "УИК №272",
     "tikTvd": "215200072984",
-    "tikName": "Владикавказ, Левобережная"
+    "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 273,
     "uikTvd": "415401073197",
+    "uikName": "УИК №273",
     "tikTvd": "215200072984",
-    "tikName": "Владикавказ, Левобережная"
+    "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 274,
     "uikTvd": "415401073198",
+    "uikName": "УИК №274",
     "tikTvd": "215200072984",
-    "tikName": "Владикавказ, Левобережная"
+    "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 275,
     "uikTvd": "415401073199",
+    "uikName": "УИК №275",
     "tikTvd": "215200072984",
-    "tikName": "Владикавказ, Левобережная"
+    "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 276,
     "uikTvd": "415401073200",
+    "uikName": "УИК №276",
     "tikTvd": "215200072984",
-    "tikName": "Владикавказ, Левобережная"
+    "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 277,
     "uikTvd": "415401073201",
+    "uikName": "УИК №277",
     "tikTvd": "215200072984",
-    "tikName": "Владикавказ, Левобережная"
+    "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 278,
     "uikTvd": "415401073202",
+    "uikName": "УИК №278",
     "tikTvd": "215200072984",
-    "tikName": "Владикавказ, Левобережная"
+    "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 279,
     "uikTvd": "415401073203",
+    "uikName": "УИК №279",
     "tikTvd": "215200072984",
-    "tikName": "Владикавказ, Левобережная"
+    "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 280,
     "uikTvd": "415401073204",
+    "uikName": "УИК №280",
     "tikTvd": "215200072984",
-    "tikName": "Владикавказ, Левобережная"
+    "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 281,
     "uikTvd": "415401073205",
+    "uikName": "УИК №281",
     "tikTvd": "215200072984",
-    "tikName": "Владикавказ, Левобережная"
+    "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 282,
     "uikTvd": "415401073206",
+    "uikName": "УИК №282",
     "tikTvd": "215200072984",
-    "tikName": "Владикавказ, Левобережная"
+    "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 283,
     "uikTvd": "415401073207",
+    "uikName": "УИК №283",
     "tikTvd": "215200072984",
-    "tikName": "Владикавказ, Левобережная"
+    "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 284,
     "uikTvd": "415401073208",
+    "uikName": "УИК №284",
     "tikTvd": "215200072984",
-    "tikName": "Владикавказ, Левобережная"
+    "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 285,
     "uikTvd": "415401073209",
+    "uikName": "УИК №285",
     "tikTvd": "215200072984",
-    "tikName": "Владикавказ, Левобережная"
+    "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 286,
     "uikTvd": "415401073210",
+    "uikName": "УИК №286",
     "tikTvd": "215200072984",
-    "tikName": "Владикавказ, Левобережная"
+    "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 287,
     "uikTvd": "415401073211",
+    "uikName": "УИК №287",
     "tikTvd": "215200072984",
-    "tikName": "Владикавказ, Левобережная"
+    "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 288,
     "uikTvd": "415401073212",
+    "uikName": "УИК №288",
     "tikTvd": "215200072984",
-    "tikName": "Владикавказ, Левобережная"
+    "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 289,
     "uikTvd": "415401073213",
+    "uikName": "УИК №289",
     "tikTvd": "215200072984",
-    "tikName": "Владикавказ, Левобережная"
+    "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 290,
     "uikTvd": "415401073214",
+    "uikName": "УИК №290",
     "tikTvd": "215200072984",
-    "tikName": "Владикавказ, Левобережная"
+    "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 291,
     "uikTvd": "415401073215",
+    "uikName": "УИК №291",
     "tikTvd": "215200072984",
-    "tikName": "Владикавказ, Левобережная"
+    "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 292,
     "uikTvd": "415401073216",
+    "uikName": "УИК №292",
     "tikTvd": "215200072984",
-    "tikName": "Владикавказ, Левобережная"
+    "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 293,
     "uikTvd": "415401073217",
+    "uikName": "УИК №293",
     "tikTvd": "215200072984",
-    "tikName": "Владикавказ, Левобережная"
+    "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 294,
     "uikTvd": "415401073218",
+    "uikName": "УИК №294",
     "tikTvd": "215200072984",
-    "tikName": "Владикавказ, Левобережная"
+    "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 295,
     "uikTvd": "415401073219",
+    "uikName": "УИК №295",
     "tikTvd": "215200072984",
-    "tikName": "Владикавказ, Левобережная"
+    "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 296,
     "uikTvd": "415401073220",
+    "uikName": "УИК №296",
     "tikTvd": "215200072984",
-    "tikName": "Владикавказ, Левобережная"
+    "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 297,
     "uikTvd": "415401073221",
+    "uikName": "УИК №297",
     "tikTvd": "215200072984",
-    "tikName": "Владикавказ, Левобережная"
+    "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 298,
     "uikTvd": "415401073222",
+    "uikName": "УИК №298",
     "tikTvd": "215200072984",
-    "tikName": "Владикавказ, Левобережная"
+    "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 299,
     "uikTvd": "415401073223",
+    "uikName": "УИК №299",
     "tikTvd": "215200072984",
-    "tikName": "Владикавказ, Левобережная"
+    "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 300,
     "uikTvd": "415401073224",
+    "uikName": "УИК №300",
     "tikTvd": "215200072984",
-    "tikName": "Владикавказ, Левобережная"
+    "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 301,
     "uikTvd": "415401073225",
+    "uikName": "УИК №301",
     "tikTvd": "215200072984",
-    "tikName": "Владикавказ, Левобережная"
+    "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 302,
     "uikTvd": "415401073226",
+    "uikName": "УИК №302",
     "tikTvd": "215200072984",
-    "tikName": "Владикавказ, Левобережная"
+    "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 303,
     "uikTvd": "415401073227",
+    "uikName": "УИК №303",
     "tikTvd": "215200072984",
-    "tikName": "Владикавказ, Левобережная"
+    "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 304,
     "uikTvd": "415401073228",
+    "uikName": "УИК №304",
     "tikTvd": "215200072984",
-    "tikName": "Владикавказ, Левобережная"
+    "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 305,
     "uikTvd": "415401073229",
+    "uikName": "УИК №305",
     "tikTvd": "215200072984",
-    "tikName": "Владикавказ, Левобережная"
+    "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 306,
     "uikTvd": "415401073230",
+    "uikName": "УИК №306",
     "tikTvd": "215200072984",
-    "tikName": "Владикавказ, Левобережная"
+    "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 307,
     "uikTvd": "415401073231",
+    "uikName": "УИК №307",
     "tikTvd": "215200072984",
-    "tikName": "Владикавказ, Левобережная"
+    "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 308,
     "uikTvd": "415401073232",
+    "uikName": "УИК №308",
     "tikTvd": "215200072984",
-    "tikName": "Владикавказ, Левобережная"
+    "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 309,
     "uikTvd": "415401073233",
+    "uikName": "УИК №309",
     "tikTvd": "215200072984",
-    "tikName": "Владикавказ, Левобережная"
+    "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 310,
     "uikTvd": "415401073234",
+    "uikName": "УИК №310",
     "tikTvd": "215200072984",
-    "tikName": "Владикавказ, Левобережная"
+    "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 311,
     "uikTvd": "415401073235",
+    "uikName": "УИК №311",
     "tikTvd": "215200072984",
-    "tikName": "Владикавказ, Левобережная"
+    "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 312,
     "uikTvd": "415401073236",
+    "uikName": "УИК №312",
     "tikTvd": "215200072984",
-    "tikName": "Владикавказ, Левобережная"
+    "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 313,
     "uikTvd": "415401073237",
+    "uikName": "УИК №313",
     "tikTvd": "215200072984",
-    "tikName": "Владикавказ, Левобережная"
+    "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 314,
     "uikTvd": "415401073238",
+    "uikName": "УИК №314",
     "tikTvd": "215200072984",
-    "tikName": "Владикавказ, Левобережная"
+    "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 315,
     "uikTvd": "415401073239",
+    "uikName": "УИК №315",
     "tikTvd": "215200072984",
-    "tikName": "Владикавказ, Левобережная"
+    "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 316,
     "uikTvd": "415401073240",
+    "uikName": "УИК №316",
     "tikTvd": "215200072984",
-    "tikName": "Владикавказ, Левобережная"
+    "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   },
   {
     "uikNumber": 317,
     "uikTvd": "415401073241",
+    "uikName": "УИК №317",
     "tikTvd": "215200072984",
-    "tikName": "Владикавказ, Левобережная"
+    "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": null
   }
 ] satisfies readonly UikTikRelation[];

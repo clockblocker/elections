@@ -7,5731 +7,10506 @@ export const duma_2011_uik_to_tik_region_92 = [
   {
     "uikNumber": 1,
     "uikTvd": "4754029106482",
+    "uikName": "УИК №1",
     "tikTvd": "2752000284719",
-    "tikName": "Чита, Центральная"
+    "tikName": "Чита, Центральная",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 2,
     "uikTvd": "4754029106483",
+    "uikName": "УИК №2",
     "tikTvd": "2752000284719",
-    "tikName": "Чита, Центральная"
+    "tikName": "Чита, Центральная",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 3,
     "uikTvd": "4754029106484",
+    "uikName": "УИК №3",
     "tikTvd": "2752000284719",
-    "tikName": "Чита, Центральная"
+    "tikName": "Чита, Центральная",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 4,
     "uikTvd": "4754029106485",
+    "uikName": "УИК №4",
     "tikTvd": "2752000284719",
-    "tikName": "Чита, Центральная"
+    "tikName": "Чита, Центральная",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 5,
     "uikTvd": "4754029106486",
+    "uikName": "УИК №5",
     "tikTvd": "2752000284719",
-    "tikName": "Чита, Центральная"
+    "tikName": "Чита, Центральная",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 6,
     "uikTvd": "4754029106487",
+    "uikName": "УИК №6",
     "tikTvd": "2752000284719",
-    "tikName": "Чита, Центральная"
+    "tikName": "Чита, Центральная",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 7,
     "uikTvd": "4754029106488",
+    "uikName": "УИК №7",
     "tikTvd": "2752000284719",
-    "tikName": "Чита, Центральная"
+    "tikName": "Чита, Центральная",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 8,
     "uikTvd": "4754029106489",
+    "uikName": "УИК №8",
     "tikTvd": "2752000284719",
-    "tikName": "Чита, Центральная"
+    "tikName": "Чита, Центральная",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 9,
     "uikTvd": "4754029106490",
+    "uikName": "УИК №9",
     "tikTvd": "2752000284719",
-    "tikName": "Чита, Центральная"
+    "tikName": "Чита, Центральная",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 10,
     "uikTvd": "4754029106491",
+    "uikName": "УИК №10",
     "tikTvd": "2752000284719",
-    "tikName": "Чита, Центральная"
+    "tikName": "Чита, Центральная",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 11,
     "uikTvd": "4754029106492",
+    "uikName": "УИК №11",
     "tikTvd": "2752000284719",
-    "tikName": "Чита, Центральная"
+    "tikName": "Чита, Центральная",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 12,
     "uikTvd": "4754029106493",
+    "uikName": "УИК №12",
     "tikTvd": "2752000284719",
-    "tikName": "Чита, Центральная"
+    "tikName": "Чита, Центральная",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 13,
     "uikTvd": "4754029106494",
+    "uikName": "УИК №13",
     "tikTvd": "2752000284719",
-    "tikName": "Чита, Центральная"
+    "tikName": "Чита, Центральная",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 14,
     "uikTvd": "4754029106495",
+    "uikName": "УИК №14",
     "tikTvd": "2752000284719",
-    "tikName": "Чита, Центральная"
+    "tikName": "Чита, Центральная",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 15,
     "uikTvd": "4754029106496",
+    "uikName": "УИК №15",
     "tikTvd": "2752000284719",
-    "tikName": "Чита, Центральная"
+    "tikName": "Чита, Центральная",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 16,
     "uikTvd": "4754029106497",
+    "uikName": "УИК №16",
     "tikTvd": "2752000284719",
-    "tikName": "Чита, Центральная"
+    "tikName": "Чита, Центральная",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 17,
     "uikTvd": "4754029106498",
+    "uikName": "УИК №17",
     "tikTvd": "2752000284719",
-    "tikName": "Чита, Центральная"
+    "tikName": "Чита, Центральная",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 18,
     "uikTvd": "4754029106499",
+    "uikName": "УИК №18",
     "tikTvd": "2752000284719",
-    "tikName": "Чита, Центральная"
+    "tikName": "Чита, Центральная",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 19,
     "uikTvd": "4754029106500",
+    "uikName": "УИК №19",
     "tikTvd": "2752000284719",
-    "tikName": "Чита, Центральная"
+    "tikName": "Чита, Центральная",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 20,
     "uikTvd": "4754029106501",
+    "uikName": "УИК №20",
     "tikTvd": "2752000284719",
-    "tikName": "Чита, Центральная"
+    "tikName": "Чита, Центральная",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 21,
     "uikTvd": "4754029106502",
+    "uikName": "УИК №21",
     "tikTvd": "2752000284719",
-    "tikName": "Чита, Центральная"
+    "tikName": "Чита, Центральная",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 22,
     "uikTvd": "4754029106503",
+    "uikName": "УИК №22",
     "tikTvd": "2752000284719",
-    "tikName": "Чита, Центральная"
+    "tikName": "Чита, Центральная",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 23,
     "uikTvd": "4754029106504",
+    "uikName": "УИК №23",
     "tikTvd": "2752000284719",
-    "tikName": "Чита, Центральная"
+    "tikName": "Чита, Центральная",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 24,
     "uikTvd": "4754029106505",
+    "uikName": "УИК №24",
     "tikTvd": "2752000284719",
-    "tikName": "Чита, Центральная"
+    "tikName": "Чита, Центральная",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 25,
     "uikTvd": "4754029106506",
+    "uikName": "УИК №25",
     "tikTvd": "2752000284719",
-    "tikName": "Чита, Центральная"
+    "tikName": "Чита, Центральная",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 26,
     "uikTvd": "4754029106507",
+    "uikName": "УИК №26",
     "tikTvd": "2752000284719",
-    "tikName": "Чита, Центральная"
+    "tikName": "Чита, Центральная",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 27,
     "uikTvd": "4754029106508",
+    "uikName": "УИК №27",
     "tikTvd": "2752000284719",
-    "tikName": "Чита, Центральная"
+    "tikName": "Чита, Центральная",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 28,
     "uikTvd": "4754029106509",
+    "uikName": "УИК №28",
     "tikTvd": "2752000284719",
-    "tikName": "Чита, Центральная"
+    "tikName": "Чита, Центральная",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 29,
     "uikTvd": "4754029106510",
+    "uikName": "УИК №29",
     "tikTvd": "2752000284719",
-    "tikName": "Чита, Центральная"
+    "tikName": "Чита, Центральная",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 30,
     "uikTvd": "4754029106511",
+    "uikName": "УИК №30",
     "tikTvd": "2752000284719",
-    "tikName": "Чита, Центральная"
+    "tikName": "Чита, Центральная",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 31,
     "uikTvd": "4754029106512",
+    "uikName": "УИК №31",
     "tikTvd": "2752000284719",
-    "tikName": "Чита, Центральная"
+    "tikName": "Чита, Центральная",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 32,
     "uikTvd": "4754029106513",
+    "uikName": "УИК №32",
     "tikTvd": "2752000284719",
-    "tikName": "Чита, Центральная"
+    "tikName": "Чита, Центральная",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 33,
     "uikTvd": "4754029106514",
+    "uikName": "УИК №33",
     "tikTvd": "2752000284719",
-    "tikName": "Чита, Центральная"
+    "tikName": "Чита, Центральная",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 34,
     "uikTvd": "4754029106515",
+    "uikName": "УИК №34",
     "tikTvd": "2752000284719",
-    "tikName": "Чита, Центральная"
+    "tikName": "Чита, Центральная",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 35,
     "uikTvd": "4754029106516",
+    "uikName": "УИК №35",
     "tikTvd": "2752000284719",
-    "tikName": "Чита, Центральная"
+    "tikName": "Чита, Центральная",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 36,
     "uikTvd": "4754029106517",
+    "uikName": "УИК №36",
     "tikTvd": "2752000284719",
-    "tikName": "Чита, Центральная"
+    "tikName": "Чита, Центральная",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 37,
     "uikTvd": "4754029106518",
+    "uikName": "УИК №37",
     "tikTvd": "2752000284719",
-    "tikName": "Чита, Центральная"
+    "tikName": "Чита, Центральная",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 38,
     "uikTvd": "4754029106519",
+    "uikName": "УИК №38",
     "tikTvd": "2752000284719",
-    "tikName": "Чита, Центральная"
+    "tikName": "Чита, Центральная",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 39,
     "uikTvd": "4754029106520",
+    "uikName": "УИК №39",
     "tikTvd": "2752000284719",
-    "tikName": "Чита, Центральная"
+    "tikName": "Чита, Центральная",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 40,
     "uikTvd": "4754029106521",
+    "uikName": "УИК №40",
     "tikTvd": "2752000284719",
-    "tikName": "Чита, Центральная"
+    "tikName": "Чита, Центральная",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 41,
     "uikTvd": "475402894327",
+    "uikName": "УИК №41",
     "tikTvd": "2752000313746",
-    "tikName": "Чита, Ингодинская"
+    "tikName": "Чита, Ингодинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 42,
     "uikTvd": "475402894329",
+    "uikName": "УИК №42",
     "tikTvd": "2752000313746",
-    "tikName": "Чита, Ингодинская"
+    "tikName": "Чита, Ингодинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 43,
     "uikTvd": "475402894330",
+    "uikName": "УИК №43",
     "tikTvd": "2752000313746",
-    "tikName": "Чита, Ингодинская"
+    "tikName": "Чита, Ингодинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 44,
     "uikTvd": "475402894331",
+    "uikName": "УИК №44",
     "tikTvd": "2752000313746",
-    "tikName": "Чита, Ингодинская"
+    "tikName": "Чита, Ингодинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 45,
     "uikTvd": "475402894332",
+    "uikName": "УИК №45",
     "tikTvd": "2752000313746",
-    "tikName": "Чита, Ингодинская"
+    "tikName": "Чита, Ингодинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 46,
     "uikTvd": "475402894333",
+    "uikName": "УИК №46",
     "tikTvd": "2752000313746",
-    "tikName": "Чита, Ингодинская"
+    "tikName": "Чита, Ингодинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 47,
     "uikTvd": "475402894334",
+    "uikName": "УИК №47",
     "tikTvd": "2752000313746",
-    "tikName": "Чита, Ингодинская"
+    "tikName": "Чита, Ингодинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 48,
     "uikTvd": "475402894335",
+    "uikName": "УИК №48",
     "tikTvd": "2752000313746",
-    "tikName": "Чита, Ингодинская"
+    "tikName": "Чита, Ингодинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 49,
     "uikTvd": "475402894336",
+    "uikName": "УИК №49",
     "tikTvd": "2752000313746",
-    "tikName": "Чита, Ингодинская"
+    "tikName": "Чита, Ингодинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 50,
     "uikTvd": "475402894337",
+    "uikName": "УИК №50",
     "tikTvd": "2752000313746",
-    "tikName": "Чита, Ингодинская"
+    "tikName": "Чита, Ингодинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 51,
     "uikTvd": "475402894338",
+    "uikName": "УИК №51",
     "tikTvd": "2752000313746",
-    "tikName": "Чита, Ингодинская"
+    "tikName": "Чита, Ингодинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 52,
     "uikTvd": "475402894339",
+    "uikName": "УИК №52",
     "tikTvd": "2752000313746",
-    "tikName": "Чита, Ингодинская"
+    "tikName": "Чита, Ингодинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 53,
     "uikTvd": "475402894340",
+    "uikName": "УИК №53",
     "tikTvd": "2752000313746",
-    "tikName": "Чита, Ингодинская"
+    "tikName": "Чита, Ингодинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 54,
     "uikTvd": "475402894341",
+    "uikName": "УИК №54",
     "tikTvd": "2752000313746",
-    "tikName": "Чита, Ингодинская"
+    "tikName": "Чита, Ингодинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 55,
     "uikTvd": "475402894342",
+    "uikName": "УИК №55",
     "tikTvd": "2752000313746",
-    "tikName": "Чита, Ингодинская"
+    "tikName": "Чита, Ингодинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 56,
     "uikTvd": "475402894343",
+    "uikName": "УИК №56",
     "tikTvd": "2752000313746",
-    "tikName": "Чита, Ингодинская"
+    "tikName": "Чита, Ингодинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 57,
     "uikTvd": "475402894344",
+    "uikName": "УИК №57",
     "tikTvd": "2752000313746",
-    "tikName": "Чита, Ингодинская"
+    "tikName": "Чита, Ингодинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 58,
     "uikTvd": "475402894345",
+    "uikName": "УИК №58",
     "tikTvd": "2752000313746",
-    "tikName": "Чита, Ингодинская"
+    "tikName": "Чита, Ингодинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 59,
     "uikTvd": "475402894346",
+    "uikName": "УИК №59",
     "tikTvd": "2752000313746",
-    "tikName": "Чита, Ингодинская"
+    "tikName": "Чита, Ингодинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 60,
     "uikTvd": "475402894347",
+    "uikName": "УИК №60",
     "tikTvd": "2752000313746",
-    "tikName": "Чита, Ингодинская"
+    "tikName": "Чита, Ингодинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 61,
     "uikTvd": "475402894348",
+    "uikName": "УИК №61",
     "tikTvd": "2752000313746",
-    "tikName": "Чита, Ингодинская"
+    "tikName": "Чита, Ингодинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 62,
     "uikTvd": "475402894349",
+    "uikName": "УИК №62",
     "tikTvd": "2752000313746",
-    "tikName": "Чита, Ингодинская"
+    "tikName": "Чита, Ингодинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 63,
     "uikTvd": "475402894350",
+    "uikName": "УИК №63",
     "tikTvd": "2752000313746",
-    "tikName": "Чита, Ингодинская"
+    "tikName": "Чита, Ингодинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 64,
     "uikTvd": "475402894351",
+    "uikName": "УИК №64",
     "tikTvd": "2752000313746",
-    "tikName": "Чита, Ингодинская"
+    "tikName": "Чита, Ингодинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 65,
     "uikTvd": "475402894352",
+    "uikName": "УИК №65",
     "tikTvd": "2752000313746",
-    "tikName": "Чита, Ингодинская"
+    "tikName": "Чита, Ингодинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 66,
     "uikTvd": "475402894353",
+    "uikName": "УИК №66",
     "tikTvd": "2752000313746",
-    "tikName": "Чита, Ингодинская"
+    "tikName": "Чита, Ингодинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 67,
     "uikTvd": "475402894354",
+    "uikName": "УИК №67",
     "tikTvd": "2752000313746",
-    "tikName": "Чита, Ингодинская"
+    "tikName": "Чита, Ингодинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 68,
     "uikTvd": "475402894355",
+    "uikName": "УИК №68",
     "tikTvd": "2752000313746",
-    "tikName": "Чита, Ингодинская"
+    "tikName": "Чита, Ингодинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 69,
     "uikTvd": "475402787314",
+    "uikName": "УИК №69",
     "tikTvd": "2752000284717",
-    "tikName": "Чита, Железнодорожная"
+    "tikName": "Чита, Железнодорожная",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 70,
     "uikTvd": "475402787315",
+    "uikName": "УИК №70",
     "tikTvd": "2752000284717",
-    "tikName": "Чита, Железнодорожная"
+    "tikName": "Чита, Железнодорожная",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 71,
     "uikTvd": "475402787316",
+    "uikName": "УИК №71",
     "tikTvd": "2752000284717",
-    "tikName": "Чита, Железнодорожная"
+    "tikName": "Чита, Железнодорожная",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 72,
     "uikTvd": "475402787317",
+    "uikName": "УИК №72",
     "tikTvd": "2752000284717",
-    "tikName": "Чита, Железнодорожная"
+    "tikName": "Чита, Железнодорожная",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 73,
     "uikTvd": "475402787318",
+    "uikName": "УИК №73",
     "tikTvd": "2752000284717",
-    "tikName": "Чита, Железнодорожная"
+    "tikName": "Чита, Железнодорожная",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 74,
     "uikTvd": "475402787319",
+    "uikName": "УИК №74",
     "tikTvd": "2752000284717",
-    "tikName": "Чита, Железнодорожная"
+    "tikName": "Чита, Железнодорожная",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 75,
     "uikTvd": "475402787320",
+    "uikName": "УИК №75",
     "tikTvd": "2752000284717",
-    "tikName": "Чита, Железнодорожная"
+    "tikName": "Чита, Железнодорожная",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 76,
     "uikTvd": "475402787321",
+    "uikName": "УИК №76",
     "tikTvd": "2752000284717",
-    "tikName": "Чита, Железнодорожная"
+    "tikName": "Чита, Железнодорожная",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 77,
     "uikTvd": "475402787322",
+    "uikName": "УИК №77",
     "tikTvd": "2752000284717",
-    "tikName": "Чита, Железнодорожная"
+    "tikName": "Чита, Железнодорожная",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 78,
     "uikTvd": "475402787323",
+    "uikName": "УИК №78",
     "tikTvd": "2752000284717",
-    "tikName": "Чита, Железнодорожная"
+    "tikName": "Чита, Железнодорожная",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 79,
     "uikTvd": "475402787324",
+    "uikName": "УИК №79",
     "tikTvd": "2752000284717",
-    "tikName": "Чита, Железнодорожная"
+    "tikName": "Чита, Железнодорожная",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 80,
     "uikTvd": "475402787325",
+    "uikName": "УИК №80",
     "tikTvd": "2752000284717",
-    "tikName": "Чита, Железнодорожная"
+    "tikName": "Чита, Железнодорожная",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 81,
     "uikTvd": "475402787326",
+    "uikName": "УИК №81",
     "tikTvd": "2752000284717",
-    "tikName": "Чита, Железнодорожная"
+    "tikName": "Чита, Железнодорожная",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 82,
     "uikTvd": "475402787327",
+    "uikName": "УИК №82",
     "tikTvd": "2752000284717",
-    "tikName": "Чита, Железнодорожная"
+    "tikName": "Чита, Железнодорожная",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 83,
     "uikTvd": "475402787328",
+    "uikName": "УИК №83",
     "tikTvd": "2752000284717",
-    "tikName": "Чита, Железнодорожная"
+    "tikName": "Чита, Железнодорожная",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 84,
     "uikTvd": "475403092410",
+    "uikName": "УИК №84",
     "tikTvd": "2752000284720",
-    "tikName": "Чита, Черновская"
+    "tikName": "Чита, Черновская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 85,
     "uikTvd": "475403092411",
+    "uikName": "УИК №85",
     "tikTvd": "2752000284720",
-    "tikName": "Чита, Черновская"
+    "tikName": "Чита, Черновская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 86,
     "uikTvd": "475403092412",
+    "uikName": "УИК №86",
     "tikTvd": "2752000284720",
-    "tikName": "Чита, Черновская"
+    "tikName": "Чита, Черновская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 87,
     "uikTvd": "475403092413",
+    "uikName": "УИК №87",
     "tikTvd": "2752000284720",
-    "tikName": "Чита, Черновская"
+    "tikName": "Чита, Черновская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 88,
     "uikTvd": "475403092414",
+    "uikName": "УИК №88",
     "tikTvd": "2752000284720",
-    "tikName": "Чита, Черновская"
+    "tikName": "Чита, Черновская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 89,
     "uikTvd": "475403092415",
+    "uikName": "УИК №89",
     "tikTvd": "2752000284720",
-    "tikName": "Чита, Черновская"
+    "tikName": "Чита, Черновская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 90,
     "uikTvd": "475403092416",
+    "uikName": "УИК №90",
     "tikTvd": "2752000284720",
-    "tikName": "Чита, Черновская"
+    "tikName": "Чита, Черновская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 91,
     "uikTvd": "475403092417",
+    "uikName": "УИК №91",
     "tikTvd": "2752000284720",
-    "tikName": "Чита, Черновская"
+    "tikName": "Чита, Черновская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 92,
     "uikTvd": "475403092418",
+    "uikName": "УИК №92",
     "tikTvd": "2752000284720",
-    "tikName": "Чита, Черновская"
+    "tikName": "Чита, Черновская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 93,
     "uikTvd": "475403092419",
+    "uikName": "УИК №93",
     "tikTvd": "2752000284720",
-    "tikName": "Чита, Черновская"
+    "tikName": "Чита, Черновская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 94,
     "uikTvd": "475403092420",
+    "uikName": "УИК №94",
     "tikTvd": "2752000284720",
-    "tikName": "Чита, Черновская"
+    "tikName": "Чита, Черновская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 95,
     "uikTvd": "475403092421",
+    "uikName": "УИК №95",
     "tikTvd": "2752000284720",
-    "tikName": "Чита, Черновская"
+    "tikName": "Чита, Черновская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 96,
     "uikTvd": "475403092422",
+    "uikName": "УИК №96",
     "tikTvd": "2752000284720",
-    "tikName": "Чита, Черновская"
+    "tikName": "Чита, Черновская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 97,
     "uikTvd": "475403092423",
+    "uikName": "УИК №97",
     "tikTvd": "2752000284720",
-    "tikName": "Чита, Черновская"
+    "tikName": "Чита, Черновская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 98,
     "uikTvd": "475403092424",
+    "uikName": "УИК №98",
     "tikTvd": "2752000284720",
-    "tikName": "Чита, Черновская"
+    "tikName": "Чита, Черновская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 99,
     "uikTvd": "475403092425",
+    "uikName": "УИК №99",
     "tikTvd": "2752000284720",
-    "tikName": "Чита, Черновская"
+    "tikName": "Чита, Черновская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 100,
     "uikTvd": "475403092426",
+    "uikName": "УИК №100",
     "tikTvd": "2752000284720",
-    "tikName": "Чита, Черновская"
+    "tikName": "Чита, Черновская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 101,
     "uikTvd": "475403092427",
+    "uikName": "УИК №101",
     "tikTvd": "2752000284720",
-    "tikName": "Чита, Черновская"
+    "tikName": "Чита, Черновская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 102,
     "uikTvd": "475403092428",
+    "uikName": "УИК №102",
     "tikTvd": "2752000284720",
-    "tikName": "Чита, Черновская"
+    "tikName": "Чита, Черновская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 103,
     "uikTvd": "475403092429",
+    "uikName": "УИК №103",
     "tikTvd": "2752000284720",
-    "tikName": "Чита, Черновская"
+    "tikName": "Чита, Черновская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 104,
     "uikTvd": "475403092430",
+    "uikName": "УИК №104",
     "tikTvd": "2752000284720",
-    "tikName": "Чита, Черновская"
+    "tikName": "Чита, Черновская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 105,
     "uikTvd": "475403092431",
+    "uikName": "УИК №105",
     "tikTvd": "2752000284720",
-    "tikName": "Чита, Черновская"
+    "tikName": "Чита, Черновская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 106,
     "uikTvd": "475403092432",
+    "uikName": "УИК №106",
     "tikTvd": "2752000284720",
-    "tikName": "Чита, Черновская"
+    "tikName": "Чита, Черновская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 107,
     "uikTvd": "475403092433",
+    "uikName": "УИК №107",
     "tikTvd": "2752000284720",
-    "tikName": "Чита, Черновская"
+    "tikName": "Чита, Черновская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 108,
     "uikTvd": "475403092434",
+    "uikName": "УИК №108",
     "tikTvd": "2752000284720",
-    "tikName": "Чита, Черновская"
+    "tikName": "Чита, Черновская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 109,
     "uikTvd": "475403092435",
+    "uikName": "УИК №109",
     "tikTvd": "2752000284720",
-    "tikName": "Чита, Черновская"
+    "tikName": "Чита, Черновская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 110,
     "uikTvd": "475403092436",
+    "uikName": "УИК №110",
     "tikTvd": "2752000284720",
-    "tikName": "Чита, Черновская"
+    "tikName": "Чита, Черновская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 111,
     "uikTvd": "475403092437",
+    "uikName": "УИК №111",
     "tikTvd": "2752000284720",
-    "tikName": "Чита, Черновская"
+    "tikName": "Чита, Черновская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 112,
     "uikTvd": "475403092438",
+    "uikName": "УИК №112",
     "tikTvd": "2752000284720",
-    "tikName": "Чита, Черновская"
+    "tikName": "Чита, Черновская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 113,
     "uikTvd": "475403092439",
+    "uikName": "УИК №113",
     "tikTvd": "2752000284720",
-    "tikName": "Чита, Черновская"
+    "tikName": "Чита, Черновская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 114,
     "uikTvd": "475403092440",
+    "uikName": "УИК №114",
     "tikTvd": "2752000284720",
-    "tikName": "Чита, Черновская"
+    "tikName": "Чита, Черновская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 115,
     "uikTvd": "475403092441",
+    "uikName": "УИК №115",
     "tikTvd": "2752000284720",
-    "tikName": "Чита, Черновская"
+    "tikName": "Чита, Черновская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 116,
     "uikTvd": "475403092442",
+    "uikName": "УИК №116",
     "tikTvd": "2752000284720",
-    "tikName": "Чита, Черновская"
+    "tikName": "Чита, Черновская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 117,
     "uikTvd": "475403692708",
+    "uikName": "УИК №117",
     "tikTvd": "2752000313742",
-    "tikName": "Петровск-Забайкальская городская"
+    "tikName": "Петровск-Забайкальская городская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 118,
     "uikTvd": "475403692710",
+    "uikName": "УИК №118",
     "tikTvd": "2752000313742",
-    "tikName": "Петровск-Забайкальская городская"
+    "tikName": "Петровск-Забайкальская городская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 119,
     "uikTvd": "475403692711",
+    "uikName": "УИК №119",
     "tikTvd": "2752000313742",
-    "tikName": "Петровск-Забайкальская городская"
+    "tikName": "Петровск-Забайкальская городская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 120,
     "uikTvd": "475403692712",
+    "uikName": "УИК №120",
     "tikTvd": "2752000313742",
-    "tikName": "Петровск-Забайкальская городская"
+    "tikName": "Петровск-Забайкальская городская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 121,
     "uikTvd": "475403692713",
+    "uikName": "УИК №121",
     "tikTvd": "2752000313742",
-    "tikName": "Петровск-Забайкальская городская"
+    "tikName": "Петровск-Забайкальская городская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 122,
     "uikTvd": "475403692714",
+    "uikName": "УИК №122",
     "tikTvd": "2752000313742",
-    "tikName": "Петровск-Забайкальская городская"
+    "tikName": "Петровск-Забайкальская городская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 123,
     "uikTvd": "475403692715",
+    "uikName": "УИК №123",
     "tikTvd": "2752000313742",
-    "tikName": "Петровск-Забайкальская городская"
+    "tikName": "Петровск-Забайкальская городская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 124,
     "uikTvd": "475403692716",
+    "uikName": "УИК №124",
     "tikTvd": "2752000313742",
-    "tikName": "Петровск-Забайкальская городская"
+    "tikName": "Петровск-Забайкальская городская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 125,
     "uikTvd": "475403692717",
+    "uikName": "УИК №125",
     "tikTvd": "2752000313742",
-    "tikName": "Петровск-Забайкальская городская"
+    "tikName": "Петровск-Забайкальская городская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 126,
     "uikTvd": "475403692718",
+    "uikName": "УИК №126",
     "tikTvd": "2752000313742",
-    "tikName": "Петровск-Забайкальская городская"
+    "tikName": "Петровск-Забайкальская городская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 127,
     "uikTvd": "475403692719",
+    "uikName": "УИК №127",
     "tikTvd": "2752000313742",
-    "tikName": "Петровск-Забайкальская городская"
+    "tikName": "Петровск-Забайкальская городская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 128,
     "uikTvd": "475403692720",
+    "uikName": "УИК №128",
     "tikTvd": "2752000313742",
-    "tikName": "Петровск-Забайкальская городская"
+    "tikName": "Петровск-Забайкальская городская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 129,
     "uikTvd": "475403692721",
+    "uikName": "УИК №129",
     "tikTvd": "2752000313742",
-    "tikName": "Петровск-Забайкальская городская"
+    "tikName": "Петровск-Забайкальская городская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 130,
     "uikTvd": "475403692722",
+    "uikName": "УИК №130",
     "tikTvd": "2752000313742",
-    "tikName": "Петровск-Забайкальская городская"
+    "tikName": "Петровск-Забайкальская городская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 131,
     "uikTvd": "475403692723",
+    "uikName": "УИК №131",
     "tikTvd": "2752000313742",
-    "tikName": "Петровск-Забайкальская городская"
+    "tikName": "Петровск-Забайкальская городская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 132,
     "uikTvd": "475403692724",
+    "uikName": "УИК №132",
     "tikTvd": "2752000313742",
-    "tikName": "Петровск-Забайкальская городская"
+    "tikName": "Петровск-Забайкальская городская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 134,
     "uikTvd": "475403692726",
+    "uikName": "УИК №134",
     "tikTvd": "2752000313742",
-    "tikName": "Петровск-Забайкальская городская"
+    "tikName": "Петровск-Забайкальская городская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 135,
     "uikTvd": "475403692727",
+    "uikName": "УИК №135",
     "tikTvd": "2752000313742",
-    "tikName": "Петровск-Забайкальская городская"
+    "tikName": "Петровск-Забайкальская городская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 136,
     "uikTvd": "475403692728",
+    "uikName": "УИК №136",
     "tikTvd": "2752000313742",
-    "tikName": "Петровск-Забайкальская городская"
+    "tikName": "Петровск-Забайкальская городская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 137,
     "uikTvd": "475403692729",
+    "uikName": "УИК №137",
     "tikTvd": "2752000313742",
-    "tikName": "Петровск-Забайкальская городская"
+    "tikName": "Петровск-Забайкальская городская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 138,
     "uikTvd": "4754001103590",
+    "uikName": "УИК №138",
     "tikTvd": "2752000284722",
-    "tikName": "Акшинская"
+    "tikName": "Акшинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 139,
     "uikTvd": "4754001103591",
+    "uikName": "УИК №139",
     "tikTvd": "2752000284722",
-    "tikName": "Акшинская"
+    "tikName": "Акшинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 140,
     "uikTvd": "4754001103592",
+    "uikName": "УИК №140",
     "tikTvd": "2752000284722",
-    "tikName": "Акшинская"
+    "tikName": "Акшинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 141,
     "uikTvd": "4754001103593",
+    "uikName": "УИК №141",
     "tikTvd": "2752000284722",
-    "tikName": "Акшинская"
+    "tikName": "Акшинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 142,
     "uikTvd": "4754001103594",
+    "uikName": "УИК №142",
     "tikTvd": "2752000284722",
-    "tikName": "Акшинская"
+    "tikName": "Акшинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 143,
     "uikTvd": "4754001103595",
+    "uikName": "УИК №143",
     "tikTvd": "2752000284722",
-    "tikName": "Акшинская"
+    "tikName": "Акшинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 144,
     "uikTvd": "4754001103596",
+    "uikName": "УИК №144",
     "tikTvd": "2752000284722",
-    "tikName": "Акшинская"
+    "tikName": "Акшинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 145,
     "uikTvd": "4754001103597",
+    "uikName": "УИК №145",
     "tikTvd": "2752000284722",
-    "tikName": "Акшинская"
+    "tikName": "Акшинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 146,
     "uikTvd": "4754001103598",
+    "uikName": "УИК №146",
     "tikTvd": "2752000284722",
-    "tikName": "Акшинская"
+    "tikName": "Акшинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 147,
     "uikTvd": "4754001103599",
+    "uikName": "УИК №147",
     "tikTvd": "2752000284722",
-    "tikName": "Акшинская"
+    "tikName": "Акшинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 148,
     "uikTvd": "4754001103600",
+    "uikName": "УИК №148",
     "tikTvd": "2752000284722",
-    "tikName": "Акшинская"
+    "tikName": "Акшинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 149,
     "uikTvd": "4754001103601",
+    "uikName": "УИК №149",
     "tikTvd": "2752000284722",
-    "tikName": "Акшинская"
+    "tikName": "Акшинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 150,
     "uikTvd": "4754001103602",
+    "uikName": "УИК №150",
     "tikTvd": "2752000284722",
-    "tikName": "Акшинская"
+    "tikName": "Акшинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 151,
     "uikTvd": "4754001103603",
+    "uikName": "УИК №151",
     "tikTvd": "2752000284722",
-    "tikName": "Акшинская"
+    "tikName": "Акшинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 152,
     "uikTvd": "4754001103604",
+    "uikName": "УИК №152",
     "tikTvd": "2752000284722",
-    "tikName": "Акшинская"
+    "tikName": "Акшинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 153,
     "uikTvd": "4754001103605",
+    "uikName": "УИК №153",
     "tikTvd": "2752000284722",
-    "tikName": "Акшинская"
+    "tikName": "Акшинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 154,
     "uikTvd": "475400791910",
+    "uikName": "УИК №154",
     "tikTvd": "2752000313738",
-    "tikName": "Каларская"
+    "tikName": "Каларская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 155,
     "uikTvd": "475400791894",
+    "uikName": "УИК №155",
     "tikTvd": "2752000313738",
-    "tikName": "Каларская"
+    "tikName": "Каларская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 156,
     "uikTvd": "475400791895",
+    "uikName": "УИК №156",
     "tikTvd": "2752000313738",
-    "tikName": "Каларская"
+    "tikName": "Каларская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 157,
     "uikTvd": "475400791896",
+    "uikName": "УИК №157",
     "tikTvd": "2752000313738",
-    "tikName": "Каларская"
+    "tikName": "Каларская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 158,
     "uikTvd": "475400791897",
+    "uikName": "УИК №158",
     "tikTvd": "2752000313738",
-    "tikName": "Каларская"
+    "tikName": "Каларская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 159,
     "uikTvd": "475400791898",
+    "uikName": "УИК №159",
     "tikTvd": "2752000313738",
-    "tikName": "Каларская"
+    "tikName": "Каларская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 160,
     "uikTvd": "475400791899",
+    "uikName": "УИК №160",
     "tikTvd": "2752000313738",
-    "tikName": "Каларская"
+    "tikName": "Каларская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 161,
     "uikTvd": "475400791900",
+    "uikName": "УИК №161",
     "tikTvd": "2752000313738",
-    "tikName": "Каларская"
+    "tikName": "Каларская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 162,
     "uikTvd": "475400791901",
+    "uikName": "УИК №162",
     "tikTvd": "2752000313738",
-    "tikName": "Каларская"
+    "tikName": "Каларская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 163,
     "uikTvd": "475400791902",
+    "uikName": "УИК №163",
     "tikTvd": "2752000313738",
-    "tikName": "Каларская"
+    "tikName": "Каларская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 164,
     "uikTvd": "475400791903",
+    "uikName": "УИК №164",
     "tikTvd": "2752000313738",
-    "tikName": "Каларская"
+    "tikName": "Каларская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 165,
     "uikTvd": "475400791904",
+    "uikName": "УИК №165",
     "tikTvd": "2752000313738",
-    "tikName": "Каларская"
+    "tikName": "Каларская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 166,
     "uikTvd": "475400791905",
+    "uikName": "УИК №166",
     "tikTvd": "2752000313738",
-    "tikName": "Каларская"
+    "tikName": "Каларская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 167,
     "uikTvd": "475400791906",
+    "uikName": "УИК №167",
     "tikTvd": "2752000313738",
-    "tikName": "Каларская"
+    "tikName": "Каларская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 168,
     "uikTvd": "475400791907",
+    "uikName": "УИК №168",
     "tikTvd": "2752000313738",
-    "tikName": "Каларская"
+    "tikName": "Каларская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 169,
     "uikTvd": "4754011107551",
+    "uikName": "УИК №169",
     "tikTvd": "2752000284724",
-    "tikName": "Красночикойская"
+    "tikName": "Красночикойская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 170,
     "uikTvd": "4754011107553",
+    "uikName": "УИК №170",
     "tikTvd": "2752000284724",
-    "tikName": "Красночикойская"
+    "tikName": "Красночикойская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 171,
     "uikTvd": "4754011107554",
+    "uikName": "УИК №171",
     "tikTvd": "2752000284724",
-    "tikName": "Красночикойская"
+    "tikName": "Красночикойская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 172,
     "uikTvd": "4754011107555",
+    "uikName": "УИК №172",
     "tikTvd": "2752000284724",
-    "tikName": "Красночикойская"
+    "tikName": "Красночикойская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 173,
     "uikTvd": "4754011107556",
+    "uikName": "УИК №173",
     "tikTvd": "2752000284724",
-    "tikName": "Красночикойская"
+    "tikName": "Красночикойская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 174,
     "uikTvd": "4754011107557",
+    "uikName": "УИК №174",
     "tikTvd": "2752000284724",
-    "tikName": "Красночикойская"
+    "tikName": "Красночикойская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 175,
     "uikTvd": "4754011107558",
+    "uikName": "УИК №175",
     "tikTvd": "2752000284724",
-    "tikName": "Красночикойская"
+    "tikName": "Красночикойская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 176,
     "uikTvd": "4754011107559",
+    "uikName": "УИК №176",
     "tikTvd": "2752000284724",
-    "tikName": "Красночикойская"
+    "tikName": "Красночикойская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 177,
     "uikTvd": "4754011107560",
+    "uikName": "УИК №177",
     "tikTvd": "2752000284724",
-    "tikName": "Красночикойская"
+    "tikName": "Красночикойская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 178,
     "uikTvd": "4754011107561",
+    "uikName": "УИК №178",
     "tikTvd": "2752000284724",
-    "tikName": "Красночикойская"
+    "tikName": "Красночикойская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 179,
     "uikTvd": "4754011107562",
+    "uikName": "УИК №179",
     "tikTvd": "2752000284724",
-    "tikName": "Красночикойская"
+    "tikName": "Красночикойская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 180,
     "uikTvd": "4754011107563",
+    "uikName": "УИК №180",
     "tikTvd": "2752000284724",
-    "tikName": "Красночикойская"
+    "tikName": "Красночикойская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 181,
     "uikTvd": "4754011107564",
+    "uikName": "УИК №181",
     "tikTvd": "2752000284724",
-    "tikName": "Красночикойская"
+    "tikName": "Красночикойская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 182,
     "uikTvd": "4754011107565",
+    "uikName": "УИК №182",
     "tikTvd": "2752000284724",
-    "tikName": "Красночикойская"
+    "tikName": "Красночикойская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 183,
     "uikTvd": "4754011107566",
+    "uikName": "УИК №183",
     "tikTvd": "2752000284724",
-    "tikName": "Красночикойская"
+    "tikName": "Красночикойская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 184,
     "uikTvd": "4754011107567",
+    "uikName": "УИК №184",
     "tikTvd": "2752000284724",
-    "tikName": "Красночикойская"
+    "tikName": "Красночикойская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 185,
     "uikTvd": "4754011107568",
+    "uikName": "УИК №185",
     "tikTvd": "2752000284724",
-    "tikName": "Красночикойская"
+    "tikName": "Красночикойская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 186,
     "uikTvd": "4754011107569",
+    "uikName": "УИК №186",
     "tikTvd": "2752000284724",
-    "tikName": "Красночикойская"
+    "tikName": "Красночикойская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 187,
     "uikTvd": "4754011107570",
+    "uikName": "УИК №187",
     "tikTvd": "2752000284724",
-    "tikName": "Красночикойская"
+    "tikName": "Красночикойская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 188,
     "uikTvd": "4754011107571",
+    "uikName": "УИК №188",
     "tikTvd": "2752000284724",
-    "tikName": "Красночикойская"
+    "tikName": "Красночикойская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 189,
     "uikTvd": "4754011107572",
+    "uikName": "УИК №189",
     "tikTvd": "2752000284724",
-    "tikName": "Красночикойская"
+    "tikName": "Красночикойская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 190,
     "uikTvd": "4754011107573",
+    "uikName": "УИК №190",
     "tikTvd": "2752000284724",
-    "tikName": "Красночикойская"
+    "tikName": "Красночикойская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 191,
     "uikTvd": "4754011107574",
+    "uikName": "УИК №191",
     "tikTvd": "2752000284724",
-    "tikName": "Красночикойская"
+    "tikName": "Красночикойская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 192,
     "uikTvd": "4754011107575",
+    "uikName": "УИК №192",
     "tikTvd": "2752000284724",
-    "tikName": "Красночикойская"
+    "tikName": "Красночикойская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 193,
     "uikTvd": "4754011107576",
+    "uikName": "УИК №193",
     "tikTvd": "2752000284724",
-    "tikName": "Красночикойская"
+    "tikName": "Красночикойская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 194,
     "uikTvd": "4754011107577",
+    "uikName": "УИК №194",
     "tikTvd": "2752000284724",
-    "tikName": "Красночикойская"
+    "tikName": "Красночикойская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 195,
     "uikTvd": "4754011107578",
+    "uikName": "УИК №195",
     "tikTvd": "2752000284724",
-    "tikName": "Красночикойская"
+    "tikName": "Красночикойская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 196,
     "uikTvd": "4754011107579",
+    "uikName": "УИК №196",
     "tikTvd": "2752000284724",
-    "tikName": "Красночикойская"
+    "tikName": "Красночикойская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 197,
     "uikTvd": "4754011107580",
+    "uikName": "УИК №197",
     "tikTvd": "2752000284724",
-    "tikName": "Красночикойская"
+    "tikName": "Красночикойская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 198,
     "uikTvd": "4754011107581",
+    "uikName": "УИК №198",
     "tikTvd": "2752000284724",
-    "tikName": "Красночикойская"
+    "tikName": "Красночикойская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 199,
     "uikTvd": "4754011107582",
+    "uikName": "УИК №199",
     "tikTvd": "2752000284724",
-    "tikName": "Красночикойская"
+    "tikName": "Красночикойская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 200,
     "uikTvd": "4754011107583",
+    "uikName": "УИК №200",
     "tikTvd": "2752000284724",
-    "tikName": "Красночикойская"
+    "tikName": "Красночикойская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 201,
     "uikTvd": "4754011107584",
+    "uikName": "УИК №201",
     "tikTvd": "2752000284724",
-    "tikName": "Красночикойская"
+    "tikName": "Красночикойская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 202,
     "uikTvd": "4754011107585",
+    "uikName": "УИК №202",
     "tikTvd": "2752000284724",
-    "tikName": "Красночикойская"
+    "tikName": "Красночикойская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 203,
     "uikTvd": "4754011107586",
+    "uikName": "УИК №203",
     "tikTvd": "2752000284724",
-    "tikName": "Красночикойская"
+    "tikName": "Красночикойская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 204,
     "uikTvd": "4754011107587",
+    "uikName": "УИК №204",
     "tikTvd": "2752000284724",
-    "tikName": "Красночикойская"
+    "tikName": "Красночикойская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 205,
     "uikTvd": "4754011107588",
+    "uikName": "УИК №205",
     "tikTvd": "2752000284724",
-    "tikName": "Красночикойская"
+    "tikName": "Красночикойская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 206,
     "uikTvd": "475401290226",
+    "uikName": "УИК №206",
     "tikTvd": "2752000284723",
-    "tikName": "Кыринская"
+    "tikName": "Кыринская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 207,
     "uikTvd": "475401290227",
+    "uikName": "УИК №207",
     "tikTvd": "2752000284723",
-    "tikName": "Кыринская"
+    "tikName": "Кыринская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 208,
     "uikTvd": "475401290228",
+    "uikName": "УИК №208",
     "tikTvd": "2752000284723",
-    "tikName": "Кыринская"
+    "tikName": "Кыринская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 209,
     "uikTvd": "475401290229",
+    "uikName": "УИК №209",
     "tikTvd": "2752000284723",
-    "tikName": "Кыринская"
+    "tikName": "Кыринская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 210,
     "uikTvd": "475401290230",
+    "uikName": "УИК №210",
     "tikTvd": "2752000284723",
-    "tikName": "Кыринская"
+    "tikName": "Кыринская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 211,
     "uikTvd": "475401290231",
+    "uikName": "УИК №211",
     "tikTvd": "2752000284723",
-    "tikName": "Кыринская"
+    "tikName": "Кыринская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 212,
     "uikTvd": "475401290232",
+    "uikName": "УИК №212",
     "tikTvd": "2752000284723",
-    "tikName": "Кыринская"
+    "tikName": "Кыринская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 213,
     "uikTvd": "475401290233",
+    "uikName": "УИК №213",
     "tikTvd": "2752000284723",
-    "tikName": "Кыринская"
+    "tikName": "Кыринская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 214,
     "uikTvd": "475401290234",
+    "uikName": "УИК №214",
     "tikTvd": "2752000284723",
-    "tikName": "Кыринская"
+    "tikName": "Кыринская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 215,
     "uikTvd": "475401291098",
+    "uikName": "УИК №215",
     "tikTvd": "2752000284723",
-    "tikName": "Кыринская"
+    "tikName": "Кыринская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 216,
     "uikTvd": "475401290236",
+    "uikName": "УИК №216",
     "tikTvd": "2752000284723",
-    "tikName": "Кыринская"
+    "tikName": "Кыринская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 217,
     "uikTvd": "475401290237",
+    "uikName": "УИК №217",
     "tikTvd": "2752000284723",
-    "tikName": "Кыринская"
+    "tikName": "Кыринская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 218,
     "uikTvd": "475401290238",
+    "uikName": "УИК №218",
     "tikTvd": "2752000284723",
-    "tikName": "Кыринская"
+    "tikName": "Кыринская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 219,
     "uikTvd": "475401290239",
+    "uikName": "УИК №219",
     "tikTvd": "2752000284723",
-    "tikName": "Кыринская"
+    "tikName": "Кыринская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 220,
     "uikTvd": "475401290240",
+    "uikName": "УИК №220",
     "tikTvd": "2752000284723",
-    "tikName": "Кыринская"
+    "tikName": "Кыринская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 221,
     "uikTvd": "475401290241",
+    "uikName": "УИК №221",
     "tikTvd": "2752000284723",
-    "tikName": "Кыринская"
+    "tikName": "Кыринская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 222,
     "uikTvd": "475401290242",
+    "uikName": "УИК №222",
     "tikTvd": "2752000284723",
-    "tikName": "Кыринская"
+    "tikName": "Кыринская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 223,
     "uikTvd": "475401291097",
+    "uikName": "УИК №223",
     "tikTvd": "2752000284723",
-    "tikName": "Кыринская"
+    "tikName": "Кыринская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 224,
     "uikTvd": "475401895412",
+    "uikName": "УИК №224",
     "tikTvd": "2752000313743",
-    "tikName": "Петровск-Забайкальская"
+    "tikName": "Петровск-Забайкальская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 225,
     "uikTvd": "475401895414",
+    "uikName": "УИК №225",
     "tikTvd": "2752000313743",
-    "tikName": "Петровск-Забайкальская"
+    "tikName": "Петровск-Забайкальская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 226,
     "uikTvd": "475401895415",
+    "uikName": "УИК №226",
     "tikTvd": "2752000313743",
-    "tikName": "Петровск-Забайкальская"
+    "tikName": "Петровск-Забайкальская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 227,
     "uikTvd": "475401895416",
+    "uikName": "УИК №227",
     "tikTvd": "2752000313743",
-    "tikName": "Петровск-Забайкальская"
+    "tikName": "Петровск-Забайкальская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 228,
     "uikTvd": "475401895417",
+    "uikName": "УИК №228",
     "tikTvd": "2752000313743",
-    "tikName": "Петровск-Забайкальская"
+    "tikName": "Петровск-Забайкальская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 229,
     "uikTvd": "475401895418",
+    "uikName": "УИК №229",
     "tikTvd": "2752000313743",
-    "tikName": "Петровск-Забайкальская"
+    "tikName": "Петровск-Забайкальская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 230,
     "uikTvd": "475401895419",
+    "uikName": "УИК №230",
     "tikTvd": "2752000313743",
-    "tikName": "Петровск-Забайкальская"
+    "tikName": "Петровск-Забайкальская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 231,
     "uikTvd": "475401895420",
+    "uikName": "УИК №231",
     "tikTvd": "2752000313743",
-    "tikName": "Петровск-Забайкальская"
+    "tikName": "Петровск-Забайкальская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 232,
     "uikTvd": "475401895421",
+    "uikName": "УИК №232",
     "tikTvd": "2752000313743",
-    "tikName": "Петровск-Забайкальская"
+    "tikName": "Петровск-Забайкальская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 233,
     "uikTvd": "475401895422",
+    "uikName": "УИК №233",
     "tikTvd": "2752000313743",
-    "tikName": "Петровск-Забайкальская"
+    "tikName": "Петровск-Забайкальская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 234,
     "uikTvd": "475401895423",
+    "uikName": "УИК №234",
     "tikTvd": "2752000313743",
-    "tikName": "Петровск-Забайкальская"
+    "tikName": "Петровск-Забайкальская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 235,
     "uikTvd": "475401895424",
+    "uikName": "УИК №235",
     "tikTvd": "2752000313743",
-    "tikName": "Петровск-Забайкальская"
+    "tikName": "Петровск-Забайкальская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 236,
     "uikTvd": "475401895425",
+    "uikName": "УИК №236",
     "tikTvd": "2752000313743",
-    "tikName": "Петровск-Забайкальская"
+    "tikName": "Петровск-Забайкальская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 237,
     "uikTvd": "475401895426",
+    "uikName": "УИК №237",
     "tikTvd": "2752000313743",
-    "tikName": "Петровск-Забайкальская"
+    "tikName": "Петровск-Забайкальская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 238,
     "uikTvd": "475401895427",
+    "uikName": "УИК №238",
     "tikTvd": "2752000313743",
-    "tikName": "Петровск-Забайкальская"
+    "tikName": "Петровск-Забайкальская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 239,
     "uikTvd": "475401895428",
+    "uikName": "УИК №239",
     "tikTvd": "2752000313743",
-    "tikName": "Петровск-Забайкальская"
+    "tikName": "Петровск-Забайкальская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 240,
     "uikTvd": "475401895429",
+    "uikName": "УИК №240",
     "tikTvd": "2752000313743",
-    "tikName": "Петровск-Забайкальская"
+    "tikName": "Петровск-Забайкальская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 241,
     "uikTvd": "475401895430",
+    "uikName": "УИК №241",
     "tikTvd": "2752000313743",
-    "tikName": "Петровск-Забайкальская"
+    "tikName": "Петровск-Забайкальская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 242,
     "uikTvd": "475401895431",
+    "uikName": "УИК №242",
     "tikTvd": "2752000313743",
-    "tikName": "Петровск-Забайкальская"
+    "tikName": "Петровск-Забайкальская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 243,
     "uikTvd": "475401895432",
+    "uikName": "УИК №243",
     "tikTvd": "2752000313743",
-    "tikName": "Петровск-Забайкальская"
+    "tikName": "Петровск-Забайкальская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 244,
     "uikTvd": "475401895433",
+    "uikName": "УИК №244",
     "tikTvd": "2752000313743",
-    "tikName": "Петровск-Забайкальская"
+    "tikName": "Петровск-Забайкальская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 245,
     "uikTvd": "475401895434",
+    "uikName": "УИК №245",
     "tikTvd": "2752000313743",
-    "tikName": "Петровск-Забайкальская"
+    "tikName": "Петровск-Забайкальская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 246,
     "uikTvd": "475401895435",
+    "uikName": "УИК №246",
     "tikTvd": "2752000313743",
-    "tikName": "Петровск-Забайкальская"
+    "tikName": "Петровск-Забайкальская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 247,
     "uikTvd": "475402197889",
+    "uikName": "УИК №247",
     "tikTvd": "2752000284732",
-    "tikName": "Тунгиро-Олекминская"
+    "tikName": "Тунгиро-Олекминская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 248,
     "uikTvd": "475402197892",
+    "uikName": "УИК №248",
     "tikTvd": "2752000284732",
-    "tikName": "Тунгиро-Олекминская"
+    "tikName": "Тунгиро-Олекминская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 249,
     "uikTvd": "475402197893",
+    "uikName": "УИК №249",
     "tikTvd": "2752000284732",
-    "tikName": "Тунгиро-Олекминская"
+    "tikName": "Тунгиро-Олекминская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 250,
     "uikTvd": "475402197894",
+    "uikName": "УИК №250",
     "tikTvd": "2752000284732",
-    "tikName": "Тунгиро-Олекминская"
+    "tikName": "Тунгиро-Олекминская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 251,
     "uikTvd": "475402197895",
+    "uikName": "УИК №251",
     "tikTvd": "2752000284732",
-    "tikName": "Тунгиро-Олекминская"
+    "tikName": "Тунгиро-Олекминская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 252,
     "uikTvd": "475402292836",
+    "uikName": "УИК №252",
     "tikTvd": "2752000313745",
-    "tikName": "Тунгокоченская"
+    "tikName": "Тунгокоченская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 253,
     "uikTvd": "475402292838",
+    "uikName": "УИК №253",
     "tikTvd": "2752000313745",
-    "tikName": "Тунгокоченская"
+    "tikName": "Тунгокоченская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 254,
     "uikTvd": "475402292840",
+    "uikName": "УИК №254",
     "tikTvd": "2752000313745",
-    "tikName": "Тунгокоченская"
+    "tikName": "Тунгокоченская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 255,
     "uikTvd": "475402292842",
+    "uikName": "УИК №255",
     "tikTvd": "2752000313745",
-    "tikName": "Тунгокоченская"
+    "tikName": "Тунгокоченская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 256,
     "uikTvd": "475402292844",
+    "uikName": "УИК №256",
     "tikTvd": "2752000313745",
-    "tikName": "Тунгокоченская"
+    "tikName": "Тунгокоченская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 257,
     "uikTvd": "475402292845",
+    "uikName": "УИК №257",
     "tikTvd": "2752000313745",
-    "tikName": "Тунгокоченская"
+    "tikName": "Тунгокоченская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 258,
     "uikTvd": "475402292846",
+    "uikName": "УИК №258",
     "tikTvd": "2752000313745",
-    "tikName": "Тунгокоченская"
+    "tikName": "Тунгокоченская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 259,
     "uikTvd": "475402292847",
+    "uikName": "УИК №259",
     "tikTvd": "2752000313745",
-    "tikName": "Тунгокоченская"
+    "tikName": "Тунгокоченская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 260,
     "uikTvd": "475402292848",
+    "uikName": "УИК №260",
     "tikTvd": "2752000313745",
-    "tikName": "Тунгокоченская"
+    "tikName": "Тунгокоченская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 261,
     "uikTvd": "475402293038",
+    "uikName": "УИК №261",
     "tikTvd": "2752000313745",
-    "tikName": "Тунгокоченская"
+    "tikName": "Тунгокоченская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 262,
     "uikTvd": "475402292850",
+    "uikName": "УИК №262",
     "tikTvd": "2752000313745",
-    "tikName": "Тунгокоченская"
+    "tikName": "Тунгокоченская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 263,
     "uikTvd": "475402292851",
+    "uikName": "УИК №263",
     "tikTvd": "2752000313745",
-    "tikName": "Тунгокоченская"
+    "tikName": "Тунгокоченская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 264,
     "uikTvd": "475402292852",
+    "uikName": "УИК №264",
     "tikTvd": "2752000313745",
-    "tikName": "Тунгокоченская"
+    "tikName": "Тунгокоченская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 265,
     "uikTvd": "475402292853",
+    "uikName": "УИК №265",
     "tikTvd": "2752000313745",
-    "tikName": "Тунгокоченская"
+    "tikName": "Тунгокоченская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 266,
     "uikTvd": "475402292854",
+    "uikName": "УИК №266",
     "tikTvd": "2752000313745",
-    "tikName": "Тунгокоченская"
+    "tikName": "Тунгокоченская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 267,
     "uikTvd": "475402292855",
+    "uikName": "УИК №267",
     "tikTvd": "2752000313745",
-    "tikName": "Тунгокоченская"
+    "tikName": "Тунгокоченская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 268,
     "uikTvd": "475402293046",
+    "uikName": "УИК №268",
     "tikTvd": "2752000313745",
-    "tikName": "Тунгокоченская"
+    "tikName": "Тунгокоченская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 269,
     "uikTvd": "475402292857",
+    "uikName": "УИК №269",
     "tikTvd": "2752000313745",
-    "tikName": "Тунгокоченская"
+    "tikName": "Тунгокоченская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 270,
     "uikTvd": "475402292858",
+    "uikName": "УИК №270",
     "tikTvd": "2752000313745",
-    "tikName": "Тунгокоченская"
+    "tikName": "Тунгокоченская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 271,
     "uikTvd": "475402293045",
+    "uikName": "УИК №271",
     "tikTvd": "2752000313745",
-    "tikName": "Тунгокоченская"
+    "tikName": "Тунгокоченская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 272,
     "uikTvd": "475402397600",
+    "uikName": "УИК №272",
     "tikTvd": "2752000284713",
-    "tikName": "Улетовская"
+    "tikName": "Улетовская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 273,
     "uikTvd": "475402397604",
+    "uikName": "УИК №273",
     "tikTvd": "2752000284713",
-    "tikName": "Улетовская"
+    "tikName": "Улетовская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 274,
     "uikTvd": "475402397605",
+    "uikName": "УИК №274",
     "tikTvd": "2752000284713",
-    "tikName": "Улетовская"
+    "tikName": "Улетовская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 275,
     "uikTvd": "475402397606",
+    "uikName": "УИК №275",
     "tikTvd": "2752000284713",
-    "tikName": "Улетовская"
+    "tikName": "Улетовская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 276,
     "uikTvd": "475402397607",
+    "uikName": "УИК №276",
     "tikTvd": "2752000284713",
-    "tikName": "Улетовская"
+    "tikName": "Улетовская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 277,
     "uikTvd": "475402397608",
+    "uikName": "УИК №277",
     "tikTvd": "2752000284713",
-    "tikName": "Улетовская"
+    "tikName": "Улетовская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 278,
     "uikTvd": "475402397609",
+    "uikName": "УИК №278",
     "tikTvd": "2752000284713",
-    "tikName": "Улетовская"
+    "tikName": "Улетовская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 279,
     "uikTvd": "475402397610",
+    "uikName": "УИК №279",
     "tikTvd": "2752000284713",
-    "tikName": "Улетовская"
+    "tikName": "Улетовская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 280,
     "uikTvd": "475402397611",
+    "uikName": "УИК №280",
     "tikTvd": "2752000284713",
-    "tikName": "Улетовская"
+    "tikName": "Улетовская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 281,
     "uikTvd": "475402397612",
+    "uikName": "УИК №281",
     "tikTvd": "2752000284713",
-    "tikName": "Улетовская"
+    "tikName": "Улетовская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 282,
     "uikTvd": "475402397613",
+    "uikName": "УИК №282",
     "tikTvd": "2752000284713",
-    "tikName": "Улетовская"
+    "tikName": "Улетовская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 283,
     "uikTvd": "475402397614",
+    "uikName": "УИК №283",
     "tikTvd": "2752000284713",
-    "tikName": "Улетовская"
+    "tikName": "Улетовская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 284,
     "uikTvd": "475402397615",
+    "uikName": "УИК №284",
     "tikTvd": "2752000284713",
-    "tikName": "Улетовская"
+    "tikName": "Улетовская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 285,
     "uikTvd": "475402397616",
+    "uikName": "УИК №285",
     "tikTvd": "2752000284713",
-    "tikName": "Улетовская"
+    "tikName": "Улетовская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 286,
     "uikTvd": "475402397617",
+    "uikName": "УИК №286",
     "tikTvd": "2752000284713",
-    "tikName": "Улетовская"
+    "tikName": "Улетовская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 287,
     "uikTvd": "475402397618",
+    "uikName": "УИК №287",
     "tikTvd": "2752000284713",
-    "tikName": "Улетовская"
+    "tikName": "Улетовская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 288,
     "uikTvd": "475402397621",
+    "uikName": "УИК №288",
     "tikTvd": "2752000284713",
-    "tikName": "Улетовская"
+    "tikName": "Улетовская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 289,
     "uikTvd": "475402397622",
+    "uikName": "УИК №289",
     "tikTvd": "2752000284713",
-    "tikName": "Улетовская"
+    "tikName": "Улетовская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 290,
     "uikTvd": "475402397623",
+    "uikName": "УИК №290",
     "tikTvd": "2752000284713",
-    "tikName": "Улетовская"
+    "tikName": "Улетовская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 291,
     "uikTvd": "475402397624",
+    "uikName": "УИК №291",
     "tikTvd": "2752000284713",
-    "tikName": "Улетовская"
+    "tikName": "Улетовская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 292,
     "uikTvd": "475402397625",
+    "uikName": "УИК №292",
     "tikTvd": "2752000284713",
-    "tikName": "Улетовская"
+    "tikName": "Улетовская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 293,
     "uikTvd": "475402397626",
+    "uikName": "УИК №293",
     "tikTvd": "2752000284713",
-    "tikName": "Улетовская"
+    "tikName": "Улетовская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 294,
     "uikTvd": "475402397627",
+    "uikName": "УИК №294",
     "tikTvd": "2752000284713",
-    "tikName": "Улетовская"
+    "tikName": "Улетовская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 295,
     "uikTvd": "475402397628",
+    "uikName": "УИК №295",
     "tikTvd": "2752000284713",
-    "tikName": "Улетовская"
+    "tikName": "Улетовская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 296,
     "uikTvd": "475402488427",
+    "uikName": "УИК №296",
     "tikTvd": "2752000313737",
-    "tikName": "ЗАТО п. Горный"
+    "tikName": "ЗАТО п. Горный",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 297,
     "uikTvd": "475402488428",
+    "uikName": "УИК №297",
     "tikTvd": "2752000313737",
-    "tikName": "ЗАТО п. Горный"
+    "tikName": "ЗАТО п. Горный",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 298,
     "uikTvd": "475402488429",
+    "uikName": "УИК №298",
     "tikTvd": "2752000313737",
-    "tikName": "ЗАТО п. Горный"
+    "tikName": "ЗАТО п. Горный",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 299,
     "uikTvd": "4754025107588",
+    "uikName": "УИК №299",
     "tikTvd": "2752000284748",
-    "tikName": "Хилокская"
+    "tikName": "Хилокская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 300,
     "uikTvd": "4754025107589",
+    "uikName": "УИК №300",
     "tikTvd": "2752000284748",
-    "tikName": "Хилокская"
+    "tikName": "Хилокская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 301,
     "uikTvd": "4754025107590",
+    "uikName": "УИК №301",
     "tikTvd": "2752000284748",
-    "tikName": "Хилокская"
+    "tikName": "Хилокская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 302,
     "uikTvd": "4754025107591",
+    "uikName": "УИК №302",
     "tikTvd": "2752000284748",
-    "tikName": "Хилокская"
+    "tikName": "Хилокская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 303,
     "uikTvd": "4754025107592",
+    "uikName": "УИК №303",
     "tikTvd": "2752000284748",
-    "tikName": "Хилокская"
+    "tikName": "Хилокская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 304,
     "uikTvd": "4754025107593",
+    "uikName": "УИК №304",
     "tikTvd": "2752000284748",
-    "tikName": "Хилокская"
+    "tikName": "Хилокская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 305,
     "uikTvd": "4754025107594",
+    "uikName": "УИК №305",
     "tikTvd": "2752000284748",
-    "tikName": "Хилокская"
+    "tikName": "Хилокская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 306,
     "uikTvd": "4754025107595",
+    "uikName": "УИК №306",
     "tikTvd": "2752000284748",
-    "tikName": "Хилокская"
+    "tikName": "Хилокская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 307,
     "uikTvd": "4754025107596",
+    "uikName": "УИК №307",
     "tikTvd": "2752000284748",
-    "tikName": "Хилокская"
+    "tikName": "Хилокская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 308,
     "uikTvd": "4754025108496",
+    "uikName": "УИК №308",
     "tikTvd": "2752000284748",
-    "tikName": "Хилокская"
+    "tikName": "Хилокская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 309,
     "uikTvd": "4754025107598",
+    "uikName": "УИК №309",
     "tikTvd": "2752000284748",
-    "tikName": "Хилокская"
+    "tikName": "Хилокская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 310,
     "uikTvd": "4754025107599",
+    "uikName": "УИК №310",
     "tikTvd": "2752000284748",
-    "tikName": "Хилокская"
+    "tikName": "Хилокская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 311,
     "uikTvd": "4754025107600",
+    "uikName": "УИК №311",
     "tikTvd": "2752000284748",
-    "tikName": "Хилокская"
+    "tikName": "Хилокская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 312,
     "uikTvd": "4754025107601",
+    "uikName": "УИК №312",
     "tikTvd": "2752000284748",
-    "tikName": "Хилокская"
+    "tikName": "Хилокская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 313,
     "uikTvd": "4754025107602",
+    "uikName": "УИК №313",
     "tikTvd": "2752000284748",
-    "tikName": "Хилокская"
+    "tikName": "Хилокская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 314,
     "uikTvd": "4754025107603",
+    "uikName": "УИК №314",
     "tikTvd": "2752000284748",
-    "tikName": "Хилокская"
+    "tikName": "Хилокская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 315,
     "uikTvd": "4754025107604",
+    "uikName": "УИК №315",
     "tikTvd": "2752000284748",
-    "tikName": "Хилокская"
+    "tikName": "Хилокская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 316,
     "uikTvd": "4754025107605",
+    "uikName": "УИК №316",
     "tikTvd": "2752000284748",
-    "tikName": "Хилокская"
+    "tikName": "Хилокская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 317,
     "uikTvd": "4754025107606",
+    "uikName": "УИК №317",
     "tikTvd": "2752000284748",
-    "tikName": "Хилокская"
+    "tikName": "Хилокская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 318,
     "uikTvd": "4754025107607",
+    "uikName": "УИК №318",
     "tikTvd": "2752000284748",
-    "tikName": "Хилокская"
+    "tikName": "Хилокская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 319,
     "uikTvd": "4754025107608",
+    "uikName": "УИК №319",
     "tikTvd": "2752000284748",
-    "tikName": "Хилокская"
+    "tikName": "Хилокская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 320,
     "uikTvd": "4754025107609",
+    "uikName": "УИК №320",
     "tikTvd": "2752000284748",
-    "tikName": "Хилокская"
+    "tikName": "Хилокская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 321,
     "uikTvd": "4754025107610",
+    "uikName": "УИК №321",
     "tikTvd": "2752000284748",
-    "tikName": "Хилокская"
+    "tikName": "Хилокская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 322,
     "uikTvd": "4754025107611",
+    "uikName": "УИК №322",
     "tikTvd": "2752000284748",
-    "tikName": "Хилокская"
+    "tikName": "Хилокская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 323,
     "uikTvd": "4754025107612",
+    "uikName": "УИК №323",
     "tikTvd": "2752000284748",
-    "tikName": "Хилокская"
+    "tikName": "Хилокская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 324,
     "uikTvd": "4754025107613",
+    "uikName": "УИК №324",
     "tikTvd": "2752000284748",
-    "tikName": "Хилокская"
+    "tikName": "Хилокская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 325,
     "uikTvd": "4754031120684",
+    "uikName": "УИК №325",
     "tikTvd": "2752000284744",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 326,
     "uikTvd": "4754031120686",
+    "uikName": "УИК №326",
     "tikTvd": "2752000284744",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 327,
     "uikTvd": "4754031120688",
+    "uikName": "УИК №327",
     "tikTvd": "2752000284744",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 328,
     "uikTvd": "4754031120690",
+    "uikName": "УИК №328",
     "tikTvd": "2752000284744",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 329,
     "uikTvd": "4754031120692",
+    "uikName": "УИК №329",
     "tikTvd": "2752000284744",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 330,
     "uikTvd": "4754031120695",
+    "uikName": "УИК №330",
     "tikTvd": "2752000284744",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 331,
     "uikTvd": "4754031120696",
+    "uikName": "УИК №331",
     "tikTvd": "2752000284744",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 332,
     "uikTvd": "4754031120697",
+    "uikName": "УИК №332",
     "tikTvd": "2752000284744",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 333,
     "uikTvd": "4754031120698",
+    "uikName": "УИК №333",
     "tikTvd": "2752000284744",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 334,
     "uikTvd": "4754031120699",
+    "uikName": "УИК №334",
     "tikTvd": "2752000284744",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 335,
     "uikTvd": "4754031120700",
+    "uikName": "УИК №335",
     "tikTvd": "2752000284744",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 336,
     "uikTvd": "4754031120701",
+    "uikName": "УИК №336",
     "tikTvd": "2752000284744",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 337,
     "uikTvd": "4754031120702",
+    "uikName": "УИК №337",
     "tikTvd": "2752000284744",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 338,
     "uikTvd": "4754031120703",
+    "uikName": "УИК №338",
     "tikTvd": "2752000284744",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 339,
     "uikTvd": "4754031121098",
+    "uikName": "УИК №339",
     "tikTvd": "2752000284744",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 340,
     "uikTvd": "4754031120705",
+    "uikName": "УИК №340",
     "tikTvd": "2752000284744",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 341,
     "uikTvd": "4754031120706",
+    "uikName": "УИК №341",
     "tikTvd": "2752000284744",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 342,
     "uikTvd": "4754031120707",
+    "uikName": "УИК №342",
     "tikTvd": "2752000284744",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 343,
     "uikTvd": "4754031120708",
+    "uikName": "УИК №343",
     "tikTvd": "2752000284744",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 344,
     "uikTvd": "4754031121100",
+    "uikName": "УИК №344",
     "tikTvd": "2752000284744",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 345,
     "uikTvd": "4754031120710",
+    "uikName": "УИК №345",
     "tikTvd": "2752000284744",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 346,
     "uikTvd": "4754031120711",
+    "uikName": "УИК №346",
     "tikTvd": "2752000284744",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 347,
     "uikTvd": "4754031120712",
+    "uikName": "УИК №347",
     "tikTvd": "2752000284744",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 348,
     "uikTvd": "4754031120713",
+    "uikName": "УИК №348",
     "tikTvd": "2752000284744",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 349,
     "uikTvd": "4754031120714",
+    "uikName": "УИК №349",
     "tikTvd": "2752000284744",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 350,
     "uikTvd": "4754031120715",
+    "uikName": "УИК №350",
     "tikTvd": "2752000284744",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 351,
     "uikTvd": "4754031120716",
+    "uikName": "УИК №351",
     "tikTvd": "2752000284744",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 352,
     "uikTvd": "4754031120717",
+    "uikName": "УИК №352",
     "tikTvd": "2752000284744",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 353,
     "uikTvd": "4754031120718",
+    "uikName": "УИК №353",
     "tikTvd": "2752000284744",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 354,
     "uikTvd": "4754031120719",
+    "uikName": "УИК №354",
     "tikTvd": "2752000284744",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 355,
     "uikTvd": "4754031120720",
+    "uikName": "УИК №355",
     "tikTvd": "2752000284744",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 356,
     "uikTvd": "4754031120721",
+    "uikName": "УИК №356",
     "tikTvd": "2752000284744",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 357,
     "uikTvd": "4754031120722",
+    "uikName": "УИК №357",
     "tikTvd": "2752000284744",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 358,
     "uikTvd": "4754031120723",
+    "uikName": "УИК №358",
     "tikTvd": "2752000284744",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 359,
     "uikTvd": "4754031120724",
+    "uikName": "УИК №359",
     "tikTvd": "2752000284744",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 360,
     "uikTvd": "4754031120725",
+    "uikName": "УИК №360",
     "tikTvd": "2752000284744",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 361,
     "uikTvd": "4754031120726",
+    "uikName": "УИК №361",
     "tikTvd": "2752000284744",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 362,
     "uikTvd": "4754031120727",
+    "uikName": "УИК №362",
     "tikTvd": "2752000284744",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 363,
     "uikTvd": "4754031120728",
+    "uikName": "УИК №363",
     "tikTvd": "2752000284744",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 364,
     "uikTvd": "4754031120729",
+    "uikName": "УИК №364",
     "tikTvd": "2752000284744",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 365,
     "uikTvd": "4754031120730",
+    "uikName": "УИК №365",
     "tikTvd": "2752000284744",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 366,
     "uikTvd": "4754031120731",
+    "uikName": "УИК №366",
     "tikTvd": "2752000284744",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 367,
     "uikTvd": "4754031120732",
+    "uikName": "УИК №367",
     "tikTvd": "2752000284744",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 368,
     "uikTvd": "4754031120733",
+    "uikName": "УИК №368",
     "tikTvd": "2752000284744",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 369,
     "uikTvd": "4754031120734",
+    "uikName": "УИК №369",
     "tikTvd": "2752000284744",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 370,
     "uikTvd": "4754031120735",
+    "uikName": "УИК №370",
     "tikTvd": "2752000284744",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 371,
     "uikTvd": "4754031120736",
+    "uikName": "УИК №371",
     "tikTvd": "2752000284744",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 372,
     "uikTvd": "4754031120737",
+    "uikName": "УИК №372",
     "tikTvd": "2752000284744",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 373,
     "uikTvd": "4754031120738",
+    "uikName": "УИК №373",
     "tikTvd": "2752000284744",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 374,
     "uikTvd": "4754031120739",
+    "uikName": "УИК №374",
     "tikTvd": "2752000284744",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 375,
     "uikTvd": "4754031120740",
+    "uikName": "УИК №375",
     "tikTvd": "2752000284744",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 376,
     "uikTvd": "4754031120741",
+    "uikName": "УИК №376",
     "tikTvd": "2752000284744",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 377,
     "uikTvd": "4754031120742",
+    "uikName": "УИК №377",
     "tikTvd": "2752000284744",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 378,
     "uikTvd": "4754031120743",
+    "uikName": "УИК №378",
     "tikTvd": "2752000284744",
-    "tikName": "Читинская"
+    "tikName": "Читинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 379,
     "uikTvd": "475403496812",
+    "uikName": "УИК №379",
     "tikTvd": "2752000284741",
-    "tikName": "Балейская"
+    "tikName": "Балейская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 380,
     "uikTvd": "475403496813",
+    "uikName": "УИК №380",
     "tikTvd": "2752000284741",
-    "tikName": "Балейская"
+    "tikName": "Балейская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 381,
     "uikTvd": "475403496814",
+    "uikName": "УИК №381",
     "tikTvd": "2752000284741",
-    "tikName": "Балейская"
+    "tikName": "Балейская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 382,
     "uikTvd": "475403496815",
+    "uikName": "УИК №382",
     "tikTvd": "2752000284741",
-    "tikName": "Балейская"
+    "tikName": "Балейская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 383,
     "uikTvd": "475403496816",
+    "uikName": "УИК №383",
     "tikTvd": "2752000284741",
-    "tikName": "Балейская"
+    "tikName": "Балейская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 384,
     "uikTvd": "475403496817",
+    "uikName": "УИК №384",
     "tikTvd": "2752000284741",
-    "tikName": "Балейская"
+    "tikName": "Балейская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 385,
     "uikTvd": "475403496818",
+    "uikName": "УИК №385",
     "tikTvd": "2752000284741",
-    "tikName": "Балейская"
+    "tikName": "Балейская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 386,
     "uikTvd": "475403496819",
+    "uikName": "УИК №386",
     "tikTvd": "2752000284741",
-    "tikName": "Балейская"
+    "tikName": "Балейская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 387,
     "uikTvd": "475403496820",
+    "uikName": "УИК №387",
     "tikTvd": "2752000284741",
-    "tikName": "Балейская"
+    "tikName": "Балейская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 388,
     "uikTvd": "475403496821",
+    "uikName": "УИК №388",
     "tikTvd": "2752000284741",
-    "tikName": "Балейская"
+    "tikName": "Балейская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 389,
     "uikTvd": "475403496822",
+    "uikName": "УИК №389",
     "tikTvd": "2752000284741",
-    "tikName": "Балейская"
+    "tikName": "Балейская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 390,
     "uikTvd": "475403496823",
+    "uikName": "УИК №390",
     "tikTvd": "2752000284741",
-    "tikName": "Балейская"
+    "tikName": "Балейская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 391,
     "uikTvd": "475403496824",
+    "uikName": "УИК №391",
     "tikTvd": "2752000284741",
-    "tikName": "Балейская"
+    "tikName": "Балейская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 392,
     "uikTvd": "475403496825",
+    "uikName": "УИК №392",
     "tikTvd": "2752000284741",
-    "tikName": "Балейская"
+    "tikName": "Балейская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 393,
     "uikTvd": "4754004135050",
+    "uikName": "УИК №393",
     "tikTvd": "2752000313733",
-    "tikName": "Борзинская"
+    "tikName": "Борзинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 394,
     "uikTvd": "4754004135052",
+    "uikName": "УИК №394",
     "tikTvd": "2752000313733",
-    "tikName": "Борзинская"
+    "tikName": "Борзинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 395,
     "uikTvd": "4754004135054",
+    "uikName": "УИК №395",
     "tikTvd": "2752000313733",
-    "tikName": "Борзинская"
+    "tikName": "Борзинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 396,
     "uikTvd": "4754004135056",
+    "uikName": "УИК №396",
     "tikTvd": "2752000313733",
-    "tikName": "Борзинская"
+    "tikName": "Борзинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 397,
     "uikTvd": "4754004135058",
+    "uikName": "УИК №397",
     "tikTvd": "2752000313733",
-    "tikName": "Борзинская"
+    "tikName": "Борзинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 398,
     "uikTvd": "4754004135060",
+    "uikName": "УИК №398",
     "tikTvd": "2752000313733",
-    "tikName": "Борзинская"
+    "tikName": "Борзинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 399,
     "uikTvd": "4754004135062",
+    "uikName": "УИК №399",
     "tikTvd": "2752000313733",
-    "tikName": "Борзинская"
+    "tikName": "Борзинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 400,
     "uikTvd": "4754004135064",
+    "uikName": "УИК №400",
     "tikTvd": "2752000313733",
-    "tikName": "Борзинская"
+    "tikName": "Борзинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 401,
     "uikTvd": "4754004135066",
+    "uikName": "УИК №401",
     "tikTvd": "2752000313733",
-    "tikName": "Борзинская"
+    "tikName": "Борзинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 402,
     "uikTvd": "4754004135068",
+    "uikName": "УИК №402",
     "tikTvd": "2752000313733",
-    "tikName": "Борзинская"
+    "tikName": "Борзинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 403,
     "uikTvd": "4754004135070",
+    "uikName": "УИК №403",
     "tikTvd": "2752000313733",
-    "tikName": "Борзинская"
+    "tikName": "Борзинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 404,
     "uikTvd": "4754004135072",
+    "uikName": "УИК №404",
     "tikTvd": "2752000313733",
-    "tikName": "Борзинская"
+    "tikName": "Борзинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 405,
     "uikTvd": "4754004135074",
+    "uikName": "УИК №405",
     "tikTvd": "2752000313733",
-    "tikName": "Борзинская"
+    "tikName": "Борзинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 406,
     "uikTvd": "4754004135076",
+    "uikName": "УИК №406",
     "tikTvd": "2752000313733",
-    "tikName": "Борзинская"
+    "tikName": "Борзинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 407,
     "uikTvd": "4754004135078",
+    "uikName": "УИК №407",
     "tikTvd": "2752000313733",
-    "tikName": "Борзинская"
+    "tikName": "Борзинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 408,
     "uikTvd": "4754004135080",
+    "uikName": "УИК №408",
     "tikTvd": "2752000313733",
-    "tikName": "Борзинская"
+    "tikName": "Борзинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 409,
     "uikTvd": "4754004135082",
+    "uikName": "УИК №409",
     "tikTvd": "2752000313733",
-    "tikName": "Борзинская"
+    "tikName": "Борзинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 410,
     "uikTvd": "4754004135084",
+    "uikName": "УИК №410",
     "tikTvd": "2752000313733",
-    "tikName": "Борзинская"
+    "tikName": "Борзинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 411,
     "uikTvd": "4754004135086",
+    "uikName": "УИК №411",
     "tikTvd": "2752000313733",
-    "tikName": "Борзинская"
+    "tikName": "Борзинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 412,
     "uikTvd": "4754004135088",
+    "uikName": "УИК №412",
     "tikTvd": "2752000313733",
-    "tikName": "Борзинская"
+    "tikName": "Борзинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 413,
     "uikTvd": "4754004135090",
+    "uikName": "УИК №413",
     "tikTvd": "2752000313733",
-    "tikName": "Борзинская"
+    "tikName": "Борзинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 414,
     "uikTvd": "4754004135092",
+    "uikName": "УИК №414",
     "tikTvd": "2752000313733",
-    "tikName": "Борзинская"
+    "tikName": "Борзинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 415,
     "uikTvd": "4754004135094",
+    "uikName": "УИК №415",
     "tikTvd": "2752000313733",
-    "tikName": "Борзинская"
+    "tikName": "Борзинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 416,
     "uikTvd": "4754004135096",
+    "uikName": "УИК №416",
     "tikTvd": "2752000313733",
-    "tikName": "Борзинская"
+    "tikName": "Борзинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 417,
     "uikTvd": "4754004135098",
+    "uikName": "УИК №417",
     "tikTvd": "2752000313733",
-    "tikName": "Борзинская"
+    "tikName": "Борзинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 418,
     "uikTvd": "4754004135100",
+    "uikName": "УИК №418",
     "tikTvd": "2752000313733",
-    "tikName": "Борзинская"
+    "tikName": "Борзинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 419,
     "uikTvd": "4754004135102",
+    "uikName": "УИК №419",
     "tikTvd": "2752000313733",
-    "tikName": "Борзинская"
+    "tikName": "Борзинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 420,
     "uikTvd": "4754004135104",
+    "uikName": "УИК №420",
     "tikTvd": "2752000313733",
-    "tikName": "Борзинская"
+    "tikName": "Борзинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 421,
     "uikTvd": "4754004135106",
+    "uikName": "УИК №421",
     "tikTvd": "2752000313733",
-    "tikName": "Борзинская"
+    "tikName": "Борзинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 422,
     "uikTvd": "4754004135108",
+    "uikName": "УИК №422",
     "tikTvd": "2752000313733",
-    "tikName": "Борзинская"
+    "tikName": "Борзинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 423,
     "uikTvd": "4754004135110",
+    "uikName": "УИК №423",
     "tikTvd": "2752000313733",
-    "tikName": "Борзинская"
+    "tikName": "Борзинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 424,
     "uikTvd": "4754004135112",
+    "uikName": "УИК №424",
     "tikTvd": "2752000313733",
-    "tikName": "Борзинская"
+    "tikName": "Борзинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 425,
     "uikTvd": "4754004135114",
+    "uikName": "УИК №425",
     "tikTvd": "2752000313733",
-    "tikName": "Борзинская"
+    "tikName": "Борзинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 426,
     "uikTvd": "4754004135116",
+    "uikName": "УИК №426",
     "tikTvd": "2752000313733",
-    "tikName": "Борзинская"
+    "tikName": "Борзинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 427,
     "uikTvd": "4754004135118",
+    "uikName": "УИК №427",
     "tikTvd": "2752000313733",
-    "tikName": "Борзинская"
+    "tikName": "Борзинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 428,
     "uikTvd": "4754004135120",
+    "uikName": "УИК №428",
     "tikTvd": "2752000313733",
-    "tikName": "Борзинская"
+    "tikName": "Борзинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 429,
     "uikTvd": "4754004135122",
+    "uikName": "УИК №429",
     "tikTvd": "2752000313733",
-    "tikName": "Борзинская"
+    "tikName": "Борзинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 430,
     "uikTvd": "4754004135124",
+    "uikName": "УИК №430",
     "tikTvd": "2752000313733",
-    "tikName": "Борзинская"
+    "tikName": "Борзинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 431,
     "uikTvd": "4754004135126",
+    "uikName": "УИК №431",
     "tikTvd": "2752000313733",
-    "tikName": "Борзинская"
+    "tikName": "Борзинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 432,
     "uikTvd": "4754010108442",
+    "uikName": "УИК №432",
     "tikTvd": "2752000284726",
-    "tikName": "Краснокаменская"
+    "tikName": "Краснокаменская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 433,
     "uikTvd": "4754010108444",
+    "uikName": "УИК №433",
     "tikTvd": "2752000284726",
-    "tikName": "Краснокаменская"
+    "tikName": "Краснокаменская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 434,
     "uikTvd": "4754010108668",
+    "uikName": "УИК №434",
     "tikTvd": "2752000284726",
-    "tikName": "Краснокаменская"
+    "tikName": "Краснокаменская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 435,
     "uikTvd": "4754010108448",
+    "uikName": "УИК №435",
     "tikTvd": "2752000284726",
-    "tikName": "Краснокаменская"
+    "tikName": "Краснокаменская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 436,
     "uikTvd": "4754010108450",
+    "uikName": "УИК №436",
     "tikTvd": "2752000284726",
-    "tikName": "Краснокаменская"
+    "tikName": "Краснокаменская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 437,
     "uikTvd": "4754010108452",
+    "uikName": "УИК №437",
     "tikTvd": "2752000284726",
-    "tikName": "Краснокаменская"
+    "tikName": "Краснокаменская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 438,
     "uikTvd": "4754010108454",
+    "uikName": "УИК №438",
     "tikTvd": "2752000284726",
-    "tikName": "Краснокаменская"
+    "tikName": "Краснокаменская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 439,
     "uikTvd": "4754010108456",
+    "uikName": "УИК №439",
     "tikTvd": "2752000284726",
-    "tikName": "Краснокаменская"
+    "tikName": "Краснокаменская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 440,
     "uikTvd": "4754010108645",
+    "uikName": "УИК №440",
     "tikTvd": "2752000284726",
-    "tikName": "Краснокаменская"
+    "tikName": "Краснокаменская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 441,
     "uikTvd": "4754010108646",
+    "uikName": "УИК №441",
     "tikTvd": "2752000284726",
-    "tikName": "Краснокаменская"
+    "tikName": "Краснокаменская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 442,
     "uikTvd": "4754010108647",
+    "uikName": "УИК №442",
     "tikTvd": "2752000284726",
-    "tikName": "Краснокаменская"
+    "tikName": "Краснокаменская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 443,
     "uikTvd": "4754010108648",
+    "uikName": "УИК №443",
     "tikTvd": "2752000284726",
-    "tikName": "Краснокаменская"
+    "tikName": "Краснокаменская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 444,
     "uikTvd": "4754010108649",
+    "uikName": "УИК №444",
     "tikTvd": "2752000284726",
-    "tikName": "Краснокаменская"
+    "tikName": "Краснокаменская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 445,
     "uikTvd": "4754010108672",
+    "uikName": "УИК №445",
     "tikTvd": "2752000284726",
-    "tikName": "Краснокаменская"
+    "tikName": "Краснокаменская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 446,
     "uikTvd": "4754010108470",
+    "uikName": "УИК №446",
     "tikTvd": "2752000284726",
-    "tikName": "Краснокаменская"
+    "tikName": "Краснокаменская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 447,
     "uikTvd": "4754010108472",
+    "uikName": "УИК №447",
     "tikTvd": "2752000284726",
-    "tikName": "Краснокаменская"
+    "tikName": "Краснокаменская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 448,
     "uikTvd": "4754010108474",
+    "uikName": "УИК №448",
     "tikTvd": "2752000284726",
-    "tikName": "Краснокаменская"
+    "tikName": "Краснокаменская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 449,
     "uikTvd": "4754010108476",
+    "uikName": "УИК №449",
     "tikTvd": "2752000284726",
-    "tikName": "Краснокаменская"
+    "tikName": "Краснокаменская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 450,
     "uikTvd": "4754010108478",
+    "uikName": "УИК №450",
     "tikTvd": "2752000284726",
-    "tikName": "Краснокаменская"
+    "tikName": "Краснокаменская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 452,
     "uikTvd": "4754010108480",
+    "uikName": "УИК №452",
     "tikTvd": "2752000284726",
-    "tikName": "Краснокаменская"
+    "tikName": "Краснокаменская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 453,
     "uikTvd": "4754010108482",
+    "uikName": "УИК №453",
     "tikTvd": "2752000284726",
-    "tikName": "Краснокаменская"
+    "tikName": "Краснокаменская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 454,
     "uikTvd": "4754010108484",
+    "uikName": "УИК №454",
     "tikTvd": "2752000284726",
-    "tikName": "Краснокаменская"
+    "tikName": "Краснокаменская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 455,
     "uikTvd": "4754010108486",
+    "uikName": "УИК №455",
     "tikTvd": "2752000284726",
-    "tikName": "Краснокаменская"
+    "tikName": "Краснокаменская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 456,
     "uikTvd": "4754010108488",
+    "uikName": "УИК №456",
     "tikTvd": "2752000284726",
-    "tikName": "Краснокаменская"
+    "tikName": "Краснокаменская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 457,
     "uikTvd": "4754010108490",
+    "uikName": "УИК №457",
     "tikTvd": "2752000284726",
-    "tikName": "Краснокаменская"
+    "tikName": "Краснокаменская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 458,
     "uikTvd": "4754010108492",
+    "uikName": "УИК №458",
     "tikTvd": "2752000284726",
-    "tikName": "Краснокаменская"
+    "tikName": "Краснокаменская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 459,
     "uikTvd": "4754010108494",
+    "uikName": "УИК №459",
     "tikTvd": "2752000284726",
-    "tikName": "Краснокаменская"
+    "tikName": "Краснокаменская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 460,
     "uikTvd": "4754010108496",
+    "uikName": "УИК №460",
     "tikTvd": "2752000284726",
-    "tikName": "Краснокаменская"
+    "tikName": "Краснокаменская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 461,
     "uikTvd": "4754010108498",
+    "uikName": "УИК №461",
     "tikTvd": "2752000284726",
-    "tikName": "Краснокаменская"
+    "tikName": "Краснокаменская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 462,
     "uikTvd": "4754010108500",
+    "uikName": "УИК №462",
     "tikTvd": "2752000284726",
-    "tikName": "Краснокаменская"
+    "tikName": "Краснокаменская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 463,
     "uikTvd": "4754010108502",
+    "uikName": "УИК №463",
     "tikTvd": "2752000284726",
-    "tikName": "Краснокаменская"
+    "tikName": "Краснокаменская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 464,
     "uikTvd": "4754010108504",
+    "uikName": "УИК №464",
     "tikTvd": "2752000284726",
-    "tikName": "Краснокаменская"
+    "tikName": "Краснокаменская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 465,
     "uikTvd": "475400299905",
+    "uikName": "УИК №465",
     "tikTvd": "2752000284750",
-    "tikName": "Александрово-Заводская"
+    "tikName": "Александрово-Заводская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 466,
     "uikTvd": "475400299906",
+    "uikName": "УИК №466",
     "tikTvd": "2752000284750",
-    "tikName": "Александрово-Заводская"
+    "tikName": "Александрово-Заводская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 467,
     "uikTvd": "475400299907",
+    "uikName": "УИК №467",
     "tikTvd": "2752000284750",
-    "tikName": "Александрово-Заводская"
+    "tikName": "Александрово-Заводская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 468,
     "uikTvd": "475400299908",
+    "uikName": "УИК №468",
     "tikTvd": "2752000284750",
-    "tikName": "Александрово-Заводская"
+    "tikName": "Александрово-Заводская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 469,
     "uikTvd": "475400299909",
+    "uikName": "УИК №469",
     "tikTvd": "2752000284750",
-    "tikName": "Александрово-Заводская"
+    "tikName": "Александрово-Заводская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 470,
     "uikTvd": "475400299910",
+    "uikName": "УИК №470",
     "tikTvd": "2752000284750",
-    "tikName": "Александрово-Заводская"
+    "tikName": "Александрово-Заводская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 471,
     "uikTvd": "475400299911",
+    "uikName": "УИК №471",
     "tikTvd": "2752000284750",
-    "tikName": "Александрово-Заводская"
+    "tikName": "Александрово-Заводская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 472,
     "uikTvd": "475400299912",
+    "uikName": "УИК №472",
     "tikTvd": "2752000284750",
-    "tikName": "Александрово-Заводская"
+    "tikName": "Александрово-Заводская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 473,
     "uikTvd": "475400299913",
+    "uikName": "УИК №473",
     "tikTvd": "2752000284750",
-    "tikName": "Александрово-Заводская"
+    "tikName": "Александрово-Заводская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 474,
     "uikTvd": "475400299914",
+    "uikName": "УИК №474",
     "tikTvd": "2752000284750",
-    "tikName": "Александрово-Заводская"
+    "tikName": "Александрово-Заводская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 475,
     "uikTvd": "475400299915",
+    "uikName": "УИК №475",
     "tikTvd": "2752000284750",
-    "tikName": "Александрово-Заводская"
+    "tikName": "Александрово-Заводская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 476,
     "uikTvd": "475400299916",
+    "uikName": "УИК №476",
     "tikTvd": "2752000284750",
-    "tikName": "Александрово-Заводская"
+    "tikName": "Александрово-Заводская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 477,
     "uikTvd": "475400299917",
+    "uikName": "УИК №477",
     "tikTvd": "2752000284750",
-    "tikName": "Александрово-Заводская"
+    "tikName": "Александрово-Заводская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 478,
     "uikTvd": "475400299918",
+    "uikName": "УИК №478",
     "tikTvd": "2752000284750",
-    "tikName": "Александрово-Заводская"
+    "tikName": "Александрово-Заводская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 479,
     "uikTvd": "475400299919",
+    "uikName": "УИК №479",
     "tikTvd": "2752000284750",
-    "tikName": "Александрово-Заводская"
+    "tikName": "Александрово-Заводская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 480,
     "uikTvd": "475400299920",
+    "uikName": "УИК №480",
     "tikTvd": "2752000284750",
-    "tikName": "Александрово-Заводская"
+    "tikName": "Александрово-Заводская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 481,
     "uikTvd": "475400299921",
+    "uikName": "УИК №481",
     "tikTvd": "2752000284750",
-    "tikName": "Александрово-Заводская"
+    "tikName": "Александрово-Заводская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 482,
     "uikTvd": "475400299922",
+    "uikName": "УИК №482",
     "tikTvd": "2752000284750",
-    "tikName": "Александрово-Заводская"
+    "tikName": "Александрово-Заводская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 483,
     "uikTvd": "475400299923",
+    "uikName": "УИК №483",
     "tikTvd": "2752000284750",
-    "tikName": "Александрово-Заводская"
+    "tikName": "Александрово-Заводская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 484,
     "uikTvd": "475400299924",
+    "uikName": "УИК №484",
     "tikTvd": "2752000284750",
-    "tikName": "Александрово-Заводская"
+    "tikName": "Александрово-Заводская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 485,
     "uikTvd": "475400299925",
+    "uikName": "УИК №485",
     "tikTvd": "2752000284750",
-    "tikName": "Александрово-Заводская"
+    "tikName": "Александрово-Заводская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 486,
     "uikTvd": "475400299926",
+    "uikName": "УИК №486",
     "tikTvd": "2752000284750",
-    "tikName": "Александрово-Заводская"
+    "tikName": "Александрово-Заводская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 487,
     "uikTvd": "475400299927",
+    "uikName": "УИК №487",
     "tikTvd": "2752000284750",
-    "tikName": "Александрово-Заводская"
+    "tikName": "Александрово-Заводская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 488,
     "uikTvd": "475400299928",
+    "uikName": "УИК №488",
     "tikTvd": "2752000284750",
-    "tikName": "Александрово-Заводская"
+    "tikName": "Александрово-Заводская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 489,
     "uikTvd": "475400299929",
+    "uikName": "УИК №489",
     "tikTvd": "2752000284750",
-    "tikName": "Александрово-Заводская"
+    "tikName": "Александрово-Заводская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 490,
     "uikTvd": "475400299930",
+    "uikName": "УИК №490",
     "tikTvd": "2752000284750",
-    "tikName": "Александрово-Заводская"
+    "tikName": "Александрово-Заводская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 491,
     "uikTvd": "475400299931",
+    "uikName": "УИК №491",
     "tikTvd": "2752000284750",
-    "tikName": "Александрово-Заводская"
+    "tikName": "Александрово-Заводская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 492,
     "uikTvd": "475403496789",
+    "uikName": "УИК №492",
     "tikTvd": "2752000284741",
-    "tikName": "Балейская"
+    "tikName": "Балейская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 493,
     "uikTvd": "475403496790",
+    "uikName": "УИК №493",
     "tikTvd": "2752000284741",
-    "tikName": "Балейская"
+    "tikName": "Балейская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 494,
     "uikTvd": "475403496791",
+    "uikName": "УИК №494",
     "tikTvd": "2752000284741",
-    "tikName": "Балейская"
+    "tikName": "Балейская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 495,
     "uikTvd": "475403496792",
+    "uikName": "УИК №495",
     "tikTvd": "2752000284741",
-    "tikName": "Балейская"
+    "tikName": "Балейская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 496,
     "uikTvd": "475403496793",
+    "uikName": "УИК №496",
     "tikTvd": "2752000284741",
-    "tikName": "Балейская"
+    "tikName": "Балейская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 497,
     "uikTvd": "475403496794",
+    "uikName": "УИК №497",
     "tikTvd": "2752000284741",
-    "tikName": "Балейская"
+    "tikName": "Балейская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 498,
     "uikTvd": "475403496795",
+    "uikName": "УИК №498",
     "tikTvd": "2752000284741",
-    "tikName": "Балейская"
+    "tikName": "Балейская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 499,
     "uikTvd": "475403496796",
+    "uikName": "УИК №499",
     "tikTvd": "2752000284741",
-    "tikName": "Балейская"
+    "tikName": "Балейская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 500,
     "uikTvd": "475403496797",
+    "uikName": "УИК №500",
     "tikTvd": "2752000284741",
-    "tikName": "Балейская"
+    "tikName": "Балейская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 501,
     "uikTvd": "475403496798",
+    "uikName": "УИК №501",
     "tikTvd": "2752000284741",
-    "tikName": "Балейская"
+    "tikName": "Балейская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 502,
     "uikTvd": "475403496800",
+    "uikName": "УИК №502",
     "tikTvd": "2752000284741",
-    "tikName": "Балейская"
+    "tikName": "Балейская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 503,
     "uikTvd": "475403496799",
+    "uikName": "УИК №503",
     "tikTvd": "2752000284741",
-    "tikName": "Балейская"
+    "tikName": "Балейская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 504,
     "uikTvd": "475403496801",
+    "uikName": "УИК №504",
     "tikTvd": "2752000284741",
-    "tikName": "Балейская"
+    "tikName": "Балейская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 505,
     "uikTvd": "475403496802",
+    "uikName": "УИК №505",
     "tikTvd": "2752000284741",
-    "tikName": "Балейская"
+    "tikName": "Балейская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 506,
     "uikTvd": "475403496803",
+    "uikName": "УИК №506",
     "tikTvd": "2752000284741",
-    "tikName": "Балейская"
+    "tikName": "Балейская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 507,
     "uikTvd": "475403496804",
+    "uikName": "УИК №507",
     "tikTvd": "2752000284741",
-    "tikName": "Балейская"
+    "tikName": "Балейская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 508,
     "uikTvd": "475403496805",
+    "uikName": "УИК №508",
     "tikTvd": "2752000284741",
-    "tikName": "Балейская"
+    "tikName": "Балейская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 509,
     "uikTvd": "475403496806",
+    "uikName": "УИК №509",
     "tikTvd": "2752000284741",
-    "tikName": "Балейская"
+    "tikName": "Балейская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 510,
     "uikTvd": "475403496807",
+    "uikName": "УИК №510",
     "tikTvd": "2752000284741",
-    "tikName": "Балейская"
+    "tikName": "Балейская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 511,
     "uikTvd": "475403496808",
+    "uikName": "УИК №511",
     "tikTvd": "2752000284741",
-    "tikName": "Балейская"
+    "tikName": "Балейская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 512,
     "uikTvd": "475403496809",
+    "uikName": "УИК №512",
     "tikTvd": "2752000284741",
-    "tikName": "Балейская"
+    "tikName": "Балейская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 513,
     "uikTvd": "475403496810",
+    "uikName": "УИК №513",
     "tikTvd": "2752000284741",
-    "tikName": "Балейская"
+    "tikName": "Балейская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 514,
     "uikTvd": "475403496811",
+    "uikName": "УИК №514",
     "tikTvd": "2752000284741",
-    "tikName": "Балейская"
+    "tikName": "Балейская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 515,
     "uikTvd": "4754005102478",
+    "uikName": "УИК №515",
     "tikTvd": "2752000313736",
-    "tikName": "Газимуро-Заводская"
+    "tikName": "Газимуро-Заводская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 516,
     "uikTvd": "4754005102479",
+    "uikName": "УИК №516",
     "tikTvd": "2752000313736",
-    "tikName": "Газимуро-Заводская"
+    "tikName": "Газимуро-Заводская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 517,
     "uikTvd": "4754005102480",
+    "uikName": "УИК №517",
     "tikTvd": "2752000313736",
-    "tikName": "Газимуро-Заводская"
+    "tikName": "Газимуро-Заводская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 518,
     "uikTvd": "4754005102481",
+    "uikName": "УИК №518",
     "tikTvd": "2752000313736",
-    "tikName": "Газимуро-Заводская"
+    "tikName": "Газимуро-Заводская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 519,
     "uikTvd": "4754005102482",
+    "uikName": "УИК №519",
     "tikTvd": "2752000313736",
-    "tikName": "Газимуро-Заводская"
+    "tikName": "Газимуро-Заводская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 520,
     "uikTvd": "4754005102483",
+    "uikName": "УИК №520",
     "tikTvd": "2752000313736",
-    "tikName": "Газимуро-Заводская"
+    "tikName": "Газимуро-Заводская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 521,
     "uikTvd": "4754005102484",
+    "uikName": "УИК №521",
     "tikTvd": "2752000313736",
-    "tikName": "Газимуро-Заводская"
+    "tikName": "Газимуро-Заводская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 522,
     "uikTvd": "4754005102485",
+    "uikName": "УИК №522",
     "tikTvd": "2752000313736",
-    "tikName": "Газимуро-Заводская"
+    "tikName": "Газимуро-Заводская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 523,
     "uikTvd": "4754005102486",
+    "uikName": "УИК №523",
     "tikTvd": "2752000313736",
-    "tikName": "Газимуро-Заводская"
+    "tikName": "Газимуро-Заводская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 524,
     "uikTvd": "4754005102487",
+    "uikName": "УИК №524",
     "tikTvd": "2752000313736",
-    "tikName": "Газимуро-Заводская"
+    "tikName": "Газимуро-Заводская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 525,
     "uikTvd": "4754005102488",
+    "uikName": "УИК №525",
     "tikTvd": "2752000313736",
-    "tikName": "Газимуро-Заводская"
+    "tikName": "Газимуро-Заводская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 526,
     "uikTvd": "4754005102489",
+    "uikName": "УИК №526",
     "tikTvd": "2752000313736",
-    "tikName": "Газимуро-Заводская"
+    "tikName": "Газимуро-Заводская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 527,
     "uikTvd": "4754005102490",
+    "uikName": "УИК №527",
     "tikTvd": "2752000313736",
-    "tikName": "Газимуро-Заводская"
+    "tikName": "Газимуро-Заводская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 528,
     "uikTvd": "4754005102491",
+    "uikName": "УИК №528",
     "tikTvd": "2752000313736",
-    "tikName": "Газимуро-Заводская"
+    "tikName": "Газимуро-Заводская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 529,
     "uikTvd": "4754005102492",
+    "uikName": "УИК №529",
     "tikTvd": "2752000313736",
-    "tikName": "Газимуро-Заводская"
+    "tikName": "Газимуро-Заводская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 530,
     "uikTvd": "4754005102493",
+    "uikName": "УИК №530",
     "tikTvd": "2752000313736",
-    "tikName": "Газимуро-Заводская"
+    "tikName": "Газимуро-Заводская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 531,
     "uikTvd": "4754005102494",
+    "uikName": "УИК №531",
     "tikTvd": "2752000313736",
-    "tikName": "Газимуро-Заводская"
+    "tikName": "Газимуро-Заводская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 532,
     "uikTvd": "4754005102495",
+    "uikName": "УИК №532",
     "tikTvd": "2752000313736",
-    "tikName": "Газимуро-Заводская"
+    "tikName": "Газимуро-Заводская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 533,
     "uikTvd": "4754005102496",
+    "uikName": "УИК №533",
     "tikTvd": "2752000313736",
-    "tikName": "Газимуро-Заводская"
+    "tikName": "Газимуро-Заводская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 534,
     "uikTvd": "4754005102497",
+    "uikName": "УИК №534",
     "tikTvd": "2752000313736",
-    "tikName": "Газимуро-Заводская"
+    "tikName": "Газимуро-Заводская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 535,
     "uikTvd": "4754005102498",
+    "uikName": "УИК №535",
     "tikTvd": "2752000313736",
-    "tikName": "Газимуро-Заводская"
+    "tikName": "Газимуро-Заводская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 536,
     "uikTvd": "4754005102499",
+    "uikName": "УИК №536",
     "tikTvd": "2752000313736",
-    "tikName": "Газимуро-Заводская"
+    "tikName": "Газимуро-Заводская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 537,
     "uikTvd": "4754005102500",
+    "uikName": "УИК №537",
     "tikTvd": "2752000313736",
-    "tikName": "Газимуро-Заводская"
+    "tikName": "Газимуро-Заводская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 538,
     "uikTvd": "475400694441",
+    "uikName": "УИК №538",
     "tikTvd": "2752000284728",
-    "tikName": "Забайкальская"
+    "tikName": "Забайкальская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 539,
     "uikTvd": "475400694442",
+    "uikName": "УИК №539",
     "tikTvd": "2752000284728",
-    "tikName": "Забайкальская"
+    "tikName": "Забайкальская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 540,
     "uikTvd": "475400694443",
+    "uikName": "УИК №540",
     "tikTvd": "2752000284728",
-    "tikName": "Забайкальская"
+    "tikName": "Забайкальская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 541,
     "uikTvd": "475400694444",
+    "uikName": "УИК №541",
     "tikTvd": "2752000284728",
-    "tikName": "Забайкальская"
+    "tikName": "Забайкальская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 542,
     "uikTvd": "475400694445",
+    "uikName": "УИК №542",
     "tikTvd": "2752000284728",
-    "tikName": "Забайкальская"
+    "tikName": "Забайкальская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 543,
     "uikTvd": "475400694446",
+    "uikName": "УИК №543",
     "tikTvd": "2752000284728",
-    "tikName": "Забайкальская"
+    "tikName": "Забайкальская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 544,
     "uikTvd": "475400694447",
+    "uikName": "УИК №544",
     "tikTvd": "2752000284728",
-    "tikName": "Забайкальская"
+    "tikName": "Забайкальская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 545,
     "uikTvd": "475400694448",
+    "uikName": "УИК №545",
     "tikTvd": "2752000284728",
-    "tikName": "Забайкальская"
+    "tikName": "Забайкальская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 546,
     "uikTvd": "475400694449",
+    "uikName": "УИК №546",
     "tikTvd": "2752000284728",
-    "tikName": "Забайкальская"
+    "tikName": "Забайкальская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 547,
     "uikTvd": "475400694450",
+    "uikName": "УИК №547",
     "tikTvd": "2752000284728",
-    "tikName": "Забайкальская"
+    "tikName": "Забайкальская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 548,
     "uikTvd": "475400694451",
+    "uikName": "УИК №548",
     "tikTvd": "2752000284728",
-    "tikName": "Забайкальская"
+    "tikName": "Забайкальская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 549,
     "uikTvd": "475400694452",
+    "uikName": "УИК №549",
     "tikTvd": "2752000284728",
-    "tikName": "Забайкальская"
+    "tikName": "Забайкальская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 550,
     "uikTvd": "475400694453",
+    "uikName": "УИК №550",
     "tikTvd": "2752000284728",
-    "tikName": "Забайкальская"
+    "tikName": "Забайкальская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 551,
     "uikTvd": "475400694454",
+    "uikName": "УИК №551",
     "tikTvd": "2752000284728",
-    "tikName": "Забайкальская"
+    "tikName": "Забайкальская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 552,
     "uikTvd": "475400694455",
+    "uikName": "УИК №552",
     "tikTvd": "2752000284728",
-    "tikName": "Забайкальская"
+    "tikName": "Забайкальская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 553,
     "uikTvd": "475400893882",
+    "uikName": "УИК №553",
     "tikTvd": "2752000284725",
-    "tikName": "Калганская"
+    "tikName": "Калганская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 554,
     "uikTvd": "475400893883",
+    "uikName": "УИК №554",
     "tikTvd": "2752000284725",
-    "tikName": "Калганская"
+    "tikName": "Калганская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 555,
     "uikTvd": "475400893884",
+    "uikName": "УИК №555",
     "tikTvd": "2752000284725",
-    "tikName": "Калганская"
+    "tikName": "Калганская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 556,
     "uikTvd": "475400893885",
+    "uikName": "УИК №556",
     "tikTvd": "2752000284725",
-    "tikName": "Калганская"
+    "tikName": "Калганская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 557,
     "uikTvd": "475400893886",
+    "uikName": "УИК №557",
     "tikTvd": "2752000284725",
-    "tikName": "Калганская"
+    "tikName": "Калганская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 558,
     "uikTvd": "475400893887",
+    "uikName": "УИК №558",
     "tikTvd": "2752000284725",
-    "tikName": "Калганская"
+    "tikName": "Калганская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 559,
     "uikTvd": "475400893888",
+    "uikName": "УИК №559",
     "tikTvd": "2752000284725",
-    "tikName": "Калганская"
+    "tikName": "Калганская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 560,
     "uikTvd": "475400893889",
+    "uikName": "УИК №560",
     "tikTvd": "2752000284725",
-    "tikName": "Калганская"
+    "tikName": "Калганская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 561,
     "uikTvd": "475400893890",
+    "uikName": "УИК №561",
     "tikTvd": "2752000284725",
-    "tikName": "Калганская"
+    "tikName": "Калганская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 562,
     "uikTvd": "475400893891",
+    "uikName": "УИК №562",
     "tikTvd": "2752000284725",
-    "tikName": "Калганская"
+    "tikName": "Калганская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 563,
     "uikTvd": "475400893892",
+    "uikName": "УИК №563",
     "tikTvd": "2752000284725",
-    "tikName": "Калганская"
+    "tikName": "Калганская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 564,
     "uikTvd": "4754009114367",
+    "uikName": "УИК №564",
     "tikTvd": "2752000284727",
-    "tikName": "Карымская"
+    "tikName": "Карымская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 565,
     "uikTvd": "4754009114368",
+    "uikName": "УИК №565",
     "tikTvd": "2752000284727",
-    "tikName": "Карымская"
+    "tikName": "Карымская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 566,
     "uikTvd": "4754009114369",
+    "uikName": "УИК №566",
     "tikTvd": "2752000284727",
-    "tikName": "Карымская"
+    "tikName": "Карымская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 567,
     "uikTvd": "4754009114370",
+    "uikName": "УИК №567",
     "tikTvd": "2752000284727",
-    "tikName": "Карымская"
+    "tikName": "Карымская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 568,
     "uikTvd": "4754009114371",
+    "uikName": "УИК №568",
     "tikTvd": "2752000284727",
-    "tikName": "Карымская"
+    "tikName": "Карымская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 569,
     "uikTvd": "4754009114372",
+    "uikName": "УИК №569",
     "tikTvd": "2752000284727",
-    "tikName": "Карымская"
+    "tikName": "Карымская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 570,
     "uikTvd": "4754009114373",
+    "uikName": "УИК №570",
     "tikTvd": "2752000284727",
-    "tikName": "Карымская"
+    "tikName": "Карымская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 571,
     "uikTvd": "4754009114375",
+    "uikName": "УИК №571",
     "tikTvd": "2752000284727",
-    "tikName": "Карымская"
+    "tikName": "Карымская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 572,
     "uikTvd": "4754009114374",
+    "uikName": "УИК №572",
     "tikTvd": "2752000284727",
-    "tikName": "Карымская"
+    "tikName": "Карымская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 573,
     "uikTvd": "4754009114376",
+    "uikName": "УИК №573",
     "tikTvd": "2752000284727",
-    "tikName": "Карымская"
+    "tikName": "Карымская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 574,
     "uikTvd": "4754009114377",
+    "uikName": "УИК №574",
     "tikTvd": "2752000284727",
-    "tikName": "Карымская"
+    "tikName": "Карымская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 575,
     "uikTvd": "4754009114378",
+    "uikName": "УИК №575",
     "tikTvd": "2752000284727",
-    "tikName": "Карымская"
+    "tikName": "Карымская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 576,
     "uikTvd": "4754009114379",
+    "uikName": "УИК №576",
     "tikTvd": "2752000284727",
-    "tikName": "Карымская"
+    "tikName": "Карымская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 577,
     "uikTvd": "4754009114380",
+    "uikName": "УИК №577",
     "tikTvd": "2752000284727",
-    "tikName": "Карымская"
+    "tikName": "Карымская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 578,
     "uikTvd": "4754009114381",
+    "uikName": "УИК №578",
     "tikTvd": "2752000284727",
-    "tikName": "Карымская"
+    "tikName": "Карымская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 579,
     "uikTvd": "4754009114382",
+    "uikName": "УИК №579",
     "tikTvd": "2752000284727",
-    "tikName": "Карымская"
+    "tikName": "Карымская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 580,
     "uikTvd": "4754009114383",
+    "uikName": "УИК №580",
     "tikTvd": "2752000284727",
-    "tikName": "Карымская"
+    "tikName": "Карымская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 581,
     "uikTvd": "4754009114384",
+    "uikName": "УИК №581",
     "tikTvd": "2752000284727",
-    "tikName": "Карымская"
+    "tikName": "Карымская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 582,
     "uikTvd": "4754009114385",
+    "uikName": "УИК №582",
     "tikTvd": "2752000284727",
-    "tikName": "Карымская"
+    "tikName": "Карымская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 584,
     "uikTvd": "4754009114386",
+    "uikName": "УИК №584",
     "tikTvd": "2752000284727",
-    "tikName": "Карымская"
+    "tikName": "Карымская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 585,
     "uikTvd": "4754009114387",
+    "uikName": "УИК №585",
     "tikTvd": "2752000284727",
-    "tikName": "Карымская"
+    "tikName": "Карымская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 586,
     "uikTvd": "4754009114388",
+    "uikName": "УИК №586",
     "tikTvd": "2752000284727",
-    "tikName": "Карымская"
+    "tikName": "Карымская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 587,
     "uikTvd": "4754009114389",
+    "uikName": "УИК №587",
     "tikTvd": "2752000284727",
-    "tikName": "Карымская"
+    "tikName": "Карымская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 588,
     "uikTvd": "4754009114390",
+    "uikName": "УИК №588",
     "tikTvd": "2752000284727",
-    "tikName": "Карымская"
+    "tikName": "Карымская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 589,
     "uikTvd": "4754009114391",
+    "uikName": "УИК №589",
     "tikTvd": "2752000284727",
-    "tikName": "Карымская"
+    "tikName": "Карымская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 590,
     "uikTvd": "4754009114392",
+    "uikName": "УИК №590",
     "tikTvd": "2752000284727",
-    "tikName": "Карымская"
+    "tikName": "Карымская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 591,
     "uikTvd": "4754009114393",
+    "uikName": "УИК №591",
     "tikTvd": "2752000284727",
-    "tikName": "Карымская"
+    "tikName": "Карымская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 592,
     "uikTvd": "4754009114394",
+    "uikName": "УИК №592",
     "tikTvd": "2752000284727",
-    "tikName": "Карымская"
+    "tikName": "Карымская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 593,
     "uikTvd": "4754009114395",
+    "uikName": "УИК №593",
     "tikTvd": "2752000284727",
-    "tikName": "Карымская"
+    "tikName": "Карымская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 595,
     "uikTvd": "475401394657",
+    "uikName": "УИК №595",
     "tikTvd": "2752000313739",
-    "tikName": "Могочинская"
+    "tikName": "Могочинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 596,
     "uikTvd": "475401394658",
+    "uikName": "УИК №596",
     "tikTvd": "2752000313739",
-    "tikName": "Могочинская"
+    "tikName": "Могочинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 597,
     "uikTvd": "475401394659",
+    "uikName": "УИК №597",
     "tikTvd": "2752000313739",
-    "tikName": "Могочинская"
+    "tikName": "Могочинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 598,
     "uikTvd": "475401394660",
+    "uikName": "УИК №598",
     "tikTvd": "2752000313739",
-    "tikName": "Могочинская"
+    "tikName": "Могочинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 599,
     "uikTvd": "475401394661",
+    "uikName": "УИК №599",
     "tikTvd": "2752000313739",
-    "tikName": "Могочинская"
+    "tikName": "Могочинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 600,
     "uikTvd": "475401394662",
+    "uikName": "УИК №600",
     "tikTvd": "2752000313739",
-    "tikName": "Могочинская"
+    "tikName": "Могочинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 601,
     "uikTvd": "475401394663",
+    "uikName": "УИК №601",
     "tikTvd": "2752000313739",
-    "tikName": "Могочинская"
+    "tikName": "Могочинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 602,
     "uikTvd": "475401394664",
+    "uikName": "УИК №602",
     "tikTvd": "2752000313739",
-    "tikName": "Могочинская"
+    "tikName": "Могочинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 603,
     "uikTvd": "475401394665",
+    "uikName": "УИК №603",
     "tikTvd": "2752000313739",
-    "tikName": "Могочинская"
+    "tikName": "Могочинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 604,
     "uikTvd": "475401394666",
+    "uikName": "УИК №604",
     "tikTvd": "2752000313739",
-    "tikName": "Могочинская"
+    "tikName": "Могочинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 605,
     "uikTvd": "475401394667",
+    "uikName": "УИК №605",
     "tikTvd": "2752000313739",
-    "tikName": "Могочинская"
+    "tikName": "Могочинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 606,
     "uikTvd": "475401394668",
+    "uikName": "УИК №606",
     "tikTvd": "2752000313739",
-    "tikName": "Могочинская"
+    "tikName": "Могочинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 607,
     "uikTvd": "475401394669",
+    "uikName": "УИК №607",
     "tikTvd": "2752000313739",
-    "tikName": "Могочинская"
+    "tikName": "Могочинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 608,
     "uikTvd": "475401394670",
+    "uikName": "УИК №608",
     "tikTvd": "2752000313739",
-    "tikName": "Могочинская"
+    "tikName": "Могочинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 609,
     "uikTvd": "475401394671",
+    "uikName": "УИК №609",
     "tikTvd": "2752000313739",
-    "tikName": "Могочинская"
+    "tikName": "Могочинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 610,
     "uikTvd": "475401394672",
+    "uikName": "УИК №610",
     "tikTvd": "2752000313739",
-    "tikName": "Могочинская"
+    "tikName": "Могочинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 611,
     "uikTvd": "475401394673",
+    "uikName": "УИК №611",
     "tikTvd": "2752000313739",
-    "tikName": "Могочинская"
+    "tikName": "Могочинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 612,
     "uikTvd": "475401394674",
+    "uikName": "УИК №612",
     "tikTvd": "2752000313739",
-    "tikName": "Могочинская"
+    "tikName": "Могочинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 613,
     "uikTvd": "4754014112671",
+    "uikName": "УИК №613",
     "tikTvd": "2752000313740",
-    "tikName": "Нерчинская"
+    "tikName": "Нерчинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 614,
     "uikTvd": "4754014112672",
+    "uikName": "УИК №614",
     "tikTvd": "2752000313740",
-    "tikName": "Нерчинская"
+    "tikName": "Нерчинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 615,
     "uikTvd": "4754014112673",
+    "uikName": "УИК №615",
     "tikTvd": "2752000313740",
-    "tikName": "Нерчинская"
+    "tikName": "Нерчинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 616,
     "uikTvd": "4754014112674",
+    "uikName": "УИК №616",
     "tikTvd": "2752000313740",
-    "tikName": "Нерчинская"
+    "tikName": "Нерчинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 617,
     "uikTvd": "4754014112675",
+    "uikName": "УИК №617",
     "tikTvd": "2752000313740",
-    "tikName": "Нерчинская"
+    "tikName": "Нерчинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 618,
     "uikTvd": "4754014112676",
+    "uikName": "УИК №618",
     "tikTvd": "2752000313740",
-    "tikName": "Нерчинская"
+    "tikName": "Нерчинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 619,
     "uikTvd": "4754014112677",
+    "uikName": "УИК №619",
     "tikTvd": "2752000313740",
-    "tikName": "Нерчинская"
+    "tikName": "Нерчинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 620,
     "uikTvd": "4754014112678",
+    "uikName": "УИК №620",
     "tikTvd": "2752000313740",
-    "tikName": "Нерчинская"
+    "tikName": "Нерчинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 621,
     "uikTvd": "4754014112679",
+    "uikName": "УИК №621",
     "tikTvd": "2752000313740",
-    "tikName": "Нерчинская"
+    "tikName": "Нерчинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 622,
     "uikTvd": "4754014112680",
+    "uikName": "УИК №622",
     "tikTvd": "2752000313740",
-    "tikName": "Нерчинская"
+    "tikName": "Нерчинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 623,
     "uikTvd": "4754014112681",
+    "uikName": "УИК №623",
     "tikTvd": "2752000313740",
-    "tikName": "Нерчинская"
+    "tikName": "Нерчинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 624,
     "uikTvd": "4754014112682",
+    "uikName": "УИК №624",
     "tikTvd": "2752000313740",
-    "tikName": "Нерчинская"
+    "tikName": "Нерчинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 625,
     "uikTvd": "4754014112683",
+    "uikName": "УИК №625",
     "tikTvd": "2752000313740",
-    "tikName": "Нерчинская"
+    "tikName": "Нерчинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 626,
     "uikTvd": "4754014112684",
+    "uikName": "УИК №626",
     "tikTvd": "2752000313740",
-    "tikName": "Нерчинская"
+    "tikName": "Нерчинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 627,
     "uikTvd": "4754014112685",
+    "uikName": "УИК №627",
     "tikTvd": "2752000313740",
-    "tikName": "Нерчинская"
+    "tikName": "Нерчинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 628,
     "uikTvd": "4754014112686",
+    "uikName": "УИК №628",
     "tikTvd": "2752000313740",
-    "tikName": "Нерчинская"
+    "tikName": "Нерчинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 629,
     "uikTvd": "4754014112687",
+    "uikName": "УИК №629",
     "tikTvd": "2752000313740",
-    "tikName": "Нерчинская"
+    "tikName": "Нерчинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 630,
     "uikTvd": "4754014112688",
+    "uikName": "УИК №630",
     "tikTvd": "2752000313740",
-    "tikName": "Нерчинская"
+    "tikName": "Нерчинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 631,
     "uikTvd": "4754014112689",
+    "uikName": "УИК №631",
     "tikTvd": "2752000313740",
-    "tikName": "Нерчинская"
+    "tikName": "Нерчинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 632,
     "uikTvd": "4754014112690",
+    "uikName": "УИК №632",
     "tikTvd": "2752000313740",
-    "tikName": "Нерчинская"
+    "tikName": "Нерчинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 633,
     "uikTvd": "4754014112691",
+    "uikName": "УИК №633",
     "tikTvd": "2752000313740",
-    "tikName": "Нерчинская"
+    "tikName": "Нерчинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 634,
     "uikTvd": "4754014112692",
+    "uikName": "УИК №634",
     "tikTvd": "2752000313740",
-    "tikName": "Нерчинская"
+    "tikName": "Нерчинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 635,
     "uikTvd": "4754014112693",
+    "uikName": "УИК №635",
     "tikTvd": "2752000313740",
-    "tikName": "Нерчинская"
+    "tikName": "Нерчинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 636,
     "uikTvd": "4754014112694",
+    "uikName": "УИК №636",
     "tikTvd": "2752000313740",
-    "tikName": "Нерчинская"
+    "tikName": "Нерчинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 637,
     "uikTvd": "4754014112695",
+    "uikName": "УИК №637",
     "tikTvd": "2752000313740",
-    "tikName": "Нерчинская"
+    "tikName": "Нерчинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 638,
     "uikTvd": "4754014112696",
+    "uikName": "УИК №638",
     "tikTvd": "2752000313740",
-    "tikName": "Нерчинская"
+    "tikName": "Нерчинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 639,
     "uikTvd": "4754014112697",
+    "uikName": "УИК №639",
     "tikTvd": "2752000313740",
-    "tikName": "Нерчинская"
+    "tikName": "Нерчинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 640,
     "uikTvd": "4754014112698",
+    "uikName": "УИК №640",
     "tikTvd": "2752000313740",
-    "tikName": "Нерчинская"
+    "tikName": "Нерчинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 641,
     "uikTvd": "4754014112699",
+    "uikName": "УИК №641",
     "tikTvd": "2752000313740",
-    "tikName": "Нерчинская"
+    "tikName": "Нерчинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 642,
     "uikTvd": "4754014112700",
+    "uikName": "УИК №642",
     "tikTvd": "2752000313740",
-    "tikName": "Нерчинская"
+    "tikName": "Нерчинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 643,
     "uikTvd": "4754014112701",
+    "uikName": "УИК №643",
     "tikTvd": "2752000313740",
-    "tikName": "Нерчинская"
+    "tikName": "Нерчинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 644,
     "uikTvd": "4754014112702",
+    "uikName": "УИК №644",
     "tikTvd": "2752000313740",
-    "tikName": "Нерчинская"
+    "tikName": "Нерчинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 645,
     "uikTvd": "4754014112703",
+    "uikName": "УИК №645",
     "tikTvd": "2752000313740",
-    "tikName": "Нерчинская"
+    "tikName": "Нерчинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 646,
     "uikTvd": "4754014112704",
+    "uikName": "УИК №646",
     "tikTvd": "2752000313740",
-    "tikName": "Нерчинская"
+    "tikName": "Нерчинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 647,
     "uikTvd": "4754014112705",
+    "uikName": "УИК №647",
     "tikTvd": "2752000313740",
-    "tikName": "Нерчинская"
+    "tikName": "Нерчинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 648,
     "uikTvd": "4754014112706",
+    "uikName": "УИК №648",
     "tikTvd": "2752000313740",
-    "tikName": "Нерчинская"
+    "tikName": "Нерчинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 649,
     "uikTvd": "4754014112707",
+    "uikName": "УИК №649",
     "tikTvd": "2752000313740",
-    "tikName": "Нерчинская"
+    "tikName": "Нерчинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 650,
     "uikTvd": "4754014112708",
+    "uikName": "УИК №650",
     "tikTvd": "2752000313740",
-    "tikName": "Нерчинская"
+    "tikName": "Нерчинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 651,
     "uikTvd": "475401599075",
+    "uikName": "УИК №651",
     "tikTvd": "2752000284737",
-    "tikName": "Нерчинско-Заводская"
+    "tikName": "Нерчинско-Заводская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 652,
     "uikTvd": "475401599076",
+    "uikName": "УИК №652",
     "tikTvd": "2752000284737",
-    "tikName": "Нерчинско-Заводская"
+    "tikName": "Нерчинско-Заводская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 653,
     "uikTvd": "475401599077",
+    "uikName": "УИК №653",
     "tikTvd": "2752000284737",
-    "tikName": "Нерчинско-Заводская"
+    "tikName": "Нерчинско-Заводская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 654,
     "uikTvd": "475401599078",
+    "uikName": "УИК №654",
     "tikTvd": "2752000284737",
-    "tikName": "Нерчинско-Заводская"
+    "tikName": "Нерчинско-Заводская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 655,
     "uikTvd": "475401599079",
+    "uikName": "УИК №655",
     "tikTvd": "2752000284737",
-    "tikName": "Нерчинско-Заводская"
+    "tikName": "Нерчинско-Заводская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 656,
     "uikTvd": "475401599080",
+    "uikName": "УИК №656",
     "tikTvd": "2752000284737",
-    "tikName": "Нерчинско-Заводская"
+    "tikName": "Нерчинско-Заводская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 657,
     "uikTvd": "475401599081",
+    "uikName": "УИК №657",
     "tikTvd": "2752000284737",
-    "tikName": "Нерчинско-Заводская"
+    "tikName": "Нерчинско-Заводская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 658,
     "uikTvd": "475401599082",
+    "uikName": "УИК №658",
     "tikTvd": "2752000284737",
-    "tikName": "Нерчинско-Заводская"
+    "tikName": "Нерчинско-Заводская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 659,
     "uikTvd": "475401599083",
+    "uikName": "УИК №659",
     "tikTvd": "2752000284737",
-    "tikName": "Нерчинско-Заводская"
+    "tikName": "Нерчинско-Заводская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 660,
     "uikTvd": "475401599084",
+    "uikName": "УИК №660",
     "tikTvd": "2752000284737",
-    "tikName": "Нерчинско-Заводская"
+    "tikName": "Нерчинско-Заводская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 661,
     "uikTvd": "475401599085",
+    "uikName": "УИК №661",
     "tikTvd": "2752000284737",
-    "tikName": "Нерчинско-Заводская"
+    "tikName": "Нерчинско-Заводская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 662,
     "uikTvd": "475401599086",
+    "uikName": "УИК №662",
     "tikTvd": "2752000284737",
-    "tikName": "Нерчинско-Заводская"
+    "tikName": "Нерчинско-Заводская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 663,
     "uikTvd": "475401599087",
+    "uikName": "УИК №663",
     "tikTvd": "2752000284737",
-    "tikName": "Нерчинско-Заводская"
+    "tikName": "Нерчинско-Заводская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 664,
     "uikTvd": "475401599088",
+    "uikName": "УИК №664",
     "tikTvd": "2752000284737",
-    "tikName": "Нерчинско-Заводская"
+    "tikName": "Нерчинско-Заводская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 665,
     "uikTvd": "475401599089",
+    "uikName": "УИК №665",
     "tikTvd": "2752000284737",
-    "tikName": "Нерчинско-Заводская"
+    "tikName": "Нерчинско-Заводская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 667,
     "uikTvd": "475401599090",
+    "uikName": "УИК №667",
     "tikTvd": "2752000284737",
-    "tikName": "Нерчинско-Заводская"
+    "tikName": "Нерчинско-Заводская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 668,
     "uikTvd": "475401599091",
+    "uikName": "УИК №668",
     "tikTvd": "2752000284737",
-    "tikName": "Нерчинско-Заводская"
+    "tikName": "Нерчинско-Заводская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 669,
     "uikTvd": "475401599092",
+    "uikName": "УИК №669",
     "tikTvd": "2752000284737",
-    "tikName": "Нерчинско-Заводская"
+    "tikName": "Нерчинско-Заводская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 670,
     "uikTvd": "475401599093",
+    "uikName": "УИК №670",
     "tikTvd": "2752000284737",
-    "tikName": "Нерчинско-Заводская"
+    "tikName": "Нерчинско-Заводская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 671,
     "uikTvd": "475401599094",
+    "uikName": "УИК №671",
     "tikTvd": "2752000284737",
-    "tikName": "Нерчинско-Заводская"
+    "tikName": "Нерчинско-Заводская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 672,
     "uikTvd": "475401599095",
+    "uikName": "УИК №672",
     "tikTvd": "2752000284737",
-    "tikName": "Нерчинско-Заводская"
+    "tikName": "Нерчинско-Заводская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 673,
     "uikTvd": "9759016106176",
+    "uikName": "УИК №673",
     "tikTvd": "2752000284740",
-    "tikName": "Оловяннинская"
+    "tikName": "Оловяннинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 674,
     "uikTvd": "9759016106177",
+    "uikName": "УИК №674",
     "tikTvd": "2752000284740",
-    "tikName": "Оловяннинская"
+    "tikName": "Оловяннинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 675,
     "uikTvd": "9759016106178",
+    "uikName": "УИК №675",
     "tikTvd": "2752000284740",
-    "tikName": "Оловяннинская"
+    "tikName": "Оловяннинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 676,
     "uikTvd": "9759016106179",
+    "uikName": "УИК №676",
     "tikTvd": "2752000284740",
-    "tikName": "Оловяннинская"
+    "tikName": "Оловяннинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 677,
     "uikTvd": "9759016106180",
+    "uikName": "УИК №677",
     "tikTvd": "2752000284740",
-    "tikName": "Оловяннинская"
+    "tikName": "Оловяннинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 678,
     "uikTvd": "9759016106181",
+    "uikName": "УИК №678",
     "tikTvd": "2752000284740",
-    "tikName": "Оловяннинская"
+    "tikName": "Оловяннинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 679,
     "uikTvd": "9759016106182",
+    "uikName": "УИК №679",
     "tikTvd": "2752000284740",
-    "tikName": "Оловяннинская"
+    "tikName": "Оловяннинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 680,
     "uikTvd": "9759016106183",
+    "uikName": "УИК №680",
     "tikTvd": "2752000284740",
-    "tikName": "Оловяннинская"
+    "tikName": "Оловяннинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 681,
     "uikTvd": "9759016106184",
+    "uikName": "УИК №681",
     "tikTvd": "2752000284740",
-    "tikName": "Оловяннинская"
+    "tikName": "Оловяннинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 682,
     "uikTvd": "9759016106185",
+    "uikName": "УИК №682",
     "tikTvd": "2752000284740",
-    "tikName": "Оловяннинская"
+    "tikName": "Оловяннинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 684,
     "uikTvd": "9759016106187",
+    "uikName": "УИК №684",
     "tikTvd": "2752000284740",
-    "tikName": "Оловяннинская"
+    "tikName": "Оловяннинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 685,
     "uikTvd": "9759016106188",
+    "uikName": "УИК №685",
     "tikTvd": "2752000284740",
-    "tikName": "Оловяннинская"
+    "tikName": "Оловяннинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 686,
     "uikTvd": "9759016106189",
+    "uikName": "УИК №686",
     "tikTvd": "2752000284740",
-    "tikName": "Оловяннинская"
+    "tikName": "Оловяннинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 687,
     "uikTvd": "9759016106190",
+    "uikName": "УИК №687",
     "tikTvd": "2752000284740",
-    "tikName": "Оловяннинская"
+    "tikName": "Оловяннинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 688,
     "uikTvd": "9759016106191",
+    "uikName": "УИК №688",
     "tikTvd": "2752000284740",
-    "tikName": "Оловяннинская"
+    "tikName": "Оловяннинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 689,
     "uikTvd": "9759016106192",
+    "uikName": "УИК №689",
     "tikTvd": "2752000284740",
-    "tikName": "Оловяннинская"
+    "tikName": "Оловяннинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 690,
     "uikTvd": "9759016106193",
+    "uikName": "УИК №690",
     "tikTvd": "2752000284740",
-    "tikName": "Оловяннинская"
+    "tikName": "Оловяннинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 691,
     "uikTvd": "9759016106194",
+    "uikName": "УИК №691",
     "tikTvd": "2752000284740",
-    "tikName": "Оловяннинская"
+    "tikName": "Оловяннинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 692,
     "uikTvd": "9759016106195",
+    "uikName": "УИК №692",
     "tikTvd": "2752000284740",
-    "tikName": "Оловяннинская"
+    "tikName": "Оловяннинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 693,
     "uikTvd": "9759016106196",
+    "uikName": "УИК №693",
     "tikTvd": "2752000284740",
-    "tikName": "Оловяннинская"
+    "tikName": "Оловяннинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 694,
     "uikTvd": "9759016106197",
+    "uikName": "УИК №694",
     "tikTvd": "2752000284740",
-    "tikName": "Оловяннинская"
+    "tikName": "Оловяннинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 695,
     "uikTvd": "9759016106198",
+    "uikName": "УИК №695",
     "tikTvd": "2752000284740",
-    "tikName": "Оловяннинская"
+    "tikName": "Оловяннинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 696,
     "uikTvd": "9759016106199",
+    "uikName": "УИК №696",
     "tikTvd": "2752000284740",
-    "tikName": "Оловяннинская"
+    "tikName": "Оловяннинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 698,
     "uikTvd": "9759016106201",
+    "uikName": "УИК №698",
     "tikTvd": "2752000284740",
-    "tikName": "Оловяннинская"
+    "tikName": "Оловяннинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 699,
     "uikTvd": "9759016106202",
+    "uikName": "УИК №699",
     "tikTvd": "2752000284740",
-    "tikName": "Оловяннинская"
+    "tikName": "Оловяннинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 700,
     "uikTvd": "9759016106203",
+    "uikName": "УИК №700",
     "tikTvd": "2752000284740",
-    "tikName": "Оловяннинская"
+    "tikName": "Оловяннинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 701,
     "uikTvd": "9759016106204",
+    "uikName": "УИК №701",
     "tikTvd": "2752000284740",
-    "tikName": "Оловяннинская"
+    "tikName": "Оловяннинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 702,
     "uikTvd": "9759016106205",
+    "uikName": "УИК №702",
     "tikTvd": "2752000284740",
-    "tikName": "Оловяннинская"
+    "tikName": "Оловяннинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 703,
     "uikTvd": "9759016106206",
+    "uikName": "УИК №703",
     "tikTvd": "2752000284740",
-    "tikName": "Оловяннинская"
+    "tikName": "Оловяннинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 704,
     "uikTvd": "9759016106207",
+    "uikName": "УИК №704",
     "tikTvd": "2752000284740",
-    "tikName": "Оловяннинская"
+    "tikName": "Оловяннинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 705,
     "uikTvd": "9759016106208",
+    "uikName": "УИК №705",
     "tikTvd": "2752000284740",
-    "tikName": "Оловяннинская"
+    "tikName": "Оловяннинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 706,
     "uikTvd": "9759016106209",
+    "uikName": "УИК №706",
     "tikTvd": "2752000284740",
-    "tikName": "Оловяннинская"
+    "tikName": "Оловяннинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 707,
     "uikTvd": "9759016106210",
+    "uikName": "УИК №707",
     "tikTvd": "2752000284740",
-    "tikName": "Оловяннинская"
+    "tikName": "Оловяннинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 708,
     "uikTvd": "9759016106211",
+    "uikName": "УИК №708",
     "tikTvd": "2752000284740",
-    "tikName": "Оловяннинская"
+    "tikName": "Оловяннинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 709,
     "uikTvd": "9759016106212",
+    "uikName": "УИК №709",
     "tikTvd": "2752000284740",
-    "tikName": "Оловяннинская"
+    "tikName": "Оловяннинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 710,
     "uikTvd": "9759016106213",
+    "uikName": "УИК №710",
     "tikTvd": "2752000284740",
-    "tikName": "Оловяннинская"
+    "tikName": "Оловяннинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 711,
     "uikTvd": "9759016106214",
+    "uikName": "УИК №711",
     "tikTvd": "2752000284740",
-    "tikName": "Оловяннинская"
+    "tikName": "Оловяннинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 712,
     "uikTvd": "925901894621",
+    "uikName": "УИК №712",
     "tikTvd": "2752000313741",
-    "tikName": "Ононская"
+    "tikName": "Ононская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 713,
     "uikTvd": "925901894622",
+    "uikName": "УИК №713",
     "tikTvd": "2752000313741",
-    "tikName": "Ононская"
+    "tikName": "Ононская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 714,
     "uikTvd": "925901894623",
+    "uikName": "УИК №714",
     "tikTvd": "2752000313741",
-    "tikName": "Ононская"
+    "tikName": "Ононская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 715,
     "uikTvd": "925901894624",
+    "uikName": "УИК №715",
     "tikTvd": "2752000313741",
-    "tikName": "Ононская"
+    "tikName": "Ононская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 716,
     "uikTvd": "925901894625",
+    "uikName": "УИК №716",
     "tikTvd": "2752000313741",
-    "tikName": "Ононская"
+    "tikName": "Ононская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 717,
     "uikTvd": "925901894626",
+    "uikName": "УИК №717",
     "tikTvd": "2752000313741",
-    "tikName": "Ононская"
+    "tikName": "Ононская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 718,
     "uikTvd": "925901894627",
+    "uikName": "УИК №718",
     "tikTvd": "2752000313741",
-    "tikName": "Ононская"
+    "tikName": "Ононская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 719,
     "uikTvd": "925901894628",
+    "uikName": "УИК №719",
     "tikTvd": "2752000313741",
-    "tikName": "Ононская"
+    "tikName": "Ононская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 720,
     "uikTvd": "925901894629",
+    "uikName": "УИК №720",
     "tikTvd": "2752000313741",
-    "tikName": "Ононская"
+    "tikName": "Ононская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 721,
     "uikTvd": "925901894630",
+    "uikName": "УИК №721",
     "tikTvd": "2752000313741",
-    "tikName": "Ононская"
+    "tikName": "Ононская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 722,
     "uikTvd": "925901894631",
+    "uikName": "УИК №722",
     "tikTvd": "2752000313741",
-    "tikName": "Ононская"
+    "tikName": "Ононская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 723,
     "uikTvd": "925901894632",
+    "uikName": "УИК №723",
     "tikTvd": "2752000313741",
-    "tikName": "Ононская"
+    "tikName": "Ононская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 724,
     "uikTvd": "925901894633",
+    "uikName": "УИК №724",
     "tikTvd": "2752000313741",
-    "tikName": "Ононская"
+    "tikName": "Ононская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 725,
     "uikTvd": "925901894634",
+    "uikName": "УИК №725",
     "tikTvd": "2752000313741",
-    "tikName": "Ононская"
+    "tikName": "Ононская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 726,
     "uikTvd": "925901894635",
+    "uikName": "УИК №726",
     "tikTvd": "2752000313741",
-    "tikName": "Ононская"
+    "tikName": "Ононская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 727,
     "uikTvd": "925901894636",
+    "uikName": "УИК №727",
     "tikTvd": "2752000313741",
-    "tikName": "Ононская"
+    "tikName": "Ононская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 728,
     "uikTvd": "925901894637",
+    "uikName": "УИК №728",
     "tikTvd": "2752000313741",
-    "tikName": "Ононская"
+    "tikName": "Ононская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 729,
     "uikTvd": "925901894638",
+    "uikName": "УИК №729",
     "tikTvd": "2752000313741",
-    "tikName": "Ононская"
+    "tikName": "Ононская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 730,
     "uikTvd": "925901894639",
+    "uikName": "УИК №730",
     "tikTvd": "2752000313741",
-    "tikName": "Ононская"
+    "tikName": "Ононская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 731,
     "uikTvd": "925901894640",
+    "uikName": "УИК №731",
     "tikTvd": "2752000313741",
-    "tikName": "Ононская"
+    "tikName": "Ононская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 732,
     "uikTvd": "925901894641",
+    "uikName": "УИК №732",
     "tikTvd": "2752000313741",
-    "tikName": "Ононская"
+    "tikName": "Ононская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 733,
     "uikTvd": "475401999035",
+    "uikName": "УИК №733",
     "tikTvd": "2752000313744",
-    "tikName": "Приаргунская"
+    "tikName": "Приаргунская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 734,
     "uikTvd": "475401998867",
+    "uikName": "УИК №734",
     "tikTvd": "2752000313744",
-    "tikName": "Приаргунская"
+    "tikName": "Приаргунская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 735,
     "uikTvd": "475401998868",
+    "uikName": "УИК №735",
     "tikTvd": "2752000313744",
-    "tikName": "Приаргунская"
+    "tikName": "Приаргунская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 736,
     "uikTvd": "475401998869",
+    "uikName": "УИК №736",
     "tikTvd": "2752000313744",
-    "tikName": "Приаргунская"
+    "tikName": "Приаргунская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 737,
     "uikTvd": "475401998870",
+    "uikName": "УИК №737",
     "tikTvd": "2752000313744",
-    "tikName": "Приаргунская"
+    "tikName": "Приаргунская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 738,
     "uikTvd": "475401998871",
+    "uikName": "УИК №738",
     "tikTvd": "2752000313744",
-    "tikName": "Приаргунская"
+    "tikName": "Приаргунская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 739,
     "uikTvd": "475401998872",
+    "uikName": "УИК №739",
     "tikTvd": "2752000313744",
-    "tikName": "Приаргунская"
+    "tikName": "Приаргунская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 740,
     "uikTvd": "475401998873",
+    "uikName": "УИК №740",
     "tikTvd": "2752000313744",
-    "tikName": "Приаргунская"
+    "tikName": "Приаргунская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 741,
     "uikTvd": "475401998874",
+    "uikName": "УИК №741",
     "tikTvd": "2752000313744",
-    "tikName": "Приаргунская"
+    "tikName": "Приаргунская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 742,
     "uikTvd": "475401998875",
+    "uikName": "УИК №742",
     "tikTvd": "2752000313744",
-    "tikName": "Приаргунская"
+    "tikName": "Приаргунская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 743,
     "uikTvd": "475401998876",
+    "uikName": "УИК №743",
     "tikTvd": "2752000313744",
-    "tikName": "Приаргунская"
+    "tikName": "Приаргунская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 744,
     "uikTvd": "475401998877",
+    "uikName": "УИК №744",
     "tikTvd": "2752000313744",
-    "tikName": "Приаргунская"
+    "tikName": "Приаргунская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 745,
     "uikTvd": "475401998878",
+    "uikName": "УИК №745",
     "tikTvd": "2752000313744",
-    "tikName": "Приаргунская"
+    "tikName": "Приаргунская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 746,
     "uikTvd": "475401998879",
+    "uikName": "УИК №746",
     "tikTvd": "2752000313744",
-    "tikName": "Приаргунская"
+    "tikName": "Приаргунская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 747,
     "uikTvd": "475401998880",
+    "uikName": "УИК №747",
     "tikTvd": "2752000313744",
-    "tikName": "Приаргунская"
+    "tikName": "Приаргунская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 748,
     "uikTvd": "475401998881",
+    "uikName": "УИК №748",
     "tikTvd": "2752000313744",
-    "tikName": "Приаргунская"
+    "tikName": "Приаргунская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 749,
     "uikTvd": "475401998882",
+    "uikName": "УИК №749",
     "tikTvd": "2752000313744",
-    "tikName": "Приаргунская"
+    "tikName": "Приаргунская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 750,
     "uikTvd": "475401998883",
+    "uikName": "УИК №750",
     "tikTvd": "2752000313744",
-    "tikName": "Приаргунская"
+    "tikName": "Приаргунская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 751,
     "uikTvd": "475401998884",
+    "uikName": "УИК №751",
     "tikTvd": "2752000313744",
-    "tikName": "Приаргунская"
+    "tikName": "Приаргунская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 752,
     "uikTvd": "475401998885",
+    "uikName": "УИК №752",
     "tikTvd": "2752000313744",
-    "tikName": "Приаргунская"
+    "tikName": "Приаргунская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 753,
     "uikTvd": "475401998886",
+    "uikName": "УИК №753",
     "tikTvd": "2752000313744",
-    "tikName": "Приаргунская"
+    "tikName": "Приаргунская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 754,
     "uikTvd": "475401998887",
+    "uikName": "УИК №754",
     "tikTvd": "2752000313744",
-    "tikName": "Приаргунская"
+    "tikName": "Приаргунская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 755,
     "uikTvd": "475401998888",
+    "uikName": "УИК №755",
     "tikTvd": "2752000313744",
-    "tikName": "Приаргунская"
+    "tikName": "Приаргунская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 756,
     "uikTvd": "475401998889",
+    "uikName": "УИК №756",
     "tikTvd": "2752000313744",
-    "tikName": "Приаргунская"
+    "tikName": "Приаргунская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 757,
     "uikTvd": "475401998890",
+    "uikName": "УИК №757",
     "tikTvd": "2752000313744",
-    "tikName": "Приаргунская"
+    "tikName": "Приаргунская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 758,
     "uikTvd": "475401998891",
+    "uikName": "УИК №758",
     "tikTvd": "2752000313744",
-    "tikName": "Приаргунская"
+    "tikName": "Приаргунская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 759,
     "uikTvd": "475401998892",
+    "uikName": "УИК №759",
     "tikTvd": "2752000313744",
-    "tikName": "Приаргунская"
+    "tikName": "Приаргунская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 760,
     "uikTvd": "475401998893",
+    "uikName": "УИК №760",
     "tikTvd": "2752000313744",
-    "tikName": "Приаргунская"
+    "tikName": "Приаргунская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 761,
     "uikTvd": "4754020111468",
+    "uikName": "УИК №761",
     "tikTvd": "2752000284735",
-    "tikName": "Сретенская"
+    "tikName": "Сретенская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 762,
     "uikTvd": "4754020111469",
+    "uikName": "УИК №762",
     "tikTvd": "2752000284735",
-    "tikName": "Сретенская"
+    "tikName": "Сретенская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 763,
     "uikTvd": "4754020111470",
+    "uikName": "УИК №763",
     "tikTvd": "2752000284735",
-    "tikName": "Сретенская"
+    "tikName": "Сретенская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 764,
     "uikTvd": "4754020111471",
+    "uikName": "УИК №764",
     "tikTvd": "2752000284735",
-    "tikName": "Сретенская"
+    "tikName": "Сретенская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 765,
     "uikTvd": "4754020111472",
+    "uikName": "УИК №765",
     "tikTvd": "2752000284735",
-    "tikName": "Сретенская"
+    "tikName": "Сретенская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 766,
     "uikTvd": "4754020111473",
+    "uikName": "УИК №766",
     "tikTvd": "2752000284735",
-    "tikName": "Сретенская"
+    "tikName": "Сретенская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 767,
     "uikTvd": "4754020111474",
+    "uikName": "УИК №767",
     "tikTvd": "2752000284735",
-    "tikName": "Сретенская"
+    "tikName": "Сретенская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 768,
     "uikTvd": "4754020111476",
+    "uikName": "УИК №768",
     "tikTvd": "2752000284735",
-    "tikName": "Сретенская"
+    "tikName": "Сретенская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 769,
     "uikTvd": "4754020111477",
+    "uikName": "УИК №769",
     "tikTvd": "2752000284735",
-    "tikName": "Сретенская"
+    "tikName": "Сретенская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 770,
     "uikTvd": "4754020111478",
+    "uikName": "УИК №770",
     "tikTvd": "2752000284735",
-    "tikName": "Сретенская"
+    "tikName": "Сретенская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 771,
     "uikTvd": "4754020111479",
+    "uikName": "УИК №771",
     "tikTvd": "2752000284735",
-    "tikName": "Сретенская"
+    "tikName": "Сретенская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 772,
     "uikTvd": "4754020111480",
+    "uikName": "УИК №772",
     "tikTvd": "2752000284735",
-    "tikName": "Сретенская"
+    "tikName": "Сретенская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 773,
     "uikTvd": "4754020111481",
+    "uikName": "УИК №773",
     "tikTvd": "2752000284735",
-    "tikName": "Сретенская"
+    "tikName": "Сретенская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 774,
     "uikTvd": "4754020111482",
+    "uikName": "УИК №774",
     "tikTvd": "2752000284735",
-    "tikName": "Сретенская"
+    "tikName": "Сретенская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 775,
     "uikTvd": "4754020111484",
+    "uikName": "УИК №775",
     "tikTvd": "2752000284735",
-    "tikName": "Сретенская"
+    "tikName": "Сретенская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 776,
     "uikTvd": "4754020111485",
+    "uikName": "УИК №776",
     "tikTvd": "2752000284735",
-    "tikName": "Сретенская"
+    "tikName": "Сретенская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 777,
     "uikTvd": "4754020111486",
+    "uikName": "УИК №777",
     "tikTvd": "2752000284735",
-    "tikName": "Сретенская"
+    "tikName": "Сретенская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 778,
     "uikTvd": "4754020111487",
+    "uikName": "УИК №778",
     "tikTvd": "2752000284735",
-    "tikName": "Сретенская"
+    "tikName": "Сретенская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 779,
     "uikTvd": "4754020111489",
+    "uikName": "УИК №779",
     "tikTvd": "2752000284735",
-    "tikName": "Сретенская"
+    "tikName": "Сретенская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 780,
     "uikTvd": "4754020111490",
+    "uikName": "УИК №780",
     "tikTvd": "2752000284735",
-    "tikName": "Сретенская"
+    "tikName": "Сретенская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 781,
     "uikTvd": "4754020111491",
+    "uikName": "УИК №781",
     "tikTvd": "2752000284735",
-    "tikName": "Сретенская"
+    "tikName": "Сретенская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 782,
     "uikTvd": "4754020111492",
+    "uikName": "УИК №782",
     "tikTvd": "2752000284735",
-    "tikName": "Сретенская"
+    "tikName": "Сретенская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 783,
     "uikTvd": "4754020111493",
+    "uikName": "УИК №783",
     "tikTvd": "2752000284735",
-    "tikName": "Сретенская"
+    "tikName": "Сретенская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 784,
     "uikTvd": "4754020111494",
+    "uikName": "УИК №784",
     "tikTvd": "2752000284735",
-    "tikName": "Сретенская"
+    "tikName": "Сретенская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 785,
     "uikTvd": "4754020111495",
+    "uikName": "УИК №785",
     "tikTvd": "2752000284735",
-    "tikName": "Сретенская"
+    "tikName": "Сретенская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 786,
     "uikTvd": "4754020111497",
+    "uikName": "УИК №786",
     "tikTvd": "2752000284735",
-    "tikName": "Сретенская"
+    "tikName": "Сретенская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 787,
     "uikTvd": "4754020111498",
+    "uikName": "УИК №787",
     "tikTvd": "2752000284735",
-    "tikName": "Сретенская"
+    "tikName": "Сретенская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 788,
     "uikTvd": "4754020111499",
+    "uikName": "УИК №788",
     "tikTvd": "2752000284735",
-    "tikName": "Сретенская"
+    "tikName": "Сретенская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 789,
     "uikTvd": "4754020111500",
+    "uikName": "УИК №789",
     "tikTvd": "2752000284735",
-    "tikName": "Сретенская"
+    "tikName": "Сретенская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 790,
     "uikTvd": "4754020111501",
+    "uikName": "УИК №790",
     "tikTvd": "2752000284735",
-    "tikName": "Сретенская"
+    "tikName": "Сретенская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 791,
     "uikTvd": "4754020111502",
+    "uikName": "УИК №791",
     "tikTvd": "2752000284735",
-    "tikName": "Сретенская"
+    "tikName": "Сретенская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 792,
     "uikTvd": "4754020111503",
+    "uikName": "УИК №792",
     "tikTvd": "2752000284735",
-    "tikName": "Сретенская"
+    "tikName": "Сретенская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 793,
     "uikTvd": "4754020111505",
+    "uikName": "УИК №793",
     "tikTvd": "2752000284735",
-    "tikName": "Сретенская"
+    "tikName": "Сретенская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 794,
     "uikTvd": "4754020111661",
+    "uikName": "УИК №794",
     "tikTvd": "2752000284735",
-    "tikName": "Сретенская"
+    "tikName": "Сретенская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 795,
     "uikTvd": "4754020111662",
+    "uikName": "УИК №795",
     "tikTvd": "2752000284735",
-    "tikName": "Сретенская"
+    "tikName": "Сретенская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 796,
     "uikTvd": "4754020111663",
+    "uikName": "УИК №796",
     "tikTvd": "2752000284735",
-    "tikName": "Сретенская"
+    "tikName": "Сретенская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 797,
     "uikTvd": "4754020111509",
+    "uikName": "УИК №797",
     "tikTvd": "2752000284735",
-    "tikName": "Сретенская"
+    "tikName": "Сретенская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 798,
     "uikTvd": "4754020111510",
+    "uikName": "УИК №798",
     "tikTvd": "2752000284735",
-    "tikName": "Сретенская"
+    "tikName": "Сретенская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 799,
     "uikTvd": "4754020111511",
+    "uikName": "УИК №799",
     "tikTvd": "2752000284735",
-    "tikName": "Сретенская"
+    "tikName": "Сретенская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 800,
     "uikTvd": "4754020111660",
+    "uikName": "УИК №800",
     "tikTvd": "2752000284735",
-    "tikName": "Сретенская"
+    "tikName": "Сретенская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 801,
     "uikTvd": "4754026121160",
+    "uikName": "УИК №801",
     "tikTvd": "2752000284749",
-    "tikName": "Чернышевская"
+    "tikName": "Чернышевская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 802,
     "uikTvd": "4754026121161",
+    "uikName": "УИК №802",
     "tikTvd": "2752000284749",
-    "tikName": "Чернышевская"
+    "tikName": "Чернышевская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 803,
     "uikTvd": "4754026121162",
+    "uikName": "УИК №803",
     "tikTvd": "2752000284749",
-    "tikName": "Чернышевская"
+    "tikName": "Чернышевская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 804,
     "uikTvd": "4754026121163",
+    "uikName": "УИК №804",
     "tikTvd": "2752000284749",
-    "tikName": "Чернышевская"
+    "tikName": "Чернышевская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 805,
     "uikTvd": "4754026121164",
+    "uikName": "УИК №805",
     "tikTvd": "2752000284749",
-    "tikName": "Чернышевская"
+    "tikName": "Чернышевская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 806,
     "uikTvd": "4754026121165",
+    "uikName": "УИК №806",
     "tikTvd": "2752000284749",
-    "tikName": "Чернышевская"
+    "tikName": "Чернышевская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 807,
     "uikTvd": "4754026121166",
+    "uikName": "УИК №807",
     "tikTvd": "2752000284749",
-    "tikName": "Чернышевская"
+    "tikName": "Чернышевская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 808,
     "uikTvd": "4754026121167",
+    "uikName": "УИК №808",
     "tikTvd": "2752000284749",
-    "tikName": "Чернышевская"
+    "tikName": "Чернышевская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 809,
     "uikTvd": "4754026121168",
+    "uikName": "УИК №809",
     "tikTvd": "2752000284749",
-    "tikName": "Чернышевская"
+    "tikName": "Чернышевская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 810,
     "uikTvd": "4754026121169",
+    "uikName": "УИК №810",
     "tikTvd": "2752000284749",
-    "tikName": "Чернышевская"
+    "tikName": "Чернышевская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 811,
     "uikTvd": "4754026121170",
+    "uikName": "УИК №811",
     "tikTvd": "2752000284749",
-    "tikName": "Чернышевская"
+    "tikName": "Чернышевская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 812,
     "uikTvd": "4754026121171",
+    "uikName": "УИК №812",
     "tikTvd": "2752000284749",
-    "tikName": "Чернышевская"
+    "tikName": "Чернышевская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 813,
     "uikTvd": "4754026121172",
+    "uikName": "УИК №813",
     "tikTvd": "2752000284749",
-    "tikName": "Чернышевская"
+    "tikName": "Чернышевская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 814,
     "uikTvd": "4754026121173",
+    "uikName": "УИК №814",
     "tikTvd": "2752000284749",
-    "tikName": "Чернышевская"
+    "tikName": "Чернышевская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 815,
     "uikTvd": "4754026121174",
+    "uikName": "УИК №815",
     "tikTvd": "2752000284749",
-    "tikName": "Чернышевская"
+    "tikName": "Чернышевская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 816,
     "uikTvd": "4754026121175",
+    "uikName": "УИК №816",
     "tikTvd": "2752000284749",
-    "tikName": "Чернышевская"
+    "tikName": "Чернышевская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 817,
     "uikTvd": "4754026121176",
+    "uikName": "УИК №817",
     "tikTvd": "2752000284749",
-    "tikName": "Чернышевская"
+    "tikName": "Чернышевская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 818,
     "uikTvd": "4754026121177",
+    "uikName": "УИК №818",
     "tikTvd": "2752000284749",
-    "tikName": "Чернышевская"
+    "tikName": "Чернышевская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 819,
     "uikTvd": "4754026121178",
+    "uikName": "УИК №819",
     "tikTvd": "2752000284749",
-    "tikName": "Чернышевская"
+    "tikName": "Чернышевская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 820,
     "uikTvd": "4754026121179",
+    "uikName": "УИК №820",
     "tikTvd": "2752000284749",
-    "tikName": "Чернышевская"
+    "tikName": "Чернышевская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 821,
     "uikTvd": "4754026121180",
+    "uikName": "УИК №821",
     "tikTvd": "2752000284749",
-    "tikName": "Чернышевская"
+    "tikName": "Чернышевская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 822,
     "uikTvd": "4754026121181",
+    "uikName": "УИК №822",
     "tikTvd": "2752000284749",
-    "tikName": "Чернышевская"
+    "tikName": "Чернышевская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 823,
     "uikTvd": "4754026121182",
+    "uikName": "УИК №823",
     "tikTvd": "2752000284749",
-    "tikName": "Чернышевская"
+    "tikName": "Чернышевская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 824,
     "uikTvd": "4754026121183",
+    "uikName": "УИК №824",
     "tikTvd": "2752000284749",
-    "tikName": "Чернышевская"
+    "tikName": "Чернышевская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 825,
     "uikTvd": "4754026121184",
+    "uikName": "УИК №825",
     "tikTvd": "2752000284749",
-    "tikName": "Чернышевская"
+    "tikName": "Чернышевская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 826,
     "uikTvd": "4754026121185",
+    "uikName": "УИК №826",
     "tikTvd": "2752000284749",
-    "tikName": "Чернышевская"
+    "tikName": "Чернышевская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 827,
     "uikTvd": "4754026121186",
+    "uikName": "УИК №827",
     "tikTvd": "2752000284749",
-    "tikName": "Чернышевская"
+    "tikName": "Чернышевская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 828,
     "uikTvd": "4754026121187",
+    "uikName": "УИК №828",
     "tikTvd": "2752000284749",
-    "tikName": "Чернышевская"
+    "tikName": "Чернышевская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 829,
     "uikTvd": "4754026121188",
+    "uikName": "УИК №829",
     "tikTvd": "2752000284749",
-    "tikName": "Чернышевская"
+    "tikName": "Чернышевская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 830,
     "uikTvd": "4754029106522",
+    "uikName": "УИК №830",
     "tikTvd": "2752000284719",
-    "tikName": "Чита, Центральная"
+    "tikName": "Чита, Центральная",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 831,
     "uikTvd": "4754026121189",
+    "uikName": "УИК №831",
     "tikTvd": "2752000284749",
-    "tikName": "Чернышевская"
+    "tikName": "Чернышевская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 832,
     "uikTvd": "4754026121190",
+    "uikName": "УИК №832",
     "tikTvd": "2752000284749",
-    "tikName": "Чернышевская"
+    "tikName": "Чернышевская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 833,
     "uikTvd": "4754026121191",
+    "uikName": "УИК №833",
     "tikTvd": "2752000284749",
-    "tikName": "Чернышевская"
+    "tikName": "Чернышевская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 834,
     "uikTvd": "4754026121192",
+    "uikName": "УИК №834",
     "tikTvd": "2752000284749",
-    "tikName": "Чернышевская"
+    "tikName": "Чернышевская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 835,
     "uikTvd": "4754026121193",
+    "uikName": "УИК №835",
     "tikTvd": "2752000284749",
-    "tikName": "Чернышевская"
+    "tikName": "Чернышевская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 837,
     "uikTvd": "4754026121194",
+    "uikName": "УИК №837",
     "tikTvd": "2752000284749",
-    "tikName": "Чернышевская"
+    "tikName": "Чернышевская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 838,
     "uikTvd": "4754026121195",
+    "uikName": "УИК №838",
     "tikTvd": "2752000284749",
-    "tikName": "Чернышевская"
+    "tikName": "Чернышевская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 839,
     "uikTvd": "4754026121196",
+    "uikName": "УИК №839",
     "tikTvd": "2752000284749",
-    "tikName": "Чернышевская"
+    "tikName": "Чернышевская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 840,
     "uikTvd": "475403295095",
+    "uikName": "УИК №840",
     "tikTvd": "2752000284745",
-    "tikName": "Шелопугинская"
+    "tikName": "Шелопугинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 841,
     "uikTvd": "475403295096",
+    "uikName": "УИК №841",
     "tikTvd": "2752000284745",
-    "tikName": "Шелопугинская"
+    "tikName": "Шелопугинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 842,
     "uikTvd": "4754029106523",
+    "uikName": "УИК №842",
     "tikTvd": "2752000284719",
-    "tikName": "Чита, Центральная"
+    "tikName": "Чита, Центральная",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 843,
     "uikTvd": "475403295097",
+    "uikName": "УИК №843",
     "tikTvd": "2752000284745",
-    "tikName": "Шелопугинская"
+    "tikName": "Шелопугинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 844,
     "uikTvd": "475403295098",
+    "uikName": "УИК №844",
     "tikTvd": "2752000284745",
-    "tikName": "Шелопугинская"
+    "tikName": "Шелопугинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 845,
     "uikTvd": "475403295099",
+    "uikName": "УИК №845",
     "tikTvd": "2752000284745",
-    "tikName": "Шелопугинская"
+    "tikName": "Шелопугинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 846,
     "uikTvd": "475403295100",
+    "uikName": "УИК №846",
     "tikTvd": "2752000284745",
-    "tikName": "Шелопугинская"
+    "tikName": "Шелопугинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 847,
     "uikTvd": "475403295101",
+    "uikName": "УИК №847",
     "tikTvd": "2752000284745",
-    "tikName": "Шелопугинская"
+    "tikName": "Шелопугинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 848,
     "uikTvd": "475403295102",
+    "uikName": "УИК №848",
     "tikTvd": "2752000284745",
-    "tikName": "Шелопугинская"
+    "tikName": "Шелопугинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 849,
     "uikTvd": "475403295103",
+    "uikName": "УИК №849",
     "tikTvd": "2752000284745",
-    "tikName": "Шелопугинская"
+    "tikName": "Шелопугинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 850,
     "uikTvd": "475403295104",
+    "uikName": "УИК №850",
     "tikTvd": "2752000284745",
-    "tikName": "Шелопугинская"
+    "tikName": "Шелопугинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 851,
     "uikTvd": "475403295105",
+    "uikName": "УИК №851",
     "tikTvd": "2752000284745",
-    "tikName": "Шелопугинская"
+    "tikName": "Шелопугинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 852,
     "uikTvd": "4754029106524",
+    "uikName": "УИК №852",
     "tikTvd": "2752000284719",
-    "tikName": "Чита, Центральная"
+    "tikName": "Чита, Центральная",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 853,
     "uikTvd": "475403295106",
+    "uikName": "УИК №853",
     "tikTvd": "2752000284745",
-    "tikName": "Шелопугинская"
+    "tikName": "Шелопугинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 854,
     "uikTvd": "475403295107",
+    "uikName": "УИК №854",
     "tikTvd": "2752000284745",
-    "tikName": "Шелопугинская"
+    "tikName": "Шелопугинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 855,
     "uikTvd": "475403295108",
+    "uikName": "УИК №855",
     "tikTvd": "2752000284745",
-    "tikName": "Шелопугинская"
+    "tikName": "Шелопугинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 856,
     "uikTvd": "475403295109",
+    "uikName": "УИК №856",
     "tikTvd": "2752000284745",
-    "tikName": "Шелопугинская"
+    "tikName": "Шелопугинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 857,
     "uikTvd": "475403295110",
+    "uikName": "УИК №857",
     "tikTvd": "2752000284745",
-    "tikName": "Шелопугинская"
+    "tikName": "Шелопугинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 858,
     "uikTvd": "475403295111",
+    "uikName": "УИК №858",
     "tikTvd": "2752000284745",
-    "tikName": "Шелопугинская"
+    "tikName": "Шелопугинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 859,
     "uikTvd": "475403295112",
+    "uikName": "УИК №859",
     "tikTvd": "2752000284745",
-    "tikName": "Шелопугинская"
+    "tikName": "Шелопугинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 860,
     "uikTvd": "475403295113",
+    "uikName": "УИК №860",
     "tikTvd": "2752000284745",
-    "tikName": "Шелопугинская"
+    "tikName": "Шелопугинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 861,
     "uikTvd": "475403295114",
+    "uikName": "УИК №861",
     "tikTvd": "2752000284745",
-    "tikName": "Шелопугинская"
+    "tikName": "Шелопугинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 862,
     "uikTvd": "4754033109021",
+    "uikName": "УИК №862",
     "tikTvd": "2752000284746",
-    "tikName": "Шилкинская"
+    "tikName": "Шилкинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 863,
     "uikTvd": "4754033109025",
+    "uikName": "УИК №863",
     "tikTvd": "2752000284746",
-    "tikName": "Шилкинская"
+    "tikName": "Шилкинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 864,
     "uikTvd": "4754033109027",
+    "uikName": "УИК №864",
     "tikTvd": "2752000284746",
-    "tikName": "Шилкинская"
+    "tikName": "Шилкинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 866,
     "uikTvd": "4754033109029",
+    "uikName": "УИК №866",
     "tikTvd": "2752000284746",
-    "tikName": "Шилкинская"
+    "tikName": "Шилкинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 867,
     "uikTvd": "4754033109019",
+    "uikName": "УИК №867",
     "tikTvd": "2752000284746",
-    "tikName": "Шилкинская"
+    "tikName": "Шилкинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 868,
     "uikTvd": "4754033109034",
+    "uikName": "УИК №868",
     "tikTvd": "2752000284746",
-    "tikName": "Шилкинская"
+    "tikName": "Шилкинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 869,
     "uikTvd": "4754033109035",
+    "uikName": "УИК №869",
     "tikTvd": "2752000284746",
-    "tikName": "Шилкинская"
+    "tikName": "Шилкинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 870,
     "uikTvd": "4754033109036",
+    "uikName": "УИК №870",
     "tikTvd": "2752000284746",
-    "tikName": "Шилкинская"
+    "tikName": "Шилкинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 871,
     "uikTvd": "4754033109037",
+    "uikName": "УИК №871",
     "tikTvd": "2752000284746",
-    "tikName": "Шилкинская"
+    "tikName": "Шилкинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 872,
     "uikTvd": "4754033109038",
+    "uikName": "УИК №872",
     "tikTvd": "2752000284746",
-    "tikName": "Шилкинская"
+    "tikName": "Шилкинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 873,
     "uikTvd": "4754033109039",
+    "uikName": "УИК №873",
     "tikTvd": "2752000284746",
-    "tikName": "Шилкинская"
+    "tikName": "Шилкинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 874,
     "uikTvd": "4754033109040",
+    "uikName": "УИК №874",
     "tikTvd": "2752000284746",
-    "tikName": "Шилкинская"
+    "tikName": "Шилкинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 875,
     "uikTvd": "4754033109041",
+    "uikName": "УИК №875",
     "tikTvd": "2752000284746",
-    "tikName": "Шилкинская"
+    "tikName": "Шилкинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 876,
     "uikTvd": "4754033109975",
+    "uikName": "УИК №876",
     "tikTvd": "2752000284746",
-    "tikName": "Шилкинская"
+    "tikName": "Шилкинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 877,
     "uikTvd": "4754033109043",
+    "uikName": "УИК №877",
     "tikTvd": "2752000284746",
-    "tikName": "Шилкинская"
+    "tikName": "Шилкинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 878,
     "uikTvd": "4754033109044",
+    "uikName": "УИК №878",
     "tikTvd": "2752000284746",
-    "tikName": "Шилкинская"
+    "tikName": "Шилкинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 879,
     "uikTvd": "4754033109045",
+    "uikName": "УИК №879",
     "tikTvd": "2752000284746",
-    "tikName": "Шилкинская"
+    "tikName": "Шилкинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 880,
     "uikTvd": "4754033109046",
+    "uikName": "УИК №880",
     "tikTvd": "2752000284746",
-    "tikName": "Шилкинская"
+    "tikName": "Шилкинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 881,
     "uikTvd": "4754033109047",
+    "uikName": "УИК №881",
     "tikTvd": "2752000284746",
-    "tikName": "Шилкинская"
+    "tikName": "Шилкинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 882,
     "uikTvd": "4754033109048",
+    "uikName": "УИК №882",
     "tikTvd": "2752000284746",
-    "tikName": "Шилкинская"
+    "tikName": "Шилкинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 883,
     "uikTvd": "4754033109049",
+    "uikName": "УИК №883",
     "tikTvd": "2752000284746",
-    "tikName": "Шилкинская"
+    "tikName": "Шилкинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 884,
     "uikTvd": "4754033109050",
+    "uikName": "УИК №884",
     "tikTvd": "2752000284746",
-    "tikName": "Шилкинская"
+    "tikName": "Шилкинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 885,
     "uikTvd": "4754033109051",
+    "uikName": "УИК №885",
     "tikTvd": "2752000284746",
-    "tikName": "Шилкинская"
+    "tikName": "Шилкинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 886,
     "uikTvd": "4754033109052",
+    "uikName": "УИК №886",
     "tikTvd": "2752000284746",
-    "tikName": "Шилкинская"
+    "tikName": "Шилкинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 887,
     "uikTvd": "4754033109053",
+    "uikName": "УИК №887",
     "tikTvd": "2752000284746",
-    "tikName": "Шилкинская"
+    "tikName": "Шилкинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 888,
     "uikTvd": "4754033109054",
+    "uikName": "УИК №888",
     "tikTvd": "2752000284746",
-    "tikName": "Шилкинская"
+    "tikName": "Шилкинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 889,
     "uikTvd": "4754033109055",
+    "uikName": "УИК №889",
     "tikTvd": "2752000284746",
-    "tikName": "Шилкинская"
+    "tikName": "Шилкинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 890,
     "uikTvd": "4754033109056",
+    "uikName": "УИК №890",
     "tikTvd": "2752000284746",
-    "tikName": "Шилкинская"
+    "tikName": "Шилкинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 891,
     "uikTvd": "4754033109057",
+    "uikName": "УИК №891",
     "tikTvd": "2752000284746",
-    "tikName": "Шилкинская"
+    "tikName": "Шилкинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 892,
     "uikTvd": "4754033109058",
+    "uikName": "УИК №892",
     "tikTvd": "2752000284746",
-    "tikName": "Шилкинская"
+    "tikName": "Шилкинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 893,
     "uikTvd": "4754033109059",
+    "uikName": "УИК №893",
     "tikTvd": "2752000284746",
-    "tikName": "Шилкинская"
+    "tikName": "Шилкинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 894,
     "uikTvd": "4754033109060",
+    "uikName": "УИК №894",
     "tikTvd": "2752000284746",
-    "tikName": "Шилкинская"
+    "tikName": "Шилкинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 895,
     "uikTvd": "4754033109061",
+    "uikName": "УИК №895",
     "tikTvd": "2752000284746",
-    "tikName": "Шилкинская"
+    "tikName": "Шилкинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 896,
     "uikTvd": "4754033109062",
+    "uikName": "УИК №896",
     "tikTvd": "2752000284746",
-    "tikName": "Шилкинская"
+    "tikName": "Шилкинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 897,
     "uikTvd": "4754033109063",
+    "uikName": "УИК №897",
     "tikTvd": "2752000284746",
-    "tikName": "Шилкинская"
+    "tikName": "Шилкинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 898,
     "uikTvd": "4754033109064",
+    "uikName": "УИК №898",
     "tikTvd": "2752000284746",
-    "tikName": "Шилкинская"
+    "tikName": "Шилкинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 899,
     "uikTvd": "4754033109065",
+    "uikName": "УИК №899",
     "tikTvd": "2752000284746",
-    "tikName": "Шилкинская"
+    "tikName": "Шилкинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 900,
     "uikTvd": "4754033109066",
+    "uikName": "УИК №900",
     "tikTvd": "2752000284746",
-    "tikName": "Шилкинская"
+    "tikName": "Шилкинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 901,
     "uikTvd": "4754033109067",
+    "uikName": "УИК №901",
     "tikTvd": "2752000284746",
-    "tikName": "Шилкинская"
+    "tikName": "Шилкинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 902,
     "uikTvd": "4754033109068",
+    "uikName": "УИК №902",
     "tikTvd": "2752000284746",
-    "tikName": "Шилкинская"
+    "tikName": "Шилкинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 903,
     "uikTvd": "4754033109069",
+    "uikName": "УИК №903",
     "tikTvd": "2752000284746",
-    "tikName": "Шилкинская"
+    "tikName": "Шилкинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 904,
     "uikTvd": "4754033109070",
+    "uikName": "УИК №904",
     "tikTvd": "2752000284746",
-    "tikName": "Шилкинская"
+    "tikName": "Шилкинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 905,
     "uikTvd": "4754033109071",
+    "uikName": "УИК №905",
     "tikTvd": "2752000284746",
-    "tikName": "Шилкинская"
+    "tikName": "Шилкинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 906,
     "uikTvd": "4754033109072",
+    "uikName": "УИК №906",
     "tikTvd": "2752000284746",
-    "tikName": "Шилкинская"
+    "tikName": "Шилкинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 907,
     "uikTvd": "4754033109032",
+    "uikName": "УИК №907",
     "tikTvd": "2752000284746",
-    "tikName": "Шилкинская"
+    "tikName": "Шилкинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 908,
     "uikTvd": "4804001130676",
+    "uikName": "УИК №908",
     "tikTvd": "2752000313734",
-    "tikName": "Агинская городская"
+    "tikName": "Агинская городская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 909,
     "uikTvd": "4804001130677",
+    "uikName": "УИК №909",
     "tikTvd": "2752000313734",
-    "tikName": "Агинская городская"
+    "tikName": "Агинская городская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 910,
     "uikTvd": "4804001130678",
+    "uikName": "УИК №910",
     "tikTvd": "2752000313734",
-    "tikName": "Агинская городская"
+    "tikName": "Агинская городская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 911,
     "uikTvd": "4804001130679",
+    "uikName": "УИК №911",
     "tikTvd": "2752000313734",
-    "tikName": "Агинская городская"
+    "tikName": "Агинская городская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 912,
     "uikTvd": "4804001130156",
+    "uikName": "УИК №912",
     "tikTvd": "2752000313735",
-    "tikName": "Агинская"
+    "tikName": "Агинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 913,
     "uikTvd": "4804001130157",
+    "uikName": "УИК №913",
     "tikTvd": "2752000313735",
-    "tikName": "Агинская"
+    "tikName": "Агинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 914,
     "uikTvd": "4804001130158",
+    "uikName": "УИК №914",
     "tikTvd": "2752000313735",
-    "tikName": "Агинская"
+    "tikName": "Агинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 915,
     "uikTvd": "4804001130159",
+    "uikName": "УИК №915",
     "tikTvd": "2752000313735",
-    "tikName": "Агинская"
+    "tikName": "Агинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 916,
     "uikTvd": "4804001130160",
+    "uikName": "УИК №916",
     "tikTvd": "2752000313735",
-    "tikName": "Агинская"
+    "tikName": "Агинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 917,
     "uikTvd": "4804001130161",
+    "uikName": "УИК №917",
     "tikTvd": "2752000313735",
-    "tikName": "Агинская"
+    "tikName": "Агинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 918,
     "uikTvd": "4804001130162",
+    "uikName": "УИК №918",
     "tikTvd": "2752000313735",
-    "tikName": "Агинская"
+    "tikName": "Агинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 919,
     "uikTvd": "4804001130163",
+    "uikName": "УИК №919",
     "tikTvd": "2752000313735",
-    "tikName": "Агинская"
+    "tikName": "Агинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 920,
     "uikTvd": "4804001130164",
+    "uikName": "УИК №920",
     "tikTvd": "2752000313735",
-    "tikName": "Агинская"
+    "tikName": "Агинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 921,
     "uikTvd": "4804001130165",
+    "uikName": "УИК №921",
     "tikTvd": "2752000313735",
-    "tikName": "Агинская"
+    "tikName": "Агинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 922,
     "uikTvd": "4804001130166",
+    "uikName": "УИК №922",
     "tikTvd": "2752000313735",
-    "tikName": "Агинская"
+    "tikName": "Агинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 923,
     "uikTvd": "4804001130167",
+    "uikName": "УИК №923",
     "tikTvd": "2752000313735",
-    "tikName": "Агинская"
+    "tikName": "Агинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 924,
     "uikTvd": "4804001130168",
+    "uikName": "УИК №924",
     "tikTvd": "2752000313735",
-    "tikName": "Агинская"
+    "tikName": "Агинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 925,
     "uikTvd": "4804001130169",
+    "uikName": "УИК №925",
     "tikTvd": "2752000313735",
-    "tikName": "Агинская"
+    "tikName": "Агинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 926,
     "uikTvd": "4804001130170",
+    "uikName": "УИК №926",
     "tikTvd": "2752000313735",
-    "tikName": "Агинская"
+    "tikName": "Агинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 927,
     "uikTvd": "4804001130171",
+    "uikName": "УИК №927",
     "tikTvd": "2752000313735",
-    "tikName": "Агинская"
+    "tikName": "Агинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 928,
     "uikTvd": "4804001130172",
+    "uikName": "УИК №928",
     "tikTvd": "2752000313735",
-    "tikName": "Агинская"
+    "tikName": "Агинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 929,
     "uikTvd": "4804002107488",
+    "uikName": "УИК №929",
     "tikTvd": "2752000284715",
-    "tikName": "Дульдургинская"
+    "tikName": "Дульдургинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 930,
     "uikTvd": "4804002107489",
+    "uikName": "УИК №930",
     "tikTvd": "2752000284715",
-    "tikName": "Дульдургинская"
+    "tikName": "Дульдургинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 931,
     "uikTvd": "4804002107490",
+    "uikName": "УИК №931",
     "tikTvd": "2752000284715",
-    "tikName": "Дульдургинская"
+    "tikName": "Дульдургинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 932,
     "uikTvd": "4804002107491",
+    "uikName": "УИК №932",
     "tikTvd": "2752000284715",
-    "tikName": "Дульдургинская"
+    "tikName": "Дульдургинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 933,
     "uikTvd": "4804002107492",
+    "uikName": "УИК №933",
     "tikTvd": "2752000284715",
-    "tikName": "Дульдургинская"
+    "tikName": "Дульдургинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 934,
     "uikTvd": "4804002107493",
+    "uikName": "УИК №934",
     "tikTvd": "2752000284715",
-    "tikName": "Дульдургинская"
+    "tikName": "Дульдургинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 935,
     "uikTvd": "4804002107494",
+    "uikName": "УИК №935",
     "tikTvd": "2752000284715",
-    "tikName": "Дульдургинская"
+    "tikName": "Дульдургинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 936,
     "uikTvd": "4804002107495",
+    "uikName": "УИК №936",
     "tikTvd": "2752000284715",
-    "tikName": "Дульдургинская"
+    "tikName": "Дульдургинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 937,
     "uikTvd": "4804002107496",
+    "uikName": "УИК №937",
     "tikTvd": "2752000284715",
-    "tikName": "Дульдургинская"
+    "tikName": "Дульдургинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 938,
     "uikTvd": "4804002107497",
+    "uikName": "УИК №938",
     "tikTvd": "2752000284715",
-    "tikName": "Дульдургинская"
+    "tikName": "Дульдургинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 939,
     "uikTvd": "4804002107498",
+    "uikName": "УИК №939",
     "tikTvd": "2752000284715",
-    "tikName": "Дульдургинская"
+    "tikName": "Дульдургинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 940,
     "uikTvd": "4804002107499",
+    "uikName": "УИК №940",
     "tikTvd": "2752000284715",
-    "tikName": "Дульдургинская"
+    "tikName": "Дульдургинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 941,
     "uikTvd": "4804002107500",
+    "uikName": "УИК №941",
     "tikTvd": "2752000284715",
-    "tikName": "Дульдургинская"
+    "tikName": "Дульдургинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 942,
     "uikTvd": "4804003109551",
+    "uikName": "УИК №942",
     "tikTvd": "2752000284716",
-    "tikName": "Могойтуйская"
+    "tikName": "Могойтуйская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 943,
     "uikTvd": "4804003109552",
+    "uikName": "УИК №943",
     "tikTvd": "2752000284716",
-    "tikName": "Могойтуйская"
+    "tikName": "Могойтуйская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 944,
     "uikTvd": "4804003109553",
+    "uikName": "УИК №944",
     "tikTvd": "2752000284716",
-    "tikName": "Могойтуйская"
+    "tikName": "Могойтуйская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 945,
     "uikTvd": "4804003109554",
+    "uikName": "УИК №945",
     "tikTvd": "2752000284716",
-    "tikName": "Могойтуйская"
+    "tikName": "Могойтуйская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 946,
     "uikTvd": "4804003109555",
+    "uikName": "УИК №946",
     "tikTvd": "2752000284716",
-    "tikName": "Могойтуйская"
+    "tikName": "Могойтуйская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 947,
     "uikTvd": "4804003109556",
+    "uikName": "УИК №947",
     "tikTvd": "2752000284716",
-    "tikName": "Могойтуйская"
+    "tikName": "Могойтуйская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 948,
     "uikTvd": "4804003109557",
+    "uikName": "УИК №948",
     "tikTvd": "2752000284716",
-    "tikName": "Могойтуйская"
+    "tikName": "Могойтуйская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 949,
     "uikTvd": "4804003109558",
+    "uikName": "УИК №949",
     "tikTvd": "2752000284716",
-    "tikName": "Могойтуйская"
+    "tikName": "Могойтуйская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 950,
     "uikTvd": "4804003109559",
+    "uikName": "УИК №950",
     "tikTvd": "2752000284716",
-    "tikName": "Могойтуйская"
+    "tikName": "Могойтуйская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 951,
     "uikTvd": "4804003109560",
+    "uikName": "УИК №951",
     "tikTvd": "2752000284716",
-    "tikName": "Могойтуйская"
+    "tikName": "Могойтуйская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 952,
     "uikTvd": "4804003109561",
+    "uikName": "УИК №952",
     "tikTvd": "2752000284716",
-    "tikName": "Могойтуйская"
+    "tikName": "Могойтуйская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 953,
     "uikTvd": "4804003109562",
+    "uikName": "УИК №953",
     "tikTvd": "2752000284716",
-    "tikName": "Могойтуйская"
+    "tikName": "Могойтуйская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 954,
     "uikTvd": "4804003109563",
+    "uikName": "УИК №954",
     "tikTvd": "2752000284716",
-    "tikName": "Могойтуйская"
+    "tikName": "Могойтуйская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 955,
     "uikTvd": "4804003109564",
+    "uikName": "УИК №955",
     "tikTvd": "2752000284716",
-    "tikName": "Могойтуйская"
+    "tikName": "Могойтуйская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 956,
     "uikTvd": "4804003109565",
+    "uikName": "УИК №956",
     "tikTvd": "2752000284716",
-    "tikName": "Могойтуйская"
+    "tikName": "Могойтуйская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 957,
     "uikTvd": "4804003109566",
+    "uikName": "УИК №957",
     "tikTvd": "2752000284716",
-    "tikName": "Могойтуйская"
+    "tikName": "Могойтуйская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 958,
     "uikTvd": "4804003109567",
+    "uikName": "УИК №958",
     "tikTvd": "2752000284716",
-    "tikName": "Могойтуйская"
+    "tikName": "Могойтуйская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 959,
     "uikTvd": "4804003109568",
+    "uikName": "УИК №959",
     "tikTvd": "2752000284716",
-    "tikName": "Могойтуйская"
+    "tikName": "Могойтуйская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 960,
     "uikTvd": "4804003109569",
+    "uikName": "УИК №960",
     "tikTvd": "2752000284716",
-    "tikName": "Могойтуйская"
+    "tikName": "Могойтуйская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 961,
     "uikTvd": "4804003109570",
+    "uikName": "УИК №961",
     "tikTvd": "2752000284716",
-    "tikName": "Могойтуйская"
+    "tikName": "Могойтуйская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 962,
     "uikTvd": "4804003109571",
+    "uikName": "УИК №962",
     "tikTvd": "2752000284716",
-    "tikName": "Могойтуйская"
+    "tikName": "Могойтуйская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 963,
     "uikTvd": "4804003109572",
+    "uikName": "УИК №963",
     "tikTvd": "2752000284716",
-    "tikName": "Могойтуйская"
+    "tikName": "Могойтуйская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   },
   {
     "uikNumber": 964,
     "uikTvd": "4804003109573",
+    "uikName": "УИК №964",
     "tikTvd": "2752000284716",
-    "tikName": "Могойтуйская"
+    "tikName": "Могойтуйская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
+    "district": null
   }
 ] satisfies readonly UikTikRelation[];

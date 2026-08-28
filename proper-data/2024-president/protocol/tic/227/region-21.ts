@@ -11,6 +11,9 @@ export const president_2024_tic_227_region_21 = [
     "ballot": "presidential",
     "tikTvd": "22120001745495",
     "tikName": "Янтиковская",
+    "regionCode": "21",
+    "regionTvd": "100100339411215",
+    "regionName": "Чувашская Республика - Чувашия",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 6721,
@@ -77,6 +80,9 @@ export const president_2024_tic_227_region_21 = [
     "ballot": "presidential",
     "tikTvd": "22120001745496",
     "tikName": "Яльчикская",
+    "regionCode": "21",
+    "regionTvd": "100100339411215",
+    "regionName": "Чувашская Республика - Чувашия",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 8708,
@@ -149,6 +155,9 @@ export const president_2024_tic_227_region_21 = [
     "ballot": "presidential",
     "tikTvd": "22120001745497",
     "tikName": "Ядринская",
+    "regionCode": "21",
+    "regionTvd": "100100339411215",
+    "regionName": "Чувашская Республика - Чувашия",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 13198,
@@ -221,6 +230,9 @@ export const president_2024_tic_227_region_21 = [
     "ballot": "presidential",
     "tikTvd": "22120001745498",
     "tikName": "Шумерлинская городская",
+    "regionCode": "21",
+    "regionTvd": "100100339411215",
+    "regionName": "Чувашская Республика - Чувашия",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 17738,
@@ -282,6 +294,9 @@ export const president_2024_tic_227_region_21 = [
     "ballot": "presidential",
     "tikTvd": "22120001745499",
     "tikName": "Шумерлинская",
+    "regionCode": "21",
+    "regionTvd": "100100339411215",
+    "regionName": "Чувашская Республика - Чувашия",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 5491,
@@ -343,6 +358,9 @@ export const president_2024_tic_227_region_21 = [
     "ballot": "presidential",
     "tikTvd": "22120001745500",
     "tikName": "Шемуршинская",
+    "regionCode": "21",
+    "regionTvd": "100100339411215",
+    "regionName": "Чувашская Республика - Чувашия",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 6172,
@@ -401,6 +419,9 @@ export const president_2024_tic_227_region_21 = [
     "ballot": "presidential",
     "tikTvd": "22120001745501",
     "tikName": "Чебоксары, Московская",
+    "regionCode": "21",
+    "regionTvd": "100100339411215",
+    "regionName": "Чувашская Республика - Чувашия",
     "uikCount": 79,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 106821,
@@ -520,6 +541,9 @@ export const president_2024_tic_227_region_21 = [
     "ballot": "presidential",
     "tikTvd": "22120001745502",
     "tikName": "Чебоксары, Ленинская",
+    "regionCode": "21",
+    "regionTvd": "100100339411215",
+    "regionName": "Чувашская Республика - Чувашия",
     "uikCount": 61,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 75755,
@@ -621,6 +645,9 @@ export const president_2024_tic_227_region_21 = [
     "ballot": "presidential",
     "tikTvd": "22120001745503",
     "tikName": "Чебоксары, Калининская",
+    "regionCode": "21",
+    "regionTvd": "100100339411215",
+    "regionName": "Чувашская Республика - Чувашия",
     "uikCount": 65,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 99014,
@@ -726,6 +753,9 @@ export const president_2024_tic_227_region_21 = [
     "ballot": "presidential",
     "tikTvd": "22120001745504",
     "tikName": "Чебоксарская",
+    "regionCode": "21",
+    "regionTvd": "100100339411215",
+    "regionName": "Чувашская Республика - Чувашия",
     "uikCount": 62,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 34410,
@@ -828,6 +858,9 @@ export const president_2024_tic_227_region_21 = [
     "ballot": "presidential",
     "tikTvd": "22120001745505",
     "tikName": "Цивильская",
+    "regionCode": "21",
+    "regionTvd": "100100339411215",
+    "regionName": "Чувашская Республика - Чувашия",
     "uikCount": 49,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 18501,
@@ -917,6 +950,9 @@ export const president_2024_tic_227_region_21 = [
     "ballot": "presidential",
     "tikTvd": "22120001745506",
     "tikName": "Урмарская",
+    "regionCode": "21",
+    "regionTvd": "100100339411215",
+    "regionName": "Чувашская Республика - Чувашия",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 12077,
@@ -993,6 +1029,9 @@ export const president_2024_tic_227_region_21 = [
     "ballot": "presidential",
     "tikTvd": "22120001745507",
     "tikName": "Порецкая",
+    "regionCode": "21",
+    "regionTvd": "100100339411215",
+    "regionName": "Чувашская Республика - Чувашия",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 5988,
@@ -1051,6 +1090,9 @@ export const president_2024_tic_227_region_21 = [
     "ballot": "presidential",
     "tikTvd": "22120001745508",
     "tikName": "Новочебоксарская ",
+    "regionCode": "21",
+    "regionTvd": "100100339411215",
+    "regionName": "Чувашская Республика - Чувашия",
     "uikCount": 53,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 71533,
@@ -1144,6 +1186,9 @@ export const president_2024_tic_227_region_21 = [
     "ballot": "presidential",
     "tikTvd": "22120001745509",
     "tikName": "Моргаушская",
+    "regionCode": "21",
+    "regionTvd": "100100339411215",
+    "regionName": "Чувашская Республика - Чувашия",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 15916,
@@ -1228,6 +1273,9 @@ export const president_2024_tic_227_region_21 = [
     "ballot": "presidential",
     "tikTvd": "22120001745510",
     "tikName": "Марпосадская",
+    "regionCode": "21",
+    "regionTvd": "100100339411215",
+    "regionName": "Чувашская Республика - Чувашия",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 11700,
@@ -1303,6 +1351,9 @@ export const president_2024_tic_227_region_21 = [
     "ballot": "presidential",
     "tikTvd": "22120001745511",
     "tikName": "Красночетайская",
+    "regionCode": "21",
+    "regionTvd": "100100339411215",
+    "regionName": "Чувашская Республика - Чувашия",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 7304,
@@ -1370,6 +1421,9 @@ export const president_2024_tic_227_region_21 = [
     "ballot": "presidential",
     "tikTvd": "22120001745512",
     "tikName": "Красноармейская",
+    "regionCode": "21",
+    "regionTvd": "100100339411215",
+    "regionName": "Чувашская Республика - Чувашия",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 6756,
@@ -1429,6 +1483,9 @@ export const president_2024_tic_227_region_21 = [
     "ballot": "presidential",
     "tikTvd": "22120001745513",
     "tikName": "Комсомольская",
+    "regionCode": "21",
+    "regionTvd": "100100339411215",
+    "regionName": "Чувашская Республика - Чувашия",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 12035,
@@ -1505,6 +1562,9 @@ export const president_2024_tic_227_region_21 = [
     "ballot": "presidential",
     "tikTvd": "22120001745514",
     "tikName": "Козловская",
+    "regionCode": "21",
+    "regionTvd": "100100339411215",
+    "regionName": "Чувашская Республика - Чувашия",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9466,
@@ -1573,6 +1633,9 @@ export const president_2024_tic_227_region_21 = [
     "ballot": "presidential",
     "tikTvd": "22120001745515",
     "tikName": "Канашская городская",
+    "regionCode": "21",
+    "regionTvd": "100100339411215",
+    "regionName": "Чувашская Республика - Чувашия",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 25183,
@@ -1640,6 +1703,9 @@ export const president_2024_tic_227_region_21 = [
     "ballot": "presidential",
     "tikTvd": "22120001745516",
     "tikName": "Канашская",
+    "regionCode": "21",
+    "regionTvd": "100100339411215",
+    "regionName": "Чувашская Республика - Чувашия",
     "uikCount": 59,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 17127,
@@ -1739,6 +1805,9 @@ export const president_2024_tic_227_region_21 = [
     "ballot": "presidential",
     "tikTvd": "22120001745517",
     "tikName": "Ибресинская",
+    "regionCode": "21",
+    "regionTvd": "100100339411215",
+    "regionName": "Чувашская Республика - Чувашия",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10662,
@@ -1806,6 +1875,9 @@ export const president_2024_tic_227_region_21 = [
     "ballot": "presidential",
     "tikTvd": "22120001745518",
     "tikName": "Вурнарская",
+    "regionCode": "21",
+    "regionTvd": "100100339411215",
+    "regionName": "Чувашская Республика - Чувашия",
     "uikCount": 51,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 14121,
@@ -1897,6 +1969,9 @@ export const president_2024_tic_227_region_21 = [
     "ballot": "presidential",
     "tikTvd": "22120001745519",
     "tikName": "Батыревская",
+    "regionCode": "21",
+    "regionTvd": "100100339411215",
+    "regionName": "Чувашская Республика - Чувашия",
     "uikCount": 45,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 17188,
@@ -1982,6 +2057,9 @@ export const president_2024_tic_227_region_21 = [
     "ballot": "presidential",
     "tikTvd": "22120001745520",
     "tikName": "Аликовская",
+    "regionCode": "21",
+    "regionTvd": "100100339411215",
+    "regionName": "Чувашская Республика - Чувашия",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 7800,
@@ -2053,6 +2131,9 @@ export const president_2024_tic_227_region_21 = [
     "ballot": "presidential",
     "tikTvd": "22120001745521",
     "tikName": "Алатырская городская",
+    "regionCode": "21",
+    "regionTvd": "100100339411215",
+    "regionName": "Чувашская Республика - Чувашия",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 20377,
@@ -2116,6 +2197,9 @@ export const president_2024_tic_227_region_21 = [
     "ballot": "presidential",
     "tikTvd": "22120001745522",
     "tikName": "Алатырская",
+    "regionCode": "21",
+    "regionTvd": "100100339411215",
+    "regionName": "Чувашская Республика - Чувашия",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 7458,

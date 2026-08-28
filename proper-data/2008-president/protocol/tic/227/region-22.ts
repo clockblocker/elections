@@ -11,6 +11,9 @@ export const president_2008_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "2222000206629",
     "tikName": "Ельцовская",
+    "regionCode": "22",
+    "regionTvd": "100100022249987",
+    "regionName": "Алтайский край",
     "uikCount": 7,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 5797,
@@ -65,6 +68,9 @@ export const president_2008_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "2222000206630",
     "tikName": "Залесовская",
+    "regionCode": "22",
+    "regionTvd": "100100022249987",
+    "regionName": "Алтайский край",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 13085,
@@ -135,6 +141,9 @@ export const president_2008_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "2222000206631",
     "tikName": "Егорьевская",
+    "regionCode": "22",
+    "regionTvd": "100100022249987",
+    "regionName": "Алтайский край",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 11990,
@@ -196,6 +205,9 @@ export const president_2008_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "2222000206632",
     "tikName": "Быстроистокская",
+    "regionCode": "22",
+    "regionTvd": "100100022249987",
+    "regionName": "Алтайский край",
     "uikCount": 10,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 9018,
@@ -253,6 +265,9 @@ export const president_2008_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "2222000206633",
     "tikName": "Бурлинская",
+    "regionCode": "22",
+    "regionTvd": "100100022249987",
+    "regionName": "Алтайский край",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 10105,
@@ -319,6 +334,9 @@ export const president_2008_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "2222000206634",
     "tikName": "Волчихинская",
+    "regionCode": "22",
+    "regionTvd": "100100022249987",
+    "regionName": "Алтайский край",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 16967,
@@ -383,6 +401,9 @@ export const president_2008_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "2222000206635",
     "tikName": "Бийск, Приобская",
+    "regionCode": "22",
+    "regionTvd": "100100022249987",
+    "regionName": "Алтайский край",
     "uikCount": 47,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 91282,
@@ -477,6 +498,9 @@ export const president_2008_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "2222000206636",
     "tikName": "Благовещенская",
+    "regionCode": "22",
+    "regionTvd": "100100022249987",
+    "regionName": "Алтайский край",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 26121,
@@ -551,6 +575,9 @@ export const president_2008_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "2222000206637",
     "tikName": "Бийск, Восточная",
+    "regionCode": "22",
+    "regionTvd": "100100022249987",
+    "regionName": "Алтайский край",
     "uikCount": 53,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 91073,
@@ -651,6 +678,9 @@ export const president_2008_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "2222000206638",
     "tikName": "Бийская",
+    "regionCode": "22",
+    "regionTvd": "100100022249987",
+    "regionName": "Алтайский край",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 28570,
@@ -729,6 +759,9 @@ export const president_2008_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "2222000206639",
     "tikName": "Белокурихинская городская",
+    "regionCode": "22",
+    "regionTvd": "100100022249987",
+    "regionName": "Алтайский край",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 12986,
@@ -791,6 +824,9 @@ export const president_2008_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "2222000206640",
     "tikName": "Барнаул, Центральная",
+    "regionCode": "22",
+    "regionTvd": "100100022249987",
+    "regionName": "Алтайский край",
     "uikCount": 48,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 102129,
@@ -886,6 +922,9 @@ export const president_2008_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "2222000206641",
     "tikName": "Барнаул, Октябрьская",
+    "regionCode": "22",
+    "regionTvd": "100100022249987",
+    "regionName": "Алтайский край",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 81461,
@@ -972,6 +1011,9 @@ export const president_2008_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "2222000206642",
     "tikName": "Барнаул, Железнодорожная",
+    "regionCode": "22",
+    "regionTvd": "100100022249987",
+    "regionName": "Алтайский край",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 91679,
@@ -1062,6 +1104,9 @@ export const president_2008_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "2222000206643",
     "tikName": "Барнаул, Индустриальная",
+    "regionCode": "22",
+    "regionTvd": "100100022249987",
+    "regionName": "Алтайский край",
     "uikCount": 63,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 132548,
@@ -1172,6 +1217,9 @@ export const president_2008_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "2222000206644",
     "tikName": "Барнаул, Ленинская",
+    "regionCode": "22",
+    "regionTvd": "100100022249987",
+    "regionName": "Алтайский край",
     "uikCount": 56,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 115022,
@@ -1275,6 +1323,9 @@ export const president_2008_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "2222000206645",
     "tikName": "Алтайская",
+    "regionCode": "22",
+    "regionTvd": "100100022249987",
+    "regionName": "Алтайский край",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 20372,
@@ -1346,6 +1397,9 @@ export const president_2008_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "2222000206646",
     "tikName": "Баевская",
+    "regionCode": "22",
+    "regionTvd": "100100022249987",
+    "regionName": "Алтайский край",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 10038,
@@ -1409,6 +1463,9 @@ export const president_2008_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "2222000206647",
     "tikName": "Алейская городская",
+    "regionCode": "22",
+    "regionTvd": "100100022249987",
+    "regionName": "Алтайский край",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 24860,
@@ -1471,6 +1528,9 @@ export const president_2008_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "2222000206648",
     "tikName": "Чарышская",
+    "regionCode": "22",
+    "regionTvd": "100100022249987",
+    "regionName": "Алтайский край",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 11044,
@@ -1549,6 +1609,9 @@ export const president_2008_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "2222000206649",
     "tikName": "Усть-Пристанская",
+    "regionCode": "22",
+    "regionTvd": "100100022249987",
+    "regionName": "Алтайский край",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 12780,
@@ -1615,6 +1678,9 @@ export const president_2008_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "2222000206650",
     "tikName": "Целинная",
+    "regionCode": "22",
+    "regionTvd": "100100022249987",
+    "regionName": "Алтайский край",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 14678,
@@ -1684,6 +1750,9 @@ export const president_2008_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "2222000206651",
     "tikName": "Угловская",
+    "regionCode": "22",
+    "regionTvd": "100100022249987",
+    "regionName": "Алтайский край",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 11786,
@@ -1753,6 +1822,9 @@ export const president_2008_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "2222000206652",
     "tikName": "Тюменцевская",
+    "regionCode": "22",
+    "regionTvd": "100100022249987",
+    "regionName": "Алтайский край",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 12953,
@@ -1820,6 +1892,9 @@ export const president_2008_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "2222000206653",
     "tikName": "Троицкая",
+    "regionCode": "22",
+    "regionTvd": "100100022249987",
+    "regionName": "Алтайский край",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 22602,
@@ -1907,6 +1982,9 @@ export const president_2008_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "2222000206654",
     "tikName": "Усть-Калманская",
+    "regionCode": "22",
+    "regionTvd": "100100022249987",
+    "regionName": "Алтайский край",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 14142,
@@ -1979,6 +2057,9 @@ export const president_2008_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "2222000206655",
     "tikName": "Тогульская",
+    "regionCode": "22",
+    "regionTvd": "100100022249987",
+    "regionName": "Алтайский край",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 7462,
@@ -2041,6 +2122,9 @@ export const president_2008_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "2222000206656",
     "tikName": "Третьяковская",
+    "regionCode": "22",
+    "regionTvd": "100100022249987",
+    "regionName": "Алтайский край",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 12313,
@@ -2107,6 +2191,9 @@ export const president_2008_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "2222000206657",
     "tikName": "Топчихинская",
+    "regionCode": "22",
+    "regionTvd": "100100022249987",
+    "regionName": "Алтайский край",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 21269,
@@ -2185,6 +2272,9 @@ export const president_2008_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "2222000206658",
     "tikName": "Табунская",
+    "regionCode": "22",
+    "regionTvd": "100100022249987",
+    "regionName": "Алтайский край",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 8128,
@@ -2253,6 +2343,9 @@ export const president_2008_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "2222000206659",
     "tikName": "Тальменская",
+    "regionCode": "22",
+    "regionTvd": "100100022249987",
+    "regionName": "Алтайский край",
     "uikCount": 47,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 37556,
@@ -2347,6 +2440,9 @@ export const president_2008_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "2222000206660",
     "tikName": "Солтонская",
+    "regionCode": "22",
+    "regionTvd": "100100022249987",
+    "regionName": "Алтайский край",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 7809,
@@ -2412,6 +2508,9 @@ export const president_2008_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "2222000206661",
     "tikName": "Суетская",
+    "regionCode": "22",
+    "regionTvd": "100100022249987",
+    "regionName": "Алтайский край",
     "uikCount": 7,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 4570,
@@ -2466,6 +2565,9 @@ export const president_2008_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "2222000206662",
     "tikName": "Смоленская",
+    "regionCode": "22",
+    "regionTvd": "100100022249987",
+    "regionName": "Алтайский край",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 21119,
@@ -2538,6 +2640,9 @@ export const president_2008_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "2222000206663",
     "tikName": "Солонешенская",
+    "regionCode": "22",
+    "regionTvd": "100100022249987",
+    "regionName": "Алтайский край",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 8780,
@@ -2612,6 +2717,9 @@ export const president_2008_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "2222000206664",
     "tikName": "Советская",
+    "regionCode": "22",
+    "regionTvd": "100100022249987",
+    "regionName": "Алтайский край",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 14038,
@@ -2677,6 +2785,9 @@ export const president_2008_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "2222000206665",
     "tikName": "Рубцовская городская",
+    "regionCode": "22",
+    "regionTvd": "100100022249987",
+    "regionName": "Алтайский край",
     "uikCount": 58,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 121141,
@@ -2782,6 +2893,9 @@ export const president_2008_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "2222000206666",
     "tikName": "Славгородская",
+    "regionCode": "22",
+    "regionTvd": "100100022249987",
+    "regionName": "Алтайский край",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 8940,
@@ -2840,6 +2954,9 @@ export const president_2008_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "2222000206667",
     "tikName": "Яровская городская",
+    "regionCode": "22",
+    "regionTvd": "100100022249987",
+    "regionName": "Алтайский край",
     "uikCount": 6,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 15359,
@@ -2893,6 +3010,9 @@ export const president_2008_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "2222000206668",
     "tikName": "Ребрихинская",
+    "regionCode": "22",
+    "regionTvd": "100100022249987",
+    "regionName": "Алтайский край",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 21765,
@@ -2965,6 +3085,9 @@ export const president_2008_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "2222000206669",
     "tikName": "Романовская",
+    "regionCode": "22",
+    "regionTvd": "100100022249987",
+    "regionName": "Алтайский край",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 12136,
@@ -3027,6 +3150,9 @@ export const president_2008_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "2222000206670",
     "tikName": "Родинская",
+    "regionCode": "22",
+    "regionTvd": "100100022249987",
+    "regionName": "Алтайский край",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 18891,
@@ -3096,6 +3222,9 @@ export const president_2008_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "2222000206671",
     "tikName": "Петропавловская",
+    "regionCode": "22",
+    "regionTvd": "100100022249987",
+    "regionName": "Алтайский край",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 10875,
@@ -3154,6 +3283,9 @@ export const president_2008_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "2222000206672",
     "tikName": "Панкрушихинская",
+    "regionCode": "22",
+    "regionTvd": "100100022249987",
+    "regionName": "Алтайский край",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 11948,
@@ -3223,6 +3355,9 @@ export const president_2008_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "2222000206673",
     "tikName": "Поспелихинская",
+    "regionCode": "22",
+    "regionTvd": "100100022249987",
+    "regionName": "Алтайский край",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 21641,
@@ -3291,6 +3426,9 @@ export const president_2008_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "2222000206674",
     "tikName": "Новоалтайская городская",
+    "regionCode": "22",
+    "regionTvd": "100100022249987",
+    "regionName": "Алтайский край",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 57904,
@@ -3366,6 +3504,9 @@ export const president_2008_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "2222000206675",
     "tikName": "Павловская",
+    "regionCode": "22",
+    "regionTvd": "100100022249987",
+    "regionName": "Алтайский край",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 33571,
@@ -3451,6 +3592,9 @@ export const president_2008_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "2222000206676",
     "tikName": "Новичихинская",
+    "regionCode": "22",
+    "regionTvd": "100100022249987",
+    "regionName": "Алтайский край",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 8904,
@@ -3514,6 +3658,9 @@ export const president_2008_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "2222000206677",
     "tikName": "Немецкая",
+    "regionCode": "22",
+    "regionTvd": "100100022249987",
+    "regionName": "Алтайский край",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 13915,
@@ -3575,6 +3722,9 @@ export const president_2008_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "2222000206678",
     "tikName": "Мамонтовская",
+    "regionCode": "22",
+    "regionTvd": "100100022249987",
+    "regionName": "Алтайский край",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 20496,
@@ -3644,6 +3794,9 @@ export const president_2008_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "2222000206679",
     "tikName": "Локтевская",
+    "regionCode": "22",
+    "regionTvd": "100100022249987",
+    "regionName": "Алтайский край",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 24589,
@@ -3716,6 +3869,9 @@ export const president_2008_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "2222000206680",
     "tikName": "Михайловская",
+    "regionCode": "22",
+    "regionTvd": "100100022249987",
+    "regionName": "Алтайский край",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 18401,
@@ -3777,6 +3933,9 @@ export const president_2008_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "2222000206681",
     "tikName": "Курьинская",
+    "regionCode": "22",
+    "regionTvd": "100100022249987",
+    "regionName": "Алтайский край",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 9772,
@@ -3841,6 +4000,9 @@ export const president_2008_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "2222000206682",
     "tikName": "Кулундинская",
+    "regionCode": "22",
+    "regionTvd": "100100022249987",
+    "regionName": "Алтайский край",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 19235,
@@ -3917,6 +4079,9 @@ export const president_2008_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "2222000206683",
     "tikName": "Кытмановская",
+    "regionCode": "22",
+    "regionTvd": "100100022249987",
+    "regionName": "Алтайский край",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 12449,
@@ -3990,6 +4155,9 @@ export const president_2008_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "2222000206684",
     "tikName": "Крутихинская",
+    "regionCode": "22",
+    "regionTvd": "100100022249987",
+    "regionName": "Алтайский край",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 9615,
@@ -4054,6 +4222,9 @@ export const president_2008_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "2222000206685",
     "tikName": "Краснощековская",
+    "regionCode": "22",
+    "regionTvd": "100100022249987",
+    "regionName": "Алтайский край",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 16599,
@@ -4120,6 +4291,9 @@ export const president_2008_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "2222000206686",
     "tikName": "Красногорская",
+    "regionCode": "22",
+    "regionTvd": "100100022249987",
+    "regionName": "Алтайский край",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 13643,
@@ -4197,6 +4371,9 @@ export const president_2008_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "2222000206687",
     "tikName": "Ключевская",
+    "regionCode": "22",
+    "regionTvd": "100100022249987",
+    "regionName": "Алтайский край",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 15562,
@@ -4261,6 +4438,9 @@ export const president_2008_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "2222000206688",
     "tikName": "Каменская",
+    "regionCode": "22",
+    "regionTvd": "100100022249987",
+    "regionName": "Алтайский край",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 11411,
@@ -4335,6 +4515,9 @@ export const president_2008_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "2222000206689",
     "tikName": "Калманская",
+    "regionCode": "22",
+    "regionTvd": "100100022249987",
+    "regionName": "Алтайский край",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 12202,
@@ -4400,6 +4583,9 @@ export const president_2008_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "2222000206690",
     "tikName": "Косихинская",
+    "regionCode": "22",
+    "regionTvd": "100100022249987",
+    "regionName": "Алтайский край",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 15814,
@@ -4473,6 +4659,9 @@ export const president_2008_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "2222000206691",
     "tikName": "Змеиногорская городская",
+    "regionCode": "22",
+    "regionTvd": "100100022249987",
+    "regionName": "Алтайский край",
     "uikCount": 10,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 9722,
@@ -4530,6 +4719,9 @@ export const president_2008_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "2222000206692",
     "tikName": "Зональная",
+    "regionCode": "22",
+    "regionTvd": "100100022249987",
+    "regionName": "Алтайский край",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 15632,
@@ -4590,6 +4782,9 @@ export const president_2008_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "2222000206693",
     "tikName": "Славгородская городская",
+    "regionCode": "22",
+    "regionTvd": "100100022249987",
+    "regionName": "Алтайский край",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 24904,
@@ -4650,6 +4845,9 @@ export const president_2008_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "2222000206694",
     "tikName": "Первомайская",
+    "regionCode": "22",
+    "regionTvd": "100100022249987",
+    "regionName": "Алтайский край",
     "uikCount": 45,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 39414,
@@ -4742,6 +4940,9 @@ export const president_2008_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "2222000206695",
     "tikName": "Сибирская",
+    "regionCode": "22",
+    "regionTvd": "100100022249987",
+    "regionName": "Алтайский край",
     "uikCount": 4,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 8290,
@@ -4793,6 +4994,9 @@ export const president_2008_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "2222000206696",
     "tikName": "Рубцовская",
+    "regionCode": "22",
+    "regionTvd": "100100022249987",
+    "regionName": "Алтайский край",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 21025,
@@ -4867,6 +5071,9 @@ export const president_2008_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "2222000206697",
     "tikName": "Каменская городская",
+    "regionCode": "22",
+    "regionTvd": "100100022249987",
+    "regionName": "Алтайский край",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 33605,
@@ -4939,6 +5146,9 @@ export const president_2008_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "2222000206698",
     "tikName": "Змеиногорская",
+    "regionCode": "22",
+    "regionTvd": "100100022249987",
+    "regionName": "Алтайский край",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 8915,
@@ -5005,6 +5215,9 @@ export const president_2008_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "2222000206699",
     "tikName": "Заринская",
+    "regionCode": "22",
+    "regionTvd": "100100022249987",
+    "regionName": "Алтайский край",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 16179,
@@ -5095,6 +5308,9 @@ export const president_2008_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "2222000206700",
     "tikName": "Алейская",
+    "regionCode": "22",
+    "regionTvd": "100100022249987",
+    "regionName": "Алтайский край",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 15217,
@@ -5179,6 +5395,9 @@ export const president_2008_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "2222000206701",
     "tikName": "Шипуновская",
+    "regionCode": "22",
+    "regionTvd": "100100022249987",
+    "regionName": "Алтайский край",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 26538,
@@ -5264,6 +5483,9 @@ export const president_2008_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "2222000206702",
     "tikName": "Шелаболихинская",
+    "regionCode": "22",
+    "regionTvd": "100100022249987",
+    "regionName": "Алтайский край",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 12171,
@@ -5327,6 +5549,9 @@ export const president_2008_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "2222000206703",
     "tikName": "Хабарская",
+    "regionCode": "22",
+    "regionTvd": "100100022249987",
+    "regionName": "Алтайский край",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 14627,
@@ -5395,6 +5620,9 @@ export const president_2008_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "2222000206704",
     "tikName": "Заринская городская",
+    "regionCode": "22",
+    "regionTvd": "100100022249987",
+    "regionName": "Алтайский край",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 40713,
@@ -5460,6 +5688,9 @@ export const president_2008_tic_227_region_22 = [
     "ballot": "presidential",
     "tikTvd": "2222000206705",
     "tikName": "Завьяловская",
+    "regionCode": "22",
+    "regionTvd": "100100022249987",
+    "regionName": "Алтайский край",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 17315,

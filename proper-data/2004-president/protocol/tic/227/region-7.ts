@@ -11,6 +11,9 @@ export const president_2004_tic_227_region_7 = [
     "ballot": "presidential",
     "tikTvd": "207200082647",
     "tikName": "Прохладненская",
+    "regionCode": "7",
+    "regionTvd": "1001000883023",
+    "regionName": "Кабардино-Балкарская Республика",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в список": 31207,
@@ -92,6 +95,9 @@ export const president_2004_tic_227_region_7 = [
     "ballot": "presidential",
     "tikTvd": "207200082648",
     "tikName": "Черекская",
+    "regionCode": "7",
+    "regionTvd": "1001000883023",
+    "regionName": "Кабардино-Балкарская Республика",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в список": 17110,
@@ -157,6 +163,9 @@ export const president_2004_tic_227_region_7 = [
     "ballot": "presidential",
     "tikTvd": "207200082649",
     "tikName": "Урванская",
+    "regionCode": "7",
+    "regionTvd": "1001000883023",
+    "regionName": "Кабардино-Балкарская Республика",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список": 42503,
@@ -228,6 +237,9 @@ export const president_2004_tic_227_region_7 = [
     "ballot": "presidential",
     "tikTvd": "207200082650",
     "tikName": "Чегемская",
+    "regionCode": "7",
+    "regionTvd": "1001000883023",
+    "regionName": "Кабардино-Балкарская Республика",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список": 40581,
@@ -294,6 +306,9 @@ export const president_2004_tic_227_region_7 = [
     "ballot": "presidential",
     "tikTvd": "207200082651",
     "tikName": "Терская",
+    "regionCode": "7",
+    "regionTvd": "1001000883023",
+    "regionName": "Кабардино-Балкарская Республика",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список": 31133,
@@ -365,6 +380,9 @@ export const president_2004_tic_227_region_7 = [
     "ballot": "presidential",
     "tikTvd": "207200082652",
     "tikName": "Эльбрусская",
+    "regionCode": "7",
+    "regionTvd": "1001000883023",
+    "regionName": "Кабардино-Балкарская Республика",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список": 18990,
@@ -434,6 +452,9 @@ export const president_2004_tic_227_region_7 = [
     "ballot": "presidential",
     "tikTvd": "207200082653",
     "tikName": "Прохладненская городская",
+    "regionCode": "7",
+    "regionTvd": "1001000883023",
+    "regionName": "Кабардино-Балкарская Республика",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список": 41640,
@@ -503,6 +524,9 @@ export const president_2004_tic_227_region_7 = [
     "ballot": "presidential",
     "tikTvd": "207200082654",
     "tikName": "Майская",
+    "regionCode": "7",
+    "regionTvd": "1001000883023",
+    "regionName": "Кабардино-Балкарская Республика",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список": 25287,
@@ -573,6 +597,9 @@ export const president_2004_tic_227_region_7 = [
     "ballot": "presidential",
     "tikTvd": "207200082655",
     "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "1001000883023",
+    "regionName": "Кабардино-Балкарская Республика",
     "uikCount": 102,
     "accounting": {
       "Число избирателей, внесенных в список": 156496,
@@ -723,6 +750,9 @@ export const president_2004_tic_227_region_7 = [
     "ballot": "presidential",
     "tikTvd": "207200082656",
     "tikName": "Зольская",
+    "regionCode": "7",
+    "regionTvd": "1001000883023",
+    "regionName": "Кабардино-Балкарская Республика",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список": 30197,
@@ -796,6 +826,9 @@ export const president_2004_tic_227_region_7 = [
     "ballot": "presidential",
     "tikTvd": "207200082657",
     "tikName": "Баксанская",
+    "regionCode": "7",
+    "regionTvd": "1001000883023",
+    "regionName": "Кабардино-Балкарская Республика",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список": 38683,
@@ -869,6 +902,9 @@ export const president_2004_tic_227_region_7 = [
     "ballot": "presidential",
     "tikTvd": "207200082658",
     "tikName": "Баксанская городская",
+    "regionCode": "7",
+    "regionTvd": "1001000883023",
+    "regionName": "Кабардино-Балкарская Республика",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в список": 29985,
@@ -931,6 +967,9 @@ export const president_2004_tic_227_region_7 = [
     "ballot": "presidential",
     "tikTvd": "207200082659",
     "tikName": "Лескенская",
+    "regionCode": "7",
+    "regionTvd": "1001000883023",
+    "regionName": "Кабардино-Балкарская Республика",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, внесенных в список": 17948,

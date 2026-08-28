@@ -11,6 +11,9 @@ export const president_2008_tic_227_region_19 = [
     "ballot": "presidential",
     "tikTvd": "2192000126117",
     "tikName": "Абазинская",
+    "regionCode": "19",
+    "regionTvd": "100100022249927",
+    "regionName": "Республика Хакасия",
     "uikCount": 10,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 12975,
@@ -68,6 +71,9 @@ export const president_2008_tic_227_region_19 = [
     "ballot": "presidential",
     "tikTvd": "2192000126119",
     "tikName": "Черногорская",
+    "regionCode": "19",
+    "regionTvd": "100100022249927",
+    "regionName": "Республика Хакасия",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 50308,
@@ -154,6 +160,9 @@ export const president_2008_tic_227_region_19 = [
     "ballot": "presidential",
     "tikTvd": "2192000126120",
     "tikName": "Ширинская",
+    "regionCode": "19",
+    "regionTvd": "100100022249927",
+    "regionName": "Республика Хакасия",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 21751,
@@ -235,6 +244,9 @@ export const president_2008_tic_227_region_19 = [
     "ballot": "presidential",
     "tikTvd": "2192000126121",
     "tikName": "Таштыпская",
+    "regionCode": "19",
+    "regionTvd": "100100022249927",
+    "regionName": "Республика Хакасия",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 10113,
@@ -310,6 +322,9 @@ export const president_2008_tic_227_region_19 = [
     "ballot": "presidential",
     "tikTvd": "2192000126122",
     "tikName": "Усть-Абаканская",
+    "regionCode": "19",
+    "regionTvd": "100100022249927",
+    "regionName": "Республика Хакасия",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 29047,
@@ -390,6 +405,9 @@ export const president_2008_tic_227_region_19 = [
     "ballot": "presidential",
     "tikTvd": "2192000126123",
     "tikName": "Саяногорская",
+    "regionCode": "19",
+    "regionTvd": "100100022249927",
+    "regionName": "Республика Хакасия",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 50943,
@@ -462,6 +480,9 @@ export const president_2008_tic_227_region_19 = [
     "ballot": "presidential",
     "tikTvd": "2192000126124",
     "tikName": "Боградская",
+    "regionCode": "19",
+    "regionTvd": "100100022249927",
+    "regionName": "Республика Хакасия",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 11082,
@@ -535,6 +556,9 @@ export const president_2008_tic_227_region_19 = [
     "ballot": "presidential",
     "tikTvd": "2192000126125",
     "tikName": "Бейская",
+    "regionCode": "19",
+    "regionTvd": "100100022249927",
+    "regionName": "Республика Хакасия",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 14995,
@@ -609,6 +633,9 @@ export const president_2008_tic_227_region_19 = [
     "ballot": "presidential",
     "tikTvd": "2192000126126",
     "tikName": "Орджоникидзевская",
+    "regionCode": "19",
+    "regionTvd": "100100022249927",
+    "regionName": "Республика Хакасия",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 10121,
@@ -678,6 +705,9 @@ export const president_2008_tic_227_region_19 = [
     "ballot": "presidential",
     "tikTvd": "2192000126127",
     "tikName": "Алтайская",
+    "regionCode": "19",
+    "regionTvd": "100100022249927",
+    "regionName": "Республика Хакасия",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 16543,
@@ -749,6 +779,9 @@ export const president_2008_tic_227_region_19 = [
     "ballot": "presidential",
     "tikTvd": "2192000126128",
     "tikName": "Аскизская",
+    "regionCode": "19",
+    "regionTvd": "100100022249927",
+    "regionName": "Республика Хакасия",
     "uikCount": 48,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 29460,
@@ -844,6 +877,9 @@ export const president_2008_tic_227_region_19 = [
     "ballot": "presidential",
     "tikTvd": "2192000126129",
     "tikName": "Абаканская",
+    "regionCode": "19",
+    "regionTvd": "100100022249927",
+    "regionName": "Республика Хакасия",
     "uikCount": 74,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 124739,
@@ -965,6 +1001,9 @@ export const president_2008_tic_227_region_19 = [
     "ballot": "presidential",
     "tikTvd": "2192000127113",
     "tikName": "Сорская",
+    "regionCode": "19",
+    "regionTvd": "100100022249927",
+    "regionName": "Республика Хакасия",
     "uikCount": 5,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 7828,

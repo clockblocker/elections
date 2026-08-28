@@ -11,6 +11,9 @@ export const president_2018_tic_227_region_25 = [
     "ballot": "presidential",
     "tikTvd": "22520001321741",
     "tikName": "Спасская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 32553,
@@ -86,6 +89,9 @@ export const president_2018_tic_227_region_25 = [
     "ballot": "presidential",
     "tikTvd": "22520001321742",
     "tikName": "Артёмовская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
     "uikCount": 58,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 85729,
@@ -188,6 +194,9 @@ export const president_2018_tic_227_region_25 = [
     "ballot": "presidential",
     "tikTvd": "22520001321743",
     "tikName": "Лазовская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10485,
@@ -260,6 +269,9 @@ export const president_2018_tic_227_region_25 = [
     "ballot": "presidential",
     "tikTvd": "22520001321744",
     "tikName": "Ольгинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 7912,
@@ -321,6 +333,9 @@ export const president_2018_tic_227_region_25 = [
     "ballot": "presidential",
     "tikTvd": "22520001321745",
     "tikName": "Дальнегорская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 37041,
@@ -390,6 +405,9 @@ export const president_2018_tic_227_region_25 = [
     "ballot": "presidential",
     "tikTvd": "22520001321746",
     "tikName": "Надеждинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 31337,
@@ -463,6 +481,9 @@ export const president_2018_tic_227_region_25 = [
     "ballot": "presidential",
     "tikTvd": "22520001321747",
     "tikName": "Хасанская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 24958,
@@ -539,6 +560,9 @@ export const president_2018_tic_227_region_25 = [
     "ballot": "presidential",
     "tikTvd": "22520001321748",
     "tikName": "Большекаменская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 29159,
@@ -596,6 +620,9 @@ export const president_2018_tic_227_region_25 = [
     "ballot": "presidential",
     "tikTvd": "22520001321749",
     "tikName": "Уссурийская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
     "uikCount": 102,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 143646,
@@ -742,6 +769,9 @@ export const president_2018_tic_227_region_25 = [
     "ballot": "presidential",
     "tikTvd": "22520001321750",
     "tikName": "Партизанская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 21138,
@@ -810,6 +840,9 @@ export const president_2018_tic_227_region_25 = [
     "ballot": "presidential",
     "tikTvd": "22520001321751",
     "tikName": "Анучинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 11419,
@@ -882,6 +915,9 @@ export const president_2018_tic_227_region_25 = [
     "ballot": "presidential",
     "tikTvd": "22520001321752",
     "tikName": "Пожарская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 23172,
@@ -962,6 +998,9 @@ export const president_2018_tic_227_region_25 = [
     "ballot": "presidential",
     "tikTvd": "22520001321753",
     "tikName": "Арсеньевская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 44438,
@@ -1029,6 +1068,9 @@ export const president_2018_tic_227_region_25 = [
     "ballot": "presidential",
     "tikTvd": "22520001321754",
     "tikName": "Пограничная",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 17031,
@@ -1105,6 +1147,9 @@ export const president_2018_tic_227_region_25 = [
     "ballot": "presidential",
     "tikTvd": "22520001321755",
     "tikName": "Хорольская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 22877,
@@ -1177,6 +1222,9 @@ export const president_2018_tic_227_region_25 = [
     "ballot": "presidential",
     "tikTvd": "22520001321756",
     "tikName": "Дальнереченская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 8228,
@@ -1246,6 +1294,9 @@ export const president_2018_tic_227_region_25 = [
     "ballot": "presidential",
     "tikTvd": "22520001321757",
     "tikName": "Владивосток, Ленинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
     "uikCount": 58,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 109394,
@@ -1348,6 +1399,9 @@ export const president_2018_tic_227_region_25 = [
     "ballot": "presidential",
     "tikTvd": "22520001321758",
     "tikName": "Спасская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 20937,
@@ -1436,6 +1490,9 @@ export const president_2018_tic_227_region_25 = [
     "ballot": "presidential",
     "tikTvd": "22520001321759",
     "tikName": "Владивосток, Советская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
     "uikCount": 53,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 88954,
@@ -1533,6 +1590,9 @@ export const president_2018_tic_227_region_25 = [
     "ballot": "presidential",
     "tikTvd": "22520001321760",
     "tikName": "Кавалеровская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 20961,
@@ -1603,6 +1663,9 @@ export const president_2018_tic_227_region_25 = [
     "ballot": "presidential",
     "tikTvd": "22520001321761",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
     "uikCount": 157,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 120642,
@@ -1804,6 +1867,9 @@ export const president_2018_tic_227_region_25 = [
     "ballot": "presidential",
     "tikTvd": "22520001321762",
     "tikName": "Черниговская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 27721,
@@ -1881,6 +1947,9 @@ export const president_2018_tic_227_region_25 = [
     "ballot": "presidential",
     "tikTvd": "22520001321763",
     "tikName": "Михайловская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 26560,
@@ -1961,6 +2030,9 @@ export const president_2018_tic_227_region_25 = [
     "ballot": "presidential",
     "tikTvd": "22520001321764",
     "tikName": "Владивосток, Первореченская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 107065,
@@ -2055,6 +2127,9 @@ export const president_2018_tic_227_region_25 = [
     "ballot": "presidential",
     "tikTvd": "22520001321765",
     "tikName": "Красноармейская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 13912,
@@ -2124,6 +2199,9 @@ export const president_2018_tic_227_region_25 = [
     "ballot": "presidential",
     "tikTvd": "22520001321766",
     "tikName": "Лесозаводская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 35484,
@@ -2207,6 +2285,9 @@ export const president_2018_tic_227_region_25 = [
     "ballot": "presidential",
     "tikTvd": "22520001321767",
     "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
     "uikCount": 171,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 50351,
@@ -2422,6 +2503,9 @@ export const president_2018_tic_227_region_25 = [
     "ballot": "presidential",
     "tikTvd": "22520001321768",
     "tikName": "Кировская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 17299,
@@ -2506,6 +2590,9 @@ export const president_2018_tic_227_region_25 = [
     "ballot": "presidential",
     "tikTvd": "22520001321769",
     "tikName": "Чугуевская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 17497,
@@ -2584,6 +2671,9 @@ export const president_2018_tic_227_region_25 = [
     "ballot": "presidential",
     "tikTvd": "22520001321770",
     "tikName": "Партизанская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 37382,
@@ -2671,6 +2761,9 @@ export const president_2018_tic_227_region_25 = [
     "ballot": "presidential",
     "tikTvd": "22520001321771",
     "tikName": "Октябрьская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
     "uikCount": 49,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 21843,
@@ -2764,6 +2857,9 @@ export const president_2018_tic_227_region_25 = [
     "ballot": "presidential",
     "tikTvd": "22520001321772",
     "tikName": "Шкотовская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 18231,
@@ -2833,6 +2929,9 @@ export const president_2018_tic_227_region_25 = [
     "ballot": "presidential",
     "tikTvd": "22520001321773",
     "tikName": "Дальнереченская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 22328,
@@ -2899,6 +2998,9 @@ export const president_2018_tic_227_region_25 = [
     "ballot": "presidential",
     "tikTvd": "22520001321774",
     "tikName": "Владивосток, Первомайская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
     "uikCount": 57,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 111590,
@@ -3000,6 +3102,9 @@ export const president_2018_tic_227_region_25 = [
     "ballot": "presidential",
     "tikTvd": "22520001321775",
     "tikName": "Ханкайская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 17107,
@@ -3072,6 +3177,9 @@ export const president_2018_tic_227_region_25 = [
     "ballot": "presidential",
     "tikTvd": "22520001321776",
     "tikName": "Фокинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 21322,
@@ -3139,6 +3247,9 @@ export const president_2018_tic_227_region_25 = [
     "ballot": "presidential",
     "tikTvd": "22520001321777",
     "tikName": "Яковлевская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 11577,
@@ -3207,6 +3318,9 @@ export const president_2018_tic_227_region_25 = [
     "ballot": "presidential",
     "tikTvd": "22520001321778",
     "tikName": "Тернейская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9468,

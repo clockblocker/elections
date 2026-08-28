@@ -11,6 +11,9 @@ export const president_2018_tic_227_region_1 = [
     "ballot": "presidential",
     "tikTvd": "2012000364363",
     "tikName": "Шовгеновская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 11794,
@@ -72,6 +75,9 @@ export const president_2018_tic_227_region_1 = [
     "ballot": "presidential",
     "tikTvd": "2012000364364",
     "tikName": "Теучежская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 13560,
@@ -137,6 +143,9 @@ export const president_2018_tic_227_region_1 = [
     "ballot": "presidential",
     "tikTvd": "2012000364365",
     "tikName": "Тахтамукайская ",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 57109,
@@ -221,6 +230,9 @@ export const president_2018_tic_227_region_1 = [
     "ballot": "presidential",
     "tikTvd": "2012000364366",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
     "uikCount": 72,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 130464,
@@ -337,6 +349,9 @@ export const president_2018_tic_227_region_1 = [
     "ballot": "presidential",
     "tikTvd": "2012000364367",
     "tikName": "Майкопская ",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 45501,
@@ -422,6 +437,9 @@ export const president_2018_tic_227_region_1 = [
     "ballot": "presidential",
     "tikTvd": "2012000364368",
     "tikName": "Красногвардейская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 21655,
@@ -487,6 +505,9 @@ export const president_2018_tic_227_region_1 = [
     "ballot": "presidential",
     "tikTvd": "2012000364369",
     "tikName": "Кошехабльская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 21964,
@@ -553,6 +574,9 @@ export const president_2018_tic_227_region_1 = [
     "ballot": "presidential",
     "tikTvd": "2012000364370",
     "tikName": "Гиагинская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 23049,
@@ -621,6 +645,9 @@ export const president_2018_tic_227_region_1 = [
     "ballot": "presidential",
     "tikTvd": "2012000364371",
     "tikName": "Адыгейская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
     "uikCount": 6,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 11624,

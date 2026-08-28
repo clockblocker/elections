@@ -11,6 +11,14 @@ export const duma_2016_tic_464_region_61 = [
     "ballot": "single-member",
     "tikTvd": "26120001455432",
     "tikName": "Целинская",
+    "regionCode": "61",
+    "regionTvd": "100100067796051",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100067796052",
+      "oikName": "Ростовская область – Ростовский"
+    },
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 27683,
@@ -84,6 +92,14 @@ export const duma_2016_tic_464_region_61 = [
     "ballot": "single-member",
     "tikTvd": "26120001455433",
     "tikName": "Сальская",
+    "regionCode": "61",
+    "regionTvd": "100100067796051",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100067796052",
+      "oikName": "Ростовская область – Ростовский"
+    },
     "uikCount": 57,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 84936,
@@ -192,6 +208,14 @@ export const duma_2016_tic_464_region_61 = [
     "ballot": "single-member",
     "tikTvd": "26120001455434",
     "tikName": "Ростов-на-Дону, Пролетарская",
+    "regionCode": "61",
+    "regionTvd": "100100067796051",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100067796052",
+      "oikName": "Ростовская область – Ростовский"
+    },
     "uikCount": 50,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 88556,
@@ -293,6 +317,14 @@ export const duma_2016_tic_464_region_61 = [
     "ballot": "single-member",
     "tikTvd": "26120001455435",
     "tikName": "Ростов-на-Дону, Кировская",
+    "regionCode": "61",
+    "regionTvd": "100100067796051",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100067796052",
+      "oikName": "Ростовская область – Ростовский"
+    },
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 47360,
@@ -372,6 +404,14 @@ export const duma_2016_tic_464_region_61 = [
     "ballot": "single-member",
     "tikTvd": "26120001455436",
     "tikName": "Песчанокопская",
+    "regionCode": "61",
+    "regionTvd": "100100067796051",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100067796052",
+      "oikName": "Ростовская область – Ростовский"
+    },
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 25433,
@@ -444,6 +484,14 @@ export const duma_2016_tic_464_region_61 = [
     "ballot": "single-member",
     "tikTvd": "26120001455437",
     "tikName": "Кагальницкая",
+    "regionCode": "61",
+    "regionTvd": "100100067796051",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100067796052",
+      "oikName": "Ростовская область – Ростовский"
+    },
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 25563,
@@ -535,6 +583,14 @@ export const duma_2016_tic_464_region_61 = [
     "ballot": "single-member",
     "tikTvd": "26120001455438",
     "tikName": "Зерноградская",
+    "regionCode": "61",
+    "regionTvd": "100100067796051",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100067796052",
+      "oikName": "Ростовская область – Ростовский"
+    },
     "uikCount": 62,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 48559,
@@ -648,6 +704,14 @@ export const duma_2016_tic_464_region_61 = [
     "ballot": "single-member",
     "tikTvd": "26120001455439",
     "tikName": "Егорлыкская",
+    "regionCode": "61",
+    "regionTvd": "100100067796051",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100067796052",
+      "oikName": "Ростовская область – Ростовский"
+    },
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 27904,
@@ -723,6 +787,14 @@ export const duma_2016_tic_464_region_61 = [
     "ballot": "single-member",
     "tikTvd": "26120001455440",
     "tikName": "Веселовская",
+    "regionCode": "61",
+    "regionTvd": "100100067796051",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100067796052",
+      "oikName": "Ростовская область – Ростовский"
+    },
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 19261,
@@ -798,6 +870,14 @@ export const duma_2016_tic_464_region_61 = [
     "ballot": "single-member",
     "tikTvd": "26120001455441",
     "tikName": "Багаевская",
+    "regionCode": "61",
+    "regionTvd": "100100067796051",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100067796052",
+      "oikName": "Ростовская область – Ростовский"
+    },
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 28217,
@@ -873,6 +953,14 @@ export const duma_2016_tic_464_region_61 = [
     "ballot": "single-member",
     "tikTvd": "26120001455442",
     "tikName": "Аксайская - 149",
+    "regionCode": "61",
+    "regionTvd": "100100067796051",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100067796052",
+      "oikName": "Ростовская область – Ростовский"
+    },
     "uikCount": 12,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 12514,
@@ -936,6 +1024,14 @@ export const duma_2016_tic_464_region_61 = [
     "ballot": "single-member",
     "tikTvd": "26120001455443",
     "tikName": "Ростов-на-Дону, Советская",
+    "regionCode": "61",
+    "regionTvd": "100100067796051",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100067796053",
+      "oikName": "Ростовская область – Нижнедонской"
+    },
     "uikCount": 58,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 132877,
@@ -1044,6 +1140,14 @@ export const duma_2016_tic_464_region_61 = [
     "ballot": "single-member",
     "tikTvd": "26120001455444",
     "tikName": "Ростов-на-Дону, Ленинская",
+    "regionCode": "61",
+    "regionTvd": "100100067796051",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100067796053",
+      "oikName": "Ростовская область – Нижнедонской"
+    },
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 51423,
@@ -1119,6 +1223,14 @@ export const duma_2016_tic_464_region_61 = [
     "ballot": "single-member",
     "tikTvd": "26120001455445",
     "tikName": "Ростов-на-Дону, Железнодорожная",
+    "regionCode": "61",
+    "regionTvd": "100100067796051",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100067796053",
+      "oikName": "Ростовская область – Нижнедонской"
+    },
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 68129,
@@ -1204,6 +1316,14 @@ export const duma_2016_tic_464_region_61 = [
     "ballot": "single-member",
     "tikTvd": "26120001455446",
     "tikName": "Мясниковская - 150",
+    "regionCode": "61",
+    "regionTvd": "100100067796051",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100067796053",
+      "oikName": "Ростовская область – Нижнедонской"
+    },
     "uikCount": 6,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 6914,
@@ -1260,6 +1380,14 @@ export const duma_2016_tic_464_region_61 = [
     "ballot": "single-member",
     "tikTvd": "26120001455447",
     "tikName": "Батайская городская",
+    "regionCode": "61",
+    "regionTvd": "100100067796051",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100067796053",
+      "oikName": "Ростовская область – Нижнедонской"
+    },
     "uikCount": 52,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 91668,
@@ -1362,6 +1490,14 @@ export const duma_2016_tic_464_region_61 = [
     "ballot": "single-member",
     "tikTvd": "26120001455448",
     "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100067796051",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100067796053",
+      "oikName": "Ростовская область – Нижнедонской"
+    },
     "uikCount": 81,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 72619,
@@ -1493,6 +1629,14 @@ export const duma_2016_tic_464_region_61 = [
     "ballot": "single-member",
     "tikTvd": "26120001455449",
     "tikName": "Азовская городская",
+    "regionCode": "61",
+    "regionTvd": "100100067796051",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100067796053",
+      "oikName": "Ростовская область – Нижнедонской"
+    },
     "uikCount": 45,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 62538,
@@ -1588,6 +1732,14 @@ export const duma_2016_tic_464_region_61 = [
     "ballot": "single-member",
     "tikTvd": "26120001455455",
     "tikName": "Таганрогская городская",
+    "regionCode": "61",
+    "regionTvd": "100100067796051",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100067796054",
+      "oikName": "Ростовская область – Таганрогский"
+    },
     "uikCount": 127,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 222378,
@@ -1767,6 +1919,14 @@ export const duma_2016_tic_464_region_61 = [
     "ballot": "single-member",
     "tikTvd": "26120001455456",
     "tikName": "Ростов-на-Дону, Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100067796051",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100067796054",
+      "oikName": "Ростовская область – Таганрогский"
+    },
     "uikCount": 54,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 109911,
@@ -1873,6 +2033,14 @@ export const duma_2016_tic_464_region_61 = [
     "ballot": "single-member",
     "tikTvd": "26120001455457",
     "tikName": "Неклиновская",
+    "regionCode": "61",
+    "regionTvd": "100100067796051",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100067796054",
+      "oikName": "Ростовская область – Таганрогский"
+    },
     "uikCount": 87,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 69008,
@@ -2012,6 +2180,14 @@ export const duma_2016_tic_464_region_61 = [
     "ballot": "single-member",
     "tikTvd": "26120001455458",
     "tikName": "Мясниковская - 151",
+    "regionCode": "61",
+    "regionTvd": "100100067796051",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100067796054",
+      "oikName": "Ростовская область – Таганрогский"
+    },
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 29582,
@@ -2083,6 +2259,14 @@ export const duma_2016_tic_464_region_61 = [
     "ballot": "single-member",
     "tikTvd": "26120001455459",
     "tikName": "Матвеево-Курганская",
+    "regionCode": "61",
+    "regionTvd": "100100067796051",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100067796054",
+      "oikName": "Ростовская область – Таганрогский"
+    },
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 33473,
@@ -2170,6 +2354,14 @@ export const duma_2016_tic_464_region_61 = [
     "ballot": "single-member",
     "tikTvd": "26120001455460",
     "tikName": "Куйбышевская",
+    "regionCode": "61",
+    "regionTvd": "100100067796051",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100067796054",
+      "oikName": "Ростовская область – Таганрогский"
+    },
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 11079,
@@ -2245,6 +2437,14 @@ export const duma_2016_tic_464_region_61 = [
     "ballot": "single-member",
     "tikTvd": "26120001455461",
     "tikName": "Ростов-на-Дону, Первомайская",
+    "regionCode": "61",
+    "regionTvd": "100100067796051",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 152,
+      "oikTvd": "100100067796055",
+      "oikName": "Ростовская область – Южный"
+    },
     "uikCount": 56,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 133306,
@@ -2354,6 +2554,14 @@ export const duma_2016_tic_464_region_61 = [
     "ballot": "single-member",
     "tikTvd": "26120001455462",
     "tikName": "Ростов-на-Дону, Ворошиловская",
+    "regionCode": "61",
+    "regionTvd": "100100067796051",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 152,
+      "oikTvd": "100100067796055",
+      "oikName": "Ростовская область – Южный"
+    },
     "uikCount": 60,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 146727,
@@ -2467,6 +2675,14 @@ export const duma_2016_tic_464_region_61 = [
     "ballot": "single-member",
     "tikTvd": "26120001455463",
     "tikName": "Новочеркасская городская",
+    "regionCode": "61",
+    "regionTvd": "100100067796051",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 152,
+      "oikTvd": "100100067796055",
+      "oikName": "Ростовская область – Южный"
+    },
     "uikCount": 69,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 129279,
@@ -2589,6 +2805,14 @@ export const duma_2016_tic_464_region_61 = [
     "ballot": "single-member",
     "tikTvd": "26120001455464",
     "tikName": "Аксайская - 152",
+    "regionCode": "61",
+    "regionTvd": "100100067796051",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 152,
+      "oikTvd": "100100067796055",
+      "oikName": "Ростовская область – Южный"
+    },
     "uikCount": 57,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 68779,
@@ -2699,6 +2923,14 @@ export const duma_2016_tic_464_region_61 = [
     "ballot": "single-member",
     "tikTvd": "26120001455465",
     "tikName": "Шолоховская",
+    "regionCode": "61",
+    "regionTvd": "100100067796051",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100067796056",
+      "oikName": "Ростовская область – Белокалитвинский"
+    },
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 20731,
@@ -2786,6 +3018,14 @@ export const duma_2016_tic_464_region_61 = [
     "ballot": "single-member",
     "tikTvd": "26120001455466",
     "tikName": "Чертковская",
+    "regionCode": "61",
+    "regionTvd": "100100067796051",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100067796056",
+      "oikName": "Ростовская область – Белокалитвинский"
+    },
     "uikCount": 42,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 27415,
@@ -2878,6 +3118,14 @@ export const duma_2016_tic_464_region_61 = [
     "ballot": "single-member",
     "tikTvd": "26120001455467",
     "tikName": "Тацинская",
+    "regionCode": "61",
+    "regionTvd": "100100067796051",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100067796056",
+      "oikName": "Ростовская область – Белокалитвинский"
+    },
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 28855,
@@ -2961,6 +3209,14 @@ export const duma_2016_tic_464_region_61 = [
     "ballot": "single-member",
     "tikTvd": "26120001455468",
     "tikName": "Тарасовская",
+    "regionCode": "61",
+    "regionTvd": "100100067796051",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100067796056",
+      "oikName": "Ростовская область – Белокалитвинский"
+    },
     "uikCount": 45,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 22602,
@@ -3056,6 +3312,14 @@ export const duma_2016_tic_464_region_61 = [
     "ballot": "single-member",
     "tikTvd": "26120001455469",
     "tikName": "Советская",
+    "regionCode": "61",
+    "regionTvd": "100100067796051",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100067796056",
+      "oikName": "Ростовская область – Белокалитвинский"
+    },
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 5034,
@@ -3119,6 +3383,14 @@ export const duma_2016_tic_464_region_61 = [
     "ballot": "single-member",
     "tikTvd": "26120001455470",
     "tikName": "Обливская",
+    "regionCode": "61",
+    "regionTvd": "100100067796051",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100067796056",
+      "oikName": "Ростовская область – Белокалитвинский"
+    },
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 13975,
@@ -3192,6 +3464,14 @@ export const duma_2016_tic_464_region_61 = [
     "ballot": "single-member",
     "tikTvd": "26120001455471",
     "tikName": "Милютинская",
+    "regionCode": "61",
+    "regionTvd": "100100067796051",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100067796056",
+      "oikName": "Ростовская область – Белокалитвинский"
+    },
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 12142,
@@ -3270,6 +3550,14 @@ export const duma_2016_tic_464_region_61 = [
     "ballot": "single-member",
     "tikTvd": "26120001455472",
     "tikName": "Миллеровская",
+    "regionCode": "61",
+    "regionTvd": "100100067796051",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100067796056",
+      "oikName": "Ростовская область – Белокалитвинский"
+    },
     "uikCount": 58,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 54109,
@@ -3378,6 +3666,14 @@ export const duma_2016_tic_464_region_61 = [
     "ballot": "single-member",
     "tikTvd": "26120001455473",
     "tikName": "Кашарская",
+    "regionCode": "61",
+    "regionTvd": "100100067796051",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100067796056",
+      "oikName": "Ростовская область – Белокалитвинский"
+    },
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 18649,
@@ -3465,6 +3761,14 @@ export const duma_2016_tic_464_region_61 = [
     "ballot": "single-member",
     "tikTvd": "26120001455474",
     "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100067796051",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100067796056",
+      "oikName": "Ростовская область – Белокалитвинский"
+    },
     "uikCount": 48,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 38096,
@@ -3563,6 +3867,14 @@ export const duma_2016_tic_464_region_61 = [
     "ballot": "single-member",
     "tikTvd": "26120001455475",
     "tikName": "Каменск-Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100067796051",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100067796056",
+      "oikName": "Ростовская область – Белокалитвинский"
+    },
     "uikCount": 45,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 70807,
@@ -3658,6 +3970,14 @@ export const duma_2016_tic_464_region_61 = [
     "ballot": "single-member",
     "tikTvd": "26120001455476",
     "tikName": "Донецкая городская",
+    "regionCode": "61",
+    "regionTvd": "100100067796051",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100067796056",
+      "oikName": "Ростовская область – Белокалитвинский"
+    },
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 37115,
@@ -3733,6 +4053,14 @@ export const duma_2016_tic_464_region_61 = [
     "ballot": "single-member",
     "tikTvd": "26120001455477",
     "tikName": "Верхнедонская",
+    "regionCode": "61",
+    "regionTvd": "100100067796051",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100067796056",
+      "oikName": "Ростовская область – Белокалитвинский"
+    },
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 16151,
@@ -3821,6 +4149,14 @@ export const duma_2016_tic_464_region_61 = [
     "ballot": "single-member",
     "tikTvd": "26120001455478",
     "tikName": "Боковская",
+    "regionCode": "61",
+    "regionTvd": "100100067796051",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100067796056",
+      "oikName": "Ростовская область – Белокалитвинский"
+    },
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 11707,
@@ -3897,6 +4233,14 @@ export const duma_2016_tic_464_region_61 = [
     "ballot": "single-member",
     "tikTvd": "26120001455479",
     "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100067796051",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100067796056",
+      "oikName": "Ростовская область – Белокалитвинский"
+    },
     "uikCount": 74,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 85498,
@@ -4021,6 +4365,14 @@ export const duma_2016_tic_464_region_61 = [
     "ballot": "single-member",
     "tikTvd": "26120001455480",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100067796051",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100067796057",
+      "oikName": "Ростовская область – Шахтинский"
+    },
     "uikCount": 105,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 173724,
@@ -4177,6 +4529,14 @@ export const duma_2016_tic_464_region_61 = [
     "ballot": "single-member",
     "tikTvd": "26120001455481",
     "tikName": "Родионово-Несветайская",
+    "regionCode": "61",
+    "regionTvd": "100100067796051",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100067796057",
+      "oikName": "Ростовская область – Шахтинский"
+    },
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 18004,
@@ -4252,6 +4612,14 @@ export const duma_2016_tic_464_region_61 = [
     "ballot": "single-member",
     "tikTvd": "26120001455482",
     "tikName": "Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100067796051",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100067796057",
+      "oikName": "Ростовская область – Шахтинский"
+    },
     "uikCount": 51,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 55022,
@@ -4354,6 +4722,14 @@ export const duma_2016_tic_464_region_61 = [
     "ballot": "single-member",
     "tikTvd": "26120001455483",
     "tikName": "Новошахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100067796051",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100067796057",
+      "oikName": "Ростовская область – Шахтинский"
+    },
     "uikCount": 57,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 76188,
@@ -4462,6 +4838,14 @@ export const duma_2016_tic_464_region_61 = [
     "ballot": "single-member",
     "tikTvd": "26120001455484",
     "tikName": "Красносулинская",
+    "regionCode": "61",
+    "regionTvd": "100100067796051",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100067796057",
+      "oikName": "Ростовская область – Шахтинский"
+    },
     "uikCount": 66,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 60135,
@@ -4579,6 +4963,14 @@ export const duma_2016_tic_464_region_61 = [
     "ballot": "single-member",
     "tikTvd": "26120001455485",
     "tikName": "Зверевская городская",
+    "regionCode": "61",
+    "regionTvd": "100100067796051",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100067796057",
+      "oikName": "Ростовская область – Шахтинский"
+    },
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 18762,
@@ -4645,6 +5037,14 @@ export const duma_2016_tic_464_region_61 = [
     "ballot": "single-member",
     "tikTvd": "26120001455486",
     "tikName": "Гуковская городская",
+    "regionCode": "61",
+    "regionTvd": "100100067796051",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100067796057",
+      "oikName": "Ростовская область – Шахтинский"
+    },
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 51992,
@@ -4733,6 +5133,14 @@ export const duma_2016_tic_464_region_61 = [
     "ballot": "single-member",
     "tikTvd": "26120001455487",
     "tikName": "Цимлянская",
+    "regionCode": "61",
+    "regionTvd": "100100067796051",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100067796058",
+      "oikName": "Ростовская область – Волгодонской"
+    },
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 28783,
@@ -4814,6 +5222,14 @@ export const duma_2016_tic_464_region_61 = [
     "ballot": "single-member",
     "tikTvd": "26120001455488",
     "tikName": "Усть-Донецкая",
+    "regionCode": "61",
+    "regionTvd": "100100067796051",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100067796058",
+      "oikName": "Ростовская область – Волгодонской"
+    },
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 23489,
@@ -4895,6 +5311,14 @@ export const duma_2016_tic_464_region_61 = [
     "ballot": "single-member",
     "tikTvd": "26120001455489",
     "tikName": "Семикаракорская",
+    "regionCode": "61",
+    "regionTvd": "100100067796051",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100067796058",
+      "oikName": "Ростовская область – Волгодонской"
+    },
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 42930,
@@ -4984,6 +5408,14 @@ export const duma_2016_tic_464_region_61 = [
     "ballot": "single-member",
     "tikTvd": "26120001455490",
     "tikName": "Ремонтненская",
+    "regionCode": "61",
+    "regionTvd": "100100067796051",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100067796058",
+      "oikName": "Ростовская область – Волгодонской"
+    },
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 13464,
@@ -5051,6 +5483,14 @@ export const duma_2016_tic_464_region_61 = [
     "ballot": "single-member",
     "tikTvd": "26120001455491",
     "tikName": "Пролетарская",
+    "regionCode": "61",
+    "regionTvd": "100100067796051",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100067796058",
+      "oikName": "Ростовская область – Волгодонской"
+    },
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 25740,
@@ -5123,6 +5563,14 @@ export const duma_2016_tic_464_region_61 = [
     "ballot": "single-member",
     "tikTvd": "26120001455492",
     "tikName": "Орловская",
+    "regionCode": "61",
+    "regionTvd": "100100067796051",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100067796058",
+      "oikName": "Ростовская область – Волгодонской"
+    },
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 28935,
@@ -5213,6 +5661,14 @@ export const duma_2016_tic_464_region_61 = [
     "ballot": "single-member",
     "tikTvd": "26120001455493",
     "tikName": "Морозовская",
+    "regionCode": "61",
+    "regionTvd": "100100067796051",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100067796058",
+      "oikName": "Ростовская область – Волгодонской"
+    },
     "uikCount": 41,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 34627,
@@ -5304,6 +5760,14 @@ export const duma_2016_tic_464_region_61 = [
     "ballot": "single-member",
     "tikTvd": "26120001455494",
     "tikName": "Мартыновская",
+    "regionCode": "61",
+    "regionTvd": "100100067796051",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100067796058",
+      "oikName": "Ростовская область – Волгодонской"
+    },
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 29136,
@@ -5394,6 +5858,14 @@ export const duma_2016_tic_464_region_61 = [
     "ballot": "single-member",
     "tikTvd": "26120001455495",
     "tikName": "Константиновская",
+    "regionCode": "61",
+    "regionTvd": "100100067796051",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100067796058",
+      "oikName": "Ростовская область – Волгодонской"
+    },
     "uikCount": 46,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 25722,
@@ -5490,6 +5962,14 @@ export const duma_2016_tic_464_region_61 = [
     "ballot": "single-member",
     "tikTvd": "26120001455496",
     "tikName": "Зимовниковская",
+    "regionCode": "61",
+    "regionTvd": "100100067796051",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100067796058",
+      "oikName": "Ростовская область – Волгодонской"
+    },
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 25811,
@@ -5569,6 +6049,14 @@ export const duma_2016_tic_464_region_61 = [
     "ballot": "single-member",
     "tikTvd": "26120001455497",
     "tikName": "Заветинская",
+    "regionCode": "61",
+    "regionTvd": "100100067796051",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100067796058",
+      "oikName": "Ростовская область – Волгодонской"
+    },
     "uikCount": 11,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 10693,
@@ -5630,6 +6118,14 @@ export const duma_2016_tic_464_region_61 = [
     "ballot": "single-member",
     "tikTvd": "26120001455498",
     "tikName": "Дубовская",
+    "regionCode": "61",
+    "regionTvd": "100100067796051",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100067796058",
+      "oikName": "Ростовская область – Волгодонской"
+    },
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 16253,
@@ -5701,6 +6197,14 @@ export const duma_2016_tic_464_region_61 = [
     "ballot": "single-member",
     "tikTvd": "26120001455499",
     "tikName": "Волгодонская",
+    "regionCode": "61",
+    "regionTvd": "100100067796051",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100067796058",
+      "oikName": "Ростовская область – Волгодонской"
+    },
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 24110,
@@ -5782,6 +6286,14 @@ export const duma_2016_tic_464_region_61 = [
     "ballot": "single-member",
     "tikTvd": "26120001455500",
     "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100067796051",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100067796058",
+      "oikName": "Ростовская область – Волгодонской"
+    },
     "uikCount": 53,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 127988,

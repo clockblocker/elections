@@ -11,6 +11,9 @@ export const president_2018_tic_227_region_10 = [
     "ballot": "presidential",
     "tikTvd": "2102000670314",
     "tikName": "Калевальская",
+    "regionCode": "10",
+    "regionTvd": "100100084849136",
+    "regionName": "Республика Карелия",
     "uikCount": 8,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 6525,
@@ -63,6 +66,9 @@ export const president_2018_tic_227_region_10 = [
     "ballot": "presidential",
     "tikTvd": "2102000670315",
     "tikName": "Суоярвская",
+    "regionCode": "10",
+    "regionTvd": "100100084849136",
+    "regionName": "Республика Карелия",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 14768,
@@ -127,6 +133,9 @@ export const president_2018_tic_227_region_10 = [
     "ballot": "presidential",
     "tikTvd": "2102000670316",
     "tikName": "Сортавальская городская",
+    "regionCode": "10",
+    "regionTvd": "100100084849136",
+    "regionName": "Республика Карелия",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 25115,
@@ -192,6 +201,9 @@ export const president_2018_tic_227_region_10 = [
     "ballot": "presidential",
     "tikTvd": "2102000670317",
     "tikName": "Сегежская",
+    "regionCode": "10",
+    "regionTvd": "100100084849136",
+    "regionName": "Республика Карелия",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 30890,
@@ -266,6 +278,9 @@ export const president_2018_tic_227_region_10 = [
     "ballot": "presidential",
     "tikTvd": "2102000670318",
     "tikName": "Пудожская",
+    "regionCode": "10",
+    "regionTvd": "100100084849136",
+    "regionName": "Республика Карелия",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 17970,
@@ -338,6 +353,9 @@ export const president_2018_tic_227_region_10 = [
     "ballot": "presidential",
     "tikTvd": "2102000670319",
     "tikName": "Пряжинская",
+    "regionCode": "10",
+    "regionTvd": "100100084849136",
+    "regionName": "Республика Карелия",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 12625,
@@ -403,6 +421,9 @@ export const president_2018_tic_227_region_10 = [
     "ballot": "presidential",
     "tikTvd": "2102000670320",
     "tikName": "Прионежская",
+    "regionCode": "10",
+    "regionTvd": "100100084849136",
+    "regionName": "Республика Карелия",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 20018,
@@ -466,6 +487,9 @@ export const president_2018_tic_227_region_10 = [
     "ballot": "presidential",
     "tikTvd": "2102000670321",
     "tikName": "Питкярантская",
+    "regionCode": "10",
+    "regionTvd": "100100084849136",
+    "regionName": "Республика Карелия",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 17164,
@@ -524,6 +548,9 @@ export const president_2018_tic_227_region_10 = [
     "ballot": "presidential",
     "tikTvd": "2102000670322",
     "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100084849136",
+    "regionName": "Республика Карелия",
     "uikCount": 66,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 99388,
@@ -634,6 +661,9 @@ export const president_2018_tic_227_region_10 = [
     "ballot": "presidential",
     "tikTvd": "2102000670323",
     "tikName": "Петрозаводская городская №1",
+    "regionCode": "10",
+    "regionTvd": "100100084849136",
+    "regionName": "Республика Карелия",
     "uikCount": 61,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 110700,
@@ -739,6 +769,9 @@ export const president_2018_tic_227_region_10 = [
     "ballot": "presidential",
     "tikTvd": "2102000670324",
     "tikName": "Олонецкая",
+    "regionCode": "10",
+    "regionTvd": "100100084849136",
+    "regionName": "Республика Карелия",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 19312,
@@ -806,6 +839,9 @@ export const president_2018_tic_227_region_10 = [
     "ballot": "presidential",
     "tikTvd": "2102000670325",
     "tikName": "Муезерская",
+    "regionCode": "10",
+    "regionTvd": "100100084849136",
+    "regionName": "Республика Карелия",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10376,
@@ -865,6 +901,9 @@ export const president_2018_tic_227_region_10 = [
     "ballot": "presidential",
     "tikTvd": "2102000670326",
     "tikName": "Медвежьегорская",
+    "regionCode": "10",
+    "regionTvd": "100100084849136",
+    "regionName": "Республика Карелия",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 25843,
@@ -937,6 +976,9 @@ export const president_2018_tic_227_region_10 = [
     "ballot": "presidential",
     "tikTvd": "2102000670327",
     "tikName": "Лоухская",
+    "regionCode": "10",
+    "regionTvd": "100100084849136",
+    "regionName": "Республика Карелия",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 12227,
@@ -995,6 +1037,9 @@ export const president_2018_tic_227_region_10 = [
     "ballot": "presidential",
     "tikTvd": "2102000670328",
     "tikName": "Лахденпохская",
+    "regionCode": "10",
+    "regionTvd": "100100084849136",
+    "regionName": "Республика Карелия",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 11659,
@@ -1063,6 +1108,9 @@ export const president_2018_tic_227_region_10 = [
     "ballot": "presidential",
     "tikTvd": "2102000670329",
     "tikName": "Костомукшская городская",
+    "regionCode": "10",
+    "regionTvd": "100100084849136",
+    "regionName": "Республика Карелия",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 23331,
@@ -1119,6 +1167,9 @@ export const president_2018_tic_227_region_10 = [
     "ballot": "presidential",
     "tikTvd": "2102000670330",
     "tikName": "Кондопожская",
+    "regionCode": "10",
+    "regionTvd": "100100084849136",
+    "regionName": "Республика Карелия",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 32543,
@@ -1193,6 +1244,9 @@ export const president_2018_tic_227_region_10 = [
     "ballot": "presidential",
     "tikTvd": "2102000670331",
     "tikName": "Кемская",
+    "regionCode": "10",
+    "regionTvd": "100100084849136",
+    "regionName": "Республика Карелия",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 13722,
@@ -1252,6 +1306,9 @@ export const president_2018_tic_227_region_10 = [
     "ballot": "presidential",
     "tikTvd": "2102000670332",
     "tikName": "Беломорская",
+    "regionCode": "10",
+    "regionTvd": "100100084849136",
+    "regionName": "Республика Карелия",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 15491,

@@ -11,6 +11,14 @@ export const duma_2016_tic_464_region_6 = [
     "ballot": "single-member",
     "tikTvd": "2062000275391",
     "tikName": "Назрановская городская",
+    "regionCode": "6",
+    "regionTvd": "100100067795872",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100067795873",
+      "oikName": "Республика Ингушетия – Ингушский"
+    },
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 44684,
@@ -81,6 +89,14 @@ export const duma_2016_tic_464_region_6 = [
     "ballot": "single-member",
     "tikTvd": "2062000275392",
     "tikName": "Малгобекская городская",
+    "regionCode": "6",
+    "regionTvd": "100100067795872",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100067795873",
+      "oikName": "Республика Ингушетия – Ингушский"
+    },
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 24446,
@@ -153,6 +169,14 @@ export const duma_2016_tic_464_region_6 = [
     "ballot": "single-member",
     "tikTvd": "2062000275393",
     "tikName": "Малгобекская",
+    "regionCode": "6",
+    "regionTvd": "100100067795872",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100067795873",
+      "oikName": "Республика Ингушетия – Ингушский"
+    },
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 32425,
@@ -227,6 +251,14 @@ export const duma_2016_tic_464_region_6 = [
     "ballot": "single-member",
     "tikTvd": "2062000275394",
     "tikName": "Джейрахская",
+    "regionCode": "6",
+    "regionTvd": "100100067795872",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100067795873",
+      "oikName": "Республика Ингушетия – Ингушский"
+    },
     "uikCount": 6,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2879,
@@ -284,6 +316,14 @@ export const duma_2016_tic_464_region_6 = [
     "ballot": "single-member",
     "tikTvd": "2062000275395",
     "tikName": "Карабулакская городская",
+    "regionCode": "6",
+    "regionTvd": "100100067795872",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100067795873",
+      "oikName": "Республика Ингушетия – Ингушский"
+    },
     "uikCount": 8,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 15251,
@@ -343,6 +383,14 @@ export const duma_2016_tic_464_region_6 = [
     "ballot": "single-member",
     "tikTvd": "2062000275396",
     "tikName": "Сунженская",
+    "regionCode": "6",
+    "regionTvd": "100100067795872",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100067795873",
+      "oikName": "Республика Ингушетия – Ингушский"
+    },
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 42143,
@@ -420,6 +468,14 @@ export const duma_2016_tic_464_region_6 = [
     "ballot": "single-member",
     "tikTvd": "2062000275397",
     "tikName": "Магасская городская",
+    "regionCode": "6",
+    "regionTvd": "100100067795872",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100067795873",
+      "oikName": "Республика Ингушетия – Ингушский"
+    },
     "uikCount": 4,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 3652,
@@ -475,6 +531,14 @@ export const duma_2016_tic_464_region_6 = [
     "ballot": "single-member",
     "tikTvd": "2062000275398",
     "tikName": "Назрановская",
+    "regionCode": "6",
+    "regionTvd": "100100067795872",
+    "regionName": "Республика Ингушетия",
+    "district": {
+      "districtNumber": 13,
+      "oikTvd": "100100067795873",
+      "oikName": "Республика Ингушетия – Ингушский"
+    },
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 53690,

@@ -11,6 +11,9 @@ export const president_2024_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620003065673",
     "tikName": "Красноуфимская городская",
+    "regionCode": "66",
+    "regionTvd": "100100339411258",
+    "regionName": "Свердловская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 27121,
@@ -74,6 +77,9 @@ export const president_2024_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620003065674",
     "tikName": "Кировградская городская",
+    "regionCode": "66",
+    "regionTvd": "100100339411258",
+    "regionName": "Свердловская область",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 19321,
@@ -127,6 +133,9 @@ export const president_2024_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620003065675",
     "tikName": "Нижний Тагил, Ленинская",
+    "regionCode": "66",
+    "regionTvd": "100100339411258",
+    "regionName": "Свердловская область",
     "uikCount": 53,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 74413,
@@ -220,6 +229,9 @@ export const president_2024_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620003065676",
     "tikName": "Слободо-Туринская",
+    "regionCode": "66",
+    "regionTvd": "100100339411258",
+    "regionName": "Свердловская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9566,
@@ -282,6 +294,9 @@ export const president_2024_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620003065677",
     "tikName": "Екатеринбург, Октябрьская",
+    "regionCode": "66",
+    "regionTvd": "100100339411258",
+    "regionName": "Свердловская область",
     "uikCount": 57,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 102600,
@@ -379,6 +394,9 @@ export const president_2024_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620003065678",
     "tikName": "Невьянская",
+    "regionCode": "66",
+    "regionTvd": "100100339411258",
+    "regionName": "Свердловская область",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 28998,
@@ -452,6 +470,9 @@ export const president_2024_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620003065679",
     "tikName": "Тавдинская",
+    "regionCode": "66",
+    "regionTvd": "100100339411258",
+    "regionName": "Свердловская область",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 23773,
@@ -524,6 +545,9 @@ export const president_2024_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620003065680",
     "tikName": "Пелымская поселковая",
+    "regionCode": "66",
+    "regionTvd": "100100339411258",
+    "regionName": "Свердловская область",
     "uikCount": 4,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 1844,
@@ -568,6 +592,9 @@ export const president_2024_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620003065681",
     "tikName": "Екатеринбург, Железнодорожная",
+    "regionCode": "66",
+    "regionTvd": "100100339411258",
+    "regionName": "Свердловская область",
     "uikCount": 70,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 102838,
@@ -678,6 +705,9 @@ export const president_2024_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620003065682",
     "tikName": "Екатеринбург, Верх-Исетская",
+    "regionCode": "66",
+    "regionTvd": "100100339411258",
+    "regionName": "Свердловская область",
     "uikCount": 75,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 129164,
@@ -793,6 +823,9 @@ export const president_2024_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620003065683",
     "tikName": "Пышминская ",
+    "regionCode": "66",
+    "regionTvd": "100100339411258",
+    "regionName": "Свердловская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 13616,
@@ -856,6 +889,9 @@ export const president_2024_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620003065684",
     "tikName": "Нижний Тагил, Тагилстроевская",
+    "regionCode": "66",
+    "regionTvd": "100100339411258",
+    "regionName": "Свердловская область",
     "uikCount": 56,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 86330,
@@ -952,6 +988,9 @@ export const president_2024_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620003065685",
     "tikName": "Заречная городская",
+    "regionCode": "66",
+    "regionTvd": "100100339411258",
+    "regionName": "Свердловская область",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 23236,
@@ -1006,6 +1045,9 @@ export const president_2024_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620003065686",
     "tikName": "Краснотурьинская городская",
+    "regionCode": "66",
+    "regionTvd": "100100339411258",
+    "regionName": "Свердловская область",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 38166,
@@ -1088,6 +1130,9 @@ export const president_2024_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620003065687",
     "tikName": "Артинская",
+    "regionCode": "66",
+    "regionTvd": "100100339411258",
+    "regionName": "Свердловская область",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 20163,
@@ -1169,6 +1214,9 @@ export const president_2024_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620003065688",
     "tikName": "Каменск-Уральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100339411258",
+    "regionName": "Свердловская область",
     "uikCount": 70,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 120250,
@@ -1279,6 +1327,9 @@ export const president_2024_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620003065689",
     "tikName": "Байкаловская",
+    "regionCode": "66",
+    "regionTvd": "100100339411258",
+    "regionName": "Свердловская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10878,
@@ -1339,6 +1390,9 @@ export const president_2024_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620003065690",
     "tikName": "Ивдельская городская",
+    "regionCode": "66",
+    "regionTvd": "100100339411258",
+    "regionName": "Свердловская область",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 11374,
@@ -1393,6 +1447,9 @@ export const president_2024_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620003065691",
     "tikName": "Серовская",
+    "regionCode": "66",
+    "regionTvd": "100100339411258",
+    "regionName": "Свердловская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 7771,
@@ -1451,6 +1508,9 @@ export const president_2024_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620003065692",
     "tikName": "Уральская поселковая",
+    "regionCode": "66",
+    "regionTvd": "100100339411258",
+    "regionName": "Свердловская область",
     "uikCount": 1,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 1458,
@@ -1492,6 +1552,9 @@ export const president_2024_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620003065693",
     "tikName": "Верхнесалдинская",
+    "regionCode": "66",
+    "regionTvd": "100100339411258",
+    "regionName": "Свердловская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 31439,
@@ -1561,6 +1624,9 @@ export const president_2024_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620003065694",
     "tikName": "Верхнедубровская поселковая",
+    "regionCode": "66",
+    "regionTvd": "100100339411258",
+    "regionName": "Свердловская область",
     "uikCount": 2,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 4148,
@@ -1603,6 +1669,9 @@ export const president_2024_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620003065695",
     "tikName": "Ирбитская городская",
+    "regionCode": "66",
+    "regionTvd": "100100339411258",
+    "regionName": "Свердловская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 26795,
@@ -1663,6 +1732,9 @@ export const president_2024_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620003065696",
     "tikName": "Волчанская городская",
+    "regionCode": "66",
+    "regionTvd": "100100339411258",
+    "regionName": "Свердловская область",
     "uikCount": 5,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 6548,
@@ -1708,6 +1780,9 @@ export const president_2024_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620003065697",
     "tikName": "Карпинская городская",
+    "regionCode": "66",
+    "regionTvd": "100100339411258",
+    "regionName": "Свердловская область",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 20115,
@@ -1765,6 +1840,9 @@ export const president_2024_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620003065698",
     "tikName": "Новоуральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100339411258",
+    "regionName": "Свердловская область",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 64101,
@@ -1848,6 +1926,9 @@ export const president_2024_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620003065699",
     "tikName": "Бисертская поселковая",
+    "regionCode": "66",
+    "regionTvd": "100100339411258",
+    "regionName": "Свердловская область",
     "uikCount": 6,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 7398,
@@ -1894,6 +1975,9 @@ export const president_2024_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620003065700",
     "tikName": "Асбестовская городская",
+    "regionCode": "66",
+    "regionTvd": "100100339411258",
+    "regionName": "Свердловская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 47901,
@@ -1963,6 +2047,9 @@ export const president_2024_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620003065701",
     "tikName": "Екатеринбург, Орджоникидзевская",
+    "regionCode": "66",
+    "regionTvd": "100100339411258",
+    "regionName": "Свердловская область",
     "uikCount": 103,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 170569,
@@ -2106,6 +2193,9 @@ export const president_2024_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620003065702",
     "tikName": "Свободненская поселковая",
+    "regionCode": "66",
+    "regionTvd": "100100339411258",
+    "regionName": "Свердловская область",
     "uikCount": 5,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 5727,
@@ -2151,6 +2241,9 @@ export const president_2024_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620003065703",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100339411258",
+    "regionName": "Свердловская область",
     "uikCount": 51,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 20356,
@@ -2242,6 +2335,9 @@ export const president_2024_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620003065704",
     "tikName": "Екатеринбург, Ленинская",
+    "regionCode": "66",
+    "regionTvd": "100100339411258",
+    "regionName": "Свердловская область",
     "uikCount": 71,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 107130,
@@ -2353,6 +2449,9 @@ export const president_2024_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620003065705",
     "tikName": "Пригородная",
+    "regionCode": "66",
+    "regionTvd": "100100339411258",
+    "regionName": "Свердловская область",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 23880,
@@ -2431,6 +2530,9 @@ export const president_2024_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620003065706",
     "tikName": "Полевская городская",
+    "regionCode": "66",
+    "regionTvd": "100100339411258",
+    "regionName": "Свердловская область",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 52224,
@@ -2506,6 +2608,9 @@ export const president_2024_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620003065707",
     "tikName": "Талицкая ",
+    "regionCode": "66",
+    "regionTvd": "100100339411258",
+    "regionName": "Свердловская область",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 33005,
@@ -2596,6 +2701,9 @@ export const president_2024_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620003065708",
     "tikName": "Екатеринбург, Кировская",
+    "regionCode": "66",
+    "regionTvd": "100100339411258",
+    "regionName": "Свердловская область",
     "uikCount": 87,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 141354,
@@ -2723,6 +2831,9 @@ export const president_2024_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620003065709",
     "tikName": "Арамильская городская",
+    "regionCode": "66",
+    "regionTvd": "100100339411258",
+    "regionName": "Свердловская область",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 16781,
@@ -2775,6 +2886,9 @@ export const president_2024_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620003065710",
     "tikName": "Верхнепышминская городская",
+    "regionCode": "66",
+    "regionTvd": "100100339411258",
+    "regionName": "Свердловская область",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 63376,
@@ -2854,6 +2968,9 @@ export const president_2024_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620003065711",
     "tikName": "Таборинская",
+    "regionCode": "66",
+    "regionTvd": "100100339411258",
+    "regionName": "Свердловская область",
     "uikCount": 7,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 2183,
@@ -2901,6 +3018,9 @@ export const president_2024_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620003065712",
     "tikName": "Рефтинская поселковая",
+    "regionCode": "66",
+    "regionTvd": "100100339411258",
+    "regionName": "Свердловская область",
     "uikCount": 6,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10882,
@@ -2947,6 +3067,9 @@ export const president_2024_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620003065713",
     "tikName": "Гаринская",
+    "regionCode": "66",
+    "regionTvd": "100100339411258",
+    "regionName": "Свердловская область",
     "uikCount": 5,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 2340,
@@ -2992,6 +3115,9 @@ export const president_2024_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620003065714",
     "tikName": "Березовская городская",
+    "regionCode": "66",
+    "regionTvd": "100100339411258",
+    "regionName": "Свердловская область",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 58141,
@@ -3071,6 +3197,9 @@ export const president_2024_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620003065715",
     "tikName": "Верхнетуринская городская",
+    "regionCode": "66",
+    "regionTvd": "100100339411258",
+    "regionName": "Свердловская область",
     "uikCount": 6,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 6814,
@@ -3117,6 +3246,9 @@ export const president_2024_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620003065716",
     "tikName": "Нижнесергинская",
+    "regionCode": "66",
+    "regionTvd": "100100339411258",
+    "regionName": "Свердловская область",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 29945,
@@ -3201,6 +3333,9 @@ export const president_2024_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620003065717",
     "tikName": "Екатеринбург, Чкаловская",
+    "regionCode": "66",
+    "regionTvd": "100100339411258",
+    "regionName": "Свердловская область",
     "uikCount": 101,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 189444,
@@ -3342,6 +3477,9 @@ export const president_2024_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620003065718",
     "tikName": "Туринская",
+    "regionCode": "66",
+    "regionTvd": "100100339411258",
+    "regionName": "Свердловская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 17844,
@@ -3405,6 +3543,9 @@ export const president_2024_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620003065719",
     "tikName": "Артемовская",
+    "regionCode": "66",
+    "regionTvd": "100100339411258",
+    "regionName": "Свердловская область",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 41331,
@@ -3486,6 +3627,9 @@ export const president_2024_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620003065720",
     "tikName": "Староуткинская поселковая",
+    "regionCode": "66",
+    "regionTvd": "100100339411258",
+    "regionName": "Свердловская область",
     "uikCount": 1,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 2083,
@@ -3527,6 +3671,9 @@ export const president_2024_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620003065721",
     "tikName": "Екатеринбург, Академическая",
+    "regionCode": "66",
+    "regionTvd": "100100339411258",
+    "regionName": "Свердловская область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 75437,
@@ -3603,6 +3750,9 @@ export const president_2024_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620003065722",
     "tikName": "Кушвинская городская",
+    "regionCode": "66",
+    "regionTvd": "100100339411258",
+    "regionName": "Свердловская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 28883,
@@ -3668,6 +3818,9 @@ export const president_2024_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620003065723",
     "tikName": "Алапаевская городская",
+    "regionCode": "66",
+    "regionTvd": "100100339411258",
+    "regionName": "Свердловская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 29253,
@@ -3737,6 +3890,9 @@ export const president_2024_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620003065724",
     "tikName": "Сухоложская городская",
+    "regionCode": "66",
+    "regionTvd": "100100339411258",
+    "regionName": "Свердловская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 32776,
@@ -3808,6 +3964,9 @@ export const president_2024_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620003065725",
     "tikName": "Алапаевская",
+    "regionCode": "66",
+    "regionTvd": "100100339411258",
+    "regionName": "Свердловская область",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 21842,
@@ -3891,6 +4050,9 @@ export const president_2024_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620003065726",
     "tikName": "Серовская городская",
+    "regionCode": "66",
+    "regionTvd": "100100339411258",
+    "regionName": "Свердловская область",
     "uikCount": 56,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 59542,
@@ -3987,6 +4149,9 @@ export const president_2024_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620003065727",
     "tikName": "Новолялинская",
+    "regionCode": "66",
+    "regionTvd": "100100339411258",
+    "regionName": "Свердловская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 13627,
@@ -4049,6 +4214,9 @@ export const president_2024_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620003065728",
     "tikName": "Камышловская городская",
+    "regionCode": "66",
+    "regionTvd": "100100339411258",
+    "regionName": "Свердловская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 18727,
@@ -4107,6 +4275,9 @@ export const president_2024_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620003065729",
     "tikName": "Нижнесалдинская городская",
+    "regionCode": "66",
+    "regionTvd": "100100339411258",
+    "regionName": "Свердловская область",
     "uikCount": 10,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 11486,
@@ -4157,6 +4328,9 @@ export const president_2024_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620003065730",
     "tikName": "Малышевская поселковая",
+    "regionCode": "66",
+    "regionTvd": "100100339411258",
+    "regionName": "Свердловская область",
     "uikCount": 5,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 7474,
@@ -4202,6 +4376,9 @@ export const president_2024_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620003065731",
     "tikName": "Режевская",
+    "regionCode": "66",
+    "regionTvd": "100100339411258",
+    "regionName": "Свердловская область",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 33308,
@@ -4277,6 +4454,9 @@ export const president_2024_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620003065732",
     "tikName": "Нижний Тагил, Дзержинская",
+    "regionCode": "66",
+    "regionTvd": "100100339411258",
+    "regionName": "Свердловская область",
     "uikCount": 48,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 79876,
@@ -4365,6 +4545,9 @@ export const president_2024_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620003065733",
     "tikName": "Богдановичская",
+    "regionCode": "66",
+    "regionTvd": "100100339411258",
+    "regionName": "Свердловская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 33412,
@@ -4433,6 +4616,9 @@ export const president_2024_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620003065734",
     "tikName": "Первоуральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100339411258",
+    "regionName": "Свердловская область",
     "uikCount": 71,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 102225,
@@ -4544,6 +4730,9 @@ export const president_2024_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620003065735",
     "tikName": "Верхотурская",
+    "regionCode": "66",
+    "regionTvd": "100100339411258",
+    "regionName": "Свердловская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9377,
@@ -4604,6 +4793,9 @@ export const president_2024_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620003065736",
     "tikName": "Верхнетагильская городская",
+    "regionCode": "66",
+    "regionTvd": "100100339411258",
+    "regionName": "Свердловская область",
     "uikCount": 7,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9138,
@@ -4651,6 +4843,9 @@ export const president_2024_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620003065737",
     "tikName": "Нижнетуринская",
+    "regionCode": "66",
+    "regionTvd": "100100339411258",
+    "regionName": "Свердловская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 16971,
@@ -4710,6 +4905,9 @@ export const president_2024_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620003065738",
     "tikName": "Ачитская",
+    "regionCode": "66",
+    "regionTvd": "100100339411258",
+    "regionName": "Свердловская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 11233,
@@ -4772,6 +4970,9 @@ export const president_2024_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620003065739",
     "tikName": "Ревдинская",
+    "regionCode": "66",
+    "regionTvd": "100100339411258",
+    "regionName": "Свердловская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 44381,
@@ -4842,6 +5043,9 @@ export const president_2024_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620003065740",
     "tikName": "Красноуфимская",
+    "regionCode": "66",
+    "regionTvd": "100100339411258",
+    "regionName": "Свердловская область",
     "uikCount": 49,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 17590,
@@ -4931,6 +5135,9 @@ export const president_2024_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620003065741",
     "tikName": "Верх-Нейвинская поселковая",
+    "regionCode": "66",
+    "regionTvd": "100100339411258",
+    "regionName": "Свердловская область",
     "uikCount": 2,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 3053,
@@ -4973,6 +5180,9 @@ export const president_2024_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620003065742",
     "tikName": "Лесная городская",
+    "regionCode": "66",
+    "regionTvd": "100100339411258",
+    "regionName": "Свердловская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 36991,
@@ -5036,6 +5246,9 @@ export const president_2024_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620003065743",
     "tikName": "Белоярская",
+    "regionCode": "66",
+    "regionTvd": "100100339411258",
+    "regionName": "Свердловская область",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 31689,
@@ -5113,6 +5326,9 @@ export const president_2024_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620003065744",
     "tikName": "Среднеуральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100339411258",
+    "regionName": "Свердловская область",
     "uikCount": 9,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 17877,
@@ -5162,6 +5378,9 @@ export const president_2024_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620003065745",
     "tikName": "Тугулымская",
+    "regionCode": "66",
+    "regionTvd": "100100339411258",
+    "regionName": "Свердловская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 15211,
@@ -5232,6 +5451,9 @@ export const president_2024_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620003065746",
     "tikName": "Камышловская ",
+    "regionCode": "66",
+    "regionTvd": "100100339411258",
+    "regionName": "Свердловская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 16752,
@@ -5296,6 +5518,9 @@ export const president_2024_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620003065747",
     "tikName": "Дегтярская городская",
+    "regionCode": "66",
+    "regionTvd": "100100339411258",
+    "regionName": "Свердловская область",
     "uikCount": 7,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10299,
@@ -5343,6 +5568,9 @@ export const president_2024_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620003065748",
     "tikName": "Североуральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100339411258",
+    "regionName": "Свердловская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 28724,
@@ -5408,6 +5636,9 @@ export const president_2024_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620003065749",
     "tikName": "Красноуральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100339411258",
+    "regionName": "Свердловская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 16810,
@@ -5466,6 +5697,9 @@ export const president_2024_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620003065750",
     "tikName": "Сысертская",
+    "regionCode": "66",
+    "regionTvd": "100100339411258",
+    "regionName": "Свердловская область",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 50518,
@@ -5547,6 +5781,9 @@ export const president_2024_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620003065751",
     "tikName": "Качканарская городская",
+    "regionCode": "66",
+    "regionTvd": "100100339411258",
+    "regionName": "Свердловская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 26913,
@@ -5607,6 +5844,9 @@ export const president_2024_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620003065752",
     "tikName": "Каменская",
+    "regionCode": "66",
+    "regionTvd": "100100339411258",
+    "regionName": "Свердловская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 20751,
@@ -5677,6 +5917,9 @@ export const president_2024_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620003065753",
     "tikName": "Шалинская",
+    "regionCode": "66",
+    "regionTvd": "100100339411258",
+    "regionName": "Свердловская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 13779,

@@ -11,6 +11,9 @@ export const president_2008_tic_227_region_2 = [
     "ballot": "presidential",
     "tikTvd": "2042000105740",
     "tikName": "Шебалинская",
+    "regionCode": "2",
+    "regionTvd": "100100022249982",
+    "regionName": "Республика Алтай",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 10157,
@@ -80,6 +83,9 @@ export const president_2008_tic_227_region_2 = [
     "ballot": "presidential",
     "tikTvd": "2042000105741",
     "tikName": "Чойская",
+    "regionCode": "2",
+    "regionTvd": "100100022249982",
+    "regionName": "Республика Алтай",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 6265,
@@ -141,6 +147,9 @@ export const president_2008_tic_227_region_2 = [
     "ballot": "presidential",
     "tikTvd": "2042000105742",
     "tikName": "Чемальская",
+    "regionCode": "2",
+    "regionTvd": "100100022249982",
+    "regionName": "Республика Алтай",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 7020,
@@ -210,6 +219,9 @@ export const president_2008_tic_227_region_2 = [
     "ballot": "presidential",
     "tikTvd": "2042000105743",
     "tikName": "Усть-Коксинская",
+    "regionCode": "2",
+    "regionTvd": "100100022249982",
+    "regionName": "Республика Алтай",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 10945,
@@ -288,6 +300,9 @@ export const president_2008_tic_227_region_2 = [
     "ballot": "presidential",
     "tikTvd": "2042000105744",
     "tikName": "Усть-Канская",
+    "regionCode": "2",
+    "regionTvd": "100100022249982",
+    "regionName": "Республика Алтай",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 10107,
@@ -359,6 +374,9 @@ export const president_2008_tic_227_region_2 = [
     "ballot": "presidential",
     "tikTvd": "2042000105745",
     "tikName": "Улаганская",
+    "regionCode": "2",
+    "regionTvd": "100100022249982",
+    "regionName": "Республика Алтай",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 7195,
@@ -417,6 +435,9 @@ export const president_2008_tic_227_region_2 = [
     "ballot": "presidential",
     "tikTvd": "2042000105746",
     "tikName": "Турочакская",
+    "regionCode": "2",
+    "regionTvd": "100100022249982",
+    "regionName": "Республика Алтай",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 9872,
@@ -486,6 +507,9 @@ export const president_2008_tic_227_region_2 = [
     "ballot": "presidential",
     "tikTvd": "2042000105747",
     "tikName": "Онгудайская",
+    "regionCode": "2",
+    "regionTvd": "100100022249982",
+    "regionName": "Республика Алтай",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 11183,
@@ -559,6 +583,9 @@ export const president_2008_tic_227_region_2 = [
     "ballot": "presidential",
     "tikTvd": "2042000105748",
     "tikName": "Майминская",
+    "regionCode": "2",
+    "regionTvd": "100100022249982",
+    "regionName": "Республика Алтай",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 18277,
@@ -635,6 +662,9 @@ export const president_2008_tic_227_region_2 = [
     "ballot": "presidential",
     "tikTvd": "2042000105749",
     "tikName": "Кош-Агачская",
+    "regionCode": "2",
+    "regionTvd": "100100022249982",
+    "regionName": "Республика Алтай",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 11932,
@@ -700,6 +730,9 @@ export const president_2008_tic_227_region_2 = [
     "ballot": "presidential",
     "tikTvd": "2042000105750",
     "tikName": "Горно-Алтайская городская",
+    "regionCode": "2",
+    "regionTvd": "100100022249982",
+    "regionName": "Республика Алтай",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 38860,

@@ -11,6 +11,9 @@ export const president_2018_tic_227_region_30 = [
     "ballot": "presidential",
     "tikTvd": "2302000993286",
     "tikName": "Ахтубинская",
+    "regionCode": "30",
+    "regionTvd": "100100084849156",
+    "regionName": "Астраханская область",
     "uikCount": 52,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 52058,
@@ -107,6 +110,9 @@ export const president_2018_tic_227_region_30 = [
     "ballot": "presidential",
     "tikTvd": "2302000993287",
     "tikName": "Знаменская городская",
+    "regionCode": "30",
+    "regionTvd": "100100084849156",
+    "regionName": "Астраханская область",
     "uikCount": 10,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 21683,
@@ -161,6 +167,9 @@ export const president_2018_tic_227_region_30 = [
     "ballot": "presidential",
     "tikTvd": "2302000993288",
     "tikName": "Астрахань, Cоветская",
+    "regionCode": "30",
+    "regionTvd": "100100084849156",
+    "regionName": "Астраханская область",
     "uikCount": 53,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 104569,
@@ -258,6 +267,9 @@ export const president_2018_tic_227_region_30 = [
     "ballot": "presidential",
     "tikTvd": "2302000993289",
     "tikName": "Харабалинская",
+    "regionCode": "30",
+    "regionTvd": "100100084849156",
+    "regionName": "Астраханская область",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 29285,
@@ -329,6 +341,9 @@ export const president_2018_tic_227_region_30 = [
     "ballot": "presidential",
     "tikTvd": "2302000993290",
     "tikName": "Лиманская",
+    "regionCode": "30",
+    "regionTvd": "100100084849156",
+    "regionName": "Астраханская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 23179,
@@ -399,6 +414,9 @@ export const president_2018_tic_227_region_30 = [
     "ballot": "presidential",
     "tikTvd": "2302000993291",
     "tikName": "Камызякская",
+    "regionCode": "30",
+    "regionTvd": "100100084849156",
+    "regionName": "Астраханская область",
     "uikCount": 48,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 35391,
@@ -491,6 +509,9 @@ export const president_2018_tic_227_region_30 = [
     "ballot": "presidential",
     "tikTvd": "2302000993292",
     "tikName": "Енотаевская",
+    "regionCode": "30",
+    "regionTvd": "100100084849156",
+    "regionName": "Астраханская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 18924,
@@ -556,6 +577,9 @@ export const president_2018_tic_227_region_30 = [
     "ballot": "presidential",
     "tikTvd": "2302000993293",
     "tikName": "Астрахань, Трусовская",
+    "regionCode": "30",
+    "regionTvd": "100100084849156",
+    "regionName": "Астраханская область",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 80781,
@@ -643,6 +667,9 @@ export const president_2018_tic_227_region_30 = [
     "ballot": "presidential",
     "tikTvd": "2302000993294",
     "tikName": "Приволжская",
+    "regionCode": "30",
+    "regionTvd": "100100084849156",
+    "regionName": "Астраханская область",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 37179,
@@ -714,6 +741,9 @@ export const president_2018_tic_227_region_30 = [
     "ballot": "presidential",
     "tikTvd": "2302000993295",
     "tikName": "Черноярская",
+    "regionCode": "30",
+    "regionTvd": "100100084849156",
+    "regionName": "Астраханская область",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 13922,
@@ -771,6 +801,9 @@ export const president_2018_tic_227_region_30 = [
     "ballot": "presidential",
     "tikTvd": "2302000993296",
     "tikName": "Икрянинская",
+    "regionCode": "30",
+    "regionTvd": "100100084849156",
+    "regionName": "Астраханская область",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 34612,
@@ -857,6 +890,9 @@ export const president_2018_tic_227_region_30 = [
     "ballot": "presidential",
     "tikTvd": "2302000993297",
     "tikName": "Наримановская",
+    "regionCode": "30",
+    "regionTvd": "100100084849156",
+    "regionName": "Астраханская область",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 35142,
@@ -939,6 +975,9 @@ export const president_2018_tic_227_region_30 = [
     "ballot": "presidential",
     "tikTvd": "2302000993298",
     "tikName": "Астрахань, Кировская",
+    "regionCode": "30",
+    "regionTvd": "100100084849156",
+    "regionName": "Астраханская область",
     "uikCount": 49,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 83108,
@@ -1032,6 +1071,9 @@ export const president_2018_tic_227_region_30 = [
     "ballot": "presidential",
     "tikTvd": "2302000993299",
     "tikName": "Астрахань, Ленинская",
+    "regionCode": "30",
+    "regionTvd": "100100084849156",
+    "regionName": "Астраханская область",
     "uikCount": 54,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 106672,
@@ -1130,6 +1172,9 @@ export const president_2018_tic_227_region_30 = [
     "ballot": "presidential",
     "tikTvd": "2302000993300",
     "tikName": "Красноярская",
+    "regionCode": "30",
+    "regionTvd": "100100084849156",
+    "regionName": "Астраханская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 25595,
@@ -1208,6 +1253,9 @@ export const president_2018_tic_227_region_30 = [
     "ballot": "presidential",
     "tikTvd": "2302000993301",
     "tikName": "Володарская",
+    "regionCode": "30",
+    "regionTvd": "100100084849156",
+    "regionName": "Астраханская область",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 34106,

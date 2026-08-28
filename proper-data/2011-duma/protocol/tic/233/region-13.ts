@@ -11,6 +11,9 @@ export const duma_2011_tic_233_region_13 = [
     "ballot": "party",
     "tikTvd": "2132000283324",
     "tikName": "Ардатовская",
+    "regionCode": "13",
+    "regionTvd": "100100028713323",
+    "regionName": "Республика Мордовия",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 23123,
@@ -101,6 +104,9 @@ export const duma_2011_tic_233_region_13 = [
     "ballot": "party",
     "tikTvd": "2132000283325",
     "tikName": "Атюрьевская",
+    "regionCode": "13",
+    "regionTvd": "100100028713323",
+    "regionName": "Республика Мордовия",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 9320,
@@ -173,6 +179,9 @@ export const duma_2011_tic_233_region_13 = [
     "ballot": "party",
     "tikTvd": "2132000283326",
     "tikName": "Атяшевская",
+    "regionCode": "13",
+    "regionTvd": "100100028713323",
+    "regionName": "Республика Мордовия",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 17076,
@@ -259,6 +268,9 @@ export const duma_2011_tic_233_region_13 = [
     "ballot": "party",
     "tikTvd": "2132000283327",
     "tikName": "Большеберезниковская",
+    "regionCode": "13",
+    "regionTvd": "100100028713323",
+    "regionName": "Республика Мордовия",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 11349,
@@ -333,6 +345,9 @@ export const duma_2011_tic_233_region_13 = [
     "ballot": "party",
     "tikTvd": "2132000283328",
     "tikName": "Большеигнатовская",
+    "regionCode": "13",
+    "regionTvd": "100100028713323",
+    "regionName": "Республика Мордовия",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 7002,
@@ -400,6 +415,9 @@ export const duma_2011_tic_233_region_13 = [
     "ballot": "party",
     "tikTvd": "2132000283329",
     "tikName": "Дубенская",
+    "regionCode": "13",
+    "regionTvd": "100100028713323",
+    "regionName": "Республика Мордовия",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 11712,
@@ -477,6 +495,9 @@ export const duma_2011_tic_233_region_13 = [
     "ballot": "party",
     "tikTvd": "2132000283330",
     "tikName": "Ельниковская ТИК",
+    "regionCode": "13",
+    "regionTvd": "100100028713323",
+    "regionName": "Республика Мордовия",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 9476,
@@ -550,6 +571,9 @@ export const duma_2011_tic_233_region_13 = [
     "ballot": "party",
     "tikTvd": "2132000283331",
     "tikName": "Зубово-Полянская",
+    "regionCode": "13",
+    "regionTvd": "100100028713323",
+    "regionName": "Республика Мордовия",
     "uikCount": 51,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 33567,
@@ -650,6 +674,9 @@ export const duma_2011_tic_233_region_13 = [
     "ballot": "party",
     "tikTvd": "2132000283332",
     "tikName": "Инсарская",
+    "regionCode": "13",
+    "regionTvd": "100100028713323",
+    "regionName": "Республика Мордовия",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 11933,
@@ -724,6 +751,9 @@ export const duma_2011_tic_233_region_13 = [
     "ballot": "party",
     "tikTvd": "2132000283333",
     "tikName": "Ичалковская",
+    "regionCode": "13",
+    "regionTvd": "100100028713323",
+    "regionName": "Республика Мордовия",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 15839,
@@ -819,6 +849,9 @@ export const duma_2011_tic_233_region_13 = [
     "ballot": "party",
     "tikTvd": "2132000283334",
     "tikName": "Кадошкинская",
+    "regionCode": "13",
+    "regionTvd": "100100028713323",
+    "regionName": "Республика Мордовия",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 7022,
@@ -882,6 +915,9 @@ export const duma_2011_tic_233_region_13 = [
     "ballot": "party",
     "tikTvd": "2132000283335",
     "tikName": "Ковылкинская",
+    "regionCode": "13",
+    "regionTvd": "100100028713323",
+    "regionName": "Республика Мордовия",
     "uikCount": 59,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 34030,
@@ -990,6 +1026,9 @@ export const duma_2011_tic_233_region_13 = [
     "ballot": "party",
     "tikTvd": "2132000283336",
     "tikName": "Кочкуровская",
+    "regionCode": "13",
+    "regionTvd": "100100028713323",
+    "regionName": "Республика Мордовия",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 8662,
@@ -1056,6 +1095,9 @@ export const duma_2011_tic_233_region_13 = [
     "ballot": "party",
     "tikTvd": "2132000283337",
     "tikName": "Краснослободская",
+    "regionCode": "13",
+    "regionTvd": "100100028713323",
+    "regionName": "Республика Мордовия",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 21083,
@@ -1137,6 +1179,9 @@ export const duma_2011_tic_233_region_13 = [
     "ballot": "party",
     "tikTvd": "2132000283338",
     "tikName": "Лямбирская",
+    "regionCode": "13",
+    "regionTvd": "100100028713323",
+    "regionName": "Республика Мордовия",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 25413,
@@ -1222,6 +1267,9 @@ export const duma_2011_tic_233_region_13 = [
     "ballot": "party",
     "tikTvd": "2132000283339",
     "tikName": "Ромодановская",
+    "regionCode": "13",
+    "regionTvd": "100100028713323",
+    "regionName": "Республика Мордовия",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 15422,
@@ -1298,6 +1346,9 @@ export const duma_2011_tic_233_region_13 = [
     "ballot": "party",
     "tikTvd": "2132000283340",
     "tikName": "Рузаевская",
+    "regionCode": "13",
+    "regionTvd": "100100028713323",
+    "regionName": "Республика Мордовия",
     "uikCount": 53,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 52155,
@@ -1400,6 +1451,9 @@ export const duma_2011_tic_233_region_13 = [
     "ballot": "party",
     "tikTvd": "2132000283341",
     "tikName": "Ленинская",
+    "regionCode": "13",
+    "regionTvd": "100100028713323",
+    "regionName": "Республика Мордовия",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 84327,
@@ -1495,6 +1549,9 @@ export const duma_2011_tic_233_region_13 = [
     "ballot": "party",
     "tikTvd": "2132000283342",
     "tikName": "Октябрьская",
+    "regionCode": "13",
+    "regionTvd": "100100028713323",
+    "regionName": "Республика Мордовия",
     "uikCount": 56,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 104551,
@@ -1600,6 +1657,9 @@ export const duma_2011_tic_233_region_13 = [
     "ballot": "party",
     "tikTvd": "2132000283343",
     "tikName": "Пролетарская",
+    "regionCode": "13",
+    "regionTvd": "100100028713323",
+    "regionName": "Республика Мордовия",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 76969,
@@ -1683,6 +1743,9 @@ export const duma_2011_tic_233_region_13 = [
     "ballot": "party",
     "tikTvd": "2132000283344",
     "tikName": "Старошайговская",
+    "regionCode": "13",
+    "regionTvd": "100100028713323",
+    "regionName": "Республика Мордовия",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 11070,
@@ -1751,6 +1814,9 @@ export const duma_2011_tic_233_region_13 = [
     "ballot": "party",
     "tikTvd": "2132000283345",
     "tikName": "Темниковская",
+    "regionCode": "13",
+    "regionTvd": "100100028713323",
+    "regionName": "Республика Мордовия",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 13957,
@@ -1829,6 +1895,9 @@ export const duma_2011_tic_233_region_13 = [
     "ballot": "party",
     "tikTvd": "2132000283346",
     "tikName": "Теньгушевская",
+    "regionCode": "13",
+    "regionTvd": "100100028713323",
+    "regionName": "Республика Мордовия",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 8878,
@@ -1901,6 +1970,9 @@ export const duma_2011_tic_233_region_13 = [
     "ballot": "party",
     "tikTvd": "2132000283347",
     "tikName": "Торбеевская",
+    "regionCode": "13",
+    "regionTvd": "100100028713323",
+    "regionName": "Республика Мордовия",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 16632,
@@ -1977,6 +2049,9 @@ export const duma_2011_tic_233_region_13 = [
     "ballot": "party",
     "tikTvd": "2132000283348",
     "tikName": "Чамзинская",
+    "regionCode": "13",
+    "regionTvd": "100100028713323",
+    "regionName": "Республика Мордовия",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 25564,

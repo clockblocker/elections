@@ -11,6 +11,9 @@ export const president_2018_tic_227_region_55 = [
     "ballot": "presidential",
     "tikTvd": "25520001133861",
     "tikName": "Таврическая",
+    "regionCode": "55",
+    "regionTvd": "100100084849180",
+    "regionName": "Омская область",
     "uikCount": 48,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 27449,
@@ -103,6 +106,9 @@ export const president_2018_tic_227_region_55 = [
     "ballot": "presidential",
     "tikTvd": "25520001133862",
     "tikName": "Большеуковская",
+    "regionCode": "55",
+    "regionTvd": "100100084849180",
+    "regionName": "Омская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 6169,
@@ -165,6 +171,9 @@ export const president_2018_tic_227_region_55 = [
     "ballot": "presidential",
     "tikTvd": "25520001133863",
     "tikName": "Называевская",
+    "regionCode": "55",
+    "regionTvd": "100100084849180",
+    "regionName": "Омская область",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 18170,
@@ -251,6 +260,9 @@ export const president_2018_tic_227_region_55 = [
     "ballot": "presidential",
     "tikTvd": "25520001133864",
     "tikName": "Павлоградская",
+    "regionCode": "55",
+    "regionTvd": "100100084849180",
+    "regionName": "Омская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 14515,
@@ -329,6 +341,9 @@ export const president_2018_tic_227_region_55 = [
     "ballot": "presidential",
     "tikTvd": "25520001133865",
     "tikName": "Крутинская",
+    "regionCode": "55",
+    "regionTvd": "100100084849180",
+    "regionName": "Омская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 11638,
@@ -404,6 +419,9 @@ export const president_2018_tic_227_region_55 = [
     "ballot": "presidential",
     "tikTvd": "25520001133866",
     "tikName": "Одесская",
+    "regionCode": "55",
+    "regionTvd": "100100084849180",
+    "regionName": "Омская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 11968,
@@ -471,6 +489,9 @@ export const president_2018_tic_227_region_55 = [
     "ballot": "presidential",
     "tikTvd": "25520001133867",
     "tikName": "Усть-Ишимская",
+    "regionCode": "55",
+    "regionTvd": "100100084849180",
+    "regionName": "Омская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9397,
@@ -545,6 +566,9 @@ export const president_2018_tic_227_region_55 = [
     "ballot": "presidential",
     "tikTvd": "25520001133868",
     "tikName": "Горьковская",
+    "regionCode": "55",
+    "regionTvd": "100100084849180",
+    "regionName": "Омская область",
     "uikCount": 45,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 17471,
@@ -634,6 +658,9 @@ export const president_2018_tic_227_region_55 = [
     "ballot": "presidential",
     "tikTvd": "25520001133869",
     "tikName": "Тевризская",
+    "regionCode": "55",
+    "regionTvd": "100100084849180",
+    "regionName": "Омская область",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 11275,
@@ -713,6 +740,9 @@ export const president_2018_tic_227_region_55 = [
     "ballot": "presidential",
     "tikTvd": "25520001133870",
     "tikName": "Русско-Полянская",
+    "regionCode": "55",
+    "regionTvd": "100100084849180",
+    "regionName": "Омская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 15369,
@@ -787,6 +817,9 @@ export const president_2018_tic_227_region_55 = [
     "ballot": "presidential",
     "tikTvd": "25520001133871",
     "tikName": "Азовская",
+    "regionCode": "55",
+    "regionTvd": "100100084849180",
+    "regionName": "Омская область",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 17721,
@@ -866,6 +899,9 @@ export const president_2018_tic_227_region_55 = [
     "ballot": "presidential",
     "tikTvd": "25520001133872",
     "tikName": "Седельниковская",
+    "regionCode": "55",
+    "regionTvd": "100100084849180",
+    "regionName": "Омская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 7823,
@@ -936,6 +972,9 @@ export const president_2018_tic_227_region_55 = [
     "ballot": "presidential",
     "tikTvd": "25520001133873",
     "tikName": "Большереченская",
+    "regionCode": "55",
+    "regionTvd": "100100084849180",
+    "regionName": "Омская область",
     "uikCount": 66,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 22414,
@@ -1046,6 +1085,9 @@ export const president_2018_tic_227_region_55 = [
     "ballot": "presidential",
     "tikTvd": "25520001133874",
     "tikName": "Саргатская",
+    "regionCode": "55",
+    "regionTvd": "100100084849180",
+    "regionName": "Омская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 13653,
@@ -1121,6 +1163,9 @@ export const president_2018_tic_227_region_55 = [
     "ballot": "presidential",
     "tikTvd": "25520001133875",
     "tikName": "Шербакульская",
+    "regionCode": "55",
+    "regionTvd": "100100084849180",
+    "regionName": "Омская область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 16798,
@@ -1201,6 +1246,9 @@ export const president_2018_tic_227_region_55 = [
     "ballot": "presidential",
     "tikTvd": "25520001133876",
     "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100084849180",
+    "regionName": "Омская область",
     "uikCount": 125,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 225619,
@@ -1370,6 +1418,9 @@ export const president_2018_tic_227_region_55 = [
     "ballot": "presidential",
     "tikTvd": "25520001133877",
     "tikName": "Знаменская",
+    "regionCode": "55",
+    "regionTvd": "100100084849180",
+    "regionName": "Омская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9169,
@@ -1443,6 +1494,9 @@ export const president_2018_tic_227_region_55 = [
     "ballot": "presidential",
     "tikTvd": "25520001133878",
     "tikName": "Омск, Советская",
+    "regionCode": "55",
+    "regionTvd": "100100084849180",
+    "regionName": "Омская область",
     "uikCount": 98,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 188575,
@@ -1585,6 +1639,9 @@ export const president_2018_tic_227_region_55 = [
     "ballot": "presidential",
     "tikTvd": "25520001133879",
     "tikName": "Колосовская",
+    "regionCode": "55",
+    "regionTvd": "100100084849180",
+    "regionName": "Омская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9519,
@@ -1655,6 +1712,9 @@ export const president_2018_tic_227_region_55 = [
     "ballot": "presidential",
     "tikTvd": "25520001133880",
     "tikName": "Марьяновская",
+    "regionCode": "55",
+    "regionTvd": "100100084849180",
+    "regionName": "Омская область",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 19553,
@@ -1741,6 +1801,9 @@ export const president_2018_tic_227_region_55 = [
     "ballot": "presidential",
     "tikTvd": "25520001133881",
     "tikName": "Оконешниковская",
+    "regionCode": "55",
+    "regionTvd": "100100084849180",
+    "regionName": "Омская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10897,
@@ -1814,6 +1877,9 @@ export const president_2018_tic_227_region_55 = [
     "ballot": "presidential",
     "tikTvd": "25520001133882",
     "tikName": "Черлакская ",
+    "regionCode": "55",
+    "regionTvd": "100100084849180",
+    "regionName": "Омская область",
     "uikCount": 45,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 22341,
@@ -1903,6 +1969,9 @@ export const president_2018_tic_227_region_55 = [
     "ballot": "presidential",
     "tikTvd": "25520001133883",
     "tikName": "Нововаршавская",
+    "regionCode": "55",
+    "regionTvd": "100100084849180",
+    "regionName": "Омская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 18229,
@@ -1981,6 +2050,9 @@ export const president_2018_tic_227_region_55 = [
     "ballot": "presidential",
     "tikTvd": "25520001133884",
     "tikName": "Калачинская",
+    "regionCode": "55",
+    "regionTvd": "100100084849180",
+    "regionName": "Омская область",
     "uikCount": 55,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 34575,
@@ -2080,6 +2152,9 @@ export const president_2018_tic_227_region_55 = [
     "ballot": "presidential",
     "tikTvd": "25520001133885",
     "tikName": "Муромцевская",
+    "regionCode": "55",
+    "regionTvd": "100100084849180",
+    "regionName": "Омская область",
     "uikCount": 45,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 18180,
@@ -2169,6 +2244,9 @@ export const president_2018_tic_227_region_55 = [
     "ballot": "presidential",
     "tikTvd": "25520001133886",
     "tikName": "Нижнеомская",
+    "regionCode": "55",
+    "regionTvd": "100100084849180",
+    "regionName": "Омская область",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 12965,
@@ -2259,6 +2337,9 @@ export const president_2018_tic_227_region_55 = [
     "ballot": "presidential",
     "tikTvd": "25520001133887",
     "tikName": "Кормиловская",
+    "regionCode": "55",
+    "regionTvd": "100100084849180",
+    "regionName": "Омская область",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 19438,
@@ -2342,6 +2423,9 @@ export const president_2018_tic_227_region_55 = [
     "ballot": "presidential",
     "tikTvd": "25520001133888",
     "tikName": "Москаленская",
+    "regionCode": "55",
+    "regionTvd": "100100084849180",
+    "regionName": "Омская область",
     "uikCount": 47,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 21997,
@@ -2433,6 +2517,9 @@ export const president_2018_tic_227_region_55 = [
     "ballot": "presidential",
     "tikTvd": "25520001133889",
     "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100084849180",
+    "regionName": "Омская область",
     "uikCount": 99,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 203421,
@@ -2576,6 +2663,9 @@ export const president_2018_tic_227_region_55 = [
     "ballot": "presidential",
     "tikTvd": "25520001133890",
     "tikName": "Полтавская",
+    "regionCode": "55",
+    "regionTvd": "100100084849180",
+    "regionName": "Омская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 16544,
@@ -2660,6 +2750,9 @@ export const president_2018_tic_227_region_55 = [
     "ballot": "presidential",
     "tikTvd": "25520001133891",
     "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100084849180",
+    "regionName": "Омская область",
     "uikCount": 75,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 82058,
@@ -2779,6 +2872,9 @@ export const president_2018_tic_227_region_55 = [
     "ballot": "presidential",
     "tikTvd": "25520001133892",
     "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100084849180",
+    "regionName": "Омская область",
     "uikCount": 63,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 29624,
@@ -2886,6 +2982,9 @@ export const president_2018_tic_227_region_55 = [
     "ballot": "presidential",
     "tikTvd": "25520001133893",
     "tikName": "Исилькульская",
+    "regionCode": "55",
+    "regionTvd": "100100084849180",
+    "regionName": "Омская область",
     "uikCount": 52,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 31000,
@@ -2982,6 +3081,9 @@ export const president_2018_tic_227_region_55 = [
     "ballot": "presidential",
     "tikTvd": "25520001133894",
     "tikName": "Тюкалинская",
+    "regionCode": "55",
+    "regionTvd": "100100084849180",
+    "regionName": "Омская область",
     "uikCount": 45,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 19161,
@@ -3071,6 +3173,9 @@ export const president_2018_tic_227_region_55 = [
     "ballot": "presidential",
     "tikTvd": "25520001133895",
     "tikName": "Омск, Ленинская",
+    "regionCode": "55",
+    "regionTvd": "100100084849180",
+    "regionName": "Омская область",
     "uikCount": 84,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 155486,
@@ -3199,6 +3304,9 @@ export const president_2018_tic_227_region_55 = [
     "ballot": "presidential",
     "tikTvd": "25520001133896",
     "tikName": "Омск, Октябрьская",
+    "regionCode": "55",
+    "regionTvd": "100100084849180",
+    "regionName": "Омская область",
     "uikCount": 73,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 133057,
@@ -3316,6 +3424,9 @@ export const president_2018_tic_227_region_55 = [
     "ballot": "presidential",
     "tikTvd": "25520001133897",
     "tikName": "Тарская",
+    "regionCode": "55",
+    "regionTvd": "100100084849180",
+    "regionName": "Омская область",
     "uikCount": 69,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 32165,

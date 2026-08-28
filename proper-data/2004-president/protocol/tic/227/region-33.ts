@@ -11,6 +11,9 @@ export const president_2004_tic_227_region_33 = [
     "ballot": "presidential",
     "tikTvd": "233200076296",
     "tikName": "Владимир, Ленинская",
+    "regionCode": "33",
+    "regionTvd": "1001000882963",
+    "regionName": "Владимирская область",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, внесенных в список": 114522,
@@ -109,6 +112,9 @@ export const president_2004_tic_227_region_33 = [
     "ballot": "presidential",
     "tikTvd": "233200076297",
     "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "1001000882963",
+    "regionName": "Владимирская область",
     "uikCount": 65,
     "accounting": {
       "Число избирателей, внесенных в список": 33715,
@@ -222,6 +228,9 @@ export const president_2004_tic_227_region_33 = [
     "ballot": "presidential",
     "tikTvd": "233200076298",
     "tikName": "Ковровская",
+    "regionCode": "33",
+    "regionTvd": "1001000882963",
+    "regionName": "Владимирская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в список": 24873,
@@ -304,6 +313,9 @@ export const president_2004_tic_227_region_33 = [
     "ballot": "presidential",
     "tikTvd": "233200076299",
     "tikName": "Кольчугинская",
+    "regionCode": "33",
+    "regionTvd": "1001000882963",
+    "regionName": "Владимирская область",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, внесенных в список": 47944,
@@ -395,6 +407,9 @@ export const president_2004_tic_227_region_33 = [
     "ballot": "presidential",
     "tikTvd": "233200076300",
     "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "1001000882963",
+    "regionName": "Владимирская область",
     "uikCount": 68,
     "accounting": {
       "Число избирателей, внесенных в список": 126293,
@@ -511,6 +526,9 @@ export const president_2004_tic_227_region_33 = [
     "ballot": "presidential",
     "tikTvd": "233200076301",
     "tikName": "Камешковская",
+    "regionCode": "33",
+    "regionTvd": "1001000882963",
+    "regionName": "Владимирская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в список": 29963,
@@ -589,6 +607,9 @@ export const president_2004_tic_227_region_33 = [
     "ballot": "presidential",
     "tikTvd": "233200076302",
     "tikName": "Киржачская",
+    "regionCode": "33",
+    "regionTvd": "1001000882963",
+    "regionName": "Владимирская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в список": 36068,
@@ -667,6 +688,9 @@ export const president_2004_tic_227_region_33 = [
     "ballot": "presidential",
     "tikTvd": "233200076303",
     "tikName": "Гусь-Хрустальная",
+    "regionCode": "33",
+    "regionTvd": "1001000882963",
+    "regionName": "Владимирская область",
     "uikCount": 47,
     "accounting": {
       "Число избирателей, внесенных в список": 39102,
@@ -762,6 +786,9 @@ export const president_2004_tic_227_region_33 = [
     "ballot": "presidential",
     "tikTvd": "233200076304",
     "tikName": "Суздальская городская",
+    "regionCode": "33",
+    "regionTvd": "1001000882963",
+    "regionName": "Владимирская область",
     "uikCount": 6,
     "accounting": {
       "Число избирателей, внесенных в список": 9081,
@@ -816,6 +843,9 @@ export const president_2004_tic_227_region_33 = [
     "ballot": "presidential",
     "tikTvd": "233200076305",
     "tikName": "Гусь-Хрустальная городская",
+    "regionCode": "33",
+    "regionTvd": "1001000882963",
+    "regionName": "Владимирская область",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в список": 58084,
@@ -896,6 +926,9 @@ export const president_2004_tic_227_region_33 = [
     "ballot": "presidential",
     "tikTvd": "233200076306",
     "tikName": "Гороховецкая",
+    "regionCode": "33",
+    "regionTvd": "1001000882963",
+    "regionName": "Владимирская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список": 20175,
@@ -968,6 +1001,9 @@ export const president_2004_tic_227_region_33 = [
     "ballot": "presidential",
     "tikTvd": "233200076307",
     "tikName": "Вязниковская",
+    "regionCode": "33",
+    "regionTvd": "1001000882963",
+    "regionName": "Владимирская область",
     "uikCount": 62,
     "accounting": {
       "Число избирателей, внесенных в список": 74888,
@@ -1078,6 +1114,9 @@ export const president_2004_tic_227_region_33 = [
     "ballot": "presidential",
     "tikTvd": "233200076308",
     "tikName": "Суздальская",
+    "regionCode": "33",
+    "regionTvd": "1001000882963",
+    "regionName": "Владимирская область",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, внесенных в список": 29815,
@@ -1167,6 +1206,9 @@ export const president_2004_tic_227_region_33 = [
     "ballot": "presidential",
     "tikTvd": "233200076309",
     "tikName": "Юрьев-Польская",
+    "regionCode": "33",
+    "regionTvd": "1001000882963",
+    "regionName": "Владимирская область",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в список": 29769,
@@ -1254,6 +1296,9 @@ export const president_2004_tic_227_region_33 = [
     "ballot": "presidential",
     "tikTvd": "233200076310",
     "tikName": "Судогодская",
+    "regionCode": "33",
+    "regionTvd": "1001000882963",
+    "regionName": "Владимирская область",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в список": 33477,
@@ -1341,6 +1386,9 @@ export const president_2004_tic_227_region_33 = [
     "ballot": "presidential",
     "tikTvd": "233200076311",
     "tikName": "Радужная",
+    "regionCode": "33",
+    "regionTvd": "1001000882963",
+    "regionName": "Владимирская область",
     "uikCount": 6,
     "accounting": {
       "Число избирателей, внесенных в список": 14319,
@@ -1395,6 +1443,9 @@ export const president_2004_tic_227_region_33 = [
     "ballot": "presidential",
     "tikTvd": "233200076312",
     "tikName": "Селивановская",
+    "regionCode": "33",
+    "regionTvd": "1001000882963",
+    "regionName": "Владимирская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список": 17852,
@@ -1467,6 +1518,9 @@ export const president_2004_tic_227_region_33 = [
     "ballot": "presidential",
     "tikTvd": "233200076314",
     "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "1001000882963",
+    "regionName": "Владимирская область",
     "uikCount": 59,
     "accounting": {
       "Число избирателей, внесенных в список": 55983,
@@ -1574,6 +1628,9 @@ export const president_2004_tic_227_region_33 = [
     "ballot": "presidential",
     "tikTvd": "233200076315",
     "tikName": "Муромская",
+    "regionCode": "33",
+    "regionTvd": "1001000882963",
+    "regionName": "Владимирская область",
     "uikCount": 81,
     "accounting": {
       "Число избирателей, внесенных в список": 126435,
@@ -1703,6 +1760,9 @@ export const president_2004_tic_227_region_33 = [
     "ballot": "presidential",
     "tikTvd": "233200076316",
     "tikName": "Собинская",
+    "regionCode": "33",
+    "regionTvd": "1001000882963",
+    "regionName": "Владимирская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список": 19041,
@@ -1776,6 +1836,9 @@ export const president_2004_tic_227_region_33 = [
     "ballot": "presidential",
     "tikTvd": "233200076317",
     "tikName": "Владимир, Фрунзенская",
+    "regionCode": "33",
+    "regionTvd": "1001000882963",
+    "regionName": "Владимирская область",
     "uikCount": 45,
     "accounting": {
       "Число избирателей, внесенных в список": 99929,
@@ -1869,6 +1932,9 @@ export const president_2004_tic_227_region_33 = [
     "ballot": "presidential",
     "tikTvd": "233200076318",
     "tikName": "Владимир, Октябрьская",
+    "regionCode": "33",
+    "regionTvd": "1001000882963",
+    "regionName": "Владимирская область",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список": 64111,
@@ -1944,6 +2010,9 @@ export const president_2004_tic_227_region_33 = [
     "ballot": "presidential",
     "tikTvd": "233200076319",
     "tikName": "Александровская",
+    "regionCode": "33",
+    "regionTvd": "1001000882963",
+    "regionName": "Владимирская область",
     "uikCount": 69,
     "accounting": {
       "Число избирателей, внесенных в список": 94432,
@@ -2061,6 +2130,9 @@ export const president_2004_tic_227_region_33 = [
     "ballot": "presidential",
     "tikTvd": "233200079831",
     "tikName": "Собинская городская",
+    "regionCode": "33",
+    "regionTvd": "1001000882963",
+    "regionName": "Владимирская область",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в список": 30572,

@@ -11,6 +11,14 @@ export const duma_2016_tic_464_region_56 = [
     "ballot": "single-member",
     "tikTvd": "2562000922483",
     "tikName": "Тоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100067796040",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 142,
+      "oikTvd": "100100067796041",
+      "oikName": "Оренбургская область – Оренбургский"
+    },
     "uikCount": 45,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 25847,
@@ -108,6 +116,14 @@ export const duma_2016_tic_464_region_56 = [
     "ballot": "single-member",
     "tikTvd": "2562000922484",
     "tikName": "Ташлинская",
+    "regionCode": "56",
+    "regionTvd": "100100067796040",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 142,
+      "oikTvd": "100100067796041",
+      "oikName": "Оренбургская область – Оренбургский"
+    },
     "uikCount": 44,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 19684,
@@ -204,6 +220,14 @@ export const duma_2016_tic_464_region_56 = [
     "ballot": "single-member",
     "tikTvd": "2562000922485",
     "tikName": "Сорочинская городская",
+    "regionCode": "56",
+    "regionTvd": "100100067796040",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 142,
+      "oikTvd": "100100067796041",
+      "oikName": "Оренбургская область – Оренбургский"
+    },
     "uikCount": 45,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 35378,
@@ -301,6 +325,14 @@ export const duma_2016_tic_464_region_56 = [
     "ballot": "single-member",
     "tikTvd": "2562000922486",
     "tikName": "Соль-Илецкая городская",
+    "regionCode": "56",
+    "regionTvd": "100100067796040",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 142,
+      "oikTvd": "100100067796041",
+      "oikName": "Оренбургская область – Оренбургский"
+    },
     "uikCount": 52,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 41448,
@@ -405,6 +437,14 @@ export const duma_2016_tic_464_region_56 = [
     "ballot": "single-member",
     "tikTvd": "2562000922487",
     "tikName": "Переволоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100067796040",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 142,
+      "oikTvd": "100100067796041",
+      "oikName": "Оренбургская область – Оренбургский"
+    },
     "uikCount": 45,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 22154,
@@ -502,6 +542,14 @@ export const duma_2016_tic_464_region_56 = [
     "ballot": "single-member",
     "tikTvd": "2562000922488",
     "tikName": "Первомайская",
+    "regionCode": "56",
+    "regionTvd": "100100067796040",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 142,
+      "oikTvd": "100100067796041",
+      "oikName": "Оренбургская область – Оренбургский"
+    },
     "uikCount": 42,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 19789,
@@ -596,6 +644,14 @@ export const duma_2016_tic_464_region_56 = [
     "ballot": "single-member",
     "tikTvd": "2562000922489",
     "tikName": "Оренбургская",
+    "regionCode": "56",
+    "regionTvd": "100100067796040",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 142,
+      "oikTvd": "100100067796041",
+      "oikName": "Оренбургская область – Оренбургский"
+    },
     "uikCount": 62,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 68085,
@@ -710,6 +766,14 @@ export const duma_2016_tic_464_region_56 = [
     "ballot": "single-member",
     "tikTvd": "2562000922490",
     "tikName": "Оренбург, Центральная",
+    "regionCode": "56",
+    "regionTvd": "100100067796040",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 142,
+      "oikTvd": "100100067796041",
+      "oikName": "Оренбургская область – Оренбургский"
+    },
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 73041,
@@ -798,6 +862,14 @@ export const duma_2016_tic_464_region_56 = [
     "ballot": "single-member",
     "tikTvd": "2562000922491",
     "tikName": "Оренбург, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100067796040",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 142,
+      "oikTvd": "100100067796041",
+      "oikName": "Оренбургская область – Оренбургский"
+    },
     "uikCount": 68,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 139224,
@@ -918,6 +990,14 @@ export const duma_2016_tic_464_region_56 = [
     "ballot": "single-member",
     "tikTvd": "2562000922492",
     "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100067796040",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 142,
+      "oikTvd": "100100067796041",
+      "oikName": "Оренбургская область – Оренбургский"
+    },
     "uikCount": 52,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 27823,
@@ -1022,6 +1102,14 @@ export const duma_2016_tic_464_region_56 = [
     "ballot": "single-member",
     "tikTvd": "2562000922493",
     "tikName": "Курманаевская",
+    "regionCode": "56",
+    "regionTvd": "100100067796040",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 142,
+      "oikTvd": "100100067796041",
+      "oikName": "Оренбургская область – Оренбургский"
+    },
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 15372,
@@ -1104,6 +1192,14 @@ export const duma_2016_tic_464_region_56 = [
     "ballot": "single-member",
     "tikTvd": "2562000922494",
     "tikName": "Илекская",
+    "regionCode": "56",
+    "regionTvd": "100100067796040",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 142,
+      "oikTvd": "100100067796041",
+      "oikName": "Оренбургская область – Оренбургский"
+    },
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 21251,
@@ -1182,6 +1278,14 @@ export const duma_2016_tic_464_region_56 = [
     "ballot": "single-member",
     "tikTvd": "2562000922495",
     "tikName": "Шарлыкская",
+    "regionCode": "56",
+    "regionTvd": "100100067796040",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 143,
+      "oikTvd": "100100067796042",
+      "oikName": "Оренбургская область – Бугурусланский"
+    },
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 15055,
@@ -1273,6 +1377,14 @@ export const duma_2016_tic_464_region_56 = [
     "ballot": "single-member",
     "tikTvd": "2562000922496",
     "tikName": "Тюльганская",
+    "regionCode": "56",
+    "regionTvd": "100100067796040",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 143,
+      "oikTvd": "100100067796042",
+      "oikName": "Оренбургская область – Бугурусланский"
+    },
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 17176,
@@ -1352,6 +1464,14 @@ export const duma_2016_tic_464_region_56 = [
     "ballot": "single-member",
     "tikTvd": "2562000922497",
     "tikName": "Северная",
+    "regionCode": "56",
+    "regionTvd": "100100067796040",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 143,
+      "oikTvd": "100100067796042",
+      "oikName": "Оренбургская область – Бугурусланский"
+    },
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 12052,
@@ -1438,6 +1558,14 @@ export const duma_2016_tic_464_region_56 = [
     "ballot": "single-member",
     "tikTvd": "2562000922498",
     "tikName": "Сакмарская",
+    "regionCode": "56",
+    "regionTvd": "100100067796040",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 143,
+      "oikTvd": "100100067796042",
+      "oikName": "Оренбургская область – Бугурусланский"
+    },
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 22152,
@@ -1513,6 +1641,14 @@ export const duma_2016_tic_464_region_56 = [
     "ballot": "single-member",
     "tikTvd": "2562000922499",
     "tikName": "Пономаревская",
+    "regionCode": "56",
+    "regionTvd": "100100067796040",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 143,
+      "oikTvd": "100100067796042",
+      "oikName": "Оренбургская область – Бугурусланский"
+    },
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 12106,
@@ -1592,6 +1728,14 @@ export const duma_2016_tic_464_region_56 = [
     "ballot": "single-member",
     "tikTvd": "2562000922500",
     "tikName": "Оренбург, Промышленная",
+    "regionCode": "56",
+    "regionTvd": "100100067796040",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 143,
+      "oikTvd": "100100067796042",
+      "oikName": "Оренбургская область – Бугурусланский"
+    },
     "uikCount": 46,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 89309,
@@ -1690,6 +1834,14 @@ export const duma_2016_tic_464_region_56 = [
     "ballot": "single-member",
     "tikTvd": "2562000922501",
     "tikName": "Оренбург, Дзержинская",
+    "regionCode": "56",
+    "regionTvd": "100100067796040",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 143,
+      "oikTvd": "100100067796042",
+      "oikName": "Оренбургская область – Бугурусланский"
+    },
     "uikCount": 60,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 121627,
@@ -1802,6 +1954,14 @@ export const duma_2016_tic_464_region_56 = [
     "ballot": "single-member",
     "tikTvd": "2562000922502",
     "tikName": "Октябрьская",
+    "regionCode": "56",
+    "regionTvd": "100100067796040",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 143,
+      "oikTvd": "100100067796042",
+      "oikName": "Оренбургская область – Бугурусланский"
+    },
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 17653,
@@ -1893,6 +2053,14 @@ export const duma_2016_tic_464_region_56 = [
     "ballot": "single-member",
     "tikTvd": "2562000922503",
     "tikName": "Матвеевская",
+    "regionCode": "56",
+    "regionTvd": "100100067796040",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 143,
+      "oikTvd": "100100067796042",
+      "oikName": "Оренбургская область – Бугурусланский"
+    },
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 10223,
@@ -1972,6 +2140,14 @@ export const duma_2016_tic_464_region_56 = [
     "ballot": "single-member",
     "tikTvd": "2562000922504",
     "tikName": "Красногвардейская",
+    "regionCode": "56",
+    "regionTvd": "100100067796040",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 143,
+      "oikTvd": "100100067796042",
+      "oikName": "Оренбургская область – Бугурусланский"
+    },
     "uikCount": 44,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 17435,
@@ -2068,6 +2244,14 @@ export const duma_2016_tic_464_region_56 = [
     "ballot": "single-member",
     "tikTvd": "2562000922505",
     "tikName": "Грачевская",
+    "regionCode": "56",
+    "regionTvd": "100100067796040",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 143,
+      "oikTvd": "100100067796042",
+      "oikName": "Оренбургская область – Бугурусланский"
+    },
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 11554,
@@ -2143,6 +2327,14 @@ export const duma_2016_tic_464_region_56 = [
     "ballot": "single-member",
     "tikTvd": "2562000922506",
     "tikName": "Бузулукская городская",
+    "regionCode": "56",
+    "regionTvd": "100100067796040",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 143,
+      "oikTvd": "100100067796042",
+      "oikName": "Оренбургская область – Бугурусланский"
+    },
     "uikCount": 42,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 64002,
@@ -2237,6 +2429,14 @@ export const duma_2016_tic_464_region_56 = [
     "ballot": "single-member",
     "tikTvd": "2562000922507",
     "tikName": "Бузулукская",
+    "regionCode": "56",
+    "regionTvd": "100100067796040",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 143,
+      "oikTvd": "100100067796042",
+      "oikName": "Оренбургская область – Бугурусланский"
+    },
     "uikCount": 48,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 26500,
@@ -2337,6 +2537,14 @@ export const duma_2016_tic_464_region_56 = [
     "ballot": "single-member",
     "tikTvd": "2562000922508",
     "tikName": "Бугурусланская городская",
+    "regionCode": "56",
+    "regionTvd": "100100067796040",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 143,
+      "oikTvd": "100100067796042",
+      "oikName": "Оренбургская область – Бугурусланский"
+    },
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 39015,
@@ -2412,6 +2620,14 @@ export const duma_2016_tic_464_region_56 = [
     "ballot": "single-member",
     "tikTvd": "2562000922509",
     "tikName": "Бугурусланская",
+    "regionCode": "56",
+    "regionTvd": "100100067796040",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 143,
+      "oikTvd": "100100067796042",
+      "oikName": "Оренбургская область – Бугурусланский"
+    },
     "uikCount": 44,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 16513,
@@ -2508,6 +2724,14 @@ export const duma_2016_tic_464_region_56 = [
     "ballot": "single-member",
     "tikTvd": "2562000922510",
     "tikName": "Асекеевская",
+    "regionCode": "56",
+    "regionTvd": "100100067796040",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 143,
+      "oikTvd": "100100067796042",
+      "oikName": "Оренбургская область – Бугурусланский"
+    },
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 16963,
@@ -2594,6 +2818,14 @@ export const duma_2016_tic_464_region_56 = [
     "ballot": "single-member",
     "tikTvd": "2562000922511",
     "tikName": "Александровская",
+    "regionCode": "56",
+    "regionTvd": "100100067796040",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 143,
+      "oikTvd": "100100067796042",
+      "oikName": "Оренбургская область – Бугурусланский"
+    },
     "uikCount": 44,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 13960,
@@ -2690,6 +2922,14 @@ export const duma_2016_tic_464_region_56 = [
     "ballot": "single-member",
     "tikTvd": "2562000922512",
     "tikName": "Абдулинская городская",
+    "regionCode": "56",
+    "regionTvd": "100100067796040",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 143,
+      "oikTvd": "100100067796042",
+      "oikName": "Оренбургская область – Бугурусланский"
+    },
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 25818,
@@ -2776,6 +3016,14 @@ export const duma_2016_tic_464_region_56 = [
     "ballot": "single-member",
     "tikTvd": "2562000922513",
     "tikName": "ЗАТО Комаровская",
+    "regionCode": "56",
+    "regionTvd": "100100067796040",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100067796043",
+      "oikName": "Оренбургская область – Орский"
+    },
     "uikCount": 3,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 4452,
@@ -2829,6 +3077,14 @@ export const duma_2016_tic_464_region_56 = [
     "ballot": "single-member",
     "tikTvd": "2562000922514",
     "tikName": "Ясненская городская",
+    "regionCode": "56",
+    "regionTvd": "100100067796040",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100067796043",
+      "oikName": "Оренбургская область – Орский"
+    },
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 16639,
@@ -2900,6 +3156,14 @@ export const duma_2016_tic_464_region_56 = [
     "ballot": "single-member",
     "tikTvd": "2562000922515",
     "tikName": "Светлинская",
+    "regionCode": "56",
+    "regionTvd": "100100067796040",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100067796043",
+      "oikName": "Оренбургская область – Орский"
+    },
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 10750,
@@ -2963,6 +3227,14 @@ export const duma_2016_tic_464_region_56 = [
     "ballot": "single-member",
     "tikTvd": "2562000922516",
     "tikName": "Саракташская",
+    "regionCode": "56",
+    "regionTvd": "100100067796040",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100067796043",
+      "oikName": "Оренбургская область – Орский"
+    },
     "uikCount": 48,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 33052,
@@ -3061,6 +3333,14 @@ export const duma_2016_tic_464_region_56 = [
     "ballot": "single-member",
     "tikTvd": "2562000922517",
     "tikName": "Орск, Советская",
+    "regionCode": "56",
+    "regionTvd": "100100067796040",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100067796043",
+      "oikName": "Оренбургская область – Орский"
+    },
     "uikCount": 41,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 57519,
@@ -3152,6 +3432,14 @@ export const duma_2016_tic_464_region_56 = [
     "ballot": "single-member",
     "tikTvd": "2562000922518",
     "tikName": "Орск, Октябрьская",
+    "regionCode": "56",
+    "regionTvd": "100100067796040",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100067796043",
+      "oikName": "Оренбургская область – Орский"
+    },
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 70745,
@@ -3240,6 +3528,14 @@ export const duma_2016_tic_464_region_56 = [
     "ballot": "single-member",
     "tikTvd": "2562000922519",
     "tikName": "Орск, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100067796040",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100067796043",
+      "oikName": "Оренбургская область – Орский"
+    },
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 52674,
@@ -3323,6 +3619,14 @@ export const duma_2016_tic_464_region_56 = [
     "ballot": "single-member",
     "tikTvd": "2562000922520",
     "tikName": "Новотроицкая городская",
+    "regionCode": "56",
+    "regionTvd": "100100067796040",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100067796043",
+      "oikName": "Оренбургская область – Орский"
+    },
     "uikCount": 54,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 76397,
@@ -3427,6 +3731,14 @@ export const duma_2016_tic_464_region_56 = [
     "ballot": "single-member",
     "tikTvd": "2562000922521",
     "tikName": "Новоорская",
+    "regionCode": "56",
+    "regionTvd": "100100067796040",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100067796043",
+      "oikName": "Оренбургская область – Орский"
+    },
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 24924,
@@ -3499,6 +3811,14 @@ export const duma_2016_tic_464_region_56 = [
     "ballot": "single-member",
     "tikTvd": "2562000922522",
     "tikName": "Медногорская городская",
+    "regionCode": "56",
+    "regionTvd": "100100067796040",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100067796043",
+      "oikName": "Оренбургская область – Орский"
+    },
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 23259,
@@ -3570,6 +3890,14 @@ export const duma_2016_tic_464_region_56 = [
     "ballot": "single-member",
     "tikTvd": "2562000922523",
     "tikName": "Кувандыкская городская",
+    "regionCode": "56",
+    "regionTvd": "100100067796040",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100067796043",
+      "oikName": "Оренбургская область – Орский"
+    },
     "uikCount": 60,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 37576,
@@ -3680,6 +4008,14 @@ export const duma_2016_tic_464_region_56 = [
     "ballot": "single-member",
     "tikTvd": "2562000922524",
     "tikName": "Кваркенская",
+    "regionCode": "56",
+    "regionTvd": "100100067796040",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100067796043",
+      "oikName": "Оренбургская область – Орский"
+    },
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 15070,
@@ -3763,6 +4099,14 @@ export const duma_2016_tic_464_region_56 = [
     "ballot": "single-member",
     "tikTvd": "2562000922525",
     "tikName": "Домбаровская",
+    "regionCode": "56",
+    "regionTvd": "100100067796040",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100067796043",
+      "oikName": "Оренбургская область – Орский"
+    },
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 13124,
@@ -3842,6 +4186,14 @@ export const duma_2016_tic_464_region_56 = [
     "ballot": "single-member",
     "tikTvd": "2562000922526",
     "tikName": "Гайская городская",
+    "regionCode": "56",
+    "regionTvd": "100100067796040",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100067796043",
+      "oikName": "Оренбургская область – Орский"
+    },
     "uikCount": 49,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 39011,
@@ -3941,6 +4293,14 @@ export const duma_2016_tic_464_region_56 = [
     "ballot": "single-member",
     "tikTvd": "2562000922527",
     "tikName": "Беляевская",
+    "regionCode": "56",
+    "regionTvd": "100100067796040",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100067796043",
+      "oikName": "Оренбургская область – Орский"
+    },
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 14349,
@@ -4019,6 +4379,14 @@ export const duma_2016_tic_464_region_56 = [
     "ballot": "single-member",
     "tikTvd": "2562000922528",
     "tikName": "Акбулакская",
+    "regionCode": "56",
+    "regionTvd": "100100067796040",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100067796043",
+      "oikName": "Оренбургская область – Орский"
+    },
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 20630,
@@ -4099,6 +4467,14 @@ export const duma_2016_tic_464_region_56 = [
     "ballot": "single-member",
     "tikTvd": "2562000922529",
     "tikName": "Адамовская",
+    "regionCode": "56",
+    "regionTvd": "100100067796040",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100067796043",
+      "oikName": "Оренбургская область – Орский"
+    },
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 20912,

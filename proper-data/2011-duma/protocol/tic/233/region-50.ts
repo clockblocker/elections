@@ -11,6 +11,9 @@ export const duma_2011_tic_233_region_50 = [
     "ballot": "party",
     "tikTvd": "7507000503432",
     "tikName": "Дубненская городская",
+    "regionCode": "50",
+    "regionTvd": "100100028713391",
+    "regionName": "Московская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 55754,
@@ -88,6 +91,9 @@ export const duma_2011_tic_233_region_50 = [
     "ballot": "party",
     "tikTvd": "7507000503433",
     "tikName": "Королевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100028713391",
+    "regionName": "Московская область",
     "uikCount": 72,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 139339,
@@ -209,6 +215,9 @@ export const duma_2011_tic_233_region_50 = [
     "ballot": "party",
     "tikTvd": "7507000503434",
     "tikName": "Юбилейная городская",
+    "regionCode": "50",
+    "regionTvd": "100100028713391",
+    "regionName": "Московская область",
     "uikCount": 10,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 27391,
@@ -268,6 +277,9 @@ export const duma_2011_tic_233_region_50 = [
     "ballot": "party",
     "tikTvd": "7507000503435",
     "tikName": "Дмитровская",
+    "regionCode": "50",
+    "regionTvd": "100100028713391",
+    "regionName": "Московская область",
     "uikCount": 95,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 120164,
@@ -412,6 +424,9 @@ export const duma_2011_tic_233_region_50 = [
     "ballot": "party",
     "tikTvd": "7507000503436",
     "tikName": "Пушкинская",
+    "regionCode": "50",
+    "regionTvd": "100100028713391",
+    "regionName": "Московская область",
     "uikCount": 79,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 133386,
@@ -540,6 +555,9 @@ export const duma_2011_tic_233_region_50 = [
     "ballot": "party",
     "tikTvd": "7507000503437",
     "tikName": "Сергиево-Посадская",
+    "regionCode": "50",
+    "regionTvd": "100100028713391",
+    "regionName": "Московская область",
     "uikCount": 115,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 202472,
@@ -704,6 +722,9 @@ export const duma_2011_tic_233_region_50 = [
     "ballot": "party",
     "tikTvd": "7507000503438",
     "tikName": "Талдомская",
+    "regionCode": "50",
+    "regionTvd": "100100028713391",
+    "regionName": "Московская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 38692,
@@ -783,6 +804,9 @@ export const duma_2011_tic_233_region_50 = [
     "ballot": "party",
     "tikTvd": "7507000503439",
     "tikName": "Власихинская поселковая",
+    "regionCode": "50",
+    "regionTvd": "100100028713391",
+    "regionName": "Московская область",
     "uikCount": 7,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 18448,
@@ -839,6 +863,9 @@ export const duma_2011_tic_233_region_50 = [
     "ballot": "party",
     "tikTvd": "7507000503440",
     "tikName": "Восходненская поселковая",
+    "regionCode": "50",
+    "regionTvd": "100100028713391",
+    "regionName": "Московская область",
     "uikCount": 1,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 1549,
@@ -889,6 +916,9 @@ export const duma_2011_tic_233_region_50 = [
     "ballot": "party",
     "tikTvd": "7507000503441",
     "tikName": "Звенигородская городская",
+    "regionCode": "50",
+    "regionTvd": "100100028713391",
+    "regionName": "Московская область",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 14500,
@@ -949,6 +979,9 @@ export const duma_2011_tic_233_region_50 = [
     "ballot": "party",
     "tikTvd": "7507000503442",
     "tikName": "Краснознаменская городская",
+    "regionCode": "50",
+    "regionTvd": "100100028713391",
+    "regionName": "Московская область",
     "uikCount": 10,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 30703,
@@ -1008,6 +1041,9 @@ export const duma_2011_tic_233_region_50 = [
     "ballot": "party",
     "tikTvd": "7507000503443",
     "tikName": "Молодежная поселковая",
+    "regionCode": "50",
+    "regionTvd": "100100028713391",
+    "regionName": "Московская область",
     "uikCount": 1,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 2338,
@@ -1058,6 +1094,9 @@ export const duma_2011_tic_233_region_50 = [
     "ballot": "party",
     "tikTvd": "7507000503444",
     "tikName": "Троицкая городская",
+    "regionCode": "50",
+    "regionTvd": "100100028713391",
+    "regionName": "Московская область",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 32148,
@@ -1121,6 +1160,9 @@ export const duma_2011_tic_233_region_50 = [
     "ballot": "party",
     "tikTvd": "7507000503445",
     "tikName": "Истринская",
+    "regionCode": "50",
+    "regionTvd": "100100028713391",
+    "regionName": "Московская область",
     "uikCount": 55,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 96363,
@@ -1225,6 +1267,9 @@ export const duma_2011_tic_233_region_50 = [
     "ballot": "party",
     "tikTvd": "7507000503453",
     "tikName": "Можайская",
+    "regionCode": "50",
+    "regionTvd": "100100028713391",
+    "regionName": "Московская область",
     "uikCount": 61,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 57171,
@@ -1335,6 +1380,9 @@ export const duma_2011_tic_233_region_50 = [
     "ballot": "party",
     "tikTvd": "7507000503454",
     "tikName": "Наро-Фоминская",
+    "regionCode": "50",
+    "regionTvd": "100100028713391",
+    "regionName": "Московская область",
     "uikCount": 96,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 154167,
@@ -1480,6 +1528,9 @@ export const duma_2011_tic_233_region_50 = [
     "ballot": "party",
     "tikTvd": "7507000503455",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100028713391",
+    "regionName": "Московская область",
     "uikCount": 127,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 231756,
@@ -1656,6 +1707,9 @@ export const duma_2011_tic_233_region_50 = [
     "ballot": "party",
     "tikTvd": "7507000503456",
     "tikName": "Рузская",
+    "regionCode": "50",
+    "regionTvd": "100100028713391",
+    "regionName": "Московская область",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 55647,
@@ -1743,6 +1797,9 @@ export const duma_2011_tic_233_region_50 = [
     "ballot": "party",
     "tikTvd": "7507000503472",
     "tikName": "Коломенская городская",
+    "regionCode": "50",
+    "regionTvd": "100100028713391",
+    "regionName": "Московская область",
     "uikCount": 73,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 121816,
@@ -1865,6 +1922,9 @@ export const duma_2011_tic_233_region_50 = [
     "ballot": "party",
     "tikTvd": "7507000503473",
     "tikName": "Орехово-Зуевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100028713391",
+    "regionName": "Московская область",
     "uikCount": 54,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 98793,
@@ -1968,6 +2028,9 @@ export const duma_2011_tic_233_region_50 = [
     "ballot": "party",
     "tikTvd": "7507000503474",
     "tikName": "Рошальская городская",
+    "regionCode": "50",
+    "regionTvd": "100100028713391",
+    "regionName": "Московская область",
     "uikCount": 8,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 17557,
@@ -2025,6 +2088,9 @@ export const duma_2011_tic_233_region_50 = [
     "ballot": "party",
     "tikTvd": "7507000503475",
     "tikName": "Воскресенская",
+    "regionCode": "50",
+    "regionTvd": "100100028713391",
+    "regionName": "Московская область",
     "uikCount": 82,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 116984,
@@ -2156,6 +2222,9 @@ export const duma_2011_tic_233_region_50 = [
     "ballot": "party",
     "tikTvd": "7507000503476",
     "tikName": "Егорьевская",
+    "regionCode": "50",
+    "regionTvd": "100100028713391",
+    "regionName": "Московская область",
     "uikCount": 60,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 81307,
@@ -2265,6 +2334,9 @@ export const duma_2011_tic_233_region_50 = [
     "ballot": "party",
     "tikTvd": "7507000503477",
     "tikName": "Коломенская",
+    "regionCode": "50",
+    "regionTvd": "100100028713391",
+    "regionName": "Московская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 35453,
@@ -2348,6 +2420,9 @@ export const duma_2011_tic_233_region_50 = [
     "ballot": "party",
     "tikTvd": "7507000503478",
     "tikName": "Луховицкая",
+    "regionCode": "50",
+    "regionTvd": "100100028713391",
+    "regionName": "Московская область",
     "uikCount": 55,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 51295,
@@ -2452,6 +2527,9 @@ export const duma_2011_tic_233_region_50 = [
     "ballot": "party",
     "tikTvd": "7507000503492",
     "tikName": "Орехово-Зуевская",
+    "regionCode": "50",
+    "regionTvd": "100100028713391",
+    "regionName": "Московская область",
     "uikCount": 77,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 96405,
@@ -2578,6 +2656,9 @@ export const duma_2011_tic_233_region_50 = [
     "ballot": "party",
     "tikTvd": "7507000503493",
     "tikName": "Шатурская",
+    "regionCode": "50",
+    "regionTvd": "100100028713391",
+    "regionName": "Московская область",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 55591,
@@ -2673,6 +2754,9 @@ export const duma_2011_tic_233_region_50 = [
     "ballot": "party",
     "tikTvd": "7507000503494",
     "tikName": "Балашихинская городская",
+    "regionCode": "50",
+    "regionTvd": "100100028713391",
+    "regionName": "Московская область",
     "uikCount": 80,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 178658,
@@ -2802,6 +2886,9 @@ export const duma_2011_tic_233_region_50 = [
     "ballot": "party",
     "tikTvd": "7507000503495",
     "tikName": "Железнодорожная городская",
+    "regionCode": "50",
+    "regionTvd": "100100028713391",
+    "regionName": "Московская область",
     "uikCount": 52,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 104937,
@@ -2903,6 +2990,9 @@ export const duma_2011_tic_233_region_50 = [
     "ballot": "party",
     "tikTvd": "7507000503496",
     "tikName": "Котельниковская городская",
+    "regionCode": "50",
+    "regionTvd": "100100028713391",
+    "regionName": "Московская область",
     "uikCount": 9,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 19896,
@@ -2961,6 +3051,9 @@ export const duma_2011_tic_233_region_50 = [
     "ballot": "party",
     "tikTvd": "7507000503497",
     "tikName": "Реутовская городская",
+    "regionCode": "50",
+    "regionTvd": "100100028713391",
+    "regionName": "Московская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 67262,
@@ -3050,6 +3143,9 @@ export const duma_2011_tic_233_region_50 = [
     "ballot": "party",
     "tikTvd": "7507000503498",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100028713391",
+    "regionName": "Московская область",
     "uikCount": 115,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 208473,
@@ -3214,6 +3310,9 @@ export const duma_2011_tic_233_region_50 = [
     "ballot": "party",
     "tikTvd": "7507000503499",
     "tikName": "Мытищинская",
+    "regionCode": "50",
+    "regionTvd": "100100028713391",
+    "regionName": "Московская область",
     "uikCount": 94,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 162128,
@@ -3357,6 +3456,9 @@ export const duma_2011_tic_233_region_50 = [
     "ballot": "party",
     "tikTvd": "7507000503500",
     "tikName": "Звездный городок поселковая",
+    "regionCode": "50",
+    "regionTvd": "100100028713391",
+    "regionName": "Московская область",
     "uikCount": 3,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 5586,
@@ -3409,6 +3511,9 @@ export const duma_2011_tic_233_region_50 = [
     "ballot": "party",
     "tikTvd": "7507000503501",
     "tikName": "Ивантеевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100028713391",
+    "regionName": "Московская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 45528,
@@ -3478,6 +3583,9 @@ export const duma_2011_tic_233_region_50 = [
     "ballot": "party",
     "tikTvd": "7507000503502",
     "tikName": "Красноармейская городская",
+    "regionCode": "50",
+    "regionTvd": "100100028713391",
+    "regionName": "Московская область",
     "uikCount": 8,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 21395,
@@ -3535,6 +3643,9 @@ export const duma_2011_tic_233_region_50 = [
     "ballot": "party",
     "tikTvd": "7507000503503",
     "tikName": "Лосино-Петровская городская",
+    "regionCode": "50",
+    "regionTvd": "100100028713391",
+    "regionName": "Московская область",
     "uikCount": 9,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 16449,
@@ -3593,6 +3704,9 @@ export const duma_2011_tic_233_region_50 = [
     "ballot": "party",
     "tikTvd": "7507000503504",
     "tikName": "Фрязинская городская",
+    "regionCode": "50",
+    "regionTvd": "100100028713391",
+    "regionName": "Московская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 46366,
@@ -3660,6 +3774,9 @@ export const duma_2011_tic_233_region_50 = [
     "ballot": "party",
     "tikTvd": "7507000503505",
     "tikName": "Черноголовская городская",
+    "regionCode": "50",
+    "regionTvd": "100100028713391",
+    "regionName": "Московская область",
     "uikCount": 10,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 18561,
@@ -3719,6 +3836,9 @@ export const duma_2011_tic_233_region_50 = [
     "ballot": "party",
     "tikTvd": "7507000503506",
     "tikName": "Электрогорская городская",
+    "regionCode": "50",
+    "regionTvd": "100100028713391",
+    "regionName": "Московская область",
     "uikCount": 7,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 18289,
@@ -3775,6 +3895,9 @@ export const duma_2011_tic_233_region_50 = [
     "ballot": "party",
     "tikTvd": "7507000503507",
     "tikName": "Электростальская городская",
+    "regionCode": "50",
+    "regionTvd": "100100028713391",
+    "regionName": "Московская область",
     "uikCount": 52,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 120655,
@@ -3876,6 +3999,9 @@ export const duma_2011_tic_233_region_50 = [
     "ballot": "party",
     "tikTvd": "7507000503508",
     "tikName": "Ногинская",
+    "regionCode": "50",
+    "regionTvd": "100100028713391",
+    "regionName": "Московская область",
     "uikCount": 117,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 175035,
@@ -4042,6 +4168,9 @@ export const duma_2011_tic_233_region_50 = [
     "ballot": "party",
     "tikTvd": "7507000503509",
     "tikName": "Павлово-Посадская",
+    "regionCode": "50",
+    "regionTvd": "100100028713391",
+    "regionName": "Московская область",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 66882,
@@ -4141,6 +4270,9 @@ export const duma_2011_tic_233_region_50 = [
     "ballot": "party",
     "tikTvd": "7507000503510",
     "tikName": "Щелковская",
+    "regionCode": "50",
+    "regionTvd": "100100028713391",
+    "regionName": "Московская область",
     "uikCount": 104,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 158161,
@@ -4294,6 +4426,9 @@ export const duma_2011_tic_233_region_50 = [
     "ballot": "party",
     "tikTvd": "7507000503511",
     "tikName": "Дзержинская городская",
+    "regionCode": "50",
+    "regionTvd": "100100028713391",
+    "regionName": "Московская область",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 35825,
@@ -4356,6 +4491,9 @@ export const duma_2011_tic_233_region_50 = [
     "ballot": "party",
     "tikTvd": "7507000503512",
     "tikName": "Домодедовская городская",
+    "regionCode": "50",
+    "regionTvd": "100100028713391",
+    "regionName": "Московская область",
     "uikCount": 71,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 110756,
@@ -4476,6 +4614,9 @@ export const duma_2011_tic_233_region_50 = [
     "ballot": "party",
     "tikTvd": "7507000503513",
     "tikName": "Климовская городская",
+    "regionCode": "50",
+    "regionTvd": "100100028713391",
+    "regionName": "Московская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 47631,
@@ -4543,6 +4684,9 @@ export const duma_2011_tic_233_region_50 = [
     "ballot": "party",
     "tikTvd": "7507000503514",
     "tikName": "Лыткаринская городская",
+    "regionCode": "50",
+    "regionTvd": "100100028713391",
+    "regionName": "Московская область",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 41181,
@@ -4609,6 +4753,9 @@ export const duma_2011_tic_233_region_50 = [
     "ballot": "party",
     "tikTvd": "7507000503515",
     "tikName": "Подольская городская",
+    "regionCode": "50",
+    "regionTvd": "100100028713391",
+    "regionName": "Московская область",
     "uikCount": 80,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 160497,
@@ -4738,6 +4885,9 @@ export const duma_2011_tic_233_region_50 = [
     "ballot": "party",
     "tikTvd": "7507000503516",
     "tikName": "Щербинская городская",
+    "regionCode": "50",
+    "regionTvd": "100100028713391",
+    "regionName": "Московская область",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 26297,
@@ -4798,6 +4948,9 @@ export const duma_2011_tic_233_region_50 = [
     "ballot": "party",
     "tikTvd": "7507000503517",
     "tikName": "Ленинская",
+    "regionCode": "50",
+    "regionTvd": "100100028713391",
+    "regionName": "Московская область",
     "uikCount": 72,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 127605,
@@ -4919,6 +5072,9 @@ export const duma_2011_tic_233_region_50 = [
     "ballot": "party",
     "tikTvd": "7507000503518",
     "tikName": "Подольская",
+    "regionCode": "50",
+    "regionTvd": "100100028713391",
+    "regionName": "Московская область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 67566,
@@ -5004,6 +5160,9 @@ export const duma_2011_tic_233_region_50 = [
     "ballot": "party",
     "tikTvd": "7507000503519",
     "tikName": "Чеховская",
+    "regionCode": "50",
+    "regionTvd": "100100028713391",
+    "regionName": "Московская область",
     "uikCount": 51,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 97388,
@@ -5104,6 +5263,9 @@ export const duma_2011_tic_233_region_50 = [
     "ballot": "party",
     "tikTvd": "7507000503520",
     "tikName": "Бронницкая городская",
+    "regionCode": "50",
+    "regionTvd": "100100028713391",
+    "regionName": "Московская область",
     "uikCount": 8,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 15912,
@@ -5161,6 +5323,9 @@ export const duma_2011_tic_233_region_50 = [
     "ballot": "party",
     "tikTvd": "7507000503521",
     "tikName": "Жуковская городская",
+    "regionCode": "50",
+    "regionTvd": "100100028713391",
+    "regionName": "Московская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 80416,
@@ -5244,6 +5409,9 @@ export const duma_2011_tic_233_region_50 = [
     "ballot": "party",
     "tikTvd": "7507000503522",
     "tikName": "Протвинская городская",
+    "regionCode": "50",
+    "regionTvd": "100100028713391",
+    "regionName": "Московская область",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 30968,
@@ -5305,6 +5473,9 @@ export const duma_2011_tic_233_region_50 = [
     "ballot": "party",
     "tikTvd": "7507000503523",
     "tikName": "Пущинская городская",
+    "regionCode": "50",
+    "regionTvd": "100100028713391",
+    "regionName": "Московская область",
     "uikCount": 7,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 16850,
@@ -5361,6 +5532,9 @@ export const duma_2011_tic_233_region_50 = [
     "ballot": "party",
     "tikTvd": "7507000503526",
     "tikName": "Серпуховская городская",
+    "regionCode": "50",
+    "regionTvd": "100100028713391",
+    "regionName": "Московская область",
     "uikCount": 56,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 107091,
@@ -5466,6 +5640,9 @@ export const duma_2011_tic_233_region_50 = [
     "ballot": "party",
     "tikTvd": "7507000503527",
     "tikName": "Зарайская",
+    "regionCode": "50",
+    "regionTvd": "100100028713391",
+    "regionName": "Московская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 33948,
@@ -5545,6 +5722,9 @@ export const duma_2011_tic_233_region_50 = [
     "ballot": "party",
     "tikTvd": "7507000503528",
     "tikName": "Каширская",
+    "regionCode": "50",
+    "regionTvd": "100100028713391",
+    "regionName": "Московская область",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 59940,
@@ -5638,6 +5818,9 @@ export const duma_2011_tic_233_region_50 = [
     "ballot": "party",
     "tikTvd": "7507000503529",
     "tikName": "Озерская",
+    "regionCode": "50",
+    "regionTvd": "100100028713391",
+    "regionName": "Московская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 30476,
@@ -5715,6 +5898,9 @@ export const duma_2011_tic_233_region_50 = [
     "ballot": "party",
     "tikTvd": "7507000503530",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100028713391",
+    "regionName": "Московская область",
     "uikCount": 117,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 171063,
@@ -5881,6 +6067,9 @@ export const duma_2011_tic_233_region_50 = [
     "ballot": "party",
     "tikTvd": "7507000503531",
     "tikName": "Серебряно-Прудская",
+    "regionCode": "50",
+    "regionTvd": "100100028713391",
+    "regionName": "Московская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 19936,
@@ -5951,6 +6140,9 @@ export const duma_2011_tic_233_region_50 = [
     "ballot": "party",
     "tikTvd": "7507000503532",
     "tikName": "Серпуховская",
+    "regionCode": "50",
+    "regionTvd": "100100028713391",
+    "regionName": "Московская область",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 32758,
@@ -6039,6 +6231,9 @@ export const duma_2011_tic_233_region_50 = [
     "ballot": "party",
     "tikTvd": "7507000503533",
     "tikName": "Ступинская",
+    "regionCode": "50",
+    "regionTvd": "100100028713391",
+    "regionName": "Московская область",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 90419,
@@ -6138,6 +6333,9 @@ export const duma_2011_tic_233_region_50 = [
     "ballot": "party",
     "tikTvd": "7507000503534",
     "tikName": "Долгопрудненская городская",
+    "regionCode": "50",
+    "regionTvd": "100100028713391",
+    "regionName": "Московская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 69916,
@@ -6227,6 +6425,9 @@ export const duma_2011_tic_233_region_50 = [
     "ballot": "party",
     "tikTvd": "7507000503535",
     "tikName": "Лобненская городская",
+    "regionCode": "50",
+    "regionTvd": "100100028713391",
+    "regionName": "Московская область",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 55106,
@@ -6309,6 +6510,9 @@ export const duma_2011_tic_233_region_50 = [
     "ballot": "party",
     "tikTvd": "7507000503536",
     "tikName": "Химкинская городская",
+    "regionCode": "50",
+    "regionTvd": "100100028713391",
+    "regionName": "Московская область",
     "uikCount": 73,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 155212,
@@ -6431,6 +6635,9 @@ export const duma_2011_tic_233_region_50 = [
     "ballot": "party",
     "tikTvd": "7507000503537",
     "tikName": "Волоколамская",
+    "regionCode": "50",
+    "regionTvd": "100100028713391",
+    "regionName": "Московская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 39876,
@@ -6511,6 +6718,9 @@ export const duma_2011_tic_233_region_50 = [
     "ballot": "party",
     "tikTvd": "7507000503538",
     "tikName": "Клинская",
+    "regionCode": "50",
+    "regionTvd": "100100028713391",
+    "regionName": "Московская область",
     "uikCount": 77,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 107013,
@@ -6637,6 +6847,9 @@ export const duma_2011_tic_233_region_50 = [
     "ballot": "party",
     "tikTvd": "7507000503539",
     "tikName": "Красногорская",
+    "regionCode": "50",
+    "regionTvd": "100100028713391",
+    "regionName": "Московская область",
     "uikCount": 75,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 146978,
@@ -6761,6 +6974,9 @@ export const duma_2011_tic_233_region_50 = [
     "ballot": "party",
     "tikTvd": "7507000503540",
     "tikName": "Лотошинская",
+    "regionCode": "50",
+    "regionTvd": "100100028713391",
+    "regionName": "Московская область",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 14909,
@@ -6824,6 +7040,9 @@ export const duma_2011_tic_233_region_50 = [
     "ballot": "party",
     "tikTvd": "7507000503541",
     "tikName": "Солнечногорская",
+    "regionCode": "50",
+    "regionTvd": "100100028713391",
+    "regionName": "Московская область",
     "uikCount": 69,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 112351,
@@ -6942,6 +7161,9 @@ export const duma_2011_tic_233_region_50 = [
     "ballot": "party",
     "tikTvd": "7507000503542",
     "tikName": "Шаховская",
+    "regionCode": "50",
+    "regionTvd": "100100028713391",
+    "regionName": "Московская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 19869,

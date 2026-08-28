@@ -11,6 +11,14 @@ export const duma_2016_tic_464_region_11 = [
     "ballot": "single-member",
     "tikTvd": "2112000769764",
     "tikName": "Сыктывкар, Эжвинская",
+    "regionCode": "11",
+    "regionTvd": "100100067795882",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100067795883",
+      "oikName": "Республика Коми – Сыктывкарский"
+    },
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 40816,
@@ -82,6 +90,14 @@ export const duma_2016_tic_464_region_11 = [
     "ballot": "single-member",
     "tikTvd": "2112000769765",
     "tikName": "Ухтинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100067795882",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100067795883",
+      "oikName": "Республика Коми – Сыктывкарский"
+    },
     "uikCount": 58,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 89317,
@@ -187,6 +203,14 @@ export const duma_2016_tic_464_region_11 = [
     "ballot": "single-member",
     "tikTvd": "2112000769766",
     "tikName": "Усть-Цилемская",
+    "regionCode": "11",
+    "regionTvd": "100100067795882",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100067795883",
+      "oikName": "Республика Коми – Сыктывкарский"
+    },
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 10820,
@@ -255,6 +279,14 @@ export const duma_2016_tic_464_region_11 = [
     "ballot": "single-member",
     "tikTvd": "2112000769767",
     "tikName": "Усть-Куломская",
+    "regionCode": "11",
+    "regionTvd": "100100067795882",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100067795883",
+      "oikName": "Республика Коми – Сыктывкарский"
+    },
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 22588,
@@ -338,6 +370,14 @@ export const duma_2016_tic_464_region_11 = [
     "ballot": "single-member",
     "tikTvd": "2112000769768",
     "tikName": "Усть-Вымская",
+    "regionCode": "11",
+    "regionTvd": "100100067795882",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100067795883",
+      "oikName": "Республика Коми – Сыктывкарский"
+    },
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 22671,
@@ -410,6 +450,14 @@ export const duma_2016_tic_464_region_11 = [
     "ballot": "single-member",
     "tikTvd": "2112000769769",
     "tikName": "Усинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100067795882",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100067795883",
+      "oikName": "Республика Коми – Сыктывкарский"
+    },
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 33107,
@@ -488,6 +536,14 @@ export const duma_2016_tic_464_region_11 = [
     "ballot": "single-member",
     "tikTvd": "2112000769770",
     "tikName": "Удорская",
+    "regionCode": "11",
+    "regionTvd": "100100067795882",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100067795883",
+      "oikName": "Республика Коми – Сыктывкарский"
+    },
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 13874,
@@ -560,6 +616,14 @@ export const duma_2016_tic_464_region_11 = [
     "ballot": "single-member",
     "tikTvd": "2112000769771",
     "tikName": "Троицко-Печорская",
+    "regionCode": "11",
+    "regionTvd": "100100067795882",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100067795883",
+      "oikName": "Республика Коми – Сыктывкарский"
+    },
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 11865,
@@ -631,6 +695,14 @@ export const duma_2016_tic_464_region_11 = [
     "ballot": "single-member",
     "tikTvd": "2112000769772",
     "tikName": "Сысольская",
+    "regionCode": "11",
+    "regionTvd": "100100067795882",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100067795883",
+      "oikName": "Республика Коми – Сыктывкарский"
+    },
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 11852,
@@ -700,6 +772,14 @@ export const duma_2016_tic_464_region_11 = [
     "ballot": "single-member",
     "tikTvd": "2112000769773",
     "tikName": "Сыктывкарская городская",
+    "regionCode": "11",
+    "regionTvd": "100100067795882",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100067795883",
+      "oikName": "Республика Коми – Сыктывкарский"
+    },
     "uikCount": 85,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 148615,
@@ -832,6 +912,14 @@ export const duma_2016_tic_464_region_11 = [
     "ballot": "single-member",
     "tikTvd": "2112000769774",
     "tikName": "Сыктывдинская",
+    "regionCode": "11",
+    "regionTvd": "100100067795882",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100067795883",
+      "oikName": "Республика Коми – Сыктывкарский"
+    },
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 19475,
@@ -903,6 +991,14 @@ export const duma_2016_tic_464_region_11 = [
     "ballot": "single-member",
     "tikTvd": "2112000769775",
     "tikName": "Сосногорская городская",
+    "regionCode": "11",
+    "regionTvd": "100100067795882",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100067795883",
+      "oikName": "Республика Коми – Сыктывкарский"
+    },
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 36426,
@@ -977,6 +1073,14 @@ export const duma_2016_tic_464_region_11 = [
     "ballot": "single-member",
     "tikTvd": "2112000769776",
     "tikName": "Прилузская",
+    "regionCode": "11",
+    "regionTvd": "100100067795882",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100067795883",
+      "oikName": "Республика Коми – Сыктывкарский"
+    },
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 17567,
@@ -1063,6 +1167,14 @@ export const duma_2016_tic_464_region_11 = [
     "ballot": "single-member",
     "tikTvd": "2112000769777",
     "tikName": "Печорская городская",
+    "regionCode": "11",
+    "regionTvd": "100100067795882",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100067795883",
+      "oikName": "Республика Коми – Сыктывкарский"
+    },
     "uikCount": 49,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 45816,
@@ -1159,6 +1271,14 @@ export const duma_2016_tic_464_region_11 = [
     "ballot": "single-member",
     "tikTvd": "2112000769778",
     "tikName": "Корткеросская",
+    "regionCode": "11",
+    "regionTvd": "100100067795882",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100067795883",
+      "oikName": "Республика Коми – Сыктывкарский"
+    },
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 17819,
@@ -1236,6 +1356,14 @@ export const duma_2016_tic_464_region_11 = [
     "ballot": "single-member",
     "tikTvd": "2112000769779",
     "tikName": "Койгородская",
+    "regionCode": "11",
+    "regionTvd": "100100067795882",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100067795883",
+      "oikName": "Республика Коми – Сыктывкарский"
+    },
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 7216,
@@ -1298,6 +1426,14 @@ export const duma_2016_tic_464_region_11 = [
     "ballot": "single-member",
     "tikTvd": "2112000769780",
     "tikName": "Княжпогостская",
+    "regionCode": "11",
+    "regionTvd": "100100067795882",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100067795883",
+      "oikName": "Республика Коми – Сыктывкарский"
+    },
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 16398,
@@ -1369,6 +1505,14 @@ export const duma_2016_tic_464_region_11 = [
     "ballot": "single-member",
     "tikTvd": "2112000769781",
     "tikName": "Интинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100067795882",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100067795883",
+      "oikName": "Республика Коми – Сыктывкарский"
+    },
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 27464,
@@ -1440,6 +1584,14 @@ export const duma_2016_tic_464_region_11 = [
     "ballot": "single-member",
     "tikTvd": "2112000769782",
     "tikName": "Ижемская",
+    "regionCode": "11",
+    "regionTvd": "100100067795882",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100067795883",
+      "oikName": "Республика Коми – Сыктывкарский"
+    },
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 15018,
@@ -1511,6 +1663,14 @@ export const duma_2016_tic_464_region_11 = [
     "ballot": "single-member",
     "tikTvd": "2112000769783",
     "tikName": "Вуктыльская городская",
+    "regionCode": "11",
+    "regionTvd": "100100067795882",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100067795883",
+      "oikName": "Республика Коми – Сыктывкарский"
+    },
     "uikCount": 11,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 11418,
@@ -1569,6 +1729,14 @@ export const duma_2016_tic_464_region_11 = [
     "ballot": "single-member",
     "tikTvd": "2112000769784",
     "tikName": "Воркутинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100067795882",
+    "regionName": "Республика Коми",
+    "district": {
+      "districtNumber": 18,
+      "oikTvd": "100100067795883",
+      "oikName": "Республика Коми – Сыктывкарский"
+    },
     "uikCount": 51,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 68983,

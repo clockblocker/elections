@@ -11,6 +11,9 @@ export const duma_2011_tic_233_region_7 = [
     "ballot": "party",
     "tikTvd": "2072000184613",
     "tikName": "Прохладненская",
+    "regionCode": "7",
+    "regionTvd": "100100028713317",
+    "regionName": "Кабардино-Балкарская Республика",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 32432,
@@ -93,6 +96,9 @@ export const duma_2011_tic_233_region_7 = [
     "ballot": "party",
     "tikTvd": "2072000184614",
     "tikName": "Черекская",
+    "regionCode": "7",
+    "regionTvd": "100100028713317",
+    "regionName": "Кабардино-Балкарская Республика",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 18309,
@@ -160,6 +166,9 @@ export const duma_2011_tic_233_region_7 = [
     "ballot": "party",
     "tikTvd": "2072000184615",
     "tikName": "Урванская",
+    "regionCode": "7",
+    "regionTvd": "100100028713317",
+    "regionName": "Кабардино-Балкарская Республика",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 42920,
@@ -232,6 +241,9 @@ export const duma_2011_tic_233_region_7 = [
     "ballot": "party",
     "tikTvd": "2072000184616",
     "tikName": "Чегемская",
+    "regionCode": "7",
+    "regionTvd": "100100028713317",
+    "regionName": "Кабардино-Балкарская Республика",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 39512,
@@ -299,6 +311,9 @@ export const duma_2011_tic_233_region_7 = [
     "ballot": "party",
     "tikTvd": "2072000184617",
     "tikName": "Терская",
+    "regionCode": "7",
+    "regionTvd": "100100028713317",
+    "regionName": "Кабардино-Балкарская Республика",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 35250,
@@ -371,6 +386,9 @@ export const duma_2011_tic_233_region_7 = [
     "ballot": "party",
     "tikTvd": "2072000184618",
     "tikName": "Эльбрусская",
+    "regionCode": "7",
+    "regionTvd": "100100028713317",
+    "regionName": "Кабардино-Балкарская Республика",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 21089,
@@ -441,6 +459,9 @@ export const duma_2011_tic_233_region_7 = [
     "ballot": "party",
     "tikTvd": "2072000184619",
     "tikName": "Прохладненская городская",
+    "regionCode": "7",
+    "regionTvd": "100100028713317",
+    "regionName": "Кабардино-Балкарская Республика",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 40933,
@@ -511,6 +532,9 @@ export const duma_2011_tic_233_region_7 = [
     "ballot": "party",
     "tikTvd": "2072000184620",
     "tikName": "Майская",
+    "regionCode": "7",
+    "regionTvd": "100100028713317",
+    "regionName": "Кабардино-Балкарская Республика",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 26677,
@@ -579,6 +603,9 @@ export const duma_2011_tic_233_region_7 = [
     "ballot": "party",
     "tikTvd": "2072000184621",
     "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100028713317",
+    "regionName": "Кабардино-Балкарская Республика",
     "uikCount": 102,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 160536,
@@ -730,6 +757,9 @@ export const duma_2011_tic_233_region_7 = [
     "ballot": "party",
     "tikTvd": "2072000184622",
     "tikName": "Зольская",
+    "regionCode": "7",
+    "regionTvd": "100100028713317",
+    "regionName": "Кабардино-Балкарская Республика",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 29284,
@@ -804,6 +834,9 @@ export const duma_2011_tic_233_region_7 = [
     "ballot": "party",
     "tikTvd": "2072000184623",
     "tikName": "Баксанская",
+    "regionCode": "7",
+    "regionTvd": "100100028713317",
+    "regionName": "Кабардино-Балкарская Республика",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 38100,
@@ -879,6 +912,9 @@ export const duma_2011_tic_233_region_7 = [
     "ballot": "party",
     "tikTvd": "2072000184624",
     "tikName": "Баксанская городская",
+    "regionCode": "7",
+    "regionTvd": "100100028713317",
+    "regionName": "Кабардино-Балкарская Республика",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 28103,
@@ -944,6 +980,9 @@ export const duma_2011_tic_233_region_7 = [
     "ballot": "party",
     "tikTvd": "2072000184625",
     "tikName": "Лескенская",
+    "regionCode": "7",
+    "regionTvd": "100100028713317",
+    "regionName": "Кабардино-Балкарская Республика",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 18467,

@@ -11,6 +11,9 @@ export const president_2004_tic_227_region_12 = [
     "ballot": "presidential",
     "tikTvd": "212200070898",
     "tikName": "Волжская городская",
+    "regionCode": "12",
+    "regionTvd": "1001000882987",
+    "regionName": "Республика Марий Эл",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список": 47776,
@@ -85,6 +88,9 @@ export const president_2004_tic_227_region_12 = [
     "ballot": "presidential",
     "tikTvd": "212200070899",
     "tikName": "Звениговская",
+    "regionCode": "12",
+    "regionTvd": "1001000882987",
+    "regionName": "Республика Марий Эл",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список": 32232,
@@ -169,6 +175,9 @@ export const president_2004_tic_227_region_12 = [
     "ballot": "presidential",
     "tikTvd": "212200070900",
     "tikName": "Йошкар-Олинская городская",
+    "regionCode": "12",
+    "regionTvd": "1001000882987",
+    "regionName": "Республика Марий Эл",
     "uikCount": 124,
     "accounting": {
       "Число избирателей, внесенных в список": 223775,
@@ -341,6 +350,9 @@ export const president_2004_tic_227_region_12 = [
     "ballot": "presidential",
     "tikTvd": "212200070901",
     "tikName": "Килемарская",
+    "regionCode": "12",
+    "regionTvd": "1001000882987",
+    "regionName": "Республика Марий Эл",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список": 9774,
@@ -409,6 +421,9 @@ export const president_2004_tic_227_region_12 = [
     "ballot": "presidential",
     "tikTvd": "212200070902",
     "tikName": "Козьмодемьянская городская",
+    "regionCode": "12",
+    "regionTvd": "1001000882987",
+    "regionName": "Республика Марий Эл",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список": 18150,
@@ -476,6 +491,9 @@ export const president_2004_tic_227_region_12 = [
     "ballot": "presidential",
     "tikTvd": "212200070903",
     "tikName": "Куженерская",
+    "regionCode": "12",
+    "regionTvd": "1001000882987",
+    "regionName": "Республика Марий Эл",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список": 11768,
@@ -542,6 +560,9 @@ export const president_2004_tic_227_region_12 = [
     "ballot": "presidential",
     "tikTvd": "212200070904",
     "tikName": "Мари-Турекская",
+    "regionCode": "12",
+    "regionTvd": "1001000882987",
+    "regionName": "Республика Марий Эл",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список": 17697,
@@ -616,6 +637,9 @@ export const president_2004_tic_227_region_12 = [
     "ballot": "presidential",
     "tikTvd": "212200070905",
     "tikName": "Медведевская",
+    "regionCode": "12",
+    "regionTvd": "1001000882987",
+    "regionName": "Республика Марий Эл",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в список": 39439,
@@ -704,6 +728,9 @@ export const president_2004_tic_227_region_12 = [
     "ballot": "presidential",
     "tikTvd": "212200070906",
     "tikName": "Моркинская",
+    "regionCode": "12",
+    "regionTvd": "1001000882987",
+    "regionName": "Республика Марий Эл",
     "uikCount": 45,
     "accounting": {
       "Число избирателей, внесенных в список": 24374,
@@ -797,6 +824,9 @@ export const president_2004_tic_227_region_12 = [
     "ballot": "presidential",
     "tikTvd": "212200070907",
     "tikName": "Новоторъяльская",
+    "regionCode": "12",
+    "regionTvd": "1001000882987",
+    "regionName": "Республика Марий Эл",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список": 12615,
@@ -863,6 +893,9 @@ export const president_2004_tic_227_region_12 = [
     "ballot": "presidential",
     "tikTvd": "212200070908",
     "tikName": "Оршанская",
+    "regionCode": "12",
+    "regionTvd": "1001000882987",
+    "regionName": "Республика Марий Эл",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список": 11367,
@@ -930,6 +963,9 @@ export const president_2004_tic_227_region_12 = [
     "ballot": "presidential",
     "tikTvd": "212200070909",
     "tikName": "Параньгинская",
+    "regionCode": "12",
+    "regionTvd": "1001000882987",
+    "regionName": "Республика Марий Эл",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в список": 12307,
@@ -994,6 +1030,9 @@ export const president_2004_tic_227_region_12 = [
     "ballot": "presidential",
     "tikTvd": "212200070910",
     "tikName": "Сернурская",
+    "regionCode": "12",
+    "regionTvd": "1001000882987",
+    "regionName": "Республика Марий Эл",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в список": 17645,
@@ -1076,6 +1115,9 @@ export const president_2004_tic_227_region_12 = [
     "ballot": "presidential",
     "tikTvd": "212200070911",
     "tikName": "Советская",
+    "regionCode": "12",
+    "regionTvd": "1001000882987",
+    "regionName": "Республика Марий Эл",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список": 21731,
@@ -1149,6 +1191,9 @@ export const president_2004_tic_227_region_12 = [
     "ballot": "presidential",
     "tikTvd": "212200070912",
     "tikName": "Юринская",
+    "regionCode": "12",
+    "regionTvd": "1001000882987",
+    "regionName": "Республика Марий Эл",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список": 8399,
@@ -1220,6 +1265,9 @@ export const president_2004_tic_227_region_12 = [
     "ballot": "presidential",
     "tikTvd": "212200070913",
     "tikName": "Волжская",
+    "regionCode": "12",
+    "regionTvd": "1001000882987",
+    "regionName": "Республика Марий Эл",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список": 16914,
@@ -1293,6 +1341,9 @@ export const president_2004_tic_227_region_12 = [
     "ballot": "presidential",
     "tikTvd": "212200070914",
     "tikName": "Горномарийская",
+    "regionCode": "12",
+    "regionTvd": "1001000882987",
+    "regionName": "Республика Марий Эл",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, внесенных в список": 20704,

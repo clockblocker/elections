@@ -11,6 +11,9 @@ export const president_2004_tic_227_region_67 = [
     "ballot": "presidential",
     "tikTvd": "267200080964",
     "tikName": "Велижская",
+    "regionCode": "67",
+    "regionTvd": "1001000882954",
+    "regionName": "Смоленская область",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в список": 11912,
@@ -75,6 +78,9 @@ export const president_2004_tic_227_region_67 = [
     "ballot": "presidential",
     "tikTvd": "267200080966",
     "tikName": "Вяземская",
+    "regionCode": "67",
+    "regionTvd": "1001000882954",
+    "regionName": "Смоленская область",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, внесенных в список": 65455,
@@ -173,6 +179,9 @@ export const president_2004_tic_227_region_67 = [
     "ballot": "presidential",
     "tikTvd": "267200080967",
     "tikName": "Гагаринская",
+    "regionCode": "67",
+    "regionTvd": "1001000882954",
+    "regionName": "Смоленская область",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в список": 37838,
@@ -258,6 +267,9 @@ export const president_2004_tic_227_region_67 = [
     "ballot": "presidential",
     "tikTvd": "267200080968",
     "tikName": "Глинковская",
+    "regionCode": "67",
+    "regionTvd": "1001000882954",
+    "regionName": "Смоленская область",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, внесенных в список": 4657,
@@ -317,6 +329,9 @@ export const president_2004_tic_227_region_67 = [
     "ballot": "presidential",
     "tikTvd": "267200080969",
     "tikName": "Новодугинская",
+    "regionCode": "67",
+    "regionTvd": "1001000882954",
+    "regionName": "Смоленская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список": 8772,
@@ -386,6 +401,9 @@ export const president_2004_tic_227_region_67 = [
     "ballot": "presidential",
     "tikTvd": "267200080970",
     "tikName": "Монастырщинская",
+    "regionCode": "67",
+    "regionTvd": "1001000882954",
+    "regionName": "Смоленская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список": 10682,
@@ -458,6 +476,9 @@ export const president_2004_tic_227_region_67 = [
     "ballot": "presidential",
     "tikTvd": "267200080971",
     "tikName": "Кардымовская",
+    "regionCode": "67",
+    "regionTvd": "1001000882954",
+    "regionName": "Смоленская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список": 9590,
@@ -526,6 +547,9 @@ export const president_2004_tic_227_region_67 = [
     "ballot": "presidential",
     "tikTvd": "267200080972",
     "tikName": "Ершичская",
+    "regionCode": "67",
+    "regionTvd": "1001000882954",
+    "regionName": "Смоленская область",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в список": 7173,
@@ -587,6 +611,9 @@ export const president_2004_tic_227_region_67 = [
     "ballot": "presidential",
     "tikTvd": "267200080973",
     "tikName": "Краснинская",
+    "regionCode": "67",
+    "regionTvd": "1001000882954",
+    "regionName": "Смоленская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список": 12664,
@@ -663,6 +690,9 @@ export const president_2004_tic_227_region_67 = [
     "ballot": "presidential",
     "tikTvd": "267200080974",
     "tikName": "Духовщинская",
+    "regionCode": "67",
+    "regionTvd": "1001000882954",
+    "regionName": "Смоленская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список": 15298,
@@ -732,6 +762,9 @@ export const president_2004_tic_227_region_67 = [
     "ballot": "presidential",
     "tikTvd": "267200080975",
     "tikName": "Дорогобужская",
+    "regionCode": "67",
+    "regionTvd": "1001000882954",
+    "regionName": "Смоленская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список": 25902,
@@ -808,6 +841,9 @@ export const president_2004_tic_227_region_67 = [
     "ballot": "presidential",
     "tikTvd": "267200080976",
     "tikName": "Ельнинская",
+    "regionCode": "67",
+    "regionTvd": "1001000882954",
+    "regionName": "Смоленская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список": 13863,
@@ -882,6 +918,9 @@ export const president_2004_tic_227_region_67 = [
     "ballot": "presidential",
     "tikTvd": "267200080977",
     "tikName": "Смоленск, Промышленная",
+    "regionCode": "67",
+    "regionTvd": "1001000882954",
+    "regionName": "Смоленская область",
     "uikCount": 47,
     "accounting": {
       "Число избирателей, внесенных в список": 108113,
@@ -977,6 +1016,9 @@ export const president_2004_tic_227_region_67 = [
     "ballot": "presidential",
     "tikTvd": "267200080978",
     "tikName": "Смоленская",
+    "regionCode": "67",
+    "regionTvd": "1001000882954",
+    "regionName": "Смоленская область",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, внесенных в список": 35900,
@@ -1068,6 +1110,9 @@ export const president_2004_tic_227_region_67 = [
     "ballot": "presidential",
     "tikTvd": "267200080979",
     "tikName": "Десногорская",
+    "regionCode": "67",
+    "regionTvd": "1001000882954",
+    "regionName": "Смоленская область",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, внесенных в список": 26562,
@@ -1127,6 +1172,9 @@ export const president_2004_tic_227_region_67 = [
     "ballot": "presidential",
     "tikTvd": "267200080980",
     "tikName": "Смоленск, Заднепровская",
+    "regionCode": "67",
+    "regionTvd": "1001000882954",
+    "regionName": "Смоленская область",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в список": 78064,
@@ -1213,6 +1261,9 @@ export const president_2004_tic_227_region_67 = [
     "ballot": "presidential",
     "tikTvd": "267200080982",
     "tikName": "Смоленск, Ленинская",
+    "regionCode": "67",
+    "regionTvd": "1001000882954",
+    "regionName": "Смоленская область",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в список": 89013,
@@ -1298,6 +1349,9 @@ export const president_2004_tic_227_region_67 = [
     "ballot": "presidential",
     "tikTvd": "267200080983",
     "tikName": "Руднянская",
+    "regionCode": "67",
+    "regionTvd": "1001000882954",
+    "regionName": "Смоленская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в список": 22187,
@@ -1386,6 +1440,9 @@ export const president_2004_tic_227_region_67 = [
     "ballot": "presidential",
     "tikTvd": "267200080984",
     "tikName": "Починковская",
+    "regionCode": "67",
+    "regionTvd": "1001000882954",
+    "regionName": "Смоленская область",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, внесенных в список": 29141,
@@ -1476,6 +1533,9 @@ export const president_2004_tic_227_region_67 = [
     "ballot": "presidential",
     "tikTvd": "267200080985",
     "tikName": "Рославльская",
+    "regionCode": "67",
+    "regionTvd": "1001000882954",
+    "regionName": "Смоленская область",
     "uikCount": 53,
     "accounting": {
       "Число избирателей, внесенных в список": 64474,
@@ -1577,6 +1637,9 @@ export const president_2004_tic_227_region_67 = [
     "ballot": "presidential",
     "tikTvd": "267200080986",
     "tikName": "Ярцевская",
+    "regionCode": "67",
+    "regionTvd": "1001000882954",
+    "regionName": "Смоленская область",
     "uikCount": 45,
     "accounting": {
       "Число избирателей, внесенных в список": 50402,
@@ -1670,6 +1733,9 @@ export const president_2004_tic_227_region_67 = [
     "ballot": "presidential",
     "tikTvd": "267200080987",
     "tikName": "Шумячская",
+    "regionCode": "67",
+    "regionTvd": "1001000882954",
+    "regionName": "Смоленская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список": 11695,
@@ -1737,6 +1803,9 @@ export const president_2004_tic_227_region_67 = [
     "ballot": "presidential",
     "tikTvd": "267200080988",
     "tikName": "Холм-Жирковская",
+    "regionCode": "67",
+    "regionTvd": "1001000882954",
+    "regionName": "Смоленская область",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в список": 9885,
@@ -1801,6 +1870,9 @@ export const president_2004_tic_227_region_67 = [
     "ballot": "presidential",
     "tikTvd": "267200080989",
     "tikName": "Хиславичская",
+    "regionCode": "67",
+    "regionTvd": "1001000882954",
+    "regionName": "Смоленская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список": 9752,
@@ -1872,6 +1944,9 @@ export const president_2004_tic_227_region_67 = [
     "ballot": "presidential",
     "tikTvd": "267200080990",
     "tikName": "Угранская",
+    "regionCode": "67",
+    "regionTvd": "1001000882954",
+    "regionName": "Смоленская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список": 8833,
@@ -1939,6 +2014,9 @@ export const president_2004_tic_227_region_67 = [
     "ballot": "presidential",
     "tikTvd": "267200080992",
     "tikName": "Сычевская",
+    "regionCode": "67",
+    "regionTvd": "1001000882954",
+    "regionName": "Смоленская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список": 11640,
@@ -2011,6 +2089,9 @@ export const president_2004_tic_227_region_67 = [
     "ballot": "presidential",
     "tikTvd": "267200080994",
     "tikName": "Демидовская",
+    "regionCode": "67",
+    "regionTvd": "1001000882954",
+    "regionName": "Смоленская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список": 15078,
@@ -2083,6 +2164,9 @@ export const president_2004_tic_227_region_67 = [
     "ballot": "presidential",
     "tikTvd": "267200081092",
     "tikName": "Темкинская",
+    "regionCode": "67",
+    "regionTvd": "1001000882954",
+    "regionName": "Смоленская область",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, внесенных в список": 5245,
@@ -2143,6 +2227,9 @@ export const president_2004_tic_227_region_67 = [
     "ballot": "presidential",
     "tikTvd": "267200081228",
     "tikName": "Сафоновская",
+    "regionCode": "67",
+    "regionTvd": "1001000882954",
+    "regionName": "Смоленская область",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, внесенных в список": 52739,

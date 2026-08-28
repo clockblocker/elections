@@ -11,6 +11,9 @@ export const president_2018_tic_227_region_43 = [
     "ballot": "presidential",
     "tikTvd": "24320001173199",
     "tikName": "Яранская",
+    "regionCode": "43",
+    "regionTvd": "100100084849168",
+    "regionName": "Кировская область",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 21312,
@@ -92,6 +95,9 @@ export const president_2018_tic_227_region_43 = [
     "ballot": "presidential",
     "tikTvd": "24320001173200",
     "tikName": "Юрьянская",
+    "regionCode": "43",
+    "regionTvd": "100100084849168",
+    "regionName": "Кировская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 15461,
@@ -156,6 +162,9 @@ export const president_2018_tic_227_region_43 = [
     "ballot": "presidential",
     "tikTvd": "24320001173201",
     "tikName": "Шабалинская",
+    "regionCode": "43",
+    "regionTvd": "100100084849168",
+    "regionName": "Кировская область",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 8099,
@@ -216,6 +225,9 @@ export const president_2018_tic_227_region_43 = [
     "ballot": "presidential",
     "tikTvd": "24320001173202",
     "tikName": "Фаленская",
+    "regionCode": "43",
+    "regionTvd": "100100084849168",
+    "regionName": "Кировская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 8718,
@@ -278,6 +290,9 @@ export const president_2018_tic_227_region_43 = [
     "ballot": "presidential",
     "tikTvd": "24320001173203",
     "tikName": "Уржумская",
+    "regionCode": "43",
+    "regionTvd": "100100084849168",
+    "regionName": "Кировская область",
     "uikCount": 45,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 18085,
@@ -367,6 +382,9 @@ export const president_2018_tic_227_region_43 = [
     "ballot": "presidential",
     "tikTvd": "24320001173204",
     "tikName": "Унинская",
+    "regionCode": "43",
+    "regionTvd": "100100084849168",
+    "regionName": "Кировская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 7016,
@@ -431,6 +449,9 @@ export const president_2018_tic_227_region_43 = [
     "ballot": "presidential",
     "tikTvd": "24320001173205",
     "tikName": "Тужинская",
+    "regionCode": "43",
+    "regionTvd": "100100084849168",
+    "regionName": "Кировская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 5593,
@@ -490,6 +511,9 @@ export const president_2018_tic_227_region_43 = [
     "ballot": "presidential",
     "tikTvd": "24320001173206",
     "tikName": "Сунская",
+    "regionCode": "43",
+    "regionTvd": "100100084849168",
+    "regionName": "Кировская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 4880,
@@ -549,6 +573,9 @@ export const president_2018_tic_227_region_43 = [
     "ballot": "presidential",
     "tikTvd": "24320001173207",
     "tikName": "Советская",
+    "regionCode": "43",
+    "regionTvd": "100100084849168",
+    "regionName": "Кировская область",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 20984,
@@ -626,6 +653,9 @@ export const president_2018_tic_227_region_43 = [
     "ballot": "presidential",
     "tikTvd": "24320001173208",
     "tikName": "Слободская городская",
+    "regionCode": "43",
+    "regionTvd": "100100084849168",
+    "regionName": "Кировская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 27220,
@@ -689,6 +719,9 @@ export const president_2018_tic_227_region_43 = [
     "ballot": "presidential",
     "tikTvd": "24320001173209",
     "tikName": "Слободская",
+    "regionCode": "43",
+    "regionTvd": "100100084849168",
+    "regionName": "Кировская область",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 24746,
@@ -765,6 +798,9 @@ export const president_2018_tic_227_region_43 = [
     "ballot": "presidential",
     "tikTvd": "24320001173210",
     "tikName": "Свечинская",
+    "regionCode": "43",
+    "regionTvd": "100100084849168",
+    "regionName": "Кировская область",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 6140,
@@ -823,6 +859,9 @@ export const president_2018_tic_227_region_43 = [
     "ballot": "presidential",
     "tikTvd": "24320001173211",
     "tikName": "Санчурская",
+    "regionCode": "43",
+    "regionTvd": "100100084849168",
+    "regionName": "Кировская область",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 7606,
@@ -884,6 +923,9 @@ export const president_2018_tic_227_region_43 = [
     "ballot": "presidential",
     "tikTvd": "24320001173212",
     "tikName": "Подосиновская",
+    "regionCode": "43",
+    "regionTvd": "100100084849168",
+    "regionName": "Кировская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 12657,
@@ -947,6 +989,9 @@ export const president_2018_tic_227_region_43 = [
     "ballot": "presidential",
     "tikTvd": "24320001173213",
     "tikName": "Пижанская",
+    "regionCode": "43",
+    "regionTvd": "100100084849168",
+    "regionName": "Кировская область",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 7687,
@@ -1004,6 +1049,9 @@ export const president_2018_tic_227_region_43 = [
     "ballot": "presidential",
     "tikTvd": "24320001173214",
     "tikName": "ЗАТО Первомайский",
+    "regionCode": "43",
+    "regionTvd": "100100084849168",
+    "regionName": "Кировская область",
     "uikCount": 4,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 3392,
@@ -1052,6 +1100,9 @@ export const president_2018_tic_227_region_43 = [
     "ballot": "presidential",
     "tikTvd": "24320001173215",
     "tikName": "Орловская",
+    "regionCode": "43",
+    "regionTvd": "100100084849168",
+    "regionName": "Кировская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10250,
@@ -1114,6 +1165,9 @@ export const president_2018_tic_227_region_43 = [
     "ballot": "presidential",
     "tikTvd": "24320001173216",
     "tikName": "Оричевская",
+    "regionCode": "43",
+    "regionTvd": "100100084849168",
+    "regionName": "Кировская область",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 24022,
@@ -1191,6 +1245,9 @@ export const president_2018_tic_227_region_43 = [
     "ballot": "presidential",
     "tikTvd": "24320001173217",
     "tikName": "Опаpинская",
+    "regionCode": "43",
+    "regionTvd": "100100084849168",
+    "regionName": "Кировская область",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 7399,
@@ -1248,6 +1305,9 @@ export const president_2018_tic_227_region_43 = [
     "ballot": "presidential",
     "tikTvd": "24320001173218",
     "tikName": "Омутнинская",
+    "regionCode": "43",
+    "regionTvd": "100100084849168",
+    "regionName": "Кировская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 31521,
@@ -1326,6 +1386,9 @@ export const president_2018_tic_227_region_43 = [
     "ballot": "presidential",
     "tikTvd": "24320001173219",
     "tikName": "Нолинская",
+    "regionCode": "43",
+    "regionTvd": "100100084849168",
+    "regionName": "Кировская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 15887,
@@ -1392,6 +1455,9 @@ export const president_2018_tic_227_region_43 = [
     "ballot": "presidential",
     "tikTvd": "24320001173220",
     "tikName": "Немская",
+    "regionCode": "43",
+    "regionTvd": "100100084849168",
+    "regionName": "Кировская область",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 5926,
@@ -1447,6 +1513,9 @@ export const president_2018_tic_227_region_43 = [
     "ballot": "presidential",
     "tikTvd": "24320001173221",
     "tikName": "Нагорская",
+    "regionCode": "43",
+    "regionTvd": "100100084849168",
+    "regionName": "Кировская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 7803,
@@ -1510,6 +1579,9 @@ export const president_2018_tic_227_region_43 = [
     "ballot": "presidential",
     "tikTvd": "24320001173222",
     "tikName": "Мурашинская",
+    "regionCode": "43",
+    "regionTvd": "100100084849168",
+    "regionName": "Кировская область",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9981,
@@ -1568,6 +1640,9 @@ export const president_2018_tic_227_region_43 = [
     "ballot": "presidential",
     "tikTvd": "24320001173223",
     "tikName": "Малмыжская",
+    "regionCode": "43",
+    "regionTvd": "100100084849168",
+    "regionName": "Кировская область",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 20140,
@@ -1647,6 +1722,9 @@ export const president_2018_tic_227_region_43 = [
     "ballot": "presidential",
     "tikTvd": "24320001173224",
     "tikName": "Лузская",
+    "regionCode": "43",
+    "regionTvd": "100100084849168",
+    "regionName": "Кировская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 13439,
@@ -1714,6 +1792,9 @@ export const president_2018_tic_227_region_43 = [
     "ballot": "presidential",
     "tikTvd": "24320001173225",
     "tikName": "Лебяжская",
+    "regionCode": "43",
+    "regionTvd": "100100084849168",
+    "regionName": "Кировская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 6848,
@@ -1776,6 +1857,9 @@ export const president_2018_tic_227_region_43 = [
     "ballot": "presidential",
     "tikTvd": "24320001173226",
     "tikName": "Куменская",
+    "regionCode": "43",
+    "regionTvd": "100100084849168",
+    "regionName": "Кировская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 14444,
@@ -1843,6 +1927,9 @@ export const president_2018_tic_227_region_43 = [
     "ballot": "presidential",
     "tikTvd": "24320001173227",
     "tikName": "Котельничская городская",
+    "regionCode": "43",
+    "regionTvd": "100100084849168",
+    "regionName": "Кировская область",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 19511,
@@ -1899,6 +1986,9 @@ export const president_2018_tic_227_region_43 = [
     "ballot": "presidential",
     "tikTvd": "24320001173228",
     "tikName": "Котельничская",
+    "regionCode": "43",
+    "regionTvd": "100100084849168",
+    "regionName": "Кировская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 12644,
@@ -1966,6 +2056,9 @@ export const president_2018_tic_227_region_43 = [
     "ballot": "presidential",
     "tikTvd": "24320001173229",
     "tikName": "Кирово-Чепецкая городская",
+    "regionCode": "43",
+    "regionTvd": "100100084849168",
+    "regionName": "Кировская область",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 59531,
@@ -2051,6 +2144,9 @@ export const president_2018_tic_227_region_43 = [
     "ballot": "presidential",
     "tikTvd": "24320001173230",
     "tikName": "Кирово-Чепецкая",
+    "regionCode": "43",
+    "regionTvd": "100100084849168",
+    "regionName": "Кировская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 18222,
@@ -2115,6 +2211,9 @@ export const president_2018_tic_227_region_43 = [
     "ballot": "presidential",
     "tikTvd": "24320001173231",
     "tikName": "Киров, Первомайская",
+    "regionCode": "43",
+    "regionTvd": "100100084849168",
+    "regionName": "Кировская область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 68219,
@@ -2195,6 +2294,9 @@ export const president_2018_tic_227_region_43 = [
     "ballot": "presidential",
     "tikTvd": "24320001173232",
     "tikName": "Киров, Октябрьская",
+    "regionCode": "43",
+    "regionTvd": "100100084849168",
+    "regionName": "Кировская область",
     "uikCount": 73,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 131589,
@@ -2312,6 +2414,9 @@ export const president_2018_tic_227_region_43 = [
     "ballot": "presidential",
     "tikTvd": "24320001173233",
     "tikName": "Киров, Нововятская",
+    "regionCode": "43",
+    "regionTvd": "100100084849168",
+    "regionName": "Кировская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 39042,
@@ -2374,6 +2479,9 @@ export const president_2018_tic_227_region_43 = [
     "ballot": "presidential",
     "tikTvd": "24320001173234",
     "tikName": "Киров, Ленинская",
+    "regionCode": "43",
+    "regionTvd": "100100084849168",
+    "regionName": "Кировская область",
     "uikCount": 100,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 181970,
@@ -2518,6 +2626,9 @@ export const president_2018_tic_227_region_43 = [
     "ballot": "presidential",
     "tikTvd": "24320001173235",
     "tikName": "Кильмезская",
+    "regionCode": "43",
+    "regionTvd": "100100084849168",
+    "regionName": "Кировская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10169,
@@ -2586,6 +2697,9 @@ export const president_2018_tic_227_region_43 = [
     "ballot": "presidential",
     "tikTvd": "24320001173236",
     "tikName": "Кикнурская",
+    "regionCode": "43",
+    "regionTvd": "100100084849168",
+    "regionName": "Кировская область",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 7315,
@@ -2644,6 +2758,9 @@ export const president_2018_tic_227_region_43 = [
     "ballot": "presidential",
     "tikTvd": "24320001173237",
     "tikName": "Зуевская",
+    "regionCode": "43",
+    "regionTvd": "100100084849168",
+    "regionName": "Кировская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 17896,
@@ -2716,6 +2833,9 @@ export const president_2018_tic_227_region_43 = [
     "ballot": "presidential",
     "tikTvd": "24320001173238",
     "tikName": "Даровская",
+    "regionCode": "43",
+    "regionTvd": "100100084849168",
+    "regionName": "Кировская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 8479,
@@ -2780,6 +2900,9 @@ export const president_2018_tic_227_region_43 = [
     "ballot": "presidential",
     "tikTvd": "24320001173239",
     "tikName": "Вятскополянская городская",
+    "regionCode": "43",
+    "regionTvd": "100100084849168",
+    "regionName": "Кировская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 27852,
@@ -2842,6 +2965,9 @@ export const president_2018_tic_227_region_43 = [
     "ballot": "presidential",
     "tikTvd": "24320001173240",
     "tikName": "Вятскополянская",
+    "regionCode": "43",
+    "regionTvd": "100100084849168",
+    "regionName": "Кировская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 23168,
@@ -2920,6 +3046,9 @@ export const president_2018_tic_227_region_43 = [
     "ballot": "presidential",
     "tikTvd": "24320001173241",
     "tikName": "Верхошижемская",
+    "regionCode": "43",
+    "regionTvd": "100100084849168",
+    "regionName": "Кировская область",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 7021,
@@ -2976,6 +3105,9 @@ export const president_2018_tic_227_region_43 = [
     "ballot": "presidential",
     "tikTvd": "24320001173242",
     "tikName": "Верхнекамская",
+    "regionCode": "43",
+    "regionTvd": "100100084849168",
+    "regionName": "Кировская область",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 20214,
@@ -3047,6 +3179,9 @@ export const president_2018_tic_227_region_43 = [
     "ballot": "presidential",
     "tikTvd": "24320001173243",
     "tikName": "Богородская",
+    "regionCode": "43",
+    "regionTvd": "100100084849168",
+    "regionName": "Кировская область",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 3855,
@@ -3103,6 +3238,9 @@ export const president_2018_tic_227_region_43 = [
     "ballot": "presidential",
     "tikTvd": "24320001173244",
     "tikName": "Белохолуницкая",
+    "regionCode": "43",
+    "regionTvd": "100100084849168",
+    "regionName": "Кировская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 14960,
@@ -3172,6 +3310,9 @@ export const president_2018_tic_227_region_43 = [
     "ballot": "presidential",
     "tikTvd": "24320001173245",
     "tikName": "Афанасьевская",
+    "regionCode": "43",
+    "regionTvd": "100100084849168",
+    "regionName": "Кировская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10672,
@@ -3246,6 +3387,9 @@ export const president_2018_tic_227_region_43 = [
     "ballot": "presidential",
     "tikTvd": "24320001173246",
     "tikName": "Арбажская",
+    "regionCode": "43",
+    "regionTvd": "100100084849168",
+    "regionName": "Кировская область",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 5654,

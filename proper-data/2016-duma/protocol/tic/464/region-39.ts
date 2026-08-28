@@ -11,6 +11,14 @@ export const duma_2016_tic_464_region_39 = [
     "ballot": "single-member",
     "tikTvd": "2392000475039",
     "tikName": "Балтийская",
+    "regionCode": "39",
+    "regionTvd": "100100067795979",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100067795980",
+      "oikName": "Калининградская область – Калининградский"
+    },
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 29123,
@@ -86,6 +94,14 @@ export const duma_2016_tic_464_region_39 = [
     "ballot": "single-member",
     "tikTvd": "2392000475040",
     "tikName": "Гурьевская - 97",
+    "regionCode": "39",
+    "regionTvd": "100100067795979",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100067795980",
+      "oikName": "Калининградская область – Калининградский"
+    },
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 45469,
@@ -169,6 +185,14 @@ export const duma_2016_tic_464_region_39 = [
     "ballot": "single-member",
     "tikTvd": "2392000475041",
     "tikName": "Зеленоградская",
+    "regionCode": "39",
+    "regionTvd": "100100067795979",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100067795980",
+      "oikName": "Калининградская область – Калининградский"
+    },
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 26880,
@@ -245,6 +269,14 @@ export const duma_2016_tic_464_region_39 = [
     "ballot": "single-member",
     "tikTvd": "2392000475042",
     "tikName": "Калининград, Ленинградская",
+    "regionCode": "39",
+    "regionTvd": "100100067795979",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100067795980",
+      "oikName": "Калининградская область – Калининградский"
+    },
     "uikCount": 78,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 152921,
@@ -374,6 +406,14 @@ export const duma_2016_tic_464_region_39 = [
     "ballot": "single-member",
     "tikTvd": "2392000475043",
     "tikName": "Краснознаменская",
+    "regionCode": "39",
+    "regionTvd": "100100067795979",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100067795980",
+      "oikName": "Калининградская область – Калининградский"
+    },
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 9588,
@@ -438,6 +478,14 @@ export const duma_2016_tic_464_region_39 = [
     "ballot": "single-member",
     "tikTvd": "2392000475044",
     "tikName": "Неманская",
+    "regionCode": "39",
+    "regionTvd": "100100067795979",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100067795980",
+      "oikName": "Калининградская область – Калининградский"
+    },
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 15821,
@@ -509,6 +557,14 @@ export const duma_2016_tic_464_region_39 = [
     "ballot": "single-member",
     "tikTvd": "2392000475045",
     "tikName": "Пионерская ",
+    "regionCode": "39",
+    "regionTvd": "100100067795979",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100067795980",
+      "oikName": "Калининградская область – Калининградский"
+    },
     "uikCount": 8,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 10386,
@@ -568,6 +624,14 @@ export const duma_2016_tic_464_region_39 = [
     "ballot": "single-member",
     "tikTvd": "2392000475046",
     "tikName": "Полесская",
+    "regionCode": "39",
+    "regionTvd": "100100067795979",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100067795980",
+      "oikName": "Калининградская область – Калининградский"
+    },
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 14440,
@@ -634,6 +698,14 @@ export const duma_2016_tic_464_region_39 = [
     "ballot": "single-member",
     "tikTvd": "2392000475047",
     "tikName": "Светлогорская",
+    "regionCode": "39",
+    "regionTvd": "100100067795979",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100067795980",
+      "oikName": "Калининградская область – Калининградский"
+    },
     "uikCount": 8,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 12639,
@@ -693,6 +765,14 @@ export const duma_2016_tic_464_region_39 = [
     "ballot": "single-member",
     "tikTvd": "2392000475048",
     "tikName": "Светловская",
+    "regionCode": "39",
+    "regionTvd": "100100067795979",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100067795980",
+      "oikName": "Калининградская область – Калининградский"
+    },
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 22463,
@@ -759,6 +839,14 @@ export const duma_2016_tic_464_region_39 = [
     "ballot": "single-member",
     "tikTvd": "2392000475049",
     "tikName": "Славская",
+    "regionCode": "39",
+    "regionTvd": "100100067795979",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100067795980",
+      "oikName": "Калининградская область – Калининградский"
+    },
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 14853,
@@ -829,6 +917,14 @@ export const duma_2016_tic_464_region_39 = [
     "ballot": "single-member",
     "tikTvd": "2392000475050",
     "tikName": "Советская ",
+    "regionCode": "39",
+    "regionTvd": "100100067795979",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100067795980",
+      "oikName": "Калининградская область – Калининградский"
+    },
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 30492,
@@ -896,6 +992,14 @@ export const duma_2016_tic_464_region_39 = [
     "ballot": "single-member",
     "tikTvd": "2392000475051",
     "tikName": "Багратионовская",
+    "regionCode": "39",
+    "regionTvd": "100100067795979",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 98,
+      "oikTvd": "100100067795981",
+      "oikName": "Калининградская область – Центральный"
+    },
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 24876,
@@ -969,6 +1073,14 @@ export const duma_2016_tic_464_region_39 = [
     "ballot": "single-member",
     "tikTvd": "2392000475052",
     "tikName": "Гвардейская",
+    "regionCode": "39",
+    "regionTvd": "100100067795979",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 98,
+      "oikTvd": "100100067795981",
+      "oikName": "Калининградская область – Центральный"
+    },
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 24203,
@@ -1041,6 +1153,14 @@ export const duma_2016_tic_464_region_39 = [
     "ballot": "single-member",
     "tikTvd": "2392000475053",
     "tikName": "Гурьевская - 98",
+    "regionCode": "39",
+    "regionTvd": "100100067795979",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 98,
+      "oikTvd": "100100067795981",
+      "oikName": "Калининградская область – Центральный"
+    },
     "uikCount": 4,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 6236,
@@ -1096,6 +1216,14 @@ export const duma_2016_tic_464_region_39 = [
     "ballot": "single-member",
     "tikTvd": "2392000475054",
     "tikName": "Гусевская",
+    "regionCode": "39",
+    "regionTvd": "100100067795979",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 98,
+      "oikTvd": "100100067795981",
+      "oikName": "Калининградская область – Центральный"
+    },
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 27159,
@@ -1168,6 +1296,14 @@ export const duma_2016_tic_464_region_39 = [
     "ballot": "single-member",
     "tikTvd": "2392000475055",
     "tikName": "Калининград, Московская",
+    "regionCode": "39",
+    "regionTvd": "100100067795979",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 98,
+      "oikTvd": "100100067795981",
+      "oikName": "Калининградская область – Центральный"
+    },
     "uikCount": 97,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 130599,
@@ -1316,6 +1452,14 @@ export const duma_2016_tic_464_region_39 = [
     "ballot": "single-member",
     "tikTvd": "2392000475056",
     "tikName": "Калининград, Центральная",
+    "regionCode": "39",
+    "regionTvd": "100100067795979",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 98,
+      "oikTvd": "100100067795981",
+      "oikName": "Калининградская область – Центральный"
+    },
     "uikCount": 57,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 112488,
@@ -1424,6 +1568,14 @@ export const duma_2016_tic_464_region_39 = [
     "ballot": "single-member",
     "tikTvd": "2392000475057",
     "tikName": "Нестеровская",
+    "regionCode": "39",
+    "regionTvd": "100100067795979",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 98,
+      "oikTvd": "100100067795981",
+      "oikName": "Калининградская область – Центральный"
+    },
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 12060,
@@ -1491,6 +1643,14 @@ export const duma_2016_tic_464_region_39 = [
     "ballot": "single-member",
     "tikTvd": "2392000475058",
     "tikName": "Озерская",
+    "regionCode": "39",
+    "regionTvd": "100100067795979",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 98,
+      "oikTvd": "100100067795981",
+      "oikName": "Калининградская область – Центральный"
+    },
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 11557,
@@ -1561,6 +1721,14 @@ export const duma_2016_tic_464_region_39 = [
     "ballot": "single-member",
     "tikTvd": "2392000475059",
     "tikName": "Правдинская",
+    "regionCode": "39",
+    "regionTvd": "100100067795979",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 98,
+      "oikTvd": "100100067795981",
+      "oikName": "Калининградская область – Центральный"
+    },
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 16155,
@@ -1627,6 +1795,14 @@ export const duma_2016_tic_464_region_39 = [
     "ballot": "single-member",
     "tikTvd": "2392000475060",
     "tikName": "Черняховская",
+    "regionCode": "39",
+    "regionTvd": "100100067795979",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 98,
+      "oikTvd": "100100067795981",
+      "oikName": "Калининградская область – Центральный"
+    },
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 42808,
@@ -1715,6 +1891,14 @@ export const duma_2016_tic_464_region_39 = [
     "ballot": "single-member",
     "tikTvd": "2392000475061",
     "tikName": "Ладушкинская",
+    "regionCode": "39",
+    "regionTvd": "100100067795979",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 98,
+      "oikTvd": "100100067795981",
+      "oikName": "Калининградская область – Центральный"
+    },
     "uikCount": 2,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 3217,
@@ -1768,6 +1952,14 @@ export const duma_2016_tic_464_region_39 = [
     "ballot": "single-member",
     "tikTvd": "2392000475062",
     "tikName": "Мамоновская",
+    "regionCode": "39",
+    "regionTvd": "100100067795979",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 98,
+      "oikTvd": "100100067795981",
+      "oikName": "Калининградская область – Центральный"
+    },
     "uikCount": 3,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 6396,
@@ -1822,6 +2014,14 @@ export const duma_2016_tic_464_region_39 = [
     "ballot": "single-member",
     "tikTvd": "2392000475063",
     "tikName": "Янтарнинская",
+    "regionCode": "39",
+    "regionTvd": "100100067795979",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100067795980",
+      "oikName": "Калининградская область – Калининградский"
+    },
     "uikCount": 2,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 4689,

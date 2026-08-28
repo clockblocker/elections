@@ -11,6 +11,9 @@ export const president_2018_tic_227_region_68 = [
     "ballot": "presidential",
     "tikTvd": "2682000635695",
     "tikName": "Уметская",
+    "regionCode": "68",
+    "regionTvd": "100100084849192",
+    "regionName": "Тамбовская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 8202,
@@ -74,6 +77,9 @@ export const president_2018_tic_227_region_68 = [
     "ballot": "presidential",
     "tikTvd": "2682000635696",
     "tikName": "Уваровская городская",
+    "regionCode": "68",
+    "regionTvd": "100100084849192",
+    "regionName": "Тамбовская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 22249,
@@ -133,6 +139,9 @@ export const president_2018_tic_227_region_68 = [
     "ballot": "presidential",
     "tikTvd": "2682000635697",
     "tikName": "Уваровская",
+    "regionCode": "68",
+    "regionTvd": "100100084849192",
+    "regionName": "Тамбовская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 8214,
@@ -199,6 +208,9 @@ export const president_2018_tic_227_region_68 = [
     "ballot": "presidential",
     "tikTvd": "2682000635698",
     "tikName": "Токаревская",
+    "regionCode": "68",
+    "regionTvd": "100100084849192",
+    "regionName": "Тамбовская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 13907,
@@ -272,6 +284,9 @@ export const president_2018_tic_227_region_68 = [
     "ballot": "presidential",
     "tikTvd": "2682000635699",
     "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "100100084849192",
+    "regionName": "Тамбовская область",
     "uikCount": 59,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 78626,
@@ -375,6 +390,9 @@ export const president_2018_tic_227_region_68 = [
     "ballot": "presidential",
     "tikTvd": "2682000635700",
     "tikName": "Тамбов, Советская",
+    "regionCode": "68",
+    "regionTvd": "100100084849192",
+    "regionName": "Тамбовская область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 75946,
@@ -455,6 +473,9 @@ export const president_2018_tic_227_region_68 = [
     "ballot": "presidential",
     "tikTvd": "2682000635701",
     "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "100100084849192",
+    "regionName": "Тамбовская область",
     "uikCount": 63,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 133990,
@@ -562,6 +583,9 @@ export const president_2018_tic_227_region_68 = [
     "ballot": "presidential",
     "tikTvd": "2682000635702",
     "tikName": "Тамбов, Ленинская",
+    "regionCode": "68",
+    "regionTvd": "100100084849192",
+    "regionName": "Тамбовская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 32547,
@@ -624,6 +648,9 @@ export const president_2018_tic_227_region_68 = [
     "ballot": "presidential",
     "tikTvd": "2682000635703",
     "tikName": "Староюрьевская",
+    "regionCode": "68",
+    "regionTvd": "100100084849192",
+    "regionName": "Тамбовская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 11216,
@@ -691,6 +718,9 @@ export const president_2018_tic_227_region_68 = [
     "ballot": "presidential",
     "tikTvd": "2682000635704",
     "tikName": "Сосновская",
+    "regionCode": "68",
+    "regionTvd": "100100084849192",
+    "regionName": "Тамбовская область",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 23851,
@@ -778,6 +808,9 @@ export const president_2018_tic_227_region_68 = [
     "ballot": "presidential",
     "tikTvd": "2682000635705",
     "tikName": "Сампурская",
+    "regionCode": "68",
+    "regionTvd": "100100084849192",
+    "regionName": "Тамбовская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10907,
@@ -840,6 +873,9 @@ export const president_2018_tic_227_region_68 = [
     "ballot": "presidential",
     "tikTvd": "2682000635706",
     "tikName": "Ржаксинская",
+    "regionCode": "68",
+    "regionTvd": "100100084849192",
+    "regionName": "Тамбовская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 13044,
@@ -915,6 +951,9 @@ export const president_2018_tic_227_region_68 = [
     "ballot": "presidential",
     "tikTvd": "2682000635707",
     "tikName": "Рассказовская городская",
+    "regionCode": "68",
+    "regionTvd": "100100084849192",
+    "regionName": "Тамбовская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 35504,
@@ -978,6 +1017,9 @@ export const president_2018_tic_227_region_68 = [
     "ballot": "presidential",
     "tikTvd": "2682000635708",
     "tikName": "Рассказовская",
+    "regionCode": "68",
+    "regionTvd": "100100084849192",
+    "regionName": "Тамбовская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 15605,
@@ -1051,6 +1093,9 @@ export const president_2018_tic_227_region_68 = [
     "ballot": "presidential",
     "tikTvd": "2682000635709",
     "tikName": "Пичаевская",
+    "regionCode": "68",
+    "regionTvd": "100100084849192",
+    "regionName": "Тамбовская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9701,
@@ -1116,6 +1161,9 @@ export const president_2018_tic_227_region_68 = [
     "ballot": "presidential",
     "tikTvd": "2682000635710",
     "tikName": "Петровская",
+    "regionCode": "68",
+    "regionTvd": "100100084849192",
+    "regionName": "Тамбовская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 14139,
@@ -1190,6 +1238,9 @@ export const president_2018_tic_227_region_68 = [
     "ballot": "presidential",
     "tikTvd": "2682000635711",
     "tikName": "Первомайская",
+    "regionCode": "68",
+    "regionTvd": "100100084849192",
+    "regionName": "Тамбовская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 21671,
@@ -1260,6 +1311,9 @@ export const president_2018_tic_227_region_68 = [
     "ballot": "presidential",
     "tikTvd": "2682000635712",
     "tikName": "Никифоровская",
+    "regionCode": "68",
+    "regionTvd": "100100084849192",
+    "regionName": "Тамбовская область",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 15338,
@@ -1331,6 +1385,9 @@ export const president_2018_tic_227_region_68 = [
     "ballot": "presidential",
     "tikTvd": "2682000635713",
     "tikName": "Мучкапская",
+    "regionCode": "68",
+    "regionTvd": "100100084849192",
+    "regionName": "Тамбовская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10930,
@@ -1396,6 +1453,9 @@ export const president_2018_tic_227_region_68 = [
     "ballot": "presidential",
     "tikTvd": "2682000635714",
     "tikName": "Моршанская городская",
+    "regionCode": "68",
+    "regionTvd": "100100084849192",
+    "regionName": "Тамбовская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 30949,
@@ -1460,6 +1520,9 @@ export const president_2018_tic_227_region_68 = [
     "ballot": "presidential",
     "tikTvd": "2682000635715",
     "tikName": "Моршанская",
+    "regionCode": "68",
+    "regionTvd": "100100084849192",
+    "regionName": "Тамбовская область",
     "uikCount": 47,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 23908,
@@ -1551,6 +1614,9 @@ export const president_2018_tic_227_region_68 = [
     "ballot": "presidential",
     "tikTvd": "2682000635716",
     "tikName": "Мордовская",
+    "regionCode": "68",
+    "regionTvd": "100100084849192",
+    "regionName": "Тамбовская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 13997,
@@ -1625,6 +1691,9 @@ export const president_2018_tic_227_region_68 = [
     "ballot": "presidential",
     "tikTvd": "2682000635717",
     "tikName": "Мичуринская городская",
+    "regionCode": "68",
+    "regionTvd": "100100084849192",
+    "regionName": "Тамбовская область",
     "uikCount": 48,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 67568,
@@ -1717,6 +1786,9 @@ export const president_2018_tic_227_region_68 = [
     "ballot": "presidential",
     "tikTvd": "2682000635718",
     "tikName": "Мичуринская",
+    "regionCode": "68",
+    "regionTvd": "100100084849192",
+    "regionName": "Тамбовская область",
     "uikCount": 47,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 24634,
@@ -1808,6 +1880,9 @@ export const president_2018_tic_227_region_68 = [
     "ballot": "presidential",
     "tikTvd": "2682000635719",
     "tikName": "Котовская городская",
+    "regionCode": "68",
+    "regionTvd": "100100084849192",
+    "regionName": "Тамбовская область",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 25245,
@@ -1864,6 +1939,9 @@ export const president_2018_tic_227_region_68 = [
     "ballot": "presidential",
     "tikTvd": "2682000635720",
     "tikName": "Кирсановская городская",
+    "regionCode": "68",
+    "regionTvd": "100100084849192",
+    "regionName": "Тамбовская область",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 12257,
@@ -1924,6 +2002,9 @@ export const president_2018_tic_227_region_68 = [
     "ballot": "presidential",
     "tikTvd": "2682000635721",
     "tikName": "Кирсановская",
+    "regionCode": "68",
+    "regionTvd": "100100084849192",
+    "regionName": "Тамбовская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 14250,
@@ -1996,6 +2077,9 @@ export const president_2018_tic_227_region_68 = [
     "ballot": "presidential",
     "tikTvd": "2682000635722",
     "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "100100084849192",
+    "regionName": "Тамбовская область",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 17758,
@@ -2082,6 +2166,9 @@ export const president_2018_tic_227_region_68 = [
     "ballot": "presidential",
     "tikTvd": "2682000635723",
     "tikName": "Знаменская",
+    "regionCode": "68",
+    "regionTvd": "100100084849192",
+    "regionName": "Тамбовская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 13931,
@@ -2144,6 +2231,9 @@ export const president_2018_tic_227_region_68 = [
     "ballot": "presidential",
     "tikTvd": "2682000635724",
     "tikName": "Жердевская",
+    "regionCode": "68",
+    "regionTvd": "100100084849192",
+    "regionName": "Тамбовская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 22158,
@@ -2219,6 +2309,9 @@ export const president_2018_tic_227_region_68 = [
     "ballot": "presidential",
     "tikTvd": "2682000635725",
     "tikName": "Гавриловская",
+    "regionCode": "68",
+    "regionTvd": "100100084849192",
+    "regionName": "Тамбовская область",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 8294,
@@ -2280,6 +2373,9 @@ export const president_2018_tic_227_region_68 = [
     "ballot": "presidential",
     "tikTvd": "2682000635726",
     "tikName": "Бондарская",
+    "regionCode": "68",
+    "regionTvd": "100100084849192",
+    "regionName": "Тамбовская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9504,

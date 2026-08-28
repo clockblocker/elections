@@ -11,6 +11,9 @@ export const duma_2007_tic_233_region_10 = [
     "ballot": "party",
     "tikTvd": "2102000146222",
     "tikName": "Суоярвская",
+    "regionCode": "10",
+    "regionTvd": "100100021960202",
+    "regionName": "Республика Карелия",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 17632,
@@ -85,6 +88,9 @@ export const duma_2007_tic_233_region_10 = [
     "ballot": "party",
     "tikTvd": "2102000146223",
     "tikName": "Сортавальская городская",
+    "regionCode": "10",
+    "regionTvd": "100100021960202",
+    "regionName": "Республика Карелия",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 27165,
@@ -166,6 +172,9 @@ export const duma_2007_tic_233_region_10 = [
     "ballot": "party",
     "tikTvd": "2102000146224",
     "tikName": "Пудожская",
+    "regionCode": "10",
+    "regionTvd": "100100021960202",
+    "regionName": "Республика Карелия",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 20477,
@@ -250,6 +259,9 @@ export const duma_2007_tic_233_region_10 = [
     "ballot": "party",
     "tikTvd": "2102000146225",
     "tikName": "Пряжинская",
+    "regionCode": "10",
+    "regionTvd": "100100021960202",
+    "regionName": "Республика Карелия",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 13870,
@@ -326,6 +338,9 @@ export const duma_2007_tic_233_region_10 = [
     "ballot": "party",
     "tikTvd": "2102000146226",
     "tikName": "Сегежская",
+    "regionCode": "10",
+    "regionTvd": "100100021960202",
+    "regionName": "Республика Карелия",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 35991,
@@ -419,6 +434,9 @@ export const duma_2007_tic_233_region_10 = [
     "ballot": "party",
     "tikTvd": "2102000146227",
     "tikName": "Прионежская",
+    "regionCode": "10",
+    "regionTvd": "100100021960202",
+    "regionName": "Республика Карелия",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 19512,
@@ -493,6 +511,9 @@ export const duma_2007_tic_233_region_10 = [
     "ballot": "party",
     "tikTvd": "2102000146228",
     "tikName": "Питкярантская",
+    "regionCode": "10",
+    "regionTvd": "100100021960202",
+    "regionName": "Республика Карелия",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 18895,
@@ -569,6 +590,9 @@ export const duma_2007_tic_233_region_10 = [
     "ballot": "party",
     "tikTvd": "2102000146229",
     "tikName": "Петрозаводская городская №1",
+    "regionCode": "10",
+    "regionTvd": "100100021960202",
+    "regionName": "Республика Карелия",
     "uikCount": 71,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 129333,
@@ -694,6 +718,9 @@ export const duma_2007_tic_233_region_10 = [
     "ballot": "party",
     "tikTvd": "2102000146230",
     "tikName": "Муезерская",
+    "regionCode": "10",
+    "regionTvd": "100100021960202",
+    "regionName": "Республика Карелия",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 11463,
@@ -764,6 +791,9 @@ export const duma_2007_tic_233_region_10 = [
     "ballot": "party",
     "tikTvd": "2102000146231",
     "tikName": "Медвежьегорская",
+    "regionCode": "10",
+    "regionTvd": "100100021960202",
+    "regionName": "Республика Карелия",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 29272,
@@ -854,6 +884,9 @@ export const duma_2007_tic_233_region_10 = [
     "ballot": "party",
     "tikTvd": "2102000146232",
     "tikName": "Олонецкая",
+    "regionCode": "10",
+    "regionTvd": "100100021960202",
+    "regionName": "Республика Карелия",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 20936,
@@ -934,6 +967,9 @@ export const duma_2007_tic_233_region_10 = [
     "ballot": "party",
     "tikTvd": "2102000146233",
     "tikName": "Лоухская",
+    "regionCode": "10",
+    "regionTvd": "100100021960202",
+    "regionName": "Республика Карелия",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 15094,
@@ -1005,6 +1041,9 @@ export const duma_2007_tic_233_region_10 = [
     "ballot": "party",
     "tikTvd": "2102000146234",
     "tikName": "Лахденпохская",
+    "regionCode": "10",
+    "regionTvd": "100100021960202",
+    "regionName": "Республика Карелия",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 12703,
@@ -1082,6 +1121,9 @@ export const duma_2007_tic_233_region_10 = [
     "ballot": "party",
     "tikTvd": "2102000146235",
     "tikName": "Костомукшская городская",
+    "regionCode": "10",
+    "regionTvd": "100100021960202",
+    "regionName": "Республика Карелия",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 25254,
@@ -1148,6 +1190,9 @@ export const duma_2007_tic_233_region_10 = [
     "ballot": "party",
     "tikTvd": "2102000146236",
     "tikName": "Кемская",
+    "regionCode": "10",
+    "regionTvd": "100100021960202",
+    "regionName": "Республика Карелия",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 16266,
@@ -1220,6 +1265,9 @@ export const duma_2007_tic_233_region_10 = [
     "ballot": "party",
     "tikTvd": "2102000146237",
     "tikName": "Калевальская",
+    "regionCode": "10",
+    "regionTvd": "100100021960202",
+    "regionName": "Республика Карелия",
     "uikCount": 8,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 7688,
@@ -1282,6 +1330,9 @@ export const duma_2007_tic_233_region_10 = [
     "ballot": "party",
     "tikTvd": "2102000146238",
     "tikName": "Кондопожская",
+    "regionCode": "10",
+    "regionTvd": "100100021960202",
+    "regionName": "Республика Карелия",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 36421,
@@ -1366,6 +1417,9 @@ export const duma_2007_tic_233_region_10 = [
     "ballot": "party",
     "tikTvd": "2102000146239",
     "tikName": "Беломорская",
+    "regionCode": "10",
+    "regionTvd": "100100021960202",
+    "regionName": "Республика Карелия",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 16503,
@@ -1442,6 +1496,9 @@ export const duma_2007_tic_233_region_10 = [
     "ballot": "party",
     "tikTvd": "2102000146240",
     "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100021960202",
+    "regionName": "Республика Карелия",
     "uikCount": 56,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 88665,
@@ -1552,6 +1609,9 @@ export const duma_2007_tic_233_region_10 = [
     "ballot": "party",
     "tikTvd": "2102000146923",
     "tikName": "Петрозаводская городская №3",
+    "regionCode": "10",
+    "regionTvd": "100100021960202",
+    "regionName": "Республика Карелия",
     "uikCount": 79,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 764,

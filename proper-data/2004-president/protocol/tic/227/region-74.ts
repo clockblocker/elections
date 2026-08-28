@@ -11,6 +11,9 @@ export const president_2004_tic_227_region_74 = [
     "ballot": "presidential",
     "tikTvd": "274200078282",
     "tikName": "Челябинск, Калининская",
+    "regionCode": "74",
+    "regionTvd": "1001000882988",
+    "regionName": "Челябинская область",
     "uikCount": 79,
     "accounting": {
       "Число избирателей, внесенных в список": 152285,
@@ -138,6 +141,9 @@ export const president_2004_tic_227_region_74 = [
     "ballot": "presidential",
     "tikTvd": "274200078283",
     "tikName": "Агаповская",
+    "regionCode": "74",
+    "regionTvd": "1001000882988",
+    "regionName": "Челябинская область",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, внесенных в список": 25681,
@@ -232,6 +238,9 @@ export const president_2004_tic_227_region_74 = [
     "ballot": "presidential",
     "tikTvd": "274200078284",
     "tikName": "Аргаяшская",
+    "regionCode": "74",
+    "regionTvd": "1001000882988",
+    "regionName": "Челябинская область",
     "uikCount": 49,
     "accounting": {
       "Число избирателей, внесенных в список": 30351,
@@ -329,6 +338,9 @@ export const president_2004_tic_227_region_74 = [
     "ballot": "presidential",
     "tikTvd": "274200078285",
     "tikName": "Карабашская городская",
+    "regionCode": "74",
+    "regionTvd": "1001000882988",
+    "regionName": "Челябинская область",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, внесенных в список": 12290,
@@ -389,6 +401,9 @@ export const president_2004_tic_227_region_74 = [
     "ballot": "presidential",
     "tikTvd": "274200078286",
     "tikName": "Еткульская",
+    "regionCode": "74",
+    "regionTvd": "1001000882988",
+    "regionName": "Челябинская область",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, внесенных в список": 21422,
@@ -478,6 +493,9 @@ export const president_2004_tic_227_region_74 = [
     "ballot": "presidential",
     "tikTvd": "274200078287",
     "tikName": "Златоустовская городская",
+    "regionCode": "74",
+    "regionTvd": "1001000882988",
+    "regionName": "Челябинская область",
     "uikCount": 80,
     "accounting": {
       "Число избирателей, внесенных в список": 138424,
@@ -606,6 +624,9 @@ export const president_2004_tic_227_region_74 = [
     "ballot": "presidential",
     "tikTvd": "274200078288",
     "tikName": "Верхнеуральская",
+    "regionCode": "74",
+    "regionTvd": "1001000882988",
+    "regionName": "Челябинская область",
     "uikCount": 54,
     "accounting": {
       "Число избирателей, внесенных в список": 28832,
@@ -708,6 +729,9 @@ export const president_2004_tic_227_region_74 = [
     "ballot": "presidential",
     "tikTvd": "274200078289",
     "tikName": "Верхнеуфалейская городская",
+    "regionCode": "74",
+    "regionTvd": "1001000882988",
+    "regionName": "Челябинская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в список": 30507,
@@ -786,6 +810,9 @@ export const president_2004_tic_227_region_74 = [
     "ballot": "presidential",
     "tikTvd": "274200078290",
     "tikName": "Еманжелинская городская      ",
+    "regionCode": "74",
+    "regionTvd": "1001000882988",
+    "regionName": "Челябинская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в список": 38667,
@@ -864,6 +891,9 @@ export const president_2004_tic_227_region_74 = [
     "ballot": "presidential",
     "tikTvd": "274200078291",
     "tikName": "Ашинская городская",
+    "regionCode": "74",
+    "regionTvd": "1001000882988",
+    "regionName": "Челябинская область",
     "uikCount": 55,
     "accounting": {
       "Число избирателей, внесенных в список": 53657,
@@ -967,6 +997,9 @@ export const president_2004_tic_227_region_74 = [
     "ballot": "presidential",
     "tikTvd": "274200078292",
     "tikName": "Брединская",
+    "regionCode": "74",
+    "regionTvd": "1001000882988",
+    "regionName": "Челябинская область",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в список": 21182,
@@ -1050,6 +1083,9 @@ export const president_2004_tic_227_region_74 = [
     "ballot": "presidential",
     "tikTvd": "274200078293",
     "tikName": "Варненская",
+    "regionCode": "74",
+    "regionTvd": "1001000882988",
+    "regionName": "Челябинская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в список": 22280,
@@ -1138,6 +1174,9 @@ export const president_2004_tic_227_region_74 = [
     "ballot": "presidential",
     "tikTvd": "274200078294",
     "tikName": "Кизильская",
+    "regionCode": "74",
+    "regionTvd": "1001000882988",
+    "regionName": "Челябинская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в список": 20059,
@@ -1217,6 +1256,9 @@ export const president_2004_tic_227_region_74 = [
     "ballot": "presidential",
     "tikTvd": "274200078295",
     "tikName": "Копейская городская",
+    "regionCode": "74",
+    "regionTvd": "1001000882988",
+    "regionName": "Челябинская область",
     "uikCount": 61,
     "accounting": {
       "Число избирателей, внесенных в список": 104514,
@@ -1326,6 +1368,9 @@ export const president_2004_tic_227_region_74 = [
     "ballot": "presidential",
     "tikTvd": "274200078296",
     "tikName": "Коркинская городская",
+    "regionCode": "74",
+    "regionTvd": "1001000882988",
+    "regionName": "Челябинская область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список": 48011,
@@ -1410,6 +1455,9 @@ export const president_2004_tic_227_region_74 = [
     "ballot": "presidential",
     "tikTvd": "274200078297",
     "tikName": "Трехгорная городская",
+    "regionCode": "74",
+    "regionTvd": "1001000882988",
+    "regionName": "Челябинская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список": 27705,
@@ -1473,6 +1521,9 @@ export const president_2004_tic_227_region_74 = [
     "ballot": "presidential",
     "tikTvd": "274200078298",
     "tikName": "Снежинская городская",
+    "regionCode": "74",
+    "regionTvd": "1001000882988",
+    "regionName": "Челябинская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список": 41062,
@@ -1539,6 +1590,9 @@ export const president_2004_tic_227_region_74 = [
     "ballot": "presidential",
     "tikTvd": "274200078299",
     "tikName": "Катав-Ивановская",
+    "regionCode": "74",
+    "regionTvd": "1001000882988",
+    "regionName": "Челябинская область",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в список": 29939,
@@ -1622,6 +1676,9 @@ export const president_2004_tic_227_region_74 = [
     "ballot": "presidential",
     "tikTvd": "274200078300",
     "tikName": "Карталинская",
+    "regionCode": "74",
+    "regionTvd": "1001000882988",
+    "regionName": "Челябинская область",
     "uikCount": 55,
     "accounting": {
       "Число избирателей, внесенных в список": 37715,
@@ -1725,6 +1782,9 @@ export const president_2004_tic_227_region_74 = [
     "ballot": "presidential",
     "tikTvd": "274200078301",
     "tikName": "Каслинская",
+    "regionCode": "74",
+    "regionTvd": "1001000882988",
+    "regionName": "Челябинская область",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, внесенных в список": 30900,
@@ -1817,6 +1877,9 @@ export const president_2004_tic_227_region_74 = [
     "ballot": "presidential",
     "tikTvd": "274200078302",
     "tikName": "Локомотивная поселковая",
+    "regionCode": "74",
+    "regionTvd": "1001000882988",
+    "regionName": "Челябинская область",
     "uikCount": 3,
     "accounting": {
       "Число избирателей, внесенных в список": 6314,
@@ -1868,6 +1931,9 @@ export const president_2004_tic_227_region_74 = [
     "ballot": "presidential",
     "tikTvd": "274200078303",
     "tikName": "Магнитогорск, Орджоникидзевская",
+    "regionCode": "74",
+    "regionTvd": "1001000882988",
+    "regionName": "Челябинская область",
     "uikCount": 75,
     "accounting": {
       "Число избирателей, внесенных в список": 143390,
@@ -1991,6 +2057,9 @@ export const president_2004_tic_227_region_74 = [
     "ballot": "presidential",
     "tikTvd": "274200078304",
     "tikName": "Магнитогорск, Правобережная",
+    "regionCode": "74",
+    "regionTvd": "1001000882988",
+    "regionName": "Челябинская область",
     "uikCount": 54,
     "accounting": {
       "Число избирателей, внесенных в список": 91529,
@@ -2093,6 +2162,9 @@ export const president_2004_tic_227_region_74 = [
     "ballot": "presidential",
     "tikTvd": "274200078305",
     "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "1001000882988",
+    "regionName": "Челябинская область",
     "uikCount": 84,
     "accounting": {
       "Число избирателей, внесенных в список": 134236,
@@ -2225,6 +2297,9 @@ export const president_2004_tic_227_region_74 = [
     "ballot": "presidential",
     "tikTvd": "274200078306",
     "tikName": "Магнитогорск, Ленинская",
+    "regionCode": "74",
+    "regionTvd": "1001000882988",
+    "regionName": "Челябинская область",
     "uikCount": 45,
     "accounting": {
       "Число избирателей, внесенных в список": 86208,
@@ -2318,6 +2393,9 @@ export const president_2004_tic_227_region_74 = [
     "ballot": "presidential",
     "tikTvd": "274200078307",
     "tikName": "Озерская городская",
+    "regionCode": "74",
+    "regionTvd": "1001000882988",
+    "regionName": "Челябинская область",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в список": 79246,
@@ -2399,6 +2477,9 @@ export const president_2004_tic_227_region_74 = [
     "ballot": "presidential",
     "tikTvd": "274200078308",
     "tikName": "Кыштымская городская",
+    "regionCode": "74",
+    "regionTvd": "1001000882988",
+    "regionName": "Челябинская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список": 33994,
@@ -2466,6 +2547,9 @@ export const president_2004_tic_227_region_74 = [
     "ballot": "presidential",
     "tikTvd": "274200078309",
     "tikName": "Кусинская",
+    "regionCode": "74",
+    "regionTvd": "1001000882988",
+    "regionName": "Челябинская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список": 24523,
@@ -2537,6 +2621,9 @@ export const president_2004_tic_227_region_74 = [
     "ballot": "presidential",
     "tikTvd": "274200078310",
     "tikName": "Красноармейская",
+    "regionCode": "74",
+    "regionTvd": "1001000882988",
+    "regionName": "Челябинская область",
     "uikCount": 54,
     "accounting": {
       "Число избирателей, внесенных в список": 30922,
@@ -2639,6 +2726,9 @@ export const president_2004_tic_227_region_74 = [
     "ballot": "presidential",
     "tikTvd": "274200078311",
     "tikName": "Кунашакская",
+    "regionCode": "74",
+    "regionTvd": "1001000882988",
+    "regionName": "Челябинская область",
     "uikCount": 45,
     "accounting": {
       "Число избирателей, внесенных в список": 23044,
@@ -2732,6 +2822,9 @@ export const president_2004_tic_227_region_74 = [
     "ballot": "presidential",
     "tikTvd": "274200078312",
     "tikName": "Увельская",
+    "regionCode": "74",
+    "regionTvd": "1001000882988",
+    "regionName": "Челябинская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в список": 22932,
@@ -2811,6 +2904,9 @@ export const president_2004_tic_227_region_74 = [
     "ballot": "presidential",
     "tikTvd": "274200078313",
     "tikName": "Сосновская",
+    "regionCode": "74",
+    "regionTvd": "1001000882988",
+    "regionName": "Челябинская область",
     "uikCount": 49,
     "accounting": {
       "Число избирателей, внесенных в список": 41148,
@@ -2908,6 +3004,9 @@ export const president_2004_tic_227_region_74 = [
     "ballot": "presidential",
     "tikTvd": "274200078314",
     "tikName": "Саткинская",
+    "regionCode": "74",
+    "regionTvd": "1001000882988",
+    "regionName": "Челябинская область",
     "uikCount": 55,
     "accounting": {
       "Число избирателей, внесенных в список": 65081,
@@ -3011,6 +3110,9 @@ export const president_2004_tic_227_region_74 = [
     "ballot": "presidential",
     "tikTvd": "274200078315",
     "tikName": "Троицкая городская",
+    "regionCode": "74",
+    "regionTvd": "1001000882988",
+    "regionName": "Челябинская область",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в список": 59249,
@@ -3097,6 +3199,9 @@ export const president_2004_tic_227_region_74 = [
     "ballot": "presidential",
     "tikTvd": "274200078316",
     "tikName": "Нязепетровская",
+    "regionCode": "74",
+    "regionTvd": "1001000882988",
+    "regionName": "Челябинская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список": 16224,
@@ -3169,6 +3274,9 @@ export const president_2004_tic_227_region_74 = [
     "ballot": "presidential",
     "tikTvd": "274200078317",
     "tikName": "Пластовская городская",
+    "regionCode": "74",
+    "regionTvd": "1001000882988",
+    "regionName": "Челябинская область",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список": 19345,
@@ -3244,6 +3352,9 @@ export const president_2004_tic_227_region_74 = [
     "ballot": "presidential",
     "tikTvd": "274200078318",
     "tikName": "Октябрьская",
+    "regionCode": "74",
+    "regionTvd": "1001000882988",
+    "regionName": "Челябинская область",
     "uikCount": 52,
     "accounting": {
       "Число избирателей, внесенных в список": 18542,
@@ -3344,6 +3455,9 @@ export const president_2004_tic_227_region_74 = [
     "ballot": "presidential",
     "tikTvd": "274200078319",
     "tikName": "Челябинск, Тракторозаводская",
+    "regionCode": "74",
+    "regionTvd": "1001000882988",
+    "regionName": "Челябинская область",
     "uikCount": 58,
     "accounting": {
       "Число избирателей, внесенных в список": 119199,
@@ -3450,6 +3564,9 @@ export const president_2004_tic_227_region_74 = [
     "ballot": "presidential",
     "tikTvd": "274200078320",
     "tikName": "Нагайбакская",
+    "regionCode": "74",
+    "regionTvd": "1001000882988",
+    "regionName": "Челябинская область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список": 16641,
@@ -3534,6 +3651,9 @@ export const president_2004_tic_227_region_74 = [
     "ballot": "presidential",
     "tikTvd": "274200078321",
     "tikName": "Челябинск, Советская",
+    "regionCode": "74",
+    "regionTvd": "1001000882988",
+    "regionName": "Челябинская область",
     "uikCount": 62,
     "accounting": {
       "Число избирателей, внесенных в список": 102788,
@@ -3644,6 +3764,9 @@ export const president_2004_tic_227_region_74 = [
     "ballot": "presidential",
     "tikTvd": "274200078322",
     "tikName": "Челябинск, Металлургическая",
+    "regionCode": "74",
+    "regionTvd": "1001000882988",
+    "regionName": "Челябинская область",
     "uikCount": 59,
     "accounting": {
       "Число избирателей, внесенных в список": 106199,
@@ -3751,6 +3874,9 @@ export const president_2004_tic_227_region_74 = [
     "ballot": "presidential",
     "tikTvd": "274200078323",
     "tikName": "Челябинск, Ленинская",
+    "regionCode": "74",
+    "regionTvd": "1001000882988",
+    "regionName": "Челябинская область",
     "uikCount": 68,
     "accounting": {
       "Число избирателей, внесенных в список": 141726,
@@ -3867,6 +3993,9 @@ export const president_2004_tic_227_region_74 = [
     "ballot": "presidential",
     "tikTvd": "274200078324",
     "tikName": "Челябинск, Курчатовская",
+    "regionCode": "74",
+    "regionTvd": "1001000882988",
+    "regionName": "Челябинская область",
     "uikCount": 72,
     "accounting": {
       "Число избирателей, внесенных в список": 136943,
@@ -3987,6 +4116,9 @@ export const president_2004_tic_227_region_74 = [
     "ballot": "presidential",
     "tikTvd": "274200078325",
     "tikName": "Чебаркульская городская",
+    "regionCode": "74",
+    "regionTvd": "1001000882988",
+    "regionName": "Челябинская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список": 38261,
@@ -4063,6 +4195,9 @@ export const president_2004_tic_227_region_74 = [
     "ballot": "presidential",
     "tikTvd": "274200078326",
     "tikName": "Усть-Катавская городская",
+    "regionCode": "74",
+    "regionTvd": "1001000882988",
+    "regionName": "Челябинская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список": 22934,
@@ -4132,6 +4267,9 @@ export const president_2004_tic_227_region_74 = [
     "ballot": "presidential",
     "tikTvd": "274200078327",
     "tikName": "Уйский район",
+    "regionCode": "74",
+    "regionTvd": "1001000882988",
+    "regionName": "Челябинская область",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в список": 19801,
@@ -4219,6 +4357,9 @@ export const president_2004_tic_227_region_74 = [
     "ballot": "presidential",
     "tikTvd": "274200078328",
     "tikName": "Чебаркульская",
+    "regionCode": "74",
+    "regionTvd": "1001000882988",
+    "regionName": "Челябинская область",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, внесенных в список": 22394,
@@ -4309,6 +4450,9 @@ export const president_2004_tic_227_region_74 = [
     "ballot": "presidential",
     "tikTvd": "274200078329",
     "tikName": "Южноуральская городская",
+    "regionCode": "74",
+    "regionTvd": "1001000882988",
+    "regionName": "Челябинская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список": 30683,
@@ -4377,6 +4521,9 @@ export const president_2004_tic_227_region_74 = [
     "ballot": "presidential",
     "tikTvd": "274200078330",
     "tikName": "Чесменская",
+    "regionCode": "74",
+    "regionTvd": "1001000882988",
+    "regionName": "Челябинская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список": 14938,
@@ -4454,6 +4601,9 @@ export const president_2004_tic_227_region_74 = [
     "ballot": "presidential",
     "tikTvd": "274200078331",
     "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "1001000882988",
+    "regionName": "Челябинская область",
     "uikCount": 60,
     "accounting": {
       "Число избирателей, внесенных в список": 24571,
@@ -4562,6 +4712,9 @@ export const president_2004_tic_227_region_74 = [
     "ballot": "presidential",
     "tikTvd": "274200078332",
     "tikName": "Челябинск, Центральная",
+    "regionCode": "74",
+    "regionTvd": "1001000882988",
+    "regionName": "Челябинская область",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, внесенных в список": 70855,

@@ -11,6 +11,9 @@ export const president_2004_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "205200076692",
     "tikName": "Каспийская городская",
+    "regionCode": "5",
+    "regionTvd": "1001000882978",
+    "regionName": "Республика Дагестан",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список": 46278,
@@ -80,6 +83,9 @@ export const president_2004_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "205200076693",
     "tikName": "Бабаюртовская",
+    "regionCode": "5",
+    "regionTvd": "1001000882978",
+    "regionName": "Республика Дагестан",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список": 21778,
@@ -152,6 +158,9 @@ export const president_2004_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "205200076694",
     "tikName": "Кизилюртовская городская",
+    "regionCode": "5",
+    "regionTvd": "1001000882978",
+    "regionName": "Республика Дагестан",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список": 24161,
@@ -222,6 +231,9 @@ export const president_2004_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "205200076695",
     "tikName": "Кизилюртовская",
+    "regionCode": "5",
+    "regionTvd": "1001000882978",
+    "regionName": "Республика Дагестан",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в список": 39173,
@@ -304,6 +316,9 @@ export const president_2004_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "205200076696",
     "tikName": "Кизлярская городская",
+    "regionCode": "5",
+    "regionTvd": "1001000882978",
+    "regionName": "Республика Дагестан",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в список": 25186,
@@ -369,6 +384,9 @@ export const president_2004_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "205200076697",
     "tikName": "Кизлярская",
+    "regionCode": "5",
+    "regionTvd": "1001000882978",
+    "regionName": "Республика Дагестан",
     "uikCount": 49,
     "accounting": {
       "Число избирателей, внесенных в список": 35413,
@@ -466,6 +484,9 @@ export const president_2004_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "205200076698",
     "tikName": "Махачкала, Кировская",
+    "regionCode": "5",
+    "regionTvd": "1001000882978",
+    "regionName": "Республика Дагестан",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в список": 72584,
@@ -546,6 +567,9 @@ export const president_2004_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "205200076699",
     "tikName": "Махачкала, Ленинская",
+    "regionCode": "5",
+    "regionTvd": "1001000882978",
+    "regionName": "Республика Дагестан",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в список": 67917,
@@ -625,6 +649,9 @@ export const president_2004_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "205200076700",
     "tikName": "Махачкала, Советская",
+    "regionCode": "5",
+    "regionTvd": "1001000882978",
+    "regionName": "Республика Дагестан",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, внесенных в список": 94379,
@@ -716,6 +743,9 @@ export const president_2004_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "205200076701",
     "tikName": "Ногайская",
+    "regionCode": "5",
+    "regionTvd": "1001000882978",
+    "regionName": "Республика Дагестан",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список": 13280,
@@ -785,6 +815,9 @@ export const president_2004_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "205200076702",
     "tikName": "Тарумовская",
+    "regionCode": "5",
+    "regionTvd": "1001000882978",
+    "regionName": "Республика Дагестан",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список": 17392,
@@ -853,6 +886,9 @@ export const president_2004_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "205200076703",
     "tikName": "Южно-Сухокумская городская",
+    "regionCode": "5",
+    "regionTvd": "1001000882978",
+    "regionName": "Республика Дагестан",
     "uikCount": 4,
     "accounting": {
       "Число избирателей, внесенных в список": 5145,
@@ -905,6 +941,9 @@ export const president_2004_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "205200076704",
     "tikName": "Ахвахская",
+    "regionCode": "5",
+    "regionTvd": "1001000882978",
+    "regionName": "Республика Дагестан",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список": 12081,
@@ -980,6 +1019,9 @@ export const president_2004_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "205200076705",
     "tikName": "Ботлихская",
+    "regionCode": "5",
+    "regionTvd": "1001000882978",
+    "regionName": "Республика Дагестан",
     "uikCount": 45,
     "accounting": {
       "Число избирателей, внесенных в список": 26482,
@@ -1073,6 +1115,9 @@ export const president_2004_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "205200076706",
     "tikName": "Буйнакская городская",
+    "regionCode": "5",
+    "regionTvd": "1001000882978",
+    "regionName": "Республика Дагестан",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список": 38874,
@@ -1143,6 +1188,9 @@ export const president_2004_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "205200076707",
     "tikName": "Буйнакская",
+    "regionCode": "5",
+    "regionTvd": "1001000882978",
+    "regionName": "Республика Дагестан",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в список": 40890,
@@ -1223,6 +1271,9 @@ export const president_2004_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "205200076708",
     "tikName": "Гергебильская",
+    "regionCode": "5",
+    "regionTvd": "1001000882978",
+    "regionName": "Республика Дагестан",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список": 10120,
@@ -1290,6 +1341,9 @@ export const president_2004_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "205200076709",
     "tikName": "Гумбетовская",
+    "regionCode": "5",
+    "regionTvd": "1001000882978",
+    "regionName": "Республика Дагестан",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список": 10181,
@@ -1367,6 +1421,9 @@ export const president_2004_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "205200076710",
     "tikName": "Гунибская",
+    "regionCode": "5",
+    "regionTvd": "1001000882978",
+    "regionName": "Республика Дагестан",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в список": 14548,
@@ -1449,6 +1506,9 @@ export const president_2004_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "205200076711",
     "tikName": "Казбековская",
+    "regionCode": "5",
+    "regionTvd": "1001000882978",
+    "regionName": "Республика Дагестан",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список": 21196,
@@ -1517,6 +1577,9 @@ export const president_2004_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "205200076712",
     "tikName": "Кумторкалинская",
+    "regionCode": "5",
+    "regionTvd": "1001000882978",
+    "regionName": "Республика Дагестан",
     "uikCount": 8,
     "accounting": {
       "Число избирателей, внесенных в список": 12264,
@@ -1573,6 +1636,9 @@ export const president_2004_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "205200076713",
     "tikName": "Левашинская",
+    "regionCode": "5",
+    "regionTvd": "1001000882978",
+    "regionName": "Республика Дагестан",
     "uikCount": 52,
     "accounting": {
       "Число избирателей, внесенных в список": 37904,
@@ -1673,6 +1739,9 @@ export const president_2004_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "205200076714",
     "tikName": "Новолакская",
+    "regionCode": "5",
+    "regionTvd": "1001000882978",
+    "regionName": "Республика Дагестан",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список": 14428,
@@ -1747,6 +1816,9 @@ export const president_2004_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "205200076715",
     "tikName": "Тляратинская",
+    "regionCode": "5",
+    "regionTvd": "1001000882978",
+    "regionName": "Республика Дагестан",
     "uikCount": 63,
     "accounting": {
       "Число избирателей, внесенных в список": 13350,
@@ -1858,6 +1930,9 @@ export const president_2004_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "205200076716",
     "tikName": "Унцукульская",
+    "regionCode": "5",
+    "regionTvd": "1001000882978",
+    "regionName": "Республика Дагестан",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список": 13538,
@@ -1926,6 +2001,9 @@ export const president_2004_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "205200076717",
     "tikName": "Хасавюртовская городская",
+    "regionCode": "5",
+    "regionTvd": "1001000882978",
+    "regionName": "Республика Дагестан",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список": 64615,
@@ -2000,6 +2078,9 @@ export const president_2004_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "205200076718",
     "tikName": "Хасавюртовская",
+    "regionCode": "5",
+    "regionTvd": "1001000882978",
+    "regionName": "Республика Дагестан",
     "uikCount": 60,
     "accounting": {
       "Число избирателей, внесенных в список": 78469,
@@ -2108,6 +2189,9 @@ export const president_2004_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "205200076719",
     "tikName": "Хунзахская",
+    "regionCode": "5",
+    "regionTvd": "1001000882978",
+    "regionName": "Республика Дагестан",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, внесенных в список": 18616,
@@ -2200,6 +2284,9 @@ export const president_2004_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "205200076720",
     "tikName": "Цумадинская",
+    "regionCode": "5",
+    "regionTvd": "1001000882978",
+    "regionName": "Республика Дагестан",
     "uikCount": 49,
     "accounting": {
       "Число избирателей, внесенных в список": 12936,
@@ -2297,6 +2384,9 @@ export const president_2004_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "205200076722",
     "tikName": "Шамильская",
+    "regionCode": "5",
+    "regionTvd": "1001000882978",
+    "regionName": "Республика Дагестан",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, внесенных в список": 16859,
@@ -2389,6 +2479,9 @@ export const president_2004_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "205200076723",
     "tikName": "Чародинская",
+    "regionCode": "5",
+    "regionTvd": "1001000882978",
+    "regionName": "Республика Дагестан",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, внесенных в список": 7230,
@@ -2483,6 +2576,9 @@ export const president_2004_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "205200076724",
     "tikName": "Агульская",
+    "regionCode": "5",
+    "regionTvd": "1001000882978",
+    "regionName": "Республика Дагестан",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в список": 5476,
@@ -2548,6 +2644,9 @@ export const president_2004_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "205200076725",
     "tikName": "Акушинская",
+    "regionCode": "5",
+    "regionTvd": "1001000882978",
+    "regionName": "Республика Дагестан",
     "uikCount": 47,
     "accounting": {
       "Число избирателей, внесенных в список": 28147,
@@ -2643,6 +2742,9 @@ export const president_2004_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "205200076726",
     "tikName": "Дербентская городская",
+    "regionCode": "5",
+    "regionTvd": "1001000882978",
+    "regionName": "Республика Дагестан",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список": 64491,
@@ -2727,6 +2829,9 @@ export const president_2004_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "205200076727",
     "tikName": "Кулинская",
+    "regionCode": "5",
+    "regionTvd": "1001000882978",
+    "regionName": "Республика Дагестан",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в список": 5827,
@@ -2792,6 +2897,9 @@ export const president_2004_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "205200076728",
     "tikName": "Хивская",
+    "regionCode": "5",
+    "regionTvd": "1001000882978",
+    "regionName": "Республика Дагестан",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в список": 11250,
@@ -2875,6 +2983,9 @@ export const president_2004_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "205200076729",
     "tikName": "Дагогнинская городская",
+    "regionCode": "5",
+    "regionTvd": "1001000882978",
+    "regionName": "Республика Дагестан",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, внесенных в список": 17388,
@@ -2934,6 +3045,9 @@ export const president_2004_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "205200076730",
     "tikName": "Ахтынская",
+    "regionCode": "5",
+    "regionTvd": "1001000882978",
+    "regionName": "Республика Дагестан",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список": 15975,
@@ -3006,6 +3120,9 @@ export const president_2004_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "205200076731",
     "tikName": "Дахадаевская",
+    "regionCode": "5",
+    "regionTvd": "1001000882978",
+    "regionName": "Республика Дагестан",
     "uikCount": 56,
     "accounting": {
       "Число избирателей, внесенных в список": 21051,
@@ -3110,6 +3227,9 @@ export const president_2004_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "205200076732",
     "tikName": "Дербентская",
+    "regionCode": "5",
+    "regionTvd": "1001000882978",
+    "regionName": "Республика Дагестан",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, внесенных в список": 50404,
@@ -3200,6 +3320,9 @@ export const president_2004_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "205200076733",
     "tikName": "Докузпаринская",
+    "regionCode": "5",
+    "regionTvd": "1001000882978",
+    "regionName": "Республика Дагестан",
     "uikCount": 10,
     "accounting": {
       "Число избирателей, внесенных в список": 8866,
@@ -3258,6 +3381,9 @@ export const president_2004_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "205200076734",
     "tikName": "Избербашская городская",
+    "regionCode": "5",
+    "regionTvd": "1001000882978",
+    "regionName": "Республика Дагестан",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список": 25453,
@@ -3321,6 +3447,9 @@ export const president_2004_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "205200076735",
     "tikName": "Кайтагская",
+    "regionCode": "5",
+    "regionTvd": "1001000882978",
+    "regionName": "Республика Дагестан",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в список": 16761,
@@ -3406,6 +3535,9 @@ export const president_2004_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "205200076736",
     "tikName": "Карабудахкентская",
+    "regionCode": "5",
+    "regionTvd": "1001000882978",
+    "regionName": "Республика Дагестан",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список": 37663,
@@ -3483,6 +3615,9 @@ export const president_2004_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "205200076737",
     "tikName": "Каякентская",
+    "regionCode": "5",
+    "regionTvd": "1001000882978",
+    "regionName": "Республика Дагестан",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список": 27930,
@@ -3555,6 +3690,9 @@ export const president_2004_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "205200076738",
     "tikName": "Курахская",
+    "regionCode": "5",
+    "regionTvd": "1001000882978",
+    "regionName": "Республика Дагестан",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в список": 8806,
@@ -3634,6 +3772,9 @@ export const president_2004_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "205200076739",
     "tikName": "Лакская",
+    "regionCode": "5",
+    "regionTvd": "1001000882978",
+    "regionName": "Республика Дагестан",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в список": 6338,
@@ -3717,6 +3858,9 @@ export const president_2004_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "205200076740",
     "tikName": "Магарамкентская",
+    "regionCode": "5",
+    "regionTvd": "1001000882978",
+    "regionName": "Республика Дагестан",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в список": 38598,
@@ -3798,6 +3942,9 @@ export const president_2004_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "205200076741",
     "tikName": "Рутульская",
+    "regionCode": "5",
+    "regionTvd": "1001000882978",
+    "regionName": "Республика Дагестан",
     "uikCount": 52,
     "accounting": {
       "Число избирателей, внесенных в список": 12828,
@@ -3898,6 +4045,9 @@ export const president_2004_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "205200076742",
     "tikName": "Сергокалинская",
+    "regionCode": "5",
+    "regionTvd": "1001000882978",
+    "regionName": "Республика Дагестан",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список": 17143,
@@ -3974,6 +4124,9 @@ export const president_2004_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "205200076743",
     "tikName": "Сулейман-Стальская",
+    "regionCode": "5",
+    "regionTvd": "1001000882978",
+    "regionName": "Республика Дагестан",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, внесенных в список": 32694,
@@ -4064,6 +4217,9 @@ export const president_2004_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "205200076744",
     "tikName": "Табасаранская",
+    "regionCode": "5",
+    "regionTvd": "1001000882978",
+    "regionName": "Республика Дагестан",
     "uikCount": 66,
     "accounting": {
       "Число избирателей, внесенных в список": 28149,
@@ -4178,6 +4334,9 @@ export const president_2004_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "205200078904",
     "tikName": "Бежтинская",
+    "regionCode": "5",
+    "regionTvd": "1001000882978",
+    "regionName": "Республика Дагестан",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в список": 5148,
@@ -4240,6 +4399,9 @@ export const president_2004_tic_227_region_5 = [
     "ballot": "presidential",
     "tikTvd": "205200079672",
     "tikName": "Цунтинская",
+    "regionCode": "5",
+    "regionTvd": "1001000882978",
+    "regionName": "Республика Дагестан",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в список": 5583,

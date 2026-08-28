@@ -11,6 +11,9 @@ export const duma_2007_tic_233_region_44 = [
     "ballot": "party",
     "tikTvd": "2442000154597",
     "tikName": "Шарьинская городская",
+    "regionCode": "44",
+    "regionTvd": "100100021960264",
+    "regionName": "Костромская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 30911,
@@ -83,6 +86,9 @@ export const duma_2007_tic_233_region_44 = [
     "ballot": "party",
     "tikTvd": "2442000154598",
     "tikName": "Чухломская",
+    "regionCode": "44",
+    "regionTvd": "100100021960264",
+    "regionName": "Костромская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 10016,
@@ -161,6 +167,9 @@ export const duma_2007_tic_233_region_44 = [
     "ballot": "party",
     "tikTvd": "2442000154599",
     "tikName": "Сусанинская",
+    "regionCode": "44",
+    "regionTvd": "100100021960264",
+    "regionName": "Костромская область",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 6998,
@@ -229,6 +238,9 @@ export const duma_2007_tic_233_region_44 = [
     "ballot": "party",
     "tikTvd": "2442000154600",
     "tikName": "Судиславская",
+    "regionCode": "44",
+    "regionTvd": "100100021960264",
+    "regionName": "Костромская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 11974,
@@ -306,6 +318,9 @@ export const duma_2007_tic_233_region_44 = [
     "ballot": "party",
     "tikTvd": "2442000154601",
     "tikName": "Пыщугская",
+    "regionCode": "44",
+    "regionTvd": "100100021960264",
+    "regionName": "Костромская область",
     "uikCount": 10,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 4538,
@@ -370,6 +385,9 @@ export const duma_2007_tic_233_region_44 = [
     "ballot": "party",
     "tikTvd": "2442000154602",
     "tikName": "Солигаличская",
+    "regionCode": "44",
+    "regionTvd": "100100021960264",
+    "regionName": "Костромская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 9132,
@@ -447,6 +465,9 @@ export const duma_2007_tic_233_region_44 = [
     "ballot": "party",
     "tikTvd": "2442000154603",
     "tikName": "Галичская",
+    "regionCode": "44",
+    "regionTvd": "100100021960264",
+    "regionName": "Костромская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 8188,
@@ -529,6 +550,9 @@ export const duma_2007_tic_233_region_44 = [
     "ballot": "party",
     "tikTvd": "2442000154604",
     "tikName": "Шарьинская",
+    "regionCode": "44",
+    "regionTvd": "100100021960264",
+    "regionName": "Костромская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 8936,
@@ -603,6 +627,9 @@ export const duma_2007_tic_233_region_44 = [
     "ballot": "party",
     "tikTvd": "2442000154605",
     "tikName": "Мантуровская",
+    "regionCode": "44",
+    "regionTvd": "100100021960264",
+    "regionName": "Костромская область",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 4786,
@@ -670,6 +697,9 @@ export const duma_2007_tic_233_region_44 = [
     "ballot": "party",
     "tikTvd": "2442000154606",
     "tikName": "Антроповская",
+    "regionCode": "44",
+    "regionTvd": "100100021960264",
+    "regionName": "Костромская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 6509,
@@ -742,6 +772,9 @@ export const duma_2007_tic_233_region_44 = [
     "ballot": "party",
     "tikTvd": "2442000154607",
     "tikName": "Буйская городская",
+    "regionCode": "44",
+    "regionTvd": "100100021960264",
+    "regionName": "Костромская область",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 21392,
@@ -813,6 +846,9 @@ export const duma_2007_tic_233_region_44 = [
     "ballot": "party",
     "tikTvd": "2442000154608",
     "tikName": "Красносельская",
+    "regionCode": "44",
+    "regionTvd": "100100021960264",
+    "regionName": "Костромская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 15696,
@@ -889,6 +925,9 @@ export const duma_2007_tic_233_region_44 = [
     "ballot": "party",
     "tikTvd": "2442000154609",
     "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100021960264",
+    "regionName": "Костромская область",
     "uikCount": 106,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 230473,
@@ -1049,6 +1088,9 @@ export const duma_2007_tic_233_region_44 = [
     "ballot": "party",
     "tikTvd": "2442000154610",
     "tikName": "Кологривская",
+    "regionCode": "44",
+    "regionTvd": "100100021960264",
+    "regionName": "Костромская область",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 6435,
@@ -1120,6 +1162,9 @@ export const duma_2007_tic_233_region_44 = [
     "ballot": "party",
     "tikTvd": "2442000154611",
     "tikName": "Костромская",
+    "regionCode": "44",
+    "regionTvd": "100100021960264",
+    "regionName": "Костромская область",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 34534,
@@ -1212,6 +1257,9 @@ export const duma_2007_tic_233_region_44 = [
     "ballot": "party",
     "tikTvd": "2442000154612",
     "tikName": "Вохомская",
+    "regionCode": "44",
+    "regionTvd": "100100021960264",
+    "regionName": "Костромская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 9934,
@@ -1292,6 +1340,9 @@ export const duma_2007_tic_233_region_44 = [
     "ballot": "party",
     "tikTvd": "2442000154613",
     "tikName": "Галичская городская",
+    "regionCode": "44",
+    "regionTvd": "100100021960264",
+    "regionName": "Костромская область",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 14318,
@@ -1358,6 +1409,9 @@ export const duma_2007_tic_233_region_44 = [
     "ballot": "party",
     "tikTvd": "2442000154614",
     "tikName": "Кадыйская",
+    "regionCode": "44",
+    "regionTvd": "100100021960264",
+    "regionName": "Костромская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 7684,
@@ -1433,6 +1487,9 @@ export const duma_2007_tic_233_region_44 = [
     "ballot": "party",
     "tikTvd": "2442000154615",
     "tikName": "Макарьевская",
+    "regionCode": "44",
+    "regionTvd": "100100021960264",
+    "regionName": "Костромская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 14977,
@@ -1517,6 +1574,9 @@ export const duma_2007_tic_233_region_44 = [
     "ballot": "party",
     "tikTvd": "2442000154616",
     "tikName": "Парфеньевская",
+    "regionCode": "44",
+    "regionTvd": "100100021960264",
+    "regionName": "Костромская область",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 5666,
@@ -1583,6 +1643,9 @@ export const duma_2007_tic_233_region_44 = [
     "ballot": "party",
     "tikTvd": "2442000154617",
     "tikName": "Волгореченская городская",
+    "regionCode": "44",
+    "regionTvd": "100100021960264",
+    "regionName": "Костромская область",
     "uikCount": 6,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 14296,
@@ -1643,6 +1706,9 @@ export const duma_2007_tic_233_region_44 = [
     "ballot": "party",
     "tikTvd": "2442000154618",
     "tikName": "Октябрьская",
+    "regionCode": "44",
+    "regionTvd": "100100021960264",
+    "regionName": "Костромская область",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 4453,
@@ -1708,6 +1774,9 @@ export const duma_2007_tic_233_region_44 = [
     "ballot": "party",
     "tikTvd": "2442000154619",
     "tikName": "Павинская",
+    "regionCode": "44",
+    "regionTvd": "100100021960264",
+    "regionName": "Костромская область",
     "uikCount": 10,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 4667,
@@ -1772,6 +1841,9 @@ export const duma_2007_tic_233_region_44 = [
     "ballot": "party",
     "tikTvd": "2442000154620",
     "tikName": "Островская",
+    "regionCode": "44",
+    "regionTvd": "100100021960264",
+    "regionName": "Костромская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 10624,
@@ -1851,6 +1923,9 @@ export const duma_2007_tic_233_region_44 = [
     "ballot": "party",
     "tikTvd": "2442000154621",
     "tikName": "Нерехтская",
+    "regionCode": "44",
+    "regionTvd": "100100021960264",
+    "regionName": "Костромская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 31723,
@@ -1939,6 +2014,9 @@ export const duma_2007_tic_233_region_44 = [
     "ballot": "party",
     "tikTvd": "2442000154622",
     "tikName": "Нейская",
+    "regionCode": "44",
+    "regionTvd": "100100021960264",
+    "regionName": "Костромская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 13631,
@@ -2017,6 +2095,9 @@ export const duma_2007_tic_233_region_44 = [
     "ballot": "party",
     "tikTvd": "2442000154623",
     "tikName": "Межевская",
+    "regionCode": "44",
+    "regionTvd": "100100021960264",
+    "regionName": "Костромская область",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 4379,
@@ -2083,6 +2164,9 @@ export const duma_2007_tic_233_region_44 = [
     "ballot": "party",
     "tikTvd": "2442000154624",
     "tikName": "Буйская",
+    "regionCode": "44",
+    "regionTvd": "100100021960264",
+    "regionName": "Костромская область",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 10242,
@@ -2164,6 +2248,9 @@ export const duma_2007_tic_233_region_44 = [
     "ballot": "party",
     "tikTvd": "2442000154625",
     "tikName": "Мантуровская городская",
+    "regionCode": "44",
+    "regionTvd": "100100021960264",
+    "regionName": "Костромская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 15358,
@@ -2233,6 +2320,9 @@ export const duma_2007_tic_233_region_44 = [
     "ballot": "party",
     "tikTvd": "2442000154626",
     "tikName": "Поназыревская",
+    "regionCode": "44",
+    "regionTvd": "100100021960264",
+    "regionName": "Костромская область",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 6760,

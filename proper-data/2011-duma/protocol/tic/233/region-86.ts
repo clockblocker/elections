@@ -11,6 +11,9 @@ export const duma_2011_tic_233_region_86 = [
     "ballot": "party",
     "tikTvd": "2862000216082",
     "tikName": "Югорская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 22889,
@@ -71,6 +74,9 @@ export const duma_2011_tic_233_region_86 = [
     "ballot": "party",
     "tikTvd": "2862000216083",
     "tikName": " Ханты-Мансийская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 46805,
@@ -146,6 +152,9 @@ export const duma_2011_tic_233_region_86 = [
     "ballot": "party",
     "tikTvd": "2862000216084",
     "tikName": "Ханты-Мансийская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 13054,
@@ -222,6 +231,9 @@ export const duma_2011_tic_233_region_86 = [
     "ballot": "party",
     "tikTvd": "2862000216085",
     "tikName": "Урайская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 29341,
@@ -291,6 +303,9 @@ export const duma_2011_tic_233_region_86 = [
     "ballot": "party",
     "tikTvd": "2862000216086",
     "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
     "uikCount": 104,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 241957,
@@ -444,6 +459,9 @@ export const duma_2011_tic_233_region_86 = [
     "ballot": "party",
     "tikTvd": "2862000216087",
     "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
     "uikCount": 47,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 81719,
@@ -540,6 +558,9 @@ export const duma_2011_tic_233_region_86 = [
     "ballot": "party",
     "tikTvd": "2862000216088",
     "tikName": "Советская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 36848,
@@ -607,6 +628,9 @@ export const duma_2011_tic_233_region_86 = [
     "ballot": "party",
     "tikTvd": "2862000216089",
     "tikName": "Радужнинская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 28567,
@@ -671,6 +695,9 @@ export const duma_2011_tic_233_region_86 = [
     "ballot": "party",
     "tikTvd": "2862000216090",
     "tikName": "Пыть-Яхская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 30230,
@@ -736,6 +763,9 @@ export const duma_2011_tic_233_region_86 = [
     "ballot": "party",
     "tikTvd": "2862000216091",
     "tikName": "Покачевская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
     "uikCount": 9,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 11617,
@@ -794,6 +824,9 @@ export const duma_2011_tic_233_region_86 = [
     "ballot": "party",
     "tikTvd": "2862000216092",
     "tikName": "Октябрьская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 26688,
@@ -869,6 +902,9 @@ export const duma_2011_tic_233_region_86 = [
     "ballot": "party",
     "tikTvd": "2862000216093",
     "tikName": "Няганьская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 39169,
@@ -943,6 +979,9 @@ export const duma_2011_tic_233_region_86 = [
     "ballot": "party",
     "tikTvd": "2862000216094",
     "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
     "uikCount": 88,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 174533,
@@ -1080,6 +1119,9 @@ export const duma_2011_tic_233_region_86 = [
     "ballot": "party",
     "tikTvd": "2862000216095",
     "tikName": "Нижневартовская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 21849,
@@ -1152,6 +1194,9 @@ export const duma_2011_tic_233_region_86 = [
     "ballot": "party",
     "tikTvd": "2862000216096",
     "tikName": "Нефтеюганская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 76225,
@@ -1251,6 +1296,9 @@ export const duma_2011_tic_233_region_86 = [
     "ballot": "party",
     "tikTvd": "2862000216097",
     "tikName": "Нефтеюганская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 29434,
@@ -1326,6 +1374,9 @@ export const duma_2011_tic_233_region_86 = [
     "ballot": "party",
     "tikTvd": "2862000216098",
     "tikName": "Мегионская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 42307,
@@ -1395,6 +1446,9 @@ export const duma_2011_tic_233_region_86 = [
     "ballot": "party",
     "tikTvd": "2862000216099",
     "tikName": "Лангепасская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 26920,
@@ -1464,6 +1518,9 @@ export const duma_2011_tic_233_region_86 = [
     "ballot": "party",
     "tikTvd": "2862000216100",
     "tikName": "Кондинская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 23965,
@@ -1539,6 +1596,9 @@ export const duma_2011_tic_233_region_86 = [
     "ballot": "party",
     "tikTvd": "2862000216101",
     "tikName": "Когалымская городская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 42297,
@@ -1610,6 +1670,9 @@ export const duma_2011_tic_233_region_86 = [
     "ballot": "party",
     "tikTvd": "2862000216102",
     "tikName": "Березовская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 16765,
@@ -1679,6 +1742,9 @@ export const duma_2011_tic_233_region_86 = [
     "ballot": "party",
     "tikTvd": "2862000216103",
     "tikName": "Белоярская",
+    "regionCode": "86",
+    "regionTvd": "100100028713476",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 19279,

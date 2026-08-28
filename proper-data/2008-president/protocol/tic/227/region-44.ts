@@ -11,6 +11,9 @@ export const president_2008_tic_227_region_44 = [
     "ballot": "presidential",
     "tikTvd": "2442000160322",
     "tikName": "Шарьинская городская",
+    "regionCode": "44",
+    "regionTvd": "100100022249939",
+    "regionName": "Костромская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 30638,
@@ -76,6 +79,9 @@ export const president_2008_tic_227_region_44 = [
     "ballot": "presidential",
     "tikTvd": "2442000160323",
     "tikName": "Чухломская",
+    "regionCode": "44",
+    "regionTvd": "100100022249939",
+    "regionName": "Костромская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 9650,
@@ -147,6 +153,9 @@ export const president_2008_tic_227_region_44 = [
     "ballot": "presidential",
     "tikTvd": "2442000160324",
     "tikName": "Сусанинская",
+    "regionCode": "44",
+    "regionTvd": "100100022249939",
+    "regionName": "Костромская область",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 6878,
@@ -208,6 +217,9 @@ export const president_2008_tic_227_region_44 = [
     "ballot": "presidential",
     "tikTvd": "2442000160325",
     "tikName": "Судиславская",
+    "regionCode": "44",
+    "regionTvd": "100100022249939",
+    "regionName": "Костромская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 11838,
@@ -278,6 +290,9 @@ export const president_2008_tic_227_region_44 = [
     "ballot": "presidential",
     "tikTvd": "2442000160326",
     "tikName": "Пыщугская",
+    "regionCode": "44",
+    "regionTvd": "100100022249939",
+    "regionName": "Костромская область",
     "uikCount": 10,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 4452,
@@ -335,6 +350,9 @@ export const president_2008_tic_227_region_44 = [
     "ballot": "presidential",
     "tikTvd": "2442000160327",
     "tikName": "Солигаличская",
+    "regionCode": "44",
+    "regionTvd": "100100022249939",
+    "regionName": "Костромская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 8793,
@@ -405,6 +423,9 @@ export const president_2008_tic_227_region_44 = [
     "ballot": "presidential",
     "tikTvd": "2442000160328",
     "tikName": "Галичская",
+    "regionCode": "44",
+    "regionTvd": "100100022249939",
+    "regionName": "Костромская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 7911,
@@ -480,6 +501,9 @@ export const president_2008_tic_227_region_44 = [
     "ballot": "presidential",
     "tikTvd": "2442000160329",
     "tikName": "Шарьинская",
+    "regionCode": "44",
+    "regionTvd": "100100022249939",
+    "regionName": "Костромская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 8618,
@@ -545,6 +569,9 @@ export const president_2008_tic_227_region_44 = [
     "ballot": "presidential",
     "tikTvd": "2442000160330",
     "tikName": "Мантуровская",
+    "regionCode": "44",
+    "regionTvd": "100100022249939",
+    "regionName": "Костромская область",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 4586,
@@ -605,6 +632,9 @@ export const president_2008_tic_227_region_44 = [
     "ballot": "presidential",
     "tikTvd": "2442000160331",
     "tikName": "Антроповская",
+    "regionCode": "44",
+    "regionTvd": "100100022249939",
+    "regionName": "Костромская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 6366,
@@ -670,6 +700,9 @@ export const president_2008_tic_227_region_44 = [
     "ballot": "presidential",
     "tikTvd": "2442000160332",
     "tikName": "Буйская городская",
+    "regionCode": "44",
+    "regionTvd": "100100022249939",
+    "regionName": "Костромская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 20926,
@@ -735,6 +768,9 @@ export const president_2008_tic_227_region_44 = [
     "ballot": "presidential",
     "tikTvd": "2442000160333",
     "tikName": "Красносельская",
+    "regionCode": "44",
+    "regionTvd": "100100022249939",
+    "regionName": "Костромская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 15530,
@@ -804,6 +840,9 @@ export const president_2008_tic_227_region_44 = [
     "ballot": "presidential",
     "tikTvd": "2442000160334",
     "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100022249939",
+    "regionName": "Костромская область",
     "uikCount": 111,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 229605,
@@ -962,6 +1001,9 @@ export const president_2008_tic_227_region_44 = [
     "ballot": "presidential",
     "tikTvd": "2442000160335",
     "tikName": "Кологривская",
+    "regionCode": "44",
+    "regionTvd": "100100022249939",
+    "regionName": "Костромская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 6282,
@@ -1027,6 +1069,9 @@ export const president_2008_tic_227_region_44 = [
     "ballot": "presidential",
     "tikTvd": "2442000160336",
     "tikName": "Костромская",
+    "regionCode": "44",
+    "regionTvd": "100100022249939",
+    "regionName": "Костромская область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 33857,
@@ -1110,6 +1155,9 @@ export const president_2008_tic_227_region_44 = [
     "ballot": "presidential",
     "tikTvd": "2442000160337",
     "tikName": "Вохомская",
+    "regionCode": "44",
+    "regionTvd": "100100022249939",
+    "regionName": "Костромская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 9700,
@@ -1183,6 +1231,9 @@ export const president_2008_tic_227_region_44 = [
     "ballot": "presidential",
     "tikTvd": "2442000160338",
     "tikName": "Галичская городская",
+    "regionCode": "44",
+    "regionTvd": "100100022249939",
+    "regionName": "Костромская область",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 14065,
@@ -1243,6 +1294,9 @@ export const president_2008_tic_227_region_44 = [
     "ballot": "presidential",
     "tikTvd": "2442000160339",
     "tikName": "Кадыйская",
+    "regionCode": "44",
+    "regionTvd": "100100022249939",
+    "regionName": "Костромская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 7394,
@@ -1311,6 +1365,9 @@ export const president_2008_tic_227_region_44 = [
     "ballot": "presidential",
     "tikTvd": "2442000160340",
     "tikName": "Макарьевская",
+    "regionCode": "44",
+    "regionTvd": "100100022249939",
+    "regionName": "Костромская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 14658,
@@ -1388,6 +1445,9 @@ export const president_2008_tic_227_region_44 = [
     "ballot": "presidential",
     "tikTvd": "2442000160341",
     "tikName": "Парфеньевская",
+    "regionCode": "44",
+    "regionTvd": "100100022249939",
+    "regionName": "Костромская область",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 5142,
@@ -1447,6 +1507,9 @@ export const president_2008_tic_227_region_44 = [
     "ballot": "presidential",
     "tikTvd": "2442000160342",
     "tikName": "Волгореченская городская",
+    "regionCode": "44",
+    "regionTvd": "100100022249939",
+    "regionName": "Костромская область",
     "uikCount": 6,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 14255,
@@ -1500,6 +1563,9 @@ export const president_2008_tic_227_region_44 = [
     "ballot": "presidential",
     "tikTvd": "2442000160343",
     "tikName": "Октябрьская",
+    "regionCode": "44",
+    "regionTvd": "100100022249939",
+    "regionName": "Костромская область",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 4374,
@@ -1558,6 +1624,9 @@ export const president_2008_tic_227_region_44 = [
     "ballot": "presidential",
     "tikTvd": "2442000160344",
     "tikName": "Павинская",
+    "regionCode": "44",
+    "regionTvd": "100100022249939",
+    "regionName": "Костромская область",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 4568,
@@ -1616,6 +1685,9 @@ export const president_2008_tic_227_region_44 = [
     "ballot": "presidential",
     "tikTvd": "2442000160345",
     "tikName": "Островская",
+    "regionCode": "44",
+    "regionTvd": "100100022249939",
+    "regionName": "Костромская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 10442,
@@ -1688,6 +1760,9 @@ export const president_2008_tic_227_region_44 = [
     "ballot": "presidential",
     "tikTvd": "2442000160346",
     "tikName": "Нерехтская",
+    "regionCode": "44",
+    "regionTvd": "100100022249939",
+    "regionName": "Костромская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 31556,
@@ -1769,6 +1844,9 @@ export const president_2008_tic_227_region_44 = [
     "ballot": "presidential",
     "tikTvd": "2442000160347",
     "tikName": "Нейская",
+    "regionCode": "44",
+    "regionTvd": "100100022249939",
+    "regionName": "Костромская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 13300,
@@ -1838,6 +1916,9 @@ export const president_2008_tic_227_region_44 = [
     "ballot": "presidential",
     "tikTvd": "2442000160348",
     "tikName": "Межевская",
+    "regionCode": "44",
+    "regionTvd": "100100022249939",
+    "regionName": "Костромская область",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 4267,
@@ -1897,6 +1978,9 @@ export const president_2008_tic_227_region_44 = [
     "ballot": "presidential",
     "tikTvd": "2442000160349",
     "tikName": "Буйская",
+    "regionCode": "44",
+    "regionTvd": "100100022249939",
+    "regionName": "Костромская область",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 10007,
@@ -1971,6 +2055,9 @@ export const president_2008_tic_227_region_44 = [
     "ballot": "presidential",
     "tikTvd": "2442000160350",
     "tikName": "Мантуровская городская",
+    "regionCode": "44",
+    "regionTvd": "100100022249939",
+    "regionName": "Костромская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 15171,
@@ -2033,6 +2120,9 @@ export const president_2008_tic_227_region_44 = [
     "ballot": "presidential",
     "tikTvd": "2442000160351",
     "tikName": "Поназыревская",
+    "regionCode": "44",
+    "regionTvd": "100100022249939",
+    "regionName": "Костромская область",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 6610,

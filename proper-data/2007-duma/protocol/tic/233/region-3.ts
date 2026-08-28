@@ -11,6 +11,9 @@ export const duma_2007_tic_233_region_3 = [
     "ballot": "party",
     "tikTvd": "2022000285688",
     "tikName": "Уфа, Советская",
+    "regionCode": "3",
+    "regionTvd": "100100021960189",
+    "regionName": "Республика Башкортостан",
     "uikCount": 73,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 138833,
@@ -138,6 +141,9 @@ export const duma_2007_tic_233_region_3 = [
     "ballot": "party",
     "tikTvd": "2022000285689",
     "tikName": "Уфа, Орджоникидзевская",
+    "regionCode": "3",
+    "regionTvd": "100100021960189",
+    "regionName": "Республика Башкортостан",
     "uikCount": 67,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 133851,
@@ -259,6 +265,9 @@ export const duma_2007_tic_233_region_3 = [
     "ballot": "party",
     "tikTvd": "2022000285690",
     "tikName": "Уфа, Октябрьская",
+    "regionCode": "3",
+    "regionTvd": "100100021960189",
+    "regionName": "Республика Башкортостан",
     "uikCount": 82,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 176027,
@@ -395,6 +404,9 @@ export const duma_2007_tic_233_region_3 = [
     "ballot": "party",
     "tikTvd": "2022000285691",
     "tikName": "Уфа, Ленинская",
+    "regionCode": "3",
+    "regionTvd": "100100021960189",
+    "regionName": "Республика Башкортостан",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 50579,
@@ -486,6 +498,9 @@ export const duma_2007_tic_233_region_3 = [
     "ballot": "party",
     "tikTvd": "2022000285692",
     "tikName": "Уфа, Кировская",
+    "regionCode": "3",
+    "regionTvd": "100100021960189",
+    "regionName": "Республика Башкортостан",
     "uikCount": 68,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 107688,
@@ -608,6 +623,9 @@ export const duma_2007_tic_233_region_3 = [
     "ballot": "party",
     "tikTvd": "2022000285693",
     "tikName": "Уфа, Калининская",
+    "regionCode": "3",
+    "regionTvd": "100100021960189",
+    "regionName": "Республика Башкортостан",
     "uikCount": 67,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 141075,
@@ -729,6 +747,9 @@ export const duma_2007_tic_233_region_3 = [
     "ballot": "party",
     "tikTvd": "2022000285694",
     "tikName": "Уфа, Демская",
+    "regionCode": "3",
+    "regionTvd": "100100021960189",
+    "regionName": "Республика Башкортостан",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 39540,
@@ -805,6 +826,9 @@ export const duma_2007_tic_233_region_3 = [
     "ballot": "party",
     "tikTvd": "2022000285695",
     "tikName": "Бирская",
+    "regionCode": "3",
+    "regionTvd": "100100021960189",
+    "regionName": "Республика Башкортостан",
     "uikCount": 45,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 44996,
@@ -904,6 +928,9 @@ export const duma_2007_tic_233_region_3 = [
     "ballot": "party",
     "tikTvd": "2022000285696",
     "tikName": "Янаульская",
+    "regionCode": "3",
+    "regionTvd": "100100021960189",
+    "regionName": "Республика Башкортостан",
     "uikCount": 59,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 35593,
@@ -1017,6 +1044,9 @@ export const duma_2007_tic_233_region_3 = [
     "ballot": "party",
     "tikTvd": "2022000285697",
     "tikName": "Шаранская",
+    "regionCode": "3",
+    "regionTvd": "100100021960189",
+    "regionName": "Республика Башкортостан",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 15870,
@@ -1117,6 +1147,9 @@ export const duma_2007_tic_233_region_3 = [
     "ballot": "party",
     "tikTvd": "2022000285698",
     "tikName": "Чекмагушевская",
+    "regionCode": "3",
+    "regionTvd": "100100021960189",
+    "regionName": "Республика Башкортостан",
     "uikCount": 52,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 23320,
@@ -1223,6 +1256,9 @@ export const duma_2007_tic_233_region_3 = [
     "ballot": "party",
     "tikTvd": "2022000285699",
     "tikName": "Уфимская",
+    "regionCode": "3",
+    "regionTvd": "100100021960189",
+    "regionName": "Республика Башкортостан",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 42949,
@@ -1320,6 +1356,9 @@ export const duma_2007_tic_233_region_3 = [
     "ballot": "party",
     "tikTvd": "2022000285700",
     "tikName": "Татышлинская",
+    "regionCode": "3",
+    "regionTvd": "100100021960189",
+    "regionName": "Республика Башкортостан",
     "uikCount": 51,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 18527,
@@ -1425,6 +1464,9 @@ export const duma_2007_tic_233_region_3 = [
     "ballot": "party",
     "tikTvd": "2022000285701",
     "tikName": "Салаватская",
+    "regionCode": "3",
+    "regionTvd": "100100021960189",
+    "regionName": "Республика Башкортостан",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 19535,
@@ -1522,6 +1564,9 @@ export const duma_2007_tic_233_region_3 = [
     "ballot": "party",
     "tikTvd": "2022000285702",
     "tikName": "Нуримановская",
+    "regionCode": "3",
+    "regionTvd": "100100021960189",
+    "regionName": "Республика Башкортостан",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 13996,
@@ -1611,6 +1656,9 @@ export const duma_2007_tic_233_region_3 = [
     "ballot": "party",
     "tikTvd": "2022000285703",
     "tikName": "Нефтекамская городская",
+    "regionCode": "3",
+    "regionTvd": "100100021960189",
+    "regionName": "Республика Башкортостан",
     "uikCount": 52,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 98231,
@@ -1717,6 +1765,9 @@ export const duma_2007_tic_233_region_3 = [
     "ballot": "party",
     "tikTvd": "2022000285704",
     "tikName": "Мишкинская",
+    "regionCode": "3",
+    "regionTvd": "100100021960189",
+    "regionName": "Республика Башкортостан",
     "uikCount": 61,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 17811,
@@ -1832,6 +1883,9 @@ export const duma_2007_tic_233_region_3 = [
     "ballot": "party",
     "tikTvd": "2022000285705",
     "tikName": "Мечетлинская",
+    "regionCode": "3",
+    "regionTvd": "100100021960189",
+    "regionName": "Республика Башкортостан",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 14952,
@@ -1926,6 +1980,9 @@ export const duma_2007_tic_233_region_3 = [
     "ballot": "party",
     "tikTvd": "2022000285706",
     "tikName": "Кушнаренковская",
+    "regionCode": "3",
+    "regionTvd": "100100021960189",
+    "regionName": "Республика Башкортостан",
     "uikCount": 48,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 22345,
@@ -2028,6 +2085,9 @@ export const duma_2007_tic_233_region_3 = [
     "ballot": "party",
     "tikTvd": "2022000285707",
     "tikName": "Краснокамская",
+    "regionCode": "3",
+    "regionTvd": "100100021960189",
+    "regionName": "Республика Башкортостан",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 20224,
@@ -2121,6 +2181,9 @@ export const duma_2007_tic_233_region_3 = [
     "ballot": "party",
     "tikTvd": "2022000285708",
     "tikName": "Кигинская",
+    "regionCode": "3",
+    "regionTvd": "100100021960189",
+    "regionName": "Республика Башкортостан",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 12476,
@@ -2206,6 +2269,9 @@ export const duma_2007_tic_233_region_3 = [
     "ballot": "party",
     "tikTvd": "2022000285709",
     "tikName": "Караидельская",
+    "regionCode": "3",
+    "regionTvd": "100100021960189",
+    "regionName": "Республика Башкортостан",
     "uikCount": 54,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 19156,
@@ -2314,6 +2380,9 @@ export const duma_2007_tic_233_region_3 = [
     "ballot": "party",
     "tikTvd": "2022000285710",
     "tikName": "Калтасинская",
+    "regionCode": "3",
+    "regionTvd": "100100021960189",
+    "regionName": "Республика Башкортостан",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 20144,
@@ -2405,6 +2474,9 @@ export const duma_2007_tic_233_region_3 = [
     "ballot": "party",
     "tikTvd": "2022000285711",
     "tikName": "Илишевская",
+    "regionCode": "3",
+    "regionTvd": "100100021960189",
+    "regionName": "Республика Башкортостан",
     "uikCount": 72,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 23682,
@@ -2531,6 +2603,9 @@ export const duma_2007_tic_233_region_3 = [
     "ballot": "party",
     "tikTvd": "2022000285712",
     "tikName": "Иглинская",
+    "regionCode": "3",
+    "regionTvd": "100100021960189",
+    "regionName": "Республика Башкортостан",
     "uikCount": 54,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 24605,
@@ -2639,6 +2714,9 @@ export const duma_2007_tic_233_region_3 = [
     "ballot": "party",
     "tikTvd": "2022000285713",
     "tikName": "Дюртюлинская",
+    "regionCode": "3",
+    "regionTvd": "100100021960189",
+    "regionName": "Республика Башкортостан",
     "uikCount": 68,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 46257,
@@ -2761,6 +2839,9 @@ export const duma_2007_tic_233_region_3 = [
     "ballot": "party",
     "tikTvd": "2022000285714",
     "tikName": "Дуванская",
+    "regionCode": "3",
+    "regionTvd": "100100021960189",
+    "regionName": "Республика Башкортостан",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 20918,
@@ -2852,6 +2933,9 @@ export const duma_2007_tic_233_region_3 = [
     "ballot": "party",
     "tikTvd": "2022000285715",
     "tikName": "Бураевская",
+    "regionCode": "3",
+    "regionTvd": "100100021960189",
+    "regionName": "Республика Башкортостан",
     "uikCount": 56,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 20128,
@@ -2962,6 +3046,9 @@ export const duma_2007_tic_233_region_3 = [
     "ballot": "party",
     "tikTvd": "2022000285716",
     "tikName": "Благовещенская",
+    "regionCode": "3",
+    "regionTvd": "100100021960189",
+    "regionName": "Республика Башкортостан",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 32821,
@@ -3062,6 +3149,9 @@ export const duma_2007_tic_233_region_3 = [
     "ballot": "party",
     "tikTvd": "2022000285717",
     "tikName": "Благоварская",
+    "regionCode": "3",
+    "regionTvd": "100100021960189",
+    "regionName": "Республика Башкортостан",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 18541,
@@ -3150,6 +3240,9 @@ export const duma_2007_tic_233_region_3 = [
     "ballot": "party",
     "tikTvd": "2022000285718",
     "tikName": "Белокатайская",
+    "regionCode": "3",
+    "regionTvd": "100100021960189",
+    "regionName": "Республика Башкортостан",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 15460,
@@ -3232,6 +3325,9 @@ export const duma_2007_tic_233_region_3 = [
     "ballot": "party",
     "tikTvd": "2022000285719",
     "tikName": "Балтачевская",
+    "regionCode": "3",
+    "regionTvd": "100100021960189",
+    "regionName": "Республика Башкортостан",
     "uikCount": 52,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 16621,
@@ -3338,6 +3434,9 @@ export const duma_2007_tic_233_region_3 = [
     "ballot": "party",
     "tikTvd": "2022000285720",
     "tikName": "Бакалинская",
+    "regionCode": "3",
+    "regionTvd": "100100021960189",
+    "regionName": "Республика Башкортостан",
     "uikCount": 55,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 21484,
@@ -3447,6 +3546,9 @@ export const duma_2007_tic_233_region_3 = [
     "ballot": "party",
     "tikTvd": "2022000285721",
     "tikName": "Аскинская",
+    "regionCode": "3",
+    "regionTvd": "100100021960189",
+    "regionName": "Республика Башкортостан",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 15996,
@@ -3547,6 +3649,9 @@ export const duma_2007_tic_233_region_3 = [
     "ballot": "party",
     "tikTvd": "2022000285722",
     "tikName": "Агидельская городская",
+    "regionCode": "3",
+    "regionTvd": "100100021960189",
+    "regionName": "Республика Башкортостан",
     "uikCount": 6,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 13265,
@@ -3607,6 +3712,9 @@ export const duma_2007_tic_233_region_3 = [
     "ballot": "party",
     "tikTvd": "2022000285723",
     "tikName": "Мелеузовская",
+    "regionCode": "3",
+    "regionTvd": "100100021960189",
+    "regionName": "Республика Башкортостан",
     "uikCount": 62,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 60344,
@@ -3723,6 +3831,9 @@ export const duma_2007_tic_233_region_3 = [
     "ballot": "party",
     "tikTvd": "2022000285724",
     "tikName": "Межгорьевская городская",
+    "regionCode": "3",
+    "regionTvd": "100100021960189",
+    "regionName": "Республика Башкортостан",
     "uikCount": 6,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 12886,
@@ -3783,6 +3894,9 @@ export const duma_2007_tic_233_region_3 = [
     "ballot": "party",
     "tikTvd": "2022000285725",
     "tikName": "Куюргазинская",
+    "regionCode": "3",
+    "regionTvd": "100100021960189",
+    "regionName": "Республика Башкортостан",
     "uikCount": 52,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 18589,
@@ -3889,6 +4003,9 @@ export const duma_2007_tic_233_region_3 = [
     "ballot": "party",
     "tikTvd": "2022000285726",
     "tikName": "Хайбуллинская",
+    "regionCode": "3",
+    "regionTvd": "100100021960189",
+    "regionName": "Республика Башкортостан",
     "uikCount": 58,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 23040,
@@ -4001,6 +4118,9 @@ export const duma_2007_tic_233_region_3 = [
     "ballot": "party",
     "tikTvd": "2022000285727",
     "tikName": "Федоровская",
+    "regionCode": "3",
+    "regionTvd": "100100021960189",
+    "regionName": "Республика Башкортостан",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 13959,
@@ -4090,6 +4210,9 @@ export const duma_2007_tic_233_region_3 = [
     "ballot": "party",
     "tikTvd": "2022000285728",
     "tikName": "Учалинская",
+    "regionCode": "3",
+    "regionTvd": "100100021960189",
+    "regionName": "Республика Башкортостан",
     "uikCount": 82,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 51930,
@@ -4226,6 +4349,9 @@ export const duma_2007_tic_233_region_3 = [
     "ballot": "party",
     "tikTvd": "2022000285729",
     "tikName": "Стерлибашевская",
+    "regionCode": "3",
+    "regionTvd": "100100021960189",
+    "regionName": "Республика Башкортостан",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 15793,
@@ -4316,6 +4442,9 @@ export const duma_2007_tic_233_region_3 = [
     "ballot": "party",
     "tikTvd": "2022000285730",
     "tikName": "Сибайская городская",
+    "regionCode": "3",
+    "regionTvd": "100100021960189",
+    "regionName": "Республика Башкортостан",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 44666,
@@ -4392,6 +4521,9 @@ export const duma_2007_tic_233_region_3 = [
     "ballot": "party",
     "tikTvd": "2022000285731",
     "tikName": "Салаватская городская",
+    "regionCode": "3",
+    "regionTvd": "100100021960189",
+    "regionName": "Республика Башкортостан",
     "uikCount": 62,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 117303,
@@ -4508,6 +4640,9 @@ export const duma_2007_tic_233_region_3 = [
     "ballot": "party",
     "tikTvd": "2022000285732",
     "tikName": "Миякинская",
+    "regionCode": "3",
+    "regionTvd": "100100021960189",
+    "regionName": "Республика Башкортостан",
     "uikCount": 49,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 18870,
@@ -4611,6 +4746,9 @@ export const duma_2007_tic_233_region_3 = [
     "ballot": "party",
     "tikTvd": "2022000285733",
     "tikName": "Кумертауская городская",
+    "regionCode": "3",
+    "regionTvd": "100100021960189",
+    "regionName": "Республика Башкортостан",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 54626,
@@ -4692,6 +4830,9 @@ export const duma_2007_tic_233_region_3 = [
     "ballot": "party",
     "tikTvd": "2022000285734",
     "tikName": "Кугарчинская",
+    "regionCode": "3",
+    "regionTvd": "100100021960189",
+    "regionName": "Республика Башкортостан",
     "uikCount": 49,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 21630,
@@ -4795,6 +4936,9 @@ export const duma_2007_tic_233_region_3 = [
     "ballot": "party",
     "tikTvd": "2022000285735",
     "tikName": "Ишимбайская",
+    "regionCode": "3",
+    "regionTvd": "100100021960189",
+    "regionName": "Республика Башкортостан",
     "uikCount": 74,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 68397,
@@ -4923,6 +5067,9 @@ export const duma_2007_tic_233_region_3 = [
     "ballot": "party",
     "tikTvd": "2022000285736",
     "tikName": "Зилаирская",
+    "regionCode": "3",
+    "regionTvd": "100100021960189",
+    "regionName": "Республика Башкортостан",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 11939,
@@ -5016,6 +5163,9 @@ export const duma_2007_tic_233_region_3 = [
     "ballot": "party",
     "tikTvd": "2022000285737",
     "tikName": "Зианчуринская",
+    "regionCode": "3",
+    "regionTvd": "100100021960189",
+    "regionName": "Республика Башкортостан",
     "uikCount": 64,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 19470,
@@ -5134,6 +5284,9 @@ export const duma_2007_tic_233_region_3 = [
     "ballot": "party",
     "tikTvd": "2022000285738",
     "tikName": "Бурзянская",
+    "regionCode": "3",
+    "regionTvd": "100100021960189",
+    "regionName": "Республика Башкортостан",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 10203,
@@ -5223,6 +5376,9 @@ export const duma_2007_tic_233_region_3 = [
     "ballot": "party",
     "tikTvd": "2022000285739",
     "tikName": "Белорецкая",
+    "regionCode": "3",
+    "regionTvd": "100100021960189",
+    "regionName": "Республика Башкортостан",
     "uikCount": 103,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 67792,
@@ -5380,6 +5536,9 @@ export const duma_2007_tic_233_region_3 = [
     "ballot": "party",
     "tikTvd": "2022000285740",
     "tikName": "Баймакская",
+    "regionCode": "3",
+    "regionTvd": "100100021960189",
+    "regionName": "Республика Башкортостан",
     "uikCount": 80,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 37532,
@@ -5514,6 +5673,9 @@ export const duma_2007_tic_233_region_3 = [
     "ballot": "party",
     "tikTvd": "2022000285741",
     "tikName": "Абзелиловская",
+    "regionCode": "3",
+    "regionTvd": "100100021960189",
+    "regionName": "Республика Башкортостан",
     "uikCount": 77,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 27145,
@@ -5645,6 +5807,9 @@ export const duma_2007_tic_233_region_3 = [
     "ballot": "party",
     "tikTvd": "2022000285742",
     "tikName": "Туймазинская",
+    "regionCode": "3",
+    "regionTvd": "100100021960189",
+    "regionName": "Республика Башкортостан",
     "uikCount": 83,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 91548,
@@ -5782,6 +5947,9 @@ export const duma_2007_tic_233_region_3 = [
     "ballot": "party",
     "tikTvd": "2022000285743",
     "tikName": "Чишминская",
+    "regionCode": "3",
+    "regionTvd": "100100021960189",
+    "regionName": "Республика Башкортостан",
     "uikCount": 59,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 36039,
@@ -5895,6 +6063,9 @@ export const duma_2007_tic_233_region_3 = [
     "ballot": "party",
     "tikTvd": "2022000285744",
     "tikName": "Стерлитамакская",
+    "regionCode": "3",
+    "regionTvd": "100100021960189",
+    "regionName": "Республика Башкортостан",
     "uikCount": 60,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 27492,
@@ -6009,6 +6180,9 @@ export const duma_2007_tic_233_region_3 = [
     "ballot": "party",
     "tikTvd": "2022000285745",
     "tikName": "Стерлитамакская городская",
+    "regionCode": "3",
+    "regionTvd": "100100021960189",
+    "regionName": "Республика Башкортостан",
     "uikCount": 113,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 197154,
@@ -6176,6 +6350,9 @@ export const duma_2007_tic_233_region_3 = [
     "ballot": "party",
     "tikTvd": "2022000285746",
     "tikName": "Октябрьская",
+    "regionCode": "3",
+    "regionTvd": "100100021960189",
+    "regionName": "Республика Башкортостан",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 77505,
@@ -6269,6 +6446,9 @@ export const duma_2007_tic_233_region_3 = [
     "ballot": "party",
     "tikTvd": "2022000285747",
     "tikName": "Кармаскалинская",
+    "regionCode": "3",
+    "regionTvd": "100100021960189",
+    "regionName": "Республика Башкортостан",
     "uikCount": 45,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 33806,
@@ -6368,6 +6548,9 @@ export const duma_2007_tic_233_region_3 = [
     "ballot": "party",
     "tikTvd": "2022000285748",
     "tikName": "Ермекеевская",
+    "regionCode": "3",
+    "regionTvd": "100100021960189",
+    "regionName": "Республика Башкортостан",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 11743,
@@ -6456,6 +6639,9 @@ export const duma_2007_tic_233_region_3 = [
     "ballot": "party",
     "tikTvd": "2022000285749",
     "tikName": "Давлекановская",
+    "regionCode": "3",
+    "regionTvd": "100100021960189",
+    "regionName": "Республика Башкортостан",
     "uikCount": 47,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 30155,
@@ -6557,6 +6743,9 @@ export const duma_2007_tic_233_region_3 = [
     "ballot": "party",
     "tikTvd": "2022000285750",
     "tikName": "Гафурийская",
+    "regionCode": "3",
+    "regionTvd": "100100021960189",
+    "regionName": "Республика Башкортостан",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 22564,
@@ -6654,6 +6843,9 @@ export const duma_2007_tic_233_region_3 = [
     "ballot": "party",
     "tikTvd": "2022000285751",
     "tikName": "Буздякская",
+    "regionCode": "3",
+    "regionTvd": "100100021960189",
+    "regionName": "Республика Башкортостан",
     "uikCount": 54,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 22385,
@@ -6762,6 +6954,9 @@ export const duma_2007_tic_233_region_3 = [
     "ballot": "party",
     "tikTvd": "2022000285752",
     "tikName": "Бижбулякская",
+    "regionCode": "3",
+    "regionTvd": "100100021960189",
+    "regionName": "Республика Башкортостан",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 17288,
@@ -6862,6 +7057,9 @@ export const duma_2007_tic_233_region_3 = [
     "ballot": "party",
     "tikTvd": "2022000285753",
     "tikName": "Белебеевская",
+    "regionCode": "3",
+    "regionTvd": "100100021960189",
+    "regionName": "Республика Башкортостан",
     "uikCount": 67,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 76867,
@@ -6983,6 +7181,9 @@ export const duma_2007_tic_233_region_3 = [
     "ballot": "party",
     "tikTvd": "2022000285754",
     "tikName": "Аургазинская",
+    "regionCode": "3",
+    "regionTvd": "100100021960189",
+    "regionName": "Республика Башкортостан",
     "uikCount": 48,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 27328,
@@ -7085,6 +7286,9 @@ export const duma_2007_tic_233_region_3 = [
     "ballot": "party",
     "tikTvd": "2022000285755",
     "tikName": "Архангельская",
+    "regionCode": "3",
+    "regionTvd": "100100021960189",
+    "regionName": "Республика Башкортостан",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 14529,
@@ -7175,6 +7379,9 @@ export const duma_2007_tic_233_region_3 = [
     "ballot": "party",
     "tikTvd": "2022000285756",
     "tikName": "Альшеевская",
+    "regionCode": "3",
+    "regionTvd": "100100021960189",
+    "regionName": "Республика Башкортостан",
     "uikCount": 54,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 30692,

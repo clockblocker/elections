@@ -11,6 +11,14 @@ export const duma_2016_tic_464_region_74 = [
     "ballot": "single-member",
     "tikTvd": "27420001143135",
     "tikName": "Чебаркульская",
+    "regionCode": "74",
+    "regionTvd": "100100067796104",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 189,
+      "oikTvd": "100100067796105",
+      "oikName": "Челябинская область – Челябинский"
+    },
     "uikCount": 45,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 22728,
@@ -108,6 +116,14 @@ export const duma_2016_tic_464_region_74 = [
     "ballot": "single-member",
     "tikTvd": "27420001143136",
     "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100067796104",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 189,
+      "oikTvd": "100100067796105",
+      "oikName": "Челябинская область – Челябинский"
+    },
     "uikCount": 57,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 22240,
@@ -217,6 +233,14 @@ export const duma_2016_tic_464_region_74 = [
     "ballot": "single-member",
     "tikTvd": "27420001143137",
     "tikName": "Челябинск, Центральная",
+    "regionCode": "74",
+    "regionTvd": "100100067796104",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 189,
+      "oikTvd": "100100067796105",
+      "oikName": "Челябинская область – Челябинский"
+    },
     "uikCount": 48,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 72293,
@@ -317,6 +341,14 @@ export const duma_2016_tic_464_region_74 = [
     "ballot": "single-member",
     "tikTvd": "27420001143138",
     "tikName": "Челябинск, Курчатовская",
+    "regionCode": "74",
+    "regionTvd": "100100067796104",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 189,
+      "oikTvd": "100100067796105",
+      "oikName": "Челябинская область – Челябинский"
+    },
     "uikCount": 76,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 156590,
@@ -445,6 +477,14 @@ export const duma_2016_tic_464_region_74 = [
     "ballot": "single-member",
     "tikTvd": "27420001143139",
     "tikName": "Челябинск, Калининская",
+    "regionCode": "74",
+    "regionTvd": "100100067796104",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 189,
+      "oikTvd": "100100067796105",
+      "oikName": "Челябинская область – Челябинский"
+    },
     "uikCount": 80,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 155830,
@@ -577,6 +617,14 @@ export const duma_2016_tic_464_region_74 = [
     "ballot": "single-member",
     "tikTvd": "27420001143140",
     "tikName": "Уйская",
+    "regionCode": "74",
+    "regionTvd": "100100067796104",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 189,
+      "oikTvd": "100100067796105",
+      "oikName": "Челябинская область – Челябинский"
+    },
     "uikCount": 41,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 19253,
@@ -670,6 +718,14 @@ export const duma_2016_tic_464_region_74 = [
     "ballot": "single-member",
     "tikTvd": "27420001143141",
     "tikName": "Троицкая городская",
+    "regionCode": "74",
+    "regionTvd": "100100067796104",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 189,
+      "oikTvd": "100100067796105",
+      "oikName": "Челябинская область – Челябинский"
+    },
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 55248,
@@ -760,6 +816,14 @@ export const duma_2016_tic_464_region_74 = [
     "ballot": "single-member",
     "tikTvd": "27420001143142",
     "tikName": "Сосновская",
+    "regionCode": "74",
+    "regionTvd": "100100067796104",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 189,
+      "oikTvd": "100100067796105",
+      "oikName": "Челябинская область – Челябинский"
+    },
     "uikCount": 55,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 53596,
@@ -867,6 +931,14 @@ export const duma_2016_tic_464_region_74 = [
     "ballot": "single-member",
     "tikTvd": "27420001143143",
     "tikName": "Пластовская",
+    "regionCode": "74",
+    "regionTvd": "100100067796104",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 189,
+      "oikTvd": "100100067796105",
+      "oikName": "Челябинская область – Челябинский"
+    },
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 19987,
@@ -948,6 +1020,14 @@ export const duma_2016_tic_464_region_74 = [
     "ballot": "single-member",
     "tikTvd": "27420001143144",
     "tikName": "Челябинск, Тракторозаводская",
+    "regionCode": "74",
+    "regionTvd": "100100067796104",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100067796106",
+      "oikName": "Челябинская область – Металлургический"
+    },
     "uikCount": 62,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 128865,
@@ -1061,6 +1141,14 @@ export const duma_2016_tic_464_region_74 = [
     "ballot": "single-member",
     "tikTvd": "27420001143145",
     "tikName": "Челябинск, Металлургическая",
+    "regionCode": "74",
+    "regionTvd": "100100067796104",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100067796106",
+      "oikName": "Челябинская область – Металлургический"
+    },
     "uikCount": 62,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 102923,
@@ -1174,6 +1262,14 @@ export const duma_2016_tic_464_region_74 = [
     "ballot": "single-member",
     "tikTvd": "27420001143146",
     "tikName": "Нязепетровская",
+    "regionCode": "74",
+    "regionTvd": "100100067796104",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100067796106",
+      "oikName": "Челябинская область – Металлургический"
+    },
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 15216,
@@ -1248,6 +1344,14 @@ export const duma_2016_tic_464_region_74 = [
     "ballot": "single-member",
     "tikTvd": "27420001143147",
     "tikName": "Озерская городская",
+    "regionCode": "74",
+    "regionTvd": "100100067796104",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100067796106",
+      "oikName": "Челябинская область – Металлургический"
+    },
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 76460,
@@ -1333,6 +1437,14 @@ export const duma_2016_tic_464_region_74 = [
     "ballot": "single-member",
     "tikTvd": "27420001143148",
     "tikName": "Кыштымская городская",
+    "regionCode": "74",
+    "regionTvd": "100100067796104",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100067796106",
+      "oikName": "Челябинская область – Металлургический"
+    },
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 31379,
@@ -1412,6 +1524,14 @@ export const duma_2016_tic_464_region_74 = [
     "ballot": "single-member",
     "tikTvd": "27420001143149",
     "tikName": "Кунашакская",
+    "regionCode": "74",
+    "regionTvd": "100100067796104",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100067796106",
+      "oikName": "Челябинская область – Металлургический"
+    },
     "uikCount": 47,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 24263,
@@ -1510,6 +1630,14 @@ export const duma_2016_tic_464_region_74 = [
     "ballot": "single-member",
     "tikTvd": "27420001143150",
     "tikName": "Красноармейская",
+    "regionCode": "74",
+    "regionTvd": "100100067796104",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100067796106",
+      "oikName": "Челябинская область – Металлургический"
+    },
     "uikCount": 55,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 33980,
@@ -1616,6 +1744,14 @@ export const duma_2016_tic_464_region_74 = [
     "ballot": "single-member",
     "tikTvd": "27420001143151",
     "tikName": "Снежинская городская",
+    "regionCode": "74",
+    "regionTvd": "100100067796104",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100067796106",
+      "oikName": "Челябинская область – Металлургический"
+    },
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 41616,
@@ -1694,6 +1830,14 @@ export const duma_2016_tic_464_region_74 = [
     "ballot": "single-member",
     "tikTvd": "27420001143152",
     "tikName": "Каслинская",
+    "regionCode": "74",
+    "regionTvd": "100100067796104",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100067796106",
+      "oikName": "Челябинская область – Металлургический"
+    },
     "uikCount": 46,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 27026,
@@ -1791,6 +1935,14 @@ export const duma_2016_tic_464_region_74 = [
     "ballot": "single-member",
     "tikTvd": "27420001143153",
     "tikName": "Верхнеуфалейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100067796104",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 190,
+      "oikTvd": "100100067796106",
+      "oikName": "Челябинская область – Металлургический"
+    },
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 28955,
@@ -1872,6 +2024,14 @@ export const duma_2016_tic_464_region_74 = [
     "ballot": "single-member",
     "tikTvd": "27420001143154",
     "tikName": "Южноуральская городская",
+    "regionCode": "74",
+    "regionTvd": "100100067796104",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100067796107",
+      "oikName": "Челябинская область – Коркинский"
+    },
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 29414,
@@ -1943,6 +2103,14 @@ export const duma_2016_tic_464_region_74 = [
     "ballot": "single-member",
     "tikTvd": "27420001143155",
     "tikName": "Челябинск, Советская",
+    "regionCode": "74",
+    "regionTvd": "100100067796104",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100067796107",
+      "oikName": "Челябинская область – Коркинский"
+    },
     "uikCount": 61,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 104640,
@@ -2055,6 +2223,14 @@ export const duma_2016_tic_464_region_74 = [
     "ballot": "single-member",
     "tikTvd": "27420001143156",
     "tikName": "Челябинск, Ленинская",
+    "regionCode": "74",
+    "regionTvd": "100100067796104",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100067796107",
+      "oikName": "Челябинская область – Коркинский"
+    },
     "uikCount": 67,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 136921,
@@ -2173,6 +2349,14 @@ export const duma_2016_tic_464_region_74 = [
     "ballot": "single-member",
     "tikTvd": "27420001143157",
     "tikName": "Увельская",
+    "regionCode": "74",
+    "regionTvd": "100100067796104",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100067796107",
+      "oikName": "Челябинская область – Коркинский"
+    },
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 25403,
@@ -2261,6 +2445,14 @@ export const duma_2016_tic_464_region_74 = [
     "ballot": "single-member",
     "tikTvd": "27420001143158",
     "tikName": "Октябрьская",
+    "regionCode": "74",
+    "regionTvd": "100100067796104",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100067796107",
+      "oikName": "Челябинская область – Коркинский"
+    },
     "uikCount": 51,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 18407,
@@ -2363,6 +2555,14 @@ export const duma_2016_tic_464_region_74 = [
     "ballot": "single-member",
     "tikTvd": "27420001143159",
     "tikName": "Коркинская",
+    "regionCode": "74",
+    "regionTvd": "100100067796104",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100067796107",
+      "oikName": "Челябинская область – Коркинский"
+    },
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 48518,
@@ -2451,6 +2651,14 @@ export const duma_2016_tic_464_region_74 = [
     "ballot": "single-member",
     "tikTvd": "27420001143160",
     "tikName": "Копейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100067796104",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100067796107",
+      "oikName": "Челябинская область – Коркинский"
+    },
     "uikCount": 65,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 111036,
@@ -2567,6 +2775,14 @@ export const duma_2016_tic_464_region_74 = [
     "ballot": "single-member",
     "tikTvd": "27420001143161",
     "tikName": "Еткульская",
+    "regionCode": "74",
+    "regionTvd": "100100067796104",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100067796107",
+      "oikName": "Челябинская область – Коркинский"
+    },
     "uikCount": 50,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 21537,
@@ -2668,6 +2884,14 @@ export const duma_2016_tic_464_region_74 = [
     "ballot": "single-member",
     "tikTvd": "27420001143162",
     "tikName": "Еманжелинская городская",
+    "regionCode": "74",
+    "regionTvd": "100100067796104",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100067796107",
+      "oikName": "Челябинская область – Коркинский"
+    },
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 38015,
@@ -2750,6 +2974,14 @@ export const duma_2016_tic_464_region_74 = [
     "ballot": "single-member",
     "tikTvd": "27420001143163",
     "tikName": "Чесменская",
+    "regionCode": "74",
+    "regionTvd": "100100067796104",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 192,
+      "oikTvd": "100100067796108",
+      "oikName": "Челябинская область – Магнитогорский"
+    },
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 14739,
@@ -2834,6 +3066,14 @@ export const duma_2016_tic_464_region_74 = [
     "ballot": "single-member",
     "tikTvd": "27420001143164",
     "tikName": "Нагайбакская",
+    "regionCode": "74",
+    "regionTvd": "100100067796104",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 192,
+      "oikTvd": "100100067796108",
+      "oikName": "Челябинская область – Магнитогорский"
+    },
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 17067,
@@ -2920,6 +3160,14 @@ export const duma_2016_tic_464_region_74 = [
     "ballot": "single-member",
     "tikTvd": "27420001143165",
     "tikName": "Магнитогорск, Правобережная",
+    "regionCode": "74",
+    "regionTvd": "100100067796104",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 192,
+      "oikTvd": "100100067796108",
+      "oikName": "Челябинская область – Магнитогорский"
+    },
     "uikCount": 57,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 83149,
@@ -3027,6 +3275,14 @@ export const duma_2016_tic_464_region_74 = [
     "ballot": "single-member",
     "tikTvd": "27420001143166",
     "tikName": "Магнитогорск, Орджоникидзевская",
+    "regionCode": "74",
+    "regionTvd": "100100067796104",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 192,
+      "oikTvd": "100100067796108",
+      "oikName": "Челябинская область – Магнитогорский"
+    },
     "uikCount": 83,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 158190,
@@ -3160,6 +3416,14 @@ export const duma_2016_tic_464_region_74 = [
     "ballot": "single-member",
     "tikTvd": "27420001143167",
     "tikName": "Магнитогорск, Ленинская",
+    "regionCode": "74",
+    "regionTvd": "100100067796104",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 192,
+      "oikTvd": "100100067796108",
+      "oikName": "Челябинская область – Магнитогорский"
+    },
     "uikCount": 45,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 76019,
@@ -3255,6 +3519,14 @@ export const duma_2016_tic_464_region_74 = [
     "ballot": "single-member",
     "tikTvd": "27420001143168",
     "tikName": "Кизильская",
+    "regionCode": "74",
+    "regionTvd": "100100067796104",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 192,
+      "oikTvd": "100100067796108",
+      "oikName": "Челябинская область – Магнитогорский"
+    },
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 19877,
@@ -3341,6 +3613,14 @@ export const duma_2016_tic_464_region_74 = [
     "ballot": "single-member",
     "tikTvd": "27420001143169",
     "tikName": "Карталинская",
+    "regionCode": "74",
+    "regionTvd": "100100067796104",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 192,
+      "oikTvd": "100100067796108",
+      "oikName": "Челябинская область – Магнитогорский"
+    },
     "uikCount": 51,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 35875,
@@ -3442,6 +3722,14 @@ export const duma_2016_tic_464_region_74 = [
     "ballot": "single-member",
     "tikTvd": "27420001143170",
     "tikName": "Локомотивная поселковая",
+    "regionCode": "74",
+    "regionTvd": "100100067796104",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 192,
+      "oikTvd": "100100067796108",
+      "oikName": "Челябинская область – Магнитогорский"
+    },
     "uikCount": 3,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 3872,
@@ -3495,6 +3783,14 @@ export const duma_2016_tic_464_region_74 = [
     "ballot": "single-member",
     "tikTvd": "27420001143171",
     "tikName": "Верхнеуральская",
+    "regionCode": "74",
+    "regionTvd": "100100067796104",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 192,
+      "oikTvd": "100100067796108",
+      "oikName": "Челябинская область – Магнитогорский"
+    },
     "uikCount": 54,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 28851,
@@ -3599,6 +3895,14 @@ export const duma_2016_tic_464_region_74 = [
     "ballot": "single-member",
     "tikTvd": "27420001143172",
     "tikName": "Варненская",
+    "regionCode": "74",
+    "regionTvd": "100100067796104",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 192,
+      "oikTvd": "100100067796108",
+      "oikName": "Челябинская область – Магнитогорский"
+    },
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 22082,
@@ -3688,6 +3992,14 @@ export const duma_2016_tic_464_region_74 = [
     "ballot": "single-member",
     "tikTvd": "27420001143173",
     "tikName": "Брединская",
+    "regionCode": "74",
+    "regionTvd": "100100067796104",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 192,
+      "oikTvd": "100100067796108",
+      "oikName": "Челябинская область – Магнитогорский"
+    },
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 22040,
@@ -3774,6 +4086,14 @@ export const duma_2016_tic_464_region_74 = [
     "ballot": "single-member",
     "tikTvd": "27420001143174",
     "tikName": "Агаповская",
+    "regionCode": "74",
+    "regionTvd": "100100067796104",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 192,
+      "oikTvd": "100100067796108",
+      "oikName": "Челябинская область – Магнитогорский"
+    },
     "uikCount": 46,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 27319,
@@ -3870,6 +4190,14 @@ export const duma_2016_tic_464_region_74 = [
     "ballot": "single-member",
     "tikTvd": "27420001143175",
     "tikName": "Чебаркульская городская",
+    "regionCode": "74",
+    "regionTvd": "100100067796104",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 193,
+      "oikTvd": "100100067796109",
+      "oikName": "Челябинская область – Златоустовский"
+    },
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 35090,
@@ -3952,6 +4280,14 @@ export const duma_2016_tic_464_region_74 = [
     "ballot": "single-member",
     "tikTvd": "27420001143176",
     "tikName": "Усть-Катавская городская",
+    "regionCode": "74",
+    "regionTvd": "100100067796104",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 193,
+      "oikTvd": "100100067796109",
+      "oikName": "Челябинская область – Златоустовский"
+    },
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 20755,
@@ -4024,6 +4360,14 @@ export const duma_2016_tic_464_region_74 = [
     "ballot": "single-member",
     "tikTvd": "27420001143177",
     "tikName": "Саткинская",
+    "regionCode": "74",
+    "regionTvd": "100100067796104",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 193,
+      "oikTvd": "100100067796109",
+      "oikName": "Челябинская область – Златоустовский"
+    },
     "uikCount": 58,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 61695,
@@ -4133,6 +4477,14 @@ export const duma_2016_tic_464_region_74 = [
     "ballot": "single-member",
     "tikTvd": "27420001143178",
     "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100067796104",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 193,
+      "oikTvd": "100100067796109",
+      "oikName": "Челябинская область – Златоустовский"
+    },
     "uikCount": 81,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 137104,
@@ -4265,6 +4617,14 @@ export const duma_2016_tic_464_region_74 = [
     "ballot": "single-member",
     "tikTvd": "27420001143179",
     "tikName": "Кусинская",
+    "regionCode": "74",
+    "regionTvd": "100100067796104",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 193,
+      "oikTvd": "100100067796109",
+      "oikName": "Челябинская область – Златоустовский"
+    },
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 23563,
@@ -4339,6 +4699,14 @@ export const duma_2016_tic_464_region_74 = [
     "ballot": "single-member",
     "tikTvd": "27420001143180",
     "tikName": "Трехгорная городская",
+    "regionCode": "74",
+    "regionTvd": "100100067796104",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 193,
+      "oikTvd": "100100067796109",
+      "oikName": "Челябинская область – Златоустовский"
+    },
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 26674,
@@ -4405,6 +4773,14 @@ export const duma_2016_tic_464_region_74 = [
     "ballot": "single-member",
     "tikTvd": "27420001143181",
     "tikName": "Катав-Ивановская",
+    "regionCode": "74",
+    "regionTvd": "100100067796104",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 193,
+      "oikTvd": "100100067796109",
+      "oikName": "Челябинская область – Златоустовский"
+    },
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 26192,
@@ -4495,6 +4871,14 @@ export const duma_2016_tic_464_region_74 = [
     "ballot": "single-member",
     "tikTvd": "27420001143182",
     "tikName": "Карабашская городская",
+    "regionCode": "74",
+    "regionTvd": "100100067796104",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 193,
+      "oikTvd": "100100067796109",
+      "oikName": "Челябинская область – Златоустовский"
+    },
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 10444,
@@ -4561,6 +4945,14 @@ export const duma_2016_tic_464_region_74 = [
     "ballot": "single-member",
     "tikTvd": "27420001143183",
     "tikName": "Златоустовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100067796104",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 193,
+      "oikTvd": "100100067796109",
+      "oikName": "Челябинская область – Златоустовский"
+    },
     "uikCount": 82,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 128703,
@@ -4694,6 +5086,14 @@ export const duma_2016_tic_464_region_74 = [
     "ballot": "single-member",
     "tikTvd": "27420001143184",
     "tikName": "Ашинская городская",
+    "regionCode": "74",
+    "regionTvd": "100100067796104",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 193,
+      "oikTvd": "100100067796109",
+      "oikName": "Челябинская область – Златоустовский"
+    },
     "uikCount": 55,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 50104,
@@ -4800,6 +5200,14 @@ export const duma_2016_tic_464_region_74 = [
     "ballot": "single-member",
     "tikTvd": "27420001143185",
     "tikName": "Аргаяшская",
+    "regionCode": "74",
+    "regionTvd": "100100067796104",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 193,
+      "oikTvd": "100100067796109",
+      "oikName": "Челябинская область – Златоустовский"
+    },
     "uikCount": 56,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 33923,

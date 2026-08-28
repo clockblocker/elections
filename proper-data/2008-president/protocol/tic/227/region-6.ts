@@ -11,6 +11,9 @@ export const president_2008_tic_227_region_6 = [
     "ballot": "presidential",
     "tikTvd": "206200090203",
     "tikName": "Назрановская городская",
+    "regionCode": "6",
+    "regionTvd": "100100022249948",
+    "regionName": "Республика Ингушетия",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 43575,
@@ -84,6 +87,9 @@ export const president_2008_tic_227_region_6 = [
     "ballot": "presidential",
     "tikTvd": "206200090204",
     "tikName": "Назрановская",
+    "regionCode": "6",
+    "regionTvd": "100100022249948",
+    "regionName": "Республика Ингушетия",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 34397,
@@ -153,6 +159,9 @@ export const president_2008_tic_227_region_6 = [
     "ballot": "presidential",
     "tikTvd": "206200090205",
     "tikName": "Сунженская",
+    "regionCode": "6",
+    "regionTvd": "100100022249948",
+    "regionName": "Республика Ингушетия",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 33096,
@@ -227,6 +236,9 @@ export const president_2008_tic_227_region_6 = [
     "ballot": "presidential",
     "tikTvd": "206200090206",
     "tikName": "Карабулакская",
+    "regionCode": "6",
+    "regionTvd": "100100022249948",
+    "regionName": "Республика Ингушетия",
     "uikCount": 6,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 10257,
@@ -280,6 +292,9 @@ export const president_2008_tic_227_region_6 = [
     "ballot": "presidential",
     "tikTvd": "206200090207",
     "tikName": "Малгобекская",
+    "regionCode": "6",
+    "regionTvd": "100100022249948",
+    "regionName": "Республика Ингушетия",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 25082,
@@ -349,6 +364,9 @@ export const president_2008_tic_227_region_6 = [
     "ballot": "presidential",
     "tikTvd": "206200090208",
     "tikName": "Джейрахская",
+    "regionCode": "6",
+    "regionTvd": "100100022249948",
+    "regionName": "Республика Ингушетия",
     "uikCount": 7,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 2098,
@@ -403,6 +421,9 @@ export const president_2008_tic_227_region_6 = [
     "ballot": "presidential",
     "tikTvd": "206200090209",
     "tikName": "Малгобекская городская",
+    "regionCode": "6",
+    "regionTvd": "100100022249948",
+    "regionName": "Республика Ингушетия",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 17088,
@@ -465,6 +486,9 @@ export const president_2008_tic_227_region_6 = [
     "ballot": "presidential",
     "tikTvd": "206200090210",
     "tikName": "Магасская",
+    "regionCode": "6",
+    "regionTvd": "100100022249948",
+    "regionName": "Республика Ингушетия",
     "uikCount": 1,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 375,

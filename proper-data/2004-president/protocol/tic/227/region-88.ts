@@ -11,6 +11,9 @@ export const president_2004_tic_227_region_88 = [
     "ballot": "presidential",
     "tikTvd": "288200070086",
     "tikName": "Тунгусско-Чунская",
+    "regionCode": "88",
+    "regionTvd": "1001000883020",
+    "regionName": "Эвенкийский автономный округ",
     "uikCount": 7,
     "accounting": {
       "Число избирателей, внесенных в список": 2810,
@@ -66,6 +69,9 @@ export const president_2004_tic_227_region_88 = [
     "ballot": "presidential",
     "tikTvd": "288200070087",
     "tikName": "Байкитская",
+    "regionCode": "88",
+    "regionTvd": "1001000883020",
+    "regionName": "Эвенкийский автономный округ",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, внесенных в список": 3790,
@@ -125,6 +131,9 @@ export const president_2004_tic_227_region_88 = [
     "ballot": "presidential",
     "tikTvd": "288200070088",
     "tikName": "Илимпийская",
+    "regionCode": "88",
+    "regionTvd": "1001000883020",
+    "regionName": "Эвенкийский автономный округ",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в список": 5515,

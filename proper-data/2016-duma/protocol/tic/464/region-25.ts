@@ -11,6 +11,14 @@ export const duma_2016_tic_464_region_25 = [
     "ballot": "single-member",
     "tikTvd": "22520001000252",
     "tikName": "Уссурийская городская",
+    "regionCode": "25",
+    "regionTvd": "100100067795930",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100067795931",
+      "oikName": "Приморский край – Владивостокский"
+    },
     "uikCount": 104,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 140988,
@@ -165,6 +173,14 @@ export const duma_2016_tic_464_region_25 = [
     "ballot": "single-member",
     "tikTvd": "2252000999726",
     "tikName": "Хасанская",
+    "regionCode": "25",
+    "regionTvd": "100100067795930",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100067795931",
+      "oikName": "Приморский край – Владивостокский"
+    },
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 25600,
@@ -247,6 +263,14 @@ export const duma_2016_tic_464_region_25 = [
     "ballot": "single-member",
     "tikTvd": "2252000999727",
     "tikName": "Ханкайская",
+    "regionCode": "25",
+    "regionTvd": "100100067795930",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100067795931",
+      "oikName": "Приморский край – Владивостокский"
+    },
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 17017,
@@ -325,6 +349,14 @@ export const duma_2016_tic_464_region_25 = [
     "ballot": "single-member",
     "tikTvd": "2252000999728",
     "tikName": "Пограничная",
+    "regionCode": "25",
+    "regionTvd": "100100067795930",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100067795931",
+      "oikName": "Приморский край – Владивостокский"
+    },
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 16508,
@@ -406,6 +438,14 @@ export const duma_2016_tic_464_region_25 = [
     "ballot": "single-member",
     "tikTvd": "2252000999729",
     "tikName": "Октябрьская",
+    "regionCode": "25",
+    "regionTvd": "100100067795930",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100067795931",
+      "oikName": "Приморский край – Владивостокский"
+    },
     "uikCount": 49,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 22540,
@@ -505,6 +545,14 @@ export const duma_2016_tic_464_region_25 = [
     "ballot": "single-member",
     "tikTvd": "2252000999730",
     "tikName": "Надеждинская",
+    "regionCode": "25",
+    "regionTvd": "100100067795930",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100067795931",
+      "oikName": "Приморский край – Владивостокский"
+    },
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 30707,
@@ -584,6 +632,14 @@ export const duma_2016_tic_464_region_25 = [
     "ballot": "single-member",
     "tikTvd": "2252000999731",
     "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100067795930",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100067795931",
+      "oikName": "Приморский край – Владивостокский"
+    },
     "uikCount": 122,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 45645,
@@ -756,6 +812,14 @@ export const duma_2016_tic_464_region_25 = [
     "ballot": "single-member",
     "tikTvd": "2252000999732",
     "tikName": "Владивосток, Первомайская",
+    "regionCode": "25",
+    "regionTvd": "100100067795930",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100067795931",
+      "oikName": "Приморский край – Владивостокский"
+    },
     "uikCount": 56,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 111002,
@@ -862,6 +926,14 @@ export const duma_2016_tic_464_region_25 = [
     "ballot": "single-member",
     "tikTvd": "2252000999733",
     "tikName": "Владивосток, Ленинская",
+    "regionCode": "25",
+    "regionTvd": "100100067795930",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100067795931",
+      "oikName": "Приморский край – Владивостокский"
+    },
     "uikCount": 64,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 108346,
@@ -976,6 +1048,14 @@ export const duma_2016_tic_464_region_25 = [
     "ballot": "single-member",
     "tikTvd": "2252000999734",
     "tikName": "Шкотовская",
+    "regionCode": "25",
+    "regionTvd": "100100067795930",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100067795932",
+      "oikName": "Приморский край – Артемовский"
+    },
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 18139,
@@ -1052,6 +1132,14 @@ export const duma_2016_tic_464_region_25 = [
     "ballot": "single-member",
     "tikTvd": "2252000999735",
     "tikName": "Спасская",
+    "regionCode": "25",
+    "regionTvd": "100100067795930",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100067795932",
+      "oikName": "Приморский край – Артемовский"
+    },
     "uikCount": 43,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 21533,
@@ -1146,6 +1234,14 @@ export const duma_2016_tic_464_region_25 = [
     "ballot": "single-member",
     "tikTvd": "2252000999736",
     "tikName": "Фокинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100067795930",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100067795932",
+      "oikName": "Приморский край – Артемовский"
+    },
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 22277,
@@ -1212,6 +1308,14 @@ export const duma_2016_tic_464_region_25 = [
     "ballot": "single-member",
     "tikTvd": "2252000999737",
     "tikName": "Черниговская",
+    "regionCode": "25",
+    "regionTvd": "100100067795930",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100067795932",
+      "oikName": "Приморский край – Артемовский"
+    },
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 28309,
@@ -1295,6 +1399,14 @@ export const duma_2016_tic_464_region_25 = [
     "ballot": "single-member",
     "tikTvd": "2252000999738",
     "tikName": "Хорольская",
+    "regionCode": "25",
+    "regionTvd": "100100067795930",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100067795932",
+      "oikName": "Приморский край – Артемовский"
+    },
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 24114,
@@ -1374,6 +1486,14 @@ export const duma_2016_tic_464_region_25 = [
     "ballot": "single-member",
     "tikTvd": "2252000999739",
     "tikName": "Спасская городская",
+    "regionCode": "25",
+    "regionTvd": "100100067795930",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100067795932",
+      "oikName": "Приморский край – Артемовский"
+    },
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 34084,
@@ -1456,6 +1576,14 @@ export const duma_2016_tic_464_region_25 = [
     "ballot": "single-member",
     "tikTvd": "2252000999740",
     "tikName": "Михайловская",
+    "regionCode": "25",
+    "regionTvd": "100100067795930",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100067795932",
+      "oikName": "Приморский край – Артемовский"
+    },
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 27411,
@@ -1542,6 +1670,14 @@ export const duma_2016_tic_464_region_25 = [
     "ballot": "single-member",
     "tikTvd": "2252000999741",
     "tikName": "Владивосток, Советская",
+    "regionCode": "25",
+    "regionTvd": "100100067795930",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100067795932",
+      "oikName": "Приморский край – Артемовский"
+    },
     "uikCount": 51,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 85511,
@@ -1644,6 +1780,14 @@ export const duma_2016_tic_464_region_25 = [
     "ballot": "single-member",
     "tikTvd": "2252000999742",
     "tikName": "Владивосток, Первореченская",
+    "regionCode": "25",
+    "regionTvd": "100100067795930",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100067795932",
+      "oikName": "Приморский край – Артемовский"
+    },
     "uikCount": 50,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 105720,
@@ -1745,6 +1889,14 @@ export const duma_2016_tic_464_region_25 = [
     "ballot": "single-member",
     "tikTvd": "2252000999743",
     "tikName": "Большекаменская городская",
+    "regionCode": "25",
+    "regionTvd": "100100067795930",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100067795932",
+      "oikName": "Приморский край – Артемовский"
+    },
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 29332,
@@ -1809,6 +1961,14 @@ export const duma_2016_tic_464_region_25 = [
     "ballot": "single-member",
     "tikTvd": "2252000999744",
     "tikName": "Артемовская городская",
+    "regionCode": "25",
+    "regionTvd": "100100067795930",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100067795932",
+      "oikName": "Приморский край – Артемовский"
+    },
     "uikCount": 56,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 84156,
@@ -1916,6 +2076,14 @@ export const duma_2016_tic_464_region_25 = [
     "ballot": "single-member",
     "tikTvd": "2252000999745",
     "tikName": "Дальнереченская",
+    "regionCode": "25",
+    "regionTvd": "100100067795930",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 64,
+      "oikTvd": "100100067795933",
+      "oikName": "Приморский край – Арсеньевский"
+    },
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 8341,
@@ -1990,6 +2158,14 @@ export const duma_2016_tic_464_region_25 = [
     "ballot": "single-member",
     "tikTvd": "2252000999746",
     "tikName": "Яковлевская",
+    "regionCode": "25",
+    "regionTvd": "100100067795930",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 64,
+      "oikTvd": "100100067795933",
+      "oikName": "Приморский край – Арсеньевский"
+    },
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 12179,
@@ -2063,6 +2239,14 @@ export const duma_2016_tic_464_region_25 = [
     "ballot": "single-member",
     "tikTvd": "2252000999747",
     "tikName": "Чугуевская",
+    "regionCode": "25",
+    "regionTvd": "100100067795930",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 64,
+      "oikTvd": "100100067795933",
+      "oikName": "Приморский край – Арсеньевский"
+    },
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 18805,
@@ -2146,6 +2330,14 @@ export const duma_2016_tic_464_region_25 = [
     "ballot": "single-member",
     "tikTvd": "2252000999748",
     "tikName": "Тернейская",
+    "regionCode": "25",
+    "regionTvd": "100100067795930",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 64,
+      "oikTvd": "100100067795933",
+      "oikName": "Приморский край – Арсеньевский"
+    },
     "uikCount": 12,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 9789,
@@ -2207,6 +2399,14 @@ export const duma_2016_tic_464_region_25 = [
     "ballot": "single-member",
     "tikTvd": "2252000999749",
     "tikName": "Пожарская",
+    "regionCode": "25",
+    "regionTvd": "100100067795930",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 64,
+      "oikTvd": "100100067795933",
+      "oikName": "Приморский край – Арсеньевский"
+    },
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 23903,
@@ -2292,6 +2492,14 @@ export const duma_2016_tic_464_region_25 = [
     "ballot": "single-member",
     "tikTvd": "2252000999750",
     "tikName": "Партизанская",
+    "regionCode": "25",
+    "regionTvd": "100100067795930",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 64,
+      "oikTvd": "100100067795933",
+      "oikName": "Приморский край – Арсеньевский"
+    },
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 21290,
@@ -2365,6 +2573,14 @@ export const duma_2016_tic_464_region_25 = [
     "ballot": "single-member",
     "tikTvd": "2252000999751",
     "tikName": "Партизанская городская",
+    "regionCode": "25",
+    "regionTvd": "100100067795930",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 64,
+      "oikTvd": "100100067795933",
+      "oikName": "Приморский край – Арсеньевский"
+    },
     "uikCount": 43,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 39202,
@@ -2457,6 +2673,14 @@ export const duma_2016_tic_464_region_25 = [
     "ballot": "single-member",
     "tikTvd": "2252000999752",
     "tikName": "Ольгинская",
+    "regionCode": "25",
+    "regionTvd": "100100067795930",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 64,
+      "oikTvd": "100100067795933",
+      "oikName": "Приморский край – Арсеньевский"
+    },
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 8311,
@@ -2523,6 +2747,14 @@ export const duma_2016_tic_464_region_25 = [
     "ballot": "single-member",
     "tikTvd": "2252000999753",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100067795930",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 64,
+      "oikTvd": "100100067795933",
+      "oikName": "Приморский край – Арсеньевский"
+    },
     "uikCount": 119,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 123529,
@@ -2691,6 +2923,14 @@ export const duma_2016_tic_464_region_25 = [
     "ballot": "single-member",
     "tikTvd": "2252000999754",
     "tikName": "Лесозаводская городская",
+    "regionCode": "25",
+    "regionTvd": "100100067795930",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 64,
+      "oikTvd": "100100067795933",
+      "oikName": "Приморский край – Арсеньевский"
+    },
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 36339,
@@ -2779,6 +3019,14 @@ export const duma_2016_tic_464_region_25 = [
     "ballot": "single-member",
     "tikTvd": "2252000999755",
     "tikName": "Лазовская",
+    "regionCode": "25",
+    "regionTvd": "100100067795930",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 64,
+      "oikTvd": "100100067795933",
+      "oikName": "Приморский край – Арсеньевский"
+    },
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 11815,
@@ -2865,6 +3113,14 @@ export const duma_2016_tic_464_region_25 = [
     "ballot": "single-member",
     "tikTvd": "2252000999756",
     "tikName": "Красноармейская",
+    "regionCode": "25",
+    "regionTvd": "100100067795930",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 64,
+      "oikTvd": "100100067795933",
+      "oikName": "Приморский край – Арсеньевский"
+    },
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 14810,
@@ -2939,6 +3195,14 @@ export const duma_2016_tic_464_region_25 = [
     "ballot": "single-member",
     "tikTvd": "2252000999757",
     "tikName": "Кировская",
+    "regionCode": "25",
+    "regionTvd": "100100067795930",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 64,
+      "oikTvd": "100100067795933",
+      "oikName": "Приморский край – Арсеньевский"
+    },
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 18085,
@@ -3028,6 +3292,14 @@ export const duma_2016_tic_464_region_25 = [
     "ballot": "single-member",
     "tikTvd": "2252000999758",
     "tikName": "Кавалеровская",
+    "regionCode": "25",
+    "regionTvd": "100100067795930",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 64,
+      "oikTvd": "100100067795933",
+      "oikName": "Приморский край – Арсеньевский"
+    },
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 21913,
@@ -3103,6 +3375,14 @@ export const duma_2016_tic_464_region_25 = [
     "ballot": "single-member",
     "tikTvd": "2252000999759",
     "tikName": "Дальнереченская городская",
+    "regionCode": "25",
+    "regionTvd": "100100067795930",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 64,
+      "oikTvd": "100100067795933",
+      "oikName": "Приморский край – Арсеньевский"
+    },
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 23222,
@@ -3174,6 +3454,14 @@ export const duma_2016_tic_464_region_25 = [
     "ballot": "single-member",
     "tikTvd": "2252000999760",
     "tikName": "Дальнегорская городская",
+    "regionCode": "25",
+    "regionTvd": "100100067795930",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 64,
+      "oikTvd": "100100067795933",
+      "oikName": "Приморский край – Арсеньевский"
+    },
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 38818,
@@ -3245,6 +3533,14 @@ export const duma_2016_tic_464_region_25 = [
     "ballot": "single-member",
     "tikTvd": "2252000999761",
     "tikName": "Арсеньевская городская",
+    "regionCode": "25",
+    "regionTvd": "100100067795930",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 64,
+      "oikTvd": "100100067795933",
+      "oikName": "Приморский край – Арсеньевский"
+    },
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 45765,
@@ -3315,6 +3611,14 @@ export const duma_2016_tic_464_region_25 = [
     "ballot": "single-member",
     "tikTvd": "2252000999762",
     "tikName": "Анучинская",
+    "regionCode": "25",
+    "regionTvd": "100100067795930",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 64,
+      "oikTvd": "100100067795933",
+      "oikName": "Приморский край – Арсеньевский"
+    },
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 11569,

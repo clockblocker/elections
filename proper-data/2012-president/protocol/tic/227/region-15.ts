@@ -11,6 +11,9 @@ export const president_2012_tic_227_region_15 = [
     "ballot": "presidential",
     "tikTvd": "2152000198917",
     "tikName": "ТИК Правобережного района",
+    "regionCode": "15",
+    "regionTvd": "100100031793835",
+    "regionName": "Республика Северная Осетия - Алания",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 42323,
@@ -92,6 +95,9 @@ export const president_2012_tic_227_region_15 = [
     "ballot": "presidential",
     "tikTvd": "2152000198918",
     "tikName": "ТИК Левобережной части г.Владикавказа",
+    "regionCode": "15",
+    "regionTvd": "100100031793835",
+    "regionName": "Республика Северная Осетия - Алания",
     "uikCount": 71,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 130641,
@@ -210,6 +216,9 @@ export const president_2012_tic_227_region_15 = [
     "ballot": "presidential",
     "tikTvd": "2152000198919",
     "tikName": "ТИК Пригородного района",
+    "regionCode": "15",
+    "regionTvd": "100100031793835",
+    "regionName": "Республика Северная Осетия - Алания",
     "uikCount": 45,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 72254,
@@ -302,6 +311,9 @@ export const president_2012_tic_227_region_15 = [
     "ballot": "presidential",
     "tikTvd": "2152000198920",
     "tikName": "ТИК Кировского района",
+    "regionCode": "15",
+    "regionTvd": "100100031793835",
+    "regionName": "Республика Северная Осетия - Алания",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 19073,
@@ -362,6 +374,9 @@ export const president_2012_tic_227_region_15 = [
     "ballot": "presidential",
     "tikTvd": "2152000198921",
     "tikName": "ТИК Ирафского района",
+    "regionCode": "15",
+    "regionTvd": "100100031793835",
+    "regionName": "Республика Северная Осетия - Алания",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 12896,
@@ -437,6 +452,9 @@ export const president_2012_tic_227_region_15 = [
     "ballot": "presidential",
     "tikTvd": "2152000198922",
     "tikName": "ТИК Моздокского района",
+    "regionCode": "15",
+    "regionTvd": "100100031793835",
+    "regionName": "Республика Северная Осетия - Алания",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 64719,
@@ -530,6 +548,9 @@ export const president_2012_tic_227_region_15 = [
     "ballot": "presidential",
     "tikTvd": "2152000198923",
     "tikName": "ТИК Дигорского района",
+    "regionCode": "15",
+    "regionTvd": "100100031793835",
+    "regionName": "Республика Северная Осетия - Алания",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 14377,
@@ -591,6 +612,9 @@ export const president_2012_tic_227_region_15 = [
     "ballot": "presidential",
     "tikTvd": "2152000198924",
     "tikName": "ТИК Правобережной части г.Владикавказа",
+    "regionCode": "15",
+    "regionTvd": "100100031793835",
+    "regionName": "Республика Северная Осетия - Алания",
     "uikCount": 71,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 106406,
@@ -709,6 +733,9 @@ export const president_2012_tic_227_region_15 = [
     "ballot": "presidential",
     "tikTvd": "2152000198925",
     "tikName": "ТИК Ардонского района",
+    "regionCode": "15",
+    "regionTvd": "100100031793835",
+    "regionName": "Республика Северная Осетия - Алания",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 23274,
@@ -770,6 +797,9 @@ export const president_2012_tic_227_region_15 = [
     "ballot": "presidential",
     "tikTvd": "2152000198926",
     "tikName": "ТИК Алагирского района",
+    "regionCode": "15",
+    "regionTvd": "100100031793835",
+    "regionName": "Республика Северная Осетия - Алания",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 26282,

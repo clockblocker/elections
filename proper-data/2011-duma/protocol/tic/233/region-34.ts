@@ -11,6 +11,9 @@ export const duma_2011_tic_233_region_34 = [
     "ballot": "party",
     "tikTvd": "2342000459616",
     "tikName": "Волгоград, Центральная",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 62282,
@@ -94,6 +97,9 @@ export const duma_2011_tic_233_region_34 = [
     "ballot": "party",
     "tikTvd": "2342000459617",
     "tikName": "Волгоград, Советская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
     "uikCount": 45,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 82089,
@@ -188,6 +194,9 @@ export const duma_2011_tic_233_region_34 = [
     "ballot": "party",
     "tikTvd": "2342000459618",
     "tikName": "Волгоград, Краснооктябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
     "uikCount": 54,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 123448,
@@ -291,6 +300,9 @@ export const duma_2011_tic_233_region_34 = [
     "ballot": "party",
     "tikTvd": "2342000459619",
     "tikName": "Волгоград, Красноармейская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
     "uikCount": 67,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 133700,
@@ -407,6 +419,9 @@ export const duma_2011_tic_233_region_34 = [
     "ballot": "party",
     "tikTvd": "2342000459620",
     "tikName": "Волгоград, Кировская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 71875,
@@ -491,6 +506,9 @@ export const duma_2011_tic_233_region_34 = [
     "ballot": "party",
     "tikTvd": "2342000459621",
     "tikName": "Волгоград, Дзержинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
     "uikCount": 65,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 141584,
@@ -605,6 +623,9 @@ export const duma_2011_tic_233_region_34 = [
     "ballot": "party",
     "tikTvd": "2342000459622",
     "tikName": "Волгоград, Ворошиловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 62868,
@@ -687,6 +708,9 @@ export const duma_2011_tic_233_region_34 = [
     "ballot": "party",
     "tikTvd": "2342000459623",
     "tikName": "Старополтавская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 16635,
@@ -761,6 +785,9 @@ export const duma_2011_tic_233_region_34 = [
     "ballot": "party",
     "tikTvd": "2342000459624",
     "tikName": "Среднеахтубинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
     "uikCount": 56,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 42226,
@@ -866,6 +893,9 @@ export const duma_2011_tic_233_region_34 = [
     "ballot": "party",
     "tikTvd": "2342000459625",
     "tikName": "Палласовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 31468,
@@ -958,6 +988,9 @@ export const duma_2011_tic_233_region_34 = [
     "ballot": "party",
     "tikTvd": "2342000459626",
     "tikName": "Ольховская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 14094,
@@ -1028,6 +1061,9 @@ export const duma_2011_tic_233_region_34 = [
     "ballot": "party",
     "tikTvd": "2342000459627",
     "tikName": "Николаевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 25131,
@@ -1098,6 +1134,9 @@ export const duma_2011_tic_233_region_34 = [
     "ballot": "party",
     "tikTvd": "2342000459628",
     "tikName": "Ленинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 22139,
@@ -1172,6 +1211,9 @@ export const duma_2011_tic_233_region_34 = [
     "ballot": "party",
     "tikTvd": "2342000459629",
     "tikName": "Котовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 28788,
@@ -1249,6 +1291,9 @@ export const duma_2011_tic_233_region_34 = [
     "ballot": "party",
     "tikTvd": "2342000459630",
     "tikName": "Камышинская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 93261,
@@ -1337,6 +1382,9 @@ export const duma_2011_tic_233_region_34 = [
     "ballot": "party",
     "tikTvd": "2342000459631",
     "tikName": "Камышинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 32511,
@@ -1428,6 +1476,9 @@ export const duma_2011_tic_233_region_34 = [
     "ballot": "party",
     "tikTvd": "2342000459632",
     "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
     "uikCount": 103,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 224632,
@@ -1580,6 +1631,9 @@ export const duma_2011_tic_233_region_34 = [
     "ballot": "party",
     "tikTvd": "2342000459633",
     "tikName": "Волгоград, Тракторозаводская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
     "uikCount": 51,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 105275,
@@ -1680,6 +1734,9 @@ export const duma_2011_tic_233_region_34 = [
     "ballot": "party",
     "tikTvd": "2342000459634",
     "tikName": "Быковская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 21333,
@@ -1751,6 +1808,9 @@ export const duma_2011_tic_233_region_34 = [
     "ballot": "party",
     "tikTvd": "2342000459635",
     "tikName": "Чернышковская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 13662,
@@ -1825,6 +1885,9 @@ export const duma_2011_tic_233_region_34 = [
     "ballot": "party",
     "tikTvd": "2342000459636",
     "tikName": "Фроловская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 30477,
@@ -1896,6 +1959,9 @@ export const duma_2011_tic_233_region_34 = [
     "ballot": "party",
     "tikTvd": "2342000459637",
     "tikName": "Фроловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 12162,
@@ -1966,6 +2032,9 @@ export const duma_2011_tic_233_region_34 = [
     "ballot": "party",
     "tikTvd": "2342000459638",
     "tikName": "Урюпинская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 32338,
@@ -2035,6 +2104,9 @@ export const duma_2011_tic_233_region_34 = [
     "ballot": "party",
     "tikTvd": "2342000459639",
     "tikName": "Урюпинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 22514,
@@ -2119,6 +2191,9 @@ export const duma_2011_tic_233_region_34 = [
     "ballot": "party",
     "tikTvd": "2342000459640",
     "tikName": "Суровикинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 27730,
@@ -2202,6 +2277,9 @@ export const duma_2011_tic_233_region_34 = [
     "ballot": "party",
     "tikTvd": "2342000459641",
     "tikName": "Серафимовичская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 19225,
@@ -2289,6 +2367,9 @@ export const duma_2011_tic_233_region_34 = [
     "ballot": "party",
     "tikTvd": "2342000459642",
     "tikName": "Светлоярская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 30768,
@@ -2368,6 +2449,9 @@ export const duma_2011_tic_233_region_34 = [
     "ballot": "party",
     "tikTvd": "2342000459643",
     "tikName": "Руднянская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 14412,
@@ -2437,6 +2521,9 @@ export const duma_2011_tic_233_region_34 = [
     "ballot": "party",
     "tikTvd": "2342000459644",
     "tikName": "Октябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 18408,
@@ -2515,6 +2602,9 @@ export const duma_2011_tic_233_region_34 = [
     "ballot": "party",
     "tikTvd": "2342000459645",
     "tikName": "Новониколаевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 19027,
@@ -2590,6 +2680,9 @@ export const duma_2011_tic_233_region_34 = [
     "ballot": "party",
     "tikTvd": "2342000459646",
     "tikName": "Новоаннинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 29684,
@@ -2682,6 +2775,9 @@ export const duma_2011_tic_233_region_34 = [
     "ballot": "party",
     "tikTvd": "2342000459647",
     "tikName": "Нехаевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 13068,
@@ -2757,6 +2853,9 @@ export const duma_2011_tic_233_region_34 = [
     "ballot": "party",
     "tikTvd": "2342000459648",
     "tikName": "Михайловская городская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 46146,
@@ -2832,6 +2931,9 @@ export const duma_2011_tic_233_region_34 = [
     "ballot": "party",
     "tikTvd": "2342000459649",
     "tikName": "Михайловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 19727,
@@ -2918,6 +3020,9 @@ export const duma_2011_tic_233_region_34 = [
     "ballot": "party",
     "tikTvd": "2342000459650",
     "tikName": "Кумылженская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 16543,
@@ -2995,6 +3100,9 @@ export const duma_2011_tic_233_region_34 = [
     "ballot": "party",
     "tikTvd": "2342000459651",
     "tikName": "Котельниковская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 27774,
@@ -3084,6 +3192,9 @@ export const duma_2011_tic_233_region_34 = [
     "ballot": "party",
     "tikTvd": "2342000459652",
     "tikName": "Клетская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 13994,
@@ -3163,6 +3274,9 @@ export const duma_2011_tic_233_region_34 = [
     "ballot": "party",
     "tikTvd": "2342000459653",
     "tikName": "Киквидзенская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 13417,
@@ -3233,6 +3347,9 @@ export const duma_2011_tic_233_region_34 = [
     "ballot": "party",
     "tikTvd": "2342000459654",
     "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
     "uikCount": 52,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 47733,
@@ -3334,6 +3451,9 @@ export const duma_2011_tic_233_region_34 = [
     "ballot": "party",
     "tikTvd": "2342000459655",
     "tikName": "Иловлинская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 24096,
@@ -3422,6 +3542,9 @@ export const duma_2011_tic_233_region_34 = [
     "ballot": "party",
     "tikTvd": "2342000459656",
     "tikName": "Жирновская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 34897,
@@ -3513,6 +3636,9 @@ export const duma_2011_tic_233_region_34 = [
     "ballot": "party",
     "tikTvd": "2342000459657",
     "tikName": "Еланская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 26080,
@@ -3599,6 +3725,9 @@ export const duma_2011_tic_233_region_34 = [
     "ballot": "party",
     "tikTvd": "2342000459658",
     "tikName": "Дубовская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 22557,
@@ -3684,6 +3813,9 @@ export const duma_2011_tic_233_region_34 = [
     "ballot": "party",
     "tikTvd": "2342000459659",
     "tikName": "Даниловская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 14768,
@@ -3758,6 +3890,9 @@ export const duma_2011_tic_233_region_34 = [
     "ballot": "party",
     "tikTvd": "2342000459660",
     "tikName": "Городищенская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 48374,
@@ -3846,6 +3981,9 @@ export const duma_2011_tic_233_region_34 = [
     "ballot": "party",
     "tikTvd": "2342000459661",
     "tikName": "Алексеевская",
+    "regionCode": "34",
+    "regionTvd": "100100028713366",
+    "regionName": "Волгоградская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 13767,

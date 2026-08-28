@@ -11,6 +11,9 @@ export const president_2024_tic_227_region_34 = [
     "ballot": "presidential",
     "tikTvd": "23420001946799",
     "tikName": "Михайловская городская",
+    "regionCode": "34",
+    "regionTvd": "100100339411228",
+    "regionName": "Волгоградская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 40455,
@@ -76,6 +79,9 @@ export const president_2024_tic_227_region_34 = [
     "ballot": "presidential",
     "tikTvd": "23420001946800",
     "tikName": "Фроловская",
+    "regionCode": "34",
+    "regionTvd": "100100339411228",
+    "regionName": "Волгоградская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9880,
@@ -137,6 +143,9 @@ export const president_2024_tic_227_region_34 = [
     "ballot": "presidential",
     "tikTvd": "23420001946802",
     "tikName": "Новоаннинская",
+    "regionCode": "34",
+    "regionTvd": "100100339411228",
+    "regionName": "Волгоградская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 24621,
@@ -217,6 +226,9 @@ export const president_2024_tic_227_region_34 = [
     "ballot": "presidential",
     "tikTvd": "23420001946803",
     "tikName": "Михайловская",
+    "regionCode": "34",
+    "regionTvd": "100100339411228",
+    "regionName": "Волгоградская область",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 16131,
@@ -290,6 +302,9 @@ export const president_2024_tic_227_region_34 = [
     "ballot": "presidential",
     "tikTvd": "23420001946804",
     "tikName": "Ленинская",
+    "regionCode": "34",
+    "regionTvd": "100100339411228",
+    "regionName": "Волгоградская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 21097,
@@ -352,6 +367,9 @@ export const president_2024_tic_227_region_34 = [
     "ballot": "presidential",
     "tikTvd": "23420001946805",
     "tikName": "Ольховская",
+    "regionCode": "34",
+    "regionTvd": "100100339411228",
+    "regionName": "Волгоградская область",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 11489,
@@ -409,6 +427,9 @@ export const president_2024_tic_227_region_34 = [
     "ballot": "presidential",
     "tikTvd": "23420001946806",
     "tikName": "Чернышковская",
+    "regionCode": "34",
+    "regionTvd": "100100339411228",
+    "regionName": "Волгоградская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 11231,
@@ -468,6 +489,9 @@ export const president_2024_tic_227_region_34 = [
     "ballot": "presidential",
     "tikTvd": "23420001946808",
     "tikName": "Волгоград, Кировская",
+    "regionCode": "34",
+    "regionTvd": "100100339411228",
+    "regionName": "Волгоградская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 71140,
@@ -542,6 +566,9 @@ export const president_2024_tic_227_region_34 = [
     "ballot": "presidential",
     "tikTvd": "23420001946809",
     "tikName": "Серафимовичская",
+    "regionCode": "34",
+    "regionTvd": "100100339411228",
+    "regionName": "Волгоградская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 15450,
@@ -603,6 +630,9 @@ export const president_2024_tic_227_region_34 = [
     "ballot": "presidential",
     "tikTvd": "23420001946813",
     "tikName": "Палласовская",
+    "regionCode": "34",
+    "regionTvd": "100100339411228",
+    "regionName": "Волгоградская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 27294,
@@ -672,6 +702,9 @@ export const president_2024_tic_227_region_34 = [
     "ballot": "presidential",
     "tikTvd": "23420001946815",
     "tikName": "Жирновская",
+    "regionCode": "34",
+    "regionTvd": "100100339411228",
+    "regionName": "Волгоградская область",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 27870,
@@ -745,6 +778,9 @@ export const president_2024_tic_227_region_34 = [
     "ballot": "presidential",
     "tikTvd": "23420001946816",
     "tikName": "Даниловская",
+    "regionCode": "34",
+    "regionTvd": "100100339411228",
+    "regionName": "Волгоградская область",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10378,
@@ -802,6 +838,9 @@ export const president_2024_tic_227_region_34 = [
     "ballot": "presidential",
     "tikTvd": "23420001946817",
     "tikName": "Кумылженская",
+    "regionCode": "34",
+    "regionTvd": "100100339411228",
+    "regionName": "Волгоградская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 12936,
@@ -865,6 +904,9 @@ export const president_2024_tic_227_region_34 = [
     "ballot": "presidential",
     "tikTvd": "23420001946818",
     "tikName": "Киквидзенская",
+    "regionCode": "34",
+    "regionTvd": "100100339411228",
+    "regionName": "Волгоградская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10703,
@@ -925,6 +967,9 @@ export const president_2024_tic_227_region_34 = [
     "ballot": "presidential",
     "tikTvd": "23420001946819",
     "tikName": "Суровикинская",
+    "regionCode": "34",
+    "regionTvd": "100100339411228",
+    "regionName": "Волгоградская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 23068,
@@ -994,6 +1039,9 @@ export const president_2024_tic_227_region_34 = [
     "ballot": "presidential",
     "tikTvd": "23420001946820",
     "tikName": "Волгоград, Красноармейская",
+    "regionCode": "34",
+    "regionTvd": "100100339411228",
+    "regionName": "Волгоградская область",
     "uikCount": 53,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 112293,
@@ -1087,6 +1135,9 @@ export const president_2024_tic_227_region_34 = [
     "ballot": "presidential",
     "tikTvd": "23420001946821",
     "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100339411228",
+    "regionName": "Волгоградская область",
     "uikCount": 92,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 209419,
@@ -1219,6 +1270,9 @@ export const president_2024_tic_227_region_34 = [
     "ballot": "presidential",
     "tikTvd": "23420001946822",
     "tikName": "Новониколаевская",
+    "regionCode": "34",
+    "regionTvd": "100100339411228",
+    "regionName": "Волгоградская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 15296,
@@ -1280,6 +1334,9 @@ export const president_2024_tic_227_region_34 = [
     "ballot": "presidential",
     "tikTvd": "23420001946823",
     "tikName": "Руднянская",
+    "regionCode": "34",
+    "regionTvd": "100100339411228",
+    "regionName": "Волгоградская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10828,
@@ -1343,6 +1400,9 @@ export const president_2024_tic_227_region_34 = [
     "ballot": "presidential",
     "tikTvd": "23420001946824",
     "tikName": "Николаевская",
+    "regionCode": "34",
+    "regionTvd": "100100339411228",
+    "regionName": "Волгоградская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 21043,
@@ -1402,6 +1462,9 @@ export const president_2024_tic_227_region_34 = [
     "ballot": "presidential",
     "tikTvd": "23420001946826",
     "tikName": "Нехаевская",
+    "regionCode": "34",
+    "regionTvd": "100100339411228",
+    "regionName": "Волгоградская область",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9913,
@@ -1459,6 +1522,9 @@ export const president_2024_tic_227_region_34 = [
     "ballot": "presidential",
     "tikTvd": "23420001946828",
     "tikName": "Еланская",
+    "regionCode": "34",
+    "regionTvd": "100100339411228",
+    "regionName": "Волгоградская область",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 20641,
@@ -1532,6 +1598,9 @@ export const president_2024_tic_227_region_34 = [
     "ballot": "presidential",
     "tikTvd": "23420001946830",
     "tikName": "Клетская",
+    "regionCode": "34",
+    "regionTvd": "100100339411228",
+    "regionName": "Волгоградская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 11454,
@@ -1593,6 +1662,9 @@ export const president_2024_tic_227_region_34 = [
     "ballot": "presidential",
     "tikTvd": "23420001946831",
     "tikName": "Волгоград, Центральная",
+    "regionCode": "34",
+    "regionTvd": "100100339411228",
+    "regionName": "Волгоградская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 53880,
@@ -1662,6 +1734,9 @@ export const president_2024_tic_227_region_34 = [
     "ballot": "presidential",
     "tikTvd": "23420001946832",
     "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100339411228",
+    "regionName": "Волгоградская область",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 41154,
@@ -1745,6 +1820,9 @@ export const president_2024_tic_227_region_34 = [
     "ballot": "presidential",
     "tikTvd": "23420001946833",
     "tikName": "Октябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100339411228",
+    "regionName": "Волгоградская область",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 15054,
@@ -1812,6 +1890,9 @@ export const president_2024_tic_227_region_34 = [
     "ballot": "presidential",
     "tikTvd": "23420001946834",
     "tikName": "Волгоград, Дзержинская",
+    "regionCode": "34",
+    "regionTvd": "100100339411228",
+    "regionName": "Волгоградская область",
     "uikCount": 55,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 136429,
@@ -1907,6 +1988,9 @@ export const president_2024_tic_227_region_34 = [
     "ballot": "presidential",
     "tikTvd": "23420001946835",
     "tikName": "Котовская",
+    "regionCode": "34",
+    "regionTvd": "100100339411228",
+    "regionName": "Волгоградская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 23209,
@@ -1971,6 +2055,9 @@ export const president_2024_tic_227_region_34 = [
     "ballot": "presidential",
     "tikTvd": "23420001946836",
     "tikName": "Фроловская городская",
+    "regionCode": "34",
+    "regionTvd": "100100339411228",
+    "regionName": "Волгоградская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 26389,
@@ -2032,6 +2119,9 @@ export const president_2024_tic_227_region_34 = [
     "ballot": "presidential",
     "tikTvd": "23420001946838",
     "tikName": "Быковская",
+    "regionCode": "34",
+    "regionTvd": "100100339411228",
+    "regionName": "Волгоградская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 17737,
@@ -2094,6 +2184,9 @@ export const president_2024_tic_227_region_34 = [
     "ballot": "presidential",
     "tikTvd": "23420001946839",
     "tikName": "Среднеахтубинская",
+    "regionCode": "34",
+    "regionTvd": "100100339411228",
+    "regionName": "Волгоградская область",
     "uikCount": 54,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 43981,
@@ -2188,6 +2281,9 @@ export const president_2024_tic_227_region_34 = [
     "ballot": "presidential",
     "tikTvd": "23420001946842",
     "tikName": "Городищенская",
+    "regionCode": "34",
+    "regionTvd": "100100339411228",
+    "regionName": "Волгоградская область",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 50150,
@@ -2266,6 +2362,9 @@ export const president_2024_tic_227_region_34 = [
     "ballot": "presidential",
     "tikTvd": "23420001946843",
     "tikName": "Камышинская",
+    "regionCode": "34",
+    "regionTvd": "100100339411228",
+    "regionName": "Волгоградская область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 26928,
@@ -2342,6 +2441,9 @@ export const president_2024_tic_227_region_34 = [
     "ballot": "presidential",
     "tikTvd": "23420001946844",
     "tikName": "Иловлинская",
+    "regionCode": "34",
+    "regionTvd": "100100339411228",
+    "regionName": "Волгоградская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 21563,
@@ -2408,6 +2510,9 @@ export const president_2024_tic_227_region_34 = [
     "ballot": "presidential",
     "tikTvd": "23420001946846",
     "tikName": "Урюпинская",
+    "regionCode": "34",
+    "regionTvd": "100100339411228",
+    "regionName": "Волгоградская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 17469,
@@ -2472,6 +2577,9 @@ export const president_2024_tic_227_region_34 = [
     "ballot": "presidential",
     "tikTvd": "23420001946847",
     "tikName": "Дубовская",
+    "regionCode": "34",
+    "regionTvd": "100100339411228",
+    "regionName": "Волгоградская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 19722,
@@ -2541,6 +2649,9 @@ export const president_2024_tic_227_region_34 = [
     "ballot": "presidential",
     "tikTvd": "23420001946849",
     "tikName": "Волгоград, Тракторозаводская",
+    "regionCode": "34",
+    "regionTvd": "100100339411228",
+    "regionName": "Волгоградская область",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 93002,
@@ -2622,6 +2733,9 @@ export const president_2024_tic_227_region_34 = [
     "ballot": "presidential",
     "tikTvd": "23420001946850",
     "tikName": "Старополтавская",
+    "regionCode": "34",
+    "regionTvd": "100100339411228",
+    "regionName": "Волгоградская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 13458,
@@ -2686,6 +2800,9 @@ export const president_2024_tic_227_region_34 = [
     "ballot": "presidential",
     "tikTvd": "23420001946851",
     "tikName": "Котельниковская",
+    "regionCode": "34",
+    "regionTvd": "100100339411228",
+    "regionName": "Волгоградская область",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 23897,
@@ -2758,6 +2875,9 @@ export const president_2024_tic_227_region_34 = [
     "ballot": "presidential",
     "tikTvd": "23420001946852",
     "tikName": "Камышинская городская",
+    "regionCode": "34",
+    "regionTvd": "100100339411228",
+    "regionName": "Волгоградская область",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 73740,
@@ -2841,6 +2961,9 @@ export const president_2024_tic_227_region_34 = [
     "ballot": "presidential",
     "tikTvd": "23420001946854",
     "tikName": "Урюпинская городская",
+    "regionCode": "34",
+    "regionTvd": "100100339411228",
+    "regionName": "Волгоградская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 27341,
@@ -2901,6 +3024,9 @@ export const president_2024_tic_227_region_34 = [
     "ballot": "presidential",
     "tikTvd": "23420001946855",
     "tikName": "Светлоярская",
+    "regionCode": "34",
+    "regionTvd": "100100339411228",
+    "regionName": "Волгоградская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 28555,
@@ -2969,6 +3095,9 @@ export const president_2024_tic_227_region_34 = [
     "ballot": "presidential",
     "tikTvd": "23420001946858",
     "tikName": "Алексеевская",
+    "regionCode": "34",
+    "regionTvd": "100100339411228",
+    "regionName": "Волгоградская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 11067,
@@ -3027,6 +3156,9 @@ export const president_2024_tic_227_region_34 = [
     "ballot": "presidential",
     "tikTvd": "23420001946859",
     "tikName": "Волгоград, Ворошиловская",
+    "regionCode": "34",
+    "regionTvd": "100100339411228",
+    "regionName": "Волгоградская область",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 55352,
@@ -3094,6 +3226,9 @@ export const president_2024_tic_227_region_34 = [
     "ballot": "presidential",
     "tikTvd": "23420001946860",
     "tikName": "Волгоград, Краснооктябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100339411228",
+    "regionName": "Волгоградская область",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 109084,
@@ -3180,6 +3315,9 @@ export const president_2024_tic_227_region_34 = [
     "ballot": "presidential",
     "tikTvd": "23420001946861",
     "tikName": "Волгоград, Советская",
+    "regionCode": "34",
+    "regionTvd": "100100339411228",
+    "regionName": "Волгоградская область",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 90596,

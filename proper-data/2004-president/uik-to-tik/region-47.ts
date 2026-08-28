@@ -7,5887 +7,10792 @@ export const president_2004_uik_to_tik_region_47 = [
   {
     "uikNumber": 1,
     "uikTvd": "447400174551",
+    "uikName": "УИК №1",
     "tikTvd": "2472000122646",
-    "tikName": "Бокситогорская"
+    "tikName": "Бокситогорская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 2,
     "uikTvd": "447400174552",
+    "uikName": "УИК №2",
     "tikTvd": "2472000122646",
-    "tikName": "Бокситогорская"
+    "tikName": "Бокситогорская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 3,
     "uikTvd": "447400174553",
+    "uikName": "УИК №3",
     "tikTvd": "2472000122646",
-    "tikName": "Бокситогорская"
+    "tikName": "Бокситогорская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 4,
     "uikTvd": "447400174554",
+    "uikName": "УИК №4",
     "tikTvd": "2472000122646",
-    "tikName": "Бокситогорская"
+    "tikName": "Бокситогорская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 5,
     "uikTvd": "447400174555",
+    "uikName": "УИК №5",
     "tikTvd": "2472000122646",
-    "tikName": "Бокситогорская"
+    "tikName": "Бокситогорская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 6,
     "uikTvd": "447400174556",
+    "uikName": "УИК №6",
     "tikTvd": "2472000122646",
-    "tikName": "Бокситогорская"
+    "tikName": "Бокситогорская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 7,
     "uikTvd": "447400174557",
+    "uikName": "УИК №7",
     "tikTvd": "2472000122646",
-    "tikName": "Бокситогорская"
+    "tikName": "Бокситогорская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 8,
     "uikTvd": "447400174558",
+    "uikName": "УИК №8",
     "tikTvd": "2472000122646",
-    "tikName": "Бокситогорская"
+    "tikName": "Бокситогорская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 9,
     "uikTvd": "447400174559",
+    "uikName": "УИК №9",
     "tikTvd": "2472000122646",
-    "tikName": "Бокситогорская"
+    "tikName": "Бокситогорская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 10,
     "uikTvd": "447400174560",
+    "uikName": "УИК №10",
     "tikTvd": "2472000122646",
-    "tikName": "Бокситогорская"
+    "tikName": "Бокситогорская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 11,
     "uikTvd": "447400174561",
+    "uikName": "УИК №11",
     "tikTvd": "2472000122646",
-    "tikName": "Бокситогорская"
+    "tikName": "Бокситогорская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 12,
     "uikTvd": "447400174562",
+    "uikName": "УИК №12",
     "tikTvd": "2472000122646",
-    "tikName": "Бокситогорская"
+    "tikName": "Бокситогорская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 13,
     "uikTvd": "447400174563",
+    "uikName": "УИК №13",
     "tikTvd": "2472000122646",
-    "tikName": "Бокситогорская"
+    "tikName": "Бокситогорская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 14,
     "uikTvd": "447400174564",
+    "uikName": "УИК №14",
     "tikTvd": "2472000122646",
-    "tikName": "Бокситогорская"
+    "tikName": "Бокситогорская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 15,
     "uikTvd": "447400174565",
+    "uikName": "УИК №15",
     "tikTvd": "2472000122646",
-    "tikName": "Бокситогорская"
+    "tikName": "Бокситогорская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 16,
     "uikTvd": "447400174566",
+    "uikName": "УИК №16",
     "tikTvd": "2472000122646",
-    "tikName": "Бокситогорская"
+    "tikName": "Бокситогорская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 17,
     "uikTvd": "447400174567",
+    "uikName": "УИК №17",
     "tikTvd": "2472000122646",
-    "tikName": "Бокситогорская"
+    "tikName": "Бокситогорская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 18,
     "uikTvd": "447400174568",
+    "uikName": "УИК №18",
     "tikTvd": "2472000122646",
-    "tikName": "Бокситогорская"
+    "tikName": "Бокситогорская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 19,
     "uikTvd": "447400174569",
+    "uikName": "УИК №19",
     "tikTvd": "2472000122646",
-    "tikName": "Бокситогорская"
+    "tikName": "Бокситогорская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 20,
     "uikTvd": "447400174570",
+    "uikName": "УИК №20",
     "tikTvd": "2472000122646",
-    "tikName": "Бокситогорская"
+    "tikName": "Бокситогорская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 21,
     "uikTvd": "447400174571",
+    "uikName": "УИК №21",
     "tikTvd": "2472000122646",
-    "tikName": "Бокситогорская"
+    "tikName": "Бокситогорская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 22,
     "uikTvd": "447400174572",
+    "uikName": "УИК №22",
     "tikTvd": "2472000122646",
-    "tikName": "Бокситогорская"
+    "tikName": "Бокситогорская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 23,
     "uikTvd": "447400174573",
+    "uikName": "УИК №23",
     "tikTvd": "2472000122646",
-    "tikName": "Бокситогорская"
+    "tikName": "Бокситогорская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 24,
     "uikTvd": "447400174574",
+    "uikName": "УИК №24",
     "tikTvd": "2472000122646",
-    "tikName": "Бокситогорская"
+    "tikName": "Бокситогорская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 25,
     "uikTvd": "447400174575",
+    "uikName": "УИК №25",
     "tikTvd": "2472000122646",
-    "tikName": "Бокситогорская"
+    "tikName": "Бокситогорская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 26,
     "uikTvd": "447400174576",
+    "uikName": "УИК №26",
     "tikTvd": "2472000122646",
-    "tikName": "Бокситогорская"
+    "tikName": "Бокситогорская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 27,
     "uikTvd": "447400174577",
+    "uikName": "УИК №27",
     "tikTvd": "2472000122646",
-    "tikName": "Бокситогорская"
+    "tikName": "Бокситогорская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 28,
     "uikTvd": "447400174578",
+    "uikName": "УИК №28",
     "tikTvd": "2472000122646",
-    "tikName": "Бокситогорская"
+    "tikName": "Бокситогорская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 29,
     "uikTvd": "447400174579",
+    "uikName": "УИК №29",
     "tikTvd": "2472000122646",
-    "tikName": "Бокситогорская"
+    "tikName": "Бокситогорская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 30,
     "uikTvd": "447400174580",
+    "uikName": "УИК №30",
     "tikTvd": "2472000122646",
-    "tikName": "Бокситогорская"
+    "tikName": "Бокситогорская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 31,
     "uikTvd": "447400174581",
+    "uikName": "УИК №31",
     "tikTvd": "2472000122646",
-    "tikName": "Бокситогорская"
+    "tikName": "Бокситогорская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 32,
     "uikTvd": "447400174582",
+    "uikName": "УИК №32",
     "tikTvd": "2472000122646",
-    "tikName": "Бокситогорская"
+    "tikName": "Бокситогорская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 33,
     "uikTvd": "447400174583",
+    "uikName": "УИК №33",
     "tikTvd": "2472000122646",
-    "tikName": "Бокситогорская"
+    "tikName": "Бокситогорская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 34,
     "uikTvd": "447400174584",
+    "uikName": "УИК №34",
     "tikTvd": "2472000122646",
-    "tikName": "Бокситогорская"
+    "tikName": "Бокситогорская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 35,
     "uikTvd": "447400174585",
+    "uikName": "УИК №35",
     "tikTvd": "2472000122646",
-    "tikName": "Бокситогорская"
+    "tikName": "Бокситогорская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 36,
     "uikTvd": "447400174586",
+    "uikName": "УИК №36",
     "tikTvd": "2472000122646",
-    "tikName": "Бокситогорская"
+    "tikName": "Бокситогорская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 37,
     "uikTvd": "447400174587",
+    "uikName": "УИК №37",
     "tikTvd": "2472000122646",
-    "tikName": "Бокситогорская"
+    "tikName": "Бокситогорская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 38,
     "uikTvd": "447400174588",
+    "uikName": "УИК №38",
     "tikTvd": "2472000122646",
-    "tikName": "Бокситогорская"
+    "tikName": "Бокситогорская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 39,
     "uikTvd": "447400174589",
+    "uikName": "УИК №39",
     "tikTvd": "2472000122646",
-    "tikName": "Бокситогорская"
+    "tikName": "Бокситогорская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 40,
     "uikTvd": "447400174590",
+    "uikName": "УИК №40",
     "tikTvd": "2472000122646",
-    "tikName": "Бокситогорская"
+    "tikName": "Бокситогорская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 41,
     "uikTvd": "447400174591",
+    "uikName": "УИК №41",
     "tikTvd": "2472000122646",
-    "tikName": "Бокситогорская"
+    "tikName": "Бокситогорская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 42,
     "uikTvd": "447400174592",
+    "uikName": "УИК №42",
     "tikTvd": "2472000122646",
-    "tikName": "Бокситогорская"
+    "tikName": "Бокситогорская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 43,
     "uikTvd": "447400174593",
+    "uikName": "УИК №43",
     "tikTvd": "2472000122646",
-    "tikName": "Бокситогорская"
+    "tikName": "Бокситогорская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 44,
     "uikTvd": "447400174594",
+    "uikName": "УИК №44",
     "tikTvd": "2472000122646",
-    "tikName": "Бокситогорская"
+    "tikName": "Бокситогорская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 45,
     "uikTvd": "447400174595",
+    "uikName": "УИК №45",
     "tikTvd": "2472000122646",
-    "tikName": "Бокситогорская"
+    "tikName": "Бокситогорская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 46,
     "uikTvd": "447400174596",
+    "uikName": "УИК №46",
     "tikTvd": "2472000122646",
-    "tikName": "Бокситогорская"
+    "tikName": "Бокситогорская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 47,
     "uikTvd": "447400174597",
+    "uikName": "УИК №47",
     "tikTvd": "2472000122646",
-    "tikName": "Бокситогорская"
+    "tikName": "Бокситогорская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 48,
     "uikTvd": "447400273907",
+    "uikName": "УИК №48",
     "tikTvd": "2472000122644",
-    "tikName": "Волосовская"
+    "tikName": "Волосовская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 49,
     "uikTvd": "447400273908",
+    "uikName": "УИК №49",
     "tikTvd": "2472000122644",
-    "tikName": "Волосовская"
+    "tikName": "Волосовская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 50,
     "uikTvd": "447400273909",
+    "uikName": "УИК №50",
     "tikTvd": "2472000122644",
-    "tikName": "Волосовская"
+    "tikName": "Волосовская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 51,
     "uikTvd": "447400273910",
+    "uikName": "УИК №51",
     "tikTvd": "2472000122644",
-    "tikName": "Волосовская"
+    "tikName": "Волосовская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 52,
     "uikTvd": "447400273911",
+    "uikName": "УИК №52",
     "tikTvd": "2472000122644",
-    "tikName": "Волосовская"
+    "tikName": "Волосовская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 53,
     "uikTvd": "447400273912",
+    "uikName": "УИК №53",
     "tikTvd": "2472000122644",
-    "tikName": "Волосовская"
+    "tikName": "Волосовская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 54,
     "uikTvd": "447400273913",
+    "uikName": "УИК №54",
     "tikTvd": "2472000122644",
-    "tikName": "Волосовская"
+    "tikName": "Волосовская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 55,
     "uikTvd": "447400273914",
+    "uikName": "УИК №55",
     "tikTvd": "2472000122644",
-    "tikName": "Волосовская"
+    "tikName": "Волосовская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 56,
     "uikTvd": "447400273915",
+    "uikName": "УИК №56",
     "tikTvd": "2472000122644",
-    "tikName": "Волосовская"
+    "tikName": "Волосовская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 57,
     "uikTvd": "447400273916",
+    "uikName": "УИК №57",
     "tikTvd": "2472000122644",
-    "tikName": "Волосовская"
+    "tikName": "Волосовская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 58,
     "uikTvd": "447400273917",
+    "uikName": "УИК №58",
     "tikTvd": "2472000122644",
-    "tikName": "Волосовская"
+    "tikName": "Волосовская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 59,
     "uikTvd": "447400273918",
+    "uikName": "УИК №59",
     "tikTvd": "2472000122644",
-    "tikName": "Волосовская"
+    "tikName": "Волосовская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 60,
     "uikTvd": "447400273919",
+    "uikName": "УИК №60",
     "tikTvd": "2472000122644",
-    "tikName": "Волосовская"
+    "tikName": "Волосовская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 61,
     "uikTvd": "447400273920",
+    "uikName": "УИК №61",
     "tikTvd": "2472000122644",
-    "tikName": "Волосовская"
+    "tikName": "Волосовская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 62,
     "uikTvd": "447400273921",
+    "uikName": "УИК №62",
     "tikTvd": "2472000122644",
-    "tikName": "Волосовская"
+    "tikName": "Волосовская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 63,
     "uikTvd": "447400273922",
+    "uikName": "УИК №63",
     "tikTvd": "2472000122644",
-    "tikName": "Волосовская"
+    "tikName": "Волосовская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 64,
     "uikTvd": "447400273923",
+    "uikName": "УИК №64",
     "tikTvd": "2472000122644",
-    "tikName": "Волосовская"
+    "tikName": "Волосовская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 65,
     "uikTvd": "447400273924",
+    "uikName": "УИК №65",
     "tikTvd": "2472000122644",
-    "tikName": "Волосовская"
+    "tikName": "Волосовская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 66,
     "uikTvd": "447400273925",
+    "uikName": "УИК №66",
     "tikTvd": "2472000122644",
-    "tikName": "Волосовская"
+    "tikName": "Волосовская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 67,
     "uikTvd": "447400273926",
+    "uikName": "УИК №67",
     "tikTvd": "2472000122644",
-    "tikName": "Волосовская"
+    "tikName": "Волосовская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 68,
     "uikTvd": "447400273927",
+    "uikName": "УИК №68",
     "tikTvd": "2472000122644",
-    "tikName": "Волосовская"
+    "tikName": "Волосовская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 69,
     "uikTvd": "447400273928",
+    "uikName": "УИК №69",
     "tikTvd": "2472000122644",
-    "tikName": "Волосовская"
+    "tikName": "Волосовская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 70,
     "uikTvd": "447400273929",
+    "uikName": "УИК №70",
     "tikTvd": "2472000122644",
-    "tikName": "Волосовская"
+    "tikName": "Волосовская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 71,
     "uikTvd": "447400273930",
+    "uikName": "УИК №71",
     "tikTvd": "2472000122644",
-    "tikName": "Волосовская"
+    "tikName": "Волосовская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 72,
     "uikTvd": "447400273931",
+    "uikName": "УИК №72",
     "tikTvd": "2472000122644",
-    "tikName": "Волосовская"
+    "tikName": "Волосовская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 73,
     "uikTvd": "447400273932",
+    "uikName": "УИК №73",
     "tikTvd": "2472000122644",
-    "tikName": "Волосовская"
+    "tikName": "Волосовская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 74,
     "uikTvd": "447400273933",
+    "uikName": "УИК №74",
     "tikTvd": "2472000122644",
-    "tikName": "Волосовская"
+    "tikName": "Волосовская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 75,
     "uikTvd": "447400273934",
+    "uikName": "УИК №75",
     "tikTvd": "2472000122644",
-    "tikName": "Волосовская"
+    "tikName": "Волосовская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 76,
     "uikTvd": "447400273935",
+    "uikName": "УИК №76",
     "tikTvd": "2472000122644",
-    "tikName": "Волосовская"
+    "tikName": "Волосовская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 77,
     "uikTvd": "447400375519",
+    "uikName": "УИК №77",
     "tikTvd": "2472000122643",
-    "tikName": "Волховская"
+    "tikName": "Волховская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 78,
     "uikTvd": "447400375520",
+    "uikName": "УИК №78",
     "tikTvd": "2472000122643",
-    "tikName": "Волховская"
+    "tikName": "Волховская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 79,
     "uikTvd": "447400375521",
+    "uikName": "УИК №79",
     "tikTvd": "2472000122643",
-    "tikName": "Волховская"
+    "tikName": "Волховская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 80,
     "uikTvd": "447400375522",
+    "uikName": "УИК №80",
     "tikTvd": "2472000122643",
-    "tikName": "Волховская"
+    "tikName": "Волховская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 81,
     "uikTvd": "447400375523",
+    "uikName": "УИК №81",
     "tikTvd": "2472000122643",
-    "tikName": "Волховская"
+    "tikName": "Волховская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 82,
     "uikTvd": "447400375524",
+    "uikName": "УИК №82",
     "tikTvd": "2472000122643",
-    "tikName": "Волховская"
+    "tikName": "Волховская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 83,
     "uikTvd": "447400375525",
+    "uikName": "УИК №83",
     "tikTvd": "2472000122643",
-    "tikName": "Волховская"
+    "tikName": "Волховская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 84,
     "uikTvd": "447400375526",
+    "uikName": "УИК №84",
     "tikTvd": "2472000122643",
-    "tikName": "Волховская"
+    "tikName": "Волховская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 85,
     "uikTvd": "447400375527",
+    "uikName": "УИК №85",
     "tikTvd": "2472000122643",
-    "tikName": "Волховская"
+    "tikName": "Волховская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 86,
     "uikTvd": "447400375528",
+    "uikName": "УИК №86",
     "tikTvd": "2472000122643",
-    "tikName": "Волховская"
+    "tikName": "Волховская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 87,
     "uikTvd": "447400375529",
+    "uikName": "УИК №87",
     "tikTvd": "2472000122643",
-    "tikName": "Волховская"
+    "tikName": "Волховская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 88,
     "uikTvd": "447400375530",
+    "uikName": "УИК №88",
     "tikTvd": "2472000122643",
-    "tikName": "Волховская"
+    "tikName": "Волховская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 89,
     "uikTvd": "447400375531",
+    "uikName": "УИК №89",
     "tikTvd": "2472000122643",
-    "tikName": "Волховская"
+    "tikName": "Волховская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 90,
     "uikTvd": "447400375532",
+    "uikName": "УИК №90",
     "tikTvd": "2472000122643",
-    "tikName": "Волховская"
+    "tikName": "Волховская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 91,
     "uikTvd": "447400375533",
+    "uikName": "УИК №91",
     "tikTvd": "2472000122643",
-    "tikName": "Волховская"
+    "tikName": "Волховская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 92,
     "uikTvd": "447400375534",
+    "uikName": "УИК №92",
     "tikTvd": "2472000122643",
-    "tikName": "Волховская"
+    "tikName": "Волховская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 93,
     "uikTvd": "447400375535",
+    "uikName": "УИК №93",
     "tikTvd": "2472000122643",
-    "tikName": "Волховская"
+    "tikName": "Волховская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 94,
     "uikTvd": "447400375536",
+    "uikName": "УИК №94",
     "tikTvd": "2472000122643",
-    "tikName": "Волховская"
+    "tikName": "Волховская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 95,
     "uikTvd": "447400375537",
+    "uikName": "УИК №95",
     "tikTvd": "2472000122643",
-    "tikName": "Волховская"
+    "tikName": "Волховская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 96,
     "uikTvd": "447400375538",
+    "uikName": "УИК №96",
     "tikTvd": "2472000122643",
-    "tikName": "Волховская"
+    "tikName": "Волховская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 97,
     "uikTvd": "447400375539",
+    "uikName": "УИК №97",
     "tikTvd": "2472000122643",
-    "tikName": "Волховская"
+    "tikName": "Волховская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 98,
     "uikTvd": "447400375540",
+    "uikName": "УИК №98",
     "tikTvd": "2472000122643",
-    "tikName": "Волховская"
+    "tikName": "Волховская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 99,
     "uikTvd": "447400375541",
+    "uikName": "УИК №99",
     "tikTvd": "2472000122643",
-    "tikName": "Волховская"
+    "tikName": "Волховская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 100,
     "uikTvd": "447400375542",
+    "uikName": "УИК №100",
     "tikTvd": "2472000122643",
-    "tikName": "Волховская"
+    "tikName": "Волховская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 101,
     "uikTvd": "447400375543",
+    "uikName": "УИК №101",
     "tikTvd": "2472000122643",
-    "tikName": "Волховская"
+    "tikName": "Волховская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 102,
     "uikTvd": "447400375544",
+    "uikName": "УИК №102",
     "tikTvd": "2472000122643",
-    "tikName": "Волховская"
+    "tikName": "Волховская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 103,
     "uikTvd": "447400375545",
+    "uikName": "УИК №103",
     "tikTvd": "2472000122643",
-    "tikName": "Волховская"
+    "tikName": "Волховская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 104,
     "uikTvd": "447400375546",
+    "uikName": "УИК №104",
     "tikTvd": "2472000122643",
-    "tikName": "Волховская"
+    "tikName": "Волховская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 105,
     "uikTvd": "447400375547",
+    "uikName": "УИК №105",
     "tikTvd": "2472000122643",
-    "tikName": "Волховская"
+    "tikName": "Волховская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 106,
     "uikTvd": "447400375548",
+    "uikName": "УИК №106",
     "tikTvd": "2472000122643",
-    "tikName": "Волховская"
+    "tikName": "Волховская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 107,
     "uikTvd": "447400375549",
+    "uikName": "УИК №107",
     "tikTvd": "2472000122643",
-    "tikName": "Волховская"
+    "tikName": "Волховская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 108,
     "uikTvd": "447400375550",
+    "uikName": "УИК №108",
     "tikTvd": "2472000122643",
-    "tikName": "Волховская"
+    "tikName": "Волховская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 109,
     "uikTvd": "447400375551",
+    "uikName": "УИК №109",
     "tikTvd": "2472000122643",
-    "tikName": "Волховская"
+    "tikName": "Волховская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 110,
     "uikTvd": "447402971786",
+    "uikName": "УИК №110",
     "tikTvd": "2472000122629",
-    "tikName": "Новоладожская городская"
+    "tikName": "Новоладожская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 111,
     "uikTvd": "447402971788",
+    "uikName": "УИК №111",
     "tikTvd": "2472000122629",
-    "tikName": "Новоладожская городская"
+    "tikName": "Новоладожская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 112,
     "uikTvd": "447402971790",
+    "uikName": "УИК №112",
     "tikTvd": "2472000122629",
-    "tikName": "Новоладожская городская"
+    "tikName": "Новоладожская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 113,
     "uikTvd": "447402971792",
+    "uikName": "УИК №113",
     "tikTvd": "2472000122629",
-    "tikName": "Новоладожская городская"
+    "tikName": "Новоладожская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 114,
     "uikTvd": "447402971794",
+    "uikName": "УИК №114",
     "tikTvd": "2472000122629",
-    "tikName": "Новоладожская городская"
+    "tikName": "Новоладожская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 115,
     "uikTvd": "447402373329",
+    "uikName": "УИК №115",
     "tikTvd": "2472000122642",
-    "tikName": "Волховская городская"
+    "tikName": "Волховская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 116,
     "uikTvd": "447402373330",
+    "uikName": "УИК №116",
     "tikTvd": "2472000122642",
-    "tikName": "Волховская городская"
+    "tikName": "Волховская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 117,
     "uikTvd": "447402373331",
+    "uikName": "УИК №117",
     "tikTvd": "2472000122642",
-    "tikName": "Волховская городская"
+    "tikName": "Волховская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 118,
     "uikTvd": "447402373332",
+    "uikName": "УИК №118",
     "tikTvd": "2472000122642",
-    "tikName": "Волховская городская"
+    "tikName": "Волховская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 119,
     "uikTvd": "447402373333",
+    "uikName": "УИК №119",
     "tikTvd": "2472000122642",
-    "tikName": "Волховская городская"
+    "tikName": "Волховская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 120,
     "uikTvd": "447402373334",
+    "uikName": "УИК №120",
     "tikTvd": "2472000122642",
-    "tikName": "Волховская городская"
+    "tikName": "Волховская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 121,
     "uikTvd": "447402373335",
+    "uikName": "УИК №121",
     "tikTvd": "2472000122642",
-    "tikName": "Волховская городская"
+    "tikName": "Волховская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 122,
     "uikTvd": "447402373336",
+    "uikName": "УИК №122",
     "tikTvd": "2472000122642",
-    "tikName": "Волховская городская"
+    "tikName": "Волховская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 123,
     "uikTvd": "447402373337",
+    "uikName": "УИК №123",
     "tikTvd": "2472000122642",
-    "tikName": "Волховская городская"
+    "tikName": "Волховская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 124,
     "uikTvd": "447402373338",
+    "uikName": "УИК №124",
     "tikTvd": "2472000122642",
-    "tikName": "Волховская городская"
+    "tikName": "Волховская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 125,
     "uikTvd": "447402373339",
+    "uikName": "УИК №125",
     "tikTvd": "2472000122642",
-    "tikName": "Волховская городская"
+    "tikName": "Волховская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 126,
     "uikTvd": "447402373340",
+    "uikName": "УИК №126",
     "tikTvd": "2472000122642",
-    "tikName": "Волховская городская"
+    "tikName": "Волховская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 127,
     "uikTvd": "447402373341",
+    "uikName": "УИК №127",
     "tikTvd": "2472000122642",
-    "tikName": "Волховская городская"
+    "tikName": "Волховская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 128,
     "uikTvd": "447402373342",
+    "uikName": "УИК №128",
     "tikTvd": "2472000122642",
-    "tikName": "Волховская городская"
+    "tikName": "Волховская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 129,
     "uikTvd": "447402373343",
+    "uikName": "УИК №129",
     "tikTvd": "2472000122642",
-    "tikName": "Волховская городская"
+    "tikName": "Волховская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 130,
     "uikTvd": "447402373344",
+    "uikName": "УИК №130",
     "tikTvd": "2472000122642",
-    "tikName": "Волховская городская"
+    "tikName": "Волховская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 131,
     "uikTvd": "447402373345",
+    "uikName": "УИК №131",
     "tikTvd": "2472000122642",
-    "tikName": "Волховская городская"
+    "tikName": "Волховская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 132,
     "uikTvd": "447400477256",
+    "uikName": "УИК №132",
     "tikTvd": "2472000122641",
-    "tikName": "Всеволожская"
+    "tikName": "Всеволожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 133,
     "uikTvd": "447400477257",
+    "uikName": "УИК №133",
     "tikTvd": "2472000122641",
-    "tikName": "Всеволожская"
+    "tikName": "Всеволожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 134,
     "uikTvd": "447400477258",
+    "uikName": "УИК №134",
     "tikTvd": "2472000122641",
-    "tikName": "Всеволожская"
+    "tikName": "Всеволожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 135,
     "uikTvd": "447400477259",
+    "uikName": "УИК №135",
     "tikTvd": "2472000122641",
-    "tikName": "Всеволожская"
+    "tikName": "Всеволожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 136,
     "uikTvd": "447400477260",
+    "uikName": "УИК №136",
     "tikTvd": "2472000122641",
-    "tikName": "Всеволожская"
+    "tikName": "Всеволожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 137,
     "uikTvd": "447400477261",
+    "uikName": "УИК №137",
     "tikTvd": "2472000122641",
-    "tikName": "Всеволожская"
+    "tikName": "Всеволожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 138,
     "uikTvd": "447400477262",
+    "uikName": "УИК №138",
     "tikTvd": "2472000122641",
-    "tikName": "Всеволожская"
+    "tikName": "Всеволожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 139,
     "uikTvd": "447400477263",
+    "uikName": "УИК №139",
     "tikTvd": "2472000122641",
-    "tikName": "Всеволожская"
+    "tikName": "Всеволожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 140,
     "uikTvd": "447400477264",
+    "uikName": "УИК №140",
     "tikTvd": "2472000122641",
-    "tikName": "Всеволожская"
+    "tikName": "Всеволожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 141,
     "uikTvd": "447400477265",
+    "uikName": "УИК №141",
     "tikTvd": "2472000122641",
-    "tikName": "Всеволожская"
+    "tikName": "Всеволожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 142,
     "uikTvd": "447400477266",
+    "uikName": "УИК №142",
     "tikTvd": "2472000122641",
-    "tikName": "Всеволожская"
+    "tikName": "Всеволожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 143,
     "uikTvd": "447400477267",
+    "uikName": "УИК №143",
     "tikTvd": "2472000122641",
-    "tikName": "Всеволожская"
+    "tikName": "Всеволожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 144,
     "uikTvd": "447400477268",
+    "uikName": "УИК №144",
     "tikTvd": "2472000122641",
-    "tikName": "Всеволожская"
+    "tikName": "Всеволожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 145,
     "uikTvd": "447400477269",
+    "uikName": "УИК №145",
     "tikTvd": "2472000122641",
-    "tikName": "Всеволожская"
+    "tikName": "Всеволожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 146,
     "uikTvd": "447400477270",
+    "uikName": "УИК №146",
     "tikTvd": "2472000122641",
-    "tikName": "Всеволожская"
+    "tikName": "Всеволожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 147,
     "uikTvd": "447400477271",
+    "uikName": "УИК №147",
     "tikTvd": "2472000122641",
-    "tikName": "Всеволожская"
+    "tikName": "Всеволожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 148,
     "uikTvd": "447400477272",
+    "uikName": "УИК №148",
     "tikTvd": "2472000122641",
-    "tikName": "Всеволожская"
+    "tikName": "Всеволожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 149,
     "uikTvd": "447400477273",
+    "uikName": "УИК №149",
     "tikTvd": "2472000122641",
-    "tikName": "Всеволожская"
+    "tikName": "Всеволожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 150,
     "uikTvd": "447400477274",
+    "uikName": "УИК №150",
     "tikTvd": "2472000122641",
-    "tikName": "Всеволожская"
+    "tikName": "Всеволожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 151,
     "uikTvd": "447400477275",
+    "uikName": "УИК №151",
     "tikTvd": "2472000122641",
-    "tikName": "Всеволожская"
+    "tikName": "Всеволожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 152,
     "uikTvd": "447400477276",
+    "uikName": "УИК №152",
     "tikTvd": "2472000122641",
-    "tikName": "Всеволожская"
+    "tikName": "Всеволожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 153,
     "uikTvd": "447400477277",
+    "uikName": "УИК №153",
     "tikTvd": "2472000122641",
-    "tikName": "Всеволожская"
+    "tikName": "Всеволожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 154,
     "uikTvd": "447400477278",
+    "uikName": "УИК №154",
     "tikTvd": "2472000122641",
-    "tikName": "Всеволожская"
+    "tikName": "Всеволожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 155,
     "uikTvd": "447400477279",
+    "uikName": "УИК №155",
     "tikTvd": "2472000122641",
-    "tikName": "Всеволожская"
+    "tikName": "Всеволожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 156,
     "uikTvd": "447400477280",
+    "uikName": "УИК №156",
     "tikTvd": "2472000122641",
-    "tikName": "Всеволожская"
+    "tikName": "Всеволожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 157,
     "uikTvd": "447400477281",
+    "uikName": "УИК №157",
     "tikTvd": "2472000122641",
-    "tikName": "Всеволожская"
+    "tikName": "Всеволожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 158,
     "uikTvd": "447400477282",
+    "uikName": "УИК №158",
     "tikTvd": "2472000122641",
-    "tikName": "Всеволожская"
+    "tikName": "Всеволожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 159,
     "uikTvd": "447400477283",
+    "uikName": "УИК №159",
     "tikTvd": "2472000122641",
-    "tikName": "Всеволожская"
+    "tikName": "Всеволожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 160,
     "uikTvd": "447400477284",
+    "uikName": "УИК №160",
     "tikTvd": "2472000122641",
-    "tikName": "Всеволожская"
+    "tikName": "Всеволожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 161,
     "uikTvd": "447400477285",
+    "uikName": "УИК №161",
     "tikTvd": "2472000122641",
-    "tikName": "Всеволожская"
+    "tikName": "Всеволожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 162,
     "uikTvd": "447400477286",
+    "uikName": "УИК №162",
     "tikTvd": "2472000122641",
-    "tikName": "Всеволожская"
+    "tikName": "Всеволожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 163,
     "uikTvd": "447400477287",
+    "uikName": "УИК №163",
     "tikTvd": "2472000122641",
-    "tikName": "Всеволожская"
+    "tikName": "Всеволожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 164,
     "uikTvd": "447400477288",
+    "uikName": "УИК №164",
     "tikTvd": "2472000122641",
-    "tikName": "Всеволожская"
+    "tikName": "Всеволожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 165,
     "uikTvd": "447400477289",
+    "uikName": "УИК №165",
     "tikTvd": "2472000122641",
-    "tikName": "Всеволожская"
+    "tikName": "Всеволожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 166,
     "uikTvd": "447400477290",
+    "uikName": "УИК №166",
     "tikTvd": "2472000122641",
-    "tikName": "Всеволожская"
+    "tikName": "Всеволожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 167,
     "uikTvd": "447400477291",
+    "uikName": "УИК №167",
     "tikTvd": "2472000122641",
-    "tikName": "Всеволожская"
+    "tikName": "Всеволожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 168,
     "uikTvd": "447400477292",
+    "uikName": "УИК №168",
     "tikTvd": "2472000122641",
-    "tikName": "Всеволожская"
+    "tikName": "Всеволожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 169,
     "uikTvd": "447400477293",
+    "uikName": "УИК №169",
     "tikTvd": "2472000122641",
-    "tikName": "Всеволожская"
+    "tikName": "Всеволожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 170,
     "uikTvd": "447400477294",
+    "uikName": "УИК №170",
     "tikTvd": "2472000122641",
-    "tikName": "Всеволожская"
+    "tikName": "Всеволожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 171,
     "uikTvd": "447400477295",
+    "uikName": "УИК №171",
     "tikTvd": "2472000122641",
-    "tikName": "Всеволожская"
+    "tikName": "Всеволожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 172,
     "uikTvd": "447400477296",
+    "uikName": "УИК №172",
     "tikTvd": "2472000122641",
-    "tikName": "Всеволожская"
+    "tikName": "Всеволожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 173,
     "uikTvd": "447400477297",
+    "uikName": "УИК №173",
     "tikTvd": "2472000122641",
-    "tikName": "Всеволожская"
+    "tikName": "Всеволожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 174,
     "uikTvd": "447400477298",
+    "uikName": "УИК №174",
     "tikTvd": "2472000122641",
-    "tikName": "Всеволожская"
+    "tikName": "Всеволожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 175,
     "uikTvd": "447400477299",
+    "uikName": "УИК №175",
     "tikTvd": "2472000122641",
-    "tikName": "Всеволожская"
+    "tikName": "Всеволожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 176,
     "uikTvd": "447400477300",
+    "uikName": "УИК №176",
     "tikTvd": "2472000122641",
-    "tikName": "Всеволожская"
+    "tikName": "Всеволожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 177,
     "uikTvd": "447400477301",
+    "uikName": "УИК №177",
     "tikTvd": "2472000122641",
-    "tikName": "Всеволожская"
+    "tikName": "Всеволожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 178,
     "uikTvd": "447400477302",
+    "uikName": "УИК №178",
     "tikTvd": "2472000122641",
-    "tikName": "Всеволожская"
+    "tikName": "Всеволожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 179,
     "uikTvd": "447400477303",
+    "uikName": "УИК №179",
     "tikTvd": "2472000122641",
-    "tikName": "Всеволожская"
+    "tikName": "Всеволожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 180,
     "uikTvd": "447400477304",
+    "uikName": "УИК №180",
     "tikTvd": "2472000122641",
-    "tikName": "Всеволожская"
+    "tikName": "Всеволожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 181,
     "uikTvd": "447400477305",
+    "uikName": "УИК №181",
     "tikTvd": "2472000122641",
-    "tikName": "Всеволожская"
+    "tikName": "Всеволожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 182,
     "uikTvd": "447400477306",
+    "uikName": "УИК №182",
     "tikTvd": "2472000122641",
-    "tikName": "Всеволожская"
+    "tikName": "Всеволожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 183,
     "uikTvd": "447400477307",
+    "uikName": "УИК №183",
     "tikTvd": "2472000122641",
-    "tikName": "Всеволожская"
+    "tikName": "Всеволожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 184,
     "uikTvd": "447400477308",
+    "uikName": "УИК №184",
     "tikTvd": "2472000122641",
-    "tikName": "Всеволожская"
+    "tikName": "Всеволожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 185,
     "uikTvd": "447400477309",
+    "uikName": "УИК №185",
     "tikTvd": "2472000122641",
-    "tikName": "Всеволожская"
+    "tikName": "Всеволожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 186,
     "uikTvd": "447400477310",
+    "uikName": "УИК №186",
     "tikTvd": "2472000122641",
-    "tikName": "Всеволожская"
+    "tikName": "Всеволожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 187,
     "uikTvd": "447400477311",
+    "uikName": "УИК №187",
     "tikTvd": "2472000122641",
-    "tikName": "Всеволожская"
+    "tikName": "Всеволожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 188,
     "uikTvd": "447400477312",
+    "uikName": "УИК №188",
     "tikTvd": "2472000122641",
-    "tikName": "Всеволожская"
+    "tikName": "Всеволожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 189,
     "uikTvd": "447400477313",
+    "uikName": "УИК №189",
     "tikTvd": "2472000122641",
-    "tikName": "Всеволожская"
+    "tikName": "Всеволожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 190,
     "uikTvd": "447400477314",
+    "uikName": "УИК №190",
     "tikTvd": "2472000122641",
-    "tikName": "Всеволожская"
+    "tikName": "Всеволожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 191,
     "uikTvd": "447400477315",
+    "uikName": "УИК №191",
     "tikTvd": "2472000122641",
-    "tikName": "Всеволожская"
+    "tikName": "Всеволожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 192,
     "uikTvd": "447400477316",
+    "uikName": "УИК №192",
     "tikTvd": "2472000122641",
-    "tikName": "Всеволожская"
+    "tikName": "Всеволожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 193,
     "uikTvd": "447400477317",
+    "uikName": "УИК №193",
     "tikTvd": "2472000122641",
-    "tikName": "Всеволожская"
+    "tikName": "Всеволожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 194,
     "uikTvd": "447400477318",
+    "uikName": "УИК №194",
     "tikTvd": "2472000122641",
-    "tikName": "Всеволожская"
+    "tikName": "Всеволожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 195,
     "uikTvd": "447400477319",
+    "uikName": "УИК №195",
     "tikTvd": "2472000122641",
-    "tikName": "Всеволожская"
+    "tikName": "Всеволожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 196,
     "uikTvd": "447400477320",
+    "uikName": "УИК №196",
     "tikTvd": "2472000122641",
-    "tikName": "Всеволожская"
+    "tikName": "Всеволожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 197,
     "uikTvd": "447400477321",
+    "uikName": "УИК №197",
     "tikTvd": "2472000122641",
-    "tikName": "Всеволожская"
+    "tikName": "Всеволожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 198,
     "uikTvd": "447400477322",
+    "uikName": "УИК №198",
     "tikTvd": "2472000122641",
-    "tikName": "Всеволожская"
+    "tikName": "Всеволожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 199,
     "uikTvd": "447400477323",
+    "uikName": "УИК №199",
     "tikTvd": "2472000122641",
-    "tikName": "Всеволожская"
+    "tikName": "Всеволожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 200,
     "uikTvd": "447400477324",
+    "uikName": "УИК №200",
     "tikTvd": "2472000122641",
-    "tikName": "Всеволожская"
+    "tikName": "Всеволожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 201,
     "uikTvd": "447400477325",
+    "uikName": "УИК №201",
     "tikTvd": "2472000122641",
-    "tikName": "Всеволожская"
+    "tikName": "Всеволожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 202,
     "uikTvd": "447400477326",
+    "uikName": "УИК №202",
     "tikTvd": "2472000122641",
-    "tikName": "Всеволожская"
+    "tikName": "Всеволожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 203,
     "uikTvd": "447400477327",
+    "uikName": "УИК №203",
     "tikTvd": "2472000122641",
-    "tikName": "Всеволожская"
+    "tikName": "Всеволожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 204,
     "uikTvd": "447400477328",
+    "uikName": "УИК №204",
     "tikTvd": "2472000122641",
-    "tikName": "Всеволожская"
+    "tikName": "Всеволожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 205,
     "uikTvd": "447400477329",
+    "uikName": "УИК №205",
     "tikTvd": "2472000122641",
-    "tikName": "Всеволожская"
+    "tikName": "Всеволожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 206,
     "uikTvd": "447400477330",
+    "uikName": "УИК №206",
     "tikTvd": "2472000122641",
-    "tikName": "Всеволожская"
+    "tikName": "Всеволожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 207,
     "uikTvd": "447400477331",
+    "uikName": "УИК №207",
     "tikTvd": "2472000122641",
-    "tikName": "Всеволожская"
+    "tikName": "Всеволожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 208,
     "uikTvd": "447400477332",
+    "uikName": "УИК №208",
     "tikTvd": "2472000122641",
-    "tikName": "Всеволожская"
+    "tikName": "Всеволожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 209,
     "uikTvd": "447400477333",
+    "uikName": "УИК №209",
     "tikTvd": "2472000122641",
-    "tikName": "Всеволожская"
+    "tikName": "Всеволожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 210,
     "uikTvd": "447400477334",
+    "uikName": "УИК №210",
     "tikTvd": "2472000122641",
-    "tikName": "Всеволожская"
+    "tikName": "Всеволожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 211,
     "uikTvd": "447400477335",
+    "uikName": "УИК №211",
     "tikTvd": "2472000122641",
-    "tikName": "Всеволожская"
+    "tikName": "Всеволожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 212,
     "uikTvd": "447400477336",
+    "uikName": "УИК №212",
     "tikTvd": "2472000122641",
-    "tikName": "Всеволожская"
+    "tikName": "Всеволожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 213,
     "uikTvd": "447400477337",
+    "uikName": "УИК №213",
     "tikTvd": "2472000122641",
-    "tikName": "Всеволожская"
+    "tikName": "Всеволожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 214,
     "uikTvd": "447400477338",
+    "uikName": "УИК №214",
     "tikTvd": "2472000122641",
-    "tikName": "Всеволожская"
+    "tikName": "Всеволожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 215,
     "uikTvd": "447400477339",
+    "uikName": "УИК №215",
     "tikTvd": "2472000122641",
-    "tikName": "Всеволожская"
+    "tikName": "Всеволожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 216,
     "uikTvd": "447400477340",
+    "uikName": "УИК №216",
     "tikTvd": "2472000122641",
-    "tikName": "Всеволожская"
+    "tikName": "Всеволожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 217,
     "uikTvd": "447400477341",
+    "uikName": "УИК №217",
     "tikTvd": "2472000122641",
-    "tikName": "Всеволожская"
+    "tikName": "Всеволожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 218,
     "uikTvd": "447400477342",
+    "uikName": "УИК №218",
     "tikTvd": "2472000122641",
-    "tikName": "Всеволожская"
+    "tikName": "Всеволожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 219,
     "uikTvd": "447400477343",
+    "uikName": "УИК №219",
     "tikTvd": "2472000122641",
-    "tikName": "Всеволожская"
+    "tikName": "Всеволожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 220,
     "uikTvd": "447400477344",
+    "uikName": "УИК №220",
     "tikTvd": "2472000122641",
-    "tikName": "Всеволожская"
+    "tikName": "Всеволожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 221,
     "uikTvd": "447400477345",
+    "uikName": "УИК №221",
     "tikTvd": "2472000122641",
-    "tikName": "Всеволожская"
+    "tikName": "Всеволожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 222,
     "uikTvd": "447400477346",
+    "uikName": "УИК №222",
     "tikTvd": "2472000122641",
-    "tikName": "Всеволожская"
+    "tikName": "Всеволожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 223,
     "uikTvd": "447400583021",
+    "uikName": "УИК №223",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 224,
     "uikTvd": "447403071707",
+    "uikName": "УИК №224",
     "tikTvd": "2472000122617",
-    "tikName": "Колтушская"
+    "tikName": "Колтушская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 225,
     "uikTvd": "447403071708",
+    "uikName": "УИК №225",
     "tikTvd": "2472000122617",
-    "tikName": "Колтушская"
+    "tikName": "Колтушская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 226,
     "uikTvd": "447403071709",
+    "uikName": "УИК №226",
     "tikTvd": "2472000122617",
-    "tikName": "Колтушская"
+    "tikName": "Колтушская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 227,
     "uikTvd": "447403071710",
+    "uikName": "УИК №227",
     "tikTvd": "2472000122617",
-    "tikName": "Колтушская"
+    "tikName": "Колтушская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 228,
     "uikTvd": "447403071711",
+    "uikName": "УИК №228",
     "tikTvd": "2472000122617",
-    "tikName": "Колтушская"
+    "tikName": "Колтушская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 229,
     "uikTvd": "447402572584",
+    "uikName": "УИК №229",
     "tikTvd": "2472000122624",
-    "tikName": "Сертоловская городская"
+    "tikName": "Сертоловская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 230,
     "uikTvd": "447402572586",
+    "uikName": "УИК №230",
     "tikTvd": "2472000122624",
-    "tikName": "Сертоловская городская"
+    "tikName": "Сертоловская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 231,
     "uikTvd": "447402572588",
+    "uikName": "УИК №231",
     "tikTvd": "2472000122624",
-    "tikName": "Сертоловская городская"
+    "tikName": "Сертоловская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 232,
     "uikTvd": "447402572590",
+    "uikName": "УИК №232",
     "tikTvd": "2472000122624",
-    "tikName": "Сертоловская городская"
+    "tikName": "Сертоловская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 233,
     "uikTvd": "447402572592",
+    "uikName": "УИК №233",
     "tikTvd": "2472000122624",
-    "tikName": "Сертоловская городская"
+    "tikName": "Сертоловская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 234,
     "uikTvd": "447402572594",
+    "uikName": "УИК №234",
     "tikTvd": "2472000122624",
-    "tikName": "Сертоловская городская"
+    "tikName": "Сертоловская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 235,
     "uikTvd": "447402572596",
+    "uikName": "УИК №235",
     "tikTvd": "2472000122624",
-    "tikName": "Сертоловская городская"
+    "tikName": "Сертоловская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 236,
     "uikTvd": "447402572598",
+    "uikName": "УИК №236",
     "tikTvd": "2472000122624",
-    "tikName": "Сертоловская городская"
+    "tikName": "Сертоловская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 237,
     "uikTvd": "447402572600",
+    "uikName": "УИК №237",
     "tikTvd": "2472000122624",
-    "tikName": "Сертоловская городская"
+    "tikName": "Сертоловская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 238,
     "uikTvd": "447402572602",
+    "uikName": "УИК №238",
     "tikTvd": "2472000122624",
-    "tikName": "Сертоловская городская"
+    "tikName": "Сертоловская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 239,
     "uikTvd": "447402572604",
+    "uikName": "УИК №239",
     "tikTvd": "2472000122624",
-    "tikName": "Сертоловская городская"
+    "tikName": "Сертоловская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 240,
     "uikTvd": "447402572606",
+    "uikName": "УИК №240",
     "tikTvd": "2472000122624",
-    "tikName": "Сертоловская городская"
+    "tikName": "Сертоловская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 241,
     "uikTvd": "447402572608",
+    "uikName": "УИК №241",
     "tikTvd": "2472000122624",
-    "tikName": "Сертоловская городская"
+    "tikName": "Сертоловская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 242,
     "uikTvd": "447400582906",
+    "uikName": "УИК №242",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 243,
     "uikTvd": "447400582907",
+    "uikName": "УИК №243",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 244,
     "uikTvd": "447400582908",
+    "uikName": "УИК №244",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 245,
     "uikTvd": "447400582909",
+    "uikName": "УИК №245",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 246,
     "uikTvd": "447400582910",
+    "uikName": "УИК №246",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 247,
     "uikTvd": "447400582911",
+    "uikName": "УИК №247",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 248,
     "uikTvd": "447400582912",
+    "uikName": "УИК №248",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 249,
     "uikTvd": "447400582913",
+    "uikName": "УИК №249",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 250,
     "uikTvd": "447400582914",
+    "uikName": "УИК №250",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 251,
     "uikTvd": "447400582915",
+    "uikName": "УИК №251",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 252,
     "uikTvd": "447400582916",
+    "uikName": "УИК №252",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 253,
     "uikTvd": "447400582917",
+    "uikName": "УИК №253",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 254,
     "uikTvd": "447400582918",
+    "uikName": "УИК №254",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 255,
     "uikTvd": "447400582919",
+    "uikName": "УИК №255",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 256,
     "uikTvd": "447400582920",
+    "uikName": "УИК №256",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 257,
     "uikTvd": "447400582921",
+    "uikName": "УИК №257",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 258,
     "uikTvd": "447400582922",
+    "uikName": "УИК №258",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 259,
     "uikTvd": "447400582923",
+    "uikName": "УИК №259",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 260,
     "uikTvd": "447400582924",
+    "uikName": "УИК №260",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 261,
     "uikTvd": "447400582925",
+    "uikName": "УИК №261",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 262,
     "uikTvd": "447400582926",
+    "uikName": "УИК №262",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 263,
     "uikTvd": "447400582927",
+    "uikName": "УИК №263",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 264,
     "uikTvd": "447400582928",
+    "uikName": "УИК №264",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 265,
     "uikTvd": "447400582929",
+    "uikName": "УИК №265",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 266,
     "uikTvd": "447400582930",
+    "uikName": "УИК №266",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 267,
     "uikTvd": "447400582931",
+    "uikName": "УИК №267",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 268,
     "uikTvd": "447400582932",
+    "uikName": "УИК №268",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 269,
     "uikTvd": "447400582933",
+    "uikName": "УИК №269",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 270,
     "uikTvd": "447400582934",
+    "uikName": "УИК №270",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 271,
     "uikTvd": "447400582935",
+    "uikName": "УИК №271",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 272,
     "uikTvd": "447400582936",
+    "uikName": "УИК №272",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 273,
     "uikTvd": "447400582937",
+    "uikName": "УИК №273",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 274,
     "uikTvd": "447400582938",
+    "uikName": "УИК №274",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 275,
     "uikTvd": "447400582939",
+    "uikName": "УИК №275",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 276,
     "uikTvd": "447400582940",
+    "uikName": "УИК №276",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 277,
     "uikTvd": "447400582941",
+    "uikName": "УИК №277",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 278,
     "uikTvd": "447400582942",
+    "uikName": "УИК №278",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 279,
     "uikTvd": "447400582943",
+    "uikName": "УИК №279",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 280,
     "uikTvd": "447400582944",
+    "uikName": "УИК №280",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 281,
     "uikTvd": "447400582945",
+    "uikName": "УИК №281",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 282,
     "uikTvd": "447400582946",
+    "uikName": "УИК №282",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 283,
     "uikTvd": "447400582947",
+    "uikName": "УИК №283",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 284,
     "uikTvd": "447400582948",
+    "uikName": "УИК №284",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 285,
     "uikTvd": "447400582949",
+    "uikName": "УИК №285",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 286,
     "uikTvd": "447400582950",
+    "uikName": "УИК №286",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 287,
     "uikTvd": "447400582951",
+    "uikName": "УИК №287",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 288,
     "uikTvd": "447400582952",
+    "uikName": "УИК №288",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 289,
     "uikTvd": "447400582953",
+    "uikName": "УИК №289",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 290,
     "uikTvd": "447400582954",
+    "uikName": "УИК №290",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 291,
     "uikTvd": "447400582955",
+    "uikName": "УИК №291",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 292,
     "uikTvd": "447400582956",
+    "uikName": "УИК №292",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 293,
     "uikTvd": "447400582957",
+    "uikName": "УИК №293",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 294,
     "uikTvd": "447400582958",
+    "uikName": "УИК №294",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 295,
     "uikTvd": "447400582959",
+    "uikName": "УИК №295",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 296,
     "uikTvd": "447400582960",
+    "uikName": "УИК №296",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 297,
     "uikTvd": "447400582961",
+    "uikName": "УИК №297",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 298,
     "uikTvd": "447400582962",
+    "uikName": "УИК №298",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 299,
     "uikTvd": "447400582963",
+    "uikName": "УИК №299",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 300,
     "uikTvd": "447400582964",
+    "uikName": "УИК №300",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 301,
     "uikTvd": "447400582965",
+    "uikName": "УИК №301",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 302,
     "uikTvd": "447400582966",
+    "uikName": "УИК №302",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 303,
     "uikTvd": "447400582967",
+    "uikName": "УИК №303",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 304,
     "uikTvd": "447400582968",
+    "uikName": "УИК №304",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 305,
     "uikTvd": "447400582969",
+    "uikName": "УИК №305",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 306,
     "uikTvd": "447400582970",
+    "uikName": "УИК №306",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 307,
     "uikTvd": "447400582971",
+    "uikName": "УИК №307",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 308,
     "uikTvd": "447400582972",
+    "uikName": "УИК №308",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 309,
     "uikTvd": "447400582973",
+    "uikName": "УИК №309",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 310,
     "uikTvd": "447400582974",
+    "uikName": "УИК №310",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 311,
     "uikTvd": "447400582975",
+    "uikName": "УИК №311",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 312,
     "uikTvd": "447400582976",
+    "uikName": "УИК №312",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 313,
     "uikTvd": "447400582977",
+    "uikName": "УИК №313",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 314,
     "uikTvd": "447400582978",
+    "uikName": "УИК №314",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 315,
     "uikTvd": "447400582979",
+    "uikName": "УИК №315",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 316,
     "uikTvd": "447400582980",
+    "uikName": "УИК №316",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 317,
     "uikTvd": "447400582981",
+    "uikName": "УИК №317",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 318,
     "uikTvd": "447400582982",
+    "uikName": "УИК №318",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 319,
     "uikTvd": "447400582983",
+    "uikName": "УИК №319",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 320,
     "uikTvd": "447400582984",
+    "uikName": "УИК №320",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 321,
     "uikTvd": "447400582985",
+    "uikName": "УИК №321",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 322,
     "uikTvd": "447400582986",
+    "uikName": "УИК №322",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 323,
     "uikTvd": "447400582987",
+    "uikName": "УИК №323",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 324,
     "uikTvd": "447400582988",
+    "uikName": "УИК №324",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 325,
     "uikTvd": "447400582989",
+    "uikName": "УИК №325",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 326,
     "uikTvd": "447400582990",
+    "uikName": "УИК №326",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 327,
     "uikTvd": "447400582991",
+    "uikName": "УИК №327",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 328,
     "uikTvd": "447400582992",
+    "uikName": "УИК №328",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 329,
     "uikTvd": "447400582993",
+    "uikName": "УИК №329",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 330,
     "uikTvd": "447400582994",
+    "uikName": "УИК №330",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 331,
     "uikTvd": "447400582995",
+    "uikName": "УИК №331",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 332,
     "uikTvd": "447400582996",
+    "uikName": "УИК №332",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 333,
     "uikTvd": "447400582997",
+    "uikName": "УИК №333",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 334,
     "uikTvd": "447400582998",
+    "uikName": "УИК №334",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 335,
     "uikTvd": "447400582999",
+    "uikName": "УИК №335",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 336,
     "uikTvd": "447400583000",
+    "uikName": "УИК №336",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 337,
     "uikTvd": "447400583001",
+    "uikName": "УИК №337",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 338,
     "uikTvd": "447400583002",
+    "uikName": "УИК №338",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 339,
     "uikTvd": "447400583003",
+    "uikName": "УИК №339",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 340,
     "uikTvd": "447400583004",
+    "uikName": "УИК №340",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 341,
     "uikTvd": "447400583005",
+    "uikName": "УИК №341",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 342,
     "uikTvd": "447400583006",
+    "uikName": "УИК №342",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 343,
     "uikTvd": "447400583007",
+    "uikName": "УИК №343",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 344,
     "uikTvd": "447400583008",
+    "uikName": "УИК №344",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 345,
     "uikTvd": "447400583009",
+    "uikName": "УИК №345",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 346,
     "uikTvd": "447400583010",
+    "uikName": "УИК №346",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 347,
     "uikTvd": "447400583011",
+    "uikName": "УИК №347",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 348,
     "uikTvd": "447400583012",
+    "uikName": "УИК №348",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 349,
     "uikTvd": "447400583013",
+    "uikName": "УИК №349",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 350,
     "uikTvd": "447400583014",
+    "uikName": "УИК №350",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 351,
     "uikTvd": "447400583015",
+    "uikName": "УИК №351",
     "tikTvd": "2472000122640",
-    "tikName": "Выборгская"
+    "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 352,
     "uikTvd": "447402671289",
+    "uikName": "УИК №352",
     "tikTvd": "2472000122625",
-    "tikName": "Светогорская городская"
+    "tikName": "Светогорская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 353,
     "uikTvd": "447402671290",
+    "uikName": "УИК №353",
     "tikTvd": "2472000122625",
-    "tikName": "Светогорская городская"
+    "tikName": "Светогорская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 354,
     "uikTvd": "447402671291",
+    "uikName": "УИК №354",
     "tikTvd": "2472000122625",
-    "tikName": "Светогорская городская"
+    "tikName": "Светогорская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 355,
     "uikTvd": "447402671292",
+    "uikName": "УИК №355",
     "tikTvd": "2472000122625",
-    "tikName": "Светогорская городская"
+    "tikName": "Светогорская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 356,
     "uikTvd": "447402671293",
+    "uikName": "УИК №356",
     "tikTvd": "2472000122625",
-    "tikName": "Светогорская городская"
+    "tikName": "Светогорская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 357,
     "uikTvd": "447400774882",
+    "uikName": "УИК №357",
     "tikTvd": "2472000122639",
-    "tikName": "Гатчинская"
+    "tikName": "Гатчинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 358,
     "uikTvd": "447400774884",
+    "uikName": "УИК №358",
     "tikTvd": "2472000122639",
-    "tikName": "Гатчинская"
+    "tikName": "Гатчинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 359,
     "uikTvd": "447400774885",
+    "uikName": "УИК №359",
     "tikTvd": "2472000122639",
-    "tikName": "Гатчинская"
+    "tikName": "Гатчинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 360,
     "uikTvd": "447400774886",
+    "uikName": "УИК №360",
     "tikTvd": "2472000122639",
-    "tikName": "Гатчинская"
+    "tikName": "Гатчинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 361,
     "uikTvd": "447400774887",
+    "uikName": "УИК №361",
     "tikTvd": "2472000122639",
-    "tikName": "Гатчинская"
+    "tikName": "Гатчинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 362,
     "uikTvd": "447400774888",
+    "uikName": "УИК №362",
     "tikTvd": "2472000122639",
-    "tikName": "Гатчинская"
+    "tikName": "Гатчинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 363,
     "uikTvd": "447400774889",
+    "uikName": "УИК №363",
     "tikTvd": "2472000122639",
-    "tikName": "Гатчинская"
+    "tikName": "Гатчинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 364,
     "uikTvd": "447400774890",
+    "uikName": "УИК №364",
     "tikTvd": "2472000122639",
-    "tikName": "Гатчинская"
+    "tikName": "Гатчинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 365,
     "uikTvd": "447400774891",
+    "uikName": "УИК №365",
     "tikTvd": "2472000122639",
-    "tikName": "Гатчинская"
+    "tikName": "Гатчинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 366,
     "uikTvd": "447400774892",
+    "uikName": "УИК №366",
     "tikTvd": "2472000122639",
-    "tikName": "Гатчинская"
+    "tikName": "Гатчинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 367,
     "uikTvd": "447400774893",
+    "uikName": "УИК №367",
     "tikTvd": "2472000122639",
-    "tikName": "Гатчинская"
+    "tikName": "Гатчинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 368,
     "uikTvd": "447400774894",
+    "uikName": "УИК №368",
     "tikTvd": "2472000122639",
-    "tikName": "Гатчинская"
+    "tikName": "Гатчинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 369,
     "uikTvd": "447400774895",
+    "uikName": "УИК №369",
     "tikTvd": "2472000122639",
-    "tikName": "Гатчинская"
+    "tikName": "Гатчинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 370,
     "uikTvd": "447400774896",
+    "uikName": "УИК №370",
     "tikTvd": "2472000122639",
-    "tikName": "Гатчинская"
+    "tikName": "Гатчинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 371,
     "uikTvd": "447400774897",
+    "uikName": "УИК №371",
     "tikTvd": "2472000122639",
-    "tikName": "Гатчинская"
+    "tikName": "Гатчинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 372,
     "uikTvd": "447400774898",
+    "uikName": "УИК №372",
     "tikTvd": "2472000122639",
-    "tikName": "Гатчинская"
+    "tikName": "Гатчинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 373,
     "uikTvd": "447400774899",
+    "uikName": "УИК №373",
     "tikTvd": "2472000122639",
-    "tikName": "Гатчинская"
+    "tikName": "Гатчинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 374,
     "uikTvd": "447400774900",
+    "uikName": "УИК №374",
     "tikTvd": "2472000122639",
-    "tikName": "Гатчинская"
+    "tikName": "Гатчинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 375,
     "uikTvd": "447400774901",
+    "uikName": "УИК №375",
     "tikTvd": "2472000122639",
-    "tikName": "Гатчинская"
+    "tikName": "Гатчинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 376,
     "uikTvd": "447400774902",
+    "uikName": "УИК №376",
     "tikTvd": "2472000122639",
-    "tikName": "Гатчинская"
+    "tikName": "Гатчинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 377,
     "uikTvd": "447400774903",
+    "uikName": "УИК №377",
     "tikTvd": "2472000122639",
-    "tikName": "Гатчинская"
+    "tikName": "Гатчинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 378,
     "uikTvd": "447400774904",
+    "uikName": "УИК №378",
     "tikTvd": "2472000122639",
-    "tikName": "Гатчинская"
+    "tikName": "Гатчинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 379,
     "uikTvd": "447400774905",
+    "uikName": "УИК №379",
     "tikTvd": "2472000122639",
-    "tikName": "Гатчинская"
+    "tikName": "Гатчинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 380,
     "uikTvd": "447400774906",
+    "uikName": "УИК №380",
     "tikTvd": "2472000122639",
-    "tikName": "Гатчинская"
+    "tikName": "Гатчинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 381,
     "uikTvd": "447400774907",
+    "uikName": "УИК №381",
     "tikTvd": "2472000122639",
-    "tikName": "Гатчинская"
+    "tikName": "Гатчинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 382,
     "uikTvd": "447400774908",
+    "uikName": "УИК №382",
     "tikTvd": "2472000122639",
-    "tikName": "Гатчинская"
+    "tikName": "Гатчинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 383,
     "uikTvd": "447400774909",
+    "uikName": "УИК №383",
     "tikTvd": "2472000122639",
-    "tikName": "Гатчинская"
+    "tikName": "Гатчинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 384,
     "uikTvd": "447400774910",
+    "uikName": "УИК №384",
     "tikTvd": "2472000122639",
-    "tikName": "Гатчинская"
+    "tikName": "Гатчинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 385,
     "uikTvd": "447400774911",
+    "uikName": "УИК №385",
     "tikTvd": "2472000122639",
-    "tikName": "Гатчинская"
+    "tikName": "Гатчинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 386,
     "uikTvd": "447400774912",
+    "uikName": "УИК №386",
     "tikTvd": "2472000122639",
-    "tikName": "Гатчинская"
+    "tikName": "Гатчинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 387,
     "uikTvd": "447400774913",
+    "uikName": "УИК №387",
     "tikTvd": "2472000122639",
-    "tikName": "Гатчинская"
+    "tikName": "Гатчинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 388,
     "uikTvd": "447400774914",
+    "uikName": "УИК №388",
     "tikTvd": "2472000122639",
-    "tikName": "Гатчинская"
+    "tikName": "Гатчинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 389,
     "uikTvd": "447400774915",
+    "uikName": "УИК №389",
     "tikTvd": "2472000122639",
-    "tikName": "Гатчинская"
+    "tikName": "Гатчинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 390,
     "uikTvd": "447400774916",
+    "uikName": "УИК №390",
     "tikTvd": "2472000122639",
-    "tikName": "Гатчинская"
+    "tikName": "Гатчинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 391,
     "uikTvd": "447400774917",
+    "uikName": "УИК №391",
     "tikTvd": "2472000122639",
-    "tikName": "Гатчинская"
+    "tikName": "Гатчинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 392,
     "uikTvd": "447400774918",
+    "uikName": "УИК №392",
     "tikTvd": "2472000122639",
-    "tikName": "Гатчинская"
+    "tikName": "Гатчинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 393,
     "uikTvd": "447400774919",
+    "uikName": "УИК №393",
     "tikTvd": "2472000122639",
-    "tikName": "Гатчинская"
+    "tikName": "Гатчинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 394,
     "uikTvd": "447400774920",
+    "uikName": "УИК №394",
     "tikTvd": "2472000122639",
-    "tikName": "Гатчинская"
+    "tikName": "Гатчинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 395,
     "uikTvd": "447400774921",
+    "uikName": "УИК №395",
     "tikTvd": "2472000122639",
-    "tikName": "Гатчинская"
+    "tikName": "Гатчинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 396,
     "uikTvd": "447400774922",
+    "uikName": "УИК №396",
     "tikTvd": "2472000122639",
-    "tikName": "Гатчинская"
+    "tikName": "Гатчинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 397,
     "uikTvd": "447400774923",
+    "uikName": "УИК №397",
     "tikTvd": "2472000122639",
-    "tikName": "Гатчинская"
+    "tikName": "Гатчинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 398,
     "uikTvd": "447400774924",
+    "uikName": "УИК №398",
     "tikTvd": "2472000122639",
-    "tikName": "Гатчинская"
+    "tikName": "Гатчинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 399,
     "uikTvd": "447400774925",
+    "uikName": "УИК №399",
     "tikTvd": "2472000122639",
-    "tikName": "Гатчинская"
+    "tikName": "Гатчинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 400,
     "uikTvd": "447400774926",
+    "uikName": "УИК №400",
     "tikTvd": "2472000122639",
-    "tikName": "Гатчинская"
+    "tikName": "Гатчинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 401,
     "uikTvd": "447400774927",
+    "uikName": "УИК №401",
     "tikTvd": "2472000122639",
-    "tikName": "Гатчинская"
+    "tikName": "Гатчинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 402,
     "uikTvd": "447400774928",
+    "uikName": "УИК №402",
     "tikTvd": "2472000122639",
-    "tikName": "Гатчинская"
+    "tikName": "Гатчинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 403,
     "uikTvd": "447400774929",
+    "uikName": "УИК №403",
     "tikTvd": "2472000122639",
-    "tikName": "Гатчинская"
+    "tikName": "Гатчинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 404,
     "uikTvd": "447400774930",
+    "uikName": "УИК №404",
     "tikTvd": "2472000122639",
-    "tikName": "Гатчинская"
+    "tikName": "Гатчинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 405,
     "uikTvd": "447400774931",
+    "uikName": "УИК №405",
     "tikTvd": "2472000122639",
-    "tikName": "Гатчинская"
+    "tikName": "Гатчинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 406,
     "uikTvd": "447400774932",
+    "uikName": "УИК №406",
     "tikTvd": "2472000122639",
-    "tikName": "Гатчинская"
+    "tikName": "Гатчинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 407,
     "uikTvd": "447400774933",
+    "uikName": "УИК №407",
     "tikTvd": "2472000122639",
-    "tikName": "Гатчинская"
+    "tikName": "Гатчинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 408,
     "uikTvd": "447400774934",
+    "uikName": "УИК №408",
     "tikTvd": "2472000122639",
-    "tikName": "Гатчинская"
+    "tikName": "Гатчинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 409,
     "uikTvd": "447400774935",
+    "uikName": "УИК №409",
     "tikTvd": "2472000122639",
-    "tikName": "Гатчинская"
+    "tikName": "Гатчинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 410,
     "uikTvd": "447400774936",
+    "uikName": "УИК №410",
     "tikTvd": "2472000122639",
-    "tikName": "Гатчинская"
+    "tikName": "Гатчинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 411,
     "uikTvd": "447400774937",
+    "uikName": "УИК №411",
     "tikTvd": "2472000122639",
-    "tikName": "Гатчинская"
+    "tikName": "Гатчинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 412,
     "uikTvd": "447400774938",
+    "uikName": "УИК №412",
     "tikTvd": "2472000122639",
-    "tikName": "Гатчинская"
+    "tikName": "Гатчинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 413,
     "uikTvd": "447400774939",
+    "uikName": "УИК №413",
     "tikTvd": "2472000122639",
-    "tikName": "Гатчинская"
+    "tikName": "Гатчинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 414,
     "uikTvd": "447400774940",
+    "uikName": "УИК №414",
     "tikTvd": "2472000122639",
-    "tikName": "Гатчинская"
+    "tikName": "Гатчинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 415,
     "uikTvd": "447400774941",
+    "uikName": "УИК №415",
     "tikTvd": "2472000122639",
-    "tikName": "Гатчинская"
+    "tikName": "Гатчинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 416,
     "uikTvd": "447400774942",
+    "uikName": "УИК №416",
     "tikTvd": "2472000122639",
-    "tikName": "Гатчинская"
+    "tikName": "Гатчинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 417,
     "uikTvd": "447400774943",
+    "uikName": "УИК №417",
     "tikTvd": "2472000122639",
-    "tikName": "Гатчинская"
+    "tikName": "Гатчинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 418,
     "uikTvd": "447400774944",
+    "uikName": "УИК №418",
     "tikTvd": "2472000122639",
-    "tikName": "Гатчинская"
+    "tikName": "Гатчинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 419,
     "uikTvd": "447400774945",
+    "uikName": "УИК №419",
     "tikTvd": "2472000122639",
-    "tikName": "Гатчинская"
+    "tikName": "Гатчинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 420,
     "uikTvd": "447400774946",
+    "uikName": "УИК №420",
     "tikTvd": "2472000122639",
-    "tikName": "Гатчинская"
+    "tikName": "Гатчинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 421,
     "uikTvd": "447400774947",
+    "uikName": "УИК №421",
     "tikTvd": "2472000122639",
-    "tikName": "Гатчинская"
+    "tikName": "Гатчинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 422,
     "uikTvd": "447400774948",
+    "uikName": "УИК №422",
     "tikTvd": "2472000122639",
-    "tikName": "Гатчинская"
+    "tikName": "Гатчинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 423,
     "uikTvd": "447400774949",
+    "uikName": "УИК №423",
     "tikTvd": "2472000122639",
-    "tikName": "Гатчинская"
+    "tikName": "Гатчинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 424,
     "uikTvd": "447400774950",
+    "uikName": "УИК №424",
     "tikTvd": "2472000122639",
-    "tikName": "Гатчинская"
+    "tikName": "Гатчинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 425,
     "uikTvd": "447400774951",
+    "uikName": "УИК №425",
     "tikTvd": "2472000122639",
-    "tikName": "Гатчинская"
+    "tikName": "Гатчинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 426,
     "uikTvd": "447400774952",
+    "uikName": "УИК №426",
     "tikTvd": "2472000122639",
-    "tikName": "Гатчинская"
+    "tikName": "Гатчинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 427,
     "uikTvd": "447400774953",
+    "uikName": "УИК №427",
     "tikTvd": "2472000122639",
-    "tikName": "Гатчинская"
+    "tikName": "Гатчинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 428,
     "uikTvd": "447400774954",
+    "uikName": "УИК №428",
     "tikTvd": "2472000122639",
-    "tikName": "Гатчинская"
+    "tikName": "Гатчинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 429,
     "uikTvd": "447400774955",
+    "uikName": "УИК №429",
     "tikTvd": "2472000122639",
-    "tikName": "Гатчинская"
+    "tikName": "Гатчинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 430,
     "uikTvd": "447400774956",
+    "uikName": "УИК №430",
     "tikTvd": "2472000122639",
-    "tikName": "Гатчинская"
+    "tikName": "Гатчинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 431,
     "uikTvd": "447400774957",
+    "uikName": "УИК №431",
     "tikTvd": "2472000122639",
-    "tikName": "Гатчинская"
+    "tikName": "Гатчинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 432,
     "uikTvd": "447400774958",
+    "uikName": "УИК №432",
     "tikTvd": "2472000122639",
-    "tikName": "Гатчинская"
+    "tikName": "Гатчинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 433,
     "uikTvd": "447400774959",
+    "uikName": "УИК №433",
     "tikTvd": "2472000122639",
-    "tikName": "Гатчинская"
+    "tikName": "Гатчинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 434,
     "uikTvd": "447400774960",
+    "uikName": "УИК №434",
     "tikTvd": "2472000122639",
-    "tikName": "Гатчинская"
+    "tikName": "Гатчинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 435,
     "uikTvd": "447400774961",
+    "uikName": "УИК №435",
     "tikTvd": "2472000122639",
-    "tikName": "Гатчинская"
+    "tikName": "Гатчинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 436,
     "uikTvd": "447402471672",
+    "uikName": "УИК №436",
     "tikTvd": "2472000122633",
-    "tikName": "Коммунаровская городская"
+    "tikName": "Коммунаровская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 437,
     "uikTvd": "447402471673",
+    "uikName": "УИК №437",
     "tikTvd": "2472000122633",
-    "tikName": "Коммунаровская городская"
+    "tikName": "Коммунаровская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 438,
     "uikTvd": "447402471674",
+    "uikName": "УИК №438",
     "tikTvd": "2472000122633",
-    "tikName": "Коммунаровская городская"
+    "tikName": "Коммунаровская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 439,
     "uikTvd": "447402471675",
+    "uikName": "УИК №439",
     "tikTvd": "2472000122633",
-    "tikName": "Коммунаровская городская"
+    "tikName": "Коммунаровская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 440,
     "uikTvd": "447402471676",
+    "uikName": "УИК №440",
     "tikTvd": "2472000122633",
-    "tikName": "Коммунаровская городская"
+    "tikName": "Коммунаровская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 441,
     "uikTvd": "447402471677",
+    "uikName": "УИК №441",
     "tikTvd": "2472000122633",
-    "tikName": "Коммунаровская городская"
+    "tikName": "Коммунаровская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 442,
     "uikTvd": "447400674605",
+    "uikName": "УИК  442",
     "tikTvd": "2472000122638",
-    "tikName": "Гатчинская городская"
+    "tikName": "Гатчинская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 443,
     "uikTvd": "447400674606",
+    "uikName": "УИК  443",
     "tikTvd": "2472000122638",
-    "tikName": "Гатчинская городская"
+    "tikName": "Гатчинская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 444,
     "uikTvd": "447400674607",
+    "uikName": "УИК  444",
     "tikTvd": "2472000122638",
-    "tikName": "Гатчинская городская"
+    "tikName": "Гатчинская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 445,
     "uikTvd": "447400674608",
+    "uikName": "УИК  445",
     "tikTvd": "2472000122638",
-    "tikName": "Гатчинская городская"
+    "tikName": "Гатчинская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 446,
     "uikTvd": "447400674609",
+    "uikName": "УИК  446",
     "tikTvd": "2472000122638",
-    "tikName": "Гатчинская городская"
+    "tikName": "Гатчинская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 447,
     "uikTvd": "447400674610",
+    "uikName": "УИК  447",
     "tikTvd": "2472000122638",
-    "tikName": "Гатчинская городская"
+    "tikName": "Гатчинская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 448,
     "uikTvd": "447400674611",
+    "uikName": "УИК  448",
     "tikTvd": "2472000122638",
-    "tikName": "Гатчинская городская"
+    "tikName": "Гатчинская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 449,
     "uikTvd": "447400674612",
+    "uikName": "УИК  449",
     "tikTvd": "2472000122638",
-    "tikName": "Гатчинская городская"
+    "tikName": "Гатчинская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 450,
     "uikTvd": "447400674613",
+    "uikName": "УИК  450",
     "tikTvd": "2472000122638",
-    "tikName": "Гатчинская городская"
+    "tikName": "Гатчинская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 451,
     "uikTvd": "447400674614",
+    "uikName": "УИК  451",
     "tikTvd": "2472000122638",
-    "tikName": "Гатчинская городская"
+    "tikName": "Гатчинская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 452,
     "uikTvd": "447400674615",
+    "uikName": "УИК  452",
     "tikTvd": "2472000122638",
-    "tikName": "Гатчинская городская"
+    "tikName": "Гатчинская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 453,
     "uikTvd": "447400674616",
+    "uikName": "УИК  453",
     "tikTvd": "2472000122638",
-    "tikName": "Гатчинская городская"
+    "tikName": "Гатчинская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 454,
     "uikTvd": "447400674617",
+    "uikName": "УИК  454",
     "tikTvd": "2472000122638",
-    "tikName": "Гатчинская городская"
+    "tikName": "Гатчинская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 455,
     "uikTvd": "447400674618",
+    "uikName": "УИК  455",
     "tikTvd": "2472000122638",
-    "tikName": "Гатчинская городская"
+    "tikName": "Гатчинская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 456,
     "uikTvd": "447400674619",
+    "uikName": "УИК  456",
     "tikTvd": "2472000122638",
-    "tikName": "Гатчинская городская"
+    "tikName": "Гатчинская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 457,
     "uikTvd": "447400674620",
+    "uikName": "УИК  457",
     "tikTvd": "2472000122638",
-    "tikName": "Гатчинская городская"
+    "tikName": "Гатчинская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 458,
     "uikTvd": "447400674621",
+    "uikName": "УИК  458",
     "tikTvd": "2472000122638",
-    "tikName": "Гатчинская городская"
+    "tikName": "Гатчинская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 459,
     "uikTvd": "447400674622",
+    "uikName": "УИК  459",
     "tikTvd": "2472000122638",
-    "tikName": "Гатчинская городская"
+    "tikName": "Гатчинская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 460,
     "uikTvd": "447400674623",
+    "uikName": "УИК  460",
     "tikTvd": "2472000122638",
-    "tikName": "Гатчинская городская"
+    "tikName": "Гатчинская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 461,
     "uikTvd": "447400674624",
+    "uikName": "УИК  461",
     "tikTvd": "2472000122638",
-    "tikName": "Гатчинская городская"
+    "tikName": "Гатчинская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 462,
     "uikTvd": "447400674625",
+    "uikName": "УИК  462",
     "tikTvd": "2472000122638",
-    "tikName": "Гатчинская городская"
+    "tikName": "Гатчинская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 463,
     "uikTvd": "447400674626",
+    "uikName": "УИК  463",
     "tikTvd": "2472000122638",
-    "tikName": "Гатчинская городская"
+    "tikName": "Гатчинская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 464,
     "uikTvd": "447400674627",
+    "uikName": "УИК  464",
     "tikTvd": "2472000122638",
-    "tikName": "Гатчинская городская"
+    "tikName": "Гатчинская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 465,
     "uikTvd": "447400674628",
+    "uikName": "УИК  465",
     "tikTvd": "2472000122638",
-    "tikName": "Гатчинская городская"
+    "tikName": "Гатчинская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 466,
     "uikTvd": "447400674629",
+    "uikName": "УИК  466",
     "tikTvd": "2472000122638",
-    "tikName": "Гатчинская городская"
+    "tikName": "Гатчинская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 467,
     "uikTvd": "447400674630",
+    "uikName": "УИК  467",
     "tikTvd": "2472000122638",
-    "tikName": "Гатчинская городская"
+    "tikName": "Гатчинская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 468,
     "uikTvd": "447400674631",
+    "uikName": "УИК  468",
     "tikTvd": "2472000122638",
-    "tikName": "Гатчинская городская"
+    "tikName": "Гатчинская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 469,
     "uikTvd": "447400674632",
+    "uikName": "УИК  469",
     "tikTvd": "2472000122638",
-    "tikName": "Гатчинская городская"
+    "tikName": "Гатчинская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 470,
     "uikTvd": "447400674633",
+    "uikName": "УИК  470",
     "tikTvd": "2472000122638",
-    "tikName": "Гатчинская городская"
+    "tikName": "Гатчинская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 471,
     "uikTvd": "447400674634",
+    "uikName": "УИК  471",
     "tikTvd": "2472000122638",
-    "tikName": "Гатчинская городская"
+    "tikName": "Гатчинская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 472,
     "uikTvd": "447400674635",
+    "uikName": "УИК  472",
     "tikTvd": "2472000122638",
-    "tikName": "Гатчинская городская"
+    "tikName": "Гатчинская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 473,
     "uikTvd": "447400674636",
+    "uikName": "УИК  473",
     "tikTvd": "2472000122638",
-    "tikName": "Гатчинская городская"
+    "tikName": "Гатчинская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 474,
     "uikTvd": "447400674637",
+    "uikName": "УИК  474",
     "tikTvd": "2472000122638",
-    "tikName": "Гатчинская городская"
+    "tikName": "Гатчинская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 475,
     "uikTvd": "447400871602",
+    "uikName": "УИК №475",
     "tikTvd": "2472000122637",
-    "tikName": "Ивангородская городская"
+    "tikName": "Ивангородская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 476,
     "uikTvd": "447400871606",
+    "uikName": "УИК №476",
     "tikTvd": "2472000122637",
-    "tikName": "Ивангородская городская"
+    "tikName": "Ивангородская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 477,
     "uikTvd": "447400871604",
+    "uikName": "УИК №477",
     "tikTvd": "2472000122637",
-    "tikName": "Ивангородская городская"
+    "tikName": "Ивангородская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 478,
     "uikTvd": "447400871608",
+    "uikName": "УИК №478",
     "tikTvd": "2472000122637",
-    "tikName": "Ивангородская городская"
+    "tikName": "Ивангородская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 479,
     "uikTvd": "447400974662",
+    "uikName": "УИК №479",
     "tikTvd": "2472000122636",
-    "tikName": "Кингисеппская"
+    "tikName": "Кингисеппская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 480,
     "uikTvd": "447400974663",
+    "uikName": "УИК №480",
     "tikTvd": "2472000122636",
-    "tikName": "Кингисеппская"
+    "tikName": "Кингисеппская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 481,
     "uikTvd": "447400974664",
+    "uikName": "УИК №481",
     "tikTvd": "2472000122636",
-    "tikName": "Кингисеппская"
+    "tikName": "Кингисеппская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 482,
     "uikTvd": "447400974665",
+    "uikName": "УИК №482",
     "tikTvd": "2472000122636",
-    "tikName": "Кингисеппская"
+    "tikName": "Кингисеппская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 483,
     "uikTvd": "447400974666",
+    "uikName": "УИК №483",
     "tikTvd": "2472000122636",
-    "tikName": "Кингисеппская"
+    "tikName": "Кингисеппская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 484,
     "uikTvd": "447400974667",
+    "uikName": "УИК №484",
     "tikTvd": "2472000122636",
-    "tikName": "Кингисеппская"
+    "tikName": "Кингисеппская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 485,
     "uikTvd": "447400974668",
+    "uikName": "УИК №485",
     "tikTvd": "2472000122636",
-    "tikName": "Кингисеппская"
+    "tikName": "Кингисеппская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 486,
     "uikTvd": "447400974669",
+    "uikName": "УИК №486",
     "tikTvd": "2472000122636",
-    "tikName": "Кингисеппская"
+    "tikName": "Кингисеппская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 487,
     "uikTvd": "447400974670",
+    "uikName": "УИК №487",
     "tikTvd": "2472000122636",
-    "tikName": "Кингисеппская"
+    "tikName": "Кингисеппская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 488,
     "uikTvd": "447400974671",
+    "uikName": "УИК №488",
     "tikTvd": "2472000122636",
-    "tikName": "Кингисеппская"
+    "tikName": "Кингисеппская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 489,
     "uikTvd": "447400974672",
+    "uikName": "УИК №489",
     "tikTvd": "2472000122636",
-    "tikName": "Кингисеппская"
+    "tikName": "Кингисеппская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 490,
     "uikTvd": "447400974673",
+    "uikName": "УИК №490",
     "tikTvd": "2472000122636",
-    "tikName": "Кингисеппская"
+    "tikName": "Кингисеппская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 491,
     "uikTvd": "447400974674",
+    "uikName": "УИК №491",
     "tikTvd": "2472000122636",
-    "tikName": "Кингисеппская"
+    "tikName": "Кингисеппская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 492,
     "uikTvd": "447400974675",
+    "uikName": "УИК №492",
     "tikTvd": "2472000122636",
-    "tikName": "Кингисеппская"
+    "tikName": "Кингисеппская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 493,
     "uikTvd": "447400974676",
+    "uikName": "УИК №493",
     "tikTvd": "2472000122636",
-    "tikName": "Кингисеппская"
+    "tikName": "Кингисеппская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 494,
     "uikTvd": "447400974677",
+    "uikName": "УИК №494",
     "tikTvd": "2472000122636",
-    "tikName": "Кингисеппская"
+    "tikName": "Кингисеппская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 495,
     "uikTvd": "447400974678",
+    "uikName": "УИК №495",
     "tikTvd": "2472000122636",
-    "tikName": "Кингисеппская"
+    "tikName": "Кингисеппская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 496,
     "uikTvd": "447400974679",
+    "uikName": "УИК №496",
     "tikTvd": "2472000122636",
-    "tikName": "Кингисеппская"
+    "tikName": "Кингисеппская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 497,
     "uikTvd": "447400974680",
+    "uikName": "УИК №497",
     "tikTvd": "2472000122636",
-    "tikName": "Кингисеппская"
+    "tikName": "Кингисеппская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 498,
     "uikTvd": "447400974681",
+    "uikName": "УИК №498",
     "tikTvd": "2472000122636",
-    "tikName": "Кингисеппская"
+    "tikName": "Кингисеппская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 499,
     "uikTvd": "447400974682",
+    "uikName": "УИК №499",
     "tikTvd": "2472000122636",
-    "tikName": "Кингисеппская"
+    "tikName": "Кингисеппская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 500,
     "uikTvd": "447400974683",
+    "uikName": "УИК №500",
     "tikTvd": "2472000122636",
-    "tikName": "Кингисеппская"
+    "tikName": "Кингисеппская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 501,
     "uikTvd": "447400974684",
+    "uikName": "УИК №501",
     "tikTvd": "2472000122636",
-    "tikName": "Кингисеппская"
+    "tikName": "Кингисеппская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 502,
     "uikTvd": "447400974685",
+    "uikName": "УИК №502",
     "tikTvd": "2472000122636",
-    "tikName": "Кингисеппская"
+    "tikName": "Кингисеппская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 503,
     "uikTvd": "447400974686",
+    "uikName": "УИК №503",
     "tikTvd": "2472000122636",
-    "tikName": "Кингисеппская"
+    "tikName": "Кингисеппская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 504,
     "uikTvd": "447400974687",
+    "uikName": "УИК №504",
     "tikTvd": "2472000122636",
-    "tikName": "Кингисеппская"
+    "tikName": "Кингисеппская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 505,
     "uikTvd": "447400974688",
+    "uikName": "УИК №505",
     "tikTvd": "2472000122636",
-    "tikName": "Кингисеппская"
+    "tikName": "Кингисеппская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 506,
     "uikTvd": "447400974689",
+    "uikName": "УИК №506",
     "tikTvd": "2472000122636",
-    "tikName": "Кингисеппская"
+    "tikName": "Кингисеппская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 507,
     "uikTvd": "447400974690",
+    "uikName": "УИК №507",
     "tikTvd": "2472000122636",
-    "tikName": "Кингисеппская"
+    "tikName": "Кингисеппская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 508,
     "uikTvd": "447400974691",
+    "uikName": "УИК №508",
     "tikTvd": "2472000122636",
-    "tikName": "Кингисеппская"
+    "tikName": "Кингисеппская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 509,
     "uikTvd": "447400974692",
+    "uikName": "УИК №509",
     "tikTvd": "2472000122636",
-    "tikName": "Кингисеппская"
+    "tikName": "Кингисеппская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 510,
     "uikTvd": "447400974693",
+    "uikName": "УИК №510",
     "tikTvd": "2472000122636",
-    "tikName": "Кингисеппская"
+    "tikName": "Кингисеппская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 511,
     "uikTvd": "447400974694",
+    "uikName": "УИК №511",
     "tikTvd": "2472000122636",
-    "tikName": "Кингисеппская"
+    "tikName": "Кингисеппская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 512,
     "uikTvd": "447400974695",
+    "uikName": "УИК №512",
     "tikTvd": "2472000122636",
-    "tikName": "Кингисеппская"
+    "tikName": "Кингисеппская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 513,
     "uikTvd": "447400974696",
+    "uikName": "УИК №513",
     "tikTvd": "2472000122636",
-    "tikName": "Кингисеппская"
+    "tikName": "Кингисеппская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 514,
     "uikTvd": "447400974697",
+    "uikName": "УИК №514",
     "tikTvd": "2472000122636",
-    "tikName": "Кингисеппская"
+    "tikName": "Кингисеппская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 515,
     "uikTvd": "447400974698",
+    "uikName": "УИК №515",
     "tikTvd": "2472000122636",
-    "tikName": "Кингисеппская"
+    "tikName": "Кингисеппская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 516,
     "uikTvd": "447400974699",
+    "uikName": "УИК №516",
     "tikTvd": "2472000122636",
-    "tikName": "Кингисеппская"
+    "tikName": "Кингисеппская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 517,
     "uikTvd": "447400974700",
+    "uikName": "УИК №517",
     "tikTvd": "2472000122636",
-    "tikName": "Кингисеппская"
+    "tikName": "Кингисеппская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 518,
     "uikTvd": "447400974701",
+    "uikName": "УИК №518",
     "tikTvd": "2472000122636",
-    "tikName": "Кингисеппская"
+    "tikName": "Кингисеппская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 519,
     "uikTvd": "447400974702",
+    "uikName": "УИК №519",
     "tikTvd": "2472000122636",
-    "tikName": "Кингисеппская"
+    "tikName": "Кингисеппская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 520,
     "uikTvd": "447400974703",
+    "uikName": "УИК №520",
     "tikTvd": "2472000122636",
-    "tikName": "Кингисеппская"
+    "tikName": "Кингисеппская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 521,
     "uikTvd": "447400974704",
+    "uikName": "УИК №521",
     "tikTvd": "2472000122636",
-    "tikName": "Кингисеппская"
+    "tikName": "Кингисеппская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 522,
     "uikTvd": "447401073624",
+    "uikName": "УИК №522",
     "tikTvd": "2472000122635",
-    "tikName": "Киришская"
+    "tikName": "Киришская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 523,
     "uikTvd": "447401073625",
+    "uikName": "УИК №523",
     "tikTvd": "2472000122635",
-    "tikName": "Киришская"
+    "tikName": "Киришская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 524,
     "uikTvd": "447401073626",
+    "uikName": "УИК №524",
     "tikTvd": "2472000122635",
-    "tikName": "Киришская"
+    "tikName": "Киришская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 525,
     "uikTvd": "447401073627",
+    "uikName": "УИК №525",
     "tikTvd": "2472000122635",
-    "tikName": "Киришская"
+    "tikName": "Киришская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 526,
     "uikTvd": "447401073628",
+    "uikName": "УИК №526",
     "tikTvd": "2472000122635",
-    "tikName": "Киришская"
+    "tikName": "Киришская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 527,
     "uikTvd": "447401073629",
+    "uikName": "УИК №527",
     "tikTvd": "2472000122635",
-    "tikName": "Киришская"
+    "tikName": "Киришская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 528,
     "uikTvd": "447401073630",
+    "uikName": "УИК №528",
     "tikTvd": "2472000122635",
-    "tikName": "Киришская"
+    "tikName": "Киришская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 529,
     "uikTvd": "447401073631",
+    "uikName": "УИК №529",
     "tikTvd": "2472000122635",
-    "tikName": "Киришская"
+    "tikName": "Киришская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 530,
     "uikTvd": "447401073632",
+    "uikName": "УИК №530",
     "tikTvd": "2472000122635",
-    "tikName": "Киришская"
+    "tikName": "Киришская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 531,
     "uikTvd": "447401073633",
+    "uikName": "УИК №531",
     "tikTvd": "2472000122635",
-    "tikName": "Киришская"
+    "tikName": "Киришская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 532,
     "uikTvd": "447401073634",
+    "uikName": "УИК №532",
     "tikTvd": "2472000122635",
-    "tikName": "Киришская"
+    "tikName": "Киришская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 533,
     "uikTvd": "447401073635",
+    "uikName": "УИК №533",
     "tikTvd": "2472000122635",
-    "tikName": "Киришская"
+    "tikName": "Киришская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 534,
     "uikTvd": "447401073636",
+    "uikName": "УИК №534",
     "tikTvd": "2472000122635",
-    "tikName": "Киришская"
+    "tikName": "Киришская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 535,
     "uikTvd": "447401073637",
+    "uikName": "УИК №535",
     "tikTvd": "2472000122635",
-    "tikName": "Киришская"
+    "tikName": "Киришская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 536,
     "uikTvd": "447401073638",
+    "uikName": "УИК №536",
     "tikTvd": "2472000122635",
-    "tikName": "Киришская"
+    "tikName": "Киришская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 537,
     "uikTvd": "447401073639",
+    "uikName": "УИК №537",
     "tikTvd": "2472000122635",
-    "tikName": "Киришская"
+    "tikName": "Киришская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 538,
     "uikTvd": "447401073640",
+    "uikName": "УИК №538",
     "tikTvd": "2472000122635",
-    "tikName": "Киришская"
+    "tikName": "Киришская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 539,
     "uikTvd": "447401073641",
+    "uikName": "УИК №539",
     "tikTvd": "2472000122635",
-    "tikName": "Киришская"
+    "tikName": "Киришская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 540,
     "uikTvd": "447401073642",
+    "uikName": "УИК №540",
     "tikTvd": "2472000122635",
-    "tikName": "Киришская"
+    "tikName": "Киришская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 541,
     "uikTvd": "447401073643",
+    "uikName": "УИК №541",
     "tikTvd": "2472000122635",
-    "tikName": "Киришская"
+    "tikName": "Киришская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 542,
     "uikTvd": "447401073644",
+    "uikName": "УИК №542",
     "tikTvd": "2472000122635",
-    "tikName": "Киришская"
+    "tikName": "Киришская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 543,
     "uikTvd": "447401073645",
+    "uikName": "УИК №543",
     "tikTvd": "2472000122635",
-    "tikName": "Киришская"
+    "tikName": "Киришская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 544,
     "uikTvd": "447401073646",
+    "uikName": "УИК №544",
     "tikTvd": "2472000122635",
-    "tikName": "Киришская"
+    "tikName": "Киришская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 545,
     "uikTvd": "447401073647",
+    "uikName": "УИК №545",
     "tikTvd": "2472000122635",
-    "tikName": "Киришская"
+    "tikName": "Киришская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 546,
     "uikTvd": "447401073648",
+    "uikName": "УИК №546",
     "tikTvd": "2472000122635",
-    "tikName": "Киришская"
+    "tikName": "Киришская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 547,
     "uikTvd": "447401073649",
+    "uikName": "УИК №547",
     "tikTvd": "2472000122635",
-    "tikName": "Киришская"
+    "tikName": "Киришская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 548,
     "uikTvd": "447401073650",
+    "uikName": "УИК №548",
     "tikTvd": "2472000122635",
-    "tikName": "Киришская"
+    "tikName": "Киришская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 549,
     "uikTvd": "447401073651",
+    "uikName": "УИК №549",
     "tikTvd": "2472000122635",
-    "tikName": "Киришская"
+    "tikName": "Киришская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 550,
     "uikTvd": "447401073652",
+    "uikName": "УИК №550",
     "tikTvd": "2472000122635",
-    "tikName": "Киришская"
+    "tikName": "Киришская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 551,
     "uikTvd": "447401073653",
+    "uikName": "УИК №551",
     "tikTvd": "2472000122635",
-    "tikName": "Киришская"
+    "tikName": "Киришская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 552,
     "uikTvd": "447401073654",
+    "uikName": "УИК №552",
     "tikTvd": "2472000122635",
-    "tikName": "Киришская"
+    "tikName": "Киришская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 553,
     "uikTvd": "447401073655",
+    "uikName": "УИК №553",
     "tikTvd": "2472000122635",
-    "tikName": "Киришская"
+    "tikName": "Киришская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 554,
     "uikTvd": "447401073656",
+    "uikName": "УИК №554",
     "tikTvd": "2472000122635",
-    "tikName": "Киришская"
+    "tikName": "Киришская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 555,
     "uikTvd": "447401073657",
+    "uikName": "УИК №555",
     "tikTvd": "2472000122635",
-    "tikName": "Киришская"
+    "tikName": "Киришская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 556,
     "uikTvd": "447401073658",
+    "uikName": "УИК №556",
     "tikTvd": "2472000122635",
-    "tikName": "Киришская"
+    "tikName": "Киришская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 557,
     "uikTvd": "447401174630",
+    "uikName": "УИК №557",
     "tikTvd": "2472000122634",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 558,
     "uikTvd": "447401174631",
+    "uikName": "УИК №558",
     "tikTvd": "2472000122634",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 559,
     "uikTvd": "447401174632",
+    "uikName": "УИК №559",
     "tikTvd": "2472000122634",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 560,
     "uikTvd": "447401174633",
+    "uikName": "УИК №560",
     "tikTvd": "2472000122634",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 561,
     "uikTvd": "447401174634",
+    "uikName": "УИК №561",
     "tikTvd": "2472000122634",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 562,
     "uikTvd": "447401174635",
+    "uikName": "УИК №562",
     "tikTvd": "2472000122634",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 563,
     "uikTvd": "447401174636",
+    "uikName": "УИК №563",
     "tikTvd": "2472000122634",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 564,
     "uikTvd": "447401174637",
+    "uikName": "УИК №564",
     "tikTvd": "2472000122634",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 565,
     "uikTvd": "447401174638",
+    "uikName": "УИК №565",
     "tikTvd": "2472000122634",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 566,
     "uikTvd": "447401174639",
+    "uikName": "УИК №566",
     "tikTvd": "2472000122634",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 567,
     "uikTvd": "447401174640",
+    "uikName": "УИК №567",
     "tikTvd": "2472000122634",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 568,
     "uikTvd": "447401174641",
+    "uikName": "УИК №568",
     "tikTvd": "2472000122634",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 569,
     "uikTvd": "447401174642",
+    "uikName": "УИК №569",
     "tikTvd": "2472000122634",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 570,
     "uikTvd": "447401174643",
+    "uikName": "УИК №570",
     "tikTvd": "2472000122634",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 571,
     "uikTvd": "447401174644",
+    "uikName": "УИК №571",
     "tikTvd": "2472000122634",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 572,
     "uikTvd": "447401174645",
+    "uikName": "УИК №572",
     "tikTvd": "2472000122634",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 573,
     "uikTvd": "447401174646",
+    "uikName": "УИК №573",
     "tikTvd": "2472000122634",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 574,
     "uikTvd": "447401174647",
+    "uikName": "УИК №574",
     "tikTvd": "2472000122634",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 575,
     "uikTvd": "447401174648",
+    "uikName": "УИК №575",
     "tikTvd": "2472000122634",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 576,
     "uikTvd": "447401174649",
+    "uikName": "УИК №576",
     "tikTvd": "2472000122634",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 577,
     "uikTvd": "447401174650",
+    "uikName": "УИК №577",
     "tikTvd": "2472000122634",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 578,
     "uikTvd": "447401174651",
+    "uikName": "УИК №578",
     "tikTvd": "2472000122634",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 579,
     "uikTvd": "447401174652",
+    "uikName": "УИК №579",
     "tikTvd": "2472000122634",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 580,
     "uikTvd": "447401174653",
+    "uikName": "УИК №580",
     "tikTvd": "2472000122634",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 581,
     "uikTvd": "447401174654",
+    "uikName": "УИК №581",
     "tikTvd": "2472000122634",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 582,
     "uikTvd": "447401174655",
+    "uikName": "УИК №582",
     "tikTvd": "2472000122634",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 583,
     "uikTvd": "447401174656",
+    "uikName": "УИК №583",
     "tikTvd": "2472000122634",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 584,
     "uikTvd": "447401174657",
+    "uikName": "УИК №584",
     "tikTvd": "2472000122634",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 585,
     "uikTvd": "447401174658",
+    "uikName": "УИК №585",
     "tikTvd": "2472000122634",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 586,
     "uikTvd": "447401174659",
+    "uikName": "УИК №586",
     "tikTvd": "2472000122634",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 587,
     "uikTvd": "447401174660",
+    "uikName": "УИК №587",
     "tikTvd": "2472000122634",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 588,
     "uikTvd": "447401174661",
+    "uikName": "УИК №588",
     "tikTvd": "2472000122634",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 589,
     "uikTvd": "447401174662",
+    "uikName": "УИК №589",
     "tikTvd": "2472000122634",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 590,
     "uikTvd": "447401174663",
+    "uikName": "УИК №590",
     "tikTvd": "2472000122634",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 591,
     "uikTvd": "447401174664",
+    "uikName": "УИК №591",
     "tikTvd": "2472000122634",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 592,
     "uikTvd": "447401174665",
+    "uikName": "УИК №592",
     "tikTvd": "2472000122634",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 593,
     "uikTvd": "447401174666",
+    "uikName": "УИК №593",
     "tikTvd": "2472000122634",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 594,
     "uikTvd": "447401174667",
+    "uikName": "УИК №594",
     "tikTvd": "2472000122634",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 595,
     "uikTvd": "447401174668",
+    "uikName": "УИК №595",
     "tikTvd": "2472000122634",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 596,
     "uikTvd": "447401174669",
+    "uikName": "УИК №596",
     "tikTvd": "2472000122634",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 597,
     "uikTvd": "447401174670",
+    "uikName": "УИК №597",
     "tikTvd": "2472000122634",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 598,
     "uikTvd": "447401273406",
+    "uikName": "УИК №598",
     "tikTvd": "2472000122632",
-    "tikName": "Лодейнопольская"
+    "tikName": "Лодейнопольская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 599,
     "uikTvd": "447401273408",
+    "uikName": "УИК №599",
     "tikTvd": "2472000122632",
-    "tikName": "Лодейнопольская"
+    "tikName": "Лодейнопольская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 600,
     "uikTvd": "447401273410",
+    "uikName": "УИК №600",
     "tikTvd": "2472000122632",
-    "tikName": "Лодейнопольская"
+    "tikName": "Лодейнопольская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 601,
     "uikTvd": "447401273412",
+    "uikName": "УИК №601",
     "tikTvd": "2472000122632",
-    "tikName": "Лодейнопольская"
+    "tikName": "Лодейнопольская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 602,
     "uikTvd": "447401273414",
+    "uikName": "УИК №602",
     "tikTvd": "2472000122632",
-    "tikName": "Лодейнопольская"
+    "tikName": "Лодейнопольская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 603,
     "uikTvd": "447401273416",
+    "uikName": "УИК №603",
     "tikTvd": "2472000122632",
-    "tikName": "Лодейнопольская"
+    "tikName": "Лодейнопольская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 604,
     "uikTvd": "447401273418",
+    "uikName": "УИК №604",
     "tikTvd": "2472000122632",
-    "tikName": "Лодейнопольская"
+    "tikName": "Лодейнопольская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 605,
     "uikTvd": "447401273420",
+    "uikName": "УИК №605",
     "tikTvd": "2472000122632",
-    "tikName": "Лодейнопольская"
+    "tikName": "Лодейнопольская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 606,
     "uikTvd": "447401273422",
+    "uikName": "УИК №606",
     "tikTvd": "2472000122632",
-    "tikName": "Лодейнопольская"
+    "tikName": "Лодейнопольская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 607,
     "uikTvd": "447401273424",
+    "uikName": "УИК №607",
     "tikTvd": "2472000122632",
-    "tikName": "Лодейнопольская"
+    "tikName": "Лодейнопольская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 608,
     "uikTvd": "447401273426",
+    "uikName": "УИК №608",
     "tikTvd": "2472000122632",
-    "tikName": "Лодейнопольская"
+    "tikName": "Лодейнопольская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 609,
     "uikTvd": "447401273428",
+    "uikName": "УИК №609",
     "tikTvd": "2472000122632",
-    "tikName": "Лодейнопольская"
+    "tikName": "Лодейнопольская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 610,
     "uikTvd": "447401273430",
+    "uikName": "УИК №610",
     "tikTvd": "2472000122632",
-    "tikName": "Лодейнопольская"
+    "tikName": "Лодейнопольская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 611,
     "uikTvd": "447401273432",
+    "uikName": "УИК №611",
     "tikTvd": "2472000122632",
-    "tikName": "Лодейнопольская"
+    "tikName": "Лодейнопольская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 612,
     "uikTvd": "447401273434",
+    "uikName": "УИК №612",
     "tikTvd": "2472000122632",
-    "tikName": "Лодейнопольская"
+    "tikName": "Лодейнопольская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 613,
     "uikTvd": "447401273436",
+    "uikName": "УИК №613",
     "tikTvd": "2472000122632",
-    "tikName": "Лодейнопольская"
+    "tikName": "Лодейнопольская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 614,
     "uikTvd": "447401273438",
+    "uikName": "УИК №614",
     "tikTvd": "2472000122632",
-    "tikName": "Лодейнопольская"
+    "tikName": "Лодейнопольская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 615,
     "uikTvd": "447401273440",
+    "uikName": "УИК №615",
     "tikTvd": "2472000122632",
-    "tikName": "Лодейнопольская"
+    "tikName": "Лодейнопольская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 616,
     "uikTvd": "447401273442",
+    "uikName": "УИК №616",
     "tikTvd": "2472000122632",
-    "tikName": "Лодейнопольская"
+    "tikName": "Лодейнопольская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 617,
     "uikTvd": "447401273444",
+    "uikName": "УИК №617",
     "tikTvd": "2472000122632",
-    "tikName": "Лодейнопольская"
+    "tikName": "Лодейнопольская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 618,
     "uikTvd": "447401273446",
+    "uikName": "УИК №618",
     "tikTvd": "2472000122632",
-    "tikName": "Лодейнопольская"
+    "tikName": "Лодейнопольская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 619,
     "uikTvd": "447401273448",
+    "uikName": "УИК №619",
     "tikTvd": "2472000122632",
-    "tikName": "Лодейнопольская"
+    "tikName": "Лодейнопольская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 620,
     "uikTvd": "447401273450",
+    "uikName": "УИК №620",
     "tikTvd": "2472000122632",
-    "tikName": "Лодейнопольская"
+    "tikName": "Лодейнопольская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 621,
     "uikTvd": "447401273452",
+    "uikName": "УИК №621",
     "tikTvd": "2472000122632",
-    "tikName": "Лодейнопольская"
+    "tikName": "Лодейнопольская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 622,
     "uikTvd": "447401273454",
+    "uikName": "УИК №622",
     "tikTvd": "2472000122632",
-    "tikName": "Лодейнопольская"
+    "tikName": "Лодейнопольская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 623,
     "uikTvd": "447401273456",
+    "uikName": "УИК №623",
     "tikTvd": "2472000122632",
-    "tikName": "Лодейнопольская"
+    "tikName": "Лодейнопольская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 624,
     "uikTvd": "447401273458",
+    "uikName": "УИК №624",
     "tikTvd": "2472000122632",
-    "tikName": "Лодейнопольская"
+    "tikName": "Лодейнопольская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 625,
     "uikTvd": "447401273460",
+    "uikName": "УИК №625",
     "tikTvd": "2472000122632",
-    "tikName": "Лодейнопольская"
+    "tikName": "Лодейнопольская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 626,
     "uikTvd": "447401374745",
+    "uikName": "УИК №626",
     "tikTvd": "2472000122631",
-    "tikName": "Ломоносовская"
+    "tikName": "Ломоносовская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 627,
     "uikTvd": "447401374746",
+    "uikName": "УИК №627",
     "tikTvd": "2472000122631",
-    "tikName": "Ломоносовская"
+    "tikName": "Ломоносовская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 628,
     "uikTvd": "447401374747",
+    "uikName": "УИК №628",
     "tikTvd": "2472000122631",
-    "tikName": "Ломоносовская"
+    "tikName": "Ломоносовская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 629,
     "uikTvd": "447401374748",
+    "uikName": "УИК №629",
     "tikTvd": "2472000122631",
-    "tikName": "Ломоносовская"
+    "tikName": "Ломоносовская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 630,
     "uikTvd": "447401374749",
+    "uikName": "УИК №630",
     "tikTvd": "2472000122631",
-    "tikName": "Ломоносовская"
+    "tikName": "Ломоносовская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 631,
     "uikTvd": "447401374750",
+    "uikName": "УИК №631",
     "tikTvd": "2472000122631",
-    "tikName": "Ломоносовская"
+    "tikName": "Ломоносовская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 632,
     "uikTvd": "447401374751",
+    "uikName": "УИК №632",
     "tikTvd": "2472000122631",
-    "tikName": "Ломоносовская"
+    "tikName": "Ломоносовская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 633,
     "uikTvd": "447401374752",
+    "uikName": "УИК №633",
     "tikTvd": "2472000122631",
-    "tikName": "Ломоносовская"
+    "tikName": "Ломоносовская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 634,
     "uikTvd": "447401374753",
+    "uikName": "УИК №634",
     "tikTvd": "2472000122631",
-    "tikName": "Ломоносовская"
+    "tikName": "Ломоносовская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 635,
     "uikTvd": "447401374754",
+    "uikName": "УИК №635",
     "tikTvd": "2472000122631",
-    "tikName": "Ломоносовская"
+    "tikName": "Ломоносовская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 636,
     "uikTvd": "447401374755",
+    "uikName": "УИК №636",
     "tikTvd": "2472000122631",
-    "tikName": "Ломоносовская"
+    "tikName": "Ломоносовская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 637,
     "uikTvd": "447401374756",
+    "uikName": "УИК №637",
     "tikTvd": "2472000122631",
-    "tikName": "Ломоносовская"
+    "tikName": "Ломоносовская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 638,
     "uikTvd": "447401374757",
+    "uikName": "УИК №638",
     "tikTvd": "2472000122631",
-    "tikName": "Ломоносовская"
+    "tikName": "Ломоносовская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 639,
     "uikTvd": "447401374758",
+    "uikName": "УИК №639",
     "tikTvd": "2472000122631",
-    "tikName": "Ломоносовская"
+    "tikName": "Ломоносовская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 640,
     "uikTvd": "447401374759",
+    "uikName": "УИК №640",
     "tikTvd": "2472000122631",
-    "tikName": "Ломоносовская"
+    "tikName": "Ломоносовская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 641,
     "uikTvd": "447401374760",
+    "uikName": "УИК №641",
     "tikTvd": "2472000122631",
-    "tikName": "Ломоносовская"
+    "tikName": "Ломоносовская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 642,
     "uikTvd": "447401374761",
+    "uikName": "УИК №642",
     "tikTvd": "2472000122631",
-    "tikName": "Ломоносовская"
+    "tikName": "Ломоносовская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 643,
     "uikTvd": "447401374762",
+    "uikName": "УИК №643",
     "tikTvd": "2472000122631",
-    "tikName": "Ломоносовская"
+    "tikName": "Ломоносовская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 644,
     "uikTvd": "447401374763",
+    "uikName": "УИК №644",
     "tikTvd": "2472000122631",
-    "tikName": "Ломоносовская"
+    "tikName": "Ломоносовская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 645,
     "uikTvd": "447401374764",
+    "uikName": "УИК №645",
     "tikTvd": "2472000122631",
-    "tikName": "Ломоносовская"
+    "tikName": "Ломоносовская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 646,
     "uikTvd": "447401374765",
+    "uikName": "УИК №646",
     "tikTvd": "2472000122631",
-    "tikName": "Ломоносовская"
+    "tikName": "Ломоносовская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 647,
     "uikTvd": "447401374766",
+    "uikName": "УИК №647",
     "tikTvd": "2472000122631",
-    "tikName": "Ломоносовская"
+    "tikName": "Ломоносовская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 648,
     "uikTvd": "447401374767",
+    "uikName": "УИК №648",
     "tikTvd": "2472000122631",
-    "tikName": "Ломоносовская"
+    "tikName": "Ломоносовская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 649,
     "uikTvd": "447401374768",
+    "uikName": "УИК №649",
     "tikTvd": "2472000122631",
-    "tikName": "Ломоносовская"
+    "tikName": "Ломоносовская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 650,
     "uikTvd": "447401374769",
+    "uikName": "УИК №650",
     "tikTvd": "2472000122631",
-    "tikName": "Ломоносовская"
+    "tikName": "Ломоносовская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 651,
     "uikTvd": "447401374770",
+    "uikName": "УИК №651",
     "tikTvd": "2472000122631",
-    "tikName": "Ломоносовская"
+    "tikName": "Ломоносовская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 652,
     "uikTvd": "447401374771",
+    "uikName": "УИК №652",
     "tikTvd": "2472000122631",
-    "tikName": "Ломоносовская"
+    "tikName": "Ломоносовская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 653,
     "uikTvd": "447401374772",
+    "uikName": "УИК №653",
     "tikTvd": "2472000122631",
-    "tikName": "Ломоносовская"
+    "tikName": "Ломоносовская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 654,
     "uikTvd": "447401374773",
+    "uikName": "УИК №654",
     "tikTvd": "2472000122631",
-    "tikName": "Ломоносовская"
+    "tikName": "Ломоносовская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 655,
     "uikTvd": "447401374774",
+    "uikName": "УИК №655",
     "tikTvd": "2472000122631",
-    "tikName": "Ломоносовская"
+    "tikName": "Ломоносовская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 656,
     "uikTvd": "447401374775",
+    "uikName": "УИК №656",
     "tikTvd": "2472000122631",
-    "tikName": "Ломоносовская"
+    "tikName": "Ломоносовская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 657,
     "uikTvd": "447401374776",
+    "uikName": "УИК №657",
     "tikTvd": "2472000122631",
-    "tikName": "Ломоносовская"
+    "tikName": "Ломоносовская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 658,
     "uikTvd": "447401374777",
+    "uikName": "УИК №658",
     "tikTvd": "2472000122631",
-    "tikName": "Ломоносовская"
+    "tikName": "Ломоносовская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 659,
     "uikTvd": "447401374778",
+    "uikName": "УИК №659",
     "tikTvd": "2472000122631",
-    "tikName": "Ломоносовская"
+    "tikName": "Ломоносовская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 660,
     "uikTvd": "447401374779",
+    "uikName": "УИК №660",
     "tikTvd": "2472000122631",
-    "tikName": "Ломоносовская"
+    "tikName": "Ломоносовская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 661,
     "uikTvd": "447401374780",
+    "uikName": "УИК №661",
     "tikTvd": "2472000122631",
-    "tikName": "Ломоносовская"
+    "tikName": "Ломоносовская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 662,
     "uikTvd": "447401374781",
+    "uikName": "УИК №662",
     "tikTvd": "2472000122631",
-    "tikName": "Ломоносовская"
+    "tikName": "Ломоносовская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 663,
     "uikTvd": "447401374782",
+    "uikName": "УИК №663",
     "tikTvd": "2472000122631",
-    "tikName": "Ломоносовская"
+    "tikName": "Ломоносовская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 664,
     "uikTvd": "447401473962",
+    "uikName": "УИК №664",
     "tikTvd": "2472000122630",
-    "tikName": "Лужская"
+    "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 665,
     "uikTvd": "447401473963",
+    "uikName": "УИК №665",
     "tikTvd": "2472000122630",
-    "tikName": "Лужская"
+    "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 666,
     "uikTvd": "447401473964",
+    "uikName": "УИК №666",
     "tikTvd": "2472000122630",
-    "tikName": "Лужская"
+    "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 667,
     "uikTvd": "447401473965",
+    "uikName": "УИК №667",
     "tikTvd": "2472000122630",
-    "tikName": "Лужская"
+    "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 668,
     "uikTvd": "447401473966",
+    "uikName": "УИК №668",
     "tikTvd": "2472000122630",
-    "tikName": "Лужская"
+    "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 669,
     "uikTvd": "447401473967",
+    "uikName": "УИК №669",
     "tikTvd": "2472000122630",
-    "tikName": "Лужская"
+    "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 670,
     "uikTvd": "447401473968",
+    "uikName": "УИК №670",
     "tikTvd": "2472000122630",
-    "tikName": "Лужская"
+    "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 671,
     "uikTvd": "447401473969",
+    "uikName": "УИК №671",
     "tikTvd": "2472000122630",
-    "tikName": "Лужская"
+    "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 672,
     "uikTvd": "447401473970",
+    "uikName": "УИК №672",
     "tikTvd": "2472000122630",
-    "tikName": "Лужская"
+    "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 673,
     "uikTvd": "447401473971",
+    "uikName": "УИК №673",
     "tikTvd": "2472000122630",
-    "tikName": "Лужская"
+    "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 674,
     "uikTvd": "447401473972",
+    "uikName": "УИК №674",
     "tikTvd": "2472000122630",
-    "tikName": "Лужская"
+    "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 675,
     "uikTvd": "447401473973",
+    "uikName": "УИК №675",
     "tikTvd": "2472000122630",
-    "tikName": "Лужская"
+    "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 676,
     "uikTvd": "447401473974",
+    "uikName": "УИК №676",
     "tikTvd": "2472000122630",
-    "tikName": "Лужская"
+    "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 677,
     "uikTvd": "447401473975",
+    "uikName": "УИК №677",
     "tikTvd": "2472000122630",
-    "tikName": "Лужская"
+    "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 678,
     "uikTvd": "447401473976",
+    "uikName": "УИК №678",
     "tikTvd": "2472000122630",
-    "tikName": "Лужская"
+    "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 679,
     "uikTvd": "447401473977",
+    "uikName": "УИК №679",
     "tikTvd": "2472000122630",
-    "tikName": "Лужская"
+    "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 680,
     "uikTvd": "447401473978",
+    "uikName": "УИК №680",
     "tikTvd": "2472000122630",
-    "tikName": "Лужская"
+    "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 681,
     "uikTvd": "447401473979",
+    "uikName": "УИК №681",
     "tikTvd": "2472000122630",
-    "tikName": "Лужская"
+    "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 682,
     "uikTvd": "447401473980",
+    "uikName": "УИК №682",
     "tikTvd": "2472000122630",
-    "tikName": "Лужская"
+    "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 683,
     "uikTvd": "447401473981",
+    "uikName": "УИК №683",
     "tikTvd": "2472000122630",
-    "tikName": "Лужская"
+    "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 684,
     "uikTvd": "447401473982",
+    "uikName": "УИК №684",
     "tikTvd": "2472000122630",
-    "tikName": "Лужская"
+    "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 685,
     "uikTvd": "447401473983",
+    "uikName": "УИК №685",
     "tikTvd": "2472000122630",
-    "tikName": "Лужская"
+    "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 686,
     "uikTvd": "447401473984",
+    "uikName": "УИК №686",
     "tikTvd": "2472000122630",
-    "tikName": "Лужская"
+    "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 687,
     "uikTvd": "447401473985",
+    "uikName": "УИК №687",
     "tikTvd": "2472000122630",
-    "tikName": "Лужская"
+    "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 688,
     "uikTvd": "447401473986",
+    "uikName": "УИК №688",
     "tikTvd": "2472000122630",
-    "tikName": "Лужская"
+    "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 689,
     "uikTvd": "447401473987",
+    "uikName": "УИК №689",
     "tikTvd": "2472000122630",
-    "tikName": "Лужская"
+    "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 690,
     "uikTvd": "447401473988",
+    "uikName": "УИК №690",
     "tikTvd": "2472000122630",
-    "tikName": "Лужская"
+    "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 691,
     "uikTvd": "447401473989",
+    "uikName": "УИК №691",
     "tikTvd": "2472000122630",
-    "tikName": "Лужская"
+    "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 692,
     "uikTvd": "447401473990",
+    "uikName": "УИК №692",
     "tikTvd": "2472000122630",
-    "tikName": "Лужская"
+    "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 693,
     "uikTvd": "447401473991",
+    "uikName": "УИК №693",
     "tikTvd": "2472000122630",
-    "tikName": "Лужская"
+    "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 694,
     "uikTvd": "447401473992",
+    "uikName": "УИК №694",
     "tikTvd": "2472000122630",
-    "tikName": "Лужская"
+    "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 695,
     "uikTvd": "447401473993",
+    "uikName": "УИК №695",
     "tikTvd": "2472000122630",
-    "tikName": "Лужская"
+    "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 696,
     "uikTvd": "447401473994",
+    "uikName": "УИК №696",
     "tikTvd": "2472000122630",
-    "tikName": "Лужская"
+    "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 697,
     "uikTvd": "447401473995",
+    "uikName": "УИК №697",
     "tikTvd": "2472000122630",
-    "tikName": "Лужская"
+    "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 698,
     "uikTvd": "447401473996",
+    "uikName": "УИК №698",
     "tikTvd": "2472000122630",
-    "tikName": "Лужская"
+    "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 699,
     "uikTvd": "447401473997",
+    "uikName": "УИК №699",
     "tikTvd": "2472000122630",
-    "tikName": "Лужская"
+    "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 700,
     "uikTvd": "447401473998",
+    "uikName": "УИК №700",
     "tikTvd": "2472000122630",
-    "tikName": "Лужская"
+    "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 701,
     "uikTvd": "447401473999",
+    "uikName": "УИК №701",
     "tikTvd": "2472000122630",
-    "tikName": "Лужская"
+    "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 702,
     "uikTvd": "447401474000",
+    "uikName": "УИК №702",
     "tikTvd": "2472000122630",
-    "tikName": "Лужская"
+    "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 703,
     "uikTvd": "447401474001",
+    "uikName": "УИК №703",
     "tikTvd": "2472000122630",
-    "tikName": "Лужская"
+    "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 704,
     "uikTvd": "447401474002",
+    "uikName": "УИК №704",
     "tikTvd": "2472000122630",
-    "tikName": "Лужская"
+    "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 705,
     "uikTvd": "447401474003",
+    "uikName": "УИК №705",
     "tikTvd": "2472000122630",
-    "tikName": "Лужская"
+    "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 706,
     "uikTvd": "447401474004",
+    "uikName": "УИК №706",
     "tikTvd": "2472000122630",
-    "tikName": "Лужская"
+    "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 707,
     "uikTvd": "447401474005",
+    "uikName": "УИК №707",
     "tikTvd": "2472000122630",
-    "tikName": "Лужская"
+    "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 708,
     "uikTvd": "447401474006",
+    "uikName": "УИК №708",
     "tikTvd": "2472000122630",
-    "tikName": "Лужская"
+    "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 709,
     "uikTvd": "447401474007",
+    "uikName": "УИК №709",
     "tikTvd": "2472000122630",
-    "tikName": "Лужская"
+    "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 710,
     "uikTvd": "447401474008",
+    "uikName": "УИК №710",
     "tikTvd": "2472000122630",
-    "tikName": "Лужская"
+    "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 711,
     "uikTvd": "447401474009",
+    "uikName": "УИК №711",
     "tikTvd": "2472000122630",
-    "tikName": "Лужская"
+    "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 712,
     "uikTvd": "447401474010",
+    "uikName": "УИК №712",
     "tikTvd": "2472000122630",
-    "tikName": "Лужская"
+    "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 713,
     "uikTvd": "447401474011",
+    "uikName": "УИК №713",
     "tikTvd": "2472000122630",
-    "tikName": "Лужская"
+    "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 714,
     "uikTvd": "447401474012",
+    "uikName": "УИК №714",
     "tikTvd": "2472000122630",
-    "tikName": "Лужская"
+    "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 715,
     "uikTvd": "447401474013",
+    "uikName": "УИК №715",
     "tikTvd": "2472000122630",
-    "tikName": "Лужская"
+    "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 716,
     "uikTvd": "447401474014",
+    "uikName": "УИК №716",
     "tikTvd": "2472000122630",
-    "tikName": "Лужская"
+    "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 717,
     "uikTvd": "447401474015",
+    "uikName": "УИК №717",
     "tikTvd": "2472000122630",
-    "tikName": "Лужская"
+    "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 718,
     "uikTvd": "447401474016",
+    "uikName": "УИК №718",
     "tikTvd": "2472000122630",
-    "tikName": "Лужская"
+    "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 719,
     "uikTvd": "447401474017",
+    "uikName": "УИК №719",
     "tikTvd": "2472000122630",
-    "tikName": "Лужская"
+    "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 720,
     "uikTvd": "447401474018",
+    "uikName": "УИК №720",
     "tikTvd": "2472000122630",
-    "tikName": "Лужская"
+    "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 721,
     "uikTvd": "447401571621",
+    "uikName": "УИК №721",
     "tikTvd": "2472000122628",
-    "tikName": "Пикалевская городская"
+    "tikName": "Пикалевская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 722,
     "uikTvd": "447401571622",
+    "uikName": "УИК №722",
     "tikTvd": "2472000122628",
-    "tikName": "Пикалевская городская"
+    "tikName": "Пикалевская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 723,
     "uikTvd": "447401571623",
+    "uikName": "УИК №723",
     "tikTvd": "2472000122628",
-    "tikName": "Пикалевская городская"
+    "tikName": "Пикалевская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 724,
     "uikTvd": "447401571624",
+    "uikName": "УИК №724",
     "tikTvd": "2472000122628",
-    "tikName": "Пикалевская городская"
+    "tikName": "Пикалевская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 725,
     "uikTvd": "447401571625",
+    "uikName": "УИК №725",
     "tikTvd": "2472000122628",
-    "tikName": "Пикалевская городская"
+    "tikName": "Пикалевская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 726,
     "uikTvd": "447401571626",
+    "uikName": "УИК №726",
     "tikTvd": "2472000122628",
-    "tikName": "Пикалевская городская"
+    "tikName": "Пикалевская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 727,
     "uikTvd": "447401571627",
+    "uikName": "УИК №727",
     "tikTvd": "2472000122628",
-    "tikName": "Пикалевская городская"
+    "tikName": "Пикалевская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 728,
     "uikTvd": "447401571628",
+    "uikName": "УИК №728",
     "tikTvd": "2472000122628",
-    "tikName": "Пикалевская городская"
+    "tikName": "Пикалевская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 729,
     "uikTvd": "447401672663",
+    "uikName": "УИК №729",
     "tikTvd": "2472000122627",
-    "tikName": "Подпорожская"
+    "tikName": "Подпорожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 730,
     "uikTvd": "447401672664",
+    "uikName": "УИК №730",
     "tikTvd": "2472000122627",
-    "tikName": "Подпорожская"
+    "tikName": "Подпорожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 731,
     "uikTvd": "447401672665",
+    "uikName": "УИК №731",
     "tikTvd": "2472000122627",
-    "tikName": "Подпорожская"
+    "tikName": "Подпорожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 732,
     "uikTvd": "447401672666",
+    "uikName": "УИК №732",
     "tikTvd": "2472000122627",
-    "tikName": "Подпорожская"
+    "tikName": "Подпорожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 733,
     "uikTvd": "447401672667",
+    "uikName": "УИК №733",
     "tikTvd": "2472000122627",
-    "tikName": "Подпорожская"
+    "tikName": "Подпорожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 734,
     "uikTvd": "447401672668",
+    "uikName": "УИК №734",
     "tikTvd": "2472000122627",
-    "tikName": "Подпорожская"
+    "tikName": "Подпорожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 735,
     "uikTvd": "447401672669",
+    "uikName": "УИК №735",
     "tikTvd": "2472000122627",
-    "tikName": "Подпорожская"
+    "tikName": "Подпорожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 736,
     "uikTvd": "447401672670",
+    "uikName": "УИК №736",
     "tikTvd": "2472000122627",
-    "tikName": "Подпорожская"
+    "tikName": "Подпорожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 737,
     "uikTvd": "447401672671",
+    "uikName": "УИК №737",
     "tikTvd": "2472000122627",
-    "tikName": "Подпорожская"
+    "tikName": "Подпорожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 738,
     "uikTvd": "447401672672",
+    "uikName": "УИК №738",
     "tikTvd": "2472000122627",
-    "tikName": "Подпорожская"
+    "tikName": "Подпорожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 739,
     "uikTvd": "447401672673",
+    "uikName": "УИК №739",
     "tikTvd": "2472000122627",
-    "tikName": "Подпорожская"
+    "tikName": "Подпорожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 740,
     "uikTvd": "447401672674",
+    "uikName": "УИК №740",
     "tikTvd": "2472000122627",
-    "tikName": "Подпорожская"
+    "tikName": "Подпорожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 741,
     "uikTvd": "447401672675",
+    "uikName": "УИК №741",
     "tikTvd": "2472000122627",
-    "tikName": "Подпорожская"
+    "tikName": "Подпорожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 742,
     "uikTvd": "447401672676",
+    "uikName": "УИК №742",
     "tikTvd": "2472000122627",
-    "tikName": "Подпорожская"
+    "tikName": "Подпорожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 743,
     "uikTvd": "447401672677",
+    "uikName": "УИК №743",
     "tikTvd": "2472000122627",
-    "tikName": "Подпорожская"
+    "tikName": "Подпорожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 744,
     "uikTvd": "447401672678",
+    "uikName": "УИК №744",
     "tikTvd": "2472000122627",
-    "tikName": "Подпорожская"
+    "tikName": "Подпорожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 745,
     "uikTvd": "447401672679",
+    "uikName": "УИК №745",
     "tikTvd": "2472000122627",
-    "tikName": "Подпорожская"
+    "tikName": "Подпорожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 746,
     "uikTvd": "447401672680",
+    "uikName": "УИК №746",
     "tikTvd": "2472000122627",
-    "tikName": "Подпорожская"
+    "tikName": "Подпорожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 747,
     "uikTvd": "447401672681",
+    "uikName": "УИК №747",
     "tikTvd": "2472000122627",
-    "tikName": "Подпорожская"
+    "tikName": "Подпорожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 748,
     "uikTvd": "447401672682",
+    "uikName": "УИК №748",
     "tikTvd": "2472000122627",
-    "tikName": "Подпорожская"
+    "tikName": "Подпорожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 749,
     "uikTvd": "447401672683",
+    "uikName": "УИК №749",
     "tikTvd": "2472000122627",
-    "tikName": "Подпорожская"
+    "tikName": "Подпорожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 750,
     "uikTvd": "447401672684",
+    "uikName": "УИК №750",
     "tikTvd": "2472000122627",
-    "tikName": "Подпорожская"
+    "tikName": "Подпорожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 751,
     "uikTvd": "447401672685",
+    "uikName": "УИК №751",
     "tikTvd": "2472000122627",
-    "tikName": "Подпорожская"
+    "tikName": "Подпорожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 752,
     "uikTvd": "447401672686",
+    "uikName": "УИК №752",
     "tikTvd": "2472000122627",
-    "tikName": "Подпорожская"
+    "tikName": "Подпорожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 753,
     "uikTvd": "447401672687",
+    "uikName": "УИК №753",
     "tikTvd": "2472000122627",
-    "tikName": "Подпорожская"
+    "tikName": "Подпорожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 754,
     "uikTvd": "447401672688",
+    "uikName": "УИК №754",
     "tikTvd": "2472000122627",
-    "tikName": "Подпорожская"
+    "tikName": "Подпорожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 755,
     "uikTvd": "447401672689",
+    "uikName": "УИК №755",
     "tikTvd": "2472000122627",
-    "tikName": "Подпорожская"
+    "tikName": "Подпорожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 756,
     "uikTvd": "447401672690",
+    "uikName": "УИК №756",
     "tikTvd": "2472000122627",
-    "tikName": "Подпорожская"
+    "tikName": "Подпорожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 757,
     "uikTvd": "447401672691",
+    "uikName": "УИК №757",
     "tikTvd": "2472000122627",
-    "tikName": "Подпорожская"
+    "tikName": "Подпорожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 758,
     "uikTvd": "447401672692",
+    "uikName": "УИК №758",
     "tikTvd": "2472000122627",
-    "tikName": "Подпорожская"
+    "tikName": "Подпорожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 759,
     "uikTvd": "447401672693",
+    "uikName": "УИК №759",
     "tikTvd": "2472000122627",
-    "tikName": "Подпорожская"
+    "tikName": "Подпорожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 760,
     "uikTvd": "447401672694",
+    "uikName": "УИК №760",
     "tikTvd": "2472000122627",
-    "tikName": "Подпорожская"
+    "tikName": "Подпорожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 761,
     "uikTvd": "447401672695",
+    "uikName": "УИК №761",
     "tikTvd": "2472000122627",
-    "tikName": "Подпорожская"
+    "tikName": "Подпорожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 762,
     "uikTvd": "447401672696",
+    "uikName": "УИК №762",
     "tikTvd": "2472000122627",
-    "tikName": "Подпорожская"
+    "tikName": "Подпорожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 763,
     "uikTvd": "447401672697",
+    "uikName": "УИК №763",
     "tikTvd": "2472000122627",
-    "tikName": "Подпорожская"
+    "tikName": "Подпорожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 764,
     "uikTvd": "447401672698",
+    "uikName": "УИК №764",
     "tikTvd": "2472000122627",
-    "tikName": "Подпорожская"
+    "tikName": "Подпорожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 765,
     "uikTvd": "447401672699",
+    "uikName": "УИК №765",
     "tikTvd": "2472000122627",
-    "tikName": "Подпорожская"
+    "tikName": "Подпорожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 766,
     "uikTvd": "447401773582",
+    "uikName": "УИК №766",
     "tikTvd": "2472000122626",
-    "tikName": "Приозерская"
+    "tikName": "Приозерская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 767,
     "uikTvd": "447401773583",
+    "uikName": "УИК №767",
     "tikTvd": "2472000122626",
-    "tikName": "Приозерская"
+    "tikName": "Приозерская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 768,
     "uikTvd": "447401773584",
+    "uikName": "УИК №768",
     "tikTvd": "2472000122626",
-    "tikName": "Приозерская"
+    "tikName": "Приозерская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 769,
     "uikTvd": "447401773585",
+    "uikName": "УИК №769",
     "tikTvd": "2472000122626",
-    "tikName": "Приозерская"
+    "tikName": "Приозерская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 770,
     "uikTvd": "447401773586",
+    "uikName": "УИК №770",
     "tikTvd": "2472000122626",
-    "tikName": "Приозерская"
+    "tikName": "Приозерская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 771,
     "uikTvd": "447401773587",
+    "uikName": "УИК №771",
     "tikTvd": "2472000122626",
-    "tikName": "Приозерская"
+    "tikName": "Приозерская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 772,
     "uikTvd": "447401773588",
+    "uikName": "УИК №772",
     "tikTvd": "2472000122626",
-    "tikName": "Приозерская"
+    "tikName": "Приозерская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 773,
     "uikTvd": "447401773589",
+    "uikName": "УИК №773",
     "tikTvd": "2472000122626",
-    "tikName": "Приозерская"
+    "tikName": "Приозерская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 774,
     "uikTvd": "447401773590",
+    "uikName": "УИК №774",
     "tikTvd": "2472000122626",
-    "tikName": "Приозерская"
+    "tikName": "Приозерская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 775,
     "uikTvd": "447401773591",
+    "uikName": "УИК №775",
     "tikTvd": "2472000122626",
-    "tikName": "Приозерская"
+    "tikName": "Приозерская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 776,
     "uikTvd": "447401773592",
+    "uikName": "УИК №776",
     "tikTvd": "2472000122626",
-    "tikName": "Приозерская"
+    "tikName": "Приозерская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 777,
     "uikTvd": "447401773593",
+    "uikName": "УИК №777",
     "tikTvd": "2472000122626",
-    "tikName": "Приозерская"
+    "tikName": "Приозерская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 778,
     "uikTvd": "447401773594",
+    "uikName": "УИК №778",
     "tikTvd": "2472000122626",
-    "tikName": "Приозерская"
+    "tikName": "Приозерская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 779,
     "uikTvd": "447401773595",
+    "uikName": "УИК №779",
     "tikTvd": "2472000122626",
-    "tikName": "Приозерская"
+    "tikName": "Приозерская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 780,
     "uikTvd": "447401773596",
+    "uikName": "УИК №780",
     "tikTvd": "2472000122626",
-    "tikName": "Приозерская"
+    "tikName": "Приозерская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 781,
     "uikTvd": "447401773597",
+    "uikName": "УИК №781",
     "tikTvd": "2472000122626",
-    "tikName": "Приозерская"
+    "tikName": "Приозерская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 782,
     "uikTvd": "447401773598",
+    "uikName": "УИК №782",
     "tikTvd": "2472000122626",
-    "tikName": "Приозерская"
+    "tikName": "Приозерская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 783,
     "uikTvd": "447401773599",
+    "uikName": "УИК №783",
     "tikTvd": "2472000122626",
-    "tikName": "Приозерская"
+    "tikName": "Приозерская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 784,
     "uikTvd": "447401773600",
+    "uikName": "УИК №784",
     "tikTvd": "2472000122626",
-    "tikName": "Приозерская"
+    "tikName": "Приозерская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 785,
     "uikTvd": "447401773601",
+    "uikName": "УИК №785",
     "tikTvd": "2472000122626",
-    "tikName": "Приозерская"
+    "tikName": "Приозерская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 786,
     "uikTvd": "447401773602",
+    "uikName": "УИК №786",
     "tikTvd": "2472000122626",
-    "tikName": "Приозерская"
+    "tikName": "Приозерская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 787,
     "uikTvd": "447401773603",
+    "uikName": "УИК №787",
     "tikTvd": "2472000122626",
-    "tikName": "Приозерская"
+    "tikName": "Приозерская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 788,
     "uikTvd": "447401773604",
+    "uikName": "УИК №788",
     "tikTvd": "2472000122626",
-    "tikName": "Приозерская"
+    "tikName": "Приозерская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 789,
     "uikTvd": "447401773605",
+    "uikName": "УИК №789",
     "tikTvd": "2472000122626",
-    "tikName": "Приозерская"
+    "tikName": "Приозерская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 790,
     "uikTvd": "447401773606",
+    "uikName": "УИК №790",
     "tikTvd": "2472000122626",
-    "tikName": "Приозерская"
+    "tikName": "Приозерская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 791,
     "uikTvd": "447401773607",
+    "uikName": "УИК №791",
     "tikTvd": "2472000122626",
-    "tikName": "Приозерская"
+    "tikName": "Приозерская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 792,
     "uikTvd": "447401773608",
+    "uikName": "УИК №792",
     "tikTvd": "2472000122626",
-    "tikName": "Приозерская"
+    "tikName": "Приозерская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 793,
     "uikTvd": "447401773609",
+    "uikName": "УИК №793",
     "tikTvd": "2472000122626",
-    "tikName": "Приозерская"
+    "tikName": "Приозерская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 794,
     "uikTvd": "447401773610",
+    "uikName": "УИК №794",
     "tikTvd": "2472000122626",
-    "tikName": "Приозерская"
+    "tikName": "Приозерская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 795,
     "uikTvd": "447401773611",
+    "uikName": "УИК №795",
     "tikTvd": "2472000122626",
-    "tikName": "Приозерская"
+    "tikName": "Приозерская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 796,
     "uikTvd": "447401773612",
+    "uikName": "УИК №796",
     "tikTvd": "2472000122626",
-    "tikName": "Приозерская"
+    "tikName": "Приозерская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 797,
     "uikTvd": "447401773613",
+    "uikName": "УИК №797",
     "tikTvd": "2472000122626",
-    "tikName": "Приозерская"
+    "tikName": "Приозерская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 798,
     "uikTvd": "447401773614",
+    "uikName": "УИК №798",
     "tikTvd": "2472000122626",
-    "tikName": "Приозерская"
+    "tikName": "Приозерская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 799,
     "uikTvd": "447401773615",
+    "uikName": "УИК №799",
     "tikTvd": "2472000122626",
-    "tikName": "Приозерская"
+    "tikName": "Приозерская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 800,
     "uikTvd": "447401773616",
+    "uikName": "УИК №800",
     "tikTvd": "2472000122626",
-    "tikName": "Приозерская"
+    "tikName": "Приозерская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 801,
     "uikTvd": "447401773617",
+    "uikName": "УИК №801",
     "tikTvd": "2472000122626",
-    "tikName": "Приозерская"
+    "tikName": "Приозерская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 802,
     "uikTvd": "447401773618",
+    "uikName": "УИК №802",
     "tikTvd": "2472000122626",
-    "tikName": "Приозерская"
+    "tikName": "Приозерская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 803,
     "uikTvd": "447401773619",
+    "uikName": "УИК №803",
     "tikTvd": "2472000122626",
-    "tikName": "Приозерская"
+    "tikName": "Приозерская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 804,
     "uikTvd": "447401773620",
+    "uikName": "УИК №804",
     "tikTvd": "2472000122626",
-    "tikName": "Приозерская"
+    "tikName": "Приозерская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 805,
     "uikTvd": "447402771362",
+    "uikName": "УИК №805",
     "tikTvd": "2472000122618",
-    "tikName": "Кузнечненская"
+    "tikName": "Кузнечненская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 806,
     "uikTvd": "447402771363",
+    "uikName": "УИК №806",
     "tikTvd": "2472000122618",
-    "tikName": "Кузнечненская"
+    "tikName": "Кузнечненская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 807,
     "uikTvd": "447402771364",
+    "uikName": "УИК №807",
     "tikTvd": "2472000122618",
-    "tikName": "Кузнечненская"
+    "tikName": "Кузнечненская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 808,
     "uikTvd": "447401873730",
+    "uikName": "УИК  808",
     "tikTvd": "2472000122623",
-    "tikName": "Сланцевская"
+    "tikName": "Сланцевская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 809,
     "uikTvd": "447401873731",
+    "uikName": "УИК  809",
     "tikTvd": "2472000122623",
-    "tikName": "Сланцевская"
+    "tikName": "Сланцевская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 810,
     "uikTvd": "447401873732",
+    "uikName": "УИК  810",
     "tikTvd": "2472000122623",
-    "tikName": "Сланцевская"
+    "tikName": "Сланцевская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 811,
     "uikTvd": "447401873733",
+    "uikName": "УИК  811",
     "tikTvd": "2472000122623",
-    "tikName": "Сланцевская"
+    "tikName": "Сланцевская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 812,
     "uikTvd": "447401873734",
+    "uikName": "УИК  812",
     "tikTvd": "2472000122623",
-    "tikName": "Сланцевская"
+    "tikName": "Сланцевская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 813,
     "uikTvd": "447401873735",
+    "uikName": "УИК  813",
     "tikTvd": "2472000122623",
-    "tikName": "Сланцевская"
+    "tikName": "Сланцевская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 814,
     "uikTvd": "447401873736",
+    "uikName": "УИК  814",
     "tikTvd": "2472000122623",
-    "tikName": "Сланцевская"
+    "tikName": "Сланцевская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 815,
     "uikTvd": "447401873737",
+    "uikName": "УИК  815",
     "tikTvd": "2472000122623",
-    "tikName": "Сланцевская"
+    "tikName": "Сланцевская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 816,
     "uikTvd": "447401873738",
+    "uikName": "УИК  816",
     "tikTvd": "2472000122623",
-    "tikName": "Сланцевская"
+    "tikName": "Сланцевская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 817,
     "uikTvd": "447401873739",
+    "uikName": "УИК  817",
     "tikTvd": "2472000122623",
-    "tikName": "Сланцевская"
+    "tikName": "Сланцевская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 818,
     "uikTvd": "447401873740",
+    "uikName": "УИК  818",
     "tikTvd": "2472000122623",
-    "tikName": "Сланцевская"
+    "tikName": "Сланцевская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 819,
     "uikTvd": "447401873741",
+    "uikName": "УИК  819",
     "tikTvd": "2472000122623",
-    "tikName": "Сланцевская"
+    "tikName": "Сланцевская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 820,
     "uikTvd": "447401873742",
+    "uikName": "УИК  820",
     "tikTvd": "2472000122623",
-    "tikName": "Сланцевская"
+    "tikName": "Сланцевская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 821,
     "uikTvd": "447401873743",
+    "uikName": "УИК  821",
     "tikTvd": "2472000122623",
-    "tikName": "Сланцевская"
+    "tikName": "Сланцевская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 822,
     "uikTvd": "447401873744",
+    "uikName": "УИК  822",
     "tikTvd": "2472000122623",
-    "tikName": "Сланцевская"
+    "tikName": "Сланцевская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 823,
     "uikTvd": "447401873745",
+    "uikName": "УИК  823",
     "tikTvd": "2472000122623",
-    "tikName": "Сланцевская"
+    "tikName": "Сланцевская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 824,
     "uikTvd": "447401873746",
+    "uikName": "УИК  824",
     "tikTvd": "2472000122623",
-    "tikName": "Сланцевская"
+    "tikName": "Сланцевская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 825,
     "uikTvd": "447401873747",
+    "uikName": "УИК  825",
     "tikTvd": "2472000122623",
-    "tikName": "Сланцевская"
+    "tikName": "Сланцевская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 826,
     "uikTvd": "447401873748",
+    "uikName": "УИК  826",
     "tikTvd": "2472000122623",
-    "tikName": "Сланцевская"
+    "tikName": "Сланцевская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 827,
     "uikTvd": "447401873749",
+    "uikName": "УИК  827",
     "tikTvd": "2472000122623",
-    "tikName": "Сланцевская"
+    "tikName": "Сланцевская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 828,
     "uikTvd": "447401873750",
+    "uikName": "УИК  828",
     "tikTvd": "2472000122623",
-    "tikName": "Сланцевская"
+    "tikName": "Сланцевская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 829,
     "uikTvd": "447401873751",
+    "uikName": "УИК  829",
     "tikTvd": "2472000122623",
-    "tikName": "Сланцевская"
+    "tikName": "Сланцевская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 830,
     "uikTvd": "447401873752",
+    "uikName": "УИК  830",
     "tikTvd": "2472000122623",
-    "tikName": "Сланцевская"
+    "tikName": "Сланцевская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 831,
     "uikTvd": "447401873753",
+    "uikName": "УИК  831",
     "tikTvd": "2472000122623",
-    "tikName": "Сланцевская"
+    "tikName": "Сланцевская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 832,
     "uikTvd": "447401873754",
+    "uikName": "УИК  832",
     "tikTvd": "2472000122623",
-    "tikName": "Сланцевская"
+    "tikName": "Сланцевская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 833,
     "uikTvd": "447401873755",
+    "uikName": "УИК  833",
     "tikTvd": "2472000122623",
-    "tikName": "Сланцевская"
+    "tikName": "Сланцевская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 834,
     "uikTvd": "447401873756",
+    "uikName": "УИК  834",
     "tikTvd": "2472000122623",
-    "tikName": "Сланцевская"
+    "tikName": "Сланцевская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 835,
     "uikTvd": "447401873757",
+    "uikName": "УИК  835",
     "tikTvd": "2472000122623",
-    "tikName": "Сланцевская"
+    "tikName": "Сланцевская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 836,
     "uikTvd": "447401873758",
+    "uikName": "УИК  836",
     "tikTvd": "2472000122623",
-    "tikName": "Сланцевская"
+    "tikName": "Сланцевская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 837,
     "uikTvd": "447401873759",
+    "uikName": "УИК  837",
     "tikTvd": "2472000122623",
-    "tikName": "Сланцевская"
+    "tikName": "Сланцевская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 838,
     "uikTvd": "447401873760",
+    "uikName": "УИК  838",
     "tikTvd": "2472000122623",
-    "tikName": "Сланцевская"
+    "tikName": "Сланцевская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 839,
     "uikTvd": "447401873761",
+    "uikName": "УИК  839",
     "tikTvd": "2472000122623",
-    "tikName": "Сланцевская"
+    "tikName": "Сланцевская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 840,
     "uikTvd": "447401873762",
+    "uikName": "УИК  840",
     "tikTvd": "2472000122623",
-    "tikName": "Сланцевская"
+    "tikName": "Сланцевская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 841,
     "uikTvd": "447401973362",
+    "uikName": "УИК №841",
     "tikTvd": "2472000122622",
-    "tikName": "Сосновоборская городская"
+    "tikName": "Сосновоборская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 842,
     "uikTvd": "447401973363",
+    "uikName": "УИК №842",
     "tikTvd": "2472000122622",
-    "tikName": "Сосновоборская городская"
+    "tikName": "Сосновоборская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 843,
     "uikTvd": "447401973364",
+    "uikName": "УИК №843",
     "tikTvd": "2472000122622",
-    "tikName": "Сосновоборская городская"
+    "tikName": "Сосновоборская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 844,
     "uikTvd": "447401973365",
+    "uikName": "УИК №844",
     "tikTvd": "2472000122622",
-    "tikName": "Сосновоборская городская"
+    "tikName": "Сосновоборская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 845,
     "uikTvd": "447401973366",
+    "uikName": "УИК №845",
     "tikTvd": "2472000122622",
-    "tikName": "Сосновоборская городская"
+    "tikName": "Сосновоборская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 846,
     "uikTvd": "447401973367",
+    "uikName": "УИК №846",
     "tikTvd": "2472000122622",
-    "tikName": "Сосновоборская городская"
+    "tikName": "Сосновоборская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 847,
     "uikTvd": "447401973368",
+    "uikName": "УИК №847",
     "tikTvd": "2472000122622",
-    "tikName": "Сосновоборская городская"
+    "tikName": "Сосновоборская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 848,
     "uikTvd": "447401973369",
+    "uikName": "УИК №848",
     "tikTvd": "2472000122622",
-    "tikName": "Сосновоборская городская"
+    "tikName": "Сосновоборская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 849,
     "uikTvd": "447401973370",
+    "uikName": "УИК №849",
     "tikTvd": "2472000122622",
-    "tikName": "Сосновоборская городская"
+    "tikName": "Сосновоборская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 850,
     "uikTvd": "447401973371",
+    "uikName": "УИК №850",
     "tikTvd": "2472000122622",
-    "tikName": "Сосновоборская городская"
+    "tikName": "Сосновоборская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 851,
     "uikTvd": "447401973372",
+    "uikName": "УИК №851",
     "tikTvd": "2472000122622",
-    "tikName": "Сосновоборская городская"
+    "tikName": "Сосновоборская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 852,
     "uikTvd": "447401973373",
+    "uikName": "УИК №852",
     "tikTvd": "2472000122622",
-    "tikName": "Сосновоборская городская"
+    "tikName": "Сосновоборская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 853,
     "uikTvd": "447401973374",
+    "uikName": "УИК №853",
     "tikTvd": "2472000122622",
-    "tikName": "Сосновоборская городская"
+    "tikName": "Сосновоборская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 854,
     "uikTvd": "447401973375",
+    "uikName": "УИК №854",
     "tikTvd": "2472000122622",
-    "tikName": "Сосновоборская городская"
+    "tikName": "Сосновоборская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 855,
     "uikTvd": "447401973376",
+    "uikName": "УИК №855",
     "tikTvd": "2472000122622",
-    "tikName": "Сосновоборская городская"
+    "tikName": "Сосновоборская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 856,
     "uikTvd": "447401973377",
+    "uikName": "УИК №856",
     "tikTvd": "2472000122622",
-    "tikName": "Сосновоборская городская"
+    "tikName": "Сосновоборская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 857,
     "uikTvd": "447401973378",
+    "uikName": "УИК №857",
     "tikTvd": "2472000122622",
-    "tikName": "Сосновоборская городская"
+    "tikName": "Сосновоборская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 858,
     "uikTvd": "447401973379",
+    "uikName": "УИК №858",
     "tikTvd": "2472000122622",
-    "tikName": "Сосновоборская городская"
+    "tikName": "Сосновоборская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 859,
     "uikTvd": "447401973380",
+    "uikName": "УИК №859",
     "tikTvd": "2472000122622",
-    "tikName": "Сосновоборская городская"
+    "tikName": "Сосновоборская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 860,
     "uikTvd": "447401973381",
+    "uikName": "УИК №860",
     "tikTvd": "2472000122622",
-    "tikName": "Сосновоборская городская"
+    "tikName": "Сосновоборская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 861,
     "uikTvd": "447402078008",
+    "uikName": "УИК №861",
     "tikTvd": "2472000122621",
-    "tikName": "Тихвинская"
+    "tikName": "Тихвинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 862,
     "uikTvd": "447402078009",
+    "uikName": "УИК №862",
     "tikTvd": "2472000122621",
-    "tikName": "Тихвинская"
+    "tikName": "Тихвинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 863,
     "uikTvd": "447402078010",
+    "uikName": "УИК №863",
     "tikTvd": "2472000122621",
-    "tikName": "Тихвинская"
+    "tikName": "Тихвинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 864,
     "uikTvd": "447402078011",
+    "uikName": "УИК №864",
     "tikTvd": "2472000122621",
-    "tikName": "Тихвинская"
+    "tikName": "Тихвинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 865,
     "uikTvd": "447402078012",
+    "uikName": "УИК №865",
     "tikTvd": "2472000122621",
-    "tikName": "Тихвинская"
+    "tikName": "Тихвинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 866,
     "uikTvd": "447402078013",
+    "uikName": "УИК №866",
     "tikTvd": "2472000122621",
-    "tikName": "Тихвинская"
+    "tikName": "Тихвинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 867,
     "uikTvd": "447402078014",
+    "uikName": "УИК №867",
     "tikTvd": "2472000122621",
-    "tikName": "Тихвинская"
+    "tikName": "Тихвинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 868,
     "uikTvd": "447402078015",
+    "uikName": "УИК №868",
     "tikTvd": "2472000122621",
-    "tikName": "Тихвинская"
+    "tikName": "Тихвинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 869,
     "uikTvd": "447402078016",
+    "uikName": "УИК №869",
     "tikTvd": "2472000122621",
-    "tikName": "Тихвинская"
+    "tikName": "Тихвинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 870,
     "uikTvd": "447402078017",
+    "uikName": "УИК №870",
     "tikTvd": "2472000122621",
-    "tikName": "Тихвинская"
+    "tikName": "Тихвинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 871,
     "uikTvd": "447402078018",
+    "uikName": "УИК №871",
     "tikTvd": "2472000122621",
-    "tikName": "Тихвинская"
+    "tikName": "Тихвинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 872,
     "uikTvd": "447402078019",
+    "uikName": "УИК №872",
     "tikTvd": "2472000122621",
-    "tikName": "Тихвинская"
+    "tikName": "Тихвинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 873,
     "uikTvd": "447402078020",
+    "uikName": "УИК №873",
     "tikTvd": "2472000122621",
-    "tikName": "Тихвинская"
+    "tikName": "Тихвинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 874,
     "uikTvd": "447402078021",
+    "uikName": "УИК №874",
     "tikTvd": "2472000122621",
-    "tikName": "Тихвинская"
+    "tikName": "Тихвинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 875,
     "uikTvd": "447402078022",
+    "uikName": "УИК №875",
     "tikTvd": "2472000122621",
-    "tikName": "Тихвинская"
+    "tikName": "Тихвинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 876,
     "uikTvd": "447402078023",
+    "uikName": "УИК №876",
     "tikTvd": "2472000122621",
-    "tikName": "Тихвинская"
+    "tikName": "Тихвинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 877,
     "uikTvd": "447402078024",
+    "uikName": "УИК №877",
     "tikTvd": "2472000122621",
-    "tikName": "Тихвинская"
+    "tikName": "Тихвинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 878,
     "uikTvd": "447402078025",
+    "uikName": "УИК №878",
     "tikTvd": "2472000122621",
-    "tikName": "Тихвинская"
+    "tikName": "Тихвинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 879,
     "uikTvd": "447402078026",
+    "uikName": "УИК №879",
     "tikTvd": "2472000122621",
-    "tikName": "Тихвинская"
+    "tikName": "Тихвинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 880,
     "uikTvd": "447402078027",
+    "uikName": "УИК №880",
     "tikTvd": "2472000122621",
-    "tikName": "Тихвинская"
+    "tikName": "Тихвинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 881,
     "uikTvd": "447402078028",
+    "uikName": "УИК №881",
     "tikTvd": "2472000122621",
-    "tikName": "Тихвинская"
+    "tikName": "Тихвинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 882,
     "uikTvd": "447402078029",
+    "uikName": "УИК №882",
     "tikTvd": "2472000122621",
-    "tikName": "Тихвинская"
+    "tikName": "Тихвинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 883,
     "uikTvd": "447402078030",
+    "uikName": "УИК №883",
     "tikTvd": "2472000122621",
-    "tikName": "Тихвинская"
+    "tikName": "Тихвинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 884,
     "uikTvd": "447402078031",
+    "uikName": "УИК №884",
     "tikTvd": "2472000122621",
-    "tikName": "Тихвинская"
+    "tikName": "Тихвинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 885,
     "uikTvd": "447402078032",
+    "uikName": "УИК №885",
     "tikTvd": "2472000122621",
-    "tikName": "Тихвинская"
+    "tikName": "Тихвинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 886,
     "uikTvd": "447402078033",
+    "uikName": "УИК №886",
     "tikTvd": "2472000122621",
-    "tikName": "Тихвинская"
+    "tikName": "Тихвинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 887,
     "uikTvd": "447402078034",
+    "uikName": "УИК №887",
     "tikTvd": "2472000122621",
-    "tikName": "Тихвинская"
+    "tikName": "Тихвинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 888,
     "uikTvd": "447402078035",
+    "uikName": "УИК №888",
     "tikTvd": "2472000122621",
-    "tikName": "Тихвинская"
+    "tikName": "Тихвинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 889,
     "uikTvd": "447402078036",
+    "uikName": "УИК №889",
     "tikTvd": "2472000122621",
-    "tikName": "Тихвинская"
+    "tikName": "Тихвинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 890,
     "uikTvd": "447402078037",
+    "uikName": "УИК №890",
     "tikTvd": "2472000122621",
-    "tikName": "Тихвинская"
+    "tikName": "Тихвинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 891,
     "uikTvd": "447402078038",
+    "uikName": "УИК №891",
     "tikTvd": "2472000122621",
-    "tikName": "Тихвинская"
+    "tikName": "Тихвинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 892,
     "uikTvd": "447402078039",
+    "uikName": "УИК №892",
     "tikTvd": "2472000122621",
-    "tikName": "Тихвинская"
+    "tikName": "Тихвинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 893,
     "uikTvd": "447402078040",
+    "uikName": "УИК №893",
     "tikTvd": "2472000122621",
-    "tikName": "Тихвинская"
+    "tikName": "Тихвинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 894,
     "uikTvd": "447402078041",
+    "uikName": "УИК №894",
     "tikTvd": "2472000122621",
-    "tikName": "Тихвинская"
+    "tikName": "Тихвинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 895,
     "uikTvd": "447402078042",
+    "uikName": "УИК №895",
     "tikTvd": "2472000122621",
-    "tikName": "Тихвинская"
+    "tikName": "Тихвинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 896,
     "uikTvd": "447402078043",
+    "uikName": "УИК №896",
     "tikTvd": "2472000122621",
-    "tikName": "Тихвинская"
+    "tikName": "Тихвинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 897,
     "uikTvd": "447402078044",
+    "uikName": "УИК №897",
     "tikTvd": "2472000122621",
-    "tikName": "Тихвинская"
+    "tikName": "Тихвинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 898,
     "uikTvd": "447402078045",
+    "uikName": "УИК №898",
     "tikTvd": "2472000122621",
-    "tikName": "Тихвинская"
+    "tikName": "Тихвинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 899,
     "uikTvd": "447402078046",
+    "uikName": "УИК №899",
     "tikTvd": "2472000122621",
-    "tikName": "Тихвинская"
+    "tikName": "Тихвинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 900,
     "uikTvd": "447402078047",
+    "uikName": "УИК №900",
     "tikTvd": "2472000122621",
-    "tikName": "Тихвинская"
+    "tikName": "Тихвинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 901,
     "uikTvd": "447402078048",
+    "uikName": "УИК №901",
     "tikTvd": "2472000122621",
-    "tikName": "Тихвинская"
+    "tikName": "Тихвинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 902,
     "uikTvd": "447402078049",
+    "uikName": "УИК №902",
     "tikTvd": "2472000122621",
-    "tikName": "Тихвинская"
+    "tikName": "Тихвинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 903,
     "uikTvd": "447402078050",
+    "uikName": "УИК №903",
     "tikTvd": "2472000122621",
-    "tikName": "Тихвинская"
+    "tikName": "Тихвинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 904,
     "uikTvd": "447402078051",
+    "uikName": "УИК №904",
     "tikTvd": "2472000122621",
-    "tikName": "Тихвинская"
+    "tikName": "Тихвинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 905,
     "uikTvd": "447402078052",
+    "uikName": "УИК №905",
     "tikTvd": "2472000122621",
-    "tikName": "Тихвинская"
+    "tikName": "Тихвинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 906,
     "uikTvd": "447402078053",
+    "uikName": "УИК №906",
     "tikTvd": "2472000122621",
-    "tikName": "Тихвинская"
+    "tikName": "Тихвинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 907,
     "uikTvd": "447402078054",
+    "uikName": "УИК №907",
     "tikTvd": "2472000122621",
-    "tikName": "Тихвинская"
+    "tikName": "Тихвинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 908,
     "uikTvd": "447402078055",
+    "uikName": "УИК №908",
     "tikTvd": "2472000122621",
-    "tikName": "Тихвинская"
+    "tikName": "Тихвинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 909,
     "uikTvd": "447402078056",
+    "uikName": "УИК №909",
     "tikTvd": "2472000122621",
-    "tikName": "Тихвинская"
+    "tikName": "Тихвинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 910,
     "uikTvd": "447402078057",
+    "uikName": "УИК №910",
     "tikTvd": "2472000122621",
-    "tikName": "Тихвинская"
+    "tikName": "Тихвинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 911,
     "uikTvd": "447402078058",
+    "uikName": "УИК №911",
     "tikTvd": "2472000122621",
-    "tikName": "Тихвинская"
+    "tikName": "Тихвинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 912,
     "uikTvd": "447402078059",
+    "uikName": "УИК №912",
     "tikTvd": "2472000122621",
-    "tikName": "Тихвинская"
+    "tikName": "Тихвинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 913,
     "uikTvd": "447402176803",
+    "uikName": "УИК №913",
     "tikTvd": "2472000122620",
-    "tikName": "Тосненская"
+    "tikName": "Тосненская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 914,
     "uikTvd": "447402176804",
+    "uikName": "УИК №914",
     "tikTvd": "2472000122620",
-    "tikName": "Тосненская"
+    "tikName": "Тосненская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 915,
     "uikTvd": "447402176805",
+    "uikName": "УИК №915",
     "tikTvd": "2472000122620",
-    "tikName": "Тосненская"
+    "tikName": "Тосненская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 916,
     "uikTvd": "447402176806",
+    "uikName": "УИК №916",
     "tikTvd": "2472000122620",
-    "tikName": "Тосненская"
+    "tikName": "Тосненская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 917,
     "uikTvd": "447402176807",
+    "uikName": "УИК №917",
     "tikTvd": "2472000122620",
-    "tikName": "Тосненская"
+    "tikName": "Тосненская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 918,
     "uikTvd": "447402176808",
+    "uikName": "УИК №918",
     "tikTvd": "2472000122620",
-    "tikName": "Тосненская"
+    "tikName": "Тосненская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 919,
     "uikTvd": "447402176809",
+    "uikName": "УИК №919",
     "tikTvd": "2472000122620",
-    "tikName": "Тосненская"
+    "tikName": "Тосненская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 920,
     "uikTvd": "447402176810",
+    "uikName": "УИК №920",
     "tikTvd": "2472000122620",
-    "tikName": "Тосненская"
+    "tikName": "Тосненская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 921,
     "uikTvd": "447402176811",
+    "uikName": "УИК №921",
     "tikTvd": "2472000122620",
-    "tikName": "Тосненская"
+    "tikName": "Тосненская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 922,
     "uikTvd": "447402176812",
+    "uikName": "УИК №922",
     "tikTvd": "2472000122620",
-    "tikName": "Тосненская"
+    "tikName": "Тосненская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 923,
     "uikTvd": "447402176813",
+    "uikName": "УИК №923",
     "tikTvd": "2472000122620",
-    "tikName": "Тосненская"
+    "tikName": "Тосненская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 924,
     "uikTvd": "447402176814",
+    "uikName": "УИК №924",
     "tikTvd": "2472000122620",
-    "tikName": "Тосненская"
+    "tikName": "Тосненская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 925,
     "uikTvd": "447402176815",
+    "uikName": "УИК №925",
     "tikTvd": "2472000122620",
-    "tikName": "Тосненская"
+    "tikName": "Тосненская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 926,
     "uikTvd": "447402176816",
+    "uikName": "УИК №926",
     "tikTvd": "2472000122620",
-    "tikName": "Тосненская"
+    "tikName": "Тосненская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 927,
     "uikTvd": "447402176817",
+    "uikName": "УИК №927",
     "tikTvd": "2472000122620",
-    "tikName": "Тосненская"
+    "tikName": "Тосненская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 928,
     "uikTvd": "447402176818",
+    "uikName": "УИК №928",
     "tikTvd": "2472000122620",
-    "tikName": "Тосненская"
+    "tikName": "Тосненская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 929,
     "uikTvd": "447402176819",
+    "uikName": "УИК №929",
     "tikTvd": "2472000122620",
-    "tikName": "Тосненская"
+    "tikName": "Тосненская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 930,
     "uikTvd": "447402176820",
+    "uikName": "УИК №930",
     "tikTvd": "2472000122620",
-    "tikName": "Тосненская"
+    "tikName": "Тосненская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 931,
     "uikTvd": "447402176821",
+    "uikName": "УИК №931",
     "tikTvd": "2472000122620",
-    "tikName": "Тосненская"
+    "tikName": "Тосненская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 932,
     "uikTvd": "447402176822",
+    "uikName": "УИК №932",
     "tikTvd": "2472000122620",
-    "tikName": "Тосненская"
+    "tikName": "Тосненская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 933,
     "uikTvd": "447402176823",
+    "uikName": "УИК №933",
     "tikTvd": "2472000122620",
-    "tikName": "Тосненская"
+    "tikName": "Тосненская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 934,
     "uikTvd": "447402176824",
+    "uikName": "УИК №934",
     "tikTvd": "2472000122620",
-    "tikName": "Тосненская"
+    "tikName": "Тосненская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 935,
     "uikTvd": "447402176825",
+    "uikName": "УИК №935",
     "tikTvd": "2472000122620",
-    "tikName": "Тосненская"
+    "tikName": "Тосненская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 936,
     "uikTvd": "447402176826",
+    "uikName": "УИК №936",
     "tikTvd": "2472000122620",
-    "tikName": "Тосненская"
+    "tikName": "Тосненская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 937,
     "uikTvd": "447402176827",
+    "uikName": "УИК №937",
     "tikTvd": "2472000122620",
-    "tikName": "Тосненская"
+    "tikName": "Тосненская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 938,
     "uikTvd": "447402176828",
+    "uikName": "УИК №938",
     "tikTvd": "2472000122620",
-    "tikName": "Тосненская"
+    "tikName": "Тосненская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 939,
     "uikTvd": "447402176829",
+    "uikName": "УИК №939",
     "tikTvd": "2472000122620",
-    "tikName": "Тосненская"
+    "tikName": "Тосненская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 940,
     "uikTvd": "447402176830",
+    "uikName": "УИК №940",
     "tikTvd": "2472000122620",
-    "tikName": "Тосненская"
+    "tikName": "Тосненская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 941,
     "uikTvd": "447402176831",
+    "uikName": "УИК №941",
     "tikTvd": "2472000122620",
-    "tikName": "Тосненская"
+    "tikName": "Тосненская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 942,
     "uikTvd": "447402176832",
+    "uikName": "УИК №942",
     "tikTvd": "2472000122620",
-    "tikName": "Тосненская"
+    "tikName": "Тосненская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 943,
     "uikTvd": "447402176833",
+    "uikName": "УИК №943",
     "tikTvd": "2472000122620",
-    "tikName": "Тосненская"
+    "tikName": "Тосненская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 944,
     "uikTvd": "447402176834",
+    "uikName": "УИК №944",
     "tikTvd": "2472000122620",
-    "tikName": "Тосненская"
+    "tikName": "Тосненская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 945,
     "uikTvd": "447402176835",
+    "uikName": "УИК №945",
     "tikTvd": "2472000122620",
-    "tikName": "Тосненская"
+    "tikName": "Тосненская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 946,
     "uikTvd": "447402176836",
+    "uikName": "УИК №946",
     "tikTvd": "2472000122620",
-    "tikName": "Тосненская"
+    "tikName": "Тосненская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 947,
     "uikTvd": "447402176837",
+    "uikName": "УИК №947",
     "tikTvd": "2472000122620",
-    "tikName": "Тосненская"
+    "tikName": "Тосненская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 948,
     "uikTvd": "447402176838",
+    "uikName": "УИК №948",
     "tikTvd": "2472000122620",
-    "tikName": "Тосненская"
+    "tikName": "Тосненская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 949,
     "uikTvd": "447402176839",
+    "uikName": "УИК №949",
     "tikTvd": "2472000122620",
-    "tikName": "Тосненская"
+    "tikName": "Тосненская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 950,
     "uikTvd": "447402176840",
+    "uikName": "УИК №950",
     "tikTvd": "2472000122620",
-    "tikName": "Тосненская"
+    "tikName": "Тосненская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 951,
     "uikTvd": "447402176841",
+    "uikName": "УИК №951",
     "tikTvd": "2472000122620",
-    "tikName": "Тосненская"
+    "tikName": "Тосненская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 952,
     "uikTvd": "447402176842",
+    "uikName": "УИК №952",
     "tikTvd": "2472000122620",
-    "tikName": "Тосненская"
+    "tikName": "Тосненская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 953,
     "uikTvd": "447402176843",
+    "uikName": "УИК №953",
     "tikTvd": "2472000122620",
-    "tikName": "Тосненская"
+    "tikName": "Тосненская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 954,
     "uikTvd": "447402176844",
+    "uikName": "УИК №954",
     "tikTvd": "2472000122620",
-    "tikName": "Тосненская"
+    "tikName": "Тосненская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 955,
     "uikTvd": "447402176845",
+    "uikName": "УИК №955",
     "tikTvd": "2472000122620",
-    "tikName": "Тосненская"
+    "tikName": "Тосненская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 956,
     "uikTvd": "447402176846",
+    "uikName": "УИК №956",
     "tikTvd": "2472000122620",
-    "tikName": "Тосненская"
+    "tikName": "Тосненская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 957,
     "uikTvd": "447402176847",
+    "uikName": "УИК №957",
     "tikTvd": "2472000122620",
-    "tikName": "Тосненская"
+    "tikName": "Тосненская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 958,
     "uikTvd": "447402176848",
+    "uikName": "УИК №958",
     "tikTvd": "2472000122620",
-    "tikName": "Тосненская"
+    "tikName": "Тосненская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 959,
     "uikTvd": "447402176849",
+    "uikName": "УИК №959",
     "tikTvd": "2472000122620",
-    "tikName": "Тосненская"
+    "tikName": "Тосненская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 960,
     "uikTvd": "447402176850",
+    "uikName": "УИК №960",
     "tikTvd": "2472000122620",
-    "tikName": "Тосненская"
+    "tikName": "Тосненская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 961,
     "uikTvd": "447402176851",
+    "uikName": "УИК №961",
     "tikTvd": "2472000122620",
-    "tikName": "Тосненская"
+    "tikName": "Тосненская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 962,
     "uikTvd": "447402176852",
+    "uikName": "УИК №962",
     "tikTvd": "2472000122620",
-    "tikName": "Тосненская"
+    "tikName": "Тосненская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 963,
     "uikTvd": "447402176853",
+    "uikName": "УИК №963",
     "tikTvd": "2472000122620",
-    "tikName": "Тосненская"
+    "tikName": "Тосненская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 964,
     "uikTvd": "447402176854",
+    "uikName": "УИК №964",
     "tikTvd": "2472000122620",
-    "tikName": "Тосненская"
+    "tikName": "Тосненская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 965,
     "uikTvd": "447402176855",
+    "uikName": "УИК №965",
     "tikTvd": "2472000122620",
-    "tikName": "Тосненская"
+    "tikName": "Тосненская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 966,
     "uikTvd": "447402176856",
+    "uikName": "УИК №966",
     "tikTvd": "2472000122620",
-    "tikName": "Тосненская"
+    "tikName": "Тосненская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 967,
     "uikTvd": "447402176857",
+    "uikName": "УИК №967",
     "tikTvd": "2472000122620",
-    "tikName": "Тосненская"
+    "tikName": "Тосненская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 968,
     "uikTvd": "447402176858",
+    "uikName": "УИК №968",
     "tikTvd": "2472000122620",
-    "tikName": "Тосненская"
+    "tikName": "Тосненская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 969,
     "uikTvd": "447402176859",
+    "uikName": "УИК №969",
     "tikTvd": "2472000122620",
-    "tikName": "Тосненская"
+    "tikName": "Тосненская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 970,
     "uikTvd": "447402176860",
+    "uikName": "УИК №970",
     "tikTvd": "2472000122620",
-    "tikName": "Тосненская"
+    "tikName": "Тосненская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 971,
     "uikTvd": "447402176861",
+    "uikName": "УИК №971",
     "tikTvd": "2472000122620",
-    "tikName": "Тосненская"
+    "tikName": "Тосненская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 972,
     "uikTvd": "447402176862",
+    "uikName": "УИК №972",
     "tikTvd": "2472000122620",
-    "tikName": "Тосненская"
+    "tikName": "Тосненская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 973,
     "uikTvd": "447402176863",
+    "uikName": "УИК №973",
     "tikTvd": "2472000122620",
-    "tikName": "Тосненская"
+    "tikName": "Тосненская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 974,
     "uikTvd": "447402176801",
+    "uikName": "УИК №974",
     "tikTvd": "2472000122620",
-    "tikName": "Тосненская"
+    "tikName": "Тосненская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 975,
     "uikTvd": "447402271765",
+    "uikName": "УИК №975",
     "tikTvd": "2472000122619",
-    "tikName": "Шлиссельбургская городская"
+    "tikName": "Шлиссельбургская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 976,
     "uikTvd": "447402271767",
+    "uikName": "УИК №976",
     "tikTvd": "2472000122619",
-    "tikName": "Шлиссельбургская городская"
+    "tikName": "Шлиссельбургская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 977,
     "uikTvd": "447402271769",
+    "uikName": "УИК №977",
     "tikTvd": "2472000122619",
-    "tikName": "Шлиссельбургская городская"
+    "tikName": "Шлиссельбургская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 978,
     "uikTvd": "447402271771",
+    "uikName": "УИК №978",
     "tikTvd": "2472000122619",
-    "tikName": "Шлиссельбургская городская"
+    "tikName": "Шлиссельбургская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 979,
     "uikTvd": "447400375552",
+    "uikName": "УИК №979",
     "tikTvd": "2472000122643",
-    "tikName": "Волховская"
+    "tikName": "Волховская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 980,
     "uikTvd": "447400375553",
+    "uikName": "УИК №980",
     "tikTvd": "2472000122643",
-    "tikName": "Волховская"
+    "tikName": "Волховская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   },
   {
     "uikNumber": 981,
     "uikTvd": "447400375554",
+    "uikName": "УИК №981",
     "tikTvd": "2472000122643",
-    "tikName": "Волховская"
+    "tikName": "Волховская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
+    "district": null
   }
 ] satisfies readonly UikTikRelation[];

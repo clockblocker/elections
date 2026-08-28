@@ -11,6 +11,14 @@ export const duma_2016_tic_464_region_87 = [
     "ballot": "single-member",
     "tikTvd": "2872000246653",
     "tikName": "Анадырская",
+    "regionCode": "87",
+    "regionTvd": "100100067796145",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100067796146",
+      "oikName": "Чукотский автономный округ – Чукотский"
+    },
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 5021,
@@ -73,6 +81,14 @@ export const duma_2016_tic_464_region_87 = [
     "ballot": "single-member",
     "tikTvd": "2872000246654",
     "tikName": "Эгвекинотская",
+    "regionCode": "87",
+    "regionTvd": "100100067796145",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100067796146",
+      "oikName": "Чукотский автономный округ – Чукотский"
+    },
     "uikCount": 8,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2688,
@@ -128,6 +144,14 @@ export const duma_2016_tic_464_region_87 = [
     "ballot": "single-member",
     "tikTvd": "2872000246655",
     "tikName": "Чукотская",
+    "regionCode": "87",
+    "regionTvd": "100100067796145",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100067796146",
+      "oikName": "Чукотский автономный округ – Чукотский"
+    },
     "uikCount": 6,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2368,
@@ -181,6 +205,14 @@ export const duma_2016_tic_464_region_87 = [
     "ballot": "single-member",
     "tikTvd": "2872000246656",
     "tikName": "Анадырская городская",
+    "regionCode": "87",
+    "regionTvd": "100100067796145",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100067796146",
+      "oikName": "Чукотский автономный округ – Чукотский"
+    },
     "uikCount": 5,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 8257,
@@ -233,6 +265,14 @@ export const duma_2016_tic_464_region_87 = [
     "ballot": "single-member",
     "tikTvd": "2872000246657",
     "tikName": "Провиденская",
+    "regionCode": "87",
+    "regionTvd": "100100067796145",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100067796146",
+      "oikName": "Чукотский автономный округ – Чукотский"
+    },
     "uikCount": 6,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2046,
@@ -286,6 +326,14 @@ export const duma_2016_tic_464_region_87 = [
     "ballot": "single-member",
     "tikTvd": "2872000246658",
     "tikName": "Певекская",
+    "regionCode": "87",
+    "regionTvd": "100100067796145",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100067796146",
+      "oikName": "Чукотский автономный округ – Чукотский"
+    },
     "uikCount": 6,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 3413,
@@ -339,6 +387,14 @@ export const duma_2016_tic_464_region_87 = [
     "ballot": "single-member",
     "tikTvd": "2872000246659",
     "tikName": "Билибинская",
+    "regionCode": "87",
+    "regionTvd": "100100067796145",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100067796146",
+      "oikName": "Чукотский автономный округ – Чукотский"
+    },
     "uikCount": 9,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 5561,

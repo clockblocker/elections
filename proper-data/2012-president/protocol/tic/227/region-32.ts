@@ -11,6 +11,9 @@ export const president_2012_tic_227_region_32 = [
     "ballot": "presidential",
     "tikTvd": "2322000450496",
     "tikName": "Брянск, Володарская",
+    "regionCode": "32",
+    "regionTvd": "100100031793918",
+    "regionName": "Брянская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 62648,
@@ -86,6 +89,9 @@ export const president_2012_tic_227_region_32 = [
     "ballot": "presidential",
     "tikTvd": "2322000450497",
     "tikName": "Клинцовская",
+    "regionCode": "32",
+    "regionTvd": "100100031793918",
+    "regionName": "Брянская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 15342,
@@ -162,6 +168,9 @@ export const president_2012_tic_227_region_32 = [
     "ballot": "presidential",
     "tikTvd": "2322000450498",
     "tikName": "Новозыбковская",
+    "regionCode": "32",
+    "regionTvd": "100100031793918",
+    "regionName": "Брянская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9277,
@@ -230,6 +239,9 @@ export const president_2012_tic_227_region_32 = [
     "ballot": "presidential",
     "tikTvd": "2322000450499",
     "tikName": "Унечская",
+    "regionCode": "32",
+    "regionTvd": "100100031793918",
+    "regionName": "Брянская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 34483,
@@ -317,6 +329,9 @@ export const president_2012_tic_227_region_32 = [
     "ballot": "presidential",
     "tikTvd": "2322000450500",
     "tikName": "Трубчевская",
+    "regionCode": "32",
+    "regionTvd": "100100031793918",
+    "regionName": "Брянская область",
     "uikCount": 47,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 28562,
@@ -411,6 +426,9 @@ export const president_2012_tic_227_region_32 = [
     "ballot": "presidential",
     "tikTvd": "2322000450501",
     "tikName": "Брасовская",
+    "regionCode": "32",
+    "regionTvd": "100100031793918",
+    "regionName": "Брянская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 16534,
@@ -487,6 +505,9 @@ export const president_2012_tic_227_region_32 = [
     "ballot": "presidential",
     "tikTvd": "2322000450502",
     "tikName": "Брянск, Бежицкая",
+    "regionCode": "32",
+    "regionTvd": "100100031793918",
+    "regionName": "Брянская область",
     "uikCount": 62,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 134502,
@@ -596,6 +617,9 @@ export const president_2012_tic_227_region_32 = [
     "ballot": "presidential",
     "tikTvd": "2322000450503",
     "tikName": "Жуковская",
+    "regionCode": "32",
+    "regionTvd": "100100031793918",
+    "regionName": "Брянская область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 30225,
@@ -679,6 +703,9 @@ export const president_2012_tic_227_region_32 = [
     "ballot": "presidential",
     "tikTvd": "2322000450504",
     "tikName": "Жирятинская",
+    "regionCode": "32",
+    "regionTvd": "100100031793918",
+    "regionName": "Брянская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 5444,
@@ -741,6 +768,9 @@ export const president_2012_tic_227_region_32 = [
     "ballot": "presidential",
     "tikTvd": "2322000450505",
     "tikName": "Дятьковская",
+    "regionCode": "32",
+    "regionTvd": "100100031793918",
+    "regionName": "Брянская область",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 61623,
@@ -830,6 +860,9 @@ export const president_2012_tic_227_region_32 = [
     "ballot": "presidential",
     "tikTvd": "2322000450506",
     "tikName": "Дубровская",
+    "regionCode": "32",
+    "regionTvd": "100100031793918",
+    "regionName": "Брянская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 15553,
@@ -898,6 +931,9 @@ export const president_2012_tic_227_region_32 = [
     "ballot": "presidential",
     "tikTvd": "2322000450507",
     "tikName": "Гордеевская",
+    "regionCode": "32",
+    "regionTvd": "100100031793918",
+    "regionName": "Брянская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 8616,
@@ -968,6 +1004,9 @@ export const president_2012_tic_227_region_32 = [
     "ballot": "presidential",
     "tikTvd": "2322000450508",
     "tikName": "Выгоничская",
+    "regionCode": "32",
+    "regionTvd": "100100031793918",
+    "regionName": "Брянская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 16168,
@@ -1043,6 +1082,9 @@ export const president_2012_tic_227_region_32 = [
     "ballot": "presidential",
     "tikTvd": "2322000450509",
     "tikName": "Брянская",
+    "regionCode": "32",
+    "regionTvd": "100100031793918",
+    "regionName": "Брянская область",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 45991,
@@ -1136,6 +1178,9 @@ export const president_2012_tic_227_region_32 = [
     "ballot": "presidential",
     "tikTvd": "2322000450510",
     "tikName": "Брянск, Советская",
+    "regionCode": "32",
+    "regionTvd": "100100031793918",
+    "regionName": "Брянская область",
     "uikCount": 49,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 102543,
@@ -1232,6 +1277,9 @@ export const president_2012_tic_227_region_32 = [
     "ballot": "presidential",
     "tikTvd": "2322000450511",
     "tikName": "Брянск, Фокинская",
+    "regionCode": "32",
+    "regionTvd": "100100031793918",
+    "regionName": "Брянская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 69068,
@@ -1310,6 +1358,9 @@ export const president_2012_tic_227_region_32 = [
     "ballot": "presidential",
     "tikTvd": "2322000450512",
     "tikName": "Навлинская",
+    "regionCode": "32",
+    "regionTvd": "100100031793918",
+    "regionName": "Брянская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 22432,
@@ -1386,6 +1437,9 @@ export const president_2012_tic_227_region_32 = [
     "ballot": "presidential",
     "tikTvd": "2322000450513",
     "tikName": "Мглинская",
+    "regionCode": "32",
+    "regionTvd": "100100031793918",
+    "regionName": "Брянская область",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 15233,
@@ -1466,6 +1520,9 @@ export const president_2012_tic_227_region_32 = [
     "ballot": "presidential",
     "tikTvd": "2322000450514",
     "tikName": "Красногорская",
+    "regionCode": "32",
+    "regionTvd": "100100031793918",
+    "regionName": "Брянская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10975,
@@ -1539,6 +1596,9 @@ export const president_2012_tic_227_region_32 = [
     "ballot": "presidential",
     "tikTvd": "2322000450515",
     "tikName": "Комаричская",
+    "regionCode": "32",
+    "regionTvd": "100100031793918",
+    "regionName": "Брянская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 13887,
@@ -1616,6 +1676,9 @@ export const president_2012_tic_227_region_32 = [
     "ballot": "presidential",
     "tikTvd": "2322000450516",
     "tikName": "Климовская",
+    "regionCode": "32",
+    "regionTvd": "100100031793918",
+    "regionName": "Брянская область",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 25073,
@@ -1707,6 +1770,9 @@ export const president_2012_tic_227_region_32 = [
     "ballot": "presidential",
     "tikTvd": "2322000450517",
     "tikName": "Клетнянская",
+    "regionCode": "32",
+    "regionTvd": "100100031793918",
+    "regionName": "Брянская область",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 16060,
@@ -1787,6 +1853,9 @@ export const president_2012_tic_227_region_32 = [
     "ballot": "presidential",
     "tikTvd": "2322000450518",
     "tikName": "Клинцовская городская",
+    "regionCode": "32",
+    "regionTvd": "100100031793918",
+    "regionName": "Брянская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 54177,
@@ -1862,6 +1931,9 @@ export const president_2012_tic_227_region_32 = [
     "ballot": "presidential",
     "tikTvd": "2322000450519",
     "tikName": "Злынковская",
+    "regionCode": "32",
+    "regionTvd": "100100031793918",
+    "regionName": "Брянская область",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9434,
@@ -1925,6 +1997,9 @@ export const president_2012_tic_227_region_32 = [
     "ballot": "presidential",
     "tikTvd": "2322000450520",
     "tikName": "Суражская",
+    "regionCode": "32",
+    "regionTvd": "100100031793918",
+    "regionName": "Брянская область",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 20161,
@@ -2011,6 +2086,9 @@ export const president_2012_tic_227_region_32 = [
     "ballot": "presidential",
     "tikTvd": "2322000450521",
     "tikName": "Карачевская",
+    "regionCode": "32",
+    "regionTvd": "100100031793918",
+    "regionName": "Брянская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 29335,
@@ -2098,6 +2176,9 @@ export const president_2012_tic_227_region_32 = [
     "ballot": "presidential",
     "tikTvd": "2322000450522",
     "tikName": "Суземская",
+    "regionCode": "32",
+    "regionTvd": "100100031793918",
+    "regionName": "Брянская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 14466,
@@ -2169,6 +2250,9 @@ export const president_2012_tic_227_region_32 = [
     "ballot": "presidential",
     "tikTvd": "2322000450523",
     "tikName": "Стародубская",
+    "regionCode": "32",
+    "regionTvd": "100100031793918",
+    "regionName": "Брянская область",
     "uikCount": 54,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 30858,
@@ -2270,6 +2354,9 @@ export const president_2012_tic_227_region_32 = [
     "ballot": "presidential",
     "tikTvd": "2322000450524",
     "tikName": "Сельцовская городская",
+    "regionCode": "32",
+    "regionTvd": "100100031793918",
+    "regionName": "Брянская область",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 15125,
@@ -2328,6 +2415,9 @@ export const president_2012_tic_227_region_32 = [
     "ballot": "presidential",
     "tikTvd": "2322000450525",
     "tikName": "Почепская",
+    "regionCode": "32",
+    "regionTvd": "100100031793918",
+    "regionName": "Брянская область",
     "uikCount": 53,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 33651,
@@ -2428,6 +2518,9 @@ export const president_2012_tic_227_region_32 = [
     "ballot": "presidential",
     "tikTvd": "2322000450526",
     "tikName": "Севская",
+    "regionCode": "32",
+    "regionTvd": "100100031793918",
+    "regionName": "Брянская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 13122,
@@ -2503,6 +2596,9 @@ export const president_2012_tic_227_region_32 = [
     "ballot": "presidential",
     "tikTvd": "2322000450527",
     "tikName": "Рогнединская",
+    "regionCode": "32",
+    "regionTvd": "100100031793918",
+    "regionName": "Брянская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 5762,
@@ -2565,6 +2661,9 @@ export const president_2012_tic_227_region_32 = [
     "ballot": "presidential",
     "tikTvd": "2322000450528",
     "tikName": "Новозыбковская городская",
+    "regionCode": "32",
+    "regionTvd": "100100031793918",
+    "regionName": "Брянская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 34125,
@@ -2631,6 +2730,9 @@ export const president_2012_tic_227_region_32 = [
     "ballot": "presidential",
     "tikTvd": "2322000450529",
     "tikName": "Погарская",
+    "regionCode": "32",
+    "regionTvd": "100100031793918",
+    "regionName": "Брянская область",
     "uikCount": 55,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 24628,

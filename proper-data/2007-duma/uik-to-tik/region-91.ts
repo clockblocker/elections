@@ -7,2029 +7,3719 @@ export const duma_2007_uik_to_tik_region_91 = [
   {
     "uikNumber": 1,
     "uikTvd": "441400791200",
+    "uikName": "УИК №1",
     "tikTvd": "2412000110844",
-    "tikName": "Петропавловск-Камчатская городская"
+    "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 2,
     "uikTvd": "441400791201",
+    "uikName": "УИК №2",
     "tikTvd": "2412000110844",
-    "tikName": "Петропавловск-Камчатская городская"
+    "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 3,
     "uikTvd": "441400791202",
+    "uikName": "УИК №3",
     "tikTvd": "2412000110844",
-    "tikName": "Петропавловск-Камчатская городская"
+    "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 4,
     "uikTvd": "441400791203",
+    "uikName": "УИК №4",
     "tikTvd": "2412000110844",
-    "tikName": "Петропавловск-Камчатская городская"
+    "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 5,
     "uikTvd": "441400791204",
+    "uikName": "УИК №5",
     "tikTvd": "2412000110844",
-    "tikName": "Петропавловск-Камчатская городская"
+    "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 6,
     "uikTvd": "441400791205",
+    "uikName": "УИК №6",
     "tikTvd": "2412000110844",
-    "tikName": "Петропавловск-Камчатская городская"
+    "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 7,
     "uikTvd": "441400791206",
+    "uikName": "УИК №7",
     "tikTvd": "2412000110844",
-    "tikName": "Петропавловск-Камчатская городская"
+    "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 8,
     "uikTvd": "441400791207",
+    "uikName": "УИК №8",
     "tikTvd": "2412000110844",
-    "tikName": "Петропавловск-Камчатская городская"
+    "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 9,
     "uikTvd": "441400791208",
+    "uikName": "УИК №9",
     "tikTvd": "2412000110844",
-    "tikName": "Петропавловск-Камчатская городская"
+    "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 10,
     "uikTvd": "441400791209",
+    "uikName": "УИК №10",
     "tikTvd": "2412000110844",
-    "tikName": "Петропавловск-Камчатская городская"
+    "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 11,
     "uikTvd": "441400791210",
+    "uikName": "УИК №11",
     "tikTvd": "2412000110844",
-    "tikName": "Петропавловск-Камчатская городская"
+    "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 12,
     "uikTvd": "441400791211",
+    "uikName": "УИК №12",
     "tikTvd": "2412000110844",
-    "tikName": "Петропавловск-Камчатская городская"
+    "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 13,
     "uikTvd": "441400791212",
+    "uikName": "УИК №13",
     "tikTvd": "2412000110844",
-    "tikName": "Петропавловск-Камчатская городская"
+    "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 14,
     "uikTvd": "441400791213",
+    "uikName": "УИК №14",
     "tikTvd": "2412000110844",
-    "tikName": "Петропавловск-Камчатская городская"
+    "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 15,
     "uikTvd": "441400791214",
+    "uikName": "УИК №15",
     "tikTvd": "2412000110844",
-    "tikName": "Петропавловск-Камчатская городская"
+    "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 16,
     "uikTvd": "441400791215",
+    "uikName": "УИК №16",
     "tikTvd": "2412000110844",
-    "tikName": "Петропавловск-Камчатская городская"
+    "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 17,
     "uikTvd": "441400791216",
+    "uikName": "УИК №17",
     "tikTvd": "2412000110844",
-    "tikName": "Петропавловск-Камчатская городская"
+    "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 18,
     "uikTvd": "441400791217",
+    "uikName": "УИК №18",
     "tikTvd": "2412000110844",
-    "tikName": "Петропавловск-Камчатская городская"
+    "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 19,
     "uikTvd": "441400791218",
+    "uikName": "УИК №19",
     "tikTvd": "2412000110844",
-    "tikName": "Петропавловск-Камчатская городская"
+    "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 20,
     "uikTvd": "441400791219",
+    "uikName": "УИК №20",
     "tikTvd": "2412000110844",
-    "tikName": "Петропавловск-Камчатская городская"
+    "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 21,
     "uikTvd": "441400791220",
+    "uikName": "УИК №21",
     "tikTvd": "2412000110844",
-    "tikName": "Петропавловск-Камчатская городская"
+    "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 22,
     "uikTvd": "441400791221",
+    "uikName": "УИК №22",
     "tikTvd": "2412000110844",
-    "tikName": "Петропавловск-Камчатская городская"
+    "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 23,
     "uikTvd": "441400791222",
+    "uikName": "УИК №23",
     "tikTvd": "2412000110844",
-    "tikName": "Петропавловск-Камчатская городская"
+    "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 24,
     "uikTvd": "441400791223",
+    "uikName": "УИК №24",
     "tikTvd": "2412000110844",
-    "tikName": "Петропавловск-Камчатская городская"
+    "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 25,
     "uikTvd": "441400791224",
+    "uikName": "УИК №25",
     "tikTvd": "2412000110844",
-    "tikName": "Петропавловск-Камчатская городская"
+    "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 26,
     "uikTvd": "441400791225",
+    "uikName": "УИК №26",
     "tikTvd": "2412000110844",
-    "tikName": "Петропавловск-Камчатская городская"
+    "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 27,
     "uikTvd": "441400791226",
+    "uikName": "УИК №27",
     "tikTvd": "2412000110844",
-    "tikName": "Петропавловск-Камчатская городская"
+    "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 28,
     "uikTvd": "441400791227",
+    "uikName": "УИК №28",
     "tikTvd": "2412000110844",
-    "tikName": "Петропавловск-Камчатская городская"
+    "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 29,
     "uikTvd": "441400791228",
+    "uikName": "УИК №29",
     "tikTvd": "2412000110844",
-    "tikName": "Петропавловск-Камчатская городская"
+    "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 30,
     "uikTvd": "441400791229",
+    "uikName": "УИК №30",
     "tikTvd": "2412000110844",
-    "tikName": "Петропавловск-Камчатская городская"
+    "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 31,
     "uikTvd": "441400791230",
+    "uikName": "УИК №31",
     "tikTvd": "2412000110844",
-    "tikName": "Петропавловск-Камчатская городская"
+    "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 32,
     "uikTvd": "441400791231",
+    "uikName": "УИК №32",
     "tikTvd": "2412000110844",
-    "tikName": "Петропавловск-Камчатская городская"
+    "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 33,
     "uikTvd": "441400791232",
+    "uikName": "УИК №33",
     "tikTvd": "2412000110844",
-    "tikName": "Петропавловск-Камчатская городская"
+    "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 34,
     "uikTvd": "441400791233",
+    "uikName": "УИК №34",
     "tikTvd": "2412000110844",
-    "tikName": "Петропавловск-Камчатская городская"
+    "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 35,
     "uikTvd": "441400791234",
+    "uikName": "УИК №35",
     "tikTvd": "2412000110844",
-    "tikName": "Петропавловск-Камчатская городская"
+    "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 36,
     "uikTvd": "441400791235",
+    "uikName": "УИК №36",
     "tikTvd": "2412000110844",
-    "tikName": "Петропавловск-Камчатская городская"
+    "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 37,
     "uikTvd": "441400791236",
+    "uikName": "УИК №37",
     "tikTvd": "2412000110844",
-    "tikName": "Петропавловск-Камчатская городская"
+    "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 38,
     "uikTvd": "441400791237",
+    "uikName": "УИК №38",
     "tikTvd": "2412000110844",
-    "tikName": "Петропавловск-Камчатская городская"
+    "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 39,
     "uikTvd": "441400791238",
+    "uikName": "УИК №39",
     "tikTvd": "2412000110844",
-    "tikName": "Петропавловск-Камчатская городская"
+    "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 40,
     "uikTvd": "441400791239",
+    "uikName": "УИК №40",
     "tikTvd": "2412000110844",
-    "tikName": "Петропавловск-Камчатская городская"
+    "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 41,
     "uikTvd": "441400791240",
+    "uikName": "УИК №41",
     "tikTvd": "2412000110844",
-    "tikName": "Петропавловск-Камчатская городская"
+    "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 42,
     "uikTvd": "441400791241",
+    "uikName": "УИК №42",
     "tikTvd": "2412000110844",
-    "tikName": "Петропавловск-Камчатская городская"
+    "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 43,
     "uikTvd": "441400791242",
+    "uikName": "УИК №43",
     "tikTvd": "2412000110844",
-    "tikName": "Петропавловск-Камчатская городская"
+    "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 44,
     "uikTvd": "441400791243",
+    "uikName": "УИК №44",
     "tikTvd": "2412000110844",
-    "tikName": "Петропавловск-Камчатская городская"
+    "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 45,
     "uikTvd": "441400791244",
+    "uikName": "УИК №45",
     "tikTvd": "2412000110844",
-    "tikName": "Петропавловск-Камчатская городская"
+    "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 46,
     "uikTvd": "441400791245",
+    "uikName": "УИК №46",
     "tikTvd": "2412000110844",
-    "tikName": "Петропавловск-Камчатская городская"
+    "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 47,
     "uikTvd": "441400791246",
+    "uikName": "УИК №47",
     "tikTvd": "2412000110844",
-    "tikName": "Петропавловск-Камчатская городская"
+    "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 48,
     "uikTvd": "441400791247",
+    "uikName": "УИК №48",
     "tikTvd": "2412000110844",
-    "tikName": "Петропавловск-Камчатская городская"
+    "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 49,
     "uikTvd": "441400791248",
+    "uikName": "УИК №49",
     "tikTvd": "2412000110844",
-    "tikName": "Петропавловск-Камчатская городская"
+    "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 50,
     "uikTvd": "441400791249",
+    "uikName": "УИК №50",
     "tikTvd": "2412000110844",
-    "tikName": "Петропавловск-Камчатская городская"
+    "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 51,
     "uikTvd": "441400791250",
+    "uikName": "УИК №51",
     "tikTvd": "2412000110844",
-    "tikName": "Петропавловск-Камчатская городская"
+    "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 52,
     "uikTvd": "441400791251",
+    "uikName": "УИК №52",
     "tikTvd": "2412000110844",
-    "tikName": "Петропавловск-Камчатская городская"
+    "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 53,
     "uikTvd": "441400791252",
+    "uikName": "УИК №53",
     "tikTvd": "2412000110844",
-    "tikName": "Петропавловск-Камчатская городская"
+    "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 54,
     "uikTvd": "441400791253",
+    "uikName": "УИК №54",
     "tikTvd": "2412000110844",
-    "tikName": "Петропавловск-Камчатская городская"
+    "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 55,
     "uikTvd": "441400791254",
+    "uikName": "УИК №55",
     "tikTvd": "2412000110844",
-    "tikName": "Петропавловск-Камчатская городская"
+    "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 56,
     "uikTvd": "441400791255",
+    "uikName": "УИК №56",
     "tikTvd": "2412000110844",
-    "tikName": "Петропавловск-Камчатская городская"
+    "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 57,
     "uikTvd": "441400791256",
+    "uikName": "УИК №57",
     "tikTvd": "2412000110844",
-    "tikName": "Петропавловск-Камчатская городская"
+    "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 58,
     "uikTvd": "441400791257",
+    "uikName": "УИК №58",
     "tikTvd": "2412000110844",
-    "tikName": "Петропавловск-Камчатская городская"
+    "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 59,
     "uikTvd": "441400791258",
+    "uikName": "УИК №59",
     "tikTvd": "2412000110844",
-    "tikName": "Петропавловск-Камчатская городская"
+    "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 60,
     "uikTvd": "441400791259",
+    "uikName": "УИК №60",
     "tikTvd": "2412000110844",
-    "tikName": "Петропавловск-Камчатская городская"
+    "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 61,
     "uikTvd": "441400791260",
+    "uikName": "УИК №61",
     "tikTvd": "2412000110844",
-    "tikName": "Петропавловск-Камчатская городская"
+    "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 62,
     "uikTvd": "441400791261",
+    "uikName": "УИК №62",
     "tikTvd": "2412000110844",
-    "tikName": "Петропавловск-Камчатская городская"
+    "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 63,
     "uikTvd": "441400791262",
+    "uikName": "УИК №63",
     "tikTvd": "2412000110844",
-    "tikName": "Петропавловск-Камчатская городская"
+    "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 64,
     "uikTvd": "441400791263",
+    "uikName": "УИК №64",
     "tikTvd": "2412000110844",
-    "tikName": "Петропавловск-Камчатская городская"
+    "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 65,
     "uikTvd": "441400791264",
+    "uikName": "УИК №65",
     "tikTvd": "2412000110844",
-    "tikName": "Петропавловск-Камчатская городская"
+    "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 66,
     "uikTvd": "441400791265",
+    "uikName": "УИК №66",
     "tikTvd": "2412000110844",
-    "tikName": "Петропавловск-Камчатская городская"
+    "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 67,
     "uikTvd": "441400791266",
+    "uikName": "УИК №67",
     "tikTvd": "2412000110844",
-    "tikName": "Петропавловск-Камчатская городская"
+    "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 68,
     "uikTvd": "441400791267",
+    "uikName": "УИК №68",
     "tikTvd": "2412000110844",
-    "tikName": "Петропавловск-Камчатская городская"
+    "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 69,
     "uikTvd": "441400791268",
+    "uikName": "УИК №69",
     "tikTvd": "2412000110844",
-    "tikName": "Петропавловск-Камчатская городская"
+    "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 70,
     "uikTvd": "441400791269",
+    "uikName": "УИК №70",
     "tikTvd": "2412000110844",
-    "tikName": "Петропавловск-Камчатская городская"
+    "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 71,
     "uikTvd": "441400791270",
+    "uikName": "УИК №71",
     "tikTvd": "2412000110844",
-    "tikName": "Петропавловск-Камчатская городская"
+    "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 72,
     "uikTvd": "441400791271",
+    "uikName": "УИК №72",
     "tikTvd": "2412000110844",
-    "tikName": "Петропавловск-Камчатская городская"
+    "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 73,
     "uikTvd": "441400791272",
+    "uikName": "УИК №73",
     "tikTvd": "2412000110844",
-    "tikName": "Петропавловск-Камчатская городская"
+    "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 74,
     "uikTvd": "441400791273",
+    "uikName": "УИК №74",
     "tikTvd": "2412000110844",
-    "tikName": "Петропавловск-Камчатская городская"
+    "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 75,
     "uikTvd": "441400791274",
+    "uikName": "УИК №75",
     "tikTvd": "2412000110844",
-    "tikName": "Петропавловск-Камчатская городская"
+    "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 76,
     "uikTvd": "441400791275",
+    "uikName": "УИК №76",
     "tikTvd": "2412000110844",
-    "tikName": "Петропавловск-Камчатская городская"
+    "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 77,
     "uikTvd": "441400791276",
+    "uikName": "УИК №77",
     "tikTvd": "2412000110844",
-    "tikName": "Петропавловск-Камчатская городская"
+    "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 78,
     "uikTvd": "441400791277",
+    "uikName": "УИК №78",
     "tikTvd": "2412000110844",
-    "tikName": "Петропавловск-Камчатская городская"
+    "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 79,
     "uikTvd": "441400791278",
+    "uikName": "УИК №79",
     "tikTvd": "2412000110844",
-    "tikName": "Петропавловск-Камчатская городская"
+    "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 80,
     "uikTvd": "441400791279",
+    "uikName": "УИК №80",
     "tikTvd": "2412000110844",
-    "tikName": "Петропавловск-Камчатская городская"
+    "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 81,
     "uikTvd": "441400791280",
+    "uikName": "УИК №81",
     "tikTvd": "2412000110844",
-    "tikName": "Петропавловск-Камчатская городская"
+    "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 82,
     "uikTvd": "441400791281",
+    "uikName": "УИК №82",
     "tikTvd": "2412000110844",
-    "tikName": "Петропавловск-Камчатская городская"
+    "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 83,
     "uikTvd": "441400791282",
+    "uikName": "УИК №83",
     "tikTvd": "2412000110844",
-    "tikName": "Петропавловск-Камчатская городская"
+    "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 84,
     "uikTvd": "441400791283",
+    "uikName": "УИК №84",
     "tikTvd": "2412000110844",
-    "tikName": "Петропавловск-Камчатская городская"
+    "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 85,
     "uikTvd": "441400791284",
+    "uikName": "УИК №85",
     "tikTvd": "2412000110844",
-    "tikName": "Петропавловск-Камчатская городская"
+    "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 86,
     "uikTvd": "441400791285",
+    "uikName": "УИК №86",
     "tikTvd": "2412000110844",
-    "tikName": "Петропавловск-Камчатская городская"
+    "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 87,
     "uikTvd": "441400791286",
+    "uikName": "УИК №87",
     "tikTvd": "2412000110844",
-    "tikName": "Петропавловск-Камчатская городская"
+    "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 88,
     "uikTvd": "441400382927",
+    "uikName": "УИК №88",
     "tikTvd": "2412000110847",
-    "tikName": "Вилючинская "
+    "tikName": "Вилючинская ",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 89,
     "uikTvd": "441400382929",
+    "uikName": "УИК №89",
     "tikTvd": "2412000110847",
-    "tikName": "Вилючинская "
+    "tikName": "Вилючинская ",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 90,
     "uikTvd": "441400382930",
+    "uikName": "УИК №90",
     "tikTvd": "2412000110847",
-    "tikName": "Вилючинская "
+    "tikName": "Вилючинская ",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 91,
     "uikTvd": "441400382931",
+    "uikName": "УИК №91",
     "tikTvd": "2412000110847",
-    "tikName": "Вилючинская "
+    "tikName": "Вилючинская ",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 92,
     "uikTvd": "441400382932",
+    "uikName": "УИК №92",
     "tikTvd": "2412000110847",
-    "tikName": "Вилючинская "
+    "tikName": "Вилючинская ",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 93,
     "uikTvd": "441400382933",
+    "uikName": "УИК №93",
     "tikTvd": "2412000110847",
-    "tikName": "Вилючинская "
+    "tikName": "Вилючинская ",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 94,
     "uikTvd": "441400382934",
+    "uikName": "УИК №94",
     "tikTvd": "2412000110847",
-    "tikName": "Вилючинская "
+    "tikName": "Вилючинская ",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 95,
     "uikTvd": "441400382935",
+    "uikName": "УИК №95",
     "tikTvd": "2412000110847",
-    "tikName": "Вилючинская "
+    "tikName": "Вилючинская ",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 96,
     "uikTvd": "441400382936",
+    "uikName": "УИК №96",
     "tikTvd": "2412000110847",
-    "tikName": "Вилючинская "
+    "tikName": "Вилючинская ",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 97,
     "uikTvd": "441400382937",
+    "uikName": "УИК №97",
     "tikTvd": "2412000110847",
-    "tikName": "Вилючинская "
+    "tikName": "Вилючинская ",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 98,
     "uikTvd": "441400382938",
+    "uikName": "УИК №98",
     "tikTvd": "2412000110847",
-    "tikName": "Вилючинская "
+    "tikName": "Вилючинская ",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 99,
     "uikTvd": "441400382939",
+    "uikName": "УИК №99",
     "tikTvd": "2412000110847",
-    "tikName": "Вилючинская "
+    "tikName": "Вилючинская ",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 100,
     "uikTvd": "441400382940",
+    "uikName": "УИК №100",
     "tikTvd": "2412000110847",
-    "tikName": "Вилючинская "
+    "tikName": "Вилючинская ",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 101,
     "uikTvd": "441400382941",
+    "uikName": "УИК №101",
     "tikTvd": "2412000110847",
-    "tikName": "Вилючинская "
+    "tikName": "Вилючинская ",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 102,
     "uikTvd": "441400382942",
+    "uikName": "УИК №102",
     "tikTvd": "2412000110847",
-    "tikName": "Вилючинская "
+    "tikName": "Вилючинская ",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 103,
     "uikTvd": "441400382943",
+    "uikName": "УИК №103",
     "tikTvd": "2412000110847",
-    "tikName": "Вилючинская "
+    "tikName": "Вилючинская ",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 104,
     "uikTvd": "4414004109760",
+    "uikName": "УИК №104",
     "tikTvd": "2412000110846",
-    "tikName": "Елизовская"
+    "tikName": "Елизовская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 105,
     "uikTvd": "4414004109761",
+    "uikName": "УИК №105",
     "tikTvd": "2412000110846",
-    "tikName": "Елизовская"
+    "tikName": "Елизовская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 106,
     "uikTvd": "4414004109762",
+    "uikName": "УИК №106",
     "tikTvd": "2412000110846",
-    "tikName": "Елизовская"
+    "tikName": "Елизовская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 107,
     "uikTvd": "4414004109763",
+    "uikName": "УИК №107",
     "tikTvd": "2412000110846",
-    "tikName": "Елизовская"
+    "tikName": "Елизовская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 108,
     "uikTvd": "4414004109764",
+    "uikName": "УИК №108",
     "tikTvd": "2412000110846",
-    "tikName": "Елизовская"
+    "tikName": "Елизовская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 109,
     "uikTvd": "4414004109765",
+    "uikName": "УИК №109",
     "tikTvd": "2412000110846",
-    "tikName": "Елизовская"
+    "tikName": "Елизовская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 110,
     "uikTvd": "4414004109766",
+    "uikName": "УИК №110",
     "tikTvd": "2412000110846",
-    "tikName": "Елизовская"
+    "tikName": "Елизовская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 111,
     "uikTvd": "4414004109767",
+    "uikName": "УИК №111",
     "tikTvd": "2412000110846",
-    "tikName": "Елизовская"
+    "tikName": "Елизовская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 112,
     "uikTvd": "4414004109776",
+    "uikName": "УИК №112",
     "tikTvd": "2412000110846",
-    "tikName": "Елизовская"
+    "tikName": "Елизовская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 113,
     "uikTvd": "4414004109777",
+    "uikName": "УИК №113",
     "tikTvd": "2412000110846",
-    "tikName": "Елизовская"
+    "tikName": "Елизовская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 114,
     "uikTvd": "4414004109778",
+    "uikName": "УИК №114",
     "tikTvd": "2412000110846",
-    "tikName": "Елизовская"
+    "tikName": "Елизовская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 115,
     "uikTvd": "4414004109779",
+    "uikName": "УИК №115",
     "tikTvd": "2412000110846",
-    "tikName": "Елизовская"
+    "tikName": "Елизовская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 116,
     "uikTvd": "4414004109780",
+    "uikName": "УИК №116",
     "tikTvd": "2412000110846",
-    "tikName": "Елизовская"
+    "tikName": "Елизовская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 117,
     "uikTvd": "4414004109781",
+    "uikName": "УИК №117",
     "tikTvd": "2412000110846",
-    "tikName": "Елизовская"
+    "tikName": "Елизовская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 118,
     "uikTvd": "4414004109782",
+    "uikName": "УИК №118",
     "tikTvd": "2412000110846",
-    "tikName": "Елизовская"
+    "tikName": "Елизовская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 119,
     "uikTvd": "4414004109783",
+    "uikName": "УИК №119",
     "tikTvd": "2412000110846",
-    "tikName": "Елизовская"
+    "tikName": "Елизовская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 120,
     "uikTvd": "4414004109784",
+    "uikName": "УИК №120",
     "tikTvd": "2412000110846",
-    "tikName": "Елизовская"
+    "tikName": "Елизовская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 121,
     "uikTvd": "4414004109785",
+    "uikName": "УИК №121",
     "tikTvd": "2412000110846",
-    "tikName": "Елизовская"
+    "tikName": "Елизовская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 122,
     "uikTvd": "4414004109786",
+    "uikName": "УИК №122",
     "tikTvd": "2412000110846",
-    "tikName": "Елизовская"
+    "tikName": "Елизовская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 123,
     "uikTvd": "4414004109787",
+    "uikName": "УИК №123",
     "tikTvd": "2412000110846",
-    "tikName": "Елизовская"
+    "tikName": "Елизовская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 124,
     "uikTvd": "4414004109788",
+    "uikName": "УИК №124",
     "tikTvd": "2412000110846",
-    "tikName": "Елизовская"
+    "tikName": "Елизовская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 125,
     "uikTvd": "4414004109789",
+    "uikName": "УИК №125",
     "tikTvd": "2412000110846",
-    "tikName": "Елизовская"
+    "tikName": "Елизовская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 126,
     "uikTvd": "4414004109790",
+    "uikName": "УИК №126",
     "tikTvd": "2412000110846",
-    "tikName": "Елизовская"
+    "tikName": "Елизовская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 127,
     "uikTvd": "4414004109791",
+    "uikName": "УИК №127",
     "tikTvd": "2412000110846",
-    "tikName": "Елизовская"
+    "tikName": "Елизовская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 128,
     "uikTvd": "4414004109792",
+    "uikName": "УИК №128",
     "tikTvd": "2412000110846",
-    "tikName": "Елизовская"
+    "tikName": "Елизовская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 129,
     "uikTvd": "4414004109793",
+    "uikName": "УИК №129",
     "tikTvd": "2412000110846",
-    "tikName": "Елизовская"
+    "tikName": "Елизовская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 130,
     "uikTvd": "4414004109794",
+    "uikName": "УИК №130",
     "tikTvd": "2412000110846",
-    "tikName": "Елизовская"
+    "tikName": "Елизовская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 131,
     "uikTvd": "4414004109795",
+    "uikName": "УИК №131",
     "tikTvd": "2412000110846",
-    "tikName": "Елизовская"
+    "tikName": "Елизовская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 132,
     "uikTvd": "4414004109796",
+    "uikName": "УИК №132",
     "tikTvd": "2412000110846",
-    "tikName": "Елизовская"
+    "tikName": "Елизовская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 133,
     "uikTvd": "4414004109797",
+    "uikName": "УИК №133",
     "tikTvd": "2412000110846",
-    "tikName": "Елизовская"
+    "tikName": "Елизовская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 134,
     "uikTvd": "4414004109798",
+    "uikName": "УИК №134",
     "tikTvd": "2412000110846",
-    "tikName": "Елизовская"
+    "tikName": "Елизовская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 135,
     "uikTvd": "4414004109799",
+    "uikName": "УИК №135",
     "tikTvd": "2412000110846",
-    "tikName": "Елизовская"
+    "tikName": "Елизовская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 136,
     "uikTvd": "4414004109800",
+    "uikName": "УИК №136",
     "tikTvd": "2412000110846",
-    "tikName": "Елизовская"
+    "tikName": "Елизовская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 137,
     "uikTvd": "4414004109801",
+    "uikName": "УИК №137",
     "tikTvd": "2412000110846",
-    "tikName": "Елизовская"
+    "tikName": "Елизовская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 138,
     "uikTvd": "4414004109802",
+    "uikName": "УИК №138",
     "tikTvd": "2412000110846",
-    "tikName": "Елизовская"
+    "tikName": "Елизовская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 139,
     "uikTvd": "4414004109803",
+    "uikName": "УИК №139",
     "tikTvd": "2412000110846",
-    "tikName": "Елизовская"
+    "tikName": "Елизовская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 140,
     "uikTvd": "4414004109804",
+    "uikName": "УИК №140",
     "tikTvd": "2412000110846",
-    "tikName": "Елизовская"
+    "tikName": "Елизовская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 141,
     "uikTvd": "4414004109805",
+    "uikName": "УИК №141",
     "tikTvd": "2412000110846",
-    "tikName": "Елизовская"
+    "tikName": "Елизовская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 142,
     "uikTvd": "4414004109806",
+    "uikName": "УИК №142",
     "tikTvd": "2412000110846",
-    "tikName": "Елизовская"
+    "tikName": "Елизовская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 143,
     "uikTvd": "441400593652",
+    "uikName": "УИК №143",
     "tikTvd": "2412000110845",
-    "tikName": "Мильковская"
+    "tikName": "Мильковская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 144,
     "uikTvd": "441400593653",
+    "uikName": "УИК №144",
     "tikTvd": "2412000110845",
-    "tikName": "Мильковская"
+    "tikName": "Мильковская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 145,
     "uikTvd": "441400593654",
+    "uikName": "УИК №145",
     "tikTvd": "2412000110845",
-    "tikName": "Мильковская"
+    "tikName": "Мильковская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 146,
     "uikTvd": "441400593655",
+    "uikName": "УИК №146",
     "tikTvd": "2412000110845",
-    "tikName": "Мильковская"
+    "tikName": "Мильковская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 147,
     "uikTvd": "441400593656",
+    "uikName": "УИК №147",
     "tikTvd": "2412000110845",
-    "tikName": "Мильковская"
+    "tikName": "Мильковская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 148,
     "uikTvd": "441400593657",
+    "uikName": "УИК №148",
     "tikTvd": "2412000110845",
-    "tikName": "Мильковская"
+    "tikName": "Мильковская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 149,
     "uikTvd": "441400593658",
+    "uikName": "УИК №149",
     "tikTvd": "2412000110845",
-    "tikName": "Мильковская"
+    "tikName": "Мильковская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 150,
     "uikTvd": "441400593659",
+    "uikName": "УИК №150",
     "tikTvd": "2412000110845",
-    "tikName": "Мильковская"
+    "tikName": "Мильковская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 151,
     "uikTvd": "441400593660",
+    "uikName": "УИК №151",
     "tikTvd": "2412000110845",
-    "tikName": "Мильковская"
+    "tikName": "Мильковская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 152,
     "uikTvd": "441400593661",
+    "uikName": "УИК №152",
     "tikTvd": "2412000110845",
-    "tikName": "Мильковская"
+    "tikName": "Мильковская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 153,
     "uikTvd": "441400985027",
+    "uikName": "УИК №153",
     "tikTvd": "2412000110842",
-    "tikName": "Усть-Большерецкая"
+    "tikName": "Усть-Большерецкая",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 154,
     "uikTvd": "441400985029",
+    "uikName": "УИК №154",
     "tikTvd": "2412000110842",
-    "tikName": "Усть-Большерецкая"
+    "tikName": "Усть-Большерецкая",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 155,
     "uikTvd": "441400985031",
+    "uikName": "УИК №155",
     "tikTvd": "2412000110842",
-    "tikName": "Усть-Большерецкая"
+    "tikName": "Усть-Большерецкая",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 156,
     "uikTvd": "441400985033",
+    "uikName": "УИК №156",
     "tikTvd": "2412000110842",
-    "tikName": "Усть-Большерецкая"
+    "tikName": "Усть-Большерецкая",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 157,
     "uikTvd": "441400985035",
+    "uikName": "УИК №157",
     "tikTvd": "2412000110842",
-    "tikName": "Усть-Большерецкая"
+    "tikName": "Усть-Большерецкая",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 158,
     "uikTvd": "441400985037",
+    "uikName": "УИК №158",
     "tikTvd": "2412000110842",
-    "tikName": "Усть-Большерецкая"
+    "tikName": "Усть-Большерецкая",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 159,
     "uikTvd": "441400985039",
+    "uikName": "УИК №159",
     "tikTvd": "2412000110842",
-    "tikName": "Усть-Большерецкая"
+    "tikName": "Усть-Большерецкая",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 160,
     "uikTvd": "441400985041",
+    "uikName": "УИК №160",
     "tikTvd": "2412000110842",
-    "tikName": "Усть-Большерецкая"
+    "tikName": "Усть-Большерецкая",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 161,
     "uikTvd": "441400281166",
+    "uikName": "УИК №161",
     "tikTvd": "2412000110848",
-    "tikName": "Быстринская"
+    "tikName": "Быстринская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 162,
     "uikTvd": "441400281167",
+    "uikName": "УИК №162",
     "tikTvd": "2412000110848",
-    "tikName": "Быстринская"
+    "tikName": "Быстринская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 163,
     "uikTvd": "441400881365",
+    "uikName": "УИК №163",
     "tikTvd": "2412000110843",
-    "tikName": "Соболевская"
+    "tikName": "Соболевская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 164,
     "uikTvd": "441400881366",
+    "uikName": "УИК №164",
     "tikTvd": "2412000110843",
-    "tikName": "Соболевская"
+    "tikName": "Соболевская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 165,
     "uikTvd": "441400881367",
+    "uikName": "УИК №165",
     "tikTvd": "2412000110843",
-    "tikName": "Соболевская"
+    "tikName": "Соболевская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 166,
     "uikTvd": "441400881368",
+    "uikName": "УИК №166",
     "tikTvd": "2412000110843",
-    "tikName": "Соболевская"
+    "tikName": "Соболевская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 167,
     "uikTvd": "441401091327",
+    "uikName": "УИК №167",
     "tikTvd": "2412000110841",
-    "tikName": "Усть-Камчатская"
+    "tikName": "Усть-Камчатская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 168,
     "uikTvd": "441401091328",
+    "uikName": "УИК №168",
     "tikTvd": "2412000110841",
-    "tikName": "Усть-Камчатская"
+    "tikName": "Усть-Камчатская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 169,
     "uikTvd": "441401091329",
+    "uikName": "УИК №169",
     "tikTvd": "2412000110841",
-    "tikName": "Усть-Камчатская"
+    "tikName": "Усть-Камчатская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 170,
     "uikTvd": "441401091330",
+    "uikName": "УИК №170",
     "tikTvd": "2412000110841",
-    "tikName": "Усть-Камчатская"
+    "tikName": "Усть-Камчатская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 171,
     "uikTvd": "441401091331",
+    "uikName": "УИК №171",
     "tikTvd": "2412000110841",
-    "tikName": "Усть-Камчатская"
+    "tikName": "Усть-Камчатская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 172,
     "uikTvd": "441401091332",
+    "uikName": "УИК №172",
     "tikTvd": "2412000110841",
-    "tikName": "Усть-Камчатская"
+    "tikName": "Усть-Камчатская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 173,
     "uikTvd": "441401091333",
+    "uikName": "УИК №173",
     "tikTvd": "2412000110841",
-    "tikName": "Усть-Камчатская"
+    "tikName": "Усть-Камчатская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 174,
     "uikTvd": "441401091334",
+    "uikName": "УИК №174",
     "tikTvd": "2412000110841",
-    "tikName": "Усть-Камчатская"
+    "tikName": "Усть-Камчатская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 175,
     "uikTvd": "441401091335",
+    "uikName": "УИК №175",
     "tikTvd": "2412000110841",
-    "tikName": "Усть-Камчатская"
+    "tikName": "Усть-Камчатская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 176,
     "uikTvd": "441401091336",
+    "uikName": "УИК №176",
     "tikTvd": "2412000110841",
-    "tikName": "Усть-Камчатская"
+    "tikName": "Усть-Камчатская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 177,
     "uikTvd": "441401091337",
+    "uikName": "УИК №177",
     "tikTvd": "2412000110841",
-    "tikName": "Усть-Камчатская"
+    "tikName": "Усть-Камчатская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 178,
     "uikTvd": "441401091338",
+    "uikName": "УИК №178",
     "tikTvd": "2412000110841",
-    "tikName": "Усть-Камчатская"
+    "tikName": "Усть-Камчатская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 179,
     "uikTvd": "441401091339",
+    "uikName": "УИК №179",
     "tikTvd": "2412000110841",
-    "tikName": "Усть-Камчатская"
+    "tikName": "Усть-Камчатская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 180,
     "uikTvd": "441400178908",
+    "uikName": "УИК №180",
     "tikTvd": "2412000110839",
-    "tikName": "Алеутская"
+    "tikName": "Алеутская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 181,
     "uikTvd": "482400489214",
+    "uikName": "УИК №181",
     "tikTvd": "2412000110852",
-    "tikName": "Тигильская"
+    "tikName": "Тигильская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 182,
     "uikTvd": "482400489713",
+    "uikName": "УИК №182",
     "tikTvd": "2412000110852",
-    "tikName": "Тигильская"
+    "tikName": "Тигильская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 183,
     "uikTvd": "482400489714",
+    "uikName": "УИК №183",
     "tikTvd": "2412000110852",
-    "tikName": "Тигильская"
+    "tikName": "Тигильская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 184,
     "uikTvd": "482400489474",
+    "uikName": "УИК №184",
     "tikTvd": "2412000110852",
-    "tikName": "Тигильская"
+    "tikName": "Тигильская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 185,
     "uikTvd": "482400489475",
+    "uikName": "УИК №185",
     "tikTvd": "2412000110852",
-    "tikName": "Тигильская"
+    "tikName": "Тигильская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 186,
     "uikTvd": "482400489476",
+    "uikName": "УИК №186",
     "tikTvd": "2412000110852",
-    "tikName": "Тигильская"
+    "tikName": "Тигильская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 187,
     "uikTvd": "482400489477",
+    "uikName": "УИК №187",
     "tikTvd": "2412000110852",
-    "tikName": "Тигильская"
+    "tikName": "Тигильская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 188,
     "uikTvd": "482400568796",
+    "uikName": "УИК №188",
     "tikTvd": "2412000110853",
-    "tikName": "Паланская"
+    "tikName": "Паланская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 189,
     "uikTvd": "482400568797",
+    "uikName": "УИК №189",
     "tikTvd": "2412000110853",
-    "tikName": "Паланская"
+    "tikName": "Паланская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 190,
     "uikTvd": "482400194667",
+    "uikName": "УИК №190",
     "tikTvd": "2412000110849",
-    "tikName": "Карагинская"
+    "tikName": "Карагинская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 191,
     "uikTvd": "482400194670",
+    "uikName": "УИК №191",
     "tikTvd": "2412000110849",
-    "tikName": "Карагинская"
+    "tikName": "Карагинская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 192,
     "uikTvd": "482400194671",
+    "uikName": "УИК №192",
     "tikTvd": "2412000110849",
-    "tikName": "Карагинская"
+    "tikName": "Карагинская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 193,
     "uikTvd": "482400194672",
+    "uikName": "УИК №193",
     "tikTvd": "2412000110849",
-    "tikName": "Карагинская"
+    "tikName": "Карагинская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 194,
     "uikTvd": "482400194673",
+    "uikName": "УИК №194",
     "tikTvd": "2412000110849",
-    "tikName": "Карагинская"
+    "tikName": "Карагинская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 195,
     "uikTvd": "482400194674",
+    "uikName": "УИК №195",
     "tikTvd": "2412000110849",
-    "tikName": "Карагинская"
+    "tikName": "Карагинская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 196,
     "uikTvd": "4824002208902",
+    "uikName": "УИК №196",
     "tikTvd": "2412000110850",
-    "tikName": "Олюторская"
+    "tikName": "Олюторская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 197,
     "uikTvd": "4824002208903",
+    "uikName": "УИК №197",
     "tikTvd": "2412000110850",
-    "tikName": "Олюторская"
+    "tikName": "Олюторская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 198,
     "uikTvd": "4824002208904",
+    "uikName": "УИК №198",
     "tikTvd": "2412000110850",
-    "tikName": "Олюторская"
+    "tikName": "Олюторская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 199,
     "uikTvd": "4824002208905",
+    "uikName": "УИК №199",
     "tikTvd": "2412000110850",
-    "tikName": "Олюторская"
+    "tikName": "Олюторская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 200,
     "uikTvd": "4824002208906",
+    "uikName": "УИК №200",
     "tikTvd": "2412000110850",
-    "tikName": "Олюторская"
+    "tikName": "Олюторская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 201,
     "uikTvd": "4824002208907",
+    "uikName": "УИК №201",
     "tikTvd": "2412000110850",
-    "tikName": "Олюторская"
+    "tikName": "Олюторская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 202,
     "uikTvd": "4824002208908",
+    "uikName": "УИК №202",
     "tikTvd": "2412000110850",
-    "tikName": "Олюторская"
+    "tikName": "Олюторская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 203,
     "uikTvd": "4824002208909",
+    "uikName": "УИК №203",
     "tikTvd": "2412000110850",
-    "tikName": "Олюторская"
+    "tikName": "Олюторская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 204,
     "uikTvd": "482400393231",
+    "uikName": "УИК №204",
     "tikTvd": "2412000110851",
-    "tikName": "Пенжинская"
+    "tikName": "Пенжинская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 205,
     "uikTvd": "482400393234",
+    "uikName": "УИК №205",
     "tikTvd": "2412000110851",
-    "tikName": "Пенжинская"
+    "tikName": "Пенжинская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 206,
     "uikTvd": "482400393236",
+    "uikName": "УИК №206",
     "tikTvd": "2412000110851",
-    "tikName": "Пенжинская"
+    "tikName": "Пенжинская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 207,
     "uikTvd": "482400393238",
+    "uikName": "УИК №207",
     "tikTvd": "2412000110851",
-    "tikName": "Пенжинская"
+    "tikName": "Пенжинская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 208,
     "uikTvd": "482400393240",
+    "uikName": "УИК №208",
     "tikTvd": "2412000110851",
-    "tikName": "Пенжинская"
+    "tikName": "Пенжинская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 209,
     "uikTvd": "482400393242",
+    "uikName": "УИК №209",
     "tikTvd": "2412000110851",
-    "tikName": "Пенжинская"
+    "tikName": "Пенжинская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 210,
     "uikTvd": "482400393244",
+    "uikName": "УИК №210",
     "tikTvd": "2412000110851",
-    "tikName": "Пенжинская"
+    "tikName": "Пенжинская",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 211,
     "uikTvd": "441401182745",
+    "uikName": "УИК №211",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 212,
     "uikTvd": "441401182746",
+    "uikName": "УИК №212",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 213,
     "uikTvd": "441401182747",
+    "uikName": "УИК №213",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 214,
     "uikTvd": "441401182748",
+    "uikName": "УИК №214",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 215,
     "uikTvd": "441401182749",
+    "uikName": "УИК №215",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 216,
     "uikTvd": "441401182750",
+    "uikName": "УИК №216",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 217,
     "uikTvd": "441401182751",
+    "uikName": "УИК №217",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 218,
     "uikTvd": "441401182752",
+    "uikName": "УИК №218",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 219,
     "uikTvd": "441401182753",
+    "uikName": "УИК №219",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 220,
     "uikTvd": "441401182754",
+    "uikName": "УИК №220",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 221,
     "uikTvd": "441401182755",
+    "uikName": "УИК №221",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 222,
     "uikTvd": "441401182756",
+    "uikName": "УИК №222",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 223,
     "uikTvd": "441401182757",
+    "uikName": "УИК №223",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 224,
     "uikTvd": "441401182758",
+    "uikName": "УИК №224",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 225,
     "uikTvd": "441401182759",
+    "uikName": "УИК №225",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 226,
     "uikTvd": "441401182760",
+    "uikName": "УИК №226",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 227,
     "uikTvd": "441401182761",
+    "uikName": "УИК №227",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 228,
     "uikTvd": "441401182762",
+    "uikName": "УИК №228",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 232,
     "uikTvd": "441401182766",
+    "uikName": "УИК №232",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 233,
     "uikTvd": "441401182767",
+    "uikName": "УИК №233",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 234,
     "uikTvd": "441401182768",
+    "uikName": "УИК №234",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 235,
     "uikTvd": "441401182769",
+    "uikName": "УИК №235",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 236,
     "uikTvd": "441401182770",
+    "uikName": "УИК №236",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 238,
     "uikTvd": "441401182772",
+    "uikName": "УИК №238",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 239,
     "uikTvd": "441401182773",
+    "uikName": "УИК №239",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 240,
     "uikTvd": "441401182774",
+    "uikName": "УИК №240",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 241,
     "uikTvd": "441401182775",
+    "uikName": "УИК №241",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 243,
     "uikTvd": "441401182777",
+    "uikName": "УИК №243",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 244,
     "uikTvd": "441401182778",
+    "uikName": "УИК №244",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 245,
     "uikTvd": "441401182779",
+    "uikName": "УИК №245",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 246,
     "uikTvd": "441401182780",
+    "uikName": "УИК №246",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 247,
     "uikTvd": "441401182781",
+    "uikName": "УИК №247",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 248,
     "uikTvd": "441401182782",
+    "uikName": "УИК №248",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 249,
     "uikTvd": "441401182783",
+    "uikName": "УИК №249",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 250,
     "uikTvd": "441401183293",
+    "uikName": "УИК №250",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 251,
     "uikTvd": "441401182785",
+    "uikName": "УИК №251",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 252,
     "uikTvd": "441401182786",
+    "uikName": "УИК №252",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 253,
     "uikTvd": "441401182787",
+    "uikName": "УИК №253",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 254,
     "uikTvd": "441401182788",
+    "uikName": "УИК №254",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 255,
     "uikTvd": "441401182789",
+    "uikName": "УИК №255",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 257,
     "uikTvd": "441401182791",
+    "uikName": "УИК №257",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 258,
     "uikTvd": "441401182792",
+    "uikName": "УИК №258",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 259,
     "uikTvd": "441401182793",
+    "uikName": "УИК №259",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 260,
     "uikTvd": "441401182794",
+    "uikName": "УИК №260",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 261,
     "uikTvd": "441401182795",
+    "uikName": "УИК №261",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 262,
     "uikTvd": "441401182796",
+    "uikName": "УИК №262",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 263,
     "uikTvd": "441401182797",
+    "uikName": "УИК №263",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 264,
     "uikTvd": "441401182798",
+    "uikName": "УИК №264",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 265,
     "uikTvd": "441401182799",
+    "uikName": "УИК №265",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 266,
     "uikTvd": "441401182800",
+    "uikName": "УИК №266",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 267,
     "uikTvd": "441401182801",
+    "uikName": "УИК №267",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 268,
     "uikTvd": "441401182802",
+    "uikName": "УИК №268",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 270,
     "uikTvd": "441401182804",
+    "uikName": "УИК №270",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 271,
     "uikTvd": "441401182805",
+    "uikName": "УИК №271",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 272,
     "uikTvd": "441401182806",
+    "uikName": "УИК №272",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 273,
     "uikTvd": "441401182807",
+    "uikName": "УИК №273",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 274,
     "uikTvd": "441401182808",
+    "uikName": "УИК №274",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 275,
     "uikTvd": "441401182809",
+    "uikName": "УИК №275",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 276,
     "uikTvd": "441401182810",
+    "uikName": "УИК №276",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 277,
     "uikTvd": "441401182811",
+    "uikName": "УИК №277",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 278,
     "uikTvd": "441401182812",
+    "uikName": "УИК №278",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 279,
     "uikTvd": "441401182813",
+    "uikName": "УИК №279",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 280,
     "uikTvd": "441401182814",
+    "uikName": "УИК №280",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 281,
     "uikTvd": "441401182815",
+    "uikName": "УИК №281",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 282,
     "uikTvd": "441401182816",
+    "uikName": "УИК №282",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 283,
     "uikTvd": "441401182986",
+    "uikName": "УИК №283",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 284,
     "uikTvd": "441401182987",
+    "uikName": "УИК №284",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 285,
     "uikTvd": "441401182988",
+    "uikName": "УИК №285",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 286,
     "uikTvd": "441401182989",
+    "uikName": "УИК №286",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 288,
     "uikTvd": "441401182991",
+    "uikName": "УИК №288",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 289,
     "uikTvd": "441401182992",
+    "uikName": "УИК №289",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 290,
     "uikTvd": "441401182993",
+    "uikName": "УИК №290",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 291,
     "uikTvd": "441401182994",
+    "uikName": "УИК №291",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 292,
     "uikTvd": "441401182995",
+    "uikName": "УИК №292",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 293,
     "uikTvd": "441401182996",
+    "uikName": "УИК №293",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 294,
     "uikTvd": "441401182997",
+    "uikName": "УИК №294",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 295,
     "uikTvd": "441401182998",
+    "uikName": "УИК №295",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 296,
     "uikTvd": "441401182999",
+    "uikName": "УИК №296",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 297,
     "uikTvd": "441401183000",
+    "uikName": "УИК №297",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 298,
     "uikTvd": "441401183001",
+    "uikName": "УИК №298",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 299,
     "uikTvd": "441401183002",
+    "uikName": "УИК №299",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 300,
     "uikTvd": "441401183003",
+    "uikName": "УИК №300",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 301,
     "uikTvd": "441401183004",
+    "uikName": "УИК №301",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 302,
     "uikTvd": "441401183005",
+    "uikName": "УИК №302",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 303,
     "uikTvd": "441401183006",
+    "uikName": "УИК №303",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 304,
     "uikTvd": "441401183007",
+    "uikName": "УИК №304",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 305,
     "uikTvd": "441401183008",
+    "uikName": "УИК №305",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 306,
     "uikTvd": "441401183009",
+    "uikName": "УИК №306",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 307,
     "uikTvd": "441401183011",
+    "uikName": "УИК №307",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 308,
     "uikTvd": "441401183012",
+    "uikName": "УИК №308",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 309,
     "uikTvd": "441401183013",
+    "uikName": "УИК №309",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 310,
     "uikTvd": "441401183014",
+    "uikName": "УИК №310",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 311,
     "uikTvd": "441401183015",
+    "uikName": "УИК №311",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 312,
     "uikTvd": "441401183016",
+    "uikName": "УИК №312",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 313,
     "uikTvd": "441401183017",
+    "uikName": "УИК №313",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 317,
     "uikTvd": "441401183021",
+    "uikName": "УИК №317",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 319,
     "uikTvd": "441401183023",
+    "uikName": "УИК №319",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 320,
     "uikTvd": "441401183024",
+    "uikName": "УИК №320",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 321,
     "uikTvd": "441401183025",
+    "uikName": "УИК №321",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 322,
     "uikTvd": "441401183026",
+    "uikName": "УИК №322",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 323,
     "uikTvd": "441401183027",
+    "uikName": "УИК №323",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 324,
     "uikTvd": "441401183028",
+    "uikName": "УИК №324",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 325,
     "uikTvd": "441401183029",
+    "uikName": "УИК №325",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 327,
     "uikTvd": "441401183031",
+    "uikName": "УИК №327",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 328,
     "uikTvd": "441401183883",
+    "uikName": "УИК №328",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 329,
     "uikTvd": "441401183033",
+    "uikName": "УИК №329",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 330,
     "uikTvd": "441401183034",
+    "uikName": "УИК №330",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 331,
     "uikTvd": "441401183035",
+    "uikName": "УИК №331",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 336,
     "uikTvd": "441401183040",
+    "uikName": "УИК №336",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 337,
     "uikTvd": "441401183041",
+    "uikName": "УИК №337",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 338,
     "uikTvd": "441401183042",
+    "uikName": "УИК №338",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 342,
     "uikTvd": "441401183046",
+    "uikName": "УИК №342",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 343,
     "uikTvd": "441401183047",
+    "uikName": "УИК №343",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 344,
     "uikTvd": "441401183048",
+    "uikName": "УИК №344",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 345,
     "uikTvd": "441401183049",
+    "uikName": "УИК №345",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 346,
     "uikTvd": "441401183050",
+    "uikName": "УИК №346",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 347,
     "uikTvd": "441401183051",
+    "uikName": "УИК №347",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 348,
     "uikTvd": "441401183052",
+    "uikName": "УИК №348",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 349,
     "uikTvd": "441401183053",
+    "uikName": "УИК №349",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 351,
     "uikTvd": "441401183055",
+    "uikName": "УИК №351",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 352,
     "uikTvd": "441401183056",
+    "uikName": "УИК №352",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 353,
     "uikTvd": "441401183057",
+    "uikName": "УИК №353",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 354,
     "uikTvd": "441401183058",
+    "uikName": "УИК №354",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 355,
     "uikTvd": "441401183059",
+    "uikName": "УИК №355",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 356,
     "uikTvd": "441401183060",
+    "uikName": "УИК №356",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 357,
     "uikTvd": "441401183061",
+    "uikName": "УИК №357",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 358,
     "uikTvd": "441401183062",
+    "uikName": "УИК №358",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   },
   {
     "uikNumber": 359,
     "uikTvd": "441401183063",
+    "uikName": "УИК №359",
     "tikTvd": "2412000110840",
-    "tikName": "Петропавловск-Камчатская городская (судовая)"
+    "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100021960365",
+    "regionName": "Камчатский край",
+    "district": null
   }
 ] satisfies readonly UikTikRelation[];

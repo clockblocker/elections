@@ -7,17119 +7,31384 @@ export const president_2012_uik_to_tik_region_16 = [
   {
     "uikNumber": 1,
     "uikTvd": "4164022100899",
+    "uikName": "УИК №1",
     "tikTvd": "2162000559382",
-    "tikName": "Казань, Авиастроительная"
+    "tikName": "Казань, Авиастроительная",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2,
     "uikTvd": "4164022100900",
+    "uikName": "УИК №2",
     "tikTvd": "2162000559382",
-    "tikName": "Казань, Авиастроительная"
+    "tikName": "Казань, Авиастроительная",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 3,
     "uikTvd": "4164022100901",
+    "uikName": "УИК №3",
     "tikTvd": "2162000559382",
-    "tikName": "Казань, Авиастроительная"
+    "tikName": "Казань, Авиастроительная",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 4,
     "uikTvd": "4164022100902",
+    "uikName": "УИК №4",
     "tikTvd": "2162000559382",
-    "tikName": "Казань, Авиастроительная"
+    "tikName": "Казань, Авиастроительная",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 5,
     "uikTvd": "4164022100903",
+    "uikName": "УИК №5",
     "tikTvd": "2162000559382",
-    "tikName": "Казань, Авиастроительная"
+    "tikName": "Казань, Авиастроительная",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 6,
     "uikTvd": "4164022100904",
+    "uikName": "УИК №6",
     "tikTvd": "2162000559382",
-    "tikName": "Казань, Авиастроительная"
+    "tikName": "Казань, Авиастроительная",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 7,
     "uikTvd": "4164022100905",
+    "uikName": "УИК №7",
     "tikTvd": "2162000559382",
-    "tikName": "Казань, Авиастроительная"
+    "tikName": "Казань, Авиастроительная",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 8,
     "uikTvd": "4164022100906",
+    "uikName": "УИК №8",
     "tikTvd": "2162000559382",
-    "tikName": "Казань, Авиастроительная"
+    "tikName": "Казань, Авиастроительная",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 9,
     "uikTvd": "4164022100907",
+    "uikName": "УИК №9",
     "tikTvd": "2162000559382",
-    "tikName": "Казань, Авиастроительная"
+    "tikName": "Казань, Авиастроительная",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 10,
     "uikTvd": "4164022100908",
+    "uikName": "УИК №10",
     "tikTvd": "2162000559382",
-    "tikName": "Казань, Авиастроительная"
+    "tikName": "Казань, Авиастроительная",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 11,
     "uikTvd": "4164022100909",
+    "uikName": "УИК №11",
     "tikTvd": "2162000559382",
-    "tikName": "Казань, Авиастроительная"
+    "tikName": "Казань, Авиастроительная",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 12,
     "uikTvd": "4164022100910",
+    "uikName": "УИК №12",
     "tikTvd": "2162000559382",
-    "tikName": "Казань, Авиастроительная"
+    "tikName": "Казань, Авиастроительная",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 13,
     "uikTvd": "4164022100911",
+    "uikName": "УИК №13",
     "tikTvd": "2162000559382",
-    "tikName": "Казань, Авиастроительная"
+    "tikName": "Казань, Авиастроительная",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 14,
     "uikTvd": "4164022100912",
+    "uikName": "УИК №14",
     "tikTvd": "2162000559382",
-    "tikName": "Казань, Авиастроительная"
+    "tikName": "Казань, Авиастроительная",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 15,
     "uikTvd": "4164022100913",
+    "uikName": "УИК №15",
     "tikTvd": "2162000559382",
-    "tikName": "Казань, Авиастроительная"
+    "tikName": "Казань, Авиастроительная",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 16,
     "uikTvd": "4164022100914",
+    "uikName": "УИК №16",
     "tikTvd": "2162000559382",
-    "tikName": "Казань, Авиастроительная"
+    "tikName": "Казань, Авиастроительная",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 17,
     "uikTvd": "4164022100915",
+    "uikName": "УИК №17",
     "tikTvd": "2162000559382",
-    "tikName": "Казань, Авиастроительная"
+    "tikName": "Казань, Авиастроительная",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 18,
     "uikTvd": "4164022100916",
+    "uikName": "УИК №18",
     "tikTvd": "2162000559382",
-    "tikName": "Казань, Авиастроительная"
+    "tikName": "Казань, Авиастроительная",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 19,
     "uikTvd": "4164022100917",
+    "uikName": "УИК №19",
     "tikTvd": "2162000559382",
-    "tikName": "Казань, Авиастроительная"
+    "tikName": "Казань, Авиастроительная",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 20,
     "uikTvd": "4164022100918",
+    "uikName": "УИК №20",
     "tikTvd": "2162000559382",
-    "tikName": "Казань, Авиастроительная"
+    "tikName": "Казань, Авиастроительная",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 21,
     "uikTvd": "4164022100919",
+    "uikName": "УИК №21",
     "tikTvd": "2162000559382",
-    "tikName": "Казань, Авиастроительная"
+    "tikName": "Казань, Авиастроительная",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 22,
     "uikTvd": "4164022100920",
+    "uikName": "УИК №22",
     "tikTvd": "2162000559382",
-    "tikName": "Казань, Авиастроительная"
+    "tikName": "Казань, Авиастроительная",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 23,
     "uikTvd": "4164022100921",
+    "uikName": "УИК №23",
     "tikTvd": "2162000559382",
-    "tikName": "Казань, Авиастроительная"
+    "tikName": "Казань, Авиастроительная",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 24,
     "uikTvd": "4164022100922",
+    "uikName": "УИК №24",
     "tikTvd": "2162000559382",
-    "tikName": "Казань, Авиастроительная"
+    "tikName": "Казань, Авиастроительная",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 25,
     "uikTvd": "4164022100923",
+    "uikName": "УИК №25",
     "tikTvd": "2162000559382",
-    "tikName": "Казань, Авиастроительная"
+    "tikName": "Казань, Авиастроительная",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 26,
     "uikTvd": "4164022100924",
+    "uikName": "УИК №26",
     "tikTvd": "2162000559382",
-    "tikName": "Казань, Авиастроительная"
+    "tikName": "Казань, Авиастроительная",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 27,
     "uikTvd": "4164022100925",
+    "uikName": "УИК №27",
     "tikTvd": "2162000559382",
-    "tikName": "Казань, Авиастроительная"
+    "tikName": "Казань, Авиастроительная",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 28,
     "uikTvd": "4164022100926",
+    "uikName": "УИК №28",
     "tikTvd": "2162000559382",
-    "tikName": "Казань, Авиастроительная"
+    "tikName": "Казань, Авиастроительная",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 29,
     "uikTvd": "4164022100927",
+    "uikName": "УИК №29",
     "tikTvd": "2162000559382",
-    "tikName": "Казань, Авиастроительная"
+    "tikName": "Казань, Авиастроительная",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 30,
     "uikTvd": "4164022100928",
+    "uikName": "УИК №30",
     "tikTvd": "2162000559382",
-    "tikName": "Казань, Авиастроительная"
+    "tikName": "Казань, Авиастроительная",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 31,
     "uikTvd": "4164022100929",
+    "uikName": "УИК №31",
     "tikTvd": "2162000559382",
-    "tikName": "Казань, Авиастроительная"
+    "tikName": "Казань, Авиастроительная",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 32,
     "uikTvd": "4164022100930",
+    "uikName": "УИК №32",
     "tikTvd": "2162000559382",
-    "tikName": "Казань, Авиастроительная"
+    "tikName": "Казань, Авиастроительная",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 33,
     "uikTvd": "4164022100931",
+    "uikName": "УИК №33",
     "tikTvd": "2162000559382",
-    "tikName": "Казань, Авиастроительная"
+    "tikName": "Казань, Авиастроительная",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 34,
     "uikTvd": "4164022100932",
+    "uikName": "УИК №34",
     "tikTvd": "2162000559382",
-    "tikName": "Казань, Авиастроительная"
+    "tikName": "Казань, Авиастроительная",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 35,
     "uikTvd": "4164022100933",
+    "uikName": "УИК №35",
     "tikTvd": "2162000559382",
-    "tikName": "Казань, Авиастроительная"
+    "tikName": "Казань, Авиастроительная",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 36,
     "uikTvd": "4164022100934",
+    "uikName": "УИК №36",
     "tikTvd": "2162000559382",
-    "tikName": "Казань, Авиастроительная"
+    "tikName": "Казань, Авиастроительная",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 37,
     "uikTvd": "4164022100935",
+    "uikName": "УИК №37",
     "tikTvd": "2162000559382",
-    "tikName": "Казань, Авиастроительная"
+    "tikName": "Казань, Авиастроительная",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 38,
     "uikTvd": "4164022100936",
+    "uikName": "УИК №38",
     "tikTvd": "2162000559382",
-    "tikName": "Казань, Авиастроительная"
+    "tikName": "Казань, Авиастроительная",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 39,
     "uikTvd": "4164022100937",
+    "uikName": "УИК №39",
     "tikTvd": "2162000559382",
-    "tikName": "Казань, Авиастроительная"
+    "tikName": "Казань, Авиастроительная",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 40,
     "uikTvd": "4164022100938",
+    "uikName": "УИК №40",
     "tikTvd": "2162000559382",
-    "tikName": "Казань, Авиастроительная"
+    "tikName": "Казань, Авиастроительная",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 41,
     "uikTvd": "416402197834",
+    "uikName": "УИК №41",
     "tikTvd": "2162000559380",
-    "tikName": "Казань, Вахитовская"
+    "tikName": "Казань, Вахитовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 42,
     "uikTvd": "416402197835",
+    "uikName": "УИК №42",
     "tikTvd": "2162000559380",
-    "tikName": "Казань, Вахитовская"
+    "tikName": "Казань, Вахитовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 43,
     "uikTvd": "416402197836",
+    "uikName": "УИК №43",
     "tikTvd": "2162000559380",
-    "tikName": "Казань, Вахитовская"
+    "tikName": "Казань, Вахитовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 44,
     "uikTvd": "416402197837",
+    "uikName": "УИК №44",
     "tikTvd": "2162000559380",
-    "tikName": "Казань, Вахитовская"
+    "tikName": "Казань, Вахитовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 45,
     "uikTvd": "416402197838",
+    "uikName": "УИК №45",
     "tikTvd": "2162000559380",
-    "tikName": "Казань, Вахитовская"
+    "tikName": "Казань, Вахитовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 46,
     "uikTvd": "416402197839",
+    "uikName": "УИК №46",
     "tikTvd": "2162000559380",
-    "tikName": "Казань, Вахитовская"
+    "tikName": "Казань, Вахитовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 47,
     "uikTvd": "416402197840",
+    "uikName": "УИК №47",
     "tikTvd": "2162000559380",
-    "tikName": "Казань, Вахитовская"
+    "tikName": "Казань, Вахитовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 48,
     "uikTvd": "416402197841",
+    "uikName": "УИК №48",
     "tikTvd": "2162000559380",
-    "tikName": "Казань, Вахитовская"
+    "tikName": "Казань, Вахитовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 49,
     "uikTvd": "416402197842",
+    "uikName": "УИК №49",
     "tikTvd": "2162000559380",
-    "tikName": "Казань, Вахитовская"
+    "tikName": "Казань, Вахитовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 50,
     "uikTvd": "416402197843",
+    "uikName": "УИК №50",
     "tikTvd": "2162000559380",
-    "tikName": "Казань, Вахитовская"
+    "tikName": "Казань, Вахитовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 51,
     "uikTvd": "416402197844",
+    "uikName": "УИК №51",
     "tikTvd": "2162000559380",
-    "tikName": "Казань, Вахитовская"
+    "tikName": "Казань, Вахитовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 52,
     "uikTvd": "416402197845",
+    "uikName": "УИК №52",
     "tikTvd": "2162000559380",
-    "tikName": "Казань, Вахитовская"
+    "tikName": "Казань, Вахитовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 53,
     "uikTvd": "416402197846",
+    "uikName": "УИК №53",
     "tikTvd": "2162000559380",
-    "tikName": "Казань, Вахитовская"
+    "tikName": "Казань, Вахитовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 54,
     "uikTvd": "416402197847",
+    "uikName": "УИК №54",
     "tikTvd": "2162000559380",
-    "tikName": "Казань, Вахитовская"
+    "tikName": "Казань, Вахитовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 55,
     "uikTvd": "416402197848",
+    "uikName": "УИК №55",
     "tikTvd": "2162000559380",
-    "tikName": "Казань, Вахитовская"
+    "tikName": "Казань, Вахитовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 56,
     "uikTvd": "416402197849",
+    "uikName": "УИК №56",
     "tikTvd": "2162000559380",
-    "tikName": "Казань, Вахитовская"
+    "tikName": "Казань, Вахитовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 57,
     "uikTvd": "416402197850",
+    "uikName": "УИК №57",
     "tikTvd": "2162000559380",
-    "tikName": "Казань, Вахитовская"
+    "tikName": "Казань, Вахитовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 58,
     "uikTvd": "416402197851",
+    "uikName": "УИК №58",
     "tikTvd": "2162000559380",
-    "tikName": "Казань, Вахитовская"
+    "tikName": "Казань, Вахитовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 59,
     "uikTvd": "416402197852",
+    "uikName": "УИК №59",
     "tikTvd": "2162000559380",
-    "tikName": "Казань, Вахитовская"
+    "tikName": "Казань, Вахитовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 60,
     "uikTvd": "416402197853",
+    "uikName": "УИК №60",
     "tikTvd": "2162000559380",
-    "tikName": "Казань, Вахитовская"
+    "tikName": "Казань, Вахитовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 61,
     "uikTvd": "416402197854",
+    "uikName": "УИК №61",
     "tikTvd": "2162000559380",
-    "tikName": "Казань, Вахитовская"
+    "tikName": "Казань, Вахитовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 62,
     "uikTvd": "416402197855",
+    "uikName": "УИК №62",
     "tikTvd": "2162000559380",
-    "tikName": "Казань, Вахитовская"
+    "tikName": "Казань, Вахитовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 63,
     "uikTvd": "416402197856",
+    "uikName": "УИК №63",
     "tikTvd": "2162000559380",
-    "tikName": "Казань, Вахитовская"
+    "tikName": "Казань, Вахитовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 64,
     "uikTvd": "416402197857",
+    "uikName": "УИК №64",
     "tikTvd": "2162000559380",
-    "tikName": "Казань, Вахитовская"
+    "tikName": "Казань, Вахитовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 65,
     "uikTvd": "416402197858",
+    "uikName": "УИК №65",
     "tikTvd": "2162000559380",
-    "tikName": "Казань, Вахитовская"
+    "tikName": "Казань, Вахитовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 66,
     "uikTvd": "416402197859",
+    "uikName": "УИК №66",
     "tikTvd": "2162000559380",
-    "tikName": "Казань, Вахитовская"
+    "tikName": "Казань, Вахитовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 67,
     "uikTvd": "416402197860",
+    "uikName": "УИК №67",
     "tikTvd": "2162000559380",
-    "tikName": "Казань, Вахитовская"
+    "tikName": "Казань, Вахитовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 68,
     "uikTvd": "416402197861",
+    "uikName": "УИК №68",
     "tikTvd": "2162000559380",
-    "tikName": "Казань, Вахитовская"
+    "tikName": "Казань, Вахитовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 69,
     "uikTvd": "416402197862",
+    "uikName": "УИК №69",
     "tikTvd": "2162000559380",
-    "tikName": "Казань, Вахитовская"
+    "tikName": "Казань, Вахитовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 70,
     "uikTvd": "416402197863",
+    "uikName": "УИК №70",
     "tikTvd": "2162000559380",
-    "tikName": "Казань, Вахитовская"
+    "tikName": "Казань, Вахитовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 71,
     "uikTvd": "416402197864",
+    "uikName": "УИК №71",
     "tikTvd": "2162000559380",
-    "tikName": "Казань, Вахитовская"
+    "tikName": "Казань, Вахитовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 72,
     "uikTvd": "416402197865",
+    "uikName": "УИК №72",
     "tikTvd": "2162000559380",
-    "tikName": "Казань, Вахитовская"
+    "tikName": "Казань, Вахитовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 73,
     "uikTvd": "416402197866",
+    "uikName": "УИК №73",
     "tikTvd": "2162000559380",
-    "tikName": "Казань, Вахитовская"
+    "tikName": "Казань, Вахитовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 74,
     "uikTvd": "416402197867",
+    "uikName": "УИК №74",
     "tikTvd": "2162000559380",
-    "tikName": "Казань, Вахитовская"
+    "tikName": "Казань, Вахитовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 75,
     "uikTvd": "416402197868",
+    "uikName": "УИК №75",
     "tikTvd": "2162000559380",
-    "tikName": "Казань, Вахитовская"
+    "tikName": "Казань, Вахитовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 76,
     "uikTvd": "416402197869",
+    "uikName": "УИК №76",
     "tikTvd": "2162000559380",
-    "tikName": "Казань, Вахитовская"
+    "tikName": "Казань, Вахитовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 77,
     "uikTvd": "416402197870",
+    "uikName": "УИК №77",
     "tikTvd": "2162000559380",
-    "tikName": "Казань, Вахитовская"
+    "tikName": "Казань, Вахитовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 78,
     "uikTvd": "416402197871",
+    "uikName": "УИК №78",
     "tikTvd": "2162000559380",
-    "tikName": "Казань, Вахитовская"
+    "tikName": "Казань, Вахитовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 79,
     "uikTvd": "416402197872",
+    "uikName": "УИК №79",
     "tikTvd": "2162000559380",
-    "tikName": "Казань, Вахитовская"
+    "tikName": "Казань, Вахитовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 80,
     "uikTvd": "416402197873",
+    "uikName": "УИК №80",
     "tikTvd": "2162000559380",
-    "tikName": "Казань, Вахитовская"
+    "tikName": "Казань, Вахитовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 81,
     "uikTvd": "416402197874",
+    "uikName": "УИК №81",
     "tikTvd": "2162000559380",
-    "tikName": "Казань, Вахитовская"
+    "tikName": "Казань, Вахитовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 82,
     "uikTvd": "416402197875",
+    "uikName": "УИК №82",
     "tikTvd": "2162000559380",
-    "tikName": "Казань, Вахитовская"
+    "tikName": "Казань, Вахитовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 83,
     "uikTvd": "416402197876",
+    "uikName": "УИК №83",
     "tikTvd": "2162000559380",
-    "tikName": "Казань, Вахитовская"
+    "tikName": "Казань, Вахитовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 84,
     "uikTvd": "416402197877",
+    "uikName": "УИК №84",
     "tikTvd": "2162000559380",
-    "tikName": "Казань, Вахитовская"
+    "tikName": "Казань, Вахитовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 85,
     "uikTvd": "416402197878",
+    "uikName": "УИК №85",
     "tikTvd": "2162000559380",
-    "tikName": "Казань, Вахитовская"
+    "tikName": "Казань, Вахитовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 86,
     "uikTvd": "416402197879",
+    "uikName": "УИК №86",
     "tikTvd": "2162000559380",
-    "tikName": "Казань, Вахитовская"
+    "tikName": "Казань, Вахитовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 87,
     "uikTvd": "416402197880",
+    "uikName": "УИК №87",
     "tikTvd": "2162000559380",
-    "tikName": "Казань, Вахитовская"
+    "tikName": "Казань, Вахитовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 88,
     "uikTvd": "416402197881",
+    "uikName": "УИК №88",
     "tikTvd": "2162000559380",
-    "tikName": "Казань, Вахитовская"
+    "tikName": "Казань, Вахитовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 89,
     "uikTvd": "416402399711",
+    "uikName": "УИК №89",
     "tikTvd": "2162000559377",
-    "tikName": "Казань, Кировская"
+    "tikName": "Казань, Кировская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 90,
     "uikTvd": "416402399712",
+    "uikName": "УИК №90",
     "tikTvd": "2162000559377",
-    "tikName": "Казань, Кировская"
+    "tikName": "Казань, Кировская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 91,
     "uikTvd": "416402399713",
+    "uikName": "УИК №91",
     "tikTvd": "2162000559377",
-    "tikName": "Казань, Кировская"
+    "tikName": "Казань, Кировская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 92,
     "uikTvd": "416402399714",
+    "uikName": "УИК №92",
     "tikTvd": "2162000559377",
-    "tikName": "Казань, Кировская"
+    "tikName": "Казань, Кировская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 93,
     "uikTvd": "416402399715",
+    "uikName": "УИК №93",
     "tikTvd": "2162000559377",
-    "tikName": "Казань, Кировская"
+    "tikName": "Казань, Кировская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 94,
     "uikTvd": "416402399716",
+    "uikName": "УИК №94",
     "tikTvd": "2162000559377",
-    "tikName": "Казань, Кировская"
+    "tikName": "Казань, Кировская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 95,
     "uikTvd": "416402399717",
+    "uikName": "УИК №95",
     "tikTvd": "2162000559377",
-    "tikName": "Казань, Кировская"
+    "tikName": "Казань, Кировская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 96,
     "uikTvd": "416402399718",
+    "uikName": "УИК №96",
     "tikTvd": "2162000559377",
-    "tikName": "Казань, Кировская"
+    "tikName": "Казань, Кировская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 97,
     "uikTvd": "416402399719",
+    "uikName": "УИК №97",
     "tikTvd": "2162000559377",
-    "tikName": "Казань, Кировская"
+    "tikName": "Казань, Кировская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 98,
     "uikTvd": "416402399720",
+    "uikName": "УИК №98",
     "tikTvd": "2162000559377",
-    "tikName": "Казань, Кировская"
+    "tikName": "Казань, Кировская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 99,
     "uikTvd": "416402399721",
+    "uikName": "УИК №99",
     "tikTvd": "2162000559377",
-    "tikName": "Казань, Кировская"
+    "tikName": "Казань, Кировская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 100,
     "uikTvd": "416402399722",
+    "uikName": "УИК №100",
     "tikTvd": "2162000559377",
-    "tikName": "Казань, Кировская"
+    "tikName": "Казань, Кировская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 101,
     "uikTvd": "416402399723",
+    "uikName": "УИК №101",
     "tikTvd": "2162000559377",
-    "tikName": "Казань, Кировская"
+    "tikName": "Казань, Кировская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 102,
     "uikTvd": "416402399724",
+    "uikName": "УИК №102",
     "tikTvd": "2162000559377",
-    "tikName": "Казань, Кировская"
+    "tikName": "Казань, Кировская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 103,
     "uikTvd": "416402399725",
+    "uikName": "УИК №103",
     "tikTvd": "2162000559377",
-    "tikName": "Казань, Кировская"
+    "tikName": "Казань, Кировская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 104,
     "uikTvd": "416402399726",
+    "uikName": "УИК №104",
     "tikTvd": "2162000559377",
-    "tikName": "Казань, Кировская"
+    "tikName": "Казань, Кировская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 105,
     "uikTvd": "416402399727",
+    "uikName": "УИК №105",
     "tikTvd": "2162000559377",
-    "tikName": "Казань, Кировская"
+    "tikName": "Казань, Кировская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 106,
     "uikTvd": "416402399728",
+    "uikName": "УИК №106",
     "tikTvd": "2162000559377",
-    "tikName": "Казань, Кировская"
+    "tikName": "Казань, Кировская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 107,
     "uikTvd": "416402399729",
+    "uikName": "УИК №107",
     "tikTvd": "2162000559377",
-    "tikName": "Казань, Кировская"
+    "tikName": "Казань, Кировская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 108,
     "uikTvd": "416402399730",
+    "uikName": "УИК №108",
     "tikTvd": "2162000559377",
-    "tikName": "Казань, Кировская"
+    "tikName": "Казань, Кировская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 109,
     "uikTvd": "416402399731",
+    "uikName": "УИК №109",
     "tikTvd": "2162000559377",
-    "tikName": "Казань, Кировская"
+    "tikName": "Казань, Кировская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 110,
     "uikTvd": "416402399732",
+    "uikName": "УИК №110",
     "tikTvd": "2162000559377",
-    "tikName": "Казань, Кировская"
+    "tikName": "Казань, Кировская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 111,
     "uikTvd": "416402399733",
+    "uikName": "УИК №111",
     "tikTvd": "2162000559377",
-    "tikName": "Казань, Кировская"
+    "tikName": "Казань, Кировская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 112,
     "uikTvd": "416402399734",
+    "uikName": "УИК №112",
     "tikTvd": "2162000559377",
-    "tikName": "Казань, Кировская"
+    "tikName": "Казань, Кировская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 113,
     "uikTvd": "416402399735",
+    "uikName": "УИК №113",
     "tikTvd": "2162000559377",
-    "tikName": "Казань, Кировская"
+    "tikName": "Казань, Кировская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 114,
     "uikTvd": "416402399736",
+    "uikName": "УИК №114",
     "tikTvd": "2162000559377",
-    "tikName": "Казань, Кировская"
+    "tikName": "Казань, Кировская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 115,
     "uikTvd": "416402399737",
+    "uikName": "УИК №115",
     "tikTvd": "2162000559377",
-    "tikName": "Казань, Кировская"
+    "tikName": "Казань, Кировская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 116,
     "uikTvd": "416402399738",
+    "uikName": "УИК №116",
     "tikTvd": "2162000559377",
-    "tikName": "Казань, Кировская"
+    "tikName": "Казань, Кировская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 117,
     "uikTvd": "416402399739",
+    "uikName": "УИК №117",
     "tikTvd": "2162000559377",
-    "tikName": "Казань, Кировская"
+    "tikName": "Казань, Кировская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 118,
     "uikTvd": "416402399740",
+    "uikName": "УИК №118",
     "tikTvd": "2162000559377",
-    "tikName": "Казань, Кировская"
+    "tikName": "Казань, Кировская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 119,
     "uikTvd": "416402399741",
+    "uikName": "УИК №119",
     "tikTvd": "2162000559377",
-    "tikName": "Казань, Кировская"
+    "tikName": "Казань, Кировская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 120,
     "uikTvd": "416402399742",
+    "uikName": "УИК №120",
     "tikTvd": "2162000559377",
-    "tikName": "Казань, Кировская"
+    "tikName": "Казань, Кировская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 121,
     "uikTvd": "416402399743",
+    "uikName": "УИК №121",
     "tikTvd": "2162000559377",
-    "tikName": "Казань, Кировская"
+    "tikName": "Казань, Кировская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 122,
     "uikTvd": "416402399744",
+    "uikName": "УИК №122",
     "tikTvd": "2162000559377",
-    "tikName": "Казань, Кировская"
+    "tikName": "Казань, Кировская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 123,
     "uikTvd": "416402399745",
+    "uikName": "УИК №123",
     "tikTvd": "2162000559377",
-    "tikName": "Казань, Кировская"
+    "tikName": "Казань, Кировская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 124,
     "uikTvd": "416402399746",
+    "uikName": "УИК №124",
     "tikTvd": "2162000559377",
-    "tikName": "Казань, Кировская"
+    "tikName": "Казань, Кировская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 125,
     "uikTvd": "416402399747",
+    "uikName": "УИК №125",
     "tikTvd": "2162000559377",
-    "tikName": "Казань, Кировская"
+    "tikName": "Казань, Кировская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 126,
     "uikTvd": "416402399748",
+    "uikName": "УИК №126",
     "tikTvd": "2162000559377",
-    "tikName": "Казань, Кировская"
+    "tikName": "Казань, Кировская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 127,
     "uikTvd": "416402399749",
+    "uikName": "УИК №127",
     "tikTvd": "2162000559377",
-    "tikName": "Казань, Кировская"
+    "tikName": "Казань, Кировская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 128,
     "uikTvd": "416402399750",
+    "uikName": "УИК №128",
     "tikTvd": "2162000559377",
-    "tikName": "Казань, Кировская"
+    "tikName": "Казань, Кировская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 129,
     "uikTvd": "416402399751",
+    "uikName": "УИК №129",
     "tikTvd": "2162000559377",
-    "tikName": "Казань, Кировская"
+    "tikName": "Казань, Кировская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 130,
     "uikTvd": "416402399752",
+    "uikName": "УИК №130",
     "tikTvd": "2162000559377",
-    "tikName": "Казань, Кировская"
+    "tikName": "Казань, Кировская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 131,
     "uikTvd": "416402399753",
+    "uikName": "УИК №131",
     "tikTvd": "2162000559377",
-    "tikName": "Казань, Кировская"
+    "tikName": "Казань, Кировская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 132,
     "uikTvd": "416402399754",
+    "uikName": "УИК №132",
     "tikTvd": "2162000559377",
-    "tikName": "Казань, Кировская"
+    "tikName": "Казань, Кировская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 133,
     "uikTvd": "416402399755",
+    "uikName": "УИК №133",
     "tikTvd": "2162000559377",
-    "tikName": "Казань, Кировская"
+    "tikName": "Казань, Кировская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 134,
     "uikTvd": "416402399756",
+    "uikName": "УИК №134",
     "tikTvd": "2162000559377",
-    "tikName": "Казань, Кировская"
+    "tikName": "Казань, Кировская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 135,
     "uikTvd": "416402399757",
+    "uikName": "УИК №135",
     "tikTvd": "2162000559377",
-    "tikName": "Казань, Кировская"
+    "tikName": "Казань, Кировская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 136,
     "uikTvd": "416402399758",
+    "uikName": "УИК №136",
     "tikTvd": "2162000559377",
-    "tikName": "Казань, Кировская"
+    "tikName": "Казань, Кировская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 137,
     "uikTvd": "4164024105468",
+    "uikName": "УИК №137",
     "tikTvd": "2162000559376",
-    "tikName": "Казань, Московская"
+    "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 138,
     "uikTvd": "4164024105469",
+    "uikName": "УИК №138",
     "tikTvd": "2162000559376",
-    "tikName": "Казань, Московская"
+    "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 139,
     "uikTvd": "4164024105470",
+    "uikName": "УИК №139",
     "tikTvd": "2162000559376",
-    "tikName": "Казань, Московская"
+    "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 140,
     "uikTvd": "4164024105471",
+    "uikName": "УИК №140",
     "tikTvd": "2162000559376",
-    "tikName": "Казань, Московская"
+    "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 141,
     "uikTvd": "4164024105472",
+    "uikName": "УИК №141",
     "tikTvd": "2162000559376",
-    "tikName": "Казань, Московская"
+    "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 142,
     "uikTvd": "4164024105473",
+    "uikName": "УИК №142",
     "tikTvd": "2162000559376",
-    "tikName": "Казань, Московская"
+    "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 143,
     "uikTvd": "4164024105474",
+    "uikName": "УИК №143",
     "tikTvd": "2162000559376",
-    "tikName": "Казань, Московская"
+    "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 144,
     "uikTvd": "4164024105475",
+    "uikName": "УИК №144",
     "tikTvd": "2162000559376",
-    "tikName": "Казань, Московская"
+    "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 145,
     "uikTvd": "4164024105476",
+    "uikName": "УИК №145",
     "tikTvd": "2162000559376",
-    "tikName": "Казань, Московская"
+    "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 146,
     "uikTvd": "4164024105477",
+    "uikName": "УИК №146",
     "tikTvd": "2162000559376",
-    "tikName": "Казань, Московская"
+    "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 147,
     "uikTvd": "4164024105478",
+    "uikName": "УИК №147",
     "tikTvd": "2162000559376",
-    "tikName": "Казань, Московская"
+    "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 148,
     "uikTvd": "4164024105479",
+    "uikName": "УИК №148",
     "tikTvd": "2162000559376",
-    "tikName": "Казань, Московская"
+    "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 149,
     "uikTvd": "4164024105480",
+    "uikName": "УИК №149",
     "tikTvd": "2162000559376",
-    "tikName": "Казань, Московская"
+    "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 150,
     "uikTvd": "4164024105481",
+    "uikName": "УИК №150",
     "tikTvd": "2162000559376",
-    "tikName": "Казань, Московская"
+    "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 151,
     "uikTvd": "4164024105482",
+    "uikName": "УИК №151",
     "tikTvd": "2162000559376",
-    "tikName": "Казань, Московская"
+    "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 152,
     "uikTvd": "4164024105483",
+    "uikName": "УИК №152",
     "tikTvd": "2162000559376",
-    "tikName": "Казань, Московская"
+    "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 153,
     "uikTvd": "4164024105484",
+    "uikName": "УИК №153",
     "tikTvd": "2162000559376",
-    "tikName": "Казань, Московская"
+    "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 154,
     "uikTvd": "4164024105485",
+    "uikName": "УИК №154",
     "tikTvd": "2162000559376",
-    "tikName": "Казань, Московская"
+    "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 155,
     "uikTvd": "4164024105486",
+    "uikName": "УИК №155",
     "tikTvd": "2162000559376",
-    "tikName": "Казань, Московская"
+    "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 156,
     "uikTvd": "4164024105487",
+    "uikName": "УИК №156",
     "tikTvd": "2162000559376",
-    "tikName": "Казань, Московская"
+    "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 157,
     "uikTvd": "4164024105488",
+    "uikName": "УИК №157",
     "tikTvd": "2162000559376",
-    "tikName": "Казань, Московская"
+    "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 158,
     "uikTvd": "4164024105489",
+    "uikName": "УИК №158",
     "tikTvd": "2162000559376",
-    "tikName": "Казань, Московская"
+    "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 159,
     "uikTvd": "4164024105490",
+    "uikName": "УИК №159",
     "tikTvd": "2162000559376",
-    "tikName": "Казань, Московская"
+    "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 160,
     "uikTvd": "4164024105491",
+    "uikName": "УИК №160",
     "tikTvd": "2162000559376",
-    "tikName": "Казань, Московская"
+    "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 161,
     "uikTvd": "4164024105492",
+    "uikName": "УИК №161",
     "tikTvd": "2162000559376",
-    "tikName": "Казань, Московская"
+    "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 162,
     "uikTvd": "4164024105493",
+    "uikName": "УИК №162",
     "tikTvd": "2162000559376",
-    "tikName": "Казань, Московская"
+    "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 163,
     "uikTvd": "4164024105494",
+    "uikName": "УИК №163",
     "tikTvd": "2162000559376",
-    "tikName": "Казань, Московская"
+    "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 164,
     "uikTvd": "4164024105495",
+    "uikName": "УИК №164",
     "tikTvd": "2162000559376",
-    "tikName": "Казань, Московская"
+    "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 165,
     "uikTvd": "4164024105496",
+    "uikName": "УИК №165",
     "tikTvd": "2162000559376",
-    "tikName": "Казань, Московская"
+    "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 166,
     "uikTvd": "4164024105497",
+    "uikName": "УИК №166",
     "tikTvd": "2162000559376",
-    "tikName": "Казань, Московская"
+    "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 167,
     "uikTvd": "4164024105498",
+    "uikName": "УИК №167",
     "tikTvd": "2162000559376",
-    "tikName": "Казань, Московская"
+    "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 168,
     "uikTvd": "4164024105499",
+    "uikName": "УИК №168",
     "tikTvd": "2162000559376",
-    "tikName": "Казань, Московская"
+    "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 169,
     "uikTvd": "4164024105500",
+    "uikName": "УИК №169",
     "tikTvd": "2162000559376",
-    "tikName": "Казань, Московская"
+    "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 170,
     "uikTvd": "4164024105501",
+    "uikName": "УИК №170",
     "tikTvd": "2162000559376",
-    "tikName": "Казань, Московская"
+    "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 171,
     "uikTvd": "4164024105502",
+    "uikName": "УИК №171",
     "tikTvd": "2162000559376",
-    "tikName": "Казань, Московская"
+    "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 172,
     "uikTvd": "4164024105503",
+    "uikName": "УИК №172",
     "tikTvd": "2162000559376",
-    "tikName": "Казань, Московская"
+    "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 173,
     "uikTvd": "4164024105504",
+    "uikName": "УИК №173",
     "tikTvd": "2162000559376",
-    "tikName": "Казань, Московская"
+    "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 174,
     "uikTvd": "4164024105505",
+    "uikName": "УИК №174",
     "tikTvd": "2162000559376",
-    "tikName": "Казань, Московская"
+    "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 175,
     "uikTvd": "4164024105506",
+    "uikName": "УИК №175",
     "tikTvd": "2162000559376",
-    "tikName": "Казань, Московская"
+    "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 176,
     "uikTvd": "4164024105507",
+    "uikName": "УИК №176",
     "tikTvd": "2162000559376",
-    "tikName": "Казань, Московская"
+    "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 177,
     "uikTvd": "4164024105508",
+    "uikName": "УИК №177",
     "tikTvd": "2162000559376",
-    "tikName": "Казань, Московская"
+    "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 178,
     "uikTvd": "4164024105509",
+    "uikName": "УИК №178",
     "tikTvd": "2162000559376",
-    "tikName": "Казань, Московская"
+    "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 179,
     "uikTvd": "4164024105510",
+    "uikName": "УИК №179",
     "tikTvd": "2162000559376",
-    "tikName": "Казань, Московская"
+    "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 180,
     "uikTvd": "4164024105511",
+    "uikName": "УИК №180",
     "tikTvd": "2162000559376",
-    "tikName": "Казань, Московская"
+    "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 181,
     "uikTvd": "4164024105512",
+    "uikName": "УИК №181",
     "tikTvd": "2162000559376",
-    "tikName": "Казань, Московская"
+    "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 182,
     "uikTvd": "4164024105513",
+    "uikName": "УИК №182",
     "tikTvd": "2162000559376",
-    "tikName": "Казань, Московская"
+    "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 183,
     "uikTvd": "4164024105514",
+    "uikName": "УИК №183",
     "tikTvd": "2162000559376",
-    "tikName": "Казань, Московская"
+    "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 184,
     "uikTvd": "4164024105515",
+    "uikName": "УИК №184",
     "tikTvd": "2162000559376",
-    "tikName": "Казань, Московская"
+    "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 185,
     "uikTvd": "4164024105516",
+    "uikName": "УИК №185",
     "tikTvd": "2162000559376",
-    "tikName": "Казань, Московская"
+    "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 186,
     "uikTvd": "4164024105517",
+    "uikName": "УИК №186",
     "tikTvd": "2162000559376",
-    "tikName": "Казань, Московская"
+    "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 187,
     "uikTvd": "4164024105518",
+    "uikName": "УИК №187",
     "tikTvd": "2162000559376",
-    "tikName": "Казань, Московская"
+    "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 188,
     "uikTvd": "4164025116146",
+    "uikName": "УИК №188",
     "tikTvd": "2162000559375",
-    "tikName": "Казань, Ново-Савиновская"
+    "tikName": "Казань, Ново-Савиновская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 189,
     "uikTvd": "4164025116072",
+    "uikName": "УИК №189",
     "tikTvd": "2162000559375",
-    "tikName": "Казань, Ново-Савиновская"
+    "tikName": "Казань, Ново-Савиновская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 190,
     "uikTvd": "4164025116073",
+    "uikName": "УИК №190",
     "tikTvd": "2162000559375",
-    "tikName": "Казань, Ново-Савиновская"
+    "tikName": "Казань, Ново-Савиновская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 191,
     "uikTvd": "4164025116074",
+    "uikName": "УИК №191",
     "tikTvd": "2162000559375",
-    "tikName": "Казань, Ново-Савиновская"
+    "tikName": "Казань, Ново-Савиновская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 192,
     "uikTvd": "4164025116075",
+    "uikName": "УИК №192",
     "tikTvd": "2162000559375",
-    "tikName": "Казань, Ново-Савиновская"
+    "tikName": "Казань, Ново-Савиновская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 193,
     "uikTvd": "4164025116076",
+    "uikName": "УИК №193",
     "tikTvd": "2162000559375",
-    "tikName": "Казань, Ново-Савиновская"
+    "tikName": "Казань, Ново-Савиновская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 194,
     "uikTvd": "4164025116077",
+    "uikName": "УИК №194",
     "tikTvd": "2162000559375",
-    "tikName": "Казань, Ново-Савиновская"
+    "tikName": "Казань, Ново-Савиновская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 195,
     "uikTvd": "4164025116078",
+    "uikName": "УИК №195",
     "tikTvd": "2162000559375",
-    "tikName": "Казань, Ново-Савиновская"
+    "tikName": "Казань, Ново-Савиновская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 196,
     "uikTvd": "4164025116079",
+    "uikName": "УИК №196",
     "tikTvd": "2162000559375",
-    "tikName": "Казань, Ново-Савиновская"
+    "tikName": "Казань, Ново-Савиновская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 197,
     "uikTvd": "4164025116080",
+    "uikName": "УИК №197",
     "tikTvd": "2162000559375",
-    "tikName": "Казань, Ново-Савиновская"
+    "tikName": "Казань, Ново-Савиновская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 198,
     "uikTvd": "4164025116081",
+    "uikName": "УИК №198",
     "tikTvd": "2162000559375",
-    "tikName": "Казань, Ново-Савиновская"
+    "tikName": "Казань, Ново-Савиновская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 199,
     "uikTvd": "4164025116082",
+    "uikName": "УИК №199",
     "tikTvd": "2162000559375",
-    "tikName": "Казань, Ново-Савиновская"
+    "tikName": "Казань, Ново-Савиновская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 200,
     "uikTvd": "4164025116083",
+    "uikName": "УИК №200",
     "tikTvd": "2162000559375",
-    "tikName": "Казань, Ново-Савиновская"
+    "tikName": "Казань, Ново-Савиновская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 201,
     "uikTvd": "4164025116084",
+    "uikName": "УИК №201",
     "tikTvd": "2162000559375",
-    "tikName": "Казань, Ново-Савиновская"
+    "tikName": "Казань, Ново-Савиновская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 202,
     "uikTvd": "4164025116085",
+    "uikName": "УИК №202",
     "tikTvd": "2162000559375",
-    "tikName": "Казань, Ново-Савиновская"
+    "tikName": "Казань, Ново-Савиновская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 203,
     "uikTvd": "4164025116086",
+    "uikName": "УИК №203",
     "tikTvd": "2162000559375",
-    "tikName": "Казань, Ново-Савиновская"
+    "tikName": "Казань, Ново-Савиновская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 204,
     "uikTvd": "4164025116087",
+    "uikName": "УИК №204",
     "tikTvd": "2162000559375",
-    "tikName": "Казань, Ново-Савиновская"
+    "tikName": "Казань, Ново-Савиновская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 205,
     "uikTvd": "4164025116088",
+    "uikName": "УИК №205",
     "tikTvd": "2162000559375",
-    "tikName": "Казань, Ново-Савиновская"
+    "tikName": "Казань, Ново-Савиновская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 206,
     "uikTvd": "4164025116089",
+    "uikName": "УИК №206",
     "tikTvd": "2162000559375",
-    "tikName": "Казань, Ново-Савиновская"
+    "tikName": "Казань, Ново-Савиновская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 207,
     "uikTvd": "4164025116090",
+    "uikName": "УИК №207",
     "tikTvd": "2162000559375",
-    "tikName": "Казань, Ново-Савиновская"
+    "tikName": "Казань, Ново-Савиновская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 208,
     "uikTvd": "4164025116091",
+    "uikName": "УИК №208",
     "tikTvd": "2162000559375",
-    "tikName": "Казань, Ново-Савиновская"
+    "tikName": "Казань, Ново-Савиновская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 209,
     "uikTvd": "4164025116092",
+    "uikName": "УИК №209",
     "tikTvd": "2162000559375",
-    "tikName": "Казань, Ново-Савиновская"
+    "tikName": "Казань, Ново-Савиновская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 210,
     "uikTvd": "4164025116093",
+    "uikName": "УИК №210",
     "tikTvd": "2162000559375",
-    "tikName": "Казань, Ново-Савиновская"
+    "tikName": "Казань, Ново-Савиновская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 211,
     "uikTvd": "4164025116094",
+    "uikName": "УИК №211",
     "tikTvd": "2162000559375",
-    "tikName": "Казань, Ново-Савиновская"
+    "tikName": "Казань, Ново-Савиновская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 212,
     "uikTvd": "4164025116095",
+    "uikName": "УИК №212",
     "tikTvd": "2162000559375",
-    "tikName": "Казань, Ново-Савиновская"
+    "tikName": "Казань, Ново-Савиновская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 213,
     "uikTvd": "4164025116096",
+    "uikName": "УИК №213",
     "tikTvd": "2162000559375",
-    "tikName": "Казань, Ново-Савиновская"
+    "tikName": "Казань, Ново-Савиновская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 214,
     "uikTvd": "4164025116097",
+    "uikName": "УИК №214",
     "tikTvd": "2162000559375",
-    "tikName": "Казань, Ново-Савиновская"
+    "tikName": "Казань, Ново-Савиновская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 215,
     "uikTvd": "4164025116098",
+    "uikName": "УИК №215",
     "tikTvd": "2162000559375",
-    "tikName": "Казань, Ново-Савиновская"
+    "tikName": "Казань, Ново-Савиновская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 216,
     "uikTvd": "4164025116099",
+    "uikName": "УИК №216",
     "tikTvd": "2162000559375",
-    "tikName": "Казань, Ново-Савиновская"
+    "tikName": "Казань, Ново-Савиновская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 217,
     "uikTvd": "4164025116100",
+    "uikName": "УИК №217",
     "tikTvd": "2162000559375",
-    "tikName": "Казань, Ново-Савиновская"
+    "tikName": "Казань, Ново-Савиновская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 218,
     "uikTvd": "4164025116101",
+    "uikName": "УИК №218",
     "tikTvd": "2162000559375",
-    "tikName": "Казань, Ново-Савиновская"
+    "tikName": "Казань, Ново-Савиновская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 219,
     "uikTvd": "4164025116102",
+    "uikName": "УИК №219",
     "tikTvd": "2162000559375",
-    "tikName": "Казань, Ново-Савиновская"
+    "tikName": "Казань, Ново-Савиновская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 220,
     "uikTvd": "4164025116103",
+    "uikName": "УИК №220",
     "tikTvd": "2162000559375",
-    "tikName": "Казань, Ново-Савиновская"
+    "tikName": "Казань, Ново-Савиновская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 221,
     "uikTvd": "4164025116104",
+    "uikName": "УИК №221",
     "tikTvd": "2162000559375",
-    "tikName": "Казань, Ново-Савиновская"
+    "tikName": "Казань, Ново-Савиновская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 222,
     "uikTvd": "4164025116105",
+    "uikName": "УИК №222",
     "tikTvd": "2162000559375",
-    "tikName": "Казань, Ново-Савиновская"
+    "tikName": "Казань, Ново-Савиновская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 223,
     "uikTvd": "4164025116106",
+    "uikName": "УИК №223",
     "tikTvd": "2162000559375",
-    "tikName": "Казань, Ново-Савиновская"
+    "tikName": "Казань, Ново-Савиновская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 224,
     "uikTvd": "4164025116107",
+    "uikName": "УИК №224",
     "tikTvd": "2162000559375",
-    "tikName": "Казань, Ново-Савиновская"
+    "tikName": "Казань, Ново-Савиновская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 225,
     "uikTvd": "4164025116108",
+    "uikName": "УИК №225",
     "tikTvd": "2162000559375",
-    "tikName": "Казань, Ново-Савиновская"
+    "tikName": "Казань, Ново-Савиновская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 226,
     "uikTvd": "4164025116109",
+    "uikName": "УИК №226",
     "tikTvd": "2162000559375",
-    "tikName": "Казань, Ново-Савиновская"
+    "tikName": "Казань, Ново-Савиновская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 227,
     "uikTvd": "4164025116110",
+    "uikName": "УИК №227",
     "tikTvd": "2162000559375",
-    "tikName": "Казань, Ново-Савиновская"
+    "tikName": "Казань, Ново-Савиновская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 228,
     "uikTvd": "4164025116111",
+    "uikName": "УИК №228",
     "tikTvd": "2162000559375",
-    "tikName": "Казань, Ново-Савиновская"
+    "tikName": "Казань, Ново-Савиновская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 229,
     "uikTvd": "4164025116112",
+    "uikName": "УИК №229",
     "tikTvd": "2162000559375",
-    "tikName": "Казань, Ново-Савиновская"
+    "tikName": "Казань, Ново-Савиновская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 230,
     "uikTvd": "4164025116113",
+    "uikName": "УИК №230",
     "tikTvd": "2162000559375",
-    "tikName": "Казань, Ново-Савиновская"
+    "tikName": "Казань, Ново-Савиновская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 231,
     "uikTvd": "4164025116114",
+    "uikName": "УИК №231",
     "tikTvd": "2162000559375",
-    "tikName": "Казань, Ново-Савиновская"
+    "tikName": "Казань, Ново-Савиновская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 232,
     "uikTvd": "4164025116115",
+    "uikName": "УИК №232",
     "tikTvd": "2162000559375",
-    "tikName": "Казань, Ново-Савиновская"
+    "tikName": "Казань, Ново-Савиновская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 233,
     "uikTvd": "4164025116116",
+    "uikName": "УИК №233",
     "tikTvd": "2162000559375",
-    "tikName": "Казань, Ново-Савиновская"
+    "tikName": "Казань, Ново-Савиновская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 234,
     "uikTvd": "4164025116117",
+    "uikName": "УИК №234",
     "tikTvd": "2162000559375",
-    "tikName": "Казань, Ново-Савиновская"
+    "tikName": "Казань, Ново-Савиновская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 235,
     "uikTvd": "4164025116118",
+    "uikName": "УИК №235",
     "tikTvd": "2162000559375",
-    "tikName": "Казань, Ново-Савиновская"
+    "tikName": "Казань, Ново-Савиновская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 236,
     "uikTvd": "4164025116119",
+    "uikName": "УИК №236",
     "tikTvd": "2162000559375",
-    "tikName": "Казань, Ново-Савиновская"
+    "tikName": "Казань, Ново-Савиновская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 237,
     "uikTvd": "4164025116120",
+    "uikName": "УИК №237",
     "tikTvd": "2162000559375",
-    "tikName": "Казань, Ново-Савиновская"
+    "tikName": "Казань, Ново-Савиновская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 238,
     "uikTvd": "4164025116121",
+    "uikName": "УИК №238",
     "tikTvd": "2162000559375",
-    "tikName": "Казань, Ново-Савиновская"
+    "tikName": "Казань, Ново-Савиновская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 239,
     "uikTvd": "4164025116122",
+    "uikName": "УИК №239",
     "tikTvd": "2162000559375",
-    "tikName": "Казань, Ново-Савиновская"
+    "tikName": "Казань, Ново-Савиновская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 240,
     "uikTvd": "4164025116123",
+    "uikName": "УИК №240",
     "tikTvd": "2162000559375",
-    "tikName": "Казань, Ново-Савиновская"
+    "tikName": "Казань, Ново-Савиновская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 241,
     "uikTvd": "4164025116124",
+    "uikName": "УИК №241",
     "tikTvd": "2162000559375",
-    "tikName": "Казань, Ново-Савиновская"
+    "tikName": "Казань, Ново-Савиновская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 242,
     "uikTvd": "4164025116125",
+    "uikName": "УИК №242",
     "tikTvd": "2162000559375",
-    "tikName": "Казань, Ново-Савиновская"
+    "tikName": "Казань, Ново-Савиновская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 243,
     "uikTvd": "4164025116126",
+    "uikName": "УИК №243",
     "tikTvd": "2162000559375",
-    "tikName": "Казань, Ново-Савиновская"
+    "tikName": "Казань, Ново-Савиновская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 244,
     "uikTvd": "4164025116127",
+    "uikName": "УИК №244",
     "tikTvd": "2162000559375",
-    "tikName": "Казань, Ново-Савиновская"
+    "tikName": "Казань, Ново-Савиновская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 245,
     "uikTvd": "4164025116128",
+    "uikName": "УИК №245",
     "tikTvd": "2162000559375",
-    "tikName": "Казань, Ново-Савиновская"
+    "tikName": "Казань, Ново-Савиновская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 246,
     "uikTvd": "4164025116129",
+    "uikName": "УИК №246",
     "tikTvd": "2162000559375",
-    "tikName": "Казань, Ново-Савиновская"
+    "tikName": "Казань, Ново-Савиновская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 247,
     "uikTvd": "4164025116130",
+    "uikName": "УИК №247",
     "tikTvd": "2162000559375",
-    "tikName": "Казань, Ново-Савиновская"
+    "tikName": "Казань, Ново-Савиновская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 248,
     "uikTvd": "4164025116131",
+    "uikName": "УИК №248",
     "tikTvd": "2162000559375",
-    "tikName": "Казань, Ново-Савиновская"
+    "tikName": "Казань, Ново-Савиновская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 249,
     "uikTvd": "4164025116132",
+    "uikName": "УИК №249",
     "tikTvd": "2162000559375",
-    "tikName": "Казань, Ново-Савиновская"
+    "tikName": "Казань, Ново-Савиновская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 250,
     "uikTvd": "4164025116133",
+    "uikName": "УИК №250",
     "tikTvd": "2162000559375",
-    "tikName": "Казань, Ново-Савиновская"
+    "tikName": "Казань, Ново-Савиновская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 251,
     "uikTvd": "4164025116134",
+    "uikName": "УИК №251",
     "tikTvd": "2162000559375",
-    "tikName": "Казань, Ново-Савиновская"
+    "tikName": "Казань, Ново-Савиновская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 252,
     "uikTvd": "4164025116135",
+    "uikName": "УИК №252",
     "tikTvd": "2162000559375",
-    "tikName": "Казань, Ново-Савиновская"
+    "tikName": "Казань, Ново-Савиновская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 253,
     "uikTvd": "4164025116136",
+    "uikName": "УИК №253",
     "tikTvd": "2162000559375",
-    "tikName": "Казань, Ново-Савиновская"
+    "tikName": "Казань, Ново-Савиновская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 254,
     "uikTvd": "4164025116137",
+    "uikName": "УИК №254",
     "tikTvd": "2162000559375",
-    "tikName": "Казань, Ново-Савиновская"
+    "tikName": "Казань, Ново-Савиновская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 255,
     "uikTvd": "4164025116138",
+    "uikName": "УИК №255",
     "tikTvd": "2162000559375",
-    "tikName": "Казань, Ново-Савиновская"
+    "tikName": "Казань, Ново-Савиновская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 256,
     "uikTvd": "4164025116139",
+    "uikName": "УИК №256",
     "tikTvd": "2162000559375",
-    "tikName": "Казань, Ново-Савиновская"
+    "tikName": "Казань, Ново-Савиновская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 257,
     "uikTvd": "4164025116140",
+    "uikName": "УИК №257",
     "tikTvd": "2162000559375",
-    "tikName": "Казань, Ново-Савиновская"
+    "tikName": "Казань, Ново-Савиновская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 258,
     "uikTvd": "4164025116141",
+    "uikName": "УИК №258",
     "tikTvd": "2162000559375",
-    "tikName": "Казань, Ново-Савиновская"
+    "tikName": "Казань, Ново-Савиновская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 259,
     "uikTvd": "4164025116142",
+    "uikName": "УИК №259",
     "tikTvd": "2162000559375",
-    "tikName": "Казань, Ново-Савиновская"
+    "tikName": "Казань, Ново-Савиновская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 260,
     "uikTvd": "4164025116143",
+    "uikName": "УИК №260",
     "tikTvd": "2162000559375",
-    "tikName": "Казань, Ново-Савиновская"
+    "tikName": "Казань, Ново-Савиновская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 261,
     "uikTvd": "4164025116144",
+    "uikName": "УИК №261",
     "tikTvd": "2162000559375",
-    "tikName": "Казань, Ново-Савиновская"
+    "tikName": "Казань, Ново-Савиновская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 262,
     "uikTvd": "4164026125679",
+    "uikName": "УИК №262",
     "tikTvd": "2162000559378",
-    "tikName": "Казань, Приволжская"
+    "tikName": "Казань, Приволжская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 263,
     "uikTvd": "4164026125593",
+    "uikName": "УИК №263",
     "tikTvd": "2162000559378",
-    "tikName": "Казань, Приволжская"
+    "tikName": "Казань, Приволжская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 264,
     "uikTvd": "4164026125594",
+    "uikName": "УИК №264",
     "tikTvd": "2162000559378",
-    "tikName": "Казань, Приволжская"
+    "tikName": "Казань, Приволжская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 265,
     "uikTvd": "4164026125595",
+    "uikName": "УИК №265",
     "tikTvd": "2162000559378",
-    "tikName": "Казань, Приволжская"
+    "tikName": "Казань, Приволжская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 266,
     "uikTvd": "4164026125596",
+    "uikName": "УИК №266",
     "tikTvd": "2162000559378",
-    "tikName": "Казань, Приволжская"
+    "tikName": "Казань, Приволжская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 267,
     "uikTvd": "4164026125597",
+    "uikName": "УИК №267",
     "tikTvd": "2162000559378",
-    "tikName": "Казань, Приволжская"
+    "tikName": "Казань, Приволжская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 268,
     "uikTvd": "4164026125598",
+    "uikName": "УИК №268",
     "tikTvd": "2162000559378",
-    "tikName": "Казань, Приволжская"
+    "tikName": "Казань, Приволжская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 269,
     "uikTvd": "4164026125599",
+    "uikName": "УИК №269",
     "tikTvd": "2162000559378",
-    "tikName": "Казань, Приволжская"
+    "tikName": "Казань, Приволжская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 270,
     "uikTvd": "4164026125600",
+    "uikName": "УИК №270",
     "tikTvd": "2162000559378",
-    "tikName": "Казань, Приволжская"
+    "tikName": "Казань, Приволжская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 271,
     "uikTvd": "4164026125601",
+    "uikName": "УИК №271",
     "tikTvd": "2162000559378",
-    "tikName": "Казань, Приволжская"
+    "tikName": "Казань, Приволжская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 272,
     "uikTvd": "4164026125602",
+    "uikName": "УИК №272",
     "tikTvd": "2162000559378",
-    "tikName": "Казань, Приволжская"
+    "tikName": "Казань, Приволжская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 273,
     "uikTvd": "4164026125603",
+    "uikName": "УИК №273",
     "tikTvd": "2162000559378",
-    "tikName": "Казань, Приволжская"
+    "tikName": "Казань, Приволжская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 274,
     "uikTvd": "4164026125604",
+    "uikName": "УИК №274",
     "tikTvd": "2162000559378",
-    "tikName": "Казань, Приволжская"
+    "tikName": "Казань, Приволжская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 275,
     "uikTvd": "4164026125605",
+    "uikName": "УИК №275",
     "tikTvd": "2162000559378",
-    "tikName": "Казань, Приволжская"
+    "tikName": "Казань, Приволжская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 276,
     "uikTvd": "4164026125606",
+    "uikName": "УИК №276",
     "tikTvd": "2162000559378",
-    "tikName": "Казань, Приволжская"
+    "tikName": "Казань, Приволжская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 277,
     "uikTvd": "4164026125607",
+    "uikName": "УИК №277",
     "tikTvd": "2162000559378",
-    "tikName": "Казань, Приволжская"
+    "tikName": "Казань, Приволжская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 278,
     "uikTvd": "4164026125608",
+    "uikName": "УИК №278",
     "tikTvd": "2162000559378",
-    "tikName": "Казань, Приволжская"
+    "tikName": "Казань, Приволжская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 279,
     "uikTvd": "4164026125609",
+    "uikName": "УИК №279",
     "tikTvd": "2162000559378",
-    "tikName": "Казань, Приволжская"
+    "tikName": "Казань, Приволжская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 280,
     "uikTvd": "4164026125610",
+    "uikName": "УИК №280",
     "tikTvd": "2162000559378",
-    "tikName": "Казань, Приволжская"
+    "tikName": "Казань, Приволжская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 281,
     "uikTvd": "4164026125611",
+    "uikName": "УИК №281",
     "tikTvd": "2162000559378",
-    "tikName": "Казань, Приволжская"
+    "tikName": "Казань, Приволжская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 282,
     "uikTvd": "4164026125612",
+    "uikName": "УИК №282",
     "tikTvd": "2162000559378",
-    "tikName": "Казань, Приволжская"
+    "tikName": "Казань, Приволжская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 283,
     "uikTvd": "4164026125613",
+    "uikName": "УИК №283",
     "tikTvd": "2162000559378",
-    "tikName": "Казань, Приволжская"
+    "tikName": "Казань, Приволжская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 284,
     "uikTvd": "4164026125614",
+    "uikName": "УИК №284",
     "tikTvd": "2162000559378",
-    "tikName": "Казань, Приволжская"
+    "tikName": "Казань, Приволжская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 285,
     "uikTvd": "4164026125615",
+    "uikName": "УИК №285",
     "tikTvd": "2162000559378",
-    "tikName": "Казань, Приволжская"
+    "tikName": "Казань, Приволжская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 286,
     "uikTvd": "4164026125616",
+    "uikName": "УИК №286",
     "tikTvd": "2162000559378",
-    "tikName": "Казань, Приволжская"
+    "tikName": "Казань, Приволжская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 287,
     "uikTvd": "4164026125617",
+    "uikName": "УИК №287",
     "tikTvd": "2162000559378",
-    "tikName": "Казань, Приволжская"
+    "tikName": "Казань, Приволжская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 288,
     "uikTvd": "4164026125618",
+    "uikName": "УИК №288",
     "tikTvd": "2162000559378",
-    "tikName": "Казань, Приволжская"
+    "tikName": "Казань, Приволжская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 289,
     "uikTvd": "4164026125619",
+    "uikName": "УИК №289",
     "tikTvd": "2162000559378",
-    "tikName": "Казань, Приволжская"
+    "tikName": "Казань, Приволжская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 290,
     "uikTvd": "4164026125620",
+    "uikName": "УИК №290",
     "tikTvd": "2162000559378",
-    "tikName": "Казань, Приволжская"
+    "tikName": "Казань, Приволжская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 291,
     "uikTvd": "4164026125621",
+    "uikName": "УИК №291",
     "tikTvd": "2162000559378",
-    "tikName": "Казань, Приволжская"
+    "tikName": "Казань, Приволжская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 292,
     "uikTvd": "4164026125622",
+    "uikName": "УИК №292",
     "tikTvd": "2162000559378",
-    "tikName": "Казань, Приволжская"
+    "tikName": "Казань, Приволжская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 293,
     "uikTvd": "4164026125623",
+    "uikName": "УИК №293",
     "tikTvd": "2162000559378",
-    "tikName": "Казань, Приволжская"
+    "tikName": "Казань, Приволжская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 294,
     "uikTvd": "4164026125624",
+    "uikName": "УИК №294",
     "tikTvd": "2162000559378",
-    "tikName": "Казань, Приволжская"
+    "tikName": "Казань, Приволжская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 295,
     "uikTvd": "4164026125625",
+    "uikName": "УИК №295",
     "tikTvd": "2162000559378",
-    "tikName": "Казань, Приволжская"
+    "tikName": "Казань, Приволжская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 296,
     "uikTvd": "4164026125626",
+    "uikName": "УИК №296",
     "tikTvd": "2162000559378",
-    "tikName": "Казань, Приволжская"
+    "tikName": "Казань, Приволжская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 297,
     "uikTvd": "4164026125627",
+    "uikName": "УИК №297",
     "tikTvd": "2162000559378",
-    "tikName": "Казань, Приволжская"
+    "tikName": "Казань, Приволжская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 298,
     "uikTvd": "4164026125628",
+    "uikName": "УИК №298",
     "tikTvd": "2162000559378",
-    "tikName": "Казань, Приволжская"
+    "tikName": "Казань, Приволжская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 299,
     "uikTvd": "4164026125629",
+    "uikName": "УИК №299",
     "tikTvd": "2162000559378",
-    "tikName": "Казань, Приволжская"
+    "tikName": "Казань, Приволжская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 300,
     "uikTvd": "4164026125630",
+    "uikName": "УИК №300",
     "tikTvd": "2162000559378",
-    "tikName": "Казань, Приволжская"
+    "tikName": "Казань, Приволжская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 301,
     "uikTvd": "4164026125631",
+    "uikName": "УИК №301",
     "tikTvd": "2162000559378",
-    "tikName": "Казань, Приволжская"
+    "tikName": "Казань, Приволжская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 302,
     "uikTvd": "4164026125632",
+    "uikName": "УИК №302",
     "tikTvd": "2162000559378",
-    "tikName": "Казань, Приволжская"
+    "tikName": "Казань, Приволжская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 303,
     "uikTvd": "4164026125633",
+    "uikName": "УИК №303",
     "tikTvd": "2162000559378",
-    "tikName": "Казань, Приволжская"
+    "tikName": "Казань, Приволжская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 304,
     "uikTvd": "4164026125634",
+    "uikName": "УИК №304",
     "tikTvd": "2162000559378",
-    "tikName": "Казань, Приволжская"
+    "tikName": "Казань, Приволжская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 305,
     "uikTvd": "4164026125635",
+    "uikName": "УИК №305",
     "tikTvd": "2162000559378",
-    "tikName": "Казань, Приволжская"
+    "tikName": "Казань, Приволжская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 306,
     "uikTvd": "4164026125636",
+    "uikName": "УИК №306",
     "tikTvd": "2162000559378",
-    "tikName": "Казань, Приволжская"
+    "tikName": "Казань, Приволжская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 307,
     "uikTvd": "4164026125637",
+    "uikName": "УИК №307",
     "tikTvd": "2162000559378",
-    "tikName": "Казань, Приволжская"
+    "tikName": "Казань, Приволжская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 308,
     "uikTvd": "4164026125638",
+    "uikName": "УИК №308",
     "tikTvd": "2162000559378",
-    "tikName": "Казань, Приволжская"
+    "tikName": "Казань, Приволжская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 309,
     "uikTvd": "4164026125639",
+    "uikName": "УИК №309",
     "tikTvd": "2162000559378",
-    "tikName": "Казань, Приволжская"
+    "tikName": "Казань, Приволжская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 310,
     "uikTvd": "4164026125640",
+    "uikName": "УИК №310",
     "tikTvd": "2162000559378",
-    "tikName": "Казань, Приволжская"
+    "tikName": "Казань, Приволжская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 311,
     "uikTvd": "4164026125641",
+    "uikName": "УИК №311",
     "tikTvd": "2162000559378",
-    "tikName": "Казань, Приволжская"
+    "tikName": "Казань, Приволжская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 312,
     "uikTvd": "4164026125642",
+    "uikName": "УИК №312",
     "tikTvd": "2162000559378",
-    "tikName": "Казань, Приволжская"
+    "tikName": "Казань, Приволжская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 313,
     "uikTvd": "4164026125643",
+    "uikName": "УИК №313",
     "tikTvd": "2162000559378",
-    "tikName": "Казань, Приволжская"
+    "tikName": "Казань, Приволжская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 314,
     "uikTvd": "4164026125644",
+    "uikName": "УИК №314",
     "tikTvd": "2162000559378",
-    "tikName": "Казань, Приволжская"
+    "tikName": "Казань, Приволжская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 315,
     "uikTvd": "4164026125645",
+    "uikName": "УИК №315",
     "tikTvd": "2162000559378",
-    "tikName": "Казань, Приволжская"
+    "tikName": "Казань, Приволжская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 316,
     "uikTvd": "4164026125646",
+    "uikName": "УИК №316",
     "tikTvd": "2162000559378",
-    "tikName": "Казань, Приволжская"
+    "tikName": "Казань, Приволжская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 317,
     "uikTvd": "4164026125647",
+    "uikName": "УИК №317",
     "tikTvd": "2162000559378",
-    "tikName": "Казань, Приволжская"
+    "tikName": "Казань, Приволжская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 318,
     "uikTvd": "4164026125648",
+    "uikName": "УИК №318",
     "tikTvd": "2162000559378",
-    "tikName": "Казань, Приволжская"
+    "tikName": "Казань, Приволжская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 319,
     "uikTvd": "4164026125649",
+    "uikName": "УИК №319",
     "tikTvd": "2162000559378",
-    "tikName": "Казань, Приволжская"
+    "tikName": "Казань, Приволжская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 320,
     "uikTvd": "4164026125650",
+    "uikName": "УИК №320",
     "tikTvd": "2162000559378",
-    "tikName": "Казань, Приволжская"
+    "tikName": "Казань, Приволжская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 321,
     "uikTvd": "4164026125651",
+    "uikName": "УИК №321",
     "tikTvd": "2162000559378",
-    "tikName": "Казань, Приволжская"
+    "tikName": "Казань, Приволжская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 322,
     "uikTvd": "4164026125652",
+    "uikName": "УИК №322",
     "tikTvd": "2162000559378",
-    "tikName": "Казань, Приволжская"
+    "tikName": "Казань, Приволжская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 323,
     "uikTvd": "4164026125653",
+    "uikName": "УИК №323",
     "tikTvd": "2162000559378",
-    "tikName": "Казань, Приволжская"
+    "tikName": "Казань, Приволжская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 324,
     "uikTvd": "4164026125654",
+    "uikName": "УИК №324",
     "tikTvd": "2162000559378",
-    "tikName": "Казань, Приволжская"
+    "tikName": "Казань, Приволжская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 325,
     "uikTvd": "4164026125655",
+    "uikName": "УИК №325",
     "tikTvd": "2162000559378",
-    "tikName": "Казань, Приволжская"
+    "tikName": "Казань, Приволжская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 326,
     "uikTvd": "4164026125656",
+    "uikName": "УИК №326",
     "tikTvd": "2162000559378",
-    "tikName": "Казань, Приволжская"
+    "tikName": "Казань, Приволжская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 327,
     "uikTvd": "4164026125657",
+    "uikName": "УИК №327",
     "tikTvd": "2162000559378",
-    "tikName": "Казань, Приволжская"
+    "tikName": "Казань, Приволжская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 328,
     "uikTvd": "4164026125658",
+    "uikName": "УИК №328",
     "tikTvd": "2162000559378",
-    "tikName": "Казань, Приволжская"
+    "tikName": "Казань, Приволжская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 329,
     "uikTvd": "4164026125659",
+    "uikName": "УИК №329",
     "tikTvd": "2162000559378",
-    "tikName": "Казань, Приволжская"
+    "tikName": "Казань, Приволжская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 330,
     "uikTvd": "4164026125660",
+    "uikName": "УИК №330",
     "tikTvd": "2162000559378",
-    "tikName": "Казань, Приволжская"
+    "tikName": "Казань, Приволжская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 331,
     "uikTvd": "4164026125661",
+    "uikName": "УИК №331",
     "tikTvd": "2162000559378",
-    "tikName": "Казань, Приволжская"
+    "tikName": "Казань, Приволжская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 332,
     "uikTvd": "4164026125662",
+    "uikName": "УИК №332",
     "tikTvd": "2162000559378",
-    "tikName": "Казань, Приволжская"
+    "tikName": "Казань, Приволжская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 333,
     "uikTvd": "4164026125663",
+    "uikName": "УИК №333",
     "tikTvd": "2162000559378",
-    "tikName": "Казань, Приволжская"
+    "tikName": "Казань, Приволжская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 334,
     "uikTvd": "4164026125664",
+    "uikName": "УИК №334",
     "tikTvd": "2162000559378",
-    "tikName": "Казань, Приволжская"
+    "tikName": "Казань, Приволжская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 335,
     "uikTvd": "4164026125665",
+    "uikName": "УИК №335",
     "tikTvd": "2162000559378",
-    "tikName": "Казань, Приволжская"
+    "tikName": "Казань, Приволжская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 336,
     "uikTvd": "4164026125666",
+    "uikName": "УИК №336",
     "tikTvd": "2162000559378",
-    "tikName": "Казань, Приволжская"
+    "tikName": "Казань, Приволжская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 337,
     "uikTvd": "4164026125667",
+    "uikName": "УИК №337",
     "tikTvd": "2162000559378",
-    "tikName": "Казань, Приволжская"
+    "tikName": "Казань, Приволжская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 338,
     "uikTvd": "4164026125668",
+    "uikName": "УИК №338",
     "tikTvd": "2162000559378",
-    "tikName": "Казань, Приволжская"
+    "tikName": "Казань, Приволжская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 339,
     "uikTvd": "4164026125669",
+    "uikName": "УИК №339",
     "tikTvd": "2162000559378",
-    "tikName": "Казань, Приволжская"
+    "tikName": "Казань, Приволжская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 340,
     "uikTvd": "4164026125670",
+    "uikName": "УИК №340",
     "tikTvd": "2162000559378",
-    "tikName": "Казань, Приволжская"
+    "tikName": "Казань, Приволжская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 341,
     "uikTvd": "4164026125671",
+    "uikName": "УИК №341",
     "tikTvd": "2162000559378",
-    "tikName": "Казань, Приволжская"
+    "tikName": "Казань, Приволжская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 342,
     "uikTvd": "4164026125672",
+    "uikName": "УИК №342",
     "tikTvd": "2162000559378",
-    "tikName": "Казань, Приволжская"
+    "tikName": "Казань, Приволжская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 343,
     "uikTvd": "4164026125673",
+    "uikName": "УИК №343",
     "tikTvd": "2162000559378",
-    "tikName": "Казань, Приволжская"
+    "tikName": "Казань, Приволжская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 344,
     "uikTvd": "4164026125674",
+    "uikName": "УИК №344",
     "tikTvd": "2162000559378",
-    "tikName": "Казань, Приволжская"
+    "tikName": "Казань, Приволжская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 345,
     "uikTvd": "4164026125675",
+    "uikName": "УИК №345",
     "tikTvd": "2162000559378",
-    "tikName": "Казань, Приволжская"
+    "tikName": "Казань, Приволжская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 346,
     "uikTvd": "4164026125676",
+    "uikName": "УИК №346",
     "tikTvd": "2162000559378",
-    "tikName": "Казань, Приволжская"
+    "tikName": "Казань, Приволжская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 347,
     "uikTvd": "4164026125677",
+    "uikName": "УИК №347",
     "tikTvd": "2162000559378",
-    "tikName": "Казань, Приволжская"
+    "tikName": "Казань, Приволжская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 348,
     "uikTvd": "4164026125678",
+    "uikName": "УИК №348",
     "tikTvd": "2162000559378",
-    "tikName": "Казань, Приволжская"
+    "tikName": "Казань, Приволжская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 349,
     "uikTvd": "4164027116935",
+    "uikName": "УИК №349",
     "tikTvd": "2162000559373",
-    "tikName": "Казань, Советская"
+    "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 350,
     "uikTvd": "4164027116936",
+    "uikName": "УИК №350",
     "tikTvd": "2162000559373",
-    "tikName": "Казань, Советская"
+    "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 351,
     "uikTvd": "4164027116937",
+    "uikName": "УИК №351",
     "tikTvd": "2162000559373",
-    "tikName": "Казань, Советская"
+    "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 352,
     "uikTvd": "4164027116938",
+    "uikName": "УИК №352",
     "tikTvd": "2162000559373",
-    "tikName": "Казань, Советская"
+    "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 353,
     "uikTvd": "4164027116939",
+    "uikName": "УИК №353",
     "tikTvd": "2162000559373",
-    "tikName": "Казань, Советская"
+    "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 354,
     "uikTvd": "4164027116940",
+    "uikName": "УИК №354",
     "tikTvd": "2162000559373",
-    "tikName": "Казань, Советская"
+    "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 355,
     "uikTvd": "4164027116941",
+    "uikName": "УИК №355",
     "tikTvd": "2162000559373",
-    "tikName": "Казань, Советская"
+    "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 356,
     "uikTvd": "4164027116942",
+    "uikName": "УИК №356",
     "tikTvd": "2162000559373",
-    "tikName": "Казань, Советская"
+    "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 357,
     "uikTvd": "4164027116943",
+    "uikName": "УИК №357",
     "tikTvd": "2162000559373",
-    "tikName": "Казань, Советская"
+    "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 358,
     "uikTvd": "4164027116944",
+    "uikName": "УИК №358",
     "tikTvd": "2162000559373",
-    "tikName": "Казань, Советская"
+    "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 359,
     "uikTvd": "4164027116945",
+    "uikName": "УИК №359",
     "tikTvd": "2162000559373",
-    "tikName": "Казань, Советская"
+    "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 360,
     "uikTvd": "4164027116946",
+    "uikName": "УИК №360",
     "tikTvd": "2162000559373",
-    "tikName": "Казань, Советская"
+    "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 361,
     "uikTvd": "4164027116947",
+    "uikName": "УИК №361",
     "tikTvd": "2162000559373",
-    "tikName": "Казань, Советская"
+    "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 362,
     "uikTvd": "4164027116948",
+    "uikName": "УИК №362",
     "tikTvd": "2162000559373",
-    "tikName": "Казань, Советская"
+    "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 363,
     "uikTvd": "4164027116949",
+    "uikName": "УИК №363",
     "tikTvd": "2162000559373",
-    "tikName": "Казань, Советская"
+    "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 364,
     "uikTvd": "4164027116950",
+    "uikName": "УИК №364",
     "tikTvd": "2162000559373",
-    "tikName": "Казань, Советская"
+    "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 365,
     "uikTvd": "4164027116951",
+    "uikName": "УИК №365",
     "tikTvd": "2162000559373",
-    "tikName": "Казань, Советская"
+    "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 366,
     "uikTvd": "4164027116952",
+    "uikName": "УИК №366",
     "tikTvd": "2162000559373",
-    "tikName": "Казань, Советская"
+    "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 367,
     "uikTvd": "4164027116953",
+    "uikName": "УИК №367",
     "tikTvd": "2162000559373",
-    "tikName": "Казань, Советская"
+    "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 368,
     "uikTvd": "4164027116954",
+    "uikName": "УИК №368",
     "tikTvd": "2162000559373",
-    "tikName": "Казань, Советская"
+    "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 369,
     "uikTvd": "4164027116955",
+    "uikName": "УИК №369",
     "tikTvd": "2162000559373",
-    "tikName": "Казань, Советская"
+    "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 370,
     "uikTvd": "4164027116956",
+    "uikName": "УИК №370",
     "tikTvd": "2162000559373",
-    "tikName": "Казань, Советская"
+    "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 371,
     "uikTvd": "4164027116957",
+    "uikName": "УИК №371",
     "tikTvd": "2162000559373",
-    "tikName": "Казань, Советская"
+    "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 372,
     "uikTvd": "4164027116958",
+    "uikName": "УИК №372",
     "tikTvd": "2162000559373",
-    "tikName": "Казань, Советская"
+    "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 373,
     "uikTvd": "4164027116959",
+    "uikName": "УИК №373",
     "tikTvd": "2162000559373",
-    "tikName": "Казань, Советская"
+    "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 374,
     "uikTvd": "4164027116960",
+    "uikName": "УИК №374",
     "tikTvd": "2162000559373",
-    "tikName": "Казань, Советская"
+    "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 375,
     "uikTvd": "4164027116961",
+    "uikName": "УИК №375",
     "tikTvd": "2162000559373",
-    "tikName": "Казань, Советская"
+    "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 376,
     "uikTvd": "4164027116962",
+    "uikName": "УИК №376",
     "tikTvd": "2162000559373",
-    "tikName": "Казань, Советская"
+    "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 377,
     "uikTvd": "4164027116963",
+    "uikName": "УИК №377",
     "tikTvd": "2162000559373",
-    "tikName": "Казань, Советская"
+    "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 378,
     "uikTvd": "4164027116964",
+    "uikName": "УИК №378",
     "tikTvd": "2162000559373",
-    "tikName": "Казань, Советская"
+    "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 379,
     "uikTvd": "4164027116965",
+    "uikName": "УИК №379",
     "tikTvd": "2162000559373",
-    "tikName": "Казань, Советская"
+    "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 380,
     "uikTvd": "4164027116966",
+    "uikName": "УИК №380",
     "tikTvd": "2162000559373",
-    "tikName": "Казань, Советская"
+    "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 381,
     "uikTvd": "4164027116967",
+    "uikName": "УИК №381",
     "tikTvd": "2162000559373",
-    "tikName": "Казань, Советская"
+    "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 382,
     "uikTvd": "4164027116968",
+    "uikName": "УИК №382",
     "tikTvd": "2162000559373",
-    "tikName": "Казань, Советская"
+    "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 383,
     "uikTvd": "4164027116969",
+    "uikName": "УИК №383",
     "tikTvd": "2162000559373",
-    "tikName": "Казань, Советская"
+    "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 384,
     "uikTvd": "4164027116970",
+    "uikName": "УИК №384",
     "tikTvd": "2162000559373",
-    "tikName": "Казань, Советская"
+    "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 385,
     "uikTvd": "4164027116971",
+    "uikName": "УИК №385",
     "tikTvd": "2162000559373",
-    "tikName": "Казань, Советская"
+    "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 386,
     "uikTvd": "4164027116972",
+    "uikName": "УИК №386",
     "tikTvd": "2162000559373",
-    "tikName": "Казань, Советская"
+    "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 387,
     "uikTvd": "4164027116973",
+    "uikName": "УИК №387",
     "tikTvd": "2162000559373",
-    "tikName": "Казань, Советская"
+    "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 388,
     "uikTvd": "4164027116974",
+    "uikName": "УИК №388",
     "tikTvd": "2162000559373",
-    "tikName": "Казань, Советская"
+    "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 389,
     "uikTvd": "4164027116975",
+    "uikName": "УИК №389",
     "tikTvd": "2162000559373",
-    "tikName": "Казань, Советская"
+    "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 390,
     "uikTvd": "4164027116976",
+    "uikName": "УИК №390",
     "tikTvd": "2162000559373",
-    "tikName": "Казань, Советская"
+    "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 391,
     "uikTvd": "4164027116977",
+    "uikName": "УИК №391",
     "tikTvd": "2162000559373",
-    "tikName": "Казань, Советская"
+    "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 392,
     "uikTvd": "4164027116978",
+    "uikName": "УИК №392",
     "tikTvd": "2162000559373",
-    "tikName": "Казань, Советская"
+    "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 393,
     "uikTvd": "4164027116979",
+    "uikName": "УИК №393",
     "tikTvd": "2162000559373",
-    "tikName": "Казань, Советская"
+    "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 394,
     "uikTvd": "4164027116980",
+    "uikName": "УИК №394",
     "tikTvd": "2162000559373",
-    "tikName": "Казань, Советская"
+    "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 395,
     "uikTvd": "4164027116981",
+    "uikName": "УИК №395",
     "tikTvd": "2162000559373",
-    "tikName": "Казань, Советская"
+    "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 396,
     "uikTvd": "4164027116982",
+    "uikName": "УИК №396",
     "tikTvd": "2162000559373",
-    "tikName": "Казань, Советская"
+    "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 397,
     "uikTvd": "4164027116983",
+    "uikName": "УИК №397",
     "tikTvd": "2162000559373",
-    "tikName": "Казань, Советская"
+    "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 398,
     "uikTvd": "4164027116984",
+    "uikName": "УИК №398",
     "tikTvd": "2162000559373",
-    "tikName": "Казань, Советская"
+    "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 399,
     "uikTvd": "4164027116985",
+    "uikName": "УИК №399",
     "tikTvd": "2162000559373",
-    "tikName": "Казань, Советская"
+    "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 400,
     "uikTvd": "4164027116986",
+    "uikName": "УИК №400",
     "tikTvd": "2162000559373",
-    "tikName": "Казань, Советская"
+    "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 401,
     "uikTvd": "4164027116987",
+    "uikName": "УИК №401",
     "tikTvd": "2162000559373",
-    "tikName": "Казань, Советская"
+    "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 402,
     "uikTvd": "4164027116988",
+    "uikName": "УИК №402",
     "tikTvd": "2162000559373",
-    "tikName": "Казань, Советская"
+    "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 403,
     "uikTvd": "4164027116989",
+    "uikName": "УИК №403",
     "tikTvd": "2162000559373",
-    "tikName": "Казань, Советская"
+    "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 404,
     "uikTvd": "4164027116990",
+    "uikName": "УИК №404",
     "tikTvd": "2162000559373",
-    "tikName": "Казань, Советская"
+    "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 405,
     "uikTvd": "4164027116991",
+    "uikName": "УИК №405",
     "tikTvd": "2162000559373",
-    "tikName": "Казань, Советская"
+    "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 406,
     "uikTvd": "4164027116992",
+    "uikName": "УИК №406",
     "tikTvd": "2162000559373",
-    "tikName": "Казань, Советская"
+    "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 407,
     "uikTvd": "4164027116993",
+    "uikName": "УИК №407",
     "tikTvd": "2162000559373",
-    "tikName": "Казань, Советская"
+    "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 408,
     "uikTvd": "4164027116994",
+    "uikName": "УИК №408",
     "tikTvd": "2162000559373",
-    "tikName": "Казань, Советская"
+    "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 409,
     "uikTvd": "4164027116995",
+    "uikName": "УИК №409",
     "tikTvd": "2162000559373",
-    "tikName": "Казань, Советская"
+    "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 410,
     "uikTvd": "4164027116996",
+    "uikName": "УИК №410",
     "tikTvd": "2162000559373",
-    "tikName": "Казань, Советская"
+    "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 411,
     "uikTvd": "4164027116997",
+    "uikName": "УИК №411",
     "tikTvd": "2162000559373",
-    "tikName": "Казань, Советская"
+    "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 412,
     "uikTvd": "4164027116998",
+    "uikName": "УИК №412",
     "tikTvd": "2162000559373",
-    "tikName": "Казань, Советская"
+    "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 413,
     "uikTvd": "4164027116999",
+    "uikName": "УИК №413",
     "tikTvd": "2162000559373",
-    "tikName": "Казань, Советская"
+    "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 414,
     "uikTvd": "4164027117000",
+    "uikName": "УИК №414",
     "tikTvd": "2162000559373",
-    "tikName": "Казань, Советская"
+    "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 415,
     "uikTvd": "4164027117001",
+    "uikName": "УИК №415",
     "tikTvd": "2162000559373",
-    "tikName": "Казань, Советская"
+    "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 416,
     "uikTvd": "4164027117002",
+    "uikName": "УИК №416",
     "tikTvd": "2162000559373",
-    "tikName": "Казань, Советская"
+    "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 417,
     "uikTvd": "4164027117003",
+    "uikName": "УИК №417",
     "tikTvd": "2162000559373",
-    "tikName": "Казань, Советская"
+    "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 418,
     "uikTvd": "4164027117004",
+    "uikName": "УИК №418",
     "tikTvd": "2162000559373",
-    "tikName": "Казань, Советская"
+    "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 419,
     "uikTvd": "4164027117005",
+    "uikName": "УИК №419",
     "tikTvd": "2162000559373",
-    "tikName": "Казань, Советская"
+    "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 420,
     "uikTvd": "4164027117006",
+    "uikName": "УИК №420",
     "tikTvd": "2162000559373",
-    "tikName": "Казань, Советская"
+    "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 421,
     "uikTvd": "4164027117007",
+    "uikName": "УИК №421",
     "tikTvd": "2162000559373",
-    "tikName": "Казань, Советская"
+    "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 422,
     "uikTvd": "4164027117008",
+    "uikName": "УИК №422",
     "tikTvd": "2162000559373",
-    "tikName": "Казань, Советская"
+    "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 423,
     "uikTvd": "4164027117009",
+    "uikName": "УИК №423",
     "tikTvd": "2162000559373",
-    "tikName": "Казань, Советская"
+    "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 424,
     "uikTvd": "4164027117010",
+    "uikName": "УИК №424",
     "tikTvd": "2162000559373",
-    "tikName": "Казань, Советская"
+    "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 425,
     "uikTvd": "4164027117011",
+    "uikName": "УИК №425",
     "tikTvd": "2162000559373",
-    "tikName": "Казань, Советская"
+    "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 426,
     "uikTvd": "4164027117012",
+    "uikName": "УИК №426",
     "tikTvd": "2162000559373",
-    "tikName": "Казань, Советская"
+    "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 427,
     "uikTvd": "4164027117013",
+    "uikName": "УИК №427",
     "tikTvd": "2162000559373",
-    "tikName": "Казань, Советская"
+    "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 428,
     "uikTvd": "4164027117014",
+    "uikName": "УИК №428",
     "tikTvd": "2162000559373",
-    "tikName": "Казань, Советская"
+    "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 429,
     "uikTvd": "4164027117015",
+    "uikName": "УИК №429",
     "tikTvd": "2162000559373",
-    "tikName": "Казань, Советская"
+    "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 430,
     "uikTvd": "4164027117016",
+    "uikName": "УИК №430",
     "tikTvd": "2162000559373",
-    "tikName": "Казань, Советская"
+    "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 431,
     "uikTvd": "4164027117017",
+    "uikName": "УИК №431",
     "tikTvd": "2162000559373",
-    "tikName": "Казань, Советская"
+    "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 432,
     "uikTvd": "4164027117018",
+    "uikName": "УИК №432",
     "tikTvd": "2162000559373",
-    "tikName": "Казань, Советская"
+    "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 433,
     "uikTvd": "4164027117019",
+    "uikName": "УИК №433",
     "tikTvd": "2162000559373",
-    "tikName": "Казань, Советская"
+    "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 434,
     "uikTvd": "4164027117020",
+    "uikName": "УИК №434",
     "tikTvd": "2162000559373",
-    "tikName": "Казань, Советская"
+    "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 435,
     "uikTvd": "4164027117021",
+    "uikName": "УИК №435",
     "tikTvd": "2162000559373",
-    "tikName": "Казань, Советская"
+    "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 436,
     "uikTvd": "4164027117022",
+    "uikName": "УИК №436",
     "tikTvd": "2162000559373",
-    "tikName": "Казань, Советская"
+    "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 437,
     "uikTvd": "4164027117023",
+    "uikName": "УИК №437",
     "tikTvd": "2162000559373",
-    "tikName": "Казань, Советская"
+    "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 438,
     "uikTvd": "4164027117024",
+    "uikName": "УИК №438",
     "tikTvd": "2162000559373",
-    "tikName": "Казань, Советская"
+    "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 439,
     "uikTvd": "4164027117025",
+    "uikName": "УИК №439",
     "tikTvd": "2162000559373",
-    "tikName": "Казань, Советская"
+    "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 440,
     "uikTvd": "4164027117026",
+    "uikName": "УИК №440",
     "tikTvd": "2162000559373",
-    "tikName": "Казань, Советская"
+    "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 441,
     "uikTvd": "4164027117027",
+    "uikName": "УИК №441",
     "tikTvd": "2162000559373",
-    "tikName": "Казань, Советская"
+    "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 442,
     "uikTvd": "4164027117028",
+    "uikName": "УИК №442",
     "tikTvd": "2162000559373",
-    "tikName": "Казань, Советская"
+    "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 443,
     "uikTvd": "4164027117029",
+    "uikName": "УИК №443",
     "tikTvd": "2162000559373",
-    "tikName": "Казань, Советская"
+    "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 444,
     "uikTvd": "4164027117030",
+    "uikName": "УИК №444",
     "tikTvd": "2162000559373",
-    "tikName": "Казань, Советская"
+    "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 445,
     "uikTvd": "4164027117031",
+    "uikName": "УИК №445",
     "tikTvd": "2162000559373",
-    "tikName": "Казань, Советская"
+    "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 446,
     "uikTvd": "4164027117032",
+    "uikName": "УИК №446",
     "tikTvd": "2162000559373",
-    "tikName": "Казань, Советская"
+    "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 447,
     "uikTvd": "4164027117033",
+    "uikName": "УИК №447",
     "tikTvd": "2162000559373",
-    "tikName": "Казань, Советская"
+    "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 448,
     "uikTvd": "4164027117034",
+    "uikName": "УИК №448",
     "tikTvd": "2162000559373",
-    "tikName": "Казань, Советская"
+    "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 449,
     "uikTvd": "4164027117035",
+    "uikName": "УИК №449",
     "tikTvd": "2162000559373",
-    "tikName": "Казань, Советская"
+    "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 450,
     "uikTvd": "4164027117036",
+    "uikName": "УИК №450",
     "tikTvd": "2162000559373",
-    "tikName": "Казань, Советская"
+    "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 458,
     "uikTvd": "4164001164051",
+    "uikName": "УИК №458",
     "tikTvd": "2162000559398",
-    "tikName": "Агрызская"
+    "tikName": "Агрызская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 459,
     "uikTvd": "4164001164052",
+    "uikName": "УИК №459",
     "tikTvd": "2162000559398",
-    "tikName": "Агрызская"
+    "tikName": "Агрызская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 460,
     "uikTvd": "4164001164053",
+    "uikName": "УИК №460",
     "tikTvd": "2162000559398",
-    "tikName": "Агрызская"
+    "tikName": "Агрызская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 461,
     "uikTvd": "4164001164054",
+    "uikName": "УИК №461",
     "tikTvd": "2162000559398",
-    "tikName": "Агрызская"
+    "tikName": "Агрызская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 462,
     "uikTvd": "4164001164055",
+    "uikName": "УИК №462",
     "tikTvd": "2162000559398",
-    "tikName": "Агрызская"
+    "tikName": "Агрызская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 463,
     "uikTvd": "4164001164056",
+    "uikName": "УИК №463",
     "tikTvd": "2162000559398",
-    "tikName": "Агрызская"
+    "tikName": "Агрызская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 464,
     "uikTvd": "4164001164057",
+    "uikName": "УИК №464",
     "tikTvd": "2162000559398",
-    "tikName": "Агрызская"
+    "tikName": "Агрызская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 465,
     "uikTvd": "4164001164058",
+    "uikName": "УИК №465",
     "tikTvd": "2162000559398",
-    "tikName": "Агрызская"
+    "tikName": "Агрызская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 466,
     "uikTvd": "4164001164059",
+    "uikName": "УИК №466",
     "tikTvd": "2162000559398",
-    "tikName": "Агрызская"
+    "tikName": "Агрызская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 467,
     "uikTvd": "4164001164060",
+    "uikName": "УИК №467",
     "tikTvd": "2162000559398",
-    "tikName": "Агрызская"
+    "tikName": "Агрызская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 468,
     "uikTvd": "4164001164061",
+    "uikName": "УИК №468",
     "tikTvd": "2162000559398",
-    "tikName": "Агрызская"
+    "tikName": "Агрызская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 469,
     "uikTvd": "4164001164062",
+    "uikName": "УИК №469",
     "tikTvd": "2162000559398",
-    "tikName": "Агрызская"
+    "tikName": "Агрызская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 470,
     "uikTvd": "4164001164063",
+    "uikName": "УИК №470",
     "tikTvd": "2162000559398",
-    "tikName": "Агрызская"
+    "tikName": "Агрызская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 471,
     "uikTvd": "4164001164064",
+    "uikName": "УИК №471",
     "tikTvd": "2162000559398",
-    "tikName": "Агрызская"
+    "tikName": "Агрызская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 472,
     "uikTvd": "4164001164065",
+    "uikName": "УИК №472",
     "tikTvd": "2162000559398",
-    "tikName": "Агрызская"
+    "tikName": "Агрызская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 473,
     "uikTvd": "4164001164066",
+    "uikName": "УИК №473",
     "tikTvd": "2162000559398",
-    "tikName": "Агрызская"
+    "tikName": "Агрызская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 474,
     "uikTvd": "4164001164067",
+    "uikName": "УИК №474",
     "tikTvd": "2162000559398",
-    "tikName": "Агрызская"
+    "tikName": "Агрызская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 475,
     "uikTvd": "4164001164068",
+    "uikName": "УИК №475",
     "tikTvd": "2162000559398",
-    "tikName": "Агрызская"
+    "tikName": "Агрызская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 476,
     "uikTvd": "4164001164069",
+    "uikName": "УИК №476",
     "tikTvd": "2162000559398",
-    "tikName": "Агрызская"
+    "tikName": "Агрызская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 477,
     "uikTvd": "4164001164070",
+    "uikName": "УИК №477",
     "tikTvd": "2162000559398",
-    "tikName": "Агрызская"
+    "tikName": "Агрызская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 478,
     "uikTvd": "4164001164071",
+    "uikName": "УИК №478",
     "tikTvd": "2162000559398",
-    "tikName": "Агрызская"
+    "tikName": "Агрызская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 479,
     "uikTvd": "4164001164072",
+    "uikName": "УИК №479",
     "tikTvd": "2162000559398",
-    "tikName": "Агрызская"
+    "tikName": "Агрызская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 480,
     "uikTvd": "4164001164073",
+    "uikName": "УИК №480",
     "tikTvd": "2162000559398",
-    "tikName": "Агрызская"
+    "tikName": "Агрызская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 481,
     "uikTvd": "4164001164074",
+    "uikName": "УИК №481",
     "tikTvd": "2162000559398",
-    "tikName": "Агрызская"
+    "tikName": "Агрызская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 482,
     "uikTvd": "4164001164075",
+    "uikName": "УИК №482",
     "tikTvd": "2162000559398",
-    "tikName": "Агрызская"
+    "tikName": "Агрызская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 483,
     "uikTvd": "4164001164076",
+    "uikName": "УИК №483",
     "tikTvd": "2162000559398",
-    "tikName": "Агрызская"
+    "tikName": "Агрызская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 484,
     "uikTvd": "4164001164077",
+    "uikName": "УИК №484",
     "tikTvd": "2162000559398",
-    "tikName": "Агрызская"
+    "tikName": "Агрызская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 485,
     "uikTvd": "4164001164078",
+    "uikName": "УИК №485",
     "tikTvd": "2162000559398",
-    "tikName": "Агрызская"
+    "tikName": "Агрызская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 486,
     "uikTvd": "4164001164079",
+    "uikName": "УИК №486",
     "tikTvd": "2162000559398",
-    "tikName": "Агрызская"
+    "tikName": "Агрызская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 487,
     "uikTvd": "4164001164080",
+    "uikName": "УИК №487",
     "tikTvd": "2162000559398",
-    "tikName": "Агрызская"
+    "tikName": "Агрызская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 488,
     "uikTvd": "4164001164081",
+    "uikName": "УИК №488",
     "tikTvd": "2162000559398",
-    "tikName": "Агрызская"
+    "tikName": "Агрызская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 489,
     "uikTvd": "4164001164082",
+    "uikName": "УИК №489",
     "tikTvd": "2162000559398",
-    "tikName": "Агрызская"
+    "tikName": "Агрызская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 490,
     "uikTvd": "4164001164083",
+    "uikName": "УИК №490",
     "tikTvd": "2162000559398",
-    "tikName": "Агрызская"
+    "tikName": "Агрызская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 491,
     "uikTvd": "4164001164084",
+    "uikName": "УИК №491",
     "tikTvd": "2162000559398",
-    "tikName": "Агрызская"
+    "tikName": "Агрызская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 492,
     "uikTvd": "4164001164085",
+    "uikName": "УИК №492",
     "tikTvd": "2162000559398",
-    "tikName": "Агрызская"
+    "tikName": "Агрызская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 493,
     "uikTvd": "4164001164086",
+    "uikName": "УИК №493",
     "tikTvd": "2162000559398",
-    "tikName": "Агрызская"
+    "tikName": "Агрызская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 494,
     "uikTvd": "4164001164087",
+    "uikName": "УИК №494",
     "tikTvd": "2162000559398",
-    "tikName": "Агрызская"
+    "tikName": "Агрызская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 495,
     "uikTvd": "4164001164088",
+    "uikName": "УИК №495",
     "tikTvd": "2162000559398",
-    "tikName": "Агрызская"
+    "tikName": "Агрызская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 496,
     "uikTvd": "4164001164089",
+    "uikName": "УИК №496",
     "tikTvd": "2162000559398",
-    "tikName": "Агрызская"
+    "tikName": "Агрызская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 497,
     "uikTvd": "4164001164090",
+    "uikName": "УИК №497",
     "tikTvd": "2162000559398",
-    "tikName": "Агрызская"
+    "tikName": "Агрызская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 498,
     "uikTvd": "4164001164091",
+    "uikName": "УИК №498",
     "tikTvd": "2162000559398",
-    "tikName": "Агрызская"
+    "tikName": "Агрызская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 499,
     "uikTvd": "4164001164092",
+    "uikName": "УИК №499",
     "tikTvd": "2162000559398",
-    "tikName": "Агрызская"
+    "tikName": "Агрызская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 500,
     "uikTvd": "4164001164093",
+    "uikName": "УИК №500",
     "tikTvd": "2162000559398",
-    "tikName": "Агрызская"
+    "tikName": "Агрызская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 501,
     "uikTvd": "4164001164094",
+    "uikName": "УИК №501",
     "tikTvd": "2162000559398",
-    "tikName": "Агрызская"
+    "tikName": "Агрызская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 502,
     "uikTvd": "4164001164095",
+    "uikName": "УИК №502",
     "tikTvd": "2162000559398",
-    "tikName": "Агрызская"
+    "tikName": "Агрызская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 503,
     "uikTvd": "4164001164096",
+    "uikName": "УИК №503",
     "tikTvd": "2162000559398",
-    "tikName": "Агрызская"
+    "tikName": "Агрызская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 504,
     "uikTvd": "4164001164097",
+    "uikName": "УИК №504",
     "tikTvd": "2162000559398",
-    "tikName": "Агрызская"
+    "tikName": "Агрызская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 505,
     "uikTvd": "4164001164098",
+    "uikName": "УИК №505",
     "tikTvd": "2162000559398",
-    "tikName": "Агрызская"
+    "tikName": "Агрызская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 506,
     "uikTvd": "4164001164099",
+    "uikName": "УИК №506",
     "tikTvd": "2162000559398",
-    "tikName": "Агрызская"
+    "tikName": "Агрызская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 507,
     "uikTvd": "4164001164100",
+    "uikName": "УИК №507",
     "tikTvd": "2162000559398",
-    "tikName": "Агрызская"
+    "tikName": "Агрызская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 508,
     "uikTvd": "416400290033",
+    "uikName": "УИК №508",
     "tikTvd": "2162000559399",
-    "tikName": "Азнакаевская городская"
+    "tikName": "Азнакаевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 509,
     "uikTvd": "416400290034",
+    "uikName": "УИК №509",
     "tikTvd": "2162000559399",
-    "tikName": "Азнакаевская городская"
+    "tikName": "Азнакаевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 510,
     "uikTvd": "416400290035",
+    "uikName": "УИК №510",
     "tikTvd": "2162000559399",
-    "tikName": "Азнакаевская городская"
+    "tikName": "Азнакаевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 511,
     "uikTvd": "416400290036",
+    "uikName": "УИК №511",
     "tikTvd": "2162000559399",
-    "tikName": "Азнакаевская городская"
+    "tikName": "Азнакаевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 512,
     "uikTvd": "416400290037",
+    "uikName": "УИК №512",
     "tikTvd": "2162000559399",
-    "tikName": "Азнакаевская городская"
+    "tikName": "Азнакаевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 513,
     "uikTvd": "416400290038",
+    "uikName": "УИК №513",
     "tikTvd": "2162000559399",
-    "tikName": "Азнакаевская городская"
+    "tikName": "Азнакаевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 514,
     "uikTvd": "416400290039",
+    "uikName": "УИК №514",
     "tikTvd": "2162000559399",
-    "tikName": "Азнакаевская городская"
+    "tikName": "Азнакаевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 515,
     "uikTvd": "416400290040",
+    "uikName": "УИК №515",
     "tikTvd": "2162000559399",
-    "tikName": "Азнакаевская городская"
+    "tikName": "Азнакаевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 516,
     "uikTvd": "416400290041",
+    "uikName": "УИК №516",
     "tikTvd": "2162000559399",
-    "tikName": "Азнакаевская городская"
+    "tikName": "Азнакаевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 517,
     "uikTvd": "416400290042",
+    "uikName": "УИК №517",
     "tikTvd": "2162000559399",
-    "tikName": "Азнакаевская городская"
+    "tikName": "Азнакаевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 518,
     "uikTvd": "416400290043",
+    "uikName": "УИК №518",
     "tikTvd": "2162000559399",
-    "tikName": "Азнакаевская городская"
+    "tikName": "Азнакаевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 519,
     "uikTvd": "416400290044",
+    "uikName": "УИК №519",
     "tikTvd": "2162000559399",
-    "tikName": "Азнакаевская городская"
+    "tikName": "Азнакаевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 520,
     "uikTvd": "416400290045",
+    "uikName": "УИК №520",
     "tikTvd": "2162000559399",
-    "tikName": "Азнакаевская городская"
+    "tikName": "Азнакаевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 521,
     "uikTvd": "416400290046",
+    "uikName": "УИК №521",
     "tikTvd": "2162000559399",
-    "tikName": "Азнакаевская городская"
+    "tikName": "Азнакаевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 522,
     "uikTvd": "416400290047",
+    "uikName": "УИК №522",
     "tikTvd": "2162000559399",
-    "tikName": "Азнакаевская городская"
+    "tikName": "Азнакаевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 523,
     "uikTvd": "416400290048",
+    "uikName": "УИК №523",
     "tikTvd": "2162000559399",
-    "tikName": "Азнакаевская городская"
+    "tikName": "Азнакаевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 524,
     "uikTvd": "416400290049",
+    "uikName": "УИК №524",
     "tikTvd": "2162000559399",
-    "tikName": "Азнакаевская городская"
+    "tikName": "Азнакаевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 525,
     "uikTvd": "416400290050",
+    "uikName": "УИК №525",
     "tikTvd": "2162000559399",
-    "tikName": "Азнакаевская городская"
+    "tikName": "Азнакаевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 526,
     "uikTvd": "416400290051",
+    "uikName": "УИК №526",
     "tikTvd": "2162000559399",
-    "tikName": "Азнакаевская городская"
+    "tikName": "Азнакаевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 527,
     "uikTvd": "416400290031",
+    "uikName": "УИК №527",
     "tikTvd": "2162000559399",
-    "tikName": "Азнакаевская городская"
+    "tikName": "Азнакаевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 528,
     "uikTvd": "4164052143057",
+    "uikName": "УИК №528",
     "tikTvd": "2162000559348",
-    "tikName": "Азнакаевская"
+    "tikName": "Азнакаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 529,
     "uikTvd": "4164052143058",
+    "uikName": "УИК №529",
     "tikTvd": "2162000559348",
-    "tikName": "Азнакаевская"
+    "tikName": "Азнакаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 530,
     "uikTvd": "4164052143059",
+    "uikName": "УИК №530",
     "tikTvd": "2162000559348",
-    "tikName": "Азнакаевская"
+    "tikName": "Азнакаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 531,
     "uikTvd": "4164052143060",
+    "uikName": "УИК №531",
     "tikTvd": "2162000559348",
-    "tikName": "Азнакаевская"
+    "tikName": "Азнакаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 532,
     "uikTvd": "4164052143061",
+    "uikName": "УИК №532",
     "tikTvd": "2162000559348",
-    "tikName": "Азнакаевская"
+    "tikName": "Азнакаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 533,
     "uikTvd": "4164052143062",
+    "uikName": "УИК №533",
     "tikTvd": "2162000559348",
-    "tikName": "Азнакаевская"
+    "tikName": "Азнакаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 534,
     "uikTvd": "4164052143063",
+    "uikName": "УИК №534",
     "tikTvd": "2162000559348",
-    "tikName": "Азнакаевская"
+    "tikName": "Азнакаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 535,
     "uikTvd": "4164052143064",
+    "uikName": "УИК №535",
     "tikTvd": "2162000559348",
-    "tikName": "Азнакаевская"
+    "tikName": "Азнакаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 536,
     "uikTvd": "4164052143065",
+    "uikName": "УИК №536",
     "tikTvd": "2162000559348",
-    "tikName": "Азнакаевская"
+    "tikName": "Азнакаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 537,
     "uikTvd": "4164052143066",
+    "uikName": "УИК №537",
     "tikTvd": "2162000559348",
-    "tikName": "Азнакаевская"
+    "tikName": "Азнакаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 538,
     "uikTvd": "4164052143067",
+    "uikName": "УИК №538",
     "tikTvd": "2162000559348",
-    "tikName": "Азнакаевская"
+    "tikName": "Азнакаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 539,
     "uikTvd": "4164052143068",
+    "uikName": "УИК №539",
     "tikTvd": "2162000559348",
-    "tikName": "Азнакаевская"
+    "tikName": "Азнакаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 540,
     "uikTvd": "4164052143069",
+    "uikName": "УИК №540",
     "tikTvd": "2162000559348",
-    "tikName": "Азнакаевская"
+    "tikName": "Азнакаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 541,
     "uikTvd": "4164052143070",
+    "uikName": "УИК №541",
     "tikTvd": "2162000559348",
-    "tikName": "Азнакаевская"
+    "tikName": "Азнакаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 542,
     "uikTvd": "4164052143071",
+    "uikName": "УИК №542",
     "tikTvd": "2162000559348",
-    "tikName": "Азнакаевская"
+    "tikName": "Азнакаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 543,
     "uikTvd": "4164052143072",
+    "uikName": "УИК №543",
     "tikTvd": "2162000559348",
-    "tikName": "Азнакаевская"
+    "tikName": "Азнакаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 544,
     "uikTvd": "4164052143073",
+    "uikName": "УИК №544",
     "tikTvd": "2162000559348",
-    "tikName": "Азнакаевская"
+    "tikName": "Азнакаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 545,
     "uikTvd": "4164052143074",
+    "uikName": "УИК №545",
     "tikTvd": "2162000559348",
-    "tikName": "Азнакаевская"
+    "tikName": "Азнакаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 546,
     "uikTvd": "4164052143075",
+    "uikName": "УИК №546",
     "tikTvd": "2162000559348",
-    "tikName": "Азнакаевская"
+    "tikName": "Азнакаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 547,
     "uikTvd": "4164052143076",
+    "uikName": "УИК №547",
     "tikTvd": "2162000559348",
-    "tikName": "Азнакаевская"
+    "tikName": "Азнакаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 548,
     "uikTvd": "4164052143077",
+    "uikName": "УИК №548",
     "tikTvd": "2162000559348",
-    "tikName": "Азнакаевская"
+    "tikName": "Азнакаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 549,
     "uikTvd": "4164052143078",
+    "uikName": "УИК №549",
     "tikTvd": "2162000559348",
-    "tikName": "Азнакаевская"
+    "tikName": "Азнакаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 550,
     "uikTvd": "4164052143079",
+    "uikName": "УИК №550",
     "tikTvd": "2162000559348",
-    "tikName": "Азнакаевская"
+    "tikName": "Азнакаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 551,
     "uikTvd": "4164052143080",
+    "uikName": "УИК №551",
     "tikTvd": "2162000559348",
-    "tikName": "Азнакаевская"
+    "tikName": "Азнакаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 552,
     "uikTvd": "4164052143081",
+    "uikName": "УИК №552",
     "tikTvd": "2162000559348",
-    "tikName": "Азнакаевская"
+    "tikName": "Азнакаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 553,
     "uikTvd": "4164052143082",
+    "uikName": "УИК №553",
     "tikTvd": "2162000559348",
-    "tikName": "Азнакаевская"
+    "tikName": "Азнакаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 554,
     "uikTvd": "4164052143083",
+    "uikName": "УИК №554",
     "tikTvd": "2162000559348",
-    "tikName": "Азнакаевская"
+    "tikName": "Азнакаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 555,
     "uikTvd": "4164052143084",
+    "uikName": "УИК №555",
     "tikTvd": "2162000559348",
-    "tikName": "Азнакаевская"
+    "tikName": "Азнакаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 556,
     "uikTvd": "4164052143085",
+    "uikName": "УИК №556",
     "tikTvd": "2162000559348",
-    "tikName": "Азнакаевская"
+    "tikName": "Азнакаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 557,
     "uikTvd": "4164052143086",
+    "uikName": "УИК №557",
     "tikTvd": "2162000559348",
-    "tikName": "Азнакаевская"
+    "tikName": "Азнакаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 558,
     "uikTvd": "4164052143087",
+    "uikName": "УИК №558",
     "tikTvd": "2162000559348",
-    "tikName": "Азнакаевская"
+    "tikName": "Азнакаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 559,
     "uikTvd": "4164052143088",
+    "uikName": "УИК №559",
     "tikTvd": "2162000559348",
-    "tikName": "Азнакаевская"
+    "tikName": "Азнакаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 560,
     "uikTvd": "4164052143089",
+    "uikName": "УИК №560",
     "tikTvd": "2162000559348",
-    "tikName": "Азнакаевская"
+    "tikName": "Азнакаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 561,
     "uikTvd": "4164052143090",
+    "uikName": "УИК №561",
     "tikTvd": "2162000559348",
-    "tikName": "Азнакаевская"
+    "tikName": "Азнакаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 562,
     "uikTvd": "4164052143091",
+    "uikName": "УИК №562",
     "tikTvd": "2162000559348",
-    "tikName": "Азнакаевская"
+    "tikName": "Азнакаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 563,
     "uikTvd": "4164052143092",
+    "uikName": "УИК №563",
     "tikTvd": "2162000559348",
-    "tikName": "Азнакаевская"
+    "tikName": "Азнакаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 564,
     "uikTvd": "4164052143093",
+    "uikName": "УИК №564",
     "tikTvd": "2162000559348",
-    "tikName": "Азнакаевская"
+    "tikName": "Азнакаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 565,
     "uikTvd": "4164052143094",
+    "uikName": "УИК №565",
     "tikTvd": "2162000559348",
-    "tikName": "Азнакаевская"
+    "tikName": "Азнакаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 566,
     "uikTvd": "4164052143095",
+    "uikName": "УИК №566",
     "tikTvd": "2162000559348",
-    "tikName": "Азнакаевская"
+    "tikName": "Азнакаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 567,
     "uikTvd": "4164052143096",
+    "uikName": "УИК №567",
     "tikTvd": "2162000559348",
-    "tikName": "Азнакаевская"
+    "tikName": "Азнакаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 568,
     "uikTvd": "4164052143097",
+    "uikName": "УИК №568",
     "tikTvd": "2162000559348",
-    "tikName": "Азнакаевская"
+    "tikName": "Азнакаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 569,
     "uikTvd": "4164052143098",
+    "uikName": "УИК №569",
     "tikTvd": "2162000559348",
-    "tikName": "Азнакаевская"
+    "tikName": "Азнакаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 570,
     "uikTvd": "4164003152868",
+    "uikName": "УИК №570",
     "tikTvd": "2162000559396",
-    "tikName": "Аксубаевская"
+    "tikName": "Аксубаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 571,
     "uikTvd": "4164003152869",
+    "uikName": "УИК №571",
     "tikTvd": "2162000559396",
-    "tikName": "Аксубаевская"
+    "tikName": "Аксубаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 572,
     "uikTvd": "4164003152870",
+    "uikName": "УИК №572",
     "tikTvd": "2162000559396",
-    "tikName": "Аксубаевская"
+    "tikName": "Аксубаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 573,
     "uikTvd": "4164003152871",
+    "uikName": "УИК №573",
     "tikTvd": "2162000559396",
-    "tikName": "Аксубаевская"
+    "tikName": "Аксубаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 574,
     "uikTvd": "4164003152872",
+    "uikName": "УИК №574",
     "tikTvd": "2162000559396",
-    "tikName": "Аксубаевская"
+    "tikName": "Аксубаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 575,
     "uikTvd": "4164003152873",
+    "uikName": "УИК №575",
     "tikTvd": "2162000559396",
-    "tikName": "Аксубаевская"
+    "tikName": "Аксубаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 576,
     "uikTvd": "4164003152874",
+    "uikName": "УИК №576",
     "tikTvd": "2162000559396",
-    "tikName": "Аксубаевская"
+    "tikName": "Аксубаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 577,
     "uikTvd": "4164003152875",
+    "uikName": "УИК №577",
     "tikTvd": "2162000559396",
-    "tikName": "Аксубаевская"
+    "tikName": "Аксубаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 578,
     "uikTvd": "4164003152876",
+    "uikName": "УИК №578",
     "tikTvd": "2162000559396",
-    "tikName": "Аксубаевская"
+    "tikName": "Аксубаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 579,
     "uikTvd": "4164003152877",
+    "uikName": "УИК №579",
     "tikTvd": "2162000559396",
-    "tikName": "Аксубаевская"
+    "tikName": "Аксубаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 580,
     "uikTvd": "4164003152878",
+    "uikName": "УИК №580",
     "tikTvd": "2162000559396",
-    "tikName": "Аксубаевская"
+    "tikName": "Аксубаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 581,
     "uikTvd": "4164003152879",
+    "uikName": "УИК №581",
     "tikTvd": "2162000559396",
-    "tikName": "Аксубаевская"
+    "tikName": "Аксубаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 582,
     "uikTvd": "4164003152880",
+    "uikName": "УИК №582",
     "tikTvd": "2162000559396",
-    "tikName": "Аксубаевская"
+    "tikName": "Аксубаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 583,
     "uikTvd": "4164003152881",
+    "uikName": "УИК №583",
     "tikTvd": "2162000559396",
-    "tikName": "Аксубаевская"
+    "tikName": "Аксубаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 584,
     "uikTvd": "4164003152882",
+    "uikName": "УИК №584",
     "tikTvd": "2162000559396",
-    "tikName": "Аксубаевская"
+    "tikName": "Аксубаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 585,
     "uikTvd": "4164003152883",
+    "uikName": "УИК №585",
     "tikTvd": "2162000559396",
-    "tikName": "Аксубаевская"
+    "tikName": "Аксубаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 586,
     "uikTvd": "4164003152884",
+    "uikName": "УИК №586",
     "tikTvd": "2162000559396",
-    "tikName": "Аксубаевская"
+    "tikName": "Аксубаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 587,
     "uikTvd": "4164003152885",
+    "uikName": "УИК №587",
     "tikTvd": "2162000559396",
-    "tikName": "Аксубаевская"
+    "tikName": "Аксубаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 588,
     "uikTvd": "4164003152886",
+    "uikName": "УИК №588",
     "tikTvd": "2162000559396",
-    "tikName": "Аксубаевская"
+    "tikName": "Аксубаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 589,
     "uikTvd": "4164003152887",
+    "uikName": "УИК №589",
     "tikTvd": "2162000559396",
-    "tikName": "Аксубаевская"
+    "tikName": "Аксубаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 590,
     "uikTvd": "4164003152888",
+    "uikName": "УИК №590",
     "tikTvd": "2162000559396",
-    "tikName": "Аксубаевская"
+    "tikName": "Аксубаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 591,
     "uikTvd": "4164003152889",
+    "uikName": "УИК №591",
     "tikTvd": "2162000559396",
-    "tikName": "Аксубаевская"
+    "tikName": "Аксубаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 592,
     "uikTvd": "4164003152890",
+    "uikName": "УИК №592",
     "tikTvd": "2162000559396",
-    "tikName": "Аксубаевская"
+    "tikName": "Аксубаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 593,
     "uikTvd": "4164003152891",
+    "uikName": "УИК №593",
     "tikTvd": "2162000559396",
-    "tikName": "Аксубаевская"
+    "tikName": "Аксубаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 594,
     "uikTvd": "4164003152892",
+    "uikName": "УИК №594",
     "tikTvd": "2162000559396",
-    "tikName": "Аксубаевская"
+    "tikName": "Аксубаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 595,
     "uikTvd": "4164003152893",
+    "uikName": "УИК №595",
     "tikTvd": "2162000559396",
-    "tikName": "Аксубаевская"
+    "tikName": "Аксубаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 596,
     "uikTvd": "4164003152894",
+    "uikName": "УИК №596",
     "tikTvd": "2162000559396",
-    "tikName": "Аксубаевская"
+    "tikName": "Аксубаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 597,
     "uikTvd": "4164003152895",
+    "uikName": "УИК №597",
     "tikTvd": "2162000559396",
-    "tikName": "Аксубаевская"
+    "tikName": "Аксубаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 598,
     "uikTvd": "4164003152896",
+    "uikName": "УИК №598",
     "tikTvd": "2162000559396",
-    "tikName": "Аксубаевская"
+    "tikName": "Аксубаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 599,
     "uikTvd": "4164003152897",
+    "uikName": "УИК №599",
     "tikTvd": "2162000559396",
-    "tikName": "Аксубаевская"
+    "tikName": "Аксубаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 600,
     "uikTvd": "4164003152898",
+    "uikName": "УИК №600",
     "tikTvd": "2162000559396",
-    "tikName": "Аксубаевская"
+    "tikName": "Аксубаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 601,
     "uikTvd": "4164003152899",
+    "uikName": "УИК №601",
     "tikTvd": "2162000559396",
-    "tikName": "Аксубаевская"
+    "tikName": "Аксубаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 602,
     "uikTvd": "4164003152900",
+    "uikName": "УИК №602",
     "tikTvd": "2162000559396",
-    "tikName": "Аксубаевская"
+    "tikName": "Аксубаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 603,
     "uikTvd": "4164003152901",
+    "uikName": "УИК №603",
     "tikTvd": "2162000559396",
-    "tikName": "Аксубаевская"
+    "tikName": "Аксубаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 604,
     "uikTvd": "4164003152902",
+    "uikName": "УИК №604",
     "tikTvd": "2162000559396",
-    "tikName": "Аксубаевская"
+    "tikName": "Аксубаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 605,
     "uikTvd": "4164003152903",
+    "uikName": "УИК №605",
     "tikTvd": "2162000559396",
-    "tikName": "Аксубаевская"
+    "tikName": "Аксубаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 606,
     "uikTvd": "4164003152904",
+    "uikName": "УИК №606",
     "tikTvd": "2162000559396",
-    "tikName": "Аксубаевская"
+    "tikName": "Аксубаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 607,
     "uikTvd": "4164003152905",
+    "uikName": "УИК №607",
     "tikTvd": "2162000559396",
-    "tikName": "Аксубаевская"
+    "tikName": "Аксубаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 608,
     "uikTvd": "4164003152906",
+    "uikName": "УИК №608",
     "tikTvd": "2162000559396",
-    "tikName": "Аксубаевская"
+    "tikName": "Аксубаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 609,
     "uikTvd": "4164003152907",
+    "uikName": "УИК №609",
     "tikTvd": "2162000559396",
-    "tikName": "Аксубаевская"
+    "tikName": "Аксубаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 610,
     "uikTvd": "4164003152908",
+    "uikName": "УИК №610",
     "tikTvd": "2162000559396",
-    "tikName": "Аксубаевская"
+    "tikName": "Аксубаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 611,
     "uikTvd": "4164003152909",
+    "uikName": "УИК №611",
     "tikTvd": "2162000559396",
-    "tikName": "Аксубаевская"
+    "tikName": "Аксубаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 612,
     "uikTvd": "4164003152910",
+    "uikName": "УИК №612",
     "tikTvd": "2162000559396",
-    "tikName": "Аксубаевская"
+    "tikName": "Аксубаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 613,
     "uikTvd": "4164003152911",
+    "uikName": "УИК №613",
     "tikTvd": "2162000559396",
-    "tikName": "Аксубаевская"
+    "tikName": "Аксубаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 614,
     "uikTvd": "4164003152912",
+    "uikName": "УИК №614",
     "tikTvd": "2162000559396",
-    "tikName": "Аксубаевская"
+    "tikName": "Аксубаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 615,
     "uikTvd": "4164003152913",
+    "uikName": "УИК №615",
     "tikTvd": "2162000559396",
-    "tikName": "Аксубаевская"
+    "tikName": "Аксубаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 616,
     "uikTvd": "4164003152914",
+    "uikName": "УИК №616",
     "tikTvd": "2162000559396",
-    "tikName": "Аксубаевская"
+    "tikName": "Аксубаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 617,
     "uikTvd": "4164003152915",
+    "uikName": "УИК №617",
     "tikTvd": "2162000559396",
-    "tikName": "Аксубаевская"
+    "tikName": "Аксубаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 618,
     "uikTvd": "4164003152916",
+    "uikName": "УИК №618",
     "tikTvd": "2162000559396",
-    "tikName": "Аксубаевская"
+    "tikName": "Аксубаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 619,
     "uikTvd": "4164004172608",
+    "uikName": "УИК №619",
     "tikTvd": "2162000559395",
-    "tikName": "Актанышская"
+    "tikName": "Актанышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 620,
     "uikTvd": "4164004172620",
+    "uikName": "УИК №620",
     "tikTvd": "2162000559395",
-    "tikName": "Актанышская"
+    "tikName": "Актанышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 621,
     "uikTvd": "4164004172621",
+    "uikName": "УИК №621",
     "tikTvd": "2162000559395",
-    "tikName": "Актанышская"
+    "tikName": "Актанышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 622,
     "uikTvd": "4164004172622",
+    "uikName": "УИК №622",
     "tikTvd": "2162000559395",
-    "tikName": "Актанышская"
+    "tikName": "Актанышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 623,
     "uikTvd": "4164004172623",
+    "uikName": "УИК №623",
     "tikTvd": "2162000559395",
-    "tikName": "Актанышская"
+    "tikName": "Актанышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 624,
     "uikTvd": "4164004172624",
+    "uikName": "УИК №624",
     "tikTvd": "2162000559395",
-    "tikName": "Актанышская"
+    "tikName": "Актанышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 625,
     "uikTvd": "4164004172625",
+    "uikName": "УИК №625",
     "tikTvd": "2162000559395",
-    "tikName": "Актанышская"
+    "tikName": "Актанышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 626,
     "uikTvd": "4164004172626",
+    "uikName": "УИК №626",
     "tikTvd": "2162000559395",
-    "tikName": "Актанышская"
+    "tikName": "Актанышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 627,
     "uikTvd": "4164004172627",
+    "uikName": "УИК №627",
     "tikTvd": "2162000559395",
-    "tikName": "Актанышская"
+    "tikName": "Актанышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 628,
     "uikTvd": "4164004172628",
+    "uikName": "УИК №628",
     "tikTvd": "2162000559395",
-    "tikName": "Актанышская"
+    "tikName": "Актанышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 629,
     "uikTvd": "4164004172629",
+    "uikName": "УИК №629",
     "tikTvd": "2162000559395",
-    "tikName": "Актанышская"
+    "tikName": "Актанышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 630,
     "uikTvd": "4164004172630",
+    "uikName": "УИК №630",
     "tikTvd": "2162000559395",
-    "tikName": "Актанышская"
+    "tikName": "Актанышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 631,
     "uikTvd": "4164004172631",
+    "uikName": "УИК №631",
     "tikTvd": "2162000559395",
-    "tikName": "Актанышская"
+    "tikName": "Актанышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 632,
     "uikTvd": "4164004172632",
+    "uikName": "УИК №632",
     "tikTvd": "2162000559395",
-    "tikName": "Актанышская"
+    "tikName": "Актанышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 633,
     "uikTvd": "4164004172633",
+    "uikName": "УИК №633",
     "tikTvd": "2162000559395",
-    "tikName": "Актанышская"
+    "tikName": "Актанышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 634,
     "uikTvd": "4164004172634",
+    "uikName": "УИК №634",
     "tikTvd": "2162000559395",
-    "tikName": "Актанышская"
+    "tikName": "Актанышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 635,
     "uikTvd": "4164004172635",
+    "uikName": "УИК №635",
     "tikTvd": "2162000559395",
-    "tikName": "Актанышская"
+    "tikName": "Актанышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 636,
     "uikTvd": "4164004172636",
+    "uikName": "УИК №636",
     "tikTvd": "2162000559395",
-    "tikName": "Актанышская"
+    "tikName": "Актанышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 637,
     "uikTvd": "4164004172637",
+    "uikName": "УИК №637",
     "tikTvd": "2162000559395",
-    "tikName": "Актанышская"
+    "tikName": "Актанышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 638,
     "uikTvd": "4164004172638",
+    "uikName": "УИК №638",
     "tikTvd": "2162000559395",
-    "tikName": "Актанышская"
+    "tikName": "Актанышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 639,
     "uikTvd": "4164004172639",
+    "uikName": "УИК №639",
     "tikTvd": "2162000559395",
-    "tikName": "Актанышская"
+    "tikName": "Актанышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 640,
     "uikTvd": "4164004172640",
+    "uikName": "УИК №640",
     "tikTvd": "2162000559395",
-    "tikName": "Актанышская"
+    "tikName": "Актанышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 641,
     "uikTvd": "4164004172641",
+    "uikName": "УИК №641",
     "tikTvd": "2162000559395",
-    "tikName": "Актанышская"
+    "tikName": "Актанышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 642,
     "uikTvd": "4164004172642",
+    "uikName": "УИК №642",
     "tikTvd": "2162000559395",
-    "tikName": "Актанышская"
+    "tikName": "Актанышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 643,
     "uikTvd": "4164004172643",
+    "uikName": "УИК №643",
     "tikTvd": "2162000559395",
-    "tikName": "Актанышская"
+    "tikName": "Актанышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 644,
     "uikTvd": "4164004172644",
+    "uikName": "УИК №644",
     "tikTvd": "2162000559395",
-    "tikName": "Актанышская"
+    "tikName": "Актанышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 645,
     "uikTvd": "4164004172645",
+    "uikName": "УИК №645",
     "tikTvd": "2162000559395",
-    "tikName": "Актанышская"
+    "tikName": "Актанышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 646,
     "uikTvd": "4164004172646",
+    "uikName": "УИК №646",
     "tikTvd": "2162000559395",
-    "tikName": "Актанышская"
+    "tikName": "Актанышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 647,
     "uikTvd": "4164004172647",
+    "uikName": "УИК №647",
     "tikTvd": "2162000559395",
-    "tikName": "Актанышская"
+    "tikName": "Актанышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 648,
     "uikTvd": "4164004172648",
+    "uikName": "УИК №648",
     "tikTvd": "2162000559395",
-    "tikName": "Актанышская"
+    "tikName": "Актанышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 649,
     "uikTvd": "4164004172649",
+    "uikName": "УИК №649",
     "tikTvd": "2162000559395",
-    "tikName": "Актанышская"
+    "tikName": "Актанышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 650,
     "uikTvd": "4164004172650",
+    "uikName": "УИК №650",
     "tikTvd": "2162000559395",
-    "tikName": "Актанышская"
+    "tikName": "Актанышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 651,
     "uikTvd": "4164004172651",
+    "uikName": "УИК №651",
     "tikTvd": "2162000559395",
-    "tikName": "Актанышская"
+    "tikName": "Актанышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 652,
     "uikTvd": "4164004172652",
+    "uikName": "УИК №652",
     "tikTvd": "2162000559395",
-    "tikName": "Актанышская"
+    "tikName": "Актанышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 653,
     "uikTvd": "4164004172653",
+    "uikName": "УИК №653",
     "tikTvd": "2162000559395",
-    "tikName": "Актанышская"
+    "tikName": "Актанышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 654,
     "uikTvd": "4164004172654",
+    "uikName": "УИК №654",
     "tikTvd": "2162000559395",
-    "tikName": "Актанышская"
+    "tikName": "Актанышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 655,
     "uikTvd": "4164004172655",
+    "uikName": "УИК №655",
     "tikTvd": "2162000559395",
-    "tikName": "Актанышская"
+    "tikName": "Актанышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 656,
     "uikTvd": "4164004172656",
+    "uikName": "УИК №656",
     "tikTvd": "2162000559395",
-    "tikName": "Актанышская"
+    "tikName": "Актанышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 657,
     "uikTvd": "4164004172657",
+    "uikName": "УИК №657",
     "tikTvd": "2162000559395",
-    "tikName": "Актанышская"
+    "tikName": "Актанышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 658,
     "uikTvd": "4164004172658",
+    "uikName": "УИК №658",
     "tikTvd": "2162000559395",
-    "tikName": "Актанышская"
+    "tikName": "Актанышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 659,
     "uikTvd": "4164004172659",
+    "uikName": "УИК №659",
     "tikTvd": "2162000559395",
-    "tikName": "Актанышская"
+    "tikName": "Актанышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 660,
     "uikTvd": "4164004172660",
+    "uikName": "УИК №660",
     "tikTvd": "2162000559395",
-    "tikName": "Актанышская"
+    "tikName": "Актанышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 661,
     "uikTvd": "4164004172661",
+    "uikName": "УИК №661",
     "tikTvd": "2162000559395",
-    "tikName": "Актанышская"
+    "tikName": "Актанышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 662,
     "uikTvd": "4164004172662",
+    "uikName": "УИК №662",
     "tikTvd": "2162000559395",
-    "tikName": "Актанышская"
+    "tikName": "Актанышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 663,
     "uikTvd": "4164004172663",
+    "uikName": "УИК №663",
     "tikTvd": "2162000559395",
-    "tikName": "Актанышская"
+    "tikName": "Актанышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 664,
     "uikTvd": "4164004172664",
+    "uikName": "УИК №664",
     "tikTvd": "2162000559395",
-    "tikName": "Актанышская"
+    "tikName": "Актанышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 665,
     "uikTvd": "4164005140458",
+    "uikName": "УИК №665",
     "tikTvd": "2162000559397",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 666,
     "uikTvd": "4164005140459",
+    "uikName": "УИК №666",
     "tikTvd": "2162000559397",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 667,
     "uikTvd": "4164005140460",
+    "uikName": "УИК №667",
     "tikTvd": "2162000559397",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 668,
     "uikTvd": "4164005140461",
+    "uikName": "УИК №668",
     "tikTvd": "2162000559397",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 669,
     "uikTvd": "4164005140462",
+    "uikName": "УИК №669",
     "tikTvd": "2162000559397",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 670,
     "uikTvd": "4164005140463",
+    "uikName": "УИК №670",
     "tikTvd": "2162000559397",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 671,
     "uikTvd": "4164005140464",
+    "uikName": "УИК №671",
     "tikTvd": "2162000559397",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 672,
     "uikTvd": "4164005140465",
+    "uikName": "УИК №672",
     "tikTvd": "2162000559397",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 673,
     "uikTvd": "4164005140466",
+    "uikName": "УИК №673",
     "tikTvd": "2162000559397",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 674,
     "uikTvd": "4164005140467",
+    "uikName": "УИК №674",
     "tikTvd": "2162000559397",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 675,
     "uikTvd": "4164005140468",
+    "uikName": "УИК №675",
     "tikTvd": "2162000559397",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 676,
     "uikTvd": "4164005140469",
+    "uikName": "УИК №676",
     "tikTvd": "2162000559397",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 677,
     "uikTvd": "4164005140470",
+    "uikName": "УИК №677",
     "tikTvd": "2162000559397",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 678,
     "uikTvd": "4164005140471",
+    "uikName": "УИК №678",
     "tikTvd": "2162000559397",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 679,
     "uikTvd": "4164005140472",
+    "uikName": "УИК №679",
     "tikTvd": "2162000559397",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 680,
     "uikTvd": "4164005140473",
+    "uikName": "УИК №680",
     "tikTvd": "2162000559397",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 681,
     "uikTvd": "4164005140474",
+    "uikName": "УИК №681",
     "tikTvd": "2162000559397",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 682,
     "uikTvd": "4164005140475",
+    "uikName": "УИК №682",
     "tikTvd": "2162000559397",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 683,
     "uikTvd": "4164005140476",
+    "uikName": "УИК №683",
     "tikTvd": "2162000559397",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 684,
     "uikTvd": "4164005140477",
+    "uikName": "УИК №684",
     "tikTvd": "2162000559397",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 685,
     "uikTvd": "4164005140478",
+    "uikName": "УИК №685",
     "tikTvd": "2162000559397",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 686,
     "uikTvd": "4164005140479",
+    "uikName": "УИК №686",
     "tikTvd": "2162000559397",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 687,
     "uikTvd": "4164005140480",
+    "uikName": "УИК №687",
     "tikTvd": "2162000559397",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 688,
     "uikTvd": "4164005140481",
+    "uikName": "УИК №688",
     "tikTvd": "2162000559397",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 689,
     "uikTvd": "4164005140482",
+    "uikName": "УИК №689",
     "tikTvd": "2162000559397",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 690,
     "uikTvd": "4164005140483",
+    "uikName": "УИК №690",
     "tikTvd": "2162000559397",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 691,
     "uikTvd": "4164005140484",
+    "uikName": "УИК №691",
     "tikTvd": "2162000559397",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 692,
     "uikTvd": "4164005140485",
+    "uikName": "УИК №692",
     "tikTvd": "2162000559397",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 693,
     "uikTvd": "4164005140486",
+    "uikName": "УИК №693",
     "tikTvd": "2162000559397",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 694,
     "uikTvd": "4164005140487",
+    "uikName": "УИК №694",
     "tikTvd": "2162000559397",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 695,
     "uikTvd": "4164005140488",
+    "uikName": "УИК №695",
     "tikTvd": "2162000559397",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 696,
     "uikTvd": "4164005140489",
+    "uikName": "УИК №696",
     "tikTvd": "2162000559397",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 697,
     "uikTvd": "4164005140490",
+    "uikName": "УИК №697",
     "tikTvd": "2162000559397",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 698,
     "uikTvd": "4164005140491",
+    "uikName": "УИК №698",
     "tikTvd": "2162000559397",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 699,
     "uikTvd": "4164005140492",
+    "uikName": "УИК №699",
     "tikTvd": "2162000559397",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 700,
     "uikTvd": "4164005140493",
+    "uikName": "УИК №700",
     "tikTvd": "2162000559397",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 701,
     "uikTvd": "4164005140494",
+    "uikName": "УИК №701",
     "tikTvd": "2162000559397",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 702,
     "uikTvd": "4164005140495",
+    "uikName": "УИК №702",
     "tikTvd": "2162000559397",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 703,
     "uikTvd": "4164005140496",
+    "uikName": "УИК №703",
     "tikTvd": "2162000559397",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 704,
     "uikTvd": "4164005140497",
+    "uikName": "УИК №704",
     "tikTvd": "2162000559397",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 705,
     "uikTvd": "4164005140498",
+    "uikName": "УИК №705",
     "tikTvd": "2162000559397",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 706,
     "uikTvd": "4164005140499",
+    "uikName": "УИК №706",
     "tikTvd": "2162000559397",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 707,
     "uikTvd": "4164005140500",
+    "uikName": "УИК №707",
     "tikTvd": "2162000559397",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 708,
     "uikTvd": "4164005140501",
+    "uikName": "УИК №708",
     "tikTvd": "2162000559397",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 709,
     "uikTvd": "4164005140502",
+    "uikName": "УИК №709",
     "tikTvd": "2162000559397",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 710,
     "uikTvd": "4164005140503",
+    "uikName": "УИК №710",
     "tikTvd": "2162000559397",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 711,
     "uikTvd": "4164005140504",
+    "uikName": "УИК №711",
     "tikTvd": "2162000559397",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 712,
     "uikTvd": "4164005140505",
+    "uikName": "УИК №712",
     "tikTvd": "2162000559397",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 713,
     "uikTvd": "4164005140506",
+    "uikName": "УИК №713",
     "tikTvd": "2162000559397",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 714,
     "uikTvd": "4164005140507",
+    "uikName": "УИК №714",
     "tikTvd": "2162000559397",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 715,
     "uikTvd": "4164006138556",
+    "uikName": "УИК №715",
     "tikTvd": "2162000559392",
-    "tikName": "Алькеевская"
+    "tikName": "Алькеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 716,
     "uikTvd": "4164006138557",
+    "uikName": "УИК №716",
     "tikTvd": "2162000559392",
-    "tikName": "Алькеевская"
+    "tikName": "Алькеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 717,
     "uikTvd": "4164006138558",
+    "uikName": "УИК №717",
     "tikTvd": "2162000559392",
-    "tikName": "Алькеевская"
+    "tikName": "Алькеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 718,
     "uikTvd": "4164006138559",
+    "uikName": "УИК №718",
     "tikTvd": "2162000559392",
-    "tikName": "Алькеевская"
+    "tikName": "Алькеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 719,
     "uikTvd": "4164006138560",
+    "uikName": "УИК №719",
     "tikTvd": "2162000559392",
-    "tikName": "Алькеевская"
+    "tikName": "Алькеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 720,
     "uikTvd": "4164006138561",
+    "uikName": "УИК №720",
     "tikTvd": "2162000559392",
-    "tikName": "Алькеевская"
+    "tikName": "Алькеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 721,
     "uikTvd": "4164006138562",
+    "uikName": "УИК №721",
     "tikTvd": "2162000559392",
-    "tikName": "Алькеевская"
+    "tikName": "Алькеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 722,
     "uikTvd": "4164006138563",
+    "uikName": "УИК №722",
     "tikTvd": "2162000559392",
-    "tikName": "Алькеевская"
+    "tikName": "Алькеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 723,
     "uikTvd": "4164006138564",
+    "uikName": "УИК №723",
     "tikTvd": "2162000559392",
-    "tikName": "Алькеевская"
+    "tikName": "Алькеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 724,
     "uikTvd": "4164006138565",
+    "uikName": "УИК №724",
     "tikTvd": "2162000559392",
-    "tikName": "Алькеевская"
+    "tikName": "Алькеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 725,
     "uikTvd": "4164006138566",
+    "uikName": "УИК №725",
     "tikTvd": "2162000559392",
-    "tikName": "Алькеевская"
+    "tikName": "Алькеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 726,
     "uikTvd": "4164006138567",
+    "uikName": "УИК №726",
     "tikTvd": "2162000559392",
-    "tikName": "Алькеевская"
+    "tikName": "Алькеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 727,
     "uikTvd": "4164006138568",
+    "uikName": "УИК №727",
     "tikTvd": "2162000559392",
-    "tikName": "Алькеевская"
+    "tikName": "Алькеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 728,
     "uikTvd": "4164006138569",
+    "uikName": "УИК №728",
     "tikTvd": "2162000559392",
-    "tikName": "Алькеевская"
+    "tikName": "Алькеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 729,
     "uikTvd": "4164006138570",
+    "uikName": "УИК №729",
     "tikTvd": "2162000559392",
-    "tikName": "Алькеевская"
+    "tikName": "Алькеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 730,
     "uikTvd": "4164006138571",
+    "uikName": "УИК №730",
     "tikTvd": "2162000559392",
-    "tikName": "Алькеевская"
+    "tikName": "Алькеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 731,
     "uikTvd": "4164006138572",
+    "uikName": "УИК №731",
     "tikTvd": "2162000559392",
-    "tikName": "Алькеевская"
+    "tikName": "Алькеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 732,
     "uikTvd": "4164006138573",
+    "uikName": "УИК №732",
     "tikTvd": "2162000559392",
-    "tikName": "Алькеевская"
+    "tikName": "Алькеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 733,
     "uikTvd": "4164006138574",
+    "uikName": "УИК №733",
     "tikTvd": "2162000559392",
-    "tikName": "Алькеевская"
+    "tikName": "Алькеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 734,
     "uikTvd": "4164006138575",
+    "uikName": "УИК №734",
     "tikTvd": "2162000559392",
-    "tikName": "Алькеевская"
+    "tikName": "Алькеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 735,
     "uikTvd": "4164006138576",
+    "uikName": "УИК №735",
     "tikTvd": "2162000559392",
-    "tikName": "Алькеевская"
+    "tikName": "Алькеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 736,
     "uikTvd": "4164006138577",
+    "uikName": "УИК №736",
     "tikTvd": "2162000559392",
-    "tikName": "Алькеевская"
+    "tikName": "Алькеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 737,
     "uikTvd": "4164006138578",
+    "uikName": "УИК №737",
     "tikTvd": "2162000559392",
-    "tikName": "Алькеевская"
+    "tikName": "Алькеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 738,
     "uikTvd": "4164006138579",
+    "uikName": "УИК №738",
     "tikTvd": "2162000559392",
-    "tikName": "Алькеевская"
+    "tikName": "Алькеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 739,
     "uikTvd": "4164006138580",
+    "uikName": "УИК №739",
     "tikTvd": "2162000559392",
-    "tikName": "Алькеевская"
+    "tikName": "Алькеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 740,
     "uikTvd": "4164006138581",
+    "uikName": "УИК №740",
     "tikTvd": "2162000559392",
-    "tikName": "Алькеевская"
+    "tikName": "Алькеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 741,
     "uikTvd": "4164006138582",
+    "uikName": "УИК №741",
     "tikTvd": "2162000559392",
-    "tikName": "Алькеевская"
+    "tikName": "Алькеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 742,
     "uikTvd": "4164006138583",
+    "uikName": "УИК №742",
     "tikTvd": "2162000559392",
-    "tikName": "Алькеевская"
+    "tikName": "Алькеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 743,
     "uikTvd": "4164006138584",
+    "uikName": "УИК №743",
     "tikTvd": "2162000559392",
-    "tikName": "Алькеевская"
+    "tikName": "Алькеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 744,
     "uikTvd": "4164006138585",
+    "uikName": "УИК №744",
     "tikTvd": "2162000559392",
-    "tikName": "Алькеевская"
+    "tikName": "Алькеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 745,
     "uikTvd": "4164006138586",
+    "uikName": "УИК №745",
     "tikTvd": "2162000559392",
-    "tikName": "Алькеевская"
+    "tikName": "Алькеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 746,
     "uikTvd": "4164006138587",
+    "uikName": "УИК №746",
     "tikTvd": "2162000559392",
-    "tikName": "Алькеевская"
+    "tikName": "Алькеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 747,
     "uikTvd": "4164006138588",
+    "uikName": "УИК №747",
     "tikTvd": "2162000559392",
-    "tikName": "Алькеевская"
+    "tikName": "Алькеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 748,
     "uikTvd": "4164006138589",
+    "uikName": "УИК №748",
     "tikTvd": "2162000559392",
-    "tikName": "Алькеевская"
+    "tikName": "Алькеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 749,
     "uikTvd": "4164006138590",
+    "uikName": "УИК №749",
     "tikTvd": "2162000559392",
-    "tikName": "Алькеевская"
+    "tikName": "Алькеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 750,
     "uikTvd": "4164006138591",
+    "uikName": "УИК №750",
     "tikTvd": "2162000559392",
-    "tikName": "Алькеевская"
+    "tikName": "Алькеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 751,
     "uikTvd": "4164006138592",
+    "uikName": "УИК №751",
     "tikTvd": "2162000559392",
-    "tikName": "Алькеевская"
+    "tikName": "Алькеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 752,
     "uikTvd": "4164006138593",
+    "uikName": "УИК №752",
     "tikTvd": "2162000559392",
-    "tikName": "Алькеевская"
+    "tikName": "Алькеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 753,
     "uikTvd": "4164006138594",
+    "uikName": "УИК №753",
     "tikTvd": "2162000559392",
-    "tikName": "Алькеевская"
+    "tikName": "Алькеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 754,
     "uikTvd": "4164006138595",
+    "uikName": "УИК №754",
     "tikTvd": "2162000559392",
-    "tikName": "Алькеевская"
+    "tikName": "Алькеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 755,
     "uikTvd": "4164006138596",
+    "uikName": "УИК №755",
     "tikTvd": "2162000559392",
-    "tikName": "Алькеевская"
+    "tikName": "Алькеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 756,
     "uikTvd": "4164006138597",
+    "uikName": "УИК №756",
     "tikTvd": "2162000559392",
-    "tikName": "Алькеевская"
+    "tikName": "Алькеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 757,
     "uikTvd": "4164006138598",
+    "uikName": "УИК №757",
     "tikTvd": "2162000559392",
-    "tikName": "Алькеевская"
+    "tikName": "Алькеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 758,
     "uikTvd": "4164006138599",
+    "uikName": "УИК №758",
     "tikTvd": "2162000559392",
-    "tikName": "Алькеевская"
+    "tikName": "Алькеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 759,
     "uikTvd": "4164006138600",
+    "uikName": "УИК №759",
     "tikTvd": "2162000559392",
-    "tikName": "Алькеевская"
+    "tikName": "Алькеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 760,
     "uikTvd": "4164006138601",
+    "uikName": "УИК №760",
     "tikTvd": "2162000559392",
-    "tikName": "Алькеевская"
+    "tikName": "Алькеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 761,
     "uikTvd": "4164006138602",
+    "uikName": "УИК №761",
     "tikTvd": "2162000559392",
-    "tikName": "Алькеевская"
+    "tikName": "Алькеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 762,
     "uikTvd": "4164006138603",
+    "uikName": "УИК №762",
     "tikTvd": "2162000559392",
-    "tikName": "Алькеевская"
+    "tikName": "Алькеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 763,
     "uikTvd": "4164006138604",
+    "uikName": "УИК №763",
     "tikTvd": "2162000559392",
-    "tikName": "Алькеевская"
+    "tikName": "Алькеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 764,
     "uikTvd": "4164007113560",
+    "uikName": "УИК №764",
     "tikTvd": "2162000559393",
-    "tikName": "Альметьевская городская"
+    "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 765,
     "uikTvd": "4164007113561",
+    "uikName": "УИК №765",
     "tikTvd": "2162000559393",
-    "tikName": "Альметьевская городская"
+    "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 766,
     "uikTvd": "4164007113562",
+    "uikName": "УИК №766",
     "tikTvd": "2162000559393",
-    "tikName": "Альметьевская городская"
+    "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 767,
     "uikTvd": "4164007113563",
+    "uikName": "УИК №767",
     "tikTvd": "2162000559393",
-    "tikName": "Альметьевская городская"
+    "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 768,
     "uikTvd": "4164007113564",
+    "uikName": "УИК №768",
     "tikTvd": "2162000559393",
-    "tikName": "Альметьевская городская"
+    "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 769,
     "uikTvd": "4164007113565",
+    "uikName": "УИК №769",
     "tikTvd": "2162000559393",
-    "tikName": "Альметьевская городская"
+    "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 770,
     "uikTvd": "4164007113566",
+    "uikName": "УИК №770",
     "tikTvd": "2162000559393",
-    "tikName": "Альметьевская городская"
+    "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 771,
     "uikTvd": "4164007113567",
+    "uikName": "УИК №771",
     "tikTvd": "2162000559393",
-    "tikName": "Альметьевская городская"
+    "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 772,
     "uikTvd": "4164007113568",
+    "uikName": "УИК №772",
     "tikTvd": "2162000559393",
-    "tikName": "Альметьевская городская"
+    "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 773,
     "uikTvd": "4164007113569",
+    "uikName": "УИК №773",
     "tikTvd": "2162000559393",
-    "tikName": "Альметьевская городская"
+    "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 774,
     "uikTvd": "4164007113570",
+    "uikName": "УИК №774",
     "tikTvd": "2162000559393",
-    "tikName": "Альметьевская городская"
+    "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 775,
     "uikTvd": "4164007113571",
+    "uikName": "УИК №775",
     "tikTvd": "2162000559393",
-    "tikName": "Альметьевская городская"
+    "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 776,
     "uikTvd": "4164007113572",
+    "uikName": "УИК №776",
     "tikTvd": "2162000559393",
-    "tikName": "Альметьевская городская"
+    "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 777,
     "uikTvd": "4164007113573",
+    "uikName": "УИК №777",
     "tikTvd": "2162000559393",
-    "tikName": "Альметьевская городская"
+    "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 778,
     "uikTvd": "4164007113574",
+    "uikName": "УИК №778",
     "tikTvd": "2162000559393",
-    "tikName": "Альметьевская городская"
+    "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 779,
     "uikTvd": "4164007113575",
+    "uikName": "УИК №779",
     "tikTvd": "2162000559393",
-    "tikName": "Альметьевская городская"
+    "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 780,
     "uikTvd": "4164007113576",
+    "uikName": "УИК №780",
     "tikTvd": "2162000559393",
-    "tikName": "Альметьевская городская"
+    "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 781,
     "uikTvd": "4164007113577",
+    "uikName": "УИК №781",
     "tikTvd": "2162000559393",
-    "tikName": "Альметьевская городская"
+    "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 782,
     "uikTvd": "4164007113578",
+    "uikName": "УИК №782",
     "tikTvd": "2162000559393",
-    "tikName": "Альметьевская городская"
+    "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 783,
     "uikTvd": "4164007113579",
+    "uikName": "УИК №783",
     "tikTvd": "2162000559393",
-    "tikName": "Альметьевская городская"
+    "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 784,
     "uikTvd": "4164007113580",
+    "uikName": "УИК №784",
     "tikTvd": "2162000559393",
-    "tikName": "Альметьевская городская"
+    "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 785,
     "uikTvd": "4164007113581",
+    "uikName": "УИК №785",
     "tikTvd": "2162000559393",
-    "tikName": "Альметьевская городская"
+    "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 786,
     "uikTvd": "4164007113582",
+    "uikName": "УИК №786",
     "tikTvd": "2162000559393",
-    "tikName": "Альметьевская городская"
+    "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 787,
     "uikTvd": "4164007113583",
+    "uikName": "УИК №787",
     "tikTvd": "2162000559393",
-    "tikName": "Альметьевская городская"
+    "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 788,
     "uikTvd": "4164007113584",
+    "uikName": "УИК №788",
     "tikTvd": "2162000559393",
-    "tikName": "Альметьевская городская"
+    "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 789,
     "uikTvd": "4164007113585",
+    "uikName": "УИК №789",
     "tikTvd": "2162000559393",
-    "tikName": "Альметьевская городская"
+    "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 790,
     "uikTvd": "4164007113586",
+    "uikName": "УИК №790",
     "tikTvd": "2162000559393",
-    "tikName": "Альметьевская городская"
+    "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 791,
     "uikTvd": "4164007113587",
+    "uikName": "УИК №791",
     "tikTvd": "2162000559393",
-    "tikName": "Альметьевская городская"
+    "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 792,
     "uikTvd": "4164007113588",
+    "uikName": "УИК №792",
     "tikTvd": "2162000559393",
-    "tikName": "Альметьевская городская"
+    "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 793,
     "uikTvd": "4164007113589",
+    "uikName": "УИК №793",
     "tikTvd": "2162000559393",
-    "tikName": "Альметьевская городская"
+    "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 794,
     "uikTvd": "4164007113590",
+    "uikName": "УИК №794",
     "tikTvd": "2162000559393",
-    "tikName": "Альметьевская городская"
+    "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 795,
     "uikTvd": "4164007113591",
+    "uikName": "УИК №795",
     "tikTvd": "2162000559393",
-    "tikName": "Альметьевская городская"
+    "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 796,
     "uikTvd": "4164007113592",
+    "uikName": "УИК №796",
     "tikTvd": "2162000559393",
-    "tikName": "Альметьевская городская"
+    "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 797,
     "uikTvd": "4164007113593",
+    "uikName": "УИК №797",
     "tikTvd": "2162000559393",
-    "tikName": "Альметьевская городская"
+    "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 798,
     "uikTvd": "4164007113594",
+    "uikName": "УИК №798",
     "tikTvd": "2162000559393",
-    "tikName": "Альметьевская городская"
+    "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 799,
     "uikTvd": "4164007113595",
+    "uikName": "УИК №799",
     "tikTvd": "2162000559393",
-    "tikName": "Альметьевская городская"
+    "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 800,
     "uikTvd": "4164007113596",
+    "uikName": "УИК №800",
     "tikTvd": "2162000559393",
-    "tikName": "Альметьевская городская"
+    "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 801,
     "uikTvd": "4164007113597",
+    "uikName": "УИК №801",
     "tikTvd": "2162000559393",
-    "tikName": "Альметьевская городская"
+    "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 802,
     "uikTvd": "4164007113598",
+    "uikName": "УИК №802",
     "tikTvd": "2162000559393",
-    "tikName": "Альметьевская городская"
+    "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 803,
     "uikTvd": "4164007113599",
+    "uikName": "УИК №803",
     "tikTvd": "2162000559393",
-    "tikName": "Альметьевская городская"
+    "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 804,
     "uikTvd": "4164007113600",
+    "uikName": "УИК №804",
     "tikTvd": "2162000559393",
-    "tikName": "Альметьевская городская"
+    "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 805,
     "uikTvd": "4164007113601",
+    "uikName": "УИК №805",
     "tikTvd": "2162000559393",
-    "tikName": "Альметьевская городская"
+    "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 806,
     "uikTvd": "4164007113602",
+    "uikName": "УИК №806",
     "tikTvd": "2162000559393",
-    "tikName": "Альметьевская городская"
+    "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 807,
     "uikTvd": "4164007113603",
+    "uikName": "УИК №807",
     "tikTvd": "2162000559393",
-    "tikName": "Альметьевская городская"
+    "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 808,
     "uikTvd": "4164007113604",
+    "uikName": "УИК №808",
     "tikTvd": "2162000559393",
-    "tikName": "Альметьевская городская"
+    "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 809,
     "uikTvd": "4164007113605",
+    "uikName": "УИК №809",
     "tikTvd": "2162000559393",
-    "tikName": "Альметьевская городская"
+    "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 810,
     "uikTvd": "4164007113606",
+    "uikName": "УИК №810",
     "tikTvd": "2162000559393",
-    "tikName": "Альметьевская городская"
+    "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 811,
     "uikTvd": "4164007113607",
+    "uikName": "УИК №811",
     "tikTvd": "2162000559393",
-    "tikName": "Альметьевская городская"
+    "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 812,
     "uikTvd": "4164007113608",
+    "uikName": "УИК №812",
     "tikTvd": "2162000559393",
-    "tikName": "Альметьевская городская"
+    "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 813,
     "uikTvd": "4164007113609",
+    "uikName": "УИК №813",
     "tikTvd": "2162000559393",
-    "tikName": "Альметьевская городская"
+    "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 814,
     "uikTvd": "4164007113610",
+    "uikName": "УИК №814",
     "tikTvd": "2162000559393",
-    "tikName": "Альметьевская городская"
+    "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 815,
     "uikTvd": "4164007113611",
+    "uikName": "УИК №815",
     "tikTvd": "2162000559393",
-    "tikName": "Альметьевская городская"
+    "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 816,
     "uikTvd": "4164007113612",
+    "uikName": "УИК №816",
     "tikTvd": "2162000559393",
-    "tikName": "Альметьевская городская"
+    "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 817,
     "uikTvd": "4164007113613",
+    "uikName": "УИК №817",
     "tikTvd": "2162000559393",
-    "tikName": "Альметьевская городская"
+    "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 818,
     "uikTvd": "4164007113614",
+    "uikName": "УИК №818",
     "tikTvd": "2162000559393",
-    "tikName": "Альметьевская городская"
+    "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 819,
     "uikTvd": "4164007113615",
+    "uikName": "УИК №819",
     "tikTvd": "2162000559393",
-    "tikName": "Альметьевская городская"
+    "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 820,
     "uikTvd": "4164007113616",
+    "uikName": "УИК №820",
     "tikTvd": "2162000559393",
-    "tikName": "Альметьевская городская"
+    "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 821,
     "uikTvd": "4164007113617",
+    "uikName": "УИК №821",
     "tikTvd": "2162000559393",
-    "tikName": "Альметьевская городская"
+    "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 822,
     "uikTvd": "4164007113618",
+    "uikName": "УИК №822",
     "tikTvd": "2162000559393",
-    "tikName": "Альметьевская городская"
+    "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 823,
     "uikTvd": "4164053203806",
+    "uikName": "УИК №823",
     "tikTvd": "2162000559349",
-    "tikName": "Альметьевская"
+    "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 824,
     "uikTvd": "4164053203807",
+    "uikName": "УИК №824",
     "tikTvd": "2162000559349",
-    "tikName": "Альметьевская"
+    "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 825,
     "uikTvd": "4164053203808",
+    "uikName": "УИК №825",
     "tikTvd": "2162000559349",
-    "tikName": "Альметьевская"
+    "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 826,
     "uikTvd": "4164053203809",
+    "uikName": "УИК №826",
     "tikTvd": "2162000559349",
-    "tikName": "Альметьевская"
+    "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 827,
     "uikTvd": "4164053203810",
+    "uikName": "УИК №827",
     "tikTvd": "2162000559349",
-    "tikName": "Альметьевская"
+    "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 828,
     "uikTvd": "4164053203811",
+    "uikName": "УИК №828",
     "tikTvd": "2162000559349",
-    "tikName": "Альметьевская"
+    "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 829,
     "uikTvd": "4164053203812",
+    "uikName": "УИК №829",
     "tikTvd": "2162000559349",
-    "tikName": "Альметьевская"
+    "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 830,
     "uikTvd": "4164053203813",
+    "uikName": "УИК №830",
     "tikTvd": "2162000559349",
-    "tikName": "Альметьевская"
+    "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 831,
     "uikTvd": "4164053203814",
+    "uikName": "УИК №831",
     "tikTvd": "2162000559349",
-    "tikName": "Альметьевская"
+    "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 832,
     "uikTvd": "4164053203815",
+    "uikName": "УИК №832",
     "tikTvd": "2162000559349",
-    "tikName": "Альметьевская"
+    "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 833,
     "uikTvd": "4164053203816",
+    "uikName": "УИК №833",
     "tikTvd": "2162000559349",
-    "tikName": "Альметьевская"
+    "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 834,
     "uikTvd": "4164053203817",
+    "uikName": "УИК №834",
     "tikTvd": "2162000559349",
-    "tikName": "Альметьевская"
+    "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 835,
     "uikTvd": "4164053203855",
+    "uikName": "УИК №835",
     "tikTvd": "2162000559349",
-    "tikName": "Альметьевская"
+    "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 836,
     "uikTvd": "4164053203818",
+    "uikName": "УИК №836",
     "tikTvd": "2162000559349",
-    "tikName": "Альметьевская"
+    "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 837,
     "uikTvd": "4164053203819",
+    "uikName": "УИК №837",
     "tikTvd": "2162000559349",
-    "tikName": "Альметьевская"
+    "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 838,
     "uikTvd": "4164053203820",
+    "uikName": "УИК №838",
     "tikTvd": "2162000559349",
-    "tikName": "Альметьевская"
+    "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 839,
     "uikTvd": "4164053203821",
+    "uikName": "УИК №839",
     "tikTvd": "2162000559349",
-    "tikName": "Альметьевская"
+    "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 840,
     "uikTvd": "4164053203822",
+    "uikName": "УИК №840",
     "tikTvd": "2162000559349",
-    "tikName": "Альметьевская"
+    "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 841,
     "uikTvd": "4164053203823",
+    "uikName": "УИК №841",
     "tikTvd": "2162000559349",
-    "tikName": "Альметьевская"
+    "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 842,
     "uikTvd": "4164053203824",
+    "uikName": "УИК №842",
     "tikTvd": "2162000559349",
-    "tikName": "Альметьевская"
+    "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 843,
     "uikTvd": "4164053203825",
+    "uikName": "УИК №843",
     "tikTvd": "2162000559349",
-    "tikName": "Альметьевская"
+    "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 844,
     "uikTvd": "4164053203826",
+    "uikName": "УИК №844",
     "tikTvd": "2162000559349",
-    "tikName": "Альметьевская"
+    "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 845,
     "uikTvd": "4164053203827",
+    "uikName": "УИК №845",
     "tikTvd": "2162000559349",
-    "tikName": "Альметьевская"
+    "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 846,
     "uikTvd": "4164053203828",
+    "uikName": "УИК №846",
     "tikTvd": "2162000559349",
-    "tikName": "Альметьевская"
+    "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 847,
     "uikTvd": "4164053203829",
+    "uikName": "УИК №847",
     "tikTvd": "2162000559349",
-    "tikName": "Альметьевская"
+    "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 848,
     "uikTvd": "4164053203830",
+    "uikName": "УИК №848",
     "tikTvd": "2162000559349",
-    "tikName": "Альметьевская"
+    "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 849,
     "uikTvd": "4164053203856",
+    "uikName": "УИК №849",
     "tikTvd": "2162000559349",
-    "tikName": "Альметьевская"
+    "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 850,
     "uikTvd": "4164053203831",
+    "uikName": "УИК №850",
     "tikTvd": "2162000559349",
-    "tikName": "Альметьевская"
+    "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 851,
     "uikTvd": "4164053203832",
+    "uikName": "УИК №851",
     "tikTvd": "2162000559349",
-    "tikName": "Альметьевская"
+    "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 852,
     "uikTvd": "4164053203833",
+    "uikName": "УИК №852",
     "tikTvd": "2162000559349",
-    "tikName": "Альметьевская"
+    "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 853,
     "uikTvd": "4164053203834",
+    "uikName": "УИК №853",
     "tikTvd": "2162000559349",
-    "tikName": "Альметьевская"
+    "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 854,
     "uikTvd": "4164053203835",
+    "uikName": "УИК №854",
     "tikTvd": "2162000559349",
-    "tikName": "Альметьевская"
+    "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 855,
     "uikTvd": "4164053203836",
+    "uikName": "УИК №855",
     "tikTvd": "2162000559349",
-    "tikName": "Альметьевская"
+    "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 856,
     "uikTvd": "4164053203837",
+    "uikName": "УИК №856",
     "tikTvd": "2162000559349",
-    "tikName": "Альметьевская"
+    "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 857,
     "uikTvd": "4164053203838",
+    "uikName": "УИК №857",
     "tikTvd": "2162000559349",
-    "tikName": "Альметьевская"
+    "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 858,
     "uikTvd": "4164053203839",
+    "uikName": "УИК №858",
     "tikTvd": "2162000559349",
-    "tikName": "Альметьевская"
+    "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 859,
     "uikTvd": "4164053203840",
+    "uikName": "УИК №859",
     "tikTvd": "2162000559349",
-    "tikName": "Альметьевская"
+    "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 860,
     "uikTvd": "4164053203841",
+    "uikName": "УИК №860",
     "tikTvd": "2162000559349",
-    "tikName": "Альметьевская"
+    "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 861,
     "uikTvd": "4164053203842",
+    "uikName": "УИК №861",
     "tikTvd": "2162000559349",
-    "tikName": "Альметьевская"
+    "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 862,
     "uikTvd": "4164053203843",
+    "uikName": "УИК №862",
     "tikTvd": "2162000559349",
-    "tikName": "Альметьевская"
+    "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 863,
     "uikTvd": "4164053203844",
+    "uikName": "УИК №863",
     "tikTvd": "2162000559349",
-    "tikName": "Альметьевская"
+    "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 864,
     "uikTvd": "4164053203845",
+    "uikName": "УИК №864",
     "tikTvd": "2162000559349",
-    "tikName": "Альметьевская"
+    "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 865,
     "uikTvd": "4164053203846",
+    "uikName": "УИК №865",
     "tikTvd": "2162000559349",
-    "tikName": "Альметьевская"
+    "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 866,
     "uikTvd": "4164053203847",
+    "uikName": "УИК №866",
     "tikTvd": "2162000559349",
-    "tikName": "Альметьевская"
+    "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 867,
     "uikTvd": "4164053203848",
+    "uikName": "УИК №867",
     "tikTvd": "2162000559349",
-    "tikName": "Альметьевская"
+    "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 868,
     "uikTvd": "4164053203849",
+    "uikName": "УИК №868",
     "tikTvd": "2162000559349",
-    "tikName": "Альметьевская"
+    "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 869,
     "uikTvd": "4164053203850",
+    "uikName": "УИК №869",
     "tikTvd": "2162000559349",
-    "tikName": "Альметьевская"
+    "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 870,
     "uikTvd": "4164053203851",
+    "uikName": "УИК №870",
     "tikTvd": "2162000559349",
-    "tikName": "Альметьевская"
+    "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 871,
     "uikTvd": "4164053203852",
+    "uikName": "УИК №871",
     "tikTvd": "2162000559349",
-    "tikName": "Альметьевская"
+    "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 872,
     "uikTvd": "4164053203853",
+    "uikName": "УИК №872",
     "tikTvd": "2162000559349",
-    "tikName": "Альметьевская"
+    "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 873,
     "uikTvd": "4164053203854",
+    "uikName": "УИК №873",
     "tikTvd": "2162000559349",
-    "tikName": "Альметьевская"
+    "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 874,
     "uikTvd": "4164053203803",
+    "uikName": "УИК №874",
     "tikTvd": "2162000559349",
-    "tikName": "Альметьевская"
+    "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 875,
     "uikTvd": "4164053203804",
+    "uikName": "УИК №875",
     "tikTvd": "2162000559349",
-    "tikName": "Альметьевская"
+    "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 876,
     "uikTvd": "4164053203805",
+    "uikName": "УИК №876",
     "tikTvd": "2162000559349",
-    "tikName": "Альметьевская"
+    "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 877,
     "uikTvd": "4164008143253",
+    "uikName": "УИК №877",
     "tikTvd": "2162000559394",
-    "tikName": "Апастовская"
+    "tikName": "Апастовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 878,
     "uikTvd": "4164008143254",
+    "uikName": "УИК №878",
     "tikTvd": "2162000559394",
-    "tikName": "Апастовская"
+    "tikName": "Апастовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 879,
     "uikTvd": "4164008143255",
+    "uikName": "УИК №879",
     "tikTvd": "2162000559394",
-    "tikName": "Апастовская"
+    "tikName": "Апастовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 880,
     "uikTvd": "4164008143256",
+    "uikName": "УИК №880",
     "tikTvd": "2162000559394",
-    "tikName": "Апастовская"
+    "tikName": "Апастовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 881,
     "uikTvd": "4164008143257",
+    "uikName": "УИК №881",
     "tikTvd": "2162000559394",
-    "tikName": "Апастовская"
+    "tikName": "Апастовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 882,
     "uikTvd": "4164008143258",
+    "uikName": "УИК №882",
     "tikTvd": "2162000559394",
-    "tikName": "Апастовская"
+    "tikName": "Апастовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 883,
     "uikTvd": "4164008143259",
+    "uikName": "УИК №883",
     "tikTvd": "2162000559394",
-    "tikName": "Апастовская"
+    "tikName": "Апастовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 884,
     "uikTvd": "4164008143260",
+    "uikName": "УИК №884",
     "tikTvd": "2162000559394",
-    "tikName": "Апастовская"
+    "tikName": "Апастовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 885,
     "uikTvd": "4164008143261",
+    "uikName": "УИК №885",
     "tikTvd": "2162000559394",
-    "tikName": "Апастовская"
+    "tikName": "Апастовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 886,
     "uikTvd": "4164008143262",
+    "uikName": "УИК №886",
     "tikTvd": "2162000559394",
-    "tikName": "Апастовская"
+    "tikName": "Апастовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 887,
     "uikTvd": "4164008143263",
+    "uikName": "УИК №887",
     "tikTvd": "2162000559394",
-    "tikName": "Апастовская"
+    "tikName": "Апастовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 888,
     "uikTvd": "4164008143264",
+    "uikName": "УИК №888",
     "tikTvd": "2162000559394",
-    "tikName": "Апастовская"
+    "tikName": "Апастовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 889,
     "uikTvd": "4164008143265",
+    "uikName": "УИК №889",
     "tikTvd": "2162000559394",
-    "tikName": "Апастовская"
+    "tikName": "Апастовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 890,
     "uikTvd": "4164008143266",
+    "uikName": "УИК №890",
     "tikTvd": "2162000559394",
-    "tikName": "Апастовская"
+    "tikName": "Апастовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 891,
     "uikTvd": "4164008143267",
+    "uikName": "УИК №891",
     "tikTvd": "2162000559394",
-    "tikName": "Апастовская"
+    "tikName": "Апастовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 892,
     "uikTvd": "4164008143268",
+    "uikName": "УИК №892",
     "tikTvd": "2162000559394",
-    "tikName": "Апастовская"
+    "tikName": "Апастовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 893,
     "uikTvd": "4164008143269",
+    "uikName": "УИК №893",
     "tikTvd": "2162000559394",
-    "tikName": "Апастовская"
+    "tikName": "Апастовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 894,
     "uikTvd": "4164008143270",
+    "uikName": "УИК №894",
     "tikTvd": "2162000559394",
-    "tikName": "Апастовская"
+    "tikName": "Апастовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 895,
     "uikTvd": "4164008143271",
+    "uikName": "УИК №895",
     "tikTvd": "2162000559394",
-    "tikName": "Апастовская"
+    "tikName": "Апастовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 896,
     "uikTvd": "4164008143272",
+    "uikName": "УИК №896",
     "tikTvd": "2162000559394",
-    "tikName": "Апастовская"
+    "tikName": "Апастовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 897,
     "uikTvd": "4164008143273",
+    "uikName": "УИК №897",
     "tikTvd": "2162000559394",
-    "tikName": "Апастовская"
+    "tikName": "Апастовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 898,
     "uikTvd": "4164008143274",
+    "uikName": "УИК №898",
     "tikTvd": "2162000559394",
-    "tikName": "Апастовская"
+    "tikName": "Апастовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 899,
     "uikTvd": "4164008143275",
+    "uikName": "УИК №899",
     "tikTvd": "2162000559394",
-    "tikName": "Апастовская"
+    "tikName": "Апастовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 900,
     "uikTvd": "4164008143276",
+    "uikName": "УИК №900",
     "tikTvd": "2162000559394",
-    "tikName": "Апастовская"
+    "tikName": "Апастовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 901,
     "uikTvd": "4164008143277",
+    "uikName": "УИК №901",
     "tikTvd": "2162000559394",
-    "tikName": "Апастовская"
+    "tikName": "Апастовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 902,
     "uikTvd": "4164008143278",
+    "uikName": "УИК №902",
     "tikTvd": "2162000559394",
-    "tikName": "Апастовская"
+    "tikName": "Апастовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 903,
     "uikTvd": "4164008143279",
+    "uikName": "УИК №903",
     "tikTvd": "2162000559394",
-    "tikName": "Апастовская"
+    "tikName": "Апастовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 904,
     "uikTvd": "4164008143280",
+    "uikName": "УИК №904",
     "tikTvd": "2162000559394",
-    "tikName": "Апастовская"
+    "tikName": "Апастовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 905,
     "uikTvd": "4164008143281",
+    "uikName": "УИК №905",
     "tikTvd": "2162000559394",
-    "tikName": "Апастовская"
+    "tikName": "Апастовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 906,
     "uikTvd": "4164008143282",
+    "uikName": "УИК №906",
     "tikTvd": "2162000559394",
-    "tikName": "Апастовская"
+    "tikName": "Апастовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 907,
     "uikTvd": "4164008143283",
+    "uikName": "УИК №907",
     "tikTvd": "2162000559394",
-    "tikName": "Апастовская"
+    "tikName": "Апастовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 908,
     "uikTvd": "4164008143284",
+    "uikName": "УИК №908",
     "tikTvd": "2162000559394",
-    "tikName": "Апастовская"
+    "tikName": "Апастовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 909,
     "uikTvd": "4164008143285",
+    "uikName": "УИК №909",
     "tikTvd": "2162000559394",
-    "tikName": "Апастовская"
+    "tikName": "Апастовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 910,
     "uikTvd": "4164008143286",
+    "uikName": "УИК №910",
     "tikTvd": "2162000559394",
-    "tikName": "Апастовская"
+    "tikName": "Апастовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 911,
     "uikTvd": "4164008143287",
+    "uikName": "УИК №911",
     "tikTvd": "2162000559394",
-    "tikName": "Апастовская"
+    "tikName": "Апастовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 912,
     "uikTvd": "4164008143288",
+    "uikName": "УИК №912",
     "tikTvd": "2162000559394",
-    "tikName": "Апастовская"
+    "tikName": "Апастовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 913,
     "uikTvd": "4164008143289",
+    "uikName": "УИК №913",
     "tikTvd": "2162000559394",
-    "tikName": "Апастовская"
+    "tikName": "Апастовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 914,
     "uikTvd": "4164008143290",
+    "uikName": "УИК №914",
     "tikTvd": "2162000559394",
-    "tikName": "Апастовская"
+    "tikName": "Апастовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 915,
     "uikTvd": "4164008143291",
+    "uikName": "УИК №915",
     "tikTvd": "2162000559394",
-    "tikName": "Апастовская"
+    "tikName": "Апастовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 916,
     "uikTvd": "4164008143292",
+    "uikName": "УИК №916",
     "tikTvd": "2162000559394",
-    "tikName": "Апастовская"
+    "tikName": "Апастовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 917,
     "uikTvd": "4164008143293",
+    "uikName": "УИК №917",
     "tikTvd": "2162000559394",
-    "tikName": "Апастовская"
+    "tikName": "Апастовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 918,
     "uikTvd": "4164008143294",
+    "uikName": "УИК №918",
     "tikTvd": "2162000559394",
-    "tikName": "Апастовская"
+    "tikName": "Апастовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 919,
     "uikTvd": "4164008143295",
+    "uikName": "УИК №919",
     "tikTvd": "2162000559394",
-    "tikName": "Апастовская"
+    "tikName": "Апастовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 920,
     "uikTvd": "4164008143296",
+    "uikName": "УИК №920",
     "tikTvd": "2162000559394",
-    "tikName": "Апастовская"
+    "tikName": "Апастовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 921,
     "uikTvd": "4164008143297",
+    "uikName": "УИК №921",
     "tikTvd": "2162000559394",
-    "tikName": "Апастовская"
+    "tikName": "Апастовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 922,
     "uikTvd": "4164008143298",
+    "uikName": "УИК №922",
     "tikTvd": "2162000559394",
-    "tikName": "Апастовская"
+    "tikName": "Апастовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 923,
     "uikTvd": "4164008143299",
+    "uikName": "УИК №923",
     "tikTvd": "2162000559394",
-    "tikName": "Апастовская"
+    "tikName": "Апастовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 924,
     "uikTvd": "4164008143300",
+    "uikName": "УИК №924",
     "tikTvd": "2162000559394",
-    "tikName": "Апастовская"
+    "tikName": "Апастовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 925,
     "uikTvd": "4164008143301",
+    "uikName": "УИК №925",
     "tikTvd": "2162000559394",
-    "tikName": "Апастовская"
+    "tikName": "Апастовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 926,
     "uikTvd": "4164008143302",
+    "uikName": "УИК №926",
     "tikTvd": "2162000559394",
-    "tikName": "Апастовская"
+    "tikName": "Апастовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 927,
     "uikTvd": "4164008143303",
+    "uikName": "УИК №927",
     "tikTvd": "2162000559394",
-    "tikName": "Апастовская"
+    "tikName": "Апастовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 928,
     "uikTvd": "4164008143304",
+    "uikName": "УИК №928",
     "tikTvd": "2162000559394",
-    "tikName": "Апастовская"
+    "tikName": "Апастовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 929,
     "uikTvd": "4164008143305",
+    "uikName": "УИК №929",
     "tikTvd": "2162000559394",
-    "tikName": "Апастовская"
+    "tikName": "Апастовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 930,
     "uikTvd": "4164008143306",
+    "uikName": "УИК №930",
     "tikTvd": "2162000559394",
-    "tikName": "Апастовская"
+    "tikName": "Апастовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 931,
     "uikTvd": "4164008143307",
+    "uikName": "УИК №931",
     "tikTvd": "2162000559394",
-    "tikName": "Апастовская"
+    "tikName": "Апастовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 932,
     "uikTvd": "4164008143308",
+    "uikName": "УИК №932",
     "tikTvd": "2162000559394",
-    "tikName": "Апастовская"
+    "tikName": "Апастовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 933,
     "uikTvd": "4164008143309",
+    "uikName": "УИК №933",
     "tikTvd": "2162000559394",
-    "tikName": "Апастовская"
+    "tikName": "Апастовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 934,
     "uikTvd": "4164009188307",
+    "uikName": "УИК №934",
     "tikTvd": "2162000559389",
-    "tikName": "Арская"
+    "tikName": "Арская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 935,
     "uikTvd": "4164009188308",
+    "uikName": "УИК №935",
     "tikTvd": "2162000559389",
-    "tikName": "Арская"
+    "tikName": "Арская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 936,
     "uikTvd": "4164009188309",
+    "uikName": "УИК №936",
     "tikTvd": "2162000559389",
-    "tikName": "Арская"
+    "tikName": "Арская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 937,
     "uikTvd": "4164009188310",
+    "uikName": "УИК №937",
     "tikTvd": "2162000559389",
-    "tikName": "Арская"
+    "tikName": "Арская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 938,
     "uikTvd": "4164009188311",
+    "uikName": "УИК №938",
     "tikTvd": "2162000559389",
-    "tikName": "Арская"
+    "tikName": "Арская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 939,
     "uikTvd": "4164009188312",
+    "uikName": "УИК №939",
     "tikTvd": "2162000559389",
-    "tikName": "Арская"
+    "tikName": "Арская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 940,
     "uikTvd": "4164009188313",
+    "uikName": "УИК №940",
     "tikTvd": "2162000559389",
-    "tikName": "Арская"
+    "tikName": "Арская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 941,
     "uikTvd": "4164009188314",
+    "uikName": "УИК №941",
     "tikTvd": "2162000559389",
-    "tikName": "Арская"
+    "tikName": "Арская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 942,
     "uikTvd": "4164009188315",
+    "uikName": "УИК №942",
     "tikTvd": "2162000559389",
-    "tikName": "Арская"
+    "tikName": "Арская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 943,
     "uikTvd": "4164009188316",
+    "uikName": "УИК №943",
     "tikTvd": "2162000559389",
-    "tikName": "Арская"
+    "tikName": "Арская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 944,
     "uikTvd": "4164009188317",
+    "uikName": "УИК №944",
     "tikTvd": "2162000559389",
-    "tikName": "Арская"
+    "tikName": "Арская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 945,
     "uikTvd": "4164009188318",
+    "uikName": "УИК №945",
     "tikTvd": "2162000559389",
-    "tikName": "Арская"
+    "tikName": "Арская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 946,
     "uikTvd": "4164009188319",
+    "uikName": "УИК №946",
     "tikTvd": "2162000559389",
-    "tikName": "Арская"
+    "tikName": "Арская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 947,
     "uikTvd": "4164009188320",
+    "uikName": "УИК №947",
     "tikTvd": "2162000559389",
-    "tikName": "Арская"
+    "tikName": "Арская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 948,
     "uikTvd": "4164009188321",
+    "uikName": "УИК №948",
     "tikTvd": "2162000559389",
-    "tikName": "Арская"
+    "tikName": "Арская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 949,
     "uikTvd": "4164009188322",
+    "uikName": "УИК №949",
     "tikTvd": "2162000559389",
-    "tikName": "Арская"
+    "tikName": "Арская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 950,
     "uikTvd": "4164009188323",
+    "uikName": "УИК №950",
     "tikTvd": "2162000559389",
-    "tikName": "Арская"
+    "tikName": "Арская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 951,
     "uikTvd": "4164009188324",
+    "uikName": "УИК №951",
     "tikTvd": "2162000559389",
-    "tikName": "Арская"
+    "tikName": "Арская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 952,
     "uikTvd": "4164009188325",
+    "uikName": "УИК №952",
     "tikTvd": "2162000559389",
-    "tikName": "Арская"
+    "tikName": "Арская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 953,
     "uikTvd": "4164009188326",
+    "uikName": "УИК №953",
     "tikTvd": "2162000559389",
-    "tikName": "Арская"
+    "tikName": "Арская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 954,
     "uikTvd": "4164009188327",
+    "uikName": "УИК №954",
     "tikTvd": "2162000559389",
-    "tikName": "Арская"
+    "tikName": "Арская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 955,
     "uikTvd": "4164009188328",
+    "uikName": "УИК №955",
     "tikTvd": "2162000559389",
-    "tikName": "Арская"
+    "tikName": "Арская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 956,
     "uikTvd": "4164009188329",
+    "uikName": "УИК №956",
     "tikTvd": "2162000559389",
-    "tikName": "Арская"
+    "tikName": "Арская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 957,
     "uikTvd": "4164009188330",
+    "uikName": "УИК №957",
     "tikTvd": "2162000559389",
-    "tikName": "Арская"
+    "tikName": "Арская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 958,
     "uikTvd": "4164009188331",
+    "uikName": "УИК №958",
     "tikTvd": "2162000559389",
-    "tikName": "Арская"
+    "tikName": "Арская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 959,
     "uikTvd": "4164009188332",
+    "uikName": "УИК №959",
     "tikTvd": "2162000559389",
-    "tikName": "Арская"
+    "tikName": "Арская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 960,
     "uikTvd": "4164009188333",
+    "uikName": "УИК №960",
     "tikTvd": "2162000559389",
-    "tikName": "Арская"
+    "tikName": "Арская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 961,
     "uikTvd": "4164009188334",
+    "uikName": "УИК №961",
     "tikTvd": "2162000559389",
-    "tikName": "Арская"
+    "tikName": "Арская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 962,
     "uikTvd": "4164009188335",
+    "uikName": "УИК №962",
     "tikTvd": "2162000559389",
-    "tikName": "Арская"
+    "tikName": "Арская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 963,
     "uikTvd": "4164009188336",
+    "uikName": "УИК №963",
     "tikTvd": "2162000559389",
-    "tikName": "Арская"
+    "tikName": "Арская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 964,
     "uikTvd": "4164009188337",
+    "uikName": "УИК №964",
     "tikTvd": "2162000559389",
-    "tikName": "Арская"
+    "tikName": "Арская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 965,
     "uikTvd": "4164009188338",
+    "uikName": "УИК №965",
     "tikTvd": "2162000559389",
-    "tikName": "Арская"
+    "tikName": "Арская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 966,
     "uikTvd": "4164009188339",
+    "uikName": "УИК №966",
     "tikTvd": "2162000559389",
-    "tikName": "Арская"
+    "tikName": "Арская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 967,
     "uikTvd": "4164009188340",
+    "uikName": "УИК №967",
     "tikTvd": "2162000559389",
-    "tikName": "Арская"
+    "tikName": "Арская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 968,
     "uikTvd": "4164009188341",
+    "uikName": "УИК №968",
     "tikTvd": "2162000559389",
-    "tikName": "Арская"
+    "tikName": "Арская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 969,
     "uikTvd": "4164009188342",
+    "uikName": "УИК №969",
     "tikTvd": "2162000559389",
-    "tikName": "Арская"
+    "tikName": "Арская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 970,
     "uikTvd": "4164009188343",
+    "uikName": "УИК №970",
     "tikTvd": "2162000559389",
-    "tikName": "Арская"
+    "tikName": "Арская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 971,
     "uikTvd": "4164009188344",
+    "uikName": "УИК №971",
     "tikTvd": "2162000559389",
-    "tikName": "Арская"
+    "tikName": "Арская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 972,
     "uikTvd": "4164009188345",
+    "uikName": "УИК №972",
     "tikTvd": "2162000559389",
-    "tikName": "Арская"
+    "tikName": "Арская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 973,
     "uikTvd": "4164009188346",
+    "uikName": "УИК №973",
     "tikTvd": "2162000559389",
-    "tikName": "Арская"
+    "tikName": "Арская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 974,
     "uikTvd": "4164009188347",
+    "uikName": "УИК №974",
     "tikTvd": "2162000559389",
-    "tikName": "Арская"
+    "tikName": "Арская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 975,
     "uikTvd": "4164009188348",
+    "uikName": "УИК №975",
     "tikTvd": "2162000559389",
-    "tikName": "Арская"
+    "tikName": "Арская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 976,
     "uikTvd": "4164009188349",
+    "uikName": "УИК №976",
     "tikTvd": "2162000559389",
-    "tikName": "Арская"
+    "tikName": "Арская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 977,
     "uikTvd": "4164009188350",
+    "uikName": "УИК №977",
     "tikTvd": "2162000559389",
-    "tikName": "Арская"
+    "tikName": "Арская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 978,
     "uikTvd": "4164009188351",
+    "uikName": "УИК №978",
     "tikTvd": "2162000559389",
-    "tikName": "Арская"
+    "tikName": "Арская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 979,
     "uikTvd": "4164009188352",
+    "uikName": "УИК №979",
     "tikTvd": "2162000559389",
-    "tikName": "Арская"
+    "tikName": "Арская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 980,
     "uikTvd": "4164009188353",
+    "uikName": "УИК №980",
     "tikTvd": "2162000559389",
-    "tikName": "Арская"
+    "tikName": "Арская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 981,
     "uikTvd": "4164009188354",
+    "uikName": "УИК №981",
     "tikTvd": "2162000559389",
-    "tikName": "Арская"
+    "tikName": "Арская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 982,
     "uikTvd": "4164009188355",
+    "uikName": "УИК №982",
     "tikTvd": "2162000559389",
-    "tikName": "Арская"
+    "tikName": "Арская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 983,
     "uikTvd": "4164009188356",
+    "uikName": "УИК №983",
     "tikTvd": "2162000559389",
-    "tikName": "Арская"
+    "tikName": "Арская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 984,
     "uikTvd": "4164009188357",
+    "uikName": "УИК №984",
     "tikTvd": "2162000559389",
-    "tikName": "Арская"
+    "tikName": "Арская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 985,
     "uikTvd": "4164009188358",
+    "uikName": "УИК №985",
     "tikTvd": "2162000559389",
-    "tikName": "Арская"
+    "tikName": "Арская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 986,
     "uikTvd": "4164009188359",
+    "uikName": "УИК №986",
     "tikTvd": "2162000559389",
-    "tikName": "Арская"
+    "tikName": "Арская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 987,
     "uikTvd": "4164009188360",
+    "uikName": "УИК №987",
     "tikTvd": "2162000559389",
-    "tikName": "Арская"
+    "tikName": "Арская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 988,
     "uikTvd": "4164009188361",
+    "uikName": "УИК №988",
     "tikTvd": "2162000559389",
-    "tikName": "Арская"
+    "tikName": "Арская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 989,
     "uikTvd": "4164009188362",
+    "uikName": "УИК №989",
     "tikTvd": "2162000559389",
-    "tikName": "Арская"
+    "tikName": "Арская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 990,
     "uikTvd": "4164009188363",
+    "uikName": "УИК №990",
     "tikTvd": "2162000559389",
-    "tikName": "Арская"
+    "tikName": "Арская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 991,
     "uikTvd": "4164009188364",
+    "uikName": "УИК №991",
     "tikTvd": "2162000559389",
-    "tikName": "Арская"
+    "tikName": "Арская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 992,
     "uikTvd": "4164009188365",
+    "uikName": "УИК №992",
     "tikTvd": "2162000559389",
-    "tikName": "Арская"
+    "tikName": "Арская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 993,
     "uikTvd": "4164009188366",
+    "uikName": "УИК №993",
     "tikTvd": "2162000559389",
-    "tikName": "Арская"
+    "tikName": "Арская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 994,
     "uikTvd": "4164009188367",
+    "uikName": "УИК №994",
     "tikTvd": "2162000559389",
-    "tikName": "Арская"
+    "tikName": "Арская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 995,
     "uikTvd": "4164009188368",
+    "uikName": "УИК №995",
     "tikTvd": "2162000559389",
-    "tikName": "Арская"
+    "tikName": "Арская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 996,
     "uikTvd": "4164010119483",
+    "uikName": "УИК №996",
     "tikTvd": "2162000559391",
-    "tikName": "Атнинская"
+    "tikName": "Атнинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 997,
     "uikTvd": "4164010119484",
+    "uikName": "УИК №997",
     "tikTvd": "2162000559391",
-    "tikName": "Атнинская"
+    "tikName": "Атнинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 998,
     "uikTvd": "4164010119485",
+    "uikName": "УИК №998",
     "tikTvd": "2162000559391",
-    "tikName": "Атнинская"
+    "tikName": "Атнинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 999,
     "uikTvd": "4164010119486",
+    "uikName": "УИК №999",
     "tikTvd": "2162000559391",
-    "tikName": "Атнинская"
+    "tikName": "Атнинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1000,
     "uikTvd": "4164010119487",
+    "uikName": "УИК №1000",
     "tikTvd": "2162000559391",
-    "tikName": "Атнинская"
+    "tikName": "Атнинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1001,
     "uikTvd": "4164010119488",
+    "uikName": "УИК №1001",
     "tikTvd": "2162000559391",
-    "tikName": "Атнинская"
+    "tikName": "Атнинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1002,
     "uikTvd": "4164010119489",
+    "uikName": "УИК №1002",
     "tikTvd": "2162000559391",
-    "tikName": "Атнинская"
+    "tikName": "Атнинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1003,
     "uikTvd": "4164010119490",
+    "uikName": "УИК №1003",
     "tikTvd": "2162000559391",
-    "tikName": "Атнинская"
+    "tikName": "Атнинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1004,
     "uikTvd": "4164010119491",
+    "uikName": "УИК №1004",
     "tikTvd": "2162000559391",
-    "tikName": "Атнинская"
+    "tikName": "Атнинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1005,
     "uikTvd": "4164010119492",
+    "uikName": "УИК №1005",
     "tikTvd": "2162000559391",
-    "tikName": "Атнинская"
+    "tikName": "Атнинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1006,
     "uikTvd": "4164010119493",
+    "uikName": "УИК №1006",
     "tikTvd": "2162000559391",
-    "tikName": "Атнинская"
+    "tikName": "Атнинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1007,
     "uikTvd": "4164010119494",
+    "uikName": "УИК №1007",
     "tikTvd": "2162000559391",
-    "tikName": "Атнинская"
+    "tikName": "Атнинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1008,
     "uikTvd": "4164010119495",
+    "uikName": "УИК №1008",
     "tikTvd": "2162000559391",
-    "tikName": "Атнинская"
+    "tikName": "Атнинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1009,
     "uikTvd": "4164010119496",
+    "uikName": "УИК №1009",
     "tikTvd": "2162000559391",
-    "tikName": "Атнинская"
+    "tikName": "Атнинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1010,
     "uikTvd": "4164010119497",
+    "uikName": "УИК №1010",
     "tikTvd": "2162000559391",
-    "tikName": "Атнинская"
+    "tikName": "Атнинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1011,
     "uikTvd": "4164010119498",
+    "uikName": "УИК №1011",
     "tikTvd": "2162000559391",
-    "tikName": "Атнинская"
+    "tikName": "Атнинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1012,
     "uikTvd": "4164010119499",
+    "uikName": "УИК №1012",
     "tikTvd": "2162000559391",
-    "tikName": "Атнинская"
+    "tikName": "Атнинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1013,
     "uikTvd": "4164010119500",
+    "uikName": "УИК №1013",
     "tikTvd": "2162000559391",
-    "tikName": "Атнинская"
+    "tikName": "Атнинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1014,
     "uikTvd": "4164010119501",
+    "uikName": "УИК №1014",
     "tikTvd": "2162000559391",
-    "tikName": "Атнинская"
+    "tikName": "Атнинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1015,
     "uikTvd": "4164010119502",
+    "uikName": "УИК №1015",
     "tikTvd": "2162000559391",
-    "tikName": "Атнинская"
+    "tikName": "Атнинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1016,
     "uikTvd": "4164010119503",
+    "uikName": "УИК №1016",
     "tikTvd": "2162000559391",
-    "tikName": "Атнинская"
+    "tikName": "Атнинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1017,
     "uikTvd": "4164010119504",
+    "uikName": "УИК №1017",
     "tikTvd": "2162000559391",
-    "tikName": "Атнинская"
+    "tikName": "Атнинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1018,
     "uikTvd": "4164010119505",
+    "uikName": "УИК №1018",
     "tikTvd": "2162000559391",
-    "tikName": "Атнинская"
+    "tikName": "Атнинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1019,
     "uikTvd": "4164010119506",
+    "uikName": "УИК №1019",
     "tikTvd": "2162000559391",
-    "tikName": "Атнинская"
+    "tikName": "Атнинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1020,
     "uikTvd": "4164010119507",
+    "uikName": "УИК №1020",
     "tikTvd": "2162000559391",
-    "tikName": "Атнинская"
+    "tikName": "Атнинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1021,
     "uikTvd": "416401188093",
+    "uikName": "УИК №1021",
     "tikTvd": "2162000559390",
-    "tikName": "Бавлинская городская"
+    "tikName": "Бавлинская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1022,
     "uikTvd": "416401188094",
+    "uikName": "УИК №1022",
     "tikTvd": "2162000559390",
-    "tikName": "Бавлинская городская"
+    "tikName": "Бавлинская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1023,
     "uikTvd": "416401188095",
+    "uikName": "УИК №1023",
     "tikTvd": "2162000559390",
-    "tikName": "Бавлинская городская"
+    "tikName": "Бавлинская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1024,
     "uikTvd": "416401188096",
+    "uikName": "УИК №1024",
     "tikTvd": "2162000559390",
-    "tikName": "Бавлинская городская"
+    "tikName": "Бавлинская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1025,
     "uikTvd": "416401188097",
+    "uikName": "УИК №1025",
     "tikTvd": "2162000559390",
-    "tikName": "Бавлинская городская"
+    "tikName": "Бавлинская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1026,
     "uikTvd": "416401188098",
+    "uikName": "УИК №1026",
     "tikTvd": "2162000559390",
-    "tikName": "Бавлинская городская"
+    "tikName": "Бавлинская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1027,
     "uikTvd": "416401188099",
+    "uikName": "УИК №1027",
     "tikTvd": "2162000559390",
-    "tikName": "Бавлинская городская"
+    "tikName": "Бавлинская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1028,
     "uikTvd": "416401188100",
+    "uikName": "УИК №1028",
     "tikTvd": "2162000559390",
-    "tikName": "Бавлинская городская"
+    "tikName": "Бавлинская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1029,
     "uikTvd": "416401188101",
+    "uikName": "УИК №1029",
     "tikTvd": "2162000559390",
-    "tikName": "Бавлинская городская"
+    "tikName": "Бавлинская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1030,
     "uikTvd": "416401188102",
+    "uikName": "УИК №1030",
     "tikTvd": "2162000559390",
-    "tikName": "Бавлинская городская"
+    "tikName": "Бавлинская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1031,
     "uikTvd": "416401188103",
+    "uikName": "УИК №1031",
     "tikTvd": "2162000559390",
-    "tikName": "Бавлинская городская"
+    "tikName": "Бавлинская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1032,
     "uikTvd": "416401188104",
+    "uikName": "УИК №1032",
     "tikTvd": "2162000559390",
-    "tikName": "Бавлинская городская"
+    "tikName": "Бавлинская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1033,
     "uikTvd": "416401188105",
+    "uikName": "УИК №1033",
     "tikTvd": "2162000559390",
-    "tikName": "Бавлинская городская"
+    "tikName": "Бавлинская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1034,
     "uikTvd": "416401188106",
+    "uikName": "УИК №1034",
     "tikTvd": "2162000559390",
-    "tikName": "Бавлинская городская"
+    "tikName": "Бавлинская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1035,
     "uikTvd": "416401188107",
+    "uikName": "УИК №1035",
     "tikTvd": "2162000559390",
-    "tikName": "Бавлинская городская"
+    "tikName": "Бавлинская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1036,
     "uikTvd": "416401188108",
+    "uikName": "УИК №1036",
     "tikTvd": "2162000559390",
-    "tikName": "Бавлинская городская"
+    "tikName": "Бавлинская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1037,
     "uikTvd": "4164061128426",
+    "uikName": "УИК №1037",
     "tikTvd": "2162000559341",
-    "tikName": "Бавлинская"
+    "tikName": "Бавлинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1038,
     "uikTvd": "4164061128427",
+    "uikName": "УИК №1038",
     "tikTvd": "2162000559341",
-    "tikName": "Бавлинская"
+    "tikName": "Бавлинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1039,
     "uikTvd": "4164061128428",
+    "uikName": "УИК №1039",
     "tikTvd": "2162000559341",
-    "tikName": "Бавлинская"
+    "tikName": "Бавлинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1040,
     "uikTvd": "4164061128429",
+    "uikName": "УИК №1040",
     "tikTvd": "2162000559341",
-    "tikName": "Бавлинская"
+    "tikName": "Бавлинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1041,
     "uikTvd": "4164061128430",
+    "uikName": "УИК №1041",
     "tikTvd": "2162000559341",
-    "tikName": "Бавлинская"
+    "tikName": "Бавлинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1042,
     "uikTvd": "4164061128431",
+    "uikName": "УИК №1042",
     "tikTvd": "2162000559341",
-    "tikName": "Бавлинская"
+    "tikName": "Бавлинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1043,
     "uikTvd": "4164061128432",
+    "uikName": "УИК №1043",
     "tikTvd": "2162000559341",
-    "tikName": "Бавлинская"
+    "tikName": "Бавлинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1044,
     "uikTvd": "4164061128433",
+    "uikName": "УИК №1044",
     "tikTvd": "2162000559341",
-    "tikName": "Бавлинская"
+    "tikName": "Бавлинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1045,
     "uikTvd": "4164061128434",
+    "uikName": "УИК №1045",
     "tikTvd": "2162000559341",
-    "tikName": "Бавлинская"
+    "tikName": "Бавлинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1046,
     "uikTvd": "4164061128435",
+    "uikName": "УИК №1046",
     "tikTvd": "2162000559341",
-    "tikName": "Бавлинская"
+    "tikName": "Бавлинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1047,
     "uikTvd": "4164061128436",
+    "uikName": "УИК №1047",
     "tikTvd": "2162000559341",
-    "tikName": "Бавлинская"
+    "tikName": "Бавлинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1048,
     "uikTvd": "4164061128437",
+    "uikName": "УИК №1048",
     "tikTvd": "2162000559341",
-    "tikName": "Бавлинская"
+    "tikName": "Бавлинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1049,
     "uikTvd": "4164061128438",
+    "uikName": "УИК №1049",
     "tikTvd": "2162000559341",
-    "tikName": "Бавлинская"
+    "tikName": "Бавлинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1050,
     "uikTvd": "4164061128439",
+    "uikName": "УИК №1050",
     "tikTvd": "2162000559341",
-    "tikName": "Бавлинская"
+    "tikName": "Бавлинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1051,
     "uikTvd": "4164061128440",
+    "uikName": "УИК №1051",
     "tikTvd": "2162000559341",
-    "tikName": "Бавлинская"
+    "tikName": "Бавлинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1052,
     "uikTvd": "4164061128441",
+    "uikName": "УИК №1052",
     "tikTvd": "2162000559341",
-    "tikName": "Бавлинская"
+    "tikName": "Бавлинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1053,
     "uikTvd": "4164061128442",
+    "uikName": "УИК №1053",
     "tikTvd": "2162000559341",
-    "tikName": "Бавлинская"
+    "tikName": "Бавлинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1054,
     "uikTvd": "4164061128443",
+    "uikName": "УИК №1054",
     "tikTvd": "2162000559341",
-    "tikName": "Бавлинская"
+    "tikName": "Бавлинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1055,
     "uikTvd": "4164061128444",
+    "uikName": "УИК №1055",
     "tikTvd": "2162000559341",
-    "tikName": "Бавлинская"
+    "tikName": "Бавлинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1056,
     "uikTvd": "4164061128445",
+    "uikName": "УИК №1056",
     "tikTvd": "2162000559341",
-    "tikName": "Бавлинская"
+    "tikName": "Бавлинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1057,
     "uikTvd": "4164061128446",
+    "uikName": "УИК №1057",
     "tikTvd": "2162000559341",
-    "tikName": "Бавлинская"
+    "tikName": "Бавлинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1058,
     "uikTvd": "4164061128447",
+    "uikName": "УИК №1058",
     "tikTvd": "2162000559341",
-    "tikName": "Бавлинская"
+    "tikName": "Бавлинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1059,
     "uikTvd": "4164012138768",
+    "uikName": "УИК №1059",
     "tikTvd": "2162000559386",
-    "tikName": "Балтасинская"
+    "tikName": "Балтасинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1060,
     "uikTvd": "4164012138769",
+    "uikName": "УИК №1060",
     "tikTvd": "2162000559386",
-    "tikName": "Балтасинская"
+    "tikName": "Балтасинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1061,
     "uikTvd": "4164012138770",
+    "uikName": "УИК №1061",
     "tikTvd": "2162000559386",
-    "tikName": "Балтасинская"
+    "tikName": "Балтасинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1062,
     "uikTvd": "4164012138771",
+    "uikName": "УИК №1062",
     "tikTvd": "2162000559386",
-    "tikName": "Балтасинская"
+    "tikName": "Балтасинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1063,
     "uikTvd": "4164012138772",
+    "uikName": "УИК №1063",
     "tikTvd": "2162000559386",
-    "tikName": "Балтасинская"
+    "tikName": "Балтасинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1064,
     "uikTvd": "4164012138773",
+    "uikName": "УИК №1064",
     "tikTvd": "2162000559386",
-    "tikName": "Балтасинская"
+    "tikName": "Балтасинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1065,
     "uikTvd": "4164012138774",
+    "uikName": "УИК №1065",
     "tikTvd": "2162000559386",
-    "tikName": "Балтасинская"
+    "tikName": "Балтасинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1066,
     "uikTvd": "4164012138775",
+    "uikName": "УИК №1066",
     "tikTvd": "2162000559386",
-    "tikName": "Балтасинская"
+    "tikName": "Балтасинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1067,
     "uikTvd": "4164012138776",
+    "uikName": "УИК №1067",
     "tikTvd": "2162000559386",
-    "tikName": "Балтасинская"
+    "tikName": "Балтасинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1068,
     "uikTvd": "4164012138777",
+    "uikName": "УИК №1068",
     "tikTvd": "2162000559386",
-    "tikName": "Балтасинская"
+    "tikName": "Балтасинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1069,
     "uikTvd": "4164012138778",
+    "uikName": "УИК №1069",
     "tikTvd": "2162000559386",
-    "tikName": "Балтасинская"
+    "tikName": "Балтасинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1070,
     "uikTvd": "4164012138779",
+    "uikName": "УИК №1070",
     "tikTvd": "2162000559386",
-    "tikName": "Балтасинская"
+    "tikName": "Балтасинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1071,
     "uikTvd": "4164012138780",
+    "uikName": "УИК №1071",
     "tikTvd": "2162000559386",
-    "tikName": "Балтасинская"
+    "tikName": "Балтасинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1072,
     "uikTvd": "4164012138781",
+    "uikName": "УИК №1072",
     "tikTvd": "2162000559386",
-    "tikName": "Балтасинская"
+    "tikName": "Балтасинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1073,
     "uikTvd": "4164012138782",
+    "uikName": "УИК №1073",
     "tikTvd": "2162000559386",
-    "tikName": "Балтасинская"
+    "tikName": "Балтасинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1074,
     "uikTvd": "4164012138783",
+    "uikName": "УИК №1074",
     "tikTvd": "2162000559386",
-    "tikName": "Балтасинская"
+    "tikName": "Балтасинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1075,
     "uikTvd": "4164012138784",
+    "uikName": "УИК №1075",
     "tikTvd": "2162000559386",
-    "tikName": "Балтасинская"
+    "tikName": "Балтасинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1076,
     "uikTvd": "4164012138785",
+    "uikName": "УИК №1076",
     "tikTvd": "2162000559386",
-    "tikName": "Балтасинская"
+    "tikName": "Балтасинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1077,
     "uikTvd": "4164012138786",
+    "uikName": "УИК №1077",
     "tikTvd": "2162000559386",
-    "tikName": "Балтасинская"
+    "tikName": "Балтасинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1078,
     "uikTvd": "4164012138787",
+    "uikName": "УИК №1078",
     "tikTvd": "2162000559386",
-    "tikName": "Балтасинская"
+    "tikName": "Балтасинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1079,
     "uikTvd": "4164012138788",
+    "uikName": "УИК №1079",
     "tikTvd": "2162000559386",
-    "tikName": "Балтасинская"
+    "tikName": "Балтасинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1080,
     "uikTvd": "4164012138789",
+    "uikName": "УИК №1080",
     "tikTvd": "2162000559386",
-    "tikName": "Балтасинская"
+    "tikName": "Балтасинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1081,
     "uikTvd": "4164012138790",
+    "uikName": "УИК №1081",
     "tikTvd": "2162000559386",
-    "tikName": "Балтасинская"
+    "tikName": "Балтасинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1082,
     "uikTvd": "4164012138791",
+    "uikName": "УИК №1082",
     "tikTvd": "2162000559386",
-    "tikName": "Балтасинская"
+    "tikName": "Балтасинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1083,
     "uikTvd": "4164012138792",
+    "uikName": "УИК №1083",
     "tikTvd": "2162000559386",
-    "tikName": "Балтасинская"
+    "tikName": "Балтасинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1084,
     "uikTvd": "4164012138793",
+    "uikName": "УИК №1084",
     "tikTvd": "2162000559386",
-    "tikName": "Балтасинская"
+    "tikName": "Балтасинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1085,
     "uikTvd": "4164012138794",
+    "uikName": "УИК №1085",
     "tikTvd": "2162000559386",
-    "tikName": "Балтасинская"
+    "tikName": "Балтасинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1086,
     "uikTvd": "4164012138795",
+    "uikName": "УИК №1086",
     "tikTvd": "2162000559386",
-    "tikName": "Балтасинская"
+    "tikName": "Балтасинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1087,
     "uikTvd": "4164012138796",
+    "uikName": "УИК №1087",
     "tikTvd": "2162000559386",
-    "tikName": "Балтасинская"
+    "tikName": "Балтасинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1088,
     "uikTvd": "4164012138797",
+    "uikName": "УИК №1088",
     "tikTvd": "2162000559386",
-    "tikName": "Балтасинская"
+    "tikName": "Балтасинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1089,
     "uikTvd": "4164012138798",
+    "uikName": "УИК №1089",
     "tikTvd": "2162000559386",
-    "tikName": "Балтасинская"
+    "tikName": "Балтасинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1090,
     "uikTvd": "4164012138799",
+    "uikName": "УИК №1090",
     "tikTvd": "2162000559386",
-    "tikName": "Балтасинская"
+    "tikName": "Балтасинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1091,
     "uikTvd": "4164012138800",
+    "uikName": "УИК №1091",
     "tikTvd": "2162000559386",
-    "tikName": "Балтасинская"
+    "tikName": "Балтасинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1092,
     "uikTvd": "4164013106583",
+    "uikName": "УИК №1092",
     "tikTvd": "2162000559388",
-    "tikName": "Бугульминская городская"
+    "tikName": "Бугульминская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1093,
     "uikTvd": "4164013106584",
+    "uikName": "УИК №1093",
     "tikTvd": "2162000559388",
-    "tikName": "Бугульминская городская"
+    "tikName": "Бугульминская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1094,
     "uikTvd": "4164013106585",
+    "uikName": "УИК №1094",
     "tikTvd": "2162000559388",
-    "tikName": "Бугульминская городская"
+    "tikName": "Бугульминская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1095,
     "uikTvd": "4164013106586",
+    "uikName": "УИК №1095",
     "tikTvd": "2162000559388",
-    "tikName": "Бугульминская городская"
+    "tikName": "Бугульминская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1096,
     "uikTvd": "4164013106587",
+    "uikName": "УИК №1096",
     "tikTvd": "2162000559388",
-    "tikName": "Бугульминская городская"
+    "tikName": "Бугульминская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1097,
     "uikTvd": "4164013106588",
+    "uikName": "УИК №1097",
     "tikTvd": "2162000559388",
-    "tikName": "Бугульминская городская"
+    "tikName": "Бугульминская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1098,
     "uikTvd": "4164013106589",
+    "uikName": "УИК №1098",
     "tikTvd": "2162000559388",
-    "tikName": "Бугульминская городская"
+    "tikName": "Бугульминская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1099,
     "uikTvd": "4164013106590",
+    "uikName": "УИК №1099",
     "tikTvd": "2162000559388",
-    "tikName": "Бугульминская городская"
+    "tikName": "Бугульминская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1100,
     "uikTvd": "4164013106591",
+    "uikName": "УИК №1100",
     "tikTvd": "2162000559388",
-    "tikName": "Бугульминская городская"
+    "tikName": "Бугульминская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1101,
     "uikTvd": "4164013106592",
+    "uikName": "УИК №1101",
     "tikTvd": "2162000559388",
-    "tikName": "Бугульминская городская"
+    "tikName": "Бугульминская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1102,
     "uikTvd": "4164013106593",
+    "uikName": "УИК №1102",
     "tikTvd": "2162000559388",
-    "tikName": "Бугульминская городская"
+    "tikName": "Бугульминская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1103,
     "uikTvd": "4164013106594",
+    "uikName": "УИК №1103",
     "tikTvd": "2162000559388",
-    "tikName": "Бугульминская городская"
+    "tikName": "Бугульминская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1104,
     "uikTvd": "4164013106595",
+    "uikName": "УИК №1104",
     "tikTvd": "2162000559388",
-    "tikName": "Бугульминская городская"
+    "tikName": "Бугульминская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1105,
     "uikTvd": "4164013106596",
+    "uikName": "УИК №1105",
     "tikTvd": "2162000559388",
-    "tikName": "Бугульминская городская"
+    "tikName": "Бугульминская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1106,
     "uikTvd": "4164013106597",
+    "uikName": "УИК №1106",
     "tikTvd": "2162000559388",
-    "tikName": "Бугульминская городская"
+    "tikName": "Бугульминская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1107,
     "uikTvd": "4164013106598",
+    "uikName": "УИК №1107",
     "tikTvd": "2162000559388",
-    "tikName": "Бугульминская городская"
+    "tikName": "Бугульминская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1108,
     "uikTvd": "4164013106599",
+    "uikName": "УИК №1108",
     "tikTvd": "2162000559388",
-    "tikName": "Бугульминская городская"
+    "tikName": "Бугульминская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1109,
     "uikTvd": "4164013106600",
+    "uikName": "УИК №1109",
     "tikTvd": "2162000559388",
-    "tikName": "Бугульминская городская"
+    "tikName": "Бугульминская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1110,
     "uikTvd": "4164013106601",
+    "uikName": "УИК №1110",
     "tikTvd": "2162000559388",
-    "tikName": "Бугульминская городская"
+    "tikName": "Бугульминская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1111,
     "uikTvd": "4164013106602",
+    "uikName": "УИК №1111",
     "tikTvd": "2162000559388",
-    "tikName": "Бугульминская городская"
+    "tikName": "Бугульминская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1112,
     "uikTvd": "4164013106603",
+    "uikName": "УИК №1112",
     "tikTvd": "2162000559388",
-    "tikName": "Бугульминская городская"
+    "tikName": "Бугульминская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1113,
     "uikTvd": "4164013106604",
+    "uikName": "УИК №1113",
     "tikTvd": "2162000559388",
-    "tikName": "Бугульминская городская"
+    "tikName": "Бугульминская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1114,
     "uikTvd": "4164013106605",
+    "uikName": "УИК №1114",
     "tikTvd": "2162000559388",
-    "tikName": "Бугульминская городская"
+    "tikName": "Бугульминская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1115,
     "uikTvd": "4164013106606",
+    "uikName": "УИК №1115",
     "tikTvd": "2162000559388",
-    "tikName": "Бугульминская городская"
+    "tikName": "Бугульминская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1116,
     "uikTvd": "4164013106607",
+    "uikName": "УИК №1116",
     "tikTvd": "2162000559388",
-    "tikName": "Бугульминская городская"
+    "tikName": "Бугульминская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1117,
     "uikTvd": "4164013106608",
+    "uikName": "УИК №1117",
     "tikTvd": "2162000559388",
-    "tikName": "Бугульминская городская"
+    "tikName": "Бугульминская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1118,
     "uikTvd": "4164013106609",
+    "uikName": "УИК №1118",
     "tikTvd": "2162000559388",
-    "tikName": "Бугульминская городская"
+    "tikName": "Бугульминская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1119,
     "uikTvd": "4164013106610",
+    "uikName": "УИК №1119",
     "tikTvd": "2162000559388",
-    "tikName": "Бугульминская городская"
+    "tikName": "Бугульминская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1120,
     "uikTvd": "4164013106611",
+    "uikName": "УИК №1120",
     "tikTvd": "2162000559388",
-    "tikName": "Бугульминская городская"
+    "tikName": "Бугульминская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1121,
     "uikTvd": "4164013106612",
+    "uikName": "УИК №1121",
     "tikTvd": "2162000559388",
-    "tikName": "Бугульминская городская"
+    "tikName": "Бугульминская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1122,
     "uikTvd": "4164013106613",
+    "uikName": "УИК №1122",
     "tikTvd": "2162000559388",
-    "tikName": "Бугульминская городская"
+    "tikName": "Бугульминская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1123,
     "uikTvd": "4164013106614",
+    "uikName": "УИК №1123",
     "tikTvd": "2162000559388",
-    "tikName": "Бугульминская городская"
+    "tikName": "Бугульминская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1124,
     "uikTvd": "4164013106615",
+    "uikName": "УИК №1124",
     "tikTvd": "2162000559388",
-    "tikName": "Бугульминская городская"
+    "tikName": "Бугульминская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1125,
     "uikTvd": "4164013106616",
+    "uikName": "УИК №1125",
     "tikTvd": "2162000559388",
-    "tikName": "Бугульминская городская"
+    "tikName": "Бугульминская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1126,
     "uikTvd": "4164013106617",
+    "uikName": "УИК №1126",
     "tikTvd": "2162000559388",
-    "tikName": "Бугульминская городская"
+    "tikName": "Бугульминская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1127,
     "uikTvd": "4164013106618",
+    "uikName": "УИК №1127",
     "tikTvd": "2162000559388",
-    "tikName": "Бугульминская городская"
+    "tikName": "Бугульминская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1128,
     "uikTvd": "4164013106619",
+    "uikName": "УИК №1128",
     "tikTvd": "2162000559388",
-    "tikName": "Бугульминская городская"
+    "tikName": "Бугульминская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1129,
     "uikTvd": "4164013106620",
+    "uikName": "УИК №1129",
     "tikTvd": "2162000559388",
-    "tikName": "Бугульминская городская"
+    "tikName": "Бугульминская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1130,
     "uikTvd": "4164013106621",
+    "uikName": "УИК №1130",
     "tikTvd": "2162000559388",
-    "tikName": "Бугульминская городская"
+    "tikName": "Бугульминская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1131,
     "uikTvd": "4164013106622",
+    "uikName": "УИК №1131",
     "tikTvd": "2162000559388",
-    "tikName": "Бугульминская городская"
+    "tikName": "Бугульминская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1132,
     "uikTvd": "4164013106623",
+    "uikName": "УИК №1132",
     "tikTvd": "2162000559388",
-    "tikName": "Бугульминская городская"
+    "tikName": "Бугульминская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1133,
     "uikTvd": "4164013106624",
+    "uikName": "УИК №1133",
     "tikTvd": "2162000559388",
-    "tikName": "Бугульминская городская"
+    "tikName": "Бугульминская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1134,
     "uikTvd": "4164013106625",
+    "uikName": "УИК №1134",
     "tikTvd": "2162000559388",
-    "tikName": "Бугульминская городская"
+    "tikName": "Бугульминская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1135,
     "uikTvd": "4164013106626",
+    "uikName": "УИК №1135",
     "tikTvd": "2162000559388",
-    "tikName": "Бугульминская городская"
+    "tikName": "Бугульминская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1136,
     "uikTvd": "4164013106627",
+    "uikName": "УИК №1136",
     "tikTvd": "2162000559388",
-    "tikName": "Бугульминская городская"
+    "tikName": "Бугульминская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1137,
     "uikTvd": "4164013106628",
+    "uikName": "УИК №1137",
     "tikTvd": "2162000559388",
-    "tikName": "Бугульминская городская"
+    "tikName": "Бугульминская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1138,
     "uikTvd": "4164013106629",
+    "uikName": "УИК №1138",
     "tikTvd": "2162000559388",
-    "tikName": "Бугульминская городская"
+    "tikName": "Бугульминская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1139,
     "uikTvd": "4164013106630",
+    "uikName": "УИК №1139",
     "tikTvd": "2162000559388",
-    "tikName": "Бугульминская городская"
+    "tikName": "Бугульминская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1140,
     "uikTvd": "4164013106631",
+    "uikName": "УИК №1140",
     "tikTvd": "2162000559388",
-    "tikName": "Бугульминская городская"
+    "tikName": "Бугульминская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1141,
     "uikTvd": "4164013106632",
+    "uikName": "УИК №1141",
     "tikTvd": "2162000559388",
-    "tikName": "Бугульминская городская"
+    "tikName": "Бугульминская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1142,
     "uikTvd": "4164054141729",
+    "uikName": "УИК №1142",
     "tikTvd": "2162000559345",
-    "tikName": "Бугульминская"
+    "tikName": "Бугульминская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1143,
     "uikTvd": "4164054141731",
+    "uikName": "УИК №1143",
     "tikTvd": "2162000559345",
-    "tikName": "Бугульминская"
+    "tikName": "Бугульминская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1144,
     "uikTvd": "4164054141732",
+    "uikName": "УИК №1144",
     "tikTvd": "2162000559345",
-    "tikName": "Бугульминская"
+    "tikName": "Бугульминская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1145,
     "uikTvd": "4164054141733",
+    "uikName": "УИК №1145",
     "tikTvd": "2162000559345",
-    "tikName": "Бугульминская"
+    "tikName": "Бугульминская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1146,
     "uikTvd": "4164054141734",
+    "uikName": "УИК №1146",
     "tikTvd": "2162000559345",
-    "tikName": "Бугульминская"
+    "tikName": "Бугульминская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1147,
     "uikTvd": "4164054141735",
+    "uikName": "УИК №1147",
     "tikTvd": "2162000559345",
-    "tikName": "Бугульминская"
+    "tikName": "Бугульминская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1148,
     "uikTvd": "4164054141736",
+    "uikName": "УИК №1148",
     "tikTvd": "2162000559345",
-    "tikName": "Бугульминская"
+    "tikName": "Бугульминская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1149,
     "uikTvd": "4164054141737",
+    "uikName": "УИК №1149",
     "tikTvd": "2162000559345",
-    "tikName": "Бугульминская"
+    "tikName": "Бугульминская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1150,
     "uikTvd": "4164054141738",
+    "uikName": "УИК №1150",
     "tikTvd": "2162000559345",
-    "tikName": "Бугульминская"
+    "tikName": "Бугульминская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1151,
     "uikTvd": "4164054141739",
+    "uikName": "УИК №1151",
     "tikTvd": "2162000559345",
-    "tikName": "Бугульминская"
+    "tikName": "Бугульминская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1152,
     "uikTvd": "4164054141740",
+    "uikName": "УИК №1152",
     "tikTvd": "2162000559345",
-    "tikName": "Бугульминская"
+    "tikName": "Бугульминская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1153,
     "uikTvd": "4164054141741",
+    "uikName": "УИК №1153",
     "tikTvd": "2162000559345",
-    "tikName": "Бугульминская"
+    "tikName": "Бугульминская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1154,
     "uikTvd": "4164054141742",
+    "uikName": "УИК №1154",
     "tikTvd": "2162000559345",
-    "tikName": "Бугульминская"
+    "tikName": "Бугульминская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1155,
     "uikTvd": "4164054141743",
+    "uikName": "УИК №1155",
     "tikTvd": "2162000559345",
-    "tikName": "Бугульминская"
+    "tikName": "Бугульминская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1156,
     "uikTvd": "4164054141744",
+    "uikName": "УИК №1156",
     "tikTvd": "2162000559345",
-    "tikName": "Бугульминская"
+    "tikName": "Бугульминская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1157,
     "uikTvd": "4164054141745",
+    "uikName": "УИК №1157",
     "tikTvd": "2162000559345",
-    "tikName": "Бугульминская"
+    "tikName": "Бугульминская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1158,
     "uikTvd": "4164054141746",
+    "uikName": "УИК №1158",
     "tikTvd": "2162000559345",
-    "tikName": "Бугульминская"
+    "tikName": "Бугульминская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1159,
     "uikTvd": "4164054141747",
+    "uikName": "УИК №1159",
     "tikTvd": "2162000559345",
-    "tikName": "Бугульминская"
+    "tikName": "Бугульминская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1160,
     "uikTvd": "4164054141748",
+    "uikName": "УИК №1160",
     "tikTvd": "2162000559345",
-    "tikName": "Бугульминская"
+    "tikName": "Бугульминская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1161,
     "uikTvd": "4164054141749",
+    "uikName": "УИК №1161",
     "tikTvd": "2162000559345",
-    "tikName": "Бугульминская"
+    "tikName": "Бугульминская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1162,
     "uikTvd": "4164054141750",
+    "uikName": "УИК №1162",
     "tikTvd": "2162000559345",
-    "tikName": "Бугульминская"
+    "tikName": "Бугульминская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1163,
     "uikTvd": "4164054141751",
+    "uikName": "УИК №1163",
     "tikTvd": "2162000559345",
-    "tikName": "Бугульминская"
+    "tikName": "Бугульминская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1164,
     "uikTvd": "4164054141752",
+    "uikName": "УИК №1164",
     "tikTvd": "2162000559345",
-    "tikName": "Бугульминская"
+    "tikName": "Бугульминская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1165,
     "uikTvd": "4164054141753",
+    "uikName": "УИК №1165",
     "tikTvd": "2162000559345",
-    "tikName": "Бугульминская"
+    "tikName": "Бугульминская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1166,
     "uikTvd": "4164054141754",
+    "uikName": "УИК №1166",
     "tikTvd": "2162000559345",
-    "tikName": "Бугульминская"
+    "tikName": "Бугульминская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1167,
     "uikTvd": "4164054141755",
+    "uikName": "УИК №1167",
     "tikTvd": "2162000559345",
-    "tikName": "Бугульминская"
+    "tikName": "Бугульминская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1168,
     "uikTvd": "4164054141756",
+    "uikName": "УИК №1168",
     "tikTvd": "2162000559345",
-    "tikName": "Бугульминская"
+    "tikName": "Бугульминская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1169,
     "uikTvd": "4164054141757",
+    "uikName": "УИК №1169",
     "tikTvd": "2162000559345",
-    "tikName": "Бугульминская"
+    "tikName": "Бугульминская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1170,
     "uikTvd": "4164054141758",
+    "uikName": "УИК №1170",
     "tikTvd": "2162000559345",
-    "tikName": "Бугульминская"
+    "tikName": "Бугульминская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1171,
     "uikTvd": "4164054141759",
+    "uikName": "УИК №1171",
     "tikTvd": "2162000559345",
-    "tikName": "Бугульминская"
+    "tikName": "Бугульминская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1172,
     "uikTvd": "416401493768",
+    "uikName": "УИК №1172",
     "tikTvd": "2162000559387",
-    "tikName": "Буинская городская"
+    "tikName": "Буинская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1173,
     "uikTvd": "416401493769",
+    "uikName": "УИК №1173",
     "tikTvd": "2162000559387",
-    "tikName": "Буинская городская"
+    "tikName": "Буинская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1174,
     "uikTvd": "416401493770",
+    "uikName": "УИК №1174",
     "tikTvd": "2162000559387",
-    "tikName": "Буинская городская"
+    "tikName": "Буинская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1175,
     "uikTvd": "416401493771",
+    "uikName": "УИК №1175",
     "tikTvd": "2162000559387",
-    "tikName": "Буинская городская"
+    "tikName": "Буинская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1176,
     "uikTvd": "416401493772",
+    "uikName": "УИК №1176",
     "tikTvd": "2162000559387",
-    "tikName": "Буинская городская"
+    "tikName": "Буинская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1177,
     "uikTvd": "416401493773",
+    "uikName": "УИК №1177",
     "tikTvd": "2162000559387",
-    "tikName": "Буинская городская"
+    "tikName": "Буинская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1178,
     "uikTvd": "416401493774",
+    "uikName": "УИК №1178",
     "tikTvd": "2162000559387",
-    "tikName": "Буинская городская"
+    "tikName": "Буинская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1179,
     "uikTvd": "416401493775",
+    "uikName": "УИК №1179",
     "tikTvd": "2162000559387",
-    "tikName": "Буинская городская"
+    "tikName": "Буинская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1180,
     "uikTvd": "416401493776",
+    "uikName": "УИК №1180",
     "tikTvd": "2162000559387",
-    "tikName": "Буинская городская"
+    "tikName": "Буинская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1181,
     "uikTvd": "416401493777",
+    "uikName": "УИК №1181",
     "tikTvd": "2162000559387",
-    "tikName": "Буинская городская"
+    "tikName": "Буинская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1182,
     "uikTvd": "416401493778",
+    "uikName": "УИК №1182",
     "tikTvd": "2162000559387",
-    "tikName": "Буинская городская"
+    "tikName": "Буинская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1183,
     "uikTvd": "416401493779",
+    "uikName": "УИК №1183",
     "tikTvd": "2162000559387",
-    "tikName": "Буинская городская"
+    "tikName": "Буинская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1184,
     "uikTvd": "416401493780",
+    "uikName": "УИК №1184",
     "tikTvd": "2162000559387",
-    "tikName": "Буинская городская"
+    "tikName": "Буинская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1185,
     "uikTvd": "416401493781",
+    "uikName": "УИК №1185",
     "tikTvd": "2162000559387",
-    "tikName": "Буинская городская"
+    "tikName": "Буинская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1186,
     "uikTvd": "416401493782",
+    "uikName": "УИК №1186",
     "tikTvd": "2162000559387",
-    "tikName": "Буинская городская"
+    "tikName": "Буинская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1187,
     "uikTvd": "4164063142992",
+    "uikName": "УИК №1187",
     "tikTvd": "2162000559401",
-    "tikName": "Буинская"
+    "tikName": "Буинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1188,
     "uikTvd": "4164063142993",
+    "uikName": "УИК №1188",
     "tikTvd": "2162000559401",
-    "tikName": "Буинская"
+    "tikName": "Буинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1189,
     "uikTvd": "4164063142994",
+    "uikName": "УИК №1189",
     "tikTvd": "2162000559401",
-    "tikName": "Буинская"
+    "tikName": "Буинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1190,
     "uikTvd": "4164063142995",
+    "uikName": "УИК №1190",
     "tikTvd": "2162000559401",
-    "tikName": "Буинская"
+    "tikName": "Буинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1191,
     "uikTvd": "4164063142996",
+    "uikName": "УИК №1191",
     "tikTvd": "2162000559401",
-    "tikName": "Буинская"
+    "tikName": "Буинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1192,
     "uikTvd": "4164063142997",
+    "uikName": "УИК №1192",
     "tikTvd": "2162000559401",
-    "tikName": "Буинская"
+    "tikName": "Буинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1193,
     "uikTvd": "4164063142998",
+    "uikName": "УИК №1193",
     "tikTvd": "2162000559401",
-    "tikName": "Буинская"
+    "tikName": "Буинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1194,
     "uikTvd": "4164063142999",
+    "uikName": "УИК №1194",
     "tikTvd": "2162000559401",
-    "tikName": "Буинская"
+    "tikName": "Буинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1195,
     "uikTvd": "4164063143000",
+    "uikName": "УИК №1195",
     "tikTvd": "2162000559401",
-    "tikName": "Буинская"
+    "tikName": "Буинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1196,
     "uikTvd": "4164063143001",
+    "uikName": "УИК №1196",
     "tikTvd": "2162000559401",
-    "tikName": "Буинская"
+    "tikName": "Буинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1197,
     "uikTvd": "4164063143002",
+    "uikName": "УИК №1197",
     "tikTvd": "2162000559401",
-    "tikName": "Буинская"
+    "tikName": "Буинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1198,
     "uikTvd": "4164063143003",
+    "uikName": "УИК №1198",
     "tikTvd": "2162000559401",
-    "tikName": "Буинская"
+    "tikName": "Буинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1199,
     "uikTvd": "4164063143004",
+    "uikName": "УИК №1199",
     "tikTvd": "2162000559401",
-    "tikName": "Буинская"
+    "tikName": "Буинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1200,
     "uikTvd": "4164063143005",
+    "uikName": "УИК №1200",
     "tikTvd": "2162000559401",
-    "tikName": "Буинская"
+    "tikName": "Буинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1201,
     "uikTvd": "4164063143006",
+    "uikName": "УИК №1201",
     "tikTvd": "2162000559401",
-    "tikName": "Буинская"
+    "tikName": "Буинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1202,
     "uikTvd": "4164063143007",
+    "uikName": "УИК №1202",
     "tikTvd": "2162000559401",
-    "tikName": "Буинская"
+    "tikName": "Буинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1203,
     "uikTvd": "4164063143008",
+    "uikName": "УИК №1203",
     "tikTvd": "2162000559401",
-    "tikName": "Буинская"
+    "tikName": "Буинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1204,
     "uikTvd": "4164063143009",
+    "uikName": "УИК №1204",
     "tikTvd": "2162000559401",
-    "tikName": "Буинская"
+    "tikName": "Буинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1205,
     "uikTvd": "4164063143010",
+    "uikName": "УИК №1205",
     "tikTvd": "2162000559401",
-    "tikName": "Буинская"
+    "tikName": "Буинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1206,
     "uikTvd": "4164063143011",
+    "uikName": "УИК №1206",
     "tikTvd": "2162000559401",
-    "tikName": "Буинская"
+    "tikName": "Буинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1207,
     "uikTvd": "4164063143012",
+    "uikName": "УИК №1207",
     "tikTvd": "2162000559401",
-    "tikName": "Буинская"
+    "tikName": "Буинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1208,
     "uikTvd": "4164063143013",
+    "uikName": "УИК №1208",
     "tikTvd": "2162000559401",
-    "tikName": "Буинская"
+    "tikName": "Буинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1209,
     "uikTvd": "4164063143014",
+    "uikName": "УИК №1209",
     "tikTvd": "2162000559401",
-    "tikName": "Буинская"
+    "tikName": "Буинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1210,
     "uikTvd": "4164063143015",
+    "uikName": "УИК №1210",
     "tikTvd": "2162000559401",
-    "tikName": "Буинская"
+    "tikName": "Буинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1211,
     "uikTvd": "4164063143016",
+    "uikName": "УИК №1211",
     "tikTvd": "2162000559401",
-    "tikName": "Буинская"
+    "tikName": "Буинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1212,
     "uikTvd": "4164063143017",
+    "uikName": "УИК №1212",
     "tikTvd": "2162000559401",
-    "tikName": "Буинская"
+    "tikName": "Буинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1213,
     "uikTvd": "4164063143018",
+    "uikName": "УИК №1213",
     "tikTvd": "2162000559401",
-    "tikName": "Буинская"
+    "tikName": "Буинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1214,
     "uikTvd": "4164063143019",
+    "uikName": "УИК №1214",
     "tikTvd": "2162000559401",
-    "tikName": "Буинская"
+    "tikName": "Буинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1215,
     "uikTvd": "4164063143020",
+    "uikName": "УИК №1215",
     "tikTvd": "2162000559401",
-    "tikName": "Буинская"
+    "tikName": "Буинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1216,
     "uikTvd": "4164063143021",
+    "uikName": "УИК №1216",
     "tikTvd": "2162000559401",
-    "tikName": "Буинская"
+    "tikName": "Буинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1217,
     "uikTvd": "4164063143022",
+    "uikName": "УИК №1217",
     "tikTvd": "2162000559401",
-    "tikName": "Буинская"
+    "tikName": "Буинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1218,
     "uikTvd": "4164063143023",
+    "uikName": "УИК №1218",
     "tikTvd": "2162000559401",
-    "tikName": "Буинская"
+    "tikName": "Буинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1219,
     "uikTvd": "4164063143024",
+    "uikName": "УИК №1219",
     "tikTvd": "2162000559401",
-    "tikName": "Буинская"
+    "tikName": "Буинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1220,
     "uikTvd": "4164063143025",
+    "uikName": "УИК №1220",
     "tikTvd": "2162000559401",
-    "tikName": "Буинская"
+    "tikName": "Буинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1221,
     "uikTvd": "4164063143026",
+    "uikName": "УИК №1221",
     "tikTvd": "2162000559401",
-    "tikName": "Буинская"
+    "tikName": "Буинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1222,
     "uikTvd": "4164063143027",
+    "uikName": "УИК №1222",
     "tikTvd": "2162000559401",
-    "tikName": "Буинская"
+    "tikName": "Буинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1223,
     "uikTvd": "4164063143028",
+    "uikName": "УИК №1223",
     "tikTvd": "2162000559401",
-    "tikName": "Буинская"
+    "tikName": "Буинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1224,
     "uikTvd": "4164063143029",
+    "uikName": "УИК №1224",
     "tikTvd": "2162000559401",
-    "tikName": "Буинская"
+    "tikName": "Буинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1225,
     "uikTvd": "4164063143030",
+    "uikName": "УИК №1225",
     "tikTvd": "2162000559401",
-    "tikName": "Буинская"
+    "tikName": "Буинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1226,
     "uikTvd": "4164063143031",
+    "uikName": "УИК №1226",
     "tikTvd": "2162000559401",
-    "tikName": "Буинская"
+    "tikName": "Буинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1227,
     "uikTvd": "4164063143032",
+    "uikName": "УИК №1227",
     "tikTvd": "2162000559401",
-    "tikName": "Буинская"
+    "tikName": "Буинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1228,
     "uikTvd": "4164063143033",
+    "uikName": "УИК №1228",
     "tikTvd": "2162000559401",
-    "tikName": "Буинская"
+    "tikName": "Буинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1229,
     "uikTvd": "4164063143034",
+    "uikName": "УИК №1229",
     "tikTvd": "2162000559401",
-    "tikName": "Буинская"
+    "tikName": "Буинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1230,
     "uikTvd": "4164063143035",
+    "uikName": "УИК №1230",
     "tikTvd": "2162000559401",
-    "tikName": "Буинская"
+    "tikName": "Буинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1231,
     "uikTvd": "4164063143036",
+    "uikName": "УИК №1231",
     "tikTvd": "2162000559401",
-    "tikName": "Буинская"
+    "tikName": "Буинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1232,
     "uikTvd": "4164063143037",
+    "uikName": "УИК №1232",
     "tikTvd": "2162000559401",
-    "tikName": "Буинская"
+    "tikName": "Буинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1233,
     "uikTvd": "4164063143038",
+    "uikName": "УИК №1233",
     "tikTvd": "2162000559401",
-    "tikName": "Буинская"
+    "tikName": "Буинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1234,
     "uikTvd": "4164063143039",
+    "uikName": "УИК №1234",
     "tikTvd": "2162000559401",
-    "tikName": "Буинская"
+    "tikName": "Буинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1235,
     "uikTvd": "4164063143040",
+    "uikName": "УИК №1235",
     "tikTvd": "2162000559401",
-    "tikName": "Буинская"
+    "tikName": "Буинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1236,
     "uikTvd": "4164063143041",
+    "uikName": "УИК №1236",
     "tikTvd": "2162000559401",
-    "tikName": "Буинская"
+    "tikName": "Буинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1237,
     "uikTvd": "4164063143042",
+    "uikName": "УИК №1237",
     "tikTvd": "2162000559401",
-    "tikName": "Буинская"
+    "tikName": "Буинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1238,
     "uikTvd": "4164063143043",
+    "uikName": "УИК №1238",
     "tikTvd": "2162000559401",
-    "tikName": "Буинская"
+    "tikName": "Буинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1239,
     "uikTvd": "4164063143044",
+    "uikName": "УИК №1239",
     "tikTvd": "2162000559401",
-    "tikName": "Буинская"
+    "tikName": "Буинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1240,
     "uikTvd": "4164063143045",
+    "uikName": "УИК №1240",
     "tikTvd": "2162000559401",
-    "tikName": "Буинская"
+    "tikName": "Буинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1241,
     "uikTvd": "4164063143046",
+    "uikName": "УИК №1241",
     "tikTvd": "2162000559401",
-    "tikName": "Буинская"
+    "tikName": "Буинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1242,
     "uikTvd": "4164063143047",
+    "uikName": "УИК №1242",
     "tikTvd": "2162000559401",
-    "tikName": "Буинская"
+    "tikName": "Буинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1243,
     "uikTvd": "4164063143048",
+    "uikName": "УИК №1243",
     "tikTvd": "2162000559401",
-    "tikName": "Буинская"
+    "tikName": "Буинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1244,
     "uikTvd": "4164063143049",
+    "uikName": "УИК №1244",
     "tikTvd": "2162000559401",
-    "tikName": "Буинская"
+    "tikName": "Буинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1245,
     "uikTvd": "4164063143050",
+    "uikName": "УИК №1245",
     "tikTvd": "2162000559401",
-    "tikName": "Буинская"
+    "tikName": "Буинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1246,
     "uikTvd": "4164063143051",
+    "uikName": "УИК №1246",
     "tikTvd": "2162000559401",
-    "tikName": "Буинская"
+    "tikName": "Буинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1247,
     "uikTvd": "4164063143052",
+    "uikName": "УИК №1247",
     "tikTvd": "2162000559401",
-    "tikName": "Буинская"
+    "tikName": "Буинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1248,
     "uikTvd": "4164063143053",
+    "uikName": "УИК №1248",
     "tikTvd": "2162000559401",
-    "tikName": "Буинская"
+    "tikName": "Буинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1249,
     "uikTvd": "4164063143054",
+    "uikName": "УИК №1249",
     "tikTvd": "2162000559401",
-    "tikName": "Буинская"
+    "tikName": "Буинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1250,
     "uikTvd": "4164063143055",
+    "uikName": "УИК №1250",
     "tikTvd": "2162000559401",
-    "tikName": "Буинская"
+    "tikName": "Буинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1251,
     "uikTvd": "4164063143056",
+    "uikName": "УИК №1251",
     "tikTvd": "2162000559401",
-    "tikName": "Буинская"
+    "tikName": "Буинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1252,
     "uikTvd": "4164063143057",
+    "uikName": "УИК №1252",
     "tikTvd": "2162000559401",
-    "tikName": "Буинская"
+    "tikName": "Буинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1253,
     "uikTvd": "4164063143058",
+    "uikName": "УИК №1253",
     "tikTvd": "2162000559401",
-    "tikName": "Буинская"
+    "tikName": "Буинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1254,
     "uikTvd": "4164015137473",
+    "uikName": "УИК №1254",
     "tikTvd": "2162000559385",
-    "tikName": "Верхнеуслонская"
+    "tikName": "Верхнеуслонская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1255,
     "uikTvd": "4164015137474",
+    "uikName": "УИК №1255",
     "tikTvd": "2162000559385",
-    "tikName": "Верхнеуслонская"
+    "tikName": "Верхнеуслонская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1256,
     "uikTvd": "4164015137475",
+    "uikName": "УИК №1256",
     "tikTvd": "2162000559385",
-    "tikName": "Верхнеуслонская"
+    "tikName": "Верхнеуслонская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1257,
     "uikTvd": "4164015137476",
+    "uikName": "УИК №1257",
     "tikTvd": "2162000559385",
-    "tikName": "Верхнеуслонская"
+    "tikName": "Верхнеуслонская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1258,
     "uikTvd": "4164015137477",
+    "uikName": "УИК №1258",
     "tikTvd": "2162000559385",
-    "tikName": "Верхнеуслонская"
+    "tikName": "Верхнеуслонская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1259,
     "uikTvd": "4164015137478",
+    "uikName": "УИК №1259",
     "tikTvd": "2162000559385",
-    "tikName": "Верхнеуслонская"
+    "tikName": "Верхнеуслонская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1260,
     "uikTvd": "4164015137479",
+    "uikName": "УИК №1260",
     "tikTvd": "2162000559385",
-    "tikName": "Верхнеуслонская"
+    "tikName": "Верхнеуслонская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1261,
     "uikTvd": "4164015137480",
+    "uikName": "УИК №1261",
     "tikTvd": "2162000559385",
-    "tikName": "Верхнеуслонская"
+    "tikName": "Верхнеуслонская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1262,
     "uikTvd": "4164015137481",
+    "uikName": "УИК №1262",
     "tikTvd": "2162000559385",
-    "tikName": "Верхнеуслонская"
+    "tikName": "Верхнеуслонская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1263,
     "uikTvd": "4164015137482",
+    "uikName": "УИК №1263",
     "tikTvd": "2162000559385",
-    "tikName": "Верхнеуслонская"
+    "tikName": "Верхнеуслонская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1264,
     "uikTvd": "4164015137483",
+    "uikName": "УИК №1264",
     "tikTvd": "2162000559385",
-    "tikName": "Верхнеуслонская"
+    "tikName": "Верхнеуслонская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1265,
     "uikTvd": "4164015137484",
+    "uikName": "УИК №1265",
     "tikTvd": "2162000559385",
-    "tikName": "Верхнеуслонская"
+    "tikName": "Верхнеуслонская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1266,
     "uikTvd": "4164015137485",
+    "uikName": "УИК №1266",
     "tikTvd": "2162000559385",
-    "tikName": "Верхнеуслонская"
+    "tikName": "Верхнеуслонская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1267,
     "uikTvd": "4164015137486",
+    "uikName": "УИК №1267",
     "tikTvd": "2162000559385",
-    "tikName": "Верхнеуслонская"
+    "tikName": "Верхнеуслонская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1268,
     "uikTvd": "4164015137487",
+    "uikName": "УИК №1268",
     "tikTvd": "2162000559385",
-    "tikName": "Верхнеуслонская"
+    "tikName": "Верхнеуслонская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1269,
     "uikTvd": "4164015137488",
+    "uikName": "УИК №1269",
     "tikTvd": "2162000559385",
-    "tikName": "Верхнеуслонская"
+    "tikName": "Верхнеуслонская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1270,
     "uikTvd": "4164015137489",
+    "uikName": "УИК №1270",
     "tikTvd": "2162000559385",
-    "tikName": "Верхнеуслонская"
+    "tikName": "Верхнеуслонская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1271,
     "uikTvd": "4164015137490",
+    "uikName": "УИК №1271",
     "tikTvd": "2162000559385",
-    "tikName": "Верхнеуслонская"
+    "tikName": "Верхнеуслонская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1272,
     "uikTvd": "4164015137491",
+    "uikName": "УИК №1272",
     "tikTvd": "2162000559385",
-    "tikName": "Верхнеуслонская"
+    "tikName": "Верхнеуслонская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1273,
     "uikTvd": "4164015137492",
+    "uikName": "УИК №1273",
     "tikTvd": "2162000559385",
-    "tikName": "Верхнеуслонская"
+    "tikName": "Верхнеуслонская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1274,
     "uikTvd": "4164015137493",
+    "uikName": "УИК №1274",
     "tikTvd": "2162000559385",
-    "tikName": "Верхнеуслонская"
+    "tikName": "Верхнеуслонская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1275,
     "uikTvd": "4164015137494",
+    "uikName": "УИК №1275",
     "tikTvd": "2162000559385",
-    "tikName": "Верхнеуслонская"
+    "tikName": "Верхнеуслонская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1276,
     "uikTvd": "4164015137495",
+    "uikName": "УИК №1276",
     "tikTvd": "2162000559385",
-    "tikName": "Верхнеуслонская"
+    "tikName": "Верхнеуслонская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1277,
     "uikTvd": "4164015137496",
+    "uikName": "УИК №1277",
     "tikTvd": "2162000559385",
-    "tikName": "Верхнеуслонская"
+    "tikName": "Верхнеуслонская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1278,
     "uikTvd": "4164015137497",
+    "uikName": "УИК №1278",
     "tikTvd": "2162000559385",
-    "tikName": "Верхнеуслонская"
+    "tikName": "Верхнеуслонская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1279,
     "uikTvd": "4164015137514",
+    "uikName": "УИК №1279",
     "tikTvd": "2162000559385",
-    "tikName": "Верхнеуслонская"
+    "tikName": "Верхнеуслонская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1280,
     "uikTvd": "4164015137498",
+    "uikName": "УИК №1280",
     "tikTvd": "2162000559385",
-    "tikName": "Верхнеуслонская"
+    "tikName": "Верхнеуслонская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1281,
     "uikTvd": "4164015137499",
+    "uikName": "УИК №1281",
     "tikTvd": "2162000559385",
-    "tikName": "Верхнеуслонская"
+    "tikName": "Верхнеуслонская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1282,
     "uikTvd": "4164015137500",
+    "uikName": "УИК №1282",
     "tikTvd": "2162000559385",
-    "tikName": "Верхнеуслонская"
+    "tikName": "Верхнеуслонская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1283,
     "uikTvd": "4164015137501",
+    "uikName": "УИК №1283",
     "tikTvd": "2162000559385",
-    "tikName": "Верхнеуслонская"
+    "tikName": "Верхнеуслонская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1284,
     "uikTvd": "4164015137502",
+    "uikName": "УИК №1284",
     "tikTvd": "2162000559385",
-    "tikName": "Верхнеуслонская"
+    "tikName": "Верхнеуслонская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1285,
     "uikTvd": "4164015137503",
+    "uikName": "УИК №1285",
     "tikTvd": "2162000559385",
-    "tikName": "Верхнеуслонская"
+    "tikName": "Верхнеуслонская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1286,
     "uikTvd": "4164015137504",
+    "uikName": "УИК №1286",
     "tikTvd": "2162000559385",
-    "tikName": "Верхнеуслонская"
+    "tikName": "Верхнеуслонская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1287,
     "uikTvd": "4164015137505",
+    "uikName": "УИК №1287",
     "tikTvd": "2162000559385",
-    "tikName": "Верхнеуслонская"
+    "tikName": "Верхнеуслонская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1288,
     "uikTvd": "4164015137506",
+    "uikName": "УИК №1288",
     "tikTvd": "2162000559385",
-    "tikName": "Верхнеуслонская"
+    "tikName": "Верхнеуслонская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1289,
     "uikTvd": "4164015137507",
+    "uikName": "УИК №1289",
     "tikTvd": "2162000559385",
-    "tikName": "Верхнеуслонская"
+    "tikName": "Верхнеуслонская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1290,
     "uikTvd": "4164015137508",
+    "uikName": "УИК №1290",
     "tikTvd": "2162000559385",
-    "tikName": "Верхнеуслонская"
+    "tikName": "Верхнеуслонская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1291,
     "uikTvd": "4164015137510",
+    "uikName": "УИК №1291",
     "tikTvd": "2162000559385",
-    "tikName": "Верхнеуслонская"
+    "tikName": "Верхнеуслонская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1292,
     "uikTvd": "4164015137511",
+    "uikName": "УИК №1292",
     "tikTvd": "2162000559385",
-    "tikName": "Верхнеуслонская"
+    "tikName": "Верхнеуслонская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1293,
     "uikTvd": "4164015137512",
+    "uikName": "УИК №1293",
     "tikTvd": "2162000559385",
-    "tikName": "Верхнеуслонская"
+    "tikName": "Верхнеуслонская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1294,
     "uikTvd": "4164015137513",
+    "uikName": "УИК №1294",
     "tikTvd": "2162000559385",
-    "tikName": "Верхнеуслонская"
+    "tikName": "Верхнеуслонская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1295,
     "uikTvd": "4164016190661",
+    "uikName": "УИК №1295",
     "tikTvd": "2162000559400",
-    "tikName": "Высокогорская"
+    "tikName": "Высокогорская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1296,
     "uikTvd": "4164016190662",
+    "uikName": "УИК №1296",
     "tikTvd": "2162000559400",
-    "tikName": "Высокогорская"
+    "tikName": "Высокогорская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1297,
     "uikTvd": "4164016190663",
+    "uikName": "УИК №1297",
     "tikTvd": "2162000559400",
-    "tikName": "Высокогорская"
+    "tikName": "Высокогорская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1298,
     "uikTvd": "4164016190664",
+    "uikName": "УИК №1298",
     "tikTvd": "2162000559400",
-    "tikName": "Высокогорская"
+    "tikName": "Высокогорская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1299,
     "uikTvd": "4164016190665",
+    "uikName": "УИК №1299",
     "tikTvd": "2162000559400",
-    "tikName": "Высокогорская"
+    "tikName": "Высокогорская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1300,
     "uikTvd": "4164016190666",
+    "uikName": "УИК №1300",
     "tikTvd": "2162000559400",
-    "tikName": "Высокогорская"
+    "tikName": "Высокогорская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1301,
     "uikTvd": "4164016190667",
+    "uikName": "УИК №1301",
     "tikTvd": "2162000559400",
-    "tikName": "Высокогорская"
+    "tikName": "Высокогорская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1302,
     "uikTvd": "4164016190668",
+    "uikName": "УИК №1302",
     "tikTvd": "2162000559400",
-    "tikName": "Высокогорская"
+    "tikName": "Высокогорская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1303,
     "uikTvd": "4164016190669",
+    "uikName": "УИК №1303",
     "tikTvd": "2162000559400",
-    "tikName": "Высокогорская"
+    "tikName": "Высокогорская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1304,
     "uikTvd": "4164016190670",
+    "uikName": "УИК №1304",
     "tikTvd": "2162000559400",
-    "tikName": "Высокогорская"
+    "tikName": "Высокогорская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1305,
     "uikTvd": "4164016190671",
+    "uikName": "УИК №1305",
     "tikTvd": "2162000559400",
-    "tikName": "Высокогорская"
+    "tikName": "Высокогорская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1306,
     "uikTvd": "4164016190672",
+    "uikName": "УИК №1306",
     "tikTvd": "2162000559400",
-    "tikName": "Высокогорская"
+    "tikName": "Высокогорская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1307,
     "uikTvd": "4164016190673",
+    "uikName": "УИК №1307",
     "tikTvd": "2162000559400",
-    "tikName": "Высокогорская"
+    "tikName": "Высокогорская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1308,
     "uikTvd": "4164016190674",
+    "uikName": "УИК №1308",
     "tikTvd": "2162000559400",
-    "tikName": "Высокогорская"
+    "tikName": "Высокогорская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1309,
     "uikTvd": "4164016190675",
+    "uikName": "УИК №1309",
     "tikTvd": "2162000559400",
-    "tikName": "Высокогорская"
+    "tikName": "Высокогорская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1310,
     "uikTvd": "4164016190676",
+    "uikName": "УИК №1310",
     "tikTvd": "2162000559400",
-    "tikName": "Высокогорская"
+    "tikName": "Высокогорская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1311,
     "uikTvd": "4164016190677",
+    "uikName": "УИК №1311",
     "tikTvd": "2162000559400",
-    "tikName": "Высокогорская"
+    "tikName": "Высокогорская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1312,
     "uikTvd": "4164016190678",
+    "uikName": "УИК №1312",
     "tikTvd": "2162000559400",
-    "tikName": "Высокогорская"
+    "tikName": "Высокогорская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1313,
     "uikTvd": "4164016190679",
+    "uikName": "УИК №1313",
     "tikTvd": "2162000559400",
-    "tikName": "Высокогорская"
+    "tikName": "Высокогорская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1314,
     "uikTvd": "4164016190680",
+    "uikName": "УИК №1314",
     "tikTvd": "2162000559400",
-    "tikName": "Высокогорская"
+    "tikName": "Высокогорская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1315,
     "uikTvd": "4164016190681",
+    "uikName": "УИК №1315",
     "tikTvd": "2162000559400",
-    "tikName": "Высокогорская"
+    "tikName": "Высокогорская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1316,
     "uikTvd": "4164016190682",
+    "uikName": "УИК №1316",
     "tikTvd": "2162000559400",
-    "tikName": "Высокогорская"
+    "tikName": "Высокогорская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1317,
     "uikTvd": "4164016190683",
+    "uikName": "УИК №1317",
     "tikTvd": "2162000559400",
-    "tikName": "Высокогорская"
+    "tikName": "Высокогорская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1318,
     "uikTvd": "4164016190684",
+    "uikName": "УИК №1318",
     "tikTvd": "2162000559400",
-    "tikName": "Высокогорская"
+    "tikName": "Высокогорская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1319,
     "uikTvd": "4164016190686",
+    "uikName": "УИК №1319",
     "tikTvd": "2162000559400",
-    "tikName": "Высокогорская"
+    "tikName": "Высокогорская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1320,
     "uikTvd": "4164016190685",
+    "uikName": "УИК №1320",
     "tikTvd": "2162000559400",
-    "tikName": "Высокогорская"
+    "tikName": "Высокогорская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1321,
     "uikTvd": "4164016190659",
+    "uikName": "УИК №1321",
     "tikTvd": "2162000559400",
-    "tikName": "Высокогорская"
+    "tikName": "Высокогорская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1322,
     "uikTvd": "4164016190660",
+    "uikName": "УИК №1322",
     "tikTvd": "2162000559400",
-    "tikName": "Высокогорская"
+    "tikName": "Высокогорская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1323,
     "uikTvd": "4164016190705",
+    "uikName": "УИК №1323",
     "tikTvd": "2162000559400",
-    "tikName": "Высокогорская"
+    "tikName": "Высокогорская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1324,
     "uikTvd": "4164016190706",
+    "uikName": "УИК №1324",
     "tikTvd": "2162000559400",
-    "tikName": "Высокогорская"
+    "tikName": "Высокогорская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1325,
     "uikTvd": "4164016190687",
+    "uikName": "УИК №1325",
     "tikTvd": "2162000559400",
-    "tikName": "Высокогорская"
+    "tikName": "Высокогорская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1326,
     "uikTvd": "4164016190688",
+    "uikName": "УИК №1326",
     "tikTvd": "2162000559400",
-    "tikName": "Высокогорская"
+    "tikName": "Высокогорская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1327,
     "uikTvd": "4164016190689",
+    "uikName": "УИК №1327",
     "tikTvd": "2162000559400",
-    "tikName": "Высокогорская"
+    "tikName": "Высокогорская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1328,
     "uikTvd": "4164016190690",
+    "uikName": "УИК №1328",
     "tikTvd": "2162000559400",
-    "tikName": "Высокогорская"
+    "tikName": "Высокогорская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1329,
     "uikTvd": "4164016190691",
+    "uikName": "УИК №1329",
     "tikTvd": "2162000559400",
-    "tikName": "Высокогорская"
+    "tikName": "Высокогорская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1330,
     "uikTvd": "4164016190692",
+    "uikName": "УИК №1330",
     "tikTvd": "2162000559400",
-    "tikName": "Высокогорская"
+    "tikName": "Высокогорская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1331,
     "uikTvd": "4164016190693",
+    "uikName": "УИК №1331",
     "tikTvd": "2162000559400",
-    "tikName": "Высокогорская"
+    "tikName": "Высокогорская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1332,
     "uikTvd": "4164016190694",
+    "uikName": "УИК №1332",
     "tikTvd": "2162000559400",
-    "tikName": "Высокогорская"
+    "tikName": "Высокогорская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1333,
     "uikTvd": "4164016190695",
+    "uikName": "УИК №1333",
     "tikTvd": "2162000559400",
-    "tikName": "Высокогорская"
+    "tikName": "Высокогорская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1334,
     "uikTvd": "4164016190696",
+    "uikName": "УИК №1334",
     "tikTvd": "2162000559400",
-    "tikName": "Высокогорская"
+    "tikName": "Высокогорская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1335,
     "uikTvd": "4164016190697",
+    "uikName": "УИК №1335",
     "tikTvd": "2162000559400",
-    "tikName": "Высокогорская"
+    "tikName": "Высокогорская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1336,
     "uikTvd": "4164016190698",
+    "uikName": "УИК №1336",
     "tikTvd": "2162000559400",
-    "tikName": "Высокогорская"
+    "tikName": "Высокогорская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1337,
     "uikTvd": "4164016190699",
+    "uikName": "УИК №1337",
     "tikTvd": "2162000559400",
-    "tikName": "Высокогорская"
+    "tikName": "Высокогорская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1338,
     "uikTvd": "4164016190700",
+    "uikName": "УИК №1338",
     "tikTvd": "2162000559400",
-    "tikName": "Высокогорская"
+    "tikName": "Высокогорская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1339,
     "uikTvd": "4164016190701",
+    "uikName": "УИК №1339",
     "tikTvd": "2162000559400",
-    "tikName": "Высокогорская"
+    "tikName": "Высокогорская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1340,
     "uikTvd": "4164016190702",
+    "uikName": "УИК №1340",
     "tikTvd": "2162000559400",
-    "tikName": "Высокогорская"
+    "tikName": "Высокогорская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1341,
     "uikTvd": "4164016190703",
+    "uikName": "УИК №1341",
     "tikTvd": "2162000559400",
-    "tikName": "Высокогорская"
+    "tikName": "Высокогорская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1342,
     "uikTvd": "4164016190704",
+    "uikName": "УИК №1342",
     "tikTvd": "2162000559400",
-    "tikName": "Высокогорская"
+    "tikName": "Высокогорская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1343,
     "uikTvd": "4164017137718",
+    "uikName": "УИК №1343",
     "tikTvd": "2162000559383",
-    "tikName": "Дрожжановская"
+    "tikName": "Дрожжановская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1344,
     "uikTvd": "4164017137719",
+    "uikName": "УИК №1344",
     "tikTvd": "2162000559383",
-    "tikName": "Дрожжановская"
+    "tikName": "Дрожжановская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1345,
     "uikTvd": "4164017137720",
+    "uikName": "УИК №1345",
     "tikTvd": "2162000559383",
-    "tikName": "Дрожжановская"
+    "tikName": "Дрожжановская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1346,
     "uikTvd": "4164017137721",
+    "uikName": "УИК №1346",
     "tikTvd": "2162000559383",
-    "tikName": "Дрожжановская"
+    "tikName": "Дрожжановская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1347,
     "uikTvd": "4164017137722",
+    "uikName": "УИК №1347",
     "tikTvd": "2162000559383",
-    "tikName": "Дрожжановская"
+    "tikName": "Дрожжановская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1348,
     "uikTvd": "4164017137723",
+    "uikName": "УИК №1348",
     "tikTvd": "2162000559383",
-    "tikName": "Дрожжановская"
+    "tikName": "Дрожжановская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1349,
     "uikTvd": "4164017137724",
+    "uikName": "УИК №1349",
     "tikTvd": "2162000559383",
-    "tikName": "Дрожжановская"
+    "tikName": "Дрожжановская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1350,
     "uikTvd": "4164017137725",
+    "uikName": "УИК №1350",
     "tikTvd": "2162000559383",
-    "tikName": "Дрожжановская"
+    "tikName": "Дрожжановская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1351,
     "uikTvd": "4164017137726",
+    "uikName": "УИК №1351",
     "tikTvd": "2162000559383",
-    "tikName": "Дрожжановская"
+    "tikName": "Дрожжановская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1352,
     "uikTvd": "4164017137727",
+    "uikName": "УИК №1352",
     "tikTvd": "2162000559383",
-    "tikName": "Дрожжановская"
+    "tikName": "Дрожжановская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1353,
     "uikTvd": "4164017137728",
+    "uikName": "УИК №1353",
     "tikTvd": "2162000559383",
-    "tikName": "Дрожжановская"
+    "tikName": "Дрожжановская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1354,
     "uikTvd": "4164017137729",
+    "uikName": "УИК №1354",
     "tikTvd": "2162000559383",
-    "tikName": "Дрожжановская"
+    "tikName": "Дрожжановская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1355,
     "uikTvd": "4164017137730",
+    "uikName": "УИК №1355",
     "tikTvd": "2162000559383",
-    "tikName": "Дрожжановская"
+    "tikName": "Дрожжановская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1356,
     "uikTvd": "4164017137731",
+    "uikName": "УИК №1356",
     "tikTvd": "2162000559383",
-    "tikName": "Дрожжановская"
+    "tikName": "Дрожжановская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1357,
     "uikTvd": "4164017137732",
+    "uikName": "УИК №1357",
     "tikTvd": "2162000559383",
-    "tikName": "Дрожжановская"
+    "tikName": "Дрожжановская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1358,
     "uikTvd": "4164017137733",
+    "uikName": "УИК №1358",
     "tikTvd": "2162000559383",
-    "tikName": "Дрожжановская"
+    "tikName": "Дрожжановская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1359,
     "uikTvd": "4164017137734",
+    "uikName": "УИК №1359",
     "tikTvd": "2162000559383",
-    "tikName": "Дрожжановская"
+    "tikName": "Дрожжановская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1360,
     "uikTvd": "4164017137735",
+    "uikName": "УИК №1360",
     "tikTvd": "2162000559383",
-    "tikName": "Дрожжановская"
+    "tikName": "Дрожжановская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1361,
     "uikTvd": "4164017137736",
+    "uikName": "УИК №1361",
     "tikTvd": "2162000559383",
-    "tikName": "Дрожжановская"
+    "tikName": "Дрожжановская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1362,
     "uikTvd": "4164017137737",
+    "uikName": "УИК №1362",
     "tikTvd": "2162000559383",
-    "tikName": "Дрожжановская"
+    "tikName": "Дрожжановская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1363,
     "uikTvd": "4164017137738",
+    "uikName": "УИК №1363",
     "tikTvd": "2162000559383",
-    "tikName": "Дрожжановская"
+    "tikName": "Дрожжановская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1364,
     "uikTvd": "4164017137739",
+    "uikName": "УИК №1364",
     "tikTvd": "2162000559383",
-    "tikName": "Дрожжановская"
+    "tikName": "Дрожжановская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1365,
     "uikTvd": "4164017137740",
+    "uikName": "УИК №1365",
     "tikTvd": "2162000559383",
-    "tikName": "Дрожжановская"
+    "tikName": "Дрожжановская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1366,
     "uikTvd": "4164017137741",
+    "uikName": "УИК №1366",
     "tikTvd": "2162000559383",
-    "tikName": "Дрожжановская"
+    "tikName": "Дрожжановская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1367,
     "uikTvd": "4164017137742",
+    "uikName": "УИК №1367",
     "tikTvd": "2162000559383",
-    "tikName": "Дрожжановская"
+    "tikName": "Дрожжановская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1368,
     "uikTvd": "4164017137743",
+    "uikName": "УИК №1368",
     "tikTvd": "2162000559383",
-    "tikName": "Дрожжановская"
+    "tikName": "Дрожжановская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1369,
     "uikTvd": "4164017137744",
+    "uikName": "УИК №1369",
     "tikTvd": "2162000559383",
-    "tikName": "Дрожжановская"
+    "tikName": "Дрожжановская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1370,
     "uikTvd": "4164017137745",
+    "uikName": "УИК №1370",
     "tikTvd": "2162000559383",
-    "tikName": "Дрожжановская"
+    "tikName": "Дрожжановская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1371,
     "uikTvd": "4164017137746",
+    "uikName": "УИК №1371",
     "tikTvd": "2162000559383",
-    "tikName": "Дрожжановская"
+    "tikName": "Дрожжановская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1372,
     "uikTvd": "4164017137747",
+    "uikName": "УИК №1372",
     "tikTvd": "2162000559383",
-    "tikName": "Дрожжановская"
+    "tikName": "Дрожжановская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1373,
     "uikTvd": "4164017137748",
+    "uikName": "УИК №1373",
     "tikTvd": "2162000559383",
-    "tikName": "Дрожжановская"
+    "tikName": "Дрожжановская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1374,
     "uikTvd": "4164017137749",
+    "uikName": "УИК №1374",
     "tikTvd": "2162000559383",
-    "tikName": "Дрожжановская"
+    "tikName": "Дрожжановская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1375,
     "uikTvd": "4164017137750",
+    "uikName": "УИК №1375",
     "tikTvd": "2162000559383",
-    "tikName": "Дрожжановская"
+    "tikName": "Дрожжановская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1376,
     "uikTvd": "4164017137751",
+    "uikName": "УИК №1376",
     "tikTvd": "2162000559383",
-    "tikName": "Дрожжановская"
+    "tikName": "Дрожжановская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1377,
     "uikTvd": "4164017137752",
+    "uikName": "УИК №1377",
     "tikTvd": "2162000559383",
-    "tikName": "Дрожжановская"
+    "tikName": "Дрожжановская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1378,
     "uikTvd": "4164017137753",
+    "uikName": "УИК №1378",
     "tikTvd": "2162000559383",
-    "tikName": "Дрожжановская"
+    "tikName": "Дрожжановская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1379,
     "uikTvd": "4164017137754",
+    "uikName": "УИК №1379",
     "tikTvd": "2162000559383",
-    "tikName": "Дрожжановская"
+    "tikName": "Дрожжановская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1380,
     "uikTvd": "4164017137755",
+    "uikName": "УИК №1380",
     "tikTvd": "2162000559383",
-    "tikName": "Дрожжановская"
+    "tikName": "Дрожжановская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1381,
     "uikTvd": "416401899247",
+    "uikName": "УИК №1381",
     "tikTvd": "2162000559384",
-    "tikName": "Елабужская городская"
+    "tikName": "Елабужская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1382,
     "uikTvd": "416401899249",
+    "uikName": "УИК №1382",
     "tikTvd": "2162000559384",
-    "tikName": "Елабужская городская"
+    "tikName": "Елабужская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1383,
     "uikTvd": "416401899250",
+    "uikName": "УИК №1383",
     "tikTvd": "2162000559384",
-    "tikName": "Елабужская городская"
+    "tikName": "Елабужская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1384,
     "uikTvd": "416401899251",
+    "uikName": "УИК №1384",
     "tikTvd": "2162000559384",
-    "tikName": "Елабужская городская"
+    "tikName": "Елабужская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1385,
     "uikTvd": "416401899252",
+    "uikName": "УИК №1385",
     "tikTvd": "2162000559384",
-    "tikName": "Елабужская городская"
+    "tikName": "Елабужская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1386,
     "uikTvd": "416401899253",
+    "uikName": "УИК №1386",
     "tikTvd": "2162000559384",
-    "tikName": "Елабужская городская"
+    "tikName": "Елабужская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1387,
     "uikTvd": "416401899254",
+    "uikName": "УИК №1387",
     "tikTvd": "2162000559384",
-    "tikName": "Елабужская городская"
+    "tikName": "Елабужская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1388,
     "uikTvd": "416401899255",
+    "uikName": "УИК №1388",
     "tikTvd": "2162000559384",
-    "tikName": "Елабужская городская"
+    "tikName": "Елабужская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1389,
     "uikTvd": "416401899256",
+    "uikName": "УИК №1389",
     "tikTvd": "2162000559384",
-    "tikName": "Елабужская городская"
+    "tikName": "Елабужская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1390,
     "uikTvd": "416401899257",
+    "uikName": "УИК №1390",
     "tikTvd": "2162000559384",
-    "tikName": "Елабужская городская"
+    "tikName": "Елабужская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1391,
     "uikTvd": "416401899258",
+    "uikName": "УИК №1391",
     "tikTvd": "2162000559384",
-    "tikName": "Елабужская городская"
+    "tikName": "Елабужская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1392,
     "uikTvd": "416401899259",
+    "uikName": "УИК №1392",
     "tikTvd": "2162000559384",
-    "tikName": "Елабужская городская"
+    "tikName": "Елабужская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1393,
     "uikTvd": "416401899260",
+    "uikName": "УИК №1393",
     "tikTvd": "2162000559384",
-    "tikName": "Елабужская городская"
+    "tikName": "Елабужская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1394,
     "uikTvd": "416401899261",
+    "uikName": "УИК №1394",
     "tikTvd": "2162000559384",
-    "tikName": "Елабужская городская"
+    "tikName": "Елабужская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1395,
     "uikTvd": "416401899262",
+    "uikName": "УИК №1395",
     "tikTvd": "2162000559384",
-    "tikName": "Елабужская городская"
+    "tikName": "Елабужская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1396,
     "uikTvd": "416401899263",
+    "uikName": "УИК №1396",
     "tikTvd": "2162000559384",
-    "tikName": "Елабужская городская"
+    "tikName": "Елабужская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1397,
     "uikTvd": "416401899264",
+    "uikName": "УИК №1397",
     "tikTvd": "2162000559384",
-    "tikName": "Елабужская городская"
+    "tikName": "Елабужская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1398,
     "uikTvd": "416401899265",
+    "uikName": "УИК №1398",
     "tikTvd": "2162000559384",
-    "tikName": "Елабужская городская"
+    "tikName": "Елабужская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1399,
     "uikTvd": "416401899266",
+    "uikName": "УИК №1399",
     "tikTvd": "2162000559384",
-    "tikName": "Елабужская городская"
+    "tikName": "Елабужская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1400,
     "uikTvd": "416401899267",
+    "uikName": "УИК №1400",
     "tikTvd": "2162000559384",
-    "tikName": "Елабужская городская"
+    "tikName": "Елабужская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1401,
     "uikTvd": "416401899268",
+    "uikName": "УИК №1401",
     "tikTvd": "2162000559384",
-    "tikName": "Елабужская городская"
+    "tikName": "Елабужская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1402,
     "uikTvd": "416401899269",
+    "uikName": "УИК №1402",
     "tikTvd": "2162000559384",
-    "tikName": "Елабужская городская"
+    "tikName": "Елабужская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1403,
     "uikTvd": "416401899270",
+    "uikName": "УИК №1403",
     "tikTvd": "2162000559384",
-    "tikName": "Елабужская городская"
+    "tikName": "Елабужская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1404,
     "uikTvd": "416401899271",
+    "uikName": "УИК №1404",
     "tikTvd": "2162000559384",
-    "tikName": "Елабужская городская"
+    "tikName": "Елабужская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1405,
     "uikTvd": "416401899272",
+    "uikName": "УИК №1405",
     "tikTvd": "2162000559384",
-    "tikName": "Елабужская городская"
+    "tikName": "Елабужская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1406,
     "uikTvd": "416401899273",
+    "uikName": "УИК №1406",
     "tikTvd": "2162000559384",
-    "tikName": "Елабужская городская"
+    "tikName": "Елабужская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1407,
     "uikTvd": "416401899274",
+    "uikName": "УИК №1407",
     "tikTvd": "2162000559384",
-    "tikName": "Елабужская городская"
+    "tikName": "Елабужская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1408,
     "uikTvd": "416401899275",
+    "uikName": "УИК №1408",
     "tikTvd": "2162000559384",
-    "tikName": "Елабужская городская"
+    "tikName": "Елабужская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1409,
     "uikTvd": "416401899276",
+    "uikName": "УИК №1409",
     "tikTvd": "2162000559384",
-    "tikName": "Елабужская городская"
+    "tikName": "Елабужская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1410,
     "uikTvd": "416401899277",
+    "uikName": "УИК №1410",
     "tikTvd": "2162000559384",
-    "tikName": "Елабужская городская"
+    "tikName": "Елабужская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1411,
     "uikTvd": "416401899278",
+    "uikName": "УИК №1411",
     "tikTvd": "2162000559384",
-    "tikName": "Елабужская городская"
+    "tikName": "Елабужская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1412,
     "uikTvd": "416401899279",
+    "uikName": "УИК №1412",
     "tikTvd": "2162000559384",
-    "tikName": "Елабужская городская"
+    "tikName": "Елабужская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1413,
     "uikTvd": "416401899280",
+    "uikName": "УИК №1413",
     "tikTvd": "2162000559384",
-    "tikName": "Елабужская городская"
+    "tikName": "Елабужская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1414,
     "uikTvd": "416401899281",
+    "uikName": "УИК №1414",
     "tikTvd": "2162000559384",
-    "tikName": "Елабужская городская"
+    "tikName": "Елабужская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1415,
     "uikTvd": "416401899282",
+    "uikName": "УИК №1415",
     "tikTvd": "2162000559384",
-    "tikName": "Елабужская городская"
+    "tikName": "Елабужская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1416,
     "uikTvd": "416401899283",
+    "uikName": "УИК №1416",
     "tikTvd": "2162000559384",
-    "tikName": "Елабужская городская"
+    "tikName": "Елабужская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1417,
     "uikTvd": "416401899284",
+    "uikName": "УИК №1417",
     "tikTvd": "2162000559384",
-    "tikName": "Елабужская городская"
+    "tikName": "Елабужская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1418,
     "uikTvd": "416401899285",
+    "uikName": "УИК №1418",
     "tikTvd": "2162000559384",
-    "tikName": "Елабужская городская"
+    "tikName": "Елабужская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1419,
     "uikTvd": "4164055125607",
+    "uikName": "УИК №1419",
     "tikTvd": "2162000559347",
-    "tikName": "Елабужская"
+    "tikName": "Елабужская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1420,
     "uikTvd": "4164055125608",
+    "uikName": "УИК №1420",
     "tikTvd": "2162000559347",
-    "tikName": "Елабужская"
+    "tikName": "Елабужская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1421,
     "uikTvd": "4164055125609",
+    "uikName": "УИК №1421",
     "tikTvd": "2162000559347",
-    "tikName": "Елабужская"
+    "tikName": "Елабужская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1422,
     "uikTvd": "4164055125610",
+    "uikName": "УИК №1422",
     "tikTvd": "2162000559347",
-    "tikName": "Елабужская"
+    "tikName": "Елабужская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1423,
     "uikTvd": "4164055125611",
+    "uikName": "УИК №1423",
     "tikTvd": "2162000559347",
-    "tikName": "Елабужская"
+    "tikName": "Елабужская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1424,
     "uikTvd": "4164055125612",
+    "uikName": "УИК №1424",
     "tikTvd": "2162000559347",
-    "tikName": "Елабужская"
+    "tikName": "Елабужская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1425,
     "uikTvd": "4164055125613",
+    "uikName": "УИК №1425",
     "tikTvd": "2162000559347",
-    "tikName": "Елабужская"
+    "tikName": "Елабужская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1426,
     "uikTvd": "4164055125614",
+    "uikName": "УИК №1426",
     "tikTvd": "2162000559347",
-    "tikName": "Елабужская"
+    "tikName": "Елабужская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1427,
     "uikTvd": "4164055125615",
+    "uikName": "УИК №1427",
     "tikTvd": "2162000559347",
-    "tikName": "Елабужская"
+    "tikName": "Елабужская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1428,
     "uikTvd": "4164055125616",
+    "uikName": "УИК №1428",
     "tikTvd": "2162000559347",
-    "tikName": "Елабужская"
+    "tikName": "Елабужская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1429,
     "uikTvd": "4164055125617",
+    "uikName": "УИК №1429",
     "tikTvd": "2162000559347",
-    "tikName": "Елабужская"
+    "tikName": "Елабужская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1430,
     "uikTvd": "4164055125618",
+    "uikName": "УИК №1430",
     "tikTvd": "2162000559347",
-    "tikName": "Елабужская"
+    "tikName": "Елабужская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1431,
     "uikTvd": "4164055125619",
+    "uikName": "УИК №1431",
     "tikTvd": "2162000559347",
-    "tikName": "Елабужская"
+    "tikName": "Елабужская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1432,
     "uikTvd": "4164055125620",
+    "uikName": "УИК №1432",
     "tikTvd": "2162000559347",
-    "tikName": "Елабужская"
+    "tikName": "Елабужская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1433,
     "uikTvd": "4164055125621",
+    "uikName": "УИК №1433",
     "tikTvd": "2162000559347",
-    "tikName": "Елабужская"
+    "tikName": "Елабужская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1434,
     "uikTvd": "4164055125622",
+    "uikName": "УИК №1434",
     "tikTvd": "2162000559347",
-    "tikName": "Елабужская"
+    "tikName": "Елабужская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1435,
     "uikTvd": "4164055125623",
+    "uikName": "УИК №1435",
     "tikTvd": "2162000559347",
-    "tikName": "Елабужская"
+    "tikName": "Елабужская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1436,
     "uikTvd": "4164055125624",
+    "uikName": "УИК №1436",
     "tikTvd": "2162000559347",
-    "tikName": "Елабужская"
+    "tikName": "Елабужская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1437,
     "uikTvd": "4164055125625",
+    "uikName": "УИК №1437",
     "tikTvd": "2162000559347",
-    "tikName": "Елабужская"
+    "tikName": "Елабужская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1438,
     "uikTvd": "4164055125626",
+    "uikName": "УИК №1438",
     "tikTvd": "2162000559347",
-    "tikName": "Елабужская"
+    "tikName": "Елабужская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1439,
     "uikTvd": "4164055125627",
+    "uikName": "УИК №1439",
     "tikTvd": "2162000559347",
-    "tikName": "Елабужская"
+    "tikName": "Елабужская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1440,
     "uikTvd": "4164055125628",
+    "uikName": "УИК №1440",
     "tikTvd": "2162000559347",
-    "tikName": "Елабужская"
+    "tikName": "Елабужская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1441,
     "uikTvd": "4164055125629",
+    "uikName": "УИК №1441",
     "tikTvd": "2162000559347",
-    "tikName": "Елабужская"
+    "tikName": "Елабужская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1442,
     "uikTvd": "416401994277",
+    "uikName": "УИК №1442",
     "tikTvd": "2162000559379",
-    "tikName": "Заинская городская"
+    "tikName": "Заинская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1443,
     "uikTvd": "416401994278",
+    "uikName": "УИК №1443",
     "tikTvd": "2162000559379",
-    "tikName": "Заинская городская"
+    "tikName": "Заинская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1444,
     "uikTvd": "416401994279",
+    "uikName": "УИК №1444",
     "tikTvd": "2162000559379",
-    "tikName": "Заинская городская"
+    "tikName": "Заинская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1445,
     "uikTvd": "416401994280",
+    "uikName": "УИК №1445",
     "tikTvd": "2162000559379",
-    "tikName": "Заинская городская"
+    "tikName": "Заинская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1446,
     "uikTvd": "416401994281",
+    "uikName": "УИК №1446",
     "tikTvd": "2162000559379",
-    "tikName": "Заинская городская"
+    "tikName": "Заинская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1447,
     "uikTvd": "416401994282",
+    "uikName": "УИК №1447",
     "tikTvd": "2162000559379",
-    "tikName": "Заинская городская"
+    "tikName": "Заинская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1448,
     "uikTvd": "416401994283",
+    "uikName": "УИК №1448",
     "tikTvd": "2162000559379",
-    "tikName": "Заинская городская"
+    "tikName": "Заинская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1449,
     "uikTvd": "416401994284",
+    "uikName": "УИК №1449",
     "tikTvd": "2162000559379",
-    "tikName": "Заинская городская"
+    "tikName": "Заинская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1450,
     "uikTvd": "416401994285",
+    "uikName": "УИК №1450",
     "tikTvd": "2162000559379",
-    "tikName": "Заинская городская"
+    "tikName": "Заинская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1451,
     "uikTvd": "416401994286",
+    "uikName": "УИК №1451",
     "tikTvd": "2162000559379",
-    "tikName": "Заинская городская"
+    "tikName": "Заинская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1452,
     "uikTvd": "416401994287",
+    "uikName": "УИК №1452",
     "tikTvd": "2162000559379",
-    "tikName": "Заинская городская"
+    "tikName": "Заинская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1453,
     "uikTvd": "416401994288",
+    "uikName": "УИК №1453",
     "tikTvd": "2162000559379",
-    "tikName": "Заинская городская"
+    "tikName": "Заинская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1454,
     "uikTvd": "416401994289",
+    "uikName": "УИК №1454",
     "tikTvd": "2162000559379",
-    "tikName": "Заинская городская"
+    "tikName": "Заинская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1455,
     "uikTvd": "416401994290",
+    "uikName": "УИК №1455",
     "tikTvd": "2162000559379",
-    "tikName": "Заинская городская"
+    "tikName": "Заинская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1456,
     "uikTvd": "416401994291",
+    "uikName": "УИК №1456",
     "tikTvd": "2162000559379",
-    "tikName": "Заинская городская"
+    "tikName": "Заинская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1457,
     "uikTvd": "416401994292",
+    "uikName": "УИК №1457",
     "tikTvd": "2162000559379",
-    "tikName": "Заинская городская"
+    "tikName": "Заинская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1458,
     "uikTvd": "416401994293",
+    "uikName": "УИК №1458",
     "tikTvd": "2162000559379",
-    "tikName": "Заинская городская"
+    "tikName": "Заинская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1459,
     "uikTvd": "416401994294",
+    "uikName": "УИК №1459",
     "tikTvd": "2162000559379",
-    "tikName": "Заинская городская"
+    "tikName": "Заинская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1460,
     "uikTvd": "416401994295",
+    "uikName": "УИК №1460",
     "tikTvd": "2162000559379",
-    "tikName": "Заинская городская"
+    "tikName": "Заинская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1461,
     "uikTvd": "416401994296",
+    "uikName": "УИК №1461",
     "tikTvd": "2162000559379",
-    "tikName": "Заинская городская"
+    "tikName": "Заинская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1462,
     "uikTvd": "416401994297",
+    "uikName": "УИК №1462",
     "tikTvd": "2162000559379",
-    "tikName": "Заинская городская"
+    "tikName": "Заинская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1463,
     "uikTvd": "416401994298",
+    "uikName": "УИК №1463",
     "tikTvd": "2162000559379",
-    "tikName": "Заинская городская"
+    "tikName": "Заинская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1464,
     "uikTvd": "416401994299",
+    "uikName": "УИК №1464",
     "tikTvd": "2162000559379",
-    "tikName": "Заинская городская"
+    "tikName": "Заинская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1465,
     "uikTvd": "416401994300",
+    "uikName": "УИК №1465",
     "tikTvd": "2162000559379",
-    "tikName": "Заинская городская"
+    "tikName": "Заинская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1466,
     "uikTvd": "416401994301",
+    "uikName": "УИК №1466",
     "tikTvd": "2162000559379",
-    "tikName": "Заинская городская"
+    "tikName": "Заинская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1467,
     "uikTvd": "4164056138579",
+    "uikName": "УИК №1467",
     "tikTvd": "2162000559346",
-    "tikName": "Заинская"
+    "tikName": "Заинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1468,
     "uikTvd": "4164056138580",
+    "uikName": "УИК №1468",
     "tikTvd": "2162000559346",
-    "tikName": "Заинская"
+    "tikName": "Заинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1469,
     "uikTvd": "4164056138581",
+    "uikName": "УИК №1469",
     "tikTvd": "2162000559346",
-    "tikName": "Заинская"
+    "tikName": "Заинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1470,
     "uikTvd": "4164056138582",
+    "uikName": "УИК №1470",
     "tikTvd": "2162000559346",
-    "tikName": "Заинская"
+    "tikName": "Заинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1471,
     "uikTvd": "4164056138583",
+    "uikName": "УИК №1471",
     "tikTvd": "2162000559346",
-    "tikName": "Заинская"
+    "tikName": "Заинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1472,
     "uikTvd": "4164056138584",
+    "uikName": "УИК №1472",
     "tikTvd": "2162000559346",
-    "tikName": "Заинская"
+    "tikName": "Заинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1473,
     "uikTvd": "4164056138585",
+    "uikName": "УИК №1473",
     "tikTvd": "2162000559346",
-    "tikName": "Заинская"
+    "tikName": "Заинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1474,
     "uikTvd": "4164056138586",
+    "uikName": "УИК №1474",
     "tikTvd": "2162000559346",
-    "tikName": "Заинская"
+    "tikName": "Заинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1475,
     "uikTvd": "4164056138587",
+    "uikName": "УИК №1475",
     "tikTvd": "2162000559346",
-    "tikName": "Заинская"
+    "tikName": "Заинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1476,
     "uikTvd": "4164056138588",
+    "uikName": "УИК №1476",
     "tikTvd": "2162000559346",
-    "tikName": "Заинская"
+    "tikName": "Заинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1477,
     "uikTvd": "4164056138589",
+    "uikName": "УИК №1477",
     "tikTvd": "2162000559346",
-    "tikName": "Заинская"
+    "tikName": "Заинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1478,
     "uikTvd": "4164056138590",
+    "uikName": "УИК №1478",
     "tikTvd": "2162000559346",
-    "tikName": "Заинская"
+    "tikName": "Заинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1479,
     "uikTvd": "4164056138591",
+    "uikName": "УИК №1479",
     "tikTvd": "2162000559346",
-    "tikName": "Заинская"
+    "tikName": "Заинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1480,
     "uikTvd": "4164056138592",
+    "uikName": "УИК №1480",
     "tikTvd": "2162000559346",
-    "tikName": "Заинская"
+    "tikName": "Заинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1481,
     "uikTvd": "4164056138593",
+    "uikName": "УИК №1481",
     "tikTvd": "2162000559346",
-    "tikName": "Заинская"
+    "tikName": "Заинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1482,
     "uikTvd": "4164056138594",
+    "uikName": "УИК №1482",
     "tikTvd": "2162000559346",
-    "tikName": "Заинская"
+    "tikName": "Заинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1483,
     "uikTvd": "4164056138595",
+    "uikName": "УИК №1483",
     "tikTvd": "2162000559346",
-    "tikName": "Заинская"
+    "tikName": "Заинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1484,
     "uikTvd": "4164056138596",
+    "uikName": "УИК №1484",
     "tikTvd": "2162000559346",
-    "tikName": "Заинская"
+    "tikName": "Заинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1485,
     "uikTvd": "4164056138597",
+    "uikName": "УИК №1485",
     "tikTvd": "2162000559346",
-    "tikName": "Заинская"
+    "tikName": "Заинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1486,
     "uikTvd": "4164056138598",
+    "uikName": "УИК №1486",
     "tikTvd": "2162000559346",
-    "tikName": "Заинская"
+    "tikName": "Заинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1487,
     "uikTvd": "4164056138599",
+    "uikName": "УИК №1487",
     "tikTvd": "2162000559346",
-    "tikName": "Заинская"
+    "tikName": "Заинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1488,
     "uikTvd": "4164056138600",
+    "uikName": "УИК №1488",
     "tikTvd": "2162000559346",
-    "tikName": "Заинская"
+    "tikName": "Заинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1489,
     "uikTvd": "4164056138601",
+    "uikName": "УИК №1489",
     "tikTvd": "2162000559346",
-    "tikName": "Заинская"
+    "tikName": "Заинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1490,
     "uikTvd": "4164056138602",
+    "uikName": "УИК №1490",
     "tikTvd": "2162000559346",
-    "tikName": "Заинская"
+    "tikName": "Заинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1491,
     "uikTvd": "4164056138603",
+    "uikName": "УИК №1491",
     "tikTvd": "2162000559346",
-    "tikName": "Заинская"
+    "tikName": "Заинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1492,
     "uikTvd": "4164056138604",
+    "uikName": "УИК №1492",
     "tikTvd": "2162000559346",
-    "tikName": "Заинская"
+    "tikName": "Заинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1493,
     "uikTvd": "4164056138605",
+    "uikName": "УИК №1493",
     "tikTvd": "2162000559346",
-    "tikName": "Заинская"
+    "tikName": "Заинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1494,
     "uikTvd": "4164056138606",
+    "uikName": "УИК №1494",
     "tikTvd": "2162000559346",
-    "tikName": "Заинская"
+    "tikName": "Заинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1495,
     "uikTvd": "4164056138607",
+    "uikName": "УИК №1495",
     "tikTvd": "2162000559346",
-    "tikName": "Заинская"
+    "tikName": "Заинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1496,
     "uikTvd": "4164056138608",
+    "uikName": "УИК №1496",
     "tikTvd": "2162000559346",
-    "tikName": "Заинская"
+    "tikName": "Заинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1497,
     "uikTvd": "4164056138609",
+    "uikName": "УИК №1497",
     "tikTvd": "2162000559346",
-    "tikName": "Заинская"
+    "tikName": "Заинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1498,
     "uikTvd": "4164056138610",
+    "uikName": "УИК №1498",
     "tikTvd": "2162000559346",
-    "tikName": "Заинская"
+    "tikName": "Заинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1499,
     "uikTvd": "4164056138611",
+    "uikName": "УИК №1499",
     "tikTvd": "2162000559346",
-    "tikName": "Заинская"
+    "tikName": "Заинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1500,
     "uikTvd": "4164056138612",
+    "uikName": "УИК №1500",
     "tikTvd": "2162000559346",
-    "tikName": "Заинская"
+    "tikName": "Заинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1501,
     "uikTvd": "4164056138613",
+    "uikName": "УИК №1501",
     "tikTvd": "2162000559346",
-    "tikName": "Заинская"
+    "tikName": "Заинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1502,
     "uikTvd": "4164056138614",
+    "uikName": "УИК №1502",
     "tikTvd": "2162000559346",
-    "tikName": "Заинская"
+    "tikName": "Заинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1503,
     "uikTvd": "4164056138615",
+    "uikName": "УИК №1503",
     "tikTvd": "2162000559346",
-    "tikName": "Заинская"
+    "tikName": "Заинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1504,
     "uikTvd": "4164056138616",
+    "uikName": "УИК №1504",
     "tikTvd": "2162000559346",
-    "tikName": "Заинская"
+    "tikName": "Заинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1505,
     "uikTvd": "4164056138617",
+    "uikName": "УИК №1505",
     "tikTvd": "2162000559346",
-    "tikName": "Заинская"
+    "tikName": "Заинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1506,
     "uikTvd": "4164056138618",
+    "uikName": "УИК №1506",
     "tikTvd": "2162000559346",
-    "tikName": "Заинская"
+    "tikName": "Заинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1507,
     "uikTvd": "4164056138619",
+    "uikName": "УИК №1507",
     "tikTvd": "2162000559346",
-    "tikName": "Заинская"
+    "tikName": "Заинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1508,
     "uikTvd": "4164056138620",
+    "uikName": "УИК №1508",
     "tikTvd": "2162000559346",
-    "tikName": "Заинская"
+    "tikName": "Заинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1509,
     "uikTvd": "4164056138621",
+    "uikName": "УИК №1509",
     "tikTvd": "2162000559346",
-    "tikName": "Заинская"
+    "tikName": "Заинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1510,
     "uikTvd": "4164056138622",
+    "uikName": "УИК №1510",
     "tikTvd": "2162000559346",
-    "tikName": "Заинская"
+    "tikName": "Заинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1512,
     "uikTvd": "4164020105759",
+    "uikName": "УИК №1512",
     "tikTvd": "2162000559381",
-    "tikName": "Зеленодольская городская"
+    "tikName": "Зеленодольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1513,
     "uikTvd": "4164020105760",
+    "uikName": "УИК №1513",
     "tikTvd": "2162000559381",
-    "tikName": "Зеленодольская городская"
+    "tikName": "Зеленодольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1514,
     "uikTvd": "4164020105761",
+    "uikName": "УИК №1514",
     "tikTvd": "2162000559381",
-    "tikName": "Зеленодольская городская"
+    "tikName": "Зеленодольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1515,
     "uikTvd": "4164020105762",
+    "uikName": "УИК №1515",
     "tikTvd": "2162000559381",
-    "tikName": "Зеленодольская городская"
+    "tikName": "Зеленодольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1516,
     "uikTvd": "4164020105763",
+    "uikName": "УИК №1516",
     "tikTvd": "2162000559381",
-    "tikName": "Зеленодольская городская"
+    "tikName": "Зеленодольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1517,
     "uikTvd": "4164020105764",
+    "uikName": "УИК №1517",
     "tikTvd": "2162000559381",
-    "tikName": "Зеленодольская городская"
+    "tikName": "Зеленодольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1518,
     "uikTvd": "4164020105765",
+    "uikName": "УИК №1518",
     "tikTvd": "2162000559381",
-    "tikName": "Зеленодольская городская"
+    "tikName": "Зеленодольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1519,
     "uikTvd": "4164020105766",
+    "uikName": "УИК №1519",
     "tikTvd": "2162000559381",
-    "tikName": "Зеленодольская городская"
+    "tikName": "Зеленодольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1520,
     "uikTvd": "4164020105767",
+    "uikName": "УИК №1520",
     "tikTvd": "2162000559381",
-    "tikName": "Зеленодольская городская"
+    "tikName": "Зеленодольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1521,
     "uikTvd": "4164020105768",
+    "uikName": "УИК №1521",
     "tikTvd": "2162000559381",
-    "tikName": "Зеленодольская городская"
+    "tikName": "Зеленодольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1522,
     "uikTvd": "4164020105769",
+    "uikName": "УИК №1522",
     "tikTvd": "2162000559381",
-    "tikName": "Зеленодольская городская"
+    "tikName": "Зеленодольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1523,
     "uikTvd": "4164020105770",
+    "uikName": "УИК №1523",
     "tikTvd": "2162000559381",
-    "tikName": "Зеленодольская городская"
+    "tikName": "Зеленодольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1524,
     "uikTvd": "4164020105771",
+    "uikName": "УИК №1524",
     "tikTvd": "2162000559381",
-    "tikName": "Зеленодольская городская"
+    "tikName": "Зеленодольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1525,
     "uikTvd": "4164020105772",
+    "uikName": "УИК №1525",
     "tikTvd": "2162000559381",
-    "tikName": "Зеленодольская городская"
+    "tikName": "Зеленодольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1526,
     "uikTvd": "4164020105773",
+    "uikName": "УИК №1526",
     "tikTvd": "2162000559381",
-    "tikName": "Зеленодольская городская"
+    "tikName": "Зеленодольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1527,
     "uikTvd": "4164020105774",
+    "uikName": "УИК №1527",
     "tikTvd": "2162000559381",
-    "tikName": "Зеленодольская городская"
+    "tikName": "Зеленодольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1528,
     "uikTvd": "4164020105775",
+    "uikName": "УИК №1528",
     "tikTvd": "2162000559381",
-    "tikName": "Зеленодольская городская"
+    "tikName": "Зеленодольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1529,
     "uikTvd": "4164020105776",
+    "uikName": "УИК №1529",
     "tikTvd": "2162000559381",
-    "tikName": "Зеленодольская городская"
+    "tikName": "Зеленодольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1530,
     "uikTvd": "4164020105777",
+    "uikName": "УИК №1530",
     "tikTvd": "2162000559381",
-    "tikName": "Зеленодольская городская"
+    "tikName": "Зеленодольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1531,
     "uikTvd": "4164020105778",
+    "uikName": "УИК №1531",
     "tikTvd": "2162000559381",
-    "tikName": "Зеленодольская городская"
+    "tikName": "Зеленодольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1532,
     "uikTvd": "4164020105779",
+    "uikName": "УИК №1532",
     "tikTvd": "2162000559381",
-    "tikName": "Зеленодольская городская"
+    "tikName": "Зеленодольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1533,
     "uikTvd": "4164020105780",
+    "uikName": "УИК №1533",
     "tikTvd": "2162000559381",
-    "tikName": "Зеленодольская городская"
+    "tikName": "Зеленодольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1534,
     "uikTvd": "4164020105781",
+    "uikName": "УИК №1534",
     "tikTvd": "2162000559381",
-    "tikName": "Зеленодольская городская"
+    "tikName": "Зеленодольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1535,
     "uikTvd": "4164020105782",
+    "uikName": "УИК №1535",
     "tikTvd": "2162000559381",
-    "tikName": "Зеленодольская городская"
+    "tikName": "Зеленодольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1536,
     "uikTvd": "4164020105783",
+    "uikName": "УИК №1536",
     "tikTvd": "2162000559381",
-    "tikName": "Зеленодольская городская"
+    "tikName": "Зеленодольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1537,
     "uikTvd": "4164020105784",
+    "uikName": "УИК №1537",
     "tikTvd": "2162000559381",
-    "tikName": "Зеленодольская городская"
+    "tikName": "Зеленодольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1538,
     "uikTvd": "4164020105785",
+    "uikName": "УИК №1538",
     "tikTvd": "2162000559381",
-    "tikName": "Зеленодольская городская"
+    "tikName": "Зеленодольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1539,
     "uikTvd": "4164020105786",
+    "uikName": "УИК №1539",
     "tikTvd": "2162000559381",
-    "tikName": "Зеленодольская городская"
+    "tikName": "Зеленодольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1540,
     "uikTvd": "4164020105787",
+    "uikName": "УИК №1540",
     "tikTvd": "2162000559381",
-    "tikName": "Зеленодольская городская"
+    "tikName": "Зеленодольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1541,
     "uikTvd": "4164020105788",
+    "uikName": "УИК №1541",
     "tikTvd": "2162000559381",
-    "tikName": "Зеленодольская городская"
+    "tikName": "Зеленодольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1542,
     "uikTvd": "4164020105789",
+    "uikName": "УИК №1542",
     "tikTvd": "2162000559381",
-    "tikName": "Зеленодольская городская"
+    "tikName": "Зеленодольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1543,
     "uikTvd": "4164020105790",
+    "uikName": "УИК №1543",
     "tikTvd": "2162000559381",
-    "tikName": "Зеленодольская городская"
+    "tikName": "Зеленодольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1544,
     "uikTvd": "4164020105791",
+    "uikName": "УИК №1544",
     "tikTvd": "2162000559381",
-    "tikName": "Зеленодольская городская"
+    "tikName": "Зеленодольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1545,
     "uikTvd": "4164020105792",
+    "uikName": "УИК №1545",
     "tikTvd": "2162000559381",
-    "tikName": "Зеленодольская городская"
+    "tikName": "Зеленодольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1546,
     "uikTvd": "4164020105793",
+    "uikName": "УИК №1546",
     "tikTvd": "2162000559381",
-    "tikName": "Зеленодольская городская"
+    "tikName": "Зеленодольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1547,
     "uikTvd": "4164020105794",
+    "uikName": "УИК №1547",
     "tikTvd": "2162000559381",
-    "tikName": "Зеленодольская городская"
+    "tikName": "Зеленодольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1548,
     "uikTvd": "4164057143149",
+    "uikName": "УИК №1548",
     "tikTvd": "2162000559344",
-    "tikName": "Зеленодольская"
+    "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1549,
     "uikTvd": "4164057143153",
+    "uikName": "УИК №1549",
     "tikTvd": "2162000559344",
-    "tikName": "Зеленодольская"
+    "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1550,
     "uikTvd": "4164057143154",
+    "uikName": "УИК №1550",
     "tikTvd": "2162000559344",
-    "tikName": "Зеленодольская"
+    "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1551,
     "uikTvd": "4164057143155",
+    "uikName": "УИК №1551",
     "tikTvd": "2162000559344",
-    "tikName": "Зеленодольская"
+    "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1552,
     "uikTvd": "4164057143156",
+    "uikName": "УИК №1552",
     "tikTvd": "2162000559344",
-    "tikName": "Зеленодольская"
+    "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1553,
     "uikTvd": "4164057143157",
+    "uikName": "УИК №1553",
     "tikTvd": "2162000559344",
-    "tikName": "Зеленодольская"
+    "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1554,
     "uikTvd": "4164057143158",
+    "uikName": "УИК №1554",
     "tikTvd": "2162000559344",
-    "tikName": "Зеленодольская"
+    "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1555,
     "uikTvd": "4164057143159",
+    "uikName": "УИК №1555",
     "tikTvd": "2162000559344",
-    "tikName": "Зеленодольская"
+    "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1556,
     "uikTvd": "4164057143160",
+    "uikName": "УИК №1556",
     "tikTvd": "2162000559344",
-    "tikName": "Зеленодольская"
+    "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1557,
     "uikTvd": "4164057143161",
+    "uikName": "УИК №1557",
     "tikTvd": "2162000559344",
-    "tikName": "Зеленодольская"
+    "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1558,
     "uikTvd": "4164057143162",
+    "uikName": "УИК №1558",
     "tikTvd": "2162000559344",
-    "tikName": "Зеленодольская"
+    "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1559,
     "uikTvd": "4164057143163",
+    "uikName": "УИК №1559",
     "tikTvd": "2162000559344",
-    "tikName": "Зеленодольская"
+    "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1560,
     "uikTvd": "4164057143164",
+    "uikName": "УИК №1560",
     "tikTvd": "2162000559344",
-    "tikName": "Зеленодольская"
+    "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1561,
     "uikTvd": "4164057143165",
+    "uikName": "УИК №1561",
     "tikTvd": "2162000559344",
-    "tikName": "Зеленодольская"
+    "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1562,
     "uikTvd": "4164057143166",
+    "uikName": "УИК №1562",
     "tikTvd": "2162000559344",
-    "tikName": "Зеленодольская"
+    "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1563,
     "uikTvd": "4164057143167",
+    "uikName": "УИК №1563",
     "tikTvd": "2162000559344",
-    "tikName": "Зеленодольская"
+    "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1564,
     "uikTvd": "4164057143168",
+    "uikName": "УИК №1564",
     "tikTvd": "2162000559344",
-    "tikName": "Зеленодольская"
+    "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1565,
     "uikTvd": "4164057143169",
+    "uikName": "УИК №1565",
     "tikTvd": "2162000559344",
-    "tikName": "Зеленодольская"
+    "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1566,
     "uikTvd": "4164057143170",
+    "uikName": "УИК №1566",
     "tikTvd": "2162000559344",
-    "tikName": "Зеленодольская"
+    "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1567,
     "uikTvd": "4164057143171",
+    "uikName": "УИК №1567",
     "tikTvd": "2162000559344",
-    "tikName": "Зеленодольская"
+    "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1568,
     "uikTvd": "4164057143172",
+    "uikName": "УИК №1568",
     "tikTvd": "2162000559344",
-    "tikName": "Зеленодольская"
+    "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1569,
     "uikTvd": "4164057143173",
+    "uikName": "УИК №1569",
     "tikTvd": "2162000559344",
-    "tikName": "Зеленодольская"
+    "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1570,
     "uikTvd": "4164057143174",
+    "uikName": "УИК №1570",
     "tikTvd": "2162000559344",
-    "tikName": "Зеленодольская"
+    "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1571,
     "uikTvd": "4164057143175",
+    "uikName": "УИК №1571",
     "tikTvd": "2162000559344",
-    "tikName": "Зеленодольская"
+    "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1572,
     "uikTvd": "4164057143176",
+    "uikName": "УИК №1572",
     "tikTvd": "2162000559344",
-    "tikName": "Зеленодольская"
+    "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1573,
     "uikTvd": "4164057143177",
+    "uikName": "УИК №1573",
     "tikTvd": "2162000559344",
-    "tikName": "Зеленодольская"
+    "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1574,
     "uikTvd": "4164057143178",
+    "uikName": "УИК №1574",
     "tikTvd": "2162000559344",
-    "tikName": "Зеленодольская"
+    "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1575,
     "uikTvd": "4164057143179",
+    "uikName": "УИК №1575",
     "tikTvd": "2162000559344",
-    "tikName": "Зеленодольская"
+    "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1576,
     "uikTvd": "4164057143180",
+    "uikName": "УИК №1576",
     "tikTvd": "2162000559344",
-    "tikName": "Зеленодольская"
+    "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1577,
     "uikTvd": "4164057143181",
+    "uikName": "УИК №1577",
     "tikTvd": "2162000559344",
-    "tikName": "Зеленодольская"
+    "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1578,
     "uikTvd": "4164057143182",
+    "uikName": "УИК №1578",
     "tikTvd": "2162000559344",
-    "tikName": "Зеленодольская"
+    "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1579,
     "uikTvd": "4164057143183",
+    "uikName": "УИК №1579",
     "tikTvd": "2162000559344",
-    "tikName": "Зеленодольская"
+    "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1580,
     "uikTvd": "4164057143184",
+    "uikName": "УИК №1580",
     "tikTvd": "2162000559344",
-    "tikName": "Зеленодольская"
+    "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1581,
     "uikTvd": "4164057143185",
+    "uikName": "УИК №1581",
     "tikTvd": "2162000559344",
-    "tikName": "Зеленодольская"
+    "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1582,
     "uikTvd": "4164057143186",
+    "uikName": "УИК №1582",
     "tikTvd": "2162000559344",
-    "tikName": "Зеленодольская"
+    "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1583,
     "uikTvd": "4164057143187",
+    "uikName": "УИК №1583",
     "tikTvd": "2162000559344",
-    "tikName": "Зеленодольская"
+    "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1584,
     "uikTvd": "4164057143188",
+    "uikName": "УИК №1584",
     "tikTvd": "2162000559344",
-    "tikName": "Зеленодольская"
+    "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1585,
     "uikTvd": "4164057143189",
+    "uikName": "УИК №1585",
     "tikTvd": "2162000559344",
-    "tikName": "Зеленодольская"
+    "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1586,
     "uikTvd": "4164057143190",
+    "uikName": "УИК №1586",
     "tikTvd": "2162000559344",
-    "tikName": "Зеленодольская"
+    "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1587,
     "uikTvd": "4164057143191",
+    "uikName": "УИК №1587",
     "tikTvd": "2162000559344",
-    "tikName": "Зеленодольская"
+    "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1588,
     "uikTvd": "4164057143192",
+    "uikName": "УИК №1588",
     "tikTvd": "2162000559344",
-    "tikName": "Зеленодольская"
+    "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1589,
     "uikTvd": "4164057143193",
+    "uikName": "УИК №1589",
     "tikTvd": "2162000559344",
-    "tikName": "Зеленодольская"
+    "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1590,
     "uikTvd": "4164057143194",
+    "uikName": "УИК №1590",
     "tikTvd": "2162000559344",
-    "tikName": "Зеленодольская"
+    "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1591,
     "uikTvd": "4164057143195",
+    "uikName": "УИК №1591",
     "tikTvd": "2162000559344",
-    "tikName": "Зеленодольская"
+    "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1592,
     "uikTvd": "4164057143196",
+    "uikName": "УИК №1592",
     "tikTvd": "2162000559344",
-    "tikName": "Зеленодольская"
+    "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1593,
     "uikTvd": "4164057143197",
+    "uikName": "УИК №1593",
     "tikTvd": "2162000559344",
-    "tikName": "Зеленодольская"
+    "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1594,
     "uikTvd": "4164057143198",
+    "uikName": "УИК №1594",
     "tikTvd": "2162000559344",
-    "tikName": "Зеленодольская"
+    "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1595,
     "uikTvd": "4164057143199",
+    "uikName": "УИК №1595",
     "tikTvd": "2162000559344",
-    "tikName": "Зеленодольская"
+    "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1596,
     "uikTvd": "4164057143200",
+    "uikName": "УИК №1596",
     "tikTvd": "2162000559344",
-    "tikName": "Зеленодольская"
+    "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1597,
     "uikTvd": "4164057143201",
+    "uikName": "УИК №1597",
     "tikTvd": "2162000559344",
-    "tikName": "Зеленодольская"
+    "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1598,
     "uikTvd": "4164057143202",
+    "uikName": "УИК №1598",
     "tikTvd": "2162000559344",
-    "tikName": "Зеленодольская"
+    "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1599,
     "uikTvd": "4164057143203",
+    "uikName": "УИК №1599",
     "tikTvd": "2162000559344",
-    "tikName": "Зеленодольская"
+    "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1600,
     "uikTvd": "4164057143204",
+    "uikName": "УИК №1600",
     "tikTvd": "2162000559344",
-    "tikName": "Зеленодольская"
+    "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1601,
     "uikTvd": "4164057143205",
+    "uikName": "УИК №1601",
     "tikTvd": "2162000559344",
-    "tikName": "Зеленодольская"
+    "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1602,
     "uikTvd": "4164057143206",
+    "uikName": "УИК №1602",
     "tikTvd": "2162000559344",
-    "tikName": "Зеленодольская"
+    "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1603,
     "uikTvd": "4164057143207",
+    "uikName": "УИК №1603",
     "tikTvd": "2162000559344",
-    "tikName": "Зеленодольская"
+    "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1604,
     "uikTvd": "4164057143208",
+    "uikName": "УИК №1604",
     "tikTvd": "2162000559344",
-    "tikName": "Зеленодольская"
+    "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1605,
     "uikTvd": "4164057143209",
+    "uikName": "УИК №1605",
     "tikTvd": "2162000559344",
-    "tikName": "Зеленодольская"
+    "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1606,
     "uikTvd": "4164028120728",
+    "uikName": "УИК №1606",
     "tikTvd": "2162000559372",
-    "tikName": "Кайбицкая"
+    "tikName": "Кайбицкая",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1607,
     "uikTvd": "4164028120729",
+    "uikName": "УИК №1607",
     "tikTvd": "2162000559372",
-    "tikName": "Кайбицкая"
+    "tikName": "Кайбицкая",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1608,
     "uikTvd": "4164028120730",
+    "uikName": "УИК №1608",
     "tikTvd": "2162000559372",
-    "tikName": "Кайбицкая"
+    "tikName": "Кайбицкая",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1609,
     "uikTvd": "4164028120731",
+    "uikName": "УИК №1609",
     "tikTvd": "2162000559372",
-    "tikName": "Кайбицкая"
+    "tikName": "Кайбицкая",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1610,
     "uikTvd": "4164028120732",
+    "uikName": "УИК №1610",
     "tikTvd": "2162000559372",
-    "tikName": "Кайбицкая"
+    "tikName": "Кайбицкая",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1611,
     "uikTvd": "4164028120733",
+    "uikName": "УИК №1611",
     "tikTvd": "2162000559372",
-    "tikName": "Кайбицкая"
+    "tikName": "Кайбицкая",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1612,
     "uikTvd": "4164028120734",
+    "uikName": "УИК №1612",
     "tikTvd": "2162000559372",
-    "tikName": "Кайбицкая"
+    "tikName": "Кайбицкая",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1613,
     "uikTvd": "4164028120735",
+    "uikName": "УИК №1613",
     "tikTvd": "2162000559372",
-    "tikName": "Кайбицкая"
+    "tikName": "Кайбицкая",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1614,
     "uikTvd": "4164028120736",
+    "uikName": "УИК №1614",
     "tikTvd": "2162000559372",
-    "tikName": "Кайбицкая"
+    "tikName": "Кайбицкая",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1615,
     "uikTvd": "4164028120737",
+    "uikName": "УИК №1615",
     "tikTvd": "2162000559372",
-    "tikName": "Кайбицкая"
+    "tikName": "Кайбицкая",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1616,
     "uikTvd": "4164028120738",
+    "uikName": "УИК №1616",
     "tikTvd": "2162000559372",
-    "tikName": "Кайбицкая"
+    "tikName": "Кайбицкая",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1617,
     "uikTvd": "4164028120739",
+    "uikName": "УИК №1617",
     "tikTvd": "2162000559372",
-    "tikName": "Кайбицкая"
+    "tikName": "Кайбицкая",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1618,
     "uikTvd": "4164028120740",
+    "uikName": "УИК №1618",
     "tikTvd": "2162000559372",
-    "tikName": "Кайбицкая"
+    "tikName": "Кайбицкая",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1619,
     "uikTvd": "4164028120741",
+    "uikName": "УИК №1619",
     "tikTvd": "2162000559372",
-    "tikName": "Кайбицкая"
+    "tikName": "Кайбицкая",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1620,
     "uikTvd": "4164028120742",
+    "uikName": "УИК №1620",
     "tikTvd": "2162000559372",
-    "tikName": "Кайбицкая"
+    "tikName": "Кайбицкая",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1621,
     "uikTvd": "4164028120743",
+    "uikName": "УИК №1621",
     "tikTvd": "2162000559372",
-    "tikName": "Кайбицкая"
+    "tikName": "Кайбицкая",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1622,
     "uikTvd": "4164028120744",
+    "uikName": "УИК №1622",
     "tikTvd": "2162000559372",
-    "tikName": "Кайбицкая"
+    "tikName": "Кайбицкая",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1623,
     "uikTvd": "4164028120745",
+    "uikName": "УИК №1623",
     "tikTvd": "2162000559372",
-    "tikName": "Кайбицкая"
+    "tikName": "Кайбицкая",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1624,
     "uikTvd": "4164028120746",
+    "uikName": "УИК №1624",
     "tikTvd": "2162000559372",
-    "tikName": "Кайбицкая"
+    "tikName": "Кайбицкая",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1625,
     "uikTvd": "4164028120747",
+    "uikName": "УИК №1625",
     "tikTvd": "2162000559372",
-    "tikName": "Кайбицкая"
+    "tikName": "Кайбицкая",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1626,
     "uikTvd": "4164028120748",
+    "uikName": "УИК №1626",
     "tikTvd": "2162000559372",
-    "tikName": "Кайбицкая"
+    "tikName": "Кайбицкая",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1627,
     "uikTvd": "4164028120749",
+    "uikName": "УИК №1627",
     "tikTvd": "2162000559372",
-    "tikName": "Кайбицкая"
+    "tikName": "Кайбицкая",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1628,
     "uikTvd": "4164028120750",
+    "uikName": "УИК №1628",
     "tikTvd": "2162000559372",
-    "tikName": "Кайбицкая"
+    "tikName": "Кайбицкая",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1629,
     "uikTvd": "4164028120751",
+    "uikName": "УИК №1629",
     "tikTvd": "2162000559372",
-    "tikName": "Кайбицкая"
+    "tikName": "Кайбицкая",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1630,
     "uikTvd": "4164028120752",
+    "uikName": "УИК №1630",
     "tikTvd": "2162000559372",
-    "tikName": "Кайбицкая"
+    "tikName": "Кайбицкая",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1631,
     "uikTvd": "4164028120753",
+    "uikName": "УИК №1631",
     "tikTvd": "2162000559372",
-    "tikName": "Кайбицкая"
+    "tikName": "Кайбицкая",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1632,
     "uikTvd": "4164028120754",
+    "uikName": "УИК №1632",
     "tikTvd": "2162000559372",
-    "tikName": "Кайбицкая"
+    "tikName": "Кайбицкая",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1633,
     "uikTvd": "4164028120755",
+    "uikName": "УИК №1633",
     "tikTvd": "2162000559372",
-    "tikName": "Кайбицкая"
+    "tikName": "Кайбицкая",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1634,
     "uikTvd": "4164028120756",
+    "uikName": "УИК №1634",
     "tikTvd": "2162000559372",
-    "tikName": "Кайбицкая"
+    "tikName": "Кайбицкая",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1635,
     "uikTvd": "4164028120757",
+    "uikName": "УИК №1635",
     "tikTvd": "2162000559372",
-    "tikName": "Кайбицкая"
+    "tikName": "Кайбицкая",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1636,
     "uikTvd": "4164028120758",
+    "uikName": "УИК №1636",
     "tikTvd": "2162000559372",
-    "tikName": "Кайбицкая"
+    "tikName": "Кайбицкая",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1637,
     "uikTvd": "4164028120759",
+    "uikName": "УИК №1637",
     "tikTvd": "2162000559372",
-    "tikName": "Кайбицкая"
+    "tikName": "Кайбицкая",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1638,
     "uikTvd": "4164028120760",
+    "uikName": "УИК №1638",
     "tikTvd": "2162000559372",
-    "tikName": "Кайбицкая"
+    "tikName": "Кайбицкая",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1639,
     "uikTvd": "4164028120761",
+    "uikName": "УИК №1639",
     "tikTvd": "2162000559372",
-    "tikName": "Кайбицкая"
+    "tikName": "Кайбицкая",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1640,
     "uikTvd": "4164029129801",
+    "uikName": "УИК №1640",
     "tikTvd": "2162000559374",
-    "tikName": "Камско-Устьинская"
+    "tikName": "Камско-Устьинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1641,
     "uikTvd": "4164029129802",
+    "uikName": "УИК №1641",
     "tikTvd": "2162000559374",
-    "tikName": "Камско-Устьинская"
+    "tikName": "Камско-Устьинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1642,
     "uikTvd": "4164029129803",
+    "uikName": "УИК №1642",
     "tikTvd": "2162000559374",
-    "tikName": "Камско-Устьинская"
+    "tikName": "Камско-Устьинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1643,
     "uikTvd": "4164029129804",
+    "uikName": "УИК №1643",
     "tikTvd": "2162000559374",
-    "tikName": "Камско-Устьинская"
+    "tikName": "Камско-Устьинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1644,
     "uikTvd": "4164029129805",
+    "uikName": "УИК №1644",
     "tikTvd": "2162000559374",
-    "tikName": "Камско-Устьинская"
+    "tikName": "Камско-Устьинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1645,
     "uikTvd": "4164029129806",
+    "uikName": "УИК №1645",
     "tikTvd": "2162000559374",
-    "tikName": "Камско-Устьинская"
+    "tikName": "Камско-Устьинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1646,
     "uikTvd": "4164029129807",
+    "uikName": "УИК №1646",
     "tikTvd": "2162000559374",
-    "tikName": "Камско-Устьинская"
+    "tikName": "Камско-Устьинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1647,
     "uikTvd": "4164029129808",
+    "uikName": "УИК №1647",
     "tikTvd": "2162000559374",
-    "tikName": "Камско-Устьинская"
+    "tikName": "Камско-Устьинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1648,
     "uikTvd": "4164029129809",
+    "uikName": "УИК №1648",
     "tikTvd": "2162000559374",
-    "tikName": "Камско-Устьинская"
+    "tikName": "Камско-Устьинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1649,
     "uikTvd": "4164029129810",
+    "uikName": "УИК №1649",
     "tikTvd": "2162000559374",
-    "tikName": "Камско-Устьинская"
+    "tikName": "Камско-Устьинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1650,
     "uikTvd": "4164029129811",
+    "uikName": "УИК №1650",
     "tikTvd": "2162000559374",
-    "tikName": "Камско-Устьинская"
+    "tikName": "Камско-Устьинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1651,
     "uikTvd": "4164029129812",
+    "uikName": "УИК №1651",
     "tikTvd": "2162000559374",
-    "tikName": "Камско-Устьинская"
+    "tikName": "Камско-Устьинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1652,
     "uikTvd": "4164029129813",
+    "uikName": "УИК №1652",
     "tikTvd": "2162000559374",
-    "tikName": "Камско-Устьинская"
+    "tikName": "Камско-Устьинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1653,
     "uikTvd": "4164029129814",
+    "uikName": "УИК №1653",
     "tikTvd": "2162000559374",
-    "tikName": "Камско-Устьинская"
+    "tikName": "Камско-Устьинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1654,
     "uikTvd": "4164029129815",
+    "uikName": "УИК №1654",
     "tikTvd": "2162000559374",
-    "tikName": "Камско-Устьинская"
+    "tikName": "Камско-Устьинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1655,
     "uikTvd": "4164029129816",
+    "uikName": "УИК №1655",
     "tikTvd": "2162000559374",
-    "tikName": "Камско-Устьинская"
+    "tikName": "Камско-Устьинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1656,
     "uikTvd": "4164029129817",
+    "uikName": "УИК №1656",
     "tikTvd": "2162000559374",
-    "tikName": "Камско-Устьинская"
+    "tikName": "Камско-Устьинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1657,
     "uikTvd": "4164029129818",
+    "uikName": "УИК №1657",
     "tikTvd": "2162000559374",
-    "tikName": "Камско-Устьинская"
+    "tikName": "Камско-Устьинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1658,
     "uikTvd": "4164029129819",
+    "uikName": "УИК №1658",
     "tikTvd": "2162000559374",
-    "tikName": "Камско-Устьинская"
+    "tikName": "Камско-Устьинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1659,
     "uikTvd": "4164029129820",
+    "uikName": "УИК №1659",
     "tikTvd": "2162000559374",
-    "tikName": "Камско-Устьинская"
+    "tikName": "Камско-Устьинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1660,
     "uikTvd": "4164029129821",
+    "uikName": "УИК №1660",
     "tikTvd": "2162000559374",
-    "tikName": "Камско-Устьинская"
+    "tikName": "Камско-Устьинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1661,
     "uikTvd": "4164029129822",
+    "uikName": "УИК №1661",
     "tikTvd": "2162000559374",
-    "tikName": "Камско-Устьинская"
+    "tikName": "Камско-Устьинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1662,
     "uikTvd": "4164029129823",
+    "uikName": "УИК №1662",
     "tikTvd": "2162000559374",
-    "tikName": "Камско-Устьинская"
+    "tikName": "Камско-Устьинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1663,
     "uikTvd": "4164029129824",
+    "uikName": "УИК №1663",
     "tikTvd": "2162000559374",
-    "tikName": "Камско-Устьинская"
+    "tikName": "Камско-Устьинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1664,
     "uikTvd": "4164029129825",
+    "uikName": "УИК №1664",
     "tikTvd": "2162000559374",
-    "tikName": "Камско-Устьинская"
+    "tikName": "Камско-Устьинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1665,
     "uikTvd": "4164029129826",
+    "uikName": "УИК №1665",
     "tikTvd": "2162000559374",
-    "tikName": "Камско-Устьинская"
+    "tikName": "Камско-Устьинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1666,
     "uikTvd": "4164029129827",
+    "uikName": "УИК №1666",
     "tikTvd": "2162000559374",
-    "tikName": "Камско-Устьинская"
+    "tikName": "Камско-Устьинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1667,
     "uikTvd": "4164029129828",
+    "uikName": "УИК №1667",
     "tikTvd": "2162000559374",
-    "tikName": "Камско-Устьинская"
+    "tikName": "Камско-Устьинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1668,
     "uikTvd": "4164029129829",
+    "uikName": "УИК №1668",
     "tikTvd": "2162000559374",
-    "tikName": "Камско-Устьинская"
+    "tikName": "Камско-Устьинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1669,
     "uikTvd": "4164029129830",
+    "uikName": "УИК №1669",
     "tikTvd": "2162000559374",
-    "tikName": "Камско-Устьинская"
+    "tikName": "Камско-Устьинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1670,
     "uikTvd": "4164029129831",
+    "uikName": "УИК №1670",
     "tikTvd": "2162000559374",
-    "tikName": "Камско-Устьинская"
+    "tikName": "Камско-Устьинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1671,
     "uikTvd": "4164029129832",
+    "uikName": "УИК №1671",
     "tikTvd": "2162000559374",
-    "tikName": "Камско-Устьинская"
+    "tikName": "Камско-Устьинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1672,
     "uikTvd": "4164029129833",
+    "uikName": "УИК №1672",
     "tikTvd": "2162000559374",
-    "tikName": "Камско-Устьинская"
+    "tikName": "Камско-Устьинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1673,
     "uikTvd": "4164029129834",
+    "uikName": "УИК №1673",
     "tikTvd": "2162000559374",
-    "tikName": "Камско-Устьинская"
+    "tikName": "Камско-Устьинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1674,
     "uikTvd": "4164029129835",
+    "uikName": "УИК №1674",
     "tikTvd": "2162000559374",
-    "tikName": "Камско-Устьинская"
+    "tikName": "Камско-Устьинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1675,
     "uikTvd": "4164029129836",
+    "uikName": "УИК №1675",
     "tikTvd": "2162000559374",
-    "tikName": "Камско-Устьинская"
+    "tikName": "Камско-Устьинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1676,
     "uikTvd": "4164029129837",
+    "uikName": "УИК №1676",
     "tikTvd": "2162000559374",
-    "tikName": "Камско-Устьинская"
+    "tikName": "Камско-Устьинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1677,
     "uikTvd": "4164029129838",
+    "uikName": "УИК №1677",
     "tikTvd": "2162000559374",
-    "tikName": "Камско-Устьинская"
+    "tikName": "Камско-Устьинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1678,
     "uikTvd": "4164029129839",
+    "uikName": "УИК №1678",
     "tikTvd": "2162000559374",
-    "tikName": "Камско-Устьинская"
+    "tikName": "Камско-Устьинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1679,
     "uikTvd": "4164030163714",
+    "uikName": "УИК №1679",
     "tikTvd": "2162000559370",
-    "tikName": "Кукморская"
+    "tikName": "Кукморская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1680,
     "uikTvd": "4164030163715",
+    "uikName": "УИК №1680",
     "tikTvd": "2162000559370",
-    "tikName": "Кукморская"
+    "tikName": "Кукморская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1681,
     "uikTvd": "4164030163716",
+    "uikName": "УИК №1681",
     "tikTvd": "2162000559370",
-    "tikName": "Кукморская"
+    "tikName": "Кукморская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1682,
     "uikTvd": "4164030163717",
+    "uikName": "УИК №1682",
     "tikTvd": "2162000559370",
-    "tikName": "Кукморская"
+    "tikName": "Кукморская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1683,
     "uikTvd": "4164030163718",
+    "uikName": "УИК №1683",
     "tikTvd": "2162000559370",
-    "tikName": "Кукморская"
+    "tikName": "Кукморская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1684,
     "uikTvd": "4164030163719",
+    "uikName": "УИК №1684",
     "tikTvd": "2162000559370",
-    "tikName": "Кукморская"
+    "tikName": "Кукморская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1685,
     "uikTvd": "4164030163720",
+    "uikName": "УИК №1685",
     "tikTvd": "2162000559370",
-    "tikName": "Кукморская"
+    "tikName": "Кукморская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1686,
     "uikTvd": "4164030163721",
+    "uikName": "УИК №1686",
     "tikTvd": "2162000559370",
-    "tikName": "Кукморская"
+    "tikName": "Кукморская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1687,
     "uikTvd": "4164030163726",
+    "uikName": "УИК №1687",
     "tikTvd": "2162000559370",
-    "tikName": "Кукморская"
+    "tikName": "Кукморская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1688,
     "uikTvd": "4164030163727",
+    "uikName": "УИК №1688",
     "tikTvd": "2162000559370",
-    "tikName": "Кукморская"
+    "tikName": "Кукморская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1689,
     "uikTvd": "4164030163728",
+    "uikName": "УИК №1689",
     "tikTvd": "2162000559370",
-    "tikName": "Кукморская"
+    "tikName": "Кукморская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1690,
     "uikTvd": "4164030163729",
+    "uikName": "УИК №1690",
     "tikTvd": "2162000559370",
-    "tikName": "Кукморская"
+    "tikName": "Кукморская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1691,
     "uikTvd": "4164030163730",
+    "uikName": "УИК №1691",
     "tikTvd": "2162000559370",
-    "tikName": "Кукморская"
+    "tikName": "Кукморская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1692,
     "uikTvd": "4164030163731",
+    "uikName": "УИК №1692",
     "tikTvd": "2162000559370",
-    "tikName": "Кукморская"
+    "tikName": "Кукморская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1693,
     "uikTvd": "4164030163732",
+    "uikName": "УИК №1693",
     "tikTvd": "2162000559370",
-    "tikName": "Кукморская"
+    "tikName": "Кукморская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1694,
     "uikTvd": "4164030163733",
+    "uikName": "УИК №1694",
     "tikTvd": "2162000559370",
-    "tikName": "Кукморская"
+    "tikName": "Кукморская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1695,
     "uikTvd": "4164030163734",
+    "uikName": "УИК №1695",
     "tikTvd": "2162000559370",
-    "tikName": "Кукморская"
+    "tikName": "Кукморская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1696,
     "uikTvd": "4164030163735",
+    "uikName": "УИК №1696",
     "tikTvd": "2162000559370",
-    "tikName": "Кукморская"
+    "tikName": "Кукморская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1697,
     "uikTvd": "4164030163736",
+    "uikName": "УИК №1697",
     "tikTvd": "2162000559370",
-    "tikName": "Кукморская"
+    "tikName": "Кукморская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1698,
     "uikTvd": "4164030163737",
+    "uikName": "УИК №1698",
     "tikTvd": "2162000559370",
-    "tikName": "Кукморская"
+    "tikName": "Кукморская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1699,
     "uikTvd": "4164030163738",
+    "uikName": "УИК №1699",
     "tikTvd": "2162000559370",
-    "tikName": "Кукморская"
+    "tikName": "Кукморская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1700,
     "uikTvd": "4164030163739",
+    "uikName": "УИК №1700",
     "tikTvd": "2162000559370",
-    "tikName": "Кукморская"
+    "tikName": "Кукморская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1701,
     "uikTvd": "4164030163740",
+    "uikName": "УИК №1701",
     "tikTvd": "2162000559370",
-    "tikName": "Кукморская"
+    "tikName": "Кукморская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1702,
     "uikTvd": "4164030163741",
+    "uikName": "УИК №1702",
     "tikTvd": "2162000559370",
-    "tikName": "Кукморская"
+    "tikName": "Кукморская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1703,
     "uikTvd": "4164030163742",
+    "uikName": "УИК №1703",
     "tikTvd": "2162000559370",
-    "tikName": "Кукморская"
+    "tikName": "Кукморская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1704,
     "uikTvd": "4164030163743",
+    "uikName": "УИК №1704",
     "tikTvd": "2162000559370",
-    "tikName": "Кукморская"
+    "tikName": "Кукморская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1705,
     "uikTvd": "4164030163744",
+    "uikName": "УИК №1705",
     "tikTvd": "2162000559370",
-    "tikName": "Кукморская"
+    "tikName": "Кукморская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1706,
     "uikTvd": "4164030163745",
+    "uikName": "УИК №1706",
     "tikTvd": "2162000559370",
-    "tikName": "Кукморская"
+    "tikName": "Кукморская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1707,
     "uikTvd": "4164030163746",
+    "uikName": "УИК №1707",
     "tikTvd": "2162000559370",
-    "tikName": "Кукморская"
+    "tikName": "Кукморская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1708,
     "uikTvd": "4164030163747",
+    "uikName": "УИК №1708",
     "tikTvd": "2162000559370",
-    "tikName": "Кукморская"
+    "tikName": "Кукморская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1709,
     "uikTvd": "4164030163748",
+    "uikName": "УИК №1709",
     "tikTvd": "2162000559370",
-    "tikName": "Кукморская"
+    "tikName": "Кукморская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1710,
     "uikTvd": "4164030163749",
+    "uikName": "УИК №1710",
     "tikTvd": "2162000559370",
-    "tikName": "Кукморская"
+    "tikName": "Кукморская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1711,
     "uikTvd": "4164030163750",
+    "uikName": "УИК №1711",
     "tikTvd": "2162000559370",
-    "tikName": "Кукморская"
+    "tikName": "Кукморская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1712,
     "uikTvd": "4164030163751",
+    "uikName": "УИК №1712",
     "tikTvd": "2162000559370",
-    "tikName": "Кукморская"
+    "tikName": "Кукморская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1713,
     "uikTvd": "4164030163752",
+    "uikName": "УИК №1713",
     "tikTvd": "2162000559370",
-    "tikName": "Кукморская"
+    "tikName": "Кукморская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1714,
     "uikTvd": "4164030163753",
+    "uikName": "УИК №1714",
     "tikTvd": "2162000559370",
-    "tikName": "Кукморская"
+    "tikName": "Кукморская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1715,
     "uikTvd": "4164030163754",
+    "uikName": "УИК №1715",
     "tikTvd": "2162000559370",
-    "tikName": "Кукморская"
+    "tikName": "Кукморская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1716,
     "uikTvd": "4164030163755",
+    "uikName": "УИК №1716",
     "tikTvd": "2162000559370",
-    "tikName": "Кукморская"
+    "tikName": "Кукморская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1717,
     "uikTvd": "4164030163756",
+    "uikName": "УИК №1717",
     "tikTvd": "2162000559370",
-    "tikName": "Кукморская"
+    "tikName": "Кукморская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1718,
     "uikTvd": "4164030163757",
+    "uikName": "УИК №1718",
     "tikTvd": "2162000559370",
-    "tikName": "Кукморская"
+    "tikName": "Кукморская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1719,
     "uikTvd": "4164030163758",
+    "uikName": "УИК №1719",
     "tikTvd": "2162000559370",
-    "tikName": "Кукморская"
+    "tikName": "Кукморская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1720,
     "uikTvd": "4164030163759",
+    "uikName": "УИК №1720",
     "tikTvd": "2162000559370",
-    "tikName": "Кукморская"
+    "tikName": "Кукморская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1721,
     "uikTvd": "4164030163760",
+    "uikName": "УИК №1721",
     "tikTvd": "2162000559370",
-    "tikName": "Кукморская"
+    "tikName": "Кукморская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1722,
     "uikTvd": "4164030163761",
+    "uikName": "УИК №1722",
     "tikTvd": "2162000559370",
-    "tikName": "Кукморская"
+    "tikName": "Кукморская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1723,
     "uikTvd": "4164030163762",
+    "uikName": "УИК №1723",
     "tikTvd": "2162000559370",
-    "tikName": "Кукморская"
+    "tikName": "Кукморская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1724,
     "uikTvd": "4164030163763",
+    "uikName": "УИК №1724",
     "tikTvd": "2162000559370",
-    "tikName": "Кукморская"
+    "tikName": "Кукморская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1725,
     "uikTvd": "4164030163764",
+    "uikName": "УИК №1725",
     "tikTvd": "2162000559370",
-    "tikName": "Кукморская"
+    "tikName": "Кукморская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1726,
     "uikTvd": "4164030163765",
+    "uikName": "УИК №1726",
     "tikTvd": "2162000559370",
-    "tikName": "Кукморская"
+    "tikName": "Кукморская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1727,
     "uikTvd": "4164030163766",
+    "uikName": "УИК №1727",
     "tikTvd": "2162000559370",
-    "tikName": "Кукморская"
+    "tikName": "Кукморская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1728,
     "uikTvd": "4164030163767",
+    "uikName": "УИК №1728",
     "tikTvd": "2162000559370",
-    "tikName": "Кукморская"
+    "tikName": "Кукморская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1729,
     "uikTvd": "4164030163768",
+    "uikName": "УИК №1729",
     "tikTvd": "2162000559370",
-    "tikName": "Кукморская"
+    "tikName": "Кукморская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1730,
     "uikTvd": "4164030163769",
+    "uikName": "УИК №1730",
     "tikTvd": "2162000559370",
-    "tikName": "Кукморская"
+    "tikName": "Кукморская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1731,
     "uikTvd": "4164030163770",
+    "uikName": "УИК №1731",
     "tikTvd": "2162000559370",
-    "tikName": "Кукморская"
+    "tikName": "Кукморская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1732,
     "uikTvd": "4164030163771",
+    "uikName": "УИК №1732",
     "tikTvd": "2162000559370",
-    "tikName": "Кукморская"
+    "tikName": "Кукморская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1733,
     "uikTvd": "4164030163772",
+    "uikName": "УИК №1733",
     "tikTvd": "2162000559370",
-    "tikName": "Кукморская"
+    "tikName": "Кукморская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1734,
     "uikTvd": "4164030163773",
+    "uikName": "УИК №1734",
     "tikTvd": "2162000559370",
-    "tikName": "Кукморская"
+    "tikName": "Кукморская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1735,
     "uikTvd": "4164030163774",
+    "uikName": "УИК №1735",
     "tikTvd": "2162000559370",
-    "tikName": "Кукморская"
+    "tikName": "Кукморская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1736,
     "uikTvd": "4164030163775",
+    "uikName": "УИК №1736",
     "tikTvd": "2162000559370",
-    "tikName": "Кукморская"
+    "tikName": "Кукморская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1737,
     "uikTvd": "4164030163776",
+    "uikName": "УИК №1737",
     "tikTvd": "2162000559370",
-    "tikName": "Кукморская"
+    "tikName": "Кукморская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1738,
     "uikTvd": "4164030163777",
+    "uikName": "УИК №1738",
     "tikTvd": "2162000559370",
-    "tikName": "Кукморская"
+    "tikName": "Кукморская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1739,
     "uikTvd": "4164030163778",
+    "uikName": "УИК №1739",
     "tikTvd": "2162000559370",
-    "tikName": "Кукморская"
+    "tikName": "Кукморская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1740,
     "uikTvd": "4164030163779",
+    "uikName": "УИК №1740",
     "tikTvd": "2162000559370",
-    "tikName": "Кукморская"
+    "tikName": "Кукморская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1741,
     "uikTvd": "4164030163780",
+    "uikName": "УИК №1741",
     "tikTvd": "2162000559370",
-    "tikName": "Кукморская"
+    "tikName": "Кукморская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1742,
     "uikTvd": "4164030163781",
+    "uikName": "УИК №1742",
     "tikTvd": "2162000559370",
-    "tikName": "Кукморская"
+    "tikName": "Кукморская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1743,
     "uikTvd": "4164030163782",
+    "uikName": "УИК №1743",
     "tikTvd": "2162000559370",
-    "tikName": "Кукморская"
+    "tikName": "Кукморская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1744,
     "uikTvd": "4164030163783",
+    "uikName": "УИК №1744",
     "tikTvd": "2162000559370",
-    "tikName": "Кукморская"
+    "tikName": "Кукморская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1745,
     "uikTvd": "4164030163784",
+    "uikName": "УИК №1745",
     "tikTvd": "2162000559370",
-    "tikName": "Кукморская"
+    "tikName": "Кукморская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1746,
     "uikTvd": "4164030163785",
+    "uikName": "УИК №1746",
     "tikTvd": "2162000559370",
-    "tikName": "Кукморская"
+    "tikName": "Кукморская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1747,
     "uikTvd": "4164030163786",
+    "uikName": "УИК №1747",
     "tikTvd": "2162000559370",
-    "tikName": "Кукморская"
+    "tikName": "Кукморская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1748,
     "uikTvd": "4164031165373",
+    "uikName": "УИК №1748",
     "tikTvd": "2162000559371",
-    "tikName": "Лаишевская"
+    "tikName": "Лаишевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1749,
     "uikTvd": "4164031165374",
+    "uikName": "УИК №1749",
     "tikTvd": "2162000559371",
-    "tikName": "Лаишевская"
+    "tikName": "Лаишевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1750,
     "uikTvd": "4164031165375",
+    "uikName": "УИК №1750",
     "tikTvd": "2162000559371",
-    "tikName": "Лаишевская"
+    "tikName": "Лаишевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1751,
     "uikTvd": "4164031165376",
+    "uikName": "УИК №1751",
     "tikTvd": "2162000559371",
-    "tikName": "Лаишевская"
+    "tikName": "Лаишевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1752,
     "uikTvd": "4164031165377",
+    "uikName": "УИК №1752",
     "tikTvd": "2162000559371",
-    "tikName": "Лаишевская"
+    "tikName": "Лаишевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1753,
     "uikTvd": "4164031165378",
+    "uikName": "УИК №1753",
     "tikTvd": "2162000559371",
-    "tikName": "Лаишевская"
+    "tikName": "Лаишевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1754,
     "uikTvd": "4164031165379",
+    "uikName": "УИК №1754",
     "tikTvd": "2162000559371",
-    "tikName": "Лаишевская"
+    "tikName": "Лаишевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1755,
     "uikTvd": "4164031165380",
+    "uikName": "УИК №1755",
     "tikTvd": "2162000559371",
-    "tikName": "Лаишевская"
+    "tikName": "Лаишевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1756,
     "uikTvd": "4164031165381",
+    "uikName": "УИК №1756",
     "tikTvd": "2162000559371",
-    "tikName": "Лаишевская"
+    "tikName": "Лаишевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1757,
     "uikTvd": "4164031165382",
+    "uikName": "УИК №1757",
     "tikTvd": "2162000559371",
-    "tikName": "Лаишевская"
+    "tikName": "Лаишевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1758,
     "uikTvd": "4164031165383",
+    "uikName": "УИК №1758",
     "tikTvd": "2162000559371",
-    "tikName": "Лаишевская"
+    "tikName": "Лаишевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1759,
     "uikTvd": "4164031165384",
+    "uikName": "УИК №1759",
     "tikTvd": "2162000559371",
-    "tikName": "Лаишевская"
+    "tikName": "Лаишевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1760,
     "uikTvd": "4164031165385",
+    "uikName": "УИК №1760",
     "tikTvd": "2162000559371",
-    "tikName": "Лаишевская"
+    "tikName": "Лаишевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1761,
     "uikTvd": "4164031165386",
+    "uikName": "УИК №1761",
     "tikTvd": "2162000559371",
-    "tikName": "Лаишевская"
+    "tikName": "Лаишевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1762,
     "uikTvd": "4164031165387",
+    "uikName": "УИК №1762",
     "tikTvd": "2162000559371",
-    "tikName": "Лаишевская"
+    "tikName": "Лаишевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1763,
     "uikTvd": "4164031165388",
+    "uikName": "УИК №1763",
     "tikTvd": "2162000559371",
-    "tikName": "Лаишевская"
+    "tikName": "Лаишевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1764,
     "uikTvd": "4164031165389",
+    "uikName": "УИК №1764",
     "tikTvd": "2162000559371",
-    "tikName": "Лаишевская"
+    "tikName": "Лаишевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1765,
     "uikTvd": "4164031165390",
+    "uikName": "УИК №1765",
     "tikTvd": "2162000559371",
-    "tikName": "Лаишевская"
+    "tikName": "Лаишевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1766,
     "uikTvd": "4164031165391",
+    "uikName": "УИК №1766",
     "tikTvd": "2162000559371",
-    "tikName": "Лаишевская"
+    "tikName": "Лаишевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1767,
     "uikTvd": "4164031165392",
+    "uikName": "УИК №1767",
     "tikTvd": "2162000559371",
-    "tikName": "Лаишевская"
+    "tikName": "Лаишевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1768,
     "uikTvd": "4164031165393",
+    "uikName": "УИК №1768",
     "tikTvd": "2162000559371",
-    "tikName": "Лаишевская"
+    "tikName": "Лаишевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1769,
     "uikTvd": "4164031165394",
+    "uikName": "УИК №1769",
     "tikTvd": "2162000559371",
-    "tikName": "Лаишевская"
+    "tikName": "Лаишевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1770,
     "uikTvd": "4164031165395",
+    "uikName": "УИК №1770",
     "tikTvd": "2162000559371",
-    "tikName": "Лаишевская"
+    "tikName": "Лаишевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1771,
     "uikTvd": "4164031165396",
+    "uikName": "УИК №1771",
     "tikTvd": "2162000559371",
-    "tikName": "Лаишевская"
+    "tikName": "Лаишевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1772,
     "uikTvd": "4164031165397",
+    "uikName": "УИК №1772",
     "tikTvd": "2162000559371",
-    "tikName": "Лаишевская"
+    "tikName": "Лаишевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1773,
     "uikTvd": "4164031165398",
+    "uikName": "УИК №1773",
     "tikTvd": "2162000559371",
-    "tikName": "Лаишевская"
+    "tikName": "Лаишевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1774,
     "uikTvd": "4164031165399",
+    "uikName": "УИК №1774",
     "tikTvd": "2162000559371",
-    "tikName": "Лаишевская"
+    "tikName": "Лаишевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1775,
     "uikTvd": "4164031165400",
+    "uikName": "УИК №1775",
     "tikTvd": "2162000559371",
-    "tikName": "Лаишевская"
+    "tikName": "Лаишевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1776,
     "uikTvd": "4164031165401",
+    "uikName": "УИК №1776",
     "tikTvd": "2162000559371",
-    "tikName": "Лаишевская"
+    "tikName": "Лаишевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1777,
     "uikTvd": "4164031165402",
+    "uikName": "УИК №1777",
     "tikTvd": "2162000559371",
-    "tikName": "Лаишевская"
+    "tikName": "Лаишевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1778,
     "uikTvd": "4164031165403",
+    "uikName": "УИК №1778",
     "tikTvd": "2162000559371",
-    "tikName": "Лаишевская"
+    "tikName": "Лаишевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1779,
     "uikTvd": "4164031165404",
+    "uikName": "УИК №1779",
     "tikTvd": "2162000559371",
-    "tikName": "Лаишевская"
+    "tikName": "Лаишевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1780,
     "uikTvd": "4164031165405",
+    "uikName": "УИК №1780",
     "tikTvd": "2162000559371",
-    "tikName": "Лаишевская"
+    "tikName": "Лаишевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1781,
     "uikTvd": "4164031165406",
+    "uikName": "УИК №1781",
     "tikTvd": "2162000559371",
-    "tikName": "Лаишевская"
+    "tikName": "Лаишевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1782,
     "uikTvd": "4164031165407",
+    "uikName": "УИК №1782",
     "tikTvd": "2162000559371",
-    "tikName": "Лаишевская"
+    "tikName": "Лаишевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1783,
     "uikTvd": "4164031165408",
+    "uikName": "УИК №1783",
     "tikTvd": "2162000559371",
-    "tikName": "Лаишевская"
+    "tikName": "Лаишевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1784,
     "uikTvd": "4164031165409",
+    "uikName": "УИК №1784",
     "tikTvd": "2162000559371",
-    "tikName": "Лаишевская"
+    "tikName": "Лаишевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1785,
     "uikTvd": "4164031165410",
+    "uikName": "УИК №1785",
     "tikTvd": "2162000559371",
-    "tikName": "Лаишевская"
+    "tikName": "Лаишевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1786,
     "uikTvd": "4164031165411",
+    "uikName": "УИК №1786",
     "tikTvd": "2162000559371",
-    "tikName": "Лаишевская"
+    "tikName": "Лаишевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1787,
     "uikTvd": "4164031165412",
+    "uikName": "УИК №1787",
     "tikTvd": "2162000559371",
-    "tikName": "Лаишевская"
+    "tikName": "Лаишевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1788,
     "uikTvd": "4164031165413",
+    "uikName": "УИК №1788",
     "tikTvd": "2162000559371",
-    "tikName": "Лаишевская"
+    "tikName": "Лаишевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1789,
     "uikTvd": "4164031165414",
+    "uikName": "УИК №1789",
     "tikTvd": "2162000559371",
-    "tikName": "Лаишевская"
+    "tikName": "Лаишевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1790,
     "uikTvd": "4164031165415",
+    "uikName": "УИК №1790",
     "tikTvd": "2162000559371",
-    "tikName": "Лаишевская"
+    "tikName": "Лаишевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1791,
     "uikTvd": "4164031165416",
+    "uikName": "УИК №1791",
     "tikTvd": "2162000559371",
-    "tikName": "Лаишевская"
+    "tikName": "Лаишевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1792,
     "uikTvd": "4164031165417",
+    "uikName": "УИК №1792",
     "tikTvd": "2162000559371",
-    "tikName": "Лаишевская"
+    "tikName": "Лаишевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1793,
     "uikTvd": "4164031165418",
+    "uikName": "УИК №1793",
     "tikTvd": "2162000559371",
-    "tikName": "Лаишевская"
+    "tikName": "Лаишевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1794,
     "uikTvd": "4164031165419",
+    "uikName": "УИК №1794",
     "tikTvd": "2162000559371",
-    "tikName": "Лаишевская"
+    "tikName": "Лаишевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1795,
     "uikTvd": "4164032101655",
+    "uikName": "УИК №1795",
     "tikTvd": "2162000559369",
-    "tikName": "Лениногорская городская"
+    "tikName": "Лениногорская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1796,
     "uikTvd": "4164032101656",
+    "uikName": "УИК №1796",
     "tikTvd": "2162000559369",
-    "tikName": "Лениногорская городская"
+    "tikName": "Лениногорская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1797,
     "uikTvd": "4164032101657",
+    "uikName": "УИК №1797",
     "tikTvd": "2162000559369",
-    "tikName": "Лениногорская городская"
+    "tikName": "Лениногорская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1798,
     "uikTvd": "4164032101658",
+    "uikName": "УИК №1798",
     "tikTvd": "2162000559369",
-    "tikName": "Лениногорская городская"
+    "tikName": "Лениногорская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1799,
     "uikTvd": "4164032101659",
+    "uikName": "УИК №1799",
     "tikTvd": "2162000559369",
-    "tikName": "Лениногорская городская"
+    "tikName": "Лениногорская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1800,
     "uikTvd": "4164032101660",
+    "uikName": "УИК №1800",
     "tikTvd": "2162000559369",
-    "tikName": "Лениногорская городская"
+    "tikName": "Лениногорская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1801,
     "uikTvd": "4164032101661",
+    "uikName": "УИК №1801",
     "tikTvd": "2162000559369",
-    "tikName": "Лениногорская городская"
+    "tikName": "Лениногорская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1802,
     "uikTvd": "4164032101662",
+    "uikName": "УИК №1802",
     "tikTvd": "2162000559369",
-    "tikName": "Лениногорская городская"
+    "tikName": "Лениногорская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1803,
     "uikTvd": "4164032101663",
+    "uikName": "УИК №1803",
     "tikTvd": "2162000559369",
-    "tikName": "Лениногорская городская"
+    "tikName": "Лениногорская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1804,
     "uikTvd": "4164032101664",
+    "uikName": "УИК №1804",
     "tikTvd": "2162000559369",
-    "tikName": "Лениногорская городская"
+    "tikName": "Лениногорская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1805,
     "uikTvd": "4164032101665",
+    "uikName": "УИК №1805",
     "tikTvd": "2162000559369",
-    "tikName": "Лениногорская городская"
+    "tikName": "Лениногорская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1806,
     "uikTvd": "4164032101666",
+    "uikName": "УИК №1806",
     "tikTvd": "2162000559369",
-    "tikName": "Лениногорская городская"
+    "tikName": "Лениногорская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1807,
     "uikTvd": "4164032101667",
+    "uikName": "УИК №1807",
     "tikTvd": "2162000559369",
-    "tikName": "Лениногорская городская"
+    "tikName": "Лениногорская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1808,
     "uikTvd": "4164032101668",
+    "uikName": "УИК №1808",
     "tikTvd": "2162000559369",
-    "tikName": "Лениногорская городская"
+    "tikName": "Лениногорская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1809,
     "uikTvd": "4164032101669",
+    "uikName": "УИК №1809",
     "tikTvd": "2162000559369",
-    "tikName": "Лениногорская городская"
+    "tikName": "Лениногорская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1810,
     "uikTvd": "4164032101670",
+    "uikName": "УИК №1810",
     "tikTvd": "2162000559369",
-    "tikName": "Лениногорская городская"
+    "tikName": "Лениногорская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1811,
     "uikTvd": "4164032101671",
+    "uikName": "УИК №1811",
     "tikTvd": "2162000559369",
-    "tikName": "Лениногорская городская"
+    "tikName": "Лениногорская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1812,
     "uikTvd": "4164032101672",
+    "uikName": "УИК №1812",
     "tikTvd": "2162000559369",
-    "tikName": "Лениногорская городская"
+    "tikName": "Лениногорская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1813,
     "uikTvd": "4164032101673",
+    "uikName": "УИК №1813",
     "tikTvd": "2162000559369",
-    "tikName": "Лениногорская городская"
+    "tikName": "Лениногорская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1814,
     "uikTvd": "4164032101674",
+    "uikName": "УИК №1814",
     "tikTvd": "2162000559369",
-    "tikName": "Лениногорская городская"
+    "tikName": "Лениногорская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1815,
     "uikTvd": "4164032101675",
+    "uikName": "УИК №1815",
     "tikTvd": "2162000559369",
-    "tikName": "Лениногорская городская"
+    "tikName": "Лениногорская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1816,
     "uikTvd": "4164032101676",
+    "uikName": "УИК №1816",
     "tikTvd": "2162000559369",
-    "tikName": "Лениногорская городская"
+    "tikName": "Лениногорская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1817,
     "uikTvd": "4164032101677",
+    "uikName": "УИК №1817",
     "tikTvd": "2162000559369",
-    "tikName": "Лениногорская городская"
+    "tikName": "Лениногорская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1818,
     "uikTvd": "4164032101678",
+    "uikName": "УИК №1818",
     "tikTvd": "2162000559369",
-    "tikName": "Лениногорская городская"
+    "tikName": "Лениногорская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1819,
     "uikTvd": "4164058128222",
+    "uikName": "УИК №1819",
     "tikTvd": "2162000559343",
-    "tikName": "Лениногорская"
+    "tikName": "Лениногорская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1820,
     "uikTvd": "4164058128224",
+    "uikName": "УИК №1820",
     "tikTvd": "2162000559343",
-    "tikName": "Лениногорская"
+    "tikName": "Лениногорская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1821,
     "uikTvd": "4164058128225",
+    "uikName": "УИК №1821",
     "tikTvd": "2162000559343",
-    "tikName": "Лениногорская"
+    "tikName": "Лениногорская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1822,
     "uikTvd": "4164058128226",
+    "uikName": "УИК №1822",
     "tikTvd": "2162000559343",
-    "tikName": "Лениногорская"
+    "tikName": "Лениногорская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1823,
     "uikTvd": "4164058128227",
+    "uikName": "УИК №1823",
     "tikTvd": "2162000559343",
-    "tikName": "Лениногорская"
+    "tikName": "Лениногорская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1824,
     "uikTvd": "4164058128228",
+    "uikName": "УИК №1824",
     "tikTvd": "2162000559343",
-    "tikName": "Лениногорская"
+    "tikName": "Лениногорская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1825,
     "uikTvd": "4164058128229",
+    "uikName": "УИК №1825",
     "tikTvd": "2162000559343",
-    "tikName": "Лениногорская"
+    "tikName": "Лениногорская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1826,
     "uikTvd": "4164058128230",
+    "uikName": "УИК №1826",
     "tikTvd": "2162000559343",
-    "tikName": "Лениногорская"
+    "tikName": "Лениногорская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1827,
     "uikTvd": "4164058128231",
+    "uikName": "УИК №1827",
     "tikTvd": "2162000559343",
-    "tikName": "Лениногорская"
+    "tikName": "Лениногорская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1828,
     "uikTvd": "4164058128232",
+    "uikName": "УИК №1828",
     "tikTvd": "2162000559343",
-    "tikName": "Лениногорская"
+    "tikName": "Лениногорская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1829,
     "uikTvd": "4164058128233",
+    "uikName": "УИК №1829",
     "tikTvd": "2162000559343",
-    "tikName": "Лениногорская"
+    "tikName": "Лениногорская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1830,
     "uikTvd": "4164058128234",
+    "uikName": "УИК №1830",
     "tikTvd": "2162000559343",
-    "tikName": "Лениногорская"
+    "tikName": "Лениногорская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1831,
     "uikTvd": "4164058128235",
+    "uikName": "УИК №1831",
     "tikTvd": "2162000559343",
-    "tikName": "Лениногорская"
+    "tikName": "Лениногорская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1832,
     "uikTvd": "4164058128236",
+    "uikName": "УИК №1832",
     "tikTvd": "2162000559343",
-    "tikName": "Лениногорская"
+    "tikName": "Лениногорская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1833,
     "uikTvd": "4164058128237",
+    "uikName": "УИК №1833",
     "tikTvd": "2162000559343",
-    "tikName": "Лениногорская"
+    "tikName": "Лениногорская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1834,
     "uikTvd": "4164058128238",
+    "uikName": "УИК №1834",
     "tikTvd": "2162000559343",
-    "tikName": "Лениногорская"
+    "tikName": "Лениногорская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1835,
     "uikTvd": "4164058128239",
+    "uikName": "УИК №1835",
     "tikTvd": "2162000559343",
-    "tikName": "Лениногорская"
+    "tikName": "Лениногорская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1836,
     "uikTvd": "4164058128240",
+    "uikName": "УИК №1836",
     "tikTvd": "2162000559343",
-    "tikName": "Лениногорская"
+    "tikName": "Лениногорская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1837,
     "uikTvd": "4164058128241",
+    "uikName": "УИК №1837",
     "tikTvd": "2162000559343",
-    "tikName": "Лениногорская"
+    "tikName": "Лениногорская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1838,
     "uikTvd": "4164058128242",
+    "uikName": "УИК №1838",
     "tikTvd": "2162000559343",
-    "tikName": "Лениногорская"
+    "tikName": "Лениногорская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1839,
     "uikTvd": "4164058128243",
+    "uikName": "УИК №1839",
     "tikTvd": "2162000559343",
-    "tikName": "Лениногорская"
+    "tikName": "Лениногорская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1840,
     "uikTvd": "4164058128244",
+    "uikName": "УИК №1840",
     "tikTvd": "2162000559343",
-    "tikName": "Лениногорская"
+    "tikName": "Лениногорская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1841,
     "uikTvd": "4164058128245",
+    "uikName": "УИК №1841",
     "tikTvd": "2162000559343",
-    "tikName": "Лениногорская"
+    "tikName": "Лениногорская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1842,
     "uikTvd": "4164058128246",
+    "uikName": "УИК №1842",
     "tikTvd": "2162000559343",
-    "tikName": "Лениногорская"
+    "tikName": "Лениногорская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1843,
     "uikTvd": "4164058128247",
+    "uikName": "УИК №1843",
     "tikTvd": "2162000559343",
-    "tikName": "Лениногорская"
+    "tikName": "Лениногорская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1844,
     "uikTvd": "4164058128248",
+    "uikName": "УИК №1844",
     "tikTvd": "2162000559343",
-    "tikName": "Лениногорская"
+    "tikName": "Лениногорская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1845,
     "uikTvd": "4164058128249",
+    "uikName": "УИК №1845",
     "tikTvd": "2162000559343",
-    "tikName": "Лениногорская"
+    "tikName": "Лениногорская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1846,
     "uikTvd": "4164058128250",
+    "uikName": "УИК №1846",
     "tikTvd": "2162000559343",
-    "tikName": "Лениногорская"
+    "tikName": "Лениногорская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1847,
     "uikTvd": "4164058128251",
+    "uikName": "УИК №1847",
     "tikTvd": "2162000559343",
-    "tikName": "Лениногорская"
+    "tikName": "Лениногорская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1848,
     "uikTvd": "4164058128252",
+    "uikName": "УИК №1848",
     "tikTvd": "2162000559343",
-    "tikName": "Лениногорская"
+    "tikName": "Лениногорская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1849,
     "uikTvd": "4164058128253",
+    "uikName": "УИК №1849",
     "tikTvd": "2162000559343",
-    "tikName": "Лениногорская"
+    "tikName": "Лениногорская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1850,
     "uikTvd": "4164058128254",
+    "uikName": "УИК №1850",
     "tikTvd": "2162000559343",
-    "tikName": "Лениногорская"
+    "tikName": "Лениногорская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1851,
     "uikTvd": "4164058128255",
+    "uikName": "УИК №1851",
     "tikTvd": "2162000559343",
-    "tikName": "Лениногорская"
+    "tikName": "Лениногорская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1852,
     "uikTvd": "4164033189030",
+    "uikName": "УИК №1852",
     "tikTvd": "2162000559367",
-    "tikName": "Мамадышская"
+    "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1853,
     "uikTvd": "4164033189031",
+    "uikName": "УИК №1853",
     "tikTvd": "2162000559367",
-    "tikName": "Мамадышская"
+    "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1854,
     "uikTvd": "4164033189032",
+    "uikName": "УИК №1854",
     "tikTvd": "2162000559367",
-    "tikName": "Мамадышская"
+    "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1855,
     "uikTvd": "4164033189033",
+    "uikName": "УИК №1855",
     "tikTvd": "2162000559367",
-    "tikName": "Мамадышская"
+    "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1856,
     "uikTvd": "4164033189034",
+    "uikName": "УИК №1856",
     "tikTvd": "2162000559367",
-    "tikName": "Мамадышская"
+    "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1857,
     "uikTvd": "4164033189035",
+    "uikName": "УИК №1857",
     "tikTvd": "2162000559367",
-    "tikName": "Мамадышская"
+    "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1858,
     "uikTvd": "4164033189036",
+    "uikName": "УИК №1858",
     "tikTvd": "2162000559367",
-    "tikName": "Мамадышская"
+    "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1859,
     "uikTvd": "4164033189037",
+    "uikName": "УИК №1859",
     "tikTvd": "2162000559367",
-    "tikName": "Мамадышская"
+    "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1860,
     "uikTvd": "4164033189038",
+    "uikName": "УИК №1860",
     "tikTvd": "2162000559367",
-    "tikName": "Мамадышская"
+    "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1861,
     "uikTvd": "4164033189039",
+    "uikName": "УИК №1861",
     "tikTvd": "2162000559367",
-    "tikName": "Мамадышская"
+    "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1862,
     "uikTvd": "4164033189040",
+    "uikName": "УИК №1862",
     "tikTvd": "2162000559367",
-    "tikName": "Мамадышская"
+    "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1863,
     "uikTvd": "4164033189041",
+    "uikName": "УИК №1863",
     "tikTvd": "2162000559367",
-    "tikName": "Мамадышская"
+    "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1864,
     "uikTvd": "4164033189042",
+    "uikName": "УИК №1864",
     "tikTvd": "2162000559367",
-    "tikName": "Мамадышская"
+    "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1865,
     "uikTvd": "4164033189043",
+    "uikName": "УИК №1865",
     "tikTvd": "2162000559367",
-    "tikName": "Мамадышская"
+    "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1866,
     "uikTvd": "4164033189044",
+    "uikName": "УИК №1866",
     "tikTvd": "2162000559367",
-    "tikName": "Мамадышская"
+    "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1867,
     "uikTvd": "4164033189045",
+    "uikName": "УИК №1867",
     "tikTvd": "2162000559367",
-    "tikName": "Мамадышская"
+    "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1868,
     "uikTvd": "4164033189046",
+    "uikName": "УИК №1868",
     "tikTvd": "2162000559367",
-    "tikName": "Мамадышская"
+    "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1869,
     "uikTvd": "4164033189047",
+    "uikName": "УИК №1869",
     "tikTvd": "2162000559367",
-    "tikName": "Мамадышская"
+    "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1870,
     "uikTvd": "4164033189048",
+    "uikName": "УИК №1870",
     "tikTvd": "2162000559367",
-    "tikName": "Мамадышская"
+    "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1871,
     "uikTvd": "4164033189049",
+    "uikName": "УИК №1871",
     "tikTvd": "2162000559367",
-    "tikName": "Мамадышская"
+    "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1872,
     "uikTvd": "4164033189050",
+    "uikName": "УИК №1872",
     "tikTvd": "2162000559367",
-    "tikName": "Мамадышская"
+    "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1873,
     "uikTvd": "4164033189051",
+    "uikName": "УИК №1873",
     "tikTvd": "2162000559367",
-    "tikName": "Мамадышская"
+    "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1874,
     "uikTvd": "4164033189052",
+    "uikName": "УИК №1874",
     "tikTvd": "2162000559367",
-    "tikName": "Мамадышская"
+    "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1875,
     "uikTvd": "4164033189053",
+    "uikName": "УИК №1875",
     "tikTvd": "2162000559367",
-    "tikName": "Мамадышская"
+    "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1876,
     "uikTvd": "4164033189054",
+    "uikName": "УИК №1876",
     "tikTvd": "2162000559367",
-    "tikName": "Мамадышская"
+    "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1877,
     "uikTvd": "4164033189055",
+    "uikName": "УИК №1877",
     "tikTvd": "2162000559367",
-    "tikName": "Мамадышская"
+    "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1878,
     "uikTvd": "4164033189056",
+    "uikName": "УИК №1878",
     "tikTvd": "2162000559367",
-    "tikName": "Мамадышская"
+    "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1879,
     "uikTvd": "4164033189057",
+    "uikName": "УИК №1879",
     "tikTvd": "2162000559367",
-    "tikName": "Мамадышская"
+    "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1880,
     "uikTvd": "4164033189058",
+    "uikName": "УИК №1880",
     "tikTvd": "2162000559367",
-    "tikName": "Мамадышская"
+    "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1881,
     "uikTvd": "4164033189059",
+    "uikName": "УИК №1881",
     "tikTvd": "2162000559367",
-    "tikName": "Мамадышская"
+    "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1882,
     "uikTvd": "4164033189060",
+    "uikName": "УИК №1882",
     "tikTvd": "2162000559367",
-    "tikName": "Мамадышская"
+    "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1883,
     "uikTvd": "4164033189061",
+    "uikName": "УИК №1883",
     "tikTvd": "2162000559367",
-    "tikName": "Мамадышская"
+    "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1884,
     "uikTvd": "4164033189062",
+    "uikName": "УИК №1884",
     "tikTvd": "2162000559367",
-    "tikName": "Мамадышская"
+    "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1885,
     "uikTvd": "4164033189063",
+    "uikName": "УИК №1885",
     "tikTvd": "2162000559367",
-    "tikName": "Мамадышская"
+    "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1886,
     "uikTvd": "4164033189064",
+    "uikName": "УИК №1886",
     "tikTvd": "2162000559367",
-    "tikName": "Мамадышская"
+    "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1887,
     "uikTvd": "4164033189065",
+    "uikName": "УИК №1887",
     "tikTvd": "2162000559367",
-    "tikName": "Мамадышская"
+    "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1888,
     "uikTvd": "4164033189066",
+    "uikName": "УИК №1888",
     "tikTvd": "2162000559367",
-    "tikName": "Мамадышская"
+    "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1889,
     "uikTvd": "4164033189067",
+    "uikName": "УИК №1889",
     "tikTvd": "2162000559367",
-    "tikName": "Мамадышская"
+    "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1890,
     "uikTvd": "4164033189068",
+    "uikName": "УИК №1890",
     "tikTvd": "2162000559367",
-    "tikName": "Мамадышская"
+    "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1891,
     "uikTvd": "4164033189069",
+    "uikName": "УИК №1891",
     "tikTvd": "2162000559367",
-    "tikName": "Мамадышская"
+    "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1892,
     "uikTvd": "4164033189070",
+    "uikName": "УИК №1892",
     "tikTvd": "2162000559367",
-    "tikName": "Мамадышская"
+    "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1893,
     "uikTvd": "4164033189071",
+    "uikName": "УИК №1893",
     "tikTvd": "2162000559367",
-    "tikName": "Мамадышская"
+    "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1894,
     "uikTvd": "4164033189072",
+    "uikName": "УИК №1894",
     "tikTvd": "2162000559367",
-    "tikName": "Мамадышская"
+    "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1895,
     "uikTvd": "4164033189073",
+    "uikName": "УИК №1895",
     "tikTvd": "2162000559367",
-    "tikName": "Мамадышская"
+    "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1896,
     "uikTvd": "4164033189074",
+    "uikName": "УИК №1896",
     "tikTvd": "2162000559367",
-    "tikName": "Мамадышская"
+    "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1897,
     "uikTvd": "4164033189075",
+    "uikName": "УИК №1897",
     "tikTvd": "2162000559367",
-    "tikName": "Мамадышская"
+    "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1898,
     "uikTvd": "4164033189076",
+    "uikName": "УИК №1898",
     "tikTvd": "2162000559367",
-    "tikName": "Мамадышская"
+    "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1899,
     "uikTvd": "4164033189077",
+    "uikName": "УИК №1899",
     "tikTvd": "2162000559367",
-    "tikName": "Мамадышская"
+    "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1900,
     "uikTvd": "4164033189078",
+    "uikName": "УИК №1900",
     "tikTvd": "2162000559367",
-    "tikName": "Мамадышская"
+    "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1901,
     "uikTvd": "4164033189079",
+    "uikName": "УИК №1901",
     "tikTvd": "2162000559367",
-    "tikName": "Мамадышская"
+    "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1902,
     "uikTvd": "4164033189080",
+    "uikName": "УИК №1902",
     "tikTvd": "2162000559367",
-    "tikName": "Мамадышская"
+    "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1903,
     "uikTvd": "4164033189081",
+    "uikName": "УИК №1903",
     "tikTvd": "2162000559367",
-    "tikName": "Мамадышская"
+    "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1904,
     "uikTvd": "4164033189082",
+    "uikName": "УИК №1904",
     "tikTvd": "2162000559367",
-    "tikName": "Мамадышская"
+    "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1905,
     "uikTvd": "4164033189083",
+    "uikName": "УИК №1905",
     "tikTvd": "2162000559367",
-    "tikName": "Мамадышская"
+    "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1906,
     "uikTvd": "4164033189084",
+    "uikName": "УИК №1906",
     "tikTvd": "2162000559367",
-    "tikName": "Мамадышская"
+    "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1907,
     "uikTvd": "4164033189085",
+    "uikName": "УИК №1907",
     "tikTvd": "2162000559367",
-    "tikName": "Мамадышская"
+    "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1908,
     "uikTvd": "4164033189086",
+    "uikName": "УИК №1908",
     "tikTvd": "2162000559367",
-    "tikName": "Мамадышская"
+    "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1909,
     "uikTvd": "4164033189087",
+    "uikName": "УИК №1909",
     "tikTvd": "2162000559367",
-    "tikName": "Мамадышская"
+    "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1910,
     "uikTvd": "4164034125735",
+    "uikName": "УИК №1910",
     "tikTvd": "2162000559368",
-    "tikName": "Менделеевская"
+    "tikName": "Менделеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1911,
     "uikTvd": "4164034125736",
+    "uikName": "УИК №1911",
     "tikTvd": "2162000559368",
-    "tikName": "Менделеевская"
+    "tikName": "Менделеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1912,
     "uikTvd": "4164034125737",
+    "uikName": "УИК №1912",
     "tikTvd": "2162000559368",
-    "tikName": "Менделеевская"
+    "tikName": "Менделеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1913,
     "uikTvd": "4164034125738",
+    "uikName": "УИК №1913",
     "tikTvd": "2162000559368",
-    "tikName": "Менделеевская"
+    "tikName": "Менделеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1914,
     "uikTvd": "4164034125739",
+    "uikName": "УИК №1914",
     "tikTvd": "2162000559368",
-    "tikName": "Менделеевская"
+    "tikName": "Менделеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1915,
     "uikTvd": "4164034125740",
+    "uikName": "УИК №1915",
     "tikTvd": "2162000559368",
-    "tikName": "Менделеевская"
+    "tikName": "Менделеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1916,
     "uikTvd": "4164034125741",
+    "uikName": "УИК №1916",
     "tikTvd": "2162000559368",
-    "tikName": "Менделеевская"
+    "tikName": "Менделеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1917,
     "uikTvd": "4164034125742",
+    "uikName": "УИК №1917",
     "tikTvd": "2162000559368",
-    "tikName": "Менделеевская"
+    "tikName": "Менделеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1918,
     "uikTvd": "4164034125743",
+    "uikName": "УИК №1918",
     "tikTvd": "2162000559368",
-    "tikName": "Менделеевская"
+    "tikName": "Менделеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1919,
     "uikTvd": "4164034125744",
+    "uikName": "УИК №1919",
     "tikTvd": "2162000559368",
-    "tikName": "Менделеевская"
+    "tikName": "Менделеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1920,
     "uikTvd": "4164034125745",
+    "uikName": "УИК №1920",
     "tikTvd": "2162000559368",
-    "tikName": "Менделеевская"
+    "tikName": "Менделеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1921,
     "uikTvd": "4164034125746",
+    "uikName": "УИК №1921",
     "tikTvd": "2162000559368",
-    "tikName": "Менделеевская"
+    "tikName": "Менделеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1922,
     "uikTvd": "4164034125747",
+    "uikName": "УИК №1922",
     "tikTvd": "2162000559368",
-    "tikName": "Менделеевская"
+    "tikName": "Менделеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1923,
     "uikTvd": "4164034125748",
+    "uikName": "УИК №1923",
     "tikTvd": "2162000559368",
-    "tikName": "Менделеевская"
+    "tikName": "Менделеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1924,
     "uikTvd": "4164034125749",
+    "uikName": "УИК №1924",
     "tikTvd": "2162000559368",
-    "tikName": "Менделеевская"
+    "tikName": "Менделеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1925,
     "uikTvd": "4164034125750",
+    "uikName": "УИК №1925",
     "tikTvd": "2162000559368",
-    "tikName": "Менделеевская"
+    "tikName": "Менделеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1926,
     "uikTvd": "4164034125751",
+    "uikName": "УИК №1926",
     "tikTvd": "2162000559368",
-    "tikName": "Менделеевская"
+    "tikName": "Менделеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1927,
     "uikTvd": "4164034125752",
+    "uikName": "УИК №1927",
     "tikTvd": "2162000559368",
-    "tikName": "Менделеевская"
+    "tikName": "Менделеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1928,
     "uikTvd": "4164034125753",
+    "uikName": "УИК №1928",
     "tikTvd": "2162000559368",
-    "tikName": "Менделеевская"
+    "tikName": "Менделеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1929,
     "uikTvd": "4164034125754",
+    "uikName": "УИК №1929",
     "tikTvd": "2162000559368",
-    "tikName": "Менделеевская"
+    "tikName": "Менделеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1930,
     "uikTvd": "4164034125755",
+    "uikName": "УИК №1930",
     "tikTvd": "2162000559368",
-    "tikName": "Менделеевская"
+    "tikName": "Менделеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1931,
     "uikTvd": "4164034125756",
+    "uikName": "УИК №1931",
     "tikTvd": "2162000559368",
-    "tikName": "Менделеевская"
+    "tikName": "Менделеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1932,
     "uikTvd": "4164034125757",
+    "uikName": "УИК №1932",
     "tikTvd": "2162000559368",
-    "tikName": "Менделеевская"
+    "tikName": "Менделеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1933,
     "uikTvd": "4164034125758",
+    "uikName": "УИК №1933",
     "tikTvd": "2162000559368",
-    "tikName": "Менделеевская"
+    "tikName": "Менделеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1934,
     "uikTvd": "4164034125759",
+    "uikName": "УИК №1934",
     "tikTvd": "2162000559368",
-    "tikName": "Менделеевская"
+    "tikName": "Менделеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1935,
     "uikTvd": "4164034125760",
+    "uikName": "УИК №1935",
     "tikTvd": "2162000559368",
-    "tikName": "Менделеевская"
+    "tikName": "Менделеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1936,
     "uikTvd": "4164034125761",
+    "uikName": "УИК №1936",
     "tikTvd": "2162000559368",
-    "tikName": "Менделеевская"
+    "tikName": "Менделеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1937,
     "uikTvd": "4164034125762",
+    "uikName": "УИК №1937",
     "tikTvd": "2162000559368",
-    "tikName": "Менделеевская"
+    "tikName": "Менделеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1938,
     "uikTvd": "4164034125763",
+    "uikName": "УИК №1938",
     "tikTvd": "2162000559368",
-    "tikName": "Менделеевская"
+    "tikName": "Менделеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1939,
     "uikTvd": "4164034125764",
+    "uikName": "УИК №1939",
     "tikTvd": "2162000559368",
-    "tikName": "Менделеевская"
+    "tikName": "Менделеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1940,
     "uikTvd": "4164034125765",
+    "uikName": "УИК №1940",
     "tikTvd": "2162000559368",
-    "tikName": "Менделеевская"
+    "tikName": "Менделеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1941,
     "uikTvd": "4164035143241",
+    "uikName": "УИК №1941",
     "tikTvd": "2162000559366",
-    "tikName": "Мензелинская"
+    "tikName": "Мензелинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1942,
     "uikTvd": "4164035143243",
+    "uikName": "УИК №1942",
     "tikTvd": "2162000559366",
-    "tikName": "Мензелинская"
+    "tikName": "Мензелинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1943,
     "uikTvd": "4164035143244",
+    "uikName": "УИК №1943",
     "tikTvd": "2162000559366",
-    "tikName": "Мензелинская"
+    "tikName": "Мензелинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1944,
     "uikTvd": "4164035143245",
+    "uikName": "УИК №1944",
     "tikTvd": "2162000559366",
-    "tikName": "Мензелинская"
+    "tikName": "Мензелинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1945,
     "uikTvd": "4164035143246",
+    "uikName": "УИК №1945",
     "tikTvd": "2162000559366",
-    "tikName": "Мензелинская"
+    "tikName": "Мензелинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1946,
     "uikTvd": "4164035143247",
+    "uikName": "УИК №1946",
     "tikTvd": "2162000559366",
-    "tikName": "Мензелинская"
+    "tikName": "Мензелинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1947,
     "uikTvd": "4164035143248",
+    "uikName": "УИК №1947",
     "tikTvd": "2162000559366",
-    "tikName": "Мензелинская"
+    "tikName": "Мензелинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1948,
     "uikTvd": "4164035143249",
+    "uikName": "УИК №1948",
     "tikTvd": "2162000559366",
-    "tikName": "Мензелинская"
+    "tikName": "Мензелинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1949,
     "uikTvd": "4164035143250",
+    "uikName": "УИК №1949",
     "tikTvd": "2162000559366",
-    "tikName": "Мензелинская"
+    "tikName": "Мензелинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1950,
     "uikTvd": "4164035143251",
+    "uikName": "УИК №1950",
     "tikTvd": "2162000559366",
-    "tikName": "Мензелинская"
+    "tikName": "Мензелинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1951,
     "uikTvd": "4164035143252",
+    "uikName": "УИК №1951",
     "tikTvd": "2162000559366",
-    "tikName": "Мензелинская"
+    "tikName": "Мензелинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1952,
     "uikTvd": "4164035143253",
+    "uikName": "УИК №1952",
     "tikTvd": "2162000559366",
-    "tikName": "Мензелинская"
+    "tikName": "Мензелинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1953,
     "uikTvd": "4164035143254",
+    "uikName": "УИК №1953",
     "tikTvd": "2162000559366",
-    "tikName": "Мензелинская"
+    "tikName": "Мензелинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1954,
     "uikTvd": "4164035143255",
+    "uikName": "УИК №1954",
     "tikTvd": "2162000559366",
-    "tikName": "Мензелинская"
+    "tikName": "Мензелинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1955,
     "uikTvd": "4164035143256",
+    "uikName": "УИК №1955",
     "tikTvd": "2162000559366",
-    "tikName": "Мензелинская"
+    "tikName": "Мензелинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1956,
     "uikTvd": "4164035143257",
+    "uikName": "УИК №1956",
     "tikTvd": "2162000559366",
-    "tikName": "Мензелинская"
+    "tikName": "Мензелинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1957,
     "uikTvd": "4164035143258",
+    "uikName": "УИК №1957",
     "tikTvd": "2162000559366",
-    "tikName": "Мензелинская"
+    "tikName": "Мензелинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1958,
     "uikTvd": "4164035143259",
+    "uikName": "УИК №1958",
     "tikTvd": "2162000559366",
-    "tikName": "Мензелинская"
+    "tikName": "Мензелинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1959,
     "uikTvd": "4164035143260",
+    "uikName": "УИК №1959",
     "tikTvd": "2162000559366",
-    "tikName": "Мензелинская"
+    "tikName": "Мензелинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1960,
     "uikTvd": "4164035143261",
+    "uikName": "УИК №1960",
     "tikTvd": "2162000559366",
-    "tikName": "Мензелинская"
+    "tikName": "Мензелинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1961,
     "uikTvd": "4164035143262",
+    "uikName": "УИК №1961",
     "tikTvd": "2162000559366",
-    "tikName": "Мензелинская"
+    "tikName": "Мензелинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1962,
     "uikTvd": "4164035143263",
+    "uikName": "УИК №1962",
     "tikTvd": "2162000559366",
-    "tikName": "Мензелинская"
+    "tikName": "Мензелинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1963,
     "uikTvd": "4164035143264",
+    "uikName": "УИК №1963",
     "tikTvd": "2162000559366",
-    "tikName": "Мензелинская"
+    "tikName": "Мензелинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1964,
     "uikTvd": "4164035143265",
+    "uikName": "УИК №1964",
     "tikTvd": "2162000559366",
-    "tikName": "Мензелинская"
+    "tikName": "Мензелинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1965,
     "uikTvd": "4164035143266",
+    "uikName": "УИК №1965",
     "tikTvd": "2162000559366",
-    "tikName": "Мензелинская"
+    "tikName": "Мензелинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1966,
     "uikTvd": "4164035143267",
+    "uikName": "УИК №1966",
     "tikTvd": "2162000559366",
-    "tikName": "Мензелинская"
+    "tikName": "Мензелинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1967,
     "uikTvd": "4164035143268",
+    "uikName": "УИК №1967",
     "tikTvd": "2162000559366",
-    "tikName": "Мензелинская"
+    "tikName": "Мензелинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1968,
     "uikTvd": "4164035143269",
+    "uikName": "УИК №1968",
     "tikTvd": "2162000559366",
-    "tikName": "Мензелинская"
+    "tikName": "Мензелинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1969,
     "uikTvd": "4164035143270",
+    "uikName": "УИК №1969",
     "tikTvd": "2162000559366",
-    "tikName": "Мензелинская"
+    "tikName": "Мензелинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1970,
     "uikTvd": "4164035143271",
+    "uikName": "УИК №1970",
     "tikTvd": "2162000559366",
-    "tikName": "Мензелинская"
+    "tikName": "Мензелинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1971,
     "uikTvd": "4164035143272",
+    "uikName": "УИК №1971",
     "tikTvd": "2162000559366",
-    "tikName": "Мензелинская"
+    "tikName": "Мензелинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1972,
     "uikTvd": "4164035143273",
+    "uikName": "УИК №1972",
     "tikTvd": "2162000559366",
-    "tikName": "Мензелинская"
+    "tikName": "Мензелинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1973,
     "uikTvd": "4164035143274",
+    "uikName": "УИК №1973",
     "tikTvd": "2162000559366",
-    "tikName": "Мензелинская"
+    "tikName": "Мензелинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1974,
     "uikTvd": "4164035143275",
+    "uikName": "УИК №1974",
     "tikTvd": "2162000559366",
-    "tikName": "Мензелинская"
+    "tikName": "Мензелинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1975,
     "uikTvd": "4164035143276",
+    "uikName": "УИК №1975",
     "tikTvd": "2162000559366",
-    "tikName": "Мензелинская"
+    "tikName": "Мензелинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1976,
     "uikTvd": "4164035143277",
+    "uikName": "УИК №1976",
     "tikTvd": "2162000559366",
-    "tikName": "Мензелинская"
+    "tikName": "Мензелинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1977,
     "uikTvd": "4164035143278",
+    "uikName": "УИК №1977",
     "tikTvd": "2162000559366",
-    "tikName": "Мензелинская"
+    "tikName": "Мензелинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1978,
     "uikTvd": "4164035143279",
+    "uikName": "УИК №1978",
     "tikTvd": "2162000559366",
-    "tikName": "Мензелинская"
+    "tikName": "Мензелинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1979,
     "uikTvd": "4164035143280",
+    "uikName": "УИК №1979",
     "tikTvd": "2162000559366",
-    "tikName": "Мензелинская"
+    "tikName": "Мензелинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1980,
     "uikTvd": "4164035143281",
+    "uikName": "УИК №1980",
     "tikTvd": "2162000559366",
-    "tikName": "Мензелинская"
+    "tikName": "Мензелинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1981,
     "uikTvd": "4164035143282",
+    "uikName": "УИК №1981",
     "tikTvd": "2162000559366",
-    "tikName": "Мензелинская"
+    "tikName": "Мензелинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1982,
     "uikTvd": "4164035143283",
+    "uikName": "УИК №1982",
     "tikTvd": "2162000559366",
-    "tikName": "Мензелинская"
+    "tikName": "Мензелинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1983,
     "uikTvd": "4164035143284",
+    "uikName": "УИК №1983",
     "tikTvd": "2162000559366",
-    "tikName": "Мензелинская"
+    "tikName": "Мензелинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1984,
     "uikTvd": "4164035143285",
+    "uikName": "УИК №1984",
     "tikTvd": "2162000559366",
-    "tikName": "Мензелинская"
+    "tikName": "Мензелинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1985,
     "uikTvd": "4164035143286",
+    "uikName": "УИК №1985",
     "tikTvd": "2162000559366",
-    "tikName": "Мензелинская"
+    "tikName": "Мензелинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1986,
     "uikTvd": "4164035143287",
+    "uikName": "УИК №1986",
     "tikTvd": "2162000559366",
-    "tikName": "Мензелинская"
+    "tikName": "Мензелинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1987,
     "uikTvd": "4164035143288",
+    "uikName": "УИК №1987",
     "tikTvd": "2162000559366",
-    "tikName": "Мензелинская"
+    "tikName": "Мензелинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1988,
     "uikTvd": "4164035143289",
+    "uikName": "УИК №1988",
     "tikTvd": "2162000559366",
-    "tikName": "Мензелинская"
+    "tikName": "Мензелинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1989,
     "uikTvd": "4164035143290",
+    "uikName": "УИК №1989",
     "tikTvd": "2162000559366",
-    "tikName": "Мензелинская"
+    "tikName": "Мензелинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1990,
     "uikTvd": "4164035143291",
+    "uikName": "УИК №1990",
     "tikTvd": "2162000559366",
-    "tikName": "Мензелинская"
+    "tikName": "Мензелинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1991,
     "uikTvd": "4164035143292",
+    "uikName": "УИК №1991",
     "tikTvd": "2162000559366",
-    "tikName": "Мензелинская"
+    "tikName": "Мензелинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1992,
     "uikTvd": "4164036111178",
+    "uikName": "УИК №1992",
     "tikTvd": "2162000559365",
-    "tikName": "Муслюмовская"
+    "tikName": "Муслюмовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1993,
     "uikTvd": "4164036111179",
+    "uikName": "УИК №1993",
     "tikTvd": "2162000559365",
-    "tikName": "Муслюмовская"
+    "tikName": "Муслюмовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1994,
     "uikTvd": "4164036111180",
+    "uikName": "УИК №1994",
     "tikTvd": "2162000559365",
-    "tikName": "Муслюмовская"
+    "tikName": "Муслюмовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1995,
     "uikTvd": "4164036111181",
+    "uikName": "УИК №1995",
     "tikTvd": "2162000559365",
-    "tikName": "Муслюмовская"
+    "tikName": "Муслюмовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1996,
     "uikTvd": "4164036111182",
+    "uikName": "УИК №1996",
     "tikTvd": "2162000559365",
-    "tikName": "Муслюмовская"
+    "tikName": "Муслюмовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1997,
     "uikTvd": "4164036111183",
+    "uikName": "УИК №1997",
     "tikTvd": "2162000559365",
-    "tikName": "Муслюмовская"
+    "tikName": "Муслюмовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1998,
     "uikTvd": "4164036111184",
+    "uikName": "УИК №1998",
     "tikTvd": "2162000559365",
-    "tikName": "Муслюмовская"
+    "tikName": "Муслюмовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 1999,
     "uikTvd": "4164036111185",
+    "uikName": "УИК №1999",
     "tikTvd": "2162000559365",
-    "tikName": "Муслюмовская"
+    "tikName": "Муслюмовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2000,
     "uikTvd": "4164036111186",
+    "uikName": "УИК №2000",
     "tikTvd": "2162000559365",
-    "tikName": "Муслюмовская"
+    "tikName": "Муслюмовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2001,
     "uikTvd": "4164036111187",
+    "uikName": "УИК №2001",
     "tikTvd": "2162000559365",
-    "tikName": "Муслюмовская"
+    "tikName": "Муслюмовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2002,
     "uikTvd": "4164036111188",
+    "uikName": "УИК №2002",
     "tikTvd": "2162000559365",
-    "tikName": "Муслюмовская"
+    "tikName": "Муслюмовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2003,
     "uikTvd": "4164036111189",
+    "uikName": "УИК №2003",
     "tikTvd": "2162000559365",
-    "tikName": "Муслюмовская"
+    "tikName": "Муслюмовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2004,
     "uikTvd": "4164036111190",
+    "uikName": "УИК №2004",
     "tikTvd": "2162000559365",
-    "tikName": "Муслюмовская"
+    "tikName": "Муслюмовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2005,
     "uikTvd": "4164036111191",
+    "uikName": "УИК №2005",
     "tikTvd": "2162000559365",
-    "tikName": "Муслюмовская"
+    "tikName": "Муслюмовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2006,
     "uikTvd": "4164036111192",
+    "uikName": "УИК №2006",
     "tikTvd": "2162000559365",
-    "tikName": "Муслюмовская"
+    "tikName": "Муслюмовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2007,
     "uikTvd": "4164036111193",
+    "uikName": "УИК №2007",
     "tikTvd": "2162000559365",
-    "tikName": "Муслюмовская"
+    "tikName": "Муслюмовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2008,
     "uikTvd": "4164036111194",
+    "uikName": "УИК №2008",
     "tikTvd": "2162000559365",
-    "tikName": "Муслюмовская"
+    "tikName": "Муслюмовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2009,
     "uikTvd": "4164036111195",
+    "uikName": "УИК №2009",
     "tikTvd": "2162000559365",
-    "tikName": "Муслюмовская"
+    "tikName": "Муслюмовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2010,
     "uikTvd": "4164036111196",
+    "uikName": "УИК №2010",
     "tikTvd": "2162000559365",
-    "tikName": "Муслюмовская"
+    "tikName": "Муслюмовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2011,
     "uikTvd": "4164036111197",
+    "uikName": "УИК №2011",
     "tikTvd": "2162000559365",
-    "tikName": "Муслюмовская"
+    "tikName": "Муслюмовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2012,
     "uikTvd": "4164036111198",
+    "uikName": "УИК №2012",
     "tikTvd": "2162000559365",
-    "tikName": "Муслюмовская"
+    "tikName": "Муслюмовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2013,
     "uikTvd": "4164036111199",
+    "uikName": "УИК №2013",
     "tikTvd": "2162000559365",
-    "tikName": "Муслюмовская"
+    "tikName": "Муслюмовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2014,
     "uikTvd": "4164036111200",
+    "uikName": "УИК №2014",
     "tikTvd": "2162000559365",
-    "tikName": "Муслюмовская"
+    "tikName": "Муслюмовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2015,
     "uikTvd": "4164036111201",
+    "uikName": "УИК №2015",
     "tikTvd": "2162000559365",
-    "tikName": "Муслюмовская"
+    "tikName": "Муслюмовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2016,
     "uikTvd": "4164036111202",
+    "uikName": "УИК №2016",
     "tikTvd": "2162000559365",
-    "tikName": "Муслюмовская"
+    "tikName": "Муслюмовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2017,
     "uikTvd": "4164036111203",
+    "uikName": "УИК №2017",
     "tikTvd": "2162000559365",
-    "tikName": "Муслюмовская"
+    "tikName": "Муслюмовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2018,
     "uikTvd": "4164036111204",
+    "uikName": "УИК №2018",
     "tikTvd": "2162000559365",
-    "tikName": "Муслюмовская"
+    "tikName": "Муслюмовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2019,
     "uikTvd": "4164036111205",
+    "uikName": "УИК №2019",
     "tikTvd": "2162000559365",
-    "tikName": "Муслюмовская"
+    "tikName": "Муслюмовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2020,
     "uikTvd": "4164036111206",
+    "uikName": "УИК №2020",
     "tikTvd": "2162000559365",
-    "tikName": "Муслюмовская"
+    "tikName": "Муслюмовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2021,
     "uikTvd": "4164036111207",
+    "uikName": "УИК №2021",
     "tikTvd": "2162000559365",
-    "tikName": "Муслюмовская"
+    "tikName": "Муслюмовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2022,
     "uikTvd": "4164036111208",
+    "uikName": "УИК №2022",
     "tikTvd": "2162000559365",
-    "tikName": "Муслюмовская"
+    "tikName": "Муслюмовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2023,
     "uikTvd": "4164036111209",
+    "uikName": "УИК №2023",
     "tikTvd": "2162000559365",
-    "tikName": "Муслюмовская"
+    "tikName": "Муслюмовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2024,
     "uikTvd": "4164036111210",
+    "uikName": "УИК №2024",
     "tikTvd": "2162000559365",
-    "tikName": "Муслюмовская"
+    "tikName": "Муслюмовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2025,
     "uikTvd": "4164036111211",
+    "uikName": "УИК №2025",
     "tikTvd": "2162000559365",
-    "tikName": "Муслюмовская"
+    "tikName": "Муслюмовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2026,
     "uikTvd": "4164036111212",
+    "uikName": "УИК №2026",
     "tikTvd": "2162000559365",
-    "tikName": "Муслюмовская"
+    "tikName": "Муслюмовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2027,
     "uikTvd": "4164036111213",
+    "uikName": "УИК №2027",
     "tikTvd": "2162000559365",
-    "tikName": "Муслюмовская"
+    "tikName": "Муслюмовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2028,
     "uikTvd": "416406592244",
+    "uikName": "УИК №2028",
     "tikTvd": "2162000559402",
-    "tikName": "Набережные Челны, Комсомольская"
+    "tikName": "Набережные Челны, Комсомольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2029,
     "uikTvd": "416406592245",
+    "uikName": "УИК №2029",
     "tikTvd": "2162000559402",
-    "tikName": "Набережные Челны, Комсомольская"
+    "tikName": "Набережные Челны, Комсомольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2030,
     "uikTvd": "416406592246",
+    "uikName": "УИК №2030",
     "tikTvd": "2162000559402",
-    "tikName": "Набережные Челны, Комсомольская"
+    "tikName": "Набережные Челны, Комсомольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2031,
     "uikTvd": "416406592247",
+    "uikName": "УИК №2031",
     "tikTvd": "2162000559402",
-    "tikName": "Набережные Челны, Комсомольская"
+    "tikName": "Набережные Челны, Комсомольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2033,
     "uikTvd": "416406592249",
+    "uikName": "УИК №2033",
     "tikTvd": "2162000559402",
-    "tikName": "Набережные Челны, Комсомольская"
+    "tikName": "Набережные Челны, Комсомольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2034,
     "uikTvd": "416406592250",
+    "uikName": "УИК №2034",
     "tikTvd": "2162000559402",
-    "tikName": "Набережные Челны, Комсомольская"
+    "tikName": "Набережные Челны, Комсомольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2035,
     "uikTvd": "416406592251",
+    "uikName": "УИК №2035",
     "tikTvd": "2162000559402",
-    "tikName": "Набережные Челны, Комсомольская"
+    "tikName": "Набережные Челны, Комсомольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2036,
     "uikTvd": "416406592252",
+    "uikName": "УИК №2036",
     "tikTvd": "2162000559402",
-    "tikName": "Набережные Челны, Комсомольская"
+    "tikName": "Набережные Челны, Комсомольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2037,
     "uikTvd": "416406592253",
+    "uikName": "УИК №2037",
     "tikTvd": "2162000559402",
-    "tikName": "Набережные Челны, Комсомольская"
+    "tikName": "Набережные Челны, Комсомольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2038,
     "uikTvd": "416406592254",
+    "uikName": "УИК №2038",
     "tikTvd": "2162000559402",
-    "tikName": "Набережные Челны, Комсомольская"
+    "tikName": "Набережные Челны, Комсомольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2039,
     "uikTvd": "416406592255",
+    "uikName": "УИК №2039",
     "tikTvd": "2162000559402",
-    "tikName": "Набережные Челны, Комсомольская"
+    "tikName": "Набережные Челны, Комсомольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2040,
     "uikTvd": "416406592256",
+    "uikName": "УИК №2040",
     "tikTvd": "2162000559402",
-    "tikName": "Набережные Челны, Комсомольская"
+    "tikName": "Набережные Челны, Комсомольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2041,
     "uikTvd": "416406592257",
+    "uikName": "УИК №2041",
     "tikTvd": "2162000559402",
-    "tikName": "Набережные Челны, Комсомольская"
+    "tikName": "Набережные Челны, Комсомольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2042,
     "uikTvd": "416406592258",
+    "uikName": "УИК №2042",
     "tikTvd": "2162000559402",
-    "tikName": "Набережные Челны, Комсомольская"
+    "tikName": "Набережные Челны, Комсомольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2043,
     "uikTvd": "416406592259",
+    "uikName": "УИК №2043",
     "tikTvd": "2162000559402",
-    "tikName": "Набережные Челны, Комсомольская"
+    "tikName": "Набережные Челны, Комсомольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2044,
     "uikTvd": "416406592260",
+    "uikName": "УИК №2044",
     "tikTvd": "2162000559402",
-    "tikName": "Набережные Челны, Комсомольская"
+    "tikName": "Набережные Челны, Комсомольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2045,
     "uikTvd": "416406592261",
+    "uikName": "УИК №2045",
     "tikTvd": "2162000559402",
-    "tikName": "Набережные Челны, Комсомольская"
+    "tikName": "Набережные Челны, Комсомольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2046,
     "uikTvd": "416406592262",
+    "uikName": "УИК №2046",
     "tikTvd": "2162000559402",
-    "tikName": "Набережные Челны, Комсомольская"
+    "tikName": "Набережные Челны, Комсомольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2047,
     "uikTvd": "416406592263",
+    "uikName": "УИК №2047",
     "tikTvd": "2162000559402",
-    "tikName": "Набережные Челны, Комсомольская"
+    "tikName": "Набережные Челны, Комсомольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2048,
     "uikTvd": "416406592264",
+    "uikName": "УИК №2048",
     "tikTvd": "2162000559402",
-    "tikName": "Набережные Челны, Комсомольская"
+    "tikName": "Набережные Челны, Комсомольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2049,
     "uikTvd": "416406592265",
+    "uikName": "УИК №2049",
     "tikTvd": "2162000559402",
-    "tikName": "Набережные Челны, Комсомольская"
+    "tikName": "Набережные Челны, Комсомольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2050,
     "uikTvd": "416406592266",
+    "uikName": "УИК №2050",
     "tikTvd": "2162000559402",
-    "tikName": "Набережные Челны, Комсомольская"
+    "tikName": "Набережные Челны, Комсомольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2051,
     "uikTvd": "416406592267",
+    "uikName": "УИК №2051",
     "tikTvd": "2162000559402",
-    "tikName": "Набережные Челны, Комсомольская"
+    "tikName": "Набережные Челны, Комсомольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2052,
     "uikTvd": "416406592268",
+    "uikName": "УИК №2052",
     "tikTvd": "2162000559402",
-    "tikName": "Набережные Челны, Комсомольская"
+    "tikName": "Набережные Челны, Комсомольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2053,
     "uikTvd": "416406592269",
+    "uikName": "УИК №2053",
     "tikTvd": "2162000559402",
-    "tikName": "Набережные Челны, Комсомольская"
+    "tikName": "Набережные Челны, Комсомольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2054,
     "uikTvd": "416406592270",
+    "uikName": "УИК №2054",
     "tikTvd": "2162000559402",
-    "tikName": "Набережные Челны, Комсомольская"
+    "tikName": "Набережные Челны, Комсомольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2055,
     "uikTvd": "416406592271",
+    "uikName": "УИК №2055",
     "tikTvd": "2162000559402",
-    "tikName": "Набережные Челны, Комсомольская"
+    "tikName": "Набережные Челны, Комсомольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2056,
     "uikTvd": "416406592272",
+    "uikName": "УИК №2056",
     "tikTvd": "2162000559402",
-    "tikName": "Набережные Челны, Комсомольская"
+    "tikName": "Набережные Челны, Комсомольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2057,
     "uikTvd": "416406592273",
+    "uikName": "УИК №2057",
     "tikTvd": "2162000559402",
-    "tikName": "Набережные Челны, Комсомольская"
+    "tikName": "Набережные Челны, Комсомольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2058,
     "uikTvd": "416406592274",
+    "uikName": "УИК №2058",
     "tikTvd": "2162000559402",
-    "tikName": "Набережные Челны, Комсомольская"
+    "tikName": "Набережные Челны, Комсомольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2059,
     "uikTvd": "416406592275",
+    "uikName": "УИК №2059",
     "tikTvd": "2162000559402",
-    "tikName": "Набережные Челны, Комсомольская"
+    "tikName": "Набережные Челны, Комсомольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2060,
     "uikTvd": "416406592276",
+    "uikName": "УИК №2060",
     "tikTvd": "2162000559402",
-    "tikName": "Набережные Челны, Комсомольская"
+    "tikName": "Набережные Челны, Комсомольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2061,
     "uikTvd": "416406592277",
+    "uikName": "УИК №2061",
     "tikTvd": "2162000559402",
-    "tikName": "Набережные Челны, Комсомольская"
+    "tikName": "Набережные Челны, Комсомольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2062,
     "uikTvd": "416406592278",
+    "uikName": "УИК №2062",
     "tikTvd": "2162000559402",
-    "tikName": "Набережные Челны, Комсомольская"
+    "tikName": "Набережные Челны, Комсомольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2063,
     "uikTvd": "416406592279",
+    "uikName": "УИК №2063",
     "tikTvd": "2162000559402",
-    "tikName": "Набережные Челны, Комсомольская"
+    "tikName": "Набережные Челны, Комсомольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2064,
     "uikTvd": "416406592280",
+    "uikName": "УИК №2064",
     "tikTvd": "2162000559402",
-    "tikName": "Набережные Челны, Комсомольская"
+    "tikName": "Набережные Челны, Комсомольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2065,
     "uikTvd": "416406592281",
+    "uikName": "УИК №2065",
     "tikTvd": "2162000559402",
-    "tikName": "Набережные Челны, Комсомольская"
+    "tikName": "Набережные Челны, Комсомольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2066,
     "uikTvd": "416406592282",
+    "uikName": "УИК №2066",
     "tikTvd": "2162000559402",
-    "tikName": "Набережные Челны, Комсомольская"
+    "tikName": "Набережные Челны, Комсомольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2067,
     "uikTvd": "416406592283",
+    "uikName": "УИК №2067",
     "tikTvd": "2162000559402",
-    "tikName": "Набережные Челны, Комсомольская"
+    "tikName": "Набережные Челны, Комсомольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2068,
     "uikTvd": "416406592284",
+    "uikName": "УИК №2068",
     "tikTvd": "2162000559402",
-    "tikName": "Набережные Челны, Комсомольская"
+    "tikName": "Набережные Челны, Комсомольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2069,
     "uikTvd": "416406592285",
+    "uikName": "УИК №2069",
     "tikTvd": "2162000559402",
-    "tikName": "Набережные Челны, Комсомольская"
+    "tikName": "Набережные Челны, Комсомольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2070,
     "uikTvd": "416406592286",
+    "uikName": "УИК №2070",
     "tikTvd": "2162000559402",
-    "tikName": "Набережные Челны, Комсомольская"
+    "tikName": "Набережные Челны, Комсомольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2071,
     "uikTvd": "416406592287",
+    "uikName": "УИК №2071",
     "tikTvd": "2162000559402",
-    "tikName": "Набережные Челны, Комсомольская"
+    "tikName": "Набережные Челны, Комсомольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2072,
     "uikTvd": "416406592288",
+    "uikName": "УИК №2072",
     "tikTvd": "2162000559402",
-    "tikName": "Набережные Челны, Комсомольская"
+    "tikName": "Набережные Челны, Комсомольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2073,
     "uikTvd": "4164037118687",
+    "uikName": "УИК №2073",
     "tikTvd": "2162000559403",
-    "tikName": "Набережные Челны, Центральная"
+    "tikName": "Набережные Челны, Центральная",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2074,
     "uikTvd": "4164037118688",
+    "uikName": "УИК №2074",
     "tikTvd": "2162000559403",
-    "tikName": "Набережные Челны, Центральная"
+    "tikName": "Набережные Челны, Центральная",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2075,
     "uikTvd": "4164037118689",
+    "uikName": "УИК №2075",
     "tikTvd": "2162000559403",
-    "tikName": "Набережные Челны, Центральная"
+    "tikName": "Набережные Челны, Центральная",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2076,
     "uikTvd": "4164037118690",
+    "uikName": "УИК №2076",
     "tikTvd": "2162000559403",
-    "tikName": "Набережные Челны, Центральная"
+    "tikName": "Набережные Челны, Центральная",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2077,
     "uikTvd": "4164037118691",
+    "uikName": "УИК №2077",
     "tikTvd": "2162000559403",
-    "tikName": "Набережные Челны, Центральная"
+    "tikName": "Набережные Челны, Центральная",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2078,
     "uikTvd": "4164037118692",
+    "uikName": "УИК №2078",
     "tikTvd": "2162000559403",
-    "tikName": "Набережные Челны, Центральная"
+    "tikName": "Набережные Челны, Центральная",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2079,
     "uikTvd": "4164037118693",
+    "uikName": "УИК №2079",
     "tikTvd": "2162000559403",
-    "tikName": "Набережные Челны, Центральная"
+    "tikName": "Набережные Челны, Центральная",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2080,
     "uikTvd": "4164037118694",
+    "uikName": "УИК №2080",
     "tikTvd": "2162000559403",
-    "tikName": "Набережные Челны, Центральная"
+    "tikName": "Набережные Челны, Центральная",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2081,
     "uikTvd": "4164037118695",
+    "uikName": "УИК №2081",
     "tikTvd": "2162000559403",
-    "tikName": "Набережные Челны, Центральная"
+    "tikName": "Набережные Челны, Центральная",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2082,
     "uikTvd": "4164037118696",
+    "uikName": "УИК №2082",
     "tikTvd": "2162000559403",
-    "tikName": "Набережные Челны, Центральная"
+    "tikName": "Набережные Челны, Центральная",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2083,
     "uikTvd": "4164037118697",
+    "uikName": "УИК №2083",
     "tikTvd": "2162000559403",
-    "tikName": "Набережные Челны, Центральная"
+    "tikName": "Набережные Челны, Центральная",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2084,
     "uikTvd": "4164037118698",
+    "uikName": "УИК №2084",
     "tikTvd": "2162000559403",
-    "tikName": "Набережные Челны, Центральная"
+    "tikName": "Набережные Челны, Центральная",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2085,
     "uikTvd": "4164037118699",
+    "uikName": "УИК №2085",
     "tikTvd": "2162000559403",
-    "tikName": "Набережные Челны, Центральная"
+    "tikName": "Набережные Челны, Центральная",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2086,
     "uikTvd": "4164037118700",
+    "uikName": "УИК №2086",
     "tikTvd": "2162000559403",
-    "tikName": "Набережные Челны, Центральная"
+    "tikName": "Набережные Челны, Центральная",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2087,
     "uikTvd": "4164037118701",
+    "uikName": "УИК №2087",
     "tikTvd": "2162000559403",
-    "tikName": "Набережные Челны, Центральная"
+    "tikName": "Набережные Челны, Центральная",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2088,
     "uikTvd": "4164037118702",
+    "uikName": "УИК №2088",
     "tikTvd": "2162000559403",
-    "tikName": "Набережные Челны, Центральная"
+    "tikName": "Набережные Челны, Центральная",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2089,
     "uikTvd": "4164037118703",
+    "uikName": "УИК №2089",
     "tikTvd": "2162000559403",
-    "tikName": "Набережные Челны, Центральная"
+    "tikName": "Набережные Челны, Центральная",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2090,
     "uikTvd": "4164037118704",
+    "uikName": "УИК №2090",
     "tikTvd": "2162000559403",
-    "tikName": "Набережные Челны, Центральная"
+    "tikName": "Набережные Челны, Центральная",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2091,
     "uikTvd": "4164037118705",
+    "uikName": "УИК №2091",
     "tikTvd": "2162000559403",
-    "tikName": "Набережные Челны, Центральная"
+    "tikName": "Набережные Челны, Центральная",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2092,
     "uikTvd": "4164037118706",
+    "uikName": "УИК №2092",
     "tikTvd": "2162000559403",
-    "tikName": "Набережные Челны, Центральная"
+    "tikName": "Набережные Челны, Центральная",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2093,
     "uikTvd": "4164037118707",
+    "uikName": "УИК №2093",
     "tikTvd": "2162000559403",
-    "tikName": "Набережные Челны, Центральная"
+    "tikName": "Набережные Челны, Центральная",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2094,
     "uikTvd": "4164037118708",
+    "uikName": "УИК №2094",
     "tikTvd": "2162000559403",
-    "tikName": "Набережные Челны, Центральная"
+    "tikName": "Набережные Челны, Центральная",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2095,
     "uikTvd": "4164037118709",
+    "uikName": "УИК №2095",
     "tikTvd": "2162000559403",
-    "tikName": "Набережные Челны, Центральная"
+    "tikName": "Набережные Челны, Центральная",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2096,
     "uikTvd": "4164037118710",
+    "uikName": "УИК №2096",
     "tikTvd": "2162000559403",
-    "tikName": "Набережные Челны, Центральная"
+    "tikName": "Набережные Челны, Центральная",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2097,
     "uikTvd": "4164037118711",
+    "uikName": "УИК №2097",
     "tikTvd": "2162000559403",
-    "tikName": "Набережные Челны, Центральная"
+    "tikName": "Набережные Челны, Центральная",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2098,
     "uikTvd": "4164037118712",
+    "uikName": "УИК №2098",
     "tikTvd": "2162000559403",
-    "tikName": "Набережные Челны, Центральная"
+    "tikName": "Набережные Челны, Центральная",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2099,
     "uikTvd": "4164037118713",
+    "uikName": "УИК №2099",
     "tikTvd": "2162000559403",
-    "tikName": "Набережные Челны, Центральная"
+    "tikName": "Набережные Челны, Центральная",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2100,
     "uikTvd": "4164037118714",
+    "uikName": "УИК №2100",
     "tikTvd": "2162000559403",
-    "tikName": "Набережные Челны, Центральная"
+    "tikName": "Набережные Челны, Центральная",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2101,
     "uikTvd": "4164037118715",
+    "uikName": "УИК №2101",
     "tikTvd": "2162000559403",
-    "tikName": "Набережные Челны, Центральная"
+    "tikName": "Набережные Челны, Центральная",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2102,
     "uikTvd": "4164037118716",
+    "uikName": "УИК №2102",
     "tikTvd": "2162000559403",
-    "tikName": "Набережные Челны, Центральная"
+    "tikName": "Набережные Челны, Центральная",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2103,
     "uikTvd": "4164037118717",
+    "uikName": "УИК №2103",
     "tikTvd": "2162000559403",
-    "tikName": "Набережные Челны, Центральная"
+    "tikName": "Набережные Челны, Центральная",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2104,
     "uikTvd": "4164037118718",
+    "uikName": "УИК №2104",
     "tikTvd": "2162000559403",
-    "tikName": "Набережные Челны, Центральная"
+    "tikName": "Набережные Челны, Центральная",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2105,
     "uikTvd": "4164037118719",
+    "uikName": "УИК №2105",
     "tikTvd": "2162000559403",
-    "tikName": "Набережные Челны, Центральная"
+    "tikName": "Набережные Челны, Центральная",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2106,
     "uikTvd": "4164037118720",
+    "uikName": "УИК №2106",
     "tikTvd": "2162000559403",
-    "tikName": "Набережные Челны, Центральная"
+    "tikName": "Набережные Челны, Центральная",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2107,
     "uikTvd": "4164037118721",
+    "uikName": "УИК №2107",
     "tikTvd": "2162000559403",
-    "tikName": "Набережные Челны, Центральная"
+    "tikName": "Набережные Челны, Центральная",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2108,
     "uikTvd": "4164037118722",
+    "uikName": "УИК №2108",
     "tikTvd": "2162000559403",
-    "tikName": "Набережные Челны, Центральная"
+    "tikName": "Набережные Челны, Центральная",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2109,
     "uikTvd": "4164037118723",
+    "uikName": "УИК №2109",
     "tikTvd": "2162000559403",
-    "tikName": "Набережные Челны, Центральная"
+    "tikName": "Набережные Челны, Центральная",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2110,
     "uikTvd": "4164037118724",
+    "uikName": "УИК №2110",
     "tikTvd": "2162000559403",
-    "tikName": "Набережные Челны, Центральная"
+    "tikName": "Набережные Челны, Центральная",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2111,
     "uikTvd": "4164037118725",
+    "uikName": "УИК №2111",
     "tikTvd": "2162000559403",
-    "tikName": "Набережные Челны, Центральная"
+    "tikName": "Набережные Челны, Центральная",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2112,
     "uikTvd": "4164037118726",
+    "uikName": "УИК №2112",
     "tikTvd": "2162000559403",
-    "tikName": "Набережные Челны, Центральная"
+    "tikName": "Набережные Челны, Центральная",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2113,
     "uikTvd": "4164037118727",
+    "uikName": "УИК №2113",
     "tikTvd": "2162000559403",
-    "tikName": "Набережные Челны, Центральная"
+    "tikName": "Набережные Челны, Центральная",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2114,
     "uikTvd": "4164037118728",
+    "uikName": "УИК №2114",
     "tikTvd": "2162000559403",
-    "tikName": "Набережные Челны, Центральная"
+    "tikName": "Набережные Челны, Центральная",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2115,
     "uikTvd": "4164037118729",
+    "uikName": "УИК №2115",
     "tikTvd": "2162000559403",
-    "tikName": "Набережные Челны, Центральная"
+    "tikName": "Набережные Челны, Центральная",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2116,
     "uikTvd": "4164037118730",
+    "uikName": "УИК №2116",
     "tikTvd": "2162000559403",
-    "tikName": "Набережные Челны, Центральная"
+    "tikName": "Набережные Челны, Центральная",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2117,
     "uikTvd": "4164037118731",
+    "uikName": "УИК №2117",
     "tikTvd": "2162000559403",
-    "tikName": "Набережные Челны, Центральная"
+    "tikName": "Набережные Челны, Центральная",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2118,
     "uikTvd": "4164037118732",
+    "uikName": "УИК №2118",
     "tikTvd": "2162000559403",
-    "tikName": "Набережные Челны, Центральная"
+    "tikName": "Набережные Челны, Центральная",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2119,
     "uikTvd": "4164037118733",
+    "uikName": "УИК №2119",
     "tikTvd": "2162000559403",
-    "tikName": "Набережные Челны, Центральная"
+    "tikName": "Набережные Челны, Центральная",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2120,
     "uikTvd": "4164037118734",
+    "uikName": "УИК №2120",
     "tikTvd": "2162000559403",
-    "tikName": "Набережные Челны, Центральная"
+    "tikName": "Набережные Челны, Центральная",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2121,
     "uikTvd": "4164037118735",
+    "uikName": "УИК №2121",
     "tikTvd": "2162000559403",
-    "tikName": "Набережные Челны, Центральная"
+    "tikName": "Набережные Челны, Центральная",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2122,
     "uikTvd": "4164037118736",
+    "uikName": "УИК №2122",
     "tikTvd": "2162000559403",
-    "tikName": "Набережные Челны, Центральная"
+    "tikName": "Набережные Челны, Центральная",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2123,
     "uikTvd": "4164037118737",
+    "uikName": "УИК №2123",
     "tikTvd": "2162000559403",
-    "tikName": "Набережные Челны, Центральная"
+    "tikName": "Набережные Челны, Центральная",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2124,
     "uikTvd": "4164037118738",
+    "uikName": "УИК №2124",
     "tikTvd": "2162000559403",
-    "tikName": "Набережные Челны, Центральная"
+    "tikName": "Набережные Челны, Центральная",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2125,
     "uikTvd": "4164037118739",
+    "uikName": "УИК №2125",
     "tikTvd": "2162000559403",
-    "tikName": "Набережные Челны, Центральная"
+    "tikName": "Набережные Челны, Центральная",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2126,
     "uikTvd": "4164037118740",
+    "uikName": "УИК №2126",
     "tikTvd": "2162000559403",
-    "tikName": "Набережные Челны, Центральная"
+    "tikName": "Набережные Челны, Центральная",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2127,
     "uikTvd": "4164037118741",
+    "uikName": "УИК №2127",
     "tikTvd": "2162000559403",
-    "tikName": "Набережные Челны, Центральная"
+    "tikName": "Набережные Челны, Центральная",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2128,
     "uikTvd": "4164037118742",
+    "uikName": "УИК №2128",
     "tikTvd": "2162000559403",
-    "tikName": "Набережные Челны, Центральная"
+    "tikName": "Набережные Челны, Центральная",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2129,
     "uikTvd": "4164037118743",
+    "uikName": "УИК №2129",
     "tikTvd": "2162000559403",
-    "tikName": "Набережные Челны, Центральная"
+    "tikName": "Набережные Челны, Центральная",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2130,
     "uikTvd": "4164037118744",
+    "uikName": "УИК №2130",
     "tikTvd": "2162000559403",
-    "tikName": "Набережные Челны, Центральная"
+    "tikName": "Набережные Челны, Центральная",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2131,
     "uikTvd": "4164037118745",
+    "uikName": "УИК №2131",
     "tikTvd": "2162000559403",
-    "tikName": "Набережные Челны, Центральная"
+    "tikName": "Набережные Челны, Центральная",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2132,
     "uikTvd": "4164037118746",
+    "uikName": "УИК №2132",
     "tikTvd": "2162000559403",
-    "tikName": "Набережные Челны, Центральная"
+    "tikName": "Набережные Челны, Центральная",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2133,
     "uikTvd": "4164037118747",
+    "uikName": "УИК №2133",
     "tikTvd": "2162000559403",
-    "tikName": "Набережные Челны, Центральная"
+    "tikName": "Набережные Челны, Центральная",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2134,
     "uikTvd": "4164037118748",
+    "uikName": "УИК №2134",
     "tikTvd": "2162000559403",
-    "tikName": "Набережные Челны, Центральная"
+    "tikName": "Набережные Челны, Центральная",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2135,
     "uikTvd": "4164037118749",
+    "uikName": "УИК №2135",
     "tikTvd": "2162000559403",
-    "tikName": "Набережные Челны, Центральная"
+    "tikName": "Набережные Челны, Центральная",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2136,
     "uikTvd": "416406491437",
+    "uikName": "УИК №2136",
     "tikTvd": "2162000559364",
-    "tikName": "Набережные Челны, Автозаводская"
+    "tikName": "Набережные Челны, Автозаводская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2137,
     "uikTvd": "416406491438",
+    "uikName": "УИК №2137",
     "tikTvd": "2162000559364",
-    "tikName": "Набережные Челны, Автозаводская"
+    "tikName": "Набережные Челны, Автозаводская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2138,
     "uikTvd": "416406491439",
+    "uikName": "УИК №2138",
     "tikTvd": "2162000559364",
-    "tikName": "Набережные Челны, Автозаводская"
+    "tikName": "Набережные Челны, Автозаводская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2139,
     "uikTvd": "416406491440",
+    "uikName": "УИК №2139",
     "tikTvd": "2162000559364",
-    "tikName": "Набережные Челны, Автозаводская"
+    "tikName": "Набережные Челны, Автозаводская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2140,
     "uikTvd": "416406491441",
+    "uikName": "УИК №2140",
     "tikTvd": "2162000559364",
-    "tikName": "Набережные Челны, Автозаводская"
+    "tikName": "Набережные Челны, Автозаводская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2141,
     "uikTvd": "416406491442",
+    "uikName": "УИК №2141",
     "tikTvd": "2162000559364",
-    "tikName": "Набережные Челны, Автозаводская"
+    "tikName": "Набережные Челны, Автозаводская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2142,
     "uikTvd": "416406491443",
+    "uikName": "УИК №2142",
     "tikTvd": "2162000559364",
-    "tikName": "Набережные Челны, Автозаводская"
+    "tikName": "Набережные Челны, Автозаводская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2143,
     "uikTvd": "416406491444",
+    "uikName": "УИК №2143",
     "tikTvd": "2162000559364",
-    "tikName": "Набережные Челны, Автозаводская"
+    "tikName": "Набережные Челны, Автозаводская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2144,
     "uikTvd": "416406491445",
+    "uikName": "УИК №2144",
     "tikTvd": "2162000559364",
-    "tikName": "Набережные Челны, Автозаводская"
+    "tikName": "Набережные Челны, Автозаводская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2145,
     "uikTvd": "416406491446",
+    "uikName": "УИК №2145",
     "tikTvd": "2162000559364",
-    "tikName": "Набережные Челны, Автозаводская"
+    "tikName": "Набережные Челны, Автозаводская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2146,
     "uikTvd": "416406491447",
+    "uikName": "УИК №2146",
     "tikTvd": "2162000559364",
-    "tikName": "Набережные Челны, Автозаводская"
+    "tikName": "Набережные Челны, Автозаводская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2147,
     "uikTvd": "416406491448",
+    "uikName": "УИК №2147",
     "tikTvd": "2162000559364",
-    "tikName": "Набережные Челны, Автозаводская"
+    "tikName": "Набережные Челны, Автозаводская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2148,
     "uikTvd": "416406491449",
+    "uikName": "УИК №2148",
     "tikTvd": "2162000559364",
-    "tikName": "Набережные Челны, Автозаводская"
+    "tikName": "Набережные Челны, Автозаводская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2149,
     "uikTvd": "416406491450",
+    "uikName": "УИК №2149",
     "tikTvd": "2162000559364",
-    "tikName": "Набережные Челны, Автозаводская"
+    "tikName": "Набережные Челны, Автозаводская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2150,
     "uikTvd": "416406491451",
+    "uikName": "УИК №2150",
     "tikTvd": "2162000559364",
-    "tikName": "Набережные Челны, Автозаводская"
+    "tikName": "Набережные Челны, Автозаводская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2151,
     "uikTvd": "416406491452",
+    "uikName": "УИК №2151",
     "tikTvd": "2162000559364",
-    "tikName": "Набережные Челны, Автозаводская"
+    "tikName": "Набережные Челны, Автозаводская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2152,
     "uikTvd": "416406491453",
+    "uikName": "УИК №2152",
     "tikTvd": "2162000559364",
-    "tikName": "Набережные Челны, Автозаводская"
+    "tikName": "Набережные Челны, Автозаводская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2153,
     "uikTvd": "416406491454",
+    "uikName": "УИК №2153",
     "tikTvd": "2162000559364",
-    "tikName": "Набережные Челны, Автозаводская"
+    "tikName": "Набережные Челны, Автозаводская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2154,
     "uikTvd": "416406491455",
+    "uikName": "УИК №2154",
     "tikTvd": "2162000559364",
-    "tikName": "Набережные Челны, Автозаводская"
+    "tikName": "Набережные Челны, Автозаводская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2155,
     "uikTvd": "416406491456",
+    "uikName": "УИК №2155",
     "tikTvd": "2162000559364",
-    "tikName": "Набережные Челны, Автозаводская"
+    "tikName": "Набережные Челны, Автозаводская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2156,
     "uikTvd": "416406491457",
+    "uikName": "УИК №2156",
     "tikTvd": "2162000559364",
-    "tikName": "Набережные Челны, Автозаводская"
+    "tikName": "Набережные Челны, Автозаводская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2157,
     "uikTvd": "416406491458",
+    "uikName": "УИК №2157",
     "tikTvd": "2162000559364",
-    "tikName": "Набережные Челны, Автозаводская"
+    "tikName": "Набережные Челны, Автозаводская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2158,
     "uikTvd": "416406491459",
+    "uikName": "УИК №2158",
     "tikTvd": "2162000559364",
-    "tikName": "Набережные Челны, Автозаводская"
+    "tikName": "Набережные Челны, Автозаводская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2159,
     "uikTvd": "416406491460",
+    "uikName": "УИК №2159",
     "tikTvd": "2162000559364",
-    "tikName": "Набережные Челны, Автозаводская"
+    "tikName": "Набережные Челны, Автозаводская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2160,
     "uikTvd": "416406491461",
+    "uikName": "УИК №2160",
     "tikTvd": "2162000559364",
-    "tikName": "Набережные Челны, Автозаводская"
+    "tikName": "Набережные Челны, Автозаводская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2161,
     "uikTvd": "416406491462",
+    "uikName": "УИК №2161",
     "tikTvd": "2162000559364",
-    "tikName": "Набережные Челны, Автозаводская"
+    "tikName": "Набережные Челны, Автозаводская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2162,
     "uikTvd": "416406491463",
+    "uikName": "УИК №2162",
     "tikTvd": "2162000559364",
-    "tikName": "Набережные Челны, Автозаводская"
+    "tikName": "Набережные Челны, Автозаводская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2163,
     "uikTvd": "416406491464",
+    "uikName": "УИК №2163",
     "tikTvd": "2162000559364",
-    "tikName": "Набережные Челны, Автозаводская"
+    "tikName": "Набережные Челны, Автозаводская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2164,
     "uikTvd": "416406491465",
+    "uikName": "УИК №2164",
     "tikTvd": "2162000559364",
-    "tikName": "Набережные Челны, Автозаводская"
+    "tikName": "Набережные Челны, Автозаводская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2165,
     "uikTvd": "416406491466",
+    "uikName": "УИК №2165",
     "tikTvd": "2162000559364",
-    "tikName": "Набережные Челны, Автозаводская"
+    "tikName": "Набережные Челны, Автозаводская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2166,
     "uikTvd": "416406491467",
+    "uikName": "УИК №2166",
     "tikTvd": "2162000559364",
-    "tikName": "Набережные Челны, Автозаводская"
+    "tikName": "Набережные Челны, Автозаводская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2167,
     "uikTvd": "416406491468",
+    "uikName": "УИК №2167",
     "tikTvd": "2162000559364",
-    "tikName": "Набережные Челны, Автозаводская"
+    "tikName": "Набережные Челны, Автозаводская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2168,
     "uikTvd": "416406491469",
+    "uikName": "УИК №2168",
     "tikTvd": "2162000559364",
-    "tikName": "Набережные Челны, Автозаводская"
+    "tikName": "Набережные Челны, Автозаводская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2169,
     "uikTvd": "416406491470",
+    "uikName": "УИК №2169",
     "tikTvd": "2162000559364",
-    "tikName": "Набережные Челны, Автозаводская"
+    "tikName": "Набережные Челны, Автозаводская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2170,
     "uikTvd": "416406491471",
+    "uikName": "УИК №2170",
     "tikTvd": "2162000559364",
-    "tikName": "Набережные Челны, Автозаводская"
+    "tikName": "Набережные Челны, Автозаводская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2171,
     "uikTvd": "416406491472",
+    "uikName": "УИК №2171",
     "tikTvd": "2162000559364",
-    "tikName": "Набережные Челны, Автозаводская"
+    "tikName": "Набережные Челны, Автозаводская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2172,
     "uikTvd": "416406491473",
+    "uikName": "УИК №2172",
     "tikTvd": "2162000559364",
-    "tikName": "Набережные Челны, Автозаводская"
+    "tikName": "Набережные Челны, Автозаводская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2173,
     "uikTvd": "416406491474",
+    "uikName": "УИК №2173",
     "tikTvd": "2162000559364",
-    "tikName": "Набережные Челны, Автозаводская"
+    "tikName": "Набережные Челны, Автозаводская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2174,
     "uikTvd": "416406491475",
+    "uikName": "УИК №2174",
     "tikTvd": "2162000559364",
-    "tikName": "Набережные Челны, Автозаводская"
+    "tikName": "Набережные Челны, Автозаводская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2175,
     "uikTvd": "416406491476",
+    "uikName": "УИК №2175",
     "tikTvd": "2162000559364",
-    "tikName": "Набережные Челны, Автозаводская"
+    "tikName": "Набережные Челны, Автозаводская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2176,
     "uikTvd": "416406491477",
+    "uikName": "УИК №2176",
     "tikTvd": "2162000559364",
-    "tikName": "Набережные Челны, Автозаводская"
+    "tikName": "Набережные Челны, Автозаводская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2177,
     "uikTvd": "416406491478",
+    "uikName": "УИК №2177",
     "tikTvd": "2162000559364",
-    "tikName": "Набережные Челны, Автозаводская"
+    "tikName": "Набережные Челны, Автозаводская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2178,
     "uikTvd": "416406491479",
+    "uikName": "УИК №2178",
     "tikTvd": "2162000559364",
-    "tikName": "Набережные Челны, Автозаводская"
+    "tikName": "Набережные Челны, Автозаводская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2179,
     "uikTvd": "416406491480",
+    "uikName": "УИК №2179",
     "tikTvd": "2162000559364",
-    "tikName": "Набережные Челны, Автозаводская"
+    "tikName": "Набережные Челны, Автозаводская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2180,
     "uikTvd": "416406491481",
+    "uikName": "УИК №2180",
     "tikTvd": "2162000559364",
-    "tikName": "Набережные Челны, Автозаводская"
+    "tikName": "Набережные Челны, Автозаводская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2181,
     "uikTvd": "416406491482",
+    "uikName": "УИК №2181",
     "tikTvd": "2162000559364",
-    "tikName": "Набережные Челны, Автозаводская"
+    "tikName": "Набережные Челны, Автозаводская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2182,
     "uikTvd": "416406491483",
+    "uikName": "УИК №2182",
     "tikTvd": "2162000559364",
-    "tikName": "Набережные Челны, Автозаводская"
+    "tikName": "Набережные Челны, Автозаводская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2183,
     "uikTvd": "416406491484",
+    "uikName": "УИК №2183",
     "tikTvd": "2162000559364",
-    "tikName": "Набережные Челны, Автозаводская"
+    "tikName": "Набережные Челны, Автозаводская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2184,
     "uikTvd": "416406491485",
+    "uikName": "УИК №2184",
     "tikTvd": "2162000559364",
-    "tikName": "Набережные Челны, Автозаводская"
+    "tikName": "Набережные Челны, Автозаводская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2185,
     "uikTvd": "416406491486",
+    "uikName": "УИК №2185",
     "tikTvd": "2162000559364",
-    "tikName": "Набережные Челны, Автозаводская"
+    "tikName": "Набережные Челны, Автозаводская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2186,
     "uikTvd": "416406491487",
+    "uikName": "УИК №2186",
     "tikTvd": "2162000559364",
-    "tikName": "Набережные Челны, Автозаводская"
+    "tikName": "Набережные Челны, Автозаводская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2187,
     "uikTvd": "416406491488",
+    "uikName": "УИК №2187",
     "tikTvd": "2162000559364",
-    "tikName": "Набережные Челны, Автозаводская"
+    "tikName": "Набережные Челны, Автозаводская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2188,
     "uikTvd": "416406491489",
+    "uikName": "УИК №2188",
     "tikTvd": "2162000559364",
-    "tikName": "Набережные Челны, Автозаводская"
+    "tikName": "Набережные Челны, Автозаводская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2189,
     "uikTvd": "416406491490",
+    "uikName": "УИК №2189",
     "tikTvd": "2162000559364",
-    "tikName": "Набережные Челны, Автозаводская"
+    "tikName": "Набережные Челны, Автозаводская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2190,
     "uikTvd": "416406491491",
+    "uikName": "УИК №2190",
     "tikTvd": "2162000559364",
-    "tikName": "Набережные Челны, Автозаводская"
+    "tikName": "Набережные Челны, Автозаводская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2191,
     "uikTvd": "4164038118348",
+    "uikName": "УИК №2191",
     "tikTvd": "2162000559363",
-    "tikName": "Нижнекамская городская"
+    "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2192,
     "uikTvd": "4164038118351",
+    "uikName": "УИК №2192",
     "tikTvd": "2162000559363",
-    "tikName": "Нижнекамская городская"
+    "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2193,
     "uikTvd": "4164038118352",
+    "uikName": "УИК №2193",
     "tikTvd": "2162000559363",
-    "tikName": "Нижнекамская городская"
+    "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2194,
     "uikTvd": "4164038118353",
+    "uikName": "УИК №2194",
     "tikTvd": "2162000559363",
-    "tikName": "Нижнекамская городская"
+    "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2195,
     "uikTvd": "4164038118354",
+    "uikName": "УИК №2195",
     "tikTvd": "2162000559363",
-    "tikName": "Нижнекамская городская"
+    "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2196,
     "uikTvd": "4164038118355",
+    "uikName": "УИК №2196",
     "tikTvd": "2162000559363",
-    "tikName": "Нижнекамская городская"
+    "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2197,
     "uikTvd": "4164038118356",
+    "uikName": "УИК №2197",
     "tikTvd": "2162000559363",
-    "tikName": "Нижнекамская городская"
+    "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2198,
     "uikTvd": "4164038118357",
+    "uikName": "УИК №2198",
     "tikTvd": "2162000559363",
-    "tikName": "Нижнекамская городская"
+    "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2199,
     "uikTvd": "4164038118358",
+    "uikName": "УИК №2199",
     "tikTvd": "2162000559363",
-    "tikName": "Нижнекамская городская"
+    "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2200,
     "uikTvd": "4164038118359",
+    "uikName": "УИК №2200",
     "tikTvd": "2162000559363",
-    "tikName": "Нижнекамская городская"
+    "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2201,
     "uikTvd": "4164038118360",
+    "uikName": "УИК №2201",
     "tikTvd": "2162000559363",
-    "tikName": "Нижнекамская городская"
+    "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2202,
     "uikTvd": "4164038118361",
+    "uikName": "УИК №2202",
     "tikTvd": "2162000559363",
-    "tikName": "Нижнекамская городская"
+    "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2203,
     "uikTvd": "4164038118362",
+    "uikName": "УИК №2203",
     "tikTvd": "2162000559363",
-    "tikName": "Нижнекамская городская"
+    "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2204,
     "uikTvd": "4164038118363",
+    "uikName": "УИК №2204",
     "tikTvd": "2162000559363",
-    "tikName": "Нижнекамская городская"
+    "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2205,
     "uikTvd": "4164038118364",
+    "uikName": "УИК №2205",
     "tikTvd": "2162000559363",
-    "tikName": "Нижнекамская городская"
+    "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2206,
     "uikTvd": "4164038118365",
+    "uikName": "УИК №2206",
     "tikTvd": "2162000559363",
-    "tikName": "Нижнекамская городская"
+    "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2207,
     "uikTvd": "4164038118366",
+    "uikName": "УИК №2207",
     "tikTvd": "2162000559363",
-    "tikName": "Нижнекамская городская"
+    "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2208,
     "uikTvd": "4164038118367",
+    "uikName": "УИК №2208",
     "tikTvd": "2162000559363",
-    "tikName": "Нижнекамская городская"
+    "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2209,
     "uikTvd": "4164038118368",
+    "uikName": "УИК №2209",
     "tikTvd": "2162000559363",
-    "tikName": "Нижнекамская городская"
+    "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2210,
     "uikTvd": "4164038118369",
+    "uikName": "УИК №2210",
     "tikTvd": "2162000559363",
-    "tikName": "Нижнекамская городская"
+    "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2211,
     "uikTvd": "4164038118370",
+    "uikName": "УИК №2211",
     "tikTvd": "2162000559363",
-    "tikName": "Нижнекамская городская"
+    "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2212,
     "uikTvd": "4164038118371",
+    "uikName": "УИК №2212",
     "tikTvd": "2162000559363",
-    "tikName": "Нижнекамская городская"
+    "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2213,
     "uikTvd": "4164038118372",
+    "uikName": "УИК №2213",
     "tikTvd": "2162000559363",
-    "tikName": "Нижнекамская городская"
+    "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2214,
     "uikTvd": "4164038118373",
+    "uikName": "УИК №2214",
     "tikTvd": "2162000559363",
-    "tikName": "Нижнекамская городская"
+    "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2215,
     "uikTvd": "4164038118374",
+    "uikName": "УИК №2215",
     "tikTvd": "2162000559363",
-    "tikName": "Нижнекамская городская"
+    "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2216,
     "uikTvd": "4164038118375",
+    "uikName": "УИК №2216",
     "tikTvd": "2162000559363",
-    "tikName": "Нижнекамская городская"
+    "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2217,
     "uikTvd": "4164038118376",
+    "uikName": "УИК №2217",
     "tikTvd": "2162000559363",
-    "tikName": "Нижнекамская городская"
+    "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2218,
     "uikTvd": "4164038118377",
+    "uikName": "УИК №2218",
     "tikTvd": "2162000559363",
-    "tikName": "Нижнекамская городская"
+    "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2219,
     "uikTvd": "4164038118378",
+    "uikName": "УИК №2219",
     "tikTvd": "2162000559363",
-    "tikName": "Нижнекамская городская"
+    "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2220,
     "uikTvd": "4164038118379",
+    "uikName": "УИК №2220",
     "tikTvd": "2162000559363",
-    "tikName": "Нижнекамская городская"
+    "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2221,
     "uikTvd": "4164038118380",
+    "uikName": "УИК №2221",
     "tikTvd": "2162000559363",
-    "tikName": "Нижнекамская городская"
+    "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2222,
     "uikTvd": "4164038118381",
+    "uikName": "УИК №2222",
     "tikTvd": "2162000559363",
-    "tikName": "Нижнекамская городская"
+    "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2223,
     "uikTvd": "4164038118382",
+    "uikName": "УИК №2223",
     "tikTvd": "2162000559363",
-    "tikName": "Нижнекамская городская"
+    "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2224,
     "uikTvd": "4164038118383",
+    "uikName": "УИК №2224",
     "tikTvd": "2162000559363",
-    "tikName": "Нижнекамская городская"
+    "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2225,
     "uikTvd": "4164038118384",
+    "uikName": "УИК №2225",
     "tikTvd": "2162000559363",
-    "tikName": "Нижнекамская городская"
+    "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2226,
     "uikTvd": "4164038118385",
+    "uikName": "УИК №2226",
     "tikTvd": "2162000559363",
-    "tikName": "Нижнекамская городская"
+    "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2227,
     "uikTvd": "4164038118386",
+    "uikName": "УИК №2227",
     "tikTvd": "2162000559363",
-    "tikName": "Нижнекамская городская"
+    "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2228,
     "uikTvd": "4164038118387",
+    "uikName": "УИК №2228",
     "tikTvd": "2162000559363",
-    "tikName": "Нижнекамская городская"
+    "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2229,
     "uikTvd": "4164038118388",
+    "uikName": "УИК №2229",
     "tikTvd": "2162000559363",
-    "tikName": "Нижнекамская городская"
+    "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2230,
     "uikTvd": "4164038118389",
+    "uikName": "УИК №2230",
     "tikTvd": "2162000559363",
-    "tikName": "Нижнекамская городская"
+    "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2231,
     "uikTvd": "4164038118390",
+    "uikName": "УИК №2231",
     "tikTvd": "2162000559363",
-    "tikName": "Нижнекамская городская"
+    "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2232,
     "uikTvd": "4164038118391",
+    "uikName": "УИК №2232",
     "tikTvd": "2162000559363",
-    "tikName": "Нижнекамская городская"
+    "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2233,
     "uikTvd": "4164038118392",
+    "uikName": "УИК №2233",
     "tikTvd": "2162000559363",
-    "tikName": "Нижнекамская городская"
+    "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2234,
     "uikTvd": "4164038118393",
+    "uikName": "УИК №2234",
     "tikTvd": "2162000559363",
-    "tikName": "Нижнекамская городская"
+    "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2235,
     "uikTvd": "4164038118394",
+    "uikName": "УИК №2235",
     "tikTvd": "2162000559363",
-    "tikName": "Нижнекамская городская"
+    "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2236,
     "uikTvd": "4164038118395",
+    "uikName": "УИК №2236",
     "tikTvd": "2162000559363",
-    "tikName": "Нижнекамская городская"
+    "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2237,
     "uikTvd": "4164038118396",
+    "uikName": "УИК №2237",
     "tikTvd": "2162000559363",
-    "tikName": "Нижнекамская городская"
+    "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2238,
     "uikTvd": "4164038118397",
+    "uikName": "УИК №2238",
     "tikTvd": "2162000559363",
-    "tikName": "Нижнекамская городская"
+    "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2239,
     "uikTvd": "4164038118398",
+    "uikName": "УИК №2239",
     "tikTvd": "2162000559363",
-    "tikName": "Нижнекамская городская"
+    "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2240,
     "uikTvd": "4164038118399",
+    "uikName": "УИК №2240",
     "tikTvd": "2162000559363",
-    "tikName": "Нижнекамская городская"
+    "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2241,
     "uikTvd": "4164038118400",
+    "uikName": "УИК №2241",
     "tikTvd": "2162000559363",
-    "tikName": "Нижнекамская городская"
+    "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2242,
     "uikTvd": "4164038118401",
+    "uikName": "УИК №2242",
     "tikTvd": "2162000559363",
-    "tikName": "Нижнекамская городская"
+    "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2243,
     "uikTvd": "4164038118402",
+    "uikName": "УИК №2243",
     "tikTvd": "2162000559363",
-    "tikName": "Нижнекамская городская"
+    "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2244,
     "uikTvd": "4164038118403",
+    "uikName": "УИК №2244",
     "tikTvd": "2162000559363",
-    "tikName": "Нижнекамская городская"
+    "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2245,
     "uikTvd": "4164038118404",
+    "uikName": "УИК №2245",
     "tikTvd": "2162000559363",
-    "tikName": "Нижнекамская городская"
+    "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2246,
     "uikTvd": "4164038118405",
+    "uikName": "УИК №2246",
     "tikTvd": "2162000559363",
-    "tikName": "Нижнекамская городская"
+    "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2247,
     "uikTvd": "4164038118406",
+    "uikName": "УИК №2247",
     "tikTvd": "2162000559363",
-    "tikName": "Нижнекамская городская"
+    "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2248,
     "uikTvd": "4164038118407",
+    "uikName": "УИК №2248",
     "tikTvd": "2162000559363",
-    "tikName": "Нижнекамская городская"
+    "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2249,
     "uikTvd": "4164038118408",
+    "uikName": "УИК №2249",
     "tikTvd": "2162000559363",
-    "tikName": "Нижнекамская городская"
+    "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2250,
     "uikTvd": "4164038118409",
+    "uikName": "УИК №2250",
     "tikTvd": "2162000559363",
-    "tikName": "Нижнекамская городская"
+    "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2251,
     "uikTvd": "4164038118410",
+    "uikName": "УИК №2251",
     "tikTvd": "2162000559363",
-    "tikName": "Нижнекамская городская"
+    "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2252,
     "uikTvd": "4164038118411",
+    "uikName": "УИК №2252",
     "tikTvd": "2162000559363",
-    "tikName": "Нижнекамская городская"
+    "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2253,
     "uikTvd": "4164038118412",
+    "uikName": "УИК №2253",
     "tikTvd": "2162000559363",
-    "tikName": "Нижнекамская городская"
+    "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2254,
     "uikTvd": "4164038118413",
+    "uikName": "УИК №2254",
     "tikTvd": "2162000559363",
-    "tikName": "Нижнекамская городская"
+    "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2255,
     "uikTvd": "4164038118414",
+    "uikName": "УИК №2255",
     "tikTvd": "2162000559363",
-    "tikName": "Нижнекамская городская"
+    "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2256,
     "uikTvd": "4164038118415",
+    "uikName": "УИК №2256",
     "tikTvd": "2162000559363",
-    "tikName": "Нижнекамская городская"
+    "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2257,
     "uikTvd": "4164038118416",
+    "uikName": "УИК №2257",
     "tikTvd": "2162000559363",
-    "tikName": "Нижнекамская городская"
+    "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2258,
     "uikTvd": "4164038118417",
+    "uikName": "УИК №2258",
     "tikTvd": "2162000559363",
-    "tikName": "Нижнекамская городская"
+    "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2259,
     "uikTvd": "4164038118418",
+    "uikName": "УИК №2259",
     "tikTvd": "2162000559363",
-    "tikName": "Нижнекамская городская"
+    "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2260,
     "uikTvd": "4164038118419",
+    "uikName": "УИК №2260",
     "tikTvd": "2162000559363",
-    "tikName": "Нижнекамская городская"
+    "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2261,
     "uikTvd": "4164038118420",
+    "uikName": "УИК №2261",
     "tikTvd": "2162000559363",
-    "tikName": "Нижнекамская городская"
+    "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2262,
     "uikTvd": "4164038118421",
+    "uikName": "УИК №2262",
     "tikTvd": "2162000559363",
-    "tikName": "Нижнекамская городская"
+    "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2263,
     "uikTvd": "4164038118422",
+    "uikName": "УИК №2263",
     "tikTvd": "2162000559363",
-    "tikName": "Нижнекамская городская"
+    "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2264,
     "uikTvd": "4164038118423",
+    "uikName": "УИК №2264",
     "tikTvd": "2162000559363",
-    "tikName": "Нижнекамская городская"
+    "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2265,
     "uikTvd": "4164038118424",
+    "uikName": "УИК №2265",
     "tikTvd": "2162000559363",
-    "tikName": "Нижнекамская городская"
+    "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2266,
     "uikTvd": "4164038118425",
+    "uikName": "УИК №2266",
     "tikTvd": "2162000559363",
-    "tikName": "Нижнекамская городская"
+    "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2267,
     "uikTvd": "4164038118426",
+    "uikName": "УИК №2267",
     "tikTvd": "2162000559363",
-    "tikName": "Нижнекамская городская"
+    "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2268,
     "uikTvd": "4164038118427",
+    "uikName": "УИК №2268",
     "tikTvd": "2162000559363",
-    "tikName": "Нижнекамская городская"
+    "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2269,
     "uikTvd": "4164038118428",
+    "uikName": "УИК №2269",
     "tikTvd": "2162000559363",
-    "tikName": "Нижнекамская городская"
+    "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2270,
     "uikTvd": "4164038118429",
+    "uikName": "УИК №2270",
     "tikTvd": "2162000559363",
-    "tikName": "Нижнекамская городская"
+    "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2271,
     "uikTvd": "4164059136178",
+    "uikName": "УИК №2271",
     "tikTvd": "2162000559342",
-    "tikName": "Нижнекамская"
+    "tikName": "Нижнекамская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2272,
     "uikTvd": "4164059136179",
+    "uikName": "УИК №2272",
     "tikTvd": "2162000559342",
-    "tikName": "Нижнекамская"
+    "tikName": "Нижнекамская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2273,
     "uikTvd": "4164059136180",
+    "uikName": "УИК №2273",
     "tikTvd": "2162000559342",
-    "tikName": "Нижнекамская"
+    "tikName": "Нижнекамская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2274,
     "uikTvd": "4164059136181",
+    "uikName": "УИК №2274",
     "tikTvd": "2162000559342",
-    "tikName": "Нижнекамская"
+    "tikName": "Нижнекамская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2275,
     "uikTvd": "4164059136182",
+    "uikName": "УИК №2275",
     "tikTvd": "2162000559342",
-    "tikName": "Нижнекамская"
+    "tikName": "Нижнекамская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2276,
     "uikTvd": "4164059136183",
+    "uikName": "УИК №2276",
     "tikTvd": "2162000559342",
-    "tikName": "Нижнекамская"
+    "tikName": "Нижнекамская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2277,
     "uikTvd": "4164059136184",
+    "uikName": "УИК №2277",
     "tikTvd": "2162000559342",
-    "tikName": "Нижнекамская"
+    "tikName": "Нижнекамская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2278,
     "uikTvd": "4164059136185",
+    "uikName": "УИК №2278",
     "tikTvd": "2162000559342",
-    "tikName": "Нижнекамская"
+    "tikName": "Нижнекамская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2279,
     "uikTvd": "4164059136186",
+    "uikName": "УИК №2279",
     "tikTvd": "2162000559342",
-    "tikName": "Нижнекамская"
+    "tikName": "Нижнекамская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2280,
     "uikTvd": "4164059136187",
+    "uikName": "УИК №2280",
     "tikTvd": "2162000559342",
-    "tikName": "Нижнекамская"
+    "tikName": "Нижнекамская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2281,
     "uikTvd": "4164059136188",
+    "uikName": "УИК №2281",
     "tikTvd": "2162000559342",
-    "tikName": "Нижнекамская"
+    "tikName": "Нижнекамская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2282,
     "uikTvd": "4164059136189",
+    "uikName": "УИК №2282",
     "tikTvd": "2162000559342",
-    "tikName": "Нижнекамская"
+    "tikName": "Нижнекамская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2283,
     "uikTvd": "4164059136190",
+    "uikName": "УИК №2283",
     "tikTvd": "2162000559342",
-    "tikName": "Нижнекамская"
+    "tikName": "Нижнекамская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2284,
     "uikTvd": "4164059136191",
+    "uikName": "УИК №2284",
     "tikTvd": "2162000559342",
-    "tikName": "Нижнекамская"
+    "tikName": "Нижнекамская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2285,
     "uikTvd": "4164059136192",
+    "uikName": "УИК №2285",
     "tikTvd": "2162000559342",
-    "tikName": "Нижнекамская"
+    "tikName": "Нижнекамская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2286,
     "uikTvd": "4164059136193",
+    "uikName": "УИК №2286",
     "tikTvd": "2162000559342",
-    "tikName": "Нижнекамская"
+    "tikName": "Нижнекамская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2287,
     "uikTvd": "4164059136194",
+    "uikName": "УИК №2287",
     "tikTvd": "2162000559342",
-    "tikName": "Нижнекамская"
+    "tikName": "Нижнекамская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2289,
     "uikTvd": "4164059136195",
+    "uikName": "УИК №2289",
     "tikTvd": "2162000559342",
-    "tikName": "Нижнекамская"
+    "tikName": "Нижнекамская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2290,
     "uikTvd": "4164059136196",
+    "uikName": "УИК №2290",
     "tikTvd": "2162000559342",
-    "tikName": "Нижнекамская"
+    "tikName": "Нижнекамская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2291,
     "uikTvd": "4164059136197",
+    "uikName": "УИК №2291",
     "tikTvd": "2162000559342",
-    "tikName": "Нижнекамская"
+    "tikName": "Нижнекамская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2292,
     "uikTvd": "4164059136198",
+    "uikName": "УИК №2292",
     "tikTvd": "2162000559342",
-    "tikName": "Нижнекамская"
+    "tikName": "Нижнекамская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2293,
     "uikTvd": "4164059136199",
+    "uikName": "УИК №2293",
     "tikTvd": "2162000559342",
-    "tikName": "Нижнекамская"
+    "tikName": "Нижнекамская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2294,
     "uikTvd": "4164059136200",
+    "uikName": "УИК №2294",
     "tikTvd": "2162000559342",
-    "tikName": "Нижнекамская"
+    "tikName": "Нижнекамская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2295,
     "uikTvd": "4164059136201",
+    "uikName": "УИК №2295",
     "tikTvd": "2162000559342",
-    "tikName": "Нижнекамская"
+    "tikName": "Нижнекамская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2296,
     "uikTvd": "4164059136202",
+    "uikName": "УИК №2296",
     "tikTvd": "2162000559342",
-    "tikName": "Нижнекамская"
+    "tikName": "Нижнекамская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2297,
     "uikTvd": "4164059136203",
+    "uikName": "УИК №2297",
     "tikTvd": "2162000559342",
-    "tikName": "Нижнекамская"
+    "tikName": "Нижнекамская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2298,
     "uikTvd": "4164059136204",
+    "uikName": "УИК №2298",
     "tikTvd": "2162000559342",
-    "tikName": "Нижнекамская"
+    "tikName": "Нижнекамская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2299,
     "uikTvd": "4164059136205",
+    "uikName": "УИК №2299",
     "tikTvd": "2162000559342",
-    "tikName": "Нижнекамская"
+    "tikName": "Нижнекамская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2300,
     "uikTvd": "4164059136206",
+    "uikName": "УИК №2300",
     "tikTvd": "2162000559342",
-    "tikName": "Нижнекамская"
+    "tikName": "Нижнекамская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2301,
     "uikTvd": "4164059136207",
+    "uikName": "УИК №2301",
     "tikTvd": "2162000559342",
-    "tikName": "Нижнекамская"
+    "tikName": "Нижнекамская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2302,
     "uikTvd": "4164059136208",
+    "uikName": "УИК №2302",
     "tikTvd": "2162000559342",
-    "tikName": "Нижнекамская"
+    "tikName": "Нижнекамская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2303,
     "uikTvd": "4164059136209",
+    "uikName": "УИК №2303",
     "tikTvd": "2162000559342",
-    "tikName": "Нижнекамская"
+    "tikName": "Нижнекамская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2304,
     "uikTvd": "4164059136210",
+    "uikName": "УИК №2304",
     "tikTvd": "2162000559342",
-    "tikName": "Нижнекамская"
+    "tikName": "Нижнекамская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2305,
     "uikTvd": "4164039118427",
+    "uikName": "УИК №2305",
     "tikTvd": "2162000559360",
-    "tikName": "Новошешминская"
+    "tikName": "Новошешминская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2306,
     "uikTvd": "4164039118428",
+    "uikName": "УИК №2306",
     "tikTvd": "2162000559360",
-    "tikName": "Новошешминская"
+    "tikName": "Новошешминская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2307,
     "uikTvd": "4164039118429",
+    "uikName": "УИК №2307",
     "tikTvd": "2162000559360",
-    "tikName": "Новошешминская"
+    "tikName": "Новошешминская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2308,
     "uikTvd": "4164039118430",
+    "uikName": "УИК №2308",
     "tikTvd": "2162000559360",
-    "tikName": "Новошешминская"
+    "tikName": "Новошешминская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2309,
     "uikTvd": "4164039118431",
+    "uikName": "УИК №2309",
     "tikTvd": "2162000559360",
-    "tikName": "Новошешминская"
+    "tikName": "Новошешминская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2310,
     "uikTvd": "4164039118432",
+    "uikName": "УИК №2310",
     "tikTvd": "2162000559360",
-    "tikName": "Новошешминская"
+    "tikName": "Новошешминская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2311,
     "uikTvd": "4164039118433",
+    "uikName": "УИК №2311",
     "tikTvd": "2162000559360",
-    "tikName": "Новошешминская"
+    "tikName": "Новошешминская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2312,
     "uikTvd": "4164039118434",
+    "uikName": "УИК №2312",
     "tikTvd": "2162000559360",
-    "tikName": "Новошешминская"
+    "tikName": "Новошешминская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2313,
     "uikTvd": "4164039118435",
+    "uikName": "УИК №2313",
     "tikTvd": "2162000559360",
-    "tikName": "Новошешминская"
+    "tikName": "Новошешминская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2314,
     "uikTvd": "4164039118436",
+    "uikName": "УИК №2314",
     "tikTvd": "2162000559360",
-    "tikName": "Новошешминская"
+    "tikName": "Новошешминская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2315,
     "uikTvd": "4164039118437",
+    "uikName": "УИК №2315",
     "tikTvd": "2162000559360",
-    "tikName": "Новошешминская"
+    "tikName": "Новошешминская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2316,
     "uikTvd": "4164039118438",
+    "uikName": "УИК №2316",
     "tikTvd": "2162000559360",
-    "tikName": "Новошешминская"
+    "tikName": "Новошешминская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2317,
     "uikTvd": "4164039118439",
+    "uikName": "УИК №2317",
     "tikTvd": "2162000559360",
-    "tikName": "Новошешминская"
+    "tikName": "Новошешминская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2318,
     "uikTvd": "4164039118440",
+    "uikName": "УИК №2318",
     "tikTvd": "2162000559360",
-    "tikName": "Новошешминская"
+    "tikName": "Новошешминская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2319,
     "uikTvd": "4164039118441",
+    "uikName": "УИК №2319",
     "tikTvd": "2162000559360",
-    "tikName": "Новошешминская"
+    "tikName": "Новошешминская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2320,
     "uikTvd": "4164039118442",
+    "uikName": "УИК №2320",
     "tikTvd": "2162000559360",
-    "tikName": "Новошешминская"
+    "tikName": "Новошешминская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2321,
     "uikTvd": "4164039118443",
+    "uikName": "УИК №2321",
     "tikTvd": "2162000559360",
-    "tikName": "Новошешминская"
+    "tikName": "Новошешминская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2322,
     "uikTvd": "4164039118444",
+    "uikName": "УИК №2322",
     "tikTvd": "2162000559360",
-    "tikName": "Новошешминская"
+    "tikName": "Новошешминская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2323,
     "uikTvd": "4164039118445",
+    "uikName": "УИК №2323",
     "tikTvd": "2162000559360",
-    "tikName": "Новошешминская"
+    "tikName": "Новошешминская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2324,
     "uikTvd": "4164039118446",
+    "uikName": "УИК №2324",
     "tikTvd": "2162000559360",
-    "tikName": "Новошешминская"
+    "tikName": "Новошешминская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2325,
     "uikTvd": "4164039118447",
+    "uikName": "УИК №2325",
     "tikTvd": "2162000559360",
-    "tikName": "Новошешминская"
+    "tikName": "Новошешминская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2326,
     "uikTvd": "4164039118448",
+    "uikName": "УИК №2326",
     "tikTvd": "2162000559360",
-    "tikName": "Новошешминская"
+    "tikName": "Новошешминская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2327,
     "uikTvd": "4164039118449",
+    "uikName": "УИК №2327",
     "tikTvd": "2162000559360",
-    "tikName": "Новошешминская"
+    "tikName": "Новошешминская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2328,
     "uikTvd": "4164039118450",
+    "uikName": "УИК №2328",
     "tikTvd": "2162000559360",
-    "tikName": "Новошешминская"
+    "tikName": "Новошешминская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2329,
     "uikTvd": "4164039118451",
+    "uikName": "УИК №2329",
     "tikTvd": "2162000559360",
-    "tikName": "Новошешминская"
+    "tikName": "Новошешминская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2330,
     "uikTvd": "4164039118452",
+    "uikName": "УИК №2330",
     "tikTvd": "2162000559360",
-    "tikName": "Новошешминская"
+    "tikName": "Новошешминская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2331,
     "uikTvd": "4164039118453",
+    "uikName": "УИК №2331",
     "tikTvd": "2162000559360",
-    "tikName": "Новошешминская"
+    "tikName": "Новошешминская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2332,
     "uikTvd": "416404090423",
+    "uikName": "УИК №2332",
     "tikTvd": "2162000559361",
-    "tikName": "Нурлатская городская"
+    "tikName": "Нурлатская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2333,
     "uikTvd": "416404090424",
+    "uikName": "УИК №2333",
     "tikTvd": "2162000559361",
-    "tikName": "Нурлатская городская"
+    "tikName": "Нурлатская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2334,
     "uikTvd": "416404090425",
+    "uikName": "УИК №2334",
     "tikTvd": "2162000559361",
-    "tikName": "Нурлатская городская"
+    "tikName": "Нурлатская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2335,
     "uikTvd": "416404090426",
+    "uikName": "УИК №2335",
     "tikTvd": "2162000559361",
-    "tikName": "Нурлатская городская"
+    "tikName": "Нурлатская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2336,
     "uikTvd": "416404090427",
+    "uikName": "УИК №2336",
     "tikTvd": "2162000559361",
-    "tikName": "Нурлатская городская"
+    "tikName": "Нурлатская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2337,
     "uikTvd": "416404090428",
+    "uikName": "УИК №2337",
     "tikTvd": "2162000559361",
-    "tikName": "Нурлатская городская"
+    "tikName": "Нурлатская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2338,
     "uikTvd": "416404090429",
+    "uikName": "УИК №2338",
     "tikTvd": "2162000559361",
-    "tikName": "Нурлатская городская"
+    "tikName": "Нурлатская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2339,
     "uikTvd": "416404090430",
+    "uikName": "УИК №2339",
     "tikTvd": "2162000559361",
-    "tikName": "Нурлатская городская"
+    "tikName": "Нурлатская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2340,
     "uikTvd": "416404090431",
+    "uikName": "УИК №2340",
     "tikTvd": "2162000559361",
-    "tikName": "Нурлатская городская"
+    "tikName": "Нурлатская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2341,
     "uikTvd": "416404090432",
+    "uikName": "УИК №2341",
     "tikTvd": "2162000559361",
-    "tikName": "Нурлатская городская"
+    "tikName": "Нурлатская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2342,
     "uikTvd": "416404090433",
+    "uikName": "УИК №2342",
     "tikTvd": "2162000559361",
-    "tikName": "Нурлатская городская"
+    "tikName": "Нурлатская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2343,
     "uikTvd": "416404090434",
+    "uikName": "УИК №2343",
     "tikTvd": "2162000559361",
-    "tikName": "Нурлатская городская"
+    "tikName": "Нурлатская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2344,
     "uikTvd": "416404090435",
+    "uikName": "УИК №2344",
     "tikTvd": "2162000559361",
-    "tikName": "Нурлатская городская"
+    "tikName": "Нурлатская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2345,
     "uikTvd": "416404090436",
+    "uikName": "УИК №2345",
     "tikTvd": "2162000559361",
-    "tikName": "Нурлатская городская"
+    "tikName": "Нурлатская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2346,
     "uikTvd": "416404090437",
+    "uikName": "УИК №2346",
     "tikTvd": "2162000559361",
-    "tikName": "Нурлатская городская"
+    "tikName": "Нурлатская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2347,
     "uikTvd": "4164062166846",
+    "uikName": "УИК №2347",
     "tikTvd": "2162000559339",
-    "tikName": "Нурлатская"
+    "tikName": "Нурлатская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2348,
     "uikTvd": "4164062166847",
+    "uikName": "УИК №2348",
     "tikTvd": "2162000559339",
-    "tikName": "Нурлатская"
+    "tikName": "Нурлатская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2349,
     "uikTvd": "4164062166848",
+    "uikName": "УИК №2349",
     "tikTvd": "2162000559339",
-    "tikName": "Нурлатская"
+    "tikName": "Нурлатская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2350,
     "uikTvd": "4164062166849",
+    "uikName": "УИК №2350",
     "tikTvd": "2162000559339",
-    "tikName": "Нурлатская"
+    "tikName": "Нурлатская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2351,
     "uikTvd": "4164062166850",
+    "uikName": "УИК №2351",
     "tikTvd": "2162000559339",
-    "tikName": "Нурлатская"
+    "tikName": "Нурлатская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2352,
     "uikTvd": "4164062166851",
+    "uikName": "УИК №2352",
     "tikTvd": "2162000559339",
-    "tikName": "Нурлатская"
+    "tikName": "Нурлатская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2353,
     "uikTvd": "4164062166852",
+    "uikName": "УИК №2353",
     "tikTvd": "2162000559339",
-    "tikName": "Нурлатская"
+    "tikName": "Нурлатская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2354,
     "uikTvd": "4164062166853",
+    "uikName": "УИК №2354",
     "tikTvd": "2162000559339",
-    "tikName": "Нурлатская"
+    "tikName": "Нурлатская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2355,
     "uikTvd": "4164062166854",
+    "uikName": "УИК №2355",
     "tikTvd": "2162000559339",
-    "tikName": "Нурлатская"
+    "tikName": "Нурлатская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2356,
     "uikTvd": "4164062166855",
+    "uikName": "УИК №2356",
     "tikTvd": "2162000559339",
-    "tikName": "Нурлатская"
+    "tikName": "Нурлатская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2357,
     "uikTvd": "4164062166856",
+    "uikName": "УИК №2357",
     "tikTvd": "2162000559339",
-    "tikName": "Нурлатская"
+    "tikName": "Нурлатская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2358,
     "uikTvd": "4164062166857",
+    "uikName": "УИК №2358",
     "tikTvd": "2162000559339",
-    "tikName": "Нурлатская"
+    "tikName": "Нурлатская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2359,
     "uikTvd": "4164062166858",
+    "uikName": "УИК №2359",
     "tikTvd": "2162000559339",
-    "tikName": "Нурлатская"
+    "tikName": "Нурлатская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2360,
     "uikTvd": "4164062166859",
+    "uikName": "УИК №2360",
     "tikTvd": "2162000559339",
-    "tikName": "Нурлатская"
+    "tikName": "Нурлатская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2361,
     "uikTvd": "4164062166860",
+    "uikName": "УИК №2361",
     "tikTvd": "2162000559339",
-    "tikName": "Нурлатская"
+    "tikName": "Нурлатская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2362,
     "uikTvd": "4164062166861",
+    "uikName": "УИК №2362",
     "tikTvd": "2162000559339",
-    "tikName": "Нурлатская"
+    "tikName": "Нурлатская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2363,
     "uikTvd": "4164062166862",
+    "uikName": "УИК №2363",
     "tikTvd": "2162000559339",
-    "tikName": "Нурлатская"
+    "tikName": "Нурлатская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2364,
     "uikTvd": "4164062166863",
+    "uikName": "УИК №2364",
     "tikTvd": "2162000559339",
-    "tikName": "Нурлатская"
+    "tikName": "Нурлатская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2365,
     "uikTvd": "4164062166864",
+    "uikName": "УИК №2365",
     "tikTvd": "2162000559339",
-    "tikName": "Нурлатская"
+    "tikName": "Нурлатская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2366,
     "uikTvd": "4164062166865",
+    "uikName": "УИК №2366",
     "tikTvd": "2162000559339",
-    "tikName": "Нурлатская"
+    "tikName": "Нурлатская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2367,
     "uikTvd": "4164062166866",
+    "uikName": "УИК №2367",
     "tikTvd": "2162000559339",
-    "tikName": "Нурлатская"
+    "tikName": "Нурлатская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2368,
     "uikTvd": "4164062166867",
+    "uikName": "УИК №2368",
     "tikTvd": "2162000559339",
-    "tikName": "Нурлатская"
+    "tikName": "Нурлатская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2369,
     "uikTvd": "4164062166868",
+    "uikName": "УИК №2369",
     "tikTvd": "2162000559339",
-    "tikName": "Нурлатская"
+    "tikName": "Нурлатская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2370,
     "uikTvd": "4164062166869",
+    "uikName": "УИК №2370",
     "tikTvd": "2162000559339",
-    "tikName": "Нурлатская"
+    "tikName": "Нурлатская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2371,
     "uikTvd": "4164062166870",
+    "uikName": "УИК №2371",
     "tikTvd": "2162000559339",
-    "tikName": "Нурлатская"
+    "tikName": "Нурлатская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2372,
     "uikTvd": "4164062166871",
+    "uikName": "УИК №2372",
     "tikTvd": "2162000559339",
-    "tikName": "Нурлатская"
+    "tikName": "Нурлатская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2373,
     "uikTvd": "4164062166872",
+    "uikName": "УИК №2373",
     "tikTvd": "2162000559339",
-    "tikName": "Нурлатская"
+    "tikName": "Нурлатская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2374,
     "uikTvd": "4164062166873",
+    "uikName": "УИК №2374",
     "tikTvd": "2162000559339",
-    "tikName": "Нурлатская"
+    "tikName": "Нурлатская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2375,
     "uikTvd": "4164062166874",
+    "uikName": "УИК №2375",
     "tikTvd": "2162000559339",
-    "tikName": "Нурлатская"
+    "tikName": "Нурлатская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2376,
     "uikTvd": "4164062166875",
+    "uikName": "УИК №2376",
     "tikTvd": "2162000559339",
-    "tikName": "Нурлатская"
+    "tikName": "Нурлатская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2377,
     "uikTvd": "4164062166876",
+    "uikName": "УИК №2377",
     "tikTvd": "2162000559339",
-    "tikName": "Нурлатская"
+    "tikName": "Нурлатская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2378,
     "uikTvd": "4164062166877",
+    "uikName": "УИК №2378",
     "tikTvd": "2162000559339",
-    "tikName": "Нурлатская"
+    "tikName": "Нурлатская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2379,
     "uikTvd": "4164062166878",
+    "uikName": "УИК №2379",
     "tikTvd": "2162000559339",
-    "tikName": "Нурлатская"
+    "tikName": "Нурлатская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2380,
     "uikTvd": "4164062166879",
+    "uikName": "УИК №2380",
     "tikTvd": "2162000559339",
-    "tikName": "Нурлатская"
+    "tikName": "Нурлатская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2381,
     "uikTvd": "4164062166880",
+    "uikName": "УИК №2381",
     "tikTvd": "2162000559339",
-    "tikName": "Нурлатская"
+    "tikName": "Нурлатская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2382,
     "uikTvd": "4164062166881",
+    "uikName": "УИК №2382",
     "tikTvd": "2162000559339",
-    "tikName": "Нурлатская"
+    "tikName": "Нурлатская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2383,
     "uikTvd": "4164062166882",
+    "uikName": "УИК №2383",
     "tikTvd": "2162000559339",
-    "tikName": "Нурлатская"
+    "tikName": "Нурлатская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2384,
     "uikTvd": "4164062166883",
+    "uikName": "УИК №2384",
     "tikTvd": "2162000559339",
-    "tikName": "Нурлатская"
+    "tikName": "Нурлатская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2385,
     "uikTvd": "4164062166884",
+    "uikName": "УИК №2385",
     "tikTvd": "2162000559339",
-    "tikName": "Нурлатская"
+    "tikName": "Нурлатская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2386,
     "uikTvd": "4164062166885",
+    "uikName": "УИК №2386",
     "tikTvd": "2162000559339",
-    "tikName": "Нурлатская"
+    "tikName": "Нурлатская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2387,
     "uikTvd": "4164062166886",
+    "uikName": "УИК №2387",
     "tikTvd": "2162000559339",
-    "tikName": "Нурлатская"
+    "tikName": "Нурлатская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2388,
     "uikTvd": "4164062166887",
+    "uikName": "УИК №2388",
     "tikTvd": "2162000559339",
-    "tikName": "Нурлатская"
+    "tikName": "Нурлатская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2389,
     "uikTvd": "4164062166888",
+    "uikName": "УИК №2389",
     "tikTvd": "2162000559339",
-    "tikName": "Нурлатская"
+    "tikName": "Нурлатская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2390,
     "uikTvd": "4164062166889",
+    "uikName": "УИК №2390",
     "tikTvd": "2162000559339",
-    "tikName": "Нурлатская"
+    "tikName": "Нурлатская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2391,
     "uikTvd": "4164041146889",
+    "uikName": "УИК №2391",
     "tikTvd": "2162000559362",
-    "tikName": "Пестречинская"
+    "tikName": "Пестречинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2392,
     "uikTvd": "4164041146890",
+    "uikName": "УИК №2392",
     "tikTvd": "2162000559362",
-    "tikName": "Пестречинская"
+    "tikName": "Пестречинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2393,
     "uikTvd": "4164041146891",
+    "uikName": "УИК №2393",
     "tikTvd": "2162000559362",
-    "tikName": "Пестречинская"
+    "tikName": "Пестречинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2394,
     "uikTvd": "4164041146892",
+    "uikName": "УИК №2394",
     "tikTvd": "2162000559362",
-    "tikName": "Пестречинская"
+    "tikName": "Пестречинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2395,
     "uikTvd": "4164041146893",
+    "uikName": "УИК №2395",
     "tikTvd": "2162000559362",
-    "tikName": "Пестречинская"
+    "tikName": "Пестречинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2396,
     "uikTvd": "4164041146894",
+    "uikName": "УИК №2396",
     "tikTvd": "2162000559362",
-    "tikName": "Пестречинская"
+    "tikName": "Пестречинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2397,
     "uikTvd": "4164041146895",
+    "uikName": "УИК №2397",
     "tikTvd": "2162000559362",
-    "tikName": "Пестречинская"
+    "tikName": "Пестречинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2398,
     "uikTvd": "4164041146896",
+    "uikName": "УИК №2398",
     "tikTvd": "2162000559362",
-    "tikName": "Пестречинская"
+    "tikName": "Пестречинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2399,
     "uikTvd": "4164041146897",
+    "uikName": "УИК №2399",
     "tikTvd": "2162000559362",
-    "tikName": "Пестречинская"
+    "tikName": "Пестречинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2400,
     "uikTvd": "4164041146898",
+    "uikName": "УИК №2400",
     "tikTvd": "2162000559362",
-    "tikName": "Пестречинская"
+    "tikName": "Пестречинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2401,
     "uikTvd": "4164041146899",
+    "uikName": "УИК №2401",
     "tikTvd": "2162000559362",
-    "tikName": "Пестречинская"
+    "tikName": "Пестречинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2402,
     "uikTvd": "4164041146900",
+    "uikName": "УИК №2402",
     "tikTvd": "2162000559362",
-    "tikName": "Пестречинская"
+    "tikName": "Пестречинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2403,
     "uikTvd": "4164041146901",
+    "uikName": "УИК №2403",
     "tikTvd": "2162000559362",
-    "tikName": "Пестречинская"
+    "tikName": "Пестречинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2404,
     "uikTvd": "4164041146902",
+    "uikName": "УИК №2404",
     "tikTvd": "2162000559362",
-    "tikName": "Пестречинская"
+    "tikName": "Пестречинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2405,
     "uikTvd": "4164041146903",
+    "uikName": "УИК №2405",
     "tikTvd": "2162000559362",
-    "tikName": "Пестречинская"
+    "tikName": "Пестречинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2406,
     "uikTvd": "4164041146904",
+    "uikName": "УИК №2406",
     "tikTvd": "2162000559362",
-    "tikName": "Пестречинская"
+    "tikName": "Пестречинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2407,
     "uikTvd": "4164041146905",
+    "uikName": "УИК №2407",
     "tikTvd": "2162000559362",
-    "tikName": "Пестречинская"
+    "tikName": "Пестречинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2408,
     "uikTvd": "4164041146906",
+    "uikName": "УИК №2408",
     "tikTvd": "2162000559362",
-    "tikName": "Пестречинская"
+    "tikName": "Пестречинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2409,
     "uikTvd": "4164041146907",
+    "uikName": "УИК №2409",
     "tikTvd": "2162000559362",
-    "tikName": "Пестречинская"
+    "tikName": "Пестречинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2410,
     "uikTvd": "4164041146908",
+    "uikName": "УИК №2410",
     "tikTvd": "2162000559362",
-    "tikName": "Пестречинская"
+    "tikName": "Пестречинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2411,
     "uikTvd": "4164041146909",
+    "uikName": "УИК №2411",
     "tikTvd": "2162000559362",
-    "tikName": "Пестречинская"
+    "tikName": "Пестречинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2412,
     "uikTvd": "4164041146910",
+    "uikName": "УИК №2412",
     "tikTvd": "2162000559362",
-    "tikName": "Пестречинская"
+    "tikName": "Пестречинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2413,
     "uikTvd": "4164041146911",
+    "uikName": "УИК №2413",
     "tikTvd": "2162000559362",
-    "tikName": "Пестречинская"
+    "tikName": "Пестречинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2414,
     "uikTvd": "4164041146912",
+    "uikName": "УИК №2414",
     "tikTvd": "2162000559362",
-    "tikName": "Пестречинская"
+    "tikName": "Пестречинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2415,
     "uikTvd": "4164041146913",
+    "uikName": "УИК №2415",
     "tikTvd": "2162000559362",
-    "tikName": "Пестречинская"
+    "tikName": "Пестречинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2416,
     "uikTvd": "4164041146914",
+    "uikName": "УИК №2416",
     "tikTvd": "2162000559362",
-    "tikName": "Пестречинская"
+    "tikName": "Пестречинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2417,
     "uikTvd": "4164041146915",
+    "uikName": "УИК №2417",
     "tikTvd": "2162000559362",
-    "tikName": "Пестречинская"
+    "tikName": "Пестречинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2418,
     "uikTvd": "4164041146916",
+    "uikName": "УИК №2418",
     "tikTvd": "2162000559362",
-    "tikName": "Пестречинская"
+    "tikName": "Пестречинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2419,
     "uikTvd": "4164041146917",
+    "uikName": "УИК №2419",
     "tikTvd": "2162000559362",
-    "tikName": "Пестречинская"
+    "tikName": "Пестречинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2420,
     "uikTvd": "4164041146918",
+    "uikName": "УИК №2420",
     "tikTvd": "2162000559362",
-    "tikName": "Пестречинская"
+    "tikName": "Пестречинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2421,
     "uikTvd": "4164042147513",
+    "uikName": "УИК №2421",
     "tikTvd": "2162000559359",
-    "tikName": "Рыбно-Слободская"
+    "tikName": "Рыбно-Слободская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2422,
     "uikTvd": "4164042147515",
+    "uikName": "УИК №2422",
     "tikTvd": "2162000559359",
-    "tikName": "Рыбно-Слободская"
+    "tikName": "Рыбно-Слободская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2423,
     "uikTvd": "4164042147517",
+    "uikName": "УИК №2423",
     "tikTvd": "2162000559359",
-    "tikName": "Рыбно-Слободская"
+    "tikName": "Рыбно-Слободская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2424,
     "uikTvd": "4164042147518",
+    "uikName": "УИК №2424",
     "tikTvd": "2162000559359",
-    "tikName": "Рыбно-Слободская"
+    "tikName": "Рыбно-Слободская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2425,
     "uikTvd": "4164042147519",
+    "uikName": "УИК №2425",
     "tikTvd": "2162000559359",
-    "tikName": "Рыбно-Слободская"
+    "tikName": "Рыбно-Слободская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2426,
     "uikTvd": "4164042147520",
+    "uikName": "УИК №2426",
     "tikTvd": "2162000559359",
-    "tikName": "Рыбно-Слободская"
+    "tikName": "Рыбно-Слободская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2427,
     "uikTvd": "4164042147521",
+    "uikName": "УИК №2427",
     "tikTvd": "2162000559359",
-    "tikName": "Рыбно-Слободская"
+    "tikName": "Рыбно-Слободская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2428,
     "uikTvd": "4164042147522",
+    "uikName": "УИК №2428",
     "tikTvd": "2162000559359",
-    "tikName": "Рыбно-Слободская"
+    "tikName": "Рыбно-Слободская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2429,
     "uikTvd": "4164042147523",
+    "uikName": "УИК №2429",
     "tikTvd": "2162000559359",
-    "tikName": "Рыбно-Слободская"
+    "tikName": "Рыбно-Слободская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2430,
     "uikTvd": "4164042147524",
+    "uikName": "УИК №2430",
     "tikTvd": "2162000559359",
-    "tikName": "Рыбно-Слободская"
+    "tikName": "Рыбно-Слободская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2431,
     "uikTvd": "4164042147525",
+    "uikName": "УИК №2431",
     "tikTvd": "2162000559359",
-    "tikName": "Рыбно-Слободская"
+    "tikName": "Рыбно-Слободская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2432,
     "uikTvd": "4164042147526",
+    "uikName": "УИК №2432",
     "tikTvd": "2162000559359",
-    "tikName": "Рыбно-Слободская"
+    "tikName": "Рыбно-Слободская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2433,
     "uikTvd": "4164042147527",
+    "uikName": "УИК №2433",
     "tikTvd": "2162000559359",
-    "tikName": "Рыбно-Слободская"
+    "tikName": "Рыбно-Слободская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2434,
     "uikTvd": "4164042147528",
+    "uikName": "УИК №2434",
     "tikTvd": "2162000559359",
-    "tikName": "Рыбно-Слободская"
+    "tikName": "Рыбно-Слободская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2435,
     "uikTvd": "4164042147529",
+    "uikName": "УИК №2435",
     "tikTvd": "2162000559359",
-    "tikName": "Рыбно-Слободская"
+    "tikName": "Рыбно-Слободская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2436,
     "uikTvd": "4164042147530",
+    "uikName": "УИК №2436",
     "tikTvd": "2162000559359",
-    "tikName": "Рыбно-Слободская"
+    "tikName": "Рыбно-Слободская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2437,
     "uikTvd": "4164042147531",
+    "uikName": "УИК №2437",
     "tikTvd": "2162000559359",
-    "tikName": "Рыбно-Слободская"
+    "tikName": "Рыбно-Слободская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2438,
     "uikTvd": "4164042147532",
+    "uikName": "УИК №2438",
     "tikTvd": "2162000559359",
-    "tikName": "Рыбно-Слободская"
+    "tikName": "Рыбно-Слободская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2439,
     "uikTvd": "4164042147534",
+    "uikName": "УИК №2439",
     "tikTvd": "2162000559359",
-    "tikName": "Рыбно-Слободская"
+    "tikName": "Рыбно-Слободская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2440,
     "uikTvd": "4164042147536",
+    "uikName": "УИК №2440",
     "tikTvd": "2162000559359",
-    "tikName": "Рыбно-Слободская"
+    "tikName": "Рыбно-Слободская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2441,
     "uikTvd": "4164042147537",
+    "uikName": "УИК №2441",
     "tikTvd": "2162000559359",
-    "tikName": "Рыбно-Слободская"
+    "tikName": "Рыбно-Слободская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2442,
     "uikTvd": "4164042147538",
+    "uikName": "УИК №2442",
     "tikTvd": "2162000559359",
-    "tikName": "Рыбно-Слободская"
+    "tikName": "Рыбно-Слободская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2443,
     "uikTvd": "4164042147539",
+    "uikName": "УИК №2443",
     "tikTvd": "2162000559359",
-    "tikName": "Рыбно-Слободская"
+    "tikName": "Рыбно-Слободская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2444,
     "uikTvd": "4164042147540",
+    "uikName": "УИК №2444",
     "tikTvd": "2162000559359",
-    "tikName": "Рыбно-Слободская"
+    "tikName": "Рыбно-Слободская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2445,
     "uikTvd": "4164042147541",
+    "uikName": "УИК №2445",
     "tikTvd": "2162000559359",
-    "tikName": "Рыбно-Слободская"
+    "tikName": "Рыбно-Слободская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2446,
     "uikTvd": "4164042147542",
+    "uikName": "УИК №2446",
     "tikTvd": "2162000559359",
-    "tikName": "Рыбно-Слободская"
+    "tikName": "Рыбно-Слободская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2447,
     "uikTvd": "4164042147543",
+    "uikName": "УИК №2447",
     "tikTvd": "2162000559359",
-    "tikName": "Рыбно-Слободская"
+    "tikName": "Рыбно-Слободская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2448,
     "uikTvd": "4164042147544",
+    "uikName": "УИК №2448",
     "tikTvd": "2162000559359",
-    "tikName": "Рыбно-Слободская"
+    "tikName": "Рыбно-Слободская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2449,
     "uikTvd": "4164042147545",
+    "uikName": "УИК №2449",
     "tikTvd": "2162000559359",
-    "tikName": "Рыбно-Слободская"
+    "tikName": "Рыбно-Слободская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2450,
     "uikTvd": "4164042147546",
+    "uikName": "УИК №2450",
     "tikTvd": "2162000559359",
-    "tikName": "Рыбно-Слободская"
+    "tikName": "Рыбно-Слободская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2451,
     "uikTvd": "4164042147547",
+    "uikName": "УИК №2451",
     "tikTvd": "2162000559359",
-    "tikName": "Рыбно-Слободская"
+    "tikName": "Рыбно-Слободская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2452,
     "uikTvd": "4164042147548",
+    "uikName": "УИК №2452",
     "tikTvd": "2162000559359",
-    "tikName": "Рыбно-Слободская"
+    "tikName": "Рыбно-Слободская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2453,
     "uikTvd": "4164042147549",
+    "uikName": "УИК №2453",
     "tikTvd": "2162000559359",
-    "tikName": "Рыбно-Слободская"
+    "tikName": "Рыбно-Слободская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2454,
     "uikTvd": "4164042147550",
+    "uikName": "УИК №2454",
     "tikTvd": "2162000559359",
-    "tikName": "Рыбно-Слободская"
+    "tikName": "Рыбно-Слободская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2455,
     "uikTvd": "4164042147551",
+    "uikName": "УИК №2455",
     "tikTvd": "2162000559359",
-    "tikName": "Рыбно-Слободская"
+    "tikName": "Рыбно-Слободская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2456,
     "uikTvd": "4164042147552",
+    "uikName": "УИК №2456",
     "tikTvd": "2162000559359",
-    "tikName": "Рыбно-Слободская"
+    "tikName": "Рыбно-Слободская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2457,
     "uikTvd": "4164042147553",
+    "uikName": "УИК №2457",
     "tikTvd": "2162000559359",
-    "tikName": "Рыбно-Слободская"
+    "tikName": "Рыбно-Слободская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2458,
     "uikTvd": "4164042147554",
+    "uikName": "УИК №2458",
     "tikTvd": "2162000559359",
-    "tikName": "Рыбно-Слободская"
+    "tikName": "Рыбно-Слободская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2459,
     "uikTvd": "4164042147555",
+    "uikName": "УИК №2459",
     "tikTvd": "2162000559359",
-    "tikName": "Рыбно-Слободская"
+    "tikName": "Рыбно-Слободская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2460,
     "uikTvd": "4164042147556",
+    "uikName": "УИК №2460",
     "tikTvd": "2162000559359",
-    "tikName": "Рыбно-Слободская"
+    "tikName": "Рыбно-Слободская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2461,
     "uikTvd": "4164042147557",
+    "uikName": "УИК №2461",
     "tikTvd": "2162000559359",
-    "tikName": "Рыбно-Слободская"
+    "tikName": "Рыбно-Слободская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2462,
     "uikTvd": "4164042147558",
+    "uikName": "УИК №2462",
     "tikTvd": "2162000559359",
-    "tikName": "Рыбно-Слободская"
+    "tikName": "Рыбно-Слободская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2463,
     "uikTvd": "4164042147559",
+    "uikName": "УИК №2463",
     "tikTvd": "2162000559359",
-    "tikName": "Рыбно-Слободская"
+    "tikName": "Рыбно-Слободская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2464,
     "uikTvd": "4164042147560",
+    "uikName": "УИК №2464",
     "tikTvd": "2162000559359",
-    "tikName": "Рыбно-Слободская"
+    "tikName": "Рыбно-Слободская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2465,
     "uikTvd": "4164042147561",
+    "uikName": "УИК №2465",
     "tikTvd": "2162000559359",
-    "tikName": "Рыбно-Слободская"
+    "tikName": "Рыбно-Слободская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2466,
     "uikTvd": "4164042147562",
+    "uikName": "УИК №2466",
     "tikTvd": "2162000559359",
-    "tikName": "Рыбно-Слободская"
+    "tikName": "Рыбно-Слободская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2467,
     "uikTvd": "4164042147563",
+    "uikName": "УИК №2467",
     "tikTvd": "2162000559359",
-    "tikName": "Рыбно-Слободская"
+    "tikName": "Рыбно-Слободская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2468,
     "uikTvd": "4164042147564",
+    "uikName": "УИК №2468",
     "tikTvd": "2162000559359",
-    "tikName": "Рыбно-Слободская"
+    "tikName": "Рыбно-Слободская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2469,
     "uikTvd": "4164042147565",
+    "uikName": "УИК №2469",
     "tikTvd": "2162000559359",
-    "tikName": "Рыбно-Слободская"
+    "tikName": "Рыбно-Слободская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2470,
     "uikTvd": "4164042147566",
+    "uikName": "УИК №2470",
     "tikTvd": "2162000559359",
-    "tikName": "Рыбно-Слободская"
+    "tikName": "Рыбно-Слободская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2471,
     "uikTvd": "4164042147567",
+    "uikName": "УИК №2471",
     "tikTvd": "2162000559359",
-    "tikName": "Рыбно-Слободская"
+    "tikName": "Рыбно-Слободская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2472,
     "uikTvd": "4164043146643",
+    "uikName": "УИК №2472",
     "tikTvd": "2162000559357",
-    "tikName": "Сабинская"
+    "tikName": "Сабинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2473,
     "uikTvd": "4164043146644",
+    "uikName": "УИК №2473",
     "tikTvd": "2162000559357",
-    "tikName": "Сабинская"
+    "tikName": "Сабинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2474,
     "uikTvd": "4164043146646",
+    "uikName": "УИК №2474",
     "tikTvd": "2162000559357",
-    "tikName": "Сабинская"
+    "tikName": "Сабинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2475,
     "uikTvd": "4164043146647",
+    "uikName": "УИК №2475",
     "tikTvd": "2162000559357",
-    "tikName": "Сабинская"
+    "tikName": "Сабинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2476,
     "uikTvd": "4164043146648",
+    "uikName": "УИК №2476",
     "tikTvd": "2162000559357",
-    "tikName": "Сабинская"
+    "tikName": "Сабинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2477,
     "uikTvd": "4164043146649",
+    "uikName": "УИК №2477",
     "tikTvd": "2162000559357",
-    "tikName": "Сабинская"
+    "tikName": "Сабинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2478,
     "uikTvd": "4164043146650",
+    "uikName": "УИК №2478",
     "tikTvd": "2162000559357",
-    "tikName": "Сабинская"
+    "tikName": "Сабинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2479,
     "uikTvd": "4164043146651",
+    "uikName": "УИК №2479",
     "tikTvd": "2162000559357",
-    "tikName": "Сабинская"
+    "tikName": "Сабинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2480,
     "uikTvd": "4164043146652",
+    "uikName": "УИК №2480",
     "tikTvd": "2162000559357",
-    "tikName": "Сабинская"
+    "tikName": "Сабинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2481,
     "uikTvd": "4164043146653",
+    "uikName": "УИК №2481",
     "tikTvd": "2162000559357",
-    "tikName": "Сабинская"
+    "tikName": "Сабинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2482,
     "uikTvd": "4164043146654",
+    "uikName": "УИК №2482",
     "tikTvd": "2162000559357",
-    "tikName": "Сабинская"
+    "tikName": "Сабинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2483,
     "uikTvd": "4164043146655",
+    "uikName": "УИК №2483",
     "tikTvd": "2162000559357",
-    "tikName": "Сабинская"
+    "tikName": "Сабинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2484,
     "uikTvd": "4164043146656",
+    "uikName": "УИК №2484",
     "tikTvd": "2162000559357",
-    "tikName": "Сабинская"
+    "tikName": "Сабинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2485,
     "uikTvd": "4164043146657",
+    "uikName": "УИК №2485",
     "tikTvd": "2162000559357",
-    "tikName": "Сабинская"
+    "tikName": "Сабинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2486,
     "uikTvd": "4164043146658",
+    "uikName": "УИК №2486",
     "tikTvd": "2162000559357",
-    "tikName": "Сабинская"
+    "tikName": "Сабинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2487,
     "uikTvd": "4164043146659",
+    "uikName": "УИК №2487",
     "tikTvd": "2162000559357",
-    "tikName": "Сабинская"
+    "tikName": "Сабинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2488,
     "uikTvd": "4164043146660",
+    "uikName": "УИК №2488",
     "tikTvd": "2162000559357",
-    "tikName": "Сабинская"
+    "tikName": "Сабинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2489,
     "uikTvd": "4164043146661",
+    "uikName": "УИК №2489",
     "tikTvd": "2162000559357",
-    "tikName": "Сабинская"
+    "tikName": "Сабинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2490,
     "uikTvd": "4164043146662",
+    "uikName": "УИК №2490",
     "tikTvd": "2162000559357",
-    "tikName": "Сабинская"
+    "tikName": "Сабинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2491,
     "uikTvd": "4164043146663",
+    "uikName": "УИК №2491",
     "tikTvd": "2162000559357",
-    "tikName": "Сабинская"
+    "tikName": "Сабинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2492,
     "uikTvd": "4164043146664",
+    "uikName": "УИК №2492",
     "tikTvd": "2162000559357",
-    "tikName": "Сабинская"
+    "tikName": "Сабинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2493,
     "uikTvd": "4164043146665",
+    "uikName": "УИК №2493",
     "tikTvd": "2162000559357",
-    "tikName": "Сабинская"
+    "tikName": "Сабинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2494,
     "uikTvd": "4164043146666",
+    "uikName": "УИК №2494",
     "tikTvd": "2162000559357",
-    "tikName": "Сабинская"
+    "tikName": "Сабинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2495,
     "uikTvd": "4164043146667",
+    "uikName": "УИК №2495",
     "tikTvd": "2162000559357",
-    "tikName": "Сабинская"
+    "tikName": "Сабинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2496,
     "uikTvd": "4164043146668",
+    "uikName": "УИК №2496",
     "tikTvd": "2162000559357",
-    "tikName": "Сабинская"
+    "tikName": "Сабинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2497,
     "uikTvd": "4164043146669",
+    "uikName": "УИК №2497",
     "tikTvd": "2162000559357",
-    "tikName": "Сабинская"
+    "tikName": "Сабинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2498,
     "uikTvd": "4164043146670",
+    "uikName": "УИК №2498",
     "tikTvd": "2162000559357",
-    "tikName": "Сабинская"
+    "tikName": "Сабинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2499,
     "uikTvd": "4164043146671",
+    "uikName": "УИК №2499",
     "tikTvd": "2162000559357",
-    "tikName": "Сабинская"
+    "tikName": "Сабинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2500,
     "uikTvd": "4164043146672",
+    "uikName": "УИК №2500",
     "tikTvd": "2162000559357",
-    "tikName": "Сабинская"
+    "tikName": "Сабинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2501,
     "uikTvd": "4164043146673",
+    "uikName": "УИК №2501",
     "tikTvd": "2162000559357",
-    "tikName": "Сабинская"
+    "tikName": "Сабинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2502,
     "uikTvd": "4164043146674",
+    "uikName": "УИК №2502",
     "tikTvd": "2162000559357",
-    "tikName": "Сабинская"
+    "tikName": "Сабинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2503,
     "uikTvd": "4164043146675",
+    "uikName": "УИК №2503",
     "tikTvd": "2162000559357",
-    "tikName": "Сабинская"
+    "tikName": "Сабинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2504,
     "uikTvd": "4164043146676",
+    "uikName": "УИК №2504",
     "tikTvd": "2162000559357",
-    "tikName": "Сабинская"
+    "tikName": "Сабинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2505,
     "uikTvd": "4164043146677",
+    "uikName": "УИК №2505",
     "tikTvd": "2162000559357",
-    "tikName": "Сабинская"
+    "tikName": "Сабинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2506,
     "uikTvd": "4164043146678",
+    "uikName": "УИК №2506",
     "tikTvd": "2162000559357",
-    "tikName": "Сабинская"
+    "tikName": "Сабинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2507,
     "uikTvd": "4164043146679",
+    "uikName": "УИК №2507",
     "tikTvd": "2162000559357",
-    "tikName": "Сабинская"
+    "tikName": "Сабинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2508,
     "uikTvd": "4164043146680",
+    "uikName": "УИК №2508",
     "tikTvd": "2162000559357",
-    "tikName": "Сабинская"
+    "tikName": "Сабинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2509,
     "uikTvd": "4164043146681",
+    "uikName": "УИК №2509",
     "tikTvd": "2162000559357",
-    "tikName": "Сабинская"
+    "tikName": "Сабинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2510,
     "uikTvd": "4164043146682",
+    "uikName": "УИК №2510",
     "tikTvd": "2162000559357",
-    "tikName": "Сабинская"
+    "tikName": "Сабинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2511,
     "uikTvd": "4164043146683",
+    "uikName": "УИК №2511",
     "tikTvd": "2162000559357",
-    "tikName": "Сабинская"
+    "tikName": "Сабинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2512,
     "uikTvd": "4164044138750",
+    "uikName": "УИК №2512",
     "tikTvd": "2162000559358",
-    "tikName": "Сармановская"
+    "tikName": "Сармановская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2513,
     "uikTvd": "4164044138751",
+    "uikName": "УИК №2513",
     "tikTvd": "2162000559358",
-    "tikName": "Сармановская"
+    "tikName": "Сармановская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2514,
     "uikTvd": "4164044138752",
+    "uikName": "УИК №2514",
     "tikTvd": "2162000559358",
-    "tikName": "Сармановская"
+    "tikName": "Сармановская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2515,
     "uikTvd": "4164044138753",
+    "uikName": "УИК №2515",
     "tikTvd": "2162000559358",
-    "tikName": "Сармановская"
+    "tikName": "Сармановская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2516,
     "uikTvd": "4164044138754",
+    "uikName": "УИК №2516",
     "tikTvd": "2162000559358",
-    "tikName": "Сармановская"
+    "tikName": "Сармановская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2517,
     "uikTvd": "4164044138755",
+    "uikName": "УИК №2517",
     "tikTvd": "2162000559358",
-    "tikName": "Сармановская"
+    "tikName": "Сармановская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2518,
     "uikTvd": "4164044138756",
+    "uikName": "УИК №2518",
     "tikTvd": "2162000559358",
-    "tikName": "Сармановская"
+    "tikName": "Сармановская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2519,
     "uikTvd": "4164044138757",
+    "uikName": "УИК №2519",
     "tikTvd": "2162000559358",
-    "tikName": "Сармановская"
+    "tikName": "Сармановская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2520,
     "uikTvd": "4164044138758",
+    "uikName": "УИК №2520",
     "tikTvd": "2162000559358",
-    "tikName": "Сармановская"
+    "tikName": "Сармановская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2521,
     "uikTvd": "4164044138759",
+    "uikName": "УИК №2521",
     "tikTvd": "2162000559358",
-    "tikName": "Сармановская"
+    "tikName": "Сармановская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2522,
     "uikTvd": "4164044138760",
+    "uikName": "УИК №2522",
     "tikTvd": "2162000559358",
-    "tikName": "Сармановская"
+    "tikName": "Сармановская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2523,
     "uikTvd": "4164044138761",
+    "uikName": "УИК №2523",
     "tikTvd": "2162000559358",
-    "tikName": "Сармановская"
+    "tikName": "Сармановская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2524,
     "uikTvd": "4164044138762",
+    "uikName": "УИК №2524",
     "tikTvd": "2162000559358",
-    "tikName": "Сармановская"
+    "tikName": "Сармановская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2525,
     "uikTvd": "4164044138763",
+    "uikName": "УИК №2525",
     "tikTvd": "2162000559358",
-    "tikName": "Сармановская"
+    "tikName": "Сармановская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2526,
     "uikTvd": "4164044138764",
+    "uikName": "УИК №2526",
     "tikTvd": "2162000559358",
-    "tikName": "Сармановская"
+    "tikName": "Сармановская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2527,
     "uikTvd": "4164044138765",
+    "uikName": "УИК №2527",
     "tikTvd": "2162000559358",
-    "tikName": "Сармановская"
+    "tikName": "Сармановская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2528,
     "uikTvd": "4164044138766",
+    "uikName": "УИК №2528",
     "tikTvd": "2162000559358",
-    "tikName": "Сармановская"
+    "tikName": "Сармановская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2529,
     "uikTvd": "4164044138767",
+    "uikName": "УИК №2529",
     "tikTvd": "2162000559358",
-    "tikName": "Сармановская"
+    "tikName": "Сармановская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2530,
     "uikTvd": "4164044138768",
+    "uikName": "УИК №2530",
     "tikTvd": "2162000559358",
-    "tikName": "Сармановская"
+    "tikName": "Сармановская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2531,
     "uikTvd": "4164044138769",
+    "uikName": "УИК №2531",
     "tikTvd": "2162000559358",
-    "tikName": "Сармановская"
+    "tikName": "Сармановская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2532,
     "uikTvd": "4164044138770",
+    "uikName": "УИК №2532",
     "tikTvd": "2162000559358",
-    "tikName": "Сармановская"
+    "tikName": "Сармановская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2533,
     "uikTvd": "4164044138771",
+    "uikName": "УИК №2533",
     "tikTvd": "2162000559358",
-    "tikName": "Сармановская"
+    "tikName": "Сармановская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2534,
     "uikTvd": "4164044138772",
+    "uikName": "УИК №2534",
     "tikTvd": "2162000559358",
-    "tikName": "Сармановская"
+    "tikName": "Сармановская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2535,
     "uikTvd": "4164044138773",
+    "uikName": "УИК №2535",
     "tikTvd": "2162000559358",
-    "tikName": "Сармановская"
+    "tikName": "Сармановская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2536,
     "uikTvd": "4164044138774",
+    "uikName": "УИК №2536",
     "tikTvd": "2162000559358",
-    "tikName": "Сармановская"
+    "tikName": "Сармановская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2537,
     "uikTvd": "4164044138775",
+    "uikName": "УИК №2537",
     "tikTvd": "2162000559358",
-    "tikName": "Сармановская"
+    "tikName": "Сармановская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2538,
     "uikTvd": "4164044138776",
+    "uikName": "УИК №2538",
     "tikTvd": "2162000559358",
-    "tikName": "Сармановская"
+    "tikName": "Сармановская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2539,
     "uikTvd": "4164044138777",
+    "uikName": "УИК №2539",
     "tikTvd": "2162000559358",
-    "tikName": "Сармановская"
+    "tikName": "Сармановская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2540,
     "uikTvd": "4164044138778",
+    "uikName": "УИК №2540",
     "tikTvd": "2162000559358",
-    "tikName": "Сармановская"
+    "tikName": "Сармановская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2541,
     "uikTvd": "4164044138779",
+    "uikName": "УИК №2541",
     "tikTvd": "2162000559358",
-    "tikName": "Сармановская"
+    "tikName": "Сармановская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2542,
     "uikTvd": "4164044138780",
+    "uikName": "УИК №2542",
     "tikTvd": "2162000559358",
-    "tikName": "Сармановская"
+    "tikName": "Сармановская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2543,
     "uikTvd": "4164044138781",
+    "uikName": "УИК №2543",
     "tikTvd": "2162000559358",
-    "tikName": "Сармановская"
+    "tikName": "Сармановская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2544,
     "uikTvd": "4164044138782",
+    "uikName": "УИК №2544",
     "tikTvd": "2162000559358",
-    "tikName": "Сармановская"
+    "tikName": "Сармановская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2545,
     "uikTvd": "4164044138783",
+    "uikName": "УИК №2545",
     "tikTvd": "2162000559358",
-    "tikName": "Сармановская"
+    "tikName": "Сармановская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2546,
     "uikTvd": "4164044138784",
+    "uikName": "УИК №2546",
     "tikTvd": "2162000559358",
-    "tikName": "Сармановская"
+    "tikName": "Сармановская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2547,
     "uikTvd": "4164044138785",
+    "uikName": "УИК №2547",
     "tikTvd": "2162000559358",
-    "tikName": "Сармановская"
+    "tikName": "Сармановская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2548,
     "uikTvd": "4164044138786",
+    "uikName": "УИК №2548",
     "tikTvd": "2162000559358",
-    "tikName": "Сармановская"
+    "tikName": "Сармановская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2549,
     "uikTvd": "4164044138787",
+    "uikName": "УИК №2549",
     "tikTvd": "2162000559358",
-    "tikName": "Сармановская"
+    "tikName": "Сармановская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2550,
     "uikTvd": "4164044138788",
+    "uikName": "УИК №2550",
     "tikTvd": "2162000559358",
-    "tikName": "Сармановская"
+    "tikName": "Сармановская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2551,
     "uikTvd": "4164044138789",
+    "uikName": "УИК №2551",
     "tikTvd": "2162000559358",
-    "tikName": "Сармановская"
+    "tikName": "Сармановская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2552,
     "uikTvd": "4164044138790",
+    "uikName": "УИК №2552",
     "tikTvd": "2162000559358",
-    "tikName": "Сармановская"
+    "tikName": "Сармановская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2553,
     "uikTvd": "4164044138791",
+    "uikName": "УИК №2553",
     "tikTvd": "2162000559358",
-    "tikName": "Сармановская"
+    "tikName": "Сармановская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2554,
     "uikTvd": "4164044138792",
+    "uikName": "УИК №2554",
     "tikTvd": "2162000559358",
-    "tikName": "Сармановская"
+    "tikName": "Сармановская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2555,
     "uikTvd": "4164044138793",
+    "uikName": "УИК №2555",
     "tikTvd": "2162000559358",
-    "tikName": "Сармановская"
+    "tikName": "Сармановская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2556,
     "uikTvd": "4164044138794",
+    "uikName": "УИК №2556",
     "tikTvd": "2162000559358",
-    "tikName": "Сармановская"
+    "tikName": "Сармановская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2557,
     "uikTvd": "4164044138795",
+    "uikName": "УИК №2557",
     "tikTvd": "2162000559358",
-    "tikName": "Сармановская"
+    "tikName": "Сармановская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2558,
     "uikTvd": "4164044138796",
+    "uikName": "УИК №2558",
     "tikTvd": "2162000559358",
-    "tikName": "Сармановская"
+    "tikName": "Сармановская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2559,
     "uikTvd": "4164044138797",
+    "uikName": "УИК №2559",
     "tikTvd": "2162000559358",
-    "tikName": "Сармановская"
+    "tikName": "Сармановская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2560,
     "uikTvd": "4164044138798",
+    "uikName": "УИК №2560",
     "tikTvd": "2162000559358",
-    "tikName": "Сармановская"
+    "tikName": "Сармановская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2561,
     "uikTvd": "4164044138799",
+    "uikName": "УИК №2561",
     "tikTvd": "2162000559358",
-    "tikName": "Сармановская"
+    "tikName": "Сармановская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2562,
     "uikTvd": "4164044138800",
+    "uikName": "УИК №2562",
     "tikTvd": "2162000559358",
-    "tikName": "Сармановская"
+    "tikName": "Сармановская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2563,
     "uikTvd": "4164044138801",
+    "uikName": "УИК №2563",
     "tikTvd": "2162000559358",
-    "tikName": "Сармановская"
+    "tikName": "Сармановская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2564,
     "uikTvd": "4164044138802",
+    "uikName": "УИК №2564",
     "tikTvd": "2162000559358",
-    "tikName": "Сармановская"
+    "tikName": "Сармановская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2565,
     "uikTvd": "4164044138803",
+    "uikName": "УИК №2565",
     "tikTvd": "2162000559358",
-    "tikName": "Сармановская"
+    "tikName": "Сармановская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2566,
     "uikTvd": "4164044138804",
+    "uikName": "УИК №2566",
     "tikTvd": "2162000559358",
-    "tikName": "Сармановская"
+    "tikName": "Сармановская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2567,
     "uikTvd": "4164044138805",
+    "uikName": "УИК №2567",
     "tikTvd": "2162000559358",
-    "tikName": "Сармановская"
+    "tikName": "Сармановская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2568,
     "uikTvd": "4164045145560",
+    "uikName": "УИК №2568",
     "tikTvd": "2162000559355",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2569,
     "uikTvd": "4164045145561",
+    "uikName": "УИК №2569",
     "tikTvd": "2162000559355",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2570,
     "uikTvd": "4164045145562",
+    "uikName": "УИК №2570",
     "tikTvd": "2162000559355",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2571,
     "uikTvd": "4164045145563",
+    "uikName": "УИК №2571",
     "tikTvd": "2162000559355",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2572,
     "uikTvd": "4164045145564",
+    "uikName": "УИК №2572",
     "tikTvd": "2162000559355",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2573,
     "uikTvd": "4164045145565",
+    "uikName": "УИК №2573",
     "tikTvd": "2162000559355",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2574,
     "uikTvd": "4164045145566",
+    "uikName": "УИК №2574",
     "tikTvd": "2162000559355",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2575,
     "uikTvd": "4164045145567",
+    "uikName": "УИК №2575",
     "tikTvd": "2162000559355",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2576,
     "uikTvd": "4164045145568",
+    "uikName": "УИК №2576",
     "tikTvd": "2162000559355",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2577,
     "uikTvd": "4164045145569",
+    "uikName": "УИК №2577",
     "tikTvd": "2162000559355",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2578,
     "uikTvd": "4164045145570",
+    "uikName": "УИК №2578",
     "tikTvd": "2162000559355",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2579,
     "uikTvd": "4164045145571",
+    "uikName": "УИК №2579",
     "tikTvd": "2162000559355",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2580,
     "uikTvd": "4164045145572",
+    "uikName": "УИК №2580",
     "tikTvd": "2162000559355",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2581,
     "uikTvd": "4164045145573",
+    "uikName": "УИК №2581",
     "tikTvd": "2162000559355",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2582,
     "uikTvd": "4164045145574",
+    "uikName": "УИК №2582",
     "tikTvd": "2162000559355",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2583,
     "uikTvd": "4164045145575",
+    "uikName": "УИК №2583",
     "tikTvd": "2162000559355",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2584,
     "uikTvd": "4164045145576",
+    "uikName": "УИК №2584",
     "tikTvd": "2162000559355",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2585,
     "uikTvd": "4164045145577",
+    "uikName": "УИК №2585",
     "tikTvd": "2162000559355",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2586,
     "uikTvd": "4164045145578",
+    "uikName": "УИК №2586",
     "tikTvd": "2162000559355",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2587,
     "uikTvd": "4164045145579",
+    "uikName": "УИК №2587",
     "tikTvd": "2162000559355",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2588,
     "uikTvd": "4164045145580",
+    "uikName": "УИК №2588",
     "tikTvd": "2162000559355",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2589,
     "uikTvd": "4164045145581",
+    "uikName": "УИК №2589",
     "tikTvd": "2162000559355",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2590,
     "uikTvd": "4164045145582",
+    "uikName": "УИК №2590",
     "tikTvd": "2162000559355",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2591,
     "uikTvd": "4164045145583",
+    "uikName": "УИК №2591",
     "tikTvd": "2162000559355",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2592,
     "uikTvd": "4164045145584",
+    "uikName": "УИК №2592",
     "tikTvd": "2162000559355",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2593,
     "uikTvd": "4164045145585",
+    "uikName": "УИК №2593",
     "tikTvd": "2162000559355",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2594,
     "uikTvd": "4164045145586",
+    "uikName": "УИК №2594",
     "tikTvd": "2162000559355",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2595,
     "uikTvd": "4164045145587",
+    "uikName": "УИК №2595",
     "tikTvd": "2162000559355",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2596,
     "uikTvd": "4164045145588",
+    "uikName": "УИК №2596",
     "tikTvd": "2162000559355",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2597,
     "uikTvd": "4164045145589",
+    "uikName": "УИК №2597",
     "tikTvd": "2162000559355",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2598,
     "uikTvd": "4164045145590",
+    "uikName": "УИК №2598",
     "tikTvd": "2162000559355",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2599,
     "uikTvd": "4164045145591",
+    "uikName": "УИК №2599",
     "tikTvd": "2162000559355",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2600,
     "uikTvd": "4164045145592",
+    "uikName": "УИК №2600",
     "tikTvd": "2162000559355",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2601,
     "uikTvd": "4164045145593",
+    "uikName": "УИК №2601",
     "tikTvd": "2162000559355",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2602,
     "uikTvd": "4164045145594",
+    "uikName": "УИК №2602",
     "tikTvd": "2162000559355",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2603,
     "uikTvd": "4164045145595",
+    "uikName": "УИК №2603",
     "tikTvd": "2162000559355",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2604,
     "uikTvd": "4164045145596",
+    "uikName": "УИК №2604",
     "tikTvd": "2162000559355",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2605,
     "uikTvd": "4164045145597",
+    "uikName": "УИК №2605",
     "tikTvd": "2162000559355",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2606,
     "uikTvd": "4164045145598",
+    "uikName": "УИК №2606",
     "tikTvd": "2162000559355",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2614,
     "uikTvd": "4164046151107",
+    "uikName": "УИК №2614",
     "tikTvd": "2162000559354",
-    "tikName": "Тетюшская"
+    "tikName": "Тетюшская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2615,
     "uikTvd": "4164046151108",
+    "uikName": "УИК №2615",
     "tikTvd": "2162000559354",
-    "tikName": "Тетюшская"
+    "tikName": "Тетюшская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2616,
     "uikTvd": "4164046151109",
+    "uikName": "УИК №2616",
     "tikTvd": "2162000559354",
-    "tikName": "Тетюшская"
+    "tikName": "Тетюшская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2617,
     "uikTvd": "4164046151110",
+    "uikName": "УИК №2617",
     "tikTvd": "2162000559354",
-    "tikName": "Тетюшская"
+    "tikName": "Тетюшская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2618,
     "uikTvd": "4164046151111",
+    "uikName": "УИК №2618",
     "tikTvd": "2162000559354",
-    "tikName": "Тетюшская"
+    "tikName": "Тетюшская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2619,
     "uikTvd": "4164046151112",
+    "uikName": "УИК №2619",
     "tikTvd": "2162000559354",
-    "tikName": "Тетюшская"
+    "tikName": "Тетюшская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2620,
     "uikTvd": "4164046151113",
+    "uikName": "УИК №2620",
     "tikTvd": "2162000559354",
-    "tikName": "Тетюшская"
+    "tikName": "Тетюшская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2621,
     "uikTvd": "4164046151114",
+    "uikName": "УИК №2621",
     "tikTvd": "2162000559354",
-    "tikName": "Тетюшская"
+    "tikName": "Тетюшская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2622,
     "uikTvd": "4164046151115",
+    "uikName": "УИК №2622",
     "tikTvd": "2162000559354",
-    "tikName": "Тетюшская"
+    "tikName": "Тетюшская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2623,
     "uikTvd": "4164046151116",
+    "uikName": "УИК №2623",
     "tikTvd": "2162000559354",
-    "tikName": "Тетюшская"
+    "tikName": "Тетюшская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2624,
     "uikTvd": "4164046151117",
+    "uikName": "УИК №2624",
     "tikTvd": "2162000559354",
-    "tikName": "Тетюшская"
+    "tikName": "Тетюшская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2625,
     "uikTvd": "4164046151118",
+    "uikName": "УИК №2625",
     "tikTvd": "2162000559354",
-    "tikName": "Тетюшская"
+    "tikName": "Тетюшская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2626,
     "uikTvd": "4164046151119",
+    "uikName": "УИК №2626",
     "tikTvd": "2162000559354",
-    "tikName": "Тетюшская"
+    "tikName": "Тетюшская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2627,
     "uikTvd": "4164046151120",
+    "uikName": "УИК №2627",
     "tikTvd": "2162000559354",
-    "tikName": "Тетюшская"
+    "tikName": "Тетюшская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2628,
     "uikTvd": "4164046151121",
+    "uikName": "УИК №2628",
     "tikTvd": "2162000559354",
-    "tikName": "Тетюшская"
+    "tikName": "Тетюшская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2629,
     "uikTvd": "4164046151122",
+    "uikName": "УИК №2629",
     "tikTvd": "2162000559354",
-    "tikName": "Тетюшская"
+    "tikName": "Тетюшская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2630,
     "uikTvd": "4164046151123",
+    "uikName": "УИК №2630",
     "tikTvd": "2162000559354",
-    "tikName": "Тетюшская"
+    "tikName": "Тетюшская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2631,
     "uikTvd": "4164046151124",
+    "uikName": "УИК №2631",
     "tikTvd": "2162000559354",
-    "tikName": "Тетюшская"
+    "tikName": "Тетюшская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2632,
     "uikTvd": "4164046151125",
+    "uikName": "УИК №2632",
     "tikTvd": "2162000559354",
-    "tikName": "Тетюшская"
+    "tikName": "Тетюшская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2633,
     "uikTvd": "4164046151126",
+    "uikName": "УИК №2633",
     "tikTvd": "2162000559354",
-    "tikName": "Тетюшская"
+    "tikName": "Тетюшская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2634,
     "uikTvd": "4164046151127",
+    "uikName": "УИК №2634",
     "tikTvd": "2162000559354",
-    "tikName": "Тетюшская"
+    "tikName": "Тетюшская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2635,
     "uikTvd": "4164046151128",
+    "uikName": "УИК №2635",
     "tikTvd": "2162000559354",
-    "tikName": "Тетюшская"
+    "tikName": "Тетюшская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2636,
     "uikTvd": "4164046151129",
+    "uikName": "УИК №2636",
     "tikTvd": "2162000559354",
-    "tikName": "Тетюшская"
+    "tikName": "Тетюшская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2637,
     "uikTvd": "4164046151130",
+    "uikName": "УИК №2637",
     "tikTvd": "2162000559354",
-    "tikName": "Тетюшская"
+    "tikName": "Тетюшская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2638,
     "uikTvd": "4164046151131",
+    "uikName": "УИК №2638",
     "tikTvd": "2162000559354",
-    "tikName": "Тетюшская"
+    "tikName": "Тетюшская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2639,
     "uikTvd": "4164046151132",
+    "uikName": "УИК №2639",
     "tikTvd": "2162000559354",
-    "tikName": "Тетюшская"
+    "tikName": "Тетюшская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2640,
     "uikTvd": "4164046151133",
+    "uikName": "УИК №2640",
     "tikTvd": "2162000559354",
-    "tikName": "Тетюшская"
+    "tikName": "Тетюшская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2641,
     "uikTvd": "4164046151134",
+    "uikName": "УИК №2641",
     "tikTvd": "2162000559354",
-    "tikName": "Тетюшская"
+    "tikName": "Тетюшская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2642,
     "uikTvd": "4164046151135",
+    "uikName": "УИК №2642",
     "tikTvd": "2162000559354",
-    "tikName": "Тетюшская"
+    "tikName": "Тетюшская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2643,
     "uikTvd": "4164046151136",
+    "uikName": "УИК №2643",
     "tikTvd": "2162000559354",
-    "tikName": "Тетюшская"
+    "tikName": "Тетюшская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2644,
     "uikTvd": "4164046151137",
+    "uikName": "УИК №2644",
     "tikTvd": "2162000559354",
-    "tikName": "Тетюшская"
+    "tikName": "Тетюшская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2645,
     "uikTvd": "4164046151138",
+    "uikName": "УИК №2645",
     "tikTvd": "2162000559354",
-    "tikName": "Тетюшская"
+    "tikName": "Тетюшская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2646,
     "uikTvd": "4164046151139",
+    "uikName": "УИК №2646",
     "tikTvd": "2162000559354",
-    "tikName": "Тетюшская"
+    "tikName": "Тетюшская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2647,
     "uikTvd": "4164046151140",
+    "uikName": "УИК №2647",
     "tikTvd": "2162000559354",
-    "tikName": "Тетюшская"
+    "tikName": "Тетюшская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2648,
     "uikTvd": "4164046151141",
+    "uikName": "УИК №2648",
     "tikTvd": "2162000559354",
-    "tikName": "Тетюшская"
+    "tikName": "Тетюшская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2649,
     "uikTvd": "4164046151142",
+    "uikName": "УИК №2649",
     "tikTvd": "2162000559354",
-    "tikName": "Тетюшская"
+    "tikName": "Тетюшская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2650,
     "uikTvd": "4164046151143",
+    "uikName": "УИК №2650",
     "tikTvd": "2162000559354",
-    "tikName": "Тетюшская"
+    "tikName": "Тетюшская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2651,
     "uikTvd": "4164046151144",
+    "uikName": "УИК №2651",
     "tikTvd": "2162000559354",
-    "tikName": "Тетюшская"
+    "tikName": "Тетюшская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2652,
     "uikTvd": "4164046151145",
+    "uikName": "УИК №2652",
     "tikTvd": "2162000559354",
-    "tikName": "Тетюшская"
+    "tikName": "Тетюшская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2653,
     "uikTvd": "4164046151146",
+    "uikName": "УИК №2653",
     "tikTvd": "2162000559354",
-    "tikName": "Тетюшская"
+    "tikName": "Тетюшская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2654,
     "uikTvd": "4164046151147",
+    "uikName": "УИК №2654",
     "tikTvd": "2162000559354",
-    "tikName": "Тетюшская"
+    "tikName": "Тетюшская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2655,
     "uikTvd": "4164046151148",
+    "uikName": "УИК №2655",
     "tikTvd": "2162000559354",
-    "tikName": "Тетюшская"
+    "tikName": "Тетюшская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2656,
     "uikTvd": "4164046151149",
+    "uikName": "УИК №2656",
     "tikTvd": "2162000559354",
-    "tikName": "Тетюшская"
+    "tikName": "Тетюшская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2657,
     "uikTvd": "4164046151150",
+    "uikName": "УИК №2657",
     "tikTvd": "2162000559354",
-    "tikName": "Тетюшская"
+    "tikName": "Тетюшская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2658,
     "uikTvd": "4164046151151",
+    "uikName": "УИК №2658",
     "tikTvd": "2162000559354",
-    "tikName": "Тетюшская"
+    "tikName": "Тетюшская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2659,
     "uikTvd": "4164046151152",
+    "uikName": "УИК №2659",
     "tikTvd": "2162000559354",
-    "tikName": "Тетюшская"
+    "tikName": "Тетюшская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2660,
     "uikTvd": "4164046151153",
+    "uikName": "УИК №2660",
     "tikTvd": "2162000559354",
-    "tikName": "Тетюшская"
+    "tikName": "Тетюшская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2661,
     "uikTvd": "4164047161842",
+    "uikName": "УИК №2661",
     "tikTvd": "2162000559356",
-    "tikName": "Тукаевская"
+    "tikName": "Тукаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2662,
     "uikTvd": "4164047161843",
+    "uikName": "УИК №2662",
     "tikTvd": "2162000559356",
-    "tikName": "Тукаевская"
+    "tikName": "Тукаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2663,
     "uikTvd": "4164047161844",
+    "uikName": "УИК №2663",
     "tikTvd": "2162000559356",
-    "tikName": "Тукаевская"
+    "tikName": "Тукаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2664,
     "uikTvd": "4164047161845",
+    "uikName": "УИК №2664",
     "tikTvd": "2162000559356",
-    "tikName": "Тукаевская"
+    "tikName": "Тукаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2665,
     "uikTvd": "4164047161846",
+    "uikName": "УИК №2665",
     "tikTvd": "2162000559356",
-    "tikName": "Тукаевская"
+    "tikName": "Тукаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2666,
     "uikTvd": "4164047161847",
+    "uikName": "УИК №2666",
     "tikTvd": "2162000559356",
-    "tikName": "Тукаевская"
+    "tikName": "Тукаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2667,
     "uikTvd": "4164047161848",
+    "uikName": "УИК №2667",
     "tikTvd": "2162000559356",
-    "tikName": "Тукаевская"
+    "tikName": "Тукаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2668,
     "uikTvd": "4164047161849",
+    "uikName": "УИК №2668",
     "tikTvd": "2162000559356",
-    "tikName": "Тукаевская"
+    "tikName": "Тукаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2669,
     "uikTvd": "4164047161850",
+    "uikName": "УИК №2669",
     "tikTvd": "2162000559356",
-    "tikName": "Тукаевская"
+    "tikName": "Тукаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2670,
     "uikTvd": "4164047161851",
+    "uikName": "УИК №2670",
     "tikTvd": "2162000559356",
-    "tikName": "Тукаевская"
+    "tikName": "Тукаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2671,
     "uikTvd": "4164047161852",
+    "uikName": "УИК №2671",
     "tikTvd": "2162000559356",
-    "tikName": "Тукаевская"
+    "tikName": "Тукаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2672,
     "uikTvd": "4164047161853",
+    "uikName": "УИК №2672",
     "tikTvd": "2162000559356",
-    "tikName": "Тукаевская"
+    "tikName": "Тукаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2673,
     "uikTvd": "4164047161854",
+    "uikName": "УИК №2673",
     "tikTvd": "2162000559356",
-    "tikName": "Тукаевская"
+    "tikName": "Тукаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2674,
     "uikTvd": "4164047161855",
+    "uikName": "УИК №2674",
     "tikTvd": "2162000559356",
-    "tikName": "Тукаевская"
+    "tikName": "Тукаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2675,
     "uikTvd": "4164047161856",
+    "uikName": "УИК №2675",
     "tikTvd": "2162000559356",
-    "tikName": "Тукаевская"
+    "tikName": "Тукаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2676,
     "uikTvd": "4164047161857",
+    "uikName": "УИК №2676",
     "tikTvd": "2162000559356",
-    "tikName": "Тукаевская"
+    "tikName": "Тукаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2677,
     "uikTvd": "4164047161858",
+    "uikName": "УИК №2677",
     "tikTvd": "2162000559356",
-    "tikName": "Тукаевская"
+    "tikName": "Тукаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2678,
     "uikTvd": "4164047161859",
+    "uikName": "УИК №2678",
     "tikTvd": "2162000559356",
-    "tikName": "Тукаевская"
+    "tikName": "Тукаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2679,
     "uikTvd": "4164047161860",
+    "uikName": "УИК №2679",
     "tikTvd": "2162000559356",
-    "tikName": "Тукаевская"
+    "tikName": "Тукаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2680,
     "uikTvd": "4164047161861",
+    "uikName": "УИК №2680",
     "tikTvd": "2162000559356",
-    "tikName": "Тукаевская"
+    "tikName": "Тукаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2681,
     "uikTvd": "4164047161862",
+    "uikName": "УИК №2681",
     "tikTvd": "2162000559356",
-    "tikName": "Тукаевская"
+    "tikName": "Тукаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2682,
     "uikTvd": "4164047161863",
+    "uikName": "УИК №2682",
     "tikTvd": "2162000559356",
-    "tikName": "Тукаевская"
+    "tikName": "Тукаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2683,
     "uikTvd": "4164047161864",
+    "uikName": "УИК №2683",
     "tikTvd": "2162000559356",
-    "tikName": "Тукаевская"
+    "tikName": "Тукаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2684,
     "uikTvd": "4164047161865",
+    "uikName": "УИК №2684",
     "tikTvd": "2162000559356",
-    "tikName": "Тукаевская"
+    "tikName": "Тукаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2685,
     "uikTvd": "4164047161866",
+    "uikName": "УИК №2685",
     "tikTvd": "2162000559356",
-    "tikName": "Тукаевская"
+    "tikName": "Тукаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2686,
     "uikTvd": "4164047161867",
+    "uikName": "УИК №2686",
     "tikTvd": "2162000559356",
-    "tikName": "Тукаевская"
+    "tikName": "Тукаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2687,
     "uikTvd": "4164047161868",
+    "uikName": "УИК №2687",
     "tikTvd": "2162000559356",
-    "tikName": "Тукаевская"
+    "tikName": "Тукаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2688,
     "uikTvd": "4164047161869",
+    "uikName": "УИК №2688",
     "tikTvd": "2162000559356",
-    "tikName": "Тукаевская"
+    "tikName": "Тукаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2689,
     "uikTvd": "4164047161870",
+    "uikName": "УИК №2689",
     "tikTvd": "2162000559356",
-    "tikName": "Тукаевская"
+    "tikName": "Тукаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2690,
     "uikTvd": "4164047161871",
+    "uikName": "УИК №2690",
     "tikTvd": "2162000559356",
-    "tikName": "Тукаевская"
+    "tikName": "Тукаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2691,
     "uikTvd": "4164047161872",
+    "uikName": "УИК №2691",
     "tikTvd": "2162000559356",
-    "tikName": "Тукаевская"
+    "tikName": "Тукаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2692,
     "uikTvd": "4164047161873",
+    "uikName": "УИК №2692",
     "tikTvd": "2162000559356",
-    "tikName": "Тукаевская"
+    "tikName": "Тукаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2693,
     "uikTvd": "4164047161874",
+    "uikName": "УИК №2693",
     "tikTvd": "2162000559356",
-    "tikName": "Тукаевская"
+    "tikName": "Тукаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2694,
     "uikTvd": "4164047161875",
+    "uikName": "УИК №2694",
     "tikTvd": "2162000559356",
-    "tikName": "Тукаевская"
+    "tikName": "Тукаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2695,
     "uikTvd": "4164047161876",
+    "uikName": "УИК №2695",
     "tikTvd": "2162000559356",
-    "tikName": "Тукаевская"
+    "tikName": "Тукаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2696,
     "uikTvd": "4164047161877",
+    "uikName": "УИК №2696",
     "tikTvd": "2162000559356",
-    "tikName": "Тукаевская"
+    "tikName": "Тукаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2697,
     "uikTvd": "4164047161878",
+    "uikName": "УИК №2697",
     "tikTvd": "2162000559356",
-    "tikName": "Тукаевская"
+    "tikName": "Тукаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2698,
     "uikTvd": "4164047161879",
+    "uikName": "УИК №2698",
     "tikTvd": "2162000559356",
-    "tikName": "Тукаевская"
+    "tikName": "Тукаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2699,
     "uikTvd": "4164047161880",
+    "uikName": "УИК №2699",
     "tikTvd": "2162000559356",
-    "tikName": "Тукаевская"
+    "tikName": "Тукаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2700,
     "uikTvd": "4164047161881",
+    "uikName": "УИК №2700",
     "tikTvd": "2162000559356",
-    "tikName": "Тукаевская"
+    "tikName": "Тукаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2701,
     "uikTvd": "4164047161882",
+    "uikName": "УИК №2701",
     "tikTvd": "2162000559356",
-    "tikName": "Тукаевская"
+    "tikName": "Тукаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2702,
     "uikTvd": "4164047161883",
+    "uikName": "УИК №2702",
     "tikTvd": "2162000559356",
-    "tikName": "Тукаевская"
+    "tikName": "Тукаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2703,
     "uikTvd": "4164047161884",
+    "uikName": "УИК №2703",
     "tikTvd": "2162000559356",
-    "tikName": "Тукаевская"
+    "tikName": "Тукаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2704,
     "uikTvd": "4164048118292",
+    "uikName": "УИК №2704",
     "tikTvd": "2162000559353",
-    "tikName": "Тюлячинская"
+    "tikName": "Тюлячинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2705,
     "uikTvd": "4164048118293",
+    "uikName": "УИК №2705",
     "tikTvd": "2162000559353",
-    "tikName": "Тюлячинская"
+    "tikName": "Тюлячинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2706,
     "uikTvd": "4164048118294",
+    "uikName": "УИК №2706",
     "tikTvd": "2162000559353",
-    "tikName": "Тюлячинская"
+    "tikName": "Тюлячинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2707,
     "uikTvd": "4164048118295",
+    "uikName": "УИК №2707",
     "tikTvd": "2162000559353",
-    "tikName": "Тюлячинская"
+    "tikName": "Тюлячинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2708,
     "uikTvd": "4164048118296",
+    "uikName": "УИК №2708",
     "tikTvd": "2162000559353",
-    "tikName": "Тюлячинская"
+    "tikName": "Тюлячинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2709,
     "uikTvd": "4164048118297",
+    "uikName": "УИК №2709",
     "tikTvd": "2162000559353",
-    "tikName": "Тюлячинская"
+    "tikName": "Тюлячинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2710,
     "uikTvd": "4164048118298",
+    "uikName": "УИК №2710",
     "tikTvd": "2162000559353",
-    "tikName": "Тюлячинская"
+    "tikName": "Тюлячинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2711,
     "uikTvd": "4164048118299",
+    "uikName": "УИК №2711",
     "tikTvd": "2162000559353",
-    "tikName": "Тюлячинская"
+    "tikName": "Тюлячинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2712,
     "uikTvd": "4164048118300",
+    "uikName": "УИК №2712",
     "tikTvd": "2162000559353",
-    "tikName": "Тюлячинская"
+    "tikName": "Тюлячинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2713,
     "uikTvd": "4164048118301",
+    "uikName": "УИК №2713",
     "tikTvd": "2162000559353",
-    "tikName": "Тюлячинская"
+    "tikName": "Тюлячинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2714,
     "uikTvd": "4164048118302",
+    "uikName": "УИК №2714",
     "tikTvd": "2162000559353",
-    "tikName": "Тюлячинская"
+    "tikName": "Тюлячинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2715,
     "uikTvd": "4164048118303",
+    "uikName": "УИК №2715",
     "tikTvd": "2162000559353",
-    "tikName": "Тюлячинская"
+    "tikName": "Тюлячинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2716,
     "uikTvd": "4164048118304",
+    "uikName": "УИК №2716",
     "tikTvd": "2162000559353",
-    "tikName": "Тюлячинская"
+    "tikName": "Тюлячинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2717,
     "uikTvd": "4164048118305",
+    "uikName": "УИК №2717",
     "tikTvd": "2162000559353",
-    "tikName": "Тюлячинская"
+    "tikName": "Тюлячинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2718,
     "uikTvd": "4164048118306",
+    "uikName": "УИК №2718",
     "tikTvd": "2162000559353",
-    "tikName": "Тюлячинская"
+    "tikName": "Тюлячинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2719,
     "uikTvd": "4164048118307",
+    "uikName": "УИК №2719",
     "tikTvd": "2162000559353",
-    "tikName": "Тюлячинская"
+    "tikName": "Тюлячинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2720,
     "uikTvd": "4164048118308",
+    "uikName": "УИК №2720",
     "tikTvd": "2162000559353",
-    "tikName": "Тюлячинская"
+    "tikName": "Тюлячинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2721,
     "uikTvd": "4164048118309",
+    "uikName": "УИК №2721",
     "tikTvd": "2162000559353",
-    "tikName": "Тюлячинская"
+    "tikName": "Тюлячинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2722,
     "uikTvd": "4164048118310",
+    "uikName": "УИК №2722",
     "tikTvd": "2162000559353",
-    "tikName": "Тюлячинская"
+    "tikName": "Тюлячинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2723,
     "uikTvd": "4164048118311",
+    "uikName": "УИК №2723",
     "tikTvd": "2162000559353",
-    "tikName": "Тюлячинская"
+    "tikName": "Тюлячинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2724,
     "uikTvd": "4164048118312",
+    "uikName": "УИК №2724",
     "tikTvd": "2162000559353",
-    "tikName": "Тюлячинская"
+    "tikName": "Тюлячинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2725,
     "uikTvd": "4164048118313",
+    "uikName": "УИК №2725",
     "tikTvd": "2162000559353",
-    "tikName": "Тюлячинская"
+    "tikName": "Тюлячинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2726,
     "uikTvd": "4164048118314",
+    "uikName": "УИК №2726",
     "tikTvd": "2162000559353",
-    "tikName": "Тюлячинская"
+    "tikName": "Тюлячинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2727,
     "uikTvd": "4164048118315",
+    "uikName": "УИК №2727",
     "tikTvd": "2162000559353",
-    "tikName": "Тюлячинская"
+    "tikName": "Тюлячинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2728,
     "uikTvd": "4164048118316",
+    "uikName": "УИК №2728",
     "tikTvd": "2162000559353",
-    "tikName": "Тюлячинская"
+    "tikName": "Тюлячинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2729,
     "uikTvd": "4164048118317",
+    "uikName": "УИК №2729",
     "tikTvd": "2162000559353",
-    "tikName": "Тюлячинская"
+    "tikName": "Тюлячинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2730,
     "uikTvd": "4164048118318",
+    "uikName": "УИК №2730",
     "tikTvd": "2162000559353",
-    "tikName": "Тюлячинская"
+    "tikName": "Тюлячинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2731,
     "uikTvd": "4164048118319",
+    "uikName": "УИК №2731",
     "tikTvd": "2162000559353",
-    "tikName": "Тюлячинская"
+    "tikName": "Тюлячинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2732,
     "uikTvd": "4164049131370",
+    "uikName": "УИК №2732",
     "tikTvd": "2162000559352",
-    "tikName": "Черемшанская"
+    "tikName": "Черемшанская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2733,
     "uikTvd": "4164049131371",
+    "uikName": "УИК №2733",
     "tikTvd": "2162000559352",
-    "tikName": "Черемшанская"
+    "tikName": "Черемшанская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2734,
     "uikTvd": "4164049131372",
+    "uikName": "УИК №2734",
     "tikTvd": "2162000559352",
-    "tikName": "Черемшанская"
+    "tikName": "Черемшанская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2735,
     "uikTvd": "4164049131373",
+    "uikName": "УИК №2735",
     "tikTvd": "2162000559352",
-    "tikName": "Черемшанская"
+    "tikName": "Черемшанская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2736,
     "uikTvd": "4164049131374",
+    "uikName": "УИК №2736",
     "tikTvd": "2162000559352",
-    "tikName": "Черемшанская"
+    "tikName": "Черемшанская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2737,
     "uikTvd": "4164049131375",
+    "uikName": "УИК №2737",
     "tikTvd": "2162000559352",
-    "tikName": "Черемшанская"
+    "tikName": "Черемшанская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2738,
     "uikTvd": "4164049131376",
+    "uikName": "УИК №2738",
     "tikTvd": "2162000559352",
-    "tikName": "Черемшанская"
+    "tikName": "Черемшанская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2739,
     "uikTvd": "4164049131377",
+    "uikName": "УИК №2739",
     "tikTvd": "2162000559352",
-    "tikName": "Черемшанская"
+    "tikName": "Черемшанская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2740,
     "uikTvd": "4164049131378",
+    "uikName": "УИК №2740",
     "tikTvd": "2162000559352",
-    "tikName": "Черемшанская"
+    "tikName": "Черемшанская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2741,
     "uikTvd": "4164049131379",
+    "uikName": "УИК №2741",
     "tikTvd": "2162000559352",
-    "tikName": "Черемшанская"
+    "tikName": "Черемшанская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2742,
     "uikTvd": "4164049131380",
+    "uikName": "УИК №2742",
     "tikTvd": "2162000559352",
-    "tikName": "Черемшанская"
+    "tikName": "Черемшанская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2743,
     "uikTvd": "4164049131381",
+    "uikName": "УИК №2743",
     "tikTvd": "2162000559352",
-    "tikName": "Черемшанская"
+    "tikName": "Черемшанская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2744,
     "uikTvd": "4164049131382",
+    "uikName": "УИК №2744",
     "tikTvd": "2162000559352",
-    "tikName": "Черемшанская"
+    "tikName": "Черемшанская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2745,
     "uikTvd": "4164049131383",
+    "uikName": "УИК №2745",
     "tikTvd": "2162000559352",
-    "tikName": "Черемшанская"
+    "tikName": "Черемшанская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2746,
     "uikTvd": "4164049131384",
+    "uikName": "УИК №2746",
     "tikTvd": "2162000559352",
-    "tikName": "Черемшанская"
+    "tikName": "Черемшанская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2747,
     "uikTvd": "4164049131385",
+    "uikName": "УИК №2747",
     "tikTvd": "2162000559352",
-    "tikName": "Черемшанская"
+    "tikName": "Черемшанская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2748,
     "uikTvd": "4164049131386",
+    "uikName": "УИК №2748",
     "tikTvd": "2162000559352",
-    "tikName": "Черемшанская"
+    "tikName": "Черемшанская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2749,
     "uikTvd": "4164049131387",
+    "uikName": "УИК №2749",
     "tikTvd": "2162000559352",
-    "tikName": "Черемшанская"
+    "tikName": "Черемшанская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2750,
     "uikTvd": "4164049131388",
+    "uikName": "УИК №2750",
     "tikTvd": "2162000559352",
-    "tikName": "Черемшанская"
+    "tikName": "Черемшанская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2751,
     "uikTvd": "4164049131390",
+    "uikName": "УИК №2751",
     "tikTvd": "2162000559352",
-    "tikName": "Черемшанская"
+    "tikName": "Черемшанская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2752,
     "uikTvd": "4164049131391",
+    "uikName": "УИК №2752",
     "tikTvd": "2162000559352",
-    "tikName": "Черемшанская"
+    "tikName": "Черемшанская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2753,
     "uikTvd": "4164049131389",
+    "uikName": "УИК №2753",
     "tikTvd": "2162000559352",
-    "tikName": "Черемшанская"
+    "tikName": "Черемшанская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2754,
     "uikTvd": "4164049131392",
+    "uikName": "УИК №2754",
     "tikTvd": "2162000559352",
-    "tikName": "Черемшанская"
+    "tikName": "Черемшанская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2755,
     "uikTvd": "4164049131393",
+    "uikName": "УИК №2755",
     "tikTvd": "2162000559352",
-    "tikName": "Черемшанская"
+    "tikName": "Черемшанская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2756,
     "uikTvd": "4164049131394",
+    "uikName": "УИК №2756",
     "tikTvd": "2162000559352",
-    "tikName": "Черемшанская"
+    "tikName": "Черемшанская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2757,
     "uikTvd": "4164049131395",
+    "uikName": "УИК №2757",
     "tikTvd": "2162000559352",
-    "tikName": "Черемшанская"
+    "tikName": "Черемшанская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2758,
     "uikTvd": "4164049131399",
+    "uikName": "УИК №2758",
     "tikTvd": "2162000559352",
-    "tikName": "Черемшанская"
+    "tikName": "Черемшанская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2759,
     "uikTvd": "4164049131400",
+    "uikName": "УИК №2759",
     "tikTvd": "2162000559352",
-    "tikName": "Черемшанская"
+    "tikName": "Черемшанская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2760,
     "uikTvd": "4164049131401",
+    "uikName": "УИК №2760",
     "tikTvd": "2162000559352",
-    "tikName": "Черемшанская"
+    "tikName": "Черемшанская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2761,
     "uikTvd": "4164049131402",
+    "uikName": "УИК №2761",
     "tikTvd": "2162000559352",
-    "tikName": "Черемшанская"
+    "tikName": "Черемшанская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2762,
     "uikTvd": "4164049131403",
+    "uikName": "УИК №2762",
     "tikTvd": "2162000559352",
-    "tikName": "Черемшанская"
+    "tikName": "Черемшанская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2763,
     "uikTvd": "4164049131396",
+    "uikName": "УИК №2763",
     "tikTvd": "2162000559352",
-    "tikName": "Черемшанская"
+    "tikName": "Черемшанская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2764,
     "uikTvd": "4164049131397",
+    "uikName": "УИК №2764",
     "tikTvd": "2162000559352",
-    "tikName": "Черемшанская"
+    "tikName": "Черемшанская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2765,
     "uikTvd": "4164049131398",
+    "uikName": "УИК №2765",
     "tikTvd": "2162000559352",
-    "tikName": "Черемшанская"
+    "tikName": "Черемшанская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2766,
     "uikTvd": "4164050101567",
+    "uikName": "УИК №2766",
     "tikTvd": "2162000559351",
-    "tikName": "Чистопольская городская"
+    "tikName": "Чистопольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2767,
     "uikTvd": "4164050101568",
+    "uikName": "УИК №2767",
     "tikTvd": "2162000559351",
-    "tikName": "Чистопольская городская"
+    "tikName": "Чистопольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2768,
     "uikTvd": "4164050101569",
+    "uikName": "УИК №2768",
     "tikTvd": "2162000559351",
-    "tikName": "Чистопольская городская"
+    "tikName": "Чистопольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2769,
     "uikTvd": "4164050101570",
+    "uikName": "УИК №2769",
     "tikTvd": "2162000559351",
-    "tikName": "Чистопольская городская"
+    "tikName": "Чистопольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2770,
     "uikTvd": "4164050101571",
+    "uikName": "УИК №2770",
     "tikTvd": "2162000559351",
-    "tikName": "Чистопольская городская"
+    "tikName": "Чистопольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2771,
     "uikTvd": "4164050101572",
+    "uikName": "УИК №2771",
     "tikTvd": "2162000559351",
-    "tikName": "Чистопольская городская"
+    "tikName": "Чистопольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2772,
     "uikTvd": "4164050101573",
+    "uikName": "УИК №2772",
     "tikTvd": "2162000559351",
-    "tikName": "Чистопольская городская"
+    "tikName": "Чистопольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2773,
     "uikTvd": "4164050101574",
+    "uikName": "УИК №2773",
     "tikTvd": "2162000559351",
-    "tikName": "Чистопольская городская"
+    "tikName": "Чистопольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2774,
     "uikTvd": "4164050101575",
+    "uikName": "УИК №2774",
     "tikTvd": "2162000559351",
-    "tikName": "Чистопольская городская"
+    "tikName": "Чистопольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2775,
     "uikTvd": "4164050101576",
+    "uikName": "УИК №2775",
     "tikTvd": "2162000559351",
-    "tikName": "Чистопольская городская"
+    "tikName": "Чистопольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2776,
     "uikTvd": "4164050101577",
+    "uikName": "УИК №2776",
     "tikTvd": "2162000559351",
-    "tikName": "Чистопольская городская"
+    "tikName": "Чистопольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2777,
     "uikTvd": "4164050101578",
+    "uikName": "УИК №2777",
     "tikTvd": "2162000559351",
-    "tikName": "Чистопольская городская"
+    "tikName": "Чистопольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2778,
     "uikTvd": "4164050101579",
+    "uikName": "УИК №2778",
     "tikTvd": "2162000559351",
-    "tikName": "Чистопольская городская"
+    "tikName": "Чистопольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2779,
     "uikTvd": "4164050101580",
+    "uikName": "УИК №2779",
     "tikTvd": "2162000559351",
-    "tikName": "Чистопольская городская"
+    "tikName": "Чистопольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2780,
     "uikTvd": "4164050101581",
+    "uikName": "УИК №2780",
     "tikTvd": "2162000559351",
-    "tikName": "Чистопольская городская"
+    "tikName": "Чистопольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2781,
     "uikTvd": "4164050101582",
+    "uikName": "УИК №2781",
     "tikTvd": "2162000559351",
-    "tikName": "Чистопольская городская"
+    "tikName": "Чистопольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2782,
     "uikTvd": "4164050101583",
+    "uikName": "УИК №2782",
     "tikTvd": "2162000559351",
-    "tikName": "Чистопольская городская"
+    "tikName": "Чистопольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2783,
     "uikTvd": "4164050101584",
+    "uikName": "УИК №2783",
     "tikTvd": "2162000559351",
-    "tikName": "Чистопольская городская"
+    "tikName": "Чистопольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2784,
     "uikTvd": "4164050101585",
+    "uikName": "УИК №2784",
     "tikTvd": "2162000559351",
-    "tikName": "Чистопольская городская"
+    "tikName": "Чистопольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2785,
     "uikTvd": "4164050101586",
+    "uikName": "УИК №2785",
     "tikTvd": "2162000559351",
-    "tikName": "Чистопольская городская"
+    "tikName": "Чистопольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2786,
     "uikTvd": "4164050101587",
+    "uikName": "УИК №2786",
     "tikTvd": "2162000559351",
-    "tikName": "Чистопольская городская"
+    "tikName": "Чистопольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2787,
     "uikTvd": "4164050101588",
+    "uikName": "УИК №2787",
     "tikTvd": "2162000559351",
-    "tikName": "Чистопольская городская"
+    "tikName": "Чистопольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2788,
     "uikTvd": "4164050101589",
+    "uikName": "УИК №2788",
     "tikTvd": "2162000559351",
-    "tikName": "Чистопольская городская"
+    "tikName": "Чистопольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2789,
     "uikTvd": "4164050101590",
+    "uikName": "УИК №2789",
     "tikTvd": "2162000559351",
-    "tikName": "Чистопольская городская"
+    "tikName": "Чистопольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2790,
     "uikTvd": "4164050101591",
+    "uikName": "УИК №2790",
     "tikTvd": "2162000559351",
-    "tikName": "Чистопольская городская"
+    "tikName": "Чистопольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2791,
     "uikTvd": "4164050101592",
+    "uikName": "УИК №2791",
     "tikTvd": "2162000559351",
-    "tikName": "Чистопольская городская"
+    "tikName": "Чистопольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2792,
     "uikTvd": "4164050101593",
+    "uikName": "УИК №2792",
     "tikTvd": "2162000559351",
-    "tikName": "Чистопольская городская"
+    "tikName": "Чистопольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2793,
     "uikTvd": "4164050101594",
+    "uikName": "УИК №2793",
     "tikTvd": "2162000559351",
-    "tikName": "Чистопольская городская"
+    "tikName": "Чистопольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2794,
     "uikTvd": "4164050101595",
+    "uikName": "УИК №2794",
     "tikTvd": "2162000559351",
-    "tikName": "Чистопольская городская"
+    "tikName": "Чистопольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2795,
     "uikTvd": "4164050101596",
+    "uikName": "УИК №2795",
     "tikTvd": "2162000559351",
-    "tikName": "Чистопольская городская"
+    "tikName": "Чистопольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2796,
     "uikTvd": "4164050101597",
+    "uikName": "УИК №2796",
     "tikTvd": "2162000559351",
-    "tikName": "Чистопольская городская"
+    "tikName": "Чистопольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2797,
     "uikTvd": "4164060142100",
+    "uikName": "УИК №2797",
     "tikTvd": "2162000559340",
-    "tikName": "Чистопольская"
+    "tikName": "Чистопольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2798,
     "uikTvd": "4164060142101",
+    "uikName": "УИК №2798",
     "tikTvd": "2162000559340",
-    "tikName": "Чистопольская"
+    "tikName": "Чистопольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2799,
     "uikTvd": "4164060142102",
+    "uikName": "УИК №2799",
     "tikTvd": "2162000559340",
-    "tikName": "Чистопольская"
+    "tikName": "Чистопольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2800,
     "uikTvd": "4164060142103",
+    "uikName": "УИК №2800",
     "tikTvd": "2162000559340",
-    "tikName": "Чистопольская"
+    "tikName": "Чистопольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2801,
     "uikTvd": "4164060142104",
+    "uikName": "УИК №2801",
     "tikTvd": "2162000559340",
-    "tikName": "Чистопольская"
+    "tikName": "Чистопольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2802,
     "uikTvd": "4164060142105",
+    "uikName": "УИК №2802",
     "tikTvd": "2162000559340",
-    "tikName": "Чистопольская"
+    "tikName": "Чистопольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2803,
     "uikTvd": "4164060142106",
+    "uikName": "УИК №2803",
     "tikTvd": "2162000559340",
-    "tikName": "Чистопольская"
+    "tikName": "Чистопольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2804,
     "uikTvd": "4164060142107",
+    "uikName": "УИК №2804",
     "tikTvd": "2162000559340",
-    "tikName": "Чистопольская"
+    "tikName": "Чистопольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2805,
     "uikTvd": "4164060142108",
+    "uikName": "УИК №2805",
     "tikTvd": "2162000559340",
-    "tikName": "Чистопольская"
+    "tikName": "Чистопольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2806,
     "uikTvd": "4164060142109",
+    "uikName": "УИК №2806",
     "tikTvd": "2162000559340",
-    "tikName": "Чистопольская"
+    "tikName": "Чистопольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2807,
     "uikTvd": "4164060142110",
+    "uikName": "УИК №2807",
     "tikTvd": "2162000559340",
-    "tikName": "Чистопольская"
+    "tikName": "Чистопольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2808,
     "uikTvd": "4164060142111",
+    "uikName": "УИК №2808",
     "tikTvd": "2162000559340",
-    "tikName": "Чистопольская"
+    "tikName": "Чистопольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2809,
     "uikTvd": "4164060142112",
+    "uikName": "УИК №2809",
     "tikTvd": "2162000559340",
-    "tikName": "Чистопольская"
+    "tikName": "Чистопольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2810,
     "uikTvd": "4164060142113",
+    "uikName": "УИК №2810",
     "tikTvd": "2162000559340",
-    "tikName": "Чистопольская"
+    "tikName": "Чистопольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2811,
     "uikTvd": "4164060142114",
+    "uikName": "УИК №2811",
     "tikTvd": "2162000559340",
-    "tikName": "Чистопольская"
+    "tikName": "Чистопольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2812,
     "uikTvd": "4164060142115",
+    "uikName": "УИК №2812",
     "tikTvd": "2162000559340",
-    "tikName": "Чистопольская"
+    "tikName": "Чистопольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2813,
     "uikTvd": "4164060142116",
+    "uikName": "УИК №2813",
     "tikTvd": "2162000559340",
-    "tikName": "Чистопольская"
+    "tikName": "Чистопольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2814,
     "uikTvd": "4164060142117",
+    "uikName": "УИК №2814",
     "tikTvd": "2162000559340",
-    "tikName": "Чистопольская"
+    "tikName": "Чистопольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2815,
     "uikTvd": "4164060142118",
+    "uikName": "УИК №2815",
     "tikTvd": "2162000559340",
-    "tikName": "Чистопольская"
+    "tikName": "Чистопольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2816,
     "uikTvd": "4164060142119",
+    "uikName": "УИК №2816",
     "tikTvd": "2162000559340",
-    "tikName": "Чистопольская"
+    "tikName": "Чистопольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2817,
     "uikTvd": "4164060142120",
+    "uikName": "УИК №2817",
     "tikTvd": "2162000559340",
-    "tikName": "Чистопольская"
+    "tikName": "Чистопольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2818,
     "uikTvd": "4164060142121",
+    "uikName": "УИК №2818",
     "tikTvd": "2162000559340",
-    "tikName": "Чистопольская"
+    "tikName": "Чистопольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2819,
     "uikTvd": "4164060142122",
+    "uikName": "УИК №2819",
     "tikTvd": "2162000559340",
-    "tikName": "Чистопольская"
+    "tikName": "Чистопольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2820,
     "uikTvd": "4164060142123",
+    "uikName": "УИК №2820",
     "tikTvd": "2162000559340",
-    "tikName": "Чистопольская"
+    "tikName": "Чистопольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2821,
     "uikTvd": "4164060142124",
+    "uikName": "УИК №2821",
     "tikTvd": "2162000559340",
-    "tikName": "Чистопольская"
+    "tikName": "Чистопольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2822,
     "uikTvd": "4164060142125",
+    "uikName": "УИК №2822",
     "tikTvd": "2162000559340",
-    "tikName": "Чистопольская"
+    "tikName": "Чистопольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2823,
     "uikTvd": "4164060142126",
+    "uikName": "УИК №2823",
     "tikTvd": "2162000559340",
-    "tikName": "Чистопольская"
+    "tikName": "Чистопольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2824,
     "uikTvd": "4164060142127",
+    "uikName": "УИК №2824",
     "tikTvd": "2162000559340",
-    "tikName": "Чистопольская"
+    "tikName": "Чистопольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2825,
     "uikTvd": "4164060142128",
+    "uikName": "УИК №2825",
     "tikTvd": "2162000559340",
-    "tikName": "Чистопольская"
+    "tikName": "Чистопольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2826,
     "uikTvd": "4164060142129",
+    "uikName": "УИК №2826",
     "tikTvd": "2162000559340",
-    "tikName": "Чистопольская"
+    "tikName": "Чистопольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2827,
     "uikTvd": "4164060142130",
+    "uikName": "УИК №2827",
     "tikTvd": "2162000559340",
-    "tikName": "Чистопольская"
+    "tikName": "Чистопольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2828,
     "uikTvd": "4164060142131",
+    "uikName": "УИК №2828",
     "tikTvd": "2162000559340",
-    "tikName": "Чистопольская"
+    "tikName": "Чистопольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2829,
     "uikTvd": "4164060142132",
+    "uikName": "УИК №2829",
     "tikTvd": "2162000559340",
-    "tikName": "Чистопольская"
+    "tikName": "Чистопольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2830,
     "uikTvd": "4164060142133",
+    "uikName": "УИК №2830",
     "tikTvd": "2162000559340",
-    "tikName": "Чистопольская"
+    "tikName": "Чистопольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2831,
     "uikTvd": "4164060142134",
+    "uikName": "УИК №2831",
     "tikTvd": "2162000559340",
-    "tikName": "Чистопольская"
+    "tikName": "Чистопольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2832,
     "uikTvd": "4164060142135",
+    "uikName": "УИК №2832",
     "tikTvd": "2162000559340",
-    "tikName": "Чистопольская"
+    "tikName": "Чистопольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2833,
     "uikTvd": "4164051123343",
+    "uikName": "УИК №2833",
     "tikTvd": "2162000559350",
-    "tikName": "Ютазинская"
+    "tikName": "Ютазинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2834,
     "uikTvd": "4164051123344",
+    "uikName": "УИК №2834",
     "tikTvd": "2162000559350",
-    "tikName": "Ютазинская"
+    "tikName": "Ютазинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2835,
     "uikTvd": "4164051123345",
+    "uikName": "УИК №2835",
     "tikTvd": "2162000559350",
-    "tikName": "Ютазинская"
+    "tikName": "Ютазинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2836,
     "uikTvd": "4164051123346",
+    "uikName": "УИК №2836",
     "tikTvd": "2162000559350",
-    "tikName": "Ютазинская"
+    "tikName": "Ютазинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2837,
     "uikTvd": "4164051123347",
+    "uikName": "УИК №2837",
     "tikTvd": "2162000559350",
-    "tikName": "Ютазинская"
+    "tikName": "Ютазинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2838,
     "uikTvd": "4164051123348",
+    "uikName": "УИК №2838",
     "tikTvd": "2162000559350",
-    "tikName": "Ютазинская"
+    "tikName": "Ютазинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2839,
     "uikTvd": "4164051123349",
+    "uikName": "УИК №2839",
     "tikTvd": "2162000559350",
-    "tikName": "Ютазинская"
+    "tikName": "Ютазинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2840,
     "uikTvd": "4164051123350",
+    "uikName": "УИК №2840",
     "tikTvd": "2162000559350",
-    "tikName": "Ютазинская"
+    "tikName": "Ютазинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2841,
     "uikTvd": "4164051123351",
+    "uikName": "УИК №2841",
     "tikTvd": "2162000559350",
-    "tikName": "Ютазинская"
+    "tikName": "Ютазинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2842,
     "uikTvd": "4164051123352",
+    "uikName": "УИК №2842",
     "tikTvd": "2162000559350",
-    "tikName": "Ютазинская"
+    "tikName": "Ютазинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2843,
     "uikTvd": "4164051123353",
+    "uikName": "УИК №2843",
     "tikTvd": "2162000559350",
-    "tikName": "Ютазинская"
+    "tikName": "Ютазинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2844,
     "uikTvd": "4164051123354",
+    "uikName": "УИК №2844",
     "tikTvd": "2162000559350",
-    "tikName": "Ютазинская"
+    "tikName": "Ютазинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2845,
     "uikTvd": "4164051123355",
+    "uikName": "УИК №2845",
     "tikTvd": "2162000559350",
-    "tikName": "Ютазинская"
+    "tikName": "Ютазинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2846,
     "uikTvd": "4164051123356",
+    "uikName": "УИК №2846",
     "tikTvd": "2162000559350",
-    "tikName": "Ютазинская"
+    "tikName": "Ютазинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2847,
     "uikTvd": "4164051123357",
+    "uikName": "УИК №2847",
     "tikTvd": "2162000559350",
-    "tikName": "Ютазинская"
+    "tikName": "Ютазинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2848,
     "uikTvd": "4164051123358",
+    "uikName": "УИК №2848",
     "tikTvd": "2162000559350",
-    "tikName": "Ютазинская"
+    "tikName": "Ютазинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2849,
     "uikTvd": "4164051123359",
+    "uikName": "УИК №2849",
     "tikTvd": "2162000559350",
-    "tikName": "Ютазинская"
+    "tikName": "Ютазинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2850,
     "uikTvd": "4164051123360",
+    "uikName": "УИК №2850",
     "tikTvd": "2162000559350",
-    "tikName": "Ютазинская"
+    "tikName": "Ютазинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2851,
     "uikTvd": "4164051123361",
+    "uikName": "УИК №2851",
     "tikTvd": "2162000559350",
-    "tikName": "Ютазинская"
+    "tikName": "Ютазинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2852,
     "uikTvd": "4164051123362",
+    "uikName": "УИК №2852",
     "tikTvd": "2162000559350",
-    "tikName": "Ютазинская"
+    "tikName": "Ютазинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2853,
     "uikTvd": "4164051123363",
+    "uikName": "УИК №2853",
     "tikTvd": "2162000559350",
-    "tikName": "Ютазинская"
+    "tikName": "Ютазинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2854,
     "uikTvd": "4164051123364",
+    "uikName": "УИК №2854",
     "tikTvd": "2162000559350",
-    "tikName": "Ютазинская"
+    "tikName": "Ютазинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2855,
     "uikTvd": "4164051123365",
+    "uikName": "УИК №2855",
     "tikTvd": "2162000559350",
-    "tikName": "Ютазинская"
+    "tikName": "Ютазинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2856,
     "uikTvd": "4164051123366",
+    "uikName": "УИК №2856",
     "tikTvd": "2162000559350",
-    "tikName": "Ютазинская"
+    "tikName": "Ютазинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2857,
     "uikTvd": "4164051123367",
+    "uikName": "УИК №2857",
     "tikTvd": "2162000559350",
-    "tikName": "Ютазинская"
+    "tikName": "Ютазинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2858,
     "uikTvd": "4164051123368",
+    "uikName": "УИК №2858",
     "tikTvd": "2162000559350",
-    "tikName": "Ютазинская"
+    "tikName": "Ютазинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2859,
     "uikTvd": "4164051123369",
+    "uikName": "УИК №2859",
     "tikTvd": "2162000559350",
-    "tikName": "Ютазинская"
+    "tikName": "Ютазинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2860,
     "uikTvd": "4164051123370",
+    "uikName": "УИК №2860",
     "tikTvd": "2162000559350",
-    "tikName": "Ютазинская"
+    "tikName": "Ютазинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2861,
     "uikTvd": "4164051123371",
+    "uikName": "УИК №2861",
     "tikTvd": "2162000559350",
-    "tikName": "Ютазинская"
+    "tikName": "Ютазинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2862,
     "uikTvd": "4164051123372",
+    "uikName": "УИК №2862",
     "tikTvd": "2162000559350",
-    "tikName": "Ютазинская"
+    "tikName": "Ютазинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2863,
     "uikTvd": "4164051123373",
+    "uikName": "УИК №2863",
     "tikTvd": "2162000559350",
-    "tikName": "Ютазинская"
+    "tikName": "Ютазинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2864,
     "uikTvd": "4164051123374",
+    "uikName": "УИК №2864",
     "tikTvd": "2162000559350",
-    "tikName": "Ютазинская"
+    "tikName": "Ютазинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2865,
     "uikTvd": "4164031165420",
+    "uikName": "УИК №2865",
     "tikTvd": "2162000559371",
-    "tikName": "Лаишевская"
+    "tikName": "Лаишевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2866,
     "uikTvd": "4164031165421",
+    "uikName": "УИК №2866",
     "tikTvd": "2162000559371",
-    "tikName": "Лаишевская"
+    "tikName": "Лаишевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2867,
     "uikTvd": "4164031165422",
+    "uikName": "УИК №2867",
     "tikTvd": "2162000559371",
-    "tikName": "Лаишевская"
+    "tikName": "Лаишевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2868,
     "uikTvd": "4164031165423",
+    "uikName": "УИК №2868",
     "tikTvd": "2162000559371",
-    "tikName": "Лаишевская"
+    "tikName": "Лаишевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2869,
     "uikTvd": "4164031165424",
+    "uikName": "УИК №2869",
     "tikTvd": "2162000559371",
-    "tikName": "Лаишевская"
+    "tikName": "Лаишевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   },
   {
     "uikNumber": 2870,
     "uikTvd": "4164031165425",
+    "uikName": "УИК №2870",
     "tikTvd": "2162000559371",
-    "tikName": "Лаишевская"
+    "tikName": "Лаишевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": null
   }
 ] satisfies readonly UikTikRelation[];

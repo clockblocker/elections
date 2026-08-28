@@ -11,6 +11,9 @@ export const duma_2007_tic_233_region_75 = [
     "ballot": "party",
     "tikTvd": "2752000149019",
     "tikName": "Балейская городская",
+    "regionCode": "75",
+    "regionTvd": "100100021960335",
+    "regionName": "Читинская область",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 10428,
@@ -79,6 +82,9 @@ export const duma_2007_tic_233_region_75 = [
     "ballot": "party",
     "tikTvd": "2752000149020",
     "tikName": "Акшинская",
+    "regionCode": "75",
+    "regionTvd": "100100021960335",
+    "regionName": "Читинская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 8900,
@@ -148,6 +154,9 @@ export const duma_2007_tic_233_region_75 = [
     "ballot": "party",
     "tikTvd": "2752000149021",
     "tikName": "Кыринская",
+    "regionCode": "75",
+    "regionTvd": "100100021960335",
+    "regionName": "Читинская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 10945,
@@ -220,6 +229,9 @@ export const duma_2007_tic_233_region_75 = [
     "ballot": "party",
     "tikTvd": "2752000149022",
     "tikName": "Красночикойская",
+    "regionCode": "75",
+    "regionTvd": "100100021960335",
+    "regionName": "Читинская область",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 15615,
@@ -311,6 +323,9 @@ export const duma_2007_tic_233_region_75 = [
     "ballot": "party",
     "tikTvd": "2752000149023",
     "tikName": "Калганская",
+    "regionCode": "75",
+    "regionTvd": "100100021960335",
+    "regionName": "Читинская область",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 6942,
@@ -376,6 +391,9 @@ export const duma_2007_tic_233_region_75 = [
     "ballot": "party",
     "tikTvd": "2752000149024",
     "tikName": "Краснокаменская",
+    "regionCode": "75",
+    "regionTvd": "100100021960335",
+    "regionName": "Читинская область",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 49836,
@@ -462,6 +480,9 @@ export const duma_2007_tic_233_region_75 = [
     "ballot": "party",
     "tikTvd": "2752000149025",
     "tikName": "Карымская",
+    "regionCode": "75",
+    "regionTvd": "100100021960335",
+    "regionName": "Читинская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 24894,
@@ -547,6 +568,9 @@ export const duma_2007_tic_233_region_75 = [
     "ballot": "party",
     "tikTvd": "2752000149026",
     "tikName": "Забайкальская",
+    "regionCode": "75",
+    "regionTvd": "100100021960335",
+    "regionName": "Читинская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 15128,
@@ -616,6 +640,9 @@ export const duma_2007_tic_233_region_75 = [
     "ballot": "party",
     "tikTvd": "2752000149027",
     "tikName": "Каларская",
+    "regionCode": "75",
+    "regionTvd": "100100021960335",
+    "regionName": "Читинская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 7207,
@@ -685,6 +712,9 @@ export const duma_2007_tic_233_region_75 = [
     "ballot": "party",
     "tikTvd": "2752000149028",
     "tikName": "Газимуро-Заводская",
+    "regionCode": "75",
+    "regionTvd": "100100021960335",
+    "regionName": "Читинская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 7130,
@@ -762,6 +792,9 @@ export const duma_2007_tic_233_region_75 = [
     "ballot": "party",
     "tikTvd": "2752000149029",
     "tikName": "Тунгокоченская",
+    "regionCode": "75",
+    "regionTvd": "100100021960335",
+    "regionName": "Читинская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 10632,
@@ -836,6 +869,9 @@ export const duma_2007_tic_233_region_75 = [
     "ballot": "party",
     "tikTvd": "2752000149030",
     "tikName": "Тунгиро-Олекминская",
+    "regionCode": "75",
+    "regionTvd": "100100021960335",
+    "regionName": "Читинская область",
     "uikCount": 5,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 1048,
@@ -895,6 +931,9 @@ export const duma_2007_tic_233_region_75 = [
     "ballot": "party",
     "tikTvd": "2752000149031",
     "tikName": "Борзинская",
+    "regionCode": "75",
+    "regionTvd": "100100021960335",
+    "regionName": "Читинская область",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 38588,
@@ -988,6 +1027,9 @@ export const duma_2007_tic_233_region_75 = [
     "ballot": "party",
     "tikTvd": "2752000149032",
     "tikName": "Приаргунская",
+    "regionCode": "75",
+    "regionTvd": "100100021960335",
+    "regionName": "Читинская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 17350,
@@ -1070,6 +1112,9 @@ export const duma_2007_tic_233_region_75 = [
     "ballot": "party",
     "tikTvd": "2752000149033",
     "tikName": "Сретенская",
+    "regionCode": "75",
+    "regionTvd": "100100021960335",
+    "regionName": "Читинская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 17824,
@@ -1164,6 +1209,9 @@ export const duma_2007_tic_233_region_75 = [
     "ballot": "party",
     "tikTvd": "2752000149034",
     "tikName": "Петровск-Забайкальская",
+    "regionCode": "75",
+    "regionTvd": "100100021960335",
+    "regionName": "Читинская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 14577,
@@ -1241,6 +1289,9 @@ export const duma_2007_tic_233_region_75 = [
     "ballot": "party",
     "tikTvd": "2752000149035",
     "tikName": "Нерчинско-Заводская",
+    "regionCode": "75",
+    "regionTvd": "100100021960335",
+    "regionName": "Читинская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 8316,
@@ -1317,6 +1368,9 @@ export const duma_2007_tic_233_region_75 = [
     "ballot": "party",
     "tikTvd": "2752000149036",
     "tikName": "Ононская",
+    "regionCode": "75",
+    "regionTvd": "100100021960335",
+    "regionName": "Читинская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 8897,
@@ -1392,6 +1446,9 @@ export const duma_2007_tic_233_region_75 = [
     "ballot": "party",
     "tikTvd": "2752000149037",
     "tikName": "Нерчинская",
+    "regionCode": "75",
+    "regionTvd": "100100021960335",
+    "regionName": "Читинская область",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 18702,
@@ -1484,6 +1541,9 @@ export const duma_2007_tic_233_region_75 = [
     "ballot": "party",
     "tikTvd": "2752000149038",
     "tikName": "Оловяннинская",
+    "regionCode": "75",
+    "regionTvd": "100100021960335",
+    "regionName": "Читинская область",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 28643,
@@ -1577,6 +1637,9 @@ export const duma_2007_tic_233_region_75 = [
     "ballot": "party",
     "tikTvd": "2752000149039",
     "tikName": "Балейская",
+    "regionCode": "75",
+    "regionTvd": "100100021960335",
+    "regionName": "Читинская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 6503,
@@ -1654,6 +1717,9 @@ export const duma_2007_tic_233_region_75 = [
     "ballot": "party",
     "tikTvd": "2752000149040",
     "tikName": "Могочинская",
+    "regionCode": "75",
+    "regionTvd": "100100021960335",
+    "regionName": "Читинская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 18745,
@@ -1727,6 +1793,9 @@ export const duma_2007_tic_233_region_75 = [
     "ballot": "party",
     "tikTvd": "2752000149041",
     "tikName": "Петровск-Забайкальская городская",
+    "regionCode": "75",
+    "regionTvd": "100100021960335",
+    "regionName": "Читинская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 14429,
@@ -1802,6 +1871,9 @@ export const duma_2007_tic_233_region_75 = [
     "ballot": "party",
     "tikTvd": "2752000149042",
     "tikName": "Читинская",
+    "regionCode": "75",
+    "regionTvd": "100100021960335",
+    "regionName": "Читинская область",
     "uikCount": 54,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 45273,
@@ -1910,6 +1982,9 @@ export const duma_2007_tic_233_region_75 = [
     "ballot": "party",
     "tikTvd": "2752000149043",
     "tikName": "Шелопугинская",
+    "regionCode": "75",
+    "regionTvd": "100100021960335",
+    "regionName": "Читинская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 6637,
@@ -1986,6 +2061,9 @@ export const duma_2007_tic_233_region_75 = [
     "ballot": "party",
     "tikTvd": "2752000149044",
     "tikName": "Шилкинская",
+    "regionCode": "75",
+    "regionTvd": "100100021960335",
+    "regionName": "Читинская область",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 33798,
@@ -2086,6 +2164,9 @@ export const duma_2007_tic_233_region_75 = [
     "ballot": "party",
     "tikTvd": "2752000149045",
     "tikName": "ЗАТО п. Горный",
+    "regionCode": "75",
+    "regionTvd": "100100021960335",
+    "regionName": "Читинская область",
     "uikCount": 3,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 6266,
@@ -2143,6 +2224,9 @@ export const duma_2007_tic_233_region_75 = [
     "ballot": "party",
     "tikTvd": "2752000149047",
     "tikName": "Хилокская",
+    "regionCode": "75",
+    "regionTvd": "100100021960335",
+    "regionName": "Читинская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 24241,
@@ -2223,6 +2307,9 @@ export const duma_2007_tic_233_region_75 = [
     "ballot": "party",
     "tikTvd": "2752000149048",
     "tikName": "Чернышевская",
+    "regionCode": "75",
+    "regionTvd": "100100021960335",
+    "regionName": "Читинская область",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 24965,
@@ -2315,6 +2402,9 @@ export const duma_2007_tic_233_region_75 = [
     "ballot": "party",
     "tikTvd": "2752000149049",
     "tikName": "Александрово-Заводская",
+    "regionCode": "75",
+    "regionTvd": "100100021960335",
+    "regionName": "Читинская область",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 6959,
@@ -2396,6 +2486,9 @@ export const duma_2007_tic_233_region_75 = [
     "ballot": "party",
     "tikTvd": "2752000149050",
     "tikName": "Улетовская",
+    "regionCode": "75",
+    "regionTvd": "100100021960335",
+    "regionName": "Читинская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 15825,
@@ -2474,6 +2567,9 @@ export const duma_2007_tic_233_region_75 = [
     "ballot": "party",
     "tikTvd": "2752000149054",
     "tikName": "г. Чита, Железнодорожная",
+    "regionCode": "75",
+    "regionTvd": "100100021960335",
+    "regionName": "Читинская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 35468,
@@ -2543,6 +2639,9 @@ export const duma_2007_tic_233_region_75 = [
     "ballot": "party",
     "tikTvd": "2752000149055",
     "tikName": "г. Чита, Ингодинская",
+    "regionCode": "75",
+    "regionTvd": "100100021960335",
+    "regionName": "Читинская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 50022,
@@ -2625,6 +2724,9 @@ export const duma_2007_tic_233_region_75 = [
     "ballot": "party",
     "tikTvd": "2752000149056",
     "tikName": "г. Чита, Центральная",
+    "regionCode": "75",
+    "regionTvd": "100100021960335",
+    "regionName": "Читинская область",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 85826,
@@ -2720,6 +2822,9 @@ export const duma_2007_tic_233_region_75 = [
     "ballot": "party",
     "tikTvd": "2752000149057",
     "tikName": "г. Чита, Черновская",
+    "regionCode": "75",
+    "regionTvd": "100100021960335",
+    "regionName": "Читинская область",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 61068,

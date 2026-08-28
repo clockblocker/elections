@@ -11,6 +11,9 @@ export const president_2012_tic_227_region_0 = [
     "ballot": "presidential",
     "tikTvd": "100100032124922",
     "tikName": "Город Байконур (Республика Казахстан)",
+    "regionCode": "0",
+    "regionTvd": "100100032124922",
+    "regionName": "Город Байконур (Республика Казахстан)",
     "uikCount": 7,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 15116,
@@ -65,6 +68,9 @@ export const president_2012_tic_227_region_0 = [
     "ballot": "presidential",
     "tikTvd": "100100032124923",
     "tikName": "Территория за пределами РФ",
+    "regionCode": "0",
+    "regionTvd": "100100032124923",
+    "regionName": "Территория за пределами РФ",
     "uikCount": 378,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 459661,

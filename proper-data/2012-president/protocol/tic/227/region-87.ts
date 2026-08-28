@@ -11,6 +11,9 @@ export const president_2012_tic_227_region_87 = [
     "ballot": "presidential",
     "tikTvd": "2872000164337",
     "tikName": "Чукотская",
+    "regionCode": "87",
+    "regionTvd": "100100031793893",
+    "regionName": "Чукотский автономный округ",
     "uikCount": 6,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 2669,
@@ -64,6 +67,9 @@ export const president_2012_tic_227_region_87 = [
     "ballot": "presidential",
     "tikTvd": "2872000164338",
     "tikName": "Иультинская",
+    "regionCode": "87",
+    "regionTvd": "100100031793893",
+    "regionName": "Чукотский автономный округ",
     "uikCount": 9,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 3682,
@@ -120,6 +126,9 @@ export const president_2012_tic_227_region_87 = [
     "ballot": "presidential",
     "tikTvd": "2872000164339",
     "tikName": "Билибинская",
+    "regionCode": "87",
+    "regionTvd": "100100031793893",
+    "regionName": "Чукотский автономный округ",
     "uikCount": 9,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 6373,
@@ -176,6 +185,9 @@ export const president_2012_tic_227_region_87 = [
     "ballot": "presidential",
     "tikTvd": "2872000164340",
     "tikName": "Чаунская",
+    "regionCode": "87",
+    "regionTvd": "100100031793893",
+    "regionName": "Чукотский автономный округ",
     "uikCount": 7,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 4712,
@@ -230,6 +242,9 @@ export const president_2012_tic_227_region_87 = [
     "ballot": "presidential",
     "tikTvd": "2872000164341",
     "tikName": "Провиденская",
+    "regionCode": "87",
+    "regionTvd": "100100031793893",
+    "regionName": "Чукотский автономный округ",
     "uikCount": 6,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 2420,
@@ -283,6 +298,9 @@ export const president_2012_tic_227_region_87 = [
     "ballot": "presidential",
     "tikTvd": "2872000164342",
     "tikName": "Анадырская",
+    "regionCode": "87",
+    "regionTvd": "100100031793893",
+    "regionName": "Чукотский автономный округ",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 6245,
@@ -345,6 +363,9 @@ export const president_2012_tic_227_region_87 = [
     "ballot": "presidential",
     "tikTvd": "2872000164343",
     "tikName": "Анадырская городская",
+    "regionCode": "87",
+    "regionTvd": "100100031793893",
+    "regionName": "Чукотский автономный округ",
     "uikCount": 5,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9867,

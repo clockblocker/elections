@@ -2,15 +2,18 @@ from __future__ import annotations
 
 import argparse
 import concurrent.futures
+import io
 import json
 import re
 import time
 import unicodedata
 import urllib.parse
+import xml.etree.ElementTree as ET
 from collections import Counter, defaultdict
 from html.parser import HTMLParser
 from pathlib import Path
 from typing import Any
+from zipfile import BadZipFile, ZipFile
 
 try:
     from .common import decode_text, extract_tree_nodes, json_write
@@ -48,7 +51,18 @@ except ImportError:
 
 DEFAULT_RAW = Path("data/raw/gas-duma-2021")
 DEFAULT_REPORTS = Path("reports/generated/gas-duma-2021")
+DUMA_WINNERS_OFFICIAL_URL = (
+    "http://cikrf.ru/upload/decree-of-cec/61-467-8-pril.docx"
+)
+DUMA_WINNERS_ARCHIVE_URL = (
+    "https://web.archive.org/web/20210926045732id_/"
+    "http://www.cikrf.ru/upload/decree-of-cec/61-467-8-pril.docx"
+)
 OIK_BREADCRUMB_RE = re.compile(r"^ОИК\s*№\s*(\d+)$", re.IGNORECASE)
+DISTRICT_NUMBER_RE = re.compile(r"округ\s*№\s*(\d+)\s*$", re.IGNORECASE)
+WORD_NAMESPACE = {
+    "w": "http://schemas.openxmlformats.org/wordprocessingml/2006/main"
+}
 
 
 def _normalized_text(value: str) -> str:
@@ -192,8 +206,8 @@ def parse_candidate_registry(payload: bytes, source_url: str = "") -> dict[str, 
                 "district_number": int(district_text),
                 "nominating_entity": _normalized_gas_text(row[3]["text"]),
                 "registration_status": _normalized_text(row[6]["text"]),
-                "is_elected": _normalized_text(row[9]["text"]).casefold()
-                == "избр.",
+                "registry_election_status": _normalized_text(row[9]["text"]),
+                "is_elected": False,
             }
         )
     return {
@@ -204,6 +218,54 @@ def parse_candidate_registry(payload: bytes, source_url: str = "") -> dict[str, 
         "candidate_count": len(candidates),
         "district_numbers": sorted({item["district_number"] for item in candidates}),
         "candidates": candidates,
+    }
+
+
+def parse_official_winners(payload: bytes) -> dict[str, Any]:
+    """Parse the immutable 225-winner appendix to CEC Resolution 61/467-8."""
+    try:
+        with ZipFile(io.BytesIO(payload)) as archive:
+            root = ET.fromstring(archive.read("word/document.xml"))
+    except (BadZipFile, KeyError, ET.ParseError):
+        return {"valid_winner_registry": False, "winner_count": 0, "winners": []}
+    candidates: list[tuple[int, list[dict[str, Any]]]] = []
+    for table in root.findall(".//w:tbl", WORD_NAMESPACE):
+        rows: list[dict[str, Any]] = []
+        for row in table.findall("./w:tr", WORD_NAMESPACE):
+            paragraphs = []
+            for paragraph in row.findall(".//w:p", WORD_NAMESPACE):
+                text = _normalized_text(
+                    "".join(
+                        node.text or ""
+                        for node in paragraph.findall(".//w:t", WORD_NAMESPACE)
+                    )
+                )
+                if text:
+                    paragraphs.append(text)
+            if len(paragraphs) < 2:
+                continue
+            match = DISTRICT_NUMBER_RE.search(paragraphs[0])
+            if match:
+                rows.append(
+                    {
+                        "district_number": int(match.group(1)),
+                        "district_name": paragraphs[0],
+                        "full_name": paragraphs[1],
+                    }
+                )
+        if rows:
+            candidates.append((len(rows), rows))
+    winners = max(candidates, default=(0, []))[1]
+    numbers = [item["district_number"] for item in winners]
+    valid = (
+        len(winners) == 225
+        and len(set(numbers)) == 225
+        and set(numbers) == set(range(1, 226))
+    )
+    return {
+        "valid_winner_registry": valid,
+        "winner_count": len(winners),
+        "winners": winners,
     }
 
 
@@ -551,6 +613,24 @@ def plan(args: argparse.Namespace) -> int:
         candidate_registries=hierarchy.get("district_catalog"),
         include_oik=True,
     )
+    result["requests"].append(
+        {
+            "class": "election-winners-docx",
+            "report_type": "cec-resolution-61-467-8",
+            "entity_id": DUMA_VRN,
+            "region": "0",
+            "url": DUMA_WINNERS_ARCHIVE_URL,
+            "official_url": DUMA_WINNERS_OFFICIAL_URL,
+            "url_source": "official-wayback",
+        }
+    )
+    result["request_classes"] = dict(
+        sorted(Counter(item["class"] for item in result["requests"]).items())
+    )
+    result["url_sources"] = dict(
+        sorted(Counter(item["url_source"] for item in result["requests"]).items())
+    )
+    result["estimated_requests"] = len(result["requests"])
     result["rate"] = args.rate
     result["concurrency"] = args.concurrency
     result["raw_dir"] = str(args.raw_dir)
@@ -560,8 +640,9 @@ def plan(args: argparse.Namespace) -> int:
         "proper-data/2021-duma/protocol/{tic,uik}/{type}/"
         "region-{region}[-part-{batch}].ts"
     )
-    exact_links_complete = result["url_sources"].get(
-        "official-navigation", 0
+    exact_links_complete = sum(
+        result["url_sources"].get(kind, 0)
+        for kind in ("official-navigation", "official-wayback")
     ) == result["estimated_requests"]
     expected_district_requests = len(
         {
@@ -591,7 +672,7 @@ def plan(args: argparse.Namespace) -> int:
     )
     if result["ready"]:
         result["resume_command"] = (
-            "backend/.venv/bin/python proper-data/crawler/duma2021.py "
+            "proper-app/.venv/bin/python proper-data/crawler/duma2021.py "
             f"crawl --plan {args.output}"
         )
     else:
@@ -601,7 +682,7 @@ def plan(args: argparse.Namespace) -> int:
             else "official navigation report or candidate-registry links are incomplete; resume discovery"
         )
         result["resume_command"] = (
-            "backend/.venv/bin/python proper-data/crawler/duma2021.py discover --root-html data/raw/duma-2021-single-member-cec/index/a52134a1b6d1e88209d6.html --output reports/generated/gas-duma-2021/hierarchy.json"
+            "proper-app/.venv/bin/python proper-data/crawler/duma2021.py discover --root-html data/raw/duma-2021-single-member-cec/index/a52134a1b6d1e88209d6.html --output reports/generated/gas-duma-2021/hierarchy.json"
         )
     json_write(args.output, result)
     printable = {
@@ -632,6 +713,9 @@ def crawl(args: argparse.Namespace) -> int:
         )
     store, fetcher = _settings(args)
     requests = plan_data["requests"]
+    if args.request_class:
+        selected_classes = set(args.request_class)
+        requests = [item for item in requests if item["class"] in selected_classes]
     if args.only_failures:
         requests = [
             item
@@ -655,7 +739,17 @@ def crawl(args: argparse.Namespace) -> int:
         )
         classification = {}
         if record.get("body_path"):
-            if int(item["report_type"]) == 220:
+            if item.get("class") == "election-winners-docx":
+                classification = parse_official_winners(_body(store, record))
+                classification.update(
+                    {
+                        "valid_result": classification["valid_winner_registry"],
+                        "kind_matches_requested_type": True,
+                        "level": "election-winner-registry",
+                        "ballot": "winner-registry",
+                    }
+                )
+            elif int(item["report_type"]) == 220:
                 classification = parse_candidate_registry(
                     _body(store, record), str(record.get("final_url", item["url"]))
                 )
@@ -847,8 +941,47 @@ def build(args: argparse.Namespace) -> int:
     registry_candidates: defaultdict[int, list[dict[str, Any]]] = defaultdict(list)
     registry_sources: dict[int, dict[str, Any]] = {}
     candidate_registry_errors: list[dict[str, Any]] = []
+    winner_registry_errors: list[dict[str, Any]] = []
+    official_winners: dict[int, str] = {}
+    winner_registry_source: dict[str, Any] | None = None
     for observation in observations:
-        if int(observation.get("report_type", 0)) != 220:
+        if observation.get("class") != "election-winners-docx":
+            continue
+        if (
+            winner_registry_source is not None
+            or not observation.get("body_path")
+            or not observation.get("sha256")
+            or int(observation.get("status", 0)) != 200
+        ):
+            winner_registry_errors.append(
+                {"error": "duplicate-missing-or-unhashed-winner-registry-source"}
+            )
+            continue
+        parsed_winners = parse_official_winners(_body(store, observation))
+        if not parsed_winners["valid_winner_registry"]:
+            winner_registry_errors.append(
+                {
+                    "error": "invalid-winner-registry-source",
+                    "winner_count": parsed_winners["winner_count"],
+                }
+            )
+            continue
+        official_winners = {
+            int(item["district_number"]): _normalized_text(item["full_name"])
+            for item in parsed_winners["winners"]
+        }
+        winner_registry_source = {
+            "official_url": observation.get("official_url")
+            or DUMA_WINNERS_OFFICIAL_URL,
+            "final_url": observation.get("final_url"),
+            "sha256": observation["sha256"],
+            "retrieved_at": observation.get("retrieved_at"),
+            "provenance": observation.get("provenance"),
+            "resolution": "61/467-8",
+            "resolution_date": "2021-09-24",
+        }
+    for observation in observations:
+        if str(observation.get("report_type", "")) != "220":
             continue
         district_number = int(observation.get("district_number", 0))
         if (
@@ -901,6 +1034,33 @@ def build(args: argparse.Namespace) -> int:
             "retrieved_at": observation.get("retrieved_at"),
             "provenance": observation.get("provenance"),
         }
+    winner_candidate_by_district: dict[int, str] = {}
+    for district_number, winner_name in sorted(official_winners.items()):
+        matched = [
+            item
+            for item in registry_candidates.get(district_number, [])
+            if _normalized_text(item["full_name"]) == winner_name
+            and item["registration_status"].casefold() == "зарегистрирован"
+        ]
+        if len(matched) != 1:
+            winner_registry_errors.append(
+                {
+                    "district_number": district_number,
+                    "full_name": winner_name,
+                    "matched_candidate_vibids": [
+                        item["candidate_vibid"] for item in matched
+                    ],
+                    "error": "immutable-winner-not-matched-to-one-registered-candidate",
+                }
+            )
+            continue
+        winner_candidate_by_district[district_number] = str(
+            matched[0]["candidate_vibid"]
+        )
+    for district_number, candidates in registry_candidates.items():
+        winner_vibid = winner_candidate_by_district.get(district_number)
+        for candidate in candidates:
+            candidate["is_elected"] = candidate["candidate_vibid"] == winner_vibid
     registered_by_name: dict[tuple[int, str], str] = {}
     candidate_identity_errors: list[dict[str, Any]] = []
     for district_number, candidates in sorted(registry_candidates.items()):
@@ -949,6 +1109,8 @@ def build(args: argparse.Namespace) -> int:
     }
     tik_protocols: defaultdict[str, dict[str, Any]] = defaultdict(dict)
     for observation in observations:
+        if observation.get("class") == "election-winners-docx":
+            continue
         if args.tik and str(
             observation.get("tik_tvd") or observation.get("entity_id")
         ) not in set(args.tik):
@@ -1040,7 +1202,10 @@ def build(args: argparse.Namespace) -> int:
             "oik_tvd": tik_relation.get("oik_tvd"),
         }
         normalized = [
-            {"accounting": record["accounting"], "votes": record[f"{kind}_votes"]}
+            {
+                "accounting": record["accounting"],
+                "votes": paired[str(record["uik_tvd"])][f"{kind}_votes"],
+            }
             for record in records
         ]
         failures.extend(
@@ -1187,13 +1352,18 @@ def build(args: argparse.Namespace) -> int:
                     "error": "official-winner-disagrees-with-unique-highest-total",
                 }
             )
-        if candidates and district_number in registry_sources:
+        if (
+            candidates
+            and district_number in registry_sources
+            and winner_registry_source is not None
+        ):
             district_catalog.append(
                 {
                     **seed,
                     "winner_candidate_vibid": winner_vibid,
                     "candidates": candidates,
                     "source": registry_sources[district_number],
+                    "winner_source": winner_registry_source,
                 }
             )
     identity_gate = (
@@ -1218,7 +1388,8 @@ def build(args: argparse.Namespace) -> int:
         "every_tik_and_uik_assigned_to_one_district": assignment_gate,
         "every_result_candidate_matched_to_registered_official_candidate": not candidate_identity_errors,
         "exactly_one_official_elected_candidate_per_district": not elected_errors
-        and len(registry_candidates) == 225,
+        and not winner_registry_errors
+        and len(winner_candidate_by_district) == 225,
         "official_winner_agrees_with_unique_highest_district_vote_total": not winner_errors
         and len(district_vote_totals) == 225,
         "no_missing_or_unhashed_type_220_source": source_gate,
@@ -1254,6 +1425,7 @@ def build(args: argparse.Namespace) -> int:
         "district_gate_errors": {
             "candidate_registry": candidate_registry_errors,
             "candidate_identity": candidate_identity_errors,
+            "winner_registry": winner_registry_errors,
             "relation_assignment": relation_assignment_errors,
             "elected": elected_errors,
             "winner": winner_errors,
@@ -1501,6 +1673,7 @@ def parser() -> argparse.ArgumentParser:
     command.set_defaults(func=crawl)
     command.add_argument("--plan", type=Path, required=True)
     command.add_argument("--only-failures", action="store_true")
+    command.add_argument("--request-class", action="append")
     command.add_argument("--progress-every", type=int, default=100)
     command.add_argument("--report", type=Path, default=DEFAULT_REPORTS / "crawl.json")
     command = sub.add_parser("validate")

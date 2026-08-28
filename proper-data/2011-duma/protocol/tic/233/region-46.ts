@@ -11,6 +11,9 @@ export const duma_2011_tic_233_region_46 = [
     "ballot": "party",
     "tikTvd": "2462000321590",
     "tikName": "Щигровская городская",
+    "regionCode": "46",
+    "regionTvd": "100100028713387",
+    "regionName": "Курская область",
     "uikCount": 10,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 15257,
@@ -70,6 +73,9 @@ export const duma_2011_tic_233_region_46 = [
     "ballot": "party",
     "tikTvd": "2462000321591",
     "tikName": "Льговская городская",
+    "regionCode": "46",
+    "regionTvd": "100100028713387",
+    "regionName": "Курская область",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 16360,
@@ -130,6 +136,9 @@ export const duma_2011_tic_233_region_46 = [
     "ballot": "party",
     "tikTvd": "2462000321592",
     "tikName": "Курчатовская городская",
+    "regionCode": "46",
+    "regionTvd": "100100028713387",
+    "regionName": "Курская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 36287,
@@ -199,6 +208,9 @@ export const duma_2011_tic_233_region_46 = [
     "ballot": "party",
     "tikTvd": "2462000321593",
     "tikName": "Железногорская",
+    "regionCode": "46",
+    "regionTvd": "100100028713387",
+    "regionName": "Курская область",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 14163,
@@ -275,6 +287,9 @@ export const duma_2011_tic_233_region_46 = [
     "ballot": "party",
     "tikTvd": "2462000321594",
     "tikName": "Щигровская",
+    "regionCode": "46",
+    "regionTvd": "100100028713387",
+    "regionName": "Курская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 9739,
@@ -349,6 +364,9 @@ export const duma_2011_tic_233_region_46 = [
     "ballot": "party",
     "tikTvd": "2462000321595",
     "tikName": "Черемисиновская",
+    "regionCode": "46",
+    "regionTvd": "100100028713387",
+    "regionName": "Курская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 8676,
@@ -422,6 +440,9 @@ export const duma_2011_tic_233_region_46 = [
     "ballot": "party",
     "tikTvd": "2462000321596",
     "tikName": "Хомутовская",
+    "regionCode": "46",
+    "regionTvd": "100100028713387",
+    "regionName": "Курская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 10131,
@@ -501,6 +522,9 @@ export const duma_2011_tic_233_region_46 = [
     "ballot": "party",
     "tikTvd": "2462000321597",
     "tikName": "Фатежская",
+    "regionCode": "46",
+    "regionTvd": "100100028713387",
+    "regionName": "Курская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 15008,
@@ -581,6 +605,9 @@ export const duma_2011_tic_233_region_46 = [
     "ballot": "party",
     "tikTvd": "2462000321598",
     "tikName": "Тимская",
+    "regionCode": "46",
+    "regionTvd": "100100028713387",
+    "regionName": "Курская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 9798,
@@ -656,6 +683,9 @@ export const duma_2011_tic_233_region_46 = [
     "ballot": "party",
     "tikTvd": "2462000321599",
     "tikName": "Cуджанская",
+    "regionCode": "46",
+    "regionTvd": "100100028713387",
+    "regionName": "Курская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 23406,
@@ -739,6 +769,9 @@ export const duma_2011_tic_233_region_46 = [
     "ballot": "party",
     "tikTvd": "2462000321600",
     "tikName": "Солнцевская",
+    "regionCode": "46",
+    "regionTvd": "100100028713387",
+    "regionName": "Курская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 12937,
@@ -816,6 +849,9 @@ export const duma_2011_tic_233_region_46 = [
     "ballot": "party",
     "tikTvd": "2462000321601",
     "tikName": "Советская",
+    "regionCode": "46",
+    "regionTvd": "100100028713387",
+    "regionName": "Курская область",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 16812,
@@ -904,6 +940,9 @@ export const duma_2011_tic_233_region_46 = [
     "ballot": "party",
     "tikTvd": "2462000321602",
     "tikName": "Рыльская",
+    "regionCode": "46",
+    "regionTvd": "100100028713387",
+    "regionName": "Курская область",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 29185,
@@ -999,6 +1038,9 @@ export const duma_2011_tic_233_region_46 = [
     "ballot": "party",
     "tikTvd": "2462000321603",
     "tikName": "Пристенская",
+    "regionCode": "46",
+    "regionTvd": "100100028713387",
+    "regionName": "Курская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 14040,
@@ -1077,6 +1119,9 @@ export const duma_2011_tic_233_region_46 = [
     "ballot": "party",
     "tikTvd": "2462000321604",
     "tikName": "Поныровская",
+    "regionCode": "46",
+    "regionTvd": "100100028713387",
+    "regionName": "Курская область",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 8727,
@@ -1143,6 +1188,9 @@ export const duma_2011_tic_233_region_46 = [
     "ballot": "party",
     "tikTvd": "2462000321605",
     "tikName": "Октябрьская",
+    "regionCode": "46",
+    "regionTvd": "100100028713387",
+    "regionName": "Курская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 18387,
@@ -1218,6 +1266,9 @@ export const duma_2011_tic_233_region_46 = [
     "ballot": "party",
     "tikTvd": "2462000321606",
     "tikName": "Обоянская",
+    "regionCode": "46",
+    "regionTvd": "100100028713387",
+    "regionName": "Курская область",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 26831,
@@ -1311,6 +1362,9 @@ export const duma_2011_tic_233_region_46 = [
     "ballot": "party",
     "tikTvd": "2462000321607",
     "tikName": "Медвенская",
+    "regionCode": "46",
+    "regionTvd": "100100028713387",
+    "regionName": "Курская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 14863,
@@ -1382,6 +1436,9 @@ export const duma_2011_tic_233_region_46 = [
     "ballot": "party",
     "tikTvd": "2462000321608",
     "tikName": "Мантуровская",
+    "regionCode": "46",
+    "regionTvd": "100100028713387",
+    "regionName": "Курская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 10989,
@@ -1452,6 +1509,9 @@ export const duma_2011_tic_233_region_46 = [
     "ballot": "party",
     "tikTvd": "2462000321609",
     "tikName": "Льговская",
+    "regionCode": "46",
+    "regionTvd": "100100028713387",
+    "regionName": "Курская область",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 12633,
@@ -1543,6 +1603,9 @@ export const duma_2011_tic_233_region_46 = [
     "ballot": "party",
     "tikTvd": "2462000321610",
     "tikName": "Курчатовская",
+    "regionCode": "46",
+    "regionTvd": "100100028713387",
+    "regionName": "Курская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 13680,
@@ -1618,6 +1681,9 @@ export const duma_2011_tic_233_region_46 = [
     "ballot": "party",
     "tikTvd": "2462000321611",
     "tikName": "Курская",
+    "regionCode": "46",
+    "regionTvd": "100100028713387",
+    "regionName": "Курская область",
     "uikCount": 60,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 43279,
@@ -1727,6 +1793,9 @@ export const duma_2011_tic_233_region_46 = [
     "ballot": "party",
     "tikTvd": "2462000321612",
     "tikName": "Курск, Центральная",
+    "regionCode": "46",
+    "regionTvd": "100100028713387",
+    "regionName": "Курская область",
     "uikCount": 103,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 173710,
@@ -1879,6 +1948,9 @@ export const duma_2011_tic_233_region_46 = [
     "ballot": "party",
     "tikTvd": "2462000321613",
     "tikName": "Курск, Сеймская",
+    "regionCode": "46",
+    "regionTvd": "100100028713387",
+    "regionName": "Курская область",
     "uikCount": 66,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 122647,
@@ -1994,6 +2066,9 @@ export const duma_2011_tic_233_region_46 = [
     "ballot": "party",
     "tikTvd": "2462000321614",
     "tikName": "Курск, Железнодорожная",
+    "regionCode": "46",
+    "regionTvd": "100100028713387",
+    "regionName": "Курская область",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 56641,
@@ -2075,6 +2150,9 @@ export const duma_2011_tic_233_region_46 = [
     "ballot": "party",
     "tikTvd": "2462000321615",
     "tikName": "Кореневская",
+    "regionCode": "46",
+    "regionTvd": "100100028713387",
+    "regionName": "Курская область",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 14904,
@@ -2151,6 +2229,9 @@ export const duma_2011_tic_233_region_46 = [
     "ballot": "party",
     "tikTvd": "2462000321616",
     "tikName": "Конышевская",
+    "regionCode": "46",
+    "regionTvd": "100100028713387",
+    "regionName": "Курская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 8988,
@@ -2231,6 +2312,9 @@ export const duma_2011_tic_233_region_46 = [
     "ballot": "party",
     "tikTvd": "2462000321617",
     "tikName": "Касторенская",
+    "regionCode": "46",
+    "regionTvd": "100100028713387",
+    "regionName": "Курская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 16615,
@@ -2314,6 +2398,9 @@ export const duma_2011_tic_233_region_46 = [
     "ballot": "party",
     "tikTvd": "2462000321618",
     "tikName": "Золотухинская",
+    "regionCode": "46",
+    "regionTvd": "100100028713387",
+    "regionName": "Курская область",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 17796,
@@ -2398,6 +2485,9 @@ export const duma_2011_tic_233_region_46 = [
     "ballot": "party",
     "tikTvd": "2462000321619",
     "tikName": "Железногорская городская",
+    "regionCode": "46",
+    "regionTvd": "100100028713387",
+    "regionName": "Курская область",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 82045,
@@ -2490,6 +2580,9 @@ export const duma_2011_tic_233_region_46 = [
     "ballot": "party",
     "tikTvd": "2462000321620",
     "tikName": "Дмитриевская",
+    "regionCode": "46",
+    "regionTvd": "100100028713387",
+    "regionName": "Курская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 14844,
@@ -2568,6 +2661,9 @@ export const duma_2011_tic_233_region_46 = [
     "ballot": "party",
     "tikTvd": "2462000321621",
     "tikName": "Горшеченская",
+    "regionCode": "46",
+    "regionTvd": "100100028713387",
+    "regionName": "Курская область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 14334,
@@ -2653,6 +2749,9 @@ export const duma_2011_tic_233_region_46 = [
     "ballot": "party",
     "tikTvd": "2462000321622",
     "tikName": "Глушковская",
+    "regionCode": "46",
+    "regionTvd": "100100028713387",
+    "regionName": "Курская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 19364,
@@ -2728,6 +2827,9 @@ export const duma_2011_tic_233_region_46 = [
     "ballot": "party",
     "tikTvd": "2462000321623",
     "tikName": "Большесолдатская",
+    "regionCode": "46",
+    "regionTvd": "100100028713387",
+    "regionName": "Курская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 10204,
@@ -2801,6 +2903,9 @@ export const duma_2011_tic_233_region_46 = [
     "ballot": "party",
     "tikTvd": "2462000321624",
     "tikName": "Беловская",
+    "regionCode": "46",
+    "regionTvd": "100100028713387",
+    "regionName": "Курская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 15795,

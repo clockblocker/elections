@@ -11,6 +11,14 @@ export const duma_2016_tic_464_region_29 = [
     "ballot": "single-member",
     "tikTvd": "2292000756625",
     "tikName": "Плесецкая",
+    "regionCode": "29",
+    "regionTvd": "100100067795944",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100067795945",
+      "oikName": "Архангельская область – Архангельский"
+    },
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 36387,
@@ -97,6 +105,14 @@ export const duma_2016_tic_464_region_29 = [
     "ballot": "single-member",
     "tikTvd": "2292000756626",
     "tikName": "Онежская",
+    "regionCode": "29",
+    "regionTvd": "100100067795944",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100067795945",
+      "oikName": "Архангельская область – Архангельский"
+    },
     "uikCount": 41,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 27274,
@@ -189,6 +205,14 @@ export const duma_2016_tic_464_region_29 = [
     "ballot": "single-member",
     "tikTvd": "2292000756627",
     "tikName": "Няндомская",
+    "regionCode": "29",
+    "regionTvd": "100100067795944",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100067795945",
+      "oikName": "Архангельская область – Архангельский"
+    },
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 24069,
@@ -269,6 +293,14 @@ export const duma_2016_tic_464_region_29 = [
     "ballot": "single-member",
     "tikTvd": "2292000756628",
     "tikName": "Коношская",
+    "regionCode": "29",
+    "regionTvd": "100100067795944",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100067795945",
+      "oikName": "Архангельская область – Архангельский"
+    },
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 19965,
@@ -352,6 +384,14 @@ export const duma_2016_tic_464_region_29 = [
     "ballot": "single-member",
     "tikTvd": "2292000756629",
     "tikName": "Каргопольская",
+    "regionCode": "29",
+    "regionTvd": "100100067795944",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100067795945",
+      "oikName": "Архангельская область – Архангельский"
+    },
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 15492,
@@ -436,6 +476,14 @@ export const duma_2016_tic_464_region_29 = [
     "ballot": "single-member",
     "tikTvd": "2292000756630",
     "tikName": "Вельская",
+    "regionCode": "29",
+    "regionTvd": "100100067795944",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100067795945",
+      "oikName": "Архангельская область – Архангельский"
+    },
     "uikCount": 63,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 44220,
@@ -550,6 +598,14 @@ export const duma_2016_tic_464_region_29 = [
     "ballot": "single-member",
     "tikTvd": "2292000756631",
     "tikName": "Северодвинская городская № 2",
+    "regionCode": "29",
+    "regionTvd": "100100067795944",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100067795945",
+      "oikName": "Архангельская область – Архангельский"
+    },
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 76289,
@@ -637,6 +693,14 @@ export const duma_2016_tic_464_region_29 = [
     "ballot": "single-member",
     "tikTvd": "2292000756632",
     "tikName": "Северодвинская городская № 1",
+    "regionCode": "29",
+    "regionTvd": "100100067795944",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100067795945",
+      "oikName": "Архангельская область – Архангельский"
+    },
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 76094,
@@ -725,6 +789,14 @@ export const duma_2016_tic_464_region_29 = [
     "ballot": "single-member",
     "tikTvd": "2292000756633",
     "tikName": "Архангельск, Соломбальская",
+    "regionCode": "29",
+    "regionTvd": "100100067795944",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100067795945",
+      "oikName": "Архангельская область – Архангельский"
+    },
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 65308,
@@ -816,6 +888,14 @@ export const duma_2016_tic_464_region_29 = [
     "ballot": "single-member",
     "tikTvd": "2292000756634",
     "tikName": "Архангельск, Октябрьская",
+    "regionCode": "29",
+    "regionTvd": "100100067795944",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100067795945",
+      "oikName": "Архангельская область – Архангельский"
+    },
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 66370,
@@ -903,6 +983,14 @@ export const duma_2016_tic_464_region_29 = [
     "ballot": "single-member",
     "tikTvd": "2292000756635",
     "tikName": "Приморская - 72",
+    "regionCode": "29",
+    "regionTvd": "100100067795944",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100067795945",
+      "oikName": "Архангельская область – Архангельский"
+    },
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 7793,
@@ -970,6 +1058,14 @@ export const duma_2016_tic_464_region_29 = [
     "ballot": "single-member",
     "tikTvd": "2292000756637",
     "tikName": "Шенкурская",
+    "regionCode": "29",
+    "regionTvd": "100100067795944",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 73,
+      "oikTvd": "100100067795946",
+      "oikName": "Архангельская область – Котласский"
+    },
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 12895,
@@ -1051,6 +1147,14 @@ export const duma_2016_tic_464_region_29 = [
     "ballot": "single-member",
     "tikTvd": "2292000756638",
     "tikName": "Холмогорская",
+    "regionCode": "29",
+    "regionTvd": "100100067795944",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 73,
+      "oikTvd": "100100067795946",
+      "oikName": "Архангельская область – Котласский"
+    },
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 21041,
@@ -1137,6 +1241,14 @@ export const duma_2016_tic_464_region_29 = [
     "ballot": "single-member",
     "tikTvd": "2292000756639",
     "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100067795944",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 73,
+      "oikTvd": "100100067795946",
+      "oikName": "Архангельская область – Котласский"
+    },
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 25611,
@@ -1224,6 +1336,14 @@ export const duma_2016_tic_464_region_29 = [
     "ballot": "single-member",
     "tikTvd": "2292000756640",
     "tikName": "Приморская - 73",
+    "regionCode": "29",
+    "regionTvd": "100100067795944",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 73,
+      "oikTvd": "100100067795946",
+      "oikName": "Архангельская область – Котласский"
+    },
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 14951,
@@ -1298,6 +1418,14 @@ export const duma_2016_tic_464_region_29 = [
     "ballot": "single-member",
     "tikTvd": "2292000756641",
     "tikName": "Пинежская",
+    "regionCode": "29",
+    "regionTvd": "100100067795944",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 73,
+      "oikTvd": "100100067795946",
+      "oikName": "Архангельская область – Котласский"
+    },
     "uikCount": 43,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 23042,
@@ -1391,6 +1519,14 @@ export const duma_2016_tic_464_region_29 = [
     "ballot": "single-member",
     "tikTvd": "2292000756642",
     "tikName": "Мезенская",
+    "regionCode": "29",
+    "regionTvd": "100100067795944",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 73,
+      "oikTvd": "100100067795946",
+      "oikName": "Архангельская область – Котласский"
+    },
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 9387,
@@ -1460,6 +1596,14 @@ export const duma_2016_tic_464_region_29 = [
     "ballot": "single-member",
     "tikTvd": "2292000756643",
     "tikName": "Лешуконская",
+    "regionCode": "29",
+    "regionTvd": "100100067795944",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 73,
+      "oikTvd": "100100067795946",
+      "oikName": "Архангельская область – Котласский"
+    },
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 7428,
@@ -1532,6 +1676,14 @@ export const duma_2016_tic_464_region_29 = [
     "ballot": "single-member",
     "tikTvd": "2292000756644",
     "tikName": "Ленская",
+    "regionCode": "29",
+    "regionTvd": "100100067795944",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 73,
+      "oikTvd": "100100067795946",
+      "oikName": "Архангельская область – Котласский"
+    },
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 10943,
@@ -1603,6 +1755,14 @@ export const duma_2016_tic_464_region_29 = [
     "ballot": "single-member",
     "tikTvd": "2292000756645",
     "tikName": "Красноборская",
+    "regionCode": "29",
+    "regionTvd": "100100067795944",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 73,
+      "oikTvd": "100100067795946",
+      "oikName": "Архангельская область – Котласский"
+    },
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 11783,
@@ -1673,6 +1833,14 @@ export const duma_2016_tic_464_region_29 = [
     "ballot": "single-member",
     "tikTvd": "2292000756646",
     "tikName": "Котласская",
+    "regionCode": "29",
+    "regionTvd": "100100067795944",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 73,
+      "oikTvd": "100100067795946",
+      "oikName": "Архангельская область – Котласский"
+    },
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 16326,
@@ -1743,6 +1911,14 @@ export const duma_2016_tic_464_region_29 = [
     "ballot": "single-member",
     "tikTvd": "2292000756647",
     "tikName": "Виноградовская",
+    "regionCode": "29",
+    "regionTvd": "100100067795944",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 73,
+      "oikTvd": "100100067795946",
+      "oikName": "Архангельская область – Котласский"
+    },
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 14684,
@@ -1816,6 +1992,14 @@ export const duma_2016_tic_464_region_29 = [
     "ballot": "single-member",
     "tikTvd": "2292000756648",
     "tikName": "Вилегодская",
+    "regionCode": "29",
+    "regionTvd": "100100067795944",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 73,
+      "oikTvd": "100100067795946",
+      "oikName": "Архангельская область – Котласский"
+    },
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 9608,
@@ -1884,6 +2068,14 @@ export const duma_2016_tic_464_region_29 = [
     "ballot": "single-member",
     "tikTvd": "2292000756649",
     "tikName": "Верхнетоемская",
+    "regionCode": "29",
+    "regionTvd": "100100067795944",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 73,
+      "oikTvd": "100100067795946",
+      "oikName": "Архангельская область – Котласский"
+    },
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 15029,
@@ -1957,6 +2149,14 @@ export const duma_2016_tic_464_region_29 = [
     "ballot": "single-member",
     "tikTvd": "2292000756650",
     "tikName": "Новая Земля",
+    "regionCode": "29",
+    "regionTvd": "100100067795944",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 73,
+      "oikTvd": "100100067795946",
+      "oikName": "Архангельская область – Котласский"
+    },
     "uikCount": 6,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1127,
@@ -2013,6 +2213,14 @@ export const duma_2016_tic_464_region_29 = [
     "ballot": "single-member",
     "tikTvd": "2292000756651",
     "tikName": "Новодвинская городская",
+    "regionCode": "29",
+    "regionTvd": "100100067795944",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 73,
+      "oikTvd": "100100067795946",
+      "oikName": "Архангельская область – Котласский"
+    },
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 31360,
@@ -2077,6 +2285,14 @@ export const duma_2016_tic_464_region_29 = [
     "ballot": "single-member",
     "tikTvd": "2292000756652",
     "tikName": "Мирнинская городская",
+    "regionCode": "29",
+    "regionTvd": "100100067795944",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 73,
+      "oikTvd": "100100067795946",
+      "oikName": "Архангельская область – Котласский"
+    },
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 18354,
@@ -2144,6 +2360,14 @@ export const duma_2016_tic_464_region_29 = [
     "ballot": "single-member",
     "tikTvd": "2292000756653",
     "tikName": "Котласская городская",
+    "regionCode": "29",
+    "regionTvd": "100100067795944",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 73,
+      "oikTvd": "100100067795946",
+      "oikName": "Архангельская область – Котласский"
+    },
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 57793,
@@ -2225,6 +2449,14 @@ export const duma_2016_tic_464_region_29 = [
     "ballot": "single-member",
     "tikTvd": "2292000756654",
     "tikName": "Коряжемская городская",
+    "regionCode": "29",
+    "regionTvd": "100100067795944",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 73,
+      "oikTvd": "100100067795946",
+      "oikName": "Архангельская область – Котласский"
+    },
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 30811,
@@ -2295,6 +2527,14 @@ export const duma_2016_tic_464_region_29 = [
     "ballot": "single-member",
     "tikTvd": "2292000756655",
     "tikName": "Архангельск, Южная",
+    "regionCode": "29",
+    "regionTvd": "100100067795944",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 73,
+      "oikTvd": "100100067795946",
+      "oikName": "Архангельская область – Котласский"
+    },
     "uikCount": 71,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 59865,
@@ -2416,6 +2656,14 @@ export const duma_2016_tic_464_region_29 = [
     "ballot": "single-member",
     "tikTvd": "2292000756656",
     "tikName": "Архангельск, Ломоносовская",
+    "regionCode": "29",
+    "regionTvd": "100100067795944",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 73,
+      "oikTvd": "100100067795946",
+      "oikName": "Архангельская область – Котласский"
+    },
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 53687,
@@ -2494,6 +2742,14 @@ export const duma_2016_tic_464_region_29 = [
     "ballot": "single-member",
     "tikTvd": "2292000756657",
     "tikName": "Архангельск, Исакогорская ",
+    "regionCode": "29",
+    "regionTvd": "100100067795944",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 73,
+      "oikTvd": "100100067795946",
+      "oikName": "Архангельская область – Котласский"
+    },
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 27605,

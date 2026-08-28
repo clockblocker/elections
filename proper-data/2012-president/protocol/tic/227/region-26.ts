@@ -11,6 +11,9 @@ export const president_2012_tic_227_region_26 = [
     "ballot": "presidential",
     "tikTvd": "2262000334345",
     "tikName": "Грачевская",
+    "regionCode": "26",
+    "regionTvd": "100100031793916",
+    "regionName": "Ставропольский край",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 27454,
@@ -79,6 +82,9 @@ export const president_2012_tic_227_region_26 = [
     "ballot": "presidential",
     "tikTvd": "2262000334346",
     "tikName": "Благодарненская",
+    "regionCode": "26",
+    "regionTvd": "100100031793916",
+    "regionName": "Ставропольский край",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 46341,
@@ -153,6 +159,9 @@ export const president_2012_tic_227_region_26 = [
     "ballot": "presidential",
     "tikTvd": "2262000334347",
     "tikName": "Арзгирская",
+    "regionCode": "26",
+    "regionTvd": "100100031793916",
+    "regionName": "Ставропольский край",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 19746,
@@ -212,6 +221,9 @@ export const president_2012_tic_227_region_26 = [
     "ballot": "presidential",
     "tikTvd": "2262000334348",
     "tikName": "Апанасенковская",
+    "regionCode": "26",
+    "regionTvd": "100100031793916",
+    "regionName": "Ставропольский край",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 26349,
@@ -277,6 +289,9 @@ export const president_2012_tic_227_region_26 = [
     "ballot": "presidential",
     "tikTvd": "2262000334349",
     "tikName": "Андроповская",
+    "regionCode": "26",
+    "regionTvd": "100100031793916",
+    "regionName": "Ставропольский край",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 24431,
@@ -347,6 +362,9 @@ export const president_2012_tic_227_region_26 = [
     "ballot": "presidential",
     "tikTvd": "2262000334350",
     "tikName": "Александровская",
+    "regionCode": "26",
+    "regionTvd": "100100031793916",
+    "regionName": "Ставропольский край",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 37132,
@@ -418,6 +436,9 @@ export const president_2012_tic_227_region_26 = [
     "ballot": "presidential",
     "tikTvd": "2262000334351",
     "tikName": "Георгиевская",
+    "regionCode": "26",
+    "regionTvd": "100100031793916",
+    "regionName": "Ставропольский край",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 67712,
@@ -501,6 +522,9 @@ export const president_2012_tic_227_region_26 = [
     "ballot": "presidential",
     "tikTvd": "2262000334352",
     "tikName": "Буденновская",
+    "regionCode": "26",
+    "regionTvd": "100100031793916",
+    "regionName": "Ставропольский край",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 37588,
@@ -575,6 +599,9 @@ export const president_2012_tic_227_region_26 = [
     "ballot": "presidential",
     "tikTvd": "2262000334353",
     "tikName": "Левокумская",
+    "regionCode": "26",
+    "regionTvd": "100100031793916",
+    "regionName": "Ставропольский край",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 29098,
@@ -640,6 +667,9 @@ export const president_2012_tic_227_region_26 = [
     "ballot": "presidential",
     "tikTvd": "2262000334354",
     "tikName": "Курская",
+    "regionCode": "26",
+    "regionTvd": "100100031793916",
+    "regionName": "Ставропольский край",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 35448,
@@ -720,6 +750,9 @@ export const president_2012_tic_227_region_26 = [
     "ballot": "presidential",
     "tikTvd": "2262000334355",
     "tikName": "Кочубеевская",
+    "regionCode": "26",
+    "regionTvd": "100100031793916",
+    "regionName": "Ставропольский край",
     "uikCount": 53,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 58509,
@@ -820,6 +853,9 @@ export const president_2012_tic_227_region_26 = [
     "ballot": "presidential",
     "tikTvd": "2262000334356",
     "tikName": "Красногвардейская",
+    "regionCode": "26",
+    "regionTvd": "100100031793916",
+    "regionName": "Ставропольский край",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 31149,
@@ -887,6 +923,9 @@ export const president_2012_tic_227_region_26 = [
     "ballot": "presidential",
     "tikTvd": "2262000334357",
     "tikName": "Кисловодская городская",
+    "regionCode": "26",
+    "regionTvd": "100100031793916",
+    "regionName": "Ставропольский край",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 77776,
@@ -984,6 +1023,9 @@ export const president_2012_tic_227_region_26 = [
     "ballot": "presidential",
     "tikTvd": "2262000334358",
     "tikName": "Ипатовская",
+    "regionCode": "26",
+    "regionTvd": "100100031793916",
+    "regionName": "Ставропольский край",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 49511,
@@ -1067,6 +1109,9 @@ export const president_2012_tic_227_region_26 = [
     "ballot": "presidential",
     "tikTvd": "2262000334359",
     "tikName": "Кировская",
+    "regionCode": "26",
+    "regionTvd": "100100031793916",
+    "regionName": "Ставропольский край",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 48829,
@@ -1138,6 +1183,9 @@ export const president_2012_tic_227_region_26 = [
     "ballot": "presidential",
     "tikTvd": "2262000334360",
     "tikName": "Ессентукская городская",
+    "regionCode": "26",
+    "regionTvd": "100100031793916",
+    "regionName": "Ставропольский край",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 68192,
@@ -1222,6 +1270,9 @@ export const president_2012_tic_227_region_26 = [
     "ballot": "presidential",
     "tikTvd": "2262000334361",
     "tikName": "Железноводская городская",
+    "regionCode": "26",
+    "regionTvd": "100100031793916",
+    "regionName": "Ставропольский край",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 39211,
@@ -1299,6 +1350,9 @@ export const president_2012_tic_227_region_26 = [
     "ballot": "presidential",
     "tikTvd": "2262000334362",
     "tikName": "Изобильненская",
+    "regionCode": "26",
+    "regionTvd": "100100031793916",
+    "regionName": "Ставропольский край",
     "uikCount": 56,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 76030,
@@ -1402,6 +1456,9 @@ export const president_2012_tic_227_region_26 = [
     "ballot": "presidential",
     "tikTvd": "2262000334363",
     "tikName": "Ставрополь, Промышленная",
+    "regionCode": "26",
+    "regionTvd": "100100031793916",
+    "regionName": "Ставропольский край",
     "uikCount": 61,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 144504,
@@ -1510,6 +1567,9 @@ export const president_2012_tic_227_region_26 = [
     "ballot": "presidential",
     "tikTvd": "2262000334364",
     "tikName": "Ставрополь, Октябрьская",
+    "regionCode": "26",
+    "regionTvd": "100100031793916",
+    "regionName": "Ставропольский край",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 59831,
@@ -1586,6 +1646,9 @@ export const president_2012_tic_227_region_26 = [
     "ballot": "presidential",
     "tikTvd": "2262000334365",
     "tikName": "Пятигорская городская",
+    "regionCode": "26",
+    "regionTvd": "100100031793916",
+    "regionName": "Ставропольский край",
     "uikCount": 78,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 139678,
@@ -1711,6 +1774,9 @@ export const president_2012_tic_227_region_26 = [
     "ballot": "presidential",
     "tikTvd": "2262000334366",
     "tikName": "Предгорная",
+    "regionCode": "26",
+    "regionTvd": "100100031793916",
+    "regionName": "Ставропольский край",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 80757,
@@ -1804,6 +1870,9 @@ export const president_2012_tic_227_region_26 = [
     "ballot": "presidential",
     "tikTvd": "2262000334367",
     "tikName": "Советская",
+    "regionCode": "26",
+    "regionTvd": "100100031793916",
+    "regionName": "Ставропольский край",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 51864,
@@ -1886,6 +1955,9 @@ export const president_2012_tic_227_region_26 = [
     "ballot": "presidential",
     "tikTvd": "2262000334368",
     "tikName": "Степновская",
+    "regionCode": "26",
+    "regionTvd": "100100031793916",
+    "regionName": "Ставропольский край",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 15466,
@@ -1949,6 +2021,9 @@ export const president_2012_tic_227_region_26 = [
     "ballot": "presidential",
     "tikTvd": "2262000334369",
     "tikName": "Георгиевская городская",
+    "regionCode": "26",
+    "regionTvd": "100100031793916",
+    "regionName": "Ставропольский край",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 48571,
@@ -2021,6 +2096,9 @@ export const president_2012_tic_227_region_26 = [
     "ballot": "presidential",
     "tikTvd": "2262000334370",
     "tikName": "Шпаковская",
+    "regionCode": "26",
+    "regionTvd": "100100031793916",
+    "regionName": "Ставропольский край",
     "uikCount": 52,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 82792,
@@ -2120,6 +2198,9 @@ export const president_2012_tic_227_region_26 = [
     "ballot": "presidential",
     "tikTvd": "2262000334371",
     "tikName": "Туркменская",
+    "regionCode": "26",
+    "regionTvd": "100100031793916",
+    "regionName": "Ставропольский край",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 20316,
@@ -2188,6 +2269,9 @@ export const president_2012_tic_227_region_26 = [
     "ballot": "presidential",
     "tikTvd": "2262000334372",
     "tikName": "Буденновская городская",
+    "regionCode": "26",
+    "regionTvd": "100100031793916",
+    "regionName": "Ставропольский край",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 46002,
@@ -2256,6 +2340,9 @@ export const president_2012_tic_227_region_26 = [
     "ballot": "presidential",
     "tikTvd": "2262000334373",
     "tikName": "Труновская",
+    "regionCode": "26",
+    "regionTvd": "100100031793916",
+    "regionName": "Ставропольский край",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 27354,
@@ -2326,6 +2413,9 @@ export const president_2012_tic_227_region_26 = [
     "ballot": "presidential",
     "tikTvd": "2262000334374",
     "tikName": "Минераловодская",
+    "regionCode": "26",
+    "regionTvd": "100100031793916",
+    "regionName": "Ставропольский край",
     "uikCount": 67,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 99585,
@@ -2440,6 +2530,9 @@ export const president_2012_tic_227_region_26 = [
     "ballot": "presidential",
     "tikTvd": "2262000334375",
     "tikName": "Ставрополь, Ленинская",
+    "regionCode": "26",
+    "regionTvd": "100100031793916",
+    "regionName": "Ставропольский край",
     "uikCount": 49,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 80720,
@@ -2536,6 +2629,9 @@ export const president_2012_tic_227_region_26 = [
     "ballot": "presidential",
     "tikTvd": "2262000334376",
     "tikName": "Новоселицкая",
+    "regionCode": "26",
+    "regionTvd": "100100031793916",
+    "regionName": "Ставропольский край",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 18529,
@@ -2596,6 +2692,9 @@ export const president_2012_tic_227_region_26 = [
     "ballot": "presidential",
     "tikTvd": "2262000334377",
     "tikName": "Нефтекумская",
+    "regionCode": "26",
+    "regionTvd": "100100031793916",
+    "regionName": "Ставропольский край",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 45274,
@@ -2680,6 +2779,9 @@ export const president_2012_tic_227_region_26 = [
     "ballot": "presidential",
     "tikTvd": "2262000334378",
     "tikName": "Невинномысская городская",
+    "regionCode": "26",
+    "regionTvd": "100100031793916",
+    "regionName": "Ставропольский край",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 95581,
@@ -2773,6 +2875,9 @@ export const president_2012_tic_227_region_26 = [
     "ballot": "presidential",
     "tikTvd": "2262000334379",
     "tikName": "Новоалександровская",
+    "regionCode": "26",
+    "regionTvd": "100100031793916",
+    "regionName": "Ставропольский край",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 48404,
@@ -2870,6 +2975,9 @@ export const president_2012_tic_227_region_26 = [
     "ballot": "presidential",
     "tikTvd": "2262000334380",
     "tikName": "Лермонтовская городская",
+    "regionCode": "26",
+    "regionTvd": "100100031793916",
+    "regionName": "Ставропольский край",
     "uikCount": 9,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 18890,
@@ -2926,6 +3034,9 @@ export const president_2012_tic_227_region_26 = [
     "ballot": "presidential",
     "tikTvd": "2262000334381",
     "tikName": "Петровская",
+    "regionCode": "26",
+    "regionTvd": "100100031793916",
+    "regionName": "Ставропольский край",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 59330,

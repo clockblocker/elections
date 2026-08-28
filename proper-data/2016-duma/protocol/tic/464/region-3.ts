@@ -11,6 +11,14 @@ export const duma_2016_tic_464_region_3 = [
     "ballot": "single-member",
     "tikTvd": "20220001684927",
     "tikName": "Чишминская",
+    "regionCode": "3",
+    "regionTvd": "100100067795859",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 3,
+      "oikTvd": "100100067795860",
+      "oikName": "Республика Башкортостан – Уфимский"
+    },
     "uikCount": 53,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 38490,
@@ -115,6 +123,14 @@ export const duma_2016_tic_464_region_3 = [
     "ballot": "single-member",
     "tikTvd": "20220001684928",
     "tikName": "Чекмагушевская",
+    "regionCode": "3",
+    "regionTvd": "100100067795859",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 3,
+      "oikTvd": "100100067795860",
+      "oikName": "Республика Башкортостан – Уфимский"
+    },
     "uikCount": 55,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 23691,
@@ -221,6 +237,14 @@ export const duma_2016_tic_464_region_3 = [
     "ballot": "single-member",
     "tikTvd": "20220001684929",
     "tikName": "Уфимская-3",
+    "regionCode": "3",
+    "regionTvd": "100100067795859",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 3,
+      "oikTvd": "100100067795860",
+      "oikName": "Республика Башкортостан – Уфимский"
+    },
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 27329,
@@ -291,6 +315,14 @@ export const duma_2016_tic_464_region_3 = [
     "ballot": "single-member",
     "tikTvd": "20220001684930",
     "tikName": "Уфа, Советская",
+    "regionCode": "3",
+    "regionTvd": "100100067795859",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 3,
+      "oikTvd": "100100067795860",
+      "oikName": "Республика Башкортостан – Уфимский"
+    },
     "uikCount": 68,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 127647,
@@ -410,6 +442,14 @@ export const duma_2016_tic_464_region_3 = [
     "ballot": "single-member",
     "tikTvd": "20220001684931",
     "tikName": "Уфа, Кировская",
+    "regionCode": "3",
+    "regionTvd": "100100067795859",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 3,
+      "oikTvd": "100100067795860",
+      "oikName": "Республика Башкортостан – Уфимский"
+    },
     "uikCount": 76,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 113719,
@@ -537,6 +577,14 @@ export const duma_2016_tic_464_region_3 = [
     "ballot": "single-member",
     "tikTvd": "20220001684932",
     "tikName": "Уфа, Демская",
+    "regionCode": "3",
+    "regionTvd": "100100067795859",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 3,
+      "oikTvd": "100100067795860",
+      "oikName": "Республика Башкортостан – Уфимский"
+    },
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 48210,
@@ -621,6 +669,14 @@ export const duma_2016_tic_464_region_3 = [
     "ballot": "single-member",
     "tikTvd": "20220001684933",
     "tikName": "Кармаскалинская",
+    "regionCode": "3",
+    "regionTvd": "100100067795859",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 3,
+      "oikTvd": "100100067795860",
+      "oikName": "Республика Башкортостан – Уфимский"
+    },
     "uikCount": 48,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 37892,
@@ -720,6 +776,14 @@ export const duma_2016_tic_464_region_3 = [
     "ballot": "single-member",
     "tikTvd": "20220001684934",
     "tikName": "Давлекановская",
+    "regionCode": "3",
+    "regionTvd": "100100067795859",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 3,
+      "oikTvd": "100100067795860",
+      "oikName": "Республика Башкортостан – Уфимский"
+    },
     "uikCount": 51,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 31470,
@@ -822,6 +886,14 @@ export const duma_2016_tic_464_region_3 = [
     "ballot": "single-member",
     "tikTvd": "20220001684935",
     "tikName": "Буздякская",
+    "regionCode": "3",
+    "regionTvd": "100100067795859",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 3,
+      "oikTvd": "100100067795860",
+      "oikName": "Республика Башкортостан – Уфимский"
+    },
     "uikCount": 52,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 22917,
@@ -925,6 +997,14 @@ export const duma_2016_tic_464_region_3 = [
     "ballot": "single-member",
     "tikTvd": "20220001684936",
     "tikName": "Благоварская",
+    "regionCode": "3",
+    "regionTvd": "100100067795859",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 3,
+      "oikTvd": "100100067795860",
+      "oikName": "Республика Башкортостан – Уфимский"
+    },
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 19513,
@@ -1010,6 +1090,14 @@ export const duma_2016_tic_464_region_3 = [
     "ballot": "single-member",
     "tikTvd": "20220001684938",
     "tikName": "Бирская",
+    "regionCode": "3",
+    "regionTvd": "100100067795859",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 4,
+      "oikTvd": "100100067795861",
+      "oikName": "Республика Башкортостан – Благовещенский"
+    },
     "uikCount": 44,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 45156,
@@ -1103,6 +1191,14 @@ export const duma_2016_tic_464_region_3 = [
     "ballot": "single-member",
     "tikTvd": "20220001684939",
     "tikName": "Уфа, Орджоникидзевская",
+    "regionCode": "3",
+    "regionTvd": "100100067795859",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 4,
+      "oikTvd": "100100067795861",
+      "oikName": "Республика Башкортостан – Благовещенский"
+    },
     "uikCount": 66,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 123570,
@@ -1218,6 +1314,14 @@ export const duma_2016_tic_464_region_3 = [
     "ballot": "single-member",
     "tikTvd": "20220001684940",
     "tikName": "Уфа, Ленинская",
+    "regionCode": "3",
+    "regionTvd": "100100067795859",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 4,
+      "oikTvd": "100100067795861",
+      "oikName": "Республика Башкортостан – Благовещенский"
+    },
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 59234,
@@ -1304,6 +1408,14 @@ export const duma_2016_tic_464_region_3 = [
     "ballot": "single-member",
     "tikTvd": "20220001684941",
     "tikName": "Татышлинская",
+    "regionCode": "3",
+    "regionTvd": "100100067795859",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 4,
+      "oikTvd": "100100067795861",
+      "oikName": "Республика Башкортостан – Благовещенский"
+    },
     "uikCount": 51,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 19158,
@@ -1404,6 +1516,14 @@ export const duma_2016_tic_464_region_3 = [
     "ballot": "single-member",
     "tikTvd": "20220001684942",
     "tikName": "Салаватская",
+    "regionCode": "3",
+    "regionTvd": "100100067795859",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 4,
+      "oikTvd": "100100067795861",
+      "oikName": "Республика Башкортостан – Благовещенский"
+    },
     "uikCount": 44,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 20307,
@@ -1497,6 +1617,14 @@ export const duma_2016_tic_464_region_3 = [
     "ballot": "single-member",
     "tikTvd": "20220001684943",
     "tikName": "Нуримановская",
+    "regionCode": "3",
+    "regionTvd": "100100067795859",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 4,
+      "oikTvd": "100100067795861",
+      "oikName": "Республика Башкортостан – Благовещенский"
+    },
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 15139,
@@ -1580,6 +1708,14 @@ export const duma_2016_tic_464_region_3 = [
     "ballot": "single-member",
     "tikTvd": "20220001684944",
     "tikName": "Мишкинская",
+    "regionCode": "3",
+    "regionTvd": "100100067795859",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 4,
+      "oikTvd": "100100067795861",
+      "oikName": "Республика Башкортостан – Благовещенский"
+    },
     "uikCount": 45,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 17044,
@@ -1674,6 +1810,14 @@ export const duma_2016_tic_464_region_3 = [
     "ballot": "single-member",
     "tikTvd": "20220001684945",
     "tikName": "Мечетлинская",
+    "regionCode": "3",
+    "regionTvd": "100100067795859",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 4,
+      "oikTvd": "100100067795861",
+      "oikName": "Республика Башкортостан – Благовещенский"
+    },
     "uikCount": 44,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 17300,
@@ -1767,6 +1911,14 @@ export const duma_2016_tic_464_region_3 = [
     "ballot": "single-member",
     "tikTvd": "20220001684946",
     "tikName": "Кушнаренковская",
+    "regionCode": "3",
+    "regionTvd": "100100067795859",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 4,
+      "oikTvd": "100100067795861",
+      "oikName": "Республика Башкортостан – Благовещенский"
+    },
     "uikCount": 46,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 22907,
@@ -1862,6 +2014,14 @@ export const duma_2016_tic_464_region_3 = [
     "ballot": "single-member",
     "tikTvd": "20220001684947",
     "tikName": "Кигинская",
+    "regionCode": "3",
+    "regionTvd": "100100067795859",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 4,
+      "oikTvd": "100100067795861",
+      "oikName": "Республика Башкортостан – Благовещенский"
+    },
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 13944,
@@ -1943,6 +2103,14 @@ export const duma_2016_tic_464_region_3 = [
     "ballot": "single-member",
     "tikTvd": "20220001684948",
     "tikName": "Караидельская",
+    "regionCode": "3",
+    "regionTvd": "100100067795859",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 4,
+      "oikTvd": "100100067795861",
+      "oikName": "Республика Башкортостан – Благовещенский"
+    },
     "uikCount": 48,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 19556,
@@ -2040,6 +2208,14 @@ export const duma_2016_tic_464_region_3 = [
     "ballot": "single-member",
     "tikTvd": "20220001684949",
     "tikName": "Дуванская",
+    "regionCode": "3",
+    "regionTvd": "100100067795859",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 4,
+      "oikTvd": "100100067795861",
+      "oikName": "Республика Башкортостан – Благовещенский"
+    },
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 22284,
@@ -2127,6 +2303,14 @@ export const duma_2016_tic_464_region_3 = [
     "ballot": "single-member",
     "tikTvd": "20220001684950",
     "tikName": "Бураевская",
+    "regionCode": "3",
+    "regionTvd": "100100067795859",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 4,
+      "oikTvd": "100100067795861",
+      "oikName": "Республика Башкортостан – Благовещенский"
+    },
     "uikCount": 51,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 19081,
@@ -2227,6 +2411,14 @@ export const duma_2016_tic_464_region_3 = [
     "ballot": "single-member",
     "tikTvd": "20220001684951",
     "tikName": "Благовещенская",
+    "regionCode": "3",
+    "regionTvd": "100100067795859",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 4,
+      "oikTvd": "100100067795861",
+      "oikName": "Республика Башкортостан – Благовещенский"
+    },
     "uikCount": 43,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 37272,
@@ -2319,6 +2511,14 @@ export const duma_2016_tic_464_region_3 = [
     "ballot": "single-member",
     "tikTvd": "20220001684952",
     "tikName": "Белокатайская",
+    "regionCode": "3",
+    "regionTvd": "100100067795859",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 4,
+      "oikTvd": "100100067795861",
+      "oikName": "Республика Башкортостан – Благовещенский"
+    },
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 15419,
@@ -2400,6 +2600,14 @@ export const duma_2016_tic_464_region_3 = [
     "ballot": "single-member",
     "tikTvd": "20220001684953",
     "tikName": "Балтачевская",
+    "regionCode": "3",
+    "regionTvd": "100100067795859",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 4,
+      "oikTvd": "100100067795861",
+      "oikName": "Республика Башкортостан – Благовещенский"
+    },
     "uikCount": 46,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 16074,
@@ -2495,6 +2703,14 @@ export const duma_2016_tic_464_region_3 = [
     "ballot": "single-member",
     "tikTvd": "20220001684954",
     "tikName": "Аскинская",
+    "regionCode": "3",
+    "regionTvd": "100100067795859",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 4,
+      "oikTvd": "100100067795861",
+      "oikName": "Республика Башкортостан – Благовещенский"
+    },
     "uikCount": 47,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 16219,
@@ -2591,6 +2807,14 @@ export const duma_2016_tic_464_region_3 = [
     "ballot": "single-member",
     "tikTvd": "20220001684955",
     "tikName": "Межгорьевская городская",
+    "regionCode": "3",
+    "regionTvd": "100100067795859",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 5,
+      "oikTvd": "100100067795862",
+      "oikName": "Республика Башкортостан – Белорецкий"
+    },
     "uikCount": 6,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 12276,
@@ -2647,6 +2871,14 @@ export const duma_2016_tic_464_region_3 = [
     "ballot": "single-member",
     "tikTvd": "20220001684956",
     "tikName": "Учалинская",
+    "regionCode": "3",
+    "regionTvd": "100100067795859",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 5,
+      "oikTvd": "100100067795862",
+      "oikName": "Республика Башкортостан – Белорецкий"
+    },
     "uikCount": 65,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 57998,
@@ -2762,6 +2994,14 @@ export const duma_2016_tic_464_region_3 = [
     "ballot": "single-member",
     "tikTvd": "20220001684957",
     "tikName": "Уфа, Октябрьская",
+    "regionCode": "3",
+    "regionTvd": "100100067795859",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 5,
+      "oikTvd": "100100067795862",
+      "oikName": "Республика Башкортостан – Белорецкий"
+    },
     "uikCount": 87,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 176047,
@@ -2899,6 +3139,14 @@ export const duma_2016_tic_464_region_3 = [
     "ballot": "single-member",
     "tikTvd": "20220001684958",
     "tikName": "Уфа, Калининская",
+    "regionCode": "3",
+    "regionTvd": "100100067795859",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 5,
+      "oikTvd": "100100067795862",
+      "oikName": "Республика Башкортостан – Белорецкий"
+    },
     "uikCount": 68,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 149299,
@@ -3017,6 +3265,14 @@ export const duma_2016_tic_464_region_3 = [
     "ballot": "single-member",
     "tikTvd": "20220001684959",
     "tikName": "Иглинская",
+    "regionCode": "3",
+    "regionTvd": "100100067795859",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 5,
+      "oikTvd": "100100067795862",
+      "oikName": "Республика Башкортостан – Белорецкий"
+    },
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 37430,
@@ -3104,6 +3360,14 @@ export const duma_2016_tic_464_region_3 = [
     "ballot": "single-member",
     "tikTvd": "20220001684960",
     "tikName": "Белорецкая",
+    "regionCode": "3",
+    "regionTvd": "100100067795859",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 5,
+      "oikTvd": "100100067795862",
+      "oikName": "Республика Башкортостан – Белорецкий"
+    },
     "uikCount": 78,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 78247,
@@ -3232,6 +3496,14 @@ export const duma_2016_tic_464_region_3 = [
     "ballot": "single-member",
     "tikTvd": "20220001684961",
     "tikName": "Архангельская",
+    "regionCode": "3",
+    "regionTvd": "100100067795859",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 5,
+      "oikTvd": "100100067795862",
+      "oikName": "Республика Башкортостан – Белорецкий"
+    },
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 15017,
@@ -3312,6 +3584,14 @@ export const duma_2016_tic_464_region_3 = [
     "ballot": "single-member",
     "tikTvd": "20220001684962",
     "tikName": "Туймазинская",
+    "regionCode": "3",
+    "regionTvd": "100100067795859",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100067795863",
+      "oikName": "Республика Башкортостан – Нефтекамский"
+    },
     "uikCount": 83,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 97525,
@@ -3444,6 +3724,14 @@ export const duma_2016_tic_464_region_3 = [
     "ballot": "single-member",
     "tikTvd": "20220001684963",
     "tikName": "Янаульская",
+    "regionCode": "3",
+    "regionTvd": "100100067795859",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100067795863",
+      "oikName": "Республика Башкортостан – Нефтекамский"
+    },
     "uikCount": 48,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 37544,
@@ -3541,6 +3829,14 @@ export const duma_2016_tic_464_region_3 = [
     "ballot": "single-member",
     "tikTvd": "20220001684964",
     "tikName": "Шаранская",
+    "regionCode": "3",
+    "regionTvd": "100100067795859",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100067795863",
+      "oikName": "Республика Башкортостан – Нефтекамский"
+    },
     "uikCount": 45,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 17187,
@@ -3635,6 +3931,14 @@ export const duma_2016_tic_464_region_3 = [
     "ballot": "single-member",
     "tikTvd": "20220001684965",
     "tikName": "Октябрьская",
+    "regionCode": "3",
+    "regionTvd": "100100067795859",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100067795863",
+      "oikName": "Республика Башкортостан – Нефтекамский"
+    },
     "uikCount": 41,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 79398,
@@ -3725,6 +4029,14 @@ export const duma_2016_tic_464_region_3 = [
     "ballot": "single-member",
     "tikTvd": "20220001684966",
     "tikName": "Краснокамская",
+    "regionCode": "3",
+    "regionTvd": "100100067795859",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100067795863",
+      "oikName": "Республика Башкортостан – Нефтекамский"
+    },
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 20588,
@@ -3811,6 +4123,14 @@ export const duma_2016_tic_464_region_3 = [
     "ballot": "single-member",
     "tikTvd": "20220001684967",
     "tikName": "Калтасинская",
+    "regionCode": "3",
+    "regionTvd": "100100067795859",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100067795863",
+      "oikName": "Республика Башкортостан – Нефтекамский"
+    },
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 20534,
@@ -3895,6 +4215,14 @@ export const duma_2016_tic_464_region_3 = [
     "ballot": "single-member",
     "tikTvd": "20220001684968",
     "tikName": "Илишевская",
+    "regionCode": "3",
+    "regionTvd": "100100067795859",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100067795863",
+      "oikName": "Республика Башкортостан – Нефтекамский"
+    },
     "uikCount": 57,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 24917,
@@ -4001,6 +4329,14 @@ export const duma_2016_tic_464_region_3 = [
     "ballot": "single-member",
     "tikTvd": "20220001684969",
     "tikName": "Дюртюлинская",
+    "regionCode": "3",
+    "regionTvd": "100100067795859",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100067795863",
+      "oikName": "Республика Башкортостан – Нефтекамский"
+    },
     "uikCount": 69,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 49076,
@@ -4119,6 +4455,14 @@ export const duma_2016_tic_464_region_3 = [
     "ballot": "single-member",
     "tikTvd": "20220001684970",
     "tikName": "Бакалинская",
+    "regionCode": "3",
+    "regionTvd": "100100067795859",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100067795863",
+      "oikName": "Республика Башкортостан – Нефтекамский"
+    },
     "uikCount": 55,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 22488,
@@ -4223,6 +4567,14 @@ export const duma_2016_tic_464_region_3 = [
     "ballot": "single-member",
     "tikTvd": "20220001684971",
     "tikName": "Хайбуллинская",
+    "regionCode": "3",
+    "regionTvd": "100100067795859",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 7,
+      "oikTvd": "100100067795864",
+      "oikName": "Республика Башкортостан – Салаватский"
+    },
     "uikCount": 60,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 24266,
@@ -4334,6 +4686,14 @@ export const duma_2016_tic_464_region_3 = [
     "ballot": "single-member",
     "tikTvd": "20220001684972",
     "tikName": "Федоровская",
+    "regionCode": "3",
+    "regionTvd": "100100067795859",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 7,
+      "oikTvd": "100100067795864",
+      "oikName": "Республика Башкортостан – Салаватский"
+    },
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 13472,
@@ -4422,6 +4782,14 @@ export const duma_2016_tic_464_region_3 = [
     "ballot": "single-member",
     "tikTvd": "20220001684973",
     "tikName": "Стерлибашевская",
+    "regionCode": "3",
+    "regionTvd": "100100067795859",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 7,
+      "oikTvd": "100100067795864",
+      "oikName": "Республика Башкортостан – Салаватский"
+    },
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 16415,
@@ -4506,6 +4874,14 @@ export const duma_2016_tic_464_region_3 = [
     "ballot": "single-member",
     "tikTvd": "20220001684974",
     "tikName": "Стерлитамакская",
+    "regionCode": "3",
+    "regionTvd": "100100067795859",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 8,
+      "oikTvd": "100100067795865",
+      "oikName": "Республика Башкортостан - Стерлитамакский"
+    },
     "uikCount": 61,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 30520,
@@ -4616,6 +4992,14 @@ export const duma_2016_tic_464_region_3 = [
     "ballot": "single-member",
     "tikTvd": "20220001684975",
     "tikName": "Стерлитамакская городская",
+    "regionCode": "3",
+    "regionTvd": "100100067795859",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 8,
+      "oikTvd": "100100067795865",
+      "oikName": "Республика Башкортостан - Стерлитамакский"
+    },
     "uikCount": 116,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 204029,
@@ -4781,6 +5165,14 @@ export const duma_2016_tic_464_region_3 = [
     "ballot": "single-member",
     "tikTvd": "20220001684976",
     "tikName": "Миякинская",
+    "regionCode": "3",
+    "regionTvd": "100100067795859",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 8,
+      "oikTvd": "100100067795865",
+      "oikName": "Республика Башкортостан - Стерлитамакский"
+    },
     "uikCount": 47,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 22559,
@@ -4877,6 +5269,14 @@ export const duma_2016_tic_464_region_3 = [
     "ballot": "single-member",
     "tikTvd": "20220001684977",
     "tikName": "Ишимбайская",
+    "regionCode": "3",
+    "regionTvd": "100100067795859",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 8,
+      "oikTvd": "100100067795865",
+      "oikName": "Республика Башкортостан - Стерлитамакский"
+    },
     "uikCount": 75,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 68955,
@@ -5001,6 +5401,14 @@ export const duma_2016_tic_464_region_3 = [
     "ballot": "single-member",
     "tikTvd": "20220001684978",
     "tikName": "Ермекеевская",
+    "regionCode": "3",
+    "regionTvd": "100100067795859",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 8,
+      "oikTvd": "100100067795865",
+      "oikName": "Республика Башкортостан - Стерлитамакский"
+    },
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 11789,
@@ -5083,6 +5491,14 @@ export const duma_2016_tic_464_region_3 = [
     "ballot": "single-member",
     "tikTvd": "20220001684979",
     "tikName": "Гафурийская",
+    "regionCode": "3",
+    "regionTvd": "100100067795859",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 8,
+      "oikTvd": "100100067795865",
+      "oikName": "Республика Башкортостан - Стерлитамакский"
+    },
     "uikCount": 47,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 25672,
@@ -5179,6 +5595,14 @@ export const duma_2016_tic_464_region_3 = [
     "ballot": "single-member",
     "tikTvd": "20220001684980",
     "tikName": "Бижбулякская",
+    "regionCode": "3",
+    "regionTvd": "100100067795859",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 8,
+      "oikTvd": "100100067795865",
+      "oikName": "Республика Башкортостан - Стерлитамакский"
+    },
     "uikCount": 45,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 18885,
@@ -5273,6 +5697,14 @@ export const duma_2016_tic_464_region_3 = [
     "ballot": "single-member",
     "tikTvd": "20220001684981",
     "tikName": "Белебеевская",
+    "regionCode": "3",
+    "regionTvd": "100100067795859",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 8,
+      "oikTvd": "100100067795865",
+      "oikName": "Республика Башкортостан - Стерлитамакский"
+    },
     "uikCount": 62,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 73802,
@@ -5384,6 +5816,14 @@ export const duma_2016_tic_464_region_3 = [
     "ballot": "single-member",
     "tikTvd": "20220001684982",
     "tikName": "Аургазинская",
+    "regionCode": "3",
+    "regionTvd": "100100067795859",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 8,
+      "oikTvd": "100100067795865",
+      "oikName": "Республика Башкортостан - Стерлитамакский"
+    },
     "uikCount": 50,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 28454,
@@ -5483,6 +5923,14 @@ export const duma_2016_tic_464_region_3 = [
     "ballot": "single-member",
     "tikTvd": "20220001684983",
     "tikName": "Альшеевская",
+    "regionCode": "3",
+    "regionTvd": "100100067795859",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 8,
+      "oikTvd": "100100067795865",
+      "oikName": "Республика Башкортостан - Стерлитамакский"
+    },
     "uikCount": 49,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 31520,
@@ -5581,6 +6029,14 @@ export const duma_2016_tic_464_region_3 = [
     "ballot": "single-member",
     "tikTvd": "20220001684984",
     "tikName": "Нефтекамская городская",
+    "regionCode": "3",
+    "regionTvd": "100100067795859",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100067795863",
+      "oikName": "Республика Башкортостан – Нефтекамский"
+    },
     "uikCount": 50,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 103834,
@@ -5680,6 +6136,14 @@ export const duma_2016_tic_464_region_3 = [
     "ballot": "single-member",
     "tikTvd": "20220001684985",
     "tikName": "Агидельская городская",
+    "regionCode": "3",
+    "regionTvd": "100100067795859",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100067795863",
+      "oikName": "Республика Башкортостан – Нефтекамский"
+    },
     "uikCount": 7,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 13238,
@@ -5736,6 +6200,14 @@ export const duma_2016_tic_464_region_3 = [
     "ballot": "single-member",
     "tikTvd": "20220001684986",
     "tikName": "Мелеузовская",
+    "regionCode": "3",
+    "regionTvd": "100100067795859",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 7,
+      "oikTvd": "100100067795864",
+      "oikName": "Республика Башкортостан – Салаватский"
+    },
     "uikCount": 58,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 63678,
@@ -5845,6 +6317,14 @@ export const duma_2016_tic_464_region_3 = [
     "ballot": "single-member",
     "tikTvd": "20220001684987",
     "tikName": "Куюргазинская",
+    "regionCode": "3",
+    "regionTvd": "100100067795859",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 7,
+      "oikTvd": "100100067795864",
+      "oikName": "Республика Башкортостан – Салаватский"
+    },
     "uikCount": 49,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 18658,
@@ -5945,6 +6425,14 @@ export const duma_2016_tic_464_region_3 = [
     "ballot": "single-member",
     "tikTvd": "20220001684988",
     "tikName": "Сибайская городская",
+    "regionCode": "3",
+    "regionTvd": "100100067795859",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 7,
+      "oikTvd": "100100067795864",
+      "oikName": "Республика Башкортостан – Салаватский"
+    },
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 43761,
@@ -6020,6 +6508,14 @@ export const duma_2016_tic_464_region_3 = [
     "ballot": "single-member",
     "tikTvd": "20220001684989",
     "tikName": "Салаватская городская",
+    "regionCode": "3",
+    "regionTvd": "100100067795859",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 7,
+      "oikTvd": "100100067795864",
+      "oikName": "Республика Башкортостан – Салаватский"
+    },
     "uikCount": 62,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 104814,
@@ -6133,6 +6629,14 @@ export const duma_2016_tic_464_region_3 = [
     "ballot": "single-member",
     "tikTvd": "20220001684990",
     "tikName": "Кумертауская городская",
+    "regionCode": "3",
+    "regionTvd": "100100067795859",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 7,
+      "oikTvd": "100100067795864",
+      "oikName": "Республика Башкортостан – Салаватский"
+    },
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 50624,
@@ -6210,6 +6714,14 @@ export const duma_2016_tic_464_region_3 = [
     "ballot": "single-member",
     "tikTvd": "20220001684991",
     "tikName": "Кугарчинская",
+    "regionCode": "3",
+    "regionTvd": "100100067795859",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 7,
+      "oikTvd": "100100067795864",
+      "oikName": "Республика Башкортостан – Салаватский"
+    },
     "uikCount": 65,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 24066,
@@ -6326,6 +6838,14 @@ export const duma_2016_tic_464_region_3 = [
     "ballot": "single-member",
     "tikTvd": "20220001684992",
     "tikName": "Зилаирская",
+    "regionCode": "3",
+    "regionTvd": "100100067795859",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 7,
+      "oikTvd": "100100067795864",
+      "oikName": "Республика Башкортостан – Салаватский"
+    },
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 11895,
@@ -6394,6 +6914,14 @@ export const duma_2016_tic_464_region_3 = [
     "ballot": "single-member",
     "tikTvd": "20220001684993",
     "tikName": "Зианчуринская",
+    "regionCode": "3",
+    "regionTvd": "100100067795859",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 7,
+      "oikTvd": "100100067795864",
+      "oikName": "Республика Башкортостан – Салаватский"
+    },
     "uikCount": 64,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 22163,
@@ -6509,6 +7037,14 @@ export const duma_2016_tic_464_region_3 = [
     "ballot": "single-member",
     "tikTvd": "20220001684994",
     "tikName": "Бурзянская",
+    "regionCode": "3",
+    "regionTvd": "100100067795859",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 7,
+      "oikTvd": "100100067795864",
+      "oikName": "Республика Башкортостан – Салаватский"
+    },
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 11449,
@@ -6597,6 +7133,14 @@ export const duma_2016_tic_464_region_3 = [
     "ballot": "single-member",
     "tikTvd": "20220001684995",
     "tikName": "Баймакская",
+    "regionCode": "3",
+    "regionTvd": "100100067795859",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 7,
+      "oikTvd": "100100067795864",
+      "oikName": "Республика Башкортостан – Салаватский"
+    },
     "uikCount": 80,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 41983,
@@ -6728,6 +7272,14 @@ export const duma_2016_tic_464_region_3 = [
     "ballot": "single-member",
     "tikTvd": "20220001684996",
     "tikName": "Абзелиловская",
+    "regionCode": "3",
+    "regionTvd": "100100067795859",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 7,
+      "oikTvd": "100100067795864",
+      "oikName": "Республика Башкортостан – Салаватский"
+    },
     "uikCount": 66,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 33229,
@@ -6845,6 +7397,14 @@ export const duma_2016_tic_464_region_3 = [
     "ballot": "single-member",
     "tikTvd": "20220001685163",
     "tikName": "Уфимская-4",
+    "regionCode": "3",
+    "regionTvd": "100100067795859",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 4,
+      "oikTvd": "100100067795861",
+      "oikName": "Республика Башкортостан – Благовещенский"
+    },
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 29494,
@@ -6917,6 +7477,14 @@ export const duma_2016_tic_464_region_3 = [
     "ballot": "single-member",
     "tikTvd": "20220001685166",
     "tikName": "Уфимская-5",
+    "regionCode": "3",
+    "regionTvd": "100100067795859",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 5,
+      "oikTvd": "100100067795862",
+      "oikName": "Республика Башкортостан – Белорецкий"
+    },
     "uikCount": 5,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 5683,

@@ -2,6 +2,12 @@
 
 export type VoteMap = Readonly<Record<string, number>>;
 
+export type DistrictRef = Readonly<{
+  districtNumber: number;
+  oikTvd: string;
+  oikName: string;
+}>;
+
 export type ProtocolSource = Readonly<{
   url: string;
   sha256: string;
@@ -12,27 +18,42 @@ export type ProtocolSource = Readonly<{
   provenance?: "live-official" | "wayback";
 }>;
 
-export type UikProtocol = Readonly<{
+type UikProtocolBase = Readonly<{
   election: "2016-duma";
   level: "uik";
-  reportType: 242 | 463;
-  ballot: "party" | "single-member";
   uikNumber: number;
   uikTvd: string;
+  uikName: string;
   tikTvd: string;
   tikName: string;
+  regionCode: string;
+  regionTvd: string;
+  regionName: string;
   accounting: VoteMap;
   votes: VoteMap;
   source: ProtocolSource;
 }>;
 
-export type TicProtocol = Readonly<{
+export type PartyUikProtocol = Readonly<UikProtocolBase & {
+  reportType: 242;
+  ballot: "party";
+}>;
+export type SingleMemberUikProtocol = Readonly<UikProtocolBase & {
+  reportType: 463;
+  ballot: "single-member";
+  district: DistrictRef;
+}>;
+
+export type UikProtocol = PartyUikProtocol | SingleMemberUikProtocol;
+
+type TicProtocolBase = Readonly<{
   election: "2016-duma";
   level: "tic";
-  reportType: 233 | 464;
-  ballot: "party" | "single-member";
   tikTvd: string;
   tikName: string;
+  regionCode: string;
+  regionTvd: string;
+  regionName: string;
   uikCount: number;
   accounting: VoteMap;
   votes: VoteMap;
@@ -40,9 +61,26 @@ export type TicProtocol = Readonly<{
   source: ProtocolSource;
 }>;
 
+export type PartyTicProtocol = Readonly<TicProtocolBase & {
+  reportType: 233;
+  ballot: "party";
+}>;
+export type SingleMemberTicProtocol = Readonly<TicProtocolBase & {
+  reportType: 464;
+  ballot: "single-member";
+  district: DistrictRef;
+}>;
+
+export type TicProtocol = PartyTicProtocol | SingleMemberTicProtocol;
+
 export type UikTikRelation = Readonly<{
   uikNumber: number;
   uikTvd: string;
+  uikName: string;
   tikTvd: string;
   tikName: string;
+  regionCode: string;
+  regionTvd: string;
+  regionName: string;
+  district: DistrictRef | null;
 }>;

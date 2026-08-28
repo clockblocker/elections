@@ -11,6 +11,9 @@ export const president_2012_tic_227_region_11 = [
     "ballot": "presidential",
     "tikTvd": "2112000377414",
     "tikName": "Воркутинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100031793880",
+    "regionName": "Республика Коми",
     "uikCount": 48,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 79683,
@@ -106,6 +109,9 @@ export const president_2012_tic_227_region_11 = [
     "ballot": "presidential",
     "tikTvd": "2112000377415",
     "tikName": "Вуктыльская городская",
+    "regionCode": "11",
+    "regionTvd": "100100031793880",
+    "regionName": "Республика Коми",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 12492,
@@ -164,6 +170,9 @@ export const president_2012_tic_227_region_11 = [
     "ballot": "presidential",
     "tikTvd": "2112000377416",
     "tikName": "Ижемская",
+    "regionCode": "11",
+    "regionTvd": "100100031793880",
+    "regionName": "Республика Коми",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 15385,
@@ -236,6 +245,9 @@ export const president_2012_tic_227_region_11 = [
     "ballot": "presidential",
     "tikTvd": "2112000377417",
     "tikName": "Интинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100031793880",
+    "regionName": "Республика Коми",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 34993,
@@ -309,6 +321,9 @@ export const president_2012_tic_227_region_11 = [
     "ballot": "presidential",
     "tikTvd": "2112000377418",
     "tikName": "Княжпогостская",
+    "regionCode": "11",
+    "regionTvd": "100100031793880",
+    "regionName": "Республика Коми",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 20094,
@@ -378,6 +393,9 @@ export const president_2012_tic_227_region_11 = [
     "ballot": "presidential",
     "tikTvd": "2112000377419",
     "tikName": "Койгородская",
+    "regionCode": "11",
+    "regionTvd": "100100031793880",
+    "regionName": "Республика Коми",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 7413,
@@ -440,6 +458,9 @@ export const president_2012_tic_227_region_11 = [
     "ballot": "presidential",
     "tikTvd": "2112000377420",
     "tikName": "Корткеросская",
+    "regionCode": "11",
+    "regionTvd": "100100031793880",
+    "regionName": "Республика Коми",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 18095,
@@ -516,6 +537,9 @@ export const president_2012_tic_227_region_11 = [
     "ballot": "presidential",
     "tikTvd": "2112000377421",
     "tikName": "Печорская городская",
+    "regionCode": "11",
+    "regionTvd": "100100031793880",
+    "regionName": "Республика Коми",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 50747,
@@ -613,6 +637,9 @@ export const president_2012_tic_227_region_11 = [
     "ballot": "presidential",
     "tikTvd": "2112000377422",
     "tikName": "Прилузская",
+    "regionCode": "11",
+    "regionTvd": "100100031793880",
+    "regionName": "Республика Коми",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 18352,
@@ -702,6 +729,9 @@ export const president_2012_tic_227_region_11 = [
     "ballot": "presidential",
     "tikTvd": "2112000377423",
     "tikName": "Сосногорская городская",
+    "regionCode": "11",
+    "regionTvd": "100100031793880",
+    "regionName": "Республика Коми",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 44924,
@@ -779,6 +809,9 @@ export const president_2012_tic_227_region_11 = [
     "ballot": "presidential",
     "tikTvd": "2112000377424",
     "tikName": "Сыктывдинская",
+    "regionCode": "11",
+    "regionTvd": "100100031793880",
+    "regionName": "Республика Коми",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 18222,
@@ -849,6 +882,9 @@ export const president_2012_tic_227_region_11 = [
     "ballot": "presidential",
     "tikTvd": "2112000377425",
     "tikName": "Сыктывкарская городская",
+    "regionCode": "11",
+    "regionTvd": "100100031793880",
+    "regionName": "Республика Коми",
     "uikCount": 83,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 153385,
@@ -979,6 +1015,9 @@ export const president_2012_tic_227_region_11 = [
     "ballot": "presidential",
     "tikTvd": "2112000377426",
     "tikName": "Сыктывкар, Эжвинская",
+    "regionCode": "11",
+    "regionTvd": "100100031793880",
+    "regionName": "Республика Коми",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 40432,
@@ -1047,6 +1086,9 @@ export const president_2012_tic_227_region_11 = [
     "ballot": "presidential",
     "tikTvd": "2112000377427",
     "tikName": "Сысольская",
+    "regionCode": "11",
+    "regionTvd": "100100031793880",
+    "regionName": "Республика Коми",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 11902,
@@ -1116,6 +1158,9 @@ export const president_2012_tic_227_region_11 = [
     "ballot": "presidential",
     "tikTvd": "2112000377428",
     "tikName": "Троицко-Печорская",
+    "regionCode": "11",
+    "regionTvd": "100100031793880",
+    "regionName": "Республика Коми",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 12432,
@@ -1186,6 +1231,9 @@ export const president_2012_tic_227_region_11 = [
     "ballot": "presidential",
     "tikTvd": "2112000377429",
     "tikName": "Удорская",
+    "regionCode": "11",
+    "regionTvd": "100100031793880",
+    "regionName": "Республика Коми",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 14777,
@@ -1259,6 +1307,9 @@ export const president_2012_tic_227_region_11 = [
     "ballot": "presidential",
     "tikTvd": "2112000377430",
     "tikName": "Усинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100031793880",
+    "regionName": "Республика Коми",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 37814,
@@ -1335,6 +1386,9 @@ export const president_2012_tic_227_region_11 = [
     "ballot": "presidential",
     "tikTvd": "2112000377431",
     "tikName": "Усть-Вымская",
+    "regionCode": "11",
+    "regionTvd": "100100031793880",
+    "regionName": "Республика Коми",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 26308,
@@ -1406,6 +1460,9 @@ export const president_2012_tic_227_region_11 = [
     "ballot": "presidential",
     "tikTvd": "2112000377432",
     "tikName": "Усть-Куломская",
+    "regionCode": "11",
+    "regionTvd": "100100031793880",
+    "regionName": "Республика Коми",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 22016,
@@ -1488,6 +1545,9 @@ export const president_2012_tic_227_region_11 = [
     "ballot": "presidential",
     "tikTvd": "2112000377433",
     "tikName": "Усть-Цилемская",
+    "regionCode": "11",
+    "regionTvd": "100100031793880",
+    "regionName": "Республика Коми",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 11261,
@@ -1556,6 +1616,9 @@ export const president_2012_tic_227_region_11 = [
     "ballot": "presidential",
     "tikTvd": "2112000377434",
     "tikName": "Ухтинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100031793880",
+    "regionName": "Республика Коми",
     "uikCount": 55,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 99934,

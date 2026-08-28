@@ -11,6 +11,14 @@ export const duma_2016_tic_464_region_58 = [
     "ballot": "single-member",
     "tikTvd": "2582000671216",
     "tikName": "Шемышейская",
+    "regionCode": "58",
+    "regionTvd": "100100067796046",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100067796047",
+      "oikName": "Пензенская область – Пензенский"
+    },
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 13249,
@@ -81,6 +89,14 @@ export const duma_2016_tic_464_region_58 = [
     "ballot": "single-member",
     "tikTvd": "2582000671217",
     "tikName": "Сосновоборская",
+    "regionCode": "58",
+    "regionTvd": "100100067796046",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100067796047",
+      "oikName": "Пензенская область – Пензенский"
+    },
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 13488,
@@ -164,6 +180,14 @@ export const duma_2016_tic_464_region_58 = [
     "ballot": "single-member",
     "tikTvd": "2582000671218",
     "tikName": "Сердобская",
+    "regionCode": "58",
+    "regionTvd": "100100067796046",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100067796047",
+      "oikName": "Пензенская область – Пензенский"
+    },
     "uikCount": 42,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 42730,
@@ -256,6 +280,14 @@ export const duma_2016_tic_464_region_58 = [
     "ballot": "single-member",
     "tikTvd": "2582000671219",
     "tikName": "Пензенская",
+    "regionCode": "58",
+    "regionTvd": "100100067796046",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100067796047",
+      "oikName": "Пензенская область – Пензенский"
+    },
     "uikCount": 53,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 48025,
@@ -359,6 +391,14 @@ export const duma_2016_tic_464_region_58 = [
     "ballot": "single-member",
     "tikTvd": "2582000671220",
     "tikName": "Никольская",
+    "regionCode": "58",
+    "regionTvd": "100100067796046",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100067796047",
+      "oikName": "Пензенская область – Пензенский"
+    },
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 27559,
@@ -442,6 +482,14 @@ export const duma_2016_tic_464_region_58 = [
     "ballot": "single-member",
     "tikTvd": "2582000671221",
     "tikName": "Неверкинская",
+    "regionCode": "58",
+    "regionTvd": "100100067796046",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100067796047",
+      "oikName": "Пензенская область – Пензенский"
+    },
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 12781,
@@ -518,6 +566,14 @@ export const duma_2016_tic_464_region_58 = [
     "ballot": "single-member",
     "tikTvd": "2582000671222",
     "tikName": "Малосердобинская",
+    "regionCode": "58",
+    "regionTvd": "100100067796046",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100067796047",
+      "oikName": "Пензенская область – Пензенский"
+    },
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 7437,
@@ -588,6 +644,14 @@ export const duma_2016_tic_464_region_58 = [
     "ballot": "single-member",
     "tikTvd": "2582000671223",
     "tikName": "Лунинская",
+    "regionCode": "58",
+    "regionTvd": "100100067796046",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100067796047",
+      "oikName": "Пензенская область – Пензенский"
+    },
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 16293,
@@ -664,6 +728,14 @@ export const duma_2016_tic_464_region_58 = [
     "ballot": "single-member",
     "tikTvd": "2582000671224",
     "tikName": "Лопатинская",
+    "regionCode": "58",
+    "regionTvd": "100100067796046",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100067796047",
+      "oikName": "Пензенская область – Пензенский"
+    },
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 11133,
@@ -739,6 +811,14 @@ export const duma_2016_tic_464_region_58 = [
     "ballot": "single-member",
     "tikTvd": "2582000671225",
     "tikName": "Кузнецкая",
+    "regionCode": "58",
+    "regionTvd": "100100067796046",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100067796047",
+      "oikName": "Пензенская область – Пензенский"
+    },
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 29306,
@@ -828,6 +908,14 @@ export const duma_2016_tic_464_region_58 = [
     "ballot": "single-member",
     "tikTvd": "2582000671226",
     "tikName": "Колышлейская",
+    "regionCode": "58",
+    "regionTvd": "100100067796046",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100067796047",
+      "oikName": "Пензенская область – Пензенский"
+    },
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 19404,
@@ -903,6 +991,14 @@ export const duma_2016_tic_464_region_58 = [
     "ballot": "single-member",
     "tikTvd": "2582000671227",
     "tikName": "Камешкирская",
+    "regionCode": "58",
+    "regionTvd": "100100067796046",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100067796047",
+      "oikName": "Пензенская область – Пензенский"
+    },
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 9663,
@@ -976,6 +1072,14 @@ export const duma_2016_tic_464_region_58 = [
     "ballot": "single-member",
     "tikTvd": "2582000671228",
     "tikName": "Городищенская",
+    "regionCode": "58",
+    "regionTvd": "100100067796046",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100067796047",
+      "oikName": "Пензенская область – Пензенский"
+    },
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 38717,
@@ -1063,6 +1167,14 @@ export const duma_2016_tic_464_region_58 = [
     "ballot": "single-member",
     "tikTvd": "2582000671229",
     "tikName": "Кузнецкая городская",
+    "regionCode": "58",
+    "regionTvd": "100100067796046",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100067796047",
+      "oikName": "Пензенская область – Пензенский"
+    },
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 68104,
@@ -1151,6 +1263,14 @@ export const duma_2016_tic_464_region_58 = [
     "ballot": "single-member",
     "tikTvd": "2582000671230",
     "tikName": "Пенза, Первомайская",
+    "regionCode": "58",
+    "regionTvd": "100100067796046",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100067796047",
+      "oikName": "Пензенская область – Пензенский"
+    },
     "uikCount": 61,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 102918,
@@ -1262,6 +1382,14 @@ export const duma_2016_tic_464_region_58 = [
     "ballot": "single-member",
     "tikTvd": "2582000671231",
     "tikName": "Пенза, Ленинская",
+    "regionCode": "58",
+    "regionTvd": "100100067796046",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100067796047",
+      "oikName": "Пензенская область – Пензенский"
+    },
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 71888,
@@ -1351,6 +1479,14 @@ export const duma_2016_tic_464_region_58 = [
     "ballot": "single-member",
     "tikTvd": "2582000671232",
     "tikName": "Тамалинская",
+    "regionCode": "58",
+    "regionTvd": "100100067796046",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100067796048",
+      "oikName": "Пензенская область – Лермонтовский"
+    },
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 12909,
@@ -1422,6 +1558,14 @@ export const duma_2016_tic_464_region_58 = [
     "ballot": "single-member",
     "tikTvd": "2582000671233",
     "tikName": "Спасская",
+    "regionCode": "58",
+    "regionTvd": "100100067796046",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100067796048",
+      "oikName": "Пензенская область – Лермонтовский"
+    },
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 9365,
@@ -1494,6 +1638,14 @@ export const duma_2016_tic_464_region_58 = [
     "ballot": "single-member",
     "tikTvd": "2582000671234",
     "tikName": "Пачелмская",
+    "regionCode": "58",
+    "regionTvd": "100100067796046",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100067796048",
+      "oikName": "Пензенская область – Лермонтовский"
+    },
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 12791,
@@ -1566,6 +1718,14 @@ export const duma_2016_tic_464_region_58 = [
     "ballot": "single-member",
     "tikTvd": "2582000671235",
     "tikName": "Нижнеломовская",
+    "regionCode": "58",
+    "regionTvd": "100100067796046",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100067796048",
+      "oikName": "Пензенская область – Лермонтовский"
+    },
     "uikCount": 45,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 32051,
@@ -1660,6 +1820,14 @@ export const duma_2016_tic_464_region_58 = [
     "ballot": "single-member",
     "tikTvd": "2582000671236",
     "tikName": "Наровчатская",
+    "regionCode": "58",
+    "regionTvd": "100100067796046",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100067796048",
+      "oikName": "Пензенская область – Лермонтовский"
+    },
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 9612,
@@ -1737,6 +1905,14 @@ export const duma_2016_tic_464_region_58 = [
     "ballot": "single-member",
     "tikTvd": "2582000671237",
     "tikName": "Мокшанская",
+    "regionCode": "58",
+    "regionTvd": "100100067796046",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100067796048",
+      "oikName": "Пензенская область – Лермонтовский"
+    },
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 21795,
@@ -1815,6 +1991,14 @@ export const duma_2016_tic_464_region_58 = [
     "ballot": "single-member",
     "tikTvd": "2582000671238",
     "tikName": "Каменская",
+    "regionCode": "58",
+    "regionTvd": "100100067796046",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100067796048",
+      "oikName": "Пензенская область – Лермонтовский"
+    },
     "uikCount": 58,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 46304,
@@ -1922,6 +2106,14 @@ export const duma_2016_tic_464_region_58 = [
     "ballot": "single-member",
     "tikTvd": "2582000671239",
     "tikName": "Иссинская",
+    "regionCode": "58",
+    "regionTvd": "100100067796046",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100067796048",
+      "oikName": "Пензенская область – Лермонтовский"
+    },
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 8989,
@@ -1992,6 +2184,14 @@ export const duma_2016_tic_464_region_58 = [
     "ballot": "single-member",
     "tikTvd": "2582000671240",
     "tikName": "Земетчинская",
+    "regionCode": "58",
+    "regionTvd": "100100067796046",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100067796048",
+      "oikName": "Пензенская область – Лермонтовский"
+    },
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 19879,
@@ -2070,6 +2270,14 @@ export const duma_2016_tic_464_region_58 = [
     "ballot": "single-member",
     "tikTvd": "2582000671241",
     "tikName": "Вадинская",
+    "regionCode": "58",
+    "regionTvd": "100100067796046",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100067796048",
+      "oikName": "Пензенская область – Лермонтовский"
+    },
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 7225,
@@ -2143,6 +2351,14 @@ export const duma_2016_tic_464_region_58 = [
     "ballot": "single-member",
     "tikTvd": "2582000671242",
     "tikName": "Бессоновская",
+    "regionCode": "58",
+    "regionTvd": "100100067796046",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100067796048",
+      "oikName": "Пензенская область – Лермонтовский"
+    },
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 34864,
@@ -2228,6 +2444,14 @@ export const duma_2016_tic_464_region_58 = [
     "ballot": "single-member",
     "tikTvd": "2582000671243",
     "tikName": "Белинская",
+    "regionCode": "58",
+    "regionTvd": "100100067796046",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100067796048",
+      "oikName": "Пензенская область – Лермонтовский"
+    },
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 22941,
@@ -2308,6 +2532,14 @@ export const duma_2016_tic_464_region_58 = [
     "ballot": "single-member",
     "tikTvd": "2582000671244",
     "tikName": "Бековская",
+    "regionCode": "58",
+    "regionTvd": "100100067796046",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100067796048",
+      "oikName": "Пензенская область – Лермонтовский"
+    },
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 13054,
@@ -2377,6 +2609,14 @@ export const duma_2016_tic_464_region_58 = [
     "ballot": "single-member",
     "tikTvd": "2582000671245",
     "tikName": "Башмаковская",
+    "regionCode": "58",
+    "regionTvd": "100100067796046",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100067796048",
+      "oikName": "Пензенская область – Лермонтовский"
+    },
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 17544,
@@ -2455,6 +2695,14 @@ export const duma_2016_tic_464_region_58 = [
     "ballot": "single-member",
     "tikTvd": "2582000671246",
     "tikName": "Зареченская городская",
+    "regionCode": "58",
+    "regionTvd": "100100067796046",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100067796048",
+      "oikName": "Пензенская область – Лермонтовский"
+    },
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 52553,
@@ -2530,6 +2778,14 @@ export const duma_2016_tic_464_region_58 = [
     "ballot": "single-member",
     "tikTvd": "2582000671247",
     "tikName": "Пенза, Железнодорожная",
+    "regionCode": "58",
+    "regionTvd": "100100067796046",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100067796048",
+      "oikName": "Пензенская область – Лермонтовский"
+    },
     "uikCount": 50,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 88715,
@@ -2629,6 +2885,14 @@ export const duma_2016_tic_464_region_58 = [
     "ballot": "single-member",
     "tikTvd": "2582000671248",
     "tikName": "Пенза, Октябрьская ",
+    "regionCode": "58",
+    "regionTvd": "100100067796046",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100067796048",
+      "oikName": "Пензенская область – Лермонтовский"
+    },
     "uikCount": 71,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 146727,

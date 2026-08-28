@@ -11,6 +11,9 @@ export const president_2012_tic_227_region_36 = [
     "ballot": "presidential",
     "tikTvd": "2362000568313",
     "tikName": "Петропавловская",
+    "regionCode": "36",
+    "regionTvd": "100100031793841",
+    "regionName": "Воронежская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 16308,
@@ -79,6 +82,9 @@ export const president_2012_tic_227_region_36 = [
     "ballot": "presidential",
     "tikTvd": "2362000568314",
     "tikName": "Подгоренская",
+    "regionCode": "36",
+    "regionTvd": "100100031793841",
+    "regionName": "Воронежская область",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 20854,
@@ -161,6 +167,9 @@ export const president_2012_tic_227_region_36 = [
     "ballot": "presidential",
     "tikTvd": "2362000568315",
     "tikName": "Павловская",
+    "regionCode": "36",
+    "regionTvd": "100100031793841",
+    "regionName": "Воронежская область",
     "uikCount": 48,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 44233,
@@ -256,6 +265,9 @@ export const president_2012_tic_227_region_36 = [
     "ballot": "presidential",
     "tikTvd": "2362000568316",
     "tikName": "Острогожская",
+    "regionCode": "36",
+    "regionTvd": "100100031793841",
+    "regionName": "Воронежская область",
     "uikCount": 54,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 47070,
@@ -357,6 +369,9 @@ export const president_2012_tic_227_region_36 = [
     "ballot": "presidential",
     "tikTvd": "2362000568317",
     "tikName": "Панинская",
+    "regionCode": "36",
+    "regionTvd": "100100031793841",
+    "regionName": "Воронежская область",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 22181,
@@ -446,6 +461,9 @@ export const president_2012_tic_227_region_36 = [
     "ballot": "presidential",
     "tikTvd": "2362000568318",
     "tikName": "Новохоперская",
+    "regionCode": "36",
+    "regionTvd": "100100031793841",
+    "regionName": "Воронежская область",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 32502,
@@ -534,6 +552,9 @@ export const president_2012_tic_227_region_36 = [
     "ballot": "presidential",
     "tikTvd": "2362000568319",
     "tikName": "Эртильская",
+    "regionCode": "36",
+    "regionTvd": "100100031793841",
+    "regionName": "Воронежская область",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 22375,
@@ -624,6 +645,9 @@ export const president_2012_tic_227_region_36 = [
     "ballot": "presidential",
     "tikTvd": "2362000568320",
     "tikName": "Ольховатская",
+    "regionCode": "36",
+    "regionTvd": "100100031793841",
+    "regionName": "Воронежская область",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 19217,
@@ -698,6 +722,9 @@ export const president_2012_tic_227_region_36 = [
     "ballot": "presidential",
     "tikTvd": "2362000568321",
     "tikName": "Хохольская",
+    "regionCode": "36",
+    "regionTvd": "100100031793841",
+    "regionName": "Воронежская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 25460,
@@ -779,6 +806,9 @@ export const president_2012_tic_227_region_36 = [
     "ballot": "presidential",
     "tikTvd": "2362000568322",
     "tikName": "Таловская",
+    "regionCode": "36",
+    "regionTvd": "100100031793841",
+    "regionName": "Воронежская область",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 33639,
@@ -868,6 +898,9 @@ export const president_2012_tic_227_region_36 = [
     "ballot": "presidential",
     "tikTvd": "2362000568323",
     "tikName": "Терновская",
+    "regionCode": "36",
+    "regionTvd": "100100031793841",
+    "regionName": "Воронежская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 17889,
@@ -946,6 +979,9 @@ export const president_2012_tic_227_region_36 = [
     "ballot": "presidential",
     "tikTvd": "2362000568324",
     "tikName": "Россошанская",
+    "regionCode": "36",
+    "regionTvd": "100100031793841",
+    "regionName": "Воронежская область",
     "uikCount": 71,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 73036,
@@ -1064,6 +1100,9 @@ export const president_2012_tic_227_region_36 = [
     "ballot": "presidential",
     "tikTvd": "2362000568325",
     "tikName": "Репьевская",
+    "regionCode": "36",
+    "regionTvd": "100100031793841",
+    "regionName": "Воронежская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 13567,
@@ -1126,6 +1165,9 @@ export const president_2012_tic_227_region_36 = [
     "ballot": "presidential",
     "tikTvd": "2362000568326",
     "tikName": "Cемилукская",
+    "regionCode": "36",
+    "regionTvd": "100100031793841",
+    "regionName": "Воронежская область",
     "uikCount": 53,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 53733,
@@ -1226,6 +1268,9 @@ export const president_2012_tic_227_region_36 = [
     "ballot": "presidential",
     "tikTvd": "2362000568327",
     "tikName": "Рамонская",
+    "regionCode": "36",
+    "regionTvd": "100100031793841",
+    "regionName": "Воронежская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 27166,
@@ -1303,6 +1348,9 @@ export const president_2012_tic_227_region_36 = [
     "ballot": "presidential",
     "tikTvd": "2362000568328",
     "tikName": "Верхнемамонская",
+    "regionCode": "36",
+    "regionTvd": "100100031793841",
+    "regionName": "Воронежская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 16363,
@@ -1369,6 +1417,9 @@ export const president_2012_tic_227_region_36 = [
     "ballot": "presidential",
     "tikTvd": "2362000568329",
     "tikName": "Бутурлиновская",
+    "regionCode": "36",
+    "regionTvd": "100100031793841",
+    "regionName": "Воронежская область",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 40721,
@@ -1458,6 +1509,9 @@ export const president_2012_tic_227_region_36 = [
     "ballot": "presidential",
     "tikTvd": "2362000568330",
     "tikName": "Верхнехавская",
+    "regionCode": "36",
+    "regionTvd": "100100031793841",
+    "regionName": "Воронежская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 19889,
@@ -1536,6 +1590,9 @@ export const president_2012_tic_227_region_36 = [
     "ballot": "presidential",
     "tikTvd": "2362000568331",
     "tikName": "Богучарская",
+    "regionCode": "36",
+    "regionTvd": "100100031793841",
+    "regionName": "Воронежская область",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 28409,
@@ -1629,6 +1686,9 @@ export const president_2012_tic_227_region_36 = [
     "ballot": "presidential",
     "tikTvd": "2362000568332",
     "tikName": "Бобровская",
+    "regionCode": "36",
+    "regionTvd": "100100031793841",
+    "regionName": "Воронежская область",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 39928,
@@ -1722,6 +1782,9 @@ export const president_2012_tic_227_region_36 = [
     "ballot": "presidential",
     "tikTvd": "2362000568333",
     "tikName": "Борисоглебская",
+    "regionCode": "36",
+    "regionTvd": "100100031793841",
+    "regionName": "Воронежская область",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 62739,
@@ -1819,6 +1882,9 @@ export const president_2012_tic_227_region_36 = [
     "ballot": "presidential",
     "tikTvd": "2362000568334",
     "tikName": "Грибановская",
+    "regionCode": "36",
+    "regionTvd": "100100031793841",
+    "regionName": "Воронежская область",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 28560,
@@ -1905,6 +1971,9 @@ export const president_2012_tic_227_region_36 = [
     "ballot": "presidential",
     "tikTvd": "2362000568335",
     "tikName": "Аннинская",
+    "regionCode": "36",
+    "regionTvd": "100100031793841",
+    "regionName": "Воронежская область",
     "uikCount": 56,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 38351,
@@ -2008,6 +2077,9 @@ export const president_2012_tic_227_region_36 = [
     "ballot": "presidential",
     "tikTvd": "2362000568336",
     "tikName": "Воронеж, Советская",
+    "regionCode": "36",
+    "regionTvd": "100100031793841",
+    "regionName": "Воронежская область",
     "uikCount": 78,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 161418,
@@ -2133,6 +2205,9 @@ export const president_2012_tic_227_region_36 = [
     "ballot": "presidential",
     "tikTvd": "2362000568337",
     "tikName": "Воронеж, Ленинская",
+    "regionCode": "36",
+    "regionTvd": "100100031793841",
+    "regionName": "Воронежская область",
     "uikCount": 47,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 97406,
@@ -2227,6 +2302,9 @@ export const president_2012_tic_227_region_36 = [
     "ballot": "presidential",
     "tikTvd": "2362000568338",
     "tikName": "Воронеж, Центральная",
+    "regionCode": "36",
+    "regionTvd": "100100031793841",
+    "regionName": "Воронежская область",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 70814,
@@ -2316,6 +2394,9 @@ export const president_2012_tic_227_region_36 = [
     "ballot": "presidential",
     "tikTvd": "2362000568339",
     "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100031793841",
+    "regionName": "Воронежская область",
     "uikCount": 106,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 232955,
@@ -2469,6 +2550,9 @@ export const president_2012_tic_227_region_36 = [
     "ballot": "presidential",
     "tikTvd": "2362000568340",
     "tikName": "Воронеж, Железнодорожная",
+    "regionCode": "36",
+    "regionTvd": "100100031793841",
+    "regionName": "Воронежская область",
     "uikCount": 57,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 110069,
@@ -2573,6 +2657,9 @@ export const president_2012_tic_227_region_36 = [
     "ballot": "presidential",
     "tikTvd": "2362000568341",
     "tikName": "Воронеж, Левобережная",
+    "regionCode": "36",
+    "regionTvd": "100100031793841",
+    "regionName": "Воронежская область",
     "uikCount": 81,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 161791,
@@ -2701,6 +2788,9 @@ export const president_2012_tic_227_region_36 = [
     "ballot": "presidential",
     "tikTvd": "2362000568342",
     "tikName": "Новоусманская",
+    "regionCode": "36",
+    "regionTvd": "100100031793841",
+    "regionName": "Воронежская область",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 55048,
@@ -2791,6 +2881,9 @@ export const president_2012_tic_227_region_36 = [
     "ballot": "presidential",
     "tikTvd": "2362000568343",
     "tikName": "Нововоронежская городская",
+    "regionCode": "36",
+    "regionTvd": "100100031793841",
+    "regionName": "Воронежская область",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 31523,
@@ -2852,6 +2945,9 @@ export const president_2012_tic_227_region_36 = [
     "ballot": "presidential",
     "tikTvd": "2362000568344",
     "tikName": "Воробьевская",
+    "regionCode": "36",
+    "regionTvd": "100100031793841",
+    "regionName": "Воронежская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 14779,
@@ -2923,6 +3019,9 @@ export const president_2012_tic_227_region_36 = [
     "ballot": "presidential",
     "tikTvd": "2362000568345",
     "tikName": "Лискинская",
+    "regionCode": "36",
+    "regionTvd": "100100031793841",
+    "regionName": "Воронежская область",
     "uikCount": 82,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 84005,
@@ -3052,6 +3151,9 @@ export const president_2012_tic_227_region_36 = [
     "ballot": "presidential",
     "tikTvd": "2362000568346",
     "tikName": "Каширская",
+    "regionCode": "36",
+    "regionTvd": "100100031793841",
+    "regionName": "Воронежская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 20568,
@@ -3124,6 +3226,9 @@ export const president_2012_tic_227_region_36 = [
     "ballot": "presidential",
     "tikTvd": "2362000568347",
     "tikName": "Нижнедевицкая",
+    "regionCode": "36",
+    "regionTvd": "100100031793841",
+    "regionName": "Воронежская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 17446,
@@ -3205,6 +3310,9 @@ export const president_2012_tic_227_region_36 = [
     "ballot": "presidential",
     "tikTvd": "2362000568348",
     "tikName": "Калачеевская",
+    "regionCode": "36",
+    "regionTvd": "100100031793841",
+    "regionName": "Воронежская область",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 45589,
@@ -3293,6 +3401,9 @@ export const president_2012_tic_227_region_36 = [
     "ballot": "presidential",
     "tikTvd": "2362000568349",
     "tikName": "Кантемировская",
+    "regionCode": "36",
+    "regionTvd": "100100031793841",
+    "regionName": "Воронежская область",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 29432,
@@ -3386,6 +3497,9 @@ export const president_2012_tic_227_region_36 = [
     "ballot": "presidential",
     "tikTvd": "2362000568350",
     "tikName": "Каменская",
+    "regionCode": "36",
+    "regionTvd": "100100031793841",
+    "regionName": "Воронежская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 15625,
@@ -3456,6 +3570,9 @@ export const president_2012_tic_227_region_36 = [
     "ballot": "presidential",
     "tikTvd": "2362000568351",
     "tikName": "Поворинская",
+    "regionCode": "36",
+    "regionTvd": "100100031793841",
+    "regionName": "Воронежская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 25866,

@@ -11,6 +11,9 @@ export const president_2024_tic_227_region_19 = [
     "ballot": "presidential",
     "tikTvd": "2192000883363",
     "tikName": "Боградская",
+    "regionCode": "19",
+    "regionTvd": "100100339411213",
+    "regionName": "Республика Хакасия",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9590,
@@ -71,6 +74,9 @@ export const president_2024_tic_227_region_19 = [
     "ballot": "presidential",
     "tikTvd": "2192000883364",
     "tikName": "Таштыпская",
+    "regionCode": "19",
+    "regionTvd": "100100339411213",
+    "regionName": "Республика Хакасия",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9632,
@@ -134,6 +140,9 @@ export const president_2024_tic_227_region_19 = [
     "ballot": "presidential",
     "tikTvd": "2192000883365",
     "tikName": "Аскизская",
+    "regionCode": "19",
+    "regionTvd": "100100339411213",
+    "regionName": "Республика Хакасия",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 26495,
@@ -213,6 +222,9 @@ export const president_2024_tic_227_region_19 = [
     "ballot": "presidential",
     "tikTvd": "2192000883366",
     "tikName": "Абазинская городская",
+    "regionCode": "19",
+    "regionTvd": "100100339411213",
+    "regionName": "Республика Хакасия",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9620,
@@ -264,6 +276,9 @@ export const president_2024_tic_227_region_19 = [
     "ballot": "presidential",
     "tikTvd": "2192000883367",
     "tikName": "Черногорская городская",
+    "regionCode": "19",
+    "regionTvd": "100100339411213",
+    "regionName": "Республика Хакасия",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 50782,
@@ -346,6 +361,9 @@ export const president_2024_tic_227_region_19 = [
     "ballot": "presidential",
     "tikTvd": "2192000883368",
     "tikName": "Саяногорская городская",
+    "regionCode": "19",
+    "regionTvd": "100100339411213",
+    "regionName": "Республика Хакасия",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 45033,
@@ -411,6 +429,9 @@ export const president_2024_tic_227_region_19 = [
     "ballot": "presidential",
     "tikTvd": "2192000883369",
     "tikName": "Бейская",
+    "regionCode": "19",
+    "regionTvd": "100100339411213",
+    "regionName": "Республика Хакасия",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 13431,
@@ -477,6 +498,9 @@ export const president_2024_tic_227_region_19 = [
     "ballot": "presidential",
     "tikTvd": "2192000883370",
     "tikName": "Усть-Абаканская",
+    "regionCode": "19",
+    "regionTvd": "100100339411213",
+    "regionName": "Республика Хакасия",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 31828,
@@ -548,6 +572,9 @@ export const president_2024_tic_227_region_19 = [
     "ballot": "presidential",
     "tikTvd": "2192000883371",
     "tikName": "Сорская городская",
+    "regionCode": "19",
+    "regionTvd": "100100339411213",
+    "regionName": "Республика Хакасия",
     "uikCount": 5,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 7602,
@@ -593,6 +620,9 @@ export const president_2024_tic_227_region_19 = [
     "ballot": "presidential",
     "tikTvd": "2192000883372",
     "tikName": "Абаканская городская",
+    "regionCode": "19",
+    "regionTvd": "100100339411213",
+    "regionName": "Республика Хакасия",
     "uikCount": 79,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 136049,
@@ -712,6 +742,9 @@ export const president_2024_tic_227_region_19 = [
     "ballot": "presidential",
     "tikTvd": "2192000883373",
     "tikName": "Алтайская",
+    "regionCode": "19",
+    "regionTvd": "100100339411213",
+    "regionName": "Республика Хакасия",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 17583,
@@ -776,6 +809,9 @@ export const president_2024_tic_227_region_19 = [
     "ballot": "presidential",
     "tikTvd": "2192000883374",
     "tikName": "Орджоникидзевская",
+    "regionCode": "19",
+    "regionTvd": "100100339411213",
+    "regionName": "Республика Хакасия",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 8311,
@@ -837,6 +873,9 @@ export const president_2024_tic_227_region_19 = [
     "ballot": "presidential",
     "tikTvd": "2192000883375",
     "tikName": "Ширинская",
+    "regionCode": "19",
+    "regionTvd": "100100339411213",
+    "regionName": "Республика Хакасия",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 19523,

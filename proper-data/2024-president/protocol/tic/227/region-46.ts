@@ -11,6 +11,9 @@ export const president_2024_tic_227_region_46 = [
     "ballot": "presidential",
     "tikTvd": "24620001401702",
     "tikName": "Беловская",
+    "regionCode": "46",
+    "regionTvd": "100100339411239",
+    "regionName": "Курская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 12077,
@@ -75,6 +78,9 @@ export const president_2024_tic_227_region_46 = [
     "ballot": "presidential",
     "tikTvd": "24620001401703",
     "tikName": "Курск, Центральная №2",
+    "regionCode": "46",
+    "regionTvd": "100100339411239",
+    "regionName": "Курская область",
     "uikCount": 54,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 85032,
@@ -169,6 +175,9 @@ export const president_2024_tic_227_region_46 = [
     "ballot": "presidential",
     "tikTvd": "24620001401704",
     "tikName": "Щигровская городская",
+    "regionCode": "46",
+    "regionTvd": "100100339411239",
+    "regionName": "Курская область",
     "uikCount": 10,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 11175,
@@ -219,6 +228,9 @@ export const president_2024_tic_227_region_46 = [
     "ballot": "presidential",
     "tikTvd": "24620001401705",
     "tikName": "Льговская городская",
+    "regionCode": "46",
+    "regionTvd": "100100339411239",
+    "regionName": "Курская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 12877,
@@ -274,6 +286,9 @@ export const president_2024_tic_227_region_46 = [
     "ballot": "presidential",
     "tikTvd": "24620001401706",
     "tikName": "Курчатовская городская",
+    "regionCode": "46",
+    "regionTvd": "100100339411239",
+    "regionName": "Курская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 28719,
@@ -334,6 +349,9 @@ export const president_2024_tic_227_region_46 = [
     "ballot": "presidential",
     "tikTvd": "24620001401707",
     "tikName": "Железногорская",
+    "regionCode": "46",
+    "regionTvd": "100100339411239",
+    "regionName": "Курская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10802,
@@ -397,6 +415,9 @@ export const president_2024_tic_227_region_46 = [
     "ballot": "presidential",
     "tikTvd": "24620001401708",
     "tikName": "Щигровская",
+    "regionCode": "46",
+    "regionTvd": "100100339411239",
+    "regionName": "Курская область",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 7437,
@@ -464,6 +485,9 @@ export const president_2024_tic_227_region_46 = [
     "ballot": "presidential",
     "tikTvd": "24620001401709",
     "tikName": "Черемисиновская",
+    "regionCode": "46",
+    "regionTvd": "100100339411239",
+    "regionName": "Курская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 6497,
@@ -527,6 +551,9 @@ export const president_2024_tic_227_region_46 = [
     "ballot": "presidential",
     "tikTvd": "24620001401710",
     "tikName": "Хомутовская",
+    "regionCode": "46",
+    "regionTvd": "100100339411239",
+    "regionName": "Курская область",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 6915,
@@ -584,6 +611,9 @@ export const president_2024_tic_227_region_46 = [
     "ballot": "presidential",
     "tikTvd": "24620001401711",
     "tikName": "Фатежская",
+    "regionCode": "46",
+    "regionTvd": "100100339411239",
+    "regionName": "Курская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 12623,
@@ -650,6 +680,9 @@ export const president_2024_tic_227_region_46 = [
     "ballot": "presidential",
     "tikTvd": "24620001401712",
     "tikName": "Тимская",
+    "regionCode": "46",
+    "regionTvd": "100100339411239",
+    "regionName": "Курская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 7597,
@@ -710,6 +743,9 @@ export const president_2024_tic_227_region_46 = [
     "ballot": "presidential",
     "tikTvd": "24620001401713",
     "tikName": "Cуджанская",
+    "regionCode": "46",
+    "regionTvd": "100100339411239",
+    "regionName": "Курская область",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 17991,
@@ -782,6 +818,9 @@ export const president_2024_tic_227_region_46 = [
     "ballot": "presidential",
     "tikTvd": "24620001401714",
     "tikName": "Солнцевская",
+    "regionCode": "46",
+    "regionTvd": "100100339411239",
+    "regionName": "Курская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9589,
@@ -845,6 +884,9 @@ export const president_2024_tic_227_region_46 = [
     "ballot": "presidential",
     "tikTvd": "24620001401715",
     "tikName": " Советская",
+    "regionCode": "46",
+    "regionTvd": "100100339411239",
+    "regionName": "Курская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 12599,
@@ -916,6 +958,9 @@ export const president_2024_tic_227_region_46 = [
     "ballot": "presidential",
     "tikTvd": "24620001401716",
     "tikName": "Рыльская",
+    "regionCode": "46",
+    "regionTvd": "100100339411239",
+    "regionName": "Курская область",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 21134,
@@ -999,6 +1044,9 @@ export const president_2024_tic_227_region_46 = [
     "ballot": "presidential",
     "tikTvd": "24620001401717",
     "tikName": "Пристенская",
+    "regionCode": "46",
+    "regionTvd": "100100339411239",
+    "regionName": "Курская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10355,
@@ -1062,6 +1110,9 @@ export const president_2024_tic_227_region_46 = [
     "ballot": "presidential",
     "tikTvd": "24620001401718",
     "tikName": "Поныровская",
+    "regionCode": "46",
+    "regionTvd": "100100339411239",
+    "regionName": "Курская область",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 7499,
@@ -1118,6 +1169,9 @@ export const president_2024_tic_227_region_46 = [
     "ballot": "presidential",
     "tikTvd": "24620001401719",
     "tikName": "Октябрьская",
+    "regionCode": "46",
+    "regionTvd": "100100339411239",
+    "regionName": "Курская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 15801,
@@ -1180,6 +1234,9 @@ export const president_2024_tic_227_region_46 = [
     "ballot": "presidential",
     "tikTvd": "24620001401720",
     "tikName": "Обоянская",
+    "regionCode": "46",
+    "regionTvd": "100100339411239",
+    "regionName": "Курская область",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 20694,
@@ -1259,6 +1316,9 @@ export const president_2024_tic_227_region_46 = [
     "ballot": "presidential",
     "tikTvd": "24620001401721",
     "tikName": "Медвенская",
+    "regionCode": "46",
+    "regionTvd": "100100339411239",
+    "regionName": "Курская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 11620,
@@ -1321,6 +1381,9 @@ export const president_2024_tic_227_region_46 = [
     "ballot": "presidential",
     "tikTvd": "24620001401722",
     "tikName": "Мантуровская",
+    "regionCode": "46",
+    "regionTvd": "100100339411239",
+    "regionName": "Курская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 8298,
@@ -1380,6 +1443,9 @@ export const president_2024_tic_227_region_46 = [
     "ballot": "presidential",
     "tikTvd": "24620001401723",
     "tikName": "Льговская",
+    "regionCode": "46",
+    "regionTvd": "100100339411239",
+    "regionName": "Курская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9413,
@@ -1448,6 +1514,9 @@ export const president_2024_tic_227_region_46 = [
     "ballot": "presidential",
     "tikTvd": "24620001401724",
     "tikName": "Курчатовская",
+    "regionCode": "46",
+    "regionTvd": "100100339411239",
+    "regionName": "Курская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 11332,
@@ -1510,6 +1579,9 @@ export const president_2024_tic_227_region_46 = [
     "ballot": "presidential",
     "tikTvd": "24620001401725",
     "tikName": "Курская",
+    "regionCode": "46",
+    "regionTvd": "100100339411239",
+    "regionName": "Курская область",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 43950,
@@ -1600,6 +1672,9 @@ export const president_2024_tic_227_region_46 = [
     "ballot": "presidential",
     "tikTvd": "24620001401726",
     "tikName": "Курск, Центральная №1",
+    "regionCode": "46",
+    "regionTvd": "100100339411239",
+    "regionName": "Курская область",
     "uikCount": 63,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 79037,
@@ -1703,6 +1778,9 @@ export const president_2024_tic_227_region_46 = [
     "ballot": "presidential",
     "tikTvd": "24620001401727",
     "tikName": "Курск, Сеймская",
+    "regionCode": "46",
+    "regionTvd": "100100339411239",
+    "regionName": "Курская область",
     "uikCount": 48,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 94013,
@@ -1791,6 +1869,9 @@ export const president_2024_tic_227_region_46 = [
     "ballot": "presidential",
     "tikTvd": "24620001401728",
     "tikName": "Курск, Железнодорожная",
+    "regionCode": "46",
+    "regionTvd": "100100339411239",
+    "regionName": "Курская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 50211,
@@ -1871,6 +1952,9 @@ export const president_2024_tic_227_region_46 = [
     "ballot": "presidential",
     "tikTvd": "24620001401729",
     "tikName": "Кореневская",
+    "regionCode": "46",
+    "regionTvd": "100100339411239",
+    "regionName": "Курская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 11789,
@@ -1932,6 +2016,9 @@ export const president_2024_tic_227_region_46 = [
     "ballot": "presidential",
     "tikTvd": "24620001401730",
     "tikName": "Конышевская",
+    "regionCode": "46",
+    "regionTvd": "100100339411239",
+    "regionName": "Курская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 6365,
@@ -1990,6 +2077,9 @@ export const president_2024_tic_227_region_46 = [
     "ballot": "presidential",
     "tikTvd": "24620001401731",
     "tikName": "Касторенская",
+    "regionCode": "46",
+    "regionTvd": "100100339411239",
+    "regionName": "Курская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 11552,
@@ -2056,6 +2146,9 @@ export const president_2024_tic_227_region_46 = [
     "ballot": "presidential",
     "tikTvd": "24620001401732",
     "tikName": "Золотухинская",
+    "regionCode": "46",
+    "regionTvd": "100100339411239",
+    "regionName": "Курская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 14580,
@@ -2127,6 +2220,9 @@ export const president_2024_tic_227_region_46 = [
     "ballot": "presidential",
     "tikTvd": "24620001401733",
     "tikName": "Железногорская городская",
+    "regionCode": "46",
+    "regionTvd": "100100339411239",
+    "regionName": "Курская область",
     "uikCount": 45,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 67359,
@@ -2212,6 +2308,9 @@ export const president_2024_tic_227_region_46 = [
     "ballot": "presidential",
     "tikTvd": "24620001401734",
     "tikName": "Дмитриевская",
+    "regionCode": "46",
+    "regionTvd": "100100339411239",
+    "regionName": "Курская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10454,
@@ -2277,6 +2376,9 @@ export const president_2024_tic_227_region_46 = [
     "ballot": "presidential",
     "tikTvd": "24620001401735",
     "tikName": "Горшеченская",
+    "regionCode": "46",
+    "regionTvd": "100100339411239",
+    "regionName": "Курская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 11324,
@@ -2345,6 +2447,9 @@ export const president_2024_tic_227_region_46 = [
     "ballot": "presidential",
     "tikTvd": "24620001401736",
     "tikName": "Глушковская",
+    "regionCode": "46",
+    "regionTvd": "100100339411239",
+    "regionName": "Курская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 14581,
@@ -2411,6 +2516,9 @@ export const president_2024_tic_227_region_46 = [
     "ballot": "presidential",
     "tikTvd": "24620001401737",
     "tikName": "Большесолдатская",
+    "regionCode": "46",
+    "regionTvd": "100100339411239",
+    "regionName": "Курская область",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 7670,

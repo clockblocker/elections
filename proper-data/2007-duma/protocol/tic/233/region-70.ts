@@ -11,6 +11,9 @@ export const duma_2007_tic_233_region_70 = [
     "ballot": "party",
     "tikTvd": "2702000119886",
     "tikName": "Северская городская",
+    "regionCode": "70",
+    "regionTvd": "100100021960324",
+    "regionName": "Томская область",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 96017,
@@ -109,6 +112,9 @@ export const duma_2007_tic_233_region_70 = [
     "ballot": "party",
     "tikTvd": "2702000119887",
     "tikName": "Первомайская",
+    "regionCode": "70",
+    "regionTvd": "100100021960324",
+    "regionName": "Томская область",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 15161,
@@ -195,6 +201,9 @@ export const duma_2007_tic_233_region_70 = [
     "ballot": "party",
     "tikTvd": "2702000119888",
     "tikName": "Cтрежевская городская",
+    "regionCode": "70",
+    "regionTvd": "100100021960324",
+    "regionName": "Томская область",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 32161,
@@ -261,6 +270,9 @@ export const duma_2007_tic_233_region_70 = [
     "ballot": "party",
     "tikTvd": "2702000119889",
     "tikName": "Кривошеинская",
+    "regionCode": "70",
+    "regionTvd": "100100021960324",
+    "regionName": "Томская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 11391,
@@ -343,6 +355,9 @@ export const duma_2007_tic_233_region_70 = [
     "ballot": "party",
     "tikTvd": "2702000119890",
     "tikName": "Парабельская",
+    "regionCode": "70",
+    "regionTvd": "100100021960324",
+    "regionName": "Томская область",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 10454,
@@ -424,6 +439,9 @@ export const duma_2007_tic_233_region_70 = [
     "ballot": "party",
     "tikTvd": "2702000119891",
     "tikName": "Колпашевская",
+    "regionCode": "70",
+    "regionTvd": "100100021960324",
+    "regionName": "Томская область",
     "uikCount": 55,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 37077,
@@ -533,6 +551,9 @@ export const duma_2007_tic_233_region_70 = [
     "ballot": "party",
     "tikTvd": "2702000119892",
     "tikName": "Молчановская",
+    "regionCode": "70",
+    "regionTvd": "100100021960324",
+    "regionName": "Томская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 12094,
@@ -616,6 +637,9 @@ export const duma_2007_tic_233_region_70 = [
     "ballot": "party",
     "tikTvd": "2702000119893",
     "tikName": "Каргасокская",
+    "regionCode": "70",
+    "regionTvd": "100100021960324",
+    "regionName": "Томская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 18370,
@@ -700,6 +724,9 @@ export const duma_2007_tic_233_region_70 = [
     "ballot": "party",
     "tikTvd": "2702000119894",
     "tikName": "Кедровская городская",
+    "regionCode": "70",
+    "regionTvd": "100100021960324",
+    "regionName": "Томская область",
     "uikCount": 7,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 3096,
@@ -761,6 +788,9 @@ export const duma_2007_tic_233_region_70 = [
     "ballot": "party",
     "tikTvd": "2702000119895",
     "tikName": "Кожевниковская",
+    "regionCode": "70",
+    "regionTvd": "100100021960324",
+    "regionName": "Томская область",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 16418,
@@ -847,6 +877,9 @@ export const duma_2007_tic_233_region_70 = [
     "ballot": "party",
     "tikTvd": "2702000119896",
     "tikName": "Зырянская",
+    "regionCode": "70",
+    "regionTvd": "100100021960324",
+    "regionName": "Томская область",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 11999,
@@ -934,6 +967,9 @@ export const duma_2007_tic_233_region_70 = [
     "ballot": "party",
     "tikTvd": "2702000119897",
     "tikName": "Асиновская",
+    "regionCode": "70",
+    "regionTvd": "100100021960324",
+    "regionName": "Томская область",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 29421,
@@ -1032,6 +1068,9 @@ export const duma_2007_tic_233_region_70 = [
     "ballot": "party",
     "tikTvd": "2702000119898",
     "tikName": "Бакчарская",
+    "regionCode": "70",
+    "regionTvd": "100100021960324",
+    "regionName": "Томская область",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 10499,
@@ -1119,6 +1158,9 @@ export const duma_2007_tic_233_region_70 = [
     "ballot": "party",
     "tikTvd": "2702000119899",
     "tikName": "Верхнекетская",
+    "regionCode": "70",
+    "regionTvd": "100100021960324",
+    "regionName": "Томская область",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 13842,
@@ -1189,6 +1231,9 @@ export const duma_2007_tic_233_region_70 = [
     "ballot": "party",
     "tikTvd": "2702000119900",
     "tikName": "Александровская",
+    "regionCode": "70",
+    "regionTvd": "100100021960324",
+    "regionName": "Томская область",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 7592,
@@ -1255,6 +1300,9 @@ export const duma_2007_tic_233_region_70 = [
     "ballot": "party",
     "tikTvd": "2702000119901",
     "tikName": "Шегарская",
+    "regionCode": "70",
+    "regionTvd": "100100021960324",
+    "regionName": "Томская область",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 15727,
@@ -1341,6 +1389,9 @@ export const duma_2007_tic_233_region_70 = [
     "ballot": "party",
     "tikTvd": "2702000119902",
     "tikName": "Чаинская",
+    "regionCode": "70",
+    "regionTvd": "100100021960324",
+    "regionName": "Томская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 10071,
@@ -1429,6 +1480,9 @@ export const duma_2007_tic_233_region_70 = [
     "ballot": "party",
     "tikTvd": "2702000119903",
     "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100021960324",
+    "regionName": "Томская область",
     "uikCount": 78,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 50142,
@@ -1561,6 +1615,9 @@ export const duma_2007_tic_233_region_70 = [
     "ballot": "party",
     "tikTvd": "2702000119904",
     "tikName": "Томск, Ленинская",
+    "regionCode": "70",
+    "regionTvd": "100100021960324",
+    "regionName": "Томская область",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 81925,
@@ -1658,6 +1715,9 @@ export const duma_2007_tic_233_region_70 = [
     "ballot": "party",
     "tikTvd": "2702000119905",
     "tikName": "Томск, Октябрьская",
+    "regionCode": "70",
+    "regionTvd": "100100021960324",
+    "regionName": "Томская область",
     "uikCount": 71,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 119172,
@@ -1783,6 +1843,9 @@ export const duma_2007_tic_233_region_70 = [
     "ballot": "party",
     "tikTvd": "2702000119906",
     "tikName": "Томск, Советская",
+    "regionCode": "70",
+    "regionTvd": "100100021960324",
+    "regionName": "Томская область",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 77599,
@@ -1875,6 +1938,9 @@ export const duma_2007_tic_233_region_70 = [
     "ballot": "party",
     "tikTvd": "2702000119907",
     "tikName": "Томск, Кировская",
+    "regionCode": "70",
+    "regionTvd": "100100021960324",
+    "regionName": "Томская область",
     "uikCount": 53,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 86962,
@@ -1982,6 +2048,9 @@ export const duma_2007_tic_233_region_70 = [
     "ballot": "party",
     "tikTvd": "2702000119908",
     "tikName": "Тегульдетская",
+    "regionCode": "70",
+    "regionTvd": "100100021960324",
+    "regionName": "Томская область",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 6032,

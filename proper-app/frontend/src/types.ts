@@ -36,35 +36,64 @@ export interface Point {
   validBallots: number;
   ballotsCounted: number;
   optionVotes: number;
-  turnout: number;
-  result: number;
+  turnout: number | null;
+  result: number | null;
 }
 
 export interface AnalysisParameters {
-  referenceTurnoutMin: number;
-  referenceTurnoutMax: number;
-  analysisTurnoutMin: number;
-  positiveExcessOnly: boolean;
+  turnoutBinWidth: number;
+  turnoutWindow: number;
+  minTikPeers: number;
+  minRegionPeers: number;
+  tikPriorBallots: number;
+  regionPriorBallots: number;
+  dispersionPriorPoints: number;
+  fdrThreshold: number;
 }
 
 export interface PointEstimate {
+  status: "scored" | "unscored";
+  reason?: "no-valid-ballots" | "no-registered-voters" | "invalid-accounting" | "clt-small-expected-count" | "no-peer-model";
+  grade: "P0" | "P1" | "P2" | "P3" | "U";
+  observedVotes: number;
+  observedShare: number | null;
   baselineSource: string;
-  baselineOdds: number;
-  expectedVotes: number;
-  excessVotes: number;
+  peerPrecincts: number;
+  peerBallots: number;
+  expectedShare: number | null;
+  expectedVotes: number | null;
+  residualVotes: number | null;
+  standardErrorVotes: number | null;
+  interval95: [number, number] | null;
+  zScore: number | null;
+  pValue: number | null;
+  qValue: number | null;
+  pSus: number | null;
+  overdispersion: number | null;
+  qualityFlags: string[];
 }
 
 export interface AnalysisResult {
-  points: number;
-  referencePoints: number;
-  analyzedPoints: number;
-  regionsWithLocalBaseline: number;
-  baselineOdds: number;
-  baselineShare: number;
+  method: { slug: "peer-clt-v2"; version: 2 };
+  parameters: AnalysisParameters;
+  protocols: number;
+  scoredProtocols: number;
+  unscoredProtocols: number;
+  flaggedProtocols: number;
   observedVotes: number;
   expectedVotes: number;
-  estimatedExcessVotes: number;
+  flaggedResidualVotes: number;
   estimates: Map<string, PointEstimate>;
+}
+
+export interface AnalysisSummary {
+  protocols: number;
+  scoredProtocols: number;
+  unscoredProtocols: number;
+  flaggedProtocols: number;
+  observedVotes: number;
+  expectedVotes: number;
+  flaggedResidualVotes: number;
 }
 
 export interface ProtocolDetail {

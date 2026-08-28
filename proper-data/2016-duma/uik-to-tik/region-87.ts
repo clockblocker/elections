@@ -7,331 +7,826 @@ export const duma_2016_uik_to_tik_region_87 = [
   {
     "uikNumber": 1,
     "uikTvd": "487400298226",
+    "uikName": "УИК №1",
     "tikTvd": "2872000246656",
-    "tikName": "Анадырская городская"
+    "tikName": "Анадырская городская",
+    "regionCode": "87",
+    "regionTvd": "100100067796145",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100067796146",
+      "oikName": "Чукотский автономный округ – Чукотский"
+    }
   },
   {
     "uikNumber": 2,
     "uikTvd": "487400298227",
+    "uikName": "УИК №2",
     "tikTvd": "2872000246656",
-    "tikName": "Анадырская городская"
+    "tikName": "Анадырская городская",
+    "regionCode": "87",
+    "regionTvd": "100100067796145",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100067796146",
+      "oikName": "Чукотский автономный округ – Чукотский"
+    }
   },
   {
     "uikNumber": 3,
     "uikTvd": "487400298228",
+    "uikName": "УИК №3",
     "tikTvd": "2872000246656",
-    "tikName": "Анадырская городская"
+    "tikName": "Анадырская городская",
+    "regionCode": "87",
+    "regionTvd": "100100067796145",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100067796146",
+      "oikName": "Чукотский автономный округ – Чукотский"
+    }
   },
   {
     "uikNumber": 4,
     "uikTvd": "487400298229",
+    "uikName": "УИК №4",
     "tikTvd": "2872000246656",
-    "tikName": "Анадырская городская"
+    "tikName": "Анадырская городская",
+    "regionCode": "87",
+    "regionTvd": "100100067796145",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100067796146",
+      "oikName": "Чукотский автономный округ – Чукотский"
+    }
   },
   {
     "uikNumber": 5,
     "uikTvd": "487400298230",
+    "uikName": "УИК №5",
     "tikTvd": "2872000246656",
-    "tikName": "Анадырская городская"
+    "tikName": "Анадырская городская",
+    "regionCode": "87",
+    "regionTvd": "100100067796145",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100067796146",
+      "oikName": "Чукотский автономный округ – Чукотский"
+    }
   },
   {
     "uikNumber": 6,
     "uikTvd": "4874001132305",
+    "uikName": "УИК №6",
     "tikTvd": "2872000246653",
-    "tikName": "Анадырская"
+    "tikName": "Анадырская",
+    "regionCode": "87",
+    "regionTvd": "100100067796145",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100067796146",
+      "oikName": "Чукотский автономный округ – Чукотский"
+    }
   },
   {
     "uikNumber": 7,
     "uikTvd": "4874001132306",
+    "uikName": "УИК №7",
     "tikTvd": "2872000246653",
-    "tikName": "Анадырская"
+    "tikName": "Анадырская",
+    "regionCode": "87",
+    "regionTvd": "100100067796145",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100067796146",
+      "oikName": "Чукотский автономный округ – Чукотский"
+    }
   },
   {
     "uikNumber": 8,
     "uikTvd": "4874001132307",
+    "uikName": "УИК №8",
     "tikTvd": "2872000246653",
-    "tikName": "Анадырская"
+    "tikName": "Анадырская",
+    "regionCode": "87",
+    "regionTvd": "100100067796145",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100067796146",
+      "oikName": "Чукотский автономный округ – Чукотский"
+    }
   },
   {
     "uikNumber": 9,
     "uikTvd": "4874001132308",
+    "uikName": "УИК №9",
     "tikTvd": "2872000246653",
-    "tikName": "Анадырская"
+    "tikName": "Анадырская",
+    "regionCode": "87",
+    "regionTvd": "100100067796145",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100067796146",
+      "oikName": "Чукотский автономный округ – Чукотский"
+    }
   },
   {
     "uikNumber": 10,
     "uikTvd": "4874001132309",
+    "uikName": "УИК №10",
     "tikTvd": "2872000246653",
-    "tikName": "Анадырская"
+    "tikName": "Анадырская",
+    "regionCode": "87",
+    "regionTvd": "100100067796145",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100067796146",
+      "oikName": "Чукотский автономный округ – Чукотский"
+    }
   },
   {
     "uikNumber": 11,
     "uikTvd": "4874001132310",
+    "uikName": "УИК №11",
     "tikTvd": "2872000246653",
-    "tikName": "Анадырская"
+    "tikName": "Анадырская",
+    "regionCode": "87",
+    "regionTvd": "100100067796145",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100067796146",
+      "oikName": "Чукотский автономный округ – Чукотский"
+    }
   },
   {
     "uikNumber": 12,
     "uikTvd": "4874001132311",
+    "uikName": "УИК №12",
     "tikTvd": "2872000246653",
-    "tikName": "Анадырская"
+    "tikName": "Анадырская",
+    "regionCode": "87",
+    "regionTvd": "100100067796145",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100067796146",
+      "oikName": "Чукотский автономный округ – Чукотский"
+    }
   },
   {
     "uikNumber": 13,
     "uikTvd": "4874001132312",
+    "uikName": "УИК №13",
     "tikTvd": "2872000246653",
-    "tikName": "Анадырская"
+    "tikName": "Анадырская",
+    "regionCode": "87",
+    "regionTvd": "100100067796145",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100067796146",
+      "oikName": "Чукотский автономный округ – Чукотский"
+    }
   },
   {
     "uikNumber": 14,
     "uikTvd": "4874001132313",
+    "uikName": "УИК №14",
     "tikTvd": "2872000246653",
-    "tikName": "Анадырская"
+    "tikName": "Анадырская",
+    "regionCode": "87",
+    "regionTvd": "100100067796145",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100067796146",
+      "oikName": "Чукотский автономный округ – Чукотский"
+    }
   },
   {
     "uikNumber": 15,
     "uikTvd": "4874001132314",
+    "uikName": "УИК №15",
     "tikTvd": "2872000246653",
-    "tikName": "Анадырская"
+    "tikName": "Анадырская",
+    "regionCode": "87",
+    "regionTvd": "100100067796145",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100067796146",
+      "oikName": "Чукотский автономный округ – Чукотский"
+    }
   },
   {
     "uikNumber": 16,
     "uikTvd": "4874001132315",
+    "uikName": "УИК №16",
     "tikTvd": "2872000246653",
-    "tikName": "Анадырская"
+    "tikName": "Анадырская",
+    "regionCode": "87",
+    "regionTvd": "100100067796145",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100067796146",
+      "oikName": "Чукотский автономный округ – Чукотский"
+    }
   },
   {
     "uikNumber": 17,
     "uikTvd": "4874001132316",
+    "uikName": "УИК №17",
     "tikTvd": "2872000246653",
-    "tikName": "Анадырская"
+    "tikName": "Анадырская",
+    "regionCode": "87",
+    "regionTvd": "100100067796145",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100067796146",
+      "oikName": "Чукотский автономный округ – Чукотский"
+    }
   },
   {
     "uikNumber": 18,
     "uikTvd": "4874001132317",
+    "uikName": "УИК №18",
     "tikTvd": "2872000246653",
-    "tikName": "Анадырская"
+    "tikName": "Анадырская",
+    "regionCode": "87",
+    "regionTvd": "100100067796145",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100067796146",
+      "oikName": "Чукотский автономный округ – Чукотский"
+    }
   },
   {
     "uikNumber": 19,
     "uikTvd": "4874001132318",
+    "uikName": "УИК №19",
     "tikTvd": "2872000246653",
-    "tikName": "Анадырская"
+    "tikName": "Анадырская",
+    "regionCode": "87",
+    "regionTvd": "100100067796145",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100067796146",
+      "oikName": "Чукотский автономный округ – Чукотский"
+    }
   },
   {
     "uikNumber": 20,
     "uikTvd": "4874001132319",
+    "uikName": "УИК №20",
     "tikTvd": "2872000246653",
-    "tikName": "Анадырская"
+    "tikName": "Анадырская",
+    "regionCode": "87",
+    "regionTvd": "100100067796145",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100067796146",
+      "oikName": "Чукотский автономный округ – Чукотский"
+    }
   },
   {
     "uikNumber": 21,
     "uikTvd": "4874004104098",
+    "uikName": "УИК №21",
     "tikTvd": "2872000246659",
-    "tikName": "Билибинская"
+    "tikName": "Билибинская",
+    "regionCode": "87",
+    "regionTvd": "100100067796145",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100067796146",
+      "oikName": "Чукотский автономный округ – Чукотский"
+    }
   },
   {
     "uikNumber": 22,
     "uikTvd": "4874004104099",
+    "uikName": "УИК №22",
     "tikTvd": "2872000246659",
-    "tikName": "Билибинская"
+    "tikName": "Билибинская",
+    "regionCode": "87",
+    "regionTvd": "100100067796145",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100067796146",
+      "oikName": "Чукотский автономный округ – Чукотский"
+    }
   },
   {
     "uikNumber": 23,
     "uikTvd": "4874004104100",
+    "uikName": "УИК №23",
     "tikTvd": "2872000246659",
-    "tikName": "Билибинская"
+    "tikName": "Билибинская",
+    "regionCode": "87",
+    "regionTvd": "100100067796145",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100067796146",
+      "oikName": "Чукотский автономный округ – Чукотский"
+    }
   },
   {
     "uikNumber": 24,
     "uikTvd": "4874004104101",
+    "uikName": "УИК №24",
     "tikTvd": "2872000246659",
-    "tikName": "Билибинская"
+    "tikName": "Билибинская",
+    "regionCode": "87",
+    "regionTvd": "100100067796145",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100067796146",
+      "oikName": "Чукотский автономный округ – Чукотский"
+    }
   },
   {
     "uikNumber": 25,
     "uikTvd": "4874004104102",
+    "uikName": "УИК №25",
     "tikTvd": "2872000246659",
-    "tikName": "Билибинская"
+    "tikName": "Билибинская",
+    "regionCode": "87",
+    "regionTvd": "100100067796145",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100067796146",
+      "oikName": "Чукотский автономный округ – Чукотский"
+    }
   },
   {
     "uikNumber": 26,
     "uikTvd": "4874004104103",
+    "uikName": "УИК №26",
     "tikTvd": "2872000246659",
-    "tikName": "Билибинская"
+    "tikName": "Билибинская",
+    "regionCode": "87",
+    "regionTvd": "100100067796145",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100067796146",
+      "oikName": "Чукотский автономный округ – Чукотский"
+    }
   },
   {
     "uikNumber": 27,
     "uikTvd": "4874004104104",
+    "uikName": "УИК №27",
     "tikTvd": "2872000246659",
-    "tikName": "Билибинская"
+    "tikName": "Билибинская",
+    "regionCode": "87",
+    "regionTvd": "100100067796145",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100067796146",
+      "oikName": "Чукотский автономный округ – Чукотский"
+    }
   },
   {
     "uikNumber": 28,
     "uikTvd": "4874004104105",
+    "uikName": "УИК №28",
     "tikTvd": "2872000246659",
-    "tikName": "Билибинская"
+    "tikName": "Билибинская",
+    "regionCode": "87",
+    "regionTvd": "100100067796145",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100067796146",
+      "oikName": "Чукотский автономный округ – Чукотский"
+    }
   },
   {
     "uikNumber": 29,
     "uikTvd": "4874004104106",
+    "uikName": "УИК №29",
     "tikTvd": "2872000246659",
-    "tikName": "Билибинская"
+    "tikName": "Билибинская",
+    "regionCode": "87",
+    "regionTvd": "100100067796145",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100067796146",
+      "oikName": "Чукотский автономный округ – Чукотский"
+    }
   },
   {
     "uikNumber": 30,
     "uikTvd": "4874005123461",
+    "uikName": "УИК №30",
     "tikTvd": "2872000246654",
-    "tikName": "Эгвекинотская"
+    "tikName": "Эгвекинотская",
+    "regionCode": "87",
+    "regionTvd": "100100067796145",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100067796146",
+      "oikName": "Чукотский автономный округ – Чукотский"
+    }
   },
   {
     "uikNumber": 31,
     "uikTvd": "4874005123462",
+    "uikName": "УИК №31",
     "tikTvd": "2872000246654",
-    "tikName": "Эгвекинотская"
+    "tikName": "Эгвекинотская",
+    "regionCode": "87",
+    "regionTvd": "100100067796145",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100067796146",
+      "oikName": "Чукотский автономный округ – Чукотский"
+    }
   },
   {
     "uikNumber": 32,
     "uikTvd": "4874005123463",
+    "uikName": "УИК №32",
     "tikTvd": "2872000246654",
-    "tikName": "Эгвекинотская"
+    "tikName": "Эгвекинотская",
+    "regionCode": "87",
+    "regionTvd": "100100067796145",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100067796146",
+      "oikName": "Чукотский автономный округ – Чукотский"
+    }
   },
   {
     "uikNumber": 33,
     "uikTvd": "4874005123464",
+    "uikName": "УИК №33",
     "tikTvd": "2872000246654",
-    "tikName": "Эгвекинотская"
+    "tikName": "Эгвекинотская",
+    "regionCode": "87",
+    "regionTvd": "100100067796145",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100067796146",
+      "oikName": "Чукотский автономный округ – Чукотский"
+    }
   },
   {
     "uikNumber": 34,
     "uikTvd": "4874005123465",
+    "uikName": "УИК №34",
     "tikTvd": "2872000246654",
-    "tikName": "Эгвекинотская"
+    "tikName": "Эгвекинотская",
+    "regionCode": "87",
+    "regionTvd": "100100067796145",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100067796146",
+      "oikName": "Чукотский автономный округ – Чукотский"
+    }
   },
   {
     "uikNumber": 35,
     "uikTvd": "4874005123466",
+    "uikName": "УИК №35",
     "tikTvd": "2872000246654",
-    "tikName": "Эгвекинотская"
+    "tikName": "Эгвекинотская",
+    "regionCode": "87",
+    "regionTvd": "100100067796145",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100067796146",
+      "oikName": "Чукотский автономный округ – Чукотский"
+    }
   },
   {
     "uikNumber": 36,
     "uikTvd": "4874005123467",
+    "uikName": "УИК №36",
     "tikTvd": "2872000246654",
-    "tikName": "Эгвекинотская"
+    "tikName": "Эгвекинотская",
+    "regionCode": "87",
+    "regionTvd": "100100067796145",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100067796146",
+      "oikName": "Чукотский автономный округ – Чукотский"
+    }
   },
   {
     "uikNumber": 37,
     "uikTvd": "4874005123468",
+    "uikName": "УИК №37",
     "tikTvd": "2872000246654",
-    "tikName": "Эгвекинотская"
+    "tikName": "Эгвекинотская",
+    "regionCode": "87",
+    "regionTvd": "100100067796145",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100067796146",
+      "oikName": "Чукотский автономный округ – Чукотский"
+    }
   },
   {
     "uikNumber": 38,
     "uikTvd": "4874006137722",
+    "uikName": "УИК №38",
     "tikTvd": "2872000246657",
-    "tikName": "Провиденская"
+    "tikName": "Провиденская",
+    "regionCode": "87",
+    "regionTvd": "100100067796145",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100067796146",
+      "oikName": "Чукотский автономный округ – Чукотский"
+    }
   },
   {
     "uikNumber": 39,
     "uikTvd": "4874006137723",
+    "uikName": "УИК №39",
     "tikTvd": "2872000246657",
-    "tikName": "Провиденская"
+    "tikName": "Провиденская",
+    "regionCode": "87",
+    "regionTvd": "100100067796145",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100067796146",
+      "oikName": "Чукотский автономный округ – Чукотский"
+    }
   },
   {
     "uikNumber": 40,
     "uikTvd": "4874006137724",
+    "uikName": "УИК №40",
     "tikTvd": "2872000246657",
-    "tikName": "Провиденская"
+    "tikName": "Провиденская",
+    "regionCode": "87",
+    "regionTvd": "100100067796145",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100067796146",
+      "oikName": "Чукотский автономный округ – Чукотский"
+    }
   },
   {
     "uikNumber": 41,
     "uikTvd": "4874006137725",
+    "uikName": "УИК №41",
     "tikTvd": "2872000246657",
-    "tikName": "Провиденская"
+    "tikName": "Провиденская",
+    "regionCode": "87",
+    "regionTvd": "100100067796145",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100067796146",
+      "oikName": "Чукотский автономный округ – Чукотский"
+    }
   },
   {
     "uikNumber": 42,
     "uikTvd": "4874006137726",
+    "uikName": "УИК №42",
     "tikTvd": "2872000246657",
-    "tikName": "Провиденская"
+    "tikName": "Провиденская",
+    "regionCode": "87",
+    "regionTvd": "100100067796145",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100067796146",
+      "oikName": "Чукотский автономный округ – Чукотский"
+    }
   },
   {
     "uikNumber": 43,
     "uikTvd": "4874006137727",
+    "uikName": "УИК №43",
     "tikTvd": "2872000246657",
-    "tikName": "Провиденская"
+    "tikName": "Провиденская",
+    "regionCode": "87",
+    "regionTvd": "100100067796145",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100067796146",
+      "oikName": "Чукотский автономный округ – Чукотский"
+    }
   },
   {
     "uikNumber": 44,
     "uikTvd": "4874007127982",
+    "uikName": "УИК №44",
     "tikTvd": "2872000246658",
-    "tikName": "Певекская"
+    "tikName": "Певекская",
+    "regionCode": "87",
+    "regionTvd": "100100067796145",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100067796146",
+      "oikName": "Чукотский автономный округ – Чукотский"
+    }
   },
   {
     "uikNumber": 45,
     "uikTvd": "4874007127984",
+    "uikName": "УИК №45",
     "tikTvd": "2872000246658",
-    "tikName": "Певекская"
+    "tikName": "Певекская",
+    "regionCode": "87",
+    "regionTvd": "100100067796145",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100067796146",
+      "oikName": "Чукотский автономный округ – Чукотский"
+    }
   },
   {
     "uikNumber": 46,
     "uikTvd": "4874007127986",
+    "uikName": "УИК №46",
     "tikTvd": "2872000246658",
-    "tikName": "Певекская"
+    "tikName": "Певекская",
+    "regionCode": "87",
+    "regionTvd": "100100067796145",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100067796146",
+      "oikName": "Чукотский автономный округ – Чукотский"
+    }
   },
   {
     "uikNumber": 47,
     "uikTvd": "4874007127988",
+    "uikName": "УИК №47",
     "tikTvd": "2872000246658",
-    "tikName": "Певекская"
+    "tikName": "Певекская",
+    "regionCode": "87",
+    "regionTvd": "100100067796145",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100067796146",
+      "oikName": "Чукотский автономный округ – Чукотский"
+    }
   },
   {
     "uikNumber": 48,
     "uikTvd": "4874007127990",
+    "uikName": "УИК №48",
     "tikTvd": "2872000246658",
-    "tikName": "Певекская"
+    "tikName": "Певекская",
+    "regionCode": "87",
+    "regionTvd": "100100067796145",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100067796146",
+      "oikName": "Чукотский автономный округ – Чукотский"
+    }
   },
   {
     "uikNumber": 49,
     "uikTvd": "4874007127992",
+    "uikName": "УИК №49",
     "tikTvd": "2872000246658",
-    "tikName": "Певекская"
+    "tikName": "Певекская",
+    "regionCode": "87",
+    "regionTvd": "100100067796145",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100067796146",
+      "oikName": "Чукотский автономный округ – Чукотский"
+    }
   },
   {
     "uikNumber": 50,
     "uikTvd": "4874008103354",
+    "uikName": "УИК №50",
     "tikTvd": "2872000246655",
-    "tikName": "Чукотская"
+    "tikName": "Чукотская",
+    "regionCode": "87",
+    "regionTvd": "100100067796145",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100067796146",
+      "oikName": "Чукотский автономный округ – Чукотский"
+    }
   },
   {
     "uikNumber": 51,
     "uikTvd": "4874008103355",
+    "uikName": "УИК №51",
     "tikTvd": "2872000246655",
-    "tikName": "Чукотская"
+    "tikName": "Чукотская",
+    "regionCode": "87",
+    "regionTvd": "100100067796145",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100067796146",
+      "oikName": "Чукотский автономный округ – Чукотский"
+    }
   },
   {
     "uikNumber": 52,
     "uikTvd": "4874008103356",
+    "uikName": "УИК №52",
     "tikTvd": "2872000246655",
-    "tikName": "Чукотская"
+    "tikName": "Чукотская",
+    "regionCode": "87",
+    "regionTvd": "100100067796145",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100067796146",
+      "oikName": "Чукотский автономный округ – Чукотский"
+    }
   },
   {
     "uikNumber": 53,
     "uikTvd": "4874008103357",
+    "uikName": "УИК №53",
     "tikTvd": "2872000246655",
-    "tikName": "Чукотская"
+    "tikName": "Чукотская",
+    "regionCode": "87",
+    "regionTvd": "100100067796145",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100067796146",
+      "oikName": "Чукотский автономный округ – Чукотский"
+    }
   },
   {
     "uikNumber": 54,
     "uikTvd": "4874008103358",
+    "uikName": "УИК №54",
     "tikTvd": "2872000246655",
-    "tikName": "Чукотская"
+    "tikName": "Чукотская",
+    "regionCode": "87",
+    "regionTvd": "100100067796145",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100067796146",
+      "oikName": "Чукотский автономный округ – Чукотский"
+    }
   },
   {
     "uikNumber": 55,
     "uikTvd": "4874008103359",
+    "uikName": "УИК №55",
     "tikTvd": "2872000246655",
-    "tikName": "Чукотская"
+    "tikName": "Чукотская",
+    "regionCode": "87",
+    "regionTvd": "100100067796145",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100067796146",
+      "oikName": "Чукотский автономный округ – Чукотский"
+    }
   }
 ] satisfies readonly UikTikRelation[];

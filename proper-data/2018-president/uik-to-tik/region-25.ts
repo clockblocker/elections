@@ -7,9481 +7,17381 @@ export const president_2018_uik_to_tik_region_25 = [
   {
     "uikNumber": 101,
     "uikTvd": "4254001190385",
+    "uikName": "УИК №101",
     "tikTvd": "22520001321751",
-    "tikName": "Анучинская"
+    "tikName": "Анучинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 102,
     "uikTvd": "4254001190386",
+    "uikName": "УИК №102",
     "tikTvd": "22520001321751",
-    "tikName": "Анучинская"
+    "tikName": "Анучинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 103,
     "uikTvd": "4254001190387",
+    "uikName": "УИК №103",
     "tikTvd": "22520001321751",
-    "tikName": "Анучинская"
+    "tikName": "Анучинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 104,
     "uikTvd": "4254001190388",
+    "uikName": "УИК №104",
     "tikTvd": "22520001321751",
-    "tikName": "Анучинская"
+    "tikName": "Анучинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 105,
     "uikTvd": "4254001190389",
+    "uikName": "УИК №105",
     "tikTvd": "22520001321751",
-    "tikName": "Анучинская"
+    "tikName": "Анучинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 106,
     "uikTvd": "4254001190390",
+    "uikName": "УИК №106",
     "tikTvd": "22520001321751",
-    "tikName": "Анучинская"
+    "tikName": "Анучинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 107,
     "uikTvd": "4254001190391",
+    "uikName": "УИК №107",
     "tikTvd": "22520001321751",
-    "tikName": "Анучинская"
+    "tikName": "Анучинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 108,
     "uikTvd": "4254001190392",
+    "uikName": "УИК №108",
     "tikTvd": "22520001321751",
-    "tikName": "Анучинская"
+    "tikName": "Анучинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 109,
     "uikTvd": "4254001190393",
+    "uikName": "УИК №109",
     "tikTvd": "22520001321751",
-    "tikName": "Анучинская"
+    "tikName": "Анучинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 110,
     "uikTvd": "4254001190394",
+    "uikName": "УИК №110",
     "tikTvd": "22520001321751",
-    "tikName": "Анучинская"
+    "tikName": "Анучинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 111,
     "uikTvd": "4254001190395",
+    "uikName": "УИК №111",
     "tikTvd": "22520001321751",
-    "tikName": "Анучинская"
+    "tikName": "Анучинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 112,
     "uikTvd": "4254001190396",
+    "uikName": "УИК №112",
     "tikTvd": "22520001321751",
-    "tikName": "Анучинская"
+    "tikName": "Анучинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 113,
     "uikTvd": "4254001190397",
+    "uikName": "УИК №113",
     "tikTvd": "22520001321751",
-    "tikName": "Анучинская"
+    "tikName": "Анучинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 114,
     "uikTvd": "4254001190398",
+    "uikName": "УИК №114",
     "tikTvd": "22520001321751",
-    "tikName": "Анучинская"
+    "tikName": "Анучинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 115,
     "uikTvd": "4254001190399",
+    "uikName": "УИК №115",
     "tikTvd": "22520001321751",
-    "tikName": "Анучинская"
+    "tikName": "Анучинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 116,
     "uikTvd": "4254001190400",
+    "uikName": "УИК №116",
     "tikTvd": "22520001321751",
-    "tikName": "Анучинская"
+    "tikName": "Анучинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 117,
     "uikTvd": "4254001190401",
+    "uikName": "УИК №117",
     "tikTvd": "22520001321751",
-    "tikName": "Анучинская"
+    "tikName": "Анучинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 118,
     "uikTvd": "4254001190402",
+    "uikName": "УИК №118",
     "tikTvd": "22520001321751",
-    "tikName": "Анучинская"
+    "tikName": "Анучинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 119,
     "uikTvd": "4254001190403",
+    "uikName": "УИК №119",
     "tikTvd": "22520001321751",
-    "tikName": "Анучинская"
+    "tikName": "Анучинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 120,
     "uikTvd": "4254001190404",
+    "uikName": "УИК №120",
     "tikTvd": "22520001321751",
-    "tikName": "Анучинская"
+    "tikName": "Анучинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 121,
     "uikTvd": "4254001190405",
+    "uikName": "УИК №121",
     "tikTvd": "22520001321751",
-    "tikName": "Анучинская"
+    "tikName": "Анучинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 122,
     "uikTvd": "4254001190406",
+    "uikName": "УИК №122",
     "tikTvd": "22520001321751",
-    "tikName": "Анучинская"
+    "tikName": "Анучинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 123,
     "uikTvd": "4254001190407",
+    "uikName": "УИК №123",
     "tikTvd": "22520001321751",
-    "tikName": "Анучинская"
+    "tikName": "Анучинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 124,
     "uikTvd": "4254001190408",
+    "uikName": "УИК №124",
     "tikTvd": "22520001321751",
-    "tikName": "Анучинская"
+    "tikName": "Анучинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 125,
     "uikTvd": "4254001190409",
+    "uikName": "УИК №125",
     "tikTvd": "22520001321751",
-    "tikName": "Анучинская"
+    "tikName": "Анучинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 126,
     "uikTvd": "4254001190410",
+    "uikName": "УИК №126",
     "tikTvd": "22520001321751",
-    "tikName": "Анучинская"
+    "tikName": "Анучинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 127,
     "uikTvd": "4254001190411",
+    "uikName": "УИК №127",
     "tikTvd": "22520001321751",
-    "tikName": "Анучинская"
+    "tikName": "Анучинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 128,
     "uikTvd": "4254001190412",
+    "uikName": "УИК №128",
     "tikTvd": "22520001321751",
-    "tikName": "Анучинская"
+    "tikName": "Анучинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 201,
     "uikTvd": "4254002221497",
+    "uikName": "УИК №201",
     "tikTvd": "22520001321753",
-    "tikName": "Арсеньевская городская"
+    "tikName": "Арсеньевская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 202,
     "uikTvd": "4254002221498",
+    "uikName": "УИК №202",
     "tikTvd": "22520001321753",
-    "tikName": "Арсеньевская городская"
+    "tikName": "Арсеньевская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 203,
     "uikTvd": "4254002221499",
+    "uikName": "УИК №203",
     "tikTvd": "22520001321753",
-    "tikName": "Арсеньевская городская"
+    "tikName": "Арсеньевская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 204,
     "uikTvd": "4254002221500",
+    "uikName": "УИК №204",
     "tikTvd": "22520001321753",
-    "tikName": "Арсеньевская городская"
+    "tikName": "Арсеньевская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 205,
     "uikTvd": "4254002221501",
+    "uikName": "УИК №205",
     "tikTvd": "22520001321753",
-    "tikName": "Арсеньевская городская"
+    "tikName": "Арсеньевская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 206,
     "uikTvd": "4254002221502",
+    "uikName": "УИК №206",
     "tikTvd": "22520001321753",
-    "tikName": "Арсеньевская городская"
+    "tikName": "Арсеньевская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 207,
     "uikTvd": "4254002221503",
+    "uikName": "УИК №207",
     "tikTvd": "22520001321753",
-    "tikName": "Арсеньевская городская"
+    "tikName": "Арсеньевская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 208,
     "uikTvd": "4254002221504",
+    "uikName": "УИК №208",
     "tikTvd": "22520001321753",
-    "tikName": "Арсеньевская городская"
+    "tikName": "Арсеньевская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 209,
     "uikTvd": "4254002221505",
+    "uikName": "УИК №209",
     "tikTvd": "22520001321753",
-    "tikName": "Арсеньевская городская"
+    "tikName": "Арсеньевская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 210,
     "uikTvd": "4254002221506",
+    "uikName": "УИК №210",
     "tikTvd": "22520001321753",
-    "tikName": "Арсеньевская городская"
+    "tikName": "Арсеньевская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 211,
     "uikTvd": "4254002221507",
+    "uikName": "УИК №211",
     "tikTvd": "22520001321753",
-    "tikName": "Арсеньевская городская"
+    "tikName": "Арсеньевская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 212,
     "uikTvd": "4254002221508",
+    "uikName": "УИК №212",
     "tikTvd": "22520001321753",
-    "tikName": "Арсеньевская городская"
+    "tikName": "Арсеньевская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 213,
     "uikTvd": "4254002221509",
+    "uikName": "УИК №213",
     "tikTvd": "22520001321753",
-    "tikName": "Арсеньевская городская"
+    "tikName": "Арсеньевская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 214,
     "uikTvd": "4254002221510",
+    "uikName": "УИК №214",
     "tikTvd": "22520001321753",
-    "tikName": "Арсеньевская городская"
+    "tikName": "Арсеньевская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 215,
     "uikTvd": "4254002221511",
+    "uikName": "УИК №215",
     "tikTvd": "22520001321753",
-    "tikName": "Арсеньевская городская"
+    "tikName": "Арсеньевская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 216,
     "uikTvd": "4254002221512",
+    "uikName": "УИК №216",
     "tikTvd": "22520001321753",
-    "tikName": "Арсеньевская городская"
+    "tikName": "Арсеньевская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 217,
     "uikTvd": "4254002221513",
+    "uikName": "УИК №217",
     "tikTvd": "22520001321753",
-    "tikName": "Арсеньевская городская"
+    "tikName": "Арсеньевская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 218,
     "uikTvd": "4254002221514",
+    "uikName": "УИК №218",
     "tikTvd": "22520001321753",
-    "tikName": "Арсеньевская городская"
+    "tikName": "Арсеньевская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 219,
     "uikTvd": "4254002221515",
+    "uikName": "УИК №219",
     "tikTvd": "22520001321753",
-    "tikName": "Арсеньевская городская"
+    "tikName": "Арсеньевская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 220,
     "uikTvd": "4254002221516",
+    "uikName": "УИК №220",
     "tikTvd": "22520001321753",
-    "tikName": "Арсеньевская городская"
+    "tikName": "Арсеньевская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 221,
     "uikTvd": "4254002221517",
+    "uikName": "УИК №221",
     "tikTvd": "22520001321753",
-    "tikName": "Арсеньевская городская"
+    "tikName": "Арсеньевская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 222,
     "uikTvd": "4254002221518",
+    "uikName": "УИК №222",
     "tikTvd": "22520001321753",
-    "tikName": "Арсеньевская городская"
+    "tikName": "Арсеньевская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 280,
     "uikTvd": "4254002222380",
+    "uikName": "УИК №280",
     "tikTvd": "22520001321753",
-    "tikName": "Арсеньевская городская"
+    "tikName": "Арсеньевская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 301,
     "uikTvd": "4254003342044",
+    "uikName": "УИК №301",
     "tikTvd": "22520001321742",
-    "tikName": "Артёмовская городская"
+    "tikName": "Артёмовская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 302,
     "uikTvd": "4254003342045",
+    "uikName": "УИК №302",
     "tikTvd": "22520001321742",
-    "tikName": "Артёмовская городская"
+    "tikName": "Артёмовская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 303,
     "uikTvd": "4254003342046",
+    "uikName": "УИК №303",
     "tikTvd": "22520001321742",
-    "tikName": "Артёмовская городская"
+    "tikName": "Артёмовская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 304,
     "uikTvd": "4254003342047",
+    "uikName": "УИК №304",
     "tikTvd": "22520001321742",
-    "tikName": "Артёмовская городская"
+    "tikName": "Артёмовская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 305,
     "uikTvd": "4254003342048",
+    "uikName": "УИК №305",
     "tikTvd": "22520001321742",
-    "tikName": "Артёмовская городская"
+    "tikName": "Артёмовская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 306,
     "uikTvd": "4254003342049",
+    "uikName": "УИК №306",
     "tikTvd": "22520001321742",
-    "tikName": "Артёмовская городская"
+    "tikName": "Артёмовская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 307,
     "uikTvd": "4254003342050",
+    "uikName": "УИК №307",
     "tikTvd": "22520001321742",
-    "tikName": "Артёмовская городская"
+    "tikName": "Артёмовская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 308,
     "uikTvd": "4254003342051",
+    "uikName": "УИК №308",
     "tikTvd": "22520001321742",
-    "tikName": "Артёмовская городская"
+    "tikName": "Артёмовская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 309,
     "uikTvd": "4254003342052",
+    "uikName": "УИК №309",
     "tikTvd": "22520001321742",
-    "tikName": "Артёмовская городская"
+    "tikName": "Артёмовская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 310,
     "uikTvd": "4254003342053",
+    "uikName": "УИК №310",
     "tikTvd": "22520001321742",
-    "tikName": "Артёмовская городская"
+    "tikName": "Артёмовская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 311,
     "uikTvd": "4254003342054",
+    "uikName": "УИК №311",
     "tikTvd": "22520001321742",
-    "tikName": "Артёмовская городская"
+    "tikName": "Артёмовская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 312,
     "uikTvd": "4254003342055",
+    "uikName": "УИК №312",
     "tikTvd": "22520001321742",
-    "tikName": "Артёмовская городская"
+    "tikName": "Артёмовская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 313,
     "uikTvd": "4254003342056",
+    "uikName": "УИК №313",
     "tikTvd": "22520001321742",
-    "tikName": "Артёмовская городская"
+    "tikName": "Артёмовская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 314,
     "uikTvd": "4254003342057",
+    "uikName": "УИК №314",
     "tikTvd": "22520001321742",
-    "tikName": "Артёмовская городская"
+    "tikName": "Артёмовская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 315,
     "uikTvd": "4254003342058",
+    "uikName": "УИК №315",
     "tikTvd": "22520001321742",
-    "tikName": "Артёмовская городская"
+    "tikName": "Артёмовская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 316,
     "uikTvd": "4254003342059",
+    "uikName": "УИК №316",
     "tikTvd": "22520001321742",
-    "tikName": "Артёмовская городская"
+    "tikName": "Артёмовская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 317,
     "uikTvd": "4254003342060",
+    "uikName": "УИК №317",
     "tikTvd": "22520001321742",
-    "tikName": "Артёмовская городская"
+    "tikName": "Артёмовская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 318,
     "uikTvd": "4254003342061",
+    "uikName": "УИК №318",
     "tikTvd": "22520001321742",
-    "tikName": "Артёмовская городская"
+    "tikName": "Артёмовская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 319,
     "uikTvd": "4254003342062",
+    "uikName": "УИК №319",
     "tikTvd": "22520001321742",
-    "tikName": "Артёмовская городская"
+    "tikName": "Артёмовская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 320,
     "uikTvd": "4254003342063",
+    "uikName": "УИК №320",
     "tikTvd": "22520001321742",
-    "tikName": "Артёмовская городская"
+    "tikName": "Артёмовская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 321,
     "uikTvd": "4254003342064",
+    "uikName": "УИК №321",
     "tikTvd": "22520001321742",
-    "tikName": "Артёмовская городская"
+    "tikName": "Артёмовская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 322,
     "uikTvd": "4254003342065",
+    "uikName": "УИК №322",
     "tikTvd": "22520001321742",
-    "tikName": "Артёмовская городская"
+    "tikName": "Артёмовская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 323,
     "uikTvd": "4254003342066",
+    "uikName": "УИК №323",
     "tikTvd": "22520001321742",
-    "tikName": "Артёмовская городская"
+    "tikName": "Артёмовская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 324,
     "uikTvd": "4254003342067",
+    "uikName": "УИК №324",
     "tikTvd": "22520001321742",
-    "tikName": "Артёмовская городская"
+    "tikName": "Артёмовская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 325,
     "uikTvd": "4254003342068",
+    "uikName": "УИК №325",
     "tikTvd": "22520001321742",
-    "tikName": "Артёмовская городская"
+    "tikName": "Артёмовская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 326,
     "uikTvd": "4254003342069",
+    "uikName": "УИК №326",
     "tikTvd": "22520001321742",
-    "tikName": "Артёмовская городская"
+    "tikName": "Артёмовская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 327,
     "uikTvd": "4254003342070",
+    "uikName": "УИК №327",
     "tikTvd": "22520001321742",
-    "tikName": "Артёмовская городская"
+    "tikName": "Артёмовская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 328,
     "uikTvd": "4254003342071",
+    "uikName": "УИК №328",
     "tikTvd": "22520001321742",
-    "tikName": "Артёмовская городская"
+    "tikName": "Артёмовская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 329,
     "uikTvd": "4254003342072",
+    "uikName": "УИК №329",
     "tikTvd": "22520001321742",
-    "tikName": "Артёмовская городская"
+    "tikName": "Артёмовская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 330,
     "uikTvd": "4254003342073",
+    "uikName": "УИК №330",
     "tikTvd": "22520001321742",
-    "tikName": "Артёмовская городская"
+    "tikName": "Артёмовская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 331,
     "uikTvd": "4254003342074",
+    "uikName": "УИК №331",
     "tikTvd": "22520001321742",
-    "tikName": "Артёмовская городская"
+    "tikName": "Артёмовская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 332,
     "uikTvd": "4254003342075",
+    "uikName": "УИК №332",
     "tikTvd": "22520001321742",
-    "tikName": "Артёмовская городская"
+    "tikName": "Артёмовская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 333,
     "uikTvd": "4254003342076",
+    "uikName": "УИК №333",
     "tikTvd": "22520001321742",
-    "tikName": "Артёмовская городская"
+    "tikName": "Артёмовская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 334,
     "uikTvd": "4254003342077",
+    "uikName": "УИК №334",
     "tikTvd": "22520001321742",
-    "tikName": "Артёмовская городская"
+    "tikName": "Артёмовская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 335,
     "uikTvd": "4254003342078",
+    "uikName": "УИК №335",
     "tikTvd": "22520001321742",
-    "tikName": "Артёмовская городская"
+    "tikName": "Артёмовская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 336,
     "uikTvd": "4254003342079",
+    "uikName": "УИК №336",
     "tikTvd": "22520001321742",
-    "tikName": "Артёмовская городская"
+    "tikName": "Артёмовская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 337,
     "uikTvd": "4254003342080",
+    "uikName": "УИК №337",
     "tikTvd": "22520001321742",
-    "tikName": "Артёмовская городская"
+    "tikName": "Артёмовская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 338,
     "uikTvd": "4254003342081",
+    "uikName": "УИК №338",
     "tikTvd": "22520001321742",
-    "tikName": "Артёмовская городская"
+    "tikName": "Артёмовская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 339,
     "uikTvd": "4254003342082",
+    "uikName": "УИК №339",
     "tikTvd": "22520001321742",
-    "tikName": "Артёмовская городская"
+    "tikName": "Артёмовская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 340,
     "uikTvd": "4254003342083",
+    "uikName": "УИК №340",
     "tikTvd": "22520001321742",
-    "tikName": "Артёмовская городская"
+    "tikName": "Артёмовская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 341,
     "uikTvd": "4254003342084",
+    "uikName": "УИК №341",
     "tikTvd": "22520001321742",
-    "tikName": "Артёмовская городская"
+    "tikName": "Артёмовская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 342,
     "uikTvd": "4254003342085",
+    "uikName": "УИК №342",
     "tikTvd": "22520001321742",
-    "tikName": "Артёмовская городская"
+    "tikName": "Артёмовская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 343,
     "uikTvd": "4254003342086",
+    "uikName": "УИК №343",
     "tikTvd": "22520001321742",
-    "tikName": "Артёмовская городская"
+    "tikName": "Артёмовская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 344,
     "uikTvd": "4254003342087",
+    "uikName": "УИК №344",
     "tikTvd": "22520001321742",
-    "tikName": "Артёмовская городская"
+    "tikName": "Артёмовская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 345,
     "uikTvd": "4254003342088",
+    "uikName": "УИК №345",
     "tikTvd": "22520001321742",
-    "tikName": "Артёмовская городская"
+    "tikName": "Артёмовская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 346,
     "uikTvd": "4254003342089",
+    "uikName": "УИК №346",
     "tikTvd": "22520001321742",
-    "tikName": "Артёмовская городская"
+    "tikName": "Артёмовская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 347,
     "uikTvd": "4254003342090",
+    "uikName": "УИК №347",
     "tikTvd": "22520001321742",
-    "tikName": "Артёмовская городская"
+    "tikName": "Артёмовская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 348,
     "uikTvd": "4254003342091",
+    "uikName": "УИК №348",
     "tikTvd": "22520001321742",
-    "tikName": "Артёмовская городская"
+    "tikName": "Артёмовская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 349,
     "uikTvd": "4254003342092",
+    "uikName": "УИК №349",
     "tikTvd": "22520001321742",
-    "tikName": "Артёмовская городская"
+    "tikName": "Артёмовская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 350,
     "uikTvd": "4254003342093",
+    "uikName": "УИК №350",
     "tikTvd": "22520001321742",
-    "tikName": "Артёмовская городская"
+    "tikName": "Артёмовская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 351,
     "uikTvd": "4254003342094",
+    "uikName": "УИК №351",
     "tikTvd": "22520001321742",
-    "tikName": "Артёмовская городская"
+    "tikName": "Артёмовская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 352,
     "uikTvd": "4254003342095",
+    "uikName": "УИК №352",
     "tikTvd": "22520001321742",
-    "tikName": "Артёмовская городская"
+    "tikName": "Артёмовская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 353,
     "uikTvd": "4254003342096",
+    "uikName": "УИК №353",
     "tikTvd": "22520001321742",
-    "tikName": "Артёмовская городская"
+    "tikName": "Артёмовская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 354,
     "uikTvd": "4254003342097",
+    "uikName": "УИК №354",
     "tikTvd": "22520001321742",
-    "tikName": "Артёмовская городская"
+    "tikName": "Артёмовская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 355,
     "uikTvd": "4254003342098",
+    "uikName": "УИК №355",
     "tikTvd": "22520001321742",
-    "tikName": "Артёмовская городская"
+    "tikName": "Артёмовская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 356,
     "uikTvd": "4254003342099",
+    "uikName": "УИК №356",
     "tikTvd": "22520001321742",
-    "tikName": "Артёмовская городская"
+    "tikName": "Артёмовская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 380,
     "uikTvd": "4254003343600",
+    "uikName": "УИК №380",
     "tikTvd": "22520001321742",
-    "tikName": "Артёмовская городская"
+    "tikName": "Артёмовская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 381,
     "uikTvd": "4254003343601",
+    "uikName": "УИК №381",
     "tikTvd": "22520001321742",
-    "tikName": "Артёмовская городская"
+    "tikName": "Артёмовская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 401,
     "uikTvd": "4254004206045",
+    "uikName": "УИК №401",
     "tikTvd": "22520001321748",
-    "tikName": "Большекаменская городская"
+    "tikName": "Большекаменская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 402,
     "uikTvd": "4254004206046",
+    "uikName": "УИК №402",
     "tikTvd": "22520001321748",
-    "tikName": "Большекаменская городская"
+    "tikName": "Большекаменская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 403,
     "uikTvd": "4254004206047",
+    "uikName": "УИК №403",
     "tikTvd": "22520001321748",
-    "tikName": "Большекаменская городская"
+    "tikName": "Большекаменская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 404,
     "uikTvd": "4254004206048",
+    "uikName": "УИК №404",
     "tikTvd": "22520001321748",
-    "tikName": "Большекаменская городская"
+    "tikName": "Большекаменская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 405,
     "uikTvd": "4254004206049",
+    "uikName": "УИК №405",
     "tikTvd": "22520001321748",
-    "tikName": "Большекаменская городская"
+    "tikName": "Большекаменская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 406,
     "uikTvd": "4254004206050",
+    "uikName": "УИК №406",
     "tikTvd": "22520001321748",
-    "tikName": "Большекаменская городская"
+    "tikName": "Большекаменская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 407,
     "uikTvd": "4254004206051",
+    "uikName": "УИК №407",
     "tikTvd": "22520001321748",
-    "tikName": "Большекаменская городская"
+    "tikName": "Большекаменская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 408,
     "uikTvd": "4254004206052",
+    "uikName": "УИК №408",
     "tikTvd": "22520001321748",
-    "tikName": "Большекаменская городская"
+    "tikName": "Большекаменская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 409,
     "uikTvd": "4254004206053",
+    "uikName": "УИК №409",
     "tikTvd": "22520001321748",
-    "tikName": "Большекаменская городская"
+    "tikName": "Большекаменская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 410,
     "uikTvd": "4254004206054",
+    "uikName": "УИК №410",
     "tikTvd": "22520001321748",
-    "tikName": "Большекаменская городская"
+    "tikName": "Большекаменская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 411,
     "uikTvd": "4254004206055",
+    "uikName": "УИК №411",
     "tikTvd": "22520001321748",
-    "tikName": "Большекаменская городская"
+    "tikName": "Большекаменская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 412,
     "uikTvd": "4254004206056",
+    "uikName": "УИК №412",
     "tikTvd": "22520001321748",
-    "tikName": "Большекаменская городская"
+    "tikName": "Большекаменская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 413,
     "uikTvd": "4254004206057",
+    "uikName": "УИК №413",
     "tikTvd": "22520001321748",
-    "tikName": "Большекаменская городская"
+    "tikName": "Большекаменская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 501,
     "uikTvd": "4254005312721",
+    "uikName": "УИК №501",
     "tikTvd": "22520001321757",
-    "tikName": "Владивосток, Ленинская"
+    "tikName": "Владивосток, Ленинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 502,
     "uikTvd": "4254005312723",
+    "uikName": "УИК №502",
     "tikTvd": "22520001321757",
-    "tikName": "Владивосток, Ленинская"
+    "tikName": "Владивосток, Ленинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 503,
     "uikTvd": "4254005312725",
+    "uikName": "УИК №503",
     "tikTvd": "22520001321757",
-    "tikName": "Владивосток, Ленинская"
+    "tikName": "Владивосток, Ленинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 504,
     "uikTvd": "4254005312727",
+    "uikName": "УИК №504",
     "tikTvd": "22520001321757",
-    "tikName": "Владивосток, Ленинская"
+    "tikName": "Владивосток, Ленинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 505,
     "uikTvd": "4254005312729",
+    "uikName": "УИК №505",
     "tikTvd": "22520001321757",
-    "tikName": "Владивосток, Ленинская"
+    "tikName": "Владивосток, Ленинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 506,
     "uikTvd": "4254005312731",
+    "uikName": "УИК №506",
     "tikTvd": "22520001321757",
-    "tikName": "Владивосток, Ленинская"
+    "tikName": "Владивосток, Ленинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 507,
     "uikTvd": "4254005312733",
+    "uikName": "УИК №507",
     "tikTvd": "22520001321757",
-    "tikName": "Владивосток, Ленинская"
+    "tikName": "Владивосток, Ленинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 508,
     "uikTvd": "4254005312735",
+    "uikName": "УИК №508",
     "tikTvd": "22520001321757",
-    "tikName": "Владивосток, Ленинская"
+    "tikName": "Владивосток, Ленинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 509,
     "uikTvd": "4254005312737",
+    "uikName": "УИК №509",
     "tikTvd": "22520001321757",
-    "tikName": "Владивосток, Ленинская"
+    "tikName": "Владивосток, Ленинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 510,
     "uikTvd": "4254005312739",
+    "uikName": "УИК №510",
     "tikTvd": "22520001321757",
-    "tikName": "Владивосток, Ленинская"
+    "tikName": "Владивосток, Ленинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 511,
     "uikTvd": "4254005312741",
+    "uikName": "УИК №511",
     "tikTvd": "22520001321757",
-    "tikName": "Владивосток, Ленинская"
+    "tikName": "Владивосток, Ленинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 512,
     "uikTvd": "4254005312743",
+    "uikName": "УИК №512",
     "tikTvd": "22520001321757",
-    "tikName": "Владивосток, Ленинская"
+    "tikName": "Владивосток, Ленинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 513,
     "uikTvd": "4254005312745",
+    "uikName": "УИК №513",
     "tikTvd": "22520001321757",
-    "tikName": "Владивосток, Ленинская"
+    "tikName": "Владивосток, Ленинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 514,
     "uikTvd": "4254005312747",
+    "uikName": "УИК №514",
     "tikTvd": "22520001321757",
-    "tikName": "Владивосток, Ленинская"
+    "tikName": "Владивосток, Ленинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 515,
     "uikTvd": "4254005312749",
+    "uikName": "УИК №515",
     "tikTvd": "22520001321757",
-    "tikName": "Владивосток, Ленинская"
+    "tikName": "Владивосток, Ленинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 516,
     "uikTvd": "4254005312751",
+    "uikName": "УИК №516",
     "tikTvd": "22520001321757",
-    "tikName": "Владивосток, Ленинская"
+    "tikName": "Владивосток, Ленинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 517,
     "uikTvd": "4254005312753",
+    "uikName": "УИК №517",
     "tikTvd": "22520001321757",
-    "tikName": "Владивосток, Ленинская"
+    "tikName": "Владивосток, Ленинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 518,
     "uikTvd": "4254005312755",
+    "uikName": "УИК №518",
     "tikTvd": "22520001321757",
-    "tikName": "Владивосток, Ленинская"
+    "tikName": "Владивосток, Ленинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 519,
     "uikTvd": "4254005312757",
+    "uikName": "УИК №519",
     "tikTvd": "22520001321757",
-    "tikName": "Владивосток, Ленинская"
+    "tikName": "Владивосток, Ленинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 520,
     "uikTvd": "4254005312759",
+    "uikName": "УИК №520",
     "tikTvd": "22520001321757",
-    "tikName": "Владивосток, Ленинская"
+    "tikName": "Владивосток, Ленинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 521,
     "uikTvd": "4254005312761",
+    "uikName": "УИК №521",
     "tikTvd": "22520001321757",
-    "tikName": "Владивосток, Ленинская"
+    "tikName": "Владивосток, Ленинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 522,
     "uikTvd": "4254005312763",
+    "uikName": "УИК №522",
     "tikTvd": "22520001321757",
-    "tikName": "Владивосток, Ленинская"
+    "tikName": "Владивосток, Ленинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 523,
     "uikTvd": "4254005312765",
+    "uikName": "УИК №523",
     "tikTvd": "22520001321757",
-    "tikName": "Владивосток, Ленинская"
+    "tikName": "Владивосток, Ленинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 524,
     "uikTvd": "4254005312767",
+    "uikName": "УИК №524",
     "tikTvd": "22520001321757",
-    "tikName": "Владивосток, Ленинская"
+    "tikName": "Владивосток, Ленинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 525,
     "uikTvd": "4254005312769",
+    "uikName": "УИК №525",
     "tikTvd": "22520001321757",
-    "tikName": "Владивосток, Ленинская"
+    "tikName": "Владивосток, Ленинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 526,
     "uikTvd": "4254005312771",
+    "uikName": "УИК №526",
     "tikTvd": "22520001321757",
-    "tikName": "Владивосток, Ленинская"
+    "tikName": "Владивосток, Ленинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 527,
     "uikTvd": "4254005312773",
+    "uikName": "УИК №527",
     "tikTvd": "22520001321757",
-    "tikName": "Владивосток, Ленинская"
+    "tikName": "Владивосток, Ленинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 528,
     "uikTvd": "4254005312775",
+    "uikName": "УИК №528",
     "tikTvd": "22520001321757",
-    "tikName": "Владивосток, Ленинская"
+    "tikName": "Владивосток, Ленинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 529,
     "uikTvd": "4254005312777",
+    "uikName": "УИК №529",
     "tikTvd": "22520001321757",
-    "tikName": "Владивосток, Ленинская"
+    "tikName": "Владивосток, Ленинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 530,
     "uikTvd": "4254005312779",
+    "uikName": "УИК №530",
     "tikTvd": "22520001321757",
-    "tikName": "Владивосток, Ленинская"
+    "tikName": "Владивосток, Ленинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 531,
     "uikTvd": "4254005312781",
+    "uikName": "УИК №531",
     "tikTvd": "22520001321757",
-    "tikName": "Владивосток, Ленинская"
+    "tikName": "Владивосток, Ленинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 532,
     "uikTvd": "4254005312783",
+    "uikName": "УИК №532",
     "tikTvd": "22520001321757",
-    "tikName": "Владивосток, Ленинская"
+    "tikName": "Владивосток, Ленинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 533,
     "uikTvd": "4254005312785",
+    "uikName": "УИК №533",
     "tikTvd": "22520001321757",
-    "tikName": "Владивосток, Ленинская"
+    "tikName": "Владивосток, Ленинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 534,
     "uikTvd": "4254005312787",
+    "uikName": "УИК №534",
     "tikTvd": "22520001321757",
-    "tikName": "Владивосток, Ленинская"
+    "tikName": "Владивосток, Ленинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 535,
     "uikTvd": "4254005312789",
+    "uikName": "УИК №535",
     "tikTvd": "22520001321757",
-    "tikName": "Владивосток, Ленинская"
+    "tikName": "Владивосток, Ленинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 536,
     "uikTvd": "4254005312791",
+    "uikName": "УИК №536",
     "tikTvd": "22520001321757",
-    "tikName": "Владивосток, Ленинская"
+    "tikName": "Владивосток, Ленинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 537,
     "uikTvd": "4254005312793",
+    "uikName": "УИК №537",
     "tikTvd": "22520001321757",
-    "tikName": "Владивосток, Ленинская"
+    "tikName": "Владивосток, Ленинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 538,
     "uikTvd": "4254005312795",
+    "uikName": "УИК №538",
     "tikTvd": "22520001321757",
-    "tikName": "Владивосток, Ленинская"
+    "tikName": "Владивосток, Ленинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 539,
     "uikTvd": "4254005312797",
+    "uikName": "УИК №539",
     "tikTvd": "22520001321757",
-    "tikName": "Владивосток, Ленинская"
+    "tikName": "Владивосток, Ленинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 540,
     "uikTvd": "4254005312799",
+    "uikName": "УИК №540",
     "tikTvd": "22520001321757",
-    "tikName": "Владивосток, Ленинская"
+    "tikName": "Владивосток, Ленинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 541,
     "uikTvd": "4254005312801",
+    "uikName": "УИК №541",
     "tikTvd": "22520001321757",
-    "tikName": "Владивосток, Ленинская"
+    "tikName": "Владивосток, Ленинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 542,
     "uikTvd": "4254005312803",
+    "uikName": "УИК №542",
     "tikTvd": "22520001321757",
-    "tikName": "Владивосток, Ленинская"
+    "tikName": "Владивосток, Ленинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 543,
     "uikTvd": "4254005312805",
+    "uikName": "УИК №543",
     "tikTvd": "22520001321757",
-    "tikName": "Владивосток, Ленинская"
+    "tikName": "Владивосток, Ленинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 544,
     "uikTvd": "4254005312807",
+    "uikName": "УИК №544",
     "tikTvd": "22520001321757",
-    "tikName": "Владивосток, Ленинская"
+    "tikName": "Владивосток, Ленинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 545,
     "uikTvd": "4254005312809",
+    "uikName": "УИК №545",
     "tikTvd": "22520001321757",
-    "tikName": "Владивосток, Ленинская"
+    "tikName": "Владивосток, Ленинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 546,
     "uikTvd": "4254005312811",
+    "uikName": "УИК №546",
     "tikTvd": "22520001321757",
-    "tikName": "Владивосток, Ленинская"
+    "tikName": "Владивосток, Ленинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 547,
     "uikTvd": "4254005312813",
+    "uikName": "УИК №547",
     "tikTvd": "22520001321757",
-    "tikName": "Владивосток, Ленинская"
+    "tikName": "Владивосток, Ленинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 548,
     "uikTvd": "4254005312815",
+    "uikName": "УИК №548",
     "tikTvd": "22520001321757",
-    "tikName": "Владивосток, Ленинская"
+    "tikName": "Владивосток, Ленинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 549,
     "uikTvd": "4254005312817",
+    "uikName": "УИК №549",
     "tikTvd": "22520001321757",
-    "tikName": "Владивосток, Ленинская"
+    "tikName": "Владивосток, Ленинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 550,
     "uikTvd": "4254005312819",
+    "uikName": "УИК №550",
     "tikTvd": "22520001321757",
-    "tikName": "Владивосток, Ленинская"
+    "tikName": "Владивосток, Ленинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 551,
     "uikTvd": "4254005312821",
+    "uikName": "УИК №551",
     "tikTvd": "22520001321757",
-    "tikName": "Владивосток, Ленинская"
+    "tikName": "Владивосток, Ленинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 552,
     "uikTvd": "4254005312823",
+    "uikName": "УИК №552",
     "tikTvd": "22520001321757",
-    "tikName": "Владивосток, Ленинская"
+    "tikName": "Владивосток, Ленинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 553,
     "uikTvd": "4254005312825",
+    "uikName": "УИК №553",
     "tikTvd": "22520001321757",
-    "tikName": "Владивосток, Ленинская"
+    "tikName": "Владивосток, Ленинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 554,
     "uikTvd": "4254005312827",
+    "uikName": "УИК №554",
     "tikTvd": "22520001321757",
-    "tikName": "Владивосток, Ленинская"
+    "tikName": "Владивосток, Ленинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 555,
     "uikTvd": "4254005312829",
+    "uikName": "УИК №555",
     "tikTvd": "22520001321757",
-    "tikName": "Владивосток, Ленинская"
+    "tikName": "Владивосток, Ленинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 556,
     "uikTvd": "4254005312831",
+    "uikName": "УИК №556",
     "tikTvd": "22520001321757",
-    "tikName": "Владивосток, Ленинская"
+    "tikName": "Владивосток, Ленинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 580,
     "uikTvd": "4254005313598",
+    "uikName": "УИК №580",
     "tikTvd": "22520001321757",
-    "tikName": "Владивосток, Ленинская"
+    "tikName": "Владивосток, Ленинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 581,
     "uikTvd": "4254005313600",
+    "uikName": "УИК №581",
     "tikTvd": "22520001321757",
-    "tikName": "Владивосток, Ленинская"
+    "tikName": "Владивосток, Ленинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 601,
     "uikTvd": "4254006365464",
+    "uikName": "УИК №601",
     "tikTvd": "22520001321774",
-    "tikName": "Владивосток, Первомайская"
+    "tikName": "Владивосток, Первомайская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 602,
     "uikTvd": "4254006365466",
+    "uikName": "УИК №602",
     "tikTvd": "22520001321774",
-    "tikName": "Владивосток, Первомайская"
+    "tikName": "Владивосток, Первомайская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 603,
     "uikTvd": "4254006365468",
+    "uikName": "УИК №603",
     "tikTvd": "22520001321774",
-    "tikName": "Владивосток, Первомайская"
+    "tikName": "Владивосток, Первомайская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 604,
     "uikTvd": "4254006365470",
+    "uikName": "УИК №604",
     "tikTvd": "22520001321774",
-    "tikName": "Владивосток, Первомайская"
+    "tikName": "Владивосток, Первомайская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 605,
     "uikTvd": "4254006365472",
+    "uikName": "УИК №605",
     "tikTvd": "22520001321774",
-    "tikName": "Владивосток, Первомайская"
+    "tikName": "Владивосток, Первомайская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 606,
     "uikTvd": "4254006365474",
+    "uikName": "УИК №606",
     "tikTvd": "22520001321774",
-    "tikName": "Владивосток, Первомайская"
+    "tikName": "Владивосток, Первомайская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 607,
     "uikTvd": "4254006365476",
+    "uikName": "УИК №607",
     "tikTvd": "22520001321774",
-    "tikName": "Владивосток, Первомайская"
+    "tikName": "Владивосток, Первомайская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 608,
     "uikTvd": "4254006365478",
+    "uikName": "УИК №608",
     "tikTvd": "22520001321774",
-    "tikName": "Владивосток, Первомайская"
+    "tikName": "Владивосток, Первомайская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 609,
     "uikTvd": "4254006365480",
+    "uikName": "УИК №609",
     "tikTvd": "22520001321774",
-    "tikName": "Владивосток, Первомайская"
+    "tikName": "Владивосток, Первомайская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 610,
     "uikTvd": "4254006365482",
+    "uikName": "УИК №610",
     "tikTvd": "22520001321774",
-    "tikName": "Владивосток, Первомайская"
+    "tikName": "Владивосток, Первомайская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 611,
     "uikTvd": "4254006365484",
+    "uikName": "УИК №611",
     "tikTvd": "22520001321774",
-    "tikName": "Владивосток, Первомайская"
+    "tikName": "Владивосток, Первомайская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 612,
     "uikTvd": "4254006365486",
+    "uikName": "УИК №612",
     "tikTvd": "22520001321774",
-    "tikName": "Владивосток, Первомайская"
+    "tikName": "Владивосток, Первомайская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 613,
     "uikTvd": "4254006365488",
+    "uikName": "УИК №613",
     "tikTvd": "22520001321774",
-    "tikName": "Владивосток, Первомайская"
+    "tikName": "Владивосток, Первомайская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 614,
     "uikTvd": "4254006365490",
+    "uikName": "УИК №614",
     "tikTvd": "22520001321774",
-    "tikName": "Владивосток, Первомайская"
+    "tikName": "Владивосток, Первомайская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 615,
     "uikTvd": "4254006365492",
+    "uikName": "УИК №615",
     "tikTvd": "22520001321774",
-    "tikName": "Владивосток, Первомайская"
+    "tikName": "Владивосток, Первомайская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 616,
     "uikTvd": "4254006365494",
+    "uikName": "УИК №616",
     "tikTvd": "22520001321774",
-    "tikName": "Владивосток, Первомайская"
+    "tikName": "Владивосток, Первомайская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 617,
     "uikTvd": "4254006365496",
+    "uikName": "УИК №617",
     "tikTvd": "22520001321774",
-    "tikName": "Владивосток, Первомайская"
+    "tikName": "Владивосток, Первомайская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 618,
     "uikTvd": "4254006365498",
+    "uikName": "УИК №618",
     "tikTvd": "22520001321774",
-    "tikName": "Владивосток, Первомайская"
+    "tikName": "Владивосток, Первомайская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 619,
     "uikTvd": "4254006365500",
+    "uikName": "УИК №619",
     "tikTvd": "22520001321774",
-    "tikName": "Владивосток, Первомайская"
+    "tikName": "Владивосток, Первомайская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 620,
     "uikTvd": "4254006365502",
+    "uikName": "УИК №620",
     "tikTvd": "22520001321774",
-    "tikName": "Владивосток, Первомайская"
+    "tikName": "Владивосток, Первомайская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 621,
     "uikTvd": "4254006365504",
+    "uikName": "УИК №621",
     "tikTvd": "22520001321774",
-    "tikName": "Владивосток, Первомайская"
+    "tikName": "Владивосток, Первомайская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 622,
     "uikTvd": "4254006365506",
+    "uikName": "УИК №622",
     "tikTvd": "22520001321774",
-    "tikName": "Владивосток, Первомайская"
+    "tikName": "Владивосток, Первомайская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 623,
     "uikTvd": "4254006365508",
+    "uikName": "УИК №623",
     "tikTvd": "22520001321774",
-    "tikName": "Владивосток, Первомайская"
+    "tikName": "Владивосток, Первомайская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 624,
     "uikTvd": "4254006365510",
+    "uikName": "УИК №624",
     "tikTvd": "22520001321774",
-    "tikName": "Владивосток, Первомайская"
+    "tikName": "Владивосток, Первомайская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 625,
     "uikTvd": "4254006365512",
+    "uikName": "УИК №625",
     "tikTvd": "22520001321774",
-    "tikName": "Владивосток, Первомайская"
+    "tikName": "Владивосток, Первомайская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 626,
     "uikTvd": "4254006365514",
+    "uikName": "УИК №626",
     "tikTvd": "22520001321774",
-    "tikName": "Владивосток, Первомайская"
+    "tikName": "Владивосток, Первомайская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 627,
     "uikTvd": "4254006365516",
+    "uikName": "УИК №627",
     "tikTvd": "22520001321774",
-    "tikName": "Владивосток, Первомайская"
+    "tikName": "Владивосток, Первомайская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 628,
     "uikTvd": "4254006365518",
+    "uikName": "УИК №628",
     "tikTvd": "22520001321774",
-    "tikName": "Владивосток, Первомайская"
+    "tikName": "Владивосток, Первомайская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 629,
     "uikTvd": "4254006365520",
+    "uikName": "УИК №629",
     "tikTvd": "22520001321774",
-    "tikName": "Владивосток, Первомайская"
+    "tikName": "Владивосток, Первомайская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 630,
     "uikTvd": "4254006365522",
+    "uikName": "УИК №630",
     "tikTvd": "22520001321774",
-    "tikName": "Владивосток, Первомайская"
+    "tikName": "Владивосток, Первомайская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 631,
     "uikTvd": "4254006365524",
+    "uikName": "УИК №631",
     "tikTvd": "22520001321774",
-    "tikName": "Владивосток, Первомайская"
+    "tikName": "Владивосток, Первомайская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 632,
     "uikTvd": "4254006365526",
+    "uikName": "УИК №632",
     "tikTvd": "22520001321774",
-    "tikName": "Владивосток, Первомайская"
+    "tikName": "Владивосток, Первомайская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 633,
     "uikTvd": "4254006365528",
+    "uikName": "УИК №633",
     "tikTvd": "22520001321774",
-    "tikName": "Владивосток, Первомайская"
+    "tikName": "Владивосток, Первомайская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 634,
     "uikTvd": "4254006365530",
+    "uikName": "УИК №634",
     "tikTvd": "22520001321774",
-    "tikName": "Владивосток, Первомайская"
+    "tikName": "Владивосток, Первомайская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 635,
     "uikTvd": "4254006365532",
+    "uikName": "УИК №635",
     "tikTvd": "22520001321774",
-    "tikName": "Владивосток, Первомайская"
+    "tikName": "Владивосток, Первомайская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 636,
     "uikTvd": "4254006365534",
+    "uikName": "УИК №636",
     "tikTvd": "22520001321774",
-    "tikName": "Владивосток, Первомайская"
+    "tikName": "Владивосток, Первомайская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 637,
     "uikTvd": "4254006365536",
+    "uikName": "УИК №637",
     "tikTvd": "22520001321774",
-    "tikName": "Владивосток, Первомайская"
+    "tikName": "Владивосток, Первомайская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 638,
     "uikTvd": "4254006365538",
+    "uikName": "УИК №638",
     "tikTvd": "22520001321774",
-    "tikName": "Владивосток, Первомайская"
+    "tikName": "Владивосток, Первомайская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 639,
     "uikTvd": "4254006365540",
+    "uikName": "УИК №639",
     "tikTvd": "22520001321774",
-    "tikName": "Владивосток, Первомайская"
+    "tikName": "Владивосток, Первомайская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 640,
     "uikTvd": "4254006365542",
+    "uikName": "УИК №640",
     "tikTvd": "22520001321774",
-    "tikName": "Владивосток, Первомайская"
+    "tikName": "Владивосток, Первомайская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 641,
     "uikTvd": "4254006365544",
+    "uikName": "УИК №641",
     "tikTvd": "22520001321774",
-    "tikName": "Владивосток, Первомайская"
+    "tikName": "Владивосток, Первомайская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 642,
     "uikTvd": "4254006365546",
+    "uikName": "УИК №642",
     "tikTvd": "22520001321774",
-    "tikName": "Владивосток, Первомайская"
+    "tikName": "Владивосток, Первомайская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 643,
     "uikTvd": "4254006365548",
+    "uikName": "УИК №643",
     "tikTvd": "22520001321774",
-    "tikName": "Владивосток, Первомайская"
+    "tikName": "Владивосток, Первомайская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 644,
     "uikTvd": "4254006365550",
+    "uikName": "УИК №644",
     "tikTvd": "22520001321774",
-    "tikName": "Владивосток, Первомайская"
+    "tikName": "Владивосток, Первомайская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 645,
     "uikTvd": "4254006365552",
+    "uikName": "УИК №645",
     "tikTvd": "22520001321774",
-    "tikName": "Владивосток, Первомайская"
+    "tikName": "Владивосток, Первомайская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 646,
     "uikTvd": "4254006365554",
+    "uikName": "УИК №646",
     "tikTvd": "22520001321774",
-    "tikName": "Владивосток, Первомайская"
+    "tikName": "Владивосток, Первомайская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 647,
     "uikTvd": "4254006365556",
+    "uikName": "УИК №647",
     "tikTvd": "22520001321774",
-    "tikName": "Владивосток, Первомайская"
+    "tikName": "Владивосток, Первомайская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 648,
     "uikTvd": "4254006365558",
+    "uikName": "УИК №648",
     "tikTvd": "22520001321774",
-    "tikName": "Владивосток, Первомайская"
+    "tikName": "Владивосток, Первомайская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 649,
     "uikTvd": "4254006365560",
+    "uikName": "УИК №649",
     "tikTvd": "22520001321774",
-    "tikName": "Владивосток, Первомайская"
+    "tikName": "Владивосток, Первомайская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 650,
     "uikTvd": "4254006365562",
+    "uikName": "УИК №650",
     "tikTvd": "22520001321774",
-    "tikName": "Владивосток, Первомайская"
+    "tikName": "Владивосток, Первомайская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 651,
     "uikTvd": "4254006365564",
+    "uikName": "УИК №651",
     "tikTvd": "22520001321774",
-    "tikName": "Владивосток, Первомайская"
+    "tikName": "Владивосток, Первомайская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 652,
     "uikTvd": "4254006365566",
+    "uikName": "УИК №652",
     "tikTvd": "22520001321774",
-    "tikName": "Владивосток, Первомайская"
+    "tikName": "Владивосток, Первомайская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 653,
     "uikTvd": "4254006365568",
+    "uikName": "УИК №653",
     "tikTvd": "22520001321774",
-    "tikName": "Владивосток, Первомайская"
+    "tikName": "Владивосток, Первомайская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 654,
     "uikTvd": "4254006365570",
+    "uikName": "УИК №654",
     "tikTvd": "22520001321774",
-    "tikName": "Владивосток, Первомайская"
+    "tikName": "Владивосток, Первомайская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 680,
     "uikTvd": "4254006366231",
+    "uikName": "УИК №680",
     "tikTvd": "22520001321774",
-    "tikName": "Владивосток, Первомайская"
+    "tikName": "Владивосток, Первомайская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 681,
     "uikTvd": "4254006366233",
+    "uikName": "УИК №681",
     "tikTvd": "22520001321774",
-    "tikName": "Владивосток, Первомайская"
+    "tikName": "Владивосток, Первомайская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 682,
     "uikTvd": "4254006366235",
+    "uikName": "УИК №682",
     "tikTvd": "22520001321774",
-    "tikName": "Владивосток, Первомайская"
+    "tikName": "Владивосток, Первомайская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 701,
     "uikTvd": "4254007277517",
+    "uikName": "УИК №701",
     "tikTvd": "22520001321764",
-    "tikName": "Владивосток, Первореченская"
+    "tikName": "Владивосток, Первореченская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 702,
     "uikTvd": "4254007277518",
+    "uikName": "УИК №702",
     "tikTvd": "22520001321764",
-    "tikName": "Владивосток, Первореченская"
+    "tikName": "Владивосток, Первореченская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 703,
     "uikTvd": "4254007277519",
+    "uikName": "УИК №703",
     "tikTvd": "22520001321764",
-    "tikName": "Владивосток, Первореченская"
+    "tikName": "Владивосток, Первореченская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 704,
     "uikTvd": "4254007277520",
+    "uikName": "УИК №704",
     "tikTvd": "22520001321764",
-    "tikName": "Владивосток, Первореченская"
+    "tikName": "Владивосток, Первореченская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 705,
     "uikTvd": "4254007277521",
+    "uikName": "УИК №705",
     "tikTvd": "22520001321764",
-    "tikName": "Владивосток, Первореченская"
+    "tikName": "Владивосток, Первореченская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 706,
     "uikTvd": "4254007277522",
+    "uikName": "УИК №706",
     "tikTvd": "22520001321764",
-    "tikName": "Владивосток, Первореченская"
+    "tikName": "Владивосток, Первореченская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 707,
     "uikTvd": "4254007277523",
+    "uikName": "УИК №707",
     "tikTvd": "22520001321764",
-    "tikName": "Владивосток, Первореченская"
+    "tikName": "Владивосток, Первореченская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 708,
     "uikTvd": "4254007277524",
+    "uikName": "УИК №708",
     "tikTvd": "22520001321764",
-    "tikName": "Владивосток, Первореченская"
+    "tikName": "Владивосток, Первореченская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 709,
     "uikTvd": "4254007277525",
+    "uikName": "УИК №709",
     "tikTvd": "22520001321764",
-    "tikName": "Владивосток, Первореченская"
+    "tikName": "Владивосток, Первореченская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 710,
     "uikTvd": "4254007277526",
+    "uikName": "УИК №710",
     "tikTvd": "22520001321764",
-    "tikName": "Владивосток, Первореченская"
+    "tikName": "Владивосток, Первореченская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 711,
     "uikTvd": "4254007277527",
+    "uikName": "УИК №711",
     "tikTvd": "22520001321764",
-    "tikName": "Владивосток, Первореченская"
+    "tikName": "Владивосток, Первореченская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 712,
     "uikTvd": "4254007277528",
+    "uikName": "УИК №712",
     "tikTvd": "22520001321764",
-    "tikName": "Владивосток, Первореченская"
+    "tikName": "Владивосток, Первореченская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 713,
     "uikTvd": "4254007277529",
+    "uikName": "УИК №713",
     "tikTvd": "22520001321764",
-    "tikName": "Владивосток, Первореченская"
+    "tikName": "Владивосток, Первореченская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 714,
     "uikTvd": "4254007277530",
+    "uikName": "УИК №714",
     "tikTvd": "22520001321764",
-    "tikName": "Владивосток, Первореченская"
+    "tikName": "Владивосток, Первореченская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 715,
     "uikTvd": "4254007277531",
+    "uikName": "УИК №715",
     "tikTvd": "22520001321764",
-    "tikName": "Владивосток, Первореченская"
+    "tikName": "Владивосток, Первореченская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 716,
     "uikTvd": "4254007277532",
+    "uikName": "УИК №716",
     "tikTvd": "22520001321764",
-    "tikName": "Владивосток, Первореченская"
+    "tikName": "Владивосток, Первореченская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 717,
     "uikTvd": "4254007277533",
+    "uikName": "УИК №717",
     "tikTvd": "22520001321764",
-    "tikName": "Владивосток, Первореченская"
+    "tikName": "Владивосток, Первореченская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 718,
     "uikTvd": "4254007277534",
+    "uikName": "УИК №718",
     "tikTvd": "22520001321764",
-    "tikName": "Владивосток, Первореченская"
+    "tikName": "Владивосток, Первореченская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 719,
     "uikTvd": "4254007277535",
+    "uikName": "УИК №719",
     "tikTvd": "22520001321764",
-    "tikName": "Владивосток, Первореченская"
+    "tikName": "Владивосток, Первореченская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 720,
     "uikTvd": "4254007277536",
+    "uikName": "УИК №720",
     "tikTvd": "22520001321764",
-    "tikName": "Владивосток, Первореченская"
+    "tikName": "Владивосток, Первореченская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 721,
     "uikTvd": "4254007277537",
+    "uikName": "УИК №721",
     "tikTvd": "22520001321764",
-    "tikName": "Владивосток, Первореченская"
+    "tikName": "Владивосток, Первореченская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 722,
     "uikTvd": "4254007277538",
+    "uikName": "УИК №722",
     "tikTvd": "22520001321764",
-    "tikName": "Владивосток, Первореченская"
+    "tikName": "Владивосток, Первореченская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 723,
     "uikTvd": "4254007277539",
+    "uikName": "УИК №723",
     "tikTvd": "22520001321764",
-    "tikName": "Владивосток, Первореченская"
+    "tikName": "Владивосток, Первореченская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 724,
     "uikTvd": "4254007277540",
+    "uikName": "УИК №724",
     "tikTvd": "22520001321764",
-    "tikName": "Владивосток, Первореченская"
+    "tikName": "Владивосток, Первореченская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 725,
     "uikTvd": "4254007277541",
+    "uikName": "УИК №725",
     "tikTvd": "22520001321764",
-    "tikName": "Владивосток, Первореченская"
+    "tikName": "Владивосток, Первореченская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 726,
     "uikTvd": "4254007277542",
+    "uikName": "УИК №726",
     "tikTvd": "22520001321764",
-    "tikName": "Владивосток, Первореченская"
+    "tikName": "Владивосток, Первореченская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 727,
     "uikTvd": "4254007277543",
+    "uikName": "УИК №727",
     "tikTvd": "22520001321764",
-    "tikName": "Владивосток, Первореченская"
+    "tikName": "Владивосток, Первореченская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 728,
     "uikTvd": "4254007277544",
+    "uikName": "УИК №728",
     "tikTvd": "22520001321764",
-    "tikName": "Владивосток, Первореченская"
+    "tikName": "Владивосток, Первореченская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 729,
     "uikTvd": "4254007277545",
+    "uikName": "УИК №729",
     "tikTvd": "22520001321764",
-    "tikName": "Владивосток, Первореченская"
+    "tikName": "Владивосток, Первореченская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 730,
     "uikTvd": "4254007277546",
+    "uikName": "УИК №730",
     "tikTvd": "22520001321764",
-    "tikName": "Владивосток, Первореченская"
+    "tikName": "Владивосток, Первореченская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 731,
     "uikTvd": "4254007277547",
+    "uikName": "УИК №731",
     "tikTvd": "22520001321764",
-    "tikName": "Владивосток, Первореченская"
+    "tikName": "Владивосток, Первореченская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 732,
     "uikTvd": "4254007277548",
+    "uikName": "УИК №732",
     "tikTvd": "22520001321764",
-    "tikName": "Владивосток, Первореченская"
+    "tikName": "Владивосток, Первореченская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 733,
     "uikTvd": "4254007277549",
+    "uikName": "УИК №733",
     "tikTvd": "22520001321764",
-    "tikName": "Владивосток, Первореченская"
+    "tikName": "Владивосток, Первореченская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 734,
     "uikTvd": "4254007277550",
+    "uikName": "УИК №734",
     "tikTvd": "22520001321764",
-    "tikName": "Владивосток, Первореченская"
+    "tikName": "Владивосток, Первореченская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 735,
     "uikTvd": "4254007277551",
+    "uikName": "УИК №735",
     "tikTvd": "22520001321764",
-    "tikName": "Владивосток, Первореченская"
+    "tikName": "Владивосток, Первореченская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 736,
     "uikTvd": "4254007277552",
+    "uikName": "УИК №736",
     "tikTvd": "22520001321764",
-    "tikName": "Владивосток, Первореченская"
+    "tikName": "Владивосток, Первореченская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 737,
     "uikTvd": "4254007277553",
+    "uikName": "УИК №737",
     "tikTvd": "22520001321764",
-    "tikName": "Владивосток, Первореченская"
+    "tikName": "Владивосток, Первореченская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 738,
     "uikTvd": "4254007277554",
+    "uikName": "УИК №738",
     "tikTvd": "22520001321764",
-    "tikName": "Владивосток, Первореченская"
+    "tikName": "Владивосток, Первореченская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 739,
     "uikTvd": "4254007277555",
+    "uikName": "УИК №739",
     "tikTvd": "22520001321764",
-    "tikName": "Владивосток, Первореченская"
+    "tikName": "Владивосток, Первореченская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 740,
     "uikTvd": "4254007277556",
+    "uikName": "УИК №740",
     "tikTvd": "22520001321764",
-    "tikName": "Владивосток, Первореченская"
+    "tikName": "Владивосток, Первореченская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 741,
     "uikTvd": "4254007277557",
+    "uikName": "УИК №741",
     "tikTvd": "22520001321764",
-    "tikName": "Владивосток, Первореченская"
+    "tikName": "Владивосток, Первореченская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 742,
     "uikTvd": "4254007277558",
+    "uikName": "УИК №742",
     "tikTvd": "22520001321764",
-    "tikName": "Владивосток, Первореченская"
+    "tikName": "Владивосток, Первореченская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 743,
     "uikTvd": "4254007277559",
+    "uikName": "УИК №743",
     "tikTvd": "22520001321764",
-    "tikName": "Владивосток, Первореченская"
+    "tikName": "Владивосток, Первореченская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 744,
     "uikTvd": "4254007277560",
+    "uikName": "УИК №744",
     "tikTvd": "22520001321764",
-    "tikName": "Владивосток, Первореченская"
+    "tikName": "Владивосток, Первореченская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 745,
     "uikTvd": "4254007277561",
+    "uikName": "УИК №745",
     "tikTvd": "22520001321764",
-    "tikName": "Владивосток, Первореченская"
+    "tikName": "Владивосток, Первореченская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 746,
     "uikTvd": "4254007277562",
+    "uikName": "УИК №746",
     "tikTvd": "22520001321764",
-    "tikName": "Владивосток, Первореченская"
+    "tikName": "Владивосток, Первореченская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 747,
     "uikTvd": "4254007277563",
+    "uikName": "УИК №747",
     "tikTvd": "22520001321764",
-    "tikName": "Владивосток, Первореченская"
+    "tikName": "Владивосток, Первореченская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 748,
     "uikTvd": "4254007277564",
+    "uikName": "УИК №748",
     "tikTvd": "22520001321764",
-    "tikName": "Владивосток, Первореченская"
+    "tikName": "Владивосток, Первореченская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 749,
     "uikTvd": "4254007277565",
+    "uikName": "УИК №749",
     "tikTvd": "22520001321764",
-    "tikName": "Владивосток, Первореченская"
+    "tikName": "Владивосток, Первореченская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 750,
     "uikTvd": "4254007277566",
+    "uikName": "УИК №750",
     "tikTvd": "22520001321764",
-    "tikName": "Владивосток, Первореченская"
+    "tikName": "Владивосток, Первореченская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 801,
     "uikTvd": "4254008275248",
+    "uikName": "УИК №801",
     "tikTvd": "22520001321759",
-    "tikName": "Владивосток, Советская"
+    "tikName": "Владивосток, Советская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 802,
     "uikTvd": "4254008275249",
+    "uikName": "УИК №802",
     "tikTvd": "22520001321759",
-    "tikName": "Владивосток, Советская"
+    "tikName": "Владивосток, Советская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 803,
     "uikTvd": "4254008275250",
+    "uikName": "УИК №803",
     "tikTvd": "22520001321759",
-    "tikName": "Владивосток, Советская"
+    "tikName": "Владивосток, Советская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 804,
     "uikTvd": "4254008275251",
+    "uikName": "УИК №804",
     "tikTvd": "22520001321759",
-    "tikName": "Владивосток, Советская"
+    "tikName": "Владивосток, Советская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 805,
     "uikTvd": "4254008275252",
+    "uikName": "УИК №805",
     "tikTvd": "22520001321759",
-    "tikName": "Владивосток, Советская"
+    "tikName": "Владивосток, Советская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 806,
     "uikTvd": "4254008275253",
+    "uikName": "УИК №806",
     "tikTvd": "22520001321759",
-    "tikName": "Владивосток, Советская"
+    "tikName": "Владивосток, Советская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 807,
     "uikTvd": "4254008275254",
+    "uikName": "УИК №807",
     "tikTvd": "22520001321759",
-    "tikName": "Владивосток, Советская"
+    "tikName": "Владивосток, Советская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 808,
     "uikTvd": "4254008275255",
+    "uikName": "УИК №808",
     "tikTvd": "22520001321759",
-    "tikName": "Владивосток, Советская"
+    "tikName": "Владивосток, Советская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 809,
     "uikTvd": "4254008275256",
+    "uikName": "УИК №809",
     "tikTvd": "22520001321759",
-    "tikName": "Владивосток, Советская"
+    "tikName": "Владивосток, Советская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 810,
     "uikTvd": "4254008275257",
+    "uikName": "УИК №810",
     "tikTvd": "22520001321759",
-    "tikName": "Владивосток, Советская"
+    "tikName": "Владивосток, Советская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 811,
     "uikTvd": "4254008275258",
+    "uikName": "УИК №811",
     "tikTvd": "22520001321759",
-    "tikName": "Владивосток, Советская"
+    "tikName": "Владивосток, Советская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 812,
     "uikTvd": "4254008275259",
+    "uikName": "УИК №812",
     "tikTvd": "22520001321759",
-    "tikName": "Владивосток, Советская"
+    "tikName": "Владивосток, Советская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 813,
     "uikTvd": "4254008275260",
+    "uikName": "УИК №813",
     "tikTvd": "22520001321759",
-    "tikName": "Владивосток, Советская"
+    "tikName": "Владивосток, Советская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 814,
     "uikTvd": "4254008275261",
+    "uikName": "УИК №814",
     "tikTvd": "22520001321759",
-    "tikName": "Владивосток, Советская"
+    "tikName": "Владивосток, Советская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 815,
     "uikTvd": "4254008275262",
+    "uikName": "УИК №815",
     "tikTvd": "22520001321759",
-    "tikName": "Владивосток, Советская"
+    "tikName": "Владивосток, Советская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 816,
     "uikTvd": "4254008275263",
+    "uikName": "УИК №816",
     "tikTvd": "22520001321759",
-    "tikName": "Владивосток, Советская"
+    "tikName": "Владивосток, Советская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 817,
     "uikTvd": "4254008275264",
+    "uikName": "УИК №817",
     "tikTvd": "22520001321759",
-    "tikName": "Владивосток, Советская"
+    "tikName": "Владивосток, Советская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 818,
     "uikTvd": "4254008275265",
+    "uikName": "УИК №818",
     "tikTvd": "22520001321759",
-    "tikName": "Владивосток, Советская"
+    "tikName": "Владивосток, Советская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 819,
     "uikTvd": "4254008275266",
+    "uikName": "УИК №819",
     "tikTvd": "22520001321759",
-    "tikName": "Владивосток, Советская"
+    "tikName": "Владивосток, Советская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 820,
     "uikTvd": "4254008275267",
+    "uikName": "УИК №820",
     "tikTvd": "22520001321759",
-    "tikName": "Владивосток, Советская"
+    "tikName": "Владивосток, Советская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 821,
     "uikTvd": "4254008275268",
+    "uikName": "УИК №821",
     "tikTvd": "22520001321759",
-    "tikName": "Владивосток, Советская"
+    "tikName": "Владивосток, Советская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 822,
     "uikTvd": "4254008275269",
+    "uikName": "УИК №822",
     "tikTvd": "22520001321759",
-    "tikName": "Владивосток, Советская"
+    "tikName": "Владивосток, Советская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 823,
     "uikTvd": "4254008275270",
+    "uikName": "УИК №823",
     "tikTvd": "22520001321759",
-    "tikName": "Владивосток, Советская"
+    "tikName": "Владивосток, Советская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 824,
     "uikTvd": "4254008275271",
+    "uikName": "УИК №824",
     "tikTvd": "22520001321759",
-    "tikName": "Владивосток, Советская"
+    "tikName": "Владивосток, Советская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 825,
     "uikTvd": "4254008275272",
+    "uikName": "УИК №825",
     "tikTvd": "22520001321759",
-    "tikName": "Владивосток, Советская"
+    "tikName": "Владивосток, Советская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 826,
     "uikTvd": "4254008275273",
+    "uikName": "УИК №826",
     "tikTvd": "22520001321759",
-    "tikName": "Владивосток, Советская"
+    "tikName": "Владивосток, Советская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 827,
     "uikTvd": "4254008275274",
+    "uikName": "УИК №827",
     "tikTvd": "22520001321759",
-    "tikName": "Владивосток, Советская"
+    "tikName": "Владивосток, Советская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 828,
     "uikTvd": "4254008275275",
+    "uikName": "УИК №828",
     "tikTvd": "22520001321759",
-    "tikName": "Владивосток, Советская"
+    "tikName": "Владивосток, Советская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 829,
     "uikTvd": "4254008275276",
+    "uikName": "УИК №829",
     "tikTvd": "22520001321759",
-    "tikName": "Владивосток, Советская"
+    "tikName": "Владивосток, Советская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 830,
     "uikTvd": "4254008275277",
+    "uikName": "УИК №830",
     "tikTvd": "22520001321759",
-    "tikName": "Владивосток, Советская"
+    "tikName": "Владивосток, Советская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 831,
     "uikTvd": "4254008275278",
+    "uikName": "УИК №831",
     "tikTvd": "22520001321759",
-    "tikName": "Владивосток, Советская"
+    "tikName": "Владивосток, Советская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 832,
     "uikTvd": "4254008275279",
+    "uikName": "УИК №832",
     "tikTvd": "22520001321759",
-    "tikName": "Владивосток, Советская"
+    "tikName": "Владивосток, Советская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 833,
     "uikTvd": "4254008275280",
+    "uikName": "УИК №833",
     "tikTvd": "22520001321759",
-    "tikName": "Владивосток, Советская"
+    "tikName": "Владивосток, Советская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 834,
     "uikTvd": "4254008275281",
+    "uikName": "УИК №834",
     "tikTvd": "22520001321759",
-    "tikName": "Владивосток, Советская"
+    "tikName": "Владивосток, Советская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 835,
     "uikTvd": "4254008275282",
+    "uikName": "УИК №835",
     "tikTvd": "22520001321759",
-    "tikName": "Владивосток, Советская"
+    "tikName": "Владивосток, Советская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 836,
     "uikTvd": "4254008275283",
+    "uikName": "УИК №836",
     "tikTvd": "22520001321759",
-    "tikName": "Владивосток, Советская"
+    "tikName": "Владивосток, Советская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 837,
     "uikTvd": "4254008275284",
+    "uikName": "УИК №837",
     "tikTvd": "22520001321759",
-    "tikName": "Владивосток, Советская"
+    "tikName": "Владивосток, Советская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 838,
     "uikTvd": "4254008275285",
+    "uikName": "УИК №838",
     "tikTvd": "22520001321759",
-    "tikName": "Владивосток, Советская"
+    "tikName": "Владивосток, Советская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 839,
     "uikTvd": "4254008275286",
+    "uikName": "УИК №839",
     "tikTvd": "22520001321759",
-    "tikName": "Владивосток, Советская"
+    "tikName": "Владивосток, Советская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 840,
     "uikTvd": "4254008275287",
+    "uikName": "УИК №840",
     "tikTvd": "22520001321759",
-    "tikName": "Владивосток, Советская"
+    "tikName": "Владивосток, Советская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 841,
     "uikTvd": "4254008275288",
+    "uikName": "УИК №841",
     "tikTvd": "22520001321759",
-    "tikName": "Владивосток, Советская"
+    "tikName": "Владивосток, Советская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 842,
     "uikTvd": "4254008275289",
+    "uikName": "УИК №842",
     "tikTvd": "22520001321759",
-    "tikName": "Владивосток, Советская"
+    "tikName": "Владивосток, Советская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 843,
     "uikTvd": "4254008275290",
+    "uikName": "УИК №843",
     "tikTvd": "22520001321759",
-    "tikName": "Владивосток, Советская"
+    "tikName": "Владивосток, Советская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 844,
     "uikTvd": "4254008275291",
+    "uikName": "УИК №844",
     "tikTvd": "22520001321759",
-    "tikName": "Владивосток, Советская"
+    "tikName": "Владивосток, Советская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 845,
     "uikTvd": "4254008275292",
+    "uikName": "УИК №845",
     "tikTvd": "22520001321759",
-    "tikName": "Владивосток, Советская"
+    "tikName": "Владивосток, Советская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 846,
     "uikTvd": "4254008275293",
+    "uikName": "УИК №846",
     "tikTvd": "22520001321759",
-    "tikName": "Владивосток, Советская"
+    "tikName": "Владивосток, Советская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 847,
     "uikTvd": "4254008275294",
+    "uikName": "УИК №847",
     "tikTvd": "22520001321759",
-    "tikName": "Владивосток, Советская"
+    "tikName": "Владивосток, Советская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 848,
     "uikTvd": "4254008275295",
+    "uikName": "УИК №848",
     "tikTvd": "22520001321759",
-    "tikName": "Владивосток, Советская"
+    "tikName": "Владивосток, Советская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 849,
     "uikTvd": "4254008275296",
+    "uikName": "УИК №849",
     "tikTvd": "22520001321759",
-    "tikName": "Владивосток, Советская"
+    "tikName": "Владивосток, Советская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 880,
     "uikTvd": "4254008276254",
+    "uikName": "УИК №880",
     "tikTvd": "22520001321759",
-    "tikName": "Владивосток, Советская"
+    "tikName": "Владивосток, Советская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 881,
     "uikTvd": "4254008276255",
+    "uikName": "УИК №881",
     "tikTvd": "22520001321759",
-    "tikName": "Владивосток, Советская"
+    "tikName": "Владивосток, Советская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 882,
     "uikTvd": "4254008276256",
+    "uikName": "УИК №882",
     "tikTvd": "22520001321759",
-    "tikName": "Владивосток, Советская"
+    "tikName": "Владивосток, Советская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 883,
     "uikTvd": "4254008276257",
+    "uikName": "УИК №883",
     "tikTvd": "22520001321759",
-    "tikName": "Владивосток, Советская"
+    "tikName": "Владивосток, Советская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 901,
     "uikTvd": "4254009433633",
+    "uikName": "УИК №901",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 902,
     "uikTvd": "4254009433634",
+    "uikName": "УИК №902",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 903,
     "uikTvd": "4254009433635",
+    "uikName": "УИК №903",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 904,
     "uikTvd": "4254009433636",
+    "uikName": "УИК №904",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 905,
     "uikTvd": "4254009433637",
+    "uikName": "УИК №905",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 906,
     "uikTvd": "4254009433638",
+    "uikName": "УИК №906",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 907,
     "uikTvd": "4254009433639",
+    "uikName": "УИК №907",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 908,
     "uikTvd": "4254009433640",
+    "uikName": "УИК №908",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 909,
     "uikTvd": "4254009433641",
+    "uikName": "УИК №909",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 910,
     "uikTvd": "4254009433642",
+    "uikName": "УИК №910",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 911,
     "uikTvd": "4254009433643",
+    "uikName": "УИК №911",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 912,
     "uikTvd": "4254009433644",
+    "uikName": "УИК №912",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 913,
     "uikTvd": "4254009433645",
+    "uikName": "УИК №913",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 914,
     "uikTvd": "4254009433646",
+    "uikName": "УИК №914",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 915,
     "uikTvd": "4254009433647",
+    "uikName": "УИК №915",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 916,
     "uikTvd": "4254009433648",
+    "uikName": "УИК №916",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 917,
     "uikTvd": "4254009433649",
+    "uikName": "УИК №917",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 918,
     "uikTvd": "4254009433650",
+    "uikName": "УИК №918",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 919,
     "uikTvd": "4254009433651",
+    "uikName": "УИК №919",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 920,
     "uikTvd": "4254009433652",
+    "uikName": "УИК №920",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 921,
     "uikTvd": "4254009433653",
+    "uikName": "УИК №921",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 922,
     "uikTvd": "4254009433654",
+    "uikName": "УИК №922",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 923,
     "uikTvd": "4254009433655",
+    "uikName": "УИК №923",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 924,
     "uikTvd": "4254009433656",
+    "uikName": "УИК №924",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 925,
     "uikTvd": "4254009433657",
+    "uikName": "УИК №925",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 926,
     "uikTvd": "4254009433658",
+    "uikName": "УИК №926",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 980,
     "uikTvd": "4254009434646",
+    "uikName": "УИК №980",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 981,
     "uikTvd": "4254009434647",
+    "uikName": "УИК №981",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 982,
     "uikTvd": "4254009434648",
+    "uikName": "УИК №982",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 983,
     "uikTvd": "4254009434649",
+    "uikName": "УИК №983",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 984,
     "uikTvd": "4254009434650",
+    "uikName": "УИК №984",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 985,
     "uikTvd": "4254009434651",
+    "uikName": "УИК №985",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1001,
     "uikTvd": "4254010312779",
+    "uikName": "УИК №1001",
     "tikTvd": "22520001321745",
-    "tikName": "Дальнегорская городская"
+    "tikName": "Дальнегорская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1002,
     "uikTvd": "4254010312780",
+    "uikName": "УИК №1002",
     "tikTvd": "22520001321745",
-    "tikName": "Дальнегорская городская"
+    "tikName": "Дальнегорская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1003,
     "uikTvd": "4254010312781",
+    "uikName": "УИК №1003",
     "tikTvd": "22520001321745",
-    "tikName": "Дальнегорская городская"
+    "tikName": "Дальнегорская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1004,
     "uikTvd": "4254010312782",
+    "uikName": "УИК №1004",
     "tikTvd": "22520001321745",
-    "tikName": "Дальнегорская городская"
+    "tikName": "Дальнегорская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1005,
     "uikTvd": "4254010312783",
+    "uikName": "УИК №1005",
     "tikTvd": "22520001321745",
-    "tikName": "Дальнегорская городская"
+    "tikName": "Дальнегорская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1006,
     "uikTvd": "4254010312784",
+    "uikName": "УИК №1006",
     "tikTvd": "22520001321745",
-    "tikName": "Дальнегорская городская"
+    "tikName": "Дальнегорская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1007,
     "uikTvd": "4254010312785",
+    "uikName": "УИК №1007",
     "tikTvd": "22520001321745",
-    "tikName": "Дальнегорская городская"
+    "tikName": "Дальнегорская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1008,
     "uikTvd": "4254010312786",
+    "uikName": "УИК №1008",
     "tikTvd": "22520001321745",
-    "tikName": "Дальнегорская городская"
+    "tikName": "Дальнегорская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1009,
     "uikTvd": "4254010312787",
+    "uikName": "УИК №1009",
     "tikTvd": "22520001321745",
-    "tikName": "Дальнегорская городская"
+    "tikName": "Дальнегорская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1010,
     "uikTvd": "4254010312788",
+    "uikName": "УИК №1010",
     "tikTvd": "22520001321745",
-    "tikName": "Дальнегорская городская"
+    "tikName": "Дальнегорская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1011,
     "uikTvd": "4254010312789",
+    "uikName": "УИК №1011",
     "tikTvd": "22520001321745",
-    "tikName": "Дальнегорская городская"
+    "tikName": "Дальнегорская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1012,
     "uikTvd": "4254010312790",
+    "uikName": "УИК №1012",
     "tikTvd": "22520001321745",
-    "tikName": "Дальнегорская городская"
+    "tikName": "Дальнегорская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1013,
     "uikTvd": "4254010312791",
+    "uikName": "УИК №1013",
     "tikTvd": "22520001321745",
-    "tikName": "Дальнегорская городская"
+    "tikName": "Дальнегорская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1014,
     "uikTvd": "4254010312792",
+    "uikName": "УИК №1014",
     "tikTvd": "22520001321745",
-    "tikName": "Дальнегорская городская"
+    "tikName": "Дальнегорская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1015,
     "uikTvd": "4254010312793",
+    "uikName": "УИК №1015",
     "tikTvd": "22520001321745",
-    "tikName": "Дальнегорская городская"
+    "tikName": "Дальнегорская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1016,
     "uikTvd": "4254010312794",
+    "uikName": "УИК №1016",
     "tikTvd": "22520001321745",
-    "tikName": "Дальнегорская городская"
+    "tikName": "Дальнегорская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1017,
     "uikTvd": "4254010312795",
+    "uikName": "УИК №1017",
     "tikTvd": "22520001321745",
-    "tikName": "Дальнегорская городская"
+    "tikName": "Дальнегорская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1018,
     "uikTvd": "4254010312796",
+    "uikName": "УИК №1018",
     "tikTvd": "22520001321745",
-    "tikName": "Дальнегорская городская"
+    "tikName": "Дальнегорская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1019,
     "uikTvd": "4254010312797",
+    "uikName": "УИК №1019",
     "tikTvd": "22520001321745",
-    "tikName": "Дальнегорская городская"
+    "tikName": "Дальнегорская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1020,
     "uikTvd": "4254010312798",
+    "uikName": "УИК №1020",
     "tikTvd": "22520001321745",
-    "tikName": "Дальнегорская городская"
+    "tikName": "Дальнегорская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1021,
     "uikTvd": "4254010312799",
+    "uikName": "УИК №1021",
     "tikTvd": "22520001321745",
-    "tikName": "Дальнегорская городская"
+    "tikName": "Дальнегорская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1022,
     "uikTvd": "4254010312800",
+    "uikName": "УИК №1022",
     "tikTvd": "22520001321745",
-    "tikName": "Дальнегорская городская"
+    "tikName": "Дальнегорская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1023,
     "uikTvd": "4254010312801",
+    "uikName": "УИК №1023",
     "tikTvd": "22520001321745",
-    "tikName": "Дальнегорская городская"
+    "tikName": "Дальнегорская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1024,
     "uikTvd": "4254010312802",
+    "uikName": "УИК №1024",
     "tikTvd": "22520001321745",
-    "tikName": "Дальнегорская городская"
+    "tikName": "Дальнегорская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1080,
     "uikTvd": "4254010313514",
+    "uikName": "УИК №1080",
     "tikTvd": "22520001321745",
-    "tikName": "Дальнегорская городская"
+    "tikName": "Дальнегорская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1101,
     "uikTvd": "4254011186770",
+    "uikName": "УИК №1101",
     "tikTvd": "22520001321773",
-    "tikName": "Дальнереченская городская"
+    "tikName": "Дальнереченская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1102,
     "uikTvd": "4254011186771",
+    "uikName": "УИК №1102",
     "tikTvd": "22520001321773",
-    "tikName": "Дальнереченская городская"
+    "tikName": "Дальнереченская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1103,
     "uikTvd": "4254011186772",
+    "uikName": "УИК №1103",
     "tikTvd": "22520001321773",
-    "tikName": "Дальнереченская городская"
+    "tikName": "Дальнереченская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1104,
     "uikTvd": "4254011186773",
+    "uikName": "УИК №1104",
     "tikTvd": "22520001321773",
-    "tikName": "Дальнереченская городская"
+    "tikName": "Дальнереченская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1105,
     "uikTvd": "4254011186774",
+    "uikName": "УИК №1105",
     "tikTvd": "22520001321773",
-    "tikName": "Дальнереченская городская"
+    "tikName": "Дальнереченская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1106,
     "uikTvd": "4254011186775",
+    "uikName": "УИК №1106",
     "tikTvd": "22520001321773",
-    "tikName": "Дальнереченская городская"
+    "tikName": "Дальнереченская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1107,
     "uikTvd": "4254011186776",
+    "uikName": "УИК №1107",
     "tikTvd": "22520001321773",
-    "tikName": "Дальнереченская городская"
+    "tikName": "Дальнереченская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1108,
     "uikTvd": "4254011186777",
+    "uikName": "УИК №1108",
     "tikTvd": "22520001321773",
-    "tikName": "Дальнереченская городская"
+    "tikName": "Дальнереченская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1109,
     "uikTvd": "4254011186778",
+    "uikName": "УИК №1109",
     "tikTvd": "22520001321773",
-    "tikName": "Дальнереченская городская"
+    "tikName": "Дальнереченская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1110,
     "uikTvd": "4254011186779",
+    "uikName": "УИК №1110",
     "tikTvd": "22520001321773",
-    "tikName": "Дальнереченская городская"
+    "tikName": "Дальнереченская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1111,
     "uikTvd": "4254011186780",
+    "uikName": "УИК №1111",
     "tikTvd": "22520001321773",
-    "tikName": "Дальнереченская городская"
+    "tikName": "Дальнереченская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1112,
     "uikTvd": "4254011186781",
+    "uikName": "УИК №1112",
     "tikTvd": "22520001321773",
-    "tikName": "Дальнереченская городская"
+    "tikName": "Дальнереченская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1113,
     "uikTvd": "4254011186782",
+    "uikName": "УИК №1113",
     "tikTvd": "22520001321773",
-    "tikName": "Дальнереченская городская"
+    "tikName": "Дальнереченская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1114,
     "uikTvd": "4254011186783",
+    "uikName": "УИК №1114",
     "tikTvd": "22520001321773",
-    "tikName": "Дальнереченская городская"
+    "tikName": "Дальнереченская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1115,
     "uikTvd": "4254011186784",
+    "uikName": "УИК №1115",
     "tikTvd": "22520001321773",
-    "tikName": "Дальнереченская городская"
+    "tikName": "Дальнереченская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1116,
     "uikTvd": "4254011186785",
+    "uikName": "УИК №1116",
     "tikTvd": "22520001321773",
-    "tikName": "Дальнереченская городская"
+    "tikName": "Дальнереченская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1117,
     "uikTvd": "4254011186786",
+    "uikName": "УИК №1117",
     "tikTvd": "22520001321773",
-    "tikName": "Дальнереченская городская"
+    "tikName": "Дальнереченская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1118,
     "uikTvd": "4254011186787",
+    "uikName": "УИК №1118",
     "tikTvd": "22520001321773",
-    "tikName": "Дальнереченская городская"
+    "tikName": "Дальнереченская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1119,
     "uikTvd": "4254011186788",
+    "uikName": "УИК №1119",
     "tikTvd": "22520001321773",
-    "tikName": "Дальнереченская городская"
+    "tikName": "Дальнереченская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1120,
     "uikTvd": "4254011186789",
+    "uikName": "УИК №1120",
     "tikTvd": "22520001321773",
-    "tikName": "Дальнереченская городская"
+    "tikName": "Дальнереченская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1121,
     "uikTvd": "4254011186790",
+    "uikName": "УИК №1121",
     "tikTvd": "22520001321773",
-    "tikName": "Дальнереченская городская"
+    "tikName": "Дальнереченская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1122,
     "uikTvd": "4254011186791",
+    "uikName": "УИК №1122",
     "tikTvd": "22520001321773",
-    "tikName": "Дальнереченская городская"
+    "tikName": "Дальнереченская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1201,
     "uikTvd": "4254012241661",
+    "uikName": "УИК №1201",
     "tikTvd": "22520001321760",
-    "tikName": "Кавалеровская"
+    "tikName": "Кавалеровская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1202,
     "uikTvd": "4254012241662",
+    "uikName": "УИК №1202",
     "tikTvd": "22520001321760",
-    "tikName": "Кавалеровская"
+    "tikName": "Кавалеровская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1203,
     "uikTvd": "4254012241663",
+    "uikName": "УИК №1203",
     "tikTvd": "22520001321760",
-    "tikName": "Кавалеровская"
+    "tikName": "Кавалеровская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1204,
     "uikTvd": "4254012241664",
+    "uikName": "УИК №1204",
     "tikTvd": "22520001321760",
-    "tikName": "Кавалеровская"
+    "tikName": "Кавалеровская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1205,
     "uikTvd": "4254012241665",
+    "uikName": "УИК №1205",
     "tikTvd": "22520001321760",
-    "tikName": "Кавалеровская"
+    "tikName": "Кавалеровская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1206,
     "uikTvd": "4254012241666",
+    "uikName": "УИК №1206",
     "tikTvd": "22520001321760",
-    "tikName": "Кавалеровская"
+    "tikName": "Кавалеровская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1207,
     "uikTvd": "4254012241667",
+    "uikName": "УИК №1207",
     "tikTvd": "22520001321760",
-    "tikName": "Кавалеровская"
+    "tikName": "Кавалеровская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1208,
     "uikTvd": "4254012241668",
+    "uikName": "УИК №1208",
     "tikTvd": "22520001321760",
-    "tikName": "Кавалеровская"
+    "tikName": "Кавалеровская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1209,
     "uikTvd": "4254012241669",
+    "uikName": "УИК №1209",
     "tikTvd": "22520001321760",
-    "tikName": "Кавалеровская"
+    "tikName": "Кавалеровская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1211,
     "uikTvd": "4254012241670",
+    "uikName": "УИК №1211",
     "tikTvd": "22520001321760",
-    "tikName": "Кавалеровская"
+    "tikName": "Кавалеровская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1212,
     "uikTvd": "4254012241671",
+    "uikName": "УИК №1212",
     "tikTvd": "22520001321760",
-    "tikName": "Кавалеровская"
+    "tikName": "Кавалеровская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1213,
     "uikTvd": "4254012241672",
+    "uikName": "УИК №1213",
     "tikTvd": "22520001321760",
-    "tikName": "Кавалеровская"
+    "tikName": "Кавалеровская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1214,
     "uikTvd": "4254012241673",
+    "uikName": "УИК №1214",
     "tikTvd": "22520001321760",
-    "tikName": "Кавалеровская"
+    "tikName": "Кавалеровская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1215,
     "uikTvd": "4254012241674",
+    "uikName": "УИК №1215",
     "tikTvd": "22520001321760",
-    "tikName": "Кавалеровская"
+    "tikName": "Кавалеровская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1216,
     "uikTvd": "4254012241675",
+    "uikName": "УИК №1216",
     "tikTvd": "22520001321760",
-    "tikName": "Кавалеровская"
+    "tikName": "Кавалеровская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1217,
     "uikTvd": "4254012241676",
+    "uikName": "УИК №1217",
     "tikTvd": "22520001321760",
-    "tikName": "Кавалеровская"
+    "tikName": "Кавалеровская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1218,
     "uikTvd": "4254012241677",
+    "uikName": "УИК №1218",
     "tikTvd": "22520001321760",
-    "tikName": "Кавалеровская"
+    "tikName": "Кавалеровская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1219,
     "uikTvd": "4254012241678",
+    "uikName": "УИК №1219",
     "tikTvd": "22520001321760",
-    "tikName": "Кавалеровская"
+    "tikName": "Кавалеровская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1220,
     "uikTvd": "4254012241679",
+    "uikName": "УИК №1220",
     "tikTvd": "22520001321760",
-    "tikName": "Кавалеровская"
+    "tikName": "Кавалеровская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1221,
     "uikTvd": "4254012241680",
+    "uikName": "УИК №1221",
     "tikTvd": "22520001321760",
-    "tikName": "Кавалеровская"
+    "tikName": "Кавалеровская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1222,
     "uikTvd": "4254012241681",
+    "uikName": "УИК №1222",
     "tikTvd": "22520001321760",
-    "tikName": "Кавалеровская"
+    "tikName": "Кавалеровская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1223,
     "uikTvd": "4254012241682",
+    "uikName": "УИК №1223",
     "tikTvd": "22520001321760",
-    "tikName": "Кавалеровская"
+    "tikName": "Кавалеровская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1224,
     "uikTvd": "4254012241683",
+    "uikName": "УИК №1224",
     "tikTvd": "22520001321760",
-    "tikName": "Кавалеровская"
+    "tikName": "Кавалеровская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1225,
     "uikTvd": "4254012241684",
+    "uikName": "УИК №1225",
     "tikTvd": "22520001321760",
-    "tikName": "Кавалеровская"
+    "tikName": "Кавалеровская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1226,
     "uikTvd": "4254012241685",
+    "uikName": "УИК №1226",
     "tikTvd": "22520001321760",
-    "tikName": "Кавалеровская"
+    "tikName": "Кавалеровская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1280,
     "uikTvd": "4254012242593",
+    "uikName": "УИК №1280",
     "tikTvd": "22520001321760",
-    "tikName": "Кавалеровская"
+    "tikName": "Кавалеровская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1301,
     "uikTvd": "4254013236829",
+    "uikName": "УИК №1301",
     "tikTvd": "22520001321768",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1302,
     "uikTvd": "4254013236830",
+    "uikName": "УИК №1302",
     "tikTvd": "22520001321768",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1303,
     "uikTvd": "4254013236831",
+    "uikName": "УИК №1303",
     "tikTvd": "22520001321768",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1304,
     "uikTvd": "4254013236832",
+    "uikName": "УИК №1304",
     "tikTvd": "22520001321768",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1305,
     "uikTvd": "4254013236833",
+    "uikName": "УИК №1305",
     "tikTvd": "22520001321768",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1306,
     "uikTvd": "4254013236834",
+    "uikName": "УИК №1306",
     "tikTvd": "22520001321768",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1307,
     "uikTvd": "4254013236835",
+    "uikName": "УИК №1307",
     "tikTvd": "22520001321768",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1308,
     "uikTvd": "4254013236836",
+    "uikName": "УИК №1308",
     "tikTvd": "22520001321768",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1309,
     "uikTvd": "4254013236837",
+    "uikName": "УИК №1309",
     "tikTvd": "22520001321768",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1310,
     "uikTvd": "4254013236838",
+    "uikName": "УИК №1310",
     "tikTvd": "22520001321768",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1311,
     "uikTvd": "4254013236839",
+    "uikName": "УИК №1311",
     "tikTvd": "22520001321768",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1312,
     "uikTvd": "4254013236840",
+    "uikName": "УИК №1312",
     "tikTvd": "22520001321768",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1313,
     "uikTvd": "4254013236841",
+    "uikName": "УИК №1313",
     "tikTvd": "22520001321768",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1314,
     "uikTvd": "4254013236842",
+    "uikName": "УИК №1314",
     "tikTvd": "22520001321768",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1315,
     "uikTvd": "4254013236843",
+    "uikName": "УИК №1315",
     "tikTvd": "22520001321768",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1316,
     "uikTvd": "4254013236844",
+    "uikName": "УИК №1316",
     "tikTvd": "22520001321768",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1317,
     "uikTvd": "4254013236845",
+    "uikName": "УИК №1317",
     "tikTvd": "22520001321768",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1318,
     "uikTvd": "4254013236846",
+    "uikName": "УИК №1318",
     "tikTvd": "22520001321768",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1319,
     "uikTvd": "4254013236847",
+    "uikName": "УИК №1319",
     "tikTvd": "22520001321768",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1320,
     "uikTvd": "4254013236848",
+    "uikName": "УИК №1320",
     "tikTvd": "22520001321768",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1321,
     "uikTvd": "4254013236849",
+    "uikName": "УИК №1321",
     "tikTvd": "22520001321768",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1322,
     "uikTvd": "4254013236850",
+    "uikName": "УИК №1322",
     "tikTvd": "22520001321768",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1323,
     "uikTvd": "4254013236851",
+    "uikName": "УИК №1323",
     "tikTvd": "22520001321768",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1324,
     "uikTvd": "4254013236852",
+    "uikName": "УИК №1324",
     "tikTvd": "22520001321768",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1325,
     "uikTvd": "4254013236853",
+    "uikName": "УИК №1325",
     "tikTvd": "22520001321768",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1327,
     "uikTvd": "4254013236854",
+    "uikName": "УИК №1327",
     "tikTvd": "22520001321768",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1328,
     "uikTvd": "4254013236855",
+    "uikName": "УИК №1328",
     "tikTvd": "22520001321768",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1329,
     "uikTvd": "4254013236856",
+    "uikName": "УИК №1329",
     "tikTvd": "22520001321768",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1330,
     "uikTvd": "4254013236857",
+    "uikName": "УИК №1330",
     "tikTvd": "22520001321768",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1332,
     "uikTvd": "4254013236858",
+    "uikName": "УИК №1332",
     "tikTvd": "22520001321768",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1333,
     "uikTvd": "4254013236859",
+    "uikName": "УИК №1333",
     "tikTvd": "22520001321768",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1334,
     "uikTvd": "4254013236860",
+    "uikName": "УИК №1334",
     "tikTvd": "22520001321768",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1335,
     "uikTvd": "4254013236861",
+    "uikName": "УИК №1335",
     "tikTvd": "22520001321768",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1336,
     "uikTvd": "4254013236862",
+    "uikName": "УИК №1336",
     "tikTvd": "22520001321768",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1337,
     "uikTvd": "4254013236863",
+    "uikName": "УИК №1337",
     "tikTvd": "22520001321768",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1338,
     "uikTvd": "4254013236864",
+    "uikName": "УИК №1338",
     "tikTvd": "22520001321768",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1339,
     "uikTvd": "4254013236865",
+    "uikName": "УИК №1339",
     "tikTvd": "22520001321768",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1340,
     "uikTvd": "4254013236866",
+    "uikName": "УИК №1340",
     "tikTvd": "22520001321768",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1341,
     "uikTvd": "4254013236867",
+    "uikName": "УИК №1341",
     "tikTvd": "22520001321768",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1380,
     "uikTvd": "4254013237405",
+    "uikName": "УИК №1380",
     "tikTvd": "22520001321768",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1401,
     "uikTvd": "4254014202522",
+    "uikName": "УИК №1401",
     "tikTvd": "22520001321765",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1402,
     "uikTvd": "4254014202523",
+    "uikName": "УИК №1402",
     "tikTvd": "22520001321765",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1403,
     "uikTvd": "4254014202524",
+    "uikName": "УИК №1403",
     "tikTvd": "22520001321765",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1404,
     "uikTvd": "4254014202525",
+    "uikName": "УИК №1404",
     "tikTvd": "22520001321765",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1406,
     "uikTvd": "4254014202526",
+    "uikName": "УИК №1406",
     "tikTvd": "22520001321765",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1407,
     "uikTvd": "4254014202527",
+    "uikName": "УИК №1407",
     "tikTvd": "22520001321765",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1408,
     "uikTvd": "4254014202528",
+    "uikName": "УИК №1408",
     "tikTvd": "22520001321765",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1410,
     "uikTvd": "4254014202529",
+    "uikName": "УИК №1410",
     "tikTvd": "22520001321765",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1411,
     "uikTvd": "4254014202530",
+    "uikName": "УИК №1411",
     "tikTvd": "22520001321765",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1412,
     "uikTvd": "4254014202531",
+    "uikName": "УИК №1412",
     "tikTvd": "22520001321765",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1413,
     "uikTvd": "4254014202532",
+    "uikName": "УИК №1413",
     "tikTvd": "22520001321765",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1414,
     "uikTvd": "4254014202533",
+    "uikName": "УИК №1414",
     "tikTvd": "22520001321765",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1415,
     "uikTvd": "4254014202534",
+    "uikName": "УИК №1415",
     "tikTvd": "22520001321765",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1416,
     "uikTvd": "4254014202535",
+    "uikName": "УИК №1416",
     "tikTvd": "22520001321765",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1417,
     "uikTvd": "4254014202536",
+    "uikName": "УИК №1417",
     "tikTvd": "22520001321765",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1418,
     "uikTvd": "4254014202537",
+    "uikName": "УИК №1418",
     "tikTvd": "22520001321765",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1419,
     "uikTvd": "4254014202538",
+    "uikName": "УИК №1419",
     "tikTvd": "22520001321765",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1420,
     "uikTvd": "4254014202539",
+    "uikName": "УИК №1420",
     "tikTvd": "22520001321765",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1421,
     "uikTvd": "4254014202540",
+    "uikName": "УИК №1421",
     "tikTvd": "22520001321765",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1422,
     "uikTvd": "4254014202541",
+    "uikName": "УИК №1422",
     "tikTvd": "22520001321765",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1423,
     "uikTvd": "4254014202542",
+    "uikName": "УИК №1423",
     "tikTvd": "22520001321765",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1424,
     "uikTvd": "4254014202543",
+    "uikName": "УИК №1424",
     "tikTvd": "22520001321765",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1425,
     "uikTvd": "4254014202544",
+    "uikName": "УИК №1425",
     "tikTvd": "22520001321765",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1426,
     "uikTvd": "4254014202545",
+    "uikName": "УИК №1426",
     "tikTvd": "22520001321765",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1427,
     "uikTvd": "4254014202546",
+    "uikName": "УИК №1427",
     "tikTvd": "22520001321765",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1501,
     "uikTvd": "4254015206988",
+    "uikName": "УИК №1501",
     "tikTvd": "22520001321743",
-    "tikName": "Лазовская"
+    "tikName": "Лазовская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1502,
     "uikTvd": "4254015206990",
+    "uikName": "УИК №1502",
     "tikTvd": "22520001321743",
-    "tikName": "Лазовская"
+    "tikName": "Лазовская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1503,
     "uikTvd": "4254015206992",
+    "uikName": "УИК №1503",
     "tikTvd": "22520001321743",
-    "tikName": "Лазовская"
+    "tikName": "Лазовская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1504,
     "uikTvd": "4254015206993",
+    "uikName": "УИК №1504",
     "tikTvd": "22520001321743",
-    "tikName": "Лазовская"
+    "tikName": "Лазовская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1505,
     "uikTvd": "4254015206994",
+    "uikName": "УИК №1505",
     "tikTvd": "22520001321743",
-    "tikName": "Лазовская"
+    "tikName": "Лазовская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1506,
     "uikTvd": "4254015206995",
+    "uikName": "УИК №1506",
     "tikTvd": "22520001321743",
-    "tikName": "Лазовская"
+    "tikName": "Лазовская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1507,
     "uikTvd": "4254015206996",
+    "uikName": "УИК №1507",
     "tikTvd": "22520001321743",
-    "tikName": "Лазовская"
+    "tikName": "Лазовская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1508,
     "uikTvd": "4254015206997",
+    "uikName": "УИК №1508",
     "tikTvd": "22520001321743",
-    "tikName": "Лазовская"
+    "tikName": "Лазовская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1509,
     "uikTvd": "4254015206998",
+    "uikName": "УИК №1509",
     "tikTvd": "22520001321743",
-    "tikName": "Лазовская"
+    "tikName": "Лазовская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1510,
     "uikTvd": "4254015206999",
+    "uikName": "УИК №1510",
     "tikTvd": "22520001321743",
-    "tikName": "Лазовская"
+    "tikName": "Лазовская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1511,
     "uikTvd": "4254015207000",
+    "uikName": "УИК №1511",
     "tikTvd": "22520001321743",
-    "tikName": "Лазовская"
+    "tikName": "Лазовская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1512,
     "uikTvd": "4254015207001",
+    "uikName": "УИК №1512",
     "tikTvd": "22520001321743",
-    "tikName": "Лазовская"
+    "tikName": "Лазовская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1513,
     "uikTvd": "4254015207002",
+    "uikName": "УИК №1513",
     "tikTvd": "22520001321743",
-    "tikName": "Лазовская"
+    "tikName": "Лазовская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1514,
     "uikTvd": "4254015207003",
+    "uikName": "УИК №1514",
     "tikTvd": "22520001321743",
-    "tikName": "Лазовская"
+    "tikName": "Лазовская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1515,
     "uikTvd": "4254015207004",
+    "uikName": "УИК №1515",
     "tikTvd": "22520001321743",
-    "tikName": "Лазовская"
+    "tikName": "Лазовская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1516,
     "uikTvd": "4254015207005",
+    "uikName": "УИК №1516",
     "tikTvd": "22520001321743",
-    "tikName": "Лазовская"
+    "tikName": "Лазовская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1517,
     "uikTvd": "4254015207006",
+    "uikName": "УИК №1517",
     "tikTvd": "22520001321743",
-    "tikName": "Лазовская"
+    "tikName": "Лазовская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1518,
     "uikTvd": "4254015207007",
+    "uikName": "УИК №1518",
     "tikTvd": "22520001321743",
-    "tikName": "Лазовская"
+    "tikName": "Лазовская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1519,
     "uikTvd": "4254015207008",
+    "uikName": "УИК №1519",
     "tikTvd": "22520001321743",
-    "tikName": "Лазовская"
+    "tikName": "Лазовская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1520,
     "uikTvd": "4254015207009",
+    "uikName": "УИК №1520",
     "tikTvd": "22520001321743",
-    "tikName": "Лазовская"
+    "tikName": "Лазовская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1521,
     "uikTvd": "4254015207010",
+    "uikName": "УИК №1521",
     "tikTvd": "22520001321743",
-    "tikName": "Лазовская"
+    "tikName": "Лазовская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1522,
     "uikTvd": "4254015207011",
+    "uikName": "УИК №1522",
     "tikTvd": "22520001321743",
-    "tikName": "Лазовская"
+    "tikName": "Лазовская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1523,
     "uikTvd": "4254015207012",
+    "uikName": "УИК №1523",
     "tikTvd": "22520001321743",
-    "tikName": "Лазовская"
+    "tikName": "Лазовская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1524,
     "uikTvd": "4254015207013",
+    "uikName": "УИК №1524",
     "tikTvd": "22520001321743",
-    "tikName": "Лазовская"
+    "tikName": "Лазовская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1525,
     "uikTvd": "4254015207014",
+    "uikName": "УИК №1525",
     "tikTvd": "22520001321743",
-    "tikName": "Лазовская"
+    "tikName": "Лазовская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1526,
     "uikTvd": "4254015207015",
+    "uikName": "УИК №1526",
     "tikTvd": "22520001321743",
-    "tikName": "Лазовская"
+    "tikName": "Лазовская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1527,
     "uikTvd": "4254015207016",
+    "uikName": "УИК №1527",
     "tikTvd": "22520001321743",
-    "tikName": "Лазовская"
+    "tikName": "Лазовская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1580,
     "uikTvd": "4254015207606",
+    "uikName": "УИК №1580",
     "tikTvd": "22520001321743",
-    "tikName": "Лазовская"
+    "tikName": "Лазовская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1601,
     "uikTvd": "4254016248394",
+    "uikName": "УИК №1601",
     "tikTvd": "22520001321766",
-    "tikName": "Лесозаводская городская"
+    "tikName": "Лесозаводская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1602,
     "uikTvd": "4254016248395",
+    "uikName": "УИК №1602",
     "tikTvd": "22520001321766",
-    "tikName": "Лесозаводская городская"
+    "tikName": "Лесозаводская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1603,
     "uikTvd": "4254016248396",
+    "uikName": "УИК №1603",
     "tikTvd": "22520001321766",
-    "tikName": "Лесозаводская городская"
+    "tikName": "Лесозаводская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1604,
     "uikTvd": "4254016248397",
+    "uikName": "УИК №1604",
     "tikTvd": "22520001321766",
-    "tikName": "Лесозаводская городская"
+    "tikName": "Лесозаводская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1605,
     "uikTvd": "4254016248398",
+    "uikName": "УИК №1605",
     "tikTvd": "22520001321766",
-    "tikName": "Лесозаводская городская"
+    "tikName": "Лесозаводская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1606,
     "uikTvd": "4254016248399",
+    "uikName": "УИК №1606",
     "tikTvd": "22520001321766",
-    "tikName": "Лесозаводская городская"
+    "tikName": "Лесозаводская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1607,
     "uikTvd": "4254016248400",
+    "uikName": "УИК №1607",
     "tikTvd": "22520001321766",
-    "tikName": "Лесозаводская городская"
+    "tikName": "Лесозаводская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1608,
     "uikTvd": "4254016248401",
+    "uikName": "УИК №1608",
     "tikTvd": "22520001321766",
-    "tikName": "Лесозаводская городская"
+    "tikName": "Лесозаводская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1609,
     "uikTvd": "4254016248402",
+    "uikName": "УИК №1609",
     "tikTvd": "22520001321766",
-    "tikName": "Лесозаводская городская"
+    "tikName": "Лесозаводская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1610,
     "uikTvd": "4254016248403",
+    "uikName": "УИК №1610",
     "tikTvd": "22520001321766",
-    "tikName": "Лесозаводская городская"
+    "tikName": "Лесозаводская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1611,
     "uikTvd": "4254016248404",
+    "uikName": "УИК №1611",
     "tikTvd": "22520001321766",
-    "tikName": "Лесозаводская городская"
+    "tikName": "Лесозаводская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1612,
     "uikTvd": "4254016248405",
+    "uikName": "УИК №1612",
     "tikTvd": "22520001321766",
-    "tikName": "Лесозаводская городская"
+    "tikName": "Лесозаводская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1613,
     "uikTvd": "4254016248406",
+    "uikName": "УИК №1613",
     "tikTvd": "22520001321766",
-    "tikName": "Лесозаводская городская"
+    "tikName": "Лесозаводская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1614,
     "uikTvd": "4254016248407",
+    "uikName": "УИК №1614",
     "tikTvd": "22520001321766",
-    "tikName": "Лесозаводская городская"
+    "tikName": "Лесозаводская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1615,
     "uikTvd": "4254016248408",
+    "uikName": "УИК №1615",
     "tikTvd": "22520001321766",
-    "tikName": "Лесозаводская городская"
+    "tikName": "Лесозаводская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1616,
     "uikTvd": "4254016248409",
+    "uikName": "УИК №1616",
     "tikTvd": "22520001321766",
-    "tikName": "Лесозаводская городская"
+    "tikName": "Лесозаводская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1617,
     "uikTvd": "4254016248410",
+    "uikName": "УИК №1617",
     "tikTvd": "22520001321766",
-    "tikName": "Лесозаводская городская"
+    "tikName": "Лесозаводская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1618,
     "uikTvd": "4254016248411",
+    "uikName": "УИК №1618",
     "tikTvd": "22520001321766",
-    "tikName": "Лесозаводская городская"
+    "tikName": "Лесозаводская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1619,
     "uikTvd": "4254016248412",
+    "uikName": "УИК №1619",
     "tikTvd": "22520001321766",
-    "tikName": "Лесозаводская городская"
+    "tikName": "Лесозаводская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1620,
     "uikTvd": "4254016248413",
+    "uikName": "УИК №1620",
     "tikTvd": "22520001321766",
-    "tikName": "Лесозаводская городская"
+    "tikName": "Лесозаводская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1621,
     "uikTvd": "4254016248414",
+    "uikName": "УИК №1621",
     "tikTvd": "22520001321766",
-    "tikName": "Лесозаводская городская"
+    "tikName": "Лесозаводская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1622,
     "uikTvd": "4254016248415",
+    "uikName": "УИК №1622",
     "tikTvd": "22520001321766",
-    "tikName": "Лесозаводская городская"
+    "tikName": "Лесозаводская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1623,
     "uikTvd": "4254016248416",
+    "uikName": "УИК №1623",
     "tikTvd": "22520001321766",
-    "tikName": "Лесозаводская городская"
+    "tikName": "Лесозаводская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1624,
     "uikTvd": "4254016248417",
+    "uikName": "УИК №1624",
     "tikTvd": "22520001321766",
-    "tikName": "Лесозаводская городская"
+    "tikName": "Лесозаводская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1625,
     "uikTvd": "4254016248418",
+    "uikName": "УИК №1625",
     "tikTvd": "22520001321766",
-    "tikName": "Лесозаводская городская"
+    "tikName": "Лесозаводская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1626,
     "uikTvd": "4254016248419",
+    "uikName": "УИК №1626",
     "tikTvd": "22520001321766",
-    "tikName": "Лесозаводская городская"
+    "tikName": "Лесозаводская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1627,
     "uikTvd": "4254016248420",
+    "uikName": "УИК №1627",
     "tikTvd": "22520001321766",
-    "tikName": "Лесозаводская городская"
+    "tikName": "Лесозаводская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1628,
     "uikTvd": "4254016248421",
+    "uikName": "УИК №1628",
     "tikTvd": "22520001321766",
-    "tikName": "Лесозаводская городская"
+    "tikName": "Лесозаводская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1629,
     "uikTvd": "4254016248422",
+    "uikName": "УИК №1629",
     "tikTvd": "22520001321766",
-    "tikName": "Лесозаводская городская"
+    "tikName": "Лесозаводская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1630,
     "uikTvd": "4254016248423",
+    "uikName": "УИК №1630",
     "tikTvd": "22520001321766",
-    "tikName": "Лесозаводская городская"
+    "tikName": "Лесозаводская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1631,
     "uikTvd": "4254016248424",
+    "uikName": "УИК №1631",
     "tikTvd": "22520001321766",
-    "tikName": "Лесозаводская городская"
+    "tikName": "Лесозаводская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1632,
     "uikTvd": "4254016248425",
+    "uikName": "УИК №1632",
     "tikTvd": "22520001321766",
-    "tikName": "Лесозаводская городская"
+    "tikName": "Лесозаводская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1633,
     "uikTvd": "4254016248426",
+    "uikName": "УИК №1633",
     "tikTvd": "22520001321766",
-    "tikName": "Лесозаводская городская"
+    "tikName": "Лесозаводская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1634,
     "uikTvd": "4254016248427",
+    "uikName": "УИК №1634",
     "tikTvd": "22520001321766",
-    "tikName": "Лесозаводская городская"
+    "tikName": "Лесозаводская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1635,
     "uikTvd": "4254016248428",
+    "uikName": "УИК №1635",
     "tikTvd": "22520001321766",
-    "tikName": "Лесозаводская городская"
+    "tikName": "Лесозаводская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1636,
     "uikTvd": "4254016248429",
+    "uikName": "УИК №1636",
     "tikTvd": "22520001321766",
-    "tikName": "Лесозаводская городская"
+    "tikName": "Лесозаводская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1637,
     "uikTvd": "4254016248430",
+    "uikName": "УИК №1637",
     "tikTvd": "22520001321766",
-    "tikName": "Лесозаводская городская"
+    "tikName": "Лесозаводская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1680,
     "uikTvd": "4254016248857",
+    "uikName": "УИК №1680",
     "tikTvd": "22520001321766",
-    "tikName": "Лесозаводская городская"
+    "tikName": "Лесозаводская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1681,
     "uikTvd": "4254016248859",
+    "uikName": "УИК №1681",
     "tikTvd": "22520001321766",
-    "tikName": "Лесозаводская городская"
+    "tikName": "Лесозаводская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1701,
     "uikTvd": "4254017244696",
+    "uikName": "УИК №1701",
     "tikTvd": "22520001321763",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1702,
     "uikTvd": "4254017244697",
+    "uikName": "УИК №1702",
     "tikTvd": "22520001321763",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1703,
     "uikTvd": "4254017244698",
+    "uikName": "УИК №1703",
     "tikTvd": "22520001321763",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1704,
     "uikTvd": "4254017244663",
+    "uikName": "УИК №1704",
     "tikTvd": "22520001321763",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1705,
     "uikTvd": "4254017244664",
+    "uikName": "УИК №1705",
     "tikTvd": "22520001321763",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1706,
     "uikTvd": "4254017244665",
+    "uikName": "УИК №1706",
     "tikTvd": "22520001321763",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1707,
     "uikTvd": "4254017244666",
+    "uikName": "УИК №1707",
     "tikTvd": "22520001321763",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1708,
     "uikTvd": "4254017244667",
+    "uikName": "УИК №1708",
     "tikTvd": "22520001321763",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1709,
     "uikTvd": "4254017244668",
+    "uikName": "УИК №1709",
     "tikTvd": "22520001321763",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1710,
     "uikTvd": "4254017244669",
+    "uikName": "УИК №1710",
     "tikTvd": "22520001321763",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1711,
     "uikTvd": "4254017244670",
+    "uikName": "УИК №1711",
     "tikTvd": "22520001321763",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1712,
     "uikTvd": "4254017244671",
+    "uikName": "УИК №1712",
     "tikTvd": "22520001321763",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1713,
     "uikTvd": "4254017244672",
+    "uikName": "УИК №1713",
     "tikTvd": "22520001321763",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1714,
     "uikTvd": "4254017244673",
+    "uikName": "УИК №1714",
     "tikTvd": "22520001321763",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1715,
     "uikTvd": "4254017244674",
+    "uikName": "УИК №1715",
     "tikTvd": "22520001321763",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1716,
     "uikTvd": "4254017244675",
+    "uikName": "УИК №1716",
     "tikTvd": "22520001321763",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1717,
     "uikTvd": "4254017244676",
+    "uikName": "УИК №1717",
     "tikTvd": "22520001321763",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1718,
     "uikTvd": "4254017244677",
+    "uikName": "УИК №1718",
     "tikTvd": "22520001321763",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1719,
     "uikTvd": "4254017244678",
+    "uikName": "УИК №1719",
     "tikTvd": "22520001321763",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1720,
     "uikTvd": "4254017244679",
+    "uikName": "УИК №1720",
     "tikTvd": "22520001321763",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1721,
     "uikTvd": "4254017244680",
+    "uikName": "УИК №1721",
     "tikTvd": "22520001321763",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1722,
     "uikTvd": "4254017244681",
+    "uikName": "УИК №1722",
     "tikTvd": "22520001321763",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1723,
     "uikTvd": "4254017244682",
+    "uikName": "УИК №1723",
     "tikTvd": "22520001321763",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1724,
     "uikTvd": "4254017244683",
+    "uikName": "УИК №1724",
     "tikTvd": "22520001321763",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1725,
     "uikTvd": "4254017244684",
+    "uikName": "УИК №1725",
     "tikTvd": "22520001321763",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1726,
     "uikTvd": "4254017244685",
+    "uikName": "УИК №1726",
     "tikTvd": "22520001321763",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1727,
     "uikTvd": "4254017244686",
+    "uikName": "УИК №1727",
     "tikTvd": "22520001321763",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1728,
     "uikTvd": "4254017244687",
+    "uikName": "УИК №1728",
     "tikTvd": "22520001321763",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1729,
     "uikTvd": "4254017244688",
+    "uikName": "УИК №1729",
     "tikTvd": "22520001321763",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1730,
     "uikTvd": "4254017244689",
+    "uikName": "УИК №1730",
     "tikTvd": "22520001321763",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1731,
     "uikTvd": "4254017244690",
+    "uikName": "УИК №1731",
     "tikTvd": "22520001321763",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1732,
     "uikTvd": "4254017244691",
+    "uikName": "УИК №1732",
     "tikTvd": "22520001321763",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1733,
     "uikTvd": "4254017244692",
+    "uikName": "УИК №1733",
     "tikTvd": "22520001321763",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1734,
     "uikTvd": "4254017244693",
+    "uikName": "УИК №1734",
     "tikTvd": "22520001321763",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1735,
     "uikTvd": "4254017244694",
+    "uikName": "УИК №1735",
     "tikTvd": "22520001321763",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1780,
     "uikTvd": "4254017245290",
+    "uikName": "УИК №1780",
     "tikTvd": "22520001321763",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1801,
     "uikTvd": "4254018214697",
+    "uikName": "УИК №1801",
     "tikTvd": "22520001321746",
-    "tikName": "Надеждинская"
+    "tikName": "Надеждинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1802,
     "uikTvd": "4254018214698",
+    "uikName": "УИК №1802",
     "tikTvd": "22520001321746",
-    "tikName": "Надеждинская"
+    "tikName": "Надеждинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1803,
     "uikTvd": "4254018214699",
+    "uikName": "УИК №1803",
     "tikTvd": "22520001321746",
-    "tikName": "Надеждинская"
+    "tikName": "Надеждинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1804,
     "uikTvd": "4254018214700",
+    "uikName": "УИК №1804",
     "tikTvd": "22520001321746",
-    "tikName": "Надеждинская"
+    "tikName": "Надеждинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1805,
     "uikTvd": "4254018214701",
+    "uikName": "УИК №1805",
     "tikTvd": "22520001321746",
-    "tikName": "Надеждинская"
+    "tikName": "Надеждинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1806,
     "uikTvd": "4254018214702",
+    "uikName": "УИК №1806",
     "tikTvd": "22520001321746",
-    "tikName": "Надеждинская"
+    "tikName": "Надеждинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1807,
     "uikTvd": "4254018214703",
+    "uikName": "УИК №1807",
     "tikTvd": "22520001321746",
-    "tikName": "Надеждинская"
+    "tikName": "Надеждинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1808,
     "uikTvd": "4254018214704",
+    "uikName": "УИК №1808",
     "tikTvd": "22520001321746",
-    "tikName": "Надеждинская"
+    "tikName": "Надеждинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1809,
     "uikTvd": "4254018214705",
+    "uikName": "УИК №1809",
     "tikTvd": "22520001321746",
-    "tikName": "Надеждинская"
+    "tikName": "Надеждинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1810,
     "uikTvd": "4254018214706",
+    "uikName": "УИК №1810",
     "tikTvd": "22520001321746",
-    "tikName": "Надеждинская"
+    "tikName": "Надеждинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1811,
     "uikTvd": "4254018214707",
+    "uikName": "УИК №1811",
     "tikTvd": "22520001321746",
-    "tikName": "Надеждинская"
+    "tikName": "Надеждинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1812,
     "uikTvd": "4254018214708",
+    "uikName": "УИК №1812",
     "tikTvd": "22520001321746",
-    "tikName": "Надеждинская"
+    "tikName": "Надеждинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1813,
     "uikTvd": "4254018214709",
+    "uikName": "УИК №1813",
     "tikTvd": "22520001321746",
-    "tikName": "Надеждинская"
+    "tikName": "Надеждинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1814,
     "uikTvd": "4254018214710",
+    "uikName": "УИК №1814",
     "tikTvd": "22520001321746",
-    "tikName": "Надеждинская"
+    "tikName": "Надеждинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1815,
     "uikTvd": "4254018214711",
+    "uikName": "УИК №1815",
     "tikTvd": "22520001321746",
-    "tikName": "Надеждинская"
+    "tikName": "Надеждинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1816,
     "uikTvd": "4254018214712",
+    "uikName": "УИК №1816",
     "tikTvd": "22520001321746",
-    "tikName": "Надеждинская"
+    "tikName": "Надеждинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1817,
     "uikTvd": "4254018214713",
+    "uikName": "УИК №1817",
     "tikTvd": "22520001321746",
-    "tikName": "Надеждинская"
+    "tikName": "Надеждинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1818,
     "uikTvd": "4254018214714",
+    "uikName": "УИК №1818",
     "tikTvd": "22520001321746",
-    "tikName": "Надеждинская"
+    "tikName": "Надеждинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1819,
     "uikTvd": "4254018214715",
+    "uikName": "УИК №1819",
     "tikTvd": "22520001321746",
-    "tikName": "Надеждинская"
+    "tikName": "Надеждинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1820,
     "uikTvd": "4254018214716",
+    "uikName": "УИК №1820",
     "tikTvd": "22520001321746",
-    "tikName": "Надеждинская"
+    "tikName": "Надеждинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1821,
     "uikTvd": "4254018214717",
+    "uikName": "УИК №1821",
     "tikTvd": "22520001321746",
-    "tikName": "Надеждинская"
+    "tikName": "Надеждинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1822,
     "uikTvd": "4254018214718",
+    "uikName": "УИК №1822",
     "tikTvd": "22520001321746",
-    "tikName": "Надеждинская"
+    "tikName": "Надеждинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1823,
     "uikTvd": "4254018214719",
+    "uikName": "УИК №1823",
     "tikTvd": "22520001321746",
-    "tikName": "Надеждинская"
+    "tikName": "Надеждинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1824,
     "uikTvd": "4254018214720",
+    "uikName": "УИК №1824",
     "tikTvd": "22520001321746",
-    "tikName": "Надеждинская"
+    "tikName": "Надеждинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1825,
     "uikTvd": "4254018214721",
+    "uikName": "УИК №1825",
     "tikTvd": "22520001321746",
-    "tikName": "Надеждинская"
+    "tikName": "Надеждинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1826,
     "uikTvd": "4254018214722",
+    "uikName": "УИК №1826",
     "tikTvd": "22520001321746",
-    "tikName": "Надеждинская"
+    "tikName": "Надеждинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1827,
     "uikTvd": "4254018214723",
+    "uikName": "УИК №1827",
     "tikTvd": "22520001321746",
-    "tikName": "Надеждинская"
+    "tikName": "Надеждинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1828,
     "uikTvd": "4254018214724",
+    "uikName": "УИК №1828",
     "tikTvd": "22520001321746",
-    "tikName": "Надеждинская"
+    "tikName": "Надеждинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1829,
     "uikTvd": "4254018214725",
+    "uikName": "УИК №1829",
     "tikTvd": "22520001321746",
-    "tikName": "Надеждинская"
+    "tikName": "Надеждинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1901,
     "uikTvd": "4254019342841",
+    "uikName": "УИК №1901",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1902,
     "uikTvd": "4254019342842",
+    "uikName": "УИК №1902",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1903,
     "uikTvd": "4254019342843",
+    "uikName": "УИК №1903",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1904,
     "uikTvd": "4254019342844",
+    "uikName": "УИК №1904",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1905,
     "uikTvd": "4254019342845",
+    "uikName": "УИК №1905",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1906,
     "uikTvd": "4254019342846",
+    "uikName": "УИК №1906",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1907,
     "uikTvd": "4254019342847",
+    "uikName": "УИК №1907",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1908,
     "uikTvd": "4254019342848",
+    "uikName": "УИК №1908",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1909,
     "uikTvd": "4254019342849",
+    "uikName": "УИК №1909",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1910,
     "uikTvd": "4254019342850",
+    "uikName": "УИК №1910",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1911,
     "uikTvd": "4254019342851",
+    "uikName": "УИК №1911",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1912,
     "uikTvd": "4254019342852",
+    "uikName": "УИК №1912",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1913,
     "uikTvd": "4254019342853",
+    "uikName": "УИК №1913",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1914,
     "uikTvd": "4254019342854",
+    "uikName": "УИК №1914",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1915,
     "uikTvd": "4254019342855",
+    "uikName": "УИК №1915",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1916,
     "uikTvd": "4254019342856",
+    "uikName": "УИК №1916",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1917,
     "uikTvd": "4254019342857",
+    "uikName": "УИК №1917",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1918,
     "uikTvd": "4254019342858",
+    "uikName": "УИК №1918",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1919,
     "uikTvd": "4254019342859",
+    "uikName": "УИК №1919",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1920,
     "uikTvd": "4254019342860",
+    "uikName": "УИК №1920",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1921,
     "uikTvd": "4254019342861",
+    "uikName": "УИК №1921",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1922,
     "uikTvd": "4254019342862",
+    "uikName": "УИК №1922",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1923,
     "uikTvd": "4254019342863",
+    "uikName": "УИК №1923",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1924,
     "uikTvd": "4254019342864",
+    "uikName": "УИК №1924",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1925,
     "uikTvd": "4254019342865",
+    "uikName": "УИК №1925",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1926,
     "uikTvd": "4254019342866",
+    "uikName": "УИК №1926",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1927,
     "uikTvd": "4254019342867",
+    "uikName": "УИК №1927",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1928,
     "uikTvd": "4254019342868",
+    "uikName": "УИК №1928",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1929,
     "uikTvd": "4254019342869",
+    "uikName": "УИК №1929",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1930,
     "uikTvd": "4254019342870",
+    "uikName": "УИК №1930",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1931,
     "uikTvd": "4254019342871",
+    "uikName": "УИК №1931",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1932,
     "uikTvd": "4254019342872",
+    "uikName": "УИК №1932",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1933,
     "uikTvd": "4254019342873",
+    "uikName": "УИК №1933",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1934,
     "uikTvd": "4254019342874",
+    "uikName": "УИК №1934",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1935,
     "uikTvd": "4254019342875",
+    "uikName": "УИК №1935",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1936,
     "uikTvd": "4254019342876",
+    "uikName": "УИК №1936",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1937,
     "uikTvd": "4254019342877",
+    "uikName": "УИК №1937",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1938,
     "uikTvd": "4254019342878",
+    "uikName": "УИК №1938",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1939,
     "uikTvd": "4254019342879",
+    "uikName": "УИК №1939",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1940,
     "uikTvd": "4254019342880",
+    "uikName": "УИК №1940",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1941,
     "uikTvd": "4254019342881",
+    "uikName": "УИК №1941",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1942,
     "uikTvd": "4254019342882",
+    "uikName": "УИК №1942",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1943,
     "uikTvd": "4254019342883",
+    "uikName": "УИК №1943",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1944,
     "uikTvd": "4254019342884",
+    "uikName": "УИК №1944",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1945,
     "uikTvd": "4254019342885",
+    "uikName": "УИК №1945",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1946,
     "uikTvd": "4254019342886",
+    "uikName": "УИК №1946",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1947,
     "uikTvd": "4254019342887",
+    "uikName": "УИК №1947",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1948,
     "uikTvd": "4254019342888",
+    "uikName": "УИК №1948",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1949,
     "uikTvd": "4254019342889",
+    "uikName": "УИК №1949",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1950,
     "uikTvd": "4254019342890",
+    "uikName": "УИК №1950",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1951,
     "uikTvd": "4254019342891",
+    "uikName": "УИК №1951",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1952,
     "uikTvd": "4254019342892",
+    "uikName": "УИК №1952",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1953,
     "uikTvd": "4254019342893",
+    "uikName": "УИК №1953",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1954,
     "uikTvd": "4254019342894",
+    "uikName": "УИК №1954",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1955,
     "uikTvd": "4254019342895",
+    "uikName": "УИК №1955",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1956,
     "uikTvd": "4254019342896",
+    "uikName": "УИК №1956",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1957,
     "uikTvd": "4254019342897",
+    "uikName": "УИК №1957",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1958,
     "uikTvd": "4254019342898",
+    "uikName": "УИК №1958",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1959,
     "uikTvd": "4254019342899",
+    "uikName": "УИК №1959",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1960,
     "uikTvd": "4254019342900",
+    "uikName": "УИК №1960",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1961,
     "uikTvd": "4254019342901",
+    "uikName": "УИК №1961",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1962,
     "uikTvd": "4254019342902",
+    "uikName": "УИК №1962",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1963,
     "uikTvd": "4254019342903",
+    "uikName": "УИК №1963",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1964,
     "uikTvd": "4254019342904",
+    "uikName": "УИК №1964",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1965,
     "uikTvd": "4254019342905",
+    "uikName": "УИК №1965",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1966,
     "uikTvd": "4254019342906",
+    "uikName": "УИК №1966",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1967,
     "uikTvd": "4254019342907",
+    "uikName": "УИК №1967",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1968,
     "uikTvd": "4254019342908",
+    "uikName": "УИК №1968",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1969,
     "uikTvd": "4254019342909",
+    "uikName": "УИК №1969",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1970,
     "uikTvd": "4254019342910",
+    "uikName": "УИК №1970",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1971,
     "uikTvd": "4254019342911",
+    "uikName": "УИК №1971",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1972,
     "uikTvd": "4254019342912",
+    "uikName": "УИК №1972",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1973,
     "uikTvd": "4254019342913",
+    "uikName": "УИК №1973",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1974,
     "uikTvd": "4254019342914",
+    "uikName": "УИК №1974",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1975,
     "uikTvd": "4254019342915",
+    "uikName": "УИК №1975",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1980,
     "uikTvd": "4254019345546",
+    "uikName": "УИК №1980",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1981,
     "uikTvd": "4254019345547",
+    "uikName": "УИК №1981",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 1982,
     "uikTvd": "4254019345548",
+    "uikName": "УИК №1982",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2002,
     "uikTvd": "4254020257531",
+    "uikName": "УИК №2002",
     "tikTvd": "22520001321771",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2003,
     "uikTvd": "4254020257532",
+    "uikName": "УИК №2003",
     "tikTvd": "22520001321771",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2005,
     "uikTvd": "4254020257533",
+    "uikName": "УИК №2005",
     "tikTvd": "22520001321771",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2009,
     "uikTvd": "4254020257534",
+    "uikName": "УИК №2009",
     "tikTvd": "22520001321771",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2010,
     "uikTvd": "4254020257535",
+    "uikName": "УИК №2010",
     "tikTvd": "22520001321771",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2011,
     "uikTvd": "4254020257536",
+    "uikName": "УИК №2011",
     "tikTvd": "22520001321771",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2012,
     "uikTvd": "4254020257537",
+    "uikName": "УИК №2012",
     "tikTvd": "22520001321771",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2013,
     "uikTvd": "4254020257538",
+    "uikName": "УИК №2013",
     "tikTvd": "22520001321771",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2014,
     "uikTvd": "4254020257539",
+    "uikName": "УИК №2014",
     "tikTvd": "22520001321771",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2017,
     "uikTvd": "4254020257540",
+    "uikName": "УИК №2017",
     "tikTvd": "22520001321771",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2019,
     "uikTvd": "4254020257541",
+    "uikName": "УИК №2019",
     "tikTvd": "22520001321771",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2020,
     "uikTvd": "4254020257542",
+    "uikName": "УИК №2020",
     "tikTvd": "22520001321771",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2021,
     "uikTvd": "4254020257543",
+    "uikName": "УИК №2021",
     "tikTvd": "22520001321771",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2022,
     "uikTvd": "4254020257544",
+    "uikName": "УИК №2022",
     "tikTvd": "22520001321771",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2023,
     "uikTvd": "4254020257545",
+    "uikName": "УИК №2023",
     "tikTvd": "22520001321771",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2024,
     "uikTvd": "4254020257546",
+    "uikName": "УИК №2024",
     "tikTvd": "22520001321771",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2025,
     "uikTvd": "4254020257547",
+    "uikName": "УИК №2025",
     "tikTvd": "22520001321771",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2026,
     "uikTvd": "4254020257548",
+    "uikName": "УИК №2026",
     "tikTvd": "22520001321771",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2027,
     "uikTvd": "4254020257549",
+    "uikName": "УИК №2027",
     "tikTvd": "22520001321771",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2028,
     "uikTvd": "4254020257550",
+    "uikName": "УИК №2028",
     "tikTvd": "22520001321771",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2029,
     "uikTvd": "4254020257551",
+    "uikName": "УИК №2029",
     "tikTvd": "22520001321771",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2030,
     "uikTvd": "4254020257552",
+    "uikName": "УИК №2030",
     "tikTvd": "22520001321771",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2031,
     "uikTvd": "4254020257553",
+    "uikName": "УИК №2031",
     "tikTvd": "22520001321771",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2032,
     "uikTvd": "4254020257554",
+    "uikName": "УИК №2032",
     "tikTvd": "22520001321771",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2033,
     "uikTvd": "4254020257555",
+    "uikName": "УИК №2033",
     "tikTvd": "22520001321771",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2034,
     "uikTvd": "4254020257556",
+    "uikName": "УИК №2034",
     "tikTvd": "22520001321771",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2035,
     "uikTvd": "4254020257557",
+    "uikName": "УИК №2035",
     "tikTvd": "22520001321771",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2036,
     "uikTvd": "4254020257558",
+    "uikName": "УИК №2036",
     "tikTvd": "22520001321771",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2037,
     "uikTvd": "4254020257559",
+    "uikName": "УИК №2037",
     "tikTvd": "22520001321771",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2038,
     "uikTvd": "4254020257560",
+    "uikName": "УИК №2038",
     "tikTvd": "22520001321771",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2039,
     "uikTvd": "4254020257561",
+    "uikName": "УИК №2039",
     "tikTvd": "22520001321771",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2040,
     "uikTvd": "4254020257562",
+    "uikName": "УИК №2040",
     "tikTvd": "22520001321771",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2041,
     "uikTvd": "4254020257563",
+    "uikName": "УИК №2041",
     "tikTvd": "22520001321771",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2042,
     "uikTvd": "4254020257564",
+    "uikName": "УИК №2042",
     "tikTvd": "22520001321771",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2043,
     "uikTvd": "4254020257565",
+    "uikName": "УИК №2043",
     "tikTvd": "22520001321771",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2044,
     "uikTvd": "4254020257566",
+    "uikName": "УИК №2044",
     "tikTvd": "22520001321771",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2045,
     "uikTvd": "4254020257567",
+    "uikName": "УИК №2045",
     "tikTvd": "22520001321771",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2046,
     "uikTvd": "4254020257568",
+    "uikName": "УИК №2046",
     "tikTvd": "22520001321771",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2047,
     "uikTvd": "4254020257569",
+    "uikName": "УИК №2047",
     "tikTvd": "22520001321771",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2048,
     "uikTvd": "4254020257570",
+    "uikName": "УИК №2048",
     "tikTvd": "22520001321771",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2049,
     "uikTvd": "4254020257571",
+    "uikName": "УИК №2049",
     "tikTvd": "22520001321771",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2050,
     "uikTvd": "4254020257572",
+    "uikName": "УИК №2050",
     "tikTvd": "22520001321771",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2051,
     "uikTvd": "4254020257573",
+    "uikName": "УИК №2051",
     "tikTvd": "22520001321771",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2053,
     "uikTvd": "4254020257574",
+    "uikName": "УИК №2053",
     "tikTvd": "22520001321771",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2054,
     "uikTvd": "4254020257575",
+    "uikName": "УИК №2054",
     "tikTvd": "22520001321771",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2055,
     "uikTvd": "4254020257576",
+    "uikName": "УИК №2055",
     "tikTvd": "22520001321771",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2056,
     "uikTvd": "4254020257577",
+    "uikName": "УИК №2056",
     "tikTvd": "22520001321771",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2080,
     "uikTvd": "4254020258716",
+    "uikName": "УИК №2080",
     "tikTvd": "22520001321771",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2081,
     "uikTvd": "4254020258717",
+    "uikName": "УИК №2081",
     "tikTvd": "22520001321771",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2101,
     "uikTvd": "4254021184703",
+    "uikName": "УИК №2101",
     "tikTvd": "22520001321744",
-    "tikName": "Ольгинская"
+    "tikName": "Ольгинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2102,
     "uikTvd": "4254021184704",
+    "uikName": "УИК №2102",
     "tikTvd": "22520001321744",
-    "tikName": "Ольгинская"
+    "tikName": "Ольгинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2103,
     "uikTvd": "4254021184705",
+    "uikName": "УИК №2103",
     "tikTvd": "22520001321744",
-    "tikName": "Ольгинская"
+    "tikName": "Ольгинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2104,
     "uikTvd": "4254021184706",
+    "uikName": "УИК №2104",
     "tikTvd": "22520001321744",
-    "tikName": "Ольгинская"
+    "tikName": "Ольгинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2105,
     "uikTvd": "4254021184707",
+    "uikName": "УИК №2105",
     "tikTvd": "22520001321744",
-    "tikName": "Ольгинская"
+    "tikName": "Ольгинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2106,
     "uikTvd": "4254021184708",
+    "uikName": "УИК №2106",
     "tikTvd": "22520001321744",
-    "tikName": "Ольгинская"
+    "tikName": "Ольгинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2107,
     "uikTvd": "4254021184709",
+    "uikName": "УИК №2107",
     "tikTvd": "22520001321744",
-    "tikName": "Ольгинская"
+    "tikName": "Ольгинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2108,
     "uikTvd": "4254021184710",
+    "uikName": "УИК №2108",
     "tikTvd": "22520001321744",
-    "tikName": "Ольгинская"
+    "tikName": "Ольгинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2109,
     "uikTvd": "4254021184711",
+    "uikName": "УИК №2109",
     "tikTvd": "22520001321744",
-    "tikName": "Ольгинская"
+    "tikName": "Ольгинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2110,
     "uikTvd": "4254021184712",
+    "uikName": "УИК №2110",
     "tikTvd": "22520001321744",
-    "tikName": "Ольгинская"
+    "tikName": "Ольгинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2111,
     "uikTvd": "4254021184713",
+    "uikName": "УИК №2111",
     "tikTvd": "22520001321744",
-    "tikName": "Ольгинская"
+    "tikName": "Ольгинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2112,
     "uikTvd": "4254021184714",
+    "uikName": "УИК №2112",
     "tikTvd": "22520001321744",
-    "tikName": "Ольгинская"
+    "tikName": "Ольгинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2113,
     "uikTvd": "4254021184715",
+    "uikName": "УИК №2113",
     "tikTvd": "22520001321744",
-    "tikName": "Ольгинская"
+    "tikName": "Ольгинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2114,
     "uikTvd": "4254021184716",
+    "uikName": "УИК №2114",
     "tikTvd": "22520001321744",
-    "tikName": "Ольгинская"
+    "tikName": "Ольгинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2115,
     "uikTvd": "4254021184717",
+    "uikName": "УИК №2115",
     "tikTvd": "22520001321744",
-    "tikName": "Ольгинская"
+    "tikName": "Ольгинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2116,
     "uikTvd": "4254021184718",
+    "uikName": "УИК №2116",
     "tikTvd": "22520001321744",
-    "tikName": "Ольгинская"
+    "tikName": "Ольгинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2117,
     "uikTvd": "4254021184719",
+    "uikName": "УИК №2117",
     "tikTvd": "22520001321744",
-    "tikName": "Ольгинская"
+    "tikName": "Ольгинская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2201,
     "uikTvd": "4254022363128",
+    "uikName": "УИК №2201",
     "tikTvd": "22520001321770",
-    "tikName": "Партизанская городская"
+    "tikName": "Партизанская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2202,
     "uikTvd": "4254022363129",
+    "uikName": "УИК №2202",
     "tikTvd": "22520001321770",
-    "tikName": "Партизанская городская"
+    "tikName": "Партизанская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2203,
     "uikTvd": "4254022363130",
+    "uikName": "УИК №2203",
     "tikTvd": "22520001321770",
-    "tikName": "Партизанская городская"
+    "tikName": "Партизанская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2204,
     "uikTvd": "4254022363131",
+    "uikName": "УИК №2204",
     "tikTvd": "22520001321770",
-    "tikName": "Партизанская городская"
+    "tikName": "Партизанская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2205,
     "uikTvd": "4254022363132",
+    "uikName": "УИК №2205",
     "tikTvd": "22520001321770",
-    "tikName": "Партизанская городская"
+    "tikName": "Партизанская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2206,
     "uikTvd": "4254022363133",
+    "uikName": "УИК №2206",
     "tikTvd": "22520001321770",
-    "tikName": "Партизанская городская"
+    "tikName": "Партизанская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2207,
     "uikTvd": "4254022363134",
+    "uikName": "УИК №2207",
     "tikTvd": "22520001321770",
-    "tikName": "Партизанская городская"
+    "tikName": "Партизанская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2208,
     "uikTvd": "4254022363135",
+    "uikName": "УИК №2208",
     "tikTvd": "22520001321770",
-    "tikName": "Партизанская городская"
+    "tikName": "Партизанская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2209,
     "uikTvd": "4254022363136",
+    "uikName": "УИК №2209",
     "tikTvd": "22520001321770",
-    "tikName": "Партизанская городская"
+    "tikName": "Партизанская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2210,
     "uikTvd": "4254022363137",
+    "uikName": "УИК №2210",
     "tikTvd": "22520001321770",
-    "tikName": "Партизанская городская"
+    "tikName": "Партизанская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2211,
     "uikTvd": "4254022363138",
+    "uikName": "УИК №2211",
     "tikTvd": "22520001321770",
-    "tikName": "Партизанская городская"
+    "tikName": "Партизанская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2212,
     "uikTvd": "4254022363139",
+    "uikName": "УИК №2212",
     "tikTvd": "22520001321770",
-    "tikName": "Партизанская городская"
+    "tikName": "Партизанская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2213,
     "uikTvd": "4254022363140",
+    "uikName": "УИК №2213",
     "tikTvd": "22520001321770",
-    "tikName": "Партизанская городская"
+    "tikName": "Партизанская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2214,
     "uikTvd": "4254022363141",
+    "uikName": "УИК №2214",
     "tikTvd": "22520001321770",
-    "tikName": "Партизанская городская"
+    "tikName": "Партизанская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2215,
     "uikTvd": "4254022363142",
+    "uikName": "УИК №2215",
     "tikTvd": "22520001321770",
-    "tikName": "Партизанская городская"
+    "tikName": "Партизанская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2216,
     "uikTvd": "4254022363143",
+    "uikName": "УИК №2216",
     "tikTvd": "22520001321770",
-    "tikName": "Партизанская городская"
+    "tikName": "Партизанская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2217,
     "uikTvd": "4254022363144",
+    "uikName": "УИК №2217",
     "tikTvd": "22520001321770",
-    "tikName": "Партизанская городская"
+    "tikName": "Партизанская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2218,
     "uikTvd": "4254022363145",
+    "uikName": "УИК №2218",
     "tikTvd": "22520001321770",
-    "tikName": "Партизанская городская"
+    "tikName": "Партизанская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2219,
     "uikTvd": "4254022363146",
+    "uikName": "УИК №2219",
     "tikTvd": "22520001321770",
-    "tikName": "Партизанская городская"
+    "tikName": "Партизанская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2220,
     "uikTvd": "4254022363147",
+    "uikName": "УИК №2220",
     "tikTvd": "22520001321770",
-    "tikName": "Партизанская городская"
+    "tikName": "Партизанская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2221,
     "uikTvd": "4254022363148",
+    "uikName": "УИК №2221",
     "tikTvd": "22520001321770",
-    "tikName": "Партизанская городская"
+    "tikName": "Партизанская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2222,
     "uikTvd": "4254022363149",
+    "uikName": "УИК №2222",
     "tikTvd": "22520001321770",
-    "tikName": "Партизанская городская"
+    "tikName": "Партизанская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2223,
     "uikTvd": "4254022363150",
+    "uikName": "УИК №2223",
     "tikTvd": "22520001321770",
-    "tikName": "Партизанская городская"
+    "tikName": "Партизанская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2224,
     "uikTvd": "4254022363151",
+    "uikName": "УИК №2224",
     "tikTvd": "22520001321770",
-    "tikName": "Партизанская городская"
+    "tikName": "Партизанская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2225,
     "uikTvd": "4254022363152",
+    "uikName": "УИК №2225",
     "tikTvd": "22520001321770",
-    "tikName": "Партизанская городская"
+    "tikName": "Партизанская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2226,
     "uikTvd": "4254022363153",
+    "uikName": "УИК №2226",
     "tikTvd": "22520001321770",
-    "tikName": "Партизанская городская"
+    "tikName": "Партизанская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2227,
     "uikTvd": "4254022363154",
+    "uikName": "УИК №2227",
     "tikTvd": "22520001321770",
-    "tikName": "Партизанская городская"
+    "tikName": "Партизанская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2228,
     "uikTvd": "4254022363155",
+    "uikName": "УИК №2228",
     "tikTvd": "22520001321770",
-    "tikName": "Партизанская городская"
+    "tikName": "Партизанская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2229,
     "uikTvd": "4254022363156",
+    "uikName": "УИК №2229",
     "tikTvd": "22520001321770",
-    "tikName": "Партизанская городская"
+    "tikName": "Партизанская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2230,
     "uikTvd": "4254022363157",
+    "uikName": "УИК №2230",
     "tikTvd": "22520001321770",
-    "tikName": "Партизанская городская"
+    "tikName": "Партизанская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2231,
     "uikTvd": "4254022363158",
+    "uikName": "УИК №2231",
     "tikTvd": "22520001321770",
-    "tikName": "Партизанская городская"
+    "tikName": "Партизанская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2232,
     "uikTvd": "4254022363159",
+    "uikName": "УИК №2232",
     "tikTvd": "22520001321770",
-    "tikName": "Партизанская городская"
+    "tikName": "Партизанская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2233,
     "uikTvd": "4254022363160",
+    "uikName": "УИК №2233",
     "tikTvd": "22520001321770",
-    "tikName": "Партизанская городская"
+    "tikName": "Партизанская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2234,
     "uikTvd": "4254022363161",
+    "uikName": "УИК №2234",
     "tikTvd": "22520001321770",
-    "tikName": "Партизанская городская"
+    "tikName": "Партизанская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2235,
     "uikTvd": "4254022363162",
+    "uikName": "УИК №2235",
     "tikTvd": "22520001321770",
-    "tikName": "Партизанская городская"
+    "tikName": "Партизанская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2236,
     "uikTvd": "4254022363163",
+    "uikName": "УИК №2236",
     "tikTvd": "22520001321770",
-    "tikName": "Партизанская городская"
+    "tikName": "Партизанская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2237,
     "uikTvd": "4254022363164",
+    "uikName": "УИК №2237",
     "tikTvd": "22520001321770",
-    "tikName": "Партизанская городская"
+    "tikName": "Партизанская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2238,
     "uikTvd": "4254022363165",
+    "uikName": "УИК №2238",
     "tikTvd": "22520001321770",
-    "tikName": "Партизанская городская"
+    "tikName": "Партизанская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2239,
     "uikTvd": "4254022363166",
+    "uikName": "УИК №2239",
     "tikTvd": "22520001321770",
-    "tikName": "Партизанская городская"
+    "tikName": "Партизанская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2240,
     "uikTvd": "4254022363167",
+    "uikName": "УИК №2240",
     "tikTvd": "22520001321770",
-    "tikName": "Партизанская городская"
+    "tikName": "Партизанская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2241,
     "uikTvd": "4254022363168",
+    "uikName": "УИК №2241",
     "tikTvd": "22520001321770",
-    "tikName": "Партизанская городская"
+    "tikName": "Партизанская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2242,
     "uikTvd": "4254022363169",
+    "uikName": "УИК №2242",
     "tikTvd": "22520001321770",
-    "tikName": "Партизанская городская"
+    "tikName": "Партизанская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2280,
     "uikTvd": "4254022363568",
+    "uikName": "УИК №2280",
     "tikTvd": "22520001321770",
-    "tikName": "Партизанская городская"
+    "tikName": "Партизанская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2301,
     "uikTvd": "4254023182674",
+    "uikName": "УИК №2301",
     "tikTvd": "22520001321750",
-    "tikName": "Партизанская"
+    "tikName": "Партизанская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2302,
     "uikTvd": "4254023182675",
+    "uikName": "УИК №2302",
     "tikTvd": "22520001321750",
-    "tikName": "Партизанская"
+    "tikName": "Партизанская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2303,
     "uikTvd": "4254023182676",
+    "uikName": "УИК №2303",
     "tikTvd": "22520001321750",
-    "tikName": "Партизанская"
+    "tikName": "Партизанская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2304,
     "uikTvd": "4254023182677",
+    "uikName": "УИК №2304",
     "tikTvd": "22520001321750",
-    "tikName": "Партизанская"
+    "tikName": "Партизанская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2305,
     "uikTvd": "4254023182678",
+    "uikName": "УИК №2305",
     "tikTvd": "22520001321750",
-    "tikName": "Партизанская"
+    "tikName": "Партизанская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2306,
     "uikTvd": "4254023182679",
+    "uikName": "УИК №2306",
     "tikTvd": "22520001321750",
-    "tikName": "Партизанская"
+    "tikName": "Партизанская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2307,
     "uikTvd": "4254023182680",
+    "uikName": "УИК №2307",
     "tikTvd": "22520001321750",
-    "tikName": "Партизанская"
+    "tikName": "Партизанская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2308,
     "uikTvd": "4254023182681",
+    "uikName": "УИК №2308",
     "tikTvd": "22520001321750",
-    "tikName": "Партизанская"
+    "tikName": "Партизанская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2309,
     "uikTvd": "4254023182682",
+    "uikName": "УИК №2309",
     "tikTvd": "22520001321750",
-    "tikName": "Партизанская"
+    "tikName": "Партизанская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2310,
     "uikTvd": "4254023182683",
+    "uikName": "УИК №2310",
     "tikTvd": "22520001321750",
-    "tikName": "Партизанская"
+    "tikName": "Партизанская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2311,
     "uikTvd": "4254023182684",
+    "uikName": "УИК №2311",
     "tikTvd": "22520001321750",
-    "tikName": "Партизанская"
+    "tikName": "Партизанская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2312,
     "uikTvd": "4254023182685",
+    "uikName": "УИК №2312",
     "tikTvd": "22520001321750",
-    "tikName": "Партизанская"
+    "tikName": "Партизанская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2313,
     "uikTvd": "4254023182686",
+    "uikName": "УИК №2313",
     "tikTvd": "22520001321750",
-    "tikName": "Партизанская"
+    "tikName": "Партизанская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2314,
     "uikTvd": "4254023182687",
+    "uikName": "УИК №2314",
     "tikTvd": "22520001321750",
-    "tikName": "Партизанская"
+    "tikName": "Партизанская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2315,
     "uikTvd": "4254023182688",
+    "uikName": "УИК №2315",
     "tikTvd": "22520001321750",
-    "tikName": "Партизанская"
+    "tikName": "Партизанская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2316,
     "uikTvd": "4254023182689",
+    "uikName": "УИК №2316",
     "tikTvd": "22520001321750",
-    "tikName": "Партизанская"
+    "tikName": "Партизанская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2317,
     "uikTvd": "4254023182690",
+    "uikName": "УИК №2317",
     "tikTvd": "22520001321750",
-    "tikName": "Партизанская"
+    "tikName": "Партизанская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2318,
     "uikTvd": "4254023182691",
+    "uikName": "УИК №2318",
     "tikTvd": "22520001321750",
-    "tikName": "Партизанская"
+    "tikName": "Партизанская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2319,
     "uikTvd": "4254023182692",
+    "uikName": "УИК №2319",
     "tikTvd": "22520001321750",
-    "tikName": "Партизанская"
+    "tikName": "Партизанская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2320,
     "uikTvd": "4254023182693",
+    "uikName": "УИК №2320",
     "tikTvd": "22520001321750",
-    "tikName": "Партизанская"
+    "tikName": "Партизанская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2321,
     "uikTvd": "4254023182694",
+    "uikName": "УИК №2321",
     "tikTvd": "22520001321750",
-    "tikName": "Партизанская"
+    "tikName": "Партизанская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2322,
     "uikTvd": "4254023182695",
+    "uikName": "УИК №2322",
     "tikTvd": "22520001321750",
-    "tikName": "Партизанская"
+    "tikName": "Партизанская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2323,
     "uikTvd": "4254023182696",
+    "uikName": "УИК №2323",
     "tikTvd": "22520001321750",
-    "tikName": "Партизанская"
+    "tikName": "Партизанская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2324,
     "uikTvd": "4254023182697",
+    "uikName": "УИК №2324",
     "tikTvd": "22520001321750",
-    "tikName": "Партизанская"
+    "tikName": "Партизанская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2401,
     "uikTvd": "4254024204025",
+    "uikName": "УИК №2401",
     "tikTvd": "22520001321754",
-    "tikName": "Пограничная"
+    "tikName": "Пограничная",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2402,
     "uikTvd": "4254024204026",
+    "uikName": "УИК №2402",
     "tikTvd": "22520001321754",
-    "tikName": "Пограничная"
+    "tikName": "Пограничная",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2403,
     "uikTvd": "4254024204027",
+    "uikName": "УИК №2403",
     "tikTvd": "22520001321754",
-    "tikName": "Пограничная"
+    "tikName": "Пограничная",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2404,
     "uikTvd": "4254024204028",
+    "uikName": "УИК №2404",
     "tikTvd": "22520001321754",
-    "tikName": "Пограничная"
+    "tikName": "Пограничная",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2405,
     "uikTvd": "4254024204029",
+    "uikName": "УИК №2405",
     "tikTvd": "22520001321754",
-    "tikName": "Пограничная"
+    "tikName": "Пограничная",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2406,
     "uikTvd": "4254024204030",
+    "uikName": "УИК №2406",
     "tikTvd": "22520001321754",
-    "tikName": "Пограничная"
+    "tikName": "Пограничная",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2407,
     "uikTvd": "4254024204031",
+    "uikName": "УИК №2407",
     "tikTvd": "22520001321754",
-    "tikName": "Пограничная"
+    "tikName": "Пограничная",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2408,
     "uikTvd": "4254024204032",
+    "uikName": "УИК №2408",
     "tikTvd": "22520001321754",
-    "tikName": "Пограничная"
+    "tikName": "Пограничная",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2409,
     "uikTvd": "4254024204033",
+    "uikName": "УИК №2409",
     "tikTvd": "22520001321754",
-    "tikName": "Пограничная"
+    "tikName": "Пограничная",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2410,
     "uikTvd": "4254024204034",
+    "uikName": "УИК №2410",
     "tikTvd": "22520001321754",
-    "tikName": "Пограничная"
+    "tikName": "Пограничная",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2411,
     "uikTvd": "4254024204035",
+    "uikName": "УИК №2411",
     "tikTvd": "22520001321754",
-    "tikName": "Пограничная"
+    "tikName": "Пограничная",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2412,
     "uikTvd": "4254024204036",
+    "uikName": "УИК №2412",
     "tikTvd": "22520001321754",
-    "tikName": "Пограничная"
+    "tikName": "Пограничная",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2413,
     "uikTvd": "4254024204037",
+    "uikName": "УИК №2413",
     "tikTvd": "22520001321754",
-    "tikName": "Пограничная"
+    "tikName": "Пограничная",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2414,
     "uikTvd": "4254024204038",
+    "uikName": "УИК №2414",
     "tikTvd": "22520001321754",
-    "tikName": "Пограничная"
+    "tikName": "Пограничная",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2415,
     "uikTvd": "4254024204039",
+    "uikName": "УИК №2415",
     "tikTvd": "22520001321754",
-    "tikName": "Пограничная"
+    "tikName": "Пограничная",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2416,
     "uikTvd": "4254024204040",
+    "uikName": "УИК №2416",
     "tikTvd": "22520001321754",
-    "tikName": "Пограничная"
+    "tikName": "Пограничная",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2417,
     "uikTvd": "4254024204041",
+    "uikName": "УИК №2417",
     "tikTvd": "22520001321754",
-    "tikName": "Пограничная"
+    "tikName": "Пограничная",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2418,
     "uikTvd": "4254024204042",
+    "uikName": "УИК №2418",
     "tikTvd": "22520001321754",
-    "tikName": "Пограничная"
+    "tikName": "Пограничная",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2419,
     "uikTvd": "4254024204043",
+    "uikName": "УИК №2419",
     "tikTvd": "22520001321754",
-    "tikName": "Пограничная"
+    "tikName": "Пограничная",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2420,
     "uikTvd": "4254024204044",
+    "uikName": "УИК №2420",
     "tikTvd": "22520001321754",
-    "tikName": "Пограничная"
+    "tikName": "Пограничная",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2421,
     "uikTvd": "4254024204045",
+    "uikName": "УИК №2421",
     "tikTvd": "22520001321754",
-    "tikName": "Пограничная"
+    "tikName": "Пограничная",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2422,
     "uikTvd": "4254024204046",
+    "uikName": "УИК №2422",
     "tikTvd": "22520001321754",
-    "tikName": "Пограничная"
+    "tikName": "Пограничная",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2423,
     "uikTvd": "4254024204047",
+    "uikName": "УИК №2423",
     "tikTvd": "22520001321754",
-    "tikName": "Пограничная"
+    "tikName": "Пограничная",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2424,
     "uikTvd": "4254024204048",
+    "uikName": "УИК №2424",
     "tikTvd": "22520001321754",
-    "tikName": "Пограничная"
+    "tikName": "Пограничная",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2425,
     "uikTvd": "4254024204049",
+    "uikName": "УИК №2425",
     "tikTvd": "22520001321754",
-    "tikName": "Пограничная"
+    "tikName": "Пограничная",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2426,
     "uikTvd": "4254024204050",
+    "uikName": "УИК №2426",
     "tikTvd": "22520001321754",
-    "tikName": "Пограничная"
+    "tikName": "Пограничная",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2427,
     "uikTvd": "4254024204051",
+    "uikName": "УИК №2427",
     "tikTvd": "22520001321754",
-    "tikName": "Пограничная"
+    "tikName": "Пограничная",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2428,
     "uikTvd": "4254024204052",
+    "uikName": "УИК №2428",
     "tikTvd": "22520001321754",
-    "tikName": "Пограничная"
+    "tikName": "Пограничная",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2429,
     "uikTvd": "4254024204053",
+    "uikName": "УИК №2429",
     "tikTvd": "22520001321754",
-    "tikName": "Пограничная"
+    "tikName": "Пограничная",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2430,
     "uikTvd": "4254024204054",
+    "uikName": "УИК №2430",
     "tikTvd": "22520001321754",
-    "tikName": "Пограничная"
+    "tikName": "Пограничная",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2431,
     "uikTvd": "4254024204055",
+    "uikName": "УИК №2431",
     "tikTvd": "22520001321754",
-    "tikName": "Пограничная"
+    "tikName": "Пограничная",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2480,
     "uikTvd": "4254024204538",
+    "uikName": "УИК №2480",
     "tikTvd": "22520001321754",
-    "tikName": "Пограничная"
+    "tikName": "Пограничная",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2501,
     "uikTvd": "4254025298136",
+    "uikName": "УИК №2501",
     "tikTvd": "22520001321752",
-    "tikName": "Пожарская"
+    "tikName": "Пожарская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2502,
     "uikTvd": "4254025298137",
+    "uikName": "УИК №2502",
     "tikTvd": "22520001321752",
-    "tikName": "Пожарская"
+    "tikName": "Пожарская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2503,
     "uikTvd": "4254025298138",
+    "uikName": "УИК №2503",
     "tikTvd": "22520001321752",
-    "tikName": "Пожарская"
+    "tikName": "Пожарская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2504,
     "uikTvd": "4254025298139",
+    "uikName": "УИК №2504",
     "tikTvd": "22520001321752",
-    "tikName": "Пожарская"
+    "tikName": "Пожарская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2505,
     "uikTvd": "4254025298140",
+    "uikName": "УИК №2505",
     "tikTvd": "22520001321752",
-    "tikName": "Пожарская"
+    "tikName": "Пожарская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2506,
     "uikTvd": "4254025298141",
+    "uikName": "УИК №2506",
     "tikTvd": "22520001321752",
-    "tikName": "Пожарская"
+    "tikName": "Пожарская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2507,
     "uikTvd": "4254025298142",
+    "uikName": "УИК №2507",
     "tikTvd": "22520001321752",
-    "tikName": "Пожарская"
+    "tikName": "Пожарская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2508,
     "uikTvd": "4254025298143",
+    "uikName": "УИК №2508",
     "tikTvd": "22520001321752",
-    "tikName": "Пожарская"
+    "tikName": "Пожарская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2509,
     "uikTvd": "4254025298144",
+    "uikName": "УИК №2509",
     "tikTvd": "22520001321752",
-    "tikName": "Пожарская"
+    "tikName": "Пожарская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2510,
     "uikTvd": "4254025298145",
+    "uikName": "УИК №2510",
     "tikTvd": "22520001321752",
-    "tikName": "Пожарская"
+    "tikName": "Пожарская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2511,
     "uikTvd": "4254025298146",
+    "uikName": "УИК №2511",
     "tikTvd": "22520001321752",
-    "tikName": "Пожарская"
+    "tikName": "Пожарская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2512,
     "uikTvd": "4254025298147",
+    "uikName": "УИК №2512",
     "tikTvd": "22520001321752",
-    "tikName": "Пожарская"
+    "tikName": "Пожарская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2513,
     "uikTvd": "4254025298148",
+    "uikName": "УИК №2513",
     "tikTvd": "22520001321752",
-    "tikName": "Пожарская"
+    "tikName": "Пожарская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2514,
     "uikTvd": "4254025298149",
+    "uikName": "УИК №2514",
     "tikTvd": "22520001321752",
-    "tikName": "Пожарская"
+    "tikName": "Пожарская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2515,
     "uikTvd": "4254025298150",
+    "uikName": "УИК №2515",
     "tikTvd": "22520001321752",
-    "tikName": "Пожарская"
+    "tikName": "Пожарская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2516,
     "uikTvd": "4254025298151",
+    "uikName": "УИК №2516",
     "tikTvd": "22520001321752",
-    "tikName": "Пожарская"
+    "tikName": "Пожарская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2517,
     "uikTvd": "4254025298152",
+    "uikName": "УИК №2517",
     "tikTvd": "22520001321752",
-    "tikName": "Пожарская"
+    "tikName": "Пожарская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2518,
     "uikTvd": "4254025298153",
+    "uikName": "УИК №2518",
     "tikTvd": "22520001321752",
-    "tikName": "Пожарская"
+    "tikName": "Пожарская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2519,
     "uikTvd": "4254025298154",
+    "uikName": "УИК №2519",
     "tikTvd": "22520001321752",
-    "tikName": "Пожарская"
+    "tikName": "Пожарская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2520,
     "uikTvd": "4254025298155",
+    "uikName": "УИК №2520",
     "tikTvd": "22520001321752",
-    "tikName": "Пожарская"
+    "tikName": "Пожарская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2521,
     "uikTvd": "4254025298156",
+    "uikName": "УИК №2521",
     "tikTvd": "22520001321752",
-    "tikName": "Пожарская"
+    "tikName": "Пожарская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2522,
     "uikTvd": "4254025298157",
+    "uikName": "УИК №2522",
     "tikTvd": "22520001321752",
-    "tikName": "Пожарская"
+    "tikName": "Пожарская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2523,
     "uikTvd": "4254025298158",
+    "uikName": "УИК №2523",
     "tikTvd": "22520001321752",
-    "tikName": "Пожарская"
+    "tikName": "Пожарская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2524,
     "uikTvd": "4254025298159",
+    "uikName": "УИК №2524",
     "tikTvd": "22520001321752",
-    "tikName": "Пожарская"
+    "tikName": "Пожарская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2525,
     "uikTvd": "4254025298160",
+    "uikName": "УИК №2525",
     "tikTvd": "22520001321752",
-    "tikName": "Пожарская"
+    "tikName": "Пожарская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2526,
     "uikTvd": "4254025298161",
+    "uikName": "УИК №2526",
     "tikTvd": "22520001321752",
-    "tikName": "Пожарская"
+    "tikName": "Пожарская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2527,
     "uikTvd": "4254025298162",
+    "uikName": "УИК №2527",
     "tikTvd": "22520001321752",
-    "tikName": "Пожарская"
+    "tikName": "Пожарская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2528,
     "uikTvd": "4254025298163",
+    "uikName": "УИК №2528",
     "tikTvd": "22520001321752",
-    "tikName": "Пожарская"
+    "tikName": "Пожарская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2529,
     "uikTvd": "4254025298164",
+    "uikName": "УИК №2529",
     "tikTvd": "22520001321752",
-    "tikName": "Пожарская"
+    "tikName": "Пожарская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2530,
     "uikTvd": "4254025298165",
+    "uikName": "УИК №2530",
     "tikTvd": "22520001321752",
-    "tikName": "Пожарская"
+    "tikName": "Пожарская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2531,
     "uikTvd": "4254025298166",
+    "uikName": "УИК №2531",
     "tikTvd": "22520001321752",
-    "tikName": "Пожарская"
+    "tikName": "Пожарская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2532,
     "uikTvd": "4254025298167",
+    "uikName": "УИК №2532",
     "tikTvd": "22520001321752",
-    "tikName": "Пожарская"
+    "tikName": "Пожарская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2533,
     "uikTvd": "4254025298168",
+    "uikName": "УИК №2533",
     "tikTvd": "22520001321752",
-    "tikName": "Пожарская"
+    "tikName": "Пожарская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2534,
     "uikTvd": "4254025298169",
+    "uikName": "УИК №2534",
     "tikTvd": "22520001321752",
-    "tikName": "Пожарская"
+    "tikName": "Пожарская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2535,
     "uikTvd": "4254025298170",
+    "uikName": "УИК №2535",
     "tikTvd": "22520001321752",
-    "tikName": "Пожарская"
+    "tikName": "Пожарская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2536,
     "uikTvd": "4254025298171",
+    "uikName": "УИК №2536",
     "tikTvd": "22520001321752",
-    "tikName": "Пожарская"
+    "tikName": "Пожарская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2601,
     "uikTvd": "4254026186435",
+    "uikName": "УИК №2601",
     "tikTvd": "22520001321741",
-    "tikName": "Спасская городская"
+    "tikName": "Спасская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2602,
     "uikTvd": "4254026186436",
+    "uikName": "УИК №2602",
     "tikTvd": "22520001321741",
-    "tikName": "Спасская городская"
+    "tikName": "Спасская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2603,
     "uikTvd": "4254026186437",
+    "uikName": "УИК №2603",
     "tikTvd": "22520001321741",
-    "tikName": "Спасская городская"
+    "tikName": "Спасская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2604,
     "uikTvd": "4254026186438",
+    "uikName": "УИК №2604",
     "tikTvd": "22520001321741",
-    "tikName": "Спасская городская"
+    "tikName": "Спасская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2605,
     "uikTvd": "4254026186439",
+    "uikName": "УИК №2605",
     "tikTvd": "22520001321741",
-    "tikName": "Спасская городская"
+    "tikName": "Спасская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2606,
     "uikTvd": "4254026186440",
+    "uikName": "УИК №2606",
     "tikTvd": "22520001321741",
-    "tikName": "Спасская городская"
+    "tikName": "Спасская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2607,
     "uikTvd": "4254026186441",
+    "uikName": "УИК №2607",
     "tikTvd": "22520001321741",
-    "tikName": "Спасская городская"
+    "tikName": "Спасская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2608,
     "uikTvd": "4254026186442",
+    "uikName": "УИК №2608",
     "tikTvd": "22520001321741",
-    "tikName": "Спасская городская"
+    "tikName": "Спасская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2609,
     "uikTvd": "4254026186443",
+    "uikName": "УИК №2609",
     "tikTvd": "22520001321741",
-    "tikName": "Спасская городская"
+    "tikName": "Спасская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2610,
     "uikTvd": "4254026186444",
+    "uikName": "УИК №2610",
     "tikTvd": "22520001321741",
-    "tikName": "Спасская городская"
+    "tikName": "Спасская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2611,
     "uikTvd": "4254026186445",
+    "uikName": "УИК №2611",
     "tikTvd": "22520001321741",
-    "tikName": "Спасская городская"
+    "tikName": "Спасская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2612,
     "uikTvd": "4254026186446",
+    "uikName": "УИК №2612",
     "tikTvd": "22520001321741",
-    "tikName": "Спасская городская"
+    "tikName": "Спасская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2613,
     "uikTvd": "4254026186447",
+    "uikName": "УИК №2613",
     "tikTvd": "22520001321741",
-    "tikName": "Спасская городская"
+    "tikName": "Спасская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2614,
     "uikTvd": "4254026186448",
+    "uikName": "УИК №2614",
     "tikTvd": "22520001321741",
-    "tikName": "Спасская городская"
+    "tikName": "Спасская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2615,
     "uikTvd": "4254026186449",
+    "uikName": "УИК №2615",
     "tikTvd": "22520001321741",
-    "tikName": "Спасская городская"
+    "tikName": "Спасская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2616,
     "uikTvd": "4254026186450",
+    "uikName": "УИК №2616",
     "tikTvd": "22520001321741",
-    "tikName": "Спасская городская"
+    "tikName": "Спасская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2617,
     "uikTvd": "4254026186451",
+    "uikName": "УИК №2617",
     "tikTvd": "22520001321741",
-    "tikName": "Спасская городская"
+    "tikName": "Спасская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2618,
     "uikTvd": "4254026186452",
+    "uikName": "УИК №2618",
     "tikTvd": "22520001321741",
-    "tikName": "Спасская городская"
+    "tikName": "Спасская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2619,
     "uikTvd": "4254026186453",
+    "uikName": "УИК №2619",
     "tikTvd": "22520001321741",
-    "tikName": "Спасская городская"
+    "tikName": "Спасская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2620,
     "uikTvd": "4254026186454",
+    "uikName": "УИК №2620",
     "tikTvd": "22520001321741",
-    "tikName": "Спасская городская"
+    "tikName": "Спасская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2621,
     "uikTvd": "4254026186455",
+    "uikName": "УИК №2621",
     "tikTvd": "22520001321741",
-    "tikName": "Спасская городская"
+    "tikName": "Спасская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2622,
     "uikTvd": "4254026186456",
+    "uikName": "УИК №2622",
     "tikTvd": "22520001321741",
-    "tikName": "Спасская городская"
+    "tikName": "Спасская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2623,
     "uikTvd": "4254026186457",
+    "uikName": "УИК №2623",
     "tikTvd": "22520001321741",
-    "tikName": "Спасская городская"
+    "tikName": "Спасская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2624,
     "uikTvd": "4254026186458",
+    "uikName": "УИК №2624",
     "tikTvd": "22520001321741",
-    "tikName": "Спасская городская"
+    "tikName": "Спасская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2625,
     "uikTvd": "4254026186459",
+    "uikName": "УИК №2625",
     "tikTvd": "22520001321741",
-    "tikName": "Спасская городская"
+    "tikName": "Спасская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2626,
     "uikTvd": "4254026186460",
+    "uikName": "УИК №2626",
     "tikTvd": "22520001321741",
-    "tikName": "Спасская городская"
+    "tikName": "Спасская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2627,
     "uikTvd": "4254026186461",
+    "uikName": "УИК №2627",
     "tikTvd": "22520001321741",
-    "tikName": "Спасская городская"
+    "tikName": "Спасская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2628,
     "uikTvd": "4254026186462",
+    "uikName": "УИК №2628",
     "tikTvd": "22520001321741",
-    "tikName": "Спасская городская"
+    "tikName": "Спасская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2629,
     "uikTvd": "4254026186463",
+    "uikName": "УИК №2629",
     "tikTvd": "22520001321741",
-    "tikName": "Спасская городская"
+    "tikName": "Спасская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2630,
     "uikTvd": "4254026186464",
+    "uikName": "УИК №2630",
     "tikTvd": "22520001321741",
-    "tikName": "Спасская городская"
+    "tikName": "Спасская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2631,
     "uikTvd": "4254026186465",
+    "uikName": "УИК №2631",
     "tikTvd": "22520001321741",
-    "tikName": "Спасская городская"
+    "tikName": "Спасская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2701,
     "uikTvd": "4254027184091",
+    "uikName": "УИК №2701",
     "tikTvd": "22520001321778",
-    "tikName": "Тернейская"
+    "tikName": "Тернейская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2702,
     "uikTvd": "4254027184092",
+    "uikName": "УИК №2702",
     "tikTvd": "22520001321778",
-    "tikName": "Тернейская"
+    "tikName": "Тернейская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2703,
     "uikTvd": "4254027184093",
+    "uikName": "УИК №2703",
     "tikTvd": "22520001321778",
-    "tikName": "Тернейская"
+    "tikName": "Тернейская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2704,
     "uikTvd": "4254027184094",
+    "uikName": "УИК №2704",
     "tikTvd": "22520001321778",
-    "tikName": "Тернейская"
+    "tikName": "Тернейская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2705,
     "uikTvd": "4254027184095",
+    "uikName": "УИК №2705",
     "tikTvd": "22520001321778",
-    "tikName": "Тернейская"
+    "tikName": "Тернейская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2706,
     "uikTvd": "4254027184096",
+    "uikName": "УИК №2706",
     "tikTvd": "22520001321778",
-    "tikName": "Тернейская"
+    "tikName": "Тернейская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2707,
     "uikTvd": "4254027184097",
+    "uikName": "УИК №2707",
     "tikTvd": "22520001321778",
-    "tikName": "Тернейская"
+    "tikName": "Тернейская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2708,
     "uikTvd": "4254027184098",
+    "uikName": "УИК №2708",
     "tikTvd": "22520001321778",
-    "tikName": "Тернейская"
+    "tikName": "Тернейская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2709,
     "uikTvd": "4254027184099",
+    "uikName": "УИК №2709",
     "tikTvd": "22520001321778",
-    "tikName": "Тернейская"
+    "tikName": "Тернейская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2710,
     "uikTvd": "4254027184100",
+    "uikName": "УИК №2710",
     "tikTvd": "22520001321778",
-    "tikName": "Тернейская"
+    "tikName": "Тернейская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2711,
     "uikTvd": "4254027184101",
+    "uikName": "УИК №2711",
     "tikTvd": "22520001321778",
-    "tikName": "Тернейская"
+    "tikName": "Тернейская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2712,
     "uikTvd": "4254027184102",
+    "uikName": "УИК №2712",
     "tikTvd": "22520001321778",
-    "tikName": "Тернейская"
+    "tikName": "Тернейская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2801,
     "uikTvd": "4254028353050",
+    "uikName": "УИК №2801",
     "tikTvd": "22520001321749",
-    "tikName": "Уссурийская городская"
+    "tikName": "Уссурийская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2802,
     "uikTvd": "4254028353051",
+    "uikName": "УИК №2802",
     "tikTvd": "22520001321749",
-    "tikName": "Уссурийская городская"
+    "tikName": "Уссурийская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2803,
     "uikTvd": "4254028353052",
+    "uikName": "УИК №2803",
     "tikTvd": "22520001321749",
-    "tikName": "Уссурийская городская"
+    "tikName": "Уссурийская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2804,
     "uikTvd": "4254028353053",
+    "uikName": "УИК №2804",
     "tikTvd": "22520001321749",
-    "tikName": "Уссурийская городская"
+    "tikName": "Уссурийская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2805,
     "uikTvd": "4254028353054",
+    "uikName": "УИК №2805",
     "tikTvd": "22520001321749",
-    "tikName": "Уссурийская городская"
+    "tikName": "Уссурийская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2806,
     "uikTvd": "4254028353055",
+    "uikName": "УИК №2806",
     "tikTvd": "22520001321749",
-    "tikName": "Уссурийская городская"
+    "tikName": "Уссурийская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2807,
     "uikTvd": "4254028353056",
+    "uikName": "УИК №2807",
     "tikTvd": "22520001321749",
-    "tikName": "Уссурийская городская"
+    "tikName": "Уссурийская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2808,
     "uikTvd": "4254028353057",
+    "uikName": "УИК №2808",
     "tikTvd": "22520001321749",
-    "tikName": "Уссурийская городская"
+    "tikName": "Уссурийская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2809,
     "uikTvd": "4254028353058",
+    "uikName": "УИК №2809",
     "tikTvd": "22520001321749",
-    "tikName": "Уссурийская городская"
+    "tikName": "Уссурийская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2810,
     "uikTvd": "4254028353059",
+    "uikName": "УИК №2810",
     "tikTvd": "22520001321749",
-    "tikName": "Уссурийская городская"
+    "tikName": "Уссурийская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2811,
     "uikTvd": "4254028353060",
+    "uikName": "УИК №2811",
     "tikTvd": "22520001321749",
-    "tikName": "Уссурийская городская"
+    "tikName": "Уссурийская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2812,
     "uikTvd": "4254028353061",
+    "uikName": "УИК №2812",
     "tikTvd": "22520001321749",
-    "tikName": "Уссурийская городская"
+    "tikName": "Уссурийская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2813,
     "uikTvd": "4254028353062",
+    "uikName": "УИК №2813",
     "tikTvd": "22520001321749",
-    "tikName": "Уссурийская городская"
+    "tikName": "Уссурийская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2814,
     "uikTvd": "4254028353063",
+    "uikName": "УИК №2814",
     "tikTvd": "22520001321749",
-    "tikName": "Уссурийская городская"
+    "tikName": "Уссурийская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2815,
     "uikTvd": "4254028353064",
+    "uikName": "УИК №2815",
     "tikTvd": "22520001321749",
-    "tikName": "Уссурийская городская"
+    "tikName": "Уссурийская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2816,
     "uikTvd": "4254028353065",
+    "uikName": "УИК №2816",
     "tikTvd": "22520001321749",
-    "tikName": "Уссурийская городская"
+    "tikName": "Уссурийская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2817,
     "uikTvd": "4254028353066",
+    "uikName": "УИК №2817",
     "tikTvd": "22520001321749",
-    "tikName": "Уссурийская городская"
+    "tikName": "Уссурийская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2818,
     "uikTvd": "4254028353067",
+    "uikName": "УИК №2818",
     "tikTvd": "22520001321749",
-    "tikName": "Уссурийская городская"
+    "tikName": "Уссурийская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2819,
     "uikTvd": "4254028353068",
+    "uikName": "УИК №2819",
     "tikTvd": "22520001321749",
-    "tikName": "Уссурийская городская"
+    "tikName": "Уссурийская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2820,
     "uikTvd": "4254028353069",
+    "uikName": "УИК №2820",
     "tikTvd": "22520001321749",
-    "tikName": "Уссурийская городская"
+    "tikName": "Уссурийская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2821,
     "uikTvd": "4254028353070",
+    "uikName": "УИК №2821",
     "tikTvd": "22520001321749",
-    "tikName": "Уссурийская городская"
+    "tikName": "Уссурийская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2822,
     "uikTvd": "4254028353071",
+    "uikName": "УИК №2822",
     "tikTvd": "22520001321749",
-    "tikName": "Уссурийская городская"
+    "tikName": "Уссурийская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2823,
     "uikTvd": "4254028353072",
+    "uikName": "УИК №2823",
     "tikTvd": "22520001321749",
-    "tikName": "Уссурийская городская"
+    "tikName": "Уссурийская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2824,
     "uikTvd": "4254028353073",
+    "uikName": "УИК №2824",
     "tikTvd": "22520001321749",
-    "tikName": "Уссурийская городская"
+    "tikName": "Уссурийская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2825,
     "uikTvd": "4254028353074",
+    "uikName": "УИК №2825",
     "tikTvd": "22520001321749",
-    "tikName": "Уссурийская городская"
+    "tikName": "Уссурийская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2826,
     "uikTvd": "4254028353075",
+    "uikName": "УИК №2826",
     "tikTvd": "22520001321749",
-    "tikName": "Уссурийская городская"
+    "tikName": "Уссурийская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2827,
     "uikTvd": "4254028353076",
+    "uikName": "УИК №2827",
     "tikTvd": "22520001321749",
-    "tikName": "Уссурийская городская"
+    "tikName": "Уссурийская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2828,
     "uikTvd": "4254028353077",
+    "uikName": "УИК №2828",
     "tikTvd": "22520001321749",
-    "tikName": "Уссурийская городская"
+    "tikName": "Уссурийская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2829,
     "uikTvd": "4254028353078",
+    "uikName": "УИК №2829",
     "tikTvd": "22520001321749",
-    "tikName": "Уссурийская городская"
+    "tikName": "Уссурийская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2830,
     "uikTvd": "4254028353079",
+    "uikName": "УИК №2830",
     "tikTvd": "22520001321749",
-    "tikName": "Уссурийская городская"
+    "tikName": "Уссурийская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2831,
     "uikTvd": "4254028353080",
+    "uikName": "УИК №2831",
     "tikTvd": "22520001321749",
-    "tikName": "Уссурийская городская"
+    "tikName": "Уссурийская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2832,
     "uikTvd": "4254028353081",
+    "uikName": "УИК №2832",
     "tikTvd": "22520001321749",
-    "tikName": "Уссурийская городская"
+    "tikName": "Уссурийская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2833,
     "uikTvd": "4254028353082",
+    "uikName": "УИК №2833",
     "tikTvd": "22520001321749",
-    "tikName": "Уссурийская городская"
+    "tikName": "Уссурийская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2834,
     "uikTvd": "4254028353083",
+    "uikName": "УИК №2834",
     "tikTvd": "22520001321749",
-    "tikName": "Уссурийская городская"
+    "tikName": "Уссурийская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2835,
     "uikTvd": "4254028353084",
+    "uikName": "УИК №2835",
     "tikTvd": "22520001321749",
-    "tikName": "Уссурийская городская"
+    "tikName": "Уссурийская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2836,
     "uikTvd": "4254028353085",
+    "uikName": "УИК №2836",
     "tikTvd": "22520001321749",
-    "tikName": "Уссурийская городская"
+    "tikName": "Уссурийская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2837,
     "uikTvd": "4254028353086",
+    "uikName": "УИК №2837",
     "tikTvd": "22520001321749",
-    "tikName": "Уссурийская городская"
+    "tikName": "Уссурийская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2838,
     "uikTvd": "4254028353087",
+    "uikName": "УИК №2838",
     "tikTvd": "22520001321749",
-    "tikName": "Уссурийская городская"
+    "tikName": "Уссурийская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2839,
     "uikTvd": "4254028353088",
+    "uikName": "УИК №2839",
     "tikTvd": "22520001321749",
-    "tikName": "Уссурийская городская"
+    "tikName": "Уссурийская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2840,
     "uikTvd": "4254028353089",
+    "uikName": "УИК №2840",
     "tikTvd": "22520001321749",
-    "tikName": "Уссурийская городская"
+    "tikName": "Уссурийская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2841,
     "uikTvd": "4254028353090",
+    "uikName": "УИК №2841",
     "tikTvd": "22520001321749",
-    "tikName": "Уссурийская городская"
+    "tikName": "Уссурийская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2842,
     "uikTvd": "4254028353091",
+    "uikName": "УИК №2842",
     "tikTvd": "22520001321749",
-    "tikName": "Уссурийская городская"
+    "tikName": "Уссурийская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2843,
     "uikTvd": "4254028353092",
+    "uikName": "УИК №2843",
     "tikTvd": "22520001321749",
-    "tikName": "Уссурийская городская"
+    "tikName": "Уссурийская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2844,
     "uikTvd": "4254028353093",
+    "uikName": "УИК №2844",
     "tikTvd": "22520001321749",
-    "tikName": "Уссурийская городская"
+    "tikName": "Уссурийская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2845,
     "uikTvd": "4254028353094",
+    "uikName": "УИК №2845",
     "tikTvd": "22520001321749",
-    "tikName": "Уссурийская городская"
+    "tikName": "Уссурийская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2846,
     "uikTvd": "4254028353095",
+    "uikName": "УИК №2846",
     "tikTvd": "22520001321749",
-    "tikName": "Уссурийская городская"
+    "tikName": "Уссурийская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2847,
     "uikTvd": "4254028353096",
+    "uikName": "УИК №2847",
     "tikTvd": "22520001321749",
-    "tikName": "Уссурийская городская"
+    "tikName": "Уссурийская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2848,
     "uikTvd": "4254028353097",
+    "uikName": "УИК №2848",
     "tikTvd": "22520001321749",
-    "tikName": "Уссурийская городская"
+    "tikName": "Уссурийская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2849,
     "uikTvd": "4254028353098",
+    "uikName": "УИК №2849",
     "tikTvd": "22520001321749",
-    "tikName": "Уссурийская городская"
+    "tikName": "Уссурийская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2850,
     "uikTvd": "4254028353099",
+    "uikName": "УИК №2850",
     "tikTvd": "22520001321749",
-    "tikName": "Уссурийская городская"
+    "tikName": "Уссурийская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2851,
     "uikTvd": "4254028353100",
+    "uikName": "УИК №2851",
     "tikTvd": "22520001321749",
-    "tikName": "Уссурийская городская"
+    "tikName": "Уссурийская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2852,
     "uikTvd": "4254028353101",
+    "uikName": "УИК №2852",
     "tikTvd": "22520001321749",
-    "tikName": "Уссурийская городская"
+    "tikName": "Уссурийская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2853,
     "uikTvd": "4254028353102",
+    "uikName": "УИК №2853",
     "tikTvd": "22520001321749",
-    "tikName": "Уссурийская городская"
+    "tikName": "Уссурийская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2854,
     "uikTvd": "4254028353103",
+    "uikName": "УИК №2854",
     "tikTvd": "22520001321749",
-    "tikName": "Уссурийская городская"
+    "tikName": "Уссурийская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2855,
     "uikTvd": "4254028353104",
+    "uikName": "УИК №2855",
     "tikTvd": "22520001321749",
-    "tikName": "Уссурийская городская"
+    "tikName": "Уссурийская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2857,
     "uikTvd": "4254028353105",
+    "uikName": "УИК №2857",
     "tikTvd": "22520001321749",
-    "tikName": "Уссурийская городская"
+    "tikName": "Уссурийская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2858,
     "uikTvd": "4254028353106",
+    "uikName": "УИК №2858",
     "tikTvd": "22520001321749",
-    "tikName": "Уссурийская городская"
+    "tikName": "Уссурийская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2859,
     "uikTvd": "4254028353107",
+    "uikName": "УИК №2859",
     "tikTvd": "22520001321749",
-    "tikName": "Уссурийская городская"
+    "tikName": "Уссурийская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2860,
     "uikTvd": "4254028353108",
+    "uikName": "УИК №2860",
     "tikTvd": "22520001321749",
-    "tikName": "Уссурийская городская"
+    "tikName": "Уссурийская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2861,
     "uikTvd": "4254028353109",
+    "uikName": "УИК №2861",
     "tikTvd": "22520001321749",
-    "tikName": "Уссурийская городская"
+    "tikName": "Уссурийская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2862,
     "uikTvd": "4254028353110",
+    "uikName": "УИК №2862",
     "tikTvd": "22520001321749",
-    "tikName": "Уссурийская городская"
+    "tikName": "Уссурийская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2863,
     "uikTvd": "4254028353111",
+    "uikName": "УИК №2863",
     "tikTvd": "22520001321749",
-    "tikName": "Уссурийская городская"
+    "tikName": "Уссурийская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2864,
     "uikTvd": "4254028353112",
+    "uikName": "УИК №2864",
     "tikTvd": "22520001321749",
-    "tikName": "Уссурийская городская"
+    "tikName": "Уссурийская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2866,
     "uikTvd": "4254028353113",
+    "uikName": "УИК №2866",
     "tikTvd": "22520001321749",
-    "tikName": "Уссурийская городская"
+    "tikName": "Уссурийская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2867,
     "uikTvd": "4254028353114",
+    "uikName": "УИК №2867",
     "tikTvd": "22520001321749",
-    "tikName": "Уссурийская городская"
+    "tikName": "Уссурийская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2868,
     "uikTvd": "4254028353115",
+    "uikName": "УИК №2868",
     "tikTvd": "22520001321749",
-    "tikName": "Уссурийская городская"
+    "tikName": "Уссурийская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2869,
     "uikTvd": "4254028353116",
+    "uikName": "УИК №2869",
     "tikTvd": "22520001321749",
-    "tikName": "Уссурийская городская"
+    "tikName": "Уссурийская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2880,
     "uikTvd": "4254028354514",
+    "uikName": "УИК №2880",
     "tikTvd": "22520001321749",
-    "tikName": "Уссурийская городская"
+    "tikName": "Уссурийская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2881,
     "uikTvd": "4254028354515",
+    "uikName": "УИК №2881",
     "tikTvd": "22520001321749",
-    "tikName": "Уссурийская городская"
+    "tikName": "Уссурийская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2882,
     "uikTvd": "4254028354516",
+    "uikName": "УИК №2882",
     "tikTvd": "22520001321749",
-    "tikName": "Уссурийская городская"
+    "tikName": "Уссурийская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2883,
     "uikTvd": "4254028354517",
+    "uikName": "УИК №2883",
     "tikTvd": "22520001321749",
-    "tikName": "Уссурийская городская"
+    "tikName": "Уссурийская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2901,
     "uikTvd": "4254029197714",
+    "uikName": "УИК №2901",
     "tikTvd": "22520001321775",
-    "tikName": "Ханкайская"
+    "tikName": "Ханкайская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2902,
     "uikTvd": "4254029197715",
+    "uikName": "УИК №2902",
     "tikTvd": "22520001321775",
-    "tikName": "Ханкайская"
+    "tikName": "Ханкайская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2903,
     "uikTvd": "4254029197716",
+    "uikName": "УИК №2903",
     "tikTvd": "22520001321775",
-    "tikName": "Ханкайская"
+    "tikName": "Ханкайская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2904,
     "uikTvd": "4254029197717",
+    "uikName": "УИК №2904",
     "tikTvd": "22520001321775",
-    "tikName": "Ханкайская"
+    "tikName": "Ханкайская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2905,
     "uikTvd": "4254029197718",
+    "uikName": "УИК №2905",
     "tikTvd": "22520001321775",
-    "tikName": "Ханкайская"
+    "tikName": "Ханкайская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2906,
     "uikTvd": "4254029197719",
+    "uikName": "УИК №2906",
     "tikTvd": "22520001321775",
-    "tikName": "Ханкайская"
+    "tikName": "Ханкайская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2907,
     "uikTvd": "4254029197720",
+    "uikName": "УИК №2907",
     "tikTvd": "22520001321775",
-    "tikName": "Ханкайская"
+    "tikName": "Ханкайская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2908,
     "uikTvd": "4254029197721",
+    "uikName": "УИК №2908",
     "tikTvd": "22520001321775",
-    "tikName": "Ханкайская"
+    "tikName": "Ханкайская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2909,
     "uikTvd": "4254029197722",
+    "uikName": "УИК №2909",
     "tikTvd": "22520001321775",
-    "tikName": "Ханкайская"
+    "tikName": "Ханкайская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2910,
     "uikTvd": "4254029197723",
+    "uikName": "УИК №2910",
     "tikTvd": "22520001321775",
-    "tikName": "Ханкайская"
+    "tikName": "Ханкайская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2911,
     "uikTvd": "4254029197724",
+    "uikName": "УИК №2911",
     "tikTvd": "22520001321775",
-    "tikName": "Ханкайская"
+    "tikName": "Ханкайская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2912,
     "uikTvd": "4254029197725",
+    "uikName": "УИК №2912",
     "tikTvd": "22520001321775",
-    "tikName": "Ханкайская"
+    "tikName": "Ханкайская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2913,
     "uikTvd": "4254029197726",
+    "uikName": "УИК №2913",
     "tikTvd": "22520001321775",
-    "tikName": "Ханкайская"
+    "tikName": "Ханкайская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2914,
     "uikTvd": "4254029197727",
+    "uikName": "УИК №2914",
     "tikTvd": "22520001321775",
-    "tikName": "Ханкайская"
+    "tikName": "Ханкайская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2915,
     "uikTvd": "4254029197728",
+    "uikName": "УИК №2915",
     "tikTvd": "22520001321775",
-    "tikName": "Ханкайская"
+    "tikName": "Ханкайская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2916,
     "uikTvd": "4254029197729",
+    "uikName": "УИК №2916",
     "tikTvd": "22520001321775",
-    "tikName": "Ханкайская"
+    "tikName": "Ханкайская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2917,
     "uikTvd": "4254029197730",
+    "uikName": "УИК №2917",
     "tikTvd": "22520001321775",
-    "tikName": "Ханкайская"
+    "tikName": "Ханкайская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2918,
     "uikTvd": "4254029197731",
+    "uikName": "УИК №2918",
     "tikTvd": "22520001321775",
-    "tikName": "Ханкайская"
+    "tikName": "Ханкайская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2919,
     "uikTvd": "4254029197732",
+    "uikName": "УИК №2919",
     "tikTvd": "22520001321775",
-    "tikName": "Ханкайская"
+    "tikName": "Ханкайская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2920,
     "uikTvd": "4254029197733",
+    "uikName": "УИК №2920",
     "tikTvd": "22520001321775",
-    "tikName": "Ханкайская"
+    "tikName": "Ханкайская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2921,
     "uikTvd": "4254029197734",
+    "uikName": "УИК №2921",
     "tikTvd": "22520001321775",
-    "tikName": "Ханкайская"
+    "tikName": "Ханкайская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2922,
     "uikTvd": "4254029197735",
+    "uikName": "УИК №2922",
     "tikTvd": "22520001321775",
-    "tikName": "Ханкайская"
+    "tikName": "Ханкайская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2923,
     "uikTvd": "4254029197736",
+    "uikName": "УИК №2923",
     "tikTvd": "22520001321775",
-    "tikName": "Ханкайская"
+    "tikName": "Ханкайская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2924,
     "uikTvd": "4254029197737",
+    "uikName": "УИК №2924",
     "tikTvd": "22520001321775",
-    "tikName": "Ханкайская"
+    "tikName": "Ханкайская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2925,
     "uikTvd": "4254029197738",
+    "uikName": "УИК №2925",
     "tikTvd": "22520001321775",
-    "tikName": "Ханкайская"
+    "tikName": "Ханкайская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2926,
     "uikTvd": "4254029197739",
+    "uikName": "УИК №2926",
     "tikTvd": "22520001321775",
-    "tikName": "Ханкайская"
+    "tikName": "Ханкайская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2927,
     "uikTvd": "4254029197740",
+    "uikName": "УИК №2927",
     "tikTvd": "22520001321775",
-    "tikName": "Ханкайская"
+    "tikName": "Ханкайская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 2928,
     "uikTvd": "4254029197741",
+    "uikName": "УИК №2928",
     "tikTvd": "22520001321775",
-    "tikName": "Ханкайская"
+    "tikName": "Ханкайская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3001,
     "uikTvd": "4254030329326",
+    "uikName": "УИК №3001",
     "tikTvd": "22520001321747",
-    "tikName": "Хасанская"
+    "tikName": "Хасанская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3002,
     "uikTvd": "4254030329327",
+    "uikName": "УИК №3002",
     "tikTvd": "22520001321747",
-    "tikName": "Хасанская"
+    "tikName": "Хасанская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3003,
     "uikTvd": "4254030329328",
+    "uikName": "УИК №3003",
     "tikTvd": "22520001321747",
-    "tikName": "Хасанская"
+    "tikName": "Хасанская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3004,
     "uikTvd": "4254030329329",
+    "uikName": "УИК №3004",
     "tikTvd": "22520001321747",
-    "tikName": "Хасанская"
+    "tikName": "Хасанская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3005,
     "uikTvd": "4254030329330",
+    "uikName": "УИК №3005",
     "tikTvd": "22520001321747",
-    "tikName": "Хасанская"
+    "tikName": "Хасанская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3006,
     "uikTvd": "4254030329331",
+    "uikName": "УИК №3006",
     "tikTvd": "22520001321747",
-    "tikName": "Хасанская"
+    "tikName": "Хасанская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3007,
     "uikTvd": "4254030329332",
+    "uikName": "УИК №3007",
     "tikTvd": "22520001321747",
-    "tikName": "Хасанская"
+    "tikName": "Хасанская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3008,
     "uikTvd": "4254030329333",
+    "uikName": "УИК №3008",
     "tikTvd": "22520001321747",
-    "tikName": "Хасанская"
+    "tikName": "Хасанская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3009,
     "uikTvd": "4254030329334",
+    "uikName": "УИК №3009",
     "tikTvd": "22520001321747",
-    "tikName": "Хасанская"
+    "tikName": "Хасанская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3010,
     "uikTvd": "4254030329335",
+    "uikName": "УИК №3010",
     "tikTvd": "22520001321747",
-    "tikName": "Хасанская"
+    "tikName": "Хасанская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3011,
     "uikTvd": "4254030329336",
+    "uikName": "УИК №3011",
     "tikTvd": "22520001321747",
-    "tikName": "Хасанская"
+    "tikName": "Хасанская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3012,
     "uikTvd": "4254030329337",
+    "uikName": "УИК №3012",
     "tikTvd": "22520001321747",
-    "tikName": "Хасанская"
+    "tikName": "Хасанская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3013,
     "uikTvd": "4254030329338",
+    "uikName": "УИК №3013",
     "tikTvd": "22520001321747",
-    "tikName": "Хасанская"
+    "tikName": "Хасанская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3014,
     "uikTvd": "4254030329339",
+    "uikName": "УИК №3014",
     "tikTvd": "22520001321747",
-    "tikName": "Хасанская"
+    "tikName": "Хасанская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3015,
     "uikTvd": "4254030329340",
+    "uikName": "УИК №3015",
     "tikTvd": "22520001321747",
-    "tikName": "Хасанская"
+    "tikName": "Хасанская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3016,
     "uikTvd": "4254030329341",
+    "uikName": "УИК №3016",
     "tikTvd": "22520001321747",
-    "tikName": "Хасанская"
+    "tikName": "Хасанская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3017,
     "uikTvd": "4254030329342",
+    "uikName": "УИК №3017",
     "tikTvd": "22520001321747",
-    "tikName": "Хасанская"
+    "tikName": "Хасанская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3018,
     "uikTvd": "4254030329343",
+    "uikName": "УИК №3018",
     "tikTvd": "22520001321747",
-    "tikName": "Хасанская"
+    "tikName": "Хасанская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3019,
     "uikTvd": "4254030329344",
+    "uikName": "УИК №3019",
     "tikTvd": "22520001321747",
-    "tikName": "Хасанская"
+    "tikName": "Хасанская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3020,
     "uikTvd": "4254030329345",
+    "uikName": "УИК №3020",
     "tikTvd": "22520001321747",
-    "tikName": "Хасанская"
+    "tikName": "Хасанская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3021,
     "uikTvd": "4254030329346",
+    "uikName": "УИК №3021",
     "tikTvd": "22520001321747",
-    "tikName": "Хасанская"
+    "tikName": "Хасанская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3022,
     "uikTvd": "4254030329347",
+    "uikName": "УИК №3022",
     "tikTvd": "22520001321747",
-    "tikName": "Хасанская"
+    "tikName": "Хасанская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3023,
     "uikTvd": "4254030329348",
+    "uikName": "УИК №3023",
     "tikTvd": "22520001321747",
-    "tikName": "Хасанская"
+    "tikName": "Хасанская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3024,
     "uikTvd": "4254030329349",
+    "uikName": "УИК №3024",
     "tikTvd": "22520001321747",
-    "tikName": "Хасанская"
+    "tikName": "Хасанская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3025,
     "uikTvd": "4254030329350",
+    "uikName": "УИК №3025",
     "tikTvd": "22520001321747",
-    "tikName": "Хасанская"
+    "tikName": "Хасанская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3026,
     "uikTvd": "4254030329351",
+    "uikName": "УИК №3026",
     "tikTvd": "22520001321747",
-    "tikName": "Хасанская"
+    "tikName": "Хасанская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3027,
     "uikTvd": "4254030329352",
+    "uikName": "УИК №3027",
     "tikTvd": "22520001321747",
-    "tikName": "Хасанская"
+    "tikName": "Хасанская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3028,
     "uikTvd": "4254030329353",
+    "uikName": "УИК №3028",
     "tikTvd": "22520001321747",
-    "tikName": "Хасанская"
+    "tikName": "Хасанская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3029,
     "uikTvd": "4254030329354",
+    "uikName": "УИК №3029",
     "tikTvd": "22520001321747",
-    "tikName": "Хасанская"
+    "tikName": "Хасанская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3030,
     "uikTvd": "4254030329355",
+    "uikName": "УИК №3030",
     "tikTvd": "22520001321747",
-    "tikName": "Хасанская"
+    "tikName": "Хасанская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3031,
     "uikTvd": "4254030329356",
+    "uikName": "УИК №3031",
     "tikTvd": "22520001321747",
-    "tikName": "Хасанская"
+    "tikName": "Хасанская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3080,
     "uikTvd": "4254030330654",
+    "uikName": "УИК №3080",
     "tikTvd": "22520001321747",
-    "tikName": "Хасанская"
+    "tikName": "Хасанская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3101,
     "uikTvd": "4254031199817",
+    "uikName": "УИК №3101",
     "tikTvd": "22520001321755",
-    "tikName": "Хорольская"
+    "tikName": "Хорольская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3102,
     "uikTvd": "4254031199818",
+    "uikName": "УИК №3102",
     "tikTvd": "22520001321755",
-    "tikName": "Хорольская"
+    "tikName": "Хорольская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3103,
     "uikTvd": "4254031199819",
+    "uikName": "УИК №3103",
     "tikTvd": "22520001321755",
-    "tikName": "Хорольская"
+    "tikName": "Хорольская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3104,
     "uikTvd": "4254031199820",
+    "uikName": "УИК №3104",
     "tikTvd": "22520001321755",
-    "tikName": "Хорольская"
+    "tikName": "Хорольская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3105,
     "uikTvd": "4254031199821",
+    "uikName": "УИК №3105",
     "tikTvd": "22520001321755",
-    "tikName": "Хорольская"
+    "tikName": "Хорольская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3106,
     "uikTvd": "4254031199822",
+    "uikName": "УИК №3106",
     "tikTvd": "22520001321755",
-    "tikName": "Хорольская"
+    "tikName": "Хорольская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3107,
     "uikTvd": "4254031199823",
+    "uikName": "УИК №3107",
     "tikTvd": "22520001321755",
-    "tikName": "Хорольская"
+    "tikName": "Хорольская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3108,
     "uikTvd": "4254031199824",
+    "uikName": "УИК №3108",
     "tikTvd": "22520001321755",
-    "tikName": "Хорольская"
+    "tikName": "Хорольская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3109,
     "uikTvd": "4254031199825",
+    "uikName": "УИК №3109",
     "tikTvd": "22520001321755",
-    "tikName": "Хорольская"
+    "tikName": "Хорольская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3110,
     "uikTvd": "4254031199826",
+    "uikName": "УИК №3110",
     "tikTvd": "22520001321755",
-    "tikName": "Хорольская"
+    "tikName": "Хорольская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3111,
     "uikTvd": "4254031199827",
+    "uikName": "УИК №3111",
     "tikTvd": "22520001321755",
-    "tikName": "Хорольская"
+    "tikName": "Хорольская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3112,
     "uikTvd": "4254031199828",
+    "uikName": "УИК №3112",
     "tikTvd": "22520001321755",
-    "tikName": "Хорольская"
+    "tikName": "Хорольская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3113,
     "uikTvd": "4254031199829",
+    "uikName": "УИК №3113",
     "tikTvd": "22520001321755",
-    "tikName": "Хорольская"
+    "tikName": "Хорольская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3114,
     "uikTvd": "4254031199830",
+    "uikName": "УИК №3114",
     "tikTvd": "22520001321755",
-    "tikName": "Хорольская"
+    "tikName": "Хорольская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3115,
     "uikTvd": "4254031199831",
+    "uikName": "УИК №3115",
     "tikTvd": "22520001321755",
-    "tikName": "Хорольская"
+    "tikName": "Хорольская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3116,
     "uikTvd": "4254031199832",
+    "uikName": "УИК №3116",
     "tikTvd": "22520001321755",
-    "tikName": "Хорольская"
+    "tikName": "Хорольская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3117,
     "uikTvd": "4254031199833",
+    "uikName": "УИК №3117",
     "tikTvd": "22520001321755",
-    "tikName": "Хорольская"
+    "tikName": "Хорольская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3118,
     "uikTvd": "4254031199834",
+    "uikName": "УИК №3118",
     "tikTvd": "22520001321755",
-    "tikName": "Хорольская"
+    "tikName": "Хорольская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3119,
     "uikTvd": "4254031199835",
+    "uikName": "УИК №3119",
     "tikTvd": "22520001321755",
-    "tikName": "Хорольская"
+    "tikName": "Хорольская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3120,
     "uikTvd": "4254031199836",
+    "uikName": "УИК №3120",
     "tikTvd": "22520001321755",
-    "tikName": "Хорольская"
+    "tikName": "Хорольская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3121,
     "uikTvd": "4254031199837",
+    "uikName": "УИК №3121",
     "tikTvd": "22520001321755",
-    "tikName": "Хорольская"
+    "tikName": "Хорольская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3122,
     "uikTvd": "4254031199838",
+    "uikName": "УИК №3122",
     "tikTvd": "22520001321755",
-    "tikName": "Хорольская"
+    "tikName": "Хорольская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3123,
     "uikTvd": "4254031199839",
+    "uikName": "УИК №3123",
     "tikTvd": "22520001321755",
-    "tikName": "Хорольская"
+    "tikName": "Хорольская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3124,
     "uikTvd": "4254031199840",
+    "uikName": "УИК №3124",
     "tikTvd": "22520001321755",
-    "tikName": "Хорольская"
+    "tikName": "Хорольская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3125,
     "uikTvd": "4254031199841",
+    "uikName": "УИК №3125",
     "tikTvd": "22520001321755",
-    "tikName": "Хорольская"
+    "tikName": "Хорольская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3126,
     "uikTvd": "4254031199842",
+    "uikName": "УИК №3126",
     "tikTvd": "22520001321755",
-    "tikName": "Хорольская"
+    "tikName": "Хорольская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3127,
     "uikTvd": "4254031199843",
+    "uikName": "УИК №3127",
     "tikTvd": "22520001321755",
-    "tikName": "Хорольская"
+    "tikName": "Хорольская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3128,
     "uikTvd": "4254031199844",
+    "uikName": "УИК №3128",
     "tikTvd": "22520001321755",
-    "tikName": "Хорольская"
+    "tikName": "Хорольская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3201,
     "uikTvd": "4254032219227",
+    "uikName": "УИК №3201",
     "tikTvd": "22520001321762",
-    "tikName": "Черниговская"
+    "tikName": "Черниговская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3202,
     "uikTvd": "4254032219228",
+    "uikName": "УИК №3202",
     "tikTvd": "22520001321762",
-    "tikName": "Черниговская"
+    "tikName": "Черниговская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3203,
     "uikTvd": "4254032219229",
+    "uikName": "УИК №3203",
     "tikTvd": "22520001321762",
-    "tikName": "Черниговская"
+    "tikName": "Черниговская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3204,
     "uikTvd": "4254032219230",
+    "uikName": "УИК №3204",
     "tikTvd": "22520001321762",
-    "tikName": "Черниговская"
+    "tikName": "Черниговская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3205,
     "uikTvd": "4254032219231",
+    "uikName": "УИК №3205",
     "tikTvd": "22520001321762",
-    "tikName": "Черниговская"
+    "tikName": "Черниговская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3206,
     "uikTvd": "4254032219232",
+    "uikName": "УИК №3206",
     "tikTvd": "22520001321762",
-    "tikName": "Черниговская"
+    "tikName": "Черниговская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3207,
     "uikTvd": "4254032219233",
+    "uikName": "УИК №3207",
     "tikTvd": "22520001321762",
-    "tikName": "Черниговская"
+    "tikName": "Черниговская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3208,
     "uikTvd": "4254032219234",
+    "uikName": "УИК №3208",
     "tikTvd": "22520001321762",
-    "tikName": "Черниговская"
+    "tikName": "Черниговская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3209,
     "uikTvd": "4254032219235",
+    "uikName": "УИК №3209",
     "tikTvd": "22520001321762",
-    "tikName": "Черниговская"
+    "tikName": "Черниговская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3210,
     "uikTvd": "4254032219236",
+    "uikName": "УИК №3210",
     "tikTvd": "22520001321762",
-    "tikName": "Черниговская"
+    "tikName": "Черниговская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3211,
     "uikTvd": "4254032219237",
+    "uikName": "УИК №3211",
     "tikTvd": "22520001321762",
-    "tikName": "Черниговская"
+    "tikName": "Черниговская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3212,
     "uikTvd": "4254032219238",
+    "uikName": "УИК №3212",
     "tikTvd": "22520001321762",
-    "tikName": "Черниговская"
+    "tikName": "Черниговская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3213,
     "uikTvd": "4254032219239",
+    "uikName": "УИК №3213",
     "tikTvd": "22520001321762",
-    "tikName": "Черниговская"
+    "tikName": "Черниговская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3214,
     "uikTvd": "4254032219240",
+    "uikName": "УИК №3214",
     "tikTvd": "22520001321762",
-    "tikName": "Черниговская"
+    "tikName": "Черниговская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3215,
     "uikTvd": "4254032219241",
+    "uikName": "УИК №3215",
     "tikTvd": "22520001321762",
-    "tikName": "Черниговская"
+    "tikName": "Черниговская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3216,
     "uikTvd": "4254032219242",
+    "uikName": "УИК №3216",
     "tikTvd": "22520001321762",
-    "tikName": "Черниговская"
+    "tikName": "Черниговская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3217,
     "uikTvd": "4254032219243",
+    "uikName": "УИК №3217",
     "tikTvd": "22520001321762",
-    "tikName": "Черниговская"
+    "tikName": "Черниговская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3218,
     "uikTvd": "4254032219244",
+    "uikName": "УИК №3218",
     "tikTvd": "22520001321762",
-    "tikName": "Черниговская"
+    "tikName": "Черниговская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3219,
     "uikTvd": "4254032219245",
+    "uikName": "УИК №3219",
     "tikTvd": "22520001321762",
-    "tikName": "Черниговская"
+    "tikName": "Черниговская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3220,
     "uikTvd": "4254032219246",
+    "uikName": "УИК №3220",
     "tikTvd": "22520001321762",
-    "tikName": "Черниговская"
+    "tikName": "Черниговская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3221,
     "uikTvd": "4254032219247",
+    "uikName": "УИК №3221",
     "tikTvd": "22520001321762",
-    "tikName": "Черниговская"
+    "tikName": "Черниговская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3222,
     "uikTvd": "4254032219248",
+    "uikName": "УИК №3222",
     "tikTvd": "22520001321762",
-    "tikName": "Черниговская"
+    "tikName": "Черниговская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3223,
     "uikTvd": "4254032219249",
+    "uikName": "УИК №3223",
     "tikTvd": "22520001321762",
-    "tikName": "Черниговская"
+    "tikName": "Черниговская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3224,
     "uikTvd": "4254032219250",
+    "uikName": "УИК №3224",
     "tikTvd": "22520001321762",
-    "tikName": "Черниговская"
+    "tikName": "Черниговская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3225,
     "uikTvd": "4254032219251",
+    "uikName": "УИК №3225",
     "tikTvd": "22520001321762",
-    "tikName": "Черниговская"
+    "tikName": "Черниговская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3226,
     "uikTvd": "4254032219252",
+    "uikName": "УИК №3226",
     "tikTvd": "22520001321762",
-    "tikName": "Черниговская"
+    "tikName": "Черниговская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3227,
     "uikTvd": "4254032219253",
+    "uikName": "УИК №3227",
     "tikTvd": "22520001321762",
-    "tikName": "Черниговская"
+    "tikName": "Черниговская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3228,
     "uikTvd": "4254032219254",
+    "uikName": "УИК №3228",
     "tikTvd": "22520001321762",
-    "tikName": "Черниговская"
+    "tikName": "Черниговская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3229,
     "uikTvd": "4254032219255",
+    "uikName": "УИК №3229",
     "tikTvd": "22520001321762",
-    "tikName": "Черниговская"
+    "tikName": "Черниговская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3230,
     "uikTvd": "4254032219256",
+    "uikName": "УИК №3230",
     "tikTvd": "22520001321762",
-    "tikName": "Черниговская"
+    "tikName": "Черниговская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3231,
     "uikTvd": "4254032219257",
+    "uikName": "УИК №3231",
     "tikTvd": "22520001321762",
-    "tikName": "Черниговская"
+    "tikName": "Черниговская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3280,
     "uikTvd": "4254032219598",
+    "uikName": "УИК №3280",
     "tikTvd": "22520001321762",
-    "tikName": "Черниговская"
+    "tikName": "Черниговская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3281,
     "uikTvd": "4254032219599",
+    "uikName": "УИК №3281",
     "tikTvd": "22520001321762",
-    "tikName": "Черниговская"
+    "tikName": "Черниговская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3301,
     "uikTvd": "4254033213453",
+    "uikName": "УИК №3301",
     "tikTvd": "22520001321769",
-    "tikName": "Чугуевская"
+    "tikName": "Чугуевская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3302,
     "uikTvd": "4254033213454",
+    "uikName": "УИК №3302",
     "tikTvd": "22520001321769",
-    "tikName": "Чугуевская"
+    "tikName": "Чугуевская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3303,
     "uikTvd": "4254033213455",
+    "uikName": "УИК №3303",
     "tikTvd": "22520001321769",
-    "tikName": "Чугуевская"
+    "tikName": "Чугуевская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3304,
     "uikTvd": "4254033213456",
+    "uikName": "УИК №3304",
     "tikTvd": "22520001321769",
-    "tikName": "Чугуевская"
+    "tikName": "Чугуевская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3305,
     "uikTvd": "4254033213457",
+    "uikName": "УИК №3305",
     "tikTvd": "22520001321769",
-    "tikName": "Чугуевская"
+    "tikName": "Чугуевская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3306,
     "uikTvd": "4254033213458",
+    "uikName": "УИК №3306",
     "tikTvd": "22520001321769",
-    "tikName": "Чугуевская"
+    "tikName": "Чугуевская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3307,
     "uikTvd": "4254033213459",
+    "uikName": "УИК №3307",
     "tikTvd": "22520001321769",
-    "tikName": "Чугуевская"
+    "tikName": "Чугуевская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3308,
     "uikTvd": "4254033213460",
+    "uikName": "УИК №3308",
     "tikTvd": "22520001321769",
-    "tikName": "Чугуевская"
+    "tikName": "Чугуевская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3309,
     "uikTvd": "4254033213461",
+    "uikName": "УИК №3309",
     "tikTvd": "22520001321769",
-    "tikName": "Чугуевская"
+    "tikName": "Чугуевская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3310,
     "uikTvd": "4254033213462",
+    "uikName": "УИК №3310",
     "tikTvd": "22520001321769",
-    "tikName": "Чугуевская"
+    "tikName": "Чугуевская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3311,
     "uikTvd": "4254033213463",
+    "uikName": "УИК №3311",
     "tikTvd": "22520001321769",
-    "tikName": "Чугуевская"
+    "tikName": "Чугуевская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3312,
     "uikTvd": "4254033213464",
+    "uikName": "УИК №3312",
     "tikTvd": "22520001321769",
-    "tikName": "Чугуевская"
+    "tikName": "Чугуевская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3313,
     "uikTvd": "4254033213465",
+    "uikName": "УИК №3313",
     "tikTvd": "22520001321769",
-    "tikName": "Чугуевская"
+    "tikName": "Чугуевская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3314,
     "uikTvd": "4254033213466",
+    "uikName": "УИК №3314",
     "tikTvd": "22520001321769",
-    "tikName": "Чугуевская"
+    "tikName": "Чугуевская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3315,
     "uikTvd": "4254033213467",
+    "uikName": "УИК №3315",
     "tikTvd": "22520001321769",
-    "tikName": "Чугуевская"
+    "tikName": "Чугуевская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3316,
     "uikTvd": "4254033213468",
+    "uikName": "УИК №3316",
     "tikTvd": "22520001321769",
-    "tikName": "Чугуевская"
+    "tikName": "Чугуевская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3317,
     "uikTvd": "4254033213469",
+    "uikName": "УИК №3317",
     "tikTvd": "22520001321769",
-    "tikName": "Чугуевская"
+    "tikName": "Чугуевская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3318,
     "uikTvd": "4254033213470",
+    "uikName": "УИК №3318",
     "tikTvd": "22520001321769",
-    "tikName": "Чугуевская"
+    "tikName": "Чугуевская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3319,
     "uikTvd": "4254033213471",
+    "uikName": "УИК №3319",
     "tikTvd": "22520001321769",
-    "tikName": "Чугуевская"
+    "tikName": "Чугуевская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3320,
     "uikTvd": "4254033213472",
+    "uikName": "УИК №3320",
     "tikTvd": "22520001321769",
-    "tikName": "Чугуевская"
+    "tikName": "Чугуевская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3321,
     "uikTvd": "4254033213473",
+    "uikName": "УИК №3321",
     "tikTvd": "22520001321769",
-    "tikName": "Чугуевская"
+    "tikName": "Чугуевская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3322,
     "uikTvd": "4254033213474",
+    "uikName": "УИК №3322",
     "tikTvd": "22520001321769",
-    "tikName": "Чугуевская"
+    "tikName": "Чугуевская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3323,
     "uikTvd": "4254033213475",
+    "uikName": "УИК №3323",
     "tikTvd": "22520001321769",
-    "tikName": "Чугуевская"
+    "tikName": "Чугуевская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3324,
     "uikTvd": "4254033213476",
+    "uikName": "УИК №3324",
     "tikTvd": "22520001321769",
-    "tikName": "Чугуевская"
+    "tikName": "Чугуевская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3325,
     "uikTvd": "4254033213477",
+    "uikName": "УИК №3325",
     "tikTvd": "22520001321769",
-    "tikName": "Чугуевская"
+    "tikName": "Чугуевская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3326,
     "uikTvd": "4254033213478",
+    "uikName": "УИК №3326",
     "tikTvd": "22520001321769",
-    "tikName": "Чугуевская"
+    "tikName": "Чугуевская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3327,
     "uikTvd": "4254033213479",
+    "uikName": "УИК №3327",
     "tikTvd": "22520001321769",
-    "tikName": "Чугуевская"
+    "tikName": "Чугуевская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3328,
     "uikTvd": "4254033213480",
+    "uikName": "УИК №3328",
     "tikTvd": "22520001321769",
-    "tikName": "Чугуевская"
+    "tikName": "Чугуевская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3329,
     "uikTvd": "4254033213481",
+    "uikName": "УИК №3329",
     "tikTvd": "22520001321769",
-    "tikName": "Чугуевская"
+    "tikName": "Чугуевская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3330,
     "uikTvd": "4254033213482",
+    "uikName": "УИК №3330",
     "tikTvd": "22520001321769",
-    "tikName": "Чугуевская"
+    "tikName": "Чугуевская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3331,
     "uikTvd": "4254033213483",
+    "uikName": "УИК №3331",
     "tikTvd": "22520001321769",
-    "tikName": "Чугуевская"
+    "tikName": "Чугуевская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3332,
     "uikTvd": "4254033213484",
+    "uikName": "УИК №3332",
     "tikTvd": "22520001321769",
-    "tikName": "Чугуевская"
+    "tikName": "Чугуевская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3333,
     "uikTvd": "4254033213485",
+    "uikName": "УИК №3333",
     "tikTvd": "22520001321769",
-    "tikName": "Чугуевская"
+    "tikName": "Чугуевская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3334,
     "uikTvd": "4254033213486",
+    "uikName": "УИК №3334",
     "tikTvd": "22520001321769",
-    "tikName": "Чугуевская"
+    "tikName": "Чугуевская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3401,
     "uikTvd": "4254034207307",
+    "uikName": "УИК №3401",
     "tikTvd": "22520001321776",
-    "tikName": "Фокинская городская"
+    "tikName": "Фокинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3402,
     "uikTvd": "4254034207308",
+    "uikName": "УИК №3402",
     "tikTvd": "22520001321776",
-    "tikName": "Фокинская городская"
+    "tikName": "Фокинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3403,
     "uikTvd": "4254034207309",
+    "uikName": "УИК №3403",
     "tikTvd": "22520001321776",
-    "tikName": "Фокинская городская"
+    "tikName": "Фокинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3404,
     "uikTvd": "4254034207310",
+    "uikName": "УИК №3404",
     "tikTvd": "22520001321776",
-    "tikName": "Фокинская городская"
+    "tikName": "Фокинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3405,
     "uikTvd": "4254034207311",
+    "uikName": "УИК №3405",
     "tikTvd": "22520001321776",
-    "tikName": "Фокинская городская"
+    "tikName": "Фокинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3406,
     "uikTvd": "4254034207312",
+    "uikName": "УИК №3406",
     "tikTvd": "22520001321776",
-    "tikName": "Фокинская городская"
+    "tikName": "Фокинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3407,
     "uikTvd": "4254034207313",
+    "uikName": "УИК №3407",
     "tikTvd": "22520001321776",
-    "tikName": "Фокинская городская"
+    "tikName": "Фокинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3408,
     "uikTvd": "4254034207314",
+    "uikName": "УИК №3408",
     "tikTvd": "22520001321776",
-    "tikName": "Фокинская городская"
+    "tikName": "Фокинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3409,
     "uikTvd": "4254034207315",
+    "uikName": "УИК №3409",
     "tikTvd": "22520001321776",
-    "tikName": "Фокинская городская"
+    "tikName": "Фокинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3410,
     "uikTvd": "4254034207316",
+    "uikName": "УИК №3410",
     "tikTvd": "22520001321776",
-    "tikName": "Фокинская городская"
+    "tikName": "Фокинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3411,
     "uikTvd": "4254034207317",
+    "uikName": "УИК №3411",
     "tikTvd": "22520001321776",
-    "tikName": "Фокинская городская"
+    "tikName": "Фокинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3412,
     "uikTvd": "4254034207318",
+    "uikName": "УИК №3412",
     "tikTvd": "22520001321776",
-    "tikName": "Фокинская городская"
+    "tikName": "Фокинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3413,
     "uikTvd": "4254034207319",
+    "uikName": "УИК №3413",
     "tikTvd": "22520001321776",
-    "tikName": "Фокинская городская"
+    "tikName": "Фокинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3414,
     "uikTvd": "4254034207320",
+    "uikName": "УИК №3414",
     "tikTvd": "22520001321776",
-    "tikName": "Фокинская городская"
+    "tikName": "Фокинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3415,
     "uikTvd": "4254034207321",
+    "uikName": "УИК №3415",
     "tikTvd": "22520001321776",
-    "tikName": "Фокинская городская"
+    "tikName": "Фокинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3416,
     "uikTvd": "4254034207322",
+    "uikName": "УИК №3416",
     "tikTvd": "22520001321776",
-    "tikName": "Фокинская городская"
+    "tikName": "Фокинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3417,
     "uikTvd": "4254034207323",
+    "uikName": "УИК №3417",
     "tikTvd": "22520001321776",
-    "tikName": "Фокинская городская"
+    "tikName": "Фокинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3418,
     "uikTvd": "4254034207324",
+    "uikName": "УИК №3418",
     "tikTvd": "22520001321776",
-    "tikName": "Фокинская городская"
+    "tikName": "Фокинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3419,
     "uikTvd": "4254034207325",
+    "uikName": "УИК №3419",
     "tikTvd": "22520001321776",
-    "tikName": "Фокинская городская"
+    "tikName": "Фокинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3420,
     "uikTvd": "4254034207326",
+    "uikName": "УИК №3420",
     "tikTvd": "22520001321776",
-    "tikName": "Фокинская городская"
+    "tikName": "Фокинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3421,
     "uikTvd": "4254034207327",
+    "uikName": "УИК №3421",
     "tikTvd": "22520001321776",
-    "tikName": "Фокинская городская"
+    "tikName": "Фокинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3422,
     "uikTvd": "4254034207328",
+    "uikName": "УИК №3422",
     "tikTvd": "22520001321776",
-    "tikName": "Фокинская городская"
+    "tikName": "Фокинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3480,
     "uikTvd": "4254034207916",
+    "uikName": "УИК №3480",
     "tikTvd": "22520001321776",
-    "tikName": "Фокинская городская"
+    "tikName": "Фокинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3501,
     "uikTvd": "4254035179216",
+    "uikName": "УИК №3501",
     "tikTvd": "22520001321777",
-    "tikName": "Яковлевская"
+    "tikName": "Яковлевская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3502,
     "uikTvd": "4254035179218",
+    "uikName": "УИК №3502",
     "tikTvd": "22520001321777",
-    "tikName": "Яковлевская"
+    "tikName": "Яковлевская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3503,
     "uikTvd": "4254035179220",
+    "uikName": "УИК №3503",
     "tikTvd": "22520001321777",
-    "tikName": "Яковлевская"
+    "tikName": "Яковлевская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3504,
     "uikTvd": "4254035179222",
+    "uikName": "УИК №3504",
     "tikTvd": "22520001321777",
-    "tikName": "Яковлевская"
+    "tikName": "Яковлевская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3505,
     "uikTvd": "4254035179224",
+    "uikName": "УИК №3505",
     "tikTvd": "22520001321777",
-    "tikName": "Яковлевская"
+    "tikName": "Яковлевская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3506,
     "uikTvd": "4254035179226",
+    "uikName": "УИК №3506",
     "tikTvd": "22520001321777",
-    "tikName": "Яковлевская"
+    "tikName": "Яковлевская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3507,
     "uikTvd": "4254035179228",
+    "uikName": "УИК №3507",
     "tikTvd": "22520001321777",
-    "tikName": "Яковлевская"
+    "tikName": "Яковлевская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3508,
     "uikTvd": "4254035179230",
+    "uikName": "УИК №3508",
     "tikTvd": "22520001321777",
-    "tikName": "Яковлевская"
+    "tikName": "Яковлевская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3509,
     "uikTvd": "4254035179232",
+    "uikName": "УИК №3509",
     "tikTvd": "22520001321777",
-    "tikName": "Яковлевская"
+    "tikName": "Яковлевская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3510,
     "uikTvd": "4254035179234",
+    "uikName": "УИК №3510",
     "tikTvd": "22520001321777",
-    "tikName": "Яковлевская"
+    "tikName": "Яковлевская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3511,
     "uikTvd": "4254035179236",
+    "uikName": "УИК №3511",
     "tikTvd": "22520001321777",
-    "tikName": "Яковлевская"
+    "tikName": "Яковлевская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3512,
     "uikTvd": "4254035179238",
+    "uikName": "УИК №3512",
     "tikTvd": "22520001321777",
-    "tikName": "Яковлевская"
+    "tikName": "Яковлевская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3513,
     "uikTvd": "4254035179240",
+    "uikName": "УИК №3513",
     "tikTvd": "22520001321777",
-    "tikName": "Яковлевская"
+    "tikName": "Яковлевская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3514,
     "uikTvd": "4254035179242",
+    "uikName": "УИК №3514",
     "tikTvd": "22520001321777",
-    "tikName": "Яковлевская"
+    "tikName": "Яковлевская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3515,
     "uikTvd": "4254035179244",
+    "uikName": "УИК №3515",
     "tikTvd": "22520001321777",
-    "tikName": "Яковлевская"
+    "tikName": "Яковлевская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3516,
     "uikTvd": "4254035179246",
+    "uikName": "УИК №3516",
     "tikTvd": "22520001321777",
-    "tikName": "Яковлевская"
+    "tikName": "Яковлевская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3517,
     "uikTvd": "4254035179248",
+    "uikName": "УИК №3517",
     "tikTvd": "22520001321777",
-    "tikName": "Яковлевская"
+    "tikName": "Яковлевская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3518,
     "uikTvd": "4254035179250",
+    "uikName": "УИК №3518",
     "tikTvd": "22520001321777",
-    "tikName": "Яковлевская"
+    "tikName": "Яковлевская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3519,
     "uikTvd": "4254035179252",
+    "uikName": "УИК №3519",
     "tikTvd": "22520001321777",
-    "tikName": "Яковлевская"
+    "tikName": "Яковлевская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3520,
     "uikTvd": "4254035179254",
+    "uikName": "УИК №3520",
     "tikTvd": "22520001321777",
-    "tikName": "Яковлевская"
+    "tikName": "Яковлевская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3521,
     "uikTvd": "4254035179256",
+    "uikName": "УИК №3521",
     "tikTvd": "22520001321777",
-    "tikName": "Яковлевская"
+    "tikName": "Яковлевская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3522,
     "uikTvd": "4254035179258",
+    "uikName": "УИК №3522",
     "tikTvd": "22520001321777",
-    "tikName": "Яковлевская"
+    "tikName": "Яковлевская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3523,
     "uikTvd": "4254035179260",
+    "uikName": "УИК №3523",
     "tikTvd": "22520001321777",
-    "tikName": "Яковлевская"
+    "tikName": "Яковлевская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3524,
     "uikTvd": "4254035179262",
+    "uikName": "УИК №3524",
     "tikTvd": "22520001321777",
-    "tikName": "Яковлевская"
+    "tikName": "Яковлевская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3601,
     "uikTvd": "4254036249075",
+    "uikName": "УИК №3601",
     "tikTvd": "22520001321758",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3602,
     "uikTvd": "4254036249077",
+    "uikName": "УИК №3602",
     "tikTvd": "22520001321758",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3603,
     "uikTvd": "4254036249078",
+    "uikName": "УИК №3603",
     "tikTvd": "22520001321758",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3604,
     "uikTvd": "4254036249079",
+    "uikName": "УИК №3604",
     "tikTvd": "22520001321758",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3605,
     "uikTvd": "4254036249080",
+    "uikName": "УИК №3605",
     "tikTvd": "22520001321758",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3606,
     "uikTvd": "4254036249081",
+    "uikName": "УИК №3606",
     "tikTvd": "22520001321758",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3607,
     "uikTvd": "4254036249082",
+    "uikName": "УИК №3607",
     "tikTvd": "22520001321758",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3608,
     "uikTvd": "4254036249083",
+    "uikName": "УИК №3608",
     "tikTvd": "22520001321758",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3609,
     "uikTvd": "4254036249084",
+    "uikName": "УИК №3609",
     "tikTvd": "22520001321758",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3610,
     "uikTvd": "4254036249085",
+    "uikName": "УИК №3610",
     "tikTvd": "22520001321758",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3611,
     "uikTvd": "4254036249086",
+    "uikName": "УИК №3611",
     "tikTvd": "22520001321758",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3612,
     "uikTvd": "4254036249087",
+    "uikName": "УИК №3612",
     "tikTvd": "22520001321758",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3613,
     "uikTvd": "4254036249088",
+    "uikName": "УИК №3613",
     "tikTvd": "22520001321758",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3614,
     "uikTvd": "4254036249089",
+    "uikName": "УИК №3614",
     "tikTvd": "22520001321758",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3615,
     "uikTvd": "4254036249090",
+    "uikName": "УИК №3615",
     "tikTvd": "22520001321758",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3616,
     "uikTvd": "4254036249091",
+    "uikName": "УИК №3616",
     "tikTvd": "22520001321758",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3617,
     "uikTvd": "4254036249092",
+    "uikName": "УИК №3617",
     "tikTvd": "22520001321758",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3618,
     "uikTvd": "4254036249093",
+    "uikName": "УИК №3618",
     "tikTvd": "22520001321758",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3619,
     "uikTvd": "4254036249094",
+    "uikName": "УИК №3619",
     "tikTvd": "22520001321758",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3620,
     "uikTvd": "4254036249095",
+    "uikName": "УИК №3620",
     "tikTvd": "22520001321758",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3621,
     "uikTvd": "4254036249096",
+    "uikName": "УИК №3621",
     "tikTvd": "22520001321758",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3622,
     "uikTvd": "4254036249097",
+    "uikName": "УИК №3622",
     "tikTvd": "22520001321758",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3623,
     "uikTvd": "4254036249098",
+    "uikName": "УИК №3623",
     "tikTvd": "22520001321758",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3624,
     "uikTvd": "4254036249099",
+    "uikName": "УИК №3624",
     "tikTvd": "22520001321758",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3625,
     "uikTvd": "4254036249100",
+    "uikName": "УИК №3625",
     "tikTvd": "22520001321758",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3626,
     "uikTvd": "4254036249101",
+    "uikName": "УИК №3626",
     "tikTvd": "22520001321758",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3627,
     "uikTvd": "4254036249102",
+    "uikName": "УИК №3627",
     "tikTvd": "22520001321758",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3628,
     "uikTvd": "4254036249103",
+    "uikName": "УИК №3628",
     "tikTvd": "22520001321758",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3629,
     "uikTvd": "4254036249104",
+    "uikName": "УИК №3629",
     "tikTvd": "22520001321758",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3630,
     "uikTvd": "4254036249105",
+    "uikName": "УИК №3630",
     "tikTvd": "22520001321758",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3631,
     "uikTvd": "4254036249106",
+    "uikName": "УИК №3631",
     "tikTvd": "22520001321758",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3632,
     "uikTvd": "4254036249107",
+    "uikName": "УИК №3632",
     "tikTvd": "22520001321758",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3633,
     "uikTvd": "4254036249108",
+    "uikName": "УИК №3633",
     "tikTvd": "22520001321758",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3634,
     "uikTvd": "4254036249109",
+    "uikName": "УИК №3634",
     "tikTvd": "22520001321758",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3635,
     "uikTvd": "4254036249110",
+    "uikName": "УИК №3635",
     "tikTvd": "22520001321758",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3636,
     "uikTvd": "4254036249111",
+    "uikName": "УИК №3636",
     "tikTvd": "22520001321758",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3637,
     "uikTvd": "4254036249112",
+    "uikName": "УИК №3637",
     "tikTvd": "22520001321758",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3638,
     "uikTvd": "4254036249113",
+    "uikName": "УИК №3638",
     "tikTvd": "22520001321758",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3639,
     "uikTvd": "4254036249114",
+    "uikName": "УИК №3639",
     "tikTvd": "22520001321758",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3640,
     "uikTvd": "4254036249115",
+    "uikName": "УИК №3640",
     "tikTvd": "22520001321758",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3641,
     "uikTvd": "4254036249116",
+    "uikName": "УИК №3641",
     "tikTvd": "22520001321758",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3642,
     "uikTvd": "4254036249117",
+    "uikName": "УИК №3642",
     "tikTvd": "22520001321758",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3643,
     "uikTvd": "4254036249118",
+    "uikName": "УИК №3643",
     "tikTvd": "22520001321758",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3680,
     "uikTvd": "4254036249524",
+    "uikName": "УИК №3680",
     "tikTvd": "22520001321758",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3701,
     "uikTvd": "4254037201896",
+    "uikName": "УИК №3701",
     "tikTvd": "22520001321756",
-    "tikName": "Дальнереченская"
+    "tikName": "Дальнереченская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3702,
     "uikTvd": "4254037201897",
+    "uikName": "УИК №3702",
     "tikTvd": "22520001321756",
-    "tikName": "Дальнереченская"
+    "tikName": "Дальнереченская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3703,
     "uikTvd": "4254037201898",
+    "uikName": "УИК №3703",
     "tikTvd": "22520001321756",
-    "tikName": "Дальнереченская"
+    "tikName": "Дальнереченская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3704,
     "uikTvd": "4254037201899",
+    "uikName": "УИК №3704",
     "tikTvd": "22520001321756",
-    "tikName": "Дальнереченская"
+    "tikName": "Дальнереченская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3705,
     "uikTvd": "4254037201900",
+    "uikName": "УИК №3705",
     "tikTvd": "22520001321756",
-    "tikName": "Дальнереченская"
+    "tikName": "Дальнереченская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3706,
     "uikTvd": "4254037201901",
+    "uikName": "УИК №3706",
     "tikTvd": "22520001321756",
-    "tikName": "Дальнереченская"
+    "tikName": "Дальнереченская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3707,
     "uikTvd": "4254037201902",
+    "uikName": "УИК №3707",
     "tikTvd": "22520001321756",
-    "tikName": "Дальнереченская"
+    "tikName": "Дальнереченская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3708,
     "uikTvd": "4254037201903",
+    "uikName": "УИК №3708",
     "tikTvd": "22520001321756",
-    "tikName": "Дальнереченская"
+    "tikName": "Дальнереченская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3709,
     "uikTvd": "4254037201904",
+    "uikName": "УИК №3709",
     "tikTvd": "22520001321756",
-    "tikName": "Дальнереченская"
+    "tikName": "Дальнереченская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3710,
     "uikTvd": "4254037201905",
+    "uikName": "УИК №3710",
     "tikTvd": "22520001321756",
-    "tikName": "Дальнереченская"
+    "tikName": "Дальнереченская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3711,
     "uikTvd": "4254037201906",
+    "uikName": "УИК №3711",
     "tikTvd": "22520001321756",
-    "tikName": "Дальнереченская"
+    "tikName": "Дальнереченская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3712,
     "uikTvd": "4254037201907",
+    "uikName": "УИК №3712",
     "tikTvd": "22520001321756",
-    "tikName": "Дальнереченская"
+    "tikName": "Дальнереченская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3713,
     "uikTvd": "4254037201908",
+    "uikName": "УИК №3713",
     "tikTvd": "22520001321756",
-    "tikName": "Дальнереченская"
+    "tikName": "Дальнереченская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3714,
     "uikTvd": "4254037201909",
+    "uikName": "УИК №3714",
     "tikTvd": "22520001321756",
-    "tikName": "Дальнереченская"
+    "tikName": "Дальнереченская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3715,
     "uikTvd": "4254037201910",
+    "uikName": "УИК №3715",
     "tikTvd": "22520001321756",
-    "tikName": "Дальнереченская"
+    "tikName": "Дальнереченская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3716,
     "uikTvd": "4254037201911",
+    "uikName": "УИК №3716",
     "tikTvd": "22520001321756",
-    "tikName": "Дальнереченская"
+    "tikName": "Дальнереченская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3717,
     "uikTvd": "4254037201912",
+    "uikName": "УИК №3717",
     "tikTvd": "22520001321756",
-    "tikName": "Дальнереченская"
+    "tikName": "Дальнереченская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3718,
     "uikTvd": "4254037201913",
+    "uikName": "УИК №3718",
     "tikTvd": "22520001321756",
-    "tikName": "Дальнереченская"
+    "tikName": "Дальнереченская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3719,
     "uikTvd": "4254037201914",
+    "uikName": "УИК №3719",
     "tikTvd": "22520001321756",
-    "tikName": "Дальнереченская"
+    "tikName": "Дальнереченская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3720,
     "uikTvd": "4254037201915",
+    "uikName": "УИК №3720",
     "tikTvd": "22520001321756",
-    "tikName": "Дальнереченская"
+    "tikName": "Дальнереченская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3721,
     "uikTvd": "4254037201916",
+    "uikName": "УИК №3721",
     "tikTvd": "22520001321756",
-    "tikName": "Дальнереченская"
+    "tikName": "Дальнереченская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3722,
     "uikTvd": "4254037201917",
+    "uikName": "УИК №3722",
     "tikTvd": "22520001321756",
-    "tikName": "Дальнереченская"
+    "tikName": "Дальнереченская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3723,
     "uikTvd": "4254037201918",
+    "uikName": "УИК №3723",
     "tikTvd": "22520001321756",
-    "tikName": "Дальнереченская"
+    "tikName": "Дальнереченская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3724,
     "uikTvd": "4254037201919",
+    "uikName": "УИК №3724",
     "tikTvd": "22520001321756",
-    "tikName": "Дальнереченская"
+    "tikName": "Дальнереченская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3725,
     "uikTvd": "4254037201920",
+    "uikName": "УИК №3725",
     "tikTvd": "22520001321756",
-    "tikName": "Дальнереченская"
+    "tikName": "Дальнереченская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3801,
     "uikTvd": "4254028353117",
+    "uikName": "УИК №3801",
     "tikTvd": "22520001321749",
-    "tikName": "Уссурийская городская"
+    "tikName": "Уссурийская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3802,
     "uikTvd": "4254028353118",
+    "uikName": "УИК №3802",
     "tikTvd": "22520001321749",
-    "tikName": "Уссурийская городская"
+    "tikName": "Уссурийская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3803,
     "uikTvd": "4254028353119",
+    "uikName": "УИК №3803",
     "tikTvd": "22520001321749",
-    "tikName": "Уссурийская городская"
+    "tikName": "Уссурийская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3804,
     "uikTvd": "4254028353120",
+    "uikName": "УИК №3804",
     "tikTvd": "22520001321749",
-    "tikName": "Уссурийская городская"
+    "tikName": "Уссурийская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3805,
     "uikTvd": "4254028353121",
+    "uikName": "УИК №3805",
     "tikTvd": "22520001321749",
-    "tikName": "Уссурийская городская"
+    "tikName": "Уссурийская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3806,
     "uikTvd": "4254028353122",
+    "uikName": "УИК №3806",
     "tikTvd": "22520001321749",
-    "tikName": "Уссурийская городская"
+    "tikName": "Уссурийская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3807,
     "uikTvd": "4254028353123",
+    "uikName": "УИК №3807",
     "tikTvd": "22520001321749",
-    "tikName": "Уссурийская городская"
+    "tikName": "Уссурийская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3808,
     "uikTvd": "4254028353124",
+    "uikName": "УИК №3808",
     "tikTvd": "22520001321749",
-    "tikName": "Уссурийская городская"
+    "tikName": "Уссурийская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3809,
     "uikTvd": "4254028353125",
+    "uikName": "УИК №3809",
     "tikTvd": "22520001321749",
-    "tikName": "Уссурийская городская"
+    "tikName": "Уссурийская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3810,
     "uikTvd": "4254028353126",
+    "uikName": "УИК №3810",
     "tikTvd": "22520001321749",
-    "tikName": "Уссурийская городская"
+    "tikName": "Уссурийская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3811,
     "uikTvd": "4254028353127",
+    "uikName": "УИК №3811",
     "tikTvd": "22520001321749",
-    "tikName": "Уссурийская городская"
+    "tikName": "Уссурийская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3812,
     "uikTvd": "4254028353128",
+    "uikName": "УИК №3812",
     "tikTvd": "22520001321749",
-    "tikName": "Уссурийская городская"
+    "tikName": "Уссурийская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3813,
     "uikTvd": "4254028353129",
+    "uikName": "УИК №3813",
     "tikTvd": "22520001321749",
-    "tikName": "Уссурийская городская"
+    "tikName": "Уссурийская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3814,
     "uikTvd": "4254028353130",
+    "uikName": "УИК №3814",
     "tikTvd": "22520001321749",
-    "tikName": "Уссурийская городская"
+    "tikName": "Уссурийская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3815,
     "uikTvd": "4254028353131",
+    "uikName": "УИК №3815",
     "tikTvd": "22520001321749",
-    "tikName": "Уссурийская городская"
+    "tikName": "Уссурийская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3816,
     "uikTvd": "4254028353132",
+    "uikName": "УИК №3816",
     "tikTvd": "22520001321749",
-    "tikName": "Уссурийская городская"
+    "tikName": "Уссурийская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3817,
     "uikTvd": "4254028353133",
+    "uikName": "УИК №3817",
     "tikTvd": "22520001321749",
-    "tikName": "Уссурийская городская"
+    "tikName": "Уссурийская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3818,
     "uikTvd": "4254028353134",
+    "uikName": "УИК №3818",
     "tikTvd": "22520001321749",
-    "tikName": "Уссурийская городская"
+    "tikName": "Уссурийская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3819,
     "uikTvd": "4254028353135",
+    "uikName": "УИК №3819",
     "tikTvd": "22520001321749",
-    "tikName": "Уссурийская городская"
+    "tikName": "Уссурийская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3820,
     "uikTvd": "4254028353136",
+    "uikName": "УИК №3820",
     "tikTvd": "22520001321749",
-    "tikName": "Уссурийская городская"
+    "tikName": "Уссурийская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3821,
     "uikTvd": "4254028353137",
+    "uikName": "УИК №3821",
     "tikTvd": "22520001321749",
-    "tikName": "Уссурийская городская"
+    "tikName": "Уссурийская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3822,
     "uikTvd": "4254028353138",
+    "uikName": "УИК №3822",
     "tikTvd": "22520001321749",
-    "tikName": "Уссурийская городская"
+    "tikName": "Уссурийская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3823,
     "uikTvd": "4254028353139",
+    "uikName": "УИК №3823",
     "tikTvd": "22520001321749",
-    "tikName": "Уссурийская городская"
+    "tikName": "Уссурийская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3824,
     "uikTvd": "4254028353140",
+    "uikName": "УИК №3824",
     "tikTvd": "22520001321749",
-    "tikName": "Уссурийская городская"
+    "tikName": "Уссурийская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3825,
     "uikTvd": "4254028353141",
+    "uikName": "УИК №3825",
     "tikTvd": "22520001321749",
-    "tikName": "Уссурийская городская"
+    "tikName": "Уссурийская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3826,
     "uikTvd": "4254028353142",
+    "uikName": "УИК №3826",
     "tikTvd": "22520001321749",
-    "tikName": "Уссурийская городская"
+    "tikName": "Уссурийская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3827,
     "uikTvd": "4254028353143",
+    "uikName": "УИК №3827",
     "tikTvd": "22520001321749",
-    "tikName": "Уссурийская городская"
+    "tikName": "Уссурийская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3828,
     "uikTvd": "4254028353144",
+    "uikName": "УИК №3828",
     "tikTvd": "22520001321749",
-    "tikName": "Уссурийская городская"
+    "tikName": "Уссурийская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3829,
     "uikTvd": "4254028353145",
+    "uikName": "УИК №3829",
     "tikTvd": "22520001321749",
-    "tikName": "Уссурийская городская"
+    "tikName": "Уссурийская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3830,
     "uikTvd": "4254028353146",
+    "uikName": "УИК №3830",
     "tikTvd": "22520001321749",
-    "tikName": "Уссурийская городская"
+    "tikName": "Уссурийская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3831,
     "uikTvd": "4254028353147",
+    "uikName": "УИК №3831",
     "tikTvd": "22520001321749",
-    "tikName": "Уссурийская городская"
+    "tikName": "Уссурийская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3901,
     "uikTvd": "4254039211268",
+    "uikName": "УИК №3901",
     "tikTvd": "22520001321772",
-    "tikName": "Шкотовская"
+    "tikName": "Шкотовская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3902,
     "uikTvd": "4254039211269",
+    "uikName": "УИК №3902",
     "tikTvd": "22520001321772",
-    "tikName": "Шкотовская"
+    "tikName": "Шкотовская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3903,
     "uikTvd": "4254039211270",
+    "uikName": "УИК №3903",
     "tikTvd": "22520001321772",
-    "tikName": "Шкотовская"
+    "tikName": "Шкотовская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3904,
     "uikTvd": "4254039211271",
+    "uikName": "УИК №3904",
     "tikTvd": "22520001321772",
-    "tikName": "Шкотовская"
+    "tikName": "Шкотовская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3905,
     "uikTvd": "4254039211272",
+    "uikName": "УИК №3905",
     "tikTvd": "22520001321772",
-    "tikName": "Шкотовская"
+    "tikName": "Шкотовская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3906,
     "uikTvd": "4254039211273",
+    "uikName": "УИК №3906",
     "tikTvd": "22520001321772",
-    "tikName": "Шкотовская"
+    "tikName": "Шкотовская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3907,
     "uikTvd": "4254039211274",
+    "uikName": "УИК №3907",
     "tikTvd": "22520001321772",
-    "tikName": "Шкотовская"
+    "tikName": "Шкотовская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3908,
     "uikTvd": "4254039211275",
+    "uikName": "УИК №3908",
     "tikTvd": "22520001321772",
-    "tikName": "Шкотовская"
+    "tikName": "Шкотовская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3909,
     "uikTvd": "4254039211276",
+    "uikName": "УИК №3909",
     "tikTvd": "22520001321772",
-    "tikName": "Шкотовская"
+    "tikName": "Шкотовская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3910,
     "uikTvd": "4254039211277",
+    "uikName": "УИК №3910",
     "tikTvd": "22520001321772",
-    "tikName": "Шкотовская"
+    "tikName": "Шкотовская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3911,
     "uikTvd": "4254039211278",
+    "uikName": "УИК №3911",
     "tikTvd": "22520001321772",
-    "tikName": "Шкотовская"
+    "tikName": "Шкотовская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3912,
     "uikTvd": "4254039211279",
+    "uikName": "УИК №3912",
     "tikTvd": "22520001321772",
-    "tikName": "Шкотовская"
+    "tikName": "Шкотовская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3913,
     "uikTvd": "4254039211280",
+    "uikName": "УИК №3913",
     "tikTvd": "22520001321772",
-    "tikName": "Шкотовская"
+    "tikName": "Шкотовская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3914,
     "uikTvd": "4254039211281",
+    "uikName": "УИК №3914",
     "tikTvd": "22520001321772",
-    "tikName": "Шкотовская"
+    "tikName": "Шкотовская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3915,
     "uikTvd": "4254039211282",
+    "uikName": "УИК №3915",
     "tikTvd": "22520001321772",
-    "tikName": "Шкотовская"
+    "tikName": "Шкотовская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3916,
     "uikTvd": "4254039211283",
+    "uikName": "УИК №3916",
     "tikTvd": "22520001321772",
-    "tikName": "Шкотовская"
+    "tikName": "Шкотовская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3917,
     "uikTvd": "4254039211284",
+    "uikName": "УИК №3917",
     "tikTvd": "22520001321772",
-    "tikName": "Шкотовская"
+    "tikName": "Шкотовская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3918,
     "uikTvd": "4254039211285",
+    "uikName": "УИК №3918",
     "tikTvd": "22520001321772",
-    "tikName": "Шкотовская"
+    "tikName": "Шкотовская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3919,
     "uikTvd": "4254039211286",
+    "uikName": "УИК №3919",
     "tikTvd": "22520001321772",
-    "tikName": "Шкотовская"
+    "tikName": "Шкотовская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3920,
     "uikTvd": "4254039211287",
+    "uikName": "УИК №3920",
     "tikTvd": "22520001321772",
-    "tikName": "Шкотовская"
+    "tikName": "Шкотовская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3921,
     "uikTvd": "4254039211288",
+    "uikName": "УИК №3921",
     "tikTvd": "22520001321772",
-    "tikName": "Шкотовская"
+    "tikName": "Шкотовская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3922,
     "uikTvd": "4254039211289",
+    "uikName": "УИК №3922",
     "tikTvd": "22520001321772",
-    "tikName": "Шкотовская"
+    "tikName": "Шкотовская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3923,
     "uikTvd": "4254039211290",
+    "uikName": "УИК №3923",
     "tikTvd": "22520001321772",
-    "tikName": "Шкотовская"
+    "tikName": "Шкотовская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3924,
     "uikTvd": "4254039211291",
+    "uikName": "УИК №3924",
     "tikTvd": "22520001321772",
-    "tikName": "Шкотовская"
+    "tikName": "Шкотовская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 3925,
     "uikTvd": "4254039211292",
+    "uikName": "УИК №3925",
     "tikTvd": "22520001321772",
-    "tikName": "Шкотовская"
+    "tikName": "Шкотовская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5801,
     "uikTvd": "4254009434892",
+    "uikName": "УИК №5801",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5802,
     "uikTvd": "4254009434893",
+    "uikName": "УИК №5802",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5803,
     "uikTvd": "4254009434894",
+    "uikName": "УИК №5803",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5804,
     "uikTvd": "4254009434895",
+    "uikName": "УИК №5804",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5805,
     "uikTvd": "4254009434896",
+    "uikName": "УИК №5805",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5806,
     "uikTvd": "4254009434897",
+    "uikName": "УИК №5806",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5807,
     "uikTvd": "4254009434898",
+    "uikName": "УИК №5807",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5808,
     "uikTvd": "4254009434899",
+    "uikName": "УИК №5808",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5809,
     "uikTvd": "4254009434900",
+    "uikName": "УИК №5809",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5810,
     "uikTvd": "4254009434901",
+    "uikName": "УИК №5810",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5811,
     "uikTvd": "4254009434902",
+    "uikName": "УИК №5811",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5812,
     "uikTvd": "4254009434903",
+    "uikName": "УИК №5812",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5813,
     "uikTvd": "4254009434904",
+    "uikName": "УИК №5813",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5814,
     "uikTvd": "4254009434905",
+    "uikName": "УИК №5814",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5815,
     "uikTvd": "4254009434906",
+    "uikName": "УИК №5815",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5816,
     "uikTvd": "4254009434907",
+    "uikName": "УИК №5816",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5817,
     "uikTvd": "4254009434908",
+    "uikName": "УИК №5817",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5818,
     "uikTvd": "4254009434909",
+    "uikName": "УИК №5818",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5819,
     "uikTvd": "4254009434910",
+    "uikName": "УИК №5819",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5820,
     "uikTvd": "4254009434911",
+    "uikName": "УИК №5820",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5821,
     "uikTvd": "4254009434912",
+    "uikName": "УИК №5821",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5822,
     "uikTvd": "4254009434913",
+    "uikName": "УИК №5822",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5823,
     "uikTvd": "4254009434914",
+    "uikName": "УИК №5823",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5824,
     "uikTvd": "4254009434915",
+    "uikName": "УИК №5824",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5825,
     "uikTvd": "4254009434916",
+    "uikName": "УИК №5825",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5826,
     "uikTvd": "4254009434917",
+    "uikName": "УИК №5826",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5827,
     "uikTvd": "4254009434918",
+    "uikName": "УИК №5827",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5828,
     "uikTvd": "4254009434919",
+    "uikName": "УИК №5828",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5829,
     "uikTvd": "4254009434920",
+    "uikName": "УИК №5829",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5830,
     "uikTvd": "4254009434921",
+    "uikName": "УИК №5830",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5831,
     "uikTvd": "4254009434922",
+    "uikName": "УИК №5831",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5832,
     "uikTvd": "4254009434923",
+    "uikName": "УИК №5832",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5833,
     "uikTvd": "4254009434924",
+    "uikName": "УИК №5833",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5835,
     "uikTvd": "4254009434926",
+    "uikName": "УИК №5835",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5836,
     "uikTvd": "4254009434927",
+    "uikName": "УИК №5836",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5837,
     "uikTvd": "4254009434928",
+    "uikName": "УИК №5837",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5838,
     "uikTvd": "4254009434929",
+    "uikName": "УИК №5838",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5839,
     "uikTvd": "4254009434930",
+    "uikName": "УИК №5839",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5840,
     "uikTvd": "4254009434931",
+    "uikName": "УИК №5840",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5841,
     "uikTvd": "4254009434932",
+    "uikName": "УИК №5841",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5843,
     "uikTvd": "4254009434934",
+    "uikName": "УИК №5843",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5844,
     "uikTvd": "4254009434935",
+    "uikName": "УИК №5844",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5845,
     "uikTvd": "4254009434936",
+    "uikName": "УИК №5845",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5846,
     "uikTvd": "4254009434937",
+    "uikName": "УИК №5846",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5847,
     "uikTvd": "4254009434938",
+    "uikName": "УИК №5847",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5848,
     "uikTvd": "4254009434939",
+    "uikName": "УИК №5848",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5849,
     "uikTvd": "4254009434940",
+    "uikName": "УИК №5849",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5850,
     "uikTvd": "4254009434941",
+    "uikName": "УИК №5850",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5851,
     "uikTvd": "4254009434942",
+    "uikName": "УИК №5851",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5853,
     "uikTvd": "4254009434944",
+    "uikName": "УИК №5853",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5854,
     "uikTvd": "4254009434945",
+    "uikName": "УИК №5854",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5855,
     "uikTvd": "4254009434946",
+    "uikName": "УИК №5855",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5856,
     "uikTvd": "4254009434947",
+    "uikName": "УИК №5856",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5857,
     "uikTvd": "4254009434948",
+    "uikName": "УИК №5857",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5858,
     "uikTvd": "4254009434949",
+    "uikName": "УИК №5858",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5859,
     "uikTvd": "4254009434950",
+    "uikName": "УИК №5859",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5860,
     "uikTvd": "4254009434951",
+    "uikName": "УИК №5860",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5861,
     "uikTvd": "4254009434952",
+    "uikName": "УИК №5861",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5862,
     "uikTvd": "4254009434953",
+    "uikName": "УИК №5862",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5863,
     "uikTvd": "4254009434954",
+    "uikName": "УИК №5863",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5864,
     "uikTvd": "4254009434955",
+    "uikName": "УИК №5864",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5865,
     "uikTvd": "4254009434956",
+    "uikName": "УИК №5865",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5866,
     "uikTvd": "4254009434957",
+    "uikName": "УИК №5866",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5867,
     "uikTvd": "4254009434958",
+    "uikName": "УИК №5867",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5868,
     "uikTvd": "4254009434959",
+    "uikName": "УИК №5868",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5869,
     "uikTvd": "4254009434960",
+    "uikName": "УИК №5869",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5870,
     "uikTvd": "4254009434961",
+    "uikName": "УИК №5870",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5871,
     "uikTvd": "4254009434962",
+    "uikName": "УИК №5871",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5872,
     "uikTvd": "4254009434963",
+    "uikName": "УИК №5872",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5873,
     "uikTvd": "4254009434964",
+    "uikName": "УИК №5873",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5874,
     "uikTvd": "4254009434965",
+    "uikName": "УИК №5874",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5875,
     "uikTvd": "4254009434966",
+    "uikName": "УИК №5875",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5876,
     "uikTvd": "4254009434967",
+    "uikName": "УИК №5876",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5877,
     "uikTvd": "4254009434968",
+    "uikName": "УИК №5877",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5878,
     "uikTvd": "4254009434969",
+    "uikName": "УИК №5878",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5879,
     "uikTvd": "4254009434970",
+    "uikName": "УИК №5879",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5880,
     "uikTvd": "4254009434971",
+    "uikName": "УИК №5880",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5881,
     "uikTvd": "4254009434972",
+    "uikName": "УИК №5881",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5882,
     "uikTvd": "4254009434973",
+    "uikName": "УИК №5882",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5883,
     "uikTvd": "4254009434974",
+    "uikName": "УИК №5883",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5884,
     "uikTvd": "4254009434975",
+    "uikName": "УИК №5884",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5885,
     "uikTvd": "4254009434976",
+    "uikName": "УИК №5885",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5886,
     "uikTvd": "4254009434977",
+    "uikName": "УИК №5886",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5887,
     "uikTvd": "4254009434978",
+    "uikName": "УИК №5887",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5888,
     "uikTvd": "4254009434979",
+    "uikName": "УИК №5888",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5889,
     "uikTvd": "4254009434980",
+    "uikName": "УИК №5889",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5890,
     "uikTvd": "4254009434981",
+    "uikName": "УИК №5890",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5892,
     "uikTvd": "4254009434983",
+    "uikName": "УИК №5892",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5893,
     "uikTvd": "4254009434984",
+    "uikName": "УИК №5893",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5894,
     "uikTvd": "4254009434985",
+    "uikName": "УИК №5894",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5895,
     "uikTvd": "4254009434986",
+    "uikName": "УИК №5895",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5896,
     "uikTvd": "4254009434987",
+    "uikName": "УИК №5896",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5898,
     "uikTvd": "4254009434989",
+    "uikName": "УИК №5898",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5899,
     "uikTvd": "4254009434990",
+    "uikName": "УИК №5899",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5901,
     "uikTvd": "4254009434991",
+    "uikName": "УИК №5901",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5902,
     "uikTvd": "4254009434992",
+    "uikName": "УИК №5902",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5903,
     "uikTvd": "4254009434993",
+    "uikName": "УИК №5903",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5904,
     "uikTvd": "4254009434994",
+    "uikName": "УИК №5904",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5905,
     "uikTvd": "4254009434995",
+    "uikName": "УИК №5905",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5906,
     "uikTvd": "4254009434996",
+    "uikName": "УИК №5906",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5907,
     "uikTvd": "4254009434997",
+    "uikName": "УИК №5907",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5908,
     "uikTvd": "4254009439152",
+    "uikName": "УИК №5908",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5909,
     "uikTvd": "4254009439153",
+    "uikName": "УИК №5909",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5910,
     "uikTvd": "4254009439154",
+    "uikName": "УИК №5910",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5911,
     "uikTvd": "4254009439155",
+    "uikName": "УИК №5911",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5912,
     "uikTvd": "4254009439156",
+    "uikName": "УИК №5912",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5913,
     "uikTvd": "4254009439814",
+    "uikName": "УИК №5913",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5914,
     "uikTvd": "4254009439815",
+    "uikName": "УИК №5914",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5915,
     "uikTvd": "4254009439816",
+    "uikName": "УИК №5915",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5916,
     "uikTvd": "4254009439817",
+    "uikName": "УИК №5916",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5917,
     "uikTvd": "4254009439818",
+    "uikName": "УИК №5917",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5918,
     "uikTvd": "4254009439819",
+    "uikName": "УИК №5918",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5919,
     "uikTvd": "4254009439820",
+    "uikName": "УИК №5919",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5920,
     "uikTvd": "4254009439821",
+    "uikName": "УИК №5920",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5921,
     "uikTvd": "4254009439822",
+    "uikName": "УИК №5921",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5922,
     "uikTvd": "4254009439823",
+    "uikName": "УИК №5922",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5923,
     "uikTvd": "4254009439824",
+    "uikName": "УИК №5923",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5924,
     "uikTvd": "4254009439825",
+    "uikName": "УИК №5924",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5925,
     "uikTvd": "4254009439826",
+    "uikName": "УИК №5925",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5926,
     "uikTvd": "4254009439827",
+    "uikName": "УИК №5926",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5927,
     "uikTvd": "4254009439828",
+    "uikName": "УИК №5927",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5928,
     "uikTvd": "4254009439829",
+    "uikName": "УИК №5928",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5929,
     "uikTvd": "4254009439830",
+    "uikName": "УИК №5929",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5930,
     "uikTvd": "4254009439831",
+    "uikName": "УИК №5930",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5931,
     "uikTvd": "4254009439832",
+    "uikName": "УИК №5931",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5933,
     "uikTvd": "4254009439834",
+    "uikName": "УИК №5933",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5934,
     "uikTvd": "4254009439835",
+    "uikName": "УИК №5934",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5936,
     "uikTvd": "4254009443330",
+    "uikName": "УИК №5936",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5937,
     "uikTvd": "4254009443331",
+    "uikName": "УИК №5937",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5938,
     "uikTvd": "4254009443332",
+    "uikName": "УИК №5938",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5939,
     "uikTvd": "4254009443333",
+    "uikName": "УИК №5939",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5940,
     "uikTvd": "4254009443334",
+    "uikName": "УИК №5940",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5941,
     "uikTvd": "4254009443335",
+    "uikName": "УИК №5941",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5942,
     "uikTvd": "4254009443336",
+    "uikName": "УИК №5942",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5943,
     "uikTvd": "4254009448781",
+    "uikName": "УИК №5943",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5944,
     "uikTvd": "4254009448782",
+    "uikName": "УИК №5944",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5945,
     "uikTvd": "4254009448994",
+    "uikName": "УИК №5945",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5946,
     "uikTvd": "4254009448995",
+    "uikName": "УИК №5946",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 5947,
     "uikTvd": "4254009448996",
+    "uikName": "УИК №5947",
     "tikTvd": "22520001321767",
-    "tikName": "Владивосток, Фрунзенская"
+    "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 7101,
     "uikTvd": "4254019345549",
+    "uikName": "УИК №7101",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 7102,
     "uikTvd": "4254019345550",
+    "uikName": "УИК №7102",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 7103,
     "uikTvd": "4254019345551",
+    "uikName": "УИК №7103",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 7104,
     "uikTvd": "4254019345552",
+    "uikName": "УИК №7104",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 7105,
     "uikTvd": "4254019345553",
+    "uikName": "УИК №7105",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 7106,
     "uikTvd": "4254019345554",
+    "uikName": "УИК №7106",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 7107,
     "uikTvd": "4254019345555",
+    "uikName": "УИК №7107",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 7108,
     "uikTvd": "4254019345556",
+    "uikName": "УИК №7108",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 7109,
     "uikTvd": "4254019345557",
+    "uikName": "УИК №7109",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 7110,
     "uikTvd": "4254019345558",
+    "uikName": "УИК №7110",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 7111,
     "uikTvd": "4254019353167",
+    "uikName": "УИК №7111",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 7112,
     "uikTvd": "4254019345560",
+    "uikName": "УИК №7112",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 7113,
     "uikTvd": "4254019345561",
+    "uikName": "УИК №7113",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 7114,
     "uikTvd": "4254019345562",
+    "uikName": "УИК №7114",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 7115,
     "uikTvd": "4254019345563",
+    "uikName": "УИК №7115",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 7116,
     "uikTvd": "4254019345564",
+    "uikName": "УИК №7116",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 7117,
     "uikTvd": "4254019345565",
+    "uikName": "УИК №7117",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 7118,
     "uikTvd": "4254019345566",
+    "uikName": "УИК №7118",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 7119,
     "uikTvd": "4254019345567",
+    "uikName": "УИК №7119",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 7120,
     "uikTvd": "4254019345568",
+    "uikName": "УИК №7120",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 7121,
     "uikTvd": "4254019345569",
+    "uikName": "УИК №7121",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 7122,
     "uikTvd": "4254019345570",
+    "uikName": "УИК №7122",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 7123,
     "uikTvd": "4254019345571",
+    "uikName": "УИК №7123",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 7124,
     "uikTvd": "4254019345572",
+    "uikName": "УИК №7124",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 7125,
     "uikTvd": "4254019345573",
+    "uikName": "УИК №7125",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 7126,
     "uikTvd": "4254019345574",
+    "uikName": "УИК №7126",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 7127,
     "uikTvd": "4254019345575",
+    "uikName": "УИК №7127",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 7128,
     "uikTvd": "4254019345576",
+    "uikName": "УИК №7128",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 7129,
     "uikTvd": "4254019345577",
+    "uikName": "УИК №7129",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 7130,
     "uikTvd": "4254019345578",
+    "uikName": "УИК №7130",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 7131,
     "uikTvd": "4254019345579",
+    "uikName": "УИК №7131",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 7132,
     "uikTvd": "4254019345580",
+    "uikName": "УИК №7132",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 7134,
     "uikTvd": "4254019345582",
+    "uikName": "УИК №7134",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 7135,
     "uikTvd": "4254019345583",
+    "uikName": "УИК №7135",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 7137,
     "uikTvd": "4254019345585",
+    "uikName": "УИК №7137",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 7138,
     "uikTvd": "4254019345586",
+    "uikName": "УИК №7138",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 7139,
     "uikTvd": "4254019345587",
+    "uikName": "УИК №7139",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 7140,
     "uikTvd": "4254019345588",
+    "uikName": "УИК №7140",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 7141,
     "uikTvd": "4254019345589",
+    "uikName": "УИК №7141",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 7143,
     "uikTvd": "4254019345591",
+    "uikName": "УИК №7143",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 7144,
     "uikTvd": "4254019345592",
+    "uikName": "УИК №7144",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 7145,
     "uikTvd": "4254019345593",
+    "uikName": "УИК №7145",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 7146,
     "uikTvd": "4254019345594",
+    "uikName": "УИК №7146",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 7147,
     "uikTvd": "4254019345595",
+    "uikName": "УИК №7147",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 7148,
     "uikTvd": "4254019345596",
+    "uikName": "УИК №7148",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 7149,
     "uikTvd": "4254019345597",
+    "uikName": "УИК №7149",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 7150,
     "uikTvd": "4254019345598",
+    "uikName": "УИК №7150",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 7151,
     "uikTvd": "4254019345599",
+    "uikName": "УИК №7151",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 7152,
     "uikTvd": "4254019345600",
+    "uikName": "УИК №7152",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 7153,
     "uikTvd": "4254019345601",
+    "uikName": "УИК №7153",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 7154,
     "uikTvd": "4254019345602",
+    "uikName": "УИК №7154",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 7155,
     "uikTvd": "4254019345603",
+    "uikName": "УИК №7155",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 7156,
     "uikTvd": "4254019345604",
+    "uikName": "УИК №7156",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 7157,
     "uikTvd": "4254019345605",
+    "uikName": "УИК №7157",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 7158,
     "uikTvd": "4254019345606",
+    "uikName": "УИК №7158",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 7159,
     "uikTvd": "4254019345607",
+    "uikName": "УИК №7159",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 7160,
     "uikTvd": "4254019345608",
+    "uikName": "УИК №7160",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 7161,
     "uikTvd": "4254019345609",
+    "uikName": "УИК №7161",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 7162,
     "uikTvd": "4254019345610",
+    "uikName": "УИК №7162",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 7163,
     "uikTvd": "4254019345611",
+    "uikName": "УИК №7163",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 7164,
     "uikTvd": "4254019345612",
+    "uikName": "УИК №7164",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 7165,
     "uikTvd": "4254019353168",
+    "uikName": "УИК №7165",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 7166,
     "uikTvd": "4254019353169",
+    "uikName": "УИК №7166",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 7167,
     "uikTvd": "4254019353170",
+    "uikName": "УИК №7167",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 7168,
     "uikTvd": "4254019353171",
+    "uikName": "УИК №7168",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 7169,
     "uikTvd": "4254019353172",
+    "uikName": "УИК №7169",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 7170,
     "uikTvd": "4254019353173",
+    "uikName": "УИК №7170",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 7171,
     "uikTvd": "4254019354837",
+    "uikName": "УИК №7171",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 7174,
     "uikTvd": "4254019354840",
+    "uikName": "УИК №7174",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 7175,
     "uikTvd": "4254019354841",
+    "uikName": "УИК №7175",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 7176,
     "uikTvd": "4254019366035",
+    "uikName": "УИК №7176",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 7177,
     "uikTvd": "4254019366036",
+    "uikName": "УИК №7177",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 7178,
     "uikTvd": "4254019366037",
+    "uikName": "УИК №7178",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 7179,
     "uikTvd": "4254019366038",
+    "uikName": "УИК №7179",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 7180,
     "uikTvd": "4254019366039",
+    "uikName": "УИК №7180",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 7181,
     "uikTvd": "4254019366040",
+    "uikName": "УИК №7181",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 7184,
     "uikTvd": "4254019366043",
+    "uikName": "УИК №7184",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 7185,
     "uikTvd": "4254019366044",
+    "uikName": "УИК №7185",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   },
   {
     "uikNumber": 7186,
     "uikTvd": "4254019366045",
+    "uikName": "УИК №7186",
     "tikTvd": "22520001321761",
-    "tikName": "Находкинская городская"
+    "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100084849151",
+    "regionName": "Приморский край",
+    "district": null
   }
 ] satisfies readonly UikTikRelation[];

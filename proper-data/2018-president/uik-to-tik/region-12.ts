@@ -7,3181 +7,5831 @@ export const president_2018_uik_to_tik_region_12 = [
   {
     "uikNumber": 1,
     "uikTvd": "4124003233454",
+    "uikName": "УИК №1",
     "tikTvd": "2122000732514",
-    "tikName": "Йошкар-Олинская городская № 1"
+    "tikName": "Йошкар-Олинская городская № 1",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 2,
     "uikTvd": "4124003233455",
+    "uikName": "УИК №2",
     "tikTvd": "2122000732514",
-    "tikName": "Йошкар-Олинская городская № 1"
+    "tikName": "Йошкар-Олинская городская № 1",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 3,
     "uikTvd": "4124003233456",
+    "uikName": "УИК №3",
     "tikTvd": "2122000732514",
-    "tikName": "Йошкар-Олинская городская № 1"
+    "tikName": "Йошкар-Олинская городская № 1",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 4,
     "uikTvd": "4124003233457",
+    "uikName": "УИК №4",
     "tikTvd": "2122000732514",
-    "tikName": "Йошкар-Олинская городская № 1"
+    "tikName": "Йошкар-Олинская городская № 1",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 5,
     "uikTvd": "4124003233458",
+    "uikName": "УИК №5",
     "tikTvd": "2122000732514",
-    "tikName": "Йошкар-Олинская городская № 1"
+    "tikName": "Йошкар-Олинская городская № 1",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 6,
     "uikTvd": "4124003233459",
+    "uikName": "УИК №6",
     "tikTvd": "2122000732514",
-    "tikName": "Йошкар-Олинская городская № 1"
+    "tikName": "Йошкар-Олинская городская № 1",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 7,
     "uikTvd": "4124003233460",
+    "uikName": "УИК №7",
     "tikTvd": "2122000732514",
-    "tikName": "Йошкар-Олинская городская № 1"
+    "tikName": "Йошкар-Олинская городская № 1",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 8,
     "uikTvd": "4124003233461",
+    "uikName": "УИК №8",
     "tikTvd": "2122000732514",
-    "tikName": "Йошкар-Олинская городская № 1"
+    "tikName": "Йошкар-Олинская городская № 1",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 9,
     "uikTvd": "4124003233462",
+    "uikName": "УИК №9",
     "tikTvd": "2122000732514",
-    "tikName": "Йошкар-Олинская городская № 1"
+    "tikName": "Йошкар-Олинская городская № 1",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 10,
     "uikTvd": "4124003233463",
+    "uikName": "УИК №10",
     "tikTvd": "2122000732514",
-    "tikName": "Йошкар-Олинская городская № 1"
+    "tikName": "Йошкар-Олинская городская № 1",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 11,
     "uikTvd": "4124003233464",
+    "uikName": "УИК №11",
     "tikTvd": "2122000732514",
-    "tikName": "Йошкар-Олинская городская № 1"
+    "tikName": "Йошкар-Олинская городская № 1",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 12,
     "uikTvd": "4124003233465",
+    "uikName": "УИК №12",
     "tikTvd": "2122000732514",
-    "tikName": "Йошкар-Олинская городская № 1"
+    "tikName": "Йошкар-Олинская городская № 1",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 13,
     "uikTvd": "4124003233466",
+    "uikName": "УИК №13",
     "tikTvd": "2122000732514",
-    "tikName": "Йошкар-Олинская городская № 1"
+    "tikName": "Йошкар-Олинская городская № 1",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 14,
     "uikTvd": "4124003233467",
+    "uikName": "УИК №14",
     "tikTvd": "2122000732514",
-    "tikName": "Йошкар-Олинская городская № 1"
+    "tikName": "Йошкар-Олинская городская № 1",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 15,
     "uikTvd": "4124003233468",
+    "uikName": "УИК №15",
     "tikTvd": "2122000732514",
-    "tikName": "Йошкар-Олинская городская № 1"
+    "tikName": "Йошкар-Олинская городская № 1",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 16,
     "uikTvd": "4124003233469",
+    "uikName": "УИК №16",
     "tikTvd": "2122000732514",
-    "tikName": "Йошкар-Олинская городская № 1"
+    "tikName": "Йошкар-Олинская городская № 1",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 17,
     "uikTvd": "4124003233470",
+    "uikName": "УИК №17",
     "tikTvd": "2122000732514",
-    "tikName": "Йошкар-Олинская городская № 1"
+    "tikName": "Йошкар-Олинская городская № 1",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 18,
     "uikTvd": "4124003233471",
+    "uikName": "УИК №18",
     "tikTvd": "2122000732514",
-    "tikName": "Йошкар-Олинская городская № 1"
+    "tikName": "Йошкар-Олинская городская № 1",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 19,
     "uikTvd": "4124003233472",
+    "uikName": "УИК №19",
     "tikTvd": "2122000732514",
-    "tikName": "Йошкар-Олинская городская № 1"
+    "tikName": "Йошкар-Олинская городская № 1",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 20,
     "uikTvd": "4124003233473",
+    "uikName": "УИК №20",
     "tikTvd": "2122000732514",
-    "tikName": "Йошкар-Олинская городская № 1"
+    "tikName": "Йошкар-Олинская городская № 1",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 21,
     "uikTvd": "4124003233474",
+    "uikName": "УИК №21",
     "tikTvd": "2122000732514",
-    "tikName": "Йошкар-Олинская городская № 1"
+    "tikName": "Йошкар-Олинская городская № 1",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 22,
     "uikTvd": "4124003233475",
+    "uikName": "УИК №22",
     "tikTvd": "2122000732514",
-    "tikName": "Йошкар-Олинская городская № 1"
+    "tikName": "Йошкар-Олинская городская № 1",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 23,
     "uikTvd": "4124003233476",
+    "uikName": "УИК №23",
     "tikTvd": "2122000732514",
-    "tikName": "Йошкар-Олинская городская № 1"
+    "tikName": "Йошкар-Олинская городская № 1",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 24,
     "uikTvd": "4124003233477",
+    "uikName": "УИК №24",
     "tikTvd": "2122000732514",
-    "tikName": "Йошкар-Олинская городская № 1"
+    "tikName": "Йошкар-Олинская городская № 1",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 25,
     "uikTvd": "4124003233478",
+    "uikName": "УИК №25",
     "tikTvd": "2122000732514",
-    "tikName": "Йошкар-Олинская городская № 1"
+    "tikName": "Йошкар-Олинская городская № 1",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 26,
     "uikTvd": "4124003233479",
+    "uikName": "УИК №26",
     "tikTvd": "2122000732514",
-    "tikName": "Йошкар-Олинская городская № 1"
+    "tikName": "Йошкар-Олинская городская № 1",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 27,
     "uikTvd": "4124003233480",
+    "uikName": "УИК №27",
     "tikTvd": "2122000732514",
-    "tikName": "Йошкар-Олинская городская № 1"
+    "tikName": "Йошкар-Олинская городская № 1",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 28,
     "uikTvd": "4124003233481",
+    "uikName": "УИК №28",
     "tikTvd": "2122000732514",
-    "tikName": "Йошкар-Олинская городская № 1"
+    "tikName": "Йошкар-Олинская городская № 1",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 29,
     "uikTvd": "4124003233482",
+    "uikName": "УИК №29",
     "tikTvd": "2122000732514",
-    "tikName": "Йошкар-Олинская городская № 1"
+    "tikName": "Йошкар-Олинская городская № 1",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 30,
     "uikTvd": "4124003233483",
+    "uikName": "УИК №30",
     "tikTvd": "2122000732514",
-    "tikName": "Йошкар-Олинская городская № 1"
+    "tikName": "Йошкар-Олинская городская № 1",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 31,
     "uikTvd": "4124003233484",
+    "uikName": "УИК №31",
     "tikTvd": "2122000732514",
-    "tikName": "Йошкар-Олинская городская № 1"
+    "tikName": "Йошкар-Олинская городская № 1",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 32,
     "uikTvd": "4124003233485",
+    "uikName": "УИК №32",
     "tikTvd": "2122000732514",
-    "tikName": "Йошкар-Олинская городская № 1"
+    "tikName": "Йошкар-Олинская городская № 1",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 33,
     "uikTvd": "4124003233486",
+    "uikName": "УИК №33",
     "tikTvd": "2122000732514",
-    "tikName": "Йошкар-Олинская городская № 1"
+    "tikName": "Йошкар-Олинская городская № 1",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 34,
     "uikTvd": "4124003233487",
+    "uikName": "УИК №34",
     "tikTvd": "2122000732514",
-    "tikName": "Йошкар-Олинская городская № 1"
+    "tikName": "Йошкар-Олинская городская № 1",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 35,
     "uikTvd": "4124003233488",
+    "uikName": "УИК №35",
     "tikTvd": "2122000732514",
-    "tikName": "Йошкар-Олинская городская № 1"
+    "tikName": "Йошкар-Олинская городская № 1",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 36,
     "uikTvd": "4124003233489",
+    "uikName": "УИК №36",
     "tikTvd": "2122000732514",
-    "tikName": "Йошкар-Олинская городская № 1"
+    "tikName": "Йошкар-Олинская городская № 1",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 37,
     "uikTvd": "4124003233490",
+    "uikName": "УИК №37",
     "tikTvd": "2122000732514",
-    "tikName": "Йошкар-Олинская городская № 1"
+    "tikName": "Йошкар-Олинская городская № 1",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 38,
     "uikTvd": "4124003233491",
+    "uikName": "УИК №38",
     "tikTvd": "2122000732514",
-    "tikName": "Йошкар-Олинская городская № 1"
+    "tikName": "Йошкар-Олинская городская № 1",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 39,
     "uikTvd": "4124003233492",
+    "uikName": "УИК №39",
     "tikTvd": "2122000732514",
-    "tikName": "Йошкар-Олинская городская № 1"
+    "tikName": "Йошкар-Олинская городская № 1",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 40,
     "uikTvd": "4124003233493",
+    "uikName": "УИК №40",
     "tikTvd": "2122000732514",
-    "tikName": "Йошкар-Олинская городская № 1"
+    "tikName": "Йошкар-Олинская городская № 1",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 41,
     "uikTvd": "4124003233494",
+    "uikName": "УИК №41",
     "tikTvd": "2122000732514",
-    "tikName": "Йошкар-Олинская городская № 1"
+    "tikName": "Йошкар-Олинская городская № 1",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 42,
     "uikTvd": "4124003233495",
+    "uikName": "УИК №42",
     "tikTvd": "2122000732514",
-    "tikName": "Йошкар-Олинская городская № 1"
+    "tikName": "Йошкар-Олинская городская № 1",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 43,
     "uikTvd": "4124003233496",
+    "uikName": "УИК №43",
     "tikTvd": "2122000732514",
-    "tikName": "Йошкар-Олинская городская № 1"
+    "tikName": "Йошкар-Олинская городская № 1",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 44,
     "uikTvd": "4124003233497",
+    "uikName": "УИК №44",
     "tikTvd": "2122000732514",
-    "tikName": "Йошкар-Олинская городская № 1"
+    "tikName": "Йошкар-Олинская городская № 1",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 45,
     "uikTvd": "4124003233498",
+    "uikName": "УИК №45",
     "tikTvd": "2122000732514",
-    "tikName": "Йошкар-Олинская городская № 1"
+    "tikName": "Йошкар-Олинская городская № 1",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 46,
     "uikTvd": "4124003233499",
+    "uikName": "УИК №46",
     "tikTvd": "2122000732514",
-    "tikName": "Йошкар-Олинская городская № 1"
+    "tikName": "Йошкар-Олинская городская № 1",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 47,
     "uikTvd": "4124003233500",
+    "uikName": "УИК №47",
     "tikTvd": "2122000732514",
-    "tikName": "Йошкар-Олинская городская № 1"
+    "tikName": "Йошкар-Олинская городская № 1",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 48,
     "uikTvd": "4124003233501",
+    "uikName": "УИК №48",
     "tikTvd": "2122000732514",
-    "tikName": "Йошкар-Олинская городская № 1"
+    "tikName": "Йошкар-Олинская городская № 1",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 49,
     "uikTvd": "4124003233502",
+    "uikName": "УИК №49",
     "tikTvd": "2122000732514",
-    "tikName": "Йошкар-Олинская городская № 1"
+    "tikName": "Йошкар-Олинская городская № 1",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 50,
     "uikTvd": "4124003233503",
+    "uikName": "УИК №50",
     "tikTvd": "2122000732514",
-    "tikName": "Йошкар-Олинская городская № 1"
+    "tikName": "Йошкар-Олинская городская № 1",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 51,
     "uikTvd": "4124003233504",
+    "uikName": "УИК №51",
     "tikTvd": "2122000732514",
-    "tikName": "Йошкар-Олинская городская № 1"
+    "tikName": "Йошкар-Олинская городская № 1",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 52,
     "uikTvd": "4124003233505",
+    "uikName": "УИК №52",
     "tikTvd": "2122000732514",
-    "tikName": "Йошкар-Олинская городская № 1"
+    "tikName": "Йошкар-Олинская городская № 1",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 53,
     "uikTvd": "4124003233506",
+    "uikName": "УИК №53",
     "tikTvd": "2122000732514",
-    "tikName": "Йошкар-Олинская городская № 1"
+    "tikName": "Йошкар-Олинская городская № 1",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 54,
     "uikTvd": "4124003233507",
+    "uikName": "УИК №54",
     "tikTvd": "2122000732514",
-    "tikName": "Йошкар-Олинская городская № 1"
+    "tikName": "Йошкар-Олинская городская № 1",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 55,
     "uikTvd": "4124003233508",
+    "uikName": "УИК №55",
     "tikTvd": "2122000732514",
-    "tikName": "Йошкар-Олинская городская № 1"
+    "tikName": "Йошкар-Олинская городская № 1",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 56,
     "uikTvd": "4124003233509",
+    "uikName": "УИК №56",
     "tikTvd": "2122000732514",
-    "tikName": "Йошкар-Олинская городская № 1"
+    "tikName": "Йошкар-Олинская городская № 1",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 57,
     "uikTvd": "4124003233510",
+    "uikName": "УИК №57",
     "tikTvd": "2122000732514",
-    "tikName": "Йошкар-Олинская городская № 1"
+    "tikName": "Йошкар-Олинская городская № 1",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 58,
     "uikTvd": "4124003233511",
+    "uikName": "УИК №58",
     "tikTvd": "2122000732514",
-    "tikName": "Йошкар-Олинская городская № 1"
+    "tikName": "Йошкар-Олинская городская № 1",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 59,
     "uikTvd": "4124003233512",
+    "uikName": "УИК №59",
     "tikTvd": "2122000732514",
-    "tikName": "Йошкар-Олинская городская № 1"
+    "tikName": "Йошкар-Олинская городская № 1",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 60,
     "uikTvd": "4124003233513",
+    "uikName": "УИК №60",
     "tikTvd": "2122000732514",
-    "tikName": "Йошкар-Олинская городская № 1"
+    "tikName": "Йошкар-Олинская городская № 1",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 61,
     "uikTvd": "4124003233514",
+    "uikName": "УИК №61",
     "tikTvd": "2122000732514",
-    "tikName": "Йошкар-Олинская городская № 1"
+    "tikName": "Йошкар-Олинская городская № 1",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 62,
     "uikTvd": "4124018208205",
+    "uikName": "УИК №62",
     "tikTvd": "2122000732519",
-    "tikName": "Йошкар-Олинская городская № 2"
+    "tikName": "Йошкар-Олинская городская № 2",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 63,
     "uikTvd": "4124018208206",
+    "uikName": "УИК №63",
     "tikTvd": "2122000732519",
-    "tikName": "Йошкар-Олинская городская № 2"
+    "tikName": "Йошкар-Олинская городская № 2",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 64,
     "uikTvd": "4124018208207",
+    "uikName": "УИК №64",
     "tikTvd": "2122000732519",
-    "tikName": "Йошкар-Олинская городская № 2"
+    "tikName": "Йошкар-Олинская городская № 2",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 65,
     "uikTvd": "4124018208208",
+    "uikName": "УИК №65",
     "tikTvd": "2122000732519",
-    "tikName": "Йошкар-Олинская городская № 2"
+    "tikName": "Йошкар-Олинская городская № 2",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 66,
     "uikTvd": "4124018208209",
+    "uikName": "УИК №66",
     "tikTvd": "2122000732519",
-    "tikName": "Йошкар-Олинская городская № 2"
+    "tikName": "Йошкар-Олинская городская № 2",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 67,
     "uikTvd": "4124018208210",
+    "uikName": "УИК №67",
     "tikTvd": "2122000732519",
-    "tikName": "Йошкар-Олинская городская № 2"
+    "tikName": "Йошкар-Олинская городская № 2",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 68,
     "uikTvd": "4124018208211",
+    "uikName": "УИК №68",
     "tikTvd": "2122000732519",
-    "tikName": "Йошкар-Олинская городская № 2"
+    "tikName": "Йошкар-Олинская городская № 2",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 69,
     "uikTvd": "4124018208212",
+    "uikName": "УИК №69",
     "tikTvd": "2122000732519",
-    "tikName": "Йошкар-Олинская городская № 2"
+    "tikName": "Йошкар-Олинская городская № 2",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 70,
     "uikTvd": "4124018208213",
+    "uikName": "УИК №70",
     "tikTvd": "2122000732519",
-    "tikName": "Йошкар-Олинская городская № 2"
+    "tikName": "Йошкар-Олинская городская № 2",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 71,
     "uikTvd": "4124018208214",
+    "uikName": "УИК №71",
     "tikTvd": "2122000732519",
-    "tikName": "Йошкар-Олинская городская № 2"
+    "tikName": "Йошкар-Олинская городская № 2",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 72,
     "uikTvd": "4124018208215",
+    "uikName": "УИК №72",
     "tikTvd": "2122000732519",
-    "tikName": "Йошкар-Олинская городская № 2"
+    "tikName": "Йошкар-Олинская городская № 2",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 73,
     "uikTvd": "4124018208216",
+    "uikName": "УИК №73",
     "tikTvd": "2122000732519",
-    "tikName": "Йошкар-Олинская городская № 2"
+    "tikName": "Йошкар-Олинская городская № 2",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 74,
     "uikTvd": "4124018208217",
+    "uikName": "УИК №74",
     "tikTvd": "2122000732519",
-    "tikName": "Йошкар-Олинская городская № 2"
+    "tikName": "Йошкар-Олинская городская № 2",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 75,
     "uikTvd": "4124018208218",
+    "uikName": "УИК №75",
     "tikTvd": "2122000732519",
-    "tikName": "Йошкар-Олинская городская № 2"
+    "tikName": "Йошкар-Олинская городская № 2",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 76,
     "uikTvd": "4124018208219",
+    "uikName": "УИК №76",
     "tikTvd": "2122000732519",
-    "tikName": "Йошкар-Олинская городская № 2"
+    "tikName": "Йошкар-Олинская городская № 2",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 77,
     "uikTvd": "4124018208220",
+    "uikName": "УИК №77",
     "tikTvd": "2122000732519",
-    "tikName": "Йошкар-Олинская городская № 2"
+    "tikName": "Йошкар-Олинская городская № 2",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 78,
     "uikTvd": "4124018208221",
+    "uikName": "УИК №78",
     "tikTvd": "2122000732519",
-    "tikName": "Йошкар-Олинская городская № 2"
+    "tikName": "Йошкар-Олинская городская № 2",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 79,
     "uikTvd": "4124018208222",
+    "uikName": "УИК №79",
     "tikTvd": "2122000732519",
-    "tikName": "Йошкар-Олинская городская № 2"
+    "tikName": "Йошкар-Олинская городская № 2",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 80,
     "uikTvd": "4124018208223",
+    "uikName": "УИК №80",
     "tikTvd": "2122000732519",
-    "tikName": "Йошкар-Олинская городская № 2"
+    "tikName": "Йошкар-Олинская городская № 2",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 81,
     "uikTvd": "4124018208224",
+    "uikName": "УИК №81",
     "tikTvd": "2122000732519",
-    "tikName": "Йошкар-Олинская городская № 2"
+    "tikName": "Йошкар-Олинская городская № 2",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 82,
     "uikTvd": "4124018208225",
+    "uikName": "УИК №82",
     "tikTvd": "2122000732519",
-    "tikName": "Йошкар-Олинская городская № 2"
+    "tikName": "Йошкар-Олинская городская № 2",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 83,
     "uikTvd": "4124018208226",
+    "uikName": "УИК №83",
     "tikTvd": "2122000732519",
-    "tikName": "Йошкар-Олинская городская № 2"
+    "tikName": "Йошкар-Олинская городская № 2",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 84,
     "uikTvd": "4124018208227",
+    "uikName": "УИК №84",
     "tikTvd": "2122000732519",
-    "tikName": "Йошкар-Олинская городская № 2"
+    "tikName": "Йошкар-Олинская городская № 2",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 85,
     "uikTvd": "4124018208228",
+    "uikName": "УИК №85",
     "tikTvd": "2122000732519",
-    "tikName": "Йошкар-Олинская городская № 2"
+    "tikName": "Йошкар-Олинская городская № 2",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 86,
     "uikTvd": "4124018208229",
+    "uikName": "УИК №86",
     "tikTvd": "2122000732519",
-    "tikName": "Йошкар-Олинская городская № 2"
+    "tikName": "Йошкар-Олинская городская № 2",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 87,
     "uikTvd": "4124018208230",
+    "uikName": "УИК №87",
     "tikTvd": "2122000732519",
-    "tikName": "Йошкар-Олинская городская № 2"
+    "tikName": "Йошкар-Олинская городская № 2",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 88,
     "uikTvd": "4124018208231",
+    "uikName": "УИК №88",
     "tikTvd": "2122000732519",
-    "tikName": "Йошкар-Олинская городская № 2"
+    "tikName": "Йошкар-Олинская городская № 2",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 89,
     "uikTvd": "4124018208232",
+    "uikName": "УИК №89",
     "tikTvd": "2122000732519",
-    "tikName": "Йошкар-Олинская городская № 2"
+    "tikName": "Йошкар-Олинская городская № 2",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 90,
     "uikTvd": "4124018208233",
+    "uikName": "УИК №90",
     "tikTvd": "2122000732519",
-    "tikName": "Йошкар-Олинская городская № 2"
+    "tikName": "Йошкар-Олинская городская № 2",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 91,
     "uikTvd": "4124018208234",
+    "uikName": "УИК №91",
     "tikTvd": "2122000732519",
-    "tikName": "Йошкар-Олинская городская № 2"
+    "tikName": "Йошкар-Олинская городская № 2",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 92,
     "uikTvd": "4124018208235",
+    "uikName": "УИК №92",
     "tikTvd": "2122000732519",
-    "tikName": "Йошкар-Олинская городская № 2"
+    "tikName": "Йошкар-Олинская городская № 2",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 93,
     "uikTvd": "4124018208236",
+    "uikName": "УИК №93",
     "tikTvd": "2122000732519",
-    "tikName": "Йошкар-Олинская городская № 2"
+    "tikName": "Йошкар-Олинская городская № 2",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 94,
     "uikTvd": "4124018208237",
+    "uikName": "УИК №94",
     "tikTvd": "2122000732519",
-    "tikName": "Йошкар-Олинская городская № 2"
+    "tikName": "Йошкар-Олинская городская № 2",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 95,
     "uikTvd": "4124018208238",
+    "uikName": "УИК №95",
     "tikTvd": "2122000732519",
-    "tikName": "Йошкар-Олинская городская № 2"
+    "tikName": "Йошкар-Олинская городская № 2",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 96,
     "uikTvd": "4124018208239",
+    "uikName": "УИК №96",
     "tikTvd": "2122000732519",
-    "tikName": "Йошкар-Олинская городская № 2"
+    "tikName": "Йошкар-Олинская городская № 2",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 97,
     "uikTvd": "4124018208240",
+    "uikName": "УИК №97",
     "tikTvd": "2122000732519",
-    "tikName": "Йошкар-Олинская городская № 2"
+    "tikName": "Йошкар-Олинская городская № 2",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 98,
     "uikTvd": "4124018208241",
+    "uikName": "УИК №98",
     "tikTvd": "2122000732519",
-    "tikName": "Йошкар-Олинская городская № 2"
+    "tikName": "Йошкар-Олинская городская № 2",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 99,
     "uikTvd": "4124018208242",
+    "uikName": "УИК №99",
     "tikTvd": "2122000732519",
-    "tikName": "Йошкар-Олинская городская № 2"
+    "tikName": "Йошкар-Олинская городская № 2",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 100,
     "uikTvd": "4124018208243",
+    "uikName": "УИК №100",
     "tikTvd": "2122000732519",
-    "tikName": "Йошкар-Олинская городская № 2"
+    "tikName": "Йошкар-Олинская городская № 2",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 101,
     "uikTvd": "4124018208244",
+    "uikName": "УИК №101",
     "tikTvd": "2122000732519",
-    "tikName": "Йошкар-Олинская городская № 2"
+    "tikName": "Йошкар-Олинская городская № 2",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 102,
     "uikTvd": "4124018208245",
+    "uikName": "УИК №102",
     "tikTvd": "2122000732519",
-    "tikName": "Йошкар-Олинская городская № 2"
+    "tikName": "Йошкар-Олинская городская № 2",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 103,
     "uikTvd": "4124018208246",
+    "uikName": "УИК №103",
     "tikTvd": "2122000732519",
-    "tikName": "Йошкар-Олинская городская № 2"
+    "tikName": "Йошкар-Олинская городская № 2",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 104,
     "uikTvd": "4124018208247",
+    "uikName": "УИК №104",
     "tikTvd": "2122000732519",
-    "tikName": "Йошкар-Олинская городская № 2"
+    "tikName": "Йошкар-Олинская городская № 2",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 105,
     "uikTvd": "4124018208248",
+    "uikName": "УИК №105",
     "tikTvd": "2122000732519",
-    "tikName": "Йошкар-Олинская городская № 2"
+    "tikName": "Йошкар-Олинская городская № 2",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 106,
     "uikTvd": "4124018208249",
+    "uikName": "УИК №106",
     "tikTvd": "2122000732519",
-    "tikName": "Йошкар-Олинская городская № 2"
+    "tikName": "Йошкар-Олинская городская № 2",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 107,
     "uikTvd": "4124018208250",
+    "uikName": "УИК №107",
     "tikTvd": "2122000732519",
-    "tikName": "Йошкар-Олинская городская № 2"
+    "tikName": "Йошкар-Олинская городская № 2",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 108,
     "uikTvd": "4124018208251",
+    "uikName": "УИК №108",
     "tikTvd": "2122000732519",
-    "tikName": "Йошкар-Олинская городская № 2"
+    "tikName": "Йошкар-Олинская городская № 2",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 109,
     "uikTvd": "4124018208252",
+    "uikName": "УИК №109",
     "tikTvd": "2122000732519",
-    "tikName": "Йошкар-Олинская городская № 2"
+    "tikName": "Йошкар-Олинская городская № 2",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 110,
     "uikTvd": "4124018208253",
+    "uikName": "УИК №110",
     "tikTvd": "2122000732519",
-    "tikName": "Йошкар-Олинская городская № 2"
+    "tikName": "Йошкар-Олинская городская № 2",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 111,
     "uikTvd": "4124018208254",
+    "uikName": "УИК №111",
     "tikTvd": "2122000732519",
-    "tikName": "Йошкар-Олинская городская № 2"
+    "tikName": "Йошкар-Олинская городская № 2",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 112,
     "uikTvd": "4124018208255",
+    "uikName": "УИК №112",
     "tikTvd": "2122000732519",
-    "tikName": "Йошкар-Олинская городская № 2"
+    "tikName": "Йошкар-Олинская городская № 2",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 113,
     "uikTvd": "4124018208256",
+    "uikName": "УИК №113",
     "tikTvd": "2122000732519",
-    "tikName": "Йошкар-Олинская городская № 2"
+    "tikName": "Йошкар-Олинская городская № 2",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 114,
     "uikTvd": "4124018208257",
+    "uikName": "УИК №114",
     "tikTvd": "2122000732519",
-    "tikName": "Йошкар-Олинская городская № 2"
+    "tikName": "Йошкар-Олинская городская № 2",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 115,
     "uikTvd": "4124018208258",
+    "uikName": "УИК №115",
     "tikTvd": "2122000732519",
-    "tikName": "Йошкар-Олинская городская № 2"
+    "tikName": "Йошкар-Олинская городская № 2",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 116,
     "uikTvd": "4124018208259",
+    "uikName": "УИК №116",
     "tikTvd": "2122000732519",
-    "tikName": "Йошкар-Олинская городская № 2"
+    "tikName": "Йошкар-Олинская городская № 2",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 117,
     "uikTvd": "4124001154320",
+    "uikName": "УИК №117",
     "tikTvd": "2122000732526",
-    "tikName": "Волжская городская"
+    "tikName": "Волжская городская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 118,
     "uikTvd": "4124001154321",
+    "uikName": "УИК №118",
     "tikTvd": "2122000732526",
-    "tikName": "Волжская городская"
+    "tikName": "Волжская городская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 119,
     "uikTvd": "4124001154322",
+    "uikName": "УИК №119",
     "tikTvd": "2122000732526",
-    "tikName": "Волжская городская"
+    "tikName": "Волжская городская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 120,
     "uikTvd": "4124001154323",
+    "uikName": "УИК №120",
     "tikTvd": "2122000732526",
-    "tikName": "Волжская городская"
+    "tikName": "Волжская городская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 121,
     "uikTvd": "4124001154324",
+    "uikName": "УИК №121",
     "tikTvd": "2122000732526",
-    "tikName": "Волжская городская"
+    "tikName": "Волжская городская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 122,
     "uikTvd": "4124001154325",
+    "uikName": "УИК №122",
     "tikTvd": "2122000732526",
-    "tikName": "Волжская городская"
+    "tikName": "Волжская городская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 123,
     "uikTvd": "4124001154326",
+    "uikName": "УИК №123",
     "tikTvd": "2122000732526",
-    "tikName": "Волжская городская"
+    "tikName": "Волжская городская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 124,
     "uikTvd": "4124001154327",
+    "uikName": "УИК №124",
     "tikTvd": "2122000732526",
-    "tikName": "Волжская городская"
+    "tikName": "Волжская городская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 125,
     "uikTvd": "4124001154328",
+    "uikName": "УИК №125",
     "tikTvd": "2122000732526",
-    "tikName": "Волжская городская"
+    "tikName": "Волжская городская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 126,
     "uikTvd": "4124001154329",
+    "uikName": "УИК №126",
     "tikTvd": "2122000732526",
-    "tikName": "Волжская городская"
+    "tikName": "Волжская городская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 127,
     "uikTvd": "4124001154330",
+    "uikName": "УИК №127",
     "tikTvd": "2122000732526",
-    "tikName": "Волжская городская"
+    "tikName": "Волжская городская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 128,
     "uikTvd": "4124001154331",
+    "uikName": "УИК №128",
     "tikTvd": "2122000732526",
-    "tikName": "Волжская городская"
+    "tikName": "Волжская городская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 129,
     "uikTvd": "4124001154332",
+    "uikName": "УИК №129",
     "tikTvd": "2122000732526",
-    "tikName": "Волжская городская"
+    "tikName": "Волжская городская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 130,
     "uikTvd": "4124001154333",
+    "uikName": "УИК №130",
     "tikTvd": "2122000732526",
-    "tikName": "Волжская городская"
+    "tikName": "Волжская городская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 131,
     "uikTvd": "4124001154334",
+    "uikName": "УИК №131",
     "tikTvd": "2122000732526",
-    "tikName": "Волжская городская"
+    "tikName": "Волжская городская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 132,
     "uikTvd": "4124001154335",
+    "uikName": "УИК №132",
     "tikTvd": "2122000732526",
-    "tikName": "Волжская городская"
+    "tikName": "Волжская городская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 133,
     "uikTvd": "4124001154336",
+    "uikName": "УИК №133",
     "tikTvd": "2122000732526",
-    "tikName": "Волжская городская"
+    "tikName": "Волжская городская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 134,
     "uikTvd": "4124001154337",
+    "uikName": "УИК №134",
     "tikTvd": "2122000732526",
-    "tikName": "Волжская городская"
+    "tikName": "Волжская городская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 135,
     "uikTvd": "4124001154338",
+    "uikName": "УИК №135",
     "tikTvd": "2122000732526",
-    "tikName": "Волжская городская"
+    "tikName": "Волжская городская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 136,
     "uikTvd": "4124001154339",
+    "uikName": "УИК №136",
     "tikTvd": "2122000732526",
-    "tikName": "Волжская городская"
+    "tikName": "Волжская городская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 137,
     "uikTvd": "4124001154340",
+    "uikName": "УИК №137",
     "tikTvd": "2122000732526",
-    "tikName": "Волжская городская"
+    "tikName": "Волжская городская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 138,
     "uikTvd": "4124001154341",
+    "uikName": "УИК №138",
     "tikTvd": "2122000732526",
-    "tikName": "Волжская городская"
+    "tikName": "Волжская городская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 139,
     "uikTvd": "4124001154342",
+    "uikName": "УИК №139",
     "tikTvd": "2122000732526",
-    "tikName": "Волжская городская"
+    "tikName": "Волжская городская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 140,
     "uikTvd": "4124001154343",
+    "uikName": "УИК №140",
     "tikTvd": "2122000732526",
-    "tikName": "Волжская городская"
+    "tikName": "Волжская городская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 141,
     "uikTvd": "4124001154344",
+    "uikName": "УИК №141",
     "tikTvd": "2122000732526",
-    "tikName": "Волжская городская"
+    "tikName": "Волжская городская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 142,
     "uikTvd": "4124001154345",
+    "uikName": "УИК №142",
     "tikTvd": "2122000732526",
-    "tikName": "Волжская городская"
+    "tikName": "Волжская городская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 143,
     "uikTvd": "4124001154346",
+    "uikName": "УИК №143",
     "tikTvd": "2122000732526",
-    "tikName": "Волжская городская"
+    "tikName": "Волжская городская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 144,
     "uikTvd": "4124001154347",
+    "uikName": "УИК №144",
     "tikTvd": "2122000732526",
-    "tikName": "Волжская городская"
+    "tikName": "Волжская городская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 145,
     "uikTvd": "4124001154348",
+    "uikName": "УИК №145",
     "tikTvd": "2122000732526",
-    "tikName": "Волжская городская"
+    "tikName": "Волжская городская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 146,
     "uikTvd": "4124001154349",
+    "uikName": "УИК №146",
     "tikTvd": "2122000732526",
-    "tikName": "Волжская городская"
+    "tikName": "Волжская городская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 147,
     "uikTvd": "4124005153918",
+    "uikName": "УИК №147",
     "tikTvd": "2122000732512",
-    "tikName": "Козьмодемьянская городская"
+    "tikName": "Козьмодемьянская городская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 148,
     "uikTvd": "4124005153919",
+    "uikName": "УИК №148",
     "tikTvd": "2122000732512",
-    "tikName": "Козьмодемьянская городская"
+    "tikName": "Козьмодемьянская городская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 149,
     "uikTvd": "4124005153920",
+    "uikName": "УИК №149",
     "tikTvd": "2122000732512",
-    "tikName": "Козьмодемьянская городская"
+    "tikName": "Козьмодемьянская городская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 150,
     "uikTvd": "4124005153921",
+    "uikName": "УИК №150",
     "tikTvd": "2122000732512",
-    "tikName": "Козьмодемьянская городская"
+    "tikName": "Козьмодемьянская городская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 151,
     "uikTvd": "4124005153922",
+    "uikName": "УИК №151",
     "tikTvd": "2122000732512",
-    "tikName": "Козьмодемьянская городская"
+    "tikName": "Козьмодемьянская городская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 152,
     "uikTvd": "4124005153923",
+    "uikName": "УИК №152",
     "tikTvd": "2122000732512",
-    "tikName": "Козьмодемьянская городская"
+    "tikName": "Козьмодемьянская городская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 153,
     "uikTvd": "4124005153924",
+    "uikName": "УИК №153",
     "tikTvd": "2122000732512",
-    "tikName": "Козьмодемьянская городская"
+    "tikName": "Козьмодемьянская городская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 154,
     "uikTvd": "4124005153925",
+    "uikName": "УИК №154",
     "tikTvd": "2122000732512",
-    "tikName": "Козьмодемьянская городская"
+    "tikName": "Козьмодемьянская городская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 155,
     "uikTvd": "4124005153926",
+    "uikName": "УИК №155",
     "tikTvd": "2122000732512",
-    "tikName": "Козьмодемьянская городская"
+    "tikName": "Козьмодемьянская городская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 156,
     "uikTvd": "4124005153927",
+    "uikName": "УИК №156",
     "tikTvd": "2122000732512",
-    "tikName": "Козьмодемьянская городская"
+    "tikName": "Козьмодемьянская городская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 157,
     "uikTvd": "4124005153928",
+    "uikName": "УИК №157",
     "tikTvd": "2122000732512",
-    "tikName": "Козьмодемьянская городская"
+    "tikName": "Козьмодемьянская городская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 158,
     "uikTvd": "4124005153929",
+    "uikName": "УИК №158",
     "tikTvd": "2122000732512",
-    "tikName": "Козьмодемьянская городская"
+    "tikName": "Козьмодемьянская городская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 159,
     "uikTvd": "4124005153930",
+    "uikName": "УИК №159",
     "tikTvd": "2122000732512",
-    "tikName": "Козьмодемьянская городская"
+    "tikName": "Козьмодемьянская городская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 160,
     "uikTvd": "4124005153931",
+    "uikName": "УИК №160",
     "tikTvd": "2122000732512",
-    "tikName": "Козьмодемьянская городская"
+    "tikName": "Козьмодемьянская городская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 161,
     "uikTvd": "4124005153932",
+    "uikName": "УИК №161",
     "tikTvd": "2122000732512",
-    "tikName": "Козьмодемьянская городская"
+    "tikName": "Козьмодемьянская городская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 162,
     "uikTvd": "4124005153933",
+    "uikName": "УИК №162",
     "tikTvd": "2122000732512",
-    "tikName": "Козьмодемьянская городская"
+    "tikName": "Козьмодемьянская городская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 163,
     "uikTvd": "4124016167774",
+    "uikName": "УИК №163",
     "tikTvd": "2122000732523",
-    "tikName": "Волжская "
+    "tikName": "Волжская ",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 164,
     "uikTvd": "4124016167775",
+    "uikName": "УИК №164",
     "tikTvd": "2122000732523",
-    "tikName": "Волжская "
+    "tikName": "Волжская ",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 165,
     "uikTvd": "4124016167776",
+    "uikName": "УИК №165",
     "tikTvd": "2122000732523",
-    "tikName": "Волжская "
+    "tikName": "Волжская ",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 166,
     "uikTvd": "4124016167777",
+    "uikName": "УИК №166",
     "tikTvd": "2122000732523",
-    "tikName": "Волжская "
+    "tikName": "Волжская ",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 167,
     "uikTvd": "4124016167778",
+    "uikName": "УИК №167",
     "tikTvd": "2122000732523",
-    "tikName": "Волжская "
+    "tikName": "Волжская ",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 168,
     "uikTvd": "4124016167779",
+    "uikName": "УИК №168",
     "tikTvd": "2122000732523",
-    "tikName": "Волжская "
+    "tikName": "Волжская ",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 169,
     "uikTvd": "4124016167780",
+    "uikName": "УИК №169",
     "tikTvd": "2122000732523",
-    "tikName": "Волжская "
+    "tikName": "Волжская ",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 170,
     "uikTvd": "4124016167781",
+    "uikName": "УИК №170",
     "tikTvd": "2122000732523",
-    "tikName": "Волжская "
+    "tikName": "Волжская ",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 171,
     "uikTvd": "4124016167782",
+    "uikName": "УИК №171",
     "tikTvd": "2122000732523",
-    "tikName": "Волжская "
+    "tikName": "Волжская ",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 172,
     "uikTvd": "4124016167783",
+    "uikName": "УИК №172",
     "tikTvd": "2122000732523",
-    "tikName": "Волжская "
+    "tikName": "Волжская ",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 173,
     "uikTvd": "4124016167784",
+    "uikName": "УИК №173",
     "tikTvd": "2122000732523",
-    "tikName": "Волжская "
+    "tikName": "Волжская ",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 174,
     "uikTvd": "4124016167785",
+    "uikName": "УИК №174",
     "tikTvd": "2122000732523",
-    "tikName": "Волжская "
+    "tikName": "Волжская ",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 175,
     "uikTvd": "4124016167786",
+    "uikName": "УИК №175",
     "tikTvd": "2122000732523",
-    "tikName": "Волжская "
+    "tikName": "Волжская ",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 176,
     "uikTvd": "4124016167787",
+    "uikName": "УИК №176",
     "tikTvd": "2122000732523",
-    "tikName": "Волжская "
+    "tikName": "Волжская ",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 177,
     "uikTvd": "4124016167788",
+    "uikName": "УИК №177",
     "tikTvd": "2122000732523",
-    "tikName": "Волжская "
+    "tikName": "Волжская ",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 178,
     "uikTvd": "4124016167789",
+    "uikName": "УИК №178",
     "tikTvd": "2122000732523",
-    "tikName": "Волжская "
+    "tikName": "Волжская ",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 179,
     "uikTvd": "4124016167790",
+    "uikName": "УИК №179",
     "tikTvd": "2122000732523",
-    "tikName": "Волжская "
+    "tikName": "Волжская ",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 180,
     "uikTvd": "4124016167791",
+    "uikName": "УИК №180",
     "tikTvd": "2122000732523",
-    "tikName": "Волжская "
+    "tikName": "Волжская ",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 181,
     "uikTvd": "4124016167792",
+    "uikName": "УИК №181",
     "tikTvd": "2122000732523",
-    "tikName": "Волжская "
+    "tikName": "Волжская ",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 182,
     "uikTvd": "4124016167793",
+    "uikName": "УИК №182",
     "tikTvd": "2122000732523",
-    "tikName": "Волжская "
+    "tikName": "Волжская ",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 183,
     "uikTvd": "4124016167794",
+    "uikName": "УИК №183",
     "tikTvd": "2122000732523",
-    "tikName": "Волжская "
+    "tikName": "Волжская ",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 184,
     "uikTvd": "4124016167795",
+    "uikName": "УИК №184",
     "tikTvd": "2122000732523",
-    "tikName": "Волжская "
+    "tikName": "Волжская ",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 185,
     "uikTvd": "4124017192086",
+    "uikName": "УИК №185",
     "tikTvd": "2122000732518",
-    "tikName": "Горномарийская"
+    "tikName": "Горномарийская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 186,
     "uikTvd": "4124017192088",
+    "uikName": "УИК №186",
     "tikTvd": "2122000732518",
-    "tikName": "Горномарийская"
+    "tikName": "Горномарийская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 187,
     "uikTvd": "4124017192090",
+    "uikName": "УИК №187",
     "tikTvd": "2122000732518",
-    "tikName": "Горномарийская"
+    "tikName": "Горномарийская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 188,
     "uikTvd": "4124017192092",
+    "uikName": "УИК №188",
     "tikTvd": "2122000732518",
-    "tikName": "Горномарийская"
+    "tikName": "Горномарийская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 189,
     "uikTvd": "4124017192094",
+    "uikName": "УИК №189",
     "tikTvd": "2122000732518",
-    "tikName": "Горномарийская"
+    "tikName": "Горномарийская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 190,
     "uikTvd": "4124017192096",
+    "uikName": "УИК №190",
     "tikTvd": "2122000732518",
-    "tikName": "Горномарийская"
+    "tikName": "Горномарийская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 191,
     "uikTvd": "4124017192098",
+    "uikName": "УИК №191",
     "tikTvd": "2122000732518",
-    "tikName": "Горномарийская"
+    "tikName": "Горномарийская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 192,
     "uikTvd": "4124017192100",
+    "uikName": "УИК №192",
     "tikTvd": "2122000732518",
-    "tikName": "Горномарийская"
+    "tikName": "Горномарийская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 193,
     "uikTvd": "4124017192102",
+    "uikName": "УИК №193",
     "tikTvd": "2122000732518",
-    "tikName": "Горномарийская"
+    "tikName": "Горномарийская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 194,
     "uikTvd": "4124017192104",
+    "uikName": "УИК №194",
     "tikTvd": "2122000732518",
-    "tikName": "Горномарийская"
+    "tikName": "Горномарийская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 195,
     "uikTvd": "4124017192106",
+    "uikName": "УИК №195",
     "tikTvd": "2122000732518",
-    "tikName": "Горномарийская"
+    "tikName": "Горномарийская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 196,
     "uikTvd": "4124017192109",
+    "uikName": "УИК №196",
     "tikTvd": "2122000732518",
-    "tikName": "Горномарийская"
+    "tikName": "Горномарийская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 197,
     "uikTvd": "4124017192111",
+    "uikName": "УИК №197",
     "tikTvd": "2122000732518",
-    "tikName": "Горномарийская"
+    "tikName": "Горномарийская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 198,
     "uikTvd": "4124017192113",
+    "uikName": "УИК №198",
     "tikTvd": "2122000732518",
-    "tikName": "Горномарийская"
+    "tikName": "Горномарийская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 199,
     "uikTvd": "4124017192115",
+    "uikName": "УИК №199",
     "tikTvd": "2122000732518",
-    "tikName": "Горномарийская"
+    "tikName": "Горномарийская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 200,
     "uikTvd": "4124017192117",
+    "uikName": "УИК №200",
     "tikTvd": "2122000732518",
-    "tikName": "Горномарийская"
+    "tikName": "Горномарийская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 201,
     "uikTvd": "4124017192119",
+    "uikName": "УИК №201",
     "tikTvd": "2122000732518",
-    "tikName": "Горномарийская"
+    "tikName": "Горномарийская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 202,
     "uikTvd": "4124017192121",
+    "uikName": "УИК №202",
     "tikTvd": "2122000732518",
-    "tikName": "Горномарийская"
+    "tikName": "Горномарийская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 203,
     "uikTvd": "4124017192123",
+    "uikName": "УИК №203",
     "tikTvd": "2122000732518",
-    "tikName": "Горномарийская"
+    "tikName": "Горномарийская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 204,
     "uikTvd": "4124017192125",
+    "uikName": "УИК №204",
     "tikTvd": "2122000732518",
-    "tikName": "Горномарийская"
+    "tikName": "Горномарийская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 205,
     "uikTvd": "4124017192127",
+    "uikName": "УИК №205",
     "tikTvd": "2122000732518",
-    "tikName": "Горномарийская"
+    "tikName": "Горномарийская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 206,
     "uikTvd": "4124017192129",
+    "uikName": "УИК №206",
     "tikTvd": "2122000732518",
-    "tikName": "Горномарийская"
+    "tikName": "Горномарийская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 207,
     "uikTvd": "4124017192131",
+    "uikName": "УИК №207",
     "tikTvd": "2122000732518",
-    "tikName": "Горномарийская"
+    "tikName": "Горномарийская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 208,
     "uikTvd": "4124017192133",
+    "uikName": "УИК №208",
     "tikTvd": "2122000732518",
-    "tikName": "Горномарийская"
+    "tikName": "Горномарийская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 209,
     "uikTvd": "4124017192135",
+    "uikName": "УИК №209",
     "tikTvd": "2122000732518",
-    "tikName": "Горномарийская"
+    "tikName": "Горномарийская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 210,
     "uikTvd": "4124017192137",
+    "uikName": "УИК №210",
     "tikTvd": "2122000732518",
-    "tikName": "Горномарийская"
+    "tikName": "Горномарийская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 211,
     "uikTvd": "4124017192139",
+    "uikName": "УИК №211",
     "tikTvd": "2122000732518",
-    "tikName": "Горномарийская"
+    "tikName": "Горномарийская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 212,
     "uikTvd": "4124017192141",
+    "uikName": "УИК №212",
     "tikTvd": "2122000732518",
-    "tikName": "Горномарийская"
+    "tikName": "Горномарийская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 213,
     "uikTvd": "4124017192143",
+    "uikName": "УИК №213",
     "tikTvd": "2122000732518",
-    "tikName": "Горномарийская"
+    "tikName": "Горномарийская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 214,
     "uikTvd": "4124017192145",
+    "uikName": "УИК №214",
     "tikTvd": "2122000732518",
-    "tikName": "Горномарийская"
+    "tikName": "Горномарийская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 215,
     "uikTvd": "4124017192147",
+    "uikName": "УИК №215",
     "tikTvd": "2122000732518",
-    "tikName": "Горномарийская"
+    "tikName": "Горномарийская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 216,
     "uikTvd": "4124017192149",
+    "uikName": "УИК №216",
     "tikTvd": "2122000732518",
-    "tikName": "Горномарийская"
+    "tikName": "Горномарийская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 217,
     "uikTvd": "4124017192151",
+    "uikName": "УИК №217",
     "tikTvd": "2122000732518",
-    "tikName": "Горномарийская"
+    "tikName": "Горномарийская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 218,
     "uikTvd": "4124017192153",
+    "uikName": "УИК №218",
     "tikTvd": "2122000732518",
-    "tikName": "Горномарийская"
+    "tikName": "Горномарийская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 219,
     "uikTvd": "4124017192155",
+    "uikName": "УИК №219",
     "tikTvd": "2122000732518",
-    "tikName": "Горномарийская"
+    "tikName": "Горномарийская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 220,
     "uikTvd": "4124017192157",
+    "uikName": "УИК №220",
     "tikTvd": "2122000732518",
-    "tikName": "Горномарийская"
+    "tikName": "Горномарийская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 221,
     "uikTvd": "4124017192159",
+    "uikName": "УИК №221",
     "tikTvd": "2122000732518",
-    "tikName": "Горномарийская"
+    "tikName": "Горномарийская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 222,
     "uikTvd": "4124017192161",
+    "uikName": "УИК №222",
     "tikTvd": "2122000732518",
-    "tikName": "Горномарийская"
+    "tikName": "Горномарийская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 223,
     "uikTvd": "4124017192163",
+    "uikName": "УИК №223",
     "tikTvd": "2122000732518",
-    "tikName": "Горномарийская"
+    "tikName": "Горномарийская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 224,
     "uikTvd": "4124017192165",
+    "uikName": "УИК №224",
     "tikTvd": "2122000732518",
-    "tikName": "Горномарийская"
+    "tikName": "Горномарийская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 225,
     "uikTvd": "4124017192167",
+    "uikName": "УИК №225",
     "tikTvd": "2122000732518",
-    "tikName": "Горномарийская"
+    "tikName": "Горномарийская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 226,
     "uikTvd": "4124002227130",
+    "uikName": "УИК №226",
     "tikTvd": "2122000732527",
-    "tikName": "Звениговская"
+    "tikName": "Звениговская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 227,
     "uikTvd": "4124002227131",
+    "uikName": "УИК №227",
     "tikTvd": "2122000732527",
-    "tikName": "Звениговская"
+    "tikName": "Звениговская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 228,
     "uikTvd": "4124002227132",
+    "uikName": "УИК №228",
     "tikTvd": "2122000732527",
-    "tikName": "Звениговская"
+    "tikName": "Звениговская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 229,
     "uikTvd": "4124002227133",
+    "uikName": "УИК №229",
     "tikTvd": "2122000732527",
-    "tikName": "Звениговская"
+    "tikName": "Звениговская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 230,
     "uikTvd": "4124002227134",
+    "uikName": "УИК №230",
     "tikTvd": "2122000732527",
-    "tikName": "Звениговская"
+    "tikName": "Звениговская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 231,
     "uikTvd": "4124002227135",
+    "uikName": "УИК №231",
     "tikTvd": "2122000732527",
-    "tikName": "Звениговская"
+    "tikName": "Звениговская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 232,
     "uikTvd": "4124002227136",
+    "uikName": "УИК №232",
     "tikTvd": "2122000732527",
-    "tikName": "Звениговская"
+    "tikName": "Звениговская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 233,
     "uikTvd": "4124002227137",
+    "uikName": "УИК №233",
     "tikTvd": "2122000732527",
-    "tikName": "Звениговская"
+    "tikName": "Звениговская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 234,
     "uikTvd": "4124002227138",
+    "uikName": "УИК №234",
     "tikTvd": "2122000732527",
-    "tikName": "Звениговская"
+    "tikName": "Звениговская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 235,
     "uikTvd": "4124002227139",
+    "uikName": "УИК №235",
     "tikTvd": "2122000732527",
-    "tikName": "Звениговская"
+    "tikName": "Звениговская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 236,
     "uikTvd": "4124002227140",
+    "uikName": "УИК №236",
     "tikTvd": "2122000732527",
-    "tikName": "Звениговская"
+    "tikName": "Звениговская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 237,
     "uikTvd": "4124002227141",
+    "uikName": "УИК №237",
     "tikTvd": "2122000732527",
-    "tikName": "Звениговская"
+    "tikName": "Звениговская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 238,
     "uikTvd": "4124002227142",
+    "uikName": "УИК №238",
     "tikTvd": "2122000732527",
-    "tikName": "Звениговская"
+    "tikName": "Звениговская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 239,
     "uikTvd": "4124002227143",
+    "uikName": "УИК №239",
     "tikTvd": "2122000732527",
-    "tikName": "Звениговская"
+    "tikName": "Звениговская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 240,
     "uikTvd": "4124002227144",
+    "uikName": "УИК №240",
     "tikTvd": "2122000732527",
-    "tikName": "Звениговская"
+    "tikName": "Звениговская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 241,
     "uikTvd": "4124002227145",
+    "uikName": "УИК №241",
     "tikTvd": "2122000732527",
-    "tikName": "Звениговская"
+    "tikName": "Звениговская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 242,
     "uikTvd": "4124002227146",
+    "uikName": "УИК №242",
     "tikTvd": "2122000732527",
-    "tikName": "Звениговская"
+    "tikName": "Звениговская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 243,
     "uikTvd": "4124002227147",
+    "uikName": "УИК №243",
     "tikTvd": "2122000732527",
-    "tikName": "Звениговская"
+    "tikName": "Звениговская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 244,
     "uikTvd": "4124002227148",
+    "uikName": "УИК №244",
     "tikTvd": "2122000732527",
-    "tikName": "Звениговская"
+    "tikName": "Звениговская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 245,
     "uikTvd": "4124002227149",
+    "uikName": "УИК №245",
     "tikTvd": "2122000732527",
-    "tikName": "Звениговская"
+    "tikName": "Звениговская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 246,
     "uikTvd": "4124002227150",
+    "uikName": "УИК №246",
     "tikTvd": "2122000732527",
-    "tikName": "Звениговская"
+    "tikName": "Звениговская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 247,
     "uikTvd": "4124002227151",
+    "uikName": "УИК №247",
     "tikTvd": "2122000732527",
-    "tikName": "Звениговская"
+    "tikName": "Звениговская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 248,
     "uikTvd": "4124002227152",
+    "uikName": "УИК №248",
     "tikTvd": "2122000732527",
-    "tikName": "Звениговская"
+    "tikName": "Звениговская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 249,
     "uikTvd": "4124002227153",
+    "uikName": "УИК №249",
     "tikTvd": "2122000732527",
-    "tikName": "Звениговская"
+    "tikName": "Звениговская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 250,
     "uikTvd": "4124002227154",
+    "uikName": "УИК №250",
     "tikTvd": "2122000732527",
-    "tikName": "Звениговская"
+    "tikName": "Звениговская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 251,
     "uikTvd": "4124002227155",
+    "uikName": "УИК №251",
     "tikTvd": "2122000732527",
-    "tikName": "Звениговская"
+    "tikName": "Звениговская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 252,
     "uikTvd": "4124002227156",
+    "uikName": "УИК №252",
     "tikTvd": "2122000732527",
-    "tikName": "Звениговская"
+    "tikName": "Звениговская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 253,
     "uikTvd": "4124002227157",
+    "uikName": "УИК №253",
     "tikTvd": "2122000732527",
-    "tikName": "Звениговская"
+    "tikName": "Звениговская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 254,
     "uikTvd": "4124002227158",
+    "uikName": "УИК №254",
     "tikTvd": "2122000732527",
-    "tikName": "Звениговская"
+    "tikName": "Звениговская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 255,
     "uikTvd": "4124002227159",
+    "uikName": "УИК №255",
     "tikTvd": "2122000732527",
-    "tikName": "Звениговская"
+    "tikName": "Звениговская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 256,
     "uikTvd": "4124002227160",
+    "uikName": "УИК №256",
     "tikTvd": "2122000732527",
-    "tikName": "Звениговская"
+    "tikName": "Звениговская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 257,
     "uikTvd": "4124002227161",
+    "uikName": "УИК №257",
     "tikTvd": "2122000732527",
-    "tikName": "Звениговская"
+    "tikName": "Звениговская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 258,
     "uikTvd": "4124002227162",
+    "uikName": "УИК №258",
     "tikTvd": "2122000732527",
-    "tikName": "Звениговская"
+    "tikName": "Звениговская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 259,
     "uikTvd": "4124002227163",
+    "uikName": "УИК №259",
     "tikTvd": "2122000732527",
-    "tikName": "Звениговская"
+    "tikName": "Звениговская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 260,
     "uikTvd": "4124002227164",
+    "uikName": "УИК №260",
     "tikTvd": "2122000732527",
-    "tikName": "Звениговская"
+    "tikName": "Звениговская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 261,
     "uikTvd": "4124002227165",
+    "uikName": "УИК №261",
     "tikTvd": "2122000732527",
-    "tikName": "Звениговская"
+    "tikName": "Звениговская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 262,
     "uikTvd": "4124002227166",
+    "uikName": "УИК №262",
     "tikTvd": "2122000732527",
-    "tikName": "Звениговская"
+    "tikName": "Звениговская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 263,
     "uikTvd": "4124002227167",
+    "uikName": "УИК №263",
     "tikTvd": "2122000732527",
-    "tikName": "Звениговская"
+    "tikName": "Звениговская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 264,
     "uikTvd": "4124002227168",
+    "uikName": "УИК №264",
     "tikTvd": "2122000732527",
-    "tikName": "Звениговская"
+    "tikName": "Звениговская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 265,
     "uikTvd": "4124002227169",
+    "uikName": "УИК №265",
     "tikTvd": "2122000732527",
-    "tikName": "Звениговская"
+    "tikName": "Звениговская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 266,
     "uikTvd": "4124002227170",
+    "uikName": "УИК №266",
     "tikTvd": "2122000732527",
-    "tikName": "Звениговская"
+    "tikName": "Звениговская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 267,
     "uikTvd": "4124002227171",
+    "uikName": "УИК №267",
     "tikTvd": "2122000732527",
-    "tikName": "Звениговская"
+    "tikName": "Звениговская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 268,
     "uikTvd": "4124002227172",
+    "uikName": "УИК №268",
     "tikTvd": "2122000732527",
-    "tikName": "Звениговская"
+    "tikName": "Звениговская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 269,
     "uikTvd": "4124002227173",
+    "uikName": "УИК №269",
     "tikTvd": "2122000732527",
-    "tikName": "Звениговская"
+    "tikName": "Звениговская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 270,
     "uikTvd": "4124002227174",
+    "uikName": "УИК №270",
     "tikTvd": "2122000732527",
-    "tikName": "Звениговская"
+    "tikName": "Звениговская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 271,
     "uikTvd": "4124002227175",
+    "uikName": "УИК №271",
     "tikTvd": "2122000732527",
-    "tikName": "Звениговская"
+    "tikName": "Звениговская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 272,
     "uikTvd": "4124002227176",
+    "uikName": "УИК №272",
     "tikTvd": "2122000732527",
-    "tikName": "Звениговская"
+    "tikName": "Звениговская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 273,
     "uikTvd": "4124004155942",
+    "uikName": "УИК №273",
     "tikTvd": "2122000732521",
-    "tikName": "Килемарская"
+    "tikName": "Килемарская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 274,
     "uikTvd": "4124004155943",
+    "uikName": "УИК №274",
     "tikTvd": "2122000732521",
-    "tikName": "Килемарская"
+    "tikName": "Килемарская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 275,
     "uikTvd": "4124004155944",
+    "uikName": "УИК №275",
     "tikTvd": "2122000732521",
-    "tikName": "Килемарская"
+    "tikName": "Килемарская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 276,
     "uikTvd": "4124004155945",
+    "uikName": "УИК №276",
     "tikTvd": "2122000732521",
-    "tikName": "Килемарская"
+    "tikName": "Килемарская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 277,
     "uikTvd": "4124004155946",
+    "uikName": "УИК №277",
     "tikTvd": "2122000732521",
-    "tikName": "Килемарская"
+    "tikName": "Килемарская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 278,
     "uikTvd": "4124004155947",
+    "uikName": "УИК №278",
     "tikTvd": "2122000732521",
-    "tikName": "Килемарская"
+    "tikName": "Килемарская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 279,
     "uikTvd": "4124004155948",
+    "uikName": "УИК №279",
     "tikTvd": "2122000732521",
-    "tikName": "Килемарская"
+    "tikName": "Килемарская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 280,
     "uikTvd": "4124004155949",
+    "uikName": "УИК №280",
     "tikTvd": "2122000732521",
-    "tikName": "Килемарская"
+    "tikName": "Килемарская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 281,
     "uikTvd": "4124004155950",
+    "uikName": "УИК №281",
     "tikTvd": "2122000732521",
-    "tikName": "Килемарская"
+    "tikName": "Килемарская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 282,
     "uikTvd": "4124004155951",
+    "uikName": "УИК №282",
     "tikTvd": "2122000732521",
-    "tikName": "Килемарская"
+    "tikName": "Килемарская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 283,
     "uikTvd": "4124004155952",
+    "uikName": "УИК №283",
     "tikTvd": "2122000732521",
-    "tikName": "Килемарская"
+    "tikName": "Килемарская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 284,
     "uikTvd": "4124004155953",
+    "uikName": "УИК №284",
     "tikTvd": "2122000732521",
-    "tikName": "Килемарская"
+    "tikName": "Килемарская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 285,
     "uikTvd": "4124004155954",
+    "uikName": "УИК №285",
     "tikTvd": "2122000732521",
-    "tikName": "Килемарская"
+    "tikName": "Килемарская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 286,
     "uikTvd": "4124004155955",
+    "uikName": "УИК №286",
     "tikTvd": "2122000732521",
-    "tikName": "Килемарская"
+    "tikName": "Килемарская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 287,
     "uikTvd": "4124004155956",
+    "uikName": "УИК №287",
     "tikTvd": "2122000732521",
-    "tikName": "Килемарская"
+    "tikName": "Килемарская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 288,
     "uikTvd": "4124004155957",
+    "uikName": "УИК №288",
     "tikTvd": "2122000732521",
-    "tikName": "Килемарская"
+    "tikName": "Килемарская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 289,
     "uikTvd": "4124004155958",
+    "uikName": "УИК №289",
     "tikTvd": "2122000732521",
-    "tikName": "Килемарская"
+    "tikName": "Килемарская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 290,
     "uikTvd": "4124006156054",
+    "uikName": "УИК №290",
     "tikTvd": "2122000732529",
-    "tikName": "Куженерская"
+    "tikName": "Куженерская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 291,
     "uikTvd": "4124006156055",
+    "uikName": "УИК №291",
     "tikTvd": "2122000732529",
-    "tikName": "Куженерская"
+    "tikName": "Куженерская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 292,
     "uikTvd": "4124006156056",
+    "uikName": "УИК №292",
     "tikTvd": "2122000732529",
-    "tikName": "Куженерская"
+    "tikName": "Куженерская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 293,
     "uikTvd": "4124006156057",
+    "uikName": "УИК №293",
     "tikTvd": "2122000732529",
-    "tikName": "Куженерская"
+    "tikName": "Куженерская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 294,
     "uikTvd": "4124006156058",
+    "uikName": "УИК №294",
     "tikTvd": "2122000732529",
-    "tikName": "Куженерская"
+    "tikName": "Куженерская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 295,
     "uikTvd": "4124006156059",
+    "uikName": "УИК №295",
     "tikTvd": "2122000732529",
-    "tikName": "Куженерская"
+    "tikName": "Куженерская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 296,
     "uikTvd": "4124006156060",
+    "uikName": "УИК №296",
     "tikTvd": "2122000732529",
-    "tikName": "Куженерская"
+    "tikName": "Куженерская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 297,
     "uikTvd": "4124006156061",
+    "uikName": "УИК №297",
     "tikTvd": "2122000732529",
-    "tikName": "Куженерская"
+    "tikName": "Куженерская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 298,
     "uikTvd": "4124006156062",
+    "uikName": "УИК №298",
     "tikTvd": "2122000732529",
-    "tikName": "Куженерская"
+    "tikName": "Куженерская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 299,
     "uikTvd": "4124006156063",
+    "uikName": "УИК №299",
     "tikTvd": "2122000732529",
-    "tikName": "Куженерская"
+    "tikName": "Куженерская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 300,
     "uikTvd": "4124006156064",
+    "uikName": "УИК №300",
     "tikTvd": "2122000732529",
-    "tikName": "Куженерская"
+    "tikName": "Куженерская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 301,
     "uikTvd": "4124006156065",
+    "uikName": "УИК №301",
     "tikTvd": "2122000732529",
-    "tikName": "Куженерская"
+    "tikName": "Куженерская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 302,
     "uikTvd": "4124006156066",
+    "uikName": "УИК №302",
     "tikTvd": "2122000732529",
-    "tikName": "Куженерская"
+    "tikName": "Куженерская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 303,
     "uikTvd": "4124006156067",
+    "uikName": "УИК №303",
     "tikTvd": "2122000732529",
-    "tikName": "Куженерская"
+    "tikName": "Куженерская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 304,
     "uikTvd": "4124006156068",
+    "uikName": "УИК №304",
     "tikTvd": "2122000732529",
-    "tikName": "Куженерская"
+    "tikName": "Куженерская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 305,
     "uikTvd": "4124006156069",
+    "uikName": "УИК №305",
     "tikTvd": "2122000732529",
-    "tikName": "Куженерская"
+    "tikName": "Куженерская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 306,
     "uikTvd": "4124006156070",
+    "uikName": "УИК №306",
     "tikTvd": "2122000732529",
-    "tikName": "Куженерская"
+    "tikName": "Куженерская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 307,
     "uikTvd": "4124006156071",
+    "uikName": "УИК №307",
     "tikTvd": "2122000732529",
-    "tikName": "Куженерская"
+    "tikName": "Куженерская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 308,
     "uikTvd": "4124007159568",
+    "uikName": "УИК №308",
     "tikTvd": "2122000732520",
-    "tikName": "Мари-Турекская"
+    "tikName": "Мари-Турекская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 309,
     "uikTvd": "4124007159569",
+    "uikName": "УИК №309",
     "tikTvd": "2122000732520",
-    "tikName": "Мари-Турекская"
+    "tikName": "Мари-Турекская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 310,
     "uikTvd": "4124007159570",
+    "uikName": "УИК №310",
     "tikTvd": "2122000732520",
-    "tikName": "Мари-Турекская"
+    "tikName": "Мари-Турекская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 311,
     "uikTvd": "4124007159571",
+    "uikName": "УИК №311",
     "tikTvd": "2122000732520",
-    "tikName": "Мари-Турекская"
+    "tikName": "Мари-Турекская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 312,
     "uikTvd": "4124007159572",
+    "uikName": "УИК №312",
     "tikTvd": "2122000732520",
-    "tikName": "Мари-Турекская"
+    "tikName": "Мари-Турекская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 313,
     "uikTvd": "4124007159573",
+    "uikName": "УИК №313",
     "tikTvd": "2122000732520",
-    "tikName": "Мари-Турекская"
+    "tikName": "Мари-Турекская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 314,
     "uikTvd": "4124007159574",
+    "uikName": "УИК №314",
     "tikTvd": "2122000732520",
-    "tikName": "Мари-Турекская"
+    "tikName": "Мари-Турекская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 315,
     "uikTvd": "4124007159575",
+    "uikName": "УИК №315",
     "tikTvd": "2122000732520",
-    "tikName": "Мари-Турекская"
+    "tikName": "Мари-Турекская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 316,
     "uikTvd": "4124007159576",
+    "uikName": "УИК №316",
     "tikTvd": "2122000732520",
-    "tikName": "Мари-Турекская"
+    "tikName": "Мари-Турекская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 317,
     "uikTvd": "4124007159577",
+    "uikName": "УИК №317",
     "tikTvd": "2122000732520",
-    "tikName": "Мари-Турекская"
+    "tikName": "Мари-Турекская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 318,
     "uikTvd": "4124007159578",
+    "uikName": "УИК №318",
     "tikTvd": "2122000732520",
-    "tikName": "Мари-Турекская"
+    "tikName": "Мари-Турекская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 319,
     "uikTvd": "4124007159579",
+    "uikName": "УИК №319",
     "tikTvd": "2122000732520",
-    "tikName": "Мари-Турекская"
+    "tikName": "Мари-Турекская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 320,
     "uikTvd": "4124007159580",
+    "uikName": "УИК №320",
     "tikTvd": "2122000732520",
-    "tikName": "Мари-Турекская"
+    "tikName": "Мари-Турекская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 321,
     "uikTvd": "4124007159581",
+    "uikName": "УИК №321",
     "tikTvd": "2122000732520",
-    "tikName": "Мари-Турекская"
+    "tikName": "Мари-Турекская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 322,
     "uikTvd": "4124007159582",
+    "uikName": "УИК №322",
     "tikTvd": "2122000732520",
-    "tikName": "Мари-Турекская"
+    "tikName": "Мари-Турекская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 323,
     "uikTvd": "4124007159583",
+    "uikName": "УИК №323",
     "tikTvd": "2122000732520",
-    "tikName": "Мари-Турекская"
+    "tikName": "Мари-Турекская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 324,
     "uikTvd": "4124007159584",
+    "uikName": "УИК №324",
     "tikTvd": "2122000732520",
-    "tikName": "Мари-Турекская"
+    "tikName": "Мари-Турекская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 325,
     "uikTvd": "4124007159585",
+    "uikName": "УИК №325",
     "tikTvd": "2122000732520",
-    "tikName": "Мари-Турекская"
+    "tikName": "Мари-Турекская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 326,
     "uikTvd": "4124007159586",
+    "uikName": "УИК №326",
     "tikTvd": "2122000732520",
-    "tikName": "Мари-Турекская"
+    "tikName": "Мари-Турекская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 327,
     "uikTvd": "4124007159587",
+    "uikName": "УИК №327",
     "tikTvd": "2122000732520",
-    "tikName": "Мари-Турекская"
+    "tikName": "Мари-Турекская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 328,
     "uikTvd": "4124007159588",
+    "uikName": "УИК №328",
     "tikTvd": "2122000732520",
-    "tikName": "Мари-Турекская"
+    "tikName": "Мари-Турекская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 329,
     "uikTvd": "4124007159589",
+    "uikName": "УИК №329",
     "tikTvd": "2122000732520",
-    "tikName": "Мари-Турекская"
+    "tikName": "Мари-Турекская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 330,
     "uikTvd": "4124008232411",
+    "uikName": "УИК №330",
     "tikTvd": "2122000732513",
-    "tikName": "Медведевская"
+    "tikName": "Медведевская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 331,
     "uikTvd": "4124008232413",
+    "uikName": "УИК №331",
     "tikTvd": "2122000732513",
-    "tikName": "Медведевская"
+    "tikName": "Медведевская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 332,
     "uikTvd": "4124008232414",
+    "uikName": "УИК №332",
     "tikTvd": "2122000732513",
-    "tikName": "Медведевская"
+    "tikName": "Медведевская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 333,
     "uikTvd": "4124008232415",
+    "uikName": "УИК №333",
     "tikTvd": "2122000732513",
-    "tikName": "Медведевская"
+    "tikName": "Медведевская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 334,
     "uikTvd": "4124008232416",
+    "uikName": "УИК №334",
     "tikTvd": "2122000732513",
-    "tikName": "Медведевская"
+    "tikName": "Медведевская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 335,
     "uikTvd": "4124008232417",
+    "uikName": "УИК №335",
     "tikTvd": "2122000732513",
-    "tikName": "Медведевская"
+    "tikName": "Медведевская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 336,
     "uikTvd": "4124008232418",
+    "uikName": "УИК №336",
     "tikTvd": "2122000732513",
-    "tikName": "Медведевская"
+    "tikName": "Медведевская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 337,
     "uikTvd": "4124008232419",
+    "uikName": "УИК №337",
     "tikTvd": "2122000732513",
-    "tikName": "Медведевская"
+    "tikName": "Медведевская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 338,
     "uikTvd": "4124008232420",
+    "uikName": "УИК №338",
     "tikTvd": "2122000732513",
-    "tikName": "Медведевская"
+    "tikName": "Медведевская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 339,
     "uikTvd": "4124008232421",
+    "uikName": "УИК №339",
     "tikTvd": "2122000732513",
-    "tikName": "Медведевская"
+    "tikName": "Медведевская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 340,
     "uikTvd": "4124008232422",
+    "uikName": "УИК №340",
     "tikTvd": "2122000732513",
-    "tikName": "Медведевская"
+    "tikName": "Медведевская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 341,
     "uikTvd": "4124008232423",
+    "uikName": "УИК №341",
     "tikTvd": "2122000732513",
-    "tikName": "Медведевская"
+    "tikName": "Медведевская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 342,
     "uikTvd": "4124008232424",
+    "uikName": "УИК №342",
     "tikTvd": "2122000732513",
-    "tikName": "Медведевская"
+    "tikName": "Медведевская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 343,
     "uikTvd": "4124008232425",
+    "uikName": "УИК №343",
     "tikTvd": "2122000732513",
-    "tikName": "Медведевская"
+    "tikName": "Медведевская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 344,
     "uikTvd": "4124008232426",
+    "uikName": "УИК №344",
     "tikTvd": "2122000732513",
-    "tikName": "Медведевская"
+    "tikName": "Медведевская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 345,
     "uikTvd": "4124008232427",
+    "uikName": "УИК №345",
     "tikTvd": "2122000732513",
-    "tikName": "Медведевская"
+    "tikName": "Медведевская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 346,
     "uikTvd": "4124008232428",
+    "uikName": "УИК №346",
     "tikTvd": "2122000732513",
-    "tikName": "Медведевская"
+    "tikName": "Медведевская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 347,
     "uikTvd": "4124008232429",
+    "uikName": "УИК №347",
     "tikTvd": "2122000732513",
-    "tikName": "Медведевская"
+    "tikName": "Медведевская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 348,
     "uikTvd": "4124008232430",
+    "uikName": "УИК №348",
     "tikTvd": "2122000732513",
-    "tikName": "Медведевская"
+    "tikName": "Медведевская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 349,
     "uikTvd": "4124008232431",
+    "uikName": "УИК №349",
     "tikTvd": "2122000732513",
-    "tikName": "Медведевская"
+    "tikName": "Медведевская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 350,
     "uikTvd": "4124008232432",
+    "uikName": "УИК №350",
     "tikTvd": "2122000732513",
-    "tikName": "Медведевская"
+    "tikName": "Медведевская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 351,
     "uikTvd": "4124008232433",
+    "uikName": "УИК №351",
     "tikTvd": "2122000732513",
-    "tikName": "Медведевская"
+    "tikName": "Медведевская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 352,
     "uikTvd": "4124008232434",
+    "uikName": "УИК №352",
     "tikTvd": "2122000732513",
-    "tikName": "Медведевская"
+    "tikName": "Медведевская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 353,
     "uikTvd": "4124008232435",
+    "uikName": "УИК №353",
     "tikTvd": "2122000732513",
-    "tikName": "Медведевская"
+    "tikName": "Медведевская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 354,
     "uikTvd": "4124008232436",
+    "uikName": "УИК №354",
     "tikTvd": "2122000732513",
-    "tikName": "Медведевская"
+    "tikName": "Медведевская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 355,
     "uikTvd": "4124008232437",
+    "uikName": "УИК №355",
     "tikTvd": "2122000732513",
-    "tikName": "Медведевская"
+    "tikName": "Медведевская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 356,
     "uikTvd": "4124008232438",
+    "uikName": "УИК №356",
     "tikTvd": "2122000732513",
-    "tikName": "Медведевская"
+    "tikName": "Медведевская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 357,
     "uikTvd": "4124008232439",
+    "uikName": "УИК №357",
     "tikTvd": "2122000732513",
-    "tikName": "Медведевская"
+    "tikName": "Медведевская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 358,
     "uikTvd": "4124008232440",
+    "uikName": "УИК №358",
     "tikTvd": "2122000732513",
-    "tikName": "Медведевская"
+    "tikName": "Медведевская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 359,
     "uikTvd": "4124008232441",
+    "uikName": "УИК №359",
     "tikTvd": "2122000732513",
-    "tikName": "Медведевская"
+    "tikName": "Медведевская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 360,
     "uikTvd": "4124008232442",
+    "uikName": "УИК №360",
     "tikTvd": "2122000732513",
-    "tikName": "Медведевская"
+    "tikName": "Медведевская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 361,
     "uikTvd": "4124008232443",
+    "uikName": "УИК №361",
     "tikTvd": "2122000732513",
-    "tikName": "Медведевская"
+    "tikName": "Медведевская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 362,
     "uikTvd": "4124008232444",
+    "uikName": "УИК №362",
     "tikTvd": "2122000732513",
-    "tikName": "Медведевская"
+    "tikName": "Медведевская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 363,
     "uikTvd": "4124008232445",
+    "uikName": "УИК №363",
     "tikTvd": "2122000732513",
-    "tikName": "Медведевская"
+    "tikName": "Медведевская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 364,
     "uikTvd": "4124008232446",
+    "uikName": "УИК №364",
     "tikTvd": "2122000732513",
-    "tikName": "Медведевская"
+    "tikName": "Медведевская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 365,
     "uikTvd": "4124008232447",
+    "uikName": "УИК №365",
     "tikTvd": "2122000732513",
-    "tikName": "Медведевская"
+    "tikName": "Медведевская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 366,
     "uikTvd": "4124008232448",
+    "uikName": "УИК №366",
     "tikTvd": "2122000732513",
-    "tikName": "Медведевская"
+    "tikName": "Медведевская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 367,
     "uikTvd": "4124008232449",
+    "uikName": "УИК №367",
     "tikTvd": "2122000732513",
-    "tikName": "Медведевская"
+    "tikName": "Медведевская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 368,
     "uikTvd": "4124008232450",
+    "uikName": "УИК №368",
     "tikTvd": "2122000732513",
-    "tikName": "Медведевская"
+    "tikName": "Медведевская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 369,
     "uikTvd": "4124008232451",
+    "uikName": "УИК №369",
     "tikTvd": "2122000732513",
-    "tikName": "Медведевская"
+    "tikName": "Медведевская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 370,
     "uikTvd": "4124008232452",
+    "uikName": "УИК №370",
     "tikTvd": "2122000732513",
-    "tikName": "Медведевская"
+    "tikName": "Медведевская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 371,
     "uikTvd": "4124008232453",
+    "uikName": "УИК №371",
     "tikTvd": "2122000732513",
-    "tikName": "Медведевская"
+    "tikName": "Медведевская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 372,
     "uikTvd": "4124008232454",
+    "uikName": "УИК №372",
     "tikTvd": "2122000732513",
-    "tikName": "Медведевская"
+    "tikName": "Медведевская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 373,
     "uikTvd": "4124008232455",
+    "uikName": "УИК №373",
     "tikTvd": "2122000732513",
-    "tikName": "Медведевская"
+    "tikName": "Медведевская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 374,
     "uikTvd": "4124008232456",
+    "uikName": "УИК №374",
     "tikTvd": "2122000732513",
-    "tikName": "Медведевская"
+    "tikName": "Медведевская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 375,
     "uikTvd": "4124008232457",
+    "uikName": "УИК №375",
     "tikTvd": "2122000732513",
-    "tikName": "Медведевская"
+    "tikName": "Медведевская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 376,
     "uikTvd": "4124008232458",
+    "uikName": "УИК №376",
     "tikTvd": "2122000732513",
-    "tikName": "Медведевская"
+    "tikName": "Медведевская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 377,
     "uikTvd": "4124008232459",
+    "uikName": "УИК №377",
     "tikTvd": "2122000732513",
-    "tikName": "Медведевская"
+    "tikName": "Медведевская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 378,
     "uikTvd": "4124008232460",
+    "uikName": "УИК №378",
     "tikTvd": "2122000732513",
-    "tikName": "Медведевская"
+    "tikName": "Медведевская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 379,
     "uikTvd": "4124009202505",
+    "uikName": "УИК №379",
     "tikTvd": "2122000732524",
-    "tikName": "Моркинская"
+    "tikName": "Моркинская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 380,
     "uikTvd": "4124009202506",
+    "uikName": "УИК №380",
     "tikTvd": "2122000732524",
-    "tikName": "Моркинская"
+    "tikName": "Моркинская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 381,
     "uikTvd": "4124009202507",
+    "uikName": "УИК №381",
     "tikTvd": "2122000732524",
-    "tikName": "Моркинская"
+    "tikName": "Моркинская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 382,
     "uikTvd": "4124009202508",
+    "uikName": "УИК №382",
     "tikTvd": "2122000732524",
-    "tikName": "Моркинская"
+    "tikName": "Моркинская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 383,
     "uikTvd": "4124009202509",
+    "uikName": "УИК №383",
     "tikTvd": "2122000732524",
-    "tikName": "Моркинская"
+    "tikName": "Моркинская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 384,
     "uikTvd": "4124009202510",
+    "uikName": "УИК №384",
     "tikTvd": "2122000732524",
-    "tikName": "Моркинская"
+    "tikName": "Моркинская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 385,
     "uikTvd": "4124009202511",
+    "uikName": "УИК №385",
     "tikTvd": "2122000732524",
-    "tikName": "Моркинская"
+    "tikName": "Моркинская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 386,
     "uikTvd": "4124009202512",
+    "uikName": "УИК №386",
     "tikTvd": "2122000732524",
-    "tikName": "Моркинская"
+    "tikName": "Моркинская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 387,
     "uikTvd": "4124009202513",
+    "uikName": "УИК №387",
     "tikTvd": "2122000732524",
-    "tikName": "Моркинская"
+    "tikName": "Моркинская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 388,
     "uikTvd": "4124009202514",
+    "uikName": "УИК №388",
     "tikTvd": "2122000732524",
-    "tikName": "Моркинская"
+    "tikName": "Моркинская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 389,
     "uikTvd": "4124009202515",
+    "uikName": "УИК №389",
     "tikTvd": "2122000732524",
-    "tikName": "Моркинская"
+    "tikName": "Моркинская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 390,
     "uikTvd": "4124009202516",
+    "uikName": "УИК №390",
     "tikTvd": "2122000732524",
-    "tikName": "Моркинская"
+    "tikName": "Моркинская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 391,
     "uikTvd": "4124009202517",
+    "uikName": "УИК №391",
     "tikTvd": "2122000732524",
-    "tikName": "Моркинская"
+    "tikName": "Моркинская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 392,
     "uikTvd": "4124009202518",
+    "uikName": "УИК №392",
     "tikTvd": "2122000732524",
-    "tikName": "Моркинская"
+    "tikName": "Моркинская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 393,
     "uikTvd": "4124009202519",
+    "uikName": "УИК №393",
     "tikTvd": "2122000732524",
-    "tikName": "Моркинская"
+    "tikName": "Моркинская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 394,
     "uikTvd": "4124009202520",
+    "uikName": "УИК №394",
     "tikTvd": "2122000732524",
-    "tikName": "Моркинская"
+    "tikName": "Моркинская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 395,
     "uikTvd": "4124009202521",
+    "uikName": "УИК №395",
     "tikTvd": "2122000732524",
-    "tikName": "Моркинская"
+    "tikName": "Моркинская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 396,
     "uikTvd": "4124009202522",
+    "uikName": "УИК №396",
     "tikTvd": "2122000732524",
-    "tikName": "Моркинская"
+    "tikName": "Моркинская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 397,
     "uikTvd": "4124009202523",
+    "uikName": "УИК №397",
     "tikTvd": "2122000732524",
-    "tikName": "Моркинская"
+    "tikName": "Моркинская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 398,
     "uikTvd": "4124009202524",
+    "uikName": "УИК №398",
     "tikTvd": "2122000732524",
-    "tikName": "Моркинская"
+    "tikName": "Моркинская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 399,
     "uikTvd": "4124009202525",
+    "uikName": "УИК №399",
     "tikTvd": "2122000732524",
-    "tikName": "Моркинская"
+    "tikName": "Моркинская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 400,
     "uikTvd": "4124009202526",
+    "uikName": "УИК №400",
     "tikTvd": "2122000732524",
-    "tikName": "Моркинская"
+    "tikName": "Моркинская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 401,
     "uikTvd": "4124009202527",
+    "uikName": "УИК №401",
     "tikTvd": "2122000732524",
-    "tikName": "Моркинская"
+    "tikName": "Моркинская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 402,
     "uikTvd": "4124009202528",
+    "uikName": "УИК №402",
     "tikTvd": "2122000732524",
-    "tikName": "Моркинская"
+    "tikName": "Моркинская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 403,
     "uikTvd": "4124009202529",
+    "uikName": "УИК №403",
     "tikTvd": "2122000732524",
-    "tikName": "Моркинская"
+    "tikName": "Моркинская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 404,
     "uikTvd": "4124009202530",
+    "uikName": "УИК №404",
     "tikTvd": "2122000732524",
-    "tikName": "Моркинская"
+    "tikName": "Моркинская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 405,
     "uikTvd": "4124009202531",
+    "uikName": "УИК №405",
     "tikTvd": "2122000732524",
-    "tikName": "Моркинская"
+    "tikName": "Моркинская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 406,
     "uikTvd": "4124009202532",
+    "uikName": "УИК №406",
     "tikTvd": "2122000732524",
-    "tikName": "Моркинская"
+    "tikName": "Моркинская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 407,
     "uikTvd": "4124009202533",
+    "uikName": "УИК №407",
     "tikTvd": "2122000732524",
-    "tikName": "Моркинская"
+    "tikName": "Моркинская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 408,
     "uikTvd": "4124009202534",
+    "uikName": "УИК №408",
     "tikTvd": "2122000732524",
-    "tikName": "Моркинская"
+    "tikName": "Моркинская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 409,
     "uikTvd": "4124009202535",
+    "uikName": "УИК №409",
     "tikTvd": "2122000732524",
-    "tikName": "Моркинская"
+    "tikName": "Моркинская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 410,
     "uikTvd": "4124009202536",
+    "uikName": "УИК №410",
     "tikTvd": "2122000732524",
-    "tikName": "Моркинская"
+    "tikName": "Моркинская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 411,
     "uikTvd": "4124009202537",
+    "uikName": "УИК №411",
     "tikTvd": "2122000732524",
-    "tikName": "Моркинская"
+    "tikName": "Моркинская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 412,
     "uikTvd": "4124009202538",
+    "uikName": "УИК №412",
     "tikTvd": "2122000732524",
-    "tikName": "Моркинская"
+    "tikName": "Моркинская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 413,
     "uikTvd": "4124010157173",
+    "uikName": "УИК №413",
     "tikTvd": "2122000732517",
-    "tikName": "Новоторъяльская "
+    "tikName": "Новоторъяльская ",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 414,
     "uikTvd": "4124010157174",
+    "uikName": "УИК №414",
     "tikTvd": "2122000732517",
-    "tikName": "Новоторъяльская "
+    "tikName": "Новоторъяльская ",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 415,
     "uikTvd": "4124010157175",
+    "uikName": "УИК №415",
     "tikTvd": "2122000732517",
-    "tikName": "Новоторъяльская "
+    "tikName": "Новоторъяльская ",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 416,
     "uikTvd": "4124010157176",
+    "uikName": "УИК №416",
     "tikTvd": "2122000732517",
-    "tikName": "Новоторъяльская "
+    "tikName": "Новоторъяльская ",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 417,
     "uikTvd": "4124010157177",
+    "uikName": "УИК №417",
     "tikTvd": "2122000732517",
-    "tikName": "Новоторъяльская "
+    "tikName": "Новоторъяльская ",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 418,
     "uikTvd": "4124010157178",
+    "uikName": "УИК №418",
     "tikTvd": "2122000732517",
-    "tikName": "Новоторъяльская "
+    "tikName": "Новоторъяльская ",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 419,
     "uikTvd": "4124010157179",
+    "uikName": "УИК №419",
     "tikTvd": "2122000732517",
-    "tikName": "Новоторъяльская "
+    "tikName": "Новоторъяльская ",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 420,
     "uikTvd": "4124010157180",
+    "uikName": "УИК №420",
     "tikTvd": "2122000732517",
-    "tikName": "Новоторъяльская "
+    "tikName": "Новоторъяльская ",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 421,
     "uikTvd": "4124010157181",
+    "uikName": "УИК №421",
     "tikTvd": "2122000732517",
-    "tikName": "Новоторъяльская "
+    "tikName": "Новоторъяльская ",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 422,
     "uikTvd": "4124010157182",
+    "uikName": "УИК №422",
     "tikTvd": "2122000732517",
-    "tikName": "Новоторъяльская "
+    "tikName": "Новоторъяльская ",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 423,
     "uikTvd": "4124010157183",
+    "uikName": "УИК №423",
     "tikTvd": "2122000732517",
-    "tikName": "Новоторъяльская "
+    "tikName": "Новоторъяльская ",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 424,
     "uikTvd": "4124010157184",
+    "uikName": "УИК №424",
     "tikTvd": "2122000732517",
-    "tikName": "Новоторъяльская "
+    "tikName": "Новоторъяльская ",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 425,
     "uikTvd": "4124010157185",
+    "uikName": "УИК №425",
     "tikTvd": "2122000732517",
-    "tikName": "Новоторъяльская "
+    "tikName": "Новоторъяльская ",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 426,
     "uikTvd": "4124010157186",
+    "uikName": "УИК №426",
     "tikTvd": "2122000732517",
-    "tikName": "Новоторъяльская "
+    "tikName": "Новоторъяльская ",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 427,
     "uikTvd": "4124010157187",
+    "uikName": "УИК №427",
     "tikTvd": "2122000732517",
-    "tikName": "Новоторъяльская "
+    "tikName": "Новоторъяльская ",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 428,
     "uikTvd": "4124010157188",
+    "uikName": "УИК №428",
     "tikTvd": "2122000732517",
-    "tikName": "Новоторъяльская "
+    "tikName": "Новоторъяльская ",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 429,
     "uikTvd": "4124010157189",
+    "uikName": "УИК №429",
     "tikTvd": "2122000732517",
-    "tikName": "Новоторъяльская "
+    "tikName": "Новоторъяльская ",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 430,
     "uikTvd": "4124010157190",
+    "uikName": "УИК №430",
     "tikTvd": "2122000732517",
-    "tikName": "Новоторъяльская "
+    "tikName": "Новоторъяльская ",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 431,
     "uikTvd": "4124010157191",
+    "uikName": "УИК №431",
     "tikTvd": "2122000732517",
-    "tikName": "Новоторъяльская "
+    "tikName": "Новоторъяльская ",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 432,
     "uikTvd": "4124011159691",
+    "uikName": "УИК №432",
     "tikTvd": "2122000732528",
-    "tikName": "Оршанская"
+    "tikName": "Оршанская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 433,
     "uikTvd": "4124011159692",
+    "uikName": "УИК №433",
     "tikTvd": "2122000732528",
-    "tikName": "Оршанская"
+    "tikName": "Оршанская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 434,
     "uikTvd": "4124011159693",
+    "uikName": "УИК №434",
     "tikTvd": "2122000732528",
-    "tikName": "Оршанская"
+    "tikName": "Оршанская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 435,
     "uikTvd": "4124011159694",
+    "uikName": "УИК №435",
     "tikTvd": "2122000732528",
-    "tikName": "Оршанская"
+    "tikName": "Оршанская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 436,
     "uikTvd": "4124011159695",
+    "uikName": "УИК №436",
     "tikTvd": "2122000732528",
-    "tikName": "Оршанская"
+    "tikName": "Оршанская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 437,
     "uikTvd": "4124011159696",
+    "uikName": "УИК №437",
     "tikTvd": "2122000732528",
-    "tikName": "Оршанская"
+    "tikName": "Оршанская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 438,
     "uikTvd": "4124011159697",
+    "uikName": "УИК №438",
     "tikTvd": "2122000732528",
-    "tikName": "Оршанская"
+    "tikName": "Оршанская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 439,
     "uikTvd": "4124011159698",
+    "uikName": "УИК №439",
     "tikTvd": "2122000732528",
-    "tikName": "Оршанская"
+    "tikName": "Оршанская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 440,
     "uikTvd": "4124011159699",
+    "uikName": "УИК №440",
     "tikTvd": "2122000732528",
-    "tikName": "Оршанская"
+    "tikName": "Оршанская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 441,
     "uikTvd": "4124011159700",
+    "uikName": "УИК №441",
     "tikTvd": "2122000732528",
-    "tikName": "Оршанская"
+    "tikName": "Оршанская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 442,
     "uikTvd": "4124011159701",
+    "uikName": "УИК №442",
     "tikTvd": "2122000732528",
-    "tikName": "Оршанская"
+    "tikName": "Оршанская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 443,
     "uikTvd": "4124011159702",
+    "uikName": "УИК №443",
     "tikTvd": "2122000732528",
-    "tikName": "Оршанская"
+    "tikName": "Оршанская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 444,
     "uikTvd": "4124011159703",
+    "uikName": "УИК №444",
     "tikTvd": "2122000732528",
-    "tikName": "Оршанская"
+    "tikName": "Оршанская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 445,
     "uikTvd": "4124011159704",
+    "uikName": "УИК №445",
     "tikTvd": "2122000732528",
-    "tikName": "Оршанская"
+    "tikName": "Оршанская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 446,
     "uikTvd": "4124011159705",
+    "uikName": "УИК №446",
     "tikTvd": "2122000732528",
-    "tikName": "Оршанская"
+    "tikName": "Оршанская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 447,
     "uikTvd": "4124011159706",
+    "uikName": "УИК №447",
     "tikTvd": "2122000732528",
-    "tikName": "Оршанская"
+    "tikName": "Оршанская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 448,
     "uikTvd": "4124011159707",
+    "uikName": "УИК №448",
     "tikTvd": "2122000732528",
-    "tikName": "Оршанская"
+    "tikName": "Оршанская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 449,
     "uikTvd": "4124012155977",
+    "uikName": "УИК №449",
     "tikTvd": "2122000732516",
-    "tikName": "Параньгинская"
+    "tikName": "Параньгинская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 450,
     "uikTvd": "4124012155978",
+    "uikName": "УИК №450",
     "tikTvd": "2122000732516",
-    "tikName": "Параньгинская"
+    "tikName": "Параньгинская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 451,
     "uikTvd": "4124012155979",
+    "uikName": "УИК №451",
     "tikTvd": "2122000732516",
-    "tikName": "Параньгинская"
+    "tikName": "Параньгинская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 452,
     "uikTvd": "4124012155980",
+    "uikName": "УИК №452",
     "tikTvd": "2122000732516",
-    "tikName": "Параньгинская"
+    "tikName": "Параньгинская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 453,
     "uikTvd": "4124012155981",
+    "uikName": "УИК №453",
     "tikTvd": "2122000732516",
-    "tikName": "Параньгинская"
+    "tikName": "Параньгинская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 454,
     "uikTvd": "4124012155982",
+    "uikName": "УИК №454",
     "tikTvd": "2122000732516",
-    "tikName": "Параньгинская"
+    "tikName": "Параньгинская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 455,
     "uikTvd": "4124012155983",
+    "uikName": "УИК №455",
     "tikTvd": "2122000732516",
-    "tikName": "Параньгинская"
+    "tikName": "Параньгинская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 456,
     "uikTvd": "4124012155984",
+    "uikName": "УИК №456",
     "tikTvd": "2122000732516",
-    "tikName": "Параньгинская"
+    "tikName": "Параньгинская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 457,
     "uikTvd": "4124012155985",
+    "uikName": "УИК №457",
     "tikTvd": "2122000732516",
-    "tikName": "Параньгинская"
+    "tikName": "Параньгинская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 458,
     "uikTvd": "4124012155986",
+    "uikName": "УИК №458",
     "tikTvd": "2122000732516",
-    "tikName": "Параньгинская"
+    "tikName": "Параньгинская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 459,
     "uikTvd": "4124012155987",
+    "uikName": "УИК №459",
     "tikTvd": "2122000732516",
-    "tikName": "Параньгинская"
+    "tikName": "Параньгинская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 460,
     "uikTvd": "4124012155988",
+    "uikName": "УИК №460",
     "tikTvd": "2122000732516",
-    "tikName": "Параньгинская"
+    "tikName": "Параньгинская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 461,
     "uikTvd": "4124012155989",
+    "uikName": "УИК №461",
     "tikTvd": "2122000732516",
-    "tikName": "Параньгинская"
+    "tikName": "Параньгинская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 462,
     "uikTvd": "4124012155990",
+    "uikName": "УИК №462",
     "tikTvd": "2122000732516",
-    "tikName": "Параньгинская"
+    "tikName": "Параньгинская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 463,
     "uikTvd": "4124012155991",
+    "uikName": "УИК №463",
     "tikTvd": "2122000732516",
-    "tikName": "Параньгинская"
+    "tikName": "Параньгинская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 464,
     "uikTvd": "4124012155992",
+    "uikName": "УИК №464",
     "tikTvd": "2122000732516",
-    "tikName": "Параньгинская"
+    "tikName": "Параньгинская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 465,
     "uikTvd": "4124013177880",
+    "uikName": "УИК №465",
     "tikTvd": "2122000732525",
-    "tikName": "Сернурская "
+    "tikName": "Сернурская ",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 466,
     "uikTvd": "4124013177881",
+    "uikName": "УИК №466",
     "tikTvd": "2122000732525",
-    "tikName": "Сернурская "
+    "tikName": "Сернурская ",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 467,
     "uikTvd": "4124013177882",
+    "uikName": "УИК №467",
     "tikTvd": "2122000732525",
-    "tikName": "Сернурская "
+    "tikName": "Сернурская ",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 468,
     "uikTvd": "4124013177883",
+    "uikName": "УИК №468",
     "tikTvd": "2122000732525",
-    "tikName": "Сернурская "
+    "tikName": "Сернурская ",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 469,
     "uikTvd": "4124013177884",
+    "uikName": "УИК №469",
     "tikTvd": "2122000732525",
-    "tikName": "Сернурская "
+    "tikName": "Сернурская ",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 470,
     "uikTvd": "4124013177885",
+    "uikName": "УИК №470",
     "tikTvd": "2122000732525",
-    "tikName": "Сернурская "
+    "tikName": "Сернурская ",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 471,
     "uikTvd": "4124013177886",
+    "uikName": "УИК №471",
     "tikTvd": "2122000732525",
-    "tikName": "Сернурская "
+    "tikName": "Сернурская ",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 472,
     "uikTvd": "4124013177887",
+    "uikName": "УИК №472",
     "tikTvd": "2122000732525",
-    "tikName": "Сернурская "
+    "tikName": "Сернурская ",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 473,
     "uikTvd": "4124013177888",
+    "uikName": "УИК №473",
     "tikTvd": "2122000732525",
-    "tikName": "Сернурская "
+    "tikName": "Сернурская ",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 474,
     "uikTvd": "4124013177889",
+    "uikName": "УИК №474",
     "tikTvd": "2122000732525",
-    "tikName": "Сернурская "
+    "tikName": "Сернурская ",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 475,
     "uikTvd": "4124013177890",
+    "uikName": "УИК №475",
     "tikTvd": "2122000732525",
-    "tikName": "Сернурская "
+    "tikName": "Сернурская ",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 476,
     "uikTvd": "4124013177891",
+    "uikName": "УИК №476",
     "tikTvd": "2122000732525",
-    "tikName": "Сернурская "
+    "tikName": "Сернурская ",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 477,
     "uikTvd": "4124013177892",
+    "uikName": "УИК №477",
     "tikTvd": "2122000732525",
-    "tikName": "Сернурская "
+    "tikName": "Сернурская ",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 478,
     "uikTvd": "4124013177893",
+    "uikName": "УИК №478",
     "tikTvd": "2122000732525",
-    "tikName": "Сернурская "
+    "tikName": "Сернурская ",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 479,
     "uikTvd": "4124013177894",
+    "uikName": "УИК №479",
     "tikTvd": "2122000732525",
-    "tikName": "Сернурская "
+    "tikName": "Сернурская ",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 480,
     "uikTvd": "4124013177895",
+    "uikName": "УИК №480",
     "tikTvd": "2122000732525",
-    "tikName": "Сернурская "
+    "tikName": "Сернурская ",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 481,
     "uikTvd": "4124013177896",
+    "uikName": "УИК №481",
     "tikTvd": "2122000732525",
-    "tikName": "Сернурская "
+    "tikName": "Сернурская ",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 482,
     "uikTvd": "4124013177897",
+    "uikName": "УИК №482",
     "tikTvd": "2122000732525",
-    "tikName": "Сернурская "
+    "tikName": "Сернурская ",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 483,
     "uikTvd": "4124013177898",
+    "uikName": "УИК №483",
     "tikTvd": "2122000732525",
-    "tikName": "Сернурская "
+    "tikName": "Сернурская ",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 484,
     "uikTvd": "4124013177899",
+    "uikName": "УИК №484",
     "tikTvd": "2122000732525",
-    "tikName": "Сернурская "
+    "tikName": "Сернурская ",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 485,
     "uikTvd": "4124013177900",
+    "uikName": "УИК №485",
     "tikTvd": "2122000732525",
-    "tikName": "Сернурская "
+    "tikName": "Сернурская ",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 486,
     "uikTvd": "4124013177901",
+    "uikName": "УИК №486",
     "tikTvd": "2122000732525",
-    "tikName": "Сернурская "
+    "tikName": "Сернурская ",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 487,
     "uikTvd": "4124013177902",
+    "uikName": "УИК №487",
     "tikTvd": "2122000732525",
-    "tikName": "Сернурская "
+    "tikName": "Сернурская ",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 488,
     "uikTvd": "4124013177903",
+    "uikName": "УИК №488",
     "tikTvd": "2122000732525",
-    "tikName": "Сернурская "
+    "tikName": "Сернурская ",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 489,
     "uikTvd": "4124013177904",
+    "uikName": "УИК №489",
     "tikTvd": "2122000732525",
-    "tikName": "Сернурская "
+    "tikName": "Сернурская ",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 490,
     "uikTvd": "4124013177905",
+    "uikName": "УИК №490",
     "tikTvd": "2122000732525",
-    "tikName": "Сернурская "
+    "tikName": "Сернурская ",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 491,
     "uikTvd": "4124014171190",
+    "uikName": "УИК №491",
     "tikTvd": "2122000732522",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 492,
     "uikTvd": "4124014171191",
+    "uikName": "УИК №492",
     "tikTvd": "2122000732522",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 493,
     "uikTvd": "4124014171192",
+    "uikName": "УИК №493",
     "tikTvd": "2122000732522",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 494,
     "uikTvd": "4124014171193",
+    "uikName": "УИК №494",
     "tikTvd": "2122000732522",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 495,
     "uikTvd": "4124014171194",
+    "uikName": "УИК №495",
     "tikTvd": "2122000732522",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 496,
     "uikTvd": "4124014171195",
+    "uikName": "УИК №496",
     "tikTvd": "2122000732522",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 497,
     "uikTvd": "4124014171196",
+    "uikName": "УИК №497",
     "tikTvd": "2122000732522",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 498,
     "uikTvd": "4124014171197",
+    "uikName": "УИК №498",
     "tikTvd": "2122000732522",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 499,
     "uikTvd": "4124014171198",
+    "uikName": "УИК №499",
     "tikTvd": "2122000732522",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 500,
     "uikTvd": "4124014171199",
+    "uikName": "УИК №500",
     "tikTvd": "2122000732522",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 501,
     "uikTvd": "4124014171200",
+    "uikName": "УИК №501",
     "tikTvd": "2122000732522",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 502,
     "uikTvd": "4124014171201",
+    "uikName": "УИК №502",
     "tikTvd": "2122000732522",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 503,
     "uikTvd": "4124014171202",
+    "uikName": "УИК №503",
     "tikTvd": "2122000732522",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 504,
     "uikTvd": "4124014171203",
+    "uikName": "УИК №504",
     "tikTvd": "2122000732522",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 505,
     "uikTvd": "4124014171204",
+    "uikName": "УИК №505",
     "tikTvd": "2122000732522",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 506,
     "uikTvd": "4124014171205",
+    "uikName": "УИК №506",
     "tikTvd": "2122000732522",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 507,
     "uikTvd": "4124014171206",
+    "uikName": "УИК №507",
     "tikTvd": "2122000732522",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 508,
     "uikTvd": "4124014171207",
+    "uikName": "УИК №508",
     "tikTvd": "2122000732522",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 509,
     "uikTvd": "4124014171208",
+    "uikName": "УИК №509",
     "tikTvd": "2122000732522",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 510,
     "uikTvd": "4124014171209",
+    "uikName": "УИК №510",
     "tikTvd": "2122000732522",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 511,
     "uikTvd": "4124014171210",
+    "uikName": "УИК №511",
     "tikTvd": "2122000732522",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 512,
     "uikTvd": "4124015142957",
+    "uikName": "УИК №512",
     "tikTvd": "2122000732515",
-    "tikName": "Юринская "
+    "tikName": "Юринская ",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 513,
     "uikTvd": "4124015142958",
+    "uikName": "УИК №513",
     "tikTvd": "2122000732515",
-    "tikName": "Юринская "
+    "tikName": "Юринская ",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 514,
     "uikTvd": "4124015142959",
+    "uikName": "УИК №514",
     "tikTvd": "2122000732515",
-    "tikName": "Юринская "
+    "tikName": "Юринская ",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 515,
     "uikTvd": "4124015142960",
+    "uikName": "УИК №515",
     "tikTvd": "2122000732515",
-    "tikName": "Юринская "
+    "tikName": "Юринская ",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 516,
     "uikTvd": "4124015142961",
+    "uikName": "УИК №516",
     "tikTvd": "2122000732515",
-    "tikName": "Юринская "
+    "tikName": "Юринская ",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 517,
     "uikTvd": "4124015142962",
+    "uikName": "УИК №517",
     "tikTvd": "2122000732515",
-    "tikName": "Юринская "
+    "tikName": "Юринская ",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 518,
     "uikTvd": "4124015142963",
+    "uikName": "УИК №518",
     "tikTvd": "2122000732515",
-    "tikName": "Юринская "
+    "tikName": "Юринская ",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 519,
     "uikTvd": "4124015142964",
+    "uikName": "УИК №519",
     "tikTvd": "2122000732515",
-    "tikName": "Юринская "
+    "tikName": "Юринская ",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 520,
     "uikTvd": "4124015142965",
+    "uikName": "УИК №520",
     "tikTvd": "2122000732515",
-    "tikName": "Юринская "
+    "tikName": "Юринская ",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 521,
     "uikTvd": "4124015142966",
+    "uikName": "УИК №521",
     "tikTvd": "2122000732515",
-    "tikName": "Юринская "
+    "tikName": "Юринская ",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 522,
     "uikTvd": "4124015142967",
+    "uikName": "УИК №522",
     "tikTvd": "2122000732515",
-    "tikName": "Юринская "
+    "tikName": "Юринская ",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 523,
     "uikTvd": "4124015142968",
+    "uikName": "УИК №523",
     "tikTvd": "2122000732515",
-    "tikName": "Юринская "
+    "tikName": "Юринская ",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 524,
     "uikTvd": "4124015142969",
+    "uikName": "УИК №524",
     "tikTvd": "2122000732515",
-    "tikName": "Юринская "
+    "tikName": "Юринская ",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 525,
     "uikTvd": "4124003233791",
+    "uikName": "УИК №525",
     "tikTvd": "2122000732514",
-    "tikName": "Йошкар-Олинская городская № 1"
+    "tikName": "Йошкар-Олинская городская № 1",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 526,
     "uikTvd": "4124003233792",
+    "uikName": "УИК №526",
     "tikTvd": "2122000732514",
-    "tikName": "Йошкар-Олинская городская № 1"
+    "tikName": "Йошкар-Олинская городская № 1",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 527,
     "uikTvd": "4124018208621",
+    "uikName": "УИК №527",
     "tikTvd": "2122000732519",
-    "tikName": "Йошкар-Олинская городская № 2"
+    "tikName": "Йошкар-Олинская городская № 2",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 528,
     "uikTvd": "4124018208622",
+    "uikName": "УИК №528",
     "tikTvd": "2122000732519",
-    "tikName": "Йошкар-Олинская городская № 2"
+    "tikName": "Йошкар-Олинская городская № 2",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 529,
     "uikTvd": "4124018208623",
+    "uikName": "УИК №529",
     "tikTvd": "2122000732519",
-    "tikName": "Йошкар-Олинская городская № 2"
+    "tikName": "Йошкар-Олинская городская № 2",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   },
   {
     "uikNumber": 530,
     "uikTvd": "4124018208624",
+    "uikName": "УИК №530",
     "tikTvd": "2122000732519",
-    "tikName": "Йошкар-Олинская городская № 2"
+    "tikName": "Йошкар-Олинская городская № 2",
+    "regionCode": "12",
+    "regionTvd": "100100084849138",
+    "regionName": "Республика Марий Эл",
+    "district": null
   }
 ] satisfies readonly UikTikRelation[];

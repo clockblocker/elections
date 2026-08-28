@@ -11,6 +11,9 @@ export const president_2024_tic_227_region_13 = [
     "ballot": "presidential",
     "tikTvd": "21320001362236",
     "tikName": "Ардатовская",
+    "regionCode": "13",
+    "regionTvd": "100100339411207",
+    "regionName": "Республика Мордовия",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 16751,
@@ -87,6 +90,9 @@ export const president_2024_tic_227_region_13 = [
     "ballot": "presidential",
     "tikTvd": "21320001362237",
     "tikName": "Атюрьевская",
+    "regionCode": "13",
+    "regionTvd": "100100339411207",
+    "regionName": "Республика Мордовия",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 6583,
@@ -143,6 +149,9 @@ export const president_2024_tic_227_region_13 = [
     "ballot": "presidential",
     "tikTvd": "21320001362280",
     "tikName": "Атяшевская",
+    "regionCode": "13",
+    "regionTvd": "100100339411207",
+    "regionName": "Республика Мордовия",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 13092,
@@ -213,6 +222,9 @@ export const president_2024_tic_227_region_13 = [
     "ballot": "presidential",
     "tikTvd": "21320001362281",
     "tikName": "Большеберезниковская",
+    "regionCode": "13",
+    "regionTvd": "100100339411207",
+    "regionName": "Республика Мордовия",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 8519,
@@ -278,6 +290,9 @@ export const president_2024_tic_227_region_13 = [
     "ballot": "presidential",
     "tikTvd": "21320001362282",
     "tikName": "Большеигнатовская",
+    "regionCode": "13",
+    "regionTvd": "100100339411207",
+    "regionName": "Республика Мордовия",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 4973,
@@ -336,6 +351,9 @@ export const president_2024_tic_227_region_13 = [
     "ballot": "presidential",
     "tikTvd": "21320001362283",
     "tikName": "Дубенская",
+    "regionCode": "13",
+    "regionTvd": "100100339411207",
+    "regionName": "Республика Мордовия",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 8885,
@@ -399,6 +417,9 @@ export const president_2024_tic_227_region_13 = [
     "ballot": "presidential",
     "tikTvd": "21320001362284",
     "tikName": "Ельниковская",
+    "regionCode": "13",
+    "regionTvd": "100100339411207",
+    "regionName": "Республика Мордовия",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 7116,
@@ -457,6 +478,9 @@ export const president_2024_tic_227_region_13 = [
     "ballot": "presidential",
     "tikTvd": "21320001362285",
     "tikName": "Зубово-Полянская",
+    "regionCode": "13",
+    "regionTvd": "100100339411207",
+    "regionName": "Республика Мордовия",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 28072,
@@ -543,6 +567,9 @@ export const president_2024_tic_227_region_13 = [
     "ballot": "presidential",
     "tikTvd": "21320001362286",
     "tikName": "Инсарская",
+    "regionCode": "13",
+    "regionTvd": "100100339411207",
+    "regionName": "Республика Мордовия",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 8904,
@@ -607,6 +634,9 @@ export const president_2024_tic_227_region_13 = [
     "ballot": "presidential",
     "tikTvd": "21320001362287",
     "tikName": "Ичалковская",
+    "regionCode": "13",
+    "regionTvd": "100100339411207",
+    "regionName": "Республика Мордовия",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 12820,
@@ -678,6 +708,9 @@ export const president_2024_tic_227_region_13 = [
     "ballot": "presidential",
     "tikTvd": "21320001362288",
     "tikName": "Кадошкинская",
+    "regionCode": "13",
+    "regionTvd": "100100339411207",
+    "regionName": "Республика Мордовия",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 5337,
@@ -729,6 +762,9 @@ export const president_2024_tic_227_region_13 = [
     "ballot": "presidential",
     "tikTvd": "21320001362289",
     "tikName": "Ковылкинская",
+    "regionCode": "13",
+    "regionTvd": "100100339411207",
+    "regionName": "Республика Мордовия",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 26531,
@@ -819,6 +855,9 @@ export const president_2024_tic_227_region_13 = [
     "ballot": "presidential",
     "tikTvd": "21320001362290",
     "tikName": "Кочкуровская",
+    "regionCode": "13",
+    "regionTvd": "100100339411207",
+    "regionName": "Республика Мордовия",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 6612,
@@ -871,6 +910,9 @@ export const president_2024_tic_227_region_13 = [
     "ballot": "presidential",
     "tikTvd": "21320001362291",
     "tikName": "Краснослободская",
+    "regionCode": "13",
+    "regionTvd": "100100339411207",
+    "regionName": "Республика Мордовия",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 16038,
@@ -940,6 +982,9 @@ export const president_2024_tic_227_region_13 = [
     "ballot": "presidential",
     "tikTvd": "21320001362292",
     "tikName": "Лямбирская",
+    "regionCode": "13",
+    "regionTvd": "100100339411207",
+    "regionName": "Республика Мордовия",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 23972,
@@ -1011,6 +1056,9 @@ export const president_2024_tic_227_region_13 = [
     "ballot": "presidential",
     "tikTvd": "21320001362293",
     "tikName": "Ромодановская",
+    "regionCode": "13",
+    "regionTvd": "100100339411207",
+    "regionName": "Республика Мордовия",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 13506,
@@ -1082,6 +1130,9 @@ export const president_2024_tic_227_region_13 = [
     "ballot": "presidential",
     "tikTvd": "21320001362294",
     "tikName": "Рузаевская",
+    "regionCode": "13",
+    "regionTvd": "100100339411207",
+    "regionName": "Республика Мордовия",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 45602,
@@ -1172,6 +1223,9 @@ export const president_2024_tic_227_region_13 = [
     "ballot": "presidential",
     "tikTvd": "21320001362295",
     "tikName": "Ленинская",
+    "regionCode": "13",
+    "regionTvd": "100100339411207",
+    "regionName": "Республика Мордовия",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 80319,
@@ -1253,6 +1307,9 @@ export const president_2024_tic_227_region_13 = [
     "ballot": "presidential",
     "tikTvd": "21320001362296",
     "tikName": "Октябрьская",
+    "regionCode": "13",
+    "regionTvd": "100100339411207",
+    "regionName": "Республика Мордовия",
     "uikCount": 55,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 105317,
@@ -1348,6 +1405,9 @@ export const president_2024_tic_227_region_13 = [
     "ballot": "presidential",
     "tikTvd": "21320001362297",
     "tikName": "Пролетарская",
+    "regionCode": "13",
+    "regionTvd": "100100339411207",
+    "regionName": "Республика Мордовия",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 66861,
@@ -1421,6 +1481,9 @@ export const president_2024_tic_227_region_13 = [
     "ballot": "presidential",
     "tikTvd": "21320001362298",
     "tikName": "Старошайговская",
+    "regionCode": "13",
+    "regionTvd": "100100339411207",
+    "regionName": "Республика Мордовия",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 8196,
@@ -1484,6 +1547,9 @@ export const president_2024_tic_227_region_13 = [
     "ballot": "presidential",
     "tikTvd": "21320001362299",
     "tikName": "Темниковская",
+    "regionCode": "13",
+    "regionTvd": "100100339411207",
+    "regionName": "Республика Мордовия",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10620,
@@ -1553,6 +1619,9 @@ export const president_2024_tic_227_region_13 = [
     "ballot": "presidential",
     "tikTvd": "21320001362300",
     "tikName": "Теньгушевская",
+    "regionCode": "13",
+    "regionTvd": "100100339411207",
+    "regionName": "Республика Мордовия",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 6800,
@@ -1611,6 +1680,9 @@ export const president_2024_tic_227_region_13 = [
     "ballot": "presidential",
     "tikTvd": "21320001362301",
     "tikName": "Торбеевская",
+    "regionCode": "13",
+    "regionTvd": "100100339411207",
+    "regionName": "Республика Мордовия",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 13090,
@@ -1679,6 +1751,9 @@ export const president_2024_tic_227_region_13 = [
     "ballot": "presidential",
     "tikTvd": "21320001362302",
     "tikName": "Чамзинская",
+    "regionCode": "13",
+    "regionTvd": "100100339411207",
+    "regionName": "Республика Мордовия",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 22050,

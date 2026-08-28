@@ -11,6 +11,9 @@ export const duma_2011_tic_233_region_12 = [
     "ballot": "party",
     "tikTvd": "2122000250464",
     "tikName": "Горномарийская районная",
+    "regionCode": "12",
+    "regionTvd": "100100028713322",
+    "regionName": "Республика Марий Эл",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 17841,
@@ -103,6 +106,9 @@ export const duma_2011_tic_233_region_12 = [
     "ballot": "party",
     "tikTvd": "2122000250465",
     "tikName": "Волжская городская",
+    "regionCode": "12",
+    "regionTvd": "100100028713322",
+    "regionName": "Республика Марий Эл",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 45943,
@@ -182,6 +188,9 @@ export const duma_2011_tic_233_region_12 = [
     "ballot": "party",
     "tikTvd": "2122000250466",
     "tikName": "Волжская районная",
+    "regionCode": "12",
+    "regionTvd": "100100028713322",
+    "regionName": "Республика Марий Эл",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 17680,
@@ -255,6 +264,9 @@ export const duma_2011_tic_233_region_12 = [
     "ballot": "party",
     "tikTvd": "2122000250467",
     "tikName": "Звениговская районная",
+    "regionCode": "12",
+    "regionTvd": "100100028713322",
+    "regionName": "Республика Марий Эл",
     "uikCount": 52,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 32705,
@@ -356,6 +368,9 @@ export const duma_2011_tic_233_region_12 = [
     "ballot": "party",
     "tikTvd": "2122000250468",
     "tikName": "Йошкар-Олинская городская № 1",
+    "regionCode": "12",
+    "regionTvd": "100100028713322",
+    "regionName": "Республика Марий Эл",
     "uikCount": 62,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 106084,
@@ -467,6 +482,9 @@ export const duma_2011_tic_233_region_12 = [
     "ballot": "party",
     "tikTvd": "2122000250469",
     "tikName": "Килемарская районная",
+    "regionCode": "12",
+    "regionTvd": "100100028713322",
+    "regionName": "Республика Марий Эл",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 9898,
@@ -533,6 +551,9 @@ export const duma_2011_tic_233_region_12 = [
     "ballot": "party",
     "tikTvd": "2122000250470",
     "tikName": "Козьмодемьянская городская",
+    "regionCode": "12",
+    "regionTvd": "100100028713322",
+    "regionName": "Республика Марий Эл",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 16864,
@@ -600,6 +621,9 @@ export const duma_2011_tic_233_region_12 = [
     "ballot": "party",
     "tikTvd": "2122000250471",
     "tikName": "Мари-Турекская районная",
+    "regionCode": "12",
+    "regionTvd": "100100028713322",
+    "regionName": "Республика Марий Эл",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 17913,
@@ -675,6 +699,9 @@ export const duma_2011_tic_233_region_12 = [
     "ballot": "party",
     "tikTvd": "2122000250472",
     "tikName": "Медведевская районная",
+    "regionCode": "12",
+    "regionTvd": "100100028713322",
+    "regionName": "Республика Марий Эл",
     "uikCount": 49,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 45439,
@@ -773,6 +800,9 @@ export const duma_2011_tic_233_region_12 = [
     "ballot": "party",
     "tikTvd": "2122000250473",
     "tikName": "Моркинская районная",
+    "regionCode": "12",
+    "regionTvd": "100100028713322",
+    "regionName": "Республика Марий Эл",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 24636,
@@ -863,6 +893,9 @@ export const duma_2011_tic_233_region_12 = [
     "ballot": "party",
     "tikTvd": "2122000250474",
     "tikName": "Новоторъяльская районная",
+    "regionCode": "12",
+    "regionTvd": "100100028713322",
+    "regionName": "Республика Марий Эл",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 12276,
@@ -930,6 +963,9 @@ export const duma_2011_tic_233_region_12 = [
     "ballot": "party",
     "tikTvd": "2122000250475",
     "tikName": "Оршанская районная",
+    "regionCode": "12",
+    "regionTvd": "100100028713322",
+    "regionName": "Республика Марий Эл",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 11138,
@@ -996,6 +1032,9 @@ export const duma_2011_tic_233_region_12 = [
     "ballot": "party",
     "tikTvd": "2122000250476",
     "tikName": "Параньгинская районная",
+    "regionCode": "12",
+    "regionTvd": "100100028713322",
+    "regionName": "Республика Марий Эл",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 12079,
@@ -1063,6 +1102,9 @@ export const duma_2011_tic_233_region_12 = [
     "ballot": "party",
     "tikTvd": "2122000250477",
     "tikName": "Сернурская районная",
+    "regionCode": "12",
+    "regionTvd": "100100028713322",
+    "regionName": "Республика Марий Эл",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 18279,
@@ -1144,6 +1186,9 @@ export const duma_2011_tic_233_region_12 = [
     "ballot": "party",
     "tikTvd": "2122000250478",
     "tikName": "Советская районная",
+    "regionCode": "12",
+    "regionTvd": "100100028713322",
+    "regionName": "Республика Марий Эл",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 23787,
@@ -1217,6 +1262,9 @@ export const duma_2011_tic_233_region_12 = [
     "ballot": "party",
     "tikTvd": "2122000250479",
     "tikName": "Юринская районная",
+    "regionCode": "12",
+    "regionTvd": "100100028713322",
+    "regionName": "Республика Марий Эл",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 7293,
@@ -1279,6 +1327,9 @@ export const duma_2011_tic_233_region_12 = [
     "ballot": "party",
     "tikTvd": "2122000250480",
     "tikName": "Куженерская районная",
+    "regionCode": "12",
+    "regionTvd": "100100028713322",
+    "regionName": "Республика Марий Эл",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 11317,
@@ -1346,6 +1397,9 @@ export const duma_2011_tic_233_region_12 = [
     "ballot": "party",
     "tikTvd": "2122000250481",
     "tikName": "Йошкар-Олинская городская № 2",
+    "regionCode": "12",
+    "regionTvd": "100100028713322",
+    "regionName": "Республика Марий Эл",
     "uikCount": 59,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 102061,

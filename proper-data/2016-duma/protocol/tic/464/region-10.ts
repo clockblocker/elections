@@ -11,6 +11,14 @@ export const duma_2016_tic_464_region_10 = [
     "ballot": "single-member",
     "tikTvd": "2102000495634",
     "tikName": "Костомукшская городская",
+    "regionCode": "10",
+    "regionTvd": "100100067795880",
+    "regionName": "Республика Карелия",
+    "district": {
+      "districtNumber": 17,
+      "oikTvd": "100100067795881",
+      "oikName": "Республика Карелия – Карельский"
+    },
     "uikCount": 12,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 24513,
@@ -75,6 +83,14 @@ export const duma_2016_tic_464_region_10 = [
     "ballot": "single-member",
     "tikTvd": "2102000495635",
     "tikName": "Медвежьегорская",
+    "regionCode": "10",
+    "regionTvd": "100100067795880",
+    "regionName": "Республика Карелия",
+    "district": {
+      "districtNumber": 17,
+      "oikTvd": "100100067795881",
+      "oikName": "Республика Карелия – Карельский"
+    },
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 26754,
@@ -154,6 +170,14 @@ export const duma_2016_tic_464_region_10 = [
     "ballot": "single-member",
     "tikTvd": "2102000495636",
     "tikName": "Кемская",
+    "regionCode": "10",
+    "regionTvd": "100100067795880",
+    "regionName": "Республика Карелия",
+    "district": {
+      "districtNumber": 17,
+      "oikTvd": "100100067795881",
+      "oikName": "Республика Карелия – Карельский"
+    },
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 14468,
@@ -221,6 +245,14 @@ export const duma_2016_tic_464_region_10 = [
     "ballot": "single-member",
     "tikTvd": "2102000495637",
     "tikName": "Пряжинская",
+    "regionCode": "10",
+    "regionTvd": "100100067795880",
+    "regionName": "Республика Карелия",
+    "district": {
+      "districtNumber": 17,
+      "oikTvd": "100100067795881",
+      "oikName": "Республика Карелия – Карельский"
+    },
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 13127,
@@ -294,6 +326,14 @@ export const duma_2016_tic_464_region_10 = [
     "ballot": "single-member",
     "tikTvd": "2102000495638",
     "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100067795880",
+    "regionName": "Республика Карелия",
+    "district": {
+      "districtNumber": 17,
+      "oikTvd": "100100067795881",
+      "oikName": "Республика Карелия – Карельский"
+    },
     "uikCount": 67,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 101247,
@@ -413,6 +453,14 @@ export const duma_2016_tic_464_region_10 = [
     "ballot": "single-member",
     "tikTvd": "2102000495639",
     "tikName": "Суоярвская",
+    "regionCode": "10",
+    "regionTvd": "100100067795880",
+    "regionName": "Республика Карелия",
+    "district": {
+      "districtNumber": 17,
+      "oikTvd": "100100067795881",
+      "oikName": "Республика Карелия – Карельский"
+    },
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 16152,
@@ -485,6 +533,14 @@ export const duma_2016_tic_464_region_10 = [
     "ballot": "single-member",
     "tikTvd": "2102000495640",
     "tikName": "Олонецкая",
+    "regionCode": "10",
+    "regionTvd": "100100067795880",
+    "regionName": "Республика Карелия",
+    "district": {
+      "districtNumber": 17,
+      "oikTvd": "100100067795881",
+      "oikName": "Республика Карелия – Карельский"
+    },
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 20518,
@@ -560,6 +616,14 @@ export const duma_2016_tic_464_region_10 = [
     "ballot": "single-member",
     "tikTvd": "2102000495641",
     "tikName": "Сегежская",
+    "regionCode": "10",
+    "regionTvd": "100100067795880",
+    "regionName": "Республика Карелия",
+    "district": {
+      "districtNumber": 17,
+      "oikTvd": "100100067795881",
+      "oikName": "Республика Карелия – Карельский"
+    },
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 32383,
@@ -642,6 +706,14 @@ export const duma_2016_tic_464_region_10 = [
     "ballot": "single-member",
     "tikTvd": "2102000495642",
     "tikName": "Сортавальская",
+    "regionCode": "10",
+    "regionTvd": "100100067795880",
+    "regionName": "Республика Карелия",
+    "district": {
+      "districtNumber": 17,
+      "oikTvd": "100100067795881",
+      "oikName": "Республика Карелия – Карельский"
+    },
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 26118,
@@ -715,6 +787,14 @@ export const duma_2016_tic_464_region_10 = [
     "ballot": "single-member",
     "tikTvd": "2102000495643",
     "tikName": "Лоухская",
+    "regionCode": "10",
+    "regionTvd": "100100067795880",
+    "regionName": "Республика Карелия",
+    "district": {
+      "districtNumber": 17,
+      "oikTvd": "100100067795881",
+      "oikName": "Республика Карелия – Карельский"
+    },
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 12994,
@@ -781,6 +861,14 @@ export const duma_2016_tic_464_region_10 = [
     "ballot": "single-member",
     "tikTvd": "2102000495644",
     "tikName": "Кондопожская",
+    "regionCode": "10",
+    "regionTvd": "100100067795880",
+    "regionName": "Республика Карелия",
+    "district": {
+      "districtNumber": 17,
+      "oikTvd": "100100067795881",
+      "oikName": "Республика Карелия – Карельский"
+    },
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 34614,
@@ -863,6 +951,14 @@ export const duma_2016_tic_464_region_10 = [
     "ballot": "single-member",
     "tikTvd": "2102000495645",
     "tikName": "Прионежская",
+    "regionCode": "10",
+    "regionTvd": "100100067795880",
+    "regionName": "Республика Карелия",
+    "district": {
+      "districtNumber": 17,
+      "oikTvd": "100100067795881",
+      "oikName": "Республика Карелия – Карельский"
+    },
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 20367,
@@ -934,6 +1030,14 @@ export const duma_2016_tic_464_region_10 = [
     "ballot": "single-member",
     "tikTvd": "2102000495646",
     "tikName": "Пудожская",
+    "regionCode": "10",
+    "regionTvd": "100100067795880",
+    "regionName": "Республика Карелия",
+    "district": {
+      "districtNumber": 17,
+      "oikTvd": "100100067795881",
+      "oikName": "Республика Карелия – Карельский"
+    },
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 19068,
@@ -1014,6 +1118,14 @@ export const duma_2016_tic_464_region_10 = [
     "ballot": "single-member",
     "tikTvd": "2102000495647",
     "tikName": "Муезерская",
+    "regionCode": "10",
+    "regionTvd": "100100067795880",
+    "regionName": "Республика Карелия",
+    "district": {
+      "districtNumber": 17,
+      "oikTvd": "100100067795881",
+      "oikName": "Республика Карелия – Карельский"
+    },
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 11016,
@@ -1081,6 +1193,14 @@ export const duma_2016_tic_464_region_10 = [
     "ballot": "single-member",
     "tikTvd": "2102000495648",
     "tikName": "Питкярантская",
+    "regionCode": "10",
+    "regionTvd": "100100067795880",
+    "regionName": "Республика Карелия",
+    "district": {
+      "districtNumber": 17,
+      "oikTvd": "100100067795881",
+      "oikName": "Республика Карелия – Карельский"
+    },
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 18186,
@@ -1147,6 +1267,14 @@ export const duma_2016_tic_464_region_10 = [
     "ballot": "single-member",
     "tikTvd": "2102000495649",
     "tikName": "Беломорская",
+    "regionCode": "10",
+    "regionTvd": "100100067795880",
+    "regionName": "Республика Карелия",
+    "district": {
+      "districtNumber": 17,
+      "oikTvd": "100100067795881",
+      "oikName": "Республика Карелия – Карельский"
+    },
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 16172,
@@ -1220,6 +1348,14 @@ export const duma_2016_tic_464_region_10 = [
     "ballot": "single-member",
     "tikTvd": "2102000495651",
     "tikName": "Калевальская",
+    "regionCode": "10",
+    "regionTvd": "100100067795880",
+    "regionName": "Республика Карелия",
+    "district": {
+      "districtNumber": 17,
+      "oikTvd": "100100067795881",
+      "oikName": "Республика Карелия – Карельский"
+    },
     "uikCount": 8,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 6791,
@@ -1280,6 +1416,14 @@ export const duma_2016_tic_464_region_10 = [
     "ballot": "single-member",
     "tikTvd": "2102000495652",
     "tikName": "Петрозаводская городская №1",
+    "regionCode": "10",
+    "regionTvd": "100100067795880",
+    "regionName": "Республика Карелия",
+    "district": {
+      "districtNumber": 17,
+      "oikTvd": "100100067795881",
+      "oikName": "Республика Карелия – Карельский"
+    },
     "uikCount": 60,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 111485,
@@ -1392,6 +1536,14 @@ export const duma_2016_tic_464_region_10 = [
     "ballot": "single-member",
     "tikTvd": "2102000495653",
     "tikName": "Лахденпохская",
+    "regionCode": "10",
+    "regionTvd": "100100067795880",
+    "regionName": "Республика Карелия",
+    "district": {
+      "districtNumber": 17,
+      "oikTvd": "100100067795881",
+      "oikName": "Республика Карелия – Карельский"
+    },
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 11948,

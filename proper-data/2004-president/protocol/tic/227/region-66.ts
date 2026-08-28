@@ -11,6 +11,9 @@ export const president_2004_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "266200078042",
     "tikName": "Камышловская городская",
+    "regionCode": "66",
+    "regionTvd": "1001000883236",
+    "regionName": "Свердловская область",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в список": 23117,
@@ -76,6 +79,9 @@ export const president_2004_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "266200078043",
     "tikName": "Каменск-Уральская городская",
+    "regionCode": "66",
+    "regionTvd": "1001000883236",
+    "regionName": "Свердловская область",
     "uikCount": 72,
     "accounting": {
       "Число избирателей, внесенных в список": 148822,
@@ -196,6 +202,9 @@ export const president_2004_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "266200078044",
     "tikName": "Богдановичская",
+    "regionCode": "66",
+    "regionTvd": "1001000883236",
+    "regionName": "Свердловская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в список": 39163,
@@ -275,6 +284,9 @@ export const president_2004_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "266200078045",
     "tikName": "Березовская городская",
+    "regionCode": "66",
+    "regionTvd": "1001000883236",
+    "regionName": "Свердловская область",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в список": 47291,
@@ -361,6 +373,9 @@ export const president_2004_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "266200078046",
     "tikName": "Ачитская ",
+    "regionCode": "66",
+    "regionTvd": "1001000883236",
+    "regionName": "Свердловская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в список": 14470,
@@ -443,6 +458,9 @@ export const president_2004_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "266200078047",
     "tikName": "Белоярская",
+    "regionCode": "66",
+    "regionTvd": "1001000883236",
+    "regionName": "Свердловская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в список": 24354,
@@ -525,6 +543,9 @@ export const president_2004_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "266200078048",
     "tikName": "Асбестовская городская",
+    "regionCode": "66",
+    "regionTvd": "1001000883236",
+    "regionName": "Свердловская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список": 63512,
@@ -602,6 +623,9 @@ export const president_2004_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "266200078049",
     "tikName": "Байкаловская            ",
+    "regionCode": "66",
+    "regionTvd": "1001000883236",
+    "regionName": "Свердловская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список": 14357,
@@ -672,6 +696,9 @@ export const president_2004_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "266200078050",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "1001000883236",
+    "regionName": "Свердловская область",
     "uikCount": 52,
     "accounting": {
       "Число избирателей, внесенных в список": 23985,
@@ -772,6 +799,9 @@ export const president_2004_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "266200078051",
     "tikName": "Артинская",
+    "regionCode": "66",
+    "regionTvd": "1001000883236",
+    "regionName": "Свердловская область",
     "uikCount": 52,
     "accounting": {
       "Число избирателей, внесенных в список": 25155,
@@ -872,6 +902,9 @@ export const president_2004_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "266200078052",
     "tikName": "Алапаевская городская",
+    "regionCode": "66",
+    "regionTvd": "1001000883236",
+    "regionName": "Свердловская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список": 39119,
@@ -949,6 +982,9 @@ export const president_2004_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "266200078053",
     "tikName": "Екатеринбург, Октябрьская",
+    "regionCode": "66",
+    "regionTvd": "1001000883236",
+    "regionName": "Свердловская область",
     "uikCount": 52,
     "accounting": {
       "Число избирателей, внесенных в список": 112373,
@@ -1049,6 +1085,9 @@ export const president_2004_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "266200078054",
     "tikName": "Екатеринбург, Ленинская",
+    "regionCode": "66",
+    "regionTvd": "1001000883236",
+    "regionName": "Свердловская область",
     "uikCount": 70,
     "accounting": {
       "Число избирателей, внесенных в список": 127515,
@@ -1167,6 +1206,9 @@ export const president_2004_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "266200078055",
     "tikName": "Екатеринбург, Чкаловская",
+    "regionCode": "66",
+    "regionTvd": "1001000883236",
+    "regionName": "Свердловская область",
     "uikCount": 88,
     "accounting": {
       "Число избирателей, внесенных в список": 184733,
@@ -1303,6 +1345,9 @@ export const president_2004_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "266200078056",
     "tikName": "Екатеринбург, Орджоникидзевская",
+    "regionCode": "66",
+    "regionTvd": "1001000883236",
+    "regionName": "Свердловская область",
     "uikCount": 100,
     "accounting": {
       "Число избирателей, внесенных в список": 209843,
@@ -1451,6 +1496,9 @@ export const president_2004_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "266200078057",
     "tikName": "Екатеринбург, Верх-Исетская",
+    "regionCode": "66",
+    "regionTvd": "1001000883236",
+    "regionName": "Свердловская область",
     "uikCount": 80,
     "accounting": {
       "Число избирателей, внесенных в список": 152277,
@@ -1579,6 +1627,9 @@ export const president_2004_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "266200078058",
     "tikName": "Екатеринбург, Кировская",
+    "regionCode": "66",
+    "regionTvd": "1001000883236",
+    "regionName": "Свердловская область",
     "uikCount": 83,
     "accounting": {
       "Число избирателей, внесенных в список": 162912,
@@ -1710,6 +1761,9 @@ export const president_2004_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "266200078059",
     "tikName": "Екатеринбург, Железнодорожная",
+    "regionCode": "66",
+    "regionTvd": "1001000883236",
+    "regionName": "Свердловская область",
     "uikCount": 59,
     "accounting": {
       "Число избирателей, внесенных в список": 115618,
@@ -1817,6 +1871,9 @@ export const president_2004_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "266200078060",
     "tikName": "Гаринская",
+    "regionCode": "66",
+    "regionTvd": "1001000883236",
+    "regionName": "Свердловская область",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в список": 3694,
@@ -1878,6 +1935,9 @@ export const president_2004_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "266200078061",
     "tikName": "Верхнесалдинская",
+    "regionCode": "66",
+    "regionTvd": "1001000883236",
+    "regionName": "Свердловская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в список": 42737,
@@ -1957,6 +2017,9 @@ export const president_2004_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "266200078062",
     "tikName": "Верхотурская ",
+    "regionCode": "66",
+    "regionTvd": "1001000883236",
+    "regionName": "Свердловская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список": 12828,
@@ -2024,6 +2087,9 @@ export const president_2004_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "266200078063",
     "tikName": "Свободненская поселковая",
+    "regionCode": "66",
+    "regionTvd": "1001000883236",
+    "regionName": "Свердловская область",
     "uikCount": 10,
     "accounting": {
       "Число избирателей, внесенных в список": 6874,
@@ -2082,6 +2148,9 @@ export const president_2004_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "266200078064",
     "tikName": "Красноуфимская городская",
+    "regionCode": "66",
+    "regionTvd": "1001000883236",
+    "regionName": "Свердловская область",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список": 34079,
@@ -2157,6 +2226,9 @@ export const president_2004_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "266200078065",
     "tikName": "Верхнепышминская городская",
+    "regionCode": "66",
+    "regionTvd": "1001000883236",
+    "regionName": "Свердловская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в список": 53253,
@@ -2239,6 +2311,9 @@ export const president_2004_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "266200078066",
     "tikName": "Красноуральская городская",
+    "regionCode": "66",
+    "regionTvd": "1001000883236",
+    "regionName": "Свердловская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список": 24018,
@@ -2306,6 +2381,9 @@ export const president_2004_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "266200078067",
     "tikName": "Краснотурьинская городская",
+    "regionCode": "66",
+    "regionTvd": "1001000883236",
+    "regionName": "Свердловская область",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, внесенных в список": 53937,
@@ -2395,6 +2473,9 @@ export const president_2004_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "266200078068",
     "tikName": "Качканарская городская",
+    "regionCode": "66",
+    "regionTvd": "1001000883236",
+    "regionName": "Свердловская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список": 36651,
@@ -2463,6 +2544,9 @@ export const president_2004_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "266200078069",
     "tikName": "Кировградская городская",
+    "regionCode": "66",
+    "regionTvd": "1001000883236",
+    "regionName": "Свердловская область",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в список": 25624,
@@ -2524,6 +2608,9 @@ export const president_2004_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "266200078070",
     "tikName": "Карпинская городская",
+    "regionCode": "66",
+    "regionTvd": "1001000883236",
+    "regionName": "Свердловская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список": 25963,
@@ -2590,6 +2677,9 @@ export const president_2004_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "266200078071",
     "tikName": "Каменская",
+    "regionCode": "66",
+    "regionTvd": "1001000883236",
+    "regionName": "Свердловская область",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в список": 22477,
@@ -2670,6 +2760,9 @@ export const president_2004_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "266200078072",
     "tikName": "Ирбитская городская",
+    "regionCode": "66",
+    "regionTvd": "1001000883236",
+    "regionName": "Свердловская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список": 35464,
@@ -2738,6 +2831,9 @@ export const president_2004_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "266200078073",
     "tikName": "Ивдельская",
+    "regionCode": "66",
+    "regionTvd": "1001000883236",
+    "regionName": "Свердловская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список": 16164,
@@ -2807,6 +2903,9 @@ export const president_2004_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "266200078074",
     "tikName": "Заречная городская ",
+    "regionCode": "66",
+    "regionTvd": "1001000883236",
+    "regionName": "Свердловская область",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, внесенных в список": 23839,
@@ -2867,6 +2966,9 @@ export const president_2004_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "266200078075",
     "tikName": "Полевская городская",
+    "regionCode": "66",
+    "regionTvd": "1001000883236",
+    "regionName": "Свердловская область",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в список": 57965,
@@ -2950,6 +3052,9 @@ export const president_2004_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "266200078076",
     "tikName": "Камышловская",
+    "regionCode": "66",
+    "regionTvd": "1001000883236",
+    "regionName": "Свердловская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список": 21763,
@@ -3022,6 +3127,9 @@ export const president_2004_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "266200078077",
     "tikName": "Пригородная",
+    "regionCode": "66",
+    "regionTvd": "1001000883236",
+    "regionName": "Свердловская область",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, внесенных в список": 32006,
@@ -3116,6 +3224,9 @@ export const president_2004_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "266200078078",
     "tikName": "Новолялинская",
+    "regionCode": "66",
+    "regionTvd": "1001000883236",
+    "regionName": "Свердловская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список": 17906,
@@ -3190,6 +3301,9 @@ export const president_2004_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "266200078079",
     "tikName": "Нижнесалдинская городская",
+    "regionCode": "66",
+    "regionTvd": "1001000883236",
+    "regionName": "Свердловская область",
     "uikCount": 10,
     "accounting": {
       "Число избирателей, внесенных в список": 14964,
@@ -3248,6 +3362,9 @@ export const president_2004_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "266200078080",
     "tikName": "Нижний Тагил, Дзержинская",
+    "regionCode": "66",
+    "regionTvd": "1001000883236",
+    "regionName": "Свердловская область",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, внесенных в список": 99162,
@@ -3342,6 +3459,9 @@ export const president_2004_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "266200078081",
     "tikName": "Нижнетуринская",
+    "regionCode": "66",
+    "regionTvd": "1001000883236",
+    "regionName": "Свердловская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список": 24707,
@@ -3408,6 +3528,9 @@ export const president_2004_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "266200078082",
     "tikName": "Лесная городская",
+    "regionCode": "66",
+    "regionTvd": "1001000883236",
+    "regionName": "Свердловская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список": 46614,
@@ -3480,6 +3603,9 @@ export const president_2004_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "266200078083",
     "tikName": "Новоуральская городская",
+    "regionCode": "66",
+    "regionTvd": "1001000883236",
+    "regionName": "Свердловская область",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, внесенных в список": 80090,
@@ -3572,6 +3698,9 @@ export const president_2004_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "266200078084",
     "tikName": "Нижний Тагил, Тагилстроевская",
+    "regionCode": "66",
+    "regionTvd": "1001000883236",
+    "regionName": "Свердловская область",
     "uikCount": 52,
     "accounting": {
       "Число избирателей, внесенных в список": 101306,
@@ -3672,6 +3801,9 @@ export const president_2004_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "266200078085",
     "tikName": "Нижнесергинская",
+    "regionCode": "66",
+    "regionTvd": "1001000883236",
+    "regionName": "Свердловская область",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, внесенных в список": 38934,
@@ -3770,6 +3902,9 @@ export const president_2004_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "266200078086",
     "tikName": "Нижний Тагил, Ленинская",
+    "regionCode": "66",
+    "regionTvd": "1001000883236",
+    "regionName": "Свердловская область",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, внесенных в список": 94730,
@@ -3868,6 +4003,9 @@ export const president_2004_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "266200078087",
     "tikName": "Кушвинская городская",
+    "regionCode": "66",
+    "regionTvd": "1001000883236",
+    "regionName": "Свердловская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список": 40334,
@@ -3940,6 +4078,9 @@ export const president_2004_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "266200078088",
     "tikName": "Алапаевская",
+    "regionCode": "66",
+    "regionTvd": "1001000883236",
+    "regionName": "Свердловская область",
     "uikCount": 52,
     "accounting": {
       "Число избирателей, внесенных в список": 30333,
@@ -4040,6 +4181,9 @@ export const president_2004_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "266200078089",
     "tikName": "Невьянская",
+    "regionCode": "66",
+    "regionTvd": "1001000883236",
+    "regionName": "Свердловская область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список": 35884,
@@ -4124,6 +4268,9 @@ export const president_2004_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "266200078090",
     "tikName": "Шалинская",
+    "regionCode": "66",
+    "regionTvd": "1001000883236",
+    "regionName": "Свердловская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список": 16648,
@@ -4193,6 +4340,9 @@ export const president_2004_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "266200078091",
     "tikName": "Туринская",
+    "regionCode": "66",
+    "regionTvd": "1001000883236",
+    "regionName": "Свердловская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список": 25606,
@@ -4266,6 +4416,9 @@ export const president_2004_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "266200078092",
     "tikName": "Тугулымская",
+    "regionCode": "66",
+    "regionTvd": "1001000883236",
+    "regionName": "Свердловская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в список": 18553,
@@ -4345,6 +4498,9 @@ export const president_2004_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "266200078093",
     "tikName": "Талицкая",
+    "regionCode": "66",
+    "regionTvd": "1001000883236",
+    "regionName": "Свердловская область",
     "uikCount": 60,
     "accounting": {
       "Число избирателей, внесенных в список": 41016,
@@ -4453,6 +4609,9 @@ export const president_2004_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "266200078094",
     "tikName": "Тавдинская",
+    "regionCode": "66",
+    "regionTvd": "1001000883236",
+    "regionName": "Свердловская область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список": 37467,
@@ -4537,6 +4696,9 @@ export const president_2004_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "266200078095",
     "tikName": "Сухоложская городская",
+    "regionCode": "66",
+    "regionTvd": "1001000883236",
+    "regionName": "Свердловская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в список": 37463,
@@ -4616,6 +4778,9 @@ export const president_2004_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "266200078096",
     "tikName": "Сысертская",
+    "regionCode": "66",
+    "regionTvd": "1001000883236",
+    "regionName": "Свердловская область",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в список": 45812,
@@ -4703,6 +4868,9 @@ export const president_2004_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "266200078097",
     "tikName": "Слободо-Туринская",
+    "regionCode": "66",
+    "regionTvd": "1001000883236",
+    "regionName": "Свердловская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список": 12333,
@@ -4771,6 +4939,9 @@ export const president_2004_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "266200078098",
     "tikName": "Таборинская",
+    "regionCode": "66",
+    "regionTvd": "1001000883236",
+    "regionName": "Свердловская область",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в список": 3488,
@@ -4832,6 +5003,9 @@ export const president_2004_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "266200078099",
     "tikName": "Североуральская городская",
+    "regionCode": "66",
+    "regionTvd": "1001000883236",
+    "regionName": "Свердловская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список": 40236,
@@ -4903,6 +5077,9 @@ export const president_2004_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "266200078100",
     "tikName": "Режевская",
+    "regionCode": "66",
+    "regionTvd": "1001000883236",
+    "regionName": "Свердловская область",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в список": 39498,
@@ -4984,6 +5161,9 @@ export const president_2004_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "266200078101",
     "tikName": "Ревдинская",
+    "regionCode": "66",
+    "regionTvd": "1001000883236",
+    "regionName": "Свердловская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список": 51547,
@@ -5061,6 +5241,9 @@ export const president_2004_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "266200078102",
     "tikName": "Пышминская",
+    "regionCode": "66",
+    "regionTvd": "1001000883236",
+    "regionName": "Свердловская область",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список": 17041,
@@ -5136,6 +5319,9 @@ export const president_2004_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "266200078103",
     "tikName": "Красноуфимская",
+    "regionCode": "66",
+    "regionTvd": "1001000883236",
+    "regionName": "Свердловская область",
     "uikCount": 51,
     "accounting": {
       "Число избирателей, внесенных в список": 23133,
@@ -5235,6 +5421,9 @@ export const president_2004_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "266200078104",
     "tikName": "Дегтярская городская ",
+    "regionCode": "66",
+    "regionTvd": "1001000883236",
+    "regionName": "Свердловская область",
     "uikCount": 6,
     "accounting": {
       "Число избирателей, внесенных в список": 12669,
@@ -5289,6 +5478,9 @@ export const president_2004_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "266200078105",
     "tikName": "Верхнетуринская городская  ",
+    "regionCode": "66",
+    "regionTvd": "1001000883236",
+    "regionName": "Свердловская область",
     "uikCount": 6,
     "accounting": {
       "Число избирателей, внесенных в список": 8527,
@@ -5343,6 +5535,9 @@ export const president_2004_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "266200078106",
     "tikName": "Волчанская городская",
+    "regionCode": "66",
+    "regionTvd": "1001000883236",
+    "regionName": "Свердловская область",
     "uikCount": 5,
     "accounting": {
       "Число избирателей, внесенных в список": 8922,
@@ -5396,6 +5591,9 @@ export const president_2004_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "266200078107",
     "tikName": "Малышевская поселковая",
+    "regionCode": "66",
+    "regionTvd": "1001000883236",
+    "regionName": "Свердловская область",
     "uikCount": 5,
     "accounting": {
       "Число избирателей, внесенных в список": 10245,
@@ -5449,6 +5647,9 @@ export const president_2004_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "266200078108",
     "tikName": "Верхнедубровская поселковая",
+    "regionCode": "66",
+    "regionTvd": "1001000883236",
+    "regionName": "Свердловская область",
     "uikCount": 2,
     "accounting": {
       "Число избирателей, проголосовавших по открепительным удостоверениям": 21,
@@ -5479,6 +5680,9 @@ export const president_2004_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "266200078109",
     "tikName": "Верх-Нейвинская поселковая",
+    "regionCode": "66",
+    "regionTvd": "1001000883236",
+    "regionName": "Свердловская область",
     "uikCount": 2,
     "accounting": {
       "Число избирателей, внесенных в список": 3996,
@@ -5529,6 +5733,9 @@ export const president_2004_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "266200078110",
     "tikName": "Бисертская поселковая",
+    "regionCode": "66",
+    "regionTvd": "1001000883236",
+    "regionName": "Свердловская область",
     "uikCount": 9,
     "accounting": {
       "Число избирателей, внесенных в список": 8296,
@@ -5586,6 +5793,9 @@ export const president_2004_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "266200078111",
     "tikName": "Верхнетагильская городская",
+    "regionCode": "66",
+    "regionTvd": "1001000883236",
+    "regionName": "Свердловская область",
     "uikCount": 6,
     "accounting": {
       "Число избирателей, внесенных в список": 12042,
@@ -5640,6 +5850,9 @@ export const president_2004_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "266200078112",
     "tikName": "Серовская городская",
+    "regionCode": "66",
+    "regionTvd": "1001000883236",
+    "regionName": "Свердловская область",
     "uikCount": 48,
     "accounting": {
       "Число избирателей, внесенных в список": 71062,
@@ -5736,6 +5949,9 @@ export const president_2004_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "266200078113",
     "tikName": "Серовская",
+    "regionCode": "66",
+    "regionTvd": "1001000883236",
+    "regionName": "Свердловская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список": 17813,
@@ -5809,6 +6025,9 @@ export const president_2004_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "266200078114",
     "tikName": "Арамильская городская",
+    "regionCode": "66",
+    "regionTvd": "1001000883236",
+    "regionName": "Свердловская область",
     "uikCount": 9,
     "accounting": {
       "Число избирателей, внесенных в список": 12573,
@@ -5866,6 +6085,9 @@ export const president_2004_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "266200078115",
     "tikName": "Первоуральская городская",
+    "regionCode": "66",
+    "regionTvd": "1001000883236",
+    "regionName": "Свердловская область",
     "uikCount": 73,
     "accounting": {
       "Число избирателей, внесенных в список": 125963,
@@ -5987,6 +6209,9 @@ export const president_2004_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "266200078116",
     "tikName": "Артемовская",
+    "regionCode": "66",
+    "regionTvd": "1001000883236",
+    "regionName": "Свердловская область",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в список": 51083,
@@ -6074,6 +6299,9 @@ export const president_2004_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "266200078117",
     "tikName": "Староуткинская поселковая",
+    "regionCode": "66",
+    "regionTvd": "1001000883236",
+    "regionName": "Свердловская область",
     "uikCount": 1,
     "accounting": {
       "Число неиспользованных открепительных удостоверений": 135,
@@ -6103,6 +6331,9 @@ export const president_2004_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "266200078118",
     "tikName": "Среднеуральская городская ",
+    "regionCode": "66",
+    "regionTvd": "1001000883236",
+    "regionName": "Свердловская область",
     "uikCount": 8,
     "accounting": {
       "Число избирателей, внесенных в список": 15591,
@@ -6159,6 +6390,9 @@ export const president_2004_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "266200078119",
     "tikName": "Рефтинская поселковая",
+    "regionCode": "66",
+    "regionTvd": "1001000883236",
+    "regionName": "Свердловская область",
     "uikCount": 6,
     "accounting": {
       "Число избирателей, внесенных в список": 13830,
@@ -6213,6 +6447,9 @@ export const president_2004_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "266200084492",
     "tikName": "Пелымская поселковая   ",
+    "regionCode": "66",
+    "regionTvd": "1001000883236",
+    "regionName": "Свердловская область",
     "uikCount": 2,
     "accounting": {
       "Число неиспользованных открепительных удостоверений": 1
@@ -6243,6 +6480,9 @@ export const president_2004_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "266200084493",
     "tikName": "Уральская поселковая",
+    "regionCode": "66",
+    "regionTvd": "1001000883236",
+    "regionName": "Свердловская область",
     "uikCount": 1,
     "accounting": {
       "Число выданных открепительных удостоверений": 31,

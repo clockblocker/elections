@@ -50,6 +50,6 @@ export interface ScatterPoint {
   validBallots: number;
   ballotsCounted: number;
   optionVotes: number;
-  turnout: number;
-  result: number;
+  turnout: number | null;
+  result: number | null;
 }

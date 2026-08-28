@@ -7,11737 +7,29341 @@ export const duma_2016_uik_to_tik_region_38 = [
   {
     "uikNumber": 1,
     "uikTvd": "4854001181557",
+    "uikName": "УИК №1",
     "tikTvd": "4384001346412",
-    "tikName": "Аларская"
+    "tikName": "Аларская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 2,
     "uikTvd": "4854001181558",
+    "uikName": "УИК №2",
     "tikTvd": "4384001346412",
-    "tikName": "Аларская"
+    "tikName": "Аларская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 3,
     "uikTvd": "4854001181559",
+    "uikName": "УИК №3",
     "tikTvd": "4384001346412",
-    "tikName": "Аларская"
+    "tikName": "Аларская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 4,
     "uikTvd": "4854001181560",
+    "uikName": "УИК №4",
     "tikTvd": "4384001346412",
-    "tikName": "Аларская"
+    "tikName": "Аларская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 5,
     "uikTvd": "4854001181561",
+    "uikName": "УИК №5",
     "tikTvd": "4384001346412",
-    "tikName": "Аларская"
+    "tikName": "Аларская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 6,
     "uikTvd": "4854001181562",
+    "uikName": "УИК №6",
     "tikTvd": "4384001346412",
-    "tikName": "Аларская"
+    "tikName": "Аларская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 7,
     "uikTvd": "4854001181563",
+    "uikName": "УИК №7",
     "tikTvd": "4384001346412",
-    "tikName": "Аларская"
+    "tikName": "Аларская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 8,
     "uikTvd": "4854001181564",
+    "uikName": "УИК №8",
     "tikTvd": "4384001346412",
-    "tikName": "Аларская"
+    "tikName": "Аларская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 9,
     "uikTvd": "4854001181565",
+    "uikName": "УИК №9",
     "tikTvd": "4384001346412",
-    "tikName": "Аларская"
+    "tikName": "Аларская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 10,
     "uikTvd": "4854001181566",
+    "uikName": "УИК №10",
     "tikTvd": "4384001346412",
-    "tikName": "Аларская"
+    "tikName": "Аларская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 11,
     "uikTvd": "4854001181567",
+    "uikName": "УИК №11",
     "tikTvd": "4384001346412",
-    "tikName": "Аларская"
+    "tikName": "Аларская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 12,
     "uikTvd": "4854001181568",
+    "uikName": "УИК №12",
     "tikTvd": "4384001346412",
-    "tikName": "Аларская"
+    "tikName": "Аларская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 13,
     "uikTvd": "4854001181569",
+    "uikName": "УИК №13",
     "tikTvd": "4384001346412",
-    "tikName": "Аларская"
+    "tikName": "Аларская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 14,
     "uikTvd": "4854001181570",
+    "uikName": "УИК №14",
     "tikTvd": "4384001346412",
-    "tikName": "Аларская"
+    "tikName": "Аларская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 15,
     "uikTvd": "4854001181571",
+    "uikName": "УИК №15",
     "tikTvd": "4384001346412",
-    "tikName": "Аларская"
+    "tikName": "Аларская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 16,
     "uikTvd": "4854001181572",
+    "uikName": "УИК №16",
     "tikTvd": "4384001346412",
-    "tikName": "Аларская"
+    "tikName": "Аларская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 17,
     "uikTvd": "4854001181573",
+    "uikName": "УИК №17",
     "tikTvd": "4384001346412",
-    "tikName": "Аларская"
+    "tikName": "Аларская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 18,
     "uikTvd": "4854001181574",
+    "uikName": "УИК №18",
     "tikTvd": "4384001346412",
-    "tikName": "Аларская"
+    "tikName": "Аларская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 19,
     "uikTvd": "4854001181575",
+    "uikName": "УИК №19",
     "tikTvd": "4384001346412",
-    "tikName": "Аларская"
+    "tikName": "Аларская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 20,
     "uikTvd": "4854001181576",
+    "uikName": "УИК №20",
     "tikTvd": "4384001346412",
-    "tikName": "Аларская"
+    "tikName": "Аларская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 21,
     "uikTvd": "4854001181577",
+    "uikName": "УИК №21",
     "tikTvd": "4384001346412",
-    "tikName": "Аларская"
+    "tikName": "Аларская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 22,
     "uikTvd": "4854001181578",
+    "uikName": "УИК №22",
     "tikTvd": "4384001346412",
-    "tikName": "Аларская"
+    "tikName": "Аларская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 23,
     "uikTvd": "4854001181579",
+    "uikName": "УИК №23",
     "tikTvd": "4384001346412",
-    "tikName": "Аларская"
+    "tikName": "Аларская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 24,
     "uikTvd": "4854001181580",
+    "uikName": "УИК №24",
     "tikTvd": "4384001346412",
-    "tikName": "Аларская"
+    "tikName": "Аларская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 25,
     "uikTvd": "4854001181581",
+    "uikName": "УИК №25",
     "tikTvd": "4384001346412",
-    "tikName": "Аларская"
+    "tikName": "Аларская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 26,
     "uikTvd": "4854001181582",
+    "uikName": "УИК №26",
     "tikTvd": "4384001346412",
-    "tikName": "Аларская"
+    "tikName": "Аларская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 27,
     "uikTvd": "4854001181583",
+    "uikName": "УИК №27",
     "tikTvd": "4384001346412",
-    "tikName": "Аларская"
+    "tikName": "Аларская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 28,
     "uikTvd": "4854001181584",
+    "uikName": "УИК №28",
     "tikTvd": "4384001346412",
-    "tikName": "Аларская"
+    "tikName": "Аларская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 29,
     "uikTvd": "4854001181585",
+    "uikName": "УИК №29",
     "tikTvd": "4384001346412",
-    "tikName": "Аларская"
+    "tikName": "Аларская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 30,
     "uikTvd": "4854001181586",
+    "uikName": "УИК №30",
     "tikTvd": "4384001346412",
-    "tikName": "Аларская"
+    "tikName": "Аларская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 31,
     "uikTvd": "4854001181587",
+    "uikName": "УИК №31",
     "tikTvd": "4384001346412",
-    "tikName": "Аларская"
+    "tikName": "Аларская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 32,
     "uikTvd": "4854001181588",
+    "uikName": "УИК №32",
     "tikTvd": "4384001346412",
-    "tikName": "Аларская"
+    "tikName": "Аларская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 33,
     "uikTvd": "4854001181589",
+    "uikName": "УИК №33",
     "tikTvd": "4384001346412",
-    "tikName": "Аларская"
+    "tikName": "Аларская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 34,
     "uikTvd": "4854001181590",
+    "uikName": "УИК №34",
     "tikTvd": "4384001346412",
-    "tikName": "Аларская"
+    "tikName": "Аларская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 35,
     "uikTvd": "4854001181591",
+    "uikName": "УИК №35",
     "tikTvd": "4384001346412",
-    "tikName": "Аларская"
+    "tikName": "Аларская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 36,
     "uikTvd": "4854001181592",
+    "uikName": "УИК №36",
     "tikTvd": "4384001346412",
-    "tikName": "Аларская"
+    "tikName": "Аларская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 37,
     "uikTvd": "4854001181593",
+    "uikName": "УИК №37",
     "tikTvd": "4384001346412",
-    "tikName": "Аларская"
+    "tikName": "Аларская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 38,
     "uikTvd": "4854001181594",
+    "uikName": "УИК №38",
     "tikTvd": "4384001346412",
-    "tikName": "Аларская"
+    "tikName": "Аларская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 39,
     "uikTvd": "4854001181595",
+    "uikName": "УИК №39",
     "tikTvd": "4384001346412",
-    "tikName": "Аларская"
+    "tikName": "Аларская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 40,
     "uikTvd": "4854001181596",
+    "uikName": "УИК №40",
     "tikTvd": "4384001346412",
-    "tikName": "Аларская"
+    "tikName": "Аларская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 41,
     "uikTvd": "4854001181597",
+    "uikName": "УИК №41",
     "tikTvd": "4384001346412",
-    "tikName": "Аларская"
+    "tikName": "Аларская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 42,
     "uikTvd": "4854001181598",
+    "uikName": "УИК №42",
     "tikTvd": "4384001346412",
-    "tikName": "Аларская"
+    "tikName": "Аларская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 43,
     "uikTvd": "4854001181599",
+    "uikName": "УИК №43",
     "tikTvd": "4384001346412",
-    "tikName": "Аларская"
+    "tikName": "Аларская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 44,
     "uikTvd": "4854001181600",
+    "uikName": "УИК №44",
     "tikTvd": "4384001346412",
-    "tikName": "Аларская"
+    "tikName": "Аларская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 45,
     "uikTvd": "4854001181601",
+    "uikName": "УИК №45",
     "tikTvd": "4384001346412",
-    "tikName": "Аларская"
+    "tikName": "Аларская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 46,
     "uikTvd": "4854001181602",
+    "uikName": "УИК №46",
     "tikTvd": "4384001346412",
-    "tikName": "Аларская"
+    "tikName": "Аларская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 47,
     "uikTvd": "4854001181603",
+    "uikName": "УИК №47",
     "tikTvd": "4384001346412",
-    "tikName": "Аларская"
+    "tikName": "Аларская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 48,
     "uikTvd": "4854001181604",
+    "uikName": "УИК №48",
     "tikTvd": "4384001346412",
-    "tikName": "Аларская"
+    "tikName": "Аларская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 49,
     "uikTvd": "4854001181605",
+    "uikName": "УИК №49",
     "tikTvd": "4384001346412",
-    "tikName": "Аларская"
+    "tikName": "Аларская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 50,
     "uikTvd": "4384001346435",
+    "uikName": "УИК №50",
     "tikTvd": "4384001346410",
-    "tikName": "Ангарская"
+    "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 51,
     "uikTvd": "4384001346437",
+    "uikName": "УИК №51",
     "tikTvd": "4384001346410",
-    "tikName": "Ангарская"
+    "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 52,
     "uikTvd": "4384001346438",
+    "uikName": "УИК №52",
     "tikTvd": "4384001346410",
-    "tikName": "Ангарская"
+    "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 53,
     "uikTvd": "4384001346439",
+    "uikName": "УИК №53",
     "tikTvd": "4384001346410",
-    "tikName": "Ангарская"
+    "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 54,
     "uikTvd": "4384001346440",
+    "uikName": "УИК №54",
     "tikTvd": "4384001346410",
-    "tikName": "Ангарская"
+    "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 55,
     "uikTvd": "4384001346441",
+    "uikName": "УИК №55",
     "tikTvd": "4384001346410",
-    "tikName": "Ангарская"
+    "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 56,
     "uikTvd": "4384001346442",
+    "uikName": "УИК №56",
     "tikTvd": "4384001346410",
-    "tikName": "Ангарская"
+    "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 57,
     "uikTvd": "4384001346443",
+    "uikName": "УИК №57",
     "tikTvd": "4384001346410",
-    "tikName": "Ангарская"
+    "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 58,
     "uikTvd": "4384001346444",
+    "uikName": "УИК №58",
     "tikTvd": "4384001346410",
-    "tikName": "Ангарская"
+    "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 59,
     "uikTvd": "4384001346445",
+    "uikName": "УИК №59",
     "tikTvd": "4384001346410",
-    "tikName": "Ангарская"
+    "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 60,
     "uikTvd": "4384001346446",
+    "uikName": "УИК №60",
     "tikTvd": "4384001346410",
-    "tikName": "Ангарская"
+    "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 61,
     "uikTvd": "4384001346447",
+    "uikName": "УИК №61",
     "tikTvd": "4384001346410",
-    "tikName": "Ангарская"
+    "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 62,
     "uikTvd": "4384001346448",
+    "uikName": "УИК №62",
     "tikTvd": "4384001346410",
-    "tikName": "Ангарская"
+    "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 63,
     "uikTvd": "4384001346449",
+    "uikName": "УИК №63",
     "tikTvd": "4384001346410",
-    "tikName": "Ангарская"
+    "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 64,
     "uikTvd": "4384001346450",
+    "uikName": "УИК №64",
     "tikTvd": "4384001346410",
-    "tikName": "Ангарская"
+    "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 65,
     "uikTvd": "4384001346451",
+    "uikName": "УИК №65",
     "tikTvd": "4384001346410",
-    "tikName": "Ангарская"
+    "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 66,
     "uikTvd": "4384001346452",
+    "uikName": "УИК №66",
     "tikTvd": "4384001346410",
-    "tikName": "Ангарская"
+    "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 67,
     "uikTvd": "4384001346453",
+    "uikName": "УИК №67",
     "tikTvd": "4384001346410",
-    "tikName": "Ангарская"
+    "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 68,
     "uikTvd": "4384001346454",
+    "uikName": "УИК №68",
     "tikTvd": "4384001346410",
-    "tikName": "Ангарская"
+    "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 69,
     "uikTvd": "4384001346455",
+    "uikName": "УИК №69",
     "tikTvd": "4384001346410",
-    "tikName": "Ангарская"
+    "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 70,
     "uikTvd": "4384001346456",
+    "uikName": "УИК №70",
     "tikTvd": "4384001346410",
-    "tikName": "Ангарская"
+    "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 71,
     "uikTvd": "4384001346457",
+    "uikName": "УИК №71",
     "tikTvd": "4384001346410",
-    "tikName": "Ангарская"
+    "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 72,
     "uikTvd": "4384001346458",
+    "uikName": "УИК №72",
     "tikTvd": "4384001346410",
-    "tikName": "Ангарская"
+    "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 73,
     "uikTvd": "4384001346459",
+    "uikName": "УИК №73",
     "tikTvd": "4384001346410",
-    "tikName": "Ангарская"
+    "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 74,
     "uikTvd": "4384001346460",
+    "uikName": "УИК №74",
     "tikTvd": "4384001346410",
-    "tikName": "Ангарская"
+    "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 75,
     "uikTvd": "4384001346461",
+    "uikName": "УИК №75",
     "tikTvd": "4384001346410",
-    "tikName": "Ангарская"
+    "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 76,
     "uikTvd": "4384001346462",
+    "uikName": "УИК №76",
     "tikTvd": "4384001346410",
-    "tikName": "Ангарская"
+    "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 77,
     "uikTvd": "4384001346463",
+    "uikName": "УИК №77",
     "tikTvd": "4384001346410",
-    "tikName": "Ангарская"
+    "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 78,
     "uikTvd": "4384001346464",
+    "uikName": "УИК №78",
     "tikTvd": "4384001346410",
-    "tikName": "Ангарская"
+    "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 79,
     "uikTvd": "4384001346465",
+    "uikName": "УИК №79",
     "tikTvd": "4384001346410",
-    "tikName": "Ангарская"
+    "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 80,
     "uikTvd": "4384001346466",
+    "uikName": "УИК №80",
     "tikTvd": "4384001346410",
-    "tikName": "Ангарская"
+    "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 81,
     "uikTvd": "4384001346467",
+    "uikName": "УИК №81",
     "tikTvd": "4384001346410",
-    "tikName": "Ангарская"
+    "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 82,
     "uikTvd": "4384001346468",
+    "uikName": "УИК №82",
     "tikTvd": "4384001346410",
-    "tikName": "Ангарская"
+    "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 83,
     "uikTvd": "4384001346469",
+    "uikName": "УИК №83",
     "tikTvd": "4384001346410",
-    "tikName": "Ангарская"
+    "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 84,
     "uikTvd": "4384001346470",
+    "uikName": "УИК №84",
     "tikTvd": "4384001346410",
-    "tikName": "Ангарская"
+    "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 85,
     "uikTvd": "4384001346471",
+    "uikName": "УИК №85",
     "tikTvd": "4384001346410",
-    "tikName": "Ангарская"
+    "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 86,
     "uikTvd": "4384001346472",
+    "uikName": "УИК №86",
     "tikTvd": "4384001346410",
-    "tikName": "Ангарская"
+    "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 87,
     "uikTvd": "4384001346473",
+    "uikName": "УИК №87",
     "tikTvd": "4384001346410",
-    "tikName": "Ангарская"
+    "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 88,
     "uikTvd": "4384001346474",
+    "uikName": "УИК №88",
     "tikTvd": "4384001346410",
-    "tikName": "Ангарская"
+    "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 89,
     "uikTvd": "4384001346475",
+    "uikName": "УИК №89",
     "tikTvd": "4384001346410",
-    "tikName": "Ангарская"
+    "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 90,
     "uikTvd": "4384001346476",
+    "uikName": "УИК №90",
     "tikTvd": "4384001346410",
-    "tikName": "Ангарская"
+    "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 91,
     "uikTvd": "4384001346477",
+    "uikName": "УИК №91",
     "tikTvd": "4384001346410",
-    "tikName": "Ангарская"
+    "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 92,
     "uikTvd": "4384001346478",
+    "uikName": "УИК №92",
     "tikTvd": "4384001346410",
-    "tikName": "Ангарская"
+    "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 93,
     "uikTvd": "4384001346479",
+    "uikName": "УИК №93",
     "tikTvd": "4384001346410",
-    "tikName": "Ангарская"
+    "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 94,
     "uikTvd": "4384001346480",
+    "uikName": "УИК №94",
     "tikTvd": "4384001346410",
-    "tikName": "Ангарская"
+    "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 95,
     "uikTvd": "4384001346481",
+    "uikName": "УИК №95",
     "tikTvd": "4384001346410",
-    "tikName": "Ангарская"
+    "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 96,
     "uikTvd": "4384001346482",
+    "uikName": "УИК №96",
     "tikTvd": "4384001346410",
-    "tikName": "Ангарская"
+    "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 97,
     "uikTvd": "4384001346483",
+    "uikName": "УИК №97",
     "tikTvd": "4384001346410",
-    "tikName": "Ангарская"
+    "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 98,
     "uikTvd": "4384001346484",
+    "uikName": "УИК №98",
     "tikTvd": "4384001346410",
-    "tikName": "Ангарская"
+    "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 99,
     "uikTvd": "4384001346485",
+    "uikName": "УИК №99",
     "tikTvd": "4384001346410",
-    "tikName": "Ангарская"
+    "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 100,
     "uikTvd": "4384001346486",
+    "uikName": "УИК №100",
     "tikTvd": "4384001346410",
-    "tikName": "Ангарская"
+    "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 101,
     "uikTvd": "4384001346487",
+    "uikName": "УИК №101",
     "tikTvd": "4384001346410",
-    "tikName": "Ангарская"
+    "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 102,
     "uikTvd": "4384001346488",
+    "uikName": "УИК №102",
     "tikTvd": "4384001346410",
-    "tikName": "Ангарская"
+    "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 103,
     "uikTvd": "4384001346489",
+    "uikName": "УИК №103",
     "tikTvd": "4384001346410",
-    "tikName": "Ангарская"
+    "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 104,
     "uikTvd": "4384001346490",
+    "uikName": "УИК №104",
     "tikTvd": "4384001346410",
-    "tikName": "Ангарская"
+    "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 105,
     "uikTvd": "4384001346491",
+    "uikName": "УИК №105",
     "tikTvd": "4384001346410",
-    "tikName": "Ангарская"
+    "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 106,
     "uikTvd": "4384001346492",
+    "uikName": "УИК №106",
     "tikTvd": "4384001346410",
-    "tikName": "Ангарская"
+    "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 107,
     "uikTvd": "4384001346493",
+    "uikName": "УИК №107",
     "tikTvd": "4384001346410",
-    "tikName": "Ангарская"
+    "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 108,
     "uikTvd": "4384001346494",
+    "uikName": "УИК №108",
     "tikTvd": "4384001346410",
-    "tikName": "Ангарская"
+    "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 109,
     "uikTvd": "4384001346495",
+    "uikName": "УИК №109",
     "tikTvd": "4384001346410",
-    "tikName": "Ангарская"
+    "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 110,
     "uikTvd": "4384001346496",
+    "uikName": "УИК №110",
     "tikTvd": "4384001346410",
-    "tikName": "Ангарская"
+    "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 111,
     "uikTvd": "4384001346497",
+    "uikName": "УИК №111",
     "tikTvd": "4384001346410",
-    "tikName": "Ангарская"
+    "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 112,
     "uikTvd": "4384001346498",
+    "uikName": "УИК №112",
     "tikTvd": "4384001346410",
-    "tikName": "Ангарская"
+    "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 113,
     "uikTvd": "4384001346499",
+    "uikName": "УИК №113",
     "tikTvd": "4384001346410",
-    "tikName": "Ангарская"
+    "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 114,
     "uikTvd": "4384001346500",
+    "uikName": "УИК №114",
     "tikTvd": "4384001346410",
-    "tikName": "Ангарская"
+    "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 115,
     "uikTvd": "4384001346501",
+    "uikName": "УИК №115",
     "tikTvd": "4384001346410",
-    "tikName": "Ангарская"
+    "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 116,
     "uikTvd": "4384001346502",
+    "uikName": "УИК №116",
     "tikTvd": "4384001346410",
-    "tikName": "Ангарская"
+    "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 117,
     "uikTvd": "4384001346503",
+    "uikName": "УИК №117",
     "tikTvd": "4384001346410",
-    "tikName": "Ангарская"
+    "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 118,
     "uikTvd": "4384001346504",
+    "uikName": "УИК №118",
     "tikTvd": "4384001346410",
-    "tikName": "Ангарская"
+    "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 119,
     "uikTvd": "4384001346505",
+    "uikName": "УИК №119",
     "tikTvd": "4384001346410",
-    "tikName": "Ангарская"
+    "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 120,
     "uikTvd": "4384001346506",
+    "uikName": "УИК №120",
     "tikTvd": "4384001346410",
-    "tikName": "Ангарская"
+    "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 121,
     "uikTvd": "4384001346507",
+    "uikName": "УИК №121",
     "tikTvd": "4384001346410",
-    "tikName": "Ангарская"
+    "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 122,
     "uikTvd": "4384001346508",
+    "uikName": "УИК №122",
     "tikTvd": "4384001346410",
-    "tikName": "Ангарская"
+    "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 123,
     "uikTvd": "4384001346509",
+    "uikName": "УИК №123",
     "tikTvd": "4384001346410",
-    "tikName": "Ангарская"
+    "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 124,
     "uikTvd": "4384001346510",
+    "uikName": "УИК №124",
     "tikTvd": "4384001346410",
-    "tikName": "Ангарская"
+    "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 125,
     "uikTvd": "4384001346511",
+    "uikName": "УИК №125",
     "tikTvd": "4384001346410",
-    "tikName": "Ангарская"
+    "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 126,
     "uikTvd": "4384001346512",
+    "uikName": "УИК №126",
     "tikTvd": "4384001346410",
-    "tikName": "Ангарская"
+    "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 127,
     "uikTvd": "4384001346513",
+    "uikName": "УИК №127",
     "tikTvd": "4384001346410",
-    "tikName": "Ангарская"
+    "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 128,
     "uikTvd": "4384001346514",
+    "uikName": "УИК №128",
     "tikTvd": "4384001346410",
-    "tikName": "Ангарская"
+    "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 129,
     "uikTvd": "4384001346515",
+    "uikName": "УИК №129",
     "tikTvd": "4384001346410",
-    "tikName": "Ангарская"
+    "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 130,
     "uikTvd": "4384001346516",
+    "uikName": "УИК №130",
     "tikTvd": "4384001346410",
-    "tikName": "Ангарская"
+    "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 131,
     "uikTvd": "4384001346517",
+    "uikName": "УИК №131",
     "tikTvd": "4384001346410",
-    "tikName": "Ангарская"
+    "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 132,
     "uikTvd": "4384001346518",
+    "uikName": "УИК №132",
     "tikTvd": "4384001346410",
-    "tikName": "Ангарская"
+    "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 133,
     "uikTvd": "4384001346519",
+    "uikName": "УИК №133",
     "tikTvd": "4384001346410",
-    "tikName": "Ангарская"
+    "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 134,
     "uikTvd": "4384001346520",
+    "uikName": "УИК №134",
     "tikTvd": "4384001346410",
-    "tikName": "Ангарская"
+    "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 135,
     "uikTvd": "4384001346521",
+    "uikName": "УИК №135",
     "tikTvd": "4384001346410",
-    "tikName": "Ангарская"
+    "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 136,
     "uikTvd": "4384001346522",
+    "uikName": "УИК №136",
     "tikTvd": "4384001346410",
-    "tikName": "Ангарская"
+    "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 137,
     "uikTvd": "4384001346523",
+    "uikName": "УИК №137",
     "tikTvd": "4384001346410",
-    "tikName": "Ангарская"
+    "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 138,
     "uikTvd": "4384001346524",
+    "uikName": "УИК №138",
     "tikTvd": "4384001346410",
-    "tikName": "Ангарская"
+    "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 139,
     "uikTvd": "4384001346525",
+    "uikName": "УИК №139",
     "tikTvd": "4384001346410",
-    "tikName": "Ангарская"
+    "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 140,
     "uikTvd": "4384001346526",
+    "uikName": "УИК №140",
     "tikTvd": "4384001346410",
-    "tikName": "Ангарская"
+    "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 141,
     "uikTvd": "4384001346527",
+    "uikName": "УИК №141",
     "tikTvd": "4384001346410",
-    "tikName": "Ангарская"
+    "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 142,
     "uikTvd": "4384001346528",
+    "uikName": "УИК №142",
     "tikTvd": "4384001346410",
-    "tikName": "Ангарская"
+    "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 143,
     "uikTvd": "4384001346529",
+    "uikName": "УИК №143",
     "tikTvd": "4384001346410",
-    "tikName": "Ангарская"
+    "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 144,
     "uikTvd": "4384001346530",
+    "uikName": "УИК №144",
     "tikTvd": "4384001346410",
-    "tikName": "Ангарская"
+    "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 145,
     "uikTvd": "4384001346531",
+    "uikName": "УИК №145",
     "tikTvd": "4384001346410",
-    "tikName": "Ангарская"
+    "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 146,
     "uikTvd": "4384001346532",
+    "uikName": "УИК №146",
     "tikTvd": "4384001346410",
-    "tikName": "Ангарская"
+    "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 147,
     "uikTvd": "4384001346533",
+    "uikName": "УИК №147",
     "tikTvd": "4384001346410",
-    "tikName": "Ангарская"
+    "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 148,
     "uikTvd": "4384002204393",
+    "uikName": "УИК №148",
     "tikTvd": "23820001459317",
-    "tikName": "Балаганская"
+    "tikName": "Балаганская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 149,
     "uikTvd": "4384002204394",
+    "uikName": "УИК №149",
     "tikTvd": "23820001459317",
-    "tikName": "Балаганская"
+    "tikName": "Балаганская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 150,
     "uikTvd": "4384002204395",
+    "uikName": "УИК №150",
     "tikTvd": "23820001459317",
-    "tikName": "Балаганская"
+    "tikName": "Балаганская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 151,
     "uikTvd": "4384002204396",
+    "uikName": "УИК №151",
     "tikTvd": "23820001459317",
-    "tikName": "Балаганская"
+    "tikName": "Балаганская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 152,
     "uikTvd": "4384002204397",
+    "uikName": "УИК №152",
     "tikTvd": "23820001459317",
-    "tikName": "Балаганская"
+    "tikName": "Балаганская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 153,
     "uikTvd": "4384002204398",
+    "uikName": "УИК №153",
     "tikTvd": "23820001459317",
-    "tikName": "Балаганская"
+    "tikName": "Балаганская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 154,
     "uikTvd": "4384002204399",
+    "uikName": "УИК №154",
     "tikTvd": "23820001459317",
-    "tikName": "Балаганская"
+    "tikName": "Балаганская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 155,
     "uikTvd": "4384002204400",
+    "uikName": "УИК №155",
     "tikTvd": "23820001459317",
-    "tikName": "Балаганская"
+    "tikName": "Балаганская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 156,
     "uikTvd": "4384002204401",
+    "uikName": "УИК №156",
     "tikTvd": "23820001459317",
-    "tikName": "Балаганская"
+    "tikName": "Балаганская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 157,
     "uikTvd": "4384002204402",
+    "uikName": "УИК №157",
     "tikTvd": "23820001459317",
-    "tikName": "Балаганская"
+    "tikName": "Балаганская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 158,
     "uikTvd": "4384002204403",
+    "uikName": "УИК №158",
     "tikTvd": "23820001459317",
-    "tikName": "Балаганская"
+    "tikName": "Балаганская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 159,
     "uikTvd": "4384002204404",
+    "uikName": "УИК №159",
     "tikTvd": "23820001459317",
-    "tikName": "Балаганская"
+    "tikName": "Балаганская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 160,
     "uikTvd": "4384002204405",
+    "uikName": "УИК №160",
     "tikTvd": "23820001459317",
-    "tikName": "Балаганская"
+    "tikName": "Балаганская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 161,
     "uikTvd": "4854002153753",
+    "uikName": "УИК №161",
     "tikTvd": "23820001459316",
-    "tikName": "Баяндаевская"
+    "tikName": "Баяндаевская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 162,
     "uikTvd": "4854002153754",
+    "uikName": "УИК №162",
     "tikTvd": "23820001459316",
-    "tikName": "Баяндаевская"
+    "tikName": "Баяндаевская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 163,
     "uikTvd": "4854002153755",
+    "uikName": "УИК №163",
     "tikTvd": "23820001459316",
-    "tikName": "Баяндаевская"
+    "tikName": "Баяндаевская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 164,
     "uikTvd": "4854002153756",
+    "uikName": "УИК №164",
     "tikTvd": "23820001459316",
-    "tikName": "Баяндаевская"
+    "tikName": "Баяндаевская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 165,
     "uikTvd": "4854002153758",
+    "uikName": "УИК №165",
     "tikTvd": "23820001459316",
-    "tikName": "Баяндаевская"
+    "tikName": "Баяндаевская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 166,
     "uikTvd": "4854002153760",
+    "uikName": "УИК №166",
     "tikTvd": "23820001459316",
-    "tikName": "Баяндаевская"
+    "tikName": "Баяндаевская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 167,
     "uikTvd": "4854002153762",
+    "uikName": "УИК №167",
     "tikTvd": "23820001459316",
-    "tikName": "Баяндаевская"
+    "tikName": "Баяндаевская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 168,
     "uikTvd": "4854002153763",
+    "uikName": "УИК №168",
     "tikTvd": "23820001459316",
-    "tikName": "Баяндаевская"
+    "tikName": "Баяндаевская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 169,
     "uikTvd": "4854002153764",
+    "uikName": "УИК №169",
     "tikTvd": "23820001459316",
-    "tikName": "Баяндаевская"
+    "tikName": "Баяндаевская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 170,
     "uikTvd": "4854002153765",
+    "uikName": "УИК №170",
     "tikTvd": "23820001459316",
-    "tikName": "Баяндаевская"
+    "tikName": "Баяндаевская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 171,
     "uikTvd": "4854002153766",
+    "uikName": "УИК №171",
     "tikTvd": "23820001459316",
-    "tikName": "Баяндаевская"
+    "tikName": "Баяндаевская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 172,
     "uikTvd": "4854002153767",
+    "uikName": "УИК №172",
     "tikTvd": "23820001459316",
-    "tikName": "Баяндаевская"
+    "tikName": "Баяндаевская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 173,
     "uikTvd": "4854002153768",
+    "uikName": "УИК №173",
     "tikTvd": "23820001459316",
-    "tikName": "Баяндаевская"
+    "tikName": "Баяндаевская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 174,
     "uikTvd": "4854002153770",
+    "uikName": "УИК №174",
     "tikTvd": "23820001459316",
-    "tikName": "Баяндаевская"
+    "tikName": "Баяндаевская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 175,
     "uikTvd": "4854002153772",
+    "uikName": "УИК №175",
     "tikTvd": "23820001459316",
-    "tikName": "Баяндаевская"
+    "tikName": "Баяндаевская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 176,
     "uikTvd": "4854002153774",
+    "uikName": "УИК №176",
     "tikTvd": "23820001459316",
-    "tikName": "Баяндаевская"
+    "tikName": "Баяндаевская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 177,
     "uikTvd": "4854002153776",
+    "uikName": "УИК №177",
     "tikTvd": "23820001459316",
-    "tikName": "Баяндаевская"
+    "tikName": "Баяндаевская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 178,
     "uikTvd": "4854002153777",
+    "uikName": "УИК №178",
     "tikTvd": "23820001459316",
-    "tikName": "Баяндаевская"
+    "tikName": "Баяндаевская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 179,
     "uikTvd": "4854002153778",
+    "uikName": "УИК №179",
     "tikTvd": "23820001459316",
-    "tikName": "Баяндаевская"
+    "tikName": "Баяндаевская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 180,
     "uikTvd": "4854002153779",
+    "uikName": "УИК №180",
     "tikTvd": "23820001459316",
-    "tikName": "Баяндаевская"
+    "tikName": "Баяндаевская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 181,
     "uikTvd": "4854002153780",
+    "uikName": "УИК №181",
     "tikTvd": "23820001459316",
-    "tikName": "Баяндаевская"
+    "tikName": "Баяндаевская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 182,
     "uikTvd": "4854002153781",
+    "uikName": "УИК №182",
     "tikTvd": "23820001459316",
-    "tikName": "Баяндаевская"
+    "tikName": "Баяндаевская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 183,
     "uikTvd": "4854002153782",
+    "uikName": "УИК №183",
     "tikTvd": "23820001459316",
-    "tikName": "Баяндаевская"
+    "tikName": "Баяндаевская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 184,
     "uikTvd": "4854002153783",
+    "uikName": "УИК №184",
     "tikTvd": "23820001459316",
-    "tikName": "Баяндаевская"
+    "tikName": "Баяндаевская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 185,
     "uikTvd": "4854002153784",
+    "uikName": "УИК №185",
     "tikTvd": "23820001459316",
-    "tikName": "Баяндаевская"
+    "tikName": "Баяндаевская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 186,
     "uikTvd": "4854002153785",
+    "uikName": "УИК №186",
     "tikTvd": "23820001459316",
-    "tikName": "Баяндаевская"
+    "tikName": "Баяндаевская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 187,
     "uikTvd": "4854002153786",
+    "uikName": "УИК №187",
     "tikTvd": "23820001459316",
-    "tikName": "Баяндаевская"
+    "tikName": "Баяндаевская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 188,
     "uikTvd": "4384003166351",
+    "uikName": "УИК №188",
     "tikTvd": "4384009306495",
-    "tikName": "Бодайбинская"
+    "tikName": "Бодайбинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 189,
     "uikTvd": "4384003166352",
+    "uikName": "УИК №189",
     "tikTvd": "4384009306495",
-    "tikName": "Бодайбинская"
+    "tikName": "Бодайбинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 190,
     "uikTvd": "4384003166353",
+    "uikName": "УИК №190",
     "tikTvd": "4384009306495",
-    "tikName": "Бодайбинская"
+    "tikName": "Бодайбинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 191,
     "uikTvd": "4384003166354",
+    "uikName": "УИК №191",
     "tikTvd": "4384009306495",
-    "tikName": "Бодайбинская"
+    "tikName": "Бодайбинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 192,
     "uikTvd": "4384003166355",
+    "uikName": "УИК №192",
     "tikTvd": "4384009306495",
-    "tikName": "Бодайбинская"
+    "tikName": "Бодайбинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 193,
     "uikTvd": "4384003166356",
+    "uikName": "УИК №193",
     "tikTvd": "4384009306495",
-    "tikName": "Бодайбинская"
+    "tikName": "Бодайбинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 194,
     "uikTvd": "4384003166357",
+    "uikName": "УИК №194",
     "tikTvd": "4384009306495",
-    "tikName": "Бодайбинская"
+    "tikName": "Бодайбинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 195,
     "uikTvd": "4384003166358",
+    "uikName": "УИК №195",
     "tikTvd": "4384009306495",
-    "tikName": "Бодайбинская"
+    "tikName": "Бодайбинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 196,
     "uikTvd": "4384003166359",
+    "uikName": "УИК №196",
     "tikTvd": "4384009306495",
-    "tikName": "Бодайбинская"
+    "tikName": "Бодайбинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 197,
     "uikTvd": "4384003166360",
+    "uikName": "УИК №197",
     "tikTvd": "4384009306495",
-    "tikName": "Бодайбинская"
+    "tikName": "Бодайбинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 198,
     "uikTvd": "4384003166361",
+    "uikName": "УИК №198",
     "tikTvd": "4384009306495",
-    "tikName": "Бодайбинская"
+    "tikName": "Бодайбинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 199,
     "uikTvd": "4384003166362",
+    "uikName": "УИК №199",
     "tikTvd": "4384009306495",
-    "tikName": "Бодайбинская"
+    "tikName": "Бодайбинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 200,
     "uikTvd": "4384003166363",
+    "uikName": "УИК №200",
     "tikTvd": "4384009306495",
-    "tikName": "Бодайбинская"
+    "tikName": "Бодайбинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 201,
     "uikTvd": "4384003166364",
+    "uikName": "УИК №201",
     "tikTvd": "4384009306495",
-    "tikName": "Бодайбинская"
+    "tikName": "Бодайбинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 202,
     "uikTvd": "4384003166365",
+    "uikName": "УИК №202",
     "tikTvd": "4384009306495",
-    "tikName": "Бодайбинская"
+    "tikName": "Бодайбинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 203,
     "uikTvd": "4384003166366",
+    "uikName": "УИК №203",
     "tikTvd": "4384009306495",
-    "tikName": "Бодайбинская"
+    "tikName": "Бодайбинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 204,
     "uikTvd": "4384003166367",
+    "uikName": "УИК №204",
     "tikTvd": "4384009306495",
-    "tikName": "Бодайбинская"
+    "tikName": "Бодайбинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 205,
     "uikTvd": "4384003166368",
+    "uikName": "УИК №205",
     "tikTvd": "4384009306495",
-    "tikName": "Бодайбинская"
+    "tikName": "Бодайбинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 206,
     "uikTvd": "4384003166369",
+    "uikName": "УИК №206",
     "tikTvd": "4384009306495",
-    "tikName": "Бодайбинская"
+    "tikName": "Бодайбинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 207,
     "uikTvd": "4384003166370",
+    "uikName": "УИК №207",
     "tikTvd": "4384009306495",
-    "tikName": "Бодайбинская"
+    "tikName": "Бодайбинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 208,
     "uikTvd": "4384003166371",
+    "uikName": "УИК №208",
     "tikTvd": "4384009306495",
-    "tikName": "Бодайбинская"
+    "tikName": "Бодайбинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 209,
     "uikTvd": "4384003166372",
+    "uikName": "УИК №209",
     "tikTvd": "4384009306495",
-    "tikName": "Бодайбинская"
+    "tikName": "Бодайбинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 210,
     "uikTvd": "4854003173629",
+    "uikName": "УИК №210",
     "tikTvd": "4384001346413",
-    "tikName": "Боханская"
+    "tikName": "Боханская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 211,
     "uikTvd": "4854003173630",
+    "uikName": "УИК №211",
     "tikTvd": "4384001346413",
-    "tikName": "Боханская"
+    "tikName": "Боханская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 212,
     "uikTvd": "4854003173631",
+    "uikName": "УИК №212",
     "tikTvd": "4384001346413",
-    "tikName": "Боханская"
+    "tikName": "Боханская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 213,
     "uikTvd": "4854003173632",
+    "uikName": "УИК №213",
     "tikTvd": "4384001346413",
-    "tikName": "Боханская"
+    "tikName": "Боханская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 214,
     "uikTvd": "4854003173633",
+    "uikName": "УИК №214",
     "tikTvd": "4384001346413",
-    "tikName": "Боханская"
+    "tikName": "Боханская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 215,
     "uikTvd": "4854003173634",
+    "uikName": "УИК №215",
     "tikTvd": "4384001346413",
-    "tikName": "Боханская"
+    "tikName": "Боханская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 216,
     "uikTvd": "4854003173635",
+    "uikName": "УИК №216",
     "tikTvd": "4384001346413",
-    "tikName": "Боханская"
+    "tikName": "Боханская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 217,
     "uikTvd": "4854003173636",
+    "uikName": "УИК №217",
     "tikTvd": "4384001346413",
-    "tikName": "Боханская"
+    "tikName": "Боханская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 218,
     "uikTvd": "4854003173637",
+    "uikName": "УИК №218",
     "tikTvd": "4384001346413",
-    "tikName": "Боханская"
+    "tikName": "Боханская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 219,
     "uikTvd": "4854003173638",
+    "uikName": "УИК №219",
     "tikTvd": "4384001346413",
-    "tikName": "Боханская"
+    "tikName": "Боханская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 220,
     "uikTvd": "4854003173639",
+    "uikName": "УИК №220",
     "tikTvd": "4384001346413",
-    "tikName": "Боханская"
+    "tikName": "Боханская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 221,
     "uikTvd": "4854003173640",
+    "uikName": "УИК №221",
     "tikTvd": "4384001346413",
-    "tikName": "Боханская"
+    "tikName": "Боханская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 222,
     "uikTvd": "4854003173641",
+    "uikName": "УИК №222",
     "tikTvd": "4384001346413",
-    "tikName": "Боханская"
+    "tikName": "Боханская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 223,
     "uikTvd": "4854003173642",
+    "uikName": "УИК №223",
     "tikTvd": "4384001346413",
-    "tikName": "Боханская"
+    "tikName": "Боханская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 224,
     "uikTvd": "4854003173643",
+    "uikName": "УИК №224",
     "tikTvd": "4384001346413",
-    "tikName": "Боханская"
+    "tikName": "Боханская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 225,
     "uikTvd": "4854003173644",
+    "uikName": "УИК №225",
     "tikTvd": "4384001346413",
-    "tikName": "Боханская"
+    "tikName": "Боханская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 226,
     "uikTvd": "4854003173645",
+    "uikName": "УИК №226",
     "tikTvd": "4384001346413",
-    "tikName": "Боханская"
+    "tikName": "Боханская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 227,
     "uikTvd": "4854003173646",
+    "uikName": "УИК №227",
     "tikTvd": "4384001346413",
-    "tikName": "Боханская"
+    "tikName": "Боханская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 228,
     "uikTvd": "4854003173647",
+    "uikName": "УИК №228",
     "tikTvd": "4384001346413",
-    "tikName": "Боханская"
+    "tikName": "Боханская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 229,
     "uikTvd": "4854003173648",
+    "uikName": "УИК №229",
     "tikTvd": "4384001346413",
-    "tikName": "Боханская"
+    "tikName": "Боханская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 230,
     "uikTvd": "4854003173649",
+    "uikName": "УИК №230",
     "tikTvd": "4384001346413",
-    "tikName": "Боханская"
+    "tikName": "Боханская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 231,
     "uikTvd": "4854003173650",
+    "uikName": "УИК №231",
     "tikTvd": "4384001346413",
-    "tikName": "Боханская"
+    "tikName": "Боханская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 232,
     "uikTvd": "4854003173651",
+    "uikName": "УИК №232",
     "tikTvd": "4384001346413",
-    "tikName": "Боханская"
+    "tikName": "Боханская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 233,
     "uikTvd": "4854003173652",
+    "uikName": "УИК №233",
     "tikTvd": "4384001346413",
-    "tikName": "Боханская"
+    "tikName": "Боханская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 234,
     "uikTvd": "4854003173653",
+    "uikName": "УИК №234",
     "tikTvd": "4384001346413",
-    "tikName": "Боханская"
+    "tikName": "Боханская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 235,
     "uikTvd": "4854003173654",
+    "uikName": "УИК №235",
     "tikTvd": "4384001346413",
-    "tikName": "Боханская"
+    "tikName": "Боханская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 236,
     "uikTvd": "4854003173655",
+    "uikName": "УИК №236",
     "tikTvd": "4384001346413",
-    "tikName": "Боханская"
+    "tikName": "Боханская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 237,
     "uikTvd": "4854003173656",
+    "uikName": "УИК №237",
     "tikTvd": "4384001346413",
-    "tikName": "Боханская"
+    "tikName": "Боханская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 238,
     "uikTvd": "4854003173657",
+    "uikName": "УИК №238",
     "tikTvd": "4384001346413",
-    "tikName": "Боханская"
+    "tikName": "Боханская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 239,
     "uikTvd": "4854003173658",
+    "uikName": "УИК №239",
     "tikTvd": "4384001346413",
-    "tikName": "Боханская"
+    "tikName": "Боханская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 240,
     "uikTvd": "4854003173659",
+    "uikName": "УИК №240",
     "tikTvd": "4384001346413",
-    "tikName": "Боханская"
+    "tikName": "Боханская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 241,
     "uikTvd": "4854003173660",
+    "uikName": "УИК №241",
     "tikTvd": "4384001346413",
-    "tikName": "Боханская"
+    "tikName": "Боханская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 242,
     "uikTvd": "4854003173661",
+    "uikName": "УИК №242",
     "tikTvd": "4384001346413",
-    "tikName": "Боханская"
+    "tikName": "Боханская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 243,
     "uikTvd": "4854003173662",
+    "uikName": "УИК №243",
     "tikTvd": "4384001346413",
-    "tikName": "Боханская"
+    "tikName": "Боханская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 244,
     "uikTvd": "4854003173663",
+    "uikName": "УИК №244",
     "tikTvd": "4384001346413",
-    "tikName": "Боханская"
+    "tikName": "Боханская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 245,
     "uikTvd": "4854003173664",
+    "uikName": "УИК №245",
     "tikTvd": "4384001346413",
-    "tikName": "Боханская"
+    "tikName": "Боханская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 246,
     "uikTvd": "4854003173665",
+    "uikName": "УИК №246",
     "tikTvd": "4384001346413",
-    "tikName": "Боханская"
+    "tikName": "Боханская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 247,
     "uikTvd": "4854003173666",
+    "uikName": "УИК №247",
     "tikTvd": "4384001346413",
-    "tikName": "Боханская"
+    "tikName": "Боханская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 248,
     "uikTvd": "4854003173667",
+    "uikName": "УИК №248",
     "tikTvd": "4384001346413",
-    "tikName": "Боханская"
+    "tikName": "Боханская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 249,
     "uikTvd": "4854003173668",
+    "uikName": "УИК №249",
     "tikTvd": "4384001346413",
-    "tikName": "Боханская"
+    "tikName": "Боханская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 250,
     "uikTvd": "4854003173669",
+    "uikName": "УИК №250",
     "tikTvd": "4384001346413",
-    "tikName": "Боханская"
+    "tikName": "Боханская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 251,
     "uikTvd": "4854003173670",
+    "uikName": "УИК №251",
     "tikTvd": "4384001346413",
-    "tikName": "Боханская"
+    "tikName": "Боханская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 252,
     "uikTvd": "4384007305439",
+    "uikName": "УИК №252",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 253,
     "uikTvd": "4384007305440",
+    "uikName": "УИК №253",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 254,
     "uikTvd": "4384007305441",
+    "uikName": "УИК №254",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 255,
     "uikTvd": "4384007305442",
+    "uikName": "УИК №255",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 256,
     "uikTvd": "4384007305443",
+    "uikName": "УИК №256",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 257,
     "uikTvd": "4384007305444",
+    "uikName": "УИК №257",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 258,
     "uikTvd": "4384007305445",
+    "uikName": "УИК №258",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 259,
     "uikTvd": "4384007305446",
+    "uikName": "УИК №259",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 260,
     "uikTvd": "4384007305447",
+    "uikName": "УИК №260",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 261,
     "uikTvd": "4384007305448",
+    "uikName": "УИК №261",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 262,
     "uikTvd": "4384007305449",
+    "uikName": "УИК №262",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 263,
     "uikTvd": "4384007305450",
+    "uikName": "УИК №263",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 264,
     "uikTvd": "4384007305451",
+    "uikName": "УИК №264",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 265,
     "uikTvd": "4384007305452",
+    "uikName": "УИК №265",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 266,
     "uikTvd": "4384007305453",
+    "uikName": "УИК №266",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 267,
     "uikTvd": "4384007305454",
+    "uikName": "УИК №267",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 268,
     "uikTvd": "4384007305455",
+    "uikName": "УИК №268",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 269,
     "uikTvd": "4384007305456",
+    "uikName": "УИК №269",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 270,
     "uikTvd": "4384007305457",
+    "uikName": "УИК №270",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 271,
     "uikTvd": "4384007305458",
+    "uikName": "УИК №271",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 272,
     "uikTvd": "4384007305459",
+    "uikName": "УИК №272",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 273,
     "uikTvd": "4384007305460",
+    "uikName": "УИК №273",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 274,
     "uikTvd": "4384007305461",
+    "uikName": "УИК №274",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 275,
     "uikTvd": "4384007305462",
+    "uikName": "УИК №275",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 276,
     "uikTvd": "4384007305463",
+    "uikName": "УИК №276",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 277,
     "uikTvd": "4384007305464",
+    "uikName": "УИК №277",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 278,
     "uikTvd": "4384007305465",
+    "uikName": "УИК №278",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 279,
     "uikTvd": "4384007305466",
+    "uikName": "УИК №279",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 280,
     "uikTvd": "4384007305467",
+    "uikName": "УИК №280",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 281,
     "uikTvd": "4384007305468",
+    "uikName": "УИК №281",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 282,
     "uikTvd": "4384007305469",
+    "uikName": "УИК №282",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 283,
     "uikTvd": "4384007305470",
+    "uikName": "УИК №283",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 284,
     "uikTvd": "4384007305471",
+    "uikName": "УИК №284",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 285,
     "uikTvd": "4384007305472",
+    "uikName": "УИК №285",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 286,
     "uikTvd": "4384007305473",
+    "uikName": "УИК №286",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 287,
     "uikTvd": "4384007305474",
+    "uikName": "УИК №287",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 288,
     "uikTvd": "4384007305475",
+    "uikName": "УИК №288",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 289,
     "uikTvd": "4384007305476",
+    "uikName": "УИК №289",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 290,
     "uikTvd": "4384007305477",
+    "uikName": "УИК №290",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 291,
     "uikTvd": "4384007305478",
+    "uikName": "УИК №291",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 292,
     "uikTvd": "4384007305479",
+    "uikName": "УИК №292",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 293,
     "uikTvd": "4384007305480",
+    "uikName": "УИК №293",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 294,
     "uikTvd": "4384007305481",
+    "uikName": "УИК №294",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 295,
     "uikTvd": "4384007305482",
+    "uikName": "УИК №295",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 296,
     "uikTvd": "4384007305483",
+    "uikName": "УИК №296",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 297,
     "uikTvd": "4384007305484",
+    "uikName": "УИК №297",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 298,
     "uikTvd": "4384007305485",
+    "uikName": "УИК №298",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 299,
     "uikTvd": "4384007305486",
+    "uikName": "УИК №299",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 300,
     "uikTvd": "4384007305487",
+    "uikName": "УИК №300",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 301,
     "uikTvd": "4384007305488",
+    "uikName": "УИК №301",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 302,
     "uikTvd": "4384007305489",
+    "uikName": "УИК №302",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 303,
     "uikTvd": "4384007305490",
+    "uikName": "УИК №303",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 304,
     "uikTvd": "4384007305491",
+    "uikName": "УИК №304",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 305,
     "uikTvd": "4384007305492",
+    "uikName": "УИК №305",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 306,
     "uikTvd": "4384007305493",
+    "uikName": "УИК №306",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 307,
     "uikTvd": "4384007305494",
+    "uikName": "УИК №307",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 308,
     "uikTvd": "4384007305495",
+    "uikName": "УИК №308",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 309,
     "uikTvd": "4384007305496",
+    "uikName": "УИК №309",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 310,
     "uikTvd": "4384007305497",
+    "uikName": "УИК №310",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 311,
     "uikTvd": "4384007305498",
+    "uikName": "УИК №311",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 312,
     "uikTvd": "4384007305499",
+    "uikName": "УИК №312",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 313,
     "uikTvd": "4384007305500",
+    "uikName": "УИК №313",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 314,
     "uikTvd": "4384007305501",
+    "uikName": "УИК №314",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 315,
     "uikTvd": "4384007305502",
+    "uikName": "УИК №315",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 316,
     "uikTvd": "4384007305503",
+    "uikName": "УИК №316",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 317,
     "uikTvd": "4384007305504",
+    "uikName": "УИК №317",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 318,
     "uikTvd": "4384007305505",
+    "uikName": "УИК №318",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 319,
     "uikTvd": "4384007305506",
+    "uikName": "УИК №319",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 320,
     "uikTvd": "4384007305507",
+    "uikName": "УИК №320",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 321,
     "uikTvd": "4384007305508",
+    "uikName": "УИК №321",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 322,
     "uikTvd": "4384007305509",
+    "uikName": "УИК №322",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 323,
     "uikTvd": "4384007305510",
+    "uikName": "УИК №323",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 324,
     "uikTvd": "4384007305511",
+    "uikName": "УИК №324",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 325,
     "uikTvd": "4384007305512",
+    "uikName": "УИК №325",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 326,
     "uikTvd": "4384007305513",
+    "uikName": "УИК №326",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 327,
     "uikTvd": "4384007305514",
+    "uikName": "УИК №327",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 328,
     "uikTvd": "4384007305515",
+    "uikName": "УИК №328",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 329,
     "uikTvd": "4384007305516",
+    "uikName": "УИК №329",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 330,
     "uikTvd": "4384007305517",
+    "uikName": "УИК №330",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 331,
     "uikTvd": "4384007305518",
+    "uikName": "УИК №331",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 332,
     "uikTvd": "4384007305519",
+    "uikName": "УИК №332",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 333,
     "uikTvd": "4384007305520",
+    "uikName": "УИК №333",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 334,
     "uikTvd": "4384007305521",
+    "uikName": "УИК №334",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 335,
     "uikTvd": "4384007305522",
+    "uikName": "УИК №335",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 336,
     "uikTvd": "4384007305523",
+    "uikName": "УИК №336",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 337,
     "uikTvd": "4384007305524",
+    "uikName": "УИК №337",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 338,
     "uikTvd": "4384007305525",
+    "uikName": "УИК №338",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 339,
     "uikTvd": "4384007305526",
+    "uikName": "УИК №339",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 340,
     "uikTvd": "4384007305527",
+    "uikName": "УИК №340",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 341,
     "uikTvd": "4384007305528",
+    "uikName": "УИК №341",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 342,
     "uikTvd": "4384007305529",
+    "uikName": "УИК №342",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 343,
     "uikTvd": "4384007305530",
+    "uikName": "УИК №343",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 344,
     "uikTvd": "4384007305531",
+    "uikName": "УИК №344",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 345,
     "uikTvd": "4384007305532",
+    "uikName": "УИК №345",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 346,
     "uikTvd": "4384009306586",
+    "uikName": "УИК №346",
     "tikTvd": "4384009306497",
-    "tikName": "Братская "
+    "tikName": "Братская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 347,
     "uikTvd": "4384009306587",
+    "uikName": "УИК №347",
     "tikTvd": "4384009306497",
-    "tikName": "Братская "
+    "tikName": "Братская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 348,
     "uikTvd": "4384009306588",
+    "uikName": "УИК №348",
     "tikTvd": "4384009306497",
-    "tikName": "Братская "
+    "tikName": "Братская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 349,
     "uikTvd": "4384009306589",
+    "uikName": "УИК №349",
     "tikTvd": "4384009306497",
-    "tikName": "Братская "
+    "tikName": "Братская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 350,
     "uikTvd": "4384009306590",
+    "uikName": "УИК №350",
     "tikTvd": "4384009306497",
-    "tikName": "Братская "
+    "tikName": "Братская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 351,
     "uikTvd": "4384009306591",
+    "uikName": "УИК №351",
     "tikTvd": "4384009306497",
-    "tikName": "Братская "
+    "tikName": "Братская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 352,
     "uikTvd": "4384009306592",
+    "uikName": "УИК №352",
     "tikTvd": "4384009306497",
-    "tikName": "Братская "
+    "tikName": "Братская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 353,
     "uikTvd": "4384009306593",
+    "uikName": "УИК №353",
     "tikTvd": "4384009306497",
-    "tikName": "Братская "
+    "tikName": "Братская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 354,
     "uikTvd": "4384009306594",
+    "uikName": "УИК №354",
     "tikTvd": "4384009306497",
-    "tikName": "Братская "
+    "tikName": "Братская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 355,
     "uikTvd": "4384009306595",
+    "uikName": "УИК №355",
     "tikTvd": "4384009306497",
-    "tikName": "Братская "
+    "tikName": "Братская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 356,
     "uikTvd": "4384009306596",
+    "uikName": "УИК №356",
     "tikTvd": "4384009306497",
-    "tikName": "Братская "
+    "tikName": "Братская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 357,
     "uikTvd": "4384009306597",
+    "uikName": "УИК №357",
     "tikTvd": "4384009306497",
-    "tikName": "Братская "
+    "tikName": "Братская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 358,
     "uikTvd": "4384009306598",
+    "uikName": "УИК №358",
     "tikTvd": "4384009306497",
-    "tikName": "Братская "
+    "tikName": "Братская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 359,
     "uikTvd": "4384009306599",
+    "uikName": "УИК №359",
     "tikTvd": "4384009306497",
-    "tikName": "Братская "
+    "tikName": "Братская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 360,
     "uikTvd": "4384009306600",
+    "uikName": "УИК №360",
     "tikTvd": "4384009306497",
-    "tikName": "Братская "
+    "tikName": "Братская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 361,
     "uikTvd": "4384009306601",
+    "uikName": "УИК №361",
     "tikTvd": "4384009306497",
-    "tikName": "Братская "
+    "tikName": "Братская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 362,
     "uikTvd": "4384009306602",
+    "uikName": "УИК №362",
     "tikTvd": "4384009306497",
-    "tikName": "Братская "
+    "tikName": "Братская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 363,
     "uikTvd": "4854003175140",
+    "uikName": "УИК №363",
     "tikTvd": "4384001346413",
-    "tikName": "Боханская"
+    "tikName": "Боханская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 365,
     "uikTvd": "4384009306603",
+    "uikName": "УИК №365",
     "tikTvd": "4384009306497",
-    "tikName": "Братская "
+    "tikName": "Братская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 366,
     "uikTvd": "4384009306604",
+    "uikName": "УИК №366",
     "tikTvd": "4384009306497",
-    "tikName": "Братская "
+    "tikName": "Братская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 367,
     "uikTvd": "4384009306605",
+    "uikName": "УИК №367",
     "tikTvd": "4384009306497",
-    "tikName": "Братская "
+    "tikName": "Братская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 368,
     "uikTvd": "4384009306606",
+    "uikName": "УИК №368",
     "tikTvd": "4384009306497",
-    "tikName": "Братская "
+    "tikName": "Братская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 369,
     "uikTvd": "4384009306607",
+    "uikName": "УИК №369",
     "tikTvd": "4384009306497",
-    "tikName": "Братская "
+    "tikName": "Братская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 370,
     "uikTvd": "4384009306608",
+    "uikName": "УИК №370",
     "tikTvd": "4384009306497",
-    "tikName": "Братская "
+    "tikName": "Братская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 371,
     "uikTvd": "4384009306609",
+    "uikName": "УИК №371",
     "tikTvd": "4384009306497",
-    "tikName": "Братская "
+    "tikName": "Братская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 372,
     "uikTvd": "4384009306610",
+    "uikName": "УИК №372",
     "tikTvd": "4384009306497",
-    "tikName": "Братская "
+    "tikName": "Братская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 373,
     "uikTvd": "4384009306611",
+    "uikName": "УИК №373",
     "tikTvd": "4384009306497",
-    "tikName": "Братская "
+    "tikName": "Братская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 374,
     "uikTvd": "4384009306612",
+    "uikName": "УИК №374",
     "tikTvd": "4384009306497",
-    "tikName": "Братская "
+    "tikName": "Братская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 375,
     "uikTvd": "4384009306613",
+    "uikName": "УИК №375",
     "tikTvd": "4384009306497",
-    "tikName": "Братская "
+    "tikName": "Братская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 376,
     "uikTvd": "4384009306614",
+    "uikName": "УИК №376",
     "tikTvd": "4384009306497",
-    "tikName": "Братская "
+    "tikName": "Братская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 377,
     "uikTvd": "4384009306615",
+    "uikName": "УИК №377",
     "tikTvd": "4384009306497",
-    "tikName": "Братская "
+    "tikName": "Братская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 378,
     "uikTvd": "4384009306616",
+    "uikName": "УИК №378",
     "tikTvd": "4384009306497",
-    "tikName": "Братская "
+    "tikName": "Братская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 379,
     "uikTvd": "4384009306617",
+    "uikName": "УИК №379",
     "tikTvd": "4384009306497",
-    "tikName": "Братская "
+    "tikName": "Братская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 380,
     "uikTvd": "4384009306618",
+    "uikName": "УИК №380",
     "tikTvd": "4384009306497",
-    "tikName": "Братская "
+    "tikName": "Братская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 381,
     "uikTvd": "4384009306619",
+    "uikName": "УИК №381",
     "tikTvd": "4384009306497",
-    "tikName": "Братская "
+    "tikName": "Братская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 382,
     "uikTvd": "4384009306620",
+    "uikName": "УИК №382",
     "tikTvd": "4384009306497",
-    "tikName": "Братская "
+    "tikName": "Братская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 383,
     "uikTvd": "4384009306621",
+    "uikName": "УИК №383",
     "tikTvd": "4384009306497",
-    "tikName": "Братская "
+    "tikName": "Братская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 384,
     "uikTvd": "4384009306622",
+    "uikName": "УИК №384",
     "tikTvd": "4384009306497",
-    "tikName": "Братская "
+    "tikName": "Братская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 385,
     "uikTvd": "4384009306623",
+    "uikName": "УИК №385",
     "tikTvd": "4384009306497",
-    "tikName": "Братская "
+    "tikName": "Братская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 386,
     "uikTvd": "4384009306624",
+    "uikName": "УИК №386",
     "tikTvd": "4384009306497",
-    "tikName": "Братская "
+    "tikName": "Братская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 387,
     "uikTvd": "4384009306625",
+    "uikName": "УИК №387",
     "tikTvd": "4384009306497",
-    "tikName": "Братская "
+    "tikName": "Братская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 388,
     "uikTvd": "4384009306626",
+    "uikName": "УИК №388",
     "tikTvd": "4384009306497",
-    "tikName": "Братская "
+    "tikName": "Братская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 389,
     "uikTvd": "4384009306627",
+    "uikName": "УИК №389",
     "tikTvd": "4384009306497",
-    "tikName": "Братская "
+    "tikName": "Братская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 390,
     "uikTvd": "4384009306628",
+    "uikName": "УИК №390",
     "tikTvd": "4384009306497",
-    "tikName": "Братская "
+    "tikName": "Братская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 391,
     "uikTvd": "4384009306629",
+    "uikName": "УИК №391",
     "tikTvd": "4384009306497",
-    "tikName": "Братская "
+    "tikName": "Братская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 392,
     "uikTvd": "4384009306630",
+    "uikName": "УИК №392",
     "tikTvd": "4384009306497",
-    "tikName": "Братская "
+    "tikName": "Братская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 393,
     "uikTvd": "4384009306631",
+    "uikName": "УИК №393",
     "tikTvd": "4384009306497",
-    "tikName": "Братская "
+    "tikName": "Братская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 394,
     "uikTvd": "4384009306632",
+    "uikName": "УИК №394",
     "tikTvd": "4384009306497",
-    "tikName": "Братская "
+    "tikName": "Братская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 395,
     "uikTvd": "4384009306633",
+    "uikName": "УИК №395",
     "tikTvd": "4384009306497",
-    "tikName": "Братская "
+    "tikName": "Братская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 396,
     "uikTvd": "4384009306634",
+    "uikName": "УИК №396",
     "tikTvd": "4384009306497",
-    "tikName": "Братская "
+    "tikName": "Братская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 397,
     "uikTvd": "4384009306635",
+    "uikName": "УИК №397",
     "tikTvd": "4384009306497",
-    "tikName": "Братская "
+    "tikName": "Братская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 398,
     "uikTvd": "4384009306636",
+    "uikName": "УИК №398",
     "tikTvd": "4384009306497",
-    "tikName": "Братская "
+    "tikName": "Братская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 399,
     "uikTvd": "4384009306637",
+    "uikName": "УИК №399",
     "tikTvd": "4384009306497",
-    "tikName": "Братская "
+    "tikName": "Братская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 400,
     "uikTvd": "4384009306638",
+    "uikName": "УИК №400",
     "tikTvd": "4384009306497",
-    "tikName": "Братская "
+    "tikName": "Братская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 401,
     "uikTvd": "4384009306639",
+    "uikName": "УИК №401",
     "tikTvd": "4384009306497",
-    "tikName": "Братская "
+    "tikName": "Братская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 402,
     "uikTvd": "4384009306640",
+    "uikName": "УИК №402",
     "tikTvd": "4384009306497",
-    "tikName": "Братская "
+    "tikName": "Братская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 403,
     "uikTvd": "4384009306641",
+    "uikName": "УИК №403",
     "tikTvd": "4384009306497",
-    "tikName": "Братская "
+    "tikName": "Братская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 404,
     "uikTvd": "4384010166875",
+    "uikName": "УИК №404",
     "tikTvd": "23820001459315",
-    "tikName": "Жигаловская"
+    "tikName": "Жигаловская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 405,
     "uikTvd": "4384010166876",
+    "uikName": "УИК №405",
     "tikTvd": "23820001459315",
-    "tikName": "Жигаловская"
+    "tikName": "Жигаловская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 406,
     "uikTvd": "4384010166877",
+    "uikName": "УИК №406",
     "tikTvd": "23820001459315",
-    "tikName": "Жигаловская"
+    "tikName": "Жигаловская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 407,
     "uikTvd": "4384010166878",
+    "uikName": "УИК №407",
     "tikTvd": "23820001459315",
-    "tikName": "Жигаловская"
+    "tikName": "Жигаловская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 408,
     "uikTvd": "4384010166879",
+    "uikName": "УИК №408",
     "tikTvd": "23820001459315",
-    "tikName": "Жигаловская"
+    "tikName": "Жигаловская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 409,
     "uikTvd": "4384010166880",
+    "uikName": "УИК №409",
     "tikTvd": "23820001459315",
-    "tikName": "Жигаловская"
+    "tikName": "Жигаловская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 410,
     "uikTvd": "4384010166881",
+    "uikName": "УИК №410",
     "tikTvd": "23820001459315",
-    "tikName": "Жигаловская"
+    "tikName": "Жигаловская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 411,
     "uikTvd": "4384010166882",
+    "uikName": "УИК №411",
     "tikTvd": "23820001459315",
-    "tikName": "Жигаловская"
+    "tikName": "Жигаловская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 412,
     "uikTvd": "4384010166883",
+    "uikName": "УИК №412",
     "tikTvd": "23820001459315",
-    "tikName": "Жигаловская"
+    "tikName": "Жигаловская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 413,
     "uikTvd": "4384010166884",
+    "uikName": "УИК №413",
     "tikTvd": "23820001459315",
-    "tikName": "Жигаловская"
+    "tikName": "Жигаловская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 414,
     "uikTvd": "4384010166885",
+    "uikName": "УИК №414",
     "tikTvd": "23820001459315",
-    "tikName": "Жигаловская"
+    "tikName": "Жигаловская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 415,
     "uikTvd": "4384010166886",
+    "uikName": "УИК №415",
     "tikTvd": "23820001459315",
-    "tikName": "Жигаловская"
+    "tikName": "Жигаловская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 416,
     "uikTvd": "4384010166887",
+    "uikName": "УИК №416",
     "tikTvd": "23820001459315",
-    "tikName": "Жигаловская"
+    "tikName": "Жигаловская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 417,
     "uikTvd": "4384010166888",
+    "uikName": "УИК №417",
     "tikTvd": "23820001459315",
-    "tikName": "Жигаловская"
+    "tikName": "Жигаловская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 418,
     "uikTvd": "4384010166889",
+    "uikName": "УИК №418",
     "tikTvd": "23820001459315",
-    "tikName": "Жигаловская"
+    "tikName": "Жигаловская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 419,
     "uikTvd": "4384010166890",
+    "uikName": "УИК №419",
     "tikTvd": "23820001459315",
-    "tikName": "Жигаловская"
+    "tikName": "Жигаловская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 420,
     "uikTvd": "4384010166891",
+    "uikName": "УИК №420",
     "tikTvd": "23820001459315",
-    "tikName": "Жигаловская"
+    "tikName": "Жигаловская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 421,
     "uikTvd": "4384010166892",
+    "uikName": "УИК №421",
     "tikTvd": "23820001459315",
-    "tikName": "Жигаловская"
+    "tikName": "Жигаловская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 422,
     "uikTvd": "4384010166893",
+    "uikName": "УИК №422",
     "tikTvd": "23820001459315",
-    "tikName": "Жигаловская"
+    "tikName": "Жигаловская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 423,
     "uikTvd": "4384010166894",
+    "uikName": "УИК №423",
     "tikTvd": "23820001459315",
-    "tikName": "Жигаловская"
+    "tikName": "Жигаловская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 424,
     "uikTvd": "4384010166895",
+    "uikName": "УИК №424",
     "tikTvd": "23820001459315",
-    "tikName": "Жигаловская"
+    "tikName": "Жигаловская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 425,
     "uikTvd": "4384010166896",
+    "uikName": "УИК №425",
     "tikTvd": "23820001459315",
-    "tikName": "Жигаловская"
+    "tikName": "Жигаловская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 426,
     "uikTvd": "4384010166897",
+    "uikName": "УИК №426",
     "tikTvd": "23820001459315",
-    "tikName": "Жигаловская"
+    "tikName": "Жигаловская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 427,
     "uikTvd": "4384010166898",
+    "uikName": "УИК №427",
     "tikTvd": "23820001459315",
-    "tikName": "Жигаловская"
+    "tikName": "Жигаловская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 428,
     "uikTvd": "4384011244339",
+    "uikName": "УИК №428",
     "tikTvd": "23820001459328",
-    "tikName": "Заларинская"
+    "tikName": "Заларинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 429,
     "uikTvd": "4384011244340",
+    "uikName": "УИК №429",
     "tikTvd": "23820001459328",
-    "tikName": "Заларинская"
+    "tikName": "Заларинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 430,
     "uikTvd": "4384011244341",
+    "uikName": "УИК №430",
     "tikTvd": "23820001459328",
-    "tikName": "Заларинская"
+    "tikName": "Заларинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 431,
     "uikTvd": "4384011244342",
+    "uikName": "УИК №431",
     "tikTvd": "23820001459328",
-    "tikName": "Заларинская"
+    "tikName": "Заларинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 432,
     "uikTvd": "4384011244343",
+    "uikName": "УИК №432",
     "tikTvd": "23820001459328",
-    "tikName": "Заларинская"
+    "tikName": "Заларинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 433,
     "uikTvd": "4384011244344",
+    "uikName": "УИК №433",
     "tikTvd": "23820001459328",
-    "tikName": "Заларинская"
+    "tikName": "Заларинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 434,
     "uikTvd": "4384011244345",
+    "uikName": "УИК №434",
     "tikTvd": "23820001459328",
-    "tikName": "Заларинская"
+    "tikName": "Заларинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 435,
     "uikTvd": "4384011244346",
+    "uikName": "УИК №435",
     "tikTvd": "23820001459328",
-    "tikName": "Заларинская"
+    "tikName": "Заларинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 436,
     "uikTvd": "4384011244347",
+    "uikName": "УИК №436",
     "tikTvd": "23820001459328",
-    "tikName": "Заларинская"
+    "tikName": "Заларинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 437,
     "uikTvd": "4384011244348",
+    "uikName": "УИК №437",
     "tikTvd": "23820001459328",
-    "tikName": "Заларинская"
+    "tikName": "Заларинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 438,
     "uikTvd": "4384011244349",
+    "uikName": "УИК №438",
     "tikTvd": "23820001459328",
-    "tikName": "Заларинская"
+    "tikName": "Заларинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 439,
     "uikTvd": "4384011244350",
+    "uikName": "УИК №439",
     "tikTvd": "23820001459328",
-    "tikName": "Заларинская"
+    "tikName": "Заларинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 440,
     "uikTvd": "4384011244351",
+    "uikName": "УИК №440",
     "tikTvd": "23820001459328",
-    "tikName": "Заларинская"
+    "tikName": "Заларинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 441,
     "uikTvd": "4384011244352",
+    "uikName": "УИК №441",
     "tikTvd": "23820001459328",
-    "tikName": "Заларинская"
+    "tikName": "Заларинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 442,
     "uikTvd": "4384011244353",
+    "uikName": "УИК №442",
     "tikTvd": "23820001459328",
-    "tikName": "Заларинская"
+    "tikName": "Заларинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 443,
     "uikTvd": "4384011244354",
+    "uikName": "УИК №443",
     "tikTvd": "23820001459328",
-    "tikName": "Заларинская"
+    "tikName": "Заларинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 444,
     "uikTvd": "4384011244355",
+    "uikName": "УИК №444",
     "tikTvd": "23820001459328",
-    "tikName": "Заларинская"
+    "tikName": "Заларинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 445,
     "uikTvd": "4384011244356",
+    "uikName": "УИК №445",
     "tikTvd": "23820001459328",
-    "tikName": "Заларинская"
+    "tikName": "Заларинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 446,
     "uikTvd": "4384011244357",
+    "uikName": "УИК №446",
     "tikTvd": "23820001459328",
-    "tikName": "Заларинская"
+    "tikName": "Заларинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 447,
     "uikTvd": "4384011244358",
+    "uikName": "УИК №447",
     "tikTvd": "23820001459328",
-    "tikName": "Заларинская"
+    "tikName": "Заларинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 448,
     "uikTvd": "4384011244359",
+    "uikName": "УИК №448",
     "tikTvd": "23820001459328",
-    "tikName": "Заларинская"
+    "tikName": "Заларинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 449,
     "uikTvd": "4384011244360",
+    "uikName": "УИК №449",
     "tikTvd": "23820001459328",
-    "tikName": "Заларинская"
+    "tikName": "Заларинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 450,
     "uikTvd": "4384011244361",
+    "uikName": "УИК №450",
     "tikTvd": "23820001459328",
-    "tikName": "Заларинская"
+    "tikName": "Заларинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 451,
     "uikTvd": "4384011244362",
+    "uikName": "УИК №451",
     "tikTvd": "23820001459328",
-    "tikName": "Заларинская"
+    "tikName": "Заларинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 452,
     "uikTvd": "4384011244363",
+    "uikName": "УИК №452",
     "tikTvd": "23820001459328",
-    "tikName": "Заларинская"
+    "tikName": "Заларинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 453,
     "uikTvd": "4384011244364",
+    "uikName": "УИК №453",
     "tikTvd": "23820001459328",
-    "tikName": "Заларинская"
+    "tikName": "Заларинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 454,
     "uikTvd": "4384011244365",
+    "uikName": "УИК №454",
     "tikTvd": "23820001459328",
-    "tikName": "Заларинская"
+    "tikName": "Заларинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 455,
     "uikTvd": "4384011244366",
+    "uikName": "УИК №455",
     "tikTvd": "23820001459328",
-    "tikName": "Заларинская"
+    "tikName": "Заларинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 456,
     "uikTvd": "4384011244367",
+    "uikName": "УИК №456",
     "tikTvd": "23820001459328",
-    "tikName": "Заларинская"
+    "tikName": "Заларинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 457,
     "uikTvd": "4384011244368",
+    "uikName": "УИК №457",
     "tikTvd": "23820001459328",
-    "tikName": "Заларинская"
+    "tikName": "Заларинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 458,
     "uikTvd": "4384011244369",
+    "uikName": "УИК №458",
     "tikTvd": "23820001459328",
-    "tikName": "Заларинская"
+    "tikName": "Заларинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 459,
     "uikTvd": "4384011244370",
+    "uikName": "УИК №459",
     "tikTvd": "23820001459328",
-    "tikName": "Заларинская"
+    "tikName": "Заларинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 460,
     "uikTvd": "4384011244371",
+    "uikName": "УИК №460",
     "tikTvd": "23820001459328",
-    "tikName": "Заларинская"
+    "tikName": "Заларинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 461,
     "uikTvd": "4384011244372",
+    "uikName": "УИК №461",
     "tikTvd": "23820001459328",
-    "tikName": "Заларинская"
+    "tikName": "Заларинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 462,
     "uikTvd": "4384011244373",
+    "uikName": "УИК №462",
     "tikTvd": "23820001459328",
-    "tikName": "Заларинская"
+    "tikName": "Заларинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 463,
     "uikTvd": "4384011244374",
+    "uikName": "УИК №463",
     "tikTvd": "23820001459328",
-    "tikName": "Заларинская"
+    "tikName": "Заларинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 464,
     "uikTvd": "4384011244375",
+    "uikName": "УИК №464",
     "tikTvd": "23820001459328",
-    "tikName": "Заларинская"
+    "tikName": "Заларинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 465,
     "uikTvd": "4384011244376",
+    "uikName": "УИК №465",
     "tikTvd": "23820001459328",
-    "tikName": "Заларинская"
+    "tikName": "Заларинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 466,
     "uikTvd": "4384011244377",
+    "uikName": "УИК №466",
     "tikTvd": "23820001459328",
-    "tikName": "Заларинская"
+    "tikName": "Заларинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 467,
     "uikTvd": "4384011244378",
+    "uikName": "УИК №467",
     "tikTvd": "23820001459328",
-    "tikName": "Заларинская"
+    "tikName": "Заларинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 468,
     "uikTvd": "4384011244379",
+    "uikName": "УИК №468",
     "tikTvd": "23820001459328",
-    "tikName": "Заларинская"
+    "tikName": "Заларинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 469,
     "uikTvd": "4384011244380",
+    "uikName": "УИК №469",
     "tikTvd": "23820001459328",
-    "tikName": "Заларинская"
+    "tikName": "Заларинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 470,
     "uikTvd": "4384011244381",
+    "uikName": "УИК №470",
     "tikTvd": "23820001459328",
-    "tikName": "Заларинская"
+    "tikName": "Заларинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 471,
     "uikTvd": "4384012153029",
+    "uikName": "УИК №471",
     "tikTvd": "23820001459314",
-    "tikName": "Зиминская городская"
+    "tikName": "Зиминская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 472,
     "uikTvd": "4384012153030",
+    "uikName": "УИК №472",
     "tikTvd": "23820001459314",
-    "tikName": "Зиминская городская"
+    "tikName": "Зиминская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 473,
     "uikTvd": "4384012153031",
+    "uikName": "УИК №473",
     "tikTvd": "23820001459314",
-    "tikName": "Зиминская городская"
+    "tikName": "Зиминская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 474,
     "uikTvd": "4384012153032",
+    "uikName": "УИК №474",
     "tikTvd": "23820001459314",
-    "tikName": "Зиминская городская"
+    "tikName": "Зиминская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 475,
     "uikTvd": "4384012153033",
+    "uikName": "УИК №475",
     "tikTvd": "23820001459314",
-    "tikName": "Зиминская городская"
+    "tikName": "Зиминская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 476,
     "uikTvd": "4384012153034",
+    "uikName": "УИК №476",
     "tikTvd": "23820001459314",
-    "tikName": "Зиминская городская"
+    "tikName": "Зиминская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 477,
     "uikTvd": "4384012153035",
+    "uikName": "УИК №477",
     "tikTvd": "23820001459314",
-    "tikName": "Зиминская городская"
+    "tikName": "Зиминская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 478,
     "uikTvd": "4384012153036",
+    "uikName": "УИК №478",
     "tikTvd": "23820001459314",
-    "tikName": "Зиминская городская"
+    "tikName": "Зиминская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 479,
     "uikTvd": "4384012153037",
+    "uikName": "УИК №479",
     "tikTvd": "23820001459314",
-    "tikName": "Зиминская городская"
+    "tikName": "Зиминская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 480,
     "uikTvd": "4384012153038",
+    "uikName": "УИК №480",
     "tikTvd": "23820001459314",
-    "tikName": "Зиминская городская"
+    "tikName": "Зиминская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 481,
     "uikTvd": "4384012153039",
+    "uikName": "УИК №481",
     "tikTvd": "23820001459314",
-    "tikName": "Зиминская городская"
+    "tikName": "Зиминская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 482,
     "uikTvd": "4384012153040",
+    "uikName": "УИК №482",
     "tikTvd": "23820001459314",
-    "tikName": "Зиминская городская"
+    "tikName": "Зиминская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 483,
     "uikTvd": "4384012153041",
+    "uikName": "УИК №483",
     "tikTvd": "23820001459314",
-    "tikName": "Зиминская городская"
+    "tikName": "Зиминская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 484,
     "uikTvd": "4384012153042",
+    "uikName": "УИК №484",
     "tikTvd": "23820001459314",
-    "tikName": "Зиминская городская"
+    "tikName": "Зиминская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 485,
     "uikTvd": "4384012153043",
+    "uikName": "УИК №485",
     "tikTvd": "23820001459314",
-    "tikName": "Зиминская городская"
+    "tikName": "Зиминская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 486,
     "uikTvd": "4384012153044",
+    "uikName": "УИК №486",
     "tikTvd": "23820001459314",
-    "tikName": "Зиминская городская"
+    "tikName": "Зиминская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 487,
     "uikTvd": "4384012153045",
+    "uikName": "УИК №487",
     "tikTvd": "23820001459314",
-    "tikName": "Зиминская городская"
+    "tikName": "Зиминская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 488,
     "uikTvd": "4384012153046",
+    "uikName": "УИК №488",
     "tikTvd": "23820001459314",
-    "tikName": "Зиминская городская"
+    "tikName": "Зиминская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 489,
     "uikTvd": "4384012153047",
+    "uikName": "УИК №489",
     "tikTvd": "23820001459314",
-    "tikName": "Зиминская городская"
+    "tikName": "Зиминская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 490,
     "uikTvd": "4384012153048",
+    "uikName": "УИК №490",
     "tikTvd": "23820001459314",
-    "tikName": "Зиминская городская"
+    "tikName": "Зиминская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 491,
     "uikTvd": "4384012153049",
+    "uikName": "УИК №491",
     "tikTvd": "23820001459314",
-    "tikName": "Зиминская городская"
+    "tikName": "Зиминская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 492,
     "uikTvd": "4384041212528",
+    "uikName": "УИК №492",
     "tikTvd": "23820001459313",
-    "tikName": "Зиминская районная"
+    "tikName": "Зиминская районная",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 493,
     "uikTvd": "4384041212529",
+    "uikName": "УИК №493",
     "tikTvd": "23820001459313",
-    "tikName": "Зиминская районная"
+    "tikName": "Зиминская районная",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 494,
     "uikTvd": "4384041212530",
+    "uikName": "УИК №494",
     "tikTvd": "23820001459313",
-    "tikName": "Зиминская районная"
+    "tikName": "Зиминская районная",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 495,
     "uikTvd": "4384041212531",
+    "uikName": "УИК №495",
     "tikTvd": "23820001459313",
-    "tikName": "Зиминская районная"
+    "tikName": "Зиминская районная",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 496,
     "uikTvd": "4384041212532",
+    "uikName": "УИК №496",
     "tikTvd": "23820001459313",
-    "tikName": "Зиминская районная"
+    "tikName": "Зиминская районная",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 497,
     "uikTvd": "4384041212533",
+    "uikName": "УИК №497",
     "tikTvd": "23820001459313",
-    "tikName": "Зиминская районная"
+    "tikName": "Зиминская районная",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 498,
     "uikTvd": "4384041212534",
+    "uikName": "УИК №498",
     "tikTvd": "23820001459313",
-    "tikName": "Зиминская районная"
+    "tikName": "Зиминская районная",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 499,
     "uikTvd": "4384041212535",
+    "uikName": "УИК №499",
     "tikTvd": "23820001459313",
-    "tikName": "Зиминская районная"
+    "tikName": "Зиминская районная",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 500,
     "uikTvd": "4384041212536",
+    "uikName": "УИК №500",
     "tikTvd": "23820001459313",
-    "tikName": "Зиминская районная"
+    "tikName": "Зиминская районная",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 501,
     "uikTvd": "4384041212537",
+    "uikName": "УИК №501",
     "tikTvd": "23820001459313",
-    "tikName": "Зиминская районная"
+    "tikName": "Зиминская районная",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 502,
     "uikTvd": "4384041212538",
+    "uikName": "УИК №502",
     "tikTvd": "23820001459313",
-    "tikName": "Зиминская районная"
+    "tikName": "Зиминская районная",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 503,
     "uikTvd": "4384041212539",
+    "uikName": "УИК №503",
     "tikTvd": "23820001459313",
-    "tikName": "Зиминская районная"
+    "tikName": "Зиминская районная",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 504,
     "uikTvd": "4384041212540",
+    "uikName": "УИК №504",
     "tikTvd": "23820001459313",
-    "tikName": "Зиминская районная"
+    "tikName": "Зиминская районная",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 505,
     "uikTvd": "4384041212541",
+    "uikName": "УИК №505",
     "tikTvd": "23820001459313",
-    "tikName": "Зиминская районная"
+    "tikName": "Зиминская районная",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 506,
     "uikTvd": "4384041212542",
+    "uikName": "УИК №506",
     "tikTvd": "23820001459313",
-    "tikName": "Зиминская районная"
+    "tikName": "Зиминская районная",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 507,
     "uikTvd": "4384041212543",
+    "uikName": "УИК №507",
     "tikTvd": "23820001459313",
-    "tikName": "Зиминская районная"
+    "tikName": "Зиминская районная",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 508,
     "uikTvd": "4384041212544",
+    "uikName": "УИК №508",
     "tikTvd": "23820001459313",
-    "tikName": "Зиминская районная"
+    "tikName": "Зиминская районная",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 509,
     "uikTvd": "4384041212545",
+    "uikName": "УИК №509",
     "tikTvd": "23820001459313",
-    "tikName": "Зиминская районная"
+    "tikName": "Зиминская районная",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 510,
     "uikTvd": "4384041212546",
+    "uikName": "УИК №510",
     "tikTvd": "23820001459313",
-    "tikName": "Зиминская районная"
+    "tikName": "Зиминская районная",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 511,
     "uikTvd": "4384041212547",
+    "uikName": "УИК №511",
     "tikTvd": "23820001459313",
-    "tikName": "Зиминская районная"
+    "tikName": "Зиминская районная",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 512,
     "uikTvd": "4384041212548",
+    "uikName": "УИК №512",
     "tikTvd": "23820001459313",
-    "tikName": "Зиминская районная"
+    "tikName": "Зиминская районная",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 513,
     "uikTvd": "4384041212549",
+    "uikName": "УИК №513",
     "tikTvd": "23820001459313",
-    "tikName": "Зиминская районная"
+    "tikName": "Зиминская районная",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 514,
     "uikTvd": "4384041212550",
+    "uikName": "УИК №514",
     "tikTvd": "23820001459313",
-    "tikName": "Зиминская районная"
+    "tikName": "Зиминская районная",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 515,
     "uikTvd": "4384041212551",
+    "uikName": "УИК №515",
     "tikTvd": "23820001459313",
-    "tikName": "Зиминская районная"
+    "tikName": "Зиминская районная",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 516,
     "uikTvd": "4384041212552",
+    "uikName": "УИК №516",
     "tikTvd": "23820001459313",
-    "tikName": "Зиминская районная"
+    "tikName": "Зиминская районная",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 517,
     "uikTvd": "4384041212553",
+    "uikName": "УИК №517",
     "tikTvd": "23820001459313",
-    "tikName": "Зиминская районная"
+    "tikName": "Зиминская районная",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 518,
     "uikTvd": "4384041212554",
+    "uikName": "УИК №518",
     "tikTvd": "23820001459313",
-    "tikName": "Зиминская районная"
+    "tikName": "Зиминская районная",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 519,
     "uikTvd": "4384015203779",
+    "uikName": "УИК №519",
     "tikTvd": "4384001346418",
-    "tikName": "Иркутская городская № 1"
+    "tikName": "Иркутская городская № 1",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 520,
     "uikTvd": "4384015203780",
+    "uikName": "УИК №520",
     "tikTvd": "4384001346418",
-    "tikName": "Иркутская городская № 1"
+    "tikName": "Иркутская городская № 1",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 521,
     "uikTvd": "4384015203781",
+    "uikName": "УИК №521",
     "tikTvd": "4384001346418",
-    "tikName": "Иркутская городская № 1"
+    "tikName": "Иркутская городская № 1",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 522,
     "uikTvd": "4384015203782",
+    "uikName": "УИК №522",
     "tikTvd": "4384001346418",
-    "tikName": "Иркутская городская № 1"
+    "tikName": "Иркутская городская № 1",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 523,
     "uikTvd": "4384015203783",
+    "uikName": "УИК №523",
     "tikTvd": "4384001346418",
-    "tikName": "Иркутская городская № 1"
+    "tikName": "Иркутская городская № 1",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 524,
     "uikTvd": "4384015203784",
+    "uikName": "УИК №524",
     "tikTvd": "4384001346418",
-    "tikName": "Иркутская городская № 1"
+    "tikName": "Иркутская городская № 1",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 525,
     "uikTvd": "4384015203785",
+    "uikName": "УИК №525",
     "tikTvd": "4384001346418",
-    "tikName": "Иркутская городская № 1"
+    "tikName": "Иркутская городская № 1",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 526,
     "uikTvd": "4384015203786",
+    "uikName": "УИК №526",
     "tikTvd": "4384001346418",
-    "tikName": "Иркутская городская № 1"
+    "tikName": "Иркутская городская № 1",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 527,
     "uikTvd": "4384015203787",
+    "uikName": "УИК №527",
     "tikTvd": "4384001346418",
-    "tikName": "Иркутская городская № 1"
+    "tikName": "Иркутская городская № 1",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 528,
     "uikTvd": "4384015203788",
+    "uikName": "УИК №528",
     "tikTvd": "4384001346418",
-    "tikName": "Иркутская городская № 1"
+    "tikName": "Иркутская городская № 1",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 529,
     "uikTvd": "4384015203789",
+    "uikName": "УИК №529",
     "tikTvd": "4384001346418",
-    "tikName": "Иркутская городская № 1"
+    "tikName": "Иркутская городская № 1",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 530,
     "uikTvd": "4384015203790",
+    "uikName": "УИК №530",
     "tikTvd": "4384001346418",
-    "tikName": "Иркутская городская № 1"
+    "tikName": "Иркутская городская № 1",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 531,
     "uikTvd": "4384015203791",
+    "uikName": "УИК №531",
     "tikTvd": "4384001346418",
-    "tikName": "Иркутская городская № 1"
+    "tikName": "Иркутская городская № 1",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 532,
     "uikTvd": "4384015203792",
+    "uikName": "УИК №532",
     "tikTvd": "4384001346418",
-    "tikName": "Иркутская городская № 1"
+    "tikName": "Иркутская городская № 1",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 533,
     "uikTvd": "4384015203793",
+    "uikName": "УИК №533",
     "tikTvd": "4384001346418",
-    "tikName": "Иркутская городская № 1"
+    "tikName": "Иркутская городская № 1",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 534,
     "uikTvd": "4384015203794",
+    "uikName": "УИК №534",
     "tikTvd": "4384001346418",
-    "tikName": "Иркутская городская № 1"
+    "tikName": "Иркутская городская № 1",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 535,
     "uikTvd": "4384015203795",
+    "uikName": "УИК №535",
     "tikTvd": "4384001346418",
-    "tikName": "Иркутская городская № 1"
+    "tikName": "Иркутская городская № 1",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 536,
     "uikTvd": "4384015203796",
+    "uikName": "УИК №536",
     "tikTvd": "4384001346418",
-    "tikName": "Иркутская городская № 1"
+    "tikName": "Иркутская городская № 1",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 537,
     "uikTvd": "4384015203797",
+    "uikName": "УИК №537",
     "tikTvd": "4384001346418",
-    "tikName": "Иркутская городская № 1"
+    "tikName": "Иркутская городская № 1",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 538,
     "uikTvd": "4384015203798",
+    "uikName": "УИК №538",
     "tikTvd": "4384001346418",
-    "tikName": "Иркутская городская № 1"
+    "tikName": "Иркутская городская № 1",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 539,
     "uikTvd": "4384015203799",
+    "uikName": "УИК №539",
     "tikTvd": "4384001346418",
-    "tikName": "Иркутская городская № 1"
+    "tikName": "Иркутская городская № 1",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 540,
     "uikTvd": "4384015203800",
+    "uikName": "УИК №540",
     "tikTvd": "4384001346418",
-    "tikName": "Иркутская городская № 1"
+    "tikName": "Иркутская городская № 1",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 541,
     "uikTvd": "4384015203801",
+    "uikName": "УИК №541",
     "tikTvd": "4384001346418",
-    "tikName": "Иркутская городская № 1"
+    "tikName": "Иркутская городская № 1",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 542,
     "uikTvd": "4384015203802",
+    "uikName": "УИК №542",
     "tikTvd": "4384001346418",
-    "tikName": "Иркутская городская № 1"
+    "tikName": "Иркутская городская № 1",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 543,
     "uikTvd": "4384015203803",
+    "uikName": "УИК №543",
     "tikTvd": "4384001346418",
-    "tikName": "Иркутская городская № 1"
+    "tikName": "Иркутская городская № 1",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 544,
     "uikTvd": "4384015203804",
+    "uikName": "УИК №544",
     "tikTvd": "4384001346418",
-    "tikName": "Иркутская городская № 1"
+    "tikName": "Иркутская городская № 1",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 545,
     "uikTvd": "4384015203805",
+    "uikName": "УИК №545",
     "tikTvd": "4384001346418",
-    "tikName": "Иркутская городская № 1"
+    "tikName": "Иркутская городская № 1",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 546,
     "uikTvd": "4384015203806",
+    "uikName": "УИК №546",
     "tikTvd": "4384001346418",
-    "tikName": "Иркутская городская № 1"
+    "tikName": "Иркутская городская № 1",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 547,
     "uikTvd": "4384015203807",
+    "uikName": "УИК №547",
     "tikTvd": "4384001346418",
-    "tikName": "Иркутская городская № 1"
+    "tikName": "Иркутская городская № 1",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 548,
     "uikTvd": "4384015203808",
+    "uikName": "УИК №548",
     "tikTvd": "4384001346418",
-    "tikName": "Иркутская городская № 1"
+    "tikName": "Иркутская городская № 1",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 549,
     "uikTvd": "4384015203809",
+    "uikName": "УИК №549",
     "tikTvd": "4384001346418",
-    "tikName": "Иркутская городская № 1"
+    "tikName": "Иркутская городская № 1",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 550,
     "uikTvd": "4384015203810",
+    "uikName": "УИК №550",
     "tikTvd": "4384001346418",
-    "tikName": "Иркутская городская № 1"
+    "tikName": "Иркутская городская № 1",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 551,
     "uikTvd": "4384015203811",
+    "uikName": "УИК №551",
     "tikTvd": "4384001346418",
-    "tikName": "Иркутская городская № 1"
+    "tikName": "Иркутская городская № 1",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 552,
     "uikTvd": "4384015203812",
+    "uikName": "УИК №552",
     "tikTvd": "4384001346418",
-    "tikName": "Иркутская городская № 1"
+    "tikName": "Иркутская городская № 1",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 553,
     "uikTvd": "4384015203813",
+    "uikName": "УИК №553",
     "tikTvd": "4384001346418",
-    "tikName": "Иркутская городская № 1"
+    "tikName": "Иркутская городская № 1",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 554,
     "uikTvd": "4384015203814",
+    "uikName": "УИК №554",
     "tikTvd": "4384001346418",
-    "tikName": "Иркутская городская № 1"
+    "tikName": "Иркутская городская № 1",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 555,
     "uikTvd": "4384015203815",
+    "uikName": "УИК №555",
     "tikTvd": "4384001346418",
-    "tikName": "Иркутская городская № 1"
+    "tikName": "Иркутская городская № 1",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 556,
     "uikTvd": "4384015203816",
+    "uikName": "УИК №556",
     "tikTvd": "4384001346418",
-    "tikName": "Иркутская городская № 1"
+    "tikName": "Иркутская городская № 1",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 557,
     "uikTvd": "4384015203817",
+    "uikName": "УИК №557",
     "tikTvd": "4384001346418",
-    "tikName": "Иркутская городская № 1"
+    "tikName": "Иркутская городская № 1",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 558,
     "uikTvd": "4384015203818",
+    "uikName": "УИК №558",
     "tikTvd": "4384001346418",
-    "tikName": "Иркутская городская № 1"
+    "tikName": "Иркутская городская № 1",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 559,
     "uikTvd": "4384015203819",
+    "uikName": "УИК №559",
     "tikTvd": "4384001346418",
-    "tikName": "Иркутская городская № 1"
+    "tikName": "Иркутская городская № 1",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 560,
     "uikTvd": "4384015203820",
+    "uikName": "УИК №560",
     "tikTvd": "4384001346418",
-    "tikName": "Иркутская городская № 1"
+    "tikName": "Иркутская городская № 1",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 561,
     "uikTvd": "4384015203821",
+    "uikName": "УИК №561",
     "tikTvd": "4384001346418",
-    "tikName": "Иркутская городская № 1"
+    "tikName": "Иркутская городская № 1",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 562,
     "uikTvd": "4384015203822",
+    "uikName": "УИК №562",
     "tikTvd": "4384001346418",
-    "tikName": "Иркутская городская № 1"
+    "tikName": "Иркутская городская № 1",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 563,
     "uikTvd": "4384015203823",
+    "uikName": "УИК №563",
     "tikTvd": "4384001346418",
-    "tikName": "Иркутская городская № 1"
+    "tikName": "Иркутская городская № 1",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 564,
     "uikTvd": "4384015203824",
+    "uikName": "УИК №564",
     "tikTvd": "4384001346418",
-    "tikName": "Иркутская городская № 1"
+    "tikName": "Иркутская городская № 1",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 565,
     "uikTvd": "4384015203825",
+    "uikName": "УИК №565",
     "tikTvd": "4384001346418",
-    "tikName": "Иркутская городская № 1"
+    "tikName": "Иркутская городская № 1",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 566,
     "uikTvd": "4384015203826",
+    "uikName": "УИК №566",
     "tikTvd": "4384001346418",
-    "tikName": "Иркутская городская № 1"
+    "tikName": "Иркутская городская № 1",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 567,
     "uikTvd": "4384015203827",
+    "uikName": "УИК №567",
     "tikTvd": "4384001346418",
-    "tikName": "Иркутская городская № 1"
+    "tikName": "Иркутская городская № 1",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 568,
     "uikTvd": "4384015203828",
+    "uikName": "УИК №568",
     "tikTvd": "4384001346418",
-    "tikName": "Иркутская городская № 1"
+    "tikName": "Иркутская городская № 1",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 569,
     "uikTvd": "4384015203829",
+    "uikName": "УИК №569",
     "tikTvd": "4384001346418",
-    "tikName": "Иркутская городская № 1"
+    "tikName": "Иркутская городская № 1",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 570,
     "uikTvd": "4384015203830",
+    "uikName": "УИК №570",
     "tikTvd": "4384001346418",
-    "tikName": "Иркутская городская № 1"
+    "tikName": "Иркутская городская № 1",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 571,
     "uikTvd": "4384015203831",
+    "uikName": "УИК №571",
     "tikTvd": "4384001346418",
-    "tikName": "Иркутская городская № 1"
+    "tikName": "Иркутская городская № 1",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 572,
     "uikTvd": "4384015203832",
+    "uikName": "УИК №572",
     "tikTvd": "4384001346418",
-    "tikName": "Иркутская городская № 1"
+    "tikName": "Иркутская городская № 1",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 573,
     "uikTvd": "4384015203833",
+    "uikName": "УИК №573",
     "tikTvd": "4384001346418",
-    "tikName": "Иркутская городская № 1"
+    "tikName": "Иркутская городская № 1",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 574,
     "uikTvd": "4384015203834",
+    "uikName": "УИК №574",
     "tikTvd": "4384001346418",
-    "tikName": "Иркутская городская № 1"
+    "tikName": "Иркутская городская № 1",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 575,
     "uikTvd": "4384015203835",
+    "uikName": "УИК №575",
     "tikTvd": "4384001346418",
-    "tikName": "Иркутская городская № 1"
+    "tikName": "Иркутская городская № 1",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 576,
     "uikTvd": "4384015203836",
+    "uikName": "УИК №576",
     "tikTvd": "4384001346418",
-    "tikName": "Иркутская городская № 1"
+    "tikName": "Иркутская городская № 1",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 577,
     "uikTvd": "4384015203837",
+    "uikName": "УИК №577",
     "tikTvd": "4384001346418",
-    "tikName": "Иркутская городская № 1"
+    "tikName": "Иркутская городская № 1",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 578,
     "uikTvd": "4384015203838",
+    "uikName": "УИК №578",
     "tikTvd": "4384001346418",
-    "tikName": "Иркутская городская № 1"
+    "tikName": "Иркутская городская № 1",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 579,
     "uikTvd": "4384015203839",
+    "uikName": "УИК №579",
     "tikTvd": "4384001346418",
-    "tikName": "Иркутская городская № 1"
+    "tikName": "Иркутская городская № 1",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 580,
     "uikTvd": "4384015203840",
+    "uikName": "УИК №580",
     "tikTvd": "4384001346418",
-    "tikName": "Иркутская городская № 1"
+    "tikName": "Иркутская городская № 1",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 581,
     "uikTvd": "4384016195797",
+    "uikName": "УИК №581",
     "tikTvd": "23820001459312",
-    "tikName": "Иркутск, Иркутская городская N 2"
+    "tikName": "Иркутск, Иркутская городская N 2",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 582,
     "uikTvd": "4384016195798",
+    "uikName": "УИК №582",
     "tikTvd": "23820001459312",
-    "tikName": "Иркутск, Иркутская городская N 2"
+    "tikName": "Иркутск, Иркутская городская N 2",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 583,
     "uikTvd": "4384016195799",
+    "uikName": "УИК №583",
     "tikTvd": "23820001459312",
-    "tikName": "Иркутск, Иркутская городская N 2"
+    "tikName": "Иркутск, Иркутская городская N 2",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 584,
     "uikTvd": "4384016195800",
+    "uikName": "УИК №584",
     "tikTvd": "23820001459312",
-    "tikName": "Иркутск, Иркутская городская N 2"
+    "tikName": "Иркутск, Иркутская городская N 2",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 585,
     "uikTvd": "4384016195801",
+    "uikName": "УИК №585",
     "tikTvd": "23820001459312",
-    "tikName": "Иркутск, Иркутская городская N 2"
+    "tikName": "Иркутск, Иркутская городская N 2",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 586,
     "uikTvd": "4384016195802",
+    "uikName": "УИК №586",
     "tikTvd": "23820001459312",
-    "tikName": "Иркутск, Иркутская городская N 2"
+    "tikName": "Иркутск, Иркутская городская N 2",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 587,
     "uikTvd": "4384016195803",
+    "uikName": "УИК №587",
     "tikTvd": "23820001459312",
-    "tikName": "Иркутск, Иркутская городская N 2"
+    "tikName": "Иркутск, Иркутская городская N 2",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 588,
     "uikTvd": "4384016195804",
+    "uikName": "УИК №588",
     "tikTvd": "23820001459312",
-    "tikName": "Иркутск, Иркутская городская N 2"
+    "tikName": "Иркутск, Иркутская городская N 2",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 589,
     "uikTvd": "4384016195805",
+    "uikName": "УИК №589",
     "tikTvd": "23820001459312",
-    "tikName": "Иркутск, Иркутская городская N 2"
+    "tikName": "Иркутск, Иркутская городская N 2",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 590,
     "uikTvd": "4384016195806",
+    "uikName": "УИК №590",
     "tikTvd": "23820001459312",
-    "tikName": "Иркутск, Иркутская городская N 2"
+    "tikName": "Иркутск, Иркутская городская N 2",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 591,
     "uikTvd": "4384016195807",
+    "uikName": "УИК №591",
     "tikTvd": "23820001459312",
-    "tikName": "Иркутск, Иркутская городская N 2"
+    "tikName": "Иркутск, Иркутская городская N 2",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 592,
     "uikTvd": "4384016195808",
+    "uikName": "УИК №592",
     "tikTvd": "23820001459312",
-    "tikName": "Иркутск, Иркутская городская N 2"
+    "tikName": "Иркутск, Иркутская городская N 2",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 593,
     "uikTvd": "4384016195809",
+    "uikName": "УИК №593",
     "tikTvd": "23820001459312",
-    "tikName": "Иркутск, Иркутская городская N 2"
+    "tikName": "Иркутск, Иркутская городская N 2",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 594,
     "uikTvd": "4384016195810",
+    "uikName": "УИК №594",
     "tikTvd": "23820001459312",
-    "tikName": "Иркутск, Иркутская городская N 2"
+    "tikName": "Иркутск, Иркутская городская N 2",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 595,
     "uikTvd": "4384016195811",
+    "uikName": "УИК №595",
     "tikTvd": "23820001459312",
-    "tikName": "Иркутск, Иркутская городская N 2"
+    "tikName": "Иркутск, Иркутская городская N 2",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 596,
     "uikTvd": "4384016195812",
+    "uikName": "УИК №596",
     "tikTvd": "23820001459312",
-    "tikName": "Иркутск, Иркутская городская N 2"
+    "tikName": "Иркутск, Иркутская городская N 2",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 597,
     "uikTvd": "4384016195813",
+    "uikName": "УИК №597",
     "tikTvd": "23820001459312",
-    "tikName": "Иркутск, Иркутская городская N 2"
+    "tikName": "Иркутск, Иркутская городская N 2",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 598,
     "uikTvd": "4384016195814",
+    "uikName": "УИК №598",
     "tikTvd": "23820001459312",
-    "tikName": "Иркутск, Иркутская городская N 2"
+    "tikName": "Иркутск, Иркутская городская N 2",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 599,
     "uikTvd": "4384016195815",
+    "uikName": "УИК №599",
     "tikTvd": "23820001459312",
-    "tikName": "Иркутск, Иркутская городская N 2"
+    "tikName": "Иркутск, Иркутская городская N 2",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 600,
     "uikTvd": "4384016195816",
+    "uikName": "УИК №600",
     "tikTvd": "23820001459312",
-    "tikName": "Иркутск, Иркутская городская N 2"
+    "tikName": "Иркутск, Иркутская городская N 2",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 601,
     "uikTvd": "4384016195817",
+    "uikName": "УИК №601",
     "tikTvd": "23820001459312",
-    "tikName": "Иркутск, Иркутская городская N 2"
+    "tikName": "Иркутск, Иркутская городская N 2",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 602,
     "uikTvd": "4384016195818",
+    "uikName": "УИК №602",
     "tikTvd": "23820001459312",
-    "tikName": "Иркутск, Иркутская городская N 2"
+    "tikName": "Иркутск, Иркутская городская N 2",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 603,
     "uikTvd": "4384016195819",
+    "uikName": "УИК №603",
     "tikTvd": "23820001459312",
-    "tikName": "Иркутск, Иркутская городская N 2"
+    "tikName": "Иркутск, Иркутская городская N 2",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 604,
     "uikTvd": "4384016195820",
+    "uikName": "УИК №604",
     "tikTvd": "23820001459312",
-    "tikName": "Иркутск, Иркутская городская N 2"
+    "tikName": "Иркутск, Иркутская городская N 2",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 605,
     "uikTvd": "4384016195821",
+    "uikName": "УИК №605",
     "tikTvd": "23820001459312",
-    "tikName": "Иркутск, Иркутская городская N 2"
+    "tikName": "Иркутск, Иркутская городская N 2",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 606,
     "uikTvd": "4384016195822",
+    "uikName": "УИК №606",
     "tikTvd": "23820001459312",
-    "tikName": "Иркутск, Иркутская городская N 2"
+    "tikName": "Иркутск, Иркутская городская N 2",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 607,
     "uikTvd": "4384016195823",
+    "uikName": "УИК №607",
     "tikTvd": "23820001459312",
-    "tikName": "Иркутск, Иркутская городская N 2"
+    "tikName": "Иркутск, Иркутская городская N 2",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 608,
     "uikTvd": "4384016195824",
+    "uikName": "УИК №608",
     "tikTvd": "23820001459312",
-    "tikName": "Иркутск, Иркутская городская N 2"
+    "tikName": "Иркутск, Иркутская городская N 2",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 609,
     "uikTvd": "4384016195825",
+    "uikName": "УИК №609",
     "tikTvd": "23820001459312",
-    "tikName": "Иркутск, Иркутская городская N 2"
+    "tikName": "Иркутск, Иркутская городская N 2",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 610,
     "uikTvd": "4384016195826",
+    "uikName": "УИК №610",
     "tikTvd": "23820001459312",
-    "tikName": "Иркутск, Иркутская городская N 2"
+    "tikName": "Иркутск, Иркутская городская N 2",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 611,
     "uikTvd": "4384016195827",
+    "uikName": "УИК №611",
     "tikTvd": "23820001459312",
-    "tikName": "Иркутск, Иркутская городская N 2"
+    "tikName": "Иркутск, Иркутская городская N 2",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 612,
     "uikTvd": "4384016195828",
+    "uikName": "УИК №612",
     "tikTvd": "23820001459312",
-    "tikName": "Иркутск, Иркутская городская N 2"
+    "tikName": "Иркутск, Иркутская городская N 2",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 613,
     "uikTvd": "4384016195829",
+    "uikName": "УИК №613",
     "tikTvd": "23820001459312",
-    "tikName": "Иркутск, Иркутская городская N 2"
+    "tikName": "Иркутск, Иркутская городская N 2",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 614,
     "uikTvd": "4384016195830",
+    "uikName": "УИК №614",
     "tikTvd": "23820001459312",
-    "tikName": "Иркутск, Иркутская городская N 2"
+    "tikName": "Иркутск, Иркутская городская N 2",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 615,
     "uikTvd": "4384016195831",
+    "uikName": "УИК №615",
     "tikTvd": "23820001459312",
-    "tikName": "Иркутск, Иркутская городская N 2"
+    "tikName": "Иркутск, Иркутская городская N 2",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 616,
     "uikTvd": "4384016195832",
+    "uikName": "УИК №616",
     "tikTvd": "23820001459312",
-    "tikName": "Иркутск, Иркутская городская N 2"
+    "tikName": "Иркутск, Иркутская городская N 2",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 617,
     "uikTvd": "4384016195833",
+    "uikName": "УИК №617",
     "tikTvd": "23820001459312",
-    "tikName": "Иркутск, Иркутская городская N 2"
+    "tikName": "Иркутск, Иркутская городская N 2",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 618,
     "uikTvd": "4384016195834",
+    "uikName": "УИК №618",
     "tikTvd": "23820001459312",
-    "tikName": "Иркутск, Иркутская городская N 2"
+    "tikName": "Иркутск, Иркутская городская N 2",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 619,
     "uikTvd": "4384016195835",
+    "uikName": "УИК №619",
     "tikTvd": "23820001459312",
-    "tikName": "Иркутск, Иркутская городская N 2"
+    "tikName": "Иркутск, Иркутская городская N 2",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 620,
     "uikTvd": "4384016195836",
+    "uikName": "УИК №620",
     "tikTvd": "23820001459312",
-    "tikName": "Иркутск, Иркутская городская N 2"
+    "tikName": "Иркутск, Иркутская городская N 2",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 621,
     "uikTvd": "4384016195837",
+    "uikName": "УИК №621",
     "tikTvd": "23820001459312",
-    "tikName": "Иркутск, Иркутская городская N 2"
+    "tikName": "Иркутск, Иркутская городская N 2",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 622,
     "uikTvd": "4384016195838",
+    "uikName": "УИК №622",
     "tikTvd": "23820001459312",
-    "tikName": "Иркутск, Иркутская городская N 2"
+    "tikName": "Иркутск, Иркутская городская N 2",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 623,
     "uikTvd": "4384016195839",
+    "uikName": "УИК №623",
     "tikTvd": "23820001459312",
-    "tikName": "Иркутск, Иркутская городская N 2"
+    "tikName": "Иркутск, Иркутская городская N 2",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 624,
     "uikTvd": "4384016195840",
+    "uikName": "УИК №624",
     "tikTvd": "23820001459312",
-    "tikName": "Иркутск, Иркутская городская N 2"
+    "tikName": "Иркутск, Иркутская городская N 2",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 625,
     "uikTvd": "4384016195841",
+    "uikName": "УИК №625",
     "tikTvd": "23820001459312",
-    "tikName": "Иркутск, Иркутская городская N 2"
+    "tikName": "Иркутск, Иркутская городская N 2",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 626,
     "uikTvd": "4384016195842",
+    "uikName": "УИК №626",
     "tikTvd": "23820001459312",
-    "tikName": "Иркутск, Иркутская городская N 2"
+    "tikName": "Иркутск, Иркутская городская N 2",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 627,
     "uikTvd": "4384016195843",
+    "uikName": "УИК №627",
     "tikTvd": "23820001459312",
-    "tikName": "Иркутск, Иркутская городская N 2"
+    "tikName": "Иркутск, Иркутская городская N 2",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 628,
     "uikTvd": "4384016195844",
+    "uikName": "УИК №628",
     "tikTvd": "23820001459312",
-    "tikName": "Иркутск, Иркутская городская N 2"
+    "tikName": "Иркутск, Иркутская городская N 2",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 629,
     "uikTvd": "4384016195845",
+    "uikName": "УИК №629",
     "tikTvd": "23820001459312",
-    "tikName": "Иркутск, Иркутская городская N 2"
+    "tikName": "Иркутск, Иркутская городская N 2",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 630,
     "uikTvd": "4384016195846",
+    "uikName": "УИК №630",
     "tikTvd": "23820001459312",
-    "tikName": "Иркутск, Иркутская городская N 2"
+    "tikName": "Иркутск, Иркутская городская N 2",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 631,
     "uikTvd": "4384016195847",
+    "uikName": "УИК №631",
     "tikTvd": "23820001459312",
-    "tikName": "Иркутск, Иркутская городская N 2"
+    "tikName": "Иркутск, Иркутская городская N 2",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 632,
     "uikTvd": "4384016195848",
+    "uikName": "УИК №632",
     "tikTvd": "23820001459312",
-    "tikName": "Иркутск, Иркутская городская N 2"
+    "tikName": "Иркутск, Иркутская городская N 2",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 633,
     "uikTvd": "4384016195849",
+    "uikName": "УИК №633",
     "tikTvd": "23820001459312",
-    "tikName": "Иркутск, Иркутская городская N 2"
+    "tikName": "Иркутск, Иркутская городская N 2",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 634,
     "uikTvd": "4384016195850",
+    "uikName": "УИК №634",
     "tikTvd": "23820001459312",
-    "tikName": "Иркутск, Иркутская городская N 2"
+    "tikName": "Иркутск, Иркутская городская N 2",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 635,
     "uikTvd": "4384016195851",
+    "uikName": "УИК №635",
     "tikTvd": "23820001459312",
-    "tikName": "Иркутск, Иркутская городская N 2"
+    "tikName": "Иркутск, Иркутская городская N 2",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 636,
     "uikTvd": "4384016195852",
+    "uikName": "УИК №636",
     "tikTvd": "23820001459312",
-    "tikName": "Иркутск, Иркутская городская N 2"
+    "tikName": "Иркутск, Иркутская городская N 2",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 637,
     "uikTvd": "4384016195853",
+    "uikName": "УИК №637",
     "tikTvd": "23820001459312",
-    "tikName": "Иркутск, Иркутская городская N 2"
+    "tikName": "Иркутск, Иркутская городская N 2",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 638,
     "uikTvd": "4384016195854",
+    "uikName": "УИК №638",
     "tikTvd": "23820001459312",
-    "tikName": "Иркутск, Иркутская городская N 2"
+    "tikName": "Иркутск, Иркутская городская N 2",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 639,
     "uikTvd": "4384016195855",
+    "uikName": "УИК №639",
     "tikTvd": "23820001459312",
-    "tikName": "Иркутск, Иркутская городская N 2"
+    "tikName": "Иркутск, Иркутская городская N 2",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 640,
     "uikTvd": "4384016195856",
+    "uikName": "УИК №640",
     "tikTvd": "23820001459312",
-    "tikName": "Иркутск, Иркутская городская N 2"
+    "tikName": "Иркутск, Иркутская городская N 2",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 641,
     "uikTvd": "4384016195857",
+    "uikName": "УИК №641",
     "tikTvd": "23820001459312",
-    "tikName": "Иркутск, Иркутская городская N 2"
+    "tikName": "Иркутск, Иркутская городская N 2",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 642,
     "uikTvd": "4394014223499",
+    "uikName": "УИК №642",
     "tikTvd": "23820001459311",
-    "tikName": "Иркутск, Иркутская городская N 3 "
+    "tikName": "Иркутск, Иркутская городская N 3 ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 643,
     "uikTvd": "4394014223500",
+    "uikName": "УИК №643",
     "tikTvd": "23820001459311",
-    "tikName": "Иркутск, Иркутская городская N 3 "
+    "tikName": "Иркутск, Иркутская городская N 3 ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 644,
     "uikTvd": "4394014223501",
+    "uikName": "УИК №644",
     "tikTvd": "23820001459311",
-    "tikName": "Иркутск, Иркутская городская N 3 "
+    "tikName": "Иркутск, Иркутская городская N 3 ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 645,
     "uikTvd": "4394014223502",
+    "uikName": "УИК №645",
     "tikTvd": "23820001459311",
-    "tikName": "Иркутск, Иркутская городская N 3 "
+    "tikName": "Иркутск, Иркутская городская N 3 ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 646,
     "uikTvd": "4394014223503",
+    "uikName": "УИК №646",
     "tikTvd": "23820001459311",
-    "tikName": "Иркутск, Иркутская городская N 3 "
+    "tikName": "Иркутск, Иркутская городская N 3 ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 647,
     "uikTvd": "4394014223504",
+    "uikName": "УИК №647",
     "tikTvd": "23820001459311",
-    "tikName": "Иркутск, Иркутская городская N 3 "
+    "tikName": "Иркутск, Иркутская городская N 3 ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 648,
     "uikTvd": "4394014223505",
+    "uikName": "УИК №648",
     "tikTvd": "23820001459311",
-    "tikName": "Иркутск, Иркутская городская N 3 "
+    "tikName": "Иркутск, Иркутская городская N 3 ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 649,
     "uikTvd": "4394014223506",
+    "uikName": "УИК №649",
     "tikTvd": "23820001459311",
-    "tikName": "Иркутск, Иркутская городская N 3 "
+    "tikName": "Иркутск, Иркутская городская N 3 ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 650,
     "uikTvd": "4394014223507",
+    "uikName": "УИК №650",
     "tikTvd": "23820001459311",
-    "tikName": "Иркутск, Иркутская городская N 3 "
+    "tikName": "Иркутск, Иркутская городская N 3 ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 651,
     "uikTvd": "4394014223508",
+    "uikName": "УИК №651",
     "tikTvd": "23820001459311",
-    "tikName": "Иркутск, Иркутская городская N 3 "
+    "tikName": "Иркутск, Иркутская городская N 3 ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 652,
     "uikTvd": "4394014223509",
+    "uikName": "УИК №652",
     "tikTvd": "23820001459311",
-    "tikName": "Иркутск, Иркутская городская N 3 "
+    "tikName": "Иркутск, Иркутская городская N 3 ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 653,
     "uikTvd": "4394014223510",
+    "uikName": "УИК №653",
     "tikTvd": "23820001459311",
-    "tikName": "Иркутск, Иркутская городская N 3 "
+    "tikName": "Иркутск, Иркутская городская N 3 ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 654,
     "uikTvd": "4394014223511",
+    "uikName": "УИК №654",
     "tikTvd": "23820001459311",
-    "tikName": "Иркутск, Иркутская городская N 3 "
+    "tikName": "Иркутск, Иркутская городская N 3 ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 655,
     "uikTvd": "4394014223512",
+    "uikName": "УИК №655",
     "tikTvd": "23820001459311",
-    "tikName": "Иркутск, Иркутская городская N 3 "
+    "tikName": "Иркутск, Иркутская городская N 3 ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 656,
     "uikTvd": "4394014223513",
+    "uikName": "УИК №656",
     "tikTvd": "23820001459311",
-    "tikName": "Иркутск, Иркутская городская N 3 "
+    "tikName": "Иркутск, Иркутская городская N 3 ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 657,
     "uikTvd": "4394014223514",
+    "uikName": "УИК №657",
     "tikTvd": "23820001459311",
-    "tikName": "Иркутск, Иркутская городская N 3 "
+    "tikName": "Иркутск, Иркутская городская N 3 ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 658,
     "uikTvd": "4394014223515",
+    "uikName": "УИК №658",
     "tikTvd": "23820001459311",
-    "tikName": "Иркутск, Иркутская городская N 3 "
+    "tikName": "Иркутск, Иркутская городская N 3 ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 659,
     "uikTvd": "4394014223516",
+    "uikName": "УИК №659",
     "tikTvd": "23820001459311",
-    "tikName": "Иркутск, Иркутская городская N 3 "
+    "tikName": "Иркутск, Иркутская городская N 3 ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 660,
     "uikTvd": "4394014223517",
+    "uikName": "УИК №660",
     "tikTvd": "23820001459311",
-    "tikName": "Иркутск, Иркутская городская N 3 "
+    "tikName": "Иркутск, Иркутская городская N 3 ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 661,
     "uikTvd": "4394014223518",
+    "uikName": "УИК №661",
     "tikTvd": "23820001459311",
-    "tikName": "Иркутск, Иркутская городская N 3 "
+    "tikName": "Иркутск, Иркутская городская N 3 ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 662,
     "uikTvd": "4394014223519",
+    "uikName": "УИК №662",
     "tikTvd": "23820001459311",
-    "tikName": "Иркутск, Иркутская городская N 3 "
+    "tikName": "Иркутск, Иркутская городская N 3 ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 663,
     "uikTvd": "4394014223520",
+    "uikName": "УИК №663",
     "tikTvd": "23820001459311",
-    "tikName": "Иркутск, Иркутская городская N 3 "
+    "tikName": "Иркутск, Иркутская городская N 3 ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 664,
     "uikTvd": "4394014223521",
+    "uikName": "УИК №664",
     "tikTvd": "23820001459311",
-    "tikName": "Иркутск, Иркутская городская N 3 "
+    "tikName": "Иркутск, Иркутская городская N 3 ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 665,
     "uikTvd": "4394014223522",
+    "uikName": "УИК №665",
     "tikTvd": "23820001459311",
-    "tikName": "Иркутск, Иркутская городская N 3 "
+    "tikName": "Иркутск, Иркутская городская N 3 ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 667,
     "uikTvd": "4394014223523",
+    "uikName": "УИК №667",
     "tikTvd": "23820001459311",
-    "tikName": "Иркутск, Иркутская городская N 3 "
+    "tikName": "Иркутск, Иркутская городская N 3 ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 668,
     "uikTvd": "4394014223524",
+    "uikName": "УИК №668",
     "tikTvd": "23820001459311",
-    "tikName": "Иркутск, Иркутская городская N 3 "
+    "tikName": "Иркутск, Иркутская городская N 3 ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 669,
     "uikTvd": "4394014223525",
+    "uikName": "УИК №669",
     "tikTvd": "23820001459311",
-    "tikName": "Иркутск, Иркутская городская N 3 "
+    "tikName": "Иркутск, Иркутская городская N 3 ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 670,
     "uikTvd": "4394014223526",
+    "uikName": "УИК №670",
     "tikTvd": "23820001459311",
-    "tikName": "Иркутск, Иркутская городская N 3 "
+    "tikName": "Иркутск, Иркутская городская N 3 ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 671,
     "uikTvd": "4394014223527",
+    "uikName": "УИК №671",
     "tikTvd": "23820001459311",
-    "tikName": "Иркутск, Иркутская городская N 3 "
+    "tikName": "Иркутск, Иркутская городская N 3 ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 672,
     "uikTvd": "4394014223528",
+    "uikName": "УИК №672",
     "tikTvd": "23820001459311",
-    "tikName": "Иркутск, Иркутская городская N 3 "
+    "tikName": "Иркутск, Иркутская городская N 3 ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 673,
     "uikTvd": "4394014223529",
+    "uikName": "УИК №673",
     "tikTvd": "23820001459311",
-    "tikName": "Иркутск, Иркутская городская N 3 "
+    "tikName": "Иркутск, Иркутская городская N 3 ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 674,
     "uikTvd": "4394014223530",
+    "uikName": "УИК №674",
     "tikTvd": "23820001459311",
-    "tikName": "Иркутск, Иркутская городская N 3 "
+    "tikName": "Иркутск, Иркутская городская N 3 ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 675,
     "uikTvd": "4394014223531",
+    "uikName": "УИК №675",
     "tikTvd": "23820001459311",
-    "tikName": "Иркутск, Иркутская городская N 3 "
+    "tikName": "Иркутск, Иркутская городская N 3 ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 676,
     "uikTvd": "4394014223532",
+    "uikName": "УИК №676",
     "tikTvd": "23820001459311",
-    "tikName": "Иркутск, Иркутская городская N 3 "
+    "tikName": "Иркутск, Иркутская городская N 3 ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 677,
     "uikTvd": "4394014223533",
+    "uikName": "УИК №677",
     "tikTvd": "23820001459311",
-    "tikName": "Иркутск, Иркутская городская N 3 "
+    "tikName": "Иркутск, Иркутская городская N 3 ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 678,
     "uikTvd": "4394014223534",
+    "uikName": "УИК №678",
     "tikTvd": "23820001459311",
-    "tikName": "Иркутск, Иркутская городская N 3 "
+    "tikName": "Иркутск, Иркутская городская N 3 ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 679,
     "uikTvd": "4394014223535",
+    "uikName": "УИК №679",
     "tikTvd": "23820001459311",
-    "tikName": "Иркутск, Иркутская городская N 3 "
+    "tikName": "Иркутск, Иркутская городская N 3 ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 680,
     "uikTvd": "4394014223536",
+    "uikName": "УИК №680",
     "tikTvd": "23820001459311",
-    "tikName": "Иркутск, Иркутская городская N 3 "
+    "tikName": "Иркутск, Иркутская городская N 3 ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 681,
     "uikTvd": "4394014223537",
+    "uikName": "УИК №681",
     "tikTvd": "23820001459311",
-    "tikName": "Иркутск, Иркутская городская N 3 "
+    "tikName": "Иркутск, Иркутская городская N 3 ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 682,
     "uikTvd": "4394014223538",
+    "uikName": "УИК №682",
     "tikTvd": "23820001459311",
-    "tikName": "Иркутск, Иркутская городская N 3 "
+    "tikName": "Иркутск, Иркутская городская N 3 ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 683,
     "uikTvd": "4394014223539",
+    "uikName": "УИК №683",
     "tikTvd": "23820001459311",
-    "tikName": "Иркутск, Иркутская городская N 3 "
+    "tikName": "Иркутск, Иркутская городская N 3 ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 684,
     "uikTvd": "4394014223540",
+    "uikName": "УИК №684",
     "tikTvd": "23820001459311",
-    "tikName": "Иркутск, Иркутская городская N 3 "
+    "tikName": "Иркутск, Иркутская городская N 3 ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 685,
     "uikTvd": "4394014223541",
+    "uikName": "УИК №685",
     "tikTvd": "23820001459311",
-    "tikName": "Иркутск, Иркутская городская N 3 "
+    "tikName": "Иркутск, Иркутская городская N 3 ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 686,
     "uikTvd": "4394014223542",
+    "uikName": "УИК №686",
     "tikTvd": "23820001459311",
-    "tikName": "Иркутск, Иркутская городская N 3 "
+    "tikName": "Иркутск, Иркутская городская N 3 ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 687,
     "uikTvd": "4394014223543",
+    "uikName": "УИК №687",
     "tikTvd": "23820001459311",
-    "tikName": "Иркутск, Иркутская городская N 3 "
+    "tikName": "Иркутск, Иркутская городская N 3 ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 688,
     "uikTvd": "4384017263138",
+    "uikName": "УИК №688",
     "tikTvd": "23820001459327",
-    "tikName": "Иркутская городская N 4"
+    "tikName": "Иркутская городская N 4",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 689,
     "uikTvd": "4384017263140",
+    "uikName": "УИК №689",
     "tikTvd": "23820001459327",
-    "tikName": "Иркутская городская N 4"
+    "tikName": "Иркутская городская N 4",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 690,
     "uikTvd": "4384017263142",
+    "uikName": "УИК №690",
     "tikTvd": "23820001459327",
-    "tikName": "Иркутская городская N 4"
+    "tikName": "Иркутская городская N 4",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 691,
     "uikTvd": "4384017263144",
+    "uikName": "УИК №691",
     "tikTvd": "23820001459327",
-    "tikName": "Иркутская городская N 4"
+    "tikName": "Иркутская городская N 4",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 692,
     "uikTvd": "4384017263200",
+    "uikName": "УИК №692",
     "tikTvd": "23820001459327",
-    "tikName": "Иркутская городская N 4"
+    "tikName": "Иркутская городская N 4",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 693,
     "uikTvd": "4384017263202",
+    "uikName": "УИК №693",
     "tikTvd": "23820001459327",
-    "tikName": "Иркутская городская N 4"
+    "tikName": "Иркутская городская N 4",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 694,
     "uikTvd": "4384017263204",
+    "uikName": "УИК №694",
     "tikTvd": "23820001459327",
-    "tikName": "Иркутская городская N 4"
+    "tikName": "Иркутская городская N 4",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 695,
     "uikTvd": "4384017263206",
+    "uikName": "УИК №695",
     "tikTvd": "23820001459327",
-    "tikName": "Иркутская городская N 4"
+    "tikName": "Иркутская городская N 4",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 696,
     "uikTvd": "4384017263208",
+    "uikName": "УИК №696",
     "tikTvd": "23820001459327",
-    "tikName": "Иркутская городская N 4"
+    "tikName": "Иркутская городская N 4",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 697,
     "uikTvd": "4384017263210",
+    "uikName": "УИК №697",
     "tikTvd": "23820001459327",
-    "tikName": "Иркутская городская N 4"
+    "tikName": "Иркутская городская N 4",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 698,
     "uikTvd": "4384017263212",
+    "uikName": "УИК №698",
     "tikTvd": "23820001459327",
-    "tikName": "Иркутская городская N 4"
+    "tikName": "Иркутская городская N 4",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 699,
     "uikTvd": "4384017263214",
+    "uikName": "УИК №699",
     "tikTvd": "23820001459327",
-    "tikName": "Иркутская городская N 4"
+    "tikName": "Иркутская городская N 4",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 700,
     "uikTvd": "4384017263216",
+    "uikName": "УИК №700",
     "tikTvd": "23820001459327",
-    "tikName": "Иркутская городская N 4"
+    "tikName": "Иркутская городская N 4",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 701,
     "uikTvd": "4384017263218",
+    "uikName": "УИК №701",
     "tikTvd": "23820001459327",
-    "tikName": "Иркутская городская N 4"
+    "tikName": "Иркутская городская N 4",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 702,
     "uikTvd": "4384017263220",
+    "uikName": "УИК №702",
     "tikTvd": "23820001459327",
-    "tikName": "Иркутская городская N 4"
+    "tikName": "Иркутская городская N 4",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 703,
     "uikTvd": "4384017263222",
+    "uikName": "УИК №703",
     "tikTvd": "23820001459327",
-    "tikName": "Иркутская городская N 4"
+    "tikName": "Иркутская городская N 4",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 704,
     "uikTvd": "4384017263224",
+    "uikName": "УИК №704",
     "tikTvd": "23820001459327",
-    "tikName": "Иркутская городская N 4"
+    "tikName": "Иркутская городская N 4",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 705,
     "uikTvd": "4384017263226",
+    "uikName": "УИК №705",
     "tikTvd": "23820001459327",
-    "tikName": "Иркутская городская N 4"
+    "tikName": "Иркутская городская N 4",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 706,
     "uikTvd": "4384017263228",
+    "uikName": "УИК №706",
     "tikTvd": "23820001459327",
-    "tikName": "Иркутская городская N 4"
+    "tikName": "Иркутская городская N 4",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 707,
     "uikTvd": "4384017263230",
+    "uikName": "УИК №707",
     "tikTvd": "23820001459327",
-    "tikName": "Иркутская городская N 4"
+    "tikName": "Иркутская городская N 4",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 708,
     "uikTvd": "4384017263232",
+    "uikName": "УИК №708",
     "tikTvd": "23820001459327",
-    "tikName": "Иркутская городская N 4"
+    "tikName": "Иркутская городская N 4",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 709,
     "uikTvd": "4384017263234",
+    "uikName": "УИК №709",
     "tikTvd": "23820001459327",
-    "tikName": "Иркутская городская N 4"
+    "tikName": "Иркутская городская N 4",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 710,
     "uikTvd": "4384017263236",
+    "uikName": "УИК №710",
     "tikTvd": "23820001459327",
-    "tikName": "Иркутская городская N 4"
+    "tikName": "Иркутская городская N 4",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 711,
     "uikTvd": "4384017263238",
+    "uikName": "УИК №711",
     "tikTvd": "23820001459327",
-    "tikName": "Иркутская городская N 4"
+    "tikName": "Иркутская городская N 4",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 712,
     "uikTvd": "4384017263240",
+    "uikName": "УИК №712",
     "tikTvd": "23820001459327",
-    "tikName": "Иркутская городская N 4"
+    "tikName": "Иркутская городская N 4",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 713,
     "uikTvd": "4384017263242",
+    "uikName": "УИК №713",
     "tikTvd": "23820001459327",
-    "tikName": "Иркутская городская N 4"
+    "tikName": "Иркутская городская N 4",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 714,
     "uikTvd": "4384017263244",
+    "uikName": "УИК №714",
     "tikTvd": "23820001459327",
-    "tikName": "Иркутская городская N 4"
+    "tikName": "Иркутская городская N 4",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 715,
     "uikTvd": "4384017263246",
+    "uikName": "УИК №715",
     "tikTvd": "23820001459327",
-    "tikName": "Иркутская городская N 4"
+    "tikName": "Иркутская городская N 4",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 716,
     "uikTvd": "4384017263248",
+    "uikName": "УИК №716",
     "tikTvd": "23820001459327",
-    "tikName": "Иркутская городская N 4"
+    "tikName": "Иркутская городская N 4",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 717,
     "uikTvd": "4384017263250",
+    "uikName": "УИК №717",
     "tikTvd": "23820001459327",
-    "tikName": "Иркутская городская N 4"
+    "tikName": "Иркутская городская N 4",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 718,
     "uikTvd": "4384017263252",
+    "uikName": "УИК №718",
     "tikTvd": "23820001459327",
-    "tikName": "Иркутская городская N 4"
+    "tikName": "Иркутская городская N 4",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 719,
     "uikTvd": "4384017263254",
+    "uikName": "УИК №719",
     "tikTvd": "23820001459327",
-    "tikName": "Иркутская городская N 4"
+    "tikName": "Иркутская городская N 4",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 720,
     "uikTvd": "4384017263256",
+    "uikName": "УИК №720",
     "tikTvd": "23820001459327",
-    "tikName": "Иркутская городская N 4"
+    "tikName": "Иркутская городская N 4",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 721,
     "uikTvd": "4384017263258",
+    "uikName": "УИК №721",
     "tikTvd": "23820001459327",
-    "tikName": "Иркутская городская N 4"
+    "tikName": "Иркутская городская N 4",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 722,
     "uikTvd": "4384017263260",
+    "uikName": "УИК №722",
     "tikTvd": "23820001459327",
-    "tikName": "Иркутская городская N 4"
+    "tikName": "Иркутская городская N 4",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 723,
     "uikTvd": "4384017263262",
+    "uikName": "УИК №723",
     "tikTvd": "23820001459327",
-    "tikName": "Иркутская городская N 4"
+    "tikName": "Иркутская городская N 4",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 724,
     "uikTvd": "4384017263264",
+    "uikName": "УИК №724",
     "tikTvd": "23820001459327",
-    "tikName": "Иркутская городская N 4"
+    "tikName": "Иркутская городская N 4",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 725,
     "uikTvd": "4384017263266",
+    "uikName": "УИК №725",
     "tikTvd": "23820001459327",
-    "tikName": "Иркутская городская N 4"
+    "tikName": "Иркутская городская N 4",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 726,
     "uikTvd": "4384017263268",
+    "uikName": "УИК №726",
     "tikTvd": "23820001459327",
-    "tikName": "Иркутская городская N 4"
+    "tikName": "Иркутская городская N 4",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 727,
     "uikTvd": "4384017263270",
+    "uikName": "УИК №727",
     "tikTvd": "23820001459327",
-    "tikName": "Иркутская городская N 4"
+    "tikName": "Иркутская городская N 4",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 728,
     "uikTvd": "4384017263272",
+    "uikName": "УИК №728",
     "tikTvd": "23820001459327",
-    "tikName": "Иркутская городская N 4"
+    "tikName": "Иркутская городская N 4",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 729,
     "uikTvd": "4384017263274",
+    "uikName": "УИК №729",
     "tikTvd": "23820001459327",
-    "tikName": "Иркутская городская N 4"
+    "tikName": "Иркутская городская N 4",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 730,
     "uikTvd": "4384017263276",
+    "uikName": "УИК №730",
     "tikTvd": "23820001459327",
-    "tikName": "Иркутская городская N 4"
+    "tikName": "Иркутская городская N 4",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 731,
     "uikTvd": "4384017263278",
+    "uikName": "УИК №731",
     "tikTvd": "23820001459327",
-    "tikName": "Иркутская городская N 4"
+    "tikName": "Иркутская городская N 4",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 732,
     "uikTvd": "4384017263280",
+    "uikName": "УИК №732",
     "tikTvd": "23820001459327",
-    "tikName": "Иркутская городская N 4"
+    "tikName": "Иркутская городская N 4",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 733,
     "uikTvd": "4384017263282",
+    "uikName": "УИК №733",
     "tikTvd": "23820001459327",
-    "tikName": "Иркутская городская N 4"
+    "tikName": "Иркутская городская N 4",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 734,
     "uikTvd": "4384017263284",
+    "uikName": "УИК №734",
     "tikTvd": "23820001459327",
-    "tikName": "Иркутская городская N 4"
+    "tikName": "Иркутская городская N 4",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 735,
     "uikTvd": "4384017263286",
+    "uikName": "УИК №735",
     "tikTvd": "23820001459327",
-    "tikName": "Иркутская городская N 4"
+    "tikName": "Иркутская городская N 4",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 736,
     "uikTvd": "4384017263288",
+    "uikName": "УИК №736",
     "tikTvd": "23820001459327",
-    "tikName": "Иркутская городская N 4"
+    "tikName": "Иркутская городская N 4",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 737,
     "uikTvd": "4384017263290",
+    "uikName": "УИК №737",
     "tikTvd": "23820001459327",
-    "tikName": "Иркутская городская N 4"
+    "tikName": "Иркутская городская N 4",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 738,
     "uikTvd": "4384017263292",
+    "uikName": "УИК №738",
     "tikTvd": "23820001459327",
-    "tikName": "Иркутская городская N 4"
+    "tikName": "Иркутская городская N 4",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 739,
     "uikTvd": "4384017263294",
+    "uikName": "УИК №739",
     "tikTvd": "23820001459327",
-    "tikName": "Иркутская городская N 4"
+    "tikName": "Иркутская городская N 4",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 740,
     "uikTvd": "4384017263296",
+    "uikName": "УИК №740",
     "tikTvd": "23820001459327",
-    "tikName": "Иркутская городская N 4"
+    "tikName": "Иркутская городская N 4",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 741,
     "uikTvd": "4384017263298",
+    "uikName": "УИК №741",
     "tikTvd": "23820001459327",
-    "tikName": "Иркутская городская N 4"
+    "tikName": "Иркутская городская N 4",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 742,
     "uikTvd": "4384017263300",
+    "uikName": "УИК №742",
     "tikTvd": "23820001459327",
-    "tikName": "Иркутская городская N 4"
+    "tikName": "Иркутская городская N 4",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 743,
     "uikTvd": "4384017263302",
+    "uikName": "УИК №743",
     "tikTvd": "23820001459327",
-    "tikName": "Иркутская городская N 4"
+    "tikName": "Иркутская городская N 4",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 744,
     "uikTvd": "4384017263304",
+    "uikName": "УИК №744",
     "tikTvd": "23820001459327",
-    "tikName": "Иркутская городская N 4"
+    "tikName": "Иркутская городская N 4",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 745,
     "uikTvd": "4384017263306",
+    "uikName": "УИК №745",
     "tikTvd": "23820001459327",
-    "tikName": "Иркутская городская N 4"
+    "tikName": "Иркутская городская N 4",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 746,
     "uikTvd": "4384017263308",
+    "uikName": "УИК №746",
     "tikTvd": "23820001459327",
-    "tikName": "Иркутская городская N 4"
+    "tikName": "Иркутская городская N 4",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 747,
     "uikTvd": "4384017263310",
+    "uikName": "УИК №747",
     "tikTvd": "23820001459327",
-    "tikName": "Иркутская городская N 4"
+    "tikName": "Иркутская городская N 4",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 748,
     "uikTvd": "4384017263312",
+    "uikName": "УИК №748",
     "tikTvd": "23820001459327",
-    "tikName": "Иркутская городская N 4"
+    "tikName": "Иркутская городская N 4",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 749,
     "uikTvd": "4384017263314",
+    "uikName": "УИК №749",
     "tikTvd": "23820001459327",
-    "tikName": "Иркутская городская N 4"
+    "tikName": "Иркутская городская N 4",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 750,
     "uikTvd": "4384017263316",
+    "uikName": "УИК №750",
     "tikTvd": "23820001459327",
-    "tikName": "Иркутская городская N 4"
+    "tikName": "Иркутская городская N 4",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 751,
     "uikTvd": "4384017263318",
+    "uikName": "УИК №751",
     "tikTvd": "23820001459327",
-    "tikName": "Иркутская городская N 4"
+    "tikName": "Иркутская городская N 4",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 752,
     "uikTvd": "4384017263320",
+    "uikName": "УИК №752",
     "tikTvd": "23820001459327",
-    "tikName": "Иркутская городская N 4"
+    "tikName": "Иркутская городская N 4",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 753,
     "uikTvd": "4384017263322",
+    "uikName": "УИК №753",
     "tikTvd": "23820001459327",
-    "tikName": "Иркутская городская N 4"
+    "tikName": "Иркутская городская N 4",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 754,
     "uikTvd": "4384017263324",
+    "uikName": "УИК №754",
     "tikTvd": "23820001459327",
-    "tikName": "Иркутская городская N 4"
+    "tikName": "Иркутская городская N 4",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 755,
     "uikTvd": "4384017263326",
+    "uikName": "УИК №755",
     "tikTvd": "23820001459327",
-    "tikName": "Иркутская городская N 4"
+    "tikName": "Иркутская городская N 4",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 756,
     "uikTvd": "4384017263328",
+    "uikName": "УИК №756",
     "tikTvd": "23820001459327",
-    "tikName": "Иркутская городская N 4"
+    "tikName": "Иркутская городская N 4",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 757,
     "uikTvd": "4384017263330",
+    "uikName": "УИК №757",
     "tikTvd": "23820001459327",
-    "tikName": "Иркутская городская N 4"
+    "tikName": "Иркутская городская N 4",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 758,
     "uikTvd": "4384017263332",
+    "uikName": "УИК №758",
     "tikTvd": "23820001459327",
-    "tikName": "Иркутская городская N 4"
+    "tikName": "Иркутская городская N 4",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 759,
     "uikTvd": "4384017263334",
+    "uikName": "УИК №759",
     "tikTvd": "23820001459327",
-    "tikName": "Иркутская городская N 4"
+    "tikName": "Иркутская городская N 4",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 760,
     "uikTvd": "4384017263336",
+    "uikName": "УИК №760",
     "tikTvd": "23820001459327",
-    "tikName": "Иркутская городская N 4"
+    "tikName": "Иркутская городская N 4",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 761,
     "uikTvd": "4384017263338",
+    "uikName": "УИК №761",
     "tikTvd": "23820001459327",
-    "tikName": "Иркутская городская N 4"
+    "tikName": "Иркутская городская N 4",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 762,
     "uikTvd": "4384018301788",
+    "uikName": "УИК №762",
     "tikTvd": "23820001459310",
-    "tikName": "Иркутская -93"
+    "tikName": "Иркутская -93",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 763,
     "uikTvd": "4384018301789",
+    "uikName": "УИК №763",
     "tikTvd": "23820001459310",
-    "tikName": "Иркутская -93"
+    "tikName": "Иркутская -93",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 764,
     "uikTvd": "4384018301790",
+    "uikName": "УИК №764",
     "tikTvd": "23820001459310",
-    "tikName": "Иркутская -93"
+    "tikName": "Иркутская -93",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 765,
     "uikTvd": "4384018301622",
+    "uikName": "УИК №765",
     "tikTvd": "4384001346414",
-    "tikName": "Иркутская - 94"
+    "tikName": "Иркутская - 94",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 766,
     "uikTvd": "4384018301623",
+    "uikName": "УИК №766",
     "tikTvd": "4384001346414",
-    "tikName": "Иркутская - 94"
+    "tikName": "Иркутская - 94",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 767,
     "uikTvd": "4384018301624",
+    "uikName": "УИК №767",
     "tikTvd": "4384001346414",
-    "tikName": "Иркутская - 94"
+    "tikName": "Иркутская - 94",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 768,
     "uikTvd": "4384018301625",
+    "uikName": "УИК №768",
     "tikTvd": "4384001346414",
-    "tikName": "Иркутская - 94"
+    "tikName": "Иркутская - 94",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 769,
     "uikTvd": "4384018301626",
+    "uikName": "УИК №769",
     "tikTvd": "4384001346414",
-    "tikName": "Иркутская - 94"
+    "tikName": "Иркутская - 94",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 770,
     "uikTvd": "4384018301627",
+    "uikName": "УИК №770",
     "tikTvd": "4384001346414",
-    "tikName": "Иркутская - 94"
+    "tikName": "Иркутская - 94",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 771,
     "uikTvd": "4384018301791",
+    "uikName": "УИК №771",
     "tikTvd": "23820001459310",
-    "tikName": "Иркутская -93"
+    "tikName": "Иркутская -93",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 772,
     "uikTvd": "4384018301628",
+    "uikName": "УИК №772",
     "tikTvd": "4384001346414",
-    "tikName": "Иркутская - 94"
+    "tikName": "Иркутская - 94",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 773,
     "uikTvd": "4384018301792",
+    "uikName": "УИК №773",
     "tikTvd": "23820001459310",
-    "tikName": "Иркутская -93"
+    "tikName": "Иркутская -93",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 774,
     "uikTvd": "4384018301793",
+    "uikName": "УИК №774",
     "tikTvd": "23820001459310",
-    "tikName": "Иркутская -93"
+    "tikName": "Иркутская -93",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 775,
     "uikTvd": "4384018301794",
+    "uikName": "УИК №775",
     "tikTvd": "23820001459310",
-    "tikName": "Иркутская -93"
+    "tikName": "Иркутская -93",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 776,
     "uikTvd": "4384018301629",
+    "uikName": "УИК №776",
     "tikTvd": "4384001346414",
-    "tikName": "Иркутская - 94"
+    "tikName": "Иркутская - 94",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 777,
     "uikTvd": "4384018301630",
+    "uikName": "УИК №777",
     "tikTvd": "4384001346414",
-    "tikName": "Иркутская - 94"
+    "tikName": "Иркутская - 94",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 778,
     "uikTvd": "4384018301631",
+    "uikName": "УИК №778",
     "tikTvd": "4384001346414",
-    "tikName": "Иркутская - 94"
+    "tikName": "Иркутская - 94",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 779,
     "uikTvd": "4384018301795",
+    "uikName": "УИК №779",
     "tikTvd": "23820001459310",
-    "tikName": "Иркутская -93"
+    "tikName": "Иркутская -93",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 780,
     "uikTvd": "4384018301796",
+    "uikName": "УИК №780",
     "tikTvd": "23820001459310",
-    "tikName": "Иркутская -93"
+    "tikName": "Иркутская -93",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 781,
     "uikTvd": "4384018301797",
+    "uikName": "УИК №781",
     "tikTvd": "23820001459310",
-    "tikName": "Иркутская -93"
+    "tikName": "Иркутская -93",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 782,
     "uikTvd": "4384018301798",
+    "uikName": "УИК №782",
     "tikTvd": "23820001459310",
-    "tikName": "Иркутская -93"
+    "tikName": "Иркутская -93",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 783,
     "uikTvd": "4384018301799",
+    "uikName": "УИК №783",
     "tikTvd": "23820001459310",
-    "tikName": "Иркутская -93"
+    "tikName": "Иркутская -93",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 784,
     "uikTvd": "4384018301800",
+    "uikName": "УИК №784",
     "tikTvd": "23820001459310",
-    "tikName": "Иркутская -93"
+    "tikName": "Иркутская -93",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 785,
     "uikTvd": "4384018301801",
+    "uikName": "УИК №785",
     "tikTvd": "23820001459310",
-    "tikName": "Иркутская -93"
+    "tikName": "Иркутская -93",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 786,
     "uikTvd": "4384018301802",
+    "uikName": "УИК №786",
     "tikTvd": "23820001459310",
-    "tikName": "Иркутская -93"
+    "tikName": "Иркутская -93",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 787,
     "uikTvd": "4384018301803",
+    "uikName": "УИК №787",
     "tikTvd": "23820001459310",
-    "tikName": "Иркутская -93"
+    "tikName": "Иркутская -93",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 788,
     "uikTvd": "4384018301632",
+    "uikName": "УИК №788",
     "tikTvd": "4384001346414",
-    "tikName": "Иркутская - 94"
+    "tikName": "Иркутская - 94",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 789,
     "uikTvd": "4384018301633",
+    "uikName": "УИК №789",
     "tikTvd": "4384001346414",
-    "tikName": "Иркутская - 94"
+    "tikName": "Иркутская - 94",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 790,
     "uikTvd": "4384018301634",
+    "uikName": "УИК №790",
     "tikTvd": "4384001346414",
-    "tikName": "Иркутская - 94"
+    "tikName": "Иркутская - 94",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 791,
     "uikTvd": "4384018301635",
+    "uikName": "УИК №791",
     "tikTvd": "4384001346414",
-    "tikName": "Иркутская - 94"
+    "tikName": "Иркутская - 94",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 792,
     "uikTvd": "4384018301636",
+    "uikName": "УИК №792",
     "tikTvd": "4384001346414",
-    "tikName": "Иркутская - 94"
+    "tikName": "Иркутская - 94",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 793,
     "uikTvd": "4384018301637",
+    "uikName": "УИК №793",
     "tikTvd": "4384001346414",
-    "tikName": "Иркутская - 94"
+    "tikName": "Иркутская - 94",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 794,
     "uikTvd": "4384018301638",
+    "uikName": "УИК №794",
     "tikTvd": "4384001346414",
-    "tikName": "Иркутская - 94"
+    "tikName": "Иркутская - 94",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 795,
     "uikTvd": "4384018301639",
+    "uikName": "УИК №795",
     "tikTvd": "4384001346414",
-    "tikName": "Иркутская - 94"
+    "tikName": "Иркутская - 94",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 796,
     "uikTvd": "4384018301640",
+    "uikName": "УИК №796",
     "tikTvd": "4384001346414",
-    "tikName": "Иркутская - 94"
+    "tikName": "Иркутская - 94",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 797,
     "uikTvd": "4384018301641",
+    "uikName": "УИК №797",
     "tikTvd": "4384001346414",
-    "tikName": "Иркутская - 94"
+    "tikName": "Иркутская - 94",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 798,
     "uikTvd": "4384018301642",
+    "uikName": "УИК №798",
     "tikTvd": "4384001346414",
-    "tikName": "Иркутская - 94"
+    "tikName": "Иркутская - 94",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 799,
     "uikTvd": "4384018301643",
+    "uikName": "УИК №799",
     "tikTvd": "4384001346414",
-    "tikName": "Иркутская - 94"
+    "tikName": "Иркутская - 94",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 800,
     "uikTvd": "4384018301644",
+    "uikName": "УИК №800",
     "tikTvd": "4384001346414",
-    "tikName": "Иркутская - 94"
+    "tikName": "Иркутская - 94",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 801,
     "uikTvd": "4384018301645",
+    "uikName": "УИК №801",
     "tikTvd": "4384001346414",
-    "tikName": "Иркутская - 94"
+    "tikName": "Иркутская - 94",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 802,
     "uikTvd": "4384018301646",
+    "uikName": "УИК №802",
     "tikTvd": "4384001346414",
-    "tikName": "Иркутская - 94"
+    "tikName": "Иркутская - 94",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 803,
     "uikTvd": "4384018301647",
+    "uikName": "УИК №803",
     "tikTvd": "4384001346414",
-    "tikName": "Иркутская - 94"
+    "tikName": "Иркутская - 94",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 804,
     "uikTvd": "4384018302122",
+    "uikName": "УИК №804",
     "tikTvd": "23820001459318",
-    "tikName": "Иркутская - 95"
+    "tikName": "Иркутская - 95",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 805,
     "uikTvd": "4384018301648",
+    "uikName": "УИК №805",
     "tikTvd": "4384001346414",
-    "tikName": "Иркутская - 94"
+    "tikName": "Иркутская - 94",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 806,
     "uikTvd": "4384018301649",
+    "uikName": "УИК №806",
     "tikTvd": "4384001346414",
-    "tikName": "Иркутская - 94"
+    "tikName": "Иркутская - 94",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 807,
     "uikTvd": "4384018301650",
+    "uikName": "УИК №807",
     "tikTvd": "4384001346414",
-    "tikName": "Иркутская - 94"
+    "tikName": "Иркутская - 94",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 808,
     "uikTvd": "4384018301651",
+    "uikName": "УИК №808",
     "tikTvd": "4384001346414",
-    "tikName": "Иркутская - 94"
+    "tikName": "Иркутская - 94",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 809,
     "uikTvd": "4384018301652",
+    "uikName": "УИК №809",
     "tikTvd": "4384001346414",
-    "tikName": "Иркутская - 94"
+    "tikName": "Иркутская - 94",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 810,
     "uikTvd": "4384018301653",
+    "uikName": "УИК №810",
     "tikTvd": "4384001346414",
-    "tikName": "Иркутская - 94"
+    "tikName": "Иркутская - 94",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 811,
     "uikTvd": "4384018301654",
+    "uikName": "УИК №811",
     "tikTvd": "4384001346414",
-    "tikName": "Иркутская - 94"
+    "tikName": "Иркутская - 94",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 812,
     "uikTvd": "4384018301655",
+    "uikName": "УИК №812",
     "tikTvd": "4384001346414",
-    "tikName": "Иркутская - 94"
+    "tikName": "Иркутская - 94",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 813,
     "uikTvd": "4384018301656",
+    "uikName": "УИК №813",
     "tikTvd": "4384001346414",
-    "tikName": "Иркутская - 94"
+    "tikName": "Иркутская - 94",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 814,
     "uikTvd": "4384018301657",
+    "uikName": "УИК №814",
     "tikTvd": "4384001346414",
-    "tikName": "Иркутская - 94"
+    "tikName": "Иркутская - 94",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 815,
     "uikTvd": "4384018301658",
+    "uikName": "УИК №815",
     "tikTvd": "4384001346414",
-    "tikName": "Иркутская - 94"
+    "tikName": "Иркутская - 94",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 816,
     "uikTvd": "4384018301659",
+    "uikName": "УИК №816",
     "tikTvd": "4384001346414",
-    "tikName": "Иркутская - 94"
+    "tikName": "Иркутская - 94",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 817,
     "uikTvd": "4384018301804",
+    "uikName": "УИК №817",
     "tikTvd": "23820001459310",
-    "tikName": "Иркутская -93"
+    "tikName": "Иркутская -93",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 818,
     "uikTvd": "4384018301805",
+    "uikName": "УИК №818",
     "tikTvd": "23820001459310",
-    "tikName": "Иркутская -93"
+    "tikName": "Иркутская -93",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 819,
     "uikTvd": "4384018301806",
+    "uikName": "УИК №819",
     "tikTvd": "23820001459310",
-    "tikName": "Иркутская -93"
+    "tikName": "Иркутская -93",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 820,
     "uikTvd": "4384018301807",
+    "uikName": "УИК №820",
     "tikTvd": "23820001459310",
-    "tikName": "Иркутская -93"
+    "tikName": "Иркутская -93",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 821,
     "uikTvd": "4384018301808",
+    "uikName": "УИК №821",
     "tikTvd": "23820001459310",
-    "tikName": "Иркутская -93"
+    "tikName": "Иркутская -93",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 822,
     "uikTvd": "4384018301809",
+    "uikName": "УИК №822",
     "tikTvd": "23820001459310",
-    "tikName": "Иркутская -93"
+    "tikName": "Иркутская -93",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 823,
     "uikTvd": "4384018301660",
+    "uikName": "УИК №823",
     "tikTvd": "4384001346414",
-    "tikName": "Иркутская - 94"
+    "tikName": "Иркутская - 94",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 824,
     "uikTvd": "4384018301661",
+    "uikName": "УИК №824",
     "tikTvd": "4384001346414",
-    "tikName": "Иркутская - 94"
+    "tikName": "Иркутская - 94",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 825,
     "uikTvd": "4384018301662",
+    "uikName": "УИК №825",
     "tikTvd": "4384001346414",
-    "tikName": "Иркутская - 94"
+    "tikName": "Иркутская - 94",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 826,
     "uikTvd": "4384018301663",
+    "uikName": "УИК №826",
     "tikTvd": "4384001346414",
-    "tikName": "Иркутская - 94"
+    "tikName": "Иркутская - 94",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 827,
     "uikTvd": "4384018301664",
+    "uikName": "УИК №827",
     "tikTvd": "4384001346414",
-    "tikName": "Иркутская - 94"
+    "tikName": "Иркутская - 94",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 828,
     "uikTvd": "4384018301665",
+    "uikName": "УИК №828",
     "tikTvd": "4384001346414",
-    "tikName": "Иркутская - 94"
+    "tikName": "Иркутская - 94",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 829,
     "uikTvd": "4384018301666",
+    "uikName": "УИК №829",
     "tikTvd": "4384001346414",
-    "tikName": "Иркутская - 94"
+    "tikName": "Иркутская - 94",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 830,
     "uikTvd": "4384018301667",
+    "uikName": "УИК №830",
     "tikTvd": "4384001346414",
-    "tikName": "Иркутская - 94"
+    "tikName": "Иркутская - 94",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 831,
     "uikTvd": "4384018301668",
+    "uikName": "УИК №831",
     "tikTvd": "4384001346414",
-    "tikName": "Иркутская - 94"
+    "tikName": "Иркутская - 94",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 832,
     "uikTvd": "4384018301669",
+    "uikName": "УИК №832",
     "tikTvd": "4384001346414",
-    "tikName": "Иркутская - 94"
+    "tikName": "Иркутская - 94",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 833,
     "uikTvd": "4384018301670",
+    "uikName": "УИК №833",
     "tikTvd": "4384001346414",
-    "tikName": "Иркутская - 94"
+    "tikName": "Иркутская - 94",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 834,
     "uikTvd": "4384018301671",
+    "uikName": "УИК №834",
     "tikTvd": "4384001346414",
-    "tikName": "Иркутская - 94"
+    "tikName": "Иркутская - 94",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 835,
     "uikTvd": "4384019204864",
+    "uikName": "УИК №835",
     "tikTvd": "23820001459309",
-    "tikName": "Казачинско-Ленская"
+    "tikName": "Казачинско-Ленская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 836,
     "uikTvd": "4384019204866",
+    "uikName": "УИК №836",
     "tikTvd": "23820001459309",
-    "tikName": "Казачинско-Ленская"
+    "tikName": "Казачинско-Ленская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 837,
     "uikTvd": "4384019204868",
+    "uikName": "УИК №837",
     "tikTvd": "23820001459309",
-    "tikName": "Казачинско-Ленская"
+    "tikName": "Казачинско-Ленская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 838,
     "uikTvd": "4384019204870",
+    "uikName": "УИК №838",
     "tikTvd": "23820001459309",
-    "tikName": "Казачинско-Ленская"
+    "tikName": "Казачинско-Ленская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 839,
     "uikTvd": "4384019204872",
+    "uikName": "УИК №839",
     "tikTvd": "23820001459309",
-    "tikName": "Казачинско-Ленская"
+    "tikName": "Казачинско-Ленская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 840,
     "uikTvd": "4384019204874",
+    "uikName": "УИК №840",
     "tikTvd": "23820001459309",
-    "tikName": "Казачинско-Ленская"
+    "tikName": "Казачинско-Ленская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 841,
     "uikTvd": "4384019204876",
+    "uikName": "УИК №841",
     "tikTvd": "23820001459309",
-    "tikName": "Казачинско-Ленская"
+    "tikName": "Казачинско-Ленская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 842,
     "uikTvd": "4384019204878",
+    "uikName": "УИК №842",
     "tikTvd": "23820001459309",
-    "tikName": "Казачинско-Ленская"
+    "tikName": "Казачинско-Ленская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 843,
     "uikTvd": "4384019204880",
+    "uikName": "УИК №843",
     "tikTvd": "23820001459309",
-    "tikName": "Казачинско-Ленская"
+    "tikName": "Казачинско-Ленская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 844,
     "uikTvd": "4384019204882",
+    "uikName": "УИК №844",
     "tikTvd": "23820001459309",
-    "tikName": "Казачинско-Ленская"
+    "tikName": "Казачинско-Ленская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 845,
     "uikTvd": "4384019204884",
+    "uikName": "УИК №845",
     "tikTvd": "23820001459309",
-    "tikName": "Казачинско-Ленская"
+    "tikName": "Казачинско-Ленская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 846,
     "uikTvd": "4384019204886",
+    "uikName": "УИК №846",
     "tikTvd": "23820001459309",
-    "tikName": "Казачинско-Ленская"
+    "tikName": "Казачинско-Ленская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 847,
     "uikTvd": "4384019204888",
+    "uikName": "УИК №847",
     "tikTvd": "23820001459309",
-    "tikName": "Казачинско-Ленская"
+    "tikName": "Казачинско-Ленская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 848,
     "uikTvd": "4384019204890",
+    "uikName": "УИК №848",
     "tikTvd": "23820001459309",
-    "tikName": "Казачинско-Ленская"
+    "tikName": "Казачинско-Ленская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 849,
     "uikTvd": "4384019204892",
+    "uikName": "УИК №849",
     "tikTvd": "23820001459309",
-    "tikName": "Казачинско-Ленская"
+    "tikName": "Казачинско-Ленская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 850,
     "uikTvd": "4384019204894",
+    "uikName": "УИК №850",
     "tikTvd": "23820001459309",
-    "tikName": "Казачинско-Ленская"
+    "tikName": "Казачинско-Ленская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 851,
     "uikTvd": "4384019204896",
+    "uikName": "УИК №851",
     "tikTvd": "23820001459309",
-    "tikName": "Казачинско-Ленская"
+    "tikName": "Казачинско-Ленская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 852,
     "uikTvd": "4384019204898",
+    "uikName": "УИК №852",
     "tikTvd": "23820001459309",
-    "tikName": "Казачинско-Ленская"
+    "tikName": "Казачинско-Ленская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 853,
     "uikTvd": "4384019204900",
+    "uikName": "УИК №853",
     "tikTvd": "23820001459309",
-    "tikName": "Казачинско-Ленская"
+    "tikName": "Казачинско-Ленская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 855,
     "uikTvd": "4384019204902",
+    "uikName": "УИК №855",
     "tikTvd": "23820001459309",
-    "tikName": "Казачинско-Ленская"
+    "tikName": "Казачинско-Ленская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 856,
     "uikTvd": "4384019204904",
+    "uikName": "УИК №856",
     "tikTvd": "23820001459309",
-    "tikName": "Казачинско-Ленская"
+    "tikName": "Казачинско-Ленская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 857,
     "uikTvd": "4384020131589",
+    "uikName": "УИК №857",
     "tikTvd": "4384009306498",
-    "tikName": "Катангская"
+    "tikName": "Катангская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 858,
     "uikTvd": "4384020131591",
+    "uikName": "УИК №858",
     "tikTvd": "4384009306498",
-    "tikName": "Катангская"
+    "tikName": "Катангская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 859,
     "uikTvd": "4384020131593",
+    "uikName": "УИК №859",
     "tikTvd": "4384009306498",
-    "tikName": "Катангская"
+    "tikName": "Катангская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 860,
     "uikTvd": "4384020131595",
+    "uikName": "УИК №860",
     "tikTvd": "4384009306498",
-    "tikName": "Катангская"
+    "tikName": "Катангская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 861,
     "uikTvd": "4384020131597",
+    "uikName": "УИК №861",
     "tikTvd": "4384009306498",
-    "tikName": "Катангская"
+    "tikName": "Катангская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 862,
     "uikTvd": "4384020131599",
+    "uikName": "УИК №862",
     "tikTvd": "4384009306498",
-    "tikName": "Катангская"
+    "tikName": "Катангская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 863,
     "uikTvd": "4384020131601",
+    "uikName": "УИК №863",
     "tikTvd": "4384009306498",
-    "tikName": "Катангская"
+    "tikName": "Катангская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 864,
     "uikTvd": "4384020131603",
+    "uikName": "УИК №864",
     "tikTvd": "4384009306498",
-    "tikName": "Катангская"
+    "tikName": "Катангская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 865,
     "uikTvd": "4384020131605",
+    "uikName": "УИК №865",
     "tikTvd": "4384009306498",
-    "tikName": "Катангская"
+    "tikName": "Катангская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 866,
     "uikTvd": "4384020131607",
+    "uikName": "УИК №866",
     "tikTvd": "4384009306498",
-    "tikName": "Катангская"
+    "tikName": "Катангская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 867,
     "uikTvd": "4384020131609",
+    "uikName": "УИК №867",
     "tikTvd": "4384009306498",
-    "tikName": "Катангская"
+    "tikName": "Катангская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 868,
     "uikTvd": "4384020131611",
+    "uikName": "УИК №868",
     "tikTvd": "4384009306498",
-    "tikName": "Катангская"
+    "tikName": "Катангская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 869,
     "uikTvd": "4384021219931",
+    "uikName": "УИК №869",
     "tikTvd": "23820001459308",
-    "tikName": "Качугская"
+    "tikName": "Качугская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 870,
     "uikTvd": "4384021219932",
+    "uikName": "УИК №870",
     "tikTvd": "23820001459308",
-    "tikName": "Качугская"
+    "tikName": "Качугская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 871,
     "uikTvd": "4384021219933",
+    "uikName": "УИК №871",
     "tikTvd": "23820001459308",
-    "tikName": "Качугская"
+    "tikName": "Качугская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 872,
     "uikTvd": "4384021219934",
+    "uikName": "УИК №872",
     "tikTvd": "23820001459308",
-    "tikName": "Качугская"
+    "tikName": "Качугская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 873,
     "uikTvd": "4384021219935",
+    "uikName": "УИК №873",
     "tikTvd": "23820001459308",
-    "tikName": "Качугская"
+    "tikName": "Качугская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 874,
     "uikTvd": "4384021219936",
+    "uikName": "УИК №874",
     "tikTvd": "23820001459308",
-    "tikName": "Качугская"
+    "tikName": "Качугская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 875,
     "uikTvd": "4384021219937",
+    "uikName": "УИК №875",
     "tikTvd": "23820001459308",
-    "tikName": "Качугская"
+    "tikName": "Качугская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 876,
     "uikTvd": "4384021219938",
+    "uikName": "УИК №876",
     "tikTvd": "23820001459308",
-    "tikName": "Качугская"
+    "tikName": "Качугская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 877,
     "uikTvd": "4384021219939",
+    "uikName": "УИК №877",
     "tikTvd": "23820001459308",
-    "tikName": "Качугская"
+    "tikName": "Качугская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 878,
     "uikTvd": "4384021219940",
+    "uikName": "УИК №878",
     "tikTvd": "23820001459308",
-    "tikName": "Качугская"
+    "tikName": "Качугская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 879,
     "uikTvd": "4384021219941",
+    "uikName": "УИК №879",
     "tikTvd": "23820001459308",
-    "tikName": "Качугская"
+    "tikName": "Качугская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 880,
     "uikTvd": "4384021219942",
+    "uikName": "УИК №880",
     "tikTvd": "23820001459308",
-    "tikName": "Качугская"
+    "tikName": "Качугская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 881,
     "uikTvd": "4384021219943",
+    "uikName": "УИК №881",
     "tikTvd": "23820001459308",
-    "tikName": "Качугская"
+    "tikName": "Качугская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 882,
     "uikTvd": "4384021219944",
+    "uikName": "УИК №882",
     "tikTvd": "23820001459308",
-    "tikName": "Качугская"
+    "tikName": "Качугская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 883,
     "uikTvd": "4384021219945",
+    "uikName": "УИК №883",
     "tikTvd": "23820001459308",
-    "tikName": "Качугская"
+    "tikName": "Качугская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 884,
     "uikTvd": "4384021219946",
+    "uikName": "УИК №884",
     "tikTvd": "23820001459308",
-    "tikName": "Качугская"
+    "tikName": "Качугская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 885,
     "uikTvd": "4384021219947",
+    "uikName": "УИК №885",
     "tikTvd": "23820001459308",
-    "tikName": "Качугская"
+    "tikName": "Качугская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 886,
     "uikTvd": "4384021219948",
+    "uikName": "УИК №886",
     "tikTvd": "23820001459308",
-    "tikName": "Качугская"
+    "tikName": "Качугская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 887,
     "uikTvd": "4384021219949",
+    "uikName": "УИК №887",
     "tikTvd": "23820001459308",
-    "tikName": "Качугская"
+    "tikName": "Качугская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 888,
     "uikTvd": "4384021219950",
+    "uikName": "УИК №888",
     "tikTvd": "23820001459308",
-    "tikName": "Качугская"
+    "tikName": "Качугская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 889,
     "uikTvd": "4384021219951",
+    "uikName": "УИК №889",
     "tikTvd": "23820001459308",
-    "tikName": "Качугская"
+    "tikName": "Качугская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 890,
     "uikTvd": "4384021219952",
+    "uikName": "УИК №890",
     "tikTvd": "23820001459308",
-    "tikName": "Качугская"
+    "tikName": "Качугская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 891,
     "uikTvd": "4384021219953",
+    "uikName": "УИК №891",
     "tikTvd": "23820001459308",
-    "tikName": "Качугская"
+    "tikName": "Качугская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 892,
     "uikTvd": "4384021219954",
+    "uikName": "УИК №892",
     "tikTvd": "23820001459308",
-    "tikName": "Качугская"
+    "tikName": "Качугская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 893,
     "uikTvd": "4384021219955",
+    "uikName": "УИК №893",
     "tikTvd": "23820001459308",
-    "tikName": "Качугская"
+    "tikName": "Качугская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 894,
     "uikTvd": "4384021219956",
+    "uikName": "УИК №894",
     "tikTvd": "23820001459308",
-    "tikName": "Качугская"
+    "tikName": "Качугская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 895,
     "uikTvd": "4384021219957",
+    "uikName": "УИК №895",
     "tikTvd": "23820001459308",
-    "tikName": "Качугская"
+    "tikName": "Качугская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 896,
     "uikTvd": "4384021219958",
+    "uikName": "УИК №896",
     "tikTvd": "23820001459308",
-    "tikName": "Качугская"
+    "tikName": "Качугская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 897,
     "uikTvd": "4384021219959",
+    "uikName": "УИК №897",
     "tikTvd": "23820001459308",
-    "tikName": "Качугская"
+    "tikName": "Качугская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 898,
     "uikTvd": "4384021219960",
+    "uikName": "УИК №898",
     "tikTvd": "23820001459308",
-    "tikName": "Качугская"
+    "tikName": "Качугская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 899,
     "uikTvd": "4384021219961",
+    "uikName": "УИК №899",
     "tikTvd": "23820001459308",
-    "tikName": "Качугская"
+    "tikName": "Качугская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 900,
     "uikTvd": "4384021219962",
+    "uikName": "УИК №900",
     "tikTvd": "23820001459308",
-    "tikName": "Качугская"
+    "tikName": "Качугская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 901,
     "uikTvd": "4384021219963",
+    "uikName": "УИК №901",
     "tikTvd": "23820001459308",
-    "tikName": "Качугская"
+    "tikName": "Качугская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 902,
     "uikTvd": "4384021219964",
+    "uikName": "УИК №902",
     "tikTvd": "23820001459308",
-    "tikName": "Качугская"
+    "tikName": "Качугская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 903,
     "uikTvd": "4384021219965",
+    "uikName": "УИК №903",
     "tikTvd": "23820001459308",
-    "tikName": "Качугская"
+    "tikName": "Качугская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 904,
     "uikTvd": "4384021219966",
+    "uikName": "УИК №904",
     "tikTvd": "23820001459308",
-    "tikName": "Качугская"
+    "tikName": "Качугская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 905,
     "uikTvd": "4384021219967",
+    "uikName": "УИК №905",
     "tikTvd": "23820001459308",
-    "tikName": "Качугская"
+    "tikName": "Качугская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 906,
     "uikTvd": "4384021219968",
+    "uikName": "УИК №906",
     "tikTvd": "23820001459308",
-    "tikName": "Качугская"
+    "tikName": "Качугская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 907,
     "uikTvd": "4384021219969",
+    "uikName": "УИК №907",
     "tikTvd": "23820001459308",
-    "tikName": "Качугская"
+    "tikName": "Качугская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 908,
     "uikTvd": "4384021219970",
+    "uikName": "УИК №908",
     "tikTvd": "23820001459308",
-    "tikName": "Качугская"
+    "tikName": "Качугская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 909,
     "uikTvd": "4384021219971",
+    "uikName": "УИК №909",
     "tikTvd": "23820001459308",
-    "tikName": "Качугская"
+    "tikName": "Качугская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 910,
     "uikTvd": "4384021219972",
+    "uikName": "УИК №910",
     "tikTvd": "23820001459308",
-    "tikName": "Качугская"
+    "tikName": "Качугская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 911,
     "uikTvd": "4384021219973",
+    "uikName": "УИК №911",
     "tikTvd": "23820001459308",
-    "tikName": "Качугская"
+    "tikName": "Качугская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 912,
     "uikTvd": "4384022186457",
+    "uikName": "УИК №912",
     "tikTvd": "4384009306499",
-    "tikName": "Киренская"
+    "tikName": "Киренская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 913,
     "uikTvd": "4384022186458",
+    "uikName": "УИК №913",
     "tikTvd": "4384009306499",
-    "tikName": "Киренская"
+    "tikName": "Киренская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 914,
     "uikTvd": "4384022186459",
+    "uikName": "УИК №914",
     "tikTvd": "4384009306499",
-    "tikName": "Киренская"
+    "tikName": "Киренская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 915,
     "uikTvd": "4384022186460",
+    "uikName": "УИК №915",
     "tikTvd": "4384009306499",
-    "tikName": "Киренская"
+    "tikName": "Киренская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 916,
     "uikTvd": "4384022186461",
+    "uikName": "УИК №916",
     "tikTvd": "4384009306499",
-    "tikName": "Киренская"
+    "tikName": "Киренская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 917,
     "uikTvd": "4384022186462",
+    "uikName": "УИК №917",
     "tikTvd": "4384009306499",
-    "tikName": "Киренская"
+    "tikName": "Киренская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 918,
     "uikTvd": "4384022186463",
+    "uikName": "УИК №918",
     "tikTvd": "4384009306499",
-    "tikName": "Киренская"
+    "tikName": "Киренская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 919,
     "uikTvd": "4384022186464",
+    "uikName": "УИК №919",
     "tikTvd": "4384009306499",
-    "tikName": "Киренская"
+    "tikName": "Киренская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 920,
     "uikTvd": "4384022186465",
+    "uikName": "УИК №920",
     "tikTvd": "4384009306499",
-    "tikName": "Киренская"
+    "tikName": "Киренская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 921,
     "uikTvd": "4384022186466",
+    "uikName": "УИК №921",
     "tikTvd": "4384009306499",
-    "tikName": "Киренская"
+    "tikName": "Киренская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 922,
     "uikTvd": "4384022186467",
+    "uikName": "УИК №922",
     "tikTvd": "4384009306499",
-    "tikName": "Киренская"
+    "tikName": "Киренская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 923,
     "uikTvd": "4384022186468",
+    "uikName": "УИК №923",
     "tikTvd": "4384009306499",
-    "tikName": "Киренская"
+    "tikName": "Киренская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 924,
     "uikTvd": "4384022186469",
+    "uikName": "УИК №924",
     "tikTvd": "4384009306499",
-    "tikName": "Киренская"
+    "tikName": "Киренская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 925,
     "uikTvd": "4384022186470",
+    "uikName": "УИК №925",
     "tikTvd": "4384009306499",
-    "tikName": "Киренская"
+    "tikName": "Киренская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 926,
     "uikTvd": "4384022186471",
+    "uikName": "УИК №926",
     "tikTvd": "4384009306499",
-    "tikName": "Киренская"
+    "tikName": "Киренская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 927,
     "uikTvd": "4384022186472",
+    "uikName": "УИК №927",
     "tikTvd": "4384009306499",
-    "tikName": "Киренская"
+    "tikName": "Киренская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 928,
     "uikTvd": "4384022186473",
+    "uikName": "УИК №928",
     "tikTvd": "4384009306499",
-    "tikName": "Киренская"
+    "tikName": "Киренская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 929,
     "uikTvd": "4384022186474",
+    "uikName": "УИК №929",
     "tikTvd": "4384009306499",
-    "tikName": "Киренская"
+    "tikName": "Киренская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 930,
     "uikTvd": "4384022186475",
+    "uikName": "УИК №930",
     "tikTvd": "4384009306499",
-    "tikName": "Киренская"
+    "tikName": "Киренская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 931,
     "uikTvd": "4384022186476",
+    "uikName": "УИК №931",
     "tikTvd": "4384009306499",
-    "tikName": "Киренская"
+    "tikName": "Киренская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 932,
     "uikTvd": "4384022186477",
+    "uikName": "УИК №932",
     "tikTvd": "4384009306499",
-    "tikName": "Киренская"
+    "tikName": "Киренская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 933,
     "uikTvd": "4384022186478",
+    "uikName": "УИК №933",
     "tikTvd": "4384009306499",
-    "tikName": "Киренская"
+    "tikName": "Киренская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 934,
     "uikTvd": "4384022186479",
+    "uikName": "УИК №934",
     "tikTvd": "4384009306499",
-    "tikName": "Киренская"
+    "tikName": "Киренская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 935,
     "uikTvd": "4384022186480",
+    "uikName": "УИК №935",
     "tikTvd": "4384009306499",
-    "tikName": "Киренская"
+    "tikName": "Киренская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 936,
     "uikTvd": "4384022186481",
+    "uikName": "УИК №936",
     "tikTvd": "4384009306499",
-    "tikName": "Киренская"
+    "tikName": "Киренская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 937,
     "uikTvd": "4384022186482",
+    "uikName": "УИК №937",
     "tikTvd": "4384009306499",
-    "tikName": "Киренская"
+    "tikName": "Киренская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 938,
     "uikTvd": "4384022186483",
+    "uikName": "УИК №938",
     "tikTvd": "4384009306499",
-    "tikName": "Киренская"
+    "tikName": "Киренская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 939,
     "uikTvd": "4384022186484",
+    "uikName": "УИК №939",
     "tikTvd": "4384009306499",
-    "tikName": "Киренская"
+    "tikName": "Киренская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 940,
     "uikTvd": "4384022186485",
+    "uikName": "УИК №940",
     "tikTvd": "4384009306499",
-    "tikName": "Киренская"
+    "tikName": "Киренская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 941,
     "uikTvd": "4384022186486",
+    "uikName": "УИК №941",
     "tikTvd": "4384009306499",
-    "tikName": "Киренская"
+    "tikName": "Киренская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 942,
     "uikTvd": "4384022186487",
+    "uikName": "УИК №942",
     "tikTvd": "4384009306499",
-    "tikName": "Киренская"
+    "tikName": "Киренская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 944,
     "uikTvd": "4384022186488",
+    "uikName": "УИК №944",
     "tikTvd": "4384009306499",
-    "tikName": "Киренская"
+    "tikName": "Киренская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 945,
     "uikTvd": "4384022186489",
+    "uikName": "УИК №945",
     "tikTvd": "4384009306499",
-    "tikName": "Киренская"
+    "tikName": "Киренская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 946,
     "uikTvd": "4384022186490",
+    "uikName": "УИК №946",
     "tikTvd": "4384009306499",
-    "tikName": "Киренская"
+    "tikName": "Киренская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 947,
     "uikTvd": "4384023228066",
+    "uikName": "УИК №947",
     "tikTvd": "23820001459307",
-    "tikName": "Куйтунская"
+    "tikName": "Куйтунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 948,
     "uikTvd": "4384023228067",
+    "uikName": "УИК №948",
     "tikTvd": "23820001459307",
-    "tikName": "Куйтунская"
+    "tikName": "Куйтунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 949,
     "uikTvd": "4384023228068",
+    "uikName": "УИК №949",
     "tikTvd": "23820001459307",
-    "tikName": "Куйтунская"
+    "tikName": "Куйтунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 950,
     "uikTvd": "4384023228069",
+    "uikName": "УИК №950",
     "tikTvd": "23820001459307",
-    "tikName": "Куйтунская"
+    "tikName": "Куйтунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 951,
     "uikTvd": "4384023228070",
+    "uikName": "УИК №951",
     "tikTvd": "23820001459307",
-    "tikName": "Куйтунская"
+    "tikName": "Куйтунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 952,
     "uikTvd": "4384023228071",
+    "uikName": "УИК №952",
     "tikTvd": "23820001459307",
-    "tikName": "Куйтунская"
+    "tikName": "Куйтунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 953,
     "uikTvd": "4384023228072",
+    "uikName": "УИК №953",
     "tikTvd": "23820001459307",
-    "tikName": "Куйтунская"
+    "tikName": "Куйтунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 954,
     "uikTvd": "4384023228073",
+    "uikName": "УИК №954",
     "tikTvd": "23820001459307",
-    "tikName": "Куйтунская"
+    "tikName": "Куйтунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 955,
     "uikTvd": "4384023228074",
+    "uikName": "УИК №955",
     "tikTvd": "23820001459307",
-    "tikName": "Куйтунская"
+    "tikName": "Куйтунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 956,
     "uikTvd": "4384023228075",
+    "uikName": "УИК №956",
     "tikTvd": "23820001459307",
-    "tikName": "Куйтунская"
+    "tikName": "Куйтунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 957,
     "uikTvd": "4384023228076",
+    "uikName": "УИК №957",
     "tikTvd": "23820001459307",
-    "tikName": "Куйтунская"
+    "tikName": "Куйтунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 958,
     "uikTvd": "4384023228077",
+    "uikName": "УИК №958",
     "tikTvd": "23820001459307",
-    "tikName": "Куйтунская"
+    "tikName": "Куйтунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 959,
     "uikTvd": "4384023228078",
+    "uikName": "УИК №959",
     "tikTvd": "23820001459307",
-    "tikName": "Куйтунская"
+    "tikName": "Куйтунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 960,
     "uikTvd": "4384023228079",
+    "uikName": "УИК №960",
     "tikTvd": "23820001459307",
-    "tikName": "Куйтунская"
+    "tikName": "Куйтунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 961,
     "uikTvd": "4384023228080",
+    "uikName": "УИК №961",
     "tikTvd": "23820001459307",
-    "tikName": "Куйтунская"
+    "tikName": "Куйтунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 962,
     "uikTvd": "4384023228081",
+    "uikName": "УИК №962",
     "tikTvd": "23820001459307",
-    "tikName": "Куйтунская"
+    "tikName": "Куйтунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 963,
     "uikTvd": "4384023228082",
+    "uikName": "УИК №963",
     "tikTvd": "23820001459307",
-    "tikName": "Куйтунская"
+    "tikName": "Куйтунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 964,
     "uikTvd": "4384023228083",
+    "uikName": "УИК №964",
     "tikTvd": "23820001459307",
-    "tikName": "Куйтунская"
+    "tikName": "Куйтунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 965,
     "uikTvd": "4384023228084",
+    "uikName": "УИК №965",
     "tikTvd": "23820001459307",
-    "tikName": "Куйтунская"
+    "tikName": "Куйтунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 966,
     "uikTvd": "4384023228085",
+    "uikName": "УИК №966",
     "tikTvd": "23820001459307",
-    "tikName": "Куйтунская"
+    "tikName": "Куйтунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 967,
     "uikTvd": "4384023228086",
+    "uikName": "УИК №967",
     "tikTvd": "23820001459307",
-    "tikName": "Куйтунская"
+    "tikName": "Куйтунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 968,
     "uikTvd": "4384023228087",
+    "uikName": "УИК №968",
     "tikTvd": "23820001459307",
-    "tikName": "Куйтунская"
+    "tikName": "Куйтунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 969,
     "uikTvd": "4384023228088",
+    "uikName": "УИК №969",
     "tikTvd": "23820001459307",
-    "tikName": "Куйтунская"
+    "tikName": "Куйтунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 970,
     "uikTvd": "4384023228089",
+    "uikName": "УИК №970",
     "tikTvd": "23820001459307",
-    "tikName": "Куйтунская"
+    "tikName": "Куйтунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 971,
     "uikTvd": "4384023228090",
+    "uikName": "УИК №971",
     "tikTvd": "23820001459307",
-    "tikName": "Куйтунская"
+    "tikName": "Куйтунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 972,
     "uikTvd": "4384023228091",
+    "uikName": "УИК №972",
     "tikTvd": "23820001459307",
-    "tikName": "Куйтунская"
+    "tikName": "Куйтунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 973,
     "uikTvd": "4384023228092",
+    "uikName": "УИК №973",
     "tikTvd": "23820001459307",
-    "tikName": "Куйтунская"
+    "tikName": "Куйтунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 974,
     "uikTvd": "4384023228093",
+    "uikName": "УИК №974",
     "tikTvd": "23820001459307",
-    "tikName": "Куйтунская"
+    "tikName": "Куйтунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 975,
     "uikTvd": "4384023228094",
+    "uikName": "УИК №975",
     "tikTvd": "23820001459307",
-    "tikName": "Куйтунская"
+    "tikName": "Куйтунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 976,
     "uikTvd": "4384023228095",
+    "uikName": "УИК №976",
     "tikTvd": "23820001459307",
-    "tikName": "Куйтунская"
+    "tikName": "Куйтунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 977,
     "uikTvd": "4384023228096",
+    "uikName": "УИК №977",
     "tikTvd": "23820001459307",
-    "tikName": "Куйтунская"
+    "tikName": "Куйтунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 978,
     "uikTvd": "4384023228097",
+    "uikName": "УИК №978",
     "tikTvd": "23820001459307",
-    "tikName": "Куйтунская"
+    "tikName": "Куйтунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 979,
     "uikTvd": "4384023228098",
+    "uikName": "УИК №979",
     "tikTvd": "23820001459307",
-    "tikName": "Куйтунская"
+    "tikName": "Куйтунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 980,
     "uikTvd": "4384023228099",
+    "uikName": "УИК №980",
     "tikTvd": "23820001459307",
-    "tikName": "Куйтунская"
+    "tikName": "Куйтунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 981,
     "uikTvd": "4384023228100",
+    "uikName": "УИК №981",
     "tikTvd": "23820001459307",
-    "tikName": "Куйтунская"
+    "tikName": "Куйтунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 982,
     "uikTvd": "4384023228101",
+    "uikName": "УИК №982",
     "tikTvd": "23820001459307",
-    "tikName": "Куйтунская"
+    "tikName": "Куйтунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 983,
     "uikTvd": "4384023228102",
+    "uikName": "УИК №983",
     "tikTvd": "23820001459307",
-    "tikName": "Куйтунская"
+    "tikName": "Куйтунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 984,
     "uikTvd": "4384023228103",
+    "uikName": "УИК №984",
     "tikTvd": "23820001459307",
-    "tikName": "Куйтунская"
+    "tikName": "Куйтунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 985,
     "uikTvd": "4384023228104",
+    "uikName": "УИК №985",
     "tikTvd": "23820001459307",
-    "tikName": "Куйтунская"
+    "tikName": "Куйтунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 986,
     "uikTvd": "4384023228105",
+    "uikName": "УИК №986",
     "tikTvd": "23820001459307",
-    "tikName": "Куйтунская"
+    "tikName": "Куйтунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 987,
     "uikTvd": "4384023228106",
+    "uikName": "УИК №987",
     "tikTvd": "23820001459307",
-    "tikName": "Куйтунская"
+    "tikName": "Куйтунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 988,
     "uikTvd": "4384023228107",
+    "uikName": "УИК №988",
     "tikTvd": "23820001459307",
-    "tikName": "Куйтунская"
+    "tikName": "Куйтунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 989,
     "uikTvd": "4384023228108",
+    "uikName": "УИК №989",
     "tikTvd": "23820001459307",
-    "tikName": "Куйтунская"
+    "tikName": "Куйтунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 990,
     "uikTvd": "4384023228109",
+    "uikName": "УИК №990",
     "tikTvd": "23820001459307",
-    "tikName": "Куйтунская"
+    "tikName": "Куйтунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 991,
     "uikTvd": "4384023228110",
+    "uikName": "УИК №991",
     "tikTvd": "23820001459307",
-    "tikName": "Куйтунская"
+    "tikName": "Куйтунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 992,
     "uikTvd": "4384023228111",
+    "uikName": "УИК №992",
     "tikTvd": "23820001459307",
-    "tikName": "Куйтунская"
+    "tikName": "Куйтунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 993,
     "uikTvd": "4384023228112",
+    "uikName": "УИК №993",
     "tikTvd": "23820001459307",
-    "tikName": "Куйтунская"
+    "tikName": "Куйтунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 994,
     "uikTvd": "4384023228113",
+    "uikName": "УИК №994",
     "tikTvd": "23820001459307",
-    "tikName": "Куйтунская"
+    "tikName": "Куйтунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 995,
     "uikTvd": "4384023228114",
+    "uikName": "УИК №995",
     "tikTvd": "23820001459307",
-    "tikName": "Куйтунская"
+    "tikName": "Куйтунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 996,
     "uikTvd": "4384023228115",
+    "uikName": "УИК №996",
     "tikTvd": "23820001459307",
-    "tikName": "Куйтунская"
+    "tikName": "Куйтунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 997,
     "uikTvd": "4384023228116",
+    "uikName": "УИК №997",
     "tikTvd": "23820001459307",
-    "tikName": "Куйтунская"
+    "tikName": "Куйтунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 998,
     "uikTvd": "4384023228117",
+    "uikName": "УИК №998",
     "tikTvd": "23820001459307",
-    "tikName": "Куйтунская"
+    "tikName": "Куйтунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 999,
     "uikTvd": "4384023228118",
+    "uikName": "УИК №999",
     "tikTvd": "23820001459307",
-    "tikName": "Куйтунская"
+    "tikName": "Куйтунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1000,
     "uikTvd": "4384023228119",
+    "uikName": "УИК №1000",
     "tikTvd": "23820001459307",
-    "tikName": "Куйтунская"
+    "tikName": "Куйтунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1001,
     "uikTvd": "4384023228120",
+    "uikName": "УИК №1001",
     "tikTvd": "23820001459307",
-    "tikName": "Куйтунская"
+    "tikName": "Куйтунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1002,
     "uikTvd": "4384023228121",
+    "uikName": "УИК №1002",
     "tikTvd": "23820001459307",
-    "tikName": "Куйтунская"
+    "tikName": "Куйтунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1003,
     "uikTvd": "4384023228122",
+    "uikName": "УИК №1003",
     "tikTvd": "23820001459307",
-    "tikName": "Куйтунская"
+    "tikName": "Куйтунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1004,
     "uikTvd": "4384023228123",
+    "uikName": "УИК №1004",
     "tikTvd": "23820001459307",
-    "tikName": "Куйтунская"
+    "tikName": "Куйтунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1005,
     "uikTvd": "4384023228124",
+    "uikName": "УИК №1005",
     "tikTvd": "23820001459307",
-    "tikName": "Куйтунская"
+    "tikName": "Куйтунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1006,
     "uikTvd": "4384023228125",
+    "uikName": "УИК №1006",
     "tikTvd": "23820001459307",
-    "tikName": "Куйтунская"
+    "tikName": "Куйтунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1007,
     "uikTvd": "4384023228126",
+    "uikName": "УИК №1007",
     "tikTvd": "23820001459307",
-    "tikName": "Куйтунская"
+    "tikName": "Куйтунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1008,
     "uikTvd": "4384023228127",
+    "uikName": "УИК №1008",
     "tikTvd": "23820001459307",
-    "tikName": "Куйтунская"
+    "tikName": "Куйтунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1009,
     "uikTvd": "4384023228128",
+    "uikName": "УИК №1009",
     "tikTvd": "23820001459307",
-    "tikName": "Куйтунская"
+    "tikName": "Куйтунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1010,
     "uikTvd": "4384023228129",
+    "uikName": "УИК №1010",
     "tikTvd": "23820001459307",
-    "tikName": "Куйтунская"
+    "tikName": "Куйтунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1011,
     "uikTvd": "4384023228130",
+    "uikName": "УИК №1011",
     "tikTvd": "23820001459307",
-    "tikName": "Куйтунская"
+    "tikName": "Куйтунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1012,
     "uikTvd": "4384023228131",
+    "uikName": "УИК №1012",
     "tikTvd": "23820001459307",
-    "tikName": "Куйтунская"
+    "tikName": "Куйтунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1013,
     "uikTvd": "4384023228132",
+    "uikName": "УИК №1013",
     "tikTvd": "23820001459307",
-    "tikName": "Куйтунская"
+    "tikName": "Куйтунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1014,
     "uikTvd": "4384023228133",
+    "uikName": "УИК №1014",
     "tikTvd": "23820001459307",
-    "tikName": "Куйтунская"
+    "tikName": "Куйтунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1015,
     "uikTvd": "4384023228134",
+    "uikName": "УИК №1015",
     "tikTvd": "23820001459307",
-    "tikName": "Куйтунская"
+    "tikName": "Куйтунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1016,
     "uikTvd": "4384024169808",
+    "uikName": "УИК №1016",
     "tikTvd": "4384009306500",
-    "tikName": "Мамско-Чуйская"
+    "tikName": "Мамско-Чуйская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1017,
     "uikTvd": "4384024169809",
+    "uikName": "УИК №1017",
     "tikTvd": "4384009306500",
-    "tikName": "Мамско-Чуйская"
+    "tikName": "Мамско-Чуйская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1018,
     "uikTvd": "4384024169810",
+    "uikName": "УИК №1018",
     "tikTvd": "4384009306500",
-    "tikName": "Мамско-Чуйская"
+    "tikName": "Мамско-Чуйская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1019,
     "uikTvd": "4384024169811",
+    "uikName": "УИК №1019",
     "tikTvd": "4384009306500",
-    "tikName": "Мамско-Чуйская"
+    "tikName": "Мамско-Чуйская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1020,
     "uikTvd": "4384024169812",
+    "uikName": "УИК №1020",
     "tikTvd": "4384009306500",
-    "tikName": "Мамско-Чуйская"
+    "tikName": "Мамско-Чуйская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1021,
     "uikTvd": "4384024169813",
+    "uikName": "УИК №1021",
     "tikTvd": "4384009306500",
-    "tikName": "Мамско-Чуйская"
+    "tikName": "Мамско-Чуйская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1024,
     "uikTvd": "4384025230121",
+    "uikName": "УИК №1024",
     "tikTvd": "4384009306501",
-    "tikName": "Нижнеилимская"
+    "tikName": "Нижнеилимская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1025,
     "uikTvd": "4384025230122",
+    "uikName": "УИК №1025",
     "tikTvd": "4384009306501",
-    "tikName": "Нижнеилимская"
+    "tikName": "Нижнеилимская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1026,
     "uikTvd": "4384025230123",
+    "uikName": "УИК №1026",
     "tikTvd": "4384009306501",
-    "tikName": "Нижнеилимская"
+    "tikName": "Нижнеилимская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1027,
     "uikTvd": "4384025230124",
+    "uikName": "УИК №1027",
     "tikTvd": "4384009306501",
-    "tikName": "Нижнеилимская"
+    "tikName": "Нижнеилимская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1028,
     "uikTvd": "4384025230125",
+    "uikName": "УИК №1028",
     "tikTvd": "4384009306501",
-    "tikName": "Нижнеилимская"
+    "tikName": "Нижнеилимская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1029,
     "uikTvd": "4384025230126",
+    "uikName": "УИК №1029",
     "tikTvd": "4384009306501",
-    "tikName": "Нижнеилимская"
+    "tikName": "Нижнеилимская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1030,
     "uikTvd": "4384025230127",
+    "uikName": "УИК №1030",
     "tikTvd": "4384009306501",
-    "tikName": "Нижнеилимская"
+    "tikName": "Нижнеилимская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1031,
     "uikTvd": "4384025230128",
+    "uikName": "УИК №1031",
     "tikTvd": "4384009306501",
-    "tikName": "Нижнеилимская"
+    "tikName": "Нижнеилимская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1032,
     "uikTvd": "4384025230129",
+    "uikName": "УИК №1032",
     "tikTvd": "4384009306501",
-    "tikName": "Нижнеилимская"
+    "tikName": "Нижнеилимская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1033,
     "uikTvd": "4384025230130",
+    "uikName": "УИК №1033",
     "tikTvd": "4384009306501",
-    "tikName": "Нижнеилимская"
+    "tikName": "Нижнеилимская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1034,
     "uikTvd": "4384025230131",
+    "uikName": "УИК №1034",
     "tikTvd": "4384009306501",
-    "tikName": "Нижнеилимская"
+    "tikName": "Нижнеилимская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1035,
     "uikTvd": "4384025230132",
+    "uikName": "УИК №1035",
     "tikTvd": "4384009306501",
-    "tikName": "Нижнеилимская"
+    "tikName": "Нижнеилимская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1036,
     "uikTvd": "4384025230133",
+    "uikName": "УИК №1036",
     "tikTvd": "4384009306501",
-    "tikName": "Нижнеилимская"
+    "tikName": "Нижнеилимская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1037,
     "uikTvd": "4384025230134",
+    "uikName": "УИК №1037",
     "tikTvd": "4384009306501",
-    "tikName": "Нижнеилимская"
+    "tikName": "Нижнеилимская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1038,
     "uikTvd": "4384025230135",
+    "uikName": "УИК №1038",
     "tikTvd": "4384009306501",
-    "tikName": "Нижнеилимская"
+    "tikName": "Нижнеилимская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1039,
     "uikTvd": "4384025230136",
+    "uikName": "УИК №1039",
     "tikTvd": "4384009306501",
-    "tikName": "Нижнеилимская"
+    "tikName": "Нижнеилимская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1040,
     "uikTvd": "4384025230137",
+    "uikName": "УИК №1040",
     "tikTvd": "4384009306501",
-    "tikName": "Нижнеилимская"
+    "tikName": "Нижнеилимская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1041,
     "uikTvd": "4384025230138",
+    "uikName": "УИК №1041",
     "tikTvd": "4384009306501",
-    "tikName": "Нижнеилимская"
+    "tikName": "Нижнеилимская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1042,
     "uikTvd": "4384025230139",
+    "uikName": "УИК №1042",
     "tikTvd": "4384009306501",
-    "tikName": "Нижнеилимская"
+    "tikName": "Нижнеилимская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1043,
     "uikTvd": "4384025230140",
+    "uikName": "УИК №1043",
     "tikTvd": "4384009306501",
-    "tikName": "Нижнеилимская"
+    "tikName": "Нижнеилимская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1044,
     "uikTvd": "4384025230141",
+    "uikName": "УИК №1044",
     "tikTvd": "4384009306501",
-    "tikName": "Нижнеилимская"
+    "tikName": "Нижнеилимская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1045,
     "uikTvd": "4384025230142",
+    "uikName": "УИК №1045",
     "tikTvd": "4384009306501",
-    "tikName": "Нижнеилимская"
+    "tikName": "Нижнеилимская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1046,
     "uikTvd": "4384025230143",
+    "uikName": "УИК №1046",
     "tikTvd": "4384009306501",
-    "tikName": "Нижнеилимская"
+    "tikName": "Нижнеилимская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1047,
     "uikTvd": "4384025230144",
+    "uikName": "УИК №1047",
     "tikTvd": "4384009306501",
-    "tikName": "Нижнеилимская"
+    "tikName": "Нижнеилимская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1048,
     "uikTvd": "4384025230145",
+    "uikName": "УИК №1048",
     "tikTvd": "4384009306501",
-    "tikName": "Нижнеилимская"
+    "tikName": "Нижнеилимская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1049,
     "uikTvd": "4384025230146",
+    "uikName": "УИК №1049",
     "tikTvd": "4384009306501",
-    "tikName": "Нижнеилимская"
+    "tikName": "Нижнеилимская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1050,
     "uikTvd": "4384025230147",
+    "uikName": "УИК №1050",
     "tikTvd": "4384009306501",
-    "tikName": "Нижнеилимская"
+    "tikName": "Нижнеилимская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1051,
     "uikTvd": "4384025230148",
+    "uikName": "УИК №1051",
     "tikTvd": "4384009306501",
-    "tikName": "Нижнеилимская"
+    "tikName": "Нижнеилимская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1052,
     "uikTvd": "4384025230149",
+    "uikName": "УИК №1052",
     "tikTvd": "4384009306501",
-    "tikName": "Нижнеилимская"
+    "tikName": "Нижнеилимская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1053,
     "uikTvd": "4384025230150",
+    "uikName": "УИК №1053",
     "tikTvd": "4384009306501",
-    "tikName": "Нижнеилимская"
+    "tikName": "Нижнеилимская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1054,
     "uikTvd": "4384025230151",
+    "uikName": "УИК №1054",
     "tikTvd": "4384009306501",
-    "tikName": "Нижнеилимская"
+    "tikName": "Нижнеилимская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1055,
     "uikTvd": "4384025230152",
+    "uikName": "УИК №1055",
     "tikTvd": "4384009306501",
-    "tikName": "Нижнеилимская"
+    "tikName": "Нижнеилимская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1056,
     "uikTvd": "4384025230153",
+    "uikName": "УИК №1056",
     "tikTvd": "4384009306501",
-    "tikName": "Нижнеилимская"
+    "tikName": "Нижнеилимская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1057,
     "uikTvd": "4384025230154",
+    "uikName": "УИК №1057",
     "tikTvd": "4384009306501",
-    "tikName": "Нижнеилимская"
+    "tikName": "Нижнеилимская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1058,
     "uikTvd": "4384025230155",
+    "uikName": "УИК №1058",
     "tikTvd": "4384009306501",
-    "tikName": "Нижнеилимская"
+    "tikName": "Нижнеилимская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1059,
     "uikTvd": "4384025230156",
+    "uikName": "УИК №1059",
     "tikTvd": "4384009306501",
-    "tikName": "Нижнеилимская"
+    "tikName": "Нижнеилимская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1060,
     "uikTvd": "4384025230157",
+    "uikName": "УИК №1060",
     "tikTvd": "4384009306501",
-    "tikName": "Нижнеилимская"
+    "tikName": "Нижнеилимская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1061,
     "uikTvd": "4384025230158",
+    "uikName": "УИК №1061",
     "tikTvd": "4384009306501",
-    "tikName": "Нижнеилимская"
+    "tikName": "Нижнеилимская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1062,
     "uikTvd": "4384025230159",
+    "uikName": "УИК №1062",
     "tikTvd": "4384009306501",
-    "tikName": "Нижнеилимская"
+    "tikName": "Нижнеилимская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1063,
     "uikTvd": "4384025230160",
+    "uikName": "УИК №1063",
     "tikTvd": "4384009306501",
-    "tikName": "Нижнеилимская"
+    "tikName": "Нижнеилимская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1064,
     "uikTvd": "4384025230161",
+    "uikName": "УИК №1064",
     "tikTvd": "4384009306501",
-    "tikName": "Нижнеилимская"
+    "tikName": "Нижнеилимская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1065,
     "uikTvd": "4384025230162",
+    "uikName": "УИК №1065",
     "tikTvd": "4384009306501",
-    "tikName": "Нижнеилимская"
+    "tikName": "Нижнеилимская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1066,
     "uikTvd": "4384006313365",
+    "uikName": "УИК №1066",
     "tikTvd": "23820001459326",
-    "tikName": "Нижнеудинская"
+    "tikName": "Нижнеудинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1067,
     "uikTvd": "4384006313366",
+    "uikName": "УИК №1067",
     "tikTvd": "23820001459326",
-    "tikName": "Нижнеудинская"
+    "tikName": "Нижнеудинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1068,
     "uikTvd": "4384006313367",
+    "uikName": "УИК №1068",
     "tikTvd": "23820001459326",
-    "tikName": "Нижнеудинская"
+    "tikName": "Нижнеудинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1069,
     "uikTvd": "4384006313368",
+    "uikName": "УИК №1069",
     "tikTvd": "23820001459326",
-    "tikName": "Нижнеудинская"
+    "tikName": "Нижнеудинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1070,
     "uikTvd": "4384006313369",
+    "uikName": "УИК №1070",
     "tikTvd": "23820001459326",
-    "tikName": "Нижнеудинская"
+    "tikName": "Нижнеудинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1071,
     "uikTvd": "4384006313370",
+    "uikName": "УИК №1071",
     "tikTvd": "23820001459326",
-    "tikName": "Нижнеудинская"
+    "tikName": "Нижнеудинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1072,
     "uikTvd": "4384006313371",
+    "uikName": "УИК №1072",
     "tikTvd": "23820001459326",
-    "tikName": "Нижнеудинская"
+    "tikName": "Нижнеудинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1073,
     "uikTvd": "4384006313372",
+    "uikName": "УИК №1073",
     "tikTvd": "23820001459326",
-    "tikName": "Нижнеудинская"
+    "tikName": "Нижнеудинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1074,
     "uikTvd": "4384006313373",
+    "uikName": "УИК №1074",
     "tikTvd": "23820001459326",
-    "tikName": "Нижнеудинская"
+    "tikName": "Нижнеудинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1075,
     "uikTvd": "4384006313374",
+    "uikName": "УИК №1075",
     "tikTvd": "23820001459326",
-    "tikName": "Нижнеудинская"
+    "tikName": "Нижнеудинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1076,
     "uikTvd": "4384006313375",
+    "uikName": "УИК №1076",
     "tikTvd": "23820001459326",
-    "tikName": "Нижнеудинская"
+    "tikName": "Нижнеудинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1077,
     "uikTvd": "4384006313376",
+    "uikName": "УИК №1077",
     "tikTvd": "23820001459326",
-    "tikName": "Нижнеудинская"
+    "tikName": "Нижнеудинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1078,
     "uikTvd": "4384006313377",
+    "uikName": "УИК №1078",
     "tikTvd": "23820001459326",
-    "tikName": "Нижнеудинская"
+    "tikName": "Нижнеудинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1079,
     "uikTvd": "4384006313378",
+    "uikName": "УИК №1079",
     "tikTvd": "23820001459326",
-    "tikName": "Нижнеудинская"
+    "tikName": "Нижнеудинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1080,
     "uikTvd": "4384006313379",
+    "uikName": "УИК №1080",
     "tikTvd": "23820001459326",
-    "tikName": "Нижнеудинская"
+    "tikName": "Нижнеудинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1081,
     "uikTvd": "4384006313380",
+    "uikName": "УИК №1081",
     "tikTvd": "23820001459326",
-    "tikName": "Нижнеудинская"
+    "tikName": "Нижнеудинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1082,
     "uikTvd": "4384006313381",
+    "uikName": "УИК №1082",
     "tikTvd": "23820001459326",
-    "tikName": "Нижнеудинская"
+    "tikName": "Нижнеудинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1083,
     "uikTvd": "4384006313382",
+    "uikName": "УИК №1083",
     "tikTvd": "23820001459326",
-    "tikName": "Нижнеудинская"
+    "tikName": "Нижнеудинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1084,
     "uikTvd": "4384006313383",
+    "uikName": "УИК №1084",
     "tikTvd": "23820001459326",
-    "tikName": "Нижнеудинская"
+    "tikName": "Нижнеудинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1085,
     "uikTvd": "4384006313384",
+    "uikName": "УИК №1085",
     "tikTvd": "23820001459326",
-    "tikName": "Нижнеудинская"
+    "tikName": "Нижнеудинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1086,
     "uikTvd": "4384006313385",
+    "uikName": "УИК №1086",
     "tikTvd": "23820001459326",
-    "tikName": "Нижнеудинская"
+    "tikName": "Нижнеудинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1087,
     "uikTvd": "4384006313386",
+    "uikName": "УИК №1087",
     "tikTvd": "23820001459326",
-    "tikName": "Нижнеудинская"
+    "tikName": "Нижнеудинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1088,
     "uikTvd": "4384006313387",
+    "uikName": "УИК №1088",
     "tikTvd": "23820001459326",
-    "tikName": "Нижнеудинская"
+    "tikName": "Нижнеудинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1089,
     "uikTvd": "4384006313388",
+    "uikName": "УИК №1089",
     "tikTvd": "23820001459326",
-    "tikName": "Нижнеудинская"
+    "tikName": "Нижнеудинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1090,
     "uikTvd": "4384006313389",
+    "uikName": "УИК №1090",
     "tikTvd": "23820001459326",
-    "tikName": "Нижнеудинская"
+    "tikName": "Нижнеудинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1091,
     "uikTvd": "4384006313390",
+    "uikName": "УИК №1091",
     "tikTvd": "23820001459326",
-    "tikName": "Нижнеудинская"
+    "tikName": "Нижнеудинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1092,
     "uikTvd": "4384006313391",
+    "uikName": "УИК №1092",
     "tikTvd": "23820001459326",
-    "tikName": "Нижнеудинская"
+    "tikName": "Нижнеудинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1093,
     "uikTvd": "4384006313392",
+    "uikName": "УИК №1093",
     "tikTvd": "23820001459326",
-    "tikName": "Нижнеудинская"
+    "tikName": "Нижнеудинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1094,
     "uikTvd": "4384006313393",
+    "uikName": "УИК №1094",
     "tikTvd": "23820001459326",
-    "tikName": "Нижнеудинская"
+    "tikName": "Нижнеудинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1095,
     "uikTvd": "4384006313394",
+    "uikName": "УИК №1095",
     "tikTvd": "23820001459326",
-    "tikName": "Нижнеудинская"
+    "tikName": "Нижнеудинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1096,
     "uikTvd": "4384006313395",
+    "uikName": "УИК №1096",
     "tikTvd": "23820001459326",
-    "tikName": "Нижнеудинская"
+    "tikName": "Нижнеудинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1097,
     "uikTvd": "4384006313396",
+    "uikName": "УИК №1097",
     "tikTvd": "23820001459326",
-    "tikName": "Нижнеудинская"
+    "tikName": "Нижнеудинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1098,
     "uikTvd": "4384006313397",
+    "uikName": "УИК №1098",
     "tikTvd": "23820001459326",
-    "tikName": "Нижнеудинская"
+    "tikName": "Нижнеудинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1099,
     "uikTvd": "4384006313398",
+    "uikName": "УИК №1099",
     "tikTvd": "23820001459326",
-    "tikName": "Нижнеудинская"
+    "tikName": "Нижнеудинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1100,
     "uikTvd": "4384006313399",
+    "uikName": "УИК №1100",
     "tikTvd": "23820001459326",
-    "tikName": "Нижнеудинская"
+    "tikName": "Нижнеудинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1101,
     "uikTvd": "4384006313400",
+    "uikName": "УИК №1101",
     "tikTvd": "23820001459326",
-    "tikName": "Нижнеудинская"
+    "tikName": "Нижнеудинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1102,
     "uikTvd": "4384006313401",
+    "uikName": "УИК №1102",
     "tikTvd": "23820001459326",
-    "tikName": "Нижнеудинская"
+    "tikName": "Нижнеудинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1103,
     "uikTvd": "4384006313402",
+    "uikName": "УИК №1103",
     "tikTvd": "23820001459326",
-    "tikName": "Нижнеудинская"
+    "tikName": "Нижнеудинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1104,
     "uikTvd": "4384006313403",
+    "uikName": "УИК №1104",
     "tikTvd": "23820001459326",
-    "tikName": "Нижнеудинская"
+    "tikName": "Нижнеудинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1105,
     "uikTvd": "4384006313404",
+    "uikName": "УИК №1105",
     "tikTvd": "23820001459326",
-    "tikName": "Нижнеудинская"
+    "tikName": "Нижнеудинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1106,
     "uikTvd": "4384006313405",
+    "uikName": "УИК №1106",
     "tikTvd": "23820001459326",
-    "tikName": "Нижнеудинская"
+    "tikName": "Нижнеудинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1107,
     "uikTvd": "4384006313406",
+    "uikName": "УИК №1107",
     "tikTvd": "23820001459326",
-    "tikName": "Нижнеудинская"
+    "tikName": "Нижнеудинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1108,
     "uikTvd": "4384006313407",
+    "uikName": "УИК №1108",
     "tikTvd": "23820001459326",
-    "tikName": "Нижнеудинская"
+    "tikName": "Нижнеудинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1109,
     "uikTvd": "4384006313408",
+    "uikName": "УИК №1109",
     "tikTvd": "23820001459326",
-    "tikName": "Нижнеудинская"
+    "tikName": "Нижнеудинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1110,
     "uikTvd": "4384006313409",
+    "uikName": "УИК №1110",
     "tikTvd": "23820001459326",
-    "tikName": "Нижнеудинская"
+    "tikName": "Нижнеудинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1111,
     "uikTvd": "4384006313410",
+    "uikName": "УИК №1111",
     "tikTvd": "23820001459326",
-    "tikName": "Нижнеудинская"
+    "tikName": "Нижнеудинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1112,
     "uikTvd": "4384006313411",
+    "uikName": "УИК №1112",
     "tikTvd": "23820001459326",
-    "tikName": "Нижнеудинская"
+    "tikName": "Нижнеудинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1113,
     "uikTvd": "4384006313412",
+    "uikName": "УИК №1113",
     "tikTvd": "23820001459326",
-    "tikName": "Нижнеудинская"
+    "tikName": "Нижнеудинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1114,
     "uikTvd": "4384006313413",
+    "uikName": "УИК №1114",
     "tikTvd": "23820001459326",
-    "tikName": "Нижнеудинская"
+    "tikName": "Нижнеудинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1115,
     "uikTvd": "4384006313414",
+    "uikName": "УИК №1115",
     "tikTvd": "23820001459326",
-    "tikName": "Нижнеудинская"
+    "tikName": "Нижнеудинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1116,
     "uikTvd": "4384006313415",
+    "uikName": "УИК №1116",
     "tikTvd": "23820001459326",
-    "tikName": "Нижнеудинская"
+    "tikName": "Нижнеудинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1117,
     "uikTvd": "4384006313416",
+    "uikName": "УИК №1117",
     "tikTvd": "23820001459326",
-    "tikName": "Нижнеудинская"
+    "tikName": "Нижнеудинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1118,
     "uikTvd": "4384006313417",
+    "uikName": "УИК №1118",
     "tikTvd": "23820001459326",
-    "tikName": "Нижнеудинская"
+    "tikName": "Нижнеудинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1119,
     "uikTvd": "4384006313418",
+    "uikName": "УИК №1119",
     "tikTvd": "23820001459326",
-    "tikName": "Нижнеудинская"
+    "tikName": "Нижнеудинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1120,
     "uikTvd": "4384006313419",
+    "uikName": "УИК №1120",
     "tikTvd": "23820001459326",
-    "tikName": "Нижнеудинская"
+    "tikName": "Нижнеудинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1121,
     "uikTvd": "4384006313420",
+    "uikName": "УИК №1121",
     "tikTvd": "23820001459326",
-    "tikName": "Нижнеудинская"
+    "tikName": "Нижнеудинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1122,
     "uikTvd": "4384006313421",
+    "uikName": "УИК №1122",
     "tikTvd": "23820001459326",
-    "tikName": "Нижнеудинская"
+    "tikName": "Нижнеудинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1123,
     "uikTvd": "4384006313422",
+    "uikName": "УИК №1123",
     "tikTvd": "23820001459326",
-    "tikName": "Нижнеудинская"
+    "tikName": "Нижнеудинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1124,
     "uikTvd": "4384006313423",
+    "uikName": "УИК №1124",
     "tikTvd": "23820001459326",
-    "tikName": "Нижнеудинская"
+    "tikName": "Нижнеудинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1125,
     "uikTvd": "4384006313424",
+    "uikName": "УИК №1125",
     "tikTvd": "23820001459326",
-    "tikName": "Нижнеудинская"
+    "tikName": "Нижнеудинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1126,
     "uikTvd": "4384006313425",
+    "uikName": "УИК №1126",
     "tikTvd": "23820001459326",
-    "tikName": "Нижнеудинская"
+    "tikName": "Нижнеудинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1127,
     "uikTvd": "4384006313426",
+    "uikName": "УИК №1127",
     "tikTvd": "23820001459326",
-    "tikName": "Нижнеудинская"
+    "tikName": "Нижнеудинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1128,
     "uikTvd": "4384006313427",
+    "uikName": "УИК №1128",
     "tikTvd": "23820001459326",
-    "tikName": "Нижнеудинская"
+    "tikName": "Нижнеудинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1129,
     "uikTvd": "4384006313428",
+    "uikName": "УИК №1129",
     "tikTvd": "23820001459326",
-    "tikName": "Нижнеудинская"
+    "tikName": "Нижнеудинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1130,
     "uikTvd": "4384006313429",
+    "uikName": "УИК №1130",
     "tikTvd": "23820001459326",
-    "tikName": "Нижнеудинская"
+    "tikName": "Нижнеудинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1131,
     "uikTvd": "4384006313430",
+    "uikName": "УИК №1131",
     "tikTvd": "23820001459326",
-    "tikName": "Нижнеудинская"
+    "tikName": "Нижнеудинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1132,
     "uikTvd": "4384006313431",
+    "uikName": "УИК №1132",
     "tikTvd": "23820001459326",
-    "tikName": "Нижнеудинская"
+    "tikName": "Нижнеудинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1133,
     "uikTvd": "4384006313432",
+    "uikName": "УИК №1133",
     "tikTvd": "23820001459326",
-    "tikName": "Нижнеудинская"
+    "tikName": "Нижнеудинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1134,
     "uikTvd": "4384006313433",
+    "uikName": "УИК №1134",
     "tikTvd": "23820001459326",
-    "tikName": "Нижнеудинская"
+    "tikName": "Нижнеудинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1135,
     "uikTvd": "4384006313434",
+    "uikName": "УИК №1135",
     "tikTvd": "23820001459326",
-    "tikName": "Нижнеудинская"
+    "tikName": "Нижнеудинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1136,
     "uikTvd": "4384006313435",
+    "uikName": "УИК №1136",
     "tikTvd": "23820001459326",
-    "tikName": "Нижнеудинская"
+    "tikName": "Нижнеудинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1137,
     "uikTvd": "4384006313436",
+    "uikName": "УИК №1137",
     "tikTvd": "23820001459326",
-    "tikName": "Нижнеудинская"
+    "tikName": "Нижнеудинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1138,
     "uikTvd": "4384006313437",
+    "uikName": "УИК №1138",
     "tikTvd": "23820001459326",
-    "tikName": "Нижнеудинская"
+    "tikName": "Нижнеудинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1139,
     "uikTvd": "4384006313438",
+    "uikName": "УИК №1139",
     "tikTvd": "23820001459326",
-    "tikName": "Нижнеудинская"
+    "tikName": "Нижнеудинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1140,
     "uikTvd": "4384006313439",
+    "uikName": "УИК №1140",
     "tikTvd": "23820001459326",
-    "tikName": "Нижнеудинская"
+    "tikName": "Нижнеудинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1141,
     "uikTvd": "4384006313440",
+    "uikName": "УИК №1141",
     "tikTvd": "23820001459326",
-    "tikName": "Нижнеудинская"
+    "tikName": "Нижнеудинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1142,
     "uikTvd": "4384006313441",
+    "uikName": "УИК №1142",
     "tikTvd": "23820001459326",
-    "tikName": "Нижнеудинская"
+    "tikName": "Нижнеудинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1143,
     "uikTvd": "4384006313442",
+    "uikName": "УИК №1143",
     "tikTvd": "23820001459326",
-    "tikName": "Нижнеудинская"
+    "tikName": "Нижнеудинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1144,
     "uikTvd": "4384006313443",
+    "uikName": "УИК №1144",
     "tikTvd": "23820001459326",
-    "tikName": "Нижнеудинская"
+    "tikName": "Нижнеудинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1145,
     "uikTvd": "4384006313444",
+    "uikName": "УИК №1145",
     "tikTvd": "23820001459326",
-    "tikName": "Нижнеудинская"
+    "tikName": "Нижнеудинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1146,
     "uikTvd": "4384006313445",
+    "uikName": "УИК №1146",
     "tikTvd": "23820001459326",
-    "tikName": "Нижнеудинская"
+    "tikName": "Нижнеудинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1147,
     "uikTvd": "4384006313446",
+    "uikName": "УИК №1147",
     "tikTvd": "23820001459326",
-    "tikName": "Нижнеудинская"
+    "tikName": "Нижнеудинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1148,
     "uikTvd": "4384006313447",
+    "uikName": "УИК №1148",
     "tikTvd": "23820001459326",
-    "tikName": "Нижнеудинская"
+    "tikName": "Нижнеудинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1149,
     "uikTvd": "4384006313448",
+    "uikName": "УИК №1149",
     "tikTvd": "23820001459326",
-    "tikName": "Нижнеудинская"
+    "tikName": "Нижнеудинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1150,
     "uikTvd": "4384006313449",
+    "uikName": "УИК №1150",
     "tikTvd": "23820001459326",
-    "tikName": "Нижнеудинская"
+    "tikName": "Нижнеудинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1151,
     "uikTvd": "4384006313450",
+    "uikName": "УИК №1151",
     "tikTvd": "23820001459326",
-    "tikName": "Нижнеудинская"
+    "tikName": "Нижнеудинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1152,
     "uikTvd": "4384006313451",
+    "uikName": "УИК №1152",
     "tikTvd": "23820001459326",
-    "tikName": "Нижнеудинская"
+    "tikName": "Нижнеудинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1153,
     "uikTvd": "4384006313452",
+    "uikName": "УИК №1153",
     "tikTvd": "23820001459326",
-    "tikName": "Нижнеудинская"
+    "tikName": "Нижнеудинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1154,
     "uikTvd": "4384006313453",
+    "uikName": "УИК №1154",
     "tikTvd": "23820001459326",
-    "tikName": "Нижнеудинская"
+    "tikName": "Нижнеудинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1155,
     "uikTvd": "4854004146499",
+    "uikName": "УИК №1155",
     "tikTvd": "4384001346415",
-    "tikName": "Нукутская"
+    "tikName": "Нукутская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 1156,
     "uikTvd": "4854004146500",
+    "uikName": "УИК №1156",
     "tikTvd": "4384001346415",
-    "tikName": "Нукутская"
+    "tikName": "Нукутская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 1157,
     "uikTvd": "4854004146501",
+    "uikName": "УИК №1157",
     "tikTvd": "4384001346415",
-    "tikName": "Нукутская"
+    "tikName": "Нукутская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 1158,
     "uikTvd": "4854004146502",
+    "uikName": "УИК №1158",
     "tikTvd": "4384001346415",
-    "tikName": "Нукутская"
+    "tikName": "Нукутская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 1159,
     "uikTvd": "4854004146503",
+    "uikName": "УИК №1159",
     "tikTvd": "4384001346415",
-    "tikName": "Нукутская"
+    "tikName": "Нукутская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 1160,
     "uikTvd": "4854004146504",
+    "uikName": "УИК №1160",
     "tikTvd": "4384001346415",
-    "tikName": "Нукутская"
+    "tikName": "Нукутская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 1161,
     "uikTvd": "4854004146505",
+    "uikName": "УИК №1161",
     "tikTvd": "4384001346415",
-    "tikName": "Нукутская"
+    "tikName": "Нукутская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 1162,
     "uikTvd": "4854004146506",
+    "uikName": "УИК №1162",
     "tikTvd": "4384001346415",
-    "tikName": "Нукутская"
+    "tikName": "Нукутская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 1163,
     "uikTvd": "4854004146507",
+    "uikName": "УИК №1163",
     "tikTvd": "4384001346415",
-    "tikName": "Нукутская"
+    "tikName": "Нукутская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 1164,
     "uikTvd": "4854004146508",
+    "uikName": "УИК №1164",
     "tikTvd": "4384001346415",
-    "tikName": "Нукутская"
+    "tikName": "Нукутская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 1165,
     "uikTvd": "4854004146509",
+    "uikName": "УИК №1165",
     "tikTvd": "4384001346415",
-    "tikName": "Нукутская"
+    "tikName": "Нукутская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 1166,
     "uikTvd": "4854004146510",
+    "uikName": "УИК №1166",
     "tikTvd": "4384001346415",
-    "tikName": "Нукутская"
+    "tikName": "Нукутская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 1167,
     "uikTvd": "4854004146511",
+    "uikName": "УИК №1167",
     "tikTvd": "4384001346415",
-    "tikName": "Нукутская"
+    "tikName": "Нукутская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 1168,
     "uikTvd": "4854004146512",
+    "uikName": "УИК №1168",
     "tikTvd": "4384001346415",
-    "tikName": "Нукутская"
+    "tikName": "Нукутская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 1169,
     "uikTvd": "4854004146513",
+    "uikName": "УИК №1169",
     "tikTvd": "4384001346415",
-    "tikName": "Нукутская"
+    "tikName": "Нукутская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 1170,
     "uikTvd": "4854004146514",
+    "uikName": "УИК №1170",
     "tikTvd": "4384001346415",
-    "tikName": "Нукутская"
+    "tikName": "Нукутская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 1171,
     "uikTvd": "4854004146515",
+    "uikName": "УИК №1171",
     "tikTvd": "4384001346415",
-    "tikName": "Нукутская"
+    "tikName": "Нукутская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 1172,
     "uikTvd": "4854004146516",
+    "uikName": "УИК №1172",
     "tikTvd": "4384001346415",
-    "tikName": "Нукутская"
+    "tikName": "Нукутская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 1173,
     "uikTvd": "4854004146517",
+    "uikName": "УИК №1173",
     "tikTvd": "4384001346415",
-    "tikName": "Нукутская"
+    "tikName": "Нукутская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 1174,
     "uikTvd": "4854004146518",
+    "uikName": "УИК №1174",
     "tikTvd": "4384001346415",
-    "tikName": "Нукутская"
+    "tikName": "Нукутская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 1175,
     "uikTvd": "4854004146519",
+    "uikName": "УИК №1175",
     "tikTvd": "4384001346415",
-    "tikName": "Нукутская"
+    "tikName": "Нукутская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 1176,
     "uikTvd": "4854004146520",
+    "uikName": "УИК №1176",
     "tikTvd": "4384001346415",
-    "tikName": "Нукутская"
+    "tikName": "Нукутская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 1177,
     "uikTvd": "4854004146521",
+    "uikName": "УИК №1177",
     "tikTvd": "4384001346415",
-    "tikName": "Нукутская"
+    "tikName": "Нукутская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 1178,
     "uikTvd": "4854004146522",
+    "uikName": "УИК №1178",
     "tikTvd": "4384001346415",
-    "tikName": "Нукутская"
+    "tikName": "Нукутская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 1179,
     "uikTvd": "4854004146523",
+    "uikName": "УИК №1179",
     "tikTvd": "4384001346415",
-    "tikName": "Нукутская"
+    "tikName": "Нукутская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 1180,
     "uikTvd": "4854004146524",
+    "uikName": "УИК №1180",
     "tikTvd": "4384001346415",
-    "tikName": "Нукутская"
+    "tikName": "Нукутская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 1181,
     "uikTvd": "4854004146525",
+    "uikName": "УИК №1181",
     "tikTvd": "4384001346415",
-    "tikName": "Нукутская"
+    "tikName": "Нукутская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 1182,
     "uikTvd": "4854004146526",
+    "uikName": "УИК №1182",
     "tikTvd": "4384001346415",
-    "tikName": "Нукутская"
+    "tikName": "Нукутская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 1183,
     "uikTvd": "4854004146527",
+    "uikName": "УИК №1183",
     "tikTvd": "4384001346415",
-    "tikName": "Нукутская"
+    "tikName": "Нукутская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 1184,
     "uikTvd": "4854004146528",
+    "uikName": "УИК №1184",
     "tikTvd": "4384001346415",
-    "tikName": "Нукутская"
+    "tikName": "Нукутская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 1185,
     "uikTvd": "4854004146529",
+    "uikName": "УИК №1185",
     "tikTvd": "4384001346415",
-    "tikName": "Нукутская"
+    "tikName": "Нукутская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 1186,
     "uikTvd": "4854004146530",
+    "uikName": "УИК №1186",
     "tikTvd": "4384001346415",
-    "tikName": "Нукутская"
+    "tikName": "Нукутская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 1187,
     "uikTvd": "4854004146531",
+    "uikName": "УИК №1187",
     "tikTvd": "4384001346415",
-    "tikName": "Нукутская"
+    "tikName": "Нукутская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 1189,
     "uikTvd": "4384027166379",
+    "uikName": "УИК №1189",
     "tikTvd": "23820001459306",
-    "tikName": "Ольхонская"
+    "tikName": "Ольхонская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1190,
     "uikTvd": "4384027166380",
+    "uikName": "УИК №1190",
     "tikTvd": "23820001459306",
-    "tikName": "Ольхонская"
+    "tikName": "Ольхонская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1191,
     "uikTvd": "4384027166381",
+    "uikName": "УИК №1191",
     "tikTvd": "23820001459306",
-    "tikName": "Ольхонская"
+    "tikName": "Ольхонская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1192,
     "uikTvd": "4384027166382",
+    "uikName": "УИК №1192",
     "tikTvd": "23820001459306",
-    "tikName": "Ольхонская"
+    "tikName": "Ольхонская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1193,
     "uikTvd": "4384027166383",
+    "uikName": "УИК №1193",
     "tikTvd": "23820001459306",
-    "tikName": "Ольхонская"
+    "tikName": "Ольхонская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1194,
     "uikTvd": "4384027166384",
+    "uikName": "УИК №1194",
     "tikTvd": "23820001459306",
-    "tikName": "Ольхонская"
+    "tikName": "Ольхонская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1195,
     "uikTvd": "4384027166385",
+    "uikName": "УИК №1195",
     "tikTvd": "23820001459306",
-    "tikName": "Ольхонская"
+    "tikName": "Ольхонская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1196,
     "uikTvd": "4384027166386",
+    "uikName": "УИК №1196",
     "tikTvd": "23820001459306",
-    "tikName": "Ольхонская"
+    "tikName": "Ольхонская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1197,
     "uikTvd": "4384027166387",
+    "uikName": "УИК №1197",
     "tikTvd": "23820001459306",
-    "tikName": "Ольхонская"
+    "tikName": "Ольхонская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1198,
     "uikTvd": "4384027166388",
+    "uikName": "УИК №1198",
     "tikTvd": "23820001459306",
-    "tikName": "Ольхонская"
+    "tikName": "Ольхонская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1199,
     "uikTvd": "4384027166389",
+    "uikName": "УИК №1199",
     "tikTvd": "23820001459306",
-    "tikName": "Ольхонская"
+    "tikName": "Ольхонская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1200,
     "uikTvd": "4384027166390",
+    "uikName": "УИК №1200",
     "tikTvd": "23820001459306",
-    "tikName": "Ольхонская"
+    "tikName": "Ольхонская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1201,
     "uikTvd": "4384027166391",
+    "uikName": "УИК №1201",
     "tikTvd": "23820001459306",
-    "tikName": "Ольхонская"
+    "tikName": "Ольхонская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1202,
     "uikTvd": "4384027166392",
+    "uikName": "УИК №1202",
     "tikTvd": "23820001459306",
-    "tikName": "Ольхонская"
+    "tikName": "Ольхонская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1203,
     "uikTvd": "4384027166393",
+    "uikName": "УИК №1203",
     "tikTvd": "23820001459306",
-    "tikName": "Ольхонская"
+    "tikName": "Ольхонская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1204,
     "uikTvd": "4384027166394",
+    "uikName": "УИК №1204",
     "tikTvd": "23820001459306",
-    "tikName": "Ольхонская"
+    "tikName": "Ольхонская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1205,
     "uikTvd": "4384027166395",
+    "uikName": "УИК №1205",
     "tikTvd": "23820001459306",
-    "tikName": "Ольхонская"
+    "tikName": "Ольхонская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1206,
     "uikTvd": "4384027166396",
+    "uikName": "УИК №1206",
     "tikTvd": "23820001459306",
-    "tikName": "Ольхонская"
+    "tikName": "Ольхонская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1207,
     "uikTvd": "4384027166397",
+    "uikName": "УИК №1207",
     "tikTvd": "23820001459306",
-    "tikName": "Ольхонская"
+    "tikName": "Ольхонская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1208,
     "uikTvd": "4384027166398",
+    "uikName": "УИК №1208",
     "tikTvd": "23820001459306",
-    "tikName": "Ольхонская"
+    "tikName": "Ольхонская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1210,
     "uikTvd": "4384027166399",
+    "uikName": "УИК №1210",
     "tikTvd": "23820001459306",
-    "tikName": "Ольхонская"
+    "tikName": "Ольхонская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1211,
     "uikTvd": "4384027166400",
+    "uikName": "УИК №1211",
     "tikTvd": "23820001459306",
-    "tikName": "Ольхонская"
+    "tikName": "Ольхонская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1212,
     "uikTvd": "4384027166401",
+    "uikName": "УИК №1212",
     "tikTvd": "23820001459306",
-    "tikName": "Ольхонская"
+    "tikName": "Ольхонская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1213,
     "uikTvd": "4384027166402",
+    "uikName": "УИК №1213",
     "tikTvd": "23820001459306",
-    "tikName": "Ольхонская"
+    "tikName": "Ольхонская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1214,
     "uikTvd": "4384027166403",
+    "uikName": "УИК №1214",
     "tikTvd": "23820001459306",
-    "tikName": "Ольхонская"
+    "tikName": "Ольхонская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1215,
     "uikTvd": "4854005158785",
+    "uikName": "УИК №1215",
     "tikTvd": "23820001459305",
-    "tikName": "Осинская"
+    "tikName": "Осинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1216,
     "uikTvd": "4854005158786",
+    "uikName": "УИК №1216",
     "tikTvd": "23820001459305",
-    "tikName": "Осинская"
+    "tikName": "Осинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1217,
     "uikTvd": "4854005158787",
+    "uikName": "УИК №1217",
     "tikTvd": "23820001459305",
-    "tikName": "Осинская"
+    "tikName": "Осинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1218,
     "uikTvd": "4854005158788",
+    "uikName": "УИК №1218",
     "tikTvd": "23820001459305",
-    "tikName": "Осинская"
+    "tikName": "Осинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1219,
     "uikTvd": "4854005158789",
+    "uikName": "УИК №1219",
     "tikTvd": "23820001459305",
-    "tikName": "Осинская"
+    "tikName": "Осинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1220,
     "uikTvd": "4854005158790",
+    "uikName": "УИК №1220",
     "tikTvd": "23820001459305",
-    "tikName": "Осинская"
+    "tikName": "Осинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1221,
     "uikTvd": "4854005158791",
+    "uikName": "УИК №1221",
     "tikTvd": "23820001459305",
-    "tikName": "Осинская"
+    "tikName": "Осинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1222,
     "uikTvd": "4854005158792",
+    "uikName": "УИК №1222",
     "tikTvd": "23820001459305",
-    "tikName": "Осинская"
+    "tikName": "Осинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1223,
     "uikTvd": "4854005158793",
+    "uikName": "УИК №1223",
     "tikTvd": "23820001459305",
-    "tikName": "Осинская"
+    "tikName": "Осинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1224,
     "uikTvd": "4854005158794",
+    "uikName": "УИК №1224",
     "tikTvd": "23820001459305",
-    "tikName": "Осинская"
+    "tikName": "Осинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1225,
     "uikTvd": "4854005158795",
+    "uikName": "УИК №1225",
     "tikTvd": "23820001459305",
-    "tikName": "Осинская"
+    "tikName": "Осинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1226,
     "uikTvd": "4854005158796",
+    "uikName": "УИК №1226",
     "tikTvd": "23820001459305",
-    "tikName": "Осинская"
+    "tikName": "Осинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1227,
     "uikTvd": "4854005158797",
+    "uikName": "УИК №1227",
     "tikTvd": "23820001459305",
-    "tikName": "Осинская"
+    "tikName": "Осинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1228,
     "uikTvd": "4854005158798",
+    "uikName": "УИК №1228",
     "tikTvd": "23820001459305",
-    "tikName": "Осинская"
+    "tikName": "Осинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1229,
     "uikTvd": "4854005158799",
+    "uikName": "УИК №1229",
     "tikTvd": "23820001459305",
-    "tikName": "Осинская"
+    "tikName": "Осинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1230,
     "uikTvd": "4854005158800",
+    "uikName": "УИК №1230",
     "tikTvd": "23820001459305",
-    "tikName": "Осинская"
+    "tikName": "Осинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1231,
     "uikTvd": "4854005158801",
+    "uikName": "УИК №1231",
     "tikTvd": "23820001459305",
-    "tikName": "Осинская"
+    "tikName": "Осинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1232,
     "uikTvd": "4854005158802",
+    "uikName": "УИК №1232",
     "tikTvd": "23820001459305",
-    "tikName": "Осинская"
+    "tikName": "Осинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1233,
     "uikTvd": "4854005158803",
+    "uikName": "УИК №1233",
     "tikTvd": "23820001459305",
-    "tikName": "Осинская"
+    "tikName": "Осинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1234,
     "uikTvd": "4854005158804",
+    "uikName": "УИК №1234",
     "tikTvd": "23820001459305",
-    "tikName": "Осинская"
+    "tikName": "Осинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1235,
     "uikTvd": "4854005158805",
+    "uikName": "УИК №1235",
     "tikTvd": "23820001459305",
-    "tikName": "Осинская"
+    "tikName": "Осинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1236,
     "uikTvd": "4854005158806",
+    "uikName": "УИК №1236",
     "tikTvd": "23820001459305",
-    "tikName": "Осинская"
+    "tikName": "Осинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1237,
     "uikTvd": "4854005158807",
+    "uikName": "УИК №1237",
     "tikTvd": "23820001459305",
-    "tikName": "Осинская"
+    "tikName": "Осинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1238,
     "uikTvd": "4854005158808",
+    "uikName": "УИК №1238",
     "tikTvd": "23820001459305",
-    "tikName": "Осинская"
+    "tikName": "Осинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1239,
     "uikTvd": "4854005158809",
+    "uikName": "УИК №1239",
     "tikTvd": "23820001459305",
-    "tikName": "Осинская"
+    "tikName": "Осинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1240,
     "uikTvd": "4854005158810",
+    "uikName": "УИК №1240",
     "tikTvd": "23820001459305",
-    "tikName": "Осинская"
+    "tikName": "Осинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1241,
     "uikTvd": "4854005158811",
+    "uikName": "УИК №1241",
     "tikTvd": "23820001459305",
-    "tikName": "Осинская"
+    "tikName": "Осинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1242,
     "uikTvd": "4854005158812",
+    "uikName": "УИК №1242",
     "tikTvd": "23820001459305",
-    "tikName": "Осинская"
+    "tikName": "Осинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1243,
     "uikTvd": "4854005158813",
+    "uikName": "УИК №1243",
     "tikTvd": "23820001459305",
-    "tikName": "Осинская"
+    "tikName": "Осинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1244,
     "uikTvd": "4854005158814",
+    "uikName": "УИК №1244",
     "tikTvd": "23820001459305",
-    "tikName": "Осинская"
+    "tikName": "Осинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1245,
     "uikTvd": "4854005158815",
+    "uikName": "УИК №1245",
     "tikTvd": "23820001459305",
-    "tikName": "Осинская"
+    "tikName": "Осинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1246,
     "uikTvd": "4384028176436",
+    "uikName": "УИК №1246",
     "tikTvd": "23820001459304",
-    "tikName": "Саянская"
+    "tikName": "Саянская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1247,
     "uikTvd": "4384028176437",
+    "uikName": "УИК №1247",
     "tikTvd": "23820001459304",
-    "tikName": "Саянская"
+    "tikName": "Саянская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1248,
     "uikTvd": "4384028176438",
+    "uikName": "УИК №1248",
     "tikTvd": "23820001459304",
-    "tikName": "Саянская"
+    "tikName": "Саянская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1249,
     "uikTvd": "4384028176439",
+    "uikName": "УИК №1249",
     "tikTvd": "23820001459304",
-    "tikName": "Саянская"
+    "tikName": "Саянская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1250,
     "uikTvd": "4384028176440",
+    "uikName": "УИК №1250",
     "tikTvd": "23820001459304",
-    "tikName": "Саянская"
+    "tikName": "Саянская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1251,
     "uikTvd": "4384028176441",
+    "uikName": "УИК №1251",
     "tikTvd": "23820001459304",
-    "tikName": "Саянская"
+    "tikName": "Саянская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1252,
     "uikTvd": "4384028176442",
+    "uikName": "УИК №1252",
     "tikTvd": "23820001459304",
-    "tikName": "Саянская"
+    "tikName": "Саянская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1253,
     "uikTvd": "4384028176443",
+    "uikName": "УИК №1253",
     "tikTvd": "23820001459304",
-    "tikName": "Саянская"
+    "tikName": "Саянская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1254,
     "uikTvd": "4384028176444",
+    "uikName": "УИК №1254",
     "tikTvd": "23820001459304",
-    "tikName": "Саянская"
+    "tikName": "Саянская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1255,
     "uikTvd": "4384028176445",
+    "uikName": "УИК №1255",
     "tikTvd": "23820001459304",
-    "tikName": "Саянская"
+    "tikName": "Саянская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1256,
     "uikTvd": "4384028176446",
+    "uikName": "УИК №1256",
     "tikTvd": "23820001459304",
-    "tikName": "Саянская"
+    "tikName": "Саянская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1257,
     "uikTvd": "4384028176447",
+    "uikName": "УИК №1257",
     "tikTvd": "23820001459304",
-    "tikName": "Саянская"
+    "tikName": "Саянская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1258,
     "uikTvd": "4384028176448",
+    "uikName": "УИК №1258",
     "tikTvd": "23820001459304",
-    "tikName": "Саянская"
+    "tikName": "Саянская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1259,
     "uikTvd": "4384028176449",
+    "uikName": "УИК №1259",
     "tikTvd": "23820001459304",
-    "tikName": "Саянская"
+    "tikName": "Саянская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1260,
     "uikTvd": "4384028176450",
+    "uikName": "УИК №1260",
     "tikTvd": "23820001459304",
-    "tikName": "Саянская"
+    "tikName": "Саянская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1261,
     "uikTvd": "4384028176451",
+    "uikName": "УИК №1261",
     "tikTvd": "23820001459304",
-    "tikName": "Саянская"
+    "tikName": "Саянская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1262,
     "uikTvd": "4384028176452",
+    "uikName": "УИК №1262",
     "tikTvd": "23820001459304",
-    "tikName": "Саянская"
+    "tikName": "Саянская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1263,
     "uikTvd": "4384028176453",
+    "uikName": "УИК №1263",
     "tikTvd": "23820001459304",
-    "tikName": "Саянская"
+    "tikName": "Саянская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1264,
     "uikTvd": "4384028176454",
+    "uikName": "УИК №1264",
     "tikTvd": "23820001459304",
-    "tikName": "Саянская"
+    "tikName": "Саянская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1265,
     "uikTvd": "4384028176455",
+    "uikName": "УИК №1265",
     "tikTvd": "23820001459304",
-    "tikName": "Саянская"
+    "tikName": "Саянская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1266,
     "uikTvd": "4384028176456",
+    "uikName": "УИК №1266",
     "tikTvd": "23820001459304",
-    "tikName": "Саянская"
+    "tikName": "Саянская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1267,
     "uikTvd": "4384028176457",
+    "uikName": "УИК №1267",
     "tikTvd": "23820001459304",
-    "tikName": "Саянская"
+    "tikName": "Саянская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1269,
     "uikTvd": "4384044126758",
+    "uikName": "УИК №1269",
     "tikTvd": "4384001346416",
-    "tikName": "Свирская"
+    "tikName": "Свирская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 1270,
     "uikTvd": "4384044126759",
+    "uikName": "УИК №1270",
     "tikTvd": "4384001346416",
-    "tikName": "Свирская"
+    "tikName": "Свирская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 1271,
     "uikTvd": "4384044126760",
+    "uikName": "УИК №1271",
     "tikTvd": "4384001346416",
-    "tikName": "Свирская"
+    "tikName": "Свирская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 1272,
     "uikTvd": "4384044126761",
+    "uikName": "УИК №1272",
     "tikTvd": "4384001346416",
-    "tikName": "Свирская"
+    "tikName": "Свирская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 1273,
     "uikTvd": "4384044126762",
+    "uikName": "УИК №1273",
     "tikTvd": "4384001346416",
-    "tikName": "Свирская"
+    "tikName": "Свирская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 1274,
     "uikTvd": "4384044126763",
+    "uikName": "УИК №1274",
     "tikTvd": "4384001346416",
-    "tikName": "Свирская"
+    "tikName": "Свирская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 1275,
     "uikTvd": "4384044126764",
+    "uikName": "УИК №1275",
     "tikTvd": "4384001346416",
-    "tikName": "Свирская"
+    "tikName": "Свирская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 1276,
     "uikTvd": "4384044126765",
+    "uikName": "УИК №1276",
     "tikTvd": "4384001346416",
-    "tikName": "Свирская"
+    "tikName": "Свирская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 1277,
     "uikTvd": "4384044126766",
+    "uikName": "УИК №1277",
     "tikTvd": "4384001346416",
-    "tikName": "Свирская"
+    "tikName": "Свирская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 1278,
     "uikTvd": "4384044126767",
+    "uikName": "УИК №1278",
     "tikTvd": "4384001346416",
-    "tikName": "Свирская"
+    "tikName": "Свирская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 1279,
     "uikTvd": "4384044126768",
+    "uikName": "УИК №1279",
     "tikTvd": "4384001346416",
-    "tikName": "Свирская"
+    "tikName": "Свирская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 1280,
     "uikTvd": "4384044126769",
+    "uikName": "УИК №1280",
     "tikTvd": "4384001346416",
-    "tikName": "Свирская"
+    "tikName": "Свирская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 1281,
     "uikTvd": "4384044126770",
+    "uikName": "УИК №1281",
     "tikTvd": "4384001346416",
-    "tikName": "Свирская"
+    "tikName": "Свирская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 1282,
     "uikTvd": "4384044126771",
+    "uikName": "УИК №1282",
     "tikTvd": "4384001346416",
-    "tikName": "Свирская"
+    "tikName": "Свирская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 1283,
     "uikTvd": "4384044126772",
+    "uikName": "УИК №1283",
     "tikTvd": "4384001346416",
-    "tikName": "Свирская"
+    "tikName": "Свирская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 1284,
     "uikTvd": "4384044126773",
+    "uikName": "УИК №1284",
     "tikTvd": "4384001346416",
-    "tikName": "Свирская"
+    "tikName": "Свирская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 1285,
     "uikTvd": "4384029200553",
+    "uikName": "УИК №1285",
     "tikTvd": "23820001459303",
-    "tikName": "Слюдянская"
+    "tikName": "Слюдянская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1286,
     "uikTvd": "4384029200554",
+    "uikName": "УИК №1286",
     "tikTvd": "23820001459303",
-    "tikName": "Слюдянская"
+    "tikName": "Слюдянская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1287,
     "uikTvd": "4384029200555",
+    "uikName": "УИК №1287",
     "tikTvd": "23820001459303",
-    "tikName": "Слюдянская"
+    "tikName": "Слюдянская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1288,
     "uikTvd": "4384029200556",
+    "uikName": "УИК №1288",
     "tikTvd": "23820001459303",
-    "tikName": "Слюдянская"
+    "tikName": "Слюдянская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1289,
     "uikTvd": "4384029200557",
+    "uikName": "УИК №1289",
     "tikTvd": "23820001459303",
-    "tikName": "Слюдянская"
+    "tikName": "Слюдянская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1290,
     "uikTvd": "4384029200558",
+    "uikName": "УИК №1290",
     "tikTvd": "23820001459303",
-    "tikName": "Слюдянская"
+    "tikName": "Слюдянская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1291,
     "uikTvd": "4384029200559",
+    "uikName": "УИК №1291",
     "tikTvd": "23820001459303",
-    "tikName": "Слюдянская"
+    "tikName": "Слюдянская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1292,
     "uikTvd": "4384029200560",
+    "uikName": "УИК №1292",
     "tikTvd": "23820001459303",
-    "tikName": "Слюдянская"
+    "tikName": "Слюдянская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1293,
     "uikTvd": "4384029200561",
+    "uikName": "УИК №1293",
     "tikTvd": "23820001459303",
-    "tikName": "Слюдянская"
+    "tikName": "Слюдянская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1294,
     "uikTvd": "4384029200562",
+    "uikName": "УИК №1294",
     "tikTvd": "23820001459303",
-    "tikName": "Слюдянская"
+    "tikName": "Слюдянская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1295,
     "uikTvd": "4384029200563",
+    "uikName": "УИК №1295",
     "tikTvd": "23820001459303",
-    "tikName": "Слюдянская"
+    "tikName": "Слюдянская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1296,
     "uikTvd": "4384029200564",
+    "uikName": "УИК №1296",
     "tikTvd": "23820001459303",
-    "tikName": "Слюдянская"
+    "tikName": "Слюдянская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1297,
     "uikTvd": "4384029200565",
+    "uikName": "УИК №1297",
     "tikTvd": "23820001459303",
-    "tikName": "Слюдянская"
+    "tikName": "Слюдянская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1298,
     "uikTvd": "4384029200566",
+    "uikName": "УИК №1298",
     "tikTvd": "23820001459303",
-    "tikName": "Слюдянская"
+    "tikName": "Слюдянская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1299,
     "uikTvd": "4384029200567",
+    "uikName": "УИК №1299",
     "tikTvd": "23820001459303",
-    "tikName": "Слюдянская"
+    "tikName": "Слюдянская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1300,
     "uikTvd": "4384029200568",
+    "uikName": "УИК №1300",
     "tikTvd": "23820001459303",
-    "tikName": "Слюдянская"
+    "tikName": "Слюдянская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1301,
     "uikTvd": "4384029200569",
+    "uikName": "УИК №1301",
     "tikTvd": "23820001459303",
-    "tikName": "Слюдянская"
+    "tikName": "Слюдянская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1302,
     "uikTvd": "4384029200570",
+    "uikName": "УИК №1302",
     "tikTvd": "23820001459303",
-    "tikName": "Слюдянская"
+    "tikName": "Слюдянская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1303,
     "uikTvd": "4384029200571",
+    "uikName": "УИК №1303",
     "tikTvd": "23820001459303",
-    "tikName": "Слюдянская"
+    "tikName": "Слюдянская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1304,
     "uikTvd": "4384029200572",
+    "uikName": "УИК №1304",
     "tikTvd": "23820001459303",
-    "tikName": "Слюдянская"
+    "tikName": "Слюдянская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1305,
     "uikTvd": "4384029200573",
+    "uikName": "УИК №1305",
     "tikTvd": "23820001459303",
-    "tikName": "Слюдянская"
+    "tikName": "Слюдянская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1306,
     "uikTvd": "4384029200574",
+    "uikName": "УИК №1306",
     "tikTvd": "23820001459303",
-    "tikName": "Слюдянская"
+    "tikName": "Слюдянская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1307,
     "uikTvd": "4384029200575",
+    "uikName": "УИК №1307",
     "tikTvd": "23820001459303",
-    "tikName": "Слюдянская"
+    "tikName": "Слюдянская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1308,
     "uikTvd": "4384029200576",
+    "uikName": "УИК №1308",
     "tikTvd": "23820001459303",
-    "tikName": "Слюдянская"
+    "tikName": "Слюдянская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1309,
     "uikTvd": "4384029200577",
+    "uikName": "УИК №1309",
     "tikTvd": "23820001459303",
-    "tikName": "Слюдянская"
+    "tikName": "Слюдянская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1310,
     "uikTvd": "4384029200578",
+    "uikName": "УИК №1310",
     "tikTvd": "23820001459303",
-    "tikName": "Слюдянская"
+    "tikName": "Слюдянская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1311,
     "uikTvd": "4384029200579",
+    "uikName": "УИК №1311",
     "tikTvd": "23820001459303",
-    "tikName": "Слюдянская"
+    "tikName": "Слюдянская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1312,
     "uikTvd": "4384029200580",
+    "uikName": "УИК №1312",
     "tikTvd": "23820001459303",
-    "tikName": "Слюдянская"
+    "tikName": "Слюдянская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1313,
     "uikTvd": "4384004347715",
+    "uikName": "УИК №1313",
     "tikTvd": "23820001459325",
-    "tikName": "Тайшетская"
+    "tikName": "Тайшетская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1314,
     "uikTvd": "4384004347717",
+    "uikName": "УИК №1314",
     "tikTvd": "23820001459325",
-    "tikName": "Тайшетская"
+    "tikName": "Тайшетская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1315,
     "uikTvd": "4384004347719",
+    "uikName": "УИК №1315",
     "tikTvd": "23820001459325",
-    "tikName": "Тайшетская"
+    "tikName": "Тайшетская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1316,
     "uikTvd": "4384004347721",
+    "uikName": "УИК №1316",
     "tikTvd": "23820001459325",
-    "tikName": "Тайшетская"
+    "tikName": "Тайшетская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1317,
     "uikTvd": "4384004347723",
+    "uikName": "УИК №1317",
     "tikTvd": "23820001459325",
-    "tikName": "Тайшетская"
+    "tikName": "Тайшетская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1318,
     "uikTvd": "4384004347725",
+    "uikName": "УИК №1318",
     "tikTvd": "23820001459325",
-    "tikName": "Тайшетская"
+    "tikName": "Тайшетская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1319,
     "uikTvd": "4384004347727",
+    "uikName": "УИК №1319",
     "tikTvd": "23820001459325",
-    "tikName": "Тайшетская"
+    "tikName": "Тайшетская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1320,
     "uikTvd": "4384004347729",
+    "uikName": "УИК №1320",
     "tikTvd": "23820001459325",
-    "tikName": "Тайшетская"
+    "tikName": "Тайшетская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1321,
     "uikTvd": "4384004347731",
+    "uikName": "УИК №1321",
     "tikTvd": "23820001459325",
-    "tikName": "Тайшетская"
+    "tikName": "Тайшетская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1322,
     "uikTvd": "4384004347733",
+    "uikName": "УИК №1322",
     "tikTvd": "23820001459325",
-    "tikName": "Тайшетская"
+    "tikName": "Тайшетская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1323,
     "uikTvd": "4384004347735",
+    "uikName": "УИК №1323",
     "tikTvd": "23820001459325",
-    "tikName": "Тайшетская"
+    "tikName": "Тайшетская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1324,
     "uikTvd": "4384004347737",
+    "uikName": "УИК №1324",
     "tikTvd": "23820001459325",
-    "tikName": "Тайшетская"
+    "tikName": "Тайшетская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1325,
     "uikTvd": "4384004347739",
+    "uikName": "УИК №1325",
     "tikTvd": "23820001459325",
-    "tikName": "Тайшетская"
+    "tikName": "Тайшетская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1327,
     "uikTvd": "4384004347743",
+    "uikName": "УИК №1327",
     "tikTvd": "23820001459325",
-    "tikName": "Тайшетская"
+    "tikName": "Тайшетская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1328,
     "uikTvd": "4384004347745",
+    "uikName": "УИК №1328",
     "tikTvd": "23820001459325",
-    "tikName": "Тайшетская"
+    "tikName": "Тайшетская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1329,
     "uikTvd": "4384004347747",
+    "uikName": "УИК №1329",
     "tikTvd": "23820001459325",
-    "tikName": "Тайшетская"
+    "tikName": "Тайшетская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1330,
     "uikTvd": "4384004347749",
+    "uikName": "УИК №1330",
     "tikTvd": "23820001459325",
-    "tikName": "Тайшетская"
+    "tikName": "Тайшетская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1331,
     "uikTvd": "4384004347751",
+    "uikName": "УИК №1331",
     "tikTvd": "23820001459325",
-    "tikName": "Тайшетская"
+    "tikName": "Тайшетская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1332,
     "uikTvd": "4384004347753",
+    "uikName": "УИК №1332",
     "tikTvd": "23820001459325",
-    "tikName": "Тайшетская"
+    "tikName": "Тайшетская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1333,
     "uikTvd": "4384004347755",
+    "uikName": "УИК №1333",
     "tikTvd": "23820001459325",
-    "tikName": "Тайшетская"
+    "tikName": "Тайшетская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1334,
     "uikTvd": "4384004347757",
+    "uikName": "УИК №1334",
     "tikTvd": "23820001459325",
-    "tikName": "Тайшетская"
+    "tikName": "Тайшетская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1335,
     "uikTvd": "4384004347759",
+    "uikName": "УИК №1335",
     "tikTvd": "23820001459325",
-    "tikName": "Тайшетская"
+    "tikName": "Тайшетская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1336,
     "uikTvd": "4384004347761",
+    "uikName": "УИК №1336",
     "tikTvd": "23820001459325",
-    "tikName": "Тайшетская"
+    "tikName": "Тайшетская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1337,
     "uikTvd": "4384004347763",
+    "uikName": "УИК №1337",
     "tikTvd": "23820001459325",
-    "tikName": "Тайшетская"
+    "tikName": "Тайшетская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1338,
     "uikTvd": "4384004347765",
+    "uikName": "УИК №1338",
     "tikTvd": "23820001459325",
-    "tikName": "Тайшетская"
+    "tikName": "Тайшетская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1339,
     "uikTvd": "4384004347767",
+    "uikName": "УИК №1339",
     "tikTvd": "23820001459325",
-    "tikName": "Тайшетская"
+    "tikName": "Тайшетская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1340,
     "uikTvd": "4384004347769",
+    "uikName": "УИК №1340",
     "tikTvd": "23820001459325",
-    "tikName": "Тайшетская"
+    "tikName": "Тайшетская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1341,
     "uikTvd": "4384004347771",
+    "uikName": "УИК №1341",
     "tikTvd": "23820001459325",
-    "tikName": "Тайшетская"
+    "tikName": "Тайшетская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1342,
     "uikTvd": "4384004347773",
+    "uikName": "УИК №1342",
     "tikTvd": "23820001459325",
-    "tikName": "Тайшетская"
+    "tikName": "Тайшетская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1343,
     "uikTvd": "4384004347775",
+    "uikName": "УИК №1343",
     "tikTvd": "23820001459325",
-    "tikName": "Тайшетская"
+    "tikName": "Тайшетская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1344,
     "uikTvd": "4384004347777",
+    "uikName": "УИК №1344",
     "tikTvd": "23820001459325",
-    "tikName": "Тайшетская"
+    "tikName": "Тайшетская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1345,
     "uikTvd": "4384004347779",
+    "uikName": "УИК №1345",
     "tikTvd": "23820001459325",
-    "tikName": "Тайшетская"
+    "tikName": "Тайшетская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1346,
     "uikTvd": "4384004347781",
+    "uikName": "УИК №1346",
     "tikTvd": "23820001459325",
-    "tikName": "Тайшетская"
+    "tikName": "Тайшетская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1347,
     "uikTvd": "4384004347783",
+    "uikName": "УИК №1347",
     "tikTvd": "23820001459325",
-    "tikName": "Тайшетская"
+    "tikName": "Тайшетская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1348,
     "uikTvd": "4384004347785",
+    "uikName": "УИК №1348",
     "tikTvd": "23820001459325",
-    "tikName": "Тайшетская"
+    "tikName": "Тайшетская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1349,
     "uikTvd": "4384004347787",
+    "uikName": "УИК №1349",
     "tikTvd": "23820001459325",
-    "tikName": "Тайшетская"
+    "tikName": "Тайшетская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1350,
     "uikTvd": "4384004347789",
+    "uikName": "УИК №1350",
     "tikTvd": "23820001459325",
-    "tikName": "Тайшетская"
+    "tikName": "Тайшетская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1351,
     "uikTvd": "4384004347791",
+    "uikName": "УИК №1351",
     "tikTvd": "23820001459325",
-    "tikName": "Тайшетская"
+    "tikName": "Тайшетская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1352,
     "uikTvd": "4384004347793",
+    "uikName": "УИК №1352",
     "tikTvd": "23820001459325",
-    "tikName": "Тайшетская"
+    "tikName": "Тайшетская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1353,
     "uikTvd": "4384004347795",
+    "uikName": "УИК №1353",
     "tikTvd": "23820001459325",
-    "tikName": "Тайшетская"
+    "tikName": "Тайшетская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1354,
     "uikTvd": "4384004347797",
+    "uikName": "УИК №1354",
     "tikTvd": "23820001459325",
-    "tikName": "Тайшетская"
+    "tikName": "Тайшетская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1355,
     "uikTvd": "4384004347799",
+    "uikName": "УИК №1355",
     "tikTvd": "23820001459325",
-    "tikName": "Тайшетская"
+    "tikName": "Тайшетская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1356,
     "uikTvd": "4384004347801",
+    "uikName": "УИК №1356",
     "tikTvd": "23820001459325",
-    "tikName": "Тайшетская"
+    "tikName": "Тайшетская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1357,
     "uikTvd": "4384004347803",
+    "uikName": "УИК №1357",
     "tikTvd": "23820001459325",
-    "tikName": "Тайшетская"
+    "tikName": "Тайшетская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1358,
     "uikTvd": "4384004347805",
+    "uikName": "УИК №1358",
     "tikTvd": "23820001459325",
-    "tikName": "Тайшетская"
+    "tikName": "Тайшетская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1359,
     "uikTvd": "4384004347807",
+    "uikName": "УИК №1359",
     "tikTvd": "23820001459325",
-    "tikName": "Тайшетская"
+    "tikName": "Тайшетская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1360,
     "uikTvd": "4384004347809",
+    "uikName": "УИК №1360",
     "tikTvd": "23820001459325",
-    "tikName": "Тайшетская"
+    "tikName": "Тайшетская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1361,
     "uikTvd": "4384004347811",
+    "uikName": "УИК №1361",
     "tikTvd": "23820001459325",
-    "tikName": "Тайшетская"
+    "tikName": "Тайшетская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1362,
     "uikTvd": "4384004347813",
+    "uikName": "УИК №1362",
     "tikTvd": "23820001459325",
-    "tikName": "Тайшетская"
+    "tikName": "Тайшетская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1363,
     "uikTvd": "4384004347815",
+    "uikName": "УИК №1363",
     "tikTvd": "23820001459325",
-    "tikName": "Тайшетская"
+    "tikName": "Тайшетская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1364,
     "uikTvd": "4384004347817",
+    "uikName": "УИК №1364",
     "tikTvd": "23820001459325",
-    "tikName": "Тайшетская"
+    "tikName": "Тайшетская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1365,
     "uikTvd": "4384004347819",
+    "uikName": "УИК №1365",
     "tikTvd": "23820001459325",
-    "tikName": "Тайшетская"
+    "tikName": "Тайшетская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1366,
     "uikTvd": "4384004347821",
+    "uikName": "УИК №1366",
     "tikTvd": "23820001459325",
-    "tikName": "Тайшетская"
+    "tikName": "Тайшетская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1367,
     "uikTvd": "4384004347823",
+    "uikName": "УИК №1367",
     "tikTvd": "23820001459325",
-    "tikName": "Тайшетская"
+    "tikName": "Тайшетская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1368,
     "uikTvd": "4384004347825",
+    "uikName": "УИК №1368",
     "tikTvd": "23820001459325",
-    "tikName": "Тайшетская"
+    "tikName": "Тайшетская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1369,
     "uikTvd": "4384004347827",
+    "uikName": "УИК №1369",
     "tikTvd": "23820001459325",
-    "tikName": "Тайшетская"
+    "tikName": "Тайшетская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1370,
     "uikTvd": "4384004347829",
+    "uikName": "УИК №1370",
     "tikTvd": "23820001459325",
-    "tikName": "Тайшетская"
+    "tikName": "Тайшетская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1371,
     "uikTvd": "4384004347831",
+    "uikName": "УИК №1371",
     "tikTvd": "23820001459325",
-    "tikName": "Тайшетская"
+    "tikName": "Тайшетская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1372,
     "uikTvd": "4384004347833",
+    "uikName": "УИК №1372",
     "tikTvd": "23820001459325",
-    "tikName": "Тайшетская"
+    "tikName": "Тайшетская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1373,
     "uikTvd": "4384004347835",
+    "uikName": "УИК №1373",
     "tikTvd": "23820001459325",
-    "tikName": "Тайшетская"
+    "tikName": "Тайшетская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1374,
     "uikTvd": "4384004347837",
+    "uikName": "УИК №1374",
     "tikTvd": "23820001459325",
-    "tikName": "Тайшетская"
+    "tikName": "Тайшетская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1375,
     "uikTvd": "4384004347839",
+    "uikName": "УИК №1375",
     "tikTvd": "23820001459325",
-    "tikName": "Тайшетская"
+    "tikName": "Тайшетская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1376,
     "uikTvd": "4384004347841",
+    "uikName": "УИК №1376",
     "tikTvd": "23820001459325",
-    "tikName": "Тайшетская"
+    "tikName": "Тайшетская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1377,
     "uikTvd": "4384004347843",
+    "uikName": "УИК №1377",
     "tikTvd": "23820001459325",
-    "tikName": "Тайшетская"
+    "tikName": "Тайшетская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1378,
     "uikTvd": "4384004347845",
+    "uikName": "УИК №1378",
     "tikTvd": "23820001459325",
-    "tikName": "Тайшетская"
+    "tikName": "Тайшетская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1379,
     "uikTvd": "4384004347847",
+    "uikName": "УИК №1379",
     "tikTvd": "23820001459325",
-    "tikName": "Тайшетская"
+    "tikName": "Тайшетская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1380,
     "uikTvd": "4384004347849",
+    "uikName": "УИК №1380",
     "tikTvd": "23820001459325",
-    "tikName": "Тайшетская"
+    "tikName": "Тайшетская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1381,
     "uikTvd": "4384004347851",
+    "uikName": "УИК №1381",
     "tikTvd": "23820001459325",
-    "tikName": "Тайшетская"
+    "tikName": "Тайшетская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1382,
     "uikTvd": "4384004347853",
+    "uikName": "УИК №1382",
     "tikTvd": "23820001459325",
-    "tikName": "Тайшетская"
+    "tikName": "Тайшетская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1383,
     "uikTvd": "4384004347855",
+    "uikName": "УИК №1383",
     "tikTvd": "23820001459325",
-    "tikName": "Тайшетская"
+    "tikName": "Тайшетская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1384,
     "uikTvd": "4384004347857",
+    "uikName": "УИК №1384",
     "tikTvd": "23820001459325",
-    "tikName": "Тайшетская"
+    "tikName": "Тайшетская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1385,
     "uikTvd": "4384004347860",
+    "uikName": "УИК №1385",
     "tikTvd": "23820001459325",
-    "tikName": "Тайшетская"
+    "tikName": "Тайшетская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1386,
     "uikTvd": "4384004347862",
+    "uikName": "УИК №1386",
     "tikTvd": "23820001459325",
-    "tikName": "Тайшетская"
+    "tikName": "Тайшетская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1388,
     "uikTvd": "4384004347864",
+    "uikName": "УИК №1388",
     "tikTvd": "23820001459325",
-    "tikName": "Тайшетская"
+    "tikName": "Тайшетская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1389,
     "uikTvd": "4384004347866",
+    "uikName": "УИК №1389",
     "tikTvd": "23820001459325",
-    "tikName": "Тайшетская"
+    "tikName": "Тайшетская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1390,
     "uikTvd": "4384004347868",
+    "uikName": "УИК №1390",
     "tikTvd": "23820001459325",
-    "tikName": "Тайшетская"
+    "tikName": "Тайшетская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1391,
     "uikTvd": "4384004347870",
+    "uikName": "УИК №1391",
     "tikTvd": "23820001459325",
-    "tikName": "Тайшетская"
+    "tikName": "Тайшетская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1392,
     "uikTvd": "4384004347872",
+    "uikName": "УИК №1392",
     "tikTvd": "23820001459325",
-    "tikName": "Тайшетская"
+    "tikName": "Тайшетская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1393,
     "uikTvd": "4384004347874",
+    "uikName": "УИК №1393",
     "tikTvd": "23820001459325",
-    "tikName": "Тайшетская"
+    "tikName": "Тайшетская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1394,
     "uikTvd": "4384004347876",
+    "uikName": "УИК №1394",
     "tikTvd": "23820001459325",
-    "tikName": "Тайшетская"
+    "tikName": "Тайшетская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1395,
     "uikTvd": "4384004347878",
+    "uikName": "УИК №1395",
     "tikTvd": "23820001459325",
-    "tikName": "Тайшетская"
+    "tikName": "Тайшетская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1396,
     "uikTvd": "4384004347880",
+    "uikName": "УИК №1396",
     "tikTvd": "23820001459325",
-    "tikName": "Тайшетская"
+    "tikName": "Тайшетская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1397,
     "uikTvd": "4384004347882",
+    "uikName": "УИК №1397",
     "tikTvd": "23820001459325",
-    "tikName": "Тайшетская"
+    "tikName": "Тайшетская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1398,
     "uikTvd": "4384004347884",
+    "uikName": "УИК №1398",
     "tikTvd": "23820001459325",
-    "tikName": "Тайшетская"
+    "tikName": "Тайшетская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1399,
     "uikTvd": "4384004347888",
+    "uikName": "УИК №1399",
     "tikTvd": "23820001459325",
-    "tikName": "Тайшетская"
+    "tikName": "Тайшетская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1400,
     "uikTvd": "4384004347890",
+    "uikName": "УИК №1400",
     "tikTvd": "23820001459325",
-    "tikName": "Тайшетская"
+    "tikName": "Тайшетская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1401,
     "uikTvd": "4384004347892",
+    "uikName": "УИК №1401",
     "tikTvd": "23820001459325",
-    "tikName": "Тайшетская"
+    "tikName": "Тайшетская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1402,
     "uikTvd": "4384004347894",
+    "uikName": "УИК №1402",
     "tikTvd": "23820001459325",
-    "tikName": "Тайшетская"
+    "tikName": "Тайшетская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1403,
     "uikTvd": "4384031200617",
+    "uikName": "УИК №1403",
     "tikTvd": "23820001459324",
-    "tikName": "Тулунская городская"
+    "tikName": "Тулунская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1404,
     "uikTvd": "4384031200619",
+    "uikName": "УИК №1404",
     "tikTvd": "23820001459324",
-    "tikName": "Тулунская городская"
+    "tikName": "Тулунская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1405,
     "uikTvd": "4384031200620",
+    "uikName": "УИК №1405",
     "tikTvd": "23820001459324",
-    "tikName": "Тулунская городская"
+    "tikName": "Тулунская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1406,
     "uikTvd": "4384031200621",
+    "uikName": "УИК №1406",
     "tikTvd": "23820001459324",
-    "tikName": "Тулунская городская"
+    "tikName": "Тулунская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1407,
     "uikTvd": "4384031200622",
+    "uikName": "УИК №1407",
     "tikTvd": "23820001459324",
-    "tikName": "Тулунская городская"
+    "tikName": "Тулунская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1408,
     "uikTvd": "4384031200623",
+    "uikName": "УИК №1408",
     "tikTvd": "23820001459324",
-    "tikName": "Тулунская городская"
+    "tikName": "Тулунская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1409,
     "uikTvd": "4384031200624",
+    "uikName": "УИК №1409",
     "tikTvd": "23820001459324",
-    "tikName": "Тулунская городская"
+    "tikName": "Тулунская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1410,
     "uikTvd": "4384031200625",
+    "uikName": "УИК №1410",
     "tikTvd": "23820001459324",
-    "tikName": "Тулунская городская"
+    "tikName": "Тулунская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1411,
     "uikTvd": "4384031200626",
+    "uikName": "УИК №1411",
     "tikTvd": "23820001459324",
-    "tikName": "Тулунская городская"
+    "tikName": "Тулунская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1412,
     "uikTvd": "4384031200627",
+    "uikName": "УИК №1412",
     "tikTvd": "23820001459324",
-    "tikName": "Тулунская городская"
+    "tikName": "Тулунская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1413,
     "uikTvd": "4384031200628",
+    "uikName": "УИК №1413",
     "tikTvd": "23820001459324",
-    "tikName": "Тулунская городская"
+    "tikName": "Тулунская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1414,
     "uikTvd": "4384031200629",
+    "uikName": "УИК №1414",
     "tikTvd": "23820001459324",
-    "tikName": "Тулунская городская"
+    "tikName": "Тулунская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1415,
     "uikTvd": "4384031200630",
+    "uikName": "УИК №1415",
     "tikTvd": "23820001459324",
-    "tikName": "Тулунская городская"
+    "tikName": "Тулунская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1416,
     "uikTvd": "4384031200631",
+    "uikName": "УИК №1416",
     "tikTvd": "23820001459324",
-    "tikName": "Тулунская городская"
+    "tikName": "Тулунская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1417,
     "uikTvd": "4384031200632",
+    "uikName": "УИК №1417",
     "tikTvd": "23820001459324",
-    "tikName": "Тулунская городская"
+    "tikName": "Тулунская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1418,
     "uikTvd": "4384031200633",
+    "uikName": "УИК №1418",
     "tikTvd": "23820001459324",
-    "tikName": "Тулунская городская"
+    "tikName": "Тулунская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1419,
     "uikTvd": "4384031200634",
+    "uikName": "УИК №1419",
     "tikTvd": "23820001459324",
-    "tikName": "Тулунская городская"
+    "tikName": "Тулунская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1420,
     "uikTvd": "4384031200635",
+    "uikName": "УИК №1420",
     "tikTvd": "23820001459324",
-    "tikName": "Тулунская городская"
+    "tikName": "Тулунская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1421,
     "uikTvd": "4384031200636",
+    "uikName": "УИК №1421",
     "tikTvd": "23820001459324",
-    "tikName": "Тулунская городская"
+    "tikName": "Тулунская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1422,
     "uikTvd": "4384031200637",
+    "uikName": "УИК №1422",
     "tikTvd": "23820001459324",
-    "tikName": "Тулунская городская"
+    "tikName": "Тулунская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1423,
     "uikTvd": "4384031200638",
+    "uikName": "УИК №1423",
     "tikTvd": "23820001459324",
-    "tikName": "Тулунская городская"
+    "tikName": "Тулунская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1424,
     "uikTvd": "4384031200639",
+    "uikName": "УИК №1424",
     "tikTvd": "23820001459324",
-    "tikName": "Тулунская городская"
+    "tikName": "Тулунская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1425,
     "uikTvd": "4384031200640",
+    "uikName": "УИК №1425",
     "tikTvd": "23820001459324",
-    "tikName": "Тулунская городская"
+    "tikName": "Тулунская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1426,
     "uikTvd": "4384031200641",
+    "uikName": "УИК №1426",
     "tikTvd": "23820001459324",
-    "tikName": "Тулунская городская"
+    "tikName": "Тулунская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1427,
     "uikTvd": "4384031200642",
+    "uikName": "УИК №1427",
     "tikTvd": "23820001459324",
-    "tikName": "Тулунская городская"
+    "tikName": "Тулунская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1428,
     "uikTvd": "4384031200643",
+    "uikName": "УИК №1428",
     "tikTvd": "23820001459324",
-    "tikName": "Тулунская городская"
+    "tikName": "Тулунская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1429,
     "uikTvd": "4384031200644",
+    "uikName": "УИК №1429",
     "tikTvd": "23820001459324",
-    "tikName": "Тулунская городская"
+    "tikName": "Тулунская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1430,
     "uikTvd": "4384031200645",
+    "uikName": "УИК №1430",
     "tikTvd": "23820001459324",
-    "tikName": "Тулунская городская"
+    "tikName": "Тулунская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1431,
     "uikTvd": "4384031200646",
+    "uikName": "УИК №1431",
     "tikTvd": "23820001459324",
-    "tikName": "Тулунская городская"
+    "tikName": "Тулунская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1432,
     "uikTvd": "4384031200647",
+    "uikName": "УИК №1432",
     "tikTvd": "23820001459324",
-    "tikName": "Тулунская городская"
+    "tikName": "Тулунская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1433,
     "uikTvd": "4384031200648",
+    "uikName": "УИК №1433",
     "tikTvd": "23820001459324",
-    "tikName": "Тулунская городская"
+    "tikName": "Тулунская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1434,
     "uikTvd": "4384031200649",
+    "uikName": "УИК №1434",
     "tikTvd": "23820001459324",
-    "tikName": "Тулунская городская"
+    "tikName": "Тулунская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1435,
     "uikTvd": "4384031200650",
+    "uikName": "УИК №1435",
     "tikTvd": "23820001459324",
-    "tikName": "Тулунская городская"
+    "tikName": "Тулунская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1436,
     "uikTvd": "4384031200651",
+    "uikName": "УИК №1436",
     "tikTvd": "23820001459324",
-    "tikName": "Тулунская городская"
+    "tikName": "Тулунская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1437,
     "uikTvd": "4384031200652",
+    "uikName": "УИК №1437",
     "tikTvd": "23820001459324",
-    "tikName": "Тулунская городская"
+    "tikName": "Тулунская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1438,
     "uikTvd": "4384031200653",
+    "uikName": "УИК №1438",
     "tikTvd": "23820001459324",
-    "tikName": "Тулунская городская"
+    "tikName": "Тулунская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1439,
     "uikTvd": "4384031200654",
+    "uikName": "УИК №1439",
     "tikTvd": "23820001459324",
-    "tikName": "Тулунская городская"
+    "tikName": "Тулунская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1440,
     "uikTvd": "4384031200655",
+    "uikName": "УИК №1440",
     "tikTvd": "23820001459324",
-    "tikName": "Тулунская городская"
+    "tikName": "Тулунская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1441,
     "uikTvd": "4384031200656",
+    "uikName": "УИК №1441",
     "tikTvd": "23820001459324",
-    "tikName": "Тулунская городская"
+    "tikName": "Тулунская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1442,
     "uikTvd": "4384042255614",
+    "uikName": "УИК №1442",
     "tikTvd": "23820001459323",
-    "tikName": "Тулунская "
+    "tikName": "Тулунская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1443,
     "uikTvd": "4384042255615",
+    "uikName": "УИК №1443",
     "tikTvd": "23820001459323",
-    "tikName": "Тулунская "
+    "tikName": "Тулунская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1444,
     "uikTvd": "4384042255616",
+    "uikName": "УИК №1444",
     "tikTvd": "23820001459323",
-    "tikName": "Тулунская "
+    "tikName": "Тулунская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1445,
     "uikTvd": "4384042255617",
+    "uikName": "УИК №1445",
     "tikTvd": "23820001459323",
-    "tikName": "Тулунская "
+    "tikName": "Тулунская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1446,
     "uikTvd": "4384042255618",
+    "uikName": "УИК №1446",
     "tikTvd": "23820001459323",
-    "tikName": "Тулунская "
+    "tikName": "Тулунская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1447,
     "uikTvd": "4384042255619",
+    "uikName": "УИК №1447",
     "tikTvd": "23820001459323",
-    "tikName": "Тулунская "
+    "tikName": "Тулунская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1448,
     "uikTvd": "4384042255620",
+    "uikName": "УИК №1448",
     "tikTvd": "23820001459323",
-    "tikName": "Тулунская "
+    "tikName": "Тулунская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1449,
     "uikTvd": "4384042255621",
+    "uikName": "УИК №1449",
     "tikTvd": "23820001459323",
-    "tikName": "Тулунская "
+    "tikName": "Тулунская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1450,
     "uikTvd": "4384042255622",
+    "uikName": "УИК №1450",
     "tikTvd": "23820001459323",
-    "tikName": "Тулунская "
+    "tikName": "Тулунская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1451,
     "uikTvd": "4384042255623",
+    "uikName": "УИК №1451",
     "tikTvd": "23820001459323",
-    "tikName": "Тулунская "
+    "tikName": "Тулунская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1452,
     "uikTvd": "4384042255624",
+    "uikName": "УИК №1452",
     "tikTvd": "23820001459323",
-    "tikName": "Тулунская "
+    "tikName": "Тулунская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1453,
     "uikTvd": "4384042255625",
+    "uikName": "УИК №1453",
     "tikTvd": "23820001459323",
-    "tikName": "Тулунская "
+    "tikName": "Тулунская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1454,
     "uikTvd": "4384042255626",
+    "uikName": "УИК №1454",
     "tikTvd": "23820001459323",
-    "tikName": "Тулунская "
+    "tikName": "Тулунская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1455,
     "uikTvd": "4384042255627",
+    "uikName": "УИК №1455",
     "tikTvd": "23820001459323",
-    "tikName": "Тулунская "
+    "tikName": "Тулунская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1456,
     "uikTvd": "4384042255628",
+    "uikName": "УИК №1456",
     "tikTvd": "23820001459323",
-    "tikName": "Тулунская "
+    "tikName": "Тулунская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1457,
     "uikTvd": "4384042255629",
+    "uikName": "УИК №1457",
     "tikTvd": "23820001459323",
-    "tikName": "Тулунская "
+    "tikName": "Тулунская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1458,
     "uikTvd": "4384042255630",
+    "uikName": "УИК №1458",
     "tikTvd": "23820001459323",
-    "tikName": "Тулунская "
+    "tikName": "Тулунская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1459,
     "uikTvd": "4384042255631",
+    "uikName": "УИК №1459",
     "tikTvd": "23820001459323",
-    "tikName": "Тулунская "
+    "tikName": "Тулунская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1460,
     "uikTvd": "4384042255632",
+    "uikName": "УИК №1460",
     "tikTvd": "23820001459323",
-    "tikName": "Тулунская "
+    "tikName": "Тулунская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1461,
     "uikTvd": "4384042255633",
+    "uikName": "УИК №1461",
     "tikTvd": "23820001459323",
-    "tikName": "Тулунская "
+    "tikName": "Тулунская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1462,
     "uikTvd": "4384042255634",
+    "uikName": "УИК №1462",
     "tikTvd": "23820001459323",
-    "tikName": "Тулунская "
+    "tikName": "Тулунская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1463,
     "uikTvd": "4384042255635",
+    "uikName": "УИК №1463",
     "tikTvd": "23820001459323",
-    "tikName": "Тулунская "
+    "tikName": "Тулунская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1464,
     "uikTvd": "4384042255636",
+    "uikName": "УИК №1464",
     "tikTvd": "23820001459323",
-    "tikName": "Тулунская "
+    "tikName": "Тулунская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1465,
     "uikTvd": "4384042255637",
+    "uikName": "УИК №1465",
     "tikTvd": "23820001459323",
-    "tikName": "Тулунская "
+    "tikName": "Тулунская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1466,
     "uikTvd": "4384042255638",
+    "uikName": "УИК №1466",
     "tikTvd": "23820001459323",
-    "tikName": "Тулунская "
+    "tikName": "Тулунская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1467,
     "uikTvd": "4384042255639",
+    "uikName": "УИК №1467",
     "tikTvd": "23820001459323",
-    "tikName": "Тулунская "
+    "tikName": "Тулунская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1468,
     "uikTvd": "4384042255640",
+    "uikName": "УИК №1468",
     "tikTvd": "23820001459323",
-    "tikName": "Тулунская "
+    "tikName": "Тулунская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1469,
     "uikTvd": "4384042255641",
+    "uikName": "УИК №1469",
     "tikTvd": "23820001459323",
-    "tikName": "Тулунская "
+    "tikName": "Тулунская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1470,
     "uikTvd": "4384042255642",
+    "uikName": "УИК №1470",
     "tikTvd": "23820001459323",
-    "tikName": "Тулунская "
+    "tikName": "Тулунская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1471,
     "uikTvd": "4384042255643",
+    "uikName": "УИК №1471",
     "tikTvd": "23820001459323",
-    "tikName": "Тулунская "
+    "tikName": "Тулунская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1472,
     "uikTvd": "4384042255644",
+    "uikName": "УИК №1472",
     "tikTvd": "23820001459323",
-    "tikName": "Тулунская "
+    "tikName": "Тулунская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1473,
     "uikTvd": "4384042255645",
+    "uikName": "УИК №1473",
     "tikTvd": "23820001459323",
-    "tikName": "Тулунская "
+    "tikName": "Тулунская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1474,
     "uikTvd": "4384042255646",
+    "uikName": "УИК №1474",
     "tikTvd": "23820001459323",
-    "tikName": "Тулунская "
+    "tikName": "Тулунская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1475,
     "uikTvd": "4384042255647",
+    "uikName": "УИК №1475",
     "tikTvd": "23820001459323",
-    "tikName": "Тулунская "
+    "tikName": "Тулунская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1476,
     "uikTvd": "4384042255648",
+    "uikName": "УИК №1476",
     "tikTvd": "23820001459323",
-    "tikName": "Тулунская "
+    "tikName": "Тулунская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1477,
     "uikTvd": "4384042255649",
+    "uikName": "УИК №1477",
     "tikTvd": "23820001459323",
-    "tikName": "Тулунская "
+    "tikName": "Тулунская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1478,
     "uikTvd": "4384042255650",
+    "uikName": "УИК №1478",
     "tikTvd": "23820001459323",
-    "tikName": "Тулунская "
+    "tikName": "Тулунская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1479,
     "uikTvd": "4384042255651",
+    "uikName": "УИК №1479",
     "tikTvd": "23820001459323",
-    "tikName": "Тулунская "
+    "tikName": "Тулунская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1480,
     "uikTvd": "4384042255652",
+    "uikName": "УИК №1480",
     "tikTvd": "23820001459323",
-    "tikName": "Тулунская "
+    "tikName": "Тулунская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1481,
     "uikTvd": "4384042255653",
+    "uikName": "УИК №1481",
     "tikTvd": "23820001459323",
-    "tikName": "Тулунская "
+    "tikName": "Тулунская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1482,
     "uikTvd": "4384042255654",
+    "uikName": "УИК №1482",
     "tikTvd": "23820001459323",
-    "tikName": "Тулунская "
+    "tikName": "Тулунская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1483,
     "uikTvd": "4384042255655",
+    "uikName": "УИК №1483",
     "tikTvd": "23820001459323",
-    "tikName": "Тулунская "
+    "tikName": "Тулунская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1484,
     "uikTvd": "4384042255656",
+    "uikName": "УИК №1484",
     "tikTvd": "23820001459323",
-    "tikName": "Тулунская "
+    "tikName": "Тулунская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1485,
     "uikTvd": "4384042255657",
+    "uikName": "УИК №1485",
     "tikTvd": "23820001459323",
-    "tikName": "Тулунская "
+    "tikName": "Тулунская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1486,
     "uikTvd": "4384042255658",
+    "uikName": "УИК №1486",
     "tikTvd": "23820001459323",
-    "tikName": "Тулунская "
+    "tikName": "Тулунская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1487,
     "uikTvd": "4384032184185",
+    "uikName": "УИК №1487",
     "tikTvd": "4384001346417",
-    "tikName": "Усолье-Сибирская городская"
+    "tikName": "Усолье-Сибирская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 1488,
     "uikTvd": "4384032184186",
+    "uikName": "УИК №1488",
     "tikTvd": "4384001346417",
-    "tikName": "Усолье-Сибирская городская"
+    "tikName": "Усолье-Сибирская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 1489,
     "uikTvd": "4384032184187",
+    "uikName": "УИК №1489",
     "tikTvd": "4384001346417",
-    "tikName": "Усолье-Сибирская городская"
+    "tikName": "Усолье-Сибирская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 1490,
     "uikTvd": "4384032184188",
+    "uikName": "УИК №1490",
     "tikTvd": "4384001346417",
-    "tikName": "Усолье-Сибирская городская"
+    "tikName": "Усолье-Сибирская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 1491,
     "uikTvd": "4384032184189",
+    "uikName": "УИК №1491",
     "tikTvd": "4384001346417",
-    "tikName": "Усолье-Сибирская городская"
+    "tikName": "Усолье-Сибирская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 1492,
     "uikTvd": "4384032184190",
+    "uikName": "УИК №1492",
     "tikTvd": "4384001346417",
-    "tikName": "Усолье-Сибирская городская"
+    "tikName": "Усолье-Сибирская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 1493,
     "uikTvd": "4384032184191",
+    "uikName": "УИК №1493",
     "tikTvd": "4384001346417",
-    "tikName": "Усолье-Сибирская городская"
+    "tikName": "Усолье-Сибирская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 1494,
     "uikTvd": "4384032184192",
+    "uikName": "УИК №1494",
     "tikTvd": "4384001346417",
-    "tikName": "Усолье-Сибирская городская"
+    "tikName": "Усолье-Сибирская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 1495,
     "uikTvd": "4384032184193",
+    "uikName": "УИК №1495",
     "tikTvd": "4384001346417",
-    "tikName": "Усолье-Сибирская городская"
+    "tikName": "Усолье-Сибирская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 1496,
     "uikTvd": "4384032184194",
+    "uikName": "УИК №1496",
     "tikTvd": "4384001346417",
-    "tikName": "Усолье-Сибирская городская"
+    "tikName": "Усолье-Сибирская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 1497,
     "uikTvd": "4384032184195",
+    "uikName": "УИК №1497",
     "tikTvd": "4384001346417",
-    "tikName": "Усолье-Сибирская городская"
+    "tikName": "Усолье-Сибирская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 1498,
     "uikTvd": "4384032184196",
+    "uikName": "УИК №1498",
     "tikTvd": "4384001346417",
-    "tikName": "Усолье-Сибирская городская"
+    "tikName": "Усолье-Сибирская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 1499,
     "uikTvd": "4384032184197",
+    "uikName": "УИК №1499",
     "tikTvd": "4384001346417",
-    "tikName": "Усолье-Сибирская городская"
+    "tikName": "Усолье-Сибирская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 1500,
     "uikTvd": "4384032184198",
+    "uikName": "УИК №1500",
     "tikTvd": "4384001346417",
-    "tikName": "Усолье-Сибирская городская"
+    "tikName": "Усолье-Сибирская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 1501,
     "uikTvd": "4384032184199",
+    "uikName": "УИК №1501",
     "tikTvd": "4384001346417",
-    "tikName": "Усолье-Сибирская городская"
+    "tikName": "Усолье-Сибирская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 1502,
     "uikTvd": "4384032184200",
+    "uikName": "УИК №1502",
     "tikTvd": "4384001346417",
-    "tikName": "Усолье-Сибирская городская"
+    "tikName": "Усолье-Сибирская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 1503,
     "uikTvd": "4384032184201",
+    "uikName": "УИК №1503",
     "tikTvd": "4384001346417",
-    "tikName": "Усолье-Сибирская городская"
+    "tikName": "Усолье-Сибирская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 1504,
     "uikTvd": "4384032184202",
+    "uikName": "УИК №1504",
     "tikTvd": "4384001346417",
-    "tikName": "Усолье-Сибирская городская"
+    "tikName": "Усолье-Сибирская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 1505,
     "uikTvd": "4384032184203",
+    "uikName": "УИК №1505",
     "tikTvd": "4384001346417",
-    "tikName": "Усолье-Сибирская городская"
+    "tikName": "Усолье-Сибирская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 1506,
     "uikTvd": "4384032184204",
+    "uikName": "УИК №1506",
     "tikTvd": "4384001346417",
-    "tikName": "Усолье-Сибирская городская"
+    "tikName": "Усолье-Сибирская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 1507,
     "uikTvd": "4384032184205",
+    "uikName": "УИК №1507",
     "tikTvd": "4384001346417",
-    "tikName": "Усолье-Сибирская городская"
+    "tikName": "Усолье-Сибирская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 1508,
     "uikTvd": "4384032184206",
+    "uikName": "УИК №1508",
     "tikTvd": "4384001346417",
-    "tikName": "Усолье-Сибирская городская"
+    "tikName": "Усолье-Сибирская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 1509,
     "uikTvd": "4384032184207",
+    "uikName": "УИК №1509",
     "tikTvd": "4384001346417",
-    "tikName": "Усолье-Сибирская городская"
+    "tikName": "Усолье-Сибирская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 1510,
     "uikTvd": "4384032184208",
+    "uikName": "УИК №1510",
     "tikTvd": "4384001346417",
-    "tikName": "Усолье-Сибирская городская"
+    "tikName": "Усолье-Сибирская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 1511,
     "uikTvd": "4384032184209",
+    "uikName": "УИК №1511",
     "tikTvd": "4384001346417",
-    "tikName": "Усолье-Сибирская городская"
+    "tikName": "Усолье-Сибирская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 1512,
     "uikTvd": "4384032184210",
+    "uikName": "УИК №1512",
     "tikTvd": "4384001346417",
-    "tikName": "Усолье-Сибирская городская"
+    "tikName": "Усолье-Сибирская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 1513,
     "uikTvd": "4384032184211",
+    "uikName": "УИК №1513",
     "tikTvd": "4384001346417",
-    "tikName": "Усолье-Сибирская городская"
+    "tikName": "Усолье-Сибирская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 1514,
     "uikTvd": "4384032184212",
+    "uikName": "УИК №1514",
     "tikTvd": "4384001346417",
-    "tikName": "Усолье-Сибирская городская"
+    "tikName": "Усолье-Сибирская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 1515,
     "uikTvd": "4384032184213",
+    "uikName": "УИК №1515",
     "tikTvd": "4384001346417",
-    "tikName": "Усолье-Сибирская городская"
+    "tikName": "Усолье-Сибирская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 1516,
     "uikTvd": "4384032184214",
+    "uikName": "УИК №1516",
     "tikTvd": "4384001346417",
-    "tikName": "Усолье-Сибирская городская"
+    "tikName": "Усолье-Сибирская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 1517,
     "uikTvd": "4384032184215",
+    "uikName": "УИК №1517",
     "tikTvd": "4384001346417",
-    "tikName": "Усолье-Сибирская городская"
+    "tikName": "Усолье-Сибирская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 1518,
     "uikTvd": "4384032184216",
+    "uikName": "УИК №1518",
     "tikTvd": "4384001346417",
-    "tikName": "Усолье-Сибирская городская"
+    "tikName": "Усолье-Сибирская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 1519,
     "uikTvd": "4384032184217",
+    "uikName": "УИК №1519",
     "tikTvd": "4384001346417",
-    "tikName": "Усолье-Сибирская городская"
+    "tikName": "Усолье-Сибирская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 1520,
     "uikTvd": "4384032184218",
+    "uikName": "УИК №1520",
     "tikTvd": "4384001346417",
-    "tikName": "Усолье-Сибирская городская"
+    "tikName": "Усолье-Сибирская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 1521,
     "uikTvd": "4384032184219",
+    "uikName": "УИК №1521",
     "tikTvd": "4384001346417",
-    "tikName": "Усолье-Сибирская городская"
+    "tikName": "Усолье-Сибирская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 1522,
     "uikTvd": "4384032184220",
+    "uikName": "УИК №1522",
     "tikTvd": "4384001346417",
-    "tikName": "Усолье-Сибирская городская"
+    "tikName": "Усолье-Сибирская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 1523,
     "uikTvd": "4384005226173",
+    "uikName": "УИК №1523",
     "tikTvd": "23820001459322",
-    "tikName": "Усольская "
+    "tikName": "Усольская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1524,
     "uikTvd": "4384005226174",
+    "uikName": "УИК №1524",
     "tikTvd": "23820001459322",
-    "tikName": "Усольская "
+    "tikName": "Усольская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1525,
     "uikTvd": "4384005226175",
+    "uikName": "УИК №1525",
     "tikTvd": "23820001459322",
-    "tikName": "Усольская "
+    "tikName": "Усольская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1526,
     "uikTvd": "4384005226176",
+    "uikName": "УИК №1526",
     "tikTvd": "23820001459322",
-    "tikName": "Усольская "
+    "tikName": "Усольская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1527,
     "uikTvd": "4384005226177",
+    "uikName": "УИК №1527",
     "tikTvd": "23820001459322",
-    "tikName": "Усольская "
+    "tikName": "Усольская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1528,
     "uikTvd": "4384005226178",
+    "uikName": "УИК №1528",
     "tikTvd": "23820001459322",
-    "tikName": "Усольская "
+    "tikName": "Усольская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1529,
     "uikTvd": "4384005226179",
+    "uikName": "УИК №1529",
     "tikTvd": "23820001459322",
-    "tikName": "Усольская "
+    "tikName": "Усольская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1530,
     "uikTvd": "4384005226180",
+    "uikName": "УИК №1530",
     "tikTvd": "23820001459322",
-    "tikName": "Усольская "
+    "tikName": "Усольская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1531,
     "uikTvd": "4384005226181",
+    "uikName": "УИК №1531",
     "tikTvd": "23820001459322",
-    "tikName": "Усольская "
+    "tikName": "Усольская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1532,
     "uikTvd": "4384005226182",
+    "uikName": "УИК №1532",
     "tikTvd": "23820001459322",
-    "tikName": "Усольская "
+    "tikName": "Усольская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1533,
     "uikTvd": "4384005226183",
+    "uikName": "УИК №1533",
     "tikTvd": "23820001459322",
-    "tikName": "Усольская "
+    "tikName": "Усольская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1534,
     "uikTvd": "4384005226184",
+    "uikName": "УИК №1534",
     "tikTvd": "23820001459322",
-    "tikName": "Усольская "
+    "tikName": "Усольская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1535,
     "uikTvd": "4384005226185",
+    "uikName": "УИК №1535",
     "tikTvd": "23820001459322",
-    "tikName": "Усольская "
+    "tikName": "Усольская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1536,
     "uikTvd": "4384005226186",
+    "uikName": "УИК №1536",
     "tikTvd": "23820001459322",
-    "tikName": "Усольская "
+    "tikName": "Усольская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1537,
     "uikTvd": "4384005226187",
+    "uikName": "УИК №1537",
     "tikTvd": "23820001459322",
-    "tikName": "Усольская "
+    "tikName": "Усольская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1538,
     "uikTvd": "4384005226188",
+    "uikName": "УИК №1538",
     "tikTvd": "23820001459322",
-    "tikName": "Усольская "
+    "tikName": "Усольская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1539,
     "uikTvd": "4384005226189",
+    "uikName": "УИК №1539",
     "tikTvd": "23820001459322",
-    "tikName": "Усольская "
+    "tikName": "Усольская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1540,
     "uikTvd": "4384005226190",
+    "uikName": "УИК №1540",
     "tikTvd": "23820001459322",
-    "tikName": "Усольская "
+    "tikName": "Усольская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1541,
     "uikTvd": "4384005226191",
+    "uikName": "УИК №1541",
     "tikTvd": "23820001459322",
-    "tikName": "Усольская "
+    "tikName": "Усольская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1542,
     "uikTvd": "4384005226192",
+    "uikName": "УИК №1542",
     "tikTvd": "23820001459322",
-    "tikName": "Усольская "
+    "tikName": "Усольская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1543,
     "uikTvd": "4384005226193",
+    "uikName": "УИК №1543",
     "tikTvd": "23820001459322",
-    "tikName": "Усольская "
+    "tikName": "Усольская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1544,
     "uikTvd": "4384005226194",
+    "uikName": "УИК №1544",
     "tikTvd": "23820001459322",
-    "tikName": "Усольская "
+    "tikName": "Усольская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1545,
     "uikTvd": "4384005226195",
+    "uikName": "УИК №1545",
     "tikTvd": "23820001459322",
-    "tikName": "Усольская "
+    "tikName": "Усольская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1546,
     "uikTvd": "4384005226196",
+    "uikName": "УИК №1546",
     "tikTvd": "23820001459322",
-    "tikName": "Усольская "
+    "tikName": "Усольская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1547,
     "uikTvd": "4384005226197",
+    "uikName": "УИК №1547",
     "tikTvd": "23820001459322",
-    "tikName": "Усольская "
+    "tikName": "Усольская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1548,
     "uikTvd": "4384005226198",
+    "uikName": "УИК №1548",
     "tikTvd": "23820001459322",
-    "tikName": "Усольская "
+    "tikName": "Усольская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1549,
     "uikTvd": "4384005226199",
+    "uikName": "УИК №1549",
     "tikTvd": "23820001459322",
-    "tikName": "Усольская "
+    "tikName": "Усольская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1550,
     "uikTvd": "4384005226200",
+    "uikName": "УИК №1550",
     "tikTvd": "23820001459322",
-    "tikName": "Усольская "
+    "tikName": "Усольская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1551,
     "uikTvd": "4384005226201",
+    "uikName": "УИК №1551",
     "tikTvd": "23820001459322",
-    "tikName": "Усольская "
+    "tikName": "Усольская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1552,
     "uikTvd": "4384005226202",
+    "uikName": "УИК №1552",
     "tikTvd": "23820001459322",
-    "tikName": "Усольская "
+    "tikName": "Усольская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1553,
     "uikTvd": "4384005226203",
+    "uikName": "УИК №1553",
     "tikTvd": "23820001459322",
-    "tikName": "Усольская "
+    "tikName": "Усольская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1554,
     "uikTvd": "4384005226204",
+    "uikName": "УИК №1554",
     "tikTvd": "23820001459322",
-    "tikName": "Усольская "
+    "tikName": "Усольская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1555,
     "uikTvd": "4384005226205",
+    "uikName": "УИК №1555",
     "tikTvd": "23820001459322",
-    "tikName": "Усольская "
+    "tikName": "Усольская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1556,
     "uikTvd": "4384005226206",
+    "uikName": "УИК №1556",
     "tikTvd": "23820001459322",
-    "tikName": "Усольская "
+    "tikName": "Усольская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1557,
     "uikTvd": "4384005226207",
+    "uikName": "УИК №1557",
     "tikTvd": "23820001459322",
-    "tikName": "Усольская "
+    "tikName": "Усольская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1558,
     "uikTvd": "4384005226208",
+    "uikName": "УИК №1558",
     "tikTvd": "23820001459322",
-    "tikName": "Усольская "
+    "tikName": "Усольская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1559,
     "uikTvd": "4384005226209",
+    "uikName": "УИК №1559",
     "tikTvd": "23820001459322",
-    "tikName": "Усольская "
+    "tikName": "Усольская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1560,
     "uikTvd": "4384005226210",
+    "uikName": "УИК №1560",
     "tikTvd": "23820001459322",
-    "tikName": "Усольская "
+    "tikName": "Усольская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1561,
     "uikTvd": "4384005226211",
+    "uikName": "УИК №1561",
     "tikTvd": "23820001459322",
-    "tikName": "Усольская "
+    "tikName": "Усольская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1562,
     "uikTvd": "4384005226212",
+    "uikName": "УИК №1562",
     "tikTvd": "23820001459322",
-    "tikName": "Усольская "
+    "tikName": "Усольская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1563,
     "uikTvd": "4384005226213",
+    "uikName": "УИК №1563",
     "tikTvd": "23820001459322",
-    "tikName": "Усольская "
+    "tikName": "Усольская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1564,
     "uikTvd": "4384005226214",
+    "uikName": "УИК №1564",
     "tikTvd": "23820001459322",
-    "tikName": "Усольская "
+    "tikName": "Усольская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1565,
     "uikTvd": "4384005226215",
+    "uikName": "УИК №1565",
     "tikTvd": "23820001459322",
-    "tikName": "Усольская "
+    "tikName": "Усольская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1566,
     "uikTvd": "4384005226216",
+    "uikName": "УИК №1566",
     "tikTvd": "23820001459322",
-    "tikName": "Усольская "
+    "tikName": "Усольская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1567,
     "uikTvd": "4384033172467",
+    "uikName": "УИК №1567",
     "tikTvd": "4384009306502",
-    "tikName": "Усть-Илимская городская"
+    "tikName": "Усть-Илимская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1568,
     "uikTvd": "4384033172468",
+    "uikName": "УИК №1568",
     "tikTvd": "4384009306502",
-    "tikName": "Усть-Илимская городская"
+    "tikName": "Усть-Илимская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1569,
     "uikTvd": "4384033172469",
+    "uikName": "УИК №1569",
     "tikTvd": "4384009306502",
-    "tikName": "Усть-Илимская городская"
+    "tikName": "Усть-Илимская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1570,
     "uikTvd": "4384033172470",
+    "uikName": "УИК №1570",
     "tikTvd": "4384009306502",
-    "tikName": "Усть-Илимская городская"
+    "tikName": "Усть-Илимская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1571,
     "uikTvd": "4384033172471",
+    "uikName": "УИК №1571",
     "tikTvd": "4384009306502",
-    "tikName": "Усть-Илимская городская"
+    "tikName": "Усть-Илимская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1572,
     "uikTvd": "4384033172472",
+    "uikName": "УИК №1572",
     "tikTvd": "4384009306502",
-    "tikName": "Усть-Илимская городская"
+    "tikName": "Усть-Илимская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1573,
     "uikTvd": "4384033172473",
+    "uikName": "УИК №1573",
     "tikTvd": "4384009306502",
-    "tikName": "Усть-Илимская городская"
+    "tikName": "Усть-Илимская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1574,
     "uikTvd": "4384033172474",
+    "uikName": "УИК №1574",
     "tikTvd": "4384009306502",
-    "tikName": "Усть-Илимская городская"
+    "tikName": "Усть-Илимская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1575,
     "uikTvd": "4384033172475",
+    "uikName": "УИК №1575",
     "tikTvd": "4384009306502",
-    "tikName": "Усть-Илимская городская"
+    "tikName": "Усть-Илимская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1576,
     "uikTvd": "4384033172476",
+    "uikName": "УИК №1576",
     "tikTvd": "4384009306502",
-    "tikName": "Усть-Илимская городская"
+    "tikName": "Усть-Илимская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1577,
     "uikTvd": "4384033172477",
+    "uikName": "УИК №1577",
     "tikTvd": "4384009306502",
-    "tikName": "Усть-Илимская городская"
+    "tikName": "Усть-Илимская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1578,
     "uikTvd": "4384033172478",
+    "uikName": "УИК №1578",
     "tikTvd": "4384009306502",
-    "tikName": "Усть-Илимская городская"
+    "tikName": "Усть-Илимская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1579,
     "uikTvd": "4384033172479",
+    "uikName": "УИК №1579",
     "tikTvd": "4384009306502",
-    "tikName": "Усть-Илимская городская"
+    "tikName": "Усть-Илимская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1580,
     "uikTvd": "4384033172480",
+    "uikName": "УИК №1580",
     "tikTvd": "4384009306502",
-    "tikName": "Усть-Илимская городская"
+    "tikName": "Усть-Илимская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1581,
     "uikTvd": "4384033172481",
+    "uikName": "УИК №1581",
     "tikTvd": "4384009306502",
-    "tikName": "Усть-Илимская городская"
+    "tikName": "Усть-Илимская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1582,
     "uikTvd": "4384033172482",
+    "uikName": "УИК №1582",
     "tikTvd": "4384009306502",
-    "tikName": "Усть-Илимская городская"
+    "tikName": "Усть-Илимская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1583,
     "uikTvd": "4384033172483",
+    "uikName": "УИК №1583",
     "tikTvd": "4384009306502",
-    "tikName": "Усть-Илимская городская"
+    "tikName": "Усть-Илимская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1584,
     "uikTvd": "4384033172484",
+    "uikName": "УИК №1584",
     "tikTvd": "4384009306502",
-    "tikName": "Усть-Илимская городская"
+    "tikName": "Усть-Илимская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1585,
     "uikTvd": "4384033172485",
+    "uikName": "УИК №1585",
     "tikTvd": "4384009306502",
-    "tikName": "Усть-Илимская городская"
+    "tikName": "Усть-Илимская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1586,
     "uikTvd": "4384033172486",
+    "uikName": "УИК №1586",
     "tikTvd": "4384009306502",
-    "tikName": "Усть-Илимская городская"
+    "tikName": "Усть-Илимская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1587,
     "uikTvd": "4384033172487",
+    "uikName": "УИК №1587",
     "tikTvd": "4384009306502",
-    "tikName": "Усть-Илимская городская"
+    "tikName": "Усть-Илимская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1588,
     "uikTvd": "4384033172488",
+    "uikName": "УИК №1588",
     "tikTvd": "4384009306502",
-    "tikName": "Усть-Илимская городская"
+    "tikName": "Усть-Илимская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1589,
     "uikTvd": "4384033172489",
+    "uikName": "УИК №1589",
     "tikTvd": "4384009306502",
-    "tikName": "Усть-Илимская городская"
+    "tikName": "Усть-Илимская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1590,
     "uikTvd": "4384033172490",
+    "uikName": "УИК №1590",
     "tikTvd": "4384009306502",
-    "tikName": "Усть-Илимская городская"
+    "tikName": "Усть-Илимская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1591,
     "uikTvd": "4384033172491",
+    "uikName": "УИК №1591",
     "tikTvd": "4384009306502",
-    "tikName": "Усть-Илимская городская"
+    "tikName": "Усть-Илимская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1592,
     "uikTvd": "4384033172492",
+    "uikName": "УИК №1592",
     "tikTvd": "4384009306502",
-    "tikName": "Усть-Илимская городская"
+    "tikName": "Усть-Илимская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1593,
     "uikTvd": "4384033172493",
+    "uikName": "УИК №1593",
     "tikTvd": "4384009306502",
-    "tikName": "Усть-Илимская городская"
+    "tikName": "Усть-Илимская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1594,
     "uikTvd": "4384033172494",
+    "uikName": "УИК №1594",
     "tikTvd": "4384009306502",
-    "tikName": "Усть-Илимская городская"
+    "tikName": "Усть-Илимская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1595,
     "uikTvd": "4384033172495",
+    "uikName": "УИК №1595",
     "tikTvd": "4384009306502",
-    "tikName": "Усть-Илимская городская"
+    "tikName": "Усть-Илимская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1596,
     "uikTvd": "4384033172496",
+    "uikName": "УИК №1596",
     "tikTvd": "4384009306502",
-    "tikName": "Усть-Илимская городская"
+    "tikName": "Усть-Илимская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1597,
     "uikTvd": "4384033172497",
+    "uikName": "УИК №1597",
     "tikTvd": "4384009306502",
-    "tikName": "Усть-Илимская городская"
+    "tikName": "Усть-Илимская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1598,
     "uikTvd": "4384033172498",
+    "uikName": "УИК №1598",
     "tikTvd": "4384009306502",
-    "tikName": "Усть-Илимская городская"
+    "tikName": "Усть-Илимская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1599,
     "uikTvd": "4384033172499",
+    "uikName": "УИК №1599",
     "tikTvd": "4384009306502",
-    "tikName": "Усть-Илимская городская"
+    "tikName": "Усть-Илимская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1600,
     "uikTvd": "4384033172500",
+    "uikName": "УИК №1600",
     "tikTvd": "4384009306502",
-    "tikName": "Усть-Илимская городская"
+    "tikName": "Усть-Илимская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1601,
     "uikTvd": "4384033172501",
+    "uikName": "УИК №1601",
     "tikTvd": "4384009306502",
-    "tikName": "Усть-Илимская городская"
+    "tikName": "Усть-Илимская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1602,
     "uikTvd": "4384033172502",
+    "uikName": "УИК №1602",
     "tikTvd": "4384009306502",
-    "tikName": "Усть-Илимская городская"
+    "tikName": "Усть-Илимская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1603,
     "uikTvd": "4384033172503",
+    "uikName": "УИК №1603",
     "tikTvd": "4384009306502",
-    "tikName": "Усть-Илимская городская"
+    "tikName": "Усть-Илимская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1604,
     "uikTvd": "4384033172504",
+    "uikName": "УИК №1604",
     "tikTvd": "4384009306502",
-    "tikName": "Усть-Илимская городская"
+    "tikName": "Усть-Илимская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1605,
     "uikTvd": "4384008244040",
+    "uikName": "УИК №1605",
     "tikTvd": "23820001459320",
-    "tikName": "Черемховская районная"
+    "tikName": "Черемховская районная",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1606,
     "uikTvd": "4384043168786",
+    "uikName": "УИК №1606",
     "tikTvd": "4384009306503",
-    "tikName": "Усть-Илимская "
+    "tikName": "Усть-Илимская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1607,
     "uikTvd": "4384043168787",
+    "uikName": "УИК №1607",
     "tikTvd": "4384009306503",
-    "tikName": "Усть-Илимская "
+    "tikName": "Усть-Илимская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1608,
     "uikTvd": "4384043168788",
+    "uikName": "УИК №1608",
     "tikTvd": "4384009306503",
-    "tikName": "Усть-Илимская "
+    "tikName": "Усть-Илимская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1609,
     "uikTvd": "4384043168789",
+    "uikName": "УИК №1609",
     "tikTvd": "4384009306503",
-    "tikName": "Усть-Илимская "
+    "tikName": "Усть-Илимская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1610,
     "uikTvd": "4384043168790",
+    "uikName": "УИК №1610",
     "tikTvd": "4384009306503",
-    "tikName": "Усть-Илимская "
+    "tikName": "Усть-Илимская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1611,
     "uikTvd": "4384043168791",
+    "uikName": "УИК №1611",
     "tikTvd": "4384009306503",
-    "tikName": "Усть-Илимская "
+    "tikName": "Усть-Илимская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1612,
     "uikTvd": "4384043168792",
+    "uikName": "УИК №1612",
     "tikTvd": "4384009306503",
-    "tikName": "Усть-Илимская "
+    "tikName": "Усть-Илимская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1613,
     "uikTvd": "4384043168793",
+    "uikName": "УИК №1613",
     "tikTvd": "4384009306503",
-    "tikName": "Усть-Илимская "
+    "tikName": "Усть-Илимская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1614,
     "uikTvd": "4384043168794",
+    "uikName": "УИК №1614",
     "tikTvd": "4384009306503",
-    "tikName": "Усть-Илимская "
+    "tikName": "Усть-Илимская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1615,
     "uikTvd": "4384043168795",
+    "uikName": "УИК №1615",
     "tikTvd": "4384009306503",
-    "tikName": "Усть-Илимская "
+    "tikName": "Усть-Илимская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1616,
     "uikTvd": "4384043168796",
+    "uikName": "УИК №1616",
     "tikTvd": "4384009306503",
-    "tikName": "Усть-Илимская "
+    "tikName": "Усть-Илимская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1617,
     "uikTvd": "4384043168797",
+    "uikName": "УИК №1617",
     "tikTvd": "4384009306503",
-    "tikName": "Усть-Илимская "
+    "tikName": "Усть-Илимская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1618,
     "uikTvd": "4384043168798",
+    "uikName": "УИК №1618",
     "tikTvd": "4384009306503",
-    "tikName": "Усть-Илимская "
+    "tikName": "Усть-Илимская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1619,
     "uikTvd": "4384043168799",
+    "uikName": "УИК №1619",
     "tikTvd": "4384009306503",
-    "tikName": "Усть-Илимская "
+    "tikName": "Усть-Илимская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1620,
     "uikTvd": "4384043168800",
+    "uikName": "УИК №1620",
     "tikTvd": "4384009306503",
-    "tikName": "Усть-Илимская "
+    "tikName": "Усть-Илимская ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1621,
     "uikTvd": "4384034229422",
+    "uikName": "УИК №1621",
     "tikTvd": "4384009306504",
-    "tikName": "Усть-Кутская"
+    "tikName": "Усть-Кутская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1622,
     "uikTvd": "4384034229423",
+    "uikName": "УИК №1622",
     "tikTvd": "4384009306504",
-    "tikName": "Усть-Кутская"
+    "tikName": "Усть-Кутская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1623,
     "uikTvd": "4384034229424",
+    "uikName": "УИК №1623",
     "tikTvd": "4384009306504",
-    "tikName": "Усть-Кутская"
+    "tikName": "Усть-Кутская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1624,
     "uikTvd": "4384034229425",
+    "uikName": "УИК №1624",
     "tikTvd": "4384009306504",
-    "tikName": "Усть-Кутская"
+    "tikName": "Усть-Кутская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1625,
     "uikTvd": "4384034229426",
+    "uikName": "УИК №1625",
     "tikTvd": "4384009306504",
-    "tikName": "Усть-Кутская"
+    "tikName": "Усть-Кутская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1626,
     "uikTvd": "4384034229427",
+    "uikName": "УИК №1626",
     "tikTvd": "4384009306504",
-    "tikName": "Усть-Кутская"
+    "tikName": "Усть-Кутская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1627,
     "uikTvd": "4384034229428",
+    "uikName": "УИК №1627",
     "tikTvd": "4384009306504",
-    "tikName": "Усть-Кутская"
+    "tikName": "Усть-Кутская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1628,
     "uikTvd": "4384034229429",
+    "uikName": "УИК №1628",
     "tikTvd": "4384009306504",
-    "tikName": "Усть-Кутская"
+    "tikName": "Усть-Кутская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1629,
     "uikTvd": "4384034229430",
+    "uikName": "УИК №1629",
     "tikTvd": "4384009306504",
-    "tikName": "Усть-Кутская"
+    "tikName": "Усть-Кутская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1630,
     "uikTvd": "4384034229431",
+    "uikName": "УИК №1630",
     "tikTvd": "4384009306504",
-    "tikName": "Усть-Кутская"
+    "tikName": "Усть-Кутская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1631,
     "uikTvd": "4384034229432",
+    "uikName": "УИК №1631",
     "tikTvd": "4384009306504",
-    "tikName": "Усть-Кутская"
+    "tikName": "Усть-Кутская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1632,
     "uikTvd": "4384034229433",
+    "uikName": "УИК №1632",
     "tikTvd": "4384009306504",
-    "tikName": "Усть-Кутская"
+    "tikName": "Усть-Кутская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1633,
     "uikTvd": "4384034229434",
+    "uikName": "УИК №1633",
     "tikTvd": "4384009306504",
-    "tikName": "Усть-Кутская"
+    "tikName": "Усть-Кутская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1634,
     "uikTvd": "4384034229435",
+    "uikName": "УИК №1634",
     "tikTvd": "4384009306504",
-    "tikName": "Усть-Кутская"
+    "tikName": "Усть-Кутская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1635,
     "uikTvd": "4384034229436",
+    "uikName": "УИК №1635",
     "tikTvd": "4384009306504",
-    "tikName": "Усть-Кутская"
+    "tikName": "Усть-Кутская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1636,
     "uikTvd": "4384034229437",
+    "uikName": "УИК №1636",
     "tikTvd": "4384009306504",
-    "tikName": "Усть-Кутская"
+    "tikName": "Усть-Кутская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1637,
     "uikTvd": "4384034229438",
+    "uikName": "УИК №1637",
     "tikTvd": "4384009306504",
-    "tikName": "Усть-Кутская"
+    "tikName": "Усть-Кутская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1638,
     "uikTvd": "4384034229439",
+    "uikName": "УИК №1638",
     "tikTvd": "4384009306504",
-    "tikName": "Усть-Кутская"
+    "tikName": "Усть-Кутская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1639,
     "uikTvd": "4384034229440",
+    "uikName": "УИК №1639",
     "tikTvd": "4384009306504",
-    "tikName": "Усть-Кутская"
+    "tikName": "Усть-Кутская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1640,
     "uikTvd": "4384034229441",
+    "uikName": "УИК №1640",
     "tikTvd": "4384009306504",
-    "tikName": "Усть-Кутская"
+    "tikName": "Усть-Кутская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1641,
     "uikTvd": "4384034229442",
+    "uikName": "УИК №1641",
     "tikTvd": "4384009306504",
-    "tikName": "Усть-Кутская"
+    "tikName": "Усть-Кутская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1642,
     "uikTvd": "4384034229443",
+    "uikName": "УИК №1642",
     "tikTvd": "4384009306504",
-    "tikName": "Усть-Кутская"
+    "tikName": "Усть-Кутская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1643,
     "uikTvd": "4384034229444",
+    "uikName": "УИК №1643",
     "tikTvd": "4384009306504",
-    "tikName": "Усть-Кутская"
+    "tikName": "Усть-Кутская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1644,
     "uikTvd": "4384034229445",
+    "uikName": "УИК №1644",
     "tikTvd": "4384009306504",
-    "tikName": "Усть-Кутская"
+    "tikName": "Усть-Кутская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1645,
     "uikTvd": "4384034229446",
+    "uikName": "УИК №1645",
     "tikTvd": "4384009306504",
-    "tikName": "Усть-Кутская"
+    "tikName": "Усть-Кутская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1646,
     "uikTvd": "4384034229447",
+    "uikName": "УИК №1646",
     "tikTvd": "4384009306504",
-    "tikName": "Усть-Кутская"
+    "tikName": "Усть-Кутская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1647,
     "uikTvd": "4384034229448",
+    "uikName": "УИК №1647",
     "tikTvd": "4384009306504",
-    "tikName": "Усть-Кутская"
+    "tikName": "Усть-Кутская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1648,
     "uikTvd": "4384034229449",
+    "uikName": "УИК №1648",
     "tikTvd": "4384009306504",
-    "tikName": "Усть-Кутская"
+    "tikName": "Усть-Кутская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1649,
     "uikTvd": "4384034229450",
+    "uikName": "УИК №1649",
     "tikTvd": "4384009306504",
-    "tikName": "Усть-Кутская"
+    "tikName": "Усть-Кутская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1650,
     "uikTvd": "4384034229451",
+    "uikName": "УИК №1650",
     "tikTvd": "4384009306504",
-    "tikName": "Усть-Кутская"
+    "tikName": "Усть-Кутская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1651,
     "uikTvd": "4384034229452",
+    "uikName": "УИК №1651",
     "tikTvd": "4384009306504",
-    "tikName": "Усть-Кутская"
+    "tikName": "Усть-Кутская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1652,
     "uikTvd": "4384034229453",
+    "uikName": "УИК №1652",
     "tikTvd": "4384009306504",
-    "tikName": "Усть-Кутская"
+    "tikName": "Усть-Кутская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1653,
     "uikTvd": "4384034229454",
+    "uikName": "УИК №1653",
     "tikTvd": "4384009306504",
-    "tikName": "Усть-Кутская"
+    "tikName": "Усть-Кутская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1654,
     "uikTvd": "4384034229455",
+    "uikName": "УИК №1654",
     "tikTvd": "4384009306504",
-    "tikName": "Усть-Кутская"
+    "tikName": "Усть-Кутская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1655,
     "uikTvd": "4384034229456",
+    "uikName": "УИК №1655",
     "tikTvd": "4384009306504",
-    "tikName": "Усть-Кутская"
+    "tikName": "Усть-Кутская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1656,
     "uikTvd": "4384034229457",
+    "uikName": "УИК №1656",
     "tikTvd": "4384009306504",
-    "tikName": "Усть-Кутская"
+    "tikName": "Усть-Кутская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1657,
     "uikTvd": "4384034229458",
+    "uikName": "УИК №1657",
     "tikTvd": "4384009306504",
-    "tikName": "Усть-Кутская"
+    "tikName": "Усть-Кутская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1658,
     "uikTvd": "4384034229459",
+    "uikName": "УИК №1658",
     "tikTvd": "4384009306504",
-    "tikName": "Усть-Кутская"
+    "tikName": "Усть-Кутская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1659,
     "uikTvd": "4384034229460",
+    "uikName": "УИК №1659",
     "tikTvd": "4384009306504",
-    "tikName": "Усть-Кутская"
+    "tikName": "Усть-Кутская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1660,
     "uikTvd": "4384034229461",
+    "uikName": "УИК №1660",
     "tikTvd": "4384009306504",
-    "tikName": "Усть-Кутская"
+    "tikName": "Усть-Кутская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1661,
     "uikTvd": "4384034229462",
+    "uikName": "УИК №1661",
     "tikTvd": "4384009306504",
-    "tikName": "Усть-Кутская"
+    "tikName": "Усть-Кутская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1662,
     "uikTvd": "4384035194142",
+    "uikName": "УИК №1662",
     "tikTvd": "23820001459302",
-    "tikName": "Усть-Удинская"
+    "tikName": "Усть-Удинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1663,
     "uikTvd": "4384035194144",
+    "uikName": "УИК №1663",
     "tikTvd": "23820001459302",
-    "tikName": "Усть-Удинская"
+    "tikName": "Усть-Удинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1664,
     "uikTvd": "4384035194145",
+    "uikName": "УИК №1664",
     "tikTvd": "23820001459302",
-    "tikName": "Усть-Удинская"
+    "tikName": "Усть-Удинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1665,
     "uikTvd": "4384035194146",
+    "uikName": "УИК №1665",
     "tikTvd": "23820001459302",
-    "tikName": "Усть-Удинская"
+    "tikName": "Усть-Удинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1666,
     "uikTvd": "4384035194147",
+    "uikName": "УИК №1666",
     "tikTvd": "23820001459302",
-    "tikName": "Усть-Удинская"
+    "tikName": "Усть-Удинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1667,
     "uikTvd": "4384035194148",
+    "uikName": "УИК №1667",
     "tikTvd": "23820001459302",
-    "tikName": "Усть-Удинская"
+    "tikName": "Усть-Удинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1668,
     "uikTvd": "4384035194149",
+    "uikName": "УИК №1668",
     "tikTvd": "23820001459302",
-    "tikName": "Усть-Удинская"
+    "tikName": "Усть-Удинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1669,
     "uikTvd": "4384035194150",
+    "uikName": "УИК №1669",
     "tikTvd": "23820001459302",
-    "tikName": "Усть-Удинская"
+    "tikName": "Усть-Удинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1670,
     "uikTvd": "4384035194151",
+    "uikName": "УИК №1670",
     "tikTvd": "23820001459302",
-    "tikName": "Усть-Удинская"
+    "tikName": "Усть-Удинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1671,
     "uikTvd": "4384035194152",
+    "uikName": "УИК №1671",
     "tikTvd": "23820001459302",
-    "tikName": "Усть-Удинская"
+    "tikName": "Усть-Удинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1672,
     "uikTvd": "4384035194153",
+    "uikName": "УИК №1672",
     "tikTvd": "23820001459302",
-    "tikName": "Усть-Удинская"
+    "tikName": "Усть-Удинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1673,
     "uikTvd": "4384035194154",
+    "uikName": "УИК №1673",
     "tikTvd": "23820001459302",
-    "tikName": "Усть-Удинская"
+    "tikName": "Усть-Удинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1674,
     "uikTvd": "4384035194155",
+    "uikName": "УИК №1674",
     "tikTvd": "23820001459302",
-    "tikName": "Усть-Удинская"
+    "tikName": "Усть-Удинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1675,
     "uikTvd": "4384035194156",
+    "uikName": "УИК №1675",
     "tikTvd": "23820001459302",
-    "tikName": "Усть-Удинская"
+    "tikName": "Усть-Удинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1676,
     "uikTvd": "4384035194157",
+    "uikName": "УИК №1676",
     "tikTvd": "23820001459302",
-    "tikName": "Усть-Удинская"
+    "tikName": "Усть-Удинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1677,
     "uikTvd": "4384035194158",
+    "uikName": "УИК №1677",
     "tikTvd": "23820001459302",
-    "tikName": "Усть-Удинская"
+    "tikName": "Усть-Удинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1678,
     "uikTvd": "4384035194159",
+    "uikName": "УИК №1678",
     "tikTvd": "23820001459302",
-    "tikName": "Усть-Удинская"
+    "tikName": "Усть-Удинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1679,
     "uikTvd": "4384035194160",
+    "uikName": "УИК №1679",
     "tikTvd": "23820001459302",
-    "tikName": "Усть-Удинская"
+    "tikName": "Усть-Удинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1680,
     "uikTvd": "4384035194161",
+    "uikName": "УИК №1680",
     "tikTvd": "23820001459302",
-    "tikName": "Усть-Удинская"
+    "tikName": "Усть-Удинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1681,
     "uikTvd": "4384035194162",
+    "uikName": "УИК №1681",
     "tikTvd": "23820001459302",
-    "tikName": "Усть-Удинская"
+    "tikName": "Усть-Удинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1682,
     "uikTvd": "4384035194163",
+    "uikName": "УИК №1682",
     "tikTvd": "23820001459302",
-    "tikName": "Усть-Удинская"
+    "tikName": "Усть-Удинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1683,
     "uikTvd": "4384035194164",
+    "uikName": "УИК №1683",
     "tikTvd": "23820001459302",
-    "tikName": "Усть-Удинская"
+    "tikName": "Усть-Удинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1684,
     "uikTvd": "4384036204029",
+    "uikName": "УИК №1684",
     "tikTvd": "23820001459321",
-    "tikName": "Черемховская городская"
+    "tikName": "Черемховская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1685,
     "uikTvd": "4384036204030",
+    "uikName": "УИК №1685",
     "tikTvd": "23820001459321",
-    "tikName": "Черемховская городская"
+    "tikName": "Черемховская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1686,
     "uikTvd": "4384036204031",
+    "uikName": "УИК №1686",
     "tikTvd": "23820001459321",
-    "tikName": "Черемховская городская"
+    "tikName": "Черемховская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1687,
     "uikTvd": "4384036204032",
+    "uikName": "УИК №1687",
     "tikTvd": "23820001459321",
-    "tikName": "Черемховская городская"
+    "tikName": "Черемховская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1688,
     "uikTvd": "4384036204033",
+    "uikName": "УИК №1688",
     "tikTvd": "23820001459321",
-    "tikName": "Черемховская городская"
+    "tikName": "Черемховская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1689,
     "uikTvd": "4384036204034",
+    "uikName": "УИК №1689",
     "tikTvd": "23820001459321",
-    "tikName": "Черемховская городская"
+    "tikName": "Черемховская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1690,
     "uikTvd": "4384036204035",
+    "uikName": "УИК №1690",
     "tikTvd": "23820001459321",
-    "tikName": "Черемховская городская"
+    "tikName": "Черемховская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1691,
     "uikTvd": "4384036204036",
+    "uikName": "УИК №1691",
     "tikTvd": "23820001459321",
-    "tikName": "Черемховская городская"
+    "tikName": "Черемховская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1692,
     "uikTvd": "4384036204037",
+    "uikName": "УИК №1692",
     "tikTvd": "23820001459321",
-    "tikName": "Черемховская городская"
+    "tikName": "Черемховская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1693,
     "uikTvd": "4384036204038",
+    "uikName": "УИК №1693",
     "tikTvd": "23820001459321",
-    "tikName": "Черемховская городская"
+    "tikName": "Черемховская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1694,
     "uikTvd": "4384036204039",
+    "uikName": "УИК №1694",
     "tikTvd": "23820001459321",
-    "tikName": "Черемховская городская"
+    "tikName": "Черемховская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1695,
     "uikTvd": "4384036204040",
+    "uikName": "УИК №1695",
     "tikTvd": "23820001459321",
-    "tikName": "Черемховская городская"
+    "tikName": "Черемховская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1696,
     "uikTvd": "4384036204041",
+    "uikName": "УИК №1696",
     "tikTvd": "23820001459321",
-    "tikName": "Черемховская городская"
+    "tikName": "Черемховская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1697,
     "uikTvd": "4384036204042",
+    "uikName": "УИК №1697",
     "tikTvd": "23820001459321",
-    "tikName": "Черемховская городская"
+    "tikName": "Черемховская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1698,
     "uikTvd": "4384036204043",
+    "uikName": "УИК №1698",
     "tikTvd": "23820001459321",
-    "tikName": "Черемховская городская"
+    "tikName": "Черемховская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1699,
     "uikTvd": "4384036204044",
+    "uikName": "УИК №1699",
     "tikTvd": "23820001459321",
-    "tikName": "Черемховская городская"
+    "tikName": "Черемховская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1700,
     "uikTvd": "4384036204045",
+    "uikName": "УИК №1700",
     "tikTvd": "23820001459321",
-    "tikName": "Черемховская городская"
+    "tikName": "Черемховская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1701,
     "uikTvd": "4384036204046",
+    "uikName": "УИК №1701",
     "tikTvd": "23820001459321",
-    "tikName": "Черемховская городская"
+    "tikName": "Черемховская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1702,
     "uikTvd": "4384036204047",
+    "uikName": "УИК №1702",
     "tikTvd": "23820001459321",
-    "tikName": "Черемховская городская"
+    "tikName": "Черемховская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1703,
     "uikTvd": "4384036204048",
+    "uikName": "УИК №1703",
     "tikTvd": "23820001459321",
-    "tikName": "Черемховская городская"
+    "tikName": "Черемховская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1704,
     "uikTvd": "4384036204049",
+    "uikName": "УИК №1704",
     "tikTvd": "23820001459321",
-    "tikName": "Черемховская городская"
+    "tikName": "Черемховская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1705,
     "uikTvd": "4384036204050",
+    "uikName": "УИК №1705",
     "tikTvd": "23820001459321",
-    "tikName": "Черемховская городская"
+    "tikName": "Черемховская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1706,
     "uikTvd": "4384036204051",
+    "uikName": "УИК №1706",
     "tikTvd": "23820001459321",
-    "tikName": "Черемховская городская"
+    "tikName": "Черемховская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1707,
     "uikTvd": "4384036204052",
+    "uikName": "УИК №1707",
     "tikTvd": "23820001459321",
-    "tikName": "Черемховская городская"
+    "tikName": "Черемховская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1708,
     "uikTvd": "4384036204053",
+    "uikName": "УИК №1708",
     "tikTvd": "23820001459321",
-    "tikName": "Черемховская городская"
+    "tikName": "Черемховская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1709,
     "uikTvd": "4384036204054",
+    "uikName": "УИК №1709",
     "tikTvd": "23820001459321",
-    "tikName": "Черемховская городская"
+    "tikName": "Черемховская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1710,
     "uikTvd": "4384036204055",
+    "uikName": "УИК №1710",
     "tikTvd": "23820001459321",
-    "tikName": "Черемховская городская"
+    "tikName": "Черемховская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1711,
     "uikTvd": "4384036204056",
+    "uikName": "УИК №1711",
     "tikTvd": "23820001459321",
-    "tikName": "Черемховская городская"
+    "tikName": "Черемховская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1712,
     "uikTvd": "4384036204057",
+    "uikName": "УИК №1712",
     "tikTvd": "23820001459321",
-    "tikName": "Черемховская городская"
+    "tikName": "Черемховская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1713,
     "uikTvd": "4384036204058",
+    "uikName": "УИК №1713",
     "tikTvd": "23820001459321",
-    "tikName": "Черемховская городская"
+    "tikName": "Черемховская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1714,
     "uikTvd": "4384036204059",
+    "uikName": "УИК №1714",
     "tikTvd": "23820001459321",
-    "tikName": "Черемховская городская"
+    "tikName": "Черемховская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1715,
     "uikTvd": "4384036204060",
+    "uikName": "УИК №1715",
     "tikTvd": "23820001459321",
-    "tikName": "Черемховская городская"
+    "tikName": "Черемховская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1716,
     "uikTvd": "4384036204061",
+    "uikName": "УИК №1716",
     "tikTvd": "23820001459321",
-    "tikName": "Черемховская городская"
+    "tikName": "Черемховская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1717,
     "uikTvd": "4384036204062",
+    "uikName": "УИК №1717",
     "tikTvd": "23820001459321",
-    "tikName": "Черемховская городская"
+    "tikName": "Черемховская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1718,
     "uikTvd": "4384036204063",
+    "uikName": "УИК №1718",
     "tikTvd": "23820001459321",
-    "tikName": "Черемховская городская"
+    "tikName": "Черемховская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1719,
     "uikTvd": "4384036204064",
+    "uikName": "УИК №1719",
     "tikTvd": "23820001459321",
-    "tikName": "Черемховская городская"
+    "tikName": "Черемховская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1720,
     "uikTvd": "4384036204065",
+    "uikName": "УИК №1720",
     "tikTvd": "23820001459321",
-    "tikName": "Черемховская городская"
+    "tikName": "Черемховская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1721,
     "uikTvd": "4384036204066",
+    "uikName": "УИК №1721",
     "tikTvd": "23820001459321",
-    "tikName": "Черемховская городская"
+    "tikName": "Черемховская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1722,
     "uikTvd": "4384036204067",
+    "uikName": "УИК №1722",
     "tikTvd": "23820001459321",
-    "tikName": "Черемховская городская"
+    "tikName": "Черемховская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1723,
     "uikTvd": "4384036204068",
+    "uikName": "УИК №1723",
     "tikTvd": "23820001459321",
-    "tikName": "Черемховская городская"
+    "tikName": "Черемховская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1724,
     "uikTvd": "4384036204069",
+    "uikName": "УИК №1724",
     "tikTvd": "23820001459321",
-    "tikName": "Черемховская городская"
+    "tikName": "Черемховская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1725,
     "uikTvd": "4384036204070",
+    "uikName": "УИК №1725",
     "tikTvd": "23820001459321",
-    "tikName": "Черемховская городская"
+    "tikName": "Черемховская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1726,
     "uikTvd": "4384036204071",
+    "uikName": "УИК №1726",
     "tikTvd": "23820001459321",
-    "tikName": "Черемховская городская"
+    "tikName": "Черемховская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1727,
     "uikTvd": "4384036204072",
+    "uikName": "УИК №1727",
     "tikTvd": "23820001459321",
-    "tikName": "Черемховская городская"
+    "tikName": "Черемховская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1728,
     "uikTvd": "4384036204073",
+    "uikName": "УИК №1728",
     "tikTvd": "23820001459321",
-    "tikName": "Черемховская городская"
+    "tikName": "Черемховская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1729,
     "uikTvd": "4384036204074",
+    "uikName": "УИК №1729",
     "tikTvd": "23820001459321",
-    "tikName": "Черемховская городская"
+    "tikName": "Черемховская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1730,
     "uikTvd": "4384036204075",
+    "uikName": "УИК №1730",
     "tikTvd": "23820001459321",
-    "tikName": "Черемховская городская"
+    "tikName": "Черемховская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1731,
     "uikTvd": "4384036204076",
+    "uikName": "УИК №1731",
     "tikTvd": "23820001459321",
-    "tikName": "Черемховская городская"
+    "tikName": "Черемховская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1732,
     "uikTvd": "4384008244041",
+    "uikName": "УИК №1732",
     "tikTvd": "23820001459320",
-    "tikName": "Черемховская районная"
+    "tikName": "Черемховская районная",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1733,
     "uikTvd": "4384008244042",
+    "uikName": "УИК №1733",
     "tikTvd": "23820001459320",
-    "tikName": "Черемховская районная"
+    "tikName": "Черемховская районная",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1734,
     "uikTvd": "4384008244043",
+    "uikName": "УИК №1734",
     "tikTvd": "23820001459320",
-    "tikName": "Черемховская районная"
+    "tikName": "Черемховская районная",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1735,
     "uikTvd": "4384008244044",
+    "uikName": "УИК №1735",
     "tikTvd": "23820001459320",
-    "tikName": "Черемховская районная"
+    "tikName": "Черемховская районная",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1736,
     "uikTvd": "4384008244045",
+    "uikName": "УИК №1736",
     "tikTvd": "23820001459320",
-    "tikName": "Черемховская районная"
+    "tikName": "Черемховская районная",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1737,
     "uikTvd": "4384008244046",
+    "uikName": "УИК №1737",
     "tikTvd": "23820001459320",
-    "tikName": "Черемховская районная"
+    "tikName": "Черемховская районная",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1738,
     "uikTvd": "4384008244047",
+    "uikName": "УИК №1738",
     "tikTvd": "23820001459320",
-    "tikName": "Черемховская районная"
+    "tikName": "Черемховская районная",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1739,
     "uikTvd": "4384008244048",
+    "uikName": "УИК №1739",
     "tikTvd": "23820001459320",
-    "tikName": "Черемховская районная"
+    "tikName": "Черемховская районная",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1740,
     "uikTvd": "4384008244049",
+    "uikName": "УИК №1740",
     "tikTvd": "23820001459320",
-    "tikName": "Черемховская районная"
+    "tikName": "Черемховская районная",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1741,
     "uikTvd": "4384008244050",
+    "uikName": "УИК №1741",
     "tikTvd": "23820001459320",
-    "tikName": "Черемховская районная"
+    "tikName": "Черемховская районная",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1742,
     "uikTvd": "4384008244051",
+    "uikName": "УИК №1742",
     "tikTvd": "23820001459320",
-    "tikName": "Черемховская районная"
+    "tikName": "Черемховская районная",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1743,
     "uikTvd": "4384008244052",
+    "uikName": "УИК №1743",
     "tikTvd": "23820001459320",
-    "tikName": "Черемховская районная"
+    "tikName": "Черемховская районная",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1744,
     "uikTvd": "4384008244053",
+    "uikName": "УИК №1744",
     "tikTvd": "23820001459320",
-    "tikName": "Черемховская районная"
+    "tikName": "Черемховская районная",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1745,
     "uikTvd": "4384008244054",
+    "uikName": "УИК №1745",
     "tikTvd": "23820001459320",
-    "tikName": "Черемховская районная"
+    "tikName": "Черемховская районная",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1746,
     "uikTvd": "4384008244055",
+    "uikName": "УИК №1746",
     "tikTvd": "23820001459320",
-    "tikName": "Черемховская районная"
+    "tikName": "Черемховская районная",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1747,
     "uikTvd": "4384008244056",
+    "uikName": "УИК №1747",
     "tikTvd": "23820001459320",
-    "tikName": "Черемховская районная"
+    "tikName": "Черемховская районная",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1748,
     "uikTvd": "4384008244057",
+    "uikName": "УИК №1748",
     "tikTvd": "23820001459320",
-    "tikName": "Черемховская районная"
+    "tikName": "Черемховская районная",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1749,
     "uikTvd": "4384008244058",
+    "uikName": "УИК №1749",
     "tikTvd": "23820001459320",
-    "tikName": "Черемховская районная"
+    "tikName": "Черемховская районная",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1750,
     "uikTvd": "4384008244059",
+    "uikName": "УИК №1750",
     "tikTvd": "23820001459320",
-    "tikName": "Черемховская районная"
+    "tikName": "Черемховская районная",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1751,
     "uikTvd": "4384008244060",
+    "uikName": "УИК №1751",
     "tikTvd": "23820001459320",
-    "tikName": "Черемховская районная"
+    "tikName": "Черемховская районная",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1752,
     "uikTvd": "4384008244061",
+    "uikName": "УИК №1752",
     "tikTvd": "23820001459320",
-    "tikName": "Черемховская районная"
+    "tikName": "Черемховская районная",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1753,
     "uikTvd": "4384008244062",
+    "uikName": "УИК №1753",
     "tikTvd": "23820001459320",
-    "tikName": "Черемховская районная"
+    "tikName": "Черемховская районная",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1754,
     "uikTvd": "4384008244063",
+    "uikName": "УИК №1754",
     "tikTvd": "23820001459320",
-    "tikName": "Черемховская районная"
+    "tikName": "Черемховская районная",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1755,
     "uikTvd": "4384008244064",
+    "uikName": "УИК №1755",
     "tikTvd": "23820001459320",
-    "tikName": "Черемховская районная"
+    "tikName": "Черемховская районная",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1756,
     "uikTvd": "4384008244065",
+    "uikName": "УИК №1756",
     "tikTvd": "23820001459320",
-    "tikName": "Черемховская районная"
+    "tikName": "Черемховская районная",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1757,
     "uikTvd": "4384008244066",
+    "uikName": "УИК №1757",
     "tikTvd": "23820001459320",
-    "tikName": "Черемховская районная"
+    "tikName": "Черемховская районная",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1758,
     "uikTvd": "4384008244067",
+    "uikName": "УИК №1758",
     "tikTvd": "23820001459320",
-    "tikName": "Черемховская районная"
+    "tikName": "Черемховская районная",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1759,
     "uikTvd": "4384008244068",
+    "uikName": "УИК №1759",
     "tikTvd": "23820001459320",
-    "tikName": "Черемховская районная"
+    "tikName": "Черемховская районная",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1760,
     "uikTvd": "4384008244069",
+    "uikName": "УИК №1760",
     "tikTvd": "23820001459320",
-    "tikName": "Черемховская районная"
+    "tikName": "Черемховская районная",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1761,
     "uikTvd": "4384008244070",
+    "uikName": "УИК №1761",
     "tikTvd": "23820001459320",
-    "tikName": "Черемховская районная"
+    "tikName": "Черемховская районная",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1762,
     "uikTvd": "4384008244071",
+    "uikName": "УИК №1762",
     "tikTvd": "23820001459320",
-    "tikName": "Черемховская районная"
+    "tikName": "Черемховская районная",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1763,
     "uikTvd": "4384008244072",
+    "uikName": "УИК №1763",
     "tikTvd": "23820001459320",
-    "tikName": "Черемховская районная"
+    "tikName": "Черемховская районная",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1764,
     "uikTvd": "4384008244073",
+    "uikName": "УИК №1764",
     "tikTvd": "23820001459320",
-    "tikName": "Черемховская районная"
+    "tikName": "Черемховская районная",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1765,
     "uikTvd": "4384008244074",
+    "uikName": "УИК №1765",
     "tikTvd": "23820001459320",
-    "tikName": "Черемховская районная"
+    "tikName": "Черемховская районная",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1766,
     "uikTvd": "4384008244075",
+    "uikName": "УИК №1766",
     "tikTvd": "23820001459320",
-    "tikName": "Черемховская районная"
+    "tikName": "Черемховская районная",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1767,
     "uikTvd": "4384008244076",
+    "uikName": "УИК №1767",
     "tikTvd": "23820001459320",
-    "tikName": "Черемховская районная"
+    "tikName": "Черемховская районная",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1768,
     "uikTvd": "4384008244077",
+    "uikName": "УИК №1768",
     "tikTvd": "23820001459320",
-    "tikName": "Черемховская районная"
+    "tikName": "Черемховская районная",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1769,
     "uikTvd": "4384008244078",
+    "uikName": "УИК №1769",
     "tikTvd": "23820001459320",
-    "tikName": "Черемховская районная"
+    "tikName": "Черемховская районная",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1770,
     "uikTvd": "4384008244079",
+    "uikName": "УИК №1770",
     "tikTvd": "23820001459320",
-    "tikName": "Черемховская районная"
+    "tikName": "Черемховская районная",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1771,
     "uikTvd": "4384008244080",
+    "uikName": "УИК №1771",
     "tikTvd": "23820001459320",
-    "tikName": "Черемховская районная"
+    "tikName": "Черемховская районная",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1772,
     "uikTvd": "4384008244081",
+    "uikName": "УИК №1772",
     "tikTvd": "23820001459320",
-    "tikName": "Черемховская районная"
+    "tikName": "Черемховская районная",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1773,
     "uikTvd": "4384008244082",
+    "uikName": "УИК №1773",
     "tikTvd": "23820001459320",
-    "tikName": "Черемховская районная"
+    "tikName": "Черемховская районная",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1774,
     "uikTvd": "4384008244083",
+    "uikName": "УИК №1774",
     "tikTvd": "23820001459320",
-    "tikName": "Черемховская районная"
+    "tikName": "Черемховская районная",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1775,
     "uikTvd": "4384008244084",
+    "uikName": "УИК №1775",
     "tikTvd": "23820001459320",
-    "tikName": "Черемховская районная"
+    "tikName": "Черемховская районная",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1776,
     "uikTvd": "4384008244085",
+    "uikName": "УИК №1776",
     "tikTvd": "23820001459320",
-    "tikName": "Черемховская районная"
+    "tikName": "Черемховская районная",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1777,
     "uikTvd": "4384008244086",
+    "uikName": "УИК №1777",
     "tikTvd": "23820001459320",
-    "tikName": "Черемховская районная"
+    "tikName": "Черемховская районная",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1778,
     "uikTvd": "4384008244087",
+    "uikName": "УИК №1778",
     "tikTvd": "23820001459320",
-    "tikName": "Черемховская районная"
+    "tikName": "Черемховская районная",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1779,
     "uikTvd": "4384008244088",
+    "uikName": "УИК №1779",
     "tikTvd": "23820001459320",
-    "tikName": "Черемховская районная"
+    "tikName": "Черемховская районная",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1780,
     "uikTvd": "4384008244089",
+    "uikName": "УИК №1780",
     "tikTvd": "23820001459320",
-    "tikName": "Черемховская районная"
+    "tikName": "Черемховская районная",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1781,
     "uikTvd": "4384008244090",
+    "uikName": "УИК №1781",
     "tikTvd": "23820001459320",
-    "tikName": "Черемховская районная"
+    "tikName": "Черемховская районная",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1782,
     "uikTvd": "4384037195662",
+    "uikName": "УИК №1782",
     "tikTvd": "4384009306505",
-    "tikName": "Чунская"
+    "tikName": "Чунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1783,
     "uikTvd": "4384037195663",
+    "uikName": "УИК №1783",
     "tikTvd": "4384009306505",
-    "tikName": "Чунская"
+    "tikName": "Чунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1784,
     "uikTvd": "4384037195664",
+    "uikName": "УИК №1784",
     "tikTvd": "4384009306505",
-    "tikName": "Чунская"
+    "tikName": "Чунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1785,
     "uikTvd": "4384037195665",
+    "uikName": "УИК №1785",
     "tikTvd": "4384009306505",
-    "tikName": "Чунская"
+    "tikName": "Чунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1786,
     "uikTvd": "4384037195666",
+    "uikName": "УИК №1786",
     "tikTvd": "4384009306505",
-    "tikName": "Чунская"
+    "tikName": "Чунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1787,
     "uikTvd": "4384037195667",
+    "uikName": "УИК №1787",
     "tikTvd": "4384009306505",
-    "tikName": "Чунская"
+    "tikName": "Чунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1788,
     "uikTvd": "4384037195668",
+    "uikName": "УИК №1788",
     "tikTvd": "4384009306505",
-    "tikName": "Чунская"
+    "tikName": "Чунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1789,
     "uikTvd": "4384037195669",
+    "uikName": "УИК №1789",
     "tikTvd": "4384009306505",
-    "tikName": "Чунская"
+    "tikName": "Чунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1790,
     "uikTvd": "4384037195670",
+    "uikName": "УИК №1790",
     "tikTvd": "4384009306505",
-    "tikName": "Чунская"
+    "tikName": "Чунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1791,
     "uikTvd": "4384037195671",
+    "uikName": "УИК №1791",
     "tikTvd": "4384009306505",
-    "tikName": "Чунская"
+    "tikName": "Чунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1792,
     "uikTvd": "4384037195672",
+    "uikName": "УИК №1792",
     "tikTvd": "4384009306505",
-    "tikName": "Чунская"
+    "tikName": "Чунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1793,
     "uikTvd": "4384037195673",
+    "uikName": "УИК №1793",
     "tikTvd": "4384009306505",
-    "tikName": "Чунская"
+    "tikName": "Чунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1794,
     "uikTvd": "4384037195674",
+    "uikName": "УИК №1794",
     "tikTvd": "4384009306505",
-    "tikName": "Чунская"
+    "tikName": "Чунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1795,
     "uikTvd": "4384037195675",
+    "uikName": "УИК №1795",
     "tikTvd": "4384009306505",
-    "tikName": "Чунская"
+    "tikName": "Чунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1796,
     "uikTvd": "4384037195676",
+    "uikName": "УИК №1796",
     "tikTvd": "4384009306505",
-    "tikName": "Чунская"
+    "tikName": "Чунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1797,
     "uikTvd": "4384037195677",
+    "uikName": "УИК №1797",
     "tikTvd": "4384009306505",
-    "tikName": "Чунская"
+    "tikName": "Чунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1798,
     "uikTvd": "4384037195678",
+    "uikName": "УИК №1798",
     "tikTvd": "4384009306505",
-    "tikName": "Чунская"
+    "tikName": "Чунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1799,
     "uikTvd": "4384037195679",
+    "uikName": "УИК №1799",
     "tikTvd": "4384009306505",
-    "tikName": "Чунская"
+    "tikName": "Чунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1800,
     "uikTvd": "4384037195680",
+    "uikName": "УИК №1800",
     "tikTvd": "4384009306505",
-    "tikName": "Чунская"
+    "tikName": "Чунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1801,
     "uikTvd": "4384037195681",
+    "uikName": "УИК №1801",
     "tikTvd": "4384009306505",
-    "tikName": "Чунская"
+    "tikName": "Чунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1802,
     "uikTvd": "4384037195682",
+    "uikName": "УИК №1802",
     "tikTvd": "4384009306505",
-    "tikName": "Чунская"
+    "tikName": "Чунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1803,
     "uikTvd": "4384037195683",
+    "uikName": "УИК №1803",
     "tikTvd": "4384009306505",
-    "tikName": "Чунская"
+    "tikName": "Чунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1804,
     "uikTvd": "4384037195684",
+    "uikName": "УИК №1804",
     "tikTvd": "4384009306505",
-    "tikName": "Чунская"
+    "tikName": "Чунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1805,
     "uikTvd": "4384037195685",
+    "uikName": "УИК №1805",
     "tikTvd": "4384009306505",
-    "tikName": "Чунская"
+    "tikName": "Чунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1806,
     "uikTvd": "4384037195686",
+    "uikName": "УИК №1806",
     "tikTvd": "4384009306505",
-    "tikName": "Чунская"
+    "tikName": "Чунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1807,
     "uikTvd": "4384037195687",
+    "uikName": "УИК №1807",
     "tikTvd": "4384009306505",
-    "tikName": "Чунская"
+    "tikName": "Чунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1808,
     "uikTvd": "4384037195688",
+    "uikName": "УИК №1808",
     "tikTvd": "4384009306505",
-    "tikName": "Чунская"
+    "tikName": "Чунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1809,
     "uikTvd": "4384037195689",
+    "uikName": "УИК №1809",
     "tikTvd": "4384009306505",
-    "tikName": "Чунская"
+    "tikName": "Чунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1810,
     "uikTvd": "4384037195690",
+    "uikName": "УИК №1810",
     "tikTvd": "4384009306505",
-    "tikName": "Чунская"
+    "tikName": "Чунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1811,
     "uikTvd": "4384037195691",
+    "uikName": "УИК №1811",
     "tikTvd": "4384009306505",
-    "tikName": "Чунская"
+    "tikName": "Чунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1812,
     "uikTvd": "4384037195692",
+    "uikName": "УИК №1812",
     "tikTvd": "4384009306505",
-    "tikName": "Чунская"
+    "tikName": "Чунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1813,
     "uikTvd": "4384037195693",
+    "uikName": "УИК №1813",
     "tikTvd": "4384009306505",
-    "tikName": "Чунская"
+    "tikName": "Чунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1814,
     "uikTvd": "4384037195694",
+    "uikName": "УИК №1814",
     "tikTvd": "4384009306505",
-    "tikName": "Чунская"
+    "tikName": "Чунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1815,
     "uikTvd": "4384037195695",
+    "uikName": "УИК №1815",
     "tikTvd": "4384009306505",
-    "tikName": "Чунская"
+    "tikName": "Чунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1816,
     "uikTvd": "4384037195696",
+    "uikName": "УИК №1816",
     "tikTvd": "4384009306505",
-    "tikName": "Чунская"
+    "tikName": "Чунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1817,
     "uikTvd": "4384037195697",
+    "uikName": "УИК №1817",
     "tikTvd": "4384009306505",
-    "tikName": "Чунская"
+    "tikName": "Чунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1818,
     "uikTvd": "4384037195698",
+    "uikName": "УИК №1818",
     "tikTvd": "4384009306505",
-    "tikName": "Чунская"
+    "tikName": "Чунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1819,
     "uikTvd": "4384037195699",
+    "uikName": "УИК №1819",
     "tikTvd": "4384009306505",
-    "tikName": "Чунская"
+    "tikName": "Чунская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1820,
     "uikTvd": "4394014223544",
+    "uikName": "УИК №1820",
     "tikTvd": "23820001459311",
-    "tikName": "Иркутск, Иркутская городская N 3 "
+    "tikName": "Иркутск, Иркутская городская N 3 ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1821,
     "uikTvd": "4394014223545",
+    "uikName": "УИК №1821",
     "tikTvd": "23820001459311",
-    "tikName": "Иркутск, Иркутская городская N 3 "
+    "tikName": "Иркутск, Иркутская городская N 3 ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1822,
     "uikTvd": "4384038278574",
+    "uikName": "УИК №1822",
     "tikTvd": "23820001459319",
-    "tikName": "Шелеховская"
+    "tikName": "Шелеховская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1823,
     "uikTvd": "4384038278576",
+    "uikName": "УИК №1823",
     "tikTvd": "23820001459319",
-    "tikName": "Шелеховская"
+    "tikName": "Шелеховская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1824,
     "uikTvd": "4384038278578",
+    "uikName": "УИК №1824",
     "tikTvd": "23820001459319",
-    "tikName": "Шелеховская"
+    "tikName": "Шелеховская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1825,
     "uikTvd": "4384038278580",
+    "uikName": "УИК №1825",
     "tikTvd": "23820001459319",
-    "tikName": "Шелеховская"
+    "tikName": "Шелеховская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1826,
     "uikTvd": "4384038278583",
+    "uikName": "УИК №1826",
     "tikTvd": "23820001459319",
-    "tikName": "Шелеховская"
+    "tikName": "Шелеховская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1827,
     "uikTvd": "4384038278585",
+    "uikName": "УИК №1827",
     "tikTvd": "23820001459319",
-    "tikName": "Шелеховская"
+    "tikName": "Шелеховская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1828,
     "uikTvd": "4384038278587",
+    "uikName": "УИК №1828",
     "tikTvd": "23820001459319",
-    "tikName": "Шелеховская"
+    "tikName": "Шелеховская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1829,
     "uikTvd": "4384038278589",
+    "uikName": "УИК №1829",
     "tikTvd": "23820001459319",
-    "tikName": "Шелеховская"
+    "tikName": "Шелеховская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1830,
     "uikTvd": "4384038278591",
+    "uikName": "УИК №1830",
     "tikTvd": "23820001459319",
-    "tikName": "Шелеховская"
+    "tikName": "Шелеховская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1831,
     "uikTvd": "4384038278593",
+    "uikName": "УИК №1831",
     "tikTvd": "23820001459319",
-    "tikName": "Шелеховская"
+    "tikName": "Шелеховская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1832,
     "uikTvd": "4384038278595",
+    "uikName": "УИК №1832",
     "tikTvd": "23820001459319",
-    "tikName": "Шелеховская"
+    "tikName": "Шелеховская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1833,
     "uikTvd": "4384038278597",
+    "uikName": "УИК №1833",
     "tikTvd": "23820001459319",
-    "tikName": "Шелеховская"
+    "tikName": "Шелеховская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1834,
     "uikTvd": "4384038278599",
+    "uikName": "УИК №1834",
     "tikTvd": "23820001459319",
-    "tikName": "Шелеховская"
+    "tikName": "Шелеховская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1835,
     "uikTvd": "4384038278601",
+    "uikName": "УИК №1835",
     "tikTvd": "23820001459319",
-    "tikName": "Шелеховская"
+    "tikName": "Шелеховская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1836,
     "uikTvd": "4384038278603",
+    "uikName": "УИК №1836",
     "tikTvd": "23820001459319",
-    "tikName": "Шелеховская"
+    "tikName": "Шелеховская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1837,
     "uikTvd": "4384038278605",
+    "uikName": "УИК №1837",
     "tikTvd": "23820001459319",
-    "tikName": "Шелеховская"
+    "tikName": "Шелеховская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1838,
     "uikTvd": "4384038278607",
+    "uikName": "УИК №1838",
     "tikTvd": "23820001459319",
-    "tikName": "Шелеховская"
+    "tikName": "Шелеховская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1839,
     "uikTvd": "4384038278609",
+    "uikName": "УИК №1839",
     "tikTvd": "23820001459319",
-    "tikName": "Шелеховская"
+    "tikName": "Шелеховская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1840,
     "uikTvd": "4384038278611",
+    "uikName": "УИК №1840",
     "tikTvd": "23820001459319",
-    "tikName": "Шелеховская"
+    "tikName": "Шелеховская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1841,
     "uikTvd": "4384038278613",
+    "uikName": "УИК №1841",
     "tikTvd": "23820001459319",
-    "tikName": "Шелеховская"
+    "tikName": "Шелеховская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1842,
     "uikTvd": "4384038278615",
+    "uikName": "УИК №1842",
     "tikTvd": "23820001459319",
-    "tikName": "Шелеховская"
+    "tikName": "Шелеховская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1843,
     "uikTvd": "4384038278617",
+    "uikName": "УИК №1843",
     "tikTvd": "23820001459319",
-    "tikName": "Шелеховская"
+    "tikName": "Шелеховская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1844,
     "uikTvd": "4384038278619",
+    "uikName": "УИК №1844",
     "tikTvd": "23820001459319",
-    "tikName": "Шелеховская"
+    "tikName": "Шелеховская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1845,
     "uikTvd": "4384038278621",
+    "uikName": "УИК №1845",
     "tikTvd": "23820001459319",
-    "tikName": "Шелеховская"
+    "tikName": "Шелеховская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1846,
     "uikTvd": "4384038278623",
+    "uikName": "УИК №1846",
     "tikTvd": "23820001459319",
-    "tikName": "Шелеховская"
+    "tikName": "Шелеховская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1847,
     "uikTvd": "4384038278625",
+    "uikName": "УИК №1847",
     "tikTvd": "23820001459319",
-    "tikName": "Шелеховская"
+    "tikName": "Шелеховская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1848,
     "uikTvd": "4384038278627",
+    "uikName": "УИК №1848",
     "tikTvd": "23820001459319",
-    "tikName": "Шелеховская"
+    "tikName": "Шелеховская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1849,
     "uikTvd": "4854006191163",
+    "uikName": "УИК №1849",
     "tikTvd": "23820001459301",
-    "tikName": "Эхирит-Булагатская"
+    "tikName": "Эхирит-Булагатская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1850,
     "uikTvd": "4854006191164",
+    "uikName": "УИК №1850",
     "tikTvd": "23820001459301",
-    "tikName": "Эхирит-Булагатская"
+    "tikName": "Эхирит-Булагатская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1851,
     "uikTvd": "4854006191165",
+    "uikName": "УИК №1851",
     "tikTvd": "23820001459301",
-    "tikName": "Эхирит-Булагатская"
+    "tikName": "Эхирит-Булагатская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1852,
     "uikTvd": "4854006191166",
+    "uikName": "УИК №1852",
     "tikTvd": "23820001459301",
-    "tikName": "Эхирит-Булагатская"
+    "tikName": "Эхирит-Булагатская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1853,
     "uikTvd": "4854006191167",
+    "uikName": "УИК №1853",
     "tikTvd": "23820001459301",
-    "tikName": "Эхирит-Булагатская"
+    "tikName": "Эхирит-Булагатская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1854,
     "uikTvd": "4854006191168",
+    "uikName": "УИК №1854",
     "tikTvd": "23820001459301",
-    "tikName": "Эхирит-Булагатская"
+    "tikName": "Эхирит-Булагатская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1855,
     "uikTvd": "4854006191169",
+    "uikName": "УИК №1855",
     "tikTvd": "23820001459301",
-    "tikName": "Эхирит-Булагатская"
+    "tikName": "Эхирит-Булагатская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1856,
     "uikTvd": "4854006191170",
+    "uikName": "УИК №1856",
     "tikTvd": "23820001459301",
-    "tikName": "Эхирит-Булагатская"
+    "tikName": "Эхирит-Булагатская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1857,
     "uikTvd": "4854006191171",
+    "uikName": "УИК №1857",
     "tikTvd": "23820001459301",
-    "tikName": "Эхирит-Булагатская"
+    "tikName": "Эхирит-Булагатская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1858,
     "uikTvd": "4854006191172",
+    "uikName": "УИК №1858",
     "tikTvd": "23820001459301",
-    "tikName": "Эхирит-Булагатская"
+    "tikName": "Эхирит-Булагатская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1859,
     "uikTvd": "4854006191173",
+    "uikName": "УИК №1859",
     "tikTvd": "23820001459301",
-    "tikName": "Эхирит-Булагатская"
+    "tikName": "Эхирит-Булагатская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1860,
     "uikTvd": "4854006191174",
+    "uikName": "УИК №1860",
     "tikTvd": "23820001459301",
-    "tikName": "Эхирит-Булагатская"
+    "tikName": "Эхирит-Булагатская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1861,
     "uikTvd": "4854006191175",
+    "uikName": "УИК №1861",
     "tikTvd": "23820001459301",
-    "tikName": "Эхирит-Булагатская"
+    "tikName": "Эхирит-Булагатская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1862,
     "uikTvd": "4854006191176",
+    "uikName": "УИК №1862",
     "tikTvd": "23820001459301",
-    "tikName": "Эхирит-Булагатская"
+    "tikName": "Эхирит-Булагатская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1863,
     "uikTvd": "4854006191177",
+    "uikName": "УИК №1863",
     "tikTvd": "23820001459301",
-    "tikName": "Эхирит-Булагатская"
+    "tikName": "Эхирит-Булагатская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1864,
     "uikTvd": "4854006191178",
+    "uikName": "УИК №1864",
     "tikTvd": "23820001459301",
-    "tikName": "Эхирит-Булагатская"
+    "tikName": "Эхирит-Булагатская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1865,
     "uikTvd": "4854006191179",
+    "uikName": "УИК №1865",
     "tikTvd": "23820001459301",
-    "tikName": "Эхирит-Булагатская"
+    "tikName": "Эхирит-Булагатская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1866,
     "uikTvd": "4854006191180",
+    "uikName": "УИК №1866",
     "tikTvd": "23820001459301",
-    "tikName": "Эхирит-Булагатская"
+    "tikName": "Эхирит-Булагатская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1867,
     "uikTvd": "4854006191181",
+    "uikName": "УИК №1867",
     "tikTvd": "23820001459301",
-    "tikName": "Эхирит-Булагатская"
+    "tikName": "Эхирит-Булагатская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1868,
     "uikTvd": "4854006191182",
+    "uikName": "УИК №1868",
     "tikTvd": "23820001459301",
-    "tikName": "Эхирит-Булагатская"
+    "tikName": "Эхирит-Булагатская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1869,
     "uikTvd": "4854006191183",
+    "uikName": "УИК №1869",
     "tikTvd": "23820001459301",
-    "tikName": "Эхирит-Булагатская"
+    "tikName": "Эхирит-Булагатская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1870,
     "uikTvd": "4854006191184",
+    "uikName": "УИК №1870",
     "tikTvd": "23820001459301",
-    "tikName": "Эхирит-Булагатская"
+    "tikName": "Эхирит-Булагатская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1871,
     "uikTvd": "4854006191185",
+    "uikName": "УИК №1871",
     "tikTvd": "23820001459301",
-    "tikName": "Эхирит-Булагатская"
+    "tikName": "Эхирит-Булагатская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1872,
     "uikTvd": "4854006191186",
+    "uikName": "УИК №1872",
     "tikTvd": "23820001459301",
-    "tikName": "Эхирит-Булагатская"
+    "tikName": "Эхирит-Булагатская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1873,
     "uikTvd": "4854006191187",
+    "uikName": "УИК №1873",
     "tikTvd": "23820001459301",
-    "tikName": "Эхирит-Булагатская"
+    "tikName": "Эхирит-Булагатская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1874,
     "uikTvd": "4854006191188",
+    "uikName": "УИК №1874",
     "tikTvd": "23820001459301",
-    "tikName": "Эхирит-Булагатская"
+    "tikName": "Эхирит-Булагатская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1875,
     "uikTvd": "4854006191189",
+    "uikName": "УИК №1875",
     "tikTvd": "23820001459301",
-    "tikName": "Эхирит-Булагатская"
+    "tikName": "Эхирит-Булагатская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1876,
     "uikTvd": "4854006191190",
+    "uikName": "УИК №1876",
     "tikTvd": "23820001459301",
-    "tikName": "Эхирит-Булагатская"
+    "tikName": "Эхирит-Булагатская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1877,
     "uikTvd": "4854006191191",
+    "uikName": "УИК №1877",
     "tikTvd": "23820001459301",
-    "tikName": "Эхирит-Булагатская"
+    "tikName": "Эхирит-Булагатская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1878,
     "uikTvd": "4854006191192",
+    "uikName": "УИК №1878",
     "tikTvd": "23820001459301",
-    "tikName": "Эхирит-Булагатская"
+    "tikName": "Эхирит-Булагатская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1879,
     "uikTvd": "4854006191193",
+    "uikName": "УИК №1879",
     "tikTvd": "23820001459301",
-    "tikName": "Эхирит-Булагатская"
+    "tikName": "Эхирит-Булагатская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1880,
     "uikTvd": "4854006191194",
+    "uikName": "УИК №1880",
     "tikTvd": "23820001459301",
-    "tikName": "Эхирит-Булагатская"
+    "tikName": "Эхирит-Булагатская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1881,
     "uikTvd": "4854006191195",
+    "uikName": "УИК №1881",
     "tikTvd": "23820001459301",
-    "tikName": "Эхирит-Булагатская"
+    "tikName": "Эхирит-Булагатская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1882,
     "uikTvd": "4854006191196",
+    "uikName": "УИК №1882",
     "tikTvd": "23820001459301",
-    "tikName": "Эхирит-Булагатская"
+    "tikName": "Эхирит-Булагатская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1883,
     "uikTvd": "4854006191197",
+    "uikName": "УИК №1883",
     "tikTvd": "23820001459301",
-    "tikName": "Эхирит-Булагатская"
+    "tikName": "Эхирит-Булагатская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1884,
     "uikTvd": "4854006191198",
+    "uikName": "УИК №1884",
     "tikTvd": "23820001459301",
-    "tikName": "Эхирит-Булагатская"
+    "tikName": "Эхирит-Булагатская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1885,
     "uikTvd": "4854006191199",
+    "uikName": "УИК №1885",
     "tikTvd": "23820001459301",
-    "tikName": "Эхирит-Булагатская"
+    "tikName": "Эхирит-Булагатская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1886,
     "uikTvd": "4854006191200",
+    "uikName": "УИК №1886",
     "tikTvd": "23820001459301",
-    "tikName": "Эхирит-Булагатская"
+    "tikName": "Эхирит-Булагатская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1887,
     "uikTvd": "4854006191201",
+    "uikName": "УИК №1887",
     "tikTvd": "23820001459301",
-    "tikName": "Эхирит-Булагатская"
+    "tikName": "Эхирит-Булагатская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1888,
     "uikTvd": "4854006191202",
+    "uikName": "УИК №1888",
     "tikTvd": "23820001459301",
-    "tikName": "Эхирит-Булагатская"
+    "tikName": "Эхирит-Булагатская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1889,
     "uikTvd": "4854006191203",
+    "uikName": "УИК №1889",
     "tikTvd": "23820001459301",
-    "tikName": "Эхирит-Булагатская"
+    "tikName": "Эхирит-Булагатская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1890,
     "uikTvd": "4854006191204",
+    "uikName": "УИК №1890",
     "tikTvd": "23820001459301",
-    "tikName": "Эхирит-Булагатская"
+    "tikName": "Эхирит-Булагатская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1891,
     "uikTvd": "4384007305533",
+    "uikName": "УИК №1891",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1892,
     "uikTvd": "4384001376870",
+    "uikName": "УИК №1892",
     "tikTvd": "4384001346410",
-    "tikName": "Ангарская"
+    "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 1893,
     "uikTvd": "4384001376871",
+    "uikName": "УИК №1893",
     "tikTvd": "4384001346410",
-    "tikName": "Ангарская"
+    "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 1894,
     "uikTvd": "4384001376872",
+    "uikName": "УИК №1894",
     "tikTvd": "4384001346410",
-    "tikName": "Ангарская"
+    "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 1895,
     "uikTvd": "4384001376873",
+    "uikName": "УИК №1895",
     "tikTvd": "4384001346410",
-    "tikName": "Ангарская"
+    "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 1896,
     "uikTvd": "4384001376874",
+    "uikName": "УИК №1896",
     "tikTvd": "4384001346410",
-    "tikName": "Ангарская"
+    "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 1897,
     "uikTvd": "4384001376875",
+    "uikName": "УИК №1897",
     "tikTvd": "4384001346410",
-    "tikName": "Ангарская"
+    "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 1898,
     "uikTvd": "4384001376876",
+    "uikName": "УИК №1898",
     "tikTvd": "4384001346410",
-    "tikName": "Ангарская"
+    "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 1899,
     "uikTvd": "4384003171761",
+    "uikName": "УИК №1899",
     "tikTvd": "4384009306495",
-    "tikName": "Бодайбинская"
+    "tikName": "Бодайбинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1900,
     "uikTvd": "4384003171762",
+    "uikName": "УИК №1900",
     "tikTvd": "4384009306495",
-    "tikName": "Бодайбинская"
+    "tikName": "Бодайбинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1902,
     "uikTvd": "4384007305535",
+    "uikName": "УИК №1902",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1903,
     "uikTvd": "4384007305536",
+    "uikName": "УИК №1903",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1904,
     "uikTvd": "4384007305537",
+    "uikName": "УИК №1904",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1905,
     "uikTvd": "4384007305538",
+    "uikName": "УИК №1905",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1906,
     "uikTvd": "4384007305539",
+    "uikName": "УИК №1906",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1907,
     "uikTvd": "4384016195858",
+    "uikName": "УИК №1907",
     "tikTvd": "23820001459312",
-    "tikName": "Иркутск, Иркутская городская N 2"
+    "tikName": "Иркутск, Иркутская городская N 2",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1908,
     "uikTvd": "4394014227384",
+    "uikName": "УИК №1908",
     "tikTvd": "23820001459311",
-    "tikName": "Иркутск, Иркутская городская N 3 "
+    "tikName": "Иркутск, Иркутская городская N 3 ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1909,
     "uikTvd": "4384017268001",
+    "uikName": "УИК №1909",
     "tikTvd": "23820001459327",
-    "tikName": "Иркутская городская N 4"
+    "tikName": "Иркутская городская N 4",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1910,
     "uikTvd": "4384004353945",
+    "uikName": "УИК №1910",
     "tikTvd": "23820001459325",
-    "tikName": "Тайшетская"
+    "tikName": "Тайшетская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1911,
     "uikTvd": "4384031200657",
+    "uikName": "УИК №1911",
     "tikTvd": "23820001459324",
-    "tikName": "Тулунская городская"
+    "tikName": "Тулунская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1912,
     "uikTvd": "4384031200658",
+    "uikName": "УИК №1912",
     "tikTvd": "23820001459324",
-    "tikName": "Тулунская городская"
+    "tikName": "Тулунская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 1913,
     "uikTvd": "4384032187696",
+    "uikName": "УИК №1913",
     "tikTvd": "4384001346417",
-    "tikName": "Усолье-Сибирская городская"
+    "tikName": "Усолье-Сибирская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 1914,
     "uikTvd": "4384032187698",
+    "uikName": "УИК №1914",
     "tikTvd": "4384001346417",
-    "tikName": "Усолье-Сибирская городская"
+    "tikName": "Усолье-Сибирская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 1915,
     "uikTvd": "4384034229463",
+    "uikName": "УИК №1915",
     "tikTvd": "4384009306504",
-    "tikName": "Усть-Кутская"
+    "tikName": "Усть-Кутская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1917,
     "uikTvd": "4384016209637",
+    "uikName": "УИК №1917",
     "tikTvd": "23820001459312",
-    "tikName": "Иркутск, Иркутская городская N 2"
+    "tikName": "Иркутск, Иркутская городская N 2",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1918,
     "uikTvd": "4384018301810",
+    "uikName": "УИК №1918",
     "tikTvd": "23820001459310",
-    "tikName": "Иркутская -93"
+    "tikName": "Иркутская -93",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1919,
     "uikTvd": "4384033172505",
+    "uikName": "УИК №1919",
     "tikTvd": "4384009306502",
-    "tikName": "Усть-Илимская городская"
+    "tikName": "Усть-Илимская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1920,
     "uikTvd": "4384033172506",
+    "uikName": "УИК №1920",
     "tikTvd": "4384009306502",
-    "tikName": "Усть-Илимская городская"
+    "tikName": "Усть-Илимская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 1921,
     "uikTvd": "4384035194165",
+    "uikName": "УИК №1921",
     "tikTvd": "23820001459302",
-    "tikName": "Усть-Удинская"
+    "tikName": "Усть-Удинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1922,
     "uikTvd": "4384035194166",
+    "uikName": "УИК №1922",
     "tikTvd": "23820001459302",
-    "tikName": "Усть-Удинская"
+    "tikName": "Усть-Удинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1923,
     "uikTvd": "4384035194167",
+    "uikName": "УИК №1923",
     "tikTvd": "23820001459302",
-    "tikName": "Усть-Удинская"
+    "tikName": "Усть-Удинская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1924,
     "uikTvd": "4384018303308",
+    "uikName": "УИК №1924",
     "tikTvd": "4384001346414",
-    "tikName": "Иркутская - 94"
+    "tikName": "Иркутская - 94",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 1925,
     "uikTvd": "4384018301828",
+    "uikName": "УИК №1925",
     "tikTvd": "23820001459310",
-    "tikName": "Иркутская -93"
+    "tikName": "Иркутская -93",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 1926,
     "uikTvd": "4384017268049",
+    "uikName": "УИК №1926",
     "tikTvd": "23820001459327",
-    "tikName": "Иркутская городская N 4"
+    "tikName": "Иркутская городская N 4",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100067795977",
+      "oikName": "Иркутская область – Шелеховский"
+    }
   },
   {
     "uikNumber": 8020,
     "uikTvd": "4384007309810",
+    "uikName": "УИК №8020",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 8023,
     "uikTvd": "4384007309811",
+    "uikName": "УИК №8023",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 8056,
     "uikTvd": "4384007309812",
+    "uikName": "УИК №8056",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 8057,
     "uikTvd": "4384007309813",
+    "uikName": "УИК №8057",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 8058,
     "uikTvd": "4384007309814",
+    "uikName": "УИК №8058",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 8066,
     "uikTvd": "4384007309815",
+    "uikName": "УИК №8066",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 8067,
     "uikTvd": "4384007309816",
+    "uikName": "УИК №8067",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 8068,
     "uikTvd": "4384007309817",
+    "uikName": "УИК №8068",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 8069,
     "uikTvd": "4384007309818",
+    "uikName": "УИК №8069",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 8070,
     "uikTvd": "4384007309819",
+    "uikName": "УИК №8070",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 8079,
     "uikTvd": "4384007309820",
+    "uikName": "УИК №8079",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 8099,
     "uikTvd": "4384007309821",
+    "uikName": "УИК №8099",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 8100,
     "uikTvd": "4384007309822",
+    "uikName": "УИК №8100",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 8101,
     "uikTvd": "4384007309823",
+    "uikName": "УИК №8101",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 8102,
     "uikTvd": "4384007309824",
+    "uikName": "УИК №8102",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 8104,
     "uikTvd": "4384007309825",
+    "uikName": "УИК №8104",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 8105,
     "uikTvd": "4384007309826",
+    "uikName": "УИК №8105",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 8106,
     "uikTvd": "4384007309827",
+    "uikName": "УИК №8106",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 8107,
     "uikTvd": "4384007309828",
+    "uikName": "УИК №8107",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 8158,
     "uikTvd": "4384007309829",
+    "uikName": "УИК №8158",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 8159,
     "uikTvd": "4384015208426",
+    "uikName": "УИК №8159",
     "tikTvd": "4384001346418",
-    "tikName": "Иркутская городская № 1"
+    "tikName": "Иркутская городская № 1",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 8160,
     "uikTvd": "4384015208428",
+    "uikName": "УИК №8160",
     "tikTvd": "4384001346418",
-    "tikName": "Иркутская городская № 1"
+    "tikName": "Иркутская городская № 1",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 8161,
     "uikTvd": "4384015208430",
+    "uikName": "УИК №8161",
     "tikTvd": "4384001346418",
-    "tikName": "Иркутская городская № 1"
+    "tikName": "Иркутская городская № 1",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 8162,
     "uikTvd": "4384015208432",
+    "uikName": "УИК №8162",
     "tikTvd": "4384001346418",
-    "tikName": "Иркутская городская № 1"
+    "tikName": "Иркутская городская № 1",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100067795976",
+      "oikName": "Иркутская область – Ангарский"
+    }
   },
   {
     "uikNumber": 8173,
     "uikTvd": "4384007309830",
+    "uikName": "УИК №8173",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 8174,
     "uikTvd": "4384007309831",
+    "uikName": "УИК №8174",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 8185,
     "uikTvd": "4384007309832",
+    "uikName": "УИК №8185",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 8200,
     "uikTvd": "4384007309833",
+    "uikName": "УИК №8200",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 8201,
     "uikTvd": "4384007309834",
+    "uikName": "УИК №8201",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 8202,
     "uikTvd": "4384007309835",
+    "uikName": "УИК №8202",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 8210,
     "uikTvd": "4394014233885",
+    "uikName": "УИК №8210",
     "tikTvd": "23820001459311",
-    "tikName": "Иркутск, Иркутская городская N 3 "
+    "tikName": "Иркутск, Иркутская городская N 3 ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 8218,
     "uikTvd": "4394014233887",
+    "uikName": "УИК №8218",
     "tikTvd": "23820001459311",
-    "tikName": "Иркутск, Иркутская городская N 3 "
+    "tikName": "Иркутск, Иркутская городская N 3 ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 8219,
     "uikTvd": "4394014233889",
+    "uikName": "УИК №8219",
     "tikTvd": "23820001459311",
-    "tikName": "Иркутск, Иркутская городская N 3 "
+    "tikName": "Иркутск, Иркутская городская N 3 ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 8220,
     "uikTvd": "4394014233891",
+    "uikName": "УИК №8220",
     "tikTvd": "23820001459311",
-    "tikName": "Иркутск, Иркутская городская N 3 "
+    "tikName": "Иркутск, Иркутская городская N 3 ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 8222,
     "uikTvd": "4394014233893",
+    "uikName": "УИК №8222",
     "tikTvd": "23820001459311",
-    "tikName": "Иркутск, Иркутская городская N 3 "
+    "tikName": "Иркутск, Иркутская городская N 3 ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 8223,
     "uikTvd": "4394014233895",
+    "uikName": "УИК №8223",
     "tikTvd": "23820001459311",
-    "tikName": "Иркутск, Иркутская городская N 3 "
+    "tikName": "Иркутск, Иркутская городская N 3 ",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 93,
+      "oikTvd": "100100067795975",
+      "oikName": "Иркутская область – Иркутский"
+    }
   },
   {
     "uikNumber": 8267,
     "uikTvd": "4384007309836",
+    "uikName": "УИК №8267",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 8270,
     "uikTvd": "4384007309837",
+    "uikName": "УИК №8270",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 8284,
     "uikTvd": "4384007309838",
+    "uikName": "УИК №8284",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 8326,
     "uikTvd": "4384007309839",
+    "uikName": "УИК №8326",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 8329,
     "uikTvd": "4384007309840",
+    "uikName": "УИК №8329",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 8352,
     "uikTvd": "4384007309841",
+    "uikName": "УИК №8352",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   },
   {
     "uikNumber": 8353,
     "uikTvd": "4384007309842",
+    "uikName": "УИК №8353",
     "tikTvd": "4384009306496",
-    "tikName": "Братская городская"
+    "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100067795974",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100067795978",
+      "oikName": "Иркутская область – Братский"
+    }
   }
 ] satisfies readonly UikTikRelation[];

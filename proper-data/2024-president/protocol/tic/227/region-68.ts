@@ -11,6 +11,9 @@ export const president_2024_tic_227_region_68 = [
     "ballot": "presidential",
     "tikTvd": "2682000987223",
     "tikName": "Уметская",
+    "regionCode": "68",
+    "regionTvd": "100100339411260",
+    "regionName": "Тамбовская область",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 6871,
@@ -67,6 +70,9 @@ export const president_2024_tic_227_region_68 = [
     "ballot": "presidential",
     "tikTvd": "2682000987224",
     "tikName": "Уваровская городская",
+    "regionCode": "68",
+    "regionTvd": "100100339411260",
+    "regionName": "Тамбовская область",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 20008,
@@ -120,6 +126,9 @@ export const president_2024_tic_227_region_68 = [
     "ballot": "presidential",
     "tikTvd": "2682000987225",
     "tikName": "Уваровская",
+    "regionCode": "68",
+    "regionTvd": "100100339411260",
+    "regionName": "Тамбовская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 6888,
@@ -179,6 +188,9 @@ export const president_2024_tic_227_region_68 = [
     "ballot": "presidential",
     "tikTvd": "2682000987226",
     "tikName": "Токаревская",
+    "regionCode": "68",
+    "regionTvd": "100100339411260",
+    "regionName": "Тамбовская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 11900,
@@ -244,6 +256,9 @@ export const president_2024_tic_227_region_68 = [
     "ballot": "presidential",
     "tikTvd": "2682000987227",
     "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "100100339411260",
+    "regionName": "Тамбовская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 51952,
@@ -324,6 +339,9 @@ export const president_2024_tic_227_region_68 = [
     "ballot": "presidential",
     "tikTvd": "2682000987228",
     "tikName": "Тамбов, Советская",
+    "regionCode": "68",
+    "regionTvd": "100100339411260",
+    "regionName": "Тамбовская область",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 97846,
@@ -410,6 +428,9 @@ export const president_2024_tic_227_region_68 = [
     "ballot": "presidential",
     "tikTvd": "2682000987229",
     "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "100100339411260",
+    "regionName": "Тамбовская область",
     "uikCount": 45,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 102364,
@@ -495,6 +516,9 @@ export const president_2024_tic_227_region_68 = [
     "ballot": "presidential",
     "tikTvd": "2682000987230",
     "tikName": "Тамбов, Ленинская",
+    "regionCode": "68",
+    "regionTvd": "100100339411260",
+    "regionName": "Тамбовская область",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 69636,
@@ -574,6 +598,9 @@ export const president_2024_tic_227_region_68 = [
     "ballot": "presidential",
     "tikTvd": "2682000987231",
     "tikName": "Староюрьевская",
+    "regionCode": "68",
+    "regionTvd": "100100339411260",
+    "regionName": "Тамбовская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9629,
@@ -633,6 +660,9 @@ export const president_2024_tic_227_region_68 = [
     "ballot": "presidential",
     "tikTvd": "2682000987232",
     "tikName": "Сосновская",
+    "regionCode": "68",
+    "regionTvd": "100100339411260",
+    "regionName": "Тамбовская область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 20439,
@@ -709,6 +739,9 @@ export const president_2024_tic_227_region_68 = [
     "ballot": "presidential",
     "tikTvd": "2682000987233",
     "tikName": "Сампурская",
+    "regionCode": "68",
+    "regionTvd": "100100339411260",
+    "regionName": "Тамбовская область",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9406,
@@ -765,6 +798,9 @@ export const president_2024_tic_227_region_68 = [
     "ballot": "presidential",
     "tikTvd": "2682000987234",
     "tikName": "Ржаксинская",
+    "regionCode": "68",
+    "regionTvd": "100100339411260",
+    "regionName": "Тамбовская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 11149,
@@ -829,6 +865,9 @@ export const president_2024_tic_227_region_68 = [
     "ballot": "presidential",
     "tikTvd": "2682000987235",
     "tikName": "Рассказовская городская",
+    "regionCode": "68",
+    "regionTvd": "100100339411260",
+    "regionName": "Тамбовская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 32911,
@@ -888,6 +927,9 @@ export const president_2024_tic_227_region_68 = [
     "ballot": "presidential",
     "tikTvd": "2682000987236",
     "tikName": "Рассказовская",
+    "regionCode": "68",
+    "regionTvd": "100100339411260",
+    "regionName": "Тамбовская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 13912,
@@ -952,6 +994,9 @@ export const president_2024_tic_227_region_68 = [
     "ballot": "presidential",
     "tikTvd": "2682000987237",
     "tikName": "Пичаевская",
+    "regionCode": "68",
+    "regionTvd": "100100339411260",
+    "regionName": "Тамбовская область",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 8259,
@@ -1009,6 +1054,9 @@ export const president_2024_tic_227_region_68 = [
     "ballot": "presidential",
     "tikTvd": "2682000987238",
     "tikName": "Петровская",
+    "regionCode": "68",
+    "regionTvd": "100100339411260",
+    "regionName": "Тамбовская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 12561,
@@ -1072,6 +1120,9 @@ export const president_2024_tic_227_region_68 = [
     "ballot": "presidential",
     "tikTvd": "2682000987239",
     "tikName": "Первомайская",
+    "regionCode": "68",
+    "regionTvd": "100100339411260",
+    "regionName": "Тамбовская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 19669,
@@ -1134,6 +1185,9 @@ export const president_2024_tic_227_region_68 = [
     "ballot": "presidential",
     "tikTvd": "2682000987240",
     "tikName": "Никифоровская",
+    "regionCode": "68",
+    "regionTvd": "100100339411260",
+    "regionName": "Тамбовская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 14098,
@@ -1200,6 +1254,9 @@ export const president_2024_tic_227_region_68 = [
     "ballot": "presidential",
     "tikTvd": "2682000987241",
     "tikName": "Мучкапская",
+    "regionCode": "68",
+    "regionTvd": "100100339411260",
+    "regionName": "Тамбовская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9610,
@@ -1258,6 +1315,9 @@ export const president_2024_tic_227_region_68 = [
     "ballot": "presidential",
     "tikTvd": "2682000987242",
     "tikName": "Моршанская городская",
+    "regionCode": "68",
+    "regionTvd": "100100339411260",
+    "regionName": "Тамбовская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 28229,
@@ -1318,6 +1378,9 @@ export const president_2024_tic_227_region_68 = [
     "ballot": "presidential",
     "tikTvd": "2682000987243",
     "tikName": "Моршанская",
+    "regionCode": "68",
+    "regionTvd": "100100339411260",
+    "regionName": "Тамбовская область",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 20833,
@@ -1402,6 +1465,9 @@ export const president_2024_tic_227_region_68 = [
     "ballot": "presidential",
     "tikTvd": "2682000987244",
     "tikName": "Мордовская",
+    "regionCode": "68",
+    "regionTvd": "100100339411260",
+    "regionName": "Тамбовская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 12010,
@@ -1470,6 +1536,9 @@ export const president_2024_tic_227_region_68 = [
     "ballot": "presidential",
     "tikTvd": "2682000987245",
     "tikName": "Мичуринская городская",
+    "regionCode": "68",
+    "regionTvd": "100100339411260",
+    "regionName": "Тамбовская область",
     "uikCount": 47,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 62838,
@@ -1557,6 +1626,9 @@ export const president_2024_tic_227_region_68 = [
     "ballot": "presidential",
     "tikTvd": "2682000987246",
     "tikName": "Мичуринская",
+    "regionCode": "68",
+    "regionTvd": "100100339411260",
+    "regionName": "Тамбовская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 23652,
@@ -1637,6 +1709,9 @@ export const president_2024_tic_227_region_68 = [
     "ballot": "presidential",
     "tikTvd": "2682000987247",
     "tikName": "Котовская городская",
+    "regionCode": "68",
+    "regionTvd": "100100339411260",
+    "regionName": "Тамбовская область",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 22912,
@@ -1688,6 +1763,9 @@ export const president_2024_tic_227_region_68 = [
     "ballot": "presidential",
     "tikTvd": "2682000987248",
     "tikName": "Кирсановская городская",
+    "regionCode": "68",
+    "regionTvd": "100100339411260",
+    "regionName": "Тамбовская область",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 11186,
@@ -1744,6 +1822,9 @@ export const president_2024_tic_227_region_68 = [
     "ballot": "presidential",
     "tikTvd": "2682000987249",
     "tikName": "Кирсановская",
+    "regionCode": "68",
+    "regionTvd": "100100339411260",
+    "regionName": "Тамбовская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 12615,
@@ -1807,6 +1888,9 @@ export const president_2024_tic_227_region_68 = [
     "ballot": "presidential",
     "tikTvd": "2682000987250",
     "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "100100339411260",
+    "regionName": "Тамбовская область",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 15178,
@@ -1879,6 +1963,9 @@ export const president_2024_tic_227_region_68 = [
     "ballot": "presidential",
     "tikTvd": "2682000987251",
     "tikName": "Знаменская",
+    "regionCode": "68",
+    "regionTvd": "100100339411260",
+    "regionName": "Тамбовская область",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 12174,
@@ -1936,6 +2023,9 @@ export const president_2024_tic_227_region_68 = [
     "ballot": "presidential",
     "tikTvd": "2682000987252",
     "tikName": "Жердевская",
+    "regionCode": "68",
+    "regionTvd": "100100339411260",
+    "regionName": "Тамбовская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 19608,
@@ -2005,6 +2095,9 @@ export const president_2024_tic_227_region_68 = [
     "ballot": "presidential",
     "tikTvd": "2682000987253",
     "tikName": "Гавриловская",
+    "regionCode": "68",
+    "regionTvd": "100100339411260",
+    "regionName": "Тамбовская область",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 7074,
@@ -2058,6 +2151,9 @@ export const president_2024_tic_227_region_68 = [
     "ballot": "presidential",
     "tikTvd": "2682000987254",
     "tikName": "Бондарская",
+    "regionCode": "68",
+    "regionTvd": "100100339411260",
+    "regionName": "Тамбовская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 7946,

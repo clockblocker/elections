@@ -11,6 +11,9 @@ export const duma_2007_tic_233_region_9 = [
     "ballot": "party",
     "tikTvd": "2092000124538",
     "tikName": "Хабезская",
+    "regionCode": "9",
+    "regionTvd": "100100021960201",
+    "regionName": "Карачаево-Черкесская Республика",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 17779,
@@ -80,6 +83,9 @@ export const duma_2007_tic_233_region_9 = [
     "ballot": "party",
     "tikTvd": "2092000124539",
     "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100021960201",
+    "regionName": "Карачаево-Черкесская Республика",
     "uikCount": 52,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 87880,
@@ -186,6 +192,9 @@ export const duma_2007_tic_233_region_9 = [
     "ballot": "party",
     "tikTvd": "2092000124540",
     "tikName": "Усть-Джегутинская",
+    "regionCode": "9",
+    "regionTvd": "100100021960201",
+    "regionName": "Карачаево-Черкесская Республика",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 32552,
@@ -263,6 +272,9 @@ export const duma_2007_tic_233_region_9 = [
     "ballot": "party",
     "tikTvd": "2092000124541",
     "tikName": "Урупская ТИК",
+    "regionCode": "9",
+    "regionTvd": "100100021960201",
+    "regionName": "Карачаево-Черкесская Республика",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 13827,
@@ -334,6 +346,9 @@ export const duma_2007_tic_233_region_9 = [
     "ballot": "party",
     "tikTvd": "2092000124542",
     "tikName": "Прикубанская",
+    "regionCode": "9",
+    "regionTvd": "100100021960201",
+    "regionName": "Карачаево-Черкесская Республика",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 20669,
@@ -410,6 +425,9 @@ export const duma_2007_tic_233_region_9 = [
     "ballot": "party",
     "tikTvd": "2092000124543",
     "tikName": "Малокарачаевская",
+    "regionCode": "9",
+    "regionTvd": "100100021960201",
+    "regionName": "Карачаево-Черкесская Республика",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 26468,
@@ -481,6 +499,9 @@ export const duma_2007_tic_233_region_9 = [
     "ballot": "party",
     "tikTvd": "2092000124544",
     "tikName": "Зеленчукская",
+    "regionCode": "9",
+    "regionTvd": "100100021960201",
+    "regionName": "Карачаево-Черкесская Республика",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 40222,
@@ -573,6 +594,9 @@ export const duma_2007_tic_233_region_9 = [
     "ballot": "party",
     "tikTvd": "2092000124545",
     "tikName": "Карачаевская",
+    "regionCode": "9",
+    "regionTvd": "100100021960201",
+    "regionName": "Карачаево-Черкесская Республика",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 16661,
@@ -643,6 +667,9 @@ export const duma_2007_tic_233_region_9 = [
     "ballot": "party",
     "tikTvd": "2092000124546",
     "tikName": "Карачаевская городская",
+    "regionCode": "9",
+    "regionTvd": "100100021960201",
+    "regionName": "Карачаево-Черкесская Республика",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 18930,
@@ -715,6 +742,9 @@ export const duma_2007_tic_233_region_9 = [
     "ballot": "party",
     "tikTvd": "2092000124547",
     "tikName": "Адыге-Хабльская ",
+    "regionCode": "9",
+    "regionTvd": "100100021960201",
+    "regionName": "Карачаево-Черкесская Республика",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 20179,
@@ -791,6 +821,9 @@ export const duma_2007_tic_233_region_9 = [
     "ballot": "party",
     "tikTvd": "2092000125121",
     "tikName": "Абазинская",
+    "regionCode": "9",
+    "regionTvd": "100100021960201",
+    "regionName": "Карачаево-Черкесская Республика",
     "uikCount": 6,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 10261,

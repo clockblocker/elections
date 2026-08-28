@@ -11,6 +11,14 @@ export const duma_2016_tic_464_region_71 = [
     "ballot": "single-member",
     "tikTvd": "2712000756914",
     "tikName": "Щекинская",
+    "regionCode": "71",
+    "regionTvd": "100100067796095",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100067796096",
+      "oikName": "Тульская область – Тульский"
+    },
     "uikCount": 59,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 80630,
@@ -122,6 +130,14 @@ export const duma_2016_tic_464_region_71 = [
     "ballot": "single-member",
     "tikTvd": "2712000756915",
     "tikName": "Чернская",
+    "regionCode": "71",
+    "regionTvd": "100100067796095",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100067796096",
+      "oikName": "Тульская область – Тульский"
+    },
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 14939,
@@ -203,6 +219,14 @@ export const duma_2016_tic_464_region_71 = [
     "ballot": "single-member",
     "tikTvd": "2712000756916",
     "tikName": "Тула, Центральная",
+    "regionCode": "71",
+    "regionTvd": "100100067796095",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100067796096",
+      "oikName": "Тульская область – Тульский"
+    },
     "uikCount": 46,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 75176,
@@ -301,6 +325,14 @@ export const duma_2016_tic_464_region_71 = [
     "ballot": "single-member",
     "tikTvd": "2712000756917",
     "tikName": "Тула, Советская",
+    "regionCode": "71",
+    "regionTvd": "100100067796095",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100067796096",
+      "oikName": "Тульская область – Тульский"
+    },
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 53092,
@@ -390,6 +422,14 @@ export const duma_2016_tic_464_region_71 = [
     "ballot": "single-member",
     "tikTvd": "2712000756918",
     "tikName": "Тула, Привокзальная",
+    "regionCode": "71",
+    "regionTvd": "100100067796095",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100067796096",
+      "oikName": "Тульская область – Тульский"
+    },
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 64597,
@@ -481,6 +521,14 @@ export const duma_2016_tic_464_region_71 = [
     "ballot": "single-member",
     "tikTvd": "2712000756919",
     "tikName": "Тепло-Огаревская",
+    "regionCode": "71",
+    "regionTvd": "100100067796095",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100067796096",
+      "oikName": "Тульская область – Тульский"
+    },
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 9986,
@@ -557,6 +605,14 @@ export const duma_2016_tic_464_region_71 = [
     "ballot": "single-member",
     "tikTvd": "2712000756920",
     "tikName": "Суворовская",
+    "regionCode": "71",
+    "regionTvd": "100100067796095",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100067796096",
+      "oikName": "Тульская область – Тульский"
+    },
     "uikCount": 50,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 28225,
@@ -659,6 +715,14 @@ export const duma_2016_tic_464_region_71 = [
     "ballot": "single-member",
     "tikTvd": "2712000756921",
     "tikName": "Плавская",
+    "regionCode": "71",
+    "regionTvd": "100100067796095",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100067796096",
+      "oikName": "Тульская область – Тульский"
+    },
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 19920,
@@ -748,6 +812,14 @@ export const duma_2016_tic_464_region_71 = [
     "ballot": "single-member",
     "tikTvd": "2712000756922",
     "tikName": "Одоевская",
+    "regionCode": "71",
+    "regionTvd": "100100067796095",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100067796096",
+      "oikName": "Тульская область – Тульский"
+    },
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 9770,
@@ -816,6 +888,14 @@ export const duma_2016_tic_464_region_71 = [
     "ballot": "single-member",
     "tikTvd": "2712000756923",
     "tikName": "Ленинская - 183",
+    "regionCode": "71",
+    "regionTvd": "100100067796095",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100067796096",
+      "oikName": "Тульская область – Тульский"
+    },
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 17881,
@@ -889,6 +969,14 @@ export const duma_2016_tic_464_region_71 = [
     "ballot": "single-member",
     "tikTvd": "2712000756924",
     "tikName": "Куркинская",
+    "regionCode": "71",
+    "regionTvd": "100100067796095",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100067796096",
+      "oikName": "Тульская область – Тульский"
+    },
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 8622,
@@ -955,6 +1043,14 @@ export const duma_2016_tic_464_region_71 = [
     "ballot": "single-member",
     "tikTvd": "2712000756925",
     "tikName": "Киреевская",
+    "regionCode": "71",
+    "regionTvd": "100100067796095",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100067796096",
+      "oikName": "Тульская область – Тульский"
+    },
     "uikCount": 60,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 58750,
@@ -1067,6 +1163,14 @@ export const duma_2016_tic_464_region_71 = [
     "ballot": "single-member",
     "tikTvd": "2712000756926",
     "tikName": "Каменская",
+    "regionCode": "71",
+    "regionTvd": "100100067796095",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100067796096",
+      "oikName": "Тульская область – Тульский"
+    },
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 7233,
@@ -1133,6 +1237,14 @@ export const duma_2016_tic_464_region_71 = [
     "ballot": "single-member",
     "tikTvd": "2712000756927",
     "tikName": "Ефремовская",
+    "regionCode": "71",
+    "regionTvd": "100100067796095",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100067796096",
+      "oikName": "Тульская область – Тульский"
+    },
     "uikCount": 63,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 49346,
@@ -1248,6 +1360,14 @@ export const duma_2016_tic_464_region_71 = [
     "ballot": "single-member",
     "tikTvd": "2712000756928",
     "tikName": "Дубенская",
+    "regionCode": "71",
+    "regionTvd": "100100067796095",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100067796096",
+      "oikName": "Тульская область – Тульский"
+    },
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 10601,
@@ -1315,6 +1435,14 @@ export const duma_2016_tic_464_region_71 = [
     "ballot": "single-member",
     "tikTvd": "2712000756929",
     "tikName": "Воловская",
+    "regionCode": "71",
+    "regionTvd": "100100067796095",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100067796096",
+      "oikName": "Тульская область – Тульский"
+    },
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 11126,
@@ -1389,6 +1517,14 @@ export const duma_2016_tic_464_region_71 = [
     "ballot": "single-member",
     "tikTvd": "2712000756930",
     "tikName": "Богородицкая",
+    "regionCode": "71",
+    "regionTvd": "100100067796095",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100067796096",
+      "oikName": "Тульская область – Тульский"
+    },
     "uikCount": 45,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 41672,
@@ -1486,6 +1622,14 @@ export const duma_2016_tic_464_region_71 = [
     "ballot": "single-member",
     "tikTvd": "2712000756931",
     "tikName": "Белевская",
+    "regionCode": "71",
+    "regionTvd": "100100067796095",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100067796096",
+      "oikName": "Тульская область – Тульский"
+    },
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 17183,
@@ -1573,6 +1717,14 @@ export const duma_2016_tic_464_region_71 = [
     "ballot": "single-member",
     "tikTvd": "2712000756932",
     "tikName": "Арсеньевская",
+    "regionCode": "71",
+    "regionTvd": "100100067796095",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100067796096",
+      "oikName": "Тульская область – Тульский"
+    },
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 9682,
@@ -1647,6 +1799,14 @@ export const duma_2016_tic_464_region_71 = [
     "ballot": "single-member",
     "tikTvd": "2712000756933",
     "tikName": "Ясногорская",
+    "regionCode": "71",
+    "regionTvd": "100100067796095",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100067796097",
+      "oikName": "Тульская область – Новомосковский"
+    },
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 24319,
@@ -1728,6 +1888,14 @@ export const duma_2016_tic_464_region_71 = [
     "ballot": "single-member",
     "tikTvd": "2712000756934",
     "tikName": "Узловская",
+    "regionCode": "71",
+    "regionTvd": "100100067796095",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100067796097",
+      "oikName": "Тульская область – Новомосковский"
+    },
     "uikCount": 48,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 67084,
@@ -1828,6 +1996,14 @@ export const duma_2016_tic_464_region_71 = [
     "ballot": "single-member",
     "tikTvd": "2712000756935",
     "tikName": "Тула, Пролетарская",
+    "regionCode": "71",
+    "regionTvd": "100100067796095",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100067796097",
+      "oikName": "Тульская область – Новомосковский"
+    },
     "uikCount": 75,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 121536,
@@ -1955,6 +2131,14 @@ export const duma_2016_tic_464_region_71 = [
     "ballot": "single-member",
     "tikTvd": "2712000756936",
     "tikName": "Тула, Зареченская",
+    "regionCode": "71",
+    "regionTvd": "100100067796095",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100067796097",
+      "oikName": "Тульская область – Новомосковский"
+    },
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 74374,
@@ -2046,6 +2230,14 @@ export const duma_2016_tic_464_region_71 = [
     "ballot": "single-member",
     "tikTvd": "2712000756937",
     "tikName": "Новомосковская",
+    "regionCode": "71",
+    "regionTvd": "100100067796095",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100067796097",
+      "oikName": "Тульская область – Новомосковский"
+    },
     "uikCount": 77,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 115727,
@@ -2175,6 +2367,14 @@ export const duma_2016_tic_464_region_71 = [
     "ballot": "single-member",
     "tikTvd": "2712000756938",
     "tikName": "Ленинская - 184",
+    "regionCode": "71",
+    "regionTvd": "100100067796095",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100067796097",
+      "oikName": "Тульская область – Новомосковский"
+    },
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 32194,
@@ -2254,6 +2454,14 @@ export const duma_2016_tic_464_region_71 = [
     "ballot": "single-member",
     "tikTvd": "2712000756939",
     "tikName": "Кимовская",
+    "regionCode": "71",
+    "regionTvd": "100100067796095",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100067796097",
+      "oikName": "Тульская область – Новомосковский"
+    },
     "uikCount": 48,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 33978,
@@ -2354,6 +2562,14 @@ export const duma_2016_tic_464_region_71 = [
     "ballot": "single-member",
     "tikTvd": "2712000756940",
     "tikName": "Заокская",
+    "regionCode": "71",
+    "regionTvd": "100100067796095",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100067796097",
+      "oikName": "Тульская область – Новомосковский"
+    },
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 14416,
@@ -2426,6 +2642,14 @@ export const duma_2016_tic_464_region_71 = [
     "ballot": "single-member",
     "tikTvd": "2712000756941",
     "tikName": "Донская",
+    "regionCode": "71",
+    "regionTvd": "100100067796095",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100067796097",
+      "oikName": "Тульская область – Новомосковский"
+    },
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 46649,
@@ -2508,6 +2732,14 @@ export const duma_2016_tic_464_region_71 = [
     "ballot": "single-member",
     "tikTvd": "2712000756942",
     "tikName": "Веневская",
+    "regionCode": "71",
+    "regionTvd": "100100067796095",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100067796097",
+      "oikName": "Тульская область – Новомосковский"
+    },
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 24876,
@@ -2598,6 +2830,14 @@ export const duma_2016_tic_464_region_71 = [
     "ballot": "single-member",
     "tikTvd": "2712000756943",
     "tikName": "Алексинская",
+    "regionCode": "71",
+    "regionTvd": "100100067796095",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100067796097",
+      "oikName": "Тульская область – Новомосковский"
+    },
     "uikCount": 57,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 59518,

@@ -11,6 +11,9 @@ export const duma_2011_tic_233_region_32 = [
     "ballot": "party",
     "tikTvd": "2322000419850",
     "tikName": "Брянск, Володарская",
+    "regionCode": "32",
+    "regionTvd": "100100028713364",
+    "regionName": "Брянская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 61951,
@@ -88,6 +91,9 @@ export const duma_2011_tic_233_region_32 = [
     "ballot": "party",
     "tikTvd": "2322000419851",
     "tikName": "Клинцовская",
+    "regionCode": "32",
+    "regionTvd": "100100028713364",
+    "regionName": "Брянская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 15601,
@@ -166,6 +172,9 @@ export const duma_2011_tic_233_region_32 = [
     "ballot": "party",
     "tikTvd": "2322000419852",
     "tikName": "Новозыбковская",
+    "regionCode": "32",
+    "regionTvd": "100100028713364",
+    "regionName": "Брянская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 9360,
@@ -236,6 +245,9 @@ export const duma_2011_tic_233_region_32 = [
     "ballot": "party",
     "tikTvd": "2322000419853",
     "tikName": "Унечская",
+    "regionCode": "32",
+    "regionTvd": "100100028713364",
+    "regionName": "Брянская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 34491,
@@ -325,6 +337,9 @@ export const duma_2011_tic_233_region_32 = [
     "ballot": "party",
     "tikTvd": "2322000419854",
     "tikName": "Трубчевская",
+    "regionCode": "32",
+    "regionTvd": "100100028713364",
+    "regionName": "Брянская область",
     "uikCount": 47,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 28102,
@@ -421,6 +436,9 @@ export const duma_2011_tic_233_region_32 = [
     "ballot": "party",
     "tikTvd": "2322000419855",
     "tikName": "Брасовская",
+    "regionCode": "32",
+    "regionTvd": "100100028713364",
+    "regionName": "Брянская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 16652,
@@ -499,6 +517,9 @@ export const duma_2011_tic_233_region_32 = [
     "ballot": "party",
     "tikTvd": "2322000419856",
     "tikName": "Брянск, Бежицкая",
+    "regionCode": "32",
+    "regionTvd": "100100028713364",
+    "regionName": "Брянская область",
     "uikCount": 62,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 134132,
@@ -610,6 +631,9 @@ export const duma_2011_tic_233_region_32 = [
     "ballot": "party",
     "tikTvd": "2322000419857",
     "tikName": "Жуковская",
+    "regionCode": "32",
+    "regionTvd": "100100028713364",
+    "regionName": "Брянская область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 30385,
@@ -695,6 +719,9 @@ export const duma_2011_tic_233_region_32 = [
     "ballot": "party",
     "tikTvd": "2322000419858",
     "tikName": "Жирятинская",
+    "regionCode": "32",
+    "regionTvd": "100100028713364",
+    "regionName": "Брянская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 5512,
@@ -759,6 +786,9 @@ export const duma_2011_tic_233_region_32 = [
     "ballot": "party",
     "tikTvd": "2322000419860",
     "tikName": "Дубровская",
+    "regionCode": "32",
+    "regionTvd": "100100028713364",
+    "regionName": "Брянская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 15606,
@@ -829,6 +859,9 @@ export const duma_2011_tic_233_region_32 = [
     "ballot": "party",
     "tikTvd": "2322000419861",
     "tikName": "Гордеевская",
+    "regionCode": "32",
+    "regionTvd": "100100028713364",
+    "regionName": "Брянская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 8742,
@@ -901,6 +934,9 @@ export const duma_2011_tic_233_region_32 = [
     "ballot": "party",
     "tikTvd": "2322000419862",
     "tikName": "Выгоничская",
+    "regionCode": "32",
+    "regionTvd": "100100028713364",
+    "regionName": "Брянская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 16163,
@@ -978,6 +1014,9 @@ export const duma_2011_tic_233_region_32 = [
     "ballot": "party",
     "tikTvd": "2322000419863",
     "tikName": "Брянская",
+    "regionCode": "32",
+    "regionTvd": "100100028713364",
+    "regionName": "Брянская область",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 45634,
@@ -1073,6 +1112,9 @@ export const duma_2011_tic_233_region_32 = [
     "ballot": "party",
     "tikTvd": "2322000419864",
     "tikName": "Брянск, Советская",
+    "regionCode": "32",
+    "regionTvd": "100100028713364",
+    "regionName": "Брянская область",
     "uikCount": 49,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 100309,
@@ -1171,6 +1213,9 @@ export const duma_2011_tic_233_region_32 = [
     "ballot": "party",
     "tikTvd": "2322000419865",
     "tikName": "Брянск, Фокинская",
+    "regionCode": "32",
+    "regionTvd": "100100028713364",
+    "regionName": "Брянская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 69585,
@@ -1251,6 +1296,9 @@ export const duma_2011_tic_233_region_32 = [
     "ballot": "party",
     "tikTvd": "2322000419866",
     "tikName": "Навлинская",
+    "regionCode": "32",
+    "regionTvd": "100100028713364",
+    "regionName": "Брянская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 22751,
@@ -1329,6 +1377,9 @@ export const duma_2011_tic_233_region_32 = [
     "ballot": "party",
     "tikTvd": "2322000419867",
     "tikName": "Мглинская",
+    "regionCode": "32",
+    "regionTvd": "100100028713364",
+    "regionName": "Брянская область",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 15250,
@@ -1411,6 +1462,9 @@ export const duma_2011_tic_233_region_32 = [
     "ballot": "party",
     "tikTvd": "2322000419868",
     "tikName": "Красногорская",
+    "regionCode": "32",
+    "regionTvd": "100100028713364",
+    "regionName": "Брянская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 11121,
@@ -1486,6 +1540,9 @@ export const duma_2011_tic_233_region_32 = [
     "ballot": "party",
     "tikTvd": "2322000419869",
     "tikName": "Комаричская",
+    "regionCode": "32",
+    "regionTvd": "100100028713364",
+    "regionName": "Брянская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 13885,
@@ -1565,6 +1622,9 @@ export const duma_2011_tic_233_region_32 = [
     "ballot": "party",
     "tikTvd": "2322000419870",
     "tikName": "Климовская",
+    "regionCode": "32",
+    "regionTvd": "100100028713364",
+    "regionName": "Брянская область",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 25110,
@@ -1658,6 +1718,9 @@ export const duma_2011_tic_233_region_32 = [
     "ballot": "party",
     "tikTvd": "2322000419871",
     "tikName": "Клетнянская",
+    "regionCode": "32",
+    "regionTvd": "100100028713364",
+    "regionName": "Брянская область",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 15974,
@@ -1740,6 +1803,9 @@ export const duma_2011_tic_233_region_32 = [
     "ballot": "party",
     "tikTvd": "2322000419872",
     "tikName": "Клинцовская городская",
+    "regionCode": "32",
+    "regionTvd": "100100028713364",
+    "regionName": "Брянская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 54193,
@@ -1817,6 +1883,9 @@ export const duma_2011_tic_233_region_32 = [
     "ballot": "party",
     "tikTvd": "2322000419873",
     "tikName": "Злынковская",
+    "regionCode": "32",
+    "regionTvd": "100100028713364",
+    "regionName": "Брянская область",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 9582,
@@ -1882,6 +1951,9 @@ export const duma_2011_tic_233_region_32 = [
     "ballot": "party",
     "tikTvd": "2322000419874",
     "tikName": "Суражская",
+    "regionCode": "32",
+    "regionTvd": "100100028713364",
+    "regionName": "Брянская область",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 20087,
@@ -1970,6 +2042,9 @@ export const duma_2011_tic_233_region_32 = [
     "ballot": "party",
     "tikTvd": "2322000419875",
     "tikName": "Карачевская",
+    "regionCode": "32",
+    "regionTvd": "100100028713364",
+    "regionName": "Брянская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 29020,
@@ -2059,6 +2134,9 @@ export const duma_2011_tic_233_region_32 = [
     "ballot": "party",
     "tikTvd": "2322000419876",
     "tikName": "Суземская",
+    "regionCode": "32",
+    "regionTvd": "100100028713364",
+    "regionName": "Брянская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 14415,
@@ -2132,6 +2210,9 @@ export const duma_2011_tic_233_region_32 = [
     "ballot": "party",
     "tikTvd": "2322000419877",
     "tikName": "Стародубская",
+    "regionCode": "32",
+    "regionTvd": "100100028713364",
+    "regionName": "Брянская область",
     "uikCount": 54,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 31008,
@@ -2235,6 +2316,9 @@ export const duma_2011_tic_233_region_32 = [
     "ballot": "party",
     "tikTvd": "2322000419878",
     "tikName": "Сельцовская городская",
+    "regionCode": "32",
+    "regionTvd": "100100028713364",
+    "regionName": "Брянская область",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 15080,
@@ -2295,6 +2379,9 @@ export const duma_2011_tic_233_region_32 = [
     "ballot": "party",
     "tikTvd": "2322000419879",
     "tikName": "Почепская",
+    "regionCode": "32",
+    "regionTvd": "100100028713364",
+    "regionName": "Брянская область",
     "uikCount": 53,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 33518,
@@ -2397,6 +2484,9 @@ export const duma_2011_tic_233_region_32 = [
     "ballot": "party",
     "tikTvd": "2322000419880",
     "tikName": "Севская",
+    "regionCode": "32",
+    "regionTvd": "100100028713364",
+    "regionName": "Брянская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 13207,
@@ -2474,6 +2564,9 @@ export const duma_2011_tic_233_region_32 = [
     "ballot": "party",
     "tikTvd": "2322000419881",
     "tikName": "Рогнединская",
+    "regionCode": "32",
+    "regionTvd": "100100028713364",
+    "regionName": "Брянская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 5802,
@@ -2538,6 +2631,9 @@ export const duma_2011_tic_233_region_32 = [
     "ballot": "party",
     "tikTvd": "2322000419882",
     "tikName": "Новозыбковская городская",
+    "regionCode": "32",
+    "regionTvd": "100100028713364",
+    "regionName": "Брянская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 33935,
@@ -2606,6 +2702,9 @@ export const duma_2011_tic_233_region_32 = [
     "ballot": "party",
     "tikTvd": "2322000419883",
     "tikName": "Погарская",
+    "regionCode": "32",
+    "regionTvd": "100100028713364",
+    "regionName": "Брянская область",
     "uikCount": 55,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 24740,
@@ -2710,6 +2809,9 @@ export const duma_2011_tic_233_region_32 = [
     "ballot": "party",
     "tikTvd": "2322000419953",
     "tikName": "Дятьковская",
+    "regionCode": "32",
+    "regionTvd": "100100028713364",
+    "regionName": "Брянская область",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 61716,

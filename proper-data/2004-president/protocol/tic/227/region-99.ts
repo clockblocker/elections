@@ -11,6 +11,9 @@ export const president_2004_tic_227_region_99 = [
     "ballot": "presidential",
     "tikTvd": "1001000981752",
     "tikName": "Территория за пределами РФ",
+    "regionCode": "99",
+    "regionTvd": "1001000981752",
+    "regionName": "Территория за пределами РФ",
     "uikCount": 345,
     "accounting": {
       "Число избирателей, внесенных в список": 315925,

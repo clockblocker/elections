@@ -7,3709 +7,9271 @@ export const duma_2016_uik_to_tik_region_30 = [
   {
     "uikNumber": 101,
     "uikTvd": "4304001213665",
+    "uikName": "УИК №101",
     "tikTvd": "2302000783736",
-    "tikName": "Астрахань, Кировская"
+    "tikName": "Астрахань, Кировская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 102,
     "uikTvd": "4304001213666",
+    "uikName": "УИК №102",
     "tikTvd": "2302000783736",
-    "tikName": "Астрахань, Кировская"
+    "tikName": "Астрахань, Кировская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 103,
     "uikTvd": "4304001213667",
+    "uikName": "УИК №103",
     "tikTvd": "2302000783736",
-    "tikName": "Астрахань, Кировская"
+    "tikName": "Астрахань, Кировская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 104,
     "uikTvd": "4304001213668",
+    "uikName": "УИК №104",
     "tikTvd": "2302000783736",
-    "tikName": "Астрахань, Кировская"
+    "tikName": "Астрахань, Кировская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 105,
     "uikTvd": "4304001213669",
+    "uikName": "УИК №105",
     "tikTvd": "2302000783736",
-    "tikName": "Астрахань, Кировская"
+    "tikName": "Астрахань, Кировская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 106,
     "uikTvd": "4304001213670",
+    "uikName": "УИК №106",
     "tikTvd": "2302000783736",
-    "tikName": "Астрахань, Кировская"
+    "tikName": "Астрахань, Кировская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 107,
     "uikTvd": "4304001213671",
+    "uikName": "УИК №107",
     "tikTvd": "2302000783736",
-    "tikName": "Астрахань, Кировская"
+    "tikName": "Астрахань, Кировская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 108,
     "uikTvd": "4304001213672",
+    "uikName": "УИК №108",
     "tikTvd": "2302000783736",
-    "tikName": "Астрахань, Кировская"
+    "tikName": "Астрахань, Кировская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 109,
     "uikTvd": "4304001213673",
+    "uikName": "УИК №109",
     "tikTvd": "2302000783736",
-    "tikName": "Астрахань, Кировская"
+    "tikName": "Астрахань, Кировская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 110,
     "uikTvd": "4304001213674",
+    "uikName": "УИК №110",
     "tikTvd": "2302000783736",
-    "tikName": "Астрахань, Кировская"
+    "tikName": "Астрахань, Кировская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 111,
     "uikTvd": "4304001213675",
+    "uikName": "УИК №111",
     "tikTvd": "2302000783736",
-    "tikName": "Астрахань, Кировская"
+    "tikName": "Астрахань, Кировская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 112,
     "uikTvd": "4304001213676",
+    "uikName": "УИК №112",
     "tikTvd": "2302000783736",
-    "tikName": "Астрахань, Кировская"
+    "tikName": "Астрахань, Кировская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 113,
     "uikTvd": "4304001213677",
+    "uikName": "УИК №113",
     "tikTvd": "2302000783736",
-    "tikName": "Астрахань, Кировская"
+    "tikName": "Астрахань, Кировская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 114,
     "uikTvd": "4304001213678",
+    "uikName": "УИК №114",
     "tikTvd": "2302000783736",
-    "tikName": "Астрахань, Кировская"
+    "tikName": "Астрахань, Кировская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 115,
     "uikTvd": "4304001213679",
+    "uikName": "УИК №115",
     "tikTvd": "2302000783736",
-    "tikName": "Астрахань, Кировская"
+    "tikName": "Астрахань, Кировская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 116,
     "uikTvd": "4304001213680",
+    "uikName": "УИК №116",
     "tikTvd": "2302000783736",
-    "tikName": "Астрахань, Кировская"
+    "tikName": "Астрахань, Кировская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 117,
     "uikTvd": "4304001213681",
+    "uikName": "УИК №117",
     "tikTvd": "2302000783736",
-    "tikName": "Астрахань, Кировская"
+    "tikName": "Астрахань, Кировская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 118,
     "uikTvd": "4304001213682",
+    "uikName": "УИК №118",
     "tikTvd": "2302000783736",
-    "tikName": "Астрахань, Кировская"
+    "tikName": "Астрахань, Кировская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 119,
     "uikTvd": "4304001213683",
+    "uikName": "УИК №119",
     "tikTvd": "2302000783736",
-    "tikName": "Астрахань, Кировская"
+    "tikName": "Астрахань, Кировская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 120,
     "uikTvd": "4304001213684",
+    "uikName": "УИК №120",
     "tikTvd": "2302000783736",
-    "tikName": "Астрахань, Кировская"
+    "tikName": "Астрахань, Кировская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 121,
     "uikTvd": "4304001213685",
+    "uikName": "УИК №121",
     "tikTvd": "2302000783736",
-    "tikName": "Астрахань, Кировская"
+    "tikName": "Астрахань, Кировская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 122,
     "uikTvd": "4304001213686",
+    "uikName": "УИК №122",
     "tikTvd": "2302000783736",
-    "tikName": "Астрахань, Кировская"
+    "tikName": "Астрахань, Кировская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 123,
     "uikTvd": "4304001213687",
+    "uikName": "УИК №123",
     "tikTvd": "2302000783736",
-    "tikName": "Астрахань, Кировская"
+    "tikName": "Астрахань, Кировская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 124,
     "uikTvd": "4304001213688",
+    "uikName": "УИК №124",
     "tikTvd": "2302000783736",
-    "tikName": "Астрахань, Кировская"
+    "tikName": "Астрахань, Кировская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 125,
     "uikTvd": "4304001213689",
+    "uikName": "УИК №125",
     "tikTvd": "2302000783736",
-    "tikName": "Астрахань, Кировская"
+    "tikName": "Астрахань, Кировская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 126,
     "uikTvd": "4304001213690",
+    "uikName": "УИК №126",
     "tikTvd": "2302000783736",
-    "tikName": "Астрахань, Кировская"
+    "tikName": "Астрахань, Кировская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 127,
     "uikTvd": "4304001213691",
+    "uikName": "УИК №127",
     "tikTvd": "2302000783736",
-    "tikName": "Астрахань, Кировская"
+    "tikName": "Астрахань, Кировская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 128,
     "uikTvd": "4304001213692",
+    "uikName": "УИК №128",
     "tikTvd": "2302000783736",
-    "tikName": "Астрахань, Кировская"
+    "tikName": "Астрахань, Кировская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 129,
     "uikTvd": "4304001213693",
+    "uikName": "УИК №129",
     "tikTvd": "2302000783736",
-    "tikName": "Астрахань, Кировская"
+    "tikName": "Астрахань, Кировская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 130,
     "uikTvd": "4304001213694",
+    "uikName": "УИК №130",
     "tikTvd": "2302000783736",
-    "tikName": "Астрахань, Кировская"
+    "tikName": "Астрахань, Кировская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 131,
     "uikTvd": "4304001213695",
+    "uikName": "УИК №131",
     "tikTvd": "2302000783736",
-    "tikName": "Астрахань, Кировская"
+    "tikName": "Астрахань, Кировская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 132,
     "uikTvd": "4304001213696",
+    "uikName": "УИК №132",
     "tikTvd": "2302000783736",
-    "tikName": "Астрахань, Кировская"
+    "tikName": "Астрахань, Кировская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 133,
     "uikTvd": "4304001213697",
+    "uikName": "УИК №133",
     "tikTvd": "2302000783736",
-    "tikName": "Астрахань, Кировская"
+    "tikName": "Астрахань, Кировская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 134,
     "uikTvd": "4304001213698",
+    "uikName": "УИК №134",
     "tikTvd": "2302000783736",
-    "tikName": "Астрахань, Кировская"
+    "tikName": "Астрахань, Кировская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 135,
     "uikTvd": "4304001213699",
+    "uikName": "УИК №135",
     "tikTvd": "2302000783736",
-    "tikName": "Астрахань, Кировская"
+    "tikName": "Астрахань, Кировская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 136,
     "uikTvd": "4304001213700",
+    "uikName": "УИК №136",
     "tikTvd": "2302000783736",
-    "tikName": "Астрахань, Кировская"
+    "tikName": "Астрахань, Кировская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 137,
     "uikTvd": "4304001213701",
+    "uikName": "УИК №137",
     "tikTvd": "2302000783736",
-    "tikName": "Астрахань, Кировская"
+    "tikName": "Астрахань, Кировская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 138,
     "uikTvd": "4304001213702",
+    "uikName": "УИК №138",
     "tikTvd": "2302000783736",
-    "tikName": "Астрахань, Кировская"
+    "tikName": "Астрахань, Кировская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 139,
     "uikTvd": "4304001213703",
+    "uikName": "УИК №139",
     "tikTvd": "2302000783736",
-    "tikName": "Астрахань, Кировская"
+    "tikName": "Астрахань, Кировская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 140,
     "uikTvd": "4304001213704",
+    "uikName": "УИК №140",
     "tikTvd": "2302000783736",
-    "tikName": "Астрахань, Кировская"
+    "tikName": "Астрахань, Кировская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 141,
     "uikTvd": "4304001213705",
+    "uikName": "УИК №141",
     "tikTvd": "2302000783736",
-    "tikName": "Астрахань, Кировская"
+    "tikName": "Астрахань, Кировская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 142,
     "uikTvd": "4304001213706",
+    "uikName": "УИК №142",
     "tikTvd": "2302000783736",
-    "tikName": "Астрахань, Кировская"
+    "tikName": "Астрахань, Кировская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 143,
     "uikTvd": "4304001213707",
+    "uikName": "УИК №143",
     "tikTvd": "2302000783736",
-    "tikName": "Астрахань, Кировская"
+    "tikName": "Астрахань, Кировская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 144,
     "uikTvd": "4304001213708",
+    "uikName": "УИК №144",
     "tikTvd": "2302000783736",
-    "tikName": "Астрахань, Кировская"
+    "tikName": "Астрахань, Кировская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 145,
     "uikTvd": "4304001213709",
+    "uikName": "УИК №145",
     "tikTvd": "2302000783736",
-    "tikName": "Астрахань, Кировская"
+    "tikName": "Астрахань, Кировская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 146,
     "uikTvd": "4304001213710",
+    "uikName": "УИК №146",
     "tikTvd": "2302000783736",
-    "tikName": "Астрахань, Кировская"
+    "tikName": "Астрахань, Кировская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 147,
     "uikTvd": "4304001229923",
+    "uikName": "УИК №147",
     "tikTvd": "2302000783736",
-    "tikName": "Астрахань, Кировская"
+    "tikName": "Астрахань, Кировская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 148,
     "uikTvd": "4304001229925",
+    "uikName": "УИК №148",
     "tikTvd": "2302000783736",
-    "tikName": "Астрахань, Кировская"
+    "tikName": "Астрахань, Кировская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 149,
     "uikTvd": "4304001229926",
+    "uikName": "УИК №149",
     "tikTvd": "2302000783736",
-    "tikName": "Астрахань, Кировская"
+    "tikName": "Астрахань, Кировская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 201,
     "uikTvd": "4304002244381",
+    "uikName": "УИК №201",
     "tikTvd": "2302000783737",
-    "tikName": "Астрахань, Ленинская"
+    "tikName": "Астрахань, Ленинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 202,
     "uikTvd": "4304002244382",
+    "uikName": "УИК №202",
     "tikTvd": "2302000783737",
-    "tikName": "Астрахань, Ленинская"
+    "tikName": "Астрахань, Ленинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 203,
     "uikTvd": "4304002244383",
+    "uikName": "УИК №203",
     "tikTvd": "2302000783737",
-    "tikName": "Астрахань, Ленинская"
+    "tikName": "Астрахань, Ленинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 204,
     "uikTvd": "4304002244384",
+    "uikName": "УИК №204",
     "tikTvd": "2302000783737",
-    "tikName": "Астрахань, Ленинская"
+    "tikName": "Астрахань, Ленинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 205,
     "uikTvd": "4304002244385",
+    "uikName": "УИК №205",
     "tikTvd": "2302000783737",
-    "tikName": "Астрахань, Ленинская"
+    "tikName": "Астрахань, Ленинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 206,
     "uikTvd": "4304002244386",
+    "uikName": "УИК №206",
     "tikTvd": "2302000783737",
-    "tikName": "Астрахань, Ленинская"
+    "tikName": "Астрахань, Ленинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 207,
     "uikTvd": "4304002244387",
+    "uikName": "УИК №207",
     "tikTvd": "2302000783737",
-    "tikName": "Астрахань, Ленинская"
+    "tikName": "Астрахань, Ленинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 208,
     "uikTvd": "4304002244388",
+    "uikName": "УИК №208",
     "tikTvd": "2302000783737",
-    "tikName": "Астрахань, Ленинская"
+    "tikName": "Астрахань, Ленинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 209,
     "uikTvd": "4304002244389",
+    "uikName": "УИК №209",
     "tikTvd": "2302000783737",
-    "tikName": "Астрахань, Ленинская"
+    "tikName": "Астрахань, Ленинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 210,
     "uikTvd": "4304002244390",
+    "uikName": "УИК №210",
     "tikTvd": "2302000783737",
-    "tikName": "Астрахань, Ленинская"
+    "tikName": "Астрахань, Ленинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 211,
     "uikTvd": "4304002244391",
+    "uikName": "УИК №211",
     "tikTvd": "2302000783737",
-    "tikName": "Астрахань, Ленинская"
+    "tikName": "Астрахань, Ленинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 212,
     "uikTvd": "4304002244392",
+    "uikName": "УИК №212",
     "tikTvd": "2302000783737",
-    "tikName": "Астрахань, Ленинская"
+    "tikName": "Астрахань, Ленинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 213,
     "uikTvd": "4304002244393",
+    "uikName": "УИК №213",
     "tikTvd": "2302000783737",
-    "tikName": "Астрахань, Ленинская"
+    "tikName": "Астрахань, Ленинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 214,
     "uikTvd": "4304002244394",
+    "uikName": "УИК №214",
     "tikTvd": "2302000783737",
-    "tikName": "Астрахань, Ленинская"
+    "tikName": "Астрахань, Ленинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 215,
     "uikTvd": "4304002244395",
+    "uikName": "УИК №215",
     "tikTvd": "2302000783737",
-    "tikName": "Астрахань, Ленинская"
+    "tikName": "Астрахань, Ленинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 216,
     "uikTvd": "4304002244396",
+    "uikName": "УИК №216",
     "tikTvd": "2302000783737",
-    "tikName": "Астрахань, Ленинская"
+    "tikName": "Астрахань, Ленинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 217,
     "uikTvd": "4304002244397",
+    "uikName": "УИК №217",
     "tikTvd": "2302000783737",
-    "tikName": "Астрахань, Ленинская"
+    "tikName": "Астрахань, Ленинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 218,
     "uikTvd": "4304002244398",
+    "uikName": "УИК №218",
     "tikTvd": "2302000783737",
-    "tikName": "Астрахань, Ленинская"
+    "tikName": "Астрахань, Ленинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 219,
     "uikTvd": "4304002244399",
+    "uikName": "УИК №219",
     "tikTvd": "2302000783737",
-    "tikName": "Астрахань, Ленинская"
+    "tikName": "Астрахань, Ленинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 220,
     "uikTvd": "4304002244400",
+    "uikName": "УИК №220",
     "tikTvd": "2302000783737",
-    "tikName": "Астрахань, Ленинская"
+    "tikName": "Астрахань, Ленинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 221,
     "uikTvd": "4304002244401",
+    "uikName": "УИК №221",
     "tikTvd": "2302000783737",
-    "tikName": "Астрахань, Ленинская"
+    "tikName": "Астрахань, Ленинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 222,
     "uikTvd": "4304002244402",
+    "uikName": "УИК №222",
     "tikTvd": "2302000783737",
-    "tikName": "Астрахань, Ленинская"
+    "tikName": "Астрахань, Ленинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 223,
     "uikTvd": "4304002244403",
+    "uikName": "УИК №223",
     "tikTvd": "2302000783737",
-    "tikName": "Астрахань, Ленинская"
+    "tikName": "Астрахань, Ленинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 224,
     "uikTvd": "4304002244404",
+    "uikName": "УИК №224",
     "tikTvd": "2302000783737",
-    "tikName": "Астрахань, Ленинская"
+    "tikName": "Астрахань, Ленинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 225,
     "uikTvd": "4304002244405",
+    "uikName": "УИК №225",
     "tikTvd": "2302000783737",
-    "tikName": "Астрахань, Ленинская"
+    "tikName": "Астрахань, Ленинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 226,
     "uikTvd": "4304002244406",
+    "uikName": "УИК №226",
     "tikTvd": "2302000783737",
-    "tikName": "Астрахань, Ленинская"
+    "tikName": "Астрахань, Ленинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 227,
     "uikTvd": "4304002244407",
+    "uikName": "УИК №227",
     "tikTvd": "2302000783737",
-    "tikName": "Астрахань, Ленинская"
+    "tikName": "Астрахань, Ленинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 228,
     "uikTvd": "4304002244408",
+    "uikName": "УИК №228",
     "tikTvd": "2302000783737",
-    "tikName": "Астрахань, Ленинская"
+    "tikName": "Астрахань, Ленинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 229,
     "uikTvd": "4304002244409",
+    "uikName": "УИК №229",
     "tikTvd": "2302000783737",
-    "tikName": "Астрахань, Ленинская"
+    "tikName": "Астрахань, Ленинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 230,
     "uikTvd": "4304002244410",
+    "uikName": "УИК №230",
     "tikTvd": "2302000783737",
-    "tikName": "Астрахань, Ленинская"
+    "tikName": "Астрахань, Ленинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 231,
     "uikTvd": "4304002244411",
+    "uikName": "УИК №231",
     "tikTvd": "2302000783737",
-    "tikName": "Астрахань, Ленинская"
+    "tikName": "Астрахань, Ленинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 232,
     "uikTvd": "4304002244412",
+    "uikName": "УИК №232",
     "tikTvd": "2302000783737",
-    "tikName": "Астрахань, Ленинская"
+    "tikName": "Астрахань, Ленинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 233,
     "uikTvd": "4304002244413",
+    "uikName": "УИК №233",
     "tikTvd": "2302000783737",
-    "tikName": "Астрахань, Ленинская"
+    "tikName": "Астрахань, Ленинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 234,
     "uikTvd": "4304002244414",
+    "uikName": "УИК №234",
     "tikTvd": "2302000783737",
-    "tikName": "Астрахань, Ленинская"
+    "tikName": "Астрахань, Ленинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 235,
     "uikTvd": "4304002244415",
+    "uikName": "УИК №235",
     "tikTvd": "2302000783737",
-    "tikName": "Астрахань, Ленинская"
+    "tikName": "Астрахань, Ленинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 236,
     "uikTvd": "4304002244416",
+    "uikName": "УИК №236",
     "tikTvd": "2302000783737",
-    "tikName": "Астрахань, Ленинская"
+    "tikName": "Астрахань, Ленинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 237,
     "uikTvd": "4304002244417",
+    "uikName": "УИК №237",
     "tikTvd": "2302000783737",
-    "tikName": "Астрахань, Ленинская"
+    "tikName": "Астрахань, Ленинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 238,
     "uikTvd": "4304002244418",
+    "uikName": "УИК №238",
     "tikTvd": "2302000783737",
-    "tikName": "Астрахань, Ленинская"
+    "tikName": "Астрахань, Ленинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 239,
     "uikTvd": "4304002244419",
+    "uikName": "УИК №239",
     "tikTvd": "2302000783737",
-    "tikName": "Астрахань, Ленинская"
+    "tikName": "Астрахань, Ленинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 240,
     "uikTvd": "4304002244420",
+    "uikName": "УИК №240",
     "tikTvd": "2302000783737",
-    "tikName": "Астрахань, Ленинская"
+    "tikName": "Астрахань, Ленинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 241,
     "uikTvd": "4304002244421",
+    "uikName": "УИК №241",
     "tikTvd": "2302000783737",
-    "tikName": "Астрахань, Ленинская"
+    "tikName": "Астрахань, Ленинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 242,
     "uikTvd": "4304002244422",
+    "uikName": "УИК №242",
     "tikTvd": "2302000783737",
-    "tikName": "Астрахань, Ленинская"
+    "tikName": "Астрахань, Ленинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 243,
     "uikTvd": "4304002244423",
+    "uikName": "УИК №243",
     "tikTvd": "2302000783737",
-    "tikName": "Астрахань, Ленинская"
+    "tikName": "Астрахань, Ленинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 244,
     "uikTvd": "4304002244424",
+    "uikName": "УИК №244",
     "tikTvd": "2302000783737",
-    "tikName": "Астрахань, Ленинская"
+    "tikName": "Астрахань, Ленинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 245,
     "uikTvd": "4304002244425",
+    "uikName": "УИК №245",
     "tikTvd": "2302000783737",
-    "tikName": "Астрахань, Ленинская"
+    "tikName": "Астрахань, Ленинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 246,
     "uikTvd": "4304002244426",
+    "uikName": "УИК №246",
     "tikTvd": "2302000783737",
-    "tikName": "Астрахань, Ленинская"
+    "tikName": "Астрахань, Ленинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 247,
     "uikTvd": "4304002244427",
+    "uikName": "УИК №247",
     "tikTvd": "2302000783737",
-    "tikName": "Астрахань, Ленинская"
+    "tikName": "Астрахань, Ленинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 248,
     "uikTvd": "4304002244428",
+    "uikName": "УИК №248",
     "tikTvd": "2302000783737",
-    "tikName": "Астрахань, Ленинская"
+    "tikName": "Астрахань, Ленинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 249,
     "uikTvd": "4304002244429",
+    "uikName": "УИК №249",
     "tikTvd": "2302000783737",
-    "tikName": "Астрахань, Ленинская"
+    "tikName": "Астрахань, Ленинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 250,
     "uikTvd": "4304002244430",
+    "uikName": "УИК №250",
     "tikTvd": "2302000783737",
-    "tikName": "Астрахань, Ленинская"
+    "tikName": "Астрахань, Ленинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 251,
     "uikTvd": "4304002244431",
+    "uikName": "УИК №251",
     "tikTvd": "2302000783737",
-    "tikName": "Астрахань, Ленинская"
+    "tikName": "Астрахань, Ленинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 252,
     "uikTvd": "4304002244432",
+    "uikName": "УИК №252",
     "tikTvd": "2302000783737",
-    "tikName": "Астрахань, Ленинская"
+    "tikName": "Астрахань, Ленинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 253,
     "uikTvd": "4304002260854",
+    "uikName": "УИК №253",
     "tikTvd": "2302000783737",
-    "tikName": "Астрахань, Ленинская"
+    "tikName": "Астрахань, Ленинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 254,
     "uikTvd": "4304002262822",
+    "uikName": "УИК №254",
     "tikTvd": "2302000783737",
-    "tikName": "Астрахань, Ленинская"
+    "tikName": "Астрахань, Ленинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 301,
     "uikTvd": "4304003307944",
+    "uikName": "УИК №301",
     "tikTvd": "2302000783726",
-    "tikName": "Астрахань, Cоветская"
+    "tikName": "Астрахань, Cоветская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 302,
     "uikTvd": "4304003307945",
+    "uikName": "УИК №302",
     "tikTvd": "2302000783726",
-    "tikName": "Астрахань, Cоветская"
+    "tikName": "Астрахань, Cоветская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 303,
     "uikTvd": "4304003307946",
+    "uikName": "УИК №303",
     "tikTvd": "2302000783726",
-    "tikName": "Астрахань, Cоветская"
+    "tikName": "Астрахань, Cоветская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 304,
     "uikTvd": "4304003307947",
+    "uikName": "УИК №304",
     "tikTvd": "2302000783726",
-    "tikName": "Астрахань, Cоветская"
+    "tikName": "Астрахань, Cоветская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 305,
     "uikTvd": "4304003307948",
+    "uikName": "УИК №305",
     "tikTvd": "2302000783726",
-    "tikName": "Астрахань, Cоветская"
+    "tikName": "Астрахань, Cоветская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 306,
     "uikTvd": "4304003307949",
+    "uikName": "УИК №306",
     "tikTvd": "2302000783726",
-    "tikName": "Астрахань, Cоветская"
+    "tikName": "Астрахань, Cоветская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 307,
     "uikTvd": "4304003307950",
+    "uikName": "УИК №307",
     "tikTvd": "2302000783726",
-    "tikName": "Астрахань, Cоветская"
+    "tikName": "Астрахань, Cоветская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 308,
     "uikTvd": "4304003307951",
+    "uikName": "УИК №308",
     "tikTvd": "2302000783726",
-    "tikName": "Астрахань, Cоветская"
+    "tikName": "Астрахань, Cоветская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 309,
     "uikTvd": "4304003307952",
+    "uikName": "УИК №309",
     "tikTvd": "2302000783726",
-    "tikName": "Астрахань, Cоветская"
+    "tikName": "Астрахань, Cоветская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 310,
     "uikTvd": "4304003307953",
+    "uikName": "УИК №310",
     "tikTvd": "2302000783726",
-    "tikName": "Астрахань, Cоветская"
+    "tikName": "Астрахань, Cоветская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 311,
     "uikTvd": "4304003307954",
+    "uikName": "УИК №311",
     "tikTvd": "2302000783726",
-    "tikName": "Астрахань, Cоветская"
+    "tikName": "Астрахань, Cоветская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 312,
     "uikTvd": "4304003307955",
+    "uikName": "УИК №312",
     "tikTvd": "2302000783726",
-    "tikName": "Астрахань, Cоветская"
+    "tikName": "Астрахань, Cоветская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 313,
     "uikTvd": "4304003307956",
+    "uikName": "УИК №313",
     "tikTvd": "2302000783726",
-    "tikName": "Астрахань, Cоветская"
+    "tikName": "Астрахань, Cоветская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 314,
     "uikTvd": "4304003307957",
+    "uikName": "УИК №314",
     "tikTvd": "2302000783726",
-    "tikName": "Астрахань, Cоветская"
+    "tikName": "Астрахань, Cоветская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 315,
     "uikTvd": "4304003307958",
+    "uikName": "УИК №315",
     "tikTvd": "2302000783726",
-    "tikName": "Астрахань, Cоветская"
+    "tikName": "Астрахань, Cоветская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 316,
     "uikTvd": "4304003307959",
+    "uikName": "УИК №316",
     "tikTvd": "2302000783726",
-    "tikName": "Астрахань, Cоветская"
+    "tikName": "Астрахань, Cоветская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 317,
     "uikTvd": "4304003307960",
+    "uikName": "УИК №317",
     "tikTvd": "2302000783726",
-    "tikName": "Астрахань, Cоветская"
+    "tikName": "Астрахань, Cоветская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 318,
     "uikTvd": "4304003307961",
+    "uikName": "УИК №318",
     "tikTvd": "2302000783726",
-    "tikName": "Астрахань, Cоветская"
+    "tikName": "Астрахань, Cоветская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 319,
     "uikTvd": "4304003307962",
+    "uikName": "УИК №319",
     "tikTvd": "2302000783726",
-    "tikName": "Астрахань, Cоветская"
+    "tikName": "Астрахань, Cоветская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 320,
     "uikTvd": "4304003307963",
+    "uikName": "УИК №320",
     "tikTvd": "2302000783726",
-    "tikName": "Астрахань, Cоветская"
+    "tikName": "Астрахань, Cоветская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 321,
     "uikTvd": "4304003307964",
+    "uikName": "УИК №321",
     "tikTvd": "2302000783726",
-    "tikName": "Астрахань, Cоветская"
+    "tikName": "Астрахань, Cоветская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 322,
     "uikTvd": "4304003307965",
+    "uikName": "УИК №322",
     "tikTvd": "2302000783726",
-    "tikName": "Астрахань, Cоветская"
+    "tikName": "Астрахань, Cоветская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 323,
     "uikTvd": "4304003307966",
+    "uikName": "УИК №323",
     "tikTvd": "2302000783726",
-    "tikName": "Астрахань, Cоветская"
+    "tikName": "Астрахань, Cоветская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 324,
     "uikTvd": "4304003307967",
+    "uikName": "УИК №324",
     "tikTvd": "2302000783726",
-    "tikName": "Астрахань, Cоветская"
+    "tikName": "Астрахань, Cоветская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 325,
     "uikTvd": "4304003307968",
+    "uikName": "УИК №325",
     "tikTvd": "2302000783726",
-    "tikName": "Астрахань, Cоветская"
+    "tikName": "Астрахань, Cоветская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 326,
     "uikTvd": "4304003307969",
+    "uikName": "УИК №326",
     "tikTvd": "2302000783726",
-    "tikName": "Астрахань, Cоветская"
+    "tikName": "Астрахань, Cоветская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 327,
     "uikTvd": "4304003307970",
+    "uikName": "УИК №327",
     "tikTvd": "2302000783726",
-    "tikName": "Астрахань, Cоветская"
+    "tikName": "Астрахань, Cоветская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 328,
     "uikTvd": "4304003307971",
+    "uikName": "УИК №328",
     "tikTvd": "2302000783726",
-    "tikName": "Астрахань, Cоветская"
+    "tikName": "Астрахань, Cоветская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 329,
     "uikTvd": "4304003307972",
+    "uikName": "УИК №329",
     "tikTvd": "2302000783726",
-    "tikName": "Астрахань, Cоветская"
+    "tikName": "Астрахань, Cоветская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 330,
     "uikTvd": "4304003307973",
+    "uikName": "УИК №330",
     "tikTvd": "2302000783726",
-    "tikName": "Астрахань, Cоветская"
+    "tikName": "Астрахань, Cоветская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 331,
     "uikTvd": "4304003307974",
+    "uikName": "УИК №331",
     "tikTvd": "2302000783726",
-    "tikName": "Астрахань, Cоветская"
+    "tikName": "Астрахань, Cоветская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 332,
     "uikTvd": "4304003307975",
+    "uikName": "УИК №332",
     "tikTvd": "2302000783726",
-    "tikName": "Астрахань, Cоветская"
+    "tikName": "Астрахань, Cоветская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 333,
     "uikTvd": "4304003307976",
+    "uikName": "УИК №333",
     "tikTvd": "2302000783726",
-    "tikName": "Астрахань, Cоветская"
+    "tikName": "Астрахань, Cоветская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 334,
     "uikTvd": "4304003307977",
+    "uikName": "УИК №334",
     "tikTvd": "2302000783726",
-    "tikName": "Астрахань, Cоветская"
+    "tikName": "Астрахань, Cоветская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 335,
     "uikTvd": "4304003307978",
+    "uikName": "УИК №335",
     "tikTvd": "2302000783726",
-    "tikName": "Астрахань, Cоветская"
+    "tikName": "Астрахань, Cоветская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 336,
     "uikTvd": "4304003307979",
+    "uikName": "УИК №336",
     "tikTvd": "2302000783726",
-    "tikName": "Астрахань, Cоветская"
+    "tikName": "Астрахань, Cоветская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 337,
     "uikTvd": "4304003307980",
+    "uikName": "УИК №337",
     "tikTvd": "2302000783726",
-    "tikName": "Астрахань, Cоветская"
+    "tikName": "Астрахань, Cоветская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 338,
     "uikTvd": "4304003307981",
+    "uikName": "УИК №338",
     "tikTvd": "2302000783726",
-    "tikName": "Астрахань, Cоветская"
+    "tikName": "Астрахань, Cоветская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 339,
     "uikTvd": "4304003307982",
+    "uikName": "УИК №339",
     "tikTvd": "2302000783726",
-    "tikName": "Астрахань, Cоветская"
+    "tikName": "Астрахань, Cоветская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 340,
     "uikTvd": "4304003307983",
+    "uikName": "УИК №340",
     "tikTvd": "2302000783726",
-    "tikName": "Астрахань, Cоветская"
+    "tikName": "Астрахань, Cоветская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 341,
     "uikTvd": "4304003307984",
+    "uikName": "УИК №341",
     "tikTvd": "2302000783726",
-    "tikName": "Астрахань, Cоветская"
+    "tikName": "Астрахань, Cоветская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 342,
     "uikTvd": "4304003307985",
+    "uikName": "УИК №342",
     "tikTvd": "2302000783726",
-    "tikName": "Астрахань, Cоветская"
+    "tikName": "Астрахань, Cоветская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 343,
     "uikTvd": "4304003307986",
+    "uikName": "УИК №343",
     "tikTvd": "2302000783726",
-    "tikName": "Астрахань, Cоветская"
+    "tikName": "Астрахань, Cоветская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 344,
     "uikTvd": "4304003307987",
+    "uikName": "УИК №344",
     "tikTvd": "2302000783726",
-    "tikName": "Астрахань, Cоветская"
+    "tikName": "Астрахань, Cоветская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 345,
     "uikTvd": "4304003307988",
+    "uikName": "УИК №345",
     "tikTvd": "2302000783726",
-    "tikName": "Астрахань, Cоветская"
+    "tikName": "Астрахань, Cоветская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 346,
     "uikTvd": "4304003307989",
+    "uikName": "УИК №346",
     "tikTvd": "2302000783726",
-    "tikName": "Астрахань, Cоветская"
+    "tikName": "Астрахань, Cоветская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 347,
     "uikTvd": "4304003307990",
+    "uikName": "УИК №347",
     "tikTvd": "2302000783726",
-    "tikName": "Астрахань, Cоветская"
+    "tikName": "Астрахань, Cоветская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 348,
     "uikTvd": "4304003307991",
+    "uikName": "УИК №348",
     "tikTvd": "2302000783726",
-    "tikName": "Астрахань, Cоветская"
+    "tikName": "Астрахань, Cоветская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 349,
     "uikTvd": "4304003307992",
+    "uikName": "УИК №349",
     "tikTvd": "2302000783726",
-    "tikName": "Астрахань, Cоветская"
+    "tikName": "Астрахань, Cоветская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 350,
     "uikTvd": "4304003307993",
+    "uikName": "УИК №350",
     "tikTvd": "2302000783726",
-    "tikName": "Астрахань, Cоветская"
+    "tikName": "Астрахань, Cоветская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 351,
     "uikTvd": "4304003307994",
+    "uikName": "УИК №351",
     "tikTvd": "2302000783726",
-    "tikName": "Астрахань, Cоветская"
+    "tikName": "Астрахань, Cоветская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 352,
     "uikTvd": "4304003307995",
+    "uikName": "УИК №352",
     "tikTvd": "2302000783726",
-    "tikName": "Астрахань, Cоветская"
+    "tikName": "Астрахань, Cоветская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 353,
     "uikTvd": "4304003322799",
+    "uikName": "УИК №353",
     "tikTvd": "2302000783726",
-    "tikName": "Астрахань, Cоветская"
+    "tikName": "Астрахань, Cоветская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 401,
     "uikTvd": "4304004224601",
+    "uikName": "УИК №401",
     "tikTvd": "2302000783731",
-    "tikName": "Астрахань, Трусовская"
+    "tikName": "Астрахань, Трусовская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 402,
     "uikTvd": "4304004224602",
+    "uikName": "УИК №402",
     "tikTvd": "2302000783731",
-    "tikName": "Астрахань, Трусовская"
+    "tikName": "Астрахань, Трусовская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 403,
     "uikTvd": "4304004224603",
+    "uikName": "УИК №403",
     "tikTvd": "2302000783731",
-    "tikName": "Астрахань, Трусовская"
+    "tikName": "Астрахань, Трусовская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 404,
     "uikTvd": "4304004224604",
+    "uikName": "УИК №404",
     "tikTvd": "2302000783731",
-    "tikName": "Астрахань, Трусовская"
+    "tikName": "Астрахань, Трусовская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 405,
     "uikTvd": "4304004224605",
+    "uikName": "УИК №405",
     "tikTvd": "2302000783731",
-    "tikName": "Астрахань, Трусовская"
+    "tikName": "Астрахань, Трусовская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 406,
     "uikTvd": "4304004224606",
+    "uikName": "УИК №406",
     "tikTvd": "2302000783731",
-    "tikName": "Астрахань, Трусовская"
+    "tikName": "Астрахань, Трусовская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 407,
     "uikTvd": "4304004224607",
+    "uikName": "УИК №407",
     "tikTvd": "2302000783731",
-    "tikName": "Астрахань, Трусовская"
+    "tikName": "Астрахань, Трусовская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 408,
     "uikTvd": "4304004224608",
+    "uikName": "УИК №408",
     "tikTvd": "2302000783731",
-    "tikName": "Астрахань, Трусовская"
+    "tikName": "Астрахань, Трусовская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 409,
     "uikTvd": "4304004224609",
+    "uikName": "УИК №409",
     "tikTvd": "2302000783731",
-    "tikName": "Астрахань, Трусовская"
+    "tikName": "Астрахань, Трусовская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 410,
     "uikTvd": "4304004224610",
+    "uikName": "УИК №410",
     "tikTvd": "2302000783731",
-    "tikName": "Астрахань, Трусовская"
+    "tikName": "Астрахань, Трусовская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 411,
     "uikTvd": "4304004224611",
+    "uikName": "УИК №411",
     "tikTvd": "2302000783731",
-    "tikName": "Астрахань, Трусовская"
+    "tikName": "Астрахань, Трусовская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 412,
     "uikTvd": "4304004224612",
+    "uikName": "УИК №412",
     "tikTvd": "2302000783731",
-    "tikName": "Астрахань, Трусовская"
+    "tikName": "Астрахань, Трусовская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 413,
     "uikTvd": "4304004224613",
+    "uikName": "УИК №413",
     "tikTvd": "2302000783731",
-    "tikName": "Астрахань, Трусовская"
+    "tikName": "Астрахань, Трусовская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 414,
     "uikTvd": "4304004224614",
+    "uikName": "УИК №414",
     "tikTvd": "2302000783731",
-    "tikName": "Астрахань, Трусовская"
+    "tikName": "Астрахань, Трусовская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 415,
     "uikTvd": "4304004224615",
+    "uikName": "УИК №415",
     "tikTvd": "2302000783731",
-    "tikName": "Астрахань, Трусовская"
+    "tikName": "Астрахань, Трусовская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 416,
     "uikTvd": "4304004224616",
+    "uikName": "УИК №416",
     "tikTvd": "2302000783731",
-    "tikName": "Астрахань, Трусовская"
+    "tikName": "Астрахань, Трусовская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 417,
     "uikTvd": "4304004224617",
+    "uikName": "УИК №417",
     "tikTvd": "2302000783731",
-    "tikName": "Астрахань, Трусовская"
+    "tikName": "Астрахань, Трусовская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 418,
     "uikTvd": "4304004224618",
+    "uikName": "УИК №418",
     "tikTvd": "2302000783731",
-    "tikName": "Астрахань, Трусовская"
+    "tikName": "Астрахань, Трусовская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 419,
     "uikTvd": "4304004224619",
+    "uikName": "УИК №419",
     "tikTvd": "2302000783731",
-    "tikName": "Астрахань, Трусовская"
+    "tikName": "Астрахань, Трусовская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 420,
     "uikTvd": "4304004224620",
+    "uikName": "УИК №420",
     "tikTvd": "2302000783731",
-    "tikName": "Астрахань, Трусовская"
+    "tikName": "Астрахань, Трусовская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 421,
     "uikTvd": "4304004224621",
+    "uikName": "УИК №421",
     "tikTvd": "2302000783731",
-    "tikName": "Астрахань, Трусовская"
+    "tikName": "Астрахань, Трусовская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 422,
     "uikTvd": "4304004224622",
+    "uikName": "УИК №422",
     "tikTvd": "2302000783731",
-    "tikName": "Астрахань, Трусовская"
+    "tikName": "Астрахань, Трусовская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 423,
     "uikTvd": "4304004224623",
+    "uikName": "УИК №423",
     "tikTvd": "2302000783731",
-    "tikName": "Астрахань, Трусовская"
+    "tikName": "Астрахань, Трусовская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 424,
     "uikTvd": "4304004224624",
+    "uikName": "УИК №424",
     "tikTvd": "2302000783731",
-    "tikName": "Астрахань, Трусовская"
+    "tikName": "Астрахань, Трусовская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 425,
     "uikTvd": "4304004224625",
+    "uikName": "УИК №425",
     "tikTvd": "2302000783731",
-    "tikName": "Астрахань, Трусовская"
+    "tikName": "Астрахань, Трусовская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 426,
     "uikTvd": "4304004224626",
+    "uikName": "УИК №426",
     "tikTvd": "2302000783731",
-    "tikName": "Астрахань, Трусовская"
+    "tikName": "Астрахань, Трусовская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 427,
     "uikTvd": "4304004224627",
+    "uikName": "УИК №427",
     "tikTvd": "2302000783731",
-    "tikName": "Астрахань, Трусовская"
+    "tikName": "Астрахань, Трусовская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 428,
     "uikTvd": "4304004224628",
+    "uikName": "УИК №428",
     "tikTvd": "2302000783731",
-    "tikName": "Астрахань, Трусовская"
+    "tikName": "Астрахань, Трусовская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 429,
     "uikTvd": "4304004224629",
+    "uikName": "УИК №429",
     "tikTvd": "2302000783731",
-    "tikName": "Астрахань, Трусовская"
+    "tikName": "Астрахань, Трусовская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 430,
     "uikTvd": "4304004224630",
+    "uikName": "УИК №430",
     "tikTvd": "2302000783731",
-    "tikName": "Астрахань, Трусовская"
+    "tikName": "Астрахань, Трусовская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 431,
     "uikTvd": "4304004224631",
+    "uikName": "УИК №431",
     "tikTvd": "2302000783731",
-    "tikName": "Астрахань, Трусовская"
+    "tikName": "Астрахань, Трусовская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 432,
     "uikTvd": "4304004224632",
+    "uikName": "УИК №432",
     "tikTvd": "2302000783731",
-    "tikName": "Астрахань, Трусовская"
+    "tikName": "Астрахань, Трусовская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 433,
     "uikTvd": "4304004224633",
+    "uikName": "УИК №433",
     "tikTvd": "2302000783731",
-    "tikName": "Астрахань, Трусовская"
+    "tikName": "Астрахань, Трусовская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 434,
     "uikTvd": "4304004224634",
+    "uikName": "УИК №434",
     "tikTvd": "2302000783731",
-    "tikName": "Астрахань, Трусовская"
+    "tikName": "Астрахань, Трусовская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 435,
     "uikTvd": "4304004224635",
+    "uikName": "УИК №435",
     "tikTvd": "2302000783731",
-    "tikName": "Астрахань, Трусовская"
+    "tikName": "Астрахань, Трусовская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 436,
     "uikTvd": "4304004224636",
+    "uikName": "УИК №436",
     "tikTvd": "2302000783731",
-    "tikName": "Астрахань, Трусовская"
+    "tikName": "Астрахань, Трусовская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 437,
     "uikTvd": "4304004224637",
+    "uikName": "УИК №437",
     "tikTvd": "2302000783731",
-    "tikName": "Астрахань, Трусовская"
+    "tikName": "Астрахань, Трусовская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 438,
     "uikTvd": "4304004224638",
+    "uikName": "УИК №438",
     "tikTvd": "2302000783731",
-    "tikName": "Астрахань, Трусовская"
+    "tikName": "Астрахань, Трусовская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 439,
     "uikTvd": "4304004224639",
+    "uikName": "УИК №439",
     "tikTvd": "2302000783731",
-    "tikName": "Астрахань, Трусовская"
+    "tikName": "Астрахань, Трусовская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 440,
     "uikTvd": "4304004224640",
+    "uikName": "УИК №440",
     "tikTvd": "2302000783731",
-    "tikName": "Астрахань, Трусовская"
+    "tikName": "Астрахань, Трусовская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 441,
     "uikTvd": "4304004224641",
+    "uikName": "УИК №441",
     "tikTvd": "2302000783731",
-    "tikName": "Астрахань, Трусовская"
+    "tikName": "Астрахань, Трусовская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 442,
     "uikTvd": "4304004224642",
+    "uikName": "УИК №442",
     "tikTvd": "2302000783731",
-    "tikName": "Астрахань, Трусовская"
+    "tikName": "Астрахань, Трусовская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 443,
     "uikTvd": "4304004238731",
+    "uikName": "УИК №443",
     "tikTvd": "2302000783731",
-    "tikName": "Астрахань, Трусовская"
+    "tikName": "Астрахань, Трусовская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 444,
     "uikTvd": "4304004240962",
+    "uikName": "УИК №444",
     "tikTvd": "2302000783731",
-    "tikName": "Астрахань, Трусовская"
+    "tikName": "Астрахань, Трусовская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 445,
     "uikTvd": "4304004240963",
+    "uikName": "УИК №445",
     "tikTvd": "2302000783731",
-    "tikName": "Астрахань, Трусовская"
+    "tikName": "Астрахань, Трусовская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 446,
     "uikTvd": "4304004240964",
+    "uikName": "УИК №446",
     "tikTvd": "2302000783731",
-    "tikName": "Астрахань, Трусовская"
+    "tikName": "Астрахань, Трусовская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 447,
     "uikTvd": "4304004240965",
+    "uikName": "УИК №447",
     "tikTvd": "2302000783731",
-    "tikName": "Астрахань, Трусовская"
+    "tikName": "Астрахань, Трусовская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 448,
     "uikTvd": "4304004240966",
+    "uikName": "УИК №448",
     "tikTvd": "2302000783731",
-    "tikName": "Астрахань, Трусовская"
+    "tikName": "Астрахань, Трусовская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 449,
     "uikTvd": "4304004240967",
+    "uikName": "УИК №449",
     "tikTvd": "2302000783731",
-    "tikName": "Астрахань, Трусовская"
+    "tikName": "Астрахань, Трусовская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 450,
     "uikTvd": "4304004240968",
+    "uikName": "УИК №450",
     "tikTvd": "2302000783731",
-    "tikName": "Астрахань, Трусовская"
+    "tikName": "Астрахань, Трусовская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 451,
     "uikTvd": "4304004240969",
+    "uikName": "УИК №451",
     "tikTvd": "2302000783731",
-    "tikName": "Астрахань, Трусовская"
+    "tikName": "Астрахань, Трусовская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 452,
     "uikTvd": "4304004240970",
+    "uikName": "УИК №452",
     "tikTvd": "2302000783731",
-    "tikName": "Астрахань, Трусовская"
+    "tikName": "Астрахань, Трусовская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 453,
     "uikTvd": "4304004240971",
+    "uikName": "УИК №453",
     "tikTvd": "2302000783731",
-    "tikName": "Астрахань, Трусовская"
+    "tikName": "Астрахань, Трусовская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 454,
     "uikTvd": "4304004240972",
+    "uikName": "УИК №454",
     "tikTvd": "2302000783731",
-    "tikName": "Астрахань, Трусовская"
+    "tikName": "Астрахань, Трусовская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 455,
     "uikTvd": "4304004240973",
+    "uikName": "УИК №455",
     "tikTvd": "2302000783731",
-    "tikName": "Астрахань, Трусовская"
+    "tikName": "Астрахань, Трусовская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 456,
     "uikTvd": "4304004240974",
+    "uikName": "УИК №456",
     "tikTvd": "2302000783731",
-    "tikName": "Астрахань, Трусовская"
+    "tikName": "Астрахань, Трусовская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 457,
     "uikTvd": "4304004240975",
+    "uikName": "УИК №457",
     "tikTvd": "2302000783731",
-    "tikName": "Астрахань, Трусовская"
+    "tikName": "Астрахань, Трусовская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 458,
     "uikTvd": "4304004240976",
+    "uikName": "УИК №458",
     "tikTvd": "2302000783731",
-    "tikName": "Астрахань, Трусовская"
+    "tikName": "Астрахань, Трусовская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 459,
     "uikTvd": "4304004240977",
+    "uikName": "УИК №459",
     "tikTvd": "2302000783731",
-    "tikName": "Астрахань, Трусовская"
+    "tikName": "Астрахань, Трусовская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 460,
     "uikTvd": "4304004240978",
+    "uikName": "УИК №460",
     "tikTvd": "2302000783731",
-    "tikName": "Астрахань, Трусовская"
+    "tikName": "Астрахань, Трусовская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 461,
     "uikTvd": "4304004240979",
+    "uikName": "УИК №461",
     "tikTvd": "2302000783731",
-    "tikName": "Астрахань, Трусовская"
+    "tikName": "Астрахань, Трусовская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 462,
     "uikTvd": "4304004240980",
+    "uikName": "УИК №462",
     "tikTvd": "2302000783731",
-    "tikName": "Астрахань, Трусовская"
+    "tikName": "Астрахань, Трусовская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 463,
     "uikTvd": "4304004240981",
+    "uikName": "УИК №463",
     "tikTvd": "2302000783731",
-    "tikName": "Астрахань, Трусовская"
+    "tikName": "Астрахань, Трусовская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 464,
     "uikTvd": "4304004240982",
+    "uikName": "УИК №464",
     "tikTvd": "2302000783731",
-    "tikName": "Астрахань, Трусовская"
+    "tikName": "Астрахань, Трусовская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 465,
     "uikTvd": "4304004240983",
+    "uikName": "УИК №465",
     "tikTvd": "2302000783731",
-    "tikName": "Астрахань, Трусовская"
+    "tikName": "Астрахань, Трусовская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 466,
     "uikTvd": "4304004240984",
+    "uikName": "УИК №466",
     "tikTvd": "2302000783731",
-    "tikName": "Астрахань, Трусовская"
+    "tikName": "Астрахань, Трусовская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 467,
     "uikTvd": "4304004240985",
+    "uikName": "УИК №467",
     "tikTvd": "2302000783731",
-    "tikName": "Астрахань, Трусовская"
+    "tikName": "Астрахань, Трусовская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 468,
     "uikTvd": "4304004240986",
+    "uikName": "УИК №468",
     "tikTvd": "2302000783731",
-    "tikName": "Астрахань, Трусовская"
+    "tikName": "Астрахань, Трусовская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 469,
     "uikTvd": "4304004240987",
+    "uikName": "УИК №469",
     "tikTvd": "2302000783731",
-    "tikName": "Астрахань, Трусовская"
+    "tikName": "Астрахань, Трусовская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 470,
     "uikTvd": "4304004240988",
+    "uikName": "УИК №470",
     "tikTvd": "2302000783731",
-    "tikName": "Астрахань, Трусовская"
+    "tikName": "Астрахань, Трусовская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 471,
     "uikTvd": "4304004240989",
+    "uikName": "УИК №471",
     "tikTvd": "2302000783731",
-    "tikName": "Астрахань, Трусовская"
+    "tikName": "Астрахань, Трусовская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 472,
     "uikTvd": "4304004240990",
+    "uikName": "УИК №472",
     "tikTvd": "2302000783731",
-    "tikName": "Астрахань, Трусовская"
+    "tikName": "Астрахань, Трусовская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 473,
     "uikTvd": "4304004240991",
+    "uikName": "УИК №473",
     "tikTvd": "2302000783731",
-    "tikName": "Астрахань, Трусовская"
+    "tikName": "Астрахань, Трусовская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 474,
     "uikTvd": "4304004240992",
+    "uikName": "УИК №474",
     "tikTvd": "2302000783731",
-    "tikName": "Астрахань, Трусовская"
+    "tikName": "Астрахань, Трусовская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 475,
     "uikTvd": "4304004240993",
+    "uikName": "УИК №475",
     "tikTvd": "2302000783731",
-    "tikName": "Астрахань, Трусовская"
+    "tikName": "Астрахань, Трусовская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 476,
     "uikTvd": "4304004240994",
+    "uikName": "УИК №476",
     "tikTvd": "2302000783731",
-    "tikName": "Астрахань, Трусовская"
+    "tikName": "Астрахань, Трусовская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 477,
     "uikTvd": "4304004240995",
+    "uikName": "УИК №477",
     "tikTvd": "2302000783731",
-    "tikName": "Астрахань, Трусовская"
+    "tikName": "Астрахань, Трусовская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 501,
     "uikTvd": "4304005236987",
+    "uikName": "УИК №501",
     "tikTvd": "2302000783724",
-    "tikName": "Ахтубинская"
+    "tikName": "Ахтубинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 502,
     "uikTvd": "4304005236988",
+    "uikName": "УИК №502",
     "tikTvd": "2302000783724",
-    "tikName": "Ахтубинская"
+    "tikName": "Ахтубинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 503,
     "uikTvd": "4304005236989",
+    "uikName": "УИК №503",
     "tikTvd": "2302000783724",
-    "tikName": "Ахтубинская"
+    "tikName": "Ахтубинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 504,
     "uikTvd": "4304005236990",
+    "uikName": "УИК №504",
     "tikTvd": "2302000783724",
-    "tikName": "Ахтубинская"
+    "tikName": "Ахтубинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 505,
     "uikTvd": "4304005236991",
+    "uikName": "УИК №505",
     "tikTvd": "2302000783724",
-    "tikName": "Ахтубинская"
+    "tikName": "Ахтубинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 506,
     "uikTvd": "4304005236992",
+    "uikName": "УИК №506",
     "tikTvd": "2302000783724",
-    "tikName": "Ахтубинская"
+    "tikName": "Ахтубинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 507,
     "uikTvd": "4304005236993",
+    "uikName": "УИК №507",
     "tikTvd": "2302000783724",
-    "tikName": "Ахтубинская"
+    "tikName": "Ахтубинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 508,
     "uikTvd": "4304005236994",
+    "uikName": "УИК №508",
     "tikTvd": "2302000783724",
-    "tikName": "Ахтубинская"
+    "tikName": "Ахтубинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 509,
     "uikTvd": "4304005236995",
+    "uikName": "УИК №509",
     "tikTvd": "2302000783724",
-    "tikName": "Ахтубинская"
+    "tikName": "Ахтубинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 510,
     "uikTvd": "4304005236996",
+    "uikName": "УИК №510",
     "tikTvd": "2302000783724",
-    "tikName": "Ахтубинская"
+    "tikName": "Ахтубинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 511,
     "uikTvd": "4304005236997",
+    "uikName": "УИК №511",
     "tikTvd": "2302000783724",
-    "tikName": "Ахтубинская"
+    "tikName": "Ахтубинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 512,
     "uikTvd": "4304005236998",
+    "uikName": "УИК №512",
     "tikTvd": "2302000783724",
-    "tikName": "Ахтубинская"
+    "tikName": "Ахтубинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 513,
     "uikTvd": "4304005236999",
+    "uikName": "УИК №513",
     "tikTvd": "2302000783724",
-    "tikName": "Ахтубинская"
+    "tikName": "Ахтубинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 514,
     "uikTvd": "4304005237000",
+    "uikName": "УИК №514",
     "tikTvd": "2302000783724",
-    "tikName": "Ахтубинская"
+    "tikName": "Ахтубинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 515,
     "uikTvd": "4304005237001",
+    "uikName": "УИК №515",
     "tikTvd": "2302000783724",
-    "tikName": "Ахтубинская"
+    "tikName": "Ахтубинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 516,
     "uikTvd": "4304005237002",
+    "uikName": "УИК №516",
     "tikTvd": "2302000783724",
-    "tikName": "Ахтубинская"
+    "tikName": "Ахтубинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 517,
     "uikTvd": "4304005237003",
+    "uikName": "УИК №517",
     "tikTvd": "2302000783724",
-    "tikName": "Ахтубинская"
+    "tikName": "Ахтубинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 518,
     "uikTvd": "4304005237004",
+    "uikName": "УИК №518",
     "tikTvd": "2302000783724",
-    "tikName": "Ахтубинская"
+    "tikName": "Ахтубинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 519,
     "uikTvd": "4304005237005",
+    "uikName": "УИК №519",
     "tikTvd": "2302000783724",
-    "tikName": "Ахтубинская"
+    "tikName": "Ахтубинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 520,
     "uikTvd": "4304005237006",
+    "uikName": "УИК №520",
     "tikTvd": "2302000783724",
-    "tikName": "Ахтубинская"
+    "tikName": "Ахтубинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 521,
     "uikTvd": "4304005237007",
+    "uikName": "УИК №521",
     "tikTvd": "2302000783724",
-    "tikName": "Ахтубинская"
+    "tikName": "Ахтубинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 522,
     "uikTvd": "4304005237008",
+    "uikName": "УИК №522",
     "tikTvd": "2302000783724",
-    "tikName": "Ахтубинская"
+    "tikName": "Ахтубинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 523,
     "uikTvd": "4304005237009",
+    "uikName": "УИК №523",
     "tikTvd": "2302000783724",
-    "tikName": "Ахтубинская"
+    "tikName": "Ахтубинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 524,
     "uikTvd": "4304005237010",
+    "uikName": "УИК №524",
     "tikTvd": "2302000783724",
-    "tikName": "Ахтубинская"
+    "tikName": "Ахтубинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 525,
     "uikTvd": "4304005237011",
+    "uikName": "УИК №525",
     "tikTvd": "2302000783724",
-    "tikName": "Ахтубинская"
+    "tikName": "Ахтубинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 526,
     "uikTvd": "4304005237012",
+    "uikName": "УИК №526",
     "tikTvd": "2302000783724",
-    "tikName": "Ахтубинская"
+    "tikName": "Ахтубинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 527,
     "uikTvd": "4304005237013",
+    "uikName": "УИК №527",
     "tikTvd": "2302000783724",
-    "tikName": "Ахтубинская"
+    "tikName": "Ахтубинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 528,
     "uikTvd": "4304005237014",
+    "uikName": "УИК №528",
     "tikTvd": "2302000783724",
-    "tikName": "Ахтубинская"
+    "tikName": "Ахтубинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 529,
     "uikTvd": "4304005237015",
+    "uikName": "УИК №529",
     "tikTvd": "2302000783724",
-    "tikName": "Ахтубинская"
+    "tikName": "Ахтубинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 530,
     "uikTvd": "4304005237016",
+    "uikName": "УИК №530",
     "tikTvd": "2302000783724",
-    "tikName": "Ахтубинская"
+    "tikName": "Ахтубинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 531,
     "uikTvd": "4304005237017",
+    "uikName": "УИК №531",
     "tikTvd": "2302000783724",
-    "tikName": "Ахтубинская"
+    "tikName": "Ахтубинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 532,
     "uikTvd": "4304005237018",
+    "uikName": "УИК №532",
     "tikTvd": "2302000783724",
-    "tikName": "Ахтубинская"
+    "tikName": "Ахтубинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 533,
     "uikTvd": "4304005237019",
+    "uikName": "УИК №533",
     "tikTvd": "2302000783724",
-    "tikName": "Ахтубинская"
+    "tikName": "Ахтубинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 534,
     "uikTvd": "4304005237020",
+    "uikName": "УИК №534",
     "tikTvd": "2302000783724",
-    "tikName": "Ахтубинская"
+    "tikName": "Ахтубинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 535,
     "uikTvd": "4304005237021",
+    "uikName": "УИК №535",
     "tikTvd": "2302000783724",
-    "tikName": "Ахтубинская"
+    "tikName": "Ахтубинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 536,
     "uikTvd": "4304005237022",
+    "uikName": "УИК №536",
     "tikTvd": "2302000783724",
-    "tikName": "Ахтубинская"
+    "tikName": "Ахтубинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 537,
     "uikTvd": "4304005237023",
+    "uikName": "УИК №537",
     "tikTvd": "2302000783724",
-    "tikName": "Ахтубинская"
+    "tikName": "Ахтубинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 538,
     "uikTvd": "4304005237024",
+    "uikName": "УИК №538",
     "tikTvd": "2302000783724",
-    "tikName": "Ахтубинская"
+    "tikName": "Ахтубинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 539,
     "uikTvd": "4304005237025",
+    "uikName": "УИК №539",
     "tikTvd": "2302000783724",
-    "tikName": "Ахтубинская"
+    "tikName": "Ахтубинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 540,
     "uikTvd": "4304005237026",
+    "uikName": "УИК №540",
     "tikTvd": "2302000783724",
-    "tikName": "Ахтубинская"
+    "tikName": "Ахтубинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 541,
     "uikTvd": "4304005237027",
+    "uikName": "УИК №541",
     "tikTvd": "2302000783724",
-    "tikName": "Ахтубинская"
+    "tikName": "Ахтубинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 542,
     "uikTvd": "4304005237028",
+    "uikName": "УИК №542",
     "tikTvd": "2302000783724",
-    "tikName": "Ахтубинская"
+    "tikName": "Ахтубинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 543,
     "uikTvd": "4304005237029",
+    "uikName": "УИК №543",
     "tikTvd": "2302000783724",
-    "tikName": "Ахтубинская"
+    "tikName": "Ахтубинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 544,
     "uikTvd": "4304005237030",
+    "uikName": "УИК №544",
     "tikTvd": "2302000783724",
-    "tikName": "Ахтубинская"
+    "tikName": "Ахтубинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 545,
     "uikTvd": "4304005237031",
+    "uikName": "УИК №545",
     "tikTvd": "2302000783724",
-    "tikName": "Ахтубинская"
+    "tikName": "Ахтубинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 546,
     "uikTvd": "4304005237032",
+    "uikName": "УИК №546",
     "tikTvd": "2302000783724",
-    "tikName": "Ахтубинская"
+    "tikName": "Ахтубинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 547,
     "uikTvd": "4304005237033",
+    "uikName": "УИК №547",
     "tikTvd": "2302000783724",
-    "tikName": "Ахтубинская"
+    "tikName": "Ахтубинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 548,
     "uikTvd": "4304005237034",
+    "uikName": "УИК №548",
     "tikTvd": "2302000783724",
-    "tikName": "Ахтубинская"
+    "tikName": "Ахтубинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 549,
     "uikTvd": "4304005237035",
+    "uikName": "УИК №549",
     "tikTvd": "2302000783724",
-    "tikName": "Ахтубинская"
+    "tikName": "Ахтубинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 550,
     "uikTvd": "4304005237036",
+    "uikName": "УИК №550",
     "tikTvd": "2302000783724",
-    "tikName": "Ахтубинская"
+    "tikName": "Ахтубинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 551,
     "uikTvd": "4304005237037",
+    "uikName": "УИК №551",
     "tikTvd": "2302000783724",
-    "tikName": "Ахтубинская"
+    "tikName": "Ахтубинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 552,
     "uikTvd": "4304005237038",
+    "uikName": "УИК №552",
     "tikTvd": "2302000783724",
-    "tikName": "Ахтубинская"
+    "tikName": "Ахтубинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 601,
     "uikTvd": "4304006299021",
+    "uikName": "УИК №601",
     "tikTvd": "2302000783739",
-    "tikName": "Володарская"
+    "tikName": "Володарская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 602,
     "uikTvd": "4304006299022",
+    "uikName": "УИК №602",
     "tikTvd": "2302000783739",
-    "tikName": "Володарская"
+    "tikName": "Володарская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 603,
     "uikTvd": "4304006299023",
+    "uikName": "УИК №603",
     "tikTvd": "2302000783739",
-    "tikName": "Володарская"
+    "tikName": "Володарская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 604,
     "uikTvd": "4304006299024",
+    "uikName": "УИК №604",
     "tikTvd": "2302000783739",
-    "tikName": "Володарская"
+    "tikName": "Володарская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 605,
     "uikTvd": "4304006299025",
+    "uikName": "УИК №605",
     "tikTvd": "2302000783739",
-    "tikName": "Володарская"
+    "tikName": "Володарская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 606,
     "uikTvd": "4304006299026",
+    "uikName": "УИК №606",
     "tikTvd": "2302000783739",
-    "tikName": "Володарская"
+    "tikName": "Володарская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 607,
     "uikTvd": "4304006299027",
+    "uikName": "УИК №607",
     "tikTvd": "2302000783739",
-    "tikName": "Володарская"
+    "tikName": "Володарская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 608,
     "uikTvd": "4304006299028",
+    "uikName": "УИК №608",
     "tikTvd": "2302000783739",
-    "tikName": "Володарская"
+    "tikName": "Володарская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 609,
     "uikTvd": "4304006299029",
+    "uikName": "УИК №609",
     "tikTvd": "2302000783739",
-    "tikName": "Володарская"
+    "tikName": "Володарская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 610,
     "uikTvd": "4304006299030",
+    "uikName": "УИК №610",
     "tikTvd": "2302000783739",
-    "tikName": "Володарская"
+    "tikName": "Володарская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 611,
     "uikTvd": "4304006299031",
+    "uikName": "УИК №611",
     "tikTvd": "2302000783739",
-    "tikName": "Володарская"
+    "tikName": "Володарская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 612,
     "uikTvd": "4304006299032",
+    "uikName": "УИК №612",
     "tikTvd": "2302000783739",
-    "tikName": "Володарская"
+    "tikName": "Володарская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 613,
     "uikTvd": "4304006299033",
+    "uikName": "УИК №613",
     "tikTvd": "2302000783739",
-    "tikName": "Володарская"
+    "tikName": "Володарская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 614,
     "uikTvd": "4304006299034",
+    "uikName": "УИК №614",
     "tikTvd": "2302000783739",
-    "tikName": "Володарская"
+    "tikName": "Володарская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 615,
     "uikTvd": "4304006299035",
+    "uikName": "УИК №615",
     "tikTvd": "2302000783739",
-    "tikName": "Володарская"
+    "tikName": "Володарская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 616,
     "uikTvd": "4304006299036",
+    "uikName": "УИК №616",
     "tikTvd": "2302000783739",
-    "tikName": "Володарская"
+    "tikName": "Володарская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 617,
     "uikTvd": "4304006299037",
+    "uikName": "УИК №617",
     "tikTvd": "2302000783739",
-    "tikName": "Володарская"
+    "tikName": "Володарская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 618,
     "uikTvd": "4304006299038",
+    "uikName": "УИК №618",
     "tikTvd": "2302000783739",
-    "tikName": "Володарская"
+    "tikName": "Володарская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 619,
     "uikTvd": "4304006299039",
+    "uikName": "УИК №619",
     "tikTvd": "2302000783739",
-    "tikName": "Володарская"
+    "tikName": "Володарская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 620,
     "uikTvd": "4304006299040",
+    "uikName": "УИК №620",
     "tikTvd": "2302000783739",
-    "tikName": "Володарская"
+    "tikName": "Володарская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 621,
     "uikTvd": "4304006299041",
+    "uikName": "УИК №621",
     "tikTvd": "2302000783739",
-    "tikName": "Володарская"
+    "tikName": "Володарская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 622,
     "uikTvd": "4304006299042",
+    "uikName": "УИК №622",
     "tikTvd": "2302000783739",
-    "tikName": "Володарская"
+    "tikName": "Володарская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 623,
     "uikTvd": "4304006299043",
+    "uikName": "УИК №623",
     "tikTvd": "2302000783739",
-    "tikName": "Володарская"
+    "tikName": "Володарская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 624,
     "uikTvd": "4304006299044",
+    "uikName": "УИК №624",
     "tikTvd": "2302000783739",
-    "tikName": "Володарская"
+    "tikName": "Володарская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 625,
     "uikTvd": "4304006299045",
+    "uikName": "УИК №625",
     "tikTvd": "2302000783739",
-    "tikName": "Володарская"
+    "tikName": "Володарская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 626,
     "uikTvd": "4304006299046",
+    "uikName": "УИК №626",
     "tikTvd": "2302000783739",
-    "tikName": "Володарская"
+    "tikName": "Володарская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 627,
     "uikTvd": "4304006299047",
+    "uikName": "УИК №627",
     "tikTvd": "2302000783739",
-    "tikName": "Володарская"
+    "tikName": "Володарская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 628,
     "uikTvd": "4304006299048",
+    "uikName": "УИК №628",
     "tikTvd": "2302000783739",
-    "tikName": "Володарская"
+    "tikName": "Володарская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 629,
     "uikTvd": "4304006299049",
+    "uikName": "УИК №629",
     "tikTvd": "2302000783739",
-    "tikName": "Володарская"
+    "tikName": "Володарская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 630,
     "uikTvd": "4304006299050",
+    "uikName": "УИК №630",
     "tikTvd": "2302000783739",
-    "tikName": "Володарская"
+    "tikName": "Володарская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 631,
     "uikTvd": "4304006299051",
+    "uikName": "УИК №631",
     "tikTvd": "2302000783739",
-    "tikName": "Володарская"
+    "tikName": "Володарская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 632,
     "uikTvd": "4304006299052",
+    "uikName": "УИК №632",
     "tikTvd": "2302000783739",
-    "tikName": "Володарская"
+    "tikName": "Володарская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 633,
     "uikTvd": "4304006299053",
+    "uikName": "УИК №633",
     "tikTvd": "2302000783739",
-    "tikName": "Володарская"
+    "tikName": "Володарская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 634,
     "uikTvd": "4304006299054",
+    "uikName": "УИК №634",
     "tikTvd": "2302000783739",
-    "tikName": "Володарская"
+    "tikName": "Володарская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 635,
     "uikTvd": "4304006299055",
+    "uikName": "УИК №635",
     "tikTvd": "2302000783739",
-    "tikName": "Володарская"
+    "tikName": "Володарская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 636,
     "uikTvd": "4304006299056",
+    "uikName": "УИК №636",
     "tikTvd": "2302000783739",
-    "tikName": "Володарская"
+    "tikName": "Володарская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 637,
     "uikTvd": "4304006299057",
+    "uikName": "УИК №637",
     "tikTvd": "2302000783739",
-    "tikName": "Володарская"
+    "tikName": "Володарская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 638,
     "uikTvd": "4304006299058",
+    "uikName": "УИК №638",
     "tikTvd": "2302000783739",
-    "tikName": "Володарская"
+    "tikName": "Володарская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 639,
     "uikTvd": "4304006299059",
+    "uikName": "УИК №639",
     "tikTvd": "2302000783739",
-    "tikName": "Володарская"
+    "tikName": "Володарская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 640,
     "uikTvd": "4304006299060",
+    "uikName": "УИК №640",
     "tikTvd": "2302000783739",
-    "tikName": "Володарская"
+    "tikName": "Володарская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 641,
     "uikTvd": "4304006299061",
+    "uikName": "УИК №641",
     "tikTvd": "2302000783739",
-    "tikName": "Володарская"
+    "tikName": "Володарская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 642,
     "uikTvd": "4304006299062",
+    "uikName": "УИК №642",
     "tikTvd": "2302000783739",
-    "tikName": "Володарская"
+    "tikName": "Володарская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 701,
     "uikTvd": "4304007199250",
+    "uikName": "УИК №701",
     "tikTvd": "2302000783730",
-    "tikName": "Енотаевская"
+    "tikName": "Енотаевская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 702,
     "uikTvd": "4304007199251",
+    "uikName": "УИК №702",
     "tikTvd": "2302000783730",
-    "tikName": "Енотаевская"
+    "tikName": "Енотаевская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 703,
     "uikTvd": "4304007199252",
+    "uikName": "УИК №703",
     "tikTvd": "2302000783730",
-    "tikName": "Енотаевская"
+    "tikName": "Енотаевская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 704,
     "uikTvd": "4304007199253",
+    "uikName": "УИК №704",
     "tikTvd": "2302000783730",
-    "tikName": "Енотаевская"
+    "tikName": "Енотаевская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 705,
     "uikTvd": "4304007199254",
+    "uikName": "УИК №705",
     "tikTvd": "2302000783730",
-    "tikName": "Енотаевская"
+    "tikName": "Енотаевская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 706,
     "uikTvd": "4304007199255",
+    "uikName": "УИК №706",
     "tikTvd": "2302000783730",
-    "tikName": "Енотаевская"
+    "tikName": "Енотаевская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 707,
     "uikTvd": "4304007199256",
+    "uikName": "УИК №707",
     "tikTvd": "2302000783730",
-    "tikName": "Енотаевская"
+    "tikName": "Енотаевская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 708,
     "uikTvd": "4304007199257",
+    "uikName": "УИК №708",
     "tikTvd": "2302000783730",
-    "tikName": "Енотаевская"
+    "tikName": "Енотаевская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 709,
     "uikTvd": "4304007199258",
+    "uikName": "УИК №709",
     "tikTvd": "2302000783730",
-    "tikName": "Енотаевская"
+    "tikName": "Енотаевская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 710,
     "uikTvd": "4304007199259",
+    "uikName": "УИК №710",
     "tikTvd": "2302000783730",
-    "tikName": "Енотаевская"
+    "tikName": "Енотаевская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 711,
     "uikTvd": "4304007199260",
+    "uikName": "УИК №711",
     "tikTvd": "2302000783730",
-    "tikName": "Енотаевская"
+    "tikName": "Енотаевская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 712,
     "uikTvd": "4304007199261",
+    "uikName": "УИК №712",
     "tikTvd": "2302000783730",
-    "tikName": "Енотаевская"
+    "tikName": "Енотаевская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 713,
     "uikTvd": "4304007199262",
+    "uikName": "УИК №713",
     "tikTvd": "2302000783730",
-    "tikName": "Енотаевская"
+    "tikName": "Енотаевская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 714,
     "uikTvd": "4304007199263",
+    "uikName": "УИК №714",
     "tikTvd": "2302000783730",
-    "tikName": "Енотаевская"
+    "tikName": "Енотаевская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 715,
     "uikTvd": "4304007199264",
+    "uikName": "УИК №715",
     "tikTvd": "2302000783730",
-    "tikName": "Енотаевская"
+    "tikName": "Енотаевская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 716,
     "uikTvd": "4304007199265",
+    "uikName": "УИК №716",
     "tikTvd": "2302000783730",
-    "tikName": "Енотаевская"
+    "tikName": "Енотаевская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 717,
     "uikTvd": "4304007199266",
+    "uikName": "УИК №717",
     "tikTvd": "2302000783730",
-    "tikName": "Енотаевская"
+    "tikName": "Енотаевская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 718,
     "uikTvd": "4304007199267",
+    "uikName": "УИК №718",
     "tikTvd": "2302000783730",
-    "tikName": "Енотаевская"
+    "tikName": "Енотаевская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 719,
     "uikTvd": "4304007199268",
+    "uikName": "УИК №719",
     "tikTvd": "2302000783730",
-    "tikName": "Енотаевская"
+    "tikName": "Енотаевская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 720,
     "uikTvd": "4304007199269",
+    "uikName": "УИК №720",
     "tikTvd": "2302000783730",
-    "tikName": "Енотаевская"
+    "tikName": "Енотаевская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 721,
     "uikTvd": "4304007199270",
+    "uikName": "УИК №721",
     "tikTvd": "2302000783730",
-    "tikName": "Енотаевская"
+    "tikName": "Енотаевская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 801,
     "uikTvd": "4304008150966",
+    "uikName": "УИК №801",
     "tikTvd": "2302000783725",
-    "tikName": "Знаменская городская"
+    "tikName": "Знаменская городская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 802,
     "uikTvd": "4304008150968",
+    "uikName": "УИК №802",
     "tikTvd": "2302000783725",
-    "tikName": "Знаменская городская"
+    "tikName": "Знаменская городская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 803,
     "uikTvd": "4304008150970",
+    "uikName": "УИК №803",
     "tikTvd": "2302000783725",
-    "tikName": "Знаменская городская"
+    "tikName": "Знаменская городская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 804,
     "uikTvd": "4304008150972",
+    "uikName": "УИК №804",
     "tikTvd": "2302000783725",
-    "tikName": "Знаменская городская"
+    "tikName": "Знаменская городская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 805,
     "uikTvd": "4304008150974",
+    "uikName": "УИК №805",
     "tikTvd": "2302000783725",
-    "tikName": "Знаменская городская"
+    "tikName": "Знаменская городская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 806,
     "uikTvd": "4304008150976",
+    "uikName": "УИК №806",
     "tikTvd": "2302000783725",
-    "tikName": "Знаменская городская"
+    "tikName": "Знаменская городская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 807,
     "uikTvd": "4304008150978",
+    "uikName": "УИК №807",
     "tikTvd": "2302000783725",
-    "tikName": "Знаменская городская"
+    "tikName": "Знаменская городская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 808,
     "uikTvd": "4304008150980",
+    "uikName": "УИК №808",
     "tikTvd": "2302000783725",
-    "tikName": "Знаменская городская"
+    "tikName": "Знаменская городская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 809,
     "uikTvd": "4304008150982",
+    "uikName": "УИК №809",
     "tikTvd": "2302000783725",
-    "tikName": "Знаменская городская"
+    "tikName": "Знаменская городская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 810,
     "uikTvd": "4304008150984",
+    "uikName": "УИК №810",
     "tikTvd": "2302000783725",
-    "tikName": "Знаменская городская"
+    "tikName": "Знаменская городская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 811,
     "uikTvd": "4304008154082",
+    "uikName": "УИК №811",
     "tikTvd": "2302000783725",
-    "tikName": "Знаменская городская"
+    "tikName": "Знаменская городская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 812,
     "uikTvd": "4304008154084",
+    "uikName": "УИК №812",
     "tikTvd": "2302000783725",
-    "tikName": "Знаменская городская"
+    "tikName": "Знаменская городская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 813,
     "uikTvd": "4304008154086",
+    "uikName": "УИК №813",
     "tikTvd": "2302000783725",
-    "tikName": "Знаменская городская"
+    "tikName": "Знаменская городская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 814,
     "uikTvd": "4304008154088",
+    "uikName": "УИК №814",
     "tikTvd": "2302000783725",
-    "tikName": "Знаменская городская"
+    "tikName": "Знаменская городская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 901,
     "uikTvd": "4304009284466",
+    "uikName": "УИК №901",
     "tikTvd": "2302000783734",
-    "tikName": "Икрянинская"
+    "tikName": "Икрянинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 902,
     "uikTvd": "4304009284467",
+    "uikName": "УИК №902",
     "tikTvd": "2302000783734",
-    "tikName": "Икрянинская"
+    "tikName": "Икрянинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 903,
     "uikTvd": "4304009284468",
+    "uikName": "УИК №903",
     "tikTvd": "2302000783734",
-    "tikName": "Икрянинская"
+    "tikName": "Икрянинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 904,
     "uikTvd": "4304009284469",
+    "uikName": "УИК №904",
     "tikTvd": "2302000783734",
-    "tikName": "Икрянинская"
+    "tikName": "Икрянинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 905,
     "uikTvd": "4304009284470",
+    "uikName": "УИК №905",
     "tikTvd": "2302000783734",
-    "tikName": "Икрянинская"
+    "tikName": "Икрянинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 906,
     "uikTvd": "4304009284471",
+    "uikName": "УИК №906",
     "tikTvd": "2302000783734",
-    "tikName": "Икрянинская"
+    "tikName": "Икрянинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 907,
     "uikTvd": "4304009284472",
+    "uikName": "УИК №907",
     "tikTvd": "2302000783734",
-    "tikName": "Икрянинская"
+    "tikName": "Икрянинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 908,
     "uikTvd": "4304009284473",
+    "uikName": "УИК №908",
     "tikTvd": "2302000783734",
-    "tikName": "Икрянинская"
+    "tikName": "Икрянинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 909,
     "uikTvd": "4304009284474",
+    "uikName": "УИК №909",
     "tikTvd": "2302000783734",
-    "tikName": "Икрянинская"
+    "tikName": "Икрянинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 910,
     "uikTvd": "4304009284475",
+    "uikName": "УИК №910",
     "tikTvd": "2302000783734",
-    "tikName": "Икрянинская"
+    "tikName": "Икрянинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 911,
     "uikTvd": "4304009284476",
+    "uikName": "УИК №911",
     "tikTvd": "2302000783734",
-    "tikName": "Икрянинская"
+    "tikName": "Икрянинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 912,
     "uikTvd": "4304009284477",
+    "uikName": "УИК №912",
     "tikTvd": "2302000783734",
-    "tikName": "Икрянинская"
+    "tikName": "Икрянинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 913,
     "uikTvd": "4304009284478",
+    "uikName": "УИК №913",
     "tikTvd": "2302000783734",
-    "tikName": "Икрянинская"
+    "tikName": "Икрянинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 914,
     "uikTvd": "4304009284479",
+    "uikName": "УИК №914",
     "tikTvd": "2302000783734",
-    "tikName": "Икрянинская"
+    "tikName": "Икрянинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 915,
     "uikTvd": "4304009284480",
+    "uikName": "УИК №915",
     "tikTvd": "2302000783734",
-    "tikName": "Икрянинская"
+    "tikName": "Икрянинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 916,
     "uikTvd": "4304009284481",
+    "uikName": "УИК №916",
     "tikTvd": "2302000783734",
-    "tikName": "Икрянинская"
+    "tikName": "Икрянинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 917,
     "uikTvd": "4304009284482",
+    "uikName": "УИК №917",
     "tikTvd": "2302000783734",
-    "tikName": "Икрянинская"
+    "tikName": "Икрянинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 918,
     "uikTvd": "4304009284483",
+    "uikName": "УИК №918",
     "tikTvd": "2302000783734",
-    "tikName": "Икрянинская"
+    "tikName": "Икрянинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 919,
     "uikTvd": "4304009284484",
+    "uikName": "УИК №919",
     "tikTvd": "2302000783734",
-    "tikName": "Икрянинская"
+    "tikName": "Икрянинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 920,
     "uikTvd": "4304009284485",
+    "uikName": "УИК №920",
     "tikTvd": "2302000783734",
-    "tikName": "Икрянинская"
+    "tikName": "Икрянинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 921,
     "uikTvd": "4304009284486",
+    "uikName": "УИК №921",
     "tikTvd": "2302000783734",
-    "tikName": "Икрянинская"
+    "tikName": "Икрянинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 922,
     "uikTvd": "4304009284487",
+    "uikName": "УИК №922",
     "tikTvd": "2302000783734",
-    "tikName": "Икрянинская"
+    "tikName": "Икрянинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 923,
     "uikTvd": "4304009284488",
+    "uikName": "УИК №923",
     "tikTvd": "2302000783734",
-    "tikName": "Икрянинская"
+    "tikName": "Икрянинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 924,
     "uikTvd": "4304009284489",
+    "uikName": "УИК №924",
     "tikTvd": "2302000783734",
-    "tikName": "Икрянинская"
+    "tikName": "Икрянинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 925,
     "uikTvd": "4304009284490",
+    "uikName": "УИК №925",
     "tikTvd": "2302000783734",
-    "tikName": "Икрянинская"
+    "tikName": "Икрянинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 926,
     "uikTvd": "4304009284491",
+    "uikName": "УИК №926",
     "tikTvd": "2302000783734",
-    "tikName": "Икрянинская"
+    "tikName": "Икрянинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 927,
     "uikTvd": "4304009284492",
+    "uikName": "УИК №927",
     "tikTvd": "2302000783734",
-    "tikName": "Икрянинская"
+    "tikName": "Икрянинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 928,
     "uikTvd": "4304009284493",
+    "uikName": "УИК №928",
     "tikTvd": "2302000783734",
-    "tikName": "Икрянинская"
+    "tikName": "Икрянинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 929,
     "uikTvd": "4304009284494",
+    "uikName": "УИК №929",
     "tikTvd": "2302000783734",
-    "tikName": "Икрянинская"
+    "tikName": "Икрянинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 930,
     "uikTvd": "4304009284495",
+    "uikName": "УИК №930",
     "tikTvd": "2302000783734",
-    "tikName": "Икрянинская"
+    "tikName": "Икрянинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 931,
     "uikTvd": "4304009284496",
+    "uikName": "УИК №931",
     "tikTvd": "2302000783734",
-    "tikName": "Икрянинская"
+    "tikName": "Икрянинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 932,
     "uikTvd": "4304009284497",
+    "uikName": "УИК №932",
     "tikTvd": "2302000783734",
-    "tikName": "Икрянинская"
+    "tikName": "Икрянинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 933,
     "uikTvd": "4304009284498",
+    "uikName": "УИК №933",
     "tikTvd": "2302000783734",
-    "tikName": "Икрянинская"
+    "tikName": "Икрянинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 934,
     "uikTvd": "4304009284499",
+    "uikName": "УИК №934",
     "tikTvd": "2302000783734",
-    "tikName": "Икрянинская"
+    "tikName": "Икрянинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 935,
     "uikTvd": "4304009284500",
+    "uikName": "УИК №935",
     "tikTvd": "2302000783734",
-    "tikName": "Икрянинская"
+    "tikName": "Икрянинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 936,
     "uikTvd": "4304009284501",
+    "uikName": "УИК №936",
     "tikTvd": "2302000783734",
-    "tikName": "Икрянинская"
+    "tikName": "Икрянинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 937,
     "uikTvd": "4304009284502",
+    "uikName": "УИК №937",
     "tikTvd": "2302000783734",
-    "tikName": "Икрянинская"
+    "tikName": "Икрянинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 938,
     "uikTvd": "4304009284503",
+    "uikName": "УИК №938",
     "tikTvd": "2302000783734",
-    "tikName": "Икрянинская"
+    "tikName": "Икрянинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 939,
     "uikTvd": "4304009284504",
+    "uikName": "УИК №939",
     "tikTvd": "2302000783734",
-    "tikName": "Икрянинская"
+    "tikName": "Икрянинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 940,
     "uikTvd": "4304009284505",
+    "uikName": "УИК №940",
     "tikTvd": "2302000783734",
-    "tikName": "Икрянинская"
+    "tikName": "Икрянинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 941,
     "uikTvd": "4304009284506",
+    "uikName": "УИК №941",
     "tikTvd": "2302000783734",
-    "tikName": "Икрянинская"
+    "tikName": "Икрянинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 942,
     "uikTvd": "4304009284507",
+    "uikName": "УИК №942",
     "tikTvd": "2302000783734",
-    "tikName": "Икрянинская"
+    "tikName": "Икрянинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1001,
     "uikTvd": "4304010266372",
+    "uikName": "УИК №1001",
     "tikTvd": "2302000783729",
-    "tikName": "Камызякская"
+    "tikName": "Камызякская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1002,
     "uikTvd": "4304010266373",
+    "uikName": "УИК №1002",
     "tikTvd": "2302000783729",
-    "tikName": "Камызякская"
+    "tikName": "Камызякская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1003,
     "uikTvd": "4304010266374",
+    "uikName": "УИК №1003",
     "tikTvd": "2302000783729",
-    "tikName": "Камызякская"
+    "tikName": "Камызякская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1004,
     "uikTvd": "4304010266375",
+    "uikName": "УИК №1004",
     "tikTvd": "2302000783729",
-    "tikName": "Камызякская"
+    "tikName": "Камызякская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1005,
     "uikTvd": "4304010266376",
+    "uikName": "УИК №1005",
     "tikTvd": "2302000783729",
-    "tikName": "Камызякская"
+    "tikName": "Камызякская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1006,
     "uikTvd": "4304010266377",
+    "uikName": "УИК №1006",
     "tikTvd": "2302000783729",
-    "tikName": "Камызякская"
+    "tikName": "Камызякская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1007,
     "uikTvd": "4304010266378",
+    "uikName": "УИК №1007",
     "tikTvd": "2302000783729",
-    "tikName": "Камызякская"
+    "tikName": "Камызякская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1008,
     "uikTvd": "4304010266379",
+    "uikName": "УИК №1008",
     "tikTvd": "2302000783729",
-    "tikName": "Камызякская"
+    "tikName": "Камызякская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1009,
     "uikTvd": "4304010266380",
+    "uikName": "УИК №1009",
     "tikTvd": "2302000783729",
-    "tikName": "Камызякская"
+    "tikName": "Камызякская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1010,
     "uikTvd": "4304010266381",
+    "uikName": "УИК №1010",
     "tikTvd": "2302000783729",
-    "tikName": "Камызякская"
+    "tikName": "Камызякская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1011,
     "uikTvd": "4304010266382",
+    "uikName": "УИК №1011",
     "tikTvd": "2302000783729",
-    "tikName": "Камызякская"
+    "tikName": "Камызякская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1012,
     "uikTvd": "4304010266383",
+    "uikName": "УИК №1012",
     "tikTvd": "2302000783729",
-    "tikName": "Камызякская"
+    "tikName": "Камызякская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1013,
     "uikTvd": "4304010266384",
+    "uikName": "УИК №1013",
     "tikTvd": "2302000783729",
-    "tikName": "Камызякская"
+    "tikName": "Камызякская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1014,
     "uikTvd": "4304010266385",
+    "uikName": "УИК №1014",
     "tikTvd": "2302000783729",
-    "tikName": "Камызякская"
+    "tikName": "Камызякская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1015,
     "uikTvd": "4304010266386",
+    "uikName": "УИК №1015",
     "tikTvd": "2302000783729",
-    "tikName": "Камызякская"
+    "tikName": "Камызякская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1016,
     "uikTvd": "4304010266387",
+    "uikName": "УИК №1016",
     "tikTvd": "2302000783729",
-    "tikName": "Камызякская"
+    "tikName": "Камызякская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1017,
     "uikTvd": "4304010266388",
+    "uikName": "УИК №1017",
     "tikTvd": "2302000783729",
-    "tikName": "Камызякская"
+    "tikName": "Камызякская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1018,
     "uikTvd": "4304010266389",
+    "uikName": "УИК №1018",
     "tikTvd": "2302000783729",
-    "tikName": "Камызякская"
+    "tikName": "Камызякская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1019,
     "uikTvd": "4304010266390",
+    "uikName": "УИК №1019",
     "tikTvd": "2302000783729",
-    "tikName": "Камызякская"
+    "tikName": "Камызякская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1020,
     "uikTvd": "4304010266391",
+    "uikName": "УИК №1020",
     "tikTvd": "2302000783729",
-    "tikName": "Камызякская"
+    "tikName": "Камызякская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1021,
     "uikTvd": "4304010266392",
+    "uikName": "УИК №1021",
     "tikTvd": "2302000783729",
-    "tikName": "Камызякская"
+    "tikName": "Камызякская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1022,
     "uikTvd": "4304010266393",
+    "uikName": "УИК №1022",
     "tikTvd": "2302000783729",
-    "tikName": "Камызякская"
+    "tikName": "Камызякская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1023,
     "uikTvd": "4304010266394",
+    "uikName": "УИК №1023",
     "tikTvd": "2302000783729",
-    "tikName": "Камызякская"
+    "tikName": "Камызякская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1024,
     "uikTvd": "4304010266395",
+    "uikName": "УИК №1024",
     "tikTvd": "2302000783729",
-    "tikName": "Камызякская"
+    "tikName": "Камызякская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1025,
     "uikTvd": "4304010266396",
+    "uikName": "УИК №1025",
     "tikTvd": "2302000783729",
-    "tikName": "Камызякская"
+    "tikName": "Камызякская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1026,
     "uikTvd": "4304010266397",
+    "uikName": "УИК №1026",
     "tikTvd": "2302000783729",
-    "tikName": "Камызякская"
+    "tikName": "Камызякская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1027,
     "uikTvd": "4304010266398",
+    "uikName": "УИК №1027",
     "tikTvd": "2302000783729",
-    "tikName": "Камызякская"
+    "tikName": "Камызякская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1028,
     "uikTvd": "4304010266399",
+    "uikName": "УИК №1028",
     "tikTvd": "2302000783729",
-    "tikName": "Камызякская"
+    "tikName": "Камызякская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1029,
     "uikTvd": "4304010266400",
+    "uikName": "УИК №1029",
     "tikTvd": "2302000783729",
-    "tikName": "Камызякская"
+    "tikName": "Камызякская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1030,
     "uikTvd": "4304010266401",
+    "uikName": "УИК №1030",
     "tikTvd": "2302000783729",
-    "tikName": "Камызякская"
+    "tikName": "Камызякская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1031,
     "uikTvd": "4304010266402",
+    "uikName": "УИК №1031",
     "tikTvd": "2302000783729",
-    "tikName": "Камызякская"
+    "tikName": "Камызякская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1032,
     "uikTvd": "4304010266403",
+    "uikName": "УИК №1032",
     "tikTvd": "2302000783729",
-    "tikName": "Камызякская"
+    "tikName": "Камызякская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1033,
     "uikTvd": "4304010266404",
+    "uikName": "УИК №1033",
     "tikTvd": "2302000783729",
-    "tikName": "Камызякская"
+    "tikName": "Камызякская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1034,
     "uikTvd": "4304010266405",
+    "uikName": "УИК №1034",
     "tikTvd": "2302000783729",
-    "tikName": "Камызякская"
+    "tikName": "Камызякская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1035,
     "uikTvd": "4304010266406",
+    "uikName": "УИК №1035",
     "tikTvd": "2302000783729",
-    "tikName": "Камызякская"
+    "tikName": "Камызякская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1036,
     "uikTvd": "4304010266407",
+    "uikName": "УИК №1036",
     "tikTvd": "2302000783729",
-    "tikName": "Камызякская"
+    "tikName": "Камызякская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1037,
     "uikTvd": "4304010266408",
+    "uikName": "УИК №1037",
     "tikTvd": "2302000783729",
-    "tikName": "Камызякская"
+    "tikName": "Камызякская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1038,
     "uikTvd": "4304010266409",
+    "uikName": "УИК №1038",
     "tikTvd": "2302000783729",
-    "tikName": "Камызякская"
+    "tikName": "Камызякская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1039,
     "uikTvd": "4304010266410",
+    "uikName": "УИК №1039",
     "tikTvd": "2302000783729",
-    "tikName": "Камызякская"
+    "tikName": "Камызякская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1040,
     "uikTvd": "4304010266411",
+    "uikName": "УИК №1040",
     "tikTvd": "2302000783729",
-    "tikName": "Камызякская"
+    "tikName": "Камызякская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1041,
     "uikTvd": "4304010266412",
+    "uikName": "УИК №1041",
     "tikTvd": "2302000783729",
-    "tikName": "Камызякская"
+    "tikName": "Камызякская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1042,
     "uikTvd": "4304010266413",
+    "uikName": "УИК №1042",
     "tikTvd": "2302000783729",
-    "tikName": "Камызякская"
+    "tikName": "Камызякская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1043,
     "uikTvd": "4304010266414",
+    "uikName": "УИК №1043",
     "tikTvd": "2302000783729",
-    "tikName": "Камызякская"
+    "tikName": "Камызякская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1044,
     "uikTvd": "4304010266415",
+    "uikName": "УИК №1044",
     "tikTvd": "2302000783729",
-    "tikName": "Камызякская"
+    "tikName": "Камызякская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1045,
     "uikTvd": "4304010266416",
+    "uikName": "УИК №1045",
     "tikTvd": "2302000783729",
-    "tikName": "Камызякская"
+    "tikName": "Камызякская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1046,
     "uikTvd": "4304010266417",
+    "uikName": "УИК №1046",
     "tikTvd": "2302000783729",
-    "tikName": "Камызякская"
+    "tikName": "Камызякская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1047,
     "uikTvd": "4304010266418",
+    "uikName": "УИК №1047",
     "tikTvd": "2302000783729",
-    "tikName": "Камызякская"
+    "tikName": "Камызякская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1048,
     "uikTvd": "4304010266419",
+    "uikName": "УИК №1048",
     "tikTvd": "2302000783729",
-    "tikName": "Камызякская"
+    "tikName": "Камызякская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1101,
     "uikTvd": "4304011227772",
+    "uikName": "УИК №1101",
     "tikTvd": "2302000783738",
-    "tikName": "Красноярская"
+    "tikName": "Красноярская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1102,
     "uikTvd": "4304011227773",
+    "uikName": "УИК №1102",
     "tikTvd": "2302000783738",
-    "tikName": "Красноярская"
+    "tikName": "Красноярская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1103,
     "uikTvd": "4304011227774",
+    "uikName": "УИК №1103",
     "tikTvd": "2302000783738",
-    "tikName": "Красноярская"
+    "tikName": "Красноярская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1104,
     "uikTvd": "4304011227775",
+    "uikName": "УИК №1104",
     "tikTvd": "2302000783738",
-    "tikName": "Красноярская"
+    "tikName": "Красноярская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1105,
     "uikTvd": "4304011227776",
+    "uikName": "УИК №1105",
     "tikTvd": "2302000783738",
-    "tikName": "Красноярская"
+    "tikName": "Красноярская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1106,
     "uikTvd": "4304011227777",
+    "uikName": "УИК №1106",
     "tikTvd": "2302000783738",
-    "tikName": "Красноярская"
+    "tikName": "Красноярская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1107,
     "uikTvd": "4304011227778",
+    "uikName": "УИК №1107",
     "tikTvd": "2302000783738",
-    "tikName": "Красноярская"
+    "tikName": "Красноярская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1108,
     "uikTvd": "4304011227779",
+    "uikName": "УИК №1108",
     "tikTvd": "2302000783738",
-    "tikName": "Красноярская"
+    "tikName": "Красноярская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1109,
     "uikTvd": "4304011227780",
+    "uikName": "УИК №1109",
     "tikTvd": "2302000783738",
-    "tikName": "Красноярская"
+    "tikName": "Красноярская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1110,
     "uikTvd": "4304011227781",
+    "uikName": "УИК №1110",
     "tikTvd": "2302000783738",
-    "tikName": "Красноярская"
+    "tikName": "Красноярская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1111,
     "uikTvd": "4304011227782",
+    "uikName": "УИК №1111",
     "tikTvd": "2302000783738",
-    "tikName": "Красноярская"
+    "tikName": "Красноярская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1112,
     "uikTvd": "4304011227783",
+    "uikName": "УИК №1112",
     "tikTvd": "2302000783738",
-    "tikName": "Красноярская"
+    "tikName": "Красноярская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1113,
     "uikTvd": "4304011227784",
+    "uikName": "УИК №1113",
     "tikTvd": "2302000783738",
-    "tikName": "Красноярская"
+    "tikName": "Красноярская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1114,
     "uikTvd": "4304011227785",
+    "uikName": "УИК №1114",
     "tikTvd": "2302000783738",
-    "tikName": "Красноярская"
+    "tikName": "Красноярская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1115,
     "uikTvd": "4304011227786",
+    "uikName": "УИК №1115",
     "tikTvd": "2302000783738",
-    "tikName": "Красноярская"
+    "tikName": "Красноярская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1116,
     "uikTvd": "4304011227787",
+    "uikName": "УИК №1116",
     "tikTvd": "2302000783738",
-    "tikName": "Красноярская"
+    "tikName": "Красноярская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1117,
     "uikTvd": "4304011227788",
+    "uikName": "УИК №1117",
     "tikTvd": "2302000783738",
-    "tikName": "Красноярская"
+    "tikName": "Красноярская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1118,
     "uikTvd": "4304011227789",
+    "uikName": "УИК №1118",
     "tikTvd": "2302000783738",
-    "tikName": "Красноярская"
+    "tikName": "Красноярская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1119,
     "uikTvd": "4304011227790",
+    "uikName": "УИК №1119",
     "tikTvd": "2302000783738",
-    "tikName": "Красноярская"
+    "tikName": "Красноярская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1120,
     "uikTvd": "4304011227791",
+    "uikName": "УИК №1120",
     "tikTvd": "2302000783738",
-    "tikName": "Красноярская"
+    "tikName": "Красноярская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1121,
     "uikTvd": "4304011227792",
+    "uikName": "УИК №1121",
     "tikTvd": "2302000783738",
-    "tikName": "Красноярская"
+    "tikName": "Красноярская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1122,
     "uikTvd": "4304011227793",
+    "uikName": "УИК №1122",
     "tikTvd": "2302000783738",
-    "tikName": "Красноярская"
+    "tikName": "Красноярская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1123,
     "uikTvd": "4304011227794",
+    "uikName": "УИК №1123",
     "tikTvd": "2302000783738",
-    "tikName": "Красноярская"
+    "tikName": "Красноярская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1124,
     "uikTvd": "4304011227795",
+    "uikName": "УИК №1124",
     "tikTvd": "2302000783738",
-    "tikName": "Красноярская"
+    "tikName": "Красноярская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1125,
     "uikTvd": "4304011227796",
+    "uikName": "УИК №1125",
     "tikTvd": "2302000783738",
-    "tikName": "Красноярская"
+    "tikName": "Красноярская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1126,
     "uikTvd": "4304011227797",
+    "uikName": "УИК №1126",
     "tikTvd": "2302000783738",
-    "tikName": "Красноярская"
+    "tikName": "Красноярская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1127,
     "uikTvd": "4304011227798",
+    "uikName": "УИК №1127",
     "tikTvd": "2302000783738",
-    "tikName": "Красноярская"
+    "tikName": "Красноярская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1128,
     "uikTvd": "4304011227799",
+    "uikName": "УИК №1128",
     "tikTvd": "2302000783738",
-    "tikName": "Красноярская"
+    "tikName": "Красноярская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1129,
     "uikTvd": "4304011227800",
+    "uikName": "УИК №1129",
     "tikTvd": "2302000783738",
-    "tikName": "Красноярская"
+    "tikName": "Красноярская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1130,
     "uikTvd": "4304011227801",
+    "uikName": "УИК №1130",
     "tikTvd": "2302000783738",
-    "tikName": "Красноярская"
+    "tikName": "Красноярская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1131,
     "uikTvd": "4304011227802",
+    "uikName": "УИК №1131",
     "tikTvd": "2302000783738",
-    "tikName": "Красноярская"
+    "tikName": "Красноярская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1132,
     "uikTvd": "4304011227803",
+    "uikName": "УИК №1132",
     "tikTvd": "2302000783738",
-    "tikName": "Красноярская"
+    "tikName": "Красноярская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1133,
     "uikTvd": "4304011227804",
+    "uikName": "УИК №1133",
     "tikTvd": "2302000783738",
-    "tikName": "Красноярская"
+    "tikName": "Красноярская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1134,
     "uikTvd": "4304011227805",
+    "uikName": "УИК №1134",
     "tikTvd": "2302000783738",
-    "tikName": "Красноярская"
+    "tikName": "Красноярская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1135,
     "uikTvd": "4304011227806",
+    "uikName": "УИК №1135",
     "tikTvd": "2302000783738",
-    "tikName": "Красноярская"
+    "tikName": "Красноярская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1136,
     "uikTvd": "4304011227807",
+    "uikName": "УИК №1136",
     "tikTvd": "2302000783738",
-    "tikName": "Красноярская"
+    "tikName": "Красноярская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1201,
     "uikTvd": "4304012224336",
+    "uikName": "УИК №1201",
     "tikTvd": "2302000783728",
-    "tikName": "Лиманская"
+    "tikName": "Лиманская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1202,
     "uikTvd": "4304012224337",
+    "uikName": "УИК №1202",
     "tikTvd": "2302000783728",
-    "tikName": "Лиманская"
+    "tikName": "Лиманская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1203,
     "uikTvd": "4304012224338",
+    "uikName": "УИК №1203",
     "tikTvd": "2302000783728",
-    "tikName": "Лиманская"
+    "tikName": "Лиманская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1204,
     "uikTvd": "4304012224339",
+    "uikName": "УИК №1204",
     "tikTvd": "2302000783728",
-    "tikName": "Лиманская"
+    "tikName": "Лиманская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1205,
     "uikTvd": "4304012224340",
+    "uikName": "УИК №1205",
     "tikTvd": "2302000783728",
-    "tikName": "Лиманская"
+    "tikName": "Лиманская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1206,
     "uikTvd": "4304012224341",
+    "uikName": "УИК №1206",
     "tikTvd": "2302000783728",
-    "tikName": "Лиманская"
+    "tikName": "Лиманская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1207,
     "uikTvd": "4304012224342",
+    "uikName": "УИК №1207",
     "tikTvd": "2302000783728",
-    "tikName": "Лиманская"
+    "tikName": "Лиманская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1208,
     "uikTvd": "4304012224343",
+    "uikName": "УИК №1208",
     "tikTvd": "2302000783728",
-    "tikName": "Лиманская"
+    "tikName": "Лиманская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1209,
     "uikTvd": "4304012224344",
+    "uikName": "УИК №1209",
     "tikTvd": "2302000783728",
-    "tikName": "Лиманская"
+    "tikName": "Лиманская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1210,
     "uikTvd": "4304012224345",
+    "uikName": "УИК №1210",
     "tikTvd": "2302000783728",
-    "tikName": "Лиманская"
+    "tikName": "Лиманская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1211,
     "uikTvd": "4304012224346",
+    "uikName": "УИК №1211",
     "tikTvd": "2302000783728",
-    "tikName": "Лиманская"
+    "tikName": "Лиманская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1212,
     "uikTvd": "4304012224347",
+    "uikName": "УИК №1212",
     "tikTvd": "2302000783728",
-    "tikName": "Лиманская"
+    "tikName": "Лиманская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1213,
     "uikTvd": "4304012224348",
+    "uikName": "УИК №1213",
     "tikTvd": "2302000783728",
-    "tikName": "Лиманская"
+    "tikName": "Лиманская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1214,
     "uikTvd": "4304012224349",
+    "uikName": "УИК №1214",
     "tikTvd": "2302000783728",
-    "tikName": "Лиманская"
+    "tikName": "Лиманская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1215,
     "uikTvd": "4304012224350",
+    "uikName": "УИК №1215",
     "tikTvd": "2302000783728",
-    "tikName": "Лиманская"
+    "tikName": "Лиманская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1216,
     "uikTvd": "4304012224351",
+    "uikName": "УИК №1216",
     "tikTvd": "2302000783728",
-    "tikName": "Лиманская"
+    "tikName": "Лиманская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1217,
     "uikTvd": "4304012224352",
+    "uikName": "УИК №1217",
     "tikTvd": "2302000783728",
-    "tikName": "Лиманская"
+    "tikName": "Лиманская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1218,
     "uikTvd": "4304012224353",
+    "uikName": "УИК №1218",
     "tikTvd": "2302000783728",
-    "tikName": "Лиманская"
+    "tikName": "Лиманская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1219,
     "uikTvd": "4304012224354",
+    "uikName": "УИК №1219",
     "tikTvd": "2302000783728",
-    "tikName": "Лиманская"
+    "tikName": "Лиманская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1220,
     "uikTvd": "4304012224355",
+    "uikName": "УИК №1220",
     "tikTvd": "2302000783728",
-    "tikName": "Лиманская"
+    "tikName": "Лиманская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1221,
     "uikTvd": "4304012224356",
+    "uikName": "УИК №1221",
     "tikTvd": "2302000783728",
-    "tikName": "Лиманская"
+    "tikName": "Лиманская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1222,
     "uikTvd": "4304012224357",
+    "uikName": "УИК №1222",
     "tikTvd": "2302000783728",
-    "tikName": "Лиманская"
+    "tikName": "Лиманская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1223,
     "uikTvd": "4304012224358",
+    "uikName": "УИК №1223",
     "tikTvd": "2302000783728",
-    "tikName": "Лиманская"
+    "tikName": "Лиманская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1224,
     "uikTvd": "4304012224359",
+    "uikName": "УИК №1224",
     "tikTvd": "2302000783728",
-    "tikName": "Лиманская"
+    "tikName": "Лиманская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1225,
     "uikTvd": "4304012224360",
+    "uikName": "УИК №1225",
     "tikTvd": "2302000783728",
-    "tikName": "Лиманская"
+    "tikName": "Лиманская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1226,
     "uikTvd": "4304012224361",
+    "uikName": "УИК №1226",
     "tikTvd": "2302000783728",
-    "tikName": "Лиманская"
+    "tikName": "Лиманская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1301,
     "uikTvd": "4304013225692",
+    "uikName": "УИК №1301",
     "tikTvd": "2302000783735",
-    "tikName": "Наримановская"
+    "tikName": "Наримановская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1302,
     "uikTvd": "4304013225693",
+    "uikName": "УИК №1302",
     "tikTvd": "2302000783735",
-    "tikName": "Наримановская"
+    "tikName": "Наримановская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1303,
     "uikTvd": "4304013225694",
+    "uikName": "УИК №1303",
     "tikTvd": "2302000783735",
-    "tikName": "Наримановская"
+    "tikName": "Наримановская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1304,
     "uikTvd": "4304013225695",
+    "uikName": "УИК №1304",
     "tikTvd": "2302000783735",
-    "tikName": "Наримановская"
+    "tikName": "Наримановская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1305,
     "uikTvd": "4304013225696",
+    "uikName": "УИК №1305",
     "tikTvd": "2302000783735",
-    "tikName": "Наримановская"
+    "tikName": "Наримановская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1306,
     "uikTvd": "4304013225697",
+    "uikName": "УИК №1306",
     "tikTvd": "2302000783735",
-    "tikName": "Наримановская"
+    "tikName": "Наримановская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1307,
     "uikTvd": "4304013225698",
+    "uikName": "УИК №1307",
     "tikTvd": "2302000783735",
-    "tikName": "Наримановская"
+    "tikName": "Наримановская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1308,
     "uikTvd": "4304013225699",
+    "uikName": "УИК №1308",
     "tikTvd": "2302000783735",
-    "tikName": "Наримановская"
+    "tikName": "Наримановская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1309,
     "uikTvd": "4304013225700",
+    "uikName": "УИК №1309",
     "tikTvd": "2302000783735",
-    "tikName": "Наримановская"
+    "tikName": "Наримановская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1310,
     "uikTvd": "4304013225701",
+    "uikName": "УИК №1310",
     "tikTvd": "2302000783735",
-    "tikName": "Наримановская"
+    "tikName": "Наримановская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1311,
     "uikTvd": "4304013225702",
+    "uikName": "УИК №1311",
     "tikTvd": "2302000783735",
-    "tikName": "Наримановская"
+    "tikName": "Наримановская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1312,
     "uikTvd": "4304013225703",
+    "uikName": "УИК №1312",
     "tikTvd": "2302000783735",
-    "tikName": "Наримановская"
+    "tikName": "Наримановская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1313,
     "uikTvd": "4304013225704",
+    "uikName": "УИК №1313",
     "tikTvd": "2302000783735",
-    "tikName": "Наримановская"
+    "tikName": "Наримановская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1314,
     "uikTvd": "4304013225705",
+    "uikName": "УИК №1314",
     "tikTvd": "2302000783735",
-    "tikName": "Наримановская"
+    "tikName": "Наримановская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1315,
     "uikTvd": "4304013225706",
+    "uikName": "УИК №1315",
     "tikTvd": "2302000783735",
-    "tikName": "Наримановская"
+    "tikName": "Наримановская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1316,
     "uikTvd": "4304013225707",
+    "uikName": "УИК №1316",
     "tikTvd": "2302000783735",
-    "tikName": "Наримановская"
+    "tikName": "Наримановская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1317,
     "uikTvd": "4304013225708",
+    "uikName": "УИК №1317",
     "tikTvd": "2302000783735",
-    "tikName": "Наримановская"
+    "tikName": "Наримановская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1318,
     "uikTvd": "4304013225709",
+    "uikName": "УИК №1318",
     "tikTvd": "2302000783735",
-    "tikName": "Наримановская"
+    "tikName": "Наримановская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1319,
     "uikTvd": "4304013225710",
+    "uikName": "УИК №1319",
     "tikTvd": "2302000783735",
-    "tikName": "Наримановская"
+    "tikName": "Наримановская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1320,
     "uikTvd": "4304013225711",
+    "uikName": "УИК №1320",
     "tikTvd": "2302000783735",
-    "tikName": "Наримановская"
+    "tikName": "Наримановская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1321,
     "uikTvd": "4304013225712",
+    "uikName": "УИК №1321",
     "tikTvd": "2302000783735",
-    "tikName": "Наримановская"
+    "tikName": "Наримановская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1322,
     "uikTvd": "4304013225713",
+    "uikName": "УИК №1322",
     "tikTvd": "2302000783735",
-    "tikName": "Наримановская"
+    "tikName": "Наримановская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1323,
     "uikTvd": "4304013225714",
+    "uikName": "УИК №1323",
     "tikTvd": "2302000783735",
-    "tikName": "Наримановская"
+    "tikName": "Наримановская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1324,
     "uikTvd": "4304013225715",
+    "uikName": "УИК №1324",
     "tikTvd": "2302000783735",
-    "tikName": "Наримановская"
+    "tikName": "Наримановская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1325,
     "uikTvd": "4304013225716",
+    "uikName": "УИК №1325",
     "tikTvd": "2302000783735",
-    "tikName": "Наримановская"
+    "tikName": "Наримановская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1326,
     "uikTvd": "4304013225717",
+    "uikName": "УИК №1326",
     "tikTvd": "2302000783735",
-    "tikName": "Наримановская"
+    "tikName": "Наримановская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1327,
     "uikTvd": "4304013225718",
+    "uikName": "УИК №1327",
     "tikTvd": "2302000783735",
-    "tikName": "Наримановская"
+    "tikName": "Наримановская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1328,
     "uikTvd": "4304013225719",
+    "uikName": "УИК №1328",
     "tikTvd": "2302000783735",
-    "tikName": "Наримановская"
+    "tikName": "Наримановская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1329,
     "uikTvd": "4304013225720",
+    "uikName": "УИК №1329",
     "tikTvd": "2302000783735",
-    "tikName": "Наримановская"
+    "tikName": "Наримановская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1330,
     "uikTvd": "4304013225721",
+    "uikName": "УИК №1330",
     "tikTvd": "2302000783735",
-    "tikName": "Наримановская"
+    "tikName": "Наримановская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1331,
     "uikTvd": "4304013225722",
+    "uikName": "УИК №1331",
     "tikTvd": "2302000783735",
-    "tikName": "Наримановская"
+    "tikName": "Наримановская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1332,
     "uikTvd": "4304013225723",
+    "uikName": "УИК №1332",
     "tikTvd": "2302000783735",
-    "tikName": "Наримановская"
+    "tikName": "Наримановская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1333,
     "uikTvd": "4304013225724",
+    "uikName": "УИК №1333",
     "tikTvd": "2302000783735",
-    "tikName": "Наримановская"
+    "tikName": "Наримановская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1334,
     "uikTvd": "4304013225725",
+    "uikName": "УИК №1334",
     "tikTvd": "2302000783735",
-    "tikName": "Наримановская"
+    "tikName": "Наримановская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1335,
     "uikTvd": "4304013225726",
+    "uikName": "УИК №1335",
     "tikTvd": "2302000783735",
-    "tikName": "Наримановская"
+    "tikName": "Наримановская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1336,
     "uikTvd": "4304013225727",
+    "uikName": "УИК №1336",
     "tikTvd": "2302000783735",
-    "tikName": "Наримановская"
+    "tikName": "Наримановская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1337,
     "uikTvd": "4304013225728",
+    "uikName": "УИК №1337",
     "tikTvd": "2302000783735",
-    "tikName": "Наримановская"
+    "tikName": "Наримановская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1338,
     "uikTvd": "4304013230752",
+    "uikName": "УИК №1338",
     "tikTvd": "2302000783735",
-    "tikName": "Наримановская"
+    "tikName": "Наримановская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1401,
     "uikTvd": "4304014253843",
+    "uikName": "УИК №1401",
     "tikTvd": "2302000783732",
-    "tikName": "Приволжская"
+    "tikName": "Приволжская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1402,
     "uikTvd": "4304014253844",
+    "uikName": "УИК №1402",
     "tikTvd": "2302000783732",
-    "tikName": "Приволжская"
+    "tikName": "Приволжская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1403,
     "uikTvd": "4304014253845",
+    "uikName": "УИК №1403",
     "tikTvd": "2302000783732",
-    "tikName": "Приволжская"
+    "tikName": "Приволжская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1404,
     "uikTvd": "4304014253846",
+    "uikName": "УИК №1404",
     "tikTvd": "2302000783732",
-    "tikName": "Приволжская"
+    "tikName": "Приволжская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1405,
     "uikTvd": "4304014253847",
+    "uikName": "УИК №1405",
     "tikTvd": "2302000783732",
-    "tikName": "Приволжская"
+    "tikName": "Приволжская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1406,
     "uikTvd": "4304014253848",
+    "uikName": "УИК №1406",
     "tikTvd": "2302000783732",
-    "tikName": "Приволжская"
+    "tikName": "Приволжская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1407,
     "uikTvd": "4304014253849",
+    "uikName": "УИК №1407",
     "tikTvd": "2302000783732",
-    "tikName": "Приволжская"
+    "tikName": "Приволжская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1408,
     "uikTvd": "4304014253850",
+    "uikName": "УИК №1408",
     "tikTvd": "2302000783732",
-    "tikName": "Приволжская"
+    "tikName": "Приволжская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1409,
     "uikTvd": "4304014253851",
+    "uikName": "УИК №1409",
     "tikTvd": "2302000783732",
-    "tikName": "Приволжская"
+    "tikName": "Приволжская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1410,
     "uikTvd": "4304014253852",
+    "uikName": "УИК №1410",
     "tikTvd": "2302000783732",
-    "tikName": "Приволжская"
+    "tikName": "Приволжская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1411,
     "uikTvd": "4304014253853",
+    "uikName": "УИК №1411",
     "tikTvd": "2302000783732",
-    "tikName": "Приволжская"
+    "tikName": "Приволжская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1412,
     "uikTvd": "4304014253854",
+    "uikName": "УИК №1412",
     "tikTvd": "2302000783732",
-    "tikName": "Приволжская"
+    "tikName": "Приволжская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1413,
     "uikTvd": "4304014253855",
+    "uikName": "УИК №1413",
     "tikTvd": "2302000783732",
-    "tikName": "Приволжская"
+    "tikName": "Приволжская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1414,
     "uikTvd": "4304014253856",
+    "uikName": "УИК №1414",
     "tikTvd": "2302000783732",
-    "tikName": "Приволжская"
+    "tikName": "Приволжская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1415,
     "uikTvd": "4304014253857",
+    "uikName": "УИК №1415",
     "tikTvd": "2302000783732",
-    "tikName": "Приволжская"
+    "tikName": "Приволжская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1416,
     "uikTvd": "4304014253858",
+    "uikName": "УИК №1416",
     "tikTvd": "2302000783732",
-    "tikName": "Приволжская"
+    "tikName": "Приволжская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1417,
     "uikTvd": "4304014253859",
+    "uikName": "УИК №1417",
     "tikTvd": "2302000783732",
-    "tikName": "Приволжская"
+    "tikName": "Приволжская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1418,
     "uikTvd": "4304014253860",
+    "uikName": "УИК №1418",
     "tikTvd": "2302000783732",
-    "tikName": "Приволжская"
+    "tikName": "Приволжская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1419,
     "uikTvd": "4304014253861",
+    "uikName": "УИК №1419",
     "tikTvd": "2302000783732",
-    "tikName": "Приволжская"
+    "tikName": "Приволжская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1420,
     "uikTvd": "4304014253862",
+    "uikName": "УИК №1420",
     "tikTvd": "2302000783732",
-    "tikName": "Приволжская"
+    "tikName": "Приволжская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1421,
     "uikTvd": "4304014253863",
+    "uikName": "УИК №1421",
     "tikTvd": "2302000783732",
-    "tikName": "Приволжская"
+    "tikName": "Приволжская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1422,
     "uikTvd": "4304014253864",
+    "uikName": "УИК №1422",
     "tikTvd": "2302000783732",
-    "tikName": "Приволжская"
+    "tikName": "Приволжская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1423,
     "uikTvd": "4304014253865",
+    "uikName": "УИК №1423",
     "tikTvd": "2302000783732",
-    "tikName": "Приволжская"
+    "tikName": "Приволжская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1424,
     "uikTvd": "4304014253866",
+    "uikName": "УИК №1424",
     "tikTvd": "2302000783732",
-    "tikName": "Приволжская"
+    "tikName": "Приволжская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1425,
     "uikTvd": "4304014253867",
+    "uikName": "УИК №1425",
     "tikTvd": "2302000783732",
-    "tikName": "Приволжская"
+    "tikName": "Приволжская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1426,
     "uikTvd": "4304014253868",
+    "uikName": "УИК №1426",
     "tikTvd": "2302000783732",
-    "tikName": "Приволжская"
+    "tikName": "Приволжская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1501,
     "uikTvd": "4304015260799",
+    "uikName": "УИК №1501",
     "tikTvd": "2302000783727",
-    "tikName": "Харабалинская"
+    "tikName": "Харабалинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1502,
     "uikTvd": "4304015260800",
+    "uikName": "УИК №1502",
     "tikTvd": "2302000783727",
-    "tikName": "Харабалинская"
+    "tikName": "Харабалинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1503,
     "uikTvd": "4304015260801",
+    "uikName": "УИК №1503",
     "tikTvd": "2302000783727",
-    "tikName": "Харабалинская"
+    "tikName": "Харабалинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1504,
     "uikTvd": "4304015260802",
+    "uikName": "УИК №1504",
     "tikTvd": "2302000783727",
-    "tikName": "Харабалинская"
+    "tikName": "Харабалинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1505,
     "uikTvd": "4304015260803",
+    "uikName": "УИК №1505",
     "tikTvd": "2302000783727",
-    "tikName": "Харабалинская"
+    "tikName": "Харабалинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1506,
     "uikTvd": "4304015260804",
+    "uikName": "УИК №1506",
     "tikTvd": "2302000783727",
-    "tikName": "Харабалинская"
+    "tikName": "Харабалинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1507,
     "uikTvd": "4304015260805",
+    "uikName": "УИК №1507",
     "tikTvd": "2302000783727",
-    "tikName": "Харабалинская"
+    "tikName": "Харабалинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1508,
     "uikTvd": "4304015260806",
+    "uikName": "УИК №1508",
     "tikTvd": "2302000783727",
-    "tikName": "Харабалинская"
+    "tikName": "Харабалинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1509,
     "uikTvd": "4304015260807",
+    "uikName": "УИК №1509",
     "tikTvd": "2302000783727",
-    "tikName": "Харабалинская"
+    "tikName": "Харабалинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1510,
     "uikTvd": "4304015260808",
+    "uikName": "УИК №1510",
     "tikTvd": "2302000783727",
-    "tikName": "Харабалинская"
+    "tikName": "Харабалинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1511,
     "uikTvd": "4304015260809",
+    "uikName": "УИК №1511",
     "tikTvd": "2302000783727",
-    "tikName": "Харабалинская"
+    "tikName": "Харабалинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1512,
     "uikTvd": "4304015260810",
+    "uikName": "УИК №1512",
     "tikTvd": "2302000783727",
-    "tikName": "Харабалинская"
+    "tikName": "Харабалинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1513,
     "uikTvd": "4304015260811",
+    "uikName": "УИК №1513",
     "tikTvd": "2302000783727",
-    "tikName": "Харабалинская"
+    "tikName": "Харабалинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1514,
     "uikTvd": "4304015260812",
+    "uikName": "УИК №1514",
     "tikTvd": "2302000783727",
-    "tikName": "Харабалинская"
+    "tikName": "Харабалинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1515,
     "uikTvd": "4304015260813",
+    "uikName": "УИК №1515",
     "tikTvd": "2302000783727",
-    "tikName": "Харабалинская"
+    "tikName": "Харабалинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1516,
     "uikTvd": "4304015260814",
+    "uikName": "УИК №1516",
     "tikTvd": "2302000783727",
-    "tikName": "Харабалинская"
+    "tikName": "Харабалинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1517,
     "uikTvd": "4304015260815",
+    "uikName": "УИК №1517",
     "tikTvd": "2302000783727",
-    "tikName": "Харабалинская"
+    "tikName": "Харабалинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1518,
     "uikTvd": "4304015260816",
+    "uikName": "УИК №1518",
     "tikTvd": "2302000783727",
-    "tikName": "Харабалинская"
+    "tikName": "Харабалинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1519,
     "uikTvd": "4304015260817",
+    "uikName": "УИК №1519",
     "tikTvd": "2302000783727",
-    "tikName": "Харабалинская"
+    "tikName": "Харабалинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1520,
     "uikTvd": "4304015260818",
+    "uikName": "УИК №1520",
     "tikTvd": "2302000783727",
-    "tikName": "Харабалинская"
+    "tikName": "Харабалинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1521,
     "uikTvd": "4304015260819",
+    "uikName": "УИК №1521",
     "tikTvd": "2302000783727",
-    "tikName": "Харабалинская"
+    "tikName": "Харабалинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1522,
     "uikTvd": "4304015260820",
+    "uikName": "УИК №1522",
     "tikTvd": "2302000783727",
-    "tikName": "Харабалинская"
+    "tikName": "Харабалинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1523,
     "uikTvd": "4304015260821",
+    "uikName": "УИК №1523",
     "tikTvd": "2302000783727",
-    "tikName": "Харабалинская"
+    "tikName": "Харабалинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1524,
     "uikTvd": "4304015260822",
+    "uikName": "УИК №1524",
     "tikTvd": "2302000783727",
-    "tikName": "Харабалинская"
+    "tikName": "Харабалинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1525,
     "uikTvd": "4304015260823",
+    "uikName": "УИК №1525",
     "tikTvd": "2302000783727",
-    "tikName": "Харабалинская"
+    "tikName": "Харабалинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1526,
     "uikTvd": "4304015260824",
+    "uikName": "УИК №1526",
     "tikTvd": "2302000783727",
-    "tikName": "Харабалинская"
+    "tikName": "Харабалинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1527,
     "uikTvd": "4304015260825",
+    "uikName": "УИК №1527",
     "tikTvd": "2302000783727",
-    "tikName": "Харабалинская"
+    "tikName": "Харабалинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1601,
     "uikTvd": "4304016193089",
+    "uikName": "УИК №1601",
     "tikTvd": "2302000783733",
-    "tikName": "Черноярская"
+    "tikName": "Черноярская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1602,
     "uikTvd": "4304016193090",
+    "uikName": "УИК №1602",
     "tikTvd": "2302000783733",
-    "tikName": "Черноярская"
+    "tikName": "Черноярская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1603,
     "uikTvd": "4304016193091",
+    "uikName": "УИК №1603",
     "tikTvd": "2302000783733",
-    "tikName": "Черноярская"
+    "tikName": "Черноярская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1604,
     "uikTvd": "4304016193092",
+    "uikName": "УИК №1604",
     "tikTvd": "2302000783733",
-    "tikName": "Черноярская"
+    "tikName": "Черноярская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1605,
     "uikTvd": "4304016193093",
+    "uikName": "УИК №1605",
     "tikTvd": "2302000783733",
-    "tikName": "Черноярская"
+    "tikName": "Черноярская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1606,
     "uikTvd": "4304016193094",
+    "uikName": "УИК №1606",
     "tikTvd": "2302000783733",
-    "tikName": "Черноярская"
+    "tikName": "Черноярская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1607,
     "uikTvd": "4304016193095",
+    "uikName": "УИК №1607",
     "tikTvd": "2302000783733",
-    "tikName": "Черноярская"
+    "tikName": "Черноярская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1608,
     "uikTvd": "4304016193096",
+    "uikName": "УИК №1608",
     "tikTvd": "2302000783733",
-    "tikName": "Черноярская"
+    "tikName": "Черноярская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1609,
     "uikTvd": "4304016193097",
+    "uikName": "УИК №1609",
     "tikTvd": "2302000783733",
-    "tikName": "Черноярская"
+    "tikName": "Черноярская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1610,
     "uikTvd": "4304016193098",
+    "uikName": "УИК №1610",
     "tikTvd": "2302000783733",
-    "tikName": "Черноярская"
+    "tikName": "Черноярская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1611,
     "uikTvd": "4304016193099",
+    "uikName": "УИК №1611",
     "tikTvd": "2302000783733",
-    "tikName": "Черноярская"
+    "tikName": "Черноярская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1612,
     "uikTvd": "4304016193100",
+    "uikName": "УИК №1612",
     "tikTvd": "2302000783733",
-    "tikName": "Черноярская"
+    "tikName": "Черноярская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   },
   {
     "uikNumber": 1613,
     "uikTvd": "4304016193101",
+    "uikName": "УИК №1613",
     "tikTvd": "2302000783733",
-    "tikName": "Черноярская"
+    "tikName": "Черноярская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    }
   }
 ] satisfies readonly UikTikRelation[];

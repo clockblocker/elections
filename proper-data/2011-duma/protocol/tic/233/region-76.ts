@@ -11,6 +11,9 @@ export const duma_2011_tic_233_region_76 = [
     "ballot": "party",
     "tikTvd": "2762000220237",
     "tikName": "Некрасовская",
+    "regionCode": "76",
+    "regionTvd": "100100028713456",
+    "regionName": "Ярославская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 18767,
@@ -90,6 +93,9 @@ export const duma_2011_tic_233_region_76 = [
     "ballot": "party",
     "tikTvd": "2762000220238",
     "tikName": "Некоузская",
+    "regionCode": "76",
+    "regionTvd": "100100028713456",
+    "regionName": "Ярославская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 13990,
@@ -168,6 +174,9 @@ export const duma_2011_tic_233_region_76 = [
     "ballot": "party",
     "tikTvd": "2762000220239",
     "tikName": "Мышкинская",
+    "regionCode": "76",
+    "regionTvd": "100100028713456",
+    "regionName": "Ярославская область",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 8711,
@@ -234,6 +243,9 @@ export const duma_2011_tic_233_region_76 = [
     "ballot": "party",
     "tikTvd": "2762000220240",
     "tikName": "Гаврилов-Ямская",
+    "regionCode": "76",
+    "regionTvd": "100100028713456",
+    "regionName": "Ярославская область",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 21880,
@@ -310,6 +322,9 @@ export const duma_2011_tic_233_region_76 = [
     "ballot": "party",
     "tikTvd": "2762000220241",
     "tikName": "Любимская",
+    "regionCode": "76",
+    "regionTvd": "100100028713456",
+    "regionName": "Ярославская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 10371,
@@ -385,6 +400,9 @@ export const duma_2011_tic_233_region_76 = [
     "ballot": "party",
     "tikTvd": "2762000220242",
     "tikName": "Даниловская",
+    "regionCode": "76",
+    "regionTvd": "100100028713456",
+    "regionName": "Ярославская область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 21875,
@@ -470,6 +488,9 @@ export const duma_2011_tic_233_region_76 = [
     "ballot": "party",
     "tikTvd": "2762000220243",
     "tikName": "Большесельская",
+    "regionCode": "76",
+    "regionTvd": "100100028713456",
+    "regionName": "Ярославская область",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 7518,
@@ -533,6 +554,9 @@ export const duma_2011_tic_233_region_76 = [
     "ballot": "party",
     "tikTvd": "2762000220244",
     "tikName": "Брейтовская",
+    "regionCode": "76",
+    "regionTvd": "100100028713456",
+    "regionName": "Ярославская область",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 6236,
@@ -599,6 +623,9 @@ export const duma_2011_tic_233_region_76 = [
     "ballot": "party",
     "tikTvd": "2762000220245",
     "tikName": "Борисоглебская",
+    "regionCode": "76",
+    "regionTvd": "100100028713456",
+    "regionName": "Ярославская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 10557,
@@ -670,6 +697,9 @@ export const duma_2011_tic_233_region_76 = [
     "ballot": "party",
     "tikTvd": "2762000220246",
     "tikName": "Ярославль, Ленинская",
+    "regionCode": "76",
+    "regionTvd": "100100028713456",
+    "regionName": "Ярославская область",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 53137,
@@ -754,6 +784,9 @@ export const duma_2011_tic_233_region_76 = [
     "ballot": "party",
     "tikTvd": "2762000220247",
     "tikName": "Ярославль, Красноперекопская",
+    "regionCode": "76",
+    "regionTvd": "100100028713456",
+    "regionName": "Ярославская область",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 52482,
@@ -830,6 +863,9 @@ export const duma_2011_tic_233_region_76 = [
     "ballot": "party",
     "tikTvd": "2762000220248",
     "tikName": "Ярославль, Кировская",
+    "regionCode": "76",
+    "regionTvd": "100100028713456",
+    "regionName": "Ярославская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 47592,
@@ -908,6 +944,9 @@ export const duma_2011_tic_233_region_76 = [
     "ballot": "party",
     "tikTvd": "2762000220249",
     "tikName": "Ярославль, Заволжская",
+    "regionCode": "76",
+    "regionTvd": "100100028713456",
+    "regionName": "Ярославская область",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 94132,
@@ -1007,6 +1046,9 @@ export const duma_2011_tic_233_region_76 = [
     "ballot": "party",
     "tikTvd": "2762000220250",
     "tikName": "Рыбинская",
+    "regionCode": "76",
+    "regionTvd": "100100028713456",
+    "regionName": "Ярославская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 23540,
@@ -1081,6 +1123,9 @@ export const duma_2011_tic_233_region_76 = [
     "ballot": "party",
     "tikTvd": "2762000220251",
     "tikName": "Ярославль, Дзержинская",
+    "regionCode": "76",
+    "regionTvd": "100100028713456",
+    "regionName": "Ярославская область",
     "uikCount": 72,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 132288,
@@ -1202,6 +1247,9 @@ export const duma_2011_tic_233_region_76 = [
     "ballot": "party",
     "tikTvd": "2762000220252",
     "tikName": "Угличская",
+    "regionCode": "76",
+    "regionTvd": "100100028713456",
+    "regionName": "Ярославская область",
     "uikCount": 51,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 39928,
@@ -1302,6 +1350,9 @@ export const duma_2011_tic_233_region_76 = [
     "ballot": "party",
     "tikTvd": "2762000220253",
     "tikName": "Тутаевская",
+    "regionCode": "76",
+    "regionTvd": "100100028713456",
+    "regionName": "Ярославская область",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 47906,
@@ -1392,6 +1443,9 @@ export const duma_2011_tic_233_region_76 = [
     "ballot": "party",
     "tikTvd": "2762000220254",
     "tikName": "Ростовская",
+    "regionCode": "76",
+    "regionTvd": "100100028713456",
+    "regionName": "Ярославская область",
     "uikCount": 47,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 55821,
@@ -1488,6 +1542,9 @@ export const duma_2011_tic_233_region_76 = [
     "ballot": "party",
     "tikTvd": "2762000220255",
     "tikName": "Переславль-Залесская городская",
+    "regionCode": "76",
+    "regionTvd": "100100028713456",
+    "regionName": "Ярославская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 34440,
@@ -1558,6 +1615,9 @@ export const duma_2011_tic_233_region_76 = [
     "ballot": "party",
     "tikTvd": "2762000220256",
     "tikName": "Пошехонская",
+    "regionCode": "76",
+    "regionTvd": "100100028713456",
+    "regionName": "Ярославская область",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 12491,
@@ -1634,6 +1694,9 @@ export const duma_2011_tic_233_region_76 = [
     "ballot": "party",
     "tikTvd": "2762000220257",
     "tikName": "Первомайская",
+    "regionCode": "76",
+    "regionTvd": "100100028713456",
+    "regionName": "Ярославская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 9323,
@@ -1705,6 +1768,9 @@ export const duma_2011_tic_233_region_76 = [
     "ballot": "party",
     "tikTvd": "2762000220258",
     "tikName": "Рыбинск, Пролетарская",
+    "regionCode": "76",
+    "regionTvd": "100100028713456",
+    "regionName": "Ярославская область",
     "uikCount": 59,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 86543,
@@ -1813,6 +1879,9 @@ export const duma_2011_tic_233_region_76 = [
     "ballot": "party",
     "tikTvd": "2762000220259",
     "tikName": "Рыбинск, Волжская",
+    "regionCode": "76",
+    "regionTvd": "100100028713456",
+    "regionName": "Ярославская область",
     "uikCount": 54,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 86037,
@@ -1916,6 +1985,9 @@ export const duma_2011_tic_233_region_76 = [
     "ballot": "party",
     "tikTvd": "2762000220260",
     "tikName": "Переславская",
+    "regionCode": "76",
+    "regionTvd": "100100028713456",
+    "regionName": "Ярославская область",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 16587,
@@ -2002,6 +2074,9 @@ export const duma_2011_tic_233_region_76 = [
     "ballot": "party",
     "tikTvd": "2762000220261",
     "tikName": "Ярославская",
+    "regionCode": "76",
+    "regionTvd": "100100028713456",
+    "regionName": "Ярославская область",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 41948,
@@ -2089,6 +2164,9 @@ export const duma_2011_tic_233_region_76 = [
     "ballot": "party",
     "tikTvd": "2762000220262",
     "tikName": "Ярославль, Фрунзенская",
+    "regionCode": "76",
+    "regionTvd": "100100028713456",
+    "regionName": "Ярославская область",
     "uikCount": 56,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 102331,

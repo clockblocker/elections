@@ -11,6 +11,9 @@ export const president_2008_tic_227_region_70 = [
     "ballot": "presidential",
     "tikTvd": "2702000133049",
     "tikName": "Северская городская",
+    "regionCode": "70",
+    "regionTvd": "100100022249999",
+    "regionName": "Томская область",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 96008,
@@ -102,6 +105,9 @@ export const president_2008_tic_227_region_70 = [
     "ballot": "presidential",
     "tikTvd": "2702000133050",
     "tikName": "Первомайская",
+    "regionCode": "70",
+    "regionTvd": "100100022249999",
+    "regionName": "Томская область",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 15126,
@@ -181,6 +187,9 @@ export const president_2008_tic_227_region_70 = [
     "ballot": "presidential",
     "tikTvd": "2702000133051",
     "tikName": "Cтрежевская городская",
+    "regionCode": "70",
+    "regionTvd": "100100022249999",
+    "regionName": "Томская область",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 32225,
@@ -240,6 +249,9 @@ export const president_2008_tic_227_region_70 = [
     "ballot": "presidential",
     "tikTvd": "2702000133052",
     "tikName": "Кривошеинская",
+    "regionCode": "70",
+    "regionTvd": "100100022249999",
+    "regionName": "Томская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 11345,
@@ -315,6 +327,9 @@ export const president_2008_tic_227_region_70 = [
     "ballot": "presidential",
     "tikTvd": "2702000133053",
     "tikName": "Парабельская",
+    "regionCode": "70",
+    "regionTvd": "100100022249999",
+    "regionName": "Томская область",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 10250,
@@ -389,6 +404,9 @@ export const president_2008_tic_227_region_70 = [
     "ballot": "presidential",
     "tikTvd": "2702000133054",
     "tikName": "Колпашевская",
+    "regionCode": "70",
+    "regionTvd": "100100022249999",
+    "regionName": "Томская область",
     "uikCount": 55,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 36818,
@@ -491,6 +509,9 @@ export const president_2008_tic_227_region_70 = [
     "ballot": "presidential",
     "tikTvd": "2702000133055",
     "tikName": "Молчановская",
+    "regionCode": "70",
+    "regionTvd": "100100022249999",
+    "regionName": "Томская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 12028,
@@ -567,6 +588,9 @@ export const president_2008_tic_227_region_70 = [
     "ballot": "presidential",
     "tikTvd": "2702000133056",
     "tikName": "Каргасокская",
+    "regionCode": "70",
+    "regionTvd": "100100022249999",
+    "regionName": "Томская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 18335,
@@ -644,6 +668,9 @@ export const president_2008_tic_227_region_70 = [
     "ballot": "presidential",
     "tikTvd": "2702000133057",
     "tikName": "Кедровская городская",
+    "regionCode": "70",
+    "regionTvd": "100100022249999",
+    "regionName": "Томская область",
     "uikCount": 7,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 2970,
@@ -698,6 +725,9 @@ export const president_2008_tic_227_region_70 = [
     "ballot": "presidential",
     "tikTvd": "2702000133058",
     "tikName": "Кожевниковская",
+    "regionCode": "70",
+    "regionTvd": "100100022249999",
+    "regionName": "Томская область",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 16442,
@@ -777,6 +807,9 @@ export const president_2008_tic_227_region_70 = [
     "ballot": "presidential",
     "tikTvd": "2702000133059",
     "tikName": "Зырянская",
+    "regionCode": "70",
+    "regionTvd": "100100022249999",
+    "regionName": "Томская область",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 11947,
@@ -857,6 +890,9 @@ export const president_2008_tic_227_region_70 = [
     "ballot": "presidential",
     "tikTvd": "2702000133060",
     "tikName": "Асиновская",
+    "regionCode": "70",
+    "regionTvd": "100100022249999",
+    "regionName": "Томская область",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 29150,
@@ -948,6 +984,9 @@ export const president_2008_tic_227_region_70 = [
     "ballot": "presidential",
     "tikTvd": "2702000133061",
     "tikName": "Бакчарская",
+    "regionCode": "70",
+    "regionTvd": "100100022249999",
+    "regionName": "Томская область",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 10359,
@@ -1028,6 +1067,9 @@ export const president_2008_tic_227_region_70 = [
     "ballot": "presidential",
     "tikTvd": "2702000133062",
     "tikName": "Верхнекетская",
+    "regionCode": "70",
+    "regionTvd": "100100022249999",
+    "regionName": "Томская область",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 13872,
@@ -1091,6 +1133,9 @@ export const president_2008_tic_227_region_70 = [
     "ballot": "presidential",
     "tikTvd": "2702000133063",
     "tikName": "Александровская",
+    "regionCode": "70",
+    "regionTvd": "100100022249999",
+    "regionName": "Томская область",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 7603,
@@ -1150,6 +1195,9 @@ export const president_2008_tic_227_region_70 = [
     "ballot": "presidential",
     "tikTvd": "2702000133064",
     "tikName": "Шегарская",
+    "regionCode": "70",
+    "regionTvd": "100100022249999",
+    "regionName": "Томская область",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 15712,
@@ -1229,6 +1277,9 @@ export const president_2008_tic_227_region_70 = [
     "ballot": "presidential",
     "tikTvd": "2702000133065",
     "tikName": "Чаинская",
+    "regionCode": "70",
+    "regionTvd": "100100022249999",
+    "regionName": "Томская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 9983,
@@ -1310,6 +1361,9 @@ export const president_2008_tic_227_region_70 = [
     "ballot": "presidential",
     "tikTvd": "2702000133066",
     "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100022249999",
+    "regionName": "Томская область",
     "uikCount": 78,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 50404,
@@ -1435,6 +1489,9 @@ export const president_2008_tic_227_region_70 = [
     "ballot": "presidential",
     "tikTvd": "2702000133067",
     "tikName": "Томск, Ленинская",
+    "regionCode": "70",
+    "regionTvd": "100100022249999",
+    "regionName": "Томская область",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 81676,
@@ -1525,6 +1582,9 @@ export const president_2008_tic_227_region_70 = [
     "ballot": "presidential",
     "tikTvd": "2702000133068",
     "tikName": "Томск, Октябрьская",
+    "regionCode": "70",
+    "regionTvd": "100100022249999",
+    "regionName": "Томская область",
     "uikCount": 71,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 119228,
@@ -1643,6 +1703,9 @@ export const president_2008_tic_227_region_70 = [
     "ballot": "presidential",
     "tikTvd": "2702000133069",
     "tikName": "Томск, Советская",
+    "regionCode": "70",
+    "regionTvd": "100100022249999",
+    "regionName": "Томская область",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 77880,
@@ -1728,6 +1791,9 @@ export const president_2008_tic_227_region_70 = [
     "ballot": "presidential",
     "tikTvd": "2702000133070",
     "tikName": "Томск, Кировская",
+    "regionCode": "70",
+    "regionTvd": "100100022249999",
+    "regionName": "Томская область",
     "uikCount": 53,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 86868,
@@ -1828,6 +1894,9 @@ export const president_2008_tic_227_region_70 = [
     "ballot": "presidential",
     "tikTvd": "2702000133071",
     "tikName": "Тегульдетская",
+    "regionCode": "70",
+    "regionTvd": "100100022249999",
+    "regionName": "Томская область",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 6030,

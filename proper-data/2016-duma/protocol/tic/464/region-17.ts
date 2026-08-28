@@ -11,6 +11,14 @@ export const duma_2016_tic_464_region_17 = [
     "ballot": "single-member",
     "tikTvd": "2172000458177",
     "tikName": "Каа-Хемская",
+    "regionCode": "17",
+    "regionTvd": "100100067795899",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100067795900",
+      "oikName": "Республика Тыва – Тывинский"
+    },
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 6859,
@@ -75,6 +83,14 @@ export const duma_2016_tic_464_region_17 = [
     "ballot": "single-member",
     "tikTvd": "2172000458178",
     "tikName": "Монгун-Тайгинская",
+    "regionCode": "17",
+    "regionTvd": "100100067795899",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100067795900",
+      "oikName": "Республика Тыва – Тывинский"
+    },
     "uikCount": 3,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2901,
@@ -127,6 +143,14 @@ export const duma_2016_tic_464_region_17 = [
     "ballot": "single-member",
     "tikTvd": "2172000458179",
     "tikName": "Барун-Хемчикская",
+    "regionCode": "17",
+    "regionTvd": "100100067795899",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100067795900",
+      "oikName": "Республика Тыва – Тывинский"
+    },
     "uikCount": 10,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 7276,
@@ -186,6 +210,14 @@ export const duma_2016_tic_464_region_17 = [
     "ballot": "single-member",
     "tikTvd": "2172000458180",
     "tikName": "Тандинская",
+    "regionCode": "17",
+    "regionTvd": "100100067795899",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100067795900",
+      "oikName": "Республика Тыва – Тывинский"
+    },
     "uikCount": 11,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 6112,
@@ -246,6 +278,14 @@ export const duma_2016_tic_464_region_17 = [
     "ballot": "single-member",
     "tikTvd": "2172000458181",
     "tikName": "Улуг-Хемская",
+    "regionCode": "17",
+    "regionTvd": "100100067795899",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100067795900",
+      "oikName": "Республика Тыва – Тывинский"
+    },
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 8682,
@@ -308,6 +348,14 @@ export const duma_2016_tic_464_region_17 = [
     "ballot": "single-member",
     "tikTvd": "2172000458182",
     "tikName": "Тере-Хольская",
+    "regionCode": "17",
+    "regionTvd": "100100067795899",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100067795900",
+      "oikName": "Республика Тыва – Тывинский"
+    },
     "uikCount": 2,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1084,
@@ -359,6 +407,14 @@ export const duma_2016_tic_464_region_17 = [
     "ballot": "single-member",
     "tikTvd": "2172000458183",
     "tikName": "Пий-Хемская",
+    "regionCode": "17",
+    "regionTvd": "100100067795899",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100067795900",
+      "oikName": "Республика Тыва – Тывинский"
+    },
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 6245,
@@ -421,6 +477,14 @@ export const duma_2016_tic_464_region_17 = [
     "ballot": "single-member",
     "tikTvd": "2172000458184",
     "tikName": "Чеди-Хольская",
+    "regionCode": "17",
+    "regionTvd": "100100067795899",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100067795900",
+      "oikName": "Республика Тыва – Тывинский"
+    },
     "uikCount": 6,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 4185,
@@ -476,6 +540,14 @@ export const duma_2016_tic_464_region_17 = [
     "ballot": "single-member",
     "tikTvd": "2172000458185",
     "tikName": "Эрзинская",
+    "regionCode": "17",
+    "regionTvd": "100100067795899",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100067795900",
+      "oikName": "Республика Тыва – Тывинский"
+    },
     "uikCount": 6,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 3726,
@@ -531,6 +603,14 @@ export const duma_2016_tic_464_region_17 = [
     "ballot": "single-member",
     "tikTvd": "2172000458186",
     "tikName": "Кызылская",
+    "regionCode": "17",
+    "regionTvd": "100100067795899",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100067795900",
+      "oikName": "Республика Тыва – Тывинский"
+    },
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 12913,
@@ -594,6 +674,14 @@ export const duma_2016_tic_464_region_17 = [
     "ballot": "single-member",
     "tikTvd": "2172000458187",
     "tikName": "Дзун-Хемчикская",
+    "regionCode": "17",
+    "regionTvd": "100100067795899",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100067795900",
+      "oikName": "Республика Тыва – Тывинский"
+    },
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 9777,
@@ -658,6 +746,14 @@ export const duma_2016_tic_464_region_17 = [
     "ballot": "single-member",
     "tikTvd": "2172000458188",
     "tikName": "Тоджинская",
+    "regionCode": "17",
+    "regionTvd": "100100067795899",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100067795900",
+      "oikName": "Республика Тыва – Тывинский"
+    },
     "uikCount": 6,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 3445,
@@ -713,6 +809,14 @@ export const duma_2016_tic_464_region_17 = [
     "ballot": "single-member",
     "tikTvd": "2172000458189",
     "tikName": "Чаа-Хольская",
+    "regionCode": "17",
+    "regionTvd": "100100067795899",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100067795900",
+      "oikName": "Республика Тыва – Тывинский"
+    },
     "uikCount": 4,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 3253,
@@ -766,6 +870,14 @@ export const duma_2016_tic_464_region_17 = [
     "ballot": "single-member",
     "tikTvd": "2172000458190",
     "tikName": "Овюрская",
+    "regionCode": "17",
+    "regionTvd": "100100067795899",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100067795900",
+      "oikName": "Республика Тыва – Тывинский"
+    },
     "uikCount": 6,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 3691,
@@ -821,6 +933,14 @@ export const duma_2016_tic_464_region_17 = [
     "ballot": "single-member",
     "tikTvd": "2172000458191",
     "tikName": "Тес-Хемская",
+    "regionCode": "17",
+    "regionTvd": "100100067795899",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100067795900",
+      "oikName": "Республика Тыва – Тывинский"
+    },
     "uikCount": 7,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 4342,
@@ -877,6 +997,14 @@ export const duma_2016_tic_464_region_17 = [
     "ballot": "single-member",
     "tikTvd": "2172000458192",
     "tikName": "Ак-Довуракская",
+    "regionCode": "17",
+    "regionTvd": "100100067795899",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100067795900",
+      "oikName": "Республика Тыва – Тывинский"
+    },
     "uikCount": 6,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 6745,
@@ -932,6 +1060,14 @@ export const duma_2016_tic_464_region_17 = [
     "ballot": "single-member",
     "tikTvd": "2172000458193",
     "tikName": "Бай-Тайгинская",
+    "regionCode": "17",
+    "regionTvd": "100100067795899",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100067795900",
+      "oikName": "Республика Тыва – Тывинский"
+    },
     "uikCount": 7,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 5080,
@@ -988,6 +1124,14 @@ export const duma_2016_tic_464_region_17 = [
     "ballot": "single-member",
     "tikTvd": "2172000458194",
     "tikName": "Кызылская городская",
+    "regionCode": "17",
+    "regionTvd": "100100067795899",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100067795900",
+      "oikName": "Республика Тыва – Тывинский"
+    },
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 55717,
@@ -1069,6 +1213,14 @@ export const duma_2016_tic_464_region_17 = [
     "ballot": "single-member",
     "tikTvd": "2172000458195",
     "tikName": "Сут-Хольская",
+    "regionCode": "17",
+    "regionTvd": "100100067795899",
+    "regionName": "Республика Тыва",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100067795900",
+      "oikName": "Республика Тыва – Тывинский"
+    },
     "uikCount": 7,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 4948,

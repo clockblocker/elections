@@ -11,6 +11,14 @@ export const duma_2016_tic_464_region_51 = [
     "ballot": "single-member",
     "tikTvd": "2512000410387",
     "tikName": "Кировская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    },
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 26390,
@@ -82,6 +90,14 @@ export const duma_2016_tic_464_region_51 = [
     "ballot": "single-member",
     "tikTvd": "2512000410388",
     "tikName": "Ловозерская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    },
     "uikCount": 7,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 8638,
@@ -139,6 +155,14 @@ export const duma_2016_tic_464_region_51 = [
     "ballot": "single-member",
     "tikTvd": "2512000410389",
     "tikName": "Заозерская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    },
     "uikCount": 5,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 6875,
@@ -194,6 +218,14 @@ export const duma_2016_tic_464_region_51 = [
     "ballot": "single-member",
     "tikTvd": "2512000410390",
     "tikName": "Полярнозоринская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    },
     "uikCount": 12,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 13930,
@@ -256,6 +288,14 @@ export const duma_2016_tic_464_region_51 = [
     "ballot": "single-member",
     "tikTvd": "2512000410391",
     "tikName": "Островнинская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    },
     "uikCount": 2,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1319,
@@ -308,6 +348,14 @@ export const duma_2016_tic_464_region_51 = [
     "ballot": "single-member",
     "tikTvd": "2512000410392",
     "tikName": "Терская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    },
     "uikCount": 5,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 5584,
@@ -363,6 +411,14 @@ export const duma_2016_tic_464_region_51 = [
     "ballot": "single-member",
     "tikTvd": "2512000410393",
     "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    },
     "uikCount": 285,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 248877,
@@ -698,6 +754,14 @@ export const duma_2016_tic_464_region_51 = [
     "ballot": "single-member",
     "tikTvd": "2512000410394",
     "tikName": "Александровская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    },
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 31092,
@@ -771,6 +835,14 @@ export const duma_2016_tic_464_region_51 = [
     "ballot": "single-member",
     "tikTvd": "2512000410395",
     "tikName": "Кольская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    },
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 33901,
@@ -857,6 +929,14 @@ export const duma_2016_tic_464_region_51 = [
     "ballot": "single-member",
     "tikTvd": "2512000410396",
     "tikName": "Кандалакшская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    },
     "uikCount": 41,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 40446,
@@ -948,6 +1028,14 @@ export const duma_2016_tic_464_region_51 = [
     "ballot": "single-member",
     "tikTvd": "2512000410397",
     "tikName": "Североморская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    },
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 44925,
@@ -1028,6 +1116,14 @@ export const duma_2016_tic_464_region_51 = [
     "ballot": "single-member",
     "tikTvd": "2512000410398",
     "tikName": "Мончегорская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    },
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 39274,
@@ -1103,6 +1199,14 @@ export const duma_2016_tic_464_region_51 = [
     "ballot": "single-member",
     "tikTvd": "2512000410399",
     "tikName": "Печенгская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    },
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 30875,
@@ -1183,6 +1287,14 @@ export const duma_2016_tic_464_region_51 = [
     "ballot": "single-member",
     "tikTvd": "2512000410400",
     "tikName": "Апатитская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    },
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 47890,
@@ -1259,6 +1371,14 @@ export const duma_2016_tic_464_region_51 = [
     "ballot": "single-member",
     "tikTvd": "2512000410401",
     "tikName": "Видяевская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    },
     "uikCount": 3,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 3336,
@@ -1312,6 +1432,14 @@ export const duma_2016_tic_464_region_51 = [
     "ballot": "single-member",
     "tikTvd": "2512000410402",
     "tikName": "Оленегорская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    },
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 23524,
@@ -1379,6 +1507,14 @@ export const duma_2016_tic_464_region_51 = [
     "ballot": "single-member",
     "tikTvd": "2512000410403",
     "tikName": "Ковдорская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    },
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 17278,

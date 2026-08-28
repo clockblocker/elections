@@ -7,7255 +7,13300 @@ export const duma_2007_uik_to_tik_region_46 = [
   {
     "uikNumber": 1,
     "uikTvd": "446401179292",
+    "uikName": "УИК №1",
     "tikTvd": "2462000137675",
-    "tikName": "ТИК Железнодорожного округа г. Курска"
+    "tikName": "ТИК Железнодорожного округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 2,
     "uikTvd": "446401179293",
+    "uikName": "УИК №2",
     "tikTvd": "2462000137675",
-    "tikName": "ТИК Железнодорожного округа г. Курска"
+    "tikName": "ТИК Железнодорожного округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 3,
     "uikTvd": "446401179294",
+    "uikName": "УИК №3",
     "tikTvd": "2462000137675",
-    "tikName": "ТИК Железнодорожного округа г. Курска"
+    "tikName": "ТИК Железнодорожного округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 4,
     "uikTvd": "446401179295",
+    "uikName": "УИК №4",
     "tikTvd": "2462000137675",
-    "tikName": "ТИК Железнодорожного округа г. Курска"
+    "tikName": "ТИК Железнодорожного округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 5,
     "uikTvd": "446401179296",
+    "uikName": "УИК №5",
     "tikTvd": "2462000137675",
-    "tikName": "ТИК Железнодорожного округа г. Курска"
+    "tikName": "ТИК Железнодорожного округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 6,
     "uikTvd": "446401179297",
+    "uikName": "УИК №6",
     "tikTvd": "2462000137675",
-    "tikName": "ТИК Железнодорожного округа г. Курска"
+    "tikName": "ТИК Железнодорожного округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 7,
     "uikTvd": "446401179298",
+    "uikName": "УИК №7",
     "tikTvd": "2462000137675",
-    "tikName": "ТИК Железнодорожного округа г. Курска"
+    "tikName": "ТИК Железнодорожного округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 8,
     "uikTvd": "446401179299",
+    "uikName": "УИК №8",
     "tikTvd": "2462000137675",
-    "tikName": "ТИК Железнодорожного округа г. Курска"
+    "tikName": "ТИК Железнодорожного округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 9,
     "uikTvd": "446401179300",
+    "uikName": "УИК №9",
     "tikTvd": "2462000137675",
-    "tikName": "ТИК Железнодорожного округа г. Курска"
+    "tikName": "ТИК Железнодорожного округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 10,
     "uikTvd": "446401179301",
+    "uikName": "УИК №10",
     "tikTvd": "2462000137675",
-    "tikName": "ТИК Железнодорожного округа г. Курска"
+    "tikName": "ТИК Железнодорожного округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 11,
     "uikTvd": "446401179302",
+    "uikName": "УИК №11",
     "tikTvd": "2462000137675",
-    "tikName": "ТИК Железнодорожного округа г. Курска"
+    "tikName": "ТИК Железнодорожного округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 12,
     "uikTvd": "446401179303",
+    "uikName": "УИК №12",
     "tikTvd": "2462000137675",
-    "tikName": "ТИК Железнодорожного округа г. Курска"
+    "tikName": "ТИК Железнодорожного округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 13,
     "uikTvd": "446401179304",
+    "uikName": "УИК №13",
     "tikTvd": "2462000137675",
-    "tikName": "ТИК Железнодорожного округа г. Курска"
+    "tikName": "ТИК Железнодорожного округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 14,
     "uikTvd": "446401179305",
+    "uikName": "УИК №14",
     "tikTvd": "2462000137675",
-    "tikName": "ТИК Железнодорожного округа г. Курска"
+    "tikName": "ТИК Железнодорожного округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 15,
     "uikTvd": "446401179306",
+    "uikName": "УИК №15",
     "tikTvd": "2462000137675",
-    "tikName": "ТИК Железнодорожного округа г. Курска"
+    "tikName": "ТИК Железнодорожного округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 16,
     "uikTvd": "446401179307",
+    "uikName": "УИК №16",
     "tikTvd": "2462000137675",
-    "tikName": "ТИК Железнодорожного округа г. Курска"
+    "tikName": "ТИК Железнодорожного округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 17,
     "uikTvd": "446401179308",
+    "uikName": "УИК №17",
     "tikTvd": "2462000137675",
-    "tikName": "ТИК Железнодорожного округа г. Курска"
+    "tikName": "ТИК Железнодорожного округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 18,
     "uikTvd": "446401179309",
+    "uikName": "УИК №18",
     "tikTvd": "2462000137675",
-    "tikName": "ТИК Железнодорожного округа г. Курска"
+    "tikName": "ТИК Железнодорожного округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 19,
     "uikTvd": "446401179310",
+    "uikName": "УИК №19",
     "tikTvd": "2462000137675",
-    "tikName": "ТИК Железнодорожного округа г. Курска"
+    "tikName": "ТИК Железнодорожного округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 20,
     "uikTvd": "446401179311",
+    "uikName": "УИК №20",
     "tikTvd": "2462000137675",
-    "tikName": "ТИК Железнодорожного округа г. Курска"
+    "tikName": "ТИК Железнодорожного округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 21,
     "uikTvd": "446401179312",
+    "uikName": "УИК №21",
     "tikTvd": "2462000137675",
-    "tikName": "ТИК Железнодорожного округа г. Курска"
+    "tikName": "ТИК Железнодорожного округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 22,
     "uikTvd": "446401179313",
+    "uikName": "УИК №22",
     "tikTvd": "2462000137675",
-    "tikName": "ТИК Железнодорожного округа г. Курска"
+    "tikName": "ТИК Железнодорожного округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 23,
     "uikTvd": "446401179314",
+    "uikName": "УИК №23",
     "tikTvd": "2462000137675",
-    "tikName": "ТИК Железнодорожного округа г. Курска"
+    "tikName": "ТИК Железнодорожного округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 24,
     "uikTvd": "446401179315",
+    "uikName": "УИК №24",
     "tikTvd": "2462000137675",
-    "tikName": "ТИК Железнодорожного округа г. Курска"
+    "tikName": "ТИК Железнодорожного округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 25,
     "uikTvd": "446401179316",
+    "uikName": "УИК №25",
     "tikTvd": "2462000137675",
-    "tikName": "ТИК Железнодорожного округа г. Курска"
+    "tikName": "ТИК Железнодорожного округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 26,
     "uikTvd": "446401179317",
+    "uikName": "УИК №26",
     "tikTvd": "2462000137675",
-    "tikName": "ТИК Железнодорожного округа г. Курска"
+    "tikName": "ТИК Железнодорожного округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 27,
     "uikTvd": "446401179318",
+    "uikName": "УИК №27",
     "tikTvd": "2462000137675",
-    "tikName": "ТИК Железнодорожного округа г. Курска"
+    "tikName": "ТИК Железнодорожного округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 28,
     "uikTvd": "446401179319",
+    "uikName": "УИК №28",
     "tikTvd": "2462000137675",
-    "tikName": "ТИК Железнодорожного округа г. Курска"
+    "tikName": "ТИК Железнодорожного округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 29,
     "uikTvd": "446401179320",
+    "uikName": "УИК №29",
     "tikTvd": "2462000137675",
-    "tikName": "ТИК Железнодорожного округа г. Курска"
+    "tikName": "ТИК Железнодорожного округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 30,
     "uikTvd": "446401179321",
+    "uikName": "УИК №30",
     "tikTvd": "2462000137675",
-    "tikName": "ТИК Железнодорожного округа г. Курска"
+    "tikName": "ТИК Железнодорожного округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 31,
     "uikTvd": "446401179322",
+    "uikName": "УИК №31",
     "tikTvd": "2462000137675",
-    "tikName": "ТИК Железнодорожного округа г. Курска"
+    "tikName": "ТИК Железнодорожного округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 32,
     "uikTvd": "446401179323",
+    "uikName": "УИК №32",
     "tikTvd": "2462000137675",
-    "tikName": "ТИК Железнодорожного округа г. Курска"
+    "tikName": "ТИК Железнодорожного округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 33,
     "uikTvd": "446401283738",
+    "uikName": "УИК №33",
     "tikTvd": "2462000137671",
-    "tikName": "ТИК  Сеймского округа г. Курска"
+    "tikName": "ТИК  Сеймского округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 34,
     "uikTvd": "446401283739",
+    "uikName": "УИК №34",
     "tikTvd": "2462000137671",
-    "tikName": "ТИК  Сеймского округа г. Курска"
+    "tikName": "ТИК  Сеймского округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 35,
     "uikTvd": "446401283740",
+    "uikName": "УИК №35",
     "tikTvd": "2462000137671",
-    "tikName": "ТИК  Сеймского округа г. Курска"
+    "tikName": "ТИК  Сеймского округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 36,
     "uikTvd": "446401283741",
+    "uikName": "УИК №36",
     "tikTvd": "2462000137671",
-    "tikName": "ТИК  Сеймского округа г. Курска"
+    "tikName": "ТИК  Сеймского округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 37,
     "uikTvd": "446401283742",
+    "uikName": "УИК №37",
     "tikTvd": "2462000137671",
-    "tikName": "ТИК  Сеймского округа г. Курска"
+    "tikName": "ТИК  Сеймского округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 38,
     "uikTvd": "446401283743",
+    "uikName": "УИК №38",
     "tikTvd": "2462000137671",
-    "tikName": "ТИК  Сеймского округа г. Курска"
+    "tikName": "ТИК  Сеймского округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 39,
     "uikTvd": "446401283744",
+    "uikName": "УИК №39",
     "tikTvd": "2462000137671",
-    "tikName": "ТИК  Сеймского округа г. Курска"
+    "tikName": "ТИК  Сеймского округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 40,
     "uikTvd": "446401283745",
+    "uikName": "УИК №40",
     "tikTvd": "2462000137671",
-    "tikName": "ТИК  Сеймского округа г. Курска"
+    "tikName": "ТИК  Сеймского округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 41,
     "uikTvd": "446401283746",
+    "uikName": "УИК №41",
     "tikTvd": "2462000137671",
-    "tikName": "ТИК  Сеймского округа г. Курска"
+    "tikName": "ТИК  Сеймского округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 42,
     "uikTvd": "446401283747",
+    "uikName": "УИК №42",
     "tikTvd": "2462000137671",
-    "tikName": "ТИК  Сеймского округа г. Курска"
+    "tikName": "ТИК  Сеймского округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 43,
     "uikTvd": "446401283748",
+    "uikName": "УИК №43",
     "tikTvd": "2462000137671",
-    "tikName": "ТИК  Сеймского округа г. Курска"
+    "tikName": "ТИК  Сеймского округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 44,
     "uikTvd": "446401283749",
+    "uikName": "УИК №44",
     "tikTvd": "2462000137671",
-    "tikName": "ТИК  Сеймского округа г. Курска"
+    "tikName": "ТИК  Сеймского округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 45,
     "uikTvd": "446401283750",
+    "uikName": "УИК №45",
     "tikTvd": "2462000137671",
-    "tikName": "ТИК  Сеймского округа г. Курска"
+    "tikName": "ТИК  Сеймского округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 46,
     "uikTvd": "446401283751",
+    "uikName": "УИК №46",
     "tikTvd": "2462000137671",
-    "tikName": "ТИК  Сеймского округа г. Курска"
+    "tikName": "ТИК  Сеймского округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 47,
     "uikTvd": "446401283752",
+    "uikName": "УИК №47",
     "tikTvd": "2462000137671",
-    "tikName": "ТИК  Сеймского округа г. Курска"
+    "tikName": "ТИК  Сеймского округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 48,
     "uikTvd": "446401283753",
+    "uikName": "УИК №48",
     "tikTvd": "2462000137671",
-    "tikName": "ТИК  Сеймского округа г. Курска"
+    "tikName": "ТИК  Сеймского округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 49,
     "uikTvd": "446401283754",
+    "uikName": "УИК №49",
     "tikTvd": "2462000137671",
-    "tikName": "ТИК  Сеймского округа г. Курска"
+    "tikName": "ТИК  Сеймского округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 50,
     "uikTvd": "446401283755",
+    "uikName": "УИК №50",
     "tikTvd": "2462000137671",
-    "tikName": "ТИК  Сеймского округа г. Курска"
+    "tikName": "ТИК  Сеймского округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 51,
     "uikTvd": "446401283756",
+    "uikName": "УИК №51",
     "tikTvd": "2462000137671",
-    "tikName": "ТИК  Сеймского округа г. Курска"
+    "tikName": "ТИК  Сеймского округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 52,
     "uikTvd": "446401283757",
+    "uikName": "УИК №52",
     "tikTvd": "2462000137671",
-    "tikName": "ТИК  Сеймского округа г. Курска"
+    "tikName": "ТИК  Сеймского округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 53,
     "uikTvd": "446401283758",
+    "uikName": "УИК №53",
     "tikTvd": "2462000137671",
-    "tikName": "ТИК  Сеймского округа г. Курска"
+    "tikName": "ТИК  Сеймского округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 54,
     "uikTvd": "446401283759",
+    "uikName": "УИК №54",
     "tikTvd": "2462000137671",
-    "tikName": "ТИК  Сеймского округа г. Курска"
+    "tikName": "ТИК  Сеймского округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 55,
     "uikTvd": "446401283760",
+    "uikName": "УИК №55",
     "tikTvd": "2462000137671",
-    "tikName": "ТИК  Сеймского округа г. Курска"
+    "tikName": "ТИК  Сеймского округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 56,
     "uikTvd": "446401283761",
+    "uikName": "УИК №56",
     "tikTvd": "2462000137671",
-    "tikName": "ТИК  Сеймского округа г. Курска"
+    "tikName": "ТИК  Сеймского округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 57,
     "uikTvd": "446401283762",
+    "uikName": "УИК №57",
     "tikTvd": "2462000137671",
-    "tikName": "ТИК  Сеймского округа г. Курска"
+    "tikName": "ТИК  Сеймского округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 58,
     "uikTvd": "446401283763",
+    "uikName": "УИК №58",
     "tikTvd": "2462000137671",
-    "tikName": "ТИК  Сеймского округа г. Курска"
+    "tikName": "ТИК  Сеймского округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 59,
     "uikTvd": "446401283764",
+    "uikName": "УИК №59",
     "tikTvd": "2462000137671",
-    "tikName": "ТИК  Сеймского округа г. Курска"
+    "tikName": "ТИК  Сеймского округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 60,
     "uikTvd": "446401283765",
+    "uikName": "УИК №60",
     "tikTvd": "2462000137671",
-    "tikName": "ТИК  Сеймского округа г. Курска"
+    "tikName": "ТИК  Сеймского округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 61,
     "uikTvd": "446401283766",
+    "uikName": "УИК №61",
     "tikTvd": "2462000137671",
-    "tikName": "ТИК  Сеймского округа г. Курска"
+    "tikName": "ТИК  Сеймского округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 62,
     "uikTvd": "446401283767",
+    "uikName": "УИК №62",
     "tikTvd": "2462000137671",
-    "tikName": "ТИК  Сеймского округа г. Курска"
+    "tikName": "ТИК  Сеймского округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 63,
     "uikTvd": "446401283768",
+    "uikName": "УИК №63",
     "tikTvd": "2462000137671",
-    "tikName": "ТИК  Сеймского округа г. Курска"
+    "tikName": "ТИК  Сеймского округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 64,
     "uikTvd": "446401283769",
+    "uikName": "УИК №64",
     "tikTvd": "2462000137671",
-    "tikName": "ТИК  Сеймского округа г. Курска"
+    "tikName": "ТИК  Сеймского округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 65,
     "uikTvd": "446401283770",
+    "uikName": "УИК №65",
     "tikTvd": "2462000137671",
-    "tikName": "ТИК  Сеймского округа г. Курска"
+    "tikName": "ТИК  Сеймского округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 66,
     "uikTvd": "446401283771",
+    "uikName": "УИК №66",
     "tikTvd": "2462000137671",
-    "tikName": "ТИК  Сеймского округа г. Курска"
+    "tikName": "ТИК  Сеймского округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 67,
     "uikTvd": "446401283772",
+    "uikName": "УИК №67",
     "tikTvd": "2462000137671",
-    "tikName": "ТИК  Сеймского округа г. Курска"
+    "tikName": "ТИК  Сеймского округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 68,
     "uikTvd": "446401283773",
+    "uikName": "УИК №68",
     "tikTvd": "2462000137671",
-    "tikName": "ТИК  Сеймского округа г. Курска"
+    "tikName": "ТИК  Сеймского округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 69,
     "uikTvd": "446401283774",
+    "uikName": "УИК №69",
     "tikTvd": "2462000137671",
-    "tikName": "ТИК  Сеймского округа г. Курска"
+    "tikName": "ТИК  Сеймского округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 70,
     "uikTvd": "446401283775",
+    "uikName": "УИК №70",
     "tikTvd": "2462000137671",
-    "tikName": "ТИК  Сеймского округа г. Курска"
+    "tikName": "ТИК  Сеймского округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 71,
     "uikTvd": "446401283776",
+    "uikName": "УИК №71",
     "tikTvd": "2462000137671",
-    "tikName": "ТИК  Сеймского округа г. Курска"
+    "tikName": "ТИК  Сеймского округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 72,
     "uikTvd": "446401283777",
+    "uikName": "УИК №72",
     "tikTvd": "2462000137671",
-    "tikName": "ТИК  Сеймского округа г. Курска"
+    "tikName": "ТИК  Сеймского округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 73,
     "uikTvd": "446401283778",
+    "uikName": "УИК №73",
     "tikTvd": "2462000137671",
-    "tikName": "ТИК  Сеймского округа г. Курска"
+    "tikName": "ТИК  Сеймского округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 74,
     "uikTvd": "446401283779",
+    "uikName": "УИК №74",
     "tikTvd": "2462000137671",
-    "tikName": "ТИК  Сеймского округа г. Курска"
+    "tikName": "ТИК  Сеймского округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 75,
     "uikTvd": "446401283780",
+    "uikName": "УИК №75",
     "tikTvd": "2462000137671",
-    "tikName": "ТИК  Сеймского округа г. Курска"
+    "tikName": "ТИК  Сеймского округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 76,
     "uikTvd": "446401283781",
+    "uikName": "УИК №76",
     "tikTvd": "2462000137671",
-    "tikName": "ТИК  Сеймского округа г. Курска"
+    "tikName": "ТИК  Сеймского округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 77,
     "uikTvd": "446401283782",
+    "uikName": "УИК №77",
     "tikTvd": "2462000137671",
-    "tikName": "ТИК  Сеймского округа г. Курска"
+    "tikName": "ТИК  Сеймского округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 78,
     "uikTvd": "446401283783",
+    "uikName": "УИК №78",
     "tikTvd": "2462000137671",
-    "tikName": "ТИК  Сеймского округа г. Курска"
+    "tikName": "ТИК  Сеймского округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 79,
     "uikTvd": "446401283784",
+    "uikName": "УИК №79",
     "tikTvd": "2462000137671",
-    "tikName": "ТИК  Сеймского округа г. Курска"
+    "tikName": "ТИК  Сеймского округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 80,
     "uikTvd": "446401283785",
+    "uikName": "УИК №80",
     "tikTvd": "2462000137671",
-    "tikName": "ТИК  Сеймского округа г. Курска"
+    "tikName": "ТИК  Сеймского округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 81,
     "uikTvd": "446401283786",
+    "uikName": "УИК №81",
     "tikTvd": "2462000137671",
-    "tikName": "ТИК  Сеймского округа г. Курска"
+    "tikName": "ТИК  Сеймского округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 82,
     "uikTvd": "446401283787",
+    "uikName": "УИК №82",
     "tikTvd": "2462000137671",
-    "tikName": "ТИК  Сеймского округа г. Курска"
+    "tikName": "ТИК  Сеймского округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 83,
     "uikTvd": "446401283788",
+    "uikName": "УИК №83",
     "tikTvd": "2462000137671",
-    "tikName": "ТИК  Сеймского округа г. Курска"
+    "tikName": "ТИК  Сеймского округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 84,
     "uikTvd": "446401283789",
+    "uikName": "УИК №84",
     "tikTvd": "2462000137671",
-    "tikName": "ТИК  Сеймского округа г. Курска"
+    "tikName": "ТИК  Сеймского округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 85,
     "uikTvd": "446401283790",
+    "uikName": "УИК №85",
     "tikTvd": "2462000137671",
-    "tikName": "ТИК  Сеймского округа г. Курска"
+    "tikName": "ТИК  Сеймского округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 86,
     "uikTvd": "446401283791",
+    "uikName": "УИК №86",
     "tikTvd": "2462000137671",
-    "tikName": "ТИК  Сеймского округа г. Курска"
+    "tikName": "ТИК  Сеймского округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 87,
     "uikTvd": "446401283792",
+    "uikName": "УИК №87",
     "tikTvd": "2462000137671",
-    "tikName": "ТИК  Сеймского округа г. Курска"
+    "tikName": "ТИК  Сеймского округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 88,
     "uikTvd": "446401283793",
+    "uikName": "УИК №88",
     "tikTvd": "2462000137671",
-    "tikName": "ТИК  Сеймского округа г. Курска"
+    "tikName": "ТИК  Сеймского округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 89,
     "uikTvd": "446401283794",
+    "uikName": "УИК №89",
     "tikTvd": "2462000137671",
-    "tikName": "ТИК  Сеймского округа г. Курска"
+    "tikName": "ТИК  Сеймского округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 90,
     "uikTvd": "446401283795",
+    "uikName": "УИК №90",
     "tikTvd": "2462000137671",
-    "tikName": "ТИК  Сеймского округа г. Курска"
+    "tikName": "ТИК  Сеймского округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 91,
     "uikTvd": "446401283796",
+    "uikName": "УИК №91",
     "tikTvd": "2462000137671",
-    "tikName": "ТИК  Сеймского округа г. Курска"
+    "tikName": "ТИК  Сеймского округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 92,
     "uikTvd": "446401283797",
+    "uikName": "УИК №92",
     "tikTvd": "2462000137671",
-    "tikName": "ТИК  Сеймского округа г. Курска"
+    "tikName": "ТИК  Сеймского округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 93,
     "uikTvd": "446401283798",
+    "uikName": "УИК №93",
     "tikTvd": "2462000137671",
-    "tikName": "ТИК  Сеймского округа г. Курска"
+    "tikName": "ТИК  Сеймского округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 94,
     "uikTvd": "446401283799",
+    "uikName": "УИК №94",
     "tikTvd": "2462000137671",
-    "tikName": "ТИК  Сеймского округа г. Курска"
+    "tikName": "ТИК  Сеймского округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 95,
     "uikTvd": "446401283800",
+    "uikName": "УИК №95",
     "tikTvd": "2462000137671",
-    "tikName": "ТИК  Сеймского округа г. Курска"
+    "tikName": "ТИК  Сеймского округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 96,
     "uikTvd": "446401283801",
+    "uikName": "УИК №96",
     "tikTvd": "2462000137671",
-    "tikName": "ТИК  Сеймского округа г. Курска"
+    "tikName": "ТИК  Сеймского округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 97,
     "uikTvd": "446401283802",
+    "uikName": "УИК №97",
     "tikTvd": "2462000137671",
-    "tikName": "ТИК  Сеймского округа г. Курска"
+    "tikName": "ТИК  Сеймского округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 98,
     "uikTvd": "446401384665",
+    "uikName": "УИК №98",
     "tikTvd": "2462000137670",
-    "tikName": "ТИК  Центрального округа г. Курска"
+    "tikName": "ТИК  Центрального округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 99,
     "uikTvd": "446401384666",
+    "uikName": "УИК №99",
     "tikTvd": "2462000137670",
-    "tikName": "ТИК  Центрального округа г. Курска"
+    "tikName": "ТИК  Центрального округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 100,
     "uikTvd": "446401384667",
+    "uikName": "УИК №100",
     "tikTvd": "2462000137670",
-    "tikName": "ТИК  Центрального округа г. Курска"
+    "tikName": "ТИК  Центрального округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 101,
     "uikTvd": "446401384668",
+    "uikName": "УИК №101",
     "tikTvd": "2462000137670",
-    "tikName": "ТИК  Центрального округа г. Курска"
+    "tikName": "ТИК  Центрального округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 102,
     "uikTvd": "446401384669",
+    "uikName": "УИК №102",
     "tikTvd": "2462000137670",
-    "tikName": "ТИК  Центрального округа г. Курска"
+    "tikName": "ТИК  Центрального округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 103,
     "uikTvd": "446401384670",
+    "uikName": "УИК №103",
     "tikTvd": "2462000137670",
-    "tikName": "ТИК  Центрального округа г. Курска"
+    "tikName": "ТИК  Центрального округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 104,
     "uikTvd": "446401384671",
+    "uikName": "УИК №104",
     "tikTvd": "2462000137670",
-    "tikName": "ТИК  Центрального округа г. Курска"
+    "tikName": "ТИК  Центрального округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 105,
     "uikTvd": "446401384672",
+    "uikName": "УИК №105",
     "tikTvd": "2462000137670",
-    "tikName": "ТИК  Центрального округа г. Курска"
+    "tikName": "ТИК  Центрального округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 106,
     "uikTvd": "446401384673",
+    "uikName": "УИК №106",
     "tikTvd": "2462000137670",
-    "tikName": "ТИК  Центрального округа г. Курска"
+    "tikName": "ТИК  Центрального округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 107,
     "uikTvd": "446401384674",
+    "uikName": "УИК №107",
     "tikTvd": "2462000137670",
-    "tikName": "ТИК  Центрального округа г. Курска"
+    "tikName": "ТИК  Центрального округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 108,
     "uikTvd": "446401384675",
+    "uikName": "УИК №108",
     "tikTvd": "2462000137670",
-    "tikName": "ТИК  Центрального округа г. Курска"
+    "tikName": "ТИК  Центрального округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 109,
     "uikTvd": "446401384676",
+    "uikName": "УИК №109",
     "tikTvd": "2462000137670",
-    "tikName": "ТИК  Центрального округа г. Курска"
+    "tikName": "ТИК  Центрального округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 110,
     "uikTvd": "446401384677",
+    "uikName": "УИК №110",
     "tikTvd": "2462000137670",
-    "tikName": "ТИК  Центрального округа г. Курска"
+    "tikName": "ТИК  Центрального округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 111,
     "uikTvd": "446401384678",
+    "uikName": "УИК №111",
     "tikTvd": "2462000137670",
-    "tikName": "ТИК  Центрального округа г. Курска"
+    "tikName": "ТИК  Центрального округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 112,
     "uikTvd": "446401384679",
+    "uikName": "УИК №112",
     "tikTvd": "2462000137670",
-    "tikName": "ТИК  Центрального округа г. Курска"
+    "tikName": "ТИК  Центрального округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 113,
     "uikTvd": "446401384680",
+    "uikName": "УИК №113",
     "tikTvd": "2462000137670",
-    "tikName": "ТИК  Центрального округа г. Курска"
+    "tikName": "ТИК  Центрального округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 114,
     "uikTvd": "446401384681",
+    "uikName": "УИК №114",
     "tikTvd": "2462000137670",
-    "tikName": "ТИК  Центрального округа г. Курска"
+    "tikName": "ТИК  Центрального округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 115,
     "uikTvd": "446401384682",
+    "uikName": "УИК №115",
     "tikTvd": "2462000137670",
-    "tikName": "ТИК  Центрального округа г. Курска"
+    "tikName": "ТИК  Центрального округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 116,
     "uikTvd": "446401384683",
+    "uikName": "УИК №116",
     "tikTvd": "2462000137670",
-    "tikName": "ТИК  Центрального округа г. Курска"
+    "tikName": "ТИК  Центрального округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 117,
     "uikTvd": "446401384684",
+    "uikName": "УИК №117",
     "tikTvd": "2462000137670",
-    "tikName": "ТИК  Центрального округа г. Курска"
+    "tikName": "ТИК  Центрального округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 118,
     "uikTvd": "446401384685",
+    "uikName": "УИК №118",
     "tikTvd": "2462000137670",
-    "tikName": "ТИК  Центрального округа г. Курска"
+    "tikName": "ТИК  Центрального округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 119,
     "uikTvd": "446401384686",
+    "uikName": "УИК №119",
     "tikTvd": "2462000137670",
-    "tikName": "ТИК  Центрального округа г. Курска"
+    "tikName": "ТИК  Центрального округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 120,
     "uikTvd": "446401384687",
+    "uikName": "УИК №120",
     "tikTvd": "2462000137670",
-    "tikName": "ТИК  Центрального округа г. Курска"
+    "tikName": "ТИК  Центрального округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 121,
     "uikTvd": "446401384688",
+    "uikName": "УИК №121",
     "tikTvd": "2462000137670",
-    "tikName": "ТИК  Центрального округа г. Курска"
+    "tikName": "ТИК  Центрального округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 122,
     "uikTvd": "446401384689",
+    "uikName": "УИК №122",
     "tikTvd": "2462000137670",
-    "tikName": "ТИК  Центрального округа г. Курска"
+    "tikName": "ТИК  Центрального округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 123,
     "uikTvd": "446401384690",
+    "uikName": "УИК №123",
     "tikTvd": "2462000137670",
-    "tikName": "ТИК  Центрального округа г. Курска"
+    "tikName": "ТИК  Центрального округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 124,
     "uikTvd": "446401384691",
+    "uikName": "УИК №124",
     "tikTvd": "2462000137670",
-    "tikName": "ТИК  Центрального округа г. Курска"
+    "tikName": "ТИК  Центрального округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 125,
     "uikTvd": "446401384692",
+    "uikName": "УИК №125",
     "tikTvd": "2462000137670",
-    "tikName": "ТИК  Центрального округа г. Курска"
+    "tikName": "ТИК  Центрального округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 126,
     "uikTvd": "446401384693",
+    "uikName": "УИК №126",
     "tikTvd": "2462000137670",
-    "tikName": "ТИК  Центрального округа г. Курска"
+    "tikName": "ТИК  Центрального округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 127,
     "uikTvd": "446401384694",
+    "uikName": "УИК №127",
     "tikTvd": "2462000137670",
-    "tikName": "ТИК  Центрального округа г. Курска"
+    "tikName": "ТИК  Центрального округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 128,
     "uikTvd": "446401384695",
+    "uikName": "УИК №128",
     "tikTvd": "2462000137670",
-    "tikName": "ТИК  Центрального округа г. Курска"
+    "tikName": "ТИК  Центрального округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 129,
     "uikTvd": "446401384696",
+    "uikName": "УИК №129",
     "tikTvd": "2462000137670",
-    "tikName": "ТИК  Центрального округа г. Курска"
+    "tikName": "ТИК  Центрального округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 130,
     "uikTvd": "446401384697",
+    "uikName": "УИК №130",
     "tikTvd": "2462000137670",
-    "tikName": "ТИК  Центрального округа г. Курска"
+    "tikName": "ТИК  Центрального округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 131,
     "uikTvd": "446401384698",
+    "uikName": "УИК №131",
     "tikTvd": "2462000137670",
-    "tikName": "ТИК  Центрального округа г. Курска"
+    "tikName": "ТИК  Центрального округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 132,
     "uikTvd": "446401384699",
+    "uikName": "УИК №132",
     "tikTvd": "2462000137670",
-    "tikName": "ТИК  Центрального округа г. Курска"
+    "tikName": "ТИК  Центрального округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 133,
     "uikTvd": "446401384700",
+    "uikName": "УИК №133",
     "tikTvd": "2462000137670",
-    "tikName": "ТИК  Центрального округа г. Курска"
+    "tikName": "ТИК  Центрального округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 134,
     "uikTvd": "446401384701",
+    "uikName": "УИК №134",
     "tikTvd": "2462000137670",
-    "tikName": "ТИК  Центрального округа г. Курска"
+    "tikName": "ТИК  Центрального округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 135,
     "uikTvd": "446401384702",
+    "uikName": "УИК №135",
     "tikTvd": "2462000137670",
-    "tikName": "ТИК  Центрального округа г. Курска"
+    "tikName": "ТИК  Центрального округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 136,
     "uikTvd": "446401384703",
+    "uikName": "УИК №136",
     "tikTvd": "2462000137670",
-    "tikName": "ТИК  Центрального округа г. Курска"
+    "tikName": "ТИК  Центрального округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 137,
     "uikTvd": "446401384704",
+    "uikName": "УИК №137",
     "tikTvd": "2462000137670",
-    "tikName": "ТИК  Центрального округа г. Курска"
+    "tikName": "ТИК  Центрального округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 138,
     "uikTvd": "446401384705",
+    "uikName": "УИК №138",
     "tikTvd": "2462000137670",
-    "tikName": "ТИК  Центрального округа г. Курска"
+    "tikName": "ТИК  Центрального округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 139,
     "uikTvd": "446401384706",
+    "uikName": "УИК №139",
     "tikTvd": "2462000137670",
-    "tikName": "ТИК  Центрального округа г. Курска"
+    "tikName": "ТИК  Центрального округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 140,
     "uikTvd": "446401384707",
+    "uikName": "УИК №140",
     "tikTvd": "2462000137670",
-    "tikName": "ТИК  Центрального округа г. Курска"
+    "tikName": "ТИК  Центрального округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 141,
     "uikTvd": "446401384708",
+    "uikName": "УИК №141",
     "tikTvd": "2462000137670",
-    "tikName": "ТИК  Центрального округа г. Курска"
+    "tikName": "ТИК  Центрального округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 142,
     "uikTvd": "446401384709",
+    "uikName": "УИК №142",
     "tikTvd": "2462000137670",
-    "tikName": "ТИК  Центрального округа г. Курска"
+    "tikName": "ТИК  Центрального округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 143,
     "uikTvd": "446401384710",
+    "uikName": "УИК №143",
     "tikTvd": "2462000137670",
-    "tikName": "ТИК  Центрального округа г. Курска"
+    "tikName": "ТИК  Центрального округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 144,
     "uikTvd": "446401384711",
+    "uikName": "УИК №144",
     "tikTvd": "2462000137670",
-    "tikName": "ТИК  Центрального округа г. Курска"
+    "tikName": "ТИК  Центрального округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 145,
     "uikTvd": "446401384712",
+    "uikName": "УИК №145",
     "tikTvd": "2462000137670",
-    "tikName": "ТИК  Центрального округа г. Курска"
+    "tikName": "ТИК  Центрального округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 146,
     "uikTvd": "446401384713",
+    "uikName": "УИК №146",
     "tikTvd": "2462000137670",
-    "tikName": "ТИК  Центрального округа г. Курска"
+    "tikName": "ТИК  Центрального округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 147,
     "uikTvd": "446401384714",
+    "uikName": "УИК №147",
     "tikTvd": "2462000137670",
-    "tikName": "ТИК  Центрального округа г. Курска"
+    "tikName": "ТИК  Центрального округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 148,
     "uikTvd": "446401384715",
+    "uikName": "УИК №148",
     "tikTvd": "2462000137670",
-    "tikName": "ТИК  Центрального округа г. Курска"
+    "tikName": "ТИК  Центрального округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 149,
     "uikTvd": "446401384716",
+    "uikName": "УИК №149",
     "tikTvd": "2462000137670",
-    "tikName": "ТИК  Центрального округа г. Курска"
+    "tikName": "ТИК  Центрального округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 150,
     "uikTvd": "446401384717",
+    "uikName": "УИК №150",
     "tikTvd": "2462000137670",
-    "tikName": "ТИК  Центрального округа г. Курска"
+    "tikName": "ТИК  Центрального округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 151,
     "uikTvd": "446401384718",
+    "uikName": "УИК №151",
     "tikTvd": "2462000137670",
-    "tikName": "ТИК  Центрального округа г. Курска"
+    "tikName": "ТИК  Центрального округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 152,
     "uikTvd": "446401384719",
+    "uikName": "УИК №152",
     "tikTvd": "2462000137670",
-    "tikName": "ТИК  Центрального округа г. Курска"
+    "tikName": "ТИК  Центрального округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 153,
     "uikTvd": "446401384720",
+    "uikName": "УИК №153",
     "tikTvd": "2462000137670",
-    "tikName": "ТИК  Центрального округа г. Курска"
+    "tikName": "ТИК  Центрального округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 154,
     "uikTvd": "446401384721",
+    "uikName": "УИК №154",
     "tikTvd": "2462000137670",
-    "tikName": "ТИК  Центрального округа г. Курска"
+    "tikName": "ТИК  Центрального округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 155,
     "uikTvd": "446401384722",
+    "uikName": "УИК №155",
     "tikTvd": "2462000137670",
-    "tikName": "ТИК  Центрального округа г. Курска"
+    "tikName": "ТИК  Центрального округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 156,
     "uikTvd": "446401384723",
+    "uikName": "УИК №156",
     "tikTvd": "2462000137670",
-    "tikName": "ТИК  Центрального округа г. Курска"
+    "tikName": "ТИК  Центрального округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 157,
     "uikTvd": "446401384724",
+    "uikName": "УИК №157",
     "tikTvd": "2462000137670",
-    "tikName": "ТИК  Центрального округа г. Курска"
+    "tikName": "ТИК  Центрального округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 158,
     "uikTvd": "446401384725",
+    "uikName": "УИК №158",
     "tikTvd": "2462000137670",
-    "tikName": "ТИК  Центрального округа г. Курска"
+    "tikName": "ТИК  Центрального округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 159,
     "uikTvd": "446401384726",
+    "uikName": "УИК №159",
     "tikTvd": "2462000137670",
-    "tikName": "ТИК  Центрального округа г. Курска"
+    "tikName": "ТИК  Центрального округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 160,
     "uikTvd": "446401384727",
+    "uikName": "УИК №160",
     "tikTvd": "2462000137670",
-    "tikName": "ТИК  Центрального округа г. Курска"
+    "tikName": "ТИК  Центрального округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 161,
     "uikTvd": "446401384728",
+    "uikName": "УИК №161",
     "tikTvd": "2462000137670",
-    "tikName": "ТИК  Центрального округа г. Курска"
+    "tikName": "ТИК  Центрального округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 162,
     "uikTvd": "446401384729",
+    "uikName": "УИК №162",
     "tikTvd": "2462000137670",
-    "tikName": "ТИК  Центрального округа г. Курска"
+    "tikName": "ТИК  Центрального округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 163,
     "uikTvd": "446401384730",
+    "uikName": "УИК №163",
     "tikTvd": "2462000137670",
-    "tikName": "ТИК  Центрального округа г. Курска"
+    "tikName": "ТИК  Центрального округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 164,
     "uikTvd": "446401384731",
+    "uikName": "УИК №164",
     "tikTvd": "2462000137670",
-    "tikName": "ТИК  Центрального округа г. Курска"
+    "tikName": "ТИК  Центрального округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 165,
     "uikTvd": "446401384732",
+    "uikName": "УИК №165",
     "tikTvd": "2462000137670",
-    "tikName": "ТИК  Центрального округа г. Курска"
+    "tikName": "ТИК  Центрального округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 166,
     "uikTvd": "446401384733",
+    "uikName": "УИК №166",
     "tikTvd": "2462000137670",
-    "tikName": "ТИК  Центрального округа г. Курска"
+    "tikName": "ТИК  Центрального округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 167,
     "uikTvd": "446401384734",
+    "uikName": "УИК №167",
     "tikTvd": "2462000137670",
-    "tikName": "ТИК  Центрального округа г. Курска"
+    "tikName": "ТИК  Центрального округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 168,
     "uikTvd": "446401384735",
+    "uikName": "УИК №168",
     "tikTvd": "2462000137670",
-    "tikName": "ТИК  Центрального округа г. Курска"
+    "tikName": "ТИК  Центрального округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 169,
     "uikTvd": "446401384736",
+    "uikName": "УИК №169",
     "tikTvd": "2462000137670",
-    "tikName": "ТИК  Центрального округа г. Курска"
+    "tikName": "ТИК  Центрального округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 170,
     "uikTvd": "446401384737",
+    "uikName": "УИК №170",
     "tikTvd": "2462000137670",
-    "tikName": "ТИК  Центрального округа г. Курска"
+    "tikName": "ТИК  Центрального округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 171,
     "uikTvd": "446401384738",
+    "uikName": "УИК №171",
     "tikTvd": "2462000137670",
-    "tikName": "ТИК  Центрального округа г. Курска"
+    "tikName": "ТИК  Центрального округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 172,
     "uikTvd": "446401384739",
+    "uikName": "УИК №172",
     "tikTvd": "2462000137670",
-    "tikName": "ТИК  Центрального округа г. Курска"
+    "tikName": "ТИК  Центрального округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 173,
     "uikTvd": "446401384740",
+    "uikName": "УИК №173",
     "tikTvd": "2462000137670",
-    "tikName": "ТИК  Центрального округа г. Курска"
+    "tikName": "ТИК  Центрального округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 174,
     "uikTvd": "446401384741",
+    "uikName": "УИК №174",
     "tikTvd": "2462000137670",
-    "tikName": "ТИК  Центрального округа г. Курска"
+    "tikName": "ТИК  Центрального округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 175,
     "uikTvd": "446401384742",
+    "uikName": "УИК №175",
     "tikTvd": "2462000137670",
-    "tikName": "ТИК  Центрального округа г. Курска"
+    "tikName": "ТИК  Центрального округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 176,
     "uikTvd": "446401384743",
+    "uikName": "УИК №176",
     "tikTvd": "2462000137670",
-    "tikName": "ТИК  Центрального округа г. Курска"
+    "tikName": "ТИК  Центрального округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 177,
     "uikTvd": "446401384744",
+    "uikName": "УИК №177",
     "tikTvd": "2462000137670",
-    "tikName": "ТИК  Центрального округа г. Курска"
+    "tikName": "ТИК  Центрального округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 178,
     "uikTvd": "446401384745",
+    "uikName": "УИК №178",
     "tikTvd": "2462000137670",
-    "tikName": "ТИК  Центрального округа г. Курска"
+    "tikName": "ТИК  Центрального округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 179,
     "uikTvd": "446401384746",
+    "uikName": "УИК №179",
     "tikTvd": "2462000137670",
-    "tikName": "ТИК  Центрального округа г. Курска"
+    "tikName": "ТИК  Центрального округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 180,
     "uikTvd": "446401384747",
+    "uikName": "УИК №180",
     "tikTvd": "2462000137670",
-    "tikName": "ТИК  Центрального округа г. Курска"
+    "tikName": "ТИК  Центрального округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 181,
     "uikTvd": "446401384748",
+    "uikName": "УИК №181",
     "tikTvd": "2462000137670",
-    "tikName": "ТИК  Центрального округа г. Курска"
+    "tikName": "ТИК  Центрального округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 182,
     "uikTvd": "446401384749",
+    "uikName": "УИК №182",
     "tikTvd": "2462000137670",
-    "tikName": "ТИК  Центрального округа г. Курска"
+    "tikName": "ТИК  Центрального округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 183,
     "uikTvd": "446401384750",
+    "uikName": "УИК №183",
     "tikTvd": "2462000137670",
-    "tikName": "ТИК  Центрального округа г. Курска"
+    "tikName": "ТИК  Центрального округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 184,
     "uikTvd": "446401384751",
+    "uikName": "УИК №184",
     "tikTvd": "2462000137670",
-    "tikName": "ТИК  Центрального округа г. Курска"
+    "tikName": "ТИК  Центрального округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 185,
     "uikTvd": "446401384752",
+    "uikName": "УИК №185",
     "tikTvd": "2462000137670",
-    "tikName": "ТИК  Центрального округа г. Курска"
+    "tikName": "ТИК  Центрального округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 186,
     "uikTvd": "446401384753",
+    "uikName": "УИК №186",
     "tikTvd": "2462000137670",
-    "tikName": "ТИК  Центрального округа г. Курска"
+    "tikName": "ТИК  Центрального округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 187,
     "uikTvd": "446401384754",
+    "uikName": "УИК №187",
     "tikTvd": "2462000137670",
-    "tikName": "ТИК  Центрального округа г. Курска"
+    "tikName": "ТИК  Центрального округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 188,
     "uikTvd": "446401384755",
+    "uikName": "УИК №188",
     "tikTvd": "2462000137670",
-    "tikName": "ТИК  Центрального округа г. Курска"
+    "tikName": "ТИК  Центрального округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 189,
     "uikTvd": "446401384756",
+    "uikName": "УИК №189",
     "tikTvd": "2462000137670",
-    "tikName": "ТИК  Центрального округа г. Курска"
+    "tikName": "ТИК  Центрального округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 190,
     "uikTvd": "446401384757",
+    "uikName": "УИК №190",
     "tikTvd": "2462000137670",
-    "tikName": "ТИК  Центрального округа г. Курска"
+    "tikName": "ТИК  Центрального округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 191,
     "uikTvd": "446401384758",
+    "uikName": "УИК №191",
     "tikTvd": "2462000137670",
-    "tikName": "ТИК  Центрального округа г. Курска"
+    "tikName": "ТИК  Центрального округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 192,
     "uikTvd": "446401384759",
+    "uikName": "УИК №192",
     "tikTvd": "2462000137670",
-    "tikName": "ТИК  Центрального округа г. Курска"
+    "tikName": "ТИК  Центрального округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 193,
     "uikTvd": "446401384760",
+    "uikName": "УИК №193",
     "tikTvd": "2462000137670",
-    "tikName": "ТИК  Центрального округа г. Курска"
+    "tikName": "ТИК  Центрального округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 194,
     "uikTvd": "446401384761",
+    "uikName": "УИК №194",
     "tikTvd": "2462000137670",
-    "tikName": "ТИК  Центрального округа г. Курска"
+    "tikName": "ТИК  Центрального округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 195,
     "uikTvd": "446401384762",
+    "uikName": "УИК №195",
     "tikTvd": "2462000137670",
-    "tikName": "ТИК  Центрального округа г. Курска"
+    "tikName": "ТИК  Центрального округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 196,
     "uikTvd": "446401384763",
+    "uikName": "УИК №196",
     "tikTvd": "2462000137670",
-    "tikName": "ТИК  Центрального округа г. Курска"
+    "tikName": "ТИК  Центрального округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 197,
     "uikTvd": "446401384764",
+    "uikName": "УИК №197",
     "tikTvd": "2462000137670",
-    "tikName": "ТИК  Центрального округа г. Курска"
+    "tikName": "ТИК  Центрального округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 198,
     "uikTvd": "446401384765",
+    "uikName": "УИК №198",
     "tikTvd": "2462000137670",
-    "tikName": "ТИК  Центрального округа г. Курска"
+    "tikName": "ТИК  Центрального округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 199,
     "uikTvd": "446400680665",
+    "uikName": "УИК №199",
     "tikTvd": "2462000137658",
-    "tikName": "Территориальная избирательная комиссия г. Железногорска"
+    "tikName": "Территориальная избирательная комиссия г. Железногорска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 200,
     "uikTvd": "446400680666",
+    "uikName": "УИК №200",
     "tikTvd": "2462000137658",
-    "tikName": "Территориальная избирательная комиссия г. Железногорска"
+    "tikName": "Территориальная избирательная комиссия г. Железногорска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 201,
     "uikTvd": "446400680667",
+    "uikName": "УИК №201",
     "tikTvd": "2462000137658",
-    "tikName": "Территориальная избирательная комиссия г. Железногорска"
+    "tikName": "Территориальная избирательная комиссия г. Железногорска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 202,
     "uikTvd": "446400680668",
+    "uikName": "УИК №202",
     "tikTvd": "2462000137658",
-    "tikName": "Территориальная избирательная комиссия г. Железногорска"
+    "tikName": "Территориальная избирательная комиссия г. Железногорска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 203,
     "uikTvd": "446400680669",
+    "uikName": "УИК №203",
     "tikTvd": "2462000137658",
-    "tikName": "Территориальная избирательная комиссия г. Железногорска"
+    "tikName": "Территориальная избирательная комиссия г. Железногорска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 204,
     "uikTvd": "446400680670",
+    "uikName": "УИК №204",
     "tikTvd": "2462000137658",
-    "tikName": "Территориальная избирательная комиссия г. Железногорска"
+    "tikName": "Территориальная избирательная комиссия г. Железногорска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 205,
     "uikTvd": "446400680671",
+    "uikName": "УИК №205",
     "tikTvd": "2462000137658",
-    "tikName": "Территориальная избирательная комиссия г. Железногорска"
+    "tikName": "Территориальная избирательная комиссия г. Железногорска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 206,
     "uikTvd": "446400680672",
+    "uikName": "УИК №206",
     "tikTvd": "2462000137658",
-    "tikName": "Территориальная избирательная комиссия г. Железногорска"
+    "tikName": "Территориальная избирательная комиссия г. Железногорска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 207,
     "uikTvd": "446400680673",
+    "uikName": "УИК №207",
     "tikTvd": "2462000137658",
-    "tikName": "Территориальная избирательная комиссия г. Железногорска"
+    "tikName": "Территориальная избирательная комиссия г. Железногорска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 208,
     "uikTvd": "446400680674",
+    "uikName": "УИК №208",
     "tikTvd": "2462000137658",
-    "tikName": "Территориальная избирательная комиссия г. Железногорска"
+    "tikName": "Территориальная избирательная комиссия г. Железногорска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 209,
     "uikTvd": "446400680675",
+    "uikName": "УИК №209",
     "tikTvd": "2462000137658",
-    "tikName": "Территориальная избирательная комиссия г. Железногорска"
+    "tikName": "Территориальная избирательная комиссия г. Железногорска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 210,
     "uikTvd": "446400680676",
+    "uikName": "УИК №210",
     "tikTvd": "2462000137658",
-    "tikName": "Территориальная избирательная комиссия г. Железногорска"
+    "tikName": "Территориальная избирательная комиссия г. Железногорска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 211,
     "uikTvd": "446400680677",
+    "uikName": "УИК №211",
     "tikTvd": "2462000137658",
-    "tikName": "Территориальная избирательная комиссия г. Железногорска"
+    "tikName": "Территориальная избирательная комиссия г. Железногорска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 212,
     "uikTvd": "446400680678",
+    "uikName": "УИК №212",
     "tikTvd": "2462000137658",
-    "tikName": "Территориальная избирательная комиссия г. Железногорска"
+    "tikName": "Территориальная избирательная комиссия г. Железногорска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 213,
     "uikTvd": "446400680679",
+    "uikName": "УИК №213",
     "tikTvd": "2462000137658",
-    "tikName": "Территориальная избирательная комиссия г. Железногорска"
+    "tikName": "Территориальная избирательная комиссия г. Железногорска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 214,
     "uikTvd": "446400680680",
+    "uikName": "УИК №214",
     "tikTvd": "2462000137658",
-    "tikName": "Территориальная избирательная комиссия г. Железногорска"
+    "tikName": "Территориальная избирательная комиссия г. Железногорска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 215,
     "uikTvd": "446400680681",
+    "uikName": "УИК №215",
     "tikTvd": "2462000137658",
-    "tikName": "Территориальная избирательная комиссия г. Железногорска"
+    "tikName": "Территориальная избирательная комиссия г. Железногорска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 216,
     "uikTvd": "446400680682",
+    "uikName": "УИК №216",
     "tikTvd": "2462000137658",
-    "tikName": "Территориальная избирательная комиссия г. Железногорска"
+    "tikName": "Территориальная избирательная комиссия г. Железногорска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 217,
     "uikTvd": "446400680683",
+    "uikName": "УИК №217",
     "tikTvd": "2462000137658",
-    "tikName": "Территориальная избирательная комиссия г. Железногорска"
+    "tikName": "Территориальная избирательная комиссия г. Железногорска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 218,
     "uikTvd": "446400680684",
+    "uikName": "УИК №218",
     "tikTvd": "2462000137658",
-    "tikName": "Территориальная избирательная комиссия г. Железногорска"
+    "tikName": "Территориальная избирательная комиссия г. Железногорска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 219,
     "uikTvd": "446400680685",
+    "uikName": "УИК №219",
     "tikTvd": "2462000137658",
-    "tikName": "Территориальная избирательная комиссия г. Железногорска"
+    "tikName": "Территориальная избирательная комиссия г. Железногорска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 220,
     "uikTvd": "446400680686",
+    "uikName": "УИК №220",
     "tikTvd": "2462000137658",
-    "tikName": "Территориальная избирательная комиссия г. Железногорска"
+    "tikName": "Территориальная избирательная комиссия г. Железногорска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 221,
     "uikTvd": "446400680687",
+    "uikName": "УИК №221",
     "tikTvd": "2462000137658",
-    "tikName": "Территориальная избирательная комиссия г. Железногорска"
+    "tikName": "Территориальная избирательная комиссия г. Железногорска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 222,
     "uikTvd": "446400680688",
+    "uikName": "УИК №222",
     "tikTvd": "2462000137658",
-    "tikName": "Территориальная избирательная комиссия г. Железногорска"
+    "tikName": "Территориальная избирательная комиссия г. Железногорска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 223,
     "uikTvd": "446400680689",
+    "uikName": "УИК №223",
     "tikTvd": "2462000137658",
-    "tikName": "Территориальная избирательная комиссия г. Железногорска"
+    "tikName": "Территориальная избирательная комиссия г. Железногорска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 224,
     "uikTvd": "446400680690",
+    "uikName": "УИК №224",
     "tikTvd": "2462000137658",
-    "tikName": "Территориальная избирательная комиссия г. Железногорска"
+    "tikName": "Территориальная избирательная комиссия г. Железногорска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 225,
     "uikTvd": "446400680691",
+    "uikName": "УИК №225",
     "tikTvd": "2462000137658",
-    "tikName": "Территориальная избирательная комиссия г. Железногорска"
+    "tikName": "Территориальная избирательная комиссия г. Железногорска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 226,
     "uikTvd": "446400680692",
+    "uikName": "УИК №226",
     "tikTvd": "2462000137658",
-    "tikName": "Территориальная избирательная комиссия г. Железногорска"
+    "tikName": "Территориальная избирательная комиссия г. Железногорска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 227,
     "uikTvd": "446400680693",
+    "uikName": "УИК №227",
     "tikTvd": "2462000137658",
-    "tikName": "Территориальная избирательная комиссия г. Железногорска"
+    "tikName": "Территориальная избирательная комиссия г. Железногорска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 228,
     "uikTvd": "446400680694",
+    "uikName": "УИК №228",
     "tikTvd": "2462000137658",
-    "tikName": "Территориальная избирательная комиссия г. Железногорска"
+    "tikName": "Территориальная избирательная комиссия г. Железногорска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 229,
     "uikTvd": "446400680695",
+    "uikName": "УИК №229",
     "tikTvd": "2462000137658",
-    "tikName": "Территориальная избирательная комиссия г. Железногорска"
+    "tikName": "Территориальная избирательная комиссия г. Железногорска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 230,
     "uikTvd": "446400680696",
+    "uikName": "УИК №230",
     "tikTvd": "2462000137658",
-    "tikName": "Территориальная избирательная комиссия г. Железногорска"
+    "tikName": "Территориальная избирательная комиссия г. Железногорска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 231,
     "uikTvd": "446400680697",
+    "uikName": "УИК №231",
     "tikTvd": "2462000137658",
-    "tikName": "Территориальная избирательная комиссия г. Железногорска"
+    "tikName": "Территориальная избирательная комиссия г. Железногорска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 232,
     "uikTvd": "446400680698",
+    "uikName": "УИК №232",
     "tikTvd": "2462000137658",
-    "tikName": "Территориальная избирательная комиссия г. Железногорска"
+    "tikName": "Территориальная избирательная комиссия г. Железногорска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 233,
     "uikTvd": "446400680699",
+    "uikName": "УИК №233",
     "tikTvd": "2462000137658",
-    "tikName": "Территориальная избирательная комиссия г. Железногорска"
+    "tikName": "Территориальная избирательная комиссия г. Железногорска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 234,
     "uikTvd": "446400680700",
+    "uikName": "УИК №234",
     "tikTvd": "2462000137658",
-    "tikName": "Территориальная избирательная комиссия г. Железногорска"
+    "tikName": "Территориальная избирательная комиссия г. Железногорска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 235,
     "uikTvd": "446400680701",
+    "uikName": "УИК №235",
     "tikTvd": "2462000137658",
-    "tikName": "Территориальная избирательная комиссия г. Железногорска"
+    "tikName": "Территориальная избирательная комиссия г. Железногорска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 236,
     "uikTvd": "446400680702",
+    "uikName": "УИК №236",
     "tikTvd": "2462000137658",
-    "tikName": "Территориальная избирательная комиссия г. Железногорска"
+    "tikName": "Территориальная избирательная комиссия г. Железногорска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 237,
     "uikTvd": "446400680703",
+    "uikName": "УИК №237",
     "tikTvd": "2462000137658",
-    "tikName": "Территориальная избирательная комиссия г. Железногорска"
+    "tikName": "Территориальная избирательная комиссия г. Железногорска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 238,
     "uikTvd": "446400680704",
+    "uikName": "УИК №238",
     "tikTvd": "2462000137658",
-    "tikName": "Территориальная избирательная комиссия г. Железногорска"
+    "tikName": "Территориальная избирательная комиссия г. Железногорска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 239,
     "uikTvd": "446400680705",
+    "uikName": "УИК №239",
     "tikTvd": "2462000137658",
-    "tikName": "Территориальная избирательная комиссия г. Железногорска"
+    "tikName": "Территориальная избирательная комиссия г. Железногорска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 240,
     "uikTvd": "446400680706",
+    "uikName": "УИК №240",
     "tikTvd": "2462000137658",
-    "tikName": "Территориальная избирательная комиссия г. Железногорска"
+    "tikName": "Территориальная избирательная комиссия г. Железногорска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 241,
     "uikTvd": "446400680707",
+    "uikName": "УИК №241",
     "tikTvd": "2462000137658",
-    "tikName": "Территориальная избирательная комиссия г. Железногорска"
+    "tikName": "Территориальная избирательная комиссия г. Железногорска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 242,
     "uikTvd": "446403382870",
+    "uikName": "УИК №242",
     "tikTvd": "2462000137685",
-    "tikName": "Территориальная избирательная комиссия г. Курчатова"
+    "tikName": "Территориальная избирательная комиссия г. Курчатова",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 243,
     "uikTvd": "446403382871",
+    "uikName": "УИК №243",
     "tikTvd": "2462000137685",
-    "tikName": "Территориальная избирательная комиссия г. Курчатова"
+    "tikName": "Территориальная избирательная комиссия г. Курчатова",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 244,
     "uikTvd": "446403382872",
+    "uikName": "УИК №244",
     "tikTvd": "2462000137685",
-    "tikName": "Территориальная избирательная комиссия г. Курчатова"
+    "tikName": "Территориальная избирательная комиссия г. Курчатова",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 245,
     "uikTvd": "446403382873",
+    "uikName": "УИК №245",
     "tikTvd": "2462000137685",
-    "tikName": "Территориальная избирательная комиссия г. Курчатова"
+    "tikName": "Территориальная избирательная комиссия г. Курчатова",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 246,
     "uikTvd": "446403382874",
+    "uikName": "УИК №246",
     "tikTvd": "2462000137685",
-    "tikName": "Территориальная избирательная комиссия г. Курчатова"
+    "tikName": "Территориальная избирательная комиссия г. Курчатова",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 247,
     "uikTvd": "446403382875",
+    "uikName": "УИК №247",
     "tikTvd": "2462000137685",
-    "tikName": "Территориальная избирательная комиссия г. Курчатова"
+    "tikName": "Территориальная избирательная комиссия г. Курчатова",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 248,
     "uikTvd": "446403382876",
+    "uikName": "УИК №248",
     "tikTvd": "2462000137685",
-    "tikName": "Территориальная избирательная комиссия г. Курчатова"
+    "tikName": "Территориальная избирательная комиссия г. Курчатова",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 249,
     "uikTvd": "446403382877",
+    "uikName": "УИК №249",
     "tikTvd": "2462000137685",
-    "tikName": "Территориальная избирательная комиссия г. Курчатова"
+    "tikName": "Территориальная избирательная комиссия г. Курчатова",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 250,
     "uikTvd": "446403382878",
+    "uikName": "УИК №250",
     "tikTvd": "2462000137685",
-    "tikName": "Территориальная избирательная комиссия г. Курчатова"
+    "tikName": "Территориальная избирательная комиссия г. Курчатова",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 251,
     "uikTvd": "446403382879",
+    "uikName": "УИК №251",
     "tikTvd": "2462000137685",
-    "tikName": "Территориальная избирательная комиссия г. Курчатова"
+    "tikName": "Территориальная избирательная комиссия г. Курчатова",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 252,
     "uikTvd": "446403382880",
+    "uikName": "УИК №252",
     "tikTvd": "2462000137685",
-    "tikName": "Территориальная избирательная комиссия г. Курчатова"
+    "tikName": "Территориальная избирательная комиссия г. Курчатова",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 253,
     "uikTvd": "446403382881",
+    "uikName": "УИК №253",
     "tikTvd": "2462000137685",
-    "tikName": "Территориальная избирательная комиссия г. Курчатова"
+    "tikName": "Территориальная избирательная комиссия г. Курчатова",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 254,
     "uikTvd": "446403382882",
+    "uikName": "УИК №254",
     "tikTvd": "2462000137685",
-    "tikName": "Территориальная избирательная комиссия г. Курчатова"
+    "tikName": "Территориальная избирательная комиссия г. Курчатова",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 255,
     "uikTvd": "446403382883",
+    "uikName": "УИК №255",
     "tikTvd": "2462000137685",
-    "tikName": "Территориальная избирательная комиссия г. Курчатова"
+    "tikName": "Территориальная избирательная комиссия г. Курчатова",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 256,
     "uikTvd": "446403382884",
+    "uikName": "УИК №256",
     "tikTvd": "2462000137685",
-    "tikName": "Территориальная избирательная комиссия г. Курчатова"
+    "tikName": "Территориальная избирательная комиссия г. Курчатова",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 257,
     "uikTvd": "446403382885",
+    "uikName": "УИК №257",
     "tikTvd": "2462000137685",
-    "tikName": "Территориальная избирательная комиссия г. Курчатова"
+    "tikName": "Территориальная избирательная комиссия г. Курчатова",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 258,
     "uikTvd": "446403382886",
+    "uikName": "УИК №258",
     "tikTvd": "2462000137685",
-    "tikName": "Территориальная избирательная комиссия г. Курчатова"
+    "tikName": "Территориальная избирательная комиссия г. Курчатова",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 259,
     "uikTvd": "446403382887",
+    "uikName": "УИК №259",
     "tikTvd": "2462000137685",
-    "tikName": "Территориальная избирательная комиссия г. Курчатова"
+    "tikName": "Территориальная избирательная комиссия г. Курчатова",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 260,
     "uikTvd": "446403382888",
+    "uikName": "УИК №260",
     "tikTvd": "2462000137685",
-    "tikName": "Территориальная избирательная комиссия г. Курчатова"
+    "tikName": "Территориальная избирательная комиссия г. Курчатова",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 261,
     "uikTvd": "446403382889",
+    "uikName": "УИК №261",
     "tikTvd": "2462000137685",
-    "tikName": "Территориальная избирательная комиссия г. Курчатова"
+    "tikName": "Территориальная избирательная комиссия г. Курчатова",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 262,
     "uikTvd": "446400182865",
+    "uikName": "УИК №262",
     "tikTvd": "2462000137655",
-    "tikName": "Территориальная избирательная комиссия Беловского района"
+    "tikName": "Территориальная избирательная комиссия Беловского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 263,
     "uikTvd": "446400182866",
+    "uikName": "УИК №263",
     "tikTvd": "2462000137655",
-    "tikName": "Территориальная избирательная комиссия Беловского района"
+    "tikName": "Территориальная избирательная комиссия Беловского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 264,
     "uikTvd": "446400182867",
+    "uikName": "УИК №264",
     "tikTvd": "2462000137655",
-    "tikName": "Территориальная избирательная комиссия Беловского района"
+    "tikName": "Территориальная избирательная комиссия Беловского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 265,
     "uikTvd": "446400182868",
+    "uikName": "УИК №265",
     "tikTvd": "2462000137655",
-    "tikName": "Территориальная избирательная комиссия Беловского района"
+    "tikName": "Территориальная избирательная комиссия Беловского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 266,
     "uikTvd": "446400182869",
+    "uikName": "УИК №266",
     "tikTvd": "2462000137655",
-    "tikName": "Территориальная избирательная комиссия Беловского района"
+    "tikName": "Территориальная избирательная комиссия Беловского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 267,
     "uikTvd": "446400182870",
+    "uikName": "УИК №267",
     "tikTvd": "2462000137655",
-    "tikName": "Территориальная избирательная комиссия Беловского района"
+    "tikName": "Территориальная избирательная комиссия Беловского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 268,
     "uikTvd": "446400182871",
+    "uikName": "УИК №268",
     "tikTvd": "2462000137655",
-    "tikName": "Территориальная избирательная комиссия Беловского района"
+    "tikName": "Территориальная избирательная комиссия Беловского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 269,
     "uikTvd": "446400182872",
+    "uikName": "УИК №269",
     "tikTvd": "2462000137655",
-    "tikName": "Территориальная избирательная комиссия Беловского района"
+    "tikName": "Территориальная избирательная комиссия Беловского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 270,
     "uikTvd": "446400182873",
+    "uikName": "УИК №270",
     "tikTvd": "2462000137655",
-    "tikName": "Территориальная избирательная комиссия Беловского района"
+    "tikName": "Территориальная избирательная комиссия Беловского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 271,
     "uikTvd": "446400182874",
+    "uikName": "УИК №271",
     "tikTvd": "2462000137655",
-    "tikName": "Территориальная избирательная комиссия Беловского района"
+    "tikName": "Территориальная избирательная комиссия Беловского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 272,
     "uikTvd": "446400182875",
+    "uikName": "УИК №272",
     "tikTvd": "2462000137655",
-    "tikName": "Территориальная избирательная комиссия Беловского района"
+    "tikName": "Территориальная избирательная комиссия Беловского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 273,
     "uikTvd": "446400182876",
+    "uikName": "УИК №273",
     "tikTvd": "2462000137655",
-    "tikName": "Территориальная избирательная комиссия Беловского района"
+    "tikName": "Территориальная избирательная комиссия Беловского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 274,
     "uikTvd": "446400182877",
+    "uikName": "УИК №274",
     "tikTvd": "2462000137655",
-    "tikName": "Территориальная избирательная комиссия Беловского района"
+    "tikName": "Территориальная избирательная комиссия Беловского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 275,
     "uikTvd": "446400182878",
+    "uikName": "УИК №275",
     "tikTvd": "2462000137655",
-    "tikName": "Территориальная избирательная комиссия Беловского района"
+    "tikName": "Территориальная избирательная комиссия Беловского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 276,
     "uikTvd": "446400182879",
+    "uikName": "УИК №276",
     "tikTvd": "2462000137655",
-    "tikName": "Территориальная избирательная комиссия Беловского района"
+    "tikName": "Территориальная избирательная комиссия Беловского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 277,
     "uikTvd": "446400182880",
+    "uikName": "УИК №277",
     "tikTvd": "2462000137655",
-    "tikName": "Территориальная избирательная комиссия Беловского района"
+    "tikName": "Территориальная избирательная комиссия Беловского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 278,
     "uikTvd": "446400182881",
+    "uikName": "УИК №278",
     "tikTvd": "2462000137655",
-    "tikName": "Территориальная избирательная комиссия Беловского района"
+    "tikName": "Территориальная избирательная комиссия Беловского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 279,
     "uikTvd": "446400182882",
+    "uikName": "УИК №279",
     "tikTvd": "2462000137655",
-    "tikName": "Территориальная избирательная комиссия Беловского района"
+    "tikName": "Территориальная избирательная комиссия Беловского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 280,
     "uikTvd": "446400182883",
+    "uikName": "УИК №280",
     "tikTvd": "2462000137655",
-    "tikName": "Территориальная избирательная комиссия Беловского района"
+    "tikName": "Территориальная избирательная комиссия Беловского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 281,
     "uikTvd": "446400182884",
+    "uikName": "УИК №281",
     "tikTvd": "2462000137655",
-    "tikName": "Территориальная избирательная комиссия Беловского района"
+    "tikName": "Территориальная избирательная комиссия Беловского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 282,
     "uikTvd": "446400182885",
+    "uikName": "УИК №282",
     "tikTvd": "2462000137655",
-    "tikName": "Территориальная избирательная комиссия Беловского района"
+    "tikName": "Территориальная избирательная комиссия Беловского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 283,
     "uikTvd": "446400182886",
+    "uikName": "УИК №283",
     "tikTvd": "2462000137655",
-    "tikName": "Территориальная избирательная комиссия Беловского района"
+    "tikName": "Территориальная избирательная комиссия Беловского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 284,
     "uikTvd": "446400182887",
+    "uikName": "УИК №284",
     "tikTvd": "2462000137655",
-    "tikName": "Территориальная избирательная комиссия Беловского района"
+    "tikName": "Территориальная избирательная комиссия Беловского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 285,
     "uikTvd": "446400182888",
+    "uikName": "УИК №285",
     "tikTvd": "2462000137655",
-    "tikName": "Территориальная избирательная комиссия Беловского района"
+    "tikName": "Территориальная избирательная комиссия Беловского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 286,
     "uikTvd": "446400182889",
+    "uikName": "УИК №286",
     "tikTvd": "2462000137655",
-    "tikName": "Территориальная избирательная комиссия Беловского района"
+    "tikName": "Территориальная избирательная комиссия Беловского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 287,
     "uikTvd": "446400182890",
+    "uikName": "УИК №287",
     "tikTvd": "2462000137655",
-    "tikName": "Территориальная избирательная комиссия Беловского района"
+    "tikName": "Территориальная избирательная комиссия Беловского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 288,
     "uikTvd": "446400182891",
+    "uikName": "УИК №288",
     "tikTvd": "2462000137655",
-    "tikName": "Территориальная избирательная комиссия Беловского района"
+    "tikName": "Территориальная избирательная комиссия Беловского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 289,
     "uikTvd": "446400182892",
+    "uikName": "УИК №289",
     "tikTvd": "2462000137655",
-    "tikName": "Территориальная избирательная комиссия Беловского района"
+    "tikName": "Территориальная избирательная комиссия Беловского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 290,
     "uikTvd": "446400182893",
+    "uikName": "УИК №290",
     "tikTvd": "2462000137655",
-    "tikName": "Территориальная избирательная комиссия Беловского района"
+    "tikName": "Территориальная избирательная комиссия Беловского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 291,
     "uikTvd": "446400182894",
+    "uikName": "УИК №291",
     "tikTvd": "2462000137655",
-    "tikName": "Территориальная избирательная комиссия Беловского района"
+    "tikName": "Территориальная избирательная комиссия Беловского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 292,
     "uikTvd": "446400182895",
+    "uikName": "УИК №292",
     "tikTvd": "2462000137655",
-    "tikName": "Территориальная избирательная комиссия Беловского района"
+    "tikName": "Территориальная избирательная комиссия Беловского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 293,
     "uikTvd": "446400280935",
+    "uikName": "УИК №293",
     "tikTvd": "2462000137666",
-    "tikName": "Территориальная избирательная комиссия Большесолдатского района "
+    "tikName": "Территориальная избирательная комиссия Большесолдатского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 294,
     "uikTvd": "446400280936",
+    "uikName": "УИК №294",
     "tikTvd": "2462000137666",
-    "tikName": "Территориальная избирательная комиссия Большесолдатского района "
+    "tikName": "Территориальная избирательная комиссия Большесолдатского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 295,
     "uikTvd": "446400280937",
+    "uikName": "УИК №295",
     "tikTvd": "2462000137666",
-    "tikName": "Территориальная избирательная комиссия Большесолдатского района "
+    "tikName": "Территориальная избирательная комиссия Большесолдатского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 296,
     "uikTvd": "446400280938",
+    "uikName": "УИК №296",
     "tikTvd": "2462000137666",
-    "tikName": "Территориальная избирательная комиссия Большесолдатского района "
+    "tikName": "Территориальная избирательная комиссия Большесолдатского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 297,
     "uikTvd": "446400280939",
+    "uikName": "УИК №297",
     "tikTvd": "2462000137666",
-    "tikName": "Территориальная избирательная комиссия Большесолдатского района "
+    "tikName": "Территориальная избирательная комиссия Большесолдатского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 298,
     "uikTvd": "446400280940",
+    "uikName": "УИК №298",
     "tikTvd": "2462000137666",
-    "tikName": "Территориальная избирательная комиссия Большесолдатского района "
+    "tikName": "Территориальная избирательная комиссия Большесолдатского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 299,
     "uikTvd": "446400280941",
+    "uikName": "УИК №299",
     "tikTvd": "2462000137666",
-    "tikName": "Территориальная избирательная комиссия Большесолдатского района "
+    "tikName": "Территориальная избирательная комиссия Большесолдатского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 300,
     "uikTvd": "446400280942",
+    "uikName": "УИК №300",
     "tikTvd": "2462000137666",
-    "tikName": "Территориальная избирательная комиссия Большесолдатского района "
+    "tikName": "Территориальная избирательная комиссия Большесолдатского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 301,
     "uikTvd": "446400280943",
+    "uikName": "УИК №301",
     "tikTvd": "2462000137666",
-    "tikName": "Территориальная избирательная комиссия Большесолдатского района "
+    "tikName": "Территориальная избирательная комиссия Большесолдатского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 302,
     "uikTvd": "446400280944",
+    "uikName": "УИК №302",
     "tikTvd": "2462000137666",
-    "tikName": "Территориальная избирательная комиссия Большесолдатского района "
+    "tikName": "Территориальная избирательная комиссия Большесолдатского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 303,
     "uikTvd": "446400280945",
+    "uikName": "УИК №303",
     "tikTvd": "2462000137666",
-    "tikName": "Территориальная избирательная комиссия Большесолдатского района "
+    "tikName": "Территориальная избирательная комиссия Большесолдатского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 304,
     "uikTvd": "446400280946",
+    "uikName": "УИК №304",
     "tikTvd": "2462000137666",
-    "tikName": "Территориальная избирательная комиссия Большесолдатского района "
+    "tikName": "Территориальная избирательная комиссия Большесолдатского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 305,
     "uikTvd": "446400280947",
+    "uikName": "УИК №305",
     "tikTvd": "2462000137666",
-    "tikName": "Территориальная избирательная комиссия Большесолдатского района "
+    "tikName": "Территориальная избирательная комиссия Большесолдатского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 306,
     "uikTvd": "446400280948",
+    "uikName": "УИК №306",
     "tikTvd": "2462000137666",
-    "tikName": "Территориальная избирательная комиссия Большесолдатского района "
+    "tikName": "Территориальная избирательная комиссия Большесолдатского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 307,
     "uikTvd": "446400280949",
+    "uikName": "УИК №307",
     "tikTvd": "2462000137666",
-    "tikName": "Территориальная избирательная комиссия Большесолдатского района "
+    "tikName": "Территориальная избирательная комиссия Большесолдатского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 308,
     "uikTvd": "446400280950",
+    "uikName": "УИК №308",
     "tikTvd": "2462000137666",
-    "tikName": "Территориальная избирательная комиссия Большесолдатского района "
+    "tikName": "Территориальная избирательная комиссия Большесолдатского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 309,
     "uikTvd": "446400280951",
+    "uikName": "УИК №309",
     "tikTvd": "2462000137666",
-    "tikName": "Территориальная избирательная комиссия Большесолдатского района "
+    "tikName": "Территориальная избирательная комиссия Большесолдатского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 310,
     "uikTvd": "446400280952",
+    "uikName": "УИК №310",
     "tikTvd": "2462000137666",
-    "tikName": "Территориальная избирательная комиссия Большесолдатского района "
+    "tikName": "Территориальная избирательная комиссия Большесолдатского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 311,
     "uikTvd": "446400280953",
+    "uikName": "УИК №311",
     "tikTvd": "2462000137666",
-    "tikName": "Территориальная избирательная комиссия Большесолдатского района "
+    "tikName": "Территориальная избирательная комиссия Большесолдатского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 312,
     "uikTvd": "446400280954",
+    "uikName": "УИК №312",
     "tikTvd": "2462000137666",
-    "tikName": "Территориальная избирательная комиссия Большесолдатского района "
+    "tikName": "Территориальная избирательная комиссия Большесолдатского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 313,
     "uikTvd": "446400280955",
+    "uikName": "УИК №313",
     "tikTvd": "2462000137666",
-    "tikName": "Территориальная избирательная комиссия Большесолдатского района "
+    "tikName": "Территориальная избирательная комиссия Большесолдатского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 314,
     "uikTvd": "446400280956",
+    "uikName": "УИК №314",
     "tikTvd": "2462000137666",
-    "tikName": "Территориальная избирательная комиссия Большесолдатского района "
+    "tikName": "Территориальная избирательная комиссия Большесолдатского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 315,
     "uikTvd": "446400280957",
+    "uikName": "УИК №315",
     "tikTvd": "2462000137666",
-    "tikName": "Территориальная избирательная комиссия Большесолдатского района "
+    "tikName": "Территориальная избирательная комиссия Большесолдатского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 316,
     "uikTvd": "446400280958",
+    "uikName": "УИК №316",
     "tikTvd": "2462000137666",
-    "tikName": "Территориальная избирательная комиссия Большесолдатского района "
+    "tikName": "Территориальная избирательная комиссия Большесолдатского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 317,
     "uikTvd": "446400280959",
+    "uikName": "УИК №317",
     "tikTvd": "2462000137666",
-    "tikName": "Территориальная избирательная комиссия Большесолдатского района "
+    "tikName": "Территориальная избирательная комиссия Большесолдатского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 318,
     "uikTvd": "446400280960",
+    "uikName": "УИК №318",
     "tikTvd": "2462000137666",
-    "tikName": "Территориальная избирательная комиссия Большесолдатского района "
+    "tikName": "Территориальная избирательная комиссия Большесолдатского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 319,
     "uikTvd": "446400280961",
+    "uikName": "УИК №319",
     "tikTvd": "2462000137666",
-    "tikName": "Территориальная избирательная комиссия Большесолдатского района "
+    "tikName": "Территориальная избирательная комиссия Большесолдатского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 320,
     "uikTvd": "446400280962",
+    "uikName": "УИК №320",
     "tikTvd": "2462000137666",
-    "tikName": "Территориальная избирательная комиссия Большесолдатского района "
+    "tikName": "Территориальная избирательная комиссия Большесолдатского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 321,
     "uikTvd": "446400280963",
+    "uikName": "УИК №321",
     "tikTvd": "2462000137666",
-    "tikName": "Территориальная избирательная комиссия Большесолдатского района "
+    "tikName": "Территориальная избирательная комиссия Большесолдатского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 322,
     "uikTvd": "446400280964",
+    "uikName": "УИК №322",
     "tikTvd": "2462000137666",
-    "tikName": "Территориальная избирательная комиссия Большесолдатского района "
+    "tikName": "Территориальная избирательная комиссия Большесолдатского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 323,
     "uikTvd": "446400280965",
+    "uikName": "УИК №323",
     "tikTvd": "2462000137666",
-    "tikName": "Территориальная избирательная комиссия Большесолдатского района "
+    "tikName": "Территориальная избирательная комиссия Большесолдатского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 324,
     "uikTvd": "446400383002",
+    "uikName": "УИК №324",
     "tikTvd": "2462000137662",
-    "tikName": "Территориальная избирательная комиссия Глушковского района"
+    "tikName": "Территориальная избирательная комиссия Глушковского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 325,
     "uikTvd": "446400383003",
+    "uikName": "УИК №325",
     "tikTvd": "2462000137662",
-    "tikName": "Территориальная избирательная комиссия Глушковского района"
+    "tikName": "Территориальная избирательная комиссия Глушковского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 326,
     "uikTvd": "446400383004",
+    "uikName": "УИК №326",
     "tikTvd": "2462000137662",
-    "tikName": "Территориальная избирательная комиссия Глушковского района"
+    "tikName": "Территориальная избирательная комиссия Глушковского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 327,
     "uikTvd": "446400383005",
+    "uikName": "УИК №327",
     "tikTvd": "2462000137662",
-    "tikName": "Территориальная избирательная комиссия Глушковского района"
+    "tikName": "Территориальная избирательная комиссия Глушковского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 328,
     "uikTvd": "446400383006",
+    "uikName": "УИК №328",
     "tikTvd": "2462000137662",
-    "tikName": "Территориальная избирательная комиссия Глушковского района"
+    "tikName": "Территориальная избирательная комиссия Глушковского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 329,
     "uikTvd": "446400383007",
+    "uikName": "УИК №329",
     "tikTvd": "2462000137662",
-    "tikName": "Территориальная избирательная комиссия Глушковского района"
+    "tikName": "Территориальная избирательная комиссия Глушковского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 330,
     "uikTvd": "446400383008",
+    "uikName": "УИК №330",
     "tikTvd": "2462000137662",
-    "tikName": "Территориальная избирательная комиссия Глушковского района"
+    "tikName": "Территориальная избирательная комиссия Глушковского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 331,
     "uikTvd": "446400383009",
+    "uikName": "УИК №331",
     "tikTvd": "2462000137662",
-    "tikName": "Территориальная избирательная комиссия Глушковского района"
+    "tikName": "Территориальная избирательная комиссия Глушковского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 332,
     "uikTvd": "446400383010",
+    "uikName": "УИК №332",
     "tikTvd": "2462000137662",
-    "tikName": "Территориальная избирательная комиссия Глушковского района"
+    "tikName": "Территориальная избирательная комиссия Глушковского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 333,
     "uikTvd": "446400383011",
+    "uikName": "УИК №333",
     "tikTvd": "2462000137662",
-    "tikName": "Территориальная избирательная комиссия Глушковского района"
+    "tikName": "Территориальная избирательная комиссия Глушковского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 334,
     "uikTvd": "446400383012",
+    "uikName": "УИК №334",
     "tikTvd": "2462000137662",
-    "tikName": "Территориальная избирательная комиссия Глушковского района"
+    "tikName": "Территориальная избирательная комиссия Глушковского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 335,
     "uikTvd": "446400383013",
+    "uikName": "УИК №335",
     "tikTvd": "2462000137662",
-    "tikName": "Территориальная избирательная комиссия Глушковского района"
+    "tikName": "Территориальная избирательная комиссия Глушковского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 336,
     "uikTvd": "446400383014",
+    "uikName": "УИК №336",
     "tikTvd": "2462000137662",
-    "tikName": "Территориальная избирательная комиссия Глушковского района"
+    "tikName": "Территориальная избирательная комиссия Глушковского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 337,
     "uikTvd": "446400383015",
+    "uikName": "УИК №337",
     "tikTvd": "2462000137662",
-    "tikName": "Территориальная избирательная комиссия Глушковского района"
+    "tikName": "Территориальная избирательная комиссия Глушковского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 338,
     "uikTvd": "446400383016",
+    "uikName": "УИК №338",
     "tikTvd": "2462000137662",
-    "tikName": "Территориальная избирательная комиссия Глушковского района"
+    "tikName": "Территориальная избирательная комиссия Глушковского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 339,
     "uikTvd": "446400383017",
+    "uikName": "УИК №339",
     "tikTvd": "2462000137662",
-    "tikName": "Территориальная избирательная комиссия Глушковского района"
+    "tikName": "Территориальная избирательная комиссия Глушковского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 340,
     "uikTvd": "446400383018",
+    "uikName": "УИК №340",
     "tikTvd": "2462000137662",
-    "tikName": "Территориальная избирательная комиссия Глушковского района"
+    "tikName": "Территориальная избирательная комиссия Глушковского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 341,
     "uikTvd": "446400383019",
+    "uikName": "УИК №341",
     "tikTvd": "2462000137662",
-    "tikName": "Территориальная избирательная комиссия Глушковского района"
+    "tikName": "Территориальная избирательная комиссия Глушковского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 342,
     "uikTvd": "446400383020",
+    "uikName": "УИК №342",
     "tikTvd": "2462000137662",
-    "tikName": "Территориальная избирательная комиссия Глушковского района"
+    "tikName": "Территориальная избирательная комиссия Глушковского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 343,
     "uikTvd": "446400383021",
+    "uikName": "УИК №343",
     "tikTvd": "2462000137662",
-    "tikName": "Территориальная избирательная комиссия Глушковского района"
+    "tikName": "Территориальная избирательная комиссия Глушковского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 344,
     "uikTvd": "446400383022",
+    "uikName": "УИК №344",
     "tikTvd": "2462000137662",
-    "tikName": "Территориальная избирательная комиссия Глушковского района"
+    "tikName": "Территориальная избирательная комиссия Глушковского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 345,
     "uikTvd": "446400383023",
+    "uikName": "УИК №345",
     "tikTvd": "2462000137662",
-    "tikName": "Территориальная избирательная комиссия Глушковского района"
+    "tikName": "Территориальная избирательная комиссия Глушковского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 346,
     "uikTvd": "446400383024",
+    "uikName": "УИК №346",
     "tikTvd": "2462000137662",
-    "tikName": "Территориальная избирательная комиссия Глушковского района"
+    "tikName": "Территориальная избирательная комиссия Глушковского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 347,
     "uikTvd": "446400383025",
+    "uikName": "УИК №347",
     "tikTvd": "2462000137662",
-    "tikName": "Территориальная избирательная комиссия Глушковского района"
+    "tikName": "Территориальная избирательная комиссия Глушковского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 348,
     "uikTvd": "446400383026",
+    "uikName": "УИК №348",
     "tikTvd": "2462000137662",
-    "tikName": "Территориальная избирательная комиссия Глушковского района"
+    "tikName": "Территориальная избирательная комиссия Глушковского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 349,
     "uikTvd": "446400383027",
+    "uikName": "УИК №349",
     "tikTvd": "2462000137662",
-    "tikName": "Территориальная избирательная комиссия Глушковского района"
+    "tikName": "Территориальная избирательная комиссия Глушковского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 350,
     "uikTvd": "446400383028",
+    "uikName": "УИК №350",
     "tikTvd": "2462000137662",
-    "tikName": "Территориальная избирательная комиссия Глушковского района"
+    "tikName": "Территориальная избирательная комиссия Глушковского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 351,
     "uikTvd": "446400383029",
+    "uikName": "УИК №351",
     "tikTvd": "2462000137662",
-    "tikName": "Территориальная избирательная комиссия Глушковского района"
+    "tikName": "Территориальная избирательная комиссия Глушковского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 352,
     "uikTvd": "446400482985",
+    "uikName": "УИК №352",
     "tikTvd": "2462000137663",
-    "tikName": "Территориальная избирательная комиссия Горшеченского района "
+    "tikName": "Территориальная избирательная комиссия Горшеченского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 353,
     "uikTvd": "446400482986",
+    "uikName": "УИК №353",
     "tikTvd": "2462000137663",
-    "tikName": "Территориальная избирательная комиссия Горшеченского района "
+    "tikName": "Территориальная избирательная комиссия Горшеченского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 354,
     "uikTvd": "446400482987",
+    "uikName": "УИК №354",
     "tikTvd": "2462000137663",
-    "tikName": "Территориальная избирательная комиссия Горшеченского района "
+    "tikName": "Территориальная избирательная комиссия Горшеченского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 355,
     "uikTvd": "446400482988",
+    "uikName": "УИК №355",
     "tikTvd": "2462000137663",
-    "tikName": "Территориальная избирательная комиссия Горшеченского района "
+    "tikName": "Территориальная избирательная комиссия Горшеченского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 356,
     "uikTvd": "446400482989",
+    "uikName": "УИК №356",
     "tikTvd": "2462000137663",
-    "tikName": "Территориальная избирательная комиссия Горшеченского района "
+    "tikName": "Территориальная избирательная комиссия Горшеченского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 357,
     "uikTvd": "446400482990",
+    "uikName": "УИК №357",
     "tikTvd": "2462000137663",
-    "tikName": "Территориальная избирательная комиссия Горшеченского района "
+    "tikName": "Территориальная избирательная комиссия Горшеченского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 358,
     "uikTvd": "446400482991",
+    "uikName": "УИК №358",
     "tikTvd": "2462000137663",
-    "tikName": "Территориальная избирательная комиссия Горшеченского района "
+    "tikName": "Территориальная избирательная комиссия Горшеченского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 359,
     "uikTvd": "446400482992",
+    "uikName": "УИК №359",
     "tikTvd": "2462000137663",
-    "tikName": "Территориальная избирательная комиссия Горшеченского района "
+    "tikName": "Территориальная избирательная комиссия Горшеченского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 360,
     "uikTvd": "446400482993",
+    "uikName": "УИК №360",
     "tikTvd": "2462000137663",
-    "tikName": "Территориальная избирательная комиссия Горшеченского района "
+    "tikName": "Территориальная избирательная комиссия Горшеченского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 361,
     "uikTvd": "446400482994",
+    "uikName": "УИК №361",
     "tikTvd": "2462000137663",
-    "tikName": "Территориальная избирательная комиссия Горшеченского района "
+    "tikName": "Территориальная избирательная комиссия Горшеченского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 362,
     "uikTvd": "446400482995",
+    "uikName": "УИК №362",
     "tikTvd": "2462000137663",
-    "tikName": "Территориальная избирательная комиссия Горшеченского района "
+    "tikName": "Территориальная избирательная комиссия Горшеченского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 363,
     "uikTvd": "446400482996",
+    "uikName": "УИК №363",
     "tikTvd": "2462000137663",
-    "tikName": "Территориальная избирательная комиссия Горшеченского района "
+    "tikName": "Территориальная избирательная комиссия Горшеченского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 364,
     "uikTvd": "446400482997",
+    "uikName": "УИК №364",
     "tikTvd": "2462000137663",
-    "tikName": "Территориальная избирательная комиссия Горшеченского района "
+    "tikName": "Территориальная избирательная комиссия Горшеченского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 365,
     "uikTvd": "446400482998",
+    "uikName": "УИК №365",
     "tikTvd": "2462000137663",
-    "tikName": "Территориальная избирательная комиссия Горшеченского района "
+    "tikName": "Территориальная избирательная комиссия Горшеченского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 366,
     "uikTvd": "446400482999",
+    "uikName": "УИК №366",
     "tikTvd": "2462000137663",
-    "tikName": "Территориальная избирательная комиссия Горшеченского района "
+    "tikName": "Территориальная избирательная комиссия Горшеченского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 367,
     "uikTvd": "446400483000",
+    "uikName": "УИК №367",
     "tikTvd": "2462000137663",
-    "tikName": "Территориальная избирательная комиссия Горшеченского района "
+    "tikName": "Территориальная избирательная комиссия Горшеченского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 368,
     "uikTvd": "446400483001",
+    "uikName": "УИК №368",
     "tikTvd": "2462000137663",
-    "tikName": "Территориальная избирательная комиссия Горшеченского района "
+    "tikName": "Территориальная избирательная комиссия Горшеченского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 369,
     "uikTvd": "446400483002",
+    "uikName": "УИК №369",
     "tikTvd": "2462000137663",
-    "tikName": "Территориальная избирательная комиссия Горшеченского района "
+    "tikName": "Территориальная избирательная комиссия Горшеченского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 370,
     "uikTvd": "446400483003",
+    "uikName": "УИК №370",
     "tikTvd": "2462000137663",
-    "tikName": "Территориальная избирательная комиссия Горшеченского района "
+    "tikName": "Территориальная избирательная комиссия Горшеченского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 371,
     "uikTvd": "446400483004",
+    "uikName": "УИК №371",
     "tikTvd": "2462000137663",
-    "tikName": "Территориальная избирательная комиссия Горшеченского района "
+    "tikName": "Территориальная избирательная комиссия Горшеченского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 372,
     "uikTvd": "446400483005",
+    "uikName": "УИК №372",
     "tikTvd": "2462000137663",
-    "tikName": "Территориальная избирательная комиссия Горшеченского района "
+    "tikName": "Территориальная избирательная комиссия Горшеченского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 373,
     "uikTvd": "446400483006",
+    "uikName": "УИК №373",
     "tikTvd": "2462000137663",
-    "tikName": "Территориальная избирательная комиссия Горшеченского района "
+    "tikName": "Территориальная избирательная комиссия Горшеченского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 374,
     "uikTvd": "446400483007",
+    "uikName": "УИК №374",
     "tikTvd": "2462000137663",
-    "tikName": "Территориальная избирательная комиссия Горшеченского района "
+    "tikName": "Территориальная избирательная комиссия Горшеченского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 375,
     "uikTvd": "446400483008",
+    "uikName": "УИК №375",
     "tikTvd": "2462000137663",
-    "tikName": "Территориальная избирательная комиссия Горшеченского района "
+    "tikName": "Территориальная избирательная комиссия Горшеченского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 376,
     "uikTvd": "446400483009",
+    "uikName": "УИК №376",
     "tikTvd": "2462000137663",
-    "tikName": "Территориальная избирательная комиссия Горшеченского района "
+    "tikName": "Территориальная избирательная комиссия Горшеченского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 377,
     "uikTvd": "446400483010",
+    "uikName": "УИК №377",
     "tikTvd": "2462000137663",
-    "tikName": "Территориальная избирательная комиссия Горшеченского района "
+    "tikName": "Территориальная избирательная комиссия Горшеченского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 378,
     "uikTvd": "446400483011",
+    "uikName": "УИК №378",
     "tikTvd": "2462000137663",
-    "tikName": "Территориальная избирательная комиссия Горшеченского района "
+    "tikName": "Территориальная избирательная комиссия Горшеченского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 379,
     "uikTvd": "446400483012",
+    "uikName": "УИК №379",
     "tikTvd": "2462000137663",
-    "tikName": "Территориальная избирательная комиссия Горшеченского района "
+    "tikName": "Территориальная избирательная комиссия Горшеченского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 380,
     "uikTvd": "446400483013",
+    "uikName": "УИК №380",
     "tikTvd": "2462000137663",
-    "tikName": "Территориальная избирательная комиссия Горшеченского района "
+    "tikName": "Территориальная избирательная комиссия Горшеченского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 381,
     "uikTvd": "446400483014",
+    "uikName": "УИК №381",
     "tikTvd": "2462000137663",
-    "tikName": "Территориальная избирательная комиссия Горшеченского района "
+    "tikName": "Территориальная избирательная комиссия Горшеченского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 382,
     "uikTvd": "446400483015",
+    "uikName": "УИК №382",
     "tikTvd": "2462000137663",
-    "tikName": "Территориальная избирательная комиссия Горшеченского района "
+    "tikName": "Территориальная избирательная комиссия Горшеченского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 383,
     "uikTvd": "446400483016",
+    "uikName": "УИК №383",
     "tikTvd": "2462000137663",
-    "tikName": "Территориальная избирательная комиссия Горшеченского района "
+    "tikName": "Территориальная избирательная комиссия Горшеченского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 384,
     "uikTvd": "446400483017",
+    "uikName": "УИК №384",
     "tikTvd": "2462000137663",
-    "tikName": "Территориальная избирательная комиссия Горшеченского района "
+    "tikName": "Территориальная избирательная комиссия Горшеченского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 385,
     "uikTvd": "446400483018",
+    "uikName": "УИК №385",
     "tikTvd": "2462000137663",
-    "tikName": "Территориальная избирательная комиссия Горшеченского района "
+    "tikName": "Территориальная избирательная комиссия Горшеченского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 386,
     "uikTvd": "446400483019",
+    "uikName": "УИК №386",
     "tikTvd": "2462000137663",
-    "tikName": "Территориальная избирательная комиссия Горшеченского района "
+    "tikName": "Территориальная избирательная комиссия Горшеченского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 387,
     "uikTvd": "446400483020",
+    "uikName": "УИК №387",
     "tikTvd": "2462000137663",
-    "tikName": "Территориальная избирательная комиссия Горшеченского района "
+    "tikName": "Территориальная избирательная комиссия Горшеченского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 388,
     "uikTvd": "446400483021",
+    "uikName": "УИК №388",
     "tikTvd": "2462000137663",
-    "tikName": "Территориальная избирательная комиссия Горшеченского района "
+    "tikName": "Территориальная избирательная комиссия Горшеченского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 389,
     "uikTvd": "446400483022",
+    "uikName": "УИК №389",
     "tikTvd": "2462000137663",
-    "tikName": "Территориальная избирательная комиссия Горшеченского района "
+    "tikName": "Территориальная избирательная комиссия Горшеченского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 390,
     "uikTvd": "446400584248",
+    "uikName": "УИК №390",
     "tikTvd": "2462000137661",
-    "tikName": "Территориальная избирательная комиссия Дмитриевского района"
+    "tikName": "Территориальная избирательная комиссия Дмитриевского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 391,
     "uikTvd": "446400584249",
+    "uikName": "УИК №391",
     "tikTvd": "2462000137661",
-    "tikName": "Территориальная избирательная комиссия Дмитриевского района"
+    "tikName": "Территориальная избирательная комиссия Дмитриевского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 392,
     "uikTvd": "446400584250",
+    "uikName": "УИК №392",
     "tikTvd": "2462000137661",
-    "tikName": "Территориальная избирательная комиссия Дмитриевского района"
+    "tikName": "Территориальная избирательная комиссия Дмитриевского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 393,
     "uikTvd": "446400584251",
+    "uikName": "УИК №393",
     "tikTvd": "2462000137661",
-    "tikName": "Территориальная избирательная комиссия Дмитриевского района"
+    "tikName": "Территориальная избирательная комиссия Дмитриевского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 394,
     "uikTvd": "446400584252",
+    "uikName": "УИК №394",
     "tikTvd": "2462000137661",
-    "tikName": "Территориальная избирательная комиссия Дмитриевского района"
+    "tikName": "Территориальная избирательная комиссия Дмитриевского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 395,
     "uikTvd": "446400584253",
+    "uikName": "УИК №395",
     "tikTvd": "2462000137661",
-    "tikName": "Территориальная избирательная комиссия Дмитриевского района"
+    "tikName": "Территориальная избирательная комиссия Дмитриевского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 396,
     "uikTvd": "446400584254",
+    "uikName": "УИК №396",
     "tikTvd": "2462000137661",
-    "tikName": "Территориальная избирательная комиссия Дмитриевского района"
+    "tikName": "Территориальная избирательная комиссия Дмитриевского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 397,
     "uikTvd": "446400584255",
+    "uikName": "УИК №397",
     "tikTvd": "2462000137661",
-    "tikName": "Территориальная избирательная комиссия Дмитриевского района"
+    "tikName": "Территориальная избирательная комиссия Дмитриевского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 398,
     "uikTvd": "446400584256",
+    "uikName": "УИК №398",
     "tikTvd": "2462000137661",
-    "tikName": "Территориальная избирательная комиссия Дмитриевского района"
+    "tikName": "Территориальная избирательная комиссия Дмитриевского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 399,
     "uikTvd": "446400584257",
+    "uikName": "УИК №399",
     "tikTvd": "2462000137661",
-    "tikName": "Территориальная избирательная комиссия Дмитриевского района"
+    "tikName": "Территориальная избирательная комиссия Дмитриевского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 400,
     "uikTvd": "446400584258",
+    "uikName": "УИК №400",
     "tikTvd": "2462000137661",
-    "tikName": "Территориальная избирательная комиссия Дмитриевского района"
+    "tikName": "Территориальная избирательная комиссия Дмитриевского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 401,
     "uikTvd": "446400584259",
+    "uikName": "УИК №401",
     "tikTvd": "2462000137661",
-    "tikName": "Территориальная избирательная комиссия Дмитриевского района"
+    "tikName": "Территориальная избирательная комиссия Дмитриевского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 402,
     "uikTvd": "446400584260",
+    "uikName": "УИК №402",
     "tikTvd": "2462000137661",
-    "tikName": "Территориальная избирательная комиссия Дмитриевского района"
+    "tikName": "Территориальная избирательная комиссия Дмитриевского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 403,
     "uikTvd": "446400584261",
+    "uikName": "УИК №403",
     "tikTvd": "2462000137661",
-    "tikName": "Территориальная избирательная комиссия Дмитриевского района"
+    "tikName": "Территориальная избирательная комиссия Дмитриевского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 404,
     "uikTvd": "446400584262",
+    "uikName": "УИК №404",
     "tikTvd": "2462000137661",
-    "tikName": "Территориальная избирательная комиссия Дмитриевского района"
+    "tikName": "Территориальная избирательная комиссия Дмитриевского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 405,
     "uikTvd": "446400584263",
+    "uikName": "УИК №405",
     "tikTvd": "2462000137661",
-    "tikName": "Территориальная избирательная комиссия Дмитриевского района"
+    "tikName": "Территориальная избирательная комиссия Дмитриевского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 406,
     "uikTvd": "446400584264",
+    "uikName": "УИК №406",
     "tikTvd": "2462000137661",
-    "tikName": "Территориальная избирательная комиссия Дмитриевского района"
+    "tikName": "Территориальная избирательная комиссия Дмитриевского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 407,
     "uikTvd": "446400584265",
+    "uikName": "УИК №407",
     "tikTvd": "2462000137661",
-    "tikName": "Территориальная избирательная комиссия Дмитриевского района"
+    "tikName": "Территориальная избирательная комиссия Дмитриевского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 408,
     "uikTvd": "446400584266",
+    "uikName": "УИК №408",
     "tikTvd": "2462000137661",
-    "tikName": "Территориальная избирательная комиссия Дмитриевского района"
+    "tikName": "Территориальная избирательная комиссия Дмитриевского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 409,
     "uikTvd": "446400584267",
+    "uikName": "УИК №409",
     "tikTvd": "2462000137661",
-    "tikName": "Территориальная избирательная комиссия Дмитриевского района"
+    "tikName": "Территориальная избирательная комиссия Дмитриевского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 410,
     "uikTvd": "446400584268",
+    "uikName": "УИК №410",
     "tikTvd": "2462000137661",
-    "tikName": "Территориальная избирательная комиссия Дмитриевского района"
+    "tikName": "Территориальная избирательная комиссия Дмитриевского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 411,
     "uikTvd": "446400584269",
+    "uikName": "УИК №411",
     "tikTvd": "2462000137661",
-    "tikName": "Территориальная избирательная комиссия Дмитриевского района"
+    "tikName": "Территориальная избирательная комиссия Дмитриевского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 412,
     "uikTvd": "446400584270",
+    "uikName": "УИК №412",
     "tikTvd": "2462000137661",
-    "tikName": "Территориальная избирательная комиссия Дмитриевского района"
+    "tikName": "Территориальная избирательная комиссия Дмитриевского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 413,
     "uikTvd": "446400584271",
+    "uikName": "УИК №413",
     "tikTvd": "2462000137661",
-    "tikName": "Территориальная избирательная комиссия Дмитриевского района"
+    "tikName": "Территориальная избирательная комиссия Дмитриевского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 414,
     "uikTvd": "446400584272",
+    "uikName": "УИК №414",
     "tikTvd": "2462000137661",
-    "tikName": "Территориальная избирательная комиссия Дмитриевского района"
+    "tikName": "Территориальная избирательная комиссия Дмитриевского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 415,
     "uikTvd": "446400584273",
+    "uikName": "УИК №415",
     "tikTvd": "2462000137661",
-    "tikName": "Территориальная избирательная комиссия Дмитриевского района"
+    "tikName": "Территориальная избирательная комиссия Дмитриевского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 416,
     "uikTvd": "446400584274",
+    "uikName": "УИК №416",
     "tikTvd": "2462000137661",
-    "tikName": "Территориальная избирательная комиссия Дмитриевского района"
+    "tikName": "Территориальная избирательная комиссия Дмитриевского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 417,
     "uikTvd": "446400584275",
+    "uikName": "УИК №417",
     "tikTvd": "2462000137661",
-    "tikName": "Территориальная избирательная комиссия Дмитриевского района"
+    "tikName": "Территориальная избирательная комиссия Дмитриевского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 418,
     "uikTvd": "446400584276",
+    "uikName": "УИК №418",
     "tikTvd": "2462000137661",
-    "tikName": "Территориальная избирательная комиссия Дмитриевского района"
+    "tikName": "Территориальная избирательная комиссия Дмитриевского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 419,
     "uikTvd": "446400584277",
+    "uikName": "УИК №419",
     "tikTvd": "2462000137661",
-    "tikName": "Территориальная избирательная комиссия Дмитриевского района"
+    "tikName": "Территориальная избирательная комиссия Дмитриевского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 420,
     "uikTvd": "446403282808",
+    "uikName": "УИК №420",
     "tikTvd": "2462000137684",
-    "tikName": "Территориальная избирательная комиссия  Железногорского района"
+    "tikName": "Территориальная избирательная комиссия  Железногорского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 421,
     "uikTvd": "446403282809",
+    "uikName": "УИК №421",
     "tikTvd": "2462000137684",
-    "tikName": "Территориальная избирательная комиссия  Железногорского района"
+    "tikName": "Территориальная избирательная комиссия  Железногорского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 422,
     "uikTvd": "446403282810",
+    "uikName": "УИК №422",
     "tikTvd": "2462000137684",
-    "tikName": "Территориальная избирательная комиссия  Железногорского района"
+    "tikName": "Территориальная избирательная комиссия  Железногорского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 423,
     "uikTvd": "446403282811",
+    "uikName": "УИК №423",
     "tikTvd": "2462000137684",
-    "tikName": "Территориальная избирательная комиссия  Железногорского района"
+    "tikName": "Территориальная избирательная комиссия  Железногорского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 424,
     "uikTvd": "446403282812",
+    "uikName": "УИК №424",
     "tikTvd": "2462000137684",
-    "tikName": "Территориальная избирательная комиссия  Железногорского района"
+    "tikName": "Территориальная избирательная комиссия  Железногорского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 425,
     "uikTvd": "446403282813",
+    "uikName": "УИК №425",
     "tikTvd": "2462000137684",
-    "tikName": "Территориальная избирательная комиссия  Железногорского района"
+    "tikName": "Территориальная избирательная комиссия  Железногорского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 426,
     "uikTvd": "446403282814",
+    "uikName": "УИК №426",
     "tikTvd": "2462000137684",
-    "tikName": "Территориальная избирательная комиссия  Железногорского района"
+    "tikName": "Территориальная избирательная комиссия  Железногорского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 427,
     "uikTvd": "446403282815",
+    "uikName": "УИК №427",
     "tikTvd": "2462000137684",
-    "tikName": "Территориальная избирательная комиссия  Железногорского района"
+    "tikName": "Территориальная избирательная комиссия  Железногорского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 428,
     "uikTvd": "446403282816",
+    "uikName": "УИК №428",
     "tikTvd": "2462000137684",
-    "tikName": "Территориальная избирательная комиссия  Железногорского района"
+    "tikName": "Территориальная избирательная комиссия  Железногорского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 429,
     "uikTvd": "446403282817",
+    "uikName": "УИК №429",
     "tikTvd": "2462000137684",
-    "tikName": "Территориальная избирательная комиссия  Железногорского района"
+    "tikName": "Территориальная избирательная комиссия  Железногорского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 430,
     "uikTvd": "446403282818",
+    "uikName": "УИК №430",
     "tikTvd": "2462000137684",
-    "tikName": "Территориальная избирательная комиссия  Железногорского района"
+    "tikName": "Территориальная избирательная комиссия  Железногорского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 431,
     "uikTvd": "446403282819",
+    "uikName": "УИК №431",
     "tikTvd": "2462000137684",
-    "tikName": "Территориальная избирательная комиссия  Железногорского района"
+    "tikName": "Территориальная избирательная комиссия  Железногорского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 432,
     "uikTvd": "446403282820",
+    "uikName": "УИК №432",
     "tikTvd": "2462000137684",
-    "tikName": "Территориальная избирательная комиссия  Железногорского района"
+    "tikName": "Территориальная избирательная комиссия  Железногорского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 433,
     "uikTvd": "446403282821",
+    "uikName": "УИК №433",
     "tikTvd": "2462000137684",
-    "tikName": "Территориальная избирательная комиссия  Железногорского района"
+    "tikName": "Территориальная избирательная комиссия  Железногорского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 434,
     "uikTvd": "446403282822",
+    "uikName": "УИК №434",
     "tikTvd": "2462000137684",
-    "tikName": "Территориальная избирательная комиссия  Железногорского района"
+    "tikName": "Территориальная избирательная комиссия  Железногорского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 435,
     "uikTvd": "446403282823",
+    "uikName": "УИК №435",
     "tikTvd": "2462000137684",
-    "tikName": "Территориальная избирательная комиссия  Железногорского района"
+    "tikName": "Территориальная избирательная комиссия  Железногорского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 436,
     "uikTvd": "446403282824",
+    "uikName": "УИК №436",
     "tikTvd": "2462000137684",
-    "tikName": "Территориальная избирательная комиссия  Железногорского района"
+    "tikName": "Территориальная избирательная комиссия  Железногорского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 437,
     "uikTvd": "446403282825",
+    "uikName": "УИК №437",
     "tikTvd": "2462000137684",
-    "tikName": "Территориальная избирательная комиссия  Железногорского района"
+    "tikName": "Территориальная избирательная комиссия  Железногорского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 438,
     "uikTvd": "446403282826",
+    "uikName": "УИК №438",
     "tikTvd": "2462000137684",
-    "tikName": "Территориальная избирательная комиссия  Железногорского района"
+    "tikName": "Территориальная избирательная комиссия  Железногорского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 439,
     "uikTvd": "446403282827",
+    "uikName": "УИК №439",
     "tikTvd": "2462000137684",
-    "tikName": "Территориальная избирательная комиссия  Железногорского района"
+    "tikName": "Территориальная избирательная комиссия  Железногорского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 440,
     "uikTvd": "446403282828",
+    "uikName": "УИК №440",
     "tikTvd": "2462000137684",
-    "tikName": "Территориальная избирательная комиссия  Железногорского района"
+    "tikName": "Территориальная избирательная комиссия  Железногорского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 441,
     "uikTvd": "446403282829",
+    "uikName": "УИК №441",
     "tikTvd": "2462000137684",
-    "tikName": "Территориальная избирательная комиссия  Железногорского района"
+    "tikName": "Территориальная избирательная комиссия  Железногорского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 442,
     "uikTvd": "446403282830",
+    "uikName": "УИК №442",
     "tikTvd": "2462000137684",
-    "tikName": "Территориальная избирательная комиссия  Железногорского района"
+    "tikName": "Территориальная избирательная комиссия  Железногорского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 443,
     "uikTvd": "446403282831",
+    "uikName": "УИК №443",
     "tikTvd": "2462000137684",
-    "tikName": "Территориальная избирательная комиссия  Железногорского района"
+    "tikName": "Территориальная избирательная комиссия  Железногорского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 444,
     "uikTvd": "446403282832",
+    "uikName": "УИК №444",
     "tikTvd": "2462000137684",
-    "tikName": "Территориальная избирательная комиссия  Железногорского района"
+    "tikName": "Территориальная избирательная комиссия  Железногорского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 445,
     "uikTvd": "446403282833",
+    "uikName": "УИК №445",
     "tikTvd": "2462000137684",
-    "tikName": "Территориальная избирательная комиссия  Железногорского района"
+    "tikName": "Территориальная избирательная комиссия  Железногорского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 446,
     "uikTvd": "446403282834",
+    "uikName": "УИК №446",
     "tikTvd": "2462000137684",
-    "tikName": "Территориальная избирательная комиссия  Железногорского района"
+    "tikName": "Территориальная избирательная комиссия  Железногорского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 447,
     "uikTvd": "446403282835",
+    "uikName": "УИК №447",
     "tikTvd": "2462000137684",
-    "tikName": "Территориальная избирательная комиссия  Железногорского района"
+    "tikName": "Территориальная избирательная комиссия  Железногорского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 448,
     "uikTvd": "446403282836",
+    "uikName": "УИК №448",
     "tikTvd": "2462000137684",
-    "tikName": "Территориальная избирательная комиссия  Железногорского района"
+    "tikName": "Территориальная избирательная комиссия  Железногорского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 449,
     "uikTvd": "446403282837",
+    "uikName": "УИК №449",
     "tikTvd": "2462000137684",
-    "tikName": "Территориальная избирательная комиссия  Железногорского района"
+    "tikName": "Территориальная избирательная комиссия  Железногорского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 450,
     "uikTvd": "446400785597",
+    "uikName": "УИК №450",
     "tikTvd": "2462000137660",
-    "tikName": "Территориальная избирательная комиссия Золотухинского района "
+    "tikName": "Территориальная избирательная комиссия Золотухинского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 451,
     "uikTvd": "446400785598",
+    "uikName": "УИК №451",
     "tikTvd": "2462000137660",
-    "tikName": "Территориальная избирательная комиссия Золотухинского района "
+    "tikName": "Территориальная избирательная комиссия Золотухинского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 452,
     "uikTvd": "446400785599",
+    "uikName": "УИК №452",
     "tikTvd": "2462000137660",
-    "tikName": "Территориальная избирательная комиссия Золотухинского района "
+    "tikName": "Территориальная избирательная комиссия Золотухинского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 453,
     "uikTvd": "446400785600",
+    "uikName": "УИК №453",
     "tikTvd": "2462000137660",
-    "tikName": "Территориальная избирательная комиссия Золотухинского района "
+    "tikName": "Территориальная избирательная комиссия Золотухинского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 454,
     "uikTvd": "446400785601",
+    "uikName": "УИК №454",
     "tikTvd": "2462000137660",
-    "tikName": "Территориальная избирательная комиссия Золотухинского района "
+    "tikName": "Территориальная избирательная комиссия Золотухинского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 455,
     "uikTvd": "446400785602",
+    "uikName": "УИК №455",
     "tikTvd": "2462000137660",
-    "tikName": "Территориальная избирательная комиссия Золотухинского района "
+    "tikName": "Территориальная избирательная комиссия Золотухинского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 456,
     "uikTvd": "446400785603",
+    "uikName": "УИК №456",
     "tikTvd": "2462000137660",
-    "tikName": "Территориальная избирательная комиссия Золотухинского района "
+    "tikName": "Территориальная избирательная комиссия Золотухинского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 457,
     "uikTvd": "446400785604",
+    "uikName": "УИК №457",
     "tikTvd": "2462000137660",
-    "tikName": "Территориальная избирательная комиссия Золотухинского района "
+    "tikName": "Территориальная избирательная комиссия Золотухинского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 458,
     "uikTvd": "446400785605",
+    "uikName": "УИК №458",
     "tikTvd": "2462000137660",
-    "tikName": "Территориальная избирательная комиссия Золотухинского района "
+    "tikName": "Территориальная избирательная комиссия Золотухинского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 459,
     "uikTvd": "446400785606",
+    "uikName": "УИК №459",
     "tikTvd": "2462000137660",
-    "tikName": "Территориальная избирательная комиссия Золотухинского района "
+    "tikName": "Территориальная избирательная комиссия Золотухинского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 460,
     "uikTvd": "446400785607",
+    "uikName": "УИК №460",
     "tikTvd": "2462000137660",
-    "tikName": "Территориальная избирательная комиссия Золотухинского района "
+    "tikName": "Территориальная избирательная комиссия Золотухинского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 461,
     "uikTvd": "446400785608",
+    "uikName": "УИК №461",
     "tikTvd": "2462000137660",
-    "tikName": "Территориальная избирательная комиссия Золотухинского района "
+    "tikName": "Территориальная избирательная комиссия Золотухинского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 462,
     "uikTvd": "446400785609",
+    "uikName": "УИК №462",
     "tikTvd": "2462000137660",
-    "tikName": "Территориальная избирательная комиссия Золотухинского района "
+    "tikName": "Территориальная избирательная комиссия Золотухинского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 463,
     "uikTvd": "446400785610",
+    "uikName": "УИК №463",
     "tikTvd": "2462000137660",
-    "tikName": "Территориальная избирательная комиссия Золотухинского района "
+    "tikName": "Территориальная избирательная комиссия Золотухинского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 464,
     "uikTvd": "446400785611",
+    "uikName": "УИК №464",
     "tikTvd": "2462000137660",
-    "tikName": "Территориальная избирательная комиссия Золотухинского района "
+    "tikName": "Территориальная избирательная комиссия Золотухинского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 465,
     "uikTvd": "446400785612",
+    "uikName": "УИК №465",
     "tikTvd": "2462000137660",
-    "tikName": "Территориальная избирательная комиссия Золотухинского района "
+    "tikName": "Территориальная избирательная комиссия Золотухинского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 466,
     "uikTvd": "446400785613",
+    "uikName": "УИК №466",
     "tikTvd": "2462000137660",
-    "tikName": "Территориальная избирательная комиссия Золотухинского района "
+    "tikName": "Территориальная избирательная комиссия Золотухинского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 467,
     "uikTvd": "446400785614",
+    "uikName": "УИК №467",
     "tikTvd": "2462000137660",
-    "tikName": "Территориальная избирательная комиссия Золотухинского района "
+    "tikName": "Территориальная избирательная комиссия Золотухинского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 468,
     "uikTvd": "446400785615",
+    "uikName": "УИК №468",
     "tikTvd": "2462000137660",
-    "tikName": "Территориальная избирательная комиссия Золотухинского района "
+    "tikName": "Территориальная избирательная комиссия Золотухинского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 469,
     "uikTvd": "446400785616",
+    "uikName": "УИК №469",
     "tikTvd": "2462000137660",
-    "tikName": "Территориальная избирательная комиссия Золотухинского района "
+    "tikName": "Территориальная избирательная комиссия Золотухинского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 470,
     "uikTvd": "446400785617",
+    "uikName": "УИК №470",
     "tikTvd": "2462000137660",
-    "tikName": "Территориальная избирательная комиссия Золотухинского района "
+    "tikName": "Территориальная избирательная комиссия Золотухинского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 471,
     "uikTvd": "446400785618",
+    "uikName": "УИК №471",
     "tikTvd": "2462000137660",
-    "tikName": "Территориальная избирательная комиссия Золотухинского района "
+    "tikName": "Территориальная избирательная комиссия Золотухинского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 472,
     "uikTvd": "446400785619",
+    "uikName": "УИК №472",
     "tikTvd": "2462000137660",
-    "tikName": "Территориальная избирательная комиссия Золотухинского района "
+    "tikName": "Территориальная избирательная комиссия Золотухинского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 473,
     "uikTvd": "446400785620",
+    "uikName": "УИК №473",
     "tikTvd": "2462000137660",
-    "tikName": "Территориальная избирательная комиссия Золотухинского района "
+    "tikName": "Территориальная избирательная комиссия Золотухинского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 474,
     "uikTvd": "446400785621",
+    "uikName": "УИК №474",
     "tikTvd": "2462000137660",
-    "tikName": "Территориальная избирательная комиссия Золотухинского района "
+    "tikName": "Территориальная избирательная комиссия Золотухинского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 475,
     "uikTvd": "446400785622",
+    "uikName": "УИК №475",
     "tikTvd": "2462000137660",
-    "tikName": "Территориальная избирательная комиссия Золотухинского района "
+    "tikName": "Территориальная избирательная комиссия Золотухинского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 476,
     "uikTvd": "446400785623",
+    "uikName": "УИК №476",
     "tikTvd": "2462000137660",
-    "tikName": "Территориальная избирательная комиссия Золотухинского района "
+    "tikName": "Территориальная избирательная комиссия Золотухинского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 477,
     "uikTvd": "446400785624",
+    "uikName": "УИК №477",
     "tikTvd": "2462000137660",
-    "tikName": "Территориальная избирательная комиссия Золотухинского района "
+    "tikName": "Территориальная избирательная комиссия Золотухинского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 478,
     "uikTvd": "446400785625",
+    "uikName": "УИК №478",
     "tikTvd": "2462000137660",
-    "tikName": "Территориальная избирательная комиссия Золотухинского района "
+    "tikName": "Территориальная избирательная комиссия Золотухинского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 479,
     "uikTvd": "446400785626",
+    "uikName": "УИК №479",
     "tikTvd": "2462000137660",
-    "tikName": "Территориальная избирательная комиссия Золотухинского района "
+    "tikName": "Территориальная избирательная комиссия Золотухинского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 480,
     "uikTvd": "446400785627",
+    "uikName": "УИК №480",
     "tikTvd": "2462000137660",
-    "tikName": "Территориальная избирательная комиссия Золотухинского района "
+    "tikName": "Территориальная избирательная комиссия Золотухинского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 481,
     "uikTvd": "446400785628",
+    "uikName": "УИК №481",
     "tikTvd": "2462000137660",
-    "tikName": "Территориальная избирательная комиссия Золотухинского района "
+    "tikName": "Территориальная избирательная комиссия Золотухинского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 482,
     "uikTvd": "446400785629",
+    "uikName": "УИК №482",
     "tikTvd": "2462000137660",
-    "tikName": "Территориальная избирательная комиссия Золотухинского района "
+    "tikName": "Территориальная избирательная комиссия Золотухинского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 483,
     "uikTvd": "446400785630",
+    "uikName": "УИК №483",
     "tikTvd": "2462000137660",
-    "tikName": "Территориальная избирательная комиссия Золотухинского района "
+    "tikName": "Территориальная избирательная комиссия Золотухинского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 484,
     "uikTvd": "446400785631",
+    "uikName": "УИК №484",
     "tikTvd": "2462000137660",
-    "tikName": "Территориальная избирательная комиссия Золотухинского района "
+    "tikName": "Территориальная избирательная комиссия Золотухинского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 485,
     "uikTvd": "446400785632",
+    "uikName": "УИК №485",
     "tikTvd": "2462000137660",
-    "tikName": "Территориальная избирательная комиссия Золотухинского района "
+    "tikName": "Территориальная избирательная комиссия Золотухинского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 486,
     "uikTvd": "446400785633",
+    "uikName": "УИК №486",
     "tikTvd": "2462000137660",
-    "tikName": "Территориальная избирательная комиссия Золотухинского района "
+    "tikName": "Территориальная избирательная комиссия Золотухинского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 487,
     "uikTvd": "446400785634",
+    "uikName": "УИК №487",
     "tikTvd": "2462000137660",
-    "tikName": "Территориальная избирательная комиссия Золотухинского района "
+    "tikName": "Территориальная избирательная комиссия Золотухинского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 488,
     "uikTvd": "446400785635",
+    "uikName": "УИК №488",
     "tikTvd": "2462000137660",
-    "tikName": "Территориальная избирательная комиссия Золотухинского района "
+    "tikName": "Территориальная избирательная комиссия Золотухинского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 489,
     "uikTvd": "446400785636",
+    "uikName": "УИК №489",
     "tikTvd": "2462000137660",
-    "tikName": "Территориальная избирательная комиссия Золотухинского района "
+    "tikName": "Территориальная избирательная комиссия Золотухинского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 490,
     "uikTvd": "446400785637",
+    "uikName": "УИК №490",
     "tikTvd": "2462000137660",
-    "tikName": "Территориальная избирательная комиссия Золотухинского района "
+    "tikName": "Территориальная избирательная комиссия Золотухинского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 491,
     "uikTvd": "446400785638",
+    "uikName": "УИК №491",
     "tikTvd": "2462000137660",
-    "tikName": "Территориальная избирательная комиссия Золотухинского района "
+    "tikName": "Территориальная избирательная комиссия Золотухинского района ",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 492,
     "uikTvd": "446400883338",
+    "uikName": "УИК №492",
     "tikTvd": "2462000137659",
-    "tikName": "Территориальная избирательная комиссия Касторенского района"
+    "tikName": "Территориальная избирательная комиссия Касторенского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 493,
     "uikTvd": "446400883339",
+    "uikName": "УИК №493",
     "tikTvd": "2462000137659",
-    "tikName": "Территориальная избирательная комиссия Касторенского района"
+    "tikName": "Территориальная избирательная комиссия Касторенского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 494,
     "uikTvd": "446400883340",
+    "uikName": "УИК №494",
     "tikTvd": "2462000137659",
-    "tikName": "Территориальная избирательная комиссия Касторенского района"
+    "tikName": "Территориальная избирательная комиссия Касторенского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 495,
     "uikTvd": "446400883341",
+    "uikName": "УИК №495",
     "tikTvd": "2462000137659",
-    "tikName": "Территориальная избирательная комиссия Касторенского района"
+    "tikName": "Территориальная избирательная комиссия Касторенского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 496,
     "uikTvd": "446400883342",
+    "uikName": "УИК №496",
     "tikTvd": "2462000137659",
-    "tikName": "Территориальная избирательная комиссия Касторенского района"
+    "tikName": "Территориальная избирательная комиссия Касторенского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 497,
     "uikTvd": "446400883343",
+    "uikName": "УИК №497",
     "tikTvd": "2462000137659",
-    "tikName": "Территориальная избирательная комиссия Касторенского района"
+    "tikName": "Территориальная избирательная комиссия Касторенского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 498,
     "uikTvd": "446400883344",
+    "uikName": "УИК №498",
     "tikTvd": "2462000137659",
-    "tikName": "Территориальная избирательная комиссия Касторенского района"
+    "tikName": "Территориальная избирательная комиссия Касторенского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 499,
     "uikTvd": "446400883345",
+    "uikName": "УИК №499",
     "tikTvd": "2462000137659",
-    "tikName": "Территориальная избирательная комиссия Касторенского района"
+    "tikName": "Территориальная избирательная комиссия Касторенского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 500,
     "uikTvd": "446400883346",
+    "uikName": "УИК №500",
     "tikTvd": "2462000137659",
-    "tikName": "Территориальная избирательная комиссия Касторенского района"
+    "tikName": "Территориальная избирательная комиссия Касторенского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 501,
     "uikTvd": "446400883347",
+    "uikName": "УИК №501",
     "tikTvd": "2462000137659",
-    "tikName": "Территориальная избирательная комиссия Касторенского района"
+    "tikName": "Территориальная избирательная комиссия Касторенского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 502,
     "uikTvd": "446400883348",
+    "uikName": "УИК №502",
     "tikTvd": "2462000137659",
-    "tikName": "Территориальная избирательная комиссия Касторенского района"
+    "tikName": "Территориальная избирательная комиссия Касторенского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 503,
     "uikTvd": "446400883349",
+    "uikName": "УИК №503",
     "tikTvd": "2462000137659",
-    "tikName": "Территориальная избирательная комиссия Касторенского района"
+    "tikName": "Территориальная избирательная комиссия Касторенского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 504,
     "uikTvd": "446400883350",
+    "uikName": "УИК №504",
     "tikTvd": "2462000137659",
-    "tikName": "Территориальная избирательная комиссия Касторенского района"
+    "tikName": "Территориальная избирательная комиссия Касторенского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 505,
     "uikTvd": "446400883351",
+    "uikName": "УИК №505",
     "tikTvd": "2462000137659",
-    "tikName": "Территориальная избирательная комиссия Касторенского района"
+    "tikName": "Территориальная избирательная комиссия Касторенского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 506,
     "uikTvd": "446400883352",
+    "uikName": "УИК №506",
     "tikTvd": "2462000137659",
-    "tikName": "Территориальная избирательная комиссия Касторенского района"
+    "tikName": "Территориальная избирательная комиссия Касторенского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 507,
     "uikTvd": "446400883353",
+    "uikName": "УИК №507",
     "tikTvd": "2462000137659",
-    "tikName": "Территориальная избирательная комиссия Касторенского района"
+    "tikName": "Территориальная избирательная комиссия Касторенского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 508,
     "uikTvd": "446400883354",
+    "uikName": "УИК №508",
     "tikTvd": "2462000137659",
-    "tikName": "Территориальная избирательная комиссия Касторенского района"
+    "tikName": "Территориальная избирательная комиссия Касторенского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 509,
     "uikTvd": "446400883355",
+    "uikName": "УИК №509",
     "tikTvd": "2462000137659",
-    "tikName": "Территориальная избирательная комиссия Касторенского района"
+    "tikName": "Территориальная избирательная комиссия Касторенского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 510,
     "uikTvd": "446400883356",
+    "uikName": "УИК №510",
     "tikTvd": "2462000137659",
-    "tikName": "Территориальная избирательная комиссия Касторенского района"
+    "tikName": "Территориальная избирательная комиссия Касторенского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 511,
     "uikTvd": "446400883357",
+    "uikName": "УИК №511",
     "tikTvd": "2462000137659",
-    "tikName": "Территориальная избирательная комиссия Касторенского района"
+    "tikName": "Территориальная избирательная комиссия Касторенского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 512,
     "uikTvd": "446400883358",
+    "uikName": "УИК №512",
     "tikTvd": "2462000137659",
-    "tikName": "Территориальная избирательная комиссия Касторенского района"
+    "tikName": "Территориальная избирательная комиссия Касторенского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 513,
     "uikTvd": "446400883359",
+    "uikName": "УИК №513",
     "tikTvd": "2462000137659",
-    "tikName": "Территориальная избирательная комиссия Касторенского района"
+    "tikName": "Территориальная избирательная комиссия Касторенского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 514,
     "uikTvd": "446400883360",
+    "uikName": "УИК №514",
     "tikTvd": "2462000137659",
-    "tikName": "Территориальная избирательная комиссия Касторенского района"
+    "tikName": "Территориальная избирательная комиссия Касторенского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 515,
     "uikTvd": "446400883361",
+    "uikName": "УИК №515",
     "tikTvd": "2462000137659",
-    "tikName": "Территориальная избирательная комиссия Касторенского района"
+    "tikName": "Территориальная избирательная комиссия Касторенского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 516,
     "uikTvd": "446400883362",
+    "uikName": "УИК №516",
     "tikTvd": "2462000137659",
-    "tikName": "Территориальная избирательная комиссия Касторенского района"
+    "tikName": "Территориальная избирательная комиссия Касторенского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 517,
     "uikTvd": "446400883363",
+    "uikName": "УИК №517",
     "tikTvd": "2462000137659",
-    "tikName": "Территориальная избирательная комиссия Касторенского района"
+    "tikName": "Территориальная избирательная комиссия Касторенского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 518,
     "uikTvd": "446400883364",
+    "uikName": "УИК №518",
     "tikTvd": "2462000137659",
-    "tikName": "Территориальная избирательная комиссия Касторенского района"
+    "tikName": "Территориальная избирательная комиссия Касторенского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 519,
     "uikTvd": "446400883365",
+    "uikName": "УИК №519",
     "tikTvd": "2462000137659",
-    "tikName": "Территориальная избирательная комиссия Касторенского района"
+    "tikName": "Территориальная избирательная комиссия Касторенского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 520,
     "uikTvd": "446400883366",
+    "uikName": "УИК №520",
     "tikTvd": "2462000137659",
-    "tikName": "Территориальная избирательная комиссия Касторенского района"
+    "tikName": "Территориальная избирательная комиссия Касторенского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 521,
     "uikTvd": "446400883367",
+    "uikName": "УИК №521",
     "tikTvd": "2462000137659",
-    "tikName": "Территориальная избирательная комиссия Касторенского района"
+    "tikName": "Территориальная избирательная комиссия Касторенского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 522,
     "uikTvd": "446400883368",
+    "uikName": "УИК №522",
     "tikTvd": "2462000137659",
-    "tikName": "Территориальная избирательная комиссия Касторенского района"
+    "tikName": "Территориальная избирательная комиссия Касторенского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 523,
     "uikTvd": "446400883369",
+    "uikName": "УИК №523",
     "tikTvd": "2462000137659",
-    "tikName": "Территориальная избирательная комиссия Касторенского района"
+    "tikName": "Территориальная избирательная комиссия Касторенского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 524,
     "uikTvd": "446400883370",
+    "uikName": "УИК №524",
     "tikTvd": "2462000137659",
-    "tikName": "Территориальная избирательная комиссия Касторенского района"
+    "tikName": "Территориальная избирательная комиссия Касторенского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 525,
     "uikTvd": "446400883371",
+    "uikName": "УИК №525",
     "tikTvd": "2462000137659",
-    "tikName": "Территориальная избирательная комиссия Касторенского района"
+    "tikName": "Территориальная избирательная комиссия Касторенского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 526,
     "uikTvd": "446400883372",
+    "uikName": "УИК №526",
     "tikTvd": "2462000137659",
-    "tikName": "Территориальная избирательная комиссия Касторенского района"
+    "tikName": "Территориальная избирательная комиссия Касторенского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 527,
     "uikTvd": "446400883373",
+    "uikName": "УИК №527",
     "tikTvd": "2462000137659",
-    "tikName": "Территориальная избирательная комиссия Касторенского района"
+    "tikName": "Территориальная избирательная комиссия Касторенского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 528,
     "uikTvd": "446400883374",
+    "uikName": "УИК №528",
     "tikTvd": "2462000137659",
-    "tikName": "Территориальная избирательная комиссия Касторенского района"
+    "tikName": "Территориальная избирательная комиссия Касторенского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 529,
     "uikTvd": "446400883375",
+    "uikName": "УИК №529",
     "tikTvd": "2462000137659",
-    "tikName": "Территориальная избирательная комиссия Касторенского района"
+    "tikName": "Территориальная избирательная комиссия Касторенского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 530,
     "uikTvd": "446400978925",
+    "uikName": "УИК №530",
     "tikTvd": "2462000137657",
-    "tikName": "Территориальная избирательная комиссия Конышевского района"
+    "tikName": "Территориальная избирательная комиссия Конышевского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 531,
     "uikTvd": "446400978926",
+    "uikName": "УИК №531",
     "tikTvd": "2462000137657",
-    "tikName": "Территориальная избирательная комиссия Конышевского района"
+    "tikName": "Территориальная избирательная комиссия Конышевского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 532,
     "uikTvd": "446400978927",
+    "uikName": "УИК №532",
     "tikTvd": "2462000137657",
-    "tikName": "Территориальная избирательная комиссия Конышевского района"
+    "tikName": "Территориальная избирательная комиссия Конышевского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 533,
     "uikTvd": "446400978928",
+    "uikName": "УИК №533",
     "tikTvd": "2462000137657",
-    "tikName": "Территориальная избирательная комиссия Конышевского района"
+    "tikName": "Территориальная избирательная комиссия Конышевского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 534,
     "uikTvd": "446400978929",
+    "uikName": "УИК №534",
     "tikTvd": "2462000137657",
-    "tikName": "Территориальная избирательная комиссия Конышевского района"
+    "tikName": "Территориальная избирательная комиссия Конышевского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 535,
     "uikTvd": "446400978930",
+    "uikName": "УИК №535",
     "tikTvd": "2462000137657",
-    "tikName": "Территориальная избирательная комиссия Конышевского района"
+    "tikName": "Территориальная избирательная комиссия Конышевского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 536,
     "uikTvd": "446400978931",
+    "uikName": "УИК №536",
     "tikTvd": "2462000137657",
-    "tikName": "Территориальная избирательная комиссия Конышевского района"
+    "tikName": "Территориальная избирательная комиссия Конышевского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 537,
     "uikTvd": "446400978932",
+    "uikName": "УИК №537",
     "tikTvd": "2462000137657",
-    "tikName": "Территориальная избирательная комиссия Конышевского района"
+    "tikName": "Территориальная избирательная комиссия Конышевского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 538,
     "uikTvd": "446400978933",
+    "uikName": "УИК №538",
     "tikTvd": "2462000137657",
-    "tikName": "Территориальная избирательная комиссия Конышевского района"
+    "tikName": "Территориальная избирательная комиссия Конышевского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 539,
     "uikTvd": "446400978934",
+    "uikName": "УИК №539",
     "tikTvd": "2462000137657",
-    "tikName": "Территориальная избирательная комиссия Конышевского района"
+    "tikName": "Территориальная избирательная комиссия Конышевского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 540,
     "uikTvd": "446400978935",
+    "uikName": "УИК №540",
     "tikTvd": "2462000137657",
-    "tikName": "Территориальная избирательная комиссия Конышевского района"
+    "tikName": "Территориальная избирательная комиссия Конышевского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 541,
     "uikTvd": "446400978936",
+    "uikName": "УИК №541",
     "tikTvd": "2462000137657",
-    "tikName": "Территориальная избирательная комиссия Конышевского района"
+    "tikName": "Территориальная избирательная комиссия Конышевского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 542,
     "uikTvd": "446400978937",
+    "uikName": "УИК №542",
     "tikTvd": "2462000137657",
-    "tikName": "Территориальная избирательная комиссия Конышевского района"
+    "tikName": "Территориальная избирательная комиссия Конышевского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 543,
     "uikTvd": "446400978938",
+    "uikName": "УИК №543",
     "tikTvd": "2462000137657",
-    "tikName": "Территориальная избирательная комиссия Конышевского района"
+    "tikName": "Территориальная избирательная комиссия Конышевского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 544,
     "uikTvd": "446400978939",
+    "uikName": "УИК №544",
     "tikTvd": "2462000137657",
-    "tikName": "Территориальная избирательная комиссия Конышевского района"
+    "tikName": "Территориальная избирательная комиссия Конышевского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 545,
     "uikTvd": "446400978940",
+    "uikName": "УИК №545",
     "tikTvd": "2462000137657",
-    "tikName": "Территориальная избирательная комиссия Конышевского района"
+    "tikName": "Территориальная избирательная комиссия Конышевского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 546,
     "uikTvd": "446400978941",
+    "uikName": "УИК №546",
     "tikTvd": "2462000137657",
-    "tikName": "Территориальная избирательная комиссия Конышевского района"
+    "tikName": "Территориальная избирательная комиссия Конышевского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 547,
     "uikTvd": "446400978942",
+    "uikName": "УИК №547",
     "tikTvd": "2462000137657",
-    "tikName": "Территориальная избирательная комиссия Конышевского района"
+    "tikName": "Территориальная избирательная комиссия Конышевского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 548,
     "uikTvd": "446400978943",
+    "uikName": "УИК №548",
     "tikTvd": "2462000137657",
-    "tikName": "Территориальная избирательная комиссия Конышевского района"
+    "tikName": "Территориальная избирательная комиссия Конышевского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 549,
     "uikTvd": "446400978944",
+    "uikName": "УИК №549",
     "tikTvd": "2462000137657",
-    "tikName": "Территориальная избирательная комиссия Конышевского района"
+    "tikName": "Территориальная избирательная комиссия Конышевского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 550,
     "uikTvd": "446400978945",
+    "uikName": "УИК №550",
     "tikTvd": "2462000137657",
-    "tikName": "Территориальная избирательная комиссия Конышевского района"
+    "tikName": "Территориальная избирательная комиссия Конышевского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 551,
     "uikTvd": "446400978946",
+    "uikName": "УИК №551",
     "tikTvd": "2462000137657",
-    "tikName": "Территориальная избирательная комиссия Конышевского района"
+    "tikName": "Территориальная избирательная комиссия Конышевского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 552,
     "uikTvd": "446400978947",
+    "uikName": "УИК №552",
     "tikTvd": "2462000137657",
-    "tikName": "Территориальная избирательная комиссия Конышевского района"
+    "tikName": "Территориальная избирательная комиссия Конышевского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 553,
     "uikTvd": "446400978948",
+    "uikName": "УИК №553",
     "tikTvd": "2462000137657",
-    "tikName": "Территориальная избирательная комиссия Конышевского района"
+    "tikName": "Территориальная избирательная комиссия Конышевского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 554,
     "uikTvd": "446400978949",
+    "uikName": "УИК №554",
     "tikTvd": "2462000137657",
-    "tikName": "Территориальная избирательная комиссия Конышевского района"
+    "tikName": "Территориальная избирательная комиссия Конышевского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 555,
     "uikTvd": "446400978950",
+    "uikName": "УИК №555",
     "tikTvd": "2462000137657",
-    "tikName": "Территориальная избирательная комиссия Конышевского района"
+    "tikName": "Территориальная избирательная комиссия Конышевского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 556,
     "uikTvd": "446400978951",
+    "uikName": "УИК №556",
     "tikTvd": "2462000137657",
-    "tikName": "Территориальная избирательная комиссия Конышевского района"
+    "tikName": "Территориальная избирательная комиссия Конышевского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 557,
     "uikTvd": "446400978952",
+    "uikName": "УИК №557",
     "tikTvd": "2462000137657",
-    "tikName": "Территориальная избирательная комиссия Конышевского района"
+    "tikName": "Территориальная избирательная комиссия Конышевского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 558,
     "uikTvd": "446400978953",
+    "uikName": "УИК №558",
     "tikTvd": "2462000137657",
-    "tikName": "Территориальная избирательная комиссия Конышевского района"
+    "tikName": "Территориальная избирательная комиссия Конышевского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 559,
     "uikTvd": "446400978954",
+    "uikName": "УИК №559",
     "tikTvd": "2462000137657",
-    "tikName": "Территориальная избирательная комиссия Конышевского района"
+    "tikName": "Территориальная избирательная комиссия Конышевского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 560,
     "uikTvd": "446400978955",
+    "uikName": "УИК №560",
     "tikTvd": "2462000137657",
-    "tikName": "Территориальная избирательная комиссия Конышевского района"
+    "tikName": "Территориальная избирательная комиссия Конышевского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 561,
     "uikTvd": "446400978956",
+    "uikName": "УИК №561",
     "tikTvd": "2462000137657",
-    "tikName": "Территориальная избирательная комиссия Конышевского района"
+    "tikName": "Территориальная избирательная комиссия Конышевского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 562,
     "uikTvd": "446400978957",
+    "uikName": "УИК №562",
     "tikTvd": "2462000137657",
-    "tikName": "Территориальная избирательная комиссия Конышевского района"
+    "tikName": "Территориальная избирательная комиссия Конышевского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 563,
     "uikTvd": "446400978958",
+    "uikName": "УИК №563",
     "tikTvd": "2462000137657",
-    "tikName": "Территориальная избирательная комиссия Конышевского района"
+    "tikName": "Территориальная избирательная комиссия Конышевского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 564,
     "uikTvd": "446400978959",
+    "uikName": "УИК №564",
     "tikTvd": "2462000137657",
-    "tikName": "Территориальная избирательная комиссия Конышевского района"
+    "tikName": "Территориальная избирательная комиссия Конышевского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 565,
     "uikTvd": "446400978960",
+    "uikName": "УИК №565",
     "tikTvd": "2462000137657",
-    "tikName": "Территориальная избирательная комиссия Конышевского района"
+    "tikName": "Территориальная избирательная комиссия Конышевского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 566,
     "uikTvd": "446400978961",
+    "uikName": "УИК №566",
     "tikTvd": "2462000137657",
-    "tikName": "Территориальная избирательная комиссия Конышевского района"
+    "tikName": "Территориальная избирательная комиссия Конышевского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 567,
     "uikTvd": "446401084047",
+    "uikName": "УИК №567",
     "tikTvd": "2462000137664",
-    "tikName": "Территориальная избирательная комиссия Кореневского района"
+    "tikName": "Территориальная избирательная комиссия Кореневского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 568,
     "uikTvd": "446401084048",
+    "uikName": "УИК №568",
     "tikTvd": "2462000137664",
-    "tikName": "Территориальная избирательная комиссия Кореневского района"
+    "tikName": "Территориальная избирательная комиссия Кореневского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 569,
     "uikTvd": "446401084049",
+    "uikName": "УИК №569",
     "tikTvd": "2462000137664",
-    "tikName": "Территориальная избирательная комиссия Кореневского района"
+    "tikName": "Территориальная избирательная комиссия Кореневского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 570,
     "uikTvd": "446401084050",
+    "uikName": "УИК №570",
     "tikTvd": "2462000137664",
-    "tikName": "Территориальная избирательная комиссия Кореневского района"
+    "tikName": "Территориальная избирательная комиссия Кореневского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 571,
     "uikTvd": "446401084051",
+    "uikName": "УИК №571",
     "tikTvd": "2462000137664",
-    "tikName": "Территориальная избирательная комиссия Кореневского района"
+    "tikName": "Территориальная избирательная комиссия Кореневского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 572,
     "uikTvd": "446401084052",
+    "uikName": "УИК №572",
     "tikTvd": "2462000137664",
-    "tikName": "Территориальная избирательная комиссия Кореневского района"
+    "tikName": "Территориальная избирательная комиссия Кореневского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 573,
     "uikTvd": "446401084053",
+    "uikName": "УИК №573",
     "tikTvd": "2462000137664",
-    "tikName": "Территориальная избирательная комиссия Кореневского района"
+    "tikName": "Территориальная избирательная комиссия Кореневского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 574,
     "uikTvd": "446401084054",
+    "uikName": "УИК №574",
     "tikTvd": "2462000137664",
-    "tikName": "Территориальная избирательная комиссия Кореневского района"
+    "tikName": "Территориальная избирательная комиссия Кореневского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 575,
     "uikTvd": "446401084055",
+    "uikName": "УИК №575",
     "tikTvd": "2462000137664",
-    "tikName": "Территориальная избирательная комиссия Кореневского района"
+    "tikName": "Территориальная избирательная комиссия Кореневского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 576,
     "uikTvd": "446401084056",
+    "uikName": "УИК №576",
     "tikTvd": "2462000137664",
-    "tikName": "Территориальная избирательная комиссия Кореневского района"
+    "tikName": "Территориальная избирательная комиссия Кореневского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 577,
     "uikTvd": "446401084057",
+    "uikName": "УИК №577",
     "tikTvd": "2462000137664",
-    "tikName": "Территориальная избирательная комиссия Кореневского района"
+    "tikName": "Территориальная избирательная комиссия Кореневского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 578,
     "uikTvd": "446401084058",
+    "uikName": "УИК №578",
     "tikTvd": "2462000137664",
-    "tikName": "Территориальная избирательная комиссия Кореневского района"
+    "tikName": "Территориальная избирательная комиссия Кореневского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 579,
     "uikTvd": "446401084059",
+    "uikName": "УИК №579",
     "tikTvd": "2462000137664",
-    "tikName": "Территориальная избирательная комиссия Кореневского района"
+    "tikName": "Территориальная избирательная комиссия Кореневского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 580,
     "uikTvd": "446401084060",
+    "uikName": "УИК №580",
     "tikTvd": "2462000137664",
-    "tikName": "Территориальная избирательная комиссия Кореневского района"
+    "tikName": "Территориальная избирательная комиссия Кореневского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 581,
     "uikTvd": "446401084061",
+    "uikName": "УИК №581",
     "tikTvd": "2462000137664",
-    "tikName": "Территориальная избирательная комиссия Кореневского района"
+    "tikName": "Территориальная избирательная комиссия Кореневского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 582,
     "uikTvd": "446401084062",
+    "uikName": "УИК №582",
     "tikTvd": "2462000137664",
-    "tikName": "Территориальная избирательная комиссия Кореневского района"
+    "tikName": "Территориальная избирательная комиссия Кореневского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 583,
     "uikTvd": "446401084063",
+    "uikName": "УИК №583",
     "tikTvd": "2462000137664",
-    "tikName": "Территориальная избирательная комиссия Кореневского района"
+    "tikName": "Территориальная избирательная комиссия Кореневского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 584,
     "uikTvd": "446401084064",
+    "uikName": "УИК №584",
     "tikTvd": "2462000137664",
-    "tikName": "Территориальная избирательная комиссия Кореневского района"
+    "tikName": "Территориальная избирательная комиссия Кореневского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 585,
     "uikTvd": "446401084065",
+    "uikName": "УИК №585",
     "tikTvd": "2462000137664",
-    "tikName": "Территориальная избирательная комиссия Кореневского района"
+    "tikName": "Территориальная избирательная комиссия Кореневского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 586,
     "uikTvd": "446401084066",
+    "uikName": "УИК №586",
     "tikTvd": "2462000137664",
-    "tikName": "Территориальная избирательная комиссия Кореневского района"
+    "tikName": "Территориальная избирательная комиссия Кореневского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 587,
     "uikTvd": "446401084067",
+    "uikName": "УИК №587",
     "tikTvd": "2462000137664",
-    "tikName": "Территориальная избирательная комиссия Кореневского района"
+    "tikName": "Территориальная избирательная комиссия Кореневского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 588,
     "uikTvd": "446401084068",
+    "uikName": "УИК №588",
     "tikTvd": "2462000137664",
-    "tikName": "Территориальная избирательная комиссия Кореневского района"
+    "tikName": "Территориальная избирательная комиссия Кореневского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 589,
     "uikTvd": "446401084069",
+    "uikName": "УИК №589",
     "tikTvd": "2462000137664",
-    "tikName": "Территориальная избирательная комиссия Кореневского района"
+    "tikName": "Территориальная избирательная комиссия Кореневского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 590,
     "uikTvd": "446401084070",
+    "uikName": "УИК №590",
     "tikTvd": "2462000137664",
-    "tikName": "Территориальная избирательная комиссия Кореневского района"
+    "tikName": "Территориальная избирательная комиссия Кореневского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 591,
     "uikTvd": "446401084071",
+    "uikName": "УИК №591",
     "tikTvd": "2462000137664",
-    "tikName": "Территориальная избирательная комиссия Кореневского района"
+    "tikName": "Территориальная избирательная комиссия Кореневского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 592,
     "uikTvd": "446401084072",
+    "uikName": "УИК №592",
     "tikTvd": "2462000137664",
-    "tikName": "Территориальная избирательная комиссия Кореневского района"
+    "tikName": "Территориальная избирательная комиссия Кореневского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 593,
     "uikTvd": "446401084073",
+    "uikName": "УИК №593",
     "tikTvd": "2462000137664",
-    "tikName": "Территориальная избирательная комиссия Кореневского района"
+    "tikName": "Территориальная избирательная комиссия Кореневского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 594,
     "uikTvd": "446401491063",
+    "uikName": "УИК №594",
     "tikTvd": "2462000137672",
-    "tikName": "Территориальная избирательная комиссия Курского района"
+    "tikName": "Территориальная избирательная комиссия Курского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 595,
     "uikTvd": "446401491064",
+    "uikName": "УИК №595",
     "tikTvd": "2462000137672",
-    "tikName": "Территориальная избирательная комиссия Курского района"
+    "tikName": "Территориальная избирательная комиссия Курского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 596,
     "uikTvd": "446401491065",
+    "uikName": "УИК №596",
     "tikTvd": "2462000137672",
-    "tikName": "Территориальная избирательная комиссия Курского района"
+    "tikName": "Территориальная избирательная комиссия Курского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 597,
     "uikTvd": "446401491066",
+    "uikName": "УИК №597",
     "tikTvd": "2462000137672",
-    "tikName": "Территориальная избирательная комиссия Курского района"
+    "tikName": "Территориальная избирательная комиссия Курского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 598,
     "uikTvd": "446401491067",
+    "uikName": "УИК №598",
     "tikTvd": "2462000137672",
-    "tikName": "Территориальная избирательная комиссия Курского района"
+    "tikName": "Территориальная избирательная комиссия Курского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 599,
     "uikTvd": "446401491068",
+    "uikName": "УИК №599",
     "tikTvd": "2462000137672",
-    "tikName": "Территориальная избирательная комиссия Курского района"
+    "tikName": "Территориальная избирательная комиссия Курского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 600,
     "uikTvd": "446401491069",
+    "uikName": "УИК №600",
     "tikTvd": "2462000137672",
-    "tikName": "Территориальная избирательная комиссия Курского района"
+    "tikName": "Территориальная избирательная комиссия Курского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 601,
     "uikTvd": "446401491070",
+    "uikName": "УИК №601",
     "tikTvd": "2462000137672",
-    "tikName": "Территориальная избирательная комиссия Курского района"
+    "tikName": "Территориальная избирательная комиссия Курского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 602,
     "uikTvd": "446401491071",
+    "uikName": "УИК №602",
     "tikTvd": "2462000137672",
-    "tikName": "Территориальная избирательная комиссия Курского района"
+    "tikName": "Территориальная избирательная комиссия Курского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 603,
     "uikTvd": "446401491072",
+    "uikName": "УИК №603",
     "tikTvd": "2462000137672",
-    "tikName": "Территориальная избирательная комиссия Курского района"
+    "tikName": "Территориальная избирательная комиссия Курского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 604,
     "uikTvd": "446401491073",
+    "uikName": "УИК №604",
     "tikTvd": "2462000137672",
-    "tikName": "Территориальная избирательная комиссия Курского района"
+    "tikName": "Территориальная избирательная комиссия Курского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 605,
     "uikTvd": "446401491074",
+    "uikName": "УИК №605",
     "tikTvd": "2462000137672",
-    "tikName": "Территориальная избирательная комиссия Курского района"
+    "tikName": "Территориальная избирательная комиссия Курского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 606,
     "uikTvd": "446401491075",
+    "uikName": "УИК №606",
     "tikTvd": "2462000137672",
-    "tikName": "Территориальная избирательная комиссия Курского района"
+    "tikName": "Территориальная избирательная комиссия Курского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 607,
     "uikTvd": "446401491076",
+    "uikName": "УИК №607",
     "tikTvd": "2462000137672",
-    "tikName": "Территориальная избирательная комиссия Курского района"
+    "tikName": "Территориальная избирательная комиссия Курского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 608,
     "uikTvd": "446401491077",
+    "uikName": "УИК №608",
     "tikTvd": "2462000137672",
-    "tikName": "Территориальная избирательная комиссия Курского района"
+    "tikName": "Территориальная избирательная комиссия Курского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 609,
     "uikTvd": "446401491078",
+    "uikName": "УИК №609",
     "tikTvd": "2462000137672",
-    "tikName": "Территориальная избирательная комиссия Курского района"
+    "tikName": "Территориальная избирательная комиссия Курского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 610,
     "uikTvd": "446401491079",
+    "uikName": "УИК №610",
     "tikTvd": "2462000137672",
-    "tikName": "Территориальная избирательная комиссия Курского района"
+    "tikName": "Территориальная избирательная комиссия Курского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 611,
     "uikTvd": "446401491080",
+    "uikName": "УИК №611",
     "tikTvd": "2462000137672",
-    "tikName": "Территориальная избирательная комиссия Курского района"
+    "tikName": "Территориальная избирательная комиссия Курского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 612,
     "uikTvd": "446401491081",
+    "uikName": "УИК №612",
     "tikTvd": "2462000137672",
-    "tikName": "Территориальная избирательная комиссия Курского района"
+    "tikName": "Территориальная избирательная комиссия Курского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 613,
     "uikTvd": "446401491082",
+    "uikName": "УИК №613",
     "tikTvd": "2462000137672",
-    "tikName": "Территориальная избирательная комиссия Курского района"
+    "tikName": "Территориальная избирательная комиссия Курского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 614,
     "uikTvd": "446401491083",
+    "uikName": "УИК №614",
     "tikTvd": "2462000137672",
-    "tikName": "Территориальная избирательная комиссия Курского района"
+    "tikName": "Территориальная избирательная комиссия Курского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 615,
     "uikTvd": "446401491084",
+    "uikName": "УИК №615",
     "tikTvd": "2462000137672",
-    "tikName": "Территориальная избирательная комиссия Курского района"
+    "tikName": "Территориальная избирательная комиссия Курского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 616,
     "uikTvd": "446401491085",
+    "uikName": "УИК №616",
     "tikTvd": "2462000137672",
-    "tikName": "Территориальная избирательная комиссия Курского района"
+    "tikName": "Территориальная избирательная комиссия Курского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 617,
     "uikTvd": "446401491086",
+    "uikName": "УИК №617",
     "tikTvd": "2462000137672",
-    "tikName": "Территориальная избирательная комиссия Курского района"
+    "tikName": "Территориальная избирательная комиссия Курского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 618,
     "uikTvd": "446401491087",
+    "uikName": "УИК №618",
     "tikTvd": "2462000137672",
-    "tikName": "Территориальная избирательная комиссия Курского района"
+    "tikName": "Территориальная избирательная комиссия Курского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 619,
     "uikTvd": "446401491088",
+    "uikName": "УИК №619",
     "tikTvd": "2462000137672",
-    "tikName": "Территориальная избирательная комиссия Курского района"
+    "tikName": "Территориальная избирательная комиссия Курского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 620,
     "uikTvd": "446401491089",
+    "uikName": "УИК №620",
     "tikTvd": "2462000137672",
-    "tikName": "Территориальная избирательная комиссия Курского района"
+    "tikName": "Территориальная избирательная комиссия Курского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 621,
     "uikTvd": "446401491090",
+    "uikName": "УИК №621",
     "tikTvd": "2462000137672",
-    "tikName": "Территориальная избирательная комиссия Курского района"
+    "tikName": "Территориальная избирательная комиссия Курского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 622,
     "uikTvd": "446401491091",
+    "uikName": "УИК №622",
     "tikTvd": "2462000137672",
-    "tikName": "Территориальная избирательная комиссия Курского района"
+    "tikName": "Территориальная избирательная комиссия Курского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 623,
     "uikTvd": "446401491092",
+    "uikName": "УИК №623",
     "tikTvd": "2462000137672",
-    "tikName": "Территориальная избирательная комиссия Курского района"
+    "tikName": "Территориальная избирательная комиссия Курского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 624,
     "uikTvd": "446401491093",
+    "uikName": "УИК №624",
     "tikTvd": "2462000137672",
-    "tikName": "Территориальная избирательная комиссия Курского района"
+    "tikName": "Территориальная избирательная комиссия Курского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 625,
     "uikTvd": "446401491094",
+    "uikName": "УИК №625",
     "tikTvd": "2462000137672",
-    "tikName": "Территориальная избирательная комиссия Курского района"
+    "tikName": "Территориальная избирательная комиссия Курского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 626,
     "uikTvd": "446401491095",
+    "uikName": "УИК №626",
     "tikTvd": "2462000137672",
-    "tikName": "Территориальная избирательная комиссия Курского района"
+    "tikName": "Территориальная избирательная комиссия Курского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 627,
     "uikTvd": "446401491096",
+    "uikName": "УИК №627",
     "tikTvd": "2462000137672",
-    "tikName": "Территориальная избирательная комиссия Курского района"
+    "tikName": "Территориальная избирательная комиссия Курского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 628,
     "uikTvd": "446401491097",
+    "uikName": "УИК №628",
     "tikTvd": "2462000137672",
-    "tikName": "Территориальная избирательная комиссия Курского района"
+    "tikName": "Территориальная избирательная комиссия Курского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 629,
     "uikTvd": "446401491098",
+    "uikName": "УИК №629",
     "tikTvd": "2462000137672",
-    "tikName": "Территориальная избирательная комиссия Курского района"
+    "tikName": "Территориальная избирательная комиссия Курского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 630,
     "uikTvd": "446401491099",
+    "uikName": "УИК №630",
     "tikTvd": "2462000137672",
-    "tikName": "Территориальная избирательная комиссия Курского района"
+    "tikName": "Территориальная избирательная комиссия Курского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 631,
     "uikTvd": "446401491100",
+    "uikName": "УИК №631",
     "tikTvd": "2462000137672",
-    "tikName": "Территориальная избирательная комиссия Курского района"
+    "tikName": "Территориальная избирательная комиссия Курского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 632,
     "uikTvd": "446401491101",
+    "uikName": "УИК №632",
     "tikTvd": "2462000137672",
-    "tikName": "Территориальная избирательная комиссия Курского района"
+    "tikName": "Территориальная избирательная комиссия Курского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 633,
     "uikTvd": "446401491102",
+    "uikName": "УИК №633",
     "tikTvd": "2462000137672",
-    "tikName": "Территориальная избирательная комиссия Курского района"
+    "tikName": "Территориальная избирательная комиссия Курского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 634,
     "uikTvd": "446401491103",
+    "uikName": "УИК №634",
     "tikTvd": "2462000137672",
-    "tikName": "Территориальная избирательная комиссия Курского района"
+    "tikName": "Территориальная избирательная комиссия Курского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 635,
     "uikTvd": "446401491104",
+    "uikName": "УИК №635",
     "tikTvd": "2462000137672",
-    "tikName": "Территориальная избирательная комиссия Курского района"
+    "tikName": "Территориальная избирательная комиссия Курского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 636,
     "uikTvd": "446401491105",
+    "uikName": "УИК №636",
     "tikTvd": "2462000137672",
-    "tikName": "Территориальная избирательная комиссия Курского района"
+    "tikName": "Территориальная избирательная комиссия Курского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 637,
     "uikTvd": "446401491106",
+    "uikName": "УИК №637",
     "tikTvd": "2462000137672",
-    "tikName": "Территориальная избирательная комиссия Курского района"
+    "tikName": "Территориальная избирательная комиссия Курского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 638,
     "uikTvd": "446401491107",
+    "uikName": "УИК №638",
     "tikTvd": "2462000137672",
-    "tikName": "Территориальная избирательная комиссия Курского района"
+    "tikName": "Территориальная избирательная комиссия Курского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 639,
     "uikTvd": "446401491108",
+    "uikName": "УИК №639",
     "tikTvd": "2462000137672",
-    "tikName": "Территориальная избирательная комиссия Курского района"
+    "tikName": "Территориальная избирательная комиссия Курского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 640,
     "uikTvd": "446401491109",
+    "uikName": "УИК №640",
     "tikTvd": "2462000137672",
-    "tikName": "Территориальная избирательная комиссия Курского района"
+    "tikName": "Территориальная избирательная комиссия Курского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 641,
     "uikTvd": "446401491110",
+    "uikName": "УИК №641",
     "tikTvd": "2462000137672",
-    "tikName": "Территориальная избирательная комиссия Курского района"
+    "tikName": "Территориальная избирательная комиссия Курского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 642,
     "uikTvd": "446401491111",
+    "uikName": "УИК №642",
     "tikTvd": "2462000137672",
-    "tikName": "Территориальная избирательная комиссия Курского района"
+    "tikName": "Территориальная избирательная комиссия Курского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 643,
     "uikTvd": "446401491112",
+    "uikName": "УИК №643",
     "tikTvd": "2462000137672",
-    "tikName": "Территориальная избирательная комиссия Курского района"
+    "tikName": "Территориальная избирательная комиссия Курского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 644,
     "uikTvd": "446401491113",
+    "uikName": "УИК №644",
     "tikTvd": "2462000137672",
-    "tikName": "Территориальная избирательная комиссия Курского района"
+    "tikName": "Территориальная избирательная комиссия Курского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 645,
     "uikTvd": "446401491114",
+    "uikName": "УИК №645",
     "tikTvd": "2462000137672",
-    "tikName": "Территориальная избирательная комиссия Курского района"
+    "tikName": "Территориальная избирательная комиссия Курского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 646,
     "uikTvd": "446401491115",
+    "uikName": "УИК №646",
     "tikTvd": "2462000137672",
-    "tikName": "Территориальная избирательная комиссия Курского района"
+    "tikName": "Территориальная избирательная комиссия Курского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 647,
     "uikTvd": "446401491116",
+    "uikName": "УИК №647",
     "tikTvd": "2462000137672",
-    "tikName": "Территориальная избирательная комиссия Курского района"
+    "tikName": "Территориальная избирательная комиссия Курского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 648,
     "uikTvd": "446401491117",
+    "uikName": "УИК №648",
     "tikTvd": "2462000137672",
-    "tikName": "Территориальная избирательная комиссия Курского района"
+    "tikName": "Территориальная избирательная комиссия Курского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 649,
     "uikTvd": "446401491118",
+    "uikName": "УИК №649",
     "tikTvd": "2462000137672",
-    "tikName": "Территориальная избирательная комиссия Курского района"
+    "tikName": "Территориальная избирательная комиссия Курского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 650,
     "uikTvd": "446401491119",
+    "uikName": "УИК №650",
     "tikTvd": "2462000137672",
-    "tikName": "Территориальная избирательная комиссия Курского района"
+    "tikName": "Территориальная избирательная комиссия Курского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 651,
     "uikTvd": "446401491120",
+    "uikName": "УИК №651",
     "tikTvd": "2462000137672",
-    "tikName": "Территориальная избирательная комиссия Курского района"
+    "tikName": "Территориальная избирательная комиссия Курского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 652,
     "uikTvd": "446401491121",
+    "uikName": "УИК №652",
     "tikTvd": "2462000137672",
-    "tikName": "Территориальная избирательная комиссия Курского района"
+    "tikName": "Территориальная избирательная комиссия Курского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 653,
     "uikTvd": "446401491122",
+    "uikName": "УИК №653",
     "tikTvd": "2462000137672",
-    "tikName": "Территориальная избирательная комиссия Курского района"
+    "tikName": "Территориальная избирательная комиссия Курского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 654,
     "uikTvd": "446401491123",
+    "uikName": "УИК №654",
     "tikTvd": "2462000137672",
-    "tikName": "Территориальная избирательная комиссия Курского района"
+    "tikName": "Территориальная избирательная комиссия Курского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 655,
     "uikTvd": "446401491124",
+    "uikName": "УИК №655",
     "tikTvd": "2462000137672",
-    "tikName": "Территориальная избирательная комиссия Курского района"
+    "tikName": "Территориальная избирательная комиссия Курского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 656,
     "uikTvd": "446401581314",
+    "uikName": "УИК №656",
     "tikTvd": "2462000137668",
-    "tikName": "Территориальная избирательная комиссия Курчатовского района"
+    "tikName": "Территориальная избирательная комиссия Курчатовского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 657,
     "uikTvd": "446401581315",
+    "uikName": "УИК №657",
     "tikTvd": "2462000137668",
-    "tikName": "Территориальная избирательная комиссия Курчатовского района"
+    "tikName": "Территориальная избирательная комиссия Курчатовского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 658,
     "uikTvd": "446401581316",
+    "uikName": "УИК №658",
     "tikTvd": "2462000137668",
-    "tikName": "Территориальная избирательная комиссия Курчатовского района"
+    "tikName": "Территориальная избирательная комиссия Курчатовского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 659,
     "uikTvd": "446401581317",
+    "uikName": "УИК №659",
     "tikTvd": "2462000137668",
-    "tikName": "Территориальная избирательная комиссия Курчатовского района"
+    "tikName": "Территориальная избирательная комиссия Курчатовского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 660,
     "uikTvd": "446401581318",
+    "uikName": "УИК №660",
     "tikTvd": "2462000137668",
-    "tikName": "Территориальная избирательная комиссия Курчатовского района"
+    "tikName": "Территориальная избирательная комиссия Курчатовского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 661,
     "uikTvd": "446401581319",
+    "uikName": "УИК №661",
     "tikTvd": "2462000137668",
-    "tikName": "Территориальная избирательная комиссия Курчатовского района"
+    "tikName": "Территориальная избирательная комиссия Курчатовского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 662,
     "uikTvd": "446401581320",
+    "uikName": "УИК №662",
     "tikTvd": "2462000137668",
-    "tikName": "Территориальная избирательная комиссия Курчатовского района"
+    "tikName": "Территориальная избирательная комиссия Курчатовского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 663,
     "uikTvd": "446401581321",
+    "uikName": "УИК №663",
     "tikTvd": "2462000137668",
-    "tikName": "Территориальная избирательная комиссия Курчатовского района"
+    "tikName": "Территориальная избирательная комиссия Курчатовского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 664,
     "uikTvd": "446401581322",
+    "uikName": "УИК №664",
     "tikTvd": "2462000137668",
-    "tikName": "Территориальная избирательная комиссия Курчатовского района"
+    "tikName": "Территориальная избирательная комиссия Курчатовского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 665,
     "uikTvd": "446401581323",
+    "uikName": "УИК №665",
     "tikTvd": "2462000137668",
-    "tikName": "Территориальная избирательная комиссия Курчатовского района"
+    "tikName": "Территориальная избирательная комиссия Курчатовского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 666,
     "uikTvd": "446401581324",
+    "uikName": "УИК №666",
     "tikTvd": "2462000137668",
-    "tikName": "Территориальная избирательная комиссия Курчатовского района"
+    "tikName": "Территориальная избирательная комиссия Курчатовского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 667,
     "uikTvd": "446401581325",
+    "uikName": "УИК №667",
     "tikTvd": "2462000137668",
-    "tikName": "Территориальная избирательная комиссия Курчатовского района"
+    "tikName": "Территориальная избирательная комиссия Курчатовского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 668,
     "uikTvd": "446401581326",
+    "uikName": "УИК №668",
     "tikTvd": "2462000137668",
-    "tikName": "Территориальная избирательная комиссия Курчатовского района"
+    "tikName": "Территориальная избирательная комиссия Курчатовского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 669,
     "uikTvd": "446401581327",
+    "uikName": "УИК №669",
     "tikTvd": "2462000137668",
-    "tikName": "Территориальная избирательная комиссия Курчатовского района"
+    "tikName": "Территориальная избирательная комиссия Курчатовского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 670,
     "uikTvd": "446401581328",
+    "uikName": "УИК №670",
     "tikTvd": "2462000137668",
-    "tikName": "Территориальная избирательная комиссия Курчатовского района"
+    "tikName": "Территориальная избирательная комиссия Курчатовского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 671,
     "uikTvd": "446401581329",
+    "uikName": "УИК №671",
     "tikTvd": "2462000137668",
-    "tikName": "Территориальная избирательная комиссия Курчатовского района"
+    "tikName": "Территориальная избирательная комиссия Курчатовского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 672,
     "uikTvd": "446401581330",
+    "uikName": "УИК №672",
     "tikTvd": "2462000137668",
-    "tikName": "Территориальная избирательная комиссия Курчатовского района"
+    "tikName": "Территориальная избирательная комиссия Курчатовского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 673,
     "uikTvd": "446401581331",
+    "uikName": "УИК №673",
     "tikTvd": "2462000137668",
-    "tikName": "Территориальная избирательная комиссия Курчатовского района"
+    "tikName": "Территориальная избирательная комиссия Курчатовского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 674,
     "uikTvd": "446401581332",
+    "uikName": "УИК №674",
     "tikTvd": "2462000137668",
-    "tikName": "Территориальная избирательная комиссия Курчатовского района"
+    "tikName": "Территориальная избирательная комиссия Курчатовского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 675,
     "uikTvd": "446401581333",
+    "uikName": "УИК №675",
     "tikTvd": "2462000137668",
-    "tikName": "Территориальная избирательная комиссия Курчатовского района"
+    "tikName": "Территориальная избирательная комиссия Курчатовского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 676,
     "uikTvd": "446401581334",
+    "uikName": "УИК №676",
     "tikTvd": "2462000137668",
-    "tikName": "Территориальная избирательная комиссия Курчатовского района"
+    "tikName": "Территориальная избирательная комиссия Курчатовского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 677,
     "uikTvd": "446401581335",
+    "uikName": "УИК №677",
     "tikTvd": "2462000137668",
-    "tikName": "Территориальная избирательная комиссия Курчатовского района"
+    "tikName": "Территориальная избирательная комиссия Курчатовского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 678,
     "uikTvd": "446401581336",
+    "uikName": "УИК №678",
     "tikTvd": "2462000137668",
-    "tikName": "Территориальная избирательная комиссия Курчатовского района"
+    "tikName": "Территориальная избирательная комиссия Курчатовского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 679,
     "uikTvd": "446401581337",
+    "uikName": "УИК №679",
     "tikTvd": "2462000137668",
-    "tikName": "Территориальная избирательная комиссия Курчатовского района"
+    "tikName": "Территориальная избирательная комиссия Курчатовского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 680,
     "uikTvd": "446401581338",
+    "uikName": "УИК №680",
     "tikTvd": "2462000137668",
-    "tikName": "Территориальная избирательная комиссия Курчатовского района"
+    "tikName": "Территориальная избирательная комиссия Курчатовского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 681,
     "uikTvd": "446401682908",
+    "uikName": "УИК №681",
     "tikTvd": "2462000137667",
-    "tikName": "Территориальная избирательная комиссия Льговского района"
+    "tikName": "Территориальная избирательная комиссия Льговского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 682,
     "uikTvd": "446401682910",
+    "uikName": "УИК №682",
     "tikTvd": "2462000137667",
-    "tikName": "Территориальная избирательная комиссия Льговского района"
+    "tikName": "Территориальная избирательная комиссия Льговского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 683,
     "uikTvd": "446401682912",
+    "uikName": "УИК №683",
     "tikTvd": "2462000137667",
-    "tikName": "Территориальная избирательная комиссия Льговского района"
+    "tikName": "Территориальная избирательная комиссия Льговского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 684,
     "uikTvd": "446401682914",
+    "uikName": "УИК №684",
     "tikTvd": "2462000137667",
-    "tikName": "Территориальная избирательная комиссия Льговского района"
+    "tikName": "Территориальная избирательная комиссия Льговского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 685,
     "uikTvd": "446401682916",
+    "uikName": "УИК №685",
     "tikTvd": "2462000137667",
-    "tikName": "Территориальная избирательная комиссия Льговского района"
+    "tikName": "Территориальная избирательная комиссия Льговского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 686,
     "uikTvd": "446401682918",
+    "uikName": "УИК №686",
     "tikTvd": "2462000137667",
-    "tikName": "Территориальная избирательная комиссия Льговского района"
+    "tikName": "Территориальная избирательная комиссия Льговского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 687,
     "uikTvd": "446401682920",
+    "uikName": "УИК №687",
     "tikTvd": "2462000137667",
-    "tikName": "Территориальная избирательная комиссия Льговского района"
+    "tikName": "Территориальная избирательная комиссия Льговского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 688,
     "uikTvd": "446401682922",
+    "uikName": "УИК №688",
     "tikTvd": "2462000137667",
-    "tikName": "Территориальная избирательная комиссия Льговского района"
+    "tikName": "Территориальная избирательная комиссия Льговского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 689,
     "uikTvd": "446401682924",
+    "uikName": "УИК №689",
     "tikTvd": "2462000137667",
-    "tikName": "Территориальная избирательная комиссия Льговского района"
+    "tikName": "Территориальная избирательная комиссия Льговского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 690,
     "uikTvd": "446401682926",
+    "uikName": "УИК №690",
     "tikTvd": "2462000137667",
-    "tikName": "Территориальная избирательная комиссия Льговского района"
+    "tikName": "Территориальная избирательная комиссия Льговского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 691,
     "uikTvd": "446401682928",
+    "uikName": "УИК №691",
     "tikTvd": "2462000137667",
-    "tikName": "Территориальная избирательная комиссия Льговского района"
+    "tikName": "Территориальная избирательная комиссия Льговского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 692,
     "uikTvd": "446401682930",
+    "uikName": "УИК №692",
     "tikTvd": "2462000137667",
-    "tikName": "Территориальная избирательная комиссия Льговского района"
+    "tikName": "Территориальная избирательная комиссия Льговского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 693,
     "uikTvd": "446401682932",
+    "uikName": "УИК №693",
     "tikTvd": "2462000137667",
-    "tikName": "Территориальная избирательная комиссия Льговского района"
+    "tikName": "Территориальная избирательная комиссия Льговского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 694,
     "uikTvd": "446401682934",
+    "uikName": "УИК №694",
     "tikTvd": "2462000137667",
-    "tikName": "Территориальная избирательная комиссия Льговского района"
+    "tikName": "Территориальная избирательная комиссия Льговского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 695,
     "uikTvd": "446401682936",
+    "uikName": "УИК №695",
     "tikTvd": "2462000137667",
-    "tikName": "Территориальная избирательная комиссия Льговского района"
+    "tikName": "Территориальная избирательная комиссия Льговского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 696,
     "uikTvd": "446401682938",
+    "uikName": "УИК №696",
     "tikTvd": "2462000137667",
-    "tikName": "Территориальная избирательная комиссия Льговского района"
+    "tikName": "Территориальная избирательная комиссия Льговского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 697,
     "uikTvd": "446401682940",
+    "uikName": "УИК №697",
     "tikTvd": "2462000137667",
-    "tikName": "Территориальная избирательная комиссия Льговского района"
+    "tikName": "Территориальная избирательная комиссия Льговского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 698,
     "uikTvd": "446401682942",
+    "uikName": "УИК №698",
     "tikTvd": "2462000137667",
-    "tikName": "Территориальная избирательная комиссия Льговского района"
+    "tikName": "Территориальная избирательная комиссия Льговского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 699,
     "uikTvd": "446401682944",
+    "uikName": "УИК №699",
     "tikTvd": "2462000137667",
-    "tikName": "Территориальная избирательная комиссия Льговского района"
+    "tikName": "Территориальная избирательная комиссия Льговского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 700,
     "uikTvd": "446401682946",
+    "uikName": "УИК №700",
     "tikTvd": "2462000137667",
-    "tikName": "Территориальная избирательная комиссия Льговского района"
+    "tikName": "Территориальная избирательная комиссия Льговского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 701,
     "uikTvd": "446401682948",
+    "uikName": "УИК №701",
     "tikTvd": "2462000137667",
-    "tikName": "Территориальная избирательная комиссия Льговского района"
+    "tikName": "Территориальная избирательная комиссия Льговского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 702,
     "uikTvd": "446401682950",
+    "uikName": "УИК №702",
     "tikTvd": "2462000137667",
-    "tikName": "Территориальная избирательная комиссия Льговского района"
+    "tikName": "Территориальная избирательная комиссия Льговского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 703,
     "uikTvd": "446401682952",
+    "uikName": "УИК №703",
     "tikTvd": "2462000137667",
-    "tikName": "Территориальная избирательная комиссия Льговского района"
+    "tikName": "Территориальная избирательная комиссия Льговского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 704,
     "uikTvd": "446401682954",
+    "uikName": "УИК №704",
     "tikTvd": "2462000137667",
-    "tikName": "Территориальная избирательная комиссия Льговского района"
+    "tikName": "Территориальная избирательная комиссия Льговского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 705,
     "uikTvd": "446401682956",
+    "uikName": "УИК №705",
     "tikTvd": "2462000137667",
-    "tikName": "Территориальная избирательная комиссия Льговского района"
+    "tikName": "Территориальная избирательная комиссия Льговского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 706,
     "uikTvd": "446401682958",
+    "uikName": "УИК №706",
     "tikTvd": "2462000137667",
-    "tikName": "Территориальная избирательная комиссия Льговского района"
+    "tikName": "Территориальная избирательная комиссия Льговского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 707,
     "uikTvd": "446401682960",
+    "uikName": "УИК №707",
     "tikTvd": "2462000137667",
-    "tikName": "Территориальная избирательная комиссия Льговского района"
+    "tikName": "Территориальная избирательная комиссия Льговского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 708,
     "uikTvd": "446401682962",
+    "uikName": "УИК №708",
     "tikTvd": "2462000137667",
-    "tikName": "Территориальная избирательная комиссия Льговского района"
+    "tikName": "Территориальная избирательная комиссия Льговского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 709,
     "uikTvd": "446401682964",
+    "uikName": "УИК №709",
     "tikTvd": "2462000137667",
-    "tikName": "Территориальная избирательная комиссия Льговского района"
+    "tikName": "Территориальная избирательная комиссия Льговского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 710,
     "uikTvd": "446401682966",
+    "uikName": "УИК №710",
     "tikTvd": "2462000137667",
-    "tikName": "Территориальная избирательная комиссия Льговского района"
+    "tikName": "Территориальная избирательная комиссия Льговского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 711,
     "uikTvd": "446401682968",
+    "uikName": "УИК №711",
     "tikTvd": "2462000137667",
-    "tikName": "Территориальная избирательная комиссия Льговского района"
+    "tikName": "Территориальная избирательная комиссия Льговского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 712,
     "uikTvd": "446401682970",
+    "uikName": "УИК №712",
     "tikTvd": "2462000137667",
-    "tikName": "Территориальная избирательная комиссия Льговского района"
+    "tikName": "Территориальная избирательная комиссия Льговского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 713,
     "uikTvd": "446401682972",
+    "uikName": "УИК №713",
     "tikTvd": "2462000137667",
-    "tikName": "Территориальная избирательная комиссия Льговского района"
+    "tikName": "Территориальная избирательная комиссия Льговского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 714,
     "uikTvd": "446401682974",
+    "uikName": "УИК №714",
     "tikTvd": "2462000137667",
-    "tikName": "Территориальная избирательная комиссия Льговского района"
+    "tikName": "Территориальная избирательная комиссия Льговского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 715,
     "uikTvd": "446401682976",
+    "uikName": "УИК №715",
     "tikTvd": "2462000137667",
-    "tikName": "Территориальная избирательная комиссия Льговского района"
+    "tikName": "Территориальная избирательная комиссия Льговского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 716,
     "uikTvd": "446401682978",
+    "uikName": "УИК №716",
     "tikTvd": "2462000137667",
-    "tikName": "Территориальная избирательная комиссия Льговского района"
+    "tikName": "Территориальная избирательная комиссия Льговского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 717,
     "uikTvd": "446401682980",
+    "uikName": "УИК №717",
     "tikTvd": "2462000137667",
-    "tikName": "Территориальная избирательная комиссия Льговского района"
+    "tikName": "Территориальная избирательная комиссия Льговского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 718,
     "uikTvd": "446401682982",
+    "uikName": "УИК №718",
     "tikTvd": "2462000137667",
-    "tikName": "Территориальная избирательная комиссия Льговского района"
+    "tikName": "Территориальная избирательная комиссия Льговского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 719,
     "uikTvd": "446401682984",
+    "uikName": "УИК №719",
     "tikTvd": "2462000137667",
-    "tikName": "Территориальная избирательная комиссия Льговского района"
+    "tikName": "Территориальная избирательная комиссия Льговского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 720,
     "uikTvd": "446401682986",
+    "uikName": "УИК №720",
     "tikTvd": "2462000137667",
-    "tikName": "Территориальная избирательная комиссия Льговского района"
+    "tikName": "Территориальная избирательная комиссия Льговского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 721,
     "uikTvd": "446401682988",
+    "uikName": "УИК №721",
     "tikTvd": "2462000137667",
-    "tikName": "Территориальная избирательная комиссия Льговского района"
+    "tikName": "Территориальная избирательная комиссия Льговского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 722,
     "uikTvd": "446401682990",
+    "uikName": "УИК №722",
     "tikTvd": "2462000137667",
-    "tikName": "Территориальная избирательная комиссия Льговского района"
+    "tikName": "Территориальная избирательная комиссия Льговского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 723,
     "uikTvd": "446401682992",
+    "uikName": "УИК №723",
     "tikTvd": "2462000137667",
-    "tikName": "Территориальная избирательная комиссия Льговского района"
+    "tikName": "Территориальная избирательная комиссия Льговского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 724,
     "uikTvd": "446401682994",
+    "uikName": "УИК №724",
     "tikTvd": "2462000137667",
-    "tikName": "Территориальная избирательная комиссия Льговского района"
+    "tikName": "Территориальная избирательная комиссия Льговского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 725,
     "uikTvd": "446401682996",
+    "uikName": "УИК №725",
     "tikTvd": "2462000137667",
-    "tikName": "Территориальная избирательная комиссия Льговского района"
+    "tikName": "Территориальная избирательная комиссия Льговского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 726,
     "uikTvd": "446403491545",
+    "uikName": "УИК №726",
     "tikTvd": "2462000137653",
-    "tikName": "Территориальная избирательная комиссия г. Льгова"
+    "tikName": "Территориальная избирательная комиссия г. Льгова",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 727,
     "uikTvd": "446403491546",
+    "uikName": "УИК №727",
     "tikTvd": "2462000137653",
-    "tikName": "Территориальная избирательная комиссия г. Льгова"
+    "tikName": "Территориальная избирательная комиссия г. Льгова",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 728,
     "uikTvd": "446403491547",
+    "uikName": "УИК №728",
     "tikTvd": "2462000137653",
-    "tikName": "Территориальная избирательная комиссия г. Льгова"
+    "tikName": "Территориальная избирательная комиссия г. Льгова",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 729,
     "uikTvd": "446403491548",
+    "uikName": "УИК №729",
     "tikTvd": "2462000137653",
-    "tikName": "Территориальная избирательная комиссия г. Льгова"
+    "tikName": "Территориальная избирательная комиссия г. Льгова",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 730,
     "uikTvd": "446403491549",
+    "uikName": "УИК №730",
     "tikTvd": "2462000137653",
-    "tikName": "Территориальная избирательная комиссия г. Льгова"
+    "tikName": "Территориальная избирательная комиссия г. Льгова",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 731,
     "uikTvd": "446403491550",
+    "uikName": "УИК №731",
     "tikTvd": "2462000137653",
-    "tikName": "Территориальная избирательная комиссия г. Льгова"
+    "tikName": "Территориальная избирательная комиссия г. Льгова",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 732,
     "uikTvd": "446403491551",
+    "uikName": "УИК №732",
     "tikTvd": "2462000137653",
-    "tikName": "Территориальная избирательная комиссия г. Льгова"
+    "tikName": "Территориальная избирательная комиссия г. Льгова",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 733,
     "uikTvd": "446403491552",
+    "uikName": "УИК №733",
     "tikTvd": "2462000137653",
-    "tikName": "Территориальная избирательная комиссия г. Льгова"
+    "tikName": "Территориальная избирательная комиссия г. Льгова",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 734,
     "uikTvd": "446403491553",
+    "uikName": "УИК №734",
     "tikTvd": "2462000137653",
-    "tikName": "Территориальная избирательная комиссия г. Льгова"
+    "tikName": "Территориальная избирательная комиссия г. Льгова",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 735,
     "uikTvd": "446403491554",
+    "uikName": "УИК №735",
     "tikTvd": "2462000137653",
-    "tikName": "Территориальная избирательная комиссия г. Льгова"
+    "tikName": "Территориальная избирательная комиссия г. Льгова",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 736,
     "uikTvd": "446403491555",
+    "uikName": "УИК №736",
     "tikTvd": "2462000137653",
-    "tikName": "Территориальная избирательная комиссия г. Льгова"
+    "tikName": "Территориальная избирательная комиссия г. Льгова",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 737,
     "uikTvd": "446401778759",
+    "uikName": "УИК №737",
     "tikTvd": "2462000137669",
-    "tikName": "Территориальная избирательная комиссия Мантуровского района"
+    "tikName": "Территориальная избирательная комиссия Мантуровского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 738,
     "uikTvd": "446401778760",
+    "uikName": "УИК №738",
     "tikTvd": "2462000137669",
-    "tikName": "Территориальная избирательная комиссия Мантуровского района"
+    "tikName": "Территориальная избирательная комиссия Мантуровского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 739,
     "uikTvd": "446401778761",
+    "uikName": "УИК №739",
     "tikTvd": "2462000137669",
-    "tikName": "Территориальная избирательная комиссия Мантуровского района"
+    "tikName": "Территориальная избирательная комиссия Мантуровского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 740,
     "uikTvd": "446401778762",
+    "uikName": "УИК №740",
     "tikTvd": "2462000137669",
-    "tikName": "Территориальная избирательная комиссия Мантуровского района"
+    "tikName": "Территориальная избирательная комиссия Мантуровского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 741,
     "uikTvd": "446401778763",
+    "uikName": "УИК №741",
     "tikTvd": "2462000137669",
-    "tikName": "Территориальная избирательная комиссия Мантуровского района"
+    "tikName": "Территориальная избирательная комиссия Мантуровского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 742,
     "uikTvd": "446401778764",
+    "uikName": "УИК №742",
     "tikTvd": "2462000137669",
-    "tikName": "Территориальная избирательная комиссия Мантуровского района"
+    "tikName": "Территориальная избирательная комиссия Мантуровского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 743,
     "uikTvd": "446401778765",
+    "uikName": "УИК №743",
     "tikTvd": "2462000137669",
-    "tikName": "Территориальная избирательная комиссия Мантуровского района"
+    "tikName": "Территориальная избирательная комиссия Мантуровского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 744,
     "uikTvd": "446401778766",
+    "uikName": "УИК №744",
     "tikTvd": "2462000137669",
-    "tikName": "Территориальная избирательная комиссия Мантуровского района"
+    "tikName": "Территориальная избирательная комиссия Мантуровского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 745,
     "uikTvd": "446401778767",
+    "uikName": "УИК №745",
     "tikTvd": "2462000137669",
-    "tikName": "Территориальная избирательная комиссия Мантуровского района"
+    "tikName": "Территориальная избирательная комиссия Мантуровского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 746,
     "uikTvd": "446401778768",
+    "uikName": "УИК №746",
     "tikTvd": "2462000137669",
-    "tikName": "Территориальная избирательная комиссия Мантуровского района"
+    "tikName": "Территориальная избирательная комиссия Мантуровского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 747,
     "uikTvd": "446401778769",
+    "uikName": "УИК №747",
     "tikTvd": "2462000137669",
-    "tikName": "Территориальная избирательная комиссия Мантуровского района"
+    "tikName": "Территориальная избирательная комиссия Мантуровского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 748,
     "uikTvd": "446401778770",
+    "uikName": "УИК №748",
     "tikTvd": "2462000137669",
-    "tikName": "Территориальная избирательная комиссия Мантуровского района"
+    "tikName": "Территориальная избирательная комиссия Мантуровского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 749,
     "uikTvd": "446401778771",
+    "uikName": "УИК №749",
     "tikTvd": "2462000137669",
-    "tikName": "Территориальная избирательная комиссия Мантуровского района"
+    "tikName": "Территориальная избирательная комиссия Мантуровского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 750,
     "uikTvd": "446401778772",
+    "uikName": "УИК №750",
     "tikTvd": "2462000137669",
-    "tikName": "Территориальная избирательная комиссия Мантуровского района"
+    "tikName": "Территориальная избирательная комиссия Мантуровского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 751,
     "uikTvd": "446401778773",
+    "uikName": "УИК №751",
     "tikTvd": "2462000137669",
-    "tikName": "Территориальная избирательная комиссия Мантуровского района"
+    "tikName": "Территориальная избирательная комиссия Мантуровского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 752,
     "uikTvd": "446401778774",
+    "uikName": "УИК №752",
     "tikTvd": "2462000137669",
-    "tikName": "Территориальная избирательная комиссия Мантуровского района"
+    "tikName": "Территориальная избирательная комиссия Мантуровского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 753,
     "uikTvd": "446401778775",
+    "uikName": "УИК №753",
     "tikTvd": "2462000137669",
-    "tikName": "Территориальная избирательная комиссия Мантуровского района"
+    "tikName": "Территориальная избирательная комиссия Мантуровского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 754,
     "uikTvd": "446401778776",
+    "uikName": "УИК №754",
     "tikTvd": "2462000137669",
-    "tikName": "Территориальная избирательная комиссия Мантуровского района"
+    "tikName": "Территориальная избирательная комиссия Мантуровского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 755,
     "uikTvd": "446401778777",
+    "uikName": "УИК №755",
     "tikTvd": "2462000137669",
-    "tikName": "Территориальная избирательная комиссия Мантуровского района"
+    "tikName": "Территориальная избирательная комиссия Мантуровского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 756,
     "uikTvd": "446401778778",
+    "uikName": "УИК №756",
     "tikTvd": "2462000137669",
-    "tikName": "Территориальная избирательная комиссия Мантуровского района"
+    "tikName": "Территориальная избирательная комиссия Мантуровского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 757,
     "uikTvd": "446401778779",
+    "uikName": "УИК №757",
     "tikTvd": "2462000137669",
-    "tikName": "Территориальная избирательная комиссия Мантуровского района"
+    "tikName": "Территориальная избирательная комиссия Мантуровского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 758,
     "uikTvd": "446401778780",
+    "uikName": "УИК №758",
     "tikTvd": "2462000137669",
-    "tikName": "Территориальная избирательная комиссия Мантуровского района"
+    "tikName": "Территориальная избирательная комиссия Мантуровского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 759,
     "uikTvd": "446401778781",
+    "uikName": "УИК №759",
     "tikTvd": "2462000137669",
-    "tikName": "Территориальная избирательная комиссия Мантуровского района"
+    "tikName": "Территориальная избирательная комиссия Мантуровского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 760,
     "uikTvd": "446401778782",
+    "uikName": "УИК №760",
     "tikTvd": "2462000137669",
-    "tikName": "Территориальная избирательная комиссия Мантуровского района"
+    "tikName": "Территориальная избирательная комиссия Мантуровского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 761,
     "uikTvd": "446401778783",
+    "uikName": "УИК №761",
     "tikTvd": "2462000137669",
-    "tikName": "Территориальная избирательная комиссия Мантуровского района"
+    "tikName": "Территориальная избирательная комиссия Мантуровского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 762,
     "uikTvd": "446401880672",
+    "uikName": "УИК №762",
     "tikTvd": "2462000137665",
-    "tikName": "Территориальная избирательная комиссия Медвенского района"
+    "tikName": "Территориальная избирательная комиссия Медвенского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 763,
     "uikTvd": "446401880673",
+    "uikName": "УИК №763",
     "tikTvd": "2462000137665",
-    "tikName": "Территориальная избирательная комиссия Медвенского района"
+    "tikName": "Территориальная избирательная комиссия Медвенского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 764,
     "uikTvd": "446401880674",
+    "uikName": "УИК №764",
     "tikTvd": "2462000137665",
-    "tikName": "Территориальная избирательная комиссия Медвенского района"
+    "tikName": "Территориальная избирательная комиссия Медвенского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 765,
     "uikTvd": "446401880675",
+    "uikName": "УИК №765",
     "tikTvd": "2462000137665",
-    "tikName": "Территориальная избирательная комиссия Медвенского района"
+    "tikName": "Территориальная избирательная комиссия Медвенского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 766,
     "uikTvd": "446401880676",
+    "uikName": "УИК №766",
     "tikTvd": "2462000137665",
-    "tikName": "Территориальная избирательная комиссия Медвенского района"
+    "tikName": "Территориальная избирательная комиссия Медвенского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 767,
     "uikTvd": "446401880677",
+    "uikName": "УИК №767",
     "tikTvd": "2462000137665",
-    "tikName": "Территориальная избирательная комиссия Медвенского района"
+    "tikName": "Территориальная избирательная комиссия Медвенского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 768,
     "uikTvd": "446401880678",
+    "uikName": "УИК №768",
     "tikTvd": "2462000137665",
-    "tikName": "Территориальная избирательная комиссия Медвенского района"
+    "tikName": "Территориальная избирательная комиссия Медвенского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 769,
     "uikTvd": "446401880679",
+    "uikName": "УИК №769",
     "tikTvd": "2462000137665",
-    "tikName": "Территориальная избирательная комиссия Медвенского района"
+    "tikName": "Территориальная избирательная комиссия Медвенского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 770,
     "uikTvd": "446401880680",
+    "uikName": "УИК №770",
     "tikTvd": "2462000137665",
-    "tikName": "Территориальная избирательная комиссия Медвенского района"
+    "tikName": "Территориальная избирательная комиссия Медвенского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 771,
     "uikTvd": "446401880681",
+    "uikName": "УИК №771",
     "tikTvd": "2462000137665",
-    "tikName": "Территориальная избирательная комиссия Медвенского района"
+    "tikName": "Территориальная избирательная комиссия Медвенского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 772,
     "uikTvd": "446401880682",
+    "uikName": "УИК №772",
     "tikTvd": "2462000137665",
-    "tikName": "Территориальная избирательная комиссия Медвенского района"
+    "tikName": "Территориальная избирательная комиссия Медвенского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 773,
     "uikTvd": "446401880683",
+    "uikName": "УИК №773",
     "tikTvd": "2462000137665",
-    "tikName": "Территориальная избирательная комиссия Медвенского района"
+    "tikName": "Территориальная избирательная комиссия Медвенского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 774,
     "uikTvd": "446401880684",
+    "uikName": "УИК №774",
     "tikTvd": "2462000137665",
-    "tikName": "Территориальная избирательная комиссия Медвенского района"
+    "tikName": "Территориальная избирательная комиссия Медвенского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 775,
     "uikTvd": "446401880685",
+    "uikName": "УИК №775",
     "tikTvd": "2462000137665",
-    "tikName": "Территориальная избирательная комиссия Медвенского района"
+    "tikName": "Территориальная избирательная комиссия Медвенского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 776,
     "uikTvd": "446401880686",
+    "uikName": "УИК №776",
     "tikTvd": "2462000137665",
-    "tikName": "Территориальная избирательная комиссия Медвенского района"
+    "tikName": "Территориальная избирательная комиссия Медвенского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 777,
     "uikTvd": "446401880687",
+    "uikName": "УИК №777",
     "tikTvd": "2462000137665",
-    "tikName": "Территориальная избирательная комиссия Медвенского района"
+    "tikName": "Территориальная избирательная комиссия Медвенского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 778,
     "uikTvd": "446401880688",
+    "uikName": "УИК №778",
     "tikTvd": "2462000137665",
-    "tikName": "Территориальная избирательная комиссия Медвенского района"
+    "tikName": "Территориальная избирательная комиссия Медвенского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 779,
     "uikTvd": "446401880689",
+    "uikName": "УИК №779",
     "tikTvd": "2462000137665",
-    "tikName": "Территориальная избирательная комиссия Медвенского района"
+    "tikName": "Территориальная избирательная комиссия Медвенского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 780,
     "uikTvd": "446401880690",
+    "uikName": "УИК №780",
     "tikTvd": "2462000137665",
-    "tikName": "Территориальная избирательная комиссия Медвенского района"
+    "tikName": "Территориальная избирательная комиссия Медвенского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 781,
     "uikTvd": "446401880691",
+    "uikName": "УИК №781",
     "tikTvd": "2462000137665",
-    "tikName": "Территориальная избирательная комиссия Медвенского района"
+    "tikName": "Территориальная избирательная комиссия Медвенского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 782,
     "uikTvd": "446401880692",
+    "uikName": "УИК №782",
     "tikTvd": "2462000137665",
-    "tikName": "Территориальная избирательная комиссия Медвенского района"
+    "tikName": "Территориальная избирательная комиссия Медвенского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 783,
     "uikTvd": "446401880693",
+    "uikName": "УИК №783",
     "tikTvd": "2462000137665",
-    "tikName": "Территориальная избирательная комиссия Медвенского района"
+    "tikName": "Территориальная избирательная комиссия Медвенского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 784,
     "uikTvd": "446401880694",
+    "uikName": "УИК №784",
     "tikTvd": "2462000137665",
-    "tikName": "Территориальная избирательная комиссия Медвенского района"
+    "tikName": "Территориальная избирательная комиссия Медвенского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 785,
     "uikTvd": "446401880695",
+    "uikName": "УИК №785",
     "tikTvd": "2462000137665",
-    "tikName": "Территориальная избирательная комиссия Медвенского района"
+    "tikName": "Территориальная избирательная комиссия Медвенского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 786,
     "uikTvd": "446401983665",
+    "uikName": "УИК №786",
     "tikTvd": "2462000137673",
-    "tikName": "Территориальная избирательная комиссия Обоянского района"
+    "tikName": "Территориальная избирательная комиссия Обоянского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 787,
     "uikTvd": "446401983666",
+    "uikName": "УИК №787",
     "tikTvd": "2462000137673",
-    "tikName": "Территориальная избирательная комиссия Обоянского района"
+    "tikName": "Территориальная избирательная комиссия Обоянского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 788,
     "uikTvd": "446401983667",
+    "uikName": "УИК №788",
     "tikTvd": "2462000137673",
-    "tikName": "Территориальная избирательная комиссия Обоянского района"
+    "tikName": "Территориальная избирательная комиссия Обоянского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 789,
     "uikTvd": "446401983668",
+    "uikName": "УИК №789",
     "tikTvd": "2462000137673",
-    "tikName": "Территориальная избирательная комиссия Обоянского района"
+    "tikName": "Территориальная избирательная комиссия Обоянского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 790,
     "uikTvd": "446401983669",
+    "uikName": "УИК №790",
     "tikTvd": "2462000137673",
-    "tikName": "Территориальная избирательная комиссия Обоянского района"
+    "tikName": "Территориальная избирательная комиссия Обоянского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 791,
     "uikTvd": "446401983670",
+    "uikName": "УИК №791",
     "tikTvd": "2462000137673",
-    "tikName": "Территориальная избирательная комиссия Обоянского района"
+    "tikName": "Территориальная избирательная комиссия Обоянского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 792,
     "uikTvd": "446401983671",
+    "uikName": "УИК №792",
     "tikTvd": "2462000137673",
-    "tikName": "Территориальная избирательная комиссия Обоянского района"
+    "tikName": "Территориальная избирательная комиссия Обоянского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 793,
     "uikTvd": "446401983672",
+    "uikName": "УИК №793",
     "tikTvd": "2462000137673",
-    "tikName": "Территориальная избирательная комиссия Обоянского района"
+    "tikName": "Территориальная избирательная комиссия Обоянского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 794,
     "uikTvd": "446401983673",
+    "uikName": "УИК №794",
     "tikTvd": "2462000137673",
-    "tikName": "Территориальная избирательная комиссия Обоянского района"
+    "tikName": "Территориальная избирательная комиссия Обоянского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 795,
     "uikTvd": "446401983674",
+    "uikName": "УИК №795",
     "tikTvd": "2462000137673",
-    "tikName": "Территориальная избирательная комиссия Обоянского района"
+    "tikName": "Территориальная избирательная комиссия Обоянского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 796,
     "uikTvd": "446401983675",
+    "uikName": "УИК №796",
     "tikTvd": "2462000137673",
-    "tikName": "Территориальная избирательная комиссия Обоянского района"
+    "tikName": "Территориальная избирательная комиссия Обоянского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 797,
     "uikTvd": "446401983676",
+    "uikName": "УИК №797",
     "tikTvd": "2462000137673",
-    "tikName": "Территориальная избирательная комиссия Обоянского района"
+    "tikName": "Территориальная избирательная комиссия Обоянского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 798,
     "uikTvd": "446401983677",
+    "uikName": "УИК №798",
     "tikTvd": "2462000137673",
-    "tikName": "Территориальная избирательная комиссия Обоянского района"
+    "tikName": "Территориальная избирательная комиссия Обоянского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 799,
     "uikTvd": "446401983678",
+    "uikName": "УИК №799",
     "tikTvd": "2462000137673",
-    "tikName": "Территориальная избирательная комиссия Обоянского района"
+    "tikName": "Территориальная избирательная комиссия Обоянского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 800,
     "uikTvd": "446401983679",
+    "uikName": "УИК №800",
     "tikTvd": "2462000137673",
-    "tikName": "Территориальная избирательная комиссия Обоянского района"
+    "tikName": "Территориальная избирательная комиссия Обоянского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 801,
     "uikTvd": "446401983680",
+    "uikName": "УИК №801",
     "tikTvd": "2462000137673",
-    "tikName": "Территориальная избирательная комиссия Обоянского района"
+    "tikName": "Территориальная избирательная комиссия Обоянского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 802,
     "uikTvd": "446401983681",
+    "uikName": "УИК №802",
     "tikTvd": "2462000137673",
-    "tikName": "Территориальная избирательная комиссия Обоянского района"
+    "tikName": "Территориальная избирательная комиссия Обоянского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 803,
     "uikTvd": "446401983682",
+    "uikName": "УИК №803",
     "tikTvd": "2462000137673",
-    "tikName": "Территориальная избирательная комиссия Обоянского района"
+    "tikName": "Территориальная избирательная комиссия Обоянского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 804,
     "uikTvd": "446401983683",
+    "uikName": "УИК №804",
     "tikTvd": "2462000137673",
-    "tikName": "Территориальная избирательная комиссия Обоянского района"
+    "tikName": "Территориальная избирательная комиссия Обоянского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 805,
     "uikTvd": "446401983684",
+    "uikName": "УИК №805",
     "tikTvd": "2462000137673",
-    "tikName": "Территориальная избирательная комиссия Обоянского района"
+    "tikName": "Территориальная избирательная комиссия Обоянского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 806,
     "uikTvd": "446401983685",
+    "uikName": "УИК №806",
     "tikTvd": "2462000137673",
-    "tikName": "Территориальная избирательная комиссия Обоянского района"
+    "tikName": "Территориальная избирательная комиссия Обоянского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 807,
     "uikTvd": "446401983686",
+    "uikName": "УИК №807",
     "tikTvd": "2462000137673",
-    "tikName": "Территориальная избирательная комиссия Обоянского района"
+    "tikName": "Территориальная избирательная комиссия Обоянского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 808,
     "uikTvd": "446401983687",
+    "uikName": "УИК №808",
     "tikTvd": "2462000137673",
-    "tikName": "Территориальная избирательная комиссия Обоянского района"
+    "tikName": "Территориальная избирательная комиссия Обоянского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 809,
     "uikTvd": "446401983688",
+    "uikName": "УИК №809",
     "tikTvd": "2462000137673",
-    "tikName": "Территориальная избирательная комиссия Обоянского района"
+    "tikName": "Территориальная избирательная комиссия Обоянского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 810,
     "uikTvd": "446401983689",
+    "uikName": "УИК №810",
     "tikTvd": "2462000137673",
-    "tikName": "Территориальная избирательная комиссия Обоянского района"
+    "tikName": "Территориальная избирательная комиссия Обоянского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 811,
     "uikTvd": "446401983690",
+    "uikName": "УИК №811",
     "tikTvd": "2462000137673",
-    "tikName": "Территориальная избирательная комиссия Обоянского района"
+    "tikName": "Территориальная избирательная комиссия Обоянского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 812,
     "uikTvd": "446401983691",
+    "uikName": "УИК №812",
     "tikTvd": "2462000137673",
-    "tikName": "Территориальная избирательная комиссия Обоянского района"
+    "tikName": "Территориальная избирательная комиссия Обоянского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 813,
     "uikTvd": "446401983692",
+    "uikName": "УИК №813",
     "tikTvd": "2462000137673",
-    "tikName": "Территориальная избирательная комиссия Обоянского района"
+    "tikName": "Территориальная избирательная комиссия Обоянского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 814,
     "uikTvd": "446401983693",
+    "uikName": "УИК №814",
     "tikTvd": "2462000137673",
-    "tikName": "Территориальная избирательная комиссия Обоянского района"
+    "tikName": "Территориальная избирательная комиссия Обоянского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 815,
     "uikTvd": "446401983694",
+    "uikName": "УИК №815",
     "tikTvd": "2462000137673",
-    "tikName": "Территориальная избирательная комиссия Обоянского района"
+    "tikName": "Территориальная избирательная комиссия Обоянского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 816,
     "uikTvd": "446401983695",
+    "uikName": "УИК №816",
     "tikTvd": "2462000137673",
-    "tikName": "Территориальная избирательная комиссия Обоянского района"
+    "tikName": "Территориальная избирательная комиссия Обоянского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 817,
     "uikTvd": "446401983696",
+    "uikName": "УИК №817",
     "tikTvd": "2462000137673",
-    "tikName": "Территориальная избирательная комиссия Обоянского района"
+    "tikName": "Территориальная избирательная комиссия Обоянского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 818,
     "uikTvd": "446401983697",
+    "uikName": "УИК №818",
     "tikTvd": "2462000137673",
-    "tikName": "Территориальная избирательная комиссия Обоянского района"
+    "tikName": "Территориальная избирательная комиссия Обоянского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 819,
     "uikTvd": "446401983698",
+    "uikName": "УИК №819",
     "tikTvd": "2462000137673",
-    "tikName": "Территориальная избирательная комиссия Обоянского района"
+    "tikName": "Территориальная избирательная комиссия Обоянского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 820,
     "uikTvd": "446401983699",
+    "uikName": "УИК №820",
     "tikTvd": "2462000137673",
-    "tikName": "Территориальная избирательная комиссия Обоянского района"
+    "tikName": "Территориальная избирательная комиссия Обоянского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 821,
     "uikTvd": "446401983700",
+    "uikName": "УИК №821",
     "tikTvd": "2462000137673",
-    "tikName": "Территориальная избирательная комиссия Обоянского района"
+    "tikName": "Территориальная избирательная комиссия Обоянского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 822,
     "uikTvd": "446401983701",
+    "uikName": "УИК №822",
     "tikTvd": "2462000137673",
-    "tikName": "Территориальная избирательная комиссия Обоянского района"
+    "tikName": "Территориальная избирательная комиссия Обоянского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 823,
     "uikTvd": "446401983702",
+    "uikName": "УИК №823",
     "tikTvd": "2462000137673",
-    "tikName": "Территориальная избирательная комиссия Обоянского района"
+    "tikName": "Территориальная избирательная комиссия Обоянского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 824,
     "uikTvd": "446401983703",
+    "uikName": "УИК №824",
     "tikTvd": "2462000137673",
-    "tikName": "Территориальная избирательная комиссия Обоянского района"
+    "tikName": "Территориальная избирательная комиссия Обоянского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 825,
     "uikTvd": "446401983704",
+    "uikName": "УИК №825",
     "tikTvd": "2462000137673",
-    "tikName": "Территориальная избирательная комиссия Обоянского района"
+    "tikName": "Территориальная избирательная комиссия Обоянского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 826,
     "uikTvd": "446401983705",
+    "uikName": "УИК №826",
     "tikTvd": "2462000137673",
-    "tikName": "Территориальная избирательная комиссия Обоянского района"
+    "tikName": "Территориальная избирательная комиссия Обоянского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 827,
     "uikTvd": "446401983706",
+    "uikName": "УИК №827",
     "tikTvd": "2462000137673",
-    "tikName": "Территориальная избирательная комиссия Обоянского района"
+    "tikName": "Территориальная избирательная комиссия Обоянского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 828,
     "uikTvd": "446401983707",
+    "uikName": "УИК №828",
     "tikTvd": "2462000137673",
-    "tikName": "Территориальная избирательная комиссия Обоянского района"
+    "tikName": "Территориальная избирательная комиссия Обоянского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 829,
     "uikTvd": "446402082477",
+    "uikName": "УИК №829",
     "tikTvd": "2462000137681",
-    "tikName": "Территориальная избирательная комиссия Октябрьского района"
+    "tikName": "Территориальная избирательная комиссия Октябрьского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 830,
     "uikTvd": "446402082478",
+    "uikName": "УИК №830",
     "tikTvd": "2462000137681",
-    "tikName": "Территориальная избирательная комиссия Октябрьского района"
+    "tikName": "Территориальная избирательная комиссия Октябрьского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 831,
     "uikTvd": "446402082479",
+    "uikName": "УИК №831",
     "tikTvd": "2462000137681",
-    "tikName": "Территориальная избирательная комиссия Октябрьского района"
+    "tikName": "Территориальная избирательная комиссия Октябрьского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 832,
     "uikTvd": "446402082480",
+    "uikName": "УИК №832",
     "tikTvd": "2462000137681",
-    "tikName": "Территориальная избирательная комиссия Октябрьского района"
+    "tikName": "Территориальная избирательная комиссия Октябрьского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 833,
     "uikTvd": "446402082481",
+    "uikName": "УИК №833",
     "tikTvd": "2462000137681",
-    "tikName": "Территориальная избирательная комиссия Октябрьского района"
+    "tikName": "Территориальная избирательная комиссия Октябрьского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 834,
     "uikTvd": "446402082482",
+    "uikName": "УИК №834",
     "tikTvd": "2462000137681",
-    "tikName": "Территориальная избирательная комиссия Октябрьского района"
+    "tikName": "Территориальная избирательная комиссия Октябрьского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 835,
     "uikTvd": "446402082483",
+    "uikName": "УИК №835",
     "tikTvd": "2462000137681",
-    "tikName": "Территориальная избирательная комиссия Октябрьского района"
+    "tikName": "Территориальная избирательная комиссия Октябрьского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 836,
     "uikTvd": "446402082484",
+    "uikName": "УИК №836",
     "tikTvd": "2462000137681",
-    "tikName": "Территориальная избирательная комиссия Октябрьского района"
+    "tikName": "Территориальная избирательная комиссия Октябрьского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 837,
     "uikTvd": "446402082485",
+    "uikName": "УИК №837",
     "tikTvd": "2462000137681",
-    "tikName": "Территориальная избирательная комиссия Октябрьского района"
+    "tikName": "Территориальная избирательная комиссия Октябрьского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 838,
     "uikTvd": "446402082486",
+    "uikName": "УИК №838",
     "tikTvd": "2462000137681",
-    "tikName": "Территориальная избирательная комиссия Октябрьского района"
+    "tikName": "Территориальная избирательная комиссия Октябрьского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 839,
     "uikTvd": "446402082487",
+    "uikName": "УИК №839",
     "tikTvd": "2462000137681",
-    "tikName": "Территориальная избирательная комиссия Октябрьского района"
+    "tikName": "Территориальная избирательная комиссия Октябрьского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 840,
     "uikTvd": "446402082488",
+    "uikName": "УИК №840",
     "tikTvd": "2462000137681",
-    "tikName": "Территориальная избирательная комиссия Октябрьского района"
+    "tikName": "Территориальная избирательная комиссия Октябрьского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 841,
     "uikTvd": "446402082489",
+    "uikName": "УИК №841",
     "tikTvd": "2462000137681",
-    "tikName": "Территориальная избирательная комиссия Октябрьского района"
+    "tikName": "Территориальная избирательная комиссия Октябрьского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 842,
     "uikTvd": "446402082490",
+    "uikName": "УИК №842",
     "tikTvd": "2462000137681",
-    "tikName": "Территориальная избирательная комиссия Октябрьского района"
+    "tikName": "Территориальная избирательная комиссия Октябрьского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 843,
     "uikTvd": "446402082491",
+    "uikName": "УИК №843",
     "tikTvd": "2462000137681",
-    "tikName": "Территориальная избирательная комиссия Октябрьского района"
+    "tikName": "Территориальная избирательная комиссия Октябрьского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 844,
     "uikTvd": "446402082492",
+    "uikName": "УИК №844",
     "tikTvd": "2462000137681",
-    "tikName": "Территориальная избирательная комиссия Октябрьского района"
+    "tikName": "Территориальная избирательная комиссия Октябрьского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 845,
     "uikTvd": "446402082493",
+    "uikName": "УИК №845",
     "tikTvd": "2462000137681",
-    "tikName": "Территориальная избирательная комиссия Октябрьского района"
+    "tikName": "Территориальная избирательная комиссия Октябрьского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 846,
     "uikTvd": "446402082494",
+    "uikName": "УИК №846",
     "tikTvd": "2462000137681",
-    "tikName": "Территориальная избирательная комиссия Октябрьского района"
+    "tikName": "Территориальная избирательная комиссия Октябрьского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 847,
     "uikTvd": "446402082495",
+    "uikName": "УИК №847",
     "tikTvd": "2462000137681",
-    "tikName": "Территориальная избирательная комиссия Октябрьского района"
+    "tikName": "Территориальная избирательная комиссия Октябрьского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 848,
     "uikTvd": "446402082496",
+    "uikName": "УИК №848",
     "tikTvd": "2462000137681",
-    "tikName": "Территориальная избирательная комиссия Октябрьского района"
+    "tikName": "Территориальная избирательная комиссия Октябрьского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 849,
     "uikTvd": "446402082497",
+    "uikName": "УИК №849",
     "tikTvd": "2462000137681",
-    "tikName": "Территориальная избирательная комиссия Октябрьского района"
+    "tikName": "Территориальная избирательная комиссия Октябрьского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 850,
     "uikTvd": "446402082498",
+    "uikName": "УИК №850",
     "tikTvd": "2462000137681",
-    "tikName": "Территориальная избирательная комиссия Октябрьского района"
+    "tikName": "Территориальная избирательная комиссия Октябрьского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 851,
     "uikTvd": "446402082499",
+    "uikName": "УИК №851",
     "tikTvd": "2462000137681",
-    "tikName": "Территориальная избирательная комиссия Октябрьского района"
+    "tikName": "Территориальная избирательная комиссия Октябрьского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 852,
     "uikTvd": "446402082500",
+    "uikName": "УИК №852",
     "tikTvd": "2462000137681",
-    "tikName": "Территориальная избирательная комиссия Октябрьского района"
+    "tikName": "Территориальная избирательная комиссия Октябрьского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 853,
     "uikTvd": "446402082501",
+    "uikName": "УИК №853",
     "tikTvd": "2462000137681",
-    "tikName": "Территориальная избирательная комиссия Октябрьского района"
+    "tikName": "Территориальная избирательная комиссия Октябрьского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 854,
     "uikTvd": "446402082502",
+    "uikName": "УИК №854",
     "tikTvd": "2462000137681",
-    "tikName": "Территориальная избирательная комиссия Октябрьского района"
+    "tikName": "Территориальная избирательная комиссия Октябрьского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 855,
     "uikTvd": "446402181737",
+    "uikName": "УИК №855",
     "tikTvd": "2462000137680",
-    "tikName": "Территориальная избирательная комиссия Поныровского района"
+    "tikName": "Территориальная избирательная комиссия Поныровского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 856,
     "uikTvd": "446402181738",
+    "uikName": "УИК №856",
     "tikTvd": "2462000137680",
-    "tikName": "Территориальная избирательная комиссия Поныровского района"
+    "tikName": "Территориальная избирательная комиссия Поныровского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 857,
     "uikTvd": "446402181739",
+    "uikName": "УИК №857",
     "tikTvd": "2462000137680",
-    "tikName": "Территориальная избирательная комиссия Поныровского района"
+    "tikName": "Территориальная избирательная комиссия Поныровского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 858,
     "uikTvd": "446402181740",
+    "uikName": "УИК №858",
     "tikTvd": "2462000137680",
-    "tikName": "Территориальная избирательная комиссия Поныровского района"
+    "tikName": "Территориальная избирательная комиссия Поныровского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 859,
     "uikTvd": "446402181741",
+    "uikName": "УИК №859",
     "tikTvd": "2462000137680",
-    "tikName": "Территориальная избирательная комиссия Поныровского района"
+    "tikName": "Территориальная избирательная комиссия Поныровского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 860,
     "uikTvd": "446402181742",
+    "uikName": "УИК №860",
     "tikTvd": "2462000137680",
-    "tikName": "Территориальная избирательная комиссия Поныровского района"
+    "tikName": "Территориальная избирательная комиссия Поныровского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 861,
     "uikTvd": "446402181743",
+    "uikName": "УИК №861",
     "tikTvd": "2462000137680",
-    "tikName": "Территориальная избирательная комиссия Поныровского района"
+    "tikName": "Территориальная избирательная комиссия Поныровского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 862,
     "uikTvd": "446402181744",
+    "uikName": "УИК №862",
     "tikTvd": "2462000137680",
-    "tikName": "Территориальная избирательная комиссия Поныровского района"
+    "tikName": "Территориальная избирательная комиссия Поныровского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 863,
     "uikTvd": "446402181745",
+    "uikName": "УИК №863",
     "tikTvd": "2462000137680",
-    "tikName": "Территориальная избирательная комиссия Поныровского района"
+    "tikName": "Территориальная избирательная комиссия Поныровского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 864,
     "uikTvd": "446402181746",
+    "uikName": "УИК №864",
     "tikTvd": "2462000137680",
-    "tikName": "Территориальная избирательная комиссия Поныровского района"
+    "tikName": "Территориальная избирательная комиссия Поныровского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 865,
     "uikTvd": "446402181747",
+    "uikName": "УИК №865",
     "tikTvd": "2462000137680",
-    "tikName": "Территориальная избирательная комиссия Поныровского района"
+    "tikName": "Территориальная избирательная комиссия Поныровского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 866,
     "uikTvd": "446402181748",
+    "uikName": "УИК №866",
     "tikTvd": "2462000137680",
-    "tikName": "Территориальная избирательная комиссия Поныровского района"
+    "tikName": "Территориальная избирательная комиссия Поныровского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 867,
     "uikTvd": "446402181749",
+    "uikName": "УИК №867",
     "tikTvd": "2462000137680",
-    "tikName": "Территориальная избирательная комиссия Поныровского района"
+    "tikName": "Территориальная избирательная комиссия Поныровского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 868,
     "uikTvd": "446402181750",
+    "uikName": "УИК №868",
     "tikTvd": "2462000137680",
-    "tikName": "Территориальная избирательная комиссия Поныровского района"
+    "tikName": "Территориальная избирательная комиссия Поныровского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 869,
     "uikTvd": "446402181751",
+    "uikName": "УИК №869",
     "tikTvd": "2462000137680",
-    "tikName": "Территориальная избирательная комиссия Поныровского района"
+    "tikName": "Территориальная избирательная комиссия Поныровского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 870,
     "uikTvd": "446402181752",
+    "uikName": "УИК №870",
     "tikTvd": "2462000137680",
-    "tikName": "Территориальная избирательная комиссия Поныровского района"
+    "tikName": "Территориальная избирательная комиссия Поныровского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 871,
     "uikTvd": "446402181753",
+    "uikName": "УИК №871",
     "tikTvd": "2462000137680",
-    "tikName": "Территориальная избирательная комиссия Поныровского района"
+    "tikName": "Территориальная избирательная комиссия Поныровского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 872,
     "uikTvd": "446402181754",
+    "uikName": "УИК №872",
     "tikTvd": "2462000137680",
-    "tikName": "Территориальная избирательная комиссия Поныровского района"
+    "tikName": "Территориальная избирательная комиссия Поныровского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 873,
     "uikTvd": "446402281706",
+    "uikName": "УИК №873",
     "tikTvd": "2462000137682",
-    "tikName": "Территориальная избирательная комиссия Пристенского района"
+    "tikName": "Территориальная избирательная комиссия Пристенского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 874,
     "uikTvd": "446402281707",
+    "uikName": "УИК №874",
     "tikTvd": "2462000137682",
-    "tikName": "Территориальная избирательная комиссия Пристенского района"
+    "tikName": "Территориальная избирательная комиссия Пристенского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 875,
     "uikTvd": "446402281708",
+    "uikName": "УИК №875",
     "tikTvd": "2462000137682",
-    "tikName": "Территориальная избирательная комиссия Пристенского района"
+    "tikName": "Территориальная избирательная комиссия Пристенского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 876,
     "uikTvd": "446402281709",
+    "uikName": "УИК №876",
     "tikTvd": "2462000137682",
-    "tikName": "Территориальная избирательная комиссия Пристенского района"
+    "tikName": "Территориальная избирательная комиссия Пристенского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 877,
     "uikTvd": "446402281710",
+    "uikName": "УИК №877",
     "tikTvd": "2462000137682",
-    "tikName": "Территориальная избирательная комиссия Пристенского района"
+    "tikName": "Территориальная избирательная комиссия Пристенского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 878,
     "uikTvd": "446402281711",
+    "uikName": "УИК №878",
     "tikTvd": "2462000137682",
-    "tikName": "Территориальная избирательная комиссия Пристенского района"
+    "tikName": "Территориальная избирательная комиссия Пристенского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 879,
     "uikTvd": "446402281712",
+    "uikName": "УИК №879",
     "tikTvd": "2462000137682",
-    "tikName": "Территориальная избирательная комиссия Пристенского района"
+    "tikName": "Территориальная избирательная комиссия Пристенского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 880,
     "uikTvd": "446402281713",
+    "uikName": "УИК №880",
     "tikTvd": "2462000137682",
-    "tikName": "Территориальная избирательная комиссия Пристенского района"
+    "tikName": "Территориальная избирательная комиссия Пристенского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 881,
     "uikTvd": "446402281714",
+    "uikName": "УИК №881",
     "tikTvd": "2462000137682",
-    "tikName": "Территориальная избирательная комиссия Пристенского района"
+    "tikName": "Территориальная избирательная комиссия Пристенского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 882,
     "uikTvd": "446402281715",
+    "uikName": "УИК №882",
     "tikTvd": "2462000137682",
-    "tikName": "Территориальная избирательная комиссия Пристенского района"
+    "tikName": "Территориальная избирательная комиссия Пристенского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 883,
     "uikTvd": "446402281716",
+    "uikName": "УИК №883",
     "tikTvd": "2462000137682",
-    "tikName": "Территориальная избирательная комиссия Пристенского района"
+    "tikName": "Территориальная избирательная комиссия Пристенского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 884,
     "uikTvd": "446402281717",
+    "uikName": "УИК №884",
     "tikTvd": "2462000137682",
-    "tikName": "Территориальная избирательная комиссия Пристенского района"
+    "tikName": "Территориальная избирательная комиссия Пристенского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 885,
     "uikTvd": "446402281718",
+    "uikName": "УИК №885",
     "tikTvd": "2462000137682",
-    "tikName": "Территориальная избирательная комиссия Пристенского района"
+    "tikName": "Территориальная избирательная комиссия Пристенского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 886,
     "uikTvd": "446402281719",
+    "uikName": "УИК №886",
     "tikTvd": "2462000137682",
-    "tikName": "Территориальная избирательная комиссия Пристенского района"
+    "tikName": "Территориальная избирательная комиссия Пристенского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 887,
     "uikTvd": "446402281720",
+    "uikName": "УИК №887",
     "tikTvd": "2462000137682",
-    "tikName": "Территориальная избирательная комиссия Пристенского района"
+    "tikName": "Территориальная избирательная комиссия Пристенского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 888,
     "uikTvd": "446402281721",
+    "uikName": "УИК №888",
     "tikTvd": "2462000137682",
-    "tikName": "Территориальная избирательная комиссия Пристенского района"
+    "tikName": "Территориальная избирательная комиссия Пристенского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 889,
     "uikTvd": "446402281722",
+    "uikName": "УИК №889",
     "tikTvd": "2462000137682",
-    "tikName": "Территориальная избирательная комиссия Пристенского района"
+    "tikName": "Территориальная избирательная комиссия Пристенского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 890,
     "uikTvd": "446402281723",
+    "uikName": "УИК №890",
     "tikTvd": "2462000137682",
-    "tikName": "Территориальная избирательная комиссия Пристенского района"
+    "tikName": "Территориальная избирательная комиссия Пристенского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 891,
     "uikTvd": "446402281724",
+    "uikName": "УИК №891",
     "tikTvd": "2462000137682",
-    "tikName": "Территориальная избирательная комиссия Пристенского района"
+    "tikName": "Территориальная избирательная комиссия Пристенского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 892,
     "uikTvd": "446402281725",
+    "uikName": "УИК №892",
     "tikTvd": "2462000137682",
-    "tikName": "Территориальная избирательная комиссия Пристенского района"
+    "tikName": "Территориальная избирательная комиссия Пристенского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 893,
     "uikTvd": "446402281726",
+    "uikName": "УИК №893",
     "tikTvd": "2462000137682",
-    "tikName": "Территориальная избирательная комиссия Пристенского района"
+    "tikName": "Территориальная избирательная комиссия Пристенского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 894,
     "uikTvd": "446402281727",
+    "uikName": "УИК №894",
     "tikTvd": "2462000137682",
-    "tikName": "Территориальная избирательная комиссия Пристенского района"
+    "tikName": "Территориальная избирательная комиссия Пристенского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 895,
     "uikTvd": "446402281728",
+    "uikName": "УИК №895",
     "tikTvd": "2462000137682",
-    "tikName": "Территориальная избирательная комиссия Пристенского района"
+    "tikName": "Территориальная избирательная комиссия Пристенского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 896,
     "uikTvd": "446402281729",
+    "uikName": "УИК №896",
     "tikTvd": "2462000137682",
-    "tikName": "Территориальная избирательная комиссия Пристенского района"
+    "tikName": "Территориальная избирательная комиссия Пристенского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 897,
     "uikTvd": "446402281730",
+    "uikName": "УИК №897",
     "tikTvd": "2462000137682",
-    "tikName": "Территориальная избирательная комиссия Пристенского района"
+    "tikName": "Территориальная избирательная комиссия Пристенского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 898,
     "uikTvd": "446402281731",
+    "uikName": "УИК №898",
     "tikTvd": "2462000137682",
-    "tikName": "Территориальная избирательная комиссия Пристенского района"
+    "tikName": "Территориальная избирательная комиссия Пристенского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 899,
     "uikTvd": "446402281732",
+    "uikName": "УИК №899",
     "tikTvd": "2462000137682",
-    "tikName": "Территориальная избирательная комиссия Пристенского района"
+    "tikName": "Территориальная избирательная комиссия Пристенского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 900,
     "uikTvd": "446402281733",
+    "uikName": "УИК №900",
     "tikTvd": "2462000137682",
-    "tikName": "Территориальная избирательная комиссия Пристенского района"
+    "tikName": "Территориальная избирательная комиссия Пристенского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 901,
     "uikTvd": "446402281734",
+    "uikName": "УИК №901",
     "tikTvd": "2462000137682",
-    "tikName": "Территориальная избирательная комиссия Пристенского района"
+    "tikName": "Территориальная избирательная комиссия Пристенского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 902,
     "uikTvd": "446402384440",
+    "uikName": "УИК №902",
     "tikTvd": "2462000137678",
-    "tikName": "Территориальная избирательная комиссия Рыльского района"
+    "tikName": "Территориальная избирательная комиссия Рыльского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 903,
     "uikTvd": "446402384441",
+    "uikName": "УИК №903",
     "tikTvd": "2462000137678",
-    "tikName": "Территориальная избирательная комиссия Рыльского района"
+    "tikName": "Территориальная избирательная комиссия Рыльского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 904,
     "uikTvd": "446402384442",
+    "uikName": "УИК №904",
     "tikTvd": "2462000137678",
-    "tikName": "Территориальная избирательная комиссия Рыльского района"
+    "tikName": "Территориальная избирательная комиссия Рыльского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 905,
     "uikTvd": "446402384443",
+    "uikName": "УИК №905",
     "tikTvd": "2462000137678",
-    "tikName": "Территориальная избирательная комиссия Рыльского района"
+    "tikName": "Территориальная избирательная комиссия Рыльского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 906,
     "uikTvd": "446402384444",
+    "uikName": "УИК №906",
     "tikTvd": "2462000137678",
-    "tikName": "Территориальная избирательная комиссия Рыльского района"
+    "tikName": "Территориальная избирательная комиссия Рыльского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 907,
     "uikTvd": "446402384445",
+    "uikName": "УИК №907",
     "tikTvd": "2462000137678",
-    "tikName": "Территориальная избирательная комиссия Рыльского района"
+    "tikName": "Территориальная избирательная комиссия Рыльского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 908,
     "uikTvd": "446402384446",
+    "uikName": "УИК №908",
     "tikTvd": "2462000137678",
-    "tikName": "Территориальная избирательная комиссия Рыльского района"
+    "tikName": "Территориальная избирательная комиссия Рыльского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 909,
     "uikTvd": "446402384447",
+    "uikName": "УИК №909",
     "tikTvd": "2462000137678",
-    "tikName": "Территориальная избирательная комиссия Рыльского района"
+    "tikName": "Территориальная избирательная комиссия Рыльского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 910,
     "uikTvd": "446402384448",
+    "uikName": "УИК №910",
     "tikTvd": "2462000137678",
-    "tikName": "Территориальная избирательная комиссия Рыльского района"
+    "tikName": "Территориальная избирательная комиссия Рыльского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 911,
     "uikTvd": "446402384449",
+    "uikName": "УИК №911",
     "tikTvd": "2462000137678",
-    "tikName": "Территориальная избирательная комиссия Рыльского района"
+    "tikName": "Территориальная избирательная комиссия Рыльского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 912,
     "uikTvd": "446402384450",
+    "uikName": "УИК №912",
     "tikTvd": "2462000137678",
-    "tikName": "Территориальная избирательная комиссия Рыльского района"
+    "tikName": "Территориальная избирательная комиссия Рыльского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 913,
     "uikTvd": "446402384451",
+    "uikName": "УИК №913",
     "tikTvd": "2462000137678",
-    "tikName": "Территориальная избирательная комиссия Рыльского района"
+    "tikName": "Территориальная избирательная комиссия Рыльского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 914,
     "uikTvd": "446402384452",
+    "uikName": "УИК №914",
     "tikTvd": "2462000137678",
-    "tikName": "Территориальная избирательная комиссия Рыльского района"
+    "tikName": "Территориальная избирательная комиссия Рыльского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 915,
     "uikTvd": "446402384453",
+    "uikName": "УИК №915",
     "tikTvd": "2462000137678",
-    "tikName": "Территориальная избирательная комиссия Рыльского района"
+    "tikName": "Территориальная избирательная комиссия Рыльского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 916,
     "uikTvd": "446402384454",
+    "uikName": "УИК №916",
     "tikTvd": "2462000137678",
-    "tikName": "Территориальная избирательная комиссия Рыльского района"
+    "tikName": "Территориальная избирательная комиссия Рыльского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 917,
     "uikTvd": "446402384455",
+    "uikName": "УИК №917",
     "tikTvd": "2462000137678",
-    "tikName": "Территориальная избирательная комиссия Рыльского района"
+    "tikName": "Территориальная избирательная комиссия Рыльского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 918,
     "uikTvd": "446402384456",
+    "uikName": "УИК №918",
     "tikTvd": "2462000137678",
-    "tikName": "Территориальная избирательная комиссия Рыльского района"
+    "tikName": "Территориальная избирательная комиссия Рыльского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 919,
     "uikTvd": "446402384457",
+    "uikName": "УИК №919",
     "tikTvd": "2462000137678",
-    "tikName": "Территориальная избирательная комиссия Рыльского района"
+    "tikName": "Территориальная избирательная комиссия Рыльского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 920,
     "uikTvd": "446402384458",
+    "uikName": "УИК №920",
     "tikTvd": "2462000137678",
-    "tikName": "Территориальная избирательная комиссия Рыльского района"
+    "tikName": "Территориальная избирательная комиссия Рыльского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 921,
     "uikTvd": "446402384459",
+    "uikName": "УИК №921",
     "tikTvd": "2462000137678",
-    "tikName": "Территориальная избирательная комиссия Рыльского района"
+    "tikName": "Территориальная избирательная комиссия Рыльского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 922,
     "uikTvd": "446402384460",
+    "uikName": "УИК №922",
     "tikTvd": "2462000137678",
-    "tikName": "Территориальная избирательная комиссия Рыльского района"
+    "tikName": "Территориальная избирательная комиссия Рыльского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 923,
     "uikTvd": "446402384461",
+    "uikName": "УИК №923",
     "tikTvd": "2462000137678",
-    "tikName": "Территориальная избирательная комиссия Рыльского района"
+    "tikName": "Территориальная избирательная комиссия Рыльского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 924,
     "uikTvd": "446402384462",
+    "uikName": "УИК №924",
     "tikTvd": "2462000137678",
-    "tikName": "Территориальная избирательная комиссия Рыльского района"
+    "tikName": "Территориальная избирательная комиссия Рыльского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 925,
     "uikTvd": "446402384463",
+    "uikName": "УИК №925",
     "tikTvd": "2462000137678",
-    "tikName": "Территориальная избирательная комиссия Рыльского района"
+    "tikName": "Территориальная избирательная комиссия Рыльского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 926,
     "uikTvd": "446402384464",
+    "uikName": "УИК №926",
     "tikTvd": "2462000137678",
-    "tikName": "Территориальная избирательная комиссия Рыльского района"
+    "tikName": "Территориальная избирательная комиссия Рыльского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 927,
     "uikTvd": "446402384465",
+    "uikName": "УИК №927",
     "tikTvd": "2462000137678",
-    "tikName": "Территориальная избирательная комиссия Рыльского района"
+    "tikName": "Территориальная избирательная комиссия Рыльского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 928,
     "uikTvd": "446402384466",
+    "uikName": "УИК №928",
     "tikTvd": "2462000137678",
-    "tikName": "Территориальная избирательная комиссия Рыльского района"
+    "tikName": "Территориальная избирательная комиссия Рыльского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 929,
     "uikTvd": "446402384467",
+    "uikName": "УИК №929",
     "tikTvd": "2462000137678",
-    "tikName": "Территориальная избирательная комиссия Рыльского района"
+    "tikName": "Территориальная избирательная комиссия Рыльского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 930,
     "uikTvd": "446402384468",
+    "uikName": "УИК №930",
     "tikTvd": "2462000137678",
-    "tikName": "Территориальная избирательная комиссия Рыльского района"
+    "tikName": "Территориальная избирательная комиссия Рыльского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 931,
     "uikTvd": "446402384469",
+    "uikName": "УИК №931",
     "tikTvd": "2462000137678",
-    "tikName": "Территориальная избирательная комиссия Рыльского района"
+    "tikName": "Территориальная избирательная комиссия Рыльского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 932,
     "uikTvd": "446402384470",
+    "uikName": "УИК №932",
     "tikTvd": "2462000137678",
-    "tikName": "Территориальная избирательная комиссия Рыльского района"
+    "tikName": "Территориальная избирательная комиссия Рыльского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 933,
     "uikTvd": "446402384471",
+    "uikName": "УИК №933",
     "tikTvd": "2462000137678",
-    "tikName": "Территориальная избирательная комиссия Рыльского района"
+    "tikName": "Территориальная избирательная комиссия Рыльского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 934,
     "uikTvd": "446402384472",
+    "uikName": "УИК №934",
     "tikTvd": "2462000137678",
-    "tikName": "Территориальная избирательная комиссия Рыльского района"
+    "tikName": "Территориальная избирательная комиссия Рыльского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 935,
     "uikTvd": "446402384473",
+    "uikName": "УИК №935",
     "tikTvd": "2462000137678",
-    "tikName": "Территориальная избирательная комиссия Рыльского района"
+    "tikName": "Территориальная избирательная комиссия Рыльского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 936,
     "uikTvd": "446402384474",
+    "uikName": "УИК №936",
     "tikTvd": "2462000137678",
-    "tikName": "Территориальная избирательная комиссия Рыльского района"
+    "tikName": "Территориальная избирательная комиссия Рыльского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 937,
     "uikTvd": "446402384475",
+    "uikName": "УИК №937",
     "tikTvd": "2462000137678",
-    "tikName": "Территориальная избирательная комиссия Рыльского района"
+    "tikName": "Территориальная избирательная комиссия Рыльского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 938,
     "uikTvd": "446402384476",
+    "uikName": "УИК №938",
     "tikTvd": "2462000137678",
-    "tikName": "Территориальная избирательная комиссия Рыльского района"
+    "tikName": "Территориальная избирательная комиссия Рыльского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 939,
     "uikTvd": "446402384477",
+    "uikName": "УИК №939",
     "tikTvd": "2462000137678",
-    "tikName": "Территориальная избирательная комиссия Рыльского района"
+    "tikName": "Территориальная избирательная комиссия Рыльского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 940,
     "uikTvd": "446402384478",
+    "uikName": "УИК №940",
     "tikTvd": "2462000137678",
-    "tikName": "Территориальная избирательная комиссия Рыльского района"
+    "tikName": "Территориальная избирательная комиссия Рыльского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 941,
     "uikTvd": "446402384479",
+    "uikName": "УИК №941",
     "tikTvd": "2462000137678",
-    "tikName": "Территориальная избирательная комиссия Рыльского района"
+    "tikName": "Территориальная избирательная комиссия Рыльского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 942,
     "uikTvd": "446402384480",
+    "uikName": "УИК №942",
     "tikTvd": "2462000137678",
-    "tikName": "Территориальная избирательная комиссия Рыльского района"
+    "tikName": "Территориальная избирательная комиссия Рыльского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 943,
     "uikTvd": "446402384481",
+    "uikName": "УИК №943",
     "tikTvd": "2462000137678",
-    "tikName": "Территориальная избирательная комиссия Рыльского района"
+    "tikName": "Территориальная избирательная комиссия Рыльского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 944,
     "uikTvd": "446402384482",
+    "uikName": "УИК №944",
     "tikTvd": "2462000137678",
-    "tikName": "Территориальная избирательная комиссия Рыльского района"
+    "tikName": "Территориальная избирательная комиссия Рыльского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 945,
     "uikTvd": "446402384483",
+    "uikName": "УИК №945",
     "tikTvd": "2462000137678",
-    "tikName": "Территориальная избирательная комиссия Рыльского района"
+    "tikName": "Территориальная избирательная комиссия Рыльского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 946,
     "uikTvd": "446402384484",
+    "uikName": "УИК №946",
     "tikTvd": "2462000137678",
-    "tikName": "Территориальная избирательная комиссия Рыльского района"
+    "tikName": "Территориальная избирательная комиссия Рыльского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 947,
     "uikTvd": "446402384485",
+    "uikName": "УИК №947",
     "tikTvd": "2462000137678",
-    "tikName": "Территориальная избирательная комиссия Рыльского района"
+    "tikName": "Территориальная избирательная комиссия Рыльского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 948,
     "uikTvd": "446402384486",
+    "uikName": "УИК №948",
     "tikTvd": "2462000137678",
-    "tikName": "Территориальная избирательная комиссия Рыльского района"
+    "tikName": "Территориальная избирательная комиссия Рыльского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 949,
     "uikTvd": "446402384487",
+    "uikName": "УИК №949",
     "tikTvd": "2462000137678",
-    "tikName": "Территориальная избирательная комиссия Рыльского района"
+    "tikName": "Территориальная избирательная комиссия Рыльского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 950,
     "uikTvd": "446402384488",
+    "uikName": "УИК №950",
     "tikTvd": "2462000137678",
-    "tikName": "Территориальная избирательная комиссия Рыльского района"
+    "tikName": "Территориальная избирательная комиссия Рыльского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 951,
     "uikTvd": "446402482656",
+    "uikName": "УИК №951",
     "tikTvd": "2462000137677",
-    "tikName": "Территориальная избирательная комиссия Советского района"
+    "tikName": "Территориальная избирательная комиссия Советского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 952,
     "uikTvd": "446402482657",
+    "uikName": "УИК №952",
     "tikTvd": "2462000137677",
-    "tikName": "Территориальная избирательная комиссия Советского района"
+    "tikName": "Территориальная избирательная комиссия Советского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 953,
     "uikTvd": "446402482658",
+    "uikName": "УИК №953",
     "tikTvd": "2462000137677",
-    "tikName": "Территориальная избирательная комиссия Советского района"
+    "tikName": "Территориальная избирательная комиссия Советского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 954,
     "uikTvd": "446402482659",
+    "uikName": "УИК №954",
     "tikTvd": "2462000137677",
-    "tikName": "Территориальная избирательная комиссия Советского района"
+    "tikName": "Территориальная избирательная комиссия Советского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 955,
     "uikTvd": "446402482660",
+    "uikName": "УИК №955",
     "tikTvd": "2462000137677",
-    "tikName": "Территориальная избирательная комиссия Советского района"
+    "tikName": "Территориальная избирательная комиссия Советского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 956,
     "uikTvd": "446402482661",
+    "uikName": "УИК №956",
     "tikTvd": "2462000137677",
-    "tikName": "Территориальная избирательная комиссия Советского района"
+    "tikName": "Территориальная избирательная комиссия Советского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 957,
     "uikTvd": "446402482662",
+    "uikName": "УИК №957",
     "tikTvd": "2462000137677",
-    "tikName": "Территориальная избирательная комиссия Советского района"
+    "tikName": "Территориальная избирательная комиссия Советского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 958,
     "uikTvd": "446402482663",
+    "uikName": "УИК №958",
     "tikTvd": "2462000137677",
-    "tikName": "Территориальная избирательная комиссия Советского района"
+    "tikName": "Территориальная избирательная комиссия Советского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 959,
     "uikTvd": "446402482664",
+    "uikName": "УИК №959",
     "tikTvd": "2462000137677",
-    "tikName": "Территориальная избирательная комиссия Советского района"
+    "tikName": "Территориальная избирательная комиссия Советского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 960,
     "uikTvd": "446402482665",
+    "uikName": "УИК №960",
     "tikTvd": "2462000137677",
-    "tikName": "Территориальная избирательная комиссия Советского района"
+    "tikName": "Территориальная избирательная комиссия Советского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 961,
     "uikTvd": "446402482666",
+    "uikName": "УИК №961",
     "tikTvd": "2462000137677",
-    "tikName": "Территориальная избирательная комиссия Советского района"
+    "tikName": "Территориальная избирательная комиссия Советского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 962,
     "uikTvd": "446402482667",
+    "uikName": "УИК №962",
     "tikTvd": "2462000137677",
-    "tikName": "Территориальная избирательная комиссия Советского района"
+    "tikName": "Территориальная избирательная комиссия Советского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 963,
     "uikTvd": "446402482668",
+    "uikName": "УИК №963",
     "tikTvd": "2462000137677",
-    "tikName": "Территориальная избирательная комиссия Советского района"
+    "tikName": "Территориальная избирательная комиссия Советского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 964,
     "uikTvd": "446402482669",
+    "uikName": "УИК №964",
     "tikTvd": "2462000137677",
-    "tikName": "Территориальная избирательная комиссия Советского района"
+    "tikName": "Территориальная избирательная комиссия Советского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 965,
     "uikTvd": "446402482670",
+    "uikName": "УИК №965",
     "tikTvd": "2462000137677",
-    "tikName": "Территориальная избирательная комиссия Советского района"
+    "tikName": "Территориальная избирательная комиссия Советского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 966,
     "uikTvd": "446402482671",
+    "uikName": "УИК №966",
     "tikTvd": "2462000137677",
-    "tikName": "Территориальная избирательная комиссия Советского района"
+    "tikName": "Территориальная избирательная комиссия Советского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 967,
     "uikTvd": "446402482672",
+    "uikName": "УИК №967",
     "tikTvd": "2462000137677",
-    "tikName": "Территориальная избирательная комиссия Советского района"
+    "tikName": "Территориальная избирательная комиссия Советского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 968,
     "uikTvd": "446402482673",
+    "uikName": "УИК №968",
     "tikTvd": "2462000137677",
-    "tikName": "Территориальная избирательная комиссия Советского района"
+    "tikName": "Территориальная избирательная комиссия Советского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 969,
     "uikTvd": "446402482674",
+    "uikName": "УИК №969",
     "tikTvd": "2462000137677",
-    "tikName": "Территориальная избирательная комиссия Советского района"
+    "tikName": "Территориальная избирательная комиссия Советского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 970,
     "uikTvd": "446402482675",
+    "uikName": "УИК №970",
     "tikTvd": "2462000137677",
-    "tikName": "Территориальная избирательная комиссия Советского района"
+    "tikName": "Территориальная избирательная комиссия Советского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 971,
     "uikTvd": "446402482676",
+    "uikName": "УИК №971",
     "tikTvd": "2462000137677",
-    "tikName": "Территориальная избирательная комиссия Советского района"
+    "tikName": "Территориальная избирательная комиссия Советского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 972,
     "uikTvd": "446402482677",
+    "uikName": "УИК №972",
     "tikTvd": "2462000137677",
-    "tikName": "Территориальная избирательная комиссия Советского района"
+    "tikName": "Территориальная избирательная комиссия Советского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 973,
     "uikTvd": "446402482678",
+    "uikName": "УИК №973",
     "tikTvd": "2462000137677",
-    "tikName": "Территориальная избирательная комиссия Советского района"
+    "tikName": "Территориальная избирательная комиссия Советского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 974,
     "uikTvd": "446402482679",
+    "uikName": "УИК №974",
     "tikTvd": "2462000137677",
-    "tikName": "Территориальная избирательная комиссия Советского района"
+    "tikName": "Территориальная избирательная комиссия Советского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 975,
     "uikTvd": "446402482680",
+    "uikName": "УИК №975",
     "tikTvd": "2462000137677",
-    "tikName": "Территориальная избирательная комиссия Советского района"
+    "tikName": "Территориальная избирательная комиссия Советского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 976,
     "uikTvd": "446402482681",
+    "uikName": "УИК №976",
     "tikTvd": "2462000137677",
-    "tikName": "Территориальная избирательная комиссия Советского района"
+    "tikName": "Территориальная избирательная комиссия Советского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 977,
     "uikTvd": "446402482682",
+    "uikName": "УИК №977",
     "tikTvd": "2462000137677",
-    "tikName": "Территориальная избирательная комиссия Советского района"
+    "tikName": "Территориальная избирательная комиссия Советского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 978,
     "uikTvd": "446402482683",
+    "uikName": "УИК №978",
     "tikTvd": "2462000137677",
-    "tikName": "Территориальная избирательная комиссия Советского района"
+    "tikName": "Территориальная избирательная комиссия Советского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 979,
     "uikTvd": "446402482684",
+    "uikName": "УИК №979",
     "tikTvd": "2462000137677",
-    "tikName": "Территориальная избирательная комиссия Советского района"
+    "tikName": "Территориальная избирательная комиссия Советского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 980,
     "uikTvd": "446402482685",
+    "uikName": "УИК №980",
     "tikTvd": "2462000137677",
-    "tikName": "Территориальная избирательная комиссия Советского района"
+    "tikName": "Территориальная избирательная комиссия Советского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 981,
     "uikTvd": "446402482686",
+    "uikName": "УИК №981",
     "tikTvd": "2462000137677",
-    "tikName": "Территориальная избирательная комиссия Советского района"
+    "tikName": "Территориальная избирательная комиссия Советского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 982,
     "uikTvd": "446402482687",
+    "uikName": "УИК №982",
     "tikTvd": "2462000137677",
-    "tikName": "Территориальная избирательная комиссия Советского района"
+    "tikName": "Территориальная избирательная комиссия Советского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 983,
     "uikTvd": "446402482688",
+    "uikName": "УИК №983",
     "tikTvd": "2462000137677",
-    "tikName": "Территориальная избирательная комиссия Советского района"
+    "tikName": "Территориальная избирательная комиссия Советского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 984,
     "uikTvd": "446402482689",
+    "uikName": "УИК №984",
     "tikTvd": "2462000137677",
-    "tikName": "Территориальная избирательная комиссия Советского района"
+    "tikName": "Территориальная избирательная комиссия Советского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 985,
     "uikTvd": "446402482690",
+    "uikName": "УИК №985",
     "tikTvd": "2462000137677",
-    "tikName": "Территориальная избирательная комиссия Советского района"
+    "tikName": "Территориальная избирательная комиссия Советского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 986,
     "uikTvd": "446402482691",
+    "uikName": "УИК №986",
     "tikTvd": "2462000137677",
-    "tikName": "Территориальная избирательная комиссия Советского района"
+    "tikName": "Территориальная избирательная комиссия Советского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 987,
     "uikTvd": "446402482692",
+    "uikName": "УИК №987",
     "tikTvd": "2462000137677",
-    "tikName": "Территориальная избирательная комиссия Советского района"
+    "tikName": "Территориальная избирательная комиссия Советского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 988,
     "uikTvd": "446402482693",
+    "uikName": "УИК №988",
     "tikTvd": "2462000137677",
-    "tikName": "Территориальная избирательная комиссия Советского района"
+    "tikName": "Территориальная избирательная комиссия Советского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 989,
     "uikTvd": "446402482694",
+    "uikName": "УИК №989",
     "tikTvd": "2462000137677",
-    "tikName": "Территориальная избирательная комиссия Советского района"
+    "tikName": "Территориальная избирательная комиссия Советского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 990,
     "uikTvd": "446402482695",
+    "uikName": "УИК №990",
     "tikTvd": "2462000137677",
-    "tikName": "Территориальная избирательная комиссия Советского района"
+    "tikName": "Территориальная избирательная комиссия Советского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 991,
     "uikTvd": "446402577903",
+    "uikName": "УИК №991",
     "tikTvd": "2462000137676",
-    "tikName": "Территориальная избирательная комиссия Солнцевского района"
+    "tikName": "Территориальная избирательная комиссия Солнцевского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 992,
     "uikTvd": "446402577904",
+    "uikName": "УИК №992",
     "tikTvd": "2462000137676",
-    "tikName": "Территориальная избирательная комиссия Солнцевского района"
+    "tikName": "Территориальная избирательная комиссия Солнцевского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 993,
     "uikTvd": "446402577905",
+    "uikName": "УИК №993",
     "tikTvd": "2462000137676",
-    "tikName": "Территориальная избирательная комиссия Солнцевского района"
+    "tikName": "Территориальная избирательная комиссия Солнцевского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 994,
     "uikTvd": "446402577906",
+    "uikName": "УИК №994",
     "tikTvd": "2462000137676",
-    "tikName": "Территориальная избирательная комиссия Солнцевского района"
+    "tikName": "Территориальная избирательная комиссия Солнцевского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 995,
     "uikTvd": "446402577907",
+    "uikName": "УИК №995",
     "tikTvd": "2462000137676",
-    "tikName": "Территориальная избирательная комиссия Солнцевского района"
+    "tikName": "Территориальная избирательная комиссия Солнцевского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 996,
     "uikTvd": "446402577908",
+    "uikName": "УИК №996",
     "tikTvd": "2462000137676",
-    "tikName": "Территориальная избирательная комиссия Солнцевского района"
+    "tikName": "Территориальная избирательная комиссия Солнцевского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 997,
     "uikTvd": "446402577909",
+    "uikName": "УИК №997",
     "tikTvd": "2462000137676",
-    "tikName": "Территориальная избирательная комиссия Солнцевского района"
+    "tikName": "Территориальная избирательная комиссия Солнцевского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 998,
     "uikTvd": "446402577910",
+    "uikName": "УИК №998",
     "tikTvd": "2462000137676",
-    "tikName": "Территориальная избирательная комиссия Солнцевского района"
+    "tikName": "Территориальная избирательная комиссия Солнцевского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 999,
     "uikTvd": "446402577911",
+    "uikName": "УИК №999",
     "tikTvd": "2462000137676",
-    "tikName": "Территориальная избирательная комиссия Солнцевского района"
+    "tikName": "Территориальная избирательная комиссия Солнцевского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1000,
     "uikTvd": "446402577912",
+    "uikName": "УИК №1000",
     "tikTvd": "2462000137676",
-    "tikName": "Территориальная избирательная комиссия Солнцевского района"
+    "tikName": "Территориальная избирательная комиссия Солнцевского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1001,
     "uikTvd": "446402577913",
+    "uikName": "УИК №1001",
     "tikTvd": "2462000137676",
-    "tikName": "Территориальная избирательная комиссия Солнцевского района"
+    "tikName": "Территориальная избирательная комиссия Солнцевского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1002,
     "uikTvd": "446402577914",
+    "uikName": "УИК №1002",
     "tikTvd": "2462000137676",
-    "tikName": "Территориальная избирательная комиссия Солнцевского района"
+    "tikName": "Территориальная избирательная комиссия Солнцевского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1003,
     "uikTvd": "446402577915",
+    "uikName": "УИК №1003",
     "tikTvd": "2462000137676",
-    "tikName": "Территориальная избирательная комиссия Солнцевского района"
+    "tikName": "Территориальная избирательная комиссия Солнцевского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1004,
     "uikTvd": "446402577916",
+    "uikName": "УИК №1004",
     "tikTvd": "2462000137676",
-    "tikName": "Территориальная избирательная комиссия Солнцевского района"
+    "tikName": "Территориальная избирательная комиссия Солнцевского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1005,
     "uikTvd": "446402577917",
+    "uikName": "УИК №1005",
     "tikTvd": "2462000137676",
-    "tikName": "Территориальная избирательная комиссия Солнцевского района"
+    "tikName": "Территориальная избирательная комиссия Солнцевского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1006,
     "uikTvd": "446402577918",
+    "uikName": "УИК №1006",
     "tikTvd": "2462000137676",
-    "tikName": "Территориальная избирательная комиссия Солнцевского района"
+    "tikName": "Территориальная избирательная комиссия Солнцевского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1007,
     "uikTvd": "446402577919",
+    "uikName": "УИК №1007",
     "tikTvd": "2462000137676",
-    "tikName": "Территориальная избирательная комиссия Солнцевского района"
+    "tikName": "Территориальная избирательная комиссия Солнцевского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1008,
     "uikTvd": "446402577920",
+    "uikName": "УИК №1008",
     "tikTvd": "2462000137676",
-    "tikName": "Территориальная избирательная комиссия Солнцевского района"
+    "tikName": "Территориальная избирательная комиссия Солнцевского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1009,
     "uikTvd": "446402577921",
+    "uikName": "УИК №1009",
     "tikTvd": "2462000137676",
-    "tikName": "Территориальная избирательная комиссия Солнцевского района"
+    "tikName": "Территориальная избирательная комиссия Солнцевского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1010,
     "uikTvd": "446402577922",
+    "uikName": "УИК №1010",
     "tikTvd": "2462000137676",
-    "tikName": "Территориальная избирательная комиссия Солнцевского района"
+    "tikName": "Территориальная избирательная комиссия Солнцевского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1011,
     "uikTvd": "446402577923",
+    "uikName": "УИК №1011",
     "tikTvd": "2462000137676",
-    "tikName": "Территориальная избирательная комиссия Солнцевского района"
+    "tikName": "Территориальная избирательная комиссия Солнцевского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1012,
     "uikTvd": "446402577924",
+    "uikName": "УИК №1012",
     "tikTvd": "2462000137676",
-    "tikName": "Территориальная избирательная комиссия Солнцевского района"
+    "tikName": "Территориальная избирательная комиссия Солнцевского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1013,
     "uikTvd": "446402577925",
+    "uikName": "УИК №1013",
     "tikTvd": "2462000137676",
-    "tikName": "Территориальная избирательная комиссия Солнцевского района"
+    "tikName": "Территориальная избирательная комиссия Солнцевского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1014,
     "uikTvd": "446402577926",
+    "uikName": "УИК №1014",
     "tikTvd": "2462000137676",
-    "tikName": "Территориальная избирательная комиссия Солнцевского района"
+    "tikName": "Территориальная избирательная комиссия Солнцевского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1015,
     "uikTvd": "446402577927",
+    "uikName": "УИК №1015",
     "tikTvd": "2462000137676",
-    "tikName": "Территориальная избирательная комиссия Солнцевского района"
+    "tikName": "Территориальная избирательная комиссия Солнцевского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1016,
     "uikTvd": "446402577928",
+    "uikName": "УИК №1016",
     "tikTvd": "2462000137676",
-    "tikName": "Территориальная избирательная комиссия Солнцевского района"
+    "tikName": "Территориальная избирательная комиссия Солнцевского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1017,
     "uikTvd": "446402577929",
+    "uikName": "УИК №1017",
     "tikTvd": "2462000137676",
-    "tikName": "Территориальная избирательная комиссия Солнцевского района"
+    "tikName": "Территориальная избирательная комиссия Солнцевского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1018,
     "uikTvd": "446402577930",
+    "uikName": "УИК №1018",
     "tikTvd": "2462000137676",
-    "tikName": "Территориальная избирательная комиссия Солнцевского района"
+    "tikName": "Территориальная избирательная комиссия Солнцевского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1019,
     "uikTvd": "446402577931",
+    "uikName": "УИК №1019",
     "tikTvd": "2462000137676",
-    "tikName": "Территориальная избирательная комиссия Солнцевского района"
+    "tikName": "Территориальная избирательная комиссия Солнцевского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1020,
     "uikTvd": "446402577932",
+    "uikName": "УИК №1020",
     "tikTvd": "2462000137676",
-    "tikName": "Территориальная избирательная комиссия Солнцевского района"
+    "tikName": "Территориальная избирательная комиссия Солнцевского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1021,
     "uikTvd": "446402684267",
+    "uikName": "УИК №1021",
     "tikTvd": "2462000137679",
-    "tikName": "Территориальная избирательная комиссия  Cуджанского района"
+    "tikName": "Территориальная избирательная комиссия  Cуджанского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1022,
     "uikTvd": "446402684268",
+    "uikName": "УИК №1022",
     "tikTvd": "2462000137679",
-    "tikName": "Территориальная избирательная комиссия  Cуджанского района"
+    "tikName": "Территориальная избирательная комиссия  Cуджанского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1023,
     "uikTvd": "446402684269",
+    "uikName": "УИК №1023",
     "tikTvd": "2462000137679",
-    "tikName": "Территориальная избирательная комиссия  Cуджанского района"
+    "tikName": "Территориальная избирательная комиссия  Cуджанского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1024,
     "uikTvd": "446402684270",
+    "uikName": "УИК №1024",
     "tikTvd": "2462000137679",
-    "tikName": "Территориальная избирательная комиссия  Cуджанского района"
+    "tikName": "Территориальная избирательная комиссия  Cуджанского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1025,
     "uikTvd": "446402684271",
+    "uikName": "УИК №1025",
     "tikTvd": "2462000137679",
-    "tikName": "Территориальная избирательная комиссия  Cуджанского района"
+    "tikName": "Территориальная избирательная комиссия  Cуджанского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1026,
     "uikTvd": "446402684272",
+    "uikName": "УИК №1026",
     "tikTvd": "2462000137679",
-    "tikName": "Территориальная избирательная комиссия  Cуджанского района"
+    "tikName": "Территориальная избирательная комиссия  Cуджанского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1027,
     "uikTvd": "446402684273",
+    "uikName": "УИК №1027",
     "tikTvd": "2462000137679",
-    "tikName": "Территориальная избирательная комиссия  Cуджанского района"
+    "tikName": "Территориальная избирательная комиссия  Cуджанского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1028,
     "uikTvd": "446402684274",
+    "uikName": "УИК №1028",
     "tikTvd": "2462000137679",
-    "tikName": "Территориальная избирательная комиссия  Cуджанского района"
+    "tikName": "Территориальная избирательная комиссия  Cуджанского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1029,
     "uikTvd": "446402684275",
+    "uikName": "УИК №1029",
     "tikTvd": "2462000137679",
-    "tikName": "Территориальная избирательная комиссия  Cуджанского района"
+    "tikName": "Территориальная избирательная комиссия  Cуджанского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1030,
     "uikTvd": "446402684276",
+    "uikName": "УИК №1030",
     "tikTvd": "2462000137679",
-    "tikName": "Территориальная избирательная комиссия  Cуджанского района"
+    "tikName": "Территориальная избирательная комиссия  Cуджанского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1031,
     "uikTvd": "446402684277",
+    "uikName": "УИК №1031",
     "tikTvd": "2462000137679",
-    "tikName": "Территориальная избирательная комиссия  Cуджанского района"
+    "tikName": "Территориальная избирательная комиссия  Cуджанского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1032,
     "uikTvd": "446402684278",
+    "uikName": "УИК №1032",
     "tikTvd": "2462000137679",
-    "tikName": "Территориальная избирательная комиссия  Cуджанского района"
+    "tikName": "Территориальная избирательная комиссия  Cуджанского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1033,
     "uikTvd": "446402684279",
+    "uikName": "УИК №1033",
     "tikTvd": "2462000137679",
-    "tikName": "Территориальная избирательная комиссия  Cуджанского района"
+    "tikName": "Территориальная избирательная комиссия  Cуджанского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1034,
     "uikTvd": "446402684280",
+    "uikName": "УИК №1034",
     "tikTvd": "2462000137679",
-    "tikName": "Территориальная избирательная комиссия  Cуджанского района"
+    "tikName": "Территориальная избирательная комиссия  Cуджанского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1035,
     "uikTvd": "446402684281",
+    "uikName": "УИК №1035",
     "tikTvd": "2462000137679",
-    "tikName": "Территориальная избирательная комиссия  Cуджанского района"
+    "tikName": "Территориальная избирательная комиссия  Cуджанского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1036,
     "uikTvd": "446402684282",
+    "uikName": "УИК №1036",
     "tikTvd": "2462000137679",
-    "tikName": "Территориальная избирательная комиссия  Cуджанского района"
+    "tikName": "Территориальная избирательная комиссия  Cуджанского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1037,
     "uikTvd": "446402684283",
+    "uikName": "УИК №1037",
     "tikTvd": "2462000137679",
-    "tikName": "Территориальная избирательная комиссия  Cуджанского района"
+    "tikName": "Территориальная избирательная комиссия  Cуджанского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1038,
     "uikTvd": "446402684284",
+    "uikName": "УИК №1038",
     "tikTvd": "2462000137679",
-    "tikName": "Территориальная избирательная комиссия  Cуджанского района"
+    "tikName": "Территориальная избирательная комиссия  Cуджанского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1039,
     "uikTvd": "446402684285",
+    "uikName": "УИК №1039",
     "tikTvd": "2462000137679",
-    "tikName": "Территориальная избирательная комиссия  Cуджанского района"
+    "tikName": "Территориальная избирательная комиссия  Cуджанского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1040,
     "uikTvd": "446402684286",
+    "uikName": "УИК №1040",
     "tikTvd": "2462000137679",
-    "tikName": "Территориальная избирательная комиссия  Cуджанского района"
+    "tikName": "Территориальная избирательная комиссия  Cуджанского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1041,
     "uikTvd": "446402684287",
+    "uikName": "УИК №1041",
     "tikTvd": "2462000137679",
-    "tikName": "Территориальная избирательная комиссия  Cуджанского района"
+    "tikName": "Территориальная избирательная комиссия  Cуджанского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1042,
     "uikTvd": "446402684288",
+    "uikName": "УИК №1042",
     "tikTvd": "2462000137679",
-    "tikName": "Территориальная избирательная комиссия  Cуджанского района"
+    "tikName": "Территориальная избирательная комиссия  Cуджанского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1043,
     "uikTvd": "446402684289",
+    "uikName": "УИК №1043",
     "tikTvd": "2462000137679",
-    "tikName": "Территориальная избирательная комиссия  Cуджанского района"
+    "tikName": "Территориальная избирательная комиссия  Cуджанского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1044,
     "uikTvd": "446402684290",
+    "uikName": "УИК №1044",
     "tikTvd": "2462000137679",
-    "tikName": "Территориальная избирательная комиссия  Cуджанского района"
+    "tikName": "Территориальная избирательная комиссия  Cуджанского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1045,
     "uikTvd": "446402684291",
+    "uikName": "УИК №1045",
     "tikTvd": "2462000137679",
-    "tikName": "Территориальная избирательная комиссия  Cуджанского района"
+    "tikName": "Территориальная избирательная комиссия  Cуджанского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1046,
     "uikTvd": "446402684292",
+    "uikName": "УИК №1046",
     "tikTvd": "2462000137679",
-    "tikName": "Территориальная избирательная комиссия  Cуджанского района"
+    "tikName": "Территориальная избирательная комиссия  Cуджанского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1047,
     "uikTvd": "446402684293",
+    "uikName": "УИК №1047",
     "tikTvd": "2462000137679",
-    "tikName": "Территориальная избирательная комиссия  Cуджанского района"
+    "tikName": "Территориальная избирательная комиссия  Cуджанского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1048,
     "uikTvd": "446402684294",
+    "uikName": "УИК №1048",
     "tikTvd": "2462000137679",
-    "tikName": "Территориальная избирательная комиссия  Cуджанского района"
+    "tikName": "Территориальная избирательная комиссия  Cуджанского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1049,
     "uikTvd": "446402684295",
+    "uikName": "УИК №1049",
     "tikTvd": "2462000137679",
-    "tikName": "Территориальная избирательная комиссия  Cуджанского района"
+    "tikName": "Территориальная избирательная комиссия  Cуджанского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1050,
     "uikTvd": "446402684296",
+    "uikName": "УИК №1050",
     "tikTvd": "2462000137679",
-    "tikName": "Территориальная избирательная комиссия  Cуджанского района"
+    "tikName": "Территориальная избирательная комиссия  Cуджанского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1051,
     "uikTvd": "446402684297",
+    "uikName": "УИК №1051",
     "tikTvd": "2462000137679",
-    "tikName": "Территориальная избирательная комиссия  Cуджанского района"
+    "tikName": "Территориальная избирательная комиссия  Cуджанского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1052,
     "uikTvd": "446402684298",
+    "uikName": "УИК №1052",
     "tikTvd": "2462000137679",
-    "tikName": "Территориальная избирательная комиссия  Cуджанского района"
+    "tikName": "Территориальная избирательная комиссия  Cуджанского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1053,
     "uikTvd": "446402684299",
+    "uikName": "УИК №1053",
     "tikTvd": "2462000137679",
-    "tikName": "Территориальная избирательная комиссия  Cуджанского района"
+    "tikName": "Территориальная избирательная комиссия  Cуджанского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1054,
     "uikTvd": "446402684300",
+    "uikName": "УИК №1054",
     "tikTvd": "2462000137679",
-    "tikName": "Территориальная избирательная комиссия  Cуджанского района"
+    "tikName": "Территориальная избирательная комиссия  Cуджанского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1055,
     "uikTvd": "446402684301",
+    "uikName": "УИК №1055",
     "tikTvd": "2462000137679",
-    "tikName": "Территориальная избирательная комиссия  Cуджанского района"
+    "tikName": "Территориальная избирательная комиссия  Cуджанского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1056,
     "uikTvd": "446402684302",
+    "uikName": "УИК №1056",
     "tikTvd": "2462000137679",
-    "tikName": "Территориальная избирательная комиссия  Cуджанского района"
+    "tikName": "Территориальная избирательная комиссия  Cуджанского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1057,
     "uikTvd": "446402781892",
+    "uikName": "УИК №1057",
     "tikTvd": "2462000137674",
-    "tikName": "Территориальная избирательная комиссия Тимского района"
+    "tikName": "Территориальная избирательная комиссия Тимского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1058,
     "uikTvd": "446402781893",
+    "uikName": "УИК №1058",
     "tikTvd": "2462000137674",
-    "tikName": "Территориальная избирательная комиссия Тимского района"
+    "tikName": "Территориальная избирательная комиссия Тимского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1059,
     "uikTvd": "446402781894",
+    "uikName": "УИК №1059",
     "tikTvd": "2462000137674",
-    "tikName": "Территориальная избирательная комиссия Тимского района"
+    "tikName": "Территориальная избирательная комиссия Тимского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1060,
     "uikTvd": "446402781895",
+    "uikName": "УИК №1060",
     "tikTvd": "2462000137674",
-    "tikName": "Территориальная избирательная комиссия Тимского района"
+    "tikName": "Территориальная избирательная комиссия Тимского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1061,
     "uikTvd": "446402781896",
+    "uikName": "УИК №1061",
     "tikTvd": "2462000137674",
-    "tikName": "Территориальная избирательная комиссия Тимского района"
+    "tikName": "Территориальная избирательная комиссия Тимского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1062,
     "uikTvd": "446402781897",
+    "uikName": "УИК №1062",
     "tikTvd": "2462000137674",
-    "tikName": "Территориальная избирательная комиссия Тимского района"
+    "tikName": "Территориальная избирательная комиссия Тимского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1063,
     "uikTvd": "446402781898",
+    "uikName": "УИК №1063",
     "tikTvd": "2462000137674",
-    "tikName": "Территориальная избирательная комиссия Тимского района"
+    "tikName": "Территориальная избирательная комиссия Тимского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1064,
     "uikTvd": "446402781899",
+    "uikName": "УИК №1064",
     "tikTvd": "2462000137674",
-    "tikName": "Территориальная избирательная комиссия Тимского района"
+    "tikName": "Территориальная избирательная комиссия Тимского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1065,
     "uikTvd": "446402781900",
+    "uikName": "УИК №1065",
     "tikTvd": "2462000137674",
-    "tikName": "Территориальная избирательная комиссия Тимского района"
+    "tikName": "Территориальная избирательная комиссия Тимского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1066,
     "uikTvd": "446402781901",
+    "uikName": "УИК №1066",
     "tikTvd": "2462000137674",
-    "tikName": "Территориальная избирательная комиссия Тимского района"
+    "tikName": "Территориальная избирательная комиссия Тимского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1067,
     "uikTvd": "446402781902",
+    "uikName": "УИК №1067",
     "tikTvd": "2462000137674",
-    "tikName": "Территориальная избирательная комиссия Тимского района"
+    "tikName": "Территориальная избирательная комиссия Тимского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1068,
     "uikTvd": "446402781903",
+    "uikName": "УИК №1068",
     "tikTvd": "2462000137674",
-    "tikName": "Территориальная избирательная комиссия Тимского района"
+    "tikName": "Территориальная избирательная комиссия Тимского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1069,
     "uikTvd": "446402781904",
+    "uikName": "УИК №1069",
     "tikTvd": "2462000137674",
-    "tikName": "Территориальная избирательная комиссия Тимского района"
+    "tikName": "Территориальная избирательная комиссия Тимского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1070,
     "uikTvd": "446402781905",
+    "uikName": "УИК №1070",
     "tikTvd": "2462000137674",
-    "tikName": "Территориальная избирательная комиссия Тимского района"
+    "tikName": "Территориальная избирательная комиссия Тимского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1071,
     "uikTvd": "446402781906",
+    "uikName": "УИК №1071",
     "tikTvd": "2462000137674",
-    "tikName": "Территориальная избирательная комиссия Тимского района"
+    "tikName": "Территориальная избирательная комиссия Тимского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1072,
     "uikTvd": "446402781907",
+    "uikName": "УИК №1072",
     "tikTvd": "2462000137674",
-    "tikName": "Территориальная избирательная комиссия Тимского района"
+    "tikName": "Территориальная избирательная комиссия Тимского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1073,
     "uikTvd": "446402781908",
+    "uikName": "УИК №1073",
     "tikTvd": "2462000137674",
-    "tikName": "Территориальная избирательная комиссия Тимского района"
+    "tikName": "Территориальная избирательная комиссия Тимского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1074,
     "uikTvd": "446402781909",
+    "uikName": "УИК №1074",
     "tikTvd": "2462000137674",
-    "tikName": "Территориальная избирательная комиссия Тимского района"
+    "tikName": "Территориальная избирательная комиссия Тимского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1075,
     "uikTvd": "446402781910",
+    "uikName": "УИК №1075",
     "tikTvd": "2462000137674",
-    "tikName": "Территориальная избирательная комиссия Тимского района"
+    "tikName": "Территориальная избирательная комиссия Тимского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1076,
     "uikTvd": "446402781911",
+    "uikName": "УИК №1076",
     "tikTvd": "2462000137674",
-    "tikName": "Территориальная избирательная комиссия Тимского района"
+    "tikName": "Территориальная избирательная комиссия Тимского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1077,
     "uikTvd": "446402781912",
+    "uikName": "УИК №1077",
     "tikTvd": "2462000137674",
-    "tikName": "Территориальная избирательная комиссия Тимского района"
+    "tikName": "Территориальная избирательная комиссия Тимского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1078,
     "uikTvd": "446402781913",
+    "uikName": "УИК №1078",
     "tikTvd": "2462000137674",
-    "tikName": "Территориальная избирательная комиссия Тимского района"
+    "tikName": "Территориальная избирательная комиссия Тимского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1079,
     "uikTvd": "446402781914",
+    "uikName": "УИК №1079",
     "tikTvd": "2462000137674",
-    "tikName": "Территориальная избирательная комиссия Тимского района"
+    "tikName": "Территориальная избирательная комиссия Тимского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1080,
     "uikTvd": "446402781915",
+    "uikName": "УИК №1080",
     "tikTvd": "2462000137674",
-    "tikName": "Территориальная избирательная комиссия Тимского района"
+    "tikName": "Территориальная избирательная комиссия Тимского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1081,
     "uikTvd": "446402781916",
+    "uikName": "УИК №1081",
     "tikTvd": "2462000137674",
-    "tikName": "Территориальная избирательная комиссия Тимского района"
+    "tikName": "Территориальная избирательная комиссия Тимского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1082,
     "uikTvd": "446402781917",
+    "uikName": "УИК №1082",
     "tikTvd": "2462000137674",
-    "tikName": "Территориальная избирательная комиссия Тимского района"
+    "tikName": "Территориальная избирательная комиссия Тимского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1083,
     "uikTvd": "446402883004",
+    "uikName": "УИК №1083",
     "tikTvd": "2462000137683",
-    "tikName": "Территориальная избирательная комиссия Фатежского района"
+    "tikName": "Территориальная избирательная комиссия Фатежского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1084,
     "uikTvd": "446402883005",
+    "uikName": "УИК №1084",
     "tikTvd": "2462000137683",
-    "tikName": "Территориальная избирательная комиссия Фатежского района"
+    "tikName": "Территориальная избирательная комиссия Фатежского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1085,
     "uikTvd": "446402883006",
+    "uikName": "УИК №1085",
     "tikTvd": "2462000137683",
-    "tikName": "Территориальная избирательная комиссия Фатежского района"
+    "tikName": "Территориальная избирательная комиссия Фатежского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1086,
     "uikTvd": "446402883007",
+    "uikName": "УИК №1086",
     "tikTvd": "2462000137683",
-    "tikName": "Территориальная избирательная комиссия Фатежского района"
+    "tikName": "Территориальная избирательная комиссия Фатежского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1087,
     "uikTvd": "446402883008",
+    "uikName": "УИК №1087",
     "tikTvd": "2462000137683",
-    "tikName": "Территориальная избирательная комиссия Фатежского района"
+    "tikName": "Территориальная избирательная комиссия Фатежского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1088,
     "uikTvd": "446402883009",
+    "uikName": "УИК №1088",
     "tikTvd": "2462000137683",
-    "tikName": "Территориальная избирательная комиссия Фатежского района"
+    "tikName": "Территориальная избирательная комиссия Фатежского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1089,
     "uikTvd": "446402883010",
+    "uikName": "УИК №1089",
     "tikTvd": "2462000137683",
-    "tikName": "Территориальная избирательная комиссия Фатежского района"
+    "tikName": "Территориальная избирательная комиссия Фатежского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1090,
     "uikTvd": "446402883011",
+    "uikName": "УИК №1090",
     "tikTvd": "2462000137683",
-    "tikName": "Территориальная избирательная комиссия Фатежского района"
+    "tikName": "Территориальная избирательная комиссия Фатежского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1091,
     "uikTvd": "446402883012",
+    "uikName": "УИК №1091",
     "tikTvd": "2462000137683",
-    "tikName": "Территориальная избирательная комиссия Фатежского района"
+    "tikName": "Территориальная избирательная комиссия Фатежского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1092,
     "uikTvd": "446402883013",
+    "uikName": "УИК №1092",
     "tikTvd": "2462000137683",
-    "tikName": "Территориальная избирательная комиссия Фатежского района"
+    "tikName": "Территориальная избирательная комиссия Фатежского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1093,
     "uikTvd": "446402883014",
+    "uikName": "УИК №1093",
     "tikTvd": "2462000137683",
-    "tikName": "Территориальная избирательная комиссия Фатежского района"
+    "tikName": "Территориальная избирательная комиссия Фатежского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1094,
     "uikTvd": "446402883015",
+    "uikName": "УИК №1094",
     "tikTvd": "2462000137683",
-    "tikName": "Территориальная избирательная комиссия Фатежского района"
+    "tikName": "Территориальная избирательная комиссия Фатежского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1095,
     "uikTvd": "446402883016",
+    "uikName": "УИК №1095",
     "tikTvd": "2462000137683",
-    "tikName": "Территориальная избирательная комиссия Фатежского района"
+    "tikName": "Территориальная избирательная комиссия Фатежского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1096,
     "uikTvd": "446402883017",
+    "uikName": "УИК №1096",
     "tikTvd": "2462000137683",
-    "tikName": "Территориальная избирательная комиссия Фатежского района"
+    "tikName": "Территориальная избирательная комиссия Фатежского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1097,
     "uikTvd": "446402883018",
+    "uikName": "УИК №1097",
     "tikTvd": "2462000137683",
-    "tikName": "Территориальная избирательная комиссия Фатежского района"
+    "tikName": "Территориальная избирательная комиссия Фатежского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1098,
     "uikTvd": "446402883019",
+    "uikName": "УИК №1098",
     "tikTvd": "2462000137683",
-    "tikName": "Территориальная избирательная комиссия Фатежского района"
+    "tikName": "Территориальная избирательная комиссия Фатежского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1099,
     "uikTvd": "446402883020",
+    "uikName": "УИК №1099",
     "tikTvd": "2462000137683",
-    "tikName": "Территориальная избирательная комиссия Фатежского района"
+    "tikName": "Территориальная избирательная комиссия Фатежского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1100,
     "uikTvd": "446402883021",
+    "uikName": "УИК №1100",
     "tikTvd": "2462000137683",
-    "tikName": "Территориальная избирательная комиссия Фатежского района"
+    "tikName": "Территориальная избирательная комиссия Фатежского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1101,
     "uikTvd": "446402883022",
+    "uikName": "УИК №1101",
     "tikTvd": "2462000137683",
-    "tikName": "Территориальная избирательная комиссия Фатежского района"
+    "tikName": "Территориальная избирательная комиссия Фатежского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1102,
     "uikTvd": "446402883023",
+    "uikName": "УИК №1102",
     "tikTvd": "2462000137683",
-    "tikName": "Территориальная избирательная комиссия Фатежского района"
+    "tikName": "Территориальная избирательная комиссия Фатежского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1103,
     "uikTvd": "446402883024",
+    "uikName": "УИК №1103",
     "tikTvd": "2462000137683",
-    "tikName": "Территориальная избирательная комиссия Фатежского района"
+    "tikName": "Территориальная избирательная комиссия Фатежского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1104,
     "uikTvd": "446402883025",
+    "uikName": "УИК №1104",
     "tikTvd": "2462000137683",
-    "tikName": "Территориальная избирательная комиссия Фатежского района"
+    "tikName": "Территориальная избирательная комиссия Фатежского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1105,
     "uikTvd": "446402883026",
+    "uikName": "УИК №1105",
     "tikTvd": "2462000137683",
-    "tikName": "Территориальная избирательная комиссия Фатежского района"
+    "tikName": "Территориальная избирательная комиссия Фатежского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1106,
     "uikTvd": "446402883027",
+    "uikName": "УИК №1106",
     "tikTvd": "2462000137683",
-    "tikName": "Территориальная избирательная комиссия Фатежского района"
+    "tikName": "Территориальная избирательная комиссия Фатежского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1107,
     "uikTvd": "446402883028",
+    "uikName": "УИК №1107",
     "tikTvd": "2462000137683",
-    "tikName": "Территориальная избирательная комиссия Фатежского района"
+    "tikName": "Территориальная избирательная комиссия Фатежского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1108,
     "uikTvd": "446402883029",
+    "uikName": "УИК №1108",
     "tikTvd": "2462000137683",
-    "tikName": "Территориальная избирательная комиссия Фатежского района"
+    "tikName": "Территориальная избирательная комиссия Фатежского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1109,
     "uikTvd": "446402883030",
+    "uikName": "УИК №1109",
     "tikTvd": "2462000137683",
-    "tikName": "Территориальная избирательная комиссия Фатежского района"
+    "tikName": "Территориальная избирательная комиссия Фатежского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1110,
     "uikTvd": "446402883031",
+    "uikName": "УИК №1110",
     "tikTvd": "2462000137683",
-    "tikName": "Территориальная избирательная комиссия Фатежского района"
+    "tikName": "Территориальная избирательная комиссия Фатежского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1111,
     "uikTvd": "446402883032",
+    "uikName": "УИК №1111",
     "tikTvd": "2462000137683",
-    "tikName": "Территориальная избирательная комиссия Фатежского района"
+    "tikName": "Территориальная избирательная комиссия Фатежского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1112,
     "uikTvd": "446402883033",
+    "uikName": "УИК №1112",
     "tikTvd": "2462000137683",
-    "tikName": "Территориальная избирательная комиссия Фатежского района"
+    "tikName": "Территориальная избирательная комиссия Фатежского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1113,
     "uikTvd": "446402883034",
+    "uikName": "УИК №1113",
     "tikTvd": "2462000137683",
-    "tikName": "Территориальная избирательная комиссия Фатежского района"
+    "tikName": "Территориальная избирательная комиссия Фатежского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1114,
     "uikTvd": "446402883035",
+    "uikName": "УИК №1114",
     "tikTvd": "2462000137683",
-    "tikName": "Территориальная избирательная комиссия Фатежского района"
+    "tikName": "Территориальная избирательная комиссия Фатежского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1115,
     "uikTvd": "446402883036",
+    "uikName": "УИК №1115",
     "tikTvd": "2462000137683",
-    "tikName": "Территориальная избирательная комиссия Фатежского района"
+    "tikName": "Территориальная избирательная комиссия Фатежского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1116,
     "uikTvd": "446402983272",
+    "uikName": "УИК №1116",
     "tikTvd": "2462000137686",
-    "tikName": "Территориальная избирательная комиссия Хомутовского района"
+    "tikName": "Территориальная избирательная комиссия Хомутовского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1117,
     "uikTvd": "446402983273",
+    "uikName": "УИК №1117",
     "tikTvd": "2462000137686",
-    "tikName": "Территориальная избирательная комиссия Хомутовского района"
+    "tikName": "Территориальная избирательная комиссия Хомутовского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1118,
     "uikTvd": "446402983274",
+    "uikName": "УИК №1118",
     "tikTvd": "2462000137686",
-    "tikName": "Территориальная избирательная комиссия Хомутовского района"
+    "tikName": "Территориальная избирательная комиссия Хомутовского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1119,
     "uikTvd": "446402983275",
+    "uikName": "УИК №1119",
     "tikTvd": "2462000137686",
-    "tikName": "Территориальная избирательная комиссия Хомутовского района"
+    "tikName": "Территориальная избирательная комиссия Хомутовского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1120,
     "uikTvd": "446402983276",
+    "uikName": "УИК №1120",
     "tikTvd": "2462000137686",
-    "tikName": "Территориальная избирательная комиссия Хомутовского района"
+    "tikName": "Территориальная избирательная комиссия Хомутовского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1121,
     "uikTvd": "446402983277",
+    "uikName": "УИК №1121",
     "tikTvd": "2462000137686",
-    "tikName": "Территориальная избирательная комиссия Хомутовского района"
+    "tikName": "Территориальная избирательная комиссия Хомутовского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1122,
     "uikTvd": "446402983278",
+    "uikName": "УИК №1122",
     "tikTvd": "2462000137686",
-    "tikName": "Территориальная избирательная комиссия Хомутовского района"
+    "tikName": "Территориальная избирательная комиссия Хомутовского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1123,
     "uikTvd": "446402983279",
+    "uikName": "УИК №1123",
     "tikTvd": "2462000137686",
-    "tikName": "Территориальная избирательная комиссия Хомутовского района"
+    "tikName": "Территориальная избирательная комиссия Хомутовского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1124,
     "uikTvd": "446402983280",
+    "uikName": "УИК №1124",
     "tikTvd": "2462000137686",
-    "tikName": "Территориальная избирательная комиссия Хомутовского района"
+    "tikName": "Территориальная избирательная комиссия Хомутовского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1125,
     "uikTvd": "446402983281",
+    "uikName": "УИК №1125",
     "tikTvd": "2462000137686",
-    "tikName": "Территориальная избирательная комиссия Хомутовского района"
+    "tikName": "Территориальная избирательная комиссия Хомутовского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1126,
     "uikTvd": "446402983282",
+    "uikName": "УИК №1126",
     "tikTvd": "2462000137686",
-    "tikName": "Территориальная избирательная комиссия Хомутовского района"
+    "tikName": "Территориальная избирательная комиссия Хомутовского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1127,
     "uikTvd": "446402983283",
+    "uikName": "УИК №1127",
     "tikTvd": "2462000137686",
-    "tikName": "Территориальная избирательная комиссия Хомутовского района"
+    "tikName": "Территориальная избирательная комиссия Хомутовского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1128,
     "uikTvd": "446402983284",
+    "uikName": "УИК №1128",
     "tikTvd": "2462000137686",
-    "tikName": "Территориальная избирательная комиссия Хомутовского района"
+    "tikName": "Территориальная избирательная комиссия Хомутовского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1129,
     "uikTvd": "446402983285",
+    "uikName": "УИК №1129",
     "tikTvd": "2462000137686",
-    "tikName": "Территориальная избирательная комиссия Хомутовского района"
+    "tikName": "Территориальная избирательная комиссия Хомутовского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1130,
     "uikTvd": "446402983286",
+    "uikName": "УИК №1130",
     "tikTvd": "2462000137686",
-    "tikName": "Территориальная избирательная комиссия Хомутовского района"
+    "tikName": "Территориальная избирательная комиссия Хомутовского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1131,
     "uikTvd": "446402983287",
+    "uikName": "УИК №1131",
     "tikTvd": "2462000137686",
-    "tikName": "Территориальная избирательная комиссия Хомутовского района"
+    "tikName": "Территориальная избирательная комиссия Хомутовского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1132,
     "uikTvd": "446402983288",
+    "uikName": "УИК №1132",
     "tikTvd": "2462000137686",
-    "tikName": "Территориальная избирательная комиссия Хомутовского района"
+    "tikName": "Территориальная избирательная комиссия Хомутовского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1133,
     "uikTvd": "446402983289",
+    "uikName": "УИК №1133",
     "tikTvd": "2462000137686",
-    "tikName": "Территориальная избирательная комиссия Хомутовского района"
+    "tikName": "Территориальная избирательная комиссия Хомутовского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1134,
     "uikTvd": "446402983290",
+    "uikName": "УИК №1134",
     "tikTvd": "2462000137686",
-    "tikName": "Территориальная избирательная комиссия Хомутовского района"
+    "tikName": "Территориальная избирательная комиссия Хомутовского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1135,
     "uikTvd": "446402983291",
+    "uikName": "УИК №1135",
     "tikTvd": "2462000137686",
-    "tikName": "Территориальная избирательная комиссия Хомутовского района"
+    "tikName": "Территориальная избирательная комиссия Хомутовского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1136,
     "uikTvd": "446402983292",
+    "uikName": "УИК №1136",
     "tikTvd": "2462000137686",
-    "tikName": "Территориальная избирательная комиссия Хомутовского района"
+    "tikName": "Территориальная избирательная комиссия Хомутовского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1137,
     "uikTvd": "446402983293",
+    "uikName": "УИК №1137",
     "tikTvd": "2462000137686",
-    "tikName": "Территориальная избирательная комиссия Хомутовского района"
+    "tikName": "Территориальная избирательная комиссия Хомутовского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1138,
     "uikTvd": "446402983294",
+    "uikName": "УИК №1138",
     "tikTvd": "2462000137686",
-    "tikName": "Территориальная избирательная комиссия Хомутовского района"
+    "tikName": "Территориальная избирательная комиссия Хомутовского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1139,
     "uikTvd": "446402983295",
+    "uikName": "УИК №1139",
     "tikTvd": "2462000137686",
-    "tikName": "Территориальная избирательная комиссия Хомутовского района"
+    "tikName": "Территориальная избирательная комиссия Хомутовского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1140,
     "uikTvd": "446402983296",
+    "uikName": "УИК №1140",
     "tikTvd": "2462000137686",
-    "tikName": "Территориальная избирательная комиссия Хомутовского района"
+    "tikName": "Территориальная избирательная комиссия Хомутовского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1141,
     "uikTvd": "446402983297",
+    "uikName": "УИК №1141",
     "tikTvd": "2462000137686",
-    "tikName": "Территориальная избирательная комиссия Хомутовского района"
+    "tikName": "Территориальная избирательная комиссия Хомутовского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1142,
     "uikTvd": "446402983298",
+    "uikName": "УИК №1142",
     "tikTvd": "2462000137686",
-    "tikName": "Территориальная избирательная комиссия Хомутовского района"
+    "tikName": "Территориальная избирательная комиссия Хомутовского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1143,
     "uikTvd": "446402983299",
+    "uikName": "УИК №1143",
     "tikTvd": "2462000137686",
-    "tikName": "Территориальная избирательная комиссия Хомутовского района"
+    "tikName": "Территориальная избирательная комиссия Хомутовского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1144,
     "uikTvd": "446402983300",
+    "uikName": "УИК №1144",
     "tikTvd": "2462000137686",
-    "tikName": "Территориальная избирательная комиссия Хомутовского района"
+    "tikName": "Территориальная избирательная комиссия Хомутовского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1145,
     "uikTvd": "446402983301",
+    "uikName": "УИК №1145",
     "tikTvd": "2462000137686",
-    "tikName": "Территориальная избирательная комиссия Хомутовского района"
+    "tikName": "Территориальная избирательная комиссия Хомутовского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1146,
     "uikTvd": "446402983302",
+    "uikName": "УИК №1146",
     "tikTvd": "2462000137686",
-    "tikName": "Территориальная избирательная комиссия Хомутовского района"
+    "tikName": "Территориальная избирательная комиссия Хомутовского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1147,
     "uikTvd": "446402983303",
+    "uikName": "УИК №1147",
     "tikTvd": "2462000137686",
-    "tikName": "Территориальная избирательная комиссия Хомутовского района"
+    "tikName": "Территориальная избирательная комиссия Хомутовского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1148,
     "uikTvd": "446403080869",
+    "uikName": "УИК №1148",
     "tikTvd": "2462000137688",
-    "tikName": "Территориальная избирательная комиссия Черемисиновского района"
+    "tikName": "Территориальная избирательная комиссия Черемисиновского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1149,
     "uikTvd": "446403080870",
+    "uikName": "УИК №1149",
     "tikTvd": "2462000137688",
-    "tikName": "Территориальная избирательная комиссия Черемисиновского района"
+    "tikName": "Территориальная избирательная комиссия Черемисиновского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1150,
     "uikTvd": "446403080871",
+    "uikName": "УИК №1150",
     "tikTvd": "2462000137688",
-    "tikName": "Территориальная избирательная комиссия Черемисиновского района"
+    "tikName": "Территориальная избирательная комиссия Черемисиновского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1151,
     "uikTvd": "446403080872",
+    "uikName": "УИК №1151",
     "tikTvd": "2462000137688",
-    "tikName": "Территориальная избирательная комиссия Черемисиновского района"
+    "tikName": "Территориальная избирательная комиссия Черемисиновского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1152,
     "uikTvd": "446403080873",
+    "uikName": "УИК №1152",
     "tikTvd": "2462000137688",
-    "tikName": "Территориальная избирательная комиссия Черемисиновского района"
+    "tikName": "Территориальная избирательная комиссия Черемисиновского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1153,
     "uikTvd": "446403080874",
+    "uikName": "УИК №1153",
     "tikTvd": "2462000137688",
-    "tikName": "Территориальная избирательная комиссия Черемисиновского района"
+    "tikName": "Территориальная избирательная комиссия Черемисиновского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1154,
     "uikTvd": "446403080875",
+    "uikName": "УИК №1154",
     "tikTvd": "2462000137688",
-    "tikName": "Территориальная избирательная комиссия Черемисиновского района"
+    "tikName": "Территориальная избирательная комиссия Черемисиновского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1155,
     "uikTvd": "446403080876",
+    "uikName": "УИК №1155",
     "tikTvd": "2462000137688",
-    "tikName": "Территориальная избирательная комиссия Черемисиновского района"
+    "tikName": "Территориальная избирательная комиссия Черемисиновского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1156,
     "uikTvd": "446403080877",
+    "uikName": "УИК №1156",
     "tikTvd": "2462000137688",
-    "tikName": "Территориальная избирательная комиссия Черемисиновского района"
+    "tikName": "Территориальная избирательная комиссия Черемисиновского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1157,
     "uikTvd": "446403080878",
+    "uikName": "УИК №1157",
     "tikTvd": "2462000137688",
-    "tikName": "Территориальная избирательная комиссия Черемисиновского района"
+    "tikName": "Территориальная избирательная комиссия Черемисиновского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1158,
     "uikTvd": "446403080879",
+    "uikName": "УИК №1158",
     "tikTvd": "2462000137688",
-    "tikName": "Территориальная избирательная комиссия Черемисиновского района"
+    "tikName": "Территориальная избирательная комиссия Черемисиновского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1159,
     "uikTvd": "446403080880",
+    "uikName": "УИК №1159",
     "tikTvd": "2462000137688",
-    "tikName": "Территориальная избирательная комиссия Черемисиновского района"
+    "tikName": "Территориальная избирательная комиссия Черемисиновского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1160,
     "uikTvd": "446403080881",
+    "uikName": "УИК №1160",
     "tikTvd": "2462000137688",
-    "tikName": "Территориальная избирательная комиссия Черемисиновского района"
+    "tikName": "Территориальная избирательная комиссия Черемисиновского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1161,
     "uikTvd": "446403080882",
+    "uikName": "УИК №1161",
     "tikTvd": "2462000137688",
-    "tikName": "Территориальная избирательная комиссия Черемисиновского района"
+    "tikName": "Территориальная избирательная комиссия Черемисиновского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1162,
     "uikTvd": "446403080883",
+    "uikName": "УИК №1162",
     "tikTvd": "2462000137688",
-    "tikName": "Территориальная избирательная комиссия Черемисиновского района"
+    "tikName": "Территориальная избирательная комиссия Черемисиновского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1163,
     "uikTvd": "446403080884",
+    "uikName": "УИК №1163",
     "tikTvd": "2462000137688",
-    "tikName": "Территориальная избирательная комиссия Черемисиновского района"
+    "tikName": "Территориальная избирательная комиссия Черемисиновского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1164,
     "uikTvd": "446403080885",
+    "uikName": "УИК №1164",
     "tikTvd": "2462000137688",
-    "tikName": "Территориальная избирательная комиссия Черемисиновского района"
+    "tikName": "Территориальная избирательная комиссия Черемисиновского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1165,
     "uikTvd": "446403080886",
+    "uikName": "УИК №1165",
     "tikTvd": "2462000137688",
-    "tikName": "Территориальная избирательная комиссия Черемисиновского района"
+    "tikName": "Территориальная избирательная комиссия Черемисиновского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1166,
     "uikTvd": "446403080887",
+    "uikName": "УИК №1166",
     "tikTvd": "2462000137688",
-    "tikName": "Территориальная избирательная комиссия Черемисиновского района"
+    "tikName": "Территориальная избирательная комиссия Черемисиновского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1167,
     "uikTvd": "446403080888",
+    "uikName": "УИК №1167",
     "tikTvd": "2462000137688",
-    "tikName": "Территориальная избирательная комиссия Черемисиновского района"
+    "tikName": "Территориальная избирательная комиссия Черемисиновского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1168,
     "uikTvd": "446403080889",
+    "uikName": "УИК №1168",
     "tikTvd": "2462000137688",
-    "tikName": "Территориальная избирательная комиссия Черемисиновского района"
+    "tikName": "Территориальная избирательная комиссия Черемисиновского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1169,
     "uikTvd": "446403080890",
+    "uikName": "УИК №1169",
     "tikTvd": "2462000137688",
-    "tikName": "Территориальная избирательная комиссия Черемисиновского района"
+    "tikName": "Территориальная избирательная комиссия Черемисиновского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1170,
     "uikTvd": "446403080891",
+    "uikName": "УИК №1170",
     "tikTvd": "2462000137688",
-    "tikName": "Территориальная избирательная комиссия Черемисиновского района"
+    "tikName": "Территориальная избирательная комиссия Черемисиновского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1171,
     "uikTvd": "446403080892",
+    "uikName": "УИК №1171",
     "tikTvd": "2462000137688",
-    "tikName": "Территориальная избирательная комиссия Черемисиновского района"
+    "tikName": "Территориальная избирательная комиссия Черемисиновского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1172,
     "uikTvd": "446403567983",
+    "uikName": "УИК №1172",
     "tikTvd": "2462000137654",
-    "tikName": "Территориальная избирательная комиссия г. Щигры"
+    "tikName": "Территориальная избирательная комиссия г. Щигры",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1173,
     "uikTvd": "446403567984",
+    "uikName": "УИК №1173",
     "tikTvd": "2462000137654",
-    "tikName": "Территориальная избирательная комиссия г. Щигры"
+    "tikName": "Территориальная избирательная комиссия г. Щигры",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1174,
     "uikTvd": "446403567985",
+    "uikName": "УИК №1174",
     "tikTvd": "2462000137654",
-    "tikName": "Территориальная избирательная комиссия г. Щигры"
+    "tikName": "Территориальная избирательная комиссия г. Щигры",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1175,
     "uikTvd": "446403567986",
+    "uikName": "УИК №1175",
     "tikTvd": "2462000137654",
-    "tikName": "Территориальная избирательная комиссия г. Щигры"
+    "tikName": "Территориальная избирательная комиссия г. Щигры",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1176,
     "uikTvd": "446403567987",
+    "uikName": "УИК №1176",
     "tikTvd": "2462000137654",
-    "tikName": "Территориальная избирательная комиссия г. Щигры"
+    "tikName": "Территориальная избирательная комиссия г. Щигры",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1177,
     "uikTvd": "446403567988",
+    "uikName": "УИК №1177",
     "tikTvd": "2462000137654",
-    "tikName": "Территориальная избирательная комиссия г. Щигры"
+    "tikName": "Территориальная избирательная комиссия г. Щигры",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1178,
     "uikTvd": "446403567989",
+    "uikName": "УИК №1178",
     "tikTvd": "2462000137654",
-    "tikName": "Территориальная избирательная комиссия г. Щигры"
+    "tikName": "Территориальная избирательная комиссия г. Щигры",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1179,
     "uikTvd": "446403567990",
+    "uikName": "УИК №1179",
     "tikTvd": "2462000137654",
-    "tikName": "Территориальная избирательная комиссия г. Щигры"
+    "tikName": "Территориальная избирательная комиссия г. Щигры",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1180,
     "uikTvd": "446403567991",
+    "uikName": "УИК №1180",
     "tikTvd": "2462000137654",
-    "tikName": "Территориальная избирательная комиссия г. Щигры"
+    "tikName": "Территориальная избирательная комиссия г. Щигры",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1181,
     "uikTvd": "446403567992",
+    "uikName": "УИК №1181",
     "tikTvd": "2462000137654",
-    "tikName": "Территориальная избирательная комиссия г. Щигры"
+    "tikName": "Территориальная избирательная комиссия г. Щигры",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1182,
     "uikTvd": "446403182785",
+    "uikName": "УИК №1182",
     "tikTvd": "2462000137687",
-    "tikName": "Территориальная избирательная комиссия Щигровского района"
+    "tikName": "Территориальная избирательная комиссия Щигровского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1183,
     "uikTvd": "446403182786",
+    "uikName": "УИК №1183",
     "tikTvd": "2462000137687",
-    "tikName": "Территориальная избирательная комиссия Щигровского района"
+    "tikName": "Территориальная избирательная комиссия Щигровского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1184,
     "uikTvd": "446403182787",
+    "uikName": "УИК №1184",
     "tikTvd": "2462000137687",
-    "tikName": "Территориальная избирательная комиссия Щигровского района"
+    "tikName": "Территориальная избирательная комиссия Щигровского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1185,
     "uikTvd": "446403182788",
+    "uikName": "УИК №1185",
     "tikTvd": "2462000137687",
-    "tikName": "Территориальная избирательная комиссия Щигровского района"
+    "tikName": "Территориальная избирательная комиссия Щигровского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1186,
     "uikTvd": "446403182789",
+    "uikName": "УИК №1186",
     "tikTvd": "2462000137687",
-    "tikName": "Территориальная избирательная комиссия Щигровского района"
+    "tikName": "Территориальная избирательная комиссия Щигровского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1187,
     "uikTvd": "446403182790",
+    "uikName": "УИК №1187",
     "tikTvd": "2462000137687",
-    "tikName": "Территориальная избирательная комиссия Щигровского района"
+    "tikName": "Территориальная избирательная комиссия Щигровского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1188,
     "uikTvd": "446403182791",
+    "uikName": "УИК №1188",
     "tikTvd": "2462000137687",
-    "tikName": "Территориальная избирательная комиссия Щигровского района"
+    "tikName": "Территориальная избирательная комиссия Щигровского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1189,
     "uikTvd": "446403182792",
+    "uikName": "УИК №1189",
     "tikTvd": "2462000137687",
-    "tikName": "Территориальная избирательная комиссия Щигровского района"
+    "tikName": "Территориальная избирательная комиссия Щигровского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1190,
     "uikTvd": "446403182793",
+    "uikName": "УИК №1190",
     "tikTvd": "2462000137687",
-    "tikName": "Территориальная избирательная комиссия Щигровского района"
+    "tikName": "Территориальная избирательная комиссия Щигровского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1191,
     "uikTvd": "446403182794",
+    "uikName": "УИК №1191",
     "tikTvd": "2462000137687",
-    "tikName": "Территориальная избирательная комиссия Щигровского района"
+    "tikName": "Территориальная избирательная комиссия Щигровского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1192,
     "uikTvd": "446403182795",
+    "uikName": "УИК №1192",
     "tikTvd": "2462000137687",
-    "tikName": "Территориальная избирательная комиссия Щигровского района"
+    "tikName": "Территориальная избирательная комиссия Щигровского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1193,
     "uikTvd": "446403182796",
+    "uikName": "УИК №1193",
     "tikTvd": "2462000137687",
-    "tikName": "Территориальная избирательная комиссия Щигровского района"
+    "tikName": "Территориальная избирательная комиссия Щигровского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1194,
     "uikTvd": "446403182797",
+    "uikName": "УИК №1194",
     "tikTvd": "2462000137687",
-    "tikName": "Территориальная избирательная комиссия Щигровского района"
+    "tikName": "Территориальная избирательная комиссия Щигровского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1195,
     "uikTvd": "446403182798",
+    "uikName": "УИК №1195",
     "tikTvd": "2462000137687",
-    "tikName": "Территориальная избирательная комиссия Щигровского района"
+    "tikName": "Территориальная избирательная комиссия Щигровского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1196,
     "uikTvd": "446403182799",
+    "uikName": "УИК №1196",
     "tikTvd": "2462000137687",
-    "tikName": "Территориальная избирательная комиссия Щигровского района"
+    "tikName": "Территориальная избирательная комиссия Щигровского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1197,
     "uikTvd": "446403182800",
+    "uikName": "УИК №1197",
     "tikTvd": "2462000137687",
-    "tikName": "Территориальная избирательная комиссия Щигровского района"
+    "tikName": "Территориальная избирательная комиссия Щигровского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1198,
     "uikTvd": "446403182801",
+    "uikName": "УИК №1198",
     "tikTvd": "2462000137687",
-    "tikName": "Территориальная избирательная комиссия Щигровского района"
+    "tikName": "Территориальная избирательная комиссия Щигровского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1199,
     "uikTvd": "446403182802",
+    "uikName": "УИК №1199",
     "tikTvd": "2462000137687",
-    "tikName": "Территориальная избирательная комиссия Щигровского района"
+    "tikName": "Территориальная избирательная комиссия Щигровского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1200,
     "uikTvd": "446403182803",
+    "uikName": "УИК №1200",
     "tikTvd": "2462000137687",
-    "tikName": "Территориальная избирательная комиссия Щигровского района"
+    "tikName": "Территориальная избирательная комиссия Щигровского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1201,
     "uikTvd": "446403182804",
+    "uikName": "УИК №1201",
     "tikTvd": "2462000137687",
-    "tikName": "Территориальная избирательная комиссия Щигровского района"
+    "tikName": "Территориальная избирательная комиссия Щигровского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1202,
     "uikTvd": "446403182805",
+    "uikName": "УИК №1202",
     "tikTvd": "2462000137687",
-    "tikName": "Территориальная избирательная комиссия Щигровского района"
+    "tikName": "Территориальная избирательная комиссия Щигровского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1203,
     "uikTvd": "446403182806",
+    "uikName": "УИК №1203",
     "tikTvd": "2462000137687",
-    "tikName": "Территориальная избирательная комиссия Щигровского района"
+    "tikName": "Территориальная избирательная комиссия Щигровского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1204,
     "uikTvd": "446403182807",
+    "uikName": "УИК №1204",
     "tikTvd": "2462000137687",
-    "tikName": "Территориальная избирательная комиссия Щигровского района"
+    "tikName": "Территориальная избирательная комиссия Щигровского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1205,
     "uikTvd": "446403182808",
+    "uikName": "УИК №1205",
     "tikTvd": "2462000137687",
-    "tikName": "Территориальная избирательная комиссия Щигровского района"
+    "tikName": "Территориальная избирательная комиссия Щигровского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1206,
     "uikTvd": "446403182809",
+    "uikName": "УИК №1206",
     "tikTvd": "2462000137687",
-    "tikName": "Территориальная избирательная комиссия Щигровского района"
+    "tikName": "Территориальная избирательная комиссия Щигровского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1207,
     "uikTvd": "446403182810",
+    "uikName": "УИК №1207",
     "tikTvd": "2462000137687",
-    "tikName": "Территориальная избирательная комиссия Щигровского района"
+    "tikName": "Территориальная избирательная комиссия Щигровского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1208,
     "uikTvd": "446403182811",
+    "uikName": "УИК №1208",
     "tikTvd": "2462000137687",
-    "tikName": "Территориальная избирательная комиссия Щигровского района"
+    "tikName": "Территориальная избирательная комиссия Щигровского района",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   },
   {
     "uikNumber": 1209,
     "uikTvd": "446401179324",
+    "uikName": "УИК №1209",
     "tikTvd": "2462000137675",
-    "tikName": "ТИК Железнодорожного округа г. Курска"
+    "tikName": "ТИК Железнодорожного округа г. Курска",
+    "regionCode": "46",
+    "regionTvd": "100100021960266",
+    "regionName": "Курская область",
+    "district": null
   }
 ] satisfies readonly UikTikRelation[];

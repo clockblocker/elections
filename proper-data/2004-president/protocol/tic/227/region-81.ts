@@ -11,6 +11,9 @@ export const president_2004_tic_227_region_81 = [
     "ballot": "presidential",
     "tikTvd": "281200071561",
     "tikName": "Кудымкарский район",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, внесенных в список": 19846,
@@ -102,6 +105,9 @@ export const president_2004_tic_227_region_81 = [
     "ballot": "presidential",
     "tikTvd": "281200071562",
     "tikName": "Гайнская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список": 11937,
@@ -179,6 +185,9 @@ export const president_2004_tic_227_region_81 = [
     "ballot": "presidential",
     "tikTvd": "281200071563",
     "tikName": "Косинская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список": 6096,
@@ -249,6 +258,9 @@ export const president_2004_tic_227_region_81 = [
     "ballot": "presidential",
     "tikTvd": "281200071564",
     "tikName": "Юрлинская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список": 7959,
@@ -326,6 +338,9 @@ export const president_2004_tic_227_region_81 = [
     "ballot": "presidential",
     "tikTvd": "281200071565",
     "tikName": "Юсьвинская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в список": 16760,
@@ -404,6 +419,9 @@ export const president_2004_tic_227_region_81 = [
     "ballot": "presidential",
     "tikTvd": "281200071566",
     "tikName": "Кочевская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в список": 8983,
@@ -482,6 +500,9 @@ export const president_2004_tic_227_region_81 = [
     "ballot": "presidential",
     "tikTvd": "281200071567",
     "tikName": "Кудымкарская городская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в список": 22210,

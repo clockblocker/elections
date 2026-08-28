@@ -11,6 +11,9 @@ export const president_2024_tic_227_region_18 = [
     "ballot": "presidential",
     "tikTvd": "21820001338807",
     "tikName": "Ярская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10508,
@@ -72,6 +75,9 @@ export const president_2024_tic_227_region_18 = [
     "ballot": "presidential",
     "tikTvd": "21820001338808",
     "tikName": "Якшур-Бодьинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 16221,
@@ -142,6 +148,9 @@ export const president_2024_tic_227_region_18 = [
     "ballot": "presidential",
     "tikTvd": "21820001338809",
     "tikName": "Юкаменская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 6802,
@@ -205,6 +214,9 @@ export const president_2024_tic_227_region_18 = [
     "ballot": "presidential",
     "tikTvd": "21820001338810",
     "tikName": "Шарканская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 14559,
@@ -271,6 +283,9 @@ export const president_2024_tic_227_region_18 = [
     "ballot": "presidential",
     "tikTvd": "21820001338811",
     "tikName": "Увинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 28324,
@@ -353,6 +368,9 @@ export const president_2024_tic_227_region_18 = [
     "ballot": "presidential",
     "tikTvd": "21820001338812",
     "tikName": "Сюмсинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9004,
@@ -418,6 +436,9 @@ export const president_2024_tic_227_region_18 = [
     "ballot": "presidential",
     "tikTvd": "21820001338813",
     "tikName": "Селтинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 8372,
@@ -475,6 +496,9 @@ export const president_2024_tic_227_region_18 = [
     "ballot": "presidential",
     "tikTvd": "21820001338814",
     "tikName": "Сарапульская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
     "uikCount": 53,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 68929,
@@ -568,6 +592,9 @@ export const president_2024_tic_227_region_18 = [
     "ballot": "presidential",
     "tikTvd": "21820001338815",
     "tikName": "Сарапульская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 17570,
@@ -634,6 +661,9 @@ export const president_2024_tic_227_region_18 = [
     "ballot": "presidential",
     "tikTvd": "21820001338816",
     "tikName": "Можгинская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 34404,
@@ -697,6 +727,9 @@ export const president_2024_tic_227_region_18 = [
     "ballot": "presidential",
     "tikTvd": "21820001338817",
     "tikName": "Можгинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 18741,
@@ -770,6 +803,9 @@ export const president_2024_tic_227_region_18 = [
     "ballot": "presidential",
     "tikTvd": "21820001338818",
     "tikName": "Малопургинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 23708,
@@ -854,6 +890,9 @@ export const president_2024_tic_227_region_18 = [
     "ballot": "presidential",
     "tikTvd": "21820001338819",
     "tikName": "Красногорская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 7084,
@@ -910,6 +949,9 @@ export const president_2024_tic_227_region_18 = [
     "ballot": "presidential",
     "tikTvd": "21820001338820",
     "tikName": "Киясовская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 7394,
@@ -971,6 +1013,9 @@ export const president_2024_tic_227_region_18 = [
     "ballot": "presidential",
     "tikTvd": "21820001338821",
     "tikName": "Кизнерская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 14380,
@@ -1038,6 +1083,9 @@ export const president_2024_tic_227_region_18 = [
     "ballot": "presidential",
     "tikTvd": "21820001338822",
     "tikName": "Кезская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 15696,
@@ -1111,6 +1159,9 @@ export const president_2024_tic_227_region_18 = [
     "ballot": "presidential",
     "tikTvd": "21820001338823",
     "tikName": "Каракулинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 8415,
@@ -1168,6 +1219,9 @@ export const president_2024_tic_227_region_18 = [
     "ballot": "presidential",
     "tikTvd": "21820001338824",
     "tikName": "Камбарская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 13110,
@@ -1227,6 +1281,9 @@ export const president_2024_tic_227_region_18 = [
     "ballot": "presidential",
     "tikTvd": "21820001338825",
     "tikName": "Ижевск, Устиновская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
     "uikCount": 54,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 106653,
@@ -1321,6 +1378,9 @@ export const president_2024_tic_227_region_18 = [
     "ballot": "presidential",
     "tikTvd": "21820001338826",
     "tikName": "Ижевск, Первомайская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
     "uikCount": 48,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 94946,
@@ -1409,6 +1469,9 @@ export const president_2024_tic_227_region_18 = [
     "ballot": "presidential",
     "tikTvd": "21820001338827",
     "tikName": "Ижевск, Октябрьская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
     "uikCount": 56,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 107458,
@@ -1505,6 +1568,9 @@ export const president_2024_tic_227_region_18 = [
     "ballot": "presidential",
     "tikTvd": "21820001338828",
     "tikName": "Ижевск, Ленинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
     "uikCount": 49,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 92806,
@@ -1594,6 +1660,9 @@ export const president_2024_tic_227_region_18 = [
     "ballot": "presidential",
     "tikTvd": "21820001338829",
     "tikName": "Ижевск, Индустриальная",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
     "uikCount": 53,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 94984,
@@ -1687,6 +1756,9 @@ export const president_2024_tic_227_region_18 = [
     "ballot": "presidential",
     "tikTvd": "21820001338830",
     "tikName": "Игринская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 28333,
@@ -1766,6 +1838,9 @@ export const president_2024_tic_227_region_18 = [
     "ballot": "presidential",
     "tikTvd": "21820001338831",
     "tikName": "Завьяловская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
     "uikCount": 55,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 74992,
@@ -1861,6 +1936,9 @@ export const president_2024_tic_227_region_18 = [
     "ballot": "presidential",
     "tikTvd": "21820001338832",
     "tikName": "Дебесская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9021,
@@ -1922,6 +2000,9 @@ export const president_2024_tic_227_region_18 = [
     "ballot": "presidential",
     "tikTvd": "21820001338833",
     "tikName": "Граховская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 6981,
@@ -1982,6 +2063,9 @@ export const president_2024_tic_227_region_18 = [
     "ballot": "presidential",
     "tikTvd": "21820001338834",
     "tikName": "Глазовская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 64776,
@@ -2063,6 +2147,9 @@ export const president_2024_tic_227_region_18 = [
     "ballot": "presidential",
     "tikTvd": "21820001338835",
     "tikName": "Глазовская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 13186,
@@ -2124,6 +2211,9 @@ export const president_2024_tic_227_region_18 = [
     "ballot": "presidential",
     "tikTvd": "21820001338836",
     "tikName": "Воткинская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
     "uikCount": 47,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 68302,
@@ -2211,6 +2301,9 @@ export const president_2024_tic_227_region_18 = [
     "ballot": "presidential",
     "tikTvd": "21820001338837",
     "tikName": "Воткинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 18008,
@@ -2278,6 +2371,9 @@ export const president_2024_tic_227_region_18 = [
     "ballot": "presidential",
     "tikTvd": "21820001338838",
     "tikName": "Вавожская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 11803,
@@ -2347,6 +2443,9 @@ export const president_2024_tic_227_region_18 = [
     "ballot": "presidential",
     "tikTvd": "21820001338839",
     "tikName": "Балезинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 23354,
@@ -2428,6 +2527,9 @@ export const president_2024_tic_227_region_18 = [
     "ballot": "presidential",
     "tikTvd": "21820001338840",
     "tikName": "Алнашская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 15105,

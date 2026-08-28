@@ -11,6 +11,14 @@ export const duma_2016_tic_464_region_40 = [
     "ballot": "single-member",
     "tikTvd": "2402000594644",
     "tikName": "Калуга, Московская",
+    "regionCode": "40",
+    "regionTvd": "100100067795982",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 99,
+      "oikTvd": "100100067795983",
+      "oikName": "Калужская область – Калужский"
+    },
     "uikCount": 46,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 91500,
@@ -107,6 +115,14 @@ export const duma_2016_tic_464_region_40 = [
     "ballot": "single-member",
     "tikTvd": "2402000594645",
     "tikName": "Юхновская",
+    "regionCode": "40",
+    "regionTvd": "100100067795982",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 99,
+      "oikTvd": "100100067795983",
+      "oikName": "Калужская область – Калужский"
+    },
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 9294,
@@ -175,6 +191,14 @@ export const duma_2016_tic_464_region_40 = [
     "ballot": "single-member",
     "tikTvd": "2402000594646",
     "tikName": "Спас-Деменская",
+    "regionCode": "40",
+    "regionTvd": "100100067795982",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 99,
+      "oikTvd": "100100067795983",
+      "oikName": "Калужская область – Калужский"
+    },
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 6473,
@@ -241,6 +265,14 @@ export const duma_2016_tic_464_region_40 = [
     "ballot": "single-member",
     "tikTvd": "2402000594647",
     "tikName": "Мосальская",
+    "regionCode": "40",
+    "regionTvd": "100100067795982",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 99,
+      "oikTvd": "100100067795983",
+      "oikName": "Калужская область – Калужский"
+    },
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 6368,
@@ -308,6 +340,14 @@ export const duma_2016_tic_464_region_40 = [
     "ballot": "single-member",
     "tikTvd": "2402000594648",
     "tikName": "Медынская",
+    "regionCode": "40",
+    "regionTvd": "100100067795982",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 99,
+      "oikTvd": "100100067795983",
+      "oikName": "Калужская область – Калужский"
+    },
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 8616,
@@ -371,6 +411,14 @@ export const duma_2016_tic_464_region_40 = [
     "ballot": "single-member",
     "tikTvd": "2402000594649",
     "tikName": "Малоярославецкая",
+    "regionCode": "40",
+    "regionTvd": "100100067795982",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 99,
+      "oikTvd": "100100067795983",
+      "oikName": "Калужская область – Калужский"
+    },
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 44426,
@@ -457,6 +505,14 @@ export const duma_2016_tic_464_region_40 = [
     "ballot": "single-member",
     "tikTvd": "2402000594650",
     "tikName": "Куйбышевская",
+    "regionCode": "40",
+    "regionTvd": "100100067795982",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 99,
+      "oikTvd": "100100067795983",
+      "oikName": "Калужская область – Калужский"
+    },
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 6239,
@@ -527,6 +583,14 @@ export const duma_2016_tic_464_region_40 = [
     "ballot": "single-member",
     "tikTvd": "2402000594651",
     "tikName": "Кировская",
+    "regionCode": "40",
+    "regionTvd": "100100067795982",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 99,
+      "oikTvd": "100100067795983",
+      "oikName": "Калужская область – Калужский"
+    },
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 30280,
@@ -608,6 +672,14 @@ export const duma_2016_tic_464_region_40 = [
     "ballot": "single-member",
     "tikTvd": "2402000594652",
     "tikName": "Калуга, Октябрьская",
+    "regionCode": "40",
+    "regionTvd": "100100067795982",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 99,
+      "oikTvd": "100100067795983",
+      "oikName": "Калужская область – Калужский"
+    },
     "uikCount": 53,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 92853,
@@ -711,6 +783,14 @@ export const duma_2016_tic_464_region_40 = [
     "ballot": "single-member",
     "tikTvd": "2402000594653",
     "tikName": "Износковская",
+    "regionCode": "40",
+    "regionTvd": "100100067795982",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 99,
+      "oikTvd": "100100067795983",
+      "oikName": "Калужская область – Калужский"
+    },
     "uikCount": 10,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 3976,
@@ -771,6 +851,14 @@ export const duma_2016_tic_464_region_40 = [
     "ballot": "single-member",
     "tikTvd": "2402000594654",
     "tikName": "Дзержинская",
+    "regionCode": "40",
+    "regionTvd": "100100067795982",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 99,
+      "oikTvd": "100100067795983",
+      "oikName": "Калужская область – Калужский"
+    },
     "uikCount": 41,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 42090,
@@ -862,6 +950,14 @@ export const duma_2016_tic_464_region_40 = [
     "ballot": "single-member",
     "tikTvd": "2402000594655",
     "tikName": "Боровская",
+    "regionCode": "40",
+    "regionTvd": "100100067795982",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 99,
+      "oikTvd": "100100067795983",
+      "oikName": "Калужская область – Калужский"
+    },
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 43721,
@@ -946,6 +1042,14 @@ export const duma_2016_tic_464_region_40 = [
     "ballot": "single-member",
     "tikTvd": "2402000594656",
     "tikName": "Барятинская",
+    "regionCode": "40",
+    "regionTvd": "100100067795982",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 99,
+      "oikTvd": "100100067795983",
+      "oikName": "Калужская область – Калужский"
+    },
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 4126,
@@ -1010,6 +1114,14 @@ export const duma_2016_tic_464_region_40 = [
     "ballot": "single-member",
     "tikTvd": "2402000594657",
     "tikName": "Хвастовичская",
+    "regionCode": "40",
+    "regionTvd": "100100067795982",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 100,
+      "oikTvd": "100100067795984",
+      "oikName": "Калужская область – Обнинский"
+    },
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 7851,
@@ -1077,6 +1189,14 @@ export const duma_2016_tic_464_region_40 = [
     "ballot": "single-member",
     "tikTvd": "2402000594658",
     "tikName": "Ферзиковская",
+    "regionCode": "40",
+    "regionTvd": "100100067795982",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 100,
+      "oikTvd": "100100067795984",
+      "oikName": "Калужская область – Обнинский"
+    },
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 11587,
@@ -1145,6 +1265,14 @@ export const duma_2016_tic_464_region_40 = [
     "ballot": "single-member",
     "tikTvd": "2402000594659",
     "tikName": "Ульяновская",
+    "regionCode": "40",
+    "regionTvd": "100100067795982",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 100,
+      "oikTvd": "100100067795984",
+      "oikName": "Калужская область – Обнинский"
+    },
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 5611,
@@ -1207,6 +1335,14 @@ export const duma_2016_tic_464_region_40 = [
     "ballot": "single-member",
     "tikTvd": "2402000594660",
     "tikName": "Тарусская",
+    "regionCode": "40",
+    "regionTvd": "100100067795982",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 100,
+      "oikTvd": "100100067795984",
+      "oikName": "Калужская область – Обнинский"
+    },
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 10404,
@@ -1272,6 +1408,14 @@ export const duma_2016_tic_464_region_40 = [
     "ballot": "single-member",
     "tikTvd": "2402000594661",
     "tikName": "Сухиничская",
+    "regionCode": "40",
+    "regionTvd": "100100067795982",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 100,
+      "oikTvd": "100100067795984",
+      "oikName": "Калужская область – Обнинский"
+    },
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 18672,
@@ -1349,6 +1493,14 @@ export const duma_2016_tic_464_region_40 = [
     "ballot": "single-member",
     "tikTvd": "2402000594662",
     "tikName": "Перемышльская",
+    "regionCode": "40",
+    "regionTvd": "100100067795982",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 100,
+      "oikTvd": "100100067795984",
+      "oikName": "Калужская область – Обнинский"
+    },
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 9555,
@@ -1415,6 +1567,14 @@ export const duma_2016_tic_464_region_40 = [
     "ballot": "single-member",
     "tikTvd": "2402000594663",
     "tikName": "Обнинская городская",
+    "regionCode": "40",
+    "regionTvd": "100100067795982",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 100,
+      "oikTvd": "100100067795984",
+      "oikName": "Калужская область – Обнинский"
+    },
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 84926,
@@ -1504,6 +1664,14 @@ export const duma_2016_tic_464_region_40 = [
     "ballot": "single-member",
     "tikTvd": "2402000594664",
     "tikName": "Мещовская",
+    "regionCode": "40",
+    "regionTvd": "100100067795982",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 100,
+      "oikTvd": "100100067795984",
+      "oikName": "Калужская область – Обнинский"
+    },
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 8335,
@@ -1572,6 +1740,14 @@ export const duma_2016_tic_464_region_40 = [
     "ballot": "single-member",
     "tikTvd": "2402000594665",
     "tikName": "Людиновская",
+    "regionCode": "40",
+    "regionTvd": "100100067795982",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 100,
+      "oikTvd": "100100067795984",
+      "oikName": "Калужская область – Обнинский"
+    },
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 34302,
@@ -1650,6 +1826,14 @@ export const duma_2016_tic_464_region_40 = [
     "ballot": "single-member",
     "tikTvd": "2402000594666",
     "tikName": "Козельская",
+    "regionCode": "40",
+    "regionTvd": "100100067795982",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 100,
+      "oikTvd": "100100067795984",
+      "oikName": "Калужская область – Обнинский"
+    },
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 31462,
@@ -1732,6 +1916,14 @@ export const duma_2016_tic_464_region_40 = [
     "ballot": "single-member",
     "tikTvd": "2402000594667",
     "tikName": "Калуга, Ленинская",
+    "regionCode": "40",
+    "regionTvd": "100100067795982",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 100,
+      "oikTvd": "100100067795984",
+      "oikName": "Калужская область – Обнинский"
+    },
     "uikCount": 59,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 108393,
@@ -1840,6 +2032,14 @@ export const duma_2016_tic_464_region_40 = [
     "ballot": "single-member",
     "tikTvd": "2402000594668",
     "tikName": "Жуковская",
+    "regionCode": "40",
+    "regionTvd": "100100067795982",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 100,
+      "oikTvd": "100100067795984",
+      "oikName": "Калужская область – Обнинский"
+    },
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 36360,
@@ -1923,6 +2123,14 @@ export const duma_2016_tic_464_region_40 = [
     "ballot": "single-member",
     "tikTvd": "2402000594669",
     "tikName": "Жиздринская",
+    "regionCode": "40",
+    "regionTvd": "100100067795982",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 100,
+      "oikTvd": "100100067795984",
+      "oikName": "Калужская область – Обнинский"
+    },
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 7751,
@@ -1988,6 +2196,14 @@ export const duma_2016_tic_464_region_40 = [
     "ballot": "single-member",
     "tikTvd": "2402000594670",
     "tikName": "Думиничская",
+    "regionCode": "40",
+    "regionTvd": "100100067795982",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 100,
+      "oikTvd": "100100067795984",
+      "oikName": "Калужская область – Обнинский"
+    },
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 10509,
@@ -2056,6 +2272,14 @@ export const duma_2016_tic_464_region_40 = [
     "ballot": "single-member",
     "tikTvd": "2402000594671",
     "tikName": "Бабынинская",
+    "regionCode": "40",
+    "regionTvd": "100100067795982",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 100,
+      "oikTvd": "100100067795984",
+      "oikName": "Калужская область – Обнинский"
+    },
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 16926,

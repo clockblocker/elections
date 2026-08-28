@@ -11,6 +11,9 @@ export const duma_2007_tic_233_region_57 = [
     "ballot": "party",
     "tikTvd": "2572000182202",
     "tikName": "Урицкая",
+    "regionCode": "57",
+    "regionTvd": "100100021960296",
+    "regionName": "Орловская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 14550,
@@ -85,6 +88,9 @@ export const duma_2007_tic_233_region_57 = [
     "ballot": "party",
     "tikTvd": "2572000182203",
     "tikName": "Должанская",
+    "regionCode": "57",
+    "regionTvd": "100100021960296",
+    "regionName": "Орловская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 9952,
@@ -164,6 +170,9 @@ export const duma_2007_tic_233_region_57 = [
     "ballot": "party",
     "tikTvd": "2572000182204",
     "tikName": "Дмитровская",
+    "regionCode": "57",
+    "regionTvd": "100100021960296",
+    "regionName": "Орловская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 11148,
@@ -241,6 +250,9 @@ export const duma_2007_tic_233_region_57 = [
     "ballot": "party",
     "tikTvd": "2572000182205",
     "tikName": "Верховская",
+    "regionCode": "57",
+    "regionTvd": "100100021960296",
+    "regionName": "Орловская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 15826,
@@ -321,6 +333,9 @@ export const duma_2007_tic_233_region_57 = [
     "ballot": "party",
     "tikTvd": "2572000182206",
     "tikName": "Глазуновская",
+    "regionCode": "57",
+    "regionTvd": "100100021960296",
+    "regionName": "Орловская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 11223,
@@ -395,6 +410,9 @@ export const duma_2007_tic_233_region_57 = [
     "ballot": "party",
     "tikTvd": "2572000182207",
     "tikName": "Болховская",
+    "regionCode": "57",
+    "regionTvd": "100100021960296",
+    "regionName": "Орловская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 15298,
@@ -472,6 +490,9 @@ export const duma_2007_tic_233_region_57 = [
     "ballot": "party",
     "tikTvd": "2572000182208",
     "tikName": "Ливенская городская",
+    "regionCode": "57",
+    "regionTvd": "100100021960296",
+    "regionName": "Орловская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 41567,
@@ -555,6 +576,9 @@ export const duma_2007_tic_233_region_57 = [
     "ballot": "party",
     "tikTvd": "2572000182209",
     "tikName": "Малоархангельская",
+    "regionCode": "57",
+    "regionTvd": "100100021960296",
+    "regionName": "Орловская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 9996,
@@ -630,6 +654,9 @@ export const duma_2007_tic_233_region_57 = [
     "ballot": "party",
     "tikTvd": "2572000182210",
     "tikName": "Кромская",
+    "regionCode": "57",
+    "regionTvd": "100100021960296",
+    "regionName": "Орловская область",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 16558,
@@ -719,6 +746,9 @@ export const duma_2007_tic_233_region_57 = [
     "ballot": "party",
     "tikTvd": "2572000182211",
     "tikName": "Краснозоренская",
+    "regionCode": "57",
+    "regionTvd": "100100021960296",
+    "regionName": "Орловская область",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 6093,
@@ -790,6 +820,9 @@ export const duma_2007_tic_233_region_57 = [
     "ballot": "party",
     "tikTvd": "2572000182212",
     "tikName": "Корсаковская",
+    "regionCode": "57",
+    "regionTvd": "100100021960296",
+    "regionName": "Орловская область",
     "uikCount": 10,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 3766,
@@ -854,6 +887,9 @@ export const duma_2007_tic_233_region_57 = [
     "ballot": "party",
     "tikTvd": "2572000182213",
     "tikName": "Колпнянская",
+    "regionCode": "57",
+    "regionTvd": "100100021960296",
+    "regionName": "Орловская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 13462,
@@ -936,6 +972,9 @@ export const duma_2007_tic_233_region_57 = [
     "ballot": "party",
     "tikTvd": "2572000182214",
     "tikName": "Залегощенская",
+    "regionCode": "57",
+    "regionTvd": "100100021960296",
+    "regionName": "Орловская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 12078,
@@ -1016,6 +1055,9 @@ export const duma_2007_tic_233_region_57 = [
     "ballot": "party",
     "tikTvd": "2572000182215",
     "tikName": "Знаменская",
+    "regionCode": "57",
+    "regionTvd": "100100021960296",
+    "regionName": "Орловская область",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 4494,
@@ -1082,6 +1124,9 @@ export const duma_2007_tic_233_region_57 = [
     "ballot": "party",
     "tikTvd": "2572000182216",
     "tikName": "Орловская",
+    "regionCode": "57",
+    "regionTvd": "100100021960296",
+    "regionName": "Орловская область",
     "uikCount": 56,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 50106,
@@ -1192,6 +1237,9 @@ export const duma_2007_tic_233_region_57 = [
     "ballot": "party",
     "tikTvd": "2572000182217",
     "tikName": "Покровская",
+    "regionCode": "57",
+    "regionTvd": "100100021960296",
+    "regionName": "Орловская область",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 12719,
@@ -1278,6 +1326,9 @@ export const duma_2007_tic_233_region_57 = [
     "ballot": "party",
     "tikTvd": "2572000182218",
     "tikName": "Свердловская",
+    "regionCode": "57",
+    "regionTvd": "100100021960296",
+    "regionName": "Орловская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 13576,
@@ -1360,6 +1411,9 @@ export const duma_2007_tic_233_region_57 = [
     "ballot": "party",
     "tikTvd": "2572000182219",
     "tikName": "Орел, Советская",
+    "regionCode": "57",
+    "regionTvd": "100100021960296",
+    "regionName": "Орловская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 73488,
@@ -1454,6 +1508,9 @@ export const duma_2007_tic_233_region_57 = [
     "ballot": "party",
     "tikTvd": "2572000182220",
     "tikName": "Орел, Железнодорожная",
+    "regionCode": "57",
+    "regionTvd": "100100021960296",
+    "regionName": "Орловская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 57282,
@@ -1538,6 +1595,9 @@ export const duma_2007_tic_233_region_57 = [
     "ballot": "party",
     "tikTvd": "2572000182221",
     "tikName": "Орел, Заводская",
+    "regionCode": "57",
+    "regionTvd": "100100021960296",
+    "regionName": "Орловская область",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 89904,
@@ -1638,6 +1698,9 @@ export const duma_2007_tic_233_region_57 = [
     "ballot": "party",
     "tikTvd": "2572000182222",
     "tikName": "Новосильская",
+    "regionCode": "57",
+    "regionTvd": "100100021960296",
+    "regionName": "Орловская область",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 7305,
@@ -1709,6 +1772,9 @@ export const duma_2007_tic_233_region_57 = [
     "ballot": "party",
     "tikTvd": "2572000182223",
     "tikName": "Мценская",
+    "regionCode": "57",
+    "regionTvd": "100100021960296",
+    "regionName": "Орловская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 14030,
@@ -1797,6 +1863,9 @@ export const duma_2007_tic_233_region_57 = [
     "ballot": "party",
     "tikTvd": "2572000182224",
     "tikName": "Новодеревеньковская",
+    "regionCode": "57",
+    "regionTvd": "100100021960296",
+    "regionName": "Орловская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 9671,
@@ -1873,6 +1942,9 @@ export const duma_2007_tic_233_region_57 = [
     "ballot": "party",
     "tikTvd": "2572000182225",
     "tikName": "Мценская городская",
+    "regionCode": "57",
+    "regionTvd": "100100021960296",
+    "regionName": "Орловская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 38110,
@@ -1948,6 +2020,9 @@ export const duma_2007_tic_233_region_57 = [
     "ballot": "party",
     "tikTvd": "2572000182226",
     "tikName": "Ливенская",
+    "regionCode": "57",
+    "regionTvd": "100100021960296",
+    "regionName": "Орловская область",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 25584,
@@ -2048,6 +2123,9 @@ export const duma_2007_tic_233_region_57 = [
     "ballot": "party",
     "tikTvd": "2572000182227",
     "tikName": "Шаблыкинская",
+    "regionCode": "57",
+    "regionTvd": "100100021960296",
+    "regionName": "Орловская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 6734,
@@ -2120,6 +2198,9 @@ export const duma_2007_tic_233_region_57 = [
     "ballot": "party",
     "tikTvd": "2572000182228",
     "tikName": "Хотынецкая",
+    "regionCode": "57",
+    "regionTvd": "100100021960296",
+    "regionName": "Орловская область",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 8363,
@@ -2191,6 +2272,9 @@ export const duma_2007_tic_233_region_57 = [
     "ballot": "party",
     "tikTvd": "2572000182229",
     "tikName": "Троснянская",
+    "regionCode": "57",
+    "regionTvd": "100100021960296",
+    "regionName": "Орловская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 8718,
@@ -2267,6 +2351,9 @@ export const duma_2007_tic_233_region_57 = [
     "ballot": "party",
     "tikTvd": "2572000182230",
     "tikName": "Сосковская",
+    "regionCode": "57",
+    "regionTvd": "100100021960296",
+    "regionName": "Орловская область",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 5880,
@@ -2338,6 +2425,9 @@ export const duma_2007_tic_233_region_57 = [
     "ballot": "party",
     "tikTvd": "2572000182231",
     "tikName": "Орел, Северная ",
+    "regionCode": "57",
+    "regionTvd": "100100021960296",
+    "regionName": "Орловская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 56025,

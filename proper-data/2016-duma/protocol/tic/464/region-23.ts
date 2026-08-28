@@ -11,6 +11,14 @@ export const duma_2016_tic_464_region_23 = [
     "ballot": "single-member",
     "tikTvd": "22320001781618",
     "tikName": "Краснодар, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100067795916",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 46,
+      "oikTvd": "100100067795917",
+      "oikName": "Краснодарский край – Краснодарский"
+    },
     "uikCount": 63,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 117339,
@@ -126,6 +134,14 @@ export const duma_2016_tic_464_region_23 = [
     "ballot": "single-member",
     "tikTvd": "22320001781619",
     "tikName": "Краснодар, Карасунская",
+    "regionCode": "23",
+    "regionTvd": "100100067795916",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 46,
+      "oikTvd": "100100067795917",
+      "oikName": "Краснодарский край – Краснодарский"
+    },
     "uikCount": 80,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 189246,
@@ -258,6 +274,14 @@ export const duma_2016_tic_464_region_23 = [
     "ballot": "single-member",
     "tikTvd": "22320001781620",
     "tikName": "Краснодар, Западная",
+    "regionCode": "23",
+    "regionTvd": "100100067795916",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 46,
+      "oikTvd": "100100067795917",
+      "oikName": "Краснодарский край – Краснодарский"
+    },
     "uikCount": 65,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 131330,
@@ -375,6 +399,14 @@ export const duma_2016_tic_464_region_23 = [
     "ballot": "single-member",
     "tikTvd": "22320001781621",
     "tikName": "Динская",
+    "regionCode": "23",
+    "regionTvd": "100100067795916",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 46,
+      "oikTvd": "100100067795917",
+      "oikName": "Краснодарский край – Краснодарский"
+    },
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 67785,
@@ -459,6 +491,14 @@ export const duma_2016_tic_464_region_23 = [
     "ballot": "single-member",
     "tikTvd": "22320001781622",
     "tikName": "Тимашевская",
+    "regionCode": "23",
+    "regionTvd": "100100067795916",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100067795918",
+      "oikName": "Краснодарский край – Красноармейский"
+    },
     "uikCount": 60,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 78599,
@@ -571,6 +611,14 @@ export const duma_2016_tic_464_region_23 = [
     "ballot": "single-member",
     "tikTvd": "22320001781623",
     "tikName": "Краснодар, Прикубанская",
+    "regionCode": "23",
+    "regionTvd": "100100067795916",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100067795918",
+      "oikName": "Краснодарский край – Красноармейский"
+    },
     "uikCount": 113,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 267601,
@@ -736,6 +784,14 @@ export const duma_2016_tic_464_region_23 = [
     "ballot": "single-member",
     "tikTvd": "22320001781624",
     "tikName": "Красноармейская",
+    "regionCode": "23",
+    "regionTvd": "100100067795916",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100067795918",
+      "oikName": "Краснодарский край – Красноармейский"
+    },
     "uikCount": 66,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 80508,
@@ -854,6 +910,14 @@ export const duma_2016_tic_464_region_23 = [
     "ballot": "single-member",
     "tikTvd": "22320001781625",
     "tikName": "Калининская",
+    "regionCode": "23",
+    "regionTvd": "100100067795916",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100067795918",
+      "oikName": "Краснодарский край – Красноармейский"
+    },
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 37157,
@@ -931,6 +995,14 @@ export const duma_2016_tic_464_region_23 = [
     "ballot": "single-member",
     "tikTvd": "22320001781680",
     "tikName": "Динская",
+    "regionCode": "23",
+    "regionTvd": "100100067795916",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100067795918",
+      "oikName": "Краснодарский край – Красноармейский"
+    },
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 33641,
@@ -1003,6 +1075,14 @@ export const duma_2016_tic_464_region_23 = [
     "ballot": "single-member",
     "tikTvd": "4234003206807",
     "tikName": "Армавирская ",
+    "regionCode": "23",
+    "regionTvd": "100100067795916",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 52,
+      "oikTvd": "100100067795923",
+      "oikName": "Краснодарский край – Армавирский"
+    },
     "uikCount": 74,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 125397,
@@ -1128,6 +1208,14 @@ export const duma_2016_tic_464_region_23 = [
     "ballot": "single-member",
     "tikTvd": "4234003206810",
     "tikName": "Гулькевичская",
+    "regionCode": "23",
+    "regionTvd": "100100067795916",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 52,
+      "oikTvd": "100100067795923",
+      "oikName": "Краснодарский край – Армавирский"
+    },
     "uikCount": 70,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 72691,
@@ -1249,6 +1337,14 @@ export const duma_2016_tic_464_region_23 = [
     "ballot": "single-member",
     "tikTvd": "4234003206811",
     "tikName": "Курганинская",
+    "regionCode": "23",
+    "regionTvd": "100100067795916",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 52,
+      "oikTvd": "100100067795923",
+      "oikName": "Краснодарский край – Армавирский"
+    },
     "uikCount": 59,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 65931,
@@ -1359,6 +1455,14 @@ export const duma_2016_tic_464_region_23 = [
     "ballot": "single-member",
     "tikTvd": "4234003206812",
     "tikName": "Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100067795916",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 52,
+      "oikTvd": "100100067795923",
+      "oikName": "Краснодарский край – Армавирский"
+    },
     "uikCount": 54,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 75430,
@@ -1464,6 +1568,14 @@ export const duma_2016_tic_464_region_23 = [
     "ballot": "single-member",
     "tikTvd": "4234003206813",
     "tikName": "Мостовская",
+    "regionCode": "23",
+    "regionTvd": "100100067795916",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 52,
+      "oikTvd": "100100067795923",
+      "oikName": "Краснодарский край – Армавирский"
+    },
     "uikCount": 42,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 51398,
@@ -1557,6 +1669,14 @@ export const duma_2016_tic_464_region_23 = [
     "ballot": "single-member",
     "tikTvd": "4234003206814",
     "tikName": "Новокубанская",
+    "regionCode": "23",
+    "regionTvd": "100100067795916",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 52,
+      "oikTvd": "100100067795923",
+      "oikName": "Краснодарский край – Армавирский"
+    },
     "uikCount": 60,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 65173,
@@ -1668,6 +1788,14 @@ export const duma_2016_tic_464_region_23 = [
     "ballot": "single-member",
     "tikTvd": "4234003206815",
     "tikName": "Отрадненская",
+    "regionCode": "23",
+    "regionTvd": "100100067795916",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 52,
+      "oikTvd": "100100067795923",
+      "oikName": "Краснодарский край – Армавирский"
+    },
     "uikCount": 51,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 47379,
@@ -1770,6 +1898,14 @@ export const duma_2016_tic_464_region_23 = [
     "ballot": "single-member",
     "tikTvd": "4234003206816",
     "tikName": "Успенская",
+    "regionCode": "23",
+    "regionTvd": "100100067795916",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 52,
+      "oikTvd": "100100067795923",
+      "oikName": "Краснодарский край – Армавирский"
+    },
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 30047,
@@ -1846,6 +1982,14 @@ export const duma_2016_tic_464_region_23 = [
     "ballot": "single-member",
     "tikTvd": "4234015217737",
     "tikName": "Кущевская",
+    "regionCode": "23",
+    "regionTvd": "100100067795916",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100067795924",
+      "oikName": "Краснодарский край – Каневской"
+    },
     "uikCount": 49,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 52361,
@@ -1946,6 +2090,14 @@ export const duma_2016_tic_464_region_23 = [
     "ballot": "single-member",
     "tikTvd": "4234015217738",
     "tikName": "Брюховецкая",
+    "regionCode": "23",
+    "regionTvd": "100100067795916",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100067795924",
+      "oikName": "Краснодарский край – Каневской"
+    },
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 43450,
@@ -2030,6 +2182,14 @@ export const duma_2016_tic_464_region_23 = [
     "ballot": "single-member",
     "tikTvd": "4234015217739",
     "tikName": "Ейская районная",
+    "regionCode": "23",
+    "regionTvd": "100100067795916",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100067795924",
+      "oikName": "Краснодарский край – Каневской"
+    },
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 32442,
@@ -2107,6 +2267,14 @@ export const duma_2016_tic_464_region_23 = [
     "ballot": "single-member",
     "tikTvd": "4234015217740",
     "tikName": "Ейская городская",
+    "regionCode": "23",
+    "regionTvd": "100100067795916",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100067795924",
+      "oikName": "Краснодарский край – Каневской"
+    },
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 73188,
@@ -2198,6 +2366,14 @@ export const duma_2016_tic_464_region_23 = [
     "ballot": "single-member",
     "tikTvd": "4234015217741",
     "tikName": "Каневская",
+    "regionCode": "23",
+    "regionTvd": "100100067795916",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100067795924",
+      "oikName": "Краснодарский край – Каневской"
+    },
     "uikCount": 53,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 74559,
@@ -2302,6 +2478,14 @@ export const duma_2016_tic_464_region_23 = [
     "ballot": "single-member",
     "tikTvd": "4234015217742",
     "tikName": "Крыловская",
+    "regionCode": "23",
+    "regionTvd": "100100067795916",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100067795924",
+      "oikName": "Краснодарский край – Каневской"
+    },
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 26335,
@@ -2390,6 +2574,14 @@ export const duma_2016_tic_464_region_23 = [
     "ballot": "single-member",
     "tikTvd": "4234015217743",
     "tikName": "Ленинградская",
+    "regionCode": "23",
+    "regionTvd": "100100067795916",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100067795924",
+      "oikName": "Краснодарский край – Каневской"
+    },
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 49796,
@@ -2476,6 +2668,14 @@ export const duma_2016_tic_464_region_23 = [
     "ballot": "single-member",
     "tikTvd": "4234015217744",
     "tikName": "Павловская",
+    "regionCode": "23",
+    "regionTvd": "100100067795916",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100067795924",
+      "oikName": "Краснодарский край – Каневской"
+    },
     "uikCount": 44,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 52295,
@@ -2571,6 +2771,14 @@ export const duma_2016_tic_464_region_23 = [
     "ballot": "single-member",
     "tikTvd": "4234015217745",
     "tikName": "Приморско-Ахтарская",
+    "regionCode": "23",
+    "regionTvd": "100100067795916",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100067795924",
+      "oikName": "Краснодарский край – Каневской"
+    },
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 43261,
@@ -2657,6 +2865,14 @@ export const duma_2016_tic_464_region_23 = [
     "ballot": "single-member",
     "tikTvd": "4234015217746",
     "tikName": "Староминская",
+    "regionCode": "23",
+    "regionTvd": "100100067795916",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100067795924",
+      "oikName": "Краснодарский край – Каневской"
+    },
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 31958,
@@ -2729,6 +2945,14 @@ export const duma_2016_tic_464_region_23 = [
     "ballot": "single-member",
     "tikTvd": "4234015217747",
     "tikName": "Щербиновская",
+    "regionCode": "23",
+    "regionTvd": "100100067795916",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100067795924",
+      "oikName": "Краснодарский край – Каневской"
+    },
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 29170,
@@ -2798,6 +3022,14 @@ export const duma_2016_tic_464_region_23 = [
     "ballot": "single-member",
     "tikTvd": "4234040306535",
     "tikName": "Абинская",
+    "regionCode": "23",
+    "regionTvd": "100100067795916",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100067795919",
+      "oikName": "Краснодарский край – Славянский"
+    },
     "uikCount": 43,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 68054,
@@ -2893,6 +3125,14 @@ export const duma_2016_tic_464_region_23 = [
     "ballot": "single-member",
     "tikTvd": "4234040306536",
     "tikName": "Анапская",
+    "regionCode": "23",
+    "regionTvd": "100100067795916",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100067795919",
+      "oikName": "Краснодарский край – Славянский"
+    },
     "uikCount": 70,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 128743,
@@ -3015,6 +3255,14 @@ export const duma_2016_tic_464_region_23 = [
     "ballot": "single-member",
     "tikTvd": "4234040306537",
     "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100067795916",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100067795919",
+      "oikName": "Краснодарский край – Славянский"
+    },
     "uikCount": 68,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 98319,
@@ -3135,6 +3383,14 @@ export const duma_2016_tic_464_region_23 = [
     "ballot": "single-member",
     "tikTvd": "4234040306538",
     "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100067795916",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100067795919",
+      "oikName": "Краснодарский край – Славянский"
+    },
     "uikCount": 65,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 96996,
@@ -3252,6 +3508,14 @@ export const duma_2016_tic_464_region_23 = [
     "ballot": "single-member",
     "tikTvd": "4234040306539",
     "tikName": "Темрюкская",
+    "regionCode": "23",
+    "regionTvd": "100100067795916",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100067795919",
+      "oikName": "Краснодарский край – Славянский"
+    },
     "uikCount": 55,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 86423,
@@ -3359,6 +3623,14 @@ export const duma_2016_tic_464_region_23 = [
     "ballot": "single-member",
     "tikTvd": "4234044243538",
     "tikName": "Апшеронская",
+    "regionCode": "23",
+    "regionTvd": "100100067795916",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100067795921",
+      "oikName": "Краснодарский край – Сочинский"
+    },
     "uikCount": 56,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 56811,
@@ -3466,6 +3738,14 @@ export const duma_2016_tic_464_region_23 = [
     "ballot": "single-member",
     "tikTvd": "4234044243539",
     "tikName": "Белореченская",
+    "regionCode": "23",
+    "regionTvd": "100100067795916",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100067795921",
+      "oikName": "Краснодарский край – Сочинский"
+    },
     "uikCount": 77,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 77456,
@@ -3594,6 +3874,14 @@ export const duma_2016_tic_464_region_23 = [
     "ballot": "single-member",
     "tikTvd": "4234044243540",
     "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100067795916",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100067795921",
+      "oikName": "Краснодарский край – Сочинский"
+    },
     "uikCount": 61,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 90832,
@@ -3706,6 +3994,14 @@ export const duma_2016_tic_464_region_23 = [
     "ballot": "single-member",
     "tikTvd": "4234044243541",
     "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100067795916",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100067795921",
+      "oikName": "Краснодарский край – Сочинский"
+    },
     "uikCount": 57,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 67041,
@@ -3814,6 +4110,14 @@ export const duma_2016_tic_464_region_23 = [
     "ballot": "single-member",
     "tikTvd": "4234044243542",
     "tikName": "Сочи, Хостинская",
+    "regionCode": "23",
+    "regionTvd": "100100067795916",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100067795921",
+      "oikName": "Краснодарский край – Сочинский"
+    },
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 65029,
@@ -3904,6 +4208,14 @@ export const duma_2016_tic_464_region_23 = [
     "ballot": "single-member",
     "tikTvd": "4234044243543",
     "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100067795916",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100067795921",
+      "oikName": "Краснодарский край – Сочинский"
+    },
     "uikCount": 63,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 114752,
@@ -4018,6 +4330,14 @@ export const duma_2016_tic_464_region_23 = [
     "ballot": "single-member",
     "tikTvd": "4234055222590",
     "tikName": "Белоглинская",
+    "regionCode": "23",
+    "regionTvd": "100100067795916",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100067795922",
+      "oikName": "Краснодарский край – Тихорецкий"
+    },
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 23372,
@@ -4088,6 +4408,14 @@ export const duma_2016_tic_464_region_23 = [
     "ballot": "single-member",
     "tikTvd": "4234055222591",
     "tikName": "Выселковская",
+    "regionCode": "23",
+    "regionTvd": "100100067795916",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100067795922",
+      "oikName": "Краснодарский край – Тихорецкий"
+    },
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 46873,
@@ -4177,6 +4505,14 @@ export const duma_2016_tic_464_region_23 = [
     "ballot": "single-member",
     "tikTvd": "4234055222592",
     "tikName": "Кавказская",
+    "regionCode": "23",
+    "regionTvd": "100100067795916",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100067795922",
+      "oikName": "Краснодарский край – Тихорецкий"
+    },
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 34143,
@@ -4250,6 +4586,14 @@ export const duma_2016_tic_464_region_23 = [
     "ballot": "single-member",
     "tikTvd": "4234055222593",
     "tikName": "Кореновская",
+    "regionCode": "23",
+    "regionTvd": "100100067795916",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100067795922",
+      "oikName": "Краснодарский край – Тихорецкий"
+    },
     "uikCount": 58,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 68783,
@@ -4357,6 +4701,14 @@ export const duma_2016_tic_464_region_23 = [
     "ballot": "single-member",
     "tikTvd": "4234055222594",
     "tikName": "Кропоткинская",
+    "regionCode": "23",
+    "regionTvd": "100100067795916",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100067795922",
+      "oikName": "Краснодарский край – Тихорецкий"
+    },
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 56754,
@@ -4438,6 +4790,14 @@ export const duma_2016_tic_464_region_23 = [
     "ballot": "single-member",
     "tikTvd": "4234055222595",
     "tikName": "Новопокровская",
+    "regionCode": "23",
+    "regionTvd": "100100067795916",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100067795922",
+      "oikName": "Краснодарский край – Тихорецкий"
+    },
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 34322,
@@ -4514,6 +4874,14 @@ export const duma_2016_tic_464_region_23 = [
     "ballot": "single-member",
     "tikTvd": "4234055222596",
     "tikName": "Тбилисская",
+    "regionCode": "23",
+    "regionTvd": "100100067795916",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100067795922",
+      "oikName": "Краснодарский край – Тихорецкий"
+    },
     "uikCount": 45,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 36676,
@@ -4608,6 +4976,14 @@ export const duma_2016_tic_464_region_23 = [
     "ballot": "single-member",
     "tikTvd": "4234055222597",
     "tikName": "Тихорецкая районная",
+    "regionCode": "23",
+    "regionTvd": "100100067795916",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100067795922",
+      "oikName": "Краснодарский край – Тихорецкий"
+    },
     "uikCount": 42,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 44199,
@@ -4699,6 +5075,14 @@ export const duma_2016_tic_464_region_23 = [
     "ballot": "single-member",
     "tikTvd": "4234055222598",
     "tikName": "Тихорецкая городская",
+    "regionCode": "23",
+    "regionTvd": "100100067795916",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100067795922",
+      "oikName": "Краснодарский край – Тихорецкий"
+    },
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 48665,
@@ -4782,6 +5166,14 @@ export const duma_2016_tic_464_region_23 = [
     "ballot": "single-member",
     "tikTvd": "4234055222599",
     "tikName": "Усть-Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100067795916",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100067795922",
+      "oikName": "Краснодарский край – Тихорецкий"
+    },
     "uikCount": 61,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 80660,
@@ -4892,6 +5284,14 @@ export const duma_2016_tic_464_region_23 = [
     "ballot": "single-member",
     "tikTvd": "4234056224469",
     "tikName": "Геленджикская",
+    "regionCode": "23",
+    "regionTvd": "100100067795916",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100067795920",
+      "oikName": "Краснодарский край – Туапсинский"
+    },
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 77214,
@@ -4981,6 +5381,14 @@ export const duma_2016_tic_464_region_23 = [
     "ballot": "single-member",
     "tikTvd": "4234056224470",
     "tikName": "Горячеключевская ",
+    "regionCode": "23",
+    "regionTvd": "100100067795916",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100067795920",
+      "oikName": "Краснодарский край – Туапсинский"
+    },
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 46704,
@@ -5066,6 +5474,14 @@ export const duma_2016_tic_464_region_23 = [
     "ballot": "single-member",
     "tikTvd": "4234056224471",
     "tikName": "Новороссийск, Восточная",
+    "regionCode": "23",
+    "regionTvd": "100100067795916",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100067795920",
+      "oikName": "Краснодарский край – Туапсинский"
+    },
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 24216,
@@ -5132,6 +5548,14 @@ export const duma_2016_tic_464_region_23 = [
     "ballot": "single-member",
     "tikTvd": "4234056224473",
     "tikName": "Новороссийск, Приморская",
+    "regionCode": "23",
+    "regionTvd": "100100067795916",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100067795920",
+      "oikName": "Краснодарский край – Туапсинский"
+    },
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 52963,
@@ -5211,6 +5635,14 @@ export const duma_2016_tic_464_region_23 = [
     "ballot": "single-member",
     "tikTvd": "4234056224474",
     "tikName": "Новороссийск, судов загранплавания",
+    "regionCode": "23",
+    "regionTvd": "100100067795916",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100067795920",
+      "oikName": "Краснодарский край – Туапсинский"
+    },
     "uikCount": 1,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 14,
@@ -5261,6 +5693,14 @@ export const duma_2016_tic_464_region_23 = [
     "ballot": "single-member",
     "tikTvd": "4234056224475",
     "tikName": "Северская",
+    "regionCode": "23",
+    "regionTvd": "100100067795916",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100067795920",
+      "oikName": "Краснодарский край – Туапсинский"
+    },
     "uikCount": 69,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 86385,
@@ -5379,6 +5819,14 @@ export const duma_2016_tic_464_region_23 = [
     "ballot": "single-member",
     "tikTvd": "4234056224476",
     "tikName": "Новороссийск, Южная",
+    "regionCode": "23",
+    "regionTvd": "100100067795916",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100067795920",
+      "oikName": "Краснодарский край – Туапсинский"
+    },
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 46777,
@@ -5453,6 +5901,14 @@ export const duma_2016_tic_464_region_23 = [
     "ballot": "single-member",
     "tikTvd": "4234056224477",
     "tikName": "Новороссийск, Пригородная",
+    "regionCode": "23",
+    "regionTvd": "100100067795916",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100067795920",
+      "oikName": "Краснодарский край – Туапсинский"
+    },
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 38619,
@@ -5529,6 +5985,14 @@ export const duma_2016_tic_464_region_23 = [
     "ballot": "single-member",
     "tikTvd": "4234056224478",
     "tikName": "Туапсинская городская",
+    "regionCode": "23",
+    "regionTvd": "100100067795916",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100067795920",
+      "oikName": "Краснодарский край – Туапсинский"
+    },
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 43783,
@@ -5606,6 +6070,14 @@ export const duma_2016_tic_464_region_23 = [
     "ballot": "single-member",
     "tikTvd": "4234056224479",
     "tikName": "Туапсинская районная",
+    "regionCode": "23",
+    "regionTvd": "100100067795916",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100067795920",
+      "oikName": "Краснодарский край – Туапсинский"
+    },
     "uikCount": 57,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 42524,
@@ -5712,6 +6184,14 @@ export const duma_2016_tic_464_region_23 = [
     "ballot": "single-member",
     "tikTvd": "4234056224585",
     "tikName": "Новороссийск, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100067795916",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100067795920",
+      "oikName": "Краснодарский край – Туапсинский"
+    },
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 46117,

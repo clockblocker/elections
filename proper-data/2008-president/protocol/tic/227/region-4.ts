@@ -11,6 +11,9 @@ export const president_2008_tic_227_region_4 = [
     "ballot": "presidential",
     "tikTvd": "2032000153026",
     "tikName": "Баргузинская",
+    "regionCode": "4",
+    "regionTvd": "100100022249944",
+    "regionName": "Республика Бурятия",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 16812,
@@ -94,6 +97,9 @@ export const president_2008_tic_227_region_4 = [
     "ballot": "presidential",
     "tikTvd": "2032000153027",
     "tikName": "Хоринская",
+    "regionCode": "4",
+    "regionTvd": "100100022249944",
+    "regionName": "Республика Бурятия",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 13251,
@@ -169,6 +175,9 @@ export const president_2008_tic_227_region_4 = [
     "ballot": "presidential",
     "tikTvd": "2032000153028",
     "tikName": "Улан-Удэ, Советская",
+    "regionCode": "4",
+    "regionTvd": "100100022249944",
+    "regionName": "Республика Бурятия",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 52535,
@@ -251,6 +260,9 @@ export const president_2008_tic_227_region_4 = [
     "ballot": "presidential",
     "tikTvd": "2032000153029",
     "tikName": "Улан-Удэ, Октябрьская",
+    "regionCode": "4",
+    "regionTvd": "100100022249944",
+    "regionName": "Республика Бурятия",
     "uikCount": 66,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 118397,
@@ -364,6 +376,9 @@ export const president_2008_tic_227_region_4 = [
     "ballot": "presidential",
     "tikTvd": "2032000153030",
     "tikName": "Улан-Удэ, Железнодорожная",
+    "regionCode": "4",
+    "regionTvd": "100100022249944",
+    "regionName": "Республика Бурятия",
     "uikCount": 57,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 105601,
@@ -468,6 +483,9 @@ export const president_2008_tic_227_region_4 = [
     "ballot": "presidential",
     "tikTvd": "2032000153031",
     "tikName": "Тункинская",
+    "regionCode": "4",
+    "regionTvd": "100100022249944",
+    "regionName": "Республика Бурятия",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 14479,
@@ -550,6 +568,9 @@ export const president_2008_tic_227_region_4 = [
     "ballot": "presidential",
     "tikTvd": "2032000153032",
     "tikName": "Тарбагатайская",
+    "regionCode": "4",
+    "regionTvd": "100100022249944",
+    "regionName": "Республика Бурятия",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 11600,
@@ -617,6 +638,9 @@ export const president_2008_tic_227_region_4 = [
     "ballot": "presidential",
     "tikTvd": "2032000153033",
     "tikName": "Селенгинская",
+    "regionCode": "4",
+    "regionTvd": "100100022249944",
+    "regionName": "Республика Бурятия",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 29473,
@@ -701,6 +725,9 @@ export const president_2008_tic_227_region_4 = [
     "ballot": "presidential",
     "tikTvd": "2032000153034",
     "tikName": "Северобайкальская городская",
+    "regionCode": "4",
+    "regionTvd": "100100022249944",
+    "regionName": "Республика Бурятия",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 19060,
@@ -760,6 +787,9 @@ export const president_2008_tic_227_region_4 = [
     "ballot": "presidential",
     "tikTvd": "2032000153035",
     "tikName": "Северо-Байкальская",
+    "regionCode": "4",
+    "regionTvd": "100100022249944",
+    "regionName": "Республика Бурятия",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 12272,
@@ -826,6 +856,9 @@ export const president_2008_tic_227_region_4 = [
     "ballot": "presidential",
     "tikTvd": "2032000153036",
     "tikName": "Прибайкальская",
+    "regionCode": "4",
+    "regionTvd": "100100022249944",
+    "regionName": "Республика Бурятия",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 20579,
@@ -912,6 +945,9 @@ export const president_2008_tic_227_region_4 = [
     "ballot": "presidential",
     "tikTvd": "2032000153037",
     "tikName": "Окинская",
+    "regionCode": "4",
+    "regionTvd": "100100022249944",
+    "regionName": "Республика Бурятия",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 3935,
@@ -970,6 +1006,9 @@ export const president_2008_tic_227_region_4 = [
     "ballot": "presidential",
     "tikTvd": "2032000153038",
     "tikName": "Мухоршибирская",
+    "regionCode": "4",
+    "regionTvd": "100100022249944",
+    "regionName": "Республика Бурятия",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 18812,
@@ -1048,6 +1087,9 @@ export const president_2008_tic_227_region_4 = [
     "ballot": "presidential",
     "tikTvd": "2032000153039",
     "tikName": "Муйская",
+    "regionCode": "4",
+    "regionTvd": "100100022249944",
+    "regionName": "Республика Бурятия",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 11504,
@@ -1107,6 +1149,9 @@ export const president_2008_tic_227_region_4 = [
     "ballot": "presidential",
     "tikTvd": "2032000153040",
     "tikName": "Кяхтинская",
+    "regionCode": "4",
+    "regionTvd": "100100022249944",
+    "regionName": "Республика Бурятия",
     "uikCount": 51,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 29180,
@@ -1205,6 +1250,9 @@ export const president_2008_tic_227_region_4 = [
     "ballot": "presidential",
     "tikTvd": "2032000153041",
     "tikName": "Курумканская",
+    "regionCode": "4",
+    "regionTvd": "100100022249944",
+    "regionName": "Республика Бурятия",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 10918,
@@ -1270,6 +1318,9 @@ export const president_2008_tic_227_region_4 = [
     "ballot": "presidential",
     "tikTvd": "2032000153042",
     "tikName": "Кижингинская",
+    "regionCode": "4",
+    "regionTvd": "100100022249944",
+    "regionName": "Республика Бурятия",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 11428,
@@ -1340,6 +1391,9 @@ export const president_2008_tic_227_region_4 = [
     "ballot": "presidential",
     "tikTvd": "2032000153043",
     "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100022249944",
+    "regionName": "Республика Бурятия",
     "uikCount": 76,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 45218,
@@ -1463,6 +1517,9 @@ export const president_2008_tic_227_region_4 = [
     "ballot": "presidential",
     "tikTvd": "2032000153044",
     "tikName": "Иволгинская",
+    "regionCode": "4",
+    "regionTvd": "100100022249944",
+    "regionName": "Республика Бурятия",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 17803,
@@ -1534,6 +1591,9 @@ export const president_2008_tic_227_region_4 = [
     "ballot": "presidential",
     "tikTvd": "2032000153045",
     "tikName": "Закаменская",
+    "regionCode": "4",
+    "regionTvd": "100100022249944",
+    "regionName": "Республика Бурятия",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 18762,
@@ -1613,6 +1673,9 @@ export const president_2008_tic_227_region_4 = [
     "ballot": "presidential",
     "tikTvd": "2032000153046",
     "tikName": "Заиграевская",
+    "regionCode": "4",
+    "regionTvd": "100100022249944",
+    "regionName": "Республика Бурятия",
     "uikCount": 45,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 37331,
@@ -1705,6 +1768,9 @@ export const president_2008_tic_227_region_4 = [
     "ballot": "presidential",
     "tikTvd": "2032000153047",
     "tikName": "Еравнинская",
+    "regionCode": "4",
+    "regionTvd": "100100022249944",
+    "regionName": "Республика Бурятия",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 11230,
@@ -1778,6 +1844,9 @@ export const president_2008_tic_227_region_4 = [
     "ballot": "presidential",
     "tikTvd": "2032000153048",
     "tikName": "Джидинская",
+    "regionCode": "4",
+    "regionTvd": "100100022249944",
+    "regionName": "Республика Бурятия",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 22278,
@@ -1860,6 +1929,9 @@ export const president_2008_tic_227_region_4 = [
     "ballot": "presidential",
     "tikTvd": "2032000153049",
     "tikName": "Бичурская",
+    "regionCode": "4",
+    "regionTvd": "100100022249944",
+    "regionName": "Республика Бурятия",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 19197,
@@ -1945,6 +2017,9 @@ export const president_2008_tic_227_region_4 = [
     "ballot": "presidential",
     "tikTvd": "2032000153050",
     "tikName": "Баунтовская",
+    "regionCode": "4",
+    "regionTvd": "100100022249944",
+    "regionName": "Республика Бурятия",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 7104,

@@ -11,6 +11,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523329",
     "tikName": "район Старое Крюково",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 21821,
@@ -74,6 +77,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523330",
     "tikName": "район Матушкино",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 29843,
@@ -145,6 +151,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523331",
     "tikName": "район Крюково",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 52,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 65985,
@@ -244,6 +253,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523332",
     "tikName": "район Силино",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 30727,
@@ -317,6 +329,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523333",
     "tikName": "район Куркино",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 8,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 16492,
@@ -372,6 +387,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523334",
     "tikName": "район Митино",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 49,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 111664,
@@ -468,6 +486,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523335",
     "tikName": "район Покровское-Стрешнево",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 36002,
@@ -537,6 +558,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523336",
     "tikName": "район Южное Медведково",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 51346,
@@ -605,6 +629,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523337",
     "tikName": "Ярославский район",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 56276,
@@ -675,6 +702,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523338",
     "tikName": "район Хамовники",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 62695,
@@ -755,6 +785,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523339",
     "tikName": "Пресненский район",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 80402,
@@ -835,6 +868,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523340",
     "tikName": "Басманный район",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 65515,
@@ -920,6 +956,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523341",
     "tikName": "район Замоскворечье",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 30260,
@@ -987,6 +1026,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523342",
     "tikName": "район Арбат",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 9,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 16217,
@@ -1043,6 +1085,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523343",
     "tikName": "район Южное Тушино",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 66254,
@@ -1120,6 +1165,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523344",
     "tikName": "Нижегородский район",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 25434,
@@ -1179,6 +1227,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523345",
     "tikName": "район Лефортово",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 55178,
@@ -1253,6 +1304,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523346",
     "tikName": "район Некрасовка",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 8,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10575,
@@ -1308,6 +1362,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523347",
     "tikName": "район Капотня",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 8,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 18027,
@@ -1363,6 +1420,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523348",
     "tikName": "район Выхино-Жулебино",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 56,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 133468,
@@ -1466,6 +1526,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523349",
     "tikName": "район Орехово-Борисово Северное",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 75301,
@@ -1544,6 +1607,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523350",
     "tikName": "район Нагатино-Садовники",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 48101,
@@ -1618,6 +1684,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523351",
     "tikName": "Нагорный район",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 45890,
@@ -1686,6 +1755,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523352",
     "tikName": "район Нагатинский затон",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 68552,
@@ -1768,6 +1840,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523353",
     "tikName": "район Зябликово",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 77513,
@@ -1847,6 +1922,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523354",
     "tikName": "Донской район",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 30482,
@@ -1915,6 +1993,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523355",
     "tikName": "район Москворечье-Сабурово",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 48657,
@@ -1987,6 +2068,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523356",
     "tikName": "район Бирюлево Западное",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 51782,
@@ -2056,6 +2140,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523357",
     "tikName": "район Братеево",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 62531,
@@ -2129,6 +2216,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523358",
     "tikName": "Даниловский район",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 54945,
@@ -2205,6 +2295,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523359",
     "tikName": "район Ясенево",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 57,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 120364,
@@ -2309,6 +2402,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523360",
     "tikName": "район Южное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 55,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 127890,
@@ -2411,6 +2507,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523361",
     "tikName": "район Бирюлево Восточное",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 87269,
@@ -2498,6 +2597,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523362",
     "tikName": "район Северное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 58644,
@@ -2570,6 +2672,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523363",
     "tikName": "район Теплый Стан",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 85530,
@@ -2654,6 +2759,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523364",
     "tikName": "район Черемушки",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 64338,
@@ -2729,6 +2837,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523365",
     "tikName": "Обручевский район",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 46871,
@@ -2799,6 +2910,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523366",
     "tikName": "Ломоносовский район",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 52770,
@@ -2868,6 +2982,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523367",
     "tikName": "район Котловка",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 41177,
@@ -2931,6 +3048,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523368",
     "tikName": "район Коньково",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 102773,
@@ -3022,6 +3142,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523369",
     "tikName": "Гагаринский район",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 48595,
@@ -3092,6 +3215,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523370",
     "tikName": "район Зюзино",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 74319,
@@ -3171,6 +3297,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523371",
     "tikName": "район Текстильщики",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 60674,
@@ -3248,6 +3377,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523372",
     "tikName": "Южнопортовый район",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 45034,
@@ -3319,6 +3451,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523373",
     "tikName": "Академический район",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 64816,
@@ -3395,6 +3530,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523374",
     "tikName": "район Печатники",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 56437,
@@ -3468,6 +3606,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523375",
     "tikName": "Рязанский район",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 62059,
@@ -3543,6 +3684,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523376",
     "tikName": "Можайский район",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 87695,
@@ -3628,6 +3772,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523377",
     "tikName": "район Кунцево",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 92235,
@@ -3719,6 +3866,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523378",
     "tikName": "район Беговой ",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 26736,
@@ -3779,6 +3929,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523379",
     "tikName": "район Восточное Дегунино",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 59950,
@@ -3850,6 +4003,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523380",
     "tikName": "Головинский район",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 65298,
@@ -3923,6 +4079,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523381",
     "tikName": "Левобережный район",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 32984,
@@ -3985,6 +4144,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523382",
     "tikName": "Молжаниновский район",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 1,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 2182,
@@ -4033,6 +4195,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523383",
     "tikName": "Хорошевский район",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 43868,
@@ -4097,6 +4262,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523384",
     "tikName": "Алексеевский район",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 43471,
@@ -4165,6 +4333,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523385",
     "tikName": "район Царицыно",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 76584,
@@ -4247,6 +4418,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523386",
     "tikName": "район Орехово-Борисово Южное",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 89071,
@@ -4330,6 +4504,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523387",
     "tikName": "Мещанский район",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 38844,
@@ -4394,6 +4571,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523388",
     "tikName": "Тверской район",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 53801,
@@ -4467,6 +4647,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523389",
     "tikName": "район Кузьминки",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 83545,
@@ -4551,6 +4734,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523390",
     "tikName": "Таганский район",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 79297,
@@ -4632,6 +4818,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523391",
     "tikName": "район Люблино",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 55,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 110325,
@@ -4734,6 +4923,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523392",
     "tikName": "Красносельский район",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 27712,
@@ -4794,6 +4986,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523393",
     "tikName": "район Марьино",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 65,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 166560,
@@ -4906,6 +5101,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523394",
     "tikName": "район Северное Тушино",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 97414,
@@ -4995,6 +5193,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523395",
     "tikName": "район Северный",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 9,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 17356,
@@ -5051,6 +5252,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523396",
     "tikName": "район Свиблово",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 34478,
@@ -5112,6 +5316,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523397",
     "tikName": "район Ростокино",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 24577,
@@ -5174,6 +5381,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523398",
     "tikName": "район Отрадное",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 51,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 122290,
@@ -5272,6 +5482,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523399",
     "tikName": "район Якиманка",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 9,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 15907,
@@ -5328,6 +5541,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523400",
     "tikName": "район Гольяново ",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 106888,
@@ -5417,6 +5633,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523401",
     "tikName": "район Ивановское ",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 80524,
@@ -5498,6 +5717,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523402",
     "tikName": "район Вешняки ",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 77013,
@@ -5581,6 +5803,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523403",
     "tikName": "район Восточное Измайлово ",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 44793,
@@ -5651,6 +5876,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523404",
     "tikName": "район Богородское",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 63441,
@@ -5726,6 +5954,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523405",
     "tikName": "район Северное Измайлово",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 56667,
@@ -5799,6 +6030,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523406",
     "tikName": "район Соколиная гора",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 57280,
@@ -5875,6 +6109,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523407",
     "tikName": "район Восточный",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 4,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 7812,
@@ -5926,6 +6163,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523408",
     "tikName": "район Преображенское",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 51881,
@@ -5998,6 +6238,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523409",
     "tikName": "район Перово",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 82182,
@@ -6083,6 +6326,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523410",
     "tikName": "район Метрогородок ",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 24175,
@@ -6147,6 +6393,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523411",
     "tikName": "район Новогиреево ",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 57620,
@@ -6215,6 +6464,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523412",
     "tikName": "район Новокосино ",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 63730,
@@ -6288,6 +6540,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523413",
     "tikName": "район Косино-Ухтомский ",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 38849,
@@ -6349,6 +6604,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523414",
     "tikName": "район Измайлово ",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 63560,
@@ -6432,6 +6690,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523415",
     "tikName": "район Очаково-Матвеевское",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 67812,
@@ -6510,6 +6771,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523416",
     "tikName": "район Ново-Переделкино",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 73093,
@@ -6590,6 +6854,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523417",
     "tikName": "район Чертаново Южное",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 91766,
@@ -6678,6 +6945,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523418",
     "tikName": "район Чертаново Северное",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 63617,
@@ -6754,6 +7024,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523419",
     "tikName": "район Чертаново Центральное",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 68690,
@@ -6831,6 +7104,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523420",
     "tikName": "район Крылатское",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 55167,
@@ -6900,6 +7176,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523421",
     "tikName": "район Дорогомилово",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 39820,
@@ -6968,6 +7247,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523422",
     "tikName": "район Внуково",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 7,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 15682,
@@ -7022,6 +7304,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523423",
     "tikName": "район Сокольники",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 38661,
@@ -7096,6 +7381,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523424",
     "tikName": "район Филевский парк",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 48521,
@@ -7169,6 +7457,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523425",
     "tikName": "район Фили-Давыдково",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 66183,
@@ -7243,6 +7534,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523426",
     "tikName": "район Раменки",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 82842,
@@ -7328,6 +7622,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523427",
     "tikName": "район Солнцево",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 67846,
@@ -7403,6 +7700,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523428",
     "tikName": "район Тропарево-Никулино",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 68761,
@@ -7481,6 +7781,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523429",
     "tikName": "район Проспект Вернадского",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 39047,
@@ -7548,6 +7851,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523430",
     "tikName": "Бескудниковский район ",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 50214,
@@ -7615,6 +7921,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523431",
     "tikName": "Войковский район",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 44233,
@@ -7681,6 +7990,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523432",
     "tikName": "район Аэропорт",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 46444,
@@ -7750,6 +8062,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523433",
     "tikName": "район Савелки",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 25750,
@@ -7818,6 +8133,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523434",
     "tikName": "район Сокол",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 32730,
@@ -7881,6 +8199,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523435",
     "tikName": "Савеловский район",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 38876,
@@ -7945,6 +8266,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523436",
     "tikName": "район Западное Дегунино",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 53730,
@@ -8015,6 +8339,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523437",
     "tikName": "Дмитровский район",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 54489,
@@ -8085,6 +8412,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523438",
     "tikName": "район Коптево",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 61864,
@@ -8158,6 +8488,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523439",
     "tikName": "район Лианозово",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 55866,
@@ -8230,6 +8563,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523440",
     "tikName": "Бабушкинский район",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 59583,
@@ -8303,6 +8639,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523441",
     "tikName": "Бутырский район",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 39232,
@@ -8370,6 +8709,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523442",
     "tikName": "район Бибирево",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 45,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 104616,
@@ -8462,6 +8804,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523443",
     "tikName": "Алтуфьевский район",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 34833,
@@ -8524,6 +8869,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523444",
     "tikName": "район Ховрино",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 56450,
@@ -8593,6 +8941,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523445",
     "tikName": "Тимирязевский район",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 54012,
@@ -8662,6 +9013,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523446",
     "tikName": "район Северное Медведково",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 74569,
@@ -8739,6 +9093,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523447",
     "tikName": "Останкинский район",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 36001,
@@ -8802,6 +9159,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523448",
     "tikName": "район Марьина Роща",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 38447,
@@ -8868,6 +9228,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523449",
     "tikName": "район Марфино",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 9,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 21328,
@@ -8924,6 +9287,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523450",
     "tikName": "район Щукино",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 68577,
@@ -9009,6 +9375,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523451",
     "tikName": "Лосиноостровский район",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 55867,
@@ -9081,6 +9450,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523452",
     "tikName": "район Хорошево-Мневники",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 101626,
@@ -9178,6 +9550,9 @@ export const president_2012_tic_227_region_77 = [
     "ballot": "presidential",
     "tikTvd": "2772000523453",
     "tikName": "район Строгино",
+    "regionCode": "77",
+    "regionTvd": "100100031793849",
+    "regionName": "Город Москва",
     "uikCount": 47,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 96934,

@@ -135,7 +135,7 @@ def district_numbers_from_observations(
             continue
         matches = oik_breadcrumbs(body(store, observation))
         exact = {number for oik_tvd, number in matches if oik_tvd == expected_oik}
-        if not exact:
+        if len(matches) != 1 or not exact:
             missing_breadcrumbs.add(tik_tvd)
         evidence[expected_oik].update(exact)
 
@@ -159,6 +159,7 @@ def district_numbers_from_observations(
         or absent
         or conflicts
         or duplicate_numbers
+        or missing_breadcrumbs
         or set(numbers) != set(range(1, 226))
     ):
         raise ValueError(

@@ -11,6 +11,9 @@ export const president_2024_tic_227_region_2 = [
     "ballot": "presidential",
     "tikTvd": "2042000635662",
     "tikName": "Турочакская",
+    "regionCode": "2",
+    "regionTvd": "100100339410036",
+    "regionName": "Республика Алтай",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9917,
@@ -68,6 +71,9 @@ export const president_2024_tic_227_region_2 = [
     "ballot": "presidential",
     "tikTvd": "2042000635663",
     "tikName": "Усть-Коксинская",
+    "regionCode": "2",
+    "regionTvd": "100100339410036",
+    "regionName": "Республика Алтай",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 11571,
@@ -138,6 +144,9 @@ export const president_2024_tic_227_region_2 = [
     "ballot": "presidential",
     "tikTvd": "2042000635664",
     "tikName": "Майминская",
+    "regionCode": "2",
+    "regionTvd": "100100339410036",
+    "regionName": "Республика Алтай",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 25476,
@@ -208,6 +217,9 @@ export const president_2024_tic_227_region_2 = [
     "ballot": "presidential",
     "tikTvd": "2042000635665",
     "tikName": "Горно-Алтайская городская",
+    "regionCode": "2",
+    "regionTvd": "100100339410036",
+    "regionName": "Республика Алтай",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 48106,
@@ -272,6 +284,9 @@ export const president_2024_tic_227_region_2 = [
     "ballot": "presidential",
     "tikTvd": "2042000635666",
     "tikName": "Кош-Агачская",
+    "regionCode": "2",
+    "regionTvd": "100100339410036",
+    "regionName": "Республика Алтай",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 12961,
@@ -329,6 +344,9 @@ export const president_2024_tic_227_region_2 = [
     "ballot": "presidential",
     "tikTvd": "2042000635667",
     "tikName": "Чойская",
+    "regionCode": "2",
+    "regionTvd": "100100339410036",
+    "regionName": "Республика Алтай",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 5897,
@@ -382,6 +400,9 @@ export const president_2024_tic_227_region_2 = [
     "ballot": "presidential",
     "tikTvd": "2042000635668",
     "tikName": "Шебалинская",
+    "regionCode": "2",
+    "regionTvd": "100100339410036",
+    "regionName": "Республика Алтай",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9602,
@@ -442,6 +463,9 @@ export const president_2024_tic_227_region_2 = [
     "ballot": "presidential",
     "tikTvd": "2042000635669",
     "tikName": "Улаганская",
+    "regionCode": "2",
+    "regionTvd": "100100339410036",
+    "regionName": "Республика Алтай",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 7468,
@@ -494,6 +518,9 @@ export const president_2024_tic_227_region_2 = [
     "ballot": "presidential",
     "tikTvd": "2042000635670",
     "tikName": "Усть-Канская",
+    "regionCode": "2",
+    "regionTvd": "100100339410036",
+    "regionName": "Республика Алтай",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9932,
@@ -559,6 +586,9 @@ export const president_2024_tic_227_region_2 = [
     "ballot": "presidential",
     "tikTvd": "2042000635671",
     "tikName": "Онгудайская",
+    "regionCode": "2",
+    "regionTvd": "100100339410036",
+    "regionName": "Республика Алтай",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10813,
@@ -625,6 +655,9 @@ export const president_2024_tic_227_region_2 = [
     "ballot": "presidential",
     "tikTvd": "2042000635672",
     "tikName": "Чемальская",
+    "regionCode": "2",
+    "regionTvd": "100100339410036",
+    "regionName": "Республика Алтай",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 7947,

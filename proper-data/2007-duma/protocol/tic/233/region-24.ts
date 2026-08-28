@@ -11,6 +11,9 @@ export const duma_2007_tic_233_region_24 = [
     "ballot": "party",
     "tikTvd": "2242000187001",
     "tikName": "Шушенская",
+    "regionCode": "24",
+    "regionTvd": "100100021960228",
+    "regionName": "Красноярский край",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 28121,
@@ -98,6 +101,9 @@ export const duma_2007_tic_233_region_24 = [
     "ballot": "party",
     "tikTvd": "2242000187002",
     "tikName": "Шарыповская городская",
+    "regionCode": "24",
+    "regionTvd": "100100021960228",
+    "regionName": "Красноярский край",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 34394,
@@ -171,6 +177,9 @@ export const duma_2007_tic_233_region_24 = [
     "ballot": "party",
     "tikTvd": "2242000187003",
     "tikName": "Шарыповская",
+    "regionCode": "24",
+    "regionTvd": "100100021960228",
+    "regionName": "Красноярский край",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 12029,
@@ -258,6 +267,9 @@ export const duma_2007_tic_233_region_24 = [
     "ballot": "party",
     "tikTvd": "2242000187004",
     "tikName": "Уярская",
+    "regionCode": "24",
+    "regionTvd": "100100021960228",
+    "regionName": "Красноярский край",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 17123,
@@ -345,6 +357,9 @@ export const duma_2007_tic_233_region_24 = [
     "ballot": "party",
     "tikTvd": "2242000187005",
     "tikName": "Ужурская",
+    "regionCode": "24",
+    "regionTvd": "100100021960228",
+    "regionName": "Красноярский край",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 24420,
@@ -445,6 +460,9 @@ export const duma_2007_tic_233_region_24 = [
     "ballot": "party",
     "tikTvd": "2242000187006",
     "tikName": "Сосновоборская городская",
+    "regionCode": "24",
+    "regionTvd": "100100021960228",
+    "regionName": "Красноярский край",
     "uikCount": 10,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 22734,
@@ -509,6 +527,9 @@ export const duma_2007_tic_233_region_24 = [
     "ballot": "party",
     "tikTvd": "2242000187007",
     "tikName": "Солнечная поселковая",
+    "regionCode": "24",
+    "regionTvd": "100100021960228",
+    "regionName": "Красноярский край",
     "uikCount": 5,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 7255,
@@ -568,6 +589,9 @@ export const duma_2007_tic_233_region_24 = [
     "ballot": "party",
     "tikTvd": "2242000187008",
     "tikName": "Саянская",
+    "regionCode": "24",
+    "regionTvd": "100100021960228",
+    "regionName": "Красноярский край",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 9488,
@@ -645,6 +669,9 @@ export const duma_2007_tic_233_region_24 = [
     "ballot": "party",
     "tikTvd": "2242000187009",
     "tikName": "Партизанская",
+    "regionCode": "24",
+    "regionTvd": "100100021960228",
+    "regionName": "Красноярский край",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 8472,
@@ -720,6 +747,9 @@ export const duma_2007_tic_233_region_24 = [
     "ballot": "party",
     "tikTvd": "2242000187010",
     "tikName": "Новоселовская",
+    "regionCode": "24",
+    "regionTvd": "100100021960228",
+    "regionName": "Красноярский край",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 11169,
@@ -803,6 +833,9 @@ export const duma_2007_tic_233_region_24 = [
     "ballot": "party",
     "tikTvd": "2242000187011",
     "tikName": "Назаровская городская",
+    "regionCode": "24",
+    "regionTvd": "100100021960228",
+    "regionName": "Красноярский край",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 38301,
@@ -877,6 +910,9 @@ export const duma_2007_tic_233_region_24 = [
     "ballot": "party",
     "tikTvd": "2242000187012",
     "tikName": "Назаровская",
+    "regionCode": "24",
+    "regionTvd": "100100021960228",
+    "regionName": "Красноярский край",
     "uikCount": 58,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 17206,
@@ -989,6 +1025,9 @@ export const duma_2007_tic_233_region_24 = [
     "ballot": "party",
     "tikTvd": "2242000187013",
     "tikName": "Минусинская городская",
+    "regionCode": "24",
+    "regionTvd": "100100021960228",
+    "regionName": "Красноярский край",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 51614,
@@ -1070,6 +1109,9 @@ export const duma_2007_tic_233_region_24 = [
     "ballot": "party",
     "tikTvd": "2242000187014",
     "tikName": "Минусинская",
+    "regionCode": "24",
+    "regionTvd": "100100021960228",
+    "regionName": "Красноярский край",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 20184,
@@ -1156,6 +1198,9 @@ export const duma_2007_tic_233_region_24 = [
     "ballot": "party",
     "tikTvd": "2242000187015",
     "tikName": "Манская",
+    "regionCode": "24",
+    "regionTvd": "100100021960228",
+    "regionName": "Красноярский край",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 13535,
@@ -1242,6 +1287,9 @@ export const duma_2007_tic_233_region_24 = [
     "ballot": "party",
     "tikTvd": "2242000187016",
     "tikName": "Курагинская",
+    "regionCode": "24",
+    "regionTvd": "100100021960228",
+    "regionName": "Красноярский край",
     "uikCount": 53,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 33213,
@@ -1349,6 +1397,9 @@ export const duma_2007_tic_233_region_24 = [
     "ballot": "party",
     "tikTvd": "2242000187017",
     "tikName": "Краснотуранская",
+    "regionCode": "24",
+    "regionTvd": "100100021960228",
+    "regionName": "Красноярский край",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 12155,
@@ -1430,6 +1481,9 @@ export const duma_2007_tic_233_region_24 = [
     "ballot": "party",
     "tikTvd": "2242000187018",
     "tikName": "Козульская",
+    "regionCode": "24",
+    "regionTvd": "100100021960228",
+    "regionName": "Красноярский край",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 13276,
@@ -1509,6 +1563,9 @@ export const duma_2007_tic_233_region_24 = [
     "ballot": "party",
     "tikTvd": "2242000187019",
     "tikName": "Кедровая поселковая",
+    "regionCode": "24",
+    "regionTvd": "100100021960228",
+    "regionName": "Красноярский край",
     "uikCount": 2,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 3182,
@@ -1565,6 +1622,9 @@ export const duma_2007_tic_233_region_24 = [
     "ballot": "party",
     "tikTvd": "2242000187020",
     "tikName": "Каратузская",
+    "regionCode": "24",
+    "regionTvd": "100100021960228",
+    "regionName": "Красноярский край",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 13243,
@@ -1644,6 +1704,9 @@ export const duma_2007_tic_233_region_24 = [
     "ballot": "party",
     "tikTvd": "2242000187021",
     "tikName": "Идринская",
+    "regionCode": "24",
+    "regionTvd": "100100021960228",
+    "regionName": "Красноярский край",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 10414,
@@ -1729,6 +1792,9 @@ export const duma_2007_tic_233_region_24 = [
     "ballot": "party",
     "tikTvd": "2242000187022",
     "tikName": "Железногорская городская",
+    "regionCode": "24",
+    "regionTvd": "100100021960228",
+    "regionName": "Красноярский край",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 80389,
@@ -1824,6 +1890,9 @@ export const duma_2007_tic_233_region_24 = [
     "ballot": "party",
     "tikTvd": "2242000187023",
     "tikName": "Ермаковская",
+    "regionCode": "24",
+    "regionTvd": "100100021960228",
+    "regionName": "Красноярский край",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 17089,
@@ -1905,6 +1974,9 @@ export const duma_2007_tic_233_region_24 = [
     "ballot": "party",
     "tikTvd": "2242000187024",
     "tikName": "Емельяновская",
+    "regionCode": "24",
+    "regionTvd": "100100021960228",
+    "regionName": "Красноярский край",
     "uikCount": 53,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 29061,
@@ -2012,6 +2084,9 @@ export const duma_2007_tic_233_region_24 = [
     "ballot": "party",
     "tikTvd": "2242000187025",
     "tikName": "Боготольская городская",
+    "regionCode": "24",
+    "regionTvd": "100100021960228",
+    "regionName": "Красноярский край",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 18092,
@@ -2086,6 +2161,9 @@ export const duma_2007_tic_233_region_24 = [
     "ballot": "party",
     "tikTvd": "2242000187026",
     "tikName": "Боготольская",
+    "regionCode": "24",
+    "regionTvd": "100100021960228",
+    "regionName": "Красноярский край",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 7446,
@@ -2168,6 +2246,9 @@ export const duma_2007_tic_233_region_24 = [
     "ballot": "party",
     "tikTvd": "2242000187027",
     "tikName": "Березовская",
+    "regionCode": "24",
+    "regionTvd": "100100021960228",
+    "regionName": "Красноярский край",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 27831,
@@ -2251,6 +2332,9 @@ export const duma_2007_tic_233_region_24 = [
     "ballot": "party",
     "tikTvd": "2242000187028",
     "tikName": "Балахтинская",
+    "regionCode": "24",
+    "regionTvd": "100100021960228",
+    "regionName": "Красноярский край",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 16540,
@@ -2351,6 +2435,9 @@ export const duma_2007_tic_233_region_24 = [
     "ballot": "party",
     "tikTvd": "2242000187029",
     "tikName": "Ачинская городская",
+    "regionCode": "24",
+    "regionTvd": "100100021960228",
+    "regionName": "Красноярский край",
     "uikCount": 49,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 87164,
@@ -2454,6 +2541,9 @@ export const duma_2007_tic_233_region_24 = [
     "ballot": "party",
     "tikTvd": "2242000187030",
     "tikName": "Ачинская",
+    "regionCode": "24",
+    "regionTvd": "100100021960228",
+    "regionName": "Красноярский край",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 11752,
@@ -2527,6 +2617,9 @@ export const duma_2007_tic_233_region_24 = [
     "ballot": "party",
     "tikTvd": "2242000187031",
     "tikName": "Красноярск, Центральная",
+    "regionCode": "24",
+    "regionTvd": "100100021960228",
+    "regionName": "Красноярский край",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 44927,
@@ -2612,6 +2705,9 @@ export const duma_2007_tic_233_region_24 = [
     "ballot": "party",
     "tikTvd": "2242000187032",
     "tikName": "Красноярск, Советская",
+    "regionCode": "24",
+    "regionTvd": "100100021960228",
+    "regionName": "Красноярский край",
     "uikCount": 88,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 181852,
@@ -2754,6 +2850,9 @@ export const duma_2007_tic_233_region_24 = [
     "ballot": "party",
     "tikTvd": "2242000187033",
     "tikName": "Красноярск, Свердловская",
+    "regionCode": "24",
+    "regionTvd": "100100021960228",
+    "regionName": "Красноярский край",
     "uikCount": 47,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 96197,
@@ -2855,6 +2954,9 @@ export const duma_2007_tic_233_region_24 = [
     "ballot": "party",
     "tikTvd": "2242000187034",
     "tikName": "Красноярск, Октябрьская",
+    "regionCode": "24",
+    "regionTvd": "100100021960228",
+    "regionName": "Красноярский край",
     "uikCount": 49,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 112244,
@@ -2958,6 +3060,9 @@ export const duma_2007_tic_233_region_24 = [
     "ballot": "party",
     "tikTvd": "2242000187035",
     "tikName": "Красноярск, Ленинская",
+    "regionCode": "24",
+    "regionTvd": "100100021960228",
+    "regionName": "Красноярский край",
     "uikCount": 52,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 108710,
@@ -3064,6 +3169,9 @@ export const duma_2007_tic_233_region_24 = [
     "ballot": "party",
     "tikTvd": "2242000187036",
     "tikName": "Красноярск, Кировская",
+    "regionCode": "24",
+    "regionTvd": "100100021960228",
+    "regionName": "Красноярский край",
     "uikCount": 48,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 86691,
@@ -3166,6 +3274,9 @@ export const duma_2007_tic_233_region_24 = [
     "ballot": "party",
     "tikTvd": "2242000187037",
     "tikName": "Красноярск, Железнодорожная",
+    "regionCode": "24",
+    "regionTvd": "100100021960228",
+    "regionName": "Красноярский край",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 73090,
@@ -3252,6 +3363,9 @@ export const duma_2007_tic_233_region_24 = [
     "ballot": "party",
     "tikTvd": "2242000187038",
     "tikName": "Дивногорская городская",
+    "regionCode": "24",
+    "regionTvd": "100100021960228",
+    "regionName": "Красноярский край",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 25055,
@@ -3323,6 +3437,9 @@ export const duma_2007_tic_233_region_24 = [
     "ballot": "party",
     "tikTvd": "2242000187039",
     "tikName": "Тунгусско-Чунская",
+    "regionCode": "24",
+    "regionTvd": "100100021960228",
+    "regionName": "Красноярский край",
     "uikCount": 7,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 2900,
@@ -3384,6 +3501,9 @@ export const duma_2007_tic_233_region_24 = [
     "ballot": "party",
     "tikTvd": "2242000187040",
     "tikName": "Илимпийская",
+    "regionCode": "24",
+    "regionTvd": "100100021960228",
+    "regionName": "Красноярский край",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 5613,
@@ -3451,6 +3571,9 @@ export const duma_2007_tic_233_region_24 = [
     "ballot": "party",
     "tikTvd": "2242000187041",
     "tikName": "Байкитская",
+    "regionCode": "24",
+    "regionTvd": "100100021960228",
+    "regionName": "Красноярский край",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 3557,
@@ -3516,6 +3639,9 @@ export const duma_2007_tic_233_region_24 = [
     "ballot": "party",
     "tikTvd": "2242000187042",
     "tikName": "Хатангская",
+    "regionCode": "24",
+    "regionTvd": "100100021960228",
+    "regionName": "Красноярский край",
     "uikCount": 10,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 4628,
@@ -3580,6 +3706,9 @@ export const duma_2007_tic_233_region_24 = [
     "ballot": "party",
     "tikTvd": "2242000187043",
     "tikName": "Караульская",
+    "regionCode": "24",
+    "regionTvd": "100100021960228",
+    "regionName": "Красноярский край",
     "uikCount": 6,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 2885,
@@ -3640,6 +3769,9 @@ export const duma_2007_tic_233_region_24 = [
     "ballot": "party",
     "tikTvd": "2242000187044",
     "tikName": "Дудинская",
+    "regionCode": "24",
+    "regionTvd": "100100021960228",
+    "regionName": "Красноярский край",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 20118,
@@ -3710,6 +3842,9 @@ export const duma_2007_tic_233_region_24 = [
     "ballot": "party",
     "tikTvd": "2242000187045",
     "tikName": "Диксонская",
+    "regionCode": "24",
+    "regionTvd": "100100021960228",
+    "regionName": "Красноярский край",
     "uikCount": 2,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 603,
@@ -3766,6 +3901,9 @@ export const duma_2007_tic_233_region_24 = [
     "ballot": "party",
     "tikTvd": "2242000187046",
     "tikName": "Тюхтетская",
+    "regionCode": "24",
+    "regionTvd": "100100021960228",
+    "regionName": "Красноярский край",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 7372,
@@ -3845,6 +3983,9 @@ export const duma_2007_tic_233_region_24 = [
     "ballot": "party",
     "tikTvd": "2242000187047",
     "tikName": "Туруханская",
+    "regionCode": "24",
+    "regionTvd": "100100021960228",
+    "regionName": "Красноярский край",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 14464,
@@ -3923,6 +4064,9 @@ export const duma_2007_tic_233_region_24 = [
     "ballot": "party",
     "tikTvd": "2242000187048",
     "tikName": "Тасеевская",
+    "regionCode": "24",
+    "regionTvd": "100100021960228",
+    "regionName": "Красноярский край",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 10261,
@@ -4010,6 +4154,9 @@ export const duma_2007_tic_233_region_24 = [
     "ballot": "party",
     "tikTvd": "2242000187049",
     "tikName": "Сухобузимская",
+    "regionCode": "24",
+    "regionTvd": "100100021960228",
+    "regionName": "Красноярский край",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 16809,
@@ -4099,6 +4246,9 @@ export const duma_2007_tic_233_region_24 = [
     "ballot": "party",
     "tikTvd": "2242000187050",
     "tikName": "Северо-Енисейская",
+    "regionCode": "24",
+    "regionTvd": "100100021960228",
+    "regionName": "Красноярский край",
     "uikCount": 10,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 7797,
@@ -4163,6 +4313,9 @@ export const duma_2007_tic_233_region_24 = [
     "ballot": "party",
     "tikTvd": "2242000187051",
     "tikName": "Рыбинская",
+    "regionCode": "24",
+    "regionTvd": "100100021960228",
+    "regionName": "Красноярский край",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 15698,
@@ -4256,6 +4409,9 @@ export const duma_2007_tic_233_region_24 = [
     "ballot": "party",
     "tikTvd": "2242000187052",
     "tikName": "Пировская",
+    "regionCode": "24",
+    "regionTvd": "100100021960228",
+    "regionName": "Красноярский край",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 6554,
@@ -4328,6 +4484,9 @@ export const duma_2007_tic_233_region_24 = [
     "ballot": "party",
     "tikTvd": "2242000187053",
     "tikName": "Норильская городская",
+    "regionCode": "24",
+    "regionTvd": "100100021960228",
+    "regionName": "Красноярский край",
     "uikCount": 83,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 143855,
@@ -4465,6 +4624,9 @@ export const duma_2007_tic_233_region_24 = [
     "ballot": "party",
     "tikTvd": "2242000187054",
     "tikName": "Нижнеингашская",
+    "regionCode": "24",
+    "regionTvd": "100100021960228",
+    "regionName": "Красноярский край",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 22755,
@@ -4565,6 +4727,9 @@ export const duma_2007_tic_233_region_24 = [
     "ballot": "party",
     "tikTvd": "2242000187055",
     "tikName": "Мотыгинская",
+    "regionCode": "24",
+    "regionTvd": "100100021960228",
+    "regionName": "Красноярский край",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 13004,
@@ -4636,6 +4801,9 @@ export const duma_2007_tic_233_region_24 = [
     "ballot": "party",
     "tikTvd": "2242000187056",
     "tikName": "Лесосибирская городская",
+    "regionCode": "24",
+    "regionTvd": "100100021960228",
+    "regionName": "Красноярский край",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 53692,
@@ -4721,6 +4889,9 @@ export const duma_2007_tic_233_region_24 = [
     "ballot": "party",
     "tikTvd": "2242000187057",
     "tikName": "Кежемская",
+    "regionCode": "24",
+    "regionTvd": "100100021960228",
+    "regionName": "Красноярский край",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 17073,
@@ -4798,6 +4969,9 @@ export const duma_2007_tic_233_region_24 = [
     "ballot": "party",
     "tikTvd": "2242000187058",
     "tikName": "Канская городская",
+    "regionCode": "24",
+    "regionTvd": "100100021960228",
+    "regionName": "Красноярский край",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 68307,
@@ -4884,6 +5058,9 @@ export const duma_2007_tic_233_region_24 = [
     "ballot": "party",
     "tikTvd": "2242000187059",
     "tikName": "Канская",
+    "regionCode": "24",
+    "regionTvd": "100100021960228",
+    "regionName": "Красноярский край",
     "uikCount": 54,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 18867,
@@ -4992,6 +5169,9 @@ export const duma_2007_tic_233_region_24 = [
     "ballot": "party",
     "tikTvd": "2242000187060",
     "tikName": "Казачинская",
+    "regionCode": "24",
+    "regionTvd": "100100021960228",
+    "regionName": "Красноярский край",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 9486,
@@ -5069,6 +5249,9 @@ export const duma_2007_tic_233_region_24 = [
     "ballot": "party",
     "tikTvd": "2242000187061",
     "tikName": "Ирбейская",
+    "regionCode": "24",
+    "regionTvd": "100100021960228",
+    "regionName": "Красноярский край",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 12231,
@@ -5165,6 +5348,9 @@ export const duma_2007_tic_233_region_24 = [
     "ballot": "party",
     "tikTvd": "2242000187062",
     "tikName": "Иланская",
+    "regionCode": "24",
+    "regionTvd": "100100021960228",
+    "regionName": "Красноярский край",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 17523,
@@ -5257,6 +5443,9 @@ export const duma_2007_tic_233_region_24 = [
     "ballot": "party",
     "tikTvd": "2242000187063",
     "tikName": "Зеленогорская городская",
+    "regionCode": "24",
+    "regionTvd": "100100021960228",
+    "regionName": "Красноярский край",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 55022,
@@ -5333,6 +5522,9 @@ export const duma_2007_tic_233_region_24 = [
     "ballot": "party",
     "tikTvd": "2242000187064",
     "tikName": "Заозерная городская",
+    "regionCode": "24",
+    "regionTvd": "100100021960228",
+    "regionName": "Красноярский край",
     "uikCount": 8,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 8497,
@@ -5395,6 +5587,9 @@ export const duma_2007_tic_233_region_24 = [
     "ballot": "party",
     "tikTvd": "2242000187065",
     "tikName": "Енисейская городская",
+    "regionCode": "24",
+    "regionTvd": "100100021960228",
+    "regionName": "Красноярский край",
     "uikCount": 10,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 15391,
@@ -5459,6 +5654,9 @@ export const duma_2007_tic_233_region_24 = [
     "ballot": "party",
     "tikTvd": "2242000187066",
     "tikName": "Енисейская",
+    "regionCode": "24",
+    "regionTvd": "100100021960228",
+    "regionName": "Красноярский край",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 20884,
@@ -5551,6 +5749,9 @@ export const duma_2007_tic_233_region_24 = [
     "ballot": "party",
     "tikTvd": "2242000187067",
     "tikName": "Дзержинская",
+    "regionCode": "24",
+    "regionTvd": "100100021960228",
+    "regionName": "Красноярский край",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 11972,
@@ -5641,6 +5842,9 @@ export const duma_2007_tic_233_region_24 = [
     "ballot": "party",
     "tikTvd": "2242000187068",
     "tikName": "Бородинская городская",
+    "regionCode": "24",
+    "regionTvd": "100100021960228",
+    "regionName": "Красноярский край",
     "uikCount": 8,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 15053,
@@ -5703,6 +5907,9 @@ export const duma_2007_tic_233_region_24 = [
     "ballot": "party",
     "tikTvd": "2242000187069",
     "tikName": "Большеулуйская",
+    "regionCode": "24",
+    "regionTvd": "100100021960228",
+    "regionName": "Красноярский край",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 6342,
@@ -5776,6 +5983,9 @@ export const duma_2007_tic_233_region_24 = [
     "ballot": "party",
     "tikTvd": "2242000187070",
     "tikName": "Большемуртинская",
+    "regionCode": "24",
+    "regionTvd": "100100021960228",
+    "regionName": "Красноярский край",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 14840,
@@ -5858,6 +6068,9 @@ export const duma_2007_tic_233_region_24 = [
     "ballot": "party",
     "tikTvd": "2242000187071",
     "tikName": "Богучанская",
+    "regionCode": "24",
+    "regionTvd": "100100021960228",
+    "regionName": "Красноярский край",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 31498,
@@ -5947,6 +6160,9 @@ export const duma_2007_tic_233_region_24 = [
     "ballot": "party",
     "tikTvd": "2242000187072",
     "tikName": "Бирилюсская",
+    "regionCode": "24",
+    "regionTvd": "100100021960228",
+    "regionName": "Красноярский край",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 8641,
@@ -6028,6 +6244,9 @@ export const duma_2007_tic_233_region_24 = [
     "ballot": "party",
     "tikTvd": "2242000187073",
     "tikName": "Абанская",
+    "regionCode": "24",
+    "regionTvd": "100100021960228",
+    "regionName": "Красноярский край",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 16361,

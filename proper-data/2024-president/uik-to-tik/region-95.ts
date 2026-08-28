@@ -7,4249 +7,7789 @@ export const president_2024_uik_to_tik_region_95 = [
   {
     "uikNumber": 1,
     "uikTvd": "4954020117003",
+    "uikName": "УИК №1",
     "tikTvd": "2952000561402",
-    "tikName": "ТИК №20"
+    "tikName": "ТИК №20",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 2,
     "uikTvd": "4954020117004",
+    "uikName": "УИК №2",
     "tikTvd": "2952000561402",
-    "tikName": "ТИК №20"
+    "tikName": "ТИК №20",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 3,
     "uikTvd": "4954020117005",
+    "uikName": "УИК №3",
     "tikTvd": "2952000561402",
-    "tikName": "ТИК №20"
+    "tikName": "ТИК №20",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 4,
     "uikTvd": "4954020117006",
+    "uikName": "УИК №4",
     "tikTvd": "2952000561402",
-    "tikName": "ТИК №20"
+    "tikName": "ТИК №20",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 5,
     "uikTvd": "4954020117007",
+    "uikName": "УИК №5",
     "tikTvd": "2952000561402",
-    "tikName": "ТИК №20"
+    "tikName": "ТИК №20",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 6,
     "uikTvd": "4954020117008",
+    "uikName": "УИК №6",
     "tikTvd": "2952000561402",
-    "tikName": "ТИК №20"
+    "tikName": "ТИК №20",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 7,
     "uikTvd": "4954020117009",
+    "uikName": "УИК №7",
     "tikTvd": "2952000561402",
-    "tikName": "ТИК №20"
+    "tikName": "ТИК №20",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 8,
     "uikTvd": "4954020117010",
+    "uikName": "УИК №8",
     "tikTvd": "2952000561402",
-    "tikName": "ТИК №20"
+    "tikName": "ТИК №20",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 9,
     "uikTvd": "4954020117011",
+    "uikName": "УИК №9",
     "tikTvd": "2952000561402",
-    "tikName": "ТИК №20"
+    "tikName": "ТИК №20",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 10,
     "uikTvd": "4954020117012",
+    "uikName": "УИК №10",
     "tikTvd": "2952000561402",
-    "tikName": "ТИК №20"
+    "tikName": "ТИК №20",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 11,
     "uikTvd": "4954020117013",
+    "uikName": "УИК №11",
     "tikTvd": "2952000561402",
-    "tikName": "ТИК №20"
+    "tikName": "ТИК №20",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 12,
     "uikTvd": "4954020117014",
+    "uikName": "УИК №12",
     "tikTvd": "2952000561402",
-    "tikName": "ТИК №20"
+    "tikName": "ТИК №20",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 13,
     "uikTvd": "4954020117015",
+    "uikName": "УИК №13",
     "tikTvd": "2952000561402",
-    "tikName": "ТИК №20"
+    "tikName": "ТИК №20",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 14,
     "uikTvd": "4954020117016",
+    "uikName": "УИК №14",
     "tikTvd": "2952000561402",
-    "tikName": "ТИК №20"
+    "tikName": "ТИК №20",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 15,
     "uikTvd": "4954020117017",
+    "uikName": "УИК №15",
     "tikTvd": "2952000561402",
-    "tikName": "ТИК №20"
+    "tikName": "ТИК №20",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 16,
     "uikTvd": "4954020117018",
+    "uikName": "УИК №16",
     "tikTvd": "2952000561402",
-    "tikName": "ТИК №20"
+    "tikName": "ТИК №20",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 17,
     "uikTvd": "4954020117019",
+    "uikName": "УИК №17",
     "tikTvd": "2952000561402",
-    "tikName": "ТИК №20"
+    "tikName": "ТИК №20",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 18,
     "uikTvd": "4954020117020",
+    "uikName": "УИК №18",
     "tikTvd": "2952000561402",
-    "tikName": "ТИК №20"
+    "tikName": "ТИК №20",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 19,
     "uikTvd": "4954020117021",
+    "uikName": "УИК №19",
     "tikTvd": "2952000561402",
-    "tikName": "ТИК №20"
+    "tikName": "ТИК №20",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 20,
     "uikTvd": "4954020117022",
+    "uikName": "УИК №20",
     "tikTvd": "2952000561402",
-    "tikName": "ТИК №20"
+    "tikName": "ТИК №20",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 21,
     "uikTvd": "4954020117023",
+    "uikName": "УИК №21",
     "tikTvd": "2952000561402",
-    "tikName": "ТИК №20"
+    "tikName": "ТИК №20",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 22,
     "uikTvd": "4954020117024",
+    "uikName": "УИК №22",
     "tikTvd": "2952000561402",
-    "tikName": "ТИК №20"
+    "tikName": "ТИК №20",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 23,
     "uikTvd": "4954020117025",
+    "uikName": "УИК №23",
     "tikTvd": "2952000561402",
-    "tikName": "ТИК №20"
+    "tikName": "ТИК №20",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 24,
     "uikTvd": "4954020117026",
+    "uikName": "УИК №24",
     "tikTvd": "2952000561402",
-    "tikName": "ТИК №20"
+    "tikName": "ТИК №20",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 25,
     "uikTvd": "4954020117027",
+    "uikName": "УИК №25",
     "tikTvd": "2952000561402",
-    "tikName": "ТИК №20"
+    "tikName": "ТИК №20",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 26,
     "uikTvd": "4954020117028",
+    "uikName": "УИК №26",
     "tikTvd": "2952000561402",
-    "tikName": "ТИК №20"
+    "tikName": "ТИК №20",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 27,
     "uikTvd": "4954020117029",
+    "uikName": "УИК №27",
     "tikTvd": "2952000561402",
-    "tikName": "ТИК №20"
+    "tikName": "ТИК №20",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 28,
     "uikTvd": "4954020117030",
+    "uikName": "УИК №28",
     "tikTvd": "2952000561402",
-    "tikName": "ТИК №20"
+    "tikName": "ТИК №20",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 29,
     "uikTvd": "4954020117031",
+    "uikName": "УИК №29",
     "tikTvd": "2952000561402",
-    "tikName": "ТИК №20"
+    "tikName": "ТИК №20",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 30,
     "uikTvd": "4954020117032",
+    "uikName": "УИК №30",
     "tikTvd": "2952000561402",
-    "tikName": "ТИК №20"
+    "tikName": "ТИК №20",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 31,
     "uikTvd": "4954020117033",
+    "uikName": "УИК №31",
     "tikTvd": "2952000561402",
-    "tikName": "ТИК №20"
+    "tikName": "ТИК №20",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 32,
     "uikTvd": "4954020117034",
+    "uikName": "УИК №32",
     "tikTvd": "2952000561402",
-    "tikName": "ТИК №20"
+    "tikName": "ТИК №20",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 33,
     "uikTvd": "4954020117035",
+    "uikName": "УИК №33",
     "tikTvd": "2952000561402",
-    "tikName": "ТИК №20"
+    "tikName": "ТИК №20",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 34,
     "uikTvd": "4954020117036",
+    "uikName": "УИК №34",
     "tikTvd": "2952000561402",
-    "tikName": "ТИК №20"
+    "tikName": "ТИК №20",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 35,
     "uikTvd": "4954020117037",
+    "uikName": "УИК №35",
     "tikTvd": "2952000561402",
-    "tikName": "ТИК №20"
+    "tikName": "ТИК №20",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 36,
     "uikTvd": "4954020117038",
+    "uikName": "УИК №36",
     "tikTvd": "2952000561402",
-    "tikName": "ТИК №20"
+    "tikName": "ТИК №20",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 37,
     "uikTvd": "4954020117039",
+    "uikName": "УИК №37",
     "tikTvd": "2952000561402",
-    "tikName": "ТИК №20"
+    "tikName": "ТИК №20",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 38,
     "uikTvd": "4954020117040",
+    "uikName": "УИК №38",
     "tikTvd": "2952000561402",
-    "tikName": "ТИК №20"
+    "tikName": "ТИК №20",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 39,
     "uikTvd": "4954020117041",
+    "uikName": "УИК №39",
     "tikTvd": "2952000561402",
-    "tikName": "ТИК №20"
+    "tikName": "ТИК №20",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 40,
     "uikTvd": "4954020117042",
+    "uikName": "УИК №40",
     "tikTvd": "2952000561402",
-    "tikName": "ТИК №20"
+    "tikName": "ТИК №20",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 41,
     "uikTvd": "4954020117043",
+    "uikName": "УИК №41",
     "tikTvd": "2952000561402",
-    "tikName": "ТИК №20"
+    "tikName": "ТИК №20",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 42,
     "uikTvd": "4954020117044",
+    "uikName": "УИК №42",
     "tikTvd": "2952000561402",
-    "tikName": "ТИК №20"
+    "tikName": "ТИК №20",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 43,
     "uikTvd": "4954020117045",
+    "uikName": "УИК №43",
     "tikTvd": "2952000561402",
-    "tikName": "ТИК №20"
+    "tikName": "ТИК №20",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 44,
     "uikTvd": "4954020117046",
+    "uikName": "УИК №44",
     "tikTvd": "2952000561402",
-    "tikName": "ТИК №20"
+    "tikName": "ТИК №20",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 45,
     "uikTvd": "4954020117047",
+    "uikName": "УИК №45",
     "tikTvd": "2952000561402",
-    "tikName": "ТИК №20"
+    "tikName": "ТИК №20",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 46,
     "uikTvd": "4954020117048",
+    "uikName": "УИК №46",
     "tikTvd": "2952000561402",
-    "tikName": "ТИК №20"
+    "tikName": "ТИК №20",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 47,
     "uikTvd": "4954020117049",
+    "uikName": "УИК №47",
     "tikTvd": "2952000561402",
-    "tikName": "ТИК №20"
+    "tikName": "ТИК №20",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 48,
     "uikTvd": "4954020117050",
+    "uikName": "УИК №48",
     "tikTvd": "2952000561402",
-    "tikName": "ТИК №20"
+    "tikName": "ТИК №20",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 49,
     "uikTvd": "4954020117051",
+    "uikName": "УИК №49",
     "tikTvd": "2952000561402",
-    "tikName": "ТИК №20"
+    "tikName": "ТИК №20",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 50,
     "uikTvd": "4954020117052",
+    "uikName": "УИК №50",
     "tikTvd": "2952000561402",
-    "tikName": "ТИК №20"
+    "tikName": "ТИК №20",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 51,
     "uikTvd": "4954020117053",
+    "uikName": "УИК №51",
     "tikTvd": "2952000561402",
-    "tikName": "ТИК №20"
+    "tikName": "ТИК №20",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 52,
     "uikTvd": "4954020117054",
+    "uikName": "УИК №52",
     "tikTvd": "2952000561402",
-    "tikName": "ТИК №20"
+    "tikName": "ТИК №20",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 53,
     "uikTvd": "4954020117055",
+    "uikName": "УИК №53",
     "tikTvd": "2952000561402",
-    "tikName": "ТИК №20"
+    "tikName": "ТИК №20",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 54,
     "uikTvd": "4954020117056",
+    "uikName": "УИК №54",
     "tikTvd": "2952000561402",
-    "tikName": "ТИК №20"
+    "tikName": "ТИК №20",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 55,
     "uikTvd": "4954020117057",
+    "uikName": "УИК №55",
     "tikTvd": "2952000561402",
-    "tikName": "ТИК №20"
+    "tikName": "ТИК №20",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 56,
     "uikTvd": "4954020117058",
+    "uikName": "УИК №56",
     "tikTvd": "2952000561402",
-    "tikName": "ТИК №20"
+    "tikName": "ТИК №20",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 57,
     "uikTvd": "4954020117059",
+    "uikName": "УИК №57",
     "tikTvd": "2952000561402",
-    "tikName": "ТИК №20"
+    "tikName": "ТИК №20",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 58,
     "uikTvd": "4954020117060",
+    "uikName": "УИК №58",
     "tikTvd": "2952000561402",
-    "tikName": "ТИК №20"
+    "tikName": "ТИК №20",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 59,
     "uikTvd": "4954020117061",
+    "uikName": "УИК №59",
     "tikTvd": "2952000561402",
-    "tikName": "ТИК №20"
+    "tikName": "ТИК №20",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 60,
     "uikTvd": "4954020117062",
+    "uikName": "УИК №60",
     "tikTvd": "2952000561402",
-    "tikName": "ТИК №20"
+    "tikName": "ТИК №20",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 61,
     "uikTvd": "4954020117063",
+    "uikName": "УИК №61",
     "tikTvd": "2952000561402",
-    "tikName": "ТИК №20"
+    "tikName": "ТИК №20",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 62,
     "uikTvd": "4954020117064",
+    "uikName": "УИК №62",
     "tikTvd": "2952000561402",
-    "tikName": "ТИК №20"
+    "tikName": "ТИК №20",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 63,
     "uikTvd": "4954020117065",
+    "uikName": "УИК №63",
     "tikTvd": "2952000561402",
-    "tikName": "ТИК №20"
+    "tikName": "ТИК №20",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 64,
     "uikTvd": "4954020117066",
+    "uikName": "УИК №64",
     "tikTvd": "2952000561402",
-    "tikName": "ТИК №20"
+    "tikName": "ТИК №20",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 65,
     "uikTvd": "4954020117067",
+    "uikName": "УИК №65",
     "tikTvd": "2952000561402",
-    "tikName": "ТИК №20"
+    "tikName": "ТИК №20",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 66,
     "uikTvd": "4954020117068",
+    "uikName": "УИК №66",
     "tikTvd": "2952000561402",
-    "tikName": "ТИК №20"
+    "tikName": "ТИК №20",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 67,
     "uikTvd": "4954020117069",
+    "uikName": "УИК №67",
     "tikTvd": "2952000561402",
-    "tikName": "ТИК №20"
+    "tikName": "ТИК №20",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 68,
     "uikTvd": "4954020117070",
+    "uikName": "УИК №68",
     "tikTvd": "2952000561402",
-    "tikName": "ТИК №20"
+    "tikName": "ТИК №20",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 69,
     "uikTvd": "4954020117071",
+    "uikName": "УИК №69",
     "tikTvd": "2952000561402",
-    "tikName": "ТИК №20"
+    "tikName": "ТИК №20",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 70,
     "uikTvd": "4954020117072",
+    "uikName": "УИК №70",
     "tikTvd": "2952000561402",
-    "tikName": "ТИК №20"
+    "tikName": "ТИК №20",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 71,
     "uikTvd": "4954020117073",
+    "uikName": "УИК №71",
     "tikTvd": "2952000561402",
-    "tikName": "ТИК №20"
+    "tikName": "ТИК №20",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 72,
     "uikTvd": "4954020117074",
+    "uikName": "УИК №72",
     "tikTvd": "2952000561402",
-    "tikName": "ТИК №20"
+    "tikName": "ТИК №20",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 73,
     "uikTvd": "4954020117075",
+    "uikName": "УИК №73",
     "tikTvd": "2952000561402",
-    "tikName": "ТИК №20"
+    "tikName": "ТИК №20",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 74,
     "uikTvd": "4954020126296",
+    "uikName": "УИК №74",
     "tikTvd": "2952000561402",
-    "tikName": "ТИК №20"
+    "tikName": "ТИК №20",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 75,
     "uikTvd": "4954020126297",
+    "uikName": "УИК №75",
     "tikTvd": "2952000561402",
-    "tikName": "ТИК №20"
+    "tikName": "ТИК №20",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 76,
     "uikTvd": "4954020127298",
+    "uikName": "УИК №76",
     "tikTvd": "2952000561402",
-    "tikName": "ТИК №20"
+    "tikName": "ТИК №20",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 77,
     "uikTvd": "4954020127299",
+    "uikName": "УИК №77",
     "tikTvd": "2952000561402",
-    "tikName": "ТИК №20"
+    "tikName": "ТИК №20",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 78,
     "uikTvd": "4954020127300",
+    "uikName": "УИК №78",
     "tikTvd": "2952000561402",
-    "tikName": "ТИК №20"
+    "tikName": "ТИК №20",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 119,
     "uikTvd": "495402193108",
+    "uikName": "УИК №119",
     "tikTvd": "2952000561376",
-    "tikName": "ТИК №21"
+    "tikName": "ТИК №21",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 120,
     "uikTvd": "495402193109",
+    "uikName": "УИК №120",
     "tikTvd": "2952000561376",
-    "tikName": "ТИК №21"
+    "tikName": "ТИК №21",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 121,
     "uikTvd": "495402193110",
+    "uikName": "УИК №121",
     "tikTvd": "2952000561376",
-    "tikName": "ТИК №21"
+    "tikName": "ТИК №21",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 122,
     "uikTvd": "495402193111",
+    "uikName": "УИК №122",
     "tikTvd": "2952000561376",
-    "tikName": "ТИК №21"
+    "tikName": "ТИК №21",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 123,
     "uikTvd": "495402193112",
+    "uikName": "УИК №123",
     "tikTvd": "2952000561376",
-    "tikName": "ТИК №21"
+    "tikName": "ТИК №21",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 124,
     "uikTvd": "495402193113",
+    "uikName": "УИК №124",
     "tikTvd": "2952000561376",
-    "tikName": "ТИК №21"
+    "tikName": "ТИК №21",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 125,
     "uikTvd": "495402193114",
+    "uikName": "УИК №125",
     "tikTvd": "2952000561376",
-    "tikName": "ТИК №21"
+    "tikName": "ТИК №21",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 126,
     "uikTvd": "495402193115",
+    "uikName": "УИК №126",
     "tikTvd": "2952000561376",
-    "tikName": "ТИК №21"
+    "tikName": "ТИК №21",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 127,
     "uikTvd": "495402193116",
+    "uikName": "УИК №127",
     "tikTvd": "2952000561376",
-    "tikName": "ТИК №21"
+    "tikName": "ТИК №21",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 128,
     "uikTvd": "495402193117",
+    "uikName": "УИК №128",
     "tikTvd": "2952000561376",
-    "tikName": "ТИК №21"
+    "tikName": "ТИК №21",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 129,
     "uikTvd": "495402193118",
+    "uikName": "УИК №129",
     "tikTvd": "2952000561376",
-    "tikName": "ТИК №21"
+    "tikName": "ТИК №21",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 130,
     "uikTvd": "495402193119",
+    "uikName": "УИК №130",
     "tikTvd": "2952000561376",
-    "tikName": "ТИК №21"
+    "tikName": "ТИК №21",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 131,
     "uikTvd": "495402193120",
+    "uikName": "УИК №131",
     "tikTvd": "2952000561376",
-    "tikName": "ТИК №21"
+    "tikName": "ТИК №21",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 132,
     "uikTvd": "495402193121",
+    "uikName": "УИК №132",
     "tikTvd": "2952000561376",
-    "tikName": "ТИК №21"
+    "tikName": "ТИК №21",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 133,
     "uikTvd": "495402193122",
+    "uikName": "УИК №133",
     "tikTvd": "2952000561376",
-    "tikName": "ТИК №21"
+    "tikName": "ТИК №21",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 134,
     "uikTvd": "495402193123",
+    "uikName": "УИК №134",
     "tikTvd": "2952000561376",
-    "tikName": "ТИК №21"
+    "tikName": "ТИК №21",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 135,
     "uikTvd": "495402196809",
+    "uikName": "УИК №135",
     "tikTvd": "2952000561376",
-    "tikName": "ТИК №21"
+    "tikName": "ТИК №21",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 146,
     "uikTvd": "495402289502",
+    "uikName": "УИК №146",
     "tikTvd": "2952000561401",
-    "tikName": "ТИК №22"
+    "tikName": "ТИК №22",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 147,
     "uikTvd": "495402289503",
+    "uikName": "УИК №147",
     "tikTvd": "2952000561401",
-    "tikName": "ТИК №22"
+    "tikName": "ТИК №22",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 148,
     "uikTvd": "495402289504",
+    "uikName": "УИК №148",
     "tikTvd": "2952000561401",
-    "tikName": "ТИК №22"
+    "tikName": "ТИК №22",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 149,
     "uikTvd": "495402289505",
+    "uikName": "УИК №149",
     "tikTvd": "2952000561401",
-    "tikName": "ТИК №22"
+    "tikName": "ТИК №22",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 150,
     "uikTvd": "495402289506",
+    "uikName": "УИК №150",
     "tikTvd": "2952000561401",
-    "tikName": "ТИК №22"
+    "tikName": "ТИК №22",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 151,
     "uikTvd": "495402289507",
+    "uikName": "УИК №151",
     "tikTvd": "2952000561401",
-    "tikName": "ТИК №22"
+    "tikName": "ТИК №22",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 152,
     "uikTvd": "495402289508",
+    "uikName": "УИК №152",
     "tikTvd": "2952000561401",
-    "tikName": "ТИК №22"
+    "tikName": "ТИК №22",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 153,
     "uikTvd": "495402293366",
+    "uikName": "УИК №153",
     "tikTvd": "2952000561401",
-    "tikName": "ТИК №22"
+    "tikName": "ТИК №22",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 171,
     "uikTvd": "495401196415",
+    "uikName": "УИК №171",
     "tikTvd": "2952000561403",
-    "tikName": "ТИК №11"
+    "tikName": "ТИК №11",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 172,
     "uikTvd": "495401196416",
+    "uikName": "УИК №172",
     "tikTvd": "2952000561403",
-    "tikName": "ТИК №11"
+    "tikName": "ТИК №11",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 173,
     "uikTvd": "495401196417",
+    "uikName": "УИК №173",
     "tikTvd": "2952000561403",
-    "tikName": "ТИК №11"
+    "tikName": "ТИК №11",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 174,
     "uikTvd": "495401196418",
+    "uikName": "УИК №174",
     "tikTvd": "2952000561403",
-    "tikName": "ТИК №11"
+    "tikName": "ТИК №11",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 175,
     "uikTvd": "495401196419",
+    "uikName": "УИК №175",
     "tikTvd": "2952000561403",
-    "tikName": "ТИК №11"
+    "tikName": "ТИК №11",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 176,
     "uikTvd": "495401196420",
+    "uikName": "УИК №176",
     "tikTvd": "2952000561403",
-    "tikName": "ТИК №11"
+    "tikName": "ТИК №11",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 177,
     "uikTvd": "495401196421",
+    "uikName": "УИК №177",
     "tikTvd": "2952000561403",
-    "tikName": "ТИК №11"
+    "tikName": "ТИК №11",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 178,
     "uikTvd": "495401196422",
+    "uikName": "УИК №178",
     "tikTvd": "2952000561403",
-    "tikName": "ТИК №11"
+    "tikName": "ТИК №11",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 179,
     "uikTvd": "495401196423",
+    "uikName": "УИК №179",
     "tikTvd": "2952000561403",
-    "tikName": "ТИК №11"
+    "tikName": "ТИК №11",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 180,
     "uikTvd": "495401196424",
+    "uikName": "УИК №180",
     "tikTvd": "2952000561403",
-    "tikName": "ТИК №11"
+    "tikName": "ТИК №11",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 181,
     "uikTvd": "495401196425",
+    "uikName": "УИК №181",
     "tikTvd": "2952000561403",
-    "tikName": "ТИК №11"
+    "tikName": "ТИК №11",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 182,
     "uikTvd": "495401196426",
+    "uikName": "УИК №182",
     "tikTvd": "2952000561403",
-    "tikName": "ТИК №11"
+    "tikName": "ТИК №11",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 183,
     "uikTvd": "495401196427",
+    "uikName": "УИК №183",
     "tikTvd": "2952000561403",
-    "tikName": "ТИК №11"
+    "tikName": "ТИК №11",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 184,
     "uikTvd": "495401196428",
+    "uikName": "УИК №184",
     "tikTvd": "2952000561403",
-    "tikName": "ТИК №11"
+    "tikName": "ТИК №11",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 185,
     "uikTvd": "495401196429",
+    "uikName": "УИК №185",
     "tikTvd": "2952000561403",
-    "tikName": "ТИК №11"
+    "tikName": "ТИК №11",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 186,
     "uikTvd": "495401196430",
+    "uikName": "УИК №186",
     "tikTvd": "2952000561403",
-    "tikName": "ТИК №11"
+    "tikName": "ТИК №11",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 187,
     "uikTvd": "495401196431",
+    "uikName": "УИК №187",
     "tikTvd": "2952000561403",
-    "tikName": "ТИК №11"
+    "tikName": "ТИК №11",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 188,
     "uikTvd": "495401196432",
+    "uikName": "УИК №188",
     "tikTvd": "2952000561403",
-    "tikName": "ТИК №11"
+    "tikName": "ТИК №11",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 189,
     "uikTvd": "495401196433",
+    "uikName": "УИК №189",
     "tikTvd": "2952000561403",
-    "tikName": "ТИК №11"
+    "tikName": "ТИК №11",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 190,
     "uikTvd": "495401196434",
+    "uikName": "УИК №190",
     "tikTvd": "2952000561403",
-    "tikName": "ТИК №11"
+    "tikName": "ТИК №11",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 191,
     "uikTvd": "495401294492",
+    "uikName": "УИК №191",
     "tikTvd": "2952000561391",
-    "tikName": "ТИК №12"
+    "tikName": "ТИК №12",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 192,
     "uikTvd": "495401294493",
+    "uikName": "УИК №192",
     "tikTvd": "2952000561391",
-    "tikName": "ТИК №12"
+    "tikName": "ТИК №12",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 193,
     "uikTvd": "495401294494",
+    "uikName": "УИК №193",
     "tikTvd": "2952000561391",
-    "tikName": "ТИК №12"
+    "tikName": "ТИК №12",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 194,
     "uikTvd": "495401294495",
+    "uikName": "УИК №194",
     "tikTvd": "2952000561391",
-    "tikName": "ТИК №12"
+    "tikName": "ТИК №12",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 195,
     "uikTvd": "495401294496",
+    "uikName": "УИК №195",
     "tikTvd": "2952000561391",
-    "tikName": "ТИК №12"
+    "tikName": "ТИК №12",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 196,
     "uikTvd": "495401294497",
+    "uikName": "УИК №196",
     "tikTvd": "2952000561391",
-    "tikName": "ТИК №12"
+    "tikName": "ТИК №12",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 197,
     "uikTvd": "495401294498",
+    "uikName": "УИК №197",
     "tikTvd": "2952000561391",
-    "tikName": "ТИК №12"
+    "tikName": "ТИК №12",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 198,
     "uikTvd": "495401294499",
+    "uikName": "УИК №198",
     "tikTvd": "2952000561391",
-    "tikName": "ТИК №12"
+    "tikName": "ТИК №12",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 199,
     "uikTvd": "495401294500",
+    "uikName": "УИК №199",
     "tikTvd": "2952000561391",
-    "tikName": "ТИК №12"
+    "tikName": "ТИК №12",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 200,
     "uikTvd": "495401294501",
+    "uikName": "УИК №200",
     "tikTvd": "2952000561391",
-    "tikName": "ТИК №12"
+    "tikName": "ТИК №12",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 201,
     "uikTvd": "495401294502",
+    "uikName": "УИК №201",
     "tikTvd": "2952000561391",
-    "tikName": "ТИК №12"
+    "tikName": "ТИК №12",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 202,
     "uikTvd": "495401294503",
+    "uikName": "УИК №202",
     "tikTvd": "2952000561391",
-    "tikName": "ТИК №12"
+    "tikName": "ТИК №12",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 203,
     "uikTvd": "495401294504",
+    "uikName": "УИК №203",
     "tikTvd": "2952000561391",
-    "tikName": "ТИК №12"
+    "tikName": "ТИК №12",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 204,
     "uikTvd": "495401294505",
+    "uikName": "УИК №204",
     "tikTvd": "2952000561391",
-    "tikName": "ТИК №12"
+    "tikName": "ТИК №12",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 205,
     "uikTvd": "4954013104326",
+    "uikName": "УИК №205",
     "tikTvd": "2952000561399",
-    "tikName": "ТИК №13"
+    "tikName": "ТИК №13",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 206,
     "uikTvd": "4954013104327",
+    "uikName": "УИК №206",
     "tikTvd": "2952000561399",
-    "tikName": "ТИК №13"
+    "tikName": "ТИК №13",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 207,
     "uikTvd": "4954013104328",
+    "uikName": "УИК №207",
     "tikTvd": "2952000561399",
-    "tikName": "ТИК №13"
+    "tikName": "ТИК №13",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 208,
     "uikTvd": "4954013104329",
+    "uikName": "УИК №208",
     "tikTvd": "2952000561399",
-    "tikName": "ТИК №13"
+    "tikName": "ТИК №13",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 209,
     "uikTvd": "4954013104330",
+    "uikName": "УИК №209",
     "tikTvd": "2952000561399",
-    "tikName": "ТИК №13"
+    "tikName": "ТИК №13",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 210,
     "uikTvd": "4954013104331",
+    "uikName": "УИК №210",
     "tikTvd": "2952000561399",
-    "tikName": "ТИК №13"
+    "tikName": "ТИК №13",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 211,
     "uikTvd": "4954013104332",
+    "uikName": "УИК №211",
     "tikTvd": "2952000561399",
-    "tikName": "ТИК №13"
+    "tikName": "ТИК №13",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 212,
     "uikTvd": "4954013104333",
+    "uikName": "УИК №212",
     "tikTvd": "2952000561399",
-    "tikName": "ТИК №13"
+    "tikName": "ТИК №13",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 213,
     "uikTvd": "4954013104334",
+    "uikName": "УИК №213",
     "tikTvd": "2952000561399",
-    "tikName": "ТИК №13"
+    "tikName": "ТИК №13",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 214,
     "uikTvd": "4954013104335",
+    "uikName": "УИК №214",
     "tikTvd": "2952000561399",
-    "tikName": "ТИК №13"
+    "tikName": "ТИК №13",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 215,
     "uikTvd": "4954013104336",
+    "uikName": "УИК №215",
     "tikTvd": "2952000561399",
-    "tikName": "ТИК №13"
+    "tikName": "ТИК №13",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 216,
     "uikTvd": "4954013104337",
+    "uikName": "УИК №216",
     "tikTvd": "2952000561399",
-    "tikName": "ТИК №13"
+    "tikName": "ТИК №13",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 217,
     "uikTvd": "4954013104338",
+    "uikName": "УИК №217",
     "tikTvd": "2952000561399",
-    "tikName": "ТИК №13"
+    "tikName": "ТИК №13",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 218,
     "uikTvd": "495401489593",
+    "uikName": "УИК №218",
     "tikTvd": "2952000561396",
-    "tikName": "ТИК №14"
+    "tikName": "ТИК №14",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 219,
     "uikTvd": "495401489594",
+    "uikName": "УИК №219",
     "tikTvd": "2952000561396",
-    "tikName": "ТИК №14"
+    "tikName": "ТИК №14",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 220,
     "uikTvd": "495401489595",
+    "uikName": "УИК №220",
     "tikTvd": "2952000561396",
-    "tikName": "ТИК №14"
+    "tikName": "ТИК №14",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 221,
     "uikTvd": "495401489596",
+    "uikName": "УИК №221",
     "tikTvd": "2952000561396",
-    "tikName": "ТИК №14"
+    "tikName": "ТИК №14",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 222,
     "uikTvd": "495401489597",
+    "uikName": "УИК №222",
     "tikTvd": "2952000561396",
-    "tikName": "ТИК №14"
+    "tikName": "ТИК №14",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 223,
     "uikTvd": "495401489598",
+    "uikName": "УИК №223",
     "tikTvd": "2952000561396",
-    "tikName": "ТИК №14"
+    "tikName": "ТИК №14",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 224,
     "uikTvd": "495401489599",
+    "uikName": "УИК №224",
     "tikTvd": "2952000561396",
-    "tikName": "ТИК №14"
+    "tikName": "ТИК №14",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 225,
     "uikTvd": "495401489600",
+    "uikName": "УИК №225",
     "tikTvd": "2952000561396",
-    "tikName": "ТИК №14"
+    "tikName": "ТИК №14",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 226,
     "uikTvd": "495401489601",
+    "uikName": "УИК №226",
     "tikTvd": "2952000561396",
-    "tikName": "ТИК №14"
+    "tikName": "ТИК №14",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 227,
     "uikTvd": "495401489602",
+    "uikName": "УИК №227",
     "tikTvd": "2952000561396",
-    "tikName": "ТИК №14"
+    "tikName": "ТИК №14",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 228,
     "uikTvd": "495401489603",
+    "uikName": "УИК №228",
     "tikTvd": "2952000561396",
-    "tikName": "ТИК №14"
+    "tikName": "ТИК №14",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 229,
     "uikTvd": "495401489604",
+    "uikName": "УИК №229",
     "tikTvd": "2952000561396",
-    "tikName": "ТИК №14"
+    "tikName": "ТИК №14",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 230,
     "uikTvd": "495401598008",
+    "uikName": "УИК №230",
     "tikTvd": "2952000561375",
-    "tikName": "ТИК №15"
+    "tikName": "ТИК №15",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 231,
     "uikTvd": "495401598009",
+    "uikName": "УИК №231",
     "tikTvd": "2952000561375",
-    "tikName": "ТИК №15"
+    "tikName": "ТИК №15",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 232,
     "uikTvd": "495401598010",
+    "uikName": "УИК №232",
     "tikTvd": "2952000561375",
-    "tikName": "ТИК №15"
+    "tikName": "ТИК №15",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 233,
     "uikTvd": "495401598011",
+    "uikName": "УИК №233",
     "tikTvd": "2952000561375",
-    "tikName": "ТИК №15"
+    "tikName": "ТИК №15",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 234,
     "uikTvd": "495401598012",
+    "uikName": "УИК №234",
     "tikTvd": "2952000561375",
-    "tikName": "ТИК №15"
+    "tikName": "ТИК №15",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 235,
     "uikTvd": "495401598013",
+    "uikName": "УИК №235",
     "tikTvd": "2952000561375",
-    "tikName": "ТИК №15"
+    "tikName": "ТИК №15",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 236,
     "uikTvd": "495401598014",
+    "uikName": "УИК №236",
     "tikTvd": "2952000561375",
-    "tikName": "ТИК №15"
+    "tikName": "ТИК №15",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 237,
     "uikTvd": "495401598015",
+    "uikName": "УИК №237",
     "tikTvd": "2952000561375",
-    "tikName": "ТИК №15"
+    "tikName": "ТИК №15",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 238,
     "uikTvd": "495401598016",
+    "uikName": "УИК №238",
     "tikTvd": "2952000561375",
-    "tikName": "ТИК №15"
+    "tikName": "ТИК №15",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 239,
     "uikTvd": "495401598017",
+    "uikName": "УИК №239",
     "tikTvd": "2952000561375",
-    "tikName": "ТИК №15"
+    "tikName": "ТИК №15",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 240,
     "uikTvd": "495401598018",
+    "uikName": "УИК №240",
     "tikTvd": "2952000561375",
-    "tikName": "ТИК №15"
+    "tikName": "ТИК №15",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 241,
     "uikTvd": "495401598019",
+    "uikName": "УИК №241",
     "tikTvd": "2952000561375",
-    "tikName": "ТИК №15"
+    "tikName": "ТИК №15",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 242,
     "uikTvd": "495401598020",
+    "uikName": "УИК №242",
     "tikTvd": "2952000561375",
-    "tikName": "ТИК №15"
+    "tikName": "ТИК №15",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 243,
     "uikTvd": "495401598021",
+    "uikName": "УИК №243",
     "tikTvd": "2952000561375",
-    "tikName": "ТИК №15"
+    "tikName": "ТИК №15",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 244,
     "uikTvd": "495401598022",
+    "uikName": "УИК №244",
     "tikTvd": "2952000561375",
-    "tikName": "ТИК №15"
+    "tikName": "ТИК №15",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 245,
     "uikTvd": "495401598023",
+    "uikName": "УИК №245",
     "tikTvd": "2952000561375",
-    "tikName": "ТИК №15"
+    "tikName": "ТИК №15",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 246,
     "uikTvd": "495401598024",
+    "uikName": "УИК №246",
     "tikTvd": "2952000561375",
-    "tikName": "ТИК №15"
+    "tikName": "ТИК №15",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 247,
     "uikTvd": "495401598025",
+    "uikName": "УИК №247",
     "tikTvd": "2952000561375",
-    "tikName": "ТИК №15"
+    "tikName": "ТИК №15",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 248,
     "uikTvd": "495401598026",
+    "uikName": "УИК №248",
     "tikTvd": "2952000561375",
-    "tikName": "ТИК №15"
+    "tikName": "ТИК №15",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 249,
     "uikTvd": "495401598027",
+    "uikName": "УИК №249",
     "tikTvd": "2952000561375",
-    "tikName": "ТИК №15"
+    "tikName": "ТИК №15",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 250,
     "uikTvd": "495401598028",
+    "uikName": "УИК №250",
     "tikTvd": "2952000561375",
-    "tikName": "ТИК №15"
+    "tikName": "ТИК №15",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 251,
     "uikTvd": "495401598029",
+    "uikName": "УИК №251",
     "tikTvd": "2952000561375",
-    "tikName": "ТИК №15"
+    "tikName": "ТИК №15",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 252,
     "uikTvd": "495401690331",
+    "uikName": "УИК №252",
     "tikTvd": "2952000561397",
-    "tikName": "ТИК №16"
+    "tikName": "ТИК №16",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 253,
     "uikTvd": "495401690332",
+    "uikName": "УИК №253",
     "tikTvd": "2952000561397",
-    "tikName": "ТИК №16"
+    "tikName": "ТИК №16",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 254,
     "uikTvd": "495401690333",
+    "uikName": "УИК №254",
     "tikTvd": "2952000561397",
-    "tikName": "ТИК №16"
+    "tikName": "ТИК №16",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 255,
     "uikTvd": "495401690334",
+    "uikName": "УИК №255",
     "tikTvd": "2952000561397",
-    "tikName": "ТИК №16"
+    "tikName": "ТИК №16",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 256,
     "uikTvd": "495401690335",
+    "uikName": "УИК №256",
     "tikTvd": "2952000561397",
-    "tikName": "ТИК №16"
+    "tikName": "ТИК №16",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 257,
     "uikTvd": "495401690336",
+    "uikName": "УИК №257",
     "tikTvd": "2952000561397",
-    "tikName": "ТИК №16"
+    "tikName": "ТИК №16",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 258,
     "uikTvd": "495401690337",
+    "uikName": "УИК №258",
     "tikTvd": "2952000561397",
-    "tikName": "ТИК №16"
+    "tikName": "ТИК №16",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 259,
     "uikTvd": "495401690338",
+    "uikName": "УИК №259",
     "tikTvd": "2952000561397",
-    "tikName": "ТИК №16"
+    "tikName": "ТИК №16",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 260,
     "uikTvd": "495401690339",
+    "uikName": "УИК №260",
     "tikTvd": "2952000561397",
-    "tikName": "ТИК №16"
+    "tikName": "ТИК №16",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 261,
     "uikTvd": "495401690340",
+    "uikName": "УИК №261",
     "tikTvd": "2952000561397",
-    "tikName": "ТИК №16"
+    "tikName": "ТИК №16",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 262,
     "uikTvd": "495401690341",
+    "uikName": "УИК №262",
     "tikTvd": "2952000561397",
-    "tikName": "ТИК №16"
+    "tikName": "ТИК №16",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 263,
     "uikTvd": "495401690342",
+    "uikName": "УИК №263",
     "tikTvd": "2952000561397",
-    "tikName": "ТИК №16"
+    "tikName": "ТИК №16",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 264,
     "uikTvd": "495401690343",
+    "uikName": "УИК №264",
     "tikTvd": "2952000561397",
-    "tikName": "ТИК №16"
+    "tikName": "ТИК №16",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 265,
     "uikTvd": "495401791379",
+    "uikName": "УИК №265",
     "tikTvd": "2952000561394",
-    "tikName": "ТИК №17"
+    "tikName": "ТИК №17",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 266,
     "uikTvd": "495401791380",
+    "uikName": "УИК №266",
     "tikTvd": "2952000561394",
-    "tikName": "ТИК №17"
+    "tikName": "ТИК №17",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 267,
     "uikTvd": "495401791381",
+    "uikName": "УИК №267",
     "tikTvd": "2952000561394",
-    "tikName": "ТИК №17"
+    "tikName": "ТИК №17",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 268,
     "uikTvd": "495401791382",
+    "uikName": "УИК №268",
     "tikTvd": "2952000561394",
-    "tikName": "ТИК №17"
+    "tikName": "ТИК №17",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 269,
     "uikTvd": "495401791383",
+    "uikName": "УИК №269",
     "tikTvd": "2952000561394",
-    "tikName": "ТИК №17"
+    "tikName": "ТИК №17",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 270,
     "uikTvd": "495401791384",
+    "uikName": "УИК №270",
     "tikTvd": "2952000561394",
-    "tikName": "ТИК №17"
+    "tikName": "ТИК №17",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 271,
     "uikTvd": "495401791385",
+    "uikName": "УИК №271",
     "tikTvd": "2952000561394",
-    "tikName": "ТИК №17"
+    "tikName": "ТИК №17",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 272,
     "uikTvd": "495401791386",
+    "uikName": "УИК №272",
     "tikTvd": "2952000561394",
-    "tikName": "ТИК №17"
+    "tikName": "ТИК №17",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 273,
     "uikTvd": "495401791387",
+    "uikName": "УИК №273",
     "tikTvd": "2952000561394",
-    "tikName": "ТИК №17"
+    "tikName": "ТИК №17",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 274,
     "uikTvd": "495401791388",
+    "uikName": "УИК №274",
     "tikTvd": "2952000561394",
-    "tikName": "ТИК №17"
+    "tikName": "ТИК №17",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 275,
     "uikTvd": "495401791389",
+    "uikName": "УИК №275",
     "tikTvd": "2952000561394",
-    "tikName": "ТИК №17"
+    "tikName": "ТИК №17",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 276,
     "uikTvd": "495401791390",
+    "uikName": "УИК №276",
     "tikTvd": "2952000561394",
-    "tikName": "ТИК №17"
+    "tikName": "ТИК №17",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 277,
     "uikTvd": "495401791391",
+    "uikName": "УИК №277",
     "tikTvd": "2952000561394",
-    "tikName": "ТИК №17"
+    "tikName": "ТИК №17",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 278,
     "uikTvd": "495401791392",
+    "uikName": "УИК №278",
     "tikTvd": "2952000561394",
-    "tikName": "ТИК №17"
+    "tikName": "ТИК №17",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 279,
     "uikTvd": "495401791393",
+    "uikName": "УИК №279",
     "tikTvd": "2952000561394",
-    "tikName": "ТИК №17"
+    "tikName": "ТИК №17",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 280,
     "uikTvd": "495401791394",
+    "uikName": "УИК №280",
     "tikTvd": "2952000561394",
-    "tikName": "ТИК №17"
+    "tikName": "ТИК №17",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 281,
     "uikTvd": "495401889760",
+    "uikName": "УИК №281",
     "tikTvd": "2952000561378",
-    "tikName": "ТИК №18"
+    "tikName": "ТИК №18",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 282,
     "uikTvd": "495401889761",
+    "uikName": "УИК №282",
     "tikTvd": "2952000561378",
-    "tikName": "ТИК №18"
+    "tikName": "ТИК №18",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 283,
     "uikTvd": "495401889762",
+    "uikName": "УИК №283",
     "tikTvd": "2952000561378",
-    "tikName": "ТИК №18"
+    "tikName": "ТИК №18",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 284,
     "uikTvd": "495401889763",
+    "uikName": "УИК №284",
     "tikTvd": "2952000561378",
-    "tikName": "ТИК №18"
+    "tikName": "ТИК №18",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 285,
     "uikTvd": "495401889764",
+    "uikName": "УИК №285",
     "tikTvd": "2952000561378",
-    "tikName": "ТИК №18"
+    "tikName": "ТИК №18",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 286,
     "uikTvd": "495401889765",
+    "uikName": "УИК №286",
     "tikTvd": "2952000561378",
-    "tikName": "ТИК №18"
+    "tikName": "ТИК №18",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 287,
     "uikTvd": "495401889766",
+    "uikName": "УИК №287",
     "tikTvd": "2952000561378",
-    "tikName": "ТИК №18"
+    "tikName": "ТИК №18",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 288,
     "uikTvd": "495401889767",
+    "uikName": "УИК №288",
     "tikTvd": "2952000561378",
-    "tikName": "ТИК №18"
+    "tikName": "ТИК №18",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 289,
     "uikTvd": "495401889768",
+    "uikName": "УИК №289",
     "tikTvd": "2952000561378",
-    "tikName": "ТИК №18"
+    "tikName": "ТИК №18",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 290,
     "uikTvd": "495401889769",
+    "uikName": "УИК №290",
     "tikTvd": "2952000561378",
-    "tikName": "ТИК №18"
+    "tikName": "ТИК №18",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 291,
     "uikTvd": "495401889770",
+    "uikName": "УИК №291",
     "tikTvd": "2952000561378",
-    "tikName": "ТИК №18"
+    "tikName": "ТИК №18",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 292,
     "uikTvd": "495401984644",
+    "uikName": "УИК №292",
     "tikTvd": "2952000561392",
-    "tikName": "ТИК №19"
+    "tikName": "ТИК №19",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 293,
     "uikTvd": "495401984645",
+    "uikName": "УИК №293",
     "tikTvd": "2952000561392",
-    "tikName": "ТИК №19"
+    "tikName": "ТИК №19",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 294,
     "uikTvd": "495401984646",
+    "uikName": "УИК №294",
     "tikTvd": "2952000561392",
-    "tikName": "ТИК №19"
+    "tikName": "ТИК №19",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 295,
     "uikTvd": "495401984647",
+    "uikName": "УИК №295",
     "tikTvd": "2952000561392",
-    "tikName": "ТИК №19"
+    "tikName": "ТИК №19",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 296,
     "uikTvd": "495401984648",
+    "uikName": "УИК №296",
     "tikTvd": "2952000561392",
-    "tikName": "ТИК №19"
+    "tikName": "ТИК №19",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 297,
     "uikTvd": "495401984649",
+    "uikName": "УИК №297",
     "tikTvd": "2952000561392",
-    "tikName": "ТИК №19"
+    "tikName": "ТИК №19",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 298,
     "uikTvd": "495401984650",
+    "uikName": "УИК №298",
     "tikTvd": "2952000561392",
-    "tikName": "ТИК №19"
+    "tikName": "ТИК №19",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 299,
     "uikTvd": "495401984651",
+    "uikName": "УИК №299",
     "tikTvd": "2952000561392",
-    "tikName": "ТИК №19"
+    "tikName": "ТИК №19",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 300,
     "uikTvd": "495401984652",
+    "uikName": "УИК №300",
     "tikTvd": "2952000561392",
-    "tikName": "ТИК №19"
+    "tikName": "ТИК №19",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 301,
     "uikTvd": "495401984653",
+    "uikName": "УИК №301",
     "tikTvd": "2952000561392",
-    "tikName": "ТИК №19"
+    "tikName": "ТИК №19",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 302,
     "uikTvd": "495401984654",
+    "uikName": "УИК №302",
     "tikTvd": "2952000561392",
-    "tikName": "ТИК №19"
+    "tikName": "ТИК №19",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 303,
     "uikTvd": "495401984655",
+    "uikName": "УИК №303",
     "tikTvd": "2952000561392",
-    "tikName": "ТИК №19"
+    "tikName": "ТИК №19",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 304,
     "uikTvd": "495401984656",
+    "uikName": "УИК №304",
     "tikTvd": "2952000561392",
-    "tikName": "ТИК №19"
+    "tikName": "ТИК №19",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 305,
     "uikTvd": "495401984657",
+    "uikName": "УИК №305",
     "tikTvd": "2952000561392",
-    "tikName": "ТИК №19"
+    "tikName": "ТИК №19",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 306,
     "uikTvd": "495401984658",
+    "uikName": "УИК №306",
     "tikTvd": "2952000561392",
-    "tikName": "ТИК №19"
+    "tikName": "ТИК №19",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 307,
     "uikTvd": "495401984659",
+    "uikName": "УИК №307",
     "tikTvd": "2952000561392",
-    "tikName": "ТИК №19"
+    "tikName": "ТИК №19",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 308,
     "uikTvd": "495401984660",
+    "uikName": "УИК №308",
     "tikTvd": "2952000561392",
-    "tikName": "ТИК №19"
+    "tikName": "ТИК №19",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 309,
     "uikTvd": "495401984661",
+    "uikName": "УИК №309",
     "tikTvd": "2952000561392",
-    "tikName": "ТИК №19"
+    "tikName": "ТИК №19",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 310,
     "uikTvd": "495401984662",
+    "uikName": "УИК №310",
     "tikTvd": "2952000561392",
-    "tikName": "ТИК №19"
+    "tikName": "ТИК №19",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 311,
     "uikTvd": "4954011100254",
+    "uikName": "УИК №311",
     "tikTvd": "2952000561403",
-    "tikName": "ТИК №11"
+    "tikName": "ТИК №11",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 312,
     "uikTvd": "4954011100255",
+    "uikName": "УИК №312",
     "tikTvd": "2952000561403",
-    "tikName": "ТИК №11"
+    "tikName": "ТИК №11",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 313,
     "uikTvd": "4954011100256",
+    "uikName": "УИК №313",
     "tikTvd": "2952000561403",
-    "tikName": "ТИК №11"
+    "tikName": "ТИК №11",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 314,
     "uikTvd": "4954011100257",
+    "uikName": "УИК №314",
     "tikTvd": "2952000561403",
-    "tikName": "ТИК №11"
+    "tikName": "ТИК №11",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 315,
     "uikTvd": "495401297746",
+    "uikName": "УИК №315",
     "tikTvd": "2952000561391",
-    "tikName": "ТИК №12"
+    "tikName": "ТИК №12",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 316,
     "uikTvd": "495401297747",
+    "uikName": "УИК №316",
     "tikTvd": "2952000561391",
-    "tikName": "ТИК №12"
+    "tikName": "ТИК №12",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 317,
     "uikTvd": "495401297748",
+    "uikName": "УИК №317",
     "tikTvd": "2952000561391",
-    "tikName": "ТИК №12"
+    "tikName": "ТИК №12",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 318,
     "uikTvd": "4954013111983",
+    "uikName": "УИК №318",
     "tikTvd": "2952000561399",
-    "tikName": "ТИК №13"
+    "tikName": "ТИК №13",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 319,
     "uikTvd": "4954013111984",
+    "uikName": "УИК №319",
     "tikTvd": "2952000561399",
-    "tikName": "ТИК №13"
+    "tikName": "ТИК №13",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 320,
     "uikTvd": "4954013111985",
+    "uikName": "УИК №320",
     "tikTvd": "2952000561399",
-    "tikName": "ТИК №13"
+    "tikName": "ТИК №13",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 321,
     "uikTvd": "4954013111986",
+    "uikName": "УИК №321",
     "tikTvd": "2952000561399",
-    "tikName": "ТИК №13"
+    "tikName": "ТИК №13",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 322,
     "uikTvd": "4954013111987",
+    "uikName": "УИК №322",
     "tikTvd": "2952000561399",
-    "tikName": "ТИК №13"
+    "tikName": "ТИК №13",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 323,
     "uikTvd": "495401489605",
+    "uikName": "УИК №323",
     "tikTvd": "2952000561396",
-    "tikName": "ТИК №14"
+    "tikName": "ТИК №14",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 324,
     "uikTvd": "495401489606",
+    "uikName": "УИК №324",
     "tikTvd": "2952000561396",
-    "tikName": "ТИК №14"
+    "tikName": "ТИК №14",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 325,
     "uikTvd": "495401489607",
+    "uikName": "УИК №325",
     "tikTvd": "2952000561396",
-    "tikName": "ТИК №14"
+    "tikName": "ТИК №14",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 326,
     "uikTvd": "495401489608",
+    "uikName": "УИК №326",
     "tikTvd": "2952000561396",
-    "tikName": "ТИК №14"
+    "tikName": "ТИК №14",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 327,
     "uikTvd": "495401496573",
+    "uikName": "УИК №327",
     "tikTvd": "2952000561396",
-    "tikName": "ТИК №14"
+    "tikName": "ТИК №14",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 328,
     "uikTvd": "495401496574",
+    "uikName": "УИК №328",
     "tikTvd": "2952000561396",
-    "tikName": "ТИК №14"
+    "tikName": "ТИК №14",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 329,
     "uikTvd": "4954015108270",
+    "uikName": "УИК №329",
     "tikTvd": "2952000561375",
-    "tikName": "ТИК №15"
+    "tikName": "ТИК №15",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 331,
     "uikTvd": "495401690393",
+    "uikName": "УИК №331",
     "tikTvd": "2952000561397",
-    "tikName": "ТИК №16"
+    "tikName": "ТИК №16",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 332,
     "uikTvd": "495401694908",
+    "uikName": "УИК №332",
     "tikTvd": "2952000561397",
-    "tikName": "ТИК №16"
+    "tikName": "ТИК №16",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 333,
     "uikTvd": "495401694909",
+    "uikName": "УИК №333",
     "tikTvd": "2952000561397",
-    "tikName": "ТИК №16"
+    "tikName": "ТИК №16",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 334,
     "uikTvd": "495401694910",
+    "uikName": "УИК №334",
     "tikTvd": "2952000561397",
-    "tikName": "ТИК №16"
+    "tikName": "ТИК №16",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 335,
     "uikTvd": "495401694911",
+    "uikName": "УИК №335",
     "tikTvd": "2952000561397",
-    "tikName": "ТИК №16"
+    "tikName": "ТИК №16",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 336,
     "uikTvd": "495401694912",
+    "uikName": "УИК №336",
     "tikTvd": "2952000561397",
-    "tikName": "ТИК №16"
+    "tikName": "ТИК №16",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 337,
     "uikTvd": "495401694913",
+    "uikName": "УИК №337",
     "tikTvd": "2952000561397",
-    "tikName": "ТИК №16"
+    "tikName": "ТИК №16",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 338,
     "uikTvd": "495401791422",
+    "uikName": "УИК №338",
     "tikTvd": "2952000561394",
-    "tikName": "ТИК №17"
+    "tikName": "ТИК №17",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 339,
     "uikTvd": "495401797733",
+    "uikName": "УИК №339",
     "tikTvd": "2952000561394",
-    "tikName": "ТИК №17"
+    "tikName": "ТИК №17",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 340,
     "uikTvd": "495401797734",
+    "uikName": "УИК №340",
     "tikTvd": "2952000561394",
-    "tikName": "ТИК №17"
+    "tikName": "ТИК №17",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 341,
     "uikTvd": "495401894600",
+    "uikName": "УИК №341",
     "tikTvd": "2952000561378",
-    "tikName": "ТИК №18"
+    "tikName": "ТИК №18",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 342,
     "uikTvd": "495401894601",
+    "uikName": "УИК №342",
     "tikTvd": "2952000561378",
-    "tikName": "ТИК №18"
+    "tikName": "ТИК №18",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 343,
     "uikTvd": "495401984677",
+    "uikName": "УИК №343",
     "tikTvd": "2952000561392",
-    "tikName": "ТИК №19"
+    "tikName": "ТИК №19",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 344,
     "uikTvd": "495401984678",
+    "uikName": "УИК №344",
     "tikTvd": "2952000561392",
-    "tikName": "ТИК №19"
+    "tikName": "ТИК №19",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 345,
     "uikTvd": "495401989361",
+    "uikName": "УИК №345",
     "tikTvd": "2952000561392",
-    "tikName": "ТИК №19"
+    "tikName": "ТИК №19",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 346,
     "uikTvd": "495401496575",
+    "uikName": "УИК №346",
     "tikTvd": "2952000561396",
-    "tikName": "ТИК №14"
+    "tikName": "ТИК №14",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 347,
     "uikTvd": "495401496576",
+    "uikName": "УИК №347",
     "tikTvd": "2952000561396",
-    "tikName": "ТИК №14"
+    "tikName": "ТИК №14",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 348,
     "uikTvd": "495401496577",
+    "uikName": "УИК №348",
     "tikTvd": "2952000561396",
-    "tikName": "ТИК №14"
+    "tikName": "ТИК №14",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 349,
     "uikTvd": "495401496578",
+    "uikName": "УИК №349",
     "tikTvd": "2952000561396",
-    "tikName": "ТИК №14"
+    "tikName": "ТИК №14",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 351,
     "uikTvd": "495401694914",
+    "uikName": "УИК №351",
     "tikTvd": "2952000561397",
-    "tikName": "ТИК №16"
+    "tikName": "ТИК №16",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 354,
     "uikTvd": "495401989362",
+    "uikName": "УИК №354",
     "tikTvd": "2952000561392",
-    "tikName": "ТИК №19"
+    "tikName": "ТИК №19",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 355,
     "uikTvd": "495401989363",
+    "uikName": "УИК №355",
     "tikTvd": "2952000561392",
-    "tikName": "ТИК №19"
+    "tikName": "ТИК №19",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 358,
     "uikTvd": "4954015107275",
+    "uikName": "УИК №358",
     "tikTvd": "2952000561375",
-    "tikName": "ТИК №15"
+    "tikName": "ТИК №15",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 360,
     "uikTvd": "495401797735",
+    "uikName": "УИК №360",
     "tikTvd": "2952000561394",
-    "tikName": "ТИК №17"
+    "tikName": "ТИК №17",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 361,
     "uikTvd": "4954017101486",
+    "uikName": "УИК №361",
     "tikTvd": "2952000561394",
-    "tikName": "ТИК №17"
+    "tikName": "ТИК №17",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 362,
     "uikTvd": "4954017101487",
+    "uikName": "УИК №362",
     "tikTvd": "2952000561394",
-    "tikName": "ТИК №17"
+    "tikName": "ТИК №17",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 363,
     "uikTvd": "4954017101488",
+    "uikName": "УИК №363",
     "tikTvd": "2952000561394",
-    "tikName": "ТИК №17"
+    "tikName": "ТИК №17",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 364,
     "uikTvd": "4954013111050",
+    "uikName": "УИК №364",
     "tikTvd": "2952000561399",
-    "tikName": "ТИК №13"
+    "tikName": "ТИК №13",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 365,
     "uikTvd": "4954013111051",
+    "uikName": "УИК №365",
     "tikTvd": "2952000561399",
-    "tikName": "ТИК №13"
+    "tikName": "ТИК №13",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 366,
     "uikTvd": "4954013111052",
+    "uikName": "УИК №366",
     "tikTvd": "2952000561399",
-    "tikName": "ТИК №13"
+    "tikName": "ТИК №13",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 367,
     "uikTvd": "495401894223",
+    "uikName": "УИК №367",
     "tikTvd": "2952000561378",
-    "tikName": "ТИК №18"
+    "tikName": "ТИК №18",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 368,
     "uikTvd": "495401894224",
+    "uikName": "УИК №368",
     "tikTvd": "2952000561378",
-    "tikName": "ТИК №18"
+    "tikName": "ТИК №18",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 369,
     "uikTvd": "495401496579",
+    "uikName": "УИК №369",
     "tikTvd": "2952000561396",
-    "tikName": "ТИК №14"
+    "tikName": "ТИК №14",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 370,
     "uikTvd": "495401696237",
+    "uikName": "УИК №370",
     "tikTvd": "2952000561397",
-    "tikName": "ТИК №16"
+    "tikName": "ТИК №16",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 448,
     "uikTvd": "495402398279",
+    "uikName": "УИК №448",
     "tikTvd": "2952000561382",
-    "tikName": "ТИК №23"
+    "tikName": "ТИК №23",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 449,
     "uikTvd": "495402398280",
+    "uikName": "УИК №449",
     "tikTvd": "2952000561382",
-    "tikName": "ТИК №23"
+    "tikName": "ТИК №23",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 450,
     "uikTvd": "495402398281",
+    "uikName": "УИК №450",
     "tikTvd": "2952000561382",
-    "tikName": "ТИК №23"
+    "tikName": "ТИК №23",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 451,
     "uikTvd": "495402398282",
+    "uikName": "УИК №451",
     "tikTvd": "2952000561382",
-    "tikName": "ТИК №23"
+    "tikName": "ТИК №23",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 452,
     "uikTvd": "495402398283",
+    "uikName": "УИК №452",
     "tikTvd": "2952000561382",
-    "tikName": "ТИК №23"
+    "tikName": "ТИК №23",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 453,
     "uikTvd": "495402398284",
+    "uikName": "УИК №453",
     "tikTvd": "2952000561382",
-    "tikName": "ТИК №23"
+    "tikName": "ТИК №23",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 454,
     "uikTvd": "495402398285",
+    "uikName": "УИК №454",
     "tikTvd": "2952000561382",
-    "tikName": "ТИК №23"
+    "tikName": "ТИК №23",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 455,
     "uikTvd": "495402398286",
+    "uikName": "УИК №455",
     "tikTvd": "2952000561382",
-    "tikName": "ТИК №23"
+    "tikName": "ТИК №23",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 456,
     "uikTvd": "495402398287",
+    "uikName": "УИК №456",
     "tikTvd": "2952000561382",
-    "tikName": "ТИК №23"
+    "tikName": "ТИК №23",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 457,
     "uikTvd": "495402398288",
+    "uikName": "УИК №457",
     "tikTvd": "2952000561382",
-    "tikName": "ТИК №23"
+    "tikName": "ТИК №23",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 458,
     "uikTvd": "495402398289",
+    "uikName": "УИК №458",
     "tikTvd": "2952000561382",
-    "tikName": "ТИК №23"
+    "tikName": "ТИК №23",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 459,
     "uikTvd": "495402398290",
+    "uikName": "УИК №459",
     "tikTvd": "2952000561382",
-    "tikName": "ТИК №23"
+    "tikName": "ТИК №23",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 460,
     "uikTvd": "495402398291",
+    "uikName": "УИК №460",
     "tikTvd": "2952000561382",
-    "tikName": "ТИК №23"
+    "tikName": "ТИК №23",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 461,
     "uikTvd": "495402398292",
+    "uikName": "УИК №461",
     "tikTvd": "2952000561382",
-    "tikName": "ТИК №23"
+    "tikName": "ТИК №23",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 462,
     "uikTvd": "495402398293",
+    "uikName": "УИК №462",
     "tikTvd": "2952000561382",
-    "tikName": "ТИК №23"
+    "tikName": "ТИК №23",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 463,
     "uikTvd": "495402398294",
+    "uikName": "УИК №463",
     "tikTvd": "2952000561382",
-    "tikName": "ТИК №23"
+    "tikName": "ТИК №23",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 464,
     "uikTvd": "495402398295",
+    "uikName": "УИК №464",
     "tikTvd": "2952000561382",
-    "tikName": "ТИК №23"
+    "tikName": "ТИК №23",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 465,
     "uikTvd": "495402398296",
+    "uikName": "УИК №465",
     "tikTvd": "2952000561382",
-    "tikName": "ТИК №23"
+    "tikName": "ТИК №23",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 466,
     "uikTvd": "495402398297",
+    "uikName": "УИК №466",
     "tikTvd": "2952000561382",
-    "tikName": "ТИК №23"
+    "tikName": "ТИК №23",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 467,
     "uikTvd": "495402398298",
+    "uikName": "УИК №467",
     "tikTvd": "2952000561382",
-    "tikName": "ТИК №23"
+    "tikName": "ТИК №23",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 468,
     "uikTvd": "495402398299",
+    "uikName": "УИК №468",
     "tikTvd": "2952000561382",
-    "tikName": "ТИК №23"
+    "tikName": "ТИК №23",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 469,
     "uikTvd": "495402398300",
+    "uikName": "УИК №469",
     "tikTvd": "2952000561382",
-    "tikName": "ТИК №23"
+    "tikName": "ТИК №23",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 470,
     "uikTvd": "495402398301",
+    "uikName": "УИК №470",
     "tikTvd": "2952000561382",
-    "tikName": "ТИК №23"
+    "tikName": "ТИК №23",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 471,
     "uikTvd": "495402398302",
+    "uikName": "УИК №471",
     "tikTvd": "2952000561382",
-    "tikName": "ТИК №23"
+    "tikName": "ТИК №23",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 472,
     "uikTvd": "495402398303",
+    "uikName": "УИК №472",
     "tikTvd": "2952000561382",
-    "tikName": "ТИК №23"
+    "tikName": "ТИК №23",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 473,
     "uikTvd": "495402398304",
+    "uikName": "УИК №473",
     "tikTvd": "2952000561382",
-    "tikName": "ТИК №23"
+    "tikName": "ТИК №23",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 474,
     "uikTvd": "495402398305",
+    "uikName": "УИК №474",
     "tikTvd": "2952000561382",
-    "tikName": "ТИК №23"
+    "tikName": "ТИК №23",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 475,
     "uikTvd": "495402398306",
+    "uikName": "УИК №475",
     "tikTvd": "2952000561382",
-    "tikName": "ТИК №23"
+    "tikName": "ТИК №23",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 476,
     "uikTvd": "4954023104808",
+    "uikName": "УИК №476",
     "tikTvd": "2952000561382",
-    "tikName": "ТИК №23"
+    "tikName": "ТИК №23",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 477,
     "uikTvd": "4954023104810",
+    "uikName": "УИК №477",
     "tikTvd": "2952000561382",
-    "tikName": "ТИК №23"
+    "tikName": "ТИК №23",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 497,
     "uikTvd": "495402489947",
+    "uikName": "УИК №497",
     "tikTvd": "2952000561386",
-    "tikName": "ТИК №24"
+    "tikName": "ТИК №24",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 498,
     "uikTvd": "495402489948",
+    "uikName": "УИК №498",
     "tikTvd": "2952000561386",
-    "tikName": "ТИК №24"
+    "tikName": "ТИК №24",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 499,
     "uikTvd": "495402489949",
+    "uikName": "УИК №499",
     "tikTvd": "2952000561386",
-    "tikName": "ТИК №24"
+    "tikName": "ТИК №24",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 500,
     "uikTvd": "495402489950",
+    "uikName": "УИК №500",
     "tikTvd": "2952000561386",
-    "tikName": "ТИК №24"
+    "tikName": "ТИК №24",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 501,
     "uikTvd": "495402489951",
+    "uikName": "УИК №501",
     "tikTvd": "2952000561386",
-    "tikName": "ТИК №24"
+    "tikName": "ТИК №24",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 502,
     "uikTvd": "495402489952",
+    "uikName": "УИК №502",
     "tikTvd": "2952000561386",
-    "tikName": "ТИК №24"
+    "tikName": "ТИК №24",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 512,
     "uikTvd": "495402594132",
+    "uikName": "УИК №512",
     "tikTvd": "2952000561384",
-    "tikName": "ТИК №25"
+    "tikName": "ТИК №25",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 513,
     "uikTvd": "495402594133",
+    "uikName": "УИК №513",
     "tikTvd": "2952000561384",
-    "tikName": "ТИК №25"
+    "tikName": "ТИК №25",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 514,
     "uikTvd": "495402594134",
+    "uikName": "УИК №514",
     "tikTvd": "2952000561384",
-    "tikName": "ТИК №25"
+    "tikName": "ТИК №25",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 515,
     "uikTvd": "495402594135",
+    "uikName": "УИК №515",
     "tikTvd": "2952000561384",
-    "tikName": "ТИК №25"
+    "tikName": "ТИК №25",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 516,
     "uikTvd": "495402594136",
+    "uikName": "УИК №516",
     "tikTvd": "2952000561384",
-    "tikName": "ТИК №25"
+    "tikName": "ТИК №25",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 517,
     "uikTvd": "495402594137",
+    "uikName": "УИК №517",
     "tikTvd": "2952000561384",
-    "tikName": "ТИК №25"
+    "tikName": "ТИК №25",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 518,
     "uikTvd": "495402594138",
+    "uikName": "УИК №518",
     "tikTvd": "2952000561384",
-    "tikName": "ТИК №25"
+    "tikName": "ТИК №25",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 519,
     "uikTvd": "495402594139",
+    "uikName": "УИК №519",
     "tikTvd": "2952000561384",
-    "tikName": "ТИК №25"
+    "tikName": "ТИК №25",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 520,
     "uikTvd": "495402594140",
+    "uikName": "УИК №520",
     "tikTvd": "2952000561384",
-    "tikName": "ТИК №25"
+    "tikName": "ТИК №25",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 521,
     "uikTvd": "495402594141",
+    "uikName": "УИК №521",
     "tikTvd": "2952000561384",
-    "tikName": "ТИК №25"
+    "tikName": "ТИК №25",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 522,
     "uikTvd": "495402594142",
+    "uikName": "УИК №522",
     "tikTvd": "2952000561384",
-    "tikName": "ТИК №25"
+    "tikName": "ТИК №25",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 523,
     "uikTvd": "495402594143",
+    "uikName": "УИК №523",
     "tikTvd": "2952000561384",
-    "tikName": "ТИК №25"
+    "tikName": "ТИК №25",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 524,
     "uikTvd": "495402594144",
+    "uikName": "УИК №524",
     "tikTvd": "2952000561384",
-    "tikName": "ТИК №25"
+    "tikName": "ТИК №25",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 525,
     "uikTvd": "495402594145",
+    "uikName": "УИК №525",
     "tikTvd": "2952000561384",
-    "tikName": "ТИК №25"
+    "tikName": "ТИК №25",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 526,
     "uikTvd": "495402594146",
+    "uikName": "УИК №526",
     "tikTvd": "2952000561384",
-    "tikName": "ТИК №25"
+    "tikName": "ТИК №25",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 527,
     "uikTvd": "495402594147",
+    "uikName": "УИК №527",
     "tikTvd": "2952000561384",
-    "tikName": "ТИК №25"
+    "tikName": "ТИК №25",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 528,
     "uikTvd": "495402594148",
+    "uikName": "УИК №528",
     "tikTvd": "2952000561384",
-    "tikName": "ТИК №25"
+    "tikName": "ТИК №25",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 529,
     "uikTvd": "495402594149",
+    "uikName": "УИК №529",
     "tikTvd": "2952000561384",
-    "tikName": "ТИК №25"
+    "tikName": "ТИК №25",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 530,
     "uikTvd": "495402594150",
+    "uikName": "УИК №530",
     "tikTvd": "2952000561384",
-    "tikName": "ТИК №25"
+    "tikName": "ТИК №25",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 531,
     "uikTvd": "495402594151",
+    "uikName": "УИК №531",
     "tikTvd": "2952000561384",
-    "tikName": "ТИК №25"
+    "tikName": "ТИК №25",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 532,
     "uikTvd": "495402594152",
+    "uikName": "УИК №532",
     "tikTvd": "2952000561384",
-    "tikName": "ТИК №25"
+    "tikName": "ТИК №25",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 533,
     "uikTvd": "495402594153",
+    "uikName": "УИК №533",
     "tikTvd": "2952000561384",
-    "tikName": "ТИК №25"
+    "tikName": "ТИК №25",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 534,
     "uikTvd": "495402594154",
+    "uikName": "УИК №534",
     "tikTvd": "2952000561384",
-    "tikName": "ТИК №25"
+    "tikName": "ТИК №25",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 535,
     "uikTvd": "495402594155",
+    "uikName": "УИК №535",
     "tikTvd": "2952000561384",
-    "tikName": "ТИК №25"
+    "tikName": "ТИК №25",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 536,
     "uikTvd": "495402594156",
+    "uikName": "УИК №536",
     "tikTvd": "2952000561384",
-    "tikName": "ТИК №25"
+    "tikName": "ТИК №25",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 537,
     "uikTvd": "495402594157",
+    "uikName": "УИК №537",
     "tikTvd": "2952000561384",
-    "tikName": "ТИК №25"
+    "tikName": "ТИК №25",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 538,
     "uikTvd": "495402594158",
+    "uikName": "УИК №538",
     "tikTvd": "2952000561384",
-    "tikName": "ТИК №25"
+    "tikName": "ТИК №25",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 539,
     "uikTvd": "495402594159",
+    "uikName": "УИК №539",
     "tikTvd": "2952000561384",
-    "tikName": "ТИК №25"
+    "tikName": "ТИК №25",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 540,
     "uikTvd": "495402688152",
+    "uikName": "УИК №540",
     "tikTvd": "2952000561373",
-    "tikName": "ТИК №26"
+    "tikName": "ТИК №26",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 541,
     "uikTvd": "495402688153",
+    "uikName": "УИК №541",
     "tikTvd": "2952000561373",
-    "tikName": "ТИК №26"
+    "tikName": "ТИК №26",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 542,
     "uikTvd": "495402688154",
+    "uikName": "УИК №542",
     "tikTvd": "2952000561373",
-    "tikName": "ТИК №26"
+    "tikName": "ТИК №26",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 543,
     "uikTvd": "495402688155",
+    "uikName": "УИК №543",
     "tikTvd": "2952000561373",
-    "tikName": "ТИК №26"
+    "tikName": "ТИК №26",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 544,
     "uikTvd": "495402688156",
+    "uikName": "УИК №544",
     "tikTvd": "2952000561373",
-    "tikName": "ТИК №26"
+    "tikName": "ТИК №26",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 545,
     "uikTvd": "495402688157",
+    "uikName": "УИК №545",
     "tikTvd": "2952000561373",
-    "tikName": "ТИК №26"
+    "tikName": "ТИК №26",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 546,
     "uikTvd": "495402688158",
+    "uikName": "УИК №546",
     "tikTvd": "2952000561373",
-    "tikName": "ТИК №26"
+    "tikName": "ТИК №26",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 547,
     "uikTvd": "495402688159",
+    "uikName": "УИК №547",
     "tikTvd": "2952000561373",
-    "tikName": "ТИК №26"
+    "tikName": "ТИК №26",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 548,
     "uikTvd": "495402688160",
+    "uikName": "УИК №548",
     "tikTvd": "2952000561373",
-    "tikName": "ТИК №26"
+    "tikName": "ТИК №26",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 549,
     "uikTvd": "495402688161",
+    "uikName": "УИК №549",
     "tikTvd": "2952000561373",
-    "tikName": "ТИК №26"
+    "tikName": "ТИК №26",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 550,
     "uikTvd": "495402790108",
+    "uikName": "УИК №550",
     "tikTvd": "2952000561408",
-    "tikName": "ТИК №27"
+    "tikName": "ТИК №27",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 551,
     "uikTvd": "495402790109",
+    "uikName": "УИК №551",
     "tikTvd": "2952000561408",
-    "tikName": "ТИК №27"
+    "tikName": "ТИК №27",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 552,
     "uikTvd": "495402790110",
+    "uikName": "УИК №552",
     "tikTvd": "2952000561408",
-    "tikName": "ТИК №27"
+    "tikName": "ТИК №27",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 553,
     "uikTvd": "495402790111",
+    "uikName": "УИК №553",
     "tikTvd": "2952000561408",
-    "tikName": "ТИК №27"
+    "tikName": "ТИК №27",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 554,
     "uikTvd": "495402790112",
+    "uikName": "УИК №554",
     "tikTvd": "2952000561408",
-    "tikName": "ТИК №27"
+    "tikName": "ТИК №27",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 555,
     "uikTvd": "495402790113",
+    "uikName": "УИК №555",
     "tikTvd": "2952000561408",
-    "tikName": "ТИК №27"
+    "tikName": "ТИК №27",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 556,
     "uikTvd": "495402790114",
+    "uikName": "УИК №556",
     "tikTvd": "2952000561408",
-    "tikName": "ТИК №27"
+    "tikName": "ТИК №27",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 557,
     "uikTvd": "495402790115",
+    "uikName": "УИК №557",
     "tikTvd": "2952000561408",
-    "tikName": "ТИК №27"
+    "tikName": "ТИК №27",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 558,
     "uikTvd": "495402790116",
+    "uikName": "УИК №558",
     "tikTvd": "2952000561408",
-    "tikName": "ТИК №27"
+    "tikName": "ТИК №27",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 559,
     "uikTvd": "495402790117",
+    "uikName": "УИК №559",
     "tikTvd": "2952000561408",
-    "tikName": "ТИК №27"
+    "tikName": "ТИК №27",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 560,
     "uikTvd": "495402790118",
+    "uikName": "УИК №560",
     "tikTvd": "2952000561408",
-    "tikName": "ТИК №27"
+    "tikName": "ТИК №27",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 561,
     "uikTvd": "495402790119",
+    "uikName": "УИК №561",
     "tikTvd": "2952000561408",
-    "tikName": "ТИК №27"
+    "tikName": "ТИК №27",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 562,
     "uikTvd": "495402790120",
+    "uikName": "УИК №562",
     "tikTvd": "2952000561408",
-    "tikName": "ТИК №27"
+    "tikName": "ТИК №27",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 563,
     "uikTvd": "495402790121",
+    "uikName": "УИК №563",
     "tikTvd": "2952000561408",
-    "tikName": "ТИК №27"
+    "tikName": "ТИК №27",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 564,
     "uikTvd": "495402894489",
+    "uikName": "УИК №564",
     "tikTvd": "2952000561381",
-    "tikName": "ТИК №28"
+    "tikName": "ТИК №28",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 565,
     "uikTvd": "495402894490",
+    "uikName": "УИК №565",
     "tikTvd": "2952000561381",
-    "tikName": "ТИК №28"
+    "tikName": "ТИК №28",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 566,
     "uikTvd": "495402894491",
+    "uikName": "УИК №566",
     "tikTvd": "2952000561381",
-    "tikName": "ТИК №28"
+    "tikName": "ТИК №28",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 567,
     "uikTvd": "495402894492",
+    "uikName": "УИК №567",
     "tikTvd": "2952000561381",
-    "tikName": "ТИК №28"
+    "tikName": "ТИК №28",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 568,
     "uikTvd": "495402894493",
+    "uikName": "УИК №568",
     "tikTvd": "2952000561381",
-    "tikName": "ТИК №28"
+    "tikName": "ТИК №28",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 569,
     "uikTvd": "495402894494",
+    "uikName": "УИК №569",
     "tikTvd": "2952000561381",
-    "tikName": "ТИК №28"
+    "tikName": "ТИК №28",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 570,
     "uikTvd": "495402894495",
+    "uikName": "УИК №570",
     "tikTvd": "2952000561381",
-    "tikName": "ТИК №28"
+    "tikName": "ТИК №28",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 571,
     "uikTvd": "495402894496",
+    "uikName": "УИК №571",
     "tikTvd": "2952000561381",
-    "tikName": "ТИК №28"
+    "tikName": "ТИК №28",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 572,
     "uikTvd": "495402894497",
+    "uikName": "УИК №572",
     "tikTvd": "2952000561381",
-    "tikName": "ТИК №28"
+    "tikName": "ТИК №28",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 573,
     "uikTvd": "495402894498",
+    "uikName": "УИК №573",
     "tikTvd": "2952000561381",
-    "tikName": "ТИК №28"
+    "tikName": "ТИК №28",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 574,
     "uikTvd": "495402894499",
+    "uikName": "УИК №574",
     "tikTvd": "2952000561381",
-    "tikName": "ТИК №28"
+    "tikName": "ТИК №28",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 575,
     "uikTvd": "495402894500",
+    "uikName": "УИК №575",
     "tikTvd": "2952000561381",
-    "tikName": "ТИК №28"
+    "tikName": "ТИК №28",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 576,
     "uikTvd": "495402894501",
+    "uikName": "УИК №576",
     "tikTvd": "2952000561381",
-    "tikName": "ТИК №28"
+    "tikName": "ТИК №28",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 577,
     "uikTvd": "495402894502",
+    "uikName": "УИК №577",
     "tikTvd": "2952000561381",
-    "tikName": "ТИК №28"
+    "tikName": "ТИК №28",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 578,
     "uikTvd": "495402894503",
+    "uikName": "УИК №578",
     "tikTvd": "2952000561381",
-    "tikName": "ТИК №28"
+    "tikName": "ТИК №28",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 579,
     "uikTvd": "495402894504",
+    "uikName": "УИК №579",
     "tikTvd": "2952000561381",
-    "tikName": "ТИК №28"
+    "tikName": "ТИК №28",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 580,
     "uikTvd": "495402894505",
+    "uikName": "УИК №580",
     "tikTvd": "2952000561381",
-    "tikName": "ТИК №28"
+    "tikName": "ТИК №28",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 581,
     "uikTvd": "495402894506",
+    "uikName": "УИК №581",
     "tikTvd": "2952000561381",
-    "tikName": "ТИК №28"
+    "tikName": "ТИК №28",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 582,
     "uikTvd": "495402988914",
+    "uikName": "УИК №582",
     "tikTvd": "2952000561405",
-    "tikName": "ТИК №29"
+    "tikName": "ТИК №29",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 583,
     "uikTvd": "495402988915",
+    "uikName": "УИК №583",
     "tikTvd": "2952000561405",
-    "tikName": "ТИК №29"
+    "tikName": "ТИК №29",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 584,
     "uikTvd": "495402988916",
+    "uikName": "УИК №584",
     "tikTvd": "2952000561405",
-    "tikName": "ТИК №29"
+    "tikName": "ТИК №29",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 585,
     "uikTvd": "495402988917",
+    "uikName": "УИК №585",
     "tikTvd": "2952000561405",
-    "tikName": "ТИК №29"
+    "tikName": "ТИК №29",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 586,
     "uikTvd": "495402988918",
+    "uikName": "УИК №586",
     "tikTvd": "2952000561405",
-    "tikName": "ТИК №29"
+    "tikName": "ТИК №29",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 587,
     "uikTvd": "495402988919",
+    "uikName": "УИК №587",
     "tikTvd": "2952000561405",
-    "tikName": "ТИК №29"
+    "tikName": "ТИК №29",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 588,
     "uikTvd": "495402988920",
+    "uikName": "УИК №588",
     "tikTvd": "2952000561405",
-    "tikName": "ТИК №29"
+    "tikName": "ТИК №29",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 589,
     "uikTvd": "495402988921",
+    "uikName": "УИК №589",
     "tikTvd": "2952000561405",
-    "tikName": "ТИК №29"
+    "tikName": "ТИК №29",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 590,
     "uikTvd": "495402988922",
+    "uikName": "УИК №590",
     "tikTvd": "2952000561405",
-    "tikName": "ТИК №29"
+    "tikName": "ТИК №29",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 591,
     "uikTvd": "495402988923",
+    "uikName": "УИК №591",
     "tikTvd": "2952000561405",
-    "tikName": "ТИК №29"
+    "tikName": "ТИК №29",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 592,
     "uikTvd": "495402988924",
+    "uikName": "УИК №592",
     "tikTvd": "2952000561405",
-    "tikName": "ТИК №29"
+    "tikName": "ТИК №29",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 593,
     "uikTvd": "495402988925",
+    "uikName": "УИК №593",
     "tikTvd": "2952000561405",
-    "tikName": "ТИК №29"
+    "tikName": "ТИК №29",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 594,
     "uikTvd": "495402988926",
+    "uikName": "УИК №594",
     "tikTvd": "2952000561405",
-    "tikName": "ТИК №29"
+    "tikName": "ТИК №29",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 595,
     "uikTvd": "495402988927",
+    "uikName": "УИК №595",
     "tikTvd": "2952000561405",
-    "tikName": "ТИК №29"
+    "tikName": "ТИК №29",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 596,
     "uikTvd": "495402988928",
+    "uikName": "УИК №596",
     "tikTvd": "2952000561405",
-    "tikName": "ТИК №29"
+    "tikName": "ТИК №29",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 597,
     "uikTvd": "495402988929",
+    "uikName": "УИК №597",
     "tikTvd": "2952000561405",
-    "tikName": "ТИК №29"
+    "tikName": "ТИК №29",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 598,
     "uikTvd": "495402988930",
+    "uikName": "УИК №598",
     "tikTvd": "2952000561405",
-    "tikName": "ТИК №29"
+    "tikName": "ТИК №29",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 599,
     "uikTvd": "495402598361",
+    "uikName": "УИК №599",
     "tikTvd": "2952000561384",
-    "tikName": "ТИК №25"
+    "tikName": "ТИК №25",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 600,
     "uikTvd": "495402598362",
+    "uikName": "УИК №600",
     "tikTvd": "2952000561384",
-    "tikName": "ТИК №25"
+    "tikName": "ТИК №25",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 601,
     "uikTvd": "495402598363",
+    "uikName": "УИК №601",
     "tikTvd": "2952000561384",
-    "tikName": "ТИК №25"
+    "tikName": "ТИК №25",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 623,
     "uikTvd": "495402693295",
+    "uikName": "УИК №623",
     "tikTvd": "2952000561373",
-    "tikName": "ТИК №26"
+    "tikName": "ТИК №26",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 624,
     "uikTvd": "495402693296",
+    "uikName": "УИК №624",
     "tikTvd": "2952000561373",
-    "tikName": "ТИК №26"
+    "tikName": "ТИК №26",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 625,
     "uikTvd": "495402694761",
+    "uikName": "УИК №625",
     "tikTvd": "2952000561373",
-    "tikName": "ТИК №26"
+    "tikName": "ТИК №26",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 626,
     "uikTvd": "495402694762",
+    "uikName": "УИК №626",
     "tikTvd": "2952000561373",
-    "tikName": "ТИК №26"
+    "tikName": "ТИК №26",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 627,
     "uikTvd": "495402694763",
+    "uikName": "УИК №627",
     "tikTvd": "2952000561373",
-    "tikName": "ТИК №26"
+    "tikName": "ТИК №26",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 643,
     "uikTvd": "495402897675",
+    "uikName": "УИК №643",
     "tikTvd": "2952000561381",
-    "tikName": "ТИК №28"
+    "tikName": "ТИК №28",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 644,
     "uikTvd": "495402897677",
+    "uikName": "УИК №644",
     "tikTvd": "2952000561381",
-    "tikName": "ТИК №28"
+    "tikName": "ТИК №28",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 661,
     "uikTvd": "495402993013",
+    "uikName": "УИК №661",
     "tikTvd": "2952000561405",
-    "tikName": "ТИК №29"
+    "tikName": "ТИК №29",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 662,
     "uikTvd": "495402993014",
+    "uikName": "УИК №662",
     "tikTvd": "2952000561405",
-    "tikName": "ТИК №29"
+    "tikName": "ТИК №29",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 663,
     "uikTvd": "495402796488",
+    "uikName": "УИК №663",
     "tikTvd": "2952000561408",
-    "tikName": "ТИК №27"
+    "tikName": "ТИК №27",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 674,
     "uikTvd": "495403092214",
+    "uikName": "УИК №674",
     "tikTvd": "2952000561379",
-    "tikName": "ТИК №30"
+    "tikName": "ТИК №30",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 675,
     "uikTvd": "495403092215",
+    "uikName": "УИК №675",
     "tikTvd": "2952000561379",
-    "tikName": "ТИК №30"
+    "tikName": "ТИК №30",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 676,
     "uikTvd": "495403092216",
+    "uikName": "УИК №676",
     "tikTvd": "2952000561379",
-    "tikName": "ТИК №30"
+    "tikName": "ТИК №30",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 677,
     "uikTvd": "495403092217",
+    "uikName": "УИК №677",
     "tikTvd": "2952000561379",
-    "tikName": "ТИК №30"
+    "tikName": "ТИК №30",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 678,
     "uikTvd": "495403092218",
+    "uikName": "УИК №678",
     "tikTvd": "2952000561379",
-    "tikName": "ТИК №30"
+    "tikName": "ТИК №30",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 679,
     "uikTvd": "495403092219",
+    "uikName": "УИК №679",
     "tikTvd": "2952000561379",
-    "tikName": "ТИК №30"
+    "tikName": "ТИК №30",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 680,
     "uikTvd": "495403092220",
+    "uikName": "УИК №680",
     "tikTvd": "2952000561379",
-    "tikName": "ТИК №30"
+    "tikName": "ТИК №30",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 681,
     "uikTvd": "495403092221",
+    "uikName": "УИК №681",
     "tikTvd": "2952000561379",
-    "tikName": "ТИК №30"
+    "tikName": "ТИК №30",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 682,
     "uikTvd": "495403092222",
+    "uikName": "УИК №682",
     "tikTvd": "2952000561379",
-    "tikName": "ТИК №30"
+    "tikName": "ТИК №30",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 683,
     "uikTvd": "495403092223",
+    "uikName": "УИК №683",
     "tikTvd": "2952000561379",
-    "tikName": "ТИК №30"
+    "tikName": "ТИК №30",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 684,
     "uikTvd": "495403092224",
+    "uikName": "УИК №684",
     "tikTvd": "2952000561379",
-    "tikName": "ТИК №30"
+    "tikName": "ТИК №30",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 685,
     "uikTvd": "495403092225",
+    "uikName": "УИК №685",
     "tikTvd": "2952000561379",
-    "tikName": "ТИК №30"
+    "tikName": "ТИК №30",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 686,
     "uikTvd": "495403092226",
+    "uikName": "УИК №686",
     "tikTvd": "2952000561379",
-    "tikName": "ТИК №30"
+    "tikName": "ТИК №30",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 687,
     "uikTvd": "495403092227",
+    "uikName": "УИК №687",
     "tikTvd": "2952000561379",
-    "tikName": "ТИК №30"
+    "tikName": "ТИК №30",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 688,
     "uikTvd": "495403092228",
+    "uikName": "УИК №688",
     "tikTvd": "2952000561379",
-    "tikName": "ТИК №30"
+    "tikName": "ТИК №30",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 689,
     "uikTvd": "495403092229",
+    "uikName": "УИК №689",
     "tikTvd": "2952000561379",
-    "tikName": "ТИК №30"
+    "tikName": "ТИК №30",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 690,
     "uikTvd": "495403092230",
+    "uikName": "УИК №690",
     "tikTvd": "2952000561379",
-    "tikName": "ТИК №30"
+    "tikName": "ТИК №30",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 691,
     "uikTvd": "495403092231",
+    "uikName": "УИК №691",
     "tikTvd": "2952000561379",
-    "tikName": "ТИК №30"
+    "tikName": "ТИК №30",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 692,
     "uikTvd": "495403092232",
+    "uikName": "УИК №692",
     "tikTvd": "2952000561379",
-    "tikName": "ТИК №30"
+    "tikName": "ТИК №30",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 693,
     "uikTvd": "495403092233",
+    "uikName": "УИК №693",
     "tikTvd": "2952000561379",
-    "tikName": "ТИК №30"
+    "tikName": "ТИК №30",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 694,
     "uikTvd": "495403092234",
+    "uikName": "УИК №694",
     "tikTvd": "2952000561379",
-    "tikName": "ТИК №30"
+    "tikName": "ТИК №30",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 695,
     "uikTvd": "495403092235",
+    "uikName": "УИК №695",
     "tikTvd": "2952000561379",
-    "tikName": "ТИК №30"
+    "tikName": "ТИК №30",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 696,
     "uikTvd": "495403196071",
+    "uikName": "УИК №696",
     "tikTvd": "2952000561387",
-    "tikName": "ТИК №31"
+    "tikName": "ТИК №31",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 697,
     "uikTvd": "495403196073",
+    "uikName": "УИК №697",
     "tikTvd": "2952000561387",
-    "tikName": "ТИК №31"
+    "tikName": "ТИК №31",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 698,
     "uikTvd": "495403196074",
+    "uikName": "УИК №698",
     "tikTvd": "2952000561387",
-    "tikName": "ТИК №31"
+    "tikName": "ТИК №31",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 699,
     "uikTvd": "495403196075",
+    "uikName": "УИК №699",
     "tikTvd": "2952000561387",
-    "tikName": "ТИК №31"
+    "tikName": "ТИК №31",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 700,
     "uikTvd": "495403196076",
+    "uikName": "УИК №700",
     "tikTvd": "2952000561387",
-    "tikName": "ТИК №31"
+    "tikName": "ТИК №31",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 701,
     "uikTvd": "495403196077",
+    "uikName": "УИК №701",
     "tikTvd": "2952000561387",
-    "tikName": "ТИК №31"
+    "tikName": "ТИК №31",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 702,
     "uikTvd": "495403196078",
+    "uikName": "УИК №702",
     "tikTvd": "2952000561387",
-    "tikName": "ТИК №31"
+    "tikName": "ТИК №31",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 703,
     "uikTvd": "495403196079",
+    "uikName": "УИК №703",
     "tikTvd": "2952000561387",
-    "tikName": "ТИК №31"
+    "tikName": "ТИК №31",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 704,
     "uikTvd": "495403196080",
+    "uikName": "УИК №704",
     "tikTvd": "2952000561387",
-    "tikName": "ТИК №31"
+    "tikName": "ТИК №31",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 705,
     "uikTvd": "495403196081",
+    "uikName": "УИК №705",
     "tikTvd": "2952000561387",
-    "tikName": "ТИК №31"
+    "tikName": "ТИК №31",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 706,
     "uikTvd": "495403196082",
+    "uikName": "УИК №706",
     "tikTvd": "2952000561387",
-    "tikName": "ТИК №31"
+    "tikName": "ТИК №31",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 707,
     "uikTvd": "495403196083",
+    "uikName": "УИК №707",
     "tikTvd": "2952000561387",
-    "tikName": "ТИК №31"
+    "tikName": "ТИК №31",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 708,
     "uikTvd": "495403196084",
+    "uikName": "УИК №708",
     "tikTvd": "2952000561387",
-    "tikName": "ТИК №31"
+    "tikName": "ТИК №31",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 709,
     "uikTvd": "495403286449",
+    "uikName": "УИК №709",
     "tikTvd": "2952000561393",
-    "tikName": "ТИК №32"
+    "tikName": "ТИК №32",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 710,
     "uikTvd": "495403286450",
+    "uikName": "УИК №710",
     "tikTvd": "2952000561393",
-    "tikName": "ТИК №32"
+    "tikName": "ТИК №32",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 711,
     "uikTvd": "495403286451",
+    "uikName": "УИК №711",
     "tikTvd": "2952000561393",
-    "tikName": "ТИК №32"
+    "tikName": "ТИК №32",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 712,
     "uikTvd": "495403286452",
+    "uikName": "УИК №712",
     "tikTvd": "2952000561393",
-    "tikName": "ТИК №32"
+    "tikName": "ТИК №32",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 713,
     "uikTvd": "495403286453",
+    "uikName": "УИК №713",
     "tikTvd": "2952000561393",
-    "tikName": "ТИК №32"
+    "tikName": "ТИК №32",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 714,
     "uikTvd": "495403286454",
+    "uikName": "УИК №714",
     "tikTvd": "2952000561393",
-    "tikName": "ТИК №32"
+    "tikName": "ТИК №32",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 715,
     "uikTvd": "495403286455",
+    "uikName": "УИК №715",
     "tikTvd": "2952000561393",
-    "tikName": "ТИК №32"
+    "tikName": "ТИК №32",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 716,
     "uikTvd": "495403286456",
+    "uikName": "УИК №716",
     "tikTvd": "2952000561393",
-    "tikName": "ТИК №32"
+    "tikName": "ТИК №32",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 717,
     "uikTvd": "495403286457",
+    "uikName": "УИК №717",
     "tikTvd": "2952000561393",
-    "tikName": "ТИК №32"
+    "tikName": "ТИК №32",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 718,
     "uikTvd": "495403286458",
+    "uikName": "УИК №718",
     "tikTvd": "2952000561393",
-    "tikName": "ТИК №32"
+    "tikName": "ТИК №32",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 719,
     "uikTvd": "495403286459",
+    "uikName": "УИК №719",
     "tikTvd": "2952000561393",
-    "tikName": "ТИК №32"
+    "tikName": "ТИК №32",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 720,
     "uikTvd": "495403286460",
+    "uikName": "УИК №720",
     "tikTvd": "2952000561393",
-    "tikName": "ТИК №32"
+    "tikName": "ТИК №32",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 721,
     "uikTvd": "495403286461",
+    "uikName": "УИК №721",
     "tikTvd": "2952000561393",
-    "tikName": "ТИК №32"
+    "tikName": "ТИК №32",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 722,
     "uikTvd": "495403286462",
+    "uikName": "УИК №722",
     "tikTvd": "2952000561393",
-    "tikName": "ТИК №32"
+    "tikName": "ТИК №32",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 723,
     "uikTvd": "495403286463",
+    "uikName": "УИК №723",
     "tikTvd": "2952000561393",
-    "tikName": "ТИК №32"
+    "tikName": "ТИК №32",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 724,
     "uikTvd": "495403286464",
+    "uikName": "УИК №724",
     "tikTvd": "2952000561393",
-    "tikName": "ТИК №32"
+    "tikName": "ТИК №32",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 725,
     "uikTvd": "495403286465",
+    "uikName": "УИК №725",
     "tikTvd": "2952000561393",
-    "tikName": "ТИК №32"
+    "tikName": "ТИК №32",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 726,
     "uikTvd": "495403286466",
+    "uikName": "УИК №726",
     "tikTvd": "2952000561393",
-    "tikName": "ТИК №32"
+    "tikName": "ТИК №32",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 727,
     "uikTvd": "495403286467",
+    "uikName": "УИК №727",
     "tikTvd": "2952000561393",
-    "tikName": "ТИК №32"
+    "tikName": "ТИК №32",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 728,
     "uikTvd": "495403286468",
+    "uikName": "УИК №728",
     "tikTvd": "2952000561393",
-    "tikName": "ТИК №32"
+    "tikName": "ТИК №32",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 729,
     "uikTvd": "495403286469",
+    "uikName": "УИК №729",
     "tikTvd": "2952000561393",
-    "tikName": "ТИК №32"
+    "tikName": "ТИК №32",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 730,
     "uikTvd": "495403386741",
+    "uikName": "УИК №730",
     "tikTvd": "2952000561400",
-    "tikName": "ТИК №33"
+    "tikName": "ТИК №33",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 731,
     "uikTvd": "495403386742",
+    "uikName": "УИК №731",
     "tikTvd": "2952000561400",
-    "tikName": "ТИК №33"
+    "tikName": "ТИК №33",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 732,
     "uikTvd": "495403386743",
+    "uikName": "УИК №732",
     "tikTvd": "2952000561400",
-    "tikName": "ТИК №33"
+    "tikName": "ТИК №33",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 733,
     "uikTvd": "495403386744",
+    "uikName": "УИК №733",
     "tikTvd": "2952000561400",
-    "tikName": "ТИК №33"
+    "tikName": "ТИК №33",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 734,
     "uikTvd": "495403386745",
+    "uikName": "УИК №734",
     "tikTvd": "2952000561400",
-    "tikName": "ТИК №33"
+    "tikName": "ТИК №33",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 735,
     "uikTvd": "495403386746",
+    "uikName": "УИК №735",
     "tikTvd": "2952000561400",
-    "tikName": "ТИК №33"
+    "tikName": "ТИК №33",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 736,
     "uikTvd": "495403386747",
+    "uikName": "УИК №736",
     "tikTvd": "2952000561400",
-    "tikName": "ТИК №33"
+    "tikName": "ТИК №33",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 737,
     "uikTvd": "495403386748",
+    "uikName": "УИК №737",
     "tikTvd": "2952000561400",
-    "tikName": "ТИК №33"
+    "tikName": "ТИК №33",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 738,
     "uikTvd": "495403386749",
+    "uikName": "УИК №738",
     "tikTvd": "2952000561400",
-    "tikName": "ТИК №33"
+    "tikName": "ТИК №33",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 739,
     "uikTvd": "495403386750",
+    "uikName": "УИК №739",
     "tikTvd": "2952000561400",
-    "tikName": "ТИК №33"
+    "tikName": "ТИК №33",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 740,
     "uikTvd": "495403386751",
+    "uikName": "УИК №740",
     "tikTvd": "2952000561400",
-    "tikName": "ТИК №33"
+    "tikName": "ТИК №33",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 741,
     "uikTvd": "495403286470",
+    "uikName": "УИК №741",
     "tikTvd": "2952000561393",
-    "tikName": "ТИК №32"
+    "tikName": "ТИК №32",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 742,
     "uikTvd": "4954031102387",
+    "uikName": "УИК №742",
     "tikTvd": "2952000561387",
-    "tikName": "ТИК №31"
+    "tikName": "ТИК №31",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 743,
     "uikTvd": "495403099345",
+    "uikName": "УИК №743",
     "tikTvd": "2952000561379",
-    "tikName": "ТИК №30"
+    "tikName": "ТИК №30",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 744,
     "uikTvd": "495403287485",
+    "uikName": "УИК №744",
     "tikTvd": "2952000561393",
-    "tikName": "ТИК №32"
+    "tikName": "ТИК №32",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 786,
     "uikTvd": "495403491807",
+    "uikName": "УИК №786",
     "tikTvd": "2952000561406",
-    "tikName": "ТИК №34"
+    "tikName": "ТИК №34",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 787,
     "uikTvd": "495403491809",
+    "uikName": "УИК №787",
     "tikTvd": "2952000561406",
-    "tikName": "ТИК №34"
+    "tikName": "ТИК №34",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 788,
     "uikTvd": "495403491810",
+    "uikName": "УИК №788",
     "tikTvd": "2952000561406",
-    "tikName": "ТИК №34"
+    "tikName": "ТИК №34",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 789,
     "uikTvd": "495403491811",
+    "uikName": "УИК №789",
     "tikTvd": "2952000561406",
-    "tikName": "ТИК №34"
+    "tikName": "ТИК №34",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 790,
     "uikTvd": "495403491812",
+    "uikName": "УИК №790",
     "tikTvd": "2952000561406",
-    "tikName": "ТИК №34"
+    "tikName": "ТИК №34",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 791,
     "uikTvd": "495403491813",
+    "uikName": "УИК №791",
     "tikTvd": "2952000561406",
-    "tikName": "ТИК №34"
+    "tikName": "ТИК №34",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 792,
     "uikTvd": "495403491814",
+    "uikName": "УИК №792",
     "tikTvd": "2952000561406",
-    "tikName": "ТИК №34"
+    "tikName": "ТИК №34",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 793,
     "uikTvd": "495403491815",
+    "uikName": "УИК №793",
     "tikTvd": "2952000561406",
-    "tikName": "ТИК №34"
+    "tikName": "ТИК №34",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 794,
     "uikTvd": "495403491816",
+    "uikName": "УИК №794",
     "tikTvd": "2952000561406",
-    "tikName": "ТИК №34"
+    "tikName": "ТИК №34",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 795,
     "uikTvd": "495403491817",
+    "uikName": "УИК №795",
     "tikTvd": "2952000561406",
-    "tikName": "ТИК №34"
+    "tikName": "ТИК №34",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 796,
     "uikTvd": "495403491818",
+    "uikName": "УИК №796",
     "tikTvd": "2952000561406",
-    "tikName": "ТИК №34"
+    "tikName": "ТИК №34",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 797,
     "uikTvd": "495403491819",
+    "uikName": "УИК №797",
     "tikTvd": "2952000561406",
-    "tikName": "ТИК №34"
+    "tikName": "ТИК №34",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 798,
     "uikTvd": "495403491820",
+    "uikName": "УИК №798",
     "tikTvd": "2952000561406",
-    "tikName": "ТИК №34"
+    "tikName": "ТИК №34",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 799,
     "uikTvd": "495403491821",
+    "uikName": "УИК №799",
     "tikTvd": "2952000561406",
-    "tikName": "ТИК №34"
+    "tikName": "ТИК №34",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 800,
     "uikTvd": "495403491822",
+    "uikName": "УИК №800",
     "tikTvd": "2952000561406",
-    "tikName": "ТИК №34"
+    "tikName": "ТИК №34",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 801,
     "uikTvd": "495403491823",
+    "uikName": "УИК №801",
     "tikTvd": "2952000561406",
-    "tikName": "ТИК №34"
+    "tikName": "ТИК №34",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 802,
     "uikTvd": "495403491824",
+    "uikName": "УИК №802",
     "tikTvd": "2952000561406",
-    "tikName": "ТИК №34"
+    "tikName": "ТИК №34",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 803,
     "uikTvd": "495403496755",
+    "uikName": "УИК №803",
     "tikTvd": "2952000561406",
-    "tikName": "ТИК №34"
+    "tikName": "ТИК №34",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 823,
     "uikTvd": "495403594802",
+    "uikName": "УИК №823",
     "tikTvd": "2952000561407",
-    "tikName": "ТИК №35"
+    "tikName": "ТИК №35",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 824,
     "uikTvd": "495403594804",
+    "uikName": "УИК №824",
     "tikTvd": "2952000561407",
-    "tikName": "ТИК №35"
+    "tikName": "ТИК №35",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 825,
     "uikTvd": "495403594805",
+    "uikName": "УИК №825",
     "tikTvd": "2952000561407",
-    "tikName": "ТИК №35"
+    "tikName": "ТИК №35",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 826,
     "uikTvd": "495403594806",
+    "uikName": "УИК №826",
     "tikTvd": "2952000561407",
-    "tikName": "ТИК №35"
+    "tikName": "ТИК №35",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 827,
     "uikTvd": "495403594807",
+    "uikName": "УИК №827",
     "tikTvd": "2952000561407",
-    "tikName": "ТИК №35"
+    "tikName": "ТИК №35",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 828,
     "uikTvd": "495403594808",
+    "uikName": "УИК №828",
     "tikTvd": "2952000561407",
-    "tikName": "ТИК №35"
+    "tikName": "ТИК №35",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 829,
     "uikTvd": "495403594809",
+    "uikName": "УИК №829",
     "tikTvd": "2952000561407",
-    "tikName": "ТИК №35"
+    "tikName": "ТИК №35",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 830,
     "uikTvd": "495403594810",
+    "uikName": "УИК №830",
     "tikTvd": "2952000561407",
-    "tikName": "ТИК №35"
+    "tikName": "ТИК №35",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 831,
     "uikTvd": "495403594811",
+    "uikName": "УИК №831",
     "tikTvd": "2952000561407",
-    "tikName": "ТИК №35"
+    "tikName": "ТИК №35",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 832,
     "uikTvd": "495403594812",
+    "uikName": "УИК №832",
     "tikTvd": "2952000561407",
-    "tikName": "ТИК №35"
+    "tikName": "ТИК №35",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 833,
     "uikTvd": "495403594813",
+    "uikName": "УИК №833",
     "tikTvd": "2952000561407",
-    "tikName": "ТИК №35"
+    "tikName": "ТИК №35",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 834,
     "uikTvd": "495403594814",
+    "uikName": "УИК №834",
     "tikTvd": "2952000561407",
-    "tikName": "ТИК №35"
+    "tikName": "ТИК №35",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 835,
     "uikTvd": "495403594815",
+    "uikName": "УИК №835",
     "tikTvd": "2952000561407",
-    "tikName": "ТИК №35"
+    "tikName": "ТИК №35",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 836,
     "uikTvd": "495403594816",
+    "uikName": "УИК №836",
     "tikTvd": "2952000561407",
-    "tikName": "ТИК №35"
+    "tikName": "ТИК №35",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 837,
     "uikTvd": "495403594817",
+    "uikName": "УИК №837",
     "tikTvd": "2952000561407",
-    "tikName": "ТИК №35"
+    "tikName": "ТИК №35",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 838,
     "uikTvd": "495403594818",
+    "uikName": "УИК №838",
     "tikTvd": "2952000561407",
-    "tikName": "ТИК №35"
+    "tikName": "ТИК №35",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 839,
     "uikTvd": "495403594819",
+    "uikName": "УИК №839",
     "tikTvd": "2952000561407",
-    "tikName": "ТИК №35"
+    "tikName": "ТИК №35",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 840,
     "uikTvd": "4954035101359",
+    "uikName": "УИК №840",
     "tikTvd": "2952000561407",
-    "tikName": "ТИК №35"
+    "tikName": "ТИК №35",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 860,
     "uikTvd": "495403698334",
+    "uikName": "УИК №860",
     "tikTvd": "2952000561389",
-    "tikName": "ТИК №36"
+    "tikName": "ТИК №36",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 861,
     "uikTvd": "495403698335",
+    "uikName": "УИК №861",
     "tikTvd": "2952000561389",
-    "tikName": "ТИК №36"
+    "tikName": "ТИК №36",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 862,
     "uikTvd": "495403698336",
+    "uikName": "УИК №862",
     "tikTvd": "2952000561389",
-    "tikName": "ТИК №36"
+    "tikName": "ТИК №36",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 863,
     "uikTvd": "495403698337",
+    "uikName": "УИК №863",
     "tikTvd": "2952000561389",
-    "tikName": "ТИК №36"
+    "tikName": "ТИК №36",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 864,
     "uikTvd": "495403698338",
+    "uikName": "УИК №864",
     "tikTvd": "2952000561389",
-    "tikName": "ТИК №36"
+    "tikName": "ТИК №36",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 865,
     "uikTvd": "495403698686",
+    "uikName": "УИК №865",
     "tikTvd": "2952000561389",
-    "tikName": "ТИК №36"
+    "tikName": "ТИК №36",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 866,
     "uikTvd": "495403698687",
+    "uikName": "УИК №866",
     "tikTvd": "2952000561389",
-    "tikName": "ТИК №36"
+    "tikName": "ТИК №36",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 867,
     "uikTvd": "495403698341",
+    "uikName": "УИК №867",
     "tikTvd": "2952000561389",
-    "tikName": "ТИК №36"
+    "tikName": "ТИК №36",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 868,
     "uikTvd": "495403698342",
+    "uikName": "УИК №868",
     "tikTvd": "2952000561389",
-    "tikName": "ТИК №36"
+    "tikName": "ТИК №36",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 869,
     "uikTvd": "495403698343",
+    "uikName": "УИК №869",
     "tikTvd": "2952000561389",
-    "tikName": "ТИК №36"
+    "tikName": "ТИК №36",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 870,
     "uikTvd": "495403698344",
+    "uikName": "УИК №870",
     "tikTvd": "2952000561389",
-    "tikName": "ТИК №36"
+    "tikName": "ТИК №36",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 871,
     "uikTvd": "495403698345",
+    "uikName": "УИК №871",
     "tikTvd": "2952000561389",
-    "tikName": "ТИК №36"
+    "tikName": "ТИК №36",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 872,
     "uikTvd": "495403698346",
+    "uikName": "УИК №872",
     "tikTvd": "2952000561389",
-    "tikName": "ТИК №36"
+    "tikName": "ТИК №36",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 873,
     "uikTvd": "495403698347",
+    "uikName": "УИК №873",
     "tikTvd": "2952000561389",
-    "tikName": "ТИК №36"
+    "tikName": "ТИК №36",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 874,
     "uikTvd": "495403698348",
+    "uikName": "УИК №874",
     "tikTvd": "2952000561389",
-    "tikName": "ТИК №36"
+    "tikName": "ТИК №36",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 875,
     "uikTvd": "495403698688",
+    "uikName": "УИК №875",
     "tikTvd": "2952000561389",
-    "tikName": "ТИК №36"
+    "tikName": "ТИК №36",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 876,
     "uikTvd": "495403698350",
+    "uikName": "УИК №876",
     "tikTvd": "2952000561389",
-    "tikName": "ТИК №36"
+    "tikName": "ТИК №36",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 877,
     "uikTvd": "495403698351",
+    "uikName": "УИК №877",
     "tikTvd": "2952000561389",
-    "tikName": "ТИК №36"
+    "tikName": "ТИК №36",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 878,
     "uikTvd": "495403698352",
+    "uikName": "УИК №878",
     "tikTvd": "2952000561389",
-    "tikName": "ТИК №36"
+    "tikName": "ТИК №36",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 879,
     "uikTvd": "495403698353",
+    "uikName": "УИК №879",
     "tikTvd": "2952000561389",
-    "tikName": "ТИК №36"
+    "tikName": "ТИК №36",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 880,
     "uikTvd": "495403698354",
+    "uikName": "УИК №880",
     "tikTvd": "2952000561389",
-    "tikName": "ТИК №36"
+    "tikName": "ТИК №36",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 881,
     "uikTvd": "495403698355",
+    "uikName": "УИК №881",
     "tikTvd": "2952000561389",
-    "tikName": "ТИК №36"
+    "tikName": "ТИК №36",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 882,
     "uikTvd": "495403698356",
+    "uikName": "УИК №882",
     "tikTvd": "2952000561389",
-    "tikName": "ТИК №36"
+    "tikName": "ТИК №36",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 883,
     "uikTvd": "495403698357",
+    "uikName": "УИК №883",
     "tikTvd": "2952000561389",
-    "tikName": "ТИК №36"
+    "tikName": "ТИК №36",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 884,
     "uikTvd": "495403698358",
+    "uikName": "УИК №884",
     "tikTvd": "2952000561389",
-    "tikName": "ТИК №36"
+    "tikName": "ТИК №36",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 885,
     "uikTvd": "495403698359",
+    "uikName": "УИК №885",
     "tikTvd": "2952000561389",
-    "tikName": "ТИК №36"
+    "tikName": "ТИК №36",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 886,
     "uikTvd": "495403698360",
+    "uikName": "УИК №886",
     "tikTvd": "2952000561389",
-    "tikName": "ТИК №36"
+    "tikName": "ТИК №36",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 887,
     "uikTvd": "4954036101718",
+    "uikName": "УИК №887",
     "tikTvd": "2952000561389",
-    "tikName": "ТИК №36"
+    "tikName": "ТИК №36",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 888,
     "uikTvd": "4954036101719",
+    "uikName": "УИК №888",
     "tikTvd": "2952000561389",
-    "tikName": "ТИК №36"
+    "tikName": "ТИК №36",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 910,
     "uikTvd": "495400190303",
+    "uikName": "УИК №910",
     "tikTvd": "2952000561383",
-    "tikName": "ТИК №1"
+    "tikName": "ТИК №1",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 911,
     "uikTvd": "495400190304",
+    "uikName": "УИК №911",
     "tikTvd": "2952000561383",
-    "tikName": "ТИК №1"
+    "tikName": "ТИК №1",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 912,
     "uikTvd": "495400190305",
+    "uikName": "УИК №912",
     "tikTvd": "2952000561383",
-    "tikName": "ТИК №1"
+    "tikName": "ТИК №1",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 913,
     "uikTvd": "495400190306",
+    "uikName": "УИК №913",
     "tikTvd": "2952000561383",
-    "tikName": "ТИК №1"
+    "tikName": "ТИК №1",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 914,
     "uikTvd": "495400190307",
+    "uikName": "УИК №914",
     "tikTvd": "2952000561383",
-    "tikName": "ТИК №1"
+    "tikName": "ТИК №1",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 915,
     "uikTvd": "495400190308",
+    "uikName": "УИК №915",
     "tikTvd": "2952000561383",
-    "tikName": "ТИК №1"
+    "tikName": "ТИК №1",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 916,
     "uikTvd": "495400190309",
+    "uikName": "УИК №916",
     "tikTvd": "2952000561383",
-    "tikName": "ТИК №1"
+    "tikName": "ТИК №1",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 917,
     "uikTvd": "495400190310",
+    "uikName": "УИК №917",
     "tikTvd": "2952000561383",
-    "tikName": "ТИК №1"
+    "tikName": "ТИК №1",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 918,
     "uikTvd": "495400190311",
+    "uikName": "УИК №918",
     "tikTvd": "2952000561383",
-    "tikName": "ТИК №1"
+    "tikName": "ТИК №1",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 919,
     "uikTvd": "495400190312",
+    "uikName": "УИК №919",
     "tikTvd": "2952000561383",
-    "tikName": "ТИК №1"
+    "tikName": "ТИК №1",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 920,
     "uikTvd": "495400190313",
+    "uikName": "УИК №920",
     "tikTvd": "2952000561383",
-    "tikName": "ТИК №1"
+    "tikName": "ТИК №1",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 921,
     "uikTvd": "495400190314",
+    "uikName": "УИК №921",
     "tikTvd": "2952000561383",
-    "tikName": "ТИК №1"
+    "tikName": "ТИК №1",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 922,
     "uikTvd": "495400193054",
+    "uikName": "УИК №922",
     "tikTvd": "2952000561383",
-    "tikName": "ТИК №1"
+    "tikName": "ТИК №1",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 937,
     "uikTvd": "2952000566365",
+    "uikName": "УИК №937",
     "tikTvd": "2952000561385",
-    "tikName": "ТИК №2"
+    "tikName": "ТИК №2",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 938,
     "uikTvd": "2952000566366",
+    "uikName": "УИК №938",
     "tikTvd": "2952000561385",
-    "tikName": "ТИК №2"
+    "tikName": "ТИК №2",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 939,
     "uikTvd": "2952000566367",
+    "uikName": "УИК №939",
     "tikTvd": "2952000561385",
-    "tikName": "ТИК №2"
+    "tikName": "ТИК №2",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 940,
     "uikTvd": "2952000566368",
+    "uikName": "УИК №940",
     "tikTvd": "2952000561385",
-    "tikName": "ТИК №2"
+    "tikName": "ТИК №2",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 941,
     "uikTvd": "2952000566369",
+    "uikName": "УИК №941",
     "tikTvd": "2952000561385",
-    "tikName": "ТИК №2"
+    "tikName": "ТИК №2",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 942,
     "uikTvd": "2952000566370",
+    "uikName": "УИК №942",
     "tikTvd": "2952000561385",
-    "tikName": "ТИК №2"
+    "tikName": "ТИК №2",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 943,
     "uikTvd": "2952000566371",
+    "uikName": "УИК №943",
     "tikTvd": "2952000561385",
-    "tikName": "ТИК №2"
+    "tikName": "ТИК №2",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 944,
     "uikTvd": "2952000566372",
+    "uikName": "УИК №944",
     "tikTvd": "2952000561385",
-    "tikName": "ТИК №2"
+    "tikName": "ТИК №2",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 945,
     "uikTvd": "2952000566373",
+    "uikName": "УИК №945",
     "tikTvd": "2952000561385",
-    "tikName": "ТИК №2"
+    "tikName": "ТИК №2",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 946,
     "uikTvd": "2952000566374",
+    "uikName": "УИК №946",
     "tikTvd": "2952000561385",
-    "tikName": "ТИК №2"
+    "tikName": "ТИК №2",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 947,
     "uikTvd": "2952000566375",
+    "uikName": "УИК №947",
     "tikTvd": "2952000561385",
-    "tikName": "ТИК №2"
+    "tikName": "ТИК №2",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 948,
     "uikTvd": "2952000566376",
+    "uikName": "УИК №948",
     "tikTvd": "2952000561385",
-    "tikName": "ТИК №2"
+    "tikName": "ТИК №2",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 949,
     "uikTvd": "2952000566377",
+    "uikName": "УИК №949",
     "tikTvd": "2952000561385",
-    "tikName": "ТИК №2"
+    "tikName": "ТИК №2",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 950,
     "uikTvd": "2952000566378",
+    "uikName": "УИК №950",
     "tikTvd": "2952000561385",
-    "tikName": "ТИК №2"
+    "tikName": "ТИК №2",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 974,
     "uikTvd": "495400391486",
+    "uikName": "УИК №974",
     "tikTvd": "2952000561374",
-    "tikName": "ТИК №3"
+    "tikName": "ТИК №3",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 975,
     "uikTvd": "495400391487",
+    "uikName": "УИК №975",
     "tikTvd": "2952000561374",
-    "tikName": "ТИК №3"
+    "tikName": "ТИК №3",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 976,
     "uikTvd": "495400391488",
+    "uikName": "УИК №976",
     "tikTvd": "2952000561374",
-    "tikName": "ТИК №3"
+    "tikName": "ТИК №3",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 977,
     "uikTvd": "495400391489",
+    "uikName": "УИК №977",
     "tikTvd": "2952000561374",
-    "tikName": "ТИК №3"
+    "tikName": "ТИК №3",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 978,
     "uikTvd": "495400391490",
+    "uikName": "УИК №978",
     "tikTvd": "2952000561374",
-    "tikName": "ТИК №3"
+    "tikName": "ТИК №3",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 979,
     "uikTvd": "495400391491",
+    "uikName": "УИК №979",
     "tikTvd": "2952000561374",
-    "tikName": "ТИК №3"
+    "tikName": "ТИК №3",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 980,
     "uikTvd": "495400391492",
+    "uikName": "УИК №980",
     "tikTvd": "2952000561374",
-    "tikName": "ТИК №3"
+    "tikName": "ТИК №3",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 981,
     "uikTvd": "495400391493",
+    "uikName": "УИК №981",
     "tikTvd": "2952000561374",
-    "tikName": "ТИК №3"
+    "tikName": "ТИК №3",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 982,
     "uikTvd": "495400391494",
+    "uikName": "УИК №982",
     "tikTvd": "2952000561374",
-    "tikName": "ТИК №3"
+    "tikName": "ТИК №3",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 983,
     "uikTvd": "495400391495",
+    "uikName": "УИК №983",
     "tikTvd": "2952000561374",
-    "tikName": "ТИК №3"
+    "tikName": "ТИК №3",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 984,
     "uikTvd": "495400391496",
+    "uikName": "УИК №984",
     "tikTvd": "2952000561374",
-    "tikName": "ТИК №3"
+    "tikName": "ТИК №3",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 1001,
     "uikTvd": "495400591800",
+    "uikName": "УИК №1001",
     "tikTvd": "2952000561388",
-    "tikName": "ТИК №5"
+    "tikName": "ТИК №5",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 1002,
     "uikTvd": "495400591801",
+    "uikName": "УИК №1002",
     "tikTvd": "2952000561388",
-    "tikName": "ТИК №5"
+    "tikName": "ТИК №5",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 1003,
     "uikTvd": "495400591802",
+    "uikName": "УИК №1003",
     "tikTvd": "2952000561388",
-    "tikName": "ТИК №5"
+    "tikName": "ТИК №5",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 1004,
     "uikTvd": "495400591803",
+    "uikName": "УИК №1004",
     "tikTvd": "2952000561388",
-    "tikName": "ТИК №5"
+    "tikName": "ТИК №5",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 1005,
     "uikTvd": "495400591804",
+    "uikName": "УИК №1005",
     "tikTvd": "2952000561388",
-    "tikName": "ТИК №5"
+    "tikName": "ТИК №5",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 1006,
     "uikTvd": "495400591805",
+    "uikName": "УИК №1006",
     "tikTvd": "2952000561388",
-    "tikName": "ТИК №5"
+    "tikName": "ТИК №5",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 1007,
     "uikTvd": "495400591806",
+    "uikName": "УИК №1007",
     "tikTvd": "2952000561388",
-    "tikName": "ТИК №5"
+    "tikName": "ТИК №5",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 1008,
     "uikTvd": "495400591807",
+    "uikName": "УИК №1008",
     "tikTvd": "2952000561388",
-    "tikName": "ТИК №5"
+    "tikName": "ТИК №5",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 1009,
     "uikTvd": "495400591808",
+    "uikName": "УИК №1009",
     "tikTvd": "2952000561388",
-    "tikName": "ТИК №5"
+    "tikName": "ТИК №5",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 1010,
     "uikTvd": "495400591809",
+    "uikName": "УИК №1010",
     "tikTvd": "2952000561388",
-    "tikName": "ТИК №5"
+    "tikName": "ТИК №5",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 1011,
     "uikTvd": "495400591810",
+    "uikName": "УИК №1011",
     "tikTvd": "2952000561388",
-    "tikName": "ТИК №5"
+    "tikName": "ТИК №5",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 1012,
     "uikTvd": "495400591811",
+    "uikName": "УИК №1012",
     "tikTvd": "2952000561388",
-    "tikName": "ТИК №5"
+    "tikName": "ТИК №5",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 1013,
     "uikTvd": "495400591812",
+    "uikName": "УИК №1013",
     "tikTvd": "2952000561388",
-    "tikName": "ТИК №5"
+    "tikName": "ТИК №5",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 1014,
     "uikTvd": "495400591813",
+    "uikName": "УИК №1014",
     "tikTvd": "2952000561388",
-    "tikName": "ТИК №5"
+    "tikName": "ТИК №5",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 1015,
     "uikTvd": "495400591814",
+    "uikName": "УИК №1015",
     "tikTvd": "2952000561388",
-    "tikName": "ТИК №5"
+    "tikName": "ТИК №5",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 1016,
     "uikTvd": "495400596838",
+    "uikName": "УИК №1016",
     "tikTvd": "2952000561388",
-    "tikName": "ТИК №5"
+    "tikName": "ТИК №5",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 1017,
     "uikTvd": "495400596839",
+    "uikName": "УИК №1017",
     "tikTvd": "2952000561388",
-    "tikName": "ТИК №5"
+    "tikName": "ТИК №5",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 1038,
     "uikTvd": "495400687690",
+    "uikName": "УИК №1038",
     "tikTvd": "2952000561404",
-    "tikName": "ТИК №6"
+    "tikName": "ТИК №6",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 1039,
     "uikTvd": "495400687691",
+    "uikName": "УИК №1039",
     "tikTvd": "2952000561404",
-    "tikName": "ТИК №6"
+    "tikName": "ТИК №6",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 1040,
     "uikTvd": "495400687692",
+    "uikName": "УИК №1040",
     "tikTvd": "2952000561404",
-    "tikName": "ТИК №6"
+    "tikName": "ТИК №6",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 1041,
     "uikTvd": "495400687693",
+    "uikName": "УИК №1041",
     "tikTvd": "2952000561404",
-    "tikName": "ТИК №6"
+    "tikName": "ТИК №6",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 1042,
     "uikTvd": "495400687694",
+    "uikName": "УИК №1042",
     "tikTvd": "2952000561404",
-    "tikName": "ТИК №6"
+    "tikName": "ТИК №6",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 1043,
     "uikTvd": "495400687695",
+    "uikName": "УИК №1043",
     "tikTvd": "2952000561404",
-    "tikName": "ТИК №6"
+    "tikName": "ТИК №6",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 1044,
     "uikTvd": "495400687696",
+    "uikName": "УИК №1044",
     "tikTvd": "2952000561404",
-    "tikName": "ТИК №6"
+    "tikName": "ТИК №6",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 1045,
     "uikTvd": "495400687697",
+    "uikName": "УИК №1045",
     "tikTvd": "2952000561404",
-    "tikName": "ТИК №6"
+    "tikName": "ТИК №6",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 1046,
     "uikTvd": "495400687698",
+    "uikName": "УИК №1046",
     "tikTvd": "2952000561404",
-    "tikName": "ТИК №6"
+    "tikName": "ТИК №6",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 1047,
     "uikTvd": "495400687699",
+    "uikName": "УИК №1047",
     "tikTvd": "2952000561404",
-    "tikName": "ТИК №6"
+    "tikName": "ТИК №6",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 1063,
     "uikTvd": "4954007109566",
+    "uikName": "УИК №1063",
     "tikTvd": "2952000561395",
-    "tikName": "ТИК №7"
+    "tikName": "ТИК №7",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 1064,
     "uikTvd": "4954007109567",
+    "uikName": "УИК №1064",
     "tikTvd": "2952000561395",
-    "tikName": "ТИК №7"
+    "tikName": "ТИК №7",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 1065,
     "uikTvd": "4954007109568",
+    "uikName": "УИК №1065",
     "tikTvd": "2952000561395",
-    "tikName": "ТИК №7"
+    "tikName": "ТИК №7",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 1066,
     "uikTvd": "4954007109569",
+    "uikName": "УИК №1066",
     "tikTvd": "2952000561395",
-    "tikName": "ТИК №7"
+    "tikName": "ТИК №7",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 1067,
     "uikTvd": "4954007109570",
+    "uikName": "УИК №1067",
     "tikTvd": "2952000561395",
-    "tikName": "ТИК №7"
+    "tikName": "ТИК №7",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 1068,
     "uikTvd": "4954007109571",
+    "uikName": "УИК №1068",
     "tikTvd": "2952000561395",
-    "tikName": "ТИК №7"
+    "tikName": "ТИК №7",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 1069,
     "uikTvd": "4954007109572",
+    "uikName": "УИК №1069",
     "tikTvd": "2952000561395",
-    "tikName": "ТИК №7"
+    "tikName": "ТИК №7",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 1070,
     "uikTvd": "4954007109573",
+    "uikName": "УИК №1070",
     "tikTvd": "2952000561395",
-    "tikName": "ТИК №7"
+    "tikName": "ТИК №7",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 1071,
     "uikTvd": "4954007109574",
+    "uikName": "УИК №1071",
     "tikTvd": "2952000561395",
-    "tikName": "ТИК №7"
+    "tikName": "ТИК №7",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 1072,
     "uikTvd": "4954007109575",
+    "uikName": "УИК №1072",
     "tikTvd": "2952000561395",
-    "tikName": "ТИК №7"
+    "tikName": "ТИК №7",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 1073,
     "uikTvd": "4954007109576",
+    "uikName": "УИК №1073",
     "tikTvd": "2952000561395",
-    "tikName": "ТИК №7"
+    "tikName": "ТИК №7",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 1074,
     "uikTvd": "4954007109577",
+    "uikName": "УИК №1074",
     "tikTvd": "2952000561395",
-    "tikName": "ТИК №7"
+    "tikName": "ТИК №7",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 1075,
     "uikTvd": "4954007109578",
+    "uikName": "УИК №1075",
     "tikTvd": "2952000561395",
-    "tikName": "ТИК №7"
+    "tikName": "ТИК №7",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 1076,
     "uikTvd": "4954007109579",
+    "uikName": "УИК №1076",
     "tikTvd": "2952000561395",
-    "tikName": "ТИК №7"
+    "tikName": "ТИК №7",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 1077,
     "uikTvd": "4954007109580",
+    "uikName": "УИК №1077",
     "tikTvd": "2952000561395",
-    "tikName": "ТИК №7"
+    "tikName": "ТИК №7",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 1078,
     "uikTvd": "4954007114054",
+    "uikName": "УИК №1078",
     "tikTvd": "2952000561395",
-    "tikName": "ТИК №7"
+    "tikName": "ТИК №7",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 1079,
     "uikTvd": "4954007114055",
+    "uikName": "УИК №1079",
     "tikTvd": "2952000561395",
-    "tikName": "ТИК №7"
+    "tikName": "ТИК №7",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 1080,
     "uikTvd": "4954007114056",
+    "uikName": "УИК №1080",
     "tikTvd": "2952000561395",
-    "tikName": "ТИК №7"
+    "tikName": "ТИК №7",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 1090,
     "uikTvd": "495400891116",
+    "uikName": "УИК №1090",
     "tikTvd": "2952000561390",
-    "tikName": "ТИК №8"
+    "tikName": "ТИК №8",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 1091,
     "uikTvd": "495400891117",
+    "uikName": "УИК №1091",
     "tikTvd": "2952000561390",
-    "tikName": "ТИК №8"
+    "tikName": "ТИК №8",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 1092,
     "uikTvd": "495400891118",
+    "uikName": "УИК №1092",
     "tikTvd": "2952000561390",
-    "tikName": "ТИК №8"
+    "tikName": "ТИК №8",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 1093,
     "uikTvd": "495400891119",
+    "uikName": "УИК №1093",
     "tikTvd": "2952000561390",
-    "tikName": "ТИК №8"
+    "tikName": "ТИК №8",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 1094,
     "uikTvd": "495400891120",
+    "uikName": "УИК №1094",
     "tikTvd": "2952000561390",
-    "tikName": "ТИК №8"
+    "tikName": "ТИК №8",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 1095,
     "uikTvd": "495400891121",
+    "uikName": "УИК №1095",
     "tikTvd": "2952000561390",
-    "tikName": "ТИК №8"
+    "tikName": "ТИК №8",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 1096,
     "uikTvd": "495400891122",
+    "uikName": "УИК №1096",
     "tikTvd": "2952000561390",
-    "tikName": "ТИК №8"
+    "tikName": "ТИК №8",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 1097,
     "uikTvd": "495400891123",
+    "uikName": "УИК №1097",
     "tikTvd": "2952000561390",
-    "tikName": "ТИК №8"
+    "tikName": "ТИК №8",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 1098,
     "uikTvd": "495400891124",
+    "uikName": "УИК №1098",
     "tikTvd": "2952000561390",
-    "tikName": "ТИК №8"
+    "tikName": "ТИК №8",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 1099,
     "uikTvd": "495400891125",
+    "uikName": "УИК №1099",
     "tikTvd": "2952000561390",
-    "tikName": "ТИК №8"
+    "tikName": "ТИК №8",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 1100,
     "uikTvd": "495400891126",
+    "uikName": "УИК №1100",
     "tikTvd": "2952000561390",
-    "tikName": "ТИК №8"
+    "tikName": "ТИК №8",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 1101,
     "uikTvd": "495400891127",
+    "uikName": "УИК №1101",
     "tikTvd": "2952000561390",
-    "tikName": "ТИК №8"
+    "tikName": "ТИК №8",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 1128,
     "uikTvd": "495400995652",
+    "uikName": "УИК №1128",
     "tikTvd": "2952000561398",
-    "tikName": "ТИК №9"
+    "tikName": "ТИК №9",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 1129,
     "uikTvd": "495400995653",
+    "uikName": "УИК №1129",
     "tikTvd": "2952000561398",
-    "tikName": "ТИК №9"
+    "tikName": "ТИК №9",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 1130,
     "uikTvd": "495400995654",
+    "uikName": "УИК №1130",
     "tikTvd": "2952000561398",
-    "tikName": "ТИК №9"
+    "tikName": "ТИК №9",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 1131,
     "uikTvd": "495400995655",
+    "uikName": "УИК №1131",
     "tikTvd": "2952000561398",
-    "tikName": "ТИК №9"
+    "tikName": "ТИК №9",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 1132,
     "uikTvd": "495400995656",
+    "uikName": "УИК №1132",
     "tikTvd": "2952000561398",
-    "tikName": "ТИК №9"
+    "tikName": "ТИК №9",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 1133,
     "uikTvd": "495400995657",
+    "uikName": "УИК №1133",
     "tikTvd": "2952000561398",
-    "tikName": "ТИК №9"
+    "tikName": "ТИК №9",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 1134,
     "uikTvd": "495400995658",
+    "uikName": "УИК №1134",
     "tikTvd": "2952000561398",
-    "tikName": "ТИК №9"
+    "tikName": "ТИК №9",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 1135,
     "uikTvd": "495400995659",
+    "uikName": "УИК №1135",
     "tikTvd": "2952000561398",
-    "tikName": "ТИК №9"
+    "tikName": "ТИК №9",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 1136,
     "uikTvd": "495400995660",
+    "uikName": "УИК №1136",
     "tikTvd": "2952000561398",
-    "tikName": "ТИК №9"
+    "tikName": "ТИК №9",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 1137,
     "uikTvd": "495400995661",
+    "uikName": "УИК №1137",
     "tikTvd": "2952000561398",
-    "tikName": "ТИК №9"
+    "tikName": "ТИК №9",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 1138,
     "uikTvd": "495400995662",
+    "uikName": "УИК №1138",
     "tikTvd": "2952000561398",
-    "tikName": "ТИК №9"
+    "tikName": "ТИК №9",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 1139,
     "uikTvd": "495400995663",
+    "uikName": "УИК №1139",
     "tikTvd": "2952000561398",
-    "tikName": "ТИК №9"
+    "tikName": "ТИК №9",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 1140,
     "uikTvd": "495400995664",
+    "uikName": "УИК №1140",
     "tikTvd": "2952000561398",
-    "tikName": "ТИК №9"
+    "tikName": "ТИК №9",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 1141,
     "uikTvd": "495400995665",
+    "uikName": "УИК №1141",
     "tikTvd": "2952000561398",
-    "tikName": "ТИК №9"
+    "tikName": "ТИК №9",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 1142,
     "uikTvd": "495400995666",
+    "uikName": "УИК №1142",
     "tikTvd": "2952000561398",
-    "tikName": "ТИК №9"
+    "tikName": "ТИК №9",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 1143,
     "uikTvd": "495400995667",
+    "uikName": "УИК №1143",
     "tikTvd": "2952000561398",
-    "tikName": "ТИК №9"
+    "tikName": "ТИК №9",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 1144,
     "uikTvd": "495400995668",
+    "uikName": "УИК №1144",
     "tikTvd": "2952000561398",
-    "tikName": "ТИК №9"
+    "tikName": "ТИК №9",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 1145,
     "uikTvd": "495400995669",
+    "uikName": "УИК №1145",
     "tikTvd": "2952000561398",
-    "tikName": "ТИК №9"
+    "tikName": "ТИК №9",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 1146,
     "uikTvd": "495400995670",
+    "uikName": "УИК №1146",
     "tikTvd": "2952000561398",
-    "tikName": "ТИК №9"
+    "tikName": "ТИК №9",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 1147,
     "uikTvd": "495400995671",
+    "uikName": "УИК №1147",
     "tikTvd": "2952000561398",
-    "tikName": "ТИК №9"
+    "tikName": "ТИК №9",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 1148,
     "uikTvd": "495400995672",
+    "uikName": "УИК №1148",
     "tikTvd": "2952000561398",
-    "tikName": "ТИК №9"
+    "tikName": "ТИК №9",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 1149,
     "uikTvd": "495400995673",
+    "uikName": "УИК №1149",
     "tikTvd": "2952000561398",
-    "tikName": "ТИК №9"
+    "tikName": "ТИК №9",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 1150,
     "uikTvd": "495400995674",
+    "uikName": "УИК №1150",
     "tikTvd": "2952000561398",
-    "tikName": "ТИК №9"
+    "tikName": "ТИК №9",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 1151,
     "uikTvd": "495400995675",
+    "uikName": "УИК №1151",
     "tikTvd": "2952000561398",
-    "tikName": "ТИК №9"
+    "tikName": "ТИК №9",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 1152,
     "uikTvd": "495400995676",
+    "uikName": "УИК №1152",
     "tikTvd": "2952000561398",
-    "tikName": "ТИК №9"
+    "tikName": "ТИК №9",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 1153,
     "uikTvd": "495400995677",
+    "uikName": "УИК №1153",
     "tikTvd": "2952000561398",
-    "tikName": "ТИК №9"
+    "tikName": "ТИК №9",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 1154,
     "uikTvd": "495400995678",
+    "uikName": "УИК №1154",
     "tikTvd": "2952000561398",
-    "tikName": "ТИК №9"
+    "tikName": "ТИК №9",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 1155,
     "uikTvd": "495400995679",
+    "uikName": "УИК №1155",
     "tikTvd": "2952000561398",
-    "tikName": "ТИК №9"
+    "tikName": "ТИК №9",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 1156,
     "uikTvd": "495400995680",
+    "uikName": "УИК №1156",
     "tikTvd": "2952000561398",
-    "tikName": "ТИК №9"
+    "tikName": "ТИК №9",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 1157,
     "uikTvd": "495400995681",
+    "uikName": "УИК №1157",
     "tikTvd": "2952000561398",
-    "tikName": "ТИК №9"
+    "tikName": "ТИК №9",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 1158,
     "uikTvd": "495400995682",
+    "uikName": "УИК №1158",
     "tikTvd": "2952000561398",
-    "tikName": "ТИК №9"
+    "tikName": "ТИК №9",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 1159,
     "uikTvd": "495400995683",
+    "uikName": "УИК №1159",
     "tikTvd": "2952000561398",
-    "tikName": "ТИК №9"
+    "tikName": "ТИК №9",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 1160,
     "uikTvd": "495400995684",
+    "uikName": "УИК №1160",
     "tikTvd": "2952000561398",
-    "tikName": "ТИК №9"
+    "tikName": "ТИК №9",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 1161,
     "uikTvd": "495400995685",
+    "uikName": "УИК №1161",
     "tikTvd": "2952000561398",
-    "tikName": "ТИК №9"
+    "tikName": "ТИК №9",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 1162,
     "uikTvd": "495400998947",
+    "uikName": "УИК №1162",
     "tikTvd": "2952000561398",
-    "tikName": "ТИК №9"
+    "tikName": "ТИК №9",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 1177,
     "uikTvd": "495401091848",
+    "uikName": "УИК №1177",
     "tikTvd": "2952000561377",
-    "tikName": "ТИК №10"
+    "tikName": "ТИК №10",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 1178,
     "uikTvd": "495401091849",
+    "uikName": "УИК №1178",
     "tikTvd": "2952000561377",
-    "tikName": "ТИК №10"
+    "tikName": "ТИК №10",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 1179,
     "uikTvd": "495401091850",
+    "uikName": "УИК №1179",
     "tikTvd": "2952000561377",
-    "tikName": "ТИК №10"
+    "tikName": "ТИК №10",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 1180,
     "uikTvd": "495401091851",
+    "uikName": "УИК №1180",
     "tikTvd": "2952000561377",
-    "tikName": "ТИК №10"
+    "tikName": "ТИК №10",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 1181,
     "uikTvd": "495401091852",
+    "uikName": "УИК №1181",
     "tikTvd": "2952000561377",
-    "tikName": "ТИК №10"
+    "tikName": "ТИК №10",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 1182,
     "uikTvd": "495401091853",
+    "uikName": "УИК №1182",
     "tikTvd": "2952000561377",
-    "tikName": "ТИК №10"
+    "tikName": "ТИК №10",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 1183,
     "uikTvd": "495401091854",
+    "uikName": "УИК №1183",
     "tikTvd": "2952000561377",
-    "tikName": "ТИК №10"
+    "tikName": "ТИК №10",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 1184,
     "uikTvd": "495401091855",
+    "uikName": "УИК №1184",
     "tikTvd": "2952000561377",
-    "tikName": "ТИК №10"
+    "tikName": "ТИК №10",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 1185,
     "uikTvd": "495401096303",
+    "uikName": "УИК №1185",
     "tikTvd": "2952000561377",
-    "tikName": "ТИК №10"
+    "tikName": "ТИК №10",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   },
   {
     "uikNumber": 1192,
     "uikTvd": "495400490004",
+    "uikName": "УИК №1192",
     "tikTvd": "2952000561380",
-    "tikName": "ТИК №4"
+    "tikName": "ТИК №4",
+    "regionCode": "95",
+    "regionTvd": "100100339411280",
+    "regionName": "Донецкая Народная Республика",
+    "district": null
   }
 ] satisfies readonly UikTikRelation[];

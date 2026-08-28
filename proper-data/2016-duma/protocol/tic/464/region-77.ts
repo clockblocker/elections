@@ -11,6 +11,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659684",
     "tikName": "Ярославский район",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100067796114",
+      "oikName": "Город Москва – Бабушкинский"
+    },
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 54030,
@@ -88,6 +96,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659685",
     "tikName": "район Свиблово",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100067796114",
+      "oikName": "Город Москва – Бабушкинский"
+    },
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 33624,
@@ -156,6 +172,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659686",
     "tikName": "район Ростокино",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100067796114",
+      "oikName": "Город Москва – Бабушкинский"
+    },
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 22202,
@@ -224,6 +248,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659687",
     "tikName": "Останкинский район",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100067796114",
+      "oikName": "Город Москва – Бабушкинский"
+    },
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 34906,
@@ -296,6 +328,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659688",
     "tikName": "район Марьина Роща",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100067796114",
+      "oikName": "Город Москва – Бабушкинский"
+    },
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 35592,
@@ -369,6 +409,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659689",
     "tikName": "район Марфино",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100067796114",
+      "oikName": "Город Москва – Бабушкинский"
+    },
     "uikCount": 9,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 21562,
@@ -432,6 +480,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659690",
     "tikName": "Лосиноостровский район",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100067796114",
+      "oikName": "Город Москва – Бабушкинский"
+    },
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 55170,
@@ -509,6 +565,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659691",
     "tikName": "Бутырский район",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100067796114",
+      "oikName": "Город Москва – Бабушкинский"
+    },
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 38214,
@@ -580,6 +644,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659692",
     "tikName": "Бабушкинский район",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100067796114",
+      "oikName": "Город Москва – Бабушкинский"
+    },
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 56578,
@@ -660,6 +732,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659693",
     "tikName": "Алексеевский район",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100067796114",
+      "oikName": "Город Москва – Бабушкинский"
+    },
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 41716,
@@ -735,6 +815,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659694",
     "tikName": "район Сокольники",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100067796114",
+      "oikName": "Город Москва – Бабушкинский"
+    },
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 33851,
@@ -813,6 +901,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659695",
     "tikName": "район Богородское",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100067796114",
+      "oikName": "Город Москва – Бабушкинский"
+    },
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 63840,
@@ -900,6 +996,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659696",
     "tikName": "район Фили-Давыдково",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100067796115",
+      "oikName": "Город Москва – Кунцевский"
+    },
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 64573,
@@ -980,6 +1084,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659697",
     "tikName": "район Филевский парк",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100067796115",
+      "oikName": "Город Москва – Кунцевский"
+    },
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 47603,
@@ -1056,6 +1168,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659698",
     "tikName": "район Раменки",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100067796115",
+      "oikName": "Город Москва – Кунцевский"
+    },
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 78219,
@@ -1146,6 +1266,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659699",
     "tikName": "район Проспект Вернадского",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100067796115",
+      "oikName": "Город Москва – Кунцевский"
+    },
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 36982,
@@ -1217,6 +1345,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659700",
     "tikName": "Можайский район",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100067796115",
+      "oikName": "Город Москва – Кунцевский"
+    },
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 88337,
@@ -1306,6 +1442,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659701",
     "tikName": "район Кунцево",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100067796115",
+      "oikName": "Город Москва – Кунцевский"
+    },
     "uikCount": 43,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 89451,
@@ -1400,6 +1544,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659702",
     "tikName": "район Крылатское",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100067796115",
+      "oikName": "Город Москва – Кунцевский"
+    },
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 53536,
@@ -1473,6 +1625,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659703",
     "tikName": "район Дорогомилово",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100067796115",
+      "oikName": "Город Москва – Кунцевский"
+    },
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 36099,
@@ -1545,6 +1705,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659704",
     "tikName": "Хорошевский район",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100067796116",
+      "oikName": "Город Москва – Ленинградский"
+    },
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 45171,
@@ -1619,6 +1787,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659705",
     "tikName": "Тимирязевский район",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100067796116",
+      "oikName": "Город Москва – Ленинградский"
+    },
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 49238,
@@ -1695,6 +1871,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659706",
     "tikName": "район Сокол",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100067796116",
+      "oikName": "Город Москва – Ленинградский"
+    },
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 30714,
@@ -1764,6 +1948,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659707",
     "tikName": "Савеловский район",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100067796116",
+      "oikName": "Город Москва – Ленинградский"
+    },
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 37156,
@@ -1835,6 +2027,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659708",
     "tikName": "район Коптево",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100067796116",
+      "oikName": "Город Москва – Ленинградский"
+    },
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 61094,
@@ -1915,6 +2115,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659709",
     "tikName": "район Западное Дегунино",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100067796116",
+      "oikName": "Город Москва – Ленинградский"
+    },
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 54112,
@@ -1992,6 +2200,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659710",
     "tikName": "Дмитровский район",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100067796116",
+      "oikName": "Город Москва – Ленинградский"
+    },
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 53918,
@@ -2069,6 +2285,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659711",
     "tikName": "район Восточное Дегунино",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100067796116",
+      "oikName": "Город Москва – Ленинградский"
+    },
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 59839,
@@ -2147,6 +2371,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659712",
     "tikName": "Бескудниковский район ",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100067796116",
+      "oikName": "Город Москва – Ленинградский"
+    },
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 49944,
@@ -2224,6 +2456,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659713",
     "tikName": "район Беговой ",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100067796116",
+      "oikName": "Город Москва – Ленинградский"
+    },
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 23947,
@@ -2292,6 +2532,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659714",
     "tikName": "район Аэропорт",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100067796116",
+      "oikName": "Город Москва – Ленинградский"
+    },
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 42261,
@@ -2368,6 +2616,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659715",
     "tikName": "район Марьино",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 199,
+      "oikTvd": "100100067796117",
+      "oikName": "Город Москва – Люблинский"
+    },
     "uikCount": 69,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 165326,
@@ -2491,6 +2747,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659716",
     "tikName": "район Люблино",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 199,
+      "oikTvd": "100100067796117",
+      "oikName": "Город Москва – Люблинский"
+    },
     "uikCount": 55,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 112388,
@@ -2600,6 +2864,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659717",
     "tikName": "район Кузьминки",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 199,
+      "oikTvd": "100100067796117",
+      "oikName": "Город Москва – Люблинский"
+    },
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 82393,
@@ -2692,6 +2964,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659718",
     "tikName": "район Капотня",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 199,
+      "oikTvd": "100100067796117",
+      "oikName": "Город Москва – Люблинский"
+    },
     "uikCount": 9,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 16741,
@@ -2755,6 +3035,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659719",
     "tikName": "район Выхино-Жулебино",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 199,
+      "oikTvd": "100100067796117",
+      "oikName": "Город Москва – Люблинский"
+    },
     "uikCount": 61,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 131586,
@@ -2870,6 +3158,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659720",
     "tikName": "район Южное Медведково",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 200,
+      "oikTvd": "100100067796118",
+      "oikName": "Город Москва – Медведковский"
+    },
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 49955,
@@ -2943,6 +3239,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659721",
     "tikName": "район Северный",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 200,
+      "oikTvd": "100100067796118",
+      "oikName": "Город Москва – Медведковский"
+    },
     "uikCount": 9,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 19059,
@@ -3004,6 +3308,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659722",
     "tikName": "район Северное Медведково",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 200,
+      "oikTvd": "100100067796118",
+      "oikName": "Город Москва – Медведковский"
+    },
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 71164,
@@ -3087,6 +3399,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659723",
     "tikName": "район Отрадное",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 200,
+      "oikTvd": "100100067796118",
+      "oikName": "Город Москва – Медведковский"
+    },
     "uikCount": 53,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 121022,
@@ -3192,6 +3512,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659724",
     "tikName": "район Лианозово",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 200,
+      "oikTvd": "100100067796118",
+      "oikName": "Город Москва – Медведковский"
+    },
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 54707,
@@ -3267,6 +3595,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659725",
     "tikName": "район Бибирево",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 200,
+      "oikTvd": "100100067796118",
+      "oikName": "Город Москва – Медведковский"
+    },
     "uikCount": 44,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 100877,
@@ -3363,6 +3699,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659726",
     "tikName": "Алтуфьевский район",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 200,
+      "oikTvd": "100100067796118",
+      "oikName": "Город Москва – Медведковский"
+    },
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 35053,
@@ -3430,6 +3774,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659727",
     "tikName": "район Чертаново Северное",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 201,
+      "oikTvd": "100100067796119",
+      "oikName": "Город Москва – Нагатинский"
+    },
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 63979,
@@ -3512,6 +3864,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659728",
     "tikName": "Нагорный район",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 201,
+      "oikTvd": "100100067796119",
+      "oikName": "Город Москва – Нагатинский"
+    },
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 46094,
@@ -3586,6 +3946,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659729",
     "tikName": "район Нагатинский затон",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 201,
+      "oikTvd": "100100067796119",
+      "oikName": "Город Москва – Нагатинский"
+    },
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 66223,
@@ -3673,6 +4041,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659730",
     "tikName": "район Нагатино-Садовники",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 201,
+      "oikTvd": "100100067796119",
+      "oikName": "Город Москва – Нагатинский"
+    },
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 46167,
@@ -3753,6 +4129,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659731",
     "tikName": "район Москворечье-Сабурово",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 201,
+      "oikTvd": "100100067796119",
+      "oikName": "Город Москва – Нагатинский"
+    },
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 44701,
@@ -3831,6 +4215,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659732",
     "tikName": "Донской район",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 201,
+      "oikTvd": "100100067796119",
+      "oikName": "Город Москва – Нагатинский"
+    },
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 27086,
@@ -3905,6 +4297,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659733",
     "tikName": "Даниловский район",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 201,
+      "oikTvd": "100100067796119",
+      "oikName": "Город Москва – Нагатинский"
+    },
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 55911,
@@ -3987,6 +4387,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659734",
     "tikName": "район Котловка",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 201,
+      "oikTvd": "100100067796119",
+      "oikName": "Город Москва – Нагатинский"
+    },
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 38794,
@@ -4058,6 +4466,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659735",
     "tikName": "Южнопортовый район",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 201,
+      "oikTvd": "100100067796119",
+      "oikName": "Город Москва – Нагатинский"
+    },
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 42019,
@@ -4136,6 +4552,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659736",
     "tikName": "район Печатники",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 201,
+      "oikTvd": "100100067796119",
+      "oikName": "Город Москва – Нагатинский"
+    },
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 54834,
@@ -4216,6 +4640,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659737",
     "tikName": "Троицкий административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 202,
+      "oikTvd": "100100067796120",
+      "oikName": "Город Москва – Новомосковский"
+    },
     "uikCount": 43,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 84665,
@@ -4312,6 +4744,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659738",
     "tikName": "Новомосковский административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 202,
+      "oikTvd": "100100067796120",
+      "oikName": "Город Москва – Новомосковский"
+    },
     "uikCount": 80,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 159938,
@@ -4445,6 +4885,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659739",
     "tikName": "район Тропарево-Никулино",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 202,
+      "oikTvd": "100100067796120",
+      "oikName": "Город Москва – Новомосковский"
+    },
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 70828,
@@ -4531,6 +4979,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659740",
     "tikName": "район Солнцево",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 202,
+      "oikTvd": "100100067796120",
+      "oikName": "Город Москва – Новомосковский"
+    },
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 69950,
@@ -4614,6 +5070,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659741",
     "tikName": "район Очаково-Матвеевское",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 202,
+      "oikTvd": "100100067796120",
+      "oikName": "Город Москва – Новомосковский"
+    },
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 71409,
@@ -4699,6 +5163,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659742",
     "tikName": "район Ново-Переделкино",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 202,
+      "oikTvd": "100100067796120",
+      "oikName": "Город Москва – Новомосковский"
+    },
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 73943,
@@ -4789,6 +5261,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659743",
     "tikName": "район Внуково",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 202,
+      "oikTvd": "100100067796120",
+      "oikName": "Город Москва – Новомосковский"
+    },
     "uikCount": 8,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 15097,
@@ -4850,6 +5330,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659744",
     "tikName": "район Царицыно",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 203,
+      "oikTvd": "100100067796121",
+      "oikName": "Город Москва – Орехово-Борисовский"
+    },
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 72613,
@@ -4938,6 +5426,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659745",
     "tikName": "район Орехово-Борисово Южное",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 203,
+      "oikTvd": "100100067796121",
+      "oikName": "Город Москва – Орехово-Борисовский"
+    },
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 87205,
@@ -5027,6 +5523,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659746",
     "tikName": "район Орехово-Борисово Северное",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 203,
+      "oikTvd": "100100067796121",
+      "oikName": "Город Москва – Орехово-Борисовский"
+    },
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 73964,
@@ -5112,6 +5616,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659747",
     "tikName": "район Зябликово",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 203,
+      "oikTvd": "100100067796121",
+      "oikName": "Город Москва – Орехово-Борисовский"
+    },
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 74243,
@@ -5198,6 +5710,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659748",
     "tikName": "район Братеево",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 203,
+      "oikTvd": "100100067796121",
+      "oikName": "Город Москва – Орехово-Борисовский"
+    },
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 61334,
@@ -5277,6 +5797,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659749",
     "tikName": "район Бирюлево Западное",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 203,
+      "oikTvd": "100100067796121",
+      "oikName": "Город Москва – Орехово-Борисовский"
+    },
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 51229,
@@ -5352,6 +5880,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659750",
     "tikName": "район Бирюлево Восточное",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 203,
+      "oikTvd": "100100067796121",
+      "oikName": "Город Москва – Орехово-Борисовский"
+    },
     "uikCount": 42,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 89658,
@@ -5447,6 +5983,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659751",
     "tikName": "район Текстильщики",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100067796122",
+      "oikName": "Город Москва – Перовский"
+    },
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 58219,
@@ -5532,6 +6076,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659752",
     "tikName": "Рязанский район",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100067796122",
+      "oikName": "Город Москва – Перовский"
+    },
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 62298,
@@ -5616,6 +6168,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659753",
     "tikName": "Нижегородский район",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100067796122",
+      "oikName": "Город Москва – Перовский"
+    },
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 24374,
@@ -5683,6 +6243,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659754",
     "tikName": "район Некрасовка",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100067796122",
+      "oikName": "Город Москва – Перовский"
+    },
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 29237,
@@ -5751,6 +6319,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659755",
     "tikName": "район Перово",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100067796122",
+      "oikName": "Город Москва – Перовский"
+    },
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 80830,
@@ -5844,6 +6420,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659756",
     "tikName": "район Новогиреево ",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100067796122",
+      "oikName": "Город Москва – Перовский"
+    },
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 56711,
@@ -5926,6 +6510,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659757",
     "tikName": "район Новокосино ",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100067796122",
+      "oikName": "Город Москва – Перовский"
+    },
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 64127,
@@ -6009,6 +6601,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659758",
     "tikName": "район Косино-Ухтомский ",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100067796122",
+      "oikName": "Город Москва – Перовский"
+    },
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 41353,
@@ -6083,6 +6683,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659759",
     "tikName": "район Вешняки ",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 204,
+      "oikTvd": "100100067796122",
+      "oikName": "Город Москва – Перовский"
+    },
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 74201,
@@ -6175,6 +6783,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659760",
     "tikName": "район Соколиная гора",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100067796123",
+      "oikName": "Город Москва – Преображенский"
+    },
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 52288,
@@ -6258,6 +6874,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659761",
     "tikName": "район Северное Измайлово",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100067796123",
+      "oikName": "Город Москва – Преображенский"
+    },
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 55573,
@@ -6340,6 +6964,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659762",
     "tikName": "район Преображенское",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100067796123",
+      "oikName": "Город Москва – Преображенский"
+    },
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 48340,
@@ -6420,6 +7052,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659763",
     "tikName": "район Восточный",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100067796123",
+      "oikName": "Город Москва – Преображенский"
+    },
     "uikCount": 4,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 7599,
@@ -6479,6 +7119,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659764",
     "tikName": "район Метрогородок ",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100067796123",
+      "oikName": "Город Москва – Преображенский"
+    },
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 21667,
@@ -6553,6 +7201,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659765",
     "tikName": "район Измайлово ",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100067796123",
+      "oikName": "Город Москва – Преображенский"
+    },
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 59043,
@@ -6644,6 +7300,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659766",
     "tikName": "район Ивановское ",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100067796123",
+      "oikName": "Город Москва – Преображенский"
+    },
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 79036,
@@ -6737,6 +7401,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659767",
     "tikName": "район Гольяново ",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100067796123",
+      "oikName": "Город Москва – Преображенский"
+    },
     "uikCount": 46,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 104330,
@@ -6838,6 +7510,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659768",
     "tikName": "район Восточное Измайлово ",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 205,
+      "oikTvd": "100100067796123",
+      "oikName": "Город Москва – Преображенский"
+    },
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 41168,
@@ -6917,6 +7597,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659769",
     "tikName": "район Южное Тушино",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100067796124",
+      "oikName": "Город Москва – Тушинский"
+    },
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 64467,
@@ -7003,6 +7691,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659770",
     "tikName": "район Щукино",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100067796124",
+      "oikName": "Город Москва – Тушинский"
+    },
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 61970,
@@ -7094,6 +7790,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659771",
     "tikName": "район Хорошево-Мневники",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100067796124",
+      "oikName": "Город Москва – Тушинский"
+    },
     "uikCount": 50,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 96021,
@@ -7197,6 +7901,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659772",
     "tikName": "район Строгино",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100067796124",
+      "oikName": "Город Москва – Тушинский"
+    },
     "uikCount": 45,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 89088,
@@ -7295,6 +8007,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659773",
     "tikName": "район Покровское-Стрешнево",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100067796124",
+      "oikName": "Город Москва – Тушинский"
+    },
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 33764,
@@ -7373,6 +8093,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659774",
     "tikName": "район Митино",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100067796124",
+      "oikName": "Город Москва – Тушинский"
+    },
     "uikCount": 50,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 114488,
@@ -7476,6 +8204,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659775",
     "tikName": "район Северное Тушино",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100067796125",
+      "oikName": "Город Москва – Ховринский"
+    },
     "uikCount": 41,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 90492,
@@ -7570,6 +8306,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659776",
     "tikName": "район Куркино",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100067796125",
+      "oikName": "Город Москва – Ховринский"
+    },
     "uikCount": 10,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 18241,
@@ -7633,6 +8377,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659777",
     "tikName": "район Ховрино",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100067796125",
+      "oikName": "Город Москва – Ховринский"
+    },
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 57115,
@@ -7708,6 +8460,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659778",
     "tikName": "Молжаниновский район",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100067796125",
+      "oikName": "Город Москва – Ховринский"
+    },
     "uikCount": 2,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 4474,
@@ -7763,6 +8523,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659779",
     "tikName": "Левобережный район",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100067796125",
+      "oikName": "Город Москва – Ховринский"
+    },
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 32179,
@@ -7833,6 +8601,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659780",
     "tikName": "Головинский район",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100067796125",
+      "oikName": "Город Москва – Ховринский"
+    },
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 64088,
@@ -7912,6 +8688,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659781",
     "tikName": "Войковский район",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100067796125",
+      "oikName": "Город Москва – Ховринский"
+    },
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 43590,
@@ -7984,6 +8768,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659782",
     "tikName": "район Лефортово",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100067796126",
+      "oikName": "Город Москва – Центральный"
+    },
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 50912,
@@ -8067,6 +8859,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659783",
     "tikName": "район Якиманка",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100067796126",
+      "oikName": "Город Москва – Центральный"
+    },
     "uikCount": 7,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 14092,
@@ -8129,6 +8929,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659784",
     "tikName": "район Хамовники",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100067796126",
+      "oikName": "Город Москва – Центральный"
+    },
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 56320,
@@ -8214,6 +9022,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659785",
     "tikName": "Тверской район",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100067796126",
+      "oikName": "Город Москва – Центральный"
+    },
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 45198,
@@ -8293,6 +9109,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659786",
     "tikName": "Таганский район",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100067796126",
+      "oikName": "Город Москва – Центральный"
+    },
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 72816,
@@ -8384,6 +9208,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659787",
     "tikName": "Пресненский район",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100067796126",
+      "oikName": "Город Москва – Центральный"
+    },
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 78158,
@@ -8472,6 +9304,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659788",
     "tikName": "Мещанский район",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100067796126",
+      "oikName": "Город Москва – Центральный"
+    },
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 34544,
@@ -8543,6 +9383,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659789",
     "tikName": "Красносельский район",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100067796126",
+      "oikName": "Город Москва – Центральный"
+    },
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 23708,
@@ -8611,6 +9459,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659790",
     "tikName": "район Замоскворечье",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100067796126",
+      "oikName": "Город Москва – Центральный"
+    },
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 27496,
@@ -8680,6 +9536,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659791",
     "tikName": "Басманный район",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100067796126",
+      "oikName": "Город Москва – Центральный"
+    },
     "uikCount": 41,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 61303,
@@ -8776,6 +9640,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659792",
     "tikName": "район Арбат",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100067796126",
+      "oikName": "Город Москва – Центральный"
+    },
     "uikCount": 9,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 15756,
@@ -8840,6 +9712,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659793",
     "tikName": "район Черемушки",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100067796127",
+      "oikName": "Город Москва – Черемушкинский"
+    },
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 64171,
@@ -8925,6 +9805,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659794",
     "tikName": "район Теплый Стан",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100067796127",
+      "oikName": "Город Москва – Черемушкинский"
+    },
     "uikCount": 44,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 83337,
@@ -9023,6 +9911,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659795",
     "tikName": "Обручевский район",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100067796127",
+      "oikName": "Город Москва – Черемушкинский"
+    },
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 43883,
@@ -9105,6 +10001,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659796",
     "tikName": "Ломоносовский район",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100067796127",
+      "oikName": "Город Москва – Черемушкинский"
+    },
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 50968,
@@ -9185,6 +10089,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659797",
     "tikName": "район Коньково",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100067796127",
+      "oikName": "Город Москва – Черемушкинский"
+    },
     "uikCount": 45,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 95100,
@@ -9284,6 +10196,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659798",
     "tikName": "район Зюзино",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100067796127",
+      "oikName": "Город Москва – Черемушкинский"
+    },
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 71704,
@@ -9372,6 +10292,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659799",
     "tikName": "Гагаринский район",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100067796127",
+      "oikName": "Город Москва – Черемушкинский"
+    },
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 45300,
@@ -9451,6 +10379,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659800",
     "tikName": "Академический район",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100067796127",
+      "oikName": "Город Москва – Черемушкинский"
+    },
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 59472,
@@ -9537,6 +10473,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659801",
     "tikName": "район Чертаново Южное",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100067796128",
+      "oikName": "Город Москва – Чертановский"
+    },
     "uikCount": 41,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 90688,
@@ -9633,6 +10577,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659802",
     "tikName": "район Чертаново Центральное",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100067796128",
+      "oikName": "Город Москва – Чертановский"
+    },
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 67864,
@@ -9719,6 +10671,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659803",
     "tikName": "район Ясенево",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100067796128",
+      "oikName": "Город Москва – Чертановский"
+    },
     "uikCount": 70,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 116249,
@@ -9844,6 +10804,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659804",
     "tikName": "район Южное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100067796128",
+      "oikName": "Город Москва – Чертановский"
+    },
     "uikCount": 59,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 140101,
@@ -9958,6 +10926,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001659805",
     "tikName": "район Северное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100067796128",
+      "oikName": "Город Москва – Чертановский"
+    },
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 59321,
@@ -10040,6 +11016,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001680964",
     "tikName": "район Савелки",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100067796125",
+      "oikName": "Город Москва – Ховринский"
+    },
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 23149,
@@ -10114,6 +11098,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001680965",
     "tikName": "район Матушкино",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100067796125",
+      "oikName": "Город Москва – Ховринский"
+    },
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 29751,
@@ -10191,6 +11183,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001680966",
     "tikName": "район Старое Крюково",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100067796125",
+      "oikName": "Город Москва – Ховринский"
+    },
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 22468,
@@ -10260,6 +11260,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001680967",
     "tikName": "район Крюково",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100067796125",
+      "oikName": "Город Москва – Ховринский"
+    },
     "uikCount": 42,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 68967,
@@ -10355,6 +11363,14 @@ export const duma_2016_tic_464_region_77 = [
     "ballot": "single-member",
     "tikTvd": "27720001680968",
     "tikName": "район Силино",
+    "regionCode": "77",
+    "regionTvd": "100100067796113",
+    "regionName": "город Москва",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100067796125",
+      "oikName": "Город Москва – Ховринский"
+    },
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 29341,

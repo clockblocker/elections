@@ -11,6 +11,9 @@ export const duma_2007_tic_233_region_65 = [
     "ballot": "party",
     "tikTvd": "2652000130634",
     "tikName": "Невельская",
+    "regionCode": "65",
+    "regionTvd": "100100021960314",
+    "regionName": "Сахалинская область",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 17846,
@@ -78,6 +81,9 @@ export const duma_2007_tic_233_region_65 = [
     "ballot": "party",
     "tikTvd": "2652000130635",
     "tikName": "Ногликская",
+    "regionCode": "65",
+    "regionTvd": "100100021960314",
+    "regionName": "Сахалинская область",
     "uikCount": 8,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 10969,
@@ -140,6 +146,9 @@ export const duma_2007_tic_233_region_65 = [
     "ballot": "party",
     "tikTvd": "2652000130636",
     "tikName": "Макаровская",
+    "regionCode": "65",
+    "regionTvd": "100100021960314",
+    "regionName": "Сахалинская область",
     "uikCount": 6,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 8018,
@@ -200,6 +209,9 @@ export const duma_2007_tic_233_region_65 = [
     "ballot": "party",
     "tikTvd": "2652000130637",
     "tikName": "Корсаковская",
+    "regionCode": "65",
+    "regionTvd": "100100021960314",
+    "regionName": "Сахалинская область",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 33014,
@@ -286,6 +298,9 @@ export const duma_2007_tic_233_region_65 = [
     "ballot": "party",
     "tikTvd": "2652000130638",
     "tikName": "Курильская",
+    "regionCode": "65",
+    "regionTvd": "100100021960314",
+    "regionName": "Сахалинская область",
     "uikCount": 5,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 5362,
@@ -345,6 +360,9 @@ export const duma_2007_tic_233_region_65 = [
     "ballot": "party",
     "tikTvd": "2652000130639",
     "tikName": "Долинская",
+    "regionCode": "65",
+    "regionTvd": "100100021960314",
+    "regionName": "Сахалинская область",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 21093,
@@ -416,6 +434,9 @@ export const duma_2007_tic_233_region_65 = [
     "ballot": "party",
     "tikTvd": "2652000130640",
     "tikName": "Холмская ",
+    "regionCode": "65",
+    "regionTvd": "100100021960314",
+    "regionName": "Сахалинская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 37201,
@@ -494,6 +515,9 @@ export const duma_2007_tic_233_region_65 = [
     "ballot": "party",
     "tikTvd": "2652000130641",
     "tikName": "Анивская",
+    "regionCode": "65",
+    "regionTvd": "100100021960314",
+    "regionName": "Сахалинская область",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 11784,
@@ -564,6 +588,9 @@ export const duma_2007_tic_233_region_65 = [
     "ballot": "party",
     "tikTvd": "2652000130642",
     "tikName": "Александровск-Сахалинская",
+    "regionCode": "65",
+    "regionTvd": "100100021960314",
+    "regionName": "Сахалинская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 12235,
@@ -633,6 +660,9 @@ export const duma_2007_tic_233_region_65 = [
     "ballot": "party",
     "tikTvd": "2652000130643",
     "tikName": "Тымовская",
+    "regionCode": "65",
+    "regionTvd": "100100021960314",
+    "regionName": "Сахалинская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 13885,
@@ -709,6 +739,9 @@ export const duma_2007_tic_233_region_65 = [
     "ballot": "party",
     "tikTvd": "2652000130644",
     "tikName": "Томаринская",
+    "regionCode": "65",
+    "regionTvd": "100100021960314",
+    "regionName": "Сахалинская область",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 8102,
@@ -774,6 +807,9 @@ export const duma_2007_tic_233_region_65 = [
     "ballot": "party",
     "tikTvd": "2652000130645",
     "tikName": "Углегорская",
+    "regionCode": "65",
+    "regionTvd": "100100021960314",
+    "regionName": "Сахалинская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 21794,
@@ -852,6 +888,9 @@ export const duma_2007_tic_233_region_65 = [
     "ballot": "party",
     "tikTvd": "2652000130646",
     "tikName": "Поронайская",
+    "regionCode": "65",
+    "regionTvd": "100100021960314",
+    "regionName": "Сахалинская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 21715,
@@ -926,6 +965,9 @@ export const duma_2007_tic_233_region_65 = [
     "ballot": "party",
     "tikTvd": "2652000130647",
     "tikName": "Северо-Курильская",
+    "regionCode": "65",
+    "regionTvd": "100100021960314",
+    "regionName": "Сахалинская область",
     "uikCount": 2,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 2216,
@@ -982,6 +1024,9 @@ export const duma_2007_tic_233_region_65 = [
     "ballot": "party",
     "tikTvd": "2652000130648",
     "tikName": "Смирныховская",
+    "regionCode": "65",
+    "regionTvd": "100100021960314",
+    "regionName": "Сахалинская область",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 10191,
@@ -1048,6 +1093,9 @@ export const duma_2007_tic_233_region_65 = [
     "ballot": "party",
     "tikTvd": "2652000130649",
     "tikName": "Охинская",
+    "regionCode": "65",
+    "regionTvd": "100100021960314",
+    "regionName": "Сахалинская область",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 24211,
@@ -1119,6 +1167,9 @@ export const duma_2007_tic_233_region_65 = [
     "ballot": "party",
     "tikTvd": "2652000130650",
     "tikName": "Южно-Курильская ",
+    "regionCode": "65",
+    "regionTvd": "100100021960314",
+    "regionName": "Сахалинская область",
     "uikCount": 6,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 7264,
@@ -1179,6 +1230,9 @@ export const duma_2007_tic_233_region_65 = [
     "ballot": "party",
     "tikTvd": "2652000130651",
     "tikName": "Южно-Сахалинская городская",
+    "regionCode": "65",
+    "regionTvd": "100100021960314",
+    "regionName": "Сахалинская область",
     "uikCount": 78,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 136460,
@@ -1311,6 +1365,9 @@ export const duma_2007_tic_233_region_65 = [
     "ballot": "party",
     "tikTvd": "2652000130652",
     "tikName": "Невельская судовая",
+    "regionCode": "65",
+    "regionTvd": "100100021960314",
+    "regionName": "Сахалинская область",
     "uikCount": 71,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 1852,
@@ -1436,6 +1493,9 @@ export const duma_2007_tic_233_region_65 = [
     "ballot": "party",
     "tikTvd": "2652000130653",
     "tikName": "Холмская судовая",
+    "regionCode": "65",
+    "regionTvd": "100100021960314",
+    "regionName": "Сахалинская область",
     "uikCount": 56,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 1525,

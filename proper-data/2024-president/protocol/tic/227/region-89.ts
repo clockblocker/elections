@@ -11,6 +11,9 @@ export const president_2024_tic_227_region_89 = [
     "ballot": "presidential",
     "tikTvd": "2882000955640",
     "tikName": "Надымская",
+    "regionCode": "89",
+    "regionTvd": "100100339411274",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 47634,
@@ -81,6 +84,9 @@ export const president_2024_tic_227_region_89 = [
     "ballot": "presidential",
     "tikTvd": "2882000955641",
     "tikName": "Приуральская",
+    "regionCode": "89",
+    "regionTvd": "100100339411274",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "uikCount": 5,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 6006,
@@ -126,6 +132,9 @@ export const president_2024_tic_227_region_89 = [
     "ballot": "presidential",
     "tikTvd": "2882000955642",
     "tikName": "Лабытнангская городская",
+    "regionCode": "89",
+    "regionTvd": "100100339411274",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 18488,
@@ -184,6 +193,9 @@ export const president_2024_tic_227_region_89 = [
     "ballot": "presidential",
     "tikTvd": "2882000955643",
     "tikName": "Шурышкарская",
+    "regionCode": "89",
+    "regionTvd": "100100339411274",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "uikCount": 8,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 5404,
@@ -232,6 +244,9 @@ export const president_2024_tic_227_region_89 = [
     "ballot": "presidential",
     "tikTvd": "2882000955644",
     "tikName": "Салехардская городская",
+    "regionCode": "89",
+    "regionTvd": "100100339411274",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 31545,
@@ -286,6 +301,9 @@ export const president_2024_tic_227_region_89 = [
     "ballot": "presidential",
     "tikTvd": "2882000955645",
     "tikName": "Ноябрьская городская",
+    "regionCode": "89",
+    "regionTvd": "100100339411274",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 67044,
@@ -364,6 +382,9 @@ export const president_2024_tic_227_region_89 = [
     "ballot": "presidential",
     "tikTvd": "2882000955646",
     "tikName": "Муравленковская городская",
+    "regionCode": "89",
+    "regionTvd": "100100339411274",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 20506,
@@ -415,6 +436,9 @@ export const president_2024_tic_227_region_89 = [
     "ballot": "presidential",
     "tikTvd": "2882000955647",
     "tikName": "Пуровская",
+    "regionCode": "89",
+    "regionTvd": "100100339411274",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 39603,
@@ -472,6 +496,9 @@ export const president_2024_tic_227_region_89 = [
     "ballot": "presidential",
     "tikTvd": "2882000955648",
     "tikName": "Ямальская",
+    "regionCode": "89",
+    "regionTvd": "100100339411274",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 23721,
@@ -526,6 +553,9 @@ export const president_2024_tic_227_region_89 = [
     "ballot": "presidential",
     "tikTvd": "2882000955649",
     "tikName": "Губкинская городская",
+    "regionCode": "89",
+    "regionTvd": "100100339411274",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 23132,
@@ -579,6 +609,9 @@ export const president_2024_tic_227_region_89 = [
     "ballot": "presidential",
     "tikTvd": "2882000955650",
     "tikName": "Красноселькупская",
+    "regionCode": "89",
+    "regionTvd": "100100339411274",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "uikCount": 4,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 4624,
@@ -623,6 +656,9 @@ export const president_2024_tic_227_region_89 = [
     "ballot": "presidential",
     "tikTvd": "2882000955651",
     "tikName": "Новоуренгойская городская",
+    "regionCode": "89",
+    "regionTvd": "100100339411274",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 64065,
@@ -700,6 +736,9 @@ export const president_2024_tic_227_region_89 = [
     "ballot": "presidential",
     "tikTvd": "2882000955652",
     "tikName": "Тазовская",
+    "regionCode": "89",
+    "regionTvd": "100100339411274",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 23694,

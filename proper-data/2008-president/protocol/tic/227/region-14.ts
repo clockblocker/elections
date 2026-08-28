@@ -11,6 +11,9 @@ export const president_2008_tic_227_region_14 = [
     "ballot": "presidential",
     "tikTvd": "2142000151087",
     "tikName": "Нюрбинская",
+    "regionCode": "14",
+    "regionTvd": "100100022249925",
+    "regionName": "Республика Саха (Якутия)",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 16704,
@@ -91,6 +94,9 @@ export const president_2008_tic_227_region_14 = [
     "ballot": "presidential",
     "tikTvd": "2142000151088",
     "tikName": "Нижнеколымская",
+    "regionCode": "14",
+    "regionTvd": "100100022249925",
+    "regionName": "Республика Саха (Якутия)",
     "uikCount": 5,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 3190,
@@ -143,6 +149,9 @@ export const president_2008_tic_227_region_14 = [
     "ballot": "presidential",
     "tikTvd": "2142000151089",
     "tikName": "Якутская городская",
+    "regionCode": "14",
+    "regionTvd": "100100022249925",
+    "regionName": "Республика Саха (Якутия)",
     "uikCount": 97,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 159430,
@@ -287,6 +296,9 @@ export const president_2008_tic_227_region_14 = [
     "ballot": "presidential",
     "tikTvd": "2142000151090",
     "tikName": "Эвено-Бытантайская",
+    "regionCode": "14",
+    "regionTvd": "100100022249925",
+    "regionName": "Республика Саха (Якутия)",
     "uikCount": 3,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 1719,
@@ -337,6 +349,9 @@ export const president_2008_tic_227_region_14 = [
     "ballot": "presidential",
     "tikTvd": "2142000151091",
     "tikName": "Усть-Янская",
+    "regionCode": "14",
+    "regionTvd": "100100022249925",
+    "regionName": "Республика Саха (Якутия)",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 5662,
@@ -397,6 +412,9 @@ export const president_2008_tic_227_region_14 = [
     "ballot": "presidential",
     "tikTvd": "2142000151092",
     "tikName": "Усть-Майская",
+    "regionCode": "14",
+    "regionTvd": "100100022249925",
+    "regionName": "Республика Саха (Якутия)",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 6595,
@@ -463,6 +481,9 @@ export const president_2008_tic_227_region_14 = [
     "ballot": "presidential",
     "tikTvd": "2142000151093",
     "tikName": "Чурапчинская",
+    "regionCode": "14",
+    "regionTvd": "100100022249925",
+    "regionName": "Республика Саха (Якутия)",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 11934,
@@ -539,6 +560,9 @@ export const president_2008_tic_227_region_14 = [
     "ballot": "presidential",
     "tikTvd": "2142000151094",
     "tikName": "Хангаласская",
+    "regionCode": "14",
+    "regionTvd": "100100022249925",
+    "regionName": "Республика Саха (Якутия)",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 21474,
@@ -616,6 +640,9 @@ export const president_2008_tic_227_region_14 = [
     "ballot": "presidential",
     "tikTvd": "2142000151095",
     "tikName": "Усть-Алданская",
+    "regionCode": "14",
+    "regionTvd": "100100022249925",
+    "regionName": "Республика Саха (Якутия)",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 12597,
@@ -699,6 +726,9 @@ export const president_2008_tic_227_region_14 = [
     "ballot": "presidential",
     "tikTvd": "2142000151096",
     "tikName": "Сунтарская",
+    "regionCode": "14",
+    "regionTvd": "100100022249925",
+    "regionName": "Республика Саха (Якутия)",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 14971,
@@ -777,6 +807,9 @@ export const president_2008_tic_227_region_14 = [
     "ballot": "presidential",
     "tikTvd": "2142000151097",
     "tikName": "Таттинская",
+    "regionCode": "14",
+    "regionTvd": "100100022249925",
+    "regionName": "Республика Саха (Якутия)",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 10114,
@@ -840,6 +873,9 @@ export const president_2008_tic_227_region_14 = [
     "ballot": "presidential",
     "tikTvd": "2142000151098",
     "tikName": "Томпонская",
+    "regionCode": "14",
+    "regionTvd": "100100022249925",
+    "regionName": "Республика Саха (Якутия)",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 9392,
@@ -905,6 +941,9 @@ export const president_2008_tic_227_region_14 = [
     "ballot": "presidential",
     "tikTvd": "2142000151099",
     "tikName": "Олекминская",
+    "regionCode": "14",
+    "regionTvd": "100100022249925",
+    "regionName": "Республика Саха (Якутия)",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 16490,
@@ -992,6 +1031,9 @@ export const president_2008_tic_227_region_14 = [
     "ballot": "presidential",
     "tikTvd": "2142000151100",
     "tikName": "Среднеколымская",
+    "regionCode": "14",
+    "regionTvd": "100100022249925",
+    "regionName": "Республика Саха (Якутия)",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 5737,
@@ -1051,6 +1093,9 @@ export const president_2008_tic_227_region_14 = [
     "ballot": "presidential",
     "tikTvd": "2142000151101",
     "tikName": "Оленекская",
+    "regionCode": "14",
+    "regionTvd": "100100022249925",
+    "regionName": "Республика Саха (Якутия)",
     "uikCount": 4,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 2460,
@@ -1102,6 +1147,9 @@ export const president_2008_tic_227_region_14 = [
     "ballot": "presidential",
     "tikTvd": "2142000151102",
     "tikName": "Оймяконская",
+    "regionCode": "14",
+    "regionTvd": "100100022249925",
+    "regionName": "Республика Саха (Якутия)",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 7443,
@@ -1167,6 +1215,9 @@ export const president_2008_tic_227_region_14 = [
     "ballot": "presidential",
     "tikTvd": "2142000151103",
     "tikName": "Нерюнгринская",
+    "regionCode": "14",
+    "regionTvd": "100100022249925",
+    "regionName": "Республика Саха (Якутия)",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 56909,
@@ -1248,6 +1299,9 @@ export const president_2008_tic_227_region_14 = [
     "ballot": "presidential",
     "tikTvd": "2142000151104",
     "tikName": "Момская",
+    "regionCode": "14",
+    "regionTvd": "100100022249925",
+    "regionName": "Республика Саха (Якутия)",
     "uikCount": 7,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 2779,
@@ -1302,6 +1356,9 @@ export const president_2008_tic_227_region_14 = [
     "ballot": "presidential",
     "tikTvd": "2142000151105",
     "tikName": "Намская",
+    "regionCode": "14",
+    "regionTvd": "100100022249925",
+    "regionName": "Республика Саха (Якутия)",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 12858,
@@ -1382,6 +1439,9 @@ export const president_2008_tic_227_region_14 = [
     "ballot": "presidential",
     "tikTvd": "2142000151106",
     "tikName": "Мегино-Кангаласская",
+    "regionCode": "14",
+    "regionTvd": "100100022249925",
+    "regionName": "Республика Саха (Якутия)",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 20659,
@@ -1465,6 +1525,9 @@ export const president_2008_tic_227_region_14 = [
     "ballot": "presidential",
     "tikTvd": "2142000151107",
     "tikName": "Ленская",
+    "regionCode": "14",
+    "regionTvd": "100100022249925",
+    "regionName": "Республика Саха (Якутия)",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 29360,
@@ -1553,6 +1616,9 @@ export const president_2008_tic_227_region_14 = [
     "ballot": "presidential",
     "tikTvd": "2142000151108",
     "tikName": "Кобяйская",
+    "regionCode": "14",
+    "regionTvd": "100100022249925",
+    "regionName": "Республика Саха (Якутия)",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 8686,
@@ -1630,6 +1696,9 @@ export const president_2008_tic_227_region_14 = [
     "ballot": "presidential",
     "tikTvd": "2142000151109",
     "tikName": "Мирнинская",
+    "regionCode": "14",
+    "regionTvd": "100100022249925",
+    "regionName": "Республика Саха (Якутия)",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 54899,
@@ -1713,6 +1782,9 @@ export const president_2008_tic_227_region_14 = [
     "ballot": "presidential",
     "tikTvd": "2142000151110",
     "tikName": "Горная",
+    "regionCode": "14",
+    "regionTvd": "100100022249925",
+    "regionName": "Республика Саха (Якутия)",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 6222,
@@ -1772,6 +1844,9 @@ export const president_2008_tic_227_region_14 = [
     "ballot": "presidential",
     "tikTvd": "2142000151111",
     "tikName": "Верхоянская",
+    "regionCode": "14",
+    "regionTvd": "100100022249925",
+    "regionName": "Республика Саха (Якутия)",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 8486,
@@ -1841,6 +1916,9 @@ export const president_2008_tic_227_region_14 = [
     "ballot": "presidential",
     "tikTvd": "2142000151112",
     "tikName": "Жиганская",
+    "regionCode": "14",
+    "regionTvd": "100100022249925",
+    "regionName": "Республика Саха (Якутия)",
     "uikCount": 5,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 2729,
@@ -1893,6 +1971,9 @@ export const president_2008_tic_227_region_14 = [
     "ballot": "presidential",
     "tikTvd": "2142000151113",
     "tikName": "Вилюйская",
+    "regionCode": "14",
+    "regionTvd": "100100022249925",
+    "regionName": "Республика Саха (Якутия)",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 16483,
@@ -1974,6 +2055,9 @@ export const president_2008_tic_227_region_14 = [
     "ballot": "presidential",
     "tikTvd": "2142000151114",
     "tikName": "Верхнеколымская",
+    "regionCode": "14",
+    "regionTvd": "100100022249925",
+    "regionName": "Республика Саха (Якутия)",
     "uikCount": 10,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 3473,
@@ -2031,6 +2115,9 @@ export const president_2008_tic_227_region_14 = [
     "ballot": "presidential",
     "tikTvd": "2142000151115",
     "tikName": "Булунская",
+    "regionCode": "14",
+    "regionTvd": "100100022249925",
+    "regionName": "Республика Саха (Якутия)",
     "uikCount": 10,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 5639,
@@ -2088,6 +2175,9 @@ export const president_2008_tic_227_region_14 = [
     "ballot": "presidential",
     "tikTvd": "2142000151116",
     "tikName": "Верхневилюйская",
+    "regionCode": "14",
+    "regionTvd": "100100022249925",
+    "regionName": "Республика Саха (Якутия)",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 10945,
@@ -2169,6 +2259,9 @@ export const president_2008_tic_227_region_14 = [
     "ballot": "presidential",
     "tikTvd": "2142000151117",
     "tikName": "Амгинская",
+    "regionCode": "14",
+    "regionTvd": "100100022249925",
+    "regionName": "Республика Саха (Якутия)",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 9820,
@@ -2232,6 +2325,9 @@ export const president_2008_tic_227_region_14 = [
     "ballot": "presidential",
     "tikTvd": "2142000151118",
     "tikName": "Анабарская",
+    "regionCode": "14",
+    "regionTvd": "100100022249925",
+    "regionName": "Республика Саха (Якутия)",
     "uikCount": 6,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 2696,
@@ -2285,6 +2381,9 @@ export const president_2008_tic_227_region_14 = [
     "ballot": "presidential",
     "tikTvd": "2142000151119",
     "tikName": "Аллаиховская",
+    "regionCode": "14",
+    "regionTvd": "100100022249925",
+    "regionName": "Республика Саха (Якутия)",
     "uikCount": 5,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 2122,
@@ -2337,6 +2436,9 @@ export const president_2008_tic_227_region_14 = [
     "ballot": "presidential",
     "tikTvd": "2142000151120",
     "tikName": "Алданская",
+    "regionCode": "14",
+    "regionTvd": "100100022249925",
+    "regionName": "Республика Саха (Якутия)",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 30856,
@@ -2415,6 +2517,9 @@ export const president_2008_tic_227_region_14 = [
     "ballot": "presidential",
     "tikTvd": "2142000151121",
     "tikName": "Абыйская",
+    "regionCode": "14",
+    "regionTvd": "100100022249925",
+    "regionName": "Республика Саха (Якутия)",
     "uikCount": 7,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 2947,

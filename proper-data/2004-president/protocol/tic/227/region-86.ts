@@ -11,6 +11,9 @@ export const president_2004_tic_227_region_86 = [
     "ballot": "presidential",
     "tikTvd": "286200070216",
     "tikName": "Белоярская",
+    "regionCode": "86",
+    "regionTvd": "1001000883015",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в список": 18795,
@@ -75,6 +78,9 @@ export const president_2004_tic_227_region_86 = [
     "ballot": "presidential",
     "tikTvd": "286200070217",
     "tikName": "Лангепасская городская",
+    "regionCode": "86",
+    "regionTvd": "1001000883015",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, внесенных в список": 25730,
@@ -134,6 +140,9 @@ export const president_2004_tic_227_region_86 = [
     "ballot": "presidential",
     "tikTvd": "286200070218",
     "tikName": "Нефтеюганская городская",
+    "regionCode": "86",
+    "regionTvd": "1001000883015",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в список": 74292,
@@ -214,6 +223,9 @@ export const president_2004_tic_227_region_86 = [
     "ballot": "presidential",
     "tikTvd": "286200070219",
     "tikName": "Ханты-Мансийская городская",
+    "regionCode": "86",
+    "regionTvd": "1001000883015",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список": 35263,
@@ -280,6 +292,9 @@ export const president_2004_tic_227_region_86 = [
     "ballot": "presidential",
     "tikTvd": "286200070220",
     "tikName": "Кондинская",
+    "regionCode": "86",
+    "regionTvd": "1001000883015",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список": 23803,
@@ -352,6 +367,9 @@ export const president_2004_tic_227_region_86 = [
     "ballot": "presidential",
     "tikTvd": "286200070221",
     "tikName": "Югорская городская",
+    "regionCode": "86",
+    "regionTvd": "1001000883015",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, внесенных в список": 23768,
@@ -411,6 +429,9 @@ export const president_2004_tic_227_region_86 = [
     "ballot": "presidential",
     "tikTvd": "286200070222",
     "tikName": "Ханты-Мансийская\r\n",
+    "regionCode": "86",
+    "regionTvd": "1001000883015",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список": 13360,
@@ -486,6 +507,9 @@ export const president_2004_tic_227_region_86 = [
     "ballot": "presidential",
     "tikTvd": "286200070223",
     "tikName": "Нефтеюганская",
+    "regionCode": "86",
+    "regionTvd": "1001000883015",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список": 24639,
@@ -557,6 +581,9 @@ export const president_2004_tic_227_region_86 = [
     "ballot": "presidential",
     "tikTvd": "286200070224",
     "tikName": "Урайская городская",
+    "regionCode": "86",
+    "regionTvd": "1001000883015",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список": 31339,
@@ -620,6 +647,9 @@ export const president_2004_tic_227_region_86 = [
     "ballot": "presidential",
     "tikTvd": "286200070225",
     "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "1001000883015",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
     "uikCount": 87,
     "accounting": {
       "Число избирателей, внесенных в список": 214089,
@@ -755,6 +785,9 @@ export const president_2004_tic_227_region_86 = [
     "ballot": "presidential",
     "tikTvd": "286200070226",
     "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "1001000883015",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
     "uikCount": 47,
     "accounting": {
       "Число избирателей, внесенных в список": 70003,
@@ -850,6 +883,9 @@ export const president_2004_tic_227_region_86 = [
     "ballot": "presidential",
     "tikTvd": "286200070227",
     "tikName": "Советская",
+    "regionCode": "86",
+    "regionTvd": "1001000883015",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в список": 33726,
@@ -915,6 +951,9 @@ export const president_2004_tic_227_region_86 = [
     "ballot": "presidential",
     "tikTvd": "286200070228",
     "tikName": "Радужнинская городская",
+    "regionCode": "86",
+    "regionTvd": "1001000883015",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в список": 28899,
@@ -976,6 +1015,9 @@ export const president_2004_tic_227_region_86 = [
     "ballot": "presidential",
     "tikTvd": "286200070229",
     "tikName": "Березовская",
+    "regionCode": "86",
+    "regionTvd": "1001000883015",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список": 18268,
@@ -1039,6 +1081,9 @@ export const president_2004_tic_227_region_86 = [
     "ballot": "presidential",
     "tikTvd": "286200070230",
     "tikName": "Когалымская городская",
+    "regionCode": "86",
+    "regionTvd": "1001000883015",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в список": 43061,
@@ -1103,6 +1148,9 @@ export const president_2004_tic_227_region_86 = [
     "ballot": "presidential",
     "tikTvd": "286200070231",
     "tikName": "Нижневартовская",
+    "regionCode": "86",
+    "regionTvd": "1001000883015",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список": 19410,
@@ -1172,6 +1220,9 @@ export const president_2004_tic_227_region_86 = [
     "ballot": "presidential",
     "tikTvd": "286200070232",
     "tikName": "Пыть-Яхская городская",
+    "regionCode": "86",
+    "regionTvd": "1001000883015",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список": 29844,
@@ -1235,6 +1286,9 @@ export const president_2004_tic_227_region_86 = [
     "ballot": "presidential",
     "tikTvd": "286200070233",
     "tikName": "Покачевская городская",
+    "regionCode": "86",
+    "regionTvd": "1001000883015",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
     "uikCount": 8,
     "accounting": {
       "Число избирателей, внесенных в список": 12384,
@@ -1291,6 +1345,9 @@ export const president_2004_tic_227_region_86 = [
     "ballot": "presidential",
     "tikTvd": "286200070234",
     "tikName": "Няганьская городская",
+    "regionCode": "86",
+    "regionTvd": "1001000883015",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список": 42460,
@@ -1361,6 +1418,9 @@ export const president_2004_tic_227_region_86 = [
     "ballot": "presidential",
     "tikTvd": "286200070235",
     "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "1001000883015",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
     "uikCount": 75,
     "accounting": {
       "Число избирателей, внесенных в список": 164490,
@@ -1484,6 +1544,9 @@ export const president_2004_tic_227_region_86 = [
     "ballot": "presidential",
     "tikTvd": "286200070236",
     "tikName": "Октябрьская",
+    "regionCode": "86",
+    "regionTvd": "1001000883015",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список": 21449,
@@ -1556,6 +1619,9 @@ export const president_2004_tic_227_region_86 = [
     "ballot": "presidential",
     "tikTvd": "286200070237",
     "tikName": "Мегионская городская",
+    "regionCode": "86",
+    "regionTvd": "1001000883015",
+    "regionName": "Ханты-Мансийский автономный округ - Югра",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в список": 34141,

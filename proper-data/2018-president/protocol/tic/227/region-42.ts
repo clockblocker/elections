@@ -11,6 +11,9 @@ export const president_2018_tic_227_region_42 = [
     "ballot": "presidential",
     "tikTvd": "24220001118803",
     "tikName": "Юргинская",
+    "regionCode": "42",
+    "regionTvd": "100100084849167",
+    "regionName": "Кемеровская область",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 15164,
@@ -93,6 +96,9 @@ export const president_2018_tic_227_region_42 = [
     "ballot": "presidential",
     "tikTvd": "24220001118804",
     "tikName": "Новокузнецк, Куйбышевская",
+    "regionCode": "42",
+    "regionTvd": "100100084849167",
+    "regionName": "Кемеровская область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 53104,
@@ -173,6 +179,9 @@ export const president_2018_tic_227_region_42 = [
     "ballot": "presidential",
     "tikTvd": "24220001118805",
     "tikName": "Беловская городская",
+    "regionCode": "42",
+    "regionTvd": "100100084849167",
+    "regionName": "Кемеровская область",
     "uikCount": 55,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 97770,
@@ -272,6 +281,9 @@ export const president_2018_tic_227_region_42 = [
     "ballot": "presidential",
     "tikTvd": "24220001118806",
     "tikName": "Кемеровская",
+    "regionCode": "42",
+    "regionTvd": "100100084849167",
+    "regionName": "Кемеровская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 34365,
@@ -347,6 +359,9 @@ export const president_2018_tic_227_region_42 = [
     "ballot": "presidential",
     "tikTvd": "24220001118807",
     "tikName": "Топкинская",
+    "regionCode": "42",
+    "regionTvd": "100100084849167",
+    "regionName": "Кемеровская область",
     "uikCount": 49,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 35582,
@@ -440,6 +455,9 @@ export const president_2018_tic_227_region_42 = [
     "ballot": "presidential",
     "tikTvd": "24220001118808",
     "tikName": "Мариинская ",
+    "regionCode": "42",
+    "regionTvd": "100100084849167",
+    "regionName": "Кемеровская область",
     "uikCount": 56,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 37666,
@@ -540,6 +558,9 @@ export const president_2018_tic_227_region_42 = [
     "ballot": "presidential",
     "tikTvd": "24220001118809",
     "tikName": "Кемерово, Кедровская",
+    "regionCode": "42",
+    "regionTvd": "100100084849167",
+    "regionName": "Кемеровская область",
     "uikCount": 8,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 16469,
@@ -592,6 +613,9 @@ export const president_2018_tic_227_region_42 = [
     "ballot": "presidential",
     "tikTvd": "24220001118810",
     "tikName": "Краснобродская городская",
+    "regionCode": "42",
+    "regionTvd": "100100084849167",
+    "regionName": "Кемеровская область",
     "uikCount": 7,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10748,
@@ -643,6 +667,9 @@ export const president_2018_tic_227_region_42 = [
     "ballot": "presidential",
     "tikTvd": "24220001118811",
     "tikName": "Новокузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100084849167",
+    "regionName": "Кемеровская область",
     "uikCount": 83,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 36037,
@@ -770,6 +797,9 @@ export const president_2018_tic_227_region_42 = [
     "ballot": "presidential",
     "tikTvd": "24220001118812",
     "tikName": "Березовская городская",
+    "regionCode": "42",
+    "regionTvd": "100100084849167",
+    "regionName": "Кемеровская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 35282,
@@ -839,6 +869,9 @@ export const president_2018_tic_227_region_42 = [
     "ballot": "presidential",
     "tikTvd": "24220001118813",
     "tikName": "Новокузнецк, Орджоникидзевская",
+    "regionCode": "42",
+    "regionTvd": "100100084849167",
+    "regionName": "Кемеровская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 62101,
@@ -914,6 +947,9 @@ export const president_2018_tic_227_region_42 = [
     "ballot": "presidential",
     "tikTvd": "24220001118814",
     "tikName": "Мысковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100084849167",
+    "regionName": "Кемеровская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 34140,
@@ -983,6 +1019,9 @@ export const president_2018_tic_227_region_42 = [
     "ballot": "presidential",
     "tikTvd": "24220001118815",
     "tikName": "Яйская",
+    "regionCode": "42",
+    "regionTvd": "100100084849167",
+    "regionName": "Кемеровская область",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 14103,
@@ -1068,6 +1107,9 @@ export const president_2018_tic_227_region_42 = [
     "ballot": "presidential",
     "tikTvd": "24220001118816",
     "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100084849167",
+    "regionName": "Кемеровская область",
     "uikCount": 60,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 60791,
@@ -1172,6 +1214,9 @@ export const president_2018_tic_227_region_42 = [
     "ballot": "presidential",
     "tikTvd": "24220001118817",
     "tikName": "Новокузнецк, Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100084849167",
+    "regionName": "Кемеровская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 34628,
@@ -1234,6 +1279,9 @@ export const president_2018_tic_227_region_42 = [
     "ballot": "presidential",
     "tikTvd": "24220001118818",
     "tikName": "Беловская",
+    "regionCode": "42",
+    "regionTvd": "100100084849167",
+    "regionName": "Кемеровская область",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 22432,
@@ -1322,6 +1370,9 @@ export const president_2018_tic_227_region_42 = [
     "ballot": "presidential",
     "tikTvd": "24220001118819",
     "tikName": "Новокузнецк, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100084849167",
+    "regionName": "Кемеровская область",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 67050,
@@ -1404,6 +1455,9 @@ export const president_2018_tic_227_region_42 = [
     "ballot": "presidential",
     "tikTvd": "24220001118820",
     "tikName": "Осинниковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100084849167",
+    "regionName": "Кемеровская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 38053,
@@ -1470,6 +1524,9 @@ export const president_2018_tic_227_region_42 = [
     "ballot": "presidential",
     "tikTvd": "24220001118821",
     "tikName": "Тяжинская",
+    "regionCode": "42",
+    "regionTvd": "100100084849167",
+    "regionName": "Кемеровская область",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 19001,
@@ -1556,6 +1613,9 @@ export const president_2018_tic_227_region_42 = [
     "ballot": "presidential",
     "tikTvd": "24220001118822",
     "tikName": "Промышленновская",
+    "regionCode": "42",
+    "regionTvd": "100100084849167",
+    "regionName": "Кемеровская область",
     "uikCount": 61,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 33709,
@@ -1661,6 +1721,9 @@ export const president_2018_tic_227_region_42 = [
     "ballot": "presidential",
     "tikTvd": "24220001118823",
     "tikName": "Гурьевская",
+    "regionCode": "42",
+    "regionTvd": "100100084849167",
+    "regionName": "Кемеровская область",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 32272,
@@ -1755,6 +1818,9 @@ export const president_2018_tic_227_region_42 = [
     "ballot": "presidential",
     "tikTvd": "24220001118824",
     "tikName": "Прокопьевская",
+    "regionCode": "42",
+    "regionTvd": "100100084849167",
+    "regionName": "Кемеровская область",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 22297,
@@ -1841,6 +1907,9 @@ export const president_2018_tic_227_region_42 = [
     "ballot": "presidential",
     "tikTvd": "24220001118825",
     "tikName": "Калтанская городская",
+    "regionCode": "42",
+    "regionTvd": "100100084849167",
+    "regionName": "Кемеровская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 24094,
@@ -1905,6 +1974,9 @@ export const president_2018_tic_227_region_42 = [
     "ballot": "presidential",
     "tikTvd": "24220001118826",
     "tikName": "Кемерово, Ленинская",
+    "regionCode": "42",
+    "regionTvd": "100100084849167",
+    "regionName": "Кемеровская область",
     "uikCount": 47,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 92963,
@@ -1996,6 +2068,9 @@ export const president_2018_tic_227_region_42 = [
     "ballot": "presidential",
     "tikTvd": "24220001118827",
     "tikName": "Ленинск-Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100084849167",
+    "regionName": "Кемеровская область",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 17900,
@@ -2082,6 +2157,9 @@ export const president_2018_tic_227_region_42 = [
     "ballot": "presidential",
     "tikTvd": "24220001118828",
     "tikName": "Полысаевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100084849167",
+    "regionName": "Кемеровская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 21643,
@@ -2146,6 +2224,9 @@ export const president_2018_tic_227_region_42 = [
     "ballot": "presidential",
     "tikTvd": "24220001118829",
     "tikName": "Крапивинская",
+    "regionCode": "42",
+    "regionTvd": "100100084849167",
+    "regionName": "Кемеровская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 18124,
@@ -2219,6 +2300,9 @@ export const president_2018_tic_227_region_42 = [
     "ballot": "presidential",
     "tikTvd": "24220001118830",
     "tikName": "Ижморская",
+    "regionCode": "42",
+    "regionTvd": "100100084849167",
+    "regionName": "Кемеровская область",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10333,
@@ -2302,6 +2386,9 @@ export const president_2018_tic_227_region_42 = [
     "ballot": "presidential",
     "tikTvd": "24220001118831",
     "tikName": "Юргинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100084849167",
+    "regionName": "Кемеровская область",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 62242,
@@ -2387,6 +2474,9 @@ export const president_2018_tic_227_region_42 = [
     "ballot": "presidential",
     "tikTvd": "24220001118832",
     "tikName": "Кемерово, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100084849167",
+    "regionName": "Кемеровская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 75340,
@@ -2471,6 +2561,9 @@ export const president_2018_tic_227_region_42 = [
     "ballot": "presidential",
     "tikTvd": "24220001118833",
     "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100084849167",
+    "regionName": "Кемеровская область",
     "uikCount": 55,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 74488,
@@ -2570,6 +2663,9 @@ export const president_2018_tic_227_region_42 = [
     "ballot": "presidential",
     "tikTvd": "24220001118834",
     "tikName": "Яшкинская",
+    "regionCode": "42",
+    "regionTvd": "100100084849167",
+    "regionName": "Кемеровская область",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 20233,
@@ -2660,6 +2756,9 @@ export const president_2018_tic_227_region_42 = [
     "ballot": "presidential",
     "tikTvd": "24220001118835",
     "tikName": "Кемерово, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100084849167",
+    "regionName": "Кемеровская область",
     "uikCount": 58,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 111693,
@@ -2762,6 +2861,9 @@ export const president_2018_tic_227_region_42 = [
     "ballot": "presidential",
     "tikTvd": "24220001118836",
     "tikName": "Кемерово, Рудничная",
+    "regionCode": "42",
+    "regionTvd": "100100084849167",
+    "regionName": "Кемеровская область",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 59826,
@@ -2833,6 +2935,9 @@ export const president_2018_tic_227_region_42 = [
     "ballot": "presidential",
     "tikTvd": "24220001118837",
     "tikName": "Тайгинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100084849167",
+    "regionName": "Кемеровская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 16055,
@@ -2895,6 +3000,9 @@ export const president_2018_tic_227_region_42 = [
     "ballot": "presidential",
     "tikTvd": "24220001118838",
     "tikName": "Прокопьевск, Зенковская",
+    "regionCode": "42",
+    "regionTvd": "100100084849167",
+    "regionName": "Кемеровская область",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 47534,
@@ -2971,6 +3079,9 @@ export const president_2018_tic_227_region_42 = [
     "ballot": "presidential",
     "tikTvd": "24220001118839",
     "tikName": "Междуреченская городская",
+    "regionCode": "42",
+    "regionTvd": "100100084849167",
+    "regionName": "Кемеровская область",
     "uikCount": 47,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 73755,
@@ -3062,6 +3173,9 @@ export const president_2018_tic_227_region_42 = [
     "ballot": "presidential",
     "tikTvd": "24220001118840",
     "tikName": "Ленинск-Кузнецкая городская",
+    "regionCode": "42",
+    "regionTvd": "100100084849167",
+    "regionName": "Кемеровская область",
     "uikCount": 58,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 77269,
@@ -3164,6 +3278,9 @@ export const president_2018_tic_227_region_42 = [
     "ballot": "presidential",
     "tikTvd": "24220001118841",
     "tikName": "Таштагольская ",
+    "regionCode": "42",
+    "regionTvd": "100100084849167",
+    "regionName": "Кемеровская область",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 37764,
@@ -3252,6 +3369,9 @@ export const president_2018_tic_227_region_42 = [
     "ballot": "presidential",
     "tikTvd": "24220001118842",
     "tikName": "Чебулинская",
+    "regionCode": "42",
+    "regionTvd": "100100084849167",
+    "regionName": "Кемеровская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10501,
@@ -3320,6 +3440,9 @@ export const president_2018_tic_227_region_42 = [
     "ballot": "presidential",
     "tikTvd": "24220001118843",
     "tikName": "Кемерово, Кировская",
+    "regionCode": "42",
+    "regionTvd": "100100084849167",
+    "regionName": "Кемеровская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 42873,
@@ -3383,6 +3506,9 @@ export const president_2018_tic_227_region_42 = [
     "ballot": "presidential",
     "tikTvd": "24220001118844",
     "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100084849167",
+    "regionName": "Кемеровская область",
     "uikCount": 58,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 126794,
@@ -3485,6 +3611,9 @@ export const president_2018_tic_227_region_42 = [
     "ballot": "presidential",
     "tikTvd": "24220001118845",
     "tikName": "Тисульская",
+    "regionCode": "42",
+    "regionTvd": "100100084849167",
+    "regionName": "Кемеровская область",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 16351,
@@ -3564,6 +3693,9 @@ export const president_2018_tic_227_region_42 = [
     "ballot": "presidential",
     "tikTvd": "24220001118846",
     "tikName": "Прокопьевск, Рудничная",
+    "regionCode": "42",
+    "regionTvd": "100100084849167",
+    "regionName": "Кемеровская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 48733,
@@ -3633,6 +3765,9 @@ export const president_2018_tic_227_region_42 = [
     "ballot": "presidential",
     "tikTvd": "24220001118847",
     "tikName": "Прокопьевск, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100084849167",
+    "regionName": "Кемеровская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 48924,
@@ -3711,6 +3846,9 @@ export const president_2018_tic_227_region_42 = [
     "ballot": "presidential",
     "tikTvd": "24220001118848",
     "tikName": "Новокузнецк, Новоильинская",
+    "regionCode": "42",
+    "regionTvd": "100100084849167",
+    "regionName": "Кемеровская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 56870,

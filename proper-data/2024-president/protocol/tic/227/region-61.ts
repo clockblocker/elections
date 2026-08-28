@@ -11,6 +11,9 @@ export const president_2024_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "26120002976934",
     "tikName": "Ростов-на-Дону, Железнодорожная",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 63062,
@@ -86,6 +89,9 @@ export const president_2024_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "26120002976935",
     "tikName": "Ремонтненская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10128,
@@ -143,6 +149,9 @@ export const president_2024_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "26120002976936",
     "tikName": "Таганрогская городская (восточная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
     "uikCount": 67,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 92692,
@@ -250,6 +259,9 @@ export const president_2024_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "26120002976937",
     "tikName": "Матвеево-Курганская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 31220,
@@ -325,6 +337,9 @@ export const president_2024_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "26120002976938",
     "tikName": "Ростов-на-Дону, Пролетарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
     "uikCount": 51,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 81355,
@@ -416,6 +431,9 @@ export const president_2024_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "26120002976939",
     "tikName": "Целинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 21658,
@@ -478,6 +496,9 @@ export const president_2024_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "26120002976940",
     "tikName": "Красносулинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
     "uikCount": 66,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 48534,
@@ -584,6 +605,9 @@ export const president_2024_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "26120002976941",
     "tikName": "Константиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 19735,
@@ -661,6 +685,9 @@ export const president_2024_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "26120002976942",
     "tikName": "Шолоховская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 16092,
@@ -725,6 +752,9 @@ export const president_2024_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "26120002976943",
     "tikName": "Тарасовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 17710,
@@ -808,6 +838,9 @@ export const president_2024_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "26120002976944",
     "tikName": "Морозовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 27127,
@@ -889,6 +922,9 @@ export const president_2024_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "26120002976945",
     "tikName": "Родионово-Несветайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 15597,
@@ -953,6 +989,9 @@ export const president_2024_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "26120002976946",
     "tikName": "Батайская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
     "uikCount": 52,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 86806,
@@ -1045,6 +1084,9 @@ export const president_2024_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "26120002976947",
     "tikName": "Обливская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10358,
@@ -1106,6 +1148,9 @@ export const president_2024_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "26120002976948",
     "tikName": "Верхнедонская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 12005,
@@ -1183,6 +1228,9 @@ export const president_2024_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "26120002976949",
     "tikName": "Мясниковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 35054,
@@ -1248,6 +1296,9 @@ export const president_2024_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "26120002976950",
     "tikName": "Заветинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 8177,
@@ -1299,6 +1350,9 @@ export const president_2024_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "26120002976951",
     "tikName": "Донецкая городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 30494,
@@ -1364,6 +1418,9 @@ export const president_2024_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "26120002976952",
     "tikName": "Неклиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
     "uikCount": 86,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 63176,
@@ -1490,6 +1547,9 @@ export const president_2024_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "26120002976953",
     "tikName": "Кагальницкая",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 21437,
@@ -1563,6 +1623,9 @@ export const president_2024_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "26120002976954",
     "tikName": "Песчанокопская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 19337,
@@ -1620,6 +1683,9 @@ export const president_2024_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "26120002976955",
     "tikName": "Усть-Донецкая",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 17152,
@@ -1686,6 +1752,9 @@ export const president_2024_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "26120002976956",
     "tikName": "Волгодонская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 20266,
@@ -1757,6 +1826,9 @@ export const president_2024_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "26120002976957",
     "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
     "uikCount": 71,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 61653,
@@ -1868,6 +1940,9 @@ export const president_2024_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "26120002976958",
     "tikName": "Миллеровская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
     "uikCount": 56,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 39207,
@@ -1964,6 +2039,9 @@ export const president_2024_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "26120002976959",
     "tikName": "Новочеркасская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
     "uikCount": 71,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 107750,
@@ -2075,6 +2153,9 @@ export const president_2024_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "26120002976960",
     "tikName": "Мартыновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 24178,
@@ -2155,6 +2236,9 @@ export const president_2024_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "26120002976961",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
     "uikCount": 106,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 144723,
@@ -2301,6 +2385,9 @@ export const president_2024_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "26120002976962",
     "tikName": "Чертковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 21138,
@@ -2383,6 +2470,9 @@ export const president_2024_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "26120002976963",
     "tikName": "Куйбышевская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 8550,
@@ -2442,6 +2532,9 @@ export const president_2024_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "26120002976964",
     "tikName": "Аксайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
     "uikCount": 70,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 82609,
@@ -2552,6 +2645,9 @@ export const president_2024_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "26120002976965",
     "tikName": "Егорлыкская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 21976,
@@ -2616,6 +2712,9 @@ export const president_2024_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "26120002976966",
     "tikName": "Каменск-Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
     "uikCount": 45,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 57667,
@@ -2701,6 +2800,9 @@ export const president_2024_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "26120002976967",
     "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
     "uikCount": 53,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 110431,
@@ -2794,6 +2896,9 @@ export const president_2024_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "26120002976968",
     "tikName": "Зерноградская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
     "uikCount": 59,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 39389,
@@ -2893,6 +2998,9 @@ export const president_2024_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "26120002976969",
     "tikName": "Сальская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
     "uikCount": 54,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 69217,
@@ -2987,6 +3095,9 @@ export const president_2024_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "26120002976970",
     "tikName": "Милютинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 8992,
@@ -3048,6 +3159,9 @@ export const president_2024_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "26120002976971",
     "tikName": "Багаевская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 23394,
@@ -3112,6 +3226,9 @@ export const president_2024_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "26120002976972",
     "tikName": "Кашарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 13898,
@@ -3184,6 +3301,9 @@ export const president_2024_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "26120002976973",
     "tikName": "Ростов-на-Дону, Ленинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 44470,
@@ -3247,6 +3367,9 @@ export const president_2024_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "26120002976974",
     "tikName": "Азовская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
     "uikCount": 45,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 54252,
@@ -3332,6 +3455,9 @@ export const president_2024_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "26120002976975",
     "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
     "uikCount": 81,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 66375,
@@ -3453,6 +3579,9 @@ export const president_2024_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "26120002976976",
     "tikName": "Тацинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 21799,
@@ -3526,6 +3655,9 @@ export const president_2024_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "26120002976977",
     "tikName": "Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
     "uikCount": 52,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 49031,
@@ -3618,6 +3750,9 @@ export const president_2024_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "26120002976978",
     "tikName": "Ростов-на-Дону, Советская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
     "uikCount": 64,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 125729,
@@ -3722,6 +3857,9 @@ export const president_2024_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "26120002976979",
     "tikName": "Ростов-на-Дону, Первомайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
     "uikCount": 58,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 116549,
@@ -3820,6 +3958,9 @@ export const president_2024_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "26120002976980",
     "tikName": "Советская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 3696,
@@ -3872,6 +4013,9 @@ export const president_2024_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "26120002976981",
     "tikName": "Гуковская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 41232,
@@ -3949,6 +4093,9 @@ export const president_2024_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "26120002976982",
     "tikName": "Цимлянская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 22303,
@@ -4020,6 +4167,9 @@ export const president_2024_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "26120002976983",
     "tikName": "Зимовниковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 19294,
@@ -4089,6 +4239,9 @@ export const president_2024_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "26120002976984",
     "tikName": "Зверевская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 14071,
@@ -4144,6 +4297,9 @@ export const president_2024_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "26120002976985",
     "tikName": "Семикаракорская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 33433,
@@ -4223,6 +4379,9 @@ export const president_2024_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "26120002976986",
     "tikName": "Боковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 8816,
@@ -4283,6 +4442,9 @@ export const president_2024_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "26120002976987",
     "tikName": "Таганрогская городская (западная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
     "uikCount": 60,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 96116,
@@ -4383,6 +4545,9 @@ export const president_2024_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "26120002976988",
     "tikName": "Ростов-на-Дону, Кировская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 43904,
@@ -4444,6 +4609,9 @@ export const president_2024_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "26120002976989",
     "tikName": "Дубовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 12440,
@@ -4505,6 +4673,9 @@ export const president_2024_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "26120002976990",
     "tikName": "Ростов-на-Дону, Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
     "uikCount": 59,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 114000,
@@ -4604,6 +4775,9 @@ export const president_2024_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "26120002976991",
     "tikName": "Веселовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 14633,
@@ -4668,6 +4842,9 @@ export const president_2024_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "26120002976992",
     "tikName": "Орловская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 21654,
@@ -4739,6 +4916,9 @@ export const president_2024_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "26120002976993",
     "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
     "uikCount": 47,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 29925,
@@ -4826,6 +5006,9 @@ export const president_2024_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "26120002976994",
     "tikName": "Ростов-на-Дону, Ворошиловская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
     "uikCount": 61,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 132599,
@@ -4927,6 +5110,9 @@ export const president_2024_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "26120002976995",
     "tikName": "Пролетарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 20307,
@@ -4989,6 +5175,9 @@ export const president_2024_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "26120002976996",
     "tikName": "Новошахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
     "uikCount": 52,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 59156,

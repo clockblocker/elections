@@ -11,6 +11,14 @@ export const duma_2016_tic_464_region_47 = [
     "ballot": "single-member",
     "tikTvd": "2472000671390",
     "tikName": "Приозерская",
+    "regionCode": "47",
+    "regionTvd": "100100067796000",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100067796001",
+      "oikName": "Ленинградская область – Всеволожский"
+    },
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 45334,
@@ -100,6 +108,14 @@ export const duma_2016_tic_464_region_47 = [
     "ballot": "single-member",
     "tikTvd": "2472000671391",
     "tikName": "Кировская",
+    "regionCode": "47",
+    "regionTvd": "100100067796000",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100067796001",
+      "oikName": "Ленинградская область – Всеволожский"
+    },
     "uikCount": 48,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 75679,
@@ -200,6 +216,14 @@ export const duma_2016_tic_464_region_47 = [
     "ballot": "single-member",
     "tikTvd": "2472000671392",
     "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "100100067796000",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100067796001",
+      "oikName": "Ленинградская область – Всеволожский"
+    },
     "uikCount": 125,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 157712,
@@ -377,6 +401,14 @@ export const duma_2016_tic_464_region_47 = [
     "ballot": "single-member",
     "tikTvd": "2472000671393",
     "tikName": "Всеволожская",
+    "regionCode": "47",
+    "regionTvd": "100100067796000",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100067796001",
+      "oikName": "Ленинградская область – Всеволожский"
+    },
     "uikCount": 126,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 214435,
@@ -555,6 +587,14 @@ export const duma_2016_tic_464_region_47 = [
     "ballot": "single-member",
     "tikTvd": "2472000671394",
     "tikName": "Гатчинская 112",
+    "regionCode": "47",
+    "regionTvd": "100100067796000",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100067796002",
+      "oikName": "Ленинградская область – Кингисеппский"
+    },
     "uikCount": 66,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 106867,
@@ -673,6 +713,14 @@ export const duma_2016_tic_464_region_47 = [
     "ballot": "single-member",
     "tikTvd": "2472000671395",
     "tikName": "Сосновоборская городская",
+    "regionCode": "47",
+    "regionTvd": "100100067796000",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100067796002",
+      "oikName": "Ленинградская область – Кингисеппский"
+    },
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 52861,
@@ -749,6 +797,14 @@ export const duma_2016_tic_464_region_47 = [
     "ballot": "single-member",
     "tikTvd": "2472000671396",
     "tikName": "Сланцевская",
+    "regionCode": "47",
+    "regionTvd": "100100067796000",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100067796002",
+      "oikName": "Ленинградская область – Кингисеппский"
+    },
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 37175,
@@ -834,6 +890,14 @@ export const duma_2016_tic_464_region_47 = [
     "ballot": "single-member",
     "tikTvd": "2472000671397",
     "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "100100067796000",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100067796002",
+      "oikName": "Ленинградская область – Кингисеппский"
+    },
     "uikCount": 58,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 60685,
@@ -944,6 +1008,14 @@ export const duma_2016_tic_464_region_47 = [
     "ballot": "single-member",
     "tikTvd": "2472000671398",
     "tikName": "Ломоносовская",
+    "regionCode": "47",
+    "regionTvd": "100100067796000",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100067796002",
+      "oikName": "Ленинградская область – Кингисеппский"
+    },
     "uikCount": 41,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 55967,
@@ -1037,6 +1109,14 @@ export const duma_2016_tic_464_region_47 = [
     "ballot": "single-member",
     "tikTvd": "2472000671399",
     "tikName": "Кингисеппская",
+    "regionCode": "47",
+    "regionTvd": "100100067796000",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100067796002",
+      "oikName": "Ленинградская область – Кингисеппский"
+    },
     "uikCount": 44,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 63584,
@@ -1133,6 +1213,14 @@ export const duma_2016_tic_464_region_47 = [
     "ballot": "single-member",
     "tikTvd": "2472000671400",
     "tikName": "Волосовская",
+    "regionCode": "47",
+    "regionTvd": "100100067796000",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100067796002",
+      "oikName": "Ленинградская область – Кингисеппский"
+    },
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 34492,
@@ -1212,6 +1300,14 @@ export const duma_2016_tic_464_region_47 = [
     "ballot": "single-member",
     "tikTvd": "2472000671401",
     "tikName": "Гатчинская 113",
+    "regionCode": "47",
+    "regionTvd": "100100067796000",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100067796003",
+      "oikName": "Ленинградская область – Волховский"
+    },
     "uikCount": 52,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 58391,
@@ -1317,6 +1413,14 @@ export const duma_2016_tic_464_region_47 = [
     "ballot": "single-member",
     "tikTvd": "2472000671402",
     "tikName": "Тосненская",
+    "regionCode": "47",
+    "regionTvd": "100100067796000",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100067796003",
+      "oikName": "Ленинградская область – Волховский"
+    },
     "uikCount": 63,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 92745,
@@ -1433,6 +1537,14 @@ export const duma_2016_tic_464_region_47 = [
     "ballot": "single-member",
     "tikTvd": "2472000671403",
     "tikName": "Тихвинская",
+    "regionCode": "47",
+    "regionTvd": "100100067796000",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100067796003",
+      "oikName": "Ленинградская область – Волховский"
+    },
     "uikCount": 47,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 58246,
@@ -1533,6 +1645,14 @@ export const duma_2016_tic_464_region_47 = [
     "ballot": "single-member",
     "tikTvd": "2472000671404",
     "tikName": "Подпорожская",
+    "regionCode": "47",
+    "regionTvd": "100100067796000",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100067796003",
+      "oikName": "Ленинградская область – Волховский"
+    },
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 26529,
@@ -1621,6 +1741,14 @@ export const duma_2016_tic_464_region_47 = [
     "ballot": "single-member",
     "tikTvd": "2472000671405",
     "tikName": "Лодейнопольская",
+    "regionCode": "47",
+    "regionTvd": "100100067796000",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100067796003",
+      "oikName": "Ленинградская область – Волховский"
+    },
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 24540,
@@ -1703,6 +1831,14 @@ export const duma_2016_tic_464_region_47 = [
     "ballot": "single-member",
     "tikTvd": "2472000671406",
     "tikName": "Киришская",
+    "regionCode": "47",
+    "regionTvd": "100100067796000",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100067796003",
+      "oikName": "Ленинградская область – Волховский"
+    },
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 52046,
@@ -1788,6 +1924,14 @@ export const duma_2016_tic_464_region_47 = [
     "ballot": "single-member",
     "tikTvd": "2472000671407",
     "tikName": "Волховская",
+    "regionCode": "47",
+    "regionTvd": "100100067796000",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100067796003",
+      "oikName": "Ленинградская область – Волховский"
+    },
     "uikCount": 54,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 68746,
@@ -1895,6 +2039,14 @@ export const duma_2016_tic_464_region_47 = [
     "ballot": "single-member",
     "tikTvd": "2472000671408",
     "tikName": "Бокситогорская",
+    "regionCode": "47",
+    "regionTvd": "100100067796000",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100067796003",
+      "oikName": "Ленинградская область – Волховский"
+    },
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 41968,

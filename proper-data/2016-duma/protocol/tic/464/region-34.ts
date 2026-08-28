@@ -11,6 +11,14 @@ export const duma_2016_tic_464_region_34 = [
     "ballot": "single-member",
     "tikTvd": "23420001105191",
     "tikName": "Руднянская",
+    "regionCode": "34",
+    "regionTvd": "100100067795958",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100067795959",
+      "oikName": "Волгоградская область – Волгоградский"
+    },
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 13324,
@@ -85,6 +93,14 @@ export const duma_2016_tic_464_region_34 = [
     "ballot": "single-member",
     "tikTvd": "23420001105192",
     "tikName": "Ольховская",
+    "regionCode": "34",
+    "regionTvd": "100100067795958",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100067795959",
+      "oikName": "Волгоградская область – Волгоградский"
+    },
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 13638,
@@ -157,6 +173,14 @@ export const duma_2016_tic_464_region_34 = [
     "ballot": "single-member",
     "tikTvd": "23420001105193",
     "tikName": "Котовская",
+    "regionCode": "34",
+    "regionTvd": "100100067795958",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100067795959",
+      "oikName": "Волгоградская область – Волгоградский"
+    },
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 28179,
@@ -236,6 +260,14 @@ export const duma_2016_tic_464_region_34 = [
     "ballot": "single-member",
     "tikTvd": "23420001105194",
     "tikName": "Камышинская городская",
+    "regionCode": "34",
+    "regionTvd": "100100067795958",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100067795959",
+      "oikName": "Волгоградская область – Волгоградский"
+    },
     "uikCount": 43,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 84461,
@@ -330,6 +362,14 @@ export const duma_2016_tic_464_region_34 = [
     "ballot": "single-member",
     "tikTvd": "23420001105195",
     "tikName": "Камышинская",
+    "regionCode": "34",
+    "regionTvd": "100100067795958",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100067795959",
+      "oikName": "Волгоградская область – Волгоградский"
+    },
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 31347,
@@ -421,6 +461,14 @@ export const duma_2016_tic_464_region_34 = [
     "ballot": "single-member",
     "tikTvd": "23420001105196",
     "tikName": "Жирновская",
+    "regionCode": "34",
+    "regionTvd": "100100067795958",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100067795959",
+      "oikName": "Волгоградская область – Волгоградский"
+    },
     "uikCount": 42,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 33211,
@@ -514,6 +562,14 @@ export const duma_2016_tic_464_region_34 = [
     "ballot": "single-member",
     "tikTvd": "23420001105197",
     "tikName": "Еланская",
+    "regionCode": "34",
+    "regionTvd": "100100067795958",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100067795959",
+      "oikName": "Волгоградская область – Волгоградский"
+    },
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 24639,
@@ -599,6 +655,14 @@ export const duma_2016_tic_464_region_34 = [
     "ballot": "single-member",
     "tikTvd": "23420001105198",
     "tikName": "Дубовская",
+    "regionCode": "34",
+    "regionTvd": "100100067795958",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100067795959",
+      "oikName": "Волгоградская область – Волгоградский"
+    },
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 22135,
@@ -686,6 +750,14 @@ export const duma_2016_tic_464_region_34 = [
     "ballot": "single-member",
     "tikTvd": "23420001105199",
     "tikName": "Даниловская",
+    "regionCode": "34",
+    "regionTvd": "100100067795958",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100067795959",
+      "oikName": "Волгоградская область – Волгоградский"
+    },
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 13680,
@@ -764,6 +836,14 @@ export const duma_2016_tic_464_region_34 = [
     "ballot": "single-member",
     "tikTvd": "23420001105201",
     "tikName": "Волгоград, Центральная",
+    "regionCode": "34",
+    "regionTvd": "100100067795958",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100067795959",
+      "oikName": "Волгоградская область – Волгоградский"
+    },
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 56024,
@@ -846,6 +926,14 @@ export const duma_2016_tic_464_region_34 = [
     "ballot": "single-member",
     "tikTvd": "23420001105202",
     "tikName": "Волгоград, Краснооктябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100067795958",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100067795959",
+      "oikName": "Волгоградская область – Волгоградский"
+    },
     "uikCount": 46,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 119011,
@@ -943,6 +1031,14 @@ export const duma_2016_tic_464_region_34 = [
     "ballot": "single-member",
     "tikTvd": "23420001105203",
     "tikName": "Чернышковская",
+    "regionCode": "34",
+    "regionTvd": "100100067795958",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 82,
+      "oikTvd": "100100067795960",
+      "oikName": "Волгоградская область – Красноармейский"
+    },
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 13301,
@@ -1016,6 +1112,14 @@ export const duma_2016_tic_464_region_34 = [
     "ballot": "single-member",
     "tikTvd": "23420001105204",
     "tikName": "Суровикинская",
+    "regionCode": "34",
+    "regionTvd": "100100067795958",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 82,
+      "oikTvd": "100100067795960",
+      "oikName": "Волгоградская область – Красноармейский"
+    },
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 26657,
@@ -1096,6 +1200,14 @@ export const duma_2016_tic_464_region_34 = [
     "ballot": "single-member",
     "tikTvd": "23420001105205",
     "tikName": "Серафимовичская",
+    "regionCode": "34",
+    "regionTvd": "100100067795958",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 82,
+      "oikTvd": "100100067795960",
+      "oikName": "Волгоградская область – Красноармейский"
+    },
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 18327,
@@ -1172,6 +1284,14 @@ export const duma_2016_tic_464_region_34 = [
     "ballot": "single-member",
     "tikTvd": "23420001105206",
     "tikName": "Светлоярская",
+    "regionCode": "34",
+    "regionTvd": "100100067795958",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 82,
+      "oikTvd": "100100067795960",
+      "oikName": "Волгоградская область – Красноармейский"
+    },
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 30410,
@@ -1251,6 +1371,14 @@ export const duma_2016_tic_464_region_34 = [
     "ballot": "single-member",
     "tikTvd": "23420001105207",
     "tikName": "Октябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100067795958",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 82,
+      "oikTvd": "100100067795960",
+      "oikName": "Волгоградская область – Красноармейский"
+    },
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 17515,
@@ -1330,6 +1458,14 @@ export const duma_2016_tic_464_region_34 = [
     "ballot": "single-member",
     "tikTvd": "23420001105208",
     "tikName": "Кумылженская",
+    "regionCode": "34",
+    "regionTvd": "100100067795958",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 82,
+      "oikTvd": "100100067795960",
+      "oikName": "Волгоградская область – Красноармейский"
+    },
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 15391,
@@ -1404,6 +1540,14 @@ export const duma_2016_tic_464_region_34 = [
     "ballot": "single-member",
     "tikTvd": "23420001105209",
     "tikName": "Котельниковская",
+    "regionCode": "34",
+    "regionTvd": "100100067795958",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 82,
+      "oikTvd": "100100067795960",
+      "oikName": "Волгоградская область – Красноармейский"
+    },
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 26546,
@@ -1491,6 +1635,14 @@ export const duma_2016_tic_464_region_34 = [
     "ballot": "single-member",
     "tikTvd": "23420001105210",
     "tikName": "Клетская",
+    "regionCode": "34",
+    "regionTvd": "100100067795958",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 82,
+      "oikTvd": "100100067795960",
+      "oikName": "Волгоградская область – Красноармейский"
+    },
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 13618,
@@ -1562,6 +1714,14 @@ export const duma_2016_tic_464_region_34 = [
     "ballot": "single-member",
     "tikTvd": "23420001105211",
     "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100067795958",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 82,
+      "oikTvd": "100100067795960",
+      "oikName": "Волгоградская область – Красноармейский"
+    },
     "uikCount": 51,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 45333,
@@ -1662,6 +1822,14 @@ export const duma_2016_tic_464_region_34 = [
     "ballot": "single-member",
     "tikTvd": "23420001105212",
     "tikName": "Волгоград, Советская",
+    "regionCode": "34",
+    "regionTvd": "100100067795958",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 82,
+      "oikTvd": "100100067795960",
+      "oikName": "Волгоградская область – Красноармейский"
+    },
     "uikCount": 41,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 83171,
@@ -1752,6 +1920,14 @@ export const duma_2016_tic_464_region_34 = [
     "ballot": "single-member",
     "tikTvd": "23420001105213",
     "tikName": "Волгоград, Красноармейская",
+    "regionCode": "34",
+    "regionTvd": "100100067795958",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 82,
+      "oikTvd": "100100067795960",
+      "oikName": "Волгоградская область – Красноармейский"
+    },
     "uikCount": 58,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 126800,
@@ -1859,6 +2035,14 @@ export const duma_2016_tic_464_region_34 = [
     "ballot": "single-member",
     "tikTvd": "23420001105214",
     "tikName": "Волгоград, Кировская",
+    "regionCode": "34",
+    "regionTvd": "100100067795958",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 82,
+      "oikTvd": "100100067795960",
+      "oikName": "Волгоградская область – Красноармейский"
+    },
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 70317,
@@ -1940,6 +2124,14 @@ export const duma_2016_tic_464_region_34 = [
     "ballot": "single-member",
     "tikTvd": "23420001105216",
     "tikName": "Фроловская городская",
+    "regionCode": "34",
+    "regionTvd": "100100067795958",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100067795961",
+      "oikName": "Волгоградская область – Михайловский"
+    },
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 29045,
@@ -2012,6 +2204,14 @@ export const duma_2016_tic_464_region_34 = [
     "ballot": "single-member",
     "tikTvd": "23420001105217",
     "tikName": "Фроловская",
+    "regionCode": "34",
+    "regionTvd": "100100067795958",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100067795961",
+      "oikName": "Волгоградская область – Михайловский"
+    },
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 11597,
@@ -2084,6 +2284,14 @@ export const duma_2016_tic_464_region_34 = [
     "ballot": "single-member",
     "tikTvd": "23420001105218",
     "tikName": "Урюпинская городская",
+    "regionCode": "34",
+    "regionTvd": "100100067795958",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100067795961",
+      "oikName": "Волгоградская область – Михайловский"
+    },
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 30997,
@@ -2155,6 +2363,14 @@ export const duma_2016_tic_464_region_34 = [
     "ballot": "single-member",
     "tikTvd": "23420001105219",
     "tikName": "Урюпинская",
+    "regionCode": "34",
+    "regionTvd": "100100067795958",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100067795961",
+      "oikName": "Волгоградская область – Михайловский"
+    },
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 20557,
@@ -2235,6 +2451,14 @@ export const duma_2016_tic_464_region_34 = [
     "ballot": "single-member",
     "tikTvd": "23420001105220",
     "tikName": "Новониколаевская",
+    "regionCode": "34",
+    "regionTvd": "100100067795958",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100067795961",
+      "oikName": "Волгоградская область – Михайловский"
+    },
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 17684,
@@ -2307,6 +2531,14 @@ export const duma_2016_tic_464_region_34 = [
     "ballot": "single-member",
     "tikTvd": "23420001105221",
     "tikName": "Новоаннинская",
+    "regionCode": "34",
+    "regionTvd": "100100067795958",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100067795961",
+      "oikName": "Волгоградская область – Михайловский"
+    },
     "uikCount": 43,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 28183,
@@ -2401,6 +2633,14 @@ export const duma_2016_tic_464_region_34 = [
     "ballot": "single-member",
     "tikTvd": "23420001105222",
     "tikName": "Нехаевская",
+    "regionCode": "34",
+    "regionTvd": "100100067795958",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100067795961",
+      "oikName": "Волгоградская область – Михайловский"
+    },
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 12151,
@@ -2476,6 +2716,14 @@ export const duma_2016_tic_464_region_34 = [
     "ballot": "single-member",
     "tikTvd": "23420001105223",
     "tikName": "Михайловская городская",
+    "regionCode": "34",
+    "regionTvd": "100100067795958",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100067795961",
+      "oikName": "Волгоградская область – Михайловский"
+    },
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 44814,
@@ -2553,6 +2801,14 @@ export const duma_2016_tic_464_region_34 = [
     "ballot": "single-member",
     "tikTvd": "23420001105224",
     "tikName": "Киквидзенская",
+    "regionCode": "34",
+    "regionTvd": "100100067795958",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100067795961",
+      "oikName": "Волгоградская область – Михайловский"
+    },
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 12734,
@@ -2625,6 +2881,14 @@ export const duma_2016_tic_464_region_34 = [
     "ballot": "single-member",
     "tikTvd": "23420001105225",
     "tikName": "Иловлинская",
+    "regionCode": "34",
+    "regionTvd": "100100067795958",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100067795961",
+      "oikName": "Волгоградская область – Михайловский"
+    },
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 22885,
@@ -2702,6 +2966,14 @@ export const duma_2016_tic_464_region_34 = [
     "ballot": "single-member",
     "tikTvd": "23420001105226",
     "tikName": "Волгоград, Дзержинская",
+    "regionCode": "34",
+    "regionTvd": "100100067795958",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100067795961",
+      "oikName": "Волгоградская область – Михайловский"
+    },
     "uikCount": 55,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 134152,
@@ -2808,6 +3080,14 @@ export const duma_2016_tic_464_region_34 = [
     "ballot": "single-member",
     "tikTvd": "23420001105227",
     "tikName": "Волгоград, Ворошиловская",
+    "regionCode": "34",
+    "regionTvd": "100100067795958",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100067795961",
+      "oikName": "Волгоградская область – Михайловский"
+    },
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 55868,
@@ -2885,6 +3165,14 @@ export const duma_2016_tic_464_region_34 = [
     "ballot": "single-member",
     "tikTvd": "23420001105228",
     "tikName": "Алексеевская",
+    "regionCode": "34",
+    "regionTvd": "100100067795958",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100067795961",
+      "oikName": "Волгоградская область – Михайловский"
+    },
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 12895,
@@ -2956,6 +3244,14 @@ export const duma_2016_tic_464_region_34 = [
     "ballot": "single-member",
     "tikTvd": "23420001105229",
     "tikName": "Старополтавская",
+    "regionCode": "34",
+    "regionTvd": "100100067795958",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 84,
+      "oikTvd": "100100067795962",
+      "oikName": "Волгоградская область – Волжский"
+    },
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 16042,
@@ -3036,6 +3332,14 @@ export const duma_2016_tic_464_region_34 = [
     "ballot": "single-member",
     "tikTvd": "23420001105230",
     "tikName": "Среднеахтубинская",
+    "regionCode": "34",
+    "regionTvd": "100100067795958",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 84,
+      "oikTvd": "100100067795962",
+      "oikName": "Волгоградская область – Волжский"
+    },
     "uikCount": 56,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 42886,
@@ -3144,6 +3448,14 @@ export const duma_2016_tic_464_region_34 = [
     "ballot": "single-member",
     "tikTvd": "23420001105231",
     "tikName": "Палласовская",
+    "regionCode": "34",
+    "regionTvd": "100100067795958",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 84,
+      "oikTvd": "100100067795962",
+      "oikName": "Волгоградская область – Волжский"
+    },
     "uikCount": 42,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 31637,
@@ -3238,6 +3550,14 @@ export const duma_2016_tic_464_region_34 = [
     "ballot": "single-member",
     "tikTvd": "23420001105232",
     "tikName": "Николаевская",
+    "regionCode": "34",
+    "regionTvd": "100100067795958",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 84,
+      "oikTvd": "100100067795962",
+      "oikName": "Волгоградская область – Волжский"
+    },
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 23257,
@@ -3309,6 +3629,14 @@ export const duma_2016_tic_464_region_34 = [
     "ballot": "single-member",
     "tikTvd": "23420001105233",
     "tikName": "Ленинская",
+    "regionCode": "34",
+    "regionTvd": "100100067795958",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 84,
+      "oikTvd": "100100067795962",
+      "oikName": "Волгоградская область – Волжский"
+    },
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 23222,
@@ -3386,6 +3714,14 @@ export const duma_2016_tic_464_region_34 = [
     "ballot": "single-member",
     "tikTvd": "23420001105234",
     "tikName": "Волжская городская ",
+    "regionCode": "34",
+    "regionTvd": "100100067795958",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 84,
+      "oikTvd": "100100067795962",
+      "oikName": "Волгоградская область – Волжский"
+    },
     "uikCount": 100,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 222142,
@@ -3538,6 +3874,14 @@ export const duma_2016_tic_464_region_34 = [
     "ballot": "single-member",
     "tikTvd": "23420001105235",
     "tikName": "Волгоград, Тракторозаводская",
+    "regionCode": "34",
+    "regionTvd": "100100067795958",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 84,
+      "oikTvd": "100100067795962",
+      "oikName": "Волгоградская область – Волжский"
+    },
     "uikCount": 42,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 100456,
@@ -3632,6 +3976,14 @@ export const duma_2016_tic_464_region_34 = [
     "ballot": "single-member",
     "tikTvd": "23420001105236",
     "tikName": "Быковская",
+    "regionCode": "34",
+    "regionTvd": "100100067795958",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 84,
+      "oikTvd": "100100067795962",
+      "oikName": "Волгоградская область – Волжский"
+    },
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 20910,
@@ -3706,6 +4058,14 @@ export const duma_2016_tic_464_region_34 = [
     "ballot": "single-member",
     "tikTvd": "23420001108628",
     "tikName": "Михайловская",
+    "regionCode": "34",
+    "regionTvd": "100100067795958",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100067795961",
+      "oikName": "Волгоградская область – Михайловский"
+    },
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 18694,
@@ -3793,6 +4153,14 @@ export const duma_2016_tic_464_region_34 = [
     "ballot": "single-member",
     "tikTvd": "23420001110215",
     "tikName": "Городищенская - 81",
+    "regionCode": "34",
+    "regionTvd": "100100067795958",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100067795959",
+      "oikName": "Волгоградская область – Волгоградский"
+    },
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 26429,
@@ -3862,6 +4230,14 @@ export const duma_2016_tic_464_region_34 = [
     "ballot": "single-member",
     "tikTvd": "23420001110216",
     "tikName": "Городищенская - 83",
+    "regionCode": "34",
+    "regionTvd": "100100067795958",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 83,
+      "oikTvd": "100100067795961",
+      "oikName": "Волгоградская область – Михайловский"
+    },
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 23126,

@@ -11,6 +11,9 @@ export const duma_2011_tic_233_region_38 = [
     "ballot": "party",
     "tikTvd": "2382000416138",
     "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100028713375",
+    "regionName": "Иркутская область",
     "uikCount": 107,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 195549,
@@ -167,6 +170,9 @@ export const duma_2011_tic_233_region_38 = [
     "ballot": "party",
     "tikTvd": "2382000416139",
     "tikName": "Шелеховская",
+    "regionCode": "38",
+    "regionTvd": "100100028713375",
+    "regionName": "Иркутская область",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 48162,
@@ -243,6 +249,9 @@ export const duma_2011_tic_233_region_38 = [
     "ballot": "party",
     "tikTvd": "2382000416140",
     "tikName": "Усолье-Сибирская городская",
+    "regionCode": "38",
+    "regionTvd": "100100028713375",
+    "regionName": "Иркутская область",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 68208,
@@ -330,6 +339,9 @@ export const duma_2011_tic_233_region_38 = [
     "ballot": "party",
     "tikTvd": "2382000416141",
     "tikName": "Усольская ",
+    "regionCode": "38",
+    "regionTvd": "100100028713375",
+    "regionName": "Иркутская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 37243,
@@ -419,6 +431,9 @@ export const duma_2011_tic_233_region_38 = [
     "ballot": "party",
     "tikTvd": "2382000416142",
     "tikName": "Слюдянская",
+    "regionCode": "38",
+    "regionTvd": "100100028713375",
+    "regionName": "Иркутская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 34363,
@@ -496,6 +511,9 @@ export const duma_2011_tic_233_region_38 = [
     "ballot": "party",
     "tikTvd": "2382000416143",
     "tikName": "Ольхонская",
+    "regionCode": "38",
+    "regionTvd": "100100028713375",
+    "regionName": "Иркутская область",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 6879,
@@ -562,6 +580,9 @@ export const duma_2011_tic_233_region_38 = [
     "ballot": "party",
     "tikTvd": "2382000416144",
     "tikName": "Мамско-Чуйская",
+    "regionCode": "38",
+    "regionTvd": "100100028713375",
+    "regionName": "Иркутская область",
     "uikCount": 8,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 4859,
@@ -619,6 +640,9 @@ export const duma_2011_tic_233_region_38 = [
     "ballot": "party",
     "tikTvd": "2382000416145",
     "tikName": "Киренская",
+    "regionCode": "38",
+    "regionTvd": "100100028713375",
+    "regionName": "Иркутская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 17534,
@@ -702,6 +726,9 @@ export const duma_2011_tic_233_region_38 = [
     "ballot": "party",
     "tikTvd": "2382000416146",
     "tikName": "Качугская",
+    "regionCode": "38",
+    "regionTvd": "100100028713375",
+    "regionName": "Иркутская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 14254,
@@ -791,6 +818,9 @@ export const duma_2011_tic_233_region_38 = [
     "ballot": "party",
     "tikTvd": "2382000416147",
     "tikName": "Катангская",
+    "regionCode": "38",
+    "regionTvd": "100100028713375",
+    "regionName": "Иркутская область",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 3220,
@@ -851,6 +881,9 @@ export const duma_2011_tic_233_region_38 = [
     "ballot": "party",
     "tikTvd": "2382000416148",
     "tikName": "Казачинско-Ленская",
+    "regionCode": "38",
+    "regionTvd": "100100028713375",
+    "regionName": "Иркутская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 14837,
@@ -922,6 +955,9 @@ export const duma_2011_tic_233_region_38 = [
     "ballot": "party",
     "tikTvd": "2382000416149",
     "tikName": "Иркутск, Свердловская",
+    "regionCode": "38",
+    "regionTvd": "100100028713375",
+    "regionName": "Иркутская область",
     "uikCount": 76,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 154262,
@@ -1047,6 +1083,9 @@ export const duma_2011_tic_233_region_38 = [
     "ballot": "party",
     "tikTvd": "2382000416150",
     "tikName": "Иркутск, Правобережная",
+    "regionCode": "38",
+    "regionTvd": "100100028713375",
+    "regionName": "Иркутская область",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 83096,
@@ -1142,6 +1181,9 @@ export const duma_2011_tic_233_region_38 = [
     "ballot": "party",
     "tikTvd": "2382000416151",
     "tikName": "Иркутск, Октябрьская",
+    "regionCode": "38",
+    "regionTvd": "100100028713375",
+    "regionName": "Иркутская область",
     "uikCount": 56,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 110816,
@@ -1247,6 +1289,9 @@ export const duma_2011_tic_233_region_38 = [
     "ballot": "party",
     "tikTvd": "2382000416152",
     "tikName": "Иркутск, Ленинская",
+    "regionCode": "38",
+    "regionTvd": "100100028713375",
+    "regionName": "Иркутская область",
     "uikCount": 62,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 112206,
@@ -1358,6 +1403,9 @@ export const duma_2011_tic_233_region_38 = [
     "ballot": "party",
     "tikTvd": "2382000416153",
     "tikName": "Иркутская ",
+    "regionCode": "38",
+    "regionTvd": "100100028713375",
+    "regionName": "Иркутская область",
     "uikCount": 70,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 56966,
@@ -1477,6 +1525,9 @@ export const duma_2011_tic_233_region_38 = [
     "ballot": "party",
     "tikTvd": "2382000416154",
     "tikName": "Жигаловская",
+    "regionCode": "38",
+    "regionTvd": "100100028713375",
+    "regionName": "Иркутская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 7161,
@@ -1549,6 +1600,9 @@ export const duma_2011_tic_233_region_38 = [
     "ballot": "party",
     "tikTvd": "2382000416155",
     "tikName": "Бодайбинская",
+    "regionCode": "38",
+    "regionTvd": "100100028713375",
+    "regionName": "Иркутская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 19789,
@@ -1619,6 +1673,9 @@ export const duma_2011_tic_233_region_38 = [
     "ballot": "party",
     "tikTvd": "2382000416156",
     "tikName": "Чунская",
+    "regionCode": "38",
+    "regionTvd": "100100028713375",
+    "regionName": "Иркутская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 28369,
@@ -1708,6 +1765,9 @@ export const duma_2011_tic_233_region_38 = [
     "ballot": "party",
     "tikTvd": "2382000416157",
     "tikName": "Черемховская городская",
+    "regionCode": "38",
+    "regionTvd": "100100028713375",
+    "regionName": "Иркутская область",
     "uikCount": 48,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 41633,
@@ -1805,6 +1865,9 @@ export const duma_2011_tic_233_region_38 = [
     "ballot": "party",
     "tikTvd": "2382000416158",
     "tikName": "Черемховская ",
+    "regionCode": "38",
+    "regionTvd": "100100028713375",
+    "regionName": "Иркутская область",
     "uikCount": 47,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 23525,
@@ -1901,6 +1964,9 @@ export const duma_2011_tic_233_region_38 = [
     "ballot": "party",
     "tikTvd": "2382000416159",
     "tikName": "Усть-Удинская",
+    "regionCode": "38",
+    "regionTvd": "100100028713375",
+    "regionName": "Иркутская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 11650,
@@ -1970,6 +2036,9 @@ export const duma_2011_tic_233_region_38 = [
     "ballot": "party",
     "tikTvd": "2382000416160",
     "tikName": "Усть-Кутская",
+    "regionCode": "38",
+    "regionTvd": "100100028713375",
+    "regionName": "Иркутская область",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 40208,
@@ -2060,6 +2129,9 @@ export const duma_2011_tic_233_region_38 = [
     "ballot": "party",
     "tikTvd": "2382000416161",
     "tikName": "Усть-Илимская городская",
+    "regionCode": "38",
+    "regionTvd": "100100028713375",
+    "regionName": "Иркутская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 70138,
@@ -2149,6 +2221,9 @@ export const duma_2011_tic_233_region_38 = [
     "ballot": "party",
     "tikTvd": "2382000416162",
     "tikName": "Усть-Илимская ",
+    "regionCode": "38",
+    "regionTvd": "100100028713375",
+    "regionName": "Иркутская область",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 16019,
@@ -2214,6 +2289,9 @@ export const duma_2011_tic_233_region_38 = [
     "ballot": "party",
     "tikTvd": "2382000416163",
     "tikName": "Тулунская городская",
+    "regionCode": "38",
+    "regionTvd": "100100028713375",
+    "regionName": "Иркутская область",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 36122,
@@ -2307,6 +2385,9 @@ export const duma_2011_tic_233_region_38 = [
     "ballot": "party",
     "tikTvd": "2382000416164",
     "tikName": "Тулунская ",
+    "regionCode": "38",
+    "regionTvd": "100100028713375",
+    "regionName": "Иркутская область",
     "uikCount": 51,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 21008,
@@ -2407,6 +2488,9 @@ export const duma_2011_tic_233_region_38 = [
     "ballot": "party",
     "tikTvd": "2382000416165",
     "tikName": "Тайшетская",
+    "regionCode": "38",
+    "regionTvd": "100100028713375",
+    "regionName": "Иркутская область",
     "uikCount": 87,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 58359,
@@ -2543,6 +2627,9 @@ export const duma_2011_tic_233_region_38 = [
     "ballot": "party",
     "tikTvd": "2382000416166",
     "tikName": "Саянская",
+    "regionCode": "38",
+    "regionTvd": "100100028713375",
+    "regionName": "Иркутская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 29926,
@@ -2614,6 +2701,9 @@ export const duma_2011_tic_233_region_38 = [
     "ballot": "party",
     "tikTvd": "2382000416167",
     "tikName": "Нижнеудинская",
+    "regionCode": "38",
+    "regionTvd": "100100028713375",
+    "regionName": "Иркутская область",
     "uikCount": 93,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 55797,
@@ -2756,6 +2846,9 @@ export const duma_2011_tic_233_region_38 = [
     "ballot": "party",
     "tikTvd": "2382000416168",
     "tikName": "Нижнеилимская",
+    "regionCode": "38",
+    "regionTvd": "100100028713375",
+    "regionName": "Иркутская область",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 46119,
@@ -2847,6 +2940,9 @@ export const duma_2011_tic_233_region_38 = [
     "ballot": "party",
     "tikTvd": "2382000416169",
     "tikName": "Куйтунская",
+    "regionCode": "38",
+    "regionTvd": "100100028713375",
+    "regionName": "Иркутская область",
     "uikCount": 65,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 26298,
@@ -2961,6 +3057,9 @@ export const duma_2011_tic_233_region_38 = [
     "ballot": "party",
     "tikTvd": "2382000416170",
     "tikName": "Зиминская городская",
+    "regionCode": "38",
+    "regionTvd": "100100028713375",
+    "regionName": "Иркутская область",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 24984,
@@ -3026,6 +3125,9 @@ export const duma_2011_tic_233_region_38 = [
     "ballot": "party",
     "tikTvd": "2382000416171",
     "tikName": "Зиминская ",
+    "regionCode": "38",
+    "regionTvd": "100100028713375",
+    "regionName": "Иркутская область",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 10565,
@@ -3102,6 +3204,9 @@ export const duma_2011_tic_233_region_38 = [
     "ballot": "party",
     "tikTvd": "2382000416172",
     "tikName": "Заларинская",
+    "regionCode": "38",
+    "regionTvd": "100100028713375",
+    "regionName": "Иркутская область",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 22620,
@@ -3194,6 +3299,9 @@ export const duma_2011_tic_233_region_38 = [
     "ballot": "party",
     "tikTvd": "2382000416175",
     "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100028713375",
+    "regionName": "Иркутская область",
     "uikCount": 100,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 191487,
@@ -3343,6 +3451,9 @@ export const duma_2011_tic_233_region_38 = [
     "ballot": "party",
     "tikTvd": "2382000416177",
     "tikName": "Братская ",
+    "regionCode": "38",
+    "regionTvd": "100100028713375",
+    "regionName": "Иркутская область",
     "uikCount": 49,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 44059,
@@ -3441,6 +3552,9 @@ export const duma_2011_tic_233_region_38 = [
     "ballot": "party",
     "tikTvd": "2382000416180",
     "tikName": "Балаганская",
+    "regionCode": "38",
+    "regionTvd": "100100028713375",
+    "regionName": "Иркутская область",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 7201,
@@ -3502,6 +3616,9 @@ export const duma_2011_tic_233_region_38 = [
     "ballot": "party",
     "tikTvd": "2382000416182",
     "tikName": "Свирская",
+    "regionCode": "38",
+    "regionTvd": "100100028713375",
+    "regionName": "Иркутская область",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 11572,
@@ -3567,6 +3684,9 @@ export const duma_2011_tic_233_region_38 = [
     "ballot": "party",
     "tikTvd": "2382000416813",
     "tikName": "Аларская",
+    "regionCode": "38",
+    "regionTvd": "100100028713375",
+    "regionName": "Иркутская область",
     "uikCount": 48,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 19994,
@@ -3664,6 +3784,9 @@ export const duma_2011_tic_233_region_38 = [
     "ballot": "party",
     "tikTvd": "2382000416814",
     "tikName": "Баяндаевская",
+    "regionCode": "38",
+    "regionTvd": "100100028713375",
+    "regionName": "Иркутская область",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 8904,
@@ -3740,6 +3863,9 @@ export const duma_2011_tic_233_region_38 = [
     "ballot": "party",
     "tikTvd": "2382000416815",
     "tikName": "Боханская",
+    "regionCode": "38",
+    "regionTvd": "100100028713375",
+    "regionName": "Иркутская область",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 16968,
@@ -3830,6 +3956,9 @@ export const duma_2011_tic_233_region_38 = [
     "ballot": "party",
     "tikTvd": "2382000416816",
     "tikName": "Нукутская",
+    "regionCode": "38",
+    "regionTvd": "100100028713375",
+    "regionName": "Иркутская область",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 11481,
@@ -3912,6 +4041,9 @@ export const duma_2011_tic_233_region_38 = [
     "ballot": "party",
     "tikTvd": "2382000416817",
     "tikName": "Осинская",
+    "regionCode": "38",
+    "regionTvd": "100100028713375",
+    "regionName": "Иркутская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 14170,
@@ -3992,6 +4124,9 @@ export const duma_2011_tic_233_region_38 = [
     "ballot": "party",
     "tikTvd": "2382000416818",
     "tikName": "Эхирит-Булагатская",
+    "regionCode": "38",
+    "regionTvd": "100100028713375",
+    "regionName": "Иркутская область",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 22579,

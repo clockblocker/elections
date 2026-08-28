@@ -7,1513 +7,2773 @@ export const president_2024_uik_to_tik_region_9 = [
   {
     "uikNumber": 1,
     "uikTvd": "4094010556591",
+    "uikName": "УИК №1",
     "tikTvd": "2092000745313",
-    "tikName": "Черкесская городская"
+    "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 2,
     "uikTvd": "4094010556592",
+    "uikName": "УИК №2",
     "tikTvd": "2092000745313",
-    "tikName": "Черкесская городская"
+    "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 3,
     "uikTvd": "4094010556593",
+    "uikName": "УИК №3",
     "tikTvd": "2092000745313",
-    "tikName": "Черкесская городская"
+    "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 4,
     "uikTvd": "4094010556594",
+    "uikName": "УИК №4",
     "tikTvd": "2092000745313",
-    "tikName": "Черкесская городская"
+    "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 5,
     "uikTvd": "4094010556595",
+    "uikName": "УИК №5",
     "tikTvd": "2092000745313",
-    "tikName": "Черкесская городская"
+    "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 6,
     "uikTvd": "4094010556596",
+    "uikName": "УИК №6",
     "tikTvd": "2092000745313",
-    "tikName": "Черкесская городская"
+    "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 7,
     "uikTvd": "4094010556597",
+    "uikName": "УИК №7",
     "tikTvd": "2092000745313",
-    "tikName": "Черкесская городская"
+    "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 8,
     "uikTvd": "4094010556598",
+    "uikName": "УИК №8",
     "tikTvd": "2092000745313",
-    "tikName": "Черкесская городская"
+    "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 9,
     "uikTvd": "4094010556599",
+    "uikName": "УИК №9",
     "tikTvd": "2092000745313",
-    "tikName": "Черкесская городская"
+    "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 10,
     "uikTvd": "4094010556600",
+    "uikName": "УИК №10",
     "tikTvd": "2092000745313",
-    "tikName": "Черкесская городская"
+    "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 11,
     "uikTvd": "4094010556601",
+    "uikName": "УИК №11",
     "tikTvd": "2092000745313",
-    "tikName": "Черкесская городская"
+    "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 12,
     "uikTvd": "4094010556602",
+    "uikName": "УИК №12",
     "tikTvd": "2092000745313",
-    "tikName": "Черкесская городская"
+    "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 13,
     "uikTvd": "4094010556603",
+    "uikName": "УИК №13",
     "tikTvd": "2092000745313",
-    "tikName": "Черкесская городская"
+    "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 14,
     "uikTvd": "4094010556604",
+    "uikName": "УИК №14",
     "tikTvd": "2092000745313",
-    "tikName": "Черкесская городская"
+    "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 15,
     "uikTvd": "4094010556605",
+    "uikName": "УИК №15",
     "tikTvd": "2092000745313",
-    "tikName": "Черкесская городская"
+    "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 16,
     "uikTvd": "4094010556606",
+    "uikName": "УИК №16",
     "tikTvd": "2092000745313",
-    "tikName": "Черкесская городская"
+    "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 17,
     "uikTvd": "4094010556607",
+    "uikName": "УИК №17",
     "tikTvd": "2092000745313",
-    "tikName": "Черкесская городская"
+    "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 18,
     "uikTvd": "4094010556608",
+    "uikName": "УИК №18",
     "tikTvd": "2092000745313",
-    "tikName": "Черкесская городская"
+    "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 19,
     "uikTvd": "4094010556609",
+    "uikName": "УИК №19",
     "tikTvd": "2092000745313",
-    "tikName": "Черкесская городская"
+    "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 20,
     "uikTvd": "4094010556610",
+    "uikName": "УИК №20",
     "tikTvd": "2092000745313",
-    "tikName": "Черкесская городская"
+    "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 21,
     "uikTvd": "4094010556611",
+    "uikName": "УИК №21",
     "tikTvd": "2092000745313",
-    "tikName": "Черкесская городская"
+    "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 22,
     "uikTvd": "4094010556612",
+    "uikName": "УИК №22",
     "tikTvd": "2092000745313",
-    "tikName": "Черкесская городская"
+    "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 23,
     "uikTvd": "4094010556613",
+    "uikName": "УИК №23",
     "tikTvd": "2092000745313",
-    "tikName": "Черкесская городская"
+    "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 24,
     "uikTvd": "4094010556614",
+    "uikName": "УИК №24",
     "tikTvd": "2092000745313",
-    "tikName": "Черкесская городская"
+    "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 25,
     "uikTvd": "4094010556615",
+    "uikName": "УИК №25",
     "tikTvd": "2092000745313",
-    "tikName": "Черкесская городская"
+    "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 26,
     "uikTvd": "4094010556616",
+    "uikName": "УИК №26",
     "tikTvd": "2092000745313",
-    "tikName": "Черкесская городская"
+    "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 27,
     "uikTvd": "4094010556617",
+    "uikName": "УИК №27",
     "tikTvd": "2092000745313",
-    "tikName": "Черкесская городская"
+    "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 28,
     "uikTvd": "4094010556618",
+    "uikName": "УИК №28",
     "tikTvd": "2092000745313",
-    "tikName": "Черкесская городская"
+    "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 29,
     "uikTvd": "4094010556619",
+    "uikName": "УИК №29",
     "tikTvd": "2092000745313",
-    "tikName": "Черкесская городская"
+    "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 30,
     "uikTvd": "4094010556620",
+    "uikName": "УИК №30",
     "tikTvd": "2092000745313",
-    "tikName": "Черкесская городская"
+    "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 31,
     "uikTvd": "4094010556621",
+    "uikName": "УИК №31",
     "tikTvd": "2092000745313",
-    "tikName": "Черкесская городская"
+    "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 32,
     "uikTvd": "4094010556622",
+    "uikName": "УИК №32",
     "tikTvd": "2092000745313",
-    "tikName": "Черкесская городская"
+    "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 33,
     "uikTvd": "4094010556623",
+    "uikName": "УИК №33",
     "tikTvd": "2092000745313",
-    "tikName": "Черкесская городская"
+    "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 34,
     "uikTvd": "4094010556624",
+    "uikName": "УИК №34",
     "tikTvd": "2092000745313",
-    "tikName": "Черкесская городская"
+    "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 35,
     "uikTvd": "4094010556625",
+    "uikName": "УИК №35",
     "tikTvd": "2092000745313",
-    "tikName": "Черкесская городская"
+    "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 36,
     "uikTvd": "4094010556626",
+    "uikName": "УИК №36",
     "tikTvd": "2092000745313",
-    "tikName": "Черкесская городская"
+    "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 37,
     "uikTvd": "4094010556627",
+    "uikName": "УИК №37",
     "tikTvd": "2092000745313",
-    "tikName": "Черкесская городская"
+    "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 38,
     "uikTvd": "4094010556628",
+    "uikName": "УИК №38",
     "tikTvd": "2092000745313",
-    "tikName": "Черкесская городская"
+    "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 39,
     "uikTvd": "4094010556629",
+    "uikName": "УИК №39",
     "tikTvd": "2092000745313",
-    "tikName": "Черкесская городская"
+    "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 40,
     "uikTvd": "4094010556630",
+    "uikName": "УИК №40",
     "tikTvd": "2092000745313",
-    "tikName": "Черкесская городская"
+    "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 41,
     "uikTvd": "4094010556631",
+    "uikName": "УИК №41",
     "tikTvd": "2092000745313",
-    "tikName": "Черкесская городская"
+    "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 42,
     "uikTvd": "4094010556632",
+    "uikName": "УИК №42",
     "tikTvd": "2092000745313",
-    "tikName": "Черкесская городская"
+    "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 43,
     "uikTvd": "4094010556633",
+    "uikName": "УИК №43",
     "tikTvd": "2092000745313",
-    "tikName": "Черкесская городская"
+    "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 44,
     "uikTvd": "4094010556634",
+    "uikName": "УИК №44",
     "tikTvd": "2092000745313",
-    "tikName": "Черкесская городская"
+    "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 45,
     "uikTvd": "4094010556635",
+    "uikName": "УИК №45",
     "tikTvd": "2092000745313",
-    "tikName": "Черкесская городская"
+    "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 46,
     "uikTvd": "4094010556636",
+    "uikName": "УИК №46",
     "tikTvd": "2092000745313",
-    "tikName": "Черкесская городская"
+    "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 47,
     "uikTvd": "4094010556637",
+    "uikName": "УИК №47",
     "tikTvd": "2092000745313",
-    "tikName": "Черкесская городская"
+    "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 48,
     "uikTvd": "4094010556638",
+    "uikName": "УИК №48",
     "tikTvd": "2092000745313",
-    "tikName": "Черкесская городская"
+    "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 49,
     "uikTvd": "4094010556639",
+    "uikName": "УИК №49",
     "tikTvd": "2092000745313",
-    "tikName": "Черкесская городская"
+    "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 50,
     "uikTvd": "4094010556640",
+    "uikName": "УИК №50",
     "tikTvd": "2092000745313",
-    "tikName": "Черкесская городская"
+    "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 51,
     "uikTvd": "4094010556641",
+    "uikName": "УИК №51",
     "tikTvd": "2092000745313",
-    "tikName": "Черкесская городская"
+    "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 52,
     "uikTvd": "4094010556642",
+    "uikName": "УИК №52",
     "tikTvd": "2092000745313",
-    "tikName": "Черкесская городская"
+    "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 53,
     "uikTvd": "4094004250086",
+    "uikName": "УИК №53",
     "tikTvd": "2092000745319",
-    "tikName": "Карачаевская городская"
+    "tikName": "Карачаевская городская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 54,
     "uikTvd": "4094004250087",
+    "uikName": "УИК №54",
     "tikTvd": "2092000745319",
-    "tikName": "Карачаевская городская"
+    "tikName": "Карачаевская городская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 55,
     "uikTvd": "4094004250088",
+    "uikName": "УИК №55",
     "tikTvd": "2092000745319",
-    "tikName": "Карачаевская городская"
+    "tikName": "Карачаевская городская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 56,
     "uikTvd": "4094004250089",
+    "uikName": "УИК №56",
     "tikTvd": "2092000745319",
-    "tikName": "Карачаевская городская"
+    "tikName": "Карачаевская городская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 57,
     "uikTvd": "4094004250090",
+    "uikName": "УИК №57",
     "tikTvd": "2092000745319",
-    "tikName": "Карачаевская городская"
+    "tikName": "Карачаевская городская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 58,
     "uikTvd": "4094004250091",
+    "uikName": "УИК №58",
     "tikTvd": "2092000745319",
-    "tikName": "Карачаевская городская"
+    "tikName": "Карачаевская городская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 59,
     "uikTvd": "4094004250092",
+    "uikName": "УИК №59",
     "tikTvd": "2092000745319",
-    "tikName": "Карачаевская городская"
+    "tikName": "Карачаевская городская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 60,
     "uikTvd": "4094004250093",
+    "uikName": "УИК №60",
     "tikTvd": "2092000745319",
-    "tikName": "Карачаевская городская"
+    "tikName": "Карачаевская городская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 61,
     "uikTvd": "4094004250094",
+    "uikName": "УИК №61",
     "tikTvd": "2092000745319",
-    "tikName": "Карачаевская городская"
+    "tikName": "Карачаевская городская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 62,
     "uikTvd": "4094004250095",
+    "uikName": "УИК №62",
     "tikTvd": "2092000745319",
-    "tikName": "Карачаевская городская"
+    "tikName": "Карачаевская городская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 63,
     "uikTvd": "4094004250096",
+    "uikName": "УИК №63",
     "tikTvd": "2092000745319",
-    "tikName": "Карачаевская городская"
+    "tikName": "Карачаевская городская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 64,
     "uikTvd": "4094004250097",
+    "uikName": "УИК №64",
     "tikTvd": "2092000745319",
-    "tikName": "Карачаевская городская"
+    "tikName": "Карачаевская городская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 65,
     "uikTvd": "4094004250098",
+    "uikName": "УИК №65",
     "tikTvd": "2092000745319",
-    "tikName": "Карачаевская городская"
+    "tikName": "Карачаевская городская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 66,
     "uikTvd": "4094004250099",
+    "uikName": "УИК №66",
     "tikTvd": "2092000745319",
-    "tikName": "Карачаевская городская"
+    "tikName": "Карачаевская городская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 67,
     "uikTvd": "4094004250100",
+    "uikName": "УИК №67",
     "tikTvd": "2092000745319",
-    "tikName": "Карачаевская городская"
+    "tikName": "Карачаевская городская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 68,
     "uikTvd": "4094004250101",
+    "uikName": "УИК №68",
     "tikTvd": "2092000745319",
-    "tikName": "Карачаевская городская"
+    "tikName": "Карачаевская городская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 69,
     "uikTvd": "4094004250102",
+    "uikName": "УИК №69",
     "tikTvd": "2092000745319",
-    "tikName": "Карачаевская городская"
+    "tikName": "Карачаевская городская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 70,
     "uikTvd": "4094011204817",
+    "uikName": "УИК №70",
     "tikTvd": "2092000745312",
-    "tikName": "Абазинская"
+    "tikName": "Абазинская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 71,
     "uikTvd": "4094011204818",
+    "uikName": "УИК №71",
     "tikTvd": "2092000745312",
-    "tikName": "Абазинская"
+    "tikName": "Абазинская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 72,
     "uikTvd": "4094011204819",
+    "uikName": "УИК №72",
     "tikTvd": "2092000745312",
-    "tikName": "Абазинская"
+    "tikName": "Абазинская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 73,
     "uikTvd": "4094011204820",
+    "uikName": "УИК №73",
     "tikTvd": "2092000745312",
-    "tikName": "Абазинская"
+    "tikName": "Абазинская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 74,
     "uikTvd": "4094011204821",
+    "uikName": "УИК №74",
     "tikTvd": "2092000745312",
-    "tikName": "Абазинская"
+    "tikName": "Абазинская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 75,
     "uikTvd": "4094011204822",
+    "uikName": "УИК №75",
     "tikTvd": "2092000745312",
-    "tikName": "Абазинская"
+    "tikName": "Абазинская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 76,
     "uikTvd": "4094011204823",
+    "uikName": "УИК №76",
     "tikTvd": "2092000745312",
-    "tikName": "Абазинская"
+    "tikName": "Абазинская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 77,
     "uikTvd": "4094001553797",
+    "uikName": "УИК №77",
     "tikTvd": "2092000745322",
-    "tikName": "Адыге-Хабльская"
+    "tikName": "Адыге-Хабльская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 78,
     "uikTvd": "4094001553798",
+    "uikName": "УИК №78",
     "tikTvd": "2092000745322",
-    "tikName": "Адыге-Хабльская"
+    "tikName": "Адыге-Хабльская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 79,
     "uikTvd": "4094001553799",
+    "uikName": "УИК №79",
     "tikTvd": "2092000745322",
-    "tikName": "Адыге-Хабльская"
+    "tikName": "Адыге-Хабльская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 80,
     "uikTvd": "4094001553800",
+    "uikName": "УИК №80",
     "tikTvd": "2092000745322",
-    "tikName": "Адыге-Хабльская"
+    "tikName": "Адыге-Хабльская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 81,
     "uikTvd": "4094001553801",
+    "uikName": "УИК №81",
     "tikTvd": "2092000745322",
-    "tikName": "Адыге-Хабльская"
+    "tikName": "Адыге-Хабльская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 82,
     "uikTvd": "4094001553802",
+    "uikName": "УИК №82",
     "tikTvd": "2092000745322",
-    "tikName": "Адыге-Хабльская"
+    "tikName": "Адыге-Хабльская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 83,
     "uikTvd": "4094001553803",
+    "uikName": "УИК №83",
     "tikTvd": "2092000745322",
-    "tikName": "Адыге-Хабльская"
+    "tikName": "Адыге-Хабльская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 84,
     "uikTvd": "4094001553804",
+    "uikName": "УИК №84",
     "tikTvd": "2092000745322",
-    "tikName": "Адыге-Хабльская"
+    "tikName": "Адыге-Хабльская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 85,
     "uikTvd": "4094001553805",
+    "uikName": "УИК №85",
     "tikTvd": "2092000745322",
-    "tikName": "Адыге-Хабльская"
+    "tikName": "Адыге-Хабльская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 86,
     "uikTvd": "4094001553806",
+    "uikName": "УИК №86",
     "tikTvd": "2092000745322",
-    "tikName": "Адыге-Хабльская"
+    "tikName": "Адыге-Хабльская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 87,
     "uikTvd": "4094001553807",
+    "uikName": "УИК №87",
     "tikTvd": "2092000745322",
-    "tikName": "Адыге-Хабльская"
+    "tikName": "Адыге-Хабльская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 88,
     "uikTvd": "4094001553808",
+    "uikName": "УИК №88",
     "tikTvd": "2092000745322",
-    "tikName": "Адыге-Хабльская"
+    "tikName": "Адыге-Хабльская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 89,
     "uikTvd": "4094001553809",
+    "uikName": "УИК №89",
     "tikTvd": "2092000745322",
-    "tikName": "Адыге-Хабльская"
+    "tikName": "Адыге-Хабльская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 90,
     "uikTvd": "4094001553810",
+    "uikName": "УИК №90",
     "tikTvd": "2092000745322",
-    "tikName": "Адыге-Хабльская"
+    "tikName": "Адыге-Хабльская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 91,
     "uikTvd": "4094001553811",
+    "uikName": "УИК №91",
     "tikTvd": "2092000745322",
-    "tikName": "Адыге-Хабльская"
+    "tikName": "Адыге-Хабльская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 92,
     "uikTvd": "40940021307603",
+    "uikName": "УИК №92",
     "tikTvd": "2092000745321",
-    "tikName": "Зеленчукская"
+    "tikName": "Зеленчукская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 93,
     "uikTvd": "40940021307604",
+    "uikName": "УИК №93",
     "tikTvd": "2092000745321",
-    "tikName": "Зеленчукская"
+    "tikName": "Зеленчукская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 94,
     "uikTvd": "40940021307605",
+    "uikName": "УИК №94",
     "tikTvd": "2092000745321",
-    "tikName": "Зеленчукская"
+    "tikName": "Зеленчукская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 95,
     "uikTvd": "40940021307606",
+    "uikName": "УИК №95",
     "tikTvd": "2092000745321",
-    "tikName": "Зеленчукская"
+    "tikName": "Зеленчукская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 96,
     "uikTvd": "40940021307607",
+    "uikName": "УИК №96",
     "tikTvd": "2092000745321",
-    "tikName": "Зеленчукская"
+    "tikName": "Зеленчукская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 97,
     "uikTvd": "40940021307608",
+    "uikName": "УИК №97",
     "tikTvd": "2092000745321",
-    "tikName": "Зеленчукская"
+    "tikName": "Зеленчукская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 98,
     "uikTvd": "40940021307609",
+    "uikName": "УИК №98",
     "tikTvd": "2092000745321",
-    "tikName": "Зеленчукская"
+    "tikName": "Зеленчукская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 99,
     "uikTvd": "40940021307610",
+    "uikName": "УИК №99",
     "tikTvd": "2092000745321",
-    "tikName": "Зеленчукская"
+    "tikName": "Зеленчукская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 100,
     "uikTvd": "40940021307611",
+    "uikName": "УИК №100",
     "tikTvd": "2092000745321",
-    "tikName": "Зеленчукская"
+    "tikName": "Зеленчукская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 101,
     "uikTvd": "40940021307612",
+    "uikName": "УИК №101",
     "tikTvd": "2092000745321",
-    "tikName": "Зеленчукская"
+    "tikName": "Зеленчукская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 102,
     "uikTvd": "40940021307613",
+    "uikName": "УИК №102",
     "tikTvd": "2092000745321",
-    "tikName": "Зеленчукская"
+    "tikName": "Зеленчукская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 103,
     "uikTvd": "40940021307614",
+    "uikName": "УИК №103",
     "tikTvd": "2092000745321",
-    "tikName": "Зеленчукская"
+    "tikName": "Зеленчукская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 104,
     "uikTvd": "40940021307615",
+    "uikName": "УИК №104",
     "tikTvd": "2092000745321",
-    "tikName": "Зеленчукская"
+    "tikName": "Зеленчукская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 105,
     "uikTvd": "40940021307616",
+    "uikName": "УИК №105",
     "tikTvd": "2092000745321",
-    "tikName": "Зеленчукская"
+    "tikName": "Зеленчукская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 106,
     "uikTvd": "40940021307617",
+    "uikName": "УИК №106",
     "tikTvd": "2092000745321",
-    "tikName": "Зеленчукская"
+    "tikName": "Зеленчукская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 107,
     "uikTvd": "40940021307618",
+    "uikName": "УИК №107",
     "tikTvd": "2092000745321",
-    "tikName": "Зеленчукская"
+    "tikName": "Зеленчукская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 108,
     "uikTvd": "40940021307619",
+    "uikName": "УИК №108",
     "tikTvd": "2092000745321",
-    "tikName": "Зеленчукская"
+    "tikName": "Зеленчукская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 109,
     "uikTvd": "40940021307620",
+    "uikName": "УИК №109",
     "tikTvd": "2092000745321",
-    "tikName": "Зеленчукская"
+    "tikName": "Зеленчукская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 110,
     "uikTvd": "40940021307621",
+    "uikName": "УИК №110",
     "tikTvd": "2092000745321",
-    "tikName": "Зеленчукская"
+    "tikName": "Зеленчукская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 111,
     "uikTvd": "40940021307622",
+    "uikName": "УИК №111",
     "tikTvd": "2092000745321",
-    "tikName": "Зеленчукская"
+    "tikName": "Зеленчукская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 112,
     "uikTvd": "40940021307623",
+    "uikName": "УИК №112",
     "tikTvd": "2092000745321",
-    "tikName": "Зеленчукская"
+    "tikName": "Зеленчукская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 113,
     "uikTvd": "40940021307624",
+    "uikName": "УИК №113",
     "tikTvd": "2092000745321",
-    "tikName": "Зеленчукская"
+    "tikName": "Зеленчукская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 114,
     "uikTvd": "40940021307625",
+    "uikName": "УИК №114",
     "tikTvd": "2092000745321",
-    "tikName": "Зеленчукская"
+    "tikName": "Зеленчукская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 115,
     "uikTvd": "40940021307626",
+    "uikName": "УИК №115",
     "tikTvd": "2092000745321",
-    "tikName": "Зеленчукская"
+    "tikName": "Зеленчукская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 116,
     "uikTvd": "40940021307627",
+    "uikName": "УИК №116",
     "tikTvd": "2092000745321",
-    "tikName": "Зеленчукская"
+    "tikName": "Зеленчукская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 117,
     "uikTvd": "40940021307628",
+    "uikName": "УИК №117",
     "tikTvd": "2092000745321",
-    "tikName": "Зеленчукская"
+    "tikName": "Зеленчукская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 118,
     "uikTvd": "40940021307629",
+    "uikName": "УИК №118",
     "tikTvd": "2092000745321",
-    "tikName": "Зеленчукская"
+    "tikName": "Зеленчукская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 119,
     "uikTvd": "40940021307630",
+    "uikName": "УИК №119",
     "tikTvd": "2092000745321",
-    "tikName": "Зеленчукская"
+    "tikName": "Зеленчукская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 120,
     "uikTvd": "40940021307631",
+    "uikName": "УИК №120",
     "tikTvd": "2092000745321",
-    "tikName": "Зеленчукская"
+    "tikName": "Зеленчукская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 121,
     "uikTvd": "40940021307632",
+    "uikName": "УИК №121",
     "tikTvd": "2092000745321",
-    "tikName": "Зеленчукская"
+    "tikName": "Зеленчукская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 122,
     "uikTvd": "40940021307633",
+    "uikName": "УИК №122",
     "tikTvd": "2092000745321",
-    "tikName": "Зеленчукская"
+    "tikName": "Зеленчукская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 123,
     "uikTvd": "40940021307634",
+    "uikName": "УИК №123",
     "tikTvd": "2092000745321",
-    "tikName": "Зеленчукская"
+    "tikName": "Зеленчукская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 124,
     "uikTvd": "40940021307635",
+    "uikName": "УИК №124",
     "tikTvd": "2092000745321",
-    "tikName": "Зеленчукская"
+    "tikName": "Зеленчукская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 125,
     "uikTvd": "40940021307636",
+    "uikName": "УИК №125",
     "tikTvd": "2092000745321",
-    "tikName": "Зеленчукская"
+    "tikName": "Зеленчукская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 126,
     "uikTvd": "40940021307637",
+    "uikName": "УИК №126",
     "tikTvd": "2092000745321",
-    "tikName": "Зеленчукская"
+    "tikName": "Зеленчукская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 127,
     "uikTvd": "40940021307638",
+    "uikName": "УИК №127",
     "tikTvd": "2092000745321",
-    "tikName": "Зеленчукская"
+    "tikName": "Зеленчукская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 128,
     "uikTvd": "40940021307639",
+    "uikName": "УИК №128",
     "tikTvd": "2092000745321",
-    "tikName": "Зеленчукская"
+    "tikName": "Зеленчукская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 129,
     "uikTvd": "40940021307640",
+    "uikName": "УИК №129",
     "tikTvd": "2092000745321",
-    "tikName": "Зеленчукская"
+    "tikName": "Зеленчукская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 130,
     "uikTvd": "4094003446956",
+    "uikName": "УИК №130",
     "tikTvd": "2092000745320",
-    "tikName": "Карачаевская"
+    "tikName": "Карачаевская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 131,
     "uikTvd": "4094003446957",
+    "uikName": "УИК №131",
     "tikTvd": "2092000745320",
-    "tikName": "Карачаевская"
+    "tikName": "Карачаевская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 132,
     "uikTvd": "4094003446958",
+    "uikName": "УИК №132",
     "tikTvd": "2092000745320",
-    "tikName": "Карачаевская"
+    "tikName": "Карачаевская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 133,
     "uikTvd": "4094003446959",
+    "uikName": "УИК №133",
     "tikTvd": "2092000745320",
-    "tikName": "Карачаевская"
+    "tikName": "Карачаевская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 134,
     "uikTvd": "4094003446960",
+    "uikName": "УИК №134",
     "tikTvd": "2092000745320",
-    "tikName": "Карачаевская"
+    "tikName": "Карачаевская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 135,
     "uikTvd": "4094003446961",
+    "uikName": "УИК №135",
     "tikTvd": "2092000745320",
-    "tikName": "Карачаевская"
+    "tikName": "Карачаевская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 136,
     "uikTvd": "4094003446962",
+    "uikName": "УИК №136",
     "tikTvd": "2092000745320",
-    "tikName": "Карачаевская"
+    "tikName": "Карачаевская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 137,
     "uikTvd": "4094003446963",
+    "uikName": "УИК №137",
     "tikTvd": "2092000745320",
-    "tikName": "Карачаевская"
+    "tikName": "Карачаевская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 138,
     "uikTvd": "4094003446964",
+    "uikName": "УИК №138",
     "tikTvd": "2092000745320",
-    "tikName": "Карачаевская"
+    "tikName": "Карачаевская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 139,
     "uikTvd": "4094003446965",
+    "uikName": "УИК №139",
     "tikTvd": "2092000745320",
-    "tikName": "Карачаевская"
+    "tikName": "Карачаевская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 140,
     "uikTvd": "4094003446966",
+    "uikName": "УИК №140",
     "tikTvd": "2092000745320",
-    "tikName": "Карачаевская"
+    "tikName": "Карачаевская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 141,
     "uikTvd": "4094003446967",
+    "uikName": "УИК №141",
     "tikTvd": "2092000745320",
-    "tikName": "Карачаевская"
+    "tikName": "Карачаевская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 142,
     "uikTvd": "4094003446968",
+    "uikName": "УИК №142",
     "tikTvd": "2092000745320",
-    "tikName": "Карачаевская"
+    "tikName": "Карачаевская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 143,
     "uikTvd": "4094003446969",
+    "uikName": "УИК №143",
     "tikTvd": "2092000745320",
-    "tikName": "Карачаевская"
+    "tikName": "Карачаевская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 144,
     "uikTvd": "4094003446970",
+    "uikName": "УИК №144",
     "tikTvd": "2092000745320",
-    "tikName": "Карачаевская"
+    "tikName": "Карачаевская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 145,
     "uikTvd": "4094003446971",
+    "uikName": "УИК №145",
     "tikTvd": "2092000745320",
-    "tikName": "Карачаевская"
+    "tikName": "Карачаевская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 146,
     "uikTvd": "4094003446972",
+    "uikName": "УИК №146",
     "tikTvd": "2092000745320",
-    "tikName": "Карачаевская"
+    "tikName": "Карачаевская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 147,
     "uikTvd": "4094005446649",
+    "uikName": "УИК №147",
     "tikTvd": "2092000745318",
-    "tikName": "Малокарачаевская"
+    "tikName": "Малокарачаевская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 148,
     "uikTvd": "4094005446650",
+    "uikName": "УИК №148",
     "tikTvd": "2092000745318",
-    "tikName": "Малокарачаевская"
+    "tikName": "Малокарачаевская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 149,
     "uikTvd": "4094005446651",
+    "uikName": "УИК №149",
     "tikTvd": "2092000745318",
-    "tikName": "Малокарачаевская"
+    "tikName": "Малокарачаевская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 150,
     "uikTvd": "4094005446652",
+    "uikName": "УИК №150",
     "tikTvd": "2092000745318",
-    "tikName": "Малокарачаевская"
+    "tikName": "Малокарачаевская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 151,
     "uikTvd": "4094005446653",
+    "uikName": "УИК №151",
     "tikTvd": "2092000745318",
-    "tikName": "Малокарачаевская"
+    "tikName": "Малокарачаевская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 152,
     "uikTvd": "4094005446654",
+    "uikName": "УИК №152",
     "tikTvd": "2092000745318",
-    "tikName": "Малокарачаевская"
+    "tikName": "Малокарачаевская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 153,
     "uikTvd": "4094005446655",
+    "uikName": "УИК №153",
     "tikTvd": "2092000745318",
-    "tikName": "Малокарачаевская"
+    "tikName": "Малокарачаевская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 154,
     "uikTvd": "4094005446656",
+    "uikName": "УИК №154",
     "tikTvd": "2092000745318",
-    "tikName": "Малокарачаевская"
+    "tikName": "Малокарачаевская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 155,
     "uikTvd": "4094005446657",
+    "uikName": "УИК №155",
     "tikTvd": "2092000745318",
-    "tikName": "Малокарачаевская"
+    "tikName": "Малокарачаевская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 156,
     "uikTvd": "4094005446658",
+    "uikName": "УИК №156",
     "tikTvd": "2092000745318",
-    "tikName": "Малокарачаевская"
+    "tikName": "Малокарачаевская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 157,
     "uikTvd": "4094005446659",
+    "uikName": "УИК №157",
     "tikTvd": "2092000745318",
-    "tikName": "Малокарачаевская"
+    "tikName": "Малокарачаевская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 158,
     "uikTvd": "4094005446660",
+    "uikName": "УИК №158",
     "tikTvd": "2092000745318",
-    "tikName": "Малокарачаевская"
+    "tikName": "Малокарачаевская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 159,
     "uikTvd": "4094005446661",
+    "uikName": "УИК №159",
     "tikTvd": "2092000745318",
-    "tikName": "Малокарачаевская"
+    "tikName": "Малокарачаевская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 160,
     "uikTvd": "4094005446662",
+    "uikName": "УИК №160",
     "tikTvd": "2092000745318",
-    "tikName": "Малокарачаевская"
+    "tikName": "Малокарачаевская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 161,
     "uikTvd": "4094005446663",
+    "uikName": "УИК №161",
     "tikTvd": "2092000745318",
-    "tikName": "Малокарачаевская"
+    "tikName": "Малокарачаевская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 162,
     "uikTvd": "4094005446664",
+    "uikName": "УИК №162",
     "tikTvd": "2092000745318",
-    "tikName": "Малокарачаевская"
+    "tikName": "Малокарачаевская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 163,
     "uikTvd": "4094005446665",
+    "uikName": "УИК №163",
     "tikTvd": "2092000745318",
-    "tikName": "Малокарачаевская"
+    "tikName": "Малокарачаевская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 164,
     "uikTvd": "4094012321396",
+    "uikName": "УИК №164",
     "tikTvd": "2092000745311",
-    "tikName": "Ногайская"
+    "tikName": "Ногайская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 165,
     "uikTvd": "4094012321397",
+    "uikName": "УИК №165",
     "tikTvd": "2092000745311",
-    "tikName": "Ногайская"
+    "tikName": "Ногайская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 166,
     "uikTvd": "4094012321398",
+    "uikName": "УИК №166",
     "tikTvd": "2092000745311",
-    "tikName": "Ногайская"
+    "tikName": "Ногайская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 167,
     "uikTvd": "4094012321399",
+    "uikName": "УИК №167",
     "tikTvd": "2092000745311",
-    "tikName": "Ногайская"
+    "tikName": "Ногайская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 168,
     "uikTvd": "4094012321400",
+    "uikName": "УИК №168",
     "tikTvd": "2092000745311",
-    "tikName": "Ногайская"
+    "tikName": "Ногайская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 169,
     "uikTvd": "4094012321401",
+    "uikName": "УИК №169",
     "tikTvd": "2092000745311",
-    "tikName": "Ногайская"
+    "tikName": "Ногайская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 170,
     "uikTvd": "4094012321402",
+    "uikName": "УИК №170",
     "tikTvd": "2092000745311",
-    "tikName": "Ногайская"
+    "tikName": "Ногайская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 171,
     "uikTvd": "4094012321403",
+    "uikName": "УИК №171",
     "tikTvd": "2092000745311",
-    "tikName": "Ногайская"
+    "tikName": "Ногайская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 172,
     "uikTvd": "4094006568789",
+    "uikName": "УИК №172",
     "tikTvd": "2092000745317",
-    "tikName": "Прикубанская"
+    "tikName": "Прикубанская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 173,
     "uikTvd": "4094006568790",
+    "uikName": "УИК №173",
     "tikTvd": "2092000745317",
-    "tikName": "Прикубанская"
+    "tikName": "Прикубанская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 174,
     "uikTvd": "4094006568791",
+    "uikName": "УИК №174",
     "tikTvd": "2092000745317",
-    "tikName": "Прикубанская"
+    "tikName": "Прикубанская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 175,
     "uikTvd": "4094006568792",
+    "uikName": "УИК №175",
     "tikTvd": "2092000745317",
-    "tikName": "Прикубанская"
+    "tikName": "Прикубанская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 176,
     "uikTvd": "4094006568793",
+    "uikName": "УИК №176",
     "tikTvd": "2092000745317",
-    "tikName": "Прикубанская"
+    "tikName": "Прикубанская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 177,
     "uikTvd": "4094006568794",
+    "uikName": "УИК №177",
     "tikTvd": "2092000745317",
-    "tikName": "Прикубанская"
+    "tikName": "Прикубанская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 178,
     "uikTvd": "4094006568795",
+    "uikName": "УИК №178",
     "tikTvd": "2092000745317",
-    "tikName": "Прикубанская"
+    "tikName": "Прикубанская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 179,
     "uikTvd": "4094006568796",
+    "uikName": "УИК №179",
     "tikTvd": "2092000745317",
-    "tikName": "Прикубанская"
+    "tikName": "Прикубанская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 180,
     "uikTvd": "4094006568797",
+    "uikName": "УИК №180",
     "tikTvd": "2092000745317",
-    "tikName": "Прикубанская"
+    "tikName": "Прикубанская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 181,
     "uikTvd": "4094006568798",
+    "uikName": "УИК №181",
     "tikTvd": "2092000745317",
-    "tikName": "Прикубанская"
+    "tikName": "Прикубанская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 182,
     "uikTvd": "4094006568799",
+    "uikName": "УИК №182",
     "tikTvd": "2092000745317",
-    "tikName": "Прикубанская"
+    "tikName": "Прикубанская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 183,
     "uikTvd": "4094006568800",
+    "uikName": "УИК №183",
     "tikTvd": "2092000745317",
-    "tikName": "Прикубанская"
+    "tikName": "Прикубанская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 184,
     "uikTvd": "4094006568801",
+    "uikName": "УИК №184",
     "tikTvd": "2092000745317",
-    "tikName": "Прикубанская"
+    "tikName": "Прикубанская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 185,
     "uikTvd": "4094006568802",
+    "uikName": "УИК №185",
     "tikTvd": "2092000745317",
-    "tikName": "Прикубанская"
+    "tikName": "Прикубанская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 186,
     "uikTvd": "4094006568803",
+    "uikName": "УИК №186",
     "tikTvd": "2092000745317",
-    "tikName": "Прикубанская"
+    "tikName": "Прикубанская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 187,
     "uikTvd": "4094006568804",
+    "uikName": "УИК №187",
     "tikTvd": "2092000745317",
-    "tikName": "Прикубанская"
+    "tikName": "Прикубанская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 188,
     "uikTvd": "4094006568805",
+    "uikName": "УИК №188",
     "tikTvd": "2092000745317",
-    "tikName": "Прикубанская"
+    "tikName": "Прикубанская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 189,
     "uikTvd": "4094006568806",
+    "uikName": "УИК №189",
     "tikTvd": "2092000745317",
-    "tikName": "Прикубанская"
+    "tikName": "Прикубанская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 190,
     "uikTvd": "4094006568807",
+    "uikName": "УИК №190",
     "tikTvd": "2092000745317",
-    "tikName": "Прикубанская"
+    "tikName": "Прикубанская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 191,
     "uikTvd": "4094006568808",
+    "uikName": "УИК №191",
     "tikTvd": "2092000745317",
-    "tikName": "Прикубанская"
+    "tikName": "Прикубанская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 192,
     "uikTvd": "4094006568809",
+    "uikName": "УИК №192",
     "tikTvd": "2092000745317",
-    "tikName": "Прикубанская"
+    "tikName": "Прикубанская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 193,
     "uikTvd": "4094006568810",
+    "uikName": "УИК №193",
     "tikTvd": "2092000745317",
-    "tikName": "Прикубанская"
+    "tikName": "Прикубанская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 194,
     "uikTvd": "4094006568811",
+    "uikName": "УИК №194",
     "tikTvd": "2092000745317",
-    "tikName": "Прикубанская"
+    "tikName": "Прикубанская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 195,
     "uikTvd": "4094007466746",
+    "uikName": "УИК №195",
     "tikTvd": "2092000745316",
-    "tikName": "Урупская"
+    "tikName": "Урупская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 196,
     "uikTvd": "4094007466747",
+    "uikName": "УИК №196",
     "tikTvd": "2092000745316",
-    "tikName": "Урупская"
+    "tikName": "Урупская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 197,
     "uikTvd": "4094007466748",
+    "uikName": "УИК №197",
     "tikTvd": "2092000745316",
-    "tikName": "Урупская"
+    "tikName": "Урупская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 198,
     "uikTvd": "4094007466749",
+    "uikName": "УИК №198",
     "tikTvd": "2092000745316",
-    "tikName": "Урупская"
+    "tikName": "Урупская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 199,
     "uikTvd": "4094007466750",
+    "uikName": "УИК №199",
     "tikTvd": "2092000745316",
-    "tikName": "Урупская"
+    "tikName": "Урупская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 200,
     "uikTvd": "4094007466751",
+    "uikName": "УИК №200",
     "tikTvd": "2092000745316",
-    "tikName": "Урупская"
+    "tikName": "Урупская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 201,
     "uikTvd": "4094007466752",
+    "uikName": "УИК №201",
     "tikTvd": "2092000745316",
-    "tikName": "Урупская"
+    "tikName": "Урупская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 202,
     "uikTvd": "4094007466753",
+    "uikName": "УИК №202",
     "tikTvd": "2092000745316",
-    "tikName": "Урупская"
+    "tikName": "Урупская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 203,
     "uikTvd": "4094007466754",
+    "uikName": "УИК №203",
     "tikTvd": "2092000745316",
-    "tikName": "Урупская"
+    "tikName": "Урупская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 204,
     "uikTvd": "4094007466755",
+    "uikName": "УИК №204",
     "tikTvd": "2092000745316",
-    "tikName": "Урупская"
+    "tikName": "Урупская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 205,
     "uikTvd": "4094007466756",
+    "uikName": "УИК №205",
     "tikTvd": "2092000745316",
-    "tikName": "Урупская"
+    "tikName": "Урупская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 206,
     "uikTvd": "4094007466757",
+    "uikName": "УИК №206",
     "tikTvd": "2092000745316",
-    "tikName": "Урупская"
+    "tikName": "Урупская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 207,
     "uikTvd": "4094007466758",
+    "uikName": "УИК №207",
     "tikTvd": "2092000745316",
-    "tikName": "Урупская"
+    "tikName": "Урупская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 208,
     "uikTvd": "4094007466759",
+    "uikName": "УИК №208",
     "tikTvd": "2092000745316",
-    "tikName": "Урупская"
+    "tikName": "Урупская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 209,
     "uikTvd": "4094007466760",
+    "uikName": "УИК №209",
     "tikTvd": "2092000745316",
-    "tikName": "Урупская"
+    "tikName": "Урупская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 210,
     "uikTvd": "4094008590531",
+    "uikName": "УИК №210",
     "tikTvd": "2092000745315",
-    "tikName": "Усть-Джегутинская"
+    "tikName": "Усть-Джегутинская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 211,
     "uikTvd": "4094008590532",
+    "uikName": "УИК №211",
     "tikTvd": "2092000745315",
-    "tikName": "Усть-Джегутинская"
+    "tikName": "Усть-Джегутинская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 212,
     "uikTvd": "4094008590533",
+    "uikName": "УИК №212",
     "tikTvd": "2092000745315",
-    "tikName": "Усть-Джегутинская"
+    "tikName": "Усть-Джегутинская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 213,
     "uikTvd": "4094008590534",
+    "uikName": "УИК №213",
     "tikTvd": "2092000745315",
-    "tikName": "Усть-Джегутинская"
+    "tikName": "Усть-Джегутинская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 214,
     "uikTvd": "4094008590535",
+    "uikName": "УИК №214",
     "tikTvd": "2092000745315",
-    "tikName": "Усть-Джегутинская"
+    "tikName": "Усть-Джегутинская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 215,
     "uikTvd": "4094008590536",
+    "uikName": "УИК №215",
     "tikTvd": "2092000745315",
-    "tikName": "Усть-Джегутинская"
+    "tikName": "Усть-Джегутинская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 216,
     "uikTvd": "4094008590537",
+    "uikName": "УИК №216",
     "tikTvd": "2092000745315",
-    "tikName": "Усть-Джегутинская"
+    "tikName": "Усть-Джегутинская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 217,
     "uikTvd": "4094008590538",
+    "uikName": "УИК №217",
     "tikTvd": "2092000745315",
-    "tikName": "Усть-Джегутинская"
+    "tikName": "Усть-Джегутинская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 218,
     "uikTvd": "4094008590539",
+    "uikName": "УИК №218",
     "tikTvd": "2092000745315",
-    "tikName": "Усть-Джегутинская"
+    "tikName": "Усть-Джегутинская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 219,
     "uikTvd": "4094008590540",
+    "uikName": "УИК №219",
     "tikTvd": "2092000745315",
-    "tikName": "Усть-Джегутинская"
+    "tikName": "Усть-Джегутинская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 220,
     "uikTvd": "4094008590541",
+    "uikName": "УИК №220",
     "tikTvd": "2092000745315",
-    "tikName": "Усть-Джегутинская"
+    "tikName": "Усть-Джегутинская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 221,
     "uikTvd": "4094008590542",
+    "uikName": "УИК №221",
     "tikTvd": "2092000745315",
-    "tikName": "Усть-Джегутинская"
+    "tikName": "Усть-Джегутинская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 222,
     "uikTvd": "4094008590543",
+    "uikName": "УИК №222",
     "tikTvd": "2092000745315",
-    "tikName": "Усть-Джегутинская"
+    "tikName": "Усть-Джегутинская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 223,
     "uikTvd": "4094008590544",
+    "uikName": "УИК №223",
     "tikTvd": "2092000745315",
-    "tikName": "Усть-Джегутинская"
+    "tikName": "Усть-Джегутинская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 224,
     "uikTvd": "4094008590545",
+    "uikName": "УИК №224",
     "tikTvd": "2092000745315",
-    "tikName": "Усть-Джегутинская"
+    "tikName": "Усть-Джегутинская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 225,
     "uikTvd": "4094008590546",
+    "uikName": "УИК №225",
     "tikTvd": "2092000745315",
-    "tikName": "Усть-Джегутинская"
+    "tikName": "Усть-Джегутинская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 226,
     "uikTvd": "4094008590547",
+    "uikName": "УИК №226",
     "tikTvd": "2092000745315",
-    "tikName": "Усть-Джегутинская"
+    "tikName": "Усть-Джегутинская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 227,
     "uikTvd": "4094008590548",
+    "uikName": "УИК №227",
     "tikTvd": "2092000745315",
-    "tikName": "Усть-Джегутинская"
+    "tikName": "Усть-Джегутинская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 228,
     "uikTvd": "4094008590549",
+    "uikName": "УИК №228",
     "tikTvd": "2092000745315",
-    "tikName": "Усть-Джегутинская"
+    "tikName": "Усть-Джегутинская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 229,
     "uikTvd": "4094008590550",
+    "uikName": "УИК №229",
     "tikTvd": "2092000745315",
-    "tikName": "Усть-Джегутинская"
+    "tikName": "Усть-Джегутинская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 230,
     "uikTvd": "4094008590551",
+    "uikName": "УИК №230",
     "tikTvd": "2092000745315",
-    "tikName": "Усть-Джегутинская"
+    "tikName": "Усть-Джегутинская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 231,
     "uikTvd": "4094008590552",
+    "uikName": "УИК №231",
     "tikTvd": "2092000745315",
-    "tikName": "Усть-Джегутинская"
+    "tikName": "Усть-Джегутинская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 232,
     "uikTvd": "4094008590553",
+    "uikName": "УИК №232",
     "tikTvd": "2092000745315",
-    "tikName": "Усть-Джегутинская"
+    "tikName": "Усть-Джегутинская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 233,
     "uikTvd": "4094008590554",
+    "uikName": "УИК №233",
     "tikTvd": "2092000745315",
-    "tikName": "Усть-Джегутинская"
+    "tikName": "Усть-Джегутинская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 234,
     "uikTvd": "4094008590555",
+    "uikName": "УИК №234",
     "tikTvd": "2092000745315",
-    "tikName": "Усть-Джегутинская"
+    "tikName": "Усть-Джегутинская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 235,
     "uikTvd": "4094009658648",
+    "uikName": "УИК №235",
     "tikTvd": "2092000745314",
-    "tikName": "Хабезская"
+    "tikName": "Хабезская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 236,
     "uikTvd": "4094009658649",
+    "uikName": "УИК №236",
     "tikTvd": "2092000745314",
-    "tikName": "Хабезская"
+    "tikName": "Хабезская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 237,
     "uikTvd": "4094009658650",
+    "uikName": "УИК №237",
     "tikTvd": "2092000745314",
-    "tikName": "Хабезская"
+    "tikName": "Хабезская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 238,
     "uikTvd": "4094009658651",
+    "uikName": "УИК №238",
     "tikTvd": "2092000745314",
-    "tikName": "Хабезская"
+    "tikName": "Хабезская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 239,
     "uikTvd": "4094009658652",
+    "uikName": "УИК №239",
     "tikTvd": "2092000745314",
-    "tikName": "Хабезская"
+    "tikName": "Хабезская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 240,
     "uikTvd": "4094009658653",
+    "uikName": "УИК №240",
     "tikTvd": "2092000745314",
-    "tikName": "Хабезская"
+    "tikName": "Хабезская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 241,
     "uikTvd": "4094009658654",
+    "uikName": "УИК №241",
     "tikTvd": "2092000745314",
-    "tikName": "Хабезская"
+    "tikName": "Хабезская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 242,
     "uikTvd": "4094009658655",
+    "uikName": "УИК №242",
     "tikTvd": "2092000745314",
-    "tikName": "Хабезская"
+    "tikName": "Хабезская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 243,
     "uikTvd": "4094009658656",
+    "uikName": "УИК №243",
     "tikTvd": "2092000745314",
-    "tikName": "Хабезская"
+    "tikName": "Хабезская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 244,
     "uikTvd": "4094009658657",
+    "uikName": "УИК №244",
     "tikTvd": "2092000745314",
-    "tikName": "Хабезская"
+    "tikName": "Хабезская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 245,
     "uikTvd": "4094009658658",
+    "uikName": "УИК №245",
     "tikTvd": "2092000745314",
-    "tikName": "Хабезская"
+    "tikName": "Хабезская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 246,
     "uikTvd": "4094009658659",
+    "uikName": "УИК №246",
     "tikTvd": "2092000745314",
-    "tikName": "Хабезская"
+    "tikName": "Хабезская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 247,
     "uikTvd": "4094009658660",
+    "uikName": "УИК №247",
     "tikTvd": "2092000745314",
-    "tikName": "Хабезская"
+    "tikName": "Хабезская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 248,
     "uikTvd": "4094009658661",
+    "uikName": "УИК №248",
     "tikTvd": "2092000745314",
-    "tikName": "Хабезская"
+    "tikName": "Хабезская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 249,
     "uikTvd": "4094009658662",
+    "uikName": "УИК №249",
     "tikTvd": "2092000745314",
-    "tikName": "Хабезская"
+    "tikName": "Хабезская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 250,
     "uikTvd": "4094010556770",
+    "uikName": "УИК №250",
     "tikTvd": "2092000745313",
-    "tikName": "Черкесская городская"
+    "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 251,
     "uikTvd": "40940021307745",
+    "uikName": "УИК №251",
     "tikTvd": "2092000745321",
-    "tikName": "Зеленчукская"
+    "tikName": "Зеленчукская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   },
   {
     "uikNumber": 252,
     "uikTvd": "4094010556772",
+    "uikName": "УИК №252",
     "tikTvd": "2092000745313",
-    "tikName": "Черкесская городская"
+    "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100339411203",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": null
   }
 ] satisfies readonly UikTikRelation[];

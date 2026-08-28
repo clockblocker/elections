@@ -7,10441 +7,19141 @@ export const president_2004_uik_to_tik_region_63 = [
   {
     "uikNumber": 1,
     "uikTvd": "463401271184",
+    "uikName": "УИК №1",
     "tikTvd": "263200081145",
-    "tikName": "Кинельская городская"
+    "tikName": "Кинельская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 2,
     "uikTvd": "463401271185",
+    "uikName": "УИК №2",
     "tikTvd": "263200081145",
-    "tikName": "Кинельская городская"
+    "tikName": "Кинельская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 3,
     "uikTvd": "463401271186",
+    "uikName": "УИК №3",
     "tikTvd": "263200081145",
-    "tikName": "Кинельская городская"
+    "tikName": "Кинельская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 4,
     "uikTvd": "463401271187",
+    "uikName": "УИК №4",
     "tikTvd": "263200081145",
-    "tikName": "Кинельская городская"
+    "tikName": "Кинельская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 5,
     "uikTvd": "463401271188",
+    "uikName": "УИК №5",
     "tikTvd": "263200081145",
-    "tikName": "Кинельская городская"
+    "tikName": "Кинельская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 6,
     "uikTvd": "463401271189",
+    "uikName": "УИК №6",
     "tikTvd": "263200081145",
-    "tikName": "Кинельская городская"
+    "tikName": "Кинельская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 7,
     "uikTvd": "463401271190",
+    "uikName": "УИК №7",
     "tikTvd": "263200081145",
-    "tikName": "Кинельская городская"
+    "tikName": "Кинельская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 8,
     "uikTvd": "463401271191",
+    "uikName": "УИК №8",
     "tikTvd": "263200081145",
-    "tikName": "Кинельская городская"
+    "tikName": "Кинельская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 9,
     "uikTvd": "463401271192",
+    "uikName": "УИК №9",
     "tikTvd": "263200081145",
-    "tikName": "Кинельская городская"
+    "tikName": "Кинельская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 10,
     "uikTvd": "463401271193",
+    "uikName": "УИК №10",
     "tikTvd": "263200081145",
-    "tikName": "Кинельская городская"
+    "tikName": "Кинельская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 11,
     "uikTvd": "463401271194",
+    "uikName": "УИК №11",
     "tikTvd": "263200081145",
-    "tikName": "Кинельская городская"
+    "tikName": "Кинельская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 12,
     "uikTvd": "463401271195",
+    "uikName": "УИК №12",
     "tikTvd": "263200081145",
-    "tikName": "Кинельская городская"
+    "tikName": "Кинельская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 13,
     "uikTvd": "463401271196",
+    "uikName": "УИК №13",
     "tikTvd": "263200081145",
-    "tikName": "Кинельская городская"
+    "tikName": "Кинельская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 14,
     "uikTvd": "463401271197",
+    "uikName": "УИК №14",
     "tikTvd": "263200081145",
-    "tikName": "Кинельская городская"
+    "tikName": "Кинельская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 15,
     "uikTvd": "463401271198",
+    "uikName": "УИК №15",
     "tikTvd": "263200081145",
-    "tikName": "Кинельская городская"
+    "tikName": "Кинельская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 16,
     "uikTvd": "463401271199",
+    "uikName": "УИК №16",
     "tikTvd": "263200081145",
-    "tikName": "Кинельская городская"
+    "tikName": "Кинельская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 17,
     "uikTvd": "463401271200",
+    "uikName": "УИК №17",
     "tikTvd": "263200081145",
-    "tikName": "Кинельская городская"
+    "tikName": "Кинельская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 18,
     "uikTvd": "463401271201",
+    "uikName": "УИК №18",
     "tikTvd": "263200081145",
-    "tikName": "Кинельская городская"
+    "tikName": "Кинельская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 19,
     "uikTvd": "463401271202",
+    "uikName": "УИК №19",
     "tikTvd": "263200081145",
-    "tikName": "Кинельская городская"
+    "tikName": "Кинельская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 20,
     "uikTvd": "463401271203",
+    "uikName": "УИК №20",
     "tikTvd": "263200081145",
-    "tikName": "Кинельская городская"
+    "tikName": "Кинельская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 21,
     "uikTvd": "463401271204",
+    "uikName": "УИК №21",
     "tikTvd": "263200081145",
-    "tikName": "Кинельская городская"
+    "tikName": "Кинельская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 22,
     "uikTvd": "463401271205",
+    "uikName": "УИК №22",
     "tikTvd": "263200081145",
-    "tikName": "Кинельская городская"
+    "tikName": "Кинельская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 23,
     "uikTvd": "463401271206",
+    "uikName": "УИК №23",
     "tikTvd": "263200081145",
-    "tikName": "Кинельская городская"
+    "tikName": "Кинельская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 24,
     "uikTvd": "463401271207",
+    "uikName": "УИК №24",
     "tikTvd": "263200081145",
-    "tikName": "Кинельская городская"
+    "tikName": "Кинельская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 25,
     "uikTvd": "463401271208",
+    "uikName": "УИК №25",
     "tikTvd": "263200081145",
-    "tikName": "Кинельская городская"
+    "tikName": "Кинельская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 26,
     "uikTvd": "463401271209",
+    "uikName": "УИК №26",
     "tikTvd": "263200081145",
-    "tikName": "Кинельская городская"
+    "tikName": "Кинельская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 27,
     "uikTvd": "463401271210",
+    "uikName": "УИК №27",
     "tikTvd": "263200081145",
-    "tikName": "Кинельская городская"
+    "tikName": "Кинельская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 28,
     "uikTvd": "463401271211",
+    "uikName": "УИК №28",
     "tikTvd": "263200081145",
-    "tikName": "Кинельская городская"
+    "tikName": "Кинельская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 29,
     "uikTvd": "463401971883",
+    "uikName": "УИК №29",
     "tikTvd": "263200081163",
-    "tikName": "Новокуйбышевская городская"
+    "tikName": "Новокуйбышевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 30,
     "uikTvd": "463401971884",
+    "uikName": "УИК №30",
     "tikTvd": "263200081163",
-    "tikName": "Новокуйбышевская городская"
+    "tikName": "Новокуйбышевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 31,
     "uikTvd": "463401971885",
+    "uikName": "УИК №31",
     "tikTvd": "263200081163",
-    "tikName": "Новокуйбышевская городская"
+    "tikName": "Новокуйбышевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 32,
     "uikTvd": "463401971886",
+    "uikName": "УИК №32",
     "tikTvd": "263200081163",
-    "tikName": "Новокуйбышевская городская"
+    "tikName": "Новокуйбышевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 33,
     "uikTvd": "463401971887",
+    "uikName": "УИК №33",
     "tikTvd": "263200081163",
-    "tikName": "Новокуйбышевская городская"
+    "tikName": "Новокуйбышевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 34,
     "uikTvd": "463401971888",
+    "uikName": "УИК №34",
     "tikTvd": "263200081163",
-    "tikName": "Новокуйбышевская городская"
+    "tikName": "Новокуйбышевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 35,
     "uikTvd": "463401971889",
+    "uikName": "УИК №35",
     "tikTvd": "263200081163",
-    "tikName": "Новокуйбышевская городская"
+    "tikName": "Новокуйбышевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 36,
     "uikTvd": "463401971890",
+    "uikName": "УИК №36",
     "tikTvd": "263200081163",
-    "tikName": "Новокуйбышевская городская"
+    "tikName": "Новокуйбышевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 37,
     "uikTvd": "463401971891",
+    "uikName": "УИК №37",
     "tikTvd": "263200081163",
-    "tikName": "Новокуйбышевская городская"
+    "tikName": "Новокуйбышевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 38,
     "uikTvd": "463401971892",
+    "uikName": "УИК №38",
     "tikTvd": "263200081163",
-    "tikName": "Новокуйбышевская городская"
+    "tikName": "Новокуйбышевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 39,
     "uikTvd": "463401971893",
+    "uikName": "УИК №39",
     "tikTvd": "263200081163",
-    "tikName": "Новокуйбышевская городская"
+    "tikName": "Новокуйбышевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 40,
     "uikTvd": "463401971894",
+    "uikName": "УИК №40",
     "tikTvd": "263200081163",
-    "tikName": "Новокуйбышевская городская"
+    "tikName": "Новокуйбышевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 41,
     "uikTvd": "463401971895",
+    "uikName": "УИК №41",
     "tikTvd": "263200081163",
-    "tikName": "Новокуйбышевская городская"
+    "tikName": "Новокуйбышевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 42,
     "uikTvd": "463401971896",
+    "uikName": "УИК №42",
     "tikTvd": "263200081163",
-    "tikName": "Новокуйбышевская городская"
+    "tikName": "Новокуйбышевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 43,
     "uikTvd": "463401971897",
+    "uikName": "УИК №43",
     "tikTvd": "263200081163",
-    "tikName": "Новокуйбышевская городская"
+    "tikName": "Новокуйбышевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 44,
     "uikTvd": "463401971898",
+    "uikName": "УИК №44",
     "tikTvd": "263200081163",
-    "tikName": "Новокуйбышевская городская"
+    "tikName": "Новокуйбышевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 45,
     "uikTvd": "463401971899",
+    "uikName": "УИК №45",
     "tikTvd": "263200081163",
-    "tikName": "Новокуйбышевская городская"
+    "tikName": "Новокуйбышевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 46,
     "uikTvd": "463401971900",
+    "uikName": "УИК №46",
     "tikTvd": "263200081163",
-    "tikName": "Новокуйбышевская городская"
+    "tikName": "Новокуйбышевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 47,
     "uikTvd": "463401971901",
+    "uikName": "УИК №47",
     "tikTvd": "263200081163",
-    "tikName": "Новокуйбышевская городская"
+    "tikName": "Новокуйбышевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 48,
     "uikTvd": "463401971902",
+    "uikName": "УИК №48",
     "tikTvd": "263200081163",
-    "tikName": "Новокуйбышевская городская"
+    "tikName": "Новокуйбышевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 49,
     "uikTvd": "463401971903",
+    "uikName": "УИК №49",
     "tikTvd": "263200081163",
-    "tikName": "Новокуйбышевская городская"
+    "tikName": "Новокуйбышевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 50,
     "uikTvd": "463401971904",
+    "uikName": "УИК №50",
     "tikTvd": "263200081163",
-    "tikName": "Новокуйбышевская городская"
+    "tikName": "Новокуйбышевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 51,
     "uikTvd": "463401971905",
+    "uikName": "УИК №51",
     "tikTvd": "263200081163",
-    "tikName": "Новокуйбышевская городская"
+    "tikName": "Новокуйбышевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 52,
     "uikTvd": "463401971906",
+    "uikName": "УИК №52",
     "tikTvd": "263200081163",
-    "tikName": "Новокуйбышевская городская"
+    "tikName": "Новокуйбышевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 53,
     "uikTvd": "463401971907",
+    "uikName": "УИК №53",
     "tikTvd": "263200081163",
-    "tikName": "Новокуйбышевская городская"
+    "tikName": "Новокуйбышевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 54,
     "uikTvd": "463401971908",
+    "uikName": "УИК №54",
     "tikTvd": "263200081163",
-    "tikName": "Новокуйбышевская городская"
+    "tikName": "Новокуйбышевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 55,
     "uikTvd": "463401971909",
+    "uikName": "УИК №55",
     "tikTvd": "263200081163",
-    "tikName": "Новокуйбышевская городская"
+    "tikName": "Новокуйбышевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 56,
     "uikTvd": "463401971910",
+    "uikName": "УИК №56",
     "tikTvd": "263200081163",
-    "tikName": "Новокуйбышевская городская"
+    "tikName": "Новокуйбышевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 57,
     "uikTvd": "463401971911",
+    "uikName": "УИК №57",
     "tikTvd": "263200081163",
-    "tikName": "Новокуйбышевская городская"
+    "tikName": "Новокуйбышевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 58,
     "uikTvd": "463401971912",
+    "uikName": "УИК №58",
     "tikTvd": "263200081163",
-    "tikName": "Новокуйбышевская городская"
+    "tikName": "Новокуйбышевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 59,
     "uikTvd": "463401971913",
+    "uikName": "УИК №59",
     "tikTvd": "263200081163",
-    "tikName": "Новокуйбышевская городская"
+    "tikName": "Новокуйбышевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 60,
     "uikTvd": "463401971914",
+    "uikName": "УИК №60",
     "tikTvd": "263200081163",
-    "tikName": "Новокуйбышевская городская"
+    "tikName": "Новокуйбышевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 61,
     "uikTvd": "463401971915",
+    "uikName": "УИК №61",
     "tikTvd": "263200081163",
-    "tikName": "Новокуйбышевская городская"
+    "tikName": "Новокуйбышевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 62,
     "uikTvd": "463401971916",
+    "uikName": "УИК №62",
     "tikTvd": "263200081163",
-    "tikName": "Новокуйбышевская городская"
+    "tikName": "Новокуйбышевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 63,
     "uikTvd": "463401971917",
+    "uikName": "УИК №63",
     "tikTvd": "263200081163",
-    "tikName": "Новокуйбышевская городская"
+    "tikName": "Новокуйбышевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 64,
     "uikTvd": "463401971918",
+    "uikName": "УИК №64",
     "tikTvd": "263200081163",
-    "tikName": "Новокуйбышевская городская"
+    "tikName": "Новокуйбышевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 65,
     "uikTvd": "463401971919",
+    "uikName": "УИК №65",
     "tikTvd": "263200081163",
-    "tikName": "Новокуйбышевская городская"
+    "tikName": "Новокуйбышевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 66,
     "uikTvd": "463401971920",
+    "uikName": "УИК №66",
     "tikTvd": "263200081163",
-    "tikName": "Новокуйбышевская городская"
+    "tikName": "Новокуйбышевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 67,
     "uikTvd": "463401971921",
+    "uikName": "УИК №67",
     "tikTvd": "263200081163",
-    "tikName": "Новокуйбышевская городская"
+    "tikName": "Новокуйбышевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 68,
     "uikTvd": "463401971922",
+    "uikName": "УИК №68",
     "tikTvd": "263200081163",
-    "tikName": "Новокуйбышевская городская"
+    "tikName": "Новокуйбышевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 69,
     "uikTvd": "463401971923",
+    "uikName": "УИК №69",
     "tikTvd": "263200081163",
-    "tikName": "Новокуйбышевская городская"
+    "tikName": "Новокуйбышевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 70,
     "uikTvd": "463401971924",
+    "uikName": "УИК №70",
     "tikTvd": "263200081163",
-    "tikName": "Новокуйбышевская городская"
+    "tikName": "Новокуйбышевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 71,
     "uikTvd": "463401971925",
+    "uikName": "УИК №71",
     "tikTvd": "263200081163",
-    "tikName": "Новокуйбышевская городская"
+    "tikName": "Новокуйбышевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 72,
     "uikTvd": "463401971926",
+    "uikName": "УИК №72",
     "tikTvd": "263200081163",
-    "tikName": "Новокуйбышевская городская"
+    "tikName": "Новокуйбышевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 73,
     "uikTvd": "463401971927",
+    "uikName": "УИК №73",
     "tikTvd": "263200081163",
-    "tikName": "Новокуйбышевская городская"
+    "tikName": "Новокуйбышевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 74,
     "uikTvd": "463401971928",
+    "uikName": "УИК №74",
     "tikTvd": "263200081163",
-    "tikName": "Новокуйбышевская городская"
+    "tikName": "Новокуйбышевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 75,
     "uikTvd": "463401971929",
+    "uikName": "УИК №75",
     "tikTvd": "263200081163",
-    "tikName": "Новокуйбышевская городская"
+    "tikName": "Новокуйбышевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 76,
     "uikTvd": "463401971930",
+    "uikName": "УИК №76",
     "tikTvd": "263200081163",
-    "tikName": "Новокуйбышевская городская"
+    "tikName": "Новокуйбышевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 77,
     "uikTvd": "463401971931",
+    "uikName": "УИК №77",
     "tikTvd": "263200081163",
-    "tikName": "Новокуйбышевская городская"
+    "tikName": "Новокуйбышевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 78,
     "uikTvd": "463401971932",
+    "uikName": "УИК №78",
     "tikTvd": "263200081163",
-    "tikName": "Новокуйбышевская городская"
+    "tikName": "Новокуйбышевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 79,
     "uikTvd": "463402171457",
+    "uikName": "УИК №79",
     "tikTvd": "263200081161",
-    "tikName": "Отрадная городская"
+    "tikName": "Отрадная городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 80,
     "uikTvd": "463402171458",
+    "uikName": "УИК №80",
     "tikTvd": "263200081161",
-    "tikName": "Отрадная городская"
+    "tikName": "Отрадная городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 81,
     "uikTvd": "463402171459",
+    "uikName": "УИК №81",
     "tikTvd": "263200081161",
-    "tikName": "Отрадная городская"
+    "tikName": "Отрадная городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 82,
     "uikTvd": "463402171460",
+    "uikName": "УИК №82",
     "tikTvd": "263200081161",
-    "tikName": "Отрадная городская"
+    "tikName": "Отрадная городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 83,
     "uikTvd": "463402171461",
+    "uikName": "УИК №83",
     "tikTvd": "263200081161",
-    "tikName": "Отрадная городская"
+    "tikName": "Отрадная городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 84,
     "uikTvd": "463402171462",
+    "uikName": "УИК №84",
     "tikTvd": "263200081161",
-    "tikName": "Отрадная городская"
+    "tikName": "Отрадная городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 85,
     "uikTvd": "463402171463",
+    "uikName": "УИК №85",
     "tikTvd": "263200081161",
-    "tikName": "Отрадная городская"
+    "tikName": "Отрадная городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 86,
     "uikTvd": "463402171464",
+    "uikName": "УИК №86",
     "tikTvd": "263200081161",
-    "tikName": "Отрадная городская"
+    "tikName": "Отрадная городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 87,
     "uikTvd": "463402171465",
+    "uikName": "УИК №87",
     "tikTvd": "263200081161",
-    "tikName": "Отрадная городская"
+    "tikName": "Отрадная городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 88,
     "uikTvd": "463402171466",
+    "uikName": "УИК №88",
     "tikTvd": "263200081161",
-    "tikName": "Отрадная городская"
+    "tikName": "Отрадная городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 89,
     "uikTvd": "463402171467",
+    "uikName": "УИК №89",
     "tikTvd": "263200081161",
-    "tikName": "Отрадная городская"
+    "tikName": "Отрадная городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 90,
     "uikTvd": "463402171468",
+    "uikName": "УИК №90",
     "tikTvd": "263200081161",
-    "tikName": "Отрадная городская"
+    "tikName": "Отрадная городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 91,
     "uikTvd": "463402171469",
+    "uikName": "УИК №91",
     "tikTvd": "263200081161",
-    "tikName": "Отрадная городская"
+    "tikName": "Отрадная городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 92,
     "uikTvd": "463402171470",
+    "uikName": "УИК №92",
     "tikTvd": "263200081161",
-    "tikName": "Отрадная городская"
+    "tikName": "Отрадная городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 93,
     "uikTvd": "463402171471",
+    "uikName": "УИК №93",
     "tikTvd": "263200081161",
-    "tikName": "Отрадная городская"
+    "tikName": "Отрадная городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 94,
     "uikTvd": "463402371148",
+    "uikName": "УИК №94",
     "tikTvd": "263200081158",
-    "tikName": "Похвистневская городская"
+    "tikName": "Похвистневская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 95,
     "uikTvd": "463402371149",
+    "uikName": "УИК №95",
     "tikTvd": "263200081158",
-    "tikName": "Похвистневская городская"
+    "tikName": "Похвистневская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 96,
     "uikTvd": "463402371150",
+    "uikName": "УИК №96",
     "tikTvd": "263200081158",
-    "tikName": "Похвистневская городская"
+    "tikName": "Похвистневская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 97,
     "uikTvd": "463402371151",
+    "uikName": "УИК №97",
     "tikTvd": "263200081158",
-    "tikName": "Похвистневская городская"
+    "tikName": "Похвистневская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 98,
     "uikTvd": "463402371152",
+    "uikName": "УИК №98",
     "tikTvd": "263200081158",
-    "tikName": "Похвистневская городская"
+    "tikName": "Похвистневская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 99,
     "uikTvd": "463402371153",
+    "uikName": "УИК №99",
     "tikTvd": "263200081158",
-    "tikName": "Похвистневская городская"
+    "tikName": "Похвистневская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 100,
     "uikTvd": "463402371154",
+    "uikName": "УИК №100",
     "tikTvd": "263200081158",
-    "tikName": "Похвистневская городская"
+    "tikName": "Похвистневская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 101,
     "uikTvd": "463402371155",
+    "uikName": "УИК №101",
     "tikTvd": "263200081158",
-    "tikName": "Похвистневская городская"
+    "tikName": "Похвистневская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 102,
     "uikTvd": "463402371156",
+    "uikName": "УИК №102",
     "tikTvd": "263200081158",
-    "tikName": "Похвистневская городская"
+    "tikName": "Похвистневская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 103,
     "uikTvd": "463402371157",
+    "uikName": "УИК №103",
     "tikTvd": "263200081158",
-    "tikName": "Похвистневская городская"
+    "tikName": "Похвистневская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 104,
     "uikTvd": "463402371158",
+    "uikName": "УИК №104",
     "tikTvd": "263200081158",
-    "tikName": "Похвистневская городская"
+    "tikName": "Похвистневская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 105,
     "uikTvd": "463402371159",
+    "uikName": "УИК №105",
     "tikTvd": "263200081158",
-    "tikName": "Похвистневская городская"
+    "tikName": "Похвистневская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 106,
     "uikTvd": "463404273803",
+    "uikName": "УИК №106",
     "tikTvd": "263200081179",
-    "tikName": "Чапаевская городская"
+    "tikName": "Чапаевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 107,
     "uikTvd": "463404273804",
+    "uikName": "УИК №107",
     "tikTvd": "263200081179",
-    "tikName": "Чапаевская городская"
+    "tikName": "Чапаевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 108,
     "uikTvd": "463404273805",
+    "uikName": "УИК №108",
     "tikTvd": "263200081179",
-    "tikName": "Чапаевская городская"
+    "tikName": "Чапаевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 109,
     "uikTvd": "463404273806",
+    "uikName": "УИК №109",
     "tikTvd": "263200081179",
-    "tikName": "Чапаевская городская"
+    "tikName": "Чапаевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 110,
     "uikTvd": "463404273807",
+    "uikName": "УИК №110",
     "tikTvd": "263200081179",
-    "tikName": "Чапаевская городская"
+    "tikName": "Чапаевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 111,
     "uikTvd": "463404273808",
+    "uikName": "УИК №111",
     "tikTvd": "263200081179",
-    "tikName": "Чапаевская городская"
+    "tikName": "Чапаевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 112,
     "uikTvd": "463404273809",
+    "uikName": "УИК №112",
     "tikTvd": "263200081179",
-    "tikName": "Чапаевская городская"
+    "tikName": "Чапаевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 113,
     "uikTvd": "463404273810",
+    "uikName": "УИК №113",
     "tikTvd": "263200081179",
-    "tikName": "Чапаевская городская"
+    "tikName": "Чапаевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 114,
     "uikTvd": "463404273811",
+    "uikName": "УИК №114",
     "tikTvd": "263200081179",
-    "tikName": "Чапаевская городская"
+    "tikName": "Чапаевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 115,
     "uikTvd": "463404273812",
+    "uikName": "УИК №115",
     "tikTvd": "263200081179",
-    "tikName": "Чапаевская городская"
+    "tikName": "Чапаевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 116,
     "uikTvd": "463404273813",
+    "uikName": "УИК №116",
     "tikTvd": "263200081179",
-    "tikName": "Чапаевская городская"
+    "tikName": "Чапаевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 117,
     "uikTvd": "463404273814",
+    "uikName": "УИК №117",
     "tikTvd": "263200081179",
-    "tikName": "Чапаевская городская"
+    "tikName": "Чапаевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 118,
     "uikTvd": "463404273815",
+    "uikName": "УИК №118",
     "tikTvd": "263200081179",
-    "tikName": "Чапаевская городская"
+    "tikName": "Чапаевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 119,
     "uikTvd": "463404273816",
+    "uikName": "УИК №119",
     "tikTvd": "263200081179",
-    "tikName": "Чапаевская городская"
+    "tikName": "Чапаевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 120,
     "uikTvd": "463404273817",
+    "uikName": "УИК №120",
     "tikTvd": "263200081179",
-    "tikName": "Чапаевская городская"
+    "tikName": "Чапаевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 121,
     "uikTvd": "463404273818",
+    "uikName": "УИК №121",
     "tikTvd": "263200081179",
-    "tikName": "Чапаевская городская"
+    "tikName": "Чапаевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 122,
     "uikTvd": "463404273819",
+    "uikName": "УИК №122",
     "tikTvd": "263200081179",
-    "tikName": "Чапаевская городская"
+    "tikName": "Чапаевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 123,
     "uikTvd": "463404273820",
+    "uikName": "УИК №123",
     "tikTvd": "263200081179",
-    "tikName": "Чапаевская городская"
+    "tikName": "Чапаевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 124,
     "uikTvd": "463404273821",
+    "uikName": "УИК №124",
     "tikTvd": "263200081179",
-    "tikName": "Чапаевская городская"
+    "tikName": "Чапаевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 125,
     "uikTvd": "463404273822",
+    "uikName": "УИК №125",
     "tikTvd": "263200081179",
-    "tikName": "Чапаевская городская"
+    "tikName": "Чапаевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 126,
     "uikTvd": "463404273823",
+    "uikName": "УИК №126",
     "tikTvd": "263200081179",
-    "tikName": "Чапаевская городская"
+    "tikName": "Чапаевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 127,
     "uikTvd": "463404273824",
+    "uikName": "УИК №127",
     "tikTvd": "263200081179",
-    "tikName": "Чапаевская городская"
+    "tikName": "Чапаевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 128,
     "uikTvd": "463404273825",
+    "uikName": "УИК №128",
     "tikTvd": "263200081179",
-    "tikName": "Чапаевская городская"
+    "tikName": "Чапаевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 129,
     "uikTvd": "463404273826",
+    "uikName": "УИК №129",
     "tikTvd": "263200081179",
-    "tikName": "Чапаевская городская"
+    "tikName": "Чапаевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 130,
     "uikTvd": "463404273827",
+    "uikName": "УИК №130",
     "tikTvd": "263200081179",
-    "tikName": "Чапаевская городская"
+    "tikName": "Чапаевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 131,
     "uikTvd": "463404273828",
+    "uikName": "УИК №131",
     "tikTvd": "263200081179",
-    "tikName": "Чапаевская городская"
+    "tikName": "Чапаевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 132,
     "uikTvd": "463404273829",
+    "uikName": "УИК №132",
     "tikTvd": "263200081179",
-    "tikName": "Чапаевская городская"
+    "tikName": "Чапаевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 133,
     "uikTvd": "463404273830",
+    "uikName": "УИК №133",
     "tikTvd": "263200081179",
-    "tikName": "Чапаевская городская"
+    "tikName": "Чапаевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 134,
     "uikTvd": "463404273831",
+    "uikName": "УИК №134",
     "tikTvd": "263200081179",
-    "tikName": "Чапаевская городская"
+    "tikName": "Чапаевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 135,
     "uikTvd": "463404273832",
+    "uikName": "УИК №135",
     "tikTvd": "263200081179",
-    "tikName": "Чапаевская городская"
+    "tikName": "Чапаевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 136,
     "uikTvd": "463404273833",
+    "uikName": "УИК №136",
     "tikTvd": "263200081179",
-    "tikName": "Чапаевская городская"
+    "tikName": "Чапаевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 137,
     "uikTvd": "463404273834",
+    "uikName": "УИК №137",
     "tikTvd": "263200081179",
-    "tikName": "Чапаевская городская"
+    "tikName": "Чапаевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 138,
     "uikTvd": "463404273835",
+    "uikName": "УИК №138",
     "tikTvd": "263200081179",
-    "tikName": "Чапаевская городская"
+    "tikName": "Чапаевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 139,
     "uikTvd": "463404273836",
+    "uikName": "УИК №139",
     "tikTvd": "263200081179",
-    "tikName": "Чапаевская городская"
+    "tikName": "Чапаевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 140,
     "uikTvd": "463404273837",
+    "uikName": "УИК №140",
     "tikTvd": "263200081179",
-    "tikName": "Чапаевская городская"
+    "tikName": "Чапаевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 141,
     "uikTvd": "463404273838",
+    "uikName": "УИК №141",
     "tikTvd": "263200081179",
-    "tikName": "Чапаевская городская"
+    "tikName": "Чапаевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 142,
     "uikTvd": "463400771999",
+    "uikName": "УИК №142",
     "tikTvd": "263200081150",
-    "tikName": "Волжская"
+    "tikName": "Волжская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 143,
     "uikTvd": "463400772000",
+    "uikName": "УИК №143",
     "tikTvd": "263200081150",
-    "tikName": "Волжская"
+    "tikName": "Волжская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 144,
     "uikTvd": "463400772001",
+    "uikName": "УИК №144",
     "tikTvd": "263200081150",
-    "tikName": "Волжская"
+    "tikName": "Волжская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 145,
     "uikTvd": "463400772002",
+    "uikName": "УИК №145",
     "tikTvd": "263200081150",
-    "tikName": "Волжская"
+    "tikName": "Волжская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 146,
     "uikTvd": "463400772003",
+    "uikName": "УИК №146",
     "tikTvd": "263200081150",
-    "tikName": "Волжская"
+    "tikName": "Волжская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 147,
     "uikTvd": "463400772004",
+    "uikName": "УИК №147",
     "tikTvd": "263200081150",
-    "tikName": "Волжская"
+    "tikName": "Волжская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 148,
     "uikTvd": "463400772005",
+    "uikName": "УИК №148",
     "tikTvd": "263200081150",
-    "tikName": "Волжская"
+    "tikName": "Волжская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 149,
     "uikTvd": "463400772006",
+    "uikName": "УИК №149",
     "tikTvd": "263200081150",
-    "tikName": "Волжская"
+    "tikName": "Волжская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 150,
     "uikTvd": "463400772007",
+    "uikName": "УИК №150",
     "tikTvd": "263200081150",
-    "tikName": "Волжская"
+    "tikName": "Волжская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 151,
     "uikTvd": "463400772008",
+    "uikName": "УИК №151",
     "tikTvd": "263200081150",
-    "tikName": "Волжская"
+    "tikName": "Волжская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 152,
     "uikTvd": "463400772009",
+    "uikName": "УИК №152",
     "tikTvd": "263200081150",
-    "tikName": "Волжская"
+    "tikName": "Волжская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 153,
     "uikTvd": "463400772010",
+    "uikName": "УИК №153",
     "tikTvd": "263200081150",
-    "tikName": "Волжская"
+    "tikName": "Волжская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 154,
     "uikTvd": "463400772011",
+    "uikName": "УИК №154",
     "tikTvd": "263200081150",
-    "tikName": "Волжская"
+    "tikName": "Волжская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 155,
     "uikTvd": "463400772012",
+    "uikName": "УИК №155",
     "tikTvd": "263200081150",
-    "tikName": "Волжская"
+    "tikName": "Волжская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 156,
     "uikTvd": "463400772013",
+    "uikName": "УИК №156",
     "tikTvd": "263200081150",
-    "tikName": "Волжская"
+    "tikName": "Волжская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 157,
     "uikTvd": "463400772014",
+    "uikName": "УИК №157",
     "tikTvd": "263200081150",
-    "tikName": "Волжская"
+    "tikName": "Волжская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 158,
     "uikTvd": "463400772015",
+    "uikName": "УИК №158",
     "tikTvd": "263200081150",
-    "tikName": "Волжская"
+    "tikName": "Волжская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 159,
     "uikTvd": "463400772016",
+    "uikName": "УИК №159",
     "tikTvd": "263200081150",
-    "tikName": "Волжская"
+    "tikName": "Волжская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 160,
     "uikTvd": "463400772017",
+    "uikName": "УИК №160",
     "tikTvd": "263200081150",
-    "tikName": "Волжская"
+    "tikName": "Волжская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 161,
     "uikTvd": "463400772018",
+    "uikName": "УИК №161",
     "tikTvd": "263200081150",
-    "tikName": "Волжская"
+    "tikName": "Волжская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 162,
     "uikTvd": "463400772019",
+    "uikName": "УИК №162",
     "tikTvd": "263200081150",
-    "tikName": "Волжская"
+    "tikName": "Волжская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 163,
     "uikTvd": "463400772020",
+    "uikName": "УИК №163",
     "tikTvd": "263200081150",
-    "tikName": "Волжская"
+    "tikName": "Волжская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 164,
     "uikTvd": "463400772021",
+    "uikName": "УИК №164",
     "tikTvd": "263200081150",
-    "tikName": "Волжская"
+    "tikName": "Волжская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 165,
     "uikTvd": "463400772022",
+    "uikName": "УИК №165",
     "tikTvd": "263200081150",
-    "tikName": "Волжская"
+    "tikName": "Волжская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 166,
     "uikTvd": "463400772023",
+    "uikName": "УИК №166",
     "tikTvd": "263200081150",
-    "tikName": "Волжская"
+    "tikName": "Волжская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 167,
     "uikTvd": "463400772024",
+    "uikName": "УИК №167",
     "tikTvd": "263200081150",
-    "tikName": "Волжская"
+    "tikName": "Волжская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 168,
     "uikTvd": "463400772025",
+    "uikName": "УИК №168",
     "tikTvd": "263200081150",
-    "tikName": "Волжская"
+    "tikName": "Волжская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 169,
     "uikTvd": "463400772026",
+    "uikName": "УИК №169",
     "tikTvd": "263200081150",
-    "tikName": "Волжская"
+    "tikName": "Волжская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 170,
     "uikTvd": "463400772027",
+    "uikName": "УИК №170",
     "tikTvd": "263200081150",
-    "tikName": "Волжская"
+    "tikName": "Волжская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 171,
     "uikTvd": "463400772028",
+    "uikName": "УИК №171",
     "tikTvd": "263200081150",
-    "tikName": "Волжская"
+    "tikName": "Волжская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 172,
     "uikTvd": "463400772029",
+    "uikName": "УИК №172",
     "tikTvd": "263200081150",
-    "tikName": "Волжская"
+    "tikName": "Волжская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 173,
     "uikTvd": "463400772030",
+    "uikName": "УИК №173",
     "tikTvd": "263200081150",
-    "tikName": "Волжская"
+    "tikName": "Волжская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 174,
     "uikTvd": "463400772031",
+    "uikName": "УИК №174",
     "tikTvd": "263200081150",
-    "tikName": "Волжская"
+    "tikName": "Волжская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 175,
     "uikTvd": "463400772032",
+    "uikName": "УИК №175",
     "tikTvd": "263200081150",
-    "tikName": "Волжская"
+    "tikName": "Волжская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 176,
     "uikTvd": "463400772033",
+    "uikName": "УИК №176",
     "tikTvd": "263200081150",
-    "tikName": "Волжская"
+    "tikName": "Волжская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 177,
     "uikTvd": "463400772034",
+    "uikName": "УИК №177",
     "tikTvd": "263200081150",
-    "tikName": "Волжская"
+    "tikName": "Волжская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 178,
     "uikTvd": "463400772035",
+    "uikName": "УИК №178",
     "tikTvd": "263200081150",
-    "tikName": "Волжская"
+    "tikName": "Волжская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 179,
     "uikTvd": "463400772036",
+    "uikName": "УИК №179",
     "tikTvd": "263200081150",
-    "tikName": "Волжская"
+    "tikName": "Волжская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 180,
     "uikTvd": "463400772037",
+    "uikName": "УИК №180",
     "tikTvd": "263200081150",
-    "tikName": "Волжская"
+    "tikName": "Волжская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 181,
     "uikTvd": "463400772038",
+    "uikName": "УИК №181",
     "tikTvd": "263200081150",
-    "tikName": "Волжская"
+    "tikName": "Волжская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 182,
     "uikTvd": "463400772039",
+    "uikName": "УИК №182",
     "tikTvd": "263200081150",
-    "tikName": "Волжская"
+    "tikName": "Волжская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 183,
     "uikTvd": "463400772040",
+    "uikName": "УИК №183",
     "tikTvd": "263200081150",
-    "tikName": "Волжская"
+    "tikName": "Волжская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 184,
     "uikTvd": "463400772041",
+    "uikName": "УИК №184",
     "tikTvd": "263200081150",
-    "tikName": "Волжская"
+    "tikName": "Волжская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 185,
     "uikTvd": "463400772042",
+    "uikName": "УИК №185",
     "tikTvd": "263200081150",
-    "tikName": "Волжская"
+    "tikName": "Волжская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 186,
     "uikTvd": "463400772043",
+    "uikName": "УИК №186",
     "tikTvd": "263200081150",
-    "tikName": "Волжская"
+    "tikName": "Волжская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 187,
     "uikTvd": "463400772044",
+    "uikName": "УИК №187",
     "tikTvd": "263200081150",
-    "tikName": "Волжская"
+    "tikName": "Волжская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 188,
     "uikTvd": "463400772045",
+    "uikName": "УИК №188",
     "tikTvd": "263200081150",
-    "tikName": "Волжская"
+    "tikName": "Волжская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 189,
     "uikTvd": "463400772046",
+    "uikName": "УИК №189",
     "tikTvd": "263200081150",
-    "tikName": "Волжская"
+    "tikName": "Волжская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 190,
     "uikTvd": "463400772047",
+    "uikName": "УИК №190",
     "tikTvd": "263200081150",
-    "tikName": "Волжская"
+    "tikName": "Волжская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 191,
     "uikTvd": "463400772048",
+    "uikName": "УИК №191",
     "tikTvd": "263200081150",
-    "tikName": "Волжская"
+    "tikName": "Волжская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 192,
     "uikTvd": "463400772049",
+    "uikName": "УИК №192",
     "tikTvd": "263200081150",
-    "tikName": "Волжская"
+    "tikName": "Волжская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 193,
     "uikTvd": "463401071463",
+    "uikName": "УИК №193",
     "tikTvd": "263200081146",
-    "tikName": "Исаклинская"
+    "tikName": "Исаклинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 194,
     "uikTvd": "463401071464",
+    "uikName": "УИК №194",
     "tikTvd": "263200081146",
-    "tikName": "Исаклинская"
+    "tikName": "Исаклинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 195,
     "uikTvd": "463401071465",
+    "uikName": "УИК №195",
     "tikTvd": "263200081146",
-    "tikName": "Исаклинская"
+    "tikName": "Исаклинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 196,
     "uikTvd": "463401071466",
+    "uikName": "УИК №196",
     "tikTvd": "263200081146",
-    "tikName": "Исаклинская"
+    "tikName": "Исаклинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 197,
     "uikTvd": "463401071467",
+    "uikName": "УИК №197",
     "tikTvd": "263200081146",
-    "tikName": "Исаклинская"
+    "tikName": "Исаклинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 198,
     "uikTvd": "463401071468",
+    "uikName": "УИК №198",
     "tikTvd": "263200081146",
-    "tikName": "Исаклинская"
+    "tikName": "Исаклинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 199,
     "uikTvd": "463401071469",
+    "uikName": "УИК №199",
     "tikTvd": "263200081146",
-    "tikName": "Исаклинская"
+    "tikName": "Исаклинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 200,
     "uikTvd": "463401071470",
+    "uikName": "УИК №200",
     "tikTvd": "263200081146",
-    "tikName": "Исаклинская"
+    "tikName": "Исаклинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 201,
     "uikTvd": "463401071471",
+    "uikName": "УИК №201",
     "tikTvd": "263200081146",
-    "tikName": "Исаклинская"
+    "tikName": "Исаклинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 202,
     "uikTvd": "463401071472",
+    "uikName": "УИК №202",
     "tikTvd": "263200081146",
-    "tikName": "Исаклинская"
+    "tikName": "Исаклинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 203,
     "uikTvd": "463401071473",
+    "uikName": "УИК №203",
     "tikTvd": "263200081146",
-    "tikName": "Исаклинская"
+    "tikName": "Исаклинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 204,
     "uikTvd": "463401071474",
+    "uikName": "УИК №204",
     "tikTvd": "263200081146",
-    "tikName": "Исаклинская"
+    "tikName": "Исаклинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 205,
     "uikTvd": "463401071475",
+    "uikName": "УИК №205",
     "tikTvd": "263200081146",
-    "tikName": "Исаклинская"
+    "tikName": "Исаклинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 206,
     "uikTvd": "463401071476",
+    "uikName": "УИК №206",
     "tikTvd": "263200081146",
-    "tikName": "Исаклинская"
+    "tikName": "Исаклинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 207,
     "uikTvd": "463401071477",
+    "uikName": "УИК №207",
     "tikTvd": "263200081146",
-    "tikName": "Исаклинская"
+    "tikName": "Исаклинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 208,
     "uikTvd": "463401071478",
+    "uikName": "УИК №208",
     "tikTvd": "263200081146",
-    "tikName": "Исаклинская"
+    "tikName": "Исаклинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 209,
     "uikTvd": "463401071479",
+    "uikName": "УИК №209",
     "tikTvd": "263200081146",
-    "tikName": "Исаклинская"
+    "tikName": "Исаклинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 210,
     "uikTvd": "463401071480",
+    "uikName": "УИК №210",
     "tikTvd": "263200081146",
-    "tikName": "Исаклинская"
+    "tikName": "Исаклинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 211,
     "uikTvd": "463401071481",
+    "uikName": "УИК №211",
     "tikTvd": "263200081146",
-    "tikName": "Исаклинская"
+    "tikName": "Исаклинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 212,
     "uikTvd": "463401071482",
+    "uikName": "УИК №212",
     "tikTvd": "263200081146",
-    "tikName": "Исаклинская"
+    "tikName": "Исаклинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 213,
     "uikTvd": "463401071483",
+    "uikName": "УИК №213",
     "tikTvd": "263200081146",
-    "tikName": "Исаклинская"
+    "tikName": "Исаклинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 214,
     "uikTvd": "463401071484",
+    "uikName": "УИК №214",
     "tikTvd": "263200081146",
-    "tikName": "Исаклинская"
+    "tikName": "Исаклинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 215,
     "uikTvd": "463401071485",
+    "uikName": "УИК №215",
     "tikTvd": "263200081146",
-    "tikName": "Исаклинская"
+    "tikName": "Исаклинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 216,
     "uikTvd": "463401071486",
+    "uikName": "УИК №216",
     "tikTvd": "263200081146",
-    "tikName": "Исаклинская"
+    "tikName": "Исаклинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 217,
     "uikTvd": "463401071487",
+    "uikName": "УИК №217",
     "tikTvd": "263200081146",
-    "tikName": "Исаклинская"
+    "tikName": "Исаклинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 218,
     "uikTvd": "463401170912",
+    "uikName": "УИК №218",
     "tikTvd": "263200081147",
-    "tikName": "Камышлинская"
+    "tikName": "Камышлинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 219,
     "uikTvd": "463401170913",
+    "uikName": "УИК №219",
     "tikTvd": "263200081147",
-    "tikName": "Камышлинская"
+    "tikName": "Камышлинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 220,
     "uikTvd": "463401170914",
+    "uikName": "УИК №220",
     "tikTvd": "263200081147",
-    "tikName": "Камышлинская"
+    "tikName": "Камышлинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 221,
     "uikTvd": "463401170915",
+    "uikName": "УИК №221",
     "tikTvd": "263200081147",
-    "tikName": "Камышлинская"
+    "tikName": "Камышлинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 222,
     "uikTvd": "463401170916",
+    "uikName": "УИК №222",
     "tikTvd": "263200081147",
-    "tikName": "Камышлинская"
+    "tikName": "Камышлинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 223,
     "uikTvd": "463401170917",
+    "uikName": "УИК №223",
     "tikTvd": "263200081147",
-    "tikName": "Камышлинская"
+    "tikName": "Камышлинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 224,
     "uikTvd": "463401170918",
+    "uikName": "УИК №224",
     "tikTvd": "263200081147",
-    "tikName": "Камышлинская"
+    "tikName": "Камышлинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 225,
     "uikTvd": "463401170919",
+    "uikName": "УИК №225",
     "tikTvd": "263200081147",
-    "tikName": "Камышлинская"
+    "tikName": "Камышлинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 226,
     "uikTvd": "463401170910",
+    "uikName": "УИК №226",
     "tikTvd": "263200081147",
-    "tikName": "Камышлинская"
+    "tikName": "Камышлинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 227,
     "uikTvd": "463401170920",
+    "uikName": "УИК №227",
     "tikTvd": "263200081147",
-    "tikName": "Камышлинская"
+    "tikName": "Камышлинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 228,
     "uikTvd": "463401170921",
+    "uikName": "УИК №228",
     "tikTvd": "263200081147",
-    "tikName": "Камышлинская"
+    "tikName": "Камышлинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 229,
     "uikTvd": "463401170922",
+    "uikName": "УИК №229",
     "tikTvd": "263200081147",
-    "tikName": "Камышлинская"
+    "tikName": "Камышлинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 230,
     "uikTvd": "463401170923",
+    "uikName": "УИК №230",
     "tikTvd": "263200081147",
-    "tikName": "Камышлинская"
+    "tikName": "Камышлинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 231,
     "uikTvd": "463401170924",
+    "uikName": "УИК №231",
     "tikTvd": "263200081147",
-    "tikName": "Камышлинская"
+    "tikName": "Камышлинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 232,
     "uikTvd": "463404671541",
+    "uikName": "УИК №232",
     "tikTvd": "263200081176",
-    "tikName": "Кинельская"
+    "tikName": "Кинельская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 233,
     "uikTvd": "463404671542",
+    "uikName": "УИК №233",
     "tikTvd": "263200081176",
-    "tikName": "Кинельская"
+    "tikName": "Кинельская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 234,
     "uikTvd": "463404671543",
+    "uikName": "УИК №234",
     "tikTvd": "263200081176",
-    "tikName": "Кинельская"
+    "tikName": "Кинельская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 235,
     "uikTvd": "463404671544",
+    "uikName": "УИК №235",
     "tikTvd": "263200081176",
-    "tikName": "Кинельская"
+    "tikName": "Кинельская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 236,
     "uikTvd": "463404671545",
+    "uikName": "УИК №236",
     "tikTvd": "263200081176",
-    "tikName": "Кинельская"
+    "tikName": "Кинельская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 237,
     "uikTvd": "463404671546",
+    "uikName": "УИК №237",
     "tikTvd": "263200081176",
-    "tikName": "Кинельская"
+    "tikName": "Кинельская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 238,
     "uikTvd": "463404671547",
+    "uikName": "УИК №238",
     "tikTvd": "263200081176",
-    "tikName": "Кинельская"
+    "tikName": "Кинельская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 239,
     "uikTvd": "463404671548",
+    "uikName": "УИК №239",
     "tikTvd": "263200081176",
-    "tikName": "Кинельская"
+    "tikName": "Кинельская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 240,
     "uikTvd": "463404671549",
+    "uikName": "УИК №240",
     "tikTvd": "263200081176",
-    "tikName": "Кинельская"
+    "tikName": "Кинельская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 241,
     "uikTvd": "463404671550",
+    "uikName": "УИК №241",
     "tikTvd": "263200081176",
-    "tikName": "Кинельская"
+    "tikName": "Кинельская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 242,
     "uikTvd": "463404671551",
+    "uikName": "УИК №242",
     "tikTvd": "263200081176",
-    "tikName": "Кинельская"
+    "tikName": "Кинельская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 243,
     "uikTvd": "463404671552",
+    "uikName": "УИК №243",
     "tikTvd": "263200081176",
-    "tikName": "Кинельская"
+    "tikName": "Кинельская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 244,
     "uikTvd": "463404671553",
+    "uikName": "УИК №244",
     "tikTvd": "263200081176",
-    "tikName": "Кинельская"
+    "tikName": "Кинельская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 245,
     "uikTvd": "463404671554",
+    "uikName": "УИК №245",
     "tikTvd": "263200081176",
-    "tikName": "Кинельская"
+    "tikName": "Кинельская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 246,
     "uikTvd": "463404671555",
+    "uikName": "УИК №246",
     "tikTvd": "263200081176",
-    "tikName": "Кинельская"
+    "tikName": "Кинельская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 247,
     "uikTvd": "463404671556",
+    "uikName": "УИК №247",
     "tikTvd": "263200081176",
-    "tikName": "Кинельская"
+    "tikName": "Кинельская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 248,
     "uikTvd": "463404671557",
+    "uikName": "УИК №248",
     "tikTvd": "263200081176",
-    "tikName": "Кинельская"
+    "tikName": "Кинельская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 249,
     "uikTvd": "463404671558",
+    "uikName": "УИК №249",
     "tikTvd": "263200081176",
-    "tikName": "Кинельская"
+    "tikName": "Кинельская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 250,
     "uikTvd": "463404671559",
+    "uikName": "УИК №250",
     "tikTvd": "263200081176",
-    "tikName": "Кинельская"
+    "tikName": "Кинельская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 251,
     "uikTvd": "463404671560",
+    "uikName": "УИК №251",
     "tikTvd": "263200081176",
-    "tikName": "Кинельская"
+    "tikName": "Кинельская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 252,
     "uikTvd": "463404671561",
+    "uikName": "УИК №252",
     "tikTvd": "263200081176",
-    "tikName": "Кинельская"
+    "tikName": "Кинельская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 253,
     "uikTvd": "463404671562",
+    "uikName": "УИК №253",
     "tikTvd": "263200081176",
-    "tikName": "Кинельская"
+    "tikName": "Кинельская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 254,
     "uikTvd": "463404671563",
+    "uikName": "УИК №254",
     "tikTvd": "263200081176",
-    "tikName": "Кинельская"
+    "tikName": "Кинельская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 255,
     "uikTvd": "463404671564",
+    "uikName": "УИК №255",
     "tikTvd": "263200081176",
-    "tikName": "Кинельская"
+    "tikName": "Кинельская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 256,
     "uikTvd": "463404671565",
+    "uikName": "УИК №256",
     "tikTvd": "263200081176",
-    "tikName": "Кинельская"
+    "tikName": "Кинельская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 257,
     "uikTvd": "463401371912",
+    "uikName": "УИК №257",
     "tikTvd": "263200081144",
-    "tikName": "Кинель-Черкасская"
+    "tikName": "Кинель-Черкасская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 258,
     "uikTvd": "463401371913",
+    "uikName": "УИК №258",
     "tikTvd": "263200081144",
-    "tikName": "Кинель-Черкасская"
+    "tikName": "Кинель-Черкасская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 259,
     "uikTvd": "463401371914",
+    "uikName": "УИК №259",
     "tikTvd": "263200081144",
-    "tikName": "Кинель-Черкасская"
+    "tikName": "Кинель-Черкасская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 260,
     "uikTvd": "463401371915",
+    "uikName": "УИК №260",
     "tikTvd": "263200081144",
-    "tikName": "Кинель-Черкасская"
+    "tikName": "Кинель-Черкасская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 261,
     "uikTvd": "463401371916",
+    "uikName": "УИК №261",
     "tikTvd": "263200081144",
-    "tikName": "Кинель-Черкасская"
+    "tikName": "Кинель-Черкасская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 262,
     "uikTvd": "463401371917",
+    "uikName": "УИК №262",
     "tikTvd": "263200081144",
-    "tikName": "Кинель-Черкасская"
+    "tikName": "Кинель-Черкасская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 263,
     "uikTvd": "463401371918",
+    "uikName": "УИК №263",
     "tikTvd": "263200081144",
-    "tikName": "Кинель-Черкасская"
+    "tikName": "Кинель-Черкасская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 264,
     "uikTvd": "463401371919",
+    "uikName": "УИК №264",
     "tikTvd": "263200081144",
-    "tikName": "Кинель-Черкасская"
+    "tikName": "Кинель-Черкасская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 265,
     "uikTvd": "463401371920",
+    "uikName": "УИК №265",
     "tikTvd": "263200081144",
-    "tikName": "Кинель-Черкасская"
+    "tikName": "Кинель-Черкасская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 266,
     "uikTvd": "463401371921",
+    "uikName": "УИК №266",
     "tikTvd": "263200081144",
-    "tikName": "Кинель-Черкасская"
+    "tikName": "Кинель-Черкасская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 267,
     "uikTvd": "463401371922",
+    "uikName": "УИК №267",
     "tikTvd": "263200081144",
-    "tikName": "Кинель-Черкасская"
+    "tikName": "Кинель-Черкасская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 268,
     "uikTvd": "463401371923",
+    "uikName": "УИК №268",
     "tikTvd": "263200081144",
-    "tikName": "Кинель-Черкасская"
+    "tikName": "Кинель-Черкасская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 269,
     "uikTvd": "463401371924",
+    "uikName": "УИК №269",
     "tikTvd": "263200081144",
-    "tikName": "Кинель-Черкасская"
+    "tikName": "Кинель-Черкасская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 270,
     "uikTvd": "463401371925",
+    "uikName": "УИК №270",
     "tikTvd": "263200081144",
-    "tikName": "Кинель-Черкасская"
+    "tikName": "Кинель-Черкасская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 271,
     "uikTvd": "463401371926",
+    "uikName": "УИК №271",
     "tikTvd": "263200081144",
-    "tikName": "Кинель-Черкасская"
+    "tikName": "Кинель-Черкасская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 272,
     "uikTvd": "463401371927",
+    "uikName": "УИК №272",
     "tikTvd": "263200081144",
-    "tikName": "Кинель-Черкасская"
+    "tikName": "Кинель-Черкасская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 273,
     "uikTvd": "463401371928",
+    "uikName": "УИК №273",
     "tikTvd": "263200081144",
-    "tikName": "Кинель-Черкасская"
+    "tikName": "Кинель-Черкасская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 274,
     "uikTvd": "463401371929",
+    "uikName": "УИК №274",
     "tikTvd": "263200081144",
-    "tikName": "Кинель-Черкасская"
+    "tikName": "Кинель-Черкасская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 275,
     "uikTvd": "463401371930",
+    "uikName": "УИК №275",
     "tikTvd": "263200081144",
-    "tikName": "Кинель-Черкасская"
+    "tikName": "Кинель-Черкасская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 276,
     "uikTvd": "463401371931",
+    "uikName": "УИК №276",
     "tikTvd": "263200081144",
-    "tikName": "Кинель-Черкасская"
+    "tikName": "Кинель-Черкасская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 277,
     "uikTvd": "463401371932",
+    "uikName": "УИК №277",
     "tikTvd": "263200081144",
-    "tikName": "Кинель-Черкасская"
+    "tikName": "Кинель-Черкасская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 278,
     "uikTvd": "463401371933",
+    "uikName": "УИК №278",
     "tikTvd": "263200081144",
-    "tikName": "Кинель-Черкасская"
+    "tikName": "Кинель-Черкасская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 279,
     "uikTvd": "463401371934",
+    "uikName": "УИК №279",
     "tikTvd": "263200081144",
-    "tikName": "Кинель-Черкасская"
+    "tikName": "Кинель-Черкасская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 280,
     "uikTvd": "463401371935",
+    "uikName": "УИК №280",
     "tikTvd": "263200081144",
-    "tikName": "Кинель-Черкасская"
+    "tikName": "Кинель-Черкасская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 281,
     "uikTvd": "463401371936",
+    "uikName": "УИК №281",
     "tikTvd": "263200081144",
-    "tikName": "Кинель-Черкасская"
+    "tikName": "Кинель-Черкасская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 282,
     "uikTvd": "463401371937",
+    "uikName": "УИК №282",
     "tikTvd": "263200081144",
-    "tikName": "Кинель-Черкасская"
+    "tikName": "Кинель-Черкасская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 283,
     "uikTvd": "463401371938",
+    "uikName": "УИК №283",
     "tikTvd": "263200081144",
-    "tikName": "Кинель-Черкасская"
+    "tikName": "Кинель-Черкасская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 284,
     "uikTvd": "463401371939",
+    "uikName": "УИК №284",
     "tikTvd": "263200081144",
-    "tikName": "Кинель-Черкасская"
+    "tikName": "Кинель-Черкасская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 285,
     "uikTvd": "463401371940",
+    "uikName": "УИК №285",
     "tikTvd": "263200081144",
-    "tikName": "Кинель-Черкасская"
+    "tikName": "Кинель-Черкасская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 286,
     "uikTvd": "463401371941",
+    "uikName": "УИК №286",
     "tikTvd": "263200081144",
-    "tikName": "Кинель-Черкасская"
+    "tikName": "Кинель-Черкасская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 287,
     "uikTvd": "463401371942",
+    "uikName": "УИК №287",
     "tikTvd": "263200081144",
-    "tikName": "Кинель-Черкасская"
+    "tikName": "Кинель-Черкасская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 288,
     "uikTvd": "463401371943",
+    "uikName": "УИК №288",
     "tikTvd": "263200081144",
-    "tikName": "Кинель-Черкасская"
+    "tikName": "Кинель-Черкасская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 289,
     "uikTvd": "463401371944",
+    "uikName": "УИК №289",
     "tikTvd": "263200081144",
-    "tikName": "Кинель-Черкасская"
+    "tikName": "Кинель-Черкасская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 290,
     "uikTvd": "463401371945",
+    "uikName": "УИК №290",
     "tikTvd": "263200081144",
-    "tikName": "Кинель-Черкасская"
+    "tikName": "Кинель-Черкасская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 291,
     "uikTvd": "463401371946",
+    "uikName": "УИК №291",
     "tikTvd": "263200081144",
-    "tikName": "Кинель-Черкасская"
+    "tikName": "Кинель-Черкасская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 292,
     "uikTvd": "463401371947",
+    "uikName": "УИК №292",
     "tikTvd": "263200081144",
-    "tikName": "Кинель-Черкасская"
+    "tikName": "Кинель-Черкасская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 293,
     "uikTvd": "463401371948",
+    "uikName": "УИК №293",
     "tikTvd": "263200081144",
-    "tikName": "Кинель-Черкасская"
+    "tikName": "Кинель-Черкасская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 294,
     "uikTvd": "463401371949",
+    "uikName": "УИК №294",
     "tikTvd": "263200081144",
-    "tikName": "Кинель-Черкасская"
+    "tikName": "Кинель-Черкасская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 295,
     "uikTvd": "463401371950",
+    "uikName": "УИК №295",
     "tikTvd": "263200081144",
-    "tikName": "Кинель-Черкасская"
+    "tikName": "Кинель-Черкасская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 296,
     "uikTvd": "463401371951",
+    "uikName": "УИК №296",
     "tikTvd": "263200081144",
-    "tikName": "Кинель-Черкасская"
+    "tikName": "Кинель-Черкасская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 297,
     "uikTvd": "463401371952",
+    "uikName": "УИК №297",
     "tikTvd": "263200081144",
-    "tikName": "Кинель-Черкасская"
+    "tikName": "Кинель-Черкасская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 298,
     "uikTvd": "463401371953",
+    "uikName": "УИК №298",
     "tikTvd": "263200081144",
-    "tikName": "Кинель-Черкасская"
+    "tikName": "Кинель-Черкасская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 299,
     "uikTvd": "463401371954",
+    "uikName": "УИК №299",
     "tikTvd": "263200081144",
-    "tikName": "Кинель-Черкасская"
+    "tikName": "Кинель-Черкасская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 300,
     "uikTvd": "463401371955",
+    "uikName": "УИК №300",
     "tikTvd": "263200081144",
-    "tikName": "Кинель-Черкасская"
+    "tikName": "Кинель-Черкасская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 301,
     "uikTvd": "463401371956",
+    "uikName": "УИК №301",
     "tikTvd": "263200081144",
-    "tikName": "Кинель-Черкасская"
+    "tikName": "Кинель-Черкасская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 302,
     "uikTvd": "463401371957",
+    "uikName": "УИК №302",
     "tikTvd": "263200081144",
-    "tikName": "Кинель-Черкасская"
+    "tikName": "Кинель-Черкасская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 303,
     "uikTvd": "463401371958",
+    "uikName": "УИК №303",
     "tikTvd": "263200081144",
-    "tikName": "Кинель-Черкасская"
+    "tikName": "Кинель-Черкасская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 304,
     "uikTvd": "463401371959",
+    "uikName": "УИК №304",
     "tikTvd": "263200081144",
-    "tikName": "Кинель-Черкасская"
+    "tikName": "Кинель-Черкасская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 305,
     "uikTvd": "463401471856",
+    "uikName": "УИК №305",
     "tikTvd": "263200081142",
-    "tikName": "Клявлинская"
+    "tikName": "Клявлинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 306,
     "uikTvd": "463401471857",
+    "uikName": "УИК №306",
     "tikTvd": "263200081142",
-    "tikName": "Клявлинская"
+    "tikName": "Клявлинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 307,
     "uikTvd": "463401471858",
+    "uikName": "УИК №307",
     "tikTvd": "263200081142",
-    "tikName": "Клявлинская"
+    "tikName": "Клявлинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 308,
     "uikTvd": "463401471859",
+    "uikName": "УИК №308",
     "tikTvd": "263200081142",
-    "tikName": "Клявлинская"
+    "tikName": "Клявлинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 309,
     "uikTvd": "463401471860",
+    "uikName": "УИК №309",
     "tikTvd": "263200081142",
-    "tikName": "Клявлинская"
+    "tikName": "Клявлинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 310,
     "uikTvd": "463401471861",
+    "uikName": "УИК №310",
     "tikTvd": "263200081142",
-    "tikName": "Клявлинская"
+    "tikName": "Клявлинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 311,
     "uikTvd": "463401471862",
+    "uikName": "УИК №311",
     "tikTvd": "263200081142",
-    "tikName": "Клявлинская"
+    "tikName": "Клявлинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 312,
     "uikTvd": "463401471863",
+    "uikName": "УИК №312",
     "tikTvd": "263200081142",
-    "tikName": "Клявлинская"
+    "tikName": "Клявлинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 313,
     "uikTvd": "463401471864",
+    "uikName": "УИК №313",
     "tikTvd": "263200081142",
-    "tikName": "Клявлинская"
+    "tikName": "Клявлинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 314,
     "uikTvd": "463401471865",
+    "uikName": "УИК №314",
     "tikTvd": "263200081142",
-    "tikName": "Клявлинская"
+    "tikName": "Клявлинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 315,
     "uikTvd": "463401471866",
+    "uikName": "УИК №315",
     "tikTvd": "263200081142",
-    "tikName": "Клявлинская"
+    "tikName": "Клявлинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 316,
     "uikTvd": "463401471867",
+    "uikName": "УИК №316",
     "tikTvd": "263200081142",
-    "tikName": "Клявлинская"
+    "tikName": "Клявлинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 317,
     "uikTvd": "463401471868",
+    "uikName": "УИК №317",
     "tikTvd": "263200081142",
-    "tikName": "Клявлинская"
+    "tikName": "Клявлинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 318,
     "uikTvd": "463401471869",
+    "uikName": "УИК №318",
     "tikTvd": "263200081142",
-    "tikName": "Клявлинская"
+    "tikName": "Клявлинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 319,
     "uikTvd": "463401471870",
+    "uikName": "УИК №319",
     "tikTvd": "263200081142",
-    "tikName": "Клявлинская"
+    "tikName": "Клявлинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 320,
     "uikTvd": "463401471871",
+    "uikName": "УИК №320",
     "tikTvd": "263200081142",
-    "tikName": "Клявлинская"
+    "tikName": "Клявлинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 321,
     "uikTvd": "463401471872",
+    "uikName": "УИК №321",
     "tikTvd": "263200081142",
-    "tikName": "Клявлинская"
+    "tikName": "Клявлинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 322,
     "uikTvd": "463401471873",
+    "uikName": "УИК №322",
     "tikTvd": "263200081142",
-    "tikName": "Клявлинская"
+    "tikName": "Клявлинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 323,
     "uikTvd": "463401471874",
+    "uikName": "УИК №323",
     "tikTvd": "263200081142",
-    "tikName": "Клявлинская"
+    "tikName": "Клявлинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 324,
     "uikTvd": "463401471875",
+    "uikName": "УИК №324",
     "tikTvd": "263200081142",
-    "tikName": "Клявлинская"
+    "tikName": "Клявлинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 325,
     "uikTvd": "463401471876",
+    "uikName": "УИК №325",
     "tikTvd": "263200081142",
-    "tikName": "Клявлинская"
+    "tikName": "Клявлинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 326,
     "uikTvd": "463401471877",
+    "uikName": "УИК №326",
     "tikTvd": "263200081142",
-    "tikName": "Клявлинская"
+    "tikName": "Клявлинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 327,
     "uikTvd": "463401471878",
+    "uikName": "УИК №327",
     "tikTvd": "263200081142",
-    "tikName": "Клявлинская"
+    "tikName": "Клявлинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 328,
     "uikTvd": "463401471879",
+    "uikName": "УИК №328",
     "tikTvd": "263200081142",
-    "tikName": "Клявлинская"
+    "tikName": "Клявлинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 329,
     "uikTvd": "463401471880",
+    "uikName": "УИК №329",
     "tikTvd": "263200081142",
-    "tikName": "Клявлинская"
+    "tikName": "Клявлинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 330,
     "uikTvd": "463401572161",
+    "uikName": "УИК №330",
     "tikTvd": "263200081143",
-    "tikName": "Кошкинская"
+    "tikName": "Кошкинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 331,
     "uikTvd": "463401572162",
+    "uikName": "УИК №331",
     "tikTvd": "263200081143",
-    "tikName": "Кошкинская"
+    "tikName": "Кошкинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 332,
     "uikTvd": "463401572163",
+    "uikName": "УИК №332",
     "tikTvd": "263200081143",
-    "tikName": "Кошкинская"
+    "tikName": "Кошкинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 333,
     "uikTvd": "463401572164",
+    "uikName": "УИК №333",
     "tikTvd": "263200081143",
-    "tikName": "Кошкинская"
+    "tikName": "Кошкинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 334,
     "uikTvd": "463401572165",
+    "uikName": "УИК №334",
     "tikTvd": "263200081143",
-    "tikName": "Кошкинская"
+    "tikName": "Кошкинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 335,
     "uikTvd": "463401572166",
+    "uikName": "УИК №335",
     "tikTvd": "263200081143",
-    "tikName": "Кошкинская"
+    "tikName": "Кошкинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 336,
     "uikTvd": "463401572167",
+    "uikName": "УИК №336",
     "tikTvd": "263200081143",
-    "tikName": "Кошкинская"
+    "tikName": "Кошкинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 337,
     "uikTvd": "463401572168",
+    "uikName": "УИК №337",
     "tikTvd": "263200081143",
-    "tikName": "Кошкинская"
+    "tikName": "Кошкинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 338,
     "uikTvd": "463401572169",
+    "uikName": "УИК №338",
     "tikTvd": "263200081143",
-    "tikName": "Кошкинская"
+    "tikName": "Кошкинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 339,
     "uikTvd": "463401572170",
+    "uikName": "УИК №339",
     "tikTvd": "263200081143",
-    "tikName": "Кошкинская"
+    "tikName": "Кошкинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 340,
     "uikTvd": "463401572171",
+    "uikName": "УИК №340",
     "tikTvd": "263200081143",
-    "tikName": "Кошкинская"
+    "tikName": "Кошкинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 341,
     "uikTvd": "463401572172",
+    "uikName": "УИК №341",
     "tikTvd": "263200081143",
-    "tikName": "Кошкинская"
+    "tikName": "Кошкинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 342,
     "uikTvd": "463401572173",
+    "uikName": "УИК №342",
     "tikTvd": "263200081143",
-    "tikName": "Кошкинская"
+    "tikName": "Кошкинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 343,
     "uikTvd": "463401572174",
+    "uikName": "УИК №343",
     "tikTvd": "263200081143",
-    "tikName": "Кошкинская"
+    "tikName": "Кошкинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 344,
     "uikTvd": "463401572175",
+    "uikName": "УИК №344",
     "tikTvd": "263200081143",
-    "tikName": "Кошкинская"
+    "tikName": "Кошкинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 345,
     "uikTvd": "463401572176",
+    "uikName": "УИК №345",
     "tikTvd": "263200081143",
-    "tikName": "Кошкинская"
+    "tikName": "Кошкинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 346,
     "uikTvd": "463401572177",
+    "uikName": "УИК №346",
     "tikTvd": "263200081143",
-    "tikName": "Кошкинская"
+    "tikName": "Кошкинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 347,
     "uikTvd": "463401572178",
+    "uikName": "УИК №347",
     "tikTvd": "263200081143",
-    "tikName": "Кошкинская"
+    "tikName": "Кошкинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 348,
     "uikTvd": "463401572179",
+    "uikName": "УИК №348",
     "tikTvd": "263200081143",
-    "tikName": "Кошкинская"
+    "tikName": "Кошкинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 349,
     "uikTvd": "463401572180",
+    "uikName": "УИК №349",
     "tikTvd": "263200081143",
-    "tikName": "Кошкинская"
+    "tikName": "Кошкинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 350,
     "uikTvd": "463401572181",
+    "uikName": "УИК №350",
     "tikTvd": "263200081143",
-    "tikName": "Кошкинская"
+    "tikName": "Кошкинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 351,
     "uikTvd": "463401572182",
+    "uikName": "УИК №351",
     "tikTvd": "263200081143",
-    "tikName": "Кошкинская"
+    "tikName": "Кошкинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 352,
     "uikTvd": "463401572183",
+    "uikName": "УИК №352",
     "tikTvd": "263200081143",
-    "tikName": "Кошкинская"
+    "tikName": "Кошкинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 353,
     "uikTvd": "463401572184",
+    "uikName": "УИК №353",
     "tikTvd": "263200081143",
-    "tikName": "Кошкинская"
+    "tikName": "Кошкинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 354,
     "uikTvd": "463401572185",
+    "uikName": "УИК №354",
     "tikTvd": "263200081143",
-    "tikName": "Кошкинская"
+    "tikName": "Кошкинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 355,
     "uikTvd": "463401572186",
+    "uikName": "УИК №355",
     "tikTvd": "263200081143",
-    "tikName": "Кошкинская"
+    "tikName": "Кошкинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 356,
     "uikTvd": "463401572187",
+    "uikName": "УИК №356",
     "tikTvd": "263200081143",
-    "tikName": "Кошкинская"
+    "tikName": "Кошкинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 357,
     "uikTvd": "463401572188",
+    "uikName": "УИК №357",
     "tikTvd": "263200081143",
-    "tikName": "Кошкинская"
+    "tikName": "Кошкинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 358,
     "uikTvd": "463401572189",
+    "uikName": "УИК №358",
     "tikTvd": "263200081143",
-    "tikName": "Кошкинская"
+    "tikName": "Кошкинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 359,
     "uikTvd": "463401572190",
+    "uikName": "УИК №359",
     "tikTvd": "263200081143",
-    "tikName": "Кошкинская"
+    "tikName": "Кошкинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 360,
     "uikTvd": "463401572191",
+    "uikName": "УИК №360",
     "tikTvd": "263200081143",
-    "tikName": "Кошкинская"
+    "tikName": "Кошкинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 361,
     "uikTvd": "463401572192",
+    "uikName": "УИК №361",
     "tikTvd": "263200081143",
-    "tikName": "Кошкинская"
+    "tikName": "Кошкинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 362,
     "uikTvd": "463401572193",
+    "uikName": "УИК №362",
     "tikTvd": "263200081143",
-    "tikName": "Кошкинская"
+    "tikName": "Кошкинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 363,
     "uikTvd": "463401572194",
+    "uikName": "УИК №363",
     "tikTvd": "263200081143",
-    "tikName": "Кошкинская"
+    "tikName": "Кошкинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 364,
     "uikTvd": "463401572195",
+    "uikName": "УИК №364",
     "tikTvd": "263200081143",
-    "tikName": "Кошкинская"
+    "tikName": "Кошкинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 365,
     "uikTvd": "463401572196",
+    "uikName": "УИК №365",
     "tikTvd": "263200081143",
-    "tikName": "Кошкинская"
+    "tikName": "Кошкинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 366,
     "uikTvd": "463404771711",
+    "uikName": "УИК №366",
     "tikTvd": "263200081175",
-    "tikName": "Похвистневская"
+    "tikName": "Похвистневская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 367,
     "uikTvd": "463404771712",
+    "uikName": "УИК №367",
     "tikTvd": "263200081175",
-    "tikName": "Похвистневская"
+    "tikName": "Похвистневская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 368,
     "uikTvd": "463404771713",
+    "uikName": "УИК №368",
     "tikTvd": "263200081175",
-    "tikName": "Похвистневская"
+    "tikName": "Похвистневская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 369,
     "uikTvd": "463404771714",
+    "uikName": "УИК №369",
     "tikTvd": "263200081175",
-    "tikName": "Похвистневская"
+    "tikName": "Похвистневская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 370,
     "uikTvd": "463404771715",
+    "uikName": "УИК №370",
     "tikTvd": "263200081175",
-    "tikName": "Похвистневская"
+    "tikName": "Похвистневская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 371,
     "uikTvd": "463404771716",
+    "uikName": "УИК №371",
     "tikTvd": "263200081175",
-    "tikName": "Похвистневская"
+    "tikName": "Похвистневская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 372,
     "uikTvd": "463404771717",
+    "uikName": "УИК №372",
     "tikTvd": "263200081175",
-    "tikName": "Похвистневская"
+    "tikName": "Похвистневская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 373,
     "uikTvd": "463404771718",
+    "uikName": "УИК №373",
     "tikTvd": "263200081175",
-    "tikName": "Похвистневская"
+    "tikName": "Похвистневская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 374,
     "uikTvd": "463404771719",
+    "uikName": "УИК №374",
     "tikTvd": "263200081175",
-    "tikName": "Похвистневская"
+    "tikName": "Похвистневская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 375,
     "uikTvd": "463404771720",
+    "uikName": "УИК №375",
     "tikTvd": "263200081175",
-    "tikName": "Похвистневская"
+    "tikName": "Похвистневская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 376,
     "uikTvd": "463404771721",
+    "uikName": "УИК №376",
     "tikTvd": "263200081175",
-    "tikName": "Похвистневская"
+    "tikName": "Похвистневская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 377,
     "uikTvd": "463404771722",
+    "uikName": "УИК №377",
     "tikTvd": "263200081175",
-    "tikName": "Похвистневская"
+    "tikName": "Похвистневская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 378,
     "uikTvd": "463404771723",
+    "uikName": "УИК №378",
     "tikTvd": "263200081175",
-    "tikName": "Похвистневская"
+    "tikName": "Похвистневская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 379,
     "uikTvd": "463404771724",
+    "uikName": "УИК №379",
     "tikTvd": "263200081175",
-    "tikName": "Похвистневская"
+    "tikName": "Похвистневская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 380,
     "uikTvd": "463404771725",
+    "uikName": "УИК №380",
     "tikTvd": "263200081175",
-    "tikName": "Похвистневская"
+    "tikName": "Похвистневская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 381,
     "uikTvd": "463404771726",
+    "uikName": "УИК №381",
     "tikTvd": "263200081175",
-    "tikName": "Похвистневская"
+    "tikName": "Похвистневская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 382,
     "uikTvd": "463404771727",
+    "uikName": "УИК №382",
     "tikTvd": "263200081175",
-    "tikName": "Похвистневская"
+    "tikName": "Похвистневская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 383,
     "uikTvd": "463404771728",
+    "uikName": "УИК №383",
     "tikTvd": "263200081175",
-    "tikName": "Похвистневская"
+    "tikName": "Похвистневская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 384,
     "uikTvd": "463404771729",
+    "uikName": "УИК №384",
     "tikTvd": "263200081175",
-    "tikName": "Похвистневская"
+    "tikName": "Похвистневская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 385,
     "uikTvd": "463404771730",
+    "uikName": "УИК №385",
     "tikTvd": "263200081175",
-    "tikName": "Похвистневская"
+    "tikName": "Похвистневская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 386,
     "uikTvd": "463404771731",
+    "uikName": "УИК №386",
     "tikTvd": "263200081175",
-    "tikName": "Похвистневская"
+    "tikName": "Похвистневская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 387,
     "uikTvd": "463404771732",
+    "uikName": "УИК №387",
     "tikTvd": "263200081175",
-    "tikName": "Похвистневская"
+    "tikName": "Похвистневская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 388,
     "uikTvd": "463404771733",
+    "uikName": "УИК №388",
     "tikTvd": "263200081175",
-    "tikName": "Похвистневская"
+    "tikName": "Похвистневская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 389,
     "uikTvd": "463404771734",
+    "uikName": "УИК №389",
     "tikTvd": "263200081175",
-    "tikName": "Похвистневская"
+    "tikName": "Похвистневская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 390,
     "uikTvd": "463404771735",
+    "uikName": "УИК №390",
     "tikTvd": "263200081175",
-    "tikName": "Похвистневская"
+    "tikName": "Похвистневская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 391,
     "uikTvd": "463404771736",
+    "uikName": "УИК №391",
     "tikTvd": "263200081175",
-    "tikName": "Похвистневская"
+    "tikName": "Похвистневская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 392,
     "uikTvd": "463404771737",
+    "uikName": "УИК №392",
     "tikTvd": "263200081175",
-    "tikName": "Похвистневская"
+    "tikName": "Похвистневская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 393,
     "uikTvd": "463404771738",
+    "uikName": "УИК №393",
     "tikTvd": "263200081175",
-    "tikName": "Похвистневская"
+    "tikName": "Похвистневская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 394,
     "uikTvd": "463404771739",
+    "uikName": "УИК №394",
     "tikTvd": "263200081175",
-    "tikName": "Похвистневская"
+    "tikName": "Похвистневская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 395,
     "uikTvd": "463404771740",
+    "uikName": "УИК №395",
     "tikTvd": "263200081175",
-    "tikName": "Похвистневская"
+    "tikName": "Похвистневская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 396,
     "uikTvd": "463404771741",
+    "uikName": "УИК №396",
     "tikTvd": "263200081175",
-    "tikName": "Похвистневская"
+    "tikName": "Похвистневская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 397,
     "uikTvd": "463404771742",
+    "uikName": "УИК №397",
     "tikTvd": "263200081175",
-    "tikName": "Похвистневская"
+    "tikName": "Похвистневская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 398,
     "uikTvd": "463404771743",
+    "uikName": "УИК №398",
     "tikTvd": "263200081175",
-    "tikName": "Похвистневская"
+    "tikName": "Похвистневская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 399,
     "uikTvd": "463403471886",
+    "uikName": "УИК №399",
     "tikTvd": "263200081170",
-    "tikName": "Сергиевская"
+    "tikName": "Сергиевская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 400,
     "uikTvd": "463403471887",
+    "uikName": "УИК №400",
     "tikTvd": "263200081170",
-    "tikName": "Сергиевская"
+    "tikName": "Сергиевская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 401,
     "uikTvd": "463403471888",
+    "uikName": "УИК №401",
     "tikTvd": "263200081170",
-    "tikName": "Сергиевская"
+    "tikName": "Сергиевская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 402,
     "uikTvd": "463403471889",
+    "uikName": "УИК №402",
     "tikTvd": "263200081170",
-    "tikName": "Сергиевская"
+    "tikName": "Сергиевская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 403,
     "uikTvd": "463403471890",
+    "uikName": "УИК №403",
     "tikTvd": "263200081170",
-    "tikName": "Сергиевская"
+    "tikName": "Сергиевская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 404,
     "uikTvd": "463403471891",
+    "uikName": "УИК №404",
     "tikTvd": "263200081170",
-    "tikName": "Сергиевская"
+    "tikName": "Сергиевская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 405,
     "uikTvd": "463403471892",
+    "uikName": "УИК №405",
     "tikTvd": "263200081170",
-    "tikName": "Сергиевская"
+    "tikName": "Сергиевская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 406,
     "uikTvd": "463403471893",
+    "uikName": "УИК №406",
     "tikTvd": "263200081170",
-    "tikName": "Сергиевская"
+    "tikName": "Сергиевская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 407,
     "uikTvd": "463403471894",
+    "uikName": "УИК №407",
     "tikTvd": "263200081170",
-    "tikName": "Сергиевская"
+    "tikName": "Сергиевская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 408,
     "uikTvd": "463403471895",
+    "uikName": "УИК №408",
     "tikTvd": "263200081170",
-    "tikName": "Сергиевская"
+    "tikName": "Сергиевская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 409,
     "uikTvd": "463403471896",
+    "uikName": "УИК №409",
     "tikTvd": "263200081170",
-    "tikName": "Сергиевская"
+    "tikName": "Сергиевская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 410,
     "uikTvd": "463403471897",
+    "uikName": "УИК №410",
     "tikTvd": "263200081170",
-    "tikName": "Сергиевская"
+    "tikName": "Сергиевская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 411,
     "uikTvd": "463403471898",
+    "uikName": "УИК №411",
     "tikTvd": "263200081170",
-    "tikName": "Сергиевская"
+    "tikName": "Сергиевская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 412,
     "uikTvd": "463403471899",
+    "uikName": "УИК №412",
     "tikTvd": "263200081170",
-    "tikName": "Сергиевская"
+    "tikName": "Сергиевская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 413,
     "uikTvd": "463403471900",
+    "uikName": "УИК №413",
     "tikTvd": "263200081170",
-    "tikName": "Сергиевская"
+    "tikName": "Сергиевская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 414,
     "uikTvd": "463403471901",
+    "uikName": "УИК №414",
     "tikTvd": "263200081170",
-    "tikName": "Сергиевская"
+    "tikName": "Сергиевская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 415,
     "uikTvd": "463403471902",
+    "uikName": "УИК №415",
     "tikTvd": "263200081170",
-    "tikName": "Сергиевская"
+    "tikName": "Сергиевская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 416,
     "uikTvd": "463403471903",
+    "uikName": "УИК №416",
     "tikTvd": "263200081170",
-    "tikName": "Сергиевская"
+    "tikName": "Сергиевская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 417,
     "uikTvd": "463403471904",
+    "uikName": "УИК №417",
     "tikTvd": "263200081170",
-    "tikName": "Сергиевская"
+    "tikName": "Сергиевская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 418,
     "uikTvd": "463403471905",
+    "uikName": "УИК №418",
     "tikTvd": "263200081170",
-    "tikName": "Сергиевская"
+    "tikName": "Сергиевская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 419,
     "uikTvd": "463403471906",
+    "uikName": "УИК №419",
     "tikTvd": "263200081170",
-    "tikName": "Сергиевская"
+    "tikName": "Сергиевская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 420,
     "uikTvd": "463403471907",
+    "uikName": "УИК №420",
     "tikTvd": "263200081170",
-    "tikName": "Сергиевская"
+    "tikName": "Сергиевская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 421,
     "uikTvd": "463403471908",
+    "uikName": "УИК №421",
     "tikTvd": "263200081170",
-    "tikName": "Сергиевская"
+    "tikName": "Сергиевская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 422,
     "uikTvd": "463403471909",
+    "uikName": "УИК №422",
     "tikTvd": "263200081170",
-    "tikName": "Сергиевская"
+    "tikName": "Сергиевская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 423,
     "uikTvd": "463403471910",
+    "uikName": "УИК №423",
     "tikTvd": "263200081170",
-    "tikName": "Сергиевская"
+    "tikName": "Сергиевская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 424,
     "uikTvd": "463403471911",
+    "uikName": "УИК №424",
     "tikTvd": "263200081170",
-    "tikName": "Сергиевская"
+    "tikName": "Сергиевская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 425,
     "uikTvd": "463403471912",
+    "uikName": "УИК №425",
     "tikTvd": "263200081170",
-    "tikName": "Сергиевская"
+    "tikName": "Сергиевская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 426,
     "uikTvd": "463403471913",
+    "uikName": "УИК №426",
     "tikTvd": "263200081170",
-    "tikName": "Сергиевская"
+    "tikName": "Сергиевская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 427,
     "uikTvd": "463403471914",
+    "uikName": "УИК №427",
     "tikTvd": "263200081170",
-    "tikName": "Сергиевская"
+    "tikName": "Сергиевская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 428,
     "uikTvd": "463403471915",
+    "uikName": "УИК №428",
     "tikTvd": "263200081170",
-    "tikName": "Сергиевская"
+    "tikName": "Сергиевская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 429,
     "uikTvd": "463403471916",
+    "uikName": "УИК №429",
     "tikTvd": "263200081170",
-    "tikName": "Сергиевская"
+    "tikName": "Сергиевская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 430,
     "uikTvd": "463403471917",
+    "uikName": "УИК №430",
     "tikTvd": "263200081170",
-    "tikName": "Сергиевская"
+    "tikName": "Сергиевская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 431,
     "uikTvd": "463403471918",
+    "uikName": "УИК №431",
     "tikTvd": "263200081170",
-    "tikName": "Сергиевская"
+    "tikName": "Сергиевская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 432,
     "uikTvd": "463403471919",
+    "uikName": "УИК №432",
     "tikTvd": "263200081170",
-    "tikName": "Сергиевская"
+    "tikName": "Сергиевская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 433,
     "uikTvd": "463403471920",
+    "uikName": "УИК №433",
     "tikTvd": "263200081170",
-    "tikName": "Сергиевская"
+    "tikName": "Сергиевская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 434,
     "uikTvd": "463403471921",
+    "uikName": "УИК №434",
     "tikTvd": "263200081170",
-    "tikName": "Сергиевская"
+    "tikName": "Сергиевская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 435,
     "uikTvd": "463403471922",
+    "uikName": "УИК №435",
     "tikTvd": "263200081170",
-    "tikName": "Сергиевская"
+    "tikName": "Сергиевская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 436,
     "uikTvd": "463404371494",
+    "uikName": "УИК №436",
     "tikTvd": "263200081178",
-    "tikName": "Челно-Вершинская"
+    "tikName": "Челно-Вершинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 437,
     "uikTvd": "463404371495",
+    "uikName": "УИК №437",
     "tikTvd": "263200081178",
-    "tikName": "Челно-Вершинская"
+    "tikName": "Челно-Вершинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 438,
     "uikTvd": "463404371496",
+    "uikName": "УИК №438",
     "tikTvd": "263200081178",
-    "tikName": "Челно-Вершинская"
+    "tikName": "Челно-Вершинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 439,
     "uikTvd": "463404371497",
+    "uikName": "УИК №439",
     "tikTvd": "263200081178",
-    "tikName": "Челно-Вершинская"
+    "tikName": "Челно-Вершинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 440,
     "uikTvd": "463404371498",
+    "uikName": "УИК №440",
     "tikTvd": "263200081178",
-    "tikName": "Челно-Вершинская"
+    "tikName": "Челно-Вершинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 441,
     "uikTvd": "463404371499",
+    "uikName": "УИК №441",
     "tikTvd": "263200081178",
-    "tikName": "Челно-Вершинская"
+    "tikName": "Челно-Вершинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 442,
     "uikTvd": "463404371500",
+    "uikName": "УИК №442",
     "tikTvd": "263200081178",
-    "tikName": "Челно-Вершинская"
+    "tikName": "Челно-Вершинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 443,
     "uikTvd": "463404371501",
+    "uikName": "УИК №443",
     "tikTvd": "263200081178",
-    "tikName": "Челно-Вершинская"
+    "tikName": "Челно-Вершинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 444,
     "uikTvd": "463404371502",
+    "uikName": "УИК №444",
     "tikTvd": "263200081178",
-    "tikName": "Челно-Вершинская"
+    "tikName": "Челно-Вершинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 445,
     "uikTvd": "463404371503",
+    "uikName": "УИК №445",
     "tikTvd": "263200081178",
-    "tikName": "Челно-Вершинская"
+    "tikName": "Челно-Вершинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 446,
     "uikTvd": "463404371504",
+    "uikName": "УИК №446",
     "tikTvd": "263200081178",
-    "tikName": "Челно-Вершинская"
+    "tikName": "Челно-Вершинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 447,
     "uikTvd": "463404371505",
+    "uikName": "УИК №447",
     "tikTvd": "263200081178",
-    "tikName": "Челно-Вершинская"
+    "tikName": "Челно-Вершинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 448,
     "uikTvd": "463404371506",
+    "uikName": "УИК №448",
     "tikTvd": "263200081178",
-    "tikName": "Челно-Вершинская"
+    "tikName": "Челно-Вершинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 449,
     "uikTvd": "463404371507",
+    "uikName": "УИК №449",
     "tikTvd": "263200081178",
-    "tikName": "Челно-Вершинская"
+    "tikName": "Челно-Вершинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 450,
     "uikTvd": "463404371508",
+    "uikName": "УИК №450",
     "tikTvd": "263200081178",
-    "tikName": "Челно-Вершинская"
+    "tikName": "Челно-Вершинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 451,
     "uikTvd": "463404371509",
+    "uikName": "УИК №451",
     "tikTvd": "263200081178",
-    "tikName": "Челно-Вершинская"
+    "tikName": "Челно-Вершинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 452,
     "uikTvd": "463404371510",
+    "uikName": "УИК №452",
     "tikTvd": "263200081178",
-    "tikName": "Челно-Вершинская"
+    "tikName": "Челно-Вершинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 453,
     "uikTvd": "463404371511",
+    "uikName": "УИК №453",
     "tikTvd": "263200081178",
-    "tikName": "Челно-Вершинская"
+    "tikName": "Челно-Вершинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 454,
     "uikTvd": "463404371512",
+    "uikName": "УИК №454",
     "tikTvd": "263200081178",
-    "tikName": "Челно-Вершинская"
+    "tikName": "Челно-Вершинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 455,
     "uikTvd": "463404371513",
+    "uikName": "УИК №455",
     "tikTvd": "263200081178",
-    "tikName": "Челно-Вершинская"
+    "tikName": "Челно-Вершинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 456,
     "uikTvd": "463404371514",
+    "uikName": "УИК №456",
     "tikTvd": "263200081178",
-    "tikName": "Челно-Вершинская"
+    "tikName": "Челно-Вершинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 457,
     "uikTvd": "463404371515",
+    "uikName": "УИК №457",
     "tikTvd": "263200081178",
-    "tikName": "Челно-Вершинская"
+    "tikName": "Челно-Вершинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 458,
     "uikTvd": "463404371516",
+    "uikName": "УИК №458",
     "tikTvd": "263200081178",
-    "tikName": "Челно-Вершинская"
+    "tikName": "Челно-Вершинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 459,
     "uikTvd": "463404371517",
+    "uikName": "УИК №459",
     "tikTvd": "263200081178",
-    "tikName": "Челно-Вершинская"
+    "tikName": "Челно-Вершинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 460,
     "uikTvd": "463404371518",
+    "uikName": "УИК №460",
     "tikTvd": "263200081178",
-    "tikName": "Челно-Вершинская"
+    "tikName": "Челно-Вершинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 461,
     "uikTvd": "463404371519",
+    "uikName": "УИК №461",
     "tikTvd": "263200081178",
-    "tikName": "Челно-Вершинская"
+    "tikName": "Челно-Вершинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 462,
     "uikTvd": "463404371520",
+    "uikName": "УИК №462",
     "tikTvd": "263200081178",
-    "tikName": "Челно-Вершинская"
+    "tikName": "Челно-Вершинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 463,
     "uikTvd": "463404471255",
+    "uikName": "УИК №463",
     "tikTvd": "263200081177",
-    "tikName": "Шенталинская"
+    "tikName": "Шенталинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 464,
     "uikTvd": "463404471256",
+    "uikName": "УИК №464",
     "tikTvd": "263200081177",
-    "tikName": "Шенталинская"
+    "tikName": "Шенталинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 465,
     "uikTvd": "463404471257",
+    "uikName": "УИК №465",
     "tikTvd": "263200081177",
-    "tikName": "Шенталинская"
+    "tikName": "Шенталинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 466,
     "uikTvd": "463404471258",
+    "uikName": "УИК №466",
     "tikTvd": "263200081177",
-    "tikName": "Шенталинская"
+    "tikName": "Шенталинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 467,
     "uikTvd": "463404471259",
+    "uikName": "УИК №467",
     "tikTvd": "263200081177",
-    "tikName": "Шенталинская"
+    "tikName": "Шенталинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 468,
     "uikTvd": "463404471260",
+    "uikName": "УИК №468",
     "tikTvd": "263200081177",
-    "tikName": "Шенталинская"
+    "tikName": "Шенталинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 469,
     "uikTvd": "463404471261",
+    "uikName": "УИК №469",
     "tikTvd": "263200081177",
-    "tikName": "Шенталинская"
+    "tikName": "Шенталинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 470,
     "uikTvd": "463404471262",
+    "uikName": "УИК №470",
     "tikTvd": "263200081177",
-    "tikName": "Шенталинская"
+    "tikName": "Шенталинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 471,
     "uikTvd": "463404471263",
+    "uikName": "УИК №471",
     "tikTvd": "263200081177",
-    "tikName": "Шенталинская"
+    "tikName": "Шенталинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 472,
     "uikTvd": "463404471264",
+    "uikName": "УИК №472",
     "tikTvd": "263200081177",
-    "tikName": "Шенталинская"
+    "tikName": "Шенталинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 473,
     "uikTvd": "463404471265",
+    "uikName": "УИК №473",
     "tikTvd": "263200081177",
-    "tikName": "Шенталинская"
+    "tikName": "Шенталинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 474,
     "uikTvd": "463404471266",
+    "uikName": "УИК №474",
     "tikTvd": "263200081177",
-    "tikName": "Шенталинская"
+    "tikName": "Шенталинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 475,
     "uikTvd": "463404471267",
+    "uikName": "УИК №475",
     "tikTvd": "263200081177",
-    "tikName": "Шенталинская"
+    "tikName": "Шенталинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 476,
     "uikTvd": "463404471268",
+    "uikName": "УИК №476",
     "tikTvd": "263200081177",
-    "tikName": "Шенталинская"
+    "tikName": "Шенталинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 477,
     "uikTvd": "463404471269",
+    "uikName": "УИК №477",
     "tikTvd": "263200081177",
-    "tikName": "Шенталинская"
+    "tikName": "Шенталинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 478,
     "uikTvd": "463404471270",
+    "uikName": "УИК №478",
     "tikTvd": "263200081177",
-    "tikName": "Шенталинская"
+    "tikName": "Шенталинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 479,
     "uikTvd": "463404471271",
+    "uikName": "УИК №479",
     "tikTvd": "263200081177",
-    "tikName": "Шенталинская"
+    "tikName": "Шенталинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 480,
     "uikTvd": "463404471272",
+    "uikName": "УИК №480",
     "tikTvd": "263200081177",
-    "tikName": "Шенталинская"
+    "tikName": "Шенталинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 481,
     "uikTvd": "463404471273",
+    "uikName": "УИК №481",
     "tikTvd": "263200081177",
-    "tikName": "Шенталинская"
+    "tikName": "Шенталинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 482,
     "uikTvd": "463404471274",
+    "uikName": "УИК №482",
     "tikTvd": "263200081177",
-    "tikName": "Шенталинская"
+    "tikName": "Шенталинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 483,
     "uikTvd": "463404471275",
+    "uikName": "УИК №483",
     "tikTvd": "263200081177",
-    "tikName": "Шенталинская"
+    "tikName": "Шенталинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 484,
     "uikTvd": "463404471276",
+    "uikName": "УИК №484",
     "tikTvd": "263200081177",
-    "tikName": "Шенталинская"
+    "tikName": "Шенталинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 485,
     "uikTvd": "463404471277",
+    "uikName": "УИК №485",
     "tikTvd": "263200081177",
-    "tikName": "Шенталинская"
+    "tikName": "Шенталинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 486,
     "uikTvd": "463404471278",
+    "uikName": "УИК №486",
     "tikTvd": "263200081177",
-    "tikName": "Шенталинская"
+    "tikName": "Шенталинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 487,
     "uikTvd": "463404471279",
+    "uikName": "УИК №487",
     "tikTvd": "263200081177",
-    "tikName": "Шенталинская"
+    "tikName": "Шенталинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 488,
     "uikTvd": "463404471280",
+    "uikName": "УИК №488",
     "tikTvd": "263200081177",
-    "tikName": "Шенталинская"
+    "tikName": "Шенталинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 489,
     "uikTvd": "463404471281",
+    "uikName": "УИК №489",
     "tikTvd": "263200081177",
-    "tikName": "Шенталинская"
+    "tikName": "Шенталинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 490,
     "uikTvd": "463404471282",
+    "uikName": "УИК №490",
     "tikTvd": "263200081177",
-    "tikName": "Шенталинская"
+    "tikName": "Шенталинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 491,
     "uikTvd": "463404471283",
+    "uikName": "УИК №491",
     "tikTvd": "263200081177",
-    "tikName": "Шенталинская"
+    "tikName": "Шенталинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 492,
     "uikTvd": "463402672872",
+    "uikName": "УИК №492",
     "tikTvd": "263200081157",
-    "tikName": "Самара, Кировская"
+    "tikName": "Самара, Кировская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 493,
     "uikTvd": "463402672873",
+    "uikName": "УИК №493",
     "tikTvd": "263200081157",
-    "tikName": "Самара, Кировская"
+    "tikName": "Самара, Кировская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 494,
     "uikTvd": "463402672874",
+    "uikName": "УИК №494",
     "tikTvd": "263200081157",
-    "tikName": "Самара, Кировская"
+    "tikName": "Самара, Кировская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 495,
     "uikTvd": "463402672875",
+    "uikName": "УИК №495",
     "tikTvd": "263200081157",
-    "tikName": "Самара, Кировская"
+    "tikName": "Самара, Кировская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 496,
     "uikTvd": "463402672876",
+    "uikName": "УИК №496",
     "tikTvd": "263200081157",
-    "tikName": "Самара, Кировская"
+    "tikName": "Самара, Кировская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 497,
     "uikTvd": "463402672877",
+    "uikName": "УИК №497",
     "tikTvd": "263200081157",
-    "tikName": "Самара, Кировская"
+    "tikName": "Самара, Кировская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 498,
     "uikTvd": "463402672878",
+    "uikName": "УИК №498",
     "tikTvd": "263200081157",
-    "tikName": "Самара, Кировская"
+    "tikName": "Самара, Кировская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 499,
     "uikTvd": "463402672879",
+    "uikName": "УИК №499",
     "tikTvd": "263200081157",
-    "tikName": "Самара, Кировская"
+    "tikName": "Самара, Кировская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 500,
     "uikTvd": "463402672880",
+    "uikName": "УИК №500",
     "tikTvd": "263200081157",
-    "tikName": "Самара, Кировская"
+    "tikName": "Самара, Кировская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 501,
     "uikTvd": "463402672881",
+    "uikName": "УИК №501",
     "tikTvd": "263200081157",
-    "tikName": "Самара, Кировская"
+    "tikName": "Самара, Кировская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 502,
     "uikTvd": "463402672882",
+    "uikName": "УИК №502",
     "tikTvd": "263200081157",
-    "tikName": "Самара, Кировская"
+    "tikName": "Самара, Кировская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 503,
     "uikTvd": "463402672883",
+    "uikName": "УИК №503",
     "tikTvd": "263200081157",
-    "tikName": "Самара, Кировская"
+    "tikName": "Самара, Кировская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 504,
     "uikTvd": "463402672884",
+    "uikName": "УИК №504",
     "tikTvd": "263200081157",
-    "tikName": "Самара, Кировская"
+    "tikName": "Самара, Кировская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 505,
     "uikTvd": "463402672885",
+    "uikName": "УИК №505",
     "tikTvd": "263200081157",
-    "tikName": "Самара, Кировская"
+    "tikName": "Самара, Кировская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 506,
     "uikTvd": "463402672886",
+    "uikName": "УИК №506",
     "tikTvd": "263200081157",
-    "tikName": "Самара, Кировская"
+    "tikName": "Самара, Кировская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 507,
     "uikTvd": "463402672887",
+    "uikName": "УИК №507",
     "tikTvd": "263200081157",
-    "tikName": "Самара, Кировская"
+    "tikName": "Самара, Кировская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 508,
     "uikTvd": "463402672888",
+    "uikName": "УИК №508",
     "tikTvd": "263200081157",
-    "tikName": "Самара, Кировская"
+    "tikName": "Самара, Кировская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 509,
     "uikTvd": "463402672889",
+    "uikName": "УИК №509",
     "tikTvd": "263200081157",
-    "tikName": "Самара, Кировская"
+    "tikName": "Самара, Кировская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 510,
     "uikTvd": "463402672890",
+    "uikName": "УИК №510",
     "tikTvd": "263200081157",
-    "tikName": "Самара, Кировская"
+    "tikName": "Самара, Кировская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 511,
     "uikTvd": "463402672891",
+    "uikName": "УИК №511",
     "tikTvd": "263200081157",
-    "tikName": "Самара, Кировская"
+    "tikName": "Самара, Кировская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 512,
     "uikTvd": "463402672892",
+    "uikName": "УИК №512",
     "tikTvd": "263200081157",
-    "tikName": "Самара, Кировская"
+    "tikName": "Самара, Кировская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 513,
     "uikTvd": "463402672893",
+    "uikName": "УИК №513",
     "tikTvd": "263200081157",
-    "tikName": "Самара, Кировская"
+    "tikName": "Самара, Кировская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 514,
     "uikTvd": "463402672894",
+    "uikName": "УИК №514",
     "tikTvd": "263200081157",
-    "tikName": "Самара, Кировская"
+    "tikName": "Самара, Кировская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 515,
     "uikTvd": "463402672895",
+    "uikName": "УИК №515",
     "tikTvd": "263200081157",
-    "tikName": "Самара, Кировская"
+    "tikName": "Самара, Кировская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 516,
     "uikTvd": "463402672896",
+    "uikName": "УИК №516",
     "tikTvd": "263200081157",
-    "tikName": "Самара, Кировская"
+    "tikName": "Самара, Кировская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 517,
     "uikTvd": "463402672897",
+    "uikName": "УИК №517",
     "tikTvd": "263200081157",
-    "tikName": "Самара, Кировская"
+    "tikName": "Самара, Кировская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 518,
     "uikTvd": "463402672898",
+    "uikName": "УИК №518",
     "tikTvd": "263200081157",
-    "tikName": "Самара, Кировская"
+    "tikName": "Самара, Кировская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 519,
     "uikTvd": "463402672899",
+    "uikName": "УИК №519",
     "tikTvd": "263200081157",
-    "tikName": "Самара, Кировская"
+    "tikName": "Самара, Кировская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 520,
     "uikTvd": "463402672900",
+    "uikName": "УИК №520",
     "tikTvd": "263200081157",
-    "tikName": "Самара, Кировская"
+    "tikName": "Самара, Кировская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 521,
     "uikTvd": "463402672901",
+    "uikName": "УИК №521",
     "tikTvd": "263200081157",
-    "tikName": "Самара, Кировская"
+    "tikName": "Самара, Кировская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 522,
     "uikTvd": "463402672902",
+    "uikName": "УИК №522",
     "tikTvd": "263200081157",
-    "tikName": "Самара, Кировская"
+    "tikName": "Самара, Кировская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 523,
     "uikTvd": "463402672903",
+    "uikName": "УИК №523",
     "tikTvd": "263200081157",
-    "tikName": "Самара, Кировская"
+    "tikName": "Самара, Кировская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 524,
     "uikTvd": "463402672904",
+    "uikName": "УИК №524",
     "tikTvd": "263200081157",
-    "tikName": "Самара, Кировская"
+    "tikName": "Самара, Кировская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 525,
     "uikTvd": "463402672905",
+    "uikName": "УИК №525",
     "tikTvd": "263200081157",
-    "tikName": "Самара, Кировская"
+    "tikName": "Самара, Кировская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 526,
     "uikTvd": "463402672906",
+    "uikName": "УИК №526",
     "tikTvd": "263200081157",
-    "tikName": "Самара, Кировская"
+    "tikName": "Самара, Кировская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 527,
     "uikTvd": "463402672907",
+    "uikName": "УИК №527",
     "tikTvd": "263200081157",
-    "tikName": "Самара, Кировская"
+    "tikName": "Самара, Кировская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 528,
     "uikTvd": "463402672908",
+    "uikName": "УИК №528",
     "tikTvd": "263200081157",
-    "tikName": "Самара, Кировская"
+    "tikName": "Самара, Кировская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 529,
     "uikTvd": "463402672909",
+    "uikName": "УИК №529",
     "tikTvd": "263200081157",
-    "tikName": "Самара, Кировская"
+    "tikName": "Самара, Кировская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 530,
     "uikTvd": "463402672910",
+    "uikName": "УИК №530",
     "tikTvd": "263200081157",
-    "tikName": "Самара, Кировская"
+    "tikName": "Самара, Кировская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 531,
     "uikTvd": "463402672911",
+    "uikName": "УИК №531",
     "tikTvd": "263200081157",
-    "tikName": "Самара, Кировская"
+    "tikName": "Самара, Кировская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 532,
     "uikTvd": "463402672912",
+    "uikName": "УИК №532",
     "tikTvd": "263200081157",
-    "tikName": "Самара, Кировская"
+    "tikName": "Самара, Кировская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 533,
     "uikTvd": "463402672913",
+    "uikName": "УИК №533",
     "tikTvd": "263200081157",
-    "tikName": "Самара, Кировская"
+    "tikName": "Самара, Кировская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 534,
     "uikTvd": "463402672914",
+    "uikName": "УИК №534",
     "tikTvd": "263200081157",
-    "tikName": "Самара, Кировская"
+    "tikName": "Самара, Кировская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 535,
     "uikTvd": "463402672915",
+    "uikName": "УИК №535",
     "tikTvd": "263200081157",
-    "tikName": "Самара, Кировская"
+    "tikName": "Самара, Кировская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 536,
     "uikTvd": "463402672916",
+    "uikName": "УИК №536",
     "tikTvd": "263200081157",
-    "tikName": "Самара, Кировская"
+    "tikName": "Самара, Кировская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 537,
     "uikTvd": "463402672917",
+    "uikName": "УИК №537",
     "tikTvd": "263200081157",
-    "tikName": "Самара, Кировская"
+    "tikName": "Самара, Кировская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 538,
     "uikTvd": "463402672918",
+    "uikName": "УИК №538",
     "tikTvd": "263200081157",
-    "tikName": "Самара, Кировская"
+    "tikName": "Самара, Кировская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 539,
     "uikTvd": "463402672919",
+    "uikName": "УИК №539",
     "tikTvd": "263200081157",
-    "tikName": "Самара, Кировская"
+    "tikName": "Самара, Кировская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 540,
     "uikTvd": "463402672920",
+    "uikName": "УИК №540",
     "tikTvd": "263200081157",
-    "tikName": "Самара, Кировская"
+    "tikName": "Самара, Кировская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 541,
     "uikTvd": "463402672921",
+    "uikName": "УИК №541",
     "tikTvd": "263200081157",
-    "tikName": "Самара, Кировская"
+    "tikName": "Самара, Кировская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 542,
     "uikTvd": "463402672922",
+    "uikName": "УИК №542",
     "tikTvd": "263200081157",
-    "tikName": "Самара, Кировская"
+    "tikName": "Самара, Кировская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 543,
     "uikTvd": "463402672923",
+    "uikName": "УИК №543",
     "tikTvd": "263200081157",
-    "tikName": "Самара, Кировская"
+    "tikName": "Самара, Кировская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 544,
     "uikTvd": "463402672924",
+    "uikName": "УИК №544",
     "tikTvd": "263200081157",
-    "tikName": "Самара, Кировская"
+    "tikName": "Самара, Кировская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 545,
     "uikTvd": "463402672925",
+    "uikName": "УИК №545",
     "tikTvd": "263200081157",
-    "tikName": "Самара, Кировская"
+    "tikName": "Самара, Кировская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 546,
     "uikTvd": "463402672926",
+    "uikName": "УИК №546",
     "tikTvd": "263200081157",
-    "tikName": "Самара, Кировская"
+    "tikName": "Самара, Кировская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 547,
     "uikTvd": "463402672927",
+    "uikName": "УИК №547",
     "tikTvd": "263200081157",
-    "tikName": "Самара, Кировская"
+    "tikName": "Самара, Кировская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 548,
     "uikTvd": "463402672928",
+    "uikName": "УИК №548",
     "tikTvd": "263200081157",
-    "tikName": "Самара, Кировская"
+    "tikName": "Самара, Кировская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 549,
     "uikTvd": "463402672929",
+    "uikName": "УИК №549",
     "tikTvd": "263200081157",
-    "tikName": "Самара, Кировская"
+    "tikName": "Самара, Кировская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 550,
     "uikTvd": "463402672930",
+    "uikName": "УИК №550",
     "tikTvd": "263200081157",
-    "tikName": "Самара, Кировская"
+    "tikName": "Самара, Кировская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 551,
     "uikTvd": "463402672931",
+    "uikName": "УИК №551",
     "tikTvd": "263200081157",
-    "tikName": "Самара, Кировская"
+    "tikName": "Самара, Кировская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 552,
     "uikTvd": "463402672932",
+    "uikName": "УИК №552",
     "tikTvd": "263200081157",
-    "tikName": "Самара, Кировская"
+    "tikName": "Самара, Кировская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 553,
     "uikTvd": "463402672933",
+    "uikName": "УИК №553",
     "tikTvd": "263200081157",
-    "tikName": "Самара, Кировская"
+    "tikName": "Самара, Кировская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 554,
     "uikTvd": "463402672934",
+    "uikName": "УИК №554",
     "tikTvd": "263200081157",
-    "tikName": "Самара, Кировская"
+    "tikName": "Самара, Кировская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 555,
     "uikTvd": "463402672935",
+    "uikName": "УИК №555",
     "tikTvd": "263200081157",
-    "tikName": "Самара, Кировская"
+    "tikName": "Самара, Кировская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 556,
     "uikTvd": "463402672936",
+    "uikName": "УИК №556",
     "tikTvd": "263200081157",
-    "tikName": "Самара, Кировская"
+    "tikName": "Самара, Кировская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 557,
     "uikTvd": "463402672937",
+    "uikName": "УИК №557",
     "tikTvd": "263200081157",
-    "tikName": "Самара, Кировская"
+    "tikName": "Самара, Кировская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 558,
     "uikTvd": "463402672938",
+    "uikName": "УИК №558",
     "tikTvd": "263200081157",
-    "tikName": "Самара, Кировская"
+    "tikName": "Самара, Кировская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 559,
     "uikTvd": "463402672939",
+    "uikName": "УИК №559",
     "tikTvd": "263200081157",
-    "tikName": "Самара, Кировская"
+    "tikName": "Самара, Кировская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 560,
     "uikTvd": "463402672940",
+    "uikName": "УИК №560",
     "tikTvd": "263200081157",
-    "tikName": "Самара, Кировская"
+    "tikName": "Самара, Кировская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 561,
     "uikTvd": "463402672941",
+    "uikName": "УИК №561",
     "tikTvd": "263200081157",
-    "tikName": "Самара, Кировская"
+    "tikName": "Самара, Кировская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 562,
     "uikTvd": "463402672942",
+    "uikName": "УИК №562",
     "tikTvd": "263200081157",
-    "tikName": "Самара, Кировская"
+    "tikName": "Самара, Кировская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 563,
     "uikTvd": "463402672943",
+    "uikName": "УИК №563",
     "tikTvd": "263200081157",
-    "tikName": "Самара, Кировская"
+    "tikName": "Самара, Кировская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 564,
     "uikTvd": "463402672944",
+    "uikName": "УИК №564",
     "tikTvd": "263200081157",
-    "tikName": "Самара, Кировская"
+    "tikName": "Самара, Кировская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 565,
     "uikTvd": "463402672945",
+    "uikName": "УИК №565",
     "tikTvd": "263200081157",
-    "tikName": "Самара, Кировская"
+    "tikName": "Самара, Кировская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 566,
     "uikTvd": "463402672946",
+    "uikName": "УИК №566",
     "tikTvd": "263200081157",
-    "tikName": "Самара, Кировская"
+    "tikName": "Самара, Кировская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 567,
     "uikTvd": "463402672947",
+    "uikName": "УИК №567",
     "tikTvd": "263200081157",
-    "tikName": "Самара, Кировская"
+    "tikName": "Самара, Кировская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 568,
     "uikTvd": "463402672948",
+    "uikName": "УИК №568",
     "tikTvd": "263200081157",
-    "tikName": "Самара, Кировская"
+    "tikName": "Самара, Кировская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 569,
     "uikTvd": "463402672949",
+    "uikName": "УИК №569",
     "tikTvd": "263200081157",
-    "tikName": "Самара, Кировская"
+    "tikName": "Самара, Кировская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 570,
     "uikTvd": "463402672950",
+    "uikName": "УИК №570",
     "tikTvd": "263200081157",
-    "tikName": "Самара, Кировская"
+    "tikName": "Самара, Кировская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 571,
     "uikTvd": "463402672951",
+    "uikName": "УИК №571",
     "tikTvd": "263200081157",
-    "tikName": "Самара, Кировская"
+    "tikName": "Самара, Кировская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 572,
     "uikTvd": "463402672952",
+    "uikName": "УИК №572",
     "tikTvd": "263200081157",
-    "tikName": "Самара, Кировская"
+    "tikName": "Самара, Кировская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 573,
     "uikTvd": "463402672953",
+    "uikName": "УИК №573",
     "tikTvd": "263200081157",
-    "tikName": "Самара, Кировская"
+    "tikName": "Самара, Кировская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 574,
     "uikTvd": "463402672954",
+    "uikName": "УИК №574",
     "tikTvd": "263200081157",
-    "tikName": "Самара, Кировская"
+    "tikName": "Самара, Кировская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 575,
     "uikTvd": "463402672955",
+    "uikName": "УИК №575",
     "tikTvd": "263200081157",
-    "tikName": "Самара, Кировская"
+    "tikName": "Самара, Кировская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 576,
     "uikTvd": "463402672956",
+    "uikName": "УИК №576",
     "tikTvd": "263200081157",
-    "tikName": "Самара, Кировская"
+    "tikName": "Самара, Кировская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 577,
     "uikTvd": "463402672957",
+    "uikName": "УИК №577",
     "tikTvd": "263200081157",
-    "tikName": "Самара, Кировская"
+    "tikName": "Самара, Кировская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 578,
     "uikTvd": "463402672958",
+    "uikName": "УИК №578",
     "tikTvd": "263200081157",
-    "tikName": "Самара, Кировская"
+    "tikName": "Самара, Кировская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 579,
     "uikTvd": "463402672959",
+    "uikName": "УИК №579",
     "tikTvd": "263200081157",
-    "tikName": "Самара, Кировская"
+    "tikName": "Самара, Кировская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 580,
     "uikTvd": "463402672960",
+    "uikName": "УИК №580",
     "tikTvd": "263200081157",
-    "tikName": "Самара, Кировская"
+    "tikName": "Самара, Кировская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 581,
     "uikTvd": "463402672961",
+    "uikName": "УИК №581",
     "tikTvd": "263200081157",
-    "tikName": "Самара, Кировская"
+    "tikName": "Самара, Кировская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 582,
     "uikTvd": "463402771780",
+    "uikName": "УИК №582",
     "tikTvd": "263200081152",
-    "tikName": "Самара, Красноглинская"
+    "tikName": "Самара, Красноглинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 583,
     "uikTvd": "463402771781",
+    "uikName": "УИК №583",
     "tikTvd": "263200081152",
-    "tikName": "Самара, Красноглинская"
+    "tikName": "Самара, Красноглинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 584,
     "uikTvd": "463402771782",
+    "uikName": "УИК №584",
     "tikTvd": "263200081152",
-    "tikName": "Самара, Красноглинская"
+    "tikName": "Самара, Красноглинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 585,
     "uikTvd": "463402771783",
+    "uikName": "УИК №585",
     "tikTvd": "263200081152",
-    "tikName": "Самара, Красноглинская"
+    "tikName": "Самара, Красноглинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 586,
     "uikTvd": "463402771784",
+    "uikName": "УИК №586",
     "tikTvd": "263200081152",
-    "tikName": "Самара, Красноглинская"
+    "tikName": "Самара, Красноглинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 587,
     "uikTvd": "463402771785",
+    "uikName": "УИК №587",
     "tikTvd": "263200081152",
-    "tikName": "Самара, Красноглинская"
+    "tikName": "Самара, Красноглинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 588,
     "uikTvd": "463402771786",
+    "uikName": "УИК №588",
     "tikTvd": "263200081152",
-    "tikName": "Самара, Красноглинская"
+    "tikName": "Самара, Красноглинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 589,
     "uikTvd": "463402771787",
+    "uikName": "УИК №589",
     "tikTvd": "263200081152",
-    "tikName": "Самара, Красноглинская"
+    "tikName": "Самара, Красноглинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 590,
     "uikTvd": "463402771788",
+    "uikName": "УИК №590",
     "tikTvd": "263200081152",
-    "tikName": "Самара, Красноглинская"
+    "tikName": "Самара, Красноглинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 591,
     "uikTvd": "463402771789",
+    "uikName": "УИК №591",
     "tikTvd": "263200081152",
-    "tikName": "Самара, Красноглинская"
+    "tikName": "Самара, Красноглинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 592,
     "uikTvd": "463402771790",
+    "uikName": "УИК №592",
     "tikTvd": "263200081152",
-    "tikName": "Самара, Красноглинская"
+    "tikName": "Самара, Красноглинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 593,
     "uikTvd": "463402771791",
+    "uikName": "УИК №593",
     "tikTvd": "263200081152",
-    "tikName": "Самара, Красноглинская"
+    "tikName": "Самара, Красноглинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 594,
     "uikTvd": "463402771792",
+    "uikName": "УИК №594",
     "tikTvd": "263200081152",
-    "tikName": "Самара, Красноглинская"
+    "tikName": "Самара, Красноглинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 595,
     "uikTvd": "463402771793",
+    "uikName": "УИК №595",
     "tikTvd": "263200081152",
-    "tikName": "Самара, Красноглинская"
+    "tikName": "Самара, Красноглинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 596,
     "uikTvd": "463402771794",
+    "uikName": "УИК №596",
     "tikTvd": "263200081152",
-    "tikName": "Самара, Красноглинская"
+    "tikName": "Самара, Красноглинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 597,
     "uikTvd": "463402771795",
+    "uikName": "УИК №597",
     "tikTvd": "263200081152",
-    "tikName": "Самара, Красноглинская"
+    "tikName": "Самара, Красноглинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 598,
     "uikTvd": "463402771796",
+    "uikName": "УИК №598",
     "tikTvd": "263200081152",
-    "tikName": "Самара, Красноглинская"
+    "tikName": "Самара, Красноглинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 599,
     "uikTvd": "463402771797",
+    "uikName": "УИК №599",
     "tikTvd": "263200081152",
-    "tikName": "Самара, Красноглинская"
+    "tikName": "Самара, Красноглинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 600,
     "uikTvd": "463402771798",
+    "uikName": "УИК №600",
     "tikTvd": "263200081152",
-    "tikName": "Самара, Красноглинская"
+    "tikName": "Самара, Красноглинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 601,
     "uikTvd": "463402771799",
+    "uikName": "УИК №601",
     "tikTvd": "263200081152",
-    "tikName": "Самара, Красноглинская"
+    "tikName": "Самара, Красноглинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 602,
     "uikTvd": "463402771800",
+    "uikName": "УИК №602",
     "tikTvd": "263200081152",
-    "tikName": "Самара, Красноглинская"
+    "tikName": "Самара, Красноглинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 603,
     "uikTvd": "463402771801",
+    "uikName": "УИК №603",
     "tikTvd": "263200081152",
-    "tikName": "Самара, Красноглинская"
+    "tikName": "Самара, Красноглинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 604,
     "uikTvd": "463402771802",
+    "uikName": "УИК №604",
     "tikTvd": "263200081152",
-    "tikName": "Самара, Красноглинская"
+    "tikName": "Самара, Красноглинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 605,
     "uikTvd": "463402771803",
+    "uikName": "УИК №605",
     "tikTvd": "263200081152",
-    "tikName": "Самара, Красноглинская"
+    "tikName": "Самара, Красноглинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 606,
     "uikTvd": "463402771804",
+    "uikName": "УИК №606",
     "tikTvd": "263200081152",
-    "tikName": "Самара, Красноглинская"
+    "tikName": "Самара, Красноглинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 607,
     "uikTvd": "463402771805",
+    "uikName": "УИК №607",
     "tikTvd": "263200081152",
-    "tikName": "Самара, Красноглинская"
+    "tikName": "Самара, Красноглинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 608,
     "uikTvd": "463402771806",
+    "uikName": "УИК №608",
     "tikTvd": "263200081152",
-    "tikName": "Самара, Красноглинская"
+    "tikName": "Самара, Красноглинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 609,
     "uikTvd": "463402771807",
+    "uikName": "УИК №609",
     "tikTvd": "263200081152",
-    "tikName": "Самара, Красноглинская"
+    "tikName": "Самара, Красноглинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 610,
     "uikTvd": "463402771808",
+    "uikName": "УИК №610",
     "tikTvd": "263200081152",
-    "tikName": "Самара, Красноглинская"
+    "tikName": "Самара, Красноглинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 611,
     "uikTvd": "463402771809",
+    "uikName": "УИК №611",
     "tikTvd": "263200081152",
-    "tikName": "Самара, Красноглинская"
+    "tikName": "Самара, Красноглинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 612,
     "uikTvd": "463402771810",
+    "uikName": "УИК №612",
     "tikTvd": "263200081152",
-    "tikName": "Самара, Красноглинская"
+    "tikName": "Самара, Красноглинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 613,
     "uikTvd": "463402771811",
+    "uikName": "УИК №613",
     "tikTvd": "263200081152",
-    "tikName": "Самара, Красноглинская"
+    "tikName": "Самара, Красноглинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 614,
     "uikTvd": "463402771812",
+    "uikName": "УИК №614",
     "tikTvd": "263200081152",
-    "tikName": "Самара, Красноглинская"
+    "tikName": "Самара, Красноглинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 615,
     "uikTvd": "463402771813",
+    "uikName": "УИК №615",
     "tikTvd": "263200081152",
-    "tikName": "Самара, Красноглинская"
+    "tikName": "Самара, Красноглинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 616,
     "uikTvd": "463402771814",
+    "uikName": "УИК №616",
     "tikTvd": "263200081152",
-    "tikName": "Самара, Красноглинская"
+    "tikName": "Самара, Красноглинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 617,
     "uikTvd": "463403174994",
+    "uikName": "УИК №617",
     "tikTvd": "263200081174",
-    "tikName": "Самара, Промышленная"
+    "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 618,
     "uikTvd": "463403174995",
+    "uikName": "УИК №618",
     "tikTvd": "263200081174",
-    "tikName": "Самара, Промышленная"
+    "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 619,
     "uikTvd": "463403174996",
+    "uikName": "УИК №619",
     "tikTvd": "263200081174",
-    "tikName": "Самара, Промышленная"
+    "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 620,
     "uikTvd": "463403174997",
+    "uikName": "УИК №620",
     "tikTvd": "263200081174",
-    "tikName": "Самара, Промышленная"
+    "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 621,
     "uikTvd": "463403174998",
+    "uikName": "УИК №621",
     "tikTvd": "263200081174",
-    "tikName": "Самара, Промышленная"
+    "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 622,
     "uikTvd": "463403174999",
+    "uikName": "УИК №622",
     "tikTvd": "263200081174",
-    "tikName": "Самара, Промышленная"
+    "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 623,
     "uikTvd": "463403175000",
+    "uikName": "УИК №623",
     "tikTvd": "263200081174",
-    "tikName": "Самара, Промышленная"
+    "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 624,
     "uikTvd": "463403175001",
+    "uikName": "УИК №624",
     "tikTvd": "263200081174",
-    "tikName": "Самара, Промышленная"
+    "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 625,
     "uikTvd": "463403175002",
+    "uikName": "УИК №625",
     "tikTvd": "263200081174",
-    "tikName": "Самара, Промышленная"
+    "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 626,
     "uikTvd": "463403175003",
+    "uikName": "УИК №626",
     "tikTvd": "263200081174",
-    "tikName": "Самара, Промышленная"
+    "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 627,
     "uikTvd": "463403175004",
+    "uikName": "УИК №627",
     "tikTvd": "263200081174",
-    "tikName": "Самара, Промышленная"
+    "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 628,
     "uikTvd": "463403175005",
+    "uikName": "УИК №628",
     "tikTvd": "263200081174",
-    "tikName": "Самара, Промышленная"
+    "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 629,
     "uikTvd": "463403175006",
+    "uikName": "УИК №629",
     "tikTvd": "263200081174",
-    "tikName": "Самара, Промышленная"
+    "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 630,
     "uikTvd": "463403175007",
+    "uikName": "УИК №630",
     "tikTvd": "263200081174",
-    "tikName": "Самара, Промышленная"
+    "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 631,
     "uikTvd": "463403175008",
+    "uikName": "УИК №631",
     "tikTvd": "263200081174",
-    "tikName": "Самара, Промышленная"
+    "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 632,
     "uikTvd": "463403175009",
+    "uikName": "УИК №632",
     "tikTvd": "263200081174",
-    "tikName": "Самара, Промышленная"
+    "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 633,
     "uikTvd": "463403175010",
+    "uikName": "УИК №633",
     "tikTvd": "263200081174",
-    "tikName": "Самара, Промышленная"
+    "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 634,
     "uikTvd": "463403175011",
+    "uikName": "УИК №634",
     "tikTvd": "263200081174",
-    "tikName": "Самара, Промышленная"
+    "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 635,
     "uikTvd": "463403175012",
+    "uikName": "УИК №635",
     "tikTvd": "263200081174",
-    "tikName": "Самара, Промышленная"
+    "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 636,
     "uikTvd": "463403175013",
+    "uikName": "УИК №636",
     "tikTvd": "263200081174",
-    "tikName": "Самара, Промышленная"
+    "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 637,
     "uikTvd": "463403175014",
+    "uikName": "УИК №637",
     "tikTvd": "263200081174",
-    "tikName": "Самара, Промышленная"
+    "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 638,
     "uikTvd": "463403175015",
+    "uikName": "УИК №638",
     "tikTvd": "263200081174",
-    "tikName": "Самара, Промышленная"
+    "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 639,
     "uikTvd": "463403175016",
+    "uikName": "УИК №639",
     "tikTvd": "263200081174",
-    "tikName": "Самара, Промышленная"
+    "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 640,
     "uikTvd": "463403175017",
+    "uikName": "УИК №640",
     "tikTvd": "263200081174",
-    "tikName": "Самара, Промышленная"
+    "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 641,
     "uikTvd": "463403175018",
+    "uikName": "УИК №641",
     "tikTvd": "263200081174",
-    "tikName": "Самара, Промышленная"
+    "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 642,
     "uikTvd": "463403175019",
+    "uikName": "УИК №642",
     "tikTvd": "263200081174",
-    "tikName": "Самара, Промышленная"
+    "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 643,
     "uikTvd": "463403175020",
+    "uikName": "УИК №643",
     "tikTvd": "263200081174",
-    "tikName": "Самара, Промышленная"
+    "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 644,
     "uikTvd": "463403175021",
+    "uikName": "УИК №644",
     "tikTvd": "263200081174",
-    "tikName": "Самара, Промышленная"
+    "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 645,
     "uikTvd": "463403175022",
+    "uikName": "УИК №645",
     "tikTvd": "263200081174",
-    "tikName": "Самара, Промышленная"
+    "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 646,
     "uikTvd": "463403175023",
+    "uikName": "УИК №646",
     "tikTvd": "263200081174",
-    "tikName": "Самара, Промышленная"
+    "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 647,
     "uikTvd": "463403175024",
+    "uikName": "УИК №647",
     "tikTvd": "263200081174",
-    "tikName": "Самара, Промышленная"
+    "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 648,
     "uikTvd": "463403175025",
+    "uikName": "УИК №648",
     "tikTvd": "263200081174",
-    "tikName": "Самара, Промышленная"
+    "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 649,
     "uikTvd": "463403175026",
+    "uikName": "УИК №649",
     "tikTvd": "263200081174",
-    "tikName": "Самара, Промышленная"
+    "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 650,
     "uikTvd": "463403175027",
+    "uikName": "УИК №650",
     "tikTvd": "263200081174",
-    "tikName": "Самара, Промышленная"
+    "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 651,
     "uikTvd": "463403175028",
+    "uikName": "УИК №651",
     "tikTvd": "263200081174",
-    "tikName": "Самара, Промышленная"
+    "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 652,
     "uikTvd": "463403175029",
+    "uikName": "УИК №652",
     "tikTvd": "263200081174",
-    "tikName": "Самара, Промышленная"
+    "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 653,
     "uikTvd": "463403175030",
+    "uikName": "УИК №653",
     "tikTvd": "263200081174",
-    "tikName": "Самара, Промышленная"
+    "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 654,
     "uikTvd": "463403175031",
+    "uikName": "УИК №654",
     "tikTvd": "263200081174",
-    "tikName": "Самара, Промышленная"
+    "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 655,
     "uikTvd": "463403175032",
+    "uikName": "УИК №655",
     "tikTvd": "263200081174",
-    "tikName": "Самара, Промышленная"
+    "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 656,
     "uikTvd": "463403175033",
+    "uikName": "УИК №656",
     "tikTvd": "263200081174",
-    "tikName": "Самара, Промышленная"
+    "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 657,
     "uikTvd": "463403175034",
+    "uikName": "УИК №657",
     "tikTvd": "263200081174",
-    "tikName": "Самара, Промышленная"
+    "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 658,
     "uikTvd": "463403175035",
+    "uikName": "УИК №658",
     "tikTvd": "263200081174",
-    "tikName": "Самара, Промышленная"
+    "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 659,
     "uikTvd": "463403175036",
+    "uikName": "УИК №659",
     "tikTvd": "263200081174",
-    "tikName": "Самара, Промышленная"
+    "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 660,
     "uikTvd": "463403175037",
+    "uikName": "УИК №660",
     "tikTvd": "263200081174",
-    "tikName": "Самара, Промышленная"
+    "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 661,
     "uikTvd": "463403175038",
+    "uikName": "УИК №661",
     "tikTvd": "263200081174",
-    "tikName": "Самара, Промышленная"
+    "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 662,
     "uikTvd": "463403175039",
+    "uikName": "УИК №662",
     "tikTvd": "263200081174",
-    "tikName": "Самара, Промышленная"
+    "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 663,
     "uikTvd": "463403175040",
+    "uikName": "УИК №663",
     "tikTvd": "263200081174",
-    "tikName": "Самара, Промышленная"
+    "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 664,
     "uikTvd": "463403175041",
+    "uikName": "УИК №664",
     "tikTvd": "263200081174",
-    "tikName": "Самара, Промышленная"
+    "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 665,
     "uikTvd": "463403175042",
+    "uikName": "УИК №665",
     "tikTvd": "263200081174",
-    "tikName": "Самара, Промышленная"
+    "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 666,
     "uikTvd": "463403175043",
+    "uikName": "УИК №666",
     "tikTvd": "263200081174",
-    "tikName": "Самара, Промышленная"
+    "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 667,
     "uikTvd": "463403175044",
+    "uikName": "УИК №667",
     "tikTvd": "263200081174",
-    "tikName": "Самара, Промышленная"
+    "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 668,
     "uikTvd": "463403175045",
+    "uikName": "УИК №668",
     "tikTvd": "263200081174",
-    "tikName": "Самара, Промышленная"
+    "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 669,
     "uikTvd": "463403175046",
+    "uikName": "УИК №669",
     "tikTvd": "263200081174",
-    "tikName": "Самара, Промышленная"
+    "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 670,
     "uikTvd": "463403175047",
+    "uikName": "УИК №670",
     "tikTvd": "263200081174",
-    "tikName": "Самара, Промышленная"
+    "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 671,
     "uikTvd": "463403175048",
+    "uikName": "УИК №671",
     "tikTvd": "263200081174",
-    "tikName": "Самара, Промышленная"
+    "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 672,
     "uikTvd": "463403175049",
+    "uikName": "УИК №672",
     "tikTvd": "263200081174",
-    "tikName": "Самара, Промышленная"
+    "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 673,
     "uikTvd": "463403175050",
+    "uikName": "УИК №673",
     "tikTvd": "263200081174",
-    "tikName": "Самара, Промышленная"
+    "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 674,
     "uikTvd": "463403175051",
+    "uikName": "УИК №674",
     "tikTvd": "263200081174",
-    "tikName": "Самара, Промышленная"
+    "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 675,
     "uikTvd": "463403175052",
+    "uikName": "УИК №675",
     "tikTvd": "263200081174",
-    "tikName": "Самара, Промышленная"
+    "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 676,
     "uikTvd": "463403175053",
+    "uikName": "УИК №676",
     "tikTvd": "263200081174",
-    "tikName": "Самара, Промышленная"
+    "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 677,
     "uikTvd": "463403175054",
+    "uikName": "УИК №677",
     "tikTvd": "263200081174",
-    "tikName": "Самара, Промышленная"
+    "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 678,
     "uikTvd": "463403175055",
+    "uikName": "УИК №678",
     "tikTvd": "263200081174",
-    "tikName": "Самара, Промышленная"
+    "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 679,
     "uikTvd": "463403175056",
+    "uikName": "УИК №679",
     "tikTvd": "263200081174",
-    "tikName": "Самара, Промышленная"
+    "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 680,
     "uikTvd": "463403175057",
+    "uikName": "УИК №680",
     "tikTvd": "263200081174",
-    "tikName": "Самара, Промышленная"
+    "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 681,
     "uikTvd": "463403175058",
+    "uikName": "УИК №681",
     "tikTvd": "263200081174",
-    "tikName": "Самара, Промышленная"
+    "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 682,
     "uikTvd": "463403175059",
+    "uikName": "УИК №682",
     "tikTvd": "263200081174",
-    "tikName": "Самара, Промышленная"
+    "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 683,
     "uikTvd": "463403175060",
+    "uikName": "УИК №683",
     "tikTvd": "263200081174",
-    "tikName": "Самара, Промышленная"
+    "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 684,
     "uikTvd": "463403175061",
+    "uikName": "УИК №684",
     "tikTvd": "263200081174",
-    "tikName": "Самара, Промышленная"
+    "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 685,
     "uikTvd": "463403175062",
+    "uikName": "УИК №685",
     "tikTvd": "263200081174",
-    "tikName": "Самара, Промышленная"
+    "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 686,
     "uikTvd": "463403175063",
+    "uikName": "УИК №686",
     "tikTvd": "263200081174",
-    "tikName": "Самара, Промышленная"
+    "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 687,
     "uikTvd": "463403175064",
+    "uikName": "УИК №687",
     "tikTvd": "263200081174",
-    "tikName": "Самара, Промышленная"
+    "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 688,
     "uikTvd": "463403175065",
+    "uikName": "УИК №688",
     "tikTvd": "263200081174",
-    "tikName": "Самара, Промышленная"
+    "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 689,
     "uikTvd": "463403175066",
+    "uikName": "УИК №689",
     "tikTvd": "263200081174",
-    "tikName": "Самара, Промышленная"
+    "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 690,
     "uikTvd": "463403175067",
+    "uikName": "УИК №690",
     "tikTvd": "263200081174",
-    "tikName": "Самара, Промышленная"
+    "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 691,
     "uikTvd": "463403175068",
+    "uikName": "УИК №691",
     "tikTvd": "263200081174",
-    "tikName": "Самара, Промышленная"
+    "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 692,
     "uikTvd": "463403175069",
+    "uikName": "УИК №692",
     "tikTvd": "263200081174",
-    "tikName": "Самара, Промышленная"
+    "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 693,
     "uikTvd": "463403175070",
+    "uikName": "УИК №693",
     "tikTvd": "263200081174",
-    "tikName": "Самара, Промышленная"
+    "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 694,
     "uikTvd": "463403175071",
+    "uikName": "УИК №694",
     "tikTvd": "263200081174",
-    "tikName": "Самара, Промышленная"
+    "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 695,
     "uikTvd": "463403175072",
+    "uikName": "УИК №695",
     "tikTvd": "263200081174",
-    "tikName": "Самара, Промышленная"
+    "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 696,
     "uikTvd": "463403175073",
+    "uikName": "УИК №696",
     "tikTvd": "263200081174",
-    "tikName": "Самара, Промышленная"
+    "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 697,
     "uikTvd": "463403175074",
+    "uikName": "УИК №697",
     "tikTvd": "263200081174",
-    "tikName": "Самара, Промышленная"
+    "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 698,
     "uikTvd": "463403175075",
+    "uikName": "УИК №698",
     "tikTvd": "263200081174",
-    "tikName": "Самара, Промышленная"
+    "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 699,
     "uikTvd": "463403175076",
+    "uikName": "УИК №699",
     "tikTvd": "263200081174",
-    "tikName": "Самара, Промышленная"
+    "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 700,
     "uikTvd": "463403175077",
+    "uikName": "УИК №700",
     "tikTvd": "263200081174",
-    "tikName": "Самара, Промышленная"
+    "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 701,
     "uikTvd": "463403175078",
+    "uikName": "УИК №701",
     "tikTvd": "263200081174",
-    "tikName": "Самара, Промышленная"
+    "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 702,
     "uikTvd": "463403175079",
+    "uikName": "УИК №702",
     "tikTvd": "263200081174",
-    "tikName": "Самара, Промышленная"
+    "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 703,
     "uikTvd": "463403175080",
+    "uikName": "УИК №703",
     "tikTvd": "263200081174",
-    "tikName": "Самара, Промышленная"
+    "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 704,
     "uikTvd": "463403175081",
+    "uikName": "УИК №704",
     "tikTvd": "263200081174",
-    "tikName": "Самара, Промышленная"
+    "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 705,
     "uikTvd": "463403175082",
+    "uikName": "УИК №705",
     "tikTvd": "263200081174",
-    "tikName": "Самара, Промышленная"
+    "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 706,
     "uikTvd": "463403175083",
+    "uikName": "УИК №706",
     "tikTvd": "263200081174",
-    "tikName": "Самара, Промышленная"
+    "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 707,
     "uikTvd": "463403175084",
+    "uikName": "УИК №707",
     "tikTvd": "263200081174",
-    "tikName": "Самара, Промышленная"
+    "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 708,
     "uikTvd": "463403175085",
+    "uikName": "УИК №708",
     "tikTvd": "263200081174",
-    "tikName": "Самара, Промышленная"
+    "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 709,
     "uikTvd": "463403175086",
+    "uikName": "УИК №709",
     "tikTvd": "263200081174",
-    "tikName": "Самара, Промышленная"
+    "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 710,
     "uikTvd": "463403175087",
+    "uikName": "УИК №710",
     "tikTvd": "263200081174",
-    "tikName": "Самара, Промышленная"
+    "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 711,
     "uikTvd": "463403175088",
+    "uikName": "УИК №711",
     "tikTvd": "263200081174",
-    "tikName": "Самара, Промышленная"
+    "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 712,
     "uikTvd": "463403175089",
+    "uikName": "УИК №712",
     "tikTvd": "263200081174",
-    "tikName": "Самара, Промышленная"
+    "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 713,
     "uikTvd": "463403175090",
+    "uikName": "УИК №713",
     "tikTvd": "263200081174",
-    "tikName": "Самара, Промышленная"
+    "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 714,
     "uikTvd": "463403175091",
+    "uikName": "УИК №714",
     "tikTvd": "263200081174",
-    "tikName": "Самара, Промышленная"
+    "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 715,
     "uikTvd": "463403175092",
+    "uikName": "УИК №715",
     "tikTvd": "263200081174",
-    "tikName": "Самара, Промышленная"
+    "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 716,
     "uikTvd": "463403175093",
+    "uikName": "УИК №716",
     "tikTvd": "263200081174",
-    "tikName": "Самара, Промышленная"
+    "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 717,
     "uikTvd": "463400870960",
+    "uikName": "УИК №717",
     "tikTvd": "263200081151",
-    "tikName": "Елховская"
+    "tikName": "Елховская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 718,
     "uikTvd": "463400870961",
+    "uikName": "УИК №718",
     "tikTvd": "263200081151",
-    "tikName": "Елховская"
+    "tikName": "Елховская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 719,
     "uikTvd": "463400870962",
+    "uikName": "УИК №719",
     "tikTvd": "263200081151",
-    "tikName": "Елховская"
+    "tikName": "Елховская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 720,
     "uikTvd": "463400870963",
+    "uikName": "УИК №720",
     "tikTvd": "263200081151",
-    "tikName": "Елховская"
+    "tikName": "Елховская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 721,
     "uikTvd": "463400870964",
+    "uikName": "УИК №721",
     "tikTvd": "263200081151",
-    "tikName": "Елховская"
+    "tikName": "Елховская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 722,
     "uikTvd": "463400870965",
+    "uikName": "УИК №722",
     "tikTvd": "263200081151",
-    "tikName": "Елховская"
+    "tikName": "Елховская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 723,
     "uikTvd": "463400870966",
+    "uikName": "УИК №723",
     "tikTvd": "263200081151",
-    "tikName": "Елховская"
+    "tikName": "Елховская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 724,
     "uikTvd": "463400870967",
+    "uikName": "УИК №724",
     "tikTvd": "263200081151",
-    "tikName": "Елховская"
+    "tikName": "Елховская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 725,
     "uikTvd": "463400870968",
+    "uikName": "УИК №725",
     "tikTvd": "263200081151",
-    "tikName": "Елховская"
+    "tikName": "Елховская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 726,
     "uikTvd": "463400870969",
+    "uikName": "УИК №726",
     "tikTvd": "263200081151",
-    "tikName": "Елховская"
+    "tikName": "Елховская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 727,
     "uikTvd": "463400870970",
+    "uikName": "УИК №727",
     "tikTvd": "263200081151",
-    "tikName": "Елховская"
+    "tikName": "Елховская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 728,
     "uikTvd": "463400870971",
+    "uikName": "УИК №728",
     "tikTvd": "263200081151",
-    "tikName": "Елховская"
+    "tikName": "Елховская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 729,
     "uikTvd": "463400870972",
+    "uikName": "УИК №729",
     "tikTvd": "263200081151",
-    "tikName": "Елховская"
+    "tikName": "Елховская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 730,
     "uikTvd": "463400870973",
+    "uikName": "УИК №730",
     "tikTvd": "263200081151",
-    "tikName": "Елховская"
+    "tikName": "Елховская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 731,
     "uikTvd": "463400870974",
+    "uikName": "УИК №731",
     "tikTvd": "263200081151",
-    "tikName": "Елховская"
+    "tikName": "Елховская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 732,
     "uikTvd": "463400870975",
+    "uikName": "УИК №732",
     "tikTvd": "263200081151",
-    "tikName": "Елховская"
+    "tikName": "Елховская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 733,
     "uikTvd": "463400870976",
+    "uikName": "УИК №733",
     "tikTvd": "263200081151",
-    "tikName": "Елховская"
+    "tikName": "Елховская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 734,
     "uikTvd": "463401772316",
+    "uikName": "УИК №734",
     "tikTvd": "263200081141",
-    "tikName": "Красноярская"
+    "tikName": "Красноярская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 735,
     "uikTvd": "463401772317",
+    "uikName": "УИК №735",
     "tikTvd": "263200081141",
-    "tikName": "Красноярская"
+    "tikName": "Красноярская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 736,
     "uikTvd": "463401772318",
+    "uikName": "УИК №736",
     "tikTvd": "263200081141",
-    "tikName": "Красноярская"
+    "tikName": "Красноярская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 737,
     "uikTvd": "463401772319",
+    "uikName": "УИК №737",
     "tikTvd": "263200081141",
-    "tikName": "Красноярская"
+    "tikName": "Красноярская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 738,
     "uikTvd": "463401772320",
+    "uikName": "УИК №738",
     "tikTvd": "263200081141",
-    "tikName": "Красноярская"
+    "tikName": "Красноярская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 739,
     "uikTvd": "463401772321",
+    "uikName": "УИК №739",
     "tikTvd": "263200081141",
-    "tikName": "Красноярская"
+    "tikName": "Красноярская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 740,
     "uikTvd": "463401772322",
+    "uikName": "УИК №740",
     "tikTvd": "263200081141",
-    "tikName": "Красноярская"
+    "tikName": "Красноярская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 741,
     "uikTvd": "463401772323",
+    "uikName": "УИК №741",
     "tikTvd": "263200081141",
-    "tikName": "Красноярская"
+    "tikName": "Красноярская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 742,
     "uikTvd": "463401772324",
+    "uikName": "УИК №742",
     "tikTvd": "263200081141",
-    "tikName": "Красноярская"
+    "tikName": "Красноярская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 743,
     "uikTvd": "463401772325",
+    "uikName": "УИК №743",
     "tikTvd": "263200081141",
-    "tikName": "Красноярская"
+    "tikName": "Красноярская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 744,
     "uikTvd": "463401772326",
+    "uikName": "УИК №744",
     "tikTvd": "263200081141",
-    "tikName": "Красноярская"
+    "tikName": "Красноярская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 745,
     "uikTvd": "463401772327",
+    "uikName": "УИК №745",
     "tikTvd": "263200081141",
-    "tikName": "Красноярская"
+    "tikName": "Красноярская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 746,
     "uikTvd": "463401772328",
+    "uikName": "УИК №746",
     "tikTvd": "263200081141",
-    "tikName": "Красноярская"
+    "tikName": "Красноярская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 747,
     "uikTvd": "463401772329",
+    "uikName": "УИК №747",
     "tikTvd": "263200081141",
-    "tikName": "Красноярская"
+    "tikName": "Красноярская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 748,
     "uikTvd": "463401772330",
+    "uikName": "УИК №748",
     "tikTvd": "263200081141",
-    "tikName": "Красноярская"
+    "tikName": "Красноярская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 749,
     "uikTvd": "463401772331",
+    "uikName": "УИК №749",
     "tikTvd": "263200081141",
-    "tikName": "Красноярская"
+    "tikName": "Красноярская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 750,
     "uikTvd": "463401772332",
+    "uikName": "УИК №750",
     "tikTvd": "263200081141",
-    "tikName": "Красноярская"
+    "tikName": "Красноярская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 751,
     "uikTvd": "463401772333",
+    "uikName": "УИК №751",
     "tikTvd": "263200081141",
-    "tikName": "Красноярская"
+    "tikName": "Красноярская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 752,
     "uikTvd": "463401772334",
+    "uikName": "УИК №752",
     "tikTvd": "263200081141",
-    "tikName": "Красноярская"
+    "tikName": "Красноярская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 753,
     "uikTvd": "463401772335",
+    "uikName": "УИК №753",
     "tikTvd": "263200081141",
-    "tikName": "Красноярская"
+    "tikName": "Красноярская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 754,
     "uikTvd": "463401772336",
+    "uikName": "УИК №754",
     "tikTvd": "263200081141",
-    "tikName": "Красноярская"
+    "tikName": "Красноярская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 755,
     "uikTvd": "463401772337",
+    "uikName": "УИК №755",
     "tikTvd": "263200081141",
-    "tikName": "Красноярская"
+    "tikName": "Красноярская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 756,
     "uikTvd": "463401772338",
+    "uikName": "УИК №756",
     "tikTvd": "263200081141",
-    "tikName": "Красноярская"
+    "tikName": "Красноярская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 757,
     "uikTvd": "463401772339",
+    "uikName": "УИК №757",
     "tikTvd": "263200081141",
-    "tikName": "Красноярская"
+    "tikName": "Красноярская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 758,
     "uikTvd": "463401772340",
+    "uikName": "УИК №758",
     "tikTvd": "263200081141",
-    "tikName": "Красноярская"
+    "tikName": "Красноярская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 759,
     "uikTvd": "463401772341",
+    "uikName": "УИК №759",
     "tikTvd": "263200081141",
-    "tikName": "Красноярская"
+    "tikName": "Красноярская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 760,
     "uikTvd": "463401772342",
+    "uikName": "УИК №760",
     "tikTvd": "263200081141",
-    "tikName": "Красноярская"
+    "tikName": "Красноярская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 761,
     "uikTvd": "463401772343",
+    "uikName": "УИК №761",
     "tikTvd": "263200081141",
-    "tikName": "Красноярская"
+    "tikName": "Красноярская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 762,
     "uikTvd": "463401772344",
+    "uikName": "УИК №762",
     "tikTvd": "263200081141",
-    "tikName": "Красноярская"
+    "tikName": "Красноярская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 763,
     "uikTvd": "463401772345",
+    "uikName": "УИК №763",
     "tikTvd": "263200081141",
-    "tikName": "Красноярская"
+    "tikName": "Красноярская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 764,
     "uikTvd": "463401772346",
+    "uikName": "УИК №764",
     "tikTvd": "263200081141",
-    "tikName": "Красноярская"
+    "tikName": "Красноярская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 765,
     "uikTvd": "463401772347",
+    "uikName": "УИК №765",
     "tikTvd": "263200081141",
-    "tikName": "Красноярская"
+    "tikName": "Красноярская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 766,
     "uikTvd": "463401772348",
+    "uikName": "УИК №766",
     "tikTvd": "263200081141",
-    "tikName": "Красноярская"
+    "tikName": "Красноярская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 767,
     "uikTvd": "463401772349",
+    "uikName": "УИК №767",
     "tikTvd": "263200081141",
-    "tikName": "Красноярская"
+    "tikName": "Красноярская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 768,
     "uikTvd": "463401772350",
+    "uikName": "УИК №768",
     "tikTvd": "263200081141",
-    "tikName": "Красноярская"
+    "tikName": "Красноярская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 769,
     "uikTvd": "463401772351",
+    "uikName": "УИК №769",
     "tikTvd": "263200081141",
-    "tikName": "Красноярская"
+    "tikName": "Красноярская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 770,
     "uikTvd": "463401772352",
+    "uikName": "УИК №770",
     "tikTvd": "263200081141",
-    "tikName": "Красноярская"
+    "tikName": "Красноярская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 771,
     "uikTvd": "463401772353",
+    "uikName": "УИК №771",
     "tikTvd": "263200081141",
-    "tikName": "Красноярская"
+    "tikName": "Красноярская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 772,
     "uikTvd": "463401772354",
+    "uikName": "УИК №772",
     "tikTvd": "263200081141",
-    "tikName": "Красноярская"
+    "tikName": "Красноярская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 773,
     "uikTvd": "463401772355",
+    "uikName": "УИК №773",
     "tikTvd": "263200081141",
-    "tikName": "Красноярская"
+    "tikName": "Красноярская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 774,
     "uikTvd": "463401772356",
+    "uikName": "УИК №774",
     "tikTvd": "263200081141",
-    "tikName": "Красноярская"
+    "tikName": "Красноярская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 775,
     "uikTvd": "463401772357",
+    "uikName": "УИК №775",
     "tikTvd": "263200081141",
-    "tikName": "Красноярская"
+    "tikName": "Красноярская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 776,
     "uikTvd": "463401772358",
+    "uikName": "УИК №776",
     "tikTvd": "263200081141",
-    "tikName": "Красноярская"
+    "tikName": "Красноярская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 777,
     "uikTvd": "463401772359",
+    "uikName": "УИК №777",
     "tikTvd": "263200081141",
-    "tikName": "Красноярская"
+    "tikName": "Красноярская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 778,
     "uikTvd": "463401772360",
+    "uikName": "УИК №778",
     "tikTvd": "263200081141",
-    "tikName": "Красноярская"
+    "tikName": "Красноярская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 779,
     "uikTvd": "463401772361",
+    "uikName": "УИК №779",
     "tikTvd": "263200081141",
-    "tikName": "Красноярская"
+    "tikName": "Красноярская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 780,
     "uikTvd": "463401772362",
+    "uikName": "УИК №780",
     "tikTvd": "263200081141",
-    "tikName": "Красноярская"
+    "tikName": "Красноярская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 781,
     "uikTvd": "463401772363",
+    "uikName": "УИК №781",
     "tikTvd": "263200081141",
-    "tikName": "Красноярская"
+    "tikName": "Красноярская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 782,
     "uikTvd": "463401772364",
+    "uikName": "УИК №782",
     "tikTvd": "263200081141",
-    "tikName": "Красноярская"
+    "tikName": "Красноярская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 783,
     "uikTvd": "463402572396",
+    "uikName": "УИК №783",
     "tikTvd": "263200081155",
-    "tikName": "Самара, Железнодорожная"
+    "tikName": "Самара, Железнодорожная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 784,
     "uikTvd": "463402572397",
+    "uikName": "УИК №784",
     "tikTvd": "263200081155",
-    "tikName": "Самара, Железнодорожная"
+    "tikName": "Самара, Железнодорожная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 785,
     "uikTvd": "463402572398",
+    "uikName": "УИК №785",
     "tikTvd": "263200081155",
-    "tikName": "Самара, Железнодорожная"
+    "tikName": "Самара, Железнодорожная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 786,
     "uikTvd": "463402572399",
+    "uikName": "УИК №786",
     "tikTvd": "263200081155",
-    "tikName": "Самара, Железнодорожная"
+    "tikName": "Самара, Железнодорожная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 787,
     "uikTvd": "463402572400",
+    "uikName": "УИК №787",
     "tikTvd": "263200081155",
-    "tikName": "Самара, Железнодорожная"
+    "tikName": "Самара, Железнодорожная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 788,
     "uikTvd": "463402572401",
+    "uikName": "УИК №788",
     "tikTvd": "263200081155",
-    "tikName": "Самара, Железнодорожная"
+    "tikName": "Самара, Железнодорожная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 789,
     "uikTvd": "463402572402",
+    "uikName": "УИК №789",
     "tikTvd": "263200081155",
-    "tikName": "Самара, Железнодорожная"
+    "tikName": "Самара, Железнодорожная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 790,
     "uikTvd": "463402572403",
+    "uikName": "УИК №790",
     "tikTvd": "263200081155",
-    "tikName": "Самара, Железнодорожная"
+    "tikName": "Самара, Железнодорожная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 791,
     "uikTvd": "463402572404",
+    "uikName": "УИК №791",
     "tikTvd": "263200081155",
-    "tikName": "Самара, Железнодорожная"
+    "tikName": "Самара, Железнодорожная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 792,
     "uikTvd": "463402572405",
+    "uikName": "УИК №792",
     "tikTvd": "263200081155",
-    "tikName": "Самара, Железнодорожная"
+    "tikName": "Самара, Железнодорожная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 793,
     "uikTvd": "463402572406",
+    "uikName": "УИК №793",
     "tikTvd": "263200081155",
-    "tikName": "Самара, Железнодорожная"
+    "tikName": "Самара, Железнодорожная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 794,
     "uikTvd": "463402572407",
+    "uikName": "УИК №794",
     "tikTvd": "263200081155",
-    "tikName": "Самара, Железнодорожная"
+    "tikName": "Самара, Железнодорожная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 795,
     "uikTvd": "463402572408",
+    "uikName": "УИК №795",
     "tikTvd": "263200081155",
-    "tikName": "Самара, Железнодорожная"
+    "tikName": "Самара, Железнодорожная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 796,
     "uikTvd": "463402572409",
+    "uikName": "УИК №796",
     "tikTvd": "263200081155",
-    "tikName": "Самара, Железнодорожная"
+    "tikName": "Самара, Железнодорожная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 797,
     "uikTvd": "463402572410",
+    "uikName": "УИК №797",
     "tikTvd": "263200081155",
-    "tikName": "Самара, Железнодорожная"
+    "tikName": "Самара, Железнодорожная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 798,
     "uikTvd": "463402572411",
+    "uikName": "УИК №798",
     "tikTvd": "263200081155",
-    "tikName": "Самара, Железнодорожная"
+    "tikName": "Самара, Железнодорожная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 799,
     "uikTvd": "463402572412",
+    "uikName": "УИК №799",
     "tikTvd": "263200081155",
-    "tikName": "Самара, Железнодорожная"
+    "tikName": "Самара, Железнодорожная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 800,
     "uikTvd": "463402572413",
+    "uikName": "УИК №800",
     "tikTvd": "263200081155",
-    "tikName": "Самара, Железнодорожная"
+    "tikName": "Самара, Железнодорожная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 801,
     "uikTvd": "463402572414",
+    "uikName": "УИК №801",
     "tikTvd": "263200081155",
-    "tikName": "Самара, Железнодорожная"
+    "tikName": "Самара, Железнодорожная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 802,
     "uikTvd": "463402572415",
+    "uikName": "УИК №802",
     "tikTvd": "263200081155",
-    "tikName": "Самара, Железнодорожная"
+    "tikName": "Самара, Железнодорожная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 803,
     "uikTvd": "463402572416",
+    "uikName": "УИК №803",
     "tikTvd": "263200081155",
-    "tikName": "Самара, Железнодорожная"
+    "tikName": "Самара, Железнодорожная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 804,
     "uikTvd": "463402572417",
+    "uikName": "УИК №804",
     "tikTvd": "263200081155",
-    "tikName": "Самара, Железнодорожная"
+    "tikName": "Самара, Железнодорожная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 805,
     "uikTvd": "463402572418",
+    "uikName": "УИК №805",
     "tikTvd": "263200081155",
-    "tikName": "Самара, Железнодорожная"
+    "tikName": "Самара, Железнодорожная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 806,
     "uikTvd": "463402572419",
+    "uikName": "УИК №806",
     "tikTvd": "263200081155",
-    "tikName": "Самара, Железнодорожная"
+    "tikName": "Самара, Железнодорожная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 807,
     "uikTvd": "463402572420",
+    "uikName": "УИК №807",
     "tikTvd": "263200081155",
-    "tikName": "Самара, Железнодорожная"
+    "tikName": "Самара, Железнодорожная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 808,
     "uikTvd": "463402572421",
+    "uikName": "УИК №808",
     "tikTvd": "263200081155",
-    "tikName": "Самара, Железнодорожная"
+    "tikName": "Самара, Железнодорожная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 809,
     "uikTvd": "463402572422",
+    "uikName": "УИК №809",
     "tikTvd": "263200081155",
-    "tikName": "Самара, Железнодорожная"
+    "tikName": "Самара, Железнодорожная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 810,
     "uikTvd": "463402572423",
+    "uikName": "УИК №810",
     "tikTvd": "263200081155",
-    "tikName": "Самара, Железнодорожная"
+    "tikName": "Самара, Железнодорожная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 811,
     "uikTvd": "463402572424",
+    "uikName": "УИК №811",
     "tikTvd": "263200081155",
-    "tikName": "Самара, Железнодорожная"
+    "tikName": "Самара, Железнодорожная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 812,
     "uikTvd": "463402572425",
+    "uikName": "УИК №812",
     "tikTvd": "263200081155",
-    "tikName": "Самара, Железнодорожная"
+    "tikName": "Самара, Железнодорожная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 813,
     "uikTvd": "463402572426",
+    "uikName": "УИК №813",
     "tikTvd": "263200081155",
-    "tikName": "Самара, Железнодорожная"
+    "tikName": "Самара, Железнодорожная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 814,
     "uikTvd": "463402572427",
+    "uikName": "УИК №814",
     "tikTvd": "263200081155",
-    "tikName": "Самара, Железнодорожная"
+    "tikName": "Самара, Железнодорожная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 815,
     "uikTvd": "463402572428",
+    "uikName": "УИК №815",
     "tikTvd": "263200081155",
-    "tikName": "Самара, Железнодорожная"
+    "tikName": "Самара, Железнодорожная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 816,
     "uikTvd": "463402572429",
+    "uikName": "УИК №816",
     "tikTvd": "263200081155",
-    "tikName": "Самара, Железнодорожная"
+    "tikName": "Самара, Железнодорожная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 817,
     "uikTvd": "463402572430",
+    "uikName": "УИК №817",
     "tikTvd": "263200081155",
-    "tikName": "Самара, Железнодорожная"
+    "tikName": "Самара, Железнодорожная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 818,
     "uikTvd": "463402572431",
+    "uikName": "УИК №818",
     "tikTvd": "263200081155",
-    "tikName": "Самара, Железнодорожная"
+    "tikName": "Самара, Железнодорожная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 819,
     "uikTvd": "463402572432",
+    "uikName": "УИК №819",
     "tikTvd": "263200081155",
-    "tikName": "Самара, Железнодорожная"
+    "tikName": "Самара, Железнодорожная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 820,
     "uikTvd": "463402572433",
+    "uikName": "УИК №820",
     "tikTvd": "263200081155",
-    "tikName": "Самара, Железнодорожная"
+    "tikName": "Самара, Железнодорожная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 821,
     "uikTvd": "463402572434",
+    "uikName": "УИК №821",
     "tikTvd": "263200081155",
-    "tikName": "Самара, Железнодорожная"
+    "tikName": "Самара, Железнодорожная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 822,
     "uikTvd": "463402572435",
+    "uikName": "УИК №822",
     "tikTvd": "263200081155",
-    "tikName": "Самара, Железнодорожная"
+    "tikName": "Самара, Железнодорожная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 823,
     "uikTvd": "463402572436",
+    "uikName": "УИК №823",
     "tikTvd": "263200081155",
-    "tikName": "Самара, Железнодорожная"
+    "tikName": "Самара, Железнодорожная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 824,
     "uikTvd": "463402572437",
+    "uikName": "УИК №824",
     "tikTvd": "263200081155",
-    "tikName": "Самара, Железнодорожная"
+    "tikName": "Самара, Железнодорожная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 825,
     "uikTvd": "463402572438",
+    "uikName": "УИК №825",
     "tikTvd": "263200081155",
-    "tikName": "Самара, Железнодорожная"
+    "tikName": "Самара, Железнодорожная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 826,
     "uikTvd": "463402572439",
+    "uikName": "УИК №826",
     "tikTvd": "263200081155",
-    "tikName": "Самара, Железнодорожная"
+    "tikName": "Самара, Железнодорожная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 827,
     "uikTvd": "463402871776",
+    "uikName": "УИК №827",
     "tikTvd": "263200081153",
-    "tikName": "Самара, Куйбышевская"
+    "tikName": "Самара, Куйбышевская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 828,
     "uikTvd": "463402871777",
+    "uikName": "УИК №828",
     "tikTvd": "263200081153",
-    "tikName": "Самара, Куйбышевская"
+    "tikName": "Самара, Куйбышевская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 829,
     "uikTvd": "463402871778",
+    "uikName": "УИК №829",
     "tikTvd": "263200081153",
-    "tikName": "Самара, Куйбышевская"
+    "tikName": "Самара, Куйбышевская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 830,
     "uikTvd": "463402871779",
+    "uikName": "УИК №830",
     "tikTvd": "263200081153",
-    "tikName": "Самара, Куйбышевская"
+    "tikName": "Самара, Куйбышевская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 831,
     "uikTvd": "463402871780",
+    "uikName": "УИК №831",
     "tikTvd": "263200081153",
-    "tikName": "Самара, Куйбышевская"
+    "tikName": "Самара, Куйбышевская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 832,
     "uikTvd": "463402871781",
+    "uikName": "УИК №832",
     "tikTvd": "263200081153",
-    "tikName": "Самара, Куйбышевская"
+    "tikName": "Самара, Куйбышевская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 833,
     "uikTvd": "463402871782",
+    "uikName": "УИК №833",
     "tikTvd": "263200081153",
-    "tikName": "Самара, Куйбышевская"
+    "tikName": "Самара, Куйбышевская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 834,
     "uikTvd": "463402871783",
+    "uikName": "УИК №834",
     "tikTvd": "263200081153",
-    "tikName": "Самара, Куйбышевская"
+    "tikName": "Самара, Куйбышевская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 835,
     "uikTvd": "463402871784",
+    "uikName": "УИК №835",
     "tikTvd": "263200081153",
-    "tikName": "Самара, Куйбышевская"
+    "tikName": "Самара, Куйбышевская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 836,
     "uikTvd": "463402871785",
+    "uikName": "УИК №836",
     "tikTvd": "263200081153",
-    "tikName": "Самара, Куйбышевская"
+    "tikName": "Самара, Куйбышевская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 837,
     "uikTvd": "463402871786",
+    "uikName": "УИК №837",
     "tikTvd": "263200081153",
-    "tikName": "Самара, Куйбышевская"
+    "tikName": "Самара, Куйбышевская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 838,
     "uikTvd": "463402871787",
+    "uikName": "УИК №838",
     "tikTvd": "263200081153",
-    "tikName": "Самара, Куйбышевская"
+    "tikName": "Самара, Куйбышевская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 839,
     "uikTvd": "463402871788",
+    "uikName": "УИК №839",
     "tikTvd": "263200081153",
-    "tikName": "Самара, Куйбышевская"
+    "tikName": "Самара, Куйбышевская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 840,
     "uikTvd": "463402871789",
+    "uikName": "УИК №840",
     "tikTvd": "263200081153",
-    "tikName": "Самара, Куйбышевская"
+    "tikName": "Самара, Куйбышевская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 841,
     "uikTvd": "463402871790",
+    "uikName": "УИК №841",
     "tikTvd": "263200081153",
-    "tikName": "Самара, Куйбышевская"
+    "tikName": "Самара, Куйбышевская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 842,
     "uikTvd": "463402871791",
+    "uikName": "УИК №842",
     "tikTvd": "263200081153",
-    "tikName": "Самара, Куйбышевская"
+    "tikName": "Самара, Куйбышевская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 843,
     "uikTvd": "463402871792",
+    "uikName": "УИК №843",
     "tikTvd": "263200081153",
-    "tikName": "Самара, Куйбышевская"
+    "tikName": "Самара, Куйбышевская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 844,
     "uikTvd": "463402871793",
+    "uikName": "УИК №844",
     "tikTvd": "263200081153",
-    "tikName": "Самара, Куйбышевская"
+    "tikName": "Самара, Куйбышевская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 845,
     "uikTvd": "463402871794",
+    "uikName": "УИК №845",
     "tikTvd": "263200081153",
-    "tikName": "Самара, Куйбышевская"
+    "tikName": "Самара, Куйбышевская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 846,
     "uikTvd": "463402871795",
+    "uikName": "УИК №846",
     "tikTvd": "263200081153",
-    "tikName": "Самара, Куйбышевская"
+    "tikName": "Самара, Куйбышевская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 847,
     "uikTvd": "463402871796",
+    "uikName": "УИК №847",
     "tikTvd": "263200081153",
-    "tikName": "Самара, Куйбышевская"
+    "tikName": "Самара, Куйбышевская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 848,
     "uikTvd": "463402871797",
+    "uikName": "УИК №848",
     "tikTvd": "263200081153",
-    "tikName": "Самара, Куйбышевская"
+    "tikName": "Самара, Куйбышевская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 849,
     "uikTvd": "463402871798",
+    "uikName": "УИК №849",
     "tikTvd": "263200081153",
-    "tikName": "Самара, Куйбышевская"
+    "tikName": "Самара, Куйбышевская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 850,
     "uikTvd": "463402871799",
+    "uikName": "УИК №850",
     "tikTvd": "263200081153",
-    "tikName": "Самара, Куйбышевская"
+    "tikName": "Самара, Куйбышевская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 851,
     "uikTvd": "463402871800",
+    "uikName": "УИК №851",
     "tikTvd": "263200081153",
-    "tikName": "Самара, Куйбышевская"
+    "tikName": "Самара, Куйбышевская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 852,
     "uikTvd": "463402871801",
+    "uikName": "УИК №852",
     "tikTvd": "263200081153",
-    "tikName": "Самара, Куйбышевская"
+    "tikName": "Самара, Куйбышевская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 853,
     "uikTvd": "463402871802",
+    "uikName": "УИК №853",
     "tikTvd": "263200081153",
-    "tikName": "Самара, Куйбышевская"
+    "tikName": "Самара, Куйбышевская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 854,
     "uikTvd": "463402871803",
+    "uikName": "УИК №854",
     "tikTvd": "263200081153",
-    "tikName": "Самара, Куйбышевская"
+    "tikName": "Самара, Куйбышевская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 855,
     "uikTvd": "463402871804",
+    "uikName": "УИК №855",
     "tikTvd": "263200081153",
-    "tikName": "Самара, Куйбышевская"
+    "tikName": "Самара, Куйбышевская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 856,
     "uikTvd": "463402871805",
+    "uikName": "УИК №856",
     "tikTvd": "263200081153",
-    "tikName": "Самара, Куйбышевская"
+    "tikName": "Самара, Куйбышевская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 857,
     "uikTvd": "463402871806",
+    "uikName": "УИК №857",
     "tikTvd": "263200081153",
-    "tikName": "Самара, Куйбышевская"
+    "tikName": "Самара, Куйбышевская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 858,
     "uikTvd": "463402871807",
+    "uikName": "УИК №858",
     "tikTvd": "263200081153",
-    "tikName": "Самара, Куйбышевская"
+    "tikName": "Самара, Куйбышевская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 859,
     "uikTvd": "463402971350",
+    "uikName": "УИК №859",
     "tikTvd": "263200081154",
-    "tikName": "Самара, Ленинская"
+    "tikName": "Самара, Ленинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 860,
     "uikTvd": "463402971351",
+    "uikName": "УИК №860",
     "tikTvd": "263200081154",
-    "tikName": "Самара, Ленинская"
+    "tikName": "Самара, Ленинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 861,
     "uikTvd": "463402971352",
+    "uikName": "УИК №861",
     "tikTvd": "263200081154",
-    "tikName": "Самара, Ленинская"
+    "tikName": "Самара, Ленинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 862,
     "uikTvd": "463402971353",
+    "uikName": "УИК №862",
     "tikTvd": "263200081154",
-    "tikName": "Самара, Ленинская"
+    "tikName": "Самара, Ленинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 863,
     "uikTvd": "463402971354",
+    "uikName": "УИК №863",
     "tikTvd": "263200081154",
-    "tikName": "Самара, Ленинская"
+    "tikName": "Самара, Ленинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 864,
     "uikTvd": "463402971355",
+    "uikName": "УИК №864",
     "tikTvd": "263200081154",
-    "tikName": "Самара, Ленинская"
+    "tikName": "Самара, Ленинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 865,
     "uikTvd": "463402971356",
+    "uikName": "УИК №865",
     "tikTvd": "263200081154",
-    "tikName": "Самара, Ленинская"
+    "tikName": "Самара, Ленинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 866,
     "uikTvd": "463402971357",
+    "uikName": "УИК №866",
     "tikTvd": "263200081154",
-    "tikName": "Самара, Ленинская"
+    "tikName": "Самара, Ленинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 867,
     "uikTvd": "463402971358",
+    "uikName": "УИК №867",
     "tikTvd": "263200081154",
-    "tikName": "Самара, Ленинская"
+    "tikName": "Самара, Ленинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 868,
     "uikTvd": "463402971359",
+    "uikName": "УИК №868",
     "tikTvd": "263200081154",
-    "tikName": "Самара, Ленинская"
+    "tikName": "Самара, Ленинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 869,
     "uikTvd": "463402971360",
+    "uikName": "УИК №869",
     "tikTvd": "263200081154",
-    "tikName": "Самара, Ленинская"
+    "tikName": "Самара, Ленинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 870,
     "uikTvd": "463402971361",
+    "uikName": "УИК №870",
     "tikTvd": "263200081154",
-    "tikName": "Самара, Ленинская"
+    "tikName": "Самара, Ленинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 871,
     "uikTvd": "463402971362",
+    "uikName": "УИК №871",
     "tikTvd": "263200081154",
-    "tikName": "Самара, Ленинская"
+    "tikName": "Самара, Ленинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 872,
     "uikTvd": "463402971363",
+    "uikName": "УИК №872",
     "tikTvd": "263200081154",
-    "tikName": "Самара, Ленинская"
+    "tikName": "Самара, Ленинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 873,
     "uikTvd": "463402971364",
+    "uikName": "УИК №873",
     "tikTvd": "263200081154",
-    "tikName": "Самара, Ленинская"
+    "tikName": "Самара, Ленинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 874,
     "uikTvd": "463402971365",
+    "uikName": "УИК №874",
     "tikTvd": "263200081154",
-    "tikName": "Самара, Ленинская"
+    "tikName": "Самара, Ленинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 875,
     "uikTvd": "463402971366",
+    "uikName": "УИК №875",
     "tikTvd": "263200081154",
-    "tikName": "Самара, Ленинская"
+    "tikName": "Самара, Ленинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 876,
     "uikTvd": "463402971367",
+    "uikName": "УИК №876",
     "tikTvd": "263200081154",
-    "tikName": "Самара, Ленинская"
+    "tikName": "Самара, Ленинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 877,
     "uikTvd": "463402971368",
+    "uikName": "УИК №877",
     "tikTvd": "263200081154",
-    "tikName": "Самара, Ленинская"
+    "tikName": "Самара, Ленинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 878,
     "uikTvd": "463402971369",
+    "uikName": "УИК №878",
     "tikTvd": "263200081154",
-    "tikName": "Самара, Ленинская"
+    "tikName": "Самара, Ленинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 879,
     "uikTvd": "463402971370",
+    "uikName": "УИК №879",
     "tikTvd": "263200081154",
-    "tikName": "Самара, Ленинская"
+    "tikName": "Самара, Ленинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 880,
     "uikTvd": "463402971371",
+    "uikName": "УИК №880",
     "tikTvd": "263200081154",
-    "tikName": "Самара, Ленинская"
+    "tikName": "Самара, Ленинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 881,
     "uikTvd": "463402971372",
+    "uikName": "УИК №881",
     "tikTvd": "263200081154",
-    "tikName": "Самара, Ленинская"
+    "tikName": "Самара, Ленинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 882,
     "uikTvd": "463402971373",
+    "uikName": "УИК №882",
     "tikTvd": "263200081154",
-    "tikName": "Самара, Ленинская"
+    "tikName": "Самара, Ленинская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 883,
     "uikTvd": "463403072018",
+    "uikName": "УИК №883",
     "tikTvd": "263200081173",
-    "tikName": "Самара, Октябрьская"
+    "tikName": "Самара, Октябрьская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 884,
     "uikTvd": "463403072019",
+    "uikName": "УИК №884",
     "tikTvd": "263200081173",
-    "tikName": "Самара, Октябрьская"
+    "tikName": "Самара, Октябрьская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 885,
     "uikTvd": "463403072020",
+    "uikName": "УИК №885",
     "tikTvd": "263200081173",
-    "tikName": "Самара, Октябрьская"
+    "tikName": "Самара, Октябрьская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 886,
     "uikTvd": "463403072021",
+    "uikName": "УИК №886",
     "tikTvd": "263200081173",
-    "tikName": "Самара, Октябрьская"
+    "tikName": "Самара, Октябрьская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 887,
     "uikTvd": "463403072022",
+    "uikName": "УИК №887",
     "tikTvd": "263200081173",
-    "tikName": "Самара, Октябрьская"
+    "tikName": "Самара, Октябрьская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 888,
     "uikTvd": "463403072023",
+    "uikName": "УИК №888",
     "tikTvd": "263200081173",
-    "tikName": "Самара, Октябрьская"
+    "tikName": "Самара, Октябрьская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 889,
     "uikTvd": "463403072024",
+    "uikName": "УИК №889",
     "tikTvd": "263200081173",
-    "tikName": "Самара, Октябрьская"
+    "tikName": "Самара, Октябрьская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 890,
     "uikTvd": "463403072025",
+    "uikName": "УИК №890",
     "tikTvd": "263200081173",
-    "tikName": "Самара, Октябрьская"
+    "tikName": "Самара, Октябрьская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 891,
     "uikTvd": "463403072026",
+    "uikName": "УИК №891",
     "tikTvd": "263200081173",
-    "tikName": "Самара, Октябрьская"
+    "tikName": "Самара, Октябрьская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 892,
     "uikTvd": "463403072027",
+    "uikName": "УИК №892",
     "tikTvd": "263200081173",
-    "tikName": "Самара, Октябрьская"
+    "tikName": "Самара, Октябрьская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 893,
     "uikTvd": "463403072028",
+    "uikName": "УИК №893",
     "tikTvd": "263200081173",
-    "tikName": "Самара, Октябрьская"
+    "tikName": "Самара, Октябрьская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 894,
     "uikTvd": "463403072029",
+    "uikName": "УИК №894",
     "tikTvd": "263200081173",
-    "tikName": "Самара, Октябрьская"
+    "tikName": "Самара, Октябрьская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 895,
     "uikTvd": "463403072030",
+    "uikName": "УИК №895",
     "tikTvd": "263200081173",
-    "tikName": "Самара, Октябрьская"
+    "tikName": "Самара, Октябрьская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 896,
     "uikTvd": "463403072031",
+    "uikName": "УИК №896",
     "tikTvd": "263200081173",
-    "tikName": "Самара, Октябрьская"
+    "tikName": "Самара, Октябрьская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 897,
     "uikTvd": "463403072032",
+    "uikName": "УИК №897",
     "tikTvd": "263200081173",
-    "tikName": "Самара, Октябрьская"
+    "tikName": "Самара, Октябрьская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 898,
     "uikTvd": "463403072033",
+    "uikName": "УИК №898",
     "tikTvd": "263200081173",
-    "tikName": "Самара, Октябрьская"
+    "tikName": "Самара, Октябрьская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 899,
     "uikTvd": "463403072034",
+    "uikName": "УИК №899",
     "tikTvd": "263200081173",
-    "tikName": "Самара, Октябрьская"
+    "tikName": "Самара, Октябрьская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 900,
     "uikTvd": "463403072035",
+    "uikName": "УИК №900",
     "tikTvd": "263200081173",
-    "tikName": "Самара, Октябрьская"
+    "tikName": "Самара, Октябрьская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 901,
     "uikTvd": "463403072036",
+    "uikName": "УИК №901",
     "tikTvd": "263200081173",
-    "tikName": "Самара, Октябрьская"
+    "tikName": "Самара, Октябрьская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 902,
     "uikTvd": "463403072037",
+    "uikName": "УИК №902",
     "tikTvd": "263200081173",
-    "tikName": "Самара, Октябрьская"
+    "tikName": "Самара, Октябрьская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 903,
     "uikTvd": "463403072038",
+    "uikName": "УИК №903",
     "tikTvd": "263200081173",
-    "tikName": "Самара, Октябрьская"
+    "tikName": "Самара, Октябрьская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 904,
     "uikTvd": "463403072039",
+    "uikName": "УИК №904",
     "tikTvd": "263200081173",
-    "tikName": "Самара, Октябрьская"
+    "tikName": "Самара, Октябрьская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 905,
     "uikTvd": "463403072040",
+    "uikName": "УИК №905",
     "tikTvd": "263200081173",
-    "tikName": "Самара, Октябрьская"
+    "tikName": "Самара, Октябрьская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 906,
     "uikTvd": "463403072041",
+    "uikName": "УИК №906",
     "tikTvd": "263200081173",
-    "tikName": "Самара, Октябрьская"
+    "tikName": "Самара, Октябрьская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 907,
     "uikTvd": "463403072042",
+    "uikName": "УИК №907",
     "tikTvd": "263200081173",
-    "tikName": "Самара, Октябрьская"
+    "tikName": "Самара, Октябрьская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 908,
     "uikTvd": "463403072043",
+    "uikName": "УИК №908",
     "tikTvd": "263200081173",
-    "tikName": "Самара, Октябрьская"
+    "tikName": "Самара, Октябрьская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 909,
     "uikTvd": "463403072044",
+    "uikName": "УИК №909",
     "tikTvd": "263200081173",
-    "tikName": "Самара, Октябрьская"
+    "tikName": "Самара, Октябрьская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 910,
     "uikTvd": "463403072045",
+    "uikName": "УИК №910",
     "tikTvd": "263200081173",
-    "tikName": "Самара, Октябрьская"
+    "tikName": "Самара, Октябрьская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 911,
     "uikTvd": "463403072046",
+    "uikName": "УИК №911",
     "tikTvd": "263200081173",
-    "tikName": "Самара, Октябрьская"
+    "tikName": "Самара, Октябрьская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 912,
     "uikTvd": "463403072047",
+    "uikName": "УИК №912",
     "tikTvd": "263200081173",
-    "tikName": "Самара, Октябрьская"
+    "tikName": "Самара, Октябрьская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 913,
     "uikTvd": "463403072048",
+    "uikName": "УИК №913",
     "tikTvd": "263200081173",
-    "tikName": "Самара, Октябрьская"
+    "tikName": "Самара, Октябрьская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 914,
     "uikTvd": "463403072049",
+    "uikName": "УИК №914",
     "tikTvd": "263200081173",
-    "tikName": "Самара, Октябрьская"
+    "tikName": "Самара, Октябрьская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 915,
     "uikTvd": "463403072050",
+    "uikName": "УИК №915",
     "tikTvd": "263200081173",
-    "tikName": "Самара, Октябрьская"
+    "tikName": "Самара, Октябрьская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 916,
     "uikTvd": "463403072051",
+    "uikName": "УИК №916",
     "tikTvd": "263200081173",
-    "tikName": "Самара, Октябрьская"
+    "tikName": "Самара, Октябрьская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 917,
     "uikTvd": "463403072052",
+    "uikName": "УИК №917",
     "tikTvd": "263200081173",
-    "tikName": "Самара, Октябрьская"
+    "tikName": "Самара, Октябрьская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 918,
     "uikTvd": "463403072053",
+    "uikName": "УИК №918",
     "tikTvd": "263200081173",
-    "tikName": "Самара, Октябрьская"
+    "tikName": "Самара, Октябрьская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 919,
     "uikTvd": "463403072054",
+    "uikName": "УИК №919",
     "tikTvd": "263200081173",
-    "tikName": "Самара, Октябрьская"
+    "tikName": "Самара, Октябрьская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 920,
     "uikTvd": "463403072055",
+    "uikName": "УИК №920",
     "tikTvd": "263200081173",
-    "tikName": "Самара, Октябрьская"
+    "tikName": "Самара, Октябрьская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 921,
     "uikTvd": "463403072056",
+    "uikName": "УИК №921",
     "tikTvd": "263200081173",
-    "tikName": "Самара, Октябрьская"
+    "tikName": "Самара, Октябрьская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 922,
     "uikTvd": "463403072057",
+    "uikName": "УИК №922",
     "tikTvd": "263200081173",
-    "tikName": "Самара, Октябрьская"
+    "tikName": "Самара, Октябрьская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 923,
     "uikTvd": "463403271027",
+    "uikName": "УИК №923",
     "tikTvd": "263200081169",
-    "tikName": "Самара, Самарская"
+    "tikName": "Самара, Самарская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 924,
     "uikTvd": "463403271028",
+    "uikName": "УИК №924",
     "tikTvd": "263200081169",
-    "tikName": "Самара, Самарская"
+    "tikName": "Самара, Самарская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 925,
     "uikTvd": "463403271029",
+    "uikName": "УИК №925",
     "tikTvd": "263200081169",
-    "tikName": "Самара, Самарская"
+    "tikName": "Самара, Самарская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 926,
     "uikTvd": "463403271030",
+    "uikName": "УИК №926",
     "tikTvd": "263200081169",
-    "tikName": "Самара, Самарская"
+    "tikName": "Самара, Самарская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 927,
     "uikTvd": "463403271031",
+    "uikName": "УИК №927",
     "tikTvd": "263200081169",
-    "tikName": "Самара, Самарская"
+    "tikName": "Самара, Самарская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 928,
     "uikTvd": "463403271032",
+    "uikName": "УИК №928",
     "tikTvd": "263200081169",
-    "tikName": "Самара, Самарская"
+    "tikName": "Самара, Самарская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 929,
     "uikTvd": "463403271033",
+    "uikName": "УИК №929",
     "tikTvd": "263200081169",
-    "tikName": "Самара, Самарская"
+    "tikName": "Самара, Самарская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 930,
     "uikTvd": "463403271034",
+    "uikName": "УИК №930",
     "tikTvd": "263200081169",
-    "tikName": "Самара, Самарская"
+    "tikName": "Самара, Самарская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 931,
     "uikTvd": "463403271035",
+    "uikName": "УИК №931",
     "tikTvd": "263200081169",
-    "tikName": "Самара, Самарская"
+    "tikName": "Самара, Самарская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 932,
     "uikTvd": "463403271036",
+    "uikName": "УИК №932",
     "tikTvd": "263200081169",
-    "tikName": "Самара, Самарская"
+    "tikName": "Самара, Самарская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 933,
     "uikTvd": "463403271037",
+    "uikName": "УИК №933",
     "tikTvd": "263200081169",
-    "tikName": "Самара, Самарская"
+    "tikName": "Самара, Самарская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 934,
     "uikTvd": "463403271038",
+    "uikName": "УИК №934",
     "tikTvd": "263200081169",
-    "tikName": "Самара, Самарская"
+    "tikName": "Самара, Самарская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 935,
     "uikTvd": "463403271039",
+    "uikName": "УИК №935",
     "tikTvd": "263200081169",
-    "tikName": "Самара, Самарская"
+    "tikName": "Самара, Самарская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 936,
     "uikTvd": "463403372535",
+    "uikName": "УИК №936",
     "tikTvd": "263200081172",
-    "tikName": "Самара, Советская"
+    "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 937,
     "uikTvd": "463403372537",
+    "uikName": "УИК №937",
     "tikTvd": "263200081172",
-    "tikName": "Самара, Советская"
+    "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 938,
     "uikTvd": "463403372538",
+    "uikName": "УИК №938",
     "tikTvd": "263200081172",
-    "tikName": "Самара, Советская"
+    "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 939,
     "uikTvd": "463403372539",
+    "uikName": "УИК №939",
     "tikTvd": "263200081172",
-    "tikName": "Самара, Советская"
+    "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 940,
     "uikTvd": "463403372540",
+    "uikName": "УИК №940",
     "tikTvd": "263200081172",
-    "tikName": "Самара, Советская"
+    "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 941,
     "uikTvd": "463403372541",
+    "uikName": "УИК №941",
     "tikTvd": "263200081172",
-    "tikName": "Самара, Советская"
+    "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 942,
     "uikTvd": "463403372542",
+    "uikName": "УИК №942",
     "tikTvd": "263200081172",
-    "tikName": "Самара, Советская"
+    "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 943,
     "uikTvd": "463403372543",
+    "uikName": "УИК №943",
     "tikTvd": "263200081172",
-    "tikName": "Самара, Советская"
+    "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 944,
     "uikTvd": "463403372544",
+    "uikName": "УИК №944",
     "tikTvd": "263200081172",
-    "tikName": "Самара, Советская"
+    "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 945,
     "uikTvd": "463403372545",
+    "uikName": "УИК №945",
     "tikTvd": "263200081172",
-    "tikName": "Самара, Советская"
+    "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 946,
     "uikTvd": "463403372546",
+    "uikName": "УИК №946",
     "tikTvd": "263200081172",
-    "tikName": "Самара, Советская"
+    "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 947,
     "uikTvd": "463403372547",
+    "uikName": "УИК №947",
     "tikTvd": "263200081172",
-    "tikName": "Самара, Советская"
+    "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 948,
     "uikTvd": "463403372548",
+    "uikName": "УИК №948",
     "tikTvd": "263200081172",
-    "tikName": "Самара, Советская"
+    "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 949,
     "uikTvd": "463403372549",
+    "uikName": "УИК №949",
     "tikTvd": "263200081172",
-    "tikName": "Самара, Советская"
+    "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 950,
     "uikTvd": "463403372550",
+    "uikName": "УИК №950",
     "tikTvd": "263200081172",
-    "tikName": "Самара, Советская"
+    "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 951,
     "uikTvd": "463403372551",
+    "uikName": "УИК №951",
     "tikTvd": "263200081172",
-    "tikName": "Самара, Советская"
+    "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 952,
     "uikTvd": "463403372552",
+    "uikName": "УИК №952",
     "tikTvd": "263200081172",
-    "tikName": "Самара, Советская"
+    "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 953,
     "uikTvd": "463403372553",
+    "uikName": "УИК №953",
     "tikTvd": "263200081172",
-    "tikName": "Самара, Советская"
+    "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 954,
     "uikTvd": "463403372554",
+    "uikName": "УИК №954",
     "tikTvd": "263200081172",
-    "tikName": "Самара, Советская"
+    "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 955,
     "uikTvd": "463403372555",
+    "uikName": "УИК №955",
     "tikTvd": "263200081172",
-    "tikName": "Самара, Советская"
+    "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 956,
     "uikTvd": "463403372556",
+    "uikName": "УИК №956",
     "tikTvd": "263200081172",
-    "tikName": "Самара, Советская"
+    "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 957,
     "uikTvd": "463403372557",
+    "uikName": "УИК №957",
     "tikTvd": "263200081172",
-    "tikName": "Самара, Советская"
+    "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 958,
     "uikTvd": "463403372558",
+    "uikName": "УИК №958",
     "tikTvd": "263200081172",
-    "tikName": "Самара, Советская"
+    "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 959,
     "uikTvd": "463403372559",
+    "uikName": "УИК №959",
     "tikTvd": "263200081172",
-    "tikName": "Самара, Советская"
+    "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 960,
     "uikTvd": "463403372560",
+    "uikName": "УИК №960",
     "tikTvd": "263200081172",
-    "tikName": "Самара, Советская"
+    "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 961,
     "uikTvd": "463403372561",
+    "uikName": "УИК №961",
     "tikTvd": "263200081172",
-    "tikName": "Самара, Советская"
+    "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 962,
     "uikTvd": "463403372562",
+    "uikName": "УИК №962",
     "tikTvd": "263200081172",
-    "tikName": "Самара, Советская"
+    "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 963,
     "uikTvd": "463403372563",
+    "uikName": "УИК №963",
     "tikTvd": "263200081172",
-    "tikName": "Самара, Советская"
+    "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 964,
     "uikTvd": "463403372564",
+    "uikName": "УИК №964",
     "tikTvd": "263200081172",
-    "tikName": "Самара, Советская"
+    "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 965,
     "uikTvd": "463403372565",
+    "uikName": "УИК №965",
     "tikTvd": "263200081172",
-    "tikName": "Самара, Советская"
+    "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 966,
     "uikTvd": "463403372566",
+    "uikName": "УИК №966",
     "tikTvd": "263200081172",
-    "tikName": "Самара, Советская"
+    "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 967,
     "uikTvd": "463403372567",
+    "uikName": "УИК №967",
     "tikTvd": "263200081172",
-    "tikName": "Самара, Советская"
+    "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 968,
     "uikTvd": "463403372568",
+    "uikName": "УИК №968",
     "tikTvd": "263200081172",
-    "tikName": "Самара, Советская"
+    "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 969,
     "uikTvd": "463403372569",
+    "uikName": "УИК №969",
     "tikTvd": "263200081172",
-    "tikName": "Самара, Советская"
+    "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 970,
     "uikTvd": "463403372570",
+    "uikName": "УИК №970",
     "tikTvd": "263200081172",
-    "tikName": "Самара, Советская"
+    "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 971,
     "uikTvd": "463403372571",
+    "uikName": "УИК №971",
     "tikTvd": "263200081172",
-    "tikName": "Самара, Советская"
+    "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 972,
     "uikTvd": "463403372572",
+    "uikName": "УИК №972",
     "tikTvd": "263200081172",
-    "tikName": "Самара, Советская"
+    "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 973,
     "uikTvd": "463403372573",
+    "uikName": "УИК №973",
     "tikTvd": "263200081172",
-    "tikName": "Самара, Советская"
+    "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 974,
     "uikTvd": "463403372574",
+    "uikName": "УИК №974",
     "tikTvd": "263200081172",
-    "tikName": "Самара, Советская"
+    "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 975,
     "uikTvd": "463403372575",
+    "uikName": "УИК №975",
     "tikTvd": "263200081172",
-    "tikName": "Самара, Советская"
+    "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 976,
     "uikTvd": "463403372576",
+    "uikName": "УИК №976",
     "tikTvd": "263200081172",
-    "tikName": "Самара, Советская"
+    "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 977,
     "uikTvd": "463403372577",
+    "uikName": "УИК №977",
     "tikTvd": "263200081172",
-    "tikName": "Самара, Советская"
+    "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 978,
     "uikTvd": "463403372578",
+    "uikName": "УИК №978",
     "tikTvd": "263200081172",
-    "tikName": "Самара, Советская"
+    "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 979,
     "uikTvd": "463403372579",
+    "uikName": "УИК №979",
     "tikTvd": "263200081172",
-    "tikName": "Самара, Советская"
+    "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 980,
     "uikTvd": "463403372580",
+    "uikName": "УИК №980",
     "tikTvd": "263200081172",
-    "tikName": "Самара, Советская"
+    "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 981,
     "uikTvd": "463403372581",
+    "uikName": "УИК №981",
     "tikTvd": "263200081172",
-    "tikName": "Самара, Советская"
+    "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 982,
     "uikTvd": "463403372582",
+    "uikName": "УИК №982",
     "tikTvd": "263200081172",
-    "tikName": "Самара, Советская"
+    "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 983,
     "uikTvd": "463403372583",
+    "uikName": "УИК №983",
     "tikTvd": "263200081172",
-    "tikName": "Самара, Советская"
+    "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 984,
     "uikTvd": "463403372584",
+    "uikName": "УИК №984",
     "tikTvd": "263200081172",
-    "tikName": "Самара, Советская"
+    "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 985,
     "uikTvd": "463403372585",
+    "uikName": "УИК №985",
     "tikTvd": "263200081172",
-    "tikName": "Самара, Советская"
+    "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 986,
     "uikTvd": "463403372586",
+    "uikName": "УИК №986",
     "tikTvd": "263200081172",
-    "tikName": "Самара, Советская"
+    "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 987,
     "uikTvd": "463403372587",
+    "uikName": "УИК №987",
     "tikTvd": "263200081172",
-    "tikName": "Самара, Советская"
+    "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 988,
     "uikTvd": "463403372588",
+    "uikName": "УИК №988",
     "tikTvd": "263200081172",
-    "tikName": "Самара, Советская"
+    "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 989,
     "uikTvd": "463403372589",
+    "uikName": "УИК №989",
     "tikTvd": "263200081172",
-    "tikName": "Самара, Советская"
+    "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 990,
     "uikTvd": "463403372590",
+    "uikName": "УИК №990",
     "tikTvd": "263200081172",
-    "tikName": "Самара, Советская"
+    "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 991,
     "uikTvd": "463403372591",
+    "uikName": "УИК №991",
     "tikTvd": "263200081172",
-    "tikName": "Самара, Советская"
+    "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 992,
     "uikTvd": "463403372592",
+    "uikName": "УИК №992",
     "tikTvd": "263200081172",
-    "tikName": "Самара, Советская"
+    "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 993,
     "uikTvd": "463403372593",
+    "uikName": "УИК №993",
     "tikTvd": "263200081172",
-    "tikName": "Самара, Советская"
+    "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 994,
     "uikTvd": "463403372594",
+    "uikName": "УИК №994",
     "tikTvd": "263200081172",
-    "tikName": "Самара, Советская"
+    "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 995,
     "uikTvd": "463403372533",
+    "uikName": "УИК №995",
     "tikTvd": "263200081172",
-    "tikName": "Самара, Советская"
+    "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 996,
     "uikTvd": "463400971265",
+    "uikName": "УИК №996",
     "tikTvd": "263200081148",
-    "tikName": "Жигулевская городская"
+    "tikName": "Жигулевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 997,
     "uikTvd": "463400971266",
+    "uikName": "УИК №997",
     "tikTvd": "263200081148",
-    "tikName": "Жигулевская городская"
+    "tikName": "Жигулевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 998,
     "uikTvd": "463400971267",
+    "uikName": "УИК №998",
     "tikTvd": "263200081148",
-    "tikName": "Жигулевская городская"
+    "tikName": "Жигулевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 999,
     "uikTvd": "463400971268",
+    "uikName": "УИК №999",
     "tikTvd": "263200081148",
-    "tikName": "Жигулевская городская"
+    "tikName": "Жигулевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1000,
     "uikTvd": "463400971269",
+    "uikName": "УИК №1000",
     "tikTvd": "263200081148",
-    "tikName": "Жигулевская городская"
+    "tikName": "Жигулевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1001,
     "uikTvd": "463400971270",
+    "uikName": "УИК №1001",
     "tikTvd": "263200081148",
-    "tikName": "Жигулевская городская"
+    "tikName": "Жигулевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1002,
     "uikTvd": "463400971271",
+    "uikName": "УИК №1002",
     "tikTvd": "263200081148",
-    "tikName": "Жигулевская городская"
+    "tikName": "Жигулевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1003,
     "uikTvd": "463400971272",
+    "uikName": "УИК №1003",
     "tikTvd": "263200081148",
-    "tikName": "Жигулевская городская"
+    "tikName": "Жигулевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1004,
     "uikTvd": "463400971273",
+    "uikName": "УИК №1004",
     "tikTvd": "263200081148",
-    "tikName": "Жигулевская городская"
+    "tikName": "Жигулевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1005,
     "uikTvd": "463400971274",
+    "uikName": "УИК №1005",
     "tikTvd": "263200081148",
-    "tikName": "Жигулевская городская"
+    "tikName": "Жигулевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1006,
     "uikTvd": "463400971275",
+    "uikName": "УИК №1006",
     "tikTvd": "263200081148",
-    "tikName": "Жигулевская городская"
+    "tikName": "Жигулевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1007,
     "uikTvd": "463400971276",
+    "uikName": "УИК №1007",
     "tikTvd": "263200081148",
-    "tikName": "Жигулевская городская"
+    "tikName": "Жигулевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1008,
     "uikTvd": "463400971277",
+    "uikName": "УИК №1008",
     "tikTvd": "263200081148",
-    "tikName": "Жигулевская городская"
+    "tikName": "Жигулевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1009,
     "uikTvd": "463400971278",
+    "uikName": "УИК №1009",
     "tikTvd": "263200081148",
-    "tikName": "Жигулевская городская"
+    "tikName": "Жигулевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1010,
     "uikTvd": "463400971279",
+    "uikName": "УИК №1010",
     "tikTvd": "263200081148",
-    "tikName": "Жигулевская городская"
+    "tikName": "Жигулевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1011,
     "uikTvd": "463400971280",
+    "uikName": "УИК №1011",
     "tikTvd": "263200081148",
-    "tikName": "Жигулевская городская"
+    "tikName": "Жигулевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1012,
     "uikTvd": "463400971281",
+    "uikName": "УИК №1012",
     "tikTvd": "263200081148",
-    "tikName": "Жигулевская городская"
+    "tikName": "Жигулевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1013,
     "uikTvd": "463400971282",
+    "uikName": "УИК №1013",
     "tikTvd": "263200081148",
-    "tikName": "Жигулевская городская"
+    "tikName": "Жигулевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1014,
     "uikTvd": "463400971283",
+    "uikName": "УИК №1014",
     "tikTvd": "263200081148",
-    "tikName": "Жигулевская городская"
+    "tikName": "Жигулевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1015,
     "uikTvd": "463400971284",
+    "uikName": "УИК №1015",
     "tikTvd": "263200081148",
-    "tikName": "Жигулевская городская"
+    "tikName": "Жигулевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1016,
     "uikTvd": "463400971285",
+    "uikName": "УИК №1016",
     "tikTvd": "263200081148",
-    "tikName": "Жигулевская городская"
+    "tikName": "Жигулевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1017,
     "uikTvd": "463400971286",
+    "uikName": "УИК №1017",
     "tikTvd": "263200081148",
-    "tikName": "Жигулевская городская"
+    "tikName": "Жигулевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1018,
     "uikTvd": "463400971287",
+    "uikName": "УИК №1018",
     "tikTvd": "263200081148",
-    "tikName": "Жигулевская городская"
+    "tikName": "Жигулевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1019,
     "uikTvd": "463400971288",
+    "uikName": "УИК №1019",
     "tikTvd": "263200081148",
-    "tikName": "Жигулевская городская"
+    "tikName": "Жигулевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1020,
     "uikTvd": "463400971289",
+    "uikName": "УИК №1020",
     "tikTvd": "263200081148",
-    "tikName": "Жигулевская городская"
+    "tikName": "Жигулевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1021,
     "uikTvd": "463400971290",
+    "uikName": "УИК №1021",
     "tikTvd": "263200081148",
-    "tikName": "Жигулевская городская"
+    "tikName": "Жигулевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1022,
     "uikTvd": "463400971291",
+    "uikName": "УИК №1022",
     "tikTvd": "263200081148",
-    "tikName": "Жигулевская городская"
+    "tikName": "Жигулевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1023,
     "uikTvd": "463400971292",
+    "uikName": "УИК №1023",
     "tikTvd": "263200081148",
-    "tikName": "Жигулевская городская"
+    "tikName": "Жигулевская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1024,
     "uikTvd": "463402071027",
+    "uikName": "УИК №1024",
     "tikTvd": "263200081159",
-    "tikName": "Октябрьская городская"
+    "tikName": "Октябрьская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1025,
     "uikTvd": "463402071028",
+    "uikName": "УИК №1025",
     "tikTvd": "263200081159",
-    "tikName": "Октябрьская городская"
+    "tikName": "Октябрьская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1026,
     "uikTvd": "463402071029",
+    "uikName": "УИК №1026",
     "tikTvd": "263200081159",
-    "tikName": "Октябрьская городская"
+    "tikName": "Октябрьская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1027,
     "uikTvd": "463402071030",
+    "uikName": "УИК №1027",
     "tikTvd": "263200081159",
-    "tikName": "Октябрьская городская"
+    "tikName": "Октябрьская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1028,
     "uikTvd": "463402071031",
+    "uikName": "УИК №1028",
     "tikTvd": "263200081159",
-    "tikName": "Октябрьская городская"
+    "tikName": "Октябрьская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1029,
     "uikTvd": "463402071032",
+    "uikName": "УИК №1029",
     "tikTvd": "263200081159",
-    "tikName": "Октябрьская городская"
+    "tikName": "Октябрьская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1030,
     "uikTvd": "463402071033",
+    "uikName": "УИК №1030",
     "tikTvd": "263200081159",
-    "tikName": "Октябрьская городская"
+    "tikName": "Октябрьская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1031,
     "uikTvd": "463402071034",
+    "uikName": "УИК №1031",
     "tikTvd": "263200081159",
-    "tikName": "Октябрьская городская"
+    "tikName": "Октябрьская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1032,
     "uikTvd": "463402071035",
+    "uikName": "УИК №1032",
     "tikTvd": "263200081159",
-    "tikName": "Октябрьская городская"
+    "tikName": "Октябрьская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1033,
     "uikTvd": "463402071036",
+    "uikName": "УИК №1033",
     "tikTvd": "263200081159",
-    "tikName": "Октябрьская городская"
+    "tikName": "Октябрьская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1034,
     "uikTvd": "463402071037",
+    "uikName": "УИК №1034",
     "tikTvd": "263200081159",
-    "tikName": "Октябрьская городская"
+    "tikName": "Октябрьская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1035,
     "uikTvd": "463402071038",
+    "uikName": "УИК №1035",
     "tikTvd": "263200081159",
-    "tikName": "Октябрьская городская"
+    "tikName": "Октябрьская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1036,
     "uikTvd": "463402071039",
+    "uikName": "УИК №1036",
     "tikTvd": "263200081159",
-    "tikName": "Октябрьская городская"
+    "tikName": "Октябрьская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1037,
     "uikTvd": "463402071040",
+    "uikName": "УИК №1037",
     "tikTvd": "263200081159",
-    "tikName": "Октябрьская городская"
+    "tikName": "Октябрьская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1038,
     "uikTvd": "463402071041",
+    "uikName": "УИК №1038",
     "tikTvd": "263200081159",
-    "tikName": "Октябрьская городская"
+    "tikName": "Октябрьская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1039,
     "uikTvd": "463402071042",
+    "uikName": "УИК №1039",
     "tikTvd": "263200081159",
-    "tikName": "Октябрьская городская"
+    "tikName": "Октябрьская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1040,
     "uikTvd": "463402071043",
+    "uikName": "УИК №1040",
     "tikTvd": "263200081159",
-    "tikName": "Октябрьская городская"
+    "tikName": "Октябрьская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1041,
     "uikTvd": "463402071044",
+    "uikName": "УИК №1041",
     "tikTvd": "263200081159",
-    "tikName": "Октябрьская городская"
+    "tikName": "Октябрьская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1042,
     "uikTvd": "463402071045",
+    "uikName": "УИК №1042",
     "tikTvd": "263200081159",
-    "tikName": "Октябрьская городская"
+    "tikName": "Октябрьская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1043,
     "uikTvd": "463402071046",
+    "uikName": "УИК №1043",
     "tikTvd": "263200081159",
-    "tikName": "Октябрьская городская"
+    "tikName": "Октябрьская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1044,
     "uikTvd": "463403773063",
+    "uikName": "УИК №1044",
     "tikTvd": "263200081166",
-    "tikName": "Сызранская городская"
+    "tikName": "Сызранская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1045,
     "uikTvd": "463403773064",
+    "uikName": "УИК №1045",
     "tikTvd": "263200081166",
-    "tikName": "Сызранская городская"
+    "tikName": "Сызранская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1046,
     "uikTvd": "463403773065",
+    "uikName": "УИК №1046",
     "tikTvd": "263200081166",
-    "tikName": "Сызранская городская"
+    "tikName": "Сызранская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1047,
     "uikTvd": "463403773066",
+    "uikName": "УИК №1047",
     "tikTvd": "263200081166",
-    "tikName": "Сызранская городская"
+    "tikName": "Сызранская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1048,
     "uikTvd": "463403773067",
+    "uikName": "УИК №1048",
     "tikTvd": "263200081166",
-    "tikName": "Сызранская городская"
+    "tikName": "Сызранская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1049,
     "uikTvd": "463403773068",
+    "uikName": "УИК №1049",
     "tikTvd": "263200081166",
-    "tikName": "Сызранская городская"
+    "tikName": "Сызранская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1050,
     "uikTvd": "463403773069",
+    "uikName": "УИК №1050",
     "tikTvd": "263200081166",
-    "tikName": "Сызранская городская"
+    "tikName": "Сызранская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1051,
     "uikTvd": "463403773070",
+    "uikName": "УИК №1051",
     "tikTvd": "263200081166",
-    "tikName": "Сызранская городская"
+    "tikName": "Сызранская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1052,
     "uikTvd": "463403773071",
+    "uikName": "УИК №1052",
     "tikTvd": "263200081166",
-    "tikName": "Сызранская городская"
+    "tikName": "Сызранская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1053,
     "uikTvd": "463403773072",
+    "uikName": "УИК №1053",
     "tikTvd": "263200081166",
-    "tikName": "Сызранская городская"
+    "tikName": "Сызранская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1054,
     "uikTvd": "463403773073",
+    "uikName": "УИК №1054",
     "tikTvd": "263200081166",
-    "tikName": "Сызранская городская"
+    "tikName": "Сызранская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1055,
     "uikTvd": "463403773074",
+    "uikName": "УИК №1055",
     "tikTvd": "263200081166",
-    "tikName": "Сызранская городская"
+    "tikName": "Сызранская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1056,
     "uikTvd": "463403773075",
+    "uikName": "УИК №1056",
     "tikTvd": "263200081166",
-    "tikName": "Сызранская городская"
+    "tikName": "Сызранская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1057,
     "uikTvd": "463403773076",
+    "uikName": "УИК №1057",
     "tikTvd": "263200081166",
-    "tikName": "Сызранская городская"
+    "tikName": "Сызранская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1058,
     "uikTvd": "463403773077",
+    "uikName": "УИК №1058",
     "tikTvd": "263200081166",
-    "tikName": "Сызранская городская"
+    "tikName": "Сызранская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1059,
     "uikTvd": "463403773078",
+    "uikName": "УИК №1059",
     "tikTvd": "263200081166",
-    "tikName": "Сызранская городская"
+    "tikName": "Сызранская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1060,
     "uikTvd": "463403773079",
+    "uikName": "УИК №1060",
     "tikTvd": "263200081166",
-    "tikName": "Сызранская городская"
+    "tikName": "Сызранская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1061,
     "uikTvd": "463403773080",
+    "uikName": "УИК №1061",
     "tikTvd": "263200081166",
-    "tikName": "Сызранская городская"
+    "tikName": "Сызранская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1062,
     "uikTvd": "463403773081",
+    "uikName": "УИК №1062",
     "tikTvd": "263200081166",
-    "tikName": "Сызранская городская"
+    "tikName": "Сызранская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1063,
     "uikTvd": "463403773082",
+    "uikName": "УИК №1063",
     "tikTvd": "263200081166",
-    "tikName": "Сызранская городская"
+    "tikName": "Сызранская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1064,
     "uikTvd": "463403773083",
+    "uikName": "УИК №1064",
     "tikTvd": "263200081166",
-    "tikName": "Сызранская городская"
+    "tikName": "Сызранская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1065,
     "uikTvd": "463403773084",
+    "uikName": "УИК №1065",
     "tikTvd": "263200081166",
-    "tikName": "Сызранская городская"
+    "tikName": "Сызранская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1066,
     "uikTvd": "463403773085",
+    "uikName": "УИК №1066",
     "tikTvd": "263200081166",
-    "tikName": "Сызранская городская"
+    "tikName": "Сызранская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1067,
     "uikTvd": "463403773086",
+    "uikName": "УИК №1067",
     "tikTvd": "263200081166",
-    "tikName": "Сызранская городская"
+    "tikName": "Сызранская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1068,
     "uikTvd": "463403773087",
+    "uikName": "УИК №1068",
     "tikTvd": "263200081166",
-    "tikName": "Сызранская городская"
+    "tikName": "Сызранская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1069,
     "uikTvd": "463403773088",
+    "uikName": "УИК №1069",
     "tikTvd": "263200081166",
-    "tikName": "Сызранская городская"
+    "tikName": "Сызранская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1070,
     "uikTvd": "463403773089",
+    "uikName": "УИК №1070",
     "tikTvd": "263200081166",
-    "tikName": "Сызранская городская"
+    "tikName": "Сызранская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1071,
     "uikTvd": "463403773090",
+    "uikName": "УИК №1071",
     "tikTvd": "263200081166",
-    "tikName": "Сызранская городская"
+    "tikName": "Сызранская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1072,
     "uikTvd": "463403773091",
+    "uikName": "УИК №1072",
     "tikTvd": "263200081166",
-    "tikName": "Сызранская городская"
+    "tikName": "Сызранская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1073,
     "uikTvd": "463403773092",
+    "uikName": "УИК №1073",
     "tikTvd": "263200081166",
-    "tikName": "Сызранская городская"
+    "tikName": "Сызранская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1074,
     "uikTvd": "463403773093",
+    "uikName": "УИК №1074",
     "tikTvd": "263200081166",
-    "tikName": "Сызранская городская"
+    "tikName": "Сызранская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1075,
     "uikTvd": "463403773094",
+    "uikName": "УИК №1075",
     "tikTvd": "263200081166",
-    "tikName": "Сызранская городская"
+    "tikName": "Сызранская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1076,
     "uikTvd": "463403773095",
+    "uikName": "УИК №1076",
     "tikTvd": "263200081166",
-    "tikName": "Сызранская городская"
+    "tikName": "Сызранская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1077,
     "uikTvd": "463403773096",
+    "uikName": "УИК №1077",
     "tikTvd": "263200081166",
-    "tikName": "Сызранская городская"
+    "tikName": "Сызранская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1078,
     "uikTvd": "463403773097",
+    "uikName": "УИК №1078",
     "tikTvd": "263200081166",
-    "tikName": "Сызранская городская"
+    "tikName": "Сызранская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1079,
     "uikTvd": "463403773098",
+    "uikName": "УИК №1079",
     "tikTvd": "263200081166",
-    "tikName": "Сызранская городская"
+    "tikName": "Сызранская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1080,
     "uikTvd": "463403773099",
+    "uikName": "УИК №1080",
     "tikTvd": "263200081166",
-    "tikName": "Сызранская городская"
+    "tikName": "Сызранская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1081,
     "uikTvd": "463403773100",
+    "uikName": "УИК №1081",
     "tikTvd": "263200081166",
-    "tikName": "Сызранская городская"
+    "tikName": "Сызранская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1082,
     "uikTvd": "463403773101",
+    "uikName": "УИК №1082",
     "tikTvd": "263200081166",
-    "tikName": "Сызранская городская"
+    "tikName": "Сызранская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1083,
     "uikTvd": "463403773102",
+    "uikName": "УИК №1083",
     "tikTvd": "263200081166",
-    "tikName": "Сызранская городская"
+    "tikName": "Сызранская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1084,
     "uikTvd": "463403773103",
+    "uikName": "УИК №1084",
     "tikTvd": "263200081166",
-    "tikName": "Сызранская городская"
+    "tikName": "Сызранская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1085,
     "uikTvd": "463403773104",
+    "uikName": "УИК №1085",
     "tikTvd": "263200081166",
-    "tikName": "Сызранская городская"
+    "tikName": "Сызранская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1086,
     "uikTvd": "463403773105",
+    "uikName": "УИК №1086",
     "tikTvd": "263200081166",
-    "tikName": "Сызранская городская"
+    "tikName": "Сызранская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1087,
     "uikTvd": "463403773106",
+    "uikName": "УИК №1087",
     "tikTvd": "263200081166",
-    "tikName": "Сызранская городская"
+    "tikName": "Сызранская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1088,
     "uikTvd": "463403773107",
+    "uikName": "УИК №1088",
     "tikTvd": "263200081166",
-    "tikName": "Сызранская городская"
+    "tikName": "Сызранская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1089,
     "uikTvd": "463403773108",
+    "uikName": "УИК №1089",
     "tikTvd": "263200081166",
-    "tikName": "Сызранская городская"
+    "tikName": "Сызранская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1090,
     "uikTvd": "463403773109",
+    "uikName": "УИК №1090",
     "tikTvd": "263200081166",
-    "tikName": "Сызранская городская"
+    "tikName": "Сызранская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1091,
     "uikTvd": "463403773110",
+    "uikName": "УИК №1091",
     "tikTvd": "263200081166",
-    "tikName": "Сызранская городская"
+    "tikName": "Сызранская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1092,
     "uikTvd": "463403773111",
+    "uikName": "УИК №1092",
     "tikTvd": "263200081166",
-    "tikName": "Сызранская городская"
+    "tikName": "Сызранская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1093,
     "uikTvd": "463403773112",
+    "uikName": "УИК №1093",
     "tikTvd": "263200081166",
-    "tikName": "Сызранская городская"
+    "tikName": "Сызранская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1094,
     "uikTvd": "463403773113",
+    "uikName": "УИК №1094",
     "tikTvd": "263200081166",
-    "tikName": "Сызранская городская"
+    "tikName": "Сызранская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1095,
     "uikTvd": "463403773114",
+    "uikName": "УИК №1095",
     "tikTvd": "263200081166",
-    "tikName": "Сызранская городская"
+    "tikName": "Сызранская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1096,
     "uikTvd": "463403773115",
+    "uikName": "УИК №1096",
     "tikTvd": "263200081166",
-    "tikName": "Сызранская городская"
+    "tikName": "Сызранская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1097,
     "uikTvd": "463403773116",
+    "uikName": "УИК №1097",
     "tikTvd": "263200081166",
-    "tikName": "Сызранская городская"
+    "tikName": "Сызранская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1098,
     "uikTvd": "463403773117",
+    "uikName": "УИК №1098",
     "tikTvd": "263200081166",
-    "tikName": "Сызранская городская"
+    "tikName": "Сызранская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1099,
     "uikTvd": "463403773118",
+    "uikName": "УИК №1099",
     "tikTvd": "263200081166",
-    "tikName": "Сызранская городская"
+    "tikName": "Сызранская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1100,
     "uikTvd": "463403773119",
+    "uikName": "УИК №1100",
     "tikTvd": "263200081166",
-    "tikName": "Сызранская городская"
+    "tikName": "Сызранская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1101,
     "uikTvd": "463403773120",
+    "uikName": "УИК №1101",
     "tikTvd": "263200081166",
-    "tikName": "Сызранская городская"
+    "tikName": "Сызранская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1102,
     "uikTvd": "463403773121",
+    "uikName": "УИК №1102",
     "tikTvd": "263200081166",
-    "tikName": "Сызранская городская"
+    "tikName": "Сызранская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1103,
     "uikTvd": "463403773122",
+    "uikName": "УИК №1103",
     "tikTvd": "263200081166",
-    "tikName": "Сызранская городская"
+    "tikName": "Сызранская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1104,
     "uikTvd": "463403773123",
+    "uikName": "УИК №1104",
     "tikTvd": "263200081166",
-    "tikName": "Сызранская городская"
+    "tikName": "Сызранская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1105,
     "uikTvd": "463403773124",
+    "uikName": "УИК №1105",
     "tikTvd": "263200081166",
-    "tikName": "Сызранская городская"
+    "tikName": "Сызранская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1106,
     "uikTvd": "463403773125",
+    "uikName": "УИК №1106",
     "tikTvd": "263200081166",
-    "tikName": "Сызранская городская"
+    "tikName": "Сызранская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1107,
     "uikTvd": "463403773126",
+    "uikName": "УИК №1107",
     "tikTvd": "263200081166",
-    "tikName": "Сызранская городская"
+    "tikName": "Сызранская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1108,
     "uikTvd": "463403773127",
+    "uikName": "УИК №1108",
     "tikTvd": "263200081166",
-    "tikName": "Сызранская городская"
+    "tikName": "Сызранская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1109,
     "uikTvd": "463403773128",
+    "uikName": "УИК №1109",
     "tikTvd": "263200081166",
-    "tikName": "Сызранская городская"
+    "tikName": "Сызранская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1110,
     "uikTvd": "463403773129",
+    "uikName": "УИК №1110",
     "tikTvd": "263200081166",
-    "tikName": "Сызранская городская"
+    "tikName": "Сызранская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1111,
     "uikTvd": "463403773130",
+    "uikName": "УИК №1111",
     "tikTvd": "263200081166",
-    "tikName": "Сызранская городская"
+    "tikName": "Сызранская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1112,
     "uikTvd": "463403773131",
+    "uikName": "УИК №1112",
     "tikTvd": "263200081166",
-    "tikName": "Сызранская городская"
+    "tikName": "Сызранская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1113,
     "uikTvd": "463403773132",
+    "uikName": "УИК №1113",
     "tikTvd": "263200081166",
-    "tikName": "Сызранская городская"
+    "tikName": "Сызранская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1114,
     "uikTvd": "463403773133",
+    "uikName": "УИК №1114",
     "tikTvd": "263200081166",
-    "tikName": "Сызранская городская"
+    "tikName": "Сызранская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1115,
     "uikTvd": "463403773134",
+    "uikName": "УИК №1115",
     "tikTvd": "263200081166",
-    "tikName": "Сызранская городская"
+    "tikName": "Сызранская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1116,
     "uikTvd": "463403773135",
+    "uikName": "УИК №1116",
     "tikTvd": "263200081166",
-    "tikName": "Сызранская городская"
+    "tikName": "Сызранская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1117,
     "uikTvd": "463403773136",
+    "uikName": "УИК №1117",
     "tikTvd": "263200081166",
-    "tikName": "Сызранская городская"
+    "tikName": "Сызранская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1118,
     "uikTvd": "463403773137",
+    "uikName": "УИК №1118",
     "tikTvd": "263200081166",
-    "tikName": "Сызранская городская"
+    "tikName": "Сызранская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1119,
     "uikTvd": "463403773138",
+    "uikName": "УИК №1119",
     "tikTvd": "263200081166",
-    "tikName": "Сызранская городская"
+    "tikName": "Сызранская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1120,
     "uikTvd": "463403773139",
+    "uikName": "УИК №1120",
     "tikTvd": "263200081166",
-    "tikName": "Сызранская городская"
+    "tikName": "Сызранская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1121,
     "uikTvd": "463403773140",
+    "uikName": "УИК №1121",
     "tikTvd": "263200081166",
-    "tikName": "Сызранская городская"
+    "tikName": "Сызранская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1122,
     "uikTvd": "463403773141",
+    "uikName": "УИК №1122",
     "tikTvd": "263200081166",
-    "tikName": "Сызранская городская"
+    "tikName": "Сызранская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1123,
     "uikTvd": "463403773142",
+    "uikName": "УИК №1123",
     "tikTvd": "263200081166",
-    "tikName": "Сызранская городская"
+    "tikName": "Сызранская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1124,
     "uikTvd": "463403773143",
+    "uikName": "УИК №1124",
     "tikTvd": "263200081166",
-    "tikName": "Сызранская городская"
+    "tikName": "Сызранская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1125,
     "uikTvd": "463403773144",
+    "uikName": "УИК №1125",
     "tikTvd": "263200081166",
-    "tikName": "Сызранская городская"
+    "tikName": "Сызранская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1126,
     "uikTvd": "463403773145",
+    "uikName": "УИК №1126",
     "tikTvd": "263200081166",
-    "tikName": "Сызранская городская"
+    "tikName": "Сызранская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1127,
     "uikTvd": "463403773146",
+    "uikName": "УИК №1127",
     "tikTvd": "263200081166",
-    "tikName": "Сызранская городская"
+    "tikName": "Сызранская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1128,
     "uikTvd": "463403773147",
+    "uikName": "УИК №1128",
     "tikTvd": "263200081166",
-    "tikName": "Сызранская городская"
+    "tikName": "Сызранская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1129,
     "uikTvd": "463403773148",
+    "uikName": "УИК №1129",
     "tikTvd": "263200081166",
-    "tikName": "Сызранская городская"
+    "tikName": "Сызранская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1130,
     "uikTvd": "463403773149",
+    "uikName": "УИК №1130",
     "tikTvd": "263200081166",
-    "tikName": "Сызранская городская"
+    "tikName": "Сызранская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1131,
     "uikTvd": "463403773150",
+    "uikName": "УИК №1131",
     "tikTvd": "263200081166",
-    "tikName": "Сызранская городская"
+    "tikName": "Сызранская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1132,
     "uikTvd": "463403773151",
+    "uikName": "УИК №1132",
     "tikTvd": "263200081166",
-    "tikName": "Сызранская городская"
+    "tikName": "Сызранская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1133,
     "uikTvd": "463403773152",
+    "uikName": "УИК №1133",
     "tikTvd": "263200081166",
-    "tikName": "Сызранская городская"
+    "tikName": "Сызранская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1134,
     "uikTvd": "463403773153",
+    "uikName": "УИК №1134",
     "tikTvd": "263200081166",
-    "tikName": "Сызранская городская"
+    "tikName": "Сызранская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1135,
     "uikTvd": "463403773154",
+    "uikName": "УИК №1135",
     "tikTvd": "263200081166",
-    "tikName": "Сызранская городская"
+    "tikName": "Сызранская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1136,
     "uikTvd": "463403773155",
+    "uikName": "УИК №1136",
     "tikTvd": "263200081166",
-    "tikName": "Сызранская городская"
+    "tikName": "Сызранская городская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1137,
     "uikTvd": "463400171431",
+    "uikName": "УИК №1137",
     "tikTvd": "263200081139",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1138,
     "uikTvd": "463400171432",
+    "uikName": "УИК №1138",
     "tikTvd": "263200081139",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1139,
     "uikTvd": "463400171433",
+    "uikName": "УИК №1139",
     "tikTvd": "263200081139",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1140,
     "uikTvd": "463400171434",
+    "uikName": "УИК №1140",
     "tikTvd": "263200081139",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1141,
     "uikTvd": "463400171435",
+    "uikName": "УИК №1141",
     "tikTvd": "263200081139",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1142,
     "uikTvd": "463400171436",
+    "uikName": "УИК №1142",
     "tikTvd": "263200081139",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1143,
     "uikTvd": "463400171437",
+    "uikName": "УИК №1143",
     "tikTvd": "263200081139",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1144,
     "uikTvd": "463400171438",
+    "uikName": "УИК №1144",
     "tikTvd": "263200081139",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1145,
     "uikTvd": "463400171439",
+    "uikName": "УИК №1145",
     "tikTvd": "263200081139",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1146,
     "uikTvd": "463400171440",
+    "uikName": "УИК №1146",
     "tikTvd": "263200081139",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1147,
     "uikTvd": "463400171441",
+    "uikName": "УИК №1147",
     "tikTvd": "263200081139",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1148,
     "uikTvd": "463400171442",
+    "uikName": "УИК №1148",
     "tikTvd": "263200081139",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1149,
     "uikTvd": "463400171443",
+    "uikName": "УИК №1149",
     "tikTvd": "263200081139",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1150,
     "uikTvd": "463400171444",
+    "uikName": "УИК №1150",
     "tikTvd": "263200081139",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1151,
     "uikTvd": "463400171445",
+    "uikName": "УИК №1151",
     "tikTvd": "263200081139",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1152,
     "uikTvd": "463400171446",
+    "uikName": "УИК №1152",
     "tikTvd": "263200081139",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1153,
     "uikTvd": "463400171447",
+    "uikName": "УИК №1153",
     "tikTvd": "263200081139",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1154,
     "uikTvd": "463400171448",
+    "uikName": "УИК №1154",
     "tikTvd": "263200081139",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1155,
     "uikTvd": "463400171449",
+    "uikName": "УИК №1155",
     "tikTvd": "263200081139",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1156,
     "uikTvd": "463400171450",
+    "uikName": "УИК №1156",
     "tikTvd": "263200081139",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1157,
     "uikTvd": "463400171451",
+    "uikName": "УИК №1157",
     "tikTvd": "263200081139",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1158,
     "uikTvd": "463400171452",
+    "uikName": "УИК №1158",
     "tikTvd": "263200081139",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1159,
     "uikTvd": "463400171453",
+    "uikName": "УИК №1159",
     "tikTvd": "263200081139",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1160,
     "uikTvd": "463400171454",
+    "uikName": "УИК №1160",
     "tikTvd": "263200081139",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1161,
     "uikTvd": "463400171455",
+    "uikName": "УИК №1161",
     "tikTvd": "263200081139",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1162,
     "uikTvd": "463400171456",
+    "uikName": "УИК №1162",
     "tikTvd": "263200081139",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1163,
     "uikTvd": "463400271630",
+    "uikName": "УИК №1163",
     "tikTvd": "263200081138",
-    "tikName": "Безенчукская"
+    "tikName": "Безенчукская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1164,
     "uikTvd": "463400271631",
+    "uikName": "УИК №1164",
     "tikTvd": "263200081138",
-    "tikName": "Безенчукская"
+    "tikName": "Безенчукская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1165,
     "uikTvd": "463400271632",
+    "uikName": "УИК №1165",
     "tikTvd": "263200081138",
-    "tikName": "Безенчукская"
+    "tikName": "Безенчукская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1166,
     "uikTvd": "463400271633",
+    "uikName": "УИК №1166",
     "tikTvd": "263200081138",
-    "tikName": "Безенчукская"
+    "tikName": "Безенчукская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1167,
     "uikTvd": "463400271634",
+    "uikName": "УИК №1167",
     "tikTvd": "263200081138",
-    "tikName": "Безенчукская"
+    "tikName": "Безенчукская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1168,
     "uikTvd": "463400271635",
+    "uikName": "УИК №1168",
     "tikTvd": "263200081138",
-    "tikName": "Безенчукская"
+    "tikName": "Безенчукская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1169,
     "uikTvd": "463400271636",
+    "uikName": "УИК №1169",
     "tikTvd": "263200081138",
-    "tikName": "Безенчукская"
+    "tikName": "Безенчукская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1170,
     "uikTvd": "463400271637",
+    "uikName": "УИК №1170",
     "tikTvd": "263200081138",
-    "tikName": "Безенчукская"
+    "tikName": "Безенчукская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1171,
     "uikTvd": "463400271638",
+    "uikName": "УИК №1171",
     "tikTvd": "263200081138",
-    "tikName": "Безенчукская"
+    "tikName": "Безенчукская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1172,
     "uikTvd": "463400271639",
+    "uikName": "УИК №1172",
     "tikTvd": "263200081138",
-    "tikName": "Безенчукская"
+    "tikName": "Безенчукская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1173,
     "uikTvd": "463400271640",
+    "uikName": "УИК №1173",
     "tikTvd": "263200081138",
-    "tikName": "Безенчукская"
+    "tikName": "Безенчукская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1174,
     "uikTvd": "463400271641",
+    "uikName": "УИК №1174",
     "tikTvd": "263200081138",
-    "tikName": "Безенчукская"
+    "tikName": "Безенчукская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1175,
     "uikTvd": "463400271642",
+    "uikName": "УИК №1175",
     "tikTvd": "263200081138",
-    "tikName": "Безенчукская"
+    "tikName": "Безенчукская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1176,
     "uikTvd": "463400271643",
+    "uikName": "УИК №1176",
     "tikTvd": "263200081138",
-    "tikName": "Безенчукская"
+    "tikName": "Безенчукская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1177,
     "uikTvd": "463400271644",
+    "uikName": "УИК №1177",
     "tikTvd": "263200081138",
-    "tikName": "Безенчукская"
+    "tikName": "Безенчукская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1178,
     "uikTvd": "463400271645",
+    "uikName": "УИК №1178",
     "tikTvd": "263200081138",
-    "tikName": "Безенчукская"
+    "tikName": "Безенчукская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1179,
     "uikTvd": "463400271646",
+    "uikName": "УИК №1179",
     "tikTvd": "263200081138",
-    "tikName": "Безенчукская"
+    "tikName": "Безенчукская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1180,
     "uikTvd": "463400271647",
+    "uikName": "УИК №1180",
     "tikTvd": "263200081138",
-    "tikName": "Безенчукская"
+    "tikName": "Безенчукская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1181,
     "uikTvd": "463400271648",
+    "uikName": "УИК №1181",
     "tikTvd": "263200081138",
-    "tikName": "Безенчукская"
+    "tikName": "Безенчукская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1182,
     "uikTvd": "463400271649",
+    "uikName": "УИК №1182",
     "tikTvd": "263200081138",
-    "tikName": "Безенчукская"
+    "tikName": "Безенчукская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1183,
     "uikTvd": "463400271650",
+    "uikName": "УИК №1183",
     "tikTvd": "263200081138",
-    "tikName": "Безенчукская"
+    "tikName": "Безенчукская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1184,
     "uikTvd": "463400271651",
+    "uikName": "УИК №1184",
     "tikTvd": "263200081138",
-    "tikName": "Безенчукская"
+    "tikName": "Безенчукская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1185,
     "uikTvd": "463400271652",
+    "uikName": "УИК №1185",
     "tikTvd": "263200081138",
-    "tikName": "Безенчукская"
+    "tikName": "Безенчукская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1186,
     "uikTvd": "463400271653",
+    "uikName": "УИК №1186",
     "tikTvd": "263200081138",
-    "tikName": "Безенчукская"
+    "tikName": "Безенчукская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1187,
     "uikTvd": "463400271654",
+    "uikName": "УИК №1187",
     "tikTvd": "263200081138",
-    "tikName": "Безенчукская"
+    "tikName": "Безенчукская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1188,
     "uikTvd": "463400271655",
+    "uikName": "УИК №1188",
     "tikTvd": "263200081138",
-    "tikName": "Безенчукская"
+    "tikName": "Безенчукская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1189,
     "uikTvd": "463400271656",
+    "uikName": "УИК №1189",
     "tikTvd": "263200081138",
-    "tikName": "Безенчукская"
+    "tikName": "Безенчукская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1190,
     "uikTvd": "463400271657",
+    "uikName": "УИК №1190",
     "tikTvd": "263200081138",
-    "tikName": "Безенчукская"
+    "tikName": "Безенчукская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1191,
     "uikTvd": "463400271658",
+    "uikName": "УИК №1191",
     "tikTvd": "263200081138",
-    "tikName": "Безенчукская"
+    "tikName": "Безенчукская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1192,
     "uikTvd": "463400271659",
+    "uikName": "УИК №1192",
     "tikTvd": "263200081138",
-    "tikName": "Безенчукская"
+    "tikName": "Безенчукская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1193,
     "uikTvd": "463400271660",
+    "uikName": "УИК №1193",
     "tikTvd": "263200081138",
-    "tikName": "Безенчукская"
+    "tikName": "Безенчукская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1194,
     "uikTvd": "463400271661",
+    "uikName": "УИК №1194",
     "tikTvd": "263200081138",
-    "tikName": "Безенчукская"
+    "tikName": "Безенчукская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1195,
     "uikTvd": "463400271662",
+    "uikName": "УИК №1195",
     "tikTvd": "263200081138",
-    "tikName": "Безенчукская"
+    "tikName": "Безенчукская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1196,
     "uikTvd": "463400371186",
+    "uikName": "УИК №1196",
     "tikTvd": "263200081136",
-    "tikName": "Богатовская"
+    "tikName": "Богатовская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1197,
     "uikTvd": "463400371187",
+    "uikName": "УИК №1197",
     "tikTvd": "263200081136",
-    "tikName": "Богатовская"
+    "tikName": "Богатовская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1198,
     "uikTvd": "463400371188",
+    "uikName": "УИК №1198",
     "tikTvd": "263200081136",
-    "tikName": "Богатовская"
+    "tikName": "Богатовская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1199,
     "uikTvd": "463400371189",
+    "uikName": "УИК №1199",
     "tikTvd": "263200081136",
-    "tikName": "Богатовская"
+    "tikName": "Богатовская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1200,
     "uikTvd": "463400371190",
+    "uikName": "УИК №1200",
     "tikTvd": "263200081136",
-    "tikName": "Богатовская"
+    "tikName": "Богатовская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1201,
     "uikTvd": "463400371191",
+    "uikName": "УИК №1201",
     "tikTvd": "263200081136",
-    "tikName": "Богатовская"
+    "tikName": "Богатовская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1202,
     "uikTvd": "463400371192",
+    "uikName": "УИК №1202",
     "tikTvd": "263200081136",
-    "tikName": "Богатовская"
+    "tikName": "Богатовская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1203,
     "uikTvd": "463400371193",
+    "uikName": "УИК №1203",
     "tikTvd": "263200081136",
-    "tikName": "Богатовская"
+    "tikName": "Богатовская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1204,
     "uikTvd": "463400371194",
+    "uikName": "УИК №1204",
     "tikTvd": "263200081136",
-    "tikName": "Богатовская"
+    "tikName": "Богатовская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1205,
     "uikTvd": "463400371195",
+    "uikName": "УИК №1205",
     "tikTvd": "263200081136",
-    "tikName": "Богатовская"
+    "tikName": "Богатовская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1206,
     "uikTvd": "463400371196",
+    "uikName": "УИК №1206",
     "tikTvd": "263200081136",
-    "tikName": "Богатовская"
+    "tikName": "Богатовская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1207,
     "uikTvd": "463400371197",
+    "uikName": "УИК №1207",
     "tikTvd": "263200081136",
-    "tikName": "Богатовская"
+    "tikName": "Богатовская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1208,
     "uikTvd": "463400371198",
+    "uikName": "УИК №1208",
     "tikTvd": "263200081136",
-    "tikName": "Богатовская"
+    "tikName": "Богатовская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1209,
     "uikTvd": "463400371199",
+    "uikName": "УИК №1209",
     "tikTvd": "263200081136",
-    "tikName": "Богатовская"
+    "tikName": "Богатовская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1210,
     "uikTvd": "463400371200",
+    "uikName": "УИК №1210",
     "tikTvd": "263200081136",
-    "tikName": "Богатовская"
+    "tikName": "Богатовская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1211,
     "uikTvd": "463400371201",
+    "uikName": "УИК №1211",
     "tikTvd": "263200081136",
-    "tikName": "Богатовская"
+    "tikName": "Богатовская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1212,
     "uikTvd": "463400371202",
+    "uikName": "УИК №1212",
     "tikTvd": "263200081136",
-    "tikName": "Богатовская"
+    "tikName": "Богатовская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1213,
     "uikTvd": "463400471077",
+    "uikName": "УИК №1213",
     "tikTvd": "263200081135",
-    "tikName": "Большеглушицкая"
+    "tikName": "Большеглушицкая",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1214,
     "uikTvd": "463400471078",
+    "uikName": "УИК №1214",
     "tikTvd": "263200081135",
-    "tikName": "Большеглушицкая"
+    "tikName": "Большеглушицкая",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1215,
     "uikTvd": "463400471079",
+    "uikName": "УИК №1215",
     "tikTvd": "263200081135",
-    "tikName": "Большеглушицкая"
+    "tikName": "Большеглушицкая",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1216,
     "uikTvd": "463400471080",
+    "uikName": "УИК №1216",
     "tikTvd": "263200081135",
-    "tikName": "Большеглушицкая"
+    "tikName": "Большеглушицкая",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1217,
     "uikTvd": "463400471081",
+    "uikName": "УИК №1217",
     "tikTvd": "263200081135",
-    "tikName": "Большеглушицкая"
+    "tikName": "Большеглушицкая",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1218,
     "uikTvd": "463400471082",
+    "uikName": "УИК №1218",
     "tikTvd": "263200081135",
-    "tikName": "Большеглушицкая"
+    "tikName": "Большеглушицкая",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1219,
     "uikTvd": "463400471083",
+    "uikName": "УИК №1219",
     "tikTvd": "263200081135",
-    "tikName": "Большеглушицкая"
+    "tikName": "Большеглушицкая",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1220,
     "uikTvd": "463400471084",
+    "uikName": "УИК №1220",
     "tikTvd": "263200081135",
-    "tikName": "Большеглушицкая"
+    "tikName": "Большеглушицкая",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1221,
     "uikTvd": "463400471085",
+    "uikName": "УИК №1221",
     "tikTvd": "263200081135",
-    "tikName": "Большеглушицкая"
+    "tikName": "Большеглушицкая",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1222,
     "uikTvd": "463400471086",
+    "uikName": "УИК №1222",
     "tikTvd": "263200081135",
-    "tikName": "Большеглушицкая"
+    "tikName": "Большеглушицкая",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1223,
     "uikTvd": "463400471087",
+    "uikName": "УИК №1223",
     "tikTvd": "263200081135",
-    "tikName": "Большеглушицкая"
+    "tikName": "Большеглушицкая",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1224,
     "uikTvd": "463400471088",
+    "uikName": "УИК №1224",
     "tikTvd": "263200081135",
-    "tikName": "Большеглушицкая"
+    "tikName": "Большеглушицкая",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1225,
     "uikTvd": "463400471089",
+    "uikName": "УИК №1225",
     "tikTvd": "263200081135",
-    "tikName": "Большеглушицкая"
+    "tikName": "Большеглушицкая",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1226,
     "uikTvd": "463400471090",
+    "uikName": "УИК №1226",
     "tikTvd": "263200081135",
-    "tikName": "Большеглушицкая"
+    "tikName": "Большеглушицкая",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1227,
     "uikTvd": "463400471091",
+    "uikName": "УИК №1227",
     "tikTvd": "263200081135",
-    "tikName": "Большеглушицкая"
+    "tikName": "Большеглушицкая",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1228,
     "uikTvd": "463400471092",
+    "uikName": "УИК №1228",
     "tikTvd": "263200081135",
-    "tikName": "Большеглушицкая"
+    "tikName": "Большеглушицкая",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1229,
     "uikTvd": "463400471093",
+    "uikName": "УИК №1229",
     "tikTvd": "263200081135",
-    "tikName": "Большеглушицкая"
+    "tikName": "Большеглушицкая",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1230,
     "uikTvd": "463400471094",
+    "uikName": "УИК №1230",
     "tikTvd": "263200081135",
-    "tikName": "Большеглушицкая"
+    "tikName": "Большеглушицкая",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1231,
     "uikTvd": "463400471095",
+    "uikName": "УИК №1231",
     "tikTvd": "263200081135",
-    "tikName": "Большеглушицкая"
+    "tikName": "Большеглушицкая",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1232,
     "uikTvd": "463400471096",
+    "uikName": "УИК №1232",
     "tikTvd": "263200081135",
-    "tikName": "Большеглушицкая"
+    "tikName": "Большеглушицкая",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1233,
     "uikTvd": "463400471097",
+    "uikName": "УИК №1233",
     "tikTvd": "263200081135",
-    "tikName": "Большеглушицкая"
+    "tikName": "Большеглушицкая",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1234,
     "uikTvd": "463400471098",
+    "uikName": "УИК №1234",
     "tikTvd": "263200081135",
-    "tikName": "Большеглушицкая"
+    "tikName": "Большеглушицкая",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1235,
     "uikTvd": "463400471099",
+    "uikName": "УИК №1235",
     "tikTvd": "263200081135",
-    "tikName": "Большеглушицкая"
+    "tikName": "Большеглушицкая",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1236,
     "uikTvd": "463400471100",
+    "uikName": "УИК №1236",
     "tikTvd": "263200081135",
-    "tikName": "Большеглушицкая"
+    "tikName": "Большеглушицкая",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1237,
     "uikTvd": "463400471101",
+    "uikName": "УИК №1237",
     "tikTvd": "263200081135",
-    "tikName": "Большеглушицкая"
+    "tikName": "Большеглушицкая",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1238,
     "uikTvd": "463400471102",
+    "uikName": "УИК №1238",
     "tikTvd": "263200081135",
-    "tikName": "Большеглушицкая"
+    "tikName": "Большеглушицкая",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1239,
     "uikTvd": "463400471103",
+    "uikName": "УИК №1239",
     "tikTvd": "263200081135",
-    "tikName": "Большеглушицкая"
+    "tikName": "Большеглушицкая",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1240,
     "uikTvd": "463400471104",
+    "uikName": "УИК №1240",
     "tikTvd": "263200081135",
-    "tikName": "Большеглушицкая"
+    "tikName": "Большеглушицкая",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1241,
     "uikTvd": "463400571493",
+    "uikName": "УИК  1241",
     "tikTvd": "263200081137",
-    "tikName": "Большечерниговская"
+    "tikName": "Большечерниговская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1242,
     "uikTvd": "463400571494",
+    "uikName": "УИК  1242",
     "tikTvd": "263200081137",
-    "tikName": "Большечерниговская"
+    "tikName": "Большечерниговская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1243,
     "uikTvd": "463400571495",
+    "uikName": "УИК  1243",
     "tikTvd": "263200081137",
-    "tikName": "Большечерниговская"
+    "tikName": "Большечерниговская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1244,
     "uikTvd": "463400571496",
+    "uikName": "УИК  1244",
     "tikTvd": "263200081137",
-    "tikName": "Большечерниговская"
+    "tikName": "Большечерниговская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1245,
     "uikTvd": "463400571497",
+    "uikName": "УИК  1245",
     "tikTvd": "263200081137",
-    "tikName": "Большечерниговская"
+    "tikName": "Большечерниговская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1246,
     "uikTvd": "463400571498",
+    "uikName": "УИК  1246",
     "tikTvd": "263200081137",
-    "tikName": "Большечерниговская"
+    "tikName": "Большечерниговская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1247,
     "uikTvd": "463400571499",
+    "uikName": "УИК  1247",
     "tikTvd": "263200081137",
-    "tikName": "Большечерниговская"
+    "tikName": "Большечерниговская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1248,
     "uikTvd": "463400571500",
+    "uikName": "УИК  1248",
     "tikTvd": "263200081137",
-    "tikName": "Большечерниговская"
+    "tikName": "Большечерниговская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1249,
     "uikTvd": "463400571501",
+    "uikName": "УИК  1249",
     "tikTvd": "263200081137",
-    "tikName": "Большечерниговская"
+    "tikName": "Большечерниговская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1250,
     "uikTvd": "463400571502",
+    "uikName": "УИК  1250",
     "tikTvd": "263200081137",
-    "tikName": "Большечерниговская"
+    "tikName": "Большечерниговская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1251,
     "uikTvd": "463400571503",
+    "uikName": "УИК  1251",
     "tikTvd": "263200081137",
-    "tikName": "Большечерниговская"
+    "tikName": "Большечерниговская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1252,
     "uikTvd": "463400571504",
+    "uikName": "УИК  1252",
     "tikTvd": "263200081137",
-    "tikName": "Большечерниговская"
+    "tikName": "Большечерниговская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1253,
     "uikTvd": "463400571505",
+    "uikName": "УИК  1253",
     "tikTvd": "263200081137",
-    "tikName": "Большечерниговская"
+    "tikName": "Большечерниговская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1254,
     "uikTvd": "463400571506",
+    "uikName": "УИК  1254",
     "tikTvd": "263200081137",
-    "tikName": "Большечерниговская"
+    "tikName": "Большечерниговская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1255,
     "uikTvd": "463400571507",
+    "uikName": "УИК  1255",
     "tikTvd": "263200081137",
-    "tikName": "Большечерниговская"
+    "tikName": "Большечерниговская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1256,
     "uikTvd": "463400571508",
+    "uikName": "УИК  1256",
     "tikTvd": "263200081137",
-    "tikName": "Большечерниговская"
+    "tikName": "Большечерниговская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1257,
     "uikTvd": "463400571509",
+    "uikName": "УИК  1257",
     "tikTvd": "263200081137",
-    "tikName": "Большечерниговская"
+    "tikName": "Большечерниговская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1258,
     "uikTvd": "463400571510",
+    "uikName": "УИК  1258",
     "tikTvd": "263200081137",
-    "tikName": "Большечерниговская"
+    "tikName": "Большечерниговская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1259,
     "uikTvd": "463400571511",
+    "uikName": "УИК  1259",
     "tikTvd": "263200081137",
-    "tikName": "Большечерниговская"
+    "tikName": "Большечерниговская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1260,
     "uikTvd": "463400571512",
+    "uikName": "УИК  1260",
     "tikTvd": "263200081137",
-    "tikName": "Большечерниговская"
+    "tikName": "Большечерниговская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1261,
     "uikTvd": "463400571513",
+    "uikName": "УИК  1261",
     "tikTvd": "263200081137",
-    "tikName": "Большечерниговская"
+    "tikName": "Большечерниговская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1262,
     "uikTvd": "463400571514",
+    "uikName": "УИК  1262",
     "tikTvd": "263200081137",
-    "tikName": "Большечерниговская"
+    "tikName": "Большечерниговская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1263,
     "uikTvd": "463400571515",
+    "uikName": "УИК  1263",
     "tikTvd": "263200081137",
-    "tikName": "Большечерниговская"
+    "tikName": "Большечерниговская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1264,
     "uikTvd": "463400571516",
+    "uikName": "УИК  1264",
     "tikTvd": "263200081137",
-    "tikName": "Большечерниговская"
+    "tikName": "Большечерниговская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1265,
     "uikTvd": "463400571517",
+    "uikName": "УИК  1265",
     "tikTvd": "263200081137",
-    "tikName": "Большечерниговская"
+    "tikName": "Большечерниговская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1266,
     "uikTvd": "463400571518",
+    "uikName": "УИК  1266",
     "tikTvd": "263200081137",
-    "tikName": "Большечерниговская"
+    "tikName": "Большечерниговская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1267,
     "uikTvd": "463400571519",
+    "uikName": "УИК  1267",
     "tikTvd": "263200081137",
-    "tikName": "Большечерниговская"
+    "tikName": "Большечерниговская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1268,
     "uikTvd": "463400571520",
+    "uikName": "УИК  1268",
     "tikTvd": "263200081137",
-    "tikName": "Большечерниговская"
+    "tikName": "Большечерниговская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1269,
     "uikTvd": "463400571521",
+    "uikName": "УИК  1269",
     "tikTvd": "263200081137",
-    "tikName": "Большечерниговская"
+    "tikName": "Большечерниговская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1270,
     "uikTvd": "463400571522",
+    "uikName": "УИК  1270",
     "tikTvd": "263200081137",
-    "tikName": "Большечерниговская"
+    "tikName": "Большечерниговская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1271,
     "uikTvd": "463400671360",
+    "uikName": "УИК №1271",
     "tikTvd": "263200081149",
-    "tikName": "Борская"
+    "tikName": "Борская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1272,
     "uikTvd": "463400671361",
+    "uikName": "УИК №1272",
     "tikTvd": "263200081149",
-    "tikName": "Борская"
+    "tikName": "Борская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1273,
     "uikTvd": "463400671362",
+    "uikName": "УИК №1273",
     "tikTvd": "263200081149",
-    "tikName": "Борская"
+    "tikName": "Борская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1274,
     "uikTvd": "463400671363",
+    "uikName": "УИК №1274",
     "tikTvd": "263200081149",
-    "tikName": "Борская"
+    "tikName": "Борская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1275,
     "uikTvd": "463400671364",
+    "uikName": "УИК №1275",
     "tikTvd": "263200081149",
-    "tikName": "Борская"
+    "tikName": "Борская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1276,
     "uikTvd": "463400671365",
+    "uikName": "УИК №1276",
     "tikTvd": "263200081149",
-    "tikName": "Борская"
+    "tikName": "Борская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1277,
     "uikTvd": "463400671366",
+    "uikName": "УИК №1277",
     "tikTvd": "263200081149",
-    "tikName": "Борская"
+    "tikName": "Борская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1278,
     "uikTvd": "463400671367",
+    "uikName": "УИК №1278",
     "tikTvd": "263200081149",
-    "tikName": "Борская"
+    "tikName": "Борская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1279,
     "uikTvd": "463400671368",
+    "uikName": "УИК №1279",
     "tikTvd": "263200081149",
-    "tikName": "Борская"
+    "tikName": "Борская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1280,
     "uikTvd": "463400671369",
+    "uikName": "УИК №1280",
     "tikTvd": "263200081149",
-    "tikName": "Борская"
+    "tikName": "Борская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1281,
     "uikTvd": "463400671370",
+    "uikName": "УИК №1281",
     "tikTvd": "263200081149",
-    "tikName": "Борская"
+    "tikName": "Борская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1282,
     "uikTvd": "463400671371",
+    "uikName": "УИК №1282",
     "tikTvd": "263200081149",
-    "tikName": "Борская"
+    "tikName": "Борская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1283,
     "uikTvd": "463400671372",
+    "uikName": "УИК №1283",
     "tikTvd": "263200081149",
-    "tikName": "Борская"
+    "tikName": "Борская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1284,
     "uikTvd": "463400671373",
+    "uikName": "УИК №1284",
     "tikTvd": "263200081149",
-    "tikName": "Борская"
+    "tikName": "Борская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1285,
     "uikTvd": "463400671374",
+    "uikName": "УИК №1285",
     "tikTvd": "263200081149",
-    "tikName": "Борская"
+    "tikName": "Борская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1286,
     "uikTvd": "463400671375",
+    "uikName": "УИК №1286",
     "tikTvd": "263200081149",
-    "tikName": "Борская"
+    "tikName": "Борская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1287,
     "uikTvd": "463400671376",
+    "uikName": "УИК №1287",
     "tikTvd": "263200081149",
-    "tikName": "Борская"
+    "tikName": "Борская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1288,
     "uikTvd": "463400671377",
+    "uikName": "УИК №1288",
     "tikTvd": "263200081149",
-    "tikName": "Борская"
+    "tikName": "Борская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1289,
     "uikTvd": "463400671378",
+    "uikName": "УИК №1289",
     "tikTvd": "263200081149",
-    "tikName": "Борская"
+    "tikName": "Борская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1290,
     "uikTvd": "463400671379",
+    "uikName": "УИК №1290",
     "tikTvd": "263200081149",
-    "tikName": "Борская"
+    "tikName": "Борская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1291,
     "uikTvd": "463400671380",
+    "uikName": "УИК №1291",
     "tikTvd": "263200081149",
-    "tikName": "Борская"
+    "tikName": "Борская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1292,
     "uikTvd": "463400671381",
+    "uikName": "УИК №1292",
     "tikTvd": "263200081149",
-    "tikName": "Борская"
+    "tikName": "Борская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1293,
     "uikTvd": "463400671382",
+    "uikName": "УИК №1293",
     "tikTvd": "263200081149",
-    "tikName": "Борская"
+    "tikName": "Борская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1294,
     "uikTvd": "463400671383",
+    "uikName": "УИК №1294",
     "tikTvd": "263200081149",
-    "tikName": "Борская"
+    "tikName": "Борская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1295,
     "uikTvd": "463400671384",
+    "uikName": "УИК №1295",
     "tikTvd": "263200081149",
-    "tikName": "Борская"
+    "tikName": "Борская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1296,
     "uikTvd": "463400671385",
+    "uikName": "УИК №1296",
     "tikTvd": "263200081149",
-    "tikName": "Борская"
+    "tikName": "Борская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1297,
     "uikTvd": "463400671386",
+    "uikName": "УИК №1297",
     "tikTvd": "263200081149",
-    "tikName": "Борская"
+    "tikName": "Борская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1298,
     "uikTvd": "463400671387",
+    "uikName": "УИК №1298",
     "tikTvd": "263200081149",
-    "tikName": "Борская"
+    "tikName": "Борская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1299,
     "uikTvd": "463400671388",
+    "uikName": "УИК №1299",
     "tikTvd": "263200081149",
-    "tikName": "Борская"
+    "tikName": "Борская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1300,
     "uikTvd": "463400671389",
+    "uikName": "УИК №1300",
     "tikTvd": "263200081149",
-    "tikName": "Борская"
+    "tikName": "Борская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1301,
     "uikTvd": "463401672152",
+    "uikName": "УИК №1301",
     "tikTvd": "263200081140",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1302,
     "uikTvd": "463401672153",
+    "uikName": "УИК №1302",
     "tikTvd": "263200081140",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1303,
     "uikTvd": "463401672154",
+    "uikName": "УИК №1303",
     "tikTvd": "263200081140",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1304,
     "uikTvd": "463401672155",
+    "uikName": "УИК №1304",
     "tikTvd": "263200081140",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1305,
     "uikTvd": "463401672156",
+    "uikName": "УИК №1305",
     "tikTvd": "263200081140",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1306,
     "uikTvd": "463401672157",
+    "uikName": "УИК №1306",
     "tikTvd": "263200081140",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1307,
     "uikTvd": "463401672158",
+    "uikName": "УИК №1307",
     "tikTvd": "263200081140",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1308,
     "uikTvd": "463401672159",
+    "uikName": "УИК №1308",
     "tikTvd": "263200081140",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1309,
     "uikTvd": "463401672160",
+    "uikName": "УИК №1309",
     "tikTvd": "263200081140",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1310,
     "uikTvd": "463401672161",
+    "uikName": "УИК №1310",
     "tikTvd": "263200081140",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1311,
     "uikTvd": "463401672162",
+    "uikName": "УИК №1311",
     "tikTvd": "263200081140",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1312,
     "uikTvd": "463401672163",
+    "uikName": "УИК №1312",
     "tikTvd": "263200081140",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1313,
     "uikTvd": "463401672164",
+    "uikName": "УИК №1313",
     "tikTvd": "263200081140",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1314,
     "uikTvd": "463401672165",
+    "uikName": "УИК №1314",
     "tikTvd": "263200081140",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1315,
     "uikTvd": "463401672166",
+    "uikName": "УИК №1315",
     "tikTvd": "263200081140",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1316,
     "uikTvd": "463401672167",
+    "uikName": "УИК №1316",
     "tikTvd": "263200081140",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1317,
     "uikTvd": "463401672168",
+    "uikName": "УИК №1317",
     "tikTvd": "263200081140",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1318,
     "uikTvd": "463401672169",
+    "uikName": "УИК №1318",
     "tikTvd": "263200081140",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1319,
     "uikTvd": "463401672170",
+    "uikName": "УИК №1319",
     "tikTvd": "263200081140",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1320,
     "uikTvd": "463401672171",
+    "uikName": "УИК №1320",
     "tikTvd": "263200081140",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1321,
     "uikTvd": "463401672172",
+    "uikName": "УИК №1321",
     "tikTvd": "263200081140",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1322,
     "uikTvd": "463401672173",
+    "uikName": "УИК №1322",
     "tikTvd": "263200081140",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1323,
     "uikTvd": "463401672174",
+    "uikName": "УИК №1323",
     "tikTvd": "263200081140",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1324,
     "uikTvd": "463401672175",
+    "uikName": "УИК №1324",
     "tikTvd": "263200081140",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1325,
     "uikTvd": "463401672176",
+    "uikName": "УИК №1325",
     "tikTvd": "263200081140",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1326,
     "uikTvd": "463401672177",
+    "uikName": "УИК №1326",
     "tikTvd": "263200081140",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1327,
     "uikTvd": "463401672150",
+    "uikName": "УИК №1327",
     "tikTvd": "263200081140",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1328,
     "uikTvd": "463401871226",
+    "uikName": "УИК №1328",
     "tikTvd": "263200081165",
-    "tikName": "Нефтегорская"
+    "tikName": "Нефтегорская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1329,
     "uikTvd": "463401871227",
+    "uikName": "УИК №1329",
     "tikTvd": "263200081165",
-    "tikName": "Нефтегорская"
+    "tikName": "Нефтегорская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1330,
     "uikTvd": "463401871228",
+    "uikName": "УИК №1330",
     "tikTvd": "263200081165",
-    "tikName": "Нефтегорская"
+    "tikName": "Нефтегорская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1331,
     "uikTvd": "463401871229",
+    "uikName": "УИК №1331",
     "tikTvd": "263200081165",
-    "tikName": "Нефтегорская"
+    "tikName": "Нефтегорская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1332,
     "uikTvd": "463401871230",
+    "uikName": "УИК №1332",
     "tikTvd": "263200081165",
-    "tikName": "Нефтегорская"
+    "tikName": "Нефтегорская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1333,
     "uikTvd": "463401871231",
+    "uikName": "УИК №1333",
     "tikTvd": "263200081165",
-    "tikName": "Нефтегорская"
+    "tikName": "Нефтегорская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1334,
     "uikTvd": "463401871232",
+    "uikName": "УИК №1334",
     "tikTvd": "263200081165",
-    "tikName": "Нефтегорская"
+    "tikName": "Нефтегорская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1335,
     "uikTvd": "463401871233",
+    "uikName": "УИК №1335",
     "tikTvd": "263200081165",
-    "tikName": "Нефтегорская"
+    "tikName": "Нефтегорская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1336,
     "uikTvd": "463401871234",
+    "uikName": "УИК №1336",
     "tikTvd": "263200081165",
-    "tikName": "Нефтегорская"
+    "tikName": "Нефтегорская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1337,
     "uikTvd": "463401871235",
+    "uikName": "УИК №1337",
     "tikTvd": "263200081165",
-    "tikName": "Нефтегорская"
+    "tikName": "Нефтегорская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1338,
     "uikTvd": "463401871236",
+    "uikName": "УИК №1338",
     "tikTvd": "263200081165",
-    "tikName": "Нефтегорская"
+    "tikName": "Нефтегорская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1339,
     "uikTvd": "463401871237",
+    "uikName": "УИК №1339",
     "tikTvd": "263200081165",
-    "tikName": "Нефтегорская"
+    "tikName": "Нефтегорская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1340,
     "uikTvd": "463401871238",
+    "uikName": "УИК №1340",
     "tikTvd": "263200081165",
-    "tikName": "Нефтегорская"
+    "tikName": "Нефтегорская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1341,
     "uikTvd": "463401871239",
+    "uikName": "УИК №1341",
     "tikTvd": "263200081165",
-    "tikName": "Нефтегорская"
+    "tikName": "Нефтегорская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1342,
     "uikTvd": "463401871240",
+    "uikName": "УИК №1342",
     "tikTvd": "263200081165",
-    "tikName": "Нефтегорская"
+    "tikName": "Нефтегорская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1343,
     "uikTvd": "463401871241",
+    "uikName": "УИК №1343",
     "tikTvd": "263200081165",
-    "tikName": "Нефтегорская"
+    "tikName": "Нефтегорская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1344,
     "uikTvd": "463401871242",
+    "uikName": "УИК №1344",
     "tikTvd": "263200081165",
-    "tikName": "Нефтегорская"
+    "tikName": "Нефтегорская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1345,
     "uikTvd": "463401871243",
+    "uikName": "УИК №1345",
     "tikTvd": "263200081165",
-    "tikName": "Нефтегорская"
+    "tikName": "Нефтегорская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1346,
     "uikTvd": "463401871244",
+    "uikName": "УИК №1346",
     "tikTvd": "263200081165",
-    "tikName": "Нефтегорская"
+    "tikName": "Нефтегорская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1347,
     "uikTvd": "463401871245",
+    "uikName": "УИК №1347",
     "tikTvd": "263200081165",
-    "tikName": "Нефтегорская"
+    "tikName": "Нефтегорская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1348,
     "uikTvd": "463401871246",
+    "uikName": "УИК №1348",
     "tikTvd": "263200081165",
-    "tikName": "Нефтегорская"
+    "tikName": "Нефтегорская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1349,
     "uikTvd": "463402270953",
+    "uikName": "УИК №1349",
     "tikTvd": "263200081160",
-    "tikName": "Пестравская"
+    "tikName": "Пестравская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1350,
     "uikTvd": "463402270954",
+    "uikName": "УИК №1350",
     "tikTvd": "263200081160",
-    "tikName": "Пестравская"
+    "tikName": "Пестравская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1351,
     "uikTvd": "463402270955",
+    "uikName": "УИК №1351",
     "tikTvd": "263200081160",
-    "tikName": "Пестравская"
+    "tikName": "Пестравская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1352,
     "uikTvd": "463402270956",
+    "uikName": "УИК №1352",
     "tikTvd": "263200081160",
-    "tikName": "Пестравская"
+    "tikName": "Пестравская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1353,
     "uikTvd": "463402270957",
+    "uikName": "УИК №1353",
     "tikTvd": "263200081160",
-    "tikName": "Пестравская"
+    "tikName": "Пестравская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1354,
     "uikTvd": "463402270958",
+    "uikName": "УИК №1354",
     "tikTvd": "263200081160",
-    "tikName": "Пестравская"
+    "tikName": "Пестравская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1355,
     "uikTvd": "463402270959",
+    "uikName": "УИК №1355",
     "tikTvd": "263200081160",
-    "tikName": "Пестравская"
+    "tikName": "Пестравская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1356,
     "uikTvd": "463402270960",
+    "uikName": "УИК №1356",
     "tikTvd": "263200081160",
-    "tikName": "Пестравская"
+    "tikName": "Пестравская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1357,
     "uikTvd": "463402270961",
+    "uikName": "УИК №1357",
     "tikTvd": "263200081160",
-    "tikName": "Пестравская"
+    "tikName": "Пестравская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1358,
     "uikTvd": "463402270962",
+    "uikName": "УИК №1358",
     "tikTvd": "263200081160",
-    "tikName": "Пестравская"
+    "tikName": "Пестравская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1359,
     "uikTvd": "463402270963",
+    "uikName": "УИК №1359",
     "tikTvd": "263200081160",
-    "tikName": "Пестравская"
+    "tikName": "Пестравская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1360,
     "uikTvd": "463402270964",
+    "uikName": "УИК №1360",
     "tikTvd": "263200081160",
-    "tikName": "Пестравская"
+    "tikName": "Пестравская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1361,
     "uikTvd": "463402270965",
+    "uikName": "УИК №1361",
     "tikTvd": "263200081160",
-    "tikName": "Пестравская"
+    "tikName": "Пестравская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1362,
     "uikTvd": "463402270966",
+    "uikName": "УИК №1362",
     "tikTvd": "263200081160",
-    "tikName": "Пестравская"
+    "tikName": "Пестравская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1363,
     "uikTvd": "463402270967",
+    "uikName": "УИК №1363",
     "tikTvd": "263200081160",
-    "tikName": "Пестравская"
+    "tikName": "Пестравская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1364,
     "uikTvd": "463402270968",
+    "uikName": "УИК №1364",
     "tikTvd": "263200081160",
-    "tikName": "Пестравская"
+    "tikName": "Пестравская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1365,
     "uikTvd": "463402270969",
+    "uikName": "УИК №1365",
     "tikTvd": "263200081160",
-    "tikName": "Пестравская"
+    "tikName": "Пестравская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1366,
     "uikTvd": "463402270970",
+    "uikName": "УИК №1366",
     "tikTvd": "263200081160",
-    "tikName": "Пестравская"
+    "tikName": "Пестравская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1367,
     "uikTvd": "463402270971",
+    "uikName": "УИК №1367",
     "tikTvd": "263200081160",
-    "tikName": "Пестравская"
+    "tikName": "Пестравская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1368,
     "uikTvd": "463402270972",
+    "uikName": "УИК №1368",
     "tikTvd": "263200081160",
-    "tikName": "Пестравская"
+    "tikName": "Пестравская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1369,
     "uikTvd": "463402270973",
+    "uikName": "УИК №1369",
     "tikTvd": "263200081160",
-    "tikName": "Пестравская"
+    "tikName": "Пестравская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1370,
     "uikTvd": "463402270974",
+    "uikName": "УИК №1370",
     "tikTvd": "263200081160",
-    "tikName": "Пестравская"
+    "tikName": "Пестравская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1371,
     "uikTvd": "463402471206",
+    "uikName": "УИК №1371",
     "tikTvd": "263200081156",
-    "tikName": "Приволжская"
+    "tikName": "Приволжская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1372,
     "uikTvd": "463402471207",
+    "uikName": "УИК №1372",
     "tikTvd": "263200081156",
-    "tikName": "Приволжская"
+    "tikName": "Приволжская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1373,
     "uikTvd": "463402471208",
+    "uikName": "УИК №1373",
     "tikTvd": "263200081156",
-    "tikName": "Приволжская"
+    "tikName": "Приволжская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1374,
     "uikTvd": "463402471209",
+    "uikName": "УИК №1374",
     "tikTvd": "263200081156",
-    "tikName": "Приволжская"
+    "tikName": "Приволжская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1375,
     "uikTvd": "463402471210",
+    "uikName": "УИК №1375",
     "tikTvd": "263200081156",
-    "tikName": "Приволжская"
+    "tikName": "Приволжская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1376,
     "uikTvd": "463402471211",
+    "uikName": "УИК №1376",
     "tikTvd": "263200081156",
-    "tikName": "Приволжская"
+    "tikName": "Приволжская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1377,
     "uikTvd": "463402471212",
+    "uikName": "УИК №1377",
     "tikTvd": "263200081156",
-    "tikName": "Приволжская"
+    "tikName": "Приволжская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1378,
     "uikTvd": "463402471213",
+    "uikName": "УИК №1378",
     "tikTvd": "263200081156",
-    "tikName": "Приволжская"
+    "tikName": "Приволжская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1379,
     "uikTvd": "463402471214",
+    "uikName": "УИК №1379",
     "tikTvd": "263200081156",
-    "tikName": "Приволжская"
+    "tikName": "Приволжская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1380,
     "uikTvd": "463402471215",
+    "uikName": "УИК №1380",
     "tikTvd": "263200081156",
-    "tikName": "Приволжская"
+    "tikName": "Приволжская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1381,
     "uikTvd": "463402471216",
+    "uikName": "УИК №1381",
     "tikTvd": "263200081156",
-    "tikName": "Приволжская"
+    "tikName": "Приволжская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1382,
     "uikTvd": "463402471217",
+    "uikName": "УИК №1382",
     "tikTvd": "263200081156",
-    "tikName": "Приволжская"
+    "tikName": "Приволжская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1383,
     "uikTvd": "463402471218",
+    "uikName": "УИК №1383",
     "tikTvd": "263200081156",
-    "tikName": "Приволжская"
+    "tikName": "Приволжская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1384,
     "uikTvd": "463402471219",
+    "uikName": "УИК №1384",
     "tikTvd": "263200081156",
-    "tikName": "Приволжская"
+    "tikName": "Приволжская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1385,
     "uikTvd": "463402471220",
+    "uikName": "УИК №1385",
     "tikTvd": "263200081156",
-    "tikName": "Приволжская"
+    "tikName": "Приволжская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1386,
     "uikTvd": "463402471221",
+    "uikName": "УИК №1386",
     "tikTvd": "263200081156",
-    "tikName": "Приволжская"
+    "tikName": "Приволжская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1387,
     "uikTvd": "463402471222",
+    "uikName": "УИК №1387",
     "tikTvd": "263200081156",
-    "tikName": "Приволжская"
+    "tikName": "Приволжская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1388,
     "uikTvd": "463402471223",
+    "uikName": "УИК №1388",
     "tikTvd": "263200081156",
-    "tikName": "Приволжская"
+    "tikName": "Приволжская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1389,
     "uikTvd": "463402471224",
+    "uikName": "УИК №1389",
     "tikTvd": "263200081156",
-    "tikName": "Приволжская"
+    "tikName": "Приволжская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1390,
     "uikTvd": "463402471225",
+    "uikName": "УИК №1390",
     "tikTvd": "263200081156",
-    "tikName": "Приволжская"
+    "tikName": "Приволжская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1391,
     "uikTvd": "463402471226",
+    "uikName": "УИК №1391",
     "tikTvd": "263200081156",
-    "tikName": "Приволжская"
+    "tikName": "Приволжская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1392,
     "uikTvd": "463402471227",
+    "uikName": "УИК №1392",
     "tikTvd": "263200081156",
-    "tikName": "Приволжская"
+    "tikName": "Приволжская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1393,
     "uikTvd": "463402471228",
+    "uikName": "УИК №1393",
     "tikTvd": "263200081156",
-    "tikName": "Приволжская"
+    "tikName": "Приволжская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1394,
     "uikTvd": "463402471229",
+    "uikName": "УИК №1394",
     "tikTvd": "263200081156",
-    "tikName": "Приволжская"
+    "tikName": "Приволжская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1395,
     "uikTvd": "463402471230",
+    "uikName": "УИК №1395",
     "tikTvd": "263200081156",
-    "tikName": "Приволжская"
+    "tikName": "Приволжская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1396,
     "uikTvd": "463403571462",
+    "uikName": "УИК №1396",
     "tikTvd": "263200081171",
-    "tikName": "Ставропольская"
+    "tikName": "Ставропольская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1397,
     "uikTvd": "463403571463",
+    "uikName": "УИК №1397",
     "tikTvd": "263200081171",
-    "tikName": "Ставропольская"
+    "tikName": "Ставропольская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1398,
     "uikTvd": "463403571464",
+    "uikName": "УИК №1398",
     "tikTvd": "263200081171",
-    "tikName": "Ставропольская"
+    "tikName": "Ставропольская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1399,
     "uikTvd": "463403571465",
+    "uikName": "УИК №1399",
     "tikTvd": "263200081171",
-    "tikName": "Ставропольская"
+    "tikName": "Ставропольская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1400,
     "uikTvd": "463403571466",
+    "uikName": "УИК №1400",
     "tikTvd": "263200081171",
-    "tikName": "Ставропольская"
+    "tikName": "Ставропольская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1401,
     "uikTvd": "463403571467",
+    "uikName": "УИК №1401",
     "tikTvd": "263200081171",
-    "tikName": "Ставропольская"
+    "tikName": "Ставропольская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1402,
     "uikTvd": "463403571468",
+    "uikName": "УИК №1402",
     "tikTvd": "263200081171",
-    "tikName": "Ставропольская"
+    "tikName": "Ставропольская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1403,
     "uikTvd": "463403571469",
+    "uikName": "УИК №1403",
     "tikTvd": "263200081171",
-    "tikName": "Ставропольская"
+    "tikName": "Ставропольская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1404,
     "uikTvd": "463403571470",
+    "uikName": "УИК №1404",
     "tikTvd": "263200081171",
-    "tikName": "Ставропольская"
+    "tikName": "Ставропольская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1405,
     "uikTvd": "463403571471",
+    "uikName": "УИК №1405",
     "tikTvd": "263200081171",
-    "tikName": "Ставропольская"
+    "tikName": "Ставропольская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1406,
     "uikTvd": "463403571472",
+    "uikName": "УИК №1406",
     "tikTvd": "263200081171",
-    "tikName": "Ставропольская"
+    "tikName": "Ставропольская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1407,
     "uikTvd": "463403571473",
+    "uikName": "УИК №1407",
     "tikTvd": "263200081171",
-    "tikName": "Ставропольская"
+    "tikName": "Ставропольская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1408,
     "uikTvd": "463403571474",
+    "uikName": "УИК №1408",
     "tikTvd": "263200081171",
-    "tikName": "Ставропольская"
+    "tikName": "Ставропольская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1409,
     "uikTvd": "463403571475",
+    "uikName": "УИК №1409",
     "tikTvd": "263200081171",
-    "tikName": "Ставропольская"
+    "tikName": "Ставропольская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1410,
     "uikTvd": "463403571476",
+    "uikName": "УИК №1410",
     "tikTvd": "263200081171",
-    "tikName": "Ставропольская"
+    "tikName": "Ставропольская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1411,
     "uikTvd": "463403571477",
+    "uikName": "УИК №1411",
     "tikTvd": "263200081171",
-    "tikName": "Ставропольская"
+    "tikName": "Ставропольская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1412,
     "uikTvd": "463403571478",
+    "uikName": "УИК №1412",
     "tikTvd": "263200081171",
-    "tikName": "Ставропольская"
+    "tikName": "Ставропольская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1413,
     "uikTvd": "463403571479",
+    "uikName": "УИК №1413",
     "tikTvd": "263200081171",
-    "tikName": "Ставропольская"
+    "tikName": "Ставропольская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1414,
     "uikTvd": "463403571480",
+    "uikName": "УИК №1414",
     "tikTvd": "263200081171",
-    "tikName": "Ставропольская"
+    "tikName": "Ставропольская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1415,
     "uikTvd": "463403571481",
+    "uikName": "УИК №1415",
     "tikTvd": "263200081171",
-    "tikName": "Ставропольская"
+    "tikName": "Ставропольская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1416,
     "uikTvd": "463403571482",
+    "uikName": "УИК №1416",
     "tikTvd": "263200081171",
-    "tikName": "Ставропольская"
+    "tikName": "Ставропольская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1417,
     "uikTvd": "463403571483",
+    "uikName": "УИК №1417",
     "tikTvd": "263200081171",
-    "tikName": "Ставропольская"
+    "tikName": "Ставропольская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1418,
     "uikTvd": "463403571484",
+    "uikName": "УИК №1418",
     "tikTvd": "263200081171",
-    "tikName": "Ставропольская"
+    "tikName": "Ставропольская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1419,
     "uikTvd": "463403571485",
+    "uikName": "УИК №1419",
     "tikTvd": "263200081171",
-    "tikName": "Ставропольская"
+    "tikName": "Ставропольская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1420,
     "uikTvd": "463403571486",
+    "uikName": "УИК №1420",
     "tikTvd": "263200081171",
-    "tikName": "Ставропольская"
+    "tikName": "Ставропольская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1421,
     "uikTvd": "463403571487",
+    "uikName": "УИК №1421",
     "tikTvd": "263200081171",
-    "tikName": "Ставропольская"
+    "tikName": "Ставропольская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1422,
     "uikTvd": "463403571488",
+    "uikName": "УИК №1422",
     "tikTvd": "263200081171",
-    "tikName": "Ставропольская"
+    "tikName": "Ставропольская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1423,
     "uikTvd": "463403571489",
+    "uikName": "УИК №1423",
     "tikTvd": "263200081171",
-    "tikName": "Ставропольская"
+    "tikName": "Ставропольская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1424,
     "uikTvd": "463403571490",
+    "uikName": "УИК №1424",
     "tikTvd": "263200081171",
-    "tikName": "Ставропольская"
+    "tikName": "Ставропольская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1425,
     "uikTvd": "463403571491",
+    "uikName": "УИК №1425",
     "tikTvd": "263200081171",
-    "tikName": "Ставропольская"
+    "tikName": "Ставропольская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1426,
     "uikTvd": "463403571492",
+    "uikName": "УИК №1426",
     "tikTvd": "263200081171",
-    "tikName": "Ставропольская"
+    "tikName": "Ставропольская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1427,
     "uikTvd": "463403571493",
+    "uikName": "УИК №1427",
     "tikTvd": "263200081171",
-    "tikName": "Ставропольская"
+    "tikName": "Ставропольская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1428,
     "uikTvd": "463403571494",
+    "uikName": "УИК №1428",
     "tikTvd": "263200081171",
-    "tikName": "Ставропольская"
+    "tikName": "Ставропольская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1429,
     "uikTvd": "463403571495",
+    "uikName": "УИК №1429",
     "tikTvd": "263200081171",
-    "tikName": "Ставропольская"
+    "tikName": "Ставропольская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1430,
     "uikTvd": "463403571496",
+    "uikName": "УИК №1430",
     "tikTvd": "263200081171",
-    "tikName": "Ставропольская"
+    "tikName": "Ставропольская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1431,
     "uikTvd": "463403671309",
+    "uikName": "УИК №1431",
     "tikTvd": "263200081168",
-    "tikName": "Сызранская"
+    "tikName": "Сызранская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1432,
     "uikTvd": "463403671310",
+    "uikName": "УИК №1432",
     "tikTvd": "263200081168",
-    "tikName": "Сызранская"
+    "tikName": "Сызранская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1433,
     "uikTvd": "463403671311",
+    "uikName": "УИК №1433",
     "tikTvd": "263200081168",
-    "tikName": "Сызранская"
+    "tikName": "Сызранская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1434,
     "uikTvd": "463403671312",
+    "uikName": "УИК №1434",
     "tikTvd": "263200081168",
-    "tikName": "Сызранская"
+    "tikName": "Сызранская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1435,
     "uikTvd": "463403671313",
+    "uikName": "УИК №1435",
     "tikTvd": "263200081168",
-    "tikName": "Сызранская"
+    "tikName": "Сызранская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1436,
     "uikTvd": "463403671314",
+    "uikName": "УИК №1436",
     "tikTvd": "263200081168",
-    "tikName": "Сызранская"
+    "tikName": "Сызранская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1437,
     "uikTvd": "463403671315",
+    "uikName": "УИК №1437",
     "tikTvd": "263200081168",
-    "tikName": "Сызранская"
+    "tikName": "Сызранская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1438,
     "uikTvd": "463403671316",
+    "uikName": "УИК №1438",
     "tikTvd": "263200081168",
-    "tikName": "Сызранская"
+    "tikName": "Сызранская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1439,
     "uikTvd": "463403671317",
+    "uikName": "УИК №1439",
     "tikTvd": "263200081168",
-    "tikName": "Сызранская"
+    "tikName": "Сызранская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1440,
     "uikTvd": "463403671318",
+    "uikName": "УИК №1440",
     "tikTvd": "263200081168",
-    "tikName": "Сызранская"
+    "tikName": "Сызранская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1441,
     "uikTvd": "463403671319",
+    "uikName": "УИК №1441",
     "tikTvd": "263200081168",
-    "tikName": "Сызранская"
+    "tikName": "Сызранская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1442,
     "uikTvd": "463403671320",
+    "uikName": "УИК №1442",
     "tikTvd": "263200081168",
-    "tikName": "Сызранская"
+    "tikName": "Сызранская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1443,
     "uikTvd": "463403671321",
+    "uikName": "УИК №1443",
     "tikTvd": "263200081168",
-    "tikName": "Сызранская"
+    "tikName": "Сызранская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1444,
     "uikTvd": "463403671322",
+    "uikName": "УИК №1444",
     "tikTvd": "263200081168",
-    "tikName": "Сызранская"
+    "tikName": "Сызранская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1445,
     "uikTvd": "463403671323",
+    "uikName": "УИК №1445",
     "tikTvd": "263200081168",
-    "tikName": "Сызранская"
+    "tikName": "Сызранская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1446,
     "uikTvd": "463403671324",
+    "uikName": "УИК №1446",
     "tikTvd": "263200081168",
-    "tikName": "Сызранская"
+    "tikName": "Сызранская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1447,
     "uikTvd": "463403671325",
+    "uikName": "УИК №1447",
     "tikTvd": "263200081168",
-    "tikName": "Сызранская"
+    "tikName": "Сызранская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1448,
     "uikTvd": "463403671326",
+    "uikName": "УИК №1448",
     "tikTvd": "263200081168",
-    "tikName": "Сызранская"
+    "tikName": "Сызранская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1449,
     "uikTvd": "463403671327",
+    "uikName": "УИК №1449",
     "tikTvd": "263200081168",
-    "tikName": "Сызранская"
+    "tikName": "Сызранская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1450,
     "uikTvd": "463403671328",
+    "uikName": "УИК №1450",
     "tikTvd": "263200081168",
-    "tikName": "Сызранская"
+    "tikName": "Сызранская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1451,
     "uikTvd": "463403671329",
+    "uikName": "УИК №1451",
     "tikTvd": "263200081168",
-    "tikName": "Сызранская"
+    "tikName": "Сызранская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1452,
     "uikTvd": "463403671330",
+    "uikName": "УИК №1452",
     "tikTvd": "263200081168",
-    "tikName": "Сызранская"
+    "tikName": "Сызранская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1453,
     "uikTvd": "463403671331",
+    "uikName": "УИК №1453",
     "tikTvd": "263200081168",
-    "tikName": "Сызранская"
+    "tikName": "Сызранская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1454,
     "uikTvd": "463403671332",
+    "uikName": "УИК №1454",
     "tikTvd": "263200081168",
-    "tikName": "Сызранская"
+    "tikName": "Сызранская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1455,
     "uikTvd": "463403671333",
+    "uikName": "УИК №1455",
     "tikTvd": "263200081168",
-    "tikName": "Сызранская"
+    "tikName": "Сызранская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1456,
     "uikTvd": "463403671334",
+    "uikName": "УИК №1456",
     "tikTvd": "263200081168",
-    "tikName": "Сызранская"
+    "tikName": "Сызранская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1457,
     "uikTvd": "463403671335",
+    "uikName": "УИК №1457",
     "tikTvd": "263200081168",
-    "tikName": "Сызранская"
+    "tikName": "Сызранская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1458,
     "uikTvd": "463403671336",
+    "uikName": "УИК №1458",
     "tikTvd": "263200081168",
-    "tikName": "Сызранская"
+    "tikName": "Сызранская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1459,
     "uikTvd": "463403671337",
+    "uikName": "УИК №1459",
     "tikTvd": "263200081168",
-    "tikName": "Сызранская"
+    "tikName": "Сызранская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1460,
     "uikTvd": "463403671338",
+    "uikName": "УИК №1460",
     "tikTvd": "263200081168",
-    "tikName": "Сызранская"
+    "tikName": "Сызранская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1461,
     "uikTvd": "463403671339",
+    "uikName": "УИК №1461",
     "tikTvd": "263200081168",
-    "tikName": "Сызранская"
+    "tikName": "Сызранская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1462,
     "uikTvd": "463404171167",
+    "uikName": "УИК №1462",
     "tikTvd": "263200081181",
-    "tikName": "Хворостянская"
+    "tikName": "Хворостянская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1463,
     "uikTvd": "463404171168",
+    "uikName": "УИК №1463",
     "tikTvd": "263200081181",
-    "tikName": "Хворостянская"
+    "tikName": "Хворостянская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1464,
     "uikTvd": "463404171169",
+    "uikName": "УИК №1464",
     "tikTvd": "263200081181",
-    "tikName": "Хворостянская"
+    "tikName": "Хворостянская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1465,
     "uikTvd": "463404171170",
+    "uikName": "УИК №1465",
     "tikTvd": "263200081181",
-    "tikName": "Хворостянская"
+    "tikName": "Хворостянская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1466,
     "uikTvd": "463404171171",
+    "uikName": "УИК №1466",
     "tikTvd": "263200081181",
-    "tikName": "Хворостянская"
+    "tikName": "Хворостянская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1467,
     "uikTvd": "463404171172",
+    "uikName": "УИК №1467",
     "tikTvd": "263200081181",
-    "tikName": "Хворостянская"
+    "tikName": "Хворостянская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1468,
     "uikTvd": "463404171173",
+    "uikName": "УИК №1468",
     "tikTvd": "263200081181",
-    "tikName": "Хворостянская"
+    "tikName": "Хворостянская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1469,
     "uikTvd": "463404171174",
+    "uikName": "УИК №1469",
     "tikTvd": "263200081181",
-    "tikName": "Хворостянская"
+    "tikName": "Хворостянская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1470,
     "uikTvd": "463404171175",
+    "uikName": "УИК №1470",
     "tikTvd": "263200081181",
-    "tikName": "Хворостянская"
+    "tikName": "Хворостянская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1471,
     "uikTvd": "463404171176",
+    "uikName": "УИК №1471",
     "tikTvd": "263200081181",
-    "tikName": "Хворостянская"
+    "tikName": "Хворостянская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1472,
     "uikTvd": "463404171177",
+    "uikName": "УИК №1472",
     "tikTvd": "263200081181",
-    "tikName": "Хворостянская"
+    "tikName": "Хворостянская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1473,
     "uikTvd": "463404171178",
+    "uikName": "УИК №1473",
     "tikTvd": "263200081181",
-    "tikName": "Хворостянская"
+    "tikName": "Хворостянская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1474,
     "uikTvd": "463404171179",
+    "uikName": "УИК №1474",
     "tikTvd": "263200081181",
-    "tikName": "Хворостянская"
+    "tikName": "Хворостянская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1475,
     "uikTvd": "463404171180",
+    "uikName": "УИК №1475",
     "tikTvd": "263200081181",
-    "tikName": "Хворостянская"
+    "tikName": "Хворостянская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1476,
     "uikTvd": "463404171181",
+    "uikName": "УИК №1476",
     "tikTvd": "263200081181",
-    "tikName": "Хворостянская"
+    "tikName": "Хворостянская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1477,
     "uikTvd": "463404171182",
+    "uikName": "УИК №1477",
     "tikTvd": "263200081181",
-    "tikName": "Хворостянская"
+    "tikName": "Хворостянская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1478,
     "uikTvd": "463404171183",
+    "uikName": "УИК №1478",
     "tikTvd": "263200081181",
-    "tikName": "Хворостянская"
+    "tikName": "Хворостянская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1479,
     "uikTvd": "463404171184",
+    "uikName": "УИК №1479",
     "tikTvd": "263200081181",
-    "tikName": "Хворостянская"
+    "tikName": "Хворостянская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1480,
     "uikTvd": "463404171185",
+    "uikName": "УИК №1480",
     "tikTvd": "263200081181",
-    "tikName": "Хворостянская"
+    "tikName": "Хворостянская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1481,
     "uikTvd": "463404171186",
+    "uikName": "УИК №1481",
     "tikTvd": "263200081181",
-    "tikName": "Хворостянская"
+    "tikName": "Хворостянская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1482,
     "uikTvd": "463404171187",
+    "uikName": "УИК №1482",
     "tikTvd": "263200081181",
-    "tikName": "Хворостянская"
+    "tikName": "Хворостянская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1483,
     "uikTvd": "463404571444",
+    "uikName": "УИК №1483",
     "tikTvd": "263200081180",
-    "tikName": "Шигонская"
+    "tikName": "Шигонская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1484,
     "uikTvd": "463404571445",
+    "uikName": "УИК №1484",
     "tikTvd": "263200081180",
-    "tikName": "Шигонская"
+    "tikName": "Шигонская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1485,
     "uikTvd": "463404571446",
+    "uikName": "УИК №1485",
     "tikTvd": "263200081180",
-    "tikName": "Шигонская"
+    "tikName": "Шигонская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1486,
     "uikTvd": "463404571447",
+    "uikName": "УИК №1486",
     "tikTvd": "263200081180",
-    "tikName": "Шигонская"
+    "tikName": "Шигонская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1487,
     "uikTvd": "463404571448",
+    "uikName": "УИК №1487",
     "tikTvd": "263200081180",
-    "tikName": "Шигонская"
+    "tikName": "Шигонская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1488,
     "uikTvd": "463404571449",
+    "uikName": "УИК №1488",
     "tikTvd": "263200081180",
-    "tikName": "Шигонская"
+    "tikName": "Шигонская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1489,
     "uikTvd": "463404571450",
+    "uikName": "УИК №1489",
     "tikTvd": "263200081180",
-    "tikName": "Шигонская"
+    "tikName": "Шигонская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1490,
     "uikTvd": "463404571451",
+    "uikName": "УИК №1490",
     "tikTvd": "263200081180",
-    "tikName": "Шигонская"
+    "tikName": "Шигонская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1491,
     "uikTvd": "463404571452",
+    "uikName": "УИК №1491",
     "tikTvd": "263200081180",
-    "tikName": "Шигонская"
+    "tikName": "Шигонская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1492,
     "uikTvd": "463404571453",
+    "uikName": "УИК №1492",
     "tikTvd": "263200081180",
-    "tikName": "Шигонская"
+    "tikName": "Шигонская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1493,
     "uikTvd": "463404571454",
+    "uikName": "УИК №1493",
     "tikTvd": "263200081180",
-    "tikName": "Шигонская"
+    "tikName": "Шигонская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1494,
     "uikTvd": "463404571455",
+    "uikName": "УИК №1494",
     "tikTvd": "263200081180",
-    "tikName": "Шигонская"
+    "tikName": "Шигонская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1495,
     "uikTvd": "463404571456",
+    "uikName": "УИК №1495",
     "tikTvd": "263200081180",
-    "tikName": "Шигонская"
+    "tikName": "Шигонская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1496,
     "uikTvd": "463404571457",
+    "uikName": "УИК №1496",
     "tikTvd": "263200081180",
-    "tikName": "Шигонская"
+    "tikName": "Шигонская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1497,
     "uikTvd": "463404571458",
+    "uikName": "УИК №1497",
     "tikTvd": "263200081180",
-    "tikName": "Шигонская"
+    "tikName": "Шигонская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1498,
     "uikTvd": "463404571459",
+    "uikName": "УИК №1498",
     "tikTvd": "263200081180",
-    "tikName": "Шигонская"
+    "tikName": "Шигонская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1499,
     "uikTvd": "463404571460",
+    "uikName": "УИК №1499",
     "tikTvd": "263200081180",
-    "tikName": "Шигонская"
+    "tikName": "Шигонская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1500,
     "uikTvd": "463404571461",
+    "uikName": "УИК №1500",
     "tikTvd": "263200081180",
-    "tikName": "Шигонская"
+    "tikName": "Шигонская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1501,
     "uikTvd": "463404571462",
+    "uikName": "УИК №1501",
     "tikTvd": "263200081180",
-    "tikName": "Шигонская"
+    "tikName": "Шигонская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1502,
     "uikTvd": "463404571463",
+    "uikName": "УИК №1502",
     "tikTvd": "263200081180",
-    "tikName": "Шигонская"
+    "tikName": "Шигонская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1503,
     "uikTvd": "463404571464",
+    "uikName": "УИК №1503",
     "tikTvd": "263200081180",
-    "tikName": "Шигонская"
+    "tikName": "Шигонская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1504,
     "uikTvd": "463404571465",
+    "uikName": "УИК №1504",
     "tikTvd": "263200081180",
-    "tikName": "Шигонская"
+    "tikName": "Шигонская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1505,
     "uikTvd": "463404571466",
+    "uikName": "УИК №1505",
     "tikTvd": "263200081180",
-    "tikName": "Шигонская"
+    "tikName": "Шигонская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1506,
     "uikTvd": "463404571442",
+    "uikName": "УИК №1506",
     "tikTvd": "263200081180",
-    "tikName": "Шигонская"
+    "tikName": "Шигонская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1507,
     "uikTvd": "463403874120",
+    "uikName": "УИК №1507",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1508,
     "uikTvd": "463403874121",
+    "uikName": "УИК №1508",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1509,
     "uikTvd": "463403874122",
+    "uikName": "УИК №1509",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1510,
     "uikTvd": "463403874123",
+    "uikName": "УИК №1510",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1511,
     "uikTvd": "463403874124",
+    "uikName": "УИК №1511",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1512,
     "uikTvd": "463403874125",
+    "uikName": "УИК №1512",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1513,
     "uikTvd": "463403874126",
+    "uikName": "УИК №1513",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1514,
     "uikTvd": "463403874127",
+    "uikName": "УИК №1514",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1515,
     "uikTvd": "463403874128",
+    "uikName": "УИК №1515",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1516,
     "uikTvd": "463403874129",
+    "uikName": "УИК №1516",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1517,
     "uikTvd": "463403874130",
+    "uikName": "УИК №1517",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1518,
     "uikTvd": "463403874131",
+    "uikName": "УИК №1518",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1519,
     "uikTvd": "463403874132",
+    "uikName": "УИК №1519",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1520,
     "uikTvd": "463403874133",
+    "uikName": "УИК №1520",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1521,
     "uikTvd": "463403874134",
+    "uikName": "УИК №1521",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1522,
     "uikTvd": "463403874135",
+    "uikName": "УИК №1522",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1523,
     "uikTvd": "463403874136",
+    "uikName": "УИК №1523",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1524,
     "uikTvd": "463403874137",
+    "uikName": "УИК №1524",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1525,
     "uikTvd": "463403874138",
+    "uikName": "УИК №1525",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1526,
     "uikTvd": "463403874139",
+    "uikName": "УИК №1526",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1527,
     "uikTvd": "463403874140",
+    "uikName": "УИК №1527",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1528,
     "uikTvd": "463403874141",
+    "uikName": "УИК №1528",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1529,
     "uikTvd": "463403874142",
+    "uikName": "УИК №1529",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1530,
     "uikTvd": "463403874143",
+    "uikName": "УИК №1530",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1531,
     "uikTvd": "463403874144",
+    "uikName": "УИК №1531",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1532,
     "uikTvd": "463403874145",
+    "uikName": "УИК №1532",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1533,
     "uikTvd": "463403874146",
+    "uikName": "УИК №1533",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1534,
     "uikTvd": "463403874147",
+    "uikName": "УИК №1534",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1535,
     "uikTvd": "463403874148",
+    "uikName": "УИК №1535",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1536,
     "uikTvd": "463403874149",
+    "uikName": "УИК №1536",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1537,
     "uikTvd": "463403874150",
+    "uikName": "УИК №1537",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1538,
     "uikTvd": "463403874151",
+    "uikName": "УИК №1538",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1539,
     "uikTvd": "463403874152",
+    "uikName": "УИК №1539",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1540,
     "uikTvd": "463403874153",
+    "uikName": "УИК №1540",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1541,
     "uikTvd": "463403874154",
+    "uikName": "УИК №1541",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1542,
     "uikTvd": "463403874155",
+    "uikName": "УИК №1542",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1543,
     "uikTvd": "463403874156",
+    "uikName": "УИК №1543",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1544,
     "uikTvd": "463403874157",
+    "uikName": "УИК №1544",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1545,
     "uikTvd": "463403874158",
+    "uikName": "УИК №1545",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1546,
     "uikTvd": "463403874159",
+    "uikName": "УИК №1546",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1547,
     "uikTvd": "463403874160",
+    "uikName": "УИК №1547",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1548,
     "uikTvd": "463403874161",
+    "uikName": "УИК №1548",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1549,
     "uikTvd": "463403874162",
+    "uikName": "УИК №1549",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1550,
     "uikTvd": "463403874163",
+    "uikName": "УИК №1550",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1551,
     "uikTvd": "463403874164",
+    "uikName": "УИК №1551",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1552,
     "uikTvd": "463403874165",
+    "uikName": "УИК №1552",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1553,
     "uikTvd": "463403874166",
+    "uikName": "УИК №1553",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1554,
     "uikTvd": "463403874167",
+    "uikName": "УИК №1554",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1555,
     "uikTvd": "463403874168",
+    "uikName": "УИК №1555",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1556,
     "uikTvd": "463403874169",
+    "uikName": "УИК №1556",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1557,
     "uikTvd": "463403874170",
+    "uikName": "УИК №1557",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1558,
     "uikTvd": "463403874171",
+    "uikName": "УИК №1558",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1559,
     "uikTvd": "463403874172",
+    "uikName": "УИК №1559",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1560,
     "uikTvd": "463403874173",
+    "uikName": "УИК №1560",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1561,
     "uikTvd": "463403874174",
+    "uikName": "УИК №1561",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1562,
     "uikTvd": "463403874175",
+    "uikName": "УИК №1562",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1563,
     "uikTvd": "463403874176",
+    "uikName": "УИК №1563",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1564,
     "uikTvd": "463403874177",
+    "uikName": "УИК №1564",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1565,
     "uikTvd": "463403874178",
+    "uikName": "УИК №1565",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1566,
     "uikTvd": "463403874179",
+    "uikName": "УИК №1566",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1567,
     "uikTvd": "463403874180",
+    "uikName": "УИК №1567",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1568,
     "uikTvd": "463403874181",
+    "uikName": "УИК №1568",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1569,
     "uikTvd": "463403874182",
+    "uikName": "УИК №1569",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1570,
     "uikTvd": "463403874183",
+    "uikName": "УИК №1570",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1571,
     "uikTvd": "463403874184",
+    "uikName": "УИК №1571",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1572,
     "uikTvd": "463403874185",
+    "uikName": "УИК №1572",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1573,
     "uikTvd": "463403874186",
+    "uikName": "УИК №1573",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1574,
     "uikTvd": "463403874187",
+    "uikName": "УИК №1574",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1575,
     "uikTvd": "463403874188",
+    "uikName": "УИК №1575",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1576,
     "uikTvd": "463403874189",
+    "uikName": "УИК №1576",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1577,
     "uikTvd": "463403874190",
+    "uikName": "УИК №1577",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1578,
     "uikTvd": "463403874191",
+    "uikName": "УИК №1578",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1579,
     "uikTvd": "463403874192",
+    "uikName": "УИК №1579",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1580,
     "uikTvd": "463403874193",
+    "uikName": "УИК №1580",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1581,
     "uikTvd": "463403874194",
+    "uikName": "УИК №1581",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1582,
     "uikTvd": "463403874195",
+    "uikName": "УИК №1582",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1583,
     "uikTvd": "463403874196",
+    "uikName": "УИК №1583",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1584,
     "uikTvd": "463403874197",
+    "uikName": "УИК №1584",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1585,
     "uikTvd": "463403874198",
+    "uikName": "УИК №1585",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1586,
     "uikTvd": "463403874199",
+    "uikName": "УИК №1586",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1587,
     "uikTvd": "463403874200",
+    "uikName": "УИК №1587",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1588,
     "uikTvd": "463403874201",
+    "uikName": "УИК №1588",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1589,
     "uikTvd": "463403874202",
+    "uikName": "УИК №1589",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1590,
     "uikTvd": "463403874203",
+    "uikName": "УИК №1590",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1591,
     "uikTvd": "463403874204",
+    "uikName": "УИК №1591",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1592,
     "uikTvd": "463403874205",
+    "uikName": "УИК №1592",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1593,
     "uikTvd": "463403874206",
+    "uikName": "УИК №1593",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1594,
     "uikTvd": "463403874207",
+    "uikName": "УИК №1594",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1595,
     "uikTvd": "463403874208",
+    "uikName": "УИК №1595",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1596,
     "uikTvd": "463403874209",
+    "uikName": "УИК №1596",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1597,
     "uikTvd": "463403874210",
+    "uikName": "УИК №1597",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1598,
     "uikTvd": "463403874211",
+    "uikName": "УИК №1598",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1599,
     "uikTvd": "463403874212",
+    "uikName": "УИК №1599",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1600,
     "uikTvd": "463403874213",
+    "uikName": "УИК №1600",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1601,
     "uikTvd": "463403874214",
+    "uikName": "УИК №1601",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1602,
     "uikTvd": "463403874215",
+    "uikName": "УИК №1602",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1603,
     "uikTvd": "463403874216",
+    "uikName": "УИК №1603",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1604,
     "uikTvd": "463403874217",
+    "uikName": "УИК №1604",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1605,
     "uikTvd": "463403874218",
+    "uikName": "УИК №1605",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1606,
     "uikTvd": "463403874219",
+    "uikName": "УИК №1606",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1607,
     "uikTvd": "463403874220",
+    "uikName": "УИК №1607",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1608,
     "uikTvd": "463403874221",
+    "uikName": "УИК №1608",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1609,
     "uikTvd": "463403874222",
+    "uikName": "УИК №1609",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1610,
     "uikTvd": "463403874223",
+    "uikName": "УИК №1610",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1611,
     "uikTvd": "463403874224",
+    "uikName": "УИК №1611",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1612,
     "uikTvd": "463403874225",
+    "uikName": "УИК №1612",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1613,
     "uikTvd": "463403874226",
+    "uikName": "УИК №1613",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1614,
     "uikTvd": "463403874227",
+    "uikName": "УИК №1614",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1615,
     "uikTvd": "463403874228",
+    "uikName": "УИК №1615",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1616,
     "uikTvd": "463403874229",
+    "uikName": "УИК №1616",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1617,
     "uikTvd": "463403874230",
+    "uikName": "УИК №1617",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1618,
     "uikTvd": "463403874231",
+    "uikName": "УИК №1618",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1619,
     "uikTvd": "463403874232",
+    "uikName": "УИК №1619",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1620,
     "uikTvd": "463403874233",
+    "uikName": "УИК №1620",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1621,
     "uikTvd": "463403874234",
+    "uikName": "УИК №1621",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1622,
     "uikTvd": "463403874235",
+    "uikName": "УИК №1622",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1623,
     "uikTvd": "463403874236",
+    "uikName": "УИК №1623",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1624,
     "uikTvd": "463403874237",
+    "uikName": "УИК №1624",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1625,
     "uikTvd": "463403874238",
+    "uikName": "УИК №1625",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1626,
     "uikTvd": "463403874239",
+    "uikName": "УИК №1626",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1627,
     "uikTvd": "463403874240",
+    "uikName": "УИК №1627",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1628,
     "uikTvd": "463403874241",
+    "uikName": "УИК №1628",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1629,
     "uikTvd": "463403874242",
+    "uikName": "УИК №1629",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1630,
     "uikTvd": "463403874243",
+    "uikName": "УИК №1630",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1631,
     "uikTvd": "463403874244",
+    "uikName": "УИК №1631",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1632,
     "uikTvd": "463403874245",
+    "uikName": "УИК №1632",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1633,
     "uikTvd": "463403874246",
+    "uikName": "УИК №1633",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1634,
     "uikTvd": "463403874247",
+    "uikName": "УИК №1634",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1635,
     "uikTvd": "463403874248",
+    "uikName": "УИК №1635",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1636,
     "uikTvd": "463403874249",
+    "uikName": "УИК №1636",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1637,
     "uikTvd": "463403874250",
+    "uikName": "УИК №1637",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1638,
     "uikTvd": "463403874251",
+    "uikName": "УИК №1638",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1639,
     "uikTvd": "463403874252",
+    "uikName": "УИК №1639",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1640,
     "uikTvd": "463403874253",
+    "uikName": "УИК №1640",
     "tikTvd": "263200081167",
-    "tikName": "Тольятти, Автозаводская"
+    "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1641,
     "uikTvd": "463403971969",
+    "uikName": "УИК №1641",
     "tikTvd": "263200081164",
-    "tikName": "Тольятти, Комсомольская"
+    "tikName": "Тольятти, Комсомольская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1642,
     "uikTvd": "463403971970",
+    "uikName": "УИК №1642",
     "tikTvd": "263200081164",
-    "tikName": "Тольятти, Комсомольская"
+    "tikName": "Тольятти, Комсомольская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1643,
     "uikTvd": "463403971971",
+    "uikName": "УИК №1643",
     "tikTvd": "263200081164",
-    "tikName": "Тольятти, Комсомольская"
+    "tikName": "Тольятти, Комсомольская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1644,
     "uikTvd": "463403971972",
+    "uikName": "УИК №1644",
     "tikTvd": "263200081164",
-    "tikName": "Тольятти, Комсомольская"
+    "tikName": "Тольятти, Комсомольская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1645,
     "uikTvd": "463403971973",
+    "uikName": "УИК №1645",
     "tikTvd": "263200081164",
-    "tikName": "Тольятти, Комсомольская"
+    "tikName": "Тольятти, Комсомольская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1646,
     "uikTvd": "463403971974",
+    "uikName": "УИК №1646",
     "tikTvd": "263200081164",
-    "tikName": "Тольятти, Комсомольская"
+    "tikName": "Тольятти, Комсомольская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1647,
     "uikTvd": "463403971975",
+    "uikName": "УИК №1647",
     "tikTvd": "263200081164",
-    "tikName": "Тольятти, Комсомольская"
+    "tikName": "Тольятти, Комсомольская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1648,
     "uikTvd": "463403971976",
+    "uikName": "УИК №1648",
     "tikTvd": "263200081164",
-    "tikName": "Тольятти, Комсомольская"
+    "tikName": "Тольятти, Комсомольская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1649,
     "uikTvd": "463403971977",
+    "uikName": "УИК №1649",
     "tikTvd": "263200081164",
-    "tikName": "Тольятти, Комсомольская"
+    "tikName": "Тольятти, Комсомольская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1650,
     "uikTvd": "463403971978",
+    "uikName": "УИК №1650",
     "tikTvd": "263200081164",
-    "tikName": "Тольятти, Комсомольская"
+    "tikName": "Тольятти, Комсомольская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1651,
     "uikTvd": "463403971979",
+    "uikName": "УИК №1651",
     "tikTvd": "263200081164",
-    "tikName": "Тольятти, Комсомольская"
+    "tikName": "Тольятти, Комсомольская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1652,
     "uikTvd": "463403971980",
+    "uikName": "УИК №1652",
     "tikTvd": "263200081164",
-    "tikName": "Тольятти, Комсомольская"
+    "tikName": "Тольятти, Комсомольская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1653,
     "uikTvd": "463403971981",
+    "uikName": "УИК №1653",
     "tikTvd": "263200081164",
-    "tikName": "Тольятти, Комсомольская"
+    "tikName": "Тольятти, Комсомольская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1654,
     "uikTvd": "463403971982",
+    "uikName": "УИК №1654",
     "tikTvd": "263200081164",
-    "tikName": "Тольятти, Комсомольская"
+    "tikName": "Тольятти, Комсомольская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1655,
     "uikTvd": "463403971983",
+    "uikName": "УИК №1655",
     "tikTvd": "263200081164",
-    "tikName": "Тольятти, Комсомольская"
+    "tikName": "Тольятти, Комсомольская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1656,
     "uikTvd": "463403971984",
+    "uikName": "УИК №1656",
     "tikTvd": "263200081164",
-    "tikName": "Тольятти, Комсомольская"
+    "tikName": "Тольятти, Комсомольская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1657,
     "uikTvd": "463403971985",
+    "uikName": "УИК №1657",
     "tikTvd": "263200081164",
-    "tikName": "Тольятти, Комсомольская"
+    "tikName": "Тольятти, Комсомольская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1658,
     "uikTvd": "463403971986",
+    "uikName": "УИК №1658",
     "tikTvd": "263200081164",
-    "tikName": "Тольятти, Комсомольская"
+    "tikName": "Тольятти, Комсомольская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1659,
     "uikTvd": "463403971987",
+    "uikName": "УИК №1659",
     "tikTvd": "263200081164",
-    "tikName": "Тольятти, Комсомольская"
+    "tikName": "Тольятти, Комсомольская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1660,
     "uikTvd": "463403971988",
+    "uikName": "УИК №1660",
     "tikTvd": "263200081164",
-    "tikName": "Тольятти, Комсомольская"
+    "tikName": "Тольятти, Комсомольская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1661,
     "uikTvd": "463403971989",
+    "uikName": "УИК №1661",
     "tikTvd": "263200081164",
-    "tikName": "Тольятти, Комсомольская"
+    "tikName": "Тольятти, Комсомольская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1662,
     "uikTvd": "463403971990",
+    "uikName": "УИК №1662",
     "tikTvd": "263200081164",
-    "tikName": "Тольятти, Комсомольская"
+    "tikName": "Тольятти, Комсомольская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1663,
     "uikTvd": "463403971991",
+    "uikName": "УИК №1663",
     "tikTvd": "263200081164",
-    "tikName": "Тольятти, Комсомольская"
+    "tikName": "Тольятти, Комсомольская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1664,
     "uikTvd": "463403971992",
+    "uikName": "УИК №1664",
     "tikTvd": "263200081164",
-    "tikName": "Тольятти, Комсомольская"
+    "tikName": "Тольятти, Комсомольская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1665,
     "uikTvd": "463403971993",
+    "uikName": "УИК №1665",
     "tikTvd": "263200081164",
-    "tikName": "Тольятти, Комсомольская"
+    "tikName": "Тольятти, Комсомольская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1666,
     "uikTvd": "463403971994",
+    "uikName": "УИК №1666",
     "tikTvd": "263200081164",
-    "tikName": "Тольятти, Комсомольская"
+    "tikName": "Тольятти, Комсомольская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1667,
     "uikTvd": "463403971995",
+    "uikName": "УИК №1667",
     "tikTvd": "263200081164",
-    "tikName": "Тольятти, Комсомольская"
+    "tikName": "Тольятти, Комсомольская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1668,
     "uikTvd": "463403971996",
+    "uikName": "УИК №1668",
     "tikTvd": "263200081164",
-    "tikName": "Тольятти, Комсомольская"
+    "tikName": "Тольятти, Комсомольская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1669,
     "uikTvd": "463403971997",
+    "uikName": "УИК №1669",
     "tikTvd": "263200081164",
-    "tikName": "Тольятти, Комсомольская"
+    "tikName": "Тольятти, Комсомольская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1670,
     "uikTvd": "463403971998",
+    "uikName": "УИК №1670",
     "tikTvd": "263200081164",
-    "tikName": "Тольятти, Комсомольская"
+    "tikName": "Тольятти, Комсомольская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1671,
     "uikTvd": "463403971999",
+    "uikName": "УИК №1671",
     "tikTvd": "263200081164",
-    "tikName": "Тольятти, Комсомольская"
+    "tikName": "Тольятти, Комсомольская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1672,
     "uikTvd": "463403972000",
+    "uikName": "УИК №1672",
     "tikTvd": "263200081164",
-    "tikName": "Тольятти, Комсомольская"
+    "tikName": "Тольятти, Комсомольская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1673,
     "uikTvd": "463403972001",
+    "uikName": "УИК №1673",
     "tikTvd": "263200081164",
-    "tikName": "Тольятти, Комсомольская"
+    "tikName": "Тольятти, Комсомольская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1674,
     "uikTvd": "463403972002",
+    "uikName": "УИК №1674",
     "tikTvd": "263200081164",
-    "tikName": "Тольятти, Комсомольская"
+    "tikName": "Тольятти, Комсомольская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1675,
     "uikTvd": "463403972003",
+    "uikName": "УИК №1675",
     "tikTvd": "263200081164",
-    "tikName": "Тольятти, Комсомольская"
+    "tikName": "Тольятти, Комсомольская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1676,
     "uikTvd": "463403972004",
+    "uikName": "УИК №1676",
     "tikTvd": "263200081164",
-    "tikName": "Тольятти, Комсомольская"
+    "tikName": "Тольятти, Комсомольская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1677,
     "uikTvd": "463403972005",
+    "uikName": "УИК №1677",
     "tikTvd": "263200081164",
-    "tikName": "Тольятти, Комсомольская"
+    "tikName": "Тольятти, Комсомольская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1678,
     "uikTvd": "463403972006",
+    "uikName": "УИК №1678",
     "tikTvd": "263200081164",
-    "tikName": "Тольятти, Комсомольская"
+    "tikName": "Тольятти, Комсомольская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1679,
     "uikTvd": "463403972007",
+    "uikName": "УИК №1679",
     "tikTvd": "263200081164",
-    "tikName": "Тольятти, Комсомольская"
+    "tikName": "Тольятти, Комсомольская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1680,
     "uikTvd": "463403972008",
+    "uikName": "УИК №1680",
     "tikTvd": "263200081164",
-    "tikName": "Тольятти, Комсомольская"
+    "tikName": "Тольятти, Комсомольская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1681,
     "uikTvd": "463403972009",
+    "uikName": "УИК №1681",
     "tikTvd": "263200081164",
-    "tikName": "Тольятти, Комсомольская"
+    "tikName": "Тольятти, Комсомольская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1682,
     "uikTvd": "463403972010",
+    "uikName": "УИК №1682",
     "tikTvd": "263200081164",
-    "tikName": "Тольятти, Комсомольская"
+    "tikName": "Тольятти, Комсомольская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1683,
     "uikTvd": "463403972011",
+    "uikName": "УИК №1683",
     "tikTvd": "263200081164",
-    "tikName": "Тольятти, Комсомольская"
+    "tikName": "Тольятти, Комсомольская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1684,
     "uikTvd": "463403972012",
+    "uikName": "УИК №1684",
     "tikTvd": "263200081164",
-    "tikName": "Тольятти, Комсомольская"
+    "tikName": "Тольятти, Комсомольская",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1685,
     "uikTvd": "463404072438",
+    "uikName": "УИК №1685",
     "tikTvd": "263200081162",
-    "tikName": "Тольятти, Центральная"
+    "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1686,
     "uikTvd": "463404072439",
+    "uikName": "УИК №1686",
     "tikTvd": "263200081162",
-    "tikName": "Тольятти, Центральная"
+    "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1687,
     "uikTvd": "463404072440",
+    "uikName": "УИК №1687",
     "tikTvd": "263200081162",
-    "tikName": "Тольятти, Центральная"
+    "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1688,
     "uikTvd": "463404072441",
+    "uikName": "УИК №1688",
     "tikTvd": "263200081162",
-    "tikName": "Тольятти, Центральная"
+    "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1689,
     "uikTvd": "463404072442",
+    "uikName": "УИК №1689",
     "tikTvd": "263200081162",
-    "tikName": "Тольятти, Центральная"
+    "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1690,
     "uikTvd": "463404072443",
+    "uikName": "УИК №1690",
     "tikTvd": "263200081162",
-    "tikName": "Тольятти, Центральная"
+    "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1691,
     "uikTvd": "463404072444",
+    "uikName": "УИК №1691",
     "tikTvd": "263200081162",
-    "tikName": "Тольятти, Центральная"
+    "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1692,
     "uikTvd": "463404072445",
+    "uikName": "УИК №1692",
     "tikTvd": "263200081162",
-    "tikName": "Тольятти, Центральная"
+    "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1693,
     "uikTvd": "463404072446",
+    "uikName": "УИК №1693",
     "tikTvd": "263200081162",
-    "tikName": "Тольятти, Центральная"
+    "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1694,
     "uikTvd": "463404072447",
+    "uikName": "УИК №1694",
     "tikTvd": "263200081162",
-    "tikName": "Тольятти, Центральная"
+    "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1695,
     "uikTvd": "463404072448",
+    "uikName": "УИК №1695",
     "tikTvd": "263200081162",
-    "tikName": "Тольятти, Центральная"
+    "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1696,
     "uikTvd": "463404072449",
+    "uikName": "УИК №1696",
     "tikTvd": "263200081162",
-    "tikName": "Тольятти, Центральная"
+    "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1697,
     "uikTvd": "463404072450",
+    "uikName": "УИК №1697",
     "tikTvd": "263200081162",
-    "tikName": "Тольятти, Центральная"
+    "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1698,
     "uikTvd": "463404072451",
+    "uikName": "УИК №1698",
     "tikTvd": "263200081162",
-    "tikName": "Тольятти, Центральная"
+    "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1699,
     "uikTvd": "463404072452",
+    "uikName": "УИК №1699",
     "tikTvd": "263200081162",
-    "tikName": "Тольятти, Центральная"
+    "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1700,
     "uikTvd": "463404072453",
+    "uikName": "УИК №1700",
     "tikTvd": "263200081162",
-    "tikName": "Тольятти, Центральная"
+    "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1701,
     "uikTvd": "463404072454",
+    "uikName": "УИК №1701",
     "tikTvd": "263200081162",
-    "tikName": "Тольятти, Центральная"
+    "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1702,
     "uikTvd": "463404072455",
+    "uikName": "УИК №1702",
     "tikTvd": "263200081162",
-    "tikName": "Тольятти, Центральная"
+    "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1703,
     "uikTvd": "463404072456",
+    "uikName": "УИК №1703",
     "tikTvd": "263200081162",
-    "tikName": "Тольятти, Центральная"
+    "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1704,
     "uikTvd": "463404072457",
+    "uikName": "УИК №1704",
     "tikTvd": "263200081162",
-    "tikName": "Тольятти, Центральная"
+    "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1705,
     "uikTvd": "463404072458",
+    "uikName": "УИК №1705",
     "tikTvd": "263200081162",
-    "tikName": "Тольятти, Центральная"
+    "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1706,
     "uikTvd": "463404072459",
+    "uikName": "УИК №1706",
     "tikTvd": "263200081162",
-    "tikName": "Тольятти, Центральная"
+    "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1707,
     "uikTvd": "463404072460",
+    "uikName": "УИК №1707",
     "tikTvd": "263200081162",
-    "tikName": "Тольятти, Центральная"
+    "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1708,
     "uikTvd": "463404072461",
+    "uikName": "УИК №1708",
     "tikTvd": "263200081162",
-    "tikName": "Тольятти, Центральная"
+    "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1709,
     "uikTvd": "463404072462",
+    "uikName": "УИК №1709",
     "tikTvd": "263200081162",
-    "tikName": "Тольятти, Центральная"
+    "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1710,
     "uikTvd": "463404072463",
+    "uikName": "УИК №1710",
     "tikTvd": "263200081162",
-    "tikName": "Тольятти, Центральная"
+    "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1711,
     "uikTvd": "463404072464",
+    "uikName": "УИК №1711",
     "tikTvd": "263200081162",
-    "tikName": "Тольятти, Центральная"
+    "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1712,
     "uikTvd": "463404072465",
+    "uikName": "УИК №1712",
     "tikTvd": "263200081162",
-    "tikName": "Тольятти, Центральная"
+    "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1713,
     "uikTvd": "463404072466",
+    "uikName": "УИК №1713",
     "tikTvd": "263200081162",
-    "tikName": "Тольятти, Центральная"
+    "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1714,
     "uikTvd": "463404072467",
+    "uikName": "УИК №1714",
     "tikTvd": "263200081162",
-    "tikName": "Тольятти, Центральная"
+    "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1715,
     "uikTvd": "463404072468",
+    "uikName": "УИК №1715",
     "tikTvd": "263200081162",
-    "tikName": "Тольятти, Центральная"
+    "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1716,
     "uikTvd": "463404072469",
+    "uikName": "УИК №1716",
     "tikTvd": "263200081162",
-    "tikName": "Тольятти, Центральная"
+    "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1717,
     "uikTvd": "463404072470",
+    "uikName": "УИК №1717",
     "tikTvd": "263200081162",
-    "tikName": "Тольятти, Центральная"
+    "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1718,
     "uikTvd": "463404072471",
+    "uikName": "УИК №1718",
     "tikTvd": "263200081162",
-    "tikName": "Тольятти, Центральная"
+    "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1719,
     "uikTvd": "463404072472",
+    "uikName": "УИК №1719",
     "tikTvd": "263200081162",
-    "tikName": "Тольятти, Центральная"
+    "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1720,
     "uikTvd": "463404072473",
+    "uikName": "УИК №1720",
     "tikTvd": "263200081162",
-    "tikName": "Тольятти, Центральная"
+    "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1721,
     "uikTvd": "463404072474",
+    "uikName": "УИК №1721",
     "tikTvd": "263200081162",
-    "tikName": "Тольятти, Центральная"
+    "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1722,
     "uikTvd": "463404072475",
+    "uikName": "УИК №1722",
     "tikTvd": "263200081162",
-    "tikName": "Тольятти, Центральная"
+    "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1723,
     "uikTvd": "463404072476",
+    "uikName": "УИК №1723",
     "tikTvd": "263200081162",
-    "tikName": "Тольятти, Центральная"
+    "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1724,
     "uikTvd": "463404072477",
+    "uikName": "УИК №1724",
     "tikTvd": "263200081162",
-    "tikName": "Тольятти, Центральная"
+    "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1725,
     "uikTvd": "463404072478",
+    "uikName": "УИК №1725",
     "tikTvd": "263200081162",
-    "tikName": "Тольятти, Центральная"
+    "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1726,
     "uikTvd": "463404072479",
+    "uikName": "УИК №1726",
     "tikTvd": "263200081162",
-    "tikName": "Тольятти, Центральная"
+    "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1727,
     "uikTvd": "463404072480",
+    "uikName": "УИК №1727",
     "tikTvd": "263200081162",
-    "tikName": "Тольятти, Центральная"
+    "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1728,
     "uikTvd": "463404072481",
+    "uikName": "УИК №1728",
     "tikTvd": "263200081162",
-    "tikName": "Тольятти, Центральная"
+    "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1729,
     "uikTvd": "463404072482",
+    "uikName": "УИК №1729",
     "tikTvd": "263200081162",
-    "tikName": "Тольятти, Центральная"
+    "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1730,
     "uikTvd": "463404072483",
+    "uikName": "УИК №1730",
     "tikTvd": "263200081162",
-    "tikName": "Тольятти, Центральная"
+    "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1731,
     "uikTvd": "463404072484",
+    "uikName": "УИК №1731",
     "tikTvd": "263200081162",
-    "tikName": "Тольятти, Центральная"
+    "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1732,
     "uikTvd": "463404072485",
+    "uikName": "УИК №1732",
     "tikTvd": "263200081162",
-    "tikName": "Тольятти, Центральная"
+    "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1733,
     "uikTvd": "463404072486",
+    "uikName": "УИК №1733",
     "tikTvd": "263200081162",
-    "tikName": "Тольятти, Центральная"
+    "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1734,
     "uikTvd": "463404072487",
+    "uikName": "УИК №1734",
     "tikTvd": "263200081162",
-    "tikName": "Тольятти, Центральная"
+    "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1735,
     "uikTvd": "463404072488",
+    "uikName": "УИК №1735",
     "tikTvd": "263200081162",
-    "tikName": "Тольятти, Центральная"
+    "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1736,
     "uikTvd": "463404072489",
+    "uikName": "УИК №1736",
     "tikTvd": "263200081162",
-    "tikName": "Тольятти, Центральная"
+    "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1737,
     "uikTvd": "463404072490",
+    "uikName": "УИК №1737",
     "tikTvd": "263200081162",
-    "tikName": "Тольятти, Центральная"
+    "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1738,
     "uikTvd": "463404072491",
+    "uikName": "УИК №1738",
     "tikTvd": "263200081162",
-    "tikName": "Тольятти, Центральная"
+    "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1739,
     "uikTvd": "463404072492",
+    "uikName": "УИК №1739",
     "tikTvd": "263200081162",
-    "tikName": "Тольятти, Центральная"
+    "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   },
   {
     "uikNumber": 1740,
     "uikTvd": "463404072493",
+    "uikName": "УИК №1740",
     "tikTvd": "263200081162",
-    "tikName": "Тольятти, Центральная"
+    "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "1001000883012",
+    "regionName": "Самарская область",
+    "district": null
   }
 ] satisfies readonly UikTikRelation[];

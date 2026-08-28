@@ -11,6 +11,14 @@ export const duma_2016_tic_464_region_83 = [
     "ballot": "single-member",
     "tikTvd": "2832000224957",
     "tikName": "Заполярная",
+    "regionCode": "83",
+    "regionTvd": "100100067796140",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100067796141",
+      "oikName": "Ненецкий автономный округ – Ненецкий"
+    },
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 18529,
@@ -99,6 +107,14 @@ export const duma_2016_tic_464_region_83 = [
     "ballot": "single-member",
     "tikTvd": "2832000224958",
     "tikName": "Нарьян-Марская",
+    "regionCode": "83",
+    "regionTvd": "100100067796140",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100067796141",
+      "oikName": "Ненецкий автономный округ – Ненецкий"
+    },
     "uikCount": 11,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 17122,

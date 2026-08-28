@@ -11,6 +11,9 @@ export const duma_2011_tic_233_region_20 = [
     "ballot": "party",
     "tikTvd": "2202000226345",
     "tikName": "Аргунская",
+    "regionCode": "20",
+    "regionTvd": "100100028713334",
+    "regionName": "Чеченская Республика",
     "uikCount": 9,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 15511,
@@ -69,6 +72,9 @@ export const duma_2011_tic_233_region_20 = [
     "ballot": "party",
     "tikTvd": "2202000226346",
     "tikName": "Веденская",
+    "regionCode": "20",
+    "regionTvd": "100100028713334",
+    "regionName": "Чеченская Республика",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 19260,
@@ -150,6 +156,9 @@ export const duma_2011_tic_233_region_20 = [
     "ballot": "party",
     "tikTvd": "2202000226347",
     "tikName": "Ачхой-Мартановская",
+    "regionCode": "20",
+    "regionTvd": "100100028713334",
+    "regionName": "Чеченская Республика",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 34973,
@@ -223,6 +232,9 @@ export const duma_2011_tic_233_region_20 = [
     "ballot": "party",
     "tikTvd": "2202000226348",
     "tikName": "Грозненская",
+    "regionCode": "20",
+    "regionTvd": "100100028713334",
+    "regionName": "Чеченская Республика",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 60893,
@@ -310,6 +322,9 @@ export const duma_2011_tic_233_region_20 = [
     "ballot": "party",
     "tikTvd": "2202000226349",
     "tikName": "Гудермесская",
+    "regionCode": "20",
+    "regionTvd": "100100028713334",
+    "regionName": "Чеченская Республика",
     "uikCount": 45,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 69547,
@@ -404,6 +419,9 @@ export const duma_2011_tic_233_region_20 = [
     "ballot": "party",
     "tikTvd": "2202000226350",
     "tikName": "Итум-Калинская",
+    "regionCode": "20",
+    "regionTvd": "100100028713334",
+    "regionName": "Чеченская Республика",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 3932,
@@ -469,6 +487,9 @@ export const duma_2011_tic_233_region_20 = [
     "ballot": "party",
     "tikTvd": "2202000226351",
     "tikName": "Курчалоевская",
+    "regionCode": "20",
+    "regionTvd": "100100028713334",
+    "regionName": "Чеченская Республика",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 40512,
@@ -544,6 +565,9 @@ export const duma_2011_tic_233_region_20 = [
     "ballot": "party",
     "tikTvd": "2202000226352",
     "tikName": "Надтеречная",
+    "regionCode": "20",
+    "regionTvd": "100100028713334",
+    "regionName": "Чеченская Республика",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 35004,
@@ -613,6 +637,9 @@ export const duma_2011_tic_233_region_20 = [
     "ballot": "party",
     "tikTvd": "2202000226353",
     "tikName": "Наурская",
+    "regionCode": "20",
+    "regionTvd": "100100028713334",
+    "regionName": "Чеченская Республика",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 28900,
@@ -681,6 +708,9 @@ export const duma_2011_tic_233_region_20 = [
     "ballot": "party",
     "tikTvd": "2202000226354",
     "tikName": "Ножай-Юртовская",
+    "regionCode": "20",
+    "regionTvd": "100100028713334",
+    "regionName": "Чеченская Республика",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 25200,
@@ -761,6 +791,9 @@ export const duma_2011_tic_233_region_20 = [
     "ballot": "party",
     "tikTvd": "2202000226355",
     "tikName": "Сунженская",
+    "regionCode": "20",
+    "regionTvd": "100100028713334",
+    "regionName": "Чеченская Республика",
     "uikCount": 7,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 10868,
@@ -817,6 +850,9 @@ export const duma_2011_tic_233_region_20 = [
     "ballot": "party",
     "tikTvd": "2202000226356",
     "tikName": "Урус-Мартановская",
+    "regionCode": "20",
+    "regionTvd": "100100028713334",
+    "regionName": "Чеченская Республика",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 57379,
@@ -898,6 +934,9 @@ export const duma_2011_tic_233_region_20 = [
     "ballot": "party",
     "tikTvd": "2202000226357",
     "tikName": "Шалинская",
+    "regionCode": "20",
+    "regionTvd": "100100028713334",
+    "regionName": "Чеченская Республика",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 45310,
@@ -974,6 +1013,9 @@ export const duma_2011_tic_233_region_20 = [
     "ballot": "party",
     "tikTvd": "2202000226358",
     "tikName": "Шаройская",
+    "regionCode": "20",
+    "regionTvd": "100100028713334",
+    "regionName": "Чеченская Республика",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 1906,
@@ -1036,6 +1078,9 @@ export const duma_2011_tic_233_region_20 = [
     "ballot": "party",
     "tikTvd": "2202000226359",
     "tikName": "Шатойская",
+    "regionCode": "20",
+    "regionTvd": "100100028713334",
+    "regionName": "Чеченская Республика",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 10771,
@@ -1105,6 +1150,9 @@ export const duma_2011_tic_233_region_20 = [
     "ballot": "party",
     "tikTvd": "2202000226360",
     "tikName": "Шелковская",
+    "regionCode": "20",
+    "regionTvd": "100100028713334",
+    "regionName": "Чеченская Республика",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 29593,
@@ -1180,6 +1228,9 @@ export const duma_2011_tic_233_region_20 = [
     "ballot": "party",
     "tikTvd": "2202000226361",
     "tikName": "г. Грозный, Заводская",
+    "regionCode": "20",
+    "regionTvd": "100100028713334",
+    "regionName": "Чеченская Республика",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 28695,
@@ -1244,6 +1295,9 @@ export const duma_2011_tic_233_region_20 = [
     "ballot": "party",
     "tikTvd": "2202000226362",
     "tikName": "г. Грозный, Ленинская",
+    "regionCode": "20",
+    "regionTvd": "100100028713334",
+    "regionName": "Чеченская Республика",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 28587,
@@ -1314,6 +1368,9 @@ export const duma_2011_tic_233_region_20 = [
     "ballot": "party",
     "tikTvd": "2202000226363",
     "tikName": "г. Грозный, Октябрьская",
+    "regionCode": "20",
+    "regionTvd": "100100028713334",
+    "regionName": "Чеченская Республика",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 36215,
@@ -1385,6 +1442,9 @@ export const duma_2011_tic_233_region_20 = [
     "ballot": "party",
     "tikTvd": "2202000226364",
     "tikName": "г. Грозный, Старопромысловская",
+    "regionCode": "20",
+    "regionTvd": "100100028713334",
+    "regionName": "Чеченская Республика",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 31053,

@@ -11,6 +11,9 @@ export const president_2024_tic_227_region_37 = [
     "ballot": "presidential",
     "tikTvd": "23720001398697",
     "tikName": "Верхнеландеховская",
+    "regionCode": "37",
+    "regionTvd": "100100339411231",
+    "regionName": "Ивановская область",
     "uikCount": 10,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 3076,
@@ -61,6 +64,9 @@ export const president_2024_tic_227_region_37 = [
     "ballot": "presidential",
     "tikTvd": "23720001398698",
     "tikName": "Юрьевецкая",
+    "regionCode": "37",
+    "regionTvd": "100100339411231",
+    "regionName": "Ивановская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10722,
@@ -119,6 +125,9 @@ export const president_2024_tic_227_region_37 = [
     "ballot": "presidential",
     "tikTvd": "23720001398699",
     "tikName": "Южская",
+    "regionCode": "37",
+    "regionTvd": "100100339411231",
+    "regionName": "Ивановская область",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 13875,
@@ -175,6 +184,9 @@ export const president_2024_tic_227_region_37 = [
     "ballot": "presidential",
     "tikTvd": "23720001398700",
     "tikName": "Шуйская городская",
+    "regionCode": "37",
+    "regionTvd": "100100339411231",
+    "regionName": "Ивановская область",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 41842,
@@ -247,6 +259,9 @@ export const president_2024_tic_227_region_37 = [
     "ballot": "presidential",
     "tikTvd": "23720001398701",
     "tikName": "Шуйская",
+    "regionCode": "37",
+    "regionTvd": "100100339411231",
+    "regionName": "Ивановская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 13787,
@@ -309,6 +324,9 @@ export const president_2024_tic_227_region_37 = [
     "ballot": "presidential",
     "tikTvd": "23720001398702",
     "tikName": "Фурмановская",
+    "regionCode": "37",
+    "regionTvd": "100100339411231",
+    "regionName": "Ивановская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 30337,
@@ -378,6 +396,9 @@ export const president_2024_tic_227_region_37 = [
     "ballot": "presidential",
     "tikTvd": "23720001398703",
     "tikName": "Тейковская городская",
+    "regionCode": "37",
+    "regionTvd": "100100339411231",
+    "regionName": "Ивановская область",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 25795,
@@ -434,6 +455,9 @@ export const president_2024_tic_227_region_37 = [
     "ballot": "presidential",
     "tikTvd": "23720001398704",
     "tikName": "Тейковская",
+    "regionCode": "37",
+    "regionTvd": "100100339411231",
+    "regionName": "Ивановская область",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 8935,
@@ -488,6 +512,9 @@ export const president_2024_tic_227_region_37 = [
     "ballot": "presidential",
     "tikTvd": "23720001398705",
     "tikName": "Савинская",
+    "regionCode": "37",
+    "regionTvd": "100100339411231",
+    "regionName": "Ивановская область",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 7870,
@@ -544,6 +571,9 @@ export const president_2024_tic_227_region_37 = [
     "ballot": "presidential",
     "tikTvd": "23720001398706",
     "tikName": "Родниковская",
+    "regionCode": "37",
+    "regionTvd": "100100339411231",
+    "regionName": "Ивановская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 25246,
@@ -613,6 +643,9 @@ export const president_2024_tic_227_region_37 = [
     "ballot": "presidential",
     "tikTvd": "23720001398707",
     "tikName": "Пучежская",
+    "regionCode": "37",
+    "regionTvd": "100100339411231",
+    "regionName": "Ивановская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9311,
@@ -671,6 +704,9 @@ export const president_2024_tic_227_region_37 = [
     "ballot": "presidential",
     "tikTvd": "23720001398708",
     "tikName": "Приволжская",
+    "regionCode": "37",
+    "regionTvd": "100100339411231",
+    "regionName": "Ивановская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 18019,
@@ -737,6 +773,9 @@ export const president_2024_tic_227_region_37 = [
     "ballot": "presidential",
     "tikTvd": "23720001398709",
     "tikName": "Пестяковская",
+    "regionCode": "37",
+    "regionTvd": "100100339411231",
+    "regionName": "Ивановская область",
     "uikCount": 8,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 4034,
@@ -785,6 +824,9 @@ export const president_2024_tic_227_region_37 = [
     "ballot": "presidential",
     "tikTvd": "23720001398710",
     "tikName": "Палехская",
+    "regionCode": "37",
+    "regionTvd": "100100339411231",
+    "regionName": "Ивановская область",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 7779,
@@ -836,6 +878,9 @@ export const president_2024_tic_227_region_37 = [
     "ballot": "presidential",
     "tikTvd": "23720001398711",
     "tikName": "Лухская",
+    "regionCode": "37",
+    "regionTvd": "100100339411231",
+    "regionName": "Ивановская область",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 4224,
@@ -888,6 +933,9 @@ export const president_2024_tic_227_region_37 = [
     "ballot": "presidential",
     "tikTvd": "23720001398712",
     "tikName": "Лежневская",
+    "regionCode": "37",
+    "regionTvd": "100100339411231",
+    "regionName": "Ивановская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 13940,
@@ -947,6 +995,9 @@ export const president_2024_tic_227_region_37 = [
     "ballot": "presidential",
     "tikTvd": "23720001398713",
     "tikName": "Кохомская городская",
+    "regionCode": "37",
+    "regionTvd": "100100339411231",
+    "regionName": "Ивановская область",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 23990,
@@ -1003,6 +1054,9 @@ export const president_2024_tic_227_region_37 = [
     "ballot": "presidential",
     "tikTvd": "23720001398714",
     "tikName": "Комсомольская",
+    "regionCode": "37",
+    "regionTvd": "100100339411231",
+    "regionName": "Ивановская область",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 14230,
@@ -1057,6 +1111,9 @@ export const president_2024_tic_227_region_37 = [
     "ballot": "presidential",
     "tikTvd": "23720001398715",
     "tikName": "Кинешемская городская",
+    "regionCode": "37",
+    "regionTvd": "100100339411231",
+    "regionName": "Ивановская область",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 60742,
@@ -1140,6 +1197,9 @@ export const president_2024_tic_227_region_37 = [
     "ballot": "presidential",
     "tikTvd": "23720001398716",
     "tikName": "Кинешемская",
+    "regionCode": "37",
+    "regionTvd": "100100339411231",
+    "regionName": "Ивановская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 15102,
@@ -1204,6 +1264,9 @@ export const president_2024_tic_227_region_37 = [
     "ballot": "presidential",
     "tikTvd": "23720001398717",
     "tikName": "Ильинская",
+    "regionCode": "37",
+    "regionTvd": "100100339411231",
+    "regionName": "Ивановская область",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 6183,
@@ -1257,6 +1320,9 @@ export const president_2024_tic_227_region_37 = [
     "ballot": "presidential",
     "tikTvd": "23720001398718",
     "tikName": "Ивановская",
+    "regionCode": "37",
+    "regionTvd": "100100339411231",
+    "regionName": "Ивановская область",
     "uikCount": 48,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 31000,
@@ -1345,6 +1411,9 @@ export const president_2024_tic_227_region_37 = [
     "ballot": "presidential",
     "tikTvd": "23720001398719",
     "tikName": "Иваново, Фрунзенская",
+    "regionCode": "37",
+    "regionTvd": "100100339411231",
+    "regionName": "Ивановская область",
     "uikCount": 60,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 80504,
@@ -1445,6 +1514,9 @@ export const president_2024_tic_227_region_37 = [
     "ballot": "presidential",
     "tikTvd": "23720001398720",
     "tikName": "Иваново, Советская",
+    "regionCode": "37",
+    "regionTvd": "100100339411231",
+    "regionName": "Ивановская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 44551,
@@ -1519,6 +1591,9 @@ export const president_2024_tic_227_region_37 = [
     "ballot": "presidential",
     "tikTvd": "23720001398721",
     "tikName": "Иваново, Октябрьская",
+    "regionCode": "37",
+    "regionTvd": "100100339411231",
+    "regionName": "Ивановская область",
     "uikCount": 47,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 65269,
@@ -1606,6 +1681,9 @@ export const president_2024_tic_227_region_37 = [
     "ballot": "presidential",
     "tikTvd": "23720001398722",
     "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100339411231",
+    "regionName": "Ивановская область",
     "uikCount": 76,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 112093,
@@ -1722,6 +1800,9 @@ export const president_2024_tic_227_region_37 = [
     "ballot": "presidential",
     "tikTvd": "23720001398723",
     "tikName": "Заволжская",
+    "regionCode": "37",
+    "regionTvd": "100100339411231",
+    "regionName": "Ивановская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 11827,
@@ -1777,6 +1858,9 @@ export const president_2024_tic_227_region_37 = [
     "ballot": "presidential",
     "tikTvd": "23720001398724",
     "tikName": "Гаврилово-Посадская",
+    "regionCode": "37",
+    "regionTvd": "100100339411231",
+    "regionName": "Ивановская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 11766,
@@ -1835,6 +1919,9 @@ export const president_2024_tic_227_region_37 = [
     "ballot": "presidential",
     "tikTvd": "23720001398725",
     "tikName": "Вичугская городская",
+    "regionCode": "37",
+    "regionTvd": "100100339411231",
+    "regionName": "Ивановская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 26505,
@@ -1895,6 +1982,9 @@ export const president_2024_tic_227_region_37 = [
     "ballot": "presidential",
     "tikTvd": "23720001398726",
     "tikName": "Вичугская",
+    "regionCode": "37",
+    "regionTvd": "100100339411231",
+    "regionName": "Ивановская область",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 12178,

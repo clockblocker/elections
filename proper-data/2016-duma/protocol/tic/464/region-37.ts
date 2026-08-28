@@ -11,6 +11,14 @@ export const duma_2016_tic_464_region_37 = [
     "ballot": "single-member",
     "tikTvd": "2372000849565",
     "tikName": "Южская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    },
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 16623,
@@ -83,6 +91,14 @@ export const duma_2016_tic_464_region_37 = [
     "ballot": "single-member",
     "tikTvd": "2372000849566",
     "tikName": "Шуйская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    },
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 46844,
@@ -171,6 +187,14 @@ export const duma_2016_tic_464_region_37 = [
     "ballot": "single-member",
     "tikTvd": "2372000849567",
     "tikName": "Шуйская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    },
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 15205,
@@ -248,6 +272,14 @@ export const duma_2016_tic_464_region_37 = [
     "ballot": "single-member",
     "tikTvd": "2372000849568",
     "tikName": "Тейковская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    },
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 27963,
@@ -316,6 +348,14 @@ export const duma_2016_tic_464_region_37 = [
     "ballot": "single-member",
     "tikTvd": "2372000849569",
     "tikName": "Тейковская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    },
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 10065,
@@ -383,6 +423,14 @@ export const duma_2016_tic_464_region_37 = [
     "ballot": "single-member",
     "tikTvd": "2372000849570",
     "tikName": "Савинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    },
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 9279,
@@ -452,6 +500,14 @@ export const duma_2016_tic_464_region_37 = [
     "ballot": "single-member",
     "tikTvd": "2372000849571",
     "tikName": "Пучежская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    },
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 11895,
@@ -527,6 +583,14 @@ export const duma_2016_tic_464_region_37 = [
     "ballot": "single-member",
     "tikTvd": "2372000849572",
     "tikName": "Пестяковская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    },
     "uikCount": 12,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 5265,
@@ -591,6 +655,14 @@ export const duma_2016_tic_464_region_37 = [
     "ballot": "single-member",
     "tikTvd": "2372000849573",
     "tikName": "Палехская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    },
     "uikCount": 11,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 8871,
@@ -654,6 +726,14 @@ export const duma_2016_tic_464_region_37 = [
     "ballot": "single-member",
     "tikTvd": "2372000849574",
     "tikName": "Лухская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    },
     "uikCount": 12,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 5895,
@@ -718,6 +798,14 @@ export const duma_2016_tic_464_region_37 = [
     "ballot": "single-member",
     "tikTvd": "2372000849575",
     "tikName": "Лежневская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    },
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 14888,
@@ -789,6 +877,14 @@ export const duma_2016_tic_464_region_37 = [
     "ballot": "single-member",
     "tikTvd": "2372000849576",
     "tikName": "Кохомская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    },
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 22872,
@@ -857,6 +953,14 @@ export const duma_2016_tic_464_region_37 = [
     "ballot": "single-member",
     "tikTvd": "2372000849577",
     "tikName": "Комсомольская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    },
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 16390,
@@ -923,6 +1027,14 @@ export const duma_2016_tic_464_region_37 = [
     "ballot": "single-member",
     "tikTvd": "2372000849578",
     "tikName": "Ильинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    },
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 7489,
@@ -989,6 +1101,14 @@ export const duma_2016_tic_464_region_37 = [
     "ballot": "single-member",
     "tikTvd": "2372000849580",
     "tikName": "Иваново, Фрунзенская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    },
     "uikCount": 65,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 85579,
@@ -1106,6 +1226,14 @@ export const duma_2016_tic_464_region_37 = [
     "ballot": "single-member",
     "tikTvd": "2372000849581",
     "tikName": "Иваново, Октябрьская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    },
     "uikCount": 53,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 70757,
@@ -1211,6 +1339,14 @@ export const duma_2016_tic_464_region_37 = [
     "ballot": "single-member",
     "tikTvd": "2372000849582",
     "tikName": "Гаврилово-Посадская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    },
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 13744,
@@ -1281,6 +1417,14 @@ export const duma_2016_tic_464_region_37 = [
     "ballot": "single-member",
     "tikTvd": "2372000849583",
     "tikName": "Верхнеландеховская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    },
     "uikCount": 10,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 3731,
@@ -1343,6 +1487,14 @@ export const duma_2016_tic_464_region_37 = [
     "ballot": "single-member",
     "tikTvd": "2372000849584",
     "tikName": "Юрьевецкая",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    },
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 13025,
@@ -1412,6 +1564,14 @@ export const duma_2016_tic_464_region_37 = [
     "ballot": "single-member",
     "tikTvd": "2372000849585",
     "tikName": "Фурмановская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    },
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 35777,
@@ -1495,6 +1655,14 @@ export const duma_2016_tic_464_region_37 = [
     "ballot": "single-member",
     "tikTvd": "2372000849586",
     "tikName": "Родниковская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    },
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 30028,
@@ -1577,6 +1745,14 @@ export const duma_2016_tic_464_region_37 = [
     "ballot": "single-member",
     "tikTvd": "2372000849587",
     "tikName": "Приволжская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    },
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 20512,
@@ -1653,6 +1829,14 @@ export const duma_2016_tic_464_region_37 = [
     "ballot": "single-member",
     "tikTvd": "2372000849588",
     "tikName": "Кинешемская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    },
     "uikCount": 47,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 69503,
@@ -1750,6 +1934,14 @@ export const duma_2016_tic_464_region_37 = [
     "ballot": "single-member",
     "tikTvd": "2372000849589",
     "tikName": "Кинешемская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    },
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 17567,
@@ -1824,6 +2016,14 @@ export const duma_2016_tic_464_region_37 = [
     "ballot": "single-member",
     "tikTvd": "2372000849596",
     "tikName": "Ивановская - 91",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    },
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 19667,
@@ -1906,6 +2106,14 @@ export const duma_2016_tic_464_region_37 = [
     "ballot": "single-member",
     "tikTvd": "2372000849597",
     "tikName": "Ивановская - 92",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    },
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 9764,
@@ -1975,6 +2183,14 @@ export const duma_2016_tic_464_region_37 = [
     "ballot": "single-member",
     "tikTvd": "2372000849598",
     "tikName": "Иваново, Советская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    },
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 50944,
@@ -2065,6 +2281,14 @@ export const duma_2016_tic_464_region_37 = [
     "ballot": "single-member",
     "tikTvd": "2372000849599",
     "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    },
     "uikCount": 80,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 116611,
@@ -2195,6 +2419,14 @@ export const duma_2016_tic_464_region_37 = [
     "ballot": "single-member",
     "tikTvd": "2372000849600",
     "tikName": "Заволжская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    },
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 14822,
@@ -2261,6 +2493,14 @@ export const duma_2016_tic_464_region_37 = [
     "ballot": "single-member",
     "tikTvd": "2372000849601",
     "tikName": "Вичугская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    },
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 30305,
@@ -2332,6 +2572,14 @@ export const duma_2016_tic_464_region_37 = [
     "ballot": "single-member",
     "tikTvd": "2372000849602",
     "tikName": "Вичугская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    },
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 14540,

@@ -11,6 +11,14 @@ export const duma_2016_tic_464_region_90 = [
     "ballot": "single-member",
     "tikTvd": "25920001184761",
     "tikName": "Пермь, Дзержинская",
+    "regionCode": "90",
+    "regionTvd": "100100067796149",
+    "regionName": "Пермский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100067796150",
+      "oikName": "Пермский край – Пермский"
+    },
     "uikCount": 64,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 123241,
@@ -126,6 +134,14 @@ export const duma_2016_tic_464_region_90 = [
     "ballot": "single-member",
     "tikTvd": "25920001184762",
     "tikName": "Пермь, Кировская",
+    "regionCode": "90",
+    "regionTvd": "100100067796149",
+    "regionName": "Пермский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100067796150",
+      "oikName": "Пермский край – Пермский"
+    },
     "uikCount": 55,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 99478,
@@ -232,6 +248,14 @@ export const duma_2016_tic_464_region_90 = [
     "ballot": "single-member",
     "tikTvd": "25920001184763",
     "tikName": "Пермь, Ленинская",
+    "regionCode": "90",
+    "regionTvd": "100100067796149",
+    "regionName": "Пермский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100067796150",
+      "oikName": "Пермский край – Пермский"
+    },
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 36222,
@@ -313,6 +337,14 @@ export const duma_2016_tic_464_region_90 = [
     "ballot": "single-member",
     "tikTvd": "25920001184764",
     "tikName": "Звёздная городская",
+    "regionCode": "90",
+    "regionTvd": "100100067796149",
+    "regionName": "Пермский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100067796150",
+      "oikName": "Пермский край – Пермский"
+    },
     "uikCount": 5,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 5597,
@@ -369,6 +401,14 @@ export const duma_2016_tic_464_region_90 = [
     "ballot": "single-member",
     "tikTvd": "25920001184765",
     "tikName": "Бардымская",
+    "regionCode": "90",
+    "regionTvd": "100100067796149",
+    "regionName": "Пермский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100067796150",
+      "oikName": "Пермский край – Пермский"
+    },
     "uikCount": 47,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 20871,
@@ -467,6 +507,14 @@ export const duma_2016_tic_464_region_90 = [
     "ballot": "single-member",
     "tikTvd": "25920001184766",
     "tikName": "Большесосновская",
+    "regionCode": "90",
+    "regionTvd": "100100067796149",
+    "regionName": "Пермский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100067796150",
+      "oikName": "Пермский край – Пермский"
+    },
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 11084,
@@ -539,6 +587,14 @@ export const duma_2016_tic_464_region_90 = [
     "ballot": "single-member",
     "tikTvd": "25920001184767",
     "tikName": "Еловская",
+    "regionCode": "90",
+    "regionTvd": "100100067796149",
+    "regionName": "Пермский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100067796150",
+      "oikName": "Пермский край – Пермский"
+    },
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 9162,
@@ -612,6 +668,14 @@ export const duma_2016_tic_464_region_90 = [
     "ballot": "single-member",
     "tikTvd": "25920001184768",
     "tikName": "Куединская",
+    "regionCode": "90",
+    "regionTvd": "100100067796149",
+    "regionName": "Пермский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100067796150",
+      "oikName": "Пермский край – Пермский"
+    },
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 22263,
@@ -696,6 +760,14 @@ export const duma_2016_tic_464_region_90 = [
     "ballot": "single-member",
     "tikTvd": "25920001184769",
     "tikName": "Осинская",
+    "regionCode": "90",
+    "regionTvd": "100100067796149",
+    "regionName": "Пермский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100067796150",
+      "oikName": "Пермский край – Пермский"
+    },
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 23744,
@@ -778,6 +850,14 @@ export const duma_2016_tic_464_region_90 = [
     "ballot": "single-member",
     "tikTvd": "25920001184770",
     "tikName": "Оханская",
+    "regionCode": "90",
+    "regionTvd": "100100067796149",
+    "regionName": "Пермский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100067796150",
+      "oikName": "Пермский край – Пермский"
+    },
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 12626,
@@ -842,6 +922,14 @@ export const duma_2016_tic_464_region_90 = [
     "ballot": "single-member",
     "tikTvd": "25920001184771",
     "tikName": "Пермская - 58",
+    "regionCode": "90",
+    "regionTvd": "100100067796149",
+    "regionName": "Пермский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100067796150",
+      "oikName": "Пермский край – Пермский"
+    },
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 44150,
@@ -927,6 +1015,14 @@ export const duma_2016_tic_464_region_90 = [
     "ballot": "single-member",
     "tikTvd": "25920001184772",
     "tikName": "Чайковская",
+    "regionCode": "90",
+    "regionTvd": "100100067796149",
+    "regionName": "Пермский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100067796150",
+      "oikName": "Пермский край – Пермский"
+    },
     "uikCount": 51,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 82628,
@@ -1029,6 +1125,14 @@ export const duma_2016_tic_464_region_90 = [
     "ballot": "single-member",
     "tikTvd": "25920001184773",
     "tikName": "Частинская",
+    "regionCode": "90",
+    "regionTvd": "100100067796149",
+    "regionName": "Пермский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100067796150",
+      "oikName": "Пермский край – Пермский"
+    },
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 10720,
@@ -1098,6 +1202,14 @@ export const duma_2016_tic_464_region_90 = [
     "ballot": "single-member",
     "tikTvd": "25920001184784",
     "tikName": "Пермь, Мотовилихинская",
+    "regionCode": "90",
+    "regionTvd": "100100067796149",
+    "regionName": "Пермский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100067796151",
+      "oikName": "Пермский край – Чусовской"
+    },
     "uikCount": 74,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 141881,
@@ -1223,6 +1335,14 @@ export const duma_2016_tic_464_region_90 = [
     "ballot": "single-member",
     "tikTvd": "25920001184786",
     "tikName": "Губахинская городская",
+    "regionCode": "90",
+    "regionTvd": "100100067796149",
+    "regionName": "Пермский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100067796151",
+      "oikName": "Пермский край – Чусовской"
+    },
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 28873,
@@ -1298,6 +1418,14 @@ export const duma_2016_tic_464_region_90 = [
     "ballot": "single-member",
     "tikTvd": "25920001184787",
     "tikName": "Лысьвенская городская",
+    "regionCode": "90",
+    "regionTvd": "100100067796149",
+    "regionName": "Пермский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100067796151",
+      "oikName": "Пермский край – Чусовской"
+    },
     "uikCount": 49,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 62996,
@@ -1398,6 +1526,14 @@ export const duma_2016_tic_464_region_90 = [
     "ballot": "single-member",
     "tikTvd": "25920001184788",
     "tikName": "Александровская",
+    "regionCode": "90",
+    "regionTvd": "100100067796149",
+    "regionName": "Пермский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100067796151",
+      "oikName": "Пермский край – Чусовской"
+    },
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 24801,
@@ -1471,6 +1607,14 @@ export const duma_2016_tic_464_region_90 = [
     "ballot": "single-member",
     "tikTvd": "25920001184789",
     "tikName": "Березовская",
+    "regionCode": "90",
+    "regionTvd": "100100067796149",
+    "regionName": "Пермский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100067796151",
+      "oikName": "Пермский край – Чусовской"
+    },
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 13441,
@@ -1555,6 +1699,14 @@ export const duma_2016_tic_464_region_90 = [
     "ballot": "single-member",
     "tikTvd": "25920001184790",
     "tikName": "Горнозаводская",
+    "regionCode": "90",
+    "regionTvd": "100100067796149",
+    "regionName": "Пермский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100067796151",
+      "oikName": "Пермский край – Чусовской"
+    },
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 21014,
@@ -1627,6 +1779,14 @@ export const duma_2016_tic_464_region_90 = [
     "ballot": "single-member",
     "tikTvd": "25920001184791",
     "tikName": "Гремячинская",
+    "regionCode": "90",
+    "regionTvd": "100100067796149",
+    "regionName": "Пермский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100067796151",
+      "oikName": "Пермский край – Чусовской"
+    },
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 11346,
@@ -1691,6 +1851,14 @@ export const duma_2016_tic_464_region_90 = [
     "ballot": "single-member",
     "tikTvd": "25920001184792",
     "tikName": "Добрянская",
+    "regionCode": "90",
+    "regionTvd": "100100067796149",
+    "regionName": "Пермский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100067796151",
+      "oikName": "Пермский край – Чусовской"
+    },
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 47379,
@@ -1782,6 +1950,14 @@ export const duma_2016_tic_464_region_90 = [
     "ballot": "single-member",
     "tikTvd": "25920001184793",
     "tikName": "Кизеловская",
+    "regionCode": "90",
+    "regionTvd": "100100067796149",
+    "regionName": "Пермский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100067796151",
+      "oikName": "Пермский край – Чусовской"
+    },
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 21342,
@@ -1849,6 +2025,14 @@ export const duma_2016_tic_464_region_90 = [
     "ballot": "single-member",
     "tikTvd": "25920001184794",
     "tikName": "Пермская - 59",
+    "regionCode": "90",
+    "regionTvd": "100100067796149",
+    "regionName": "Пермский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100067796151",
+      "oikName": "Пермский край – Чусовской"
+    },
     "uikCount": 1,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 947,
@@ -1901,6 +2085,14 @@ export const duma_2016_tic_464_region_90 = [
     "ballot": "single-member",
     "tikTvd": "25920001184795",
     "tikName": "Чусовская",
+    "regionCode": "90",
+    "regionTvd": "100100067796149",
+    "regionName": "Пермский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100067796151",
+      "oikName": "Пермский край – Чусовской"
+    },
     "uikCount": 54,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 53204,
@@ -2006,6 +2198,14 @@ export const duma_2016_tic_464_region_90 = [
     "ballot": "single-member",
     "tikTvd": "25920001184796",
     "tikName": "Пермь, Индустриальная",
+    "regionCode": "90",
+    "regionTvd": "100100067796149",
+    "regionName": "Пермский край",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100067796152",
+      "oikName": "Пермский край – Кунгурский"
+    },
     "uikCount": 66,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 122652,
@@ -2123,6 +2323,14 @@ export const duma_2016_tic_464_region_90 = [
     "ballot": "single-member",
     "tikTvd": "25920001184797",
     "tikName": "Пермь, Орджоникидзевская",
+    "regionCode": "90",
+    "regionTvd": "100100067796149",
+    "regionName": "Пермский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100067796151",
+      "oikName": "Пермский край – Чусовской"
+    },
     "uikCount": 56,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 95943,
@@ -2230,6 +2438,14 @@ export const duma_2016_tic_464_region_90 = [
     "ballot": "single-member",
     "tikTvd": "25920001184798",
     "tikName": "Пермь, Свердловская",
+    "regionCode": "90",
+    "regionTvd": "100100067796149",
+    "regionName": "Пермский край",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100067796152",
+      "oikName": "Пермский край – Кунгурский"
+    },
     "uikCount": 90,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 164738,
@@ -2371,6 +2587,14 @@ export const duma_2016_tic_464_region_90 = [
     "ballot": "single-member",
     "tikTvd": "25920001184799",
     "tikName": "Кунгурская городская",
+    "regionCode": "90",
+    "regionTvd": "100100067796149",
+    "regionName": "Пермский край",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100067796152",
+      "oikName": "Пермский край – Кунгурский"
+    },
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 48234,
@@ -2456,6 +2680,14 @@ export const duma_2016_tic_464_region_90 = [
     "ballot": "single-member",
     "tikTvd": "25920001184800",
     "tikName": "Кишертская",
+    "regionCode": "90",
+    "regionTvd": "100100067796149",
+    "regionName": "Пермский край",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100067796152",
+      "oikName": "Пермский край – Кунгурский"
+    },
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 10867,
@@ -2529,6 +2761,14 @@ export const duma_2016_tic_464_region_90 = [
     "ballot": "single-member",
     "tikTvd": "25920001184801",
     "tikName": "Кунгурская районная",
+    "regionCode": "90",
+    "regionTvd": "100100067796149",
+    "regionName": "Пермский край",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100067796152",
+      "oikName": "Пермский край – Кунгурский"
+    },
     "uikCount": 53,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 35278,
@@ -2633,6 +2873,14 @@ export const duma_2016_tic_464_region_90 = [
     "ballot": "single-member",
     "tikTvd": "25920001184802",
     "tikName": "Октябрьская",
+    "regionCode": "90",
+    "regionTvd": "100100067796149",
+    "regionName": "Пермский край",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100067796152",
+      "oikName": "Пермский край – Кунгурский"
+    },
     "uikCount": 41,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 24498,
@@ -2725,6 +2973,14 @@ export const duma_2016_tic_464_region_90 = [
     "ballot": "single-member",
     "tikTvd": "25920001184803",
     "tikName": "Ординская",
+    "regionCode": "90",
+    "regionTvd": "100100067796149",
+    "regionName": "Пермский край",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100067796152",
+      "oikName": "Пермский край – Кунгурский"
+    },
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 12542,
@@ -2796,6 +3052,14 @@ export const duma_2016_tic_464_region_90 = [
     "ballot": "single-member",
     "tikTvd": "25920001184804",
     "tikName": "Пермская - 60",
+    "regionCode": "90",
+    "regionTvd": "100100067796149",
+    "regionName": "Пермский край",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100067796152",
+      "oikName": "Пермский край – Кунгурский"
+    },
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 40295,
@@ -2874,6 +3138,14 @@ export const duma_2016_tic_464_region_90 = [
     "ballot": "single-member",
     "tikTvd": "25920001184805",
     "tikName": "Суксунская",
+    "regionCode": "90",
+    "regionTvd": "100100067796149",
+    "regionName": "Пермский край",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100067796152",
+      "oikName": "Пермский край – Кунгурский"
+    },
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 16021,
@@ -2947,6 +3219,14 @@ export const duma_2016_tic_464_region_90 = [
     "ballot": "single-member",
     "tikTvd": "25920001184806",
     "tikName": "Уинская",
+    "regionCode": "90",
+    "regionTvd": "100100067796149",
+    "regionName": "Пермский край",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100067796152",
+      "oikName": "Пермский край – Кунгурский"
+    },
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 9451,
@@ -3022,6 +3302,14 @@ export const duma_2016_tic_464_region_90 = [
     "ballot": "single-member",
     "tikTvd": "25920001184807",
     "tikName": "Чернушинская",
+    "regionCode": "90",
+    "regionTvd": "100100067796149",
+    "regionName": "Пермский край",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100067796152",
+      "oikName": "Пермский край – Кунгурский"
+    },
     "uikCount": 41,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 39948,
@@ -3114,6 +3402,14 @@ export const duma_2016_tic_464_region_90 = [
     "ballot": "single-member",
     "tikTvd": "25920001184808",
     "tikName": "Березниковская городская",
+    "regionCode": "90",
+    "regionTvd": "100100067796149",
+    "regionName": "Пермский край",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100067796153",
+      "oikName": "Пермский край – Кудымкарский"
+    },
     "uikCount": 55,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 118171,
@@ -3218,6 +3514,14 @@ export const duma_2016_tic_464_region_90 = [
     "ballot": "single-member",
     "tikTvd": "25920001184809",
     "tikName": "Кудымкарская городская",
+    "regionCode": "90",
+    "regionTvd": "100100067796149",
+    "regionName": "Пермский край",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100067796153",
+      "oikName": "Пермский край – Кудымкарский"
+    },
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 22747,
@@ -3284,6 +3588,14 @@ export const duma_2016_tic_464_region_90 = [
     "ballot": "single-member",
     "tikTvd": "25920001184810",
     "tikName": "Соликамская городская",
+    "regionCode": "90",
+    "regionTvd": "100100067796149",
+    "regionName": "Пермский край",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100067796153",
+      "oikName": "Пермский край – Кудымкарский"
+    },
     "uikCount": 45,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 70570,
@@ -3378,6 +3690,14 @@ export const duma_2016_tic_464_region_90 = [
     "ballot": "single-member",
     "tikTvd": "25920001184811",
     "tikName": "Верещагинская",
+    "regionCode": "90",
+    "regionTvd": "100100067796149",
+    "regionName": "Пермский край",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100067796153",
+      "oikName": "Пермский край – Кудымкарский"
+    },
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 32628,
@@ -3463,6 +3783,14 @@ export const duma_2016_tic_464_region_90 = [
     "ballot": "single-member",
     "tikTvd": "25920001184812",
     "tikName": "Гайнская",
+    "regionCode": "90",
+    "regionTvd": "100100067796149",
+    "regionName": "Пермский край",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100067796153",
+      "oikName": "Пермский край – Кудымкарский"
+    },
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 11501,
@@ -3539,6 +3867,14 @@ export const duma_2016_tic_464_region_90 = [
     "ballot": "single-member",
     "tikTvd": "25920001184813",
     "tikName": "Ильинская",
+    "regionCode": "90",
+    "regionTvd": "100100067796149",
+    "regionName": "Пермский край",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100067796153",
+      "oikName": "Пермский край – Кудымкарский"
+    },
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 15581,
@@ -3616,6 +3952,14 @@ export const duma_2016_tic_464_region_90 = [
     "ballot": "single-member",
     "tikTvd": "25920001184814",
     "tikName": "Карагайская",
+    "regionCode": "90",
+    "regionTvd": "100100067796149",
+    "regionName": "Пермский край",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100067796153",
+      "oikName": "Пермский край – Кудымкарский"
+    },
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 18580,
@@ -3691,6 +4035,14 @@ export const duma_2016_tic_464_region_90 = [
     "ballot": "single-member",
     "tikTvd": "25920001184815",
     "tikName": "Косинская",
+    "regionCode": "90",
+    "regionTvd": "100100067796149",
+    "regionName": "Пермский край",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100067796153",
+      "oikName": "Пермский край – Кудымкарский"
+    },
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 6031,
@@ -3757,6 +4109,14 @@ export const duma_2016_tic_464_region_90 = [
     "ballot": "single-member",
     "tikTvd": "25920001184816",
     "tikName": "Кочевская",
+    "regionCode": "90",
+    "regionTvd": "100100067796149",
+    "regionName": "Пермский край",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100067796153",
+      "oikName": "Пермский край – Кудымкарский"
+    },
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 9142,
@@ -3827,6 +4187,14 @@ export const duma_2016_tic_464_region_90 = [
     "ballot": "single-member",
     "tikTvd": "25920001184817",
     "tikName": "Красновишерская",
+    "regionCode": "90",
+    "regionTvd": "100100067796149",
+    "regionName": "Пермский край",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100067796153",
+      "oikName": "Пермский край – Кудымкарский"
+    },
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 18616,
@@ -3907,6 +4275,14 @@ export const duma_2016_tic_464_region_90 = [
     "ballot": "single-member",
     "tikTvd": "25920001184818",
     "tikName": "Краснокамская",
+    "regionCode": "90",
+    "regionTvd": "100100067796149",
+    "regionName": "Пермский край",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100067796153",
+      "oikName": "Пермский край – Кудымкарский"
+    },
     "uikCount": 41,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 56291,
@@ -3997,6 +4373,14 @@ export const duma_2016_tic_464_region_90 = [
     "ballot": "single-member",
     "tikTvd": "25920001184819",
     "tikName": "Кудымкарская районная",
+    "regionCode": "90",
+    "regionTvd": "100100067796149",
+    "regionName": "Пермский край",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100067796153",
+      "oikName": "Пермский край – Кудымкарский"
+    },
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 19424,
@@ -4086,6 +4470,14 @@ export const duma_2016_tic_464_region_90 = [
     "ballot": "single-member",
     "tikTvd": "25920001184820",
     "tikName": "Нытвенская",
+    "regionCode": "90",
+    "regionTvd": "100100067796149",
+    "regionName": "Пермский край",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100067796153",
+      "oikName": "Пермский край – Кудымкарский"
+    },
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 36642,
@@ -4173,6 +4565,14 @@ export const duma_2016_tic_464_region_90 = [
     "ballot": "single-member",
     "tikTvd": "25920001184821",
     "tikName": "Сивинская",
+    "regionCode": "90",
+    "regionTvd": "100100067796149",
+    "regionName": "Пермский край",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100067796153",
+      "oikName": "Пермский край – Кудымкарский"
+    },
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 12134,
@@ -4242,6 +4642,14 @@ export const duma_2016_tic_464_region_90 = [
     "ballot": "single-member",
     "tikTvd": "25920001184822",
     "tikName": "Соликамская районная",
+    "regionCode": "90",
+    "regionTvd": "100100067796149",
+    "regionName": "Пермский край",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100067796153",
+      "oikName": "Пермский край – Кудымкарский"
+    },
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 11180,
@@ -4307,6 +4715,14 @@ export const duma_2016_tic_464_region_90 = [
     "ballot": "single-member",
     "tikTvd": "25920001184823",
     "tikName": "Усольская",
+    "regionCode": "90",
+    "regionTvd": "100100067796149",
+    "regionName": "Пермский край",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100067796153",
+      "oikName": "Пермский край – Кудымкарский"
+    },
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 11451,
@@ -4375,6 +4791,14 @@ export const duma_2016_tic_464_region_90 = [
     "ballot": "single-member",
     "tikTvd": "25920001184824",
     "tikName": "Чердынская",
+    "regionCode": "90",
+    "regionTvd": "100100067796149",
+    "regionName": "Пермский край",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100067796153",
+      "oikName": "Пермский край – Кудымкарский"
+    },
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 16456,
@@ -4449,6 +4873,14 @@ export const duma_2016_tic_464_region_90 = [
     "ballot": "single-member",
     "tikTvd": "25920001184825",
     "tikName": "Юрлинская",
+    "regionCode": "90",
+    "regionTvd": "100100067796149",
+    "regionName": "Пермский край",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100067796153",
+      "oikName": "Пермский край – Кудымкарский"
+    },
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 8112,
@@ -4517,6 +4949,14 @@ export const duma_2016_tic_464_region_90 = [
     "ballot": "single-member",
     "tikTvd": "25920001184826",
     "tikName": "Юсьвинская",
+    "regionCode": "90",
+    "regionTvd": "100100067796149",
+    "regionName": "Пермский край",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100067796153",
+      "oikName": "Пермский край – Кудымкарский"
+    },
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 15763,
@@ -4589,6 +5029,14 @@ export const duma_2016_tic_464_region_90 = [
     "ballot": "single-member",
     "tikTvd": "25920001184834",
     "tikName": "Очерская",
+    "regionCode": "90",
+    "regionTvd": "100100067796149",
+    "regionName": "Пермский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100067796150",
+      "oikName": "Пермский край – Пермский"
+    },
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 19010,

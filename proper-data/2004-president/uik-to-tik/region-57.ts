@@ -7,4759 +7,8724 @@ export const president_2004_uik_to_tik_region_57 = [
   {
     "uikNumber": 1,
     "uikTvd": "457401772285",
+    "uikName": "УИК №1",
     "tikTvd": "257200076152",
-    "tikName": "Орел, Железнодорожная"
+    "tikName": "Орел, Железнодорожная",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 2,
     "uikTvd": "457401772286",
+    "uikName": "УИК №2",
     "tikTvd": "257200076152",
-    "tikName": "Орел, Железнодорожная"
+    "tikName": "Орел, Железнодорожная",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 3,
     "uikTvd": "457401772287",
+    "uikName": "УИК №3",
     "tikTvd": "257200076152",
-    "tikName": "Орел, Железнодорожная"
+    "tikName": "Орел, Железнодорожная",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 4,
     "uikTvd": "457401772288",
+    "uikName": "УИК №4",
     "tikTvd": "257200076152",
-    "tikName": "Орел, Железнодорожная"
+    "tikName": "Орел, Железнодорожная",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 5,
     "uikTvd": "457401772289",
+    "uikName": "УИК №5",
     "tikTvd": "257200076152",
-    "tikName": "Орел, Железнодорожная"
+    "tikName": "Орел, Железнодорожная",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 6,
     "uikTvd": "457401772290",
+    "uikName": "УИК №6",
     "tikTvd": "257200076152",
-    "tikName": "Орел, Железнодорожная"
+    "tikName": "Орел, Железнодорожная",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 7,
     "uikTvd": "457401772291",
+    "uikName": "УИК №7",
     "tikTvd": "257200076152",
-    "tikName": "Орел, Железнодорожная"
+    "tikName": "Орел, Железнодорожная",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 8,
     "uikTvd": "457401772292",
+    "uikName": "УИК №8",
     "tikTvd": "257200076152",
-    "tikName": "Орел, Железнодорожная"
+    "tikName": "Орел, Железнодорожная",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 9,
     "uikTvd": "457401772293",
+    "uikName": "УИК №9",
     "tikTvd": "257200076152",
-    "tikName": "Орел, Железнодорожная"
+    "tikName": "Орел, Железнодорожная",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 10,
     "uikTvd": "457401772294",
+    "uikName": "УИК №10",
     "tikTvd": "257200076152",
-    "tikName": "Орел, Железнодорожная"
+    "tikName": "Орел, Железнодорожная",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 11,
     "uikTvd": "457401772295",
+    "uikName": "УИК №11",
     "tikTvd": "257200076152",
-    "tikName": "Орел, Железнодорожная"
+    "tikName": "Орел, Железнодорожная",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 12,
     "uikTvd": "457401772296",
+    "uikName": "УИК №12",
     "tikTvd": "257200076152",
-    "tikName": "Орел, Железнодорожная"
+    "tikName": "Орел, Железнодорожная",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 13,
     "uikTvd": "457401772297",
+    "uikName": "УИК №13",
     "tikTvd": "257200076152",
-    "tikName": "Орел, Железнодорожная"
+    "tikName": "Орел, Железнодорожная",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 14,
     "uikTvd": "457401772298",
+    "uikName": "УИК №14",
     "tikTvd": "257200076152",
-    "tikName": "Орел, Железнодорожная"
+    "tikName": "Орел, Железнодорожная",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 15,
     "uikTvd": "457401772299",
+    "uikName": "УИК №15",
     "tikTvd": "257200076152",
-    "tikName": "Орел, Железнодорожная"
+    "tikName": "Орел, Железнодорожная",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 16,
     "uikTvd": "457401772300",
+    "uikName": "УИК №16",
     "tikTvd": "257200076152",
-    "tikName": "Орел, Железнодорожная"
+    "tikName": "Орел, Железнодорожная",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 17,
     "uikTvd": "457401772301",
+    "uikName": "УИК №17",
     "tikTvd": "257200076152",
-    "tikName": "Орел, Железнодорожная"
+    "tikName": "Орел, Железнодорожная",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 18,
     "uikTvd": "457401772302",
+    "uikName": "УИК №18",
     "tikTvd": "257200076152",
-    "tikName": "Орел, Железнодорожная"
+    "tikName": "Орел, Железнодорожная",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 19,
     "uikTvd": "457401772303",
+    "uikName": "УИК №19",
     "tikTvd": "257200076152",
-    "tikName": "Орел, Железнодорожная"
+    "tikName": "Орел, Железнодорожная",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 20,
     "uikTvd": "457401772304",
+    "uikName": "УИК №20",
     "tikTvd": "257200076152",
-    "tikName": "Орел, Железнодорожная"
+    "tikName": "Орел, Железнодорожная",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 21,
     "uikTvd": "457401772305",
+    "uikName": "УИК №21",
     "tikTvd": "257200076152",
-    "tikName": "Орел, Железнодорожная"
+    "tikName": "Орел, Железнодорожная",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 22,
     "uikTvd": "457401772306",
+    "uikName": "УИК №22",
     "tikTvd": "257200076152",
-    "tikName": "Орел, Железнодорожная"
+    "tikName": "Орел, Железнодорожная",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 23,
     "uikTvd": "457401772307",
+    "uikName": "УИК №23",
     "tikTvd": "257200076152",
-    "tikName": "Орел, Железнодорожная"
+    "tikName": "Орел, Железнодорожная",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 24,
     "uikTvd": "457401772308",
+    "uikName": "УИК №24",
     "tikTvd": "257200076152",
-    "tikName": "Орел, Железнодорожная"
+    "tikName": "Орел, Железнодорожная",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 25,
     "uikTvd": "457401772309",
+    "uikName": "УИК №25",
     "tikTvd": "257200076152",
-    "tikName": "Орел, Железнодорожная"
+    "tikName": "Орел, Железнодорожная",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 26,
     "uikTvd": "457401772310",
+    "uikName": "УИК №26",
     "tikTvd": "257200076152",
-    "tikName": "Орел, Железнодорожная"
+    "tikName": "Орел, Железнодорожная",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 27,
     "uikTvd": "457401772311",
+    "uikName": "УИК №27",
     "tikTvd": "257200076152",
-    "tikName": "Орел, Железнодорожная"
+    "tikName": "Орел, Железнодорожная",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 28,
     "uikTvd": "457401772312",
+    "uikName": "УИК №28",
     "tikTvd": "257200076152",
-    "tikName": "Орел, Железнодорожная"
+    "tikName": "Орел, Железнодорожная",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 29,
     "uikTvd": "457401772313",
+    "uikName": "УИК №29",
     "tikTvd": "257200076152",
-    "tikName": "Орел, Железнодорожная"
+    "tikName": "Орел, Железнодорожная",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 30,
     "uikTvd": "457403072104",
+    "uikName": "УИК №30",
     "tikTvd": "257200076163",
-    "tikName": "Орел, Северная "
+    "tikName": "Орел, Северная ",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 31,
     "uikTvd": "457403072106",
+    "uikName": "УИК №31",
     "tikTvd": "257200076163",
-    "tikName": "Орел, Северная "
+    "tikName": "Орел, Северная ",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 32,
     "uikTvd": "457403072108",
+    "uikName": "УИК №32",
     "tikTvd": "257200076163",
-    "tikName": "Орел, Северная "
+    "tikName": "Орел, Северная ",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 33,
     "uikTvd": "457403072110",
+    "uikName": "УИК №33",
     "tikTvd": "257200076163",
-    "tikName": "Орел, Северная "
+    "tikName": "Орел, Северная ",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 34,
     "uikTvd": "457403072112",
+    "uikName": "УИК №34",
     "tikTvd": "257200076163",
-    "tikName": "Орел, Северная "
+    "tikName": "Орел, Северная ",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 35,
     "uikTvd": "457403072113",
+    "uikName": "УИК №35",
     "tikTvd": "257200076163",
-    "tikName": "Орел, Северная "
+    "tikName": "Орел, Северная ",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 36,
     "uikTvd": "457403072114",
+    "uikName": "УИК №36",
     "tikTvd": "257200076163",
-    "tikName": "Орел, Северная "
+    "tikName": "Орел, Северная ",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 37,
     "uikTvd": "457403072115",
+    "uikName": "УИК №37",
     "tikTvd": "257200076163",
-    "tikName": "Орел, Северная "
+    "tikName": "Орел, Северная ",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 38,
     "uikTvd": "457403072116",
+    "uikName": "УИК №38",
     "tikTvd": "257200076163",
-    "tikName": "Орел, Северная "
+    "tikName": "Орел, Северная ",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 39,
     "uikTvd": "457403072117",
+    "uikName": "УИК №39",
     "tikTvd": "257200076163",
-    "tikName": "Орел, Северная "
+    "tikName": "Орел, Северная ",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 40,
     "uikTvd": "457403072118",
+    "uikName": "УИК №40",
     "tikTvd": "257200076163",
-    "tikName": "Орел, Северная "
+    "tikName": "Орел, Северная ",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 41,
     "uikTvd": "457403072119",
+    "uikName": "УИК №41",
     "tikTvd": "257200076163",
-    "tikName": "Орел, Северная "
+    "tikName": "Орел, Северная ",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 42,
     "uikTvd": "457403072120",
+    "uikName": "УИК №42",
     "tikTvd": "257200076163",
-    "tikName": "Орел, Северная "
+    "tikName": "Орел, Северная ",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 43,
     "uikTvd": "457403072121",
+    "uikName": "УИК №43",
     "tikTvd": "257200076163",
-    "tikName": "Орел, Северная "
+    "tikName": "Орел, Северная ",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 44,
     "uikTvd": "457403072122",
+    "uikName": "УИК №44",
     "tikTvd": "257200076163",
-    "tikName": "Орел, Северная "
+    "tikName": "Орел, Северная ",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 45,
     "uikTvd": "457403072123",
+    "uikName": "УИК №45",
     "tikTvd": "257200076163",
-    "tikName": "Орел, Северная "
+    "tikName": "Орел, Северная ",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 46,
     "uikTvd": "457403072124",
+    "uikName": "УИК №46",
     "tikTvd": "257200076163",
-    "tikName": "Орел, Северная "
+    "tikName": "Орел, Северная ",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 47,
     "uikTvd": "457403072125",
+    "uikName": "УИК №47",
     "tikTvd": "257200076163",
-    "tikName": "Орел, Северная "
+    "tikName": "Орел, Северная ",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 48,
     "uikTvd": "457403072126",
+    "uikName": "УИК №48",
     "tikTvd": "257200076163",
-    "tikName": "Орел, Северная "
+    "tikName": "Орел, Северная ",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 49,
     "uikTvd": "457401872719",
+    "uikName": "УИК №49",
     "tikTvd": "257200076153",
-    "tikName": "Орел, Заводская"
+    "tikName": "Орел, Заводская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 50,
     "uikTvd": "457401872720",
+    "uikName": "УИК №50",
     "tikTvd": "257200076153",
-    "tikName": "Орел, Заводская"
+    "tikName": "Орел, Заводская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 51,
     "uikTvd": "457401872721",
+    "uikName": "УИК №51",
     "tikTvd": "257200076153",
-    "tikName": "Орел, Заводская"
+    "tikName": "Орел, Заводская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 52,
     "uikTvd": "457401872722",
+    "uikName": "УИК №52",
     "tikTvd": "257200076153",
-    "tikName": "Орел, Заводская"
+    "tikName": "Орел, Заводская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 53,
     "uikTvd": "457401872723",
+    "uikName": "УИК №53",
     "tikTvd": "257200076153",
-    "tikName": "Орел, Заводская"
+    "tikName": "Орел, Заводская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 54,
     "uikTvd": "457401872724",
+    "uikName": "УИК №54",
     "tikTvd": "257200076153",
-    "tikName": "Орел, Заводская"
+    "tikName": "Орел, Заводская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 55,
     "uikTvd": "457401872725",
+    "uikName": "УИК №55",
     "tikTvd": "257200076153",
-    "tikName": "Орел, Заводская"
+    "tikName": "Орел, Заводская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 56,
     "uikTvd": "457401872726",
+    "uikName": "УИК №56",
     "tikTvd": "257200076153",
-    "tikName": "Орел, Заводская"
+    "tikName": "Орел, Заводская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 57,
     "uikTvd": "457401872727",
+    "uikName": "УИК №57",
     "tikTvd": "257200076153",
-    "tikName": "Орел, Заводская"
+    "tikName": "Орел, Заводская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 58,
     "uikTvd": "457401872728",
+    "uikName": "УИК №58",
     "tikTvd": "257200076153",
-    "tikName": "Орел, Заводская"
+    "tikName": "Орел, Заводская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 59,
     "uikTvd": "457401872729",
+    "uikName": "УИК №59",
     "tikTvd": "257200076153",
-    "tikName": "Орел, Заводская"
+    "tikName": "Орел, Заводская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 60,
     "uikTvd": "457401872730",
+    "uikName": "УИК №60",
     "tikTvd": "257200076153",
-    "tikName": "Орел, Заводская"
+    "tikName": "Орел, Заводская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 61,
     "uikTvd": "457401872731",
+    "uikName": "УИК №61",
     "tikTvd": "257200076153",
-    "tikName": "Орел, Заводская"
+    "tikName": "Орел, Заводская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 62,
     "uikTvd": "457401872732",
+    "uikName": "УИК №62",
     "tikTvd": "257200076153",
-    "tikName": "Орел, Заводская"
+    "tikName": "Орел, Заводская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 63,
     "uikTvd": "457401872733",
+    "uikName": "УИК №63",
     "tikTvd": "257200076153",
-    "tikName": "Орел, Заводская"
+    "tikName": "Орел, Заводская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 64,
     "uikTvd": "457401872734",
+    "uikName": "УИК №64",
     "tikTvd": "257200076153",
-    "tikName": "Орел, Заводская"
+    "tikName": "Орел, Заводская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 65,
     "uikTvd": "457401872735",
+    "uikName": "УИК №65",
     "tikTvd": "257200076153",
-    "tikName": "Орел, Заводская"
+    "tikName": "Орел, Заводская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 66,
     "uikTvd": "457401872736",
+    "uikName": "УИК №66",
     "tikTvd": "257200076153",
-    "tikName": "Орел, Заводская"
+    "tikName": "Орел, Заводская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 67,
     "uikTvd": "457401872737",
+    "uikName": "УИК №67",
     "tikTvd": "257200076153",
-    "tikName": "Орел, Заводская"
+    "tikName": "Орел, Заводская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 68,
     "uikTvd": "457401872738",
+    "uikName": "УИК №68",
     "tikTvd": "257200076153",
-    "tikName": "Орел, Заводская"
+    "tikName": "Орел, Заводская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 69,
     "uikTvd": "457401872739",
+    "uikName": "УИК №69",
     "tikTvd": "257200076153",
-    "tikName": "Орел, Заводская"
+    "tikName": "Орел, Заводская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 70,
     "uikTvd": "457401872740",
+    "uikName": "УИК №70",
     "tikTvd": "257200076153",
-    "tikName": "Орел, Заводская"
+    "tikName": "Орел, Заводская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 71,
     "uikTvd": "457401872741",
+    "uikName": "УИК №71",
     "tikTvd": "257200076153",
-    "tikName": "Орел, Заводская"
+    "tikName": "Орел, Заводская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 72,
     "uikTvd": "457401872742",
+    "uikName": "УИК №72",
     "tikTvd": "257200076153",
-    "tikName": "Орел, Заводская"
+    "tikName": "Орел, Заводская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 73,
     "uikTvd": "457401872743",
+    "uikName": "УИК №73",
     "tikTvd": "257200076153",
-    "tikName": "Орел, Заводская"
+    "tikName": "Орел, Заводская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 74,
     "uikTvd": "457401872744",
+    "uikName": "УИК №74",
     "tikTvd": "257200076153",
-    "tikName": "Орел, Заводская"
+    "tikName": "Орел, Заводская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 75,
     "uikTvd": "457401872745",
+    "uikName": "УИК №75",
     "tikTvd": "257200076153",
-    "tikName": "Орел, Заводская"
+    "tikName": "Орел, Заводская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 76,
     "uikTvd": "457401872746",
+    "uikName": "УИК №76",
     "tikTvd": "257200076153",
-    "tikName": "Орел, Заводская"
+    "tikName": "Орел, Заводская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 77,
     "uikTvd": "457401872747",
+    "uikName": "УИК №77",
     "tikTvd": "257200076153",
-    "tikName": "Орел, Заводская"
+    "tikName": "Орел, Заводская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 78,
     "uikTvd": "457401872748",
+    "uikName": "УИК №78",
     "tikTvd": "257200076153",
-    "tikName": "Орел, Заводская"
+    "tikName": "Орел, Заводская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 79,
     "uikTvd": "457401872749",
+    "uikName": "УИК №79",
     "tikTvd": "257200076153",
-    "tikName": "Орел, Заводская"
+    "tikName": "Орел, Заводская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 80,
     "uikTvd": "457401872750",
+    "uikName": "УИК №80",
     "tikTvd": "257200076153",
-    "tikName": "Орел, Заводская"
+    "tikName": "Орел, Заводская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 81,
     "uikTvd": "457401872751",
+    "uikName": "УИК №81",
     "tikTvd": "257200076153",
-    "tikName": "Орел, Заводская"
+    "tikName": "Орел, Заводская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 82,
     "uikTvd": "457401872752",
+    "uikName": "УИК №82",
     "tikTvd": "257200076153",
-    "tikName": "Орел, Заводская"
+    "tikName": "Орел, Заводская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 83,
     "uikTvd": "457401872753",
+    "uikName": "УИК №83",
     "tikTvd": "257200076153",
-    "tikName": "Орел, Заводская"
+    "tikName": "Орел, Заводская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 84,
     "uikTvd": "457401872754",
+    "uikName": "УИК №84",
     "tikTvd": "257200076153",
-    "tikName": "Орел, Заводская"
+    "tikName": "Орел, Заводская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 85,
     "uikTvd": "457401872755",
+    "uikName": "УИК №85",
     "tikTvd": "257200076153",
-    "tikName": "Орел, Заводская"
+    "tikName": "Орел, Заводская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 86,
     "uikTvd": "457401872756",
+    "uikName": "УИК №86",
     "tikTvd": "257200076153",
-    "tikName": "Орел, Заводская"
+    "tikName": "Орел, Заводская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 87,
     "uikTvd": "457401872757",
+    "uikName": "УИК №87",
     "tikTvd": "257200076153",
-    "tikName": "Орел, Заводская"
+    "tikName": "Орел, Заводская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 88,
     "uikTvd": "457401872758",
+    "uikName": "УИК №88",
     "tikTvd": "257200076153",
-    "tikName": "Орел, Заводская"
+    "tikName": "Орел, Заводская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 89,
     "uikTvd": "457401872759",
+    "uikName": "УИК №89",
     "tikTvd": "257200076153",
-    "tikName": "Орел, Заводская"
+    "tikName": "Орел, Заводская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 90,
     "uikTvd": "457401872760",
+    "uikName": "УИК №90",
     "tikTvd": "257200076153",
-    "tikName": "Орел, Заводская"
+    "tikName": "Орел, Заводская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 91,
     "uikTvd": "457401872761",
+    "uikName": "УИК №91",
     "tikTvd": "257200076153",
-    "tikName": "Орел, Заводская"
+    "tikName": "Орел, Заводская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 92,
     "uikTvd": "457401872762",
+    "uikName": "УИК №92",
     "tikTvd": "257200076153",
-    "tikName": "Орел, Заводская"
+    "tikName": "Орел, Заводская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 93,
     "uikTvd": "457401972760",
+    "uikName": "УИК №93",
     "tikTvd": "257200076151",
-    "tikName": "Орел, Советская"
+    "tikName": "Орел, Советская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 94,
     "uikTvd": "457401972761",
+    "uikName": "УИК №94",
     "tikTvd": "257200076151",
-    "tikName": "Орел, Советская"
+    "tikName": "Орел, Советская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 95,
     "uikTvd": "457401972762",
+    "uikName": "УИК №95",
     "tikTvd": "257200076151",
-    "tikName": "Орел, Советская"
+    "tikName": "Орел, Советская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 96,
     "uikTvd": "457401972763",
+    "uikName": "УИК №96",
     "tikTvd": "257200076151",
-    "tikName": "Орел, Советская"
+    "tikName": "Орел, Советская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 97,
     "uikTvd": "457401972764",
+    "uikName": "УИК №97",
     "tikTvd": "257200076151",
-    "tikName": "Орел, Советская"
+    "tikName": "Орел, Советская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 98,
     "uikTvd": "457401972765",
+    "uikName": "УИК №98",
     "tikTvd": "257200076151",
-    "tikName": "Орел, Советская"
+    "tikName": "Орел, Советская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 99,
     "uikTvd": "457401972766",
+    "uikName": "УИК №99",
     "tikTvd": "257200076151",
-    "tikName": "Орел, Советская"
+    "tikName": "Орел, Советская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 100,
     "uikTvd": "457401972767",
+    "uikName": "УИК №100",
     "tikTvd": "257200076151",
-    "tikName": "Орел, Советская"
+    "tikName": "Орел, Советская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 101,
     "uikTvd": "457401972768",
+    "uikName": "УИК №101",
     "tikTvd": "257200076151",
-    "tikName": "Орел, Советская"
+    "tikName": "Орел, Советская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 102,
     "uikTvd": "457401972769",
+    "uikName": "УИК №102",
     "tikTvd": "257200076151",
-    "tikName": "Орел, Советская"
+    "tikName": "Орел, Советская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 103,
     "uikTvd": "457401972770",
+    "uikName": "УИК №103",
     "tikTvd": "257200076151",
-    "tikName": "Орел, Советская"
+    "tikName": "Орел, Советская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 104,
     "uikTvd": "457401972771",
+    "uikName": "УИК №104",
     "tikTvd": "257200076151",
-    "tikName": "Орел, Советская"
+    "tikName": "Орел, Советская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 105,
     "uikTvd": "457401972772",
+    "uikName": "УИК №105",
     "tikTvd": "257200076151",
-    "tikName": "Орел, Советская"
+    "tikName": "Орел, Советская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 106,
     "uikTvd": "457401972773",
+    "uikName": "УИК №106",
     "tikTvd": "257200076151",
-    "tikName": "Орел, Советская"
+    "tikName": "Орел, Советская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 107,
     "uikTvd": "457401972774",
+    "uikName": "УИК №107",
     "tikTvd": "257200076151",
-    "tikName": "Орел, Советская"
+    "tikName": "Орел, Советская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 108,
     "uikTvd": "457401972775",
+    "uikName": "УИК №108",
     "tikTvd": "257200076151",
-    "tikName": "Орел, Советская"
+    "tikName": "Орел, Советская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 109,
     "uikTvd": "457401972776",
+    "uikName": "УИК №109",
     "tikTvd": "257200076151",
-    "tikName": "Орел, Советская"
+    "tikName": "Орел, Советская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 110,
     "uikTvd": "457401972777",
+    "uikName": "УИК №110",
     "tikTvd": "257200076151",
-    "tikName": "Орел, Советская"
+    "tikName": "Орел, Советская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 111,
     "uikTvd": "457401972778",
+    "uikName": "УИК №111",
     "tikTvd": "257200076151",
-    "tikName": "Орел, Советская"
+    "tikName": "Орел, Советская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 112,
     "uikTvd": "457401972779",
+    "uikName": "УИК №112",
     "tikTvd": "257200076151",
-    "tikName": "Орел, Советская"
+    "tikName": "Орел, Советская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 113,
     "uikTvd": "457401972780",
+    "uikName": "УИК №113",
     "tikTvd": "257200076151",
-    "tikName": "Орел, Советская"
+    "tikName": "Орел, Советская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 114,
     "uikTvd": "457401972781",
+    "uikName": "УИК №114",
     "tikTvd": "257200076151",
-    "tikName": "Орел, Советская"
+    "tikName": "Орел, Советская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 115,
     "uikTvd": "457401972782",
+    "uikName": "УИК №115",
     "tikTvd": "257200076151",
-    "tikName": "Орел, Советская"
+    "tikName": "Орел, Советская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 116,
     "uikTvd": "457401972783",
+    "uikName": "УИК №116",
     "tikTvd": "257200076151",
-    "tikName": "Орел, Советская"
+    "tikName": "Орел, Советская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 117,
     "uikTvd": "457401972784",
+    "uikName": "УИК №117",
     "tikTvd": "257200076151",
-    "tikName": "Орел, Советская"
+    "tikName": "Орел, Советская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 118,
     "uikTvd": "457401972785",
+    "uikName": "УИК №118",
     "tikTvd": "257200076151",
-    "tikName": "Орел, Советская"
+    "tikName": "Орел, Советская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 119,
     "uikTvd": "457401972786",
+    "uikName": "УИК №119",
     "tikTvd": "257200076151",
-    "tikName": "Орел, Советская"
+    "tikName": "Орел, Советская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 120,
     "uikTvd": "457401972787",
+    "uikName": "УИК №120",
     "tikTvd": "257200076151",
-    "tikName": "Орел, Советская"
+    "tikName": "Орел, Советская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 121,
     "uikTvd": "457401972788",
+    "uikName": "УИК №121",
     "tikTvd": "257200076151",
-    "tikName": "Орел, Советская"
+    "tikName": "Орел, Советская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 122,
     "uikTvd": "457401972789",
+    "uikName": "УИК №122",
     "tikTvd": "257200076151",
-    "tikName": "Орел, Советская"
+    "tikName": "Орел, Советская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 123,
     "uikTvd": "457401972790",
+    "uikName": "УИК №123",
     "tikTvd": "257200076151",
-    "tikName": "Орел, Советская"
+    "tikName": "Орел, Советская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 124,
     "uikTvd": "457401972791",
+    "uikName": "УИК №124",
     "tikTvd": "257200076151",
-    "tikName": "Орел, Советская"
+    "tikName": "Орел, Советская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 125,
     "uikTvd": "457401972792",
+    "uikName": "УИК №125",
     "tikTvd": "257200076151",
-    "tikName": "Орел, Советская"
+    "tikName": "Орел, Советская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 126,
     "uikTvd": "457401972793",
+    "uikName": "УИК №126",
     "tikTvd": "257200076151",
-    "tikName": "Орел, Советская"
+    "tikName": "Орел, Советская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 127,
     "uikTvd": "457401972794",
+    "uikName": "УИК №127",
     "tikTvd": "257200076151",
-    "tikName": "Орел, Советская"
+    "tikName": "Орел, Советская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 129,
     "uikTvd": "457401972796",
+    "uikName": "УИК №129",
     "tikTvd": "257200076151",
-    "tikName": "Орел, Советская"
+    "tikName": "Орел, Советская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 130,
     "uikTvd": "457401271942",
+    "uikName": "УИК №130",
     "tikTvd": "257200076140",
-    "tikName": "Ливенская городская"
+    "tikName": "Ливенская городская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 131,
     "uikTvd": "457401271943",
+    "uikName": "УИК №131",
     "tikTvd": "257200076140",
-    "tikName": "Ливенская городская"
+    "tikName": "Ливенская городская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 132,
     "uikTvd": "457401272505",
+    "uikName": "УИК №132",
     "tikTvd": "257200076140",
-    "tikName": "Ливенская городская"
+    "tikName": "Ливенская городская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 133,
     "uikTvd": "457401271945",
+    "uikName": "УИК №133",
     "tikTvd": "257200076140",
-    "tikName": "Ливенская городская"
+    "tikName": "Ливенская городская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 134,
     "uikTvd": "457401271946",
+    "uikName": "УИК №134",
     "tikTvd": "257200076140",
-    "tikName": "Ливенская городская"
+    "tikName": "Ливенская городская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 135,
     "uikTvd": "457401271947",
+    "uikName": "УИК №135",
     "tikTvd": "257200076140",
-    "tikName": "Ливенская городская"
+    "tikName": "Ливенская городская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 136,
     "uikTvd": "457401271948",
+    "uikName": "УИК №136",
     "tikTvd": "257200076140",
-    "tikName": "Ливенская городская"
+    "tikName": "Ливенская городская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 137,
     "uikTvd": "457401271949",
+    "uikName": "УИК №137",
     "tikTvd": "257200076140",
-    "tikName": "Ливенская городская"
+    "tikName": "Ливенская городская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 138,
     "uikTvd": "457401271950",
+    "uikName": "УИК №138",
     "tikTvd": "257200076140",
-    "tikName": "Ливенская городская"
+    "tikName": "Ливенская городская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 139,
     "uikTvd": "457401271951",
+    "uikName": "УИК №139",
     "tikTvd": "257200076140",
-    "tikName": "Ливенская городская"
+    "tikName": "Ливенская городская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 140,
     "uikTvd": "457401271952",
+    "uikName": "УИК №140",
     "tikTvd": "257200076140",
-    "tikName": "Ливенская городская"
+    "tikName": "Ливенская городская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 141,
     "uikTvd": "457401271953",
+    "uikName": "УИК №141",
     "tikTvd": "257200076140",
-    "tikName": "Ливенская городская"
+    "tikName": "Ливенская городская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 142,
     "uikTvd": "457401271954",
+    "uikName": "УИК №142",
     "tikTvd": "257200076140",
-    "tikName": "Ливенская городская"
+    "tikName": "Ливенская городская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 143,
     "uikTvd": "457401271955",
+    "uikName": "УИК №143",
     "tikTvd": "257200076140",
-    "tikName": "Ливенская городская"
+    "tikName": "Ливенская городская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 144,
     "uikTvd": "457401271956",
+    "uikName": "УИК №144",
     "tikTvd": "257200076140",
-    "tikName": "Ливенская городская"
+    "tikName": "Ливенская городская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 145,
     "uikTvd": "457401271957",
+    "uikName": "УИК №145",
     "tikTvd": "257200076140",
-    "tikName": "Ливенская городская"
+    "tikName": "Ливенская городская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 146,
     "uikTvd": "457401271958",
+    "uikName": "УИК №146",
     "tikTvd": "257200076140",
-    "tikName": "Ливенская городская"
+    "tikName": "Ливенская городская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 147,
     "uikTvd": "457401271959",
+    "uikName": "УИК №147",
     "tikTvd": "257200076140",
-    "tikName": "Ливенская городская"
+    "tikName": "Ливенская городская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 148,
     "uikTvd": "457401271960",
+    "uikName": "УИК №148",
     "tikTvd": "257200076140",
-    "tikName": "Ливенская городская"
+    "tikName": "Ливенская городская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 149,
     "uikTvd": "457401271961",
+    "uikName": "УИК №149",
     "tikTvd": "257200076140",
-    "tikName": "Ливенская городская"
+    "tikName": "Ливенская городская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 150,
     "uikTvd": "457401271962",
+    "uikName": "УИК №150",
     "tikTvd": "257200076140",
-    "tikName": "Ливенская городская"
+    "tikName": "Ливенская городская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 151,
     "uikTvd": "457401271963",
+    "uikName": "УИК №151",
     "tikTvd": "257200076140",
-    "tikName": "Ливенская городская"
+    "tikName": "Ливенская городская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 152,
     "uikTvd": "457401271964",
+    "uikName": "УИК №152",
     "tikTvd": "257200076140",
-    "tikName": "Ливенская городская"
+    "tikName": "Ливенская городская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 153,
     "uikTvd": "457401271965",
+    "uikName": "УИК №153",
     "tikTvd": "257200076140",
-    "tikName": "Ливенская городская"
+    "tikName": "Ливенская городская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 154,
     "uikTvd": "457401271966",
+    "uikName": "УИК №154",
     "tikTvd": "257200076140",
-    "tikName": "Ливенская городская"
+    "tikName": "Ливенская городская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 155,
     "uikTvd": "457401271967",
+    "uikName": "УИК №155",
     "tikTvd": "257200076140",
-    "tikName": "Ливенская городская"
+    "tikName": "Ливенская городская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 156,
     "uikTvd": "457401271968",
+    "uikName": "УИК №156",
     "tikTvd": "257200076140",
-    "tikName": "Ливенская городская"
+    "tikName": "Ливенская городская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 157,
     "uikTvd": "457402973027",
+    "uikName": "УИК №157",
     "tikTvd": "257200076157",
-    "tikName": "Мценская городская"
+    "tikName": "Мценская городская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 158,
     "uikTvd": "457402973028",
+    "uikName": "УИК №158",
     "tikTvd": "257200076157",
-    "tikName": "Мценская городская"
+    "tikName": "Мценская городская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 159,
     "uikTvd": "457402973029",
+    "uikName": "УИК №159",
     "tikTvd": "257200076157",
-    "tikName": "Мценская городская"
+    "tikName": "Мценская городская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 160,
     "uikTvd": "457402973030",
+    "uikName": "УИК №160",
     "tikTvd": "257200076157",
-    "tikName": "Мценская городская"
+    "tikName": "Мценская городская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 161,
     "uikTvd": "457402973031",
+    "uikName": "УИК №161",
     "tikTvd": "257200076157",
-    "tikName": "Мценская городская"
+    "tikName": "Мценская городская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 162,
     "uikTvd": "457402973032",
+    "uikName": "УИК №162",
     "tikTvd": "257200076157",
-    "tikName": "Мценская городская"
+    "tikName": "Мценская городская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 163,
     "uikTvd": "457402973033",
+    "uikName": "УИК №163",
     "tikTvd": "257200076157",
-    "tikName": "Мценская городская"
+    "tikName": "Мценская городская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 164,
     "uikTvd": "457402973034",
+    "uikName": "УИК №164",
     "tikTvd": "257200076157",
-    "tikName": "Мценская городская"
+    "tikName": "Мценская городская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 165,
     "uikTvd": "457402973035",
+    "uikName": "УИК №165",
     "tikTvd": "257200076157",
-    "tikName": "Мценская городская"
+    "tikName": "Мценская городская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 166,
     "uikTvd": "457402973036",
+    "uikName": "УИК №166",
     "tikTvd": "257200076157",
-    "tikName": "Мценская городская"
+    "tikName": "Мценская городская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 167,
     "uikTvd": "457402973037",
+    "uikName": "УИК №167",
     "tikTvd": "257200076157",
-    "tikName": "Мценская городская"
+    "tikName": "Мценская городская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 168,
     "uikTvd": "457402973038",
+    "uikName": "УИК №168",
     "tikTvd": "257200076157",
-    "tikName": "Мценская городская"
+    "tikName": "Мценская городская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 169,
     "uikTvd": "457402973039",
+    "uikName": "УИК №169",
     "tikTvd": "257200076157",
-    "tikName": "Мценская городская"
+    "tikName": "Мценская городская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 170,
     "uikTvd": "457402973040",
+    "uikName": "УИК №170",
     "tikTvd": "257200076157",
-    "tikName": "Мценская городская"
+    "tikName": "Мценская городская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 171,
     "uikTvd": "457402973041",
+    "uikName": "УИК №171",
     "tikTvd": "257200076157",
-    "tikName": "Мценская городская"
+    "tikName": "Мценская городская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 172,
     "uikTvd": "457402973042",
+    "uikName": "УИК №172",
     "tikTvd": "257200076157",
-    "tikName": "Мценская городская"
+    "tikName": "Мценская городская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 173,
     "uikTvd": "457402973043",
+    "uikName": "УИК №173",
     "tikTvd": "257200076157",
-    "tikName": "Мценская городская"
+    "tikName": "Мценская городская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 174,
     "uikTvd": "457402973044",
+    "uikName": "УИК №174",
     "tikTvd": "257200076157",
-    "tikName": "Мценская городская"
+    "tikName": "Мценская городская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 175,
     "uikTvd": "457402973045",
+    "uikName": "УИК №175",
     "tikTvd": "257200076157",
-    "tikName": "Мценская городская"
+    "tikName": "Мценская городская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 176,
     "uikTvd": "457402973046",
+    "uikName": "УИК №176",
     "tikTvd": "257200076157",
-    "tikName": "Мценская городская"
+    "tikName": "Мценская городская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 177,
     "uikTvd": "457400171586",
+    "uikName": "УИК №177",
     "tikTvd": "257200076134",
-    "tikName": "Болховская"
+    "tikName": "Болховская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 178,
     "uikTvd": "457400171587",
+    "uikName": "УИК №178",
     "tikTvd": "257200076134",
-    "tikName": "Болховская"
+    "tikName": "Болховская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 179,
     "uikTvd": "457400171588",
+    "uikName": "УИК №179",
     "tikTvd": "257200076134",
-    "tikName": "Болховская"
+    "tikName": "Болховская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 180,
     "uikTvd": "457400171589",
+    "uikName": "УИК №180",
     "tikTvd": "257200076134",
-    "tikName": "Болховская"
+    "tikName": "Болховская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 181,
     "uikTvd": "457400171590",
+    "uikName": "УИК №181",
     "tikTvd": "257200076134",
-    "tikName": "Болховская"
+    "tikName": "Болховская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 182,
     "uikTvd": "457400171591",
+    "uikName": "УИК №182",
     "tikTvd": "257200076134",
-    "tikName": "Болховская"
+    "tikName": "Болховская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 183,
     "uikTvd": "457400171592",
+    "uikName": "УИК №183",
     "tikTvd": "257200076134",
-    "tikName": "Болховская"
+    "tikName": "Болховская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 184,
     "uikTvd": "457400171593",
+    "uikName": "УИК №184",
     "tikTvd": "257200076134",
-    "tikName": "Болховская"
+    "tikName": "Болховская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 185,
     "uikTvd": "457400171594",
+    "uikName": "УИК №185",
     "tikTvd": "257200076134",
-    "tikName": "Болховская"
+    "tikName": "Болховская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 186,
     "uikTvd": "457400171595",
+    "uikName": "УИК №186",
     "tikTvd": "257200076134",
-    "tikName": "Болховская"
+    "tikName": "Болховская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 187,
     "uikTvd": "457400171596",
+    "uikName": "УИК №187",
     "tikTvd": "257200076134",
-    "tikName": "Болховская"
+    "tikName": "Болховская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 188,
     "uikTvd": "457400171597",
+    "uikName": "УИК №188",
     "tikTvd": "257200076134",
-    "tikName": "Болховская"
+    "tikName": "Болховская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 189,
     "uikTvd": "457400171598",
+    "uikName": "УИК №189",
     "tikTvd": "257200076134",
-    "tikName": "Болховская"
+    "tikName": "Болховская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 190,
     "uikTvd": "457400171599",
+    "uikName": "УИК №190",
     "tikTvd": "257200076134",
-    "tikName": "Болховская"
+    "tikName": "Болховская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 191,
     "uikTvd": "457400171600",
+    "uikName": "УИК №191",
     "tikTvd": "257200076134",
-    "tikName": "Болховская"
+    "tikName": "Болховская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 192,
     "uikTvd": "457400171601",
+    "uikName": "УИК №192",
     "tikTvd": "257200076134",
-    "tikName": "Болховская"
+    "tikName": "Болховская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 193,
     "uikTvd": "457400171602",
+    "uikName": "УИК №193",
     "tikTvd": "257200076134",
-    "tikName": "Болховская"
+    "tikName": "Болховская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 194,
     "uikTvd": "457400171603",
+    "uikName": "УИК №194",
     "tikTvd": "257200076134",
-    "tikName": "Болховская"
+    "tikName": "Болховская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 195,
     "uikTvd": "457400171604",
+    "uikName": "УИК №195",
     "tikTvd": "257200076134",
-    "tikName": "Болховская"
+    "tikName": "Болховская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 196,
     "uikTvd": "457400171605",
+    "uikName": "УИК №196",
     "tikTvd": "257200076134",
-    "tikName": "Болховская"
+    "tikName": "Болховская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 197,
     "uikTvd": "457400171606",
+    "uikName": "УИК №197",
     "tikTvd": "257200076134",
-    "tikName": "Болховская"
+    "tikName": "Болховская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 198,
     "uikTvd": "457400171607",
+    "uikName": "УИК №198",
     "tikTvd": "257200076134",
-    "tikName": "Болховская"
+    "tikName": "Болховская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 199,
     "uikTvd": "457400171608",
+    "uikName": "УИК №199",
     "tikTvd": "257200076134",
-    "tikName": "Болховская"
+    "tikName": "Болховская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 200,
     "uikTvd": "457400271786",
+    "uikName": "УИК №200",
     "tikTvd": "257200076138",
-    "tikName": "Верховская"
+    "tikName": "Верховская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 201,
     "uikTvd": "457400271787",
+    "uikName": "УИК №201",
     "tikTvd": "257200076138",
-    "tikName": "Верховская"
+    "tikName": "Верховская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 202,
     "uikTvd": "457400271788",
+    "uikName": "УИК №202",
     "tikTvd": "257200076138",
-    "tikName": "Верховская"
+    "tikName": "Верховская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 203,
     "uikTvd": "457400271789",
+    "uikName": "УИК №203",
     "tikTvd": "257200076138",
-    "tikName": "Верховская"
+    "tikName": "Верховская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 204,
     "uikTvd": "457400271790",
+    "uikName": "УИК №204",
     "tikTvd": "257200076138",
-    "tikName": "Верховская"
+    "tikName": "Верховская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 205,
     "uikTvd": "457400271791",
+    "uikName": "УИК №205",
     "tikTvd": "257200076138",
-    "tikName": "Верховская"
+    "tikName": "Верховская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 206,
     "uikTvd": "457400271792",
+    "uikName": "УИК №206",
     "tikTvd": "257200076138",
-    "tikName": "Верховская"
+    "tikName": "Верховская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 207,
     "uikTvd": "457400271793",
+    "uikName": "УИК №207",
     "tikTvd": "257200076138",
-    "tikName": "Верховская"
+    "tikName": "Верховская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 208,
     "uikTvd": "457400271794",
+    "uikName": "УИК №208",
     "tikTvd": "257200076138",
-    "tikName": "Верховская"
+    "tikName": "Верховская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 209,
     "uikTvd": "457400271795",
+    "uikName": "УИК №209",
     "tikTvd": "257200076138",
-    "tikName": "Верховская"
+    "tikName": "Верховская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 210,
     "uikTvd": "457400271796",
+    "uikName": "УИК №210",
     "tikTvd": "257200076138",
-    "tikName": "Верховская"
+    "tikName": "Верховская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 211,
     "uikTvd": "457400271797",
+    "uikName": "УИК №211",
     "tikTvd": "257200076138",
-    "tikName": "Верховская"
+    "tikName": "Верховская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 212,
     "uikTvd": "457400271798",
+    "uikName": "УИК №212",
     "tikTvd": "257200076138",
-    "tikName": "Верховская"
+    "tikName": "Верховская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 213,
     "uikTvd": "457400271799",
+    "uikName": "УИК №213",
     "tikTvd": "257200076138",
-    "tikName": "Верховская"
+    "tikName": "Верховская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 214,
     "uikTvd": "457400271800",
+    "uikName": "УИК №214",
     "tikTvd": "257200076138",
-    "tikName": "Верховская"
+    "tikName": "Верховская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 215,
     "uikTvd": "457400271801",
+    "uikName": "УИК №215",
     "tikTvd": "257200076138",
-    "tikName": "Верховская"
+    "tikName": "Верховская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 216,
     "uikTvd": "457400271802",
+    "uikName": "УИК №216",
     "tikTvd": "257200076138",
-    "tikName": "Верховская"
+    "tikName": "Верховская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 217,
     "uikTvd": "457400271803",
+    "uikName": "УИК №217",
     "tikTvd": "257200076138",
-    "tikName": "Верховская"
+    "tikName": "Верховская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 218,
     "uikTvd": "457400271804",
+    "uikName": "УИК №218",
     "tikTvd": "257200076138",
-    "tikName": "Верховская"
+    "tikName": "Верховская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 219,
     "uikTvd": "457400271805",
+    "uikName": "УИК №219",
     "tikTvd": "257200076138",
-    "tikName": "Верховская"
+    "tikName": "Верховская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 220,
     "uikTvd": "457400271806",
+    "uikName": "УИК №220",
     "tikTvd": "257200076138",
-    "tikName": "Верховская"
+    "tikName": "Верховская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 221,
     "uikTvd": "457400271807",
+    "uikName": "УИК №221",
     "tikTvd": "257200076138",
-    "tikName": "Верховская"
+    "tikName": "Верховская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 222,
     "uikTvd": "457400271808",
+    "uikName": "УИК №222",
     "tikTvd": "257200076138",
-    "tikName": "Верховская"
+    "tikName": "Верховская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 223,
     "uikTvd": "457400271809",
+    "uikName": "УИК №223",
     "tikTvd": "257200076138",
-    "tikName": "Верховская"
+    "tikName": "Верховская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 224,
     "uikTvd": "457400271810",
+    "uikName": "УИК №224",
     "tikTvd": "257200076138",
-    "tikName": "Верховская"
+    "tikName": "Верховская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 225,
     "uikTvd": "457400271811",
+    "uikName": "УИК №225",
     "tikTvd": "257200076138",
-    "tikName": "Верховская"
+    "tikName": "Верховская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 226,
     "uikTvd": "457400271812",
+    "uikName": "УИК №226",
     "tikTvd": "257200076138",
-    "tikName": "Верховская"
+    "tikName": "Верховская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 227,
     "uikTvd": "457400271813",
+    "uikName": "УИК №227",
     "tikTvd": "257200076138",
-    "tikName": "Верховская"
+    "tikName": "Верховская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 228,
     "uikTvd": "457400271814",
+    "uikName": "УИК №228",
     "tikTvd": "257200076138",
-    "tikName": "Верховская"
+    "tikName": "Верховская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 229,
     "uikTvd": "457400371726",
+    "uikName": "УИК №229",
     "tikTvd": "257200076139",
-    "tikName": "Глазуновская"
+    "tikName": "Глазуновская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 230,
     "uikTvd": "457400371727",
+    "uikName": "УИК №230",
     "tikTvd": "257200076139",
-    "tikName": "Глазуновская"
+    "tikName": "Глазуновская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 231,
     "uikTvd": "457400371728",
+    "uikName": "УИК №231",
     "tikTvd": "257200076139",
-    "tikName": "Глазуновская"
+    "tikName": "Глазуновская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 232,
     "uikTvd": "457400371729",
+    "uikName": "УИК №232",
     "tikTvd": "257200076139",
-    "tikName": "Глазуновская"
+    "tikName": "Глазуновская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 233,
     "uikTvd": "457400371730",
+    "uikName": "УИК №233",
     "tikTvd": "257200076139",
-    "tikName": "Глазуновская"
+    "tikName": "Глазуновская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 234,
     "uikTvd": "457400371731",
+    "uikName": "УИК №234",
     "tikTvd": "257200076139",
-    "tikName": "Глазуновская"
+    "tikName": "Глазуновская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 235,
     "uikTvd": "457400371732",
+    "uikName": "УИК №235",
     "tikTvd": "257200076139",
-    "tikName": "Глазуновская"
+    "tikName": "Глазуновская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 236,
     "uikTvd": "457400371733",
+    "uikName": "УИК №236",
     "tikTvd": "257200076139",
-    "tikName": "Глазуновская"
+    "tikName": "Глазуновская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 237,
     "uikTvd": "457400371734",
+    "uikName": "УИК №237",
     "tikTvd": "257200076139",
-    "tikName": "Глазуновская"
+    "tikName": "Глазуновская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 238,
     "uikTvd": "457400371735",
+    "uikName": "УИК №238",
     "tikTvd": "257200076139",
-    "tikName": "Глазуновская"
+    "tikName": "Глазуновская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 239,
     "uikTvd": "457400371736",
+    "uikName": "УИК №239",
     "tikTvd": "257200076139",
-    "tikName": "Глазуновская"
+    "tikName": "Глазуновская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 240,
     "uikTvd": "457400371737",
+    "uikName": "УИК №240",
     "tikTvd": "257200076139",
-    "tikName": "Глазуновская"
+    "tikName": "Глазуновская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 241,
     "uikTvd": "457400371738",
+    "uikName": "УИК №241",
     "tikTvd": "257200076139",
-    "tikName": "Глазуновская"
+    "tikName": "Глазуновская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 242,
     "uikTvd": "457400371739",
+    "uikName": "УИК №242",
     "tikTvd": "257200076139",
-    "tikName": "Глазуновская"
+    "tikName": "Глазуновская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 243,
     "uikTvd": "457400371740",
+    "uikName": "УИК №243",
     "tikTvd": "257200076139",
-    "tikName": "Глазуновская"
+    "tikName": "Глазуновская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 244,
     "uikTvd": "457400371741",
+    "uikName": "УИК №244",
     "tikTvd": "257200076139",
-    "tikName": "Глазуновская"
+    "tikName": "Глазуновская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 245,
     "uikTvd": "457400371742",
+    "uikName": "УИК №245",
     "tikTvd": "257200076139",
-    "tikName": "Глазуновская"
+    "tikName": "Глазуновская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 246,
     "uikTvd": "457400371743",
+    "uikName": "УИК №246",
     "tikTvd": "257200076139",
-    "tikName": "Глазуновская"
+    "tikName": "Глазуновская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 247,
     "uikTvd": "457400471727",
+    "uikName": "УИК №247",
     "tikTvd": "257200076137",
-    "tikName": "Дмитровская"
+    "tikName": "Дмитровская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 248,
     "uikTvd": "457400471728",
+    "uikName": "УИК №248",
     "tikTvd": "257200076137",
-    "tikName": "Дмитровская"
+    "tikName": "Дмитровская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 249,
     "uikTvd": "457400471729",
+    "uikName": "УИК №249",
     "tikTvd": "257200076137",
-    "tikName": "Дмитровская"
+    "tikName": "Дмитровская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 250,
     "uikTvd": "457400471730",
+    "uikName": "УИК №250",
     "tikTvd": "257200076137",
-    "tikName": "Дмитровская"
+    "tikName": "Дмитровская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 251,
     "uikTvd": "457400471731",
+    "uikName": "УИК №251",
     "tikTvd": "257200076137",
-    "tikName": "Дмитровская"
+    "tikName": "Дмитровская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 252,
     "uikTvd": "457400471732",
+    "uikName": "УИК №252",
     "tikTvd": "257200076137",
-    "tikName": "Дмитровская"
+    "tikName": "Дмитровская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 253,
     "uikTvd": "457400471733",
+    "uikName": "УИК №253",
     "tikTvd": "257200076137",
-    "tikName": "Дмитровская"
+    "tikName": "Дмитровская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 254,
     "uikTvd": "457400471734",
+    "uikName": "УИК №254",
     "tikTvd": "257200076137",
-    "tikName": "Дмитровская"
+    "tikName": "Дмитровская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 255,
     "uikTvd": "457400471735",
+    "uikName": "УИК №255",
     "tikTvd": "257200076137",
-    "tikName": "Дмитровская"
+    "tikName": "Дмитровская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 256,
     "uikTvd": "457400471736",
+    "uikName": "УИК №256",
     "tikTvd": "257200076137",
-    "tikName": "Дмитровская"
+    "tikName": "Дмитровская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 257,
     "uikTvd": "457400471737",
+    "uikName": "УИК №257",
     "tikTvd": "257200076137",
-    "tikName": "Дмитровская"
+    "tikName": "Дмитровская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 258,
     "uikTvd": "457400471738",
+    "uikName": "УИК №258",
     "tikTvd": "257200076137",
-    "tikName": "Дмитровская"
+    "tikName": "Дмитровская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 259,
     "uikTvd": "457400471739",
+    "uikName": "УИК №259",
     "tikTvd": "257200076137",
-    "tikName": "Дмитровская"
+    "tikName": "Дмитровская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 260,
     "uikTvd": "457400471740",
+    "uikName": "УИК №260",
     "tikTvd": "257200076137",
-    "tikName": "Дмитровская"
+    "tikName": "Дмитровская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 261,
     "uikTvd": "457400471741",
+    "uikName": "УИК №261",
     "tikTvd": "257200076137",
-    "tikName": "Дмитровская"
+    "tikName": "Дмитровская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 262,
     "uikTvd": "457400471742",
+    "uikName": "УИК №262",
     "tikTvd": "257200076137",
-    "tikName": "Дмитровская"
+    "tikName": "Дмитровская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 263,
     "uikTvd": "457400471743",
+    "uikName": "УИК №263",
     "tikTvd": "257200076137",
-    "tikName": "Дмитровская"
+    "tikName": "Дмитровская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 264,
     "uikTvd": "457400471744",
+    "uikName": "УИК №264",
     "tikTvd": "257200076137",
-    "tikName": "Дмитровская"
+    "tikName": "Дмитровская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 265,
     "uikTvd": "457400471745",
+    "uikName": "УИК №265",
     "tikTvd": "257200076137",
-    "tikName": "Дмитровская"
+    "tikName": "Дмитровская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 266,
     "uikTvd": "457400471746",
+    "uikName": "УИК №266",
     "tikTvd": "257200076137",
-    "tikName": "Дмитровская"
+    "tikName": "Дмитровская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 267,
     "uikTvd": "457400471747",
+    "uikName": "УИК №267",
     "tikTvd": "257200076137",
-    "tikName": "Дмитровская"
+    "tikName": "Дмитровская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 268,
     "uikTvd": "457400471748",
+    "uikName": "УИК №268",
     "tikTvd": "257200076137",
-    "tikName": "Дмитровская"
+    "tikName": "Дмитровская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 269,
     "uikTvd": "457400471749",
+    "uikName": "УИК №269",
     "tikTvd": "257200076137",
-    "tikName": "Дмитровская"
+    "tikName": "Дмитровская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 270,
     "uikTvd": "457400571677",
+    "uikName": "УИК №270",
     "tikTvd": "257200076136",
-    "tikName": "Должанская"
+    "tikName": "Должанская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 271,
     "uikTvd": "457400571678",
+    "uikName": "УИК №271",
     "tikTvd": "257200076136",
-    "tikName": "Должанская"
+    "tikName": "Должанская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 272,
     "uikTvd": "457400571679",
+    "uikName": "УИК №272",
     "tikTvd": "257200076136",
-    "tikName": "Должанская"
+    "tikName": "Должанская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 273,
     "uikTvd": "457400571680",
+    "uikName": "УИК №273",
     "tikTvd": "257200076136",
-    "tikName": "Должанская"
+    "tikName": "Должанская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 274,
     "uikTvd": "457400571681",
+    "uikName": "УИК №274",
     "tikTvd": "257200076136",
-    "tikName": "Должанская"
+    "tikName": "Должанская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 275,
     "uikTvd": "457400571682",
+    "uikName": "УИК №275",
     "tikTvd": "257200076136",
-    "tikName": "Должанская"
+    "tikName": "Должанская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 276,
     "uikTvd": "457400571683",
+    "uikName": "УИК №276",
     "tikTvd": "257200076136",
-    "tikName": "Должанская"
+    "tikName": "Должанская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 277,
     "uikTvd": "457400571684",
+    "uikName": "УИК №277",
     "tikTvd": "257200076136",
-    "tikName": "Должанская"
+    "tikName": "Должанская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 278,
     "uikTvd": "457400571685",
+    "uikName": "УИК №278",
     "tikTvd": "257200076136",
-    "tikName": "Должанская"
+    "tikName": "Должанская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 279,
     "uikTvd": "457400571686",
+    "uikName": "УИК №279",
     "tikTvd": "257200076136",
-    "tikName": "Должанская"
+    "tikName": "Должанская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 280,
     "uikTvd": "457400571687",
+    "uikName": "УИК №280",
     "tikTvd": "257200076136",
-    "tikName": "Должанская"
+    "tikName": "Должанская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 282,
     "uikTvd": "457400571689",
+    "uikName": "УИК №282",
     "tikTvd": "257200076136",
-    "tikName": "Должанская"
+    "tikName": "Должанская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 283,
     "uikTvd": "457400571690",
+    "uikName": "УИК №283",
     "tikTvd": "257200076136",
-    "tikName": "Должанская"
+    "tikName": "Должанская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 284,
     "uikTvd": "457400571691",
+    "uikName": "УИК №284",
     "tikTvd": "257200076136",
-    "tikName": "Должанская"
+    "tikName": "Должанская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 285,
     "uikTvd": "457400571692",
+    "uikName": "УИК №285",
     "tikTvd": "257200076136",
-    "tikName": "Должанская"
+    "tikName": "Должанская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 286,
     "uikTvd": "457400571693",
+    "uikName": "УИК №286",
     "tikTvd": "257200076136",
-    "tikName": "Должанская"
+    "tikName": "Должанская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 287,
     "uikTvd": "457400571694",
+    "uikName": "УИК №287",
     "tikTvd": "257200076136",
-    "tikName": "Должанская"
+    "tikName": "Должанская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 288,
     "uikTvd": "457400571695",
+    "uikName": "УИК №288",
     "tikTvd": "257200076136",
-    "tikName": "Должанская"
+    "tikName": "Должанская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 289,
     "uikTvd": "457400571696",
+    "uikName": "УИК №289",
     "tikTvd": "257200076136",
-    "tikName": "Должанская"
+    "tikName": "Должанская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 290,
     "uikTvd": "457400571697",
+    "uikName": "УИК №290",
     "tikTvd": "257200076136",
-    "tikName": "Должанская"
+    "tikName": "Должанская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 291,
     "uikTvd": "457400571742",
+    "uikName": "УИК №291",
     "tikTvd": "257200076136",
-    "tikName": "Должанская"
+    "tikName": "Должанская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 292,
     "uikTvd": "457400571699",
+    "uikName": "УИК №292",
     "tikTvd": "257200076136",
-    "tikName": "Должанская"
+    "tikName": "Должанская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 293,
     "uikTvd": "457400571700",
+    "uikName": "УИК №293",
     "tikTvd": "257200076136",
-    "tikName": "Должанская"
+    "tikName": "Должанская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 294,
     "uikTvd": "457400571701",
+    "uikName": "УИК №294",
     "tikTvd": "257200076136",
-    "tikName": "Должанская"
+    "tikName": "Должанская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 295,
     "uikTvd": "457400571702",
+    "uikName": "УИК №295",
     "tikTvd": "257200076136",
-    "tikName": "Должанская"
+    "tikName": "Должанская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 296,
     "uikTvd": "457400671631",
+    "uikName": "УИК №296",
     "tikTvd": "257200076146",
-    "tikName": "Залегощенская"
+    "tikName": "Залегощенская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 297,
     "uikTvd": "457400671632",
+    "uikName": "УИК №297",
     "tikTvd": "257200076146",
-    "tikName": "Залегощенская"
+    "tikName": "Залегощенская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 298,
     "uikTvd": "457400671633",
+    "uikName": "УИК №298",
     "tikTvd": "257200076146",
-    "tikName": "Залегощенская"
+    "tikName": "Залегощенская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 299,
     "uikTvd": "457400671634",
+    "uikName": "УИК №299",
     "tikTvd": "257200076146",
-    "tikName": "Залегощенская"
+    "tikName": "Залегощенская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 300,
     "uikTvd": "457400671635",
+    "uikName": "УИК №300",
     "tikTvd": "257200076146",
-    "tikName": "Залегощенская"
+    "tikName": "Залегощенская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 301,
     "uikTvd": "457400671636",
+    "uikName": "УИК №301",
     "tikTvd": "257200076146",
-    "tikName": "Залегощенская"
+    "tikName": "Залегощенская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 302,
     "uikTvd": "457400671637",
+    "uikName": "УИК №302",
     "tikTvd": "257200076146",
-    "tikName": "Залегощенская"
+    "tikName": "Залегощенская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 303,
     "uikTvd": "457400671638",
+    "uikName": "УИК №303",
     "tikTvd": "257200076146",
-    "tikName": "Залегощенская"
+    "tikName": "Залегощенская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 304,
     "uikTvd": "457400671639",
+    "uikName": "УИК №304",
     "tikTvd": "257200076146",
-    "tikName": "Залегощенская"
+    "tikName": "Залегощенская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 305,
     "uikTvd": "457400671640",
+    "uikName": "УИК №305",
     "tikTvd": "257200076146",
-    "tikName": "Залегощенская"
+    "tikName": "Залегощенская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 306,
     "uikTvd": "457400671641",
+    "uikName": "УИК №306",
     "tikTvd": "257200076146",
-    "tikName": "Залегощенская"
+    "tikName": "Залегощенская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 307,
     "uikTvd": "457400671642",
+    "uikName": "УИК №307",
     "tikTvd": "257200076146",
-    "tikName": "Залегощенская"
+    "tikName": "Залегощенская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 308,
     "uikTvd": "457400671643",
+    "uikName": "УИК №308",
     "tikTvd": "257200076146",
-    "tikName": "Залегощенская"
+    "tikName": "Залегощенская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 309,
     "uikTvd": "457400671644",
+    "uikName": "УИК №309",
     "tikTvd": "257200076146",
-    "tikName": "Залегощенская"
+    "tikName": "Залегощенская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 310,
     "uikTvd": "457400671645",
+    "uikName": "УИК №310",
     "tikTvd": "257200076146",
-    "tikName": "Залегощенская"
+    "tikName": "Залегощенская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 311,
     "uikTvd": "457400671646",
+    "uikName": "УИК №311",
     "tikTvd": "257200076146",
-    "tikName": "Залегощенская"
+    "tikName": "Залегощенская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 312,
     "uikTvd": "457400671647",
+    "uikName": "УИК №312",
     "tikTvd": "257200076146",
-    "tikName": "Залегощенская"
+    "tikName": "Залегощенская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 313,
     "uikTvd": "457400671648",
+    "uikName": "УИК №313",
     "tikTvd": "257200076146",
-    "tikName": "Залегощенская"
+    "tikName": "Залегощенская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 314,
     "uikTvd": "457400671649",
+    "uikName": "УИК №314",
     "tikTvd": "257200076146",
-    "tikName": "Залегощенская"
+    "tikName": "Залегощенская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 315,
     "uikTvd": "457400671650",
+    "uikName": "УИК №315",
     "tikTvd": "257200076146",
-    "tikName": "Залегощенская"
+    "tikName": "Залегощенская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 316,
     "uikTvd": "457400671651",
+    "uikName": "УИК №316",
     "tikTvd": "257200076146",
-    "tikName": "Залегощенская"
+    "tikName": "Залегощенская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 317,
     "uikTvd": "457400671652",
+    "uikName": "УИК №317",
     "tikTvd": "257200076146",
-    "tikName": "Залегощенская"
+    "tikName": "Залегощенская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 318,
     "uikTvd": "457400671653",
+    "uikName": "УИК №318",
     "tikTvd": "257200076146",
-    "tikName": "Залегощенская"
+    "tikName": "Залегощенская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 319,
     "uikTvd": "457400671654",
+    "uikName": "УИК №319",
     "tikTvd": "257200076146",
-    "tikName": "Залегощенская"
+    "tikName": "Залегощенская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 320,
     "uikTvd": "457400671655",
+    "uikName": "УИК №320",
     "tikTvd": "257200076146",
-    "tikName": "Залегощенская"
+    "tikName": "Залегощенская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 321,
     "uikTvd": "457400671656",
+    "uikName": "УИК №321",
     "tikTvd": "257200076146",
-    "tikName": "Залегощенская"
+    "tikName": "Залегощенская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 322,
     "uikTvd": "457400871658",
+    "uikName": "УИК №322",
     "tikTvd": "257200076145",
-    "tikName": "Колпнянская"
+    "tikName": "Колпнянская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 323,
     "uikTvd": "457400871659",
+    "uikName": "УИК №323",
     "tikTvd": "257200076145",
-    "tikName": "Колпнянская"
+    "tikName": "Колпнянская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 324,
     "uikTvd": "457400871660",
+    "uikName": "УИК №324",
     "tikTvd": "257200076145",
-    "tikName": "Колпнянская"
+    "tikName": "Колпнянская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 325,
     "uikTvd": "457400871661",
+    "uikName": "УИК №325",
     "tikTvd": "257200076145",
-    "tikName": "Колпнянская"
+    "tikName": "Колпнянская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 326,
     "uikTvd": "457400871662",
+    "uikName": "УИК №326",
     "tikTvd": "257200076145",
-    "tikName": "Колпнянская"
+    "tikName": "Колпнянская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 327,
     "uikTvd": "457400871663",
+    "uikName": "УИК №327",
     "tikTvd": "257200076145",
-    "tikName": "Колпнянская"
+    "tikName": "Колпнянская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 328,
     "uikTvd": "457400871664",
+    "uikName": "УИК №328",
     "tikTvd": "257200076145",
-    "tikName": "Колпнянская"
+    "tikName": "Колпнянская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 329,
     "uikTvd": "457400871665",
+    "uikName": "УИК №329",
     "tikTvd": "257200076145",
-    "tikName": "Колпнянская"
+    "tikName": "Колпнянская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 330,
     "uikTvd": "457400871666",
+    "uikName": "УИК №330",
     "tikTvd": "257200076145",
-    "tikName": "Колпнянская"
+    "tikName": "Колпнянская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 331,
     "uikTvd": "457400871667",
+    "uikName": "УИК №331",
     "tikTvd": "257200076145",
-    "tikName": "Колпнянская"
+    "tikName": "Колпнянская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 332,
     "uikTvd": "457400871668",
+    "uikName": "УИК №332",
     "tikTvd": "257200076145",
-    "tikName": "Колпнянская"
+    "tikName": "Колпнянская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 333,
     "uikTvd": "457400871669",
+    "uikName": "УИК №333",
     "tikTvd": "257200076145",
-    "tikName": "Колпнянская"
+    "tikName": "Колпнянская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 334,
     "uikTvd": "457400871670",
+    "uikName": "УИК №334",
     "tikTvd": "257200076145",
-    "tikName": "Колпнянская"
+    "tikName": "Колпнянская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 335,
     "uikTvd": "457400871671",
+    "uikName": "УИК №335",
     "tikTvd": "257200076145",
-    "tikName": "Колпнянская"
+    "tikName": "Колпнянская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 336,
     "uikTvd": "457400871672",
+    "uikName": "УИК №336",
     "tikTvd": "257200076145",
-    "tikName": "Колпнянская"
+    "tikName": "Колпнянская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 337,
     "uikTvd": "457400871673",
+    "uikName": "УИК №337",
     "tikTvd": "257200076145",
-    "tikName": "Колпнянская"
+    "tikName": "Колпнянская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 338,
     "uikTvd": "457400871674",
+    "uikName": "УИК №338",
     "tikTvd": "257200076145",
-    "tikName": "Колпнянская"
+    "tikName": "Колпнянская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 339,
     "uikTvd": "457400871675",
+    "uikName": "УИК №339",
     "tikTvd": "257200076145",
-    "tikName": "Колпнянская"
+    "tikName": "Колпнянская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 340,
     "uikTvd": "457400871676",
+    "uikName": "УИК №340",
     "tikTvd": "257200076145",
-    "tikName": "Колпнянская"
+    "tikName": "Колпнянская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 341,
     "uikTvd": "457400871677",
+    "uikName": "УИК №341",
     "tikTvd": "257200076145",
-    "tikName": "Колпнянская"
+    "tikName": "Колпнянская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 342,
     "uikTvd": "457400871678",
+    "uikName": "УИК №342",
     "tikTvd": "257200076145",
-    "tikName": "Колпнянская"
+    "tikName": "Колпнянская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 343,
     "uikTvd": "457400871679",
+    "uikName": "УИК №343",
     "tikTvd": "257200076145",
-    "tikName": "Колпнянская"
+    "tikName": "Колпнянская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 344,
     "uikTvd": "457400871680",
+    "uikName": "УИК №344",
     "tikTvd": "257200076145",
-    "tikName": "Колпнянская"
+    "tikName": "Колпнянская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 345,
     "uikTvd": "457400871681",
+    "uikName": "УИК №345",
     "tikTvd": "257200076145",
-    "tikName": "Колпнянская"
+    "tikName": "Колпнянская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 346,
     "uikTvd": "457400871682",
+    "uikName": "УИК №346",
     "tikTvd": "257200076145",
-    "tikName": "Колпнянская"
+    "tikName": "Колпнянская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 347,
     "uikTvd": "457400871683",
+    "uikName": "УИК №347",
     "tikTvd": "257200076145",
-    "tikName": "Колпнянская"
+    "tikName": "Колпнянская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 348,
     "uikTvd": "457400871684",
+    "uikName": "УИК №348",
     "tikTvd": "257200076145",
-    "tikName": "Колпнянская"
+    "tikName": "Колпнянская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 349,
     "uikTvd": "457400871685",
+    "uikName": "УИК №349",
     "tikTvd": "257200076145",
-    "tikName": "Колпнянская"
+    "tikName": "Колпнянская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 350,
     "uikTvd": "457401071376",
+    "uikName": "УИК №350",
     "tikTvd": "257200076143",
-    "tikName": "Краснозоренская"
+    "tikName": "Краснозоренская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 351,
     "uikTvd": "457401071377",
+    "uikName": "УИК №351",
     "tikTvd": "257200076143",
-    "tikName": "Краснозоренская"
+    "tikName": "Краснозоренская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 352,
     "uikTvd": "457401071378",
+    "uikName": "УИК №352",
     "tikTvd": "257200076143",
-    "tikName": "Краснозоренская"
+    "tikName": "Краснозоренская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 353,
     "uikTvd": "457401071379",
+    "uikName": "УИК №353",
     "tikTvd": "257200076143",
-    "tikName": "Краснозоренская"
+    "tikName": "Краснозоренская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 354,
     "uikTvd": "457401071380",
+    "uikName": "УИК №354",
     "tikTvd": "257200076143",
-    "tikName": "Краснозоренская"
+    "tikName": "Краснозоренская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 355,
     "uikTvd": "457401071381",
+    "uikName": "УИК №355",
     "tikTvd": "257200076143",
-    "tikName": "Краснозоренская"
+    "tikName": "Краснозоренская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 356,
     "uikTvd": "457401071382",
+    "uikName": "УИК №356",
     "tikTvd": "257200076143",
-    "tikName": "Краснозоренская"
+    "tikName": "Краснозоренская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 357,
     "uikTvd": "457401071383",
+    "uikName": "УИК №357",
     "tikTvd": "257200076143",
-    "tikName": "Краснозоренская"
+    "tikName": "Краснозоренская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 358,
     "uikTvd": "457401071384",
+    "uikName": "УИК №358",
     "tikTvd": "257200076143",
-    "tikName": "Краснозоренская"
+    "tikName": "Краснозоренская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 359,
     "uikTvd": "457401071385",
+    "uikName": "УИК №359",
     "tikTvd": "257200076143",
-    "tikName": "Краснозоренская"
+    "tikName": "Краснозоренская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 360,
     "uikTvd": "457401071386",
+    "uikName": "УИК №360",
     "tikTvd": "257200076143",
-    "tikName": "Краснозоренская"
+    "tikName": "Краснозоренская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 361,
     "uikTvd": "457401071387",
+    "uikName": "УИК №361",
     "tikTvd": "257200076143",
-    "tikName": "Краснозоренская"
+    "tikName": "Краснозоренская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 362,
     "uikTvd": "457401071388",
+    "uikName": "УИК №362",
     "tikTvd": "257200076143",
-    "tikName": "Краснозоренская"
+    "tikName": "Краснозоренская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 363,
     "uikTvd": "457401071389",
+    "uikName": "УИК №363",
     "tikTvd": "257200076143",
-    "tikName": "Краснозоренская"
+    "tikName": "Краснозоренская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 364,
     "uikTvd": "457401071390",
+    "uikName": "УИК №364",
     "tikTvd": "257200076143",
-    "tikName": "Краснозоренская"
+    "tikName": "Краснозоренская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 365,
     "uikTvd": "457401071391",
+    "uikName": "УИК №365",
     "tikTvd": "257200076143",
-    "tikName": "Краснозоренская"
+    "tikName": "Краснозоренская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 366,
     "uikTvd": "457401071392",
+    "uikName": "УИК №366",
     "tikTvd": "257200076143",
-    "tikName": "Краснозоренская"
+    "tikName": "Краснозоренская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 367,
     "uikTvd": "457401172084",
+    "uikName": "УИК №367",
     "tikTvd": "257200076142",
-    "tikName": "Кромская"
+    "tikName": "Кромская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 368,
     "uikTvd": "457401172085",
+    "uikName": "УИК №368",
     "tikTvd": "257200076142",
-    "tikName": "Кромская"
+    "tikName": "Кромская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 369,
     "uikTvd": "457401172086",
+    "uikName": "УИК №369",
     "tikTvd": "257200076142",
-    "tikName": "Кромская"
+    "tikName": "Кромская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 370,
     "uikTvd": "457401172087",
+    "uikName": "УИК №370",
     "tikTvd": "257200076142",
-    "tikName": "Кромская"
+    "tikName": "Кромская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 371,
     "uikTvd": "457401172088",
+    "uikName": "УИК №371",
     "tikTvd": "257200076142",
-    "tikName": "Кромская"
+    "tikName": "Кромская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 372,
     "uikTvd": "457401172089",
+    "uikName": "УИК №372",
     "tikTvd": "257200076142",
-    "tikName": "Кромская"
+    "tikName": "Кромская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 373,
     "uikTvd": "457401172090",
+    "uikName": "УИК №373",
     "tikTvd": "257200076142",
-    "tikName": "Кромская"
+    "tikName": "Кромская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 374,
     "uikTvd": "457401172091",
+    "uikName": "УИК №374",
     "tikTvd": "257200076142",
-    "tikName": "Кромская"
+    "tikName": "Кромская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 375,
     "uikTvd": "457401172092",
+    "uikName": "УИК №375",
     "tikTvd": "257200076142",
-    "tikName": "Кромская"
+    "tikName": "Кромская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 376,
     "uikTvd": "457401172093",
+    "uikName": "УИК №376",
     "tikTvd": "257200076142",
-    "tikName": "Кромская"
+    "tikName": "Кромская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 377,
     "uikTvd": "457401172094",
+    "uikName": "УИК №377",
     "tikTvd": "257200076142",
-    "tikName": "Кромская"
+    "tikName": "Кромская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 378,
     "uikTvd": "457401172095",
+    "uikName": "УИК №378",
     "tikTvd": "257200076142",
-    "tikName": "Кромская"
+    "tikName": "Кромская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 379,
     "uikTvd": "457401172096",
+    "uikName": "УИК №379",
     "tikTvd": "257200076142",
-    "tikName": "Кромская"
+    "tikName": "Кромская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 380,
     "uikTvd": "457401172097",
+    "uikName": "УИК №380",
     "tikTvd": "257200076142",
-    "tikName": "Кромская"
+    "tikName": "Кромская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 381,
     "uikTvd": "457401172098",
+    "uikName": "УИК №381",
     "tikTvd": "257200076142",
-    "tikName": "Кромская"
+    "tikName": "Кромская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 382,
     "uikTvd": "457401172099",
+    "uikName": "УИК №382",
     "tikTvd": "257200076142",
-    "tikName": "Кромская"
+    "tikName": "Кромская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 383,
     "uikTvd": "457401172100",
+    "uikName": "УИК №383",
     "tikTvd": "257200076142",
-    "tikName": "Кромская"
+    "tikName": "Кромская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 384,
     "uikTvd": "457401172101",
+    "uikName": "УИК №384",
     "tikTvd": "257200076142",
-    "tikName": "Кромская"
+    "tikName": "Кромская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 385,
     "uikTvd": "457401172102",
+    "uikName": "УИК №385",
     "tikTvd": "257200076142",
-    "tikName": "Кромская"
+    "tikName": "Кромская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 386,
     "uikTvd": "457401172103",
+    "uikName": "УИК №386",
     "tikTvd": "257200076142",
-    "tikName": "Кромская"
+    "tikName": "Кромская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 387,
     "uikTvd": "457401172104",
+    "uikName": "УИК №387",
     "tikTvd": "257200076142",
-    "tikName": "Кромская"
+    "tikName": "Кромская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 388,
     "uikTvd": "457401172105",
+    "uikName": "УИК №388",
     "tikTvd": "257200076142",
-    "tikName": "Кромская"
+    "tikName": "Кромская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 389,
     "uikTvd": "457401172106",
+    "uikName": "УИК №389",
     "tikTvd": "257200076142",
-    "tikName": "Кромская"
+    "tikName": "Кромская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 390,
     "uikTvd": "457401172107",
+    "uikName": "УИК №390",
     "tikTvd": "257200076142",
-    "tikName": "Кромская"
+    "tikName": "Кромская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 391,
     "uikTvd": "457401172108",
+    "uikName": "УИК №391",
     "tikTvd": "257200076142",
-    "tikName": "Кромская"
+    "tikName": "Кромская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 392,
     "uikTvd": "457401172109",
+    "uikName": "УИК №392",
     "tikTvd": "257200076142",
-    "tikName": "Кромская"
+    "tikName": "Кромская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 393,
     "uikTvd": "457401172110",
+    "uikName": "УИК №393",
     "tikTvd": "257200076142",
-    "tikName": "Кромская"
+    "tikName": "Кромская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 394,
     "uikTvd": "457401172111",
+    "uikName": "УИК №394",
     "tikTvd": "257200076142",
-    "tikName": "Кромская"
+    "tikName": "Кромская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 395,
     "uikTvd": "457401172112",
+    "uikName": "УИК №395",
     "tikTvd": "257200076142",
-    "tikName": "Кромская"
+    "tikName": "Кромская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 396,
     "uikTvd": "457401172113",
+    "uikName": "УИК №396",
     "tikTvd": "257200076142",
-    "tikName": "Кромская"
+    "tikName": "Кромская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 397,
     "uikTvd": "457401172114",
+    "uikName": "УИК №397",
     "tikTvd": "257200076142",
-    "tikName": "Кромская"
+    "tikName": "Кромская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 398,
     "uikTvd": "457401172115",
+    "uikName": "УИК №398",
     "tikTvd": "257200076142",
-    "tikName": "Кромская"
+    "tikName": "Кромская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 399,
     "uikTvd": "457401172116",
+    "uikName": "УИК №399",
     "tikTvd": "257200076142",
-    "tikName": "Кромская"
+    "tikName": "Кромская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 400,
     "uikTvd": "457401172117",
+    "uikName": "УИК №400",
     "tikTvd": "257200076142",
-    "tikName": "Кромская"
+    "tikName": "Кромская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 401,
     "uikTvd": "457401172118",
+    "uikName": "УИК №401",
     "tikTvd": "257200076142",
-    "tikName": "Кромская"
+    "tikName": "Кромская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 402,
     "uikTvd": "457402872645",
+    "uikName": "УИК №402",
     "tikTvd": "257200076158",
-    "tikName": "Ливенская"
+    "tikName": "Ливенская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 403,
     "uikTvd": "457402872646",
+    "uikName": "УИК №403",
     "tikTvd": "257200076158",
-    "tikName": "Ливенская"
+    "tikName": "Ливенская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 404,
     "uikTvd": "457402872647",
+    "uikName": "УИК №404",
     "tikTvd": "257200076158",
-    "tikName": "Ливенская"
+    "tikName": "Ливенская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 405,
     "uikTvd": "457402872648",
+    "uikName": "УИК №405",
     "tikTvd": "257200076158",
-    "tikName": "Ливенская"
+    "tikName": "Ливенская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 406,
     "uikTvd": "457402872649",
+    "uikName": "УИК №406",
     "tikTvd": "257200076158",
-    "tikName": "Ливенская"
+    "tikName": "Ливенская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 407,
     "uikTvd": "457402872650",
+    "uikName": "УИК №407",
     "tikTvd": "257200076158",
-    "tikName": "Ливенская"
+    "tikName": "Ливенская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 408,
     "uikTvd": "457402872651",
+    "uikName": "УИК №408",
     "tikTvd": "257200076158",
-    "tikName": "Ливенская"
+    "tikName": "Ливенская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 409,
     "uikTvd": "457402872652",
+    "uikName": "УИК №409",
     "tikTvd": "257200076158",
-    "tikName": "Ливенская"
+    "tikName": "Ливенская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 410,
     "uikTvd": "457402872653",
+    "uikName": "УИК №410",
     "tikTvd": "257200076158",
-    "tikName": "Ливенская"
+    "tikName": "Ливенская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 411,
     "uikTvd": "457402872654",
+    "uikName": "УИК №411",
     "tikTvd": "257200076158",
-    "tikName": "Ливенская"
+    "tikName": "Ливенская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 412,
     "uikTvd": "457402872655",
+    "uikName": "УИК №412",
     "tikTvd": "257200076158",
-    "tikName": "Ливенская"
+    "tikName": "Ливенская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 413,
     "uikTvd": "457402872656",
+    "uikName": "УИК №413",
     "tikTvd": "257200076158",
-    "tikName": "Ливенская"
+    "tikName": "Ливенская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 414,
     "uikTvd": "457402872657",
+    "uikName": "УИК №414",
     "tikTvd": "257200076158",
-    "tikName": "Ливенская"
+    "tikName": "Ливенская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 415,
     "uikTvd": "457402872658",
+    "uikName": "УИК №415",
     "tikTvd": "257200076158",
-    "tikName": "Ливенская"
+    "tikName": "Ливенская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 416,
     "uikTvd": "457402872659",
+    "uikName": "УИК №416",
     "tikTvd": "257200076158",
-    "tikName": "Ливенская"
+    "tikName": "Ливенская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 417,
     "uikTvd": "457402872660",
+    "uikName": "УИК №417",
     "tikTvd": "257200076158",
-    "tikName": "Ливенская"
+    "tikName": "Ливенская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 418,
     "uikTvd": "457402872661",
+    "uikName": "УИК №418",
     "tikTvd": "257200076158",
-    "tikName": "Ливенская"
+    "tikName": "Ливенская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 419,
     "uikTvd": "457402872662",
+    "uikName": "УИК №419",
     "tikTvd": "257200076158",
-    "tikName": "Ливенская"
+    "tikName": "Ливенская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 420,
     "uikTvd": "457402872663",
+    "uikName": "УИК №420",
     "tikTvd": "257200076158",
-    "tikName": "Ливенская"
+    "tikName": "Ливенская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 421,
     "uikTvd": "457402872664",
+    "uikName": "УИК №421",
     "tikTvd": "257200076158",
-    "tikName": "Ливенская"
+    "tikName": "Ливенская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 422,
     "uikTvd": "457402872665",
+    "uikName": "УИК №422",
     "tikTvd": "257200076158",
-    "tikName": "Ливенская"
+    "tikName": "Ливенская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 423,
     "uikTvd": "457402872666",
+    "uikName": "УИК №423",
     "tikTvd": "257200076158",
-    "tikName": "Ливенская"
+    "tikName": "Ливенская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 424,
     "uikTvd": "457402872667",
+    "uikName": "УИК №424",
     "tikTvd": "257200076158",
-    "tikName": "Ливенская"
+    "tikName": "Ливенская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 425,
     "uikTvd": "457402872668",
+    "uikName": "УИК №425",
     "tikTvd": "257200076158",
-    "tikName": "Ливенская"
+    "tikName": "Ливенская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 426,
     "uikTvd": "457402872669",
+    "uikName": "УИК №426",
     "tikTvd": "257200076158",
-    "tikName": "Ливенская"
+    "tikName": "Ливенская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 427,
     "uikTvd": "457402872670",
+    "uikName": "УИК №427",
     "tikTvd": "257200076158",
-    "tikName": "Ливенская"
+    "tikName": "Ливенская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 428,
     "uikTvd": "457402872671",
+    "uikName": "УИК №428",
     "tikTvd": "257200076158",
-    "tikName": "Ливенская"
+    "tikName": "Ливенская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 429,
     "uikTvd": "457402872672",
+    "uikName": "УИК №429",
     "tikTvd": "257200076158",
-    "tikName": "Ливенская"
+    "tikName": "Ливенская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 430,
     "uikTvd": "457402872673",
+    "uikName": "УИК №430",
     "tikTvd": "257200076158",
-    "tikName": "Ливенская"
+    "tikName": "Ливенская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 431,
     "uikTvd": "457402872674",
+    "uikName": "УИК №431",
     "tikTvd": "257200076158",
-    "tikName": "Ливенская"
+    "tikName": "Ливенская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 432,
     "uikTvd": "457402872675",
+    "uikName": "УИК №432",
     "tikTvd": "257200076158",
-    "tikName": "Ливенская"
+    "tikName": "Ливенская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 433,
     "uikTvd": "457402872676",
+    "uikName": "УИК №433",
     "tikTvd": "257200076158",
-    "tikName": "Ливенская"
+    "tikName": "Ливенская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 434,
     "uikTvd": "457402872677",
+    "uikName": "УИК №434",
     "tikTvd": "257200076158",
-    "tikName": "Ливенская"
+    "tikName": "Ливенская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 435,
     "uikTvd": "457402872678",
+    "uikName": "УИК №435",
     "tikTvd": "257200076158",
-    "tikName": "Ливенская"
+    "tikName": "Ливенская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 436,
     "uikTvd": "457402872679",
+    "uikName": "УИК №436",
     "tikTvd": "257200076158",
-    "tikName": "Ливенская"
+    "tikName": "Ливенская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 437,
     "uikTvd": "457402872680",
+    "uikName": "УИК №437",
     "tikTvd": "257200076158",
-    "tikName": "Ливенская"
+    "tikName": "Ливенская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 438,
     "uikTvd": "457402872681",
+    "uikName": "УИК №438",
     "tikTvd": "257200076158",
-    "tikName": "Ливенская"
+    "tikName": "Ливенская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 439,
     "uikTvd": "457402872682",
+    "uikName": "УИК №439",
     "tikTvd": "257200076158",
-    "tikName": "Ливенская"
+    "tikName": "Ливенская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 440,
     "uikTvd": "457402872683",
+    "uikName": "УИК №440",
     "tikTvd": "257200076158",
-    "tikName": "Ливенская"
+    "tikName": "Ливенская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 441,
     "uikTvd": "457402872684",
+    "uikName": "УИК №441",
     "tikTvd": "257200076158",
-    "tikName": "Ливенская"
+    "tikName": "Ливенская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 442,
     "uikTvd": "457402872685",
+    "uikName": "УИК №442",
     "tikTvd": "257200076158",
-    "tikName": "Ливенская"
+    "tikName": "Ливенская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 443,
     "uikTvd": "457402872686",
+    "uikName": "УИК №443",
     "tikTvd": "257200076158",
-    "tikName": "Ливенская"
+    "tikName": "Ливенская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 444,
     "uikTvd": "457402872687",
+    "uikName": "УИК №444",
     "tikTvd": "257200076158",
-    "tikName": "Ливенская"
+    "tikName": "Ливенская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 445,
     "uikTvd": "457402872688",
+    "uikName": "УИК №445",
     "tikTvd": "257200076158",
-    "tikName": "Ливенская"
+    "tikName": "Ливенская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 446,
     "uikTvd": "457402872689",
+    "uikName": "УИК №446",
     "tikTvd": "257200076158",
-    "tikName": "Ливенская"
+    "tikName": "Ливенская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 447,
     "uikTvd": "457402872690",
+    "uikName": "УИК №447",
     "tikTvd": "257200076158",
-    "tikName": "Ливенская"
+    "tikName": "Ливенская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 448,
     "uikTvd": "457402872691",
+    "uikName": "УИК №448",
     "tikTvd": "257200076158",
-    "tikName": "Ливенская"
+    "tikName": "Ливенская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 449,
     "uikTvd": "457402872692",
+    "uikName": "УИК №449",
     "tikTvd": "257200076158",
-    "tikName": "Ливенская"
+    "tikName": "Ливенская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 450,
     "uikTvd": "457402872693",
+    "uikName": "УИК №450",
     "tikTvd": "257200076158",
-    "tikName": "Ливенская"
+    "tikName": "Ливенская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 451,
     "uikTvd": "457401371559",
+    "uikName": "УИК №451",
     "tikTvd": "257200076141",
-    "tikName": "Малоархангельская"
+    "tikName": "Малоархангельская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 452,
     "uikTvd": "457401371560",
+    "uikName": "УИК №452",
     "tikTvd": "257200076141",
-    "tikName": "Малоархангельская"
+    "tikName": "Малоархангельская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 453,
     "uikTvd": "457401371561",
+    "uikName": "УИК №453",
     "tikTvd": "257200076141",
-    "tikName": "Малоархангельская"
+    "tikName": "Малоархангельская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 454,
     "uikTvd": "457401371562",
+    "uikName": "УИК №454",
     "tikTvd": "257200076141",
-    "tikName": "Малоархангельская"
+    "tikName": "Малоархангельская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 455,
     "uikTvd": "457401371563",
+    "uikName": "УИК №455",
     "tikTvd": "257200076141",
-    "tikName": "Малоархангельская"
+    "tikName": "Малоархангельская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 456,
     "uikTvd": "457401371564",
+    "uikName": "УИК №456",
     "tikTvd": "257200076141",
-    "tikName": "Малоархангельская"
+    "tikName": "Малоархангельская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 457,
     "uikTvd": "457401371565",
+    "uikName": "УИК №457",
     "tikTvd": "257200076141",
-    "tikName": "Малоархангельская"
+    "tikName": "Малоархангельская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 458,
     "uikTvd": "457401371566",
+    "uikName": "УИК №458",
     "tikTvd": "257200076141",
-    "tikName": "Малоархангельская"
+    "tikName": "Малоархангельская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 459,
     "uikTvd": "457401371567",
+    "uikName": "УИК №459",
     "tikTvd": "257200076141",
-    "tikName": "Малоархангельская"
+    "tikName": "Малоархангельская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 460,
     "uikTvd": "457401371568",
+    "uikName": "УИК №460",
     "tikTvd": "257200076141",
-    "tikName": "Малоархангельская"
+    "tikName": "Малоархангельская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 461,
     "uikTvd": "457401371569",
+    "uikName": "УИК №461",
     "tikTvd": "257200076141",
-    "tikName": "Малоархангельская"
+    "tikName": "Малоархангельская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 462,
     "uikTvd": "457401371570",
+    "uikName": "УИК №462",
     "tikTvd": "257200076141",
-    "tikName": "Малоархангельская"
+    "tikName": "Малоархангельская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 463,
     "uikTvd": "457401371571",
+    "uikName": "УИК №463",
     "tikTvd": "257200076141",
-    "tikName": "Малоархангельская"
+    "tikName": "Малоархангельская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 464,
     "uikTvd": "457401371572",
+    "uikName": "УИК №464",
     "tikTvd": "257200076141",
-    "tikName": "Малоархангельская"
+    "tikName": "Малоархангельская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 465,
     "uikTvd": "457401371573",
+    "uikName": "УИК №465",
     "tikTvd": "257200076141",
-    "tikName": "Малоархангельская"
+    "tikName": "Малоархангельская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 466,
     "uikTvd": "457401371574",
+    "uikName": "УИК №466",
     "tikTvd": "257200076141",
-    "tikName": "Малоархангельская"
+    "tikName": "Малоархангельская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 467,
     "uikTvd": "457401371575",
+    "uikName": "УИК №467",
     "tikTvd": "257200076141",
-    "tikName": "Малоархангельская"
+    "tikName": "Малоархангельская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 468,
     "uikTvd": "457401371576",
+    "uikName": "УИК №468",
     "tikTvd": "257200076141",
-    "tikName": "Малоархангельская"
+    "tikName": "Малоархангельская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 469,
     "uikTvd": "457401371577",
+    "uikName": "УИК №469",
     "tikTvd": "257200076141",
-    "tikName": "Малоархангельская"
+    "tikName": "Малоархангельская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 470,
     "uikTvd": "457401371578",
+    "uikName": "УИК №470",
     "tikTvd": "257200076141",
-    "tikName": "Малоархангельская"
+    "tikName": "Малоархангельская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 471,
     "uikTvd": "457401371579",
+    "uikName": "УИК №471",
     "tikTvd": "257200076141",
-    "tikName": "Малоархангельская"
+    "tikName": "Малоархангельская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 472,
     "uikTvd": "457401471948",
+    "uikName": "УИК №472",
     "tikTvd": "257200076155",
-    "tikName": "Мценская"
+    "tikName": "Мценская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 473,
     "uikTvd": "457401471949",
+    "uikName": "УИК №473",
     "tikTvd": "257200076155",
-    "tikName": "Мценская"
+    "tikName": "Мценская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 474,
     "uikTvd": "457401471950",
+    "uikName": "УИК №474",
     "tikTvd": "257200076155",
-    "tikName": "Мценская"
+    "tikName": "Мценская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 475,
     "uikTvd": "457401471951",
+    "uikName": "УИК №475",
     "tikTvd": "257200076155",
-    "tikName": "Мценская"
+    "tikName": "Мценская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 476,
     "uikTvd": "457401471952",
+    "uikName": "УИК №476",
     "tikTvd": "257200076155",
-    "tikName": "Мценская"
+    "tikName": "Мценская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 477,
     "uikTvd": "457401471953",
+    "uikName": "УИК №477",
     "tikTvd": "257200076155",
-    "tikName": "Мценская"
+    "tikName": "Мценская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 478,
     "uikTvd": "457401471954",
+    "uikName": "УИК №478",
     "tikTvd": "257200076155",
-    "tikName": "Мценская"
+    "tikName": "Мценская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 479,
     "uikTvd": "457401471955",
+    "uikName": "УИК №479",
     "tikTvd": "257200076155",
-    "tikName": "Мценская"
+    "tikName": "Мценская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 480,
     "uikTvd": "457401471956",
+    "uikName": "УИК №480",
     "tikTvd": "257200076155",
-    "tikName": "Мценская"
+    "tikName": "Мценская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 481,
     "uikTvd": "457401471957",
+    "uikName": "УИК №481",
     "tikTvd": "257200076155",
-    "tikName": "Мценская"
+    "tikName": "Мценская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 482,
     "uikTvd": "457401471958",
+    "uikName": "УИК №482",
     "tikTvd": "257200076155",
-    "tikName": "Мценская"
+    "tikName": "Мценская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 483,
     "uikTvd": "457401471959",
+    "uikName": "УИК №483",
     "tikTvd": "257200076155",
-    "tikName": "Мценская"
+    "tikName": "Мценская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 484,
     "uikTvd": "457401471960",
+    "uikName": "УИК №484",
     "tikTvd": "257200076155",
-    "tikName": "Мценская"
+    "tikName": "Мценская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 485,
     "uikTvd": "457401471961",
+    "uikName": "УИК №485",
     "tikTvd": "257200076155",
-    "tikName": "Мценская"
+    "tikName": "Мценская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 486,
     "uikTvd": "457401471962",
+    "uikName": "УИК №486",
     "tikTvd": "257200076155",
-    "tikName": "Мценская"
+    "tikName": "Мценская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 487,
     "uikTvd": "457401471963",
+    "uikName": "УИК №487",
     "tikTvd": "257200076155",
-    "tikName": "Мценская"
+    "tikName": "Мценская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 488,
     "uikTvd": "457401471964",
+    "uikName": "УИК №488",
     "tikTvd": "257200076155",
-    "tikName": "Мценская"
+    "tikName": "Мценская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 489,
     "uikTvd": "457401471965",
+    "uikName": "УИК №489",
     "tikTvd": "257200076155",
-    "tikName": "Мценская"
+    "tikName": "Мценская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 490,
     "uikTvd": "457401471966",
+    "uikName": "УИК №490",
     "tikTvd": "257200076155",
-    "tikName": "Мценская"
+    "tikName": "Мценская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 491,
     "uikTvd": "457401471967",
+    "uikName": "УИК №491",
     "tikTvd": "257200076155",
-    "tikName": "Мценская"
+    "tikName": "Мценская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 492,
     "uikTvd": "457401471968",
+    "uikName": "УИК №492",
     "tikTvd": "257200076155",
-    "tikName": "Мценская"
+    "tikName": "Мценская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 493,
     "uikTvd": "457401471969",
+    "uikName": "УИК №493",
     "tikTvd": "257200076155",
-    "tikName": "Мценская"
+    "tikName": "Мценская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 494,
     "uikTvd": "457401471970",
+    "uikName": "УИК №494",
     "tikTvd": "257200076155",
-    "tikName": "Мценская"
+    "tikName": "Мценская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 495,
     "uikTvd": "457401471971",
+    "uikName": "УИК №495",
     "tikTvd": "257200076155",
-    "tikName": "Мценская"
+    "tikName": "Мценская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 496,
     "uikTvd": "457401471972",
+    "uikName": "УИК №496",
     "tikTvd": "257200076155",
-    "tikName": "Мценская"
+    "tikName": "Мценская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 497,
     "uikTvd": "457401471973",
+    "uikName": "УИК №497",
     "tikTvd": "257200076155",
-    "tikName": "Мценская"
+    "tikName": "Мценская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 498,
     "uikTvd": "457401471974",
+    "uikName": "УИК №498",
     "tikTvd": "257200076155",
-    "tikName": "Мценская"
+    "tikName": "Мценская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 499,
     "uikTvd": "457401471975",
+    "uikName": "УИК №499",
     "tikTvd": "257200076155",
-    "tikName": "Мценская"
+    "tikName": "Мценская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 500,
     "uikTvd": "457401471976",
+    "uikName": "УИК №500",
     "tikTvd": "257200076155",
-    "tikName": "Мценская"
+    "tikName": "Мценская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 501,
     "uikTvd": "457401471977",
+    "uikName": "УИК №501",
     "tikTvd": "257200076155",
-    "tikName": "Мценская"
+    "tikName": "Мценская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 502,
     "uikTvd": "457401471978",
+    "uikName": "УИК №502",
     "tikTvd": "257200076155",
-    "tikName": "Мценская"
+    "tikName": "Мценская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 503,
     "uikTvd": "457401471979",
+    "uikName": "УИК №503",
     "tikTvd": "257200076155",
-    "tikName": "Мценская"
+    "tikName": "Мценская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 504,
     "uikTvd": "457401471980",
+    "uikName": "УИК №504",
     "tikTvd": "257200076155",
-    "tikName": "Мценская"
+    "tikName": "Мценская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 505,
     "uikTvd": "457401471981",
+    "uikName": "УИК №505",
     "tikTvd": "257200076155",
-    "tikName": "Мценская"
+    "tikName": "Мценская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 506,
     "uikTvd": "457401574796",
+    "uikName": "УИК №506",
     "tikTvd": "257200076156",
-    "tikName": "Новодеревеньковская"
+    "tikName": "Новодеревеньковская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 507,
     "uikTvd": "457401574799",
+    "uikName": "УИК №507",
     "tikTvd": "257200076156",
-    "tikName": "Новодеревеньковская"
+    "tikName": "Новодеревеньковская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 508,
     "uikTvd": "457401574800",
+    "uikName": "УИК №508",
     "tikTvd": "257200076156",
-    "tikName": "Новодеревеньковская"
+    "tikName": "Новодеревеньковская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 509,
     "uikTvd": "457401574801",
+    "uikName": "УИК №509",
     "tikTvd": "257200076156",
-    "tikName": "Новодеревеньковская"
+    "tikName": "Новодеревеньковская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 510,
     "uikTvd": "457401574802",
+    "uikName": "УИК №510",
     "tikTvd": "257200076156",
-    "tikName": "Новодеревеньковская"
+    "tikName": "Новодеревеньковская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 511,
     "uikTvd": "457401574803",
+    "uikName": "УИК №511",
     "tikTvd": "257200076156",
-    "tikName": "Новодеревеньковская"
+    "tikName": "Новодеревеньковская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 512,
     "uikTvd": "457401574804",
+    "uikName": "УИК №512",
     "tikTvd": "257200076156",
-    "tikName": "Новодеревеньковская"
+    "tikName": "Новодеревеньковская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 513,
     "uikTvd": "457401574805",
+    "uikName": "УИК №513",
     "tikTvd": "257200076156",
-    "tikName": "Новодеревеньковская"
+    "tikName": "Новодеревеньковская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 514,
     "uikTvd": "457401574806",
+    "uikName": "УИК №514",
     "tikTvd": "257200076156",
-    "tikName": "Новодеревеньковская"
+    "tikName": "Новодеревеньковская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 515,
     "uikTvd": "457401574807",
+    "uikName": "УИК №515",
     "tikTvd": "257200076156",
-    "tikName": "Новодеревеньковская"
+    "tikName": "Новодеревеньковская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 516,
     "uikTvd": "457401574808",
+    "uikName": "УИК №516",
     "tikTvd": "257200076156",
-    "tikName": "Новодеревеньковская"
+    "tikName": "Новодеревеньковская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 517,
     "uikTvd": "457401574809",
+    "uikName": "УИК №517",
     "tikTvd": "257200076156",
-    "tikName": "Новодеревеньковская"
+    "tikName": "Новодеревеньковская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 518,
     "uikTvd": "457401574810",
+    "uikName": "УИК №518",
     "tikTvd": "257200076156",
-    "tikName": "Новодеревеньковская"
+    "tikName": "Новодеревеньковская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 519,
     "uikTvd": "457401574811",
+    "uikName": "УИК №519",
     "tikTvd": "257200076156",
-    "tikName": "Новодеревеньковская"
+    "tikName": "Новодеревеньковская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 520,
     "uikTvd": "457401574812",
+    "uikName": "УИК №520",
     "tikTvd": "257200076156",
-    "tikName": "Новодеревеньковская"
+    "tikName": "Новодеревеньковская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 521,
     "uikTvd": "457401574813",
+    "uikName": "УИК №521",
     "tikTvd": "257200076156",
-    "tikName": "Новодеревеньковская"
+    "tikName": "Новодеревеньковская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 522,
     "uikTvd": "457401574814",
+    "uikName": "УИК №522",
     "tikTvd": "257200076156",
-    "tikName": "Новодеревеньковская"
+    "tikName": "Новодеревеньковская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 523,
     "uikTvd": "457401574815",
+    "uikName": "УИК №523",
     "tikTvd": "257200076156",
-    "tikName": "Новодеревеньковская"
+    "tikName": "Новодеревеньковская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 524,
     "uikTvd": "457401574816",
+    "uikName": "УИК №524",
     "tikTvd": "257200076156",
-    "tikName": "Новодеревеньковская"
+    "tikName": "Новодеревеньковская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 525,
     "uikTvd": "457401574817",
+    "uikName": "УИК №525",
     "tikTvd": "257200076156",
-    "tikName": "Новодеревеньковская"
+    "tikName": "Новодеревеньковская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 526,
     "uikTvd": "457401574818",
+    "uikName": "УИК №526",
     "tikTvd": "257200076156",
-    "tikName": "Новодеревеньковская"
+    "tikName": "Новодеревеньковская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 527,
     "uikTvd": "457401574819",
+    "uikName": "УИК №527",
     "tikTvd": "257200076156",
-    "tikName": "Новодеревеньковская"
+    "tikName": "Новодеревеньковская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 528,
     "uikTvd": "457401671716",
+    "uikName": "УИК №528",
     "tikTvd": "257200076154",
-    "tikName": "Новосильская"
+    "tikName": "Новосильская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 529,
     "uikTvd": "457401671717",
+    "uikName": "УИК №529",
     "tikTvd": "257200076154",
-    "tikName": "Новосильская"
+    "tikName": "Новосильская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 530,
     "uikTvd": "457401671718",
+    "uikName": "УИК №530",
     "tikTvd": "257200076154",
-    "tikName": "Новосильская"
+    "tikName": "Новосильская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 531,
     "uikTvd": "457401671719",
+    "uikName": "УИК №531",
     "tikTvd": "257200076154",
-    "tikName": "Новосильская"
+    "tikName": "Новосильская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 532,
     "uikTvd": "457401671720",
+    "uikName": "УИК №532",
     "tikTvd": "257200076154",
-    "tikName": "Новосильская"
+    "tikName": "Новосильская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 533,
     "uikTvd": "457401671721",
+    "uikName": "УИК №533",
     "tikTvd": "257200076154",
-    "tikName": "Новосильская"
+    "tikName": "Новосильская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 534,
     "uikTvd": "457401671722",
+    "uikName": "УИК №534",
     "tikTvd": "257200076154",
-    "tikName": "Новосильская"
+    "tikName": "Новосильская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 535,
     "uikTvd": "457401671723",
+    "uikName": "УИК №535",
     "tikTvd": "257200076154",
-    "tikName": "Новосильская"
+    "tikName": "Новосильская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 536,
     "uikTvd": "457401671724",
+    "uikName": "УИК №536",
     "tikTvd": "257200076154",
-    "tikName": "Новосильская"
+    "tikName": "Новосильская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 537,
     "uikTvd": "457401671725",
+    "uikName": "УИК №537",
     "tikTvd": "257200076154",
-    "tikName": "Новосильская"
+    "tikName": "Новосильская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 538,
     "uikTvd": "457401671726",
+    "uikName": "УИК №538",
     "tikTvd": "257200076154",
-    "tikName": "Новосильская"
+    "tikName": "Новосильская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 539,
     "uikTvd": "457401671727",
+    "uikName": "УИК №539",
     "tikTvd": "257200076154",
-    "tikName": "Новосильская"
+    "tikName": "Новосильская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 540,
     "uikTvd": "457401671728",
+    "uikName": "УИК №540",
     "tikTvd": "257200076154",
-    "tikName": "Новосильская"
+    "tikName": "Новосильская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 541,
     "uikTvd": "457401671729",
+    "uikName": "УИК №541",
     "tikTvd": "257200076154",
-    "tikName": "Новосильская"
+    "tikName": "Новосильская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 542,
     "uikTvd": "457401671730",
+    "uikName": "УИК №542",
     "tikTvd": "257200076154",
-    "tikName": "Новосильская"
+    "tikName": "Новосильская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 543,
     "uikTvd": "457401671731",
+    "uikName": "УИК №543",
     "tikTvd": "257200076154",
-    "tikName": "Новосильская"
+    "tikName": "Новосильская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 544,
     "uikTvd": "457401671732",
+    "uikName": "УИК №544",
     "tikTvd": "257200076154",
-    "tikName": "Новосильская"
+    "tikName": "Новосильская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 545,
     "uikTvd": "457400971288",
+    "uikName": "УИК №545",
     "tikTvd": "257200076144",
-    "tikName": "Корсаковская"
+    "tikName": "Корсаковская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 546,
     "uikTvd": "457400971289",
+    "uikName": "УИК №546",
     "tikTvd": "257200076144",
-    "tikName": "Корсаковская"
+    "tikName": "Корсаковская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 547,
     "uikTvd": "457400971290",
+    "uikName": "УИК №547",
     "tikTvd": "257200076144",
-    "tikName": "Корсаковская"
+    "tikName": "Корсаковская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 548,
     "uikTvd": "457400971291",
+    "uikName": "УИК №548",
     "tikTvd": "257200076144",
-    "tikName": "Корсаковская"
+    "tikName": "Корсаковская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 549,
     "uikTvd": "457400971292",
+    "uikName": "УИК №549",
     "tikTvd": "257200076144",
-    "tikName": "Корсаковская"
+    "tikName": "Корсаковская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 550,
     "uikTvd": "457400971293",
+    "uikName": "УИК №550",
     "tikTvd": "257200076144",
-    "tikName": "Корсаковская"
+    "tikName": "Корсаковская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 551,
     "uikTvd": "457400971294",
+    "uikName": "УИК №551",
     "tikTvd": "257200076144",
-    "tikName": "Корсаковская"
+    "tikName": "Корсаковская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 552,
     "uikTvd": "457400971295",
+    "uikName": "УИК №552",
     "tikTvd": "257200076144",
-    "tikName": "Корсаковская"
+    "tikName": "Корсаковская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 553,
     "uikTvd": "457400971296",
+    "uikName": "УИК №553",
     "tikTvd": "257200076144",
-    "tikName": "Корсаковская"
+    "tikName": "Корсаковская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 554,
     "uikTvd": "457400971297",
+    "uikName": "УИК №554",
     "tikTvd": "257200076144",
-    "tikName": "Корсаковская"
+    "tikName": "Корсаковская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 555,
     "uikTvd": "457400971298",
+    "uikName": "УИК №555",
     "tikTvd": "257200076144",
-    "tikName": "Корсаковская"
+    "tikName": "Корсаковская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 556,
     "uikTvd": "457402077014",
+    "uikName": "УИК №556",
     "tikTvd": "257200076148",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 557,
     "uikTvd": "457402077015",
+    "uikName": "УИК №557",
     "tikTvd": "257200076148",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 558,
     "uikTvd": "457402077016",
+    "uikName": "УИК №558",
     "tikTvd": "257200076148",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 559,
     "uikTvd": "457402077017",
+    "uikName": "УИК №559",
     "tikTvd": "257200076148",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 560,
     "uikTvd": "457402077018",
+    "uikName": "УИК №560",
     "tikTvd": "257200076148",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 561,
     "uikTvd": "457402077019",
+    "uikName": "УИК №561",
     "tikTvd": "257200076148",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 562,
     "uikTvd": "457402077020",
+    "uikName": "УИК №562",
     "tikTvd": "257200076148",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 563,
     "uikTvd": "457402077021",
+    "uikName": "УИК №563",
     "tikTvd": "257200076148",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 564,
     "uikTvd": "457402077022",
+    "uikName": "УИК №564",
     "tikTvd": "257200076148",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 565,
     "uikTvd": "457402077023",
+    "uikName": "УИК №565",
     "tikTvd": "257200076148",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 566,
     "uikTvd": "457402077024",
+    "uikName": "УИК №566",
     "tikTvd": "257200076148",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 567,
     "uikTvd": "457402077025",
+    "uikName": "УИК №567",
     "tikTvd": "257200076148",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 568,
     "uikTvd": "457402077026",
+    "uikName": "УИК №568",
     "tikTvd": "257200076148",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 569,
     "uikTvd": "457402077027",
+    "uikName": "УИК №569",
     "tikTvd": "257200076148",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 570,
     "uikTvd": "457402077028",
+    "uikName": "УИК №570",
     "tikTvd": "257200076148",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 571,
     "uikTvd": "457402077029",
+    "uikName": "УИК №571",
     "tikTvd": "257200076148",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 572,
     "uikTvd": "457402077030",
+    "uikName": "УИК №572",
     "tikTvd": "257200076148",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 573,
     "uikTvd": "457402077031",
+    "uikName": "УИК №573",
     "tikTvd": "257200076148",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 574,
     "uikTvd": "457402077032",
+    "uikName": "УИК №574",
     "tikTvd": "257200076148",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 575,
     "uikTvd": "457402077033",
+    "uikName": "УИК №575",
     "tikTvd": "257200076148",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 576,
     "uikTvd": "457402077034",
+    "uikName": "УИК №576",
     "tikTvd": "257200076148",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 577,
     "uikTvd": "457402077035",
+    "uikName": "УИК №577",
     "tikTvd": "257200076148",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 578,
     "uikTvd": "457402077036",
+    "uikName": "УИК №578",
     "tikTvd": "257200076148",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 579,
     "uikTvd": "457402077037",
+    "uikName": "УИК №579",
     "tikTvd": "257200076148",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 580,
     "uikTvd": "457402077038",
+    "uikName": "УИК №580",
     "tikTvd": "257200076148",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 581,
     "uikTvd": "457402077039",
+    "uikName": "УИК №581",
     "tikTvd": "257200076148",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 582,
     "uikTvd": "457402077040",
+    "uikName": "УИК №582",
     "tikTvd": "257200076148",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 583,
     "uikTvd": "457402077041",
+    "uikName": "УИК №583",
     "tikTvd": "257200076148",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 584,
     "uikTvd": "457402077042",
+    "uikName": "УИК №584",
     "tikTvd": "257200076148",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 585,
     "uikTvd": "457402077043",
+    "uikName": "УИК №585",
     "tikTvd": "257200076148",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 586,
     "uikTvd": "457402077044",
+    "uikName": "УИК №586",
     "tikTvd": "257200076148",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 587,
     "uikTvd": "457402077045",
+    "uikName": "УИК №587",
     "tikTvd": "257200076148",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 588,
     "uikTvd": "457402077046",
+    "uikName": "УИК №588",
     "tikTvd": "257200076148",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 589,
     "uikTvd": "457402077047",
+    "uikName": "УИК №589",
     "tikTvd": "257200076148",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 590,
     "uikTvd": "457402077048",
+    "uikName": "УИК №590",
     "tikTvd": "257200076148",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 591,
     "uikTvd": "457402077049",
+    "uikName": "УИК №591",
     "tikTvd": "257200076148",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 592,
     "uikTvd": "457402077050",
+    "uikName": "УИК №592",
     "tikTvd": "257200076148",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 593,
     "uikTvd": "457402077051",
+    "uikName": "УИК №593",
     "tikTvd": "257200076148",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 594,
     "uikTvd": "457402077052",
+    "uikName": "УИК №594",
     "tikTvd": "257200076148",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 595,
     "uikTvd": "457402077053",
+    "uikName": "УИК №595",
     "tikTvd": "257200076148",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 596,
     "uikTvd": "457402077054",
+    "uikName": "УИК №596",
     "tikTvd": "257200076148",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 597,
     "uikTvd": "457402077055",
+    "uikName": "УИК №597",
     "tikTvd": "257200076148",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 598,
     "uikTvd": "457402077056",
+    "uikName": "УИК №598",
     "tikTvd": "257200076148",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 599,
     "uikTvd": "457402077057",
+    "uikName": "УИК №599",
     "tikTvd": "257200076148",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 600,
     "uikTvd": "457402077058",
+    "uikName": "УИК №600",
     "tikTvd": "257200076148",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 601,
     "uikTvd": "457402077059",
+    "uikName": "УИК №601",
     "tikTvd": "257200076148",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 602,
     "uikTvd": "457402077060",
+    "uikName": "УИК №602",
     "tikTvd": "257200076148",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 603,
     "uikTvd": "457402077061",
+    "uikName": "УИК №603",
     "tikTvd": "257200076148",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 604,
     "uikTvd": "457402077062",
+    "uikName": "УИК №604",
     "tikTvd": "257200076148",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 605,
     "uikTvd": "457402077063",
+    "uikName": "УИК №605",
     "tikTvd": "257200076148",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 606,
     "uikTvd": "457402077064",
+    "uikName": "УИК №606",
     "tikTvd": "257200076148",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 607,
     "uikTvd": "457402077065",
+    "uikName": "УИК №607",
     "tikTvd": "257200076148",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 608,
     "uikTvd": "457402077066",
+    "uikName": "УИК №608",
     "tikTvd": "257200076148",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 609,
     "uikTvd": "457402077067",
+    "uikName": "УИК №609",
     "tikTvd": "257200076148",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 610,
     "uikTvd": "457402077068",
+    "uikName": "УИК №610",
     "tikTvd": "257200076148",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 611,
     "uikTvd": "457402077069",
+    "uikName": "УИК №611",
     "tikTvd": "257200076148",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 614,
     "uikTvd": "457402171928",
+    "uikName": "УИК №614",
     "tikTvd": "257200076149",
-    "tikName": "Покровская"
+    "tikName": "Покровская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 615,
     "uikTvd": "457402171929",
+    "uikName": "УИК №615",
     "tikTvd": "257200076149",
-    "tikName": "Покровская"
+    "tikName": "Покровская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 616,
     "uikTvd": "457402171930",
+    "uikName": "УИК №616",
     "tikTvd": "257200076149",
-    "tikName": "Покровская"
+    "tikName": "Покровская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 617,
     "uikTvd": "457402171931",
+    "uikName": "УИК №617",
     "tikTvd": "257200076149",
-    "tikName": "Покровская"
+    "tikName": "Покровская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 618,
     "uikTvd": "457402171932",
+    "uikName": "УИК №618",
     "tikTvd": "257200076149",
-    "tikName": "Покровская"
+    "tikName": "Покровская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 619,
     "uikTvd": "457402171933",
+    "uikName": "УИК №619",
     "tikTvd": "257200076149",
-    "tikName": "Покровская"
+    "tikName": "Покровская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 620,
     "uikTvd": "457402171934",
+    "uikName": "УИК №620",
     "tikTvd": "257200076149",
-    "tikName": "Покровская"
+    "tikName": "Покровская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 621,
     "uikTvd": "457402171935",
+    "uikName": "УИК №621",
     "tikTvd": "257200076149",
-    "tikName": "Покровская"
+    "tikName": "Покровская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 622,
     "uikTvd": "457402171936",
+    "uikName": "УИК №622",
     "tikTvd": "257200076149",
-    "tikName": "Покровская"
+    "tikName": "Покровская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 623,
     "uikTvd": "457402171937",
+    "uikName": "УИК №623",
     "tikTvd": "257200076149",
-    "tikName": "Покровская"
+    "tikName": "Покровская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 624,
     "uikTvd": "457402171938",
+    "uikName": "УИК №624",
     "tikTvd": "257200076149",
-    "tikName": "Покровская"
+    "tikName": "Покровская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 625,
     "uikTvd": "457402171939",
+    "uikName": "УИК №625",
     "tikTvd": "257200076149",
-    "tikName": "Покровская"
+    "tikName": "Покровская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 626,
     "uikTvd": "457402171940",
+    "uikName": "УИК №626",
     "tikTvd": "257200076149",
-    "tikName": "Покровская"
+    "tikName": "Покровская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 627,
     "uikTvd": "457402171941",
+    "uikName": "УИК №627",
     "tikTvd": "257200076149",
-    "tikName": "Покровская"
+    "tikName": "Покровская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 628,
     "uikTvd": "457402171942",
+    "uikName": "УИК №628",
     "tikTvd": "257200076149",
-    "tikName": "Покровская"
+    "tikName": "Покровская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 629,
     "uikTvd": "457402171943",
+    "uikName": "УИК №629",
     "tikTvd": "257200076149",
-    "tikName": "Покровская"
+    "tikName": "Покровская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 630,
     "uikTvd": "457402171944",
+    "uikName": "УИК №630",
     "tikTvd": "257200076149",
-    "tikName": "Покровская"
+    "tikName": "Покровская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 631,
     "uikTvd": "457402171945",
+    "uikName": "УИК №631",
     "tikTvd": "257200076149",
-    "tikName": "Покровская"
+    "tikName": "Покровская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 632,
     "uikTvd": "457402171946",
+    "uikName": "УИК №632",
     "tikTvd": "257200076149",
-    "tikName": "Покровская"
+    "tikName": "Покровская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 633,
     "uikTvd": "457402171947",
+    "uikName": "УИК №633",
     "tikTvd": "257200076149",
-    "tikName": "Покровская"
+    "tikName": "Покровская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 634,
     "uikTvd": "457402171948",
+    "uikName": "УИК №634",
     "tikTvd": "257200076149",
-    "tikName": "Покровская"
+    "tikName": "Покровская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 635,
     "uikTvd": "457402171949",
+    "uikName": "УИК №635",
     "tikTvd": "257200076149",
-    "tikName": "Покровская"
+    "tikName": "Покровская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 636,
     "uikTvd": "457402171950",
+    "uikName": "УИК №636",
     "tikTvd": "257200076149",
-    "tikName": "Покровская"
+    "tikName": "Покровская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 637,
     "uikTvd": "457402171951",
+    "uikName": "УИК №637",
     "tikTvd": "257200076149",
-    "tikName": "Покровская"
+    "tikName": "Покровская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 638,
     "uikTvd": "457402171952",
+    "uikName": "УИК №638",
     "tikTvd": "257200076149",
-    "tikName": "Покровская"
+    "tikName": "Покровская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 639,
     "uikTvd": "457402171953",
+    "uikName": "УИК №639",
     "tikTvd": "257200076149",
-    "tikName": "Покровская"
+    "tikName": "Покровская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 640,
     "uikTvd": "457402171954",
+    "uikName": "УИК №640",
     "tikTvd": "257200076149",
-    "tikName": "Покровская"
+    "tikName": "Покровская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 641,
     "uikTvd": "457402171955",
+    "uikName": "УИК №641",
     "tikTvd": "257200076149",
-    "tikName": "Покровская"
+    "tikName": "Покровская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 642,
     "uikTvd": "457402171956",
+    "uikName": "УИК №642",
     "tikTvd": "257200076149",
-    "tikName": "Покровская"
+    "tikName": "Покровская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 643,
     "uikTvd": "457402171957",
+    "uikName": "УИК №643",
     "tikTvd": "257200076149",
-    "tikName": "Покровская"
+    "tikName": "Покровская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 644,
     "uikTvd": "457402171958",
+    "uikName": "УИК №644",
     "tikTvd": "257200076149",
-    "tikName": "Покровская"
+    "tikName": "Покровская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 645,
     "uikTvd": "457402171959",
+    "uikName": "УИК №645",
     "tikTvd": "257200076149",
-    "tikName": "Покровская"
+    "tikName": "Покровская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 646,
     "uikTvd": "457402271675",
+    "uikName": "УИК №646",
     "tikTvd": "257200076150",
-    "tikName": "Свердловская"
+    "tikName": "Свердловская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 647,
     "uikTvd": "457402271676",
+    "uikName": "УИК №647",
     "tikTvd": "257200076150",
-    "tikName": "Свердловская"
+    "tikName": "Свердловская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 648,
     "uikTvd": "457402271677",
+    "uikName": "УИК №648",
     "tikTvd": "257200076150",
-    "tikName": "Свердловская"
+    "tikName": "Свердловская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 649,
     "uikTvd": "457402271678",
+    "uikName": "УИК №649",
     "tikTvd": "257200076150",
-    "tikName": "Свердловская"
+    "tikName": "Свердловская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 650,
     "uikTvd": "457402271679",
+    "uikName": "УИК №650",
     "tikTvd": "257200076150",
-    "tikName": "Свердловская"
+    "tikName": "Свердловская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 651,
     "uikTvd": "457402271680",
+    "uikName": "УИК №651",
     "tikTvd": "257200076150",
-    "tikName": "Свердловская"
+    "tikName": "Свердловская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 652,
     "uikTvd": "457402271681",
+    "uikName": "УИК №652",
     "tikTvd": "257200076150",
-    "tikName": "Свердловская"
+    "tikName": "Свердловская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 653,
     "uikTvd": "457402271682",
+    "uikName": "УИК №653",
     "tikTvd": "257200076150",
-    "tikName": "Свердловская"
+    "tikName": "Свердловская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 654,
     "uikTvd": "457402271683",
+    "uikName": "УИК №654",
     "tikTvd": "257200076150",
-    "tikName": "Свердловская"
+    "tikName": "Свердловская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 655,
     "uikTvd": "457402271684",
+    "uikName": "УИК №655",
     "tikTvd": "257200076150",
-    "tikName": "Свердловская"
+    "tikName": "Свердловская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 656,
     "uikTvd": "457402271685",
+    "uikName": "УИК №656",
     "tikTvd": "257200076150",
-    "tikName": "Свердловская"
+    "tikName": "Свердловская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 657,
     "uikTvd": "457402271686",
+    "uikName": "УИК №657",
     "tikTvd": "257200076150",
-    "tikName": "Свердловская"
+    "tikName": "Свердловская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 658,
     "uikTvd": "457402271687",
+    "uikName": "УИК №658",
     "tikTvd": "257200076150",
-    "tikName": "Свердловская"
+    "tikName": "Свердловская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 659,
     "uikTvd": "457402271688",
+    "uikName": "УИК №659",
     "tikTvd": "257200076150",
-    "tikName": "Свердловская"
+    "tikName": "Свердловская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 660,
     "uikTvd": "457402271689",
+    "uikName": "УИК №660",
     "tikTvd": "257200076150",
-    "tikName": "Свердловская"
+    "tikName": "Свердловская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 661,
     "uikTvd": "457402271690",
+    "uikName": "УИК №661",
     "tikTvd": "257200076150",
-    "tikName": "Свердловская"
+    "tikName": "Свердловская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 662,
     "uikTvd": "457402271691",
+    "uikName": "УИК №662",
     "tikTvd": "257200076150",
-    "tikName": "Свердловская"
+    "tikName": "Свердловская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 663,
     "uikTvd": "457402271692",
+    "uikName": "УИК №663",
     "tikTvd": "257200076150",
-    "tikName": "Свердловская"
+    "tikName": "Свердловская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 664,
     "uikTvd": "457402271693",
+    "uikName": "УИК №664",
     "tikTvd": "257200076150",
-    "tikName": "Свердловская"
+    "tikName": "Свердловская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 665,
     "uikTvd": "457402271694",
+    "uikName": "УИК №665",
     "tikTvd": "257200076150",
-    "tikName": "Свердловская"
+    "tikName": "Свердловская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 666,
     "uikTvd": "457402271695",
+    "uikName": "УИК №666",
     "tikTvd": "257200076150",
-    "tikName": "Свердловская"
+    "tikName": "Свердловская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 667,
     "uikTvd": "457402271696",
+    "uikName": "УИК №667",
     "tikTvd": "257200076150",
-    "tikName": "Свердловская"
+    "tikName": "Свердловская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 668,
     "uikTvd": "457402271697",
+    "uikName": "УИК №668",
     "tikTvd": "257200076150",
-    "tikName": "Свердловская"
+    "tikName": "Свердловская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 669,
     "uikTvd": "457402271698",
+    "uikName": "УИК №669",
     "tikTvd": "257200076150",
-    "tikName": "Свердловская"
+    "tikName": "Свердловская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 670,
     "uikTvd": "457402271699",
+    "uikName": "УИК №670",
     "tikTvd": "257200076150",
-    "tikName": "Свердловская"
+    "tikName": "Свердловская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 671,
     "uikTvd": "457402271700",
+    "uikName": "УИК №671",
     "tikTvd": "257200076150",
-    "tikName": "Свердловская"
+    "tikName": "Свердловская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 672,
     "uikTvd": "457402471739",
+    "uikName": "УИК №672",
     "tikTvd": "257200076161",
-    "tikName": "Троснянская"
+    "tikName": "Троснянская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 673,
     "uikTvd": "457402471740",
+    "uikName": "УИК №673",
     "tikTvd": "257200076161",
-    "tikName": "Троснянская"
+    "tikName": "Троснянская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 674,
     "uikTvd": "457402471741",
+    "uikName": "УИК №674",
     "tikTvd": "257200076161",
-    "tikName": "Троснянская"
+    "tikName": "Троснянская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 675,
     "uikTvd": "457402471742",
+    "uikName": "УИК №675",
     "tikTvd": "257200076161",
-    "tikName": "Троснянская"
+    "tikName": "Троснянская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 676,
     "uikTvd": "457402471743",
+    "uikName": "УИК №676",
     "tikTvd": "257200076161",
-    "tikName": "Троснянская"
+    "tikName": "Троснянская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 677,
     "uikTvd": "457402471744",
+    "uikName": "УИК №677",
     "tikTvd": "257200076161",
-    "tikName": "Троснянская"
+    "tikName": "Троснянская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 678,
     "uikTvd": "457402471745",
+    "uikName": "УИК №678",
     "tikTvd": "257200076161",
-    "tikName": "Троснянская"
+    "tikName": "Троснянская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 679,
     "uikTvd": "457402471746",
+    "uikName": "УИК №679",
     "tikTvd": "257200076161",
-    "tikName": "Троснянская"
+    "tikName": "Троснянская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 680,
     "uikTvd": "457402471747",
+    "uikName": "УИК №680",
     "tikTvd": "257200076161",
-    "tikName": "Троснянская"
+    "tikName": "Троснянская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 681,
     "uikTvd": "457402471748",
+    "uikName": "УИК №681",
     "tikTvd": "257200076161",
-    "tikName": "Троснянская"
+    "tikName": "Троснянская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 682,
     "uikTvd": "457402471749",
+    "uikName": "УИК №682",
     "tikTvd": "257200076161",
-    "tikName": "Троснянская"
+    "tikName": "Троснянская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 683,
     "uikTvd": "457402471750",
+    "uikName": "УИК №683",
     "tikTvd": "257200076161",
-    "tikName": "Троснянская"
+    "tikName": "Троснянская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 684,
     "uikTvd": "457402471751",
+    "uikName": "УИК №684",
     "tikTvd": "257200076161",
-    "tikName": "Троснянская"
+    "tikName": "Троснянская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 685,
     "uikTvd": "457402471752",
+    "uikName": "УИК №685",
     "tikTvd": "257200076161",
-    "tikName": "Троснянская"
+    "tikName": "Троснянская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 686,
     "uikTvd": "457402471753",
+    "uikName": "УИК №686",
     "tikTvd": "257200076161",
-    "tikName": "Троснянская"
+    "tikName": "Троснянская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 687,
     "uikTvd": "457402471754",
+    "uikName": "УИК №687",
     "tikTvd": "257200076161",
-    "tikName": "Троснянская"
+    "tikName": "Троснянская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 688,
     "uikTvd": "457402471755",
+    "uikName": "УИК №688",
     "tikTvd": "257200076161",
-    "tikName": "Троснянская"
+    "tikName": "Троснянская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 689,
     "uikTvd": "457402471756",
+    "uikName": "УИК №689",
     "tikTvd": "257200076161",
-    "tikName": "Троснянская"
+    "tikName": "Троснянская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 690,
     "uikTvd": "457402471757",
+    "uikName": "УИК №690",
     "tikTvd": "257200076161",
-    "tikName": "Троснянская"
+    "tikName": "Троснянская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 691,
     "uikTvd": "457402471758",
+    "uikName": "УИК №691",
     "tikTvd": "257200076161",
-    "tikName": "Троснянская"
+    "tikName": "Троснянская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 692,
     "uikTvd": "457402471759",
+    "uikName": "УИК №692",
     "tikTvd": "257200076161",
-    "tikName": "Троснянская"
+    "tikName": "Троснянская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 693,
     "uikTvd": "457402471760",
+    "uikName": "УИК №693",
     "tikTvd": "257200076161",
-    "tikName": "Троснянская"
+    "tikName": "Троснянская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 694,
     "uikTvd": "457402471761",
+    "uikName": "УИК №694",
     "tikTvd": "257200076161",
-    "tikName": "Троснянская"
+    "tikName": "Троснянская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 696,
     "uikTvd": "457402571845",
+    "uikName": "УИК №696",
     "tikTvd": "257200076135",
-    "tikName": "Урицкая"
+    "tikName": "Урицкая",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 697,
     "uikTvd": "457402571846",
+    "uikName": "УИК №697",
     "tikTvd": "257200076135",
-    "tikName": "Урицкая"
+    "tikName": "Урицкая",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 698,
     "uikTvd": "457402571847",
+    "uikName": "УИК №698",
     "tikTvd": "257200076135",
-    "tikName": "Урицкая"
+    "tikName": "Урицкая",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 699,
     "uikTvd": "457402571848",
+    "uikName": "УИК №699",
     "tikTvd": "257200076135",
-    "tikName": "Урицкая"
+    "tikName": "Урицкая",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 700,
     "uikTvd": "457402571849",
+    "uikName": "УИК №700",
     "tikTvd": "257200076135",
-    "tikName": "Урицкая"
+    "tikName": "Урицкая",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 701,
     "uikTvd": "457402571850",
+    "uikName": "УИК №701",
     "tikTvd": "257200076135",
-    "tikName": "Урицкая"
+    "tikName": "Урицкая",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 702,
     "uikTvd": "457402571851",
+    "uikName": "УИК №702",
     "tikTvd": "257200076135",
-    "tikName": "Урицкая"
+    "tikName": "Урицкая",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 703,
     "uikTvd": "457402571852",
+    "uikName": "УИК №703",
     "tikTvd": "257200076135",
-    "tikName": "Урицкая"
+    "tikName": "Урицкая",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 704,
     "uikTvd": "457402571853",
+    "uikName": "УИК №704",
     "tikTvd": "257200076135",
-    "tikName": "Урицкая"
+    "tikName": "Урицкая",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 705,
     "uikTvd": "457402571854",
+    "uikName": "УИК №705",
     "tikTvd": "257200076135",
-    "tikName": "Урицкая"
+    "tikName": "Урицкая",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 706,
     "uikTvd": "457402571855",
+    "uikName": "УИК №706",
     "tikTvd": "257200076135",
-    "tikName": "Урицкая"
+    "tikName": "Урицкая",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 707,
     "uikTvd": "457402571856",
+    "uikName": "УИК №707",
     "tikTvd": "257200076135",
-    "tikName": "Урицкая"
+    "tikName": "Урицкая",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 708,
     "uikTvd": "457402571857",
+    "uikName": "УИК №708",
     "tikTvd": "257200076135",
-    "tikName": "Урицкая"
+    "tikName": "Урицкая",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 709,
     "uikTvd": "457402571858",
+    "uikName": "УИК №709",
     "tikTvd": "257200076135",
-    "tikName": "Урицкая"
+    "tikName": "Урицкая",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 710,
     "uikTvd": "457402571859",
+    "uikName": "УИК №710",
     "tikTvd": "257200076135",
-    "tikName": "Урицкая"
+    "tikName": "Урицкая",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 711,
     "uikTvd": "457402571860",
+    "uikName": "УИК №711",
     "tikTvd": "257200076135",
-    "tikName": "Урицкая"
+    "tikName": "Урицкая",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 712,
     "uikTvd": "457402571861",
+    "uikName": "УИК №712",
     "tikTvd": "257200076135",
-    "tikName": "Урицкая"
+    "tikName": "Урицкая",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 713,
     "uikTvd": "457402571862",
+    "uikName": "УИК №713",
     "tikTvd": "257200076135",
-    "tikName": "Урицкая"
+    "tikName": "Урицкая",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 714,
     "uikTvd": "457402571863",
+    "uikName": "УИК №714",
     "tikTvd": "257200076135",
-    "tikName": "Урицкая"
+    "tikName": "Урицкая",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 715,
     "uikTvd": "457402571864",
+    "uikName": "УИК №715",
     "tikTvd": "257200076135",
-    "tikName": "Урицкая"
+    "tikName": "Урицкая",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 717,
     "uikTvd": "457402671321",
+    "uikName": "УИК №717",
     "tikTvd": "257200076160",
-    "tikName": "Хотынецкая"
+    "tikName": "Хотынецкая",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 718,
     "uikTvd": "457402671322",
+    "uikName": "УИК №718",
     "tikTvd": "257200076160",
-    "tikName": "Хотынецкая"
+    "tikName": "Хотынецкая",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 719,
     "uikTvd": "457402671323",
+    "uikName": "УИК №719",
     "tikTvd": "257200076160",
-    "tikName": "Хотынецкая"
+    "tikName": "Хотынецкая",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 720,
     "uikTvd": "457402671324",
+    "uikName": "УИК №720",
     "tikTvd": "257200076160",
-    "tikName": "Хотынецкая"
+    "tikName": "Хотынецкая",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 721,
     "uikTvd": "457402671325",
+    "uikName": "УИК №721",
     "tikTvd": "257200076160",
-    "tikName": "Хотынецкая"
+    "tikName": "Хотынецкая",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 722,
     "uikTvd": "457402671326",
+    "uikName": "УИК №722",
     "tikTvd": "257200076160",
-    "tikName": "Хотынецкая"
+    "tikName": "Хотынецкая",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 723,
     "uikTvd": "457402671327",
+    "uikName": "УИК №723",
     "tikTvd": "257200076160",
-    "tikName": "Хотынецкая"
+    "tikName": "Хотынецкая",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 724,
     "uikTvd": "457402671328",
+    "uikName": "УИК №724",
     "tikTvd": "257200076160",
-    "tikName": "Хотынецкая"
+    "tikName": "Хотынецкая",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 725,
     "uikTvd": "457402671329",
+    "uikName": "УИК №725",
     "tikTvd": "257200076160",
-    "tikName": "Хотынецкая"
+    "tikName": "Хотынецкая",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 726,
     "uikTvd": "457402671330",
+    "uikName": "УИК №726",
     "tikTvd": "257200076160",
-    "tikName": "Хотынецкая"
+    "tikName": "Хотынецкая",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 727,
     "uikTvd": "457402671331",
+    "uikName": "УИК №727",
     "tikTvd": "257200076160",
-    "tikName": "Хотынецкая"
+    "tikName": "Хотынецкая",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 728,
     "uikTvd": "457402671332",
+    "uikName": "УИК №728",
     "tikTvd": "257200076160",
-    "tikName": "Хотынецкая"
+    "tikName": "Хотынецкая",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 729,
     "uikTvd": "457402671333",
+    "uikName": "УИК №729",
     "tikTvd": "257200076160",
-    "tikName": "Хотынецкая"
+    "tikName": "Хотынецкая",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 730,
     "uikTvd": "457402671334",
+    "uikName": "УИК №730",
     "tikTvd": "257200076160",
-    "tikName": "Хотынецкая"
+    "tikName": "Хотынецкая",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 731,
     "uikTvd": "457402671335",
+    "uikName": "УИК №731",
     "tikTvd": "257200076160",
-    "tikName": "Хотынецкая"
+    "tikName": "Хотынецкая",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 732,
     "uikTvd": "457402671336",
+    "uikName": "УИК №732",
     "tikTvd": "257200076160",
-    "tikName": "Хотынецкая"
+    "tikName": "Хотынецкая",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 733,
     "uikTvd": "457402671337",
+    "uikName": "УИК №733",
     "tikTvd": "257200076160",
-    "tikName": "Хотынецкая"
+    "tikName": "Хотынецкая",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 734,
     "uikTvd": "457402671338",
+    "uikName": "УИК №734",
     "tikTvd": "257200076160",
-    "tikName": "Хотынецкая"
+    "tikName": "Хотынецкая",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 737,
     "uikTvd": "457400771170",
+    "uikName": "УИК №737",
     "tikTvd": "257200076147",
-    "tikName": "Знаменская"
+    "tikName": "Знаменская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 738,
     "uikTvd": "457400771173",
+    "uikName": "УИК №738",
     "tikTvd": "257200076147",
-    "tikName": "Знаменская"
+    "tikName": "Знаменская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 739,
     "uikTvd": "457400771175",
+    "uikName": "УИК №739",
     "tikTvd": "257200076147",
-    "tikName": "Знаменская"
+    "tikName": "Знаменская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 740,
     "uikTvd": "457400771176",
+    "uikName": "УИК №740",
     "tikTvd": "257200076147",
-    "tikName": "Знаменская"
+    "tikName": "Знаменская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 741,
     "uikTvd": "457400771177",
+    "uikName": "УИК №741",
     "tikTvd": "257200076147",
-    "tikName": "Знаменская"
+    "tikName": "Знаменская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 742,
     "uikTvd": "457400771178",
+    "uikName": "УИК №742",
     "tikTvd": "257200076147",
-    "tikName": "Знаменская"
+    "tikName": "Знаменская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 743,
     "uikTvd": "457400771179",
+    "uikName": "УИК №743",
     "tikTvd": "257200076147",
-    "tikName": "Знаменская"
+    "tikName": "Знаменская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 744,
     "uikTvd": "457400771180",
+    "uikName": "УИК №744",
     "tikTvd": "257200076147",
-    "tikName": "Знаменская"
+    "tikName": "Знаменская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 745,
     "uikTvd": "457400771181",
+    "uikName": "УИК №745",
     "tikTvd": "257200076147",
-    "tikName": "Знаменская"
+    "tikName": "Знаменская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 746,
     "uikTvd": "457400771182",
+    "uikName": "УИК №746",
     "tikTvd": "257200076147",
-    "tikName": "Знаменская"
+    "tikName": "Знаменская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 747,
     "uikTvd": "457400771183",
+    "uikName": "УИК №747",
     "tikTvd": "257200076147",
-    "tikName": "Знаменская"
+    "tikName": "Знаменская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 748,
     "uikTvd": "457400771184",
+    "uikName": "УИК №748",
     "tikTvd": "257200076147",
-    "tikName": "Знаменская"
+    "tikName": "Знаменская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 749,
     "uikTvd": "457402773381",
+    "uikName": "УИК №749",
     "tikTvd": "257200076159",
-    "tikName": "Шаблыкинская"
+    "tikName": "Шаблыкинская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 750,
     "uikTvd": "457402773382",
+    "uikName": "УИК №750",
     "tikTvd": "257200076159",
-    "tikName": "Шаблыкинская"
+    "tikName": "Шаблыкинская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 751,
     "uikTvd": "457402773383",
+    "uikName": "УИК №751",
     "tikTvd": "257200076159",
-    "tikName": "Шаблыкинская"
+    "tikName": "Шаблыкинская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 752,
     "uikTvd": "457402773384",
+    "uikName": "УИК №752",
     "tikTvd": "257200076159",
-    "tikName": "Шаблыкинская"
+    "tikName": "Шаблыкинская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 753,
     "uikTvd": "457402773385",
+    "uikName": "УИК №753",
     "tikTvd": "257200076159",
-    "tikName": "Шаблыкинская"
+    "tikName": "Шаблыкинская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 754,
     "uikTvd": "457402773386",
+    "uikName": "УИК №754",
     "tikTvd": "257200076159",
-    "tikName": "Шаблыкинская"
+    "tikName": "Шаблыкинская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 755,
     "uikTvd": "457402773387",
+    "uikName": "УИК №755",
     "tikTvd": "257200076159",
-    "tikName": "Шаблыкинская"
+    "tikName": "Шаблыкинская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 756,
     "uikTvd": "457402773388",
+    "uikName": "УИК №756",
     "tikTvd": "257200076159",
-    "tikName": "Шаблыкинская"
+    "tikName": "Шаблыкинская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 757,
     "uikTvd": "457402773389",
+    "uikName": "УИК №757",
     "tikTvd": "257200076159",
-    "tikName": "Шаблыкинская"
+    "tikName": "Шаблыкинская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 758,
     "uikTvd": "457402773390",
+    "uikName": "УИК №758",
     "tikTvd": "257200076159",
-    "tikName": "Шаблыкинская"
+    "tikName": "Шаблыкинская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 759,
     "uikTvd": "457402773391",
+    "uikName": "УИК №759",
     "tikTvd": "257200076159",
-    "tikName": "Шаблыкинская"
+    "tikName": "Шаблыкинская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 760,
     "uikTvd": "457402773392",
+    "uikName": "УИК №760",
     "tikTvd": "257200076159",
-    "tikName": "Шаблыкинская"
+    "tikName": "Шаблыкинская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 761,
     "uikTvd": "457402773393",
+    "uikName": "УИК №761",
     "tikTvd": "257200076159",
-    "tikName": "Шаблыкинская"
+    "tikName": "Шаблыкинская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 762,
     "uikTvd": "457402773394",
+    "uikName": "УИК №762",
     "tikTvd": "257200076159",
-    "tikName": "Шаблыкинская"
+    "tikName": "Шаблыкинская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 763,
     "uikTvd": "457402773395",
+    "uikName": "УИК №763",
     "tikTvd": "257200076159",
-    "tikName": "Шаблыкинская"
+    "tikName": "Шаблыкинская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 764,
     "uikTvd": "457402773396",
+    "uikName": "УИК №764",
     "tikTvd": "257200076159",
-    "tikName": "Шаблыкинская"
+    "tikName": "Шаблыкинская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 765,
     "uikTvd": "457402773397",
+    "uikName": "УИК №765",
     "tikTvd": "257200076159",
-    "tikName": "Шаблыкинская"
+    "tikName": "Шаблыкинская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 766,
     "uikTvd": "457402773398",
+    "uikName": "УИК №766",
     "tikTvd": "257200076159",
-    "tikName": "Шаблыкинская"
+    "tikName": "Шаблыкинская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 767,
     "uikTvd": "457402773399",
+    "uikName": "УИК №767",
     "tikTvd": "257200076159",
-    "tikName": "Шаблыкинская"
+    "tikName": "Шаблыкинская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 768,
     "uikTvd": "457402371482",
+    "uikName": "УИК №768",
     "tikTvd": "257200076162",
-    "tikName": "Сосковская"
+    "tikName": "Сосковская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 769,
     "uikTvd": "457402371483",
+    "uikName": "УИК №769",
     "tikTvd": "257200076162",
-    "tikName": "Сосковская"
+    "tikName": "Сосковская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 770,
     "uikTvd": "457402371484",
+    "uikName": "УИК №770",
     "tikTvd": "257200076162",
-    "tikName": "Сосковская"
+    "tikName": "Сосковская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 771,
     "uikTvd": "457402371485",
+    "uikName": "УИК №771",
     "tikTvd": "257200076162",
-    "tikName": "Сосковская"
+    "tikName": "Сосковская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 772,
     "uikTvd": "457402371486",
+    "uikName": "УИК №772",
     "tikTvd": "257200076162",
-    "tikName": "Сосковская"
+    "tikName": "Сосковская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 773,
     "uikTvd": "457402371487",
+    "uikName": "УИК №773",
     "tikTvd": "257200076162",
-    "tikName": "Сосковская"
+    "tikName": "Сосковская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 774,
     "uikTvd": "457402371488",
+    "uikName": "УИК №774",
     "tikTvd": "257200076162",
-    "tikName": "Сосковская"
+    "tikName": "Сосковская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 775,
     "uikTvd": "457402371489",
+    "uikName": "УИК №775",
     "tikTvd": "257200076162",
-    "tikName": "Сосковская"
+    "tikName": "Сосковская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 776,
     "uikTvd": "457402371490",
+    "uikName": "УИК №776",
     "tikTvd": "257200076162",
-    "tikName": "Сосковская"
+    "tikName": "Сосковская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 777,
     "uikTvd": "457402371491",
+    "uikName": "УИК №777",
     "tikTvd": "257200076162",
-    "tikName": "Сосковская"
+    "tikName": "Сосковская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 778,
     "uikTvd": "457402371492",
+    "uikName": "УИК №778",
     "tikTvd": "257200076162",
-    "tikName": "Сосковская"
+    "tikName": "Сосковская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 779,
     "uikTvd": "457402371493",
+    "uikName": "УИК №779",
     "tikTvd": "257200076162",
-    "tikName": "Сосковская"
+    "tikName": "Сосковская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 780,
     "uikTvd": "457402371494",
+    "uikName": "УИК №780",
     "tikTvd": "257200076162",
-    "tikName": "Сосковская"
+    "tikName": "Сосковская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 781,
     "uikTvd": "457402371495",
+    "uikName": "УИК №781",
     "tikTvd": "257200076162",
-    "tikName": "Сосковская"
+    "tikName": "Сосковская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 782,
     "uikTvd": "457402371496",
+    "uikName": "УИК №782",
     "tikTvd": "257200076162",
-    "tikName": "Сосковская"
+    "tikName": "Сосковская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 783,
     "uikTvd": "457402371497",
+    "uikName": "УИК №783",
     "tikTvd": "257200076162",
-    "tikName": "Сосковская"
+    "tikName": "Сосковская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 784,
     "uikTvd": "457402371498",
+    "uikName": "УИК №784",
     "tikTvd": "257200076162",
-    "tikName": "Сосковская"
+    "tikName": "Сосковская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 785,
     "uikTvd": "457401772314",
+    "uikName": "УИК №785",
     "tikTvd": "257200076152",
-    "tikName": "Орел, Железнодорожная"
+    "tikName": "Орел, Железнодорожная",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 786,
     "uikTvd": "457403072128",
+    "uikName": "УИК №786",
     "tikTvd": "257200076163",
-    "tikName": "Орел, Северная "
+    "tikName": "Орел, Северная ",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 787,
     "uikTvd": "457403072129",
+    "uikName": "УИК №787",
     "tikTvd": "257200076163",
-    "tikName": "Орел, Северная "
+    "tikName": "Орел, Северная ",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 788,
     "uikTvd": "457403072130",
+    "uikName": "УИК №788",
     "tikTvd": "257200076163",
-    "tikName": "Орел, Северная "
+    "tikName": "Орел, Северная ",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 789,
     "uikTvd": "457403072131",
+    "uikName": "УИК №789",
     "tikTvd": "257200076163",
-    "tikName": "Орел, Северная "
+    "tikName": "Орел, Северная ",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 790,
     "uikTvd": "457401172119",
+    "uikName": "УИК №790",
     "tikTvd": "257200076142",
-    "tikName": "Кромская"
+    "tikName": "Кромская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 791,
     "uikTvd": "457402872694",
+    "uikName": "УИК №791",
     "tikTvd": "257200076158",
-    "tikName": "Ливенская"
+    "tikName": "Ливенская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 792,
     "uikTvd": "457402872695",
+    "uikName": "УИК №792",
     "tikTvd": "257200076158",
-    "tikName": "Ливенская"
+    "tikName": "Ливенская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 793,
     "uikTvd": "457403072132",
+    "uikName": "УИК №793",
     "tikTvd": "257200076163",
-    "tikName": "Орел, Северная "
+    "tikName": "Орел, Северная ",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 794,
     "uikTvd": "457401872763",
+    "uikName": "УИК №794",
     "tikTvd": "257200076153",
-    "tikName": "Орел, Заводская"
+    "tikName": "Орел, Заводская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 795,
     "uikTvd": "457400371744",
+    "uikName": "УИК №795",
     "tikTvd": "257200076139",
-    "tikName": "Глазуновская"
+    "tikName": "Глазуновская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 796,
     "uikTvd": "457400371745",
+    "uikName": "УИК №796",
     "tikTvd": "257200076139",
-    "tikName": "Глазуновская"
+    "tikName": "Глазуновская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 797,
     "uikTvd": "457402271701",
+    "uikName": "УИК №797",
     "tikTvd": "257200076150",
-    "tikName": "Свердловская"
+    "tikName": "Свердловская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 798,
     "uikTvd": "457402271702",
+    "uikName": "УИК №798",
     "tikTvd": "257200076150",
-    "tikName": "Свердловская"
+    "tikName": "Свердловская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 799,
     "uikTvd": "457401271969",
+    "uikName": "УИК №799",
     "tikTvd": "257200076140",
-    "tikName": "Ливенская городская"
+    "tikName": "Ливенская городская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 800,
     "uikTvd": "457403072140",
+    "uikName": "УИК №800",
     "tikTvd": "257200076163",
-    "tikName": "Орел, Северная "
+    "tikName": "Орел, Северная ",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   },
   {
     "uikNumber": 811,
     "uikTvd": "457401271940",
+    "uikName": "УИК №811",
     "tikTvd": "257200076140",
-    "tikName": "Ливенская городская"
+    "tikName": "Ливенская городская",
+    "regionCode": "57",
+    "regionTvd": "1001000883234",
+    "regionName": "Орловская область",
+    "district": null
   }
 ] satisfies readonly UikTikRelation[];

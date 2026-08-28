@@ -11,6 +11,9 @@ export const president_2004_tic_227_region_71 = [
     "ballot": "presidential",
     "tikTvd": "271200078101",
     "tikName": "Алексинская",
+    "regionCode": "71",
+    "regionTvd": "1001000882956",
+    "regionName": "Тульская область",
     "uikCount": 45,
     "accounting": {
       "Число избирателей, внесенных в список": 66487,
@@ -104,6 +107,9 @@ export const president_2004_tic_227_region_71 = [
     "ballot": "presidential",
     "tikTvd": "271200078102",
     "tikName": "Арсеньевская",
+    "regionCode": "71",
+    "regionTvd": "1001000882956",
+    "regionName": "Тульская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список": 10509,
@@ -174,6 +180,9 @@ export const president_2004_tic_227_region_71 = [
     "ballot": "presidential",
     "tikTvd": "271200078103",
     "tikName": "Белевская",
+    "regionCode": "71",
+    "regionTvd": "1001000882956",
+    "regionName": "Тульская область",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в список": 20266,
@@ -254,6 +263,9 @@ export const president_2004_tic_227_region_71 = [
     "ballot": "presidential",
     "tikTvd": "271200078104",
     "tikName": "Богородицкая",
+    "regionCode": "71",
+    "regionTvd": "1001000882956",
+    "regionName": "Тульская область",
     "uikCount": 49,
     "accounting": {
       "Число избирателей, внесенных в список": 44980,
@@ -351,6 +363,9 @@ export const president_2004_tic_227_region_71 = [
     "ballot": "presidential",
     "tikTvd": "271200078105",
     "tikName": "Веневская",
+    "regionCode": "71",
+    "regionTvd": "1001000882956",
+    "regionName": "Тульская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в список": 29262,
@@ -430,6 +445,9 @@ export const president_2004_tic_227_region_71 = [
     "ballot": "presidential",
     "tikTvd": "271200078106",
     "tikName": "Воловская",
+    "regionCode": "71",
+    "regionTvd": "1001000882956",
+    "regionName": "Тульская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список": 11980,
@@ -502,6 +520,9 @@ export const president_2004_tic_227_region_71 = [
     "ballot": "presidential",
     "tikTvd": "271200078107",
     "tikName": "Донская городская",
+    "regionCode": "71",
+    "regionTvd": "1001000882956",
+    "regionName": "Тульская область",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в список": 52262,
@@ -589,6 +610,9 @@ export const president_2004_tic_227_region_71 = [
     "ballot": "presidential",
     "tikTvd": "271200078108",
     "tikName": "Дубенская",
+    "regionCode": "71",
+    "regionTvd": "1001000882956",
+    "regionName": "Тульская область",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в список": 11746,
@@ -653,6 +677,9 @@ export const president_2004_tic_227_region_71 = [
     "ballot": "presidential",
     "tikTvd": "271200078109",
     "tikName": "Ефремовская",
+    "regionCode": "71",
+    "regionTvd": "1001000882956",
+    "regionName": "Тульская область",
     "uikCount": 66,
     "accounting": {
       "Число избирателей, внесенных в список": 57296,
@@ -767,6 +794,9 @@ export const president_2004_tic_227_region_71 = [
     "ballot": "presidential",
     "tikTvd": "271200078110",
     "tikName": "Заокская",
+    "regionCode": "71",
+    "regionTvd": "1001000882956",
+    "regionName": "Тульская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список": 14905,
@@ -835,6 +865,9 @@ export const president_2004_tic_227_region_71 = [
     "ballot": "presidential",
     "tikTvd": "271200078111",
     "tikName": "Каменская",
+    "regionCode": "71",
+    "regionTvd": "1001000882956",
+    "regionName": "Тульская область",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в список": 8099,
@@ -897,6 +930,9 @@ export const president_2004_tic_227_region_71 = [
     "ballot": "presidential",
     "tikTvd": "271200078112",
     "tikName": "Кимовская",
+    "regionCode": "71",
+    "regionTvd": "1001000882956",
+    "regionName": "Тульская область",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, внесенных в список": 39921,
@@ -995,6 +1031,9 @@ export const president_2004_tic_227_region_71 = [
     "ballot": "presidential",
     "tikTvd": "271200078113",
     "tikName": "Киреевская",
+    "regionCode": "71",
+    "regionTvd": "1001000882956",
+    "regionName": "Тульская область",
     "uikCount": 64,
     "accounting": {
       "Число избирателей, внесенных в список": 64491,
@@ -1107,6 +1146,9 @@ export const president_2004_tic_227_region_71 = [
     "ballot": "presidential",
     "tikTvd": "271200078114",
     "tikName": "Куркинская",
+    "regionCode": "71",
+    "regionTvd": "1001000882956",
+    "regionName": "Тульская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список": 10110,
@@ -1175,6 +1217,9 @@ export const president_2004_tic_227_region_71 = [
     "ballot": "presidential",
     "tikTvd": "271200078115",
     "tikName": "Ленинская",
+    "regionCode": "71",
+    "regionTvd": "1001000882956",
+    "regionName": "Тульская область",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, внесенных в список": 49339,
@@ -1269,6 +1314,9 @@ export const president_2004_tic_227_region_71 = [
     "ballot": "presidential",
     "tikTvd": "271200078116",
     "tikName": "Новомосковская",
+    "regionCode": "71",
+    "regionTvd": "1001000882956",
+    "regionName": "Тульская область",
     "uikCount": 80,
     "accounting": {
       "Число избирателей, внесенных в список": 127201,
@@ -1397,6 +1445,9 @@ export const president_2004_tic_227_region_71 = [
     "ballot": "presidential",
     "tikTvd": "271200078117",
     "tikName": "Одоевская",
+    "regionCode": "71",
+    "regionTvd": "1001000882956",
+    "regionName": "Тульская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список": 10659,
@@ -1463,6 +1514,9 @@ export const president_2004_tic_227_region_71 = [
     "ballot": "presidential",
     "tikTvd": "271200078118",
     "tikName": "Плавская",
+    "regionCode": "71",
+    "regionTvd": "1001000882956",
+    "regionName": "Тульская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список": 20992,
@@ -1539,6 +1593,9 @@ export const president_2004_tic_227_region_71 = [
     "ballot": "presidential",
     "tikTvd": "271200078119",
     "tikName": "Суворовская",
+    "regionCode": "71",
+    "regionTvd": "1001000882956",
+    "regionName": "Тульская область",
     "uikCount": 45,
     "accounting": {
       "Число избирателей, внесенных в список": 32987,
@@ -1632,6 +1689,9 @@ export const president_2004_tic_227_region_71 = [
     "ballot": "presidential",
     "tikTvd": "271200078120",
     "tikName": "Тепло-Огаревская",
+    "regionCode": "71",
+    "regionTvd": "1001000882956",
+    "regionName": "Тульская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список": 10902,
@@ -1704,6 +1764,9 @@ export const president_2004_tic_227_region_71 = [
     "ballot": "presidential",
     "tikTvd": "271200078121",
     "tikName": "Тула, Зареченская",
+    "regionCode": "71",
+    "regionTvd": "1001000882956",
+    "regionName": "Тульская область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список": 81541,
@@ -1788,6 +1851,9 @@ export const president_2004_tic_227_region_71 = [
     "ballot": "presidential",
     "tikTvd": "271200078122",
     "tikName": "Тула, Привокзальная",
+    "regionCode": "71",
+    "regionTvd": "1001000882956",
+    "regionName": "Тульская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в список": 70886,
@@ -1876,6 +1942,9 @@ export const president_2004_tic_227_region_71 = [
     "ballot": "presidential",
     "tikTvd": "271200078123",
     "tikName": "Тула, Пролетарская",
+    "regionCode": "71",
+    "regionTvd": "1001000882956",
+    "regionName": "Тульская область",
     "uikCount": 73,
     "accounting": {
       "Число избирателей, внесенных в список": 133789,
@@ -1997,6 +2066,9 @@ export const president_2004_tic_227_region_71 = [
     "ballot": "presidential",
     "tikTvd": "271200078124",
     "tikName": "Тула, Советская",
+    "regionCode": "71",
+    "regionTvd": "1001000882956",
+    "regionName": "Тульская область",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в список": 61450,
@@ -2083,6 +2155,9 @@ export const president_2004_tic_227_region_71 = [
     "ballot": "presidential",
     "tikTvd": "271200078125",
     "tikName": "Тула, Центральная",
+    "regionCode": "71",
+    "regionTvd": "1001000882956",
+    "regionName": "Тульская область",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, внесенных в список": 83979,
@@ -2175,6 +2250,9 @@ export const president_2004_tic_227_region_71 = [
     "ballot": "presidential",
     "tikTvd": "271200078126",
     "tikName": "Узловская",
+    "regionCode": "71",
+    "regionTvd": "1001000882956",
+    "regionName": "Тульская область",
     "uikCount": 54,
     "accounting": {
       "Число избирателей, внесенных в список": 73440,
@@ -2277,6 +2355,9 @@ export const president_2004_tic_227_region_71 = [
     "ballot": "presidential",
     "tikTvd": "271200078127",
     "tikName": "Чернская",
+    "regionCode": "71",
+    "regionTvd": "1001000882956",
+    "regionName": "Тульская область",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в список": 15843,
@@ -2357,6 +2438,9 @@ export const president_2004_tic_227_region_71 = [
     "ballot": "presidential",
     "tikTvd": "271200078128",
     "tikName": "Щекинская",
+    "regionCode": "71",
+    "regionTvd": "1001000882956",
+    "regionName": "Тульская область",
     "uikCount": 71,
     "accounting": {
       "Число избирателей, внесенных в список": 91918,
@@ -2476,6 +2560,9 @@ export const president_2004_tic_227_region_71 = [
     "ballot": "presidential",
     "tikTvd": "271200078129",
     "tikName": "Ясногорская",
+    "regionCode": "71",
+    "regionTvd": "1001000882956",
+    "regionName": "Тульская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в список": 27647,

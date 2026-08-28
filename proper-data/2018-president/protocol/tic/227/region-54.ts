@@ -11,6 +11,9 @@ export const president_2018_tic_227_region_54 = [
     "ballot": "presidential",
     "tikTvd": "25420001560237",
     "tikName": "Черепановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
     "uikCount": 53,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 37764,
@@ -108,6 +111,9 @@ export const president_2018_tic_227_region_54 = [
     "ballot": "presidential",
     "tikTvd": "25420001560238",
     "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
     "uikCount": 70,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 147717,
@@ -222,6 +228,9 @@ export const president_2018_tic_227_region_54 = [
     "ballot": "presidential",
     "tikTvd": "25420001560239",
     "tikName": "Кочковская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10530,
@@ -282,6 +291,9 @@ export const president_2018_tic_227_region_54 = [
     "ballot": "presidential",
     "tikTvd": "25420001560240",
     "tikName": "Убинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 11953,
@@ -355,6 +367,9 @@ export const president_2018_tic_227_region_54 = [
     "ballot": "presidential",
     "tikTvd": "25420001560241",
     "tikName": "Маслянинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 19832,
@@ -437,6 +452,9 @@ export const president_2018_tic_227_region_54 = [
     "ballot": "presidential",
     "tikTvd": "25420001560242",
     "tikName": "Искитимская городская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 47455,
@@ -515,6 +533,9 @@ export const president_2018_tic_227_region_54 = [
     "ballot": "presidential",
     "tikTvd": "25420001560243",
     "tikName": "Новосибирск, Первомайская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 66284,
@@ -594,6 +615,9 @@ export const president_2018_tic_227_region_54 = [
     "ballot": "presidential",
     "tikTvd": "25420001560244",
     "tikName": "Бердская городская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
     "uikCount": 47,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 84368,
@@ -685,6 +709,9 @@ export const president_2018_tic_227_region_54 = [
     "ballot": "presidential",
     "tikTvd": "25420001560245",
     "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
     "uikCount": 110,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 227990,
@@ -839,6 +866,9 @@ export const president_2018_tic_227_region_54 = [
     "ballot": "presidential",
     "tikTvd": "25420001560246",
     "tikName": "Новосибирск, Дзержинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
     "uikCount": 74,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 121395,
@@ -957,6 +987,9 @@ export const president_2018_tic_227_region_54 = [
     "ballot": "presidential",
     "tikTvd": "25420001560247",
     "tikName": "Чулымская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 18643,
@@ -1032,6 +1065,9 @@ export const president_2018_tic_227_region_54 = [
     "ballot": "presidential",
     "tikTvd": "25420001560248",
     "tikName": "Баганская ",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 12240,
@@ -1120,6 +1156,9 @@ export const president_2018_tic_227_region_54 = [
     "ballot": "presidential",
     "tikTvd": "25420001560249",
     "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
     "uikCount": 67,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 115765,
@@ -1231,6 +1270,9 @@ export const president_2018_tic_227_region_54 = [
     "ballot": "presidential",
     "tikTvd": "25420001560250",
     "tikName": "Барабинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
     "uikCount": 61,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 34452,
@@ -1336,6 +1378,9 @@ export const president_2018_tic_227_region_54 = [
     "ballot": "presidential",
     "tikTvd": "25420001560251",
     "tikName": "Новосибирск, Железнодорожная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 47219,
@@ -1402,6 +1447,9 @@ export const president_2018_tic_227_region_54 = [
     "ballot": "presidential",
     "tikTvd": "25420001560252",
     "tikName": "Новосибирск, Советская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
     "uikCount": 54,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 102732,
@@ -1500,6 +1548,9 @@ export const president_2018_tic_227_region_54 = [
     "ballot": "presidential",
     "tikTvd": "25420001560253",
     "tikName": "Усть-Таркская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9181,
@@ -1575,6 +1626,9 @@ export const president_2018_tic_227_region_54 = [
     "ballot": "presidential",
     "tikTvd": "25420001560254",
     "tikName": "Сузунская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 24429,
@@ -1655,6 +1709,9 @@ export const president_2018_tic_227_region_54 = [
     "ballot": "presidential",
     "tikTvd": "25420001560255",
     "tikName": "Болотнинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 22383,
@@ -1738,6 +1795,9 @@ export const president_2018_tic_227_region_54 = [
     "ballot": "presidential",
     "tikTvd": "25420001560256",
     "tikName": "Северная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 7323,
@@ -1801,6 +1861,9 @@ export const president_2018_tic_227_region_54 = [
     "ballot": "presidential",
     "tikTvd": "25420001560257",
     "tikName": "Здвинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 11453,
@@ -1874,6 +1937,9 @@ export const president_2018_tic_227_region_54 = [
     "ballot": "presidential",
     "tikTvd": "25420001560258",
     "tikName": "Каргатская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 14960,
@@ -1954,6 +2020,9 @@ export const president_2018_tic_227_region_54 = [
     "ballot": "presidential",
     "tikTvd": "25420001560259",
     "tikName": "Купинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
     "uikCount": 51,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 23481,
@@ -2049,6 +2118,9 @@ export const president_2018_tic_227_region_54 = [
     "ballot": "presidential",
     "tikTvd": "25420001560260",
     "tikName": "Новосибирск, Центральная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 57382,
@@ -2126,6 +2198,9 @@ export const president_2018_tic_227_region_54 = [
     "ballot": "presidential",
     "tikTvd": "25420001560261",
     "tikName": "Куйбышевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
     "uikCount": 54,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 45352,
@@ -2224,6 +2299,9 @@ export const president_2018_tic_227_region_54 = [
     "ballot": "presidential",
     "tikTvd": "25420001560262",
     "tikName": "Доволенская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 14097,
@@ -2296,6 +2374,9 @@ export const president_2018_tic_227_region_54 = [
     "ballot": "presidential",
     "tikTvd": "25420001560263",
     "tikName": "Чистоозерная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 13804,
@@ -2376,6 +2457,9 @@ export const president_2018_tic_227_region_54 = [
     "ballot": "presidential",
     "tikTvd": "25420001560264",
     "tikName": "Коченевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
     "uikCount": 51,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 35352,
@@ -2471,6 +2555,9 @@ export const president_2018_tic_227_region_54 = [
     "ballot": "presidential",
     "tikTvd": "25420001560265",
     "tikName": "Краснозерская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 25801,
@@ -2565,6 +2652,9 @@ export const president_2018_tic_227_region_54 = [
     "ballot": "presidential",
     "tikTvd": "25420001560266",
     "tikName": "р.п.Кольцово",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
     "uikCount": 5,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 12953,
@@ -2614,6 +2704,9 @@ export const president_2018_tic_227_region_54 = [
     "ballot": "presidential",
     "tikTvd": "25420001560267",
     "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
     "uikCount": 81,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 50473,
@@ -2739,6 +2832,9 @@ export const president_2018_tic_227_region_54 = [
     "ballot": "presidential",
     "tikTvd": "25420001560268",
     "tikName": "Колыванская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 20284,
@@ -2817,6 +2913,9 @@ export const president_2018_tic_227_region_54 = [
     "ballot": "presidential",
     "tikTvd": "25420001560269",
     "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
     "uikCount": 62,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 30556,
@@ -2923,6 +3022,9 @@ export const president_2018_tic_227_region_54 = [
     "ballot": "presidential",
     "tikTvd": "25420001560270",
     "tikName": "Новосибирская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
     "uikCount": 72,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 108384,
@@ -3039,6 +3141,9 @@ export const president_2018_tic_227_region_54 = [
     "ballot": "presidential",
     "tikTvd": "25420001560271",
     "tikName": "Мошковская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 32812,
@@ -3125,6 +3230,9 @@ export const president_2018_tic_227_region_54 = [
     "ballot": "presidential",
     "tikTvd": "25420001560272",
     "tikName": "Кыштовская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9598,
@@ -3202,6 +3310,9 @@ export const president_2018_tic_227_region_54 = [
     "ballot": "presidential",
     "tikTvd": "25420001560273",
     "tikName": "Чановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
     "uikCount": 56,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 19163,
@@ -3302,6 +3413,9 @@ export const president_2018_tic_227_region_54 = [
     "ballot": "presidential",
     "tikTvd": "25420001560274",
     "tikName": "Карасукская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
     "uikCount": 55,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 35145,
@@ -3401,6 +3515,9 @@ export const president_2018_tic_227_region_54 = [
     "ballot": "presidential",
     "tikTvd": "25420001560275",
     "tikName": "Венгеровская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 14738,
@@ -3489,6 +3606,9 @@ export const president_2018_tic_227_region_54 = [
     "ballot": "presidential",
     "tikTvd": "25420001560276",
     "tikName": "Новосибирск, Октябрьская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
     "uikCount": 83,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 172596,
@@ -3616,6 +3736,9 @@ export const president_2018_tic_227_region_54 = [
     "ballot": "presidential",
     "tikTvd": "25420001560277",
     "tikName": "Тогучинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
     "uikCount": 62,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 44322,
@@ -3722,6 +3845,9 @@ export const president_2018_tic_227_region_54 = [
     "ballot": "presidential",
     "tikTvd": "25420001560278",
     "tikName": "Обская городская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 21421,
@@ -3780,6 +3906,9 @@ export const president_2018_tic_227_region_54 = [
     "ballot": "presidential",
     "tikTvd": "25420001560279",
     "tikName": "Ордынская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 31045,
@@ -3864,6 +3993,9 @@ export const president_2018_tic_227_region_54 = [
     "ballot": "presidential",
     "tikTvd": "25420001560280",
     "tikName": "Новосибирск, Кировская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
     "uikCount": 68,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 145085,

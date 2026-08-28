@@ -11,6 +11,9 @@ export const president_2008_tic_227_region_63 = [
     "ballot": "presidential",
     "tikTvd": "2632000179927",
     "tikName": "Большеглушицкая",
+    "regionCode": "63",
+    "regionTvd": "100100022249975",
+    "regionName": "Самарская область",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 14462,
@@ -90,6 +93,9 @@ export const president_2008_tic_227_region_63 = [
     "ballot": "presidential",
     "tikTvd": "2632000179928",
     "tikName": "Богатовская",
+    "regionCode": "63",
+    "regionTvd": "100100022249975",
+    "regionName": "Самарская область",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 12056,
@@ -154,6 +160,9 @@ export const president_2008_tic_227_region_63 = [
     "ballot": "presidential",
     "tikTvd": "2632000179929",
     "tikName": "Большечерниговская",
+    "regionCode": "63",
+    "regionTvd": "100100022249975",
+    "regionName": "Самарская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 14650,
@@ -230,6 +239,9 @@ export const president_2008_tic_227_region_63 = [
     "ballot": "presidential",
     "tikTvd": "2632000179930",
     "tikName": "Безенчукская",
+    "regionCode": "63",
+    "regionTvd": "100100022249975",
+    "regionName": "Самарская область",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 30551,
@@ -310,6 +322,9 @@ export const president_2008_tic_227_region_63 = [
     "ballot": "presidential",
     "tikTvd": "2632000179931",
     "tikName": "Алексеевская",
+    "regionCode": "63",
+    "regionTvd": "100100022249975",
+    "regionName": "Самарская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 9853,
@@ -383,6 +398,9 @@ export const president_2008_tic_227_region_63 = [
     "ballot": "presidential",
     "tikTvd": "2632000179932",
     "tikName": "Красноармейская",
+    "regionCode": "63",
+    "regionTvd": "100100022249975",
+    "regionName": "Самарская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 13158,
@@ -459,6 +477,9 @@ export const president_2008_tic_227_region_63 = [
     "ballot": "presidential",
     "tikTvd": "2632000179933",
     "tikName": "Красноярская",
+    "regionCode": "63",
+    "regionTvd": "100100022249975",
+    "regionName": "Самарская область",
     "uikCount": 47,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 39784,
@@ -553,6 +574,9 @@ export const president_2008_tic_227_region_63 = [
     "ballot": "presidential",
     "tikTvd": "2632000179934",
     "tikName": "Клявлинская",
+    "regionCode": "63",
+    "regionTvd": "100100022249975",
+    "regionName": "Самарская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 12074,
@@ -624,6 +648,9 @@ export const president_2008_tic_227_region_63 = [
     "ballot": "presidential",
     "tikTvd": "2632000179935",
     "tikName": "Кошкинская",
+    "regionCode": "63",
+    "regionTvd": "100100022249975",
+    "regionName": "Самарская область",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 16215,
@@ -708,6 +735,9 @@ export const president_2008_tic_227_region_63 = [
     "ballot": "presidential",
     "tikTvd": "2632000179936",
     "tikName": "Кинель-Черкасская",
+    "regionCode": "63",
+    "regionTvd": "100100022249975",
+    "regionName": "Самарская область",
     "uikCount": 47,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 36250,
@@ -802,6 +832,9 @@ export const president_2008_tic_227_region_63 = [
     "ballot": "presidential",
     "tikTvd": "2632000179937",
     "tikName": "Кинельская городская",
+    "regionCode": "63",
+    "regionTvd": "100100022249975",
+    "regionName": "Самарская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 35131,
@@ -880,6 +913,9 @@ export const president_2008_tic_227_region_63 = [
     "ballot": "presidential",
     "tikTvd": "2632000179938",
     "tikName": "Исаклинская",
+    "regionCode": "63",
+    "regionTvd": "100100022249975",
+    "regionName": "Самарская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 10448,
@@ -952,6 +988,9 @@ export const president_2008_tic_227_region_63 = [
     "ballot": "presidential",
     "tikTvd": "2632000179939",
     "tikName": "Камышлинская",
+    "regionCode": "63",
+    "regionTvd": "100100022249975",
+    "regionName": "Самарская область",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 8415,
@@ -1013,6 +1052,9 @@ export const president_2008_tic_227_region_63 = [
     "ballot": "presidential",
     "tikTvd": "2632000179940",
     "tikName": "Жигулевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100022249975",
+    "regionName": "Самарская область",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 48042,
@@ -1087,6 +1129,9 @@ export const president_2008_tic_227_region_63 = [
     "ballot": "presidential",
     "tikTvd": "2632000179941",
     "tikName": "Борская",
+    "regionCode": "63",
+    "regionTvd": "100100022249975",
+    "regionName": "Самарская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 16768,
@@ -1165,6 +1210,9 @@ export const president_2008_tic_227_region_63 = [
     "ballot": "presidential",
     "tikTvd": "2632000179942",
     "tikName": "Волжская",
+    "regionCode": "63",
+    "regionTvd": "100100022249975",
+    "regionName": "Самарская область",
     "uikCount": 49,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 58545,
@@ -1261,6 +1309,9 @@ export const president_2008_tic_227_region_63 = [
     "ballot": "presidential",
     "tikTvd": "2632000179943",
     "tikName": "Елховская",
+    "regionCode": "63",
+    "regionTvd": "100100022249975",
+    "regionName": "Самарская область",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 7381,
@@ -1325,6 +1376,9 @@ export const president_2008_tic_227_region_63 = [
     "ballot": "presidential",
     "tikTvd": "2632000179944",
     "tikName": "Самара, Красноглинская",
+    "regionCode": "63",
+    "regionTvd": "100100022249975",
+    "regionName": "Самарская область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 69331,
@@ -1408,6 +1462,9 @@ export const president_2008_tic_227_region_63 = [
     "ballot": "presidential",
     "tikTvd": "2632000179945",
     "tikName": "Самара, Куйбышевская",
+    "regionCode": "63",
+    "regionTvd": "100100022249975",
+    "regionName": "Самарская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 58342,
@@ -1484,6 +1541,9 @@ export const president_2008_tic_227_region_63 = [
     "ballot": "presidential",
     "tikTvd": "2632000179946",
     "tikName": "Самара, Ленинская",
+    "regionCode": "63",
+    "regionTvd": "100100022249975",
+    "regionName": "Самарская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 55438,
@@ -1555,6 +1615,9 @@ export const president_2008_tic_227_region_63 = [
     "ballot": "presidential",
     "tikTvd": "2632000179947",
     "tikName": "Самара, Железнодорожная",
+    "regionCode": "63",
+    "regionTvd": "100100022249975",
+    "regionName": "Самарская область",
     "uikCount": 45,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 85590,
@@ -1647,6 +1710,9 @@ export const president_2008_tic_227_region_63 = [
     "ballot": "presidential",
     "tikTvd": "2632000179948",
     "tikName": "Приволжская",
+    "regionCode": "63",
+    "regionTvd": "100100022249975",
+    "regionName": "Самарская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 16335,
@@ -1719,6 +1785,9 @@ export const president_2008_tic_227_region_63 = [
     "ballot": "presidential",
     "tikTvd": "2632000179949",
     "tikName": "Самара, Кировская",
+    "regionCode": "63",
+    "regionTvd": "100100022249975",
+    "regionName": "Самарская область",
     "uikCount": 91,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 191907,
@@ -1857,6 +1926,9 @@ export const president_2008_tic_227_region_63 = [
     "ballot": "presidential",
     "tikTvd": "2632000179950",
     "tikName": "Похвистневская городская",
+    "regionCode": "63",
+    "regionTvd": "100100022249975",
+    "regionName": "Самарская область",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 20938,
@@ -1917,6 +1989,9 @@ export const president_2008_tic_227_region_63 = [
     "ballot": "presidential",
     "tikTvd": "2632000179951",
     "tikName": "Октябрьская городская",
+    "regionCode": "63",
+    "regionTvd": "100100022249975",
+    "regionName": "Самарская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 19288,
@@ -1985,6 +2060,9 @@ export const president_2008_tic_227_region_63 = [
     "ballot": "presidential",
     "tikTvd": "2632000179952",
     "tikName": "Пестравская",
+    "regionCode": "63",
+    "regionTvd": "100100022249975",
+    "regionName": "Самарская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 13819,
@@ -2054,6 +2132,9 @@ export const president_2008_tic_227_region_63 = [
     "ballot": "presidential",
     "tikTvd": "2632000179953",
     "tikName": "Отрадная городская",
+    "regionCode": "63",
+    "regionTvd": "100100022249975",
+    "regionName": "Самарская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 34173,
@@ -2116,6 +2197,9 @@ export const president_2008_tic_227_region_63 = [
     "ballot": "presidential",
     "tikTvd": "2632000179954",
     "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "100100022249975",
+    "regionName": "Самарская область",
     "uikCount": 57,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 121356,
@@ -2220,6 +2304,9 @@ export const president_2008_tic_227_region_63 = [
     "ballot": "presidential",
     "tikTvd": "2632000179955",
     "tikName": "Новокуйбышевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100022249975",
+    "regionName": "Самарская область",
     "uikCount": 51,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 91252,
@@ -2318,6 +2405,9 @@ export const president_2008_tic_227_region_63 = [
     "ballot": "presidential",
     "tikTvd": "2632000179956",
     "tikName": "Тольятти, Комсомольская",
+    "regionCode": "63",
+    "regionTvd": "100100022249975",
+    "regionName": "Самарская область",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 96169,
@@ -2409,6 +2499,9 @@ export const president_2008_tic_227_region_63 = [
     "ballot": "presidential",
     "tikTvd": "2632000179957",
     "tikName": "Нефтегорская",
+    "regionCode": "63",
+    "regionTvd": "100100022249975",
+    "regionName": "Самарская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 24980,
@@ -2477,6 +2570,9 @@ export const president_2008_tic_227_region_63 = [
     "ballot": "presidential",
     "tikTvd": "2632000179958",
     "tikName": "Сызранская городская",
+    "regionCode": "63",
+    "regionTvd": "100100022249975",
+    "regionName": "Самарская область",
     "uikCount": 95,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 138871,
@@ -2619,6 +2715,9 @@ export const president_2008_tic_227_region_63 = [
     "ballot": "presidential",
     "tikTvd": "2632000179959",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100022249975",
+    "regionName": "Самарская область",
     "uikCount": 141,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 345741,
@@ -2807,6 +2906,9 @@ export const president_2008_tic_227_region_63 = [
     "ballot": "presidential",
     "tikTvd": "2632000179960",
     "tikName": "Сызранская",
+    "regionCode": "63",
+    "regionTvd": "100100022249975",
+    "regionName": "Самарская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 18416,
@@ -2885,6 +2987,9 @@ export const president_2008_tic_227_region_63 = [
     "ballot": "presidential",
     "tikTvd": "2632000179961",
     "tikName": "Самара, Самарская",
+    "regionCode": "63",
+    "regionTvd": "100100022249975",
+    "regionName": "Самарская область",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 26253,
@@ -2945,6 +3050,9 @@ export const president_2008_tic_227_region_63 = [
     "ballot": "presidential",
     "tikTvd": "2632000179962",
     "tikName": "Сергиевская",
+    "regionCode": "63",
+    "regionTvd": "100100022249975",
+    "regionName": "Самарская область",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 35100,
@@ -3029,6 +3137,9 @@ export const president_2008_tic_227_region_63 = [
     "ballot": "presidential",
     "tikTvd": "2632000179963",
     "tikName": "Ставропольская",
+    "regionCode": "63",
+    "regionTvd": "100100022249975",
+    "regionName": "Самарская область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 39010,
@@ -3112,6 +3223,9 @@ export const president_2008_tic_227_region_63 = [
     "ballot": "presidential",
     "tikTvd": "2632000179964",
     "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "100100022249975",
+    "regionName": "Самарская область",
     "uikCount": 60,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 138015,
@@ -3219,6 +3333,9 @@ export const president_2008_tic_227_region_63 = [
     "ballot": "presidential",
     "tikTvd": "2632000179965",
     "tikName": "Самара, Октябрьская",
+    "regionCode": "63",
+    "regionTvd": "100100022249975",
+    "regionName": "Самарская область",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 94942,
@@ -3307,6 +3424,9 @@ export const president_2008_tic_227_region_63 = [
     "ballot": "presidential",
     "tikTvd": "2632000179966",
     "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "100100022249975",
+    "regionName": "Самарская область",
     "uikCount": 100,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 213881,
@@ -3454,6 +3574,9 @@ export const president_2008_tic_227_region_63 = [
     "ballot": "presidential",
     "tikTvd": "2632000179967",
     "tikName": "Похвистневская",
+    "regionCode": "63",
+    "regionTvd": "100100022249975",
+    "regionName": "Самарская область",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 21910,
@@ -3533,6 +3656,9 @@ export const president_2008_tic_227_region_63 = [
     "ballot": "presidential",
     "tikTvd": "2632000179968",
     "tikName": "Кинельская",
+    "regionCode": "63",
+    "regionTvd": "100100022249975",
+    "regionName": "Самарская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 22936,
@@ -3606,6 +3732,9 @@ export const president_2008_tic_227_region_63 = [
     "ballot": "presidential",
     "tikTvd": "2632000179969",
     "tikName": "Шенталинская",
+    "regionCode": "63",
+    "regionTvd": "100100022249975",
+    "regionName": "Самарская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 12931,
@@ -3683,6 +3812,9 @@ export const president_2008_tic_227_region_63 = [
     "ballot": "presidential",
     "tikTvd": "2632000179970",
     "tikName": "Челно-Вершинская",
+    "regionCode": "63",
+    "regionTvd": "100100022249975",
+    "regionName": "Самарская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 14415,
@@ -3758,6 +3890,9 @@ export const president_2008_tic_227_region_63 = [
     "ballot": "presidential",
     "tikTvd": "2632000179971",
     "tikName": "Чапаевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100022249975",
+    "regionName": "Самарская область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 58071,
@@ -3841,6 +3976,9 @@ export const president_2008_tic_227_region_63 = [
     "ballot": "presidential",
     "tikTvd": "2632000179972",
     "tikName": "Шигонская",
+    "regionCode": "63",
+    "regionTvd": "100100022249975",
+    "regionName": "Самарская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 17316,
@@ -3911,6 +4049,9 @@ export const president_2008_tic_227_region_63 = [
     "ballot": "presidential",
     "tikTvd": "2632000179973",
     "tikName": "Хворостянская",
+    "regionCode": "63",
+    "regionTvd": "100100022249975",
+    "regionName": "Самарская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 10790,

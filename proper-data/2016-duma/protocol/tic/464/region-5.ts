@@ -11,6 +11,14 @@ export const duma_2016_tic_464_region_5 = [
     "ballot": "single-member",
     "tikTvd": "2052000895868",
     "tikName": "Южно-Сухокумская городская",
+    "regionCode": "5",
+    "regionTvd": "100100067795868",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100067795869",
+      "oikName": "Республика Дагестан – Северный"
+    },
     "uikCount": 4,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 6102,
@@ -66,6 +74,14 @@ export const duma_2016_tic_464_region_5 = [
     "ballot": "single-member",
     "tikTvd": "2052000895869",
     "tikName": "Тарумовская",
+    "regionCode": "5",
+    "regionTvd": "100100067795868",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100067795869",
+      "oikName": "Республика Дагестан – Северный"
+    },
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 22285,
@@ -137,6 +153,14 @@ export const duma_2016_tic_464_region_5 = [
     "ballot": "single-member",
     "tikTvd": "2052000895870",
     "tikName": "Ногайская",
+    "regionCode": "5",
+    "regionTvd": "100100067795868",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100067795869",
+      "oikName": "Республика Дагестан – Северный"
+    },
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 14381,
@@ -209,6 +233,14 @@ export const duma_2016_tic_464_region_5 = [
     "ballot": "single-member",
     "tikTvd": "2052000895871",
     "tikName": "Кумторкалинская",
+    "regionCode": "5",
+    "regionTvd": "100100067795868",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100067795869",
+      "oikName": "Республика Дагестан – Северный"
+    },
     "uikCount": 10,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 15827,
@@ -270,6 +302,14 @@ export const duma_2016_tic_464_region_5 = [
     "ballot": "single-member",
     "tikTvd": "2052000895872",
     "tikName": "Кизлярская городская",
+    "regionCode": "5",
+    "regionTvd": "100100067795868",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100067795869",
+      "oikName": "Республика Дагестан – Северный"
+    },
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 25343,
@@ -338,6 +378,14 @@ export const duma_2016_tic_464_region_5 = [
     "ballot": "single-member",
     "tikTvd": "2052000895873",
     "tikName": "Кизлярская",
+    "regionCode": "5",
+    "regionTvd": "100100067795868",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100067795869",
+      "oikName": "Республика Дагестан – Северный"
+    },
     "uikCount": 54,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 44309,
@@ -443,6 +491,14 @@ export const duma_2016_tic_464_region_5 = [
     "ballot": "single-member",
     "tikTvd": "2052000895874",
     "tikName": "Кизилюртовская городская",
+    "regionCode": "5",
+    "regionTvd": "100100067795868",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100067795869",
+      "oikName": "Республика Дагестан – Северный"
+    },
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 25921,
@@ -515,6 +571,14 @@ export const duma_2016_tic_464_region_5 = [
     "ballot": "single-member",
     "tikTvd": "2052000895875",
     "tikName": "Кизилюртовская",
+    "regionCode": "5",
+    "regionTvd": "100100067795868",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100067795869",
+      "oikName": "Республика Дагестан – Северный"
+    },
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 41906,
@@ -602,6 +666,14 @@ export const duma_2016_tic_464_region_5 = [
     "ballot": "single-member",
     "tikTvd": "2052000895876",
     "tikName": "Бабаюртовская",
+    "regionCode": "5",
+    "regionTvd": "100100067795868",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100067795869",
+      "oikName": "Республика Дагестан – Северный"
+    },
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 27658,
@@ -678,6 +750,14 @@ export const duma_2016_tic_464_region_5 = [
     "ballot": "single-member",
     "tikTvd": "2052000895884",
     "tikName": "Хасавюртовская",
+    "regionCode": "5",
+    "regionTvd": "100100067795868",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100067795869",
+      "oikName": "Республика Дагестан – Северный"
+    },
     "uikCount": 69,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 96871,
@@ -798,6 +878,14 @@ export const duma_2016_tic_464_region_5 = [
     "ballot": "single-member",
     "tikTvd": "2052000895885",
     "tikName": "Махачкала, Советская",
+    "regionCode": "5",
+    "regionTvd": "100100067795868",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100067795869",
+      "oikName": "Республика Дагестан – Северный"
+    },
     "uikCount": 60,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 92997,
@@ -909,6 +997,14 @@ export const duma_2016_tic_464_region_5 = [
     "ballot": "single-member",
     "tikTvd": "2052000895886",
     "tikName": "Махачкала, Кировская",
+    "regionCode": "5",
+    "regionTvd": "100100067795868",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100067795869",
+      "oikName": "Республика Дагестан – Северный"
+    },
     "uikCount": 51,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 92172,
@@ -1011,6 +1107,14 @@ export const duma_2016_tic_464_region_5 = [
     "ballot": "single-member",
     "tikTvd": "2052000895888",
     "tikName": "Хивская",
+    "regionCode": "5",
+    "regionTvd": "100100067795868",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100067795870",
+      "oikName": "Республика Дагестан – Центральный"
+    },
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 14437,
@@ -1095,6 +1199,14 @@ export const duma_2016_tic_464_region_5 = [
     "ballot": "single-member",
     "tikTvd": "2052000895889",
     "tikName": "Табасаранская",
+    "regionCode": "5",
+    "regionTvd": "100100067795868",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100067795870",
+      "oikName": "Республика Дагестан – Центральный"
+    },
     "uikCount": 66,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 34326,
@@ -1210,6 +1322,14 @@ export const duma_2016_tic_464_region_5 = [
     "ballot": "single-member",
     "tikTvd": "2052000895890",
     "tikName": "Сулейман-Стальская",
+    "regionCode": "5",
+    "regionTvd": "100100067795868",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100067795870",
+      "oikName": "Республика Дагестан – Центральный"
+    },
     "uikCount": 42,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 37311,
@@ -1301,6 +1421,14 @@ export const duma_2016_tic_464_region_5 = [
     "ballot": "single-member",
     "tikTvd": "2052000895891",
     "tikName": "Сергокалинская",
+    "regionCode": "5",
+    "regionTvd": "100100067795868",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100067795870",
+      "oikName": "Республика Дагестан – Центральный"
+    },
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 21554,
@@ -1379,6 +1507,14 @@ export const duma_2016_tic_464_region_5 = [
     "ballot": "single-member",
     "tikTvd": "2052000895892",
     "tikName": "Махачкала, Ленинская",
+    "regionCode": "5",
+    "regionTvd": "100100067795868",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100067795870",
+      "oikName": "Республика Дагестан – Центральный"
+    },
     "uikCount": 47,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 87614,
@@ -1475,6 +1611,14 @@ export const duma_2016_tic_464_region_5 = [
     "ballot": "single-member",
     "tikTvd": "2052000895893",
     "tikName": "Магарамкентская",
+    "regionCode": "5",
+    "regionTvd": "100100067795868",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100067795870",
+      "oikName": "Республика Дагестан – Центральный"
+    },
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 40000,
@@ -1563,6 +1707,14 @@ export const duma_2016_tic_464_region_5 = [
     "ballot": "single-member",
     "tikTvd": "2052000895894",
     "tikName": "Каякентская",
+    "regionCode": "5",
+    "regionTvd": "100100067795868",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100067795870",
+      "oikName": "Республика Дагестан – Центральный"
+    },
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 34733,
@@ -1638,6 +1790,14 @@ export const duma_2016_tic_464_region_5 = [
     "ballot": "single-member",
     "tikTvd": "2052000895895",
     "tikName": "Каспийская городская",
+    "regionCode": "5",
+    "regionTvd": "100100067795868",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100067795870",
+      "oikName": "Республика Дагестан – Центральный"
+    },
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 53234,
@@ -1709,6 +1869,14 @@ export const duma_2016_tic_464_region_5 = [
     "ballot": "single-member",
     "tikTvd": "2052000895896",
     "tikName": "Карабудахкентская",
+    "regionCode": "5",
+    "regionTvd": "100100067795868",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100067795870",
+      "oikName": "Республика Дагестан – Центральный"
+    },
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 48106,
@@ -1790,6 +1958,14 @@ export const duma_2016_tic_464_region_5 = [
     "ballot": "single-member",
     "tikTvd": "2052000895897",
     "tikName": "Кайтагская",
+    "regionCode": "5",
+    "regionTvd": "100100067795868",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100067795870",
+      "oikName": "Республика Дагестан – Центральный"
+    },
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 21691,
@@ -1879,6 +2055,14 @@ export const duma_2016_tic_464_region_5 = [
     "ballot": "single-member",
     "tikTvd": "2052000895898",
     "tikName": "Избербашская городская",
+    "regionCode": "5",
+    "regionTvd": "100100067795868",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100067795870",
+      "oikName": "Республика Дагестан – Центральный"
+    },
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 29162,
@@ -1944,6 +2128,14 @@ export const duma_2016_tic_464_region_5 = [
     "ballot": "single-member",
     "tikTvd": "2052000895899",
     "tikName": "Дербентская городская",
+    "regionCode": "5",
+    "regionTvd": "100100067795868",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100067795870",
+      "oikName": "Республика Дагестан – Центральный"
+    },
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 68991,
@@ -2030,6 +2222,14 @@ export const duma_2016_tic_464_region_5 = [
     "ballot": "single-member",
     "tikTvd": "2052000895900",
     "tikName": "Дербентская",
+    "regionCode": "5",
+    "regionTvd": "100100067795868",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100067795870",
+      "oikName": "Республика Дагестан – Центральный"
+    },
     "uikCount": 44,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 63111,
@@ -2123,6 +2323,14 @@ export const duma_2016_tic_464_region_5 = [
     "ballot": "single-member",
     "tikTvd": "2052000895901",
     "tikName": "Дагогнинская городская",
+    "regionCode": "5",
+    "regionTvd": "100100067795868",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100067795870",
+      "oikName": "Республика Дагестан – Центральный"
+    },
     "uikCount": 11,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 22021,
@@ -2183,6 +2391,14 @@ export const duma_2016_tic_464_region_5 = [
     "ballot": "single-member",
     "tikTvd": "2052000895903",
     "tikName": "Шамильская",
+    "regionCode": "5",
+    "regionTvd": "100100067795868",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100067795871",
+      "oikName": "Республика Дагестан – Южный"
+    },
     "uikCount": 44,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 19174,
@@ -2280,6 +2496,14 @@ export const duma_2016_tic_464_region_5 = [
     "ballot": "single-member",
     "tikTvd": "2052000895904",
     "tikName": "Чародинская",
+    "regionCode": "5",
+    "regionTvd": "100100067795868",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100067795871",
+      "oikName": "Республика Дагестан – Южный"
+    },
     "uikCount": 53,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 8136,
@@ -2386,6 +2610,14 @@ export const duma_2016_tic_464_region_5 = [
     "ballot": "single-member",
     "tikTvd": "2052000895905",
     "tikName": "Цунтинская",
+    "regionCode": "5",
+    "regionTvd": "100100067795868",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100067795871",
+      "oikName": "Республика Дагестан – Южный"
+    },
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 7459,
@@ -2476,6 +2708,14 @@ export const duma_2016_tic_464_region_5 = [
     "ballot": "single-member",
     "tikTvd": "2052000895906",
     "tikName": "Цумадинская",
+    "regionCode": "5",
+    "regionTvd": "100100067795868",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100067795871",
+      "oikName": "Республика Дагестан – Южный"
+    },
     "uikCount": 55,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 15708,
@@ -2584,6 +2824,14 @@ export const duma_2016_tic_464_region_5 = [
     "ballot": "single-member",
     "tikTvd": "2052000895907",
     "tikName": "Хунзахская",
+    "regionCode": "5",
+    "regionTvd": "100100067795868",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100067795871",
+      "oikName": "Республика Дагестан – Южный"
+    },
     "uikCount": 56,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 19196,
@@ -2693,6 +2941,14 @@ export const duma_2016_tic_464_region_5 = [
     "ballot": "single-member",
     "tikTvd": "2052000895908",
     "tikName": "Унцукульская",
+    "regionCode": "5",
+    "regionTvd": "100100067795868",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100067795871",
+      "oikName": "Республика Дагестан – Южный"
+    },
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 15041,
@@ -2776,6 +3032,14 @@ export const duma_2016_tic_464_region_5 = [
     "ballot": "single-member",
     "tikTvd": "2052000895909",
     "tikName": "Тляратинская",
+    "regionCode": "5",
+    "regionTvd": "100100067795868",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100067795871",
+      "oikName": "Республика Дагестан – Южный"
+    },
     "uikCount": 65,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 14990,
@@ -2894,6 +3158,14 @@ export const duma_2016_tic_464_region_5 = [
     "ballot": "single-member",
     "tikTvd": "2052000895910",
     "tikName": "Рутульская",
+    "regionCode": "5",
+    "regionTvd": "100100067795868",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100067795871",
+      "oikName": "Республика Дагестан – Южный"
+    },
     "uikCount": 53,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 14375,
@@ -3000,6 +3272,14 @@ export const duma_2016_tic_464_region_5 = [
     "ballot": "single-member",
     "tikTvd": "2052000895911",
     "tikName": "Новолакская",
+    "regionCode": "5",
+    "regionTvd": "100100067795868",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100067795871",
+      "oikName": "Республика Дагестан – Южный"
+    },
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 21495,
@@ -3078,6 +3358,14 @@ export const duma_2016_tic_464_region_5 = [
     "ballot": "single-member",
     "tikTvd": "2052000895912",
     "tikName": "Левашинская",
+    "regionCode": "5",
+    "regionTvd": "100100067795868",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100067795871",
+      "oikName": "Республика Дагестан – Южный"
+    },
     "uikCount": 53,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 49268,
@@ -3184,6 +3472,14 @@ export const duma_2016_tic_464_region_5 = [
     "ballot": "single-member",
     "tikTvd": "2052000895913",
     "tikName": "Лакская",
+    "regionCode": "5",
+    "regionTvd": "100100067795868",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100067795871",
+      "oikName": "Республика Дагестан – Южный"
+    },
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 7698,
@@ -3271,6 +3567,14 @@ export const duma_2016_tic_464_region_5 = [
     "ballot": "single-member",
     "tikTvd": "2052000895914",
     "tikName": "Курахская",
+    "regionCode": "5",
+    "regionTvd": "100100067795868",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100067795871",
+      "oikName": "Республика Дагестан – Южный"
+    },
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 10994,
@@ -3354,6 +3658,14 @@ export const duma_2016_tic_464_region_5 = [
     "ballot": "single-member",
     "tikTvd": "2052000895915",
     "tikName": "Кулинская",
+    "regionCode": "5",
+    "regionTvd": "100100067795868",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100067795871",
+      "oikName": "Республика Дагестан – Южный"
+    },
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 7477,
@@ -3424,6 +3736,14 @@ export const duma_2016_tic_464_region_5 = [
     "ballot": "single-member",
     "tikTvd": "2052000895916",
     "tikName": "Казбековская",
+    "regionCode": "5",
+    "regionTvd": "100100067795868",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100067795871",
+      "oikName": "Республика Дагестан – Южный"
+    },
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 30594,
@@ -3503,6 +3823,14 @@ export const duma_2016_tic_464_region_5 = [
     "ballot": "single-member",
     "tikTvd": "2052000895917",
     "tikName": "Докузпаринская",
+    "regionCode": "5",
+    "regionTvd": "100100067795868",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100067795871",
+      "oikName": "Республика Дагестан – Южный"
+    },
     "uikCount": 10,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 10454,
@@ -3566,6 +3894,14 @@ export const duma_2016_tic_464_region_5 = [
     "ballot": "single-member",
     "tikTvd": "2052000895918",
     "tikName": "Дахадаевская",
+    "regionCode": "5",
+    "regionTvd": "100100067795868",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100067795871",
+      "oikName": "Республика Дагестан – Южный"
+    },
     "uikCount": 56,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 26786,
@@ -3675,6 +4011,14 @@ export const duma_2016_tic_464_region_5 = [
     "ballot": "single-member",
     "tikTvd": "2052000895919",
     "tikName": "Гунибская",
+    "regionCode": "5",
+    "regionTvd": "100100067795868",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100067795871",
+      "oikName": "Республика Дагестан – Южный"
+    },
     "uikCount": 44,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 15863,
@@ -3772,6 +4116,14 @@ export const duma_2016_tic_464_region_5 = [
     "ballot": "single-member",
     "tikTvd": "2052000895920",
     "tikName": "Гумбетовская",
+    "regionCode": "5",
+    "regionTvd": "100100067795868",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100067795871",
+      "oikName": "Республика Дагестан – Южный"
+    },
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 10920,
@@ -3857,6 +4209,14 @@ export const duma_2016_tic_464_region_5 = [
     "ballot": "single-member",
     "tikTvd": "2052000895921",
     "tikName": "Гергебильская",
+    "regionCode": "5",
+    "regionTvd": "100100067795868",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100067795871",
+      "oikName": "Республика Дагестан – Южный"
+    },
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 13090,
@@ -3931,6 +4291,14 @@ export const duma_2016_tic_464_region_5 = [
     "ballot": "single-member",
     "tikTvd": "2052000895922",
     "tikName": "Буйнакская городская",
+    "regionCode": "5",
+    "regionTvd": "100100067795868",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100067795871",
+      "oikName": "Республика Дагестан – Южный"
+    },
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 40179,
@@ -4008,6 +4376,14 @@ export const duma_2016_tic_464_region_5 = [
     "ballot": "single-member",
     "tikTvd": "2052000895923",
     "tikName": "Буйнакская",
+    "regionCode": "5",
+    "regionTvd": "100100067795868",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100067795871",
+      "oikName": "Республика Дагестан – Южный"
+    },
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 46445,
@@ -4095,6 +4471,14 @@ export const duma_2016_tic_464_region_5 = [
     "ballot": "single-member",
     "tikTvd": "2052000895924",
     "tikName": "Ботлихская",
+    "regionCode": "5",
+    "regionTvd": "100100067795868",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100067795871",
+      "oikName": "Республика Дагестан – Южный"
+    },
     "uikCount": 53,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 28048,
@@ -4201,6 +4585,14 @@ export const duma_2016_tic_464_region_5 = [
     "ballot": "single-member",
     "tikTvd": "2052000895925",
     "tikName": "Бежтинская",
+    "regionCode": "5",
+    "regionTvd": "100100067795868",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100067795871",
+      "oikName": "Республика Дагестан – Южный"
+    },
     "uikCount": 12,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 5462,
@@ -4266,6 +4658,14 @@ export const duma_2016_tic_464_region_5 = [
     "ballot": "single-member",
     "tikTvd": "2052000895926",
     "tikName": "Ахтынская",
+    "regionCode": "5",
+    "regionTvd": "100100067795868",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100067795871",
+      "oikName": "Республика Дагестан – Южный"
+    },
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 18182,
@@ -4350,6 +4750,14 @@ export const duma_2016_tic_464_region_5 = [
     "ballot": "single-member",
     "tikTvd": "2052000895927",
     "tikName": "Ахвахская",
+    "regionCode": "5",
+    "regionTvd": "100100067795868",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100067795871",
+      "oikName": "Республика Дагестан – Южный"
+    },
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 14463,
@@ -4437,6 +4845,14 @@ export const duma_2016_tic_464_region_5 = [
     "ballot": "single-member",
     "tikTvd": "2052000895928",
     "tikName": "Акушинская",
+    "regionCode": "5",
+    "regionTvd": "100100067795868",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100067795871",
+      "oikName": "Республика Дагестан – Южный"
+    },
     "uikCount": 52,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 28316,
@@ -4542,6 +4958,14 @@ export const duma_2016_tic_464_region_5 = [
     "ballot": "single-member",
     "tikTvd": "2052000895929",
     "tikName": "Агульская",
+    "regionCode": "5",
+    "regionTvd": "100100067795868",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100067795871",
+      "oikName": "Республика Дагестан – Южный"
+    },
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 6144,
@@ -4614,6 +5038,14 @@ export const duma_2016_tic_464_region_5 = [
     "ballot": "single-member",
     "tikTvd": "2052000895930",
     "tikName": "Хасавюртовская городская",
+    "regionCode": "5",
+    "regionTvd": "100100067795868",
+    "regionName": "Республика Дагестан",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100067795871",
+      "oikName": "Республика Дагестан – Южный"
+    },
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 65312,

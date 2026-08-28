@@ -7,3487 +7,8716 @@ export const duma_2016_uik_to_tik_region_51 = [
   {
     "uikNumber": 1,
     "uikTvd": "9519012260573",
+    "uikName": "УИК №1",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 2,
     "uikTvd": "9519012260574",
+    "uikName": "УИК №2",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 3,
     "uikTvd": "9519012260437",
+    "uikName": "УИК №3",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 4,
     "uikTvd": "9519012260438",
+    "uikName": "УИК №4",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 5,
     "uikTvd": "9519012260439",
+    "uikName": "УИК №5",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 6,
     "uikTvd": "9519012260440",
+    "uikName": "УИК №6",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 7,
     "uikTvd": "9519012260441",
+    "uikName": "УИК №7",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 8,
     "uikTvd": "9519012260442",
+    "uikName": "УИК №8",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 9,
     "uikTvd": "9519012260443",
+    "uikName": "УИК №9",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 10,
     "uikTvd": "9519012260444",
+    "uikName": "УИК №10",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 11,
     "uikTvd": "9519012260445",
+    "uikName": "УИК №11",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 12,
     "uikTvd": "9519012260446",
+    "uikName": "УИК №12",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 13,
     "uikTvd": "9519012260447",
+    "uikName": "УИК №13",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 14,
     "uikTvd": "9519012260448",
+    "uikName": "УИК №14",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 15,
     "uikTvd": "9519012260449",
+    "uikName": "УИК №15",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 16,
     "uikTvd": "9519012260450",
+    "uikName": "УИК №16",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 17,
     "uikTvd": "9519012260451",
+    "uikName": "УИК №17",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 18,
     "uikTvd": "9519012260452",
+    "uikName": "УИК №18",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 19,
     "uikTvd": "9519012260453",
+    "uikName": "УИК №19",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 20,
     "uikTvd": "9519012260454",
+    "uikName": "УИК №20",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 21,
     "uikTvd": "9519012260455",
+    "uikName": "УИК №21",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 22,
     "uikTvd": "9519012260456",
+    "uikName": "УИК №22",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 23,
     "uikTvd": "9519012260457",
+    "uikName": "УИК №23",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 24,
     "uikTvd": "9519012260458",
+    "uikName": "УИК №24",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 25,
     "uikTvd": "9519012260459",
+    "uikName": "УИК №25",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 26,
     "uikTvd": "9519012260460",
+    "uikName": "УИК №26",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 27,
     "uikTvd": "9519012260461",
+    "uikName": "УИК №27",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 28,
     "uikTvd": "9519012260462",
+    "uikName": "УИК №28",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 29,
     "uikTvd": "9519012260463",
+    "uikName": "УИК №29",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 30,
     "uikTvd": "9519012260464",
+    "uikName": "УИК №30",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 31,
     "uikTvd": "9519012260465",
+    "uikName": "УИК №31",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 32,
     "uikTvd": "9519012260466",
+    "uikName": "УИК №32",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 33,
     "uikTvd": "9519012260467",
+    "uikName": "УИК №33",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 34,
     "uikTvd": "9519012260468",
+    "uikName": "УИК №34",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 35,
     "uikTvd": "9519012260469",
+    "uikName": "УИК №35",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 36,
     "uikTvd": "9519012260470",
+    "uikName": "УИК №36",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 37,
     "uikTvd": "9519012260471",
+    "uikName": "УИК №37",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 38,
     "uikTvd": "9519012260472",
+    "uikName": "УИК №38",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 39,
     "uikTvd": "9519012260473",
+    "uikName": "УИК №39",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 41,
     "uikTvd": "9519012260474",
+    "uikName": "УИК №41",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 42,
     "uikTvd": "9519012260475",
+    "uikName": "УИК №42",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 43,
     "uikTvd": "9519012260476",
+    "uikName": "УИК №43",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 44,
     "uikTvd": "9519012260477",
+    "uikName": "УИК №44",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 45,
     "uikTvd": "9519012260478",
+    "uikName": "УИК №45",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 46,
     "uikTvd": "9519012260479",
+    "uikName": "УИК №46",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 47,
     "uikTvd": "9519012260480",
+    "uikName": "УИК №47",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 48,
     "uikTvd": "9519012260481",
+    "uikName": "УИК №48",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 49,
     "uikTvd": "9519012260482",
+    "uikName": "УИК №49",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 50,
     "uikTvd": "9519012260483",
+    "uikName": "УИК №50",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 51,
     "uikTvd": "9519012260484",
+    "uikName": "УИК №51",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 52,
     "uikTvd": "9519012260485",
+    "uikName": "УИК №52",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 53,
     "uikTvd": "9519012260486",
+    "uikName": "УИК №53",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 54,
     "uikTvd": "9519012260487",
+    "uikName": "УИК №54",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 55,
     "uikTvd": "9519012260488",
+    "uikName": "УИК №55",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 56,
     "uikTvd": "9519012260489",
+    "uikName": "УИК №56",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 57,
     "uikTvd": "9519012260490",
+    "uikName": "УИК №57",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 58,
     "uikTvd": "9519012260491",
+    "uikName": "УИК №58",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 59,
     "uikTvd": "9519012260492",
+    "uikName": "УИК №59",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 60,
     "uikTvd": "9519012260493",
+    "uikName": "УИК №60",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 61,
     "uikTvd": "9519012260494",
+    "uikName": "УИК №61",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 62,
     "uikTvd": "9519012260495",
+    "uikName": "УИК №62",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 63,
     "uikTvd": "9519012260496",
+    "uikName": "УИК №63",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 64,
     "uikTvd": "9519012260497",
+    "uikName": "УИК №64",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 65,
     "uikTvd": "9519012260498",
+    "uikName": "УИК №65",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 66,
     "uikTvd": "9519012260499",
+    "uikName": "УИК №66",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 67,
     "uikTvd": "9519012260500",
+    "uikName": "УИК №67",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 68,
     "uikTvd": "9519012260501",
+    "uikName": "УИК №68",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 69,
     "uikTvd": "9519012260502",
+    "uikName": "УИК №69",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 70,
     "uikTvd": "9519012260503",
+    "uikName": "УИК №70",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 71,
     "uikTvd": "9519012260504",
+    "uikName": "УИК №71",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 72,
     "uikTvd": "9519012260505",
+    "uikName": "УИК №72",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 73,
     "uikTvd": "9519012260506",
+    "uikName": "УИК №73",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 74,
     "uikTvd": "9519012260507",
+    "uikName": "УИК №74",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 75,
     "uikTvd": "9519012260508",
+    "uikName": "УИК №75",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 76,
     "uikTvd": "9519012260509",
+    "uikName": "УИК №76",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 77,
     "uikTvd": "9519012260510",
+    "uikName": "УИК №77",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 78,
     "uikTvd": "9519012260511",
+    "uikName": "УИК №78",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 79,
     "uikTvd": "9519012260512",
+    "uikName": "УИК №79",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 80,
     "uikTvd": "9519012260513",
+    "uikName": "УИК №80",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 81,
     "uikTvd": "9519012260514",
+    "uikName": "УИК №81",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 82,
     "uikTvd": "9519012260515",
+    "uikName": "УИК №82",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 83,
     "uikTvd": "9519012260516",
+    "uikName": "УИК №83",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 84,
     "uikTvd": "9519012260517",
+    "uikName": "УИК №84",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 85,
     "uikTvd": "9519012260518",
+    "uikName": "УИК №85",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 86,
     "uikTvd": "9519012260519",
+    "uikName": "УИК №86",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 87,
     "uikTvd": "9519012260520",
+    "uikName": "УИК №87",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 88,
     "uikTvd": "9519012260521",
+    "uikName": "УИК №88",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 89,
     "uikTvd": "9519012260522",
+    "uikName": "УИК №89",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 90,
     "uikTvd": "9519012260523",
+    "uikName": "УИК №90",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 91,
     "uikTvd": "9519012260524",
+    "uikName": "УИК №91",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 92,
     "uikTvd": "9519012260525",
+    "uikName": "УИК №92",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 93,
     "uikTvd": "9519012260526",
+    "uikName": "УИК №93",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 94,
     "uikTvd": "9519012260527",
+    "uikName": "УИК №94",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 95,
     "uikTvd": "9519012260528",
+    "uikName": "УИК №95",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 96,
     "uikTvd": "9519012260529",
+    "uikName": "УИК №96",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 97,
     "uikTvd": "9519012260530",
+    "uikName": "УИК №97",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 98,
     "uikTvd": "9519012260531",
+    "uikName": "УИК №98",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 99,
     "uikTvd": "9519012260532",
+    "uikName": "УИК №99",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 100,
     "uikTvd": "9519012260533",
+    "uikName": "УИК №100",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 101,
     "uikTvd": "9519012260534",
+    "uikName": "УИК №101",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 102,
     "uikTvd": "9519012260535",
+    "uikName": "УИК №102",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 103,
     "uikTvd": "9519012260536",
+    "uikName": "УИК №103",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 104,
     "uikTvd": "9519012260537",
+    "uikName": "УИК №104",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 105,
     "uikTvd": "9519012260538",
+    "uikName": "УИК №105",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 106,
     "uikTvd": "9519012260539",
+    "uikName": "УИК №106",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 107,
     "uikTvd": "9519012260540",
+    "uikName": "УИК №107",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 108,
     "uikTvd": "9519012260541",
+    "uikName": "УИК №108",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 109,
     "uikTvd": "9519012260542",
+    "uikName": "УИК №109",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 110,
     "uikTvd": "9519012260543",
+    "uikName": "УИК №110",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 111,
     "uikTvd": "9519012260544",
+    "uikName": "УИК №111",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 112,
     "uikTvd": "9519012260545",
+    "uikName": "УИК №112",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 113,
     "uikTvd": "9519012260546",
+    "uikName": "УИК №113",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 114,
     "uikTvd": "9519012260547",
+    "uikName": "УИК №114",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 115,
     "uikTvd": "9519012260548",
+    "uikName": "УИК №115",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 116,
     "uikTvd": "9519012260549",
+    "uikName": "УИК №116",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 117,
     "uikTvd": "9519012260550",
+    "uikName": "УИК №117",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 118,
     "uikTvd": "9519012260551",
+    "uikName": "УИК №118",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 119,
     "uikTvd": "9519012260552",
+    "uikName": "УИК №119",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 120,
     "uikTvd": "9519012260553",
+    "uikName": "УИК №120",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 121,
     "uikTvd": "9519012260554",
+    "uikName": "УИК №121",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 122,
     "uikTvd": "9519012260555",
+    "uikName": "УИК №122",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 123,
     "uikTvd": "9519012260556",
+    "uikName": "УИК №123",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 124,
     "uikTvd": "9519012260557",
+    "uikName": "УИК №124",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 125,
     "uikTvd": "9519012260558",
+    "uikName": "УИК №125",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 126,
     "uikTvd": "9519012260559",
+    "uikName": "УИК №126",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 127,
     "uikTvd": "9519012260560",
+    "uikName": "УИК №127",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 128,
     "uikTvd": "9519012260561",
+    "uikName": "УИК №128",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 129,
     "uikTvd": "9519012260562",
+    "uikName": "УИК №129",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 130,
     "uikTvd": "9519012260563",
+    "uikName": "УИК №130",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 131,
     "uikTvd": "9519012260564",
+    "uikName": "УИК №131",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 132,
     "uikTvd": "9519012260565",
+    "uikName": "УИК №132",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 133,
     "uikTvd": "9519012260566",
+    "uikName": "УИК №133",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 135,
     "uikTvd": "4514020137913",
+    "uikName": "УИК №135",
     "tikTvd": "2512000410397",
-    "tikName": "Североморская"
+    "tikName": "Североморская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 136,
     "uikTvd": "4514020137914",
+    "uikName": "УИК №136",
     "tikTvd": "2512000410397",
-    "tikName": "Североморская"
+    "tikName": "Североморская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 137,
     "uikTvd": "4514020137915",
+    "uikName": "УИК №137",
     "tikTvd": "2512000410397",
-    "tikName": "Североморская"
+    "tikName": "Североморская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 138,
     "uikTvd": "4514020137916",
+    "uikName": "УИК №138",
     "tikTvd": "2512000410397",
-    "tikName": "Североморская"
+    "tikName": "Североморская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 139,
     "uikTvd": "4514020137917",
+    "uikName": "УИК №139",
     "tikTvd": "2512000410397",
-    "tikName": "Североморская"
+    "tikName": "Североморская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 140,
     "uikTvd": "4514020137918",
+    "uikName": "УИК №140",
     "tikTvd": "2512000410397",
-    "tikName": "Североморская"
+    "tikName": "Североморская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 141,
     "uikTvd": "4514020137919",
+    "uikName": "УИК №141",
     "tikTvd": "2512000410397",
-    "tikName": "Североморская"
+    "tikName": "Североморская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 142,
     "uikTvd": "4514020137920",
+    "uikName": "УИК №142",
     "tikTvd": "2512000410397",
-    "tikName": "Североморская"
+    "tikName": "Североморская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 143,
     "uikTvd": "4514020137921",
+    "uikName": "УИК №143",
     "tikTvd": "2512000410397",
-    "tikName": "Североморская"
+    "tikName": "Североморская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 144,
     "uikTvd": "4514020137922",
+    "uikName": "УИК №144",
     "tikTvd": "2512000410397",
-    "tikName": "Североморская"
+    "tikName": "Североморская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 145,
     "uikTvd": "4514020137923",
+    "uikName": "УИК №145",
     "tikTvd": "2512000410397",
-    "tikName": "Североморская"
+    "tikName": "Североморская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 146,
     "uikTvd": "4514020137924",
+    "uikName": "УИК №146",
     "tikTvd": "2512000410397",
-    "tikName": "Североморская"
+    "tikName": "Североморская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 147,
     "uikTvd": "4514020137925",
+    "uikName": "УИК №147",
     "tikTvd": "2512000410397",
-    "tikName": "Североморская"
+    "tikName": "Североморская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 148,
     "uikTvd": "4514020137926",
+    "uikName": "УИК №148",
     "tikTvd": "2512000410397",
-    "tikName": "Североморская"
+    "tikName": "Североморская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 149,
     "uikTvd": "4514020137927",
+    "uikName": "УИК №149",
     "tikTvd": "2512000410397",
-    "tikName": "Североморская"
+    "tikName": "Североморская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 150,
     "uikTvd": "4514020137928",
+    "uikName": "УИК №150",
     "tikTvd": "2512000410397",
-    "tikName": "Североморская"
+    "tikName": "Североморская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 151,
     "uikTvd": "4514020137929",
+    "uikName": "УИК №151",
     "tikTvd": "2512000410397",
-    "tikName": "Североморская"
+    "tikName": "Североморская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 152,
     "uikTvd": "4514020137930",
+    "uikName": "УИК №152",
     "tikTvd": "2512000410397",
-    "tikName": "Североморская"
+    "tikName": "Североморская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 153,
     "uikTvd": "4514020137931",
+    "uikName": "УИК №153",
     "tikTvd": "2512000410397",
-    "tikName": "Североморская"
+    "tikName": "Североморская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 154,
     "uikTvd": "4514020137932",
+    "uikName": "УИК №154",
     "tikTvd": "2512000410397",
-    "tikName": "Североморская"
+    "tikName": "Североморская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 155,
     "uikTvd": "4514020137933",
+    "uikName": "УИК №155",
     "tikTvd": "2512000410397",
-    "tikName": "Североморская"
+    "tikName": "Североморская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 156,
     "uikTvd": "4514020137934",
+    "uikName": "УИК №156",
     "tikTvd": "2512000410397",
-    "tikName": "Североморская"
+    "tikName": "Североморская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 157,
     "uikTvd": "4514020137935",
+    "uikName": "УИК №157",
     "tikTvd": "2512000410397",
-    "tikName": "Североморская"
+    "tikName": "Североморская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 158,
     "uikTvd": "9519012260567",
+    "uikName": "УИК №158",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 159,
     "uikTvd": "9519012260568",
+    "uikName": "УИК №159",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 160,
     "uikTvd": "9519012260569",
+    "uikName": "УИК №160",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 161,
     "uikTvd": "9519012260570",
+    "uikName": "УИК №161",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 162,
     "uikTvd": "9519012260571",
+    "uikName": "УИК №162",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 163,
     "uikTvd": "4514020137936",
+    "uikName": "УИК №163",
     "tikTvd": "2512000410397",
-    "tikName": "Североморская"
+    "tikName": "Североморская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 164,
     "uikTvd": "4514020137937",
+    "uikName": "УИК №164",
     "tikTvd": "2512000410397",
-    "tikName": "Североморская"
+    "tikName": "Североморская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 165,
     "uikTvd": "4514001128457",
+    "uikName": "УИК №165",
     "tikTvd": "2512000410400",
-    "tikName": "Апатитская"
+    "tikName": "Апатитская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 166,
     "uikTvd": "4514001128458",
+    "uikName": "УИК №166",
     "tikTvd": "2512000410400",
-    "tikName": "Апатитская"
+    "tikName": "Апатитская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 167,
     "uikTvd": "4514001128459",
+    "uikName": "УИК №167",
     "tikTvd": "2512000410400",
-    "tikName": "Апатитская"
+    "tikName": "Апатитская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 168,
     "uikTvd": "4514001128460",
+    "uikName": "УИК №168",
     "tikTvd": "2512000410400",
-    "tikName": "Апатитская"
+    "tikName": "Апатитская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 169,
     "uikTvd": "4514001128461",
+    "uikName": "УИК №169",
     "tikTvd": "2512000410400",
-    "tikName": "Апатитская"
+    "tikName": "Апатитская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 170,
     "uikTvd": "4514001128462",
+    "uikName": "УИК №170",
     "tikTvd": "2512000410400",
-    "tikName": "Апатитская"
+    "tikName": "Апатитская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 171,
     "uikTvd": "4514001128463",
+    "uikName": "УИК №171",
     "tikTvd": "2512000410400",
-    "tikName": "Апатитская"
+    "tikName": "Апатитская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 172,
     "uikTvd": "4514001128464",
+    "uikName": "УИК №172",
     "tikTvd": "2512000410400",
-    "tikName": "Апатитская"
+    "tikName": "Апатитская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 173,
     "uikTvd": "4514001128465",
+    "uikName": "УИК №173",
     "tikTvd": "2512000410400",
-    "tikName": "Апатитская"
+    "tikName": "Апатитская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 174,
     "uikTvd": "4514001128466",
+    "uikName": "УИК №174",
     "tikTvd": "2512000410400",
-    "tikName": "Апатитская"
+    "tikName": "Апатитская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 175,
     "uikTvd": "4514001128467",
+    "uikName": "УИК №175",
     "tikTvd": "2512000410400",
-    "tikName": "Апатитская"
+    "tikName": "Апатитская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 176,
     "uikTvd": "4514001128468",
+    "uikName": "УИК №176",
     "tikTvd": "2512000410400",
-    "tikName": "Апатитская"
+    "tikName": "Апатитская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 177,
     "uikTvd": "4514001128469",
+    "uikName": "УИК №177",
     "tikTvd": "2512000410400",
-    "tikName": "Апатитская"
+    "tikName": "Апатитская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 178,
     "uikTvd": "4514001128470",
+    "uikName": "УИК №178",
     "tikTvd": "2512000410400",
-    "tikName": "Апатитская"
+    "tikName": "Апатитская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 179,
     "uikTvd": "4514001128471",
+    "uikName": "УИК №179",
     "tikTvd": "2512000410400",
-    "tikName": "Апатитская"
+    "tikName": "Апатитская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 180,
     "uikTvd": "4514001128472",
+    "uikName": "УИК №180",
     "tikTvd": "2512000410400",
-    "tikName": "Апатитская"
+    "tikName": "Апатитская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 181,
     "uikTvd": "4514001128473",
+    "uikName": "УИК №181",
     "tikTvd": "2512000410400",
-    "tikName": "Апатитская"
+    "tikName": "Апатитская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 182,
     "uikTvd": "4514001128474",
+    "uikName": "УИК №182",
     "tikTvd": "2512000410400",
-    "tikName": "Апатитская"
+    "tikName": "Апатитская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 183,
     "uikTvd": "4514001128475",
+    "uikName": "УИК №183",
     "tikTvd": "2512000410400",
-    "tikName": "Апатитская"
+    "tikName": "Апатитская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 184,
     "uikTvd": "4514001128476",
+    "uikName": "УИК №184",
     "tikTvd": "2512000410400",
-    "tikName": "Апатитская"
+    "tikName": "Апатитская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 185,
     "uikTvd": "4514001128477",
+    "uikName": "УИК №185",
     "tikTvd": "2512000410400",
-    "tikName": "Апатитская"
+    "tikName": "Апатитская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 186,
     "uikTvd": "4514001128478",
+    "uikName": "УИК №186",
     "tikTvd": "2512000410400",
-    "tikName": "Апатитская"
+    "tikName": "Апатитская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 187,
     "uikTvd": "4514001128479",
+    "uikName": "УИК №187",
     "tikTvd": "2512000410400",
-    "tikName": "Апатитская"
+    "tikName": "Апатитская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 188,
     "uikTvd": "4514008119436",
+    "uikName": "УИК №188",
     "tikTvd": "2512000410398",
-    "tikName": "Мончегорская"
+    "tikName": "Мончегорская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 189,
     "uikTvd": "4514008119437",
+    "uikName": "УИК №189",
     "tikTvd": "2512000410398",
-    "tikName": "Мончегорская"
+    "tikName": "Мончегорская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 190,
     "uikTvd": "4514008119438",
+    "uikName": "УИК №190",
     "tikTvd": "2512000410398",
-    "tikName": "Мончегорская"
+    "tikName": "Мончегорская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 191,
     "uikTvd": "4514008119439",
+    "uikName": "УИК №191",
     "tikTvd": "2512000410398",
-    "tikName": "Мончегорская"
+    "tikName": "Мончегорская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 192,
     "uikTvd": "4514008119440",
+    "uikName": "УИК №192",
     "tikTvd": "2512000410398",
-    "tikName": "Мончегорская"
+    "tikName": "Мончегорская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 193,
     "uikTvd": "4514008119441",
+    "uikName": "УИК №193",
     "tikTvd": "2512000410398",
-    "tikName": "Мончегорская"
+    "tikName": "Мончегорская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 194,
     "uikTvd": "4514008119442",
+    "uikName": "УИК №194",
     "tikTvd": "2512000410398",
-    "tikName": "Мончегорская"
+    "tikName": "Мончегорская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 195,
     "uikTvd": "4514008119443",
+    "uikName": "УИК №195",
     "tikTvd": "2512000410398",
-    "tikName": "Мончегорская"
+    "tikName": "Мончегорская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 196,
     "uikTvd": "4514008119444",
+    "uikName": "УИК №196",
     "tikTvd": "2512000410398",
-    "tikName": "Мончегорская"
+    "tikName": "Мончегорская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 197,
     "uikTvd": "4514008119445",
+    "uikName": "УИК №197",
     "tikTvd": "2512000410398",
-    "tikName": "Мончегорская"
+    "tikName": "Мончегорская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 198,
     "uikTvd": "4514008119446",
+    "uikName": "УИК №198",
     "tikTvd": "2512000410398",
-    "tikName": "Мончегорская"
+    "tikName": "Мончегорская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 199,
     "uikTvd": "4514008119447",
+    "uikName": "УИК №199",
     "tikTvd": "2512000410398",
-    "tikName": "Мончегорская"
+    "tikName": "Мончегорская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 200,
     "uikTvd": "4514008119448",
+    "uikName": "УИК №200",
     "tikTvd": "2512000410398",
-    "tikName": "Мончегорская"
+    "tikName": "Мончегорская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 201,
     "uikTvd": "4514008119449",
+    "uikName": "УИК №201",
     "tikTvd": "2512000410398",
-    "tikName": "Мончегорская"
+    "tikName": "Мончегорская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 202,
     "uikTvd": "4514008119450",
+    "uikName": "УИК №202",
     "tikTvd": "2512000410398",
-    "tikName": "Мончегорская"
+    "tikName": "Мончегорская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 203,
     "uikTvd": "4514008119451",
+    "uikName": "УИК №203",
     "tikTvd": "2512000410398",
-    "tikName": "Мончегорская"
+    "tikName": "Мончегорская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 204,
     "uikTvd": "4514008119452",
+    "uikName": "УИК №204",
     "tikTvd": "2512000410398",
-    "tikName": "Мончегорская"
+    "tikName": "Мончегорская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 205,
     "uikTvd": "4514008119453",
+    "uikName": "УИК №205",
     "tikTvd": "2512000410398",
-    "tikName": "Мончегорская"
+    "tikName": "Мончегорская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 206,
     "uikTvd": "4514008119454",
+    "uikName": "УИК №206",
     "tikTvd": "2512000410398",
-    "tikName": "Мончегорская"
+    "tikName": "Мончегорская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 207,
     "uikTvd": "4514008119455",
+    "uikName": "УИК №207",
     "tikTvd": "2512000410398",
-    "tikName": "Мончегорская"
+    "tikName": "Мончегорская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 208,
     "uikTvd": "4514008119456",
+    "uikName": "УИК №208",
     "tikTvd": "2512000410398",
-    "tikName": "Мончегорская"
+    "tikName": "Мончегорская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 209,
     "uikTvd": "4514008119457",
+    "uikName": "УИК №209",
     "tikTvd": "2512000410398",
-    "tikName": "Мончегорская"
+    "tikName": "Мончегорская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 210,
     "uikTvd": "4514008119458",
+    "uikName": "УИК №210",
     "tikTvd": "2512000410398",
-    "tikName": "Мончегорская"
+    "tikName": "Мончегорская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 211,
     "uikTvd": "4514008119459",
+    "uikName": "УИК №211",
     "tikTvd": "2512000410398",
-    "tikName": "Мончегорская"
+    "tikName": "Мончегорская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 212,
     "uikTvd": "4514017136589",
+    "uikName": "УИК №212",
     "tikTvd": "2512000410394",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 213,
     "uikTvd": "4514017136590",
+    "uikName": "УИК №213",
     "tikTvd": "2512000410394",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 214,
     "uikTvd": "4514017136591",
+    "uikName": "УИК №214",
     "tikTvd": "2512000410394",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 215,
     "uikTvd": "4514017136592",
+    "uikName": "УИК №215",
     "tikTvd": "2512000410394",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 216,
     "uikTvd": "4514017136593",
+    "uikName": "УИК №216",
     "tikTvd": "2512000410394",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 217,
     "uikTvd": "4514017136594",
+    "uikName": "УИК №217",
     "tikTvd": "2512000410394",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 218,
     "uikTvd": "4514017136595",
+    "uikName": "УИК №218",
     "tikTvd": "2512000410394",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 219,
     "uikTvd": "4514017136596",
+    "uikName": "УИК №219",
     "tikTvd": "2512000410394",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 220,
     "uikTvd": "4514017136597",
+    "uikName": "УИК №220",
     "tikTvd": "2512000410394",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 221,
     "uikTvd": "4514017136598",
+    "uikName": "УИК №221",
     "tikTvd": "2512000410394",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 222,
     "uikTvd": "4514017136599",
+    "uikName": "УИК №222",
     "tikTvd": "2512000410394",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 223,
     "uikTvd": "4514017136600",
+    "uikName": "УИК №223",
     "tikTvd": "2512000410394",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 224,
     "uikTvd": "4514017136601",
+    "uikName": "УИК №224",
     "tikTvd": "2512000410394",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 225,
     "uikTvd": "4514017136602",
+    "uikName": "УИК №225",
     "tikTvd": "2512000410394",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 226,
     "uikTvd": "4514017136603",
+    "uikName": "УИК №226",
     "tikTvd": "2512000410394",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 227,
     "uikTvd": "4514017136604",
+    "uikName": "УИК №227",
     "tikTvd": "2512000410394",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 228,
     "uikTvd": "4514017136605",
+    "uikName": "УИК №228",
     "tikTvd": "2512000410394",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 229,
     "uikTvd": "4514017136606",
+    "uikName": "УИК №229",
     "tikTvd": "2512000410394",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 230,
     "uikTvd": "4514017136607",
+    "uikName": "УИК №230",
     "tikTvd": "2512000410394",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 231,
     "uikTvd": "4514017136608",
+    "uikName": "УИК №231",
     "tikTvd": "2512000410394",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 232,
     "uikTvd": "4514017136609",
+    "uikName": "УИК №232",
     "tikTvd": "2512000410394",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 233,
     "uikTvd": "4514003129176",
+    "uikName": "УИК №233",
     "tikTvd": "2512000410387",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 234,
     "uikTvd": "4514003129177",
+    "uikName": "УИК №234",
     "tikTvd": "2512000410387",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 235,
     "uikTvd": "4514003129178",
+    "uikName": "УИК №235",
     "tikTvd": "2512000410387",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 236,
     "uikTvd": "4514003129179",
+    "uikName": "УИК №236",
     "tikTvd": "2512000410387",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 237,
     "uikTvd": "4514003129180",
+    "uikName": "УИК №237",
     "tikTvd": "2512000410387",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 238,
     "uikTvd": "4514003129181",
+    "uikName": "УИК №238",
     "tikTvd": "2512000410387",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 239,
     "uikTvd": "4514003129182",
+    "uikName": "УИК №239",
     "tikTvd": "2512000410387",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 240,
     "uikTvd": "4514003129183",
+    "uikName": "УИК №240",
     "tikTvd": "2512000410387",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 241,
     "uikTvd": "4514003129184",
+    "uikName": "УИК №241",
     "tikTvd": "2512000410387",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 242,
     "uikTvd": "4514003129185",
+    "uikName": "УИК №242",
     "tikTvd": "2512000410387",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 243,
     "uikTvd": "4514003129186",
+    "uikName": "УИК №243",
     "tikTvd": "2512000410387",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 244,
     "uikTvd": "4514003129187",
+    "uikName": "УИК №244",
     "tikTvd": "2512000410387",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 245,
     "uikTvd": "4514003129188",
+    "uikName": "УИК №245",
     "tikTvd": "2512000410387",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 246,
     "uikTvd": "4514003129189",
+    "uikName": "УИК №246",
     "tikTvd": "2512000410387",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 247,
     "uikTvd": "4514003129190",
+    "uikName": "УИК №247",
     "tikTvd": "2512000410387",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 248,
     "uikTvd": "4514003129191",
+    "uikName": "УИК №248",
     "tikTvd": "2512000410387",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 249,
     "uikTvd": "4514003129192",
+    "uikName": "УИК №249",
     "tikTvd": "2512000410387",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 250,
     "uikTvd": "4514003129193",
+    "uikName": "УИК №250",
     "tikTvd": "2512000410387",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 251,
     "uikTvd": "4514013117580",
+    "uikName": "УИК №251",
     "tikTvd": "2512000410402",
-    "tikName": "Оленегорская"
+    "tikName": "Оленегорская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 252,
     "uikTvd": "4514013117581",
+    "uikName": "УИК №252",
     "tikTvd": "2512000410402",
-    "tikName": "Оленегорская"
+    "tikName": "Оленегорская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 253,
     "uikTvd": "4514013117582",
+    "uikName": "УИК №253",
     "tikTvd": "2512000410402",
-    "tikName": "Оленегорская"
+    "tikName": "Оленегорская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 254,
     "uikTvd": "4514013117583",
+    "uikName": "УИК №254",
     "tikTvd": "2512000410402",
-    "tikName": "Оленегорская"
+    "tikName": "Оленегорская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 255,
     "uikTvd": "4514013117584",
+    "uikName": "УИК №255",
     "tikTvd": "2512000410402",
-    "tikName": "Оленегорская"
+    "tikName": "Оленегорская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 256,
     "uikTvd": "4514013117585",
+    "uikName": "УИК №256",
     "tikTvd": "2512000410402",
-    "tikName": "Оленегорская"
+    "tikName": "Оленегорская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 257,
     "uikTvd": "4514013117586",
+    "uikName": "УИК №257",
     "tikTvd": "2512000410402",
-    "tikName": "Оленегорская"
+    "tikName": "Оленегорская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 258,
     "uikTvd": "4514013117587",
+    "uikName": "УИК №258",
     "tikTvd": "2512000410402",
-    "tikName": "Оленегорская"
+    "tikName": "Оленегорская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 259,
     "uikTvd": "4514013117588",
+    "uikName": "УИК №259",
     "tikTvd": "2512000410402",
-    "tikName": "Оленегорская"
+    "tikName": "Оленегорская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 260,
     "uikTvd": "4514013117589",
+    "uikName": "УИК №260",
     "tikTvd": "2512000410402",
-    "tikName": "Оленегорская"
+    "tikName": "Оленегорская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 261,
     "uikTvd": "4514013117590",
+    "uikName": "УИК №261",
     "tikTvd": "2512000410402",
-    "tikName": "Оленегорская"
+    "tikName": "Оленегорская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 262,
     "uikTvd": "4514013117591",
+    "uikName": "УИК №262",
     "tikTvd": "2512000410402",
-    "tikName": "Оленегорская"
+    "tikName": "Оленегорская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 263,
     "uikTvd": "4514013117592",
+    "uikName": "УИК №263",
     "tikTvd": "2512000410402",
-    "tikName": "Оленегорская"
+    "tikName": "Оленегорская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 264,
     "uikTvd": "4514013117593",
+    "uikName": "УИК №264",
     "tikTvd": "2512000410402",
-    "tikName": "Оленегорская"
+    "tikName": "Оленегорская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 265,
     "uikTvd": "4514013117594",
+    "uikName": "УИК №265",
     "tikTvd": "2512000410402",
-    "tikName": "Оленегорская"
+    "tikName": "Оленегорская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 266,
     "uikTvd": "4514004108266",
+    "uikName": "УИК №266",
     "tikTvd": "2512000410403",
-    "tikName": "Ковдорская"
+    "tikName": "Ковдорская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 267,
     "uikTvd": "4514004108267",
+    "uikName": "УИК №267",
     "tikTvd": "2512000410403",
-    "tikName": "Ковдорская"
+    "tikName": "Ковдорская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 268,
     "uikTvd": "4514004108268",
+    "uikName": "УИК №268",
     "tikTvd": "2512000410403",
-    "tikName": "Ковдорская"
+    "tikName": "Ковдорская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 269,
     "uikTvd": "4514004108269",
+    "uikName": "УИК №269",
     "tikTvd": "2512000410403",
-    "tikName": "Ковдорская"
+    "tikName": "Ковдорская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 270,
     "uikTvd": "4514004108270",
+    "uikName": "УИК №270",
     "tikTvd": "2512000410403",
-    "tikName": "Ковдорская"
+    "tikName": "Ковдорская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 271,
     "uikTvd": "4514004108271",
+    "uikName": "УИК №271",
     "tikTvd": "2512000410403",
-    "tikName": "Ковдорская"
+    "tikName": "Ковдорская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 272,
     "uikTvd": "4514004108272",
+    "uikName": "УИК №272",
     "tikTvd": "2512000410403",
-    "tikName": "Ковдорская"
+    "tikName": "Ковдорская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 273,
     "uikTvd": "4514004108273",
+    "uikName": "УИК №273",
     "tikTvd": "2512000410403",
-    "tikName": "Ковдорская"
+    "tikName": "Ковдорская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 274,
     "uikTvd": "4514004108274",
+    "uikName": "УИК №274",
     "tikTvd": "2512000410403",
-    "tikName": "Ковдорская"
+    "tikName": "Ковдорская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 275,
     "uikTvd": "4514004108275",
+    "uikName": "УИК №275",
     "tikTvd": "2512000410403",
-    "tikName": "Ковдорская"
+    "tikName": "Ковдорская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 276,
     "uikTvd": "4514004108276",
+    "uikName": "УИК №276",
     "tikTvd": "2512000410403",
-    "tikName": "Ковдорская"
+    "tikName": "Ковдорская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 277,
     "uikTvd": "4514004108277",
+    "uikName": "УИК №277",
     "tikTvd": "2512000410403",
-    "tikName": "Ковдорская"
+    "tikName": "Ковдорская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 278,
     "uikTvd": "4514004108278",
+    "uikName": "УИК №278",
     "tikTvd": "2512000410403",
-    "tikName": "Ковдорская"
+    "tikName": "Ковдорская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 279,
     "uikTvd": "4514016121497",
+    "uikName": "УИК №279",
     "tikTvd": "2512000410390",
-    "tikName": "Полярнозоринская"
+    "tikName": "Полярнозоринская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 280,
     "uikTvd": "4514016121498",
+    "uikName": "УИК №280",
     "tikTvd": "2512000410390",
-    "tikName": "Полярнозоринская"
+    "tikName": "Полярнозоринская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 281,
     "uikTvd": "4514016121499",
+    "uikName": "УИК №281",
     "tikTvd": "2512000410390",
-    "tikName": "Полярнозоринская"
+    "tikName": "Полярнозоринская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 282,
     "uikTvd": "4514016121500",
+    "uikName": "УИК №282",
     "tikTvd": "2512000410390",
-    "tikName": "Полярнозоринская"
+    "tikName": "Полярнозоринская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 283,
     "uikTvd": "4514016121501",
+    "uikName": "УИК №283",
     "tikTvd": "2512000410390",
-    "tikName": "Полярнозоринская"
+    "tikName": "Полярнозоринская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 284,
     "uikTvd": "4514016121502",
+    "uikName": "УИК №284",
     "tikTvd": "2512000410390",
-    "tikName": "Полярнозоринская"
+    "tikName": "Полярнозоринская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 285,
     "uikTvd": "4514016121503",
+    "uikName": "УИК №285",
     "tikTvd": "2512000410390",
-    "tikName": "Полярнозоринская"
+    "tikName": "Полярнозоринская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 286,
     "uikTvd": "4514016121504",
+    "uikName": "УИК №286",
     "tikTvd": "2512000410390",
-    "tikName": "Полярнозоринская"
+    "tikName": "Полярнозоринская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 287,
     "uikTvd": "4514016121505",
+    "uikName": "УИК №287",
     "tikTvd": "2512000410390",
-    "tikName": "Полярнозоринская"
+    "tikName": "Полярнозоринская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 288,
     "uikTvd": "4514016121506",
+    "uikName": "УИК №288",
     "tikTvd": "2512000410390",
-    "tikName": "Полярнозоринская"
+    "tikName": "Полярнозоринская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 289,
     "uikTvd": "4514016121507",
+    "uikName": "УИК №289",
     "tikTvd": "2512000410390",
-    "tikName": "Полярнозоринская"
+    "tikName": "Полярнозоринская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 290,
     "uikTvd": "4514016121508",
+    "uikName": "УИК №290",
     "tikTvd": "2512000410390",
-    "tikName": "Полярнозоринская"
+    "tikName": "Полярнозоринская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 291,
     "uikTvd": "4514015107419",
+    "uikName": "УИК №291",
     "tikTvd": "2512000410389",
-    "tikName": "Заозерская"
+    "tikName": "Заозерская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 292,
     "uikTvd": "4514015107420",
+    "uikName": "УИК №292",
     "tikTvd": "2512000410389",
-    "tikName": "Заозерская"
+    "tikName": "Заозерская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 293,
     "uikTvd": "4514015107421",
+    "uikName": "УИК №293",
     "tikTvd": "2512000410389",
-    "tikName": "Заозерская"
+    "tikName": "Заозерская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 294,
     "uikTvd": "4514015107422",
+    "uikName": "УИК №294",
     "tikTvd": "2512000410389",
-    "tikName": "Заозерская"
+    "tikName": "Заозерская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 295,
     "uikTvd": "4514015107423",
+    "uikName": "УИК №295",
     "tikTvd": "2512000410389",
-    "tikName": "Заозерская"
+    "tikName": "Заозерская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 296,
     "uikTvd": "451402298935",
+    "uikName": "УИК №296",
     "tikTvd": "2512000410401",
-    "tikName": "Видяевская"
+    "tikName": "Видяевская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 297,
     "uikTvd": "451402298936",
+    "uikName": "УИК №297",
     "tikTvd": "2512000410401",
-    "tikName": "Видяевская"
+    "tikName": "Видяевская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 298,
     "uikTvd": "451402298937",
+    "uikName": "УИК №298",
     "tikTvd": "2512000410401",
-    "tikName": "Видяевская"
+    "tikName": "Видяевская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 299,
     "uikTvd": "451400799363",
+    "uikName": "УИК №299",
     "tikTvd": "2512000410391",
-    "tikName": "Островнинская"
+    "tikName": "Островнинская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 300,
     "uikTvd": "451400799365",
+    "uikName": "УИК №300",
     "tikTvd": "2512000410391",
-    "tikName": "Островнинская"
+    "tikName": "Островнинская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 301,
     "uikTvd": "4514002168227",
+    "uikName": "УИК №301",
     "tikTvd": "2512000410396",
-    "tikName": "Кандалакшская"
+    "tikName": "Кандалакшская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 302,
     "uikTvd": "4514002168228",
+    "uikName": "УИК №302",
     "tikTvd": "2512000410396",
-    "tikName": "Кандалакшская"
+    "tikName": "Кандалакшская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 303,
     "uikTvd": "4514002168229",
+    "uikName": "УИК №303",
     "tikTvd": "2512000410396",
-    "tikName": "Кандалакшская"
+    "tikName": "Кандалакшская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 304,
     "uikTvd": "4514002168230",
+    "uikName": "УИК №304",
     "tikTvd": "2512000410396",
-    "tikName": "Кандалакшская"
+    "tikName": "Кандалакшская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 305,
     "uikTvd": "4514002168231",
+    "uikName": "УИК №305",
     "tikTvd": "2512000410396",
-    "tikName": "Кандалакшская"
+    "tikName": "Кандалакшская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 306,
     "uikTvd": "4514002168232",
+    "uikName": "УИК №306",
     "tikTvd": "2512000410396",
-    "tikName": "Кандалакшская"
+    "tikName": "Кандалакшская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 307,
     "uikTvd": "4514002168233",
+    "uikName": "УИК №307",
     "tikTvd": "2512000410396",
-    "tikName": "Кандалакшская"
+    "tikName": "Кандалакшская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 308,
     "uikTvd": "4514002168234",
+    "uikName": "УИК №308",
     "tikTvd": "2512000410396",
-    "tikName": "Кандалакшская"
+    "tikName": "Кандалакшская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 309,
     "uikTvd": "4514002168235",
+    "uikName": "УИК №309",
     "tikTvd": "2512000410396",
-    "tikName": "Кандалакшская"
+    "tikName": "Кандалакшская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 310,
     "uikTvd": "4514002168236",
+    "uikName": "УИК №310",
     "tikTvd": "2512000410396",
-    "tikName": "Кандалакшская"
+    "tikName": "Кандалакшская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 311,
     "uikTvd": "4514002168237",
+    "uikName": "УИК №311",
     "tikTvd": "2512000410396",
-    "tikName": "Кандалакшская"
+    "tikName": "Кандалакшская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 312,
     "uikTvd": "4514002168238",
+    "uikName": "УИК №312",
     "tikTvd": "2512000410396",
-    "tikName": "Кандалакшская"
+    "tikName": "Кандалакшская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 313,
     "uikTvd": "4514002168239",
+    "uikName": "УИК №313",
     "tikTvd": "2512000410396",
-    "tikName": "Кандалакшская"
+    "tikName": "Кандалакшская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 314,
     "uikTvd": "4514002168240",
+    "uikName": "УИК №314",
     "tikTvd": "2512000410396",
-    "tikName": "Кандалакшская"
+    "tikName": "Кандалакшская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 315,
     "uikTvd": "4514002168241",
+    "uikName": "УИК №315",
     "tikTvd": "2512000410396",
-    "tikName": "Кандалакшская"
+    "tikName": "Кандалакшская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 316,
     "uikTvd": "4514002168242",
+    "uikName": "УИК №316",
     "tikTvd": "2512000410396",
-    "tikName": "Кандалакшская"
+    "tikName": "Кандалакшская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 317,
     "uikTvd": "4514002168243",
+    "uikName": "УИК №317",
     "tikTvd": "2512000410396",
-    "tikName": "Кандалакшская"
+    "tikName": "Кандалакшская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 318,
     "uikTvd": "4514002168244",
+    "uikName": "УИК №318",
     "tikTvd": "2512000410396",
-    "tikName": "Кандалакшская"
+    "tikName": "Кандалакшская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 319,
     "uikTvd": "4514002168245",
+    "uikName": "УИК №319",
     "tikTvd": "2512000410396",
-    "tikName": "Кандалакшская"
+    "tikName": "Кандалакшская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 320,
     "uikTvd": "4514002168246",
+    "uikName": "УИК №320",
     "tikTvd": "2512000410396",
-    "tikName": "Кандалакшская"
+    "tikName": "Кандалакшская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 321,
     "uikTvd": "4514002168247",
+    "uikName": "УИК №321",
     "tikTvd": "2512000410396",
-    "tikName": "Кандалакшская"
+    "tikName": "Кандалакшская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 322,
     "uikTvd": "4514002168248",
+    "uikName": "УИК №322",
     "tikTvd": "2512000410396",
-    "tikName": "Кандалакшская"
+    "tikName": "Кандалакшская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 323,
     "uikTvd": "4514002168249",
+    "uikName": "УИК №323",
     "tikTvd": "2512000410396",
-    "tikName": "Кандалакшская"
+    "tikName": "Кандалакшская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 324,
     "uikTvd": "4514002168250",
+    "uikName": "УИК №324",
     "tikTvd": "2512000410396",
-    "tikName": "Кандалакшская"
+    "tikName": "Кандалакшская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 325,
     "uikTvd": "4514002168251",
+    "uikName": "УИК №325",
     "tikTvd": "2512000410396",
-    "tikName": "Кандалакшская"
+    "tikName": "Кандалакшская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 326,
     "uikTvd": "4514002168252",
+    "uikName": "УИК №326",
     "tikTvd": "2512000410396",
-    "tikName": "Кандалакшская"
+    "tikName": "Кандалакшская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 327,
     "uikTvd": "4514002168253",
+    "uikName": "УИК №327",
     "tikTvd": "2512000410396",
-    "tikName": "Кандалакшская"
+    "tikName": "Кандалакшская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 328,
     "uikTvd": "4514002168254",
+    "uikName": "УИК №328",
     "tikTvd": "2512000410396",
-    "tikName": "Кандалакшская"
+    "tikName": "Кандалакшская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 329,
     "uikTvd": "4514002168255",
+    "uikName": "УИК №329",
     "tikTvd": "2512000410396",
-    "tikName": "Кандалакшская"
+    "tikName": "Кандалакшская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 330,
     "uikTvd": "4514002168256",
+    "uikName": "УИК №330",
     "tikTvd": "2512000410396",
-    "tikName": "Кандалакшская"
+    "tikName": "Кандалакшская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 331,
     "uikTvd": "4514002168257",
+    "uikName": "УИК №331",
     "tikTvd": "2512000410396",
-    "tikName": "Кандалакшская"
+    "tikName": "Кандалакшская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 332,
     "uikTvd": "4514002168258",
+    "uikName": "УИК №332",
     "tikTvd": "2512000410396",
-    "tikName": "Кандалакшская"
+    "tikName": "Кандалакшская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 333,
     "uikTvd": "4514002168259",
+    "uikName": "УИК №333",
     "tikTvd": "2512000410396",
-    "tikName": "Кандалакшская"
+    "tikName": "Кандалакшская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 334,
     "uikTvd": "4514002168260",
+    "uikName": "УИК №334",
     "tikTvd": "2512000410396",
-    "tikName": "Кандалакшская"
+    "tikName": "Кандалакшская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 335,
     "uikTvd": "4514002168261",
+    "uikName": "УИК №335",
     "tikTvd": "2512000410396",
-    "tikName": "Кандалакшская"
+    "tikName": "Кандалакшская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 336,
     "uikTvd": "4514002168262",
+    "uikName": "УИК №336",
     "tikTvd": "2512000410396",
-    "tikName": "Кандалакшская"
+    "tikName": "Кандалакшская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 337,
     "uikTvd": "4514002168263",
+    "uikName": "УИК №337",
     "tikTvd": "2512000410396",
-    "tikName": "Кандалакшская"
+    "tikName": "Кандалакшская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 338,
     "uikTvd": "4514002168264",
+    "uikName": "УИК №338",
     "tikTvd": "2512000410396",
-    "tikName": "Кандалакшская"
+    "tikName": "Кандалакшская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 339,
     "uikTvd": "4514002168265",
+    "uikName": "УИК №339",
     "tikTvd": "2512000410396",
-    "tikName": "Кандалакшская"
+    "tikName": "Кандалакшская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 340,
     "uikTvd": "4514002168266",
+    "uikName": "УИК №340",
     "tikTvd": "2512000410396",
-    "tikName": "Кандалакшская"
+    "tikName": "Кандалакшская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 341,
     "uikTvd": "4514005176701",
+    "uikName": "УИК №341",
     "tikTvd": "2512000410395",
-    "tikName": "Кольская"
+    "tikName": "Кольская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 342,
     "uikTvd": "4514005176702",
+    "uikName": "УИК №342",
     "tikTvd": "2512000410395",
-    "tikName": "Кольская"
+    "tikName": "Кольская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 343,
     "uikTvd": "4514005176703",
+    "uikName": "УИК №343",
     "tikTvd": "2512000410395",
-    "tikName": "Кольская"
+    "tikName": "Кольская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 344,
     "uikTvd": "4514005176704",
+    "uikName": "УИК №344",
     "tikTvd": "2512000410395",
-    "tikName": "Кольская"
+    "tikName": "Кольская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 345,
     "uikTvd": "4514005176705",
+    "uikName": "УИК №345",
     "tikTvd": "2512000410395",
-    "tikName": "Кольская"
+    "tikName": "Кольская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 346,
     "uikTvd": "4514005176706",
+    "uikName": "УИК №346",
     "tikTvd": "2512000410395",
-    "tikName": "Кольская"
+    "tikName": "Кольская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 347,
     "uikTvd": "4514005176707",
+    "uikName": "УИК №347",
     "tikTvd": "2512000410395",
-    "tikName": "Кольская"
+    "tikName": "Кольская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 348,
     "uikTvd": "4514005176708",
+    "uikName": "УИК №348",
     "tikTvd": "2512000410395",
-    "tikName": "Кольская"
+    "tikName": "Кольская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 349,
     "uikTvd": "4514005176709",
+    "uikName": "УИК №349",
     "tikTvd": "2512000410395",
-    "tikName": "Кольская"
+    "tikName": "Кольская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 350,
     "uikTvd": "4514005176710",
+    "uikName": "УИК №350",
     "tikTvd": "2512000410395",
-    "tikName": "Кольская"
+    "tikName": "Кольская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 351,
     "uikTvd": "4514005176711",
+    "uikName": "УИК №351",
     "tikTvd": "2512000410395",
-    "tikName": "Кольская"
+    "tikName": "Кольская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 352,
     "uikTvd": "4514005176712",
+    "uikName": "УИК №352",
     "tikTvd": "2512000410395",
-    "tikName": "Кольская"
+    "tikName": "Кольская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 353,
     "uikTvd": "4514005176713",
+    "uikName": "УИК №353",
     "tikTvd": "2512000410395",
-    "tikName": "Кольская"
+    "tikName": "Кольская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 354,
     "uikTvd": "4514005176714",
+    "uikName": "УИК №354",
     "tikTvd": "2512000410395",
-    "tikName": "Кольская"
+    "tikName": "Кольская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 355,
     "uikTvd": "4514005176715",
+    "uikName": "УИК №355",
     "tikTvd": "2512000410395",
-    "tikName": "Кольская"
+    "tikName": "Кольская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 356,
     "uikTvd": "4514005176716",
+    "uikName": "УИК №356",
     "tikTvd": "2512000410395",
-    "tikName": "Кольская"
+    "tikName": "Кольская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 357,
     "uikTvd": "4514005176717",
+    "uikName": "УИК №357",
     "tikTvd": "2512000410395",
-    "tikName": "Кольская"
+    "tikName": "Кольская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 358,
     "uikTvd": "4514005176718",
+    "uikName": "УИК №358",
     "tikTvd": "2512000410395",
-    "tikName": "Кольская"
+    "tikName": "Кольская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 359,
     "uikTvd": "4514005176719",
+    "uikName": "УИК №359",
     "tikTvd": "2512000410395",
-    "tikName": "Кольская"
+    "tikName": "Кольская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 360,
     "uikTvd": "4514005176720",
+    "uikName": "УИК №360",
     "tikTvd": "2512000410395",
-    "tikName": "Кольская"
+    "tikName": "Кольская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 361,
     "uikTvd": "4514005176721",
+    "uikName": "УИК №361",
     "tikTvd": "2512000410395",
-    "tikName": "Кольская"
+    "tikName": "Кольская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 362,
     "uikTvd": "4514005176722",
+    "uikName": "УИК №362",
     "tikTvd": "2512000410395",
-    "tikName": "Кольская"
+    "tikName": "Кольская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 363,
     "uikTvd": "4514005176723",
+    "uikName": "УИК №363",
     "tikTvd": "2512000410395",
-    "tikName": "Кольская"
+    "tikName": "Кольская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 364,
     "uikTvd": "4514005176724",
+    "uikName": "УИК №364",
     "tikTvd": "2512000410395",
-    "tikName": "Кольская"
+    "tikName": "Кольская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 365,
     "uikTvd": "4514005176725",
+    "uikName": "УИК №365",
     "tikTvd": "2512000410395",
-    "tikName": "Кольская"
+    "tikName": "Кольская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 366,
     "uikTvd": "4514005176726",
+    "uikName": "УИК №366",
     "tikTvd": "2512000410395",
-    "tikName": "Кольская"
+    "tikName": "Кольская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 367,
     "uikTvd": "4514005176727",
+    "uikName": "УИК №367",
     "tikTvd": "2512000410395",
-    "tikName": "Кольская"
+    "tikName": "Кольская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 368,
     "uikTvd": "4514005176728",
+    "uikName": "УИК №368",
     "tikTvd": "2512000410395",
-    "tikName": "Кольская"
+    "tikName": "Кольская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 369,
     "uikTvd": "4514005176729",
+    "uikName": "УИК №369",
     "tikTvd": "2512000410395",
-    "tikName": "Кольская"
+    "tikName": "Кольская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 370,
     "uikTvd": "4514014150465",
+    "uikName": "УИК №370",
     "tikTvd": "2512000410399",
-    "tikName": "Печенгская"
+    "tikName": "Печенгская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 371,
     "uikTvd": "4514014150466",
+    "uikName": "УИК №371",
     "tikTvd": "2512000410399",
-    "tikName": "Печенгская"
+    "tikName": "Печенгская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 372,
     "uikTvd": "4514014150467",
+    "uikName": "УИК №372",
     "tikTvd": "2512000410399",
-    "tikName": "Печенгская"
+    "tikName": "Печенгская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 373,
     "uikTvd": "4514014150468",
+    "uikName": "УИК №373",
     "tikTvd": "2512000410399",
-    "tikName": "Печенгская"
+    "tikName": "Печенгская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 374,
     "uikTvd": "4514014150469",
+    "uikName": "УИК №374",
     "tikTvd": "2512000410399",
-    "tikName": "Печенгская"
+    "tikName": "Печенгская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 375,
     "uikTvd": "4514014150470",
+    "uikName": "УИК №375",
     "tikTvd": "2512000410399",
-    "tikName": "Печенгская"
+    "tikName": "Печенгская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 376,
     "uikTvd": "4514014150471",
+    "uikName": "УИК №376",
     "tikTvd": "2512000410399",
-    "tikName": "Печенгская"
+    "tikName": "Печенгская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 377,
     "uikTvd": "4514014150472",
+    "uikName": "УИК №377",
     "tikTvd": "2512000410399",
-    "tikName": "Печенгская"
+    "tikName": "Печенгская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 378,
     "uikTvd": "4514014150473",
+    "uikName": "УИК №378",
     "tikTvd": "2512000410399",
-    "tikName": "Печенгская"
+    "tikName": "Печенгская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 379,
     "uikTvd": "4514014150474",
+    "uikName": "УИК №379",
     "tikTvd": "2512000410399",
-    "tikName": "Печенгская"
+    "tikName": "Печенгская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 381,
     "uikTvd": "4514014150476",
+    "uikName": "УИК №381",
     "tikTvd": "2512000410399",
-    "tikName": "Печенгская"
+    "tikName": "Печенгская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 382,
     "uikTvd": "4514014150477",
+    "uikName": "УИК №382",
     "tikTvd": "2512000410399",
-    "tikName": "Печенгская"
+    "tikName": "Печенгская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 383,
     "uikTvd": "4514014150478",
+    "uikName": "УИК №383",
     "tikTvd": "2512000410399",
-    "tikName": "Печенгская"
+    "tikName": "Печенгская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 384,
     "uikTvd": "4514014150479",
+    "uikName": "УИК №384",
     "tikTvd": "2512000410399",
-    "tikName": "Печенгская"
+    "tikName": "Печенгская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 385,
     "uikTvd": "4514014150480",
+    "uikName": "УИК №385",
     "tikTvd": "2512000410399",
-    "tikName": "Печенгская"
+    "tikName": "Печенгская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 386,
     "uikTvd": "4514014150481",
+    "uikName": "УИК №386",
     "tikTvd": "2512000410399",
-    "tikName": "Печенгская"
+    "tikName": "Печенгская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 387,
     "uikTvd": "4514014150482",
+    "uikName": "УИК №387",
     "tikTvd": "2512000410399",
-    "tikName": "Печенгская"
+    "tikName": "Печенгская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 388,
     "uikTvd": "4514014150483",
+    "uikName": "УИК №388",
     "tikTvd": "2512000410399",
-    "tikName": "Печенгская"
+    "tikName": "Печенгская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 389,
     "uikTvd": "4514014150484",
+    "uikName": "УИК №389",
     "tikTvd": "2512000410399",
-    "tikName": "Печенгская"
+    "tikName": "Печенгская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 390,
     "uikTvd": "4514014150485",
+    "uikName": "УИК №390",
     "tikTvd": "2512000410399",
-    "tikName": "Печенгская"
+    "tikName": "Печенгская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 391,
     "uikTvd": "4514014150486",
+    "uikName": "УИК №391",
     "tikTvd": "2512000410399",
-    "tikName": "Печенгская"
+    "tikName": "Печенгская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 392,
     "uikTvd": "4514014150487",
+    "uikName": "УИК №392",
     "tikTvd": "2512000410399",
-    "tikName": "Печенгская"
+    "tikName": "Печенгская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 393,
     "uikTvd": "4514014150488",
+    "uikName": "УИК №393",
     "tikTvd": "2512000410399",
-    "tikName": "Печенгская"
+    "tikName": "Печенгская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 394,
     "uikTvd": "4514014150489",
+    "uikName": "УИК №394",
     "tikTvd": "2512000410399",
-    "tikName": "Печенгская"
+    "tikName": "Печенгская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 395,
     "uikTvd": "4514014150490",
+    "uikName": "УИК №395",
     "tikTvd": "2512000410399",
-    "tikName": "Печенгская"
+    "tikName": "Печенгская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 396,
     "uikTvd": "4514014150491",
+    "uikName": "УИК №396",
     "tikTvd": "2512000410399",
-    "tikName": "Печенгская"
+    "tikName": "Печенгская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 397,
     "uikTvd": "4514014150492",
+    "uikName": "УИК №397",
     "tikTvd": "2512000410399",
-    "tikName": "Печенгская"
+    "tikName": "Печенгская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 398,
     "uikTvd": "4514014150493",
+    "uikName": "УИК №398",
     "tikTvd": "2512000410399",
-    "tikName": "Печенгская"
+    "tikName": "Печенгская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 399,
     "uikTvd": "4514014150494",
+    "uikName": "УИК №399",
     "tikTvd": "2512000410399",
-    "tikName": "Печенгская"
+    "tikName": "Печенгская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 400,
     "uikTvd": "4514006132675",
+    "uikName": "УИК №400",
     "tikTvd": "2512000410388",
-    "tikName": "Ловозерская"
+    "tikName": "Ловозерская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 401,
     "uikTvd": "4514006132676",
+    "uikName": "УИК №401",
     "tikTvd": "2512000410388",
-    "tikName": "Ловозерская"
+    "tikName": "Ловозерская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 402,
     "uikTvd": "4514006132677",
+    "uikName": "УИК №402",
     "tikTvd": "2512000410388",
-    "tikName": "Ловозерская"
+    "tikName": "Ловозерская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 403,
     "uikTvd": "4514006132678",
+    "uikName": "УИК №403",
     "tikTvd": "2512000410388",
-    "tikName": "Ловозерская"
+    "tikName": "Ловозерская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 404,
     "uikTvd": "4514006132679",
+    "uikName": "УИК №404",
     "tikTvd": "2512000410388",
-    "tikName": "Ловозерская"
+    "tikName": "Ловозерская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 405,
     "uikTvd": "4514006132680",
+    "uikName": "УИК №405",
     "tikTvd": "2512000410388",
-    "tikName": "Ловозерская"
+    "tikName": "Ловозерская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 406,
     "uikTvd": "4514006132681",
+    "uikName": "УИК №406",
     "tikTvd": "2512000410388",
-    "tikName": "Ловозерская"
+    "tikName": "Ловозерская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 407,
     "uikTvd": "4514021141338",
+    "uikName": "УИК №407",
     "tikTvd": "2512000410392",
-    "tikName": "Терская"
+    "tikName": "Терская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 408,
     "uikTvd": "4514021141339",
+    "uikName": "УИК №408",
     "tikTvd": "2512000410392",
-    "tikName": "Терская"
+    "tikName": "Терская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 409,
     "uikTvd": "4514021141340",
+    "uikName": "УИК №409",
     "tikTvd": "2512000410392",
-    "tikName": "Терская"
+    "tikName": "Терская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 410,
     "uikTvd": "4514021141341",
+    "uikName": "УИК №410",
     "tikTvd": "2512000410392",
-    "tikName": "Терская"
+    "tikName": "Терская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 411,
     "uikTvd": "4514021141342",
+    "uikName": "УИК №411",
     "tikTvd": "2512000410392",
-    "tikName": "Терская"
+    "tikName": "Терская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 412,
     "uikTvd": "4514001128480",
+    "uikName": "УИК №412",
     "tikTvd": "2512000410400",
-    "tikName": "Апатитская"
+    "tikName": "Апатитская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 413,
     "uikTvd": "4514005176730",
+    "uikName": "УИК №413",
     "tikTvd": "2512000410395",
-    "tikName": "Кольская"
+    "tikName": "Кольская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 414,
     "uikTvd": "4514005176731",
+    "uikName": "УИК №414",
     "tikTvd": "2512000410395",
-    "tikName": "Кольская"
+    "tikName": "Кольская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 415,
     "uikTvd": "4514014150495",
+    "uikName": "УИК №415",
     "tikTvd": "2512000410399",
-    "tikName": "Печенгская"
+    "tikName": "Печенгская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 416,
     "uikTvd": "4514005176732",
+    "uikName": "УИК №416",
     "tikTvd": "2512000410395",
-    "tikName": "Кольская"
+    "tikName": "Кольская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 418,
     "uikTvd": "4514005176733",
+    "uikName": "УИК №418",
     "tikTvd": "2512000410395",
-    "tikName": "Кольская"
+    "tikName": "Кольская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 419,
     "uikTvd": "4514005176734",
+    "uikName": "УИК №419",
     "tikTvd": "2512000410395",
-    "tikName": "Кольская"
+    "tikName": "Кольская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 420,
     "uikTvd": "4514005177683",
+    "uikName": "УИК №420",
     "tikTvd": "2512000410395",
-    "tikName": "Кольская"
+    "tikName": "Кольская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 421,
     "uikTvd": "4514020140115",
+    "uikName": "УИК №421",
     "tikTvd": "2512000410397",
-    "tikName": "Североморская"
+    "tikName": "Североморская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 430,
     "uikTvd": "9519012274747",
+    "uikName": "УИК №430",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 431,
     "uikTvd": "9519012274750",
+    "uikName": "УИК №431",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 432,
     "uikTvd": "9519012274751",
+    "uikName": "УИК №432",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 433,
     "uikTvd": "9519012274752",
+    "uikName": "УИК №433",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 434,
     "uikTvd": "9519012274753",
+    "uikName": "УИК №434",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 435,
     "uikTvd": "9519012274754",
+    "uikName": "УИК №435",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 436,
     "uikTvd": "9519012274755",
+    "uikName": "УИК №436",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 437,
     "uikTvd": "9519012274756",
+    "uikName": "УИК №437",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 438,
     "uikTvd": "9519012274757",
+    "uikName": "УИК №438",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 439,
     "uikTvd": "9519012274758",
+    "uikName": "УИК №439",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 440,
     "uikTvd": "9519012274759",
+    "uikName": "УИК №440",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 441,
     "uikTvd": "9519012274760",
+    "uikName": "УИК №441",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 456,
     "uikTvd": "4514002171301",
+    "uikName": "УИК №456",
     "tikTvd": "2512000410396",
-    "tikName": "Кандалакшская"
+    "tikName": "Кандалакшская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 469,
     "uikTvd": "4514005197263",
+    "uikName": "УИК №469",
     "tikTvd": "2512000410395",
-    "tikName": "Кольская"
+    "tikName": "Кольская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 500,
     "uikTvd": "9519012284965",
+    "uikName": "УИК №500",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 501,
     "uikTvd": "9519012284966",
+    "uikName": "УИК №501",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 502,
     "uikTvd": "9519012284967",
+    "uikName": "УИК №502",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 503,
     "uikTvd": "9519012284968",
+    "uikName": "УИК №503",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 504,
     "uikTvd": "9519012284969",
+    "uikName": "УИК №504",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 505,
     "uikTvd": "9519012284970",
+    "uikName": "УИК №505",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 507,
     "uikTvd": "9519012284972",
+    "uikName": "УИК №507",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 508,
     "uikTvd": "9519012284973",
+    "uikName": "УИК №508",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 509,
     "uikTvd": "9519012284974",
+    "uikName": "УИК №509",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 510,
     "uikTvd": "9519012284975",
+    "uikName": "УИК №510",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 511,
     "uikTvd": "9519012284976",
+    "uikName": "УИК №511",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 512,
     "uikTvd": "9519012284977",
+    "uikName": "УИК №512",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 514,
     "uikTvd": "9519012284978",
+    "uikName": "УИК №514",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 515,
     "uikTvd": "9519012284995",
+    "uikName": "УИК №515",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 516,
     "uikTvd": "9519012284996",
+    "uikName": "УИК №516",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 517,
     "uikTvd": "9519012284997",
+    "uikName": "УИК №517",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 518,
     "uikTvd": "9519012284998",
+    "uikName": "УИК №518",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 519,
     "uikTvd": "9519012284999",
+    "uikName": "УИК №519",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 520,
     "uikTvd": "9519012285000",
+    "uikName": "УИК №520",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 521,
     "uikTvd": "9519012285001",
+    "uikName": "УИК №521",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 522,
     "uikTvd": "9519012285002",
+    "uikName": "УИК №522",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 523,
     "uikTvd": "9519012285003",
+    "uikName": "УИК №523",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 524,
     "uikTvd": "9519012285004",
+    "uikName": "УИК №524",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 525,
     "uikTvd": "9519012285005",
+    "uikName": "УИК №525",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 526,
     "uikTvd": "9519012285006",
+    "uikName": "УИК №526",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 527,
     "uikTvd": "9519012285007",
+    "uikName": "УИК №527",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 528,
     "uikTvd": "9519012285008",
+    "uikName": "УИК №528",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 529,
     "uikTvd": "9519012285009",
+    "uikName": "УИК №529",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 530,
     "uikTvd": "9519012285010",
+    "uikName": "УИК №530",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 531,
     "uikTvd": "9519012285011",
+    "uikName": "УИК №531",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 532,
     "uikTvd": "9519012285012",
+    "uikName": "УИК №532",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 533,
     "uikTvd": "9519012285013",
+    "uikName": "УИК №533",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 534,
     "uikTvd": "9519012285014",
+    "uikName": "УИК №534",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 537,
     "uikTvd": "9519012285018",
+    "uikName": "УИК №537",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 538,
     "uikTvd": "9519012285019",
+    "uikName": "УИК №538",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 540,
     "uikTvd": "9519012285020",
+    "uikName": "УИК №540",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 541,
     "uikTvd": "9519012285021",
+    "uikName": "УИК №541",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 542,
     "uikTvd": "9519012285022",
+    "uikName": "УИК №542",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 543,
     "uikTvd": "9519012285023",
+    "uikName": "УИК №543",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 544,
     "uikTvd": "9519012285024",
+    "uikName": "УИК №544",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 545,
     "uikTvd": "9519012285025",
+    "uikName": "УИК №545",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 546,
     "uikTvd": "9519012285026",
+    "uikName": "УИК №546",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 547,
     "uikTvd": "9519012285030",
+    "uikName": "УИК №547",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 548,
     "uikTvd": "9519012285031",
+    "uikName": "УИК №548",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 549,
     "uikTvd": "9519012285032",
+    "uikName": "УИК №549",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 551,
     "uikTvd": "9519012285037",
+    "uikName": "УИК №551",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 553,
     "uikTvd": "9519012285039",
+    "uikName": "УИК №553",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 554,
     "uikTvd": "9519012285040",
+    "uikName": "УИК №554",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 555,
     "uikTvd": "9519012285047",
+    "uikName": "УИК №555",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 556,
     "uikTvd": "9519012285048",
+    "uikName": "УИК №556",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 557,
     "uikTvd": "9519012285049",
+    "uikName": "УИК №557",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 558,
     "uikTvd": "9519012285050",
+    "uikName": "УИК №558",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 559,
     "uikTvd": "9519012285051",
+    "uikName": "УИК №559",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 560,
     "uikTvd": "9519012285052",
+    "uikName": "УИК №560",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 561,
     "uikTvd": "9519012285053",
+    "uikName": "УИК №561",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 563,
     "uikTvd": "9519012285055",
+    "uikName": "УИК №563",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 564,
     "uikTvd": "9519012285056",
+    "uikName": "УИК №564",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 565,
     "uikTvd": "9519012285057",
+    "uikName": "УИК №565",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 567,
     "uikTvd": "9519012285058",
+    "uikName": "УИК №567",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 568,
     "uikTvd": "9519012285059",
+    "uikName": "УИК №568",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 569,
     "uikTvd": "9519012285060",
+    "uikName": "УИК №569",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 570,
     "uikTvd": "9519012285061",
+    "uikName": "УИК №570",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 571,
     "uikTvd": "9519012285062",
+    "uikName": "УИК №571",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 572,
     "uikTvd": "9519012285063",
+    "uikName": "УИК №572",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 573,
     "uikTvd": "9519012285069",
+    "uikName": "УИК №573",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 574,
     "uikTvd": "9519012285070",
+    "uikName": "УИК №574",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 575,
     "uikTvd": "9519012285071",
+    "uikName": "УИК №575",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 576,
     "uikTvd": "9519012285072",
+    "uikName": "УИК №576",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 577,
     "uikTvd": "9519012285073",
+    "uikName": "УИК №577",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 578,
     "uikTvd": "9519012285074",
+    "uikName": "УИК №578",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 579,
     "uikTvd": "9519012285075",
+    "uikName": "УИК №579",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 580,
     "uikTvd": "9519012285076",
+    "uikName": "УИК №580",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 581,
     "uikTvd": "9519012285161",
+    "uikName": "УИК №581",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 582,
     "uikTvd": "9519012285162",
+    "uikName": "УИК №582",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 583,
     "uikTvd": "9519012285163",
+    "uikName": "УИК №583",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 584,
     "uikTvd": "9519012285166",
+    "uikName": "УИК №584",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 585,
     "uikTvd": "9519012285078",
+    "uikName": "УИК №585",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 586,
     "uikTvd": "9519012285079",
+    "uikName": "УИК №586",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 587,
     "uikTvd": "9519012285080",
+    "uikName": "УИК №587",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 589,
     "uikTvd": "9519012285082",
+    "uikName": "УИК №589",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 590,
     "uikTvd": "9519012285083",
+    "uikName": "УИК №590",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 591,
     "uikTvd": "9519012305249",
+    "uikName": "УИК №591",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 592,
     "uikTvd": "9519012285090",
+    "uikName": "УИК №592",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 593,
     "uikTvd": "9519012285091",
+    "uikName": "УИК №593",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 594,
     "uikTvd": "9519012285092",
+    "uikName": "УИК №594",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 595,
     "uikTvd": "9519012285093",
+    "uikName": "УИК №595",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 596,
     "uikTvd": "9519012285094",
+    "uikName": "УИК №596",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 597,
     "uikTvd": "9519012285095",
+    "uikName": "УИК №597",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 598,
     "uikTvd": "9519012285096",
+    "uikName": "УИК №598",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 599,
     "uikTvd": "9519012285097",
+    "uikName": "УИК №599",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 600,
     "uikTvd": "9519012285098",
+    "uikName": "УИК №600",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 601,
     "uikTvd": "9519012285099",
+    "uikName": "УИК №601",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 602,
     "uikTvd": "9519012285100",
+    "uikName": "УИК №602",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 603,
     "uikTvd": "9519012285101",
+    "uikName": "УИК №603",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 604,
     "uikTvd": "9519012285110",
+    "uikName": "УИК №604",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 605,
     "uikTvd": "9519012285111",
+    "uikName": "УИК №605",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 606,
     "uikTvd": "9519012285112",
+    "uikName": "УИК №606",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 607,
     "uikTvd": "9519012285113",
+    "uikName": "УИК №607",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 608,
     "uikTvd": "9519012285114",
+    "uikName": "УИК №608",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 609,
     "uikTvd": "9519012285115",
+    "uikName": "УИК №609",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 611,
     "uikTvd": "9519012285117",
+    "uikName": "УИК №611",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 612,
     "uikTvd": "9519012285120",
+    "uikName": "УИК №612",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 613,
     "uikTvd": "9519012285121",
+    "uikName": "УИК №613",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 614,
     "uikTvd": "9519012285122",
+    "uikName": "УИК №614",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 615,
     "uikTvd": "9519012285123",
+    "uikName": "УИК №615",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 616,
     "uikTvd": "9519012285124",
+    "uikName": "УИК №616",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 617,
     "uikTvd": "9519012285125",
+    "uikName": "УИК №617",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 618,
     "uikTvd": "9519012285126",
+    "uikName": "УИК №618",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 620,
     "uikTvd": "9519012285130",
+    "uikName": "УИК №620",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 621,
     "uikTvd": "9519012285131",
+    "uikName": "УИК №621",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 622,
     "uikTvd": "9519012285132",
+    "uikName": "УИК №622",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 624,
     "uikTvd": "9519012285134",
+    "uikName": "УИК №624",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 625,
     "uikTvd": "9519012305250",
+    "uikName": "УИК №625",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 626,
     "uikTvd": "9519012285135",
+    "uikName": "УИК №626",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 627,
     "uikTvd": "9519012285136",
+    "uikName": "УИК №627",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 628,
     "uikTvd": "9519012285137",
+    "uikName": "УИК №628",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 629,
     "uikTvd": "9519012285138",
+    "uikName": "УИК №629",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 630,
     "uikTvd": "9519012285139",
+    "uikName": "УИК №630",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 631,
     "uikTvd": "9519012285143",
+    "uikName": "УИК №631",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 632,
     "uikTvd": "9519012285144",
+    "uikName": "УИК №632",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 633,
     "uikTvd": "9519012285145",
+    "uikName": "УИК №633",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 634,
     "uikTvd": "9519012305253",
+    "uikName": "УИК №634",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 635,
     "uikTvd": "9519012285146",
+    "uikName": "УИК №635",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 636,
     "uikTvd": "9519012285147",
+    "uikName": "УИК №636",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 637,
     "uikTvd": "9519012285148",
+    "uikName": "УИК №637",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 638,
     "uikTvd": "9519012305251",
+    "uikName": "УИК №638",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 639,
     "uikTvd": "9519012285150",
+    "uikName": "УИК №639",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 640,
     "uikTvd": "9519012285151",
+    "uikName": "УИК №640",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 642,
     "uikTvd": "9519012285153",
+    "uikName": "УИК №642",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 643,
     "uikTvd": "9519012285154",
+    "uikName": "УИК №643",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 644,
     "uikTvd": "9519012285155",
+    "uikName": "УИК №644",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 645,
     "uikTvd": "9519012286957",
+    "uikName": "УИК №645",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 646,
     "uikTvd": "9519012305258",
+    "uikName": "УИК №646",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 647,
     "uikTvd": "9519012305259",
+    "uikName": "УИК №647",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 648,
     "uikTvd": "9519012305260",
+    "uikName": "УИК №648",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 649,
     "uikTvd": "9519012305261",
+    "uikName": "УИК №649",
     "tikTvd": "2512000410393",
-    "tikName": "Мурманская"
+    "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 730,
     "uikTvd": "4514020141927",
+    "uikName": "УИК №730",
     "tikTvd": "2512000410397",
-    "tikName": "Североморская"
+    "tikName": "Североморская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 731,
     "uikTvd": "4514020140017",
+    "uikName": "УИК №731",
     "tikTvd": "2512000410397",
-    "tikName": "Североморская"
+    "tikName": "Североморская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 735,
     "uikTvd": "4514001131742",
+    "uikName": "УИК №735",
     "tikTvd": "2512000410400",
-    "tikName": "Апатитская"
+    "tikName": "Апатитская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 736,
     "uikTvd": "4514001131743",
+    "uikName": "УИК №736",
     "tikTvd": "2512000410400",
-    "tikName": "Апатитская"
+    "tikName": "Апатитская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 738,
     "uikTvd": "4514008122239",
+    "uikName": "УИК №738",
     "tikTvd": "2512000410398",
-    "tikName": "Мончегорская"
+    "tikName": "Мончегорская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 742,
     "uikTvd": "4514017138837",
+    "uikName": "УИК №742",
     "tikTvd": "2512000410394",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 743,
     "uikTvd": "4514017139930",
+    "uikName": "УИК №743",
     "tikTvd": "2512000410394",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 745,
     "uikTvd": "4514003130915",
+    "uikName": "УИК №745",
     "tikTvd": "2512000410387",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 746,
     "uikTvd": "4514003132331",
+    "uikName": "УИК №746",
     "tikTvd": "2512000410387",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 747,
     "uikTvd": "4514003132333",
+    "uikName": "УИК №747",
     "tikTvd": "2512000410387",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 752,
     "uikTvd": "4514013119705",
+    "uikName": "УИК №752",
     "tikTvd": "2512000410402",
-    "tikName": "Оленегорская"
+    "tikName": "Оленегорская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 753,
     "uikTvd": "4514013119707",
+    "uikName": "УИК №753",
     "tikTvd": "2512000410402",
-    "tikName": "Оленегорская"
+    "tikName": "Оленегорская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 770,
     "uikTvd": "4514020140019",
+    "uikName": "УИК №770",
     "tikTvd": "2512000410397",
-    "tikName": "Североморская"
+    "tikName": "Североморская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   },
   {
     "uikNumber": 771,
     "uikTvd": "4514020140021",
+    "uikName": "УИК №771",
     "tikTvd": "2512000410397",
-    "tikName": "Североморская"
+    "tikName": "Североморская",
+    "regionCode": "51",
+    "regionTvd": "100100067796021",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 128,
+      "oikTvd": "100100067796022",
+      "oikName": "Мурманская область – Мурманский"
+    }
   }
 ] satisfies readonly UikTikRelation[];

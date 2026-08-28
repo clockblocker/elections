@@ -11,6 +11,9 @@ export const president_2008_tic_227_region_33 = [
     "ballot": "presidential",
     "tikTvd": "2332000209830",
     "tikName": "Владимир, Ленинская",
+    "regionCode": "33",
+    "regionTvd": "100100022249931",
+    "regionName": "Владимирская область",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 101925,
@@ -104,6 +107,9 @@ export const president_2008_tic_227_region_33 = [
     "ballot": "presidential",
     "tikTvd": "2332000209831",
     "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100022249931",
+    "regionName": "Владимирская область",
     "uikCount": 63,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 31441,
@@ -214,6 +220,9 @@ export const president_2008_tic_227_region_33 = [
     "ballot": "presidential",
     "tikTvd": "2332000209832",
     "tikName": "Ковровская",
+    "regionCode": "33",
+    "regionTvd": "100100022249931",
+    "regionName": "Владимирская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 24664,
@@ -295,6 +304,9 @@ export const president_2008_tic_227_region_33 = [
     "ballot": "presidential",
     "tikTvd": "2332000209833",
     "tikName": "Кольчугинская",
+    "regionCode": "33",
+    "regionTvd": "100100022249931",
+    "regionName": "Владимирская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 46896,
@@ -382,6 +394,9 @@ export const president_2008_tic_227_region_33 = [
     "ballot": "presidential",
     "tikTvd": "2332000209834",
     "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100022249931",
+    "regionName": "Владимирская область",
     "uikCount": 68,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 126333,
@@ -497,6 +512,9 @@ export const president_2008_tic_227_region_33 = [
     "ballot": "presidential",
     "tikTvd": "2332000209835",
     "tikName": "Камешковская",
+    "regionCode": "33",
+    "regionTvd": "100100022249931",
+    "regionName": "Владимирская область",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 25992,
@@ -571,6 +589,9 @@ export const president_2008_tic_227_region_33 = [
     "ballot": "presidential",
     "tikTvd": "2332000209836",
     "tikName": "Киржачская",
+    "regionCode": "33",
+    "regionTvd": "100100022249931",
+    "regionName": "Владимирская область",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 34155,
@@ -651,6 +672,9 @@ export const president_2008_tic_227_region_33 = [
     "ballot": "presidential",
     "tikTvd": "2332000209837",
     "tikName": "Гусь-Хрустальная",
+    "regionCode": "33",
+    "regionTvd": "100100022249931",
+    "regionName": "Владимирская область",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 37882,
@@ -744,6 +768,9 @@ export const president_2008_tic_227_region_33 = [
     "ballot": "presidential",
     "tikTvd": "2332000209838",
     "tikName": "Гусь-Хрустальная городская",
+    "regionCode": "33",
+    "regionTvd": "100100022249931",
+    "regionName": "Владимирская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 57743,
@@ -817,6 +844,9 @@ export const president_2008_tic_227_region_33 = [
     "ballot": "presidential",
     "tikTvd": "2332000209839",
     "tikName": "Гороховецкая",
+    "regionCode": "33",
+    "regionTvd": "100100022249931",
+    "regionName": "Владимирская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 19012,
@@ -887,6 +917,9 @@ export const president_2008_tic_227_region_33 = [
     "ballot": "presidential",
     "tikTvd": "2332000209840",
     "tikName": "Вязниковская",
+    "regionCode": "33",
+    "regionTvd": "100100022249931",
+    "regionName": "Владимирская область",
     "uikCount": 67,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 71843,
@@ -1001,6 +1034,9 @@ export const president_2008_tic_227_region_33 = [
     "ballot": "presidential",
     "tikTvd": "2332000209841",
     "tikName": "Суздальская",
+    "regionCode": "33",
+    "regionTvd": "100100022249931",
+    "regionName": "Владимирская область",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 34149,
@@ -1092,6 +1128,9 @@ export const president_2008_tic_227_region_33 = [
     "ballot": "presidential",
     "tikTvd": "2332000209842",
     "tikName": "Юрьев-Польская",
+    "regionCode": "33",
+    "regionTvd": "100100022249931",
+    "regionName": "Владимирская область",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 29190,
@@ -1178,6 +1217,9 @@ export const president_2008_tic_227_region_33 = [
     "ballot": "presidential",
     "tikTvd": "2332000209843",
     "tikName": "Судогодская",
+    "regionCode": "33",
+    "regionTvd": "100100022249931",
+    "regionName": "Владимирская область",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 32898,
@@ -1264,6 +1306,9 @@ export const president_2008_tic_227_region_33 = [
     "ballot": "presidential",
     "tikTvd": "2332000209844",
     "tikName": "Радужная городская",
+    "regionCode": "33",
+    "regionTvd": "100100022249931",
+    "regionName": "Владимирская область",
     "uikCount": 6,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 14694,
@@ -1317,6 +1362,9 @@ export const president_2008_tic_227_region_33 = [
     "ballot": "presidential",
     "tikTvd": "2332000209845",
     "tikName": "Селивановская",
+    "regionCode": "33",
+    "regionTvd": "100100022249931",
+    "regionName": "Владимирская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 16913,
@@ -1389,6 +1437,9 @@ export const president_2008_tic_227_region_33 = [
     "ballot": "presidential",
     "tikTvd": "2332000209846",
     "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100022249931",
+    "regionName": "Владимирская область",
     "uikCount": 59,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 55779,
@@ -1495,6 +1546,9 @@ export const president_2008_tic_227_region_33 = [
     "ballot": "presidential",
     "tikTvd": "2332000209847",
     "tikName": "округа Муром",
+    "regionCode": "33",
+    "regionTvd": "100100022249931",
+    "regionName": "Владимирская область",
     "uikCount": 58,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 112413,
@@ -1600,6 +1654,9 @@ export const president_2008_tic_227_region_33 = [
     "ballot": "presidential",
     "tikTvd": "2332000209848",
     "tikName": "Собинская",
+    "regionCode": "33",
+    "regionTvd": "100100022249931",
+    "regionName": "Владимирская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 49958,
@@ -1687,6 +1744,9 @@ export const president_2008_tic_227_region_33 = [
     "ballot": "presidential",
     "tikTvd": "2332000209849",
     "tikName": "Владимир,Фрунзенская",
+    "regionCode": "33",
+    "regionTvd": "100100022249931",
+    "regionName": "Владимирская область",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 96054,
@@ -1775,6 +1835,9 @@ export const president_2008_tic_227_region_33 = [
     "ballot": "presidential",
     "tikTvd": "2332000209850",
     "tikName": "Владимир, Октябрьская",
+    "regionCode": "33",
+    "regionTvd": "100100022249931",
+    "regionName": "Владимирская область",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 90637,
@@ -1868,6 +1931,9 @@ export const president_2008_tic_227_region_33 = [
     "ballot": "presidential",
     "tikTvd": "2332000209851",
     "tikName": "Александровская",
+    "regionCode": "33",
+    "regionTvd": "100100022249931",
+    "regionName": "Владимирская область",
     "uikCount": 65,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 93815,
@@ -1980,6 +2046,9 @@ export const president_2008_tic_227_region_33 = [
     "ballot": "presidential",
     "tikTvd": "2332000209852",
     "tikName": "Муромская",
+    "regionCode": "33",
+    "regionTvd": "100100022249931",
+    "regionName": "Владимирская область",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 12922,

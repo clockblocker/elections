@@ -11,6 +11,9 @@ export const duma_2016_tic_233_region_43 = [
     "ballot": "party",
     "tikTvd": "2432000773442",
     "tikName": "Мурашинская",
+    "regionCode": "43",
+    "regionTvd": "100100067795990",
+    "regionName": "Кировская область",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 10579,
@@ -83,6 +86,9 @@ export const duma_2016_tic_233_region_43 = [
     "ballot": "party",
     "tikTvd": "2432000773446",
     "tikName": "Оричевская",
+    "regionCode": "43",
+    "regionTvd": "100100067795990",
+    "regionName": "Кировская область",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 23876,
@@ -172,6 +178,9 @@ export const duma_2016_tic_233_region_43 = [
     "ballot": "party",
     "tikTvd": "2432000773448",
     "tikName": "Верхнекамская",
+    "regionCode": "43",
+    "regionTvd": "100100067795990",
+    "regionName": "Кировская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 21706,
@@ -256,6 +265,9 @@ export const duma_2016_tic_233_region_43 = [
     "ballot": "party",
     "tikTvd": "2432000773451",
     "tikName": "Орловская",
+    "regionCode": "43",
+    "regionTvd": "100100067795990",
+    "regionName": "Кировская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 10920,
@@ -330,6 +342,9 @@ export const duma_2016_tic_233_region_43 = [
     "ballot": "party",
     "tikTvd": "2432000773452",
     "tikName": "Киров, Первомайская",
+    "regionCode": "43",
+    "regionTvd": "100100067795990",
+    "regionName": "Кировская область",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 65675,
@@ -421,6 +436,9 @@ export const duma_2016_tic_233_region_43 = [
     "ballot": "party",
     "tikTvd": "2432000773454",
     "tikName": "ЗАТО Первомайский",
+    "regionCode": "43",
+    "regionTvd": "100100067795990",
+    "regionName": "Кировская область",
     "uikCount": 4,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 3242,
@@ -481,6 +499,9 @@ export const duma_2016_tic_233_region_43 = [
     "ballot": "party",
     "tikTvd": "2432000773455",
     "tikName": "Котельничская городская",
+    "regionCode": "43",
+    "regionTvd": "100100067795990",
+    "regionName": "Кировская область",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 20182,
@@ -549,6 +570,9 @@ export const duma_2016_tic_233_region_43 = [
     "ballot": "party",
     "tikTvd": "2432000773456",
     "tikName": "Слободская городская",
+    "regionCode": "43",
+    "regionTvd": "100100067795990",
+    "regionName": "Кировская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 27835,
@@ -623,6 +647,9 @@ export const duma_2016_tic_233_region_43 = [
     "ballot": "party",
     "tikTvd": "2432000773460",
     "tikName": "Омутнинская",
+    "regionCode": "43",
+    "regionTvd": "100100067795990",
+    "regionName": "Кировская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 33259,
@@ -713,6 +740,9 @@ export const duma_2016_tic_233_region_43 = [
     "ballot": "party",
     "tikTvd": "2432000773465",
     "tikName": "Нагорская",
+    "regionCode": "43",
+    "regionTvd": "100100067795990",
+    "regionName": "Кировская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 8566,
@@ -788,6 +818,9 @@ export const duma_2016_tic_233_region_43 = [
     "ballot": "party",
     "tikTvd": "2432000773466",
     "tikName": "Белохолуницкая",
+    "regionCode": "43",
+    "regionTvd": "100100067795990",
+    "regionName": "Кировская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 16246,
@@ -869,6 +902,9 @@ export const duma_2016_tic_233_region_43 = [
     "ballot": "party",
     "tikTvd": "2432000773467",
     "tikName": "Киров, Октябрьская",
+    "regionCode": "43",
+    "regionTvd": "100100067795990",
+    "regionName": "Кировская область",
     "uikCount": 73,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 129455,
@@ -998,6 +1034,9 @@ export const duma_2016_tic_233_region_43 = [
     "ballot": "party",
     "tikTvd": "2432000773469",
     "tikName": "Зуевская",
+    "regionCode": "43",
+    "regionTvd": "100100067795990",
+    "regionName": "Кировская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 19028,
@@ -1082,6 +1121,9 @@ export const duma_2016_tic_233_region_43 = [
     "ballot": "party",
     "tikTvd": "2432000773472",
     "tikName": "Опаpинская",
+    "regionCode": "43",
+    "regionTvd": "100100067795990",
+    "regionName": "Кировская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 8465,
@@ -1153,6 +1195,9 @@ export const duma_2016_tic_233_region_43 = [
     "ballot": "party",
     "tikTvd": "2432000773474",
     "tikName": "Лузская",
+    "regionCode": "43",
+    "regionTvd": "100100067795990",
+    "regionName": "Кировская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 14557,
@@ -1232,6 +1277,9 @@ export const duma_2016_tic_233_region_43 = [
     "ballot": "party",
     "tikTvd": "2432000773475",
     "tikName": "Шабалинская",
+    "regionCode": "43",
+    "regionTvd": "100100067795990",
+    "regionName": "Кировская область",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 9202,
@@ -1305,6 +1353,9 @@ export const duma_2016_tic_233_region_43 = [
     "ballot": "party",
     "tikTvd": "2432000773477",
     "tikName": "Афанасьевская",
+    "regionCode": "43",
+    "regionTvd": "100100067795990",
+    "regionName": "Кировская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 11273,
@@ -1391,6 +1442,9 @@ export const duma_2016_tic_233_region_43 = [
     "ballot": "party",
     "tikTvd": "2432000773479",
     "tikName": "Свечинская",
+    "regionCode": "43",
+    "regionTvd": "100100067795990",
+    "regionName": "Кировская область",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 6617,
@@ -1461,6 +1515,9 @@ export const duma_2016_tic_233_region_43 = [
     "ballot": "party",
     "tikTvd": "2432000773485",
     "tikName": "Котельничская",
+    "regionCode": "43",
+    "regionTvd": "100100067795990",
+    "regionName": "Кировская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 13287,
@@ -1540,6 +1597,9 @@ export const duma_2016_tic_233_region_43 = [
     "ballot": "party",
     "tikTvd": "2432000773489",
     "tikName": "Фаленская",
+    "regionCode": "43",
+    "regionTvd": "100100067795990",
+    "regionName": "Кировская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 9586,
@@ -1615,6 +1675,9 @@ export const duma_2016_tic_233_region_43 = [
     "ballot": "party",
     "tikTvd": "2432000773491",
     "tikName": "Юрьянская",
+    "regionCode": "43",
+    "regionTvd": "100100067795990",
+    "regionName": "Кировская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 16248,
@@ -1691,6 +1754,9 @@ export const duma_2016_tic_233_region_43 = [
     "ballot": "party",
     "tikTvd": "2432000773492",
     "tikName": "Даровская",
+    "regionCode": "43",
+    "regionTvd": "100100067795990",
+    "regionName": "Кировская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 9297,
@@ -1767,6 +1833,9 @@ export const duma_2016_tic_233_region_43 = [
     "ballot": "party",
     "tikTvd": "2432000773493",
     "tikName": "Слободская",
+    "regionCode": "43",
+    "regionTvd": "100100067795990",
+    "regionName": "Кировская область",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 24908,
@@ -1855,6 +1924,9 @@ export const duma_2016_tic_233_region_43 = [
     "ballot": "party",
     "tikTvd": "2432000773497",
     "tikName": "Подосиновская",
+    "regionCode": "43",
+    "regionTvd": "100100067795990",
+    "regionName": "Кировская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 13721,
@@ -1930,6 +2002,9 @@ export const duma_2016_tic_233_region_43 = [
     "ballot": "party",
     "tikTvd": "2432000773536",
     "tikName": "Яранская",
+    "regionCode": "43",
+    "regionTvd": "100100067795990",
+    "regionName": "Кировская область",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 23087,
@@ -2023,6 +2098,9 @@ export const duma_2016_tic_233_region_43 = [
     "ballot": "party",
     "tikTvd": "2432000773537",
     "tikName": "Уржумская",
+    "regionCode": "43",
+    "regionTvd": "100100067795990",
+    "regionName": "Кировская область",
     "uikCount": 45,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 19460,
@@ -2124,6 +2202,9 @@ export const duma_2016_tic_233_region_43 = [
     "ballot": "party",
     "tikTvd": "2432000773538",
     "tikName": "Унинская",
+    "regionCode": "43",
+    "regionTvd": "100100067795990",
+    "regionName": "Кировская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 7513,
@@ -2200,6 +2281,9 @@ export const duma_2016_tic_233_region_43 = [
     "ballot": "party",
     "tikTvd": "2432000773539",
     "tikName": "Тужинская",
+    "regionCode": "43",
+    "regionTvd": "100100067795990",
+    "regionName": "Кировская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 6561,
@@ -2271,6 +2355,9 @@ export const duma_2016_tic_233_region_43 = [
     "ballot": "party",
     "tikTvd": "2432000773540",
     "tikName": "Сунская",
+    "regionCode": "43",
+    "regionTvd": "100100067795990",
+    "regionName": "Кировская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 5781,
@@ -2342,6 +2429,9 @@ export const duma_2016_tic_233_region_43 = [
     "ballot": "party",
     "tikTvd": "2432000773541",
     "tikName": "Советская",
+    "regionCode": "43",
+    "regionTvd": "100100067795990",
+    "regionName": "Кировская область",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 21787,
@@ -2431,6 +2521,9 @@ export const duma_2016_tic_233_region_43 = [
     "ballot": "party",
     "tikTvd": "2432000773542",
     "tikName": "Санчурская",
+    "regionCode": "43",
+    "regionTvd": "100100067795990",
+    "regionName": "Кировская область",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 8112,
@@ -2504,6 +2597,9 @@ export const duma_2016_tic_233_region_43 = [
     "ballot": "party",
     "tikTvd": "2432000773543",
     "tikName": "Пижанская",
+    "regionCode": "43",
+    "regionTvd": "100100067795990",
+    "regionName": "Кировская область",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 8508,
@@ -2573,6 +2669,9 @@ export const duma_2016_tic_233_region_43 = [
     "ballot": "party",
     "tikTvd": "2432000773544",
     "tikName": "Нолинская",
+    "regionCode": "43",
+    "regionTvd": "100100067795990",
+    "regionName": "Кировская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 16600,
@@ -2651,6 +2750,9 @@ export const duma_2016_tic_233_region_43 = [
     "ballot": "party",
     "tikTvd": "2432000773545",
     "tikName": "Немская",
+    "regionCode": "43",
+    "regionTvd": "100100067795990",
+    "regionName": "Кировская область",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 6857,
@@ -2718,6 +2820,9 @@ export const duma_2016_tic_233_region_43 = [
     "ballot": "party",
     "tikTvd": "2432000773546",
     "tikName": "Малмыжская",
+    "regionCode": "43",
+    "regionTvd": "100100067795990",
+    "regionName": "Кировская область",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 21528,
@@ -2809,6 +2914,9 @@ export const duma_2016_tic_233_region_43 = [
     "ballot": "party",
     "tikTvd": "2432000773547",
     "tikName": "Лебяжская",
+    "regionCode": "43",
+    "regionTvd": "100100067795990",
+    "regionName": "Кировская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 7487,
@@ -2884,6 +2992,9 @@ export const duma_2016_tic_233_region_43 = [
     "ballot": "party",
     "tikTvd": "2432000773548",
     "tikName": "Куменская",
+    "regionCode": "43",
+    "regionTvd": "100100067795990",
+    "regionName": "Кировская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 14669,
@@ -2963,6 +3074,9 @@ export const duma_2016_tic_233_region_43 = [
     "ballot": "party",
     "tikTvd": "2432000773549",
     "tikName": "Кирово-Чепецкая городская",
+    "regionCode": "43",
+    "regionTvd": "100100067795990",
+    "regionName": "Кировская область",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 63125,
@@ -3060,6 +3174,9 @@ export const duma_2016_tic_233_region_43 = [
     "ballot": "party",
     "tikTvd": "2432000773550",
     "tikName": "Кирово-Чепецкая",
+    "regionCode": "43",
+    "regionTvd": "100100067795990",
+    "regionName": "Кировская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 18785,
@@ -3136,6 +3253,9 @@ export const duma_2016_tic_233_region_43 = [
     "ballot": "party",
     "tikTvd": "2432000773551",
     "tikName": "Киров, Нововятская",
+    "regionCode": "43",
+    "regionTvd": "100100067795990",
+    "regionName": "Кировская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 39496,
@@ -3210,6 +3330,9 @@ export const duma_2016_tic_233_region_43 = [
     "ballot": "party",
     "tikTvd": "2432000773552",
     "tikName": "Киров, Ленинская",
+    "regionCode": "43",
+    "regionTvd": "100100067795990",
+    "regionName": "Кировская область",
     "uikCount": 98,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 174348,
@@ -3364,6 +3487,9 @@ export const duma_2016_tic_233_region_43 = [
     "ballot": "party",
     "tikTvd": "2432000773553",
     "tikName": "Кильмезская",
+    "regionCode": "43",
+    "regionTvd": "100100067795990",
+    "regionName": "Кировская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 10989,
@@ -3444,6 +3570,9 @@ export const duma_2016_tic_233_region_43 = [
     "ballot": "party",
     "tikTvd": "2432000773554",
     "tikName": "Кикнурская",
+    "regionCode": "43",
+    "regionTvd": "100100067795990",
+    "regionName": "Кировская область",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 8153,
@@ -3514,6 +3643,9 @@ export const duma_2016_tic_233_region_43 = [
     "ballot": "party",
     "tikTvd": "2432000773555",
     "tikName": "Вятскополянская городская",
+    "regionCode": "43",
+    "regionTvd": "100100067795990",
+    "regionName": "Кировская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 28636,
@@ -3588,6 +3720,9 @@ export const duma_2016_tic_233_region_43 = [
     "ballot": "party",
     "tikTvd": "2432000773556",
     "tikName": "Вятскополянская",
+    "regionCode": "43",
+    "regionTvd": "100100067795990",
+    "regionName": "Кировская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 24467,
@@ -3678,6 +3813,9 @@ export const duma_2016_tic_233_region_43 = [
     "ballot": "party",
     "tikTvd": "2432000773557",
     "tikName": "Верхошижемская",
+    "regionCode": "43",
+    "regionTvd": "100100067795990",
+    "regionName": "Кировская область",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 7715,
@@ -3747,6 +3885,9 @@ export const duma_2016_tic_233_region_43 = [
     "ballot": "party",
     "tikTvd": "2432000773558",
     "tikName": "Богородская",
+    "regionCode": "43",
+    "regionTvd": "100100067795990",
+    "regionName": "Кировская область",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 4195,
@@ -3815,6 +3956,9 @@ export const duma_2016_tic_233_region_43 = [
     "ballot": "party",
     "tikTvd": "2432000773559",
     "tikName": "Арбажская",
+    "regionCode": "43",
+    "regionTvd": "100100067795990",
+    "regionName": "Кировская область",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 6133,

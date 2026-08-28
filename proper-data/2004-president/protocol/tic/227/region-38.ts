@@ -11,6 +11,9 @@ export const president_2004_tic_227_region_38 = [
     "ballot": "presidential",
     "tikTvd": "238200073648",
     "tikName": "Усть-Илимская городская",
+    "regionCode": "38",
+    "regionTvd": "1001000882966",
+    "regionName": "Иркутская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в список": 73380,
@@ -90,6 +93,9 @@ export const president_2004_tic_227_region_38 = [
     "ballot": "presidential",
     "tikTvd": "238200073649",
     "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "1001000882966",
+    "regionName": "Иркутская область",
     "uikCount": 97,
     "accounting": {
       "Число избирателей, внесенных в список": 198407,
@@ -235,6 +241,9 @@ export const president_2004_tic_227_region_38 = [
     "ballot": "presidential",
     "tikTvd": "238200073650",
     "tikName": "Усольская",
+    "regionCode": "38",
+    "regionTvd": "1001000882966",
+    "regionName": "Иркутская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в список": 36103,
@@ -323,6 +332,9 @@ export const president_2004_tic_227_region_38 = [
     "ballot": "presidential",
     "tikTvd": "238200073651",
     "tikName": "Тайшетская",
+    "regionCode": "38",
+    "regionTvd": "1001000882966",
+    "regionName": "Иркутская область",
     "uikCount": 51,
     "accounting": {
       "Число избирателей, внесенных в список": 21621,
@@ -422,6 +434,9 @@ export const president_2004_tic_227_region_38 = [
     "ballot": "presidential",
     "tikTvd": "238200073652",
     "tikName": "Нижнеудинская",
+    "regionCode": "38",
+    "regionTvd": "1001000882966",
+    "regionName": "Иркутская область",
     "uikCount": 65,
     "accounting": {
       "Число избирателей, внесенных в список": 21818,
@@ -535,6 +550,9 @@ export const president_2004_tic_227_region_38 = [
     "ballot": "presidential",
     "tikTvd": "238200073653",
     "tikName": "Бодайбинская",
+    "regionCode": "38",
+    "regionTvd": "1001000882966",
+    "regionName": "Иркутская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список": 18941,
@@ -605,6 +623,9 @@ export const president_2004_tic_227_region_38 = [
     "ballot": "presidential",
     "tikTvd": "238200073654",
     "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "1001000882966",
+    "regionName": "Иркутская область",
     "uikCount": 106,
     "accounting": {
       "Число избирателей, внесенных в список": 196466,
@@ -759,6 +780,9 @@ export const president_2004_tic_227_region_38 = [
     "ballot": "presidential",
     "tikTvd": "238200073655",
     "tikName": "Балаганская",
+    "regionCode": "38",
+    "regionTvd": "1001000882966",
+    "regionName": "Иркутская область",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, внесенных в список": 6837,
@@ -818,6 +842,9 @@ export const president_2004_tic_227_region_38 = [
     "ballot": "presidential",
     "tikTvd": "238200073656",
     "tikName": "Казачинско-Ленская",
+    "regionCode": "38",
+    "regionTvd": "1001000882966",
+    "regionName": "Иркутская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список": 14999,
@@ -888,6 +915,9 @@ export const president_2004_tic_227_region_38 = [
     "ballot": "presidential",
     "tikTvd": "238200073657",
     "tikName": "Иркутская",
+    "regionCode": "38",
+    "regionTvd": "1001000882966",
+    "regionName": "Иркутская область",
     "uikCount": 71,
     "accounting": {
       "Число избирателей, внесенных в список": 40049,
@@ -1007,6 +1037,9 @@ export const president_2004_tic_227_region_38 = [
     "ballot": "presidential",
     "tikTvd": "238200073658",
     "tikName": "Иркутская городская № 1",
+    "regionCode": "38",
+    "regionTvd": "1001000882966",
+    "regionName": "Иркутская область",
     "uikCount": 56,
     "accounting": {
       "Число избирателей, внесенных в список": 106332,
@@ -1111,6 +1144,9 @@ export const president_2004_tic_227_region_38 = [
     "ballot": "presidential",
     "tikTvd": "238200073659",
     "tikName": "Иркутская городская № 4",
+    "regionCode": "38",
+    "regionTvd": "1001000882966",
+    "regionName": "Иркутская область",
     "uikCount": 57,
     "accounting": {
       "Число избирателей, внесенных в список": 143747,
@@ -1216,6 +1252,9 @@ export const president_2004_tic_227_region_38 = [
     "ballot": "presidential",
     "tikTvd": "238200073660",
     "tikName": "Иркутская городская № 2",
+    "regionCode": "38",
+    "regionTvd": "1001000882966",
+    "regionName": "Иркутская область",
     "uikCount": 49,
     "accounting": {
       "Число избирателей, внесенных в список": 102341,
@@ -1313,6 +1352,9 @@ export const president_2004_tic_227_region_38 = [
     "ballot": "presidential",
     "tikTvd": "238200073661",
     "tikName": "Зиминская городская",
+    "regionCode": "38",
+    "regionTvd": "1001000882966",
+    "regionName": "Иркутская область",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в список": 25197,
@@ -1377,6 +1419,9 @@ export const president_2004_tic_227_region_38 = [
     "ballot": "presidential",
     "tikTvd": "238200073662",
     "tikName": "Иркутская городская № 3",
+    "regionCode": "38",
+    "regionTvd": "1001000882966",
+    "regionName": "Иркутская область",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, внесенных в список": 80138,
@@ -1469,6 +1514,9 @@ export const president_2004_tic_227_region_38 = [
     "ballot": "presidential",
     "tikTvd": "238200073663",
     "tikName": "Заларинская",
+    "regionCode": "38",
+    "regionTvd": "1001000882966",
+    "regionName": "Иркутская область",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, внесенных в список": 21536,
@@ -1560,6 +1608,9 @@ export const president_2004_tic_227_region_38 = [
     "ballot": "presidential",
     "tikTvd": "238200073664",
     "tikName": "Жигаловская",
+    "regionCode": "38",
+    "regionTvd": "1001000882966",
+    "regionName": "Иркутская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список": 7351,
@@ -1633,6 +1684,9 @@ export const president_2004_tic_227_region_38 = [
     "ballot": "presidential",
     "tikTvd": "238200073665",
     "tikName": "Слюдянская",
+    "regionCode": "38",
+    "regionTvd": "1001000882966",
+    "regionName": "Иркутская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список": 35366,
@@ -1709,6 +1763,9 @@ export const president_2004_tic_227_region_38 = [
     "ballot": "presidential",
     "tikTvd": "238200073666",
     "tikName": "Братская",
+    "regionCode": "38",
+    "regionTvd": "1001000882966",
+    "regionName": "Иркутская область",
     "uikCount": 57,
     "accounting": {
       "Число избирателей, внесенных в список": 46502,
@@ -1814,6 +1871,9 @@ export const president_2004_tic_227_region_38 = [
     "ballot": "presidential",
     "tikTvd": "238200073667",
     "tikName": "Черемховская",
+    "regionCode": "38",
+    "regionTvd": "1001000882966",
+    "regionName": "Иркутская область",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, внесенных в список": 23749,
@@ -1904,6 +1964,9 @@ export const president_2004_tic_227_region_38 = [
     "ballot": "presidential",
     "tikTvd": "238200073668",
     "tikName": "Тайшетская городская",
+    "regionCode": "38",
+    "regionTvd": "1001000882966",
+    "regionName": "Иркутская область",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в список": 35683,
@@ -1985,6 +2048,9 @@ export const president_2004_tic_227_region_38 = [
     "ballot": "presidential",
     "tikTvd": "238200073669",
     "tikName": "Нижнеудинская городская",
+    "regionCode": "38",
+    "regionTvd": "1001000882966",
+    "regionName": "Иркутская область",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список": 33413,
@@ -2060,6 +2126,9 @@ export const president_2004_tic_227_region_38 = [
     "ballot": "presidential",
     "tikTvd": "238200073670",
     "tikName": "Саянская городская",
+    "regionCode": "38",
+    "regionTvd": "1001000882966",
+    "regionName": "Иркутская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список": 32969,
@@ -2130,6 +2199,9 @@ export const president_2004_tic_227_region_38 = [
     "ballot": "presidential",
     "tikTvd": "238200073671",
     "tikName": "Ольхонская",
+    "regionCode": "38",
+    "regionTvd": "1001000882966",
+    "regionName": "Иркутская область",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в список": 5695,
@@ -2195,6 +2267,9 @@ export const president_2004_tic_227_region_38 = [
     "ballot": "presidential",
     "tikTvd": "238200073672",
     "tikName": "Нижнеилимская",
+    "regionCode": "38",
+    "regionTvd": "1001000882966",
+    "regionName": "Иркутская область",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, внесенных в список": 49666,
@@ -2284,6 +2359,9 @@ export const president_2004_tic_227_region_38 = [
     "ballot": "presidential",
     "tikTvd": "238200073673",
     "tikName": "Куйтунская",
+    "regionCode": "38",
+    "regionTvd": "1001000882966",
+    "regionName": "Иркутская область",
     "uikCount": 68,
     "accounting": {
       "Число избирателей, внесенных в список": 25903,
@@ -2400,6 +2478,9 @@ export const president_2004_tic_227_region_38 = [
     "ballot": "presidential",
     "tikTvd": "238200073674",
     "tikName": "Мамско-Чуйская",
+    "regionCode": "38",
+    "regionTvd": "1001000882966",
+    "regionName": "Иркутская область",
     "uikCount": 9,
     "accounting": {
       "Число избирателей, внесенных в список": 6078,
@@ -2457,6 +2538,9 @@ export const president_2004_tic_227_region_38 = [
     "ballot": "presidential",
     "tikTvd": "238200073675",
     "tikName": "Киренская",
+    "regionCode": "38",
+    "regionTvd": "1001000882966",
+    "regionName": "Иркутская область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список": 17942,
@@ -2541,6 +2625,9 @@ export const president_2004_tic_227_region_38 = [
     "ballot": "presidential",
     "tikTvd": "238200073676",
     "tikName": "Зиминская",
+    "regionCode": "38",
+    "regionTvd": "1001000882966",
+    "regionName": "Иркутская область",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список": 10157,
@@ -2616,6 +2703,9 @@ export const president_2004_tic_227_region_38 = [
     "ballot": "presidential",
     "tikTvd": "238200073677",
     "tikName": "Катангская",
+    "regionCode": "38",
+    "regionTvd": "1001000882966",
+    "regionName": "Иркутская область",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, внесенных в список": 3334,
@@ -2675,6 +2765,9 @@ export const president_2004_tic_227_region_38 = [
     "ballot": "presidential",
     "tikTvd": "238200073678",
     "tikName": "Качугская",
+    "regionCode": "38",
+    "regionTvd": "1001000882966",
+    "regionName": "Иркутская область",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, внесенных в список": 14319,
@@ -2769,6 +2862,9 @@ export const president_2004_tic_227_region_38 = [
     "ballot": "presidential",
     "tikTvd": "238200073679",
     "tikName": "Тулунская ",
+    "regionCode": "38",
+    "regionTvd": "1001000882966",
+    "regionName": "Иркутская область",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, внесенных в список": 20567,
@@ -2867,6 +2963,9 @@ export const president_2004_tic_227_region_38 = [
     "ballot": "presidential",
     "tikTvd": "238200073680",
     "tikName": "Черемховская городская",
+    "regionCode": "38",
+    "regionTvd": "1001000882966",
+    "regionName": "Иркутская область",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в список": 51588,
@@ -2954,6 +3053,9 @@ export const president_2004_tic_227_region_38 = [
     "ballot": "presidential",
     "tikTvd": "238200073681",
     "tikName": "Чунская",
+    "regionCode": "38",
+    "regionTvd": "1001000882966",
+    "regionName": "Иркутская область",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в список": 28262,
@@ -3040,6 +3142,9 @@ export const president_2004_tic_227_region_38 = [
     "ballot": "presidential",
     "tikTvd": "238200073682",
     "tikName": "Шелеховская",
+    "regionCode": "38",
+    "regionTvd": "1001000882966",
+    "regionName": "Иркутская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список": 45295,
@@ -3114,6 +3219,9 @@ export const president_2004_tic_227_region_38 = [
     "ballot": "presidential",
     "tikTvd": "238200073683",
     "tikName": "Усть-Удинская",
+    "regionCode": "38",
+    "regionTvd": "1001000882966",
+    "regionName": "Иркутская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список": 11204,
@@ -3184,6 +3292,9 @@ export const president_2004_tic_227_region_38 = [
     "ballot": "presidential",
     "tikTvd": "238200073684",
     "tikName": "Усолье-Сибирская городская",
+    "regionCode": "38",
+    "regionTvd": "1001000882966",
+    "regionName": "Иркутская область",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в список": 69556,
@@ -3264,6 +3375,9 @@ export const president_2004_tic_227_region_38 = [
     "ballot": "presidential",
     "tikTvd": "238200073685",
     "tikName": "Тулунская городская",
+    "regionCode": "38",
+    "regionTvd": "1001000882966",
+    "regionName": "Иркутская область",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в список": 37841,
@@ -3350,6 +3464,9 @@ export const president_2004_tic_227_region_38 = [
     "ballot": "presidential",
     "tikTvd": "238200073686",
     "tikName": "Усть-Илимская",
+    "regionCode": "38",
+    "regionTvd": "1001000882966",
+    "regionName": "Иркутская область",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в список": 16069,
@@ -3414,6 +3531,9 @@ export const president_2004_tic_227_region_38 = [
     "ballot": "presidential",
     "tikTvd": "238200073687",
     "tikName": "Усть-Кутская городская",
+    "regionCode": "38",
+    "regionTvd": "1001000882966",
+    "regionName": "Иркутская область",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, внесенных в список": 44142,

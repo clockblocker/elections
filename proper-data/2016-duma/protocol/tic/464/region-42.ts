@@ -11,6 +11,14 @@ export const duma_2016_tic_464_region_42 = [
     "ballot": "single-member",
     "tikTvd": "2422000909133",
     "tikName": "Яшкинская",
+    "regionCode": "42",
+    "regionTvd": "100100067795985",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100067795986",
+      "oikName": "Кемеровская область – Кемеровский"
+    },
     "uikCount": 46,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 21060,
@@ -104,6 +112,14 @@ export const duma_2016_tic_464_region_42 = [
     "ballot": "single-member",
     "tikTvd": "2422000909134",
     "tikName": "Яйская",
+    "regionCode": "42",
+    "regionTvd": "100100067795985",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100067795986",
+      "oikName": "Кемеровская область – Кемеровский"
+    },
     "uikCount": 41,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 14352,
@@ -192,6 +208,14 @@ export const duma_2016_tic_464_region_42 = [
     "ballot": "single-member",
     "tikTvd": "2422000909135",
     "tikName": "Юргинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100067795985",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100067795986",
+      "oikName": "Кемеровская область – Кемеровский"
+    },
     "uikCount": 41,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 62785,
@@ -280,6 +304,14 @@ export const duma_2016_tic_464_region_42 = [
     "ballot": "single-member",
     "tikTvd": "2422000909136",
     "tikName": "Чебулинская",
+    "regionCode": "42",
+    "regionTvd": "100100067795985",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100067795986",
+      "oikName": "Кемеровская область – Кемеровский"
+    },
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 10789,
@@ -353,6 +385,14 @@ export const duma_2016_tic_464_region_42 = [
     "ballot": "single-member",
     "tikTvd": "2422000909137",
     "tikName": "Тяжинская",
+    "regionCode": "42",
+    "regionTvd": "100100067795985",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100067795986",
+      "oikName": "Кемеровская область – Кемеровский"
+    },
     "uikCount": 42,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 19772,
@@ -442,6 +482,14 @@ export const duma_2016_tic_464_region_42 = [
     "ballot": "single-member",
     "tikTvd": "2422000909138",
     "tikName": "Тисульская",
+    "regionCode": "42",
+    "regionTvd": "100100067795985",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100067795986",
+      "oikName": "Кемеровская область – Кемеровский"
+    },
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 17060,
@@ -524,6 +572,14 @@ export const duma_2016_tic_464_region_42 = [
     "ballot": "single-member",
     "tikTvd": "2422000909139",
     "tikName": "Тайгинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100067795985",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100067795986",
+      "oikName": "Кемеровская область – Кемеровский"
+    },
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 16113,
@@ -589,6 +645,14 @@ export const duma_2016_tic_464_region_42 = [
     "ballot": "single-member",
     "tikTvd": "2422000909140",
     "tikName": "Мариинская ",
+    "regionCode": "42",
+    "regionTvd": "100100067795985",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100067795986",
+      "oikName": "Кемеровская область – Кемеровский"
+    },
     "uikCount": 56,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 39069,
@@ -692,6 +756,14 @@ export const duma_2016_tic_464_region_42 = [
     "ballot": "single-member",
     "tikTvd": "2422000909141",
     "tikName": "Кемеровская",
+    "regionCode": "42",
+    "regionTvd": "100100067795985",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100067795986",
+      "oikName": "Кемеровская область – Кемеровский"
+    },
     "uikCount": 9,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 5016,
@@ -748,6 +820,14 @@ export const duma_2016_tic_464_region_42 = [
     "ballot": "single-member",
     "tikTvd": "2422000909142",
     "tikName": "Кемерово, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100067795985",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100067795986",
+      "oikName": "Кемеровская область – Кемеровский"
+    },
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 74092,
@@ -835,6 +915,14 @@ export const duma_2016_tic_464_region_42 = [
     "ballot": "single-member",
     "tikTvd": "2422000909143",
     "tikName": "Кемерово, Рудничная",
+    "regionCode": "42",
+    "regionTvd": "100100067795985",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100067795986",
+      "oikName": "Кемеровская область – Кемеровский"
+    },
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 56042,
@@ -909,6 +997,14 @@ export const duma_2016_tic_464_region_42 = [
     "ballot": "single-member",
     "tikTvd": "2422000909144",
     "tikName": "Кемерово, Кировская",
+    "regionCode": "42",
+    "regionTvd": "100100067795985",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100067795986",
+      "oikName": "Кемеровская область – Кемеровский"
+    },
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 42895,
@@ -975,6 +1071,14 @@ export const duma_2016_tic_464_region_42 = [
     "ballot": "single-member",
     "tikTvd": "2422000909145",
     "tikName": "Кемерово, Кедровская",
+    "regionCode": "42",
+    "regionTvd": "100100067795985",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100067795986",
+      "oikName": "Кемеровская область – Кемеровский"
+    },
     "uikCount": 8,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 16605,
@@ -1030,6 +1134,14 @@ export const duma_2016_tic_464_region_42 = [
     "ballot": "single-member",
     "tikTvd": "2422000909146",
     "tikName": "Ижморская",
+    "regionCode": "42",
+    "regionTvd": "100100067795985",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100067795986",
+      "oikName": "Кемеровская область – Кемеровский"
+    },
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 10728,
@@ -1116,6 +1228,14 @@ export const duma_2016_tic_464_region_42 = [
     "ballot": "single-member",
     "tikTvd": "2422000909147",
     "tikName": "Березовская городская",
+    "regionCode": "42",
+    "regionTvd": "100100067795985",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100067795986",
+      "oikName": "Кемеровская область – Кемеровский"
+    },
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 36757,
@@ -1188,6 +1308,14 @@ export const duma_2016_tic_464_region_42 = [
     "ballot": "single-member",
     "tikTvd": "2422000909148",
     "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100067795985",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100067795986",
+      "oikName": "Кемеровская область – Кемеровский"
+    },
     "uikCount": 60,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 63236,
@@ -1295,6 +1423,14 @@ export const duma_2016_tic_464_region_42 = [
     "ballot": "single-member",
     "tikTvd": "2422000909149",
     "tikName": "Прокопьевская",
+    "regionCode": "42",
+    "regionTvd": "100100067795985",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100067795987",
+      "oikName": "Кемеровская область – Прокопьевский"
+    },
     "uikCount": 42,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 22274,
@@ -1385,6 +1521,14 @@ export const duma_2016_tic_464_region_42 = [
     "ballot": "single-member",
     "tikTvd": "2422000909150",
     "tikName": "Прокопьевск, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100067795985",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100067795987",
+      "oikName": "Кемеровская область – Прокопьевский"
+    },
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 51215,
@@ -1468,6 +1612,14 @@ export const duma_2016_tic_464_region_42 = [
     "ballot": "single-member",
     "tikTvd": "2422000909151",
     "tikName": "Прокопьевск, Рудничная",
+    "regionCode": "42",
+    "regionTvd": "100100067795985",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100067795987",
+      "oikName": "Кемеровская область – Прокопьевский"
+    },
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 49964,
@@ -1541,6 +1693,14 @@ export const duma_2016_tic_464_region_42 = [
     "ballot": "single-member",
     "tikTvd": "2422000909152",
     "tikName": "Прокопьевск, Зенковская",
+    "regionCode": "42",
+    "regionTvd": "100100067795985",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100067795987",
+      "oikName": "Кемеровская область – Прокопьевский"
+    },
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 49635,
@@ -1624,6 +1784,14 @@ export const duma_2016_tic_464_region_42 = [
     "ballot": "single-member",
     "tikTvd": "2422000909153",
     "tikName": "Новокузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100067795985",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100067795987",
+      "oikName": "Кемеровская область – Прокопьевский"
+    },
     "uikCount": 55,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 22696,
@@ -1727,6 +1895,14 @@ export const duma_2016_tic_464_region_42 = [
     "ballot": "single-member",
     "tikTvd": "2422000909154",
     "tikName": "Мысковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100067795985",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100067795987",
+      "oikName": "Кемеровская область – Прокопьевский"
+    },
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 35275,
@@ -1800,6 +1976,14 @@ export const duma_2016_tic_464_region_42 = [
     "ballot": "single-member",
     "tikTvd": "2422000909155",
     "tikName": "Междуреченская городская",
+    "regionCode": "42",
+    "regionTvd": "100100067795985",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100067795987",
+      "oikName": "Кемеровская область – Прокопьевский"
+    },
     "uikCount": 48,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 77997,
@@ -1896,6 +2080,14 @@ export const duma_2016_tic_464_region_42 = [
     "ballot": "single-member",
     "tikTvd": "2422000909156",
     "tikName": "Крапивинская",
+    "regionCode": "42",
+    "regionTvd": "100100067795985",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100067795987",
+      "oikName": "Кемеровская область – Прокопьевский"
+    },
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 18198,
@@ -1974,6 +2166,14 @@ export const duma_2016_tic_464_region_42 = [
     "ballot": "single-member",
     "tikTvd": "2422000909157",
     "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100067795985",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100067795987",
+      "oikName": "Кемеровская область – Прокопьевский"
+    },
     "uikCount": 55,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 76223,
@@ -2077,6 +2277,14 @@ export const duma_2016_tic_464_region_42 = [
     "ballot": "single-member",
     "tikTvd": "2422000909158",
     "tikName": "Кемерово, Ленинская",
+    "regionCode": "42",
+    "regionTvd": "100100067795985",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100067795987",
+      "oikName": "Кемеровская область – Прокопьевский"
+    },
     "uikCount": 47,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 93980,
@@ -2172,6 +2380,14 @@ export const duma_2016_tic_464_region_42 = [
     "ballot": "single-member",
     "tikTvd": "2422000909159",
     "tikName": "Юргинская",
+    "regionCode": "42",
+    "regionTvd": "100100067795985",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 103,
+      "oikTvd": "100100067795988",
+      "oikName": "Кемеровская область – Заводский"
+    },
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 15062,
@@ -2258,6 +2474,14 @@ export const duma_2016_tic_464_region_42 = [
     "ballot": "single-member",
     "tikTvd": "2422000909160",
     "tikName": "Топкинская",
+    "regionCode": "42",
+    "regionTvd": "100100067795985",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 103,
+      "oikTvd": "100100067795988",
+      "oikName": "Кемеровская область – Заводский"
+    },
     "uikCount": 49,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 36727,
@@ -2355,6 +2579,14 @@ export const duma_2016_tic_464_region_42 = [
     "ballot": "single-member",
     "tikTvd": "2422000909161",
     "tikName": "Промышленновская",
+    "regionCode": "42",
+    "regionTvd": "100100067795985",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 103,
+      "oikTvd": "100100067795988",
+      "oikName": "Кемеровская область – Заводский"
+    },
     "uikCount": 60,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 34136,
@@ -2463,6 +2695,14 @@ export const duma_2016_tic_464_region_42 = [
     "ballot": "single-member",
     "tikTvd": "2422000909162",
     "tikName": "Полысаевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100067795985",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 103,
+      "oikTvd": "100100067795988",
+      "oikName": "Кемеровская область – Заводский"
+    },
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 22537,
@@ -2531,6 +2771,14 @@ export const duma_2016_tic_464_region_42 = [
     "ballot": "single-member",
     "tikTvd": "2422000909163",
     "tikName": "Ленинск-Кузнецкая городская",
+    "regionCode": "42",
+    "regionTvd": "100100067795985",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 103,
+      "oikTvd": "100100067795988",
+      "oikName": "Кемеровская область – Заводский"
+    },
     "uikCount": 58,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 78686,
@@ -2637,6 +2885,14 @@ export const duma_2016_tic_464_region_42 = [
     "ballot": "single-member",
     "tikTvd": "2422000909164",
     "tikName": "Ленинск-Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100067795985",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 103,
+      "oikTvd": "100100067795988",
+      "oikName": "Кемеровская область – Заводский"
+    },
     "uikCount": 42,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 18409,
@@ -2727,6 +2983,14 @@ export const duma_2016_tic_464_region_42 = [
     "ballot": "single-member",
     "tikTvd": "2422000909165",
     "tikName": "Краснобродская городская",
+    "regionCode": "42",
+    "regionTvd": "100100067795985",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 103,
+      "oikTvd": "100100067795988",
+      "oikName": "Кемеровская область – Заводский"
+    },
     "uikCount": 7,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 11001,
@@ -2782,6 +3046,14 @@ export const duma_2016_tic_464_region_42 = [
     "ballot": "single-member",
     "tikTvd": "2422000909166",
     "tikName": "Кемерово, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100067795985",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 103,
+      "oikTvd": "100100067795988",
+      "oikName": "Кемеровская область – Заводский"
+    },
     "uikCount": 58,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 105900,
@@ -2888,6 +3160,14 @@ export const duma_2016_tic_464_region_42 = [
     "ballot": "single-member",
     "tikTvd": "2422000909167",
     "tikName": "Гурьевская",
+    "regionCode": "42",
+    "regionTvd": "100100067795985",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 103,
+      "oikTvd": "100100067795988",
+      "oikName": "Кемеровская область – Заводский"
+    },
     "uikCount": 50,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 32758,
@@ -2986,6 +3266,14 @@ export const duma_2016_tic_464_region_42 = [
     "ballot": "single-member",
     "tikTvd": "2422000909168",
     "tikName": "Беловская городская",
+    "regionCode": "42",
+    "regionTvd": "100100067795985",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 103,
+      "oikTvd": "100100067795988",
+      "oikName": "Кемеровская область – Заводский"
+    },
     "uikCount": 55,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 97809,
@@ -3089,6 +3377,14 @@ export const duma_2016_tic_464_region_42 = [
     "ballot": "single-member",
     "tikTvd": "2422000909169",
     "tikName": "Беловская",
+    "regionCode": "42",
+    "regionTvd": "100100067795985",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 103,
+      "oikTvd": "100100067795988",
+      "oikName": "Кемеровская область – Заводский"
+    },
     "uikCount": 44,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 22237,
@@ -3181,6 +3477,14 @@ export const duma_2016_tic_464_region_42 = [
     "ballot": "single-member",
     "tikTvd": "2422000909170",
     "tikName": "Таштагольская ",
+    "regionCode": "42",
+    "regionTvd": "100100067795985",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100067795989",
+      "oikName": "Кемеровская область – Новокузнецкий"
+    },
     "uikCount": 44,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 38259,
@@ -3274,6 +3578,14 @@ export const duma_2016_tic_464_region_42 = [
     "ballot": "single-member",
     "tikTvd": "2422000909171",
     "tikName": "Осинниковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100067795985",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100067795989",
+      "oikName": "Кемеровская область – Новокузнецкий"
+    },
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 38730,
@@ -3345,6 +3657,14 @@ export const duma_2016_tic_464_region_42 = [
     "ballot": "single-member",
     "tikTvd": "2422000909172",
     "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100067795985",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100067795989",
+      "oikName": "Кемеровская область – Новокузнецкий"
+    },
     "uikCount": 58,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 125833,
@@ -3452,6 +3772,14 @@ export const duma_2016_tic_464_region_42 = [
     "ballot": "single-member",
     "tikTvd": "2422000909173",
     "tikName": "Новокузнецк, Орджоникидзевская",
+    "regionCode": "42",
+    "regionTvd": "100100067795985",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100067795989",
+      "oikName": "Кемеровская область – Новокузнецкий"
+    },
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 64000,
@@ -3532,6 +3860,14 @@ export const duma_2016_tic_464_region_42 = [
     "ballot": "single-member",
     "tikTvd": "2422000909174",
     "tikName": "Новокузнецк, Новоильинская",
+    "regionCode": "42",
+    "regionTvd": "100100067795985",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100067795989",
+      "oikName": "Кемеровская область – Новокузнецкий"
+    },
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 57670,
@@ -3611,6 +3947,14 @@ export const duma_2016_tic_464_region_42 = [
     "ballot": "single-member",
     "tikTvd": "2422000909175",
     "tikName": "Новокузнецк, Куйбышевская",
+    "regionCode": "42",
+    "regionTvd": "100100067795985",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100067795989",
+      "oikName": "Кемеровская область – Новокузнецкий"
+    },
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 57968,
@@ -3697,6 +4041,14 @@ export const duma_2016_tic_464_region_42 = [
     "ballot": "single-member",
     "tikTvd": "2422000909176",
     "tikName": "Новокузнецк, Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100067795985",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100067795989",
+      "oikName": "Кемеровская область – Новокузнецкий"
+    },
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 35227,
@@ -3764,6 +4116,14 @@ export const duma_2016_tic_464_region_42 = [
     "ballot": "single-member",
     "tikTvd": "2422000909177",
     "tikName": "Новокузнецк Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100067795985",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100067795989",
+      "oikName": "Кемеровская область – Новокузнецкий"
+    },
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 67754,
@@ -3851,6 +4211,14 @@ export const duma_2016_tic_464_region_42 = [
     "ballot": "single-member",
     "tikTvd": "2422000909178",
     "tikName": "Калтанская городская",
+    "regionCode": "42",
+    "regionTvd": "100100067795985",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100067795989",
+      "oikName": "Кемеровская область – Новокузнецкий"
+    },
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 25075,
@@ -3920,6 +4288,14 @@ export const duma_2016_tic_464_region_42 = [
     "ballot": "single-member",
     "tikTvd": "2422000909181",
     "tikName": "Кемеровская ",
+    "regionCode": "42",
+    "regionTvd": "100100067795985",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100067795987",
+      "oikName": "Кемеровская область – Прокопьевский"
+    },
     "uikCount": 10,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 9849,
@@ -3978,6 +4354,14 @@ export const duma_2016_tic_464_region_42 = [
     "ballot": "single-member",
     "tikTvd": "2422000909182",
     "tikName": "Кемеровская  ",
+    "regionCode": "42",
+    "regionTvd": "100100067795985",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 103,
+      "oikTvd": "100100067795988",
+      "oikName": "Кемеровская область – Заводский"
+    },
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 18714,
@@ -4041,6 +4425,14 @@ export const duma_2016_tic_464_region_42 = [
     "ballot": "single-member",
     "tikTvd": "2422000909183",
     "tikName": "Новокузнецкая ",
+    "regionCode": "42",
+    "regionTvd": "100100067795985",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 104,
+      "oikTvd": "100100067795989",
+      "oikName": "Кемеровская область – Новокузнецкий"
+    },
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 12867,

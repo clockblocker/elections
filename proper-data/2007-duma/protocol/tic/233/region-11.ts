@@ -11,6 +11,9 @@ export const duma_2007_tic_233_region_11 = [
     "ballot": "party",
     "tikTvd": "2112000165202",
     "tikName": "Ухтинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100021960203",
+    "regionName": "Республика Коми",
     "uikCount": 56,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 98234,
@@ -121,6 +124,9 @@ export const duma_2007_tic_233_region_11 = [
     "ballot": "party",
     "tikTvd": "2112000165203",
     "tikName": "Усть-Вымская",
+    "regionCode": "11",
+    "regionTvd": "100100021960203",
+    "regionName": "Республика Коми",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 25036,
@@ -203,6 +209,9 @@ export const duma_2007_tic_233_region_11 = [
     "ballot": "party",
     "tikTvd": "2112000165204",
     "tikName": "Усть-Куломская",
+    "regionCode": "11",
+    "regionTvd": "100100021960203",
+    "regionName": "Республика Коми",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 22869,
@@ -300,6 +309,9 @@ export const duma_2007_tic_233_region_11 = [
     "ballot": "party",
     "tikTvd": "2112000165205",
     "tikName": "Усть-Цилемская",
+    "regionCode": "11",
+    "regionTvd": "100100021960203",
+    "regionName": "Республика Коми",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 11438,
@@ -375,6 +387,9 @@ export const duma_2007_tic_233_region_11 = [
     "ballot": "party",
     "tikTvd": "2112000165206",
     "tikName": "Усинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100021960203",
+    "regionName": "Республика Коми",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 41002,
@@ -458,6 +473,9 @@ export const duma_2007_tic_233_region_11 = [
     "ballot": "party",
     "tikTvd": "2112000165207",
     "tikName": "Удорская",
+    "regionCode": "11",
+    "regionTvd": "100100021960203",
+    "regionName": "Республика Коми",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 15785,
@@ -539,6 +557,9 @@ export const duma_2007_tic_233_region_11 = [
     "ballot": "party",
     "tikTvd": "2112000165208",
     "tikName": "Троицко-Печорская",
+    "regionCode": "11",
+    "regionTvd": "100100021960203",
+    "regionName": "Республика Коми",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 12407,
@@ -617,6 +638,9 @@ export const duma_2007_tic_233_region_11 = [
     "ballot": "party",
     "tikTvd": "2112000165209",
     "tikName": "Сыктывкарская городская",
+    "regionCode": "11",
+    "regionTvd": "100100021960203",
+    "regionName": "Республика Коми",
     "uikCount": 80,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 149112,
@@ -751,6 +775,9 @@ export const duma_2007_tic_233_region_11 = [
     "ballot": "party",
     "tikTvd": "2112000165210",
     "tikName": "Эжвинская",
+    "regionCode": "11",
+    "regionTvd": "100100021960203",
+    "regionName": "Республика Коми",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 41266,
@@ -826,6 +853,9 @@ export const duma_2007_tic_233_region_11 = [
     "ballot": "party",
     "tikTvd": "2112000165211",
     "tikName": "Сысольская",
+    "regionCode": "11",
+    "regionTvd": "100100021960203",
+    "regionName": "Республика Коми",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 12529,
@@ -904,6 +934,9 @@ export const duma_2007_tic_233_region_11 = [
     "ballot": "party",
     "tikTvd": "2112000165212",
     "tikName": "Сосногорская городская",
+    "regionCode": "11",
+    "regionTvd": "100100021960203",
+    "regionName": "Республика Коми",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 40521,
@@ -991,6 +1024,9 @@ export const duma_2007_tic_233_region_11 = [
     "ballot": "party",
     "tikTvd": "2112000165213",
     "tikName": "Прилузская",
+    "regionCode": "11",
+    "regionTvd": "100100021960203",
+    "regionName": "Республика Коми",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 19228,
@@ -1089,6 +1125,9 @@ export const duma_2007_tic_233_region_11 = [
     "ballot": "party",
     "tikTvd": "2112000165214",
     "tikName": "Сыктывдинская",
+    "regionCode": "11",
+    "regionTvd": "100100021960203",
+    "regionName": "Республика Коми",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 18254,
@@ -1170,6 +1209,9 @@ export const duma_2007_tic_233_region_11 = [
     "ballot": "party",
     "tikTvd": "2112000165215",
     "tikName": "Печорская городская",
+    "regionCode": "11",
+    "regionTvd": "100100021960203",
+    "regionName": "Республика Коми",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 52152,
@@ -1274,6 +1316,9 @@ export const duma_2007_tic_233_region_11 = [
     "ballot": "party",
     "tikTvd": "2112000165216",
     "tikName": "Койгородская",
+    "regionCode": "11",
+    "regionTvd": "100100021960203",
+    "regionName": "Республика Коми",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 7863,
@@ -1344,6 +1389,9 @@ export const duma_2007_tic_233_region_11 = [
     "ballot": "party",
     "tikTvd": "2112000165217",
     "tikName": "Корткеросская",
+    "regionCode": "11",
+    "regionTvd": "100100021960203",
+    "regionName": "Республика Коми",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 18386,
@@ -1428,6 +1476,9 @@ export const duma_2007_tic_233_region_11 = [
     "ballot": "party",
     "tikTvd": "2112000165218",
     "tikName": "Интинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100021960203",
+    "regionName": "Республика Коми",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 34985,
@@ -1507,6 +1558,9 @@ export const duma_2007_tic_233_region_11 = [
     "ballot": "party",
     "tikTvd": "2112000165219",
     "tikName": "Ижемская",
+    "regionCode": "11",
+    "regionTvd": "100100021960203",
+    "regionName": "Республика Коми",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 15311,
@@ -1586,6 +1640,9 @@ export const duma_2007_tic_233_region_11 = [
     "ballot": "party",
     "tikTvd": "2112000165220",
     "tikName": "Княжпогостская",
+    "regionCode": "11",
+    "regionTvd": "100100021960203",
+    "regionName": "Республика Коми",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 18245,
@@ -1668,6 +1725,9 @@ export const duma_2007_tic_233_region_11 = [
     "ballot": "party",
     "tikTvd": "2112000165221",
     "tikName": "Вуктыльская городская",
+    "regionCode": "11",
+    "regionTvd": "100100021960203",
+    "regionName": "Республика Коми",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 13726,
@@ -1733,6 +1793,9 @@ export const duma_2007_tic_233_region_11 = [
     "ballot": "party",
     "tikTvd": "2112000165222",
     "tikName": "Воркутинская городская",
+    "regionCode": "11",
+    "regionTvd": "100100021960203",
+    "regionName": "Республика Коми",
     "uikCount": 56,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 88622,

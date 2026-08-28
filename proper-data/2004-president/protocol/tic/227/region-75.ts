@@ -11,6 +11,9 @@ export const president_2004_tic_227_region_75 = [
     "ballot": "presidential",
     "tikTvd": "275200071309",
     "tikName": "Акшинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список": 8693,
@@ -74,6 +77,9 @@ export const president_2004_tic_227_region_75 = [
     "ballot": "presidential",
     "tikTvd": "275200071310",
     "tikName": "Александрово-Заводская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список": 7291,
@@ -149,6 +155,9 @@ export const president_2004_tic_227_region_75 = [
     "ballot": "presidential",
     "tikTvd": "275200071311",
     "tikName": "Балейская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список": 6868,
@@ -220,6 +229,9 @@ export const president_2004_tic_227_region_75 = [
     "ballot": "presidential",
     "tikTvd": "275200071312",
     "tikName": "Балейская городская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в список": 10790,
@@ -282,6 +294,9 @@ export const president_2004_tic_227_region_75 = [
     "ballot": "presidential",
     "tikTvd": "275200071313",
     "tikName": "Борзинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в список": 39361,
@@ -369,6 +384,9 @@ export const president_2004_tic_227_region_75 = [
     "ballot": "presidential",
     "tikTvd": "275200071314",
     "tikName": "Газимуро-Заводская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список": 6789,
@@ -437,6 +455,9 @@ export const president_2004_tic_227_region_75 = [
     "ballot": "presidential",
     "tikTvd": "275200071315",
     "tikName": "Забайкальская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список": 15496,
@@ -500,6 +521,9 @@ export const president_2004_tic_227_region_75 = [
     "ballot": "presidential",
     "tikTvd": "275200071316",
     "tikName": "Каларская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в список": 7275,
@@ -564,6 +588,9 @@ export const president_2004_tic_227_region_75 = [
     "ballot": "presidential",
     "tikTvd": "275200071317",
     "tikName": "Калганская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, внесенных в список": 7015,
@@ -623,6 +650,9 @@ export const president_2004_tic_227_region_75 = [
     "ballot": "presidential",
     "tikTvd": "275200071318",
     "tikName": "Карымская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в список": 25805,
@@ -702,6 +732,9 @@ export const president_2004_tic_227_region_75 = [
     "ballot": "presidential",
     "tikTvd": "275200071319",
     "tikName": "Краснокаменская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в список": 51610,
@@ -789,6 +822,9 @@ export const president_2004_tic_227_region_75 = [
     "ballot": "presidential",
     "tikTvd": "275200071320",
     "tikName": "Красночикойская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в список": 15772,
@@ -870,6 +906,9 @@ export const president_2004_tic_227_region_75 = [
     "ballot": "presidential",
     "tikTvd": "275200071321",
     "tikName": "Кыринская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список": 11709,
@@ -937,6 +976,9 @@ export const president_2004_tic_227_region_75 = [
     "ballot": "presidential",
     "tikTvd": "275200071322",
     "tikName": "Могочинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список": 19029,
@@ -1005,6 +1047,9 @@ export const president_2004_tic_227_region_75 = [
     "ballot": "presidential",
     "tikTvd": "275200071323",
     "tikName": "Нерчинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в список": 19247,
@@ -1091,6 +1136,9 @@ export const president_2004_tic_227_region_75 = [
     "ballot": "presidential",
     "tikTvd": "275200071324",
     "tikName": "Нерчинско-Заводская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список": 8777,
@@ -1161,6 +1209,9 @@ export const president_2004_tic_227_region_75 = [
     "ballot": "presidential",
     "tikTvd": "275200071325",
     "tikName": "Оловяннинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в список": 32587,
@@ -1248,6 +1299,9 @@ export const president_2004_tic_227_region_75 = [
     "ballot": "presidential",
     "tikTvd": "275200071326",
     "tikName": "Ононская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список": 9022,
@@ -1317,6 +1371,9 @@ export const president_2004_tic_227_region_75 = [
     "ballot": "presidential",
     "tikTvd": "275200071327",
     "tikName": "Петровск-Забайкальская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список": 14396,
@@ -1388,6 +1445,9 @@ export const president_2004_tic_227_region_75 = [
     "ballot": "presidential",
     "tikTvd": "275200071328",
     "tikName": "Петровск-Забайкальская городская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список": 16603,
@@ -1458,6 +1518,9 @@ export const president_2004_tic_227_region_75 = [
     "ballot": "presidential",
     "tikTvd": "275200071329",
     "tikName": "Приаргунская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список": 18942,
@@ -1533,6 +1596,9 @@ export const president_2004_tic_227_region_75 = [
     "ballot": "presidential",
     "tikTvd": "275200071330",
     "tikName": "Сретенская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в список": 19365,
@@ -1621,6 +1687,9 @@ export const president_2004_tic_227_region_75 = [
     "ballot": "presidential",
     "tikTvd": "275200071331",
     "tikName": "Тунгиро-Олекминская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
     "uikCount": 5,
     "accounting": {
       "Число избирателей, внесенных в список": 1193,
@@ -1674,6 +1743,9 @@ export const president_2004_tic_227_region_75 = [
     "ballot": "presidential",
     "tikTvd": "275200071332",
     "tikName": "Тунгокоченская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список": 11135,
@@ -1742,6 +1814,9 @@ export const president_2004_tic_227_region_75 = [
     "ballot": "presidential",
     "tikTvd": "275200071333",
     "tikName": "Улетовская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список": 16041,
@@ -1814,6 +1889,9 @@ export const president_2004_tic_227_region_75 = [
     "ballot": "presidential",
     "tikTvd": "275200071334",
     "tikName": "Хилокская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список": 24513,
@@ -1888,6 +1966,9 @@ export const president_2004_tic_227_region_75 = [
     "ballot": "presidential",
     "tikTvd": "275200071335",
     "tikName": "Чернышевская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в список": 26092,
@@ -1974,6 +2055,9 @@ export const president_2004_tic_227_region_75 = [
     "ballot": "presidential",
     "tikTvd": "275200071336",
     "tikName": "Железнодорожная, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в список": 34972,
@@ -2036,6 +2120,9 @@ export const president_2004_tic_227_region_75 = [
     "ballot": "presidential",
     "tikTvd": "275200071337",
     "tikName": "Ингодинская, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список": 54012,
@@ -2110,6 +2197,9 @@ export const president_2004_tic_227_region_75 = [
     "ballot": "presidential",
     "tikTvd": "275200071338",
     "tikName": "Центральная, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в список": 90096,
@@ -2193,6 +2283,9 @@ export const president_2004_tic_227_region_75 = [
     "ballot": "presidential",
     "tikTvd": "275200071339",
     "tikName": "Черновская, Чита",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в список": 63988,
@@ -2273,6 +2366,9 @@ export const president_2004_tic_227_region_75 = [
     "ballot": "presidential",
     "tikTvd": "275200071340",
     "tikName": "Читинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
     "uikCount": 54,
     "accounting": {
       "Число избирателей, внесенных в список": 43505,
@@ -2375,6 +2471,9 @@ export const president_2004_tic_227_region_75 = [
     "ballot": "presidential",
     "tikTvd": "275200071341",
     "tikName": "Читинская-46 поселковая",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
     "uikCount": 3,
     "accounting": {
       "Число избирателей, внесенных в список": 6706,
@@ -2426,6 +2525,9 @@ export const president_2004_tic_227_region_75 = [
     "ballot": "presidential",
     "tikTvd": "275200071342",
     "tikName": "Шелопугинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список": 6831,
@@ -2496,6 +2598,9 @@ export const president_2004_tic_227_region_75 = [
     "ballot": "presidential",
     "tikTvd": "275200071343",
     "tikName": "Шилкинская",
+    "regionCode": "75",
+    "regionTvd": "1001000883238",
+    "regionName": "Читинская область",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, внесенных в список": 34590,

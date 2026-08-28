@@ -11,6 +11,14 @@ export const duma_2016_tic_464_region_46 = [
     "ballot": "single-member",
     "tikTvd": "2462000730296",
     "tikName": "Беловская",
+    "regionCode": "46",
+    "regionTvd": "100100067795997",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100067795999",
+      "oikName": "Курская область – Сеймский"
+    },
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 15219,
@@ -93,6 +101,14 @@ export const duma_2016_tic_464_region_46 = [
     "ballot": "single-member",
     "tikTvd": "2462000730297",
     "tikName": "Большесолдатская",
+    "regionCode": "46",
+    "regionTvd": "100100067795997",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100067795999",
+      "oikName": "Курская область – Сеймский"
+    },
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 9740,
@@ -171,6 +187,14 @@ export const duma_2016_tic_464_region_46 = [
     "ballot": "single-member",
     "tikTvd": "2462000730298",
     "tikName": "Щигровская",
+    "regionCode": "46",
+    "regionTvd": "100100067795997",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100067795999",
+      "oikName": "Курская область – Сеймский"
+    },
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 9974,
@@ -253,6 +277,14 @@ export const duma_2016_tic_464_region_46 = [
     "ballot": "single-member",
     "tikTvd": "2462000730299",
     "tikName": "Черемисиновская",
+    "regionCode": "46",
+    "regionTvd": "100100067795997",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100067795999",
+      "oikName": "Курская область – Сеймский"
+    },
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 8472,
@@ -331,6 +363,14 @@ export const duma_2016_tic_464_region_46 = [
     "ballot": "single-member",
     "tikTvd": "2462000730300",
     "tikName": "Тимская",
+    "regionCode": "46",
+    "regionTvd": "100100067795997",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100067795999",
+      "oikName": "Курская область – Сеймский"
+    },
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 9693,
@@ -410,6 +450,14 @@ export const duma_2016_tic_464_region_46 = [
     "ballot": "single-member",
     "tikTvd": "2462000730301",
     "tikName": "Cуджанская",
+    "regionCode": "46",
+    "regionTvd": "100100067795997",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100067795999",
+      "oikName": "Курская область – Сеймский"
+    },
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 22838,
@@ -498,6 +546,14 @@ export const duma_2016_tic_464_region_46 = [
     "ballot": "single-member",
     "tikTvd": "2462000730302",
     "tikName": "Солнцевская",
+    "regionCode": "46",
+    "regionTvd": "100100067795997",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100067795999",
+      "oikName": "Курская область – Сеймский"
+    },
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 12397,
@@ -577,6 +633,14 @@ export const duma_2016_tic_464_region_46 = [
     "ballot": "single-member",
     "tikTvd": "2462000730303",
     "tikName": " Советская",
+    "regionCode": "46",
+    "regionTvd": "100100067795997",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100067795999",
+      "oikName": "Курская область – Сеймский"
+    },
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 16039,
@@ -670,6 +734,14 @@ export const duma_2016_tic_464_region_46 = [
     "ballot": "single-member",
     "tikTvd": "2462000730304",
     "tikName": "Рыльская",
+    "regionCode": "46",
+    "regionTvd": "100100067795997",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100067795999",
+      "oikName": "Курская область – Сеймский"
+    },
     "uikCount": 48,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 27176,
@@ -772,6 +844,14 @@ export const duma_2016_tic_464_region_46 = [
     "ballot": "single-member",
     "tikTvd": "2462000730305",
     "tikName": "Пристенская",
+    "regionCode": "46",
+    "regionTvd": "100100067795997",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100067795999",
+      "oikName": "Курская область – Сеймский"
+    },
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 13948,
@@ -856,6 +936,14 @@ export const duma_2016_tic_464_region_46 = [
     "ballot": "single-member",
     "tikTvd": "2462000730306",
     "tikName": "Обоянская",
+    "regionCode": "46",
+    "regionTvd": "100100067795997",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100067795999",
+      "oikName": "Курская область – Сеймский"
+    },
     "uikCount": 43,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 25661,
@@ -953,6 +1041,14 @@ export const duma_2016_tic_464_region_46 = [
     "ballot": "single-member",
     "tikTvd": "2462000730307",
     "tikName": "Медвенская",
+    "regionCode": "46",
+    "regionTvd": "100100067795997",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100067795999",
+      "oikName": "Курская область – Сеймский"
+    },
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 14318,
@@ -1029,6 +1125,14 @@ export const duma_2016_tic_464_region_46 = [
     "ballot": "single-member",
     "tikTvd": "2462000730308",
     "tikName": "Мантуровская",
+    "regionCode": "46",
+    "regionTvd": "100100067795997",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100067795999",
+      "oikName": "Курская область – Сеймский"
+    },
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 10921,
@@ -1104,6 +1208,14 @@ export const duma_2016_tic_464_region_46 = [
     "ballot": "single-member",
     "tikTvd": "2462000730309",
     "tikName": "Курская - 110",
+    "regionCode": "46",
+    "regionTvd": "100100067795997",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100067795999",
+      "oikName": "Курская область – Сеймский"
+    },
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 26101,
@@ -1190,6 +1302,14 @@ export const duma_2016_tic_464_region_46 = [
     "ballot": "single-member",
     "tikTvd": "2462000730310",
     "tikName": "Курск, Сеймская",
+    "regionCode": "46",
+    "regionTvd": "100100067795997",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100067795999",
+      "oikName": "Курская область – Сеймский"
+    },
     "uikCount": 66,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 117687,
@@ -1310,6 +1430,14 @@ export const duma_2016_tic_464_region_46 = [
     "ballot": "single-member",
     "tikTvd": "2462000730311",
     "tikName": "Курск, Железнодорожная",
+    "regionCode": "46",
+    "regionTvd": "100100067795997",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100067795999",
+      "oikName": "Курская область – Сеймский"
+    },
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 55330,
@@ -1397,6 +1525,14 @@ export const duma_2016_tic_464_region_46 = [
     "ballot": "single-member",
     "tikTvd": "2462000730312",
     "tikName": "Кореневская",
+    "regionCode": "46",
+    "regionTvd": "100100067795997",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100067795999",
+      "oikName": "Курская область – Сеймский"
+    },
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 14711,
@@ -1477,6 +1613,14 @@ export const duma_2016_tic_464_region_46 = [
     "ballot": "single-member",
     "tikTvd": "2462000730313",
     "tikName": "Касторенская",
+    "regionCode": "46",
+    "regionTvd": "100100067795997",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100067795999",
+      "oikName": "Курская область – Сеймский"
+    },
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 15547,
@@ -1565,6 +1709,14 @@ export const duma_2016_tic_464_region_46 = [
     "ballot": "single-member",
     "tikTvd": "2462000730314",
     "tikName": "Горшеченская",
+    "regionCode": "46",
+    "regionTvd": "100100067795997",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100067795999",
+      "oikName": "Курская область – Сеймский"
+    },
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 14693,
@@ -1654,6 +1806,14 @@ export const duma_2016_tic_464_region_46 = [
     "ballot": "single-member",
     "tikTvd": "2462000730315",
     "tikName": "Глушковская",
+    "regionCode": "46",
+    "regionTvd": "100100067795997",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100067795999",
+      "oikName": "Курская область – Сеймский"
+    },
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 19404,
@@ -1737,6 +1897,14 @@ export const duma_2016_tic_464_region_46 = [
     "ballot": "single-member",
     "tikTvd": "2462000730316",
     "tikName": "Щигровская городская",
+    "regionCode": "46",
+    "regionTvd": "100100067795997",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100067795999",
+      "oikName": "Курская область – Сеймский"
+    },
     "uikCount": 10,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 14683,
@@ -1801,6 +1969,14 @@ export const duma_2016_tic_464_region_46 = [
     "ballot": "single-member",
     "tikTvd": "2462000730487",
     "tikName": "Дмитриевская",
+    "regionCode": "46",
+    "regionTvd": "100100067795997",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100067795998",
+      "oikName": "Курская область – Курский"
+    },
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 13950,
@@ -1881,6 +2057,14 @@ export const duma_2016_tic_464_region_46 = [
     "ballot": "single-member",
     "tikTvd": "2462000730488",
     "tikName": "Железногорская городская",
+    "regionCode": "46",
+    "regionTvd": "100100067795997",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100067795998",
+      "oikName": "Курская область – Курский"
+    },
     "uikCount": 44,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 84800,
@@ -1977,6 +2161,14 @@ export const duma_2016_tic_464_region_46 = [
     "ballot": "single-member",
     "tikTvd": "2462000730489",
     "tikName": "Золотухинская",
+    "regionCode": "46",
+    "regionTvd": "100100067795997",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100067795998",
+      "oikName": "Курская область – Курский"
+    },
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 18428,
@@ -2064,6 +2256,14 @@ export const duma_2016_tic_464_region_46 = [
     "ballot": "single-member",
     "tikTvd": "2462000730490",
     "tikName": "Конышевская",
+    "regionCode": "46",
+    "regionTvd": "100100067795997",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100067795998",
+      "oikName": "Курская область – Курский"
+    },
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 8963,
@@ -2142,6 +2342,14 @@ export const duma_2016_tic_464_region_46 = [
     "ballot": "single-member",
     "tikTvd": "2462000730491",
     "tikName": "Курск, Центральная",
+    "regionCode": "46",
+    "regionTvd": "100100067795997",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100067795998",
+      "oikName": "Курская область – Курский"
+    },
     "uikCount": 111,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 179474,
@@ -2305,6 +2513,14 @@ export const duma_2016_tic_464_region_46 = [
     "ballot": "single-member",
     "tikTvd": "2462000730492",
     "tikName": "Курчатовская",
+    "regionCode": "46",
+    "regionTvd": "100100067795997",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100067795998",
+      "oikName": "Курская область – Курский"
+    },
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 14125,
@@ -2382,6 +2598,14 @@ export const duma_2016_tic_464_region_46 = [
     "ballot": "single-member",
     "tikTvd": "2462000730493",
     "tikName": "Льговская",
+    "regionCode": "46",
+    "regionTvd": "100100067795997",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100067795998",
+      "oikName": "Курская область – Курский"
+    },
     "uikCount": 42,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 11741,
@@ -2476,6 +2700,14 @@ export const duma_2016_tic_464_region_46 = [
     "ballot": "single-member",
     "tikTvd": "2462000730494",
     "tikName": "Октябрьская",
+    "regionCode": "46",
+    "regionTvd": "100100067795997",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100067795998",
+      "oikName": "Курская область – Курский"
+    },
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 18505,
@@ -2554,6 +2786,14 @@ export const duma_2016_tic_464_region_46 = [
     "ballot": "single-member",
     "tikTvd": "2462000730495",
     "tikName": "Поныровская",
+    "regionCode": "46",
+    "regionTvd": "100100067795997",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100067795998",
+      "oikName": "Курская область – Курский"
+    },
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 9604,
@@ -2623,6 +2863,14 @@ export const duma_2016_tic_464_region_46 = [
     "ballot": "single-member",
     "tikTvd": "2462000730496",
     "tikName": "Фатежская",
+    "regionCode": "46",
+    "regionTvd": "100100067795997",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100067795998",
+      "oikName": "Курская область – Курский"
+    },
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 16407,
@@ -2706,6 +2954,14 @@ export const duma_2016_tic_464_region_46 = [
     "ballot": "single-member",
     "tikTvd": "2462000730497",
     "tikName": "Хомутовская",
+    "regionCode": "46",
+    "regionTvd": "100100067795997",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100067795998",
+      "oikName": "Курская область – Курский"
+    },
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 9664,
@@ -2788,6 +3044,14 @@ export const duma_2016_tic_464_region_46 = [
     "ballot": "single-member",
     "tikTvd": "2462000730498",
     "tikName": "Железногорская",
+    "regionCode": "46",
+    "regionTvd": "100100067795997",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100067795998",
+      "oikName": "Курская область – Курский"
+    },
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 12636,
@@ -2867,6 +3131,14 @@ export const duma_2016_tic_464_region_46 = [
     "ballot": "single-member",
     "tikTvd": "2462000730499",
     "tikName": "Курчатовская городская",
+    "regionCode": "46",
+    "regionTvd": "100100067795997",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100067795998",
+      "oikName": "Курская область – Курский"
+    },
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 34834,
@@ -2939,6 +3211,14 @@ export const duma_2016_tic_464_region_46 = [
     "ballot": "single-member",
     "tikTvd": "2462000730500",
     "tikName": "Льговская городская",
+    "regionCode": "46",
+    "regionTvd": "100100067795997",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100067795998",
+      "oikName": "Курская область – Курский"
+    },
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 16536,
@@ -3006,6 +3286,14 @@ export const duma_2016_tic_464_region_46 = [
     "ballot": "single-member",
     "tikTvd": "2462000730504",
     "tikName": "Курская  - 109",
+    "regionCode": "46",
+    "regionTvd": "100100067795997",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100067795998",
+      "oikName": "Курская область – Курский"
+    },
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 18093,

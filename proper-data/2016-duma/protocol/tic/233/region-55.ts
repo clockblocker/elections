@@ -11,6 +11,9 @@ export const duma_2016_tic_233_region_55 = [
     "ballot": "party",
     "tikTvd": "2552000897331",
     "tikName": "Омск, Октябрьская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
     "uikCount": 73,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 136352,
@@ -140,6 +143,9 @@ export const duma_2016_tic_233_region_55 = [
     "ballot": "party",
     "tikTvd": "2552000897332",
     "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
     "uikCount": 125,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 222958,
@@ -321,6 +327,9 @@ export const duma_2016_tic_233_region_55 = [
     "ballot": "party",
     "tikTvd": "2552000897333",
     "tikName": "Калачинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
     "uikCount": 55,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 35529,
@@ -432,6 +441,9 @@ export const duma_2016_tic_233_region_55 = [
     "ballot": "party",
     "tikTvd": "2552000897334",
     "tikName": "Кормиловская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 20128,
@@ -527,6 +539,9 @@ export const duma_2016_tic_233_region_55 = [
     "ballot": "party",
     "tikTvd": "2552000897335",
     "tikName": "Нововаршавская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 18693,
@@ -618,6 +633,9 @@ export const duma_2016_tic_233_region_55 = [
     "ballot": "party",
     "tikTvd": "2552000897336",
     "tikName": "Оконешниковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 11529,
@@ -703,6 +721,9 @@ export const duma_2016_tic_233_region_55 = [
     "ballot": "party",
     "tikTvd": "2552000897337",
     "tikName": "Павлоградская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 15159,
@@ -794,6 +815,9 @@ export const duma_2016_tic_233_region_55 = [
     "ballot": "party",
     "tikTvd": "2552000897338",
     "tikName": "Русско-Полянская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 16005,
@@ -880,6 +904,9 @@ export const duma_2016_tic_233_region_55 = [
     "ballot": "party",
     "tikTvd": "2552000897339",
     "tikName": "Черлакская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
     "uikCount": 45,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 22960,
@@ -981,6 +1008,9 @@ export const duma_2016_tic_233_region_55 = [
     "ballot": "party",
     "tikTvd": "2552000897340",
     "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 19165,
@@ -1061,6 +1091,9 @@ export const duma_2016_tic_233_region_55 = [
     "ballot": "party",
     "tikTvd": "2552000897341",
     "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
     "uikCount": 99,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 201934,
@@ -1216,6 +1249,9 @@ export const duma_2016_tic_233_region_55 = [
     "ballot": "party",
     "tikTvd": "2552000897342",
     "tikName": "Омск, Ленинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
     "uikCount": 82,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 158623,
@@ -1354,6 +1390,9 @@ export const duma_2016_tic_233_region_55 = [
     "ballot": "party",
     "tikTvd": "2552000897343",
     "tikName": "Азовская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 17468,
@@ -1445,6 +1484,9 @@ export const duma_2016_tic_233_region_55 = [
     "ballot": "party",
     "tikTvd": "2552000897344",
     "tikName": "Марьяновская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 20122,
@@ -1543,6 +1585,9 @@ export const duma_2016_tic_233_region_55 = [
     "ballot": "party",
     "tikTvd": "2552000897345",
     "tikName": "Москаленская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
     "uikCount": 47,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 22337,
@@ -1646,6 +1691,9 @@ export const duma_2016_tic_233_region_55 = [
     "ballot": "party",
     "tikTvd": "2552000897346",
     "tikName": "Одесская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 12155,
@@ -1726,6 +1774,9 @@ export const duma_2016_tic_233_region_55 = [
     "ballot": "party",
     "tikTvd": "2552000897347",
     "tikName": "Таврическая",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
     "uikCount": 48,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 28026,
@@ -1830,6 +1881,9 @@ export const duma_2016_tic_233_region_55 = [
     "ballot": "party",
     "tikTvd": "2552000897348",
     "tikName": "Шербакульская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 17639,
@@ -1922,6 +1976,9 @@ export const duma_2016_tic_233_region_55 = [
     "ballot": "party",
     "tikTvd": "2552000897349",
     "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 40797,
@@ -2011,6 +2068,9 @@ export const duma_2016_tic_233_region_55 = [
     "ballot": "party",
     "tikTvd": "2552000897350",
     "tikName": "Полтавская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 17261,
@@ -2107,6 +2167,9 @@ export const duma_2016_tic_233_region_55 = [
     "ballot": "party",
     "tikTvd": "2552000897351",
     "tikName": "Омск, Советская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
     "uikCount": 98,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 188349,
@@ -2261,6 +2324,9 @@ export const duma_2016_tic_233_region_55 = [
     "ballot": "party",
     "tikTvd": "2552000897352",
     "tikName": "Большереченская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
     "uikCount": 67,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 23346,
@@ -2384,6 +2450,9 @@ export const duma_2016_tic_233_region_55 = [
     "ballot": "party",
     "tikTvd": "2552000897353",
     "tikName": "Большеуковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 6649,
@@ -2458,6 +2527,9 @@ export const duma_2016_tic_233_region_55 = [
     "ballot": "party",
     "tikTvd": "2552000897354",
     "tikName": "Горьковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
     "uikCount": 45,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 18180,
@@ -2559,6 +2631,9 @@ export const duma_2016_tic_233_region_55 = [
     "ballot": "party",
     "tikTvd": "2552000897355",
     "tikName": "Знаменская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 9677,
@@ -2644,6 +2719,9 @@ export const duma_2016_tic_233_region_55 = [
     "ballot": "party",
     "tikTvd": "2552000897356",
     "tikName": "Исилькульская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
     "uikCount": 52,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 31502,
@@ -2752,6 +2830,9 @@ export const duma_2016_tic_233_region_55 = [
     "ballot": "party",
     "tikTvd": "2552000897357",
     "tikName": "Колосовская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 10165,
@@ -2834,6 +2915,9 @@ export const duma_2016_tic_233_region_55 = [
     "ballot": "party",
     "tikTvd": "2552000897358",
     "tikName": "Крутинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 11795,
@@ -2922,6 +3006,9 @@ export const duma_2016_tic_233_region_55 = [
     "ballot": "party",
     "tikTvd": "2552000897359",
     "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
     "uikCount": 63,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 30559,
@@ -3041,6 +3128,9 @@ export const duma_2016_tic_233_region_55 = [
     "ballot": "party",
     "tikTvd": "2552000897360",
     "tikName": "Муромцевская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
     "uikCount": 45,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 19229,
@@ -3142,6 +3232,9 @@ export const duma_2016_tic_233_region_55 = [
     "ballot": "party",
     "tikTvd": "2552000897361",
     "tikName": "Называевская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
     "uikCount": 47,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 19205,
@@ -3245,6 +3338,9 @@ export const duma_2016_tic_233_region_55 = [
     "ballot": "party",
     "tikTvd": "2552000897362",
     "tikName": "Нижнеомская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
     "uikCount": 47,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 13353,
@@ -3348,6 +3444,9 @@ export const duma_2016_tic_233_region_55 = [
     "ballot": "party",
     "tikTvd": "2552000897363",
     "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 20804,
@@ -3422,6 +3521,9 @@ export const duma_2016_tic_233_region_55 = [
     "ballot": "party",
     "tikTvd": "2552000897364",
     "tikName": "Саргатская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 14623,
@@ -3514,6 +3616,9 @@ export const duma_2016_tic_233_region_55 = [
     "ballot": "party",
     "tikTvd": "2552000897365",
     "tikName": "Седельниковская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 8282,
@@ -3596,6 +3701,9 @@ export const duma_2016_tic_233_region_55 = [
     "ballot": "party",
     "tikTvd": "2552000897366",
     "tikName": "Тарская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
     "uikCount": 73,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 33437,
@@ -3725,6 +3833,9 @@ export const duma_2016_tic_233_region_55 = [
     "ballot": "party",
     "tikTvd": "2552000897367",
     "tikName": "Тевризская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 11590,
@@ -3816,6 +3927,9 @@ export const duma_2016_tic_233_region_55 = [
     "ballot": "party",
     "tikTvd": "2552000897368",
     "tikName": "Тюкалинская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
     "uikCount": 45,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 20058,
@@ -3917,6 +4031,9 @@ export const duma_2016_tic_233_region_55 = [
     "ballot": "party",
     "tikTvd": "2552000897369",
     "tikName": "Усть-Ишимская",
+    "regionCode": "55",
+    "regionTvd": "100100067796036",
+    "regionName": "Омская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 9574,

@@ -11,6 +11,9 @@ export const duma_2007_tic_233_region_60 = [
     "ballot": "party",
     "tikTvd": "2602000150902",
     "tikName": "Куньинская",
+    "regionCode": "60",
+    "regionTvd": "100100021960298",
+    "regionName": "Псковская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 8914,
@@ -86,6 +89,9 @@ export const duma_2007_tic_233_region_60 = [
     "ballot": "party",
     "tikTvd": "2602000150903",
     "tikName": "Красногородская",
+    "regionCode": "60",
+    "regionTvd": "100100021960298",
+    "regionName": "Псковская область",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 7202,
@@ -153,6 +159,9 @@ export const duma_2007_tic_233_region_60 = [
     "ballot": "party",
     "tikTvd": "2602000150904",
     "tikName": "Гдовская",
+    "regionCode": "60",
+    "regionTvd": "100100021960298",
+    "regionName": "Псковская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 12364,
@@ -226,6 +235,9 @@ export const duma_2007_tic_233_region_60 = [
     "ballot": "party",
     "tikTvd": "2602000150905",
     "tikName": "Великолукская городская",
+    "regionCode": "60",
+    "regionTvd": "100100021960298",
+    "regionName": "Псковская область",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 86459,
@@ -319,6 +331,9 @@ export const duma_2007_tic_233_region_60 = [
     "ballot": "party",
     "tikTvd": "2602000150906",
     "tikName": "Дновская",
+    "regionCode": "60",
+    "regionTvd": "100100021960298",
+    "regionName": "Псковская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 12491,
@@ -392,6 +407,9 @@ export const duma_2007_tic_233_region_60 = [
     "ballot": "party",
     "tikTvd": "2602000150907",
     "tikName": "Дедовичская",
+    "regionCode": "60",
+    "regionTvd": "100100021960298",
+    "regionName": "Псковская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 13699,
@@ -465,6 +483,9 @@ export const duma_2007_tic_233_region_60 = [
     "ballot": "party",
     "tikTvd": "2602000150908",
     "tikName": "Бежаницкая",
+    "regionCode": "60",
+    "regionTvd": "100100021960298",
+    "regionName": "Псковская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 12269,
@@ -542,6 +563,9 @@ export const duma_2007_tic_233_region_60 = [
     "ballot": "party",
     "tikTvd": "2602000150909",
     "tikName": "Плюсская",
+    "regionCode": "60",
+    "regionTvd": "100100021960298",
+    "regionName": "Псковская область",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 8117,
@@ -609,6 +633,9 @@ export const duma_2007_tic_233_region_60 = [
     "ballot": "party",
     "tikTvd": "2602000150910",
     "tikName": "Палкинская",
+    "regionCode": "60",
+    "regionTvd": "100100021960298",
+    "regionName": "Псковская область",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 7529,
@@ -677,6 +704,9 @@ export const duma_2007_tic_233_region_60 = [
     "ballot": "party",
     "tikTvd": "2602000150911",
     "tikName": "Печорская",
+    "regionCode": "60",
+    "regionTvd": "100100021960298",
+    "regionName": "Псковская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 19586,
@@ -749,6 +779,9 @@ export const duma_2007_tic_233_region_60 = [
     "ballot": "party",
     "tikTvd": "2602000150912",
     "tikName": "Опочецкая",
+    "regionCode": "60",
+    "regionTvd": "100100021960298",
+    "regionName": "Псковская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 16912,
@@ -832,6 +865,9 @@ export const duma_2007_tic_233_region_60 = [
     "ballot": "party",
     "tikTvd": "2602000150913",
     "tikName": "Новосокольническая",
+    "regionCode": "60",
+    "regionTvd": "100100021960298",
+    "regionName": "Псковская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 13558,
@@ -908,6 +944,9 @@ export const duma_2007_tic_233_region_60 = [
     "ballot": "party",
     "tikTvd": "2602000150914",
     "tikName": "Новоржевская",
+    "regionCode": "60",
+    "regionTvd": "100100021960298",
+    "regionName": "Псковская область",
     "uikCount": 10,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 8837,
@@ -972,6 +1011,9 @@ export const duma_2007_tic_233_region_60 = [
     "ballot": "party",
     "tikTvd": "2602000150915",
     "tikName": "Островская",
+    "regionCode": "60",
+    "regionTvd": "100100021960298",
+    "regionName": "Псковская область",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 28222,
@@ -1064,6 +1106,9 @@ export const duma_2007_tic_233_region_60 = [
     "ballot": "party",
     "tikTvd": "2602000150916",
     "tikName": "Усвятская",
+    "regionCode": "60",
+    "regionTvd": "100100021960298",
+    "regionName": "Псковская область",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 4628,
@@ -1129,6 +1174,9 @@ export const duma_2007_tic_233_region_60 = [
     "ballot": "party",
     "tikTvd": "2602000150917",
     "tikName": "Невельская",
+    "regionCode": "60",
+    "regionTvd": "100100021960298",
+    "regionName": "Псковская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 24515,
@@ -1212,6 +1260,9 @@ export const duma_2007_tic_233_region_60 = [
     "ballot": "party",
     "tikTvd": "2602000150918",
     "tikName": "Локнянская",
+    "regionCode": "60",
+    "regionTvd": "100100021960298",
+    "regionName": "Псковская область",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 9417,
@@ -1283,6 +1334,9 @@ export const duma_2007_tic_233_region_60 = [
     "ballot": "party",
     "tikTvd": "2602000150919",
     "tikName": "Себежская",
+    "regionCode": "60",
+    "regionTvd": "100100021960298",
+    "regionName": "Псковская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 17707,
@@ -1371,6 +1425,9 @@ export const duma_2007_tic_233_region_60 = [
     "ballot": "party",
     "tikTvd": "2602000150920",
     "tikName": "Пыталовская",
+    "regionCode": "60",
+    "regionTvd": "100100021960298",
+    "regionName": "Псковская область",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 10530,
@@ -1441,6 +1498,9 @@ export const duma_2007_tic_233_region_60 = [
     "ballot": "party",
     "tikTvd": "2602000150921",
     "tikName": "Стругокрасненская",
+    "regionCode": "60",
+    "regionTvd": "100100021960298",
+    "regionName": "Псковская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 12065,
@@ -1514,6 +1574,9 @@ export const duma_2007_tic_233_region_60 = [
     "ballot": "party",
     "tikTvd": "2602000150922",
     "tikName": "Псковская",
+    "regionCode": "60",
+    "regionTvd": "100100021960298",
+    "regionName": "Псковская область",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 28639,
@@ -1611,6 +1674,9 @@ export const duma_2007_tic_233_region_60 = [
     "ballot": "party",
     "tikTvd": "2602000150923",
     "tikName": "Пушкиногорская",
+    "regionCode": "60",
+    "regionTvd": "100100021960298",
+    "regionName": "Псковская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 9187,
@@ -1684,6 +1750,9 @@ export const duma_2007_tic_233_region_60 = [
     "ballot": "party",
     "tikTvd": "2602000150924",
     "tikName": "Псковская городская",
+    "regionCode": "60",
+    "regionTvd": "100100021960298",
+    "regionName": "Псковская область",
     "uikCount": 90,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 173911,
@@ -1828,6 +1897,9 @@ export const duma_2007_tic_233_region_60 = [
     "ballot": "party",
     "tikTvd": "2602000150925",
     "tikName": "Пустошкинская",
+    "regionCode": "60",
+    "regionTvd": "100100021960298",
+    "regionName": "Псковская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 8956,
@@ -1900,6 +1972,9 @@ export const duma_2007_tic_233_region_60 = [
     "ballot": "party",
     "tikTvd": "2602000150926",
     "tikName": "Порховская",
+    "regionCode": "60",
+    "regionTvd": "100100021960298",
+    "regionName": "Псковская область",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 21391,
@@ -1981,6 +2056,9 @@ export const duma_2007_tic_233_region_60 = [
     "ballot": "party",
     "tikTvd": "2602000150927",
     "tikName": "Великолукская",
+    "regionCode": "60",
+    "regionTvd": "100100021960298",
+    "regionName": "Псковская область",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 18867,

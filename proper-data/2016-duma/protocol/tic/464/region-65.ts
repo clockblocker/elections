@@ -11,6 +11,14 @@ export const duma_2016_tic_464_region_65 = [
     "ballot": "single-member",
     "tikTvd": "2652000362104",
     "tikName": "Курильская",
+    "regionCode": "65",
+    "regionTvd": "100100067796073",
+    "regionName": "Сахалинская область",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100067796074",
+      "oikName": "Сахалинская область – Сахалинский"
+    },
     "uikCount": 6,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 4090,
@@ -67,6 +75,14 @@ export const duma_2016_tic_464_region_65 = [
     "ballot": "single-member",
     "tikTvd": "2652000362105",
     "tikName": "Ногликская",
+    "regionCode": "65",
+    "regionTvd": "100100067796073",
+    "regionName": "Сахалинская область",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100067796074",
+      "oikName": "Сахалинская область – Сахалинский"
+    },
     "uikCount": 8,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 9338,
@@ -125,6 +141,14 @@ export const duma_2016_tic_464_region_65 = [
     "ballot": "single-member",
     "tikTvd": "2652000362106",
     "tikName": "Долинская",
+    "regionCode": "65",
+    "regionTvd": "100100067796073",
+    "regionName": "Сахалинская область",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100067796074",
+      "oikName": "Сахалинская область – Сахалинский"
+    },
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 20638,
@@ -191,6 +215,14 @@ export const duma_2016_tic_464_region_65 = [
     "ballot": "single-member",
     "tikTvd": "2652000362107",
     "tikName": "Смирныховская",
+    "regionCode": "65",
+    "regionTvd": "100100067796073",
+    "regionName": "Сахалинская область",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100067796074",
+      "oikName": "Сахалинская область – Сахалинский"
+    },
     "uikCount": 11,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 9354,
@@ -252,6 +284,14 @@ export const duma_2016_tic_464_region_65 = [
     "ballot": "single-member",
     "tikTvd": "2652000362108",
     "tikName": "Углегорская",
+    "regionCode": "65",
+    "regionTvd": "100100067796073",
+    "regionName": "Сахалинская область",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100067796074",
+      "oikName": "Сахалинская область – Сахалинский"
+    },
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 19056,
@@ -326,6 +366,14 @@ export const duma_2016_tic_464_region_65 = [
     "ballot": "single-member",
     "tikTvd": "2652000362109",
     "tikName": "Невельская судовая",
+    "regionCode": "65",
+    "regionTvd": "100100067796073",
+    "regionName": "Сахалинская область",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100067796074",
+      "oikName": "Сахалинская область – Сахалинский"
+    },
     "uikCount": 65,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1036,
@@ -441,6 +489,14 @@ export const duma_2016_tic_464_region_65 = [
     "ballot": "single-member",
     "tikTvd": "2652000362110",
     "tikName": "Поронайская",
+    "regionCode": "65",
+    "regionTvd": "100100067796073",
+    "regionName": "Сахалинская область",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100067796074",
+      "oikName": "Сахалинская область – Сахалинский"
+    },
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 19584,
@@ -508,6 +564,14 @@ export const duma_2016_tic_464_region_65 = [
     "ballot": "single-member",
     "tikTvd": "2652000362111",
     "tikName": "Южно-Курильская",
+    "regionCode": "65",
+    "regionTvd": "100100067796073",
+    "regionName": "Сахалинская область",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100067796074",
+      "oikName": "Сахалинская область – Сахалинский"
+    },
     "uikCount": 9,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 6838,
@@ -567,6 +631,14 @@ export const duma_2016_tic_464_region_65 = [
     "ballot": "single-member",
     "tikTvd": "2652000362112",
     "tikName": "Южно-Сахалинская городская",
+    "regionCode": "65",
+    "regionTvd": "100100067796073",
+    "regionName": "Сахалинская область",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100067796074",
+      "oikName": "Сахалинская область – Сахалинский"
+    },
     "uikCount": 90,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 146209,
@@ -707,6 +779,14 @@ export const duma_2016_tic_464_region_65 = [
     "ballot": "single-member",
     "tikTvd": "2652000362113",
     "tikName": "Невельская",
+    "regionCode": "65",
+    "regionTvd": "100100067796073",
+    "regionName": "Сахалинская область",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100067796074",
+      "oikName": "Сахалинская область – Сахалинский"
+    },
     "uikCount": 11,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 13829,
@@ -768,6 +848,14 @@ export const duma_2016_tic_464_region_65 = [
     "ballot": "single-member",
     "tikTvd": "2652000362114",
     "tikName": "Корсаковская",
+    "regionCode": "65",
+    "regionTvd": "100100067796073",
+    "regionName": "Сахалинская область",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100067796074",
+      "oikName": "Сахалинская область – Сахалинский"
+    },
     "uikCount": 53,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 32107,
@@ -871,6 +959,14 @@ export const duma_2016_tic_464_region_65 = [
     "ballot": "single-member",
     "tikTvd": "2652000362115",
     "tikName": "Тымовская",
+    "regionCode": "65",
+    "regionTvd": "100100067796073",
+    "regionName": "Сахалинская область",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100067796074",
+      "oikName": "Сахалинская область – Сахалинский"
+    },
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 12599,
@@ -937,6 +1033,14 @@ export const duma_2016_tic_464_region_65 = [
     "ballot": "single-member",
     "tikTvd": "2652000362116",
     "tikName": "Холмская",
+    "regionCode": "65",
+    "regionTvd": "100100067796073",
+    "regionName": "Сахалинская область",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100067796074",
+      "oikName": "Сахалинская область – Сахалинский"
+    },
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 34456,
@@ -1012,6 +1116,14 @@ export const duma_2016_tic_464_region_65 = [
     "ballot": "single-member",
     "tikTvd": "2652000362117",
     "tikName": "Охинская",
+    "regionCode": "65",
+    "regionTvd": "100100067796073",
+    "regionName": "Сахалинская область",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100067796074",
+      "oikName": "Сахалинская область – Сахалинский"
+    },
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 20790,
@@ -1081,6 +1193,14 @@ export const duma_2016_tic_464_region_65 = [
     "ballot": "single-member",
     "tikTvd": "2652000362118",
     "tikName": "Томаринская",
+    "regionCode": "65",
+    "regionTvd": "100100067796073",
+    "regionName": "Сахалинская область",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100067796074",
+      "oikName": "Сахалинская область – Сахалинский"
+    },
     "uikCount": 11,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 8283,
@@ -1142,6 +1262,14 @@ export const duma_2016_tic_464_region_65 = [
     "ballot": "single-member",
     "tikTvd": "2652000362119",
     "tikName": "Александровск-Сахалинская",
+    "regionCode": "65",
+    "regionTvd": "100100067796073",
+    "regionName": "Сахалинская область",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100067796074",
+      "oikName": "Сахалинская область – Сахалинский"
+    },
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 9801,
@@ -1205,6 +1333,14 @@ export const duma_2016_tic_464_region_65 = [
     "ballot": "single-member",
     "tikTvd": "2652000362120",
     "tikName": "Холмская судовая",
+    "regionCode": "65",
+    "regionTvd": "100100067796073",
+    "regionName": "Сахалинская область",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100067796074",
+      "oikName": "Сахалинская область – Сахалинский"
+    },
     "uikCount": 52,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 397,
@@ -1307,6 +1443,14 @@ export const duma_2016_tic_464_region_65 = [
     "ballot": "single-member",
     "tikTvd": "2652000362121",
     "tikName": "Анивская",
+    "regionCode": "65",
+    "regionTvd": "100100067796073",
+    "regionName": "Сахалинская область",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100067796074",
+      "oikName": "Сахалинская область – Сахалинский"
+    },
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 13418,
@@ -1376,6 +1520,14 @@ export const duma_2016_tic_464_region_65 = [
     "ballot": "single-member",
     "tikTvd": "2652000362122",
     "tikName": "Макаровская",
+    "regionCode": "65",
+    "regionTvd": "100100067796073",
+    "regionName": "Сахалинская область",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100067796074",
+      "oikName": "Сахалинская область – Сахалинский"
+    },
     "uikCount": 7,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 6440,
@@ -1433,6 +1585,14 @@ export const duma_2016_tic_464_region_65 = [
     "ballot": "single-member",
     "tikTvd": "2652000362123",
     "tikName": "Северо-Курильская",
+    "regionCode": "65",
+    "regionTvd": "100100067796073",
+    "regionName": "Сахалинская область",
+    "district": {
+      "districtNumber": 167,
+      "oikTvd": "100100067796074",
+      "oikName": "Сахалинская область – Сахалинский"
+    },
     "uikCount": 1,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1759,

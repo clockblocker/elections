@@ -11,6 +11,9 @@ export const duma_2016_tic_233_region_53 = [
     "ballot": "party",
     "tikTvd": "2532000487222",
     "tikName": "Демянская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 11153,
@@ -86,6 +89,9 @@ export const duma_2016_tic_233_region_53 = [
     "ballot": "party",
     "tikTvd": "2532000487223",
     "tikName": "Маловишерская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 14313,
@@ -163,6 +169,9 @@ export const duma_2016_tic_233_region_53 = [
     "ballot": "party",
     "tikTvd": "2532000487224",
     "tikName": "Валдайская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 21241,
@@ -246,6 +255,9 @@ export const duma_2016_tic_233_region_53 = [
     "ballot": "party",
     "tikTvd": "2532000487225",
     "tikName": "Пестовская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 16538,
@@ -327,6 +339,9 @@ export const duma_2016_tic_233_region_53 = [
     "ballot": "party",
     "tikTvd": "2532000487226",
     "tikName": "Новгородская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 46971,
@@ -423,6 +438,9 @@ export const duma_2016_tic_233_region_53 = [
     "ballot": "party",
     "tikTvd": "2532000487227",
     "tikName": "Чудовская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 18232,
@@ -498,6 +516,9 @@ export const duma_2016_tic_233_region_53 = [
     "ballot": "party",
     "tikTvd": "2532000487228",
     "tikName": "Хвойнинская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 11433,
@@ -572,6 +593,9 @@ export const duma_2016_tic_233_region_53 = [
     "ballot": "party",
     "tikTvd": "2532000487229",
     "tikName": "Мошенская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 5277,
@@ -643,6 +667,9 @@ export const duma_2016_tic_233_region_53 = [
     "ballot": "party",
     "tikTvd": "2532000487230",
     "tikName": "Солецкая",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 11406,
@@ -721,6 +748,9 @@ export const duma_2016_tic_233_region_53 = [
     "ballot": "party",
     "tikTvd": "2532000487231",
     "tikName": "Старорусская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 37073,
@@ -820,6 +850,9 @@ export const duma_2016_tic_233_region_53 = [
     "ballot": "party",
     "tikTvd": "2532000487232",
     "tikName": "Любытинская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 7603,
@@ -894,6 +927,9 @@ export const duma_2016_tic_233_region_53 = [
     "ballot": "party",
     "tikTvd": "2532000487233",
     "tikName": "Волотовская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
     "uikCount": 9,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 3652,
@@ -959,6 +995,9 @@ export const duma_2016_tic_233_region_53 = [
     "ballot": "party",
     "tikTvd": "2532000487234",
     "tikName": "Парфинская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 10246,
@@ -1030,6 +1069,9 @@ export const duma_2016_tic_233_region_53 = [
     "ballot": "party",
     "tikTvd": "2532000487235",
     "tikName": "Поддорская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
     "uikCount": 10,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 3505,
@@ -1096,6 +1138,9 @@ export const duma_2016_tic_233_region_53 = [
     "ballot": "party",
     "tikTvd": "2532000487236",
     "tikName": "Маревская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 3626,
@@ -1163,6 +1208,9 @@ export const duma_2016_tic_233_region_53 = [
     "ballot": "party",
     "tikTvd": "2532000487237",
     "tikName": "Окуловская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 21628,
@@ -1247,6 +1295,9 @@ export const duma_2016_tic_233_region_53 = [
     "ballot": "party",
     "tikTvd": "2532000487238",
     "tikName": "Шимская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 8835,
@@ -1321,6 +1372,9 @@ export const duma_2016_tic_233_region_53 = [
     "ballot": "party",
     "tikTvd": "2532000487239",
     "tikName": "Батецкая",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
     "uikCount": 10,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 4632,
@@ -1387,6 +1441,9 @@ export const duma_2016_tic_233_region_53 = [
     "ballot": "party",
     "tikTvd": "2532000487240",
     "tikName": "Холмская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 4690,
@@ -1456,6 +1513,9 @@ export const duma_2016_tic_233_region_53 = [
     "ballot": "party",
     "tikTvd": "2532000487241",
     "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
     "uikCount": 55,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 57012,
@@ -1567,6 +1627,9 @@ export const duma_2016_tic_233_region_53 = [
     "ballot": "party",
     "tikTvd": "2532000487242",
     "tikName": "Новгородcкая городская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
     "uikCount": 94,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 179145,
@@ -1717,6 +1780,9 @@ export const duma_2016_tic_233_region_53 = [
     "ballot": "party",
     "tikTvd": "2532000487243",
     "tikName": "Крестецкая",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 10649,

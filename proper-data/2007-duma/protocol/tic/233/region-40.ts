@@ -11,6 +11,9 @@ export const duma_2007_tic_233_region_40 = [
     "ballot": "party",
     "tikTvd": "2402000132680",
     "tikName": "Юхновская",
+    "regionCode": "40",
+    "regionTvd": "100100021960258",
+    "regionName": "Калужская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 10831,
@@ -83,6 +86,9 @@ export const duma_2007_tic_233_region_40 = [
     "ballot": "party",
     "tikTvd": "2402000132681",
     "tikName": "Хвастовичская",
+    "regionCode": "40",
+    "regionTvd": "100100021960258",
+    "regionName": "Калужская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 9113,
@@ -155,6 +161,9 @@ export const duma_2007_tic_233_region_40 = [
     "ballot": "party",
     "tikTvd": "2402000132682",
     "tikName": "Ферзиковская",
+    "regionCode": "40",
+    "regionTvd": "100100021960258",
+    "regionName": "Калужская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 12096,
@@ -227,6 +236,9 @@ export const duma_2007_tic_233_region_40 = [
     "ballot": "party",
     "tikTvd": "2402000132683",
     "tikName": "Ульяновская",
+    "regionCode": "40",
+    "regionTvd": "100100021960258",
+    "regionName": "Калужская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 6096,
@@ -299,6 +311,9 @@ export const duma_2007_tic_233_region_40 = [
     "ballot": "party",
     "tikTvd": "2402000132684",
     "tikName": "Тарусская",
+    "regionCode": "40",
+    "regionTvd": "100100021960258",
+    "regionName": "Калужская область",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 11979,
@@ -367,6 +382,9 @@ export const duma_2007_tic_233_region_40 = [
     "ballot": "party",
     "tikTvd": "2402000132685",
     "tikName": "Сухиничская",
+    "regionCode": "40",
+    "regionTvd": "100100021960258",
+    "regionName": "Калужская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 20598,
@@ -450,6 +468,9 @@ export const duma_2007_tic_233_region_40 = [
     "ballot": "party",
     "tikTvd": "2402000132686",
     "tikName": "Спас-Деменская",
+    "regionCode": "40",
+    "regionTvd": "100100021960258",
+    "regionName": "Калужская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 7454,
@@ -519,6 +540,9 @@ export const duma_2007_tic_233_region_40 = [
     "ballot": "party",
     "tikTvd": "2402000132687",
     "tikName": "Перемышльская",
+    "regionCode": "40",
+    "regionTvd": "100100021960258",
+    "regionName": "Калужская область",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 10420,
@@ -590,6 +614,9 @@ export const duma_2007_tic_233_region_40 = [
     "ballot": "party",
     "tikTvd": "2402000132688",
     "tikName": "Обнинская городская",
+    "regionCode": "40",
+    "regionTvd": "100100021960258",
+    "regionName": "Калужская область",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 87349,
@@ -683,6 +710,9 @@ export const duma_2007_tic_233_region_40 = [
     "ballot": "party",
     "tikTvd": "2402000132689",
     "tikName": "Мосальская",
+    "regionCode": "40",
+    "regionTvd": "100100021960258",
+    "regionName": "Калужская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 7026,
@@ -758,6 +788,9 @@ export const duma_2007_tic_233_region_40 = [
     "ballot": "party",
     "tikTvd": "2402000132690",
     "tikName": "Мещовская",
+    "regionCode": "40",
+    "regionTvd": "100100021960258",
+    "regionName": "Калужская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 9359,
@@ -833,6 +866,9 @@ export const duma_2007_tic_233_region_40 = [
     "ballot": "party",
     "tikTvd": "2402000132691",
     "tikName": "Медынская",
+    "regionCode": "40",
+    "regionTvd": "100100021960258",
+    "regionName": "Калужская область",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 9468,
@@ -901,6 +937,9 @@ export const duma_2007_tic_233_region_40 = [
     "ballot": "party",
     "tikTvd": "2402000132692",
     "tikName": "Малоярославецкая",
+    "regionCode": "40",
+    "regionTvd": "100100021960258",
+    "regionName": "Калужская область",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 44607,
@@ -992,6 +1031,9 @@ export const duma_2007_tic_233_region_40 = [
     "ballot": "party",
     "tikTvd": "2402000132693",
     "tikName": "Людиновская",
+    "regionCode": "40",
+    "regionTvd": "100100021960258",
+    "regionName": "Калужская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 36806,
@@ -1076,6 +1118,9 @@ export const duma_2007_tic_233_region_40 = [
     "ballot": "party",
     "tikTvd": "2402000132694",
     "tikName": "Куйбышевская",
+    "regionCode": "40",
+    "regionTvd": "100100021960258",
+    "regionName": "Калужская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 6710,
@@ -1148,6 +1193,9 @@ export const duma_2007_tic_233_region_40 = [
     "ballot": "party",
     "tikTvd": "2402000132695",
     "tikName": "Козельская",
+    "regionCode": "40",
+    "regionTvd": "100100021960258",
+    "regionName": "Калужская область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 36092,
@@ -1238,6 +1286,9 @@ export const duma_2007_tic_233_region_40 = [
     "ballot": "party",
     "tikTvd": "2402000132696",
     "tikName": "Кировская",
+    "regionCode": "40",
+    "regionTvd": "100100021960258",
+    "regionName": "Калужская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 34212,
@@ -1323,6 +1374,9 @@ export const duma_2007_tic_233_region_40 = [
     "ballot": "party",
     "tikTvd": "2402000132697",
     "tikName": "Калуга, Октябрьская",
+    "regionCode": "40",
+    "regionTvd": "100100021960258",
+    "regionName": "Калужская область",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 93572,
@@ -1423,6 +1477,9 @@ export const duma_2007_tic_233_region_40 = [
     "ballot": "party",
     "tikTvd": "2402000132698",
     "tikName": "Калуга, Московская",
+    "regionCode": "40",
+    "regionTvd": "100100021960258",
+    "regionName": "Калужская область",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 91148,
@@ -1520,6 +1577,9 @@ export const duma_2007_tic_233_region_40 = [
     "ballot": "party",
     "tikTvd": "2402000132699",
     "tikName": "Калуга, Ленинская",
+    "regionCode": "40",
+    "regionTvd": "100100021960258",
+    "regionName": "Калужская область",
     "uikCount": 51,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 106533,
@@ -1625,6 +1685,9 @@ export const duma_2007_tic_233_region_40 = [
     "ballot": "party",
     "tikTvd": "2402000132700",
     "tikName": "Износковская",
+    "regionCode": "40",
+    "regionTvd": "100100021960258",
+    "regionName": "Калужская область",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 5086,
@@ -1691,6 +1754,9 @@ export const duma_2007_tic_233_region_40 = [
     "ballot": "party",
     "tikTvd": "2402000132701",
     "tikName": "Жуковская",
+    "regionCode": "40",
+    "regionTvd": "100100021960258",
+    "regionName": "Калужская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 36907,
@@ -1779,6 +1845,9 @@ export const duma_2007_tic_233_region_40 = [
     "ballot": "party",
     "tikTvd": "2402000132702",
     "tikName": "Жиздринская",
+    "regionCode": "40",
+    "regionTvd": "100100021960258",
+    "regionName": "Калужская область",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 8440,
@@ -1849,6 +1918,9 @@ export const duma_2007_tic_233_region_40 = [
     "ballot": "party",
     "tikTvd": "2402000132703",
     "tikName": "Думиничская",
+    "regionCode": "40",
+    "regionTvd": "100100021960258",
+    "regionName": "Калужская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 11739,
@@ -1922,6 +1994,9 @@ export const duma_2007_tic_233_region_40 = [
     "ballot": "party",
     "tikTvd": "2402000132704",
     "tikName": "Дзержинская",
+    "regionCode": "40",
+    "regionTvd": "100100021960258",
+    "regionName": "Калужская область",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 45783,
@@ -2018,6 +2093,9 @@ export const duma_2007_tic_233_region_40 = [
     "ballot": "party",
     "tikTvd": "2402000132705",
     "tikName": "Боровская",
+    "regionCode": "40",
+    "regionTvd": "100100021960258",
+    "regionName": "Калужская область",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 41918,
@@ -2104,6 +2182,9 @@ export const duma_2007_tic_233_region_40 = [
     "ballot": "party",
     "tikTvd": "2402000132706",
     "tikName": "Барятинская",
+    "regionCode": "40",
+    "regionTvd": "100100021960258",
+    "regionName": "Калужская область",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 4937,
@@ -2172,6 +2253,9 @@ export const duma_2007_tic_233_region_40 = [
     "ballot": "party",
     "tikTvd": "2402000132707",
     "tikName": "Бабынинская",
+    "regionCode": "40",
+    "regionTvd": "100100021960258",
+    "regionName": "Калужская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 17697,

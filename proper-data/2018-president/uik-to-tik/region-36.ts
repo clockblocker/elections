@@ -7,10303 +7,18888 @@ export const president_2018_uik_to_tik_region_36 = [
   {
     "uikNumber": 101,
     "uikTvd": "4364001182379",
+    "uikName": "УИК №101",
     "tikTvd": "23620001279739",
-    "tikName": "Аннинская"
+    "tikName": "Аннинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 102,
     "uikTvd": "4364001182380",
+    "uikName": "УИК №102",
     "tikTvd": "23620001279739",
-    "tikName": "Аннинская"
+    "tikName": "Аннинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 103,
     "uikTvd": "4364001182381",
+    "uikName": "УИК №103",
     "tikTvd": "23620001279739",
-    "tikName": "Аннинская"
+    "tikName": "Аннинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 104,
     "uikTvd": "4364001182382",
+    "uikName": "УИК №104",
     "tikTvd": "23620001279739",
-    "tikName": "Аннинская"
+    "tikName": "Аннинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 105,
     "uikTvd": "4364001182383",
+    "uikName": "УИК №105",
     "tikTvd": "23620001279739",
-    "tikName": "Аннинская"
+    "tikName": "Аннинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 106,
     "uikTvd": "4364001182384",
+    "uikName": "УИК №106",
     "tikTvd": "23620001279739",
-    "tikName": "Аннинская"
+    "tikName": "Аннинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 107,
     "uikTvd": "4364001182385",
+    "uikName": "УИК №107",
     "tikTvd": "23620001279739",
-    "tikName": "Аннинская"
+    "tikName": "Аннинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 108,
     "uikTvd": "4364001182386",
+    "uikName": "УИК №108",
     "tikTvd": "23620001279739",
-    "tikName": "Аннинская"
+    "tikName": "Аннинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 109,
     "uikTvd": "4364001182387",
+    "uikName": "УИК №109",
     "tikTvd": "23620001279739",
-    "tikName": "Аннинская"
+    "tikName": "Аннинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 110,
     "uikTvd": "4364001182388",
+    "uikName": "УИК №110",
     "tikTvd": "23620001279739",
-    "tikName": "Аннинская"
+    "tikName": "Аннинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 111,
     "uikTvd": "4364001182389",
+    "uikName": "УИК №111",
     "tikTvd": "23620001279739",
-    "tikName": "Аннинская"
+    "tikName": "Аннинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 112,
     "uikTvd": "4364001182390",
+    "uikName": "УИК №112",
     "tikTvd": "23620001279739",
-    "tikName": "Аннинская"
+    "tikName": "Аннинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 113,
     "uikTvd": "4364001182391",
+    "uikName": "УИК №113",
     "tikTvd": "23620001279739",
-    "tikName": "Аннинская"
+    "tikName": "Аннинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 114,
     "uikTvd": "4364001182392",
+    "uikName": "УИК №114",
     "tikTvd": "23620001279739",
-    "tikName": "Аннинская"
+    "tikName": "Аннинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 115,
     "uikTvd": "4364001182393",
+    "uikName": "УИК №115",
     "tikTvd": "23620001279739",
-    "tikName": "Аннинская"
+    "tikName": "Аннинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 116,
     "uikTvd": "4364001182394",
+    "uikName": "УИК №116",
     "tikTvd": "23620001279739",
-    "tikName": "Аннинская"
+    "tikName": "Аннинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 117,
     "uikTvd": "4364001182395",
+    "uikName": "УИК №117",
     "tikTvd": "23620001279739",
-    "tikName": "Аннинская"
+    "tikName": "Аннинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 118,
     "uikTvd": "4364001182396",
+    "uikName": "УИК №118",
     "tikTvd": "23620001279739",
-    "tikName": "Аннинская"
+    "tikName": "Аннинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 119,
     "uikTvd": "4364001182397",
+    "uikName": "УИК №119",
     "tikTvd": "23620001279739",
-    "tikName": "Аннинская"
+    "tikName": "Аннинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 120,
     "uikTvd": "4364001182398",
+    "uikName": "УИК №120",
     "tikTvd": "23620001279739",
-    "tikName": "Аннинская"
+    "tikName": "Аннинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 121,
     "uikTvd": "4364001182399",
+    "uikName": "УИК №121",
     "tikTvd": "23620001279739",
-    "tikName": "Аннинская"
+    "tikName": "Аннинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 122,
     "uikTvd": "4364001182400",
+    "uikName": "УИК №122",
     "tikTvd": "23620001279739",
-    "tikName": "Аннинская"
+    "tikName": "Аннинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 123,
     "uikTvd": "4364001182401",
+    "uikName": "УИК №123",
     "tikTvd": "23620001279739",
-    "tikName": "Аннинская"
+    "tikName": "Аннинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 124,
     "uikTvd": "4364001182402",
+    "uikName": "УИК №124",
     "tikTvd": "23620001279739",
-    "tikName": "Аннинская"
+    "tikName": "Аннинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 125,
     "uikTvd": "4364001182403",
+    "uikName": "УИК №125",
     "tikTvd": "23620001279739",
-    "tikName": "Аннинская"
+    "tikName": "Аннинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 126,
     "uikTvd": "4364001182404",
+    "uikName": "УИК №126",
     "tikTvd": "23620001279739",
-    "tikName": "Аннинская"
+    "tikName": "Аннинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 127,
     "uikTvd": "4364001182405",
+    "uikName": "УИК №127",
     "tikTvd": "23620001279739",
-    "tikName": "Аннинская"
+    "tikName": "Аннинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 128,
     "uikTvd": "4364001182406",
+    "uikName": "УИК №128",
     "tikTvd": "23620001279739",
-    "tikName": "Аннинская"
+    "tikName": "Аннинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 129,
     "uikTvd": "4364001182407",
+    "uikName": "УИК №129",
     "tikTvd": "23620001279739",
-    "tikName": "Аннинская"
+    "tikName": "Аннинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 130,
     "uikTvd": "4364001182408",
+    "uikName": "УИК №130",
     "tikTvd": "23620001279739",
-    "tikName": "Аннинская"
+    "tikName": "Аннинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 132,
     "uikTvd": "4364001182409",
+    "uikName": "УИК №132",
     "tikTvd": "23620001279739",
-    "tikName": "Аннинская"
+    "tikName": "Аннинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 133,
     "uikTvd": "4364001182410",
+    "uikName": "УИК №133",
     "tikTvd": "23620001279739",
-    "tikName": "Аннинская"
+    "tikName": "Аннинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 134,
     "uikTvd": "4364001182411",
+    "uikName": "УИК №134",
     "tikTvd": "23620001279739",
-    "tikName": "Аннинская"
+    "tikName": "Аннинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 135,
     "uikTvd": "4364001182412",
+    "uikName": "УИК №135",
     "tikTvd": "23620001279739",
-    "tikName": "Аннинская"
+    "tikName": "Аннинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 136,
     "uikTvd": "4364001182413",
+    "uikName": "УИК №136",
     "tikTvd": "23620001279739",
-    "tikName": "Аннинская"
+    "tikName": "Аннинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 137,
     "uikTvd": "4364001182414",
+    "uikName": "УИК №137",
     "tikTvd": "23620001279739",
-    "tikName": "Аннинская"
+    "tikName": "Аннинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 138,
     "uikTvd": "4364001182415",
+    "uikName": "УИК №138",
     "tikTvd": "23620001279739",
-    "tikName": "Аннинская"
+    "tikName": "Аннинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 139,
     "uikTvd": "4364001182416",
+    "uikName": "УИК №139",
     "tikTvd": "23620001279739",
-    "tikName": "Аннинская"
+    "tikName": "Аннинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 140,
     "uikTvd": "4364001182417",
+    "uikName": "УИК №140",
     "tikTvd": "23620001279739",
-    "tikName": "Аннинская"
+    "tikName": "Аннинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 141,
     "uikTvd": "4364001182418",
+    "uikName": "УИК №141",
     "tikTvd": "23620001279739",
-    "tikName": "Аннинская"
+    "tikName": "Аннинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 142,
     "uikTvd": "4364001182419",
+    "uikName": "УИК №142",
     "tikTvd": "23620001279739",
-    "tikName": "Аннинская"
+    "tikName": "Аннинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 143,
     "uikTvd": "4364001182420",
+    "uikName": "УИК №143",
     "tikTvd": "23620001279739",
-    "tikName": "Аннинская"
+    "tikName": "Аннинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 144,
     "uikTvd": "4364001182421",
+    "uikName": "УИК №144",
     "tikTvd": "23620001279739",
-    "tikName": "Аннинская"
+    "tikName": "Аннинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 145,
     "uikTvd": "4364001182422",
+    "uikName": "УИК №145",
     "tikTvd": "23620001279739",
-    "tikName": "Аннинская"
+    "tikName": "Аннинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 146,
     "uikTvd": "4364001182423",
+    "uikName": "УИК №146",
     "tikTvd": "23620001279739",
-    "tikName": "Аннинская"
+    "tikName": "Аннинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 147,
     "uikTvd": "4364001182424",
+    "uikName": "УИК №147",
     "tikTvd": "23620001279739",
-    "tikName": "Аннинская"
+    "tikName": "Аннинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 148,
     "uikTvd": "4364001182425",
+    "uikName": "УИК №148",
     "tikTvd": "23620001279739",
-    "tikName": "Аннинская"
+    "tikName": "Аннинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 149,
     "uikTvd": "4364001182426",
+    "uikName": "УИК №149",
     "tikTvd": "23620001279739",
-    "tikName": "Аннинская"
+    "tikName": "Аннинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 150,
     "uikTvd": "4364001182427",
+    "uikName": "УИК №150",
     "tikTvd": "23620001279739",
-    "tikName": "Аннинская"
+    "tikName": "Аннинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 151,
     "uikTvd": "4364001182428",
+    "uikName": "УИК №151",
     "tikTvd": "23620001279739",
-    "tikName": "Аннинская"
+    "tikName": "Аннинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 152,
     "uikTvd": "4364001182429",
+    "uikName": "УИК №152",
     "tikTvd": "23620001279739",
-    "tikName": "Аннинская"
+    "tikName": "Аннинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 153,
     "uikTvd": "4364001182430",
+    "uikName": "УИК №153",
     "tikTvd": "23620001279739",
-    "tikName": "Аннинская"
+    "tikName": "Аннинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 154,
     "uikTvd": "4364001182431",
+    "uikName": "УИК №154",
     "tikTvd": "23620001279739",
-    "tikName": "Аннинская"
+    "tikName": "Аннинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 155,
     "uikTvd": "4364001182432",
+    "uikName": "УИК №155",
     "tikTvd": "23620001279739",
-    "tikName": "Аннинская"
+    "tikName": "Аннинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 201,
     "uikTvd": "4364002213097",
+    "uikName": "УИК №201",
     "tikTvd": "23620001279741",
-    "tikName": "Бобровская"
+    "tikName": "Бобровская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 202,
     "uikTvd": "4364002213099",
+    "uikName": "УИК №202",
     "tikTvd": "23620001279741",
-    "tikName": "Бобровская"
+    "tikName": "Бобровская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 203,
     "uikTvd": "4364002213101",
+    "uikName": "УИК №203",
     "tikTvd": "23620001279741",
-    "tikName": "Бобровская"
+    "tikName": "Бобровская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 204,
     "uikTvd": "4364002213102",
+    "uikName": "УИК №204",
     "tikTvd": "23620001279741",
-    "tikName": "Бобровская"
+    "tikName": "Бобровская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 205,
     "uikTvd": "4364002213103",
+    "uikName": "УИК №205",
     "tikTvd": "23620001279741",
-    "tikName": "Бобровская"
+    "tikName": "Бобровская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 206,
     "uikTvd": "4364002213104",
+    "uikName": "УИК №206",
     "tikTvd": "23620001279741",
-    "tikName": "Бобровская"
+    "tikName": "Бобровская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 207,
     "uikTvd": "4364002213105",
+    "uikName": "УИК №207",
     "tikTvd": "23620001279741",
-    "tikName": "Бобровская"
+    "tikName": "Бобровская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 208,
     "uikTvd": "4364002213106",
+    "uikName": "УИК №208",
     "tikTvd": "23620001279741",
-    "tikName": "Бобровская"
+    "tikName": "Бобровская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 209,
     "uikTvd": "4364002213107",
+    "uikName": "УИК №209",
     "tikTvd": "23620001279741",
-    "tikName": "Бобровская"
+    "tikName": "Бобровская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 210,
     "uikTvd": "4364002213108",
+    "uikName": "УИК №210",
     "tikTvd": "23620001279741",
-    "tikName": "Бобровская"
+    "tikName": "Бобровская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 211,
     "uikTvd": "4364002213109",
+    "uikName": "УИК №211",
     "tikTvd": "23620001279741",
-    "tikName": "Бобровская"
+    "tikName": "Бобровская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 212,
     "uikTvd": "4364002213110",
+    "uikName": "УИК №212",
     "tikTvd": "23620001279741",
-    "tikName": "Бобровская"
+    "tikName": "Бобровская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 213,
     "uikTvd": "4364002213111",
+    "uikName": "УИК №213",
     "tikTvd": "23620001279741",
-    "tikName": "Бобровская"
+    "tikName": "Бобровская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 214,
     "uikTvd": "4364002213112",
+    "uikName": "УИК №214",
     "tikTvd": "23620001279741",
-    "tikName": "Бобровская"
+    "tikName": "Бобровская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 215,
     "uikTvd": "4364002213113",
+    "uikName": "УИК №215",
     "tikTvd": "23620001279741",
-    "tikName": "Бобровская"
+    "tikName": "Бобровская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 216,
     "uikTvd": "4364002213114",
+    "uikName": "УИК №216",
     "tikTvd": "23620001279741",
-    "tikName": "Бобровская"
+    "tikName": "Бобровская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 217,
     "uikTvd": "4364002213115",
+    "uikName": "УИК №217",
     "tikTvd": "23620001279741",
-    "tikName": "Бобровская"
+    "tikName": "Бобровская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 218,
     "uikTvd": "4364002213116",
+    "uikName": "УИК №218",
     "tikTvd": "23620001279741",
-    "tikName": "Бобровская"
+    "tikName": "Бобровская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 219,
     "uikTvd": "4364002213117",
+    "uikName": "УИК №219",
     "tikTvd": "23620001279741",
-    "tikName": "Бобровская"
+    "tikName": "Бобровская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 220,
     "uikTvd": "4364002213118",
+    "uikName": "УИК №220",
     "tikTvd": "23620001279741",
-    "tikName": "Бобровская"
+    "tikName": "Бобровская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 221,
     "uikTvd": "4364002213119",
+    "uikName": "УИК №221",
     "tikTvd": "23620001279741",
-    "tikName": "Бобровская"
+    "tikName": "Бобровская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 222,
     "uikTvd": "4364002213120",
+    "uikName": "УИК №222",
     "tikTvd": "23620001279741",
-    "tikName": "Бобровская"
+    "tikName": "Бобровская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 223,
     "uikTvd": "4364002213121",
+    "uikName": "УИК №223",
     "tikTvd": "23620001279741",
-    "tikName": "Бобровская"
+    "tikName": "Бобровская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 224,
     "uikTvd": "4364002213122",
+    "uikName": "УИК №224",
     "tikTvd": "23620001279741",
-    "tikName": "Бобровская"
+    "tikName": "Бобровская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 225,
     "uikTvd": "4364002213123",
+    "uikName": "УИК №225",
     "tikTvd": "23620001279741",
-    "tikName": "Бобровская"
+    "tikName": "Бобровская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 226,
     "uikTvd": "4364002213124",
+    "uikName": "УИК №226",
     "tikTvd": "23620001279741",
-    "tikName": "Бобровская"
+    "tikName": "Бобровская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 227,
     "uikTvd": "4364002213125",
+    "uikName": "УИК №227",
     "tikTvd": "23620001279741",
-    "tikName": "Бобровская"
+    "tikName": "Бобровская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 228,
     "uikTvd": "4364002213126",
+    "uikName": "УИК №228",
     "tikTvd": "23620001279741",
-    "tikName": "Бобровская"
+    "tikName": "Бобровская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 229,
     "uikTvd": "4364002213127",
+    "uikName": "УИК №229",
     "tikTvd": "23620001279741",
-    "tikName": "Бобровская"
+    "tikName": "Бобровская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 230,
     "uikTvd": "4364002213128",
+    "uikName": "УИК №230",
     "tikTvd": "23620001279741",
-    "tikName": "Бобровская"
+    "tikName": "Бобровская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 231,
     "uikTvd": "4364002213129",
+    "uikName": "УИК №231",
     "tikTvd": "23620001279741",
-    "tikName": "Бобровская"
+    "tikName": "Бобровская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 232,
     "uikTvd": "4364002213130",
+    "uikName": "УИК №232",
     "tikTvd": "23620001279741",
-    "tikName": "Бобровская"
+    "tikName": "Бобровская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 233,
     "uikTvd": "4364002213131",
+    "uikName": "УИК №233",
     "tikTvd": "23620001279741",
-    "tikName": "Бобровская"
+    "tikName": "Бобровская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 234,
     "uikTvd": "4364002213132",
+    "uikName": "УИК №234",
     "tikTvd": "23620001279741",
-    "tikName": "Бобровская"
+    "tikName": "Бобровская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 235,
     "uikTvd": "4364002213133",
+    "uikName": "УИК №235",
     "tikTvd": "23620001279741",
-    "tikName": "Бобровская"
+    "tikName": "Бобровская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 236,
     "uikTvd": "4364002213134",
+    "uikName": "УИК №236",
     "tikTvd": "23620001279741",
-    "tikName": "Бобровская"
+    "tikName": "Бобровская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 237,
     "uikTvd": "4364002213135",
+    "uikName": "УИК №237",
     "tikTvd": "23620001279741",
-    "tikName": "Бобровская"
+    "tikName": "Бобровская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 238,
     "uikTvd": "4364002213136",
+    "uikName": "УИК №238",
     "tikTvd": "23620001279741",
-    "tikName": "Бобровская"
+    "tikName": "Бобровская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 239,
     "uikTvd": "4364002213137",
+    "uikName": "УИК №239",
     "tikTvd": "23620001279741",
-    "tikName": "Бобровская"
+    "tikName": "Бобровская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 240,
     "uikTvd": "4364002213138",
+    "uikName": "УИК №240",
     "tikTvd": "23620001279741",
-    "tikName": "Бобровская"
+    "tikName": "Бобровская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 241,
     "uikTvd": "4364002213139",
+    "uikName": "УИК №241",
     "tikTvd": "23620001279741",
-    "tikName": "Бобровская"
+    "tikName": "Бобровская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 242,
     "uikTvd": "4364002213140",
+    "uikName": "УИК №242",
     "tikTvd": "23620001279741",
-    "tikName": "Бобровская"
+    "tikName": "Бобровская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 243,
     "uikTvd": "4364002213141",
+    "uikName": "УИК №243",
     "tikTvd": "23620001279741",
-    "tikName": "Бобровская"
+    "tikName": "Бобровская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 244,
     "uikTvd": "4364002213142",
+    "uikName": "УИК №244",
     "tikTvd": "23620001279741",
-    "tikName": "Бобровская"
+    "tikName": "Бобровская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 245,
     "uikTvd": "4364002213143",
+    "uikName": "УИК №245",
     "tikTvd": "23620001279741",
-    "tikName": "Бобровская"
+    "tikName": "Бобровская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 246,
     "uikTvd": "4364002213144",
+    "uikName": "УИК №246",
     "tikTvd": "23620001279741",
-    "tikName": "Бобровская"
+    "tikName": "Бобровская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 301,
     "uikTvd": "4364003201592",
+    "uikName": "УИК №301",
     "tikTvd": "23620001279730",
-    "tikName": "Богучарская"
+    "tikName": "Богучарская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 302,
     "uikTvd": "4364003201593",
+    "uikName": "УИК №302",
     "tikTvd": "23620001279730",
-    "tikName": "Богучарская"
+    "tikName": "Богучарская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 303,
     "uikTvd": "4364003201594",
+    "uikName": "УИК №303",
     "tikTvd": "23620001279730",
-    "tikName": "Богучарская"
+    "tikName": "Богучарская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 304,
     "uikTvd": "4364003201595",
+    "uikName": "УИК №304",
     "tikTvd": "23620001279730",
-    "tikName": "Богучарская"
+    "tikName": "Богучарская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 305,
     "uikTvd": "4364003201596",
+    "uikName": "УИК №305",
     "tikTvd": "23620001279730",
-    "tikName": "Богучарская"
+    "tikName": "Богучарская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 306,
     "uikTvd": "4364003201597",
+    "uikName": "УИК №306",
     "tikTvd": "23620001279730",
-    "tikName": "Богучарская"
+    "tikName": "Богучарская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 307,
     "uikTvd": "4364003201598",
+    "uikName": "УИК №307",
     "tikTvd": "23620001279730",
-    "tikName": "Богучарская"
+    "tikName": "Богучарская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 308,
     "uikTvd": "4364003201599",
+    "uikName": "УИК №308",
     "tikTvd": "23620001279730",
-    "tikName": "Богучарская"
+    "tikName": "Богучарская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 309,
     "uikTvd": "4364003201600",
+    "uikName": "УИК №309",
     "tikTvd": "23620001279730",
-    "tikName": "Богучарская"
+    "tikName": "Богучарская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 310,
     "uikTvd": "4364003201601",
+    "uikName": "УИК №310",
     "tikTvd": "23620001279730",
-    "tikName": "Богучарская"
+    "tikName": "Богучарская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 311,
     "uikTvd": "4364003201602",
+    "uikName": "УИК №311",
     "tikTvd": "23620001279730",
-    "tikName": "Богучарская"
+    "tikName": "Богучарская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 312,
     "uikTvd": "4364003201603",
+    "uikName": "УИК №312",
     "tikTvd": "23620001279730",
-    "tikName": "Богучарская"
+    "tikName": "Богучарская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 313,
     "uikTvd": "4364003201604",
+    "uikName": "УИК №313",
     "tikTvd": "23620001279730",
-    "tikName": "Богучарская"
+    "tikName": "Богучарская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 314,
     "uikTvd": "4364003201605",
+    "uikName": "УИК №314",
     "tikTvd": "23620001279730",
-    "tikName": "Богучарская"
+    "tikName": "Богучарская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 315,
     "uikTvd": "4364003201606",
+    "uikName": "УИК №315",
     "tikTvd": "23620001279730",
-    "tikName": "Богучарская"
+    "tikName": "Богучарская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 316,
     "uikTvd": "4364003201607",
+    "uikName": "УИК №316",
     "tikTvd": "23620001279730",
-    "tikName": "Богучарская"
+    "tikName": "Богучарская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 317,
     "uikTvd": "4364003201608",
+    "uikName": "УИК №317",
     "tikTvd": "23620001279730",
-    "tikName": "Богучарская"
+    "tikName": "Богучарская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 318,
     "uikTvd": "4364003201609",
+    "uikName": "УИК №318",
     "tikTvd": "23620001279730",
-    "tikName": "Богучарская"
+    "tikName": "Богучарская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 319,
     "uikTvd": "4364003201610",
+    "uikName": "УИК №319",
     "tikTvd": "23620001279730",
-    "tikName": "Богучарская"
+    "tikName": "Богучарская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 320,
     "uikTvd": "4364003201611",
+    "uikName": "УИК №320",
     "tikTvd": "23620001279730",
-    "tikName": "Богучарская"
+    "tikName": "Богучарская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 321,
     "uikTvd": "4364003201612",
+    "uikName": "УИК №321",
     "tikTvd": "23620001279730",
-    "tikName": "Богучарская"
+    "tikName": "Богучарская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 322,
     "uikTvd": "4364003201613",
+    "uikName": "УИК №322",
     "tikTvd": "23620001279730",
-    "tikName": "Богучарская"
+    "tikName": "Богучарская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 323,
     "uikTvd": "4364003201614",
+    "uikName": "УИК №323",
     "tikTvd": "23620001279730",
-    "tikName": "Богучарская"
+    "tikName": "Богучарская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 324,
     "uikTvd": "4364003201615",
+    "uikName": "УИК №324",
     "tikTvd": "23620001279730",
-    "tikName": "Богучарская"
+    "tikName": "Богучарская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 325,
     "uikTvd": "4364003201616",
+    "uikName": "УИК №325",
     "tikTvd": "23620001279730",
-    "tikName": "Богучарская"
+    "tikName": "Богучарская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 326,
     "uikTvd": "4364003201617",
+    "uikName": "УИК №326",
     "tikTvd": "23620001279730",
-    "tikName": "Богучарская"
+    "tikName": "Богучарская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 327,
     "uikTvd": "4364003201618",
+    "uikName": "УИК №327",
     "tikTvd": "23620001279730",
-    "tikName": "Богучарская"
+    "tikName": "Богучарская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 328,
     "uikTvd": "4364003201619",
+    "uikName": "УИК №328",
     "tikTvd": "23620001279730",
-    "tikName": "Богучарская"
+    "tikName": "Богучарская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 329,
     "uikTvd": "4364003201620",
+    "uikName": "УИК №329",
     "tikTvd": "23620001279730",
-    "tikName": "Богучарская"
+    "tikName": "Богучарская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 330,
     "uikTvd": "4364003201621",
+    "uikName": "УИК №330",
     "tikTvd": "23620001279730",
-    "tikName": "Богучарская"
+    "tikName": "Богучарская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 331,
     "uikTvd": "4364003201622",
+    "uikName": "УИК №331",
     "tikTvd": "23620001279730",
-    "tikName": "Богучарская"
+    "tikName": "Богучарская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 332,
     "uikTvd": "4364003201623",
+    "uikName": "УИК №332",
     "tikTvd": "23620001279730",
-    "tikName": "Богучарская"
+    "tikName": "Богучарская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 333,
     "uikTvd": "4364003201624",
+    "uikName": "УИК №333",
     "tikTvd": "23620001279730",
-    "tikName": "Богучарская"
+    "tikName": "Богучарская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 334,
     "uikTvd": "4364003201625",
+    "uikName": "УИК №334",
     "tikTvd": "23620001279730",
-    "tikName": "Богучарская"
+    "tikName": "Богучарская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 335,
     "uikTvd": "4364003201626",
+    "uikName": "УИК №335",
     "tikTvd": "23620001279730",
-    "tikName": "Богучарская"
+    "tikName": "Богучарская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 336,
     "uikTvd": "4364003201627",
+    "uikName": "УИК №336",
     "tikTvd": "23620001279730",
-    "tikName": "Богучарская"
+    "tikName": "Богучарская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 337,
     "uikTvd": "4364003201628",
+    "uikName": "УИК №337",
     "tikTvd": "23620001279730",
-    "tikName": "Богучарская"
+    "tikName": "Богучарская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 338,
     "uikTvd": "4364003201629",
+    "uikName": "УИК №338",
     "tikTvd": "23620001279730",
-    "tikName": "Богучарская"
+    "tikName": "Богучарская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 339,
     "uikTvd": "4364003201630",
+    "uikName": "УИК №339",
     "tikTvd": "23620001279730",
-    "tikName": "Богучарская"
+    "tikName": "Богучарская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 340,
     "uikTvd": "4364003201631",
+    "uikName": "УИК №340",
     "tikTvd": "23620001279730",
-    "tikName": "Богучарская"
+    "tikName": "Богучарская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 341,
     "uikTvd": "4364003201632",
+    "uikName": "УИК №341",
     "tikTvd": "23620001279730",
-    "tikName": "Богучарская"
+    "tikName": "Богучарская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 342,
     "uikTvd": "4364003201633",
+    "uikName": "УИК №342",
     "tikTvd": "23620001279730",
-    "tikName": "Богучарская"
+    "tikName": "Богучарская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 343,
     "uikTvd": "4364003201634",
+    "uikName": "УИК №343",
     "tikTvd": "23620001279730",
-    "tikName": "Богучарская"
+    "tikName": "Богучарская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 344,
     "uikTvd": "4364003201635",
+    "uikName": "УИК №344",
     "tikTvd": "23620001279730",
-    "tikName": "Богучарская"
+    "tikName": "Богучарская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 345,
     "uikTvd": "4364003201636",
+    "uikName": "УИК №345",
     "tikTvd": "23620001279730",
-    "tikName": "Богучарская"
+    "tikName": "Богучарская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 346,
     "uikTvd": "4364003201637",
+    "uikName": "УИК №346",
     "tikTvd": "23620001279730",
-    "tikName": "Богучарская"
+    "tikName": "Богучарская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 347,
     "uikTvd": "4364003201638",
+    "uikName": "УИК №347",
     "tikTvd": "23620001279730",
-    "tikName": "Богучарская"
+    "tikName": "Богучарская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 401,
     "uikTvd": "4364004177062",
+    "uikName": "УИК №401",
     "tikTvd": "23620001279736",
-    "tikName": "Борисоглебская"
+    "tikName": "Борисоглебская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 402,
     "uikTvd": "4364004177063",
+    "uikName": "УИК №402",
     "tikTvd": "23620001279736",
-    "tikName": "Борисоглебская"
+    "tikName": "Борисоглебская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 403,
     "uikTvd": "4364004177064",
+    "uikName": "УИК №403",
     "tikTvd": "23620001279736",
-    "tikName": "Борисоглебская"
+    "tikName": "Борисоглебская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 404,
     "uikTvd": "4364004177065",
+    "uikName": "УИК №404",
     "tikTvd": "23620001279736",
-    "tikName": "Борисоглебская"
+    "tikName": "Борисоглебская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 405,
     "uikTvd": "4364004177066",
+    "uikName": "УИК №405",
     "tikTvd": "23620001279736",
-    "tikName": "Борисоглебская"
+    "tikName": "Борисоглебская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 406,
     "uikTvd": "4364004177067",
+    "uikName": "УИК №406",
     "tikTvd": "23620001279736",
-    "tikName": "Борисоглебская"
+    "tikName": "Борисоглебская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 407,
     "uikTvd": "4364004177068",
+    "uikName": "УИК №407",
     "tikTvd": "23620001279736",
-    "tikName": "Борисоглебская"
+    "tikName": "Борисоглебская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 408,
     "uikTvd": "4364004177069",
+    "uikName": "УИК №408",
     "tikTvd": "23620001279736",
-    "tikName": "Борисоглебская"
+    "tikName": "Борисоглебская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 409,
     "uikTvd": "4364004177070",
+    "uikName": "УИК №409",
     "tikTvd": "23620001279736",
-    "tikName": "Борисоглебская"
+    "tikName": "Борисоглебская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 410,
     "uikTvd": "4364004177071",
+    "uikName": "УИК №410",
     "tikTvd": "23620001279736",
-    "tikName": "Борисоглебская"
+    "tikName": "Борисоглебская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 411,
     "uikTvd": "4364004177072",
+    "uikName": "УИК №411",
     "tikTvd": "23620001279736",
-    "tikName": "Борисоглебская"
+    "tikName": "Борисоглебская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 412,
     "uikTvd": "4364004177073",
+    "uikName": "УИК №412",
     "tikTvd": "23620001279736",
-    "tikName": "Борисоглебская"
+    "tikName": "Борисоглебская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 413,
     "uikTvd": "4364004177074",
+    "uikName": "УИК №413",
     "tikTvd": "23620001279736",
-    "tikName": "Борисоглебская"
+    "tikName": "Борисоглебская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 414,
     "uikTvd": "4364004177075",
+    "uikName": "УИК №414",
     "tikTvd": "23620001279736",
-    "tikName": "Борисоглебская"
+    "tikName": "Борисоглебская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 415,
     "uikTvd": "4364004177076",
+    "uikName": "УИК №415",
     "tikTvd": "23620001279736",
-    "tikName": "Борисоглебская"
+    "tikName": "Борисоглебская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 416,
     "uikTvd": "4364004177077",
+    "uikName": "УИК №416",
     "tikTvd": "23620001279736",
-    "tikName": "Борисоглебская"
+    "tikName": "Борисоглебская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 417,
     "uikTvd": "4364004177078",
+    "uikName": "УИК №417",
     "tikTvd": "23620001279736",
-    "tikName": "Борисоглебская"
+    "tikName": "Борисоглебская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 418,
     "uikTvd": "4364004177079",
+    "uikName": "УИК №418",
     "tikTvd": "23620001279736",
-    "tikName": "Борисоглебская"
+    "tikName": "Борисоглебская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 419,
     "uikTvd": "4364004177080",
+    "uikName": "УИК №419",
     "tikTvd": "23620001279736",
-    "tikName": "Борисоглебская"
+    "tikName": "Борисоглебская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 420,
     "uikTvd": "4364004177081",
+    "uikName": "УИК №420",
     "tikTvd": "23620001279736",
-    "tikName": "Борисоглебская"
+    "tikName": "Борисоглебская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 421,
     "uikTvd": "4364004177082",
+    "uikName": "УИК №421",
     "tikTvd": "23620001279736",
-    "tikName": "Борисоглебская"
+    "tikName": "Борисоглебская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 422,
     "uikTvd": "4364004177083",
+    "uikName": "УИК №422",
     "tikTvd": "23620001279736",
-    "tikName": "Борисоглебская"
+    "tikName": "Борисоглебская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 423,
     "uikTvd": "4364004177084",
+    "uikName": "УИК №423",
     "tikTvd": "23620001279736",
-    "tikName": "Борисоглебская"
+    "tikName": "Борисоглебская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 424,
     "uikTvd": "4364004177085",
+    "uikName": "УИК №424",
     "tikTvd": "23620001279736",
-    "tikName": "Борисоглебская"
+    "tikName": "Борисоглебская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 425,
     "uikTvd": "4364004177086",
+    "uikName": "УИК №425",
     "tikTvd": "23620001279736",
-    "tikName": "Борисоглебская"
+    "tikName": "Борисоглебская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 426,
     "uikTvd": "4364004177087",
+    "uikName": "УИК №426",
     "tikTvd": "23620001279736",
-    "tikName": "Борисоглебская"
+    "tikName": "Борисоглебская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 427,
     "uikTvd": "4364004177088",
+    "uikName": "УИК №427",
     "tikTvd": "23620001279736",
-    "tikName": "Борисоглебская"
+    "tikName": "Борисоглебская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 428,
     "uikTvd": "4364004177089",
+    "uikName": "УИК №428",
     "tikTvd": "23620001279736",
-    "tikName": "Борисоглебская"
+    "tikName": "Борисоглебская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 429,
     "uikTvd": "4364004177090",
+    "uikName": "УИК №429",
     "tikTvd": "23620001279736",
-    "tikName": "Борисоглебская"
+    "tikName": "Борисоглебская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 430,
     "uikTvd": "4364004177091",
+    "uikName": "УИК №430",
     "tikTvd": "23620001279736",
-    "tikName": "Борисоглебская"
+    "tikName": "Борисоглебская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 431,
     "uikTvd": "4364004177092",
+    "uikName": "УИК №431",
     "tikTvd": "23620001279736",
-    "tikName": "Борисоглебская"
+    "tikName": "Борисоглебская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 432,
     "uikTvd": "4364004177093",
+    "uikName": "УИК №432",
     "tikTvd": "23620001279736",
-    "tikName": "Борисоглебская"
+    "tikName": "Борисоглебская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 433,
     "uikTvd": "4364004177094",
+    "uikName": "УИК №433",
     "tikTvd": "23620001279736",
-    "tikName": "Борисоглебская"
+    "tikName": "Борисоглебская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 434,
     "uikTvd": "4364004177095",
+    "uikName": "УИК №434",
     "tikTvd": "23620001279736",
-    "tikName": "Борисоглебская"
+    "tikName": "Борисоглебская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 435,
     "uikTvd": "4364004177096",
+    "uikName": "УИК №435",
     "tikTvd": "23620001279736",
-    "tikName": "Борисоглебская"
+    "tikName": "Борисоглебская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 436,
     "uikTvd": "4364004177097",
+    "uikName": "УИК №436",
     "tikTvd": "23620001279736",
-    "tikName": "Борисоглебская"
+    "tikName": "Борисоглебская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 437,
     "uikTvd": "4364004177098",
+    "uikName": "УИК №437",
     "tikTvd": "23620001279736",
-    "tikName": "Борисоглебская"
+    "tikName": "Борисоглебская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 438,
     "uikTvd": "4364004177099",
+    "uikName": "УИК №438",
     "tikTvd": "23620001279736",
-    "tikName": "Борисоглебская"
+    "tikName": "Борисоглебская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 439,
     "uikTvd": "4364004177100",
+    "uikName": "УИК №439",
     "tikTvd": "23620001279736",
-    "tikName": "Борисоглебская"
+    "tikName": "Борисоглебская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 440,
     "uikTvd": "4364004177101",
+    "uikName": "УИК №440",
     "tikTvd": "23620001279736",
-    "tikName": "Борисоглебская"
+    "tikName": "Борисоглебская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 441,
     "uikTvd": "4364004177102",
+    "uikName": "УИК №441",
     "tikTvd": "23620001279736",
-    "tikName": "Борисоглебская"
+    "tikName": "Борисоглебская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 442,
     "uikTvd": "4364004177103",
+    "uikName": "УИК №442",
     "tikTvd": "23620001279736",
-    "tikName": "Борисоглебская"
+    "tikName": "Борисоглебская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 443,
     "uikTvd": "4364004177104",
+    "uikName": "УИК №443",
     "tikTvd": "23620001279736",
-    "tikName": "Борисоглебская"
+    "tikName": "Борисоглебская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 444,
     "uikTvd": "4364004177105",
+    "uikName": "УИК №444",
     "tikTvd": "23620001279736",
-    "tikName": "Борисоглебская"
+    "tikName": "Борисоглебская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 445,
     "uikTvd": "4364004177106",
+    "uikName": "УИК №445",
     "tikTvd": "23620001279736",
-    "tikName": "Борисоглебская"
+    "tikName": "Борисоглебская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 446,
     "uikTvd": "4364004177107",
+    "uikName": "УИК №446",
     "tikTvd": "23620001279736",
-    "tikName": "Борисоглебская"
+    "tikName": "Борисоглебская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 447,
     "uikTvd": "4364004177108",
+    "uikName": "УИК №447",
     "tikTvd": "23620001279736",
-    "tikName": "Борисоглебская"
+    "tikName": "Борисоглебская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 448,
     "uikTvd": "4364004177109",
+    "uikName": "УИК №448",
     "tikTvd": "23620001279736",
-    "tikName": "Борисоглебская"
+    "tikName": "Борисоглебская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 449,
     "uikTvd": "4364004177110",
+    "uikName": "УИК №449",
     "tikTvd": "23620001279736",
-    "tikName": "Борисоглебская"
+    "tikName": "Борисоглебская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 450,
     "uikTvd": "4364004177111",
+    "uikName": "УИК №450",
     "tikTvd": "23620001279736",
-    "tikName": "Борисоглебская"
+    "tikName": "Борисоглебская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 501,
     "uikTvd": "4364005207994",
+    "uikName": "УИК №501",
     "tikTvd": "23620001279745",
-    "tikName": "Бутурлиновская"
+    "tikName": "Бутурлиновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 502,
     "uikTvd": "4364005207995",
+    "uikName": "УИК №502",
     "tikTvd": "23620001279745",
-    "tikName": "Бутурлиновская"
+    "tikName": "Бутурлиновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 503,
     "uikTvd": "4364005207996",
+    "uikName": "УИК №503",
     "tikTvd": "23620001279745",
-    "tikName": "Бутурлиновская"
+    "tikName": "Бутурлиновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 504,
     "uikTvd": "4364005207997",
+    "uikName": "УИК №504",
     "tikTvd": "23620001279745",
-    "tikName": "Бутурлиновская"
+    "tikName": "Бутурлиновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 505,
     "uikTvd": "4364005207998",
+    "uikName": "УИК №505",
     "tikTvd": "23620001279745",
-    "tikName": "Бутурлиновская"
+    "tikName": "Бутурлиновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 506,
     "uikTvd": "4364005207999",
+    "uikName": "УИК №506",
     "tikTvd": "23620001279745",
-    "tikName": "Бутурлиновская"
+    "tikName": "Бутурлиновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 507,
     "uikTvd": "4364005208000",
+    "uikName": "УИК №507",
     "tikTvd": "23620001279745",
-    "tikName": "Бутурлиновская"
+    "tikName": "Бутурлиновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 508,
     "uikTvd": "4364005208001",
+    "uikName": "УИК №508",
     "tikTvd": "23620001279745",
-    "tikName": "Бутурлиновская"
+    "tikName": "Бутурлиновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 509,
     "uikTvd": "4364005208002",
+    "uikName": "УИК №509",
     "tikTvd": "23620001279745",
-    "tikName": "Бутурлиновская"
+    "tikName": "Бутурлиновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 510,
     "uikTvd": "4364005208003",
+    "uikName": "УИК №510",
     "tikTvd": "23620001279745",
-    "tikName": "Бутурлиновская"
+    "tikName": "Бутурлиновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 511,
     "uikTvd": "4364005208004",
+    "uikName": "УИК №511",
     "tikTvd": "23620001279745",
-    "tikName": "Бутурлиновская"
+    "tikName": "Бутурлиновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 512,
     "uikTvd": "4364005208005",
+    "uikName": "УИК №512",
     "tikTvd": "23620001279745",
-    "tikName": "Бутурлиновская"
+    "tikName": "Бутурлиновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 513,
     "uikTvd": "4364005208006",
+    "uikName": "УИК №513",
     "tikTvd": "23620001279745",
-    "tikName": "Бутурлиновская"
+    "tikName": "Бутурлиновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 514,
     "uikTvd": "4364005208007",
+    "uikName": "УИК №514",
     "tikTvd": "23620001279745",
-    "tikName": "Бутурлиновская"
+    "tikName": "Бутурлиновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 515,
     "uikTvd": "4364005208008",
+    "uikName": "УИК №515",
     "tikTvd": "23620001279745",
-    "tikName": "Бутурлиновская"
+    "tikName": "Бутурлиновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 516,
     "uikTvd": "4364005208009",
+    "uikName": "УИК №516",
     "tikTvd": "23620001279745",
-    "tikName": "Бутурлиновская"
+    "tikName": "Бутурлиновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 517,
     "uikTvd": "4364005208010",
+    "uikName": "УИК №517",
     "tikTvd": "23620001279745",
-    "tikName": "Бутурлиновская"
+    "tikName": "Бутурлиновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 518,
     "uikTvd": "4364005208011",
+    "uikName": "УИК №518",
     "tikTvd": "23620001279745",
-    "tikName": "Бутурлиновская"
+    "tikName": "Бутурлиновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 519,
     "uikTvd": "4364005208012",
+    "uikName": "УИК №519",
     "tikTvd": "23620001279745",
-    "tikName": "Бутурлиновская"
+    "tikName": "Бутурлиновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 520,
     "uikTvd": "4364005208013",
+    "uikName": "УИК №520",
     "tikTvd": "23620001279745",
-    "tikName": "Бутурлиновская"
+    "tikName": "Бутурлиновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 521,
     "uikTvd": "4364005208014",
+    "uikName": "УИК №521",
     "tikTvd": "23620001279745",
-    "tikName": "Бутурлиновская"
+    "tikName": "Бутурлиновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 522,
     "uikTvd": "4364005208015",
+    "uikName": "УИК №522",
     "tikTvd": "23620001279745",
-    "tikName": "Бутурлиновская"
+    "tikName": "Бутурлиновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 523,
     "uikTvd": "4364005208016",
+    "uikName": "УИК №523",
     "tikTvd": "23620001279745",
-    "tikName": "Бутурлиновская"
+    "tikName": "Бутурлиновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 524,
     "uikTvd": "4364005208017",
+    "uikName": "УИК №524",
     "tikTvd": "23620001279745",
-    "tikName": "Бутурлиновская"
+    "tikName": "Бутурлиновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 525,
     "uikTvd": "4364005208018",
+    "uikName": "УИК №525",
     "tikTvd": "23620001279745",
-    "tikName": "Бутурлиновская"
+    "tikName": "Бутурлиновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 526,
     "uikTvd": "4364005208019",
+    "uikName": "УИК №526",
     "tikTvd": "23620001279745",
-    "tikName": "Бутурлиновская"
+    "tikName": "Бутурлиновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 527,
     "uikTvd": "4364005208020",
+    "uikName": "УИК №527",
     "tikTvd": "23620001279745",
-    "tikName": "Бутурлиновская"
+    "tikName": "Бутурлиновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 528,
     "uikTvd": "4364005208021",
+    "uikName": "УИК №528",
     "tikTvd": "23620001279745",
-    "tikName": "Бутурлиновская"
+    "tikName": "Бутурлиновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 529,
     "uikTvd": "4364005208022",
+    "uikName": "УИК №529",
     "tikTvd": "23620001279745",
-    "tikName": "Бутурлиновская"
+    "tikName": "Бутурлиновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 530,
     "uikTvd": "4364005208023",
+    "uikName": "УИК №530",
     "tikTvd": "23620001279745",
-    "tikName": "Бутурлиновская"
+    "tikName": "Бутурлиновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 531,
     "uikTvd": "4364005208024",
+    "uikName": "УИК №531",
     "tikTvd": "23620001279745",
-    "tikName": "Бутурлиновская"
+    "tikName": "Бутурлиновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 532,
     "uikTvd": "4364005208025",
+    "uikName": "УИК №532",
     "tikTvd": "23620001279745",
-    "tikName": "Бутурлиновская"
+    "tikName": "Бутурлиновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 533,
     "uikTvd": "4364005208026",
+    "uikName": "УИК №533",
     "tikTvd": "23620001279745",
-    "tikName": "Бутурлиновская"
+    "tikName": "Бутурлиновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 534,
     "uikTvd": "4364005208027",
+    "uikName": "УИК №534",
     "tikTvd": "23620001279745",
-    "tikName": "Бутурлиновская"
+    "tikName": "Бутурлиновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 535,
     "uikTvd": "4364005208028",
+    "uikName": "УИК №535",
     "tikTvd": "23620001279745",
-    "tikName": "Бутурлиновская"
+    "tikName": "Бутурлиновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 536,
     "uikTvd": "4364005208029",
+    "uikName": "УИК №536",
     "tikTvd": "23620001279745",
-    "tikName": "Бутурлиновская"
+    "tikName": "Бутурлиновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 537,
     "uikTvd": "4364005208030",
+    "uikName": "УИК №537",
     "tikTvd": "23620001279745",
-    "tikName": "Бутурлиновская"
+    "tikName": "Бутурлиновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 538,
     "uikTvd": "4364005208031",
+    "uikName": "УИК №538",
     "tikTvd": "23620001279745",
-    "tikName": "Бутурлиновская"
+    "tikName": "Бутурлиновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 539,
     "uikTvd": "4364005208032",
+    "uikName": "УИК №539",
     "tikTvd": "23620001279745",
-    "tikName": "Бутурлиновская"
+    "tikName": "Бутурлиновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 540,
     "uikTvd": "4364005208033",
+    "uikName": "УИК №540",
     "tikTvd": "23620001279745",
-    "tikName": "Бутурлиновская"
+    "tikName": "Бутурлиновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 541,
     "uikTvd": "4364005208034",
+    "uikName": "УИК №541",
     "tikTvd": "23620001279745",
-    "tikName": "Бутурлиновская"
+    "tikName": "Бутурлиновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 601,
     "uikTvd": "4364006139893",
+    "uikName": "УИК №601",
     "tikTvd": "23620001279763",
-    "tikName": "Верхнемамонская"
+    "tikName": "Верхнемамонская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 602,
     "uikTvd": "4364006139894",
+    "uikName": "УИК №602",
     "tikTvd": "23620001279763",
-    "tikName": "Верхнемамонская"
+    "tikName": "Верхнемамонская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 603,
     "uikTvd": "4364006139895",
+    "uikName": "УИК №603",
     "tikTvd": "23620001279763",
-    "tikName": "Верхнемамонская"
+    "tikName": "Верхнемамонская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 604,
     "uikTvd": "4364006139896",
+    "uikName": "УИК №604",
     "tikTvd": "23620001279763",
-    "tikName": "Верхнемамонская"
+    "tikName": "Верхнемамонская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 605,
     "uikTvd": "4364006139897",
+    "uikName": "УИК №605",
     "tikTvd": "23620001279763",
-    "tikName": "Верхнемамонская"
+    "tikName": "Верхнемамонская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 606,
     "uikTvd": "4364006139898",
+    "uikName": "УИК №606",
     "tikTvd": "23620001279763",
-    "tikName": "Верхнемамонская"
+    "tikName": "Верхнемамонская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 607,
     "uikTvd": "4364006139899",
+    "uikName": "УИК №607",
     "tikTvd": "23620001279763",
-    "tikName": "Верхнемамонская"
+    "tikName": "Верхнемамонская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 608,
     "uikTvd": "4364006139900",
+    "uikName": "УИК №608",
     "tikTvd": "23620001279763",
-    "tikName": "Верхнемамонская"
+    "tikName": "Верхнемамонская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 609,
     "uikTvd": "4364006139901",
+    "uikName": "УИК №609",
     "tikTvd": "23620001279763",
-    "tikName": "Верхнемамонская"
+    "tikName": "Верхнемамонская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 610,
     "uikTvd": "4364006139902",
+    "uikName": "УИК №610",
     "tikTvd": "23620001279763",
-    "tikName": "Верхнемамонская"
+    "tikName": "Верхнемамонская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 611,
     "uikTvd": "4364006139903",
+    "uikName": "УИК №611",
     "tikTvd": "23620001279763",
-    "tikName": "Верхнемамонская"
+    "tikName": "Верхнемамонская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 612,
     "uikTvd": "4364006139904",
+    "uikName": "УИК №612",
     "tikTvd": "23620001279763",
-    "tikName": "Верхнемамонская"
+    "tikName": "Верхнемамонская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 613,
     "uikTvd": "4364006139905",
+    "uikName": "УИК №613",
     "tikTvd": "23620001279763",
-    "tikName": "Верхнемамонская"
+    "tikName": "Верхнемамонская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 614,
     "uikTvd": "4364006139906",
+    "uikName": "УИК №614",
     "tikTvd": "23620001279763",
-    "tikName": "Верхнемамонская"
+    "tikName": "Верхнемамонская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 615,
     "uikTvd": "4364006139907",
+    "uikName": "УИК №615",
     "tikTvd": "23620001279763",
-    "tikName": "Верхнемамонская"
+    "tikName": "Верхнемамонская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 616,
     "uikTvd": "4364006139908",
+    "uikName": "УИК №616",
     "tikTvd": "23620001279763",
-    "tikName": "Верхнемамонская"
+    "tikName": "Верхнемамонская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 617,
     "uikTvd": "4364006139909",
+    "uikName": "УИК №617",
     "tikTvd": "23620001279763",
-    "tikName": "Верхнемамонская"
+    "tikName": "Верхнемамонская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 618,
     "uikTvd": "4364006139910",
+    "uikName": "УИК №618",
     "tikTvd": "23620001279763",
-    "tikName": "Верхнемамонская"
+    "tikName": "Верхнемамонская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 619,
     "uikTvd": "4364006139911",
+    "uikName": "УИК №619",
     "tikTvd": "23620001279763",
-    "tikName": "Верхнемамонская"
+    "tikName": "Верхнемамонская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 701,
     "uikTvd": "4364007162011",
+    "uikName": "УИК №701",
     "tikTvd": "23620001279752",
-    "tikName": "Верхнехавская"
+    "tikName": "Верхнехавская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 702,
     "uikTvd": "4364007162012",
+    "uikName": "УИК №702",
     "tikTvd": "23620001279752",
-    "tikName": "Верхнехавская"
+    "tikName": "Верхнехавская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 703,
     "uikTvd": "4364007162013",
+    "uikName": "УИК №703",
     "tikTvd": "23620001279752",
-    "tikName": "Верхнехавская"
+    "tikName": "Верхнехавская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 704,
     "uikTvd": "4364007162014",
+    "uikName": "УИК №704",
     "tikTvd": "23620001279752",
-    "tikName": "Верхнехавская"
+    "tikName": "Верхнехавская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 705,
     "uikTvd": "4364007162015",
+    "uikName": "УИК №705",
     "tikTvd": "23620001279752",
-    "tikName": "Верхнехавская"
+    "tikName": "Верхнехавская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 706,
     "uikTvd": "4364007162016",
+    "uikName": "УИК №706",
     "tikTvd": "23620001279752",
-    "tikName": "Верхнехавская"
+    "tikName": "Верхнехавская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 707,
     "uikTvd": "4364007162017",
+    "uikName": "УИК №707",
     "tikTvd": "23620001279752",
-    "tikName": "Верхнехавская"
+    "tikName": "Верхнехавская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 708,
     "uikTvd": "4364007162018",
+    "uikName": "УИК №708",
     "tikTvd": "23620001279752",
-    "tikName": "Верхнехавская"
+    "tikName": "Верхнехавская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 709,
     "uikTvd": "4364007162019",
+    "uikName": "УИК №709",
     "tikTvd": "23620001279752",
-    "tikName": "Верхнехавская"
+    "tikName": "Верхнехавская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 710,
     "uikTvd": "4364007162020",
+    "uikName": "УИК №710",
     "tikTvd": "23620001279752",
-    "tikName": "Верхнехавская"
+    "tikName": "Верхнехавская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 711,
     "uikTvd": "4364007162021",
+    "uikName": "УИК №711",
     "tikTvd": "23620001279752",
-    "tikName": "Верхнехавская"
+    "tikName": "Верхнехавская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 712,
     "uikTvd": "4364007162022",
+    "uikName": "УИК №712",
     "tikTvd": "23620001279752",
-    "tikName": "Верхнехавская"
+    "tikName": "Верхнехавская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 713,
     "uikTvd": "4364007162023",
+    "uikName": "УИК №713",
     "tikTvd": "23620001279752",
-    "tikName": "Верхнехавская"
+    "tikName": "Верхнехавская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 714,
     "uikTvd": "4364007162024",
+    "uikName": "УИК №714",
     "tikTvd": "23620001279752",
-    "tikName": "Верхнехавская"
+    "tikName": "Верхнехавская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 715,
     "uikTvd": "4364007162025",
+    "uikName": "УИК №715",
     "tikTvd": "23620001279752",
-    "tikName": "Верхнехавская"
+    "tikName": "Верхнехавская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 716,
     "uikTvd": "4364007162026",
+    "uikName": "УИК №716",
     "tikTvd": "23620001279752",
-    "tikName": "Верхнехавская"
+    "tikName": "Верхнехавская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 717,
     "uikTvd": "4364007162027",
+    "uikName": "УИК №717",
     "tikTvd": "23620001279752",
-    "tikName": "Верхнехавская"
+    "tikName": "Верхнехавская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 718,
     "uikTvd": "4364007162028",
+    "uikName": "УИК №718",
     "tikTvd": "23620001279752",
-    "tikName": "Верхнехавская"
+    "tikName": "Верхнехавская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 719,
     "uikTvd": "4364007162029",
+    "uikName": "УИК №719",
     "tikTvd": "23620001279752",
-    "tikName": "Верхнехавская"
+    "tikName": "Верхнехавская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 720,
     "uikTvd": "4364007162030",
+    "uikName": "УИК №720",
     "tikTvd": "23620001279752",
-    "tikName": "Верхнехавская"
+    "tikName": "Верхнехавская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 721,
     "uikTvd": "4364007162031",
+    "uikName": "УИК №721",
     "tikTvd": "23620001279752",
-    "tikName": "Верхнехавская"
+    "tikName": "Верхнехавская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 722,
     "uikTvd": "4364007162032",
+    "uikName": "УИК №722",
     "tikTvd": "23620001279752",
-    "tikName": "Верхнехавская"
+    "tikName": "Верхнехавская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 723,
     "uikTvd": "4364007162033",
+    "uikName": "УИК №723",
     "tikTvd": "23620001279752",
-    "tikName": "Верхнехавская"
+    "tikName": "Верхнехавская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 724,
     "uikTvd": "4364007162034",
+    "uikName": "УИК №724",
     "tikTvd": "23620001279752",
-    "tikName": "Верхнехавская"
+    "tikName": "Верхнехавская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 725,
     "uikTvd": "4364007162035",
+    "uikName": "УИК №725",
     "tikTvd": "23620001279752",
-    "tikName": "Верхнехавская"
+    "tikName": "Верхнехавская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 726,
     "uikTvd": "4364007162036",
+    "uikName": "УИК №726",
     "tikTvd": "23620001279752",
-    "tikName": "Верхнехавская"
+    "tikName": "Верхнехавская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 727,
     "uikTvd": "4364007162037",
+    "uikName": "УИК №727",
     "tikTvd": "23620001279752",
-    "tikName": "Верхнехавская"
+    "tikName": "Верхнехавская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 728,
     "uikTvd": "4364007162038",
+    "uikName": "УИК №728",
     "tikTvd": "23620001279752",
-    "tikName": "Верхнехавская"
+    "tikName": "Верхнехавская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 729,
     "uikTvd": "4364007162039",
+    "uikName": "УИК №729",
     "tikTvd": "23620001279752",
-    "tikName": "Верхнехавская"
+    "tikName": "Верхнехавская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 730,
     "uikTvd": "4364007162040",
+    "uikName": "УИК №730",
     "tikTvd": "23620001279752",
-    "tikName": "Верхнехавская"
+    "tikName": "Верхнехавская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 731,
     "uikTvd": "4364007162041",
+    "uikName": "УИК №731",
     "tikTvd": "23620001279752",
-    "tikName": "Верхнехавская"
+    "tikName": "Верхнехавская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 801,
     "uikTvd": "4364008141342",
+    "uikName": "УИК №801",
     "tikTvd": "23620001279747",
-    "tikName": "Воробьевская"
+    "tikName": "Воробьевская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 802,
     "uikTvd": "4364008141343",
+    "uikName": "УИК №802",
     "tikTvd": "23620001279747",
-    "tikName": "Воробьевская"
+    "tikName": "Воробьевская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 803,
     "uikTvd": "4364008141344",
+    "uikName": "УИК №803",
     "tikTvd": "23620001279747",
-    "tikName": "Воробьевская"
+    "tikName": "Воробьевская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 804,
     "uikTvd": "4364008141345",
+    "uikName": "УИК №804",
     "tikTvd": "23620001279747",
-    "tikName": "Воробьевская"
+    "tikName": "Воробьевская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 805,
     "uikTvd": "4364008141346",
+    "uikName": "УИК №805",
     "tikTvd": "23620001279747",
-    "tikName": "Воробьевская"
+    "tikName": "Воробьевская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 806,
     "uikTvd": "4364008141347",
+    "uikName": "УИК №806",
     "tikTvd": "23620001279747",
-    "tikName": "Воробьевская"
+    "tikName": "Воробьевская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 807,
     "uikTvd": "4364008141348",
+    "uikName": "УИК №807",
     "tikTvd": "23620001279747",
-    "tikName": "Воробьевская"
+    "tikName": "Воробьевская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 808,
     "uikTvd": "4364008141349",
+    "uikName": "УИК №808",
     "tikTvd": "23620001279747",
-    "tikName": "Воробьевская"
+    "tikName": "Воробьевская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 809,
     "uikTvd": "4364008141350",
+    "uikName": "УИК №809",
     "tikTvd": "23620001279747",
-    "tikName": "Воробьевская"
+    "tikName": "Воробьевская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 810,
     "uikTvd": "4364008141351",
+    "uikName": "УИК №810",
     "tikTvd": "23620001279747",
-    "tikName": "Воробьевская"
+    "tikName": "Воробьевская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 811,
     "uikTvd": "4364008141352",
+    "uikName": "УИК №811",
     "tikTvd": "23620001279747",
-    "tikName": "Воробьевская"
+    "tikName": "Воробьевская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 812,
     "uikTvd": "4364008141353",
+    "uikName": "УИК №812",
     "tikTvd": "23620001279747",
-    "tikName": "Воробьевская"
+    "tikName": "Воробьевская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 813,
     "uikTvd": "4364008141354",
+    "uikName": "УИК №813",
     "tikTvd": "23620001279747",
-    "tikName": "Воробьевская"
+    "tikName": "Воробьевская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 814,
     "uikTvd": "4364008141355",
+    "uikName": "УИК №814",
     "tikTvd": "23620001279747",
-    "tikName": "Воробьевская"
+    "tikName": "Воробьевская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 815,
     "uikTvd": "4364008141356",
+    "uikName": "УИК №815",
     "tikTvd": "23620001279747",
-    "tikName": "Воробьевская"
+    "tikName": "Воробьевская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 816,
     "uikTvd": "4364008141357",
+    "uikName": "УИК №816",
     "tikTvd": "23620001279747",
-    "tikName": "Воробьевская"
+    "tikName": "Воробьевская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 817,
     "uikTvd": "4364008141358",
+    "uikName": "УИК №817",
     "tikTvd": "23620001279747",
-    "tikName": "Воробьевская"
+    "tikName": "Воробьевская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 818,
     "uikTvd": "4364008141359",
+    "uikName": "УИК №818",
     "tikTvd": "23620001279747",
-    "tikName": "Воробьевская"
+    "tikName": "Воробьевская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 819,
     "uikTvd": "4364008141360",
+    "uikName": "УИК №819",
     "tikTvd": "23620001279747",
-    "tikName": "Воробьевская"
+    "tikName": "Воробьевская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 820,
     "uikTvd": "4364008141361",
+    "uikName": "УИК №820",
     "tikTvd": "23620001279747",
-    "tikName": "Воробьевская"
+    "tikName": "Воробьевская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 821,
     "uikTvd": "4364008141362",
+    "uikName": "УИК №821",
     "tikTvd": "23620001279747",
-    "tikName": "Воробьевская"
+    "tikName": "Воробьевская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 822,
     "uikTvd": "4364008141363",
+    "uikName": "УИК №822",
     "tikTvd": "23620001279747",
-    "tikName": "Воробьевская"
+    "tikName": "Воробьевская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 823,
     "uikTvd": "4364008141364",
+    "uikName": "УИК №823",
     "tikTvd": "23620001279747",
-    "tikName": "Воробьевская"
+    "tikName": "Воробьевская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 824,
     "uikTvd": "4364008141365",
+    "uikName": "УИК №824",
     "tikTvd": "23620001279747",
-    "tikName": "Воробьевская"
+    "tikName": "Воробьевская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 901,
     "uikTvd": "4364009213579",
+    "uikName": "УИК №901",
     "tikTvd": "23620001279755",
-    "tikName": "Воронеж, Железнодорожная"
+    "tikName": "Воронеж, Железнодорожная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 902,
     "uikTvd": "4364009213580",
+    "uikName": "УИК №902",
     "tikTvd": "23620001279755",
-    "tikName": "Воронеж, Железнодорожная"
+    "tikName": "Воронеж, Железнодорожная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 903,
     "uikTvd": "4364009213581",
+    "uikName": "УИК №903",
     "tikTvd": "23620001279755",
-    "tikName": "Воронеж, Железнодорожная"
+    "tikName": "Воронеж, Железнодорожная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 904,
     "uikTvd": "4364009213582",
+    "uikName": "УИК №904",
     "tikTvd": "23620001279755",
-    "tikName": "Воронеж, Железнодорожная"
+    "tikName": "Воронеж, Железнодорожная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 905,
     "uikTvd": "4364009213583",
+    "uikName": "УИК №905",
     "tikTvd": "23620001279755",
-    "tikName": "Воронеж, Железнодорожная"
+    "tikName": "Воронеж, Железнодорожная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 906,
     "uikTvd": "4364009213584",
+    "uikName": "УИК №906",
     "tikTvd": "23620001279755",
-    "tikName": "Воронеж, Железнодорожная"
+    "tikName": "Воронеж, Железнодорожная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 907,
     "uikTvd": "4364009213585",
+    "uikName": "УИК №907",
     "tikTvd": "23620001279755",
-    "tikName": "Воронеж, Железнодорожная"
+    "tikName": "Воронеж, Железнодорожная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 908,
     "uikTvd": "4364009213586",
+    "uikName": "УИК №908",
     "tikTvd": "23620001279755",
-    "tikName": "Воронеж, Железнодорожная"
+    "tikName": "Воронеж, Железнодорожная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 909,
     "uikTvd": "4364009213587",
+    "uikName": "УИК №909",
     "tikTvd": "23620001279755",
-    "tikName": "Воронеж, Железнодорожная"
+    "tikName": "Воронеж, Железнодорожная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 910,
     "uikTvd": "4364009213588",
+    "uikName": "УИК №910",
     "tikTvd": "23620001279755",
-    "tikName": "Воронеж, Железнодорожная"
+    "tikName": "Воронеж, Железнодорожная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 911,
     "uikTvd": "4364009213589",
+    "uikName": "УИК №911",
     "tikTvd": "23620001279755",
-    "tikName": "Воронеж, Железнодорожная"
+    "tikName": "Воронеж, Железнодорожная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 912,
     "uikTvd": "4364009213590",
+    "uikName": "УИК №912",
     "tikTvd": "23620001279755",
-    "tikName": "Воронеж, Железнодорожная"
+    "tikName": "Воронеж, Железнодорожная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 913,
     "uikTvd": "4364009213591",
+    "uikName": "УИК №913",
     "tikTvd": "23620001279755",
-    "tikName": "Воронеж, Железнодорожная"
+    "tikName": "Воронеж, Железнодорожная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 914,
     "uikTvd": "4364009213592",
+    "uikName": "УИК №914",
     "tikTvd": "23620001279755",
-    "tikName": "Воронеж, Железнодорожная"
+    "tikName": "Воронеж, Железнодорожная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 915,
     "uikTvd": "4364009213593",
+    "uikName": "УИК №915",
     "tikTvd": "23620001279755",
-    "tikName": "Воронеж, Железнодорожная"
+    "tikName": "Воронеж, Железнодорожная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 916,
     "uikTvd": "4364009213594",
+    "uikName": "УИК №916",
     "tikTvd": "23620001279755",
-    "tikName": "Воронеж, Железнодорожная"
+    "tikName": "Воронеж, Железнодорожная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 917,
     "uikTvd": "4364009213595",
+    "uikName": "УИК №917",
     "tikTvd": "23620001279755",
-    "tikName": "Воронеж, Железнодорожная"
+    "tikName": "Воронеж, Железнодорожная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 918,
     "uikTvd": "4364009213596",
+    "uikName": "УИК №918",
     "tikTvd": "23620001279755",
-    "tikName": "Воронеж, Железнодорожная"
+    "tikName": "Воронеж, Железнодорожная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 919,
     "uikTvd": "4364009213597",
+    "uikName": "УИК №919",
     "tikTvd": "23620001279755",
-    "tikName": "Воронеж, Железнодорожная"
+    "tikName": "Воронеж, Железнодорожная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 920,
     "uikTvd": "4364009213598",
+    "uikName": "УИК №920",
     "tikTvd": "23620001279755",
-    "tikName": "Воронеж, Железнодорожная"
+    "tikName": "Воронеж, Железнодорожная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 921,
     "uikTvd": "4364009213599",
+    "uikName": "УИК №921",
     "tikTvd": "23620001279755",
-    "tikName": "Воронеж, Железнодорожная"
+    "tikName": "Воронеж, Железнодорожная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 922,
     "uikTvd": "4364009213600",
+    "uikName": "УИК №922",
     "tikTvd": "23620001279755",
-    "tikName": "Воронеж, Железнодорожная"
+    "tikName": "Воронеж, Железнодорожная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 923,
     "uikTvd": "4364009213601",
+    "uikName": "УИК №923",
     "tikTvd": "23620001279755",
-    "tikName": "Воронеж, Железнодорожная"
+    "tikName": "Воронеж, Железнодорожная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 924,
     "uikTvd": "4364009213602",
+    "uikName": "УИК №924",
     "tikTvd": "23620001279755",
-    "tikName": "Воронеж, Железнодорожная"
+    "tikName": "Воронеж, Железнодорожная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 925,
     "uikTvd": "4364009213603",
+    "uikName": "УИК №925",
     "tikTvd": "23620001279755",
-    "tikName": "Воронеж, Железнодорожная"
+    "tikName": "Воронеж, Железнодорожная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 926,
     "uikTvd": "4364009213604",
+    "uikName": "УИК №926",
     "tikTvd": "23620001279755",
-    "tikName": "Воронеж, Железнодорожная"
+    "tikName": "Воронеж, Железнодорожная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 927,
     "uikTvd": "4364009213605",
+    "uikName": "УИК №927",
     "tikTvd": "23620001279755",
-    "tikName": "Воронеж, Железнодорожная"
+    "tikName": "Воронеж, Железнодорожная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 928,
     "uikTvd": "4364009213606",
+    "uikName": "УИК №928",
     "tikTvd": "23620001279755",
-    "tikName": "Воронеж, Железнодорожная"
+    "tikName": "Воронеж, Железнодорожная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 929,
     "uikTvd": "4364009213607",
+    "uikName": "УИК №929",
     "tikTvd": "23620001279755",
-    "tikName": "Воронеж, Железнодорожная"
+    "tikName": "Воронеж, Железнодорожная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 930,
     "uikTvd": "4364009213608",
+    "uikName": "УИК №930",
     "tikTvd": "23620001279755",
-    "tikName": "Воронеж, Железнодорожная"
+    "tikName": "Воронеж, Железнодорожная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 931,
     "uikTvd": "4364009213609",
+    "uikName": "УИК №931",
     "tikTvd": "23620001279755",
-    "tikName": "Воронеж, Железнодорожная"
+    "tikName": "Воронеж, Железнодорожная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 932,
     "uikTvd": "4364009213610",
+    "uikName": "УИК №932",
     "tikTvd": "23620001279755",
-    "tikName": "Воронеж, Железнодорожная"
+    "tikName": "Воронеж, Железнодорожная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 933,
     "uikTvd": "4364009213611",
+    "uikName": "УИК №933",
     "tikTvd": "23620001279755",
-    "tikName": "Воронеж, Железнодорожная"
+    "tikName": "Воронеж, Железнодорожная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 934,
     "uikTvd": "4364009213612",
+    "uikName": "УИК №934",
     "tikTvd": "23620001279755",
-    "tikName": "Воронеж, Железнодорожная"
+    "tikName": "Воронеж, Железнодорожная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 935,
     "uikTvd": "4364009213613",
+    "uikName": "УИК №935",
     "tikTvd": "23620001279755",
-    "tikName": "Воронеж, Железнодорожная"
+    "tikName": "Воронеж, Железнодорожная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 936,
     "uikTvd": "4364009213614",
+    "uikName": "УИК №936",
     "tikTvd": "23620001279755",
-    "tikName": "Воронеж, Железнодорожная"
+    "tikName": "Воронеж, Железнодорожная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 937,
     "uikTvd": "4364009213615",
+    "uikName": "УИК №937",
     "tikTvd": "23620001279755",
-    "tikName": "Воронеж, Железнодорожная"
+    "tikName": "Воронеж, Железнодорожная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 938,
     "uikTvd": "4364009213616",
+    "uikName": "УИК №938",
     "tikTvd": "23620001279755",
-    "tikName": "Воронеж, Железнодорожная"
+    "tikName": "Воронеж, Железнодорожная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 939,
     "uikTvd": "4364009213617",
+    "uikName": "УИК №939",
     "tikTvd": "23620001279755",
-    "tikName": "Воронеж, Железнодорожная"
+    "tikName": "Воронеж, Железнодорожная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 940,
     "uikTvd": "4364009213618",
+    "uikName": "УИК №940",
     "tikTvd": "23620001279755",
-    "tikName": "Воронеж, Железнодорожная"
+    "tikName": "Воронеж, Железнодорожная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 941,
     "uikTvd": "4364009213619",
+    "uikName": "УИК №941",
     "tikTvd": "23620001279755",
-    "tikName": "Воронеж, Железнодорожная"
+    "tikName": "Воронеж, Железнодорожная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 942,
     "uikTvd": "4364009213620",
+    "uikName": "УИК №942",
     "tikTvd": "23620001279755",
-    "tikName": "Воронеж, Железнодорожная"
+    "tikName": "Воронеж, Железнодорожная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 943,
     "uikTvd": "4364009213621",
+    "uikName": "УИК №943",
     "tikTvd": "23620001279755",
-    "tikName": "Воронеж, Железнодорожная"
+    "tikName": "Воронеж, Железнодорожная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 944,
     "uikTvd": "4364009213622",
+    "uikName": "УИК №944",
     "tikTvd": "23620001279755",
-    "tikName": "Воронеж, Железнодорожная"
+    "tikName": "Воронеж, Железнодорожная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 945,
     "uikTvd": "4364009213623",
+    "uikName": "УИК №945",
     "tikTvd": "23620001279755",
-    "tikName": "Воронеж, Железнодорожная"
+    "tikName": "Воронеж, Железнодорожная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 946,
     "uikTvd": "4364009213624",
+    "uikName": "УИК №946",
     "tikTvd": "23620001279755",
-    "tikName": "Воронеж, Железнодорожная"
+    "tikName": "Воронеж, Железнодорожная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 947,
     "uikTvd": "4364009213625",
+    "uikName": "УИК №947",
     "tikTvd": "23620001279755",
-    "tikName": "Воронеж, Железнодорожная"
+    "tikName": "Воронеж, Железнодорожная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 948,
     "uikTvd": "4364009213626",
+    "uikName": "УИК №948",
     "tikTvd": "23620001279755",
-    "tikName": "Воронеж, Железнодорожная"
+    "tikName": "Воронеж, Железнодорожная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 949,
     "uikTvd": "4364009213627",
+    "uikName": "УИК №949",
     "tikTvd": "23620001279755",
-    "tikName": "Воронеж, Железнодорожная"
+    "tikName": "Воронеж, Железнодорожная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 950,
     "uikTvd": "4364009213628",
+    "uikName": "УИК №950",
     "tikTvd": "23620001279755",
-    "tikName": "Воронеж, Железнодорожная"
+    "tikName": "Воронеж, Железнодорожная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 951,
     "uikTvd": "4364009213629",
+    "uikName": "УИК №951",
     "tikTvd": "23620001279755",
-    "tikName": "Воронеж, Железнодорожная"
+    "tikName": "Воронеж, Железнодорожная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 952,
     "uikTvd": "4364009213630",
+    "uikName": "УИК №952",
     "tikTvd": "23620001279755",
-    "tikName": "Воронеж, Железнодорожная"
+    "tikName": "Воронеж, Железнодорожная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 953,
     "uikTvd": "4364009213631",
+    "uikName": "УИК №953",
     "tikTvd": "23620001279755",
-    "tikName": "Воронеж, Железнодорожная"
+    "tikName": "Воронеж, Железнодорожная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 954,
     "uikTvd": "4364009213632",
+    "uikName": "УИК №954",
     "tikTvd": "23620001279755",
-    "tikName": "Воронеж, Железнодорожная"
+    "tikName": "Воронеж, Железнодорожная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 955,
     "uikTvd": "4364009213633",
+    "uikName": "УИК №955",
     "tikTvd": "23620001279755",
-    "tikName": "Воронеж, Железнодорожная"
+    "tikName": "Воронеж, Железнодорожная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 956,
     "uikTvd": "4364009213634",
+    "uikName": "УИК №956",
     "tikTvd": "23620001279755",
-    "tikName": "Воронеж, Железнодорожная"
+    "tikName": "Воронеж, Железнодорожная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 957,
     "uikTvd": "4364009213635",
+    "uikName": "УИК №957",
     "tikTvd": "23620001279755",
-    "tikName": "Воронеж, Железнодорожная"
+    "tikName": "Воронеж, Железнодорожная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 958,
     "uikTvd": "4364009213636",
+    "uikName": "УИК №958",
     "tikTvd": "23620001279755",
-    "tikName": "Воронеж, Железнодорожная"
+    "tikName": "Воронеж, Железнодорожная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 959,
     "uikTvd": "4364009213637",
+    "uikName": "УИК №959",
     "tikTvd": "23620001279755",
-    "tikName": "Воронеж, Железнодорожная"
+    "tikName": "Воронеж, Железнодорожная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 960,
     "uikTvd": "4364009213638",
+    "uikName": "УИК №960",
     "tikTvd": "23620001279755",
-    "tikName": "Воронеж, Железнодорожная"
+    "tikName": "Воронеж, Железнодорожная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 961,
     "uikTvd": "4364009213639",
+    "uikName": "УИК №961",
     "tikTvd": "23620001279755",
-    "tikName": "Воронеж, Железнодорожная"
+    "tikName": "Воронеж, Железнодорожная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 962,
     "uikTvd": "4364009213640",
+    "uikName": "УИК №962",
     "tikTvd": "23620001279755",
-    "tikName": "Воронеж, Железнодорожная"
+    "tikName": "Воронеж, Железнодорожная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1001,
     "uikTvd": "4364010414229",
+    "uikName": "УИК №1001",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1002,
     "uikTvd": "4364010414230",
+    "uikName": "УИК №1002",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1003,
     "uikTvd": "4364010414231",
+    "uikName": "УИК №1003",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1004,
     "uikTvd": "4364010414232",
+    "uikName": "УИК №1004",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1005,
     "uikTvd": "4364010414233",
+    "uikName": "УИК №1005",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1006,
     "uikTvd": "4364010414234",
+    "uikName": "УИК №1006",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1007,
     "uikTvd": "4364010414235",
+    "uikName": "УИК №1007",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1008,
     "uikTvd": "4364010414236",
+    "uikName": "УИК №1008",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1009,
     "uikTvd": "4364010414237",
+    "uikName": "УИК №1009",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1010,
     "uikTvd": "4364010414238",
+    "uikName": "УИК №1010",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1011,
     "uikTvd": "4364010414239",
+    "uikName": "УИК №1011",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1012,
     "uikTvd": "4364010414240",
+    "uikName": "УИК №1012",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1013,
     "uikTvd": "4364010414241",
+    "uikName": "УИК №1013",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1014,
     "uikTvd": "4364010414242",
+    "uikName": "УИК №1014",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1015,
     "uikTvd": "4364010414243",
+    "uikName": "УИК №1015",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1016,
     "uikTvd": "4364010414244",
+    "uikName": "УИК №1016",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1017,
     "uikTvd": "4364010414245",
+    "uikName": "УИК №1017",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1018,
     "uikTvd": "4364010414246",
+    "uikName": "УИК №1018",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1019,
     "uikTvd": "4364010414247",
+    "uikName": "УИК №1019",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1020,
     "uikTvd": "4364010414248",
+    "uikName": "УИК №1020",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1021,
     "uikTvd": "4364010414249",
+    "uikName": "УИК №1021",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1022,
     "uikTvd": "4364010414250",
+    "uikName": "УИК №1022",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1023,
     "uikTvd": "4364010414251",
+    "uikName": "УИК №1023",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1024,
     "uikTvd": "4364010414252",
+    "uikName": "УИК №1024",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1025,
     "uikTvd": "4364010414253",
+    "uikName": "УИК №1025",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1026,
     "uikTvd": "4364010414254",
+    "uikName": "УИК №1026",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1027,
     "uikTvd": "4364010414255",
+    "uikName": "УИК №1027",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1028,
     "uikTvd": "4364010414256",
+    "uikName": "УИК №1028",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1029,
     "uikTvd": "4364010414257",
+    "uikName": "УИК №1029",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1030,
     "uikTvd": "4364010414258",
+    "uikName": "УИК №1030",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1031,
     "uikTvd": "4364010414259",
+    "uikName": "УИК №1031",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1032,
     "uikTvd": "4364010414260",
+    "uikName": "УИК №1032",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1033,
     "uikTvd": "4364010414261",
+    "uikName": "УИК №1033",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1034,
     "uikTvd": "4364010414262",
+    "uikName": "УИК №1034",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1035,
     "uikTvd": "4364010414263",
+    "uikName": "УИК №1035",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1036,
     "uikTvd": "4364010414264",
+    "uikName": "УИК №1036",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1037,
     "uikTvd": "4364010414265",
+    "uikName": "УИК №1037",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1038,
     "uikTvd": "4364010414266",
+    "uikName": "УИК №1038",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1039,
     "uikTvd": "4364010414267",
+    "uikName": "УИК №1039",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1040,
     "uikTvd": "4364010414268",
+    "uikName": "УИК №1040",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1041,
     "uikTvd": "4364010414269",
+    "uikName": "УИК №1041",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1042,
     "uikTvd": "4364010414270",
+    "uikName": "УИК №1042",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1043,
     "uikTvd": "4364010414271",
+    "uikName": "УИК №1043",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1044,
     "uikTvd": "4364010414272",
+    "uikName": "УИК №1044",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1045,
     "uikTvd": "4364010414273",
+    "uikName": "УИК №1045",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1046,
     "uikTvd": "4364010414274",
+    "uikName": "УИК №1046",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1047,
     "uikTvd": "4364010414275",
+    "uikName": "УИК №1047",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1048,
     "uikTvd": "4364010414276",
+    "uikName": "УИК №1048",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1049,
     "uikTvd": "4364010414277",
+    "uikName": "УИК №1049",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1050,
     "uikTvd": "4364010414278",
+    "uikName": "УИК №1050",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1051,
     "uikTvd": "4364010414279",
+    "uikName": "УИК №1051",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1052,
     "uikTvd": "4364010414280",
+    "uikName": "УИК №1052",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1053,
     "uikTvd": "4364010414281",
+    "uikName": "УИК №1053",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1054,
     "uikTvd": "4364010414282",
+    "uikName": "УИК №1054",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1055,
     "uikTvd": "4364010414283",
+    "uikName": "УИК №1055",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1056,
     "uikTvd": "4364010414284",
+    "uikName": "УИК №1056",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1057,
     "uikTvd": "4364010414285",
+    "uikName": "УИК №1057",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1058,
     "uikTvd": "4364010414286",
+    "uikName": "УИК №1058",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1059,
     "uikTvd": "4364010414287",
+    "uikName": "УИК №1059",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1060,
     "uikTvd": "4364010414288",
+    "uikName": "УИК №1060",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1061,
     "uikTvd": "4364010414289",
+    "uikName": "УИК №1061",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1062,
     "uikTvd": "4364010414290",
+    "uikName": "УИК №1062",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1063,
     "uikTvd": "4364010414291",
+    "uikName": "УИК №1063",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1064,
     "uikTvd": "4364010414292",
+    "uikName": "УИК №1064",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1065,
     "uikTvd": "4364010414293",
+    "uikName": "УИК №1065",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1066,
     "uikTvd": "4364010414294",
+    "uikName": "УИК №1066",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1067,
     "uikTvd": "4364010414295",
+    "uikName": "УИК №1067",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1068,
     "uikTvd": "4364010414296",
+    "uikName": "УИК №1068",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1069,
     "uikTvd": "4364010414297",
+    "uikName": "УИК №1069",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1070,
     "uikTvd": "4364010414298",
+    "uikName": "УИК №1070",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1071,
     "uikTvd": "4364010414299",
+    "uikName": "УИК №1071",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1072,
     "uikTvd": "4364010414300",
+    "uikName": "УИК №1072",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1073,
     "uikTvd": "4364010414301",
+    "uikName": "УИК №1073",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1074,
     "uikTvd": "4364010414302",
+    "uikName": "УИК №1074",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1075,
     "uikTvd": "4364010414303",
+    "uikName": "УИК №1075",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1076,
     "uikTvd": "4364010414304",
+    "uikName": "УИК №1076",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1077,
     "uikTvd": "4364010414305",
+    "uikName": "УИК №1077",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1078,
     "uikTvd": "4364010414306",
+    "uikName": "УИК №1078",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1079,
     "uikTvd": "4364010414307",
+    "uikName": "УИК №1079",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1080,
     "uikTvd": "4364010414308",
+    "uikName": "УИК №1080",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1081,
     "uikTvd": "4364010414309",
+    "uikName": "УИК №1081",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1082,
     "uikTvd": "4364010414310",
+    "uikName": "УИК №1082",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1083,
     "uikTvd": "4364010414311",
+    "uikName": "УИК №1083",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1084,
     "uikTvd": "4364010414312",
+    "uikName": "УИК №1084",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1085,
     "uikTvd": "4364010414313",
+    "uikName": "УИК №1085",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1086,
     "uikTvd": "4364010414314",
+    "uikName": "УИК №1086",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1087,
     "uikTvd": "4364010414315",
+    "uikName": "УИК №1087",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1088,
     "uikTvd": "4364010414316",
+    "uikName": "УИК №1088",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1089,
     "uikTvd": "4364010414317",
+    "uikName": "УИК №1089",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1090,
     "uikTvd": "4364010414318",
+    "uikName": "УИК №1090",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1091,
     "uikTvd": "4364010414319",
+    "uikName": "УИК №1091",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1092,
     "uikTvd": "4364010414320",
+    "uikName": "УИК №1092",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1093,
     "uikTvd": "4364010414321",
+    "uikName": "УИК №1093",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1094,
     "uikTvd": "4364010414322",
+    "uikName": "УИК №1094",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1095,
     "uikTvd": "4364010414323",
+    "uikName": "УИК №1095",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1096,
     "uikTvd": "4364010414324",
+    "uikName": "УИК №1096",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1097,
     "uikTvd": "4364010414325",
+    "uikName": "УИК №1097",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1098,
     "uikTvd": "4364010414326",
+    "uikName": "УИК №1098",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1099,
     "uikTvd": "4364010414327",
+    "uikName": "УИК №1099",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1101,
     "uikTvd": "4364011290596",
+    "uikName": "УИК №1101",
     "tikTvd": "23620001279762",
-    "tikName": "Воронеж, Левобережная"
+    "tikName": "Воронеж, Левобережная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1102,
     "uikTvd": "4364011290597",
+    "uikName": "УИК №1102",
     "tikTvd": "23620001279762",
-    "tikName": "Воронеж, Левобережная"
+    "tikName": "Воронеж, Левобережная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1103,
     "uikTvd": "4364011290598",
+    "uikName": "УИК №1103",
     "tikTvd": "23620001279762",
-    "tikName": "Воронеж, Левобережная"
+    "tikName": "Воронеж, Левобережная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1104,
     "uikTvd": "4364011290599",
+    "uikName": "УИК №1104",
     "tikTvd": "23620001279762",
-    "tikName": "Воронеж, Левобережная"
+    "tikName": "Воронеж, Левобережная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1105,
     "uikTvd": "4364011290600",
+    "uikName": "УИК №1105",
     "tikTvd": "23620001279762",
-    "tikName": "Воронеж, Левобережная"
+    "tikName": "Воронеж, Левобережная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1106,
     "uikTvd": "4364011290601",
+    "uikName": "УИК №1106",
     "tikTvd": "23620001279762",
-    "tikName": "Воронеж, Левобережная"
+    "tikName": "Воронеж, Левобережная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1107,
     "uikTvd": "4364011290602",
+    "uikName": "УИК №1107",
     "tikTvd": "23620001279762",
-    "tikName": "Воронеж, Левобережная"
+    "tikName": "Воронеж, Левобережная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1108,
     "uikTvd": "4364011290603",
+    "uikName": "УИК №1108",
     "tikTvd": "23620001279762",
-    "tikName": "Воронеж, Левобережная"
+    "tikName": "Воронеж, Левобережная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1109,
     "uikTvd": "4364011290604",
+    "uikName": "УИК №1109",
     "tikTvd": "23620001279762",
-    "tikName": "Воронеж, Левобережная"
+    "tikName": "Воронеж, Левобережная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1110,
     "uikTvd": "4364011290605",
+    "uikName": "УИК №1110",
     "tikTvd": "23620001279762",
-    "tikName": "Воронеж, Левобережная"
+    "tikName": "Воронеж, Левобережная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1111,
     "uikTvd": "4364011290606",
+    "uikName": "УИК №1111",
     "tikTvd": "23620001279762",
-    "tikName": "Воронеж, Левобережная"
+    "tikName": "Воронеж, Левобережная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1112,
     "uikTvd": "4364011290607",
+    "uikName": "УИК №1112",
     "tikTvd": "23620001279762",
-    "tikName": "Воронеж, Левобережная"
+    "tikName": "Воронеж, Левобережная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1113,
     "uikTvd": "4364011290608",
+    "uikName": "УИК №1113",
     "tikTvd": "23620001279762",
-    "tikName": "Воронеж, Левобережная"
+    "tikName": "Воронеж, Левобережная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1114,
     "uikTvd": "4364011290609",
+    "uikName": "УИК №1114",
     "tikTvd": "23620001279762",
-    "tikName": "Воронеж, Левобережная"
+    "tikName": "Воронеж, Левобережная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1115,
     "uikTvd": "4364011290610",
+    "uikName": "УИК №1115",
     "tikTvd": "23620001279762",
-    "tikName": "Воронеж, Левобережная"
+    "tikName": "Воронеж, Левобережная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1116,
     "uikTvd": "4364011290611",
+    "uikName": "УИК №1116",
     "tikTvd": "23620001279762",
-    "tikName": "Воронеж, Левобережная"
+    "tikName": "Воронеж, Левобережная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1117,
     "uikTvd": "4364011290612",
+    "uikName": "УИК №1117",
     "tikTvd": "23620001279762",
-    "tikName": "Воронеж, Левобережная"
+    "tikName": "Воронеж, Левобережная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1118,
     "uikTvd": "4364011290613",
+    "uikName": "УИК №1118",
     "tikTvd": "23620001279762",
-    "tikName": "Воронеж, Левобережная"
+    "tikName": "Воронеж, Левобережная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1119,
     "uikTvd": "4364011290614",
+    "uikName": "УИК №1119",
     "tikTvd": "23620001279762",
-    "tikName": "Воронеж, Левобережная"
+    "tikName": "Воронеж, Левобережная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1120,
     "uikTvd": "4364011290615",
+    "uikName": "УИК №1120",
     "tikTvd": "23620001279762",
-    "tikName": "Воронеж, Левобережная"
+    "tikName": "Воронеж, Левобережная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1121,
     "uikTvd": "4364011290616",
+    "uikName": "УИК №1121",
     "tikTvd": "23620001279762",
-    "tikName": "Воронеж, Левобережная"
+    "tikName": "Воронеж, Левобережная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1122,
     "uikTvd": "4364011290617",
+    "uikName": "УИК №1122",
     "tikTvd": "23620001279762",
-    "tikName": "Воронеж, Левобережная"
+    "tikName": "Воронеж, Левобережная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1123,
     "uikTvd": "4364011290618",
+    "uikName": "УИК №1123",
     "tikTvd": "23620001279762",
-    "tikName": "Воронеж, Левобережная"
+    "tikName": "Воронеж, Левобережная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1124,
     "uikTvd": "4364011290619",
+    "uikName": "УИК №1124",
     "tikTvd": "23620001279762",
-    "tikName": "Воронеж, Левобережная"
+    "tikName": "Воронеж, Левобережная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1125,
     "uikTvd": "4364011290620",
+    "uikName": "УИК №1125",
     "tikTvd": "23620001279762",
-    "tikName": "Воронеж, Левобережная"
+    "tikName": "Воронеж, Левобережная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1126,
     "uikTvd": "4364011290621",
+    "uikName": "УИК №1126",
     "tikTvd": "23620001279762",
-    "tikName": "Воронеж, Левобережная"
+    "tikName": "Воронеж, Левобережная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1127,
     "uikTvd": "4364011290622",
+    "uikName": "УИК №1127",
     "tikTvd": "23620001279762",
-    "tikName": "Воронеж, Левобережная"
+    "tikName": "Воронеж, Левобережная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1128,
     "uikTvd": "4364011290623",
+    "uikName": "УИК №1128",
     "tikTvd": "23620001279762",
-    "tikName": "Воронеж, Левобережная"
+    "tikName": "Воронеж, Левобережная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1129,
     "uikTvd": "4364011290624",
+    "uikName": "УИК №1129",
     "tikTvd": "23620001279762",
-    "tikName": "Воронеж, Левобережная"
+    "tikName": "Воронеж, Левобережная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1130,
     "uikTvd": "4364011290625",
+    "uikName": "УИК №1130",
     "tikTvd": "23620001279762",
-    "tikName": "Воронеж, Левобережная"
+    "tikName": "Воронеж, Левобережная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1131,
     "uikTvd": "4364011290626",
+    "uikName": "УИК №1131",
     "tikTvd": "23620001279762",
-    "tikName": "Воронеж, Левобережная"
+    "tikName": "Воронеж, Левобережная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1132,
     "uikTvd": "4364011290627",
+    "uikName": "УИК №1132",
     "tikTvd": "23620001279762",
-    "tikName": "Воронеж, Левобережная"
+    "tikName": "Воронеж, Левобережная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1133,
     "uikTvd": "4364011290628",
+    "uikName": "УИК №1133",
     "tikTvd": "23620001279762",
-    "tikName": "Воронеж, Левобережная"
+    "tikName": "Воронеж, Левобережная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1134,
     "uikTvd": "4364011290629",
+    "uikName": "УИК №1134",
     "tikTvd": "23620001279762",
-    "tikName": "Воронеж, Левобережная"
+    "tikName": "Воронеж, Левобережная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1135,
     "uikTvd": "4364011290630",
+    "uikName": "УИК №1135",
     "tikTvd": "23620001279762",
-    "tikName": "Воронеж, Левобережная"
+    "tikName": "Воронеж, Левобережная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1136,
     "uikTvd": "4364011290631",
+    "uikName": "УИК №1136",
     "tikTvd": "23620001279762",
-    "tikName": "Воронеж, Левобережная"
+    "tikName": "Воронеж, Левобережная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1137,
     "uikTvd": "4364011290632",
+    "uikName": "УИК №1137",
     "tikTvd": "23620001279762",
-    "tikName": "Воронеж, Левобережная"
+    "tikName": "Воронеж, Левобережная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1138,
     "uikTvd": "4364011290633",
+    "uikName": "УИК №1138",
     "tikTvd": "23620001279762",
-    "tikName": "Воронеж, Левобережная"
+    "tikName": "Воронеж, Левобережная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1139,
     "uikTvd": "4364011290634",
+    "uikName": "УИК №1139",
     "tikTvd": "23620001279762",
-    "tikName": "Воронеж, Левобережная"
+    "tikName": "Воронеж, Левобережная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1140,
     "uikTvd": "4364011290635",
+    "uikName": "УИК №1140",
     "tikTvd": "23620001279762",
-    "tikName": "Воронеж, Левобережная"
+    "tikName": "Воронеж, Левобережная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1141,
     "uikTvd": "4364011290636",
+    "uikName": "УИК №1141",
     "tikTvd": "23620001279762",
-    "tikName": "Воронеж, Левобережная"
+    "tikName": "Воронеж, Левобережная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1142,
     "uikTvd": "4364011290637",
+    "uikName": "УИК №1142",
     "tikTvd": "23620001279762",
-    "tikName": "Воронеж, Левобережная"
+    "tikName": "Воронеж, Левобережная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1143,
     "uikTvd": "4364011290638",
+    "uikName": "УИК №1143",
     "tikTvd": "23620001279762",
-    "tikName": "Воронеж, Левобережная"
+    "tikName": "Воронеж, Левобережная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1144,
     "uikTvd": "4364011290639",
+    "uikName": "УИК №1144",
     "tikTvd": "23620001279762",
-    "tikName": "Воронеж, Левобережная"
+    "tikName": "Воронеж, Левобережная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1145,
     "uikTvd": "4364011290640",
+    "uikName": "УИК №1145",
     "tikTvd": "23620001279762",
-    "tikName": "Воронеж, Левобережная"
+    "tikName": "Воронеж, Левобережная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1146,
     "uikTvd": "4364011290641",
+    "uikName": "УИК №1146",
     "tikTvd": "23620001279762",
-    "tikName": "Воронеж, Левобережная"
+    "tikName": "Воронеж, Левобережная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1147,
     "uikTvd": "4364011290642",
+    "uikName": "УИК №1147",
     "tikTvd": "23620001279762",
-    "tikName": "Воронеж, Левобережная"
+    "tikName": "Воронеж, Левобережная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1148,
     "uikTvd": "4364011290643",
+    "uikName": "УИК №1148",
     "tikTvd": "23620001279762",
-    "tikName": "Воронеж, Левобережная"
+    "tikName": "Воронеж, Левобережная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1149,
     "uikTvd": "4364011290644",
+    "uikName": "УИК №1149",
     "tikTvd": "23620001279762",
-    "tikName": "Воронеж, Левобережная"
+    "tikName": "Воронеж, Левобережная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1150,
     "uikTvd": "4364011290645",
+    "uikName": "УИК №1150",
     "tikTvd": "23620001279762",
-    "tikName": "Воронеж, Левобережная"
+    "tikName": "Воронеж, Левобережная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1151,
     "uikTvd": "4364011290646",
+    "uikName": "УИК №1151",
     "tikTvd": "23620001279762",
-    "tikName": "Воронеж, Левобережная"
+    "tikName": "Воронеж, Левобережная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1152,
     "uikTvd": "4364011290647",
+    "uikName": "УИК №1152",
     "tikTvd": "23620001279762",
-    "tikName": "Воронеж, Левобережная"
+    "tikName": "Воронеж, Левобережная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1153,
     "uikTvd": "4364011290648",
+    "uikName": "УИК №1153",
     "tikTvd": "23620001279762",
-    "tikName": "Воронеж, Левобережная"
+    "tikName": "Воронеж, Левобережная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1154,
     "uikTvd": "4364011290649",
+    "uikName": "УИК №1154",
     "tikTvd": "23620001279762",
-    "tikName": "Воронеж, Левобережная"
+    "tikName": "Воронеж, Левобережная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1155,
     "uikTvd": "4364011290650",
+    "uikName": "УИК №1155",
     "tikTvd": "23620001279762",
-    "tikName": "Воронеж, Левобережная"
+    "tikName": "Воронеж, Левобережная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1156,
     "uikTvd": "4364011290651",
+    "uikName": "УИК №1156",
     "tikTvd": "23620001279762",
-    "tikName": "Воронеж, Левобережная"
+    "tikName": "Воронеж, Левобережная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1157,
     "uikTvd": "4364011290652",
+    "uikName": "УИК №1157",
     "tikTvd": "23620001279762",
-    "tikName": "Воронеж, Левобережная"
+    "tikName": "Воронеж, Левобережная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1158,
     "uikTvd": "4364011290653",
+    "uikName": "УИК №1158",
     "tikTvd": "23620001279762",
-    "tikName": "Воронеж, Левобережная"
+    "tikName": "Воронеж, Левобережная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1159,
     "uikTvd": "4364011290654",
+    "uikName": "УИК №1159",
     "tikTvd": "23620001279762",
-    "tikName": "Воронеж, Левобережная"
+    "tikName": "Воронеж, Левобережная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1160,
     "uikTvd": "4364011290655",
+    "uikName": "УИК №1160",
     "tikTvd": "23620001279762",
-    "tikName": "Воронеж, Левобережная"
+    "tikName": "Воронеж, Левобережная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1161,
     "uikTvd": "4364011290656",
+    "uikName": "УИК №1161",
     "tikTvd": "23620001279762",
-    "tikName": "Воронеж, Левобережная"
+    "tikName": "Воронеж, Левобережная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1162,
     "uikTvd": "4364011290657",
+    "uikName": "УИК №1162",
     "tikTvd": "23620001279762",
-    "tikName": "Воронеж, Левобережная"
+    "tikName": "Воронеж, Левобережная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1163,
     "uikTvd": "4364011290658",
+    "uikName": "УИК №1163",
     "tikTvd": "23620001279762",
-    "tikName": "Воронеж, Левобережная"
+    "tikName": "Воронеж, Левобережная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1164,
     "uikTvd": "4364011290659",
+    "uikName": "УИК №1164",
     "tikTvd": "23620001279762",
-    "tikName": "Воронеж, Левобережная"
+    "tikName": "Воронеж, Левобережная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1165,
     "uikTvd": "4364011290660",
+    "uikName": "УИК №1165",
     "tikTvd": "23620001279762",
-    "tikName": "Воронеж, Левобережная"
+    "tikName": "Воронеж, Левобережная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1166,
     "uikTvd": "4364011290661",
+    "uikName": "УИК №1166",
     "tikTvd": "23620001279762",
-    "tikName": "Воронеж, Левобережная"
+    "tikName": "Воронеж, Левобережная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1167,
     "uikTvd": "4364011290662",
+    "uikName": "УИК №1167",
     "tikTvd": "23620001279762",
-    "tikName": "Воронеж, Левобережная"
+    "tikName": "Воронеж, Левобережная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1168,
     "uikTvd": "4364011290663",
+    "uikName": "УИК №1168",
     "tikTvd": "23620001279762",
-    "tikName": "Воронеж, Левобережная"
+    "tikName": "Воронеж, Левобережная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1169,
     "uikTvd": "4364011290664",
+    "uikName": "УИК №1169",
     "tikTvd": "23620001279762",
-    "tikName": "Воронеж, Левобережная"
+    "tikName": "Воронеж, Левобережная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1170,
     "uikTvd": "4364011290665",
+    "uikName": "УИК №1170",
     "tikTvd": "23620001279762",
-    "tikName": "Воронеж, Левобережная"
+    "tikName": "Воронеж, Левобережная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1171,
     "uikTvd": "4364011290666",
+    "uikName": "УИК №1171",
     "tikTvd": "23620001279762",
-    "tikName": "Воронеж, Левобережная"
+    "tikName": "Воронеж, Левобережная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1172,
     "uikTvd": "4364011290667",
+    "uikName": "УИК №1172",
     "tikTvd": "23620001279762",
-    "tikName": "Воронеж, Левобережная"
+    "tikName": "Воронеж, Левобережная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1173,
     "uikTvd": "4364011290668",
+    "uikName": "УИК №1173",
     "tikTvd": "23620001279762",
-    "tikName": "Воронеж, Левобережная"
+    "tikName": "Воронеж, Левобережная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1174,
     "uikTvd": "4364011290669",
+    "uikName": "УИК №1174",
     "tikTvd": "23620001279762",
-    "tikName": "Воронеж, Левобережная"
+    "tikName": "Воронеж, Левобережная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1175,
     "uikTvd": "4364011290670",
+    "uikName": "УИК №1175",
     "tikTvd": "23620001279762",
-    "tikName": "Воронеж, Левобережная"
+    "tikName": "Воронеж, Левобережная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1176,
     "uikTvd": "4364011290671",
+    "uikName": "УИК №1176",
     "tikTvd": "23620001279762",
-    "tikName": "Воронеж, Левобережная"
+    "tikName": "Воронеж, Левобережная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1201,
     "uikTvd": "4364012193381",
+    "uikName": "УИК №1201",
     "tikTvd": "23620001279748",
-    "tikName": "Воронеж, Ленинская"
+    "tikName": "Воронеж, Ленинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1202,
     "uikTvd": "4364012193382",
+    "uikName": "УИК №1202",
     "tikTvd": "23620001279748",
-    "tikName": "Воронеж, Ленинская"
+    "tikName": "Воронеж, Ленинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1203,
     "uikTvd": "4364012193383",
+    "uikName": "УИК №1203",
     "tikTvd": "23620001279748",
-    "tikName": "Воронеж, Ленинская"
+    "tikName": "Воронеж, Ленинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1204,
     "uikTvd": "4364012193384",
+    "uikName": "УИК №1204",
     "tikTvd": "23620001279748",
-    "tikName": "Воронеж, Ленинская"
+    "tikName": "Воронеж, Ленинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1205,
     "uikTvd": "4364012193385",
+    "uikName": "УИК №1205",
     "tikTvd": "23620001279748",
-    "tikName": "Воронеж, Ленинская"
+    "tikName": "Воронеж, Ленинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1206,
     "uikTvd": "4364012193386",
+    "uikName": "УИК №1206",
     "tikTvd": "23620001279748",
-    "tikName": "Воронеж, Ленинская"
+    "tikName": "Воронеж, Ленинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1207,
     "uikTvd": "4364012193387",
+    "uikName": "УИК №1207",
     "tikTvd": "23620001279748",
-    "tikName": "Воронеж, Ленинская"
+    "tikName": "Воронеж, Ленинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1208,
     "uikTvd": "4364012193388",
+    "uikName": "УИК №1208",
     "tikTvd": "23620001279748",
-    "tikName": "Воронеж, Ленинская"
+    "tikName": "Воронеж, Ленинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1209,
     "uikTvd": "4364012193389",
+    "uikName": "УИК №1209",
     "tikTvd": "23620001279748",
-    "tikName": "Воронеж, Ленинская"
+    "tikName": "Воронеж, Ленинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1210,
     "uikTvd": "4364012193390",
+    "uikName": "УИК №1210",
     "tikTvd": "23620001279748",
-    "tikName": "Воронеж, Ленинская"
+    "tikName": "Воронеж, Ленинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1211,
     "uikTvd": "4364012193391",
+    "uikName": "УИК №1211",
     "tikTvd": "23620001279748",
-    "tikName": "Воронеж, Ленинская"
+    "tikName": "Воронеж, Ленинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1212,
     "uikTvd": "4364012193392",
+    "uikName": "УИК №1212",
     "tikTvd": "23620001279748",
-    "tikName": "Воронеж, Ленинская"
+    "tikName": "Воронеж, Ленинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1213,
     "uikTvd": "4364012193393",
+    "uikName": "УИК №1213",
     "tikTvd": "23620001279748",
-    "tikName": "Воронеж, Ленинская"
+    "tikName": "Воронеж, Ленинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1214,
     "uikTvd": "4364012193394",
+    "uikName": "УИК №1214",
     "tikTvd": "23620001279748",
-    "tikName": "Воронеж, Ленинская"
+    "tikName": "Воронеж, Ленинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1215,
     "uikTvd": "4364012193395",
+    "uikName": "УИК №1215",
     "tikTvd": "23620001279748",
-    "tikName": "Воронеж, Ленинская"
+    "tikName": "Воронеж, Ленинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1216,
     "uikTvd": "4364012193396",
+    "uikName": "УИК №1216",
     "tikTvd": "23620001279748",
-    "tikName": "Воронеж, Ленинская"
+    "tikName": "Воронеж, Ленинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1217,
     "uikTvd": "4364012193397",
+    "uikName": "УИК №1217",
     "tikTvd": "23620001279748",
-    "tikName": "Воронеж, Ленинская"
+    "tikName": "Воронеж, Ленинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1218,
     "uikTvd": "4364012193398",
+    "uikName": "УИК №1218",
     "tikTvd": "23620001279748",
-    "tikName": "Воронеж, Ленинская"
+    "tikName": "Воронеж, Ленинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1219,
     "uikTvd": "4364012193399",
+    "uikName": "УИК №1219",
     "tikTvd": "23620001279748",
-    "tikName": "Воронеж, Ленинская"
+    "tikName": "Воронеж, Ленинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1220,
     "uikTvd": "4364012193400",
+    "uikName": "УИК №1220",
     "tikTvd": "23620001279748",
-    "tikName": "Воронеж, Ленинская"
+    "tikName": "Воронеж, Ленинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1221,
     "uikTvd": "4364012193401",
+    "uikName": "УИК №1221",
     "tikTvd": "23620001279748",
-    "tikName": "Воронеж, Ленинская"
+    "tikName": "Воронеж, Ленинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1222,
     "uikTvd": "4364012193402",
+    "uikName": "УИК №1222",
     "tikTvd": "23620001279748",
-    "tikName": "Воронеж, Ленинская"
+    "tikName": "Воронеж, Ленинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1223,
     "uikTvd": "4364012193403",
+    "uikName": "УИК №1223",
     "tikTvd": "23620001279748",
-    "tikName": "Воронеж, Ленинская"
+    "tikName": "Воронеж, Ленинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1224,
     "uikTvd": "4364012193404",
+    "uikName": "УИК №1224",
     "tikTvd": "23620001279748",
-    "tikName": "Воронеж, Ленинская"
+    "tikName": "Воронеж, Ленинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1225,
     "uikTvd": "4364012193405",
+    "uikName": "УИК №1225",
     "tikTvd": "23620001279748",
-    "tikName": "Воронеж, Ленинская"
+    "tikName": "Воронеж, Ленинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1226,
     "uikTvd": "4364012193406",
+    "uikName": "УИК №1226",
     "tikTvd": "23620001279748",
-    "tikName": "Воронеж, Ленинская"
+    "tikName": "Воронеж, Ленинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1227,
     "uikTvd": "4364012193407",
+    "uikName": "УИК №1227",
     "tikTvd": "23620001279748",
-    "tikName": "Воронеж, Ленинская"
+    "tikName": "Воронеж, Ленинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1228,
     "uikTvd": "4364012193408",
+    "uikName": "УИК №1228",
     "tikTvd": "23620001279748",
-    "tikName": "Воронеж, Ленинская"
+    "tikName": "Воронеж, Ленинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1229,
     "uikTvd": "4364012193409",
+    "uikName": "УИК №1229",
     "tikTvd": "23620001279748",
-    "tikName": "Воронеж, Ленинская"
+    "tikName": "Воронеж, Ленинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1230,
     "uikTvd": "4364012193410",
+    "uikName": "УИК №1230",
     "tikTvd": "23620001279748",
-    "tikName": "Воронеж, Ленинская"
+    "tikName": "Воронеж, Ленинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1231,
     "uikTvd": "4364012193411",
+    "uikName": "УИК №1231",
     "tikTvd": "23620001279748",
-    "tikName": "Воронеж, Ленинская"
+    "tikName": "Воронеж, Ленинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1232,
     "uikTvd": "4364012193412",
+    "uikName": "УИК №1232",
     "tikTvd": "23620001279748",
-    "tikName": "Воронеж, Ленинская"
+    "tikName": "Воронеж, Ленинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1233,
     "uikTvd": "4364012193413",
+    "uikName": "УИК №1233",
     "tikTvd": "23620001279748",
-    "tikName": "Воронеж, Ленинская"
+    "tikName": "Воронеж, Ленинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1234,
     "uikTvd": "4364012193414",
+    "uikName": "УИК №1234",
     "tikTvd": "23620001279748",
-    "tikName": "Воронеж, Ленинская"
+    "tikName": "Воронеж, Ленинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1235,
     "uikTvd": "4364012193415",
+    "uikName": "УИК №1235",
     "tikTvd": "23620001279748",
-    "tikName": "Воронеж, Ленинская"
+    "tikName": "Воронеж, Ленинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1236,
     "uikTvd": "4364012193416",
+    "uikName": "УИК №1236",
     "tikTvd": "23620001279748",
-    "tikName": "Воронеж, Ленинская"
+    "tikName": "Воронеж, Ленинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1237,
     "uikTvd": "4364012193417",
+    "uikName": "УИК №1237",
     "tikTvd": "23620001279748",
-    "tikName": "Воронеж, Ленинская"
+    "tikName": "Воронеж, Ленинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1238,
     "uikTvd": "4364012193418",
+    "uikName": "УИК №1238",
     "tikTvd": "23620001279748",
-    "tikName": "Воронеж, Ленинская"
+    "tikName": "Воронеж, Ленинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1239,
     "uikTvd": "4364012193419",
+    "uikName": "УИК №1239",
     "tikTvd": "23620001279748",
-    "tikName": "Воронеж, Ленинская"
+    "tikName": "Воронеж, Ленинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1240,
     "uikTvd": "4364012193420",
+    "uikName": "УИК №1240",
     "tikTvd": "23620001279748",
-    "tikName": "Воронеж, Ленинская"
+    "tikName": "Воронеж, Ленинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1241,
     "uikTvd": "4364012193421",
+    "uikName": "УИК №1241",
     "tikTvd": "23620001279748",
-    "tikName": "Воронеж, Ленинская"
+    "tikName": "Воронеж, Ленинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1242,
     "uikTvd": "4364012193422",
+    "uikName": "УИК №1242",
     "tikTvd": "23620001279748",
-    "tikName": "Воронеж, Ленинская"
+    "tikName": "Воронеж, Ленинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1243,
     "uikTvd": "4364012193423",
+    "uikName": "УИК №1243",
     "tikTvd": "23620001279748",
-    "tikName": "Воронеж, Ленинская"
+    "tikName": "Воронеж, Ленинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1244,
     "uikTvd": "4364012193424",
+    "uikName": "УИК №1244",
     "tikTvd": "23620001279748",
-    "tikName": "Воронеж, Ленинская"
+    "tikName": "Воронеж, Ленинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1245,
     "uikTvd": "4364012193425",
+    "uikName": "УИК №1245",
     "tikTvd": "23620001279748",
-    "tikName": "Воронеж, Ленинская"
+    "tikName": "Воронеж, Ленинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1246,
     "uikTvd": "4364012193426",
+    "uikName": "УИК №1246",
     "tikTvd": "23620001279748",
-    "tikName": "Воронеж, Ленинская"
+    "tikName": "Воронеж, Ленинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1247,
     "uikTvd": "4364012193427",
+    "uikName": "УИК №1247",
     "tikTvd": "23620001279748",
-    "tikName": "Воронеж, Ленинская"
+    "tikName": "Воронеж, Ленинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1248,
     "uikTvd": "4364012193428",
+    "uikName": "УИК №1248",
     "tikTvd": "23620001279748",
-    "tikName": "Воронеж, Ленинская"
+    "tikName": "Воронеж, Ленинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1301,
     "uikTvd": "4364013302331",
+    "uikName": "УИК №1301",
     "tikTvd": "23620001279756",
-    "tikName": "Воронеж, Советская"
+    "tikName": "Воронеж, Советская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1302,
     "uikTvd": "4364013302332",
+    "uikName": "УИК №1302",
     "tikTvd": "23620001279756",
-    "tikName": "Воронеж, Советская"
+    "tikName": "Воронеж, Советская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1303,
     "uikTvd": "4364013302333",
+    "uikName": "УИК №1303",
     "tikTvd": "23620001279756",
-    "tikName": "Воронеж, Советская"
+    "tikName": "Воронеж, Советская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1304,
     "uikTvd": "4364013302334",
+    "uikName": "УИК №1304",
     "tikTvd": "23620001279756",
-    "tikName": "Воронеж, Советская"
+    "tikName": "Воронеж, Советская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1305,
     "uikTvd": "4364013302335",
+    "uikName": "УИК №1305",
     "tikTvd": "23620001279756",
-    "tikName": "Воронеж, Советская"
+    "tikName": "Воронеж, Советская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1306,
     "uikTvd": "4364013302336",
+    "uikName": "УИК №1306",
     "tikTvd": "23620001279756",
-    "tikName": "Воронеж, Советская"
+    "tikName": "Воронеж, Советская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1307,
     "uikTvd": "4364013302337",
+    "uikName": "УИК №1307",
     "tikTvd": "23620001279756",
-    "tikName": "Воронеж, Советская"
+    "tikName": "Воронеж, Советская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1308,
     "uikTvd": "4364013302338",
+    "uikName": "УИК №1308",
     "tikTvd": "23620001279756",
-    "tikName": "Воронеж, Советская"
+    "tikName": "Воронеж, Советская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1309,
     "uikTvd": "4364013302339",
+    "uikName": "УИК №1309",
     "tikTvd": "23620001279756",
-    "tikName": "Воронеж, Советская"
+    "tikName": "Воронеж, Советская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1310,
     "uikTvd": "4364013302340",
+    "uikName": "УИК №1310",
     "tikTvd": "23620001279756",
-    "tikName": "Воронеж, Советская"
+    "tikName": "Воронеж, Советская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1311,
     "uikTvd": "4364013302341",
+    "uikName": "УИК №1311",
     "tikTvd": "23620001279756",
-    "tikName": "Воронеж, Советская"
+    "tikName": "Воронеж, Советская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1312,
     "uikTvd": "4364013302342",
+    "uikName": "УИК №1312",
     "tikTvd": "23620001279756",
-    "tikName": "Воронеж, Советская"
+    "tikName": "Воронеж, Советская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1313,
     "uikTvd": "4364013302343",
+    "uikName": "УИК №1313",
     "tikTvd": "23620001279756",
-    "tikName": "Воронеж, Советская"
+    "tikName": "Воронеж, Советская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1314,
     "uikTvd": "4364013302344",
+    "uikName": "УИК №1314",
     "tikTvd": "23620001279756",
-    "tikName": "Воронеж, Советская"
+    "tikName": "Воронеж, Советская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1315,
     "uikTvd": "4364013302345",
+    "uikName": "УИК №1315",
     "tikTvd": "23620001279756",
-    "tikName": "Воронеж, Советская"
+    "tikName": "Воронеж, Советская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1316,
     "uikTvd": "4364013302346",
+    "uikName": "УИК №1316",
     "tikTvd": "23620001279756",
-    "tikName": "Воронеж, Советская"
+    "tikName": "Воронеж, Советская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1317,
     "uikTvd": "4364013302347",
+    "uikName": "УИК №1317",
     "tikTvd": "23620001279756",
-    "tikName": "Воронеж, Советская"
+    "tikName": "Воронеж, Советская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1318,
     "uikTvd": "4364013302348",
+    "uikName": "УИК №1318",
     "tikTvd": "23620001279756",
-    "tikName": "Воронеж, Советская"
+    "tikName": "Воронеж, Советская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1319,
     "uikTvd": "4364013302349",
+    "uikName": "УИК №1319",
     "tikTvd": "23620001279756",
-    "tikName": "Воронеж, Советская"
+    "tikName": "Воронеж, Советская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1320,
     "uikTvd": "4364013302350",
+    "uikName": "УИК №1320",
     "tikTvd": "23620001279756",
-    "tikName": "Воронеж, Советская"
+    "tikName": "Воронеж, Советская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1321,
     "uikTvd": "4364013302351",
+    "uikName": "УИК №1321",
     "tikTvd": "23620001279756",
-    "tikName": "Воронеж, Советская"
+    "tikName": "Воронеж, Советская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1322,
     "uikTvd": "4364013302352",
+    "uikName": "УИК №1322",
     "tikTvd": "23620001279756",
-    "tikName": "Воронеж, Советская"
+    "tikName": "Воронеж, Советская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1323,
     "uikTvd": "4364013302353",
+    "uikName": "УИК №1323",
     "tikTvd": "23620001279756",
-    "tikName": "Воронеж, Советская"
+    "tikName": "Воронеж, Советская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1324,
     "uikTvd": "4364013302354",
+    "uikName": "УИК №1324",
     "tikTvd": "23620001279756",
-    "tikName": "Воронеж, Советская"
+    "tikName": "Воронеж, Советская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1325,
     "uikTvd": "4364013302355",
+    "uikName": "УИК №1325",
     "tikTvd": "23620001279756",
-    "tikName": "Воронеж, Советская"
+    "tikName": "Воронеж, Советская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1326,
     "uikTvd": "4364013302356",
+    "uikName": "УИК №1326",
     "tikTvd": "23620001279756",
-    "tikName": "Воронеж, Советская"
+    "tikName": "Воронеж, Советская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1327,
     "uikTvd": "4364013302357",
+    "uikName": "УИК №1327",
     "tikTvd": "23620001279756",
-    "tikName": "Воронеж, Советская"
+    "tikName": "Воронеж, Советская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1328,
     "uikTvd": "4364013302358",
+    "uikName": "УИК №1328",
     "tikTvd": "23620001279756",
-    "tikName": "Воронеж, Советская"
+    "tikName": "Воронеж, Советская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1329,
     "uikTvd": "4364013302359",
+    "uikName": "УИК №1329",
     "tikTvd": "23620001279756",
-    "tikName": "Воронеж, Советская"
+    "tikName": "Воронеж, Советская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1330,
     "uikTvd": "4364013302360",
+    "uikName": "УИК №1330",
     "tikTvd": "23620001279756",
-    "tikName": "Воронеж, Советская"
+    "tikName": "Воронеж, Советская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1331,
     "uikTvd": "4364013302361",
+    "uikName": "УИК №1331",
     "tikTvd": "23620001279756",
-    "tikName": "Воронеж, Советская"
+    "tikName": "Воронеж, Советская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1332,
     "uikTvd": "4364013302362",
+    "uikName": "УИК №1332",
     "tikTvd": "23620001279756",
-    "tikName": "Воронеж, Советская"
+    "tikName": "Воронеж, Советская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1333,
     "uikTvd": "4364013302363",
+    "uikName": "УИК №1333",
     "tikTvd": "23620001279756",
-    "tikName": "Воронеж, Советская"
+    "tikName": "Воронеж, Советская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1334,
     "uikTvd": "4364013302364",
+    "uikName": "УИК №1334",
     "tikTvd": "23620001279756",
-    "tikName": "Воронеж, Советская"
+    "tikName": "Воронеж, Советская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1335,
     "uikTvd": "4364013302365",
+    "uikName": "УИК №1335",
     "tikTvd": "23620001279756",
-    "tikName": "Воронеж, Советская"
+    "tikName": "Воронеж, Советская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1336,
     "uikTvd": "4364013302366",
+    "uikName": "УИК №1336",
     "tikTvd": "23620001279756",
-    "tikName": "Воронеж, Советская"
+    "tikName": "Воронеж, Советская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1337,
     "uikTvd": "4364013302367",
+    "uikName": "УИК №1337",
     "tikTvd": "23620001279756",
-    "tikName": "Воронеж, Советская"
+    "tikName": "Воронеж, Советская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1338,
     "uikTvd": "4364013302368",
+    "uikName": "УИК №1338",
     "tikTvd": "23620001279756",
-    "tikName": "Воронеж, Советская"
+    "tikName": "Воронеж, Советская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1339,
     "uikTvd": "4364013302369",
+    "uikName": "УИК №1339",
     "tikTvd": "23620001279756",
-    "tikName": "Воронеж, Советская"
+    "tikName": "Воронеж, Советская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1340,
     "uikTvd": "4364013302370",
+    "uikName": "УИК №1340",
     "tikTvd": "23620001279756",
-    "tikName": "Воронеж, Советская"
+    "tikName": "Воронеж, Советская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1341,
     "uikTvd": "4364013302371",
+    "uikName": "УИК №1341",
     "tikTvd": "23620001279756",
-    "tikName": "Воронеж, Советская"
+    "tikName": "Воронеж, Советская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1342,
     "uikTvd": "4364013302372",
+    "uikName": "УИК №1342",
     "tikTvd": "23620001279756",
-    "tikName": "Воронеж, Советская"
+    "tikName": "Воронеж, Советская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1343,
     "uikTvd": "4364013302373",
+    "uikName": "УИК №1343",
     "tikTvd": "23620001279756",
-    "tikName": "Воронеж, Советская"
+    "tikName": "Воронеж, Советская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1344,
     "uikTvd": "4364013302374",
+    "uikName": "УИК №1344",
     "tikTvd": "23620001279756",
-    "tikName": "Воронеж, Советская"
+    "tikName": "Воронеж, Советская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1345,
     "uikTvd": "4364013302375",
+    "uikName": "УИК №1345",
     "tikTvd": "23620001279756",
-    "tikName": "Воронеж, Советская"
+    "tikName": "Воронеж, Советская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1346,
     "uikTvd": "4364013302376",
+    "uikName": "УИК №1346",
     "tikTvd": "23620001279756",
-    "tikName": "Воронеж, Советская"
+    "tikName": "Воронеж, Советская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1347,
     "uikTvd": "4364013302377",
+    "uikName": "УИК №1347",
     "tikTvd": "23620001279756",
-    "tikName": "Воронеж, Советская"
+    "tikName": "Воронеж, Советская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1348,
     "uikTvd": "4364013302378",
+    "uikName": "УИК №1348",
     "tikTvd": "23620001279756",
-    "tikName": "Воронеж, Советская"
+    "tikName": "Воронеж, Советская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1349,
     "uikTvd": "4364013302379",
+    "uikName": "УИК №1349",
     "tikTvd": "23620001279756",
-    "tikName": "Воронеж, Советская"
+    "tikName": "Воронеж, Советская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1350,
     "uikTvd": "4364013302380",
+    "uikName": "УИК №1350",
     "tikTvd": "23620001279756",
-    "tikName": "Воронеж, Советская"
+    "tikName": "Воронеж, Советская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1351,
     "uikTvd": "4364013302381",
+    "uikName": "УИК №1351",
     "tikTvd": "23620001279756",
-    "tikName": "Воронеж, Советская"
+    "tikName": "Воронеж, Советская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1352,
     "uikTvd": "4364013302382",
+    "uikName": "УИК №1352",
     "tikTvd": "23620001279756",
-    "tikName": "Воронеж, Советская"
+    "tikName": "Воронеж, Советская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1353,
     "uikTvd": "4364013302383",
+    "uikName": "УИК №1353",
     "tikTvd": "23620001279756",
-    "tikName": "Воронеж, Советская"
+    "tikName": "Воронеж, Советская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1354,
     "uikTvd": "4364013302384",
+    "uikName": "УИК №1354",
     "tikTvd": "23620001279756",
-    "tikName": "Воронеж, Советская"
+    "tikName": "Воронеж, Советская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1355,
     "uikTvd": "4364013302385",
+    "uikName": "УИК №1355",
     "tikTvd": "23620001279756",
-    "tikName": "Воронеж, Советская"
+    "tikName": "Воронеж, Советская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1356,
     "uikTvd": "4364013302386",
+    "uikName": "УИК №1356",
     "tikTvd": "23620001279756",
-    "tikName": "Воронеж, Советская"
+    "tikName": "Воронеж, Советская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1357,
     "uikTvd": "4364013302387",
+    "uikName": "УИК №1357",
     "tikTvd": "23620001279756",
-    "tikName": "Воронеж, Советская"
+    "tikName": "Воронеж, Советская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1358,
     "uikTvd": "4364013302388",
+    "uikName": "УИК №1358",
     "tikTvd": "23620001279756",
-    "tikName": "Воронеж, Советская"
+    "tikName": "Воронеж, Советская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1359,
     "uikTvd": "4364013302389",
+    "uikName": "УИК №1359",
     "tikTvd": "23620001279756",
-    "tikName": "Воронеж, Советская"
+    "tikName": "Воронеж, Советская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1360,
     "uikTvd": "4364013302390",
+    "uikName": "УИК №1360",
     "tikTvd": "23620001279756",
-    "tikName": "Воронеж, Советская"
+    "tikName": "Воронеж, Советская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1361,
     "uikTvd": "4364013302391",
+    "uikName": "УИК №1361",
     "tikTvd": "23620001279756",
-    "tikName": "Воронеж, Советская"
+    "tikName": "Воронеж, Советская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1362,
     "uikTvd": "4364013302392",
+    "uikName": "УИК №1362",
     "tikTvd": "23620001279756",
-    "tikName": "Воронеж, Советская"
+    "tikName": "Воронеж, Советская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1363,
     "uikTvd": "4364013302393",
+    "uikName": "УИК №1363",
     "tikTvd": "23620001279756",
-    "tikName": "Воронеж, Советская"
+    "tikName": "Воронеж, Советская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1364,
     "uikTvd": "4364013302394",
+    "uikName": "УИК №1364",
     "tikTvd": "23620001279756",
-    "tikName": "Воронеж, Советская"
+    "tikName": "Воронеж, Советская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1365,
     "uikTvd": "4364013302395",
+    "uikName": "УИК №1365",
     "tikTvd": "23620001279756",
-    "tikName": "Воронеж, Советская"
+    "tikName": "Воронеж, Советская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1366,
     "uikTvd": "4364013302396",
+    "uikName": "УИК №1366",
     "tikTvd": "23620001279756",
-    "tikName": "Воронеж, Советская"
+    "tikName": "Воронеж, Советская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1367,
     "uikTvd": "4364013302397",
+    "uikName": "УИК №1367",
     "tikTvd": "23620001279756",
-    "tikName": "Воронеж, Советская"
+    "tikName": "Воронеж, Советская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1368,
     "uikTvd": "4364013302398",
+    "uikName": "УИК №1368",
     "tikTvd": "23620001279756",
-    "tikName": "Воронеж, Советская"
+    "tikName": "Воронеж, Советская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1369,
     "uikTvd": "4364013302399",
+    "uikName": "УИК №1369",
     "tikTvd": "23620001279756",
-    "tikName": "Воронеж, Советская"
+    "tikName": "Воронеж, Советская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1370,
     "uikTvd": "4364013302400",
+    "uikName": "УИК №1370",
     "tikTvd": "23620001279756",
-    "tikName": "Воронеж, Советская"
+    "tikName": "Воронеж, Советская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1371,
     "uikTvd": "4364013302401",
+    "uikName": "УИК №1371",
     "tikTvd": "23620001279756",
-    "tikName": "Воронеж, Советская"
+    "tikName": "Воронеж, Советская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1372,
     "uikTvd": "4364013302402",
+    "uikName": "УИК №1372",
     "tikTvd": "23620001279756",
-    "tikName": "Воронеж, Советская"
+    "tikName": "Воронеж, Советская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1373,
     "uikTvd": "4364013302403",
+    "uikName": "УИК №1373",
     "tikTvd": "23620001279756",
-    "tikName": "Воронеж, Советская"
+    "tikName": "Воронеж, Советская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1374,
     "uikTvd": "4364013302404",
+    "uikName": "УИК №1374",
     "tikTvd": "23620001279756",
-    "tikName": "Воронеж, Советская"
+    "tikName": "Воронеж, Советская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1375,
     "uikTvd": "4364013302405",
+    "uikName": "УИК №1375",
     "tikTvd": "23620001279756",
-    "tikName": "Воронеж, Советская"
+    "tikName": "Воронеж, Советская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1376,
     "uikTvd": "4364013302406",
+    "uikName": "УИК №1376",
     "tikTvd": "23620001279756",
-    "tikName": "Воронеж, Советская"
+    "tikName": "Воронеж, Советская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1377,
     "uikTvd": "4364013302407",
+    "uikName": "УИК №1377",
     "tikTvd": "23620001279756",
-    "tikName": "Воронеж, Советская"
+    "tikName": "Воронеж, Советская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1378,
     "uikTvd": "4364013302408",
+    "uikName": "УИК №1378",
     "tikTvd": "23620001279756",
-    "tikName": "Воронеж, Советская"
+    "tikName": "Воронеж, Советская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1379,
     "uikTvd": "4364013302409",
+    "uikName": "УИК №1379",
     "tikTvd": "23620001279756",
-    "tikName": "Воронеж, Советская"
+    "tikName": "Воронеж, Советская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1380,
     "uikTvd": "4364013302410",
+    "uikName": "УИК №1380",
     "tikTvd": "23620001279756",
-    "tikName": "Воронеж, Советская"
+    "tikName": "Воронеж, Советская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1381,
     "uikTvd": "4364013302411",
+    "uikName": "УИК №1381",
     "tikTvd": "23620001279756",
-    "tikName": "Воронеж, Советская"
+    "tikName": "Воронеж, Советская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1382,
     "uikTvd": "4364013302412",
+    "uikName": "УИК №1382",
     "tikTvd": "23620001279756",
-    "tikName": "Воронеж, Советская"
+    "tikName": "Воронеж, Советская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1383,
     "uikTvd": "4364013302413",
+    "uikName": "УИК №1383",
     "tikTvd": "23620001279756",
-    "tikName": "Воронеж, Советская"
+    "tikName": "Воронеж, Советская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1384,
     "uikTvd": "4364013302414",
+    "uikName": "УИК №1384",
     "tikTvd": "23620001279756",
-    "tikName": "Воронеж, Советская"
+    "tikName": "Воронеж, Советская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1401,
     "uikTvd": "4364014165226",
+    "uikName": "УИК №1401",
     "tikTvd": "23620001279753",
-    "tikName": "Воронеж, Центральная"
+    "tikName": "Воронеж, Центральная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1402,
     "uikTvd": "4364014165227",
+    "uikName": "УИК №1402",
     "tikTvd": "23620001279753",
-    "tikName": "Воронеж, Центральная"
+    "tikName": "Воронеж, Центральная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1403,
     "uikTvd": "4364014165228",
+    "uikName": "УИК №1403",
     "tikTvd": "23620001279753",
-    "tikName": "Воронеж, Центральная"
+    "tikName": "Воронеж, Центральная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1404,
     "uikTvd": "4364014165229",
+    "uikName": "УИК №1404",
     "tikTvd": "23620001279753",
-    "tikName": "Воронеж, Центральная"
+    "tikName": "Воронеж, Центральная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1405,
     "uikTvd": "4364014165230",
+    "uikName": "УИК №1405",
     "tikTvd": "23620001279753",
-    "tikName": "Воронеж, Центральная"
+    "tikName": "Воронеж, Центральная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1406,
     "uikTvd": "4364014165231",
+    "uikName": "УИК №1406",
     "tikTvd": "23620001279753",
-    "tikName": "Воронеж, Центральная"
+    "tikName": "Воронеж, Центральная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1407,
     "uikTvd": "4364014165232",
+    "uikName": "УИК №1407",
     "tikTvd": "23620001279753",
-    "tikName": "Воронеж, Центральная"
+    "tikName": "Воронеж, Центральная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1408,
     "uikTvd": "4364014165233",
+    "uikName": "УИК №1408",
     "tikTvd": "23620001279753",
-    "tikName": "Воронеж, Центральная"
+    "tikName": "Воронеж, Центральная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1409,
     "uikTvd": "4364014165234",
+    "uikName": "УИК №1409",
     "tikTvd": "23620001279753",
-    "tikName": "Воронеж, Центральная"
+    "tikName": "Воронеж, Центральная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1410,
     "uikTvd": "4364014165235",
+    "uikName": "УИК №1410",
     "tikTvd": "23620001279753",
-    "tikName": "Воронеж, Центральная"
+    "tikName": "Воронеж, Центральная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1411,
     "uikTvd": "4364014165236",
+    "uikName": "УИК №1411",
     "tikTvd": "23620001279753",
-    "tikName": "Воронеж, Центральная"
+    "tikName": "Воронеж, Центральная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1412,
     "uikTvd": "4364014165237",
+    "uikName": "УИК №1412",
     "tikTvd": "23620001279753",
-    "tikName": "Воронеж, Центральная"
+    "tikName": "Воронеж, Центральная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1413,
     "uikTvd": "4364014165238",
+    "uikName": "УИК №1413",
     "tikTvd": "23620001279753",
-    "tikName": "Воронеж, Центральная"
+    "tikName": "Воронеж, Центральная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1414,
     "uikTvd": "4364014165239",
+    "uikName": "УИК №1414",
     "tikTvd": "23620001279753",
-    "tikName": "Воронеж, Центральная"
+    "tikName": "Воронеж, Центральная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1415,
     "uikTvd": "4364014165240",
+    "uikName": "УИК №1415",
     "tikTvd": "23620001279753",
-    "tikName": "Воронеж, Центральная"
+    "tikName": "Воронеж, Центральная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1416,
     "uikTvd": "4364014165241",
+    "uikName": "УИК №1416",
     "tikTvd": "23620001279753",
-    "tikName": "Воронеж, Центральная"
+    "tikName": "Воронеж, Центральная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1417,
     "uikTvd": "4364014165242",
+    "uikName": "УИК №1417",
     "tikTvd": "23620001279753",
-    "tikName": "Воронеж, Центральная"
+    "tikName": "Воронеж, Центральная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1418,
     "uikTvd": "4364014165243",
+    "uikName": "УИК №1418",
     "tikTvd": "23620001279753",
-    "tikName": "Воронеж, Центральная"
+    "tikName": "Воронеж, Центральная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1419,
     "uikTvd": "4364014165244",
+    "uikName": "УИК №1419",
     "tikTvd": "23620001279753",
-    "tikName": "Воронеж, Центральная"
+    "tikName": "Воронеж, Центральная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1420,
     "uikTvd": "4364014165245",
+    "uikName": "УИК №1420",
     "tikTvd": "23620001279753",
-    "tikName": "Воронеж, Центральная"
+    "tikName": "Воронеж, Центральная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1421,
     "uikTvd": "4364014165246",
+    "uikName": "УИК №1421",
     "tikTvd": "23620001279753",
-    "tikName": "Воронеж, Центральная"
+    "tikName": "Воронеж, Центральная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1422,
     "uikTvd": "4364014165247",
+    "uikName": "УИК №1422",
     "tikTvd": "23620001279753",
-    "tikName": "Воронеж, Центральная"
+    "tikName": "Воронеж, Центральная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1423,
     "uikTvd": "4364014165248",
+    "uikName": "УИК №1423",
     "tikTvd": "23620001279753",
-    "tikName": "Воронеж, Центральная"
+    "tikName": "Воронеж, Центральная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1424,
     "uikTvd": "4364014165249",
+    "uikName": "УИК №1424",
     "tikTvd": "23620001279753",
-    "tikName": "Воронеж, Центральная"
+    "tikName": "Воронеж, Центральная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1425,
     "uikTvd": "4364014165250",
+    "uikName": "УИК №1425",
     "tikTvd": "23620001279753",
-    "tikName": "Воронеж, Центральная"
+    "tikName": "Воронеж, Центральная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1426,
     "uikTvd": "4364014165251",
+    "uikName": "УИК №1426",
     "tikTvd": "23620001279753",
-    "tikName": "Воронеж, Центральная"
+    "tikName": "Воронеж, Центральная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1427,
     "uikTvd": "4364014165252",
+    "uikName": "УИК №1427",
     "tikTvd": "23620001279753",
-    "tikName": "Воронеж, Центральная"
+    "tikName": "Воронеж, Центральная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1428,
     "uikTvd": "4364014165253",
+    "uikName": "УИК №1428",
     "tikTvd": "23620001279753",
-    "tikName": "Воронеж, Центральная"
+    "tikName": "Воронеж, Центральная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1429,
     "uikTvd": "4364014165254",
+    "uikName": "УИК №1429",
     "tikTvd": "23620001279753",
-    "tikName": "Воронеж, Центральная"
+    "tikName": "Воронеж, Центральная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1430,
     "uikTvd": "4364014165255",
+    "uikName": "УИК №1430",
     "tikTvd": "23620001279753",
-    "tikName": "Воронеж, Центральная"
+    "tikName": "Воронеж, Центральная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1431,
     "uikTvd": "4364014165256",
+    "uikName": "УИК №1431",
     "tikTvd": "23620001279753",
-    "tikName": "Воронеж, Центральная"
+    "tikName": "Воронеж, Центральная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1432,
     "uikTvd": "4364014165257",
+    "uikName": "УИК №1432",
     "tikTvd": "23620001279753",
-    "tikName": "Воронеж, Центральная"
+    "tikName": "Воронеж, Центральная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1433,
     "uikTvd": "4364014165258",
+    "uikName": "УИК №1433",
     "tikTvd": "23620001279753",
-    "tikName": "Воронеж, Центральная"
+    "tikName": "Воронеж, Центральная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1434,
     "uikTvd": "4364014165259",
+    "uikName": "УИК №1434",
     "tikTvd": "23620001279753",
-    "tikName": "Воронеж, Центральная"
+    "tikName": "Воронеж, Центральная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1435,
     "uikTvd": "4364014165260",
+    "uikName": "УИК №1435",
     "tikTvd": "23620001279753",
-    "tikName": "Воронеж, Центральная"
+    "tikName": "Воронеж, Центральная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1436,
     "uikTvd": "4364014165261",
+    "uikName": "УИК №1436",
     "tikTvd": "23620001279753",
-    "tikName": "Воронеж, Центральная"
+    "tikName": "Воронеж, Центральная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1437,
     "uikTvd": "4364014165262",
+    "uikName": "УИК №1437",
     "tikTvd": "23620001279753",
-    "tikName": "Воронеж, Центральная"
+    "tikName": "Воронеж, Центральная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1438,
     "uikTvd": "4364014165263",
+    "uikName": "УИК №1438",
     "tikTvd": "23620001279753",
-    "tikName": "Воронеж, Центральная"
+    "tikName": "Воронеж, Центральная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1439,
     "uikTvd": "4364014165264",
+    "uikName": "УИК №1439",
     "tikTvd": "23620001279753",
-    "tikName": "Воронеж, Центральная"
+    "tikName": "Воронеж, Центральная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1440,
     "uikTvd": "4364014165265",
+    "uikName": "УИК №1440",
     "tikTvd": "23620001279753",
-    "tikName": "Воронеж, Центральная"
+    "tikName": "Воронеж, Центральная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1441,
     "uikTvd": "4364014165266",
+    "uikName": "УИК №1441",
     "tikTvd": "23620001279753",
-    "tikName": "Воронеж, Центральная"
+    "tikName": "Воронеж, Центральная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1442,
     "uikTvd": "4364014165267",
+    "uikName": "УИК №1442",
     "tikTvd": "23620001279753",
-    "tikName": "Воронеж, Центральная"
+    "tikName": "Воронеж, Центральная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1443,
     "uikTvd": "4364014165268",
+    "uikName": "УИК №1443",
     "tikTvd": "23620001279753",
-    "tikName": "Воронеж, Центральная"
+    "tikName": "Воронеж, Центральная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1444,
     "uikTvd": "4364014165269",
+    "uikName": "УИК №1444",
     "tikTvd": "23620001279753",
-    "tikName": "Воронеж, Центральная"
+    "tikName": "Воронеж, Центральная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1445,
     "uikTvd": "4364014165270",
+    "uikName": "УИК №1445",
     "tikTvd": "23620001279753",
-    "tikName": "Воронеж, Центральная"
+    "tikName": "Воронеж, Центральная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1446,
     "uikTvd": "4364014171843",
+    "uikName": "УИК №1446",
     "tikTvd": "23620001279753",
-    "tikName": "Воронеж, Центральная"
+    "tikName": "Воронеж, Центральная",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1501,
     "uikTvd": "4364015190914",
+    "uikName": "УИК №1501",
     "tikTvd": "23620001279731",
-    "tikName": "Грибановская"
+    "tikName": "Грибановская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1502,
     "uikTvd": "4364015190915",
+    "uikName": "УИК №1502",
     "tikTvd": "23620001279731",
-    "tikName": "Грибановская"
+    "tikName": "Грибановская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1503,
     "uikTvd": "4364015190916",
+    "uikName": "УИК №1503",
     "tikTvd": "23620001279731",
-    "tikName": "Грибановская"
+    "tikName": "Грибановская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1504,
     "uikTvd": "4364015190917",
+    "uikName": "УИК №1504",
     "tikTvd": "23620001279731",
-    "tikName": "Грибановская"
+    "tikName": "Грибановская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1505,
     "uikTvd": "4364015190918",
+    "uikName": "УИК №1505",
     "tikTvd": "23620001279731",
-    "tikName": "Грибановская"
+    "tikName": "Грибановская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1506,
     "uikTvd": "4364015190919",
+    "uikName": "УИК №1506",
     "tikTvd": "23620001279731",
-    "tikName": "Грибановская"
+    "tikName": "Грибановская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1507,
     "uikTvd": "4364015190920",
+    "uikName": "УИК №1507",
     "tikTvd": "23620001279731",
-    "tikName": "Грибановская"
+    "tikName": "Грибановская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1508,
     "uikTvd": "4364015190921",
+    "uikName": "УИК №1508",
     "tikTvd": "23620001279731",
-    "tikName": "Грибановская"
+    "tikName": "Грибановская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1509,
     "uikTvd": "4364015190922",
+    "uikName": "УИК №1509",
     "tikTvd": "23620001279731",
-    "tikName": "Грибановская"
+    "tikName": "Грибановская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1510,
     "uikTvd": "4364015190923",
+    "uikName": "УИК №1510",
     "tikTvd": "23620001279731",
-    "tikName": "Грибановская"
+    "tikName": "Грибановская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1511,
     "uikTvd": "4364015190924",
+    "uikName": "УИК №1511",
     "tikTvd": "23620001279731",
-    "tikName": "Грибановская"
+    "tikName": "Грибановская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1512,
     "uikTvd": "4364015190925",
+    "uikName": "УИК №1512",
     "tikTvd": "23620001279731",
-    "tikName": "Грибановская"
+    "tikName": "Грибановская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1513,
     "uikTvd": "4364015190926",
+    "uikName": "УИК №1513",
     "tikTvd": "23620001279731",
-    "tikName": "Грибановская"
+    "tikName": "Грибановская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1514,
     "uikTvd": "4364015190927",
+    "uikName": "УИК №1514",
     "tikTvd": "23620001279731",
-    "tikName": "Грибановская"
+    "tikName": "Грибановская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1515,
     "uikTvd": "4364015190928",
+    "uikName": "УИК №1515",
     "tikTvd": "23620001279731",
-    "tikName": "Грибановская"
+    "tikName": "Грибановская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1516,
     "uikTvd": "4364015190929",
+    "uikName": "УИК №1516",
     "tikTvd": "23620001279731",
-    "tikName": "Грибановская"
+    "tikName": "Грибановская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1517,
     "uikTvd": "4364015190930",
+    "uikName": "УИК №1517",
     "tikTvd": "23620001279731",
-    "tikName": "Грибановская"
+    "tikName": "Грибановская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1518,
     "uikTvd": "4364015190931",
+    "uikName": "УИК №1518",
     "tikTvd": "23620001279731",
-    "tikName": "Грибановская"
+    "tikName": "Грибановская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1519,
     "uikTvd": "4364015190932",
+    "uikName": "УИК №1519",
     "tikTvd": "23620001279731",
-    "tikName": "Грибановская"
+    "tikName": "Грибановская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1520,
     "uikTvd": "4364015190933",
+    "uikName": "УИК №1520",
     "tikTvd": "23620001279731",
-    "tikName": "Грибановская"
+    "tikName": "Грибановская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1521,
     "uikTvd": "4364015190934",
+    "uikName": "УИК №1521",
     "tikTvd": "23620001279731",
-    "tikName": "Грибановская"
+    "tikName": "Грибановская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1522,
     "uikTvd": "4364015190935",
+    "uikName": "УИК №1522",
     "tikTvd": "23620001279731",
-    "tikName": "Грибановская"
+    "tikName": "Грибановская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1523,
     "uikTvd": "4364015190936",
+    "uikName": "УИК №1523",
     "tikTvd": "23620001279731",
-    "tikName": "Грибановская"
+    "tikName": "Грибановская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1524,
     "uikTvd": "4364015190937",
+    "uikName": "УИК №1524",
     "tikTvd": "23620001279731",
-    "tikName": "Грибановская"
+    "tikName": "Грибановская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1525,
     "uikTvd": "4364015190938",
+    "uikName": "УИК №1525",
     "tikTvd": "23620001279731",
-    "tikName": "Грибановская"
+    "tikName": "Грибановская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1526,
     "uikTvd": "4364015190939",
+    "uikName": "УИК №1526",
     "tikTvd": "23620001279731",
-    "tikName": "Грибановская"
+    "tikName": "Грибановская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1527,
     "uikTvd": "4364015190940",
+    "uikName": "УИК №1527",
     "tikTvd": "23620001279731",
-    "tikName": "Грибановская"
+    "tikName": "Грибановская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1528,
     "uikTvd": "4364015190941",
+    "uikName": "УИК №1528",
     "tikTvd": "23620001279731",
-    "tikName": "Грибановская"
+    "tikName": "Грибановская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1529,
     "uikTvd": "4364015190942",
+    "uikName": "УИК №1529",
     "tikTvd": "23620001279731",
-    "tikName": "Грибановская"
+    "tikName": "Грибановская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1530,
     "uikTvd": "4364015190943",
+    "uikName": "УИК №1530",
     "tikTvd": "23620001279731",
-    "tikName": "Грибановская"
+    "tikName": "Грибановская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1531,
     "uikTvd": "4364015190944",
+    "uikName": "УИК №1531",
     "tikTvd": "23620001279731",
-    "tikName": "Грибановская"
+    "tikName": "Грибановская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1532,
     "uikTvd": "4364015190945",
+    "uikName": "УИК №1532",
     "tikTvd": "23620001279731",
-    "tikName": "Грибановская"
+    "tikName": "Грибановская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1533,
     "uikTvd": "4364015190946",
+    "uikName": "УИК №1533",
     "tikTvd": "23620001279731",
-    "tikName": "Грибановская"
+    "tikName": "Грибановская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1534,
     "uikTvd": "4364015190947",
+    "uikName": "УИК №1534",
     "tikTvd": "23620001279731",
-    "tikName": "Грибановская"
+    "tikName": "Грибановская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1535,
     "uikTvd": "4364015190948",
+    "uikName": "УИК №1535",
     "tikTvd": "23620001279731",
-    "tikName": "Грибановская"
+    "tikName": "Грибановская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1536,
     "uikTvd": "4364015190949",
+    "uikName": "УИК №1536",
     "tikTvd": "23620001279731",
-    "tikName": "Грибановская"
+    "tikName": "Грибановская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1537,
     "uikTvd": "4364015190950",
+    "uikName": "УИК №1537",
     "tikTvd": "23620001279731",
-    "tikName": "Грибановская"
+    "tikName": "Грибановская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1538,
     "uikTvd": "4364015190951",
+    "uikName": "УИК №1538",
     "tikTvd": "23620001279731",
-    "tikName": "Грибановская"
+    "tikName": "Грибановская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1539,
     "uikTvd": "4364015190952",
+    "uikName": "УИК №1539",
     "tikTvd": "23620001279731",
-    "tikName": "Грибановская"
+    "tikName": "Грибановская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1601,
     "uikTvd": "4364016182850",
+    "uikName": "УИК №1601",
     "tikTvd": "23620001279754",
-    "tikName": "Калачеевская"
+    "tikName": "Калачеевская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1602,
     "uikTvd": "4364016182851",
+    "uikName": "УИК №1602",
     "tikTvd": "23620001279754",
-    "tikName": "Калачеевская"
+    "tikName": "Калачеевская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1603,
     "uikTvd": "4364016182852",
+    "uikName": "УИК №1603",
     "tikTvd": "23620001279754",
-    "tikName": "Калачеевская"
+    "tikName": "Калачеевская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1604,
     "uikTvd": "4364016182853",
+    "uikName": "УИК №1604",
     "tikTvd": "23620001279754",
-    "tikName": "Калачеевская"
+    "tikName": "Калачеевская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1605,
     "uikTvd": "4364016182854",
+    "uikName": "УИК №1605",
     "tikTvd": "23620001279754",
-    "tikName": "Калачеевская"
+    "tikName": "Калачеевская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1606,
     "uikTvd": "4364016182855",
+    "uikName": "УИК №1606",
     "tikTvd": "23620001279754",
-    "tikName": "Калачеевская"
+    "tikName": "Калачеевская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1607,
     "uikTvd": "4364016182856",
+    "uikName": "УИК №1607",
     "tikTvd": "23620001279754",
-    "tikName": "Калачеевская"
+    "tikName": "Калачеевская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1608,
     "uikTvd": "4364016182857",
+    "uikName": "УИК №1608",
     "tikTvd": "23620001279754",
-    "tikName": "Калачеевская"
+    "tikName": "Калачеевская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1609,
     "uikTvd": "4364016182858",
+    "uikName": "УИК №1609",
     "tikTvd": "23620001279754",
-    "tikName": "Калачеевская"
+    "tikName": "Калачеевская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1610,
     "uikTvd": "4364016182859",
+    "uikName": "УИК №1610",
     "tikTvd": "23620001279754",
-    "tikName": "Калачеевская"
+    "tikName": "Калачеевская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1611,
     "uikTvd": "4364016182860",
+    "uikName": "УИК №1611",
     "tikTvd": "23620001279754",
-    "tikName": "Калачеевская"
+    "tikName": "Калачеевская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1612,
     "uikTvd": "4364016182861",
+    "uikName": "УИК №1612",
     "tikTvd": "23620001279754",
-    "tikName": "Калачеевская"
+    "tikName": "Калачеевская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1613,
     "uikTvd": "4364016182862",
+    "uikName": "УИК №1613",
     "tikTvd": "23620001279754",
-    "tikName": "Калачеевская"
+    "tikName": "Калачеевская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1614,
     "uikTvd": "4364016182863",
+    "uikName": "УИК №1614",
     "tikTvd": "23620001279754",
-    "tikName": "Калачеевская"
+    "tikName": "Калачеевская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1615,
     "uikTvd": "4364016182864",
+    "uikName": "УИК №1615",
     "tikTvd": "23620001279754",
-    "tikName": "Калачеевская"
+    "tikName": "Калачеевская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1616,
     "uikTvd": "4364016182865",
+    "uikName": "УИК №1616",
     "tikTvd": "23620001279754",
-    "tikName": "Калачеевская"
+    "tikName": "Калачеевская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1617,
     "uikTvd": "4364016182866",
+    "uikName": "УИК №1617",
     "tikTvd": "23620001279754",
-    "tikName": "Калачеевская"
+    "tikName": "Калачеевская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1618,
     "uikTvd": "4364016182867",
+    "uikName": "УИК №1618",
     "tikTvd": "23620001279754",
-    "tikName": "Калачеевская"
+    "tikName": "Калачеевская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1619,
     "uikTvd": "4364016182868",
+    "uikName": "УИК №1619",
     "tikTvd": "23620001279754",
-    "tikName": "Калачеевская"
+    "tikName": "Калачеевская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1620,
     "uikTvd": "4364016182869",
+    "uikName": "УИК №1620",
     "tikTvd": "23620001279754",
-    "tikName": "Калачеевская"
+    "tikName": "Калачеевская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1621,
     "uikTvd": "4364016182870",
+    "uikName": "УИК №1621",
     "tikTvd": "23620001279754",
-    "tikName": "Калачеевская"
+    "tikName": "Калачеевская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1622,
     "uikTvd": "4364016182871",
+    "uikName": "УИК №1622",
     "tikTvd": "23620001279754",
-    "tikName": "Калачеевская"
+    "tikName": "Калачеевская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1623,
     "uikTvd": "4364016182872",
+    "uikName": "УИК №1623",
     "tikTvd": "23620001279754",
-    "tikName": "Калачеевская"
+    "tikName": "Калачеевская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1624,
     "uikTvd": "4364016182873",
+    "uikName": "УИК №1624",
     "tikTvd": "23620001279754",
-    "tikName": "Калачеевская"
+    "tikName": "Калачеевская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1625,
     "uikTvd": "4364016182874",
+    "uikName": "УИК №1625",
     "tikTvd": "23620001279754",
-    "tikName": "Калачеевская"
+    "tikName": "Калачеевская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1626,
     "uikTvd": "4364016182875",
+    "uikName": "УИК №1626",
     "tikTvd": "23620001279754",
-    "tikName": "Калачеевская"
+    "tikName": "Калачеевская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1627,
     "uikTvd": "4364016182876",
+    "uikName": "УИК №1627",
     "tikTvd": "23620001279754",
-    "tikName": "Калачеевская"
+    "tikName": "Калачеевская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1628,
     "uikTvd": "4364016182877",
+    "uikName": "УИК №1628",
     "tikTvd": "23620001279754",
-    "tikName": "Калачеевская"
+    "tikName": "Калачеевская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1629,
     "uikTvd": "4364016182878",
+    "uikName": "УИК №1629",
     "tikTvd": "23620001279754",
-    "tikName": "Калачеевская"
+    "tikName": "Калачеевская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1630,
     "uikTvd": "4364016182879",
+    "uikName": "УИК №1630",
     "tikTvd": "23620001279754",
-    "tikName": "Калачеевская"
+    "tikName": "Калачеевская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1631,
     "uikTvd": "4364016182880",
+    "uikName": "УИК №1631",
     "tikTvd": "23620001279754",
-    "tikName": "Калачеевская"
+    "tikName": "Калачеевская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1632,
     "uikTvd": "4364016182881",
+    "uikName": "УИК №1632",
     "tikTvd": "23620001279754",
-    "tikName": "Калачеевская"
+    "tikName": "Калачеевская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1633,
     "uikTvd": "4364016182882",
+    "uikName": "УИК №1633",
     "tikTvd": "23620001279754",
-    "tikName": "Калачеевская"
+    "tikName": "Калачеевская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1634,
     "uikTvd": "4364016182883",
+    "uikName": "УИК №1634",
     "tikTvd": "23620001279754",
-    "tikName": "Калачеевская"
+    "tikName": "Калачеевская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1635,
     "uikTvd": "4364016182884",
+    "uikName": "УИК №1635",
     "tikTvd": "23620001279754",
-    "tikName": "Калачеевская"
+    "tikName": "Калачеевская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1636,
     "uikTvd": "4364016182885",
+    "uikName": "УИК №1636",
     "tikTvd": "23620001279754",
-    "tikName": "Калачеевская"
+    "tikName": "Калачеевская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1637,
     "uikTvd": "4364016182886",
+    "uikName": "УИК №1637",
     "tikTvd": "23620001279754",
-    "tikName": "Калачеевская"
+    "tikName": "Калачеевская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1638,
     "uikTvd": "4364016182887",
+    "uikName": "УИК №1638",
     "tikTvd": "23620001279754",
-    "tikName": "Калачеевская"
+    "tikName": "Калачеевская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1639,
     "uikTvd": "4364016182888",
+    "uikName": "УИК №1639",
     "tikTvd": "23620001279754",
-    "tikName": "Калачеевская"
+    "tikName": "Калачеевская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1640,
     "uikTvd": "4364016182889",
+    "uikName": "УИК №1640",
     "tikTvd": "23620001279754",
-    "tikName": "Калачеевская"
+    "tikName": "Калачеевская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1641,
     "uikTvd": "4364016182890",
+    "uikName": "УИК №1641",
     "tikTvd": "23620001279754",
-    "tikName": "Калачеевская"
+    "tikName": "Калачеевская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1642,
     "uikTvd": "4364016182891",
+    "uikName": "УИК №1642",
     "tikTvd": "23620001279754",
-    "tikName": "Калачеевская"
+    "tikName": "Калачеевская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1701,
     "uikTvd": "4364017149359",
+    "uikName": "УИК №1701",
     "tikTvd": "23620001279751",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1702,
     "uikTvd": "4364017149360",
+    "uikName": "УИК №1702",
     "tikTvd": "23620001279751",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1703,
     "uikTvd": "4364017149361",
+    "uikName": "УИК №1703",
     "tikTvd": "23620001279751",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1704,
     "uikTvd": "4364017149362",
+    "uikName": "УИК №1704",
     "tikTvd": "23620001279751",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1705,
     "uikTvd": "4364017149363",
+    "uikName": "УИК №1705",
     "tikTvd": "23620001279751",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1706,
     "uikTvd": "4364017149364",
+    "uikName": "УИК №1706",
     "tikTvd": "23620001279751",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1707,
     "uikTvd": "4364017149365",
+    "uikName": "УИК №1707",
     "tikTvd": "23620001279751",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1708,
     "uikTvd": "4364017149366",
+    "uikName": "УИК №1708",
     "tikTvd": "23620001279751",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1709,
     "uikTvd": "4364017149367",
+    "uikName": "УИК №1709",
     "tikTvd": "23620001279751",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1710,
     "uikTvd": "4364017149368",
+    "uikName": "УИК №1710",
     "tikTvd": "23620001279751",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1711,
     "uikTvd": "4364017149369",
+    "uikName": "УИК №1711",
     "tikTvd": "23620001279751",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1712,
     "uikTvd": "4364017149370",
+    "uikName": "УИК №1712",
     "tikTvd": "23620001279751",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1713,
     "uikTvd": "4364017149371",
+    "uikName": "УИК №1713",
     "tikTvd": "23620001279751",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1714,
     "uikTvd": "4364017149372",
+    "uikName": "УИК №1714",
     "tikTvd": "23620001279751",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1715,
     "uikTvd": "4364017149373",
+    "uikName": "УИК №1715",
     "tikTvd": "23620001279751",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1716,
     "uikTvd": "4364017149374",
+    "uikName": "УИК №1716",
     "tikTvd": "23620001279751",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1717,
     "uikTvd": "4364017149375",
+    "uikName": "УИК №1717",
     "tikTvd": "23620001279751",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1718,
     "uikTvd": "4364017149376",
+    "uikName": "УИК №1718",
     "tikTvd": "23620001279751",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1719,
     "uikTvd": "4364017149377",
+    "uikName": "УИК №1719",
     "tikTvd": "23620001279751",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1720,
     "uikTvd": "4364017149378",
+    "uikName": "УИК №1720",
     "tikTvd": "23620001279751",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1721,
     "uikTvd": "4364017149379",
+    "uikName": "УИК №1721",
     "tikTvd": "23620001279751",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1722,
     "uikTvd": "4364017149380",
+    "uikName": "УИК №1722",
     "tikTvd": "23620001279751",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1723,
     "uikTvd": "4364017149381",
+    "uikName": "УИК №1723",
     "tikTvd": "23620001279751",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1801,
     "uikTvd": "4364018181322",
+    "uikName": "УИК №1801",
     "tikTvd": "23620001279734",
-    "tikName": "Кантемировская"
+    "tikName": "Кантемировская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1802,
     "uikTvd": "4364018181323",
+    "uikName": "УИК №1802",
     "tikTvd": "23620001279734",
-    "tikName": "Кантемировская"
+    "tikName": "Кантемировская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1803,
     "uikTvd": "4364018181324",
+    "uikName": "УИК №1803",
     "tikTvd": "23620001279734",
-    "tikName": "Кантемировская"
+    "tikName": "Кантемировская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1804,
     "uikTvd": "4364018181325",
+    "uikName": "УИК №1804",
     "tikTvd": "23620001279734",
-    "tikName": "Кантемировская"
+    "tikName": "Кантемировская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1805,
     "uikTvd": "4364018181326",
+    "uikName": "УИК №1805",
     "tikTvd": "23620001279734",
-    "tikName": "Кантемировская"
+    "tikName": "Кантемировская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1806,
     "uikTvd": "4364018181327",
+    "uikName": "УИК №1806",
     "tikTvd": "23620001279734",
-    "tikName": "Кантемировская"
+    "tikName": "Кантемировская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1807,
     "uikTvd": "4364018181328",
+    "uikName": "УИК №1807",
     "tikTvd": "23620001279734",
-    "tikName": "Кантемировская"
+    "tikName": "Кантемировская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1808,
     "uikTvd": "4364018181329",
+    "uikName": "УИК №1808",
     "tikTvd": "23620001279734",
-    "tikName": "Кантемировская"
+    "tikName": "Кантемировская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1809,
     "uikTvd": "4364018181330",
+    "uikName": "УИК №1809",
     "tikTvd": "23620001279734",
-    "tikName": "Кантемировская"
+    "tikName": "Кантемировская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1810,
     "uikTvd": "4364018181331",
+    "uikName": "УИК №1810",
     "tikTvd": "23620001279734",
-    "tikName": "Кантемировская"
+    "tikName": "Кантемировская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1811,
     "uikTvd": "4364018181332",
+    "uikName": "УИК №1811",
     "tikTvd": "23620001279734",
-    "tikName": "Кантемировская"
+    "tikName": "Кантемировская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1812,
     "uikTvd": "4364018181333",
+    "uikName": "УИК №1812",
     "tikTvd": "23620001279734",
-    "tikName": "Кантемировская"
+    "tikName": "Кантемировская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1813,
     "uikTvd": "4364018181334",
+    "uikName": "УИК №1813",
     "tikTvd": "23620001279734",
-    "tikName": "Кантемировская"
+    "tikName": "Кантемировская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1814,
     "uikTvd": "4364018181335",
+    "uikName": "УИК №1814",
     "tikTvd": "23620001279734",
-    "tikName": "Кантемировская"
+    "tikName": "Кантемировская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1815,
     "uikTvd": "4364018181336",
+    "uikName": "УИК №1815",
     "tikTvd": "23620001279734",
-    "tikName": "Кантемировская"
+    "tikName": "Кантемировская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1816,
     "uikTvd": "4364018181337",
+    "uikName": "УИК №1816",
     "tikTvd": "23620001279734",
-    "tikName": "Кантемировская"
+    "tikName": "Кантемировская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1817,
     "uikTvd": "4364018181338",
+    "uikName": "УИК №1817",
     "tikTvd": "23620001279734",
-    "tikName": "Кантемировская"
+    "tikName": "Кантемировская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1818,
     "uikTvd": "4364018181339",
+    "uikName": "УИК №1818",
     "tikTvd": "23620001279734",
-    "tikName": "Кантемировская"
+    "tikName": "Кантемировская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1819,
     "uikTvd": "4364018181340",
+    "uikName": "УИК №1819",
     "tikTvd": "23620001279734",
-    "tikName": "Кантемировская"
+    "tikName": "Кантемировская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1820,
     "uikTvd": "4364018181341",
+    "uikName": "УИК №1820",
     "tikTvd": "23620001279734",
-    "tikName": "Кантемировская"
+    "tikName": "Кантемировская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1821,
     "uikTvd": "4364018181342",
+    "uikName": "УИК №1821",
     "tikTvd": "23620001279734",
-    "tikName": "Кантемировская"
+    "tikName": "Кантемировская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1822,
     "uikTvd": "4364018181343",
+    "uikName": "УИК №1822",
     "tikTvd": "23620001279734",
-    "tikName": "Кантемировская"
+    "tikName": "Кантемировская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1823,
     "uikTvd": "4364018181344",
+    "uikName": "УИК №1823",
     "tikTvd": "23620001279734",
-    "tikName": "Кантемировская"
+    "tikName": "Кантемировская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1824,
     "uikTvd": "4364018181345",
+    "uikName": "УИК №1824",
     "tikTvd": "23620001279734",
-    "tikName": "Кантемировская"
+    "tikName": "Кантемировская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1825,
     "uikTvd": "4364018181346",
+    "uikName": "УИК №1825",
     "tikTvd": "23620001279734",
-    "tikName": "Кантемировская"
+    "tikName": "Кантемировская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1826,
     "uikTvd": "4364018181347",
+    "uikName": "УИК №1826",
     "tikTvd": "23620001279734",
-    "tikName": "Кантемировская"
+    "tikName": "Кантемировская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1827,
     "uikTvd": "4364018181348",
+    "uikName": "УИК №1827",
     "tikTvd": "23620001279734",
-    "tikName": "Кантемировская"
+    "tikName": "Кантемировская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1828,
     "uikTvd": "4364018181349",
+    "uikName": "УИК №1828",
     "tikTvd": "23620001279734",
-    "tikName": "Кантемировская"
+    "tikName": "Кантемировская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1829,
     "uikTvd": "4364018181350",
+    "uikName": "УИК №1829",
     "tikTvd": "23620001279734",
-    "tikName": "Кантемировская"
+    "tikName": "Кантемировская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1830,
     "uikTvd": "4364018181351",
+    "uikName": "УИК №1830",
     "tikTvd": "23620001279734",
-    "tikName": "Кантемировская"
+    "tikName": "Кантемировская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1831,
     "uikTvd": "4364018181352",
+    "uikName": "УИК №1831",
     "tikTvd": "23620001279734",
-    "tikName": "Кантемировская"
+    "tikName": "Кантемировская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1832,
     "uikTvd": "4364018181353",
+    "uikName": "УИК №1832",
     "tikTvd": "23620001279734",
-    "tikName": "Кантемировская"
+    "tikName": "Кантемировская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1833,
     "uikTvd": "4364018181354",
+    "uikName": "УИК №1833",
     "tikTvd": "23620001279734",
-    "tikName": "Кантемировская"
+    "tikName": "Кантемировская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1834,
     "uikTvd": "4364018181355",
+    "uikName": "УИК №1834",
     "tikTvd": "23620001279734",
-    "tikName": "Кантемировская"
+    "tikName": "Кантемировская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1835,
     "uikTvd": "4364018181356",
+    "uikName": "УИК №1835",
     "tikTvd": "23620001279734",
-    "tikName": "Кантемировская"
+    "tikName": "Кантемировская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1836,
     "uikTvd": "4364018181357",
+    "uikName": "УИК №1836",
     "tikTvd": "23620001279734",
-    "tikName": "Кантемировская"
+    "tikName": "Кантемировская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1837,
     "uikTvd": "4364018181358",
+    "uikName": "УИК №1837",
     "tikTvd": "23620001279734",
-    "tikName": "Кантемировская"
+    "tikName": "Кантемировская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1838,
     "uikTvd": "4364018181359",
+    "uikName": "УИК №1838",
     "tikTvd": "23620001279734",
-    "tikName": "Кантемировская"
+    "tikName": "Кантемировская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1839,
     "uikTvd": "4364018181360",
+    "uikName": "УИК №1839",
     "tikTvd": "23620001279734",
-    "tikName": "Кантемировская"
+    "tikName": "Кантемировская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1840,
     "uikTvd": "4364018181361",
+    "uikName": "УИК №1840",
     "tikTvd": "23620001279734",
-    "tikName": "Кантемировская"
+    "tikName": "Кантемировская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1841,
     "uikTvd": "4364018181362",
+    "uikName": "УИК №1841",
     "tikTvd": "23620001279734",
-    "tikName": "Кантемировская"
+    "tikName": "Кантемировская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1842,
     "uikTvd": "4364018181363",
+    "uikName": "УИК №1842",
     "tikTvd": "23620001279734",
-    "tikName": "Кантемировская"
+    "tikName": "Кантемировская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1843,
     "uikTvd": "4364018181364",
+    "uikName": "УИК №1843",
     "tikTvd": "23620001279734",
-    "tikName": "Кантемировская"
+    "tikName": "Кантемировская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1844,
     "uikTvd": "4364018181365",
+    "uikName": "УИК №1844",
     "tikTvd": "23620001279734",
-    "tikName": "Кантемировская"
+    "tikName": "Кантемировская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1901,
     "uikTvd": "4364019169458",
+    "uikName": "УИК №1901",
     "tikTvd": "23620001279749",
-    "tikName": "Каширская"
+    "tikName": "Каширская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1902,
     "uikTvd": "4364019169459",
+    "uikName": "УИК №1902",
     "tikTvd": "23620001279749",
-    "tikName": "Каширская"
+    "tikName": "Каширская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1903,
     "uikTvd": "4364019169460",
+    "uikName": "УИК №1903",
     "tikTvd": "23620001279749",
-    "tikName": "Каширская"
+    "tikName": "Каширская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1904,
     "uikTvd": "4364019169461",
+    "uikName": "УИК №1904",
     "tikTvd": "23620001279749",
-    "tikName": "Каширская"
+    "tikName": "Каширская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1905,
     "uikTvd": "4364019169462",
+    "uikName": "УИК №1905",
     "tikTvd": "23620001279749",
-    "tikName": "Каширская"
+    "tikName": "Каширская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1906,
     "uikTvd": "4364019169463",
+    "uikName": "УИК №1906",
     "tikTvd": "23620001279749",
-    "tikName": "Каширская"
+    "tikName": "Каширская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1907,
     "uikTvd": "4364019169464",
+    "uikName": "УИК №1907",
     "tikTvd": "23620001279749",
-    "tikName": "Каширская"
+    "tikName": "Каширская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1908,
     "uikTvd": "4364019169465",
+    "uikName": "УИК №1908",
     "tikTvd": "23620001279749",
-    "tikName": "Каширская"
+    "tikName": "Каширская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1909,
     "uikTvd": "4364019169466",
+    "uikName": "УИК №1909",
     "tikTvd": "23620001279749",
-    "tikName": "Каширская"
+    "tikName": "Каширская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1910,
     "uikTvd": "4364019169467",
+    "uikName": "УИК №1910",
     "tikTvd": "23620001279749",
-    "tikName": "Каширская"
+    "tikName": "Каширская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1911,
     "uikTvd": "4364019169468",
+    "uikName": "УИК №1911",
     "tikTvd": "23620001279749",
-    "tikName": "Каширская"
+    "tikName": "Каширская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1912,
     "uikTvd": "4364019169469",
+    "uikName": "УИК №1912",
     "tikTvd": "23620001279749",
-    "tikName": "Каширская"
+    "tikName": "Каширская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1913,
     "uikTvd": "4364019169470",
+    "uikName": "УИК №1913",
     "tikTvd": "23620001279749",
-    "tikName": "Каширская"
+    "tikName": "Каширская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1914,
     "uikTvd": "4364019169471",
+    "uikName": "УИК №1914",
     "tikTvd": "23620001279749",
-    "tikName": "Каширская"
+    "tikName": "Каширская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1915,
     "uikTvd": "4364019169472",
+    "uikName": "УИК №1915",
     "tikTvd": "23620001279749",
-    "tikName": "Каширская"
+    "tikName": "Каширская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1916,
     "uikTvd": "4364019169473",
+    "uikName": "УИК №1916",
     "tikTvd": "23620001279749",
-    "tikName": "Каширская"
+    "tikName": "Каширская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1917,
     "uikTvd": "4364019169474",
+    "uikName": "УИК №1917",
     "tikTvd": "23620001279749",
-    "tikName": "Каширская"
+    "tikName": "Каширская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1918,
     "uikTvd": "4364019169475",
+    "uikName": "УИК №1918",
     "tikTvd": "23620001279749",
-    "tikName": "Каширская"
+    "tikName": "Каширская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1919,
     "uikTvd": "4364019169476",
+    "uikName": "УИК №1919",
     "tikTvd": "23620001279749",
-    "tikName": "Каширская"
+    "tikName": "Каширская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1920,
     "uikTvd": "4364019169477",
+    "uikName": "УИК №1920",
     "tikTvd": "23620001279749",
-    "tikName": "Каширская"
+    "tikName": "Каширская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1921,
     "uikTvd": "4364019169478",
+    "uikName": "УИК №1921",
     "tikTvd": "23620001279749",
-    "tikName": "Каширская"
+    "tikName": "Каширская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1922,
     "uikTvd": "4364019169479",
+    "uikName": "УИК №1922",
     "tikTvd": "23620001279749",
-    "tikName": "Каширская"
+    "tikName": "Каширская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1923,
     "uikTvd": "4364019169480",
+    "uikName": "УИК №1923",
     "tikTvd": "23620001279749",
-    "tikName": "Каширская"
+    "tikName": "Каширская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1924,
     "uikTvd": "4364019169481",
+    "uikName": "УИК №1924",
     "tikTvd": "23620001279749",
-    "tikName": "Каширская"
+    "tikName": "Каширская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1925,
     "uikTvd": "4364019169482",
+    "uikName": "УИК №1925",
     "tikTvd": "23620001279749",
-    "tikName": "Каширская"
+    "tikName": "Каширская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1926,
     "uikTvd": "4364019169483",
+    "uikName": "УИК №1926",
     "tikTvd": "23620001279749",
-    "tikName": "Каширская"
+    "tikName": "Каширская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 1927,
     "uikTvd": "4364019169484",
+    "uikName": "УИК №1927",
     "tikTvd": "23620001279749",
-    "tikName": "Каширская"
+    "tikName": "Каширская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2001,
     "uikTvd": "4364020208101",
+    "uikName": "УИК №2001",
     "tikTvd": "23620001279760",
-    "tikName": "Лискинская"
+    "tikName": "Лискинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2002,
     "uikTvd": "4364020208102",
+    "uikName": "УИК №2002",
     "tikTvd": "23620001279760",
-    "tikName": "Лискинская"
+    "tikName": "Лискинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2003,
     "uikTvd": "4364020208103",
+    "uikName": "УИК №2003",
     "tikTvd": "23620001279760",
-    "tikName": "Лискинская"
+    "tikName": "Лискинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2004,
     "uikTvd": "4364020208104",
+    "uikName": "УИК №2004",
     "tikTvd": "23620001279760",
-    "tikName": "Лискинская"
+    "tikName": "Лискинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2005,
     "uikTvd": "4364020208105",
+    "uikName": "УИК №2005",
     "tikTvd": "23620001279760",
-    "tikName": "Лискинская"
+    "tikName": "Лискинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2006,
     "uikTvd": "4364020208106",
+    "uikName": "УИК №2006",
     "tikTvd": "23620001279760",
-    "tikName": "Лискинская"
+    "tikName": "Лискинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2007,
     "uikTvd": "4364020208107",
+    "uikName": "УИК №2007",
     "tikTvd": "23620001279760",
-    "tikName": "Лискинская"
+    "tikName": "Лискинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2008,
     "uikTvd": "4364020208108",
+    "uikName": "УИК №2008",
     "tikTvd": "23620001279760",
-    "tikName": "Лискинская"
+    "tikName": "Лискинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2009,
     "uikTvd": "4364020208109",
+    "uikName": "УИК №2009",
     "tikTvd": "23620001279760",
-    "tikName": "Лискинская"
+    "tikName": "Лискинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2010,
     "uikTvd": "4364020208110",
+    "uikName": "УИК №2010",
     "tikTvd": "23620001279760",
-    "tikName": "Лискинская"
+    "tikName": "Лискинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2011,
     "uikTvd": "4364020208111",
+    "uikName": "УИК №2011",
     "tikTvd": "23620001279760",
-    "tikName": "Лискинская"
+    "tikName": "Лискинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2012,
     "uikTvd": "4364020208112",
+    "uikName": "УИК №2012",
     "tikTvd": "23620001279760",
-    "tikName": "Лискинская"
+    "tikName": "Лискинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2013,
     "uikTvd": "4364020208113",
+    "uikName": "УИК №2013",
     "tikTvd": "23620001279760",
-    "tikName": "Лискинская"
+    "tikName": "Лискинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2014,
     "uikTvd": "4364020208114",
+    "uikName": "УИК №2014",
     "tikTvd": "23620001279760",
-    "tikName": "Лискинская"
+    "tikName": "Лискинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2015,
     "uikTvd": "4364020208115",
+    "uikName": "УИК №2015",
     "tikTvd": "23620001279760",
-    "tikName": "Лискинская"
+    "tikName": "Лискинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2016,
     "uikTvd": "4364020208116",
+    "uikName": "УИК №2016",
     "tikTvd": "23620001279760",
-    "tikName": "Лискинская"
+    "tikName": "Лискинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2017,
     "uikTvd": "4364020208117",
+    "uikName": "УИК №2017",
     "tikTvd": "23620001279760",
-    "tikName": "Лискинская"
+    "tikName": "Лискинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2018,
     "uikTvd": "4364020208118",
+    "uikName": "УИК №2018",
     "tikTvd": "23620001279760",
-    "tikName": "Лискинская"
+    "tikName": "Лискинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2019,
     "uikTvd": "4364020208119",
+    "uikName": "УИК №2019",
     "tikTvd": "23620001279760",
-    "tikName": "Лискинская"
+    "tikName": "Лискинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2020,
     "uikTvd": "4364020208120",
+    "uikName": "УИК №2020",
     "tikTvd": "23620001279760",
-    "tikName": "Лискинская"
+    "tikName": "Лискинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2021,
     "uikTvd": "4364020208121",
+    "uikName": "УИК №2021",
     "tikTvd": "23620001279760",
-    "tikName": "Лискинская"
+    "tikName": "Лискинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2022,
     "uikTvd": "4364020208122",
+    "uikName": "УИК №2022",
     "tikTvd": "23620001279760",
-    "tikName": "Лискинская"
+    "tikName": "Лискинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2023,
     "uikTvd": "4364020208123",
+    "uikName": "УИК №2023",
     "tikTvd": "23620001279760",
-    "tikName": "Лискинская"
+    "tikName": "Лискинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2024,
     "uikTvd": "4364020208124",
+    "uikName": "УИК №2024",
     "tikTvd": "23620001279760",
-    "tikName": "Лискинская"
+    "tikName": "Лискинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2025,
     "uikTvd": "4364020208125",
+    "uikName": "УИК №2025",
     "tikTvd": "23620001279760",
-    "tikName": "Лискинская"
+    "tikName": "Лискинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2026,
     "uikTvd": "4364020208126",
+    "uikName": "УИК №2026",
     "tikTvd": "23620001279760",
-    "tikName": "Лискинская"
+    "tikName": "Лискинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2027,
     "uikTvd": "4364020208127",
+    "uikName": "УИК №2027",
     "tikTvd": "23620001279760",
-    "tikName": "Лискинская"
+    "tikName": "Лискинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2028,
     "uikTvd": "4364020208128",
+    "uikName": "УИК №2028",
     "tikTvd": "23620001279760",
-    "tikName": "Лискинская"
+    "tikName": "Лискинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2029,
     "uikTvd": "4364020208129",
+    "uikName": "УИК №2029",
     "tikTvd": "23620001279760",
-    "tikName": "Лискинская"
+    "tikName": "Лискинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2030,
     "uikTvd": "4364020208130",
+    "uikName": "УИК №2030",
     "tikTvd": "23620001279760",
-    "tikName": "Лискинская"
+    "tikName": "Лискинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2031,
     "uikTvd": "4364020208131",
+    "uikName": "УИК №2031",
     "tikTvd": "23620001279760",
-    "tikName": "Лискинская"
+    "tikName": "Лискинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2032,
     "uikTvd": "4364020208132",
+    "uikName": "УИК №2032",
     "tikTvd": "23620001279760",
-    "tikName": "Лискинская"
+    "tikName": "Лискинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2033,
     "uikTvd": "4364020208133",
+    "uikName": "УИК №2033",
     "tikTvd": "23620001279760",
-    "tikName": "Лискинская"
+    "tikName": "Лискинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2034,
     "uikTvd": "4364020208134",
+    "uikName": "УИК №2034",
     "tikTvd": "23620001279760",
-    "tikName": "Лискинская"
+    "tikName": "Лискинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2035,
     "uikTvd": "4364020208135",
+    "uikName": "УИК №2035",
     "tikTvd": "23620001279760",
-    "tikName": "Лискинская"
+    "tikName": "Лискинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2036,
     "uikTvd": "4364020208136",
+    "uikName": "УИК №2036",
     "tikTvd": "23620001279760",
-    "tikName": "Лискинская"
+    "tikName": "Лискинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2037,
     "uikTvd": "4364020208137",
+    "uikName": "УИК №2037",
     "tikTvd": "23620001279760",
-    "tikName": "Лискинская"
+    "tikName": "Лискинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2038,
     "uikTvd": "4364020208138",
+    "uikName": "УИК №2038",
     "tikTvd": "23620001279760",
-    "tikName": "Лискинская"
+    "tikName": "Лискинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2039,
     "uikTvd": "4364020208139",
+    "uikName": "УИК №2039",
     "tikTvd": "23620001279760",
-    "tikName": "Лискинская"
+    "tikName": "Лискинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2040,
     "uikTvd": "4364020208140",
+    "uikName": "УИК №2040",
     "tikTvd": "23620001279760",
-    "tikName": "Лискинская"
+    "tikName": "Лискинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2041,
     "uikTvd": "4364020208141",
+    "uikName": "УИК №2041",
     "tikTvd": "23620001279760",
-    "tikName": "Лискинская"
+    "tikName": "Лискинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2042,
     "uikTvd": "4364020208142",
+    "uikName": "УИК №2042",
     "tikTvd": "23620001279760",
-    "tikName": "Лискинская"
+    "tikName": "Лискинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2043,
     "uikTvd": "4364020208143",
+    "uikName": "УИК №2043",
     "tikTvd": "23620001279760",
-    "tikName": "Лискинская"
+    "tikName": "Лискинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2044,
     "uikTvd": "4364020208144",
+    "uikName": "УИК №2044",
     "tikTvd": "23620001279760",
-    "tikName": "Лискинская"
+    "tikName": "Лискинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2045,
     "uikTvd": "4364020208145",
+    "uikName": "УИК №2045",
     "tikTvd": "23620001279760",
-    "tikName": "Лискинская"
+    "tikName": "Лискинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2046,
     "uikTvd": "4364020208146",
+    "uikName": "УИК №2046",
     "tikTvd": "23620001279760",
-    "tikName": "Лискинская"
+    "tikName": "Лискинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2047,
     "uikTvd": "4364020208147",
+    "uikName": "УИК №2047",
     "tikTvd": "23620001279760",
-    "tikName": "Лискинская"
+    "tikName": "Лискинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2048,
     "uikTvd": "4364020208148",
+    "uikName": "УИК №2048",
     "tikTvd": "23620001279760",
-    "tikName": "Лискинская"
+    "tikName": "Лискинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2049,
     "uikTvd": "4364020208149",
+    "uikName": "УИК №2049",
     "tikTvd": "23620001279760",
-    "tikName": "Лискинская"
+    "tikName": "Лискинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2050,
     "uikTvd": "4364020208150",
+    "uikName": "УИК №2050",
     "tikTvd": "23620001279760",
-    "tikName": "Лискинская"
+    "tikName": "Лискинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2051,
     "uikTvd": "4364020208151",
+    "uikName": "УИК №2051",
     "tikTvd": "23620001279760",
-    "tikName": "Лискинская"
+    "tikName": "Лискинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2052,
     "uikTvd": "4364020208152",
+    "uikName": "УИК №2052",
     "tikTvd": "23620001279760",
-    "tikName": "Лискинская"
+    "tikName": "Лискинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2053,
     "uikTvd": "4364020208153",
+    "uikName": "УИК №2053",
     "tikTvd": "23620001279760",
-    "tikName": "Лискинская"
+    "tikName": "Лискинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2054,
     "uikTvd": "4364020208154",
+    "uikName": "УИК №2054",
     "tikTvd": "23620001279760",
-    "tikName": "Лискинская"
+    "tikName": "Лискинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2055,
     "uikTvd": "4364020208155",
+    "uikName": "УИК №2055",
     "tikTvd": "23620001279760",
-    "tikName": "Лискинская"
+    "tikName": "Лискинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2056,
     "uikTvd": "4364020208156",
+    "uikName": "УИК №2056",
     "tikTvd": "23620001279760",
-    "tikName": "Лискинская"
+    "tikName": "Лискинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2057,
     "uikTvd": "4364020208157",
+    "uikName": "УИК №2057",
     "tikTvd": "23620001279760",
-    "tikName": "Лискинская"
+    "tikName": "Лискинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2058,
     "uikTvd": "4364020208158",
+    "uikName": "УИК №2058",
     "tikTvd": "23620001279760",
-    "tikName": "Лискинская"
+    "tikName": "Лискинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2059,
     "uikTvd": "4364020208159",
+    "uikName": "УИК №2059",
     "tikTvd": "23620001279760",
-    "tikName": "Лискинская"
+    "tikName": "Лискинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2060,
     "uikTvd": "4364020208160",
+    "uikName": "УИК №2060",
     "tikTvd": "23620001279760",
-    "tikName": "Лискинская"
+    "tikName": "Лискинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2061,
     "uikTvd": "4364020208161",
+    "uikName": "УИК №2061",
     "tikTvd": "23620001279760",
-    "tikName": "Лискинская"
+    "tikName": "Лискинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2062,
     "uikTvd": "4364020208162",
+    "uikName": "УИК №2062",
     "tikTvd": "23620001279760",
-    "tikName": "Лискинская"
+    "tikName": "Лискинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2063,
     "uikTvd": "4364020208163",
+    "uikName": "УИК №2063",
     "tikTvd": "23620001279760",
-    "tikName": "Лискинская"
+    "tikName": "Лискинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2064,
     "uikTvd": "4364020208164",
+    "uikName": "УИК №2064",
     "tikTvd": "23620001279760",
-    "tikName": "Лискинская"
+    "tikName": "Лискинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2065,
     "uikTvd": "4364020208165",
+    "uikName": "УИК №2065",
     "tikTvd": "23620001279760",
-    "tikName": "Лискинская"
+    "tikName": "Лискинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2066,
     "uikTvd": "4364020208166",
+    "uikName": "УИК №2066",
     "tikTvd": "23620001279760",
-    "tikName": "Лискинская"
+    "tikName": "Лискинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2067,
     "uikTvd": "4364020208167",
+    "uikName": "УИК №2067",
     "tikTvd": "23620001279760",
-    "tikName": "Лискинская"
+    "tikName": "Лискинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2068,
     "uikTvd": "4364020208168",
+    "uikName": "УИК №2068",
     "tikTvd": "23620001279760",
-    "tikName": "Лискинская"
+    "tikName": "Лискинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2069,
     "uikTvd": "4364020208169",
+    "uikName": "УИК №2069",
     "tikTvd": "23620001279760",
-    "tikName": "Лискинская"
+    "tikName": "Лискинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2070,
     "uikTvd": "4364020208170",
+    "uikName": "УИК №2070",
     "tikTvd": "23620001279760",
-    "tikName": "Лискинская"
+    "tikName": "Лискинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2071,
     "uikTvd": "4364020208171",
+    "uikName": "УИК №2071",
     "tikTvd": "23620001279760",
-    "tikName": "Лискинская"
+    "tikName": "Лискинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2072,
     "uikTvd": "4364020208172",
+    "uikName": "УИК №2072",
     "tikTvd": "23620001279760",
-    "tikName": "Лискинская"
+    "tikName": "Лискинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2073,
     "uikTvd": "4364020208173",
+    "uikName": "УИК №2073",
     "tikTvd": "23620001279760",
-    "tikName": "Лискинская"
+    "tikName": "Лискинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2074,
     "uikTvd": "4364020208174",
+    "uikName": "УИК №2074",
     "tikTvd": "23620001279760",
-    "tikName": "Лискинская"
+    "tikName": "Лискинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2075,
     "uikTvd": "4364020208175",
+    "uikName": "УИК №2075",
     "tikTvd": "23620001279760",
-    "tikName": "Лискинская"
+    "tikName": "Лискинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2076,
     "uikTvd": "4364020208176",
+    "uikName": "УИК №2076",
     "tikTvd": "23620001279760",
-    "tikName": "Лискинская"
+    "tikName": "Лискинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2077,
     "uikTvd": "4364020208177",
+    "uikName": "УИК №2077",
     "tikTvd": "23620001279760",
-    "tikName": "Лискинская"
+    "tikName": "Лискинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2078,
     "uikTvd": "4364020208178",
+    "uikName": "УИК №2078",
     "tikTvd": "23620001279760",
-    "tikName": "Лискинская"
+    "tikName": "Лискинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2079,
     "uikTvd": "4364020208179",
+    "uikName": "УИК №2079",
     "tikTvd": "23620001279760",
-    "tikName": "Лискинская"
+    "tikName": "Лискинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2080,
     "uikTvd": "4364020208180",
+    "uikName": "УИК №2080",
     "tikTvd": "23620001279760",
-    "tikName": "Лискинская"
+    "tikName": "Лискинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2081,
     "uikTvd": "4364020208181",
+    "uikName": "УИК №2081",
     "tikTvd": "23620001279760",
-    "tikName": "Лискинская"
+    "tikName": "Лискинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2082,
     "uikTvd": "4364020208182",
+    "uikName": "УИК №2082",
     "tikTvd": "23620001279760",
-    "tikName": "Лискинская"
+    "tikName": "Лискинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2083,
     "uikTvd": "4364020208183",
+    "uikName": "УИК №2083",
     "tikTvd": "23620001279760",
-    "tikName": "Лискинская"
+    "tikName": "Лискинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2084,
     "uikTvd": "4364020208184",
+    "uikName": "УИК №2084",
     "tikTvd": "23620001279760",
-    "tikName": "Лискинская"
+    "tikName": "Лискинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2085,
     "uikTvd": "4364020208185",
+    "uikName": "УИК №2085",
     "tikTvd": "23620001279760",
-    "tikName": "Лискинская"
+    "tikName": "Лискинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2086,
     "uikTvd": "4364020208095",
+    "uikName": "УИК №2086",
     "tikTvd": "23620001279760",
-    "tikName": "Лискинская"
+    "tikName": "Лискинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2087,
     "uikTvd": "4364020208097",
+    "uikName": "УИК №2087",
     "tikTvd": "23620001279760",
-    "tikName": "Лискинская"
+    "tikName": "Лискинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2088,
     "uikTvd": "4364020208099",
+    "uikName": "УИК №2088",
     "tikTvd": "23620001279760",
-    "tikName": "Лискинская"
+    "tikName": "Лискинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2101,
     "uikTvd": "4364021157104",
+    "uikName": "УИК №2101",
     "tikTvd": "23620001279732",
-    "tikName": "Нижнедевицкая"
+    "tikName": "Нижнедевицкая",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2102,
     "uikTvd": "4364021157105",
+    "uikName": "УИК №2102",
     "tikTvd": "23620001279732",
-    "tikName": "Нижнедевицкая"
+    "tikName": "Нижнедевицкая",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2103,
     "uikTvd": "4364021157106",
+    "uikName": "УИК №2103",
     "tikTvd": "23620001279732",
-    "tikName": "Нижнедевицкая"
+    "tikName": "Нижнедевицкая",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2104,
     "uikTvd": "4364021157107",
+    "uikName": "УИК №2104",
     "tikTvd": "23620001279732",
-    "tikName": "Нижнедевицкая"
+    "tikName": "Нижнедевицкая",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2105,
     "uikTvd": "4364021157108",
+    "uikName": "УИК №2105",
     "tikTvd": "23620001279732",
-    "tikName": "Нижнедевицкая"
+    "tikName": "Нижнедевицкая",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2106,
     "uikTvd": "4364021157109",
+    "uikName": "УИК №2106",
     "tikTvd": "23620001279732",
-    "tikName": "Нижнедевицкая"
+    "tikName": "Нижнедевицкая",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2107,
     "uikTvd": "4364021157110",
+    "uikName": "УИК №2107",
     "tikTvd": "23620001279732",
-    "tikName": "Нижнедевицкая"
+    "tikName": "Нижнедевицкая",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2108,
     "uikTvd": "4364021157111",
+    "uikName": "УИК №2108",
     "tikTvd": "23620001279732",
-    "tikName": "Нижнедевицкая"
+    "tikName": "Нижнедевицкая",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2109,
     "uikTvd": "4364021157112",
+    "uikName": "УИК №2109",
     "tikTvd": "23620001279732",
-    "tikName": "Нижнедевицкая"
+    "tikName": "Нижнедевицкая",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2110,
     "uikTvd": "4364021157113",
+    "uikName": "УИК №2110",
     "tikTvd": "23620001279732",
-    "tikName": "Нижнедевицкая"
+    "tikName": "Нижнедевицкая",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2111,
     "uikTvd": "4364021157114",
+    "uikName": "УИК №2111",
     "tikTvd": "23620001279732",
-    "tikName": "Нижнедевицкая"
+    "tikName": "Нижнедевицкая",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2112,
     "uikTvd": "4364021157115",
+    "uikName": "УИК №2112",
     "tikTvd": "23620001279732",
-    "tikName": "Нижнедевицкая"
+    "tikName": "Нижнедевицкая",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2113,
     "uikTvd": "4364021157116",
+    "uikName": "УИК №2113",
     "tikTvd": "23620001279732",
-    "tikName": "Нижнедевицкая"
+    "tikName": "Нижнедевицкая",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2114,
     "uikTvd": "4364021157117",
+    "uikName": "УИК №2114",
     "tikTvd": "23620001279732",
-    "tikName": "Нижнедевицкая"
+    "tikName": "Нижнедевицкая",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2115,
     "uikTvd": "4364021157118",
+    "uikName": "УИК №2115",
     "tikTvd": "23620001279732",
-    "tikName": "Нижнедевицкая"
+    "tikName": "Нижнедевицкая",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2116,
     "uikTvd": "4364021157119",
+    "uikName": "УИК №2116",
     "tikTvd": "23620001279732",
-    "tikName": "Нижнедевицкая"
+    "tikName": "Нижнедевицкая",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2117,
     "uikTvd": "4364021157120",
+    "uikName": "УИК №2117",
     "tikTvd": "23620001279732",
-    "tikName": "Нижнедевицкая"
+    "tikName": "Нижнедевицкая",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2118,
     "uikTvd": "4364021157121",
+    "uikName": "УИК №2118",
     "tikTvd": "23620001279732",
-    "tikName": "Нижнедевицкая"
+    "tikName": "Нижнедевицкая",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2119,
     "uikTvd": "4364021157122",
+    "uikName": "УИК №2119",
     "tikTvd": "23620001279732",
-    "tikName": "Нижнедевицкая"
+    "tikName": "Нижнедевицкая",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2120,
     "uikTvd": "4364021157123",
+    "uikName": "УИК №2120",
     "tikTvd": "23620001279732",
-    "tikName": "Нижнедевицкая"
+    "tikName": "Нижнедевицкая",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2121,
     "uikTvd": "4364021157124",
+    "uikName": "УИК №2121",
     "tikTvd": "23620001279732",
-    "tikName": "Нижнедевицкая"
+    "tikName": "Нижнедевицкая",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2122,
     "uikTvd": "4364021157125",
+    "uikName": "УИК №2122",
     "tikTvd": "23620001279732",
-    "tikName": "Нижнедевицкая"
+    "tikName": "Нижнедевицкая",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2123,
     "uikTvd": "4364021157126",
+    "uikName": "УИК №2123",
     "tikTvd": "23620001279732",
-    "tikName": "Нижнедевицкая"
+    "tikName": "Нижнедевицкая",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2124,
     "uikTvd": "4364021157127",
+    "uikName": "УИК №2124",
     "tikTvd": "23620001279732",
-    "tikName": "Нижнедевицкая"
+    "tikName": "Нижнедевицкая",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2125,
     "uikTvd": "4364021157128",
+    "uikName": "УИК №2125",
     "tikTvd": "23620001279732",
-    "tikName": "Нижнедевицкая"
+    "tikName": "Нижнедевицкая",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2126,
     "uikTvd": "4364021157129",
+    "uikName": "УИК №2126",
     "tikTvd": "23620001279732",
-    "tikName": "Нижнедевицкая"
+    "tikName": "Нижнедевицкая",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2127,
     "uikTvd": "4364021157130",
+    "uikName": "УИК №2127",
     "tikTvd": "23620001279732",
-    "tikName": "Нижнедевицкая"
+    "tikName": "Нижнедевицкая",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2128,
     "uikTvd": "4364021157131",
+    "uikName": "УИК №2128",
     "tikTvd": "23620001279732",
-    "tikName": "Нижнедевицкая"
+    "tikName": "Нижнедевицкая",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2129,
     "uikTvd": "4364021157132",
+    "uikName": "УИК №2129",
     "tikTvd": "23620001279732",
-    "tikName": "Нижнедевицкая"
+    "tikName": "Нижнедевицкая",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2130,
     "uikTvd": "4364021157133",
+    "uikName": "УИК №2130",
     "tikTvd": "23620001279732",
-    "tikName": "Нижнедевицкая"
+    "tikName": "Нижнедевицкая",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2131,
     "uikTvd": "4364021157134",
+    "uikName": "УИК №2131",
     "tikTvd": "23620001279732",
-    "tikName": "Нижнедевицкая"
+    "tikName": "Нижнедевицкая",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2132,
     "uikTvd": "4364021157135",
+    "uikName": "УИК №2132",
     "tikTvd": "23620001279732",
-    "tikName": "Нижнедевицкая"
+    "tikName": "Нижнедевицкая",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2133,
     "uikTvd": "4364021157136",
+    "uikName": "УИК №2133",
     "tikTvd": "23620001279732",
-    "tikName": "Нижнедевицкая"
+    "tikName": "Нижнедевицкая",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2134,
     "uikTvd": "4364021157137",
+    "uikName": "УИК №2134",
     "tikTvd": "23620001279732",
-    "tikName": "Нижнедевицкая"
+    "tikName": "Нижнедевицкая",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2201,
     "uikTvd": "4364022121559",
+    "uikName": "УИК №2201",
     "tikTvd": "23620001279759",
-    "tikName": "Нововоронежская городская"
+    "tikName": "Нововоронежская городская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2202,
     "uikTvd": "4364022121560",
+    "uikName": "УИК №2202",
     "tikTvd": "23620001279759",
-    "tikName": "Нововоронежская городская"
+    "tikName": "Нововоронежская городская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2203,
     "uikTvd": "4364022121561",
+    "uikName": "УИК №2203",
     "tikTvd": "23620001279759",
-    "tikName": "Нововоронежская городская"
+    "tikName": "Нововоронежская городская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2204,
     "uikTvd": "4364022121562",
+    "uikName": "УИК №2204",
     "tikTvd": "23620001279759",
-    "tikName": "Нововоронежская городская"
+    "tikName": "Нововоронежская городская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2205,
     "uikTvd": "4364022121563",
+    "uikName": "УИК №2205",
     "tikTvd": "23620001279759",
-    "tikName": "Нововоронежская городская"
+    "tikName": "Нововоронежская городская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2206,
     "uikTvd": "4364022121564",
+    "uikName": "УИК №2206",
     "tikTvd": "23620001279759",
-    "tikName": "Нововоронежская городская"
+    "tikName": "Нововоронежская городская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2207,
     "uikTvd": "4364022121565",
+    "uikName": "УИК №2207",
     "tikTvd": "23620001279759",
-    "tikName": "Нововоронежская городская"
+    "tikName": "Нововоронежская городская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2208,
     "uikTvd": "4364022121566",
+    "uikName": "УИК №2208",
     "tikTvd": "23620001279759",
-    "tikName": "Нововоронежская городская"
+    "tikName": "Нововоронежская городская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2209,
     "uikTvd": "4364022121567",
+    "uikName": "УИК №2209",
     "tikTvd": "23620001279759",
-    "tikName": "Нововоронежская городская"
+    "tikName": "Нововоронежская городская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2210,
     "uikTvd": "4364022121568",
+    "uikName": "УИК №2210",
     "tikTvd": "23620001279759",
-    "tikName": "Нововоронежская городская"
+    "tikName": "Нововоронежская городская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2211,
     "uikTvd": "4364022121569",
+    "uikName": "УИК №2211",
     "tikTvd": "23620001279759",
-    "tikName": "Нововоронежская городская"
+    "tikName": "Нововоронежская городская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2212,
     "uikTvd": "4364022121570",
+    "uikName": "УИК №2212",
     "tikTvd": "23620001279759",
-    "tikName": "Нововоронежская городская"
+    "tikName": "Нововоронежская городская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2301,
     "uikTvd": "4364023182428",
+    "uikName": "УИК №2301",
     "tikTvd": "23620001279738",
-    "tikName": "Новоусманская"
+    "tikName": "Новоусманская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2302,
     "uikTvd": "4364023182429",
+    "uikName": "УИК №2302",
     "tikTvd": "23620001279738",
-    "tikName": "Новоусманская"
+    "tikName": "Новоусманская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2303,
     "uikTvd": "4364023182430",
+    "uikName": "УИК №2303",
     "tikTvd": "23620001279738",
-    "tikName": "Новоусманская"
+    "tikName": "Новоусманская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2304,
     "uikTvd": "4364023182431",
+    "uikName": "УИК №2304",
     "tikTvd": "23620001279738",
-    "tikName": "Новоусманская"
+    "tikName": "Новоусманская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2305,
     "uikTvd": "4364023182432",
+    "uikName": "УИК №2305",
     "tikTvd": "23620001279738",
-    "tikName": "Новоусманская"
+    "tikName": "Новоусманская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2306,
     "uikTvd": "4364023182433",
+    "uikName": "УИК №2306",
     "tikTvd": "23620001279738",
-    "tikName": "Новоусманская"
+    "tikName": "Новоусманская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2307,
     "uikTvd": "4364023182434",
+    "uikName": "УИК №2307",
     "tikTvd": "23620001279738",
-    "tikName": "Новоусманская"
+    "tikName": "Новоусманская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2308,
     "uikTvd": "4364023182435",
+    "uikName": "УИК №2308",
     "tikTvd": "23620001279738",
-    "tikName": "Новоусманская"
+    "tikName": "Новоусманская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2309,
     "uikTvd": "4364023182436",
+    "uikName": "УИК №2309",
     "tikTvd": "23620001279738",
-    "tikName": "Новоусманская"
+    "tikName": "Новоусманская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2310,
     "uikTvd": "4364023182437",
+    "uikName": "УИК №2310",
     "tikTvd": "23620001279738",
-    "tikName": "Новоусманская"
+    "tikName": "Новоусманская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2311,
     "uikTvd": "4364023182438",
+    "uikName": "УИК №2311",
     "tikTvd": "23620001279738",
-    "tikName": "Новоусманская"
+    "tikName": "Новоусманская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2312,
     "uikTvd": "4364023182439",
+    "uikName": "УИК №2312",
     "tikTvd": "23620001279738",
-    "tikName": "Новоусманская"
+    "tikName": "Новоусманская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2313,
     "uikTvd": "4364023182440",
+    "uikName": "УИК №2313",
     "tikTvd": "23620001279738",
-    "tikName": "Новоусманская"
+    "tikName": "Новоусманская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2314,
     "uikTvd": "4364023182441",
+    "uikName": "УИК №2314",
     "tikTvd": "23620001279738",
-    "tikName": "Новоусманская"
+    "tikName": "Новоусманская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2315,
     "uikTvd": "4364023182442",
+    "uikName": "УИК №2315",
     "tikTvd": "23620001279738",
-    "tikName": "Новоусманская"
+    "tikName": "Новоусманская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2316,
     "uikTvd": "4364023182443",
+    "uikName": "УИК №2316",
     "tikTvd": "23620001279738",
-    "tikName": "Новоусманская"
+    "tikName": "Новоусманская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2317,
     "uikTvd": "4364023182444",
+    "uikName": "УИК №2317",
     "tikTvd": "23620001279738",
-    "tikName": "Новоусманская"
+    "tikName": "Новоусманская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2318,
     "uikTvd": "4364023182445",
+    "uikName": "УИК №2318",
     "tikTvd": "23620001279738",
-    "tikName": "Новоусманская"
+    "tikName": "Новоусманская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2319,
     "uikTvd": "4364023182446",
+    "uikName": "УИК №2319",
     "tikTvd": "23620001279738",
-    "tikName": "Новоусманская"
+    "tikName": "Новоусманская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2320,
     "uikTvd": "4364023182447",
+    "uikName": "УИК №2320",
     "tikTvd": "23620001279738",
-    "tikName": "Новоусманская"
+    "tikName": "Новоусманская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2321,
     "uikTvd": "4364023182448",
+    "uikName": "УИК №2321",
     "tikTvd": "23620001279738",
-    "tikName": "Новоусманская"
+    "tikName": "Новоусманская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2322,
     "uikTvd": "4364023182449",
+    "uikName": "УИК №2322",
     "tikTvd": "23620001279738",
-    "tikName": "Новоусманская"
+    "tikName": "Новоусманская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2323,
     "uikTvd": "4364023182450",
+    "uikName": "УИК №2323",
     "tikTvd": "23620001279738",
-    "tikName": "Новоусманская"
+    "tikName": "Новоусманская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2324,
     "uikTvd": "4364023182451",
+    "uikName": "УИК №2324",
     "tikTvd": "23620001279738",
-    "tikName": "Новоусманская"
+    "tikName": "Новоусманская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2325,
     "uikTvd": "4364023182452",
+    "uikName": "УИК №2325",
     "tikTvd": "23620001279738",
-    "tikName": "Новоусманская"
+    "tikName": "Новоусманская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2326,
     "uikTvd": "4364023182453",
+    "uikName": "УИК №2326",
     "tikTvd": "23620001279738",
-    "tikName": "Новоусманская"
+    "tikName": "Новоусманская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2327,
     "uikTvd": "4364023182454",
+    "uikName": "УИК №2327",
     "tikTvd": "23620001279738",
-    "tikName": "Новоусманская"
+    "tikName": "Новоусманская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2328,
     "uikTvd": "4364023182455",
+    "uikName": "УИК №2328",
     "tikTvd": "23620001279738",
-    "tikName": "Новоусманская"
+    "tikName": "Новоусманская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2329,
     "uikTvd": "4364023182456",
+    "uikName": "УИК №2329",
     "tikTvd": "23620001279738",
-    "tikName": "Новоусманская"
+    "tikName": "Новоусманская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2330,
     "uikTvd": "4364023182457",
+    "uikName": "УИК №2330",
     "tikTvd": "23620001279738",
-    "tikName": "Новоусманская"
+    "tikName": "Новоусманская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2331,
     "uikTvd": "4364023182458",
+    "uikName": "УИК №2331",
     "tikTvd": "23620001279738",
-    "tikName": "Новоусманская"
+    "tikName": "Новоусманская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2332,
     "uikTvd": "4364023182459",
+    "uikName": "УИК №2332",
     "tikTvd": "23620001279738",
-    "tikName": "Новоусманская"
+    "tikName": "Новоусманская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2333,
     "uikTvd": "4364023182460",
+    "uikName": "УИК №2333",
     "tikTvd": "23620001279738",
-    "tikName": "Новоусманская"
+    "tikName": "Новоусманская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2334,
     "uikTvd": "4364023182461",
+    "uikName": "УИК №2334",
     "tikTvd": "23620001279738",
-    "tikName": "Новоусманская"
+    "tikName": "Новоусманская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2335,
     "uikTvd": "4364023182462",
+    "uikName": "УИК №2335",
     "tikTvd": "23620001279738",
-    "tikName": "Новоусманская"
+    "tikName": "Новоусманская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2336,
     "uikTvd": "4364023182463",
+    "uikName": "УИК №2336",
     "tikTvd": "23620001279738",
-    "tikName": "Новоусманская"
+    "tikName": "Новоусманская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2337,
     "uikTvd": "4364023182464",
+    "uikName": "УИК №2337",
     "tikTvd": "23620001279738",
-    "tikName": "Новоусманская"
+    "tikName": "Новоусманская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2338,
     "uikTvd": "4364023182465",
+    "uikName": "УИК №2338",
     "tikTvd": "23620001279738",
-    "tikName": "Новоусманская"
+    "tikName": "Новоусманская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2339,
     "uikTvd": "4364023182466",
+    "uikName": "УИК №2339",
     "tikTvd": "23620001279738",
-    "tikName": "Новоусманская"
+    "tikName": "Новоусманская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2340,
     "uikTvd": "4364023182467",
+    "uikName": "УИК №2340",
     "tikTvd": "23620001279738",
-    "tikName": "Новоусманская"
+    "tikName": "Новоусманская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2341,
     "uikTvd": "4364023182468",
+    "uikName": "УИК №2341",
     "tikTvd": "23620001279738",
-    "tikName": "Новоусманская"
+    "tikName": "Новоусманская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2342,
     "uikTvd": "4364023182469",
+    "uikName": "УИК №2342",
     "tikTvd": "23620001279738",
-    "tikName": "Новоусманская"
+    "tikName": "Новоусманская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2343,
     "uikTvd": "4364023182470",
+    "uikName": "УИК №2343",
     "tikTvd": "23620001279738",
-    "tikName": "Новоусманская"
+    "tikName": "Новоусманская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2344,
     "uikTvd": "4364023182471",
+    "uikName": "УИК №2344",
     "tikTvd": "23620001279738",
-    "tikName": "Новоусманская"
+    "tikName": "Новоусманская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2345,
     "uikTvd": "4364023182472",
+    "uikName": "УИК №2345",
     "tikTvd": "23620001279738",
-    "tikName": "Новоусманская"
+    "tikName": "Новоусманская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2346,
     "uikTvd": "4364023182473",
+    "uikName": "УИК №2346",
     "tikTvd": "23620001279738",
-    "tikName": "Новоусманская"
+    "tikName": "Новоусманская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2347,
     "uikTvd": "4364023182474",
+    "uikName": "УИК №2347",
     "tikTvd": "23620001279738",
-    "tikName": "Новоусманская"
+    "tikName": "Новоусманская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2348,
     "uikTvd": "4364023182475",
+    "uikName": "УИК №2348",
     "tikTvd": "23620001279738",
-    "tikName": "Новоусманская"
+    "tikName": "Новоусманская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2349,
     "uikTvd": "4364023182476",
+    "uikName": "УИК №2349",
     "tikTvd": "23620001279738",
-    "tikName": "Новоусманская"
+    "tikName": "Новоусманская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2350,
     "uikTvd": "4364023182477",
+    "uikName": "УИК №2350",
     "tikTvd": "23620001279738",
-    "tikName": "Новоусманская"
+    "tikName": "Новоусманская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2351,
     "uikTvd": "4364023182478",
+    "uikName": "УИК №2351",
     "tikTvd": "23620001279738",
-    "tikName": "Новоусманская"
+    "tikName": "Новоусманская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2401,
     "uikTvd": "4364024177670",
+    "uikName": "УИК №2401",
     "tikTvd": "23620001279742",
-    "tikName": "Новохоперская"
+    "tikName": "Новохоперская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2402,
     "uikTvd": "4364024177671",
+    "uikName": "УИК №2402",
     "tikTvd": "23620001279742",
-    "tikName": "Новохоперская"
+    "tikName": "Новохоперская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2403,
     "uikTvd": "4364024177672",
+    "uikName": "УИК №2403",
     "tikTvd": "23620001279742",
-    "tikName": "Новохоперская"
+    "tikName": "Новохоперская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2404,
     "uikTvd": "4364024177673",
+    "uikName": "УИК №2404",
     "tikTvd": "23620001279742",
-    "tikName": "Новохоперская"
+    "tikName": "Новохоперская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2405,
     "uikTvd": "4364024177674",
+    "uikName": "УИК №2405",
     "tikTvd": "23620001279742",
-    "tikName": "Новохоперская"
+    "tikName": "Новохоперская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2406,
     "uikTvd": "4364024177675",
+    "uikName": "УИК №2406",
     "tikTvd": "23620001279742",
-    "tikName": "Новохоперская"
+    "tikName": "Новохоперская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2407,
     "uikTvd": "4364024177676",
+    "uikName": "УИК №2407",
     "tikTvd": "23620001279742",
-    "tikName": "Новохоперская"
+    "tikName": "Новохоперская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2408,
     "uikTvd": "4364024177677",
+    "uikName": "УИК №2408",
     "tikTvd": "23620001279742",
-    "tikName": "Новохоперская"
+    "tikName": "Новохоперская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2409,
     "uikTvd": "4364024177678",
+    "uikName": "УИК №2409",
     "tikTvd": "23620001279742",
-    "tikName": "Новохоперская"
+    "tikName": "Новохоперская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2410,
     "uikTvd": "4364024177679",
+    "uikName": "УИК №2410",
     "tikTvd": "23620001279742",
-    "tikName": "Новохоперская"
+    "tikName": "Новохоперская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2411,
     "uikTvd": "4364024177680",
+    "uikName": "УИК №2411",
     "tikTvd": "23620001279742",
-    "tikName": "Новохоперская"
+    "tikName": "Новохоперская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2412,
     "uikTvd": "4364024177681",
+    "uikName": "УИК №2412",
     "tikTvd": "23620001279742",
-    "tikName": "Новохоперская"
+    "tikName": "Новохоперская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2413,
     "uikTvd": "4364024177682",
+    "uikName": "УИК №2413",
     "tikTvd": "23620001279742",
-    "tikName": "Новохоперская"
+    "tikName": "Новохоперская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2414,
     "uikTvd": "4364024177683",
+    "uikName": "УИК №2414",
     "tikTvd": "23620001279742",
-    "tikName": "Новохоперская"
+    "tikName": "Новохоперская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2415,
     "uikTvd": "4364024177684",
+    "uikName": "УИК №2415",
     "tikTvd": "23620001279742",
-    "tikName": "Новохоперская"
+    "tikName": "Новохоперская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2416,
     "uikTvd": "4364024177685",
+    "uikName": "УИК №2416",
     "tikTvd": "23620001279742",
-    "tikName": "Новохоперская"
+    "tikName": "Новохоперская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2417,
     "uikTvd": "4364024177686",
+    "uikName": "УИК №2417",
     "tikTvd": "23620001279742",
-    "tikName": "Новохоперская"
+    "tikName": "Новохоперская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2418,
     "uikTvd": "4364024177687",
+    "uikName": "УИК №2418",
     "tikTvd": "23620001279742",
-    "tikName": "Новохоперская"
+    "tikName": "Новохоперская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2419,
     "uikTvd": "4364024177688",
+    "uikName": "УИК №2419",
     "tikTvd": "23620001279742",
-    "tikName": "Новохоперская"
+    "tikName": "Новохоперская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2420,
     "uikTvd": "4364024177689",
+    "uikName": "УИК №2420",
     "tikTvd": "23620001279742",
-    "tikName": "Новохоперская"
+    "tikName": "Новохоперская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2421,
     "uikTvd": "4364024177690",
+    "uikName": "УИК №2421",
     "tikTvd": "23620001279742",
-    "tikName": "Новохоперская"
+    "tikName": "Новохоперская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2422,
     "uikTvd": "4364024177691",
+    "uikName": "УИК №2422",
     "tikTvd": "23620001279742",
-    "tikName": "Новохоперская"
+    "tikName": "Новохоперская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2423,
     "uikTvd": "4364024177692",
+    "uikName": "УИК №2423",
     "tikTvd": "23620001279742",
-    "tikName": "Новохоперская"
+    "tikName": "Новохоперская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2424,
     "uikTvd": "4364024177693",
+    "uikName": "УИК №2424",
     "tikTvd": "23620001279742",
-    "tikName": "Новохоперская"
+    "tikName": "Новохоперская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2425,
     "uikTvd": "4364024177694",
+    "uikName": "УИК №2425",
     "tikTvd": "23620001279742",
-    "tikName": "Новохоперская"
+    "tikName": "Новохоперская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2426,
     "uikTvd": "4364024177695",
+    "uikName": "УИК №2426",
     "tikTvd": "23620001279742",
-    "tikName": "Новохоперская"
+    "tikName": "Новохоперская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2427,
     "uikTvd": "4364024177696",
+    "uikName": "УИК №2427",
     "tikTvd": "23620001279742",
-    "tikName": "Новохоперская"
+    "tikName": "Новохоперская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2428,
     "uikTvd": "4364024177697",
+    "uikName": "УИК №2428",
     "tikTvd": "23620001279742",
-    "tikName": "Новохоперская"
+    "tikName": "Новохоперская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2429,
     "uikTvd": "4364024177698",
+    "uikName": "УИК №2429",
     "tikTvd": "23620001279742",
-    "tikName": "Новохоперская"
+    "tikName": "Новохоперская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2430,
     "uikTvd": "4364024177699",
+    "uikName": "УИК №2430",
     "tikTvd": "23620001279742",
-    "tikName": "Новохоперская"
+    "tikName": "Новохоперская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2431,
     "uikTvd": "4364024177700",
+    "uikName": "УИК №2431",
     "tikTvd": "23620001279742",
-    "tikName": "Новохоперская"
+    "tikName": "Новохоперская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2432,
     "uikTvd": "4364024177701",
+    "uikName": "УИК №2432",
     "tikTvd": "23620001279742",
-    "tikName": "Новохоперская"
+    "tikName": "Новохоперская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2433,
     "uikTvd": "4364024177702",
+    "uikName": "УИК №2433",
     "tikTvd": "23620001279742",
-    "tikName": "Новохоперская"
+    "tikName": "Новохоперская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2434,
     "uikTvd": "4364024177703",
+    "uikName": "УИК №2434",
     "tikTvd": "23620001279742",
-    "tikName": "Новохоперская"
+    "tikName": "Новохоперская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2435,
     "uikTvd": "4364024177704",
+    "uikName": "УИК №2435",
     "tikTvd": "23620001279742",
-    "tikName": "Новохоперская"
+    "tikName": "Новохоперская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2436,
     "uikTvd": "4364024177705",
+    "uikName": "УИК №2436",
     "tikTvd": "23620001279742",
-    "tikName": "Новохоперская"
+    "tikName": "Новохоперская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2437,
     "uikTvd": "4364024177706",
+    "uikName": "УИК №2437",
     "tikTvd": "23620001279742",
-    "tikName": "Новохоперская"
+    "tikName": "Новохоперская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2438,
     "uikTvd": "4364024177707",
+    "uikName": "УИК №2438",
     "tikTvd": "23620001279742",
-    "tikName": "Новохоперская"
+    "tikName": "Новохоперская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2439,
     "uikTvd": "4364024177708",
+    "uikName": "УИК №2439",
     "tikTvd": "23620001279742",
-    "tikName": "Новохоперская"
+    "tikName": "Новохоперская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2440,
     "uikTvd": "4364024177709",
+    "uikName": "УИК №2440",
     "tikTvd": "23620001279742",
-    "tikName": "Новохоперская"
+    "tikName": "Новохоперская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2501,
     "uikTvd": "4364025135901",
+    "uikName": "УИК №2501",
     "tikTvd": "23620001279740",
-    "tikName": "Ольховатская"
+    "tikName": "Ольховатская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2502,
     "uikTvd": "4364025135902",
+    "uikName": "УИК №2502",
     "tikTvd": "23620001279740",
-    "tikName": "Ольховатская"
+    "tikName": "Ольховатская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2503,
     "uikTvd": "4364025135903",
+    "uikName": "УИК №2503",
     "tikTvd": "23620001279740",
-    "tikName": "Ольховатская"
+    "tikName": "Ольховатская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2504,
     "uikTvd": "4364025135904",
+    "uikName": "УИК №2504",
     "tikTvd": "23620001279740",
-    "tikName": "Ольховатская"
+    "tikName": "Ольховатская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2505,
     "uikTvd": "4364025135905",
+    "uikName": "УИК №2505",
     "tikTvd": "23620001279740",
-    "tikName": "Ольховатская"
+    "tikName": "Ольховатская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2506,
     "uikTvd": "4364025135906",
+    "uikName": "УИК №2506",
     "tikTvd": "23620001279740",
-    "tikName": "Ольховатская"
+    "tikName": "Ольховатская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2507,
     "uikTvd": "4364025135907",
+    "uikName": "УИК №2507",
     "tikTvd": "23620001279740",
-    "tikName": "Ольховатская"
+    "tikName": "Ольховатская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2508,
     "uikTvd": "4364025135908",
+    "uikName": "УИК №2508",
     "tikTvd": "23620001279740",
-    "tikName": "Ольховатская"
+    "tikName": "Ольховатская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2509,
     "uikTvd": "4364025135909",
+    "uikName": "УИК №2509",
     "tikTvd": "23620001279740",
-    "tikName": "Ольховатская"
+    "tikName": "Ольховатская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2510,
     "uikTvd": "4364025135910",
+    "uikName": "УИК №2510",
     "tikTvd": "23620001279740",
-    "tikName": "Ольховатская"
+    "tikName": "Ольховатская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2511,
     "uikTvd": "4364025135911",
+    "uikName": "УИК №2511",
     "tikTvd": "23620001279740",
-    "tikName": "Ольховатская"
+    "tikName": "Ольховатская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2512,
     "uikTvd": "4364025135912",
+    "uikName": "УИК №2512",
     "tikTvd": "23620001279740",
-    "tikName": "Ольховатская"
+    "tikName": "Ольховатская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2513,
     "uikTvd": "4364025135913",
+    "uikName": "УИК №2513",
     "tikTvd": "23620001279740",
-    "tikName": "Ольховатская"
+    "tikName": "Ольховатская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2514,
     "uikTvd": "4364025135914",
+    "uikName": "УИК №2514",
     "tikTvd": "23620001279740",
-    "tikName": "Ольховатская"
+    "tikName": "Ольховатская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2515,
     "uikTvd": "4364025135915",
+    "uikName": "УИК №2515",
     "tikTvd": "23620001279740",
-    "tikName": "Ольховатская"
+    "tikName": "Ольховатская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2516,
     "uikTvd": "4364025135916",
+    "uikName": "УИК №2516",
     "tikTvd": "23620001279740",
-    "tikName": "Ольховатская"
+    "tikName": "Ольховатская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2517,
     "uikTvd": "4364025135917",
+    "uikName": "УИК №2517",
     "tikTvd": "23620001279740",
-    "tikName": "Ольховатская"
+    "tikName": "Ольховатская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2518,
     "uikTvd": "4364025135918",
+    "uikName": "УИК №2518",
     "tikTvd": "23620001279740",
-    "tikName": "Ольховатская"
+    "tikName": "Ольховатская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2519,
     "uikTvd": "4364025135919",
+    "uikName": "УИК №2519",
     "tikTvd": "23620001279740",
-    "tikName": "Ольховатская"
+    "tikName": "Ольховатская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2520,
     "uikTvd": "4364025135920",
+    "uikName": "УИК №2520",
     "tikTvd": "23620001279740",
-    "tikName": "Ольховатская"
+    "tikName": "Ольховатская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2521,
     "uikTvd": "4364025135921",
+    "uikName": "УИК №2521",
     "tikTvd": "23620001279740",
-    "tikName": "Ольховатская"
+    "tikName": "Ольховатская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2522,
     "uikTvd": "4364025135922",
+    "uikName": "УИК №2522",
     "tikTvd": "23620001279740",
-    "tikName": "Ольховатская"
+    "tikName": "Ольховатская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2523,
     "uikTvd": "4364025135923",
+    "uikName": "УИК №2523",
     "tikTvd": "23620001279740",
-    "tikName": "Ольховатская"
+    "tikName": "Ольховатская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2524,
     "uikTvd": "4364025135924",
+    "uikName": "УИК №2524",
     "tikTvd": "23620001279740",
-    "tikName": "Ольховатская"
+    "tikName": "Ольховатская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2525,
     "uikTvd": "4364025135925",
+    "uikName": "УИК №2525",
     "tikTvd": "23620001279740",
-    "tikName": "Ольховатская"
+    "tikName": "Ольховатская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2526,
     "uikTvd": "4364025135926",
+    "uikName": "УИК №2526",
     "tikTvd": "23620001279740",
-    "tikName": "Ольховатская"
+    "tikName": "Ольховатская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2527,
     "uikTvd": "4364025135927",
+    "uikName": "УИК №2527",
     "tikTvd": "23620001279740",
-    "tikName": "Ольховатская"
+    "tikName": "Ольховатская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2528,
     "uikTvd": "4364025135928",
+    "uikName": "УИК №2528",
     "tikTvd": "23620001279740",
-    "tikName": "Ольховатская"
+    "tikName": "Ольховатская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2601,
     "uikTvd": "4364026212003",
+    "uikName": "УИК №2601",
     "tikTvd": "23620001279729",
-    "tikName": "Острогожская"
+    "tikName": "Острогожская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2602,
     "uikTvd": "4364026212004",
+    "uikName": "УИК №2602",
     "tikTvd": "23620001279729",
-    "tikName": "Острогожская"
+    "tikName": "Острогожская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2603,
     "uikTvd": "4364026212005",
+    "uikName": "УИК №2603",
     "tikTvd": "23620001279729",
-    "tikName": "Острогожская"
+    "tikName": "Острогожская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2604,
     "uikTvd": "4364026212006",
+    "uikName": "УИК №2604",
     "tikTvd": "23620001279729",
-    "tikName": "Острогожская"
+    "tikName": "Острогожская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2605,
     "uikTvd": "4364026212007",
+    "uikName": "УИК №2605",
     "tikTvd": "23620001279729",
-    "tikName": "Острогожская"
+    "tikName": "Острогожская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2606,
     "uikTvd": "4364026212008",
+    "uikName": "УИК №2606",
     "tikTvd": "23620001279729",
-    "tikName": "Острогожская"
+    "tikName": "Острогожская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2607,
     "uikTvd": "4364026212009",
+    "uikName": "УИК №2607",
     "tikTvd": "23620001279729",
-    "tikName": "Острогожская"
+    "tikName": "Острогожская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2608,
     "uikTvd": "4364026212010",
+    "uikName": "УИК №2608",
     "tikTvd": "23620001279729",
-    "tikName": "Острогожская"
+    "tikName": "Острогожская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2609,
     "uikTvd": "4364026212011",
+    "uikName": "УИК №2609",
     "tikTvd": "23620001279729",
-    "tikName": "Острогожская"
+    "tikName": "Острогожская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2610,
     "uikTvd": "4364026212012",
+    "uikName": "УИК №2610",
     "tikTvd": "23620001279729",
-    "tikName": "Острогожская"
+    "tikName": "Острогожская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2611,
     "uikTvd": "4364026212013",
+    "uikName": "УИК №2611",
     "tikTvd": "23620001279729",
-    "tikName": "Острогожская"
+    "tikName": "Острогожская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2612,
     "uikTvd": "4364026212014",
+    "uikName": "УИК №2612",
     "tikTvd": "23620001279729",
-    "tikName": "Острогожская"
+    "tikName": "Острогожская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2613,
     "uikTvd": "4364026212015",
+    "uikName": "УИК №2613",
     "tikTvd": "23620001279729",
-    "tikName": "Острогожская"
+    "tikName": "Острогожская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2614,
     "uikTvd": "4364026212016",
+    "uikName": "УИК №2614",
     "tikTvd": "23620001279729",
-    "tikName": "Острогожская"
+    "tikName": "Острогожская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2615,
     "uikTvd": "4364026212017",
+    "uikName": "УИК №2615",
     "tikTvd": "23620001279729",
-    "tikName": "Острогожская"
+    "tikName": "Острогожская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2616,
     "uikTvd": "4364026212018",
+    "uikName": "УИК №2616",
     "tikTvd": "23620001279729",
-    "tikName": "Острогожская"
+    "tikName": "Острогожская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2617,
     "uikTvd": "4364026212019",
+    "uikName": "УИК №2617",
     "tikTvd": "23620001279729",
-    "tikName": "Острогожская"
+    "tikName": "Острогожская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2618,
     "uikTvd": "4364026212020",
+    "uikName": "УИК №2618",
     "tikTvd": "23620001279729",
-    "tikName": "Острогожская"
+    "tikName": "Острогожская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2619,
     "uikTvd": "4364026212021",
+    "uikName": "УИК №2619",
     "tikTvd": "23620001279729",
-    "tikName": "Острогожская"
+    "tikName": "Острогожская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2620,
     "uikTvd": "4364026212022",
+    "uikName": "УИК №2620",
     "tikTvd": "23620001279729",
-    "tikName": "Острогожская"
+    "tikName": "Острогожская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2621,
     "uikTvd": "4364026212023",
+    "uikName": "УИК №2621",
     "tikTvd": "23620001279729",
-    "tikName": "Острогожская"
+    "tikName": "Острогожская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2622,
     "uikTvd": "4364026212024",
+    "uikName": "УИК №2622",
     "tikTvd": "23620001279729",
-    "tikName": "Острогожская"
+    "tikName": "Острогожская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2623,
     "uikTvd": "4364026212025",
+    "uikName": "УИК №2623",
     "tikTvd": "23620001279729",
-    "tikName": "Острогожская"
+    "tikName": "Острогожская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2624,
     "uikTvd": "4364026212026",
+    "uikName": "УИК №2624",
     "tikTvd": "23620001279729",
-    "tikName": "Острогожская"
+    "tikName": "Острогожская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2625,
     "uikTvd": "4364026212027",
+    "uikName": "УИК №2625",
     "tikTvd": "23620001279729",
-    "tikName": "Острогожская"
+    "tikName": "Острогожская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2626,
     "uikTvd": "4364026212028",
+    "uikName": "УИК №2626",
     "tikTvd": "23620001279729",
-    "tikName": "Острогожская"
+    "tikName": "Острогожская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2627,
     "uikTvd": "4364026212029",
+    "uikName": "УИК №2627",
     "tikTvd": "23620001279729",
-    "tikName": "Острогожская"
+    "tikName": "Острогожская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2628,
     "uikTvd": "4364026212030",
+    "uikName": "УИК №2628",
     "tikTvd": "23620001279729",
-    "tikName": "Острогожская"
+    "tikName": "Острогожская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2629,
     "uikTvd": "4364026212031",
+    "uikName": "УИК №2629",
     "tikTvd": "23620001279729",
-    "tikName": "Острогожская"
+    "tikName": "Острогожская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2630,
     "uikTvd": "4364026212001",
+    "uikName": "УИК №2630",
     "tikTvd": "23620001279729",
-    "tikName": "Острогожская"
+    "tikName": "Острогожская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2631,
     "uikTvd": "4364026212033",
+    "uikName": "УИК №2631",
     "tikTvd": "23620001279729",
-    "tikName": "Острогожская"
+    "tikName": "Острогожская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2632,
     "uikTvd": "4364026212034",
+    "uikName": "УИК №2632",
     "tikTvd": "23620001279729",
-    "tikName": "Острогожская"
+    "tikName": "Острогожская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2633,
     "uikTvd": "4364026212035",
+    "uikName": "УИК №2633",
     "tikTvd": "23620001279729",
-    "tikName": "Острогожская"
+    "tikName": "Острогожская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2634,
     "uikTvd": "4364026212036",
+    "uikName": "УИК №2634",
     "tikTvd": "23620001279729",
-    "tikName": "Острогожская"
+    "tikName": "Острогожская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2635,
     "uikTvd": "4364026212037",
+    "uikName": "УИК №2635",
     "tikTvd": "23620001279729",
-    "tikName": "Острогожская"
+    "tikName": "Острогожская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2636,
     "uikTvd": "4364026212038",
+    "uikName": "УИК №2636",
     "tikTvd": "23620001279729",
-    "tikName": "Острогожская"
+    "tikName": "Острогожская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2637,
     "uikTvd": "4364026212039",
+    "uikName": "УИК №2637",
     "tikTvd": "23620001279729",
-    "tikName": "Острогожская"
+    "tikName": "Острогожская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2638,
     "uikTvd": "4364026212040",
+    "uikName": "УИК №2638",
     "tikTvd": "23620001279729",
-    "tikName": "Острогожская"
+    "tikName": "Острогожская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2639,
     "uikTvd": "4364026212041",
+    "uikName": "УИК №2639",
     "tikTvd": "23620001279729",
-    "tikName": "Острогожская"
+    "tikName": "Острогожская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2640,
     "uikTvd": "4364026212042",
+    "uikName": "УИК №2640",
     "tikTvd": "23620001279729",
-    "tikName": "Острогожская"
+    "tikName": "Острогожская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2641,
     "uikTvd": "4364026212043",
+    "uikName": "УИК №2641",
     "tikTvd": "23620001279729",
-    "tikName": "Острогожская"
+    "tikName": "Острогожская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2642,
     "uikTvd": "4364026212044",
+    "uikName": "УИК №2642",
     "tikTvd": "23620001279729",
-    "tikName": "Острогожская"
+    "tikName": "Острогожская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2643,
     "uikTvd": "4364026212045",
+    "uikName": "УИК №2643",
     "tikTvd": "23620001279729",
-    "tikName": "Острогожская"
+    "tikName": "Острогожская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2644,
     "uikTvd": "4364026212046",
+    "uikName": "УИК №2644",
     "tikTvd": "23620001279729",
-    "tikName": "Острогожская"
+    "tikName": "Острогожская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2645,
     "uikTvd": "4364026212047",
+    "uikName": "УИК №2645",
     "tikTvd": "23620001279729",
-    "tikName": "Острогожская"
+    "tikName": "Острогожская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2646,
     "uikTvd": "4364026212048",
+    "uikName": "УИК №2646",
     "tikTvd": "23620001279729",
-    "tikName": "Острогожская"
+    "tikName": "Острогожская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2647,
     "uikTvd": "4364026212049",
+    "uikName": "УИК №2647",
     "tikTvd": "23620001279729",
-    "tikName": "Острогожская"
+    "tikName": "Острогожская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2648,
     "uikTvd": "4364026212050",
+    "uikName": "УИК №2648",
     "tikTvd": "23620001279729",
-    "tikName": "Острогожская"
+    "tikName": "Острогожская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2649,
     "uikTvd": "4364026212051",
+    "uikName": "УИК №2649",
     "tikTvd": "23620001279729",
-    "tikName": "Острогожская"
+    "tikName": "Острогожская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2650,
     "uikTvd": "4364026212052",
+    "uikName": "УИК №2650",
     "tikTvd": "23620001279729",
-    "tikName": "Острогожская"
+    "tikName": "Острогожская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2651,
     "uikTvd": "4364026212053",
+    "uikName": "УИК №2651",
     "tikTvd": "23620001279729",
-    "tikName": "Острогожская"
+    "tikName": "Острогожская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2652,
     "uikTvd": "4364026212054",
+    "uikName": "УИК №2652",
     "tikTvd": "23620001279729",
-    "tikName": "Острогожская"
+    "tikName": "Острогожская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2653,
     "uikTvd": "4364026212056",
+    "uikName": "УИК №2653",
     "tikTvd": "23620001279729",
-    "tikName": "Острогожская"
+    "tikName": "Острогожская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2701,
     "uikTvd": "4364027209570",
+    "uikName": "УИК №2701",
     "tikTvd": "23620001279767",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2702,
     "uikTvd": "4364027209571",
+    "uikName": "УИК №2702",
     "tikTvd": "23620001279767",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2703,
     "uikTvd": "4364027209572",
+    "uikName": "УИК №2703",
     "tikTvd": "23620001279767",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2704,
     "uikTvd": "4364027209573",
+    "uikName": "УИК №2704",
     "tikTvd": "23620001279767",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2705,
     "uikTvd": "4364027209574",
+    "uikName": "УИК №2705",
     "tikTvd": "23620001279767",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2706,
     "uikTvd": "4364027209575",
+    "uikName": "УИК №2706",
     "tikTvd": "23620001279767",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2707,
     "uikTvd": "4364027209576",
+    "uikName": "УИК №2707",
     "tikTvd": "23620001279767",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2708,
     "uikTvd": "4364027209577",
+    "uikName": "УИК №2708",
     "tikTvd": "23620001279767",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2709,
     "uikTvd": "4364027209578",
+    "uikName": "УИК №2709",
     "tikTvd": "23620001279767",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2710,
     "uikTvd": "4364027209579",
+    "uikName": "УИК №2710",
     "tikTvd": "23620001279767",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2711,
     "uikTvd": "4364027209580",
+    "uikName": "УИК №2711",
     "tikTvd": "23620001279767",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2712,
     "uikTvd": "4364027209581",
+    "uikName": "УИК №2712",
     "tikTvd": "23620001279767",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2713,
     "uikTvd": "4364027209582",
+    "uikName": "УИК №2713",
     "tikTvd": "23620001279767",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2714,
     "uikTvd": "4364027209583",
+    "uikName": "УИК №2714",
     "tikTvd": "23620001279767",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2715,
     "uikTvd": "4364027209584",
+    "uikName": "УИК №2715",
     "tikTvd": "23620001279767",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2716,
     "uikTvd": "4364027209585",
+    "uikName": "УИК №2716",
     "tikTvd": "23620001279767",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2717,
     "uikTvd": "4364027209586",
+    "uikName": "УИК №2717",
     "tikTvd": "23620001279767",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2718,
     "uikTvd": "4364027209587",
+    "uikName": "УИК №2718",
     "tikTvd": "23620001279767",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2719,
     "uikTvd": "4364027209588",
+    "uikName": "УИК №2719",
     "tikTvd": "23620001279767",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2720,
     "uikTvd": "4364027209589",
+    "uikName": "УИК №2720",
     "tikTvd": "23620001279767",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2721,
     "uikTvd": "4364027209590",
+    "uikName": "УИК №2721",
     "tikTvd": "23620001279767",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2722,
     "uikTvd": "4364027209591",
+    "uikName": "УИК №2722",
     "tikTvd": "23620001279767",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2723,
     "uikTvd": "4364027209592",
+    "uikName": "УИК №2723",
     "tikTvd": "23620001279767",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2724,
     "uikTvd": "4364027209593",
+    "uikName": "УИК №2724",
     "tikTvd": "23620001279767",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2725,
     "uikTvd": "4364027209594",
+    "uikName": "УИК №2725",
     "tikTvd": "23620001279767",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2726,
     "uikTvd": "4364027209595",
+    "uikName": "УИК №2726",
     "tikTvd": "23620001279767",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2727,
     "uikTvd": "4364027209596",
+    "uikName": "УИК №2727",
     "tikTvd": "23620001279767",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2728,
     "uikTvd": "4364027209597",
+    "uikName": "УИК №2728",
     "tikTvd": "23620001279767",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2729,
     "uikTvd": "4364027209598",
+    "uikName": "УИК №2729",
     "tikTvd": "23620001279767",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2730,
     "uikTvd": "4364027209599",
+    "uikName": "УИК №2730",
     "tikTvd": "23620001279767",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2731,
     "uikTvd": "4364027209600",
+    "uikName": "УИК №2731",
     "tikTvd": "23620001279767",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2732,
     "uikTvd": "4364027209601",
+    "uikName": "УИК №2732",
     "tikTvd": "23620001279767",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2733,
     "uikTvd": "4364027209602",
+    "uikName": "УИК №2733",
     "tikTvd": "23620001279767",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2734,
     "uikTvd": "4364027209603",
+    "uikName": "УИК №2734",
     "tikTvd": "23620001279767",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2735,
     "uikTvd": "4364027209604",
+    "uikName": "УИК №2735",
     "tikTvd": "23620001279767",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2736,
     "uikTvd": "4364027209605",
+    "uikName": "УИК №2736",
     "tikTvd": "23620001279767",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2737,
     "uikTvd": "4364027209606",
+    "uikName": "УИК №2737",
     "tikTvd": "23620001279767",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2738,
     "uikTvd": "4364027209607",
+    "uikName": "УИК №2738",
     "tikTvd": "23620001279767",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2739,
     "uikTvd": "4364027209608",
+    "uikName": "УИК №2739",
     "tikTvd": "23620001279767",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2740,
     "uikTvd": "4364027209609",
+    "uikName": "УИК №2740",
     "tikTvd": "23620001279767",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2741,
     "uikTvd": "4364027209610",
+    "uikName": "УИК №2741",
     "tikTvd": "23620001279767",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2742,
     "uikTvd": "4364027209611",
+    "uikName": "УИК №2742",
     "tikTvd": "23620001279767",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2743,
     "uikTvd": "4364027209612",
+    "uikName": "УИК №2743",
     "tikTvd": "23620001279767",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2744,
     "uikTvd": "4364027209613",
+    "uikName": "УИК №2744",
     "tikTvd": "23620001279767",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2745,
     "uikTvd": "4364027209614",
+    "uikName": "УИК №2745",
     "tikTvd": "23620001279767",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2746,
     "uikTvd": "4364027209615",
+    "uikName": "УИК №2746",
     "tikTvd": "23620001279767",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2747,
     "uikTvd": "4364027209616",
+    "uikName": "УИК №2747",
     "tikTvd": "23620001279767",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2748,
     "uikTvd": "4364027209617",
+    "uikName": "УИК №2748",
     "tikTvd": "23620001279767",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2801,
     "uikTvd": "4364028148738",
+    "uikName": "УИК №2801",
     "tikTvd": "23620001279737",
-    "tikName": "Панинская"
+    "tikName": "Панинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2802,
     "uikTvd": "4364028148739",
+    "uikName": "УИК №2802",
     "tikTvd": "23620001279737",
-    "tikName": "Панинская"
+    "tikName": "Панинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2803,
     "uikTvd": "4364028148740",
+    "uikName": "УИК №2803",
     "tikTvd": "23620001279737",
-    "tikName": "Панинская"
+    "tikName": "Панинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2804,
     "uikTvd": "4364028148741",
+    "uikName": "УИК №2804",
     "tikTvd": "23620001279737",
-    "tikName": "Панинская"
+    "tikName": "Панинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2805,
     "uikTvd": "4364028148742",
+    "uikName": "УИК №2805",
     "tikTvd": "23620001279737",
-    "tikName": "Панинская"
+    "tikName": "Панинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2806,
     "uikTvd": "4364028148743",
+    "uikName": "УИК №2806",
     "tikTvd": "23620001279737",
-    "tikName": "Панинская"
+    "tikName": "Панинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2807,
     "uikTvd": "4364028148744",
+    "uikName": "УИК №2807",
     "tikTvd": "23620001279737",
-    "tikName": "Панинская"
+    "tikName": "Панинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2808,
     "uikTvd": "4364028148745",
+    "uikName": "УИК №2808",
     "tikTvd": "23620001279737",
-    "tikName": "Панинская"
+    "tikName": "Панинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2809,
     "uikTvd": "4364028148746",
+    "uikName": "УИК №2809",
     "tikTvd": "23620001279737",
-    "tikName": "Панинская"
+    "tikName": "Панинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2810,
     "uikTvd": "4364028148747",
+    "uikName": "УИК №2810",
     "tikTvd": "23620001279737",
-    "tikName": "Панинская"
+    "tikName": "Панинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2811,
     "uikTvd": "4364028148748",
+    "uikName": "УИК №2811",
     "tikTvd": "23620001279737",
-    "tikName": "Панинская"
+    "tikName": "Панинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2812,
     "uikTvd": "4364028148749",
+    "uikName": "УИК №2812",
     "tikTvd": "23620001279737",
-    "tikName": "Панинская"
+    "tikName": "Панинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2813,
     "uikTvd": "4364028148750",
+    "uikName": "УИК №2813",
     "tikTvd": "23620001279737",
-    "tikName": "Панинская"
+    "tikName": "Панинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2814,
     "uikTvd": "4364028148751",
+    "uikName": "УИК №2814",
     "tikTvd": "23620001279737",
-    "tikName": "Панинская"
+    "tikName": "Панинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2815,
     "uikTvd": "4364028148752",
+    "uikName": "УИК №2815",
     "tikTvd": "23620001279737",
-    "tikName": "Панинская"
+    "tikName": "Панинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2816,
     "uikTvd": "4364028148753",
+    "uikName": "УИК №2816",
     "tikTvd": "23620001279737",
-    "tikName": "Панинская"
+    "tikName": "Панинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2817,
     "uikTvd": "4364028148754",
+    "uikName": "УИК №2817",
     "tikTvd": "23620001279737",
-    "tikName": "Панинская"
+    "tikName": "Панинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2818,
     "uikTvd": "4364028148755",
+    "uikName": "УИК №2818",
     "tikTvd": "23620001279737",
-    "tikName": "Панинская"
+    "tikName": "Панинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2819,
     "uikTvd": "4364028148756",
+    "uikName": "УИК №2819",
     "tikTvd": "23620001279737",
-    "tikName": "Панинская"
+    "tikName": "Панинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2820,
     "uikTvd": "4364028148757",
+    "uikName": "УИК №2820",
     "tikTvd": "23620001279737",
-    "tikName": "Панинская"
+    "tikName": "Панинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2821,
     "uikTvd": "4364028148758",
+    "uikName": "УИК №2821",
     "tikTvd": "23620001279737",
-    "tikName": "Панинская"
+    "tikName": "Панинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2822,
     "uikTvd": "4364028148759",
+    "uikName": "УИК №2822",
     "tikTvd": "23620001279737",
-    "tikName": "Панинская"
+    "tikName": "Панинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2823,
     "uikTvd": "4364028148760",
+    "uikName": "УИК №2823",
     "tikTvd": "23620001279737",
-    "tikName": "Панинская"
+    "tikName": "Панинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2824,
     "uikTvd": "4364028148761",
+    "uikName": "УИК №2824",
     "tikTvd": "23620001279737",
-    "tikName": "Панинская"
+    "tikName": "Панинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2825,
     "uikTvd": "4364028148762",
+    "uikName": "УИК №2825",
     "tikTvd": "23620001279737",
-    "tikName": "Панинская"
+    "tikName": "Панинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2826,
     "uikTvd": "4364028148763",
+    "uikName": "УИК №2826",
     "tikTvd": "23620001279737",
-    "tikName": "Панинская"
+    "tikName": "Панинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2827,
     "uikTvd": "4364028148764",
+    "uikName": "УИК №2827",
     "tikTvd": "23620001279737",
-    "tikName": "Панинская"
+    "tikName": "Панинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2828,
     "uikTvd": "4364028148765",
+    "uikName": "УИК №2828",
     "tikTvd": "23620001279737",
-    "tikName": "Панинская"
+    "tikName": "Панинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2829,
     "uikTvd": "4364028148766",
+    "uikName": "УИК №2829",
     "tikTvd": "23620001279737",
-    "tikName": "Панинская"
+    "tikName": "Панинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2830,
     "uikTvd": "4364028148767",
+    "uikName": "УИК №2830",
     "tikTvd": "23620001279737",
-    "tikName": "Панинская"
+    "tikName": "Панинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2831,
     "uikTvd": "4364028148768",
+    "uikName": "УИК №2831",
     "tikTvd": "23620001279737",
-    "tikName": "Панинская"
+    "tikName": "Панинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2832,
     "uikTvd": "4364028148769",
+    "uikName": "УИК №2832",
     "tikTvd": "23620001279737",
-    "tikName": "Панинская"
+    "tikName": "Панинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2833,
     "uikTvd": "4364028148770",
+    "uikName": "УИК №2833",
     "tikTvd": "23620001279737",
-    "tikName": "Панинская"
+    "tikName": "Панинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2834,
     "uikTvd": "4364028148771",
+    "uikName": "УИК №2834",
     "tikTvd": "23620001279737",
-    "tikName": "Панинская"
+    "tikName": "Панинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2835,
     "uikTvd": "4364028148772",
+    "uikName": "УИК №2835",
     "tikTvd": "23620001279737",
-    "tikName": "Панинская"
+    "tikName": "Панинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2836,
     "uikTvd": "4364028148773",
+    "uikName": "УИК №2836",
     "tikTvd": "23620001279737",
-    "tikName": "Панинская"
+    "tikName": "Панинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2837,
     "uikTvd": "4364028148774",
+    "uikName": "УИК №2837",
     "tikTvd": "23620001279737",
-    "tikName": "Панинская"
+    "tikName": "Панинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2838,
     "uikTvd": "4364028148775",
+    "uikName": "УИК №2838",
     "tikTvd": "23620001279737",
-    "tikName": "Панинская"
+    "tikName": "Панинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2839,
     "uikTvd": "4364028148776",
+    "uikName": "УИК №2839",
     "tikTvd": "23620001279737",
-    "tikName": "Панинская"
+    "tikName": "Панинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2840,
     "uikTvd": "4364028148777",
+    "uikName": "УИК №2840",
     "tikTvd": "23620001279737",
-    "tikName": "Панинская"
+    "tikName": "Панинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2841,
     "uikTvd": "4364028148778",
+    "uikName": "УИК №2841",
     "tikTvd": "23620001279737",
-    "tikName": "Панинская"
+    "tikName": "Панинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2842,
     "uikTvd": "4364028148779",
+    "uikName": "УИК №2842",
     "tikTvd": "23620001279737",
-    "tikName": "Панинская"
+    "tikName": "Панинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2901,
     "uikTvd": "4364029156408",
+    "uikName": "УИК №2901",
     "tikTvd": "23620001279764",
-    "tikName": "Петропавловская"
+    "tikName": "Петропавловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2902,
     "uikTvd": "4364029156409",
+    "uikName": "УИК №2902",
     "tikTvd": "23620001279764",
-    "tikName": "Петропавловская"
+    "tikName": "Петропавловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2903,
     "uikTvd": "4364029156410",
+    "uikName": "УИК №2903",
     "tikTvd": "23620001279764",
-    "tikName": "Петропавловская"
+    "tikName": "Петропавловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2904,
     "uikTvd": "4364029156411",
+    "uikName": "УИК №2904",
     "tikTvd": "23620001279764",
-    "tikName": "Петропавловская"
+    "tikName": "Петропавловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2905,
     "uikTvd": "4364029156412",
+    "uikName": "УИК №2905",
     "tikTvd": "23620001279764",
-    "tikName": "Петропавловская"
+    "tikName": "Петропавловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2906,
     "uikTvd": "4364029156413",
+    "uikName": "УИК №2906",
     "tikTvd": "23620001279764",
-    "tikName": "Петропавловская"
+    "tikName": "Петропавловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2907,
     "uikTvd": "4364029156414",
+    "uikName": "УИК №2907",
     "tikTvd": "23620001279764",
-    "tikName": "Петропавловская"
+    "tikName": "Петропавловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2908,
     "uikTvd": "4364029156415",
+    "uikName": "УИК №2908",
     "tikTvd": "23620001279764",
-    "tikName": "Петропавловская"
+    "tikName": "Петропавловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2909,
     "uikTvd": "4364029156416",
+    "uikName": "УИК №2909",
     "tikTvd": "23620001279764",
-    "tikName": "Петропавловская"
+    "tikName": "Петропавловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2910,
     "uikTvd": "4364029156417",
+    "uikName": "УИК №2910",
     "tikTvd": "23620001279764",
-    "tikName": "Петропавловская"
+    "tikName": "Петропавловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2911,
     "uikTvd": "4364029156418",
+    "uikName": "УИК №2911",
     "tikTvd": "23620001279764",
-    "tikName": "Петропавловская"
+    "tikName": "Петропавловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2912,
     "uikTvd": "4364029156419",
+    "uikName": "УИК №2912",
     "tikTvd": "23620001279764",
-    "tikName": "Петропавловская"
+    "tikName": "Петропавловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2913,
     "uikTvd": "4364029156420",
+    "uikName": "УИК №2913",
     "tikTvd": "23620001279764",
-    "tikName": "Петропавловская"
+    "tikName": "Петропавловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2914,
     "uikTvd": "4364029156421",
+    "uikName": "УИК №2914",
     "tikTvd": "23620001279764",
-    "tikName": "Петропавловская"
+    "tikName": "Петропавловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2915,
     "uikTvd": "4364029156422",
+    "uikName": "УИК №2915",
     "tikTvd": "23620001279764",
-    "tikName": "Петропавловская"
+    "tikName": "Петропавловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2916,
     "uikTvd": "4364029156423",
+    "uikName": "УИК №2916",
     "tikTvd": "23620001279764",
-    "tikName": "Петропавловская"
+    "tikName": "Петропавловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2917,
     "uikTvd": "4364029156424",
+    "uikName": "УИК №2917",
     "tikTvd": "23620001279764",
-    "tikName": "Петропавловская"
+    "tikName": "Петропавловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2918,
     "uikTvd": "4364029156425",
+    "uikName": "УИК №2918",
     "tikTvd": "23620001279764",
-    "tikName": "Петропавловская"
+    "tikName": "Петропавловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2919,
     "uikTvd": "4364029156426",
+    "uikName": "УИК №2919",
     "tikTvd": "23620001279764",
-    "tikName": "Петропавловская"
+    "tikName": "Петропавловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2920,
     "uikTvd": "4364029156427",
+    "uikName": "УИК №2920",
     "tikTvd": "23620001279764",
-    "tikName": "Петропавловская"
+    "tikName": "Петропавловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 2921,
     "uikTvd": "4364029156428",
+    "uikName": "УИК №2921",
     "tikTvd": "23620001279764",
-    "tikName": "Петропавловская"
+    "tikName": "Петропавловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3001,
     "uikTvd": "4364030192445",
+    "uikName": "УИК №3001",
     "tikTvd": "23620001279735",
-    "tikName": "Поворинская"
+    "tikName": "Поворинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3002,
     "uikTvd": "4364030192446",
+    "uikName": "УИК №3002",
     "tikTvd": "23620001279735",
-    "tikName": "Поворинская"
+    "tikName": "Поворинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3003,
     "uikTvd": "4364030192447",
+    "uikName": "УИК №3003",
     "tikTvd": "23620001279735",
-    "tikName": "Поворинская"
+    "tikName": "Поворинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3004,
     "uikTvd": "4364030192448",
+    "uikName": "УИК №3004",
     "tikTvd": "23620001279735",
-    "tikName": "Поворинская"
+    "tikName": "Поворинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3005,
     "uikTvd": "4364030192449",
+    "uikName": "УИК №3005",
     "tikTvd": "23620001279735",
-    "tikName": "Поворинская"
+    "tikName": "Поворинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3006,
     "uikTvd": "4364030192450",
+    "uikName": "УИК №3006",
     "tikTvd": "23620001279735",
-    "tikName": "Поворинская"
+    "tikName": "Поворинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3007,
     "uikTvd": "4364030192451",
+    "uikName": "УИК №3007",
     "tikTvd": "23620001279735",
-    "tikName": "Поворинская"
+    "tikName": "Поворинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3008,
     "uikTvd": "4364030192452",
+    "uikName": "УИК №3008",
     "tikTvd": "23620001279735",
-    "tikName": "Поворинская"
+    "tikName": "Поворинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3009,
     "uikTvd": "4364030192453",
+    "uikName": "УИК №3009",
     "tikTvd": "23620001279735",
-    "tikName": "Поворинская"
+    "tikName": "Поворинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3010,
     "uikTvd": "4364030192454",
+    "uikName": "УИК №3010",
     "tikTvd": "23620001279735",
-    "tikName": "Поворинская"
+    "tikName": "Поворинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3011,
     "uikTvd": "4364030192455",
+    "uikName": "УИК №3011",
     "tikTvd": "23620001279735",
-    "tikName": "Поворинская"
+    "tikName": "Поворинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3012,
     "uikTvd": "4364030192456",
+    "uikName": "УИК №3012",
     "tikTvd": "23620001279735",
-    "tikName": "Поворинская"
+    "tikName": "Поворинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3013,
     "uikTvd": "4364030192457",
+    "uikName": "УИК №3013",
     "tikTvd": "23620001279735",
-    "tikName": "Поворинская"
+    "tikName": "Поворинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3014,
     "uikTvd": "4364030192458",
+    "uikName": "УИК №3014",
     "tikTvd": "23620001279735",
-    "tikName": "Поворинская"
+    "tikName": "Поворинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3015,
     "uikTvd": "4364030192459",
+    "uikName": "УИК №3015",
     "tikTvd": "23620001279735",
-    "tikName": "Поворинская"
+    "tikName": "Поворинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3016,
     "uikTvd": "4364030192460",
+    "uikName": "УИК №3016",
     "tikTvd": "23620001279735",
-    "tikName": "Поворинская"
+    "tikName": "Поворинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3017,
     "uikTvd": "4364030192461",
+    "uikName": "УИК №3017",
     "tikTvd": "23620001279735",
-    "tikName": "Поворинская"
+    "tikName": "Поворинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3018,
     "uikTvd": "4364030192462",
+    "uikName": "УИК №3018",
     "tikTvd": "23620001279735",
-    "tikName": "Поворинская"
+    "tikName": "Поворинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3019,
     "uikTvd": "4364030192463",
+    "uikName": "УИК №3019",
     "tikTvd": "23620001279735",
-    "tikName": "Поворинская"
+    "tikName": "Поворинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3020,
     "uikTvd": "4364030192464",
+    "uikName": "УИК №3020",
     "tikTvd": "23620001279735",
-    "tikName": "Поворинская"
+    "tikName": "Поворинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3021,
     "uikTvd": "4364030192465",
+    "uikName": "УИК №3021",
     "tikTvd": "23620001279735",
-    "tikName": "Поворинская"
+    "tikName": "Поворинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3022,
     "uikTvd": "4364030192466",
+    "uikName": "УИК №3022",
     "tikTvd": "23620001279735",
-    "tikName": "Поворинская"
+    "tikName": "Поворинская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3101,
     "uikTvd": "4364031156162",
+    "uikName": "УИК №3101",
     "tikTvd": "23620001279743",
-    "tikName": "Подгоренская"
+    "tikName": "Подгоренская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3102,
     "uikTvd": "4364031156163",
+    "uikName": "УИК №3102",
     "tikTvd": "23620001279743",
-    "tikName": "Подгоренская"
+    "tikName": "Подгоренская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3103,
     "uikTvd": "4364031156164",
+    "uikName": "УИК №3103",
     "tikTvd": "23620001279743",
-    "tikName": "Подгоренская"
+    "tikName": "Подгоренская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3104,
     "uikTvd": "4364031156165",
+    "uikName": "УИК №3104",
     "tikTvd": "23620001279743",
-    "tikName": "Подгоренская"
+    "tikName": "Подгоренская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3105,
     "uikTvd": "4364031156166",
+    "uikName": "УИК №3105",
     "tikTvd": "23620001279743",
-    "tikName": "Подгоренская"
+    "tikName": "Подгоренская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3106,
     "uikTvd": "4364031156167",
+    "uikName": "УИК №3106",
     "tikTvd": "23620001279743",
-    "tikName": "Подгоренская"
+    "tikName": "Подгоренская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3107,
     "uikTvd": "4364031156168",
+    "uikName": "УИК №3107",
     "tikTvd": "23620001279743",
-    "tikName": "Подгоренская"
+    "tikName": "Подгоренская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3108,
     "uikTvd": "4364031156169",
+    "uikName": "УИК №3108",
     "tikTvd": "23620001279743",
-    "tikName": "Подгоренская"
+    "tikName": "Подгоренская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3109,
     "uikTvd": "4364031156170",
+    "uikName": "УИК №3109",
     "tikTvd": "23620001279743",
-    "tikName": "Подгоренская"
+    "tikName": "Подгоренская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3110,
     "uikTvd": "4364031156171",
+    "uikName": "УИК №3110",
     "tikTvd": "23620001279743",
-    "tikName": "Подгоренская"
+    "tikName": "Подгоренская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3111,
     "uikTvd": "4364031156172",
+    "uikName": "УИК №3111",
     "tikTvd": "23620001279743",
-    "tikName": "Подгоренская"
+    "tikName": "Подгоренская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3112,
     "uikTvd": "4364031156173",
+    "uikName": "УИК №3112",
     "tikTvd": "23620001279743",
-    "tikName": "Подгоренская"
+    "tikName": "Подгоренская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3113,
     "uikTvd": "4364031156174",
+    "uikName": "УИК №3113",
     "tikTvd": "23620001279743",
-    "tikName": "Подгоренская"
+    "tikName": "Подгоренская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3114,
     "uikTvd": "4364031156175",
+    "uikName": "УИК №3114",
     "tikTvd": "23620001279743",
-    "tikName": "Подгоренская"
+    "tikName": "Подгоренская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3115,
     "uikTvd": "4364031156176",
+    "uikName": "УИК №3115",
     "tikTvd": "23620001279743",
-    "tikName": "Подгоренская"
+    "tikName": "Подгоренская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3116,
     "uikTvd": "4364031156177",
+    "uikName": "УИК №3116",
     "tikTvd": "23620001279743",
-    "tikName": "Подгоренская"
+    "tikName": "Подгоренская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3117,
     "uikTvd": "4364031156178",
+    "uikName": "УИК №3117",
     "tikTvd": "23620001279743",
-    "tikName": "Подгоренская"
+    "tikName": "Подгоренская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3118,
     "uikTvd": "4364031156179",
+    "uikName": "УИК №3118",
     "tikTvd": "23620001279743",
-    "tikName": "Подгоренская"
+    "tikName": "Подгоренская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3119,
     "uikTvd": "4364031156180",
+    "uikName": "УИК №3119",
     "tikTvd": "23620001279743",
-    "tikName": "Подгоренская"
+    "tikName": "Подгоренская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3120,
     "uikTvd": "4364031156181",
+    "uikName": "УИК №3120",
     "tikTvd": "23620001279743",
-    "tikName": "Подгоренская"
+    "tikName": "Подгоренская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3121,
     "uikTvd": "4364031156182",
+    "uikName": "УИК №3121",
     "tikTvd": "23620001279743",
-    "tikName": "Подгоренская"
+    "tikName": "Подгоренская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3122,
     "uikTvd": "4364031156183",
+    "uikName": "УИК №3122",
     "tikTvd": "23620001279743",
-    "tikName": "Подгоренская"
+    "tikName": "Подгоренская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3123,
     "uikTvd": "4364031156184",
+    "uikName": "УИК №3123",
     "tikTvd": "23620001279743",
-    "tikName": "Подгоренская"
+    "tikName": "Подгоренская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3124,
     "uikTvd": "4364031156185",
+    "uikName": "УИК №3124",
     "tikTvd": "23620001279743",
-    "tikName": "Подгоренская"
+    "tikName": "Подгоренская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3125,
     "uikTvd": "4364031156186",
+    "uikName": "УИК №3125",
     "tikTvd": "23620001279743",
-    "tikName": "Подгоренская"
+    "tikName": "Подгоренская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3126,
     "uikTvd": "4364031156187",
+    "uikName": "УИК №3126",
     "tikTvd": "23620001279743",
-    "tikName": "Подгоренская"
+    "tikName": "Подгоренская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3127,
     "uikTvd": "4364031156188",
+    "uikName": "УИК №3127",
     "tikTvd": "23620001279743",
-    "tikName": "Подгоренская"
+    "tikName": "Подгоренская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3128,
     "uikTvd": "4364031156189",
+    "uikName": "УИК №3128",
     "tikTvd": "23620001279743",
-    "tikName": "Подгоренская"
+    "tikName": "Подгоренская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3129,
     "uikTvd": "4364031156190",
+    "uikName": "УИК №3129",
     "tikTvd": "23620001279743",
-    "tikName": "Подгоренская"
+    "tikName": "Подгоренская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3130,
     "uikTvd": "4364031156191",
+    "uikName": "УИК №3130",
     "tikTvd": "23620001279743",
-    "tikName": "Подгоренская"
+    "tikName": "Подгоренская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3131,
     "uikTvd": "4364031156192",
+    "uikName": "УИК №3131",
     "tikTvd": "23620001279743",
-    "tikName": "Подгоренская"
+    "tikName": "Подгоренская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3132,
     "uikTvd": "4364031156193",
+    "uikName": "УИК №3132",
     "tikTvd": "23620001279743",
-    "tikName": "Подгоренская"
+    "tikName": "Подгоренская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3133,
     "uikTvd": "4364031156194",
+    "uikName": "УИК №3133",
     "tikTvd": "23620001279743",
-    "tikName": "Подгоренская"
+    "tikName": "Подгоренская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3134,
     "uikTvd": "4364031156195",
+    "uikName": "УИК №3134",
     "tikTvd": "23620001279743",
-    "tikName": "Подгоренская"
+    "tikName": "Подгоренская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3135,
     "uikTvd": "4364031156196",
+    "uikName": "УИК №3135",
     "tikTvd": "23620001279743",
-    "tikName": "Подгоренская"
+    "tikName": "Подгоренская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3201,
     "uikTvd": "4364032151891",
+    "uikName": "УИК №3201",
     "tikTvd": "23620001279750",
-    "tikName": "Рамонская"
+    "tikName": "Рамонская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3202,
     "uikTvd": "4364032151892",
+    "uikName": "УИК №3202",
     "tikTvd": "23620001279750",
-    "tikName": "Рамонская"
+    "tikName": "Рамонская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3203,
     "uikTvd": "4364032151893",
+    "uikName": "УИК №3203",
     "tikTvd": "23620001279750",
-    "tikName": "Рамонская"
+    "tikName": "Рамонская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3204,
     "uikTvd": "4364032151894",
+    "uikName": "УИК №3204",
     "tikTvd": "23620001279750",
-    "tikName": "Рамонская"
+    "tikName": "Рамонская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3205,
     "uikTvd": "4364032151895",
+    "uikName": "УИК №3205",
     "tikTvd": "23620001279750",
-    "tikName": "Рамонская"
+    "tikName": "Рамонская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3206,
     "uikTvd": "4364032151896",
+    "uikName": "УИК №3206",
     "tikTvd": "23620001279750",
-    "tikName": "Рамонская"
+    "tikName": "Рамонская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3207,
     "uikTvd": "4364032151897",
+    "uikName": "УИК №3207",
     "tikTvd": "23620001279750",
-    "tikName": "Рамонская"
+    "tikName": "Рамонская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3208,
     "uikTvd": "4364032151898",
+    "uikName": "УИК №3208",
     "tikTvd": "23620001279750",
-    "tikName": "Рамонская"
+    "tikName": "Рамонская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3209,
     "uikTvd": "4364032151899",
+    "uikName": "УИК №3209",
     "tikTvd": "23620001279750",
-    "tikName": "Рамонская"
+    "tikName": "Рамонская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3210,
     "uikTvd": "4364032151900",
+    "uikName": "УИК №3210",
     "tikTvd": "23620001279750",
-    "tikName": "Рамонская"
+    "tikName": "Рамонская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3211,
     "uikTvd": "4364032151901",
+    "uikName": "УИК №3211",
     "tikTvd": "23620001279750",
-    "tikName": "Рамонская"
+    "tikName": "Рамонская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3212,
     "uikTvd": "4364032151902",
+    "uikName": "УИК №3212",
     "tikTvd": "23620001279750",
-    "tikName": "Рамонская"
+    "tikName": "Рамонская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3213,
     "uikTvd": "4364032151903",
+    "uikName": "УИК №3213",
     "tikTvd": "23620001279750",
-    "tikName": "Рамонская"
+    "tikName": "Рамонская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3214,
     "uikTvd": "4364032151904",
+    "uikName": "УИК №3214",
     "tikTvd": "23620001279750",
-    "tikName": "Рамонская"
+    "tikName": "Рамонская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3215,
     "uikTvd": "4364032151905",
+    "uikName": "УИК №3215",
     "tikTvd": "23620001279750",
-    "tikName": "Рамонская"
+    "tikName": "Рамонская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3216,
     "uikTvd": "4364032151906",
+    "uikName": "УИК №3216",
     "tikTvd": "23620001279750",
-    "tikName": "Рамонская"
+    "tikName": "Рамонская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3217,
     "uikTvd": "4364032151907",
+    "uikName": "УИК №3217",
     "tikTvd": "23620001279750",
-    "tikName": "Рамонская"
+    "tikName": "Рамонская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3218,
     "uikTvd": "4364032151908",
+    "uikName": "УИК №3218",
     "tikTvd": "23620001279750",
-    "tikName": "Рамонская"
+    "tikName": "Рамонская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3219,
     "uikTvd": "4364032151909",
+    "uikName": "УИК №3219",
     "tikTvd": "23620001279750",
-    "tikName": "Рамонская"
+    "tikName": "Рамонская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3220,
     "uikTvd": "4364032151910",
+    "uikName": "УИК №3220",
     "tikTvd": "23620001279750",
-    "tikName": "Рамонская"
+    "tikName": "Рамонская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3221,
     "uikTvd": "4364032151911",
+    "uikName": "УИК №3221",
     "tikTvd": "23620001279750",
-    "tikName": "Рамонская"
+    "tikName": "Рамонская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3222,
     "uikTvd": "4364032151912",
+    "uikName": "УИК №3222",
     "tikTvd": "23620001279750",
-    "tikName": "Рамонская"
+    "tikName": "Рамонская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3223,
     "uikTvd": "4364032151913",
+    "uikName": "УИК №3223",
     "tikTvd": "23620001279750",
-    "tikName": "Рамонская"
+    "tikName": "Рамонская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3224,
     "uikTvd": "4364032151914",
+    "uikName": "УИК №3224",
     "tikTvd": "23620001279750",
-    "tikName": "Рамонская"
+    "tikName": "Рамонская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3225,
     "uikTvd": "4364032151915",
+    "uikName": "УИК №3225",
     "tikTvd": "23620001279750",
-    "tikName": "Рамонская"
+    "tikName": "Рамонская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3226,
     "uikTvd": "4364032151916",
+    "uikName": "УИК №3226",
     "tikTvd": "23620001279750",
-    "tikName": "Рамонская"
+    "tikName": "Рамонская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3227,
     "uikTvd": "4364032151917",
+    "uikName": "УИК №3227",
     "tikTvd": "23620001279750",
-    "tikName": "Рамонская"
+    "tikName": "Рамонская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3228,
     "uikTvd": "4364032151918",
+    "uikName": "УИК №3228",
     "tikTvd": "23620001279750",
-    "tikName": "Рамонская"
+    "tikName": "Рамонская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3229,
     "uikTvd": "4364032151919",
+    "uikName": "УИК №3229",
     "tikTvd": "23620001279750",
-    "tikName": "Рамонская"
+    "tikName": "Рамонская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3230,
     "uikTvd": "4364032151920",
+    "uikName": "УИК №3230",
     "tikTvd": "23620001279750",
-    "tikName": "Рамонская"
+    "tikName": "Рамонская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3231,
     "uikTvd": "4364032153667",
+    "uikName": "УИК №3231",
     "tikTvd": "23620001279750",
-    "tikName": "Рамонская"
+    "tikName": "Рамонская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3301,
     "uikTvd": "4364033135752",
+    "uikName": "УИК №3301",
     "tikTvd": "23620001279758",
-    "tikName": "Репьевская"
+    "tikName": "Репьевская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3302,
     "uikTvd": "4364033135753",
+    "uikName": "УИК №3302",
     "tikTvd": "23620001279758",
-    "tikName": "Репьевская"
+    "tikName": "Репьевская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3303,
     "uikTvd": "4364033135754",
+    "uikName": "УИК №3303",
     "tikTvd": "23620001279758",
-    "tikName": "Репьевская"
+    "tikName": "Репьевская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3304,
     "uikTvd": "4364033135755",
+    "uikName": "УИК №3304",
     "tikTvd": "23620001279758",
-    "tikName": "Репьевская"
+    "tikName": "Репьевская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3305,
     "uikTvd": "4364033135756",
+    "uikName": "УИК №3305",
     "tikTvd": "23620001279758",
-    "tikName": "Репьевская"
+    "tikName": "Репьевская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3306,
     "uikTvd": "4364033135757",
+    "uikName": "УИК №3306",
     "tikTvd": "23620001279758",
-    "tikName": "Репьевская"
+    "tikName": "Репьевская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3307,
     "uikTvd": "4364033135758",
+    "uikName": "УИК №3307",
     "tikTvd": "23620001279758",
-    "tikName": "Репьевская"
+    "tikName": "Репьевская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3308,
     "uikTvd": "4364033135759",
+    "uikName": "УИК №3308",
     "tikTvd": "23620001279758",
-    "tikName": "Репьевская"
+    "tikName": "Репьевская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3309,
     "uikTvd": "4364033135760",
+    "uikName": "УИК №3309",
     "tikTvd": "23620001279758",
-    "tikName": "Репьевская"
+    "tikName": "Репьевская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3310,
     "uikTvd": "4364033135761",
+    "uikName": "УИК №3310",
     "tikTvd": "23620001279758",
-    "tikName": "Репьевская"
+    "tikName": "Репьевская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3311,
     "uikTvd": "4364033135762",
+    "uikName": "УИК №3311",
     "tikTvd": "23620001279758",
-    "tikName": "Репьевская"
+    "tikName": "Репьевская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3312,
     "uikTvd": "4364033135763",
+    "uikName": "УИК №3312",
     "tikTvd": "23620001279758",
-    "tikName": "Репьевская"
+    "tikName": "Репьевская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3313,
     "uikTvd": "4364033135764",
+    "uikName": "УИК №3313",
     "tikTvd": "23620001279758",
-    "tikName": "Репьевская"
+    "tikName": "Репьевская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3314,
     "uikTvd": "4364033135765",
+    "uikName": "УИК №3314",
     "tikTvd": "23620001279758",
-    "tikName": "Репьевская"
+    "tikName": "Репьевская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3315,
     "uikTvd": "4364033135766",
+    "uikName": "УИК №3315",
     "tikTvd": "23620001279758",
-    "tikName": "Репьевская"
+    "tikName": "Репьевская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3401,
     "uikTvd": "4364034192083",
+    "uikName": "УИК №3401",
     "tikTvd": "23620001279765",
-    "tikName": "Россошанская"
+    "tikName": "Россошанская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3402,
     "uikTvd": "4364034192084",
+    "uikName": "УИК №3402",
     "tikTvd": "23620001279765",
-    "tikName": "Россошанская"
+    "tikName": "Россошанская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3403,
     "uikTvd": "4364034192085",
+    "uikName": "УИК №3403",
     "tikTvd": "23620001279765",
-    "tikName": "Россошанская"
+    "tikName": "Россошанская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3404,
     "uikTvd": "4364034192086",
+    "uikName": "УИК №3404",
     "tikTvd": "23620001279765",
-    "tikName": "Россошанская"
+    "tikName": "Россошанская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3405,
     "uikTvd": "4364034192087",
+    "uikName": "УИК №3405",
     "tikTvd": "23620001279765",
-    "tikName": "Россошанская"
+    "tikName": "Россошанская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3406,
     "uikTvd": "4364034192088",
+    "uikName": "УИК №3406",
     "tikTvd": "23620001279765",
-    "tikName": "Россошанская"
+    "tikName": "Россошанская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3407,
     "uikTvd": "4364034192089",
+    "uikName": "УИК №3407",
     "tikTvd": "23620001279765",
-    "tikName": "Россошанская"
+    "tikName": "Россошанская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3408,
     "uikTvd": "4364034192090",
+    "uikName": "УИК №3408",
     "tikTvd": "23620001279765",
-    "tikName": "Россошанская"
+    "tikName": "Россошанская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3409,
     "uikTvd": "4364034192091",
+    "uikName": "УИК №3409",
     "tikTvd": "23620001279765",
-    "tikName": "Россошанская"
+    "tikName": "Россошанская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3410,
     "uikTvd": "4364034192092",
+    "uikName": "УИК №3410",
     "tikTvd": "23620001279765",
-    "tikName": "Россошанская"
+    "tikName": "Россошанская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3411,
     "uikTvd": "4364034192093",
+    "uikName": "УИК №3411",
     "tikTvd": "23620001279765",
-    "tikName": "Россошанская"
+    "tikName": "Россошанская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3412,
     "uikTvd": "4364034192094",
+    "uikName": "УИК №3412",
     "tikTvd": "23620001279765",
-    "tikName": "Россошанская"
+    "tikName": "Россошанская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3413,
     "uikTvd": "4364034192095",
+    "uikName": "УИК №3413",
     "tikTvd": "23620001279765",
-    "tikName": "Россошанская"
+    "tikName": "Россошанская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3414,
     "uikTvd": "4364034192096",
+    "uikName": "УИК №3414",
     "tikTvd": "23620001279765",
-    "tikName": "Россошанская"
+    "tikName": "Россошанская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3415,
     "uikTvd": "4364034192097",
+    "uikName": "УИК №3415",
     "tikTvd": "23620001279765",
-    "tikName": "Россошанская"
+    "tikName": "Россошанская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3416,
     "uikTvd": "4364034192098",
+    "uikName": "УИК №3416",
     "tikTvd": "23620001279765",
-    "tikName": "Россошанская"
+    "tikName": "Россошанская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3417,
     "uikTvd": "4364034192099",
+    "uikName": "УИК №3417",
     "tikTvd": "23620001279765",
-    "tikName": "Россошанская"
+    "tikName": "Россошанская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3418,
     "uikTvd": "4364034192100",
+    "uikName": "УИК №3418",
     "tikTvd": "23620001279765",
-    "tikName": "Россошанская"
+    "tikName": "Россошанская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3419,
     "uikTvd": "4364034192101",
+    "uikName": "УИК №3419",
     "tikTvd": "23620001279765",
-    "tikName": "Россошанская"
+    "tikName": "Россошанская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3420,
     "uikTvd": "4364034192102",
+    "uikName": "УИК №3420",
     "tikTvd": "23620001279765",
-    "tikName": "Россошанская"
+    "tikName": "Россошанская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3421,
     "uikTvd": "4364034192103",
+    "uikName": "УИК №3421",
     "tikTvd": "23620001279765",
-    "tikName": "Россошанская"
+    "tikName": "Россошанская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3422,
     "uikTvd": "4364034192104",
+    "uikName": "УИК №3422",
     "tikTvd": "23620001279765",
-    "tikName": "Россошанская"
+    "tikName": "Россошанская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3423,
     "uikTvd": "4364034192105",
+    "uikName": "УИК №3423",
     "tikTvd": "23620001279765",
-    "tikName": "Россошанская"
+    "tikName": "Россошанская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3424,
     "uikTvd": "4364034192106",
+    "uikName": "УИК №3424",
     "tikTvd": "23620001279765",
-    "tikName": "Россошанская"
+    "tikName": "Россошанская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3425,
     "uikTvd": "4364034192107",
+    "uikName": "УИК №3425",
     "tikTvd": "23620001279765",
-    "tikName": "Россошанская"
+    "tikName": "Россошанская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3426,
     "uikTvd": "4364034192108",
+    "uikName": "УИК №3426",
     "tikTvd": "23620001279765",
-    "tikName": "Россошанская"
+    "tikName": "Россошанская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3427,
     "uikTvd": "4364034192109",
+    "uikName": "УИК №3427",
     "tikTvd": "23620001279765",
-    "tikName": "Россошанская"
+    "tikName": "Россошанская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3428,
     "uikTvd": "4364034192110",
+    "uikName": "УИК №3428",
     "tikTvd": "23620001279765",
-    "tikName": "Россошанская"
+    "tikName": "Россошанская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3429,
     "uikTvd": "4364034192111",
+    "uikName": "УИК №3429",
     "tikTvd": "23620001279765",
-    "tikName": "Россошанская"
+    "tikName": "Россошанская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3430,
     "uikTvd": "4364034192112",
+    "uikName": "УИК №3430",
     "tikTvd": "23620001279765",
-    "tikName": "Россошанская"
+    "tikName": "Россошанская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3431,
     "uikTvd": "4364034192113",
+    "uikName": "УИК №3431",
     "tikTvd": "23620001279765",
-    "tikName": "Россошанская"
+    "tikName": "Россошанская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3432,
     "uikTvd": "4364034192114",
+    "uikName": "УИК №3432",
     "tikTvd": "23620001279765",
-    "tikName": "Россошанская"
+    "tikName": "Россошанская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3433,
     "uikTvd": "4364034192115",
+    "uikName": "УИК №3433",
     "tikTvd": "23620001279765",
-    "tikName": "Россошанская"
+    "tikName": "Россошанская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3434,
     "uikTvd": "4364034192116",
+    "uikName": "УИК №3434",
     "tikTvd": "23620001279765",
-    "tikName": "Россошанская"
+    "tikName": "Россошанская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3435,
     "uikTvd": "4364034192117",
+    "uikName": "УИК №3435",
     "tikTvd": "23620001279765",
-    "tikName": "Россошанская"
+    "tikName": "Россошанская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3436,
     "uikTvd": "4364034192118",
+    "uikName": "УИК №3436",
     "tikTvd": "23620001279765",
-    "tikName": "Россошанская"
+    "tikName": "Россошанская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3437,
     "uikTvd": "4364034192119",
+    "uikName": "УИК №3437",
     "tikTvd": "23620001279765",
-    "tikName": "Россошанская"
+    "tikName": "Россошанская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3438,
     "uikTvd": "4364034192120",
+    "uikName": "УИК №3438",
     "tikTvd": "23620001279765",
-    "tikName": "Россошанская"
+    "tikName": "Россошанская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3439,
     "uikTvd": "4364034192121",
+    "uikName": "УИК №3439",
     "tikTvd": "23620001279765",
-    "tikName": "Россошанская"
+    "tikName": "Россошанская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3440,
     "uikTvd": "4364034192122",
+    "uikName": "УИК №3440",
     "tikTvd": "23620001279765",
-    "tikName": "Россошанская"
+    "tikName": "Россошанская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3441,
     "uikTvd": "4364034192123",
+    "uikName": "УИК №3441",
     "tikTvd": "23620001279765",
-    "tikName": "Россошанская"
+    "tikName": "Россошанская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3442,
     "uikTvd": "4364034192124",
+    "uikName": "УИК №3442",
     "tikTvd": "23620001279765",
-    "tikName": "Россошанская"
+    "tikName": "Россошанская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3443,
     "uikTvd": "4364034192125",
+    "uikName": "УИК №3443",
     "tikTvd": "23620001279765",
-    "tikName": "Россошанская"
+    "tikName": "Россошанская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3444,
     "uikTvd": "4364034192126",
+    "uikName": "УИК №3444",
     "tikTvd": "23620001279765",
-    "tikName": "Россошанская"
+    "tikName": "Россошанская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3445,
     "uikTvd": "4364034192127",
+    "uikName": "УИК №3445",
     "tikTvd": "23620001279765",
-    "tikName": "Россошанская"
+    "tikName": "Россошанская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3446,
     "uikTvd": "4364034192128",
+    "uikName": "УИК №3446",
     "tikTvd": "23620001279765",
-    "tikName": "Россошанская"
+    "tikName": "Россошанская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3447,
     "uikTvd": "4364034192129",
+    "uikName": "УИК №3447",
     "tikTvd": "23620001279765",
-    "tikName": "Россошанская"
+    "tikName": "Россошанская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3448,
     "uikTvd": "4364034192130",
+    "uikName": "УИК №3448",
     "tikTvd": "23620001279765",
-    "tikName": "Россошанская"
+    "tikName": "Россошанская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3449,
     "uikTvd": "4364034192131",
+    "uikName": "УИК №3449",
     "tikTvd": "23620001279765",
-    "tikName": "Россошанская"
+    "tikName": "Россошанская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3450,
     "uikTvd": "4364034192132",
+    "uikName": "УИК №3450",
     "tikTvd": "23620001279765",
-    "tikName": "Россошанская"
+    "tikName": "Россошанская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3451,
     "uikTvd": "4364034192133",
+    "uikName": "УИК №3451",
     "tikTvd": "23620001279765",
-    "tikName": "Россошанская"
+    "tikName": "Россошанская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3452,
     "uikTvd": "4364034192134",
+    "uikName": "УИК №3452",
     "tikTvd": "23620001279765",
-    "tikName": "Россошанская"
+    "tikName": "Россошанская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3453,
     "uikTvd": "4364034192135",
+    "uikName": "УИК №3453",
     "tikTvd": "23620001279765",
-    "tikName": "Россошанская"
+    "tikName": "Россошанская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3454,
     "uikTvd": "4364034192136",
+    "uikName": "УИК №3454",
     "tikTvd": "23620001279765",
-    "tikName": "Россошанская"
+    "tikName": "Россошанская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3455,
     "uikTvd": "4364034192137",
+    "uikName": "УИК №3455",
     "tikTvd": "23620001279765",
-    "tikName": "Россошанская"
+    "tikName": "Россошанская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3456,
     "uikTvd": "4364034192138",
+    "uikName": "УИК №3456",
     "tikTvd": "23620001279765",
-    "tikName": "Россошанская"
+    "tikName": "Россошанская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3457,
     "uikTvd": "4364034192139",
+    "uikName": "УИК №3457",
     "tikTvd": "23620001279765",
-    "tikName": "Россошанская"
+    "tikName": "Россошанская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3458,
     "uikTvd": "4364034192140",
+    "uikName": "УИК №3458",
     "tikTvd": "23620001279765",
-    "tikName": "Россошанская"
+    "tikName": "Россошанская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3459,
     "uikTvd": "4364034192141",
+    "uikName": "УИК №3459",
     "tikTvd": "23620001279765",
-    "tikName": "Россошанская"
+    "tikName": "Россошанская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3460,
     "uikTvd": "4364034192142",
+    "uikName": "УИК №3460",
     "tikTvd": "23620001279765",
-    "tikName": "Россошанская"
+    "tikName": "Россошанская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3461,
     "uikTvd": "4364034192143",
+    "uikName": "УИК №3461",
     "tikTvd": "23620001279765",
-    "tikName": "Россошанская"
+    "tikName": "Россошанская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3462,
     "uikTvd": "4364034192144",
+    "uikName": "УИК №3462",
     "tikTvd": "23620001279765",
-    "tikName": "Россошанская"
+    "tikName": "Россошанская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3463,
     "uikTvd": "4364034192145",
+    "uikName": "УИК №3463",
     "tikTvd": "23620001279765",
-    "tikName": "Россошанская"
+    "tikName": "Россошанская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3464,
     "uikTvd": "4364034192146",
+    "uikName": "УИК №3464",
     "tikTvd": "23620001279765",
-    "tikName": "Россошанская"
+    "tikName": "Россошанская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3465,
     "uikTvd": "4364034192147",
+    "uikName": "УИК №3465",
     "tikTvd": "23620001279765",
-    "tikName": "Россошанская"
+    "tikName": "Россошанская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3466,
     "uikTvd": "4364034192148",
+    "uikName": "УИК №3466",
     "tikTvd": "23620001279765",
-    "tikName": "Россошанская"
+    "tikName": "Россошанская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3467,
     "uikTvd": "4364034192149",
+    "uikName": "УИК №3467",
     "tikTvd": "23620001279765",
-    "tikName": "Россошанская"
+    "tikName": "Россошанская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3468,
     "uikTvd": "4364034192150",
+    "uikName": "УИК №3468",
     "tikTvd": "23620001279765",
-    "tikName": "Россошанская"
+    "tikName": "Россошанская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3469,
     "uikTvd": "4364034192151",
+    "uikName": "УИК №3469",
     "tikTvd": "23620001279765",
-    "tikName": "Россошанская"
+    "tikName": "Россошанская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3470,
     "uikTvd": "4364034192152",
+    "uikName": "УИК №3470",
     "tikTvd": "23620001279765",
-    "tikName": "Россошанская"
+    "tikName": "Россошанская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3501,
     "uikTvd": "4364035212211",
+    "uikName": "УИК №3501",
     "tikTvd": "23620001279766",
-    "tikName": "Cемилукская"
+    "tikName": "Cемилукская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3502,
     "uikTvd": "4364035212212",
+    "uikName": "УИК №3502",
     "tikTvd": "23620001279766",
-    "tikName": "Cемилукская"
+    "tikName": "Cемилукская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3503,
     "uikTvd": "4364035212213",
+    "uikName": "УИК №3503",
     "tikTvd": "23620001279766",
-    "tikName": "Cемилукская"
+    "tikName": "Cемилукская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3504,
     "uikTvd": "4364035212214",
+    "uikName": "УИК №3504",
     "tikTvd": "23620001279766",
-    "tikName": "Cемилукская"
+    "tikName": "Cемилукская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3505,
     "uikTvd": "4364035212215",
+    "uikName": "УИК №3505",
     "tikTvd": "23620001279766",
-    "tikName": "Cемилукская"
+    "tikName": "Cемилукская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3506,
     "uikTvd": "4364035212216",
+    "uikName": "УИК №3506",
     "tikTvd": "23620001279766",
-    "tikName": "Cемилукская"
+    "tikName": "Cемилукская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3507,
     "uikTvd": "4364035212217",
+    "uikName": "УИК №3507",
     "tikTvd": "23620001279766",
-    "tikName": "Cемилукская"
+    "tikName": "Cемилукская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3508,
     "uikTvd": "4364035212218",
+    "uikName": "УИК №3508",
     "tikTvd": "23620001279766",
-    "tikName": "Cемилукская"
+    "tikName": "Cемилукская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3509,
     "uikTvd": "4364035212219",
+    "uikName": "УИК №3509",
     "tikTvd": "23620001279766",
-    "tikName": "Cемилукская"
+    "tikName": "Cемилукская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3510,
     "uikTvd": "4364035212220",
+    "uikName": "УИК №3510",
     "tikTvd": "23620001279766",
-    "tikName": "Cемилукская"
+    "tikName": "Cемилукская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3511,
     "uikTvd": "4364035212221",
+    "uikName": "УИК №3511",
     "tikTvd": "23620001279766",
-    "tikName": "Cемилукская"
+    "tikName": "Cемилукская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3512,
     "uikTvd": "4364035212222",
+    "uikName": "УИК №3512",
     "tikTvd": "23620001279766",
-    "tikName": "Cемилукская"
+    "tikName": "Cемилукская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3513,
     "uikTvd": "4364035212223",
+    "uikName": "УИК №3513",
     "tikTvd": "23620001279766",
-    "tikName": "Cемилукская"
+    "tikName": "Cемилукская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3514,
     "uikTvd": "4364035212224",
+    "uikName": "УИК №3514",
     "tikTvd": "23620001279766",
-    "tikName": "Cемилукская"
+    "tikName": "Cемилукская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3515,
     "uikTvd": "4364035212225",
+    "uikName": "УИК №3515",
     "tikTvd": "23620001279766",
-    "tikName": "Cемилукская"
+    "tikName": "Cемилукская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3516,
     "uikTvd": "4364035212226",
+    "uikName": "УИК №3516",
     "tikTvd": "23620001279766",
-    "tikName": "Cемилукская"
+    "tikName": "Cемилукская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3517,
     "uikTvd": "4364035212227",
+    "uikName": "УИК №3517",
     "tikTvd": "23620001279766",
-    "tikName": "Cемилукская"
+    "tikName": "Cемилукская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3518,
     "uikTvd": "4364035212228",
+    "uikName": "УИК №3518",
     "tikTvd": "23620001279766",
-    "tikName": "Cемилукская"
+    "tikName": "Cемилукская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3519,
     "uikTvd": "4364035212229",
+    "uikName": "УИК №3519",
     "tikTvd": "23620001279766",
-    "tikName": "Cемилукская"
+    "tikName": "Cемилукская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3520,
     "uikTvd": "4364035212230",
+    "uikName": "УИК №3520",
     "tikTvd": "23620001279766",
-    "tikName": "Cемилукская"
+    "tikName": "Cемилукская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3521,
     "uikTvd": "4364035212231",
+    "uikName": "УИК №3521",
     "tikTvd": "23620001279766",
-    "tikName": "Cемилукская"
+    "tikName": "Cемилукская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3522,
     "uikTvd": "4364035212232",
+    "uikName": "УИК №3522",
     "tikTvd": "23620001279766",
-    "tikName": "Cемилукская"
+    "tikName": "Cемилукская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3523,
     "uikTvd": "4364035212233",
+    "uikName": "УИК №3523",
     "tikTvd": "23620001279766",
-    "tikName": "Cемилукская"
+    "tikName": "Cемилукская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3524,
     "uikTvd": "4364035212234",
+    "uikName": "УИК №3524",
     "tikTvd": "23620001279766",
-    "tikName": "Cемилукская"
+    "tikName": "Cемилукская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3525,
     "uikTvd": "4364035212235",
+    "uikName": "УИК №3525",
     "tikTvd": "23620001279766",
-    "tikName": "Cемилукская"
+    "tikName": "Cемилукская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3526,
     "uikTvd": "4364035212236",
+    "uikName": "УИК №3526",
     "tikTvd": "23620001279766",
-    "tikName": "Cемилукская"
+    "tikName": "Cемилукская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3527,
     "uikTvd": "4364035212237",
+    "uikName": "УИК №3527",
     "tikTvd": "23620001279766",
-    "tikName": "Cемилукская"
+    "tikName": "Cемилукская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3528,
     "uikTvd": "4364035212238",
+    "uikName": "УИК №3528",
     "tikTvd": "23620001279766",
-    "tikName": "Cемилукская"
+    "tikName": "Cемилукская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3529,
     "uikTvd": "4364035212239",
+    "uikName": "УИК №3529",
     "tikTvd": "23620001279766",
-    "tikName": "Cемилукская"
+    "tikName": "Cемилукская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3530,
     "uikTvd": "4364035212240",
+    "uikName": "УИК №3530",
     "tikTvd": "23620001279766",
-    "tikName": "Cемилукская"
+    "tikName": "Cемилукская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3531,
     "uikTvd": "4364035212241",
+    "uikName": "УИК №3531",
     "tikTvd": "23620001279766",
-    "tikName": "Cемилукская"
+    "tikName": "Cемилукская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3532,
     "uikTvd": "4364035212242",
+    "uikName": "УИК №3532",
     "tikTvd": "23620001279766",
-    "tikName": "Cемилукская"
+    "tikName": "Cемилукская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3533,
     "uikTvd": "4364035212243",
+    "uikName": "УИК №3533",
     "tikTvd": "23620001279766",
-    "tikName": "Cемилукская"
+    "tikName": "Cемилукская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3534,
     "uikTvd": "4364035212244",
+    "uikName": "УИК №3534",
     "tikTvd": "23620001279766",
-    "tikName": "Cемилукская"
+    "tikName": "Cемилукская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3535,
     "uikTvd": "4364035212245",
+    "uikName": "УИК №3535",
     "tikTvd": "23620001279766",
-    "tikName": "Cемилукская"
+    "tikName": "Cемилукская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3536,
     "uikTvd": "4364035212246",
+    "uikName": "УИК №3536",
     "tikTvd": "23620001279766",
-    "tikName": "Cемилукская"
+    "tikName": "Cемилукская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3537,
     "uikTvd": "4364035212247",
+    "uikName": "УИК №3537",
     "tikTvd": "23620001279766",
-    "tikName": "Cемилукская"
+    "tikName": "Cемилукская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3538,
     "uikTvd": "4364035212248",
+    "uikName": "УИК №3538",
     "tikTvd": "23620001279766",
-    "tikName": "Cемилукская"
+    "tikName": "Cемилукская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3539,
     "uikTvd": "4364035212249",
+    "uikName": "УИК №3539",
     "tikTvd": "23620001279766",
-    "tikName": "Cемилукская"
+    "tikName": "Cемилукская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3540,
     "uikTvd": "4364035212250",
+    "uikName": "УИК №3540",
     "tikTvd": "23620001279766",
-    "tikName": "Cемилукская"
+    "tikName": "Cемилукская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3541,
     "uikTvd": "4364035212251",
+    "uikName": "УИК №3541",
     "tikTvd": "23620001279766",
-    "tikName": "Cемилукская"
+    "tikName": "Cемилукская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3542,
     "uikTvd": "4364035212252",
+    "uikName": "УИК №3542",
     "tikTvd": "23620001279766",
-    "tikName": "Cемилукская"
+    "tikName": "Cемилукская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3543,
     "uikTvd": "4364035212253",
+    "uikName": "УИК №3543",
     "tikTvd": "23620001279766",
-    "tikName": "Cемилукская"
+    "tikName": "Cемилукская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3544,
     "uikTvd": "4364035212254",
+    "uikName": "УИК №3544",
     "tikTvd": "23620001279766",
-    "tikName": "Cемилукская"
+    "tikName": "Cемилукская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3545,
     "uikTvd": "4364035212255",
+    "uikName": "УИК №3545",
     "tikTvd": "23620001279766",
-    "tikName": "Cемилукская"
+    "tikName": "Cемилукская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3546,
     "uikTvd": "4364035212256",
+    "uikName": "УИК №3546",
     "tikTvd": "23620001279766",
-    "tikName": "Cемилукская"
+    "tikName": "Cемилукская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3547,
     "uikTvd": "4364035212257",
+    "uikName": "УИК №3547",
     "tikTvd": "23620001279766",
-    "tikName": "Cемилукская"
+    "tikName": "Cемилукская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3548,
     "uikTvd": "4364035212258",
+    "uikName": "УИК №3548",
     "tikTvd": "23620001279766",
-    "tikName": "Cемилукская"
+    "tikName": "Cемилукская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3549,
     "uikTvd": "4364035212259",
+    "uikName": "УИК №3549",
     "tikTvd": "23620001279766",
-    "tikName": "Cемилукская"
+    "tikName": "Cемилукская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3550,
     "uikTvd": "4364035212260",
+    "uikName": "УИК №3550",
     "tikTvd": "23620001279766",
-    "tikName": "Cемилукская"
+    "tikName": "Cемилукская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3551,
     "uikTvd": "4364035212261",
+    "uikName": "УИК №3551",
     "tikTvd": "23620001279766",
-    "tikName": "Cемилукская"
+    "tikName": "Cемилукская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3552,
     "uikTvd": "4364035212262",
+    "uikName": "УИК №3552",
     "tikTvd": "23620001279766",
-    "tikName": "Cемилукская"
+    "tikName": "Cемилукская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3601,
     "uikTvd": "4364036182598",
+    "uikName": "УИК №3601",
     "tikTvd": "23620001279746",
-    "tikName": "Таловская"
+    "tikName": "Таловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3602,
     "uikTvd": "4364036182599",
+    "uikName": "УИК №3602",
     "tikTvd": "23620001279746",
-    "tikName": "Таловская"
+    "tikName": "Таловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3603,
     "uikTvd": "4364036182600",
+    "uikName": "УИК №3603",
     "tikTvd": "23620001279746",
-    "tikName": "Таловская"
+    "tikName": "Таловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3604,
     "uikTvd": "4364036182601",
+    "uikName": "УИК №3604",
     "tikTvd": "23620001279746",
-    "tikName": "Таловская"
+    "tikName": "Таловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3605,
     "uikTvd": "4364036182602",
+    "uikName": "УИК №3605",
     "tikTvd": "23620001279746",
-    "tikName": "Таловская"
+    "tikName": "Таловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3606,
     "uikTvd": "4364036182603",
+    "uikName": "УИК №3606",
     "tikTvd": "23620001279746",
-    "tikName": "Таловская"
+    "tikName": "Таловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3607,
     "uikTvd": "4364036182604",
+    "uikName": "УИК №3607",
     "tikTvd": "23620001279746",
-    "tikName": "Таловская"
+    "tikName": "Таловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3608,
     "uikTvd": "4364036182605",
+    "uikName": "УИК №3608",
     "tikTvd": "23620001279746",
-    "tikName": "Таловская"
+    "tikName": "Таловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3609,
     "uikTvd": "4364036182606",
+    "uikName": "УИК №3609",
     "tikTvd": "23620001279746",
-    "tikName": "Таловская"
+    "tikName": "Таловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3610,
     "uikTvd": "4364036182607",
+    "uikName": "УИК №3610",
     "tikTvd": "23620001279746",
-    "tikName": "Таловская"
+    "tikName": "Таловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3611,
     "uikTvd": "4364036182608",
+    "uikName": "УИК №3611",
     "tikTvd": "23620001279746",
-    "tikName": "Таловская"
+    "tikName": "Таловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3612,
     "uikTvd": "4364036182609",
+    "uikName": "УИК №3612",
     "tikTvd": "23620001279746",
-    "tikName": "Таловская"
+    "tikName": "Таловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3613,
     "uikTvd": "4364036182610",
+    "uikName": "УИК №3613",
     "tikTvd": "23620001279746",
-    "tikName": "Таловская"
+    "tikName": "Таловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3614,
     "uikTvd": "4364036182611",
+    "uikName": "УИК №3614",
     "tikTvd": "23620001279746",
-    "tikName": "Таловская"
+    "tikName": "Таловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3615,
     "uikTvd": "4364036182612",
+    "uikName": "УИК №3615",
     "tikTvd": "23620001279746",
-    "tikName": "Таловская"
+    "tikName": "Таловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3616,
     "uikTvd": "4364036182613",
+    "uikName": "УИК №3616",
     "tikTvd": "23620001279746",
-    "tikName": "Таловская"
+    "tikName": "Таловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3617,
     "uikTvd": "4364036182614",
+    "uikName": "УИК №3617",
     "tikTvd": "23620001279746",
-    "tikName": "Таловская"
+    "tikName": "Таловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3618,
     "uikTvd": "4364036182615",
+    "uikName": "УИК №3618",
     "tikTvd": "23620001279746",
-    "tikName": "Таловская"
+    "tikName": "Таловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3619,
     "uikTvd": "4364036182616",
+    "uikName": "УИК №3619",
     "tikTvd": "23620001279746",
-    "tikName": "Таловская"
+    "tikName": "Таловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3620,
     "uikTvd": "4364036182617",
+    "uikName": "УИК №3620",
     "tikTvd": "23620001279746",
-    "tikName": "Таловская"
+    "tikName": "Таловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3621,
     "uikTvd": "4364036182618",
+    "uikName": "УИК №3621",
     "tikTvd": "23620001279746",
-    "tikName": "Таловская"
+    "tikName": "Таловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3622,
     "uikTvd": "4364036182619",
+    "uikName": "УИК №3622",
     "tikTvd": "23620001279746",
-    "tikName": "Таловская"
+    "tikName": "Таловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3623,
     "uikTvd": "4364036182620",
+    "uikName": "УИК №3623",
     "tikTvd": "23620001279746",
-    "tikName": "Таловская"
+    "tikName": "Таловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3624,
     "uikTvd": "4364036182621",
+    "uikName": "УИК №3624",
     "tikTvd": "23620001279746",
-    "tikName": "Таловская"
+    "tikName": "Таловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3625,
     "uikTvd": "4364036182622",
+    "uikName": "УИК №3625",
     "tikTvd": "23620001279746",
-    "tikName": "Таловская"
+    "tikName": "Таловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3626,
     "uikTvd": "4364036182623",
+    "uikName": "УИК №3626",
     "tikTvd": "23620001279746",
-    "tikName": "Таловская"
+    "tikName": "Таловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3627,
     "uikTvd": "4364036182624",
+    "uikName": "УИК №3627",
     "tikTvd": "23620001279746",
-    "tikName": "Таловская"
+    "tikName": "Таловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3628,
     "uikTvd": "4364036182625",
+    "uikName": "УИК №3628",
     "tikTvd": "23620001279746",
-    "tikName": "Таловская"
+    "tikName": "Таловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3629,
     "uikTvd": "4364036182626",
+    "uikName": "УИК №3629",
     "tikTvd": "23620001279746",
-    "tikName": "Таловская"
+    "tikName": "Таловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3630,
     "uikTvd": "4364036182627",
+    "uikName": "УИК №3630",
     "tikTvd": "23620001279746",
-    "tikName": "Таловская"
+    "tikName": "Таловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3631,
     "uikTvd": "4364036182628",
+    "uikName": "УИК №3631",
     "tikTvd": "23620001279746",
-    "tikName": "Таловская"
+    "tikName": "Таловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3632,
     "uikTvd": "4364036182629",
+    "uikName": "УИК №3632",
     "tikTvd": "23620001279746",
-    "tikName": "Таловская"
+    "tikName": "Таловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3633,
     "uikTvd": "4364036182630",
+    "uikName": "УИК №3633",
     "tikTvd": "23620001279746",
-    "tikName": "Таловская"
+    "tikName": "Таловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3634,
     "uikTvd": "4364036182631",
+    "uikName": "УИК №3634",
     "tikTvd": "23620001279746",
-    "tikName": "Таловская"
+    "tikName": "Таловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3635,
     "uikTvd": "4364036182632",
+    "uikName": "УИК №3635",
     "tikTvd": "23620001279746",
-    "tikName": "Таловская"
+    "tikName": "Таловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3636,
     "uikTvd": "4364036182633",
+    "uikName": "УИК №3636",
     "tikTvd": "23620001279746",
-    "tikName": "Таловская"
+    "tikName": "Таловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3637,
     "uikTvd": "4364036182634",
+    "uikName": "УИК №3637",
     "tikTvd": "23620001279746",
-    "tikName": "Таловская"
+    "tikName": "Таловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3638,
     "uikTvd": "4364036182635",
+    "uikName": "УИК №3638",
     "tikTvd": "23620001279746",
-    "tikName": "Таловская"
+    "tikName": "Таловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3639,
     "uikTvd": "4364036182636",
+    "uikName": "УИК №3639",
     "tikTvd": "23620001279746",
-    "tikName": "Таловская"
+    "tikName": "Таловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3640,
     "uikTvd": "4364036182637",
+    "uikName": "УИК №3640",
     "tikTvd": "23620001279746",
-    "tikName": "Таловская"
+    "tikName": "Таловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3641,
     "uikTvd": "4364036182638",
+    "uikName": "УИК №3641",
     "tikTvd": "23620001279746",
-    "tikName": "Таловская"
+    "tikName": "Таловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3642,
     "uikTvd": "4364036182639",
+    "uikName": "УИК №3642",
     "tikTvd": "23620001279746",
-    "tikName": "Таловская"
+    "tikName": "Таловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3643,
     "uikTvd": "4364036182640",
+    "uikName": "УИК №3643",
     "tikTvd": "23620001279746",
-    "tikName": "Таловская"
+    "tikName": "Таловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3644,
     "uikTvd": "4364036182641",
+    "uikName": "УИК №3644",
     "tikTvd": "23620001279746",
-    "tikName": "Таловская"
+    "tikName": "Таловская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3701,
     "uikTvd": "4364037145995",
+    "uikName": "УИК №3701",
     "tikTvd": "23620001279744",
-    "tikName": "Терновская"
+    "tikName": "Терновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3702,
     "uikTvd": "4364037145996",
+    "uikName": "УИК №3702",
     "tikTvd": "23620001279744",
-    "tikName": "Терновская"
+    "tikName": "Терновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3703,
     "uikTvd": "4364037145997",
+    "uikName": "УИК №3703",
     "tikTvd": "23620001279744",
-    "tikName": "Терновская"
+    "tikName": "Терновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3704,
     "uikTvd": "4364037145998",
+    "uikName": "УИК №3704",
     "tikTvd": "23620001279744",
-    "tikName": "Терновская"
+    "tikName": "Терновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3705,
     "uikTvd": "4364037145999",
+    "uikName": "УИК №3705",
     "tikTvd": "23620001279744",
-    "tikName": "Терновская"
+    "tikName": "Терновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3706,
     "uikTvd": "4364037146000",
+    "uikName": "УИК №3706",
     "tikTvd": "23620001279744",
-    "tikName": "Терновская"
+    "tikName": "Терновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3707,
     "uikTvd": "4364037146001",
+    "uikName": "УИК №3707",
     "tikTvd": "23620001279744",
-    "tikName": "Терновская"
+    "tikName": "Терновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3708,
     "uikTvd": "4364037146002",
+    "uikName": "УИК №3708",
     "tikTvd": "23620001279744",
-    "tikName": "Терновская"
+    "tikName": "Терновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3709,
     "uikTvd": "4364037146003",
+    "uikName": "УИК №3709",
     "tikTvd": "23620001279744",
-    "tikName": "Терновская"
+    "tikName": "Терновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3710,
     "uikTvd": "4364037146004",
+    "uikName": "УИК №3710",
     "tikTvd": "23620001279744",
-    "tikName": "Терновская"
+    "tikName": "Терновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3711,
     "uikTvd": "4364037146005",
+    "uikName": "УИК №3711",
     "tikTvd": "23620001279744",
-    "tikName": "Терновская"
+    "tikName": "Терновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3712,
     "uikTvd": "4364037146006",
+    "uikName": "УИК №3712",
     "tikTvd": "23620001279744",
-    "tikName": "Терновская"
+    "tikName": "Терновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3713,
     "uikTvd": "4364037146007",
+    "uikName": "УИК №3713",
     "tikTvd": "23620001279744",
-    "tikName": "Терновская"
+    "tikName": "Терновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3714,
     "uikTvd": "4364037146008",
+    "uikName": "УИК №3714",
     "tikTvd": "23620001279744",
-    "tikName": "Терновская"
+    "tikName": "Терновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3715,
     "uikTvd": "4364037146009",
+    "uikName": "УИК №3715",
     "tikTvd": "23620001279744",
-    "tikName": "Терновская"
+    "tikName": "Терновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3716,
     "uikTvd": "4364037146010",
+    "uikName": "УИК №3716",
     "tikTvd": "23620001279744",
-    "tikName": "Терновская"
+    "tikName": "Терновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3717,
     "uikTvd": "4364037146011",
+    "uikName": "УИК №3717",
     "tikTvd": "23620001279744",
-    "tikName": "Терновская"
+    "tikName": "Терновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3718,
     "uikTvd": "4364037146012",
+    "uikName": "УИК №3718",
     "tikTvd": "23620001279744",
-    "tikName": "Терновская"
+    "tikName": "Терновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3719,
     "uikTvd": "4364037146013",
+    "uikName": "УИК №3719",
     "tikTvd": "23620001279744",
-    "tikName": "Терновская"
+    "tikName": "Терновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3720,
     "uikTvd": "4364037146014",
+    "uikName": "УИК №3720",
     "tikTvd": "23620001279744",
-    "tikName": "Терновская"
+    "tikName": "Терновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3721,
     "uikTvd": "4364037146015",
+    "uikName": "УИК №3721",
     "tikTvd": "23620001279744",
-    "tikName": "Терновская"
+    "tikName": "Терновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3722,
     "uikTvd": "4364037146016",
+    "uikName": "УИК №3722",
     "tikTvd": "23620001279744",
-    "tikName": "Терновская"
+    "tikName": "Терновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3723,
     "uikTvd": "4364037146017",
+    "uikName": "УИК №3723",
     "tikTvd": "23620001279744",
-    "tikName": "Терновская"
+    "tikName": "Терновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3724,
     "uikTvd": "4364037146018",
+    "uikName": "УИК №3724",
     "tikTvd": "23620001279744",
-    "tikName": "Терновская"
+    "tikName": "Терновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3725,
     "uikTvd": "4364037146019",
+    "uikName": "УИК №3725",
     "tikTvd": "23620001279744",
-    "tikName": "Терновская"
+    "tikName": "Терновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3726,
     "uikTvd": "4364037146020",
+    "uikName": "УИК №3726",
     "tikTvd": "23620001279744",
-    "tikName": "Терновская"
+    "tikName": "Терновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3727,
     "uikTvd": "4364037146021",
+    "uikName": "УИК №3727",
     "tikTvd": "23620001279744",
-    "tikName": "Терновская"
+    "tikName": "Терновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3728,
     "uikTvd": "4364037146022",
+    "uikName": "УИК №3728",
     "tikTvd": "23620001279744",
-    "tikName": "Терновская"
+    "tikName": "Терновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3729,
     "uikTvd": "4364037146023",
+    "uikName": "УИК №3729",
     "tikTvd": "23620001279744",
-    "tikName": "Терновская"
+    "tikName": "Терновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3730,
     "uikTvd": "4364037146024",
+    "uikName": "УИК №3730",
     "tikTvd": "23620001279744",
-    "tikName": "Терновская"
+    "tikName": "Терновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3731,
     "uikTvd": "4364037146025",
+    "uikName": "УИК №3731",
     "tikTvd": "23620001279744",
-    "tikName": "Терновская"
+    "tikName": "Терновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3801,
     "uikTvd": "4364038147371",
+    "uikName": "УИК №3801",
     "tikTvd": "23620001279757",
-    "tikName": "Хохольская"
+    "tikName": "Хохольская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3802,
     "uikTvd": "4364038147372",
+    "uikName": "УИК №3802",
     "tikTvd": "23620001279757",
-    "tikName": "Хохольская"
+    "tikName": "Хохольская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3803,
     "uikTvd": "4364038147373",
+    "uikName": "УИК №3803",
     "tikTvd": "23620001279757",
-    "tikName": "Хохольская"
+    "tikName": "Хохольская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3804,
     "uikTvd": "4364038147374",
+    "uikName": "УИК №3804",
     "tikTvd": "23620001279757",
-    "tikName": "Хохольская"
+    "tikName": "Хохольская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3805,
     "uikTvd": "4364038147375",
+    "uikName": "УИК №3805",
     "tikTvd": "23620001279757",
-    "tikName": "Хохольская"
+    "tikName": "Хохольская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3806,
     "uikTvd": "4364038147376",
+    "uikName": "УИК №3806",
     "tikTvd": "23620001279757",
-    "tikName": "Хохольская"
+    "tikName": "Хохольская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3807,
     "uikTvd": "4364038147377",
+    "uikName": "УИК №3807",
     "tikTvd": "23620001279757",
-    "tikName": "Хохольская"
+    "tikName": "Хохольская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3808,
     "uikTvd": "4364038147378",
+    "uikName": "УИК №3808",
     "tikTvd": "23620001279757",
-    "tikName": "Хохольская"
+    "tikName": "Хохольская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3809,
     "uikTvd": "4364038147379",
+    "uikName": "УИК №3809",
     "tikTvd": "23620001279757",
-    "tikName": "Хохольская"
+    "tikName": "Хохольская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3810,
     "uikTvd": "4364038147380",
+    "uikName": "УИК №3810",
     "tikTvd": "23620001279757",
-    "tikName": "Хохольская"
+    "tikName": "Хохольская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3811,
     "uikTvd": "4364038147381",
+    "uikName": "УИК №3811",
     "tikTvd": "23620001279757",
-    "tikName": "Хохольская"
+    "tikName": "Хохольская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3812,
     "uikTvd": "4364038147382",
+    "uikName": "УИК №3812",
     "tikTvd": "23620001279757",
-    "tikName": "Хохольская"
+    "tikName": "Хохольская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3813,
     "uikTvd": "4364038147383",
+    "uikName": "УИК №3813",
     "tikTvd": "23620001279757",
-    "tikName": "Хохольская"
+    "tikName": "Хохольская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3814,
     "uikTvd": "4364038147384",
+    "uikName": "УИК №3814",
     "tikTvd": "23620001279757",
-    "tikName": "Хохольская"
+    "tikName": "Хохольская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3815,
     "uikTvd": "4364038147385",
+    "uikName": "УИК №3815",
     "tikTvd": "23620001279757",
-    "tikName": "Хохольская"
+    "tikName": "Хохольская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3816,
     "uikTvd": "4364038147386",
+    "uikName": "УИК №3816",
     "tikTvd": "23620001279757",
-    "tikName": "Хохольская"
+    "tikName": "Хохольская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3817,
     "uikTvd": "4364038147387",
+    "uikName": "УИК №3817",
     "tikTvd": "23620001279757",
-    "tikName": "Хохольская"
+    "tikName": "Хохольская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3818,
     "uikTvd": "4364038147388",
+    "uikName": "УИК №3818",
     "tikTvd": "23620001279757",
-    "tikName": "Хохольская"
+    "tikName": "Хохольская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3819,
     "uikTvd": "4364038147389",
+    "uikName": "УИК №3819",
     "tikTvd": "23620001279757",
-    "tikName": "Хохольская"
+    "tikName": "Хохольская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3820,
     "uikTvd": "4364038147390",
+    "uikName": "УИК №3820",
     "tikTvd": "23620001279757",
-    "tikName": "Хохольская"
+    "tikName": "Хохольская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3821,
     "uikTvd": "4364038147391",
+    "uikName": "УИК №3821",
     "tikTvd": "23620001279757",
-    "tikName": "Хохольская"
+    "tikName": "Хохольская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3822,
     "uikTvd": "4364038147392",
+    "uikName": "УИК №3822",
     "tikTvd": "23620001279757",
-    "tikName": "Хохольская"
+    "tikName": "Хохольская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3823,
     "uikTvd": "4364038147393",
+    "uikName": "УИК №3823",
     "tikTvd": "23620001279757",
-    "tikName": "Хохольская"
+    "tikName": "Хохольская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3824,
     "uikTvd": "4364038147394",
+    "uikName": "УИК №3824",
     "tikTvd": "23620001279757",
-    "tikName": "Хохольская"
+    "tikName": "Хохольская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3825,
     "uikTvd": "4364038147395",
+    "uikName": "УИК №3825",
     "tikTvd": "23620001279757",
-    "tikName": "Хохольская"
+    "tikName": "Хохольская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3826,
     "uikTvd": "4364038147396",
+    "uikName": "УИК №3826",
     "tikTvd": "23620001279757",
-    "tikName": "Хохольская"
+    "tikName": "Хохольская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3827,
     "uikTvd": "4364038147397",
+    "uikName": "УИК №3827",
     "tikTvd": "23620001279757",
-    "tikName": "Хохольская"
+    "tikName": "Хохольская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3828,
     "uikTvd": "4364038147398",
+    "uikName": "УИК №3828",
     "tikTvd": "23620001279757",
-    "tikName": "Хохольская"
+    "tikName": "Хохольская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3829,
     "uikTvd": "4364038147399",
+    "uikName": "УИК №3829",
     "tikTvd": "23620001279757",
-    "tikName": "Хохольская"
+    "tikName": "Хохольская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3830,
     "uikTvd": "4364038147400",
+    "uikName": "УИК №3830",
     "tikTvd": "23620001279757",
-    "tikName": "Хохольская"
+    "tikName": "Хохольская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3831,
     "uikTvd": "4364038147401",
+    "uikName": "УИК №3831",
     "tikTvd": "23620001279757",
-    "tikName": "Хохольская"
+    "tikName": "Хохольская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3832,
     "uikTvd": "4364038147402",
+    "uikName": "УИК №3832",
     "tikTvd": "23620001279757",
-    "tikName": "Хохольская"
+    "tikName": "Хохольская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3833,
     "uikTvd": "4364038147403",
+    "uikName": "УИК №3833",
     "tikTvd": "23620001279757",
-    "tikName": "Хохольская"
+    "tikName": "Хохольская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3834,
     "uikTvd": "4364038147404",
+    "uikName": "УИК №3834",
     "tikTvd": "23620001279757",
-    "tikName": "Хохольская"
+    "tikName": "Хохольская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3835,
     "uikTvd": "4364038147405",
+    "uikName": "УИК №3835",
     "tikTvd": "23620001279757",
-    "tikName": "Хохольская"
+    "tikName": "Хохольская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3836,
     "uikTvd": "4364038147406",
+    "uikName": "УИК №3836",
     "tikTvd": "23620001279757",
-    "tikName": "Хохольская"
+    "tikName": "Хохольская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3901,
     "uikTvd": "4364039137200",
+    "uikName": "УИК №3901",
     "tikTvd": "23620001279761",
-    "tikName": "Эртильская"
+    "tikName": "Эртильская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3902,
     "uikTvd": "4364039137201",
+    "uikName": "УИК №3902",
     "tikTvd": "23620001279761",
-    "tikName": "Эртильская"
+    "tikName": "Эртильская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3903,
     "uikTvd": "4364039137202",
+    "uikName": "УИК №3903",
     "tikTvd": "23620001279761",
-    "tikName": "Эртильская"
+    "tikName": "Эртильская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3904,
     "uikTvd": "4364039137203",
+    "uikName": "УИК №3904",
     "tikTvd": "23620001279761",
-    "tikName": "Эртильская"
+    "tikName": "Эртильская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3905,
     "uikTvd": "4364039137204",
+    "uikName": "УИК №3905",
     "tikTvd": "23620001279761",
-    "tikName": "Эртильская"
+    "tikName": "Эртильская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3906,
     "uikTvd": "4364039137206",
+    "uikName": "УИК №3906",
     "tikTvd": "23620001279761",
-    "tikName": "Эртильская"
+    "tikName": "Эртильская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3907,
     "uikTvd": "4364039137207",
+    "uikName": "УИК №3907",
     "tikTvd": "23620001279761",
-    "tikName": "Эртильская"
+    "tikName": "Эртильская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3908,
     "uikTvd": "4364039137208",
+    "uikName": "УИК №3908",
     "tikTvd": "23620001279761",
-    "tikName": "Эртильская"
+    "tikName": "Эртильская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3909,
     "uikTvd": "4364039137209",
+    "uikName": "УИК №3909",
     "tikTvd": "23620001279761",
-    "tikName": "Эртильская"
+    "tikName": "Эртильская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3910,
     "uikTvd": "4364039137210",
+    "uikName": "УИК №3910",
     "tikTvd": "23620001279761",
-    "tikName": "Эртильская"
+    "tikName": "Эртильская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3911,
     "uikTvd": "4364039137212",
+    "uikName": "УИК №3911",
     "tikTvd": "23620001279761",
-    "tikName": "Эртильская"
+    "tikName": "Эртильская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3912,
     "uikTvd": "4364039137213",
+    "uikName": "УИК №3912",
     "tikTvd": "23620001279761",
-    "tikName": "Эртильская"
+    "tikName": "Эртильская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3913,
     "uikTvd": "4364039137214",
+    "uikName": "УИК №3913",
     "tikTvd": "23620001279761",
-    "tikName": "Эртильская"
+    "tikName": "Эртильская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3914,
     "uikTvd": "4364039137215",
+    "uikName": "УИК №3914",
     "tikTvd": "23620001279761",
-    "tikName": "Эртильская"
+    "tikName": "Эртильская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3915,
     "uikTvd": "4364039137216",
+    "uikName": "УИК №3915",
     "tikTvd": "23620001279761",
-    "tikName": "Эртильская"
+    "tikName": "Эртильская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3916,
     "uikTvd": "4364039137217",
+    "uikName": "УИК №3916",
     "tikTvd": "23620001279761",
-    "tikName": "Эртильская"
+    "tikName": "Эртильская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3917,
     "uikTvd": "4364039137218",
+    "uikName": "УИК №3917",
     "tikTvd": "23620001279761",
-    "tikName": "Эртильская"
+    "tikName": "Эртильская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3918,
     "uikTvd": "4364039137219",
+    "uikName": "УИК №3918",
     "tikTvd": "23620001279761",
-    "tikName": "Эртильская"
+    "tikName": "Эртильская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3919,
     "uikTvd": "4364039137220",
+    "uikName": "УИК №3919",
     "tikTvd": "23620001279761",
-    "tikName": "Эртильская"
+    "tikName": "Эртильская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3920,
     "uikTvd": "4364039137222",
+    "uikName": "УИК №3920",
     "tikTvd": "23620001279761",
-    "tikName": "Эртильская"
+    "tikName": "Эртильская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3921,
     "uikTvd": "4364039137223",
+    "uikName": "УИК №3921",
     "tikTvd": "23620001279761",
-    "tikName": "Эртильская"
+    "tikName": "Эртильская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3922,
     "uikTvd": "4364039137224",
+    "uikName": "УИК №3922",
     "tikTvd": "23620001279761",
-    "tikName": "Эртильская"
+    "tikName": "Эртильская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3923,
     "uikTvd": "4364039137225",
+    "uikName": "УИК №3923",
     "tikTvd": "23620001279761",
-    "tikName": "Эртильская"
+    "tikName": "Эртильская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3924,
     "uikTvd": "4364039137226",
+    "uikName": "УИК №3924",
     "tikTvd": "23620001279761",
-    "tikName": "Эртильская"
+    "tikName": "Эртильская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3925,
     "uikTvd": "4364039137227",
+    "uikName": "УИК №3925",
     "tikTvd": "23620001279761",
-    "tikName": "Эртильская"
+    "tikName": "Эртильская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3926,
     "uikTvd": "4364039137229",
+    "uikName": "УИК №3926",
     "tikTvd": "23620001279761",
-    "tikName": "Эртильская"
+    "tikName": "Эртильская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3927,
     "uikTvd": "4364039137231",
+    "uikName": "УИК №3927",
     "tikTvd": "23620001279761",
-    "tikName": "Эртильская"
+    "tikName": "Эртильская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3928,
     "uikTvd": "4364039137232",
+    "uikName": "УИК №3928",
     "tikTvd": "23620001279761",
-    "tikName": "Эртильская"
+    "tikName": "Эртильская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3929,
     "uikTvd": "4364039137233",
+    "uikName": "УИК №3929",
     "tikTvd": "23620001279761",
-    "tikName": "Эртильская"
+    "tikName": "Эртильская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3930,
     "uikTvd": "4364039137234",
+    "uikName": "УИК №3930",
     "tikTvd": "23620001279761",
-    "tikName": "Эртильская"
+    "tikName": "Эртильская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3931,
     "uikTvd": "4364039137235",
+    "uikName": "УИК №3931",
     "tikTvd": "23620001279761",
-    "tikName": "Эртильская"
+    "tikName": "Эртильская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3932,
     "uikTvd": "4364039137236",
+    "uikName": "УИК №3932",
     "tikTvd": "23620001279761",
-    "tikName": "Эртильская"
+    "tikName": "Эртильская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3933,
     "uikTvd": "4364039137237",
+    "uikName": "УИК №3933",
     "tikTvd": "23620001279761",
-    "tikName": "Эртильская"
+    "tikName": "Эртильская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3934,
     "uikTvd": "4364039137238",
+    "uikName": "УИК №3934",
     "tikTvd": "23620001279761",
-    "tikName": "Эртильская"
+    "tikName": "Эртильская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3935,
     "uikTvd": "4364039137191",
+    "uikName": "УИК №3935",
     "tikTvd": "23620001279761",
-    "tikName": "Эртильская"
+    "tikName": "Эртильская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3936,
     "uikTvd": "4364039137192",
+    "uikName": "УИК №3936",
     "tikTvd": "23620001279761",
-    "tikName": "Эртильская"
+    "tikName": "Эртильская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3937,
     "uikTvd": "4364039137193",
+    "uikName": "УИК №3937",
     "tikTvd": "23620001279761",
-    "tikName": "Эртильская"
+    "tikName": "Эртильская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3938,
     "uikTvd": "4364039137194",
+    "uikName": "УИК №3938",
     "tikTvd": "23620001279761",
-    "tikName": "Эртильская"
+    "tikName": "Эртильская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3939,
     "uikTvd": "4364039137195",
+    "uikName": "УИК №3939",
     "tikTvd": "23620001279761",
-    "tikName": "Эртильская"
+    "tikName": "Эртильская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3940,
     "uikTvd": "4364039137196",
+    "uikName": "УИК №3940",
     "tikTvd": "23620001279761",
-    "tikName": "Эртильская"
+    "tikName": "Эртильская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3941,
     "uikTvd": "4364039137197",
+    "uikName": "УИК №3941",
     "tikTvd": "23620001279761",
-    "tikName": "Эртильская"
+    "tikName": "Эртильская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 3942,
     "uikTvd": "4364039137198",
+    "uikName": "УИК №3942",
     "tikTvd": "23620001279761",
-    "tikName": "Эртильская"
+    "tikName": "Эртильская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 4001,
     "uikTvd": "4364010414328",
+    "uikName": "УИК №4001",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 4002,
     "uikTvd": "4364010414329",
+    "uikName": "УИК №4002",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 4003,
     "uikTvd": "4364010414330",
+    "uikName": "УИК №4003",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 4004,
     "uikTvd": "4364010414331",
+    "uikName": "УИК №4004",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 4005,
     "uikTvd": "4364010414332",
+    "uikName": "УИК №4005",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 4006,
     "uikTvd": "4364010414333",
+    "uikName": "УИК №4006",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 4007,
     "uikTvd": "4364010414334",
+    "uikName": "УИК №4007",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 4008,
     "uikTvd": "4364010414335",
+    "uikName": "УИК №4008",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 4009,
     "uikTvd": "4364010414336",
+    "uikName": "УИК №4009",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 4010,
     "uikTvd": "4364010414337",
+    "uikName": "УИК №4010",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 4011,
     "uikTvd": "4364010414338",
+    "uikName": "УИК №4011",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 4012,
     "uikTvd": "4364010414339",
+    "uikName": "УИК №4012",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 4013,
     "uikTvd": "4364010414340",
+    "uikName": "УИК №4013",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 4014,
     "uikTvd": "4364010414341",
+    "uikName": "УИК №4014",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 4015,
     "uikTvd": "4364010414342",
+    "uikName": "УИК №4015",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 4016,
     "uikTvd": "4364010414343",
+    "uikName": "УИК №4016",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 4017,
     "uikTvd": "4364010414344",
+    "uikName": "УИК №4017",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 4018,
     "uikTvd": "4364010414345",
+    "uikName": "УИК №4018",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 4019,
     "uikTvd": "4364010414346",
+    "uikName": "УИК №4019",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   },
   {
     "uikNumber": 4020,
     "uikTvd": "4364010414411",
+    "uikName": "УИК №4020",
     "tikTvd": "23620001279733",
-    "tikName": "Воронеж, Коминтерновская"
+    "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100084849162",
+    "regionName": "Воронежская область",
+    "district": null
   }
 ] satisfies readonly UikTikRelation[];

@@ -11,6 +11,9 @@ export const duma_2007_tic_233_region_67 = [
     "ballot": "party",
     "tikTvd": "2672000198630",
     "tikName": "Демидовская",
+    "regionCode": "67",
+    "regionTvd": "100100021960321",
+    "regionName": "Смоленская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 13809,
@@ -89,6 +92,9 @@ export const duma_2007_tic_233_region_67 = [
     "ballot": "party",
     "tikTvd": "2672000198631",
     "tikName": "Вяземская",
+    "regionCode": "67",
+    "regionTvd": "100100021960321",
+    "regionName": "Смоленская область",
     "uikCount": 51,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 65751,
@@ -194,6 +200,9 @@ export const duma_2007_tic_233_region_67 = [
     "ballot": "party",
     "tikTvd": "2672000198632",
     "tikName": "Гагаринская",
+    "regionCode": "67",
+    "regionTvd": "100100021960321",
+    "regionName": "Смоленская область",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 37962,
@@ -286,6 +295,9 @@ export const duma_2007_tic_233_region_67 = [
     "ballot": "party",
     "tikTvd": "2672000198633",
     "tikName": "Глинковская",
+    "regionCode": "67",
+    "regionTvd": "100100021960321",
+    "regionName": "Смоленская область",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 4515,
@@ -351,6 +363,9 @@ export const duma_2007_tic_233_region_67 = [
     "ballot": "party",
     "tikTvd": "2672000198634",
     "tikName": "Велижская",
+    "regionCode": "67",
+    "regionTvd": "100100021960321",
+    "regionName": "Смоленская область",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 11223,
@@ -416,6 +431,9 @@ export const duma_2007_tic_233_region_67 = [
     "ballot": "party",
     "tikTvd": "2672000198635",
     "tikName": "Новодугинская",
+    "regionCode": "67",
+    "regionTvd": "100100021960321",
+    "regionName": "Смоленская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 8433,
@@ -491,6 +509,9 @@ export const duma_2007_tic_233_region_67 = [
     "ballot": "party",
     "tikTvd": "2672000198636",
     "tikName": "Монастырщинская",
+    "regionCode": "67",
+    "regionTvd": "100100021960321",
+    "regionName": "Смоленская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 10256,
@@ -569,6 +590,9 @@ export const duma_2007_tic_233_region_67 = [
     "ballot": "party",
     "tikTvd": "2672000198637",
     "tikName": "Кардымовская",
+    "regionCode": "67",
+    "regionTvd": "100100021960321",
+    "regionName": "Смоленская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 9383,
@@ -638,6 +662,9 @@ export const duma_2007_tic_233_region_67 = [
     "ballot": "party",
     "tikTvd": "2672000198638",
     "tikName": "Ершичская",
+    "regionCode": "67",
+    "regionTvd": "100100021960321",
+    "regionName": "Смоленская область",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 6647,
@@ -705,6 +732,9 @@ export const duma_2007_tic_233_region_67 = [
     "ballot": "party",
     "tikTvd": "2672000198639",
     "tikName": "Краснинская",
+    "regionCode": "67",
+    "regionTvd": "100100021960321",
+    "regionName": "Смоленская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 11956,
@@ -787,6 +817,9 @@ export const duma_2007_tic_233_region_67 = [
     "ballot": "party",
     "tikTvd": "2672000198640",
     "tikName": "Духовщинская",
+    "regionCode": "67",
+    "regionTvd": "100100021960321",
+    "regionName": "Смоленская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 14939,
@@ -862,6 +895,9 @@ export const duma_2007_tic_233_region_67 = [
     "ballot": "party",
     "tikTvd": "2672000198641",
     "tikName": "Дорогобужская",
+    "regionCode": "67",
+    "regionTvd": "100100021960321",
+    "regionName": "Смоленская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 25257,
@@ -947,6 +983,9 @@ export const duma_2007_tic_233_region_67 = [
     "ballot": "party",
     "tikTvd": "2672000198642",
     "tikName": "Ельнинская",
+    "regionCode": "67",
+    "regionTvd": "100100021960321",
+    "regionName": "Смоленская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 12347,
@@ -1024,6 +1063,9 @@ export const duma_2007_tic_233_region_67 = [
     "ballot": "party",
     "tikTvd": "2672000198643",
     "tikName": "Смоленск, Промышленная",
+    "regionCode": "67",
+    "regionTvd": "100100021960321",
+    "regionName": "Смоленская область",
     "uikCount": 48,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 109469,
@@ -1126,6 +1168,9 @@ export const duma_2007_tic_233_region_67 = [
     "ballot": "party",
     "tikTvd": "2672000198644",
     "tikName": "Смоленская",
+    "regionCode": "67",
+    "regionTvd": "100100021960321",
+    "regionName": "Смоленская область",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 36259,
@@ -1222,6 +1267,9 @@ export const duma_2007_tic_233_region_67 = [
     "ballot": "party",
     "tikTvd": "2672000198645",
     "tikName": "Десногорская",
+    "regionCode": "67",
+    "regionTvd": "100100021960321",
+    "regionName": "Смоленская область",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 26010,
@@ -1287,6 +1335,9 @@ export const duma_2007_tic_233_region_67 = [
     "ballot": "party",
     "tikTvd": "2672000198646",
     "tikName": "Смоленск, Заднепровская",
+    "regionCode": "67",
+    "regionTvd": "100100021960321",
+    "regionName": "Смоленская область",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 78701,
@@ -1379,6 +1430,9 @@ export const duma_2007_tic_233_region_67 = [
     "ballot": "party",
     "tikTvd": "2672000198647",
     "tikName": "Сафоновская",
+    "regionCode": "67",
+    "regionTvd": "100100021960321",
+    "regionName": "Смоленская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 51026,
@@ -1473,6 +1527,9 @@ export const duma_2007_tic_233_region_67 = [
     "ballot": "party",
     "tikTvd": "2672000198648",
     "tikName": "Смоленск, Ленинская",
+    "regionCode": "67",
+    "regionTvd": "100100021960321",
+    "regionName": "Смоленская область",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 89325,
@@ -1564,6 +1621,9 @@ export const duma_2007_tic_233_region_67 = [
     "ballot": "party",
     "tikTvd": "2672000198649",
     "tikName": "Руднянская",
+    "regionCode": "67",
+    "regionTvd": "100100021960321",
+    "regionName": "Смоленская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 20953,
@@ -1658,6 +1718,9 @@ export const duma_2007_tic_233_region_67 = [
     "ballot": "party",
     "tikTvd": "2672000198650",
     "tikName": "Починковская",
+    "regionCode": "67",
+    "regionTvd": "100100021960321",
+    "regionName": "Смоленская область",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 27581,
@@ -1753,6 +1816,9 @@ export const duma_2007_tic_233_region_67 = [
     "ballot": "party",
     "tikTvd": "2672000198651",
     "tikName": "Рославльская",
+    "regionCode": "67",
+    "regionTvd": "100100021960321",
+    "regionName": "Смоленская область",
     "uikCount": 53,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 62489,
@@ -1860,6 +1926,9 @@ export const duma_2007_tic_233_region_67 = [
     "ballot": "party",
     "tikTvd": "2672000198652",
     "tikName": "Ярцевская",
+    "regionCode": "67",
+    "regionTvd": "100100021960321",
+    "regionName": "Смоленская область",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 50731,
@@ -1955,6 +2024,9 @@ export const duma_2007_tic_233_region_67 = [
     "ballot": "party",
     "tikTvd": "2672000198653",
     "tikName": "Шумячская",
+    "regionCode": "67",
+    "regionTvd": "100100021960321",
+    "regionName": "Смоленская область",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 10947,
@@ -2026,6 +2098,9 @@ export const duma_2007_tic_233_region_67 = [
     "ballot": "party",
     "tikTvd": "2672000198654",
     "tikName": "Холм-Жирковская",
+    "regionCode": "67",
+    "regionTvd": "100100021960321",
+    "regionName": "Смоленская область",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 9429,
@@ -2096,6 +2171,9 @@ export const duma_2007_tic_233_region_67 = [
     "ballot": "party",
     "tikTvd": "2672000198655",
     "tikName": "Хиславичская",
+    "regionCode": "67",
+    "regionTvd": "100100021960321",
+    "regionName": "Смоленская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 9024,
@@ -2171,6 +2249,9 @@ export const duma_2007_tic_233_region_67 = [
     "ballot": "party",
     "tikTvd": "2672000198656",
     "tikName": "Угранская",
+    "regionCode": "67",
+    "regionTvd": "100100021960321",
+    "regionName": "Смоленская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 8315,
@@ -2243,6 +2324,9 @@ export const duma_2007_tic_233_region_67 = [
     "ballot": "party",
     "tikTvd": "2672000198657",
     "tikName": "Темкинская",
+    "regionCode": "67",
+    "regionTvd": "100100021960321",
+    "regionName": "Смоленская область",
     "uikCount": 10,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 4954,
@@ -2307,6 +2391,9 @@ export const duma_2007_tic_233_region_67 = [
     "ballot": "party",
     "tikTvd": "2672000198658",
     "tikName": "Сычевская",
+    "regionCode": "67",
+    "regionTvd": "100100021960321",
+    "regionName": "Смоленская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 11710,

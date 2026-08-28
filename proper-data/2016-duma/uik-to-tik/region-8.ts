@@ -7,1507 +7,3766 @@ export const duma_2016_uik_to_tik_region_8 = [
   {
     "uikNumber": 1,
     "uikTvd": "4084010190672",
+    "uikName": "УИК №1",
     "tikTvd": "2082000402628",
-    "tikName": "Элистинская городская"
+    "tikName": "Элистинская городская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 2,
     "uikTvd": "4084010190673",
+    "uikName": "УИК №2",
     "tikTvd": "2082000402628",
-    "tikName": "Элистинская городская"
+    "tikName": "Элистинская городская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 3,
     "uikTvd": "4084010190674",
+    "uikName": "УИК №3",
     "tikTvd": "2082000402628",
-    "tikName": "Элистинская городская"
+    "tikName": "Элистинская городская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 4,
     "uikTvd": "4084010190675",
+    "uikName": "УИК №4",
     "tikTvd": "2082000402628",
-    "tikName": "Элистинская городская"
+    "tikName": "Элистинская городская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 5,
     "uikTvd": "4084010190676",
+    "uikName": "УИК №5",
     "tikTvd": "2082000402628",
-    "tikName": "Элистинская городская"
+    "tikName": "Элистинская городская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 6,
     "uikTvd": "4084010190677",
+    "uikName": "УИК №6",
     "tikTvd": "2082000402628",
-    "tikName": "Элистинская городская"
+    "tikName": "Элистинская городская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 7,
     "uikTvd": "4084010190678",
+    "uikName": "УИК №7",
     "tikTvd": "2082000402628",
-    "tikName": "Элистинская городская"
+    "tikName": "Элистинская городская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 8,
     "uikTvd": "4084010190679",
+    "uikName": "УИК №8",
     "tikTvd": "2082000402628",
-    "tikName": "Элистинская городская"
+    "tikName": "Элистинская городская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 9,
     "uikTvd": "4084010190680",
+    "uikName": "УИК №9",
     "tikTvd": "2082000402628",
-    "tikName": "Элистинская городская"
+    "tikName": "Элистинская городская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 10,
     "uikTvd": "4084010190681",
+    "uikName": "УИК №10",
     "tikTvd": "2082000402628",
-    "tikName": "Элистинская городская"
+    "tikName": "Элистинская городская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 11,
     "uikTvd": "4084010190682",
+    "uikName": "УИК №11",
     "tikTvd": "2082000402628",
-    "tikName": "Элистинская городская"
+    "tikName": "Элистинская городская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 12,
     "uikTvd": "4084010190683",
+    "uikName": "УИК №12",
     "tikTvd": "2082000402628",
-    "tikName": "Элистинская городская"
+    "tikName": "Элистинская городская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 13,
     "uikTvd": "4084010190684",
+    "uikName": "УИК №13",
     "tikTvd": "2082000402628",
-    "tikName": "Элистинская городская"
+    "tikName": "Элистинская городская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 14,
     "uikTvd": "4084010190685",
+    "uikName": "УИК №14",
     "tikTvd": "2082000402628",
-    "tikName": "Элистинская городская"
+    "tikName": "Элистинская городская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 15,
     "uikTvd": "4084010190686",
+    "uikName": "УИК №15",
     "tikTvd": "2082000402628",
-    "tikName": "Элистинская городская"
+    "tikName": "Элистинская городская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 16,
     "uikTvd": "4084010190687",
+    "uikName": "УИК №16",
     "tikTvd": "2082000402628",
-    "tikName": "Элистинская городская"
+    "tikName": "Элистинская городская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 17,
     "uikTvd": "4084010190688",
+    "uikName": "УИК №17",
     "tikTvd": "2082000402628",
-    "tikName": "Элистинская городская"
+    "tikName": "Элистинская городская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 18,
     "uikTvd": "4084010190689",
+    "uikName": "УИК №18",
     "tikTvd": "2082000402628",
-    "tikName": "Элистинская городская"
+    "tikName": "Элистинская городская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 19,
     "uikTvd": "4084010190690",
+    "uikName": "УИК №19",
     "tikTvd": "2082000402628",
-    "tikName": "Элистинская городская"
+    "tikName": "Элистинская городская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 20,
     "uikTvd": "4084010190691",
+    "uikName": "УИК №20",
     "tikTvd": "2082000402628",
-    "tikName": "Элистинская городская"
+    "tikName": "Элистинская городская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 21,
     "uikTvd": "4084010190692",
+    "uikName": "УИК №21",
     "tikTvd": "2082000402628",
-    "tikName": "Элистинская городская"
+    "tikName": "Элистинская городская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 22,
     "uikTvd": "4084010190693",
+    "uikName": "УИК №22",
     "tikTvd": "2082000402628",
-    "tikName": "Элистинская городская"
+    "tikName": "Элистинская городская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 23,
     "uikTvd": "4084010190694",
+    "uikName": "УИК №23",
     "tikTvd": "2082000402628",
-    "tikName": "Элистинская городская"
+    "tikName": "Элистинская городская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 24,
     "uikTvd": "4084010190695",
+    "uikName": "УИК №24",
     "tikTvd": "2082000402628",
-    "tikName": "Элистинская городская"
+    "tikName": "Элистинская городская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 25,
     "uikTvd": "4084010190696",
+    "uikName": "УИК №25",
     "tikTvd": "2082000402628",
-    "tikName": "Элистинская городская"
+    "tikName": "Элистинская городская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 26,
     "uikTvd": "4084010190697",
+    "uikName": "УИК №26",
     "tikTvd": "2082000402628",
-    "tikName": "Элистинская городская"
+    "tikName": "Элистинская городская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 27,
     "uikTvd": "4084010190698",
+    "uikName": "УИК №27",
     "tikTvd": "2082000402628",
-    "tikName": "Элистинская городская"
+    "tikName": "Элистинская городская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 28,
     "uikTvd": "4084010190699",
+    "uikName": "УИК №28",
     "tikTvd": "2082000402628",
-    "tikName": "Элистинская городская"
+    "tikName": "Элистинская городская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 29,
     "uikTvd": "4084010190700",
+    "uikName": "УИК №29",
     "tikTvd": "2082000402628",
-    "tikName": "Элистинская городская"
+    "tikName": "Элистинская городская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 30,
     "uikTvd": "4084010190701",
+    "uikName": "УИК №30",
     "tikTvd": "2082000402628",
-    "tikName": "Элистинская городская"
+    "tikName": "Элистинская городская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 31,
     "uikTvd": "4084010190702",
+    "uikName": "УИК №31",
     "tikTvd": "2082000402628",
-    "tikName": "Элистинская городская"
+    "tikName": "Элистинская городская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 32,
     "uikTvd": "4084010190703",
+    "uikName": "УИК №32",
     "tikTvd": "2082000402628",
-    "tikName": "Элистинская городская"
+    "tikName": "Элистинская городская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 33,
     "uikTvd": "4084010190704",
+    "uikName": "УИК №33",
     "tikTvd": "2082000402628",
-    "tikName": "Элистинская городская"
+    "tikName": "Элистинская городская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 34,
     "uikTvd": "4084010190705",
+    "uikName": "УИК №34",
     "tikTvd": "2082000402628",
-    "tikName": "Элистинская городская"
+    "tikName": "Элистинская городская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 35,
     "uikTvd": "4084010190706",
+    "uikName": "УИК №35",
     "tikTvd": "2082000402628",
-    "tikName": "Элистинская городская"
+    "tikName": "Элистинская городская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 36,
     "uikTvd": "4084010190707",
+    "uikName": "УИК №36",
     "tikTvd": "2082000402628",
-    "tikName": "Элистинская городская"
+    "tikName": "Элистинская городская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 37,
     "uikTvd": "4084010190708",
+    "uikName": "УИК №37",
     "tikTvd": "2082000402628",
-    "tikName": "Элистинская городская"
+    "tikName": "Элистинская городская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 38,
     "uikTvd": "4084010190709",
+    "uikName": "УИК №38",
     "tikTvd": "2082000402628",
-    "tikName": "Элистинская городская"
+    "tikName": "Элистинская городская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 39,
     "uikTvd": "4084010190710",
+    "uikName": "УИК №39",
     "tikTvd": "2082000402628",
-    "tikName": "Элистинская городская"
+    "tikName": "Элистинская городская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 40,
     "uikTvd": "4084010190711",
+    "uikName": "УИК №40",
     "tikTvd": "2082000402628",
-    "tikName": "Элистинская городская"
+    "tikName": "Элистинская городская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 41,
     "uikTvd": "4084010190712",
+    "uikName": "УИК №41",
     "tikTvd": "2082000402628",
-    "tikName": "Элистинская городская"
+    "tikName": "Элистинская городская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 42,
     "uikTvd": "4084010190713",
+    "uikName": "УИК №42",
     "tikTvd": "2082000402628",
-    "tikName": "Элистинская городская"
+    "tikName": "Элистинская городская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 43,
     "uikTvd": "4084010190714",
+    "uikName": "УИК №43",
     "tikTvd": "2082000402628",
-    "tikName": "Элистинская городская"
+    "tikName": "Элистинская городская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 44,
     "uikTvd": "4084010190715",
+    "uikName": "УИК №44",
     "tikTvd": "2082000402628",
-    "tikName": "Элистинская городская"
+    "tikName": "Элистинская городская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 45,
     "uikTvd": "4084010190716",
+    "uikName": "УИК №45",
     "tikTvd": "2082000402628",
-    "tikName": "Элистинская городская"
+    "tikName": "Элистинская городская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 46,
     "uikTvd": "4084010190717",
+    "uikName": "УИК №46",
     "tikTvd": "2082000402628",
-    "tikName": "Элистинская городская"
+    "tikName": "Элистинская городская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 47,
     "uikTvd": "4084010190718",
+    "uikName": "УИК №47",
     "tikTvd": "2082000402628",
-    "tikName": "Элистинская городская"
+    "tikName": "Элистинская городская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 48,
     "uikTvd": "4084010190719",
+    "uikName": "УИК №48",
     "tikTvd": "2082000402628",
-    "tikName": "Элистинская городская"
+    "tikName": "Элистинская городская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 49,
     "uikTvd": "4084010190720",
+    "uikName": "УИК №49",
     "tikTvd": "2082000402628",
-    "tikName": "Элистинская городская"
+    "tikName": "Элистинская городская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 50,
     "uikTvd": "4084001144598",
+    "uikName": "УИК №50",
     "tikTvd": "2082000402626",
-    "tikName": "Городовиковская"
+    "tikName": "Городовиковская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 51,
     "uikTvd": "4084001144599",
+    "uikName": "УИК №51",
     "tikTvd": "2082000402626",
-    "tikName": "Городовиковская"
+    "tikName": "Городовиковская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 52,
     "uikTvd": "4084001144600",
+    "uikName": "УИК №52",
     "tikTvd": "2082000402626",
-    "tikName": "Городовиковская"
+    "tikName": "Городовиковская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 53,
     "uikTvd": "4084001144601",
+    "uikName": "УИК №53",
     "tikTvd": "2082000402626",
-    "tikName": "Городовиковская"
+    "tikName": "Городовиковская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 54,
     "uikTvd": "4084001144602",
+    "uikName": "УИК №54",
     "tikTvd": "2082000402626",
-    "tikName": "Городовиковская"
+    "tikName": "Городовиковская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 55,
     "uikTvd": "4084001144603",
+    "uikName": "УИК №55",
     "tikTvd": "2082000402626",
-    "tikName": "Городовиковская"
+    "tikName": "Городовиковская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 56,
     "uikTvd": "4084001144604",
+    "uikName": "УИК №56",
     "tikTvd": "2082000402626",
-    "tikName": "Городовиковская"
+    "tikName": "Городовиковская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 57,
     "uikTvd": "4084001144605",
+    "uikName": "УИК №57",
     "tikTvd": "2082000402626",
-    "tikName": "Городовиковская"
+    "tikName": "Городовиковская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 58,
     "uikTvd": "4084001144606",
+    "uikName": "УИК №58",
     "tikTvd": "2082000402626",
-    "tikName": "Городовиковская"
+    "tikName": "Городовиковская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 59,
     "uikTvd": "4084001144607",
+    "uikName": "УИК №59",
     "tikTvd": "2082000402626",
-    "tikName": "Городовиковская"
+    "tikName": "Городовиковская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 60,
     "uikTvd": "4084001144608",
+    "uikName": "УИК №60",
     "tikTvd": "2082000402626",
-    "tikName": "Городовиковская"
+    "tikName": "Городовиковская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 61,
     "uikTvd": "4084001144609",
+    "uikName": "УИК №61",
     "tikTvd": "2082000402626",
-    "tikName": "Городовиковская"
+    "tikName": "Городовиковская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 62,
     "uikTvd": "4084001144610",
+    "uikName": "УИК №62",
     "tikTvd": "2082000402626",
-    "tikName": "Городовиковская"
+    "tikName": "Городовиковская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 63,
     "uikTvd": "4084001144611",
+    "uikName": "УИК №63",
     "tikTvd": "2082000402626",
-    "tikName": "Городовиковская"
+    "tikName": "Городовиковская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 64,
     "uikTvd": "4084001144612",
+    "uikName": "УИК №64",
     "tikTvd": "2082000402626",
-    "tikName": "Городовиковская"
+    "tikName": "Городовиковская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 65,
     "uikTvd": "4084001144613",
+    "uikName": "УИК №65",
     "tikTvd": "2082000402626",
-    "tikName": "Городовиковская"
+    "tikName": "Городовиковская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 66,
     "uikTvd": "4084001144614",
+    "uikName": "УИК №66",
     "tikTvd": "2082000402626",
-    "tikName": "Городовиковская"
+    "tikName": "Городовиковская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 67,
     "uikTvd": "4084001144615",
+    "uikName": "УИК №67",
     "tikTvd": "2082000402626",
-    "tikName": "Городовиковская"
+    "tikName": "Городовиковская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 68,
     "uikTvd": "4084001144616",
+    "uikName": "УИК №68",
     "tikTvd": "2082000402626",
-    "tikName": "Городовиковская"
+    "tikName": "Городовиковская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 69,
     "uikTvd": "4084001144617",
+    "uikName": "УИК №69",
     "tikTvd": "2082000402626",
-    "tikName": "Городовиковская"
+    "tikName": "Городовиковская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 70,
     "uikTvd": "4084001144618",
+    "uikName": "УИК №70",
     "tikTvd": "2082000402626",
-    "tikName": "Городовиковская"
+    "tikName": "Городовиковская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 71,
     "uikTvd": "4084001144619",
+    "uikName": "УИК №71",
     "tikTvd": "2082000402626",
-    "tikName": "Городовиковская"
+    "tikName": "Городовиковская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 72,
     "uikTvd": "4084001144620",
+    "uikName": "УИК №72",
     "tikTvd": "2082000402626",
-    "tikName": "Городовиковская"
+    "tikName": "Городовиковская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 73,
     "uikTvd": "4084002225569",
+    "uikName": "УИК №73",
     "tikTvd": "2082000402627",
-    "tikName": "Ики-Бурульская"
+    "tikName": "Ики-Бурульская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 74,
     "uikTvd": "4084002225570",
+    "uikName": "УИК №74",
     "tikTvd": "2082000402627",
-    "tikName": "Ики-Бурульская"
+    "tikName": "Ики-Бурульская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 75,
     "uikTvd": "4084002225571",
+    "uikName": "УИК №75",
     "tikTvd": "2082000402627",
-    "tikName": "Ики-Бурульская"
+    "tikName": "Ики-Бурульская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 76,
     "uikTvd": "4084002225572",
+    "uikName": "УИК №76",
     "tikTvd": "2082000402627",
-    "tikName": "Ики-Бурульская"
+    "tikName": "Ики-Бурульская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 77,
     "uikTvd": "4084002225573",
+    "uikName": "УИК №77",
     "tikTvd": "2082000402627",
-    "tikName": "Ики-Бурульская"
+    "tikName": "Ики-Бурульская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 78,
     "uikTvd": "4084002225574",
+    "uikName": "УИК №78",
     "tikTvd": "2082000402627",
-    "tikName": "Ики-Бурульская"
+    "tikName": "Ики-Бурульская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 79,
     "uikTvd": "4084002225575",
+    "uikName": "УИК №79",
     "tikTvd": "2082000402627",
-    "tikName": "Ики-Бурульская"
+    "tikName": "Ики-Бурульская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 80,
     "uikTvd": "4084002225576",
+    "uikName": "УИК №80",
     "tikTvd": "2082000402627",
-    "tikName": "Ики-Бурульская"
+    "tikName": "Ики-Бурульская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 81,
     "uikTvd": "4084002225577",
+    "uikName": "УИК №81",
     "tikTvd": "2082000402627",
-    "tikName": "Ики-Бурульская"
+    "tikName": "Ики-Бурульская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 82,
     "uikTvd": "4084002225578",
+    "uikName": "УИК №82",
     "tikTvd": "2082000402627",
-    "tikName": "Ики-Бурульская"
+    "tikName": "Ики-Бурульская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 83,
     "uikTvd": "4084002225579",
+    "uikName": "УИК №83",
     "tikTvd": "2082000402627",
-    "tikName": "Ики-Бурульская"
+    "tikName": "Ики-Бурульская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 84,
     "uikTvd": "4084002225580",
+    "uikName": "УИК №84",
     "tikTvd": "2082000402627",
-    "tikName": "Ики-Бурульская"
+    "tikName": "Ики-Бурульская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 85,
     "uikTvd": "4084002225581",
+    "uikName": "УИК №85",
     "tikTvd": "2082000402627",
-    "tikName": "Ики-Бурульская"
+    "tikName": "Ики-Бурульская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 86,
     "uikTvd": "4084002225582",
+    "uikName": "УИК №86",
     "tikTvd": "2082000402627",
-    "tikName": "Ики-Бурульская"
+    "tikName": "Ики-Бурульская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 87,
     "uikTvd": "4084004127376",
+    "uikName": "УИК №87",
     "tikTvd": "2082000402622",
-    "tikName": "Кетченеровская"
+    "tikName": "Кетченеровская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 88,
     "uikTvd": "4084004127377",
+    "uikName": "УИК №88",
     "tikTvd": "2082000402622",
-    "tikName": "Кетченеровская"
+    "tikName": "Кетченеровская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 89,
     "uikTvd": "4084004127378",
+    "uikName": "УИК №89",
     "tikTvd": "2082000402622",
-    "tikName": "Кетченеровская"
+    "tikName": "Кетченеровская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 90,
     "uikTvd": "4084004127379",
+    "uikName": "УИК №90",
     "tikTvd": "2082000402622",
-    "tikName": "Кетченеровская"
+    "tikName": "Кетченеровская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 91,
     "uikTvd": "4084004127380",
+    "uikName": "УИК №91",
     "tikTvd": "2082000402622",
-    "tikName": "Кетченеровская"
+    "tikName": "Кетченеровская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 92,
     "uikTvd": "4084004127381",
+    "uikName": "УИК №92",
     "tikTvd": "2082000402622",
-    "tikName": "Кетченеровская"
+    "tikName": "Кетченеровская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 93,
     "uikTvd": "4084004127382",
+    "uikName": "УИК №93",
     "tikTvd": "2082000402622",
-    "tikName": "Кетченеровская"
+    "tikName": "Кетченеровская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 94,
     "uikTvd": "4084004127383",
+    "uikName": "УИК №94",
     "tikTvd": "2082000402622",
-    "tikName": "Кетченеровская"
+    "tikName": "Кетченеровская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 95,
     "uikTvd": "4084004127384",
+    "uikName": "УИК №95",
     "tikTvd": "2082000402622",
-    "tikName": "Кетченеровская"
+    "tikName": "Кетченеровская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 96,
     "uikTvd": "4084004127385",
+    "uikName": "УИК №96",
     "tikTvd": "2082000402622",
-    "tikName": "Кетченеровская"
+    "tikName": "Кетченеровская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 97,
     "uikTvd": "4084004127386",
+    "uikName": "УИК №97",
     "tikTvd": "2082000402622",
-    "tikName": "Кетченеровская"
+    "tikName": "Кетченеровская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 98,
     "uikTvd": "4084004127387",
+    "uikName": "УИК №98",
     "tikTvd": "2082000402622",
-    "tikName": "Кетченеровская"
+    "tikName": "Кетченеровская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 99,
     "uikTvd": "4084004127388",
+    "uikName": "УИК №99",
     "tikTvd": "2082000402622",
-    "tikName": "Кетченеровская"
+    "tikName": "Кетченеровская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 100,
     "uikTvd": "4084004127389",
+    "uikName": "УИК №100",
     "tikTvd": "2082000402622",
-    "tikName": "Кетченеровская"
+    "tikName": "Кетченеровская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 101,
     "uikTvd": "4084004127390",
+    "uikName": "УИК №101",
     "tikTvd": "2082000402622",
-    "tikName": "Кетченеровская"
+    "tikName": "Кетченеровская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 102,
     "uikTvd": "4084004127391",
+    "uikName": "УИК №102",
     "tikTvd": "2082000402622",
-    "tikName": "Кетченеровская"
+    "tikName": "Кетченеровская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 103,
     "uikTvd": "4084003148629",
+    "uikName": "УИК №103",
     "tikTvd": "2082000402618",
-    "tikName": "Лаганская"
+    "tikName": "Лаганская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 104,
     "uikTvd": "4084003148630",
+    "uikName": "УИК №104",
     "tikTvd": "2082000402618",
-    "tikName": "Лаганская"
+    "tikName": "Лаганская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 105,
     "uikTvd": "4084003148631",
+    "uikName": "УИК №105",
     "tikTvd": "2082000402618",
-    "tikName": "Лаганская"
+    "tikName": "Лаганская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 106,
     "uikTvd": "4084003148632",
+    "uikName": "УИК №106",
     "tikTvd": "2082000402618",
-    "tikName": "Лаганская"
+    "tikName": "Лаганская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 107,
     "uikTvd": "4084003148633",
+    "uikName": "УИК №107",
     "tikTvd": "2082000402618",
-    "tikName": "Лаганская"
+    "tikName": "Лаганская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 108,
     "uikTvd": "4084003148634",
+    "uikName": "УИК №108",
     "tikTvd": "2082000402618",
-    "tikName": "Лаганская"
+    "tikName": "Лаганская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 109,
     "uikTvd": "4084003148635",
+    "uikName": "УИК №109",
     "tikTvd": "2082000402618",
-    "tikName": "Лаганская"
+    "tikName": "Лаганская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 110,
     "uikTvd": "4084003148636",
+    "uikName": "УИК №110",
     "tikTvd": "2082000402618",
-    "tikName": "Лаганская"
+    "tikName": "Лаганская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 111,
     "uikTvd": "4084003148637",
+    "uikName": "УИК №111",
     "tikTvd": "2082000402618",
-    "tikName": "Лаганская"
+    "tikName": "Лаганская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 112,
     "uikTvd": "4084003148638",
+    "uikName": "УИК №112",
     "tikTvd": "2082000402618",
-    "tikName": "Лаганская"
+    "tikName": "Лаганская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 113,
     "uikTvd": "4084003148639",
+    "uikName": "УИК №113",
     "tikTvd": "2082000402618",
-    "tikName": "Лаганская"
+    "tikName": "Лаганская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 114,
     "uikTvd": "4084003148640",
+    "uikName": "УИК №114",
     "tikTvd": "2082000402618",
-    "tikName": "Лаганская"
+    "tikName": "Лаганская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 115,
     "uikTvd": "4084003148641",
+    "uikName": "УИК №115",
     "tikTvd": "2082000402618",
-    "tikName": "Лаганская"
+    "tikName": "Лаганская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 116,
     "uikTvd": "4084003148642",
+    "uikName": "УИК №116",
     "tikTvd": "2082000402618",
-    "tikName": "Лаганская"
+    "tikName": "Лаганская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 117,
     "uikTvd": "4084003148643",
+    "uikName": "УИК №117",
     "tikTvd": "2082000402618",
-    "tikName": "Лаганская"
+    "tikName": "Лаганская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 118,
     "uikTvd": "4084003148644",
+    "uikName": "УИК №118",
     "tikTvd": "2082000402618",
-    "tikName": "Лаганская"
+    "tikName": "Лаганская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 119,
     "uikTvd": "4084003148645",
+    "uikName": "УИК №119",
     "tikTvd": "2082000402618",
-    "tikName": "Лаганская"
+    "tikName": "Лаганская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 120,
     "uikTvd": "4084003148646",
+    "uikName": "УИК №120",
     "tikTvd": "2082000402618",
-    "tikName": "Лаганская"
+    "tikName": "Лаганская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 121,
     "uikTvd": "4084003148647",
+    "uikName": "УИК №121",
     "tikTvd": "2082000402618",
-    "tikName": "Лаганская"
+    "tikName": "Лаганская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 122,
     "uikTvd": "4084003148648",
+    "uikName": "УИК №122",
     "tikTvd": "2082000402618",
-    "tikName": "Лаганская"
+    "tikName": "Лаганская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 123,
     "uikTvd": "4084003148649",
+    "uikName": "УИК №123",
     "tikTvd": "2082000402618",
-    "tikName": "Лаганская"
+    "tikName": "Лаганская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 124,
     "uikTvd": "4084003148650",
+    "uikName": "УИК №124",
     "tikTvd": "2082000402618",
-    "tikName": "Лаганская"
+    "tikName": "Лаганская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 125,
     "uikTvd": "4084003148651",
+    "uikName": "УИК №125",
     "tikTvd": "2082000402618",
-    "tikName": "Лаганская"
+    "tikName": "Лаганская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 126,
     "uikTvd": "4084005156018",
+    "uikName": "УИК №126",
     "tikTvd": "2082000402616",
-    "tikName": "Малодербетовская"
+    "tikName": "Малодербетовская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 127,
     "uikTvd": "4084005156019",
+    "uikName": "УИК №127",
     "tikTvd": "2082000402616",
-    "tikName": "Малодербетовская"
+    "tikName": "Малодербетовская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 128,
     "uikTvd": "4084005156020",
+    "uikName": "УИК №128",
     "tikTvd": "2082000402616",
-    "tikName": "Малодербетовская"
+    "tikName": "Малодербетовская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 129,
     "uikTvd": "4084005156021",
+    "uikName": "УИК №129",
     "tikTvd": "2082000402616",
-    "tikName": "Малодербетовская"
+    "tikName": "Малодербетовская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 130,
     "uikTvd": "4084005156022",
+    "uikName": "УИК №130",
     "tikTvd": "2082000402616",
-    "tikName": "Малодербетовская"
+    "tikName": "Малодербетовская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 131,
     "uikTvd": "4084005156023",
+    "uikName": "УИК №131",
     "tikTvd": "2082000402616",
-    "tikName": "Малодербетовская"
+    "tikName": "Малодербетовская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 132,
     "uikTvd": "4084005156024",
+    "uikName": "УИК №132",
     "tikTvd": "2082000402616",
-    "tikName": "Малодербетовская"
+    "tikName": "Малодербетовская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 133,
     "uikTvd": "4084005156025",
+    "uikName": "УИК №133",
     "tikTvd": "2082000402616",
-    "tikName": "Малодербетовская"
+    "tikName": "Малодербетовская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 134,
     "uikTvd": "4084005156026",
+    "uikName": "УИК №134",
     "tikTvd": "2082000402616",
-    "tikName": "Малодербетовская"
+    "tikName": "Малодербетовская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 135,
     "uikTvd": "4084005156027",
+    "uikName": "УИК №135",
     "tikTvd": "2082000402616",
-    "tikName": "Малодербетовская"
+    "tikName": "Малодербетовская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 136,
     "uikTvd": "4084005156028",
+    "uikName": "УИК №136",
     "tikTvd": "2082000402616",
-    "tikName": "Малодербетовская"
+    "tikName": "Малодербетовская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 137,
     "uikTvd": "4084005156029",
+    "uikName": "УИК №137",
     "tikTvd": "2082000402616",
-    "tikName": "Малодербетовская"
+    "tikName": "Малодербетовская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 138,
     "uikTvd": "4084014134927",
+    "uikName": "УИК №138",
     "tikTvd": "2082000402629",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 139,
     "uikTvd": "4084014134928",
+    "uikName": "УИК №139",
     "tikTvd": "2082000402629",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 140,
     "uikTvd": "4084014134929",
+    "uikName": "УИК №140",
     "tikTvd": "2082000402629",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 141,
     "uikTvd": "4084014134930",
+    "uikName": "УИК №141",
     "tikTvd": "2082000402629",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 142,
     "uikTvd": "4084014134924",
+    "uikName": "УИК №142",
     "tikTvd": "2082000402629",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 143,
     "uikTvd": "4084014134931",
+    "uikName": "УИК №143",
     "tikTvd": "2082000402629",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 144,
     "uikTvd": "4084014134932",
+    "uikName": "УИК №144",
     "tikTvd": "2082000402629",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 145,
     "uikTvd": "4084014134933",
+    "uikName": "УИК №145",
     "tikTvd": "2082000402629",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 146,
     "uikTvd": "4084014134934",
+    "uikName": "УИК №146",
     "tikTvd": "2082000402629",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 147,
     "uikTvd": "4084014134935",
+    "uikName": "УИК №147",
     "tikTvd": "2082000402629",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 148,
     "uikTvd": "4084006165026",
+    "uikName": "УИК №148",
     "tikTvd": "2082000402621",
-    "tikName": "Приютненская"
+    "tikName": "Приютненская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 149,
     "uikTvd": "4084006165027",
+    "uikName": "УИК №149",
     "tikTvd": "2082000402621",
-    "tikName": "Приютненская"
+    "tikName": "Приютненская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 150,
     "uikTvd": "4084006165028",
+    "uikName": "УИК №150",
     "tikTvd": "2082000402621",
-    "tikName": "Приютненская"
+    "tikName": "Приютненская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 151,
     "uikTvd": "4084006165029",
+    "uikName": "УИК №151",
     "tikTvd": "2082000402621",
-    "tikName": "Приютненская"
+    "tikName": "Приютненская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 152,
     "uikTvd": "4084006165030",
+    "uikName": "УИК №152",
     "tikTvd": "2082000402621",
-    "tikName": "Приютненская"
+    "tikName": "Приютненская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 153,
     "uikTvd": "4084006165031",
+    "uikName": "УИК №153",
     "tikTvd": "2082000402621",
-    "tikName": "Приютненская"
+    "tikName": "Приютненская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 154,
     "uikTvd": "4084006165032",
+    "uikName": "УИК №154",
     "tikTvd": "2082000402621",
-    "tikName": "Приютненская"
+    "tikName": "Приютненская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 155,
     "uikTvd": "4084006165033",
+    "uikName": "УИК №155",
     "tikTvd": "2082000402621",
-    "tikName": "Приютненская"
+    "tikName": "Приютненская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 156,
     "uikTvd": "4084006165034",
+    "uikName": "УИК №156",
     "tikTvd": "2082000402621",
-    "tikName": "Приютненская"
+    "tikName": "Приютненская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 157,
     "uikTvd": "4084006165035",
+    "uikName": "УИК №157",
     "tikTvd": "2082000402621",
-    "tikName": "Приютненская"
+    "tikName": "Приютненская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 158,
     "uikTvd": "4084006165036",
+    "uikName": "УИК №158",
     "tikTvd": "2082000402621",
-    "tikName": "Приютненская"
+    "tikName": "Приютненская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 159,
     "uikTvd": "4084006165037",
+    "uikName": "УИК №159",
     "tikTvd": "2082000402621",
-    "tikName": "Приютненская"
+    "tikName": "Приютненская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 160,
     "uikTvd": "4084007149558",
+    "uikName": "УИК №160",
     "tikTvd": "2082000402617",
-    "tikName": "Сарпинская"
+    "tikName": "Сарпинская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 161,
     "uikTvd": "4084007149559",
+    "uikName": "УИК №161",
     "tikTvd": "2082000402617",
-    "tikName": "Сарпинская"
+    "tikName": "Сарпинская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 162,
     "uikTvd": "4084007149560",
+    "uikName": "УИК №162",
     "tikTvd": "2082000402617",
-    "tikName": "Сарпинская"
+    "tikName": "Сарпинская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 163,
     "uikTvd": "4084007149561",
+    "uikName": "УИК №163",
     "tikTvd": "2082000402617",
-    "tikName": "Сарпинская"
+    "tikName": "Сарпинская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 164,
     "uikTvd": "4084007149562",
+    "uikName": "УИК №164",
     "tikTvd": "2082000402617",
-    "tikName": "Сарпинская"
+    "tikName": "Сарпинская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 165,
     "uikTvd": "4084007149563",
+    "uikName": "УИК №165",
     "tikTvd": "2082000402617",
-    "tikName": "Сарпинская"
+    "tikName": "Сарпинская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 166,
     "uikTvd": "4084007149564",
+    "uikName": "УИК №166",
     "tikTvd": "2082000402617",
-    "tikName": "Сарпинская"
+    "tikName": "Сарпинская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 167,
     "uikTvd": "4084007149565",
+    "uikName": "УИК №167",
     "tikTvd": "2082000402617",
-    "tikName": "Сарпинская"
+    "tikName": "Сарпинская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 168,
     "uikTvd": "4084007149566",
+    "uikName": "УИК №168",
     "tikTvd": "2082000402617",
-    "tikName": "Сарпинская"
+    "tikName": "Сарпинская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 169,
     "uikTvd": "4084007149567",
+    "uikName": "УИК №169",
     "tikTvd": "2082000402617",
-    "tikName": "Сарпинская"
+    "tikName": "Сарпинская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 170,
     "uikTvd": "4084007149568",
+    "uikName": "УИК №170",
     "tikTvd": "2082000402617",
-    "tikName": "Сарпинская"
+    "tikName": "Сарпинская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 171,
     "uikTvd": "4084007149569",
+    "uikName": "УИК №171",
     "tikTvd": "2082000402617",
-    "tikName": "Сарпинская"
+    "tikName": "Сарпинская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 172,
     "uikTvd": "4084007149570",
+    "uikName": "УИК №172",
     "tikTvd": "2082000402617",
-    "tikName": "Сарпинская"
+    "tikName": "Сарпинская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 173,
     "uikTvd": "4084007149571",
+    "uikName": "УИК №173",
     "tikTvd": "2082000402617",
-    "tikName": "Сарпинская"
+    "tikName": "Сарпинская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 174,
     "uikTvd": "4084007149572",
+    "uikName": "УИК №174",
     "tikTvd": "2082000402617",
-    "tikName": "Сарпинская"
+    "tikName": "Сарпинская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 175,
     "uikTvd": "4084008164538",
+    "uikName": "УИК №175",
     "tikTvd": "2082000402624",
-    "tikName": "Целинная"
+    "tikName": "Целинная",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 176,
     "uikTvd": "4084008164539",
+    "uikName": "УИК №176",
     "tikTvd": "2082000402624",
-    "tikName": "Целинная"
+    "tikName": "Целинная",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 177,
     "uikTvd": "4084008164540",
+    "uikName": "УИК №177",
     "tikTvd": "2082000402624",
-    "tikName": "Целинная"
+    "tikName": "Целинная",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 178,
     "uikTvd": "4084008164541",
+    "uikName": "УИК №178",
     "tikTvd": "2082000402624",
-    "tikName": "Целинная"
+    "tikName": "Целинная",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 179,
     "uikTvd": "4084008164542",
+    "uikName": "УИК №179",
     "tikTvd": "2082000402624",
-    "tikName": "Целинная"
+    "tikName": "Целинная",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 180,
     "uikTvd": "4084008164543",
+    "uikName": "УИК №180",
     "tikTvd": "2082000402624",
-    "tikName": "Целинная"
+    "tikName": "Целинная",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 181,
     "uikTvd": "4084008164544",
+    "uikName": "УИК №181",
     "tikTvd": "2082000402624",
-    "tikName": "Целинная"
+    "tikName": "Целинная",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 182,
     "uikTvd": "4084008164545",
+    "uikName": "УИК №182",
     "tikTvd": "2082000402624",
-    "tikName": "Целинная"
+    "tikName": "Целинная",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 183,
     "uikTvd": "4084008164546",
+    "uikName": "УИК №183",
     "tikTvd": "2082000402624",
-    "tikName": "Целинная"
+    "tikName": "Целинная",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 184,
     "uikTvd": "4084008164547",
+    "uikName": "УИК №184",
     "tikTvd": "2082000402624",
-    "tikName": "Целинная"
+    "tikName": "Целинная",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 185,
     "uikTvd": "4084008164548",
+    "uikName": "УИК №185",
     "tikTvd": "2082000402624",
-    "tikName": "Целинная"
+    "tikName": "Целинная",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 186,
     "uikTvd": "4084008164549",
+    "uikName": "УИК №186",
     "tikTvd": "2082000402624",
-    "tikName": "Целинная"
+    "tikName": "Целинная",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 187,
     "uikTvd": "4084008164550",
+    "uikName": "УИК №187",
     "tikTvd": "2082000402624",
-    "tikName": "Целинная"
+    "tikName": "Целинная",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 188,
     "uikTvd": "4084008164551",
+    "uikName": "УИК №188",
     "tikTvd": "2082000402624",
-    "tikName": "Целинная"
+    "tikName": "Целинная",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 189,
     "uikTvd": "4084008164552",
+    "uikName": "УИК №189",
     "tikTvd": "2082000402624",
-    "tikName": "Целинная"
+    "tikName": "Целинная",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 190,
     "uikTvd": "4084008164553",
+    "uikName": "УИК №190",
     "tikTvd": "2082000402624",
-    "tikName": "Целинная"
+    "tikName": "Целинная",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 191,
     "uikTvd": "4084008164554",
+    "uikName": "УИК №191",
     "tikTvd": "2082000402624",
-    "tikName": "Целинная"
+    "tikName": "Целинная",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 192,
     "uikTvd": "4084008164555",
+    "uikName": "УИК №192",
     "tikTvd": "2082000402624",
-    "tikName": "Целинная"
+    "tikName": "Целинная",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 193,
     "uikTvd": "4084009142311",
+    "uikName": "УИК №193",
     "tikTvd": "2082000402620",
-    "tikName": "Черноземельская"
+    "tikName": "Черноземельская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 194,
     "uikTvd": "4084009142312",
+    "uikName": "УИК №194",
     "tikTvd": "2082000402620",
-    "tikName": "Черноземельская"
+    "tikName": "Черноземельская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 195,
     "uikTvd": "4084009142313",
+    "uikName": "УИК №195",
     "tikTvd": "2082000402620",
-    "tikName": "Черноземельская"
+    "tikName": "Черноземельская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 196,
     "uikTvd": "4084009142314",
+    "uikName": "УИК №196",
     "tikTvd": "2082000402620",
-    "tikName": "Черноземельская"
+    "tikName": "Черноземельская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 197,
     "uikTvd": "4084009142315",
+    "uikName": "УИК №197",
     "tikTvd": "2082000402620",
-    "tikName": "Черноземельская"
+    "tikName": "Черноземельская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 198,
     "uikTvd": "4084009142316",
+    "uikName": "УИК №198",
     "tikTvd": "2082000402620",
-    "tikName": "Черноземельская"
+    "tikName": "Черноземельская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 199,
     "uikTvd": "4084009142317",
+    "uikName": "УИК №199",
     "tikTvd": "2082000402620",
-    "tikName": "Черноземельская"
+    "tikName": "Черноземельская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 200,
     "uikTvd": "4084009142318",
+    "uikName": "УИК №200",
     "tikTvd": "2082000402620",
-    "tikName": "Черноземельская"
+    "tikName": "Черноземельская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 201,
     "uikTvd": "4084009142319",
+    "uikName": "УИК №201",
     "tikTvd": "2082000402620",
-    "tikName": "Черноземельская"
+    "tikName": "Черноземельская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 202,
     "uikTvd": "4084009142320",
+    "uikName": "УИК №202",
     "tikTvd": "2082000402620",
-    "tikName": "Черноземельская"
+    "tikName": "Черноземельская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 203,
     "uikTvd": "4084009142321",
+    "uikName": "УИК №203",
     "tikTvd": "2082000402620",
-    "tikName": "Черноземельская"
+    "tikName": "Черноземельская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 204,
     "uikTvd": "4084009142322",
+    "uikName": "УИК №204",
     "tikTvd": "2082000402620",
-    "tikName": "Черноземельская"
+    "tikName": "Черноземельская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 205,
     "uikTvd": "4084009142323",
+    "uikName": "УИК №205",
     "tikTvd": "2082000402620",
-    "tikName": "Черноземельская"
+    "tikName": "Черноземельская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 206,
     "uikTvd": "4084011180166",
+    "uikName": "УИК №206",
     "tikTvd": "2082000402619",
-    "tikName": "Юстинская"
+    "tikName": "Юстинская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 207,
     "uikTvd": "4084011180167",
+    "uikName": "УИК №207",
     "tikTvd": "2082000402619",
-    "tikName": "Юстинская"
+    "tikName": "Юстинская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 208,
     "uikTvd": "4084011180168",
+    "uikName": "УИК №208",
     "tikTvd": "2082000402619",
-    "tikName": "Юстинская"
+    "tikName": "Юстинская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 209,
     "uikTvd": "4084011180169",
+    "uikName": "УИК №209",
     "tikTvd": "2082000402619",
-    "tikName": "Юстинская"
+    "tikName": "Юстинская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 210,
     "uikTvd": "4084011180170",
+    "uikName": "УИК №210",
     "tikTvd": "2082000402619",
-    "tikName": "Юстинская"
+    "tikName": "Юстинская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 211,
     "uikTvd": "4084011180171",
+    "uikName": "УИК №211",
     "tikTvd": "2082000402619",
-    "tikName": "Юстинская"
+    "tikName": "Юстинская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 212,
     "uikTvd": "4084011180172",
+    "uikName": "УИК №212",
     "tikTvd": "2082000402619",
-    "tikName": "Юстинская"
+    "tikName": "Юстинская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 213,
     "uikTvd": "4084011180173",
+    "uikName": "УИК №213",
     "tikTvd": "2082000402619",
-    "tikName": "Юстинская"
+    "tikName": "Юстинская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 214,
     "uikTvd": "4084011180174",
+    "uikName": "УИК №214",
     "tikTvd": "2082000402619",
-    "tikName": "Юстинская"
+    "tikName": "Юстинская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 215,
     "uikTvd": "4084011180175",
+    "uikName": "УИК №215",
     "tikTvd": "2082000402619",
-    "tikName": "Юстинская"
+    "tikName": "Юстинская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 216,
     "uikTvd": "4084011180176",
+    "uikName": "УИК №216",
     "tikTvd": "2082000402619",
-    "tikName": "Юстинская"
+    "tikName": "Юстинская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 217,
     "uikTvd": "4084011180177",
+    "uikName": "УИК №217",
     "tikTvd": "2082000402619",
-    "tikName": "Юстинская"
+    "tikName": "Юстинская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 218,
     "uikTvd": "4084011180178",
+    "uikName": "УИК №218",
     "tikTvd": "2082000402619",
-    "tikName": "Юстинская"
+    "tikName": "Юстинская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 219,
     "uikTvd": "4084011180179",
+    "uikName": "УИК №219",
     "tikTvd": "2082000402619",
-    "tikName": "Юстинская"
+    "tikName": "Юстинская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 220,
     "uikTvd": "4084011180180",
+    "uikName": "УИК №220",
     "tikTvd": "2082000402619",
-    "tikName": "Юстинская"
+    "tikName": "Юстинская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 221,
     "uikTvd": "4084012148159",
+    "uikName": "УИК №221",
     "tikTvd": "2082000402625",
-    "tikName": "Яшалтинская"
+    "tikName": "Яшалтинская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 222,
     "uikTvd": "4084012148160",
+    "uikName": "УИК №222",
     "tikTvd": "2082000402625",
-    "tikName": "Яшалтинская"
+    "tikName": "Яшалтинская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 223,
     "uikTvd": "4084012148161",
+    "uikName": "УИК №223",
     "tikTvd": "2082000402625",
-    "tikName": "Яшалтинская"
+    "tikName": "Яшалтинская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 224,
     "uikTvd": "4084012148162",
+    "uikName": "УИК №224",
     "tikTvd": "2082000402625",
-    "tikName": "Яшалтинская"
+    "tikName": "Яшалтинская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 225,
     "uikTvd": "4084012148163",
+    "uikName": "УИК №225",
     "tikTvd": "2082000402625",
-    "tikName": "Яшалтинская"
+    "tikName": "Яшалтинская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 226,
     "uikTvd": "4084012148164",
+    "uikName": "УИК №226",
     "tikTvd": "2082000402625",
-    "tikName": "Яшалтинская"
+    "tikName": "Яшалтинская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 227,
     "uikTvd": "4084012148165",
+    "uikName": "УИК №227",
     "tikTvd": "2082000402625",
-    "tikName": "Яшалтинская"
+    "tikName": "Яшалтинская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 228,
     "uikTvd": "4084012148166",
+    "uikName": "УИК №228",
     "tikTvd": "2082000402625",
-    "tikName": "Яшалтинская"
+    "tikName": "Яшалтинская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 229,
     "uikTvd": "4084012148167",
+    "uikName": "УИК №229",
     "tikTvd": "2082000402625",
-    "tikName": "Яшалтинская"
+    "tikName": "Яшалтинская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 230,
     "uikTvd": "4084012148168",
+    "uikName": "УИК №230",
     "tikTvd": "2082000402625",
-    "tikName": "Яшалтинская"
+    "tikName": "Яшалтинская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 231,
     "uikTvd": "4084012148169",
+    "uikName": "УИК №231",
     "tikTvd": "2082000402625",
-    "tikName": "Яшалтинская"
+    "tikName": "Яшалтинская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 232,
     "uikTvd": "4084012148170",
+    "uikName": "УИК №232",
     "tikTvd": "2082000402625",
-    "tikName": "Яшалтинская"
+    "tikName": "Яшалтинская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 233,
     "uikTvd": "4084012148171",
+    "uikName": "УИК №233",
     "tikTvd": "2082000402625",
-    "tikName": "Яшалтинская"
+    "tikName": "Яшалтинская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 234,
     "uikTvd": "4084012148172",
+    "uikName": "УИК №234",
     "tikTvd": "2082000402625",
-    "tikName": "Яшалтинская"
+    "tikName": "Яшалтинская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 235,
     "uikTvd": "4084012148173",
+    "uikName": "УИК №235",
     "tikTvd": "2082000402625",
-    "tikName": "Яшалтинская"
+    "tikName": "Яшалтинская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 236,
     "uikTvd": "4084013156006",
+    "uikName": "УИК №236",
     "tikTvd": "2082000402623",
-    "tikName": "Яшкульская"
+    "tikName": "Яшкульская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 237,
     "uikTvd": "4084013156007",
+    "uikName": "УИК №237",
     "tikTvd": "2082000402623",
-    "tikName": "Яшкульская"
+    "tikName": "Яшкульская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 238,
     "uikTvd": "4084013156008",
+    "uikName": "УИК №238",
     "tikTvd": "2082000402623",
-    "tikName": "Яшкульская"
+    "tikName": "Яшкульская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 239,
     "uikTvd": "4084013156009",
+    "uikName": "УИК №239",
     "tikTvd": "2082000402623",
-    "tikName": "Яшкульская"
+    "tikName": "Яшкульская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 240,
     "uikTvd": "4084013156010",
+    "uikName": "УИК №240",
     "tikTvd": "2082000402623",
-    "tikName": "Яшкульская"
+    "tikName": "Яшкульская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 241,
     "uikTvd": "4084013156011",
+    "uikName": "УИК №241",
     "tikTvd": "2082000402623",
-    "tikName": "Яшкульская"
+    "tikName": "Яшкульская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 242,
     "uikTvd": "4084013156012",
+    "uikName": "УИК №242",
     "tikTvd": "2082000402623",
-    "tikName": "Яшкульская"
+    "tikName": "Яшкульская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 243,
     "uikTvd": "4084013156013",
+    "uikName": "УИК №243",
     "tikTvd": "2082000402623",
-    "tikName": "Яшкульская"
+    "tikName": "Яшкульская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 244,
     "uikTvd": "4084013156014",
+    "uikName": "УИК №244",
     "tikTvd": "2082000402623",
-    "tikName": "Яшкульская"
+    "tikName": "Яшкульская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 245,
     "uikTvd": "4084013156015",
+    "uikName": "УИК №245",
     "tikTvd": "2082000402623",
-    "tikName": "Яшкульская"
+    "tikName": "Яшкульская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 246,
     "uikTvd": "4084013156016",
+    "uikName": "УИК №246",
     "tikTvd": "2082000402623",
-    "tikName": "Яшкульская"
+    "tikName": "Яшкульская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 247,
     "uikTvd": "4084013156017",
+    "uikName": "УИК №247",
     "tikTvd": "2082000402623",
-    "tikName": "Яшкульская"
+    "tikName": "Яшкульская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 248,
     "uikTvd": "4084013156018",
+    "uikName": "УИК №248",
     "tikTvd": "2082000402623",
-    "tikName": "Яшкульская"
+    "tikName": "Яшкульская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 249,
     "uikTvd": "4084013156019",
+    "uikName": "УИК №249",
     "tikTvd": "2082000402623",
-    "tikName": "Яшкульская"
+    "tikName": "Яшкульская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 250,
     "uikTvd": "4084013156020",
+    "uikName": "УИК №250",
     "tikTvd": "2082000402623",
-    "tikName": "Яшкульская"
+    "tikName": "Яшкульская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   },
   {
     "uikNumber": 251,
     "uikTvd": "4084010195827",
+    "uikName": "УИК №251",
     "tikTvd": "2082000402628",
-    "tikName": "Элистинская городская"
+    "tikName": "Элистинская городская",
+    "regionCode": "8",
+    "regionTvd": "100100067795876",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100067795877",
+      "oikName": "Республика Калмыкия – Калмыцкий"
+    }
   }
 ] satisfies readonly UikTikRelation[];

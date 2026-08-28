@@ -11,6 +11,9 @@ export const president_2012_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000559339",
     "tikName": "Нурлатская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 18364,
@@ -102,6 +105,9 @@ export const president_2012_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000559340",
     "tikName": "Чистопольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 14618,
@@ -185,6 +191,9 @@ export const president_2012_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000559341",
     "tikName": "Бавлинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10882,
@@ -254,6 +263,9 @@ export const president_2012_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000559342",
     "tikName": "Нижнекамская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 29328,
@@ -334,6 +346,9 @@ export const president_2012_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000559343",
     "tikName": "Лениногорская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 17367,
@@ -414,6 +429,9 @@ export const president_2012_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000559344",
     "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 58,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 47195,
@@ -519,6 +537,9 @@ export const president_2012_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000559345",
     "tikName": "Бугульминская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 16139,
@@ -596,6 +617,9 @@ export const president_2012_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000559346",
     "tikName": "Заинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 11608,
@@ -687,6 +711,9 @@ export const president_2012_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000559347",
     "tikName": "Елабужская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 8128,
@@ -757,6 +784,9 @@ export const president_2012_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000559348",
     "tikName": "Азнакаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 23458,
@@ -846,6 +876,9 @@ export const president_2012_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000559349",
     "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 54,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 36953,
@@ -947,6 +980,9 @@ export const president_2012_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000559350",
     "tikName": "Ютазинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 17519,
@@ -1026,6 +1062,9 @@ export const president_2012_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000559351",
     "tikName": "Чистопольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 49263,
@@ -1104,6 +1143,9 @@ export const president_2012_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000559352",
     "tikName": "Черемшанская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 12883,
@@ -1185,6 +1227,9 @@ export const president_2012_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000559353",
     "tikName": "Тюлячинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10822,
@@ -1260,6 +1305,9 @@ export const president_2012_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000559354",
     "tikName": "Тетюшская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 47,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 18952,
@@ -1354,6 +1402,9 @@ export const president_2012_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000559355",
     "tikName": "Спасская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 15998,
@@ -1440,6 +1491,9 @@ export const president_2012_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000559356",
     "tikName": "Тукаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 26814,
@@ -1530,6 +1584,9 @@ export const president_2012_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000559357",
     "tikName": "Сабинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 24329,
@@ -1617,6 +1674,9 @@ export const president_2012_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000559358",
     "tikName": "Сармановская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 56,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 27944,
@@ -1720,6 +1780,9 @@ export const president_2012_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000559359",
     "tikName": "Рыбно-Слободская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 51,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 22167,
@@ -1818,6 +1881,9 @@ export const president_2012_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000559360",
     "tikName": "Новошешминская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 11613,
@@ -1892,6 +1958,9 @@ export const president_2012_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000559361",
     "tikName": "Нурлатская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 25890,
@@ -1954,6 +2023,9 @@ export const president_2012_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000559362",
     "tikName": "Пестречинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 21841,
@@ -2031,6 +2103,9 @@ export const president_2012_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000559363",
     "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 80,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 172863,
@@ -2158,6 +2233,9 @@ export const president_2012_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000559364",
     "tikName": "Набережные Челны, Автозаводская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 55,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 115663,
@@ -2260,6 +2338,9 @@ export const president_2012_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000559365",
     "tikName": "Муслюмовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 16945,
@@ -2343,6 +2424,9 @@ export const president_2012_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000559366",
     "tikName": "Мензелинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 51,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 21991,
@@ -2441,6 +2525,9 @@ export const president_2012_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000559367",
     "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 58,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 33361,
@@ -2546,6 +2633,9 @@ export const president_2012_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000559368",
     "tikName": "Менделеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 21191,
@@ -2624,6 +2714,9 @@ export const president_2012_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000559369",
     "tikName": "Лениногорская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 49832,
@@ -2695,6 +2788,9 @@ export const president_2012_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000559370",
     "tikName": "Кукморская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 69,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 39603,
@@ -2811,6 +2907,9 @@ export const president_2012_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000559371",
     "tikName": "Лаишевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 53,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 27392,
@@ -2911,6 +3010,9 @@ export const president_2012_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000559372",
     "tikName": "Кайбицкая",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10609,
@@ -2992,6 +3094,9 @@ export const president_2012_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000559373",
     "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 102,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 220330,
@@ -3141,6 +3246,9 @@ export const president_2012_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000559374",
     "tikName": "Камско-Устьинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 13607,
@@ -3227,6 +3335,9 @@ export const president_2012_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000559375",
     "tikName": "Казань, Ново-Савиновская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 74,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 168712,
@@ -3348,6 +3459,9 @@ export const president_2012_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000559376",
     "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 51,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 101177,
@@ -3446,6 +3560,9 @@ export const president_2012_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000559377",
     "tikName": "Казань, Кировская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 48,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 81890,
@@ -3541,6 +3658,9 @@ export const president_2012_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000559378",
     "tikName": "Казань, Приволжская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 87,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 181939,
@@ -3675,6 +3795,9 @@ export const president_2012_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000559379",
     "tikName": "Заинская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 31905,
@@ -3747,6 +3870,9 @@ export const president_2012_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000559380",
     "tikName": "Казань, Вахитовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 48,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 67566,
@@ -3842,6 +3968,9 @@ export const president_2012_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000559381",
     "tikName": "Зеленодольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 77972,
@@ -3925,6 +4054,9 @@ export const president_2012_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000559382",
     "tikName": "Казань, Авиастроительная",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 91436,
@@ -4012,6 +4144,9 @@ export const president_2012_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000559383",
     "tikName": "Дрожжановская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 18882,
@@ -4097,6 +4232,9 @@ export const president_2012_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000559384",
     "tikName": "Елабужская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 52592,
@@ -4182,6 +4320,9 @@ export const president_2012_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000559385",
     "tikName": "Верхнеуслонская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 14058,
@@ -4270,6 +4411,9 @@ export const president_2012_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000559386",
     "tikName": "Балтасинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 25666,
@@ -4350,6 +4494,9 @@ export const president_2012_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000559387",
     "tikName": "Буинская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 15807,
@@ -4412,6 +4559,9 @@ export const president_2012_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000559388",
     "tikName": "Бугульминская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 66258,
@@ -4509,6 +4659,9 @@ export const president_2012_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000559389",
     "tikName": "Арская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 62,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 38756,
@@ -4618,6 +4771,9 @@ export const president_2012_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000559390",
     "tikName": "Бавлинская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 17505,
@@ -4681,6 +4837,9 @@ export const president_2012_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000559391",
     "tikName": "Атнинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10488,
@@ -4753,6 +4912,9 @@ export const president_2012_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000559392",
     "tikName": "Алькеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 49,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 15193,
@@ -4849,6 +5011,9 @@ export const president_2012_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000559393",
     "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 59,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 109500,
@@ -4955,6 +5120,9 @@ export const president_2012_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000559394",
     "tikName": "Апастовская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 57,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 15850,
@@ -5059,6 +5227,9 @@ export const president_2012_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000559395",
     "tikName": "Актанышская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 23221,
@@ -5152,6 +5323,9 @@ export const president_2012_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000559396",
     "tikName": "Аксубаевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 49,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 22836,
@@ -5248,6 +5422,9 @@ export const president_2012_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000559397",
     "tikName": "Алексеевская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 19905,
@@ -5345,6 +5522,9 @@ export const president_2012_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000559398",
     "tikName": "Агрызская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 25995,
@@ -5442,6 +5622,9 @@ export const president_2012_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000559399",
     "tikName": "Азнакаевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 28226,
@@ -5509,6 +5692,9 @@ export const president_2012_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000559400",
     "tikName": "Высокогорская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 48,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 32889,
@@ -5604,6 +5790,9 @@ export const president_2012_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000559401",
     "tikName": "Буинская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 67,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 18801,
@@ -5718,6 +5907,9 @@ export const president_2012_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000559402",
     "tikName": "Набережные Челны, Комсомольская",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 89645,
@@ -5809,6 +6001,9 @@ export const president_2012_tic_227_region_16 = [
     "ballot": "presidential",
     "tikTvd": "2162000559403",
     "tikName": "Набережные Челны, Центральная",
+    "regionCode": "16",
+    "regionTvd": "100100031793884",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 63,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 138175,

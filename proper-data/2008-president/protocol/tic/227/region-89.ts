@@ -11,6 +11,9 @@ export const president_2008_tic_227_region_89 = [
     "ballot": "presidential",
     "tikTvd": "2892000128733",
     "tikName": "Муравленковская городская",
+    "regionCode": "89",
+    "regionTvd": "100100022249921",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "uikCount": 10,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 23322,
@@ -68,6 +71,9 @@ export const president_2008_tic_227_region_89 = [
     "ballot": "presidential",
     "tikTvd": "2892000128734",
     "tikName": "Лабытнангская городская",
+    "regionCode": "89",
+    "regionTvd": "100100022249921",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 19403,
@@ -129,6 +135,9 @@ export const president_2008_tic_227_region_89 = [
     "ballot": "presidential",
     "tikTvd": "2892000128735",
     "tikName": "Красноселькупская",
+    "regionCode": "89",
+    "regionTvd": "100100022249921",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "uikCount": 3,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 5462,
@@ -179,6 +188,9 @@ export const president_2008_tic_227_region_89 = [
     "ballot": "presidential",
     "tikTvd": "2892000128736",
     "tikName": "Ямальская",
+    "regionCode": "89",
+    "regionTvd": "100100022249921",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "uikCount": 7,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 9112,
@@ -233,6 +245,9 @@ export const president_2008_tic_227_region_89 = [
     "ballot": "presidential",
     "tikTvd": "2892000128737",
     "tikName": "Губкинская городская",
+    "regionCode": "89",
+    "regionTvd": "100100022249921",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "uikCount": 8,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 13250,
@@ -288,6 +303,9 @@ export const president_2008_tic_227_region_89 = [
     "ballot": "presidential",
     "tikTvd": "2892000128738",
     "tikName": "Тазовская",
+    "regionCode": "89",
+    "regionTvd": "100100022249921",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 12297,
@@ -346,6 +364,9 @@ export const president_2008_tic_227_region_89 = [
     "ballot": "presidential",
     "tikTvd": "2892000128739",
     "tikName": "Салехардская городская",
+    "regionCode": "89",
+    "regionTvd": "100100022249921",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 23457,
@@ -405,6 +426,9 @@ export const president_2008_tic_227_region_89 = [
     "ballot": "presidential",
     "tikTvd": "2892000128740",
     "tikName": "Шурышкарская",
+    "regionCode": "89",
+    "regionTvd": "100100022249921",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "uikCount": 8,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 5741,
@@ -460,6 +484,9 @@ export const president_2008_tic_227_region_89 = [
     "ballot": "presidential",
     "tikTvd": "2892000128741",
     "tikName": "Ноябрьская городская",
+    "regionCode": "89",
+    "regionTvd": "100100022249921",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 77857,
@@ -544,6 +571,9 @@ export const president_2008_tic_227_region_89 = [
     "ballot": "presidential",
     "tikTvd": "2892000128742",
     "tikName": "Приуральская",
+    "regionCode": "89",
+    "regionTvd": "100100022249921",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "uikCount": 6,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 8554,
@@ -597,6 +627,9 @@ export const president_2008_tic_227_region_89 = [
     "ballot": "presidential",
     "tikTvd": "2892000128743",
     "tikName": "Пуровская",
+    "regionCode": "89",
+    "regionTvd": "100100022249921",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 35903,
@@ -664,6 +697,9 @@ export const president_2008_tic_227_region_89 = [
     "ballot": "presidential",
     "tikTvd": "2892000128744",
     "tikName": "Новоуренгойская городская",
+    "regionCode": "89",
+    "regionTvd": "100100022249921",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 65023,
@@ -751,6 +787,9 @@ export const president_2008_tic_227_region_89 = [
     "ballot": "presidential",
     "tikTvd": "2892000128745",
     "tikName": "Надымская",
+    "regionCode": "89",
+    "regionTvd": "100100022249921",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 49126,

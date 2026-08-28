@@ -1,9 +1,12 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "election": "2016-duma",
   "regions": [
     {
       "region": "1",
+      "regionCode": "1",
+      "regionTvd": "100100067795855",
+      "regionName": "Республика Адыгея (Адыгея)",
       "discovered_tik_count": 9,
       "discovered_uik_count": 264,
       "uiks_with_party_results": 263,
@@ -16,7 +19,117 @@
       "reconciliation_status": "passed"
     },
     {
+      "region": "2",
+      "regionCode": "2",
+      "regionTvd": "100100067795857",
+      "regionName": "Республика Алтай",
+      "discovered_tik_count": 11,
+      "discovered_uik_count": 242,
+      "uiks_with_party_results": 242,
+      "uiks_with_candidate_results": 242,
+      "uiks_with_known_tik": 242,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "3",
+      "regionCode": "3",
+      "regionTvd": "100100067795859",
+      "regionName": "Республика Башкортостан",
+      "discovered_tik_count": 71,
+      "discovered_uik_count": 3426,
+      "uiks_with_party_results": 3426,
+      "uiks_with_candidate_results": 3426,
+      "uiks_with_known_tik": 3426,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "4",
+      "regionCode": "4",
+      "regionTvd": "100100067795866",
+      "regionName": "Республика Бурятия",
+      "discovered_tik_count": 25,
+      "discovered_uik_count": 839,
+      "uiks_with_party_results": 839,
+      "uiks_with_candidate_results": 839,
+      "uiks_with_known_tik": 839,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "5",
+      "regionCode": "5",
+      "regionTvd": "100100067795868",
+      "regionName": "Республика Дагестан",
+      "discovered_tik_count": 54,
+      "discovered_uik_count": 1915,
+      "uiks_with_party_results": 1914,
+      "uiks_with_candidate_results": 1914,
+      "uiks_with_known_tik": 1915,
+      "missing_report_types": [
+        "party",
+        "candidate"
+      ],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "6",
+      "regionCode": "6",
+      "regionTvd": "100100067795872",
+      "regionName": "Республика Ингушетия",
+      "discovered_tik_count": 8,
+      "discovered_uik_count": 136,
+      "uiks_with_party_results": 136,
+      "uiks_with_candidate_results": 136,
+      "uiks_with_known_tik": 136,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "7",
+      "regionCode": "7",
+      "regionTvd": "100100067795874",
+      "regionName": "Кабардино-Балкарская Республика",
+      "discovered_tik_count": 13,
+      "discovered_uik_count": 354,
+      "uiks_with_party_results": 354,
+      "uiks_with_candidate_results": 354,
+      "uiks_with_known_tik": 354,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "8",
+      "regionCode": "8",
+      "regionTvd": "100100067795876",
+      "regionName": "Республика Калмыкия",
+      "discovered_tik_count": 14,
+      "discovered_uik_count": 251,
+      "uiks_with_party_results": 251,
+      "uiks_with_candidate_results": 251,
+      "uiks_with_known_tik": 251,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "9",
+      "regionCode": "9",
+      "regionTvd": "100100067795878",
+      "regionName": "Карачаево-Черкесская Республика",
+      "discovered_tik_count": 12,
+      "discovered_uik_count": 249,
+      "uiks_with_party_results": 249,
+      "uiks_with_candidate_results": 249,
+      "uiks_with_known_tik": 249,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
       "region": "10",
+      "regionCode": "10",
+      "regionTvd": "100100067795880",
+      "regionName": "Республика Карелия",
       "discovered_tik_count": 19,
       "discovered_uik_count": 469,
       "uiks_with_party_results": 469,
@@ -27,6 +140,9 @@
     },
     {
       "region": "11",
+      "regionCode": "11",
+      "regionTvd": "100100067795882",
+      "regionName": "Республика Коми",
       "discovered_tik_count": 21,
       "discovered_uik_count": 669,
       "uiks_with_party_results": 669,
@@ -37,6 +153,9 @@
     },
     {
       "region": "12",
+      "regionCode": "12",
+      "regionTvd": "100100067795884",
+      "regionName": "Республика Марий Эл",
       "discovered_tik_count": 18,
       "discovered_uik_count": 531,
       "uiks_with_party_results": 531,
@@ -47,6 +166,9 @@
     },
     {
       "region": "13",
+      "regionCode": "13",
+      "regionTvd": "100100067795886",
+      "regionName": "Республика Мордовия",
       "discovered_tik_count": 25,
       "discovered_uik_count": 804,
       "uiks_with_party_results": 803,
@@ -60,6 +182,9 @@
     },
     {
       "region": "14",
+      "regionCode": "14",
+      "regionTvd": "100100067795888",
+      "regionName": "Республика Саха (Якутия)",
       "discovered_tik_count": 35,
       "discovered_uik_count": 811,
       "uiks_with_party_results": 811,
@@ -70,6 +195,9 @@
     },
     {
       "region": "15",
+      "regionCode": "15",
+      "regionTvd": "100100067795890",
+      "regionName": "Республика Северная Осетия - Алания",
       "discovered_tik_count": 10,
       "discovered_uik_count": 378,
       "uiks_with_party_results": 378,
@@ -80,6 +208,9 @@
     },
     {
       "region": "16",
+      "regionCode": "16",
+      "regionTvd": "100100067795892",
+      "regionName": "Республика Татарстан (Татарстан)",
       "discovered_tik_count": 65,
       "discovered_uik_count": 2824,
       "uiks_with_party_results": 2824,
@@ -90,6 +221,9 @@
     },
     {
       "region": "17",
+      "regionCode": "17",
+      "regionTvd": "100100067795899",
+      "regionName": "Республика Тыва",
       "discovered_tik_count": 19,
       "discovered_uik_count": 183,
       "uiks_with_party_results": 183,
@@ -100,6 +234,9 @@
     },
     {
       "region": "18",
+      "regionCode": "18",
+      "regionTvd": "100100067795901",
+      "regionName": "Удмуртская Республика",
       "discovered_tik_count": 35,
       "discovered_uik_count": 1203,
       "uiks_with_party_results": 1203,
@@ -110,6 +247,9 @@
     },
     {
       "region": "19",
+      "regionCode": "19",
+      "regionTvd": "100100067795904",
+      "regionName": "Республика Хакасия",
       "discovered_tik_count": 13,
       "discovered_uik_count": 393,
       "uiks_with_party_results": 393,
@@ -119,17 +259,10 @@
       "reconciliation_status": "passed"
     },
     {
-      "region": "2",
-      "discovered_tik_count": 11,
-      "discovered_uik_count": 242,
-      "uiks_with_party_results": 242,
-      "uiks_with_candidate_results": 242,
-      "uiks_with_known_tik": 242,
-      "missing_report_types": [],
-      "reconciliation_status": "passed"
-    },
-    {
       "region": "20",
+      "regionCode": "20",
+      "regionTvd": "100100067795906",
+      "regionName": "Чеченская Республика",
       "discovered_tik_count": 20,
       "discovered_uik_count": 468,
       "uiks_with_party_results": 468,
@@ -140,6 +273,9 @@
     },
     {
       "region": "21",
+      "regionCode": "21",
+      "regionTvd": "100100067795908",
+      "regionName": "Чувашская Республика - Чувашия",
       "discovered_tik_count": 29,
       "discovered_uik_count": 1184,
       "uiks_with_party_results": 1184,
@@ -150,6 +286,9 @@
     },
     {
       "region": "22",
+      "regionCode": "22",
+      "regionTvd": "100100067795911",
+      "regionName": "Алтайский край",
       "discovered_tik_count": 74,
       "discovered_uik_count": 1882,
       "uiks_with_party_results": 1882,
@@ -160,6 +299,9 @@
     },
     {
       "region": "23",
+      "regionCode": "23",
+      "regionTvd": "100100067795916",
+      "regionName": "Краснодарский край",
       "discovered_tik_count": 60,
       "discovered_uik_count": 2750,
       "uiks_with_party_results": 2750,
@@ -170,6 +312,9 @@
     },
     {
       "region": "24",
+      "regionCode": "24",
+      "regionTvd": "100100067795925",
+      "regionName": "Красноярский край",
       "discovered_tik_count": 72,
       "discovered_uik_count": 2196,
       "uiks_with_party_results": 2196,
@@ -180,6 +325,9 @@
     },
     {
       "region": "25",
+      "regionCode": "25",
+      "regionTvd": "100100067795930",
+      "regionName": "Приморский край",
       "discovered_tik_count": 38,
       "discovered_uik_count": 1488,
       "uiks_with_party_results": 1488,
@@ -190,6 +338,9 @@
     },
     {
       "region": "26",
+      "regionCode": "26",
+      "regionTvd": "100100067795934",
+      "regionName": "Ставропольский край",
       "discovered_tik_count": 37,
       "discovered_uik_count": 1288,
       "uiks_with_party_results": 1288,
@@ -200,6 +351,9 @@
     },
     {
       "region": "27",
+      "regionCode": "27",
+      "regionTvd": "100100067795939",
+      "regionName": "Хабаровский край",
       "discovered_tik_count": 24,
       "discovered_uik_count": 824,
       "uiks_with_party_results": 824,
@@ -210,6 +364,9 @@
     },
     {
       "region": "28",
+      "regionCode": "28",
+      "regionTvd": "100100067795942",
+      "regionName": "Амурская область",
       "discovered_tik_count": 29,
       "discovered_uik_count": 765,
       "uiks_with_party_results": 765,
@@ -220,6 +377,9 @@
     },
     {
       "region": "29",
+      "regionCode": "29",
+      "regionTvd": "100100067795944",
+      "regionName": "Архангельская область",
       "discovered_tik_count": 32,
       "discovered_uik_count": 942,
       "uiks_with_party_results": 942,
@@ -229,17 +389,10 @@
       "reconciliation_status": "passed"
     },
     {
-      "region": "3",
-      "discovered_tik_count": 71,
-      "discovered_uik_count": 3426,
-      "uiks_with_party_results": 3426,
-      "uiks_with_candidate_results": 3426,
-      "uiks_with_known_tik": 3426,
-      "missing_report_types": [],
-      "reconciliation_status": "passed"
-    },
-    {
       "region": "30",
+      "regionCode": "30",
+      "regionTvd": "100100067795947",
+      "regionName": "Астраханская область",
       "discovered_tik_count": 16,
       "discovered_uik_count": 618,
       "uiks_with_party_results": 618,
@@ -250,6 +403,9 @@
     },
     {
       "region": "31",
+      "regionCode": "31",
+      "regionTvd": "100100067795949",
+      "regionName": "Белгородская область",
       "discovered_tik_count": 22,
       "discovered_uik_count": 1252,
       "uiks_with_party_results": 1251,
@@ -263,6 +419,9 @@
     },
     {
       "region": "32",
+      "regionCode": "32",
+      "regionTvd": "100100067795952",
+      "regionName": "Брянская область",
       "discovered_tik_count": 35,
       "discovered_uik_count": 1125,
       "uiks_with_party_results": 1125,
@@ -273,6 +432,9 @@
     },
     {
       "region": "33",
+      "regionCode": "33",
+      "regionTvd": "100100067795955",
+      "regionName": "Владимирская область",
       "discovered_tik_count": 23,
       "discovered_uik_count": 982,
       "uiks_with_party_results": 982,
@@ -283,6 +445,9 @@
     },
     {
       "region": "34",
+      "regionCode": "34",
+      "regionTvd": "100100067795958",
+      "regionName": "Волгоградская область",
       "discovered_tik_count": 47,
       "discovered_uik_count": 1542,
       "uiks_with_party_results": 1542,
@@ -293,6 +458,9 @@
     },
     {
       "region": "35",
+      "regionCode": "35",
+      "regionTvd": "100100067795963",
+      "regionName": "Вологодская область",
       "discovered_tik_count": 28,
       "discovered_uik_count": 1006,
       "uiks_with_party_results": 1006,
@@ -303,6 +471,9 @@
     },
     {
       "region": "36",
+      "regionCode": "36",
+      "regionTvd": "100100067795966",
+      "regionName": "Воронежская область",
       "discovered_tik_count": 39,
       "discovered_uik_count": 1719,
       "uiks_with_party_results": 1719,
@@ -313,6 +484,9 @@
     },
     {
       "region": "37",
+      "regionCode": "37",
+      "regionTvd": "100100067795971",
+      "regionName": "Ивановская область",
       "discovered_tik_count": 31,
       "discovered_uik_count": 800,
       "uiks_with_party_results": 800,
@@ -323,6 +497,9 @@
     },
     {
       "region": "38",
+      "regionCode": "38",
+      "regionTvd": "100100067795974",
+      "regionName": "Иркутская область",
       "discovered_tik_count": 47,
       "discovered_uik_count": 1956,
       "uiks_with_party_results": 1956,
@@ -333,6 +510,9 @@
     },
     {
       "region": "39",
+      "regionCode": "39",
+      "regionTvd": "100100067795979",
+      "regionName": "Калининградская область",
       "discovered_tik_count": 25,
       "discovered_uik_count": 590,
       "uiks_with_party_results": 589,
@@ -345,17 +525,10 @@
       "reconciliation_status": "passed"
     },
     {
-      "region": "4",
-      "discovered_tik_count": 25,
-      "discovered_uik_count": 839,
-      "uiks_with_party_results": 839,
-      "uiks_with_candidate_results": 839,
-      "uiks_with_known_tik": 839,
-      "missing_report_types": [],
-      "reconciliation_status": "passed"
-    },
-    {
       "region": "40",
+      "regionCode": "40",
+      "regionTvd": "100100067795982",
+      "regionName": "Калужская область",
       "discovered_tik_count": 28,
       "discovered_uik_count": 732,
       "uiks_with_party_results": 732,
@@ -366,6 +539,9 @@
     },
     {
       "region": "42",
+      "regionCode": "42",
+      "regionTvd": "100100067795985",
+      "regionName": "Кемеровская область",
       "discovered_tik_count": 49,
       "discovered_uik_count": 1761,
       "uiks_with_party_results": 1761,
@@ -376,6 +552,9 @@
     },
     {
       "region": "43",
+      "regionCode": "43",
+      "regionTvd": "100100067795990",
+      "regionName": "Кировская область",
       "discovered_tik_count": 48,
       "discovered_uik_count": 1183,
       "uiks_with_party_results": 1183,
@@ -386,6 +565,9 @@
     },
     {
       "region": "44",
+      "regionCode": "44",
+      "regionTvd": "100100067795993",
+      "regionName": "Костромская область",
       "discovered_tik_count": 30,
       "discovered_uik_count": 600,
       "uiks_with_party_results": 600,
@@ -396,6 +578,9 @@
     },
     {
       "region": "45",
+      "regionCode": "45",
+      "regionTvd": "100100067795995",
+      "regionName": "Курганская область",
       "discovered_tik_count": 27,
       "discovered_uik_count": 992,
       "uiks_with_party_results": 992,
@@ -406,6 +591,9 @@
     },
     {
       "region": "46",
+      "regionCode": "46",
+      "regionTvd": "100100067795997",
+      "regionName": "Курская область",
       "discovered_tik_count": 36,
       "discovered_uik_count": 1161,
       "uiks_with_party_results": 1161,
@@ -416,6 +604,9 @@
     },
     {
       "region": "47",
+      "regionCode": "47",
+      "regionTvd": "100100067796000",
+      "regionName": "Ленинградская область",
       "discovered_tik_count": 19,
       "discovered_uik_count": 976,
       "uiks_with_party_results": 976,
@@ -426,6 +617,9 @@
     },
     {
       "region": "48",
+      "regionCode": "48",
+      "regionTvd": "100100067796004",
+      "regionName": "Липецкая область",
       "discovered_tik_count": 25,
       "discovered_uik_count": 915,
       "uiks_with_party_results": 915,
@@ -436,6 +630,9 @@
     },
     {
       "region": "49",
+      "regionCode": "49",
+      "regionTvd": "100100067796007",
+      "regionName": "Магаданская область",
       "discovered_tik_count": 10,
       "discovered_uik_count": 107,
       "uiks_with_party_results": 107,
@@ -445,20 +642,10 @@
       "reconciliation_status": "passed"
     },
     {
-      "region": "5",
-      "discovered_tik_count": 54,
-      "discovered_uik_count": 1915,
-      "uiks_with_party_results": 1914,
-      "uiks_with_candidate_results": 1914,
-      "uiks_with_known_tik": 1915,
-      "missing_report_types": [
-        "party",
-        "candidate"
-      ],
-      "reconciliation_status": "passed"
-    },
-    {
       "region": "50",
+      "regionCode": "50",
+      "regionTvd": "100100067796009",
+      "regionName": "Московская область",
       "discovered_tik_count": 70,
       "discovered_uik_count": 3625,
       "uiks_with_party_results": 3625,
@@ -469,6 +656,9 @@
     },
     {
       "region": "51",
+      "regionCode": "51",
+      "regionTvd": "100100067796021",
+      "regionName": "Мурманская область",
       "discovered_tik_count": 17,
       "discovered_uik_count": 581,
       "uiks_with_party_results": 581,
@@ -479,6 +669,9 @@
     },
     {
       "region": "52",
+      "regionCode": "52",
+      "regionTvd": "100100067796023",
+      "regionName": "Нижегородская область",
       "discovered_tik_count": 62,
       "discovered_uik_count": 2466,
       "uiks_with_party_results": 2455,
@@ -492,6 +685,9 @@
     },
     {
       "region": "53",
+      "regionCode": "53",
+      "regionTvd": "100100067796029",
+      "regionName": "Новгородская область",
       "discovered_tik_count": 22,
       "discovered_uik_count": 544,
       "uiks_with_party_results": 544,
@@ -502,6 +698,9 @@
     },
     {
       "region": "54",
+      "regionCode": "54",
+      "regionTvd": "100100067796031",
+      "regionName": "Новосибирская область",
       "discovered_tik_count": 47,
       "discovered_uik_count": 2031,
       "uiks_with_party_results": 2031,
@@ -512,6 +711,9 @@
     },
     {
       "region": "55",
+      "regionCode": "55",
+      "regionTvd": "100100067796036",
+      "regionName": "Омская область",
       "discovered_tik_count": 39,
       "discovered_uik_count": 1808,
       "uiks_with_party_results": 1808,
@@ -522,6 +724,9 @@
     },
     {
       "region": "56",
+      "regionCode": "56",
+      "regionTvd": "100100067796040",
+      "regionName": "Оренбургская область",
       "discovered_tik_count": 47,
       "discovered_uik_count": 1766,
       "uiks_with_party_results": 1766,
@@ -532,6 +737,9 @@
     },
     {
       "region": "57",
+      "regionCode": "57",
+      "regionTvd": "100100067796044",
+      "regionName": "Орловская область",
       "discovered_tik_count": 30,
       "discovered_uik_count": 736,
       "uiks_with_party_results": 736,
@@ -542,6 +750,9 @@
     },
     {
       "region": "58",
+      "regionCode": "58",
+      "regionTvd": "100100067796046",
+      "regionName": "Пензенская область",
       "discovered_tik_count": 33,
       "discovered_uik_count": 1105,
       "uiks_with_party_results": 1105,
@@ -551,17 +762,10 @@
       "reconciliation_status": "passed"
     },
     {
-      "region": "6",
-      "discovered_tik_count": 8,
-      "discovered_uik_count": 136,
-      "uiks_with_party_results": 136,
-      "uiks_with_candidate_results": 136,
-      "uiks_with_known_tik": 136,
-      "missing_report_types": [],
-      "reconciliation_status": "passed"
-    },
-    {
       "region": "60",
+      "regionCode": "60",
+      "regionTvd": "100100067796049",
+      "regionName": "Псковская область",
       "discovered_tik_count": 26,
       "discovered_uik_count": 639,
       "uiks_with_party_results": 639,
@@ -572,6 +776,9 @@
     },
     {
       "region": "61",
+      "regionCode": "61",
+      "regionTvd": "100100067796051",
+      "regionName": "Ростовская область",
       "discovered_tik_count": 64,
       "discovered_uik_count": 2633,
       "uiks_with_party_results": 2632,
@@ -585,6 +792,9 @@
     },
     {
       "region": "62",
+      "regionCode": "62",
+      "regionTvd": "100100067796059",
+      "regionName": "Рязанская область",
       "discovered_tik_count": 33,
       "discovered_uik_count": 1028,
       "uiks_with_party_results": 1028,
@@ -595,6 +805,9 @@
     },
     {
       "region": "63",
+      "regionCode": "63",
+      "regionTvd": "100100067796062",
+      "regionName": "Самарская область",
       "discovered_tik_count": 51,
       "discovered_uik_count": 1776,
       "uiks_with_party_results": 1776,
@@ -605,6 +818,9 @@
     },
     {
       "region": "64",
+      "regionCode": "64",
+      "regionTvd": "100100067796068",
+      "regionName": "Саратовская область",
       "discovered_tik_count": 49,
       "discovered_uik_count": 1890,
       "uiks_with_party_results": 1890,
@@ -615,6 +831,9 @@
     },
     {
       "region": "65",
+      "regionCode": "65",
+      "regionTvd": "100100067796073",
+      "regionName": "Сахалинская область",
       "discovered_tik_count": 20,
       "discovered_uik_count": 473,
       "uiks_with_party_results": 473,
@@ -625,6 +844,9 @@
     },
     {
       "region": "66",
+      "regionCode": "66",
+      "regionTvd": "100100067796075",
+      "regionName": "Свердловская область",
       "discovered_tik_count": 81,
       "discovered_uik_count": 2538,
       "uiks_with_party_results": 2538,
@@ -635,6 +857,9 @@
     },
     {
       "region": "67",
+      "regionCode": "67",
+      "regionTvd": "100100067796083",
+      "regionName": "Смоленская область",
       "discovered_tik_count": 30,
       "discovered_uik_count": 809,
       "uiks_with_party_results": 809,
@@ -645,6 +870,9 @@
     },
     {
       "region": "68",
+      "regionCode": "68",
+      "regionTvd": "100100067796086",
+      "regionName": "Тамбовская область",
       "discovered_tik_count": 33,
       "discovered_uik_count": 930,
       "uiks_with_party_results": 930,
@@ -655,6 +883,9 @@
     },
     {
       "region": "69",
+      "regionCode": "69",
+      "regionTvd": "100100067796089",
+      "regionName": "Тверская область",
       "discovered_tik_count": 47,
       "discovered_uik_count": 1217,
       "uiks_with_party_results": 1217,
@@ -664,17 +895,10 @@
       "reconciliation_status": "passed"
     },
     {
-      "region": "7",
-      "discovered_tik_count": 13,
-      "discovered_uik_count": 354,
-      "uiks_with_party_results": 354,
-      "uiks_with_candidate_results": 354,
-      "uiks_with_known_tik": 354,
-      "missing_report_types": [],
-      "reconciliation_status": "passed"
-    },
-    {
       "region": "70",
+      "regionCode": "70",
+      "regionTvd": "100100067796092",
+      "regionName": "Томская область",
       "discovered_tik_count": 24,
       "discovered_uik_count": 791,
       "uiks_with_party_results": 791,
@@ -685,6 +909,9 @@
     },
     {
       "region": "71",
+      "regionCode": "71",
+      "regionTvd": "100100067796095",
+      "regionName": "Тульская область",
       "discovered_tik_count": 30,
       "discovered_uik_count": 1136,
       "uiks_with_party_results": 1136,
@@ -695,6 +922,9 @@
     },
     {
       "region": "72",
+      "regionCode": "72",
+      "regionTvd": "100100067796098",
+      "regionName": "Тюменская область",
       "discovered_tik_count": 29,
       "discovered_uik_count": 1133,
       "uiks_with_party_results": 1133,
@@ -705,6 +935,9 @@
     },
     {
       "region": "73",
+      "regionCode": "73",
+      "regionTvd": "100100067796101",
+      "regionName": "Ульяновская область",
       "discovered_tik_count": 29,
       "discovered_uik_count": 987,
       "uiks_with_party_results": 987,
@@ -715,6 +948,9 @@
     },
     {
       "region": "74",
+      "regionCode": "74",
+      "regionTvd": "100100067796104",
+      "regionName": "Челябинская область",
       "discovered_tik_count": 51,
       "discovered_uik_count": 2298,
       "uiks_with_party_results": 2298,
@@ -725,6 +961,9 @@
     },
     {
       "region": "76",
+      "regionCode": "76",
+      "regionTvd": "100100067796110",
+      "regionName": "Ярославская область",
       "discovered_tik_count": 28,
       "discovered_uik_count": 877,
       "uiks_with_party_results": 877,
@@ -735,6 +974,9 @@
     },
     {
       "region": "77",
+      "regionCode": "77",
+      "regionTvd": "100100067796113",
+      "regionName": "город Москва",
       "discovered_tik_count": 127,
       "discovered_uik_count": 3620,
       "uiks_with_party_results": 3620,
@@ -745,6 +987,9 @@
     },
     {
       "region": "78",
+      "regionCode": "78",
+      "regionTvd": "100100067796129",
+      "regionName": "город Санкт-Петербург",
       "discovered_tik_count": 31,
       "discovered_uik_count": 2007,
       "uiks_with_party_results": 2006,
@@ -758,6 +1003,9 @@
     },
     {
       "region": "79",
+      "regionCode": "79",
+      "regionTvd": "100100067796138",
+      "regionName": "Еврейская автономная область",
       "discovered_tik_count": 6,
       "discovered_uik_count": 169,
       "uiks_with_party_results": 169,
@@ -767,17 +1015,10 @@
       "reconciliation_status": "passed"
     },
     {
-      "region": "8",
-      "discovered_tik_count": 14,
-      "discovered_uik_count": 251,
-      "uiks_with_party_results": 251,
-      "uiks_with_candidate_results": 251,
-      "uiks_with_known_tik": 251,
-      "missing_report_types": [],
-      "reconciliation_status": "passed"
-    },
-    {
       "region": "83",
+      "regionCode": "83",
+      "regionTvd": "100100067796140",
+      "regionName": "Ненецкий автономный округ",
       "discovered_tik_count": 2,
       "discovered_uik_count": 51,
       "uiks_with_party_results": 51,
@@ -788,6 +1029,9 @@
     },
     {
       "region": "86",
+      "regionCode": "86",
+      "regionTvd": "100100067796142",
+      "regionName": "Ханты-Мансийский автономный округ - Югра",
       "discovered_tik_count": 23,
       "discovered_uik_count": 702,
       "uiks_with_party_results": 702,
@@ -798,6 +1042,9 @@
     },
     {
       "region": "87",
+      "regionCode": "87",
+      "regionTvd": "100100067796145",
+      "regionName": "Чукотский автономный округ",
       "discovered_tik_count": 7,
       "discovered_uik_count": 55,
       "uiks_with_party_results": 55,
@@ -808,6 +1055,9 @@
     },
     {
       "region": "89",
+      "regionCode": "89",
+      "regionTvd": "100100067796147",
+      "regionName": "Ямало-Ненецкий автономный округ",
       "discovered_tik_count": 13,
       "discovered_uik_count": 227,
       "uiks_with_party_results": 227,
@@ -817,17 +1067,10 @@
       "reconciliation_status": "passed"
     },
     {
-      "region": "9",
-      "discovered_tik_count": 12,
-      "discovered_uik_count": 249,
-      "uiks_with_party_results": 249,
-      "uiks_with_candidate_results": 249,
-      "uiks_with_known_tik": 249,
-      "missing_report_types": [],
-      "reconciliation_status": "passed"
-    },
-    {
       "region": "90",
+      "regionCode": "90",
+      "regionTvd": "100100067796149",
+      "regionName": "Пермский край",
       "discovered_tik_count": 56,
       "discovered_uik_count": 1838,
       "uiks_with_party_results": 1838,
@@ -838,6 +1081,9 @@
     },
     {
       "region": "91",
+      "regionCode": "91",
+      "regionTvd": "100100067796154",
+      "regionName": "Камчатский край",
       "discovered_tik_count": 14,
       "discovered_uik_count": 301,
       "uiks_with_party_results": 301,
@@ -848,6 +1094,9 @@
     },
     {
       "region": "92",
+      "regionCode": "92",
+      "regionTvd": "100100067796156",
+      "regionName": "Забайкальский край",
       "discovered_tik_count": 39,
       "discovered_uik_count": 959,
       "uiks_with_party_results": 959,
@@ -858,6 +1107,9 @@
     },
     {
       "region": "93",
+      "regionCode": "93",
+      "regionTvd": "100100067796159",
+      "regionName": "Республика Крым",
       "discovered_tik_count": 29,
       "discovered_uik_count": 1207,
       "uiks_with_party_results": 1207,
@@ -868,6 +1120,9 @@
     },
     {
       "region": "94",
+      "regionCode": "94",
+      "regionTvd": "100100067796163",
+      "regionName": "город Севастополь",
       "discovered_tik_count": 4,
       "discovered_uik_count": 191,
       "uiks_with_party_results": 191,
@@ -879,6 +1134,7 @@
   ],
   "summary": {
     "regions": 85,
+    "districts": 225,
     "tiks": 2820,
     "uiks": 96889,
     "complete_uiks": 96869,

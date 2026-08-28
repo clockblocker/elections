@@ -11,6 +11,9 @@ export const duma_2011_tic_233_region_8 = [
     "ballot": "party",
     "tikTvd": "2082000195156",
     "tikName": "Городовиковская",
+    "regionCode": "8",
+    "regionTvd": "100100028713318",
+    "regionName": "Республика Калмыкия",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 13989,
@@ -84,6 +87,9 @@ export const duma_2011_tic_233_region_8 = [
     "ballot": "party",
     "tikTvd": "2082000195157",
     "tikName": "Ики-Бурульская",
+    "regionCode": "8",
+    "regionTvd": "100100028713318",
+    "regionName": "Республика Калмыкия",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 7690,
@@ -148,6 +154,9 @@ export const duma_2011_tic_233_region_8 = [
     "ballot": "party",
     "tikTvd": "2082000195158",
     "tikName": "Лаганская",
+    "regionCode": "8",
+    "regionTvd": "100100028713318",
+    "regionName": "Республика Калмыкия",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 14609,
@@ -220,6 +229,9 @@ export const duma_2011_tic_233_region_8 = [
     "ballot": "party",
     "tikTvd": "2082000195159",
     "tikName": "Кетченеровская",
+    "regionCode": "8",
+    "regionTvd": "100100028713318",
+    "regionName": "Республика Калмыкия",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 7663,
@@ -285,6 +297,9 @@ export const duma_2011_tic_233_region_8 = [
     "ballot": "party",
     "tikTvd": "2082000195160",
     "tikName": "Малодербетовская",
+    "regionCode": "8",
+    "regionTvd": "100100028713318",
+    "regionName": "Республика Калмыкия",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 7981,
@@ -345,6 +360,9 @@ export const duma_2011_tic_233_region_8 = [
     "ballot": "party",
     "tikTvd": "2082000195161",
     "tikName": "Приютненская",
+    "regionCode": "8",
+    "regionTvd": "100100028713318",
+    "regionName": "Республика Калмыкия",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 8614,
@@ -406,6 +424,9 @@ export const duma_2011_tic_233_region_8 = [
     "ballot": "party",
     "tikTvd": "2082000195162",
     "tikName": "Октябрьская",
+    "regionCode": "8",
+    "regionTvd": "100100028713318",
+    "regionName": "Республика Калмыкия",
     "uikCount": 10,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 6492,
@@ -465,6 +486,9 @@ export const duma_2011_tic_233_region_8 = [
     "ballot": "party",
     "tikTvd": "2082000195163",
     "tikName": "Сарпинская",
+    "regionCode": "8",
+    "regionTvd": "100100028713318",
+    "regionName": "Республика Калмыкия",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 9962,
@@ -529,6 +553,9 @@ export const duma_2011_tic_233_region_8 = [
     "ballot": "party",
     "tikTvd": "2082000195164",
     "tikName": "Целинная ТИК",
+    "regionCode": "8",
+    "regionTvd": "100100028713318",
+    "regionName": "Республика Калмыкия",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 14788,
@@ -596,6 +623,9 @@ export const duma_2011_tic_233_region_8 = [
     "ballot": "party",
     "tikTvd": "2082000195165",
     "tikName": "Черноземельская",
+    "regionCode": "8",
+    "regionTvd": "100100028713318",
+    "regionName": "Республика Калмыкия",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 8584,
@@ -658,6 +688,9 @@ export const duma_2011_tic_233_region_8 = [
     "ballot": "party",
     "tikTvd": "2082000195166",
     "tikName": "Элистинская",
+    "regionCode": "8",
+    "regionTvd": "100100028713318",
+    "regionName": "Республика Калмыкия",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 85859,
@@ -757,6 +790,9 @@ export const duma_2011_tic_233_region_8 = [
     "ballot": "party",
     "tikTvd": "2082000195167",
     "tikName": "Юстинская",
+    "regionCode": "8",
+    "regionTvd": "100100028713318",
+    "regionName": "Республика Калмыкия",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 7394,
@@ -821,6 +857,9 @@ export const duma_2011_tic_233_region_8 = [
     "ballot": "party",
     "tikTvd": "2082000195168",
     "tikName": "Яшалтинская",
+    "regionCode": "8",
+    "regionTvd": "100100028713318",
+    "regionName": "Республика Калмыкия",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 11947,
@@ -885,6 +924,9 @@ export const duma_2011_tic_233_region_8 = [
     "ballot": "party",
     "tikTvd": "2082000195169",
     "tikName": "Яшкульская",
+    "regionCode": "8",
+    "regionTvd": "100100028713318",
+    "regionName": "Республика Калмыкия",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 10141,

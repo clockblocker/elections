@@ -11,6 +11,9 @@ export const president_2004_tic_227_region_73 = [
     "ballot": "presidential",
     "tikTvd": "273200085322",
     "tikName": "Павловская",
+    "regionCode": "73",
+    "regionTvd": "1001000883014",
+    "regionName": "Ульяновская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список": 12867,
@@ -85,6 +88,9 @@ export const president_2004_tic_227_region_73 = [
     "ballot": "presidential",
     "tikTvd": "273200085323",
     "tikName": "Новомалыклинская",
+    "regionCode": "73",
+    "regionTvd": "1001000883014",
+    "regionName": "Ульяновская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список": 13274,
@@ -154,6 +160,9 @@ export const president_2004_tic_227_region_73 = [
     "ballot": "presidential",
     "tikTvd": "273200085324",
     "tikName": "Радищевская",
+    "regionCode": "73",
+    "regionTvd": "1001000883014",
+    "regionName": "Ульяновская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список": 11734,
@@ -227,6 +236,9 @@ export const president_2004_tic_227_region_73 = [
     "ballot": "presidential",
     "tikTvd": "273200085325",
     "tikName": "Новоспасская",
+    "regionCode": "73",
+    "regionTvd": "1001000883014",
+    "regionName": "Ульяновская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список": 18023,
@@ -300,6 +312,9 @@ export const president_2004_tic_227_region_73 = [
     "ballot": "presidential",
     "tikTvd": "273200085326",
     "tikName": "Николаевская",
+    "regionCode": "73",
+    "regionTvd": "1001000883014",
+    "regionName": "Ульяновская область",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в список": 23557,
@@ -387,6 +402,9 @@ export const president_2004_tic_227_region_73 = [
     "ballot": "presidential",
     "tikTvd": "273200085327",
     "tikName": "Кузоватовская",
+    "regionCode": "73",
+    "regionTvd": "1001000883014",
+    "regionName": "Ульяновская область",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в список": 20941,
@@ -473,6 +491,9 @@ export const president_2004_tic_227_region_73 = [
     "ballot": "presidential",
     "tikTvd": "273200085328",
     "tikName": "Майнская",
+    "regionCode": "73",
+    "regionTvd": "1001000883014",
+    "regionName": "Ульяновская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в список": 23607,
@@ -561,6 +582,9 @@ export const president_2004_tic_227_region_73 = [
     "ballot": "presidential",
     "tikTvd": "273200085329",
     "tikName": "Инзенская",
+    "regionCode": "73",
+    "regionTvd": "1001000883014",
+    "regionName": "Ульяновская область",
     "uikCount": 52,
     "accounting": {
       "Число избирателей, внесенных в список": 31717,
@@ -661,6 +685,9 @@ export const president_2004_tic_227_region_73 = [
     "ballot": "presidential",
     "tikTvd": "273200085330",
     "tikName": "Карсунская",
+    "regionCode": "73",
+    "regionTvd": "1001000883014",
+    "regionName": "Ульяновская область",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в список": 23068,
@@ -744,6 +771,9 @@ export const president_2004_tic_227_region_73 = [
     "ballot": "presidential",
     "tikTvd": "273200085331",
     "tikName": "Димитровградская городская",
+    "regionCode": "73",
+    "regionTvd": "1001000883014",
+    "regionName": "Ульяновская область",
     "uikCount": 48,
     "accounting": {
       "Число избирателей, внесенных в список": 102708,
@@ -840,6 +870,9 @@ export const president_2004_tic_227_region_73 = [
     "ballot": "presidential",
     "tikTvd": "273200085332",
     "tikName": "Ульяновск, Заволжская N1",
+    "regionCode": "73",
+    "regionTvd": "1001000883014",
+    "regionName": "Ульяновская область",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в список": 88119,
@@ -926,6 +959,9 @@ export const president_2004_tic_227_region_73 = [
     "ballot": "presidential",
     "tikTvd": "273200085333",
     "tikName": "Ульяновск, Ленинская",
+    "regionCode": "73",
+    "regionTvd": "1001000883014",
+    "regionName": "Ульяновская область",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, внесенных в список": 96881,
@@ -1024,6 +1060,9 @@ export const president_2004_tic_227_region_73 = [
     "ballot": "presidential",
     "tikTvd": "273200085334",
     "tikName": "Ульяновск, Засвияжская N1",
+    "regionCode": "73",
+    "regionTvd": "1001000883014",
+    "regionName": "Ульяновская область",
     "uikCount": 49,
     "accounting": {
       "Число избирателей, внесенных в список": 89366,
@@ -1121,6 +1160,9 @@ export const president_2004_tic_227_region_73 = [
     "ballot": "presidential",
     "tikTvd": "273200085335",
     "tikName": "Тереньгульская",
+    "regionCode": "73",
+    "regionTvd": "1001000883014",
+    "regionName": "Ульяновская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список": 15519,
@@ -1198,6 +1240,9 @@ export const president_2004_tic_227_region_73 = [
     "ballot": "presidential",
     "tikTvd": "273200085336",
     "tikName": "Ульяновск, Железнодорожная",
+    "regionCode": "73",
+    "regionTvd": "1001000883014",
+    "regionName": "Ульяновская область",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в список": 76035,
@@ -1284,6 +1329,9 @@ export const president_2004_tic_227_region_73 = [
     "ballot": "presidential",
     "tikTvd": "273200085337",
     "tikName": "Сурская",
+    "regionCode": "73",
+    "regionTvd": "1001000883014",
+    "regionName": "Ульяновская область",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, внесенных в список": 17632,
@@ -1378,6 +1426,9 @@ export const president_2004_tic_227_region_73 = [
     "ballot": "presidential",
     "tikTvd": "273200085338",
     "tikName": "Сенгилеевская",
+    "regionCode": "73",
+    "regionTvd": "1001000883014",
+    "regionName": "Ульяновская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список": 20472,
@@ -1451,6 +1502,9 @@ export const president_2004_tic_227_region_73 = [
     "ballot": "presidential",
     "tikTvd": "273200085339",
     "tikName": "Старокулаткинская",
+    "regionCode": "73",
+    "regionTvd": "1001000883014",
+    "regionName": "Ульяновская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список": 13188,
@@ -1520,6 +1574,9 @@ export const president_2004_tic_227_region_73 = [
     "ballot": "presidential",
     "tikTvd": "273200085340",
     "tikName": "Старомайнская",
+    "regionCode": "73",
+    "regionTvd": "1001000883014",
+    "regionName": "Ульяновская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список": 15298,
@@ -1597,6 +1654,9 @@ export const president_2004_tic_227_region_73 = [
     "ballot": "presidential",
     "tikTvd": "273200085341",
     "tikName": "Мелекесская",
+    "regionCode": "73",
+    "regionTvd": "1001000883014",
+    "regionName": "Ульяновская область",
     "uikCount": 48,
     "accounting": {
       "Число избирателей, внесенных в список": 31260,
@@ -1693,6 +1753,9 @@ export const president_2004_tic_227_region_73 = [
     "ballot": "presidential",
     "tikTvd": "273200085342",
     "tikName": "Ульяновск, Засвияжская N2",
+    "regionCode": "73",
+    "regionTvd": "1001000883014",
+    "regionName": "Ульяновская область",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, внесенных в список": 95989,
@@ -1787,6 +1850,9 @@ export const president_2004_tic_227_region_73 = [
     "ballot": "presidential",
     "tikTvd": "273200085343",
     "tikName": "Барышская",
+    "regionCode": "73",
+    "regionTvd": "1001000883014",
+    "regionName": "Ульяновская область",
     "uikCount": 47,
     "accounting": {
       "Число избирателей, внесенных в список": 24103,
@@ -1882,6 +1948,9 @@ export const president_2004_tic_227_region_73 = [
     "ballot": "presidential",
     "tikTvd": "273200085344",
     "tikName": "Ульяновск, Заволжская N2",
+    "regionCode": "73",
+    "regionTvd": "1001000883014",
+    "regionName": "Ульяновская область",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в список": 88223,
@@ -1965,6 +2034,9 @@ export const president_2004_tic_227_region_73 = [
     "ballot": "presidential",
     "tikTvd": "273200085345",
     "tikName": "Ульяновская",
+    "regionCode": "73",
+    "regionTvd": "1001000883014",
+    "regionName": "Ульяновская область",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в список": 31543,
@@ -2046,6 +2118,9 @@ export const president_2004_tic_227_region_73 = [
     "ballot": "presidential",
     "tikTvd": "273200085346",
     "tikName": "Чердаклинская",
+    "regionCode": "73",
+    "regionTvd": "1001000883014",
+    "regionName": "Ульяновская область",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в список": 32760,
@@ -2126,6 +2201,9 @@ export const president_2004_tic_227_region_73 = [
     "ballot": "presidential",
     "tikTvd": "273200085347",
     "tikName": "Цильнинская",
+    "regionCode": "73",
+    "regionTvd": "1001000883014",
+    "regionName": "Ульяновская область",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в список": 21570,
@@ -2212,6 +2290,9 @@ export const president_2004_tic_227_region_73 = [
     "ballot": "presidential",
     "tikTvd": "273200085348",
     "tikName": "Базарносызганская",
+    "regionCode": "73",
+    "regionTvd": "1001000883014",
+    "regionName": "Ульяновская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список": 8692,
@@ -2281,6 +2362,9 @@ export const president_2004_tic_227_region_73 = [
     "ballot": "presidential",
     "tikTvd": "273200085349",
     "tikName": "Вешкаймская",
+    "regionCode": "73",
+    "regionTvd": "1001000883014",
+    "regionName": "Ульяновская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список": 18264,
@@ -2357,6 +2441,9 @@ export const president_2004_tic_227_region_73 = [
     "ballot": "presidential",
     "tikTvd": "273200085350",
     "tikName": "Барышcкая городская",
+    "regionCode": "73",
+    "regionTvd": "1001000883014",
+    "regionName": "Ульяновская область",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в список": 15185,
@@ -2418,6 +2505,9 @@ export const president_2004_tic_227_region_73 = [
     "ballot": "presidential",
     "tikTvd": "273200086359",
     "tikName": "Новоульяновская",
+    "regionCode": "73",
+    "regionTvd": "1001000883014",
+    "regionName": "Ульяновская область",
     "uikCount": 6,
     "accounting": {
       "Число избирателей, внесенных в список": 12826,

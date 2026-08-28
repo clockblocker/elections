@@ -11,6 +11,9 @@ export const president_2008_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "2562000211358",
     "tikName": "Шарлыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 15585,
@@ -99,6 +102,9 @@ export const president_2008_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "2562000211359",
     "tikName": "Тюльганская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 17253,
@@ -174,6 +180,9 @@ export const president_2008_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "2562000211360",
     "tikName": "Тоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
     "uikCount": 47,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 30308,
@@ -268,6 +277,9 @@ export const president_2008_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "2562000211361",
     "tikName": "Ясненская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 18377,
@@ -336,6 +348,9 @@ export const president_2008_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "2562000211362",
     "tikName": "Сорочинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 12340,
@@ -415,6 +430,9 @@ export const president_2008_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "2562000211363",
     "tikName": "Асекеевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 18245,
@@ -496,6 +514,9 @@ export const president_2008_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "2562000211364",
     "tikName": "Беляевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 14739,
@@ -570,6 +591,9 @@ export const president_2008_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "2562000211365",
     "tikName": "Акбулакская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 20051,
@@ -661,6 +685,9 @@ export const president_2008_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "2562000211366",
     "tikName": "Адамовская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 21171,
@@ -750,6 +777,9 @@ export const president_2008_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "2562000211367",
     "tikName": "Александровская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 14185,
@@ -843,6 +873,9 @@ export const president_2008_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "2562000211368",
     "tikName": "Абдулинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 27378,
@@ -933,6 +966,9 @@ export const president_2008_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "2562000211369",
     "tikName": "Кваркенская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 16456,
@@ -1019,6 +1055,9 @@ export const president_2008_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "2562000211370",
     "tikName": "Илекская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 21158,
@@ -1094,6 +1133,9 @@ export const president_2008_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "2562000211371",
     "tikName": "Красногвардейская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
     "uikCount": 45,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 17957,
@@ -1186,6 +1228,9 @@ export const president_2008_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "2562000211372",
     "tikName": "Гайская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 8823,
@@ -1262,6 +1307,9 @@ export const president_2008_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "2562000211373",
     "tikName": "Грачевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 11851,
@@ -1332,6 +1380,9 @@ export const president_2008_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "2562000211374",
     "tikName": "Домбаровская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 13154,
@@ -1408,6 +1459,9 @@ export const president_2008_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "2562000211375",
     "tikName": "Бугурусланская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 41675,
@@ -1478,6 +1532,9 @@ export const president_2008_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "2562000211376",
     "tikName": "Октябрьская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 17535,
@@ -1567,6 +1624,9 @@ export const president_2008_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "2562000211377",
     "tikName": "Бузулукская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 63705,
@@ -1653,6 +1713,9 @@ export const president_2008_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "2562000211378",
     "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
     "uikCount": 57,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 27128,
@@ -1757,6 +1820,9 @@ export const president_2008_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "2562000211379",
     "tikName": "Новоорская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 24932,
@@ -1827,6 +1893,9 @@ export const president_2008_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "2562000211380",
     "tikName": "Новотроицкая городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
     "uikCount": 54,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 84294,
@@ -1928,6 +1997,9 @@ export const president_2008_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "2562000211381",
     "tikName": "Матвеевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 10863,
@@ -2003,6 +2075,9 @@ export const president_2008_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "2562000211382",
     "tikName": "Медногорская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 25255,
@@ -2076,6 +2151,9 @@ export const president_2008_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "2562000211383",
     "tikName": "Курманаевская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 16485,
@@ -2156,6 +2234,9 @@ export const president_2008_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "2562000211384",
     "tikName": "Первомайская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
     "uikCount": 45,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 21054,
@@ -2248,6 +2329,9 @@ export const president_2008_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "2562000211385",
     "tikName": "Переволоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 22852,
@@ -2341,6 +2425,9 @@ export const president_2008_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "2562000211386",
     "tikName": "Орск, Советская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 59131,
@@ -2430,6 +2517,9 @@ export const president_2008_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "2562000211387",
     "tikName": "Оренбургская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
     "uikCount": 59,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 52708,
@@ -2536,6 +2626,9 @@ export const president_2008_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "2562000211388",
     "tikName": "Орск, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 57302,
@@ -2616,6 +2709,9 @@ export const president_2008_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "2562000211389",
     "tikName": "Оренбург, Центральная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 76465,
@@ -2699,6 +2795,9 @@ export const president_2008_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "2562000211390",
     "tikName": "Оренбург, Дзержинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
     "uikCount": 56,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 116400,
@@ -2802,6 +2901,9 @@ export const president_2008_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "2562000211391",
     "tikName": "Оренбург, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
     "uikCount": 63,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 133897,
@@ -2912,6 +3014,9 @@ export const president_2008_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "2562000211392",
     "tikName": "Оренбург, Промышленная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
     "uikCount": 47,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 77867,
@@ -3006,6 +3111,9 @@ export const president_2008_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "2562000211393",
     "tikName": "Сорочинская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 22896,
@@ -3068,6 +3176,9 @@ export const president_2008_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "2562000211394",
     "tikName": "Соль-Илецкая",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 40734,
@@ -3165,6 +3276,9 @@ export const president_2008_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "2562000211395",
     "tikName": "Ташлинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
     "uikCount": 45,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 19751,
@@ -3257,6 +3371,9 @@ export const president_2008_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "2562000211396",
     "tikName": "Светлинская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 11949,
@@ -3318,6 +3435,9 @@ export const president_2008_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "2562000211397",
     "tikName": "Саракташская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
     "uikCount": 48,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 33301,
@@ -3413,6 +3533,9 @@ export const president_2008_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "2562000211398",
     "tikName": "Северная",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 12973,
@@ -3497,6 +3620,9 @@ export const president_2008_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "2562000211399",
     "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
     "uikCount": 67,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 40873,
@@ -3611,6 +3737,9 @@ export const president_2008_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "2562000211400",
     "tikName": "Пономаревская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 12732,
@@ -3687,6 +3816,9 @@ export const president_2008_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "2562000211401",
     "tikName": "Сакмарская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 21860,
@@ -3758,6 +3890,9 @@ export const president_2008_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "2562000211402",
     "tikName": "Бузулукская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
     "uikCount": 49,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 26885,
@@ -3854,6 +3989,9 @@ export const president_2008_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "2562000211403",
     "tikName": "Бугурусланская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 17430,
@@ -3951,6 +4089,9 @@ export const president_2008_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "2562000211404",
     "tikName": "Гайская городская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 33196,
@@ -4020,6 +4161,9 @@ export const president_2008_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "2562000211405",
     "tikName": "Орск, Октябрьская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 73346,
@@ -4105,6 +4249,9 @@ export const president_2008_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "2562000211406",
     "tikName": "ЗАТО Комаровская",
+    "regionCode": "56",
+    "regionTvd": "100100022249951",
+    "regionName": "Оренбургская область",
     "uikCount": 4,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 6544,

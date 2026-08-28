@@ -11,6 +11,9 @@ export const duma_2011_tic_233_region_56 = [
     "ballot": "party",
     "tikTvd": "2562000360232",
     "tikName": "ЗАТО Комаровская",
+    "regionCode": "56",
+    "regionTvd": "100100028713414",
+    "regionName": "Оренбургская область",
     "uikCount": 3,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 6039,
@@ -63,6 +66,9 @@ export const duma_2011_tic_233_region_56 = [
     "ballot": "party",
     "tikTvd": "2562000360233",
     "tikName": "Ясненская",
+    "regionCode": "56",
+    "regionTvd": "100100028713414",
+    "regionName": "Оренбургская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 17438,
@@ -133,6 +139,9 @@ export const duma_2011_tic_233_region_56 = [
     "ballot": "party",
     "tikTvd": "2562000360234",
     "tikName": "Тоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100028713414",
+    "regionName": "Оренбургская область",
     "uikCount": 47,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 27177,
@@ -229,6 +238,9 @@ export const duma_2011_tic_233_region_56 = [
     "ballot": "party",
     "tikTvd": "2562000360235",
     "tikName": "Ташлинская",
+    "regionCode": "56",
+    "regionTvd": "100100028713414",
+    "regionName": "Оренбургская область",
     "uikCount": 45,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 20544,
@@ -323,6 +335,9 @@ export const duma_2011_tic_233_region_56 = [
     "ballot": "party",
     "tikTvd": "2562000360236",
     "tikName": "Сорочинская городская",
+    "regionCode": "56",
+    "regionTvd": "100100028713414",
+    "regionName": "Оренбургская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 23507,
@@ -387,6 +402,9 @@ export const duma_2011_tic_233_region_56 = [
     "ballot": "party",
     "tikTvd": "2562000360237",
     "tikName": "Сорочинская",
+    "regionCode": "56",
+    "regionTvd": "100100028713414",
+    "regionName": "Оренбургская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 12363,
@@ -467,6 +485,9 @@ export const duma_2011_tic_233_region_56 = [
     "ballot": "party",
     "tikTvd": "2562000360238",
     "tikName": "Соль-Илецкая",
+    "regionCode": "56",
+    "regionTvd": "100100028713414",
+    "regionName": "Оренбургская область",
     "uikCount": 53,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 42737,
@@ -569,6 +590,9 @@ export const duma_2011_tic_233_region_56 = [
     "ballot": "party",
     "tikTvd": "2562000360239",
     "tikName": "Светлинская",
+    "regionCode": "56",
+    "regionTvd": "100100028713414",
+    "regionName": "Оренбургская область",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 12053,
@@ -632,6 +656,9 @@ export const duma_2011_tic_233_region_56 = [
     "ballot": "party",
     "tikTvd": "2562000360240",
     "tikName": "Саракташская",
+    "regionCode": "56",
+    "regionTvd": "100100028713414",
+    "regionName": "Оренбургская область",
     "uikCount": 48,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 33966,
@@ -729,6 +756,9 @@ export const duma_2011_tic_233_region_56 = [
     "ballot": "party",
     "tikTvd": "2562000360241",
     "tikName": "Переволоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100028713414",
+    "regionName": "Оренбургская область",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 23038,
@@ -824,6 +854,9 @@ export const duma_2011_tic_233_region_56 = [
     "ballot": "party",
     "tikTvd": "2562000360242",
     "tikName": "Первомайская",
+    "regionCode": "56",
+    "regionTvd": "100100028713414",
+    "regionName": "Оренбургская область",
     "uikCount": 45,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 21849,
@@ -918,6 +951,9 @@ export const duma_2011_tic_233_region_56 = [
     "ballot": "party",
     "tikTvd": "2562000360243",
     "tikName": "Орск, Советская",
+    "regionCode": "56",
+    "regionTvd": "100100028713414",
+    "regionName": "Оренбургская область",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 61729,
@@ -1009,6 +1045,9 @@ export const duma_2011_tic_233_region_56 = [
     "ballot": "party",
     "tikTvd": "2562000360244",
     "tikName": "Орск, Октябрьская",
+    "regionCode": "56",
+    "regionTvd": "100100028713414",
+    "regionName": "Оренбургская область",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 76731,
@@ -1096,6 +1135,9 @@ export const duma_2011_tic_233_region_56 = [
     "ballot": "party",
     "tikTvd": "2562000360245",
     "tikName": "Орск, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100028713414",
+    "regionName": "Оренбургская область",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 60190,
@@ -1178,6 +1220,9 @@ export const duma_2011_tic_233_region_56 = [
     "ballot": "party",
     "tikTvd": "2562000360246",
     "tikName": "Новотроицкая городская",
+    "regionCode": "56",
+    "regionTvd": "100100028713414",
+    "regionName": "Оренбургская область",
     "uikCount": 54,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 82076,
@@ -1281,6 +1326,9 @@ export const duma_2011_tic_233_region_56 = [
     "ballot": "party",
     "tikTvd": "2562000360247",
     "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100028713414",
+    "regionName": "Оренбургская область",
     "uikCount": 56,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 27848,
@@ -1386,6 +1434,9 @@ export const duma_2011_tic_233_region_56 = [
     "ballot": "party",
     "tikTvd": "2562000360248",
     "tikName": "Новоорская",
+    "regionCode": "56",
+    "regionTvd": "100100028713414",
+    "regionName": "Оренбургская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 25425,
@@ -1458,6 +1509,9 @@ export const duma_2011_tic_233_region_56 = [
     "ballot": "party",
     "tikTvd": "2562000360249",
     "tikName": "Медногорская городская",
+    "regionCode": "56",
+    "regionTvd": "100100028713414",
+    "regionName": "Оренбургская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 24372,
@@ -1533,6 +1587,9 @@ export const duma_2011_tic_233_region_56 = [
     "ballot": "party",
     "tikTvd": "2562000360250",
     "tikName": "Курманаевская",
+    "regionCode": "56",
+    "regionTvd": "100100028713414",
+    "regionName": "Оренбургская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 16559,
@@ -1612,6 +1669,9 @@ export const duma_2011_tic_233_region_56 = [
     "ballot": "party",
     "tikTvd": "2562000360251",
     "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100028713414",
+    "regionName": "Оренбургская область",
     "uikCount": 64,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 39852,
@@ -1725,6 +1785,9 @@ export const duma_2011_tic_233_region_56 = [
     "ballot": "party",
     "tikTvd": "2562000360252",
     "tikName": "Красногвардейская",
+    "regionCode": "56",
+    "regionTvd": "100100028713414",
+    "regionName": "Оренбургская область",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 18482,
@@ -1818,6 +1881,9 @@ export const duma_2011_tic_233_region_56 = [
     "ballot": "party",
     "tikTvd": "2562000360253",
     "tikName": "Кваркенская",
+    "regionCode": "56",
+    "regionTvd": "100100028713414",
+    "regionName": "Оренбургская область",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 16443,
@@ -1904,6 +1970,9 @@ export const duma_2011_tic_233_region_56 = [
     "ballot": "party",
     "tikTvd": "2562000360254",
     "tikName": "Илекская",
+    "regionCode": "56",
+    "regionTvd": "100100028713414",
+    "regionName": "Оренбургская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 21873,
@@ -1981,6 +2050,9 @@ export const duma_2011_tic_233_region_56 = [
     "ballot": "party",
     "tikTvd": "2562000360255",
     "tikName": "Домбаровская",
+    "regionCode": "56",
+    "regionTvd": "100100028713414",
+    "regionName": "Оренбургская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 13975,
@@ -2059,6 +2131,9 @@ export const duma_2011_tic_233_region_56 = [
     "ballot": "party",
     "tikTvd": "2562000360256",
     "tikName": "Гайская городская",
+    "regionCode": "56",
+    "regionTvd": "100100028713414",
+    "regionName": "Оренбургская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 32429,
@@ -2130,6 +2205,9 @@ export const duma_2011_tic_233_region_56 = [
     "ballot": "party",
     "tikTvd": "2562000360257",
     "tikName": "Гайская",
+    "regionCode": "56",
+    "regionTvd": "100100028713414",
+    "regionName": "Оренбургская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 8594,
@@ -2208,6 +2286,9 @@ export const duma_2011_tic_233_region_56 = [
     "ballot": "party",
     "tikTvd": "2562000360258",
     "tikName": "Беляевская",
+    "regionCode": "56",
+    "regionTvd": "100100028713414",
+    "regionName": "Оренбургская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 15192,
@@ -2285,6 +2366,9 @@ export const duma_2011_tic_233_region_56 = [
     "ballot": "party",
     "tikTvd": "2562000360259",
     "tikName": "Акбулакская",
+    "regionCode": "56",
+    "regionTvd": "100100028713414",
+    "regionName": "Оренбургская область",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 21290,
@@ -2369,6 +2453,9 @@ export const duma_2011_tic_233_region_56 = [
     "ballot": "party",
     "tikTvd": "2562000360260",
     "tikName": "Адамовская",
+    "regionCode": "56",
+    "regionTvd": "100100028713414",
+    "regionName": "Оренбургская область",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 22365,
@@ -2460,6 +2547,9 @@ export const duma_2011_tic_233_region_56 = [
     "ballot": "party",
     "tikTvd": "2562000360261",
     "tikName": "Шарлыкская",
+    "regionCode": "56",
+    "regionTvd": "100100028713414",
+    "regionName": "Оренбургская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 15755,
@@ -2549,6 +2639,9 @@ export const duma_2011_tic_233_region_56 = [
     "ballot": "party",
     "tikTvd": "2562000360262",
     "tikName": "Тюльганская",
+    "regionCode": "56",
+    "regionTvd": "100100028713414",
+    "regionName": "Оренбургская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 17763,
@@ -2626,6 +2719,9 @@ export const duma_2011_tic_233_region_56 = [
     "ballot": "party",
     "tikTvd": "2562000360263",
     "tikName": "Асекеевская",
+    "regionCode": "56",
+    "regionTvd": "100100028713414",
+    "regionName": "Оренбургская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 18121,
@@ -2709,6 +2805,9 @@ export const duma_2011_tic_233_region_56 = [
     "ballot": "party",
     "tikTvd": "2562000360264",
     "tikName": "Александровская",
+    "regionCode": "56",
+    "regionTvd": "100100028713414",
+    "regionName": "Оренбургская область",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 14618,
@@ -2804,6 +2903,9 @@ export const duma_2011_tic_233_region_56 = [
     "ballot": "party",
     "tikTvd": "2562000360265",
     "tikName": "Абдулинская",
+    "regionCode": "56",
+    "regionTvd": "100100028713414",
+    "regionName": "Оренбургская область",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 27461,
@@ -2888,6 +2990,9 @@ export const duma_2011_tic_233_region_56 = [
     "ballot": "party",
     "tikTvd": "2562000360266",
     "tikName": "Грачевская",
+    "regionCode": "56",
+    "regionTvd": "100100028713414",
+    "regionName": "Оренбургская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 11991,
@@ -2961,6 +3066,9 @@ export const duma_2011_tic_233_region_56 = [
     "ballot": "party",
     "tikTvd": "2562000360267",
     "tikName": "Бугурусланская городская",
+    "regionCode": "56",
+    "regionTvd": "100100028713414",
+    "regionName": "Оренбургская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 40712,
@@ -3033,6 +3141,9 @@ export const duma_2011_tic_233_region_56 = [
     "ballot": "party",
     "tikTvd": "2562000360268",
     "tikName": "Октябрьская",
+    "regionCode": "56",
+    "regionTvd": "100100028713414",
+    "regionName": "Оренбургская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 18151,
@@ -3122,6 +3233,9 @@ export const duma_2011_tic_233_region_56 = [
     "ballot": "party",
     "tikTvd": "2562000360269",
     "tikName": "Бузулукская городская",
+    "regionCode": "56",
+    "regionTvd": "100100028713414",
+    "regionName": "Оренбургская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 64181,
@@ -3211,6 +3325,9 @@ export const duma_2011_tic_233_region_56 = [
     "ballot": "party",
     "tikTvd": "2562000360270",
     "tikName": "Матвеевская",
+    "regionCode": "56",
+    "regionTvd": "100100028713414",
+    "regionName": "Оренбургская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 10755,
@@ -3288,6 +3405,9 @@ export const duma_2011_tic_233_region_56 = [
     "ballot": "party",
     "tikTvd": "2562000360271",
     "tikName": "Оренбургская",
+    "regionCode": "56",
+    "regionTvd": "100100028713414",
+    "regionName": "Оренбургская область",
     "uikCount": 58,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 57042,
@@ -3395,6 +3515,9 @@ export const duma_2011_tic_233_region_56 = [
     "ballot": "party",
     "tikTvd": "2562000360272",
     "tikName": "Оренбург, Центральная",
+    "regionCode": "56",
+    "regionTvd": "100100028713414",
+    "regionName": "Оренбургская область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 77865,
@@ -3480,6 +3603,9 @@ export const duma_2011_tic_233_region_56 = [
     "ballot": "party",
     "tikTvd": "2562000360273",
     "tikName": "Оренбург, Дзержинская",
+    "regionCode": "56",
+    "regionTvd": "100100028713414",
+    "regionName": "Оренбургская область",
     "uikCount": 57,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 124366,
@@ -3586,6 +3712,9 @@ export const duma_2011_tic_233_region_56 = [
     "ballot": "party",
     "tikTvd": "2562000360274",
     "tikName": "Оренбург, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100028713414",
+    "regionName": "Оренбургская область",
     "uikCount": 64,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 142022,
@@ -3699,6 +3828,9 @@ export const duma_2011_tic_233_region_56 = [
     "ballot": "party",
     "tikTvd": "2562000360275",
     "tikName": "Оренбург, Промышленная",
+    "regionCode": "56",
+    "regionTvd": "100100028713414",
+    "regionName": "Оренбургская область",
     "uikCount": 47,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 88454,
@@ -3795,6 +3927,9 @@ export const duma_2011_tic_233_region_56 = [
     "ballot": "party",
     "tikTvd": "2562000360276",
     "tikName": "Северная",
+    "regionCode": "56",
+    "regionTvd": "100100028713414",
+    "regionName": "Оренбургская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 12855,
@@ -3878,6 +4013,9 @@ export const duma_2011_tic_233_region_56 = [
     "ballot": "party",
     "tikTvd": "2562000360277",
     "tikName": "Пономаревская ТИК",
+    "regionCode": "56",
+    "regionTvd": "100100028713414",
+    "regionName": "Оренбургская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 12515,
@@ -3956,6 +4094,9 @@ export const duma_2011_tic_233_region_56 = [
     "ballot": "party",
     "tikTvd": "2562000360278",
     "tikName": "Сакмарская",
+    "regionCode": "56",
+    "regionTvd": "100100028713414",
+    "regionName": "Оренбургская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 22074,
@@ -4028,6 +4169,9 @@ export const duma_2011_tic_233_region_56 = [
     "ballot": "party",
     "tikTvd": "2562000360279",
     "tikName": "Бузулукская",
+    "regionCode": "56",
+    "regionTvd": "100100028713414",
+    "regionName": "Оренбургская область",
     "uikCount": 49,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 27341,
@@ -4126,6 +4270,9 @@ export const duma_2011_tic_233_region_56 = [
     "ballot": "party",
     "tikTvd": "2562000360280",
     "tikName": "Бугурусланская",
+    "regionCode": "56",
+    "regionTvd": "100100028713414",
+    "regionName": "Оренбургская область",
     "uikCount": 48,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 17398,

@@ -11,6 +11,14 @@ export const duma_2016_tic_464_region_68 = [
     "ballot": "single-member",
     "tikTvd": "2682000507722",
     "tikName": "Никифоровская",
+    "regionCode": "68",
+    "regionTvd": "100100067796086",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 177,
+      "oikTvd": "100100067796087",
+      "oikName": "Тамбовская область – Тамбовский"
+    },
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 15814,
@@ -89,6 +97,14 @@ export const duma_2016_tic_464_region_68 = [
     "ballot": "single-member",
     "tikTvd": "2682000507724",
     "tikName": "Мичуринская городская",
+    "regionCode": "68",
+    "regionTvd": "100100067796086",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 177,
+      "oikTvd": "100100067796087",
+      "oikName": "Тамбовская область – Тамбовский"
+    },
     "uikCount": 48,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 68990,
@@ -188,6 +204,14 @@ export const duma_2016_tic_464_region_68 = [
     "ballot": "single-member",
     "tikTvd": "2682000507729",
     "tikName": "Сосновская",
+    "regionCode": "68",
+    "regionTvd": "100100067796086",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 177,
+      "oikTvd": "100100067796087",
+      "oikName": "Тамбовская область – Тамбовский"
+    },
     "uikCount": 43,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 24761,
@@ -282,6 +306,14 @@ export const duma_2016_tic_464_region_68 = [
     "ballot": "single-member",
     "tikTvd": "2682000507731",
     "tikName": "Тамбов, Ленинская",
+    "regionCode": "68",
+    "regionTvd": "100100067796086",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 177,
+      "oikTvd": "100100067796087",
+      "oikName": "Тамбовская область – Тамбовский"
+    },
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 32544,
@@ -351,6 +383,14 @@ export const duma_2016_tic_464_region_68 = [
     "ballot": "single-member",
     "tikTvd": "2682000507733",
     "tikName": "Староюрьевская",
+    "regionCode": "68",
+    "regionTvd": "100100067796086",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 177,
+      "oikTvd": "100100067796087",
+      "oikName": "Тамбовская область – Тамбовский"
+    },
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 11670,
@@ -425,6 +465,14 @@ export const duma_2016_tic_464_region_68 = [
     "ballot": "single-member",
     "tikTvd": "2682000507736",
     "tikName": "Котовская городская",
+    "regionCode": "68",
+    "regionTvd": "100100067796086",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 177,
+      "oikTvd": "100100067796087",
+      "oikName": "Тамбовская область – Тамбовский"
+    },
     "uikCount": 12,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 25970,
@@ -488,6 +536,14 @@ export const duma_2016_tic_464_region_68 = [
     "ballot": "single-member",
     "tikTvd": "2682000507737",
     "tikName": "Моршанская",
+    "regionCode": "68",
+    "regionTvd": "100100067796086",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 177,
+      "oikTvd": "100100067796087",
+      "oikName": "Тамбовская область – Тамбовский"
+    },
     "uikCount": 47,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 24865,
@@ -586,6 +642,14 @@ export const duma_2016_tic_464_region_68 = [
     "ballot": "single-member",
     "tikTvd": "2682000507740",
     "tikName": "Петровская",
+    "regionCode": "68",
+    "regionTvd": "100100067796086",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 177,
+      "oikTvd": "100100067796087",
+      "oikName": "Тамбовская область – Тамбовский"
+    },
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 14745,
@@ -667,6 +731,14 @@ export const duma_2016_tic_464_region_68 = [
     "ballot": "single-member",
     "tikTvd": "2682000507743",
     "tikName": "Первомайская",
+    "regionCode": "68",
+    "regionTvd": "100100067796086",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 177,
+      "oikTvd": "100100067796087",
+      "oikName": "Тамбовская область – Тамбовский"
+    },
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 22164,
@@ -744,6 +816,14 @@ export const duma_2016_tic_464_region_68 = [
     "ballot": "single-member",
     "tikTvd": "2682000507744",
     "tikName": "Мичуринская",
+    "regionCode": "68",
+    "regionTvd": "100100067796086",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 177,
+      "oikTvd": "100100067796087",
+      "oikName": "Тамбовская область – Тамбовский"
+    },
     "uikCount": 47,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 25427,
@@ -842,6 +922,14 @@ export const duma_2016_tic_464_region_68 = [
     "ballot": "single-member",
     "tikTvd": "2682000507745",
     "tikName": "Моршанская городская",
+    "regionCode": "68",
+    "regionTvd": "100100067796086",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 177,
+      "oikTvd": "100100067796087",
+      "oikName": "Тамбовская область – Тамбовский"
+    },
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 31682,
@@ -914,6 +1002,14 @@ export const duma_2016_tic_464_region_68 = [
     "ballot": "single-member",
     "tikTvd": "2682000507746",
     "tikName": "Тамбовская_177",
+    "regionCode": "68",
+    "regionTvd": "100100067796086",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 177,
+      "oikTvd": "100100067796087",
+      "oikName": "Тамбовская область – Тамбовский"
+    },
     "uikCount": 43,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 57170,
@@ -1008,6 +1104,14 @@ export const duma_2016_tic_464_region_68 = [
     "ballot": "single-member",
     "tikTvd": "2682000507753",
     "tikName": "Тамбов, Советская",
+    "regionCode": "68",
+    "regionTvd": "100100067796086",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 177,
+      "oikTvd": "100100067796087",
+      "oikName": "Тамбовская область – Тамбовский"
+    },
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 74567,
@@ -1095,6 +1199,14 @@ export const duma_2016_tic_464_region_68 = [
     "ballot": "single-member",
     "tikTvd": "2682000507754",
     "tikName": "Уваровская городская",
+    "regionCode": "68",
+    "regionTvd": "100100067796086",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100067796088",
+      "oikName": "Тамбовская область – Рассказовский"
+    },
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 22946,
@@ -1159,6 +1271,14 @@ export const duma_2016_tic_464_region_68 = [
     "ballot": "single-member",
     "tikTvd": "2682000507756",
     "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "100100067796086",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100067796088",
+      "oikName": "Тамбовская область – Рассказовский"
+    },
     "uikCount": 61,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 131552,
@@ -1269,6 +1389,14 @@ export const duma_2016_tic_464_region_68 = [
     "ballot": "single-member",
     "tikTvd": "2682000507757",
     "tikName": "Сампурская",
+    "regionCode": "68",
+    "regionTvd": "100100067796086",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100067796088",
+      "oikName": "Тамбовская область – Рассказовский"
+    },
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 11221,
@@ -1336,6 +1464,14 @@ export const duma_2016_tic_464_region_68 = [
     "ballot": "single-member",
     "tikTvd": "2682000507758",
     "tikName": "Ржаксинская",
+    "regionCode": "68",
+    "regionTvd": "100100067796086",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100067796088",
+      "oikName": "Тамбовская область – Рассказовский"
+    },
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 13770,
@@ -1416,6 +1552,14 @@ export const duma_2016_tic_464_region_68 = [
     "ballot": "single-member",
     "tikTvd": "2682000507759",
     "tikName": "Рассказовская городская",
+    "regionCode": "68",
+    "regionTvd": "100100067796086",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100067796088",
+      "oikName": "Тамбовская область – Рассказовский"
+    },
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 36623,
@@ -1485,6 +1629,14 @@ export const duma_2016_tic_464_region_68 = [
     "ballot": "single-member",
     "tikTvd": "2682000507760",
     "tikName": "Рассказовская",
+    "regionCode": "68",
+    "regionTvd": "100100067796086",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100067796088",
+      "oikName": "Тамбовская область – Рассказовский"
+    },
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 16039,
@@ -1563,6 +1715,14 @@ export const duma_2016_tic_464_region_68 = [
     "ballot": "single-member",
     "tikTvd": "2682000507761",
     "tikName": "Пичаевская",
+    "regionCode": "68",
+    "regionTvd": "100100067796086",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100067796088",
+      "oikName": "Тамбовская область – Рассказовский"
+    },
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 10722,
@@ -1633,6 +1793,14 @@ export const duma_2016_tic_464_region_68 = [
     "ballot": "single-member",
     "tikTvd": "2682000507762",
     "tikName": "Мучкапская",
+    "regionCode": "68",
+    "regionTvd": "100100067796086",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100067796088",
+      "oikName": "Тамбовская область – Рассказовский"
+    },
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 12000,
@@ -1703,6 +1871,14 @@ export const duma_2016_tic_464_region_68 = [
     "ballot": "single-member",
     "tikTvd": "2682000507763",
     "tikName": "Мордовская",
+    "regionCode": "68",
+    "regionTvd": "100100067796086",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100067796088",
+      "oikName": "Тамбовская область – Рассказовский"
+    },
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 14774,
@@ -1782,6 +1958,14 @@ export const duma_2016_tic_464_region_68 = [
     "ballot": "single-member",
     "tikTvd": "2682000507764",
     "tikName": "Кирсановская городская",
+    "regionCode": "68",
+    "regionTvd": "100100067796086",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100067796088",
+      "oikName": "Тамбовская область – Рассказовский"
+    },
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 12434,
@@ -1847,6 +2031,14 @@ export const duma_2016_tic_464_region_68 = [
     "ballot": "single-member",
     "tikTvd": "2682000507765",
     "tikName": "Кирсановская",
+    "regionCode": "68",
+    "regionTvd": "100100067796086",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100067796088",
+      "oikName": "Тамбовская область – Рассказовский"
+    },
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 14775,
@@ -1924,6 +2116,14 @@ export const duma_2016_tic_464_region_68 = [
     "ballot": "single-member",
     "tikTvd": "2682000507766",
     "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "100100067796086",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100067796088",
+      "oikName": "Тамбовская область – Рассказовский"
+    },
     "uikCount": 42,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 18673,
@@ -2015,6 +2215,14 @@ export const duma_2016_tic_464_region_68 = [
     "ballot": "single-member",
     "tikTvd": "2682000507767",
     "tikName": "Знаменская",
+    "regionCode": "68",
+    "regionTvd": "100100067796086",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100067796088",
+      "oikName": "Тамбовская область – Рассказовский"
+    },
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 14477,
@@ -2082,6 +2290,14 @@ export const duma_2016_tic_464_region_68 = [
     "ballot": "single-member",
     "tikTvd": "2682000507768",
     "tikName": "Жердевская",
+    "regionCode": "68",
+    "regionTvd": "100100067796086",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100067796088",
+      "oikName": "Тамбовская область – Рассказовский"
+    },
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 22888,
@@ -2166,6 +2382,14 @@ export const duma_2016_tic_464_region_68 = [
     "ballot": "single-member",
     "tikTvd": "2682000507769",
     "tikName": "Гавриловская",
+    "regionCode": "68",
+    "regionTvd": "100100067796086",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100067796088",
+      "oikName": "Тамбовская область – Рассказовский"
+    },
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 8840,
@@ -2232,6 +2456,14 @@ export const duma_2016_tic_464_region_68 = [
     "ballot": "single-member",
     "tikTvd": "2682000507770",
     "tikName": "Бондарская",
+    "regionCode": "68",
+    "regionTvd": "100100067796086",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100067796088",
+      "oikName": "Тамбовская область – Рассказовский"
+    },
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 9923,
@@ -2302,6 +2534,14 @@ export const duma_2016_tic_464_region_68 = [
     "ballot": "single-member",
     "tikTvd": "2682000507771",
     "tikName": "Тамбовская_178",
+    "regionCode": "68",
+    "regionTvd": "100100067796086",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100067796088",
+      "oikName": "Тамбовская область – Рассказовский"
+    },
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 21215,
@@ -2367,6 +2607,14 @@ export const duma_2016_tic_464_region_68 = [
     "ballot": "single-member",
     "tikTvd": "2682000508387",
     "tikName": "Уметская",
+    "regionCode": "68",
+    "regionTvd": "100100067796086",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100067796088",
+      "oikName": "Тамбовская область – Рассказовский"
+    },
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 8569,
@@ -2435,6 +2683,14 @@ export const duma_2016_tic_464_region_68 = [
     "ballot": "single-member",
     "tikTvd": "2682000508388",
     "tikName": "Уваровская",
+    "regionCode": "68",
+    "regionTvd": "100100067796086",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100067796088",
+      "oikName": "Тамбовская область – Рассказовский"
+    },
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 8457,
@@ -2506,6 +2762,14 @@ export const duma_2016_tic_464_region_68 = [
     "ballot": "single-member",
     "tikTvd": "2682000508389",
     "tikName": "Токаревская",
+    "regionCode": "68",
+    "regionTvd": "100100067796086",
+    "regionName": "Тамбовская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100067796088",
+      "oikName": "Тамбовская область – Рассказовский"
+    },
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 14539,

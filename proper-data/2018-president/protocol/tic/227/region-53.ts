@@ -11,6 +11,9 @@ export const president_2018_tic_227_region_53 = [
     "ballot": "presidential",
     "tikTvd": "2532000645799",
     "tikName": "Демянская",
+    "regionCode": "53",
+    "regionTvd": "100100084849178",
+    "regionName": "Новгородская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10723,
@@ -74,6 +77,9 @@ export const president_2018_tic_227_region_53 = [
     "ballot": "presidential",
     "tikTvd": "2532000645800",
     "tikName": "Маловишерская",
+    "regionCode": "53",
+    "regionTvd": "100100084849178",
+    "regionName": "Новгородская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 14104,
@@ -139,6 +145,9 @@ export const president_2018_tic_227_region_53 = [
     "ballot": "presidential",
     "tikTvd": "2532000645801",
     "tikName": "Валдайская",
+    "regionCode": "53",
+    "regionTvd": "100100084849178",
+    "regionName": "Новгородская область",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 20961,
@@ -210,6 +219,9 @@ export const president_2018_tic_227_region_53 = [
     "ballot": "presidential",
     "tikTvd": "2532000645802",
     "tikName": "Пестовская",
+    "regionCode": "53",
+    "regionTvd": "100100084849178",
+    "regionName": "Новгородская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 16298,
@@ -279,6 +291,9 @@ export const president_2018_tic_227_region_53 = [
     "ballot": "presidential",
     "tikTvd": "2532000645803",
     "tikName": "Новгородская",
+    "regionCode": "53",
+    "regionTvd": "100100084849178",
+    "regionName": "Новгородская область",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 47300,
@@ -364,6 +379,9 @@ export const president_2018_tic_227_region_53 = [
     "ballot": "presidential",
     "tikTvd": "2532000645804",
     "tikName": "Чудовская",
+    "regionCode": "53",
+    "regionTvd": "100100084849178",
+    "regionName": "Новгородская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 17942,
@@ -427,6 +445,9 @@ export const president_2018_tic_227_region_53 = [
     "ballot": "presidential",
     "tikTvd": "2532000645805",
     "tikName": "Хвойнинская",
+    "regionCode": "53",
+    "regionTvd": "100100084849178",
+    "regionName": "Новгородская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10878,
@@ -489,6 +510,9 @@ export const president_2018_tic_227_region_53 = [
     "ballot": "presidential",
     "tikTvd": "2532000645806",
     "tikName": "Мошенская",
+    "regionCode": "53",
+    "regionTvd": "100100084849178",
+    "regionName": "Новгородская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 5300,
@@ -548,6 +572,9 @@ export const president_2018_tic_227_region_53 = [
     "ballot": "presidential",
     "tikTvd": "2532000645807",
     "tikName": "Солецкая",
+    "regionCode": "53",
+    "regionTvd": "100100084849178",
+    "regionName": "Новгородская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 11021,
@@ -614,6 +641,9 @@ export const president_2018_tic_227_region_53 = [
     "ballot": "presidential",
     "tikTvd": "2532000645808",
     "tikName": "Старорусская",
+    "regionCode": "53",
+    "regionTvd": "100100084849178",
+    "regionName": "Новгородская область",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 36698,
@@ -701,6 +731,9 @@ export const president_2018_tic_227_region_53 = [
     "ballot": "presidential",
     "tikTvd": "2532000645809",
     "tikName": "Любытинская",
+    "regionCode": "53",
+    "regionTvd": "100100084849178",
+    "regionName": "Новгородская область",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 7439,
@@ -761,6 +794,9 @@ export const president_2018_tic_227_region_53 = [
     "ballot": "presidential",
     "tikTvd": "2532000645810",
     "tikName": "Волотовская",
+    "regionCode": "53",
+    "regionTvd": "100100084849178",
+    "regionName": "Новгородская область",
     "uikCount": 9,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 3578,
@@ -814,6 +850,9 @@ export const president_2018_tic_227_region_53 = [
     "ballot": "presidential",
     "tikTvd": "2532000645811",
     "tikName": "Парфинская",
+    "regionCode": "53",
+    "regionTvd": "100100084849178",
+    "regionName": "Новгородская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10065,
@@ -873,6 +912,9 @@ export const president_2018_tic_227_region_53 = [
     "ballot": "presidential",
     "tikTvd": "2532000645812",
     "tikName": "Поддорская",
+    "regionCode": "53",
+    "regionTvd": "100100084849178",
+    "regionName": "Новгородская область",
     "uikCount": 10,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 3412,
@@ -927,6 +969,9 @@ export const president_2018_tic_227_region_53 = [
     "ballot": "presidential",
     "tikTvd": "2532000645813",
     "tikName": "Маревская",
+    "regionCode": "53",
+    "regionTvd": "100100084849178",
+    "regionName": "Новгородская область",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 3516,
@@ -982,6 +1027,9 @@ export const president_2018_tic_227_region_53 = [
     "ballot": "presidential",
     "tikTvd": "2532000645814",
     "tikName": "Окуловская",
+    "regionCode": "53",
+    "regionTvd": "100100084849178",
+    "regionName": "Новгородская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 21292,
@@ -1054,6 +1102,9 @@ export const president_2018_tic_227_region_53 = [
     "ballot": "presidential",
     "tikTvd": "2532000645815",
     "tikName": "Шимская",
+    "regionCode": "53",
+    "regionTvd": "100100084849178",
+    "regionName": "Новгородская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 8860,
@@ -1116,6 +1167,9 @@ export const president_2018_tic_227_region_53 = [
     "ballot": "presidential",
     "tikTvd": "2532000645816",
     "tikName": "Батецкая",
+    "regionCode": "53",
+    "regionTvd": "100100084849178",
+    "regionName": "Новгородская область",
     "uikCount": 10,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 4742,
@@ -1170,6 +1224,9 @@ export const president_2018_tic_227_region_53 = [
     "ballot": "presidential",
     "tikTvd": "2532000645817",
     "tikName": "Холмская",
+    "regionCode": "53",
+    "regionTvd": "100100084849178",
+    "regionName": "Новгородская область",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 4644,
@@ -1227,6 +1284,9 @@ export const president_2018_tic_227_region_53 = [
     "ballot": "presidential",
     "tikTvd": "2532000645818",
     "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100084849178",
+    "regionName": "Новгородская область",
     "uikCount": 55,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 55154,
@@ -1326,6 +1386,9 @@ export const president_2018_tic_227_region_53 = [
     "ballot": "presidential",
     "tikTvd": "2532000645819",
     "tikName": "Новгородcкая городская",
+    "regionCode": "53",
+    "regionTvd": "100100084849178",
+    "regionName": "Новгородская область",
     "uikCount": 95,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 178268,
@@ -1465,6 +1528,9 @@ export const president_2018_tic_227_region_53 = [
     "ballot": "presidential",
     "tikTvd": "2532000645820",
     "tikName": "Крестецкая",
+    "regionCode": "53",
+    "regionTvd": "100100084849178",
+    "regionName": "Новгородская область",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10710,

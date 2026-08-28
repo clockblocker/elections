@@ -11,6 +11,9 @@ export const president_2004_tic_227_region_78 = [
     "ballot": "presidential",
     "tikTvd": "278200078922",
     "tikName": "Адмиралтейская №1",
+    "regionCode": "78",
+    "regionTvd": "1001000882995",
+    "regionName": "Город Санкт-Петербург",
     "uikCount": 78,
     "accounting": {
       "Число избирателей, внесенных в список": 140235,
@@ -137,6 +140,9 @@ export const president_2004_tic_227_region_78 = [
     "ballot": "presidential",
     "tikTvd": "278200078923",
     "tikName": "Василеостровская №2",
+    "regionCode": "78",
+    "regionTvd": "1001000882995",
+    "regionName": "Город Санкт-Петербург",
     "uikCount": 89,
     "accounting": {
       "Число избирателей, внесенных в список": 156994,
@@ -274,6 +280,9 @@ export const president_2004_tic_227_region_78 = [
     "ballot": "presidential",
     "tikTvd": "278200078924",
     "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "1001000882995",
+    "regionName": "Город Санкт-Петербург",
     "uikCount": 211,
     "accounting": {
       "Число избирателей, внесенных в список": 152328,
@@ -533,6 +542,9 @@ export const president_2004_tic_227_region_78 = [
     "ballot": "presidential",
     "tikTvd": "278200078925",
     "tikName": "Красногвардейская №4",
+    "regionCode": "78",
+    "regionTvd": "1001000882995",
+    "regionName": "Город Санкт-Петербург",
     "uikCount": 66,
     "accounting": {
       "Число избирателей, внесенных в список": 122344,
@@ -647,6 +659,9 @@ export const president_2004_tic_227_region_78 = [
     "ballot": "presidential",
     "tikTvd": "278200078926",
     "tikName": "Невская №5",
+    "regionCode": "78",
+    "regionTvd": "1001000882995",
+    "regionName": "Город Санкт-Петербург",
     "uikCount": 85,
     "accounting": {
       "Число избирателей, внесенных в список": 191339,
@@ -780,6 +795,9 @@ export const president_2004_tic_227_region_78 = [
     "ballot": "presidential",
     "tikTvd": "278200078928",
     "tikName": "Красносельская №6",
+    "regionCode": "78",
+    "regionTvd": "1001000882995",
+    "regionName": "Город Санкт-Петербург",
     "uikCount": 58,
     "accounting": {
       "Число избирателей, внесенных в список": 127368,
@@ -886,6 +904,9 @@ export const president_2004_tic_227_region_78 = [
     "ballot": "presidential",
     "tikTvd": "278200078929",
     "tikName": "Красногвардейская №25",
+    "regionCode": "78",
+    "regionTvd": "1001000882995",
+    "regionName": "Город Санкт-Петербург",
     "uikCount": 62,
     "accounting": {
       "Число избирателей, внесенных в список": 138127,
@@ -996,6 +1017,9 @@ export const president_2004_tic_227_region_78 = [
     "ballot": "presidential",
     "tikTvd": "278200078930",
     "tikName": "Кировская №7",
+    "regionCode": "78",
+    "regionTvd": "1001000882995",
+    "regionName": "Город Санкт-Петербург",
     "uikCount": 57,
     "accounting": {
       "Число избирателей, внесенных в список": 122610,
@@ -1101,6 +1125,9 @@ export const president_2004_tic_227_region_78 = [
     "ballot": "presidential",
     "tikTvd": "278200078931",
     "tikName": "Петродворцовая №8",
+    "regionCode": "78",
+    "regionTvd": "1001000882995",
+    "regionName": "Город Санкт-Петербург",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в список": 60955,
@@ -1179,6 +1206,9 @@ export const president_2004_tic_227_region_78 = [
     "ballot": "presidential",
     "tikTvd": "278200078932",
     "tikName": "Ломоносовская №9",
+    "regionCode": "78",
+    "regionTvd": "1001000882995",
+    "regionName": "Город Санкт-Петербург",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в список": 33066,
@@ -1243,6 +1273,9 @@ export const president_2004_tic_227_region_78 = [
     "ballot": "presidential",
     "tikTvd": "278200078933",
     "tikName": "Красносельская №26",
+    "regionCode": "78",
+    "regionTvd": "1001000882995",
+    "regionName": "Город Санкт-Петербург",
     "uikCount": 60,
     "accounting": {
       "Число избирателей, внесенных в список": 118406,
@@ -1351,6 +1384,9 @@ export const president_2004_tic_227_region_78 = [
     "ballot": "presidential",
     "tikTvd": "278200078934",
     "tikName": "Выборгская №10",
+    "regionCode": "78",
+    "regionTvd": "1001000882995",
+    "regionName": "Город Санкт-Петербург",
     "uikCount": 117,
     "accounting": {
       "Число избирателей, внесенных в список": 250967,
@@ -1516,6 +1552,9 @@ export const president_2004_tic_227_region_78 = [
     "ballot": "presidential",
     "tikTvd": "278200078935",
     "tikName": "Калининская №11",
+    "regionCode": "78",
+    "regionTvd": "1001000882995",
+    "regionName": "Город Санкт-Петербург",
     "uikCount": 92,
     "accounting": {
       "Число избирателей, внесенных в список": 210641,
@@ -1656,6 +1695,9 @@ export const president_2004_tic_227_region_78 = [
     "ballot": "presidential",
     "tikTvd": "278200078936",
     "tikName": "Приморская №12",
+    "regionCode": "78",
+    "regionTvd": "1001000882995",
+    "regionName": "Город Санкт-Петербург",
     "uikCount": 74,
     "accounting": {
       "Число избирателей, внесенных в список": 176281,
@@ -1778,6 +1820,9 @@ export const president_2004_tic_227_region_78 = [
     "ballot": "presidential",
     "tikTvd": "278200078937",
     "tikName": "Курортная №13",
+    "regionCode": "78",
+    "regionTvd": "1001000882995",
+    "regionName": "Город Санкт-Петербург",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в список": 44662,
@@ -1859,6 +1904,9 @@ export const president_2004_tic_227_region_78 = [
     "ballot": "presidential",
     "tikTvd": "278200078938",
     "tikName": "Выборгская №14",
+    "regionCode": "78",
+    "regionTvd": "1001000882995",
+    "regionName": "Город Санкт-Петербург",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в список": 83974,
@@ -1947,6 +1995,9 @@ export const president_2004_tic_227_region_78 = [
     "ballot": "presidential",
     "tikTvd": "278200078939",
     "tikName": "Кронштадтская №15",
+    "regionCode": "78",
+    "regionTvd": "1001000882995",
+    "regionName": "Город Санкт-Петербург",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в список": 35927,
@@ -2009,6 +2060,9 @@ export const president_2004_tic_227_region_78 = [
     "ballot": "presidential",
     "tikTvd": "278200078940",
     "tikName": "Приморская №28",
+    "regionCode": "78",
+    "regionTvd": "1001000882995",
+    "regionName": "Город Санкт-Петербург",
     "uikCount": 58,
     "accounting": {
       "Число избирателей, внесенных в список": 136106,
@@ -2115,6 +2169,9 @@ export const president_2004_tic_227_region_78 = [
     "ballot": "presidential",
     "tikTvd": "278200078941",
     "tikName": "Центральная №16",
+    "regionCode": "78",
+    "regionTvd": "1001000882995",
+    "regionName": "Город Санкт-Петербург",
     "uikCount": 52,
     "accounting": {
       "Число избирателей, внесенных в список": 97883,
@@ -2215,6 +2272,9 @@ export const president_2004_tic_227_region_78 = [
     "ballot": "presidential",
     "tikTvd": "278200078942",
     "tikName": "Калининская №17",
+    "regionCode": "78",
+    "regionTvd": "1001000882995",
+    "regionName": "Город Санкт-Петербург",
     "uikCount": 62,
     "accounting": {
       "Число избирателей, внесенных в список": 146882,
@@ -2325,6 +2385,9 @@ export const president_2004_tic_227_region_78 = [
     "ballot": "presidential",
     "tikTvd": "278200078943",
     "tikName": "Петроградская №18",
+    "regionCode": "78",
+    "regionTvd": "1001000882995",
+    "regionName": "Город Санкт-Петербург",
     "uikCount": 62,
     "accounting": {
       "Число избирателей, внесенных в список": 100873,
@@ -2435,6 +2498,9 @@ export const president_2004_tic_227_region_78 = [
     "ballot": "presidential",
     "tikTvd": "278200078944",
     "tikName": "Центральная №30",
+    "regionCode": "78",
+    "regionTvd": "1001000882995",
+    "regionName": "Город Санкт-Петербург",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список": 71943,
@@ -2519,6 +2585,9 @@ export const president_2004_tic_227_region_78 = [
     "ballot": "presidential",
     "tikTvd": "278200078945",
     "tikName": "Московская №19",
+    "regionCode": "78",
+    "regionTvd": "1001000882995",
+    "regionName": "Город Санкт-Петербург",
     "uikCount": 63,
     "accounting": {
       "Число избирателей, внесенных в список": 128280,
@@ -2630,6 +2699,9 @@ export const president_2004_tic_227_region_78 = [
     "ballot": "presidential",
     "tikTvd": "278200078946",
     "tikName": "Пушкинская №20",
+    "regionCode": "78",
+    "regionTvd": "1001000882995",
+    "regionName": "Город Санкт-Петербург",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в список": 74375,
@@ -2715,6 +2787,9 @@ export const president_2004_tic_227_region_78 = [
     "ballot": "presidential",
     "tikTvd": "278200078947",
     "tikName": "Колпинская №21",
+    "regionCode": "78",
+    "regionTvd": "1001000882995",
+    "regionName": "Город Санкт-Петербург",
     "uikCount": 61,
     "accounting": {
       "Число избирателей, внесенных в список": 137649,
@@ -2824,6 +2899,9 @@ export const president_2004_tic_227_region_78 = [
     "ballot": "presidential",
     "tikTvd": "278200078948",
     "tikName": "Павловская №22",
+    "regionCode": "78",
+    "regionTvd": "1001000882995",
+    "regionName": "Город Санкт-Петербург",
     "uikCount": 9,
     "accounting": {
       "Число избирателей, внесенных в список": 11561,
@@ -2881,6 +2959,9 @@ export const president_2004_tic_227_region_78 = [
     "ballot": "presidential",
     "tikTvd": "278200078950",
     "tikName": "Московская №27",
+    "regionCode": "78",
+    "regionTvd": "1001000882995",
+    "regionName": "Город Санкт-Петербург",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, внесенных в список": 91154,
@@ -2975,6 +3056,9 @@ export const president_2004_tic_227_region_78 = [
     "ballot": "presidential",
     "tikTvd": "278200078951",
     "tikName": "Фрунзенская №23",
+    "regionCode": "78",
+    "regionTvd": "1001000882995",
+    "regionName": "Город Санкт-Петербург",
     "uikCount": 62,
     "accounting": {
       "Число избирателей, внесенных в список": 148125,
@@ -3085,6 +3169,9 @@ export const president_2004_tic_227_region_78 = [
     "ballot": "presidential",
     "tikTvd": "278200078952",
     "tikName": "Невская №24",
+    "regionCode": "78",
+    "regionTvd": "1001000882995",
+    "regionName": "Город Санкт-Петербург",
     "uikCount": 78,
     "accounting": {
       "Число избирателей, внесенных в список": 168120,
@@ -3211,6 +3298,9 @@ export const president_2004_tic_227_region_78 = [
     "ballot": "presidential",
     "tikTvd": "278200078954",
     "tikName": "Фрунзенская №29",
+    "regionCode": "78",
+    "regionTvd": "1001000882995",
+    "regionName": "Город Санкт-Петербург",
     "uikCount": 71,
     "accounting": {
       "Число избирателей, внесенных в список": 154795,

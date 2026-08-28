@@ -11,6 +11,9 @@ export const duma_2016_tic_233_region_69 = [
     "ballot": "party",
     "tikTvd": "2692000982881",
     "tikName": "Удомельская",
+    "regionCode": "69",
+    "regionTvd": "100100067796089",
+    "regionName": "Тверская область",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 31581,
@@ -100,6 +103,9 @@ export const duma_2016_tic_233_region_69 = [
     "ballot": "party",
     "tikTvd": "2692000982882",
     "tikName": "Тверь, Центральная",
+    "regionCode": "69",
+    "regionTvd": "100100067796089",
+    "regionName": "Тверская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 42505,
@@ -181,6 +187,9 @@ export const duma_2016_tic_233_region_69 = [
     "ballot": "party",
     "tikTvd": "2692000982883",
     "tikName": "Тверь, Пролетарская",
+    "regionCode": "69",
+    "regionTvd": "100100067796089",
+    "regionName": "Тверская область",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 74943,
@@ -280,6 +289,9 @@ export const duma_2016_tic_233_region_69 = [
     "ballot": "party",
     "tikTvd": "2692000982884",
     "tikName": "Тверь, Московская",
+    "regionCode": "69",
+    "regionTvd": "100100067796089",
+    "regionName": "Тверская область",
     "uikCount": 57,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 96091,
@@ -393,6 +405,9 @@ export const duma_2016_tic_233_region_69 = [
     "ballot": "party",
     "tikTvd": "2692000982885",
     "tikName": "Сонковская",
+    "regionCode": "69",
+    "regionTvd": "100100067796089",
+    "regionName": "Тверская область",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 6998,
@@ -462,6 +477,9 @@ export const duma_2016_tic_233_region_69 = [
     "ballot": "party",
     "tikTvd": "2692000982886",
     "tikName": "Сандовская",
+    "regionCode": "69",
+    "regionTvd": "100100067796089",
+    "regionName": "Тверская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 5436,
@@ -533,6 +551,9 @@ export const duma_2016_tic_233_region_69 = [
     "ballot": "party",
     "tikTvd": "2692000982887",
     "tikName": "Рамешковская",
+    "regionCode": "69",
+    "regionTvd": "100100067796089",
+    "regionName": "Тверская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 11400,
@@ -604,6 +625,9 @@ export const duma_2016_tic_233_region_69 = [
     "ballot": "party",
     "tikTvd": "2692000982888",
     "tikName": "Молоковская",
+    "regionCode": "69",
+    "regionTvd": "100100067796089",
+    "regionName": "Тверская область",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 4193,
@@ -674,6 +698,9 @@ export const duma_2016_tic_233_region_69 = [
     "ballot": "party",
     "tikTvd": "2692000982889",
     "tikName": "Максатихинская",
+    "regionCode": "69",
+    "regionTvd": "100100067796089",
+    "regionName": "Тверская область",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 14373,
@@ -757,6 +784,9 @@ export const duma_2016_tic_233_region_69 = [
     "ballot": "party",
     "tikTvd": "2692000982890",
     "tikName": "Лесная",
+    "regionCode": "69",
+    "regionTvd": "100100067796089",
+    "regionName": "Тверская область",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 4420,
@@ -826,6 +856,9 @@ export const duma_2016_tic_233_region_69 = [
     "ballot": "party",
     "tikTvd": "2692000982891",
     "tikName": "Краснохолмская",
+    "regionCode": "69",
+    "regionTvd": "100100067796089",
+    "regionName": "Тверская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 9393,
@@ -902,6 +935,9 @@ export const duma_2016_tic_233_region_69 = [
     "ballot": "party",
     "tikTvd": "2692000982892",
     "tikName": "Конаковская",
+    "regionCode": "69",
+    "regionTvd": "100100067796089",
+    "regionName": "Тверская область",
     "uikCount": 54,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 72487,
@@ -1012,6 +1048,9 @@ export const duma_2016_tic_233_region_69 = [
     "ballot": "party",
     "tikTvd": "2692000982893",
     "tikName": "Кимрская городская",
+    "regionCode": "69",
+    "regionTvd": "100100067796089",
+    "regionName": "Тверская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 40407,
@@ -1090,6 +1129,9 @@ export const duma_2016_tic_233_region_69 = [
     "ballot": "party",
     "tikTvd": "2692000982894",
     "tikName": "Кимрская",
+    "regionCode": "69",
+    "regionTvd": "100100067796089",
+    "regionName": "Тверская область",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 10947,
@@ -1160,6 +1202,9 @@ export const duma_2016_tic_233_region_69 = [
     "ballot": "party",
     "tikTvd": "2692000982895",
     "tikName": "Кесовогорская",
+    "regionCode": "69",
+    "regionTvd": "100100067796089",
+    "regionName": "Тверская область",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 6550,
@@ -1233,6 +1278,9 @@ export const duma_2016_tic_233_region_69 = [
     "ballot": "party",
     "tikTvd": "2692000982896",
     "tikName": "Кашинская",
+    "regionCode": "69",
+    "regionTvd": "100100067796089",
+    "regionName": "Тверская область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 21697,
@@ -1325,6 +1373,9 @@ export const duma_2016_tic_233_region_69 = [
     "ballot": "party",
     "tikTvd": "2692000982897",
     "tikName": "Калязинская",
+    "regionCode": "69",
+    "regionTvd": "100100067796089",
+    "regionName": "Тверская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 16801,
@@ -1409,6 +1460,9 @@ export const duma_2016_tic_233_region_69 = [
     "ballot": "party",
     "tikTvd": "2692000982898",
     "tikName": "Калининская-179",
+    "regionCode": "69",
+    "regionTvd": "100100067796089",
+    "regionName": "Тверская область",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 27962,
@@ -1500,6 +1554,9 @@ export const duma_2016_tic_233_region_69 = [
     "ballot": "party",
     "tikTvd": "2692000982899",
     "tikName": "Весьегонская",
+    "regionCode": "69",
+    "regionTvd": "100100067796089",
+    "regionName": "Тверская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 10519,
@@ -1576,6 +1633,9 @@ export const duma_2016_tic_233_region_69 = [
     "ballot": "party",
     "tikTvd": "2692000982900",
     "tikName": "Бежецкая",
+    "regionCode": "69",
+    "regionTvd": "100100067796089",
+    "regionName": "Тверская область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 28523,
@@ -1668,6 +1728,9 @@ export const duma_2016_tic_233_region_69 = [
     "ballot": "party",
     "tikTvd": "2692000983807",
     "tikName": "Фировская",
+    "regionCode": "69",
+    "regionTvd": "100100067796089",
+    "regionName": "Тверская область",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 7738,
@@ -1737,6 +1800,9 @@ export const duma_2016_tic_233_region_69 = [
     "ballot": "party",
     "tikTvd": "2692000983808",
     "tikName": "Торопецкая",
+    "regionCode": "69",
+    "regionTvd": "100100067796089",
+    "regionName": "Тверская область",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 16988,
@@ -1820,6 +1886,9 @@ export const duma_2016_tic_233_region_69 = [
     "ballot": "party",
     "tikTvd": "2692000983809",
     "tikName": "Торжокская городская",
+    "regionCode": "69",
+    "regionTvd": "100100067796089",
+    "regionName": "Тверская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 35256,
@@ -1900,6 +1969,9 @@ export const duma_2016_tic_233_region_69 = [
     "ballot": "party",
     "tikTvd": "2692000983810",
     "tikName": "Торжокская",
+    "regionCode": "69",
+    "regionTvd": "100100067796089",
+    "regionName": "Тверская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 16246,
@@ -1986,6 +2058,9 @@ export const duma_2016_tic_233_region_69 = [
     "ballot": "party",
     "tikTvd": "2692000983811",
     "tikName": "Тверь, Заволжская",
+    "regionCode": "69",
+    "regionTvd": "100100067796089",
+    "regionName": "Тверская область",
     "uikCount": 59,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 118322,
@@ -2101,6 +2176,9 @@ export const duma_2016_tic_233_region_69 = [
     "ballot": "party",
     "tikTvd": "2692000983812",
     "tikName": "Старицкая",
+    "regionCode": "69",
+    "regionTvd": "100100067796089",
+    "regionName": "Тверская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 17757,
@@ -2187,6 +2265,9 @@ export const duma_2016_tic_233_region_69 = [
     "ballot": "party",
     "tikTvd": "2692000983813",
     "tikName": "Спировская",
+    "regionCode": "69",
+    "regionTvd": "100100067796089",
+    "regionName": "Тверская область",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 9381,
@@ -2260,6 +2341,9 @@ export const duma_2016_tic_233_region_69 = [
     "ballot": "party",
     "tikTvd": "2692000983814",
     "tikName": "Солнечная поселковая",
+    "regionCode": "69",
+    "regionTvd": "100100067796089",
+    "regionName": "Тверская область",
     "uikCount": 1,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1671,
@@ -2317,6 +2401,9 @@ export const duma_2016_tic_233_region_69 = [
     "ballot": "party",
     "tikTvd": "2692000983815",
     "tikName": "Селижаровская",
+    "regionCode": "69",
+    "regionTvd": "100100067796089",
+    "regionName": "Тверская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 9333,
@@ -2397,6 +2484,9 @@ export const duma_2016_tic_233_region_69 = [
     "ballot": "party",
     "tikTvd": "2692000983816",
     "tikName": "Ржевская городская",
+    "regionCode": "69",
+    "regionTvd": "100100067796089",
+    "regionName": "Тверская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 47249,
@@ -2483,6 +2573,9 @@ export const duma_2016_tic_233_region_69 = [
     "ballot": "party",
     "tikTvd": "2692000983817",
     "tikName": "Ржевская",
+    "regionCode": "69",
+    "regionTvd": "100100067796089",
+    "regionName": "Тверская область",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 9670,
@@ -2566,6 +2659,9 @@ export const duma_2016_tic_233_region_69 = [
     "ballot": "party",
     "tikTvd": "2692000983818",
     "tikName": "Пеновская",
+    "regionCode": "69",
+    "regionTvd": "100100067796089",
+    "regionName": "Тверская область",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 5636,
@@ -2633,6 +2729,9 @@ export const duma_2016_tic_233_region_69 = [
     "ballot": "party",
     "tikTvd": "2692000983819",
     "tikName": "Осташковская",
+    "regionCode": "69",
+    "regionTvd": "100100067796089",
+    "regionName": "Тверская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 20037,
@@ -2717,6 +2816,9 @@ export const duma_2016_tic_233_region_69 = [
     "ballot": "party",
     "tikTvd": "2692000983820",
     "tikName": "Оленинская",
+    "regionCode": "69",
+    "regionTvd": "100100067796089",
+    "regionName": "Тверская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 9963,
@@ -2798,6 +2900,9 @@ export const duma_2016_tic_233_region_69 = [
     "ballot": "party",
     "tikTvd": "2692000983821",
     "tikName": "Озерная поселковая",
+    "regionCode": "69",
+    "regionTvd": "100100067796089",
+    "regionName": "Тверская область",
     "uikCount": 5,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 7657,
@@ -2859,6 +2964,9 @@ export const duma_2016_tic_233_region_69 = [
     "ballot": "party",
     "tikTvd": "2692000983822",
     "tikName": "Нелидовская",
+    "regionCode": "69",
+    "regionTvd": "100100067796089",
+    "regionName": "Тверская область",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 23859,
@@ -2958,6 +3066,9 @@ export const duma_2016_tic_233_region_69 = [
     "ballot": "party",
     "tikTvd": "2692000983823",
     "tikName": "Лихославльская",
+    "regionCode": "69",
+    "regionTvd": "100100067796089",
+    "regionName": "Тверская область",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 22937,
@@ -3047,6 +3158,9 @@ export const duma_2016_tic_233_region_69 = [
     "ballot": "party",
     "tikTvd": "2692000983824",
     "tikName": "Кувшиновская",
+    "regionCode": "69",
+    "regionTvd": "100100067796089",
+    "regionName": "Тверская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 12098,
@@ -3126,6 +3240,9 @@ export const duma_2016_tic_233_region_69 = [
     "ballot": "party",
     "tikTvd": "2692000983825",
     "tikName": "Калининская-180",
+    "regionCode": "69",
+    "regionTvd": "100100067796089",
+    "regionName": "Тверская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 18473,
@@ -3201,6 +3318,9 @@ export const duma_2016_tic_233_region_69 = [
     "ballot": "party",
     "tikTvd": "2692000983826",
     "tikName": "Зубцовская",
+    "regionCode": "69",
+    "regionTvd": "100100067796089",
+    "regionName": "Тверская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 13701,
@@ -3287,6 +3407,9 @@ export const duma_2016_tic_233_region_69 = [
     "ballot": "party",
     "tikTvd": "2692000983827",
     "tikName": "Западнодвинская",
+    "regionCode": "69",
+    "regionTvd": "100100067796089",
+    "regionName": "Тверская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 13353,
@@ -3372,6 +3495,9 @@ export const duma_2016_tic_233_region_69 = [
     "ballot": "party",
     "tikTvd": "2692000983828",
     "tikName": "Жарковская",
+    "regionCode": "69",
+    "regionTvd": "100100067796089",
+    "regionName": "Тверская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 4691,
@@ -3443,6 +3569,9 @@ export const duma_2016_tic_233_region_69 = [
     "ballot": "party",
     "tikTvd": "2692000983829",
     "tikName": "Вышневолоцкая городская",
+    "regionCode": "69",
+    "regionTvd": "100100067796089",
+    "regionName": "Тверская область",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 39334,
@@ -3531,6 +3660,9 @@ export const duma_2016_tic_233_region_69 = [
     "ballot": "party",
     "tikTvd": "2692000983830",
     "tikName": "Вышневолоцкая",
+    "regionCode": "69",
+    "regionTvd": "100100067796089",
+    "regionName": "Тверская область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 19760,
@@ -3623,6 +3755,9 @@ export const duma_2016_tic_233_region_69 = [
     "ballot": "party",
     "tikTvd": "2692000983831",
     "tikName": "Бологовская",
+    "regionCode": "69",
+    "regionTvd": "100100067796089",
+    "regionName": "Тверская область",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 30683,
@@ -3714,6 +3849,9 @@ export const duma_2016_tic_233_region_69 = [
     "ballot": "party",
     "tikTvd": "2692000983832",
     "tikName": "Бельская",
+    "regionCode": "69",
+    "regionTvd": "100100067796089",
+    "regionName": "Тверская область",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 5507,
@@ -3782,6 +3920,9 @@ export const duma_2016_tic_233_region_69 = [
     "ballot": "party",
     "tikTvd": "2692000983833",
     "tikName": "Андреапольская",
+    "regionCode": "69",
+    "regionTvd": "100100067796089",
+    "regionName": "Тверская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 9714,

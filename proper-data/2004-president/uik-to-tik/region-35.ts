@@ -7,6529 +7,11969 @@ export const president_2004_uik_to_tik_region_35 = [
   {
     "uikNumber": 1,
     "uikTvd": "435400172124",
+    "uikName": "УИК №1",
     "tikTvd": "235200074036",
-    "tikName": "Бабаевская"
+    "tikName": "Бабаевская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 2,
     "uikTvd": "435400172125",
+    "uikName": "УИК №2",
     "tikTvd": "235200074036",
-    "tikName": "Бабаевская"
+    "tikName": "Бабаевская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 3,
     "uikTvd": "435400172126",
+    "uikName": "УИК №3",
     "tikTvd": "235200074036",
-    "tikName": "Бабаевская"
+    "tikName": "Бабаевская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 4,
     "uikTvd": "435400172127",
+    "uikName": "УИК №4",
     "tikTvd": "235200074036",
-    "tikName": "Бабаевская"
+    "tikName": "Бабаевская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 5,
     "uikTvd": "435400172128",
+    "uikName": "УИК №5",
     "tikTvd": "235200074036",
-    "tikName": "Бабаевская"
+    "tikName": "Бабаевская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 6,
     "uikTvd": "435400172129",
+    "uikName": "УИК №6",
     "tikTvd": "235200074036",
-    "tikName": "Бабаевская"
+    "tikName": "Бабаевская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 7,
     "uikTvd": "435400172130",
+    "uikName": "УИК №7",
     "tikTvd": "235200074036",
-    "tikName": "Бабаевская"
+    "tikName": "Бабаевская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 8,
     "uikTvd": "435400172131",
+    "uikName": "УИК №8",
     "tikTvd": "235200074036",
-    "tikName": "Бабаевская"
+    "tikName": "Бабаевская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 9,
     "uikTvd": "435400172132",
+    "uikName": "УИК №9",
     "tikTvd": "235200074036",
-    "tikName": "Бабаевская"
+    "tikName": "Бабаевская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 10,
     "uikTvd": "435400172133",
+    "uikName": "УИК №10",
     "tikTvd": "235200074036",
-    "tikName": "Бабаевская"
+    "tikName": "Бабаевская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 11,
     "uikTvd": "435400172134",
+    "uikName": "УИК №11",
     "tikTvd": "235200074036",
-    "tikName": "Бабаевская"
+    "tikName": "Бабаевская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 12,
     "uikTvd": "435400172135",
+    "uikName": "УИК №12",
     "tikTvd": "235200074036",
-    "tikName": "Бабаевская"
+    "tikName": "Бабаевская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 13,
     "uikTvd": "435400172136",
+    "uikName": "УИК №13",
     "tikTvd": "235200074036",
-    "tikName": "Бабаевская"
+    "tikName": "Бабаевская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 14,
     "uikTvd": "435400172137",
+    "uikName": "УИК №14",
     "tikTvd": "235200074036",
-    "tikName": "Бабаевская"
+    "tikName": "Бабаевская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 15,
     "uikTvd": "435400172138",
+    "uikName": "УИК №15",
     "tikTvd": "235200074036",
-    "tikName": "Бабаевская"
+    "tikName": "Бабаевская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 16,
     "uikTvd": "435400172139",
+    "uikName": "УИК №16",
     "tikTvd": "235200074036",
-    "tikName": "Бабаевская"
+    "tikName": "Бабаевская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 17,
     "uikTvd": "435400172140",
+    "uikName": "УИК №17",
     "tikTvd": "235200074036",
-    "tikName": "Бабаевская"
+    "tikName": "Бабаевская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 18,
     "uikTvd": "435400172141",
+    "uikName": "УИК №18",
     "tikTvd": "235200074036",
-    "tikName": "Бабаевская"
+    "tikName": "Бабаевская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 19,
     "uikTvd": "435400172142",
+    "uikName": "УИК №19",
     "tikTvd": "235200074036",
-    "tikName": "Бабаевская"
+    "tikName": "Бабаевская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 20,
     "uikTvd": "435400172143",
+    "uikName": "УИК №20",
     "tikTvd": "235200074036",
-    "tikName": "Бабаевская"
+    "tikName": "Бабаевская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 21,
     "uikTvd": "435400172144",
+    "uikName": "УИК №21",
     "tikTvd": "235200074036",
-    "tikName": "Бабаевская"
+    "tikName": "Бабаевская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 22,
     "uikTvd": "435400172145",
+    "uikName": "УИК №22",
     "tikTvd": "235200074036",
-    "tikName": "Бабаевская"
+    "tikName": "Бабаевская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 23,
     "uikTvd": "435400172146",
+    "uikName": "УИК №23",
     "tikTvd": "235200074036",
-    "tikName": "Бабаевская"
+    "tikName": "Бабаевская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 24,
     "uikTvd": "435400172147",
+    "uikName": "УИК №24",
     "tikTvd": "235200074036",
-    "tikName": "Бабаевская"
+    "tikName": "Бабаевская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 25,
     "uikTvd": "435400172148",
+    "uikName": "УИК №25",
     "tikTvd": "235200074036",
-    "tikName": "Бабаевская"
+    "tikName": "Бабаевская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 26,
     "uikTvd": "435400172149",
+    "uikName": "УИК №26",
     "tikTvd": "235200074036",
-    "tikName": "Бабаевская"
+    "tikName": "Бабаевская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 27,
     "uikTvd": "435400172150",
+    "uikName": "УИК №27",
     "tikTvd": "235200074036",
-    "tikName": "Бабаевская"
+    "tikName": "Бабаевская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 28,
     "uikTvd": "435400172151",
+    "uikName": "УИК №28",
     "tikTvd": "235200074036",
-    "tikName": "Бабаевская"
+    "tikName": "Бабаевская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 29,
     "uikTvd": "435400172152",
+    "uikName": "УИК №29",
     "tikTvd": "235200074036",
-    "tikName": "Бабаевская"
+    "tikName": "Бабаевская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 30,
     "uikTvd": "435400172153",
+    "uikName": "УИК №30",
     "tikTvd": "235200074036",
-    "tikName": "Бабаевская"
+    "tikName": "Бабаевская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 31,
     "uikTvd": "435400172154",
+    "uikName": "УИК №31",
     "tikTvd": "235200074036",
-    "tikName": "Бабаевская"
+    "tikName": "Бабаевская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 32,
     "uikTvd": "435400172155",
+    "uikName": "УИК №32",
     "tikTvd": "235200074036",
-    "tikName": "Бабаевская"
+    "tikName": "Бабаевская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 33,
     "uikTvd": "435400172156",
+    "uikName": "УИК №33",
     "tikTvd": "235200074036",
-    "tikName": "Бабаевская"
+    "tikName": "Бабаевская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 34,
     "uikTvd": "435400172157",
+    "uikName": "УИК №34",
     "tikTvd": "235200074036",
-    "tikName": "Бабаевская"
+    "tikName": "Бабаевская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 35,
     "uikTvd": "435400172158",
+    "uikName": "УИК №35",
     "tikTvd": "235200074036",
-    "tikName": "Бабаевская"
+    "tikName": "Бабаевская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 36,
     "uikTvd": "435400172159",
+    "uikName": "УИК №36",
     "tikTvd": "235200074036",
-    "tikName": "Бабаевская"
+    "tikName": "Бабаевская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 37,
     "uikTvd": "435400172160",
+    "uikName": "УИК №37",
     "tikTvd": "235200074036",
-    "tikName": "Бабаевская"
+    "tikName": "Бабаевская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 38,
     "uikTvd": "435400172161",
+    "uikName": "УИК №38",
     "tikTvd": "235200074036",
-    "tikName": "Бабаевская"
+    "tikName": "Бабаевская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 39,
     "uikTvd": "435400271705",
+    "uikName": "УИК №39",
     "tikTvd": "235200074037",
-    "tikName": "Бабушкинская"
+    "tikName": "Бабушкинская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 40,
     "uikTvd": "435400271706",
+    "uikName": "УИК №40",
     "tikTvd": "235200074037",
-    "tikName": "Бабушкинская"
+    "tikName": "Бабушкинская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 41,
     "uikTvd": "435400271707",
+    "uikName": "УИК №41",
     "tikTvd": "235200074037",
-    "tikName": "Бабушкинская"
+    "tikName": "Бабушкинская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 42,
     "uikTvd": "435400271708",
+    "uikName": "УИК №42",
     "tikTvd": "235200074037",
-    "tikName": "Бабушкинская"
+    "tikName": "Бабушкинская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 43,
     "uikTvd": "435400271709",
+    "uikName": "УИК №43",
     "tikTvd": "235200074037",
-    "tikName": "Бабушкинская"
+    "tikName": "Бабушкинская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 44,
     "uikTvd": "435400271710",
+    "uikName": "УИК №44",
     "tikTvd": "235200074037",
-    "tikName": "Бабушкинская"
+    "tikName": "Бабушкинская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 45,
     "uikTvd": "435400271711",
+    "uikName": "УИК №45",
     "tikTvd": "235200074037",
-    "tikName": "Бабушкинская"
+    "tikName": "Бабушкинская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 46,
     "uikTvd": "435400271712",
+    "uikName": "УИК №46",
     "tikTvd": "235200074037",
-    "tikName": "Бабушкинская"
+    "tikName": "Бабушкинская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 47,
     "uikTvd": "435400271713",
+    "uikName": "УИК №47",
     "tikTvd": "235200074037",
-    "tikName": "Бабушкинская"
+    "tikName": "Бабушкинская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 48,
     "uikTvd": "435400271714",
+    "uikName": "УИК №48",
     "tikTvd": "235200074037",
-    "tikName": "Бабушкинская"
+    "tikName": "Бабушкинская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 49,
     "uikTvd": "435400271715",
+    "uikName": "УИК №49",
     "tikTvd": "235200074037",
-    "tikName": "Бабушкинская"
+    "tikName": "Бабушкинская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 50,
     "uikTvd": "435400271716",
+    "uikName": "УИК №50",
     "tikTvd": "235200074037",
-    "tikName": "Бабушкинская"
+    "tikName": "Бабушкинская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 51,
     "uikTvd": "435400271717",
+    "uikName": "УИК №51",
     "tikTvd": "235200074037",
-    "tikName": "Бабушкинская"
+    "tikName": "Бабушкинская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 52,
     "uikTvd": "435400271718",
+    "uikName": "УИК №52",
     "tikTvd": "235200074037",
-    "tikName": "Бабушкинская"
+    "tikName": "Бабушкинская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 53,
     "uikTvd": "435400271719",
+    "uikName": "УИК №53",
     "tikTvd": "235200074037",
-    "tikName": "Бабушкинская"
+    "tikName": "Бабушкинская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 54,
     "uikTvd": "435400271720",
+    "uikName": "УИК №54",
     "tikTvd": "235200074037",
-    "tikName": "Бабушкинская"
+    "tikName": "Бабушкинская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 55,
     "uikTvd": "435400271721",
+    "uikName": "УИК №55",
     "tikTvd": "235200074037",
-    "tikName": "Бабушкинская"
+    "tikName": "Бабушкинская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 56,
     "uikTvd": "435400271722",
+    "uikName": "УИК №56",
     "tikTvd": "235200074037",
-    "tikName": "Бабушкинская"
+    "tikName": "Бабушкинская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 57,
     "uikTvd": "435400271723",
+    "uikName": "УИК №57",
     "tikTvd": "235200074037",
-    "tikName": "Бабушкинская"
+    "tikName": "Бабушкинская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 58,
     "uikTvd": "435400271724",
+    "uikName": "УИК №58",
     "tikTvd": "235200074037",
-    "tikName": "Бабушкинская"
+    "tikName": "Бабушкинская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 59,
     "uikTvd": "435400271725",
+    "uikName": "УИК №59",
     "tikTvd": "235200074037",
-    "tikName": "Бабушкинская"
+    "tikName": "Бабушкинская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 60,
     "uikTvd": "435400271726",
+    "uikName": "УИК №60",
     "tikTvd": "235200074037",
-    "tikName": "Бабушкинская"
+    "tikName": "Бабушкинская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 61,
     "uikTvd": "435400271727",
+    "uikName": "УИК №61",
     "tikTvd": "235200074037",
-    "tikName": "Бабушкинская"
+    "tikName": "Бабушкинская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 62,
     "uikTvd": "435400271728",
+    "uikName": "УИК №62",
     "tikTvd": "235200074037",
-    "tikName": "Бабушкинская"
+    "tikName": "Бабушкинская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 63,
     "uikTvd": "435400371690",
+    "uikName": "УИК №63",
     "tikTvd": "235200074038",
-    "tikName": "Белозерская"
+    "tikName": "Белозерская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 64,
     "uikTvd": "435400371691",
+    "uikName": "УИК №64",
     "tikTvd": "235200074038",
-    "tikName": "Белозерская"
+    "tikName": "Белозерская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 65,
     "uikTvd": "435400371692",
+    "uikName": "УИК №65",
     "tikTvd": "235200074038",
-    "tikName": "Белозерская"
+    "tikName": "Белозерская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 66,
     "uikTvd": "435400371693",
+    "uikName": "УИК №66",
     "tikTvd": "235200074038",
-    "tikName": "Белозерская"
+    "tikName": "Белозерская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 67,
     "uikTvd": "435400371694",
+    "uikName": "УИК №67",
     "tikTvd": "235200074038",
-    "tikName": "Белозерская"
+    "tikName": "Белозерская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 68,
     "uikTvd": "435400371695",
+    "uikName": "УИК №68",
     "tikTvd": "235200074038",
-    "tikName": "Белозерская"
+    "tikName": "Белозерская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 69,
     "uikTvd": "435400371696",
+    "uikName": "УИК №69",
     "tikTvd": "235200074038",
-    "tikName": "Белозерская"
+    "tikName": "Белозерская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 70,
     "uikTvd": "435400371697",
+    "uikName": "УИК №70",
     "tikTvd": "235200074038",
-    "tikName": "Белозерская"
+    "tikName": "Белозерская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 71,
     "uikTvd": "435400371698",
+    "uikName": "УИК №71",
     "tikTvd": "235200074038",
-    "tikName": "Белозерская"
+    "tikName": "Белозерская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 72,
     "uikTvd": "435400371699",
+    "uikName": "УИК №72",
     "tikTvd": "235200074038",
-    "tikName": "Белозерская"
+    "tikName": "Белозерская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 73,
     "uikTvd": "435400371700",
+    "uikName": "УИК №73",
     "tikTvd": "235200074038",
-    "tikName": "Белозерская"
+    "tikName": "Белозерская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 74,
     "uikTvd": "435400371701",
+    "uikName": "УИК №74",
     "tikTvd": "235200074038",
-    "tikName": "Белозерская"
+    "tikName": "Белозерская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 75,
     "uikTvd": "435400371702",
+    "uikName": "УИК №75",
     "tikTvd": "235200074038",
-    "tikName": "Белозерская"
+    "tikName": "Белозерская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 76,
     "uikTvd": "435400371703",
+    "uikName": "УИК №76",
     "tikTvd": "235200074038",
-    "tikName": "Белозерская"
+    "tikName": "Белозерская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 77,
     "uikTvd": "435400371704",
+    "uikName": "УИК №77",
     "tikTvd": "235200074038",
-    "tikName": "Белозерская"
+    "tikName": "Белозерская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 78,
     "uikTvd": "435400371705",
+    "uikName": "УИК №78",
     "tikTvd": "235200074038",
-    "tikName": "Белозерская"
+    "tikName": "Белозерская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 79,
     "uikTvd": "435400371706",
+    "uikName": "УИК №79",
     "tikTvd": "235200074038",
-    "tikName": "Белозерская"
+    "tikName": "Белозерская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 80,
     "uikTvd": "435400371707",
+    "uikName": "УИК №80",
     "tikTvd": "235200074038",
-    "tikName": "Белозерская"
+    "tikName": "Белозерская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 81,
     "uikTvd": "435400371708",
+    "uikName": "УИК №81",
     "tikTvd": "235200074038",
-    "tikName": "Белозерская"
+    "tikName": "Белозерская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 82,
     "uikTvd": "435400371709",
+    "uikName": "УИК №82",
     "tikTvd": "235200074038",
-    "tikName": "Белозерская"
+    "tikName": "Белозерская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 83,
     "uikTvd": "435400371710",
+    "uikName": "УИК №83",
     "tikTvd": "235200074038",
-    "tikName": "Белозерская"
+    "tikName": "Белозерская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 84,
     "uikTvd": "435400371711",
+    "uikName": "УИК №84",
     "tikTvd": "235200074038",
-    "tikName": "Белозерская"
+    "tikName": "Белозерская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 85,
     "uikTvd": "435400371712",
+    "uikName": "УИК №85",
     "tikTvd": "235200074038",
-    "tikName": "Белозерская"
+    "tikName": "Белозерская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 86,
     "uikTvd": "435400371713",
+    "uikName": "УИК №86",
     "tikTvd": "235200074038",
-    "tikName": "Белозерская"
+    "tikName": "Белозерская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 87,
     "uikTvd": "435400371714",
+    "uikName": "УИК №87",
     "tikTvd": "235200074038",
-    "tikName": "Белозерская"
+    "tikName": "Белозерская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 88,
     "uikTvd": "435400371715",
+    "uikName": "УИК №88",
     "tikTvd": "235200074038",
-    "tikName": "Белозерская"
+    "tikName": "Белозерская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 89,
     "uikTvd": "435400371716",
+    "uikName": "УИК №89",
     "tikTvd": "235200074038",
-    "tikName": "Белозерская"
+    "tikName": "Белозерская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 90,
     "uikTvd": "435400371717",
+    "uikName": "УИК №90",
     "tikTvd": "235200074038",
-    "tikName": "Белозерская"
+    "tikName": "Белозерская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 91,
     "uikTvd": "435400371718",
+    "uikName": "УИК №91",
     "tikTvd": "235200074038",
-    "tikName": "Белозерская"
+    "tikName": "Белозерская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 92,
     "uikTvd": "435400371719",
+    "uikName": "УИК №92",
     "tikTvd": "235200074038",
-    "tikName": "Белозерская"
+    "tikName": "Белозерская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 93,
     "uikTvd": "435400371720",
+    "uikName": "УИК №93",
     "tikTvd": "235200074038",
-    "tikName": "Белозерская"
+    "tikName": "Белозерская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 94,
     "uikTvd": "435400371721",
+    "uikName": "УИК №94",
     "tikTvd": "235200074038",
-    "tikName": "Белозерская"
+    "tikName": "Белозерская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 95,
     "uikTvd": "435400471144",
+    "uikName": "УИК №95",
     "tikTvd": "235200074023",
-    "tikName": "Вашкинская"
+    "tikName": "Вашкинская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 96,
     "uikTvd": "435400471145",
+    "uikName": "УИК №96",
     "tikTvd": "235200074023",
-    "tikName": "Вашкинская"
+    "tikName": "Вашкинская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 97,
     "uikTvd": "435400471146",
+    "uikName": "УИК №97",
     "tikTvd": "235200074023",
-    "tikName": "Вашкинская"
+    "tikName": "Вашкинская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 98,
     "uikTvd": "435400471147",
+    "uikName": "УИК №98",
     "tikTvd": "235200074023",
-    "tikName": "Вашкинская"
+    "tikName": "Вашкинская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 99,
     "uikTvd": "435400471148",
+    "uikName": "УИК №99",
     "tikTvd": "235200074023",
-    "tikName": "Вашкинская"
+    "tikName": "Вашкинская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 100,
     "uikTvd": "435400471149",
+    "uikName": "УИК №100",
     "tikTvd": "235200074023",
-    "tikName": "Вашкинская"
+    "tikName": "Вашкинская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 101,
     "uikTvd": "435400471150",
+    "uikName": "УИК №101",
     "tikTvd": "235200074023",
-    "tikName": "Вашкинская"
+    "tikName": "Вашкинская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 102,
     "uikTvd": "435400471151",
+    "uikName": "УИК №102",
     "tikTvd": "235200074023",
-    "tikName": "Вашкинская"
+    "tikName": "Вашкинская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 103,
     "uikTvd": "435400471152",
+    "uikName": "УИК №103",
     "tikTvd": "235200074023",
-    "tikName": "Вашкинская"
+    "tikName": "Вашкинская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 104,
     "uikTvd": "435400471153",
+    "uikName": "УИК №104",
     "tikTvd": "235200074023",
-    "tikName": "Вашкинская"
+    "tikName": "Вашкинская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 105,
     "uikTvd": "435400471154",
+    "uikName": "УИК №105",
     "tikTvd": "235200074023",
-    "tikName": "Вашкинская"
+    "tikName": "Вашкинская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 106,
     "uikTvd": "435400471155",
+    "uikName": "УИК №106",
     "tikTvd": "235200074023",
-    "tikName": "Вашкинская"
+    "tikName": "Вашкинская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 107,
     "uikTvd": "435400471156",
+    "uikName": "УИК №107",
     "tikTvd": "235200074023",
-    "tikName": "Вашкинская"
+    "tikName": "Вашкинская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 108,
     "uikTvd": "435400471157",
+    "uikName": "УИК №108",
     "tikTvd": "235200074023",
-    "tikName": "Вашкинская"
+    "tikName": "Вашкинская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 109,
     "uikTvd": "435400471158",
+    "uikName": "УИК №109",
     "tikTvd": "235200074023",
-    "tikName": "Вашкинская"
+    "tikName": "Вашкинская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 110,
     "uikTvd": "435400471159",
+    "uikName": "УИК №110",
     "tikTvd": "235200074023",
-    "tikName": "Вашкинская"
+    "tikName": "Вашкинская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 111,
     "uikTvd": "435400471160",
+    "uikName": "УИК №111",
     "tikTvd": "235200074023",
-    "tikName": "Вашкинская"
+    "tikName": "Вашкинская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 112,
     "uikTvd": "435400471161",
+    "uikName": "УИК №112",
     "tikTvd": "235200074023",
-    "tikName": "Вашкинская"
+    "tikName": "Вашкинская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 113,
     "uikTvd": "435400471162",
+    "uikName": "УИК №113",
     "tikTvd": "235200074023",
-    "tikName": "Вашкинская"
+    "tikName": "Вашкинская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 114,
     "uikTvd": "435400572360",
+    "uikName": "УИК №114",
     "tikTvd": "235200074048",
-    "tikName": "Великоустюгская"
+    "tikName": "Великоустюгская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 115,
     "uikTvd": "435400572361",
+    "uikName": "УИК №115",
     "tikTvd": "235200074048",
-    "tikName": "Великоустюгская"
+    "tikName": "Великоустюгская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 116,
     "uikTvd": "435400572362",
+    "uikName": "УИК №116",
     "tikTvd": "235200074048",
-    "tikName": "Великоустюгская"
+    "tikName": "Великоустюгская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 117,
     "uikTvd": "435400572363",
+    "uikName": "УИК №117",
     "tikTvd": "235200074048",
-    "tikName": "Великоустюгская"
+    "tikName": "Великоустюгская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 118,
     "uikTvd": "435400572364",
+    "uikName": "УИК №118",
     "tikTvd": "235200074048",
-    "tikName": "Великоустюгская"
+    "tikName": "Великоустюгская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 119,
     "uikTvd": "435400572365",
+    "uikName": "УИК №119",
     "tikTvd": "235200074048",
-    "tikName": "Великоустюгская"
+    "tikName": "Великоустюгская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 120,
     "uikTvd": "435400572366",
+    "uikName": "УИК №120",
     "tikTvd": "235200074048",
-    "tikName": "Великоустюгская"
+    "tikName": "Великоустюгская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 121,
     "uikTvd": "435400572367",
+    "uikName": "УИК №121",
     "tikTvd": "235200074048",
-    "tikName": "Великоустюгская"
+    "tikName": "Великоустюгская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 122,
     "uikTvd": "435400572368",
+    "uikName": "УИК №122",
     "tikTvd": "235200074048",
-    "tikName": "Великоустюгская"
+    "tikName": "Великоустюгская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 123,
     "uikTvd": "435400572369",
+    "uikName": "УИК №123",
     "tikTvd": "235200074048",
-    "tikName": "Великоустюгская"
+    "tikName": "Великоустюгская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 124,
     "uikTvd": "435400572370",
+    "uikName": "УИК №124",
     "tikTvd": "235200074048",
-    "tikName": "Великоустюгская"
+    "tikName": "Великоустюгская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 125,
     "uikTvd": "435400572371",
+    "uikName": "УИК №125",
     "tikTvd": "235200074048",
-    "tikName": "Великоустюгская"
+    "tikName": "Великоустюгская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 126,
     "uikTvd": "435400572372",
+    "uikName": "УИК №126",
     "tikTvd": "235200074048",
-    "tikName": "Великоустюгская"
+    "tikName": "Великоустюгская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 127,
     "uikTvd": "435400572373",
+    "uikName": "УИК №127",
     "tikTvd": "235200074048",
-    "tikName": "Великоустюгская"
+    "tikName": "Великоустюгская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 128,
     "uikTvd": "435400572374",
+    "uikName": "УИК №128",
     "tikTvd": "235200074048",
-    "tikName": "Великоустюгская"
+    "tikName": "Великоустюгская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 129,
     "uikTvd": "435400572375",
+    "uikName": "УИК №129",
     "tikTvd": "235200074048",
-    "tikName": "Великоустюгская"
+    "tikName": "Великоустюгская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 130,
     "uikTvd": "435400572376",
+    "uikName": "УИК №130",
     "tikTvd": "235200074048",
-    "tikName": "Великоустюгская"
+    "tikName": "Великоустюгская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 131,
     "uikTvd": "435400572377",
+    "uikName": "УИК №131",
     "tikTvd": "235200074048",
-    "tikName": "Великоустюгская"
+    "tikName": "Великоустюгская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 132,
     "uikTvd": "435400572378",
+    "uikName": "УИК №132",
     "tikTvd": "235200074048",
-    "tikName": "Великоустюгская"
+    "tikName": "Великоустюгская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 133,
     "uikTvd": "435400572379",
+    "uikName": "УИК №133",
     "tikTvd": "235200074048",
-    "tikName": "Великоустюгская"
+    "tikName": "Великоустюгская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 134,
     "uikTvd": "435400572380",
+    "uikName": "УИК №134",
     "tikTvd": "235200074048",
-    "tikName": "Великоустюгская"
+    "tikName": "Великоустюгская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 135,
     "uikTvd": "435400572381",
+    "uikName": "УИК №135",
     "tikTvd": "235200074048",
-    "tikName": "Великоустюгская"
+    "tikName": "Великоустюгская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 136,
     "uikTvd": "435400572382",
+    "uikName": "УИК №136",
     "tikTvd": "235200074048",
-    "tikName": "Великоустюгская"
+    "tikName": "Великоустюгская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 137,
     "uikTvd": "435400572383",
+    "uikName": "УИК №137",
     "tikTvd": "235200074048",
-    "tikName": "Великоустюгская"
+    "tikName": "Великоустюгская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 138,
     "uikTvd": "435400572384",
+    "uikName": "УИК №138",
     "tikTvd": "235200074048",
-    "tikName": "Великоустюгская"
+    "tikName": "Великоустюгская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 139,
     "uikTvd": "435400572385",
+    "uikName": "УИК №139",
     "tikTvd": "235200074048",
-    "tikName": "Великоустюгская"
+    "tikName": "Великоустюгская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 140,
     "uikTvd": "435400572386",
+    "uikName": "УИК №140",
     "tikTvd": "235200074048",
-    "tikName": "Великоустюгская"
+    "tikName": "Великоустюгская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 141,
     "uikTvd": "435400572387",
+    "uikName": "УИК №141",
     "tikTvd": "235200074048",
-    "tikName": "Великоустюгская"
+    "tikName": "Великоустюгская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 142,
     "uikTvd": "435400572388",
+    "uikName": "УИК №142",
     "tikTvd": "235200074048",
-    "tikName": "Великоустюгская"
+    "tikName": "Великоустюгская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 143,
     "uikTvd": "435400572389",
+    "uikName": "УИК №143",
     "tikTvd": "235200074048",
-    "tikName": "Великоустюгская"
+    "tikName": "Великоустюгская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 144,
     "uikTvd": "435400572390",
+    "uikName": "УИК №144",
     "tikTvd": "235200074048",
-    "tikName": "Великоустюгская"
+    "tikName": "Великоустюгская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 145,
     "uikTvd": "435400572391",
+    "uikName": "УИК №145",
     "tikTvd": "235200074048",
-    "tikName": "Великоустюгская"
+    "tikName": "Великоустюгская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 146,
     "uikTvd": "435400572392",
+    "uikName": "УИК №146",
     "tikTvd": "235200074048",
-    "tikName": "Великоустюгская"
+    "tikName": "Великоустюгская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 147,
     "uikTvd": "435400572393",
+    "uikName": "УИК №147",
     "tikTvd": "235200074048",
-    "tikName": "Великоустюгская"
+    "tikName": "Великоустюгская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 148,
     "uikTvd": "435400572394",
+    "uikName": "УИК №148",
     "tikTvd": "235200074048",
-    "tikName": "Великоустюгская"
+    "tikName": "Великоустюгская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 149,
     "uikTvd": "435400572395",
+    "uikName": "УИК №149",
     "tikTvd": "235200074048",
-    "tikName": "Великоустюгская"
+    "tikName": "Великоустюгская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 150,
     "uikTvd": "435400572396",
+    "uikName": "УИК №150",
     "tikTvd": "235200074048",
-    "tikName": "Великоустюгская"
+    "tikName": "Великоустюгская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 151,
     "uikTvd": "435400572397",
+    "uikName": "УИК №151",
     "tikTvd": "235200074048",
-    "tikName": "Великоустюгская"
+    "tikName": "Великоустюгская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 152,
     "uikTvd": "435400572398",
+    "uikName": "УИК №152",
     "tikTvd": "235200074048",
-    "tikName": "Великоустюгская"
+    "tikName": "Великоустюгская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 153,
     "uikTvd": "435400572399",
+    "uikName": "УИК №153",
     "tikTvd": "235200074048",
-    "tikName": "Великоустюгская"
+    "tikName": "Великоустюгская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 154,
     "uikTvd": "435400572400",
+    "uikName": "УИК №154",
     "tikTvd": "235200074048",
-    "tikName": "Великоустюгская"
+    "tikName": "Великоустюгская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 155,
     "uikTvd": "435400572401",
+    "uikName": "УИК №155",
     "tikTvd": "235200074048",
-    "tikName": "Великоустюгская"
+    "tikName": "Великоустюгская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 156,
     "uikTvd": "435400572402",
+    "uikName": "УИК №156",
     "tikTvd": "235200074048",
-    "tikName": "Великоустюгская"
+    "tikName": "Великоустюгская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 157,
     "uikTvd": "435400572403",
+    "uikName": "УИК №157",
     "tikTvd": "235200074048",
-    "tikName": "Великоустюгская"
+    "tikName": "Великоустюгская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 158,
     "uikTvd": "435400572404",
+    "uikName": "УИК №158",
     "tikTvd": "235200074048",
-    "tikName": "Великоустюгская"
+    "tikName": "Великоустюгская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 159,
     "uikTvd": "435400572405",
+    "uikName": "УИК №159",
     "tikTvd": "235200074048",
-    "tikName": "Великоустюгская"
+    "tikName": "Великоустюгская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 160,
     "uikTvd": "435400572406",
+    "uikName": "УИК №160",
     "tikTvd": "235200074048",
-    "tikName": "Великоустюгская"
+    "tikName": "Великоустюгская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 161,
     "uikTvd": "435400572407",
+    "uikName": "УИК №161",
     "tikTvd": "235200074048",
-    "tikName": "Великоустюгская"
+    "tikName": "Великоустюгская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 162,
     "uikTvd": "435400572408",
+    "uikName": "УИК №162",
     "tikTvd": "235200074048",
-    "tikName": "Великоустюгская"
+    "tikName": "Великоустюгская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 163,
     "uikTvd": "435400572409",
+    "uikName": "УИК №163",
     "tikTvd": "235200074048",
-    "tikName": "Великоустюгская"
+    "tikName": "Великоустюгская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 164,
     "uikTvd": "435400572410",
+    "uikName": "УИК №164",
     "tikTvd": "235200074048",
-    "tikName": "Великоустюгская"
+    "tikName": "Великоустюгская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 165,
     "uikTvd": "435400572411",
+    "uikName": "УИК №165",
     "tikTvd": "235200074048",
-    "tikName": "Великоустюгская"
+    "tikName": "Великоустюгская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 166,
     "uikTvd": "435400572412",
+    "uikName": "УИК №166",
     "tikTvd": "235200074048",
-    "tikName": "Великоустюгская"
+    "tikName": "Великоустюгская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 167,
     "uikTvd": "435400572413",
+    "uikName": "УИК №167",
     "tikTvd": "235200074048",
-    "tikName": "Великоустюгская"
+    "tikName": "Великоустюгская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 168,
     "uikTvd": "435400572414",
+    "uikName": "УИК №168",
     "tikTvd": "235200074048",
-    "tikName": "Великоустюгская"
+    "tikName": "Великоустюгская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 169,
     "uikTvd": "435400572415",
+    "uikName": "УИК №169",
     "tikTvd": "235200074048",
-    "tikName": "Великоустюгская"
+    "tikName": "Великоустюгская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 170,
     "uikTvd": "435400572416",
+    "uikName": "УИК №170",
     "tikTvd": "235200074048",
-    "tikName": "Великоустюгская"
+    "tikName": "Великоустюгская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 171,
     "uikTvd": "435400671785",
+    "uikName": "УИК №171",
     "tikTvd": "235200074021",
-    "tikName": "Верховажская"
+    "tikName": "Верховажская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 172,
     "uikTvd": "435400671786",
+    "uikName": "УИК №172",
     "tikTvd": "235200074021",
-    "tikName": "Верховажская"
+    "tikName": "Верховажская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 173,
     "uikTvd": "435400671787",
+    "uikName": "УИК №173",
     "tikTvd": "235200074021",
-    "tikName": "Верховажская"
+    "tikName": "Верховажская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 174,
     "uikTvd": "435400671788",
+    "uikName": "УИК №174",
     "tikTvd": "235200074021",
-    "tikName": "Верховажская"
+    "tikName": "Верховажская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 175,
     "uikTvd": "435400671789",
+    "uikName": "УИК №175",
     "tikTvd": "235200074021",
-    "tikName": "Верховажская"
+    "tikName": "Верховажская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 176,
     "uikTvd": "435400671790",
+    "uikName": "УИК №176",
     "tikTvd": "235200074021",
-    "tikName": "Верховажская"
+    "tikName": "Верховажская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 177,
     "uikTvd": "435400671791",
+    "uikName": "УИК №177",
     "tikTvd": "235200074021",
-    "tikName": "Верховажская"
+    "tikName": "Верховажская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 178,
     "uikTvd": "435400671792",
+    "uikName": "УИК №178",
     "tikTvd": "235200074021",
-    "tikName": "Верховажская"
+    "tikName": "Верховажская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 179,
     "uikTvd": "435400671793",
+    "uikName": "УИК №179",
     "tikTvd": "235200074021",
-    "tikName": "Верховажская"
+    "tikName": "Верховажская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 180,
     "uikTvd": "435400671794",
+    "uikName": "УИК №180",
     "tikTvd": "235200074021",
-    "tikName": "Верховажская"
+    "tikName": "Верховажская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 181,
     "uikTvd": "435400671795",
+    "uikName": "УИК №181",
     "tikTvd": "235200074021",
-    "tikName": "Верховажская"
+    "tikName": "Верховажская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 182,
     "uikTvd": "435400671796",
+    "uikName": "УИК №182",
     "tikTvd": "235200074021",
-    "tikName": "Верховажская"
+    "tikName": "Верховажская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 183,
     "uikTvd": "435400671797",
+    "uikName": "УИК №183",
     "tikTvd": "235200074021",
-    "tikName": "Верховажская"
+    "tikName": "Верховажская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 184,
     "uikTvd": "435400671798",
+    "uikName": "УИК №184",
     "tikTvd": "235200074021",
-    "tikName": "Верховажская"
+    "tikName": "Верховажская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 185,
     "uikTvd": "435400671799",
+    "uikName": "УИК №185",
     "tikTvd": "235200074021",
-    "tikName": "Верховажская"
+    "tikName": "Верховажская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 186,
     "uikTvd": "435400671800",
+    "uikName": "УИК №186",
     "tikTvd": "235200074021",
-    "tikName": "Верховажская"
+    "tikName": "Верховажская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 187,
     "uikTvd": "435400671801",
+    "uikName": "УИК №187",
     "tikTvd": "235200074021",
-    "tikName": "Верховажская"
+    "tikName": "Верховажская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 188,
     "uikTvd": "435400671802",
+    "uikName": "УИК №188",
     "tikTvd": "235200074021",
-    "tikName": "Верховажская"
+    "tikName": "Верховажская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 189,
     "uikTvd": "435400671803",
+    "uikName": "УИК №189",
     "tikTvd": "235200074021",
-    "tikName": "Верховажская"
+    "tikName": "Верховажская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 190,
     "uikTvd": "435400671804",
+    "uikName": "УИК №190",
     "tikTvd": "235200074021",
-    "tikName": "Верховажская"
+    "tikName": "Верховажская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 191,
     "uikTvd": "435400671805",
+    "uikName": "УИК №191",
     "tikTvd": "235200074021",
-    "tikName": "Верховажская"
+    "tikName": "Верховажская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 192,
     "uikTvd": "435400671806",
+    "uikName": "УИК №192",
     "tikTvd": "235200074021",
-    "tikName": "Верховажская"
+    "tikName": "Верховажская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 193,
     "uikTvd": "435400671807",
+    "uikName": "УИК №193",
     "tikTvd": "235200074021",
-    "tikName": "Верховажская"
+    "tikName": "Верховажская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 194,
     "uikTvd": "435400671808",
+    "uikName": "УИК №194",
     "tikTvd": "235200074021",
-    "tikName": "Верховажская"
+    "tikName": "Верховажская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 195,
     "uikTvd": "435400671809",
+    "uikName": "УИК №195",
     "tikTvd": "235200074021",
-    "tikName": "Верховажская"
+    "tikName": "Верховажская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 196,
     "uikTvd": "435400671810",
+    "uikName": "УИК №196",
     "tikTvd": "235200074021",
-    "tikName": "Верховажская"
+    "tikName": "Верховажская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 197,
     "uikTvd": "435400671811",
+    "uikName": "УИК №197",
     "tikTvd": "235200074021",
-    "tikName": "Верховажская"
+    "tikName": "Верховажская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 198,
     "uikTvd": "435400671812",
+    "uikName": "УИК №198",
     "tikTvd": "235200074021",
-    "tikName": "Верховажская"
+    "tikName": "Верховажская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 199,
     "uikTvd": "435400771461",
+    "uikName": "УИК  199",
     "tikTvd": "235200074022",
-    "tikName": "Вожегодская"
+    "tikName": "Вожегодская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 200,
     "uikTvd": "435400771462",
+    "uikName": "УИК  200",
     "tikTvd": "235200074022",
-    "tikName": "Вожегодская"
+    "tikName": "Вожегодская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 201,
     "uikTvd": "435400771463",
+    "uikName": "УИК  201",
     "tikTvd": "235200074022",
-    "tikName": "Вожегодская"
+    "tikName": "Вожегодская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 202,
     "uikTvd": "435400771464",
+    "uikName": "УИК  202",
     "tikTvd": "235200074022",
-    "tikName": "Вожегодская"
+    "tikName": "Вожегодская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 203,
     "uikTvd": "435400771465",
+    "uikName": "УИК  203",
     "tikTvd": "235200074022",
-    "tikName": "Вожегодская"
+    "tikName": "Вожегодская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 204,
     "uikTvd": "435400771466",
+    "uikName": "УИК  204",
     "tikTvd": "235200074022",
-    "tikName": "Вожегодская"
+    "tikName": "Вожегодская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 205,
     "uikTvd": "435400771467",
+    "uikName": "УИК  205",
     "tikTvd": "235200074022",
-    "tikName": "Вожегодская"
+    "tikName": "Вожегодская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 206,
     "uikTvd": "435400771468",
+    "uikName": "УИК  206",
     "tikTvd": "235200074022",
-    "tikName": "Вожегодская"
+    "tikName": "Вожегодская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 207,
     "uikTvd": "435400771469",
+    "uikName": "УИК  207",
     "tikTvd": "235200074022",
-    "tikName": "Вожегодская"
+    "tikName": "Вожегодская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 208,
     "uikTvd": "435400771470",
+    "uikName": "УИК  208",
     "tikTvd": "235200074022",
-    "tikName": "Вожегодская"
+    "tikName": "Вожегодская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 209,
     "uikTvd": "435400771471",
+    "uikName": "УИК  209",
     "tikTvd": "235200074022",
-    "tikName": "Вожегодская"
+    "tikName": "Вожегодская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 210,
     "uikTvd": "435400771472",
+    "uikName": "УИК  210",
     "tikTvd": "235200074022",
-    "tikName": "Вожегодская"
+    "tikName": "Вожегодская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 211,
     "uikTvd": "435400771473",
+    "uikName": "УИК  211",
     "tikTvd": "235200074022",
-    "tikName": "Вожегодская"
+    "tikName": "Вожегодская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 212,
     "uikTvd": "435400771474",
+    "uikName": "УИК  212",
     "tikTvd": "235200074022",
-    "tikName": "Вожегодская"
+    "tikName": "Вожегодская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 213,
     "uikTvd": "435400771475",
+    "uikName": "УИК  213",
     "tikTvd": "235200074022",
-    "tikName": "Вожегодская"
+    "tikName": "Вожегодская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 214,
     "uikTvd": "435400771476",
+    "uikName": "УИК  214",
     "tikTvd": "235200074022",
-    "tikName": "Вожегодская"
+    "tikName": "Вожегодская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 215,
     "uikTvd": "435400771477",
+    "uikName": "УИК  215",
     "tikTvd": "235200074022",
-    "tikName": "Вожегодская"
+    "tikName": "Вожегодская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 216,
     "uikTvd": "435400771478",
+    "uikName": "УИК  216",
     "tikTvd": "235200074022",
-    "tikName": "Вожегодская"
+    "tikName": "Вожегодская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 217,
     "uikTvd": "435400771479",
+    "uikName": "УИК  217",
     "tikTvd": "235200074022",
-    "tikName": "Вожегодская"
+    "tikName": "Вожегодская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 218,
     "uikTvd": "435400771480",
+    "uikName": "УИК  218",
     "tikTvd": "235200074022",
-    "tikName": "Вожегодская"
+    "tikName": "Вожегодская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 219,
     "uikTvd": "435400771481",
+    "uikName": "УИК  219",
     "tikTvd": "235200074022",
-    "tikName": "Вожегодская"
+    "tikName": "Вожегодская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 220,
     "uikTvd": "435400771482",
+    "uikName": "УИК  220",
     "tikTvd": "235200074022",
-    "tikName": "Вожегодская"
+    "tikName": "Вожегодская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 221,
     "uikTvd": "435400771483",
+    "uikName": "УИК  221",
     "tikTvd": "235200074022",
-    "tikName": "Вожегодская"
+    "tikName": "Вожегодская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 222,
     "uikTvd": "435400771484",
+    "uikName": "УИК  222",
     "tikTvd": "235200074022",
-    "tikName": "Вожегодская"
+    "tikName": "Вожегодская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 223,
     "uikTvd": "435400771488",
+    "uikName": "УИК  223",
     "tikTvd": "235200074022",
-    "tikName": "Вожегодская"
+    "tikName": "Вожегодская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 224,
     "uikTvd": "435400771489",
+    "uikName": "УИК  224",
     "tikTvd": "235200074022",
-    "tikName": "Вожегодская"
+    "tikName": "Вожегодская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 225,
     "uikTvd": "435400771490",
+    "uikName": "УИК  225",
     "tikTvd": "235200074022",
-    "tikName": "Вожегодская"
+    "tikName": "Вожегодская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 226,
     "uikTvd": "435400771492",
+    "uikName": "УИК  226",
     "tikTvd": "235200074022",
-    "tikName": "Вожегодская"
+    "tikName": "Вожегодская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 227,
     "uikTvd": "435400771493",
+    "uikName": "УИК  227",
     "tikTvd": "235200074022",
-    "tikName": "Вожегодская"
+    "tikName": "Вожегодская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 228,
     "uikTvd": "435400771494",
+    "uikName": "УИК  228",
     "tikTvd": "235200074022",
-    "tikName": "Вожегодская"
+    "tikName": "Вожегодская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 229,
     "uikTvd": "435400771495",
+    "uikName": "УИК  229",
     "tikTvd": "235200074022",
-    "tikName": "Вожегодская"
+    "tikName": "Вожегодская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 230,
     "uikTvd": "435400972444",
+    "uikName": "УИК №230",
     "tikTvd": "235200074046",
-    "tikName": "Вологодская"
+    "tikName": "Вологодская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 231,
     "uikTvd": "435400972445",
+    "uikName": "УИК №231",
     "tikTvd": "235200074046",
-    "tikName": "Вологодская"
+    "tikName": "Вологодская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 232,
     "uikTvd": "435400972446",
+    "uikName": "УИК №232",
     "tikTvd": "235200074046",
-    "tikName": "Вологодская"
+    "tikName": "Вологодская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 233,
     "uikTvd": "435400972447",
+    "uikName": "УИК №233",
     "tikTvd": "235200074046",
-    "tikName": "Вологодская"
+    "tikName": "Вологодская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 234,
     "uikTvd": "435400972448",
+    "uikName": "УИК №234",
     "tikTvd": "235200074046",
-    "tikName": "Вологодская"
+    "tikName": "Вологодская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 235,
     "uikTvd": "435400972449",
+    "uikName": "УИК №235",
     "tikTvd": "235200074046",
-    "tikName": "Вологодская"
+    "tikName": "Вологодская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 236,
     "uikTvd": "435400972450",
+    "uikName": "УИК №236",
     "tikTvd": "235200074046",
-    "tikName": "Вологодская"
+    "tikName": "Вологодская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 237,
     "uikTvd": "435400972451",
+    "uikName": "УИК №237",
     "tikTvd": "235200074046",
-    "tikName": "Вологодская"
+    "tikName": "Вологодская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 238,
     "uikTvd": "435400972452",
+    "uikName": "УИК №238",
     "tikTvd": "235200074046",
-    "tikName": "Вологодская"
+    "tikName": "Вологодская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 239,
     "uikTvd": "435400972453",
+    "uikName": "УИК №239",
     "tikTvd": "235200074046",
-    "tikName": "Вологодская"
+    "tikName": "Вологодская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 240,
     "uikTvd": "435400972454",
+    "uikName": "УИК №240",
     "tikTvd": "235200074046",
-    "tikName": "Вологодская"
+    "tikName": "Вологодская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 241,
     "uikTvd": "435400972455",
+    "uikName": "УИК №241",
     "tikTvd": "235200074046",
-    "tikName": "Вологодская"
+    "tikName": "Вологодская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 242,
     "uikTvd": "435400972456",
+    "uikName": "УИК №242",
     "tikTvd": "235200074046",
-    "tikName": "Вологодская"
+    "tikName": "Вологодская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 243,
     "uikTvd": "435400972457",
+    "uikName": "УИК №243",
     "tikTvd": "235200074046",
-    "tikName": "Вологодская"
+    "tikName": "Вологодская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 244,
     "uikTvd": "435400972458",
+    "uikName": "УИК №244",
     "tikTvd": "235200074046",
-    "tikName": "Вологодская"
+    "tikName": "Вологодская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 245,
     "uikTvd": "435400972459",
+    "uikName": "УИК №245",
     "tikTvd": "235200074046",
-    "tikName": "Вологодская"
+    "tikName": "Вологодская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 246,
     "uikTvd": "435400972460",
+    "uikName": "УИК №246",
     "tikTvd": "235200074046",
-    "tikName": "Вологодская"
+    "tikName": "Вологодская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 247,
     "uikTvd": "435400972461",
+    "uikName": "УИК №247",
     "tikTvd": "235200074046",
-    "tikName": "Вологодская"
+    "tikName": "Вологодская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 248,
     "uikTvd": "435400972462",
+    "uikName": "УИК №248",
     "tikTvd": "235200074046",
-    "tikName": "Вологодская"
+    "tikName": "Вологодская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 249,
     "uikTvd": "435400972463",
+    "uikName": "УИК №249",
     "tikTvd": "235200074046",
-    "tikName": "Вологодская"
+    "tikName": "Вологодская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 250,
     "uikTvd": "435400972464",
+    "uikName": "УИК №250",
     "tikTvd": "235200074046",
-    "tikName": "Вологодская"
+    "tikName": "Вологодская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 251,
     "uikTvd": "435400972465",
+    "uikName": "УИК №251",
     "tikTvd": "235200074046",
-    "tikName": "Вологодская"
+    "tikName": "Вологодская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 252,
     "uikTvd": "435400972466",
+    "uikName": "УИК №252",
     "tikTvd": "235200074046",
-    "tikName": "Вологодская"
+    "tikName": "Вологодская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 253,
     "uikTvd": "435400972467",
+    "uikName": "УИК №253",
     "tikTvd": "235200074046",
-    "tikName": "Вологодская"
+    "tikName": "Вологодская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 254,
     "uikTvd": "435400972468",
+    "uikName": "УИК №254",
     "tikTvd": "235200074046",
-    "tikName": "Вологодская"
+    "tikName": "Вологодская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 255,
     "uikTvd": "435400972469",
+    "uikName": "УИК №255",
     "tikTvd": "235200074046",
-    "tikName": "Вологодская"
+    "tikName": "Вологодская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 256,
     "uikTvd": "435400972470",
+    "uikName": "УИК №256",
     "tikTvd": "235200074046",
-    "tikName": "Вологодская"
+    "tikName": "Вологодская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 257,
     "uikTvd": "435400972471",
+    "uikName": "УИК №257",
     "tikTvd": "235200074046",
-    "tikName": "Вологодская"
+    "tikName": "Вологодская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 258,
     "uikTvd": "435400972472",
+    "uikName": "УИК №258",
     "tikTvd": "235200074046",
-    "tikName": "Вологодская"
+    "tikName": "Вологодская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 259,
     "uikTvd": "435400972473",
+    "uikName": "УИК №259",
     "tikTvd": "235200074046",
-    "tikName": "Вологодская"
+    "tikName": "Вологодская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 260,
     "uikTvd": "435400972474",
+    "uikName": "УИК №260",
     "tikTvd": "235200074046",
-    "tikName": "Вологодская"
+    "tikName": "Вологодская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 261,
     "uikTvd": "435400972475",
+    "uikName": "УИК №261",
     "tikTvd": "235200074046",
-    "tikName": "Вологодская"
+    "tikName": "Вологодская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 262,
     "uikTvd": "435400972476",
+    "uikName": "УИК №262",
     "tikTvd": "235200074046",
-    "tikName": "Вологодская"
+    "tikName": "Вологодская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 263,
     "uikTvd": "435400972477",
+    "uikName": "УИК №263",
     "tikTvd": "235200074046",
-    "tikName": "Вологодская"
+    "tikName": "Вологодская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 264,
     "uikTvd": "435400972478",
+    "uikName": "УИК №264",
     "tikTvd": "235200074046",
-    "tikName": "Вологодская"
+    "tikName": "Вологодская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 265,
     "uikTvd": "435400972479",
+    "uikName": "УИК №265",
     "tikTvd": "235200074046",
-    "tikName": "Вологодская"
+    "tikName": "Вологодская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 266,
     "uikTvd": "435400972480",
+    "uikName": "УИК №266",
     "tikTvd": "235200074046",
-    "tikName": "Вологодская"
+    "tikName": "Вологодская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 267,
     "uikTvd": "435400972481",
+    "uikName": "УИК №267",
     "tikTvd": "235200074046",
-    "tikName": "Вологодская"
+    "tikName": "Вологодская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 268,
     "uikTvd": "435400972482",
+    "uikName": "УИК №268",
     "tikTvd": "235200074046",
-    "tikName": "Вологодская"
+    "tikName": "Вологодская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 269,
     "uikTvd": "435400972483",
+    "uikName": "УИК №269",
     "tikTvd": "235200074046",
-    "tikName": "Вологодская"
+    "tikName": "Вологодская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 270,
     "uikTvd": "435400972484",
+    "uikName": "УИК №270",
     "tikTvd": "235200074046",
-    "tikName": "Вологодская"
+    "tikName": "Вологодская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 271,
     "uikTvd": "435400972485",
+    "uikName": "УИК №271",
     "tikTvd": "235200074046",
-    "tikName": "Вологодская"
+    "tikName": "Вологодская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 272,
     "uikTvd": "435400972486",
+    "uikName": "УИК №272",
     "tikTvd": "235200074046",
-    "tikName": "Вологодская"
+    "tikName": "Вологодская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 273,
     "uikTvd": "435400972487",
+    "uikName": "УИК №273",
     "tikTvd": "235200074046",
-    "tikName": "Вологодская"
+    "tikName": "Вологодская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 274,
     "uikTvd": "435400972488",
+    "uikName": "УИК №274",
     "tikTvd": "235200074046",
-    "tikName": "Вологодская"
+    "tikName": "Вологодская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 275,
     "uikTvd": "435400972489",
+    "uikName": "УИК №275",
     "tikTvd": "235200074046",
-    "tikName": "Вологодская"
+    "tikName": "Вологодская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 276,
     "uikTvd": "435400873758",
+    "uikName": "УИК №276",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 277,
     "uikTvd": "435400873759",
+    "uikName": "УИК №277",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 278,
     "uikTvd": "435400873760",
+    "uikName": "УИК №278",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 279,
     "uikTvd": "435400873761",
+    "uikName": "УИК №279",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 280,
     "uikTvd": "435400873762",
+    "uikName": "УИК №280",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 281,
     "uikTvd": "435400873763",
+    "uikName": "УИК №281",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 282,
     "uikTvd": "435400873764",
+    "uikName": "УИК №282",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 283,
     "uikTvd": "435400873765",
+    "uikName": "УИК №283",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 284,
     "uikTvd": "435400873766",
+    "uikName": "УИК №284",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 285,
     "uikTvd": "435400873767",
+    "uikName": "УИК №285",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 286,
     "uikTvd": "435400873768",
+    "uikName": "УИК №286",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 287,
     "uikTvd": "435400873769",
+    "uikName": "УИК №287",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 288,
     "uikTvd": "435400873770",
+    "uikName": "УИК №288",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 289,
     "uikTvd": "435400873771",
+    "uikName": "УИК №289",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 290,
     "uikTvd": "435400873772",
+    "uikName": "УИК №290",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 291,
     "uikTvd": "435400873773",
+    "uikName": "УИК №291",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 292,
     "uikTvd": "435400873774",
+    "uikName": "УИК №292",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 293,
     "uikTvd": "435400873775",
+    "uikName": "УИК №293",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 294,
     "uikTvd": "435400873776",
+    "uikName": "УИК №294",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 295,
     "uikTvd": "435400873777",
+    "uikName": "УИК №295",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 296,
     "uikTvd": "435400873778",
+    "uikName": "УИК №296",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 297,
     "uikTvd": "435400873779",
+    "uikName": "УИК №297",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 298,
     "uikTvd": "435400873780",
+    "uikName": "УИК №298",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 299,
     "uikTvd": "435400873781",
+    "uikName": "УИК №299",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 300,
     "uikTvd": "435400873782",
+    "uikName": "УИК №300",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 301,
     "uikTvd": "435400873783",
+    "uikName": "УИК №301",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 302,
     "uikTvd": "435400873784",
+    "uikName": "УИК №302",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 303,
     "uikTvd": "435400873785",
+    "uikName": "УИК №303",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 304,
     "uikTvd": "435400873786",
+    "uikName": "УИК №304",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 305,
     "uikTvd": "435400873787",
+    "uikName": "УИК №305",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 306,
     "uikTvd": "435400873788",
+    "uikName": "УИК №306",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 307,
     "uikTvd": "435400873789",
+    "uikName": "УИК №307",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 308,
     "uikTvd": "435400873790",
+    "uikName": "УИК №308",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 309,
     "uikTvd": "435400873791",
+    "uikName": "УИК №309",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 310,
     "uikTvd": "435400873792",
+    "uikName": "УИК №310",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 311,
     "uikTvd": "435400873793",
+    "uikName": "УИК №311",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 312,
     "uikTvd": "435400873794",
+    "uikName": "УИК №312",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 313,
     "uikTvd": "435400873795",
+    "uikName": "УИК №313",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 314,
     "uikTvd": "435400873796",
+    "uikName": "УИК №314",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 315,
     "uikTvd": "435400873797",
+    "uikName": "УИК №315",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 316,
     "uikTvd": "435400873798",
+    "uikName": "УИК №316",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 317,
     "uikTvd": "435400873799",
+    "uikName": "УИК №317",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 318,
     "uikTvd": "435400873800",
+    "uikName": "УИК №318",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 319,
     "uikTvd": "435400873801",
+    "uikName": "УИК №319",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 320,
     "uikTvd": "435400873802",
+    "uikName": "УИК №320",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 321,
     "uikTvd": "435400873803",
+    "uikName": "УИК №321",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 322,
     "uikTvd": "435400873804",
+    "uikName": "УИК №322",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 323,
     "uikTvd": "435400873805",
+    "uikName": "УИК №323",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 324,
     "uikTvd": "435400873806",
+    "uikName": "УИК №324",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 325,
     "uikTvd": "435400873807",
+    "uikName": "УИК №325",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 326,
     "uikTvd": "435400873808",
+    "uikName": "УИК №326",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 327,
     "uikTvd": "435400873809",
+    "uikName": "УИК №327",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 328,
     "uikTvd": "435400873810",
+    "uikName": "УИК №328",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 329,
     "uikTvd": "435400873811",
+    "uikName": "УИК №329",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 330,
     "uikTvd": "435400873812",
+    "uikName": "УИК №330",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 331,
     "uikTvd": "435400873813",
+    "uikName": "УИК №331",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 332,
     "uikTvd": "435400873814",
+    "uikName": "УИК №332",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 333,
     "uikTvd": "435400873815",
+    "uikName": "УИК №333",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 334,
     "uikTvd": "435400873816",
+    "uikName": "УИК №334",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 335,
     "uikTvd": "435400873817",
+    "uikName": "УИК №335",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 336,
     "uikTvd": "435400873818",
+    "uikName": "УИК №336",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 337,
     "uikTvd": "435400873819",
+    "uikName": "УИК №337",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 338,
     "uikTvd": "435400873820",
+    "uikName": "УИК №338",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 339,
     "uikTvd": "435400873821",
+    "uikName": "УИК №339",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 340,
     "uikTvd": "435400873822",
+    "uikName": "УИК №340",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 341,
     "uikTvd": "435400873823",
+    "uikName": "УИК №341",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 342,
     "uikTvd": "435400873824",
+    "uikName": "УИК №342",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 343,
     "uikTvd": "435400873825",
+    "uikName": "УИК №343",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 344,
     "uikTvd": "435400873826",
+    "uikName": "УИК №344",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 345,
     "uikTvd": "435400873827",
+    "uikName": "УИК №345",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 346,
     "uikTvd": "435400873828",
+    "uikName": "УИК №346",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 347,
     "uikTvd": "435400873829",
+    "uikName": "УИК №347",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 348,
     "uikTvd": "435400873830",
+    "uikName": "УИК №348",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 349,
     "uikTvd": "435400873831",
+    "uikName": "УИК №349",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 350,
     "uikTvd": "435400873832",
+    "uikName": "УИК №350",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 351,
     "uikTvd": "435400873833",
+    "uikName": "УИК №351",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 352,
     "uikTvd": "435400873834",
+    "uikName": "УИК №352",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 353,
     "uikTvd": "435400873835",
+    "uikName": "УИК №353",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 354,
     "uikTvd": "435400873836",
+    "uikName": "УИК №354",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 355,
     "uikTvd": "435400873837",
+    "uikName": "УИК №355",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 356,
     "uikTvd": "435400873838",
+    "uikName": "УИК №356",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 357,
     "uikTvd": "435400873839",
+    "uikName": "УИК №357",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 358,
     "uikTvd": "435400873840",
+    "uikName": "УИК №358",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 359,
     "uikTvd": "435400873841",
+    "uikName": "УИК №359",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 360,
     "uikTvd": "435400873842",
+    "uikName": "УИК №360",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 361,
     "uikTvd": "435400873843",
+    "uikName": "УИК №361",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 362,
     "uikTvd": "435400873844",
+    "uikName": "УИК №362",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 363,
     "uikTvd": "435400873845",
+    "uikName": "УИК №363",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 364,
     "uikTvd": "435400873846",
+    "uikName": "УИК №364",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 365,
     "uikTvd": "435400873847",
+    "uikName": "УИК №365",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 366,
     "uikTvd": "435400873848",
+    "uikName": "УИК №366",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 367,
     "uikTvd": "435400873849",
+    "uikName": "УИК №367",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 368,
     "uikTvd": "435400873850",
+    "uikName": "УИК №368",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 369,
     "uikTvd": "435400873851",
+    "uikName": "УИК №369",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 370,
     "uikTvd": "435400873852",
+    "uikName": "УИК №370",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 371,
     "uikTvd": "435400873853",
+    "uikName": "УИК №371",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 372,
     "uikTvd": "435400873854",
+    "uikName": "УИК №372",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 373,
     "uikTvd": "435400873855",
+    "uikName": "УИК №373",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 374,
     "uikTvd": "435400873856",
+    "uikName": "УИК №374",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 375,
     "uikTvd": "435400873857",
+    "uikName": "УИК №375",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 376,
     "uikTvd": "435400873858",
+    "uikName": "УИК №376",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 377,
     "uikTvd": "435400873859",
+    "uikName": "УИК №377",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 378,
     "uikTvd": "435400873860",
+    "uikName": "УИК №378",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 379,
     "uikTvd": "435400873861",
+    "uikName": "УИК №379",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 380,
     "uikTvd": "435400873862",
+    "uikName": "УИК №380",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 381,
     "uikTvd": "435400873863",
+    "uikName": "УИК №381",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 382,
     "uikTvd": "435400873864",
+    "uikName": "УИК №382",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 383,
     "uikTvd": "435400873865",
+    "uikName": "УИК №383",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 384,
     "uikTvd": "435400873866",
+    "uikName": "УИК №384",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 385,
     "uikTvd": "435400873867",
+    "uikName": "УИК №385",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 386,
     "uikTvd": "435400873868",
+    "uikName": "УИК №386",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 387,
     "uikTvd": "435400873869",
+    "uikName": "УИК №387",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 388,
     "uikTvd": "435400873870",
+    "uikName": "УИК №388",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 389,
     "uikTvd": "435400873871",
+    "uikName": "УИК №389",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 390,
     "uikTvd": "435400873872",
+    "uikName": "УИК №390",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 391,
     "uikTvd": "435400873873",
+    "uikName": "УИК №391",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 392,
     "uikTvd": "435400873874",
+    "uikName": "УИК №392",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 393,
     "uikTvd": "435400873875",
+    "uikName": "УИК №393",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 394,
     "uikTvd": "435400873876",
+    "uikName": "УИК №394",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 395,
     "uikTvd": "435400873877",
+    "uikName": "УИК №395",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 396,
     "uikTvd": "435400873878",
+    "uikName": "УИК №396",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 397,
     "uikTvd": "435400873879",
+    "uikName": "УИК №397",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 398,
     "uikTvd": "435400873880",
+    "uikName": "УИК №398",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 399,
     "uikTvd": "435400873881",
+    "uikName": "УИК №399",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 400,
     "uikTvd": "435400873882",
+    "uikName": "УИК №400",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 401,
     "uikTvd": "435400873883",
+    "uikName": "УИК №401",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 402,
     "uikTvd": "435400873884",
+    "uikName": "УИК №402",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 403,
     "uikTvd": "435400873885",
+    "uikName": "УИК №403",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 404,
     "uikTvd": "435400873886",
+    "uikName": "УИК №404",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 405,
     "uikTvd": "435400873887",
+    "uikName": "УИК №405",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 406,
     "uikTvd": "435400873888",
+    "uikName": "УИК №406",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 407,
     "uikTvd": "435400873889",
+    "uikName": "УИК №407",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 408,
     "uikTvd": "435400873890",
+    "uikName": "УИК №408",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 409,
     "uikTvd": "435400873891",
+    "uikName": "УИК №409",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 410,
     "uikTvd": "435400873892",
+    "uikName": "УИК №410",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 411,
     "uikTvd": "435400873893",
+    "uikName": "УИК №411",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 412,
     "uikTvd": "435400873894",
+    "uikName": "УИК №412",
     "tikTvd": "235200074047",
-    "tikName": "Вологодская городская"
+    "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 413,
     "uikTvd": "435401071499",
+    "uikName": "УИК №413",
     "tikTvd": "235200074044",
-    "tikName": "Вытегорская"
+    "tikName": "Вытегорская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 414,
     "uikTvd": "435401071500",
+    "uikName": "УИК №414",
     "tikTvd": "235200074044",
-    "tikName": "Вытегорская"
+    "tikName": "Вытегорская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 415,
     "uikTvd": "435401071501",
+    "uikName": "УИК №415",
     "tikTvd": "235200074044",
-    "tikName": "Вытегорская"
+    "tikName": "Вытегорская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 416,
     "uikTvd": "435401071502",
+    "uikName": "УИК №416",
     "tikTvd": "235200074044",
-    "tikName": "Вытегорская"
+    "tikName": "Вытегорская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 417,
     "uikTvd": "435401071503",
+    "uikName": "УИК №417",
     "tikTvd": "235200074044",
-    "tikName": "Вытегорская"
+    "tikName": "Вытегорская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 418,
     "uikTvd": "435401071504",
+    "uikName": "УИК №418",
     "tikTvd": "235200074044",
-    "tikName": "Вытегорская"
+    "tikName": "Вытегорская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 419,
     "uikTvd": "435401071505",
+    "uikName": "УИК №419",
     "tikTvd": "235200074044",
-    "tikName": "Вытегорская"
+    "tikName": "Вытегорская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 420,
     "uikTvd": "435401071506",
+    "uikName": "УИК №420",
     "tikTvd": "235200074044",
-    "tikName": "Вытегорская"
+    "tikName": "Вытегорская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 421,
     "uikTvd": "435401071507",
+    "uikName": "УИК №421",
     "tikTvd": "235200074044",
-    "tikName": "Вытегорская"
+    "tikName": "Вытегорская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 422,
     "uikTvd": "435401071508",
+    "uikName": "УИК №422",
     "tikTvd": "235200074044",
-    "tikName": "Вытегорская"
+    "tikName": "Вытегорская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 423,
     "uikTvd": "435401071509",
+    "uikName": "УИК №423",
     "tikTvd": "235200074044",
-    "tikName": "Вытегорская"
+    "tikName": "Вытегорская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 424,
     "uikTvd": "435401071510",
+    "uikName": "УИК №424",
     "tikTvd": "235200074044",
-    "tikName": "Вытегорская"
+    "tikName": "Вытегорская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 425,
     "uikTvd": "435401071511",
+    "uikName": "УИК №425",
     "tikTvd": "235200074044",
-    "tikName": "Вытегорская"
+    "tikName": "Вытегорская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 426,
     "uikTvd": "435401071512",
+    "uikName": "УИК №426",
     "tikTvd": "235200074044",
-    "tikName": "Вытегорская"
+    "tikName": "Вытегорская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 427,
     "uikTvd": "435401071513",
+    "uikName": "УИК №427",
     "tikTvd": "235200074044",
-    "tikName": "Вытегорская"
+    "tikName": "Вытегорская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 428,
     "uikTvd": "435401071514",
+    "uikName": "УИК №428",
     "tikTvd": "235200074044",
-    "tikName": "Вытегорская"
+    "tikName": "Вытегорская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 429,
     "uikTvd": "435401071515",
+    "uikName": "УИК №429",
     "tikTvd": "235200074044",
-    "tikName": "Вытегорская"
+    "tikName": "Вытегорская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 430,
     "uikTvd": "435401071516",
+    "uikName": "УИК №430",
     "tikTvd": "235200074044",
-    "tikName": "Вытегорская"
+    "tikName": "Вытегорская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 431,
     "uikTvd": "435401071517",
+    "uikName": "УИК №431",
     "tikTvd": "235200074044",
-    "tikName": "Вытегорская"
+    "tikName": "Вытегорская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 432,
     "uikTvd": "435401071518",
+    "uikName": "УИК №432",
     "tikTvd": "235200074044",
-    "tikName": "Вытегорская"
+    "tikName": "Вытегорская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 433,
     "uikTvd": "435401071519",
+    "uikName": "УИК №433",
     "tikTvd": "235200074044",
-    "tikName": "Вытегорская"
+    "tikName": "Вытегорская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 434,
     "uikTvd": "435401071520",
+    "uikName": "УИК №434",
     "tikTvd": "235200074044",
-    "tikName": "Вытегорская"
+    "tikName": "Вытегорская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 435,
     "uikTvd": "435401071521",
+    "uikName": "УИК №435",
     "tikTvd": "235200074044",
-    "tikName": "Вытегорская"
+    "tikName": "Вытегорская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 436,
     "uikTvd": "435401071522",
+    "uikName": "УИК №436",
     "tikTvd": "235200074044",
-    "tikName": "Вытегорская"
+    "tikName": "Вытегорская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 437,
     "uikTvd": "435401071523",
+    "uikName": "УИК №437",
     "tikTvd": "235200074044",
-    "tikName": "Вытегорская"
+    "tikName": "Вытегорская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 438,
     "uikTvd": "435401071524",
+    "uikName": "УИК №438",
     "tikTvd": "235200074044",
-    "tikName": "Вытегорская"
+    "tikName": "Вытегорская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 439,
     "uikTvd": "435401071525",
+    "uikName": "УИК №439",
     "tikTvd": "235200074044",
-    "tikName": "Вытегорская"
+    "tikName": "Вытегорская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 440,
     "uikTvd": "435401071526",
+    "uikName": "УИК №440",
     "tikTvd": "235200074044",
-    "tikName": "Вытегорская"
+    "tikName": "Вытегорская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 441,
     "uikTvd": "435401071527",
+    "uikName": "УИК №441",
     "tikTvd": "235200074044",
-    "tikName": "Вытегорская"
+    "tikName": "Вытегорская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 442,
     "uikTvd": "435401071528",
+    "uikName": "УИК №442",
     "tikTvd": "235200074044",
-    "tikName": "Вытегорская"
+    "tikName": "Вытегорская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 443,
     "uikTvd": "435401071529",
+    "uikName": "УИК №443",
     "tikTvd": "235200074044",
-    "tikName": "Вытегорская"
+    "tikName": "Вытегорская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 444,
     "uikTvd": "435401071530",
+    "uikName": "УИК №444",
     "tikTvd": "235200074044",
-    "tikName": "Вытегорская"
+    "tikName": "Вытегорская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 445,
     "uikTvd": "435401071531",
+    "uikName": "УИК №445",
     "tikTvd": "235200074044",
-    "tikName": "Вытегорская"
+    "tikName": "Вытегорская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 446,
     "uikTvd": "435401071532",
+    "uikName": "УИК №446",
     "tikTvd": "235200074044",
-    "tikName": "Вытегорская"
+    "tikName": "Вытегорская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 447,
     "uikTvd": "435401071533",
+    "uikName": "УИК №447",
     "tikTvd": "235200074044",
-    "tikName": "Вытегорская"
+    "tikName": "Вытегорская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 448,
     "uikTvd": "435401071534",
+    "uikName": "УИК №448",
     "tikTvd": "235200074044",
-    "tikName": "Вытегорская"
+    "tikName": "Вытегорская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 449,
     "uikTvd": "435401071535",
+    "uikName": "УИК №449",
     "tikTvd": "235200074044",
-    "tikName": "Вытегорская"
+    "tikName": "Вытегорская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 450,
     "uikTvd": "435401071536",
+    "uikName": "УИК №450",
     "tikTvd": "235200074044",
-    "tikName": "Вытегорская"
+    "tikName": "Вытегорская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 451,
     "uikTvd": "435401071537",
+    "uikName": "УИК №451",
     "tikTvd": "235200074044",
-    "tikName": "Вытегорская"
+    "tikName": "Вытегорская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 452,
     "uikTvd": "435401071538",
+    "uikName": "УИК №452",
     "tikTvd": "235200074044",
-    "tikName": "Вытегорская"
+    "tikName": "Вытегорская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 453,
     "uikTvd": "435401071539",
+    "uikName": "УИК №453",
     "tikTvd": "235200074044",
-    "tikName": "Вытегорская"
+    "tikName": "Вытегорская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 454,
     "uikTvd": "435401071540",
+    "uikName": "УИК №454",
     "tikTvd": "235200074044",
-    "tikName": "Вытегорская"
+    "tikName": "Вытегорская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 455,
     "uikTvd": "435401071541",
+    "uikName": "УИК №455",
     "tikTvd": "235200074044",
-    "tikName": "Вытегорская"
+    "tikName": "Вытегорская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 456,
     "uikTvd": "435401071542",
+    "uikName": "УИК №456",
     "tikTvd": "235200074044",
-    "tikName": "Вытегорская"
+    "tikName": "Вытегорская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 457,
     "uikTvd": "435401071543",
+    "uikName": "УИК №457",
     "tikTvd": "235200074044",
-    "tikName": "Вытегорская"
+    "tikName": "Вытегорская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 458,
     "uikTvd": "435401172446",
+    "uikName": "УИК №458",
     "tikTvd": "235200074045",
-    "tikName": "Грязовецкая"
+    "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 459,
     "uikTvd": "435401172447",
+    "uikName": "УИК №459",
     "tikTvd": "235200074045",
-    "tikName": "Грязовецкая"
+    "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 460,
     "uikTvd": "435401172448",
+    "uikName": "УИК №460",
     "tikTvd": "235200074045",
-    "tikName": "Грязовецкая"
+    "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 461,
     "uikTvd": "435401172449",
+    "uikName": "УИК №461",
     "tikTvd": "235200074045",
-    "tikName": "Грязовецкая"
+    "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 462,
     "uikTvd": "435401172450",
+    "uikName": "УИК №462",
     "tikTvd": "235200074045",
-    "tikName": "Грязовецкая"
+    "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 463,
     "uikTvd": "435401172451",
+    "uikName": "УИК №463",
     "tikTvd": "235200074045",
-    "tikName": "Грязовецкая"
+    "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 464,
     "uikTvd": "435401172452",
+    "uikName": "УИК №464",
     "tikTvd": "235200074045",
-    "tikName": "Грязовецкая"
+    "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 465,
     "uikTvd": "435401172453",
+    "uikName": "УИК №465",
     "tikTvd": "235200074045",
-    "tikName": "Грязовецкая"
+    "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 466,
     "uikTvd": "435401172454",
+    "uikName": "УИК №466",
     "tikTvd": "235200074045",
-    "tikName": "Грязовецкая"
+    "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 467,
     "uikTvd": "435401172455",
+    "uikName": "УИК №467",
     "tikTvd": "235200074045",
-    "tikName": "Грязовецкая"
+    "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 468,
     "uikTvd": "435401172456",
+    "uikName": "УИК №468",
     "tikTvd": "235200074045",
-    "tikName": "Грязовецкая"
+    "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 469,
     "uikTvd": "435401172457",
+    "uikName": "УИК №469",
     "tikTvd": "235200074045",
-    "tikName": "Грязовецкая"
+    "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 470,
     "uikTvd": "435401172458",
+    "uikName": "УИК №470",
     "tikTvd": "235200074045",
-    "tikName": "Грязовецкая"
+    "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 471,
     "uikTvd": "435401172459",
+    "uikName": "УИК №471",
     "tikTvd": "235200074045",
-    "tikName": "Грязовецкая"
+    "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 472,
     "uikTvd": "435401172460",
+    "uikName": "УИК №472",
     "tikTvd": "235200074045",
-    "tikName": "Грязовецкая"
+    "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 473,
     "uikTvd": "435401172461",
+    "uikName": "УИК №473",
     "tikTvd": "235200074045",
-    "tikName": "Грязовецкая"
+    "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 474,
     "uikTvd": "435401172462",
+    "uikName": "УИК №474",
     "tikTvd": "235200074045",
-    "tikName": "Грязовецкая"
+    "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 475,
     "uikTvd": "435401172463",
+    "uikName": "УИК №475",
     "tikTvd": "235200074045",
-    "tikName": "Грязовецкая"
+    "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 476,
     "uikTvd": "435401172464",
+    "uikName": "УИК №476",
     "tikTvd": "235200074045",
-    "tikName": "Грязовецкая"
+    "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 477,
     "uikTvd": "435401172465",
+    "uikName": "УИК №477",
     "tikTvd": "235200074045",
-    "tikName": "Грязовецкая"
+    "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 478,
     "uikTvd": "435401172466",
+    "uikName": "УИК №478",
     "tikTvd": "235200074045",
-    "tikName": "Грязовецкая"
+    "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 479,
     "uikTvd": "435401172467",
+    "uikName": "УИК №479",
     "tikTvd": "235200074045",
-    "tikName": "Грязовецкая"
+    "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 480,
     "uikTvd": "435401172468",
+    "uikName": "УИК №480",
     "tikTvd": "235200074045",
-    "tikName": "Грязовецкая"
+    "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 481,
     "uikTvd": "435401172469",
+    "uikName": "УИК №481",
     "tikTvd": "235200074045",
-    "tikName": "Грязовецкая"
+    "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 482,
     "uikTvd": "435401172470",
+    "uikName": "УИК №482",
     "tikTvd": "235200074045",
-    "tikName": "Грязовецкая"
+    "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 483,
     "uikTvd": "435401172471",
+    "uikName": "УИК №483",
     "tikTvd": "235200074045",
-    "tikName": "Грязовецкая"
+    "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 484,
     "uikTvd": "435401172472",
+    "uikName": "УИК №484",
     "tikTvd": "235200074045",
-    "tikName": "Грязовецкая"
+    "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 485,
     "uikTvd": "435401172473",
+    "uikName": "УИК №485",
     "tikTvd": "235200074045",
-    "tikName": "Грязовецкая"
+    "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 486,
     "uikTvd": "435401172474",
+    "uikName": "УИК №486",
     "tikTvd": "235200074045",
-    "tikName": "Грязовецкая"
+    "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 487,
     "uikTvd": "435401172475",
+    "uikName": "УИК №487",
     "tikTvd": "235200074045",
-    "tikName": "Грязовецкая"
+    "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 488,
     "uikTvd": "435401172476",
+    "uikName": "УИК №488",
     "tikTvd": "235200074045",
-    "tikName": "Грязовецкая"
+    "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 489,
     "uikTvd": "435401172477",
+    "uikName": "УИК №489",
     "tikTvd": "235200074045",
-    "tikName": "Грязовецкая"
+    "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 490,
     "uikTvd": "435401172478",
+    "uikName": "УИК №490",
     "tikTvd": "235200074045",
-    "tikName": "Грязовецкая"
+    "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 491,
     "uikTvd": "435401172479",
+    "uikName": "УИК №491",
     "tikTvd": "235200074045",
-    "tikName": "Грязовецкая"
+    "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 492,
     "uikTvd": "435401172480",
+    "uikName": "УИК №492",
     "tikTvd": "235200074045",
-    "tikName": "Грязовецкая"
+    "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 493,
     "uikTvd": "435401172481",
+    "uikName": "УИК №493",
     "tikTvd": "235200074045",
-    "tikName": "Грязовецкая"
+    "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 494,
     "uikTvd": "435401172482",
+    "uikName": "УИК №494",
     "tikTvd": "235200074045",
-    "tikName": "Грязовецкая"
+    "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 495,
     "uikTvd": "435401172483",
+    "uikName": "УИК №495",
     "tikTvd": "235200074045",
-    "tikName": "Грязовецкая"
+    "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 496,
     "uikTvd": "435401172484",
+    "uikName": "УИК №496",
     "tikTvd": "235200074045",
-    "tikName": "Грязовецкая"
+    "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 497,
     "uikTvd": "435401172485",
+    "uikName": "УИК №497",
     "tikTvd": "235200074045",
-    "tikName": "Грязовецкая"
+    "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 498,
     "uikTvd": "435401172486",
+    "uikName": "УИК №498",
     "tikTvd": "235200074045",
-    "tikName": "Грязовецкая"
+    "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 499,
     "uikTvd": "435401172487",
+    "uikName": "УИК №499",
     "tikTvd": "235200074045",
-    "tikName": "Грязовецкая"
+    "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 500,
     "uikTvd": "435401172488",
+    "uikName": "УИК №500",
     "tikTvd": "235200074045",
-    "tikName": "Грязовецкая"
+    "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 501,
     "uikTvd": "435401172489",
+    "uikName": "УИК №501",
     "tikTvd": "235200074045",
-    "tikName": "Грязовецкая"
+    "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 502,
     "uikTvd": "435401172490",
+    "uikName": "УИК №502",
     "tikTvd": "235200074045",
-    "tikName": "Грязовецкая"
+    "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 503,
     "uikTvd": "435401172491",
+    "uikName": "УИК №503",
     "tikTvd": "235200074045",
-    "tikName": "Грязовецкая"
+    "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 504,
     "uikTvd": "435401172492",
+    "uikName": "УИК №504",
     "tikTvd": "235200074045",
-    "tikName": "Грязовецкая"
+    "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 505,
     "uikTvd": "435401172493",
+    "uikName": "УИК №505",
     "tikTvd": "235200074045",
-    "tikName": "Грязовецкая"
+    "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 506,
     "uikTvd": "435401172494",
+    "uikName": "УИК №506",
     "tikTvd": "235200074045",
-    "tikName": "Грязовецкая"
+    "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 507,
     "uikTvd": "435401172495",
+    "uikName": "УИК №507",
     "tikTvd": "235200074045",
-    "tikName": "Грязовецкая"
+    "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 508,
     "uikTvd": "435401172496",
+    "uikName": "УИК №508",
     "tikTvd": "235200074045",
-    "tikName": "Грязовецкая"
+    "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 509,
     "uikTvd": "435401172497",
+    "uikName": "УИК №509",
     "tikTvd": "235200074045",
-    "tikName": "Грязовецкая"
+    "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 510,
     "uikTvd": "435401172498",
+    "uikName": "УИК №510",
     "tikTvd": "235200074045",
-    "tikName": "Грязовецкая"
+    "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 511,
     "uikTvd": "435401172499",
+    "uikName": "УИК №511",
     "tikTvd": "235200074045",
-    "tikName": "Грязовецкая"
+    "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 513,
     "uikTvd": "435401172500",
+    "uikName": "УИК №513",
     "tikTvd": "235200074045",
-    "tikName": "Грязовецкая"
+    "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 514,
     "uikTvd": "435401172501",
+    "uikName": "УИК №514",
     "tikTvd": "235200074045",
-    "tikName": "Грязовецкая"
+    "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 515,
     "uikTvd": "435401172502",
+    "uikName": "УИК №515",
     "tikTvd": "235200074045",
-    "tikName": "Грязовецкая"
+    "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 516,
     "uikTvd": "435401273264",
+    "uikName": "УИК №516",
     "tikTvd": "235200074041",
-    "tikName": "Кадуйская"
+    "tikName": "Кадуйская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 517,
     "uikTvd": "435401273265",
+    "uikName": "УИК №517",
     "tikTvd": "235200074041",
-    "tikName": "Кадуйская"
+    "tikName": "Кадуйская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 518,
     "uikTvd": "435401273266",
+    "uikName": "УИК №518",
     "tikTvd": "235200074041",
-    "tikName": "Кадуйская"
+    "tikName": "Кадуйская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 519,
     "uikTvd": "435401273267",
+    "uikName": "УИК №519",
     "tikTvd": "235200074041",
-    "tikName": "Кадуйская"
+    "tikName": "Кадуйская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 520,
     "uikTvd": "435401273268",
+    "uikName": "УИК №520",
     "tikTvd": "235200074041",
-    "tikName": "Кадуйская"
+    "tikName": "Кадуйская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 521,
     "uikTvd": "435401273269",
+    "uikName": "УИК №521",
     "tikTvd": "235200074041",
-    "tikName": "Кадуйская"
+    "tikName": "Кадуйская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 522,
     "uikTvd": "435401273270",
+    "uikName": "УИК №522",
     "tikTvd": "235200074041",
-    "tikName": "Кадуйская"
+    "tikName": "Кадуйская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 523,
     "uikTvd": "435401273271",
+    "uikName": "УИК №523",
     "tikTvd": "235200074041",
-    "tikName": "Кадуйская"
+    "tikName": "Кадуйская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 524,
     "uikTvd": "435401273272",
+    "uikName": "УИК №524",
     "tikTvd": "235200074041",
-    "tikName": "Кадуйская"
+    "tikName": "Кадуйская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 525,
     "uikTvd": "435401273273",
+    "uikName": "УИК №525",
     "tikTvd": "235200074041",
-    "tikName": "Кадуйская"
+    "tikName": "Кадуйская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 526,
     "uikTvd": "435401273274",
+    "uikName": "УИК №526",
     "tikTvd": "235200074041",
-    "tikName": "Кадуйская"
+    "tikName": "Кадуйская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 527,
     "uikTvd": "435401273275",
+    "uikName": "УИК №527",
     "tikTvd": "235200074041",
-    "tikName": "Кадуйская"
+    "tikName": "Кадуйская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 528,
     "uikTvd": "435401273276",
+    "uikName": "УИК №528",
     "tikTvd": "235200074041",
-    "tikName": "Кадуйская"
+    "tikName": "Кадуйская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 529,
     "uikTvd": "435401273277",
+    "uikName": "УИК №529",
     "tikTvd": "235200074041",
-    "tikName": "Кадуйская"
+    "tikName": "Кадуйская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 530,
     "uikTvd": "435401273278",
+    "uikName": "УИК №530",
     "tikTvd": "235200074041",
-    "tikName": "Кадуйская"
+    "tikName": "Кадуйская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 531,
     "uikTvd": "435401273279",
+    "uikName": "УИК №531",
     "tikTvd": "235200074041",
-    "tikName": "Кадуйская"
+    "tikName": "Кадуйская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 532,
     "uikTvd": "435401273280",
+    "uikName": "УИК №532",
     "tikTvd": "235200074041",
-    "tikName": "Кадуйская"
+    "tikName": "Кадуйская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 533,
     "uikTvd": "435401273281",
+    "uikName": "УИК №533",
     "tikTvd": "235200074041",
-    "tikName": "Кадуйская"
+    "tikName": "Кадуйская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 534,
     "uikTvd": "435401273282",
+    "uikName": "УИК №534",
     "tikTvd": "235200074041",
-    "tikName": "Кадуйская"
+    "tikName": "Кадуйская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 535,
     "uikTvd": "435401273283",
+    "uikName": "УИК №535",
     "tikTvd": "235200074041",
-    "tikName": "Кадуйская"
+    "tikName": "Кадуйская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 536,
     "uikTvd": "435401273284",
+    "uikName": "УИК №536",
     "tikTvd": "235200074041",
-    "tikName": "Кадуйская"
+    "tikName": "Кадуйская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 537,
     "uikTvd": "435401273285",
+    "uikName": "УИК №537",
     "tikTvd": "235200074041",
-    "tikName": "Кадуйская"
+    "tikName": "Кадуйская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 538,
     "uikTvd": "435401273286",
+    "uikName": "УИК №538",
     "tikTvd": "235200074041",
-    "tikName": "Кадуйская"
+    "tikName": "Кадуйская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 539,
     "uikTvd": "435401371924",
+    "uikName": "УИК №539",
     "tikTvd": "235200074042",
-    "tikName": "Кирилловская"
+    "tikName": "Кирилловская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 540,
     "uikTvd": "435401371925",
+    "uikName": "УИК №540",
     "tikTvd": "235200074042",
-    "tikName": "Кирилловская"
+    "tikName": "Кирилловская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 541,
     "uikTvd": "435401371926",
+    "uikName": "УИК №541",
     "tikTvd": "235200074042",
-    "tikName": "Кирилловская"
+    "tikName": "Кирилловская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 542,
     "uikTvd": "435401371927",
+    "uikName": "УИК №542",
     "tikTvd": "235200074042",
-    "tikName": "Кирилловская"
+    "tikName": "Кирилловская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 543,
     "uikTvd": "435401371928",
+    "uikName": "УИК №543",
     "tikTvd": "235200074042",
-    "tikName": "Кирилловская"
+    "tikName": "Кирилловская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 544,
     "uikTvd": "435401371929",
+    "uikName": "УИК №544",
     "tikTvd": "235200074042",
-    "tikName": "Кирилловская"
+    "tikName": "Кирилловская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 545,
     "uikTvd": "435401371930",
+    "uikName": "УИК №545",
     "tikTvd": "235200074042",
-    "tikName": "Кирилловская"
+    "tikName": "Кирилловская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 546,
     "uikTvd": "435401371931",
+    "uikName": "УИК №546",
     "tikTvd": "235200074042",
-    "tikName": "Кирилловская"
+    "tikName": "Кирилловская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 547,
     "uikTvd": "435401371932",
+    "uikName": "УИК №547",
     "tikTvd": "235200074042",
-    "tikName": "Кирилловская"
+    "tikName": "Кирилловская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 548,
     "uikTvd": "435401371933",
+    "uikName": "УИК №548",
     "tikTvd": "235200074042",
-    "tikName": "Кирилловская"
+    "tikName": "Кирилловская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 549,
     "uikTvd": "435401371934",
+    "uikName": "УИК №549",
     "tikTvd": "235200074042",
-    "tikName": "Кирилловская"
+    "tikName": "Кирилловская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 550,
     "uikTvd": "435401371935",
+    "uikName": "УИК №550",
     "tikTvd": "235200074042",
-    "tikName": "Кирилловская"
+    "tikName": "Кирилловская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 551,
     "uikTvd": "435401371936",
+    "uikName": "УИК №551",
     "tikTvd": "235200074042",
-    "tikName": "Кирилловская"
+    "tikName": "Кирилловская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 552,
     "uikTvd": "435401371937",
+    "uikName": "УИК №552",
     "tikTvd": "235200074042",
-    "tikName": "Кирилловская"
+    "tikName": "Кирилловская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 553,
     "uikTvd": "435401371938",
+    "uikName": "УИК №553",
     "tikTvd": "235200074042",
-    "tikName": "Кирилловская"
+    "tikName": "Кирилловская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 554,
     "uikTvd": "435401371939",
+    "uikName": "УИК №554",
     "tikTvd": "235200074042",
-    "tikName": "Кирилловская"
+    "tikName": "Кирилловская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 555,
     "uikTvd": "435401371940",
+    "uikName": "УИК №555",
     "tikTvd": "235200074042",
-    "tikName": "Кирилловская"
+    "tikName": "Кирилловская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 556,
     "uikTvd": "435401371941",
+    "uikName": "УИК №556",
     "tikTvd": "235200074042",
-    "tikName": "Кирилловская"
+    "tikName": "Кирилловская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 557,
     "uikTvd": "435401371942",
+    "uikName": "УИК №557",
     "tikTvd": "235200074042",
-    "tikName": "Кирилловская"
+    "tikName": "Кирилловская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 558,
     "uikTvd": "435401371943",
+    "uikName": "УИК №558",
     "tikTvd": "235200074042",
-    "tikName": "Кирилловская"
+    "tikName": "Кирилловская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 559,
     "uikTvd": "435401371944",
+    "uikName": "УИК №559",
     "tikTvd": "235200074042",
-    "tikName": "Кирилловская"
+    "tikName": "Кирилловская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 560,
     "uikTvd": "435401371945",
+    "uikName": "УИК №560",
     "tikTvd": "235200074042",
-    "tikName": "Кирилловская"
+    "tikName": "Кирилловская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 561,
     "uikTvd": "435401371946",
+    "uikName": "УИК №561",
     "tikTvd": "235200074042",
-    "tikName": "Кирилловская"
+    "tikName": "Кирилловская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 562,
     "uikTvd": "435401371947",
+    "uikName": "УИК №562",
     "tikTvd": "235200074042",
-    "tikName": "Кирилловская"
+    "tikName": "Кирилловская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 563,
     "uikTvd": "435401371948",
+    "uikName": "УИК №563",
     "tikTvd": "235200074042",
-    "tikName": "Кирилловская"
+    "tikName": "Кирилловская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 564,
     "uikTvd": "435401371949",
+    "uikName": "УИК №564",
     "tikTvd": "235200074042",
-    "tikName": "Кирилловская"
+    "tikName": "Кирилловская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 565,
     "uikTvd": "435401371950",
+    "uikName": "УИК №565",
     "tikTvd": "235200074042",
-    "tikName": "Кирилловская"
+    "tikName": "Кирилловская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 566,
     "uikTvd": "435401371951",
+    "uikName": "УИК №566",
     "tikTvd": "235200074042",
-    "tikName": "Кирилловская"
+    "tikName": "Кирилловская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 567,
     "uikTvd": "435401371952",
+    "uikName": "УИК №567",
     "tikTvd": "235200074042",
-    "tikName": "Кирилловская"
+    "tikName": "Кирилловская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 568,
     "uikTvd": "435401371953",
+    "uikName": "УИК №568",
     "tikTvd": "235200074042",
-    "tikName": "Кирилловская"
+    "tikName": "Кирилловская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 569,
     "uikTvd": "435401371954",
+    "uikName": "УИК №569",
     "tikTvd": "235200074042",
-    "tikName": "Кирилловская"
+    "tikName": "Кирилловская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 570,
     "uikTvd": "435401471591",
+    "uikName": "УИК №570",
     "tikTvd": "235200074043",
-    "tikName": "Кичменгско-городецкая"
+    "tikName": "Кичменгско-городецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 571,
     "uikTvd": "435401471592",
+    "uikName": "УИК №571",
     "tikTvd": "235200074043",
-    "tikName": "Кичменгско-городецкая"
+    "tikName": "Кичменгско-городецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 572,
     "uikTvd": "435401471593",
+    "uikName": "УИК №572",
     "tikTvd": "235200074043",
-    "tikName": "Кичменгско-городецкая"
+    "tikName": "Кичменгско-городецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 573,
     "uikTvd": "435401471594",
+    "uikName": "УИК №573",
     "tikTvd": "235200074043",
-    "tikName": "Кичменгско-городецкая"
+    "tikName": "Кичменгско-городецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 574,
     "uikTvd": "435401471595",
+    "uikName": "УИК №574",
     "tikTvd": "235200074043",
-    "tikName": "Кичменгско-городецкая"
+    "tikName": "Кичменгско-городецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 575,
     "uikTvd": "435401471596",
+    "uikName": "УИК №575",
     "tikTvd": "235200074043",
-    "tikName": "Кичменгско-городецкая"
+    "tikName": "Кичменгско-городецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 576,
     "uikTvd": "435401471597",
+    "uikName": "УИК №576",
     "tikTvd": "235200074043",
-    "tikName": "Кичменгско-городецкая"
+    "tikName": "Кичменгско-городецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 577,
     "uikTvd": "435401471598",
+    "uikName": "УИК №577",
     "tikTvd": "235200074043",
-    "tikName": "Кичменгско-городецкая"
+    "tikName": "Кичменгско-городецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 578,
     "uikTvd": "435401471599",
+    "uikName": "УИК №578",
     "tikTvd": "235200074043",
-    "tikName": "Кичменгско-городецкая"
+    "tikName": "Кичменгско-городецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 579,
     "uikTvd": "435401471600",
+    "uikName": "УИК №579",
     "tikTvd": "235200074043",
-    "tikName": "Кичменгско-городецкая"
+    "tikName": "Кичменгско-городецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 580,
     "uikTvd": "435401471601",
+    "uikName": "УИК №580",
     "tikTvd": "235200074043",
-    "tikName": "Кичменгско-городецкая"
+    "tikName": "Кичменгско-городецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 581,
     "uikTvd": "435401471602",
+    "uikName": "УИК №581",
     "tikTvd": "235200074043",
-    "tikName": "Кичменгско-городецкая"
+    "tikName": "Кичменгско-городецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 582,
     "uikTvd": "435401471603",
+    "uikName": "УИК №582",
     "tikTvd": "235200074043",
-    "tikName": "Кичменгско-городецкая"
+    "tikName": "Кичменгско-городецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 583,
     "uikTvd": "435401471604",
+    "uikName": "УИК №583",
     "tikTvd": "235200074043",
-    "tikName": "Кичменгско-городецкая"
+    "tikName": "Кичменгско-городецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 584,
     "uikTvd": "435401471605",
+    "uikName": "УИК №584",
     "tikTvd": "235200074043",
-    "tikName": "Кичменгско-городецкая"
+    "tikName": "Кичменгско-городецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 585,
     "uikTvd": "435401471606",
+    "uikName": "УИК №585",
     "tikTvd": "235200074043",
-    "tikName": "Кичменгско-городецкая"
+    "tikName": "Кичменгско-городецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 586,
     "uikTvd": "435401471607",
+    "uikName": "УИК №586",
     "tikTvd": "235200074043",
-    "tikName": "Кичменгско-городецкая"
+    "tikName": "Кичменгско-городецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 587,
     "uikTvd": "435401471608",
+    "uikName": "УИК №587",
     "tikTvd": "235200074043",
-    "tikName": "Кичменгско-городецкая"
+    "tikName": "Кичменгско-городецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 588,
     "uikTvd": "435401471609",
+    "uikName": "УИК №588",
     "tikTvd": "235200074043",
-    "tikName": "Кичменгско-городецкая"
+    "tikName": "Кичменгско-городецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 589,
     "uikTvd": "435401471610",
+    "uikName": "УИК №589",
     "tikTvd": "235200074043",
-    "tikName": "Кичменгско-городецкая"
+    "tikName": "Кичменгско-городецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 590,
     "uikTvd": "435401471611",
+    "uikName": "УИК №590",
     "tikTvd": "235200074043",
-    "tikName": "Кичменгско-городецкая"
+    "tikName": "Кичменгско-городецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 591,
     "uikTvd": "435401471612",
+    "uikName": "УИК №591",
     "tikTvd": "235200074043",
-    "tikName": "Кичменгско-городецкая"
+    "tikName": "Кичменгско-городецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 592,
     "uikTvd": "435401471613",
+    "uikName": "УИК №592",
     "tikTvd": "235200074043",
-    "tikName": "Кичменгско-городецкая"
+    "tikName": "Кичменгско-городецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 593,
     "uikTvd": "435401471614",
+    "uikName": "УИК №593",
     "tikTvd": "235200074043",
-    "tikName": "Кичменгско-городецкая"
+    "tikName": "Кичменгско-городецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 594,
     "uikTvd": "435401471615",
+    "uikName": "УИК №594",
     "tikTvd": "235200074043",
-    "tikName": "Кичменгско-городецкая"
+    "tikName": "Кичменгско-городецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 595,
     "uikTvd": "435401471616",
+    "uikName": "УИК №595",
     "tikTvd": "235200074043",
-    "tikName": "Кичменгско-городецкая"
+    "tikName": "Кичменгско-городецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 596,
     "uikTvd": "435401471617",
+    "uikName": "УИК №596",
     "tikTvd": "235200074043",
-    "tikName": "Кичменгско-городецкая"
+    "tikName": "Кичменгско-городецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 597,
     "uikTvd": "435401471618",
+    "uikName": "УИК №597",
     "tikTvd": "235200074043",
-    "tikName": "Кичменгско-городецкая"
+    "tikName": "Кичменгско-городецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 598,
     "uikTvd": "435401571148",
+    "uikName": "УИК №598",
     "tikTvd": "235200074040",
-    "tikName": "Междуреченская"
+    "tikName": "Междуреченская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 599,
     "uikTvd": "435401571149",
+    "uikName": "УИК №599",
     "tikTvd": "235200074040",
-    "tikName": "Междуреченская"
+    "tikName": "Междуреченская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 600,
     "uikTvd": "435401571150",
+    "uikName": "УИК №600",
     "tikTvd": "235200074040",
-    "tikName": "Междуреченская"
+    "tikName": "Междуреченская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 601,
     "uikTvd": "435401571151",
+    "uikName": "УИК №601",
     "tikTvd": "235200074040",
-    "tikName": "Междуреченская"
+    "tikName": "Междуреченская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 602,
     "uikTvd": "435401571152",
+    "uikName": "УИК №602",
     "tikTvd": "235200074040",
-    "tikName": "Междуреченская"
+    "tikName": "Междуреченская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 603,
     "uikTvd": "435401571153",
+    "uikName": "УИК №603",
     "tikTvd": "235200074040",
-    "tikName": "Междуреченская"
+    "tikName": "Междуреченская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 604,
     "uikTvd": "435401571154",
+    "uikName": "УИК №604",
     "tikTvd": "235200074040",
-    "tikName": "Междуреченская"
+    "tikName": "Междуреченская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 605,
     "uikTvd": "435401571155",
+    "uikName": "УИК №605",
     "tikTvd": "235200074040",
-    "tikName": "Междуреченская"
+    "tikName": "Междуреченская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 606,
     "uikTvd": "435401571156",
+    "uikName": "УИК №606",
     "tikTvd": "235200074040",
-    "tikName": "Междуреченская"
+    "tikName": "Междуреченская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 607,
     "uikTvd": "435401571157",
+    "uikName": "УИК №607",
     "tikTvd": "235200074040",
-    "tikName": "Междуреченская"
+    "tikName": "Междуреченская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 608,
     "uikTvd": "435401571158",
+    "uikName": "УИК №608",
     "tikTvd": "235200074040",
-    "tikName": "Междуреченская"
+    "tikName": "Междуреченская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 609,
     "uikTvd": "435401571159",
+    "uikName": "УИК №609",
     "tikTvd": "235200074040",
-    "tikName": "Междуреченская"
+    "tikName": "Междуреченская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 610,
     "uikTvd": "435401672110",
+    "uikName": "УИК №610",
     "tikTvd": "235200074039",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 611,
     "uikTvd": "435401672111",
+    "uikName": "УИК №611",
     "tikTvd": "235200074039",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 612,
     "uikTvd": "435401672112",
+    "uikName": "УИК №612",
     "tikTvd": "235200074039",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 613,
     "uikTvd": "435401672113",
+    "uikName": "УИК №613",
     "tikTvd": "235200074039",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 614,
     "uikTvd": "435401672114",
+    "uikName": "УИК №614",
     "tikTvd": "235200074039",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 615,
     "uikTvd": "435401672115",
+    "uikName": "УИК №615",
     "tikTvd": "235200074039",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 616,
     "uikTvd": "435401672116",
+    "uikName": "УИК №616",
     "tikTvd": "235200074039",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 617,
     "uikTvd": "435401672117",
+    "uikName": "УИК №617",
     "tikTvd": "235200074039",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 618,
     "uikTvd": "435401672118",
+    "uikName": "УИК №618",
     "tikTvd": "235200074039",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 619,
     "uikTvd": "435401672119",
+    "uikName": "УИК №619",
     "tikTvd": "235200074039",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 620,
     "uikTvd": "435401672120",
+    "uikName": "УИК №620",
     "tikTvd": "235200074039",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 621,
     "uikTvd": "435401672121",
+    "uikName": "УИК №621",
     "tikTvd": "235200074039",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 622,
     "uikTvd": "435401672122",
+    "uikName": "УИК №622",
     "tikTvd": "235200074039",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 623,
     "uikTvd": "435401672123",
+    "uikName": "УИК №623",
     "tikTvd": "235200074039",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 624,
     "uikTvd": "435401672124",
+    "uikName": "УИК №624",
     "tikTvd": "235200074039",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 625,
     "uikTvd": "435401672125",
+    "uikName": "УИК №625",
     "tikTvd": "235200074039",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 626,
     "uikTvd": "435401672126",
+    "uikName": "УИК №626",
     "tikTvd": "235200074039",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 627,
     "uikTvd": "435401672127",
+    "uikName": "УИК №627",
     "tikTvd": "235200074039",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 628,
     "uikTvd": "435401672128",
+    "uikName": "УИК №628",
     "tikTvd": "235200074039",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 629,
     "uikTvd": "435401672129",
+    "uikName": "УИК №629",
     "tikTvd": "235200074039",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 630,
     "uikTvd": "435401672130",
+    "uikName": "УИК №630",
     "tikTvd": "235200074039",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 631,
     "uikTvd": "435401672131",
+    "uikName": "УИК №631",
     "tikTvd": "235200074039",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 632,
     "uikTvd": "435401672132",
+    "uikName": "УИК №632",
     "tikTvd": "235200074039",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 633,
     "uikTvd": "435401672133",
+    "uikName": "УИК №633",
     "tikTvd": "235200074039",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 634,
     "uikTvd": "435401672134",
+    "uikName": "УИК №634",
     "tikTvd": "235200074039",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 635,
     "uikTvd": "435401672135",
+    "uikName": "УИК №635",
     "tikTvd": "235200074039",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 636,
     "uikTvd": "435401672136",
+    "uikName": "УИК №636",
     "tikTvd": "235200074039",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 637,
     "uikTvd": "435401672137",
+    "uikName": "УИК №637",
     "tikTvd": "235200074039",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 638,
     "uikTvd": "435401672138",
+    "uikName": "УИК №638",
     "tikTvd": "235200074039",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 639,
     "uikTvd": "435401672139",
+    "uikName": "УИК №639",
     "tikTvd": "235200074039",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 640,
     "uikTvd": "435401672140",
+    "uikName": "УИК №640",
     "tikTvd": "235200074039",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 641,
     "uikTvd": "435401672141",
+    "uikName": "УИК №641",
     "tikTvd": "235200074039",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 642,
     "uikTvd": "435401672142",
+    "uikName": "УИК №642",
     "tikTvd": "235200074039",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 643,
     "uikTvd": "435401672143",
+    "uikName": "УИК №643",
     "tikTvd": "235200074039",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 644,
     "uikTvd": "435401672144",
+    "uikName": "УИК №644",
     "tikTvd": "235200074039",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 645,
     "uikTvd": "435401672145",
+    "uikName": "УИК №645",
     "tikTvd": "235200074039",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 646,
     "uikTvd": "435401672146",
+    "uikName": "УИК №646",
     "tikTvd": "235200074039",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 647,
     "uikTvd": "435401672147",
+    "uikName": "УИК №647",
     "tikTvd": "235200074039",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 648,
     "uikTvd": "435401672148",
+    "uikName": "УИК №648",
     "tikTvd": "235200074039",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 649,
     "uikTvd": "435401672149",
+    "uikName": "УИК №649",
     "tikTvd": "235200074039",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 650,
     "uikTvd": "435401672150",
+    "uikName": "УИК №650",
     "tikTvd": "235200074039",
-    "tikName": "Никольская"
+    "tikName": "Никольская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 651,
     "uikTvd": "435401771560",
+    "uikName": "УИК №651",
     "tikTvd": "235200074035",
-    "tikName": "Нюксенская"
+    "tikName": "Нюксенская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 652,
     "uikTvd": "435401771561",
+    "uikName": "УИК №652",
     "tikTvd": "235200074035",
-    "tikName": "Нюксенская"
+    "tikName": "Нюксенская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 653,
     "uikTvd": "435401771562",
+    "uikName": "УИК №653",
     "tikTvd": "235200074035",
-    "tikName": "Нюксенская"
+    "tikName": "Нюксенская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 654,
     "uikTvd": "435401771563",
+    "uikName": "УИК №654",
     "tikTvd": "235200074035",
-    "tikName": "Нюксенская"
+    "tikName": "Нюксенская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 655,
     "uikTvd": "435401771564",
+    "uikName": "УИК №655",
     "tikTvd": "235200074035",
-    "tikName": "Нюксенская"
+    "tikName": "Нюксенская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 656,
     "uikTvd": "435401771565",
+    "uikName": "УИК №656",
     "tikTvd": "235200074035",
-    "tikName": "Нюксенская"
+    "tikName": "Нюксенская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 657,
     "uikTvd": "435401771566",
+    "uikName": "УИК №657",
     "tikTvd": "235200074035",
-    "tikName": "Нюксенская"
+    "tikName": "Нюксенская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 658,
     "uikTvd": "435401771567",
+    "uikName": "УИК №658",
     "tikTvd": "235200074035",
-    "tikName": "Нюксенская"
+    "tikName": "Нюксенская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 659,
     "uikTvd": "435401771568",
+    "uikName": "УИК №659",
     "tikTvd": "235200074035",
-    "tikName": "Нюксенская"
+    "tikName": "Нюксенская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 660,
     "uikTvd": "435401771569",
+    "uikName": "УИК №660",
     "tikTvd": "235200074035",
-    "tikName": "Нюксенская"
+    "tikName": "Нюксенская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 661,
     "uikTvd": "435401771570",
+    "uikName": "УИК №661",
     "tikTvd": "235200074035",
-    "tikName": "Нюксенская"
+    "tikName": "Нюксенская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 662,
     "uikTvd": "435401771571",
+    "uikName": "УИК №662",
     "tikTvd": "235200074035",
-    "tikName": "Нюксенская"
+    "tikName": "Нюксенская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 663,
     "uikTvd": "435401771572",
+    "uikName": "УИК №663",
     "tikTvd": "235200074035",
-    "tikName": "Нюксенская"
+    "tikName": "Нюксенская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 664,
     "uikTvd": "435401771573",
+    "uikName": "УИК №664",
     "tikTvd": "235200074035",
-    "tikName": "Нюксенская"
+    "tikName": "Нюксенская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 665,
     "uikTvd": "435401771574",
+    "uikName": "УИК №665",
     "tikTvd": "235200074035",
-    "tikName": "Нюксенская"
+    "tikName": "Нюксенская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 666,
     "uikTvd": "435401771575",
+    "uikName": "УИК №666",
     "tikTvd": "235200074035",
-    "tikName": "Нюксенская"
+    "tikName": "Нюксенская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 667,
     "uikTvd": "435401771576",
+    "uikName": "УИК №667",
     "tikTvd": "235200074035",
-    "tikName": "Нюксенская"
+    "tikName": "Нюксенская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 668,
     "uikTvd": "435401771577",
+    "uikName": "УИК №668",
     "tikTvd": "235200074035",
-    "tikName": "Нюксенская"
+    "tikName": "Нюксенская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 669,
     "uikTvd": "435401771578",
+    "uikName": "УИК №669",
     "tikTvd": "235200074035",
-    "tikName": "Нюксенская"
+    "tikName": "Нюксенская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 670,
     "uikTvd": "435401771579",
+    "uikName": "УИК №670",
     "tikTvd": "235200074035",
-    "tikName": "Нюксенская"
+    "tikName": "Нюксенская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 671,
     "uikTvd": "435401771580",
+    "uikName": "УИК №671",
     "tikTvd": "235200074035",
-    "tikName": "Нюксенская"
+    "tikName": "Нюксенская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 672,
     "uikTvd": "435401771581",
+    "uikName": "УИК №672",
     "tikTvd": "235200074035",
-    "tikName": "Нюксенская"
+    "tikName": "Нюксенская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 673,
     "uikTvd": "435401771582",
+    "uikName": "УИК №673",
     "tikTvd": "235200074035",
-    "tikName": "Нюксенская"
+    "tikName": "Нюксенская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 674,
     "uikTvd": "435401872127",
+    "uikName": "УИК №674",
     "tikTvd": "235200074032",
-    "tikName": "Сокольская"
+    "tikName": "Сокольская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 675,
     "uikTvd": "435401872128",
+    "uikName": "УИК №675",
     "tikTvd": "235200074032",
-    "tikName": "Сокольская"
+    "tikName": "Сокольская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 676,
     "uikTvd": "435401872129",
+    "uikName": "УИК №676",
     "tikTvd": "235200074032",
-    "tikName": "Сокольская"
+    "tikName": "Сокольская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 677,
     "uikTvd": "435401872130",
+    "uikName": "УИК №677",
     "tikTvd": "235200074032",
-    "tikName": "Сокольская"
+    "tikName": "Сокольская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 678,
     "uikTvd": "435401872131",
+    "uikName": "УИК №678",
     "tikTvd": "235200074032",
-    "tikName": "Сокольская"
+    "tikName": "Сокольская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 679,
     "uikTvd": "435401872132",
+    "uikName": "УИК №679",
     "tikTvd": "235200074032",
-    "tikName": "Сокольская"
+    "tikName": "Сокольская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 680,
     "uikTvd": "435401872133",
+    "uikName": "УИК №680",
     "tikTvd": "235200074032",
-    "tikName": "Сокольская"
+    "tikName": "Сокольская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 681,
     "uikTvd": "435401872134",
+    "uikName": "УИК №681",
     "tikTvd": "235200074032",
-    "tikName": "Сокольская"
+    "tikName": "Сокольская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 682,
     "uikTvd": "435401872135",
+    "uikName": "УИК №682",
     "tikTvd": "235200074032",
-    "tikName": "Сокольская"
+    "tikName": "Сокольская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 683,
     "uikTvd": "435401872136",
+    "uikName": "УИК №683",
     "tikTvd": "235200074032",
-    "tikName": "Сокольская"
+    "tikName": "Сокольская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 684,
     "uikTvd": "435401872137",
+    "uikName": "УИК №684",
     "tikTvd": "235200074032",
-    "tikName": "Сокольская"
+    "tikName": "Сокольская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 685,
     "uikTvd": "435401872138",
+    "uikName": "УИК №685",
     "tikTvd": "235200074032",
-    "tikName": "Сокольская"
+    "tikName": "Сокольская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 686,
     "uikTvd": "435401872139",
+    "uikName": "УИК №686",
     "tikTvd": "235200074032",
-    "tikName": "Сокольская"
+    "tikName": "Сокольская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 687,
     "uikTvd": "435401872140",
+    "uikName": "УИК №687",
     "tikTvd": "235200074032",
-    "tikName": "Сокольская"
+    "tikName": "Сокольская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 688,
     "uikTvd": "435401872141",
+    "uikName": "УИК №688",
     "tikTvd": "235200074032",
-    "tikName": "Сокольская"
+    "tikName": "Сокольская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 689,
     "uikTvd": "435401872142",
+    "uikName": "УИК №689",
     "tikTvd": "235200074032",
-    "tikName": "Сокольская"
+    "tikName": "Сокольская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 690,
     "uikTvd": "435401872143",
+    "uikName": "УИК №690",
     "tikTvd": "235200074032",
-    "tikName": "Сокольская"
+    "tikName": "Сокольская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 691,
     "uikTvd": "435401872144",
+    "uikName": "УИК №691",
     "tikTvd": "235200074032",
-    "tikName": "Сокольская"
+    "tikName": "Сокольская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 692,
     "uikTvd": "435401872145",
+    "uikName": "УИК №692",
     "tikTvd": "235200074032",
-    "tikName": "Сокольская"
+    "tikName": "Сокольская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 693,
     "uikTvd": "435401872146",
+    "uikName": "УИК №693",
     "tikTvd": "235200074032",
-    "tikName": "Сокольская"
+    "tikName": "Сокольская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 694,
     "uikTvd": "435401872147",
+    "uikName": "УИК №694",
     "tikTvd": "235200074032",
-    "tikName": "Сокольская"
+    "tikName": "Сокольская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 695,
     "uikTvd": "435401872148",
+    "uikName": "УИК №695",
     "tikTvd": "235200074032",
-    "tikName": "Сокольская"
+    "tikName": "Сокольская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 696,
     "uikTvd": "435401872149",
+    "uikName": "УИК №696",
     "tikTvd": "235200074032",
-    "tikName": "Сокольская"
+    "tikName": "Сокольская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 697,
     "uikTvd": "435401872150",
+    "uikName": "УИК №697",
     "tikTvd": "235200074032",
-    "tikName": "Сокольская"
+    "tikName": "Сокольская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 698,
     "uikTvd": "435401872151",
+    "uikName": "УИК №698",
     "tikTvd": "235200074032",
-    "tikName": "Сокольская"
+    "tikName": "Сокольская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 699,
     "uikTvd": "435401872152",
+    "uikName": "УИК №699",
     "tikTvd": "235200074032",
-    "tikName": "Сокольская"
+    "tikName": "Сокольская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 700,
     "uikTvd": "435401872153",
+    "uikName": "УИК №700",
     "tikTvd": "235200074032",
-    "tikName": "Сокольская"
+    "tikName": "Сокольская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 701,
     "uikTvd": "435401872154",
+    "uikName": "УИК №701",
     "tikTvd": "235200074032",
-    "tikName": "Сокольская"
+    "tikName": "Сокольская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 702,
     "uikTvd": "435401872155",
+    "uikName": "УИК №702",
     "tikTvd": "235200074032",
-    "tikName": "Сокольская"
+    "tikName": "Сокольская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 703,
     "uikTvd": "435401872156",
+    "uikName": "УИК №703",
     "tikTvd": "235200074032",
-    "tikName": "Сокольская"
+    "tikName": "Сокольская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 704,
     "uikTvd": "435401872157",
+    "uikName": "УИК №704",
     "tikTvd": "235200074032",
-    "tikName": "Сокольская"
+    "tikName": "Сокольская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 705,
     "uikTvd": "435401872158",
+    "uikName": "УИК №705",
     "tikTvd": "235200074032",
-    "tikName": "Сокольская"
+    "tikName": "Сокольская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 706,
     "uikTvd": "435401872159",
+    "uikName": "УИК №706",
     "tikTvd": "235200074032",
-    "tikName": "Сокольская"
+    "tikName": "Сокольская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 707,
     "uikTvd": "435401872160",
+    "uikName": "УИК №707",
     "tikTvd": "235200074032",
-    "tikName": "Сокольская"
+    "tikName": "Сокольская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 708,
     "uikTvd": "435401872161",
+    "uikName": "УИК №708",
     "tikTvd": "235200074032",
-    "tikName": "Сокольская"
+    "tikName": "Сокольская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 709,
     "uikTvd": "435401872162",
+    "uikName": "УИК №709",
     "tikTvd": "235200074032",
-    "tikName": "Сокольская"
+    "tikName": "Сокольская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 710,
     "uikTvd": "435401872163",
+    "uikName": "УИК №710",
     "tikTvd": "235200074032",
-    "tikName": "Сокольская"
+    "tikName": "Сокольская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 711,
     "uikTvd": "435401872164",
+    "uikName": "УИК №711",
     "tikTvd": "235200074032",
-    "tikName": "Сокольская"
+    "tikName": "Сокольская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 712,
     "uikTvd": "435401872165",
+    "uikName": "УИК №712",
     "tikTvd": "235200074032",
-    "tikName": "Сокольская"
+    "tikName": "Сокольская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 713,
     "uikTvd": "435401872166",
+    "uikName": "УИК №713",
     "tikTvd": "235200074032",
-    "tikName": "Сокольская"
+    "tikName": "Сокольская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 714,
     "uikTvd": "435401872167",
+    "uikName": "УИК №714",
     "tikTvd": "235200074032",
-    "tikName": "Сокольская"
+    "tikName": "Сокольская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 715,
     "uikTvd": "435401872168",
+    "uikName": "УИК №715",
     "tikTvd": "235200074032",
-    "tikName": "Сокольская"
+    "tikName": "Сокольская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 716,
     "uikTvd": "435401872169",
+    "uikName": "УИК №716",
     "tikTvd": "235200074032",
-    "tikName": "Сокольская"
+    "tikName": "Сокольская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 717,
     "uikTvd": "435401872170",
+    "uikName": "УИК №717",
     "tikTvd": "235200074032",
-    "tikName": "Сокольская"
+    "tikName": "Сокольская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 718,
     "uikTvd": "435401872171",
+    "uikName": "УИК №718",
     "tikTvd": "235200074032",
-    "tikName": "Сокольская"
+    "tikName": "Сокольская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 719,
     "uikTvd": "435401872172",
+    "uikName": "УИК №719",
     "tikTvd": "235200074032",
-    "tikName": "Сокольская"
+    "tikName": "Сокольская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 720,
     "uikTvd": "435401872173",
+    "uikName": "УИК №720",
     "tikTvd": "235200074032",
-    "tikName": "Сокольская"
+    "tikName": "Сокольская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 721,
     "uikTvd": "435401971702",
+    "uikName": "УИК №721",
     "tikTvd": "235200074034",
-    "tikName": "Сямженская"
+    "tikName": "Сямженская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 722,
     "uikTvd": "435401971703",
+    "uikName": "УИК №722",
     "tikTvd": "235200074034",
-    "tikName": "Сямженская"
+    "tikName": "Сямженская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 724,
     "uikTvd": "435401971704",
+    "uikName": "УИК №724",
     "tikTvd": "235200074034",
-    "tikName": "Сямженская"
+    "tikName": "Сямженская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 725,
     "uikTvd": "435401971705",
+    "uikName": "УИК №725",
     "tikTvd": "235200074034",
-    "tikName": "Сямженская"
+    "tikName": "Сямженская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 726,
     "uikTvd": "435401971706",
+    "uikName": "УИК №726",
     "tikTvd": "235200074034",
-    "tikName": "Сямженская"
+    "tikName": "Сямженская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 727,
     "uikTvd": "435401971707",
+    "uikName": "УИК №727",
     "tikTvd": "235200074034",
-    "tikName": "Сямженская"
+    "tikName": "Сямженская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 728,
     "uikTvd": "435401971708",
+    "uikName": "УИК №728",
     "tikTvd": "235200074034",
-    "tikName": "Сямженская"
+    "tikName": "Сямженская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 729,
     "uikTvd": "435401971709",
+    "uikName": "УИК №729",
     "tikTvd": "235200074034",
-    "tikName": "Сямженская"
+    "tikName": "Сямженская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 730,
     "uikTvd": "435401971710",
+    "uikName": "УИК №730",
     "tikTvd": "235200074034",
-    "tikName": "Сямженская"
+    "tikName": "Сямженская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 731,
     "uikTvd": "435401971711",
+    "uikName": "УИК №731",
     "tikTvd": "235200074034",
-    "tikName": "Сямженская"
+    "tikName": "Сямженская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 732,
     "uikTvd": "435401971712",
+    "uikName": "УИК №732",
     "tikTvd": "235200074034",
-    "tikName": "Сямженская"
+    "tikName": "Сямженская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 733,
     "uikTvd": "435401971713",
+    "uikName": "УИК №733",
     "tikTvd": "235200074034",
-    "tikName": "Сямженская"
+    "tikName": "Сямженская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 734,
     "uikTvd": "435401971714",
+    "uikName": "УИК №734",
     "tikTvd": "235200074034",
-    "tikName": "Сямженская"
+    "tikName": "Сямженская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 735,
     "uikTvd": "435401971715",
+    "uikName": "УИК №735",
     "tikTvd": "235200074034",
-    "tikName": "Сямженская"
+    "tikName": "Сямженская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 736,
     "uikTvd": "435401971716",
+    "uikName": "УИК №736",
     "tikTvd": "235200074034",
-    "tikName": "Сямженская"
+    "tikName": "Сямженская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 737,
     "uikTvd": "435401971717",
+    "uikName": "УИК №737",
     "tikTvd": "235200074034",
-    "tikName": "Сямженская"
+    "tikName": "Сямженская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 738,
     "uikTvd": "435401971718",
+    "uikName": "УИК №738",
     "tikTvd": "235200074034",
-    "tikName": "Сямженская"
+    "tikName": "Сямженская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 739,
     "uikTvd": "435401971719",
+    "uikName": "УИК №739",
     "tikTvd": "235200074034",
-    "tikName": "Сямженская"
+    "tikName": "Сямженская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 740,
     "uikTvd": "435401971720",
+    "uikName": "УИК №740",
     "tikTvd": "235200074034",
-    "tikName": "Сямженская"
+    "tikName": "Сямженская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 741,
     "uikTvd": "435401971721",
+    "uikName": "УИК №741",
     "tikTvd": "235200074034",
-    "tikName": "Сямженская"
+    "tikName": "Сямженская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 743,
     "uikTvd": "435401971722",
+    "uikName": "УИК №743",
     "tikTvd": "235200074034",
-    "tikName": "Сямженская"
+    "tikName": "Сямженская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 744,
     "uikTvd": "435402071493",
+    "uikName": "УИК №744",
     "tikTvd": "235200074033",
-    "tikName": "Тарногская"
+    "tikName": "Тарногская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 745,
     "uikTvd": "435402071494",
+    "uikName": "УИК №745",
     "tikTvd": "235200074033",
-    "tikName": "Тарногская"
+    "tikName": "Тарногская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 746,
     "uikTvd": "435402071495",
+    "uikName": "УИК №746",
     "tikTvd": "235200074033",
-    "tikName": "Тарногская"
+    "tikName": "Тарногская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 747,
     "uikTvd": "435402071496",
+    "uikName": "УИК №747",
     "tikTvd": "235200074033",
-    "tikName": "Тарногская"
+    "tikName": "Тарногская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 748,
     "uikTvd": "435402071497",
+    "uikName": "УИК №748",
     "tikTvd": "235200074033",
-    "tikName": "Тарногская"
+    "tikName": "Тарногская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 749,
     "uikTvd": "435402071498",
+    "uikName": "УИК №749",
     "tikTvd": "235200074033",
-    "tikName": "Тарногская"
+    "tikName": "Тарногская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 750,
     "uikTvd": "435402071499",
+    "uikName": "УИК №750",
     "tikTvd": "235200074033",
-    "tikName": "Тарногская"
+    "tikName": "Тарногская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 751,
     "uikTvd": "435402071500",
+    "uikName": "УИК №751",
     "tikTvd": "235200074033",
-    "tikName": "Тарногская"
+    "tikName": "Тарногская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 752,
     "uikTvd": "435402071501",
+    "uikName": "УИК №752",
     "tikTvd": "235200074033",
-    "tikName": "Тарногская"
+    "tikName": "Тарногская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 753,
     "uikTvd": "435402071502",
+    "uikName": "УИК №753",
     "tikTvd": "235200074033",
-    "tikName": "Тарногская"
+    "tikName": "Тарногская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 754,
     "uikTvd": "435402071503",
+    "uikName": "УИК №754",
     "tikTvd": "235200074033",
-    "tikName": "Тарногская"
+    "tikName": "Тарногская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 755,
     "uikTvd": "435402071504",
+    "uikName": "УИК №755",
     "tikTvd": "235200074033",
-    "tikName": "Тарногская"
+    "tikName": "Тарногская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 756,
     "uikTvd": "435402071505",
+    "uikName": "УИК №756",
     "tikTvd": "235200074033",
-    "tikName": "Тарногская"
+    "tikName": "Тарногская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 757,
     "uikTvd": "435402071506",
+    "uikName": "УИК №757",
     "tikTvd": "235200074033",
-    "tikName": "Тарногская"
+    "tikName": "Тарногская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 758,
     "uikTvd": "435402071507",
+    "uikName": "УИК №758",
     "tikTvd": "235200074033",
-    "tikName": "Тарногская"
+    "tikName": "Тарногская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 759,
     "uikTvd": "435402071508",
+    "uikName": "УИК №759",
     "tikTvd": "235200074033",
-    "tikName": "Тарногская"
+    "tikName": "Тарногская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 760,
     "uikTvd": "435402071509",
+    "uikName": "УИК №760",
     "tikTvd": "235200074033",
-    "tikName": "Тарногская"
+    "tikName": "Тарногская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 761,
     "uikTvd": "435402071510",
+    "uikName": "УИК №761",
     "tikTvd": "235200074033",
-    "tikName": "Тарногская"
+    "tikName": "Тарногская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 762,
     "uikTvd": "435402071511",
+    "uikName": "УИК №762",
     "tikTvd": "235200074033",
-    "tikName": "Тарногская"
+    "tikName": "Тарногская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 763,
     "uikTvd": "435402071512",
+    "uikName": "УИК №763",
     "tikTvd": "235200074033",
-    "tikName": "Тарногская"
+    "tikName": "Тарногская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 764,
     "uikTvd": "435402071513",
+    "uikName": "УИК №764",
     "tikTvd": "235200074033",
-    "tikName": "Тарногская"
+    "tikName": "Тарногская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 765,
     "uikTvd": "435402071514",
+    "uikName": "УИК №765",
     "tikTvd": "235200074033",
-    "tikName": "Тарногская"
+    "tikName": "Тарногская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 766,
     "uikTvd": "435402071515",
+    "uikName": "УИК №766",
     "tikTvd": "235200074033",
-    "tikName": "Тарногская"
+    "tikName": "Тарногская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 767,
     "uikTvd": "435402071516",
+    "uikName": "УИК №767",
     "tikTvd": "235200074033",
-    "tikName": "Тарногская"
+    "tikName": "Тарногская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 768,
     "uikTvd": "435402171705",
+    "uikName": "УИК №768",
     "tikTvd": "235200074030",
-    "tikName": "Тотемская"
+    "tikName": "Тотемская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 769,
     "uikTvd": "435402171706",
+    "uikName": "УИК №769",
     "tikTvd": "235200074030",
-    "tikName": "Тотемская"
+    "tikName": "Тотемская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 770,
     "uikTvd": "435402171707",
+    "uikName": "УИК №770",
     "tikTvd": "235200074030",
-    "tikName": "Тотемская"
+    "tikName": "Тотемская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 771,
     "uikTvd": "435402171708",
+    "uikName": "УИК №771",
     "tikTvd": "235200074030",
-    "tikName": "Тотемская"
+    "tikName": "Тотемская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 772,
     "uikTvd": "435402171709",
+    "uikName": "УИК №772",
     "tikTvd": "235200074030",
-    "tikName": "Тотемская"
+    "tikName": "Тотемская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 773,
     "uikTvd": "435402171710",
+    "uikName": "УИК №773",
     "tikTvd": "235200074030",
-    "tikName": "Тотемская"
+    "tikName": "Тотемская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 774,
     "uikTvd": "435402171711",
+    "uikName": "УИК №774",
     "tikTvd": "235200074030",
-    "tikName": "Тотемская"
+    "tikName": "Тотемская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 775,
     "uikTvd": "435402171712",
+    "uikName": "УИК №775",
     "tikTvd": "235200074030",
-    "tikName": "Тотемская"
+    "tikName": "Тотемская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 776,
     "uikTvd": "435402171713",
+    "uikName": "УИК №776",
     "tikTvd": "235200074030",
-    "tikName": "Тотемская"
+    "tikName": "Тотемская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 777,
     "uikTvd": "435402171714",
+    "uikName": "УИК №777",
     "tikTvd": "235200074030",
-    "tikName": "Тотемская"
+    "tikName": "Тотемская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 778,
     "uikTvd": "435402171715",
+    "uikName": "УИК №778",
     "tikTvd": "235200074030",
-    "tikName": "Тотемская"
+    "tikName": "Тотемская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 779,
     "uikTvd": "435402171716",
+    "uikName": "УИК №779",
     "tikTvd": "235200074030",
-    "tikName": "Тотемская"
+    "tikName": "Тотемская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 780,
     "uikTvd": "435402171717",
+    "uikName": "УИК №780",
     "tikTvd": "235200074030",
-    "tikName": "Тотемская"
+    "tikName": "Тотемская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 781,
     "uikTvd": "435402171718",
+    "uikName": "УИК №781",
     "tikTvd": "235200074030",
-    "tikName": "Тотемская"
+    "tikName": "Тотемская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 782,
     "uikTvd": "435402171719",
+    "uikName": "УИК №782",
     "tikTvd": "235200074030",
-    "tikName": "Тотемская"
+    "tikName": "Тотемская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 783,
     "uikTvd": "435402171720",
+    "uikName": "УИК №783",
     "tikTvd": "235200074030",
-    "tikName": "Тотемская"
+    "tikName": "Тотемская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 784,
     "uikTvd": "435402171721",
+    "uikName": "УИК №784",
     "tikTvd": "235200074030",
-    "tikName": "Тотемская"
+    "tikName": "Тотемская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 785,
     "uikTvd": "435402171722",
+    "uikName": "УИК №785",
     "tikTvd": "235200074030",
-    "tikName": "Тотемская"
+    "tikName": "Тотемская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 786,
     "uikTvd": "435402171723",
+    "uikName": "УИК №786",
     "tikTvd": "235200074030",
-    "tikName": "Тотемская"
+    "tikName": "Тотемская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 787,
     "uikTvd": "435402171724",
+    "uikName": "УИК №787",
     "tikTvd": "235200074030",
-    "tikName": "Тотемская"
+    "tikName": "Тотемская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 788,
     "uikTvd": "435402171725",
+    "uikName": "УИК №788",
     "tikTvd": "235200074030",
-    "tikName": "Тотемская"
+    "tikName": "Тотемская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 789,
     "uikTvd": "435402171726",
+    "uikName": "УИК №789",
     "tikTvd": "235200074030",
-    "tikName": "Тотемская"
+    "tikName": "Тотемская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 790,
     "uikTvd": "435402171727",
+    "uikName": "УИК №790",
     "tikTvd": "235200074030",
-    "tikName": "Тотемская"
+    "tikName": "Тотемская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 791,
     "uikTvd": "435402171728",
+    "uikName": "УИК №791",
     "tikTvd": "235200074030",
-    "tikName": "Тотемская"
+    "tikName": "Тотемская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 792,
     "uikTvd": "435402171729",
+    "uikName": "УИК №792",
     "tikTvd": "235200074030",
-    "tikName": "Тотемская"
+    "tikName": "Тотемская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 793,
     "uikTvd": "435402571491",
+    "uikName": "УИК №793",
     "tikTvd": "235200074027",
-    "tikName": "Чагодощенская"
+    "tikName": "Чагодощенская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 794,
     "uikTvd": "435402171730",
+    "uikName": "УИК №794",
     "tikTvd": "235200074030",
-    "tikName": "Тотемская"
+    "tikName": "Тотемская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 795,
     "uikTvd": "435402171731",
+    "uikName": "УИК №795",
     "tikTvd": "235200074030",
-    "tikName": "Тотемская"
+    "tikName": "Тотемская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 796,
     "uikTvd": "435402171732",
+    "uikName": "УИК №796",
     "tikTvd": "235200074030",
-    "tikName": "Тотемская"
+    "tikName": "Тотемская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 797,
     "uikTvd": "435402171733",
+    "uikName": "УИК №797",
     "tikTvd": "235200074030",
-    "tikName": "Тотемская"
+    "tikName": "Тотемская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 798,
     "uikTvd": "435402271421",
+    "uikName": "УИК  798",
     "tikTvd": "235200074028",
-    "tikName": "Усть-Кубинская"
+    "tikName": "Усть-Кубинская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 799,
     "uikTvd": "435402271422",
+    "uikName": "УИК  799",
     "tikTvd": "235200074028",
-    "tikName": "Усть-Кубинская"
+    "tikName": "Усть-Кубинская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 800,
     "uikTvd": "435402271424",
+    "uikName": "УИК  800",
     "tikTvd": "235200074028",
-    "tikName": "Усть-Кубинская"
+    "tikName": "Усть-Кубинская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 801,
     "uikTvd": "435402271425",
+    "uikName": "УИК  801",
     "tikTvd": "235200074028",
-    "tikName": "Усть-Кубинская"
+    "tikName": "Усть-Кубинская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 802,
     "uikTvd": "435402271426",
+    "uikName": "УИК  802",
     "tikTvd": "235200074028",
-    "tikName": "Усть-Кубинская"
+    "tikName": "Усть-Кубинская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 803,
     "uikTvd": "435402271427",
+    "uikName": "УИК  803",
     "tikTvd": "235200074028",
-    "tikName": "Усть-Кубинская"
+    "tikName": "Усть-Кубинская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 804,
     "uikTvd": "435402271428",
+    "uikName": "УИК  804",
     "tikTvd": "235200074028",
-    "tikName": "Усть-Кубинская"
+    "tikName": "Усть-Кубинская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 805,
     "uikTvd": "435402271429",
+    "uikName": "УИК  805",
     "tikTvd": "235200074028",
-    "tikName": "Усть-Кубинская"
+    "tikName": "Усть-Кубинская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 806,
     "uikTvd": "435402271430",
+    "uikName": "УИК  806",
     "tikTvd": "235200074028",
-    "tikName": "Усть-Кубинская"
+    "tikName": "Усть-Кубинская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 808,
     "uikTvd": "435402271431",
+    "uikName": "УИК  808",
     "tikTvd": "235200074028",
-    "tikName": "Усть-Кубинская"
+    "tikName": "Усть-Кубинская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 809,
     "uikTvd": "435402271432",
+    "uikName": "УИК  809",
     "tikTvd": "235200074028",
-    "tikName": "Усть-Кубинская"
+    "tikName": "Усть-Кубинская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 810,
     "uikTvd": "435402271433",
+    "uikName": "УИК  810",
     "tikTvd": "235200074028",
-    "tikName": "Усть-Кубинская"
+    "tikName": "Усть-Кубинская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 811,
     "uikTvd": "435402271434",
+    "uikName": "УИК  811",
     "tikTvd": "235200074028",
-    "tikName": "Усть-Кубинская"
+    "tikName": "Усть-Кубинская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 812,
     "uikTvd": "435402271435",
+    "uikName": "УИК  812",
     "tikTvd": "235200074028",
-    "tikName": "Усть-Кубинская"
+    "tikName": "Усть-Кубинская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 813,
     "uikTvd": "435402271436",
+    "uikName": "УИК  813",
     "tikTvd": "235200074028",
-    "tikName": "Усть-Кубинская"
+    "tikName": "Усть-Кубинская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 814,
     "uikTvd": "435402271437",
+    "uikName": "УИК  814",
     "tikTvd": "235200074028",
-    "tikName": "Усть-Кубинская"
+    "tikName": "Усть-Кубинская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 815,
     "uikTvd": "435402271438",
+    "uikName": "УИК  815",
     "tikTvd": "235200074028",
-    "tikName": "Усть-Кубинская"
+    "tikName": "Усть-Кубинская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 817,
     "uikTvd": "435402371566",
+    "uikName": "УИК №817",
     "tikTvd": "235200074031",
-    "tikName": "Устюженская"
+    "tikName": "Устюженская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 818,
     "uikTvd": "435402371568",
+    "uikName": "УИК №818",
     "tikTvd": "235200074031",
-    "tikName": "Устюженская"
+    "tikName": "Устюженская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 819,
     "uikTvd": "435402371570",
+    "uikName": "УИК №819",
     "tikTvd": "235200074031",
-    "tikName": "Устюженская"
+    "tikName": "Устюженская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 820,
     "uikTvd": "435402371572",
+    "uikName": "УИК №820",
     "tikTvd": "235200074031",
-    "tikName": "Устюженская"
+    "tikName": "Устюженская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 823,
     "uikTvd": "435402371574",
+    "uikName": "УИК №823",
     "tikTvd": "235200074031",
-    "tikName": "Устюженская"
+    "tikName": "Устюженская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 824,
     "uikTvd": "435402371576",
+    "uikName": "УИК №824",
     "tikTvd": "235200074031",
-    "tikName": "Устюженская"
+    "tikName": "Устюженская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 826,
     "uikTvd": "435402371578",
+    "uikName": "УИК №826",
     "tikTvd": "235200074031",
-    "tikName": "Устюженская"
+    "tikName": "Устюженская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 827,
     "uikTvd": "435402371580",
+    "uikName": "УИК №827",
     "tikTvd": "235200074031",
-    "tikName": "Устюженская"
+    "tikName": "Устюженская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 828,
     "uikTvd": "435402371582",
+    "uikName": "УИК №828",
     "tikTvd": "235200074031",
-    "tikName": "Устюженская"
+    "tikName": "Устюженская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 829,
     "uikTvd": "435402371584",
+    "uikName": "УИК №829",
     "tikTvd": "235200074031",
-    "tikName": "Устюженская"
+    "tikName": "Устюженская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 830,
     "uikTvd": "435402371586",
+    "uikName": "УИК №830",
     "tikTvd": "235200074031",
-    "tikName": "Устюженская"
+    "tikName": "Устюженская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 831,
     "uikTvd": "435402371588",
+    "uikName": "УИК №831",
     "tikTvd": "235200074031",
-    "tikName": "Устюженская"
+    "tikName": "Устюженская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 832,
     "uikTvd": "435402371590",
+    "uikName": "УИК №832",
     "tikTvd": "235200074031",
-    "tikName": "Устюженская"
+    "tikName": "Устюженская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 833,
     "uikTvd": "435402371592",
+    "uikName": "УИК №833",
     "tikTvd": "235200074031",
-    "tikName": "Устюженская"
+    "tikName": "Устюженская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 834,
     "uikTvd": "435402371594",
+    "uikName": "УИК №834",
     "tikTvd": "235200074031",
-    "tikName": "Устюженская"
+    "tikName": "Устюженская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 835,
     "uikTvd": "435402371596",
+    "uikName": "УИК №835",
     "tikTvd": "235200074031",
-    "tikName": "Устюженская"
+    "tikName": "Устюженская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 836,
     "uikTvd": "435402371598",
+    "uikName": "УИК №836",
     "tikTvd": "235200074031",
-    "tikName": "Устюженская"
+    "tikName": "Устюженская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 837,
     "uikTvd": "435402371600",
+    "uikName": "УИК №837",
     "tikTvd": "235200074031",
-    "tikName": "Устюженская"
+    "tikName": "Устюженская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 838,
     "uikTvd": "435402371602",
+    "uikName": "УИК №838",
     "tikTvd": "235200074031",
-    "tikName": "Устюженская"
+    "tikName": "Устюженская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 839,
     "uikTvd": "435402371604",
+    "uikName": "УИК №839",
     "tikTvd": "235200074031",
-    "tikName": "Устюженская"
+    "tikName": "Устюженская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 840,
     "uikTvd": "435402371606",
+    "uikName": "УИК №840",
     "tikTvd": "235200074031",
-    "tikName": "Устюженская"
+    "tikName": "Устюженская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 841,
     "uikTvd": "435402371608",
+    "uikName": "УИК №841",
     "tikTvd": "235200074031",
-    "tikName": "Устюженская"
+    "tikName": "Устюженская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 842,
     "uikTvd": "435402371610",
+    "uikName": "УИК №842",
     "tikTvd": "235200074031",
-    "tikName": "Устюженская"
+    "tikName": "Устюженская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 843,
     "uikTvd": "435402371612",
+    "uikName": "УИК №843",
     "tikTvd": "235200074031",
-    "tikName": "Устюженская"
+    "tikName": "Устюженская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 844,
     "uikTvd": "435402371614",
+    "uikName": "УИК №844",
     "tikTvd": "235200074031",
-    "tikName": "Устюженская"
+    "tikName": "Устюженская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 846,
     "uikTvd": "435402371616",
+    "uikName": "УИК №846",
     "tikTvd": "235200074031",
-    "tikName": "Устюженская"
+    "tikName": "Устюженская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 847,
     "uikTvd": "435402371618",
+    "uikName": "УИК №847",
     "tikTvd": "235200074031",
-    "tikName": "Устюженская"
+    "tikName": "Устюженская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 848,
     "uikTvd": "435402371620",
+    "uikName": "УИК №848",
     "tikTvd": "235200074031",
-    "tikName": "Устюженская"
+    "tikName": "Устюженская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 849,
     "uikTvd": "435402371622",
+    "uikName": "УИК №849",
     "tikTvd": "235200074031",
-    "tikName": "Устюженская"
+    "tikName": "Устюженская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 850,
     "uikTvd": "435402371624",
+    "uikName": "УИК №850",
     "tikTvd": "235200074031",
-    "tikName": "Устюженская"
+    "tikName": "Устюженская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 851,
     "uikTvd": "435402371626",
+    "uikName": "УИК №851",
     "tikTvd": "235200074031",
-    "tikName": "Устюженская"
+    "tikName": "Устюженская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 852,
     "uikTvd": "435402371628",
+    "uikName": "УИК №852",
     "tikTvd": "235200074031",
-    "tikName": "Устюженская"
+    "tikName": "Устюженская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 853,
     "uikTvd": "435402471648",
+    "uikName": "УИК №853",
     "tikTvd": "235200074029",
-    "tikName": "Харовская"
+    "tikName": "Харовская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 854,
     "uikTvd": "435402471649",
+    "uikName": "УИК №854",
     "tikTvd": "235200074029",
-    "tikName": "Харовская"
+    "tikName": "Харовская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 855,
     "uikTvd": "435402471650",
+    "uikName": "УИК №855",
     "tikTvd": "235200074029",
-    "tikName": "Харовская"
+    "tikName": "Харовская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 856,
     "uikTvd": "435402471651",
+    "uikName": "УИК №856",
     "tikTvd": "235200074029",
-    "tikName": "Харовская"
+    "tikName": "Харовская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 857,
     "uikTvd": "435402471652",
+    "uikName": "УИК №857",
     "tikTvd": "235200074029",
-    "tikName": "Харовская"
+    "tikName": "Харовская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 858,
     "uikTvd": "435402471653",
+    "uikName": "УИК №858",
     "tikTvd": "235200074029",
-    "tikName": "Харовская"
+    "tikName": "Харовская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 859,
     "uikTvd": "435402471654",
+    "uikName": "УИК №859",
     "tikTvd": "235200074029",
-    "tikName": "Харовская"
+    "tikName": "Харовская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 860,
     "uikTvd": "435402471655",
+    "uikName": "УИК №860",
     "tikTvd": "235200074029",
-    "tikName": "Харовская"
+    "tikName": "Харовская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 861,
     "uikTvd": "435402471656",
+    "uikName": "УИК №861",
     "tikTvd": "235200074029",
-    "tikName": "Харовская"
+    "tikName": "Харовская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 862,
     "uikTvd": "435402471657",
+    "uikName": "УИК №862",
     "tikTvd": "235200074029",
-    "tikName": "Харовская"
+    "tikName": "Харовская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 863,
     "uikTvd": "435402471658",
+    "uikName": "УИК №863",
     "tikTvd": "235200074029",
-    "tikName": "Харовская"
+    "tikName": "Харовская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 864,
     "uikTvd": "435402471659",
+    "uikName": "УИК №864",
     "tikTvd": "235200074029",
-    "tikName": "Харовская"
+    "tikName": "Харовская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 865,
     "uikTvd": "435402471660",
+    "uikName": "УИК №865",
     "tikTvd": "235200074029",
-    "tikName": "Харовская"
+    "tikName": "Харовская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 866,
     "uikTvd": "435402471661",
+    "uikName": "УИК №866",
     "tikTvd": "235200074029",
-    "tikName": "Харовская"
+    "tikName": "Харовская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 867,
     "uikTvd": "435402471662",
+    "uikName": "УИК №867",
     "tikTvd": "235200074029",
-    "tikName": "Харовская"
+    "tikName": "Харовская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 868,
     "uikTvd": "435402471663",
+    "uikName": "УИК №868",
     "tikTvd": "235200074029",
-    "tikName": "Харовская"
+    "tikName": "Харовская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 869,
     "uikTvd": "435402471664",
+    "uikName": "УИК №869",
     "tikTvd": "235200074029",
-    "tikName": "Харовская"
+    "tikName": "Харовская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 870,
     "uikTvd": "435402471665",
+    "uikName": "УИК №870",
     "tikTvd": "235200074029",
-    "tikName": "Харовская"
+    "tikName": "Харовская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 871,
     "uikTvd": "435402471666",
+    "uikName": "УИК №871",
     "tikTvd": "235200074029",
-    "tikName": "Харовская"
+    "tikName": "Харовская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 872,
     "uikTvd": "435402471667",
+    "uikName": "УИК №872",
     "tikTvd": "235200074029",
-    "tikName": "Харовская"
+    "tikName": "Харовская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 873,
     "uikTvd": "435402471668",
+    "uikName": "УИК №873",
     "tikTvd": "235200074029",
-    "tikName": "Харовская"
+    "tikName": "Харовская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 874,
     "uikTvd": "435402471669",
+    "uikName": "УИК №874",
     "tikTvd": "235200074029",
-    "tikName": "Харовская"
+    "tikName": "Харовская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 875,
     "uikTvd": "435402471670",
+    "uikName": "УИК №875",
     "tikTvd": "235200074029",
-    "tikName": "Харовская"
+    "tikName": "Харовская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 876,
     "uikTvd": "435402471671",
+    "uikName": "УИК №876",
     "tikTvd": "235200074029",
-    "tikName": "Харовская"
+    "tikName": "Харовская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 877,
     "uikTvd": "435402471672",
+    "uikName": "УИК №877",
     "tikTvd": "235200074029",
-    "tikName": "Харовская"
+    "tikName": "Харовская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 878,
     "uikTvd": "435402471673",
+    "uikName": "УИК №878",
     "tikTvd": "235200074029",
-    "tikName": "Харовская"
+    "tikName": "Харовская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 879,
     "uikTvd": "435402471674",
+    "uikName": "УИК №879",
     "tikTvd": "235200074029",
-    "tikName": "Харовская"
+    "tikName": "Харовская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 880,
     "uikTvd": "435402471675",
+    "uikName": "УИК №880",
     "tikTvd": "235200074029",
-    "tikName": "Харовская"
+    "tikName": "Харовская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 881,
     "uikTvd": "435402471676",
+    "uikName": "УИК №881",
     "tikTvd": "235200074029",
-    "tikName": "Харовская"
+    "tikName": "Харовская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 882,
     "uikTvd": "435402571492",
+    "uikName": "УИК №882",
     "tikTvd": "235200074027",
-    "tikName": "Чагодощенская"
+    "tikName": "Чагодощенская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 883,
     "uikTvd": "435402571493",
+    "uikName": "УИК №883",
     "tikTvd": "235200074027",
-    "tikName": "Чагодощенская"
+    "tikName": "Чагодощенская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 884,
     "uikTvd": "435402571494",
+    "uikName": "УИК №884",
     "tikTvd": "235200074027",
-    "tikName": "Чагодощенская"
+    "tikName": "Чагодощенская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 885,
     "uikTvd": "435402571495",
+    "uikName": "УИК №885",
     "tikTvd": "235200074027",
-    "tikName": "Чагодощенская"
+    "tikName": "Чагодощенская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 886,
     "uikTvd": "435402571496",
+    "uikName": "УИК №886",
     "tikTvd": "235200074027",
-    "tikName": "Чагодощенская"
+    "tikName": "Чагодощенская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 887,
     "uikTvd": "435402571497",
+    "uikName": "УИК №887",
     "tikTvd": "235200074027",
-    "tikName": "Чагодощенская"
+    "tikName": "Чагодощенская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 888,
     "uikTvd": "435402571498",
+    "uikName": "УИК №888",
     "tikTvd": "235200074027",
-    "tikName": "Чагодощенская"
+    "tikName": "Чагодощенская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 889,
     "uikTvd": "435402571499",
+    "uikName": "УИК №889",
     "tikTvd": "235200074027",
-    "tikName": "Чагодощенская"
+    "tikName": "Чагодощенская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 890,
     "uikTvd": "435402571500",
+    "uikName": "УИК №890",
     "tikTvd": "235200074027",
-    "tikName": "Чагодощенская"
+    "tikName": "Чагодощенская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 891,
     "uikTvd": "435402571501",
+    "uikName": "УИК №891",
     "tikTvd": "235200074027",
-    "tikName": "Чагодощенская"
+    "tikName": "Чагодощенская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 892,
     "uikTvd": "435402571502",
+    "uikName": "УИК №892",
     "tikTvd": "235200074027",
-    "tikName": "Чагодощенская"
+    "tikName": "Чагодощенская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 893,
     "uikTvd": "435402571503",
+    "uikName": "УИК №893",
     "tikTvd": "235200074027",
-    "tikName": "Чагодощенская"
+    "tikName": "Чагодощенская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 894,
     "uikTvd": "435402571504",
+    "uikName": "УИК №894",
     "tikTvd": "235200074027",
-    "tikName": "Чагодощенская"
+    "tikName": "Чагодощенская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 895,
     "uikTvd": "435402571505",
+    "uikName": "УИК №895",
     "tikTvd": "235200074027",
-    "tikName": "Чагодощенская"
+    "tikName": "Чагодощенская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 896,
     "uikTvd": "435402571506",
+    "uikName": "УИК №896",
     "tikTvd": "235200074027",
-    "tikName": "Чагодощенская"
+    "tikName": "Чагодощенская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 897,
     "uikTvd": "435402571507",
+    "uikName": "УИК №897",
     "tikTvd": "235200074027",
-    "tikName": "Чагодощенская"
+    "tikName": "Чагодощенская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 898,
     "uikTvd": "435402571508",
+    "uikName": "УИК №898",
     "tikTvd": "235200074027",
-    "tikName": "Чагодощенская"
+    "tikName": "Чагодощенская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 899,
     "uikTvd": "435402571509",
+    "uikName": "УИК №899",
     "tikTvd": "235200074027",
-    "tikName": "Чагодощенская"
+    "tikName": "Чагодощенская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 900,
     "uikTvd": "435402772302",
+    "uikName": "УИК №900",
     "tikTvd": "235200074025",
-    "tikName": "Череповецкая"
+    "tikName": "Череповецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 901,
     "uikTvd": "435402772303",
+    "uikName": "УИК №901",
     "tikTvd": "235200074025",
-    "tikName": "Череповецкая"
+    "tikName": "Череповецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 902,
     "uikTvd": "435402772304",
+    "uikName": "УИК №902",
     "tikTvd": "235200074025",
-    "tikName": "Череповецкая"
+    "tikName": "Череповецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 903,
     "uikTvd": "435402772305",
+    "uikName": "УИК №903",
     "tikTvd": "235200074025",
-    "tikName": "Череповецкая"
+    "tikName": "Череповецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 904,
     "uikTvd": "435402772306",
+    "uikName": "УИК №904",
     "tikTvd": "235200074025",
-    "tikName": "Череповецкая"
+    "tikName": "Череповецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 905,
     "uikTvd": "435402772307",
+    "uikName": "УИК №905",
     "tikTvd": "235200074025",
-    "tikName": "Череповецкая"
+    "tikName": "Череповецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 906,
     "uikTvd": "435402772308",
+    "uikName": "УИК №906",
     "tikTvd": "235200074025",
-    "tikName": "Череповецкая"
+    "tikName": "Череповецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 907,
     "uikTvd": "435402772309",
+    "uikName": "УИК №907",
     "tikTvd": "235200074025",
-    "tikName": "Череповецкая"
+    "tikName": "Череповецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 908,
     "uikTvd": "435402772310",
+    "uikName": "УИК №908",
     "tikTvd": "235200074025",
-    "tikName": "Череповецкая"
+    "tikName": "Череповецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 909,
     "uikTvd": "435402772311",
+    "uikName": "УИК №909",
     "tikTvd": "235200074025",
-    "tikName": "Череповецкая"
+    "tikName": "Череповецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 910,
     "uikTvd": "435402772312",
+    "uikName": "УИК №910",
     "tikTvd": "235200074025",
-    "tikName": "Череповецкая"
+    "tikName": "Череповецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 911,
     "uikTvd": "435402772313",
+    "uikName": "УИК №911",
     "tikTvd": "235200074025",
-    "tikName": "Череповецкая"
+    "tikName": "Череповецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 912,
     "uikTvd": "435402772314",
+    "uikName": "УИК №912",
     "tikTvd": "235200074025",
-    "tikName": "Череповецкая"
+    "tikName": "Череповецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 913,
     "uikTvd": "435402772315",
+    "uikName": "УИК №913",
     "tikTvd": "235200074025",
-    "tikName": "Череповецкая"
+    "tikName": "Череповецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 914,
     "uikTvd": "435402772316",
+    "uikName": "УИК №914",
     "tikTvd": "235200074025",
-    "tikName": "Череповецкая"
+    "tikName": "Череповецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 915,
     "uikTvd": "435402772317",
+    "uikName": "УИК №915",
     "tikTvd": "235200074025",
-    "tikName": "Череповецкая"
+    "tikName": "Череповецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 916,
     "uikTvd": "435402772318",
+    "uikName": "УИК №916",
     "tikTvd": "235200074025",
-    "tikName": "Череповецкая"
+    "tikName": "Череповецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 917,
     "uikTvd": "435402772319",
+    "uikName": "УИК №917",
     "tikTvd": "235200074025",
-    "tikName": "Череповецкая"
+    "tikName": "Череповецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 918,
     "uikTvd": "435402772320",
+    "uikName": "УИК №918",
     "tikTvd": "235200074025",
-    "tikName": "Череповецкая"
+    "tikName": "Череповецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 919,
     "uikTvd": "435402772321",
+    "uikName": "УИК №919",
     "tikTvd": "235200074025",
-    "tikName": "Череповецкая"
+    "tikName": "Череповецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 920,
     "uikTvd": "435402772322",
+    "uikName": "УИК №920",
     "tikTvd": "235200074025",
-    "tikName": "Череповецкая"
+    "tikName": "Череповецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 921,
     "uikTvd": "435402772323",
+    "uikName": "УИК №921",
     "tikTvd": "235200074025",
-    "tikName": "Череповецкая"
+    "tikName": "Череповецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 922,
     "uikTvd": "435402772324",
+    "uikName": "УИК №922",
     "tikTvd": "235200074025",
-    "tikName": "Череповецкая"
+    "tikName": "Череповецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 923,
     "uikTvd": "435402772325",
+    "uikName": "УИК №923",
     "tikTvd": "235200074025",
-    "tikName": "Череповецкая"
+    "tikName": "Череповецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 924,
     "uikTvd": "435402772326",
+    "uikName": "УИК №924",
     "tikTvd": "235200074025",
-    "tikName": "Череповецкая"
+    "tikName": "Череповецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 925,
     "uikTvd": "435402772327",
+    "uikName": "УИК №925",
     "tikTvd": "235200074025",
-    "tikName": "Череповецкая"
+    "tikName": "Череповецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 926,
     "uikTvd": "435402772328",
+    "uikName": "УИК №926",
     "tikTvd": "235200074025",
-    "tikName": "Череповецкая"
+    "tikName": "Череповецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 927,
     "uikTvd": "435402772329",
+    "uikName": "УИК №927",
     "tikTvd": "235200074025",
-    "tikName": "Череповецкая"
+    "tikName": "Череповецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 928,
     "uikTvd": "435402772330",
+    "uikName": "УИК №928",
     "tikTvd": "235200074025",
-    "tikName": "Череповецкая"
+    "tikName": "Череповецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 929,
     "uikTvd": "435402772331",
+    "uikName": "УИК №929",
     "tikTvd": "235200074025",
-    "tikName": "Череповецкая"
+    "tikName": "Череповецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 930,
     "uikTvd": "435402772332",
+    "uikName": "УИК №930",
     "tikTvd": "235200074025",
-    "tikName": "Череповецкая"
+    "tikName": "Череповецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 931,
     "uikTvd": "435402772333",
+    "uikName": "УИК №931",
     "tikTvd": "235200074025",
-    "tikName": "Череповецкая"
+    "tikName": "Череповецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 932,
     "uikTvd": "435402772334",
+    "uikName": "УИК №932",
     "tikTvd": "235200074025",
-    "tikName": "Череповецкая"
+    "tikName": "Череповецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 933,
     "uikTvd": "435402772335",
+    "uikName": "УИК №933",
     "tikTvd": "235200074025",
-    "tikName": "Череповецкая"
+    "tikName": "Череповецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 934,
     "uikTvd": "435402772336",
+    "uikName": "УИК №934",
     "tikTvd": "235200074025",
-    "tikName": "Череповецкая"
+    "tikName": "Череповецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 935,
     "uikTvd": "435402772337",
+    "uikName": "УИК №935",
     "tikTvd": "235200074025",
-    "tikName": "Череповецкая"
+    "tikName": "Череповецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 936,
     "uikTvd": "435402772338",
+    "uikName": "УИК №936",
     "tikTvd": "235200074025",
-    "tikName": "Череповецкая"
+    "tikName": "Череповецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 937,
     "uikTvd": "435402772339",
+    "uikName": "УИК №937",
     "tikTvd": "235200074025",
-    "tikName": "Череповецкая"
+    "tikName": "Череповецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 938,
     "uikTvd": "435402772340",
+    "uikName": "УИК №938",
     "tikTvd": "235200074025",
-    "tikName": "Череповецкая"
+    "tikName": "Череповецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 939,
     "uikTvd": "435402772341",
+    "uikName": "УИК №939",
     "tikTvd": "235200074025",
-    "tikName": "Череповецкая"
+    "tikName": "Череповецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 940,
     "uikTvd": "435402772342",
+    "uikName": "УИК №940",
     "tikTvd": "235200074025",
-    "tikName": "Череповецкая"
+    "tikName": "Череповецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 941,
     "uikTvd": "435402772343",
+    "uikName": "УИК №941",
     "tikTvd": "235200074025",
-    "tikName": "Череповецкая"
+    "tikName": "Череповецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 942,
     "uikTvd": "435402772344",
+    "uikName": "УИК №942",
     "tikTvd": "235200074025",
-    "tikName": "Череповецкая"
+    "tikName": "Череповецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 943,
     "uikTvd": "435402772345",
+    "uikName": "УИК №943",
     "tikTvd": "235200074025",
-    "tikName": "Череповецкая"
+    "tikName": "Череповецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 944,
     "uikTvd": "435402772346",
+    "uikName": "УИК №944",
     "tikTvd": "235200074025",
-    "tikName": "Череповецкая"
+    "tikName": "Череповецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 945,
     "uikTvd": "435402772347",
+    "uikName": "УИК №945",
     "tikTvd": "235200074025",
-    "tikName": "Череповецкая"
+    "tikName": "Череповецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 946,
     "uikTvd": "435402772348",
+    "uikName": "УИК №946",
     "tikTvd": "235200074025",
-    "tikName": "Череповецкая"
+    "tikName": "Череповецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 947,
     "uikTvd": "435402772349",
+    "uikName": "УИК №947",
     "tikTvd": "235200074025",
-    "tikName": "Череповецкая"
+    "tikName": "Череповецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 948,
     "uikTvd": "435402772350",
+    "uikName": "УИК №948",
     "tikTvd": "235200074025",
-    "tikName": "Череповецкая"
+    "tikName": "Череповецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 949,
     "uikTvd": "435402772351",
+    "uikName": "УИК №949",
     "tikTvd": "235200074025",
-    "tikName": "Череповецкая"
+    "tikName": "Череповецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 950,
     "uikTvd": "435402772352",
+    "uikName": "УИК №950",
     "tikTvd": "235200074025",
-    "tikName": "Череповецкая"
+    "tikName": "Череповецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 951,
     "uikTvd": "435402772353",
+    "uikName": "УИК №951",
     "tikTvd": "235200074025",
-    "tikName": "Череповецкая"
+    "tikName": "Череповецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 952,
     "uikTvd": "435402772354",
+    "uikName": "УИК №952",
     "tikTvd": "235200074025",
-    "tikName": "Череповецкая"
+    "tikName": "Череповецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 953,
     "uikTvd": "435402772355",
+    "uikName": "УИК №953",
     "tikTvd": "235200074025",
-    "tikName": "Череповецкая"
+    "tikName": "Череповецкая",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 954,
     "uikTvd": "435402673699",
+    "uikName": "УИК №954",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 955,
     "uikTvd": "435402673700",
+    "uikName": "УИК №955",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 956,
     "uikTvd": "435402673701",
+    "uikName": "УИК №956",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 957,
     "uikTvd": "435402673702",
+    "uikName": "УИК №957",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 958,
     "uikTvd": "435402673703",
+    "uikName": "УИК №958",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 959,
     "uikTvd": "435402673704",
+    "uikName": "УИК №959",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 960,
     "uikTvd": "435402673705",
+    "uikName": "УИК №960",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 961,
     "uikTvd": "435402673706",
+    "uikName": "УИК №961",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 962,
     "uikTvd": "435402673707",
+    "uikName": "УИК №962",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 963,
     "uikTvd": "435402673708",
+    "uikName": "УИК №963",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 964,
     "uikTvd": "435402673709",
+    "uikName": "УИК №964",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 965,
     "uikTvd": "435402673710",
+    "uikName": "УИК №965",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 966,
     "uikTvd": "435402673711",
+    "uikName": "УИК №966",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 967,
     "uikTvd": "435402673712",
+    "uikName": "УИК №967",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 968,
     "uikTvd": "435402673713",
+    "uikName": "УИК №968",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 969,
     "uikTvd": "435402673714",
+    "uikName": "УИК №969",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 970,
     "uikTvd": "435402673715",
+    "uikName": "УИК №970",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 971,
     "uikTvd": "435402673716",
+    "uikName": "УИК №971",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 972,
     "uikTvd": "435402673717",
+    "uikName": "УИК №972",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 973,
     "uikTvd": "435402673718",
+    "uikName": "УИК №973",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 974,
     "uikTvd": "435402673719",
+    "uikName": "УИК №974",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 975,
     "uikTvd": "435402673720",
+    "uikName": "УИК №975",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 976,
     "uikTvd": "435402673721",
+    "uikName": "УИК №976",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 977,
     "uikTvd": "435402673722",
+    "uikName": "УИК №977",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 978,
     "uikTvd": "435402673723",
+    "uikName": "УИК №978",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 979,
     "uikTvd": "435402673724",
+    "uikName": "УИК №979",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 980,
     "uikTvd": "435402673725",
+    "uikName": "УИК №980",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 981,
     "uikTvd": "435402673726",
+    "uikName": "УИК №981",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 982,
     "uikTvd": "435402673727",
+    "uikName": "УИК №982",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 983,
     "uikTvd": "435402673728",
+    "uikName": "УИК №983",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 984,
     "uikTvd": "435402673729",
+    "uikName": "УИК №984",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 985,
     "uikTvd": "435402673730",
+    "uikName": "УИК №985",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 986,
     "uikTvd": "435402673731",
+    "uikName": "УИК №986",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 987,
     "uikTvd": "435402673732",
+    "uikName": "УИК №987",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 988,
     "uikTvd": "435402673733",
+    "uikName": "УИК №988",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 989,
     "uikTvd": "435402673734",
+    "uikName": "УИК №989",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 990,
     "uikTvd": "435402673735",
+    "uikName": "УИК №990",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 991,
     "uikTvd": "435402673736",
+    "uikName": "УИК №991",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 992,
     "uikTvd": "435402673737",
+    "uikName": "УИК №992",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 993,
     "uikTvd": "435402673738",
+    "uikName": "УИК №993",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 994,
     "uikTvd": "435402673739",
+    "uikName": "УИК №994",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 995,
     "uikTvd": "435402673740",
+    "uikName": "УИК №995",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 996,
     "uikTvd": "435402673741",
+    "uikName": "УИК №996",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 997,
     "uikTvd": "435402673742",
+    "uikName": "УИК №997",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 998,
     "uikTvd": "435402673743",
+    "uikName": "УИК №998",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 999,
     "uikTvd": "435402673744",
+    "uikName": "УИК №999",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 1000,
     "uikTvd": "435402673745",
+    "uikName": "УИК №1000",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 1001,
     "uikTvd": "435402673746",
+    "uikName": "УИК №1001",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 1002,
     "uikTvd": "435402673747",
+    "uikName": "УИК №1002",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 1003,
     "uikTvd": "435402673748",
+    "uikName": "УИК №1003",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 1004,
     "uikTvd": "435402673749",
+    "uikName": "УИК №1004",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 1005,
     "uikTvd": "435402673750",
+    "uikName": "УИК №1005",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 1006,
     "uikTvd": "435402673751",
+    "uikName": "УИК №1006",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 1007,
     "uikTvd": "435402673752",
+    "uikName": "УИК №1007",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 1008,
     "uikTvd": "435402673753",
+    "uikName": "УИК №1008",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 1009,
     "uikTvd": "435402673754",
+    "uikName": "УИК №1009",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 1010,
     "uikTvd": "435402673755",
+    "uikName": "УИК №1010",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 1011,
     "uikTvd": "435402673756",
+    "uikName": "УИК №1011",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 1012,
     "uikTvd": "435402673757",
+    "uikName": "УИК №1012",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 1013,
     "uikTvd": "435402673758",
+    "uikName": "УИК №1013",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 1014,
     "uikTvd": "435402673759",
+    "uikName": "УИК №1014",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 1015,
     "uikTvd": "435402673760",
+    "uikName": "УИК №1015",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 1016,
     "uikTvd": "435402673761",
+    "uikName": "УИК №1016",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 1017,
     "uikTvd": "435402673762",
+    "uikName": "УИК №1017",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 1018,
     "uikTvd": "435402673763",
+    "uikName": "УИК №1018",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 1019,
     "uikTvd": "435402673764",
+    "uikName": "УИК №1019",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 1020,
     "uikTvd": "435402673765",
+    "uikName": "УИК №1020",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 1021,
     "uikTvd": "435402673766",
+    "uikName": "УИК №1021",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 1022,
     "uikTvd": "435402673767",
+    "uikName": "УИК №1022",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 1023,
     "uikTvd": "435402673768",
+    "uikName": "УИК №1023",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 1024,
     "uikTvd": "435402673769",
+    "uikName": "УИК №1024",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 1025,
     "uikTvd": "435402673770",
+    "uikName": "УИК №1025",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 1026,
     "uikTvd": "435402673771",
+    "uikName": "УИК №1026",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 1027,
     "uikTvd": "435402673772",
+    "uikName": "УИК №1027",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 1028,
     "uikTvd": "435402673773",
+    "uikName": "УИК №1028",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 1029,
     "uikTvd": "435402673774",
+    "uikName": "УИК №1029",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 1030,
     "uikTvd": "435402673775",
+    "uikName": "УИК №1030",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 1031,
     "uikTvd": "435402673776",
+    "uikName": "УИК №1031",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 1032,
     "uikTvd": "435402673777",
+    "uikName": "УИК №1032",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 1033,
     "uikTvd": "435402673778",
+    "uikName": "УИК №1033",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 1034,
     "uikTvd": "435402673779",
+    "uikName": "УИК №1034",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 1035,
     "uikTvd": "435402673780",
+    "uikName": "УИК №1035",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 1036,
     "uikTvd": "435402673781",
+    "uikName": "УИК №1036",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 1037,
     "uikTvd": "435402673782",
+    "uikName": "УИК №1037",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 1038,
     "uikTvd": "435402673783",
+    "uikName": "УИК №1038",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 1039,
     "uikTvd": "435402673784",
+    "uikName": "УИК №1039",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 1040,
     "uikTvd": "435402673785",
+    "uikName": "УИК №1040",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 1041,
     "uikTvd": "435402673786",
+    "uikName": "УИК №1041",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 1042,
     "uikTvd": "435402673787",
+    "uikName": "УИК №1042",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 1043,
     "uikTvd": "435402673788",
+    "uikName": "УИК №1043",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 1044,
     "uikTvd": "435402673789",
+    "uikName": "УИК №1044",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 1045,
     "uikTvd": "435402673790",
+    "uikName": "УИК №1045",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 1046,
     "uikTvd": "435402673791",
+    "uikName": "УИК №1046",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 1047,
     "uikTvd": "435402673792",
+    "uikName": "УИК №1047",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 1048,
     "uikTvd": "435402673793",
+    "uikName": "УИК №1048",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 1049,
     "uikTvd": "435402673794",
+    "uikName": "УИК №1049",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 1050,
     "uikTvd": "435402673795",
+    "uikName": "УИК №1050",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 1051,
     "uikTvd": "435402673796",
+    "uikName": "УИК №1051",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 1052,
     "uikTvd": "435402673797",
+    "uikName": "УИК №1052",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 1053,
     "uikTvd": "435402673798",
+    "uikName": "УИК №1053",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 1054,
     "uikTvd": "435402673799",
+    "uikName": "УИК №1054",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 1055,
     "uikTvd": "435402673800",
+    "uikName": "УИК №1055",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 1056,
     "uikTvd": "435402673801",
+    "uikName": "УИК №1056",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 1057,
     "uikTvd": "435402673802",
+    "uikName": "УИК №1057",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 1058,
     "uikTvd": "435402673803",
+    "uikName": "УИК №1058",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 1059,
     "uikTvd": "435402673804",
+    "uikName": "УИК №1059",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 1060,
     "uikTvd": "435402673805",
+    "uikName": "УИК №1060",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 1061,
     "uikTvd": "435402673806",
+    "uikName": "УИК №1061",
     "tikTvd": "235200074024",
-    "tikName": "Череповецкая городская"
+    "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 1062,
     "uikTvd": "435402871786",
+    "uikName": "УИК №1062",
     "tikTvd": "235200074026",
-    "tikName": "Шекснинская"
+    "tikName": "Шекснинская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 1063,
     "uikTvd": "435402871787",
+    "uikName": "УИК №1063",
     "tikTvd": "235200074026",
-    "tikName": "Шекснинская"
+    "tikName": "Шекснинская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 1064,
     "uikTvd": "435402871788",
+    "uikName": "УИК №1064",
     "tikTvd": "235200074026",
-    "tikName": "Шекснинская"
+    "tikName": "Шекснинская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 1065,
     "uikTvd": "435402871789",
+    "uikName": "УИК №1065",
     "tikTvd": "235200074026",
-    "tikName": "Шекснинская"
+    "tikName": "Шекснинская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 1066,
     "uikTvd": "435402871790",
+    "uikName": "УИК №1066",
     "tikTvd": "235200074026",
-    "tikName": "Шекснинская"
+    "tikName": "Шекснинская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 1067,
     "uikTvd": "435402871791",
+    "uikName": "УИК №1067",
     "tikTvd": "235200074026",
-    "tikName": "Шекснинская"
+    "tikName": "Шекснинская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 1068,
     "uikTvd": "435402871792",
+    "uikName": "УИК №1068",
     "tikTvd": "235200074026",
-    "tikName": "Шекснинская"
+    "tikName": "Шекснинская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 1069,
     "uikTvd": "435402871793",
+    "uikName": "УИК №1069",
     "tikTvd": "235200074026",
-    "tikName": "Шекснинская"
+    "tikName": "Шекснинская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 1070,
     "uikTvd": "435402871794",
+    "uikName": "УИК №1070",
     "tikTvd": "235200074026",
-    "tikName": "Шекснинская"
+    "tikName": "Шекснинская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 1071,
     "uikTvd": "435402871795",
+    "uikName": "УИК №1071",
     "tikTvd": "235200074026",
-    "tikName": "Шекснинская"
+    "tikName": "Шекснинская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 1072,
     "uikTvd": "435402871796",
+    "uikName": "УИК №1072",
     "tikTvd": "235200074026",
-    "tikName": "Шекснинская"
+    "tikName": "Шекснинская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 1073,
     "uikTvd": "435402871797",
+    "uikName": "УИК №1073",
     "tikTvd": "235200074026",
-    "tikName": "Шекснинская"
+    "tikName": "Шекснинская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 1074,
     "uikTvd": "435402871798",
+    "uikName": "УИК №1074",
     "tikTvd": "235200074026",
-    "tikName": "Шекснинская"
+    "tikName": "Шекснинская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 1075,
     "uikTvd": "435402871799",
+    "uikName": "УИК №1075",
     "tikTvd": "235200074026",
-    "tikName": "Шекснинская"
+    "tikName": "Шекснинская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 1076,
     "uikTvd": "435402871800",
+    "uikName": "УИК №1076",
     "tikTvd": "235200074026",
-    "tikName": "Шекснинская"
+    "tikName": "Шекснинская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 1077,
     "uikTvd": "435402871801",
+    "uikName": "УИК №1077",
     "tikTvd": "235200074026",
-    "tikName": "Шекснинская"
+    "tikName": "Шекснинская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 1078,
     "uikTvd": "435402871802",
+    "uikName": "УИК №1078",
     "tikTvd": "235200074026",
-    "tikName": "Шекснинская"
+    "tikName": "Шекснинская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 1079,
     "uikTvd": "435402871803",
+    "uikName": "УИК №1079",
     "tikTvd": "235200074026",
-    "tikName": "Шекснинская"
+    "tikName": "Шекснинская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 1080,
     "uikTvd": "435402871804",
+    "uikName": "УИК №1080",
     "tikTvd": "235200074026",
-    "tikName": "Шекснинская"
+    "tikName": "Шекснинская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 1081,
     "uikTvd": "435402871805",
+    "uikName": "УИК №1081",
     "tikTvd": "235200074026",
-    "tikName": "Шекснинская"
+    "tikName": "Шекснинская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 1082,
     "uikTvd": "435402871806",
+    "uikName": "УИК №1082",
     "tikTvd": "235200074026",
-    "tikName": "Шекснинская"
+    "tikName": "Шекснинская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 1083,
     "uikTvd": "435402871807",
+    "uikName": "УИК №1083",
     "tikTvd": "235200074026",
-    "tikName": "Шекснинская"
+    "tikName": "Шекснинская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 1084,
     "uikTvd": "435402871808",
+    "uikName": "УИК №1084",
     "tikTvd": "235200074026",
-    "tikName": "Шекснинская"
+    "tikName": "Шекснинская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 1085,
     "uikTvd": "435402871809",
+    "uikName": "УИК №1085",
     "tikTvd": "235200074026",
-    "tikName": "Шекснинская"
+    "tikName": "Шекснинская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 1086,
     "uikTvd": "435402871810",
+    "uikName": "УИК №1086",
     "tikTvd": "235200074026",
-    "tikName": "Шекснинская"
+    "tikName": "Шекснинская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 1087,
     "uikTvd": "435402871811",
+    "uikName": "УИК №1087",
     "tikTvd": "235200074026",
-    "tikName": "Шекснинская"
+    "tikName": "Шекснинская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 1088,
     "uikTvd": "435402871812",
+    "uikName": "УИК №1088",
     "tikTvd": "235200074026",
-    "tikName": "Шекснинская"
+    "tikName": "Шекснинская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 1089,
     "uikTvd": "435402871813",
+    "uikName": "УИК №1089",
     "tikTvd": "235200074026",
-    "tikName": "Шекснинская"
+    "tikName": "Шекснинская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 1090,
     "uikTvd": "435402871814",
+    "uikName": "УИК №1090",
     "tikTvd": "235200074026",
-    "tikName": "Шекснинская"
+    "tikName": "Шекснинская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 1091,
     "uikTvd": "435402871815",
+    "uikName": "УИК №1091",
     "tikTvd": "235200074026",
-    "tikName": "Шекснинская"
+    "tikName": "Шекснинская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 1092,
     "uikTvd": "435402871816",
+    "uikName": "УИК №1092",
     "tikTvd": "235200074026",
-    "tikName": "Шекснинская"
+    "tikName": "Шекснинская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 1093,
     "uikTvd": "435402871817",
+    "uikName": "УИК №1093",
     "tikTvd": "235200074026",
-    "tikName": "Шекснинская"
+    "tikName": "Шекснинская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 1094,
     "uikTvd": "435402871818",
+    "uikName": "УИК №1094",
     "tikTvd": "235200074026",
-    "tikName": "Шекснинская"
+    "tikName": "Шекснинская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 1095,
     "uikTvd": "435402871819",
+    "uikName": "УИК №1095",
     "tikTvd": "235200074026",
-    "tikName": "Шекснинская"
+    "tikName": "Шекснинская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 1096,
     "uikTvd": "435402871820",
+    "uikName": "УИК №1096",
     "tikTvd": "235200074026",
-    "tikName": "Шекснинская"
+    "tikName": "Шекснинская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   },
   {
     "uikNumber": 1097,
     "uikTvd": "435402871821",
+    "uikName": "УИК №1097",
     "tikTvd": "235200074026",
-    "tikName": "Шекснинская"
+    "tikName": "Шекснинская",
+    "regionCode": "35",
+    "regionTvd": "1001000883006",
+    "regionName": "Вологодская область",
+    "district": null
   }
 ] satisfies readonly UikTikRelation[];

@@ -11,6 +11,9 @@ export const president_2018_tic_227_region_46 = [
     "ballot": "presidential",
     "tikTvd": "2462000960542",
     "tikName": "Щигровская городская",
+    "regionCode": "46",
+    "regionTvd": "100100084849171",
+    "regionName": "Курская область",
     "uikCount": 10,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 14087,
@@ -65,6 +68,9 @@ export const president_2018_tic_227_region_46 = [
     "ballot": "presidential",
     "tikTvd": "2462000960543",
     "tikName": "Льговская городская",
+    "regionCode": "46",
+    "regionTvd": "100100084849171",
+    "regionName": "Курская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 15709,
@@ -124,6 +130,9 @@ export const president_2018_tic_227_region_46 = [
     "ballot": "presidential",
     "tikTvd": "2462000960544",
     "tikName": "Курчатовская городская",
+    "regionCode": "46",
+    "regionTvd": "100100084849171",
+    "regionName": "Курская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 33463,
@@ -188,6 +197,9 @@ export const president_2018_tic_227_region_46 = [
     "ballot": "presidential",
     "tikTvd": "2462000960545",
     "tikName": "Железногорская",
+    "regionCode": "46",
+    "regionTvd": "100100084849171",
+    "regionName": "Курская область",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 12841,
@@ -259,6 +271,9 @@ export const president_2018_tic_227_region_46 = [
     "ballot": "presidential",
     "tikTvd": "2462000960546",
     "tikName": "Щигровская",
+    "regionCode": "46",
+    "regionTvd": "100100084849171",
+    "regionName": "Курская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9413,
@@ -331,6 +346,9 @@ export const president_2018_tic_227_region_46 = [
     "ballot": "presidential",
     "tikTvd": "2462000960547",
     "tikName": "Черемисиновская",
+    "regionCode": "46",
+    "regionTvd": "100100084849171",
+    "regionName": "Курская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 8317,
@@ -399,6 +417,9 @@ export const president_2018_tic_227_region_46 = [
     "ballot": "presidential",
     "tikTvd": "2462000960548",
     "tikName": "Хомутовская",
+    "regionCode": "46",
+    "regionTvd": "100100084849171",
+    "regionName": "Курская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9060,
@@ -473,6 +494,9 @@ export const president_2018_tic_227_region_46 = [
     "ballot": "presidential",
     "tikTvd": "2462000960549",
     "tikName": "Фатежская",
+    "regionCode": "46",
+    "regionTvd": "100100084849171",
+    "regionName": "Курская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 15766,
@@ -548,6 +572,9 @@ export const president_2018_tic_227_region_46 = [
     "ballot": "presidential",
     "tikTvd": "2462000960550",
     "tikName": "Тимская",
+    "regionCode": "46",
+    "regionTvd": "100100084849171",
+    "regionName": "Курская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9395,
@@ -617,6 +644,9 @@ export const president_2018_tic_227_region_46 = [
     "ballot": "presidential",
     "tikTvd": "2462000960551",
     "tikName": "Cуджанская",
+    "regionCode": "46",
+    "regionTvd": "100100084849171",
+    "regionName": "Курская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 22352,
@@ -695,6 +725,9 @@ export const president_2018_tic_227_region_46 = [
     "ballot": "presidential",
     "tikTvd": "2462000960552",
     "tikName": "Солнцевская",
+    "regionCode": "46",
+    "regionTvd": "100100084849171",
+    "regionName": "Курская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 11816,
@@ -764,6 +797,9 @@ export const president_2018_tic_227_region_46 = [
     "ballot": "presidential",
     "tikTvd": "2462000960553",
     "tikName": " Советская",
+    "regionCode": "46",
+    "regionTvd": "100100084849171",
+    "regionName": "Курская область",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 15489,
@@ -847,6 +883,9 @@ export const president_2018_tic_227_region_46 = [
     "ballot": "presidential",
     "tikTvd": "2462000960554",
     "tikName": "Рыльская",
+    "regionCode": "46",
+    "regionTvd": "100100084849171",
+    "regionName": "Курская область",
     "uikCount": 48,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 26315,
@@ -939,6 +978,9 @@ export const president_2018_tic_227_region_46 = [
     "ballot": "presidential",
     "tikTvd": "2462000960555",
     "tikName": "Пристенская",
+    "regionCode": "46",
+    "regionTvd": "100100084849171",
+    "regionName": "Курская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 13289,
@@ -1013,6 +1055,9 @@ export const president_2018_tic_227_region_46 = [
     "ballot": "presidential",
     "tikTvd": "2462000960556",
     "tikName": "Поныровская",
+    "regionCode": "46",
+    "regionTvd": "100100084849171",
+    "regionName": "Курская область",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9209,
@@ -1074,6 +1119,9 @@ export const president_2018_tic_227_region_46 = [
     "ballot": "presidential",
     "tikTvd": "2462000960557",
     "tikName": "Октябрьская",
+    "regionCode": "46",
+    "regionTvd": "100100084849171",
+    "regionName": "Курская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 18476,
@@ -1144,6 +1192,9 @@ export const president_2018_tic_227_region_46 = [
     "ballot": "presidential",
     "tikTvd": "2462000960558",
     "tikName": "Обоянская",
+    "regionCode": "46",
+    "regionTvd": "100100084849171",
+    "regionName": "Курская область",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 24592,
@@ -1231,6 +1282,9 @@ export const president_2018_tic_227_region_46 = [
     "ballot": "presidential",
     "tikTvd": "2462000960559",
     "tikName": "Медвенская",
+    "regionCode": "46",
+    "regionTvd": "100100084849171",
+    "regionName": "Курская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 13398,
@@ -1297,6 +1351,9 @@ export const president_2018_tic_227_region_46 = [
     "ballot": "presidential",
     "tikTvd": "2462000960560",
     "tikName": "Мантуровская",
+    "regionCode": "46",
+    "regionTvd": "100100084849171",
+    "regionName": "Курская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10706,
@@ -1362,6 +1419,9 @@ export const president_2018_tic_227_region_46 = [
     "ballot": "presidential",
     "tikTvd": "2462000960561",
     "tikName": "Льговская",
+    "regionCode": "46",
+    "regionTvd": "100100084849171",
+    "regionName": "Курская область",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 11243,
@@ -1448,6 +1508,9 @@ export const president_2018_tic_227_region_46 = [
     "ballot": "presidential",
     "tikTvd": "2462000960562",
     "tikName": "Курчатовская",
+    "regionCode": "46",
+    "regionTvd": "100100084849171",
+    "regionName": "Курская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 13776,
@@ -1517,6 +1580,9 @@ export const president_2018_tic_227_region_46 = [
     "ballot": "presidential",
     "tikTvd": "2462000960563",
     "tikName": "Курская",
+    "regionCode": "46",
+    "regionTvd": "100100084849171",
+    "regionName": "Курская область",
     "uikCount": 60,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 45404,
@@ -1621,6 +1687,9 @@ export const president_2018_tic_227_region_46 = [
     "ballot": "presidential",
     "tikTvd": "2462000960564",
     "tikName": "Курск, Центральная",
+    "regionCode": "46",
+    "regionTvd": "100100084849171",
+    "regionName": "Курская область",
     "uikCount": 113,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 181630,
@@ -1778,6 +1847,9 @@ export const president_2018_tic_227_region_46 = [
     "ballot": "presidential",
     "tikTvd": "2462000960565",
     "tikName": "Курск, Сеймская",
+    "regionCode": "46",
+    "regionTvd": "100100084849171",
+    "regionName": "Курская область",
     "uikCount": 66,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 115257,
@@ -1888,6 +1960,9 @@ export const president_2018_tic_227_region_46 = [
     "ballot": "presidential",
     "tikTvd": "2462000960566",
     "tikName": "Курск, Железнодорожная",
+    "regionCode": "46",
+    "regionTvd": "100100084849171",
+    "regionName": "Курская область",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 54232,
@@ -1965,6 +2040,9 @@ export const president_2018_tic_227_region_46 = [
     "ballot": "presidential",
     "tikTvd": "2462000960567",
     "tikName": "Кореневская",
+    "regionCode": "46",
+    "regionTvd": "100100084849171",
+    "regionName": "Курская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 14324,
@@ -2035,6 +2113,9 @@ export const president_2018_tic_227_region_46 = [
     "ballot": "presidential",
     "tikTvd": "2462000960568",
     "tikName": "Конышевская",
+    "regionCode": "46",
+    "regionTvd": "100100084849171",
+    "regionName": "Курская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 8371,
@@ -2105,6 +2186,9 @@ export const president_2018_tic_227_region_46 = [
     "ballot": "presidential",
     "tikTvd": "2462000960569",
     "tikName": "Касторенская",
+    "regionCode": "46",
+    "regionTvd": "100100084849171",
+    "regionName": "Курская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 14892,
@@ -2183,6 +2267,9 @@ export const president_2018_tic_227_region_46 = [
     "ballot": "presidential",
     "tikTvd": "2462000960570",
     "tikName": "Золотухинская",
+    "regionCode": "46",
+    "regionTvd": "100100084849171",
+    "regionName": "Курская область",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 17892,
@@ -2262,6 +2349,9 @@ export const president_2018_tic_227_region_46 = [
     "ballot": "presidential",
     "tikTvd": "2462000960571",
     "tikName": "Железногорская городская",
+    "regionCode": "46",
+    "regionTvd": "100100084849171",
+    "regionName": "Курская область",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 82490,
@@ -2350,6 +2440,9 @@ export const president_2018_tic_227_region_46 = [
     "ballot": "presidential",
     "tikTvd": "2462000960572",
     "tikName": "Дмитриевская",
+    "regionCode": "46",
+    "regionTvd": "100100084849171",
+    "regionName": "Курская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 13417,
@@ -2422,6 +2515,9 @@ export const president_2018_tic_227_region_46 = [
     "ballot": "presidential",
     "tikTvd": "2462000960573",
     "tikName": "Горшеченская",
+    "regionCode": "46",
+    "regionTvd": "100100084849171",
+    "regionName": "Курская область",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 14287,
@@ -2501,6 +2597,9 @@ export const president_2018_tic_227_region_46 = [
     "ballot": "presidential",
     "tikTvd": "2462000960574",
     "tikName": "Глушковская",
+    "regionCode": "46",
+    "regionTvd": "100100084849171",
+    "regionName": "Курская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 18517,
@@ -2574,6 +2673,9 @@ export const president_2018_tic_227_region_46 = [
     "ballot": "presidential",
     "tikTvd": "2462000960575",
     "tikName": "Большесолдатская",
+    "regionCode": "46",
+    "regionTvd": "100100084849171",
+    "regionName": "Курская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9395,
@@ -2642,6 +2744,9 @@ export const president_2018_tic_227_region_46 = [
     "ballot": "presidential",
     "tikTvd": "2462000960576",
     "tikName": "Беловская",
+    "regionCode": "46",
+    "regionTvd": "100100084849171",
+    "regionName": "Курская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 14489,

@@ -11,6 +11,14 @@ export const duma_2016_tic_464_region_48 = [
     "ballot": "single-member",
     "tikTvd": "2482000533382",
     "tikName": "Липецк, Правобережная",
+    "regionCode": "48",
+    "regionTvd": "100100067796004",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100067796005",
+      "oikName": "Липецкая область – Липецкий"
+    },
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 64924,
@@ -101,6 +109,14 @@ export const duma_2016_tic_464_region_48 = [
     "ballot": "single-member",
     "tikTvd": "2482000533383",
     "tikName": "Липецк, Советская",
+    "regionCode": "48",
+    "regionTvd": "100100067796004",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100067796005",
+      "oikName": "Липецкая область – Липецкий"
+    },
     "uikCount": 73,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 136697,
@@ -225,6 +241,14 @@ export const duma_2016_tic_464_region_48 = [
     "ballot": "single-member",
     "tikTvd": "2482000533384",
     "tikName": "Данковская",
+    "regionCode": "48",
+    "regionTvd": "100100067796004",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100067796005",
+      "oikName": "Липецкая область – Липецкий"
+    },
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 29623,
@@ -313,6 +337,14 @@ export const duma_2016_tic_464_region_48 = [
     "ballot": "single-member",
     "tikTvd": "2482000533385",
     "tikName": "Добровская",
+    "regionCode": "48",
+    "regionTvd": "100100067796004",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100067796005",
+      "oikName": "Липецкая область – Липецкий"
+    },
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 20338,
@@ -397,6 +429,14 @@ export const duma_2016_tic_464_region_48 = [
     "ballot": "single-member",
     "tikTvd": "2482000533386",
     "tikName": "Елецкая",
+    "regionCode": "48",
+    "regionTvd": "100100067796004",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100067796005",
+      "oikName": "Липецкая область – Липецкий"
+    },
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 22622,
@@ -480,6 +520,14 @@ export const duma_2016_tic_464_region_48 = [
     "ballot": "single-member",
     "tikTvd": "2482000533387",
     "tikName": "Краснинская",
+    "regionCode": "48",
+    "regionTvd": "100100067796004",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100067796005",
+      "oikName": "Липецкая область – Липецкий"
+    },
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 11177,
@@ -554,6 +602,14 @@ export const duma_2016_tic_464_region_48 = [
     "ballot": "single-member",
     "tikTvd": "2482000533388",
     "tikName": "Лебедянская",
+    "regionCode": "48",
+    "regionTvd": "100100067796004",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100067796005",
+      "oikName": "Липецкая область – Липецкий"
+    },
     "uikCount": 47,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 35103,
@@ -652,6 +708,14 @@ export const duma_2016_tic_464_region_48 = [
     "ballot": "single-member",
     "tikTvd": "2482000533389",
     "tikName": "Лев-Толстовская",
+    "regionCode": "48",
+    "regionTvd": "100100067796004",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100067796005",
+      "oikName": "Липецкая область – Липецкий"
+    },
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 13075,
@@ -732,6 +796,14 @@ export const duma_2016_tic_464_region_48 = [
     "ballot": "single-member",
     "tikTvd": "2482000533391",
     "tikName": "Становлянская",
+    "regionCode": "48",
+    "regionTvd": "100100067796004",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100067796005",
+      "oikName": "Липецкая область – Липецкий"
+    },
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 14727,
@@ -815,6 +887,14 @@ export const duma_2016_tic_464_region_48 = [
     "ballot": "single-member",
     "tikTvd": "2482000533392",
     "tikName": "Чаплыгинская",
+    "regionCode": "48",
+    "regionTvd": "100100067796004",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100067796005",
+      "oikName": "Липецкая область – Липецкий"
+    },
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 25136,
@@ -902,6 +982,14 @@ export const duma_2016_tic_464_region_48 = [
     "ballot": "single-member",
     "tikTvd": "2482000533393",
     "tikName": "Елецкая городская",
+    "regionCode": "48",
+    "regionTvd": "100100067796004",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100067796005",
+      "oikName": "Липецкая область – Липецкий"
+    },
     "uikCount": 54,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 84647,
@@ -1007,6 +1095,14 @@ export const duma_2016_tic_464_region_48 = [
     "ballot": "single-member",
     "tikTvd": "2482000533394",
     "tikName": "Липецк, Левобережная",
+    "regionCode": "48",
+    "regionTvd": "100100067796004",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100067796006",
+      "oikName": "Липецкая область – Левобережный"
+    },
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 38587,
@@ -1079,6 +1175,14 @@ export const duma_2016_tic_464_region_48 = [
     "ballot": "single-member",
     "tikTvd": "2482000533395",
     "tikName": "Липецк, Октябрьская №1",
+    "regionCode": "48",
+    "regionTvd": "100100067796004",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100067796006",
+      "oikName": "Липецкая область – Левобережный"
+    },
     "uikCount": 53,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 104901,
@@ -1180,6 +1284,14 @@ export const duma_2016_tic_464_region_48 = [
     "ballot": "single-member",
     "tikTvd": "2482000533396",
     "tikName": "Липецк, Октябрьская №2",
+    "regionCode": "48",
+    "regionTvd": "100100067796004",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100067796006",
+      "oikName": "Липецкая область – Левобережный"
+    },
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 67694,
@@ -1260,6 +1372,14 @@ export const duma_2016_tic_464_region_48 = [
     "ballot": "single-member",
     "tikTvd": "2482000533397",
     "tikName": "Воловская",
+    "regionCode": "48",
+    "regionTvd": "100100067796004",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100067796006",
+      "oikName": "Липецкая область – Левобережный"
+    },
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 11620,
@@ -1333,6 +1453,14 @@ export const duma_2016_tic_464_region_48 = [
     "ballot": "single-member",
     "tikTvd": "2482000533398",
     "tikName": "Грязинская",
+    "regionCode": "48",
+    "regionTvd": "100100067796004",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100067796006",
+      "oikName": "Липецкая область – Левобережный"
+    },
     "uikCount": 50,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 62018,
@@ -1431,6 +1559,14 @@ export const duma_2016_tic_464_region_48 = [
     "ballot": "single-member",
     "tikTvd": "2482000533399",
     "tikName": "Добринская",
+    "regionCode": "48",
+    "regionTvd": "100100067796004",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100067796006",
+      "oikName": "Липецкая область – Левобережный"
+    },
     "uikCount": 45,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 28947,
@@ -1524,6 +1660,14 @@ export const duma_2016_tic_464_region_48 = [
     "ballot": "single-member",
     "tikTvd": "2482000533400",
     "tikName": "Долгоруковская",
+    "regionCode": "48",
+    "regionTvd": "100100067796004",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100067796006",
+      "oikName": "Липецкая область – Левобережный"
+    },
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 15032,
@@ -1600,6 +1744,14 @@ export const duma_2016_tic_464_region_48 = [
     "ballot": "single-member",
     "tikTvd": "2482000533401",
     "tikName": "Задонская",
+    "regionCode": "48",
+    "regionTvd": "100100067796004",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100067796006",
+      "oikName": "Липецкая область – Левобережный"
+    },
     "uikCount": 50,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 27206,
@@ -1698,6 +1850,14 @@ export const duma_2016_tic_464_region_48 = [
     "ballot": "single-member",
     "tikTvd": "2482000533402",
     "tikName": "Измалковская",
+    "regionCode": "48",
+    "regionTvd": "100100067796004",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100067796006",
+      "oikName": "Липецкая область – Левобережный"
+    },
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 13278,
@@ -1782,6 +1942,14 @@ export const duma_2016_tic_464_region_48 = [
     "ballot": "single-member",
     "tikTvd": "2482000533403",
     "tikName": "Тербунская",
+    "regionCode": "48",
+    "regionTvd": "100100067796004",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100067796006",
+      "oikName": "Липецкая область – Левобережный"
+    },
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 17844,
@@ -1863,6 +2031,14 @@ export const duma_2016_tic_464_region_48 = [
     "ballot": "single-member",
     "tikTvd": "2482000533404",
     "tikName": "Усманская",
+    "regionCode": "48",
+    "regionTvd": "100100067796004",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100067796006",
+      "oikName": "Липецкая область – Левобережный"
+    },
     "uikCount": 44,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 38945,
@@ -1955,6 +2131,14 @@ export const duma_2016_tic_464_region_48 = [
     "ballot": "single-member",
     "tikTvd": "2482000533405",
     "tikName": "Хлевенская",
+    "regionCode": "48",
+    "regionTvd": "100100067796004",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100067796006",
+      "oikName": "Липецкая область – Левобережный"
+    },
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 16626,
@@ -2027,6 +2211,14 @@ export const duma_2016_tic_464_region_48 = [
     "ballot": "single-member",
     "tikTvd": "2482000533406",
     "tikName": "Липецкая - 115",
+    "regionCode": "48",
+    "regionTvd": "100100067796004",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100067796006",
+      "oikName": "Липецкая область – Левобережный"
+    },
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 24009,
@@ -2093,6 +2285,14 @@ export const duma_2016_tic_464_region_48 = [
     "ballot": "single-member",
     "tikTvd": "2482000533407",
     "tikName": "Липецкая 114 ок",
+    "regionCode": "48",
+    "regionTvd": "100100067796004",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100067796005",
+      "oikName": "Липецкая область – Липецкий"
+    },
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 19909,

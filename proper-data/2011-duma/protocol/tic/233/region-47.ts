@@ -11,6 +11,9 @@ export const duma_2011_tic_233_region_47 = [
     "ballot": "party",
     "tikTvd": "2472000334818",
     "tikName": "Тосненская",
+    "regionCode": "47",
+    "regionTvd": "100100028713388",
+    "regionName": "Ленинградская область",
     "uikCount": 62,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 88499,
@@ -122,6 +125,9 @@ export const duma_2011_tic_233_region_47 = [
     "ballot": "party",
     "tikTvd": "2472000334819",
     "tikName": "Тихвинская",
+    "regionCode": "47",
+    "regionTvd": "100100028713388",
+    "regionName": "Ленинградская область",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 61241,
@@ -217,6 +223,9 @@ export const duma_2011_tic_233_region_47 = [
     "ballot": "party",
     "tikTvd": "2472000334820",
     "tikName": "Сосновоборская городская",
+    "regionCode": "47",
+    "regionTvd": "100100028713388",
+    "regionName": "Ленинградская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 54026,
@@ -286,6 +295,9 @@ export const duma_2011_tic_233_region_47 = [
     "ballot": "party",
     "tikTvd": "2472000334821",
     "tikName": "Сланцевская",
+    "regionCode": "47",
+    "regionTvd": "100100028713388",
+    "regionName": "Ленинградская область",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 37928,
@@ -367,6 +379,9 @@ export const duma_2011_tic_233_region_47 = [
     "ballot": "party",
     "tikTvd": "2472000334822",
     "tikName": "Приозерская",
+    "regionCode": "47",
+    "regionTvd": "100100028713388",
+    "regionName": "Ленинградская область",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 48286,
@@ -453,6 +468,9 @@ export const duma_2011_tic_233_region_47 = [
     "ballot": "party",
     "tikTvd": "2472000334823",
     "tikName": "Подпорожская",
+    "regionCode": "47",
+    "regionTvd": "100100028713388",
+    "regionName": "Ленинградская область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 26449,
@@ -538,6 +556,9 @@ export const duma_2011_tic_233_region_47 = [
     "ballot": "party",
     "tikTvd": "2472000334824",
     "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "100100028713388",
+    "regionName": "Ленинградская область",
     "uikCount": 59,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 64655,
@@ -646,6 +667,9 @@ export const duma_2011_tic_233_region_47 = [
     "ballot": "party",
     "tikTvd": "2472000334825",
     "tikName": "Ломоносовская",
+    "regionCode": "47",
+    "regionTvd": "100100028713388",
+    "regionName": "Ленинградская область",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 56156,
@@ -730,6 +754,9 @@ export const duma_2011_tic_233_region_47 = [
     "ballot": "party",
     "tikTvd": "2472000334826",
     "tikName": "Лодейнопольская",
+    "regionCode": "47",
+    "regionTvd": "100100028713388",
+    "regionName": "Ленинградская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 25119,
@@ -807,6 +834,9 @@ export const duma_2011_tic_233_region_47 = [
     "ballot": "party",
     "tikTvd": "2472000334827",
     "tikName": "Кировская",
+    "regionCode": "47",
+    "regionTvd": "100100028713388",
+    "regionName": "Ленинградская область",
     "uikCount": 48,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 77731,
@@ -904,6 +934,9 @@ export const duma_2011_tic_233_region_47 = [
     "ballot": "party",
     "tikTvd": "2472000334828",
     "tikName": "Киришская",
+    "regionCode": "47",
+    "regionTvd": "100100028713388",
+    "regionName": "Ленинградская область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 54982,
@@ -989,6 +1022,9 @@ export const duma_2011_tic_233_region_47 = [
     "ballot": "party",
     "tikTvd": "2472000334829",
     "tikName": "Кингисеппская",
+    "regionCode": "47",
+    "regionTvd": "100100028713388",
+    "regionName": "Ленинградская область",
     "uikCount": 45,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 68617,
@@ -1083,6 +1119,9 @@ export const duma_2011_tic_233_region_47 = [
     "ballot": "party",
     "tikTvd": "2472000334830",
     "tikName": "Гатчинская",
+    "regionCode": "47",
+    "regionTvd": "100100028713388",
+    "regionName": "Ленинградская область",
     "uikCount": 132,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 166049,
@@ -1264,6 +1303,9 @@ export const duma_2011_tic_233_region_47 = [
     "ballot": "party",
     "tikTvd": "2472000334831",
     "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "100100028713388",
+    "regionName": "Ленинградская область",
     "uikCount": 115,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 155186,
@@ -1428,6 +1470,9 @@ export const duma_2011_tic_233_region_47 = [
     "ballot": "party",
     "tikTvd": "2472000334832",
     "tikName": "Всеволожская",
+    "regionCode": "47",
+    "regionTvd": "100100028713388",
+    "regionName": "Ленинградская область",
     "uikCount": 117,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 186692,
@@ -1594,6 +1639,9 @@ export const duma_2011_tic_233_region_47 = [
     "ballot": "party",
     "tikTvd": "2472000334833",
     "tikName": "Волховская",
+    "regionCode": "47",
+    "regionTvd": "100100028713388",
+    "regionName": "Ленинградская область",
     "uikCount": 54,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 71395,
@@ -1697,6 +1745,9 @@ export const duma_2011_tic_233_region_47 = [
     "ballot": "party",
     "tikTvd": "2472000334834",
     "tikName": "Волосовская",
+    "regionCode": "47",
+    "regionTvd": "100100028713388",
+    "regionName": "Ленинградская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 33873,
@@ -1775,6 +1826,9 @@ export const duma_2011_tic_233_region_47 = [
     "ballot": "party",
     "tikTvd": "2472000334835",
     "tikName": "Бокситогорская",
+    "regionCode": "47",
+    "regionTvd": "100100028713388",
+    "regionName": "Ленинградская область",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 44182,

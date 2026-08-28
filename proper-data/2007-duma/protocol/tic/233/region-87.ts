@@ -11,6 +11,9 @@ export const duma_2007_tic_233_region_87 = [
     "ballot": "party",
     "tikTvd": "287200088817",
     "tikName": "Чукотская",
+    "regionCode": "87",
+    "regionTvd": "100100021960359",
+    "regionName": "Чукотский автономный округ",
     "uikCount": 6,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 3072,
@@ -71,6 +74,9 @@ export const duma_2007_tic_233_region_87 = [
     "ballot": "party",
     "tikTvd": "287200088818",
     "tikName": "Иультинская",
+    "regionCode": "87",
+    "regionTvd": "100100021960359",
+    "regionName": "Чукотский автономный округ",
     "uikCount": 7,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 3002,
@@ -132,6 +138,9 @@ export const duma_2007_tic_233_region_87 = [
     "ballot": "party",
     "tikTvd": "287200088819",
     "tikName": "Билибинская",
+    "regionCode": "87",
+    "regionTvd": "100100021960359",
+    "regionName": "Чукотский автономный округ",
     "uikCount": 9,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 6794,
@@ -195,6 +204,9 @@ export const duma_2007_tic_233_region_87 = [
     "ballot": "party",
     "tikTvd": "287200088820",
     "tikName": "Чаунская",
+    "regionCode": "87",
+    "regionTvd": "100100021960359",
+    "regionName": "Чукотский автономный округ",
     "uikCount": 7,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 4312,
@@ -256,6 +268,9 @@ export const duma_2007_tic_233_region_87 = [
     "ballot": "party",
     "tikTvd": "287200088821",
     "tikName": "Провиденская",
+    "regionCode": "87",
+    "regionTvd": "100100021960359",
+    "regionName": "Чукотский автономный округ",
     "uikCount": 6,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 2620,
@@ -316,6 +331,9 @@ export const duma_2007_tic_233_region_87 = [
     "ballot": "party",
     "tikTvd": "287200088822",
     "tikName": "Анадырская",
+    "regionCode": "87",
+    "regionTvd": "100100021960359",
+    "regionName": "Чукотский автономный округ",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 5833,
@@ -381,6 +399,9 @@ export const duma_2007_tic_233_region_87 = [
     "ballot": "party",
     "tikTvd": "287200088823",
     "tikName": "Анадырская городская",
+    "regionCode": "87",
+    "regionTvd": "100100021960359",
+    "regionName": "Чукотский автономный округ",
     "uikCount": 5,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 10385,
@@ -440,6 +461,9 @@ export const duma_2007_tic_233_region_87 = [
     "ballot": "party",
     "tikTvd": "287200088824",
     "tikName": "Беринговская территориальная избирательная комиссия",
+    "regionCode": "87",
+    "regionTvd": "100100021960359",
+    "regionName": "Чукотский автономный округ",
     "uikCount": 4,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 2179,
@@ -498,6 +522,9 @@ export const duma_2007_tic_233_region_87 = [
     "ballot": "party",
     "tikTvd": "287200088825",
     "tikName": "Шмидтовская",
+    "regionCode": "87",
+    "regionTvd": "100100021960359",
+    "regionName": "Чукотский автономный округ",
     "uikCount": 4,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 1190,

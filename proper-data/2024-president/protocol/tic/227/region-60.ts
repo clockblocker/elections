@@ -11,6 +11,9 @@ export const president_2024_tic_227_region_60 = [
     "ballot": "presidential",
     "tikTvd": "26020001088238",
     "tikName": "Усвятская",
+    "regionCode": "60",
+    "regionTvd": "100100339411252",
+    "regionName": "Псковская область",
     "uikCount": 9,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 2891,
@@ -60,6 +63,9 @@ export const president_2024_tic_227_region_60 = [
     "ballot": "presidential",
     "tikTvd": "26020001088239",
     "tikName": "Великолукская городская",
+    "regionCode": "60",
+    "regionTvd": "100100339411252",
+    "regionName": "Псковская область",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 60722,
@@ -143,6 +149,9 @@ export const president_2024_tic_227_region_60 = [
     "ballot": "presidential",
     "tikTvd": "26020001088240",
     "tikName": "Палкинская",
+    "regionCode": "60",
+    "regionTvd": "100100339411252",
+    "regionName": "Псковская область",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 5209,
@@ -197,6 +206,9 @@ export const president_2024_tic_227_region_60 = [
     "ballot": "presidential",
     "tikTvd": "26020001088241",
     "tikName": "Пустошкинская",
+    "regionCode": "60",
+    "regionTvd": "100100339411252",
+    "regionName": "Псковская область",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 5623,
@@ -251,6 +263,9 @@ export const president_2024_tic_227_region_60 = [
     "ballot": "presidential",
     "tikTvd": "26020001088242",
     "tikName": "Невельская",
+    "regionCode": "60",
+    "regionTvd": "100100339411252",
+    "regionName": "Псковская область",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 14671,
@@ -318,6 +333,9 @@ export const president_2024_tic_227_region_60 = [
     "ballot": "presidential",
     "tikTvd": "26020001088243",
     "tikName": "Порховская",
+    "regionCode": "60",
+    "regionTvd": "100100339411252",
+    "regionName": "Псковская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 14114,
@@ -380,6 +398,9 @@ export const president_2024_tic_227_region_60 = [
     "ballot": "presidential",
     "tikTvd": "26020001088244",
     "tikName": "Гдовская",
+    "regionCode": "60",
+    "regionTvd": "100100339411252",
+    "regionName": "Псковская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 7944,
@@ -440,6 +461,9 @@ export const president_2024_tic_227_region_60 = [
     "ballot": "presidential",
     "tikTvd": "26020001088245",
     "tikName": "Пыталовская",
+    "regionCode": "60",
+    "regionTvd": "100100339411252",
+    "regionName": "Псковская область",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 8054,
@@ -494,6 +518,9 @@ export const president_2024_tic_227_region_60 = [
     "ballot": "presidential",
     "tikTvd": "26020001088246",
     "tikName": "Бежаницкая",
+    "regionCode": "60",
+    "regionTvd": "100100339411252",
+    "regionName": "Псковская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 7254,
@@ -549,6 +576,9 @@ export const president_2024_tic_227_region_60 = [
     "ballot": "presidential",
     "tikTvd": "26020001088247",
     "tikName": "Струго-Красненская",
+    "regionCode": "60",
+    "regionTvd": "100100339411252",
+    "regionName": "Псковская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 6908,
@@ -608,6 +638,9 @@ export const president_2024_tic_227_region_60 = [
     "ballot": "presidential",
     "tikTvd": "26020001088248",
     "tikName": "Великолукская",
+    "regionCode": "60",
+    "regionTvd": "100100339411252",
+    "regionName": "Псковская область",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 14059,
@@ -675,6 +708,9 @@ export const president_2024_tic_227_region_60 = [
     "ballot": "presidential",
     "tikTvd": "26020001088249",
     "tikName": "Себежская",
+    "regionCode": "60",
+    "regionTvd": "100100339411252",
+    "regionName": "Псковская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 11793,
@@ -740,6 +776,9 @@ export const president_2024_tic_227_region_60 = [
     "ballot": "presidential",
     "tikTvd": "26020001088250",
     "tikName": "Дедовичская",
+    "regionCode": "60",
+    "regionTvd": "100100339411252",
+    "regionName": "Псковская область",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 8751,
@@ -797,6 +836,9 @@ export const president_2024_tic_227_region_60 = [
     "ballot": "presidential",
     "tikTvd": "26020001088251",
     "tikName": "Куньинская",
+    "regionCode": "60",
+    "regionTvd": "100100339411252",
+    "regionName": "Псковская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 5286,
@@ -857,6 +899,9 @@ export const president_2024_tic_227_region_60 = [
     "ballot": "presidential",
     "tikTvd": "26020001088252",
     "tikName": "Новосокольническая",
+    "regionCode": "60",
+    "regionTvd": "100100339411252",
+    "regionName": "Псковская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 8886,
@@ -916,6 +961,9 @@ export const president_2024_tic_227_region_60 = [
     "ballot": "presidential",
     "tikTvd": "26020001088253",
     "tikName": "Псковская",
+    "regionCode": "60",
+    "regionTvd": "100100339411252",
+    "regionName": "Псковская область",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 32342,
@@ -993,6 +1041,9 @@ export const president_2024_tic_227_region_60 = [
     "ballot": "presidential",
     "tikTvd": "26020001088254",
     "tikName": "Плюсская",
+    "regionCode": "60",
+    "regionTvd": "100100339411252",
+    "regionName": "Псковская область",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 5737,
@@ -1044,6 +1095,9 @@ export const president_2024_tic_227_region_60 = [
     "ballot": "presidential",
     "tikTvd": "26020001088255",
     "tikName": "Красногородская",
+    "regionCode": "60",
+    "regionTvd": "100100339411252",
+    "regionName": "Псковская область",
     "uikCount": 9,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 4520,
@@ -1093,6 +1147,9 @@ export const president_2024_tic_227_region_60 = [
     "ballot": "presidential",
     "tikTvd": "26020001088256",
     "tikName": "Островская",
+    "regionCode": "60",
+    "regionTvd": "100100339411252",
+    "regionName": "Псковская область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 19755,
@@ -1169,6 +1226,9 @@ export const president_2024_tic_227_region_60 = [
     "ballot": "presidential",
     "tikTvd": "26020001088257",
     "tikName": "Печорская",
+    "regionCode": "60",
+    "regionTvd": "100100339411252",
+    "regionName": "Псковская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 18326,
@@ -1229,6 +1289,9 @@ export const president_2024_tic_227_region_60 = [
     "ballot": "presidential",
     "tikTvd": "26020001088258",
     "tikName": "Локнянская",
+    "regionCode": "60",
+    "regionTvd": "100100339411252",
+    "regionName": "Псковская область",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 5496,
@@ -1282,6 +1345,9 @@ export const president_2024_tic_227_region_60 = [
     "ballot": "presidential",
     "tikTvd": "26020001088259",
     "tikName": "Опочецкая",
+    "regionCode": "60",
+    "regionTvd": "100100339411252",
+    "regionName": "Псковская область",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 11770,
@@ -1349,6 +1415,9 @@ export const president_2024_tic_227_region_60 = [
     "ballot": "presidential",
     "tikTvd": "26020001088260",
     "tikName": "Пушкиногорская",
+    "regionCode": "60",
+    "regionTvd": "100100339411252",
+    "regionName": "Псковская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 5640,
@@ -1404,6 +1473,9 @@ export const president_2024_tic_227_region_60 = [
     "ballot": "presidential",
     "tikTvd": "26020001088261",
     "tikName": "Псковская городская",
+    "regionCode": "60",
+    "regionTvd": "100100339411252",
+    "regionName": "Псковская область",
     "uikCount": 79,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 122893,
@@ -1523,6 +1595,9 @@ export const president_2024_tic_227_region_60 = [
     "ballot": "presidential",
     "tikTvd": "26020001088262",
     "tikName": "Новоржевская",
+    "regionCode": "60",
+    "regionTvd": "100100339411252",
+    "regionName": "Псковская область",
     "uikCount": 10,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 5370,
@@ -1573,6 +1648,9 @@ export const president_2024_tic_227_region_60 = [
     "ballot": "presidential",
     "tikTvd": "26020001088263",
     "tikName": "Дновская",
+    "regionCode": "60",
+    "regionTvd": "100100339411252",
+    "regionName": "Псковская область",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 7843,

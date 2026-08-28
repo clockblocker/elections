@@ -11,6 +11,9 @@ export const president_2012_tic_227_region_71 = [
     "ballot": "presidential",
     "tikTvd": "2712000341947",
     "tikName": "Ясногорская",
+    "regionCode": "71",
+    "regionTvd": "100100031793513",
+    "regionName": "Тульская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 25365,
@@ -87,6 +90,9 @@ export const president_2012_tic_227_region_71 = [
     "ballot": "presidential",
     "tikTvd": "2712000341948",
     "tikName": "Щекинская",
+    "regionCode": "71",
+    "regionTvd": "100100031793513",
+    "regionName": "Тульская область",
     "uikCount": 59,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 83826,
@@ -193,6 +199,9 @@ export const president_2012_tic_227_region_71 = [
     "ballot": "presidential",
     "tikTvd": "2712000341949",
     "tikName": "Чернская",
+    "regionCode": "71",
+    "regionTvd": "100100031793513",
+    "regionName": "Тульская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 14963,
@@ -271,6 +280,9 @@ export const president_2012_tic_227_region_71 = [
     "ballot": "presidential",
     "tikTvd": "2712000341950",
     "tikName": "Узловская",
+    "regionCode": "71",
+    "regionTvd": "100100031793513",
+    "regionName": "Тульская область",
     "uikCount": 55,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 69789,
@@ -373,6 +385,9 @@ export const president_2012_tic_227_region_71 = [
     "ballot": "presidential",
     "tikTvd": "2712000341951",
     "tikName": "Тула, Центральная",
+    "regionCode": "71",
+    "regionTvd": "100100031793513",
+    "regionName": "Тульская область",
     "uikCount": 45,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 76676,
@@ -465,6 +480,9 @@ export const president_2012_tic_227_region_71 = [
     "ballot": "presidential",
     "tikTvd": "2712000341952",
     "tikName": "Тула, Советская",
+    "regionCode": "71",
+    "regionTvd": "100100031793513",
+    "regionName": "Тульская область",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 59333,
@@ -549,6 +567,9 @@ export const president_2012_tic_227_region_71 = [
     "ballot": "presidential",
     "tikTvd": "2712000341953",
     "tikName": "Тула, Пролетарская",
+    "regionCode": "71",
+    "regionTvd": "100100031793513",
+    "regionName": "Тульская область",
     "uikCount": 75,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 128856,
@@ -671,6 +692,9 @@ export const president_2012_tic_227_region_71 = [
     "ballot": "presidential",
     "tikTvd": "2712000341954",
     "tikName": "Тула, Привокзальная",
+    "regionCode": "71",
+    "regionTvd": "100100031793513",
+    "regionName": "Тульская область",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 66446,
@@ -757,6 +781,9 @@ export const president_2012_tic_227_region_71 = [
     "ballot": "presidential",
     "tikTvd": "2712000341955",
     "tikName": "Тула, Зареченская",
+    "regionCode": "71",
+    "regionTvd": "100100031793513",
+    "regionName": "Тульская область",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 76519,
@@ -843,6 +870,9 @@ export const president_2012_tic_227_region_71 = [
     "ballot": "presidential",
     "tikTvd": "2712000341956",
     "tikName": "Тепло-Огаревская",
+    "regionCode": "71",
+    "regionTvd": "100100031793513",
+    "regionName": "Тульская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10062,
@@ -915,6 +945,9 @@ export const president_2012_tic_227_region_71 = [
     "ballot": "presidential",
     "tikTvd": "2712000341957",
     "tikName": "Суворовская",
+    "regionCode": "71",
+    "regionTvd": "100100031793513",
+    "regionName": "Тульская область",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 29960,
@@ -1005,6 +1038,9 @@ export const president_2012_tic_227_region_71 = [
     "ballot": "presidential",
     "tikTvd": "2712000341958",
     "tikName": "Плавская",
+    "regionCode": "71",
+    "regionTvd": "100100031793513",
+    "regionName": "Тульская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 20287,
@@ -1083,6 +1119,9 @@ export const president_2012_tic_227_region_71 = [
     "ballot": "presidential",
     "tikTvd": "2712000341959",
     "tikName": "Одоевская",
+    "regionCode": "71",
+    "regionTvd": "100100031793513",
+    "regionName": "Тульская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9867,
@@ -1148,6 +1187,9 @@ export const president_2012_tic_227_region_71 = [
     "ballot": "presidential",
     "tikTvd": "2712000341960",
     "tikName": "Новомосковская",
+    "regionCode": "71",
+    "regionTvd": "100100031793513",
+    "regionName": "Тульская область",
     "uikCount": 77,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 118381,
@@ -1272,6 +1314,9 @@ export const president_2012_tic_227_region_71 = [
     "ballot": "presidential",
     "tikTvd": "2712000341961",
     "tikName": "Ленинская",
+    "regionCode": "71",
+    "regionTvd": "100100031793513",
+    "regionName": "Тульская область",
     "uikCount": 52,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 51546,
@@ -1371,6 +1416,9 @@ export const president_2012_tic_227_region_71 = [
     "ballot": "presidential",
     "tikTvd": "2712000341962",
     "tikName": "Куркинская",
+    "regionCode": "71",
+    "regionTvd": "100100031793513",
+    "regionName": "Тульская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9057,
@@ -1438,6 +1486,9 @@ export const president_2012_tic_227_region_71 = [
     "ballot": "presidential",
     "tikTvd": "2712000341963",
     "tikName": "Киреевская",
+    "regionCode": "71",
+    "regionTvd": "100100031793513",
+    "regionName": "Тульская область",
     "uikCount": 61,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 59974,
@@ -1546,6 +1597,9 @@ export const president_2012_tic_227_region_71 = [
     "ballot": "presidential",
     "tikTvd": "2712000341964",
     "tikName": "Кимовская",
+    "regionCode": "71",
+    "regionTvd": "100100031793513",
+    "regionName": "Тульская область",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 35208,
@@ -1643,6 +1697,9 @@ export const president_2012_tic_227_region_71 = [
     "ballot": "presidential",
     "tikTvd": "2712000341965",
     "tikName": "Каменская",
+    "regionCode": "71",
+    "regionTvd": "100100031793513",
+    "regionName": "Тульская область",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 7583,
@@ -1704,6 +1761,9 @@ export const president_2012_tic_227_region_71 = [
     "ballot": "presidential",
     "tikTvd": "2712000341966",
     "tikName": "Заокская",
+    "regionCode": "71",
+    "regionTvd": "100100031793513",
+    "regionName": "Тульская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 14851,
@@ -1770,6 +1830,9 @@ export const president_2012_tic_227_region_71 = [
     "ballot": "presidential",
     "tikTvd": "2712000341967",
     "tikName": "Ефремовская",
+    "regionCode": "71",
+    "regionTvd": "100100031793513",
+    "regionName": "Тульская область",
     "uikCount": 66,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 52777,
@@ -1883,6 +1946,9 @@ export const president_2012_tic_227_region_71 = [
     "ballot": "presidential",
     "tikTvd": "2712000341968",
     "tikName": "Дубенская",
+    "regionCode": "71",
+    "regionTvd": "100100031793513",
+    "regionName": "Тульская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 11166,
@@ -1945,6 +2011,9 @@ export const president_2012_tic_227_region_71 = [
     "ballot": "presidential",
     "tikTvd": "2712000341969",
     "tikName": "Донская",
+    "regionCode": "71",
+    "regionTvd": "100100031793513",
+    "regionName": "Тульская область",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 48352,
@@ -2024,6 +2093,9 @@ export const president_2012_tic_227_region_71 = [
     "ballot": "presidential",
     "tikTvd": "2712000341970",
     "tikName": "Воловская",
+    "regionCode": "71",
+    "regionTvd": "100100031793513",
+    "regionName": "Тульская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10947,
@@ -2093,6 +2165,9 @@ export const president_2012_tic_227_region_71 = [
     "ballot": "presidential",
     "tikTvd": "2712000341971",
     "tikName": "Веневская",
+    "regionCode": "71",
+    "regionTvd": "100100031793513",
+    "regionName": "Тульская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 26533,
@@ -2168,6 +2243,9 @@ export const president_2012_tic_227_region_71 = [
     "ballot": "presidential",
     "tikTvd": "2712000341972",
     "tikName": "Богородицкая",
+    "regionCode": "71",
+    "regionTvd": "100100031793513",
+    "regionName": "Тульская область",
     "uikCount": 45,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 42002,
@@ -2260,6 +2338,9 @@ export const president_2012_tic_227_region_71 = [
     "ballot": "presidential",
     "tikTvd": "2712000341973",
     "tikName": "Белевская",
+    "regionCode": "71",
+    "regionTvd": "100100031793513",
+    "regionName": "Тульская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 17513,
@@ -2337,6 +2418,9 @@ export const president_2012_tic_227_region_71 = [
     "ballot": "presidential",
     "tikTvd": "2712000341974",
     "tikName": "Арсеньевская",
+    "regionCode": "71",
+    "regionTvd": "100100031793513",
+    "regionName": "Тульская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9821,
@@ -2405,6 +2489,9 @@ export const president_2012_tic_227_region_71 = [
     "ballot": "presidential",
     "tikTvd": "2712000341975",
     "tikName": "Алексинская",
+    "regionCode": "71",
+    "regionTvd": "100100031793513",
+    "regionName": "Тульская область",
     "uikCount": 57,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 61461,

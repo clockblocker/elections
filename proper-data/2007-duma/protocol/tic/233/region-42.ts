@@ -11,6 +11,9 @@ export const duma_2007_tic_233_region_42 = [
     "ballot": "party",
     "tikTvd": "2422000155559",
     "tikName": "Осинниковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100021960259",
+    "regionName": "Кемеровская область",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 52089,
@@ -92,6 +95,9 @@ export const duma_2007_tic_233_region_42 = [
     "ballot": "party",
     "tikTvd": "2422000155560",
     "tikName": "Новокузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100021960259",
+    "regionName": "Кемеровская область",
     "uikCount": 62,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 36752,
@@ -208,6 +214,9 @@ export const duma_2007_tic_233_region_42 = [
     "ballot": "party",
     "tikTvd": "2422000155561",
     "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100021960259",
+    "regionName": "Кемеровская область",
     "uikCount": 58,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 133264,
@@ -320,6 +329,9 @@ export const duma_2007_tic_233_region_42 = [
     "ballot": "party",
     "tikTvd": "2422000155562",
     "tikName": "Новокузнецк, Орджоникидзевская",
+    "regionCode": "42",
+    "regionTvd": "100100021960259",
+    "regionName": "Кемеровская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 61260,
@@ -405,6 +417,9 @@ export const duma_2007_tic_233_region_42 = [
     "ballot": "party",
     "tikTvd": "2422000155563",
     "tikName": "Новокузнецк, Новоильинская",
+    "regionCode": "42",
+    "regionTvd": "100100021960259",
+    "regionName": "Кемеровская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 51304,
@@ -483,6 +498,9 @@ export const duma_2007_tic_233_region_42 = [
     "ballot": "party",
     "tikTvd": "2422000155564",
     "tikName": "Новокузнецк, Куйбышевская",
+    "regionCode": "42",
+    "regionTvd": "100100021960259",
+    "regionName": "Кемеровская область",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 63152,
@@ -574,6 +592,9 @@ export const duma_2007_tic_233_region_42 = [
     "ballot": "party",
     "tikTvd": "2422000155565",
     "tikName": "Новокузнецк, Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100021960259",
+    "regionName": "Кемеровская область",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 36271,
@@ -645,6 +666,9 @@ export const duma_2007_tic_233_region_42 = [
     "ballot": "party",
     "tikTvd": "2422000155566",
     "tikName": "Новокузнецк Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100021960259",
+    "regionName": "Кемеровская область",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 73884,
@@ -741,6 +765,9 @@ export const duma_2007_tic_233_region_42 = [
     "ballot": "party",
     "tikTvd": "2422000155567",
     "tikName": "Мысковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100021960259",
+    "regionName": "Кемеровская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 36712,
@@ -820,6 +847,9 @@ export const duma_2007_tic_233_region_42 = [
     "ballot": "party",
     "tikTvd": "2422000155568",
     "tikName": "Междуреченская городская",
+    "regionCode": "42",
+    "regionTvd": "100100021960259",
+    "regionName": "Кемеровская область",
     "uikCount": 47,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 75656,
@@ -921,6 +951,9 @@ export const duma_2007_tic_233_region_42 = [
     "ballot": "party",
     "tikTvd": "2422000155569",
     "tikName": "Калтанская городская",
+    "regionCode": "42",
+    "regionTvd": "100100021960259",
+    "regionName": "Кемеровская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 17983,
@@ -990,6 +1023,9 @@ export const duma_2007_tic_233_region_42 = [
     "ballot": "party",
     "tikTvd": "2422000155570",
     "tikName": "Яшкинская",
+    "regionCode": "42",
+    "regionTvd": "100100021960259",
+    "regionName": "Кемеровская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 22638,
@@ -1084,6 +1120,9 @@ export const duma_2007_tic_233_region_42 = [
     "ballot": "party",
     "tikTvd": "2422000155571",
     "tikName": "Яйская",
+    "regionCode": "42",
+    "regionTvd": "100100021960259",
+    "regionName": "Кемеровская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 14853,
@@ -1178,6 +1217,9 @@ export const duma_2007_tic_233_region_42 = [
     "ballot": "party",
     "tikTvd": "2422000155572",
     "tikName": "Юргинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100021960259",
+    "regionName": "Кемеровская область",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 64836,
@@ -1274,6 +1316,9 @@ export const duma_2007_tic_233_region_42 = [
     "ballot": "party",
     "tikTvd": "2422000155573",
     "tikName": "Юргинская",
+    "regionCode": "42",
+    "regionTvd": "100100021960259",
+    "regionName": "Кемеровская область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 15612,
@@ -1364,6 +1409,9 @@ export const duma_2007_tic_233_region_42 = [
     "ballot": "party",
     "tikTvd": "2422000155574",
     "tikName": "Топкинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100021960259",
+    "regionName": "Кемеровская область",
     "uikCount": 57,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 37903,
@@ -1475,6 +1523,9 @@ export const duma_2007_tic_233_region_42 = [
     "ballot": "party",
     "tikTvd": "2422000155575",
     "tikName": "Тайгинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100021960259",
+    "regionName": "Кемеровская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 17454,
@@ -1547,6 +1598,9 @@ export const duma_2007_tic_233_region_42 = [
     "ballot": "party",
     "tikTvd": "2422000155576",
     "tikName": "Промышленновская",
+    "regionCode": "42",
+    "regionTvd": "100100021960259",
+    "regionName": "Кемеровская область",
     "uikCount": 55,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 35650,
@@ -1656,6 +1710,9 @@ export const duma_2007_tic_233_region_42 = [
     "ballot": "party",
     "tikTvd": "2422000155577",
     "tikName": "Кемеровская",
+    "regionCode": "42",
+    "regionTvd": "100100021960259",
+    "regionName": "Кемеровская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 30876,
@@ -1744,6 +1801,9 @@ export const duma_2007_tic_233_region_42 = [
     "ballot": "party",
     "tikTvd": "2422000155578",
     "tikName": "Кемерово, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100021960259",
+    "regionName": "Кемеровская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 78778,
@@ -1838,6 +1898,9 @@ export const duma_2007_tic_233_region_42 = [
     "ballot": "party",
     "tikTvd": "2422000155579",
     "tikName": "Кемерово, Рудничная",
+    "regionCode": "42",
+    "regionTvd": "100100021960259",
+    "regionName": "Кемеровская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 41019,
@@ -1911,6 +1974,9 @@ export const duma_2007_tic_233_region_42 = [
     "ballot": "party",
     "tikTvd": "2422000155580",
     "tikName": "Кемерово, Ленинская",
+    "regionCode": "42",
+    "regionTvd": "100100021960259",
+    "regionName": "Кемеровская область",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 104609,
@@ -2011,6 +2077,9 @@ export const duma_2007_tic_233_region_42 = [
     "ballot": "party",
     "tikTvd": "2422000155581",
     "tikName": "Кемерово, Кировская",
+    "regionCode": "42",
+    "regionTvd": "100100021960259",
+    "regionName": "Кемеровская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 45732,
@@ -2083,6 +2152,9 @@ export const duma_2007_tic_233_region_42 = [
     "ballot": "party",
     "tikTvd": "2422000155582",
     "tikName": "Кемерово, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100021960259",
+    "regionName": "Кемеровская область",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 100266,
@@ -2187,6 +2259,9 @@ export const duma_2007_tic_233_region_42 = [
     "ballot": "party",
     "tikTvd": "2422000155583",
     "tikName": "Березовская городская",
+    "regionCode": "42",
+    "regionTvd": "100100021960259",
+    "regionName": "Кемеровская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 37848,
@@ -2266,6 +2341,9 @@ export const duma_2007_tic_233_region_42 = [
     "ballot": "party",
     "tikTvd": "2422000155584",
     "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100021960259",
+    "regionName": "Кемеровская область",
     "uikCount": 60,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 67782,
@@ -2380,6 +2458,9 @@ export const duma_2007_tic_233_region_42 = [
     "ballot": "party",
     "tikTvd": "2422000155585",
     "tikName": "Чебулинская",
+    "regionCode": "42",
+    "regionTvd": "100100021960259",
+    "regionName": "Кемеровская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 11728,
@@ -2458,6 +2539,9 @@ export const duma_2007_tic_233_region_42 = [
     "ballot": "party",
     "tikTvd": "2422000155586",
     "tikName": "Тяжинская",
+    "regionCode": "42",
+    "regionTvd": "100100021960259",
+    "regionName": "Кемеровская область",
     "uikCount": 45,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 21708,
@@ -2557,6 +2641,9 @@ export const duma_2007_tic_233_region_42 = [
     "ballot": "party",
     "tikTvd": "2422000155587",
     "tikName": "Тисульская",
+    "regionCode": "42",
+    "regionTvd": "100100021960259",
+    "regionName": "Кемеровская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 19548,
@@ -2651,6 +2738,9 @@ export const duma_2007_tic_233_region_42 = [
     "ballot": "party",
     "tikTvd": "2422000155588",
     "tikName": "Прокопьевская",
+    "regionCode": "42",
+    "regionTvd": "100100021960259",
+    "regionName": "Кемеровская область",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 22884,
@@ -2748,6 +2838,9 @@ export const duma_2007_tic_233_region_42 = [
     "ballot": "party",
     "tikTvd": "2422000155589",
     "tikName": "Прокопьевск, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100021960259",
+    "regionName": "Кемеровская область",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 55471,
@@ -2839,6 +2932,9 @@ export const duma_2007_tic_233_region_42 = [
     "ballot": "party",
     "tikTvd": "2422000155590",
     "tikName": "Прокопьевск, Рудничная",
+    "regionCode": "42",
+    "regionTvd": "100100021960259",
+    "regionName": "Кемеровская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 56602,
@@ -2919,6 +3015,9 @@ export const duma_2007_tic_233_region_42 = [
     "ballot": "party",
     "tikTvd": "2422000155591",
     "tikName": "Прокопьевск, Зенковская",
+    "regionCode": "42",
+    "regionTvd": "100100021960259",
+    "regionName": "Кемеровская область",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 50805,
@@ -3006,6 +3105,9 @@ export const duma_2007_tic_233_region_42 = [
     "ballot": "party",
     "tikTvd": "2422000155592",
     "tikName": "Полысаевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100021960259",
+    "regionName": "Кемеровская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 22163,
@@ -3081,6 +3183,9 @@ export const duma_2007_tic_233_region_42 = [
     "ballot": "party",
     "tikTvd": "2422000155593",
     "tikName": "Мариинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100021960259",
+    "regionName": "Кемеровская область",
     "uikCount": 63,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 40610,
@@ -3198,6 +3303,9 @@ export const duma_2007_tic_233_region_42 = [
     "ballot": "party",
     "tikTvd": "2422000155594",
     "tikName": "Ленинск-Кузнецкая городская",
+    "regionCode": "42",
+    "regionTvd": "100100021960259",
+    "regionName": "Кемеровская область",
     "uikCount": 61,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 79639,
@@ -3313,6 +3421,9 @@ export const duma_2007_tic_233_region_42 = [
     "ballot": "party",
     "tikTvd": "2422000155595",
     "tikName": "Ленинск-Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100021960259",
+    "regionName": "Кемеровская область",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 19047,
@@ -3408,6 +3519,9 @@ export const duma_2007_tic_233_region_42 = [
     "ballot": "party",
     "tikTvd": "2422000155597",
     "tikName": "Крапивинская",
+    "regionCode": "42",
+    "regionTvd": "100100021960259",
+    "regionName": "Кемеровская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 18944,
@@ -3493,6 +3607,9 @@ export const duma_2007_tic_233_region_42 = [
     "ballot": "party",
     "tikTvd": "2422000155598",
     "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100021960259",
+    "regionName": "Кемеровская область",
     "uikCount": 57,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 80472,
@@ -3604,6 +3721,9 @@ export const duma_2007_tic_233_region_42 = [
     "ballot": "party",
     "tikTvd": "2422000155599",
     "tikName": "Ижморская",
+    "regionCode": "42",
+    "regionTvd": "100100021960259",
+    "regionName": "Кемеровская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 12183,
@@ -3692,6 +3812,9 @@ export const duma_2007_tic_233_region_42 = [
     "ballot": "party",
     "tikTvd": "2422000155600",
     "tikName": "Гурьевская",
+    "regionCode": "42",
+    "regionTvd": "100100021960259",
+    "regionName": "Кемеровская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 15675,
@@ -3777,6 +3900,9 @@ export const duma_2007_tic_233_region_42 = [
     "ballot": "party",
     "tikTvd": "2422000155601",
     "tikName": "Беловская городская",
+    "regionCode": "42",
+    "regionTvd": "100100021960259",
+    "regionName": "Кемеровская область",
     "uikCount": 57,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 104323,
@@ -3888,6 +4014,9 @@ export const duma_2007_tic_233_region_42 = [
     "ballot": "party",
     "tikTvd": "2422000155602",
     "tikName": "Беловская",
+    "regionCode": "42",
+    "regionTvd": "100100021960259",
+    "regionName": "Кемеровская область",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 24746,
@@ -3984,6 +4113,9 @@ export const duma_2007_tic_233_region_42 = [
     "ballot": "party",
     "tikTvd": "2422000155608",
     "tikName": "Кемерово, Кедровская",
+    "regionCode": "42",
+    "regionTvd": "100100021960259",
+    "regionName": "Кемеровская область",
     "uikCount": 8,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 16777,
@@ -4046,6 +4178,9 @@ export const duma_2007_tic_233_region_42 = [
     "ballot": "party",
     "tikTvd": "2422000155658",
     "tikName": "Краснобродская городская",
+    "regionCode": "42",
+    "regionTvd": "100100021960259",
+    "regionName": "Кемеровская область",
     "uikCount": 7,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 12192,
@@ -4107,6 +4242,9 @@ export const duma_2007_tic_233_region_42 = [
     "ballot": "party",
     "tikTvd": "2422000156280",
     "tikName": "Гурьевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100021960259",
+    "regionName": "Кемеровская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 19830,
@@ -4181,6 +4319,9 @@ export const duma_2007_tic_233_region_42 = [
     "ballot": "party",
     "tikTvd": "2422000158145",
     "tikName": "Таштагольская ",
+    "regionCode": "42",
+    "regionTvd": "100100021960259",
+    "regionName": "Кемеровская область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 40435,

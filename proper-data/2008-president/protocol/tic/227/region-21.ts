@@ -11,6 +11,9 @@ export const president_2008_tic_227_region_21 = [
     "ballot": "presidential",
     "tikTvd": "2212000329325",
     "tikName": "Красноармейская",
+    "regionCode": "21",
+    "regionTvd": "100100022249936",
+    "regionName": "Чувашская Республика - Чувашия",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 11530,
@@ -82,6 +85,9 @@ export const president_2008_tic_227_region_21 = [
     "ballot": "presidential",
     "tikTvd": "2212000329326",
     "tikName": "Шумерлинская городская",
+    "regionCode": "21",
+    "regionTvd": "100100022249936",
+    "regionName": "Чувашская Республика - Чувашия",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 23931,
@@ -151,6 +157,9 @@ export const president_2008_tic_227_region_21 = [
     "ballot": "presidential",
     "tikTvd": "2212000329327",
     "tikName": "Канашская",
+    "regionCode": "21",
+    "regionTvd": "100100022249936",
+    "regionName": "Чувашская Республика - Чувашия",
     "uikCount": 72,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 28360,
@@ -270,6 +279,9 @@ export const president_2008_tic_227_region_21 = [
     "ballot": "presidential",
     "tikTvd": "2212000329328",
     "tikName": "Янтиковская",
+    "regionCode": "21",
+    "regionTvd": "100100022249936",
+    "regionName": "Чувашская Республика - Чувашия",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 12169,
@@ -346,6 +358,9 @@ export const president_2008_tic_227_region_21 = [
     "ballot": "presidential",
     "tikTvd": "2212000329329",
     "tikName": "Яльчикская",
+    "regionCode": "21",
+    "regionTvd": "100100022249936",
+    "regionName": "Чувашская Республика - Чувашия",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 16225,
@@ -435,6 +450,9 @@ export const president_2008_tic_227_region_21 = [
     "ballot": "presidential",
     "tikTvd": "2212000329330",
     "tikName": "Алатырская городская",
+    "regionCode": "21",
+    "regionTvd": "100100022249936",
+    "regionName": "Чувашская Республика - Чувашия",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 30714,
@@ -508,6 +526,9 @@ export const president_2008_tic_227_region_21 = [
     "ballot": "presidential",
     "tikTvd": "2212000329331",
     "tikName": "Шумерлинская",
+    "regionCode": "21",
+    "regionTvd": "100100022249936",
+    "regionName": "Чувашская Республика - Чувашия",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 8887,
@@ -586,6 +607,9 @@ export const president_2008_tic_227_region_21 = [
     "ballot": "presidential",
     "tikTvd": "2212000329332",
     "tikName": "Ядринская",
+    "regionCode": "21",
+    "regionTvd": "100100022249936",
+    "regionName": "Чувашская Республика - Чувашия",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 24323,
@@ -683,6 +707,9 @@ export const president_2008_tic_227_region_21 = [
     "ballot": "presidential",
     "tikTvd": "2212000329333",
     "tikName": "Шемуршинская",
+    "regionCode": "21",
+    "regionTvd": "100100022249936",
+    "regionName": "Чувашская Республика - Чувашия",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 11142,
@@ -752,6 +779,9 @@ export const president_2008_tic_227_region_21 = [
     "ballot": "presidential",
     "tikTvd": "2212000329334",
     "tikName": "Чебоксары, Ленинская",
+    "regionCode": "21",
+    "regionTvd": "100100022249936",
+    "regionName": "Чувашская Республика - Чувашия",
     "uikCount": 48,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 100748,
@@ -847,6 +877,9 @@ export const president_2008_tic_227_region_21 = [
     "ballot": "presidential",
     "tikTvd": "2212000329335",
     "tikName": "Чебоксары, Калининская",
+    "regionCode": "21",
+    "regionTvd": "100100022249936",
+    "regionName": "Чувашская Республика - Чувашия",
     "uikCount": 56,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 118273,
@@ -950,6 +983,9 @@ export const president_2008_tic_227_region_21 = [
     "ballot": "presidential",
     "tikTvd": "2212000329336",
     "tikName": "Чебоксары, Московская",
+    "regionCode": "21",
+    "regionTvd": "100100022249936",
+    "regionName": "Чувашская Республика - Чувашия",
     "uikCount": 73,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 140934,
@@ -1070,6 +1106,9 @@ export const president_2008_tic_227_region_21 = [
     "ballot": "presidential",
     "tikTvd": "2212000329337",
     "tikName": "Цивильская",
+    "regionCode": "21",
+    "regionTvd": "100100022249936",
+    "regionName": "Чувашская Республика - Чувашия",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 26444,
@@ -1163,6 +1202,9 @@ export const president_2008_tic_227_region_21 = [
     "ballot": "presidential",
     "tikTvd": "2212000329338",
     "tikName": "Урмарская",
+    "regionCode": "21",
+    "regionTvd": "100100022249936",
+    "regionName": "Чувашская Республика - Чувашия",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 19928,
@@ -1253,6 +1295,9 @@ export const president_2008_tic_227_region_21 = [
     "ballot": "presidential",
     "tikTvd": "2212000329339",
     "tikName": "Чебоксарская",
+    "regionCode": "21",
+    "regionTvd": "100100022249936",
+    "regionName": "Чувашская Республика - Чувашия",
     "uikCount": 57,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 41359,
@@ -1357,6 +1402,9 @@ export const president_2008_tic_227_region_21 = [
     "ballot": "presidential",
     "tikTvd": "2212000329340",
     "tikName": "Моргаушская",
+    "regionCode": "21",
+    "regionTvd": "100100022249936",
+    "regionName": "Чувашская Республика - Чувашия",
     "uikCount": 51,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 25253,
@@ -1455,6 +1503,9 @@ export const president_2008_tic_227_region_21 = [
     "ballot": "presidential",
     "tikTvd": "2212000329341",
     "tikName": "Новочебоксарская городская",
+    "regionCode": "21",
+    "regionTvd": "100100022249936",
+    "regionName": "Чувашская Республика - Чувашия",
     "uikCount": 51,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 101200,
@@ -1553,6 +1604,9 @@ export const president_2008_tic_227_region_21 = [
     "ballot": "presidential",
     "tikTvd": "2212000329342",
     "tikName": "Порецкая",
+    "regionCode": "21",
+    "regionTvd": "100100022249936",
+    "regionName": "Чувашская Республика - Чувашия",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 11000,
@@ -1629,6 +1683,9 @@ export const president_2008_tic_227_region_21 = [
     "ballot": "presidential",
     "tikTvd": "2212000329343",
     "tikName": "Красночетайская",
+    "regionCode": "21",
+    "regionTvd": "100100022249936",
+    "regionName": "Чувашская Республика - Чувашия",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 15113,
@@ -1716,6 +1773,9 @@ export const president_2008_tic_227_region_21 = [
     "ballot": "presidential",
     "tikTvd": "2212000329344",
     "tikName": "Марпосадская",
+    "regionCode": "21",
+    "regionTvd": "100100022249936",
+    "regionName": "Чувашская Республика - Чувашия",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 18587,
@@ -1813,6 +1873,9 @@ export const president_2008_tic_227_region_21 = [
     "ballot": "presidential",
     "tikTvd": "2212000329345",
     "tikName": "Канашская городская",
+    "regionCode": "21",
+    "regionTvd": "100100022249936",
+    "regionName": "Чувашская Республика - Чувашия",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 33899,
@@ -1891,6 +1954,9 @@ export const president_2008_tic_227_region_21 = [
     "ballot": "presidential",
     "tikTvd": "2212000329346",
     "tikName": "Комсомольская",
+    "regionCode": "21",
+    "regionTvd": "100100022249936",
+    "regionName": "Чувашская Республика - Чувашия",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 20151,
@@ -1981,6 +2047,9 @@ export const president_2008_tic_227_region_21 = [
     "ballot": "presidential",
     "tikTvd": "2212000329347",
     "tikName": "Батыревская",
+    "regionCode": "21",
+    "regionTvd": "100100022249936",
+    "regionName": "Чувашская Республика - Чувашия",
     "uikCount": 53,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 27602,
@@ -2081,6 +2150,9 @@ export const president_2008_tic_227_region_21 = [
     "ballot": "presidential",
     "tikTvd": "2212000329348",
     "tikName": "Ибресинская",
+    "regionCode": "21",
+    "regionTvd": "100100022249936",
+    "regionName": "Чувашская Республика - Чувашия",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 17292,
@@ -2157,6 +2229,9 @@ export const president_2008_tic_227_region_21 = [
     "ballot": "presidential",
     "tikTvd": "2212000329349",
     "tikName": "Вурнарская",
+    "regionCode": "21",
+    "regionTvd": "100100022249936",
+    "regionName": "Чувашская Республика - Чувашия",
     "uikCount": 55,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 25882,
@@ -2259,6 +2334,9 @@ export const president_2008_tic_227_region_21 = [
     "ballot": "presidential",
     "tikTvd": "2212000329350",
     "tikName": "Алатырская",
+    "regionCode": "21",
+    "regionTvd": "100100022249936",
+    "regionName": "Чувашская Республика - Чувашия",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 14430,
@@ -2332,6 +2410,9 @@ export const president_2008_tic_227_region_21 = [
     "ballot": "presidential",
     "tikTvd": "2212000329351",
     "tikName": "Аликовская",
+    "regionCode": "21",
+    "regionTvd": "100100022249936",
+    "regionName": "Чувашская Республика - Чувашия",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 14056,
@@ -2416,6 +2497,9 @@ export const president_2008_tic_227_region_21 = [
     "ballot": "presidential",
     "tikTvd": "2212000329352",
     "tikName": "Козловская",
+    "regionCode": "21",
+    "regionTvd": "100100022249936",
+    "regionName": "Чувашская Республика - Чувашия",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 15619,

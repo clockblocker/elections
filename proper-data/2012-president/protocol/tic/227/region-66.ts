@@ -11,6 +11,9 @@ export const president_2012_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620001066657",
     "tikName": "Уральская поселковая",
+    "regionCode": "66",
+    "regionTvd": "100100031793926",
+    "regionName": "Свердловская область",
     "uikCount": 1,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 1788,
@@ -59,6 +62,9 @@ export const president_2012_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620001066658",
     "tikName": "Сысертская",
+    "regionCode": "66",
+    "regionTvd": "100100031793926",
+    "regionName": "Свердловская область",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 49617,
@@ -147,6 +153,9 @@ export const president_2012_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620001066659",
     "tikName": "Дегтярская городская",
+    "regionCode": "66",
+    "regionTvd": "100100031793926",
+    "regionName": "Свердловская область",
     "uikCount": 7,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 12914,
@@ -201,6 +210,9 @@ export const president_2012_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620001066660",
     "tikName": "Арамильская городская",
+    "regionCode": "66",
+    "regionTvd": "100100031793926",
+    "regionName": "Свердловская область",
     "uikCount": 9,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 14604,
@@ -257,6 +269,9 @@ export const president_2012_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620001066661",
     "tikName": "Серовская",
+    "regionCode": "66",
+    "regionTvd": "100100031793926",
+    "regionName": "Свердловская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 11367,
@@ -319,6 +334,9 @@ export const president_2012_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620001066662",
     "tikName": "Серовская городская",
+    "regionCode": "66",
+    "regionTvd": "100100031793926",
+    "regionName": "Свердловская область",
     "uikCount": 60,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 73721,
@@ -426,6 +444,9 @@ export const president_2012_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620001066663",
     "tikName": "Новолялинская",
+    "regionCode": "66",
+    "regionTvd": "100100031793926",
+    "regionName": "Свердловская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 18463,
@@ -496,6 +517,9 @@ export const president_2012_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620001066664",
     "tikName": "Нижнетуринская",
+    "regionCode": "66",
+    "regionTvd": "100100031793926",
+    "regionName": "Свердловская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 23637,
@@ -562,6 +586,9 @@ export const president_2012_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620001066665",
     "tikName": "Гаринская",
+    "regionCode": "66",
+    "regionTvd": "100100031793926",
+    "regionName": "Свердловская область",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 3571,
@@ -622,6 +649,9 @@ export const president_2012_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620001066666",
     "tikName": "Верхотурская",
+    "regionCode": "66",
+    "regionTvd": "100100031793926",
+    "regionName": "Свердловская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 12815,
@@ -689,6 +719,9 @@ export const president_2012_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620001066667",
     "tikName": "Ревдинская",
+    "regionCode": "66",
+    "regionTvd": "100100031793926",
+    "regionName": "Свердловская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 52111,
@@ -766,6 +799,9 @@ export const president_2012_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620001066668",
     "tikName": "Полевская городская",
+    "regionCode": "66",
+    "regionTvd": "100100031793926",
+    "regionName": "Свердловская область",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 62834,
@@ -848,6 +884,9 @@ export const president_2012_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620001066670",
     "tikName": "Староуткинская поселковая",
+    "regionCode": "66",
+    "regionTvd": "100100031793926",
+    "regionName": "Свердловская область",
     "uikCount": 1,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 2537,
@@ -896,6 +935,9 @@ export const president_2012_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620001066671",
     "tikName": "Первоуральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100031793926",
+    "regionName": "Свердловская область",
     "uikCount": 73,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 125870,
@@ -1016,6 +1058,9 @@ export const president_2012_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620001066674",
     "tikName": "Нижний Тагил, Тагилстроевская ",
+    "regionCode": "66",
+    "regionTvd": "100100031793926",
+    "regionName": "Свердловская область",
     "uikCount": 55,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 100345,
@@ -1118,6 +1163,9 @@ export const president_2012_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620001066677",
     "tikName": "Свободненская поселковая",
+    "regionCode": "66",
+    "regionTvd": "100100031793926",
+    "regionName": "Свердловская область",
     "uikCount": 5,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 6317,
@@ -1170,6 +1218,9 @@ export const president_2012_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620001066680",
     "tikName": "Нижний Тагил, Ленинская",
+    "regionCode": "66",
+    "regionTvd": "100100031793926",
+    "regionName": "Свердловская область",
     "uikCount": 54,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 93510,
@@ -1271,6 +1322,9 @@ export const president_2012_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620001066682",
     "tikName": "Пригородная ",
+    "regionCode": "66",
+    "regionTvd": "100100031793926",
+    "regionName": "Свердловская область",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 28529,
@@ -1355,6 +1409,9 @@ export const president_2012_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620001066683",
     "tikName": "Нижний Тагил, Дзержинская ",
+    "regionCode": "66",
+    "regionTvd": "100100031793926",
+    "regionName": "Свердловская область",
     "uikCount": 47,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 98906,
@@ -1449,6 +1506,9 @@ export const president_2012_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620001066684",
     "tikName": "Нижнесалдинская городская",
+    "regionCode": "66",
+    "regionTvd": "100100031793926",
+    "regionName": "Свердловская область",
     "uikCount": 10,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 14718,
@@ -1506,6 +1566,9 @@ export const president_2012_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620001066685",
     "tikName": "Верхнесалдинская",
+    "regionCode": "66",
+    "regionTvd": "100100031793926",
+    "regionName": "Свердловская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 41461,
@@ -1584,6 +1647,9 @@ export const president_2012_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620001066686",
     "tikName": "Шалинская",
+    "regionCode": "66",
+    "regionTvd": "100100031793926",
+    "regionName": "Свердловская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 17481,
@@ -1650,6 +1716,9 @@ export const president_2012_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620001066687",
     "tikName": "Нижнесергинская ",
+    "regionCode": "66",
+    "regionTvd": "100100031793926",
+    "regionName": "Свердловская область",
     "uikCount": 52,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 38157,
@@ -1749,6 +1818,9 @@ export const president_2012_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620001066688",
     "tikName": "Красноуфимская",
+    "regionCode": "66",
+    "regionTvd": "100100031793926",
+    "regionName": "Свердловская область",
     "uikCount": 52,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 24334,
@@ -1848,6 +1920,9 @@ export const president_2012_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620001066689",
     "tikName": "Красноуфимская городская",
+    "regionCode": "66",
+    "regionTvd": "100100031793926",
+    "regionName": "Свердловская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 33221,
@@ -1921,6 +1996,9 @@ export const president_2012_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620001066690",
     "tikName": "Бисертская поселковая",
+    "regionCode": "66",
+    "regionTvd": "100100031793926",
+    "regionName": "Свердловская область",
     "uikCount": 6,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9529,
@@ -1974,6 +2052,9 @@ export const president_2012_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620001066691",
     "tikName": "Ачитская",
+    "regionCode": "66",
+    "regionTvd": "100100031793926",
+    "regionName": "Свердловская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 14714,
@@ -2055,6 +2136,9 @@ export const president_2012_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620001066692",
     "tikName": "Артинская",
+    "regionCode": "66",
+    "regionTvd": "100100031793926",
+    "regionName": "Свердловская область",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 26065,
@@ -2148,6 +2232,9 @@ export const president_2012_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620001066693",
     "tikName": "Лесная городская",
+    "regionCode": "66",
+    "regionTvd": "100100031793926",
+    "regionName": "Свердловская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 46335,
@@ -2219,6 +2306,9 @@ export const president_2012_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620001066694",
     "tikName": "Кушвинская городская",
+    "regionCode": "66",
+    "regionTvd": "100100031793926",
+    "regionName": "Свердловская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 37710,
@@ -2292,6 +2382,9 @@ export const president_2012_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620001066695",
     "tikName": "Красноуральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100031793926",
+    "regionName": "Свердловская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 22195,
@@ -2358,6 +2451,9 @@ export const president_2012_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620001066696",
     "tikName": "Качканарская городская",
+    "regionCode": "66",
+    "regionTvd": "100100031793926",
+    "regionName": "Свердловская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 35862,
@@ -2425,6 +2521,9 @@ export const president_2012_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620001066697",
     "tikName": "Верхнетуринская городская",
+    "regionCode": "66",
+    "regionTvd": "100100031793926",
+    "regionName": "Свердловская область",
     "uikCount": 6,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 8297,
@@ -2478,6 +2577,9 @@ export const president_2012_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620001066698",
     "tikName": "Североуральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100031793926",
+    "regionName": "Свердловская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 40506,
@@ -2551,6 +2653,9 @@ export const president_2012_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620001066699",
     "tikName": "Пелымская поселковая",
+    "regionCode": "66",
+    "regionTvd": "100100031793926",
+    "regionName": "Свердловская область",
     "uikCount": 4,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 3228,
@@ -2602,6 +2707,9 @@ export const president_2012_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620001066700",
     "tikName": "Краснотурьинская городская",
+    "regionCode": "66",
+    "regionTvd": "100100031793926",
+    "regionName": "Свердловская область",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 51002,
@@ -2691,6 +2799,9 @@ export const president_2012_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620001066701",
     "tikName": "Карпинская городская",
+    "regionCode": "66",
+    "regionTvd": "100100031793926",
+    "regionName": "Свердловская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 25824,
@@ -2758,6 +2869,9 @@ export const president_2012_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620001066702",
     "tikName": "Ивдельская городская",
+    "regionCode": "66",
+    "regionTvd": "100100031793926",
+    "regionName": "Свердловская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 16725,
@@ -2823,6 +2937,9 @@ export const president_2012_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620001066703",
     "tikName": "Волчанская городская",
+    "regionCode": "66",
+    "regionTvd": "100100031793926",
+    "regionName": "Свердловская область",
     "uikCount": 5,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 8479,
@@ -2875,6 +2992,9 @@ export const president_2012_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620001066704",
     "tikName": "Новоуральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100031793926",
+    "regionName": "Свердловская область",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 78949,
@@ -2966,6 +3086,9 @@ export const president_2012_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620001066705",
     "tikName": "Невьянская ",
+    "regionCode": "66",
+    "regionTvd": "100100031793926",
+    "regionName": "Свердловская область",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 35143,
@@ -3048,6 +3171,9 @@ export const president_2012_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620001066706",
     "tikName": "Кировградская городская",
+    "regionCode": "66",
+    "regionTvd": "100100031793926",
+    "regionName": "Свердловская область",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 24465,
@@ -3108,6 +3234,9 @@ export const president_2012_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620001066707",
     "tikName": "Верхнетагильская городская",
+    "regionCode": "66",
+    "regionTvd": "100100031793926",
+    "regionName": "Свердловская область",
     "uikCount": 7,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 11511,
@@ -3162,6 +3291,9 @@ export const president_2012_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620001066708",
     "tikName": "Верх-Нейвинская поселковая",
+    "regionCode": "66",
+    "regionTvd": "100100031793926",
+    "regionName": "Свердловская область",
     "uikCount": 2,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 3833,
@@ -3211,6 +3343,9 @@ export const president_2012_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620001066709",
     "tikName": "Каменск-Уральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100031793926",
+    "regionName": "Свердловская область",
     "uikCount": 71,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 148214,
@@ -3329,6 +3464,9 @@ export const president_2012_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620001066710",
     "tikName": "Тугулымская",
+    "regionCode": "66",
+    "regionTvd": "100100031793926",
+    "regionName": "Свердловская область",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 19037,
@@ -3408,6 +3546,9 @@ export const president_2012_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620001066711",
     "tikName": "Тавдинская",
+    "regionCode": "66",
+    "regionTvd": "100100031793926",
+    "regionName": "Свердловская область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 34784,
@@ -3491,6 +3632,9 @@ export const president_2012_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620001066712",
     "tikName": "Таборинская",
+    "regionCode": "66",
+    "regionTvd": "100100031793926",
+    "regionName": "Свердловская область",
     "uikCount": 9,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 3221,
@@ -3547,6 +3691,9 @@ export const president_2012_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620001066713",
     "tikName": "Слободо-Туринская",
+    "regionCode": "66",
+    "regionTvd": "100100031793926",
+    "regionName": "Свердловская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 12573,
@@ -3616,6 +3763,9 @@ export const president_2012_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620001066714",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100031793926",
+    "regionName": "Свердловская область",
     "uikCount": 54,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 25170,
@@ -3717,6 +3867,9 @@ export const president_2012_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620001066715",
     "tikName": "Ирбитская городская",
+    "regionCode": "66",
+    "regionTvd": "100100031793926",
+    "regionName": "Свердловская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 33927,
@@ -3784,6 +3937,9 @@ export const president_2012_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620001066716",
     "tikName": "Байкаловская",
+    "regionCode": "66",
+    "regionTvd": "100100031793926",
+    "regionName": "Свердловская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 13990,
@@ -3853,6 +4009,9 @@ export const president_2012_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620001066717",
     "tikName": "Екатеринбург, Чкаловская",
+    "regionCode": "66",
+    "regionTvd": "100100031793926",
+    "regionName": "Свердловская область",
     "uikCount": 91,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 191352,
@@ -3991,6 +4150,9 @@ export const president_2012_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620001066718",
     "tikName": "Екатеринбург, Орджоникидзевская ",
+    "regionCode": "66",
+    "regionTvd": "100100031793926",
+    "regionName": "Свердловская область",
     "uikCount": 104,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 209375,
@@ -4142,6 +4304,9 @@ export const president_2012_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620001066721",
     "tikName": "Екатеринбург, Ленинская",
+    "regionCode": "66",
+    "regionTvd": "100100031793926",
+    "regionName": "Свердловская область",
     "uikCount": 75,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 140113,
@@ -4264,6 +4429,9 @@ export const president_2012_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620001066723",
     "tikName": "Екатеринбург, Кировская ",
+    "regionCode": "66",
+    "regionTvd": "100100031793926",
+    "regionName": "Свердловская область",
     "uikCount": 88,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 170681,
@@ -4399,6 +4567,9 @@ export const president_2012_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620001066725",
     "tikName": "Екатеринбург, Железнодорожная",
+    "regionCode": "66",
+    "regionTvd": "100100031793926",
+    "regionName": "Свердловская область",
     "uikCount": 70,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 117952,
@@ -4516,6 +4687,9 @@ export const president_2012_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620001066726",
     "tikName": "Екатеринбург, Верх-Исетская",
+    "regionCode": "66",
+    "regionTvd": "100100031793926",
+    "regionName": "Свердловская область",
     "uikCount": 82,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 163868,
@@ -4645,6 +4819,9 @@ export const president_2012_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620001066727",
     "tikName": "Среднеуральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100031793926",
+    "regionName": "Свердловская область",
     "uikCount": 9,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 16329,
@@ -4701,6 +4878,9 @@ export const president_2012_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620001066729",
     "tikName": "Верхнепышминская городская",
+    "regionCode": "66",
+    "regionTvd": "100100031793926",
+    "regionName": "Свердловская область",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 59863,
@@ -4783,6 +4963,9 @@ export const president_2012_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620001066730",
     "tikName": "Березовская городская",
+    "regionCode": "66",
+    "regionTvd": "100100031793926",
+    "regionName": "Свердловская область",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 53588,
@@ -4869,6 +5052,9 @@ export const president_2012_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620001066731",
     "tikName": "Талицкая ",
+    "regionCode": "66",
+    "regionTvd": "100100031793926",
+    "regionName": "Свердловская область",
     "uikCount": 55,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 42280,
@@ -4971,6 +5157,9 @@ export const president_2012_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620001066732",
     "tikName": "Пышминская ",
+    "regionCode": "66",
+    "regionTvd": "100100031793926",
+    "regionName": "Свердловская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 17598,
@@ -5043,6 +5232,9 @@ export const president_2012_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620001066733",
     "tikName": "Камышловская ",
+    "regionCode": "66",
+    "regionTvd": "100100031793926",
+    "regionName": "Свердловская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 22887,
@@ -5114,6 +5306,9 @@ export const president_2012_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620001066734",
     "tikName": "Камышловская городская",
+    "regionCode": "66",
+    "regionTvd": "100100031793926",
+    "regionName": "Свердловская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 22862,
@@ -5179,6 +5374,9 @@ export const president_2012_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620001066735",
     "tikName": "Богдановичская ",
+    "regionCode": "66",
+    "regionTvd": "100100031793926",
+    "regionName": "Свердловская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 40003,
@@ -5255,6 +5453,9 @@ export const president_2012_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620001066736",
     "tikName": "Каменская",
+    "regionCode": "66",
+    "regionTvd": "100100031793926",
+    "regionName": "Свердловская область",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 24118,
@@ -5335,6 +5536,9 @@ export const president_2012_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620001066738",
     "tikName": "Заречная городская",
+    "regionCode": "66",
+    "regionTvd": "100100031793926",
+    "regionName": "Свердловская область",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 25509,
@@ -5396,6 +5600,9 @@ export const president_2012_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620001066739",
     "tikName": "Екатеринбург, Октябрьская ",
+    "regionCode": "66",
+    "regionTvd": "100100031793926",
+    "regionName": "Свердловская область",
     "uikCount": 58,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 116176,
@@ -5501,6 +5708,9 @@ export const president_2012_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620001066740",
     "tikName": "Верхнедубровская поселковая",
+    "regionCode": "66",
+    "regionTvd": "100100031793926",
+    "regionName": "Свердловская область",
     "uikCount": 2,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 3828,
@@ -5550,6 +5760,9 @@ export const president_2012_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620001066742",
     "tikName": "Белоярская",
+    "regionCode": "66",
+    "regionTvd": "100100031793926",
+    "regionName": "Свердловская область",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 28178,
@@ -5630,6 +5843,9 @@ export const president_2012_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620001066743",
     "tikName": "Сухоложская городская",
+    "regionCode": "66",
+    "regionTvd": "100100031793926",
+    "regionName": "Свердловская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 39577,
@@ -5708,6 +5924,9 @@ export const president_2012_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620001066744",
     "tikName": "Рефтинская поселковая",
+    "regionCode": "66",
+    "regionTvd": "100100031793926",
+    "regionName": "Свердловская область",
     "uikCount": 6,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 13685,
@@ -5761,6 +5980,9 @@ export const president_2012_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620001066745",
     "tikName": "Режевская",
+    "regionCode": "66",
+    "regionTvd": "100100031793926",
+    "regionName": "Свердловская область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 39838,
@@ -5844,6 +6066,9 @@ export const president_2012_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620001066746",
     "tikName": "Малышевская поселковая",
+    "regionCode": "66",
+    "regionTvd": "100100031793926",
+    "regionName": "Свердловская область",
     "uikCount": 5,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9882,
@@ -5896,6 +6121,9 @@ export const president_2012_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620001066747",
     "tikName": "Асбестовская городская",
+    "regionCode": "66",
+    "regionTvd": "100100031793926",
+    "regionName": "Свердловская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 60819,
@@ -5971,6 +6199,9 @@ export const president_2012_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620001066748",
     "tikName": "Туринская",
+    "regionCode": "66",
+    "regionTvd": "100100031793926",
+    "regionName": "Свердловская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 25347,
@@ -6042,6 +6273,9 @@ export const president_2012_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620001066749",
     "tikName": "Артемовская",
+    "regionCode": "66",
+    "regionTvd": "100100031793926",
+    "regionName": "Свердловская область",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 51067,
@@ -6132,6 +6366,9 @@ export const president_2012_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620001066750",
     "tikName": "Алапаевская",
+    "regionCode": "66",
+    "regionTvd": "100100031793926",
+    "regionName": "Свердловская область",
     "uikCount": 53,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 29286,
@@ -6232,6 +6469,9 @@ export const president_2012_tic_227_region_66 = [
     "ballot": "presidential",
     "tikTvd": "26620001066751",
     "tikName": "Алапаевская городская",
+    "regionCode": "66",
+    "regionTvd": "100100031793926",
+    "regionName": "Свердловская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 37631,

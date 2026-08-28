@@ -11,6 +11,9 @@ export const president_2024_tic_227_region_6 = [
     "ballot": "presidential",
     "tikTvd": "2062000513121",
     "tikName": "Малгобекская",
+    "regionCode": "6",
+    "regionTvd": "100100339411200",
+    "regionName": "Республика Ингушетия",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 34464,
@@ -74,6 +77,9 @@ export const president_2024_tic_227_region_6 = [
     "ballot": "presidential",
     "tikTvd": "2062000513122",
     "tikName": "Сунженская",
+    "regionCode": "6",
+    "regionTvd": "100100339411200",
+    "regionName": "Республика Ингушетия",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 25589,
@@ -132,6 +138,9 @@ export const president_2024_tic_227_region_6 = [
     "ballot": "presidential",
     "tikTvd": "2062000513123",
     "tikName": "Магасская городская",
+    "regionCode": "6",
+    "regionTvd": "100100339411200",
+    "regionName": "Республика Ингушетия",
     "uikCount": 4,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 6424,
@@ -176,6 +185,9 @@ export const president_2024_tic_227_region_6 = [
     "ballot": "presidential",
     "tikTvd": "2062000513124",
     "tikName": "Джейрахская",
+    "regionCode": "6",
+    "regionTvd": "100100339411200",
+    "regionName": "Республика Ингушетия",
     "uikCount": 6,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 2481,
@@ -222,6 +234,9 @@ export const president_2024_tic_227_region_6 = [
     "ballot": "presidential",
     "tikTvd": "2062000513125",
     "tikName": "Карабулакская городская",
+    "regionCode": "6",
+    "regionTvd": "100100339411200",
+    "regionName": "Республика Ингушетия",
     "uikCount": 8,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 16459,
@@ -270,6 +285,9 @@ export const president_2024_tic_227_region_6 = [
     "ballot": "presidential",
     "tikTvd": "2062000513126",
     "tikName": "Назрановская городская",
+    "regionCode": "6",
+    "regionTvd": "100100339411200",
+    "regionName": "Республика Ингушетия",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 49754,
@@ -332,6 +350,9 @@ export const president_2024_tic_227_region_6 = [
     "ballot": "presidential",
     "tikTvd": "2062000513127",
     "tikName": "Назрановская",
+    "regionCode": "6",
+    "regionTvd": "100100339411200",
+    "regionName": "Республика Ингушетия",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 62360,
@@ -402,6 +423,9 @@ export const president_2024_tic_227_region_6 = [
     "ballot": "presidential",
     "tikTvd": "2062000513128",
     "tikName": "Малгобекская городская",
+    "regionCode": "6",
+    "regionTvd": "100100339411200",
+    "regionName": "Республика Ингушетия",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 27194,
@@ -463,6 +487,9 @@ export const president_2024_tic_227_region_6 = [
     "ballot": "presidential",
     "tikTvd": "2062000513129",
     "tikName": "Сунженская городская",
+    "regionCode": "6",
+    "regionTvd": "100100339411200",
+    "regionName": "Республика Ингушетия",
     "uikCount": 10,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 21676,

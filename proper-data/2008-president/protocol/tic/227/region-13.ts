@@ -11,6 +11,9 @@ export const president_2008_tic_227_region_13 = [
     "ballot": "presidential",
     "tikTvd": "2132000188515",
     "tikName": "Ардатовская",
+    "regionCode": "13",
+    "regionTvd": "100100022249967",
+    "regionName": "Республика Мордовия",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 23418,
@@ -100,6 +103,9 @@ export const president_2008_tic_227_region_13 = [
     "ballot": "presidential",
     "tikTvd": "2132000188516",
     "tikName": "Атюрьевская",
+    "regionCode": "13",
+    "regionTvd": "100100022249967",
+    "regionName": "Республика Мордовия",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 9174,
@@ -170,6 +176,9 @@ export const president_2008_tic_227_region_13 = [
     "ballot": "presidential",
     "tikTvd": "2132000188517",
     "tikName": "Атяшевская",
+    "regionCode": "13",
+    "regionTvd": "100100022249967",
+    "regionName": "Республика Мордовия",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 17304,
@@ -254,6 +263,9 @@ export const president_2008_tic_227_region_13 = [
     "ballot": "presidential",
     "tikTvd": "2132000188518",
     "tikName": "Большеберезниковская",
+    "regionCode": "13",
+    "regionTvd": "100100022249967",
+    "regionName": "Республика Мордовия",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 11854,
@@ -326,6 +338,9 @@ export const president_2008_tic_227_region_13 = [
     "ballot": "presidential",
     "tikTvd": "2132000188519",
     "tikName": "Большеигнатовская",
+    "regionCode": "13",
+    "regionTvd": "100100022249967",
+    "regionName": "Республика Мордовия",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 7038,
@@ -392,6 +407,9 @@ export const president_2008_tic_227_region_13 = [
     "ballot": "presidential",
     "tikTvd": "2132000188520",
     "tikName": "Дубенская",
+    "regionCode": "13",
+    "regionTvd": "100100022249967",
+    "regionName": "Республика Мордовия",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 11650,
@@ -465,6 +483,9 @@ export const president_2008_tic_227_region_13 = [
     "ballot": "presidential",
     "tikTvd": "2132000188521",
     "tikName": "Ельниковская",
+    "regionCode": "13",
+    "regionTvd": "100100022249967",
+    "regionName": "Республика Мордовия",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 9632,
@@ -535,6 +556,9 @@ export const president_2008_tic_227_region_13 = [
     "ballot": "presidential",
     "tikTvd": "2132000188522",
     "tikName": "Зубово-Полянская",
+    "regionCode": "13",
+    "regionTvd": "100100022249967",
+    "regionName": "Республика Мордовия",
     "uikCount": 53,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 33683,
@@ -635,6 +659,9 @@ export const president_2008_tic_227_region_13 = [
     "ballot": "presidential",
     "tikTvd": "2132000188523",
     "tikName": "Инсарская",
+    "regionCode": "13",
+    "regionTvd": "100100022249967",
+    "regionName": "Республика Мордовия",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 11859,
@@ -706,6 +733,9 @@ export const president_2008_tic_227_region_13 = [
     "ballot": "presidential",
     "tikTvd": "2132000188524",
     "tikName": "Ичалковская",
+    "regionCode": "13",
+    "regionTvd": "100100022249967",
+    "regionName": "Республика Мордовия",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 16579,
@@ -799,6 +829,9 @@ export const president_2008_tic_227_region_13 = [
     "ballot": "presidential",
     "tikTvd": "2132000188525",
     "tikName": "Кадошкинская",
+    "regionCode": "13",
+    "regionTvd": "100100022249967",
+    "regionName": "Республика Мордовия",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 7160,
@@ -861,6 +894,9 @@ export const president_2008_tic_227_region_13 = [
     "ballot": "presidential",
     "tikTvd": "2132000188526",
     "tikName": "Ковылкинская",
+    "regionCode": "13",
+    "regionTvd": "100100022249967",
+    "regionName": "Республика Мордовия",
     "uikCount": 59,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 33708,
@@ -967,6 +1003,9 @@ export const president_2008_tic_227_region_13 = [
     "ballot": "presidential",
     "tikTvd": "2132000188527",
     "tikName": "Кочкуровская",
+    "regionCode": "13",
+    "regionTvd": "100100022249967",
+    "regionName": "Республика Мордовия",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 8902,
@@ -1028,6 +1067,9 @@ export const president_2008_tic_227_region_13 = [
     "ballot": "presidential",
     "tikTvd": "2132000188528",
     "tikName": "Краснослободская",
+    "regionCode": "13",
+    "regionTvd": "100100022249967",
+    "regionName": "Республика Мордовия",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 21451,
@@ -1111,6 +1153,9 @@ export const president_2008_tic_227_region_13 = [
     "ballot": "presidential",
     "tikTvd": "2132000188529",
     "tikName": "Лямбирская",
+    "regionCode": "13",
+    "regionTvd": "100100022249967",
+    "regionName": "Республика Мордовия",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 24871,
@@ -1193,6 +1238,9 @@ export const president_2008_tic_227_region_13 = [
     "ballot": "presidential",
     "tikTvd": "2132000188530",
     "tikName": "Ромодановская",
+    "regionCode": "13",
+    "regionTvd": "100100022249967",
+    "regionName": "Республика Мордовия",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 15365,
@@ -1268,6 +1316,9 @@ export const president_2008_tic_227_region_13 = [
     "ballot": "presidential",
     "tikTvd": "2132000188531",
     "tikName": "Рузаевская",
+    "regionCode": "13",
+    "regionTvd": "100100022249967",
+    "regionName": "Республика Мордовия",
     "uikCount": 56,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 52231,
@@ -1371,6 +1422,9 @@ export const president_2008_tic_227_region_13 = [
     "ballot": "presidential",
     "tikTvd": "2132000188532",
     "tikName": "Ленинская",
+    "regionCode": "13",
+    "regionTvd": "100100022249967",
+    "regionName": "Республика Мордовия",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 84583,
@@ -1464,6 +1518,9 @@ export const president_2008_tic_227_region_13 = [
     "ballot": "presidential",
     "tikTvd": "2132000188533",
     "tikName": "Октябрьская",
+    "regionCode": "13",
+    "regionTvd": "100100022249967",
+    "regionName": "Республика Мордовия",
     "uikCount": 56,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 104505,
@@ -1567,6 +1624,9 @@ export const president_2008_tic_227_region_13 = [
     "ballot": "presidential",
     "tikTvd": "2132000188534",
     "tikName": "Пролетарская",
+    "regionCode": "13",
+    "regionTvd": "100100022249967",
+    "regionName": "Республика Мордовия",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 75095,
@@ -1648,6 +1708,9 @@ export const president_2008_tic_227_region_13 = [
     "ballot": "presidential",
     "tikTvd": "2132000188535",
     "tikName": "Старошайговская",
+    "regionCode": "13",
+    "regionTvd": "100100022249967",
+    "regionName": "Республика Мордовия",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 11547,
@@ -1720,6 +1783,9 @@ export const president_2008_tic_227_region_13 = [
     "ballot": "presidential",
     "tikTvd": "2132000188536",
     "tikName": "Темниковская",
+    "regionCode": "13",
+    "regionTvd": "100100022249967",
+    "regionName": "Республика Мордовия",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 14782,
@@ -1798,6 +1864,9 @@ export const president_2008_tic_227_region_13 = [
     "ballot": "presidential",
     "tikTvd": "2132000188537",
     "tikName": "Теньгушевская",
+    "regionCode": "13",
+    "regionTvd": "100100022249967",
+    "regionName": "Республика Мордовия",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 9035,
@@ -1869,6 +1938,9 @@ export const president_2008_tic_227_region_13 = [
     "ballot": "presidential",
     "tikTvd": "2132000188538",
     "tikName": "Торбеевская",
+    "regionCode": "13",
+    "regionTvd": "100100022249967",
+    "regionName": "Республика Мордовия",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 16989,
@@ -1948,6 +2020,9 @@ export const president_2008_tic_227_region_13 = [
     "ballot": "presidential",
     "tikTvd": "2132000188539",
     "tikName": "Чамзинская",
+    "regionCode": "13",
+    "regionTvd": "100100022249967",
+    "regionName": "Республика Мордовия",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 25300,

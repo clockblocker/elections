@@ -7,8 +7,10 @@ import unittest
 import urllib.error
 from datetime import datetime, timezone
 from email.message import Message
+from io import BytesIO
 from itertools import pairwise
 from pathlib import Path
+from zipfile import ZipFile
 
 CRAWLER = Path(__file__).parents[1]
 sys.path.insert(0, str(CRAWLER))
@@ -21,7 +23,11 @@ from common import (
     extract_tree_nodes,
 )
 from decode_script_result import decode_script_tables
-from duma2021 import extract_oik_breadcrumbs, parse_candidate_registry
+from duma2021 import (
+    extract_oik_breadcrumbs,
+    parse_candidate_registry,
+    parse_official_winners,
+)
 from generate_typescript import generate
 from pipeline import classify_result, hierarchy_summary, make_plan, reconcile
 from transport import (
@@ -393,7 +399,27 @@ class DecodeAndHierarchyTests(unittest.TestCase):
         self.assertEqual(parsed["district_numbers"], [20])
         self.assertEqual(parsed["candidates"][0]["candidate_vibid"], "4934014202239")
         self.assertEqual(parsed["candidates"][0]["nominating_entity"], 'Всероссийская политическая партия "ЕДИНАЯ РОССИЯ"')
-        self.assertTrue(parsed["candidates"][0]["is_elected"])
+        self.assertEqual(parsed["candidates"][0]["registry_election_status"], "избр.")
+        self.assertFalse(parsed["candidates"][0]["is_elected"])
+
+    def test_immutable_cec_winner_docx_parses_225_districts(self):
+        namespace = "http://schemas.openxmlformats.org/wordprocessingml/2006/main"
+        rows = "".join(
+            f"<w:tr><w:tc><w:p><w:r><w:t>District округ № {number}</w:t></w:r></w:p>"
+            f"<w:p><w:r><w:t>Winner {number}</w:t></w:r></w:p></w:tc></w:tr>"
+            for number in range(1, 226)
+        )
+        document = (
+            f'<w:document xmlns:w="{namespace}"><w:body><w:tbl>{rows}</w:tbl>'
+            "</w:body></w:document>"
+        ).encode()
+        payload = BytesIO()
+        with ZipFile(payload, "w") as archive:
+            archive.writestr("word/document.xml", document)
+        parsed = parse_official_winners(payload.getvalue())
+        self.assertTrue(parsed["valid_winner_registry"])
+        self.assertEqual(parsed["winner_count"], 225)
+        self.assertEqual(parsed["winners"][2]["full_name"], "Winner 3")
 
 
 class ValidationAndGenerationTests(unittest.TestCase):
@@ -488,10 +514,16 @@ class ValidationAndGenerationTests(unittest.TestCase):
                             "full_name": "Candidate Name",
                             "nominating_entity": "Nominator",
                             "registration_status": "registered",
+                            "registry_election_status": "избр.",
                             "is_elected": True,
                         }
                     ],
                     "source": source,
+                    "winner_source": {
+                        **source,
+                        "resolution": "61/467-8",
+                        "resolution_date": "2021-09-24",
+                    },
                 }
             ],
         }

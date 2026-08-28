@@ -2,6 +2,12 @@
 
 export type VoteMap = Readonly<Record<string, number>>;
 
+export type DistrictRef = Readonly<{
+  districtNumber: number;
+  oikTvd: string;
+  oikName: string;
+}>;
+
 export type ProtocolSource = Readonly<{
   url: string;
   sha256: string;
@@ -12,27 +18,37 @@ export type ProtocolSource = Readonly<{
   provenance?: "live-official" | "wayback";
 }>;
 
-export type UikProtocol = Readonly<{
+type UikProtocolBase = Readonly<{
   election: "2007-duma";
   level: "uik";
-  reportType: 242;
-  ballot: "party";
   uikNumber: number;
   uikTvd: string;
+  uikName: string;
   tikTvd: string;
   tikName: string;
+  regionCode: string;
+  regionTvd: string;
+  regionName: string;
   accounting: VoteMap;
   votes: VoteMap;
   source: ProtocolSource;
 }>;
 
-export type TicProtocol = Readonly<{
+export type PartyUikProtocol = Readonly<UikProtocolBase & {
+  reportType: 242;
+  ballot: "party";
+}>;
+
+export type UikProtocol = PartyUikProtocol;
+
+type TicProtocolBase = Readonly<{
   election: "2007-duma";
   level: "tic";
-  reportType: 233;
-  ballot: "party";
   tikTvd: string;
   tikName: string;
+  regionCode: string;
+  regionTvd: string;
+  regionName: string;
   uikCount: number;
   accounting: VoteMap;
   votes: VoteMap;
@@ -40,9 +56,21 @@ export type TicProtocol = Readonly<{
   source: ProtocolSource;
 }>;
 
+export type PartyTicProtocol = Readonly<TicProtocolBase & {
+  reportType: 233;
+  ballot: "party";
+}>;
+
+export type TicProtocol = PartyTicProtocol;
+
 export type UikTikRelation = Readonly<{
   uikNumber: number;
   uikTvd: string;
+  uikName: string;
   tikTvd: string;
   tikName: string;
+  regionCode: string;
+  regionTvd: string;
+  regionName: string;
+  district: DistrictRef | null;
 }>;

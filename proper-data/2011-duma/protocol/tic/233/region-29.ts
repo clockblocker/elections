@@ -11,6 +11,9 @@ export const duma_2011_tic_233_region_29 = [
     "ballot": "party",
     "tikTvd": "2292000349785",
     "tikName": "Архангельск, Южная",
+    "regionCode": "29",
+    "regionTvd": "100100028713361",
+    "regionName": "Архангельская область",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 61977,
@@ -95,6 +98,9 @@ export const duma_2011_tic_233_region_29 = [
     "ballot": "party",
     "tikTvd": "2292000349786",
     "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100028713361",
+    "regionName": "Архангельская область",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 26112,
@@ -185,6 +191,9 @@ export const duma_2011_tic_233_region_29 = [
     "ballot": "party",
     "tikTvd": "2292000349787",
     "tikName": "Северодвинская",
+    "regionCode": "29",
+    "regionTvd": "100100028713361",
+    "regionName": "Архангельская область",
     "uikCount": 83,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 166073,
@@ -317,6 +326,9 @@ export const duma_2011_tic_233_region_29 = [
     "ballot": "party",
     "tikTvd": "2292000349788",
     "tikName": "Приморская",
+    "regionCode": "29",
+    "regionTvd": "100100028713361",
+    "regionName": "Архангельская область",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 22406,
@@ -403,6 +415,9 @@ export const duma_2011_tic_233_region_29 = [
     "ballot": "party",
     "tikTvd": "2292000349789",
     "tikName": "Мирнинская",
+    "regionCode": "29",
+    "regionTvd": "100100028713361",
+    "regionName": "Архангельская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 23480,
@@ -470,6 +485,9 @@ export const duma_2011_tic_233_region_29 = [
     "ballot": "party",
     "tikTvd": "2292000349790",
     "tikName": "Онежская",
+    "regionCode": "29",
+    "regionTvd": "100100028713361",
+    "regionName": "Архангельская область",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 28547,
@@ -560,6 +578,9 @@ export const duma_2011_tic_233_region_29 = [
     "ballot": "party",
     "tikTvd": "2292000349791",
     "tikName": "Плесецкая",
+    "regionCode": "29",
+    "regionTvd": "100100028713361",
+    "regionName": "Архангельская область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 38430,
@@ -645,6 +666,9 @@ export const duma_2011_tic_233_region_29 = [
     "ballot": "party",
     "tikTvd": "2292000349792",
     "tikName": "Пинежская",
+    "regionCode": "29",
+    "regionTvd": "100100028713361",
+    "regionName": "Архангельская область",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 23550,
@@ -738,6 +762,9 @@ export const duma_2011_tic_233_region_29 = [
     "ballot": "party",
     "tikTvd": "2292000349793",
     "tikName": "Новодвинская",
+    "regionCode": "29",
+    "regionTvd": "100100028713361",
+    "regionName": "Архангельская область",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 32793,
@@ -801,6 +828,9 @@ export const duma_2011_tic_233_region_29 = [
     "ballot": "party",
     "tikTvd": "2292000349794",
     "tikName": "Няндомская",
+    "regionCode": "29",
+    "regionTvd": "100100028713361",
+    "regionName": "Архангельская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 25390,
@@ -878,6 +908,9 @@ export const duma_2011_tic_233_region_29 = [
     "ballot": "party",
     "tikTvd": "2292000349795",
     "tikName": "Новоземельская",
+    "regionCode": "29",
+    "regionTvd": "100100028713361",
+    "regionName": "Архангельская область",
     "uikCount": 8,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 2300,
@@ -935,6 +968,9 @@ export const duma_2011_tic_233_region_29 = [
     "ballot": "party",
     "tikTvd": "2292000349796",
     "tikName": "Шенкурская",
+    "regionCode": "29",
+    "regionTvd": "100100028713361",
+    "regionName": "Архангельская область",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 13528,
@@ -1011,6 +1047,9 @@ export const duma_2011_tic_233_region_29 = [
     "ballot": "party",
     "tikTvd": "2292000349797",
     "tikName": "Холмогорская",
+    "regionCode": "29",
+    "regionTvd": "100100028713361",
+    "regionName": "Архангельская область",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 21863,
@@ -1101,6 +1140,9 @@ export const duma_2011_tic_233_region_29 = [
     "ballot": "party",
     "tikTvd": "2292000349798",
     "tikName": "Архангельск, Октябрьская",
+    "regionCode": "29",
+    "regionTvd": "100100028713361",
+    "regionName": "Архангельская область",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 71332,
@@ -1188,6 +1230,9 @@ export const duma_2011_tic_233_region_29 = [
     "ballot": "party",
     "tikTvd": "2292000349799",
     "tikName": "Архангельск, Исакогорская ",
+    "regionCode": "29",
+    "regionTvd": "100100028713361",
+    "regionName": "Архангельская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 28912,
@@ -1257,6 +1302,9 @@ export const duma_2011_tic_233_region_29 = [
     "ballot": "party",
     "tikTvd": "2292000349800",
     "tikName": "Вилегодская",
+    "regionCode": "29",
+    "regionTvd": "100100028713361",
+    "regionName": "Архангельская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 10108,
@@ -1324,6 +1372,9 @@ export const duma_2011_tic_233_region_29 = [
     "ballot": "party",
     "tikTvd": "2292000349801",
     "tikName": "Виноградовская",
+    "regionCode": "29",
+    "regionTvd": "100100028713361",
+    "regionName": "Архангельская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 15208,
@@ -1395,6 +1446,9 @@ export const duma_2011_tic_233_region_29 = [
     "ballot": "party",
     "tikTvd": "2292000349802",
     "tikName": "Вельская",
+    "regionCode": "29",
+    "regionTvd": "100100028713361",
+    "regionName": "Архангельская область",
     "uikCount": 64,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 45257,
@@ -1508,6 +1562,9 @@ export const duma_2011_tic_233_region_29 = [
     "ballot": "party",
     "tikTvd": "2292000349803",
     "tikName": "Котласская",
+    "regionCode": "29",
+    "regionTvd": "100100028713361",
+    "regionName": "Архангельская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 17785,
@@ -1579,6 +1636,9 @@ export const duma_2011_tic_233_region_29 = [
     "ballot": "party",
     "tikTvd": "2292000349804",
     "tikName": "Верхнетоемская",
+    "regionCode": "29",
+    "regionTvd": "100100028713361",
+    "regionName": "Архангельская область",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 15753,
@@ -1661,6 +1721,9 @@ export const duma_2011_tic_233_region_29 = [
     "ballot": "party",
     "tikTvd": "2292000349805",
     "tikName": "Соловецкая поселковая",
+    "regionCode": "29",
+    "regionTvd": "100100028713361",
+    "regionName": "Архангельская область",
     "uikCount": 1,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 674,
@@ -1711,6 +1774,9 @@ export const duma_2011_tic_233_region_29 = [
     "ballot": "party",
     "tikTvd": "2292000349806",
     "tikName": "Архангельск, Соломбальская",
+    "regionCode": "29",
+    "regionTvd": "100100028713361",
+    "regionName": "Архангельская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 68937,
@@ -1800,6 +1866,9 @@ export const duma_2011_tic_233_region_29 = [
     "ballot": "party",
     "tikTvd": "2292000349807",
     "tikName": "Архангельск, Ломоносовская",
+    "regionCode": "29",
+    "regionTvd": "100100028713361",
+    "regionName": "Архангельская область",
     "uikCount": 59,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 58378,
@@ -1908,6 +1977,9 @@ export const duma_2011_tic_233_region_29 = [
     "ballot": "party",
     "tikTvd": "2292000349808",
     "tikName": "Лешуконская",
+    "regionCode": "29",
+    "regionTvd": "100100028713361",
+    "regionName": "Архангельская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 7847,
@@ -1981,6 +2053,9 @@ export const duma_2011_tic_233_region_29 = [
     "ballot": "party",
     "tikTvd": "2292000349809",
     "tikName": "Ленская",
+    "regionCode": "29",
+    "regionTvd": "100100028713361",
+    "regionName": "Архангельская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 11623,
@@ -2051,6 +2126,9 @@ export const duma_2011_tic_233_region_29 = [
     "ballot": "party",
     "tikTvd": "2292000349810",
     "tikName": "Мезенская",
+    "regionCode": "29",
+    "regionTvd": "100100028713361",
+    "regionName": "Архангельская область",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 9949,
@@ -2127,6 +2205,9 @@ export const duma_2011_tic_233_region_29 = [
     "ballot": "party",
     "tikTvd": "2292000349811",
     "tikName": "Котласская городская",
+    "regionCode": "29",
+    "regionTvd": "100100028713361",
+    "regionName": "Архангельская область",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 59565,
@@ -2209,6 +2290,9 @@ export const duma_2011_tic_233_region_29 = [
     "ballot": "party",
     "tikTvd": "2292000349812",
     "tikName": "Коряжемская",
+    "regionCode": "29",
+    "regionTvd": "100100028713361",
+    "regionName": "Архангельская область",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 31719,
@@ -2271,6 +2355,9 @@ export const duma_2011_tic_233_region_29 = [
     "ballot": "party",
     "tikTvd": "2292000349813",
     "tikName": "Красноборская",
+    "regionCode": "29",
+    "regionTvd": "100100028713361",
+    "regionName": "Архангельская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 12398,
@@ -2344,6 +2431,9 @@ export const duma_2011_tic_233_region_29 = [
     "ballot": "party",
     "tikTvd": "2292000349814",
     "tikName": "Каргопольская",
+    "regionCode": "29",
+    "regionTvd": "100100028713361",
+    "regionName": "Архангельская область",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 15727,
@@ -2426,6 +2516,9 @@ export const duma_2011_tic_233_region_29 = [
     "ballot": "party",
     "tikTvd": "2292000349815",
     "tikName": "Коношская",
+    "regionCode": "29",
+    "regionTvd": "100100028713361",
+    "regionName": "Архангельская область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 21300,

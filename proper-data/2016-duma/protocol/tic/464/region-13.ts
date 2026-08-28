@@ -11,6 +11,14 @@ export const duma_2016_tic_464_region_13 = [
     "ballot": "single-member",
     "tikTvd": "2132000677754",
     "tikName": "Ардатовская",
+    "regionCode": "13",
+    "regionTvd": "100100067795886",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100067795887",
+      "oikName": "Республика Мордовия – Мордовский"
+    },
     "uikCount": 41,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 21198,
@@ -103,6 +111,14 @@ export const duma_2016_tic_464_region_13 = [
     "ballot": "single-member",
     "tikTvd": "2132000677755",
     "tikName": "Атюрьевская",
+    "regionCode": "13",
+    "regionTvd": "100100067795886",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100067795887",
+      "oikName": "Республика Мордовия – Мордовский"
+    },
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 8593,
@@ -176,6 +192,14 @@ export const duma_2016_tic_464_region_13 = [
     "ballot": "single-member",
     "tikTvd": "2132000677756",
     "tikName": "Атяшевская",
+    "regionCode": "13",
+    "regionTvd": "100100067795886",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100067795887",
+      "oikName": "Республика Мордовия – Мордовский"
+    },
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 16017,
@@ -263,6 +287,14 @@ export const duma_2016_tic_464_region_13 = [
     "ballot": "single-member",
     "tikTvd": "2132000677762",
     "tikName": "Большеберезниковская",
+    "regionCode": "13",
+    "regionTvd": "100100067795886",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100067795887",
+      "oikName": "Республика Мордовия – Мордовский"
+    },
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 10081,
@@ -339,6 +371,14 @@ export const duma_2016_tic_464_region_13 = [
     "ballot": "single-member",
     "tikTvd": "2132000677763",
     "tikName": "Большеигнатовская",
+    "regionCode": "13",
+    "regionTvd": "100100067795886",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100067795887",
+      "oikName": "Республика Мордовия – Мордовский"
+    },
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 6226,
@@ -408,6 +448,14 @@ export const duma_2016_tic_464_region_13 = [
     "ballot": "single-member",
     "tikTvd": "2132000677764",
     "tikName": "Дубенская",
+    "regionCode": "13",
+    "regionTvd": "100100067795886",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100067795887",
+      "oikName": "Республика Мордовия – Мордовский"
+    },
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 10770,
@@ -483,6 +531,14 @@ export const duma_2016_tic_464_region_13 = [
     "ballot": "single-member",
     "tikTvd": "2132000677765",
     "tikName": "Ельниковская",
+    "regionCode": "13",
+    "regionTvd": "100100067795886",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100067795887",
+      "oikName": "Республика Мордовия – Мордовский"
+    },
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 8899,
@@ -556,6 +612,14 @@ export const duma_2016_tic_464_region_13 = [
     "ballot": "single-member",
     "tikTvd": "2132000677766",
     "tikName": "Зубово-Полянская",
+    "regionCode": "13",
+    "regionTvd": "100100067795886",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100067795887",
+      "oikName": "Республика Мордовия – Мордовский"
+    },
     "uikCount": 50,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 32348,
@@ -657,6 +721,14 @@ export const duma_2016_tic_464_region_13 = [
     "ballot": "single-member",
     "tikTvd": "2132000677767",
     "tikName": "Инсарская",
+    "regionCode": "13",
+    "regionTvd": "100100067795886",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100067795887",
+      "oikName": "Республика Мордовия – Мордовский"
+    },
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 11088,
@@ -732,6 +804,14 @@ export const duma_2016_tic_464_region_13 = [
     "ballot": "single-member",
     "tikTvd": "2132000677768",
     "tikName": "Ичалковская",
+    "regionCode": "13",
+    "regionTvd": "100100067795886",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100067795887",
+      "oikName": "Республика Мордовия – Мордовский"
+    },
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 14522,
@@ -820,6 +900,14 @@ export const duma_2016_tic_464_region_13 = [
     "ballot": "single-member",
     "tikTvd": "2132000677769",
     "tikName": "Кадошкинская",
+    "regionCode": "13",
+    "regionTvd": "100100067795886",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100067795887",
+      "oikName": "Республика Мордовия – Мордовский"
+    },
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 6533,
@@ -885,6 +973,14 @@ export const duma_2016_tic_464_region_13 = [
     "ballot": "single-member",
     "tikTvd": "2132000677770",
     "tikName": "Ковылкинская",
+    "regionCode": "13",
+    "regionTvd": "100100067795886",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100067795887",
+      "oikName": "Республика Мордовия – Мордовский"
+    },
     "uikCount": 55,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 32130,
@@ -991,6 +1087,14 @@ export const duma_2016_tic_464_region_13 = [
     "ballot": "single-member",
     "tikTvd": "2132000677771",
     "tikName": "Кочкуровская",
+    "regionCode": "13",
+    "regionTvd": "100100067795886",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100067795887",
+      "oikName": "Республика Мордовия – Мордовский"
+    },
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 8097,
@@ -1056,6 +1160,14 @@ export const duma_2016_tic_464_region_13 = [
     "ballot": "single-member",
     "tikTvd": "2132000677772",
     "tikName": "Краснослободская",
+    "regionCode": "13",
+    "regionTvd": "100100067795886",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100067795887",
+      "oikName": "Республика Мордовия – Мордовский"
+    },
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 19243,
@@ -1139,6 +1251,14 @@ export const duma_2016_tic_464_region_13 = [
     "ballot": "single-member",
     "tikTvd": "2132000677773",
     "tikName": "Лямбирская",
+    "regionCode": "13",
+    "regionTvd": "100100067795886",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100067795887",
+      "oikName": "Республика Мордовия – Мордовский"
+    },
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 25301,
@@ -1227,6 +1347,14 @@ export const duma_2016_tic_464_region_13 = [
     "ballot": "single-member",
     "tikTvd": "2132000677774",
     "tikName": "Ромодановская",
+    "regionCode": "13",
+    "regionTvd": "100100067795886",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100067795887",
+      "oikName": "Республика Мордовия – Мордовский"
+    },
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 15020,
@@ -1309,6 +1437,14 @@ export const duma_2016_tic_464_region_13 = [
     "ballot": "single-member",
     "tikTvd": "2132000677775",
     "tikName": "Рузаевская",
+    "regionCode": "13",
+    "regionTvd": "100100067795886",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100067795887",
+      "oikName": "Республика Мордовия – Мордовский"
+    },
     "uikCount": 50,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 51240,
@@ -1410,6 +1546,14 @@ export const duma_2016_tic_464_region_13 = [
     "ballot": "single-member",
     "tikTvd": "2132000677776",
     "tikName": "Ленинская",
+    "regionCode": "13",
+    "regionTvd": "100100067795886",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100067795887",
+      "oikName": "Республика Мордовия – Мордовский"
+    },
     "uikCount": 45,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 80727,
@@ -1506,6 +1650,14 @@ export const duma_2016_tic_464_region_13 = [
     "ballot": "single-member",
     "tikTvd": "2132000677777",
     "tikName": "Октябрьская",
+    "regionCode": "13",
+    "regionTvd": "100100067795886",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100067795887",
+      "oikName": "Республика Мордовия – Мордовский"
+    },
     "uikCount": 57,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 103758,
@@ -1614,6 +1766,14 @@ export const duma_2016_tic_464_region_13 = [
     "ballot": "single-member",
     "tikTvd": "2132000677778",
     "tikName": "Пролетарская",
+    "regionCode": "13",
+    "regionTvd": "100100067795886",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100067795887",
+      "oikName": "Республика Мордовия – Мордовский"
+    },
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 75313,
@@ -1701,6 +1861,14 @@ export const duma_2016_tic_464_region_13 = [
     "ballot": "single-member",
     "tikTvd": "2132000677779",
     "tikName": "Старошайговская",
+    "regionCode": "13",
+    "regionTvd": "100100067795886",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100067795887",
+      "oikName": "Республика Мордовия – Мордовский"
+    },
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 10155,
@@ -1775,6 +1943,14 @@ export const duma_2016_tic_464_region_13 = [
     "ballot": "single-member",
     "tikTvd": "2132000677780",
     "tikName": "Темниковская",
+    "regionCode": "13",
+    "regionTvd": "100100067795886",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100067795887",
+      "oikName": "Республика Мордовия – Мордовский"
+    },
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 12841,
@@ -1855,6 +2031,14 @@ export const duma_2016_tic_464_region_13 = [
     "ballot": "single-member",
     "tikTvd": "2132000677785",
     "tikName": "Теньгушевская",
+    "regionCode": "13",
+    "regionTvd": "100100067795886",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100067795887",
+      "oikName": "Республика Мордовия – Мордовский"
+    },
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 8263,
@@ -1927,6 +2111,14 @@ export const duma_2016_tic_464_region_13 = [
     "ballot": "single-member",
     "tikTvd": "2132000677786",
     "tikName": "Торбеевская",
+    "regionCode": "13",
+    "regionTvd": "100100067795886",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100067795887",
+      "oikName": "Республика Мордовия – Мордовский"
+    },
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 15637,
@@ -2007,6 +2199,14 @@ export const duma_2016_tic_464_region_13 = [
     "ballot": "single-member",
     "tikTvd": "2132000677787",
     "tikName": "Чамзинская",
+    "regionCode": "13",
+    "regionTvd": "100100067795886",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100067795887",
+      "oikName": "Республика Мордовия – Мордовский"
+    },
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 24701,

@@ -11,6 +11,9 @@ export const president_2024_tic_227_region_47 = [
     "ballot": "presidential",
     "tikTvd": "24720001444679",
     "tikName": "Тосненская",
+    "regionCode": "47",
+    "regionTvd": "100100339411240",
+    "regionName": "Ленинградская область",
     "uikCount": 65,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 92395,
@@ -116,6 +119,9 @@ export const president_2024_tic_227_region_47 = [
     "ballot": "presidential",
     "tikTvd": "24720001444680",
     "tikName": "Тихвинская",
+    "regionCode": "47",
+    "regionTvd": "100100339411240",
+    "regionName": "Ленинградская область",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 55485,
@@ -202,6 +208,9 @@ export const president_2024_tic_227_region_47 = [
     "ballot": "presidential",
     "tikTvd": "24720001444681",
     "tikName": "Сосновоборская городская",
+    "regionCode": "47",
+    "regionTvd": "100100339411240",
+    "regionName": "Ленинградская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 48657,
@@ -266,6 +275,9 @@ export const president_2024_tic_227_region_47 = [
     "ballot": "presidential",
     "tikTvd": "24720001444682",
     "tikName": "Сланцевская",
+    "regionCode": "47",
+    "regionTvd": "100100339411240",
+    "regionName": "Ленинградская область",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 33428,
@@ -338,6 +350,9 @@ export const president_2024_tic_227_region_47 = [
     "ballot": "presidential",
     "tikTvd": "24720001444683",
     "tikName": "Приозерская",
+    "regionCode": "47",
+    "regionTvd": "100100339411240",
+    "regionName": "Ленинградская область",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 44143,
@@ -415,6 +430,9 @@ export const president_2024_tic_227_region_47 = [
     "ballot": "presidential",
     "tikTvd": "24720001444684",
     "tikName": "Подпорожская",
+    "regionCode": "47",
+    "regionTvd": "100100339411240",
+    "regionName": "Ленинградская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 22869,
@@ -486,6 +504,9 @@ export const president_2024_tic_227_region_47 = [
     "ballot": "presidential",
     "tikTvd": "24720001444685",
     "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "100100339411240",
+    "regionName": "Ленинградская область",
     "uikCount": 58,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 56733,
@@ -584,6 +605,9 @@ export const president_2024_tic_227_region_47 = [
     "ballot": "presidential",
     "tikTvd": "24720001444686",
     "tikName": "Ломоносовская",
+    "regionCode": "47",
+    "regionTvd": "100100339411240",
+    "regionName": "Ленинградская область",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 77664,
@@ -670,6 +694,9 @@ export const president_2024_tic_227_region_47 = [
     "ballot": "presidential",
     "tikTvd": "24720001444687",
     "tikName": "Лодейнопольская",
+    "regionCode": "47",
+    "regionTvd": "100100339411240",
+    "regionName": "Ленинградская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 21639,
@@ -739,6 +766,9 @@ export const president_2024_tic_227_region_47 = [
     "ballot": "presidential",
     "tikTvd": "24720001444688",
     "tikName": "Кировская",
+    "regionCode": "47",
+    "regionTvd": "100100339411240",
+    "regionName": "Ленинградская область",
     "uikCount": 47,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 75852,
@@ -826,6 +856,9 @@ export const president_2024_tic_227_region_47 = [
     "ballot": "presidential",
     "tikTvd": "24720001444689",
     "tikName": "Киришская",
+    "regionCode": "47",
+    "regionTvd": "100100339411240",
+    "regionName": "Ленинградская область",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 46993,
@@ -898,6 +931,9 @@ export const president_2024_tic_227_region_47 = [
     "ballot": "presidential",
     "tikTvd": "24720001444690",
     "tikName": "Кингисеппская",
+    "regionCode": "47",
+    "regionTvd": "100100339411240",
+    "regionName": "Ленинградская область",
     "uikCount": 45,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 61924,
@@ -983,6 +1019,9 @@ export const president_2024_tic_227_region_47 = [
     "ballot": "presidential",
     "tikTvd": "24720001444691",
     "tikName": "Гатчинская",
+    "regionCode": "47",
+    "regionTvd": "100100339411240",
+    "regionName": "Ленинградская область",
     "uikCount": 117,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 162447,
@@ -1140,6 +1179,9 @@ export const president_2024_tic_227_region_47 = [
     "ballot": "presidential",
     "tikTvd": "24720001444692",
     "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "100100339411240",
+    "regionName": "Ленинградская область",
     "uikCount": 120,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 141027,
@@ -1300,6 +1342,9 @@ export const president_2024_tic_227_region_47 = [
     "ballot": "presidential",
     "tikTvd": "24720001444693",
     "tikName": "Всеволожская",
+    "regionCode": "47",
+    "regionTvd": "100100339411240",
+    "regionName": "Ленинградская область",
     "uikCount": 177,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 362690,
@@ -1517,6 +1562,9 @@ export const president_2024_tic_227_region_47 = [
     "ballot": "presidential",
     "tikTvd": "24720001444694",
     "tikName": "Волховская",
+    "regionCode": "47",
+    "regionTvd": "100100339411240",
+    "regionName": "Ленинградская область",
     "uikCount": 53,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 62136,
@@ -1610,6 +1658,9 @@ export const president_2024_tic_227_region_47 = [
     "ballot": "presidential",
     "tikTvd": "24720001444695",
     "tikName": "Волосовская",
+    "regionCode": "47",
+    "regionTvd": "100100339411240",
+    "regionName": "Ленинградская область",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 32574,
@@ -1677,6 +1728,9 @@ export const president_2024_tic_227_region_47 = [
     "ballot": "presidential",
     "tikTvd": "24720001444696",
     "tikName": "Бокситогорская",
+    "regionCode": "47",
+    "regionTvd": "100100339411240",
+    "regionName": "Ленинградская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 38182,

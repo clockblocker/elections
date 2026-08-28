@@ -11,6 +11,9 @@ export const duma_2007_tic_233_region_49 = [
     "ballot": "party",
     "tikTvd": "2492000100613",
     "tikName": "Магаданская городская",
+    "regionCode": "49",
+    "regionTvd": "100100021960269",
+    "regionName": "Магаданская область",
     "uikCount": 67,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 82253,
@@ -132,6 +135,9 @@ export const duma_2007_tic_233_region_49 = [
     "ballot": "party",
     "tikTvd": "2492000100614",
     "tikName": "Ольская",
+    "regionCode": "49",
+    "regionTvd": "100100021960269",
+    "regionName": "Магаданская область",
     "uikCount": 8,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 6341,
@@ -194,6 +200,9 @@ export const duma_2007_tic_233_region_49 = [
     "ballot": "party",
     "tikTvd": "2492000100615",
     "tikName": "Омсукчанская",
+    "regionCode": "49",
+    "regionTvd": "100100021960269",
+    "regionName": "Магаданская область",
     "uikCount": 4,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 4440,
@@ -252,6 +261,9 @@ export const duma_2007_tic_233_region_49 = [
     "ballot": "party",
     "tikTvd": "2492000100616",
     "tikName": "Северо-Эвенская",
+    "regionCode": "49",
+    "regionTvd": "100100021960269",
+    "regionName": "Магаданская область",
     "uikCount": 6,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 2260,
@@ -312,6 +324,9 @@ export const duma_2007_tic_233_region_49 = [
     "ballot": "party",
     "tikTvd": "2492000100617",
     "tikName": "Среднеканская ТИК",
+    "regionCode": "49",
+    "regionTvd": "100100021960269",
+    "regionName": "Магаданская область",
     "uikCount": 4,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 3034,
@@ -370,6 +385,9 @@ export const duma_2007_tic_233_region_49 = [
     "ballot": "party",
     "tikTvd": "2492000100618",
     "tikName": "Сусуманская",
+    "regionCode": "49",
+    "regionTvd": "100100021960269",
+    "regionName": "Магаданская область",
     "uikCount": 10,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 6760,
@@ -434,6 +452,9 @@ export const duma_2007_tic_233_region_49 = [
     "ballot": "party",
     "tikTvd": "2492000100619",
     "tikName": "Тенькинская",
+    "regionCode": "49",
+    "regionTvd": "100100021960269",
+    "regionName": "Магаданская область",
     "uikCount": 9,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 4943,
@@ -497,6 +518,9 @@ export const duma_2007_tic_233_region_49 = [
     "ballot": "party",
     "tikTvd": "2492000100620",
     "tikName": "Хасынская",
+    "regionCode": "49",
+    "regionTvd": "100100021960269",
+    "regionName": "Магаданская область",
     "uikCount": 8,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 6745,
@@ -559,6 +583,9 @@ export const duma_2007_tic_233_region_49 = [
     "ballot": "party",
     "tikTvd": "2492000100621",
     "tikName": "Ягоднинская",
+    "regionCode": "49",
+    "regionTvd": "100100021960269",
+    "regionName": "Магаданская область",
     "uikCount": 9,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 7500,
@@ -622,6 +649,9 @@ export const duma_2007_tic_233_region_49 = [
     "ballot": "party",
     "tikTvd": "2492000100622",
     "tikName": "Арманская",
+    "regionCode": "49",
+    "regionTvd": "100100021960269",
+    "regionName": "Магаданская область",
     "uikCount": 6,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 2508,

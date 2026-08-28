@@ -11,6 +11,14 @@ export const duma_2016_tic_464_region_28 = [
     "ballot": "single-member",
     "tikTvd": "2282000777930",
     "tikName": "Углегорская поселковая",
+    "regionCode": "28",
+    "regionTvd": "100100067795942",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100067795943",
+      "oikName": "Амурская область – Амурский"
+    },
     "uikCount": 3,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 3361,
@@ -63,6 +71,14 @@ export const duma_2016_tic_464_region_28 = [
     "ballot": "single-member",
     "tikTvd": "2282000777931",
     "tikName": "Белогорская городская",
+    "regionCode": "28",
+    "regionTvd": "100100067795942",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100067795943",
+      "oikName": "Амурская область – Амурский"
+    },
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 54830,
@@ -140,6 +156,14 @@ export const duma_2016_tic_464_region_28 = [
     "ballot": "single-member",
     "tikTvd": "2282000777932",
     "tikName": "Октябрьская",
+    "regionCode": "28",
+    "regionTvd": "100100067795942",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100067795943",
+      "oikName": "Амурская область – Амурский"
+    },
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 15513,
@@ -219,6 +243,14 @@ export const duma_2016_tic_464_region_28 = [
     "ballot": "single-member",
     "tikTvd": "2282000777933",
     "tikName": "Серышевская",
+    "regionCode": "28",
+    "regionTvd": "100100067795942",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100067795943",
+      "oikName": "Амурская область – Амурский"
+    },
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 19029,
@@ -305,6 +337,14 @@ export const duma_2016_tic_464_region_28 = [
     "ballot": "single-member",
     "tikTvd": "2282000777934",
     "tikName": "Ивановская",
+    "regionCode": "28",
+    "regionTvd": "100100067795942",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100067795943",
+      "oikName": "Амурская область – Амурский"
+    },
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 19433,
@@ -382,6 +422,14 @@ export const duma_2016_tic_464_region_28 = [
     "ballot": "single-member",
     "tikTvd": "2282000777935",
     "tikName": "Свободненская",
+    "regionCode": "28",
+    "regionTvd": "100100067795942",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100067795943",
+      "oikName": "Амурская область – Амурский"
+    },
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 8983,
@@ -468,6 +516,14 @@ export const duma_2016_tic_464_region_28 = [
     "ballot": "single-member",
     "tikTvd": "2282000777937",
     "tikName": "Благовещенская",
+    "regionCode": "28",
+    "regionTvd": "100100067795942",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100067795943",
+      "oikName": "Амурская область – Амурский"
+    },
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 19767,
@@ -545,6 +601,14 @@ export const duma_2016_tic_464_region_28 = [
     "ballot": "single-member",
     "tikTvd": "2282000777938",
     "tikName": "Шимановская городская",
+    "regionCode": "28",
+    "regionTvd": "100100067795942",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100067795943",
+      "oikName": "Амурская область – Амурский"
+    },
     "uikCount": 11,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 15086,
@@ -605,6 +669,14 @@ export const duma_2016_tic_464_region_28 = [
     "ballot": "single-member",
     "tikTvd": "2282000777939",
     "tikName": "Тамбовская",
+    "regionCode": "28",
+    "regionTvd": "100100067795942",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100067795943",
+      "oikName": "Амурская область – Амурский"
+    },
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 18776,
@@ -683,6 +755,14 @@ export const duma_2016_tic_464_region_28 = [
     "ballot": "single-member",
     "tikTvd": "2282000777940",
     "tikName": "Архаринская",
+    "regionCode": "28",
+    "regionTvd": "100100067795942",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100067795943",
+      "oikName": "Амурская область – Амурский"
+    },
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 13355,
@@ -757,6 +837,14 @@ export const duma_2016_tic_464_region_28 = [
     "ballot": "single-member",
     "tikTvd": "2282000777941",
     "tikName": "Тындинская городская",
+    "regionCode": "28",
+    "regionTvd": "100100067795942",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100067795943",
+      "oikName": "Амурская область – Амурский"
+    },
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 27181,
@@ -832,6 +920,14 @@ export const duma_2016_tic_464_region_28 = [
     "ballot": "single-member",
     "tikTvd": "2282000777942",
     "tikName": "Белогорская",
+    "regionCode": "28",
+    "regionTvd": "100100067795942",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100067795943",
+      "oikName": "Амурская область – Амурский"
+    },
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 14657,
@@ -913,6 +1009,14 @@ export const duma_2016_tic_464_region_28 = [
     "ballot": "single-member",
     "tikTvd": "2282000777943",
     "tikName": "Тындинская",
+    "regionCode": "28",
+    "regionTvd": "100100067795942",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100067795943",
+      "oikName": "Амурская область – Амурский"
+    },
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 10997,
@@ -983,6 +1087,14 @@ export const duma_2016_tic_464_region_28 = [
     "ballot": "single-member",
     "tikTvd": "2282000777946",
     "tikName": "Благовещенская городская",
+    "regionCode": "28",
+    "regionTvd": "100100067795942",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100067795943",
+      "oikName": "Амурская область – Амурский"
+    },
     "uikCount": 109,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 167273,
@@ -1141,6 +1253,14 @@ export const duma_2016_tic_464_region_28 = [
     "ballot": "single-member",
     "tikTvd": "2282000777948",
     "tikName": "Зейская",
+    "regionCode": "28",
+    "regionTvd": "100100067795942",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100067795943",
+      "oikName": "Амурская область – Амурский"
+    },
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 13693,
@@ -1220,6 +1340,14 @@ export const duma_2016_tic_464_region_28 = [
     "ballot": "single-member",
     "tikTvd": "2282000777949",
     "tikName": "Магдагачинская",
+    "regionCode": "28",
+    "regionTvd": "100100067795942",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100067795943",
+      "oikName": "Амурская область – Амурский"
+    },
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 17929,
@@ -1288,6 +1416,14 @@ export const duma_2016_tic_464_region_28 = [
     "ballot": "single-member",
     "tikTvd": "2282000777950",
     "tikName": "Свободненская городская",
+    "regionCode": "28",
+    "regionTvd": "100100067795942",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100067795943",
+      "oikName": "Амурская область – Амурский"
+    },
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 41775,
@@ -1362,6 +1498,14 @@ export const duma_2016_tic_464_region_28 = [
     "ballot": "single-member",
     "tikTvd": "2282000777952",
     "tikName": "Ромненская",
+    "regionCode": "28",
+    "regionTvd": "100100067795942",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100067795943",
+      "oikName": "Амурская область – Амурский"
+    },
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 7824,
@@ -1432,6 +1576,14 @@ export const duma_2016_tic_464_region_28 = [
     "ballot": "single-member",
     "tikTvd": "2282000777953",
     "tikName": "Завитинская",
+    "regionCode": "28",
+    "regionTvd": "100100067795942",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100067795943",
+      "oikName": "Амурская область – Амурский"
+    },
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 13118,
@@ -1503,6 +1655,14 @@ export const duma_2016_tic_464_region_28 = [
     "ballot": "single-member",
     "tikTvd": "2282000777954",
     "tikName": "Михайловская",
+    "regionCode": "28",
+    "regionTvd": "100100067795942",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100067795943",
+      "oikName": "Амурская область – Амурский"
+    },
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 11563,
@@ -1584,6 +1744,14 @@ export const duma_2016_tic_464_region_28 = [
     "ballot": "single-member",
     "tikTvd": "2282000777955",
     "tikName": "Райчихинская городская",
+    "regionCode": "28",
+    "regionTvd": "100100067795942",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100067795943",
+      "oikName": "Амурская область – Амурский"
+    },
     "uikCount": 12,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 17497,
@@ -1645,6 +1813,14 @@ export const duma_2016_tic_464_region_28 = [
     "ballot": "single-member",
     "tikTvd": "2282000777956",
     "tikName": "Зейская городская",
+    "regionCode": "28",
+    "regionTvd": "100100067795942",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100067795943",
+      "oikName": "Амурская область – Амурский"
+    },
     "uikCount": 12,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 19571,
@@ -1706,6 +1882,14 @@ export const duma_2016_tic_464_region_28 = [
     "ballot": "single-member",
     "tikTvd": "2282000777957",
     "tikName": "Мазановская",
+    "regionCode": "28",
+    "regionTvd": "100100067795942",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100067795943",
+      "oikName": "Амурская область – Амурский"
+    },
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 10279,
@@ -1789,6 +1973,14 @@ export const duma_2016_tic_464_region_28 = [
     "ballot": "single-member",
     "tikTvd": "2282000777960",
     "tikName": "Сковородинская",
+    "regionCode": "28",
+    "regionTvd": "100100067795942",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100067795943",
+      "oikName": "Амурская область – Амурский"
+    },
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 21663,
@@ -1862,6 +2054,14 @@ export const duma_2016_tic_464_region_28 = [
     "ballot": "single-member",
     "tikTvd": "2282000777961",
     "tikName": "Селемджинская",
+    "regionCode": "28",
+    "regionTvd": "100100067795942",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100067795943",
+      "oikName": "Амурская область – Амурский"
+    },
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 8627,
@@ -1928,6 +2128,14 @@ export const duma_2016_tic_464_region_28 = [
     "ballot": "single-member",
     "tikTvd": "2282000777963",
     "tikName": "Константиновская",
+    "regionCode": "28",
+    "regionTvd": "100100067795942",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100067795943",
+      "oikName": "Амурская область – Амурский"
+    },
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 10920,
@@ -1995,6 +2203,14 @@ export const duma_2016_tic_464_region_28 = [
     "ballot": "single-member",
     "tikTvd": "2282000777964",
     "tikName": "Бурейская",
+    "regionCode": "28",
+    "regionTvd": "100100067795942",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100067795943",
+      "oikName": "Амурская область – Амурский"
+    },
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 19343,
@@ -2070,6 +2286,14 @@ export const duma_2016_tic_464_region_28 = [
     "ballot": "single-member",
     "tikTvd": "2282000777965",
     "tikName": "рабочего поселка (п.г.т.) Прогресс",
+    "regionCode": "28",
+    "regionTvd": "100100067795942",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100067795943",
+      "oikName": "Амурская область – Амурский"
+    },
     "uikCount": 10,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 11493,
@@ -2129,6 +2353,14 @@ export const duma_2016_tic_464_region_28 = [
     "ballot": "single-member",
     "tikTvd": "2282000777969",
     "tikName": "Шимановская",
+    "regionCode": "28",
+    "regionTvd": "100100067795942",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100067795943",
+      "oikName": "Амурская область – Амурский"
+    },
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 4741,

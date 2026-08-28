@@ -11,6 +11,9 @@ export const duma_2011_tic_233_region_54 = [
     "ballot": "party",
     "tikTvd": "2542000384490",
     "tikName": "Новосибирск, Железнодорожная ",
+    "regionCode": "54",
+    "regionTvd": "100100028713407",
+    "regionName": "Новосибирская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 50005,
@@ -82,6 +85,9 @@ export const duma_2011_tic_233_region_54 = [
     "ballot": "party",
     "tikTvd": "2542000384491",
     "tikName": "Новосибирск, Кировская ",
+    "regionCode": "54",
+    "regionTvd": "100100028713407",
+    "regionName": "Новосибирская область",
     "uikCount": 61,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 135110,
@@ -192,6 +198,9 @@ export const duma_2011_tic_233_region_54 = [
     "ballot": "party",
     "tikTvd": "2542000384492",
     "tikName": "Новосибирск, Ленинская ",
+    "regionCode": "54",
+    "regionTvd": "100100028713407",
+    "regionName": "Новосибирская область",
     "uikCount": 108,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 219617,
@@ -349,6 +358,9 @@ export const duma_2011_tic_233_region_54 = [
     "ballot": "party",
     "tikTvd": "2542000384493",
     "tikName": "Новосибирск, Октябрьская ",
+    "regionCode": "54",
+    "regionTvd": "100100028713407",
+    "regionName": "Новосибирская область",
     "uikCount": 78,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 162380,
@@ -476,6 +488,9 @@ export const duma_2011_tic_233_region_54 = [
     "ballot": "party",
     "tikTvd": "2542000384494",
     "tikName": "Новосибирск, Первомайская ",
+    "regionCode": "54",
+    "regionTvd": "100100028713407",
+    "regionName": "Новосибирская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 56358,
@@ -555,6 +570,9 @@ export const duma_2011_tic_233_region_54 = [
     "ballot": "party",
     "tikTvd": "2542000384495",
     "tikName": "Новосибирск, Советская  ",
+    "regionCode": "54",
+    "regionTvd": "100100028713407",
+    "regionName": "Новосибирская область",
     "uikCount": 55,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 105681,
@@ -659,6 +677,9 @@ export const duma_2011_tic_233_region_54 = [
     "ballot": "party",
     "tikTvd": "2542000384538",
     "tikName": "Бердская  городская",
+    "regionCode": "54",
+    "regionTvd": "100100028713407",
+    "regionName": "Новосибирская область",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 76845,
@@ -749,6 +770,9 @@ export const duma_2011_tic_233_region_54 = [
     "ballot": "party",
     "tikTvd": "2542000384539",
     "tikName": "Новосибирск, Дзержинская  ",
+    "regionCode": "54",
+    "regionTvd": "100100028713407",
+    "regionName": "Новосибирская область",
     "uikCount": 74,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 120570,
@@ -872,6 +896,9 @@ export const duma_2011_tic_233_region_54 = [
     "ballot": "party",
     "tikTvd": "2542000384540",
     "tikName": "Новосибирск, Заельцовская ",
+    "regionCode": "54",
+    "regionTvd": "100100028713407",
+    "regionName": "Новосибирская область",
     "uikCount": 65,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 111418,
@@ -986,6 +1013,9 @@ export const duma_2011_tic_233_region_54 = [
     "ballot": "party",
     "tikTvd": "2542000384541",
     "tikName": "Новосибирск, Калининская  ",
+    "regionCode": "54",
+    "regionTvd": "100100028713407",
+    "regionName": "Новосибирская область",
     "uikCount": 65,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 146162,
@@ -1100,6 +1130,9 @@ export const duma_2011_tic_233_region_54 = [
     "ballot": "party",
     "tikTvd": "2542000384542",
     "tikName": "Новосибирск, Центральная  ",
+    "regionCode": "54",
+    "regionTvd": "100100028713407",
+    "regionName": "Новосибирская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 58909,
@@ -1183,6 +1216,9 @@ export const duma_2011_tic_233_region_54 = [
     "ballot": "party",
     "tikTvd": "2542000384543",
     "tikName": "Обская городская  ",
+    "regionCode": "54",
+    "regionTvd": "100100028713407",
+    "regionName": "Новосибирская область",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 20948,
@@ -1245,6 +1281,9 @@ export const duma_2011_tic_233_region_54 = [
     "ballot": "party",
     "tikTvd": "2542000384544",
     "tikName": "Мошковская",
+    "regionCode": "54",
+    "regionTvd": "100100028713407",
+    "regionName": "Новосибирская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 31551,
@@ -1334,6 +1373,9 @@ export const duma_2011_tic_233_region_54 = [
     "ballot": "party",
     "tikTvd": "2542000384545",
     "tikName": "Новосибирская ",
+    "regionCode": "54",
+    "regionTvd": "100100028713407",
+    "regionName": "Новосибирская область",
     "uikCount": 67,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 89914,
@@ -1450,6 +1492,9 @@ export const duma_2011_tic_233_region_54 = [
     "ballot": "party",
     "tikTvd": "2542000384546",
     "tikName": "Тогучинская ",
+    "regionCode": "54",
+    "regionTvd": "100100028713407",
+    "regionName": "Новосибирская область",
     "uikCount": 66,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 46085,
@@ -1565,6 +1610,9 @@ export const duma_2011_tic_233_region_54 = [
     "ballot": "party",
     "tikTvd": "2542000384547",
     "tikName": "р.п. Кольцово ",
+    "regionCode": "54",
+    "regionTvd": "100100028713407",
+    "regionName": "Новосибирская область",
     "uikCount": 5,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 10214,
@@ -1619,6 +1667,9 @@ export const duma_2011_tic_233_region_54 = [
     "ballot": "party",
     "tikTvd": "2542000384548",
     "tikName": "Болотнинская",
+    "regionCode": "54",
+    "regionTvd": "100100028713407",
+    "regionName": "Новосибирская область",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 23364,
@@ -1707,6 +1758,9 @@ export const duma_2011_tic_233_region_54 = [
     "ballot": "party",
     "tikTvd": "2542000384549",
     "tikName": "Венгеровская  ",
+    "regionCode": "54",
+    "regionTvd": "100100028713407",
+    "regionName": "Новосибирская область",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 16154,
@@ -1798,6 +1852,9 @@ export const duma_2011_tic_233_region_54 = [
     "ballot": "party",
     "tikTvd": "2542000384550",
     "tikName": "Баганская ",
+    "regionCode": "54",
+    "regionTvd": "100100028713407",
+    "regionName": "Новосибирская область",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 12964,
@@ -1888,6 +1945,9 @@ export const duma_2011_tic_233_region_54 = [
     "ballot": "party",
     "tikTvd": "2542000384551",
     "tikName": "Барабинская  ",
+    "regionCode": "54",
+    "regionTvd": "100100028713407",
+    "regionName": "Новосибирская область",
     "uikCount": 64,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 36236,
@@ -2001,6 +2061,9 @@ export const duma_2011_tic_233_region_54 = [
     "ballot": "party",
     "tikTvd": "2542000384552",
     "tikName": "Краснозерская ",
+    "regionCode": "54",
+    "regionTvd": "100100028713407",
+    "regionName": "Новосибирская область",
     "uikCount": 52,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 28372,
@@ -2102,6 +2165,9 @@ export const duma_2011_tic_233_region_54 = [
     "ballot": "party",
     "tikTvd": "2542000384553",
     "tikName": "Кочковская  ",
+    "regionCode": "54",
+    "regionTvd": "100100028713407",
+    "regionName": "Новосибирская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 12257,
@@ -2166,6 +2232,9 @@ export const duma_2011_tic_233_region_54 = [
     "ballot": "party",
     "tikTvd": "2542000384554",
     "tikName": "Коченевская",
+    "regionCode": "54",
+    "regionTvd": "100100028713407",
+    "regionName": "Новосибирская область",
     "uikCount": 55,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 35553,
@@ -2270,6 +2339,9 @@ export const duma_2011_tic_233_region_54 = [
     "ballot": "party",
     "tikTvd": "2542000384555",
     "tikName": "Искитимская  ",
+    "regionCode": "54",
+    "regionTvd": "100100028713407",
+    "regionName": "Новосибирская область",
     "uikCount": 80,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 50338,
@@ -2399,6 +2471,9 @@ export const duma_2011_tic_233_region_54 = [
     "ballot": "party",
     "tikTvd": "2542000384556",
     "tikName": "Колыванская ",
+    "regionCode": "54",
+    "regionTvd": "100100028713407",
+    "regionName": "Новосибирская область",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 19705,
@@ -2483,6 +2558,9 @@ export const duma_2011_tic_233_region_54 = [
     "ballot": "party",
     "tikTvd": "2542000384557",
     "tikName": "Каргатская  ",
+    "regionCode": "54",
+    "regionTvd": "100100028713407",
+    "regionName": "Новосибирская область",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 16432,
@@ -2570,6 +2648,9 @@ export const duma_2011_tic_233_region_54 = [
     "ballot": "party",
     "tikTvd": "2542000384558",
     "tikName": "Искитимская городская  ",
+    "regionCode": "54",
+    "regionTvd": "100100028713407",
+    "regionName": "Новосибирская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 48939,
@@ -2650,6 +2731,9 @@ export const duma_2011_tic_233_region_54 = [
     "ballot": "party",
     "tikTvd": "2542000384559",
     "tikName": "Кыштовская ",
+    "regionCode": "54",
+    "regionTvd": "100100028713407",
+    "regionName": "Новосибирская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 10193,
@@ -2733,6 +2817,9 @@ export const duma_2011_tic_233_region_54 = [
     "ballot": "party",
     "tikTvd": "2542000384560",
     "tikName": "Сузунская  ",
+    "regionCode": "54",
+    "regionTvd": "100100028713407",
+    "regionName": "Новосибирская область",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 26465,
@@ -2817,6 +2904,9 @@ export const duma_2011_tic_233_region_54 = [
     "ballot": "party",
     "tikTvd": "2542000384561",
     "tikName": "Маслянинская ",
+    "regionCode": "54",
+    "regionTvd": "100100028713407",
+    "regionName": "Новосибирская область",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 21244,
@@ -2903,6 +2993,9 @@ export const duma_2011_tic_233_region_54 = [
     "ballot": "party",
     "tikTvd": "2542000384562",
     "tikName": "Северная ",
+    "regionCode": "54",
+    "regionTvd": "100100028713407",
+    "regionName": "Новосибирская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 8519,
@@ -2973,6 +3066,9 @@ export const duma_2011_tic_233_region_54 = [
     "ballot": "party",
     "tikTvd": "2542000384563",
     "tikName": "Ордынская ",
+    "regionCode": "54",
+    "regionTvd": "100100028713407",
+    "regionName": "Новосибирская область",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 30716,
@@ -3060,6 +3156,9 @@ export const duma_2011_tic_233_region_54 = [
     "ballot": "party",
     "tikTvd": "2542000384564",
     "tikName": "Татарская ",
+    "regionCode": "54",
+    "regionTvd": "100100028713407",
+    "regionName": "Новосибирская область",
     "uikCount": 69,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 32571,
@@ -3178,6 +3277,9 @@ export const duma_2011_tic_233_region_54 = [
     "ballot": "party",
     "tikTvd": "2542000384565",
     "tikName": "Куйбышевская  ",
+    "regionCode": "54",
+    "regionTvd": "100100028713407",
+    "regionName": "Новосибирская область",
     "uikCount": 55,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 48341,
@@ -3282,6 +3384,9 @@ export const duma_2011_tic_233_region_54 = [
     "ballot": "party",
     "tikTvd": "2542000384566",
     "tikName": "Чистоозерная ",
+    "regionCode": "54",
+    "regionTvd": "100100028713407",
+    "regionName": "Новосибирская область",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 14858,
@@ -3374,6 +3479,9 @@ export const duma_2011_tic_233_region_54 = [
     "ballot": "party",
     "tikTvd": "2542000384567",
     "tikName": "Убинская ",
+    "regionCode": "54",
+    "regionTvd": "100100028713407",
+    "regionName": "Новосибирская область",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 13314,
@@ -3458,6 +3566,9 @@ export const duma_2011_tic_233_region_54 = [
     "ballot": "party",
     "tikTvd": "2542000384568",
     "tikName": "Чановская ",
+    "regionCode": "54",
+    "regionTvd": "100100028713407",
+    "regionName": "Новосибирская область",
     "uikCount": 58,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 20469,
@@ -3565,6 +3676,9 @@ export const duma_2011_tic_233_region_54 = [
     "ballot": "party",
     "tikTvd": "2542000384569",
     "tikName": "Усть-Таркская ",
+    "regionCode": "54",
+    "regionTvd": "100100028713407",
+    "regionName": "Новосибирская область",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 9802,
@@ -3652,6 +3766,9 @@ export const duma_2011_tic_233_region_54 = [
     "ballot": "party",
     "tikTvd": "2542000384570",
     "tikName": "Черепановская ",
+    "regionCode": "54",
+    "regionTvd": "100100028713407",
+    "regionName": "Новосибирская область",
     "uikCount": 56,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 39547,
@@ -3757,6 +3874,9 @@ export const duma_2011_tic_233_region_54 = [
     "ballot": "party",
     "tikTvd": "2542000384571",
     "tikName": "Здвинская  ",
+    "regionCode": "54",
+    "regionTvd": "100100028713407",
+    "regionName": "Новосибирская область",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 13149,
@@ -3839,6 +3959,9 @@ export const duma_2011_tic_233_region_54 = [
     "ballot": "party",
     "tikTvd": "2542000384572",
     "tikName": "Доволенская  ",
+    "regionCode": "54",
+    "regionTvd": "100100028713407",
+    "regionName": "Новосибирская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 14733,
@@ -3918,6 +4041,9 @@ export const duma_2011_tic_233_region_54 = [
     "ballot": "party",
     "tikTvd": "2542000384573",
     "tikName": "Купинская   ",
+    "regionCode": "54",
+    "regionTvd": "100100028713407",
+    "regionName": "Новосибирская область",
     "uikCount": 52,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 25168,
@@ -4019,6 +4145,9 @@ export const duma_2011_tic_233_region_54 = [
     "ballot": "party",
     "tikTvd": "2542000384574",
     "tikName": "Карасукская ",
+    "regionCode": "54",
+    "regionTvd": "100100028713407",
+    "regionName": "Новосибирская область",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 33538,
@@ -4118,6 +4247,9 @@ export const duma_2011_tic_233_region_54 = [
     "ballot": "party",
     "tikTvd": "2542000384575",
     "tikName": "Чулымская ",
+    "regionCode": "54",
+    "regionTvd": "100100028713407",
+    "regionName": "Новосибирская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 19856,

@@ -11,6 +11,9 @@ export const president_2004_tic_227_region_2 = [
     "ballot": "presidential",
     "tikTvd": "204200069981",
     "tikName": "Шебалинская",
+    "regionCode": "2",
+    "regionTvd": "1001000883019",
+    "regionName": "Республика Алтай",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список": 9884,
@@ -81,6 +84,9 @@ export const president_2004_tic_227_region_2 = [
     "ballot": "presidential",
     "tikTvd": "204200069982",
     "tikName": "Чойская",
+    "regionCode": "2",
+    "regionTvd": "1001000883019",
+    "regionName": "Республика Алтай",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в список": 6419,
@@ -145,6 +151,9 @@ export const president_2004_tic_227_region_2 = [
     "ballot": "presidential",
     "tikTvd": "204200069983",
     "tikName": "Чемальская",
+    "regionCode": "2",
+    "regionTvd": "1001000883019",
+    "regionName": "Республика Алтай",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список": 6402,
@@ -215,6 +224,9 @@ export const president_2004_tic_227_region_2 = [
     "ballot": "presidential",
     "tikTvd": "204200069984",
     "tikName": "Усть-Коксинская",
+    "regionCode": "2",
+    "regionTvd": "1001000883019",
+    "regionName": "Республика Алтай",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в список": 11591,
@@ -293,6 +305,9 @@ export const president_2004_tic_227_region_2 = [
     "ballot": "presidential",
     "tikTvd": "204200069985",
     "tikName": "Усть-Канская",
+    "regionCode": "2",
+    "regionTvd": "1001000883019",
+    "regionName": "Республика Алтай",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список": 10021,
@@ -365,6 +380,9 @@ export const president_2004_tic_227_region_2 = [
     "ballot": "presidential",
     "tikTvd": "204200069986",
     "tikName": "Улаганская",
+    "regionCode": "2",
+    "regionTvd": "1001000883019",
+    "regionName": "Республика Алтай",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, внесенных в список": 7319,
@@ -424,6 +442,9 @@ export const president_2004_tic_227_region_2 = [
     "ballot": "presidential",
     "tikTvd": "204200069987",
     "tikName": "Турочакская",
+    "regionCode": "2",
+    "regionTvd": "1001000883019",
+    "regionName": "Республика Алтай",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список": 9126,
@@ -494,6 +515,9 @@ export const president_2004_tic_227_region_2 = [
     "ballot": "presidential",
     "tikTvd": "204200069988",
     "tikName": "Онгудайская",
+    "regionCode": "2",
+    "regionTvd": "1001000883019",
+    "regionName": "Республика Алтай",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список": 10648,
@@ -568,6 +592,9 @@ export const president_2004_tic_227_region_2 = [
     "ballot": "presidential",
     "tikTvd": "204200069989",
     "tikName": "Майминская",
+    "regionCode": "2",
+    "regionTvd": "1001000883019",
+    "regionName": "Республика Алтай",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список": 18856,
@@ -645,6 +672,9 @@ export const president_2004_tic_227_region_2 = [
     "ballot": "presidential",
     "tikTvd": "204200069990",
     "tikName": "Кош-Агачская",
+    "regionCode": "2",
+    "regionTvd": "1001000883019",
+    "regionName": "Республика Алтай",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в список": 10610,
@@ -709,6 +739,9 @@ export const president_2004_tic_227_region_2 = [
     "ballot": "presidential",
     "tikTvd": "204200069991",
     "tikName": "Горно-Алтайская городская",
+    "regionCode": "2",
+    "regionTvd": "1001000883019",
+    "regionName": "Республика Алтай",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список": 39170,

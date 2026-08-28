@@ -11,6 +11,9 @@ export const president_2004_tic_227_region_64 = [
     "ballot": "presidential",
     "tikTvd": "264200083076",
     "tikName": "Ивантеевская",
+    "regionCode": "64",
+    "regionTvd": "1001000883013",
+    "regionName": "Саратовская область",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в список": 12401,
@@ -75,6 +78,9 @@ export const president_2004_tic_227_region_64 = [
     "ballot": "presidential",
     "tikTvd": "264200083077",
     "tikName": "Ершовская",
+    "regionCode": "64",
+    "regionTvd": "1001000883013",
+    "regionName": "Саратовская область",
     "uikCount": 57,
     "accounting": {
       "Число избирателей, внесенных в список": 38202,
@@ -180,6 +186,9 @@ export const president_2004_tic_227_region_64 = [
     "ballot": "presidential",
     "tikTvd": "264200083078",
     "tikName": "Екатериновская",
+    "regionCode": "64",
+    "regionTvd": "1001000883013",
+    "regionName": "Саратовская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список": 16279,
@@ -256,6 +265,9 @@ export const president_2004_tic_227_region_64 = [
     "ballot": "presidential",
     "tikTvd": "264200083079",
     "tikName": "Духовницкая",
+    "regionCode": "64",
+    "regionTvd": "1001000883013",
+    "regionName": "Саратовская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список": 11546,
@@ -326,6 +338,9 @@ export const president_2004_tic_227_region_64 = [
     "ballot": "presidential",
     "tikTvd": "264200083080",
     "tikName": "Дергачевская",
+    "regionCode": "64",
+    "regionTvd": "1001000883013",
+    "regionName": "Саратовская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список": 19889,
@@ -403,6 +418,9 @@ export const president_2004_tic_227_region_64 = [
     "ballot": "presidential",
     "tikTvd": "264200083081",
     "tikName": "Воскресенская",
+    "regionCode": "64",
+    "regionTvd": "1001000883013",
+    "regionName": "Саратовская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список": 8844,
@@ -470,6 +488,9 @@ export const president_2004_tic_227_region_64 = [
     "ballot": "presidential",
     "tikTvd": "264200083082",
     "tikName": "Балашовская",
+    "regionCode": "64",
+    "regionTvd": "1001000883013",
+    "regionName": "Саратовская область",
     "uikCount": 92,
     "accounting": {
       "Число избирателей, внесенных в список": 97414,
@@ -610,6 +631,9 @@ export const president_2004_tic_227_region_64 = [
     "ballot": "presidential",
     "tikTvd": "264200083083",
     "tikName": "Балтайская",
+    "regionCode": "64",
+    "regionTvd": "1001000883013",
+    "regionName": "Саратовская область",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в список": 10189,
@@ -675,6 +699,9 @@ export const president_2004_tic_227_region_64 = [
     "ballot": "presidential",
     "tikTvd": "264200083084",
     "tikName": "Вольская",
+    "regionCode": "64",
+    "regionTvd": "1001000883013",
+    "regionName": "Саратовская область",
     "uikCount": 85,
     "accounting": {
       "Число избирателей, внесенных в список": 77000,
@@ -808,6 +835,9 @@ export const president_2004_tic_227_region_64 = [
     "ballot": "presidential",
     "tikTvd": "264200083085",
     "tikName": "Петровская",
+    "regionCode": "64",
+    "regionTvd": "1001000883013",
+    "regionName": "Саратовская область",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в список": 38821,
@@ -891,6 +921,9 @@ export const president_2004_tic_227_region_64 = [
     "ballot": "presidential",
     "tikTvd": "264200083086",
     "tikName": "Питерская",
+    "regionCode": "64",
+    "regionTvd": "1001000883013",
+    "regionName": "Саратовская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список": 13952,
@@ -961,6 +994,9 @@ export const president_2004_tic_227_region_64 = [
     "ballot": "presidential",
     "tikTvd": "264200083087",
     "tikName": "Балаковская",
+    "regionCode": "64",
+    "regionTvd": "1001000883013",
+    "regionName": "Саратовская область",
     "uikCount": 98,
     "accounting": {
       "Число избирателей, внесенных в список": 173218,
@@ -1107,6 +1143,9 @@ export const president_2004_tic_227_region_64 = [
     "ballot": "presidential",
     "tikTvd": "264200083088",
     "tikName": "Базарно-Карабулакская",
+    "regionCode": "64",
+    "regionTvd": "1001000883013",
+    "regionName": "Саратовская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в список": 27401,
@@ -1185,6 +1224,9 @@ export const president_2004_tic_227_region_64 = [
     "ballot": "presidential",
     "tikTvd": "264200083089",
     "tikName": "Новоузенская",
+    "regionCode": "64",
+    "regionTvd": "1001000883013",
+    "regionName": "Саратовская область",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, внесенных в список": 24188,
@@ -1276,6 +1318,9 @@ export const president_2004_tic_227_region_64 = [
     "ballot": "presidential",
     "tikTvd": "264200083090",
     "tikName": "Перелюбская",
+    "regionCode": "64",
+    "regionTvd": "1001000883013",
+    "regionName": "Саратовская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список": 12930,
@@ -1343,6 +1388,9 @@ export const president_2004_tic_227_region_64 = [
     "ballot": "presidential",
     "tikTvd": "264200083091",
     "tikName": "Озинская",
+    "regionCode": "64",
+    "regionTvd": "1001000883013",
+    "regionName": "Саратовская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список": 16712,
@@ -1416,6 +1464,9 @@ export const president_2004_tic_227_region_64 = [
     "ballot": "presidential",
     "tikTvd": "264200083092",
     "tikName": "Марксовская",
+    "regionCode": "64",
+    "regionTvd": "1001000883013",
+    "regionName": "Саратовская область",
     "uikCount": 52,
     "accounting": {
       "Число избирателей, внесенных в список": 46179,
@@ -1516,6 +1567,9 @@ export const president_2004_tic_227_region_64 = [
     "ballot": "presidential",
     "tikTvd": "264200083093",
     "tikName": "Новобурасская",
+    "regionCode": "64",
+    "regionTvd": "1001000883013",
+    "regionName": "Саратовская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список": 13097,
@@ -1587,6 +1641,9 @@ export const president_2004_tic_227_region_64 = [
     "ballot": "presidential",
     "tikTvd": "264200083094",
     "tikName": "Лысогорская",
+    "regionCode": "64",
+    "regionTvd": "1001000883013",
+    "regionName": "Саратовская область",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список": 15576,
@@ -1662,6 +1719,9 @@ export const president_2004_tic_227_region_64 = [
     "ballot": "presidential",
     "tikTvd": "264200083095",
     "tikName": "Краснокутская",
+    "regionCode": "64",
+    "regionTvd": "1001000883013",
+    "regionName": "Саратовская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в список": 27173,
@@ -1741,6 +1801,9 @@ export const president_2004_tic_227_region_64 = [
     "ballot": "presidential",
     "tikTvd": "264200083096",
     "tikName": "Краснопартизанская",
+    "regionCode": "64",
+    "regionTvd": "1001000883013",
+    "regionName": "Саратовская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список": 14786,
@@ -1808,6 +1871,9 @@ export const president_2004_tic_227_region_64 = [
     "ballot": "presidential",
     "tikTvd": "264200083097",
     "tikName": "Красноармейская",
+    "regionCode": "64",
+    "regionTvd": "1001000883013",
+    "regionName": "Саратовская область",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, внесенных в список": 34820,
@@ -1899,6 +1965,9 @@ export const president_2004_tic_227_region_64 = [
     "ballot": "presidential",
     "tikTvd": "264200083098",
     "tikName": "Саратов, Октябрьская",
+    "regionCode": "64",
+    "regionTvd": "1001000883013",
+    "regionName": "Саратовская область",
     "uikCount": 60,
     "accounting": {
       "Число избирателей, внесенных в список": 99130,
@@ -2007,6 +2076,9 @@ export const president_2004_tic_227_region_64 = [
     "ballot": "presidential",
     "tikTvd": "264200083099",
     "tikName": "Саратов, Фрунзенская",
+    "regionCode": "64",
+    "regionTvd": "1001000883013",
+    "regionName": "Саратовская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список": 38644,
@@ -2081,6 +2153,9 @@ export const president_2004_tic_227_region_64 = [
     "ballot": "presidential",
     "tikTvd": "264200083100",
     "tikName": "Калининская",
+    "regionCode": "64",
+    "regionTvd": "1001000883013",
+    "regionName": "Саратовская область",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, внесенных в список": 30598,
@@ -2173,6 +2248,9 @@ export const president_2004_tic_227_region_64 = [
     "ballot": "presidential",
     "tikTvd": "264200083101",
     "tikName": "Саратов, Заводская",
+    "regionCode": "64",
+    "regionTvd": "1001000883013",
+    "regionName": "Саратовская область",
     "uikCount": 75,
     "accounting": {
       "Число избирателей, внесенных в список": 152905,
@@ -2296,6 +2374,9 @@ export const president_2004_tic_227_region_64 = [
     "ballot": "presidential",
     "tikTvd": "264200083102",
     "tikName": "Саратов, Кировская",
+    "regionCode": "64",
+    "regionTvd": "1001000883013",
+    "regionName": "Саратовская область",
     "uikCount": 62,
     "accounting": {
       "Число избирателей, внесенных в список": 113563,
@@ -2406,6 +2487,9 @@ export const president_2004_tic_227_region_64 = [
     "ballot": "presidential",
     "tikTvd": "264200083103",
     "tikName": "Саратов, Ленинская",
+    "regionCode": "64",
+    "regionTvd": "1001000883013",
+    "regionName": "Саратовская область",
     "uikCount": 105,
     "accounting": {
       "Число избирателей, внесенных в список": 188584,
@@ -2559,6 +2643,9 @@ export const president_2004_tic_227_region_64 = [
     "ballot": "presidential",
     "tikTvd": "264200083104",
     "tikName": "Саратов, Волжская",
+    "regionCode": "64",
+    "regionTvd": "1001000883013",
+    "regionName": "Саратовская область",
     "uikCount": 52,
     "accounting": {
       "Число избирателей, внесенных в список": 64859,
@@ -2659,6 +2746,9 @@ export const president_2004_tic_227_region_64 = [
     "ballot": "presidential",
     "tikTvd": "264200083105",
     "tikName": "Ртищевская",
+    "regionCode": "64",
+    "regionTvd": "1001000883013",
+    "regionName": "Саратовская область",
     "uikCount": 53,
     "accounting": {
       "Число избирателей, внесенных в список": 49959,
@@ -2760,6 +2850,9 @@ export const president_2004_tic_227_region_64 = [
     "ballot": "presidential",
     "tikTvd": "264200083106",
     "tikName": "Самойловская",
+    "regionCode": "64",
+    "regionTvd": "1001000883013",
+    "regionName": "Саратовская область",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в список": 18520,
@@ -2845,6 +2938,9 @@ export const president_2004_tic_227_region_64 = [
     "ballot": "presidential",
     "tikTvd": "264200083107",
     "tikName": "Романовская",
+    "regionCode": "64",
+    "regionTvd": "1001000883013",
+    "regionName": "Саратовская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список": 13444,
@@ -2914,6 +3010,9 @@ export const president_2004_tic_227_region_64 = [
     "ballot": "presidential",
     "tikTvd": "264200083108",
     "tikName": "Ровенская",
+    "regionCode": "64",
+    "regionTvd": "1001000883013",
+    "regionName": "Саратовская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список": 12306,
@@ -2983,6 +3082,9 @@ export const president_2004_tic_227_region_64 = [
     "ballot": "presidential",
     "tikTvd": "264200083109",
     "tikName": "Пугачевская",
+    "regionCode": "64",
+    "regionTvd": "1001000883013",
+    "regionName": "Саратовская область",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, внесенных в список": 46859,
@@ -3077,6 +3179,9 @@ export const president_2004_tic_227_region_64 = [
     "ballot": "presidential",
     "tikTvd": "264200083110",
     "tikName": "Энгельсская",
+    "regionCode": "64",
+    "regionTvd": "1001000883013",
+    "regionName": "Саратовская область",
     "uikCount": 130,
     "accounting": {
       "Число избирателей, внесенных в список": 203755,
@@ -3255,6 +3360,9 @@ export const president_2004_tic_227_region_64 = [
     "ballot": "presidential",
     "tikTvd": "264200083111",
     "tikName": "Хвалынская",
+    "regionCode": "64",
+    "regionTvd": "1001000883013",
+    "regionName": "Саратовская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список": 20626,
@@ -3327,6 +3435,9 @@ export const president_2004_tic_227_region_64 = [
     "ballot": "presidential",
     "tikTvd": "264200083112",
     "tikName": "Шиханская городская",
+    "regionCode": "64",
+    "regionTvd": "1001000883013",
+    "regionName": "Саратовская область",
     "uikCount": 3,
     "accounting": {
       "Число избирателей, внесенных в список": 5614,
@@ -3378,6 +3489,9 @@ export const president_2004_tic_227_region_64 = [
     "ballot": "presidential",
     "tikTvd": "264200083113",
     "tikName": "Федоровская",
+    "regionCode": "64",
+    "regionTvd": "1001000883013",
+    "regionName": "Саратовская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список": 16636,
@@ -3450,6 +3564,9 @@ export const president_2004_tic_227_region_64 = [
     "ballot": "presidential",
     "tikTvd": "264200083114",
     "tikName": "Светловская поселковая",
+    "regionCode": "64",
+    "regionTvd": "1001000883013",
+    "regionName": "Саратовская область",
     "uikCount": 4,
     "accounting": {
       "Число избирателей, внесенных в список": 10170,
@@ -3502,6 +3619,9 @@ export const president_2004_tic_227_region_64 = [
     "ballot": "presidential",
     "tikTvd": "264200083115",
     "tikName": "Турковская",
+    "regionCode": "64",
+    "regionTvd": "1001000883013",
+    "regionName": "Саратовская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список": 12115,
@@ -3569,6 +3689,9 @@ export const president_2004_tic_227_region_64 = [
     "ballot": "presidential",
     "tikTvd": "264200083116",
     "tikName": "Советская",
+    "regionCode": "64",
+    "regionTvd": "1001000883013",
+    "regionName": "Саратовская область",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в список": 22363,
@@ -3634,6 +3757,9 @@ export const president_2004_tic_227_region_64 = [
     "ballot": "presidential",
     "tikTvd": "264200083117",
     "tikName": "Саратовская",
+    "regionCode": "64",
+    "regionTvd": "1001000883013",
+    "regionName": "Саратовская область",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, внесенных в список": 34760,
@@ -3723,6 +3849,9 @@ export const president_2004_tic_227_region_64 = [
     "ballot": "presidential",
     "tikTvd": "264200083118",
     "tikName": "Татищевская",
+    "regionCode": "64",
+    "regionTvd": "1001000883013",
+    "regionName": "Саратовская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в список": 21569,
@@ -3801,6 +3930,9 @@ export const president_2004_tic_227_region_64 = [
     "ballot": "presidential",
     "tikTvd": "264200083119",
     "tikName": "Аткарская",
+    "regionCode": "64",
+    "regionTvd": "1001000883013",
+    "regionName": "Саратовская область",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в список": 34917,
@@ -3886,6 +4018,9 @@ export const president_2004_tic_227_region_64 = [
     "ballot": "presidential",
     "tikTvd": "264200083120",
     "tikName": "Аркадакская",
+    "regionCode": "64",
+    "regionTvd": "1001000883013",
+    "regionName": "Саратовская область",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в список": 23109,
@@ -3972,6 +4107,9 @@ export const president_2004_tic_227_region_64 = [
     "ballot": "presidential",
     "tikTvd": "264200083121",
     "tikName": "Александрово-Гайская",
+    "regionCode": "64",
+    "regionTvd": "1001000883013",
+    "regionName": "Саратовская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список": 11298,

@@ -11,6 +11,9 @@ export const president_2012_tic_227_region_12 = [
     "ballot": "presidential",
     "tikTvd": "2122000282784",
     "tikName": "Горномарийская районная",
+    "regionCode": "12",
+    "regionTvd": "100100031793881",
+    "regionName": "Республика Марий Эл",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 17698,
@@ -99,6 +102,9 @@ export const president_2012_tic_227_region_12 = [
     "ballot": "presidential",
     "tikTvd": "2122000282785",
     "tikName": "Волжская городская",
+    "regionCode": "12",
+    "regionTvd": "100100031793881",
+    "regionName": "Республика Марий Эл",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 46027,
@@ -176,6 +182,9 @@ export const president_2012_tic_227_region_12 = [
     "ballot": "presidential",
     "tikTvd": "2122000282786",
     "tikName": "Волжская районная",
+    "regionCode": "12",
+    "regionTvd": "100100031793881",
+    "regionName": "Республика Марий Эл",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 17404,
@@ -247,6 +256,9 @@ export const president_2012_tic_227_region_12 = [
     "ballot": "presidential",
     "tikTvd": "2122000282787",
     "tikName": "Звениговская районная",
+    "regionCode": "12",
+    "regionTvd": "100100031793881",
+    "regionName": "Республика Марий Эл",
     "uikCount": 48,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 32509,
@@ -342,6 +354,9 @@ export const president_2012_tic_227_region_12 = [
     "ballot": "presidential",
     "tikTvd": "2122000282788",
     "tikName": "Йошкар-Олинская городская № 1",
+    "regionCode": "12",
+    "regionTvd": "100100031793881",
+    "regionName": "Республика Марий Эл",
     "uikCount": 63,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 108618,
@@ -452,6 +467,9 @@ export const president_2012_tic_227_region_12 = [
     "ballot": "presidential",
     "tikTvd": "2122000282789",
     "tikName": "Килемарская районная",
+    "regionCode": "12",
+    "regionTvd": "100100031793881",
+    "regionName": "Республика Марий Эл",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9683,
@@ -516,6 +534,9 @@ export const president_2012_tic_227_region_12 = [
     "ballot": "presidential",
     "tikTvd": "2122000282790",
     "tikName": "Козьмодемьянская городская",
+    "regionCode": "12",
+    "regionTvd": "100100031793881",
+    "regionName": "Республика Марий Эл",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 16939,
@@ -581,6 +602,9 @@ export const president_2012_tic_227_region_12 = [
     "ballot": "presidential",
     "tikTvd": "2122000282791",
     "tikName": "Мари-Турекская районная",
+    "regionCode": "12",
+    "regionTvd": "100100031793881",
+    "regionName": "Республика Марий Эл",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 17557,
@@ -655,6 +679,9 @@ export const president_2012_tic_227_region_12 = [
     "ballot": "presidential",
     "tikTvd": "2122000282792",
     "tikName": "Медведевская районная",
+    "regionCode": "12",
+    "regionTvd": "100100031793881",
+    "regionName": "Республика Марий Эл",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 47309,
@@ -752,6 +779,9 @@ export const president_2012_tic_227_region_12 = [
     "ballot": "presidential",
     "tikTvd": "2122000282793",
     "tikName": "Моркинская районная",
+    "regionCode": "12",
+    "regionTvd": "100100031793881",
+    "regionName": "Республика Марий Эл",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 24275,
@@ -838,6 +868,9 @@ export const president_2012_tic_227_region_12 = [
     "ballot": "presidential",
     "tikTvd": "2122000282794",
     "tikName": "Новоторъяльская районная",
+    "regionCode": "12",
+    "regionTvd": "100100031793881",
+    "regionName": "Республика Марий Эл",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 11830,
@@ -903,6 +936,9 @@ export const president_2012_tic_227_region_12 = [
     "ballot": "presidential",
     "tikTvd": "2122000282795",
     "tikName": "Оршанская районная",
+    "regionCode": "12",
+    "regionTvd": "100100031793881",
+    "regionName": "Республика Марий Эл",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 11175,
@@ -967,6 +1003,9 @@ export const president_2012_tic_227_region_12 = [
     "ballot": "presidential",
     "tikTvd": "2122000282796",
     "tikName": "Параньгинская районная",
+    "regionCode": "12",
+    "regionTvd": "100100031793881",
+    "regionName": "Республика Марий Эл",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 12038,
@@ -1031,6 +1070,9 @@ export const president_2012_tic_227_region_12 = [
     "ballot": "presidential",
     "tikTvd": "2122000282797",
     "tikName": "Сернурская районная",
+    "regionCode": "12",
+    "regionTvd": "100100031793881",
+    "regionName": "Республика Марий Эл",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 18050,
@@ -1110,6 +1152,9 @@ export const president_2012_tic_227_region_12 = [
     "ballot": "presidential",
     "tikTvd": "2122000282798",
     "tikName": "Советская районная",
+    "regionCode": "12",
+    "regionTvd": "100100031793881",
+    "regionName": "Республика Марий Эл",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 23826,
@@ -1178,6 +1223,9 @@ export const president_2012_tic_227_region_12 = [
     "ballot": "presidential",
     "tikTvd": "2122000282799",
     "tikName": "Юринская районная",
+    "regionCode": "12",
+    "regionTvd": "100100031793881",
+    "regionName": "Республика Марий Эл",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 6373,
@@ -1238,6 +1286,9 @@ export const president_2012_tic_227_region_12 = [
     "ballot": "presidential",
     "tikTvd": "2122000282800",
     "tikName": "Куженерская районная",
+    "regionCode": "12",
+    "regionTvd": "100100031793881",
+    "regionName": "Республика Марий Эл",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10973,
@@ -1303,6 +1354,9 @@ export const president_2012_tic_227_region_12 = [
     "ballot": "presidential",
     "tikTvd": "2122000282801",
     "tikName": "Йошкар-Олинская городская № 2",
+    "regionCode": "12",
+    "regionTvd": "100100031793881",
+    "regionName": "Республика Марий Эл",
     "uikCount": 59,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 105648,

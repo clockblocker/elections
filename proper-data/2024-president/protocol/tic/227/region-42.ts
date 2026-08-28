@@ -11,6 +11,9 @@ export const president_2024_tic_227_region_42 = [
     "ballot": "presidential",
     "tikTvd": "24220001813222",
     "tikName": "Юргинская",
+    "regionCode": "42",
+    "regionTvd": "100100339411235",
+    "regionName": "Кемеровская область - Кузбасс",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 13350,
@@ -82,6 +85,9 @@ export const president_2024_tic_227_region_42 = [
     "ballot": "presidential",
     "tikTvd": "24220001813223",
     "tikName": "Новокузнецк, Куйбышевская",
+    "regionCode": "42",
+    "regionTvd": "100100339411235",
+    "regionName": "Кемеровская область - Кузбасс",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 52590,
@@ -156,6 +162,9 @@ export const president_2024_tic_227_region_42 = [
     "ballot": "presidential",
     "tikTvd": "24220001813224",
     "tikName": "Беловская городская",
+    "regionCode": "42",
+    "regionTvd": "100100339411235",
+    "regionName": "Кемеровская область - Кузбасс",
     "uikCount": 55,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 93229,
@@ -251,6 +260,9 @@ export const president_2024_tic_227_region_42 = [
     "ballot": "presidential",
     "tikTvd": "24220001813225",
     "tikName": "Кемеровская   ",
+    "regionCode": "42",
+    "regionTvd": "100100339411235",
+    "regionName": "Кемеровская область - Кузбасс",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 35889,
@@ -320,6 +332,9 @@ export const president_2024_tic_227_region_42 = [
     "ballot": "presidential",
     "tikTvd": "24220001813226",
     "tikName": "Топкинская",
+    "regionCode": "42",
+    "regionTvd": "100100339411235",
+    "regionName": "Кемеровская область - Кузбасс",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 32091,
@@ -390,6 +405,9 @@ export const president_2024_tic_227_region_42 = [
     "ballot": "presidential",
     "tikTvd": "24220001813227",
     "tikName": "Мариинская ",
+    "regionCode": "42",
+    "regionTvd": "100100339411235",
+    "regionName": "Кемеровская область - Кузбасс",
     "uikCount": 47,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 35063,
@@ -477,6 +495,9 @@ export const president_2024_tic_227_region_42 = [
     "ballot": "presidential",
     "tikTvd": "24220001813228",
     "tikName": "Кемерово, Кедровская",
+    "regionCode": "42",
+    "regionTvd": "100100339411235",
+    "regionName": "Кемеровская область - Кузбасс",
     "uikCount": 8,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 15384,
@@ -525,6 +546,9 @@ export const president_2024_tic_227_region_42 = [
     "ballot": "presidential",
     "tikTvd": "24220001813229",
     "tikName": "Краснобродская городская",
+    "regionCode": "42",
+    "regionTvd": "100100339411235",
+    "regionName": "Кемеровская область - Кузбасс",
     "uikCount": 9,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9703,
@@ -574,6 +598,9 @@ export const president_2024_tic_227_region_42 = [
     "ballot": "presidential",
     "tikTvd": "24220001813230",
     "tikName": "Новокузнецкая  ",
+    "regionCode": "42",
+    "regionTvd": "100100339411235",
+    "regionName": "Кемеровская область - Кузбасс",
     "uikCount": 60,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 34170,
@@ -674,6 +701,9 @@ export const president_2024_tic_227_region_42 = [
     "ballot": "presidential",
     "tikTvd": "24220001813231",
     "tikName": "Березовская городская",
+    "regionCode": "42",
+    "regionTvd": "100100339411235",
+    "regionName": "Кемеровская область - Кузбасс",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 32058,
@@ -739,6 +769,9 @@ export const president_2024_tic_227_region_42 = [
     "ballot": "presidential",
     "tikTvd": "24220001813232",
     "tikName": "Новокузнецк, Орджоникидзевская",
+    "regionCode": "42",
+    "regionTvd": "100100339411235",
+    "regionName": "Кемеровская область - Кузбасс",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 56598,
@@ -809,6 +842,9 @@ export const president_2024_tic_227_region_42 = [
     "ballot": "presidential",
     "tikTvd": "24220001813233",
     "tikName": "Мысковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100339411235",
+    "regionName": "Кемеровская область - Кузбасс",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 31911,
@@ -873,6 +909,9 @@ export const president_2024_tic_227_region_42 = [
     "ballot": "presidential",
     "tikTvd": "24220001813234",
     "tikName": "Яйская",
+    "regionCode": "42",
+    "regionTvd": "100100339411235",
+    "regionName": "Кемеровская область - Кузбасс",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 12368,
@@ -946,6 +985,9 @@ export const president_2024_tic_227_region_42 = [
     "ballot": "presidential",
     "tikTvd": "24220001813235",
     "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100339411235",
+    "regionName": "Кемеровская область - Кузбасс",
     "uikCount": 60,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 54282,
@@ -1046,6 +1088,9 @@ export const president_2024_tic_227_region_42 = [
     "ballot": "presidential",
     "tikTvd": "24220001813236",
     "tikName": "Новокузнецк, Кузнецкая ",
+    "regionCode": "42",
+    "regionTvd": "100100339411235",
+    "regionName": "Кемеровская область - Кузбасс",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 31927,
@@ -1103,6 +1148,9 @@ export const president_2024_tic_227_region_42 = [
     "ballot": "presidential",
     "tikTvd": "24220001813237",
     "tikName": "Беловская",
+    "regionCode": "42",
+    "regionTvd": "100100339411235",
+    "regionName": "Кемеровская область - Кузбасс",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 19392,
@@ -1179,6 +1227,9 @@ export const president_2024_tic_227_region_42 = [
     "ballot": "presidential",
     "tikTvd": "24220001813238",
     "tikName": "Новокузнецк, Заводская ",
+    "regionCode": "42",
+    "regionTvd": "100100339411235",
+    "regionName": "Кемеровская область - Кузбасс",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 62413,
@@ -1254,6 +1305,9 @@ export const president_2024_tic_227_region_42 = [
     "ballot": "presidential",
     "tikTvd": "24220001813239",
     "tikName": "Осинниковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100339411235",
+    "regionName": "Кемеровская область - Кузбасс",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 34607,
@@ -1315,6 +1369,9 @@ export const president_2024_tic_227_region_42 = [
     "ballot": "presidential",
     "tikTvd": "24220001813240",
     "tikName": "Тяжинская",
+    "regionCode": "42",
+    "regionTvd": "100100339411235",
+    "regionName": "Кемеровская область - Кузбасс",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 16522,
@@ -1387,6 +1444,9 @@ export const president_2024_tic_227_region_42 = [
     "ballot": "presidential",
     "tikTvd": "24220001813241",
     "tikName": "Промышленновская",
+    "regionCode": "42",
+    "regionTvd": "100100339411235",
+    "regionName": "Кемеровская область - Кузбасс",
     "uikCount": 60,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 30988,
@@ -1487,6 +1547,9 @@ export const president_2024_tic_227_region_42 = [
     "ballot": "presidential",
     "tikTvd": "24220001813242",
     "tikName": "Гурьевская",
+    "regionCode": "42",
+    "regionTvd": "100100339411235",
+    "regionName": "Кемеровская область - Кузбасс",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 29382,
@@ -1559,6 +1622,9 @@ export const president_2024_tic_227_region_42 = [
     "ballot": "presidential",
     "tikTvd": "24220001813243",
     "tikName": "Прокопьевская",
+    "regionCode": "42",
+    "regionTvd": "100100339411235",
+    "regionName": "Кемеровская область - Кузбасс",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 20688,
@@ -1642,6 +1708,9 @@ export const president_2024_tic_227_region_42 = [
     "ballot": "presidential",
     "tikTvd": "24220001813244",
     "tikName": "Калтанская городская",
+    "regionCode": "42",
+    "regionTvd": "100100339411235",
+    "regionName": "Кемеровская область - Кузбасс",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 21704,
@@ -1701,6 +1770,9 @@ export const president_2024_tic_227_region_42 = [
     "ballot": "presidential",
     "tikTvd": "24220001813245",
     "tikName": "Кемерово, Ленинская",
+    "regionCode": "42",
+    "regionTvd": "100100339411235",
+    "regionName": "Кемеровская область - Кузбасс",
     "uikCount": 47,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 92926,
@@ -1788,6 +1860,9 @@ export const president_2024_tic_227_region_42 = [
     "ballot": "presidential",
     "tikTvd": "24220001813246",
     "tikName": "Ленинск-Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100339411235",
+    "regionName": "Кемеровская область - Кузбасс",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 16140,
@@ -1850,6 +1925,9 @@ export const president_2024_tic_227_region_42 = [
     "ballot": "presidential",
     "tikTvd": "24220001813247",
     "tikName": "Полысаевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100339411235",
+    "regionName": "Кемеровская область - Кузбасс",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 20620,
@@ -1910,6 +1988,9 @@ export const president_2024_tic_227_region_42 = [
     "ballot": "presidential",
     "tikTvd": "24220001813248",
     "tikName": "Крапивинская",
+    "regionCode": "42",
+    "regionTvd": "100100339411235",
+    "regionName": "Кемеровская область - Кузбасс",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 16040,
@@ -1977,6 +2058,9 @@ export const president_2024_tic_227_region_42 = [
     "ballot": "presidential",
     "tikTvd": "24220001813249",
     "tikName": "Ижморская",
+    "regionCode": "42",
+    "regionTvd": "100100339411235",
+    "regionName": "Кемеровская область - Кузбасс",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 8808,
@@ -2042,6 +2126,9 @@ export const president_2024_tic_227_region_42 = [
     "ballot": "presidential",
     "tikTvd": "24220001813250",
     "tikName": "Юргинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100339411235",
+    "regionName": "Кемеровская область - Кузбасс",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 56035,
@@ -2121,6 +2208,9 @@ export const president_2024_tic_227_region_42 = [
     "ballot": "presidential",
     "tikTvd": "24220001813251",
     "tikName": "Кемерово, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100339411235",
+    "regionName": "Кемеровская область - Кузбасс",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 77070,
@@ -2202,6 +2292,9 @@ export const president_2024_tic_227_region_42 = [
     "ballot": "presidential",
     "tikTvd": "24220001813252",
     "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100339411235",
+    "regionName": "Кемеровская область - Кузбасс",
     "uikCount": 52,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 66777,
@@ -2294,6 +2387,9 @@ export const president_2024_tic_227_region_42 = [
     "ballot": "presidential",
     "tikTvd": "24220001813253",
     "tikName": "Яшкинская",
+    "regionCode": "42",
+    "regionTvd": "100100339411235",
+    "regionName": "Кемеровская область - Кузбасс",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 18917,
@@ -2373,6 +2469,9 @@ export const president_2024_tic_227_region_42 = [
     "ballot": "presidential",
     "tikTvd": "24220001813254",
     "tikName": "Кемерово, Заводская ",
+    "regionCode": "42",
+    "regionTvd": "100100339411235",
+    "regionName": "Кемеровская область - Кузбасс",
     "uikCount": 60,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 108370,
@@ -2473,6 +2572,9 @@ export const president_2024_tic_227_region_42 = [
     "ballot": "presidential",
     "tikTvd": "24220001813255",
     "tikName": "Кемерово, Рудничная ",
+    "regionCode": "42",
+    "regionTvd": "100100339411235",
+    "regionName": "Кемеровская область - Кузбасс",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 64122,
@@ -2542,6 +2644,9 @@ export const president_2024_tic_227_region_42 = [
     "ballot": "presidential",
     "tikTvd": "24220001813256",
     "tikName": "Тайгинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100339411235",
+    "regionName": "Кемеровская область - Кузбасс",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 14409,
@@ -2600,6 +2705,9 @@ export const president_2024_tic_227_region_42 = [
     "ballot": "presidential",
     "tikTvd": "24220001813257",
     "tikName": "Прокопьевск, Зенковская",
+    "regionCode": "42",
+    "regionTvd": "100100339411235",
+    "regionName": "Кемеровская область - Кузбасс",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 41405,
@@ -2665,6 +2773,9 @@ export const president_2024_tic_227_region_42 = [
     "ballot": "presidential",
     "tikTvd": "24220001813258",
     "tikName": "Междуреченская городская",
+    "regionCode": "42",
+    "regionTvd": "100100339411235",
+    "regionName": "Кемеровская область - Кузбасс",
     "uikCount": 49,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 70689,
@@ -2754,6 +2865,9 @@ export const president_2024_tic_227_region_42 = [
     "ballot": "presidential",
     "tikTvd": "24220001813259",
     "tikName": "Ленинск-Кузнецкая городская",
+    "regionCode": "42",
+    "regionTvd": "100100339411235",
+    "regionName": "Кемеровская область - Кузбасс",
     "uikCount": 56,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 71017,
@@ -2850,6 +2964,9 @@ export const president_2024_tic_227_region_42 = [
     "ballot": "presidential",
     "tikTvd": "24220001813260",
     "tikName": "Таштагольская ",
+    "regionCode": "42",
+    "regionTvd": "100100339411235",
+    "regionName": "Кемеровская область - Кузбасс",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 34516,
@@ -2934,6 +3051,9 @@ export const president_2024_tic_227_region_42 = [
     "ballot": "presidential",
     "tikTvd": "24220001813261",
     "tikName": "Чебулинская",
+    "regionCode": "42",
+    "regionTvd": "100100339411235",
+    "regionName": "Кемеровская область - Кузбасс",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9143,
@@ -3001,6 +3121,9 @@ export const president_2024_tic_227_region_42 = [
     "ballot": "presidential",
     "tikTvd": "24220001813262",
     "tikName": "Кемерово, Кировская",
+    "regionCode": "42",
+    "regionTvd": "100100339411235",
+    "regionName": "Кемеровская область - Кузбасс",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 39787,
@@ -3060,6 +3183,9 @@ export const president_2024_tic_227_region_42 = [
     "ballot": "presidential",
     "tikTvd": "24220001813263",
     "tikName": "Новокузнецк, Центральная  ",
+    "regionCode": "42",
+    "regionTvd": "100100339411235",
+    "regionName": "Кемеровская область - Кузбасс",
     "uikCount": 58,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 121900,
@@ -3158,6 +3284,9 @@ export const president_2024_tic_227_region_42 = [
     "ballot": "presidential",
     "tikTvd": "24220001813264",
     "tikName": "Тисульская",
+    "regionCode": "42",
+    "regionTvd": "100100339411235",
+    "regionName": "Кемеровская область - Кузбасс",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 14585,
@@ -3228,6 +3357,9 @@ export const president_2024_tic_227_region_42 = [
     "ballot": "presidential",
     "tikTvd": "24220001813265",
     "tikName": "Прокопьевск, Рудничная",
+    "regionCode": "42",
+    "regionTvd": "100100339411235",
+    "regionName": "Кемеровская область - Кузбасс",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 46638,
@@ -3293,6 +3425,9 @@ export const president_2024_tic_227_region_42 = [
     "ballot": "presidential",
     "tikTvd": "24220001813266",
     "tikName": "Прокопьевск, Центральная ",
+    "regionCode": "42",
+    "regionTvd": "100100339411235",
+    "regionName": "Кемеровская область - Кузбасс",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 40859,
@@ -3359,6 +3494,9 @@ export const president_2024_tic_227_region_42 = [
     "ballot": "presidential",
     "tikTvd": "24220001813267",
     "tikName": "Новокузнецк, Новоильинская",
+    "regionCode": "42",
+    "regionTvd": "100100339411235",
+    "regionName": "Кемеровская область - Кузбасс",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 54362,

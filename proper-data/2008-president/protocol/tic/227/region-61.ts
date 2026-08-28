@@ -11,6 +11,9 @@ export const president_2008_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "2612000263905",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100022249997",
+    "regionName": "Ростовская область",
     "uikCount": 123,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 230421,
@@ -181,6 +184,9 @@ export const president_2008_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "2612000263906",
     "tikName": "Семикаракорская ",
+    "regionCode": "61",
+    "regionTvd": "100100022249997",
+    "regionName": "Ростовская область",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 42029,
@@ -267,6 +273,9 @@ export const president_2008_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "2612000263907",
     "tikName": "Сальская",
+    "regionCode": "61",
+    "regionTvd": "100100022249997",
+    "regionName": "Ростовская область",
     "uikCount": 57,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 85584,
@@ -371,6 +380,9 @@ export const president_2008_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "2612000263908",
     "tikName": "Ростов-на-Дону, Пролетарская",
+    "regionCode": "61",
+    "regionTvd": "100100022249997",
+    "regionName": "Ростовская область",
     "uikCount": 53,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 94244,
@@ -471,6 +483,9 @@ export const president_2008_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "2612000263909",
     "tikName": "Ростов-на-Дону, Советская",
+    "regionCode": "61",
+    "regionTvd": "100100022249997",
+    "regionName": "Ростовская область",
     "uikCount": 54,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 125777,
@@ -572,6 +587,9 @@ export const president_2008_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "2612000263910",
     "tikName": "Ростов-на-Дону, Первомайская",
+    "regionCode": "61",
+    "regionTvd": "100100022249997",
+    "regionName": "Ростовская область",
     "uikCount": 58,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 129226,
@@ -677,6 +695,9 @@ export const president_2008_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "2612000263911",
     "tikName": "Ростов-на-Дону, Ленинская",
+    "regionCode": "61",
+    "regionTvd": "100100022249997",
+    "regionName": "Ростовская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 53892,
@@ -750,6 +771,9 @@ export const president_2008_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "2612000263912",
     "tikName": "Ростов-на-Дону, Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100022249997",
+    "regionName": "Ростовская область",
     "uikCount": 51,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 109458,
@@ -848,6 +872,9 @@ export const president_2008_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "2612000263913",
     "tikName": "Шолоховская",
+    "regionCode": "61",
+    "regionTvd": "100100022249997",
+    "regionName": "Ростовская область",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 22052,
@@ -933,6 +960,9 @@ export const president_2008_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "2612000263914",
     "tikName": "Чертковская ",
+    "regionCode": "61",
+    "regionTvd": "100100022249997",
+    "regionName": "Ростовская область",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 29729,
@@ -1023,6 +1053,9 @@ export const president_2008_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "2612000263915",
     "tikName": "Цимлянская ",
+    "regionCode": "61",
+    "regionTvd": "100100022249997",
+    "regionName": "Ростовская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 28486,
@@ -1100,6 +1133,9 @@ export const president_2008_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "2612000263916",
     "tikName": "Шахтинская",
+    "regionCode": "61",
+    "regionTvd": "100100022249997",
+    "regionName": "Ростовская область",
     "uikCount": 97,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 178558,
@@ -1244,6 +1280,9 @@ export const president_2008_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "2612000263917",
     "tikName": "Веселовская",
+    "regionCode": "61",
+    "regionTvd": "100100022249997",
+    "regionName": "Ростовская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 19427,
@@ -1315,6 +1354,9 @@ export const president_2008_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "2612000263918",
     "tikName": "Верхнедонская ",
+    "regionCode": "61",
+    "regionTvd": "100100022249997",
+    "regionName": "Ростовская область",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 17364,
@@ -1405,6 +1447,9 @@ export const president_2008_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "2612000263919",
     "tikName": "Боковская ",
+    "regionCode": "61",
+    "regionTvd": "100100022249997",
+    "regionName": "Ростовская область",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 12239,
@@ -1479,6 +1524,9 @@ export const president_2008_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "2612000263920",
     "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100022249997",
+    "regionName": "Ростовская область",
     "uikCount": 75,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 87471,
@@ -1601,6 +1649,9 @@ export const president_2008_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "2612000263921",
     "tikName": "Аксайская",
+    "regionCode": "61",
+    "regionTvd": "100100022249997",
+    "regionName": "Ростовская область",
     "uikCount": 65,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 68845,
@@ -1713,6 +1764,9 @@ export const president_2008_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "2612000263922",
     "tikName": "Багаевская",
+    "regionCode": "61",
+    "regionTvd": "100100022249997",
+    "regionName": "Ростовская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 26489,
@@ -1785,6 +1839,9 @@ export const president_2008_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "2612000263923",
     "tikName": "Батайская",
+    "regionCode": "61",
+    "regionTvd": "100100022249997",
+    "regionName": "Ростовская область",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 84273,
@@ -1882,6 +1939,9 @@ export const president_2008_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "2612000263924",
     "tikName": "Азовская городская",
+    "regionCode": "61",
+    "regionTvd": "100100022249997",
+    "regionName": "Ростовская область",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 64382,
@@ -1971,6 +2031,9 @@ export const president_2008_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "2612000263925",
     "tikName": "Азовская районная",
+    "regionCode": "61",
+    "regionTvd": "100100022249997",
+    "regionName": "Ростовская область",
     "uikCount": 81,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 70338,
@@ -2099,6 +2162,9 @@ export const president_2008_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "2612000263926",
     "tikName": "Кагальницкая ",
+    "regionCode": "61",
+    "regionTvd": "100100022249997",
+    "regionName": "Ростовская область",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 24591,
@@ -2187,6 +2253,9 @@ export const president_2008_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "2612000263927",
     "tikName": "Зимовниковская ",
+    "regionCode": "61",
+    "regionTvd": "100100022249997",
+    "regionName": "Ростовская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 27010,
@@ -2264,6 +2333,9 @@ export const president_2008_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "2612000263928",
     "tikName": "Егорлыкская ",
+    "regionCode": "61",
+    "regionTvd": "100100022249997",
+    "regionName": "Ростовская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 29399,
@@ -2334,6 +2406,9 @@ export const president_2008_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "2612000263929",
     "tikName": "Заветинская",
+    "regionCode": "61",
+    "regionTvd": "100100022249997",
+    "regionName": "Ростовская область",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 10636,
@@ -2394,6 +2469,9 @@ export const president_2008_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "2612000263930",
     "tikName": "Зверевская ",
+    "regionCode": "61",
+    "regionTvd": "100100022249997",
+    "regionName": "Ростовская область",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 19500,
@@ -2453,6 +2531,9 @@ export const president_2008_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "2612000263931",
     "tikName": "Зерноградская",
+    "regionCode": "61",
+    "regionTvd": "100100022249997",
+    "regionName": "Ростовская область",
     "uikCount": 63,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 49591,
@@ -2563,6 +2644,9 @@ export const president_2008_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "2612000263932",
     "tikName": "Донецкая ",
+    "regionCode": "61",
+    "regionTvd": "100100022249997",
+    "regionName": "Ростовская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 40327,
@@ -2636,6 +2720,9 @@ export const president_2008_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "2612000263933",
     "tikName": "Гуковская",
+    "regionCode": "61",
+    "regionTvd": "100100022249997",
+    "regionName": "Ростовская область",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 55027,
@@ -2720,6 +2807,9 @@ export const president_2008_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "2612000263934",
     "tikName": "Волгодонская районная",
+    "regionCode": "61",
+    "regionTvd": "100100022249997",
+    "regionName": "Ростовская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 22450,
@@ -2796,6 +2886,9 @@ export const president_2008_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "2612000263935",
     "tikName": "Дубовская ",
+    "regionCode": "61",
+    "regionTvd": "100100022249997",
+    "regionName": "Ростовская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 16816,
@@ -2864,6 +2957,9 @@ export const president_2008_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "2612000263936",
     "tikName": "Мясниковская ",
+    "regionCode": "61",
+    "regionTvd": "100100022249997",
+    "regionName": "Ростовская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 30527,
@@ -2935,6 +3031,9 @@ export const president_2008_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "2612000263937",
     "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100022249997",
+    "regionName": "Ростовская область",
     "uikCount": 53,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 133571,
@@ -3035,6 +3134,9 @@ export const president_2008_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "2612000263938",
     "tikName": "Морозовская ",
+    "regionCode": "61",
+    "regionTvd": "100100022249997",
+    "regionName": "Ростовская область",
     "uikCount": 45,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 35227,
@@ -3127,6 +3229,9 @@ export const president_2008_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "2612000263939",
     "tikName": "Матвеево-Курганская",
+    "regionCode": "61",
+    "regionTvd": "100100022249997",
+    "regionName": "Ростовская область",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 35793,
@@ -3209,6 +3314,9 @@ export const president_2008_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "2612000263940",
     "tikName": "Миллеровская",
+    "regionCode": "61",
+    "regionTvd": "100100022249997",
+    "regionName": "Ростовская область",
     "uikCount": 60,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 56345,
@@ -3316,6 +3424,9 @@ export const president_2008_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "2612000263941",
     "tikName": "Мартыновская",
+    "regionCode": "61",
+    "regionTvd": "100100022249997",
+    "regionName": "Ростовская область",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 27897,
@@ -3407,6 +3518,9 @@ export const president_2008_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "2612000263942",
     "tikName": "Милютинская",
+    "regionCode": "61",
+    "regionTvd": "100100022249997",
+    "regionName": "Ростовская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 13120,
@@ -3482,6 +3596,9 @@ export const president_2008_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "2612000263943",
     "tikName": "Куйбышевская",
+    "regionCode": "61",
+    "regionTvd": "100100022249997",
+    "regionName": "Ростовская область",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 11958,
@@ -3545,6 +3662,9 @@ export const president_2008_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "2612000263944",
     "tikName": "Константиновская",
+    "regionCode": "61",
+    "regionTvd": "100100022249997",
+    "regionName": "Ростовская область",
     "uikCount": 47,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 26497,
@@ -3639,6 +3759,9 @@ export const president_2008_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "2612000263945",
     "tikName": "Красносулинская",
+    "regionCode": "61",
+    "regionTvd": "100100022249997",
+    "regionName": "Ростовская область",
     "uikCount": 65,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 66554,
@@ -3751,6 +3874,9 @@ export const president_2008_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "2612000263946",
     "tikName": "Каменск-Шахтинская",
+    "regionCode": "61",
+    "regionTvd": "100100022249997",
+    "regionName": "Ростовская область",
     "uikCount": 45,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 75717,
@@ -3843,6 +3969,9 @@ export const president_2008_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "2612000263947",
     "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100022249997",
+    "regionName": "Ростовская область",
     "uikCount": 51,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 40316,
@@ -3941,6 +4070,9 @@ export const president_2008_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "2612000263948",
     "tikName": "Ростов-на-Дону, Кировская",
+    "regionCode": "61",
+    "regionTvd": "100100022249997",
+    "regionName": "Ростовская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 51831,
@@ -4013,6 +4145,9 @@ export const president_2008_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "2612000263949",
     "tikName": "Кашарская",
+    "regionCode": "61",
+    "regionTvd": "100100022249997",
+    "regionName": "Ростовская область",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 20492,
@@ -4097,6 +4232,9 @@ export const president_2008_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "2612000263950",
     "tikName": "Ростов-на-Дону, Ворошиловская",
+    "regionCode": "61",
+    "regionTvd": "100100022249997",
+    "regionName": "Ростовская область",
     "uikCount": 67,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 150061,
@@ -4211,6 +4349,9 @@ export const president_2008_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "2612000263951",
     "tikName": "Ростов-на-Дону, Железнодорожная",
+    "regionCode": "61",
+    "regionTvd": "100100022249997",
+    "regionName": "Ростовская область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 67873,
@@ -4294,6 +4435,9 @@ export const president_2008_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "2612000263952",
     "tikName": "Родионово-Несветайская",
+    "regionCode": "61",
+    "regionTvd": "100100022249997",
+    "regionName": "Ростовская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 18057,
@@ -4363,6 +4507,9 @@ export const president_2008_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "2612000263953",
     "tikName": "Пролетарская",
+    "regionCode": "61",
+    "regionTvd": "100100022249997",
+    "regionName": "Ростовская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 25861,
@@ -4434,6 +4581,9 @@ export const president_2008_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "2612000263954",
     "tikName": "Орловская",
+    "regionCode": "61",
+    "regionTvd": "100100022249997",
+    "regionName": "Ростовская область",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 30256,
@@ -4525,6 +4675,9 @@ export const president_2008_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "2612000263955",
     "tikName": "Ремонтненская",
+    "regionCode": "61",
+    "regionTvd": "100100022249997",
+    "regionName": "Ростовская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 14027,
@@ -4590,6 +4743,9 @@ export const president_2008_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "2612000263956",
     "tikName": "Песчанокопская",
+    "regionCode": "61",
+    "regionTvd": "100100022249997",
+    "regionName": "Ростовская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 26345,
@@ -4658,6 +4814,9 @@ export const president_2008_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "2612000263957",
     "tikName": "Новошахтинская ",
+    "regionCode": "61",
+    "regionTvd": "100100022249997",
+    "regionName": "Ростовская область",
     "uikCount": 55,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 76304,
@@ -4760,6 +4919,9 @@ export const president_2008_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "2612000263958",
     "tikName": "Новочеркасская ",
+    "regionCode": "61",
+    "regionTvd": "100100022249997",
+    "regionName": "Ростовская область",
     "uikCount": 67,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 141013,
@@ -4874,6 +5036,9 @@ export const president_2008_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "2612000263959",
     "tikName": "Обливская",
+    "regionCode": "61",
+    "regionTvd": "100100022249997",
+    "regionName": "Ростовская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 15105,
@@ -4944,6 +5109,9 @@ export const president_2008_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "2612000263960",
     "tikName": "Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100022249997",
+    "regionName": "Ростовская область",
     "uikCount": 49,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 55613,
@@ -5040,6 +5208,9 @@ export const president_2008_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "2612000263961",
     "tikName": "Неклиновская",
+    "regionCode": "61",
+    "regionTvd": "100100022249997",
+    "regionName": "Ростовская область",
     "uikCount": 80,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 66802,
@@ -5167,6 +5338,9 @@ export const president_2008_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "2612000263962",
     "tikName": "Тацинская",
+    "regionCode": "61",
+    "regionTvd": "100100022249997",
+    "regionName": "Ростовская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 30597,
@@ -5248,6 +5422,9 @@ export const president_2008_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "2612000263963",
     "tikName": "Целинская",
+    "regionCode": "61",
+    "regionTvd": "100100022249997",
+    "regionName": "Ростовская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 27952,
@@ -5325,6 +5502,9 @@ export const president_2008_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "2612000263964",
     "tikName": "Усть-Донецкая ",
+    "regionCode": "61",
+    "regionTvd": "100100022249997",
+    "regionName": "Ростовская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 23116,
@@ -5396,6 +5576,9 @@ export const president_2008_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "2612000263965",
     "tikName": "Тарасовская",
+    "regionCode": "61",
+    "regionTvd": "100100022249997",
+    "regionName": "Ростовская область",
     "uikCount": 51,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 24171,
@@ -5494,6 +5677,9 @@ export const president_2008_tic_227_region_61 = [
     "ballot": "presidential",
     "tikTvd": "2612000263966",
     "tikName": "Советская",
+    "regionCode": "61",
+    "regionTvd": "100100022249997",
+    "regionName": "Ростовская область",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 5223,

@@ -11,6 +11,9 @@ export const duma_2007_tic_233_region_89 = [
     "ballot": "party",
     "tikTvd": "2892000122771",
     "tikName": "Муравленковская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "uikCount": 10,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 24562,
@@ -75,6 +78,9 @@ export const duma_2007_tic_233_region_89 = [
     "ballot": "party",
     "tikTvd": "2892000122772",
     "tikName": "Лабытнангская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 19566,
@@ -143,6 +149,9 @@ export const duma_2007_tic_233_region_89 = [
     "ballot": "party",
     "tikTvd": "2892000122773",
     "tikName": "Красноселькупская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "uikCount": 3,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 4921,
@@ -200,6 +209,9 @@ export const duma_2007_tic_233_region_89 = [
     "ballot": "party",
     "tikTvd": "2892000122774",
     "tikName": "Ямальская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "uikCount": 7,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 9063,
@@ -261,6 +273,9 @@ export const duma_2007_tic_233_region_89 = [
     "ballot": "party",
     "tikTvd": "2892000122775",
     "tikName": "Губкинская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "uikCount": 8,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 13593,
@@ -323,6 +338,9 @@ export const duma_2007_tic_233_region_89 = [
     "ballot": "party",
     "tikTvd": "2892000122776",
     "tikName": "Тазовская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "uikCount": 9,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 11981,
@@ -386,6 +404,9 @@ export const duma_2007_tic_233_region_89 = [
     "ballot": "party",
     "tikTvd": "2892000122777",
     "tikName": "Салехардская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 24353,
@@ -452,6 +473,9 @@ export const duma_2007_tic_233_region_89 = [
     "ballot": "party",
     "tikTvd": "2892000122778",
     "tikName": "Шурышкарская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "uikCount": 8,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 5661,
@@ -514,6 +538,9 @@ export const duma_2007_tic_233_region_89 = [
     "ballot": "party",
     "tikTvd": "2892000122779",
     "tikName": "Ноябрьская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 80785,
@@ -603,6 +630,9 @@ export const duma_2007_tic_233_region_89 = [
     "ballot": "party",
     "tikTvd": "2892000122780",
     "tikName": "Приуральская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "uikCount": 6,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 8403,
@@ -663,6 +693,9 @@ export const duma_2007_tic_233_region_89 = [
     "ballot": "party",
     "tikTvd": "2892000122781",
     "tikName": "Пуровская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 37017,
@@ -737,6 +770,9 @@ export const duma_2007_tic_233_region_89 = [
     "ballot": "party",
     "tikTvd": "2892000122782",
     "tikName": "Новоуренгойская городская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 70425,
@@ -831,6 +867,9 @@ export const duma_2007_tic_233_region_89 = [
     "ballot": "party",
     "tikTvd": "2892000122783",
     "tikName": "Надымская",
+    "regionCode": "89",
+    "regionTvd": "100100021960360",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 51014,

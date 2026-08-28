@@ -11,6 +11,9 @@ export const president_2004_tic_227_region_27 = [
     "ballot": "presidential",
     "tikTvd": "227200071214",
     "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "1001000882996",
+    "regionName": "Хабаровский край",
     "uikCount": 108,
     "accounting": {
       "Число избирателей, внесенных в список": 217628,
@@ -167,6 +170,9 @@ export const president_2004_tic_227_region_27 = [
     "ballot": "presidential",
     "tikTvd": "227200071215",
     "tikName": "Амурская",
+    "regionCode": "27",
+    "regionTvd": "1001000882996",
+    "regionName": "Хабаровский край",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в список": 55323,
@@ -255,6 +261,9 @@ export const president_2004_tic_227_region_27 = [
     "ballot": "presidential",
     "tikTvd": "227200071216",
     "tikName": "Вяземская",
+    "regionCode": "27",
+    "regionTvd": "1001000882996",
+    "regionName": "Хабаровский край",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список": 19749,
@@ -331,6 +340,9 @@ export const president_2004_tic_227_region_27 = [
     "ballot": "presidential",
     "tikTvd": "227200071217",
     "tikName": "Осипенковская",
+    "regionCode": "27",
+    "regionTvd": "1001000882996",
+    "regionName": "Хабаровский край",
     "uikCount": 10,
     "accounting": {
       "Число избирателей, внесенных в список": 4519,
@@ -389,6 +401,9 @@ export const president_2004_tic_227_region_27 = [
     "ballot": "presidential",
     "tikTvd": "227200071218",
     "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "1001000882996",
+    "regionName": "Хабаровский край",
     "uikCount": 57,
     "accounting": {
       "Число избирателей, внесенных в список": 35934,
@@ -494,6 +509,9 @@ export const president_2004_tic_227_region_27 = [
     "ballot": "presidential",
     "tikTvd": "227200071219",
     "tikName": "Бикинская",
+    "regionCode": "27",
+    "regionTvd": "1001000882996",
+    "regionName": "Хабаровский край",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список": 21729,
@@ -564,6 +582,9 @@ export const president_2004_tic_227_region_27 = [
     "ballot": "presidential",
     "tikTvd": "227200071220",
     "tikName": "Верхнебуреинская",
+    "regionCode": "27",
+    "regionTvd": "1001000882996",
+    "regionName": "Хабаровский край",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в список": 24640,
@@ -644,6 +665,9 @@ export const president_2004_tic_227_region_27 = [
     "ballot": "presidential",
     "tikTvd": "227200071221",
     "tikName": "Ванинская",
+    "regionCode": "27",
+    "regionTvd": "1001000882996",
+    "regionName": "Хабаровский край",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список": 30636,
@@ -718,6 +742,9 @@ export const president_2004_tic_227_region_27 = [
     "ballot": "presidential",
     "tikTvd": "227200071222",
     "tikName": "Хабаровск, Центральная",
+    "regionCode": "27",
+    "regionTvd": "1001000882996",
+    "regionName": "Хабаровский край",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в список": 66720,
@@ -797,6 +824,9 @@ export const president_2004_tic_227_region_27 = [
     "ballot": "presidential",
     "tikTvd": "227200071223",
     "tikName": "Аяно-Майская",
+    "regionCode": "27",
+    "regionTvd": "1001000882996",
+    "regionName": "Хабаровский край",
     "uikCount": 7,
     "accounting": {
       "Число избирателей, внесенных в список": 3050,
@@ -852,6 +882,9 @@ export const president_2004_tic_227_region_27 = [
     "ballot": "presidential",
     "tikTvd": "227200071224",
     "tikName": "Комсомольская",
+    "regionCode": "27",
+    "regionTvd": "1001000882996",
+    "regionName": "Хабаровский край",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список": 21817,
@@ -926,6 +959,9 @@ export const president_2004_tic_227_region_27 = [
     "ballot": "presidential",
     "tikTvd": "227200071225",
     "tikName": "Хабаровск, Краснофлотская",
+    "regionCode": "27",
+    "regionTvd": "1001000882996",
+    "regionName": "Хабаровский край",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список": 65595,
@@ -1003,6 +1039,9 @@ export const president_2004_tic_227_region_27 = [
     "ballot": "presidential",
     "tikTvd": "227200071226",
     "tikName": "Хабаровск, Индустриальная",
+    "regionCode": "27",
+    "regionTvd": "1001000882996",
+    "regionName": "Хабаровский край",
     "uikCount": 75,
     "accounting": {
       "Число избирателей, внесенных в список": 155402,
@@ -1126,6 +1165,9 @@ export const president_2004_tic_227_region_27 = [
     "ballot": "presidential",
     "tikTvd": "227200071227",
     "tikName": "Хабаровск, Кировская",
+    "regionCode": "27",
+    "regionTvd": "1001000882996",
+    "regionName": "Хабаровский край",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список": 44329,
@@ -1201,6 +1243,9 @@ export const president_2004_tic_227_region_27 = [
     "ballot": "presidential",
     "tikTvd": "227200071228",
     "tikName": "Хабаровск, Железнодорожная",
+    "regionCode": "27",
+    "regionTvd": "1001000882996",
+    "regionName": "Хабаровский край",
     "uikCount": 51,
     "accounting": {
       "Число избирателей, внесенных в список": 111837,
@@ -1300,6 +1345,9 @@ export const president_2004_tic_227_region_27 = [
     "ballot": "presidential",
     "tikTvd": "227200071229",
     "tikName": "Ульчская",
+    "regionCode": "27",
+    "regionTvd": "1001000882996",
+    "regionName": "Хабаровский край",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в список": 16476,
@@ -1379,6 +1427,9 @@ export const president_2004_tic_227_region_27 = [
     "ballot": "presidential",
     "tikTvd": "227200071230",
     "tikName": "Тугуро-Чумиканская",
+    "regionCode": "27",
+    "regionTvd": "1001000882996",
+    "regionName": "Хабаровский край",
     "uikCount": 6,
     "accounting": {
       "Число избирателей, внесенных в список": 1875,
@@ -1433,6 +1484,9 @@ export const president_2004_tic_227_region_27 = [
     "ballot": "presidential",
     "tikTvd": "227200071231",
     "tikName": "Советско-Гаванская",
+    "regionCode": "27",
+    "regionTvd": "1001000882996",
+    "regionName": "Хабаровский край",
     "uikCount": 52,
     "accounting": {
       "Число избирателей, внесенных в список": 37466,
@@ -1533,6 +1587,9 @@ export const president_2004_tic_227_region_27 = [
     "ballot": "presidential",
     "tikTvd": "227200071232",
     "tikName": "Солнечная",
+    "regionCode": "27",
+    "regionTvd": "1001000882996",
+    "regionName": "Хабаровский край",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список": 26728,
@@ -1606,6 +1663,9 @@ export const president_2004_tic_227_region_27 = [
     "ballot": "presidential",
     "tikTvd": "227200071233",
     "tikName": "Нанайская",
+    "regionCode": "27",
+    "regionTvd": "1001000882996",
+    "regionName": "Хабаровский край",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список": 13300,
@@ -1675,6 +1735,9 @@ export const president_2004_tic_227_region_27 = [
     "ballot": "presidential",
     "tikTvd": "227200071234",
     "tikName": "Охотская",
+    "regionCode": "27",
+    "regionTvd": "1001000882996",
+    "regionName": "Хабаровский край",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список": 8948,
@@ -1738,6 +1801,9 @@ export const president_2004_tic_227_region_27 = [
     "ballot": "presidential",
     "tikTvd": "227200071235",
     "tikName": "Николаевская-на-Амуре",
+    "regionCode": "27",
+    "regionTvd": "1001000882996",
+    "regionName": "Хабаровский край",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в список": 33333,
@@ -1826,6 +1892,9 @@ export const president_2004_tic_227_region_27 = [
     "ballot": "presidential",
     "tikTvd": "227200071236",
     "tikName": "Хабаровская",
+    "regionCode": "27",
+    "regionTvd": "1001000882996",
+    "regionName": "Хабаровский край",
     "uikCount": 61,
     "accounting": {
       "Число избирателей, внесенных в список": 65953,

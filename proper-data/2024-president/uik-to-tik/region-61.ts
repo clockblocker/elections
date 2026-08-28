@@ -7,15301 +7,28051 @@ export const president_2024_uik_to_tik_region_61 = [
   {
     "uikNumber": 1,
     "uikTvd": "4614001493330",
+    "uikName": "УИК №1",
     "tikTvd": "26120002976974",
-    "tikName": "Азовская городская"
+    "tikName": "Азовская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2,
     "uikTvd": "4614001493331",
+    "uikName": "УИК №2",
     "tikTvd": "26120002976974",
-    "tikName": "Азовская городская"
+    "tikName": "Азовская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 3,
     "uikTvd": "4614001493332",
+    "uikName": "УИК №3",
     "tikTvd": "26120002976974",
-    "tikName": "Азовская городская"
+    "tikName": "Азовская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 4,
     "uikTvd": "4614001493333",
+    "uikName": "УИК №4",
     "tikTvd": "26120002976974",
-    "tikName": "Азовская городская"
+    "tikName": "Азовская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 5,
     "uikTvd": "4614001493334",
+    "uikName": "УИК №5",
     "tikTvd": "26120002976974",
-    "tikName": "Азовская городская"
+    "tikName": "Азовская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 6,
     "uikTvd": "4614001493335",
+    "uikName": "УИК №6",
     "tikTvd": "26120002976974",
-    "tikName": "Азовская городская"
+    "tikName": "Азовская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 7,
     "uikTvd": "4614001493336",
+    "uikName": "УИК №7",
     "tikTvd": "26120002976974",
-    "tikName": "Азовская городская"
+    "tikName": "Азовская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 8,
     "uikTvd": "4614001493337",
+    "uikName": "УИК №8",
     "tikTvd": "26120002976974",
-    "tikName": "Азовская городская"
+    "tikName": "Азовская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 9,
     "uikTvd": "4614001493338",
+    "uikName": "УИК №9",
     "tikTvd": "26120002976974",
-    "tikName": "Азовская городская"
+    "tikName": "Азовская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 10,
     "uikTvd": "4614001493339",
+    "uikName": "УИК №10",
     "tikTvd": "26120002976974",
-    "tikName": "Азовская городская"
+    "tikName": "Азовская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 11,
     "uikTvd": "4614001493340",
+    "uikName": "УИК №11",
     "tikTvd": "26120002976974",
-    "tikName": "Азовская городская"
+    "tikName": "Азовская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 12,
     "uikTvd": "4614001493341",
+    "uikName": "УИК №12",
     "tikTvd": "26120002976974",
-    "tikName": "Азовская городская"
+    "tikName": "Азовская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 13,
     "uikTvd": "4614001493342",
+    "uikName": "УИК №13",
     "tikTvd": "26120002976974",
-    "tikName": "Азовская городская"
+    "tikName": "Азовская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 14,
     "uikTvd": "4614001493343",
+    "uikName": "УИК №14",
     "tikTvd": "26120002976974",
-    "tikName": "Азовская городская"
+    "tikName": "Азовская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 15,
     "uikTvd": "4614001493344",
+    "uikName": "УИК №15",
     "tikTvd": "26120002976974",
-    "tikName": "Азовская городская"
+    "tikName": "Азовская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 16,
     "uikTvd": "4614001493345",
+    "uikName": "УИК №16",
     "tikTvd": "26120002976974",
-    "tikName": "Азовская городская"
+    "tikName": "Азовская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 17,
     "uikTvd": "4614001493346",
+    "uikName": "УИК №17",
     "tikTvd": "26120002976974",
-    "tikName": "Азовская городская"
+    "tikName": "Азовская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 18,
     "uikTvd": "4614001493347",
+    "uikName": "УИК №18",
     "tikTvd": "26120002976974",
-    "tikName": "Азовская городская"
+    "tikName": "Азовская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 19,
     "uikTvd": "4614001493348",
+    "uikName": "УИК №19",
     "tikTvd": "26120002976974",
-    "tikName": "Азовская городская"
+    "tikName": "Азовская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 20,
     "uikTvd": "4614001493349",
+    "uikName": "УИК №20",
     "tikTvd": "26120002976974",
-    "tikName": "Азовская городская"
+    "tikName": "Азовская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 21,
     "uikTvd": "4614001493350",
+    "uikName": "УИК №21",
     "tikTvd": "26120002976974",
-    "tikName": "Азовская городская"
+    "tikName": "Азовская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 22,
     "uikTvd": "4614001493351",
+    "uikName": "УИК №22",
     "tikTvd": "26120002976974",
-    "tikName": "Азовская городская"
+    "tikName": "Азовская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 23,
     "uikTvd": "4614001493352",
+    "uikName": "УИК №23",
     "tikTvd": "26120002976974",
-    "tikName": "Азовская городская"
+    "tikName": "Азовская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 24,
     "uikTvd": "4614001493353",
+    "uikName": "УИК №24",
     "tikTvd": "26120002976974",
-    "tikName": "Азовская городская"
+    "tikName": "Азовская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 25,
     "uikTvd": "4614001493354",
+    "uikName": "УИК №25",
     "tikTvd": "26120002976974",
-    "tikName": "Азовская городская"
+    "tikName": "Азовская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 26,
     "uikTvd": "4614001493355",
+    "uikName": "УИК №26",
     "tikTvd": "26120002976974",
-    "tikName": "Азовская городская"
+    "tikName": "Азовская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 27,
     "uikTvd": "4614001493356",
+    "uikName": "УИК №27",
     "tikTvd": "26120002976974",
-    "tikName": "Азовская городская"
+    "tikName": "Азовская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 28,
     "uikTvd": "4614001493357",
+    "uikName": "УИК №28",
     "tikTvd": "26120002976974",
-    "tikName": "Азовская городская"
+    "tikName": "Азовская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 29,
     "uikTvd": "4614001493358",
+    "uikName": "УИК №29",
     "tikTvd": "26120002976974",
-    "tikName": "Азовская городская"
+    "tikName": "Азовская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 30,
     "uikTvd": "4614001493359",
+    "uikName": "УИК №30",
     "tikTvd": "26120002976974",
-    "tikName": "Азовская городская"
+    "tikName": "Азовская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 31,
     "uikTvd": "4614001493360",
+    "uikName": "УИК №31",
     "tikTvd": "26120002976974",
-    "tikName": "Азовская городская"
+    "tikName": "Азовская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 32,
     "uikTvd": "4614001493361",
+    "uikName": "УИК №32",
     "tikTvd": "26120002976974",
-    "tikName": "Азовская городская"
+    "tikName": "Азовская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 33,
     "uikTvd": "4614001493362",
+    "uikName": "УИК №33",
     "tikTvd": "26120002976974",
-    "tikName": "Азовская городская"
+    "tikName": "Азовская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 34,
     "uikTvd": "4614001493363",
+    "uikName": "УИК №34",
     "tikTvd": "26120002976974",
-    "tikName": "Азовская городская"
+    "tikName": "Азовская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 35,
     "uikTvd": "4614001493364",
+    "uikName": "УИК №35",
     "tikTvd": "26120002976974",
-    "tikName": "Азовская городская"
+    "tikName": "Азовская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 36,
     "uikTvd": "4614001493365",
+    "uikName": "УИК №36",
     "tikTvd": "26120002976974",
-    "tikName": "Азовская городская"
+    "tikName": "Азовская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 37,
     "uikTvd": "4614001493366",
+    "uikName": "УИК №37",
     "tikTvd": "26120002976974",
-    "tikName": "Азовская городская"
+    "tikName": "Азовская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 38,
     "uikTvd": "4614001493367",
+    "uikName": "УИК №38",
     "tikTvd": "26120002976974",
-    "tikName": "Азовская городская"
+    "tikName": "Азовская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 39,
     "uikTvd": "4614001493368",
+    "uikName": "УИК №39",
     "tikTvd": "26120002976974",
-    "tikName": "Азовская городская"
+    "tikName": "Азовская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 40,
     "uikTvd": "4614001493369",
+    "uikName": "УИК №40",
     "tikTvd": "26120002976974",
-    "tikName": "Азовская городская"
+    "tikName": "Азовская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 41,
     "uikTvd": "4614001493370",
+    "uikName": "УИК №41",
     "tikTvd": "26120002976974",
-    "tikName": "Азовская городская"
+    "tikName": "Азовская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 42,
     "uikTvd": "4614001493371",
+    "uikName": "УИК №42",
     "tikTvd": "26120002976974",
-    "tikName": "Азовская городская"
+    "tikName": "Азовская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 43,
     "uikTvd": "4614001493372",
+    "uikName": "УИК №43",
     "tikTvd": "26120002976974",
-    "tikName": "Азовская городская"
+    "tikName": "Азовская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 44,
     "uikTvd": "4614001493373",
+    "uikName": "УИК №44",
     "tikTvd": "26120002976974",
-    "tikName": "Азовская городская"
+    "tikName": "Азовская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 45,
     "uikTvd": "4614001493374",
+    "uikName": "УИК №45",
     "tikTvd": "26120002976974",
-    "tikName": "Азовская городская"
+    "tikName": "Азовская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 46,
     "uikTvd": "4614002539671",
+    "uikName": "УИК №46",
     "tikTvd": "26120002976975",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 47,
     "uikTvd": "4614002539672",
+    "uikName": "УИК №47",
     "tikTvd": "26120002976975",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 48,
     "uikTvd": "4614002539673",
+    "uikName": "УИК №48",
     "tikTvd": "26120002976975",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 49,
     "uikTvd": "4614002539674",
+    "uikName": "УИК №49",
     "tikTvd": "26120002976975",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 51,
     "uikTvd": "4614002539675",
+    "uikName": "УИК №51",
     "tikTvd": "26120002976975",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 52,
     "uikTvd": "4614002539676",
+    "uikName": "УИК №52",
     "tikTvd": "26120002976975",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 53,
     "uikTvd": "4614002539677",
+    "uikName": "УИК №53",
     "tikTvd": "26120002976975",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 54,
     "uikTvd": "4614002539678",
+    "uikName": "УИК №54",
     "tikTvd": "26120002976975",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 55,
     "uikTvd": "4614002539679",
+    "uikName": "УИК №55",
     "tikTvd": "26120002976975",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 56,
     "uikTvd": "4614002539680",
+    "uikName": "УИК №56",
     "tikTvd": "26120002976975",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 57,
     "uikTvd": "4614002539681",
+    "uikName": "УИК №57",
     "tikTvd": "26120002976975",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 58,
     "uikTvd": "4614002539682",
+    "uikName": "УИК №58",
     "tikTvd": "26120002976975",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 59,
     "uikTvd": "4614002539683",
+    "uikName": "УИК №59",
     "tikTvd": "26120002976975",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 60,
     "uikTvd": "4614002539684",
+    "uikName": "УИК №60",
     "tikTvd": "26120002976975",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 61,
     "uikTvd": "4614002539685",
+    "uikName": "УИК №61",
     "tikTvd": "26120002976975",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 62,
     "uikTvd": "4614002539686",
+    "uikName": "УИК №62",
     "tikTvd": "26120002976975",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 63,
     "uikTvd": "4614002539687",
+    "uikName": "УИК №63",
     "tikTvd": "26120002976975",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 64,
     "uikTvd": "4614002539688",
+    "uikName": "УИК №64",
     "tikTvd": "26120002976975",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 65,
     "uikTvd": "4614002539689",
+    "uikName": "УИК №65",
     "tikTvd": "26120002976975",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 66,
     "uikTvd": "4614002539690",
+    "uikName": "УИК №66",
     "tikTvd": "26120002976975",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 67,
     "uikTvd": "4614002539691",
+    "uikName": "УИК №67",
     "tikTvd": "26120002976975",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 68,
     "uikTvd": "4614002539692",
+    "uikName": "УИК №68",
     "tikTvd": "26120002976975",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 69,
     "uikTvd": "4614002539693",
+    "uikName": "УИК №69",
     "tikTvd": "26120002976975",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 70,
     "uikTvd": "4614002539694",
+    "uikName": "УИК №70",
     "tikTvd": "26120002976975",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 71,
     "uikTvd": "4614002539695",
+    "uikName": "УИК №71",
     "tikTvd": "26120002976975",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 72,
     "uikTvd": "4614002539696",
+    "uikName": "УИК №72",
     "tikTvd": "26120002976975",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 73,
     "uikTvd": "4614002539697",
+    "uikName": "УИК №73",
     "tikTvd": "26120002976975",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 74,
     "uikTvd": "4614002539698",
+    "uikName": "УИК №74",
     "tikTvd": "26120002976975",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 75,
     "uikTvd": "4614002539699",
+    "uikName": "УИК №75",
     "tikTvd": "26120002976975",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 76,
     "uikTvd": "4614002539700",
+    "uikName": "УИК №76",
     "tikTvd": "26120002976975",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 77,
     "uikTvd": "4614002539701",
+    "uikName": "УИК №77",
     "tikTvd": "26120002976975",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 78,
     "uikTvd": "4614002539702",
+    "uikName": "УИК №78",
     "tikTvd": "26120002976975",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 79,
     "uikTvd": "4614002539703",
+    "uikName": "УИК №79",
     "tikTvd": "26120002976975",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 80,
     "uikTvd": "4614002539704",
+    "uikName": "УИК №80",
     "tikTvd": "26120002976975",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 81,
     "uikTvd": "4614002539705",
+    "uikName": "УИК №81",
     "tikTvd": "26120002976975",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 82,
     "uikTvd": "4614002539706",
+    "uikName": "УИК №82",
     "tikTvd": "26120002976975",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 83,
     "uikTvd": "4614002539707",
+    "uikName": "УИК №83",
     "tikTvd": "26120002976975",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 84,
     "uikTvd": "4614002539708",
+    "uikName": "УИК №84",
     "tikTvd": "26120002976975",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 85,
     "uikTvd": "4614002539709",
+    "uikName": "УИК №85",
     "tikTvd": "26120002976975",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 86,
     "uikTvd": "4614002539710",
+    "uikName": "УИК №86",
     "tikTvd": "26120002976975",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 87,
     "uikTvd": "4614002539711",
+    "uikName": "УИК №87",
     "tikTvd": "26120002976975",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 88,
     "uikTvd": "4614002539712",
+    "uikName": "УИК №88",
     "tikTvd": "26120002976975",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 89,
     "uikTvd": "4614002539713",
+    "uikName": "УИК №89",
     "tikTvd": "26120002976975",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 90,
     "uikTvd": "4614002539714",
+    "uikName": "УИК №90",
     "tikTvd": "26120002976975",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 91,
     "uikTvd": "4614002539715",
+    "uikName": "УИК №91",
     "tikTvd": "26120002976975",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 92,
     "uikTvd": "4614002539716",
+    "uikName": "УИК №92",
     "tikTvd": "26120002976975",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 93,
     "uikTvd": "4614002539717",
+    "uikName": "УИК №93",
     "tikTvd": "26120002976975",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 94,
     "uikTvd": "4614002539718",
+    "uikName": "УИК №94",
     "tikTvd": "26120002976975",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 95,
     "uikTvd": "4614002539719",
+    "uikName": "УИК №95",
     "tikTvd": "26120002976975",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 96,
     "uikTvd": "4614002539720",
+    "uikName": "УИК №96",
     "tikTvd": "26120002976975",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 97,
     "uikTvd": "4614002539721",
+    "uikName": "УИК №97",
     "tikTvd": "26120002976975",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 99,
     "uikTvd": "4614002539722",
+    "uikName": "УИК №99",
     "tikTvd": "26120002976975",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 100,
     "uikTvd": "4614002539723",
+    "uikName": "УИК №100",
     "tikTvd": "26120002976975",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 101,
     "uikTvd": "4614002539724",
+    "uikName": "УИК №101",
     "tikTvd": "26120002976975",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 102,
     "uikTvd": "4614002539725",
+    "uikName": "УИК №102",
     "tikTvd": "26120002976975",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 103,
     "uikTvd": "4614002539726",
+    "uikName": "УИК №103",
     "tikTvd": "26120002976975",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 104,
     "uikTvd": "4614002539727",
+    "uikName": "УИК №104",
     "tikTvd": "26120002976975",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 105,
     "uikTvd": "4614002539728",
+    "uikName": "УИК №105",
     "tikTvd": "26120002976975",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 106,
     "uikTvd": "4614002539729",
+    "uikName": "УИК №106",
     "tikTvd": "26120002976975",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 107,
     "uikTvd": "4614002539730",
+    "uikName": "УИК №107",
     "tikTvd": "26120002976975",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 108,
     "uikTvd": "4614002539731",
+    "uikName": "УИК №108",
     "tikTvd": "26120002976975",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 109,
     "uikTvd": "4614002539732",
+    "uikName": "УИК №109",
     "tikTvd": "26120002976975",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 110,
     "uikTvd": "4614002539733",
+    "uikName": "УИК №110",
     "tikTvd": "26120002976975",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 111,
     "uikTvd": "4614002539734",
+    "uikName": "УИК №111",
     "tikTvd": "26120002976975",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 112,
     "uikTvd": "4614002539735",
+    "uikName": "УИК №112",
     "tikTvd": "26120002976975",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 113,
     "uikTvd": "4614002539736",
+    "uikName": "УИК №113",
     "tikTvd": "26120002976975",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 114,
     "uikTvd": "4614002539737",
+    "uikName": "УИК №114",
     "tikTvd": "26120002976975",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 115,
     "uikTvd": "4614002539738",
+    "uikName": "УИК №115",
     "tikTvd": "26120002976975",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 116,
     "uikTvd": "4614002539739",
+    "uikName": "УИК №116",
     "tikTvd": "26120002976975",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 117,
     "uikTvd": "4614002539740",
+    "uikName": "УИК №117",
     "tikTvd": "26120002976975",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 118,
     "uikTvd": "4614002539741",
+    "uikName": "УИК №118",
     "tikTvd": "26120002976975",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 119,
     "uikTvd": "4614002539742",
+    "uikName": "УИК №119",
     "tikTvd": "26120002976975",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 120,
     "uikTvd": "4614002539743",
+    "uikName": "УИК №120",
     "tikTvd": "26120002976975",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 121,
     "uikTvd": "4614002539744",
+    "uikName": "УИК №121",
     "tikTvd": "26120002976975",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 122,
     "uikTvd": "4614002539745",
+    "uikName": "УИК №122",
     "tikTvd": "26120002976975",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 123,
     "uikTvd": "4614002539746",
+    "uikName": "УИК №123",
     "tikTvd": "26120002976975",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 124,
     "uikTvd": "4614002539747",
+    "uikName": "УИК №124",
     "tikTvd": "26120002976975",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 125,
     "uikTvd": "4614002539748",
+    "uikName": "УИК №125",
     "tikTvd": "26120002976975",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 126,
     "uikTvd": "4614002539749",
+    "uikName": "УИК №126",
     "tikTvd": "26120002976975",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 127,
     "uikTvd": "46140031147330",
+    "uikName": "УИК №127",
     "tikTvd": "26120002976964",
-    "tikName": "Аксайская"
+    "tikName": "Аксайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 128,
     "uikTvd": "46140031147331",
+    "uikName": "УИК №128",
     "tikTvd": "26120002976964",
-    "tikName": "Аксайская"
+    "tikName": "Аксайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 129,
     "uikTvd": "46140031147332",
+    "uikName": "УИК №129",
     "tikTvd": "26120002976964",
-    "tikName": "Аксайская"
+    "tikName": "Аксайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 130,
     "uikTvd": "46140031147333",
+    "uikName": "УИК №130",
     "tikTvd": "26120002976964",
-    "tikName": "Аксайская"
+    "tikName": "Аксайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 131,
     "uikTvd": "46140031147334",
+    "uikName": "УИК №131",
     "tikTvd": "26120002976964",
-    "tikName": "Аксайская"
+    "tikName": "Аксайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 132,
     "uikTvd": "46140031147335",
+    "uikName": "УИК №132",
     "tikTvd": "26120002976964",
-    "tikName": "Аксайская"
+    "tikName": "Аксайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 133,
     "uikTvd": "46140031147336",
+    "uikName": "УИК №133",
     "tikTvd": "26120002976964",
-    "tikName": "Аксайская"
+    "tikName": "Аксайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 134,
     "uikTvd": "46140031147337",
+    "uikName": "УИК №134",
     "tikTvd": "26120002976964",
-    "tikName": "Аксайская"
+    "tikName": "Аксайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 135,
     "uikTvd": "46140031147338",
+    "uikName": "УИК №135",
     "tikTvd": "26120002976964",
-    "tikName": "Аксайская"
+    "tikName": "Аксайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 136,
     "uikTvd": "46140031147339",
+    "uikName": "УИК №136",
     "tikTvd": "26120002976964",
-    "tikName": "Аксайская"
+    "tikName": "Аксайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 137,
     "uikTvd": "46140031147340",
+    "uikName": "УИК №137",
     "tikTvd": "26120002976964",
-    "tikName": "Аксайская"
+    "tikName": "Аксайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 138,
     "uikTvd": "46140031147341",
+    "uikName": "УИК №138",
     "tikTvd": "26120002976964",
-    "tikName": "Аксайская"
+    "tikName": "Аксайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 139,
     "uikTvd": "46140031147342",
+    "uikName": "УИК №139",
     "tikTvd": "26120002976964",
-    "tikName": "Аксайская"
+    "tikName": "Аксайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 140,
     "uikTvd": "46140031147343",
+    "uikName": "УИК №140",
     "tikTvd": "26120002976964",
-    "tikName": "Аксайская"
+    "tikName": "Аксайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 141,
     "uikTvd": "46140031147344",
+    "uikName": "УИК №141",
     "tikTvd": "26120002976964",
-    "tikName": "Аксайская"
+    "tikName": "Аксайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 142,
     "uikTvd": "46140031147345",
+    "uikName": "УИК №142",
     "tikTvd": "26120002976964",
-    "tikName": "Аксайская"
+    "tikName": "Аксайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 143,
     "uikTvd": "46140031147346",
+    "uikName": "УИК №143",
     "tikTvd": "26120002976964",
-    "tikName": "Аксайская"
+    "tikName": "Аксайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 144,
     "uikTvd": "46140031147347",
+    "uikName": "УИК №144",
     "tikTvd": "26120002976964",
-    "tikName": "Аксайская"
+    "tikName": "Аксайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 145,
     "uikTvd": "46140031147348",
+    "uikName": "УИК №145",
     "tikTvd": "26120002976964",
-    "tikName": "Аксайская"
+    "tikName": "Аксайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 146,
     "uikTvd": "46140031147349",
+    "uikName": "УИК №146",
     "tikTvd": "26120002976964",
-    "tikName": "Аксайская"
+    "tikName": "Аксайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 147,
     "uikTvd": "46140031147350",
+    "uikName": "УИК №147",
     "tikTvd": "26120002976964",
-    "tikName": "Аксайская"
+    "tikName": "Аксайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 148,
     "uikTvd": "46140031147351",
+    "uikName": "УИК №148",
     "tikTvd": "26120002976964",
-    "tikName": "Аксайская"
+    "tikName": "Аксайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 149,
     "uikTvd": "46140031147352",
+    "uikName": "УИК №149",
     "tikTvd": "26120002976964",
-    "tikName": "Аксайская"
+    "tikName": "Аксайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 150,
     "uikTvd": "46140031147353",
+    "uikName": "УИК №150",
     "tikTvd": "26120002976964",
-    "tikName": "Аксайская"
+    "tikName": "Аксайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 151,
     "uikTvd": "46140031147354",
+    "uikName": "УИК №151",
     "tikTvd": "26120002976964",
-    "tikName": "Аксайская"
+    "tikName": "Аксайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 152,
     "uikTvd": "46140031147355",
+    "uikName": "УИК №152",
     "tikTvd": "26120002976964",
-    "tikName": "Аксайская"
+    "tikName": "Аксайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 153,
     "uikTvd": "46140031147356",
+    "uikName": "УИК №153",
     "tikTvd": "26120002976964",
-    "tikName": "Аксайская"
+    "tikName": "Аксайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 154,
     "uikTvd": "46140031147357",
+    "uikName": "УИК №154",
     "tikTvd": "26120002976964",
-    "tikName": "Аксайская"
+    "tikName": "Аксайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 155,
     "uikTvd": "46140031147358",
+    "uikName": "УИК №155",
     "tikTvd": "26120002976964",
-    "tikName": "Аксайская"
+    "tikName": "Аксайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 156,
     "uikTvd": "46140031147359",
+    "uikName": "УИК №156",
     "tikTvd": "26120002976964",
-    "tikName": "Аксайская"
+    "tikName": "Аксайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 157,
     "uikTvd": "46140031147360",
+    "uikName": "УИК №157",
     "tikTvd": "26120002976964",
-    "tikName": "Аксайская"
+    "tikName": "Аксайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 158,
     "uikTvd": "46140031147361",
+    "uikName": "УИК №158",
     "tikTvd": "26120002976964",
-    "tikName": "Аксайская"
+    "tikName": "Аксайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 159,
     "uikTvd": "46140031147362",
+    "uikName": "УИК №159",
     "tikTvd": "26120002976964",
-    "tikName": "Аксайская"
+    "tikName": "Аксайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 160,
     "uikTvd": "46140031147363",
+    "uikName": "УИК №160",
     "tikTvd": "26120002976964",
-    "tikName": "Аксайская"
+    "tikName": "Аксайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 161,
     "uikTvd": "46140031147364",
+    "uikName": "УИК №161",
     "tikTvd": "26120002976964",
-    "tikName": "Аксайская"
+    "tikName": "Аксайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 162,
     "uikTvd": "46140031147365",
+    "uikName": "УИК №162",
     "tikTvd": "26120002976964",
-    "tikName": "Аксайская"
+    "tikName": "Аксайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 163,
     "uikTvd": "46140031147366",
+    "uikName": "УИК №163",
     "tikTvd": "26120002976964",
-    "tikName": "Аксайская"
+    "tikName": "Аксайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 164,
     "uikTvd": "46140031147367",
+    "uikName": "УИК №164",
     "tikTvd": "26120002976964",
-    "tikName": "Аксайская"
+    "tikName": "Аксайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 165,
     "uikTvd": "46140031147368",
+    "uikName": "УИК №165",
     "tikTvd": "26120002976964",
-    "tikName": "Аксайская"
+    "tikName": "Аксайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 166,
     "uikTvd": "46140031147369",
+    "uikName": "УИК №166",
     "tikTvd": "26120002976964",
-    "tikName": "Аксайская"
+    "tikName": "Аксайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 167,
     "uikTvd": "46140031147370",
+    "uikName": "УИК №167",
     "tikTvd": "26120002976964",
-    "tikName": "Аксайская"
+    "tikName": "Аксайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 168,
     "uikTvd": "46140031147371",
+    "uikName": "УИК №168",
     "tikTvd": "26120002976964",
-    "tikName": "Аксайская"
+    "tikName": "Аксайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 169,
     "uikTvd": "46140031147372",
+    "uikName": "УИК №169",
     "tikTvd": "26120002976964",
-    "tikName": "Аксайская"
+    "tikName": "Аксайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 170,
     "uikTvd": "46140031147373",
+    "uikName": "УИК №170",
     "tikTvd": "26120002976964",
-    "tikName": "Аксайская"
+    "tikName": "Аксайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 171,
     "uikTvd": "46140031147374",
+    "uikName": "УИК №171",
     "tikTvd": "26120002976964",
-    "tikName": "Аксайская"
+    "tikName": "Аксайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 172,
     "uikTvd": "46140031147375",
+    "uikName": "УИК №172",
     "tikTvd": "26120002976964",
-    "tikName": "Аксайская"
+    "tikName": "Аксайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 173,
     "uikTvd": "46140031147376",
+    "uikName": "УИК №173",
     "tikTvd": "26120002976964",
-    "tikName": "Аксайская"
+    "tikName": "Аксайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 174,
     "uikTvd": "46140031147377",
+    "uikName": "УИК №174",
     "tikTvd": "26120002976964",
-    "tikName": "Аксайская"
+    "tikName": "Аксайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 175,
     "uikTvd": "46140031147378",
+    "uikName": "УИК №175",
     "tikTvd": "26120002976964",
-    "tikName": "Аксайская"
+    "tikName": "Аксайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 176,
     "uikTvd": "46140031147379",
+    "uikName": "УИК №176",
     "tikTvd": "26120002976964",
-    "tikName": "Аксайская"
+    "tikName": "Аксайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 177,
     "uikTvd": "46140031147380",
+    "uikName": "УИК №177",
     "tikTvd": "26120002976964",
-    "tikName": "Аксайская"
+    "tikName": "Аксайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 178,
     "uikTvd": "46140031147381",
+    "uikName": "УИК №178",
     "tikTvd": "26120002976964",
-    "tikName": "Аксайская"
+    "tikName": "Аксайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 179,
     "uikTvd": "46140031147382",
+    "uikName": "УИК №179",
     "tikTvd": "26120002976964",
-    "tikName": "Аксайская"
+    "tikName": "Аксайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 180,
     "uikTvd": "46140031147383",
+    "uikName": "УИК №180",
     "tikTvd": "26120002976964",
-    "tikName": "Аксайская"
+    "tikName": "Аксайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 181,
     "uikTvd": "46140031147384",
+    "uikName": "УИК №181",
     "tikTvd": "26120002976964",
-    "tikName": "Аксайская"
+    "tikName": "Аксайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 182,
     "uikTvd": "46140031147385",
+    "uikName": "УИК №182",
     "tikTvd": "26120002976964",
-    "tikName": "Аксайская"
+    "tikName": "Аксайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 183,
     "uikTvd": "46140031147386",
+    "uikName": "УИК №183",
     "tikTvd": "26120002976964",
-    "tikName": "Аксайская"
+    "tikName": "Аксайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 184,
     "uikTvd": "46140031147387",
+    "uikName": "УИК №184",
     "tikTvd": "26120002976964",
-    "tikName": "Аксайская"
+    "tikName": "Аксайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 185,
     "uikTvd": "46140031147388",
+    "uikName": "УИК №185",
     "tikTvd": "26120002976964",
-    "tikName": "Аксайская"
+    "tikName": "Аксайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 186,
     "uikTvd": "46140031147389",
+    "uikName": "УИК №186",
     "tikTvd": "26120002976964",
-    "tikName": "Аксайская"
+    "tikName": "Аксайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 187,
     "uikTvd": "46140031147390",
+    "uikName": "УИК №187",
     "tikTvd": "26120002976964",
-    "tikName": "Аксайская"
+    "tikName": "Аксайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 188,
     "uikTvd": "46140031147391",
+    "uikName": "УИК №188",
     "tikTvd": "26120002976964",
-    "tikName": "Аксайская"
+    "tikName": "Аксайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 189,
     "uikTvd": "46140031147392",
+    "uikName": "УИК №189",
     "tikTvd": "26120002976964",
-    "tikName": "Аксайская"
+    "tikName": "Аксайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 190,
     "uikTvd": "46140031147393",
+    "uikName": "УИК №190",
     "tikTvd": "26120002976964",
-    "tikName": "Аксайская"
+    "tikName": "Аксайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 191,
     "uikTvd": "46140031147666",
+    "uikName": "УИК №191",
     "tikTvd": "26120002976964",
-    "tikName": "Аксайская"
+    "tikName": "Аксайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 192,
     "uikTvd": "4614004365181",
+    "uikName": "УИК №192",
     "tikTvd": "26120002976971",
-    "tikName": "Багаевская"
+    "tikName": "Багаевская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 193,
     "uikTvd": "4614004365182",
+    "uikName": "УИК №193",
     "tikTvd": "26120002976971",
-    "tikName": "Багаевская"
+    "tikName": "Багаевская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 194,
     "uikTvd": "4614004365183",
+    "uikName": "УИК №194",
     "tikTvd": "26120002976971",
-    "tikName": "Багаевская"
+    "tikName": "Багаевская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 195,
     "uikTvd": "4614004365184",
+    "uikName": "УИК №195",
     "tikTvd": "26120002976971",
-    "tikName": "Багаевская"
+    "tikName": "Багаевская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 196,
     "uikTvd": "4614004365185",
+    "uikName": "УИК №196",
     "tikTvd": "26120002976971",
-    "tikName": "Багаевская"
+    "tikName": "Багаевская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 197,
     "uikTvd": "4614004365186",
+    "uikName": "УИК №197",
     "tikTvd": "26120002976971",
-    "tikName": "Багаевская"
+    "tikName": "Багаевская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 198,
     "uikTvd": "4614004365187",
+    "uikName": "УИК №198",
     "tikTvd": "26120002976971",
-    "tikName": "Багаевская"
+    "tikName": "Багаевская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 199,
     "uikTvd": "4614004365188",
+    "uikName": "УИК №199",
     "tikTvd": "26120002976971",
-    "tikName": "Багаевская"
+    "tikName": "Багаевская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 200,
     "uikTvd": "4614004365189",
+    "uikName": "УИК №200",
     "tikTvd": "26120002976971",
-    "tikName": "Багаевская"
+    "tikName": "Багаевская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 201,
     "uikTvd": "4614004365190",
+    "uikName": "УИК №201",
     "tikTvd": "26120002976971",
-    "tikName": "Багаевская"
+    "tikName": "Багаевская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 202,
     "uikTvd": "4614004365191",
+    "uikName": "УИК №202",
     "tikTvd": "26120002976971",
-    "tikName": "Багаевская"
+    "tikName": "Багаевская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 203,
     "uikTvd": "4614004365192",
+    "uikName": "УИК №203",
     "tikTvd": "26120002976971",
-    "tikName": "Багаевская"
+    "tikName": "Багаевская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 204,
     "uikTvd": "4614004365193",
+    "uikName": "УИК №204",
     "tikTvd": "26120002976971",
-    "tikName": "Багаевская"
+    "tikName": "Багаевская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 205,
     "uikTvd": "4614004365194",
+    "uikName": "УИК №205",
     "tikTvd": "26120002976971",
-    "tikName": "Багаевская"
+    "tikName": "Багаевская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 206,
     "uikTvd": "4614004365195",
+    "uikName": "УИК №206",
     "tikTvd": "26120002976971",
-    "tikName": "Багаевская"
+    "tikName": "Багаевская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 207,
     "uikTvd": "4614004365196",
+    "uikName": "УИК №207",
     "tikTvd": "26120002976971",
-    "tikName": "Багаевская"
+    "tikName": "Багаевская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 208,
     "uikTvd": "4614004365197",
+    "uikName": "УИК №208",
     "tikTvd": "26120002976971",
-    "tikName": "Багаевская"
+    "tikName": "Багаевская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 209,
     "uikTvd": "4614004365198",
+    "uikName": "УИК №209",
     "tikTvd": "26120002976971",
-    "tikName": "Багаевская"
+    "tikName": "Багаевская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 210,
     "uikTvd": "4614004365199",
+    "uikName": "УИК №210",
     "tikTvd": "26120002976971",
-    "tikName": "Багаевская"
+    "tikName": "Багаевская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 211,
     "uikTvd": "4614004365200",
+    "uikName": "УИК №211",
     "tikTvd": "26120002976971",
-    "tikName": "Багаевская"
+    "tikName": "Багаевская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 212,
     "uikTvd": "4614004365201",
+    "uikName": "УИК №212",
     "tikTvd": "26120002976971",
-    "tikName": "Багаевская"
+    "tikName": "Багаевская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 213,
     "uikTvd": "4614004365202",
+    "uikName": "УИК №213",
     "tikTvd": "26120002976971",
-    "tikName": "Багаевская"
+    "tikName": "Багаевская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 214,
     "uikTvd": "4614004365203",
+    "uikName": "УИК №214",
     "tikTvd": "26120002976971",
-    "tikName": "Багаевская"
+    "tikName": "Багаевская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 215,
     "uikTvd": "4614004365204",
+    "uikName": "УИК №215",
     "tikTvd": "26120002976971",
-    "tikName": "Багаевская"
+    "tikName": "Багаевская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 216,
     "uikTvd": "46140031147667",
+    "uikName": "УИК №216",
     "tikTvd": "26120002976964",
-    "tikName": "Аксайская"
+    "tikName": "Аксайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 217,
     "uikTvd": "46140053109722",
+    "uikName": "УИК №217",
     "tikTvd": "26120002976946",
-    "tikName": "Батайская городская"
+    "tikName": "Батайская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 218,
     "uikTvd": "46140053109723",
+    "uikName": "УИК №218",
     "tikTvd": "26120002976946",
-    "tikName": "Батайская городская"
+    "tikName": "Батайская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 219,
     "uikTvd": "46140053109724",
+    "uikName": "УИК №219",
     "tikTvd": "26120002976946",
-    "tikName": "Батайская городская"
+    "tikName": "Батайская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 220,
     "uikTvd": "46140053109725",
+    "uikName": "УИК №220",
     "tikTvd": "26120002976946",
-    "tikName": "Батайская городская"
+    "tikName": "Батайская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 221,
     "uikTvd": "46140053109726",
+    "uikName": "УИК №221",
     "tikTvd": "26120002976946",
-    "tikName": "Батайская городская"
+    "tikName": "Батайская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 222,
     "uikTvd": "46140053109727",
+    "uikName": "УИК №222",
     "tikTvd": "26120002976946",
-    "tikName": "Батайская городская"
+    "tikName": "Батайская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 223,
     "uikTvd": "46140053109728",
+    "uikName": "УИК №223",
     "tikTvd": "26120002976946",
-    "tikName": "Батайская городская"
+    "tikName": "Батайская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 224,
     "uikTvd": "46140053109729",
+    "uikName": "УИК №224",
     "tikTvd": "26120002976946",
-    "tikName": "Батайская городская"
+    "tikName": "Батайская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 225,
     "uikTvd": "46140053109730",
+    "uikName": "УИК №225",
     "tikTvd": "26120002976946",
-    "tikName": "Батайская городская"
+    "tikName": "Батайская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 226,
     "uikTvd": "46140053109731",
+    "uikName": "УИК №226",
     "tikTvd": "26120002976946",
-    "tikName": "Батайская городская"
+    "tikName": "Батайская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 227,
     "uikTvd": "46140053109732",
+    "uikName": "УИК №227",
     "tikTvd": "26120002976946",
-    "tikName": "Батайская городская"
+    "tikName": "Батайская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 228,
     "uikTvd": "46140053109733",
+    "uikName": "УИК №228",
     "tikTvd": "26120002976946",
-    "tikName": "Батайская городская"
+    "tikName": "Батайская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 229,
     "uikTvd": "46140053109734",
+    "uikName": "УИК №229",
     "tikTvd": "26120002976946",
-    "tikName": "Батайская городская"
+    "tikName": "Батайская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 230,
     "uikTvd": "46140053109735",
+    "uikName": "УИК №230",
     "tikTvd": "26120002976946",
-    "tikName": "Батайская городская"
+    "tikName": "Батайская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 231,
     "uikTvd": "46140053109736",
+    "uikName": "УИК №231",
     "tikTvd": "26120002976946",
-    "tikName": "Батайская городская"
+    "tikName": "Батайская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 232,
     "uikTvd": "46140053109737",
+    "uikName": "УИК №232",
     "tikTvd": "26120002976946",
-    "tikName": "Батайская городская"
+    "tikName": "Батайская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 233,
     "uikTvd": "46140053109738",
+    "uikName": "УИК №233",
     "tikTvd": "26120002976946",
-    "tikName": "Батайская городская"
+    "tikName": "Батайская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 234,
     "uikTvd": "46140053109739",
+    "uikName": "УИК №234",
     "tikTvd": "26120002976946",
-    "tikName": "Батайская городская"
+    "tikName": "Батайская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 235,
     "uikTvd": "46140053109740",
+    "uikName": "УИК №235",
     "tikTvd": "26120002976946",
-    "tikName": "Батайская городская"
+    "tikName": "Батайская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 236,
     "uikTvd": "46140053109741",
+    "uikName": "УИК №236",
     "tikTvd": "26120002976946",
-    "tikName": "Батайская городская"
+    "tikName": "Батайская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 237,
     "uikTvd": "46140053109742",
+    "uikName": "УИК №237",
     "tikTvd": "26120002976946",
-    "tikName": "Батайская городская"
+    "tikName": "Батайская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 238,
     "uikTvd": "46140053109743",
+    "uikName": "УИК №238",
     "tikTvd": "26120002976946",
-    "tikName": "Батайская городская"
+    "tikName": "Батайская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 239,
     "uikTvd": "46140053109744",
+    "uikName": "УИК №239",
     "tikTvd": "26120002976946",
-    "tikName": "Батайская городская"
+    "tikName": "Батайская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 240,
     "uikTvd": "46140053109745",
+    "uikName": "УИК №240",
     "tikTvd": "26120002976946",
-    "tikName": "Батайская городская"
+    "tikName": "Батайская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 241,
     "uikTvd": "46140053109746",
+    "uikName": "УИК №241",
     "tikTvd": "26120002976946",
-    "tikName": "Батайская городская"
+    "tikName": "Батайская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 242,
     "uikTvd": "46140053109747",
+    "uikName": "УИК №242",
     "tikTvd": "26120002976946",
-    "tikName": "Батайская городская"
+    "tikName": "Батайская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 243,
     "uikTvd": "46140053109748",
+    "uikName": "УИК №243",
     "tikTvd": "26120002976946",
-    "tikName": "Батайская городская"
+    "tikName": "Батайская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 244,
     "uikTvd": "46140053109749",
+    "uikName": "УИК №244",
     "tikTvd": "26120002976946",
-    "tikName": "Батайская городская"
+    "tikName": "Батайская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 245,
     "uikTvd": "46140053109750",
+    "uikName": "УИК №245",
     "tikTvd": "26120002976946",
-    "tikName": "Батайская городская"
+    "tikName": "Батайская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 246,
     "uikTvd": "46140053109751",
+    "uikName": "УИК №246",
     "tikTvd": "26120002976946",
-    "tikName": "Батайская городская"
+    "tikName": "Батайская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 247,
     "uikTvd": "46140053109752",
+    "uikName": "УИК №247",
     "tikTvd": "26120002976946",
-    "tikName": "Батайская городская"
+    "tikName": "Батайская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 248,
     "uikTvd": "46140053109753",
+    "uikName": "УИК №248",
     "tikTvd": "26120002976946",
-    "tikName": "Батайская городская"
+    "tikName": "Батайская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 249,
     "uikTvd": "46140053109754",
+    "uikName": "УИК №249",
     "tikTvd": "26120002976946",
-    "tikName": "Батайская городская"
+    "tikName": "Батайская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 250,
     "uikTvd": "46140053109755",
+    "uikName": "УИК №250",
     "tikTvd": "26120002976946",
-    "tikName": "Батайская городская"
+    "tikName": "Батайская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 251,
     "uikTvd": "46140053109756",
+    "uikName": "УИК №251",
     "tikTvd": "26120002976946",
-    "tikName": "Батайская городская"
+    "tikName": "Батайская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 252,
     "uikTvd": "46140053109757",
+    "uikName": "УИК №252",
     "tikTvd": "26120002976946",
-    "tikName": "Батайская городская"
+    "tikName": "Батайская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 253,
     "uikTvd": "46140053109758",
+    "uikName": "УИК №253",
     "tikTvd": "26120002976946",
-    "tikName": "Батайская городская"
+    "tikName": "Батайская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 254,
     "uikTvd": "46140053109759",
+    "uikName": "УИК №254",
     "tikTvd": "26120002976946",
-    "tikName": "Батайская городская"
+    "tikName": "Батайская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 255,
     "uikTvd": "46140053109760",
+    "uikName": "УИК №255",
     "tikTvd": "26120002976946",
-    "tikName": "Батайская городская"
+    "tikName": "Батайская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 256,
     "uikTvd": "46140053109761",
+    "uikName": "УИК №256",
     "tikTvd": "26120002976946",
-    "tikName": "Батайская городская"
+    "tikName": "Батайская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 257,
     "uikTvd": "46140053109762",
+    "uikName": "УИК №257",
     "tikTvd": "26120002976946",
-    "tikName": "Батайская городская"
+    "tikName": "Батайская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 258,
     "uikTvd": "46140053109763",
+    "uikName": "УИК №258",
     "tikTvd": "26120002976946",
-    "tikName": "Батайская городская"
+    "tikName": "Батайская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 259,
     "uikTvd": "46140053109764",
+    "uikName": "УИК №259",
     "tikTvd": "26120002976946",
-    "tikName": "Батайская городская"
+    "tikName": "Батайская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 260,
     "uikTvd": "46140053109765",
+    "uikName": "УИК №260",
     "tikTvd": "26120002976946",
-    "tikName": "Батайская городская"
+    "tikName": "Батайская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 261,
     "uikTvd": "46140053109766",
+    "uikName": "УИК №261",
     "tikTvd": "26120002976946",
-    "tikName": "Батайская городская"
+    "tikName": "Батайская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 262,
     "uikTvd": "46140053109767",
+    "uikName": "УИК №262",
     "tikTvd": "26120002976946",
-    "tikName": "Батайская городская"
+    "tikName": "Батайская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 263,
     "uikTvd": "46140053109768",
+    "uikName": "УИК №263",
     "tikTvd": "26120002976946",
-    "tikName": "Батайская городская"
+    "tikName": "Батайская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 264,
     "uikTvd": "46140053109769",
+    "uikName": "УИК №264",
     "tikTvd": "26120002976946",
-    "tikName": "Батайская городская"
+    "tikName": "Батайская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 265,
     "uikTvd": "46140053109770",
+    "uikName": "УИК №265",
     "tikTvd": "26120002976946",
-    "tikName": "Батайская городская"
+    "tikName": "Батайская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 266,
     "uikTvd": "46140053109771",
+    "uikName": "УИК №266",
     "tikTvd": "26120002976946",
-    "tikName": "Батайская городская"
+    "tikName": "Батайская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 267,
     "uikTvd": "46140053109772",
+    "uikName": "УИК №267",
     "tikTvd": "26120002976946",
-    "tikName": "Батайская городская"
+    "tikName": "Батайская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 268,
     "uikTvd": "4614006548751",
+    "uikName": "УИК №268",
     "tikTvd": "26120002976957",
-    "tikName": "Белокалитвинская"
+    "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 269,
     "uikTvd": "4614006548752",
+    "uikName": "УИК №269",
     "tikTvd": "26120002976957",
-    "tikName": "Белокалитвинская"
+    "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 270,
     "uikTvd": "4614006548753",
+    "uikName": "УИК №270",
     "tikTvd": "26120002976957",
-    "tikName": "Белокалитвинская"
+    "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 271,
     "uikTvd": "4614006548754",
+    "uikName": "УИК №271",
     "tikTvd": "26120002976957",
-    "tikName": "Белокалитвинская"
+    "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 272,
     "uikTvd": "4614006548755",
+    "uikName": "УИК №272",
     "tikTvd": "26120002976957",
-    "tikName": "Белокалитвинская"
+    "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 273,
     "uikTvd": "4614006548756",
+    "uikName": "УИК №273",
     "tikTvd": "26120002976957",
-    "tikName": "Белокалитвинская"
+    "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 274,
     "uikTvd": "4614006548757",
+    "uikName": "УИК №274",
     "tikTvd": "26120002976957",
-    "tikName": "Белокалитвинская"
+    "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 275,
     "uikTvd": "4614006548758",
+    "uikName": "УИК №275",
     "tikTvd": "26120002976957",
-    "tikName": "Белокалитвинская"
+    "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 276,
     "uikTvd": "4614006548759",
+    "uikName": "УИК №276",
     "tikTvd": "26120002976957",
-    "tikName": "Белокалитвинская"
+    "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 277,
     "uikTvd": "4614006548760",
+    "uikName": "УИК №277",
     "tikTvd": "26120002976957",
-    "tikName": "Белокалитвинская"
+    "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 278,
     "uikTvd": "4614006548761",
+    "uikName": "УИК №278",
     "tikTvd": "26120002976957",
-    "tikName": "Белокалитвинская"
+    "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 279,
     "uikTvd": "4614006548762",
+    "uikName": "УИК №279",
     "tikTvd": "26120002976957",
-    "tikName": "Белокалитвинская"
+    "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 280,
     "uikTvd": "4614006548763",
+    "uikName": "УИК №280",
     "tikTvd": "26120002976957",
-    "tikName": "Белокалитвинская"
+    "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 281,
     "uikTvd": "4614006548764",
+    "uikName": "УИК №281",
     "tikTvd": "26120002976957",
-    "tikName": "Белокалитвинская"
+    "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 282,
     "uikTvd": "4614006548765",
+    "uikName": "УИК №282",
     "tikTvd": "26120002976957",
-    "tikName": "Белокалитвинская"
+    "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 283,
     "uikTvd": "4614006548766",
+    "uikName": "УИК №283",
     "tikTvd": "26120002976957",
-    "tikName": "Белокалитвинская"
+    "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 284,
     "uikTvd": "4614006548767",
+    "uikName": "УИК №284",
     "tikTvd": "26120002976957",
-    "tikName": "Белокалитвинская"
+    "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 285,
     "uikTvd": "4614006548768",
+    "uikName": "УИК №285",
     "tikTvd": "26120002976957",
-    "tikName": "Белокалитвинская"
+    "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 286,
     "uikTvd": "4614006548769",
+    "uikName": "УИК №286",
     "tikTvd": "26120002976957",
-    "tikName": "Белокалитвинская"
+    "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 287,
     "uikTvd": "4614006548770",
+    "uikName": "УИК №287",
     "tikTvd": "26120002976957",
-    "tikName": "Белокалитвинская"
+    "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 288,
     "uikTvd": "4614006548771",
+    "uikName": "УИК №288",
     "tikTvd": "26120002976957",
-    "tikName": "Белокалитвинская"
+    "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 289,
     "uikTvd": "4614006548772",
+    "uikName": "УИК №289",
     "tikTvd": "26120002976957",
-    "tikName": "Белокалитвинская"
+    "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 290,
     "uikTvd": "4614006548773",
+    "uikName": "УИК №290",
     "tikTvd": "26120002976957",
-    "tikName": "Белокалитвинская"
+    "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 291,
     "uikTvd": "4614006548774",
+    "uikName": "УИК №291",
     "tikTvd": "26120002976957",
-    "tikName": "Белокалитвинская"
+    "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 292,
     "uikTvd": "4614006548775",
+    "uikName": "УИК №292",
     "tikTvd": "26120002976957",
-    "tikName": "Белокалитвинская"
+    "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 293,
     "uikTvd": "4614006548776",
+    "uikName": "УИК №293",
     "tikTvd": "26120002976957",
-    "tikName": "Белокалитвинская"
+    "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 294,
     "uikTvd": "4614006548777",
+    "uikName": "УИК №294",
     "tikTvd": "26120002976957",
-    "tikName": "Белокалитвинская"
+    "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 296,
     "uikTvd": "4614006548778",
+    "uikName": "УИК №296",
     "tikTvd": "26120002976957",
-    "tikName": "Белокалитвинская"
+    "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 297,
     "uikTvd": "4614006548779",
+    "uikName": "УИК №297",
     "tikTvd": "26120002976957",
-    "tikName": "Белокалитвинская"
+    "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 298,
     "uikTvd": "4614002539750",
+    "uikName": "УИК №298",
     "tikTvd": "26120002976975",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 299,
     "uikTvd": "4614006548780",
+    "uikName": "УИК №299",
     "tikTvd": "26120002976957",
-    "tikName": "Белокалитвинская"
+    "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 300,
     "uikTvd": "4614006548781",
+    "uikName": "УИК №300",
     "tikTvd": "26120002976957",
-    "tikName": "Белокалитвинская"
+    "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 301,
     "uikTvd": "4614006548782",
+    "uikName": "УИК №301",
     "tikTvd": "26120002976957",
-    "tikName": "Белокалитвинская"
+    "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 302,
     "uikTvd": "4614006548783",
+    "uikName": "УИК №302",
     "tikTvd": "26120002976957",
-    "tikName": "Белокалитвинская"
+    "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 303,
     "uikTvd": "4614006548784",
+    "uikName": "УИК №303",
     "tikTvd": "26120002976957",
-    "tikName": "Белокалитвинская"
+    "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 304,
     "uikTvd": "4614006548785",
+    "uikName": "УИК №304",
     "tikTvd": "26120002976957",
-    "tikName": "Белокалитвинская"
+    "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 305,
     "uikTvd": "4614006548786",
+    "uikName": "УИК №305",
     "tikTvd": "26120002976957",
-    "tikName": "Белокалитвинская"
+    "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 306,
     "uikTvd": "4614006548787",
+    "uikName": "УИК №306",
     "tikTvd": "26120002976957",
-    "tikName": "Белокалитвинская"
+    "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 307,
     "uikTvd": "4614006548788",
+    "uikName": "УИК №307",
     "tikTvd": "26120002976957",
-    "tikName": "Белокалитвинская"
+    "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 308,
     "uikTvd": "4614006548789",
+    "uikName": "УИК №308",
     "tikTvd": "26120002976957",
-    "tikName": "Белокалитвинская"
+    "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 309,
     "uikTvd": "4614006548790",
+    "uikName": "УИК №309",
     "tikTvd": "26120002976957",
-    "tikName": "Белокалитвинская"
+    "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 310,
     "uikTvd": "4614006548791",
+    "uikName": "УИК №310",
     "tikTvd": "26120002976957",
-    "tikName": "Белокалитвинская"
+    "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 311,
     "uikTvd": "4614006548792",
+    "uikName": "УИК №311",
     "tikTvd": "26120002976957",
-    "tikName": "Белокалитвинская"
+    "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 312,
     "uikTvd": "4614006548793",
+    "uikName": "УИК №312",
     "tikTvd": "26120002976957",
-    "tikName": "Белокалитвинская"
+    "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 313,
     "uikTvd": "4614006548794",
+    "uikName": "УИК №313",
     "tikTvd": "26120002976957",
-    "tikName": "Белокалитвинская"
+    "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 314,
     "uikTvd": "4614006548795",
+    "uikName": "УИК №314",
     "tikTvd": "26120002976957",
-    "tikName": "Белокалитвинская"
+    "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 315,
     "uikTvd": "4614006548796",
+    "uikName": "УИК №315",
     "tikTvd": "26120002976957",
-    "tikName": "Белокалитвинская"
+    "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 316,
     "uikTvd": "4614006548797",
+    "uikName": "УИК №316",
     "tikTvd": "26120002976957",
-    "tikName": "Белокалитвинская"
+    "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 317,
     "uikTvd": "4614006548798",
+    "uikName": "УИК №317",
     "tikTvd": "26120002976957",
-    "tikName": "Белокалитвинская"
+    "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 318,
     "uikTvd": "4614006548799",
+    "uikName": "УИК №318",
     "tikTvd": "26120002976957",
-    "tikName": "Белокалитвинская"
+    "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 319,
     "uikTvd": "4614006548800",
+    "uikName": "УИК №319",
     "tikTvd": "26120002976957",
-    "tikName": "Белокалитвинская"
+    "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 320,
     "uikTvd": "4614006548801",
+    "uikName": "УИК №320",
     "tikTvd": "26120002976957",
-    "tikName": "Белокалитвинская"
+    "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 321,
     "uikTvd": "4614006548802",
+    "uikName": "УИК №321",
     "tikTvd": "26120002976957",
-    "tikName": "Белокалитвинская"
+    "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 322,
     "uikTvd": "4614006548803",
+    "uikName": "УИК №322",
     "tikTvd": "26120002976957",
-    "tikName": "Белокалитвинская"
+    "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 323,
     "uikTvd": "4614006548804",
+    "uikName": "УИК №323",
     "tikTvd": "26120002976957",
-    "tikName": "Белокалитвинская"
+    "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 324,
     "uikTvd": "4614006548805",
+    "uikName": "УИК №324",
     "tikTvd": "26120002976957",
-    "tikName": "Белокалитвинская"
+    "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 325,
     "uikTvd": "4614006548806",
+    "uikName": "УИК №325",
     "tikTvd": "26120002976957",
-    "tikName": "Белокалитвинская"
+    "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 326,
     "uikTvd": "4614006548807",
+    "uikName": "УИК №326",
     "tikTvd": "26120002976957",
-    "tikName": "Белокалитвинская"
+    "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 327,
     "uikTvd": "4614006548808",
+    "uikName": "УИК №327",
     "tikTvd": "26120002976957",
-    "tikName": "Белокалитвинская"
+    "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 328,
     "uikTvd": "4614006548809",
+    "uikName": "УИК №328",
     "tikTvd": "26120002976957",
-    "tikName": "Белокалитвинская"
+    "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 329,
     "uikTvd": "4614006548810",
+    "uikName": "УИК №329",
     "tikTvd": "26120002976957",
-    "tikName": "Белокалитвинская"
+    "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 330,
     "uikTvd": "4614006548811",
+    "uikName": "УИК №330",
     "tikTvd": "26120002976957",
-    "tikName": "Белокалитвинская"
+    "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 331,
     "uikTvd": "4614006548812",
+    "uikName": "УИК №331",
     "tikTvd": "26120002976957",
-    "tikName": "Белокалитвинская"
+    "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 332,
     "uikTvd": "4614006548813",
+    "uikName": "УИК №332",
     "tikTvd": "26120002976957",
-    "tikName": "Белокалитвинская"
+    "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 333,
     "uikTvd": "4614006548814",
+    "uikName": "УИК №333",
     "tikTvd": "26120002976957",
-    "tikName": "Белокалитвинская"
+    "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 334,
     "uikTvd": "4614006548815",
+    "uikName": "УИК №334",
     "tikTvd": "26120002976957",
-    "tikName": "Белокалитвинская"
+    "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 335,
     "uikTvd": "4614006548816",
+    "uikName": "УИК №335",
     "tikTvd": "26120002976957",
-    "tikName": "Белокалитвинская"
+    "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 336,
     "uikTvd": "4614006548817",
+    "uikName": "УИК №336",
     "tikTvd": "26120002976957",
-    "tikName": "Белокалитвинская"
+    "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 337,
     "uikTvd": "4614006548818",
+    "uikName": "УИК №337",
     "tikTvd": "26120002976957",
-    "tikName": "Белокалитвинская"
+    "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 338,
     "uikTvd": "4614006548819",
+    "uikName": "УИК №338",
     "tikTvd": "26120002976957",
-    "tikName": "Белокалитвинская"
+    "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 339,
     "uikTvd": "4614006548820",
+    "uikName": "УИК №339",
     "tikTvd": "26120002976957",
-    "tikName": "Белокалитвинская"
+    "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 340,
     "uikTvd": "4614006548821",
+    "uikName": "УИК №340",
     "tikTvd": "26120002976957",
-    "tikName": "Белокалитвинская"
+    "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 341,
     "uikTvd": "4614007613510",
+    "uikName": "УИК №341",
     "tikTvd": "26120002976986",
-    "tikName": "Боковская"
+    "tikName": "Боковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 342,
     "uikTvd": "4614007613511",
+    "uikName": "УИК №342",
     "tikTvd": "26120002976986",
-    "tikName": "Боковская"
+    "tikName": "Боковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 343,
     "uikTvd": "4614007613512",
+    "uikName": "УИК №343",
     "tikTvd": "26120002976986",
-    "tikName": "Боковская"
+    "tikName": "Боковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 344,
     "uikTvd": "4614007613513",
+    "uikName": "УИК №344",
     "tikTvd": "26120002976986",
-    "tikName": "Боковская"
+    "tikName": "Боковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 345,
     "uikTvd": "4614007613514",
+    "uikName": "УИК №345",
     "tikTvd": "26120002976986",
-    "tikName": "Боковская"
+    "tikName": "Боковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 346,
     "uikTvd": "4614007613515",
+    "uikName": "УИК №346",
     "tikTvd": "26120002976986",
-    "tikName": "Боковская"
+    "tikName": "Боковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 347,
     "uikTvd": "4614007613516",
+    "uikName": "УИК №347",
     "tikTvd": "26120002976986",
-    "tikName": "Боковская"
+    "tikName": "Боковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 348,
     "uikTvd": "4614007613517",
+    "uikName": "УИК №348",
     "tikTvd": "26120002976986",
-    "tikName": "Боковская"
+    "tikName": "Боковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 349,
     "uikTvd": "4614007613518",
+    "uikName": "УИК №349",
     "tikTvd": "26120002976986",
-    "tikName": "Боковская"
+    "tikName": "Боковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 350,
     "uikTvd": "4614007613519",
+    "uikName": "УИК №350",
     "tikTvd": "26120002976986",
-    "tikName": "Боковская"
+    "tikName": "Боковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 351,
     "uikTvd": "4614007613520",
+    "uikName": "УИК №351",
     "tikTvd": "26120002976986",
-    "tikName": "Боковская"
+    "tikName": "Боковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 353,
     "uikTvd": "4614007613521",
+    "uikName": "УИК №353",
     "tikTvd": "26120002976986",
-    "tikName": "Боковская"
+    "tikName": "Боковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 354,
     "uikTvd": "4614007613522",
+    "uikName": "УИК №354",
     "tikTvd": "26120002976986",
-    "tikName": "Боковская"
+    "tikName": "Боковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 355,
     "uikTvd": "4614007613523",
+    "uikName": "УИК №355",
     "tikTvd": "26120002976986",
-    "tikName": "Боковская"
+    "tikName": "Боковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 356,
     "uikTvd": "4614007613524",
+    "uikName": "УИК №356",
     "tikTvd": "26120002976986",
-    "tikName": "Боковская"
+    "tikName": "Боковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 360,
     "uikTvd": "4614007613525",
+    "uikName": "УИК №360",
     "tikTvd": "26120002976986",
-    "tikName": "Боковская"
+    "tikName": "Боковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 361,
     "uikTvd": "4614007613526",
+    "uikName": "УИК №361",
     "tikTvd": "26120002976986",
-    "tikName": "Боковская"
+    "tikName": "Боковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 362,
     "uikTvd": "4614007613527",
+    "uikName": "УИК №362",
     "tikTvd": "26120002976986",
-    "tikName": "Боковская"
+    "tikName": "Боковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 363,
     "uikTvd": "4614007613528",
+    "uikName": "УИК №363",
     "tikTvd": "26120002976986",
-    "tikName": "Боковская"
+    "tikName": "Боковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 364,
     "uikTvd": "4614007613529",
+    "uikName": "УИК №364",
     "tikTvd": "26120002976986",
-    "tikName": "Боковская"
+    "tikName": "Боковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 367,
     "uikTvd": "4614008353643",
+    "uikName": "УИК №367",
     "tikTvd": "26120002976948",
-    "tikName": "Верхнедонская"
+    "tikName": "Верхнедонская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 368,
     "uikTvd": "4614008353644",
+    "uikName": "УИК №368",
     "tikTvd": "26120002976948",
-    "tikName": "Верхнедонская"
+    "tikName": "Верхнедонская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 369,
     "uikTvd": "4614008353645",
+    "uikName": "УИК №369",
     "tikTvd": "26120002976948",
-    "tikName": "Верхнедонская"
+    "tikName": "Верхнедонская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 370,
     "uikTvd": "4614008353646",
+    "uikName": "УИК №370",
     "tikTvd": "26120002976948",
-    "tikName": "Верхнедонская"
+    "tikName": "Верхнедонская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 371,
     "uikTvd": "4614008353647",
+    "uikName": "УИК №371",
     "tikTvd": "26120002976948",
-    "tikName": "Верхнедонская"
+    "tikName": "Верхнедонская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 372,
     "uikTvd": "4614008353648",
+    "uikName": "УИК №372",
     "tikTvd": "26120002976948",
-    "tikName": "Верхнедонская"
+    "tikName": "Верхнедонская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 373,
     "uikTvd": "4614008353649",
+    "uikName": "УИК №373",
     "tikTvd": "26120002976948",
-    "tikName": "Верхнедонская"
+    "tikName": "Верхнедонская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 374,
     "uikTvd": "4614008353650",
+    "uikName": "УИК №374",
     "tikTvd": "26120002976948",
-    "tikName": "Верхнедонская"
+    "tikName": "Верхнедонская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 375,
     "uikTvd": "4614008353651",
+    "uikName": "УИК №375",
     "tikTvd": "26120002976948",
-    "tikName": "Верхнедонская"
+    "tikName": "Верхнедонская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 376,
     "uikTvd": "4614008353652",
+    "uikName": "УИК №376",
     "tikTvd": "26120002976948",
-    "tikName": "Верхнедонская"
+    "tikName": "Верхнедонская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 377,
     "uikTvd": "4614008353653",
+    "uikName": "УИК №377",
     "tikTvd": "26120002976948",
-    "tikName": "Верхнедонская"
+    "tikName": "Верхнедонская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 378,
     "uikTvd": "4614008353654",
+    "uikName": "УИК №378",
     "tikTvd": "26120002976948",
-    "tikName": "Верхнедонская"
+    "tikName": "Верхнедонская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 379,
     "uikTvd": "4614008353655",
+    "uikName": "УИК №379",
     "tikTvd": "26120002976948",
-    "tikName": "Верхнедонская"
+    "tikName": "Верхнедонская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 380,
     "uikTvd": "4614008353656",
+    "uikName": "УИК №380",
     "tikTvd": "26120002976948",
-    "tikName": "Верхнедонская"
+    "tikName": "Верхнедонская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 381,
     "uikTvd": "4614008353657",
+    "uikName": "УИК №381",
     "tikTvd": "26120002976948",
-    "tikName": "Верхнедонская"
+    "tikName": "Верхнедонская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 382,
     "uikTvd": "4614008353658",
+    "uikName": "УИК №382",
     "tikTvd": "26120002976948",
-    "tikName": "Верхнедонская"
+    "tikName": "Верхнедонская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 383,
     "uikTvd": "4614008353659",
+    "uikName": "УИК №383",
     "tikTvd": "26120002976948",
-    "tikName": "Верхнедонская"
+    "tikName": "Верхнедонская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 384,
     "uikTvd": "4614008353660",
+    "uikName": "УИК №384",
     "tikTvd": "26120002976948",
-    "tikName": "Верхнедонская"
+    "tikName": "Верхнедонская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 385,
     "uikTvd": "4614008353661",
+    "uikName": "УИК №385",
     "tikTvd": "26120002976948",
-    "tikName": "Верхнедонская"
+    "tikName": "Верхнедонская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 386,
     "uikTvd": "4614008353662",
+    "uikName": "УИК №386",
     "tikTvd": "26120002976948",
-    "tikName": "Верхнедонская"
+    "tikName": "Верхнедонская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 387,
     "uikTvd": "4614008353663",
+    "uikName": "УИК №387",
     "tikTvd": "26120002976948",
-    "tikName": "Верхнедонская"
+    "tikName": "Верхнедонская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 388,
     "uikTvd": "4614008353664",
+    "uikName": "УИК №388",
     "tikTvd": "26120002976948",
-    "tikName": "Верхнедонская"
+    "tikName": "Верхнедонская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 389,
     "uikTvd": "4614008353665",
+    "uikName": "УИК №389",
     "tikTvd": "26120002976948",
-    "tikName": "Верхнедонская"
+    "tikName": "Верхнедонская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 390,
     "uikTvd": "4614008353666",
+    "uikName": "УИК №390",
     "tikTvd": "26120002976948",
-    "tikName": "Верхнедонская"
+    "tikName": "Верхнедонская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 391,
     "uikTvd": "4614008353667",
+    "uikName": "УИК №391",
     "tikTvd": "26120002976948",
-    "tikName": "Верхнедонская"
+    "tikName": "Верхнедонская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 392,
     "uikTvd": "4614008353668",
+    "uikName": "УИК №392",
     "tikTvd": "26120002976948",
-    "tikName": "Верхнедонская"
+    "tikName": "Верхнедонская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 393,
     "uikTvd": "4614008353669",
+    "uikName": "УИК №393",
     "tikTvd": "26120002976948",
-    "tikName": "Верхнедонская"
+    "tikName": "Верхнедонская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 394,
     "uikTvd": "4614008353670",
+    "uikName": "УИК №394",
     "tikTvd": "26120002976948",
-    "tikName": "Верхнедонская"
+    "tikName": "Верхнедонская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 395,
     "uikTvd": "4614008353671",
+    "uikName": "УИК №395",
     "tikTvd": "26120002976948",
-    "tikName": "Верхнедонская"
+    "tikName": "Верхнедонская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 396,
     "uikTvd": "4614008353672",
+    "uikName": "УИК №396",
     "tikTvd": "26120002976948",
-    "tikName": "Верхнедонская"
+    "tikName": "Верхнедонская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 397,
     "uikTvd": "4614008353673",
+    "uikName": "УИК №397",
     "tikTvd": "26120002976948",
-    "tikName": "Верхнедонская"
+    "tikName": "Верхнедонская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 399,
     "uikTvd": "4614008353674",
+    "uikName": "УИК №399",
     "tikTvd": "26120002976948",
-    "tikName": "Верхнедонская"
+    "tikName": "Верхнедонская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 400,
     "uikTvd": "4614008353675",
+    "uikName": "УИК №400",
     "tikTvd": "26120002976948",
-    "tikName": "Верхнедонская"
+    "tikName": "Верхнедонская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 401,
     "uikTvd": "4614008353676",
+    "uikName": "УИК №401",
     "tikTvd": "26120002976948",
-    "tikName": "Верхнедонская"
+    "tikName": "Верхнедонская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 402,
     "uikTvd": "4614008353677",
+    "uikName": "УИК №402",
     "tikTvd": "26120002976948",
-    "tikName": "Верхнедонская"
+    "tikName": "Верхнедонская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 403,
     "uikTvd": "4614008353678",
+    "uikName": "УИК №403",
     "tikTvd": "26120002976948",
-    "tikName": "Верхнедонская"
+    "tikName": "Верхнедонская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 404,
     "uikTvd": "4614008353679",
+    "uikName": "УИК №404",
     "tikTvd": "26120002976948",
-    "tikName": "Верхнедонская"
+    "tikName": "Верхнедонская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 405,
     "uikTvd": "4614009461705",
+    "uikName": "УИК №405",
     "tikTvd": "26120002976991",
-    "tikName": "Веселовская"
+    "tikName": "Веселовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 406,
     "uikTvd": "4614009461706",
+    "uikName": "УИК №406",
     "tikTvd": "26120002976991",
-    "tikName": "Веселовская"
+    "tikName": "Веселовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 407,
     "uikTvd": "4614009461707",
+    "uikName": "УИК №407",
     "tikTvd": "26120002976991",
-    "tikName": "Веселовская"
+    "tikName": "Веселовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 408,
     "uikTvd": "4614009461708",
+    "uikName": "УИК №408",
     "tikTvd": "26120002976991",
-    "tikName": "Веселовская"
+    "tikName": "Веселовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 409,
     "uikTvd": "4614009461709",
+    "uikName": "УИК №409",
     "tikTvd": "26120002976991",
-    "tikName": "Веселовская"
+    "tikName": "Веселовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 410,
     "uikTvd": "4614009461710",
+    "uikName": "УИК №410",
     "tikTvd": "26120002976991",
-    "tikName": "Веселовская"
+    "tikName": "Веселовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 411,
     "uikTvd": "4614009461711",
+    "uikName": "УИК №411",
     "tikTvd": "26120002976991",
-    "tikName": "Веселовская"
+    "tikName": "Веселовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 412,
     "uikTvd": "4614009461712",
+    "uikName": "УИК №412",
     "tikTvd": "26120002976991",
-    "tikName": "Веселовская"
+    "tikName": "Веселовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 413,
     "uikTvd": "4614009461713",
+    "uikName": "УИК №413",
     "tikTvd": "26120002976991",
-    "tikName": "Веселовская"
+    "tikName": "Веселовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 414,
     "uikTvd": "4614009461714",
+    "uikName": "УИК №414",
     "tikTvd": "26120002976991",
-    "tikName": "Веселовская"
+    "tikName": "Веселовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 415,
     "uikTvd": "4614009461715",
+    "uikName": "УИК №415",
     "tikTvd": "26120002976991",
-    "tikName": "Веселовская"
+    "tikName": "Веселовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 416,
     "uikTvd": "4614009461716",
+    "uikName": "УИК №416",
     "tikTvd": "26120002976991",
-    "tikName": "Веселовская"
+    "tikName": "Веселовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 417,
     "uikTvd": "4614009461717",
+    "uikName": "УИК №417",
     "tikTvd": "26120002976991",
-    "tikName": "Веселовская"
+    "tikName": "Веселовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 418,
     "uikTvd": "4614009461718",
+    "uikName": "УИК №418",
     "tikTvd": "26120002976991",
-    "tikName": "Веселовская"
+    "tikName": "Веселовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 419,
     "uikTvd": "4614009461719",
+    "uikName": "УИК №419",
     "tikTvd": "26120002976991",
-    "tikName": "Веселовская"
+    "tikName": "Веселовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 420,
     "uikTvd": "4614009461720",
+    "uikName": "УИК №420",
     "tikTvd": "26120002976991",
-    "tikName": "Веселовская"
+    "tikName": "Веселовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 421,
     "uikTvd": "4614009461721",
+    "uikName": "УИК №421",
     "tikTvd": "26120002976991",
-    "tikName": "Веселовская"
+    "tikName": "Веселовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 422,
     "uikTvd": "4614009461722",
+    "uikName": "УИК №422",
     "tikTvd": "26120002976991",
-    "tikName": "Веселовская"
+    "tikName": "Веселовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 423,
     "uikTvd": "4614009461723",
+    "uikName": "УИК №423",
     "tikTvd": "26120002976991",
-    "tikName": "Веселовская"
+    "tikName": "Веселовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 424,
     "uikTvd": "4614009461724",
+    "uikName": "УИК №424",
     "tikTvd": "26120002976991",
-    "tikName": "Веселовская"
+    "tikName": "Веселовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 425,
     "uikTvd": "4614009461725",
+    "uikName": "УИК №425",
     "tikTvd": "26120002976991",
-    "tikName": "Веселовская"
+    "tikName": "Веселовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 426,
     "uikTvd": "4614009461726",
+    "uikName": "УИК №426",
     "tikTvd": "26120002976991",
-    "tikName": "Веселовская"
+    "tikName": "Веселовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 427,
     "uikTvd": "4614009461727",
+    "uikName": "УИК №427",
     "tikTvd": "26120002976991",
-    "tikName": "Веселовская"
+    "tikName": "Веселовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 428,
     "uikTvd": "4614009461728",
+    "uikName": "УИК №428",
     "tikTvd": "26120002976991",
-    "tikName": "Веселовская"
+    "tikName": "Веселовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 429,
     "uikTvd": "46140101037277",
+    "uikName": "УИК №429",
     "tikTvd": "26120002976967",
-    "tikName": "Волгодонская городская"
+    "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 430,
     "uikTvd": "46140101037278",
+    "uikName": "УИК №430",
     "tikTvd": "26120002976967",
-    "tikName": "Волгодонская городская"
+    "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 431,
     "uikTvd": "46140101037279",
+    "uikName": "УИК №431",
     "tikTvd": "26120002976967",
-    "tikName": "Волгодонская городская"
+    "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 432,
     "uikTvd": "46140101037280",
+    "uikName": "УИК №432",
     "tikTvd": "26120002976967",
-    "tikName": "Волгодонская городская"
+    "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 433,
     "uikTvd": "46140101037281",
+    "uikName": "УИК №433",
     "tikTvd": "26120002976967",
-    "tikName": "Волгодонская городская"
+    "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 434,
     "uikTvd": "46140101037282",
+    "uikName": "УИК №434",
     "tikTvd": "26120002976967",
-    "tikName": "Волгодонская городская"
+    "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 435,
     "uikTvd": "46140101037283",
+    "uikName": "УИК №435",
     "tikTvd": "26120002976967",
-    "tikName": "Волгодонская городская"
+    "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 436,
     "uikTvd": "46140101037284",
+    "uikName": "УИК №436",
     "tikTvd": "26120002976967",
-    "tikName": "Волгодонская городская"
+    "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 437,
     "uikTvd": "46140101037285",
+    "uikName": "УИК №437",
     "tikTvd": "26120002976967",
-    "tikName": "Волгодонская городская"
+    "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 438,
     "uikTvd": "46140101037286",
+    "uikName": "УИК №438",
     "tikTvd": "26120002976967",
-    "tikName": "Волгодонская городская"
+    "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 439,
     "uikTvd": "46140101037287",
+    "uikName": "УИК №439",
     "tikTvd": "26120002976967",
-    "tikName": "Волгодонская городская"
+    "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 440,
     "uikTvd": "46140101037288",
+    "uikName": "УИК №440",
     "tikTvd": "26120002976967",
-    "tikName": "Волгодонская городская"
+    "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 441,
     "uikTvd": "46140101037289",
+    "uikName": "УИК №441",
     "tikTvd": "26120002976967",
-    "tikName": "Волгодонская городская"
+    "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 442,
     "uikTvd": "46140101037290",
+    "uikName": "УИК №442",
     "tikTvd": "26120002976967",
-    "tikName": "Волгодонская городская"
+    "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 443,
     "uikTvd": "46140101037291",
+    "uikName": "УИК №443",
     "tikTvd": "26120002976967",
-    "tikName": "Волгодонская городская"
+    "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 444,
     "uikTvd": "46140101037292",
+    "uikName": "УИК №444",
     "tikTvd": "26120002976967",
-    "tikName": "Волгодонская городская"
+    "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 445,
     "uikTvd": "46140101037293",
+    "uikName": "УИК №445",
     "tikTvd": "26120002976967",
-    "tikName": "Волгодонская городская"
+    "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 446,
     "uikTvd": "46140101037294",
+    "uikName": "УИК №446",
     "tikTvd": "26120002976967",
-    "tikName": "Волгодонская городская"
+    "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 447,
     "uikTvd": "46140101037295",
+    "uikName": "УИК №447",
     "tikTvd": "26120002976967",
-    "tikName": "Волгодонская городская"
+    "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 448,
     "uikTvd": "46140101037296",
+    "uikName": "УИК №448",
     "tikTvd": "26120002976967",
-    "tikName": "Волгодонская городская"
+    "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 449,
     "uikTvd": "46140101037297",
+    "uikName": "УИК №449",
     "tikTvd": "26120002976967",
-    "tikName": "Волгодонская городская"
+    "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 450,
     "uikTvd": "46140101037298",
+    "uikName": "УИК №450",
     "tikTvd": "26120002976967",
-    "tikName": "Волгодонская городская"
+    "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 451,
     "uikTvd": "46140101037299",
+    "uikName": "УИК №451",
     "tikTvd": "26120002976967",
-    "tikName": "Волгодонская городская"
+    "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 452,
     "uikTvd": "46140101037300",
+    "uikName": "УИК №452",
     "tikTvd": "26120002976967",
-    "tikName": "Волгодонская городская"
+    "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 453,
     "uikTvd": "46140101037301",
+    "uikName": "УИК №453",
     "tikTvd": "26120002976967",
-    "tikName": "Волгодонская городская"
+    "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 454,
     "uikTvd": "46140101037302",
+    "uikName": "УИК №454",
     "tikTvd": "26120002976967",
-    "tikName": "Волгодонская городская"
+    "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 455,
     "uikTvd": "46140101037303",
+    "uikName": "УИК №455",
     "tikTvd": "26120002976967",
-    "tikName": "Волгодонская городская"
+    "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 456,
     "uikTvd": "46140101037304",
+    "uikName": "УИК №456",
     "tikTvd": "26120002976967",
-    "tikName": "Волгодонская городская"
+    "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 457,
     "uikTvd": "46140101037305",
+    "uikName": "УИК №457",
     "tikTvd": "26120002976967",
-    "tikName": "Волгодонская городская"
+    "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 458,
     "uikTvd": "46140101037306",
+    "uikName": "УИК №458",
     "tikTvd": "26120002976967",
-    "tikName": "Волгодонская городская"
+    "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 459,
     "uikTvd": "46140101037307",
+    "uikName": "УИК №459",
     "tikTvd": "26120002976967",
-    "tikName": "Волгодонская городская"
+    "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 460,
     "uikTvd": "46140101037308",
+    "uikName": "УИК №460",
     "tikTvd": "26120002976967",
-    "tikName": "Волгодонская городская"
+    "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 461,
     "uikTvd": "46140101037309",
+    "uikName": "УИК №461",
     "tikTvd": "26120002976967",
-    "tikName": "Волгодонская городская"
+    "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 462,
     "uikTvd": "46140101037310",
+    "uikName": "УИК №462",
     "tikTvd": "26120002976967",
-    "tikName": "Волгодонская городская"
+    "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 463,
     "uikTvd": "46140101037311",
+    "uikName": "УИК №463",
     "tikTvd": "26120002976967",
-    "tikName": "Волгодонская городская"
+    "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 464,
     "uikTvd": "46140101037312",
+    "uikName": "УИК №464",
     "tikTvd": "26120002976967",
-    "tikName": "Волгодонская городская"
+    "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 465,
     "uikTvd": "46140101037313",
+    "uikName": "УИК №465",
     "tikTvd": "26120002976967",
-    "tikName": "Волгодонская городская"
+    "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 466,
     "uikTvd": "46140101037314",
+    "uikName": "УИК №466",
     "tikTvd": "26120002976967",
-    "tikName": "Волгодонская городская"
+    "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 467,
     "uikTvd": "46140101037315",
+    "uikName": "УИК №467",
     "tikTvd": "26120002976967",
-    "tikName": "Волгодонская городская"
+    "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 468,
     "uikTvd": "46140101037316",
+    "uikName": "УИК №468",
     "tikTvd": "26120002976967",
-    "tikName": "Волгодонская городская"
+    "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 469,
     "uikTvd": "46140101037317",
+    "uikName": "УИК №469",
     "tikTvd": "26120002976967",
-    "tikName": "Волгодонская городская"
+    "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 470,
     "uikTvd": "46140101037318",
+    "uikName": "УИК №470",
     "tikTvd": "26120002976967",
-    "tikName": "Волгодонская городская"
+    "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 471,
     "uikTvd": "46140101037319",
+    "uikName": "УИК №471",
     "tikTvd": "26120002976967",
-    "tikName": "Волгодонская городская"
+    "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 472,
     "uikTvd": "46140101037320",
+    "uikName": "УИК №472",
     "tikTvd": "26120002976967",
-    "tikName": "Волгодонская городская"
+    "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 473,
     "uikTvd": "46140101037321",
+    "uikName": "УИК №473",
     "tikTvd": "26120002976967",
-    "tikName": "Волгодонская городская"
+    "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 474,
     "uikTvd": "46140101037322",
+    "uikName": "УИК №474",
     "tikTvd": "26120002976967",
-    "tikName": "Волгодонская городская"
+    "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 475,
     "uikTvd": "46140101037323",
+    "uikName": "УИК №475",
     "tikTvd": "26120002976967",
-    "tikName": "Волгодонская городская"
+    "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 476,
     "uikTvd": "46140101037324",
+    "uikName": "УИК №476",
     "tikTvd": "26120002976967",
-    "tikName": "Волгодонская городская"
+    "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 477,
     "uikTvd": "46140101037325",
+    "uikName": "УИК №477",
     "tikTvd": "26120002976967",
-    "tikName": "Волгодонская городская"
+    "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 478,
     "uikTvd": "46140101037326",
+    "uikName": "УИК №478",
     "tikTvd": "26120002976967",
-    "tikName": "Волгодонская городская"
+    "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 479,
     "uikTvd": "46140101037327",
+    "uikName": "УИК №479",
     "tikTvd": "26120002976967",
-    "tikName": "Волгодонская городская"
+    "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 480,
     "uikTvd": "46140101037328",
+    "uikName": "УИК №480",
     "tikTvd": "26120002976967",
-    "tikName": "Волгодонская городская"
+    "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 481,
     "uikTvd": "46140101037329",
+    "uikName": "УИК №481",
     "tikTvd": "26120002976967",
-    "tikName": "Волгодонская городская"
+    "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 482,
     "uikTvd": "4614011369858",
+    "uikName": "УИК №482",
     "tikTvd": "26120002976956",
-    "tikName": "Волгодонская"
+    "tikName": "Волгодонская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 483,
     "uikTvd": "4614011369859",
+    "uikName": "УИК №483",
     "tikTvd": "26120002976956",
-    "tikName": "Волгодонская"
+    "tikName": "Волгодонская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 484,
     "uikTvd": "4614011369860",
+    "uikName": "УИК №484",
     "tikTvd": "26120002976956",
-    "tikName": "Волгодонская"
+    "tikName": "Волгодонская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 485,
     "uikTvd": "4614011369861",
+    "uikName": "УИК №485",
     "tikTvd": "26120002976956",
-    "tikName": "Волгодонская"
+    "tikName": "Волгодонская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 486,
     "uikTvd": "4614011369862",
+    "uikName": "УИК №486",
     "tikTvd": "26120002976956",
-    "tikName": "Волгодонская"
+    "tikName": "Волгодонская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 487,
     "uikTvd": "4614011369863",
+    "uikName": "УИК №487",
     "tikTvd": "26120002976956",
-    "tikName": "Волгодонская"
+    "tikName": "Волгодонская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 488,
     "uikTvd": "4614011369864",
+    "uikName": "УИК №488",
     "tikTvd": "26120002976956",
-    "tikName": "Волгодонская"
+    "tikName": "Волгодонская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 489,
     "uikTvd": "4614011369865",
+    "uikName": "УИК №489",
     "tikTvd": "26120002976956",
-    "tikName": "Волгодонская"
+    "tikName": "Волгодонская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 490,
     "uikTvd": "4614011369866",
+    "uikName": "УИК №490",
     "tikTvd": "26120002976956",
-    "tikName": "Волгодонская"
+    "tikName": "Волгодонская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 491,
     "uikTvd": "4614011369867",
+    "uikName": "УИК №491",
     "tikTvd": "26120002976956",
-    "tikName": "Волгодонская"
+    "tikName": "Волгодонская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 492,
     "uikTvd": "4614011369868",
+    "uikName": "УИК №492",
     "tikTvd": "26120002976956",
-    "tikName": "Волгодонская"
+    "tikName": "Волгодонская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 493,
     "uikTvd": "4614011369869",
+    "uikName": "УИК №493",
     "tikTvd": "26120002976956",
-    "tikName": "Волгодонская"
+    "tikName": "Волгодонская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 494,
     "uikTvd": "4614011369870",
+    "uikName": "УИК №494",
     "tikTvd": "26120002976956",
-    "tikName": "Волгодонская"
+    "tikName": "Волгодонская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 495,
     "uikTvd": "4614011369871",
+    "uikName": "УИК №495",
     "tikTvd": "26120002976956",
-    "tikName": "Волгодонская"
+    "tikName": "Волгодонская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 496,
     "uikTvd": "4614011369872",
+    "uikName": "УИК №496",
     "tikTvd": "26120002976956",
-    "tikName": "Волгодонская"
+    "tikName": "Волгодонская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 497,
     "uikTvd": "4614011369873",
+    "uikName": "УИК №497",
     "tikTvd": "26120002976956",
-    "tikName": "Волгодонская"
+    "tikName": "Волгодонская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 498,
     "uikTvd": "4614011369874",
+    "uikName": "УИК №498",
     "tikTvd": "26120002976956",
-    "tikName": "Волгодонская"
+    "tikName": "Волгодонская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 499,
     "uikTvd": "4614011369875",
+    "uikName": "УИК №499",
     "tikTvd": "26120002976956",
-    "tikName": "Волгодонская"
+    "tikName": "Волгодонская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 500,
     "uikTvd": "4614011369876",
+    "uikName": "УИК №500",
     "tikTvd": "26120002976956",
-    "tikName": "Волгодонская"
+    "tikName": "Волгодонская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 501,
     "uikTvd": "4614011369877",
+    "uikName": "УИК №501",
     "tikTvd": "26120002976956",
-    "tikName": "Волгодонская"
+    "tikName": "Волгодонская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 502,
     "uikTvd": "4614011369878",
+    "uikName": "УИК №502",
     "tikTvd": "26120002976956",
-    "tikName": "Волгодонская"
+    "tikName": "Волгодонская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 503,
     "uikTvd": "4614011369879",
+    "uikName": "УИК №503",
     "tikTvd": "26120002976956",
-    "tikName": "Волгодонская"
+    "tikName": "Волгодонская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 504,
     "uikTvd": "4614011369880",
+    "uikName": "УИК №504",
     "tikTvd": "26120002976956",
-    "tikName": "Волгодонская"
+    "tikName": "Волгодонская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 505,
     "uikTvd": "4614011369881",
+    "uikName": "УИК №505",
     "tikTvd": "26120002976956",
-    "tikName": "Волгодонская"
+    "tikName": "Волгодонская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 506,
     "uikTvd": "4614011369882",
+    "uikName": "УИК №506",
     "tikTvd": "26120002976956",
-    "tikName": "Волгодонская"
+    "tikName": "Волгодонская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 507,
     "uikTvd": "4614011369883",
+    "uikName": "УИК №507",
     "tikTvd": "26120002976956",
-    "tikName": "Волгодонская"
+    "tikName": "Волгодонская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 508,
     "uikTvd": "4614011369884",
+    "uikName": "УИК №508",
     "tikTvd": "26120002976956",
-    "tikName": "Волгодонская"
+    "tikName": "Волгодонская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 509,
     "uikTvd": "4614011369885",
+    "uikName": "УИК №509",
     "tikTvd": "26120002976956",
-    "tikName": "Волгодонская"
+    "tikName": "Волгодонская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 510,
     "uikTvd": "4614011369886",
+    "uikName": "УИК №510",
     "tikTvd": "26120002976956",
-    "tikName": "Волгодонская"
+    "tikName": "Волгодонская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 511,
     "uikTvd": "4614011369887",
+    "uikName": "УИК №511",
     "tikTvd": "26120002976956",
-    "tikName": "Волгодонская"
+    "tikName": "Волгодонская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 512,
     "uikTvd": "4614011369888",
+    "uikName": "УИК №512",
     "tikTvd": "26120002976956",
-    "tikName": "Волгодонская"
+    "tikName": "Волгодонская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 513,
     "uikTvd": "4614012385390",
+    "uikName": "УИК №513",
     "tikTvd": "26120002976981",
-    "tikName": "Гуковская городская"
+    "tikName": "Гуковская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 514,
     "uikTvd": "4614012385391",
+    "uikName": "УИК №514",
     "tikTvd": "26120002976981",
-    "tikName": "Гуковская городская"
+    "tikName": "Гуковская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 515,
     "uikTvd": "4614012385392",
+    "uikName": "УИК №515",
     "tikTvd": "26120002976981",
-    "tikName": "Гуковская городская"
+    "tikName": "Гуковская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 516,
     "uikTvd": "4614012385393",
+    "uikName": "УИК №516",
     "tikTvd": "26120002976981",
-    "tikName": "Гуковская городская"
+    "tikName": "Гуковская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 517,
     "uikTvd": "4614012385394",
+    "uikName": "УИК №517",
     "tikTvd": "26120002976981",
-    "tikName": "Гуковская городская"
+    "tikName": "Гуковская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 518,
     "uikTvd": "4614012385395",
+    "uikName": "УИК №518",
     "tikTvd": "26120002976981",
-    "tikName": "Гуковская городская"
+    "tikName": "Гуковская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 519,
     "uikTvd": "4614012385396",
+    "uikName": "УИК №519",
     "tikTvd": "26120002976981",
-    "tikName": "Гуковская городская"
+    "tikName": "Гуковская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 520,
     "uikTvd": "4614012385397",
+    "uikName": "УИК №520",
     "tikTvd": "26120002976981",
-    "tikName": "Гуковская городская"
+    "tikName": "Гуковская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 521,
     "uikTvd": "4614012385398",
+    "uikName": "УИК №521",
     "tikTvd": "26120002976981",
-    "tikName": "Гуковская городская"
+    "tikName": "Гуковская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 522,
     "uikTvd": "4614012385399",
+    "uikName": "УИК №522",
     "tikTvd": "26120002976981",
-    "tikName": "Гуковская городская"
+    "tikName": "Гуковская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 523,
     "uikTvd": "4614012385400",
+    "uikName": "УИК №523",
     "tikTvd": "26120002976981",
-    "tikName": "Гуковская городская"
+    "tikName": "Гуковская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 524,
     "uikTvd": "4614012385401",
+    "uikName": "УИК №524",
     "tikTvd": "26120002976981",
-    "tikName": "Гуковская городская"
+    "tikName": "Гуковская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 525,
     "uikTvd": "4614012385402",
+    "uikName": "УИК №525",
     "tikTvd": "26120002976981",
-    "tikName": "Гуковская городская"
+    "tikName": "Гуковская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 526,
     "uikTvd": "4614012385403",
+    "uikName": "УИК №526",
     "tikTvd": "26120002976981",
-    "tikName": "Гуковская городская"
+    "tikName": "Гуковская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 527,
     "uikTvd": "4614012385404",
+    "uikName": "УИК №527",
     "tikTvd": "26120002976981",
-    "tikName": "Гуковская городская"
+    "tikName": "Гуковская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 528,
     "uikTvd": "4614012385405",
+    "uikName": "УИК №528",
     "tikTvd": "26120002976981",
-    "tikName": "Гуковская городская"
+    "tikName": "Гуковская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 529,
     "uikTvd": "4614012385406",
+    "uikName": "УИК №529",
     "tikTvd": "26120002976981",
-    "tikName": "Гуковская городская"
+    "tikName": "Гуковская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 530,
     "uikTvd": "4614012385407",
+    "uikName": "УИК №530",
     "tikTvd": "26120002976981",
-    "tikName": "Гуковская городская"
+    "tikName": "Гуковская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 531,
     "uikTvd": "4614012385408",
+    "uikName": "УИК №531",
     "tikTvd": "26120002976981",
-    "tikName": "Гуковская городская"
+    "tikName": "Гуковская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 532,
     "uikTvd": "4614012385409",
+    "uikName": "УИК №532",
     "tikTvd": "26120002976981",
-    "tikName": "Гуковская городская"
+    "tikName": "Гуковская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 533,
     "uikTvd": "4614012385410",
+    "uikName": "УИК №533",
     "tikTvd": "26120002976981",
-    "tikName": "Гуковская городская"
+    "tikName": "Гуковская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 534,
     "uikTvd": "4614012385411",
+    "uikName": "УИК №534",
     "tikTvd": "26120002976981",
-    "tikName": "Гуковская городская"
+    "tikName": "Гуковская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 535,
     "uikTvd": "4614012385412",
+    "uikName": "УИК №535",
     "tikTvd": "26120002976981",
-    "tikName": "Гуковская городская"
+    "tikName": "Гуковская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 536,
     "uikTvd": "4614012385413",
+    "uikName": "УИК №536",
     "tikTvd": "26120002976981",
-    "tikName": "Гуковская городская"
+    "tikName": "Гуковская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 537,
     "uikTvd": "4614012385414",
+    "uikName": "УИК №537",
     "tikTvd": "26120002976981",
-    "tikName": "Гуковская городская"
+    "tikName": "Гуковская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 538,
     "uikTvd": "4614012385415",
+    "uikName": "УИК №538",
     "tikTvd": "26120002976981",
-    "tikName": "Гуковская городская"
+    "tikName": "Гуковская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 539,
     "uikTvd": "4614012385416",
+    "uikName": "УИК №539",
     "tikTvd": "26120002976981",
-    "tikName": "Гуковская городская"
+    "tikName": "Гуковская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 540,
     "uikTvd": "4614012385417",
+    "uikName": "УИК №540",
     "tikTvd": "26120002976981",
-    "tikName": "Гуковская городская"
+    "tikName": "Гуковская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 541,
     "uikTvd": "4614012385418",
+    "uikName": "УИК №541",
     "tikTvd": "26120002976981",
-    "tikName": "Гуковская городская"
+    "tikName": "Гуковская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 542,
     "uikTvd": "4614012385419",
+    "uikName": "УИК №542",
     "tikTvd": "26120002976981",
-    "tikName": "Гуковская городская"
+    "tikName": "Гуковская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 543,
     "uikTvd": "4614012385420",
+    "uikName": "УИК №543",
     "tikTvd": "26120002976981",
-    "tikName": "Гуковская городская"
+    "tikName": "Гуковская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 544,
     "uikTvd": "4614012385421",
+    "uikName": "УИК №544",
     "tikTvd": "26120002976981",
-    "tikName": "Гуковская городская"
+    "tikName": "Гуковская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 545,
     "uikTvd": "4614012385422",
+    "uikName": "УИК №545",
     "tikTvd": "26120002976981",
-    "tikName": "Гуковская городская"
+    "tikName": "Гуковская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 546,
     "uikTvd": "4614012385423",
+    "uikName": "УИК №546",
     "tikTvd": "26120002976981",
-    "tikName": "Гуковская городская"
+    "tikName": "Гуковская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 547,
     "uikTvd": "4614012385424",
+    "uikName": "УИК №547",
     "tikTvd": "26120002976981",
-    "tikName": "Гуковская городская"
+    "tikName": "Гуковская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 548,
     "uikTvd": "4614012385425",
+    "uikName": "УИК №548",
     "tikTvd": "26120002976981",
-    "tikName": "Гуковская городская"
+    "tikName": "Гуковская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 549,
     "uikTvd": "4614012385426",
+    "uikName": "УИК №549",
     "tikTvd": "26120002976981",
-    "tikName": "Гуковская городская"
+    "tikName": "Гуковская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 550,
     "uikTvd": "4614013417999",
+    "uikName": "УИК №550",
     "tikTvd": "26120002976951",
-    "tikName": "Донецкая городская"
+    "tikName": "Донецкая городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 551,
     "uikTvd": "4614013418000",
+    "uikName": "УИК №551",
     "tikTvd": "26120002976951",
-    "tikName": "Донецкая городская"
+    "tikName": "Донецкая городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 552,
     "uikTvd": "4614013418001",
+    "uikName": "УИК №552",
     "tikTvd": "26120002976951",
-    "tikName": "Донецкая городская"
+    "tikName": "Донецкая городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 553,
     "uikTvd": "4614013418002",
+    "uikName": "УИК №553",
     "tikTvd": "26120002976951",
-    "tikName": "Донецкая городская"
+    "tikName": "Донецкая городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 554,
     "uikTvd": "4614013418003",
+    "uikName": "УИК №554",
     "tikTvd": "26120002976951",
-    "tikName": "Донецкая городская"
+    "tikName": "Донецкая городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 555,
     "uikTvd": "4614013418004",
+    "uikName": "УИК №555",
     "tikTvd": "26120002976951",
-    "tikName": "Донецкая городская"
+    "tikName": "Донецкая городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 556,
     "uikTvd": "4614013418005",
+    "uikName": "УИК №556",
     "tikTvd": "26120002976951",
-    "tikName": "Донецкая городская"
+    "tikName": "Донецкая городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 557,
     "uikTvd": "4614013418006",
+    "uikName": "УИК №557",
     "tikTvd": "26120002976951",
-    "tikName": "Донецкая городская"
+    "tikName": "Донецкая городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 558,
     "uikTvd": "4614013418007",
+    "uikName": "УИК №558",
     "tikTvd": "26120002976951",
-    "tikName": "Донецкая городская"
+    "tikName": "Донецкая городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 559,
     "uikTvd": "4614013418008",
+    "uikName": "УИК №559",
     "tikTvd": "26120002976951",
-    "tikName": "Донецкая городская"
+    "tikName": "Донецкая городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 560,
     "uikTvd": "4614013418009",
+    "uikName": "УИК №560",
     "tikTvd": "26120002976951",
-    "tikName": "Донецкая городская"
+    "tikName": "Донецкая городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 561,
     "uikTvd": "4614013418010",
+    "uikName": "УИК №561",
     "tikTvd": "26120002976951",
-    "tikName": "Донецкая городская"
+    "tikName": "Донецкая городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 562,
     "uikTvd": "4614013418011",
+    "uikName": "УИК №562",
     "tikTvd": "26120002976951",
-    "tikName": "Донецкая городская"
+    "tikName": "Донецкая городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 563,
     "uikTvd": "4614013418012",
+    "uikName": "УИК №563",
     "tikTvd": "26120002976951",
-    "tikName": "Донецкая городская"
+    "tikName": "Донецкая городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 564,
     "uikTvd": "4614013418013",
+    "uikName": "УИК №564",
     "tikTvd": "26120002976951",
-    "tikName": "Донецкая городская"
+    "tikName": "Донецкая городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 565,
     "uikTvd": "4614013418014",
+    "uikName": "УИК №565",
     "tikTvd": "26120002976951",
-    "tikName": "Донецкая городская"
+    "tikName": "Донецкая городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 566,
     "uikTvd": "4614013418015",
+    "uikName": "УИК №566",
     "tikTvd": "26120002976951",
-    "tikName": "Донецкая городская"
+    "tikName": "Донецкая городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 567,
     "uikTvd": "4614013418016",
+    "uikName": "УИК №567",
     "tikTvd": "26120002976951",
-    "tikName": "Донецкая городская"
+    "tikName": "Донецкая городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 568,
     "uikTvd": "4614013418017",
+    "uikName": "УИК №568",
     "tikTvd": "26120002976951",
-    "tikName": "Донецкая городская"
+    "tikName": "Донецкая городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 569,
     "uikTvd": "4614013418018",
+    "uikName": "УИК №569",
     "tikTvd": "26120002976951",
-    "tikName": "Донецкая городская"
+    "tikName": "Донецкая городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 570,
     "uikTvd": "4614013418019",
+    "uikName": "УИК №570",
     "tikTvd": "26120002976951",
-    "tikName": "Донецкая городская"
+    "tikName": "Донецкая городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 571,
     "uikTvd": "4614013418020",
+    "uikName": "УИК №571",
     "tikTvd": "26120002976951",
-    "tikName": "Донецкая городская"
+    "tikName": "Донецкая городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 572,
     "uikTvd": "4614013418021",
+    "uikName": "УИК №572",
     "tikTvd": "26120002976951",
-    "tikName": "Донецкая городская"
+    "tikName": "Донецкая городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 573,
     "uikTvd": "4614013418022",
+    "uikName": "УИК №573",
     "tikTvd": "26120002976951",
-    "tikName": "Донецкая городская"
+    "tikName": "Донецкая городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 574,
     "uikTvd": "4614013418023",
+    "uikName": "УИК №574",
     "tikTvd": "26120002976951",
-    "tikName": "Донецкая городская"
+    "tikName": "Донецкая городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 575,
     "uikTvd": "4614014380791",
+    "uikName": "УИК №575",
     "tikTvd": "26120002976989",
-    "tikName": "Дубовская"
+    "tikName": "Дубовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 576,
     "uikTvd": "4614014380793",
+    "uikName": "УИК №576",
     "tikTvd": "26120002976989",
-    "tikName": "Дубовская"
+    "tikName": "Дубовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 577,
     "uikTvd": "4614014380795",
+    "uikName": "УИК №577",
     "tikTvd": "26120002976989",
-    "tikName": "Дубовская"
+    "tikName": "Дубовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 578,
     "uikTvd": "4614014380797",
+    "uikName": "УИК №578",
     "tikTvd": "26120002976989",
-    "tikName": "Дубовская"
+    "tikName": "Дубовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 579,
     "uikTvd": "4614014380799",
+    "uikName": "УИК №579",
     "tikTvd": "26120002976989",
-    "tikName": "Дубовская"
+    "tikName": "Дубовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 580,
     "uikTvd": "4614014380801",
+    "uikName": "УИК №580",
     "tikTvd": "26120002976989",
-    "tikName": "Дубовская"
+    "tikName": "Дубовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 581,
     "uikTvd": "4614014380803",
+    "uikName": "УИК №581",
     "tikTvd": "26120002976989",
-    "tikName": "Дубовская"
+    "tikName": "Дубовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 582,
     "uikTvd": "4614014380805",
+    "uikName": "УИК №582",
     "tikTvd": "26120002976989",
-    "tikName": "Дубовская"
+    "tikName": "Дубовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 583,
     "uikTvd": "4614014380807",
+    "uikName": "УИК №583",
     "tikTvd": "26120002976989",
-    "tikName": "Дубовская"
+    "tikName": "Дубовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 584,
     "uikTvd": "4614014380809",
+    "uikName": "УИК №584",
     "tikTvd": "26120002976989",
-    "tikName": "Дубовская"
+    "tikName": "Дубовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 585,
     "uikTvd": "4614014380811",
+    "uikName": "УИК №585",
     "tikTvd": "26120002976989",
-    "tikName": "Дубовская"
+    "tikName": "Дубовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 586,
     "uikTvd": "4614014380813",
+    "uikName": "УИК №586",
     "tikTvd": "26120002976989",
-    "tikName": "Дубовская"
+    "tikName": "Дубовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 587,
     "uikTvd": "4614014380815",
+    "uikName": "УИК №587",
     "tikTvd": "26120002976989",
-    "tikName": "Дубовская"
+    "tikName": "Дубовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 588,
     "uikTvd": "4614014380817",
+    "uikName": "УИК №588",
     "tikTvd": "26120002976989",
-    "tikName": "Дубовская"
+    "tikName": "Дубовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 589,
     "uikTvd": "4614014380819",
+    "uikName": "УИК №589",
     "tikTvd": "26120002976989",
-    "tikName": "Дубовская"
+    "tikName": "Дубовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 590,
     "uikTvd": "4614014380821",
+    "uikName": "УИК №590",
     "tikTvd": "26120002976989",
-    "tikName": "Дубовская"
+    "tikName": "Дубовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 591,
     "uikTvd": "4614014380823",
+    "uikName": "УИК №591",
     "tikTvd": "26120002976989",
-    "tikName": "Дубовская"
+    "tikName": "Дубовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 592,
     "uikTvd": "4614014380825",
+    "uikName": "УИК №592",
     "tikTvd": "26120002976989",
-    "tikName": "Дубовская"
+    "tikName": "Дубовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 593,
     "uikTvd": "4614014380827",
+    "uikName": "УИК №593",
     "tikTvd": "26120002976989",
-    "tikName": "Дубовская"
+    "tikName": "Дубовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 594,
     "uikTvd": "4614014380829",
+    "uikName": "УИК №594",
     "tikTvd": "26120002976989",
-    "tikName": "Дубовская"
+    "tikName": "Дубовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 595,
     "uikTvd": "4614014380831",
+    "uikName": "УИК №595",
     "tikTvd": "26120002976989",
-    "tikName": "Дубовская"
+    "tikName": "Дубовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 596,
     "uikTvd": "4614015338100",
+    "uikName": "УИК №596",
     "tikTvd": "26120002976965",
-    "tikName": "Егорлыкская"
+    "tikName": "Егорлыкская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 597,
     "uikTvd": "4614015338102",
+    "uikName": "УИК №597",
     "tikTvd": "26120002976965",
-    "tikName": "Егорлыкская"
+    "tikName": "Егорлыкская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 598,
     "uikTvd": "4614015338103",
+    "uikName": "УИК №598",
     "tikTvd": "26120002976965",
-    "tikName": "Егорлыкская"
+    "tikName": "Егорлыкская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 599,
     "uikTvd": "4614015338104",
+    "uikName": "УИК №599",
     "tikTvd": "26120002976965",
-    "tikName": "Егорлыкская"
+    "tikName": "Егорлыкская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 600,
     "uikTvd": "4614015338105",
+    "uikName": "УИК №600",
     "tikTvd": "26120002976965",
-    "tikName": "Егорлыкская"
+    "tikName": "Егорлыкская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 601,
     "uikTvd": "4614015338106",
+    "uikName": "УИК №601",
     "tikTvd": "26120002976965",
-    "tikName": "Егорлыкская"
+    "tikName": "Егорлыкская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 602,
     "uikTvd": "4614015338107",
+    "uikName": "УИК №602",
     "tikTvd": "26120002976965",
-    "tikName": "Егорлыкская"
+    "tikName": "Егорлыкская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 603,
     "uikTvd": "4614015338108",
+    "uikName": "УИК №603",
     "tikTvd": "26120002976965",
-    "tikName": "Егорлыкская"
+    "tikName": "Егорлыкская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 604,
     "uikTvd": "4614015338109",
+    "uikName": "УИК №604",
     "tikTvd": "26120002976965",
-    "tikName": "Егорлыкская"
+    "tikName": "Егорлыкская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 605,
     "uikTvd": "4614015338110",
+    "uikName": "УИК №605",
     "tikTvd": "26120002976965",
-    "tikName": "Егорлыкская"
+    "tikName": "Егорлыкская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 606,
     "uikTvd": "4614015338111",
+    "uikName": "УИК №606",
     "tikTvd": "26120002976965",
-    "tikName": "Егорлыкская"
+    "tikName": "Егорлыкская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 607,
     "uikTvd": "4614015338112",
+    "uikName": "УИК №607",
     "tikTvd": "26120002976965",
-    "tikName": "Егорлыкская"
+    "tikName": "Егорлыкская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 608,
     "uikTvd": "4614015338113",
+    "uikName": "УИК №608",
     "tikTvd": "26120002976965",
-    "tikName": "Егорлыкская"
+    "tikName": "Егорлыкская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 609,
     "uikTvd": "4614015338114",
+    "uikName": "УИК №609",
     "tikTvd": "26120002976965",
-    "tikName": "Егорлыкская"
+    "tikName": "Егорлыкская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 610,
     "uikTvd": "4614015338115",
+    "uikName": "УИК №610",
     "tikTvd": "26120002976965",
-    "tikName": "Егорлыкская"
+    "tikName": "Егорлыкская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 611,
     "uikTvd": "4614015338116",
+    "uikName": "УИК №611",
     "tikTvd": "26120002976965",
-    "tikName": "Егорлыкская"
+    "tikName": "Егорлыкская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 612,
     "uikTvd": "4614015338117",
+    "uikName": "УИК №612",
     "tikTvd": "26120002976965",
-    "tikName": "Егорлыкская"
+    "tikName": "Егорлыкская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 613,
     "uikTvd": "4614015338118",
+    "uikName": "УИК №613",
     "tikTvd": "26120002976965",
-    "tikName": "Егорлыкская"
+    "tikName": "Егорлыкская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 614,
     "uikTvd": "4614015338119",
+    "uikName": "УИК №614",
     "tikTvd": "26120002976965",
-    "tikName": "Егорлыкская"
+    "tikName": "Егорлыкская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 615,
     "uikTvd": "4614015338120",
+    "uikName": "УИК №615",
     "tikTvd": "26120002976965",
-    "tikName": "Егорлыкская"
+    "tikName": "Егорлыкская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 616,
     "uikTvd": "4614015338121",
+    "uikName": "УИК №616",
     "tikTvd": "26120002976965",
-    "tikName": "Егорлыкская"
+    "tikName": "Егорлыкская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 617,
     "uikTvd": "4614015338122",
+    "uikName": "УИК №617",
     "tikTvd": "26120002976965",
-    "tikName": "Егорлыкская"
+    "tikName": "Егорлыкская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 618,
     "uikTvd": "4614015338123",
+    "uikName": "УИК №618",
     "tikTvd": "26120002976965",
-    "tikName": "Егорлыкская"
+    "tikName": "Егорлыкская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 619,
     "uikTvd": "4614015338124",
+    "uikName": "УИК №619",
     "tikTvd": "26120002976965",
-    "tikName": "Егорлыкская"
+    "tikName": "Егорлыкская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 620,
     "uikTvd": "4614016388579",
+    "uikName": "УИК №620",
     "tikTvd": "26120002976950",
-    "tikName": "Заветинская"
+    "tikName": "Заветинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 621,
     "uikTvd": "4614016388580",
+    "uikName": "УИК №621",
     "tikTvd": "26120002976950",
-    "tikName": "Заветинская"
+    "tikName": "Заветинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 622,
     "uikTvd": "4614016388581",
+    "uikName": "УИК №622",
     "tikTvd": "26120002976950",
-    "tikName": "Заветинская"
+    "tikName": "Заветинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 623,
     "uikTvd": "4614016388582",
+    "uikName": "УИК №623",
     "tikTvd": "26120002976950",
-    "tikName": "Заветинская"
+    "tikName": "Заветинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 624,
     "uikTvd": "4614016388583",
+    "uikName": "УИК №624",
     "tikTvd": "26120002976950",
-    "tikName": "Заветинская"
+    "tikName": "Заветинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 625,
     "uikTvd": "4614016388584",
+    "uikName": "УИК №625",
     "tikTvd": "26120002976950",
-    "tikName": "Заветинская"
+    "tikName": "Заветинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 626,
     "uikTvd": "4614016388585",
+    "uikName": "УИК №626",
     "tikTvd": "26120002976950",
-    "tikName": "Заветинская"
+    "tikName": "Заветинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 627,
     "uikTvd": "4614016388586",
+    "uikName": "УИК №627",
     "tikTvd": "26120002976950",
-    "tikName": "Заветинская"
+    "tikName": "Заветинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 628,
     "uikTvd": "4614016388587",
+    "uikName": "УИК №628",
     "tikTvd": "26120002976950",
-    "tikName": "Заветинская"
+    "tikName": "Заветинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 629,
     "uikTvd": "4614016388588",
+    "uikName": "УИК №629",
     "tikTvd": "26120002976950",
-    "tikName": "Заветинская"
+    "tikName": "Заветинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 630,
     "uikTvd": "4614016388589",
+    "uikName": "УИК №630",
     "tikTvd": "26120002976950",
-    "tikName": "Заветинская"
+    "tikName": "Заветинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 631,
     "uikTvd": "4614017249118",
+    "uikName": "УИК №631",
     "tikTvd": "26120002976984",
-    "tikName": "Зверевская городская"
+    "tikName": "Зверевская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 632,
     "uikTvd": "4614017249119",
+    "uikName": "УИК №632",
     "tikTvd": "26120002976984",
-    "tikName": "Зверевская городская"
+    "tikName": "Зверевская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 633,
     "uikTvd": "4614017249120",
+    "uikName": "УИК №633",
     "tikTvd": "26120002976984",
-    "tikName": "Зверевская городская"
+    "tikName": "Зверевская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 634,
     "uikTvd": "4614017249121",
+    "uikName": "УИК №634",
     "tikTvd": "26120002976984",
-    "tikName": "Зверевская городская"
+    "tikName": "Зверевская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 635,
     "uikTvd": "4614017249122",
+    "uikName": "УИК №635",
     "tikTvd": "26120002976984",
-    "tikName": "Зверевская городская"
+    "tikName": "Зверевская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 636,
     "uikTvd": "4614017249123",
+    "uikName": "УИК №636",
     "tikTvd": "26120002976984",
-    "tikName": "Зверевская городская"
+    "tikName": "Зверевская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 637,
     "uikTvd": "4614017249124",
+    "uikName": "УИК №637",
     "tikTvd": "26120002976984",
-    "tikName": "Зверевская городская"
+    "tikName": "Зверевская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 638,
     "uikTvd": "4614017249125",
+    "uikName": "УИК №638",
     "tikTvd": "26120002976984",
-    "tikName": "Зверевская городская"
+    "tikName": "Зверевская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 639,
     "uikTvd": "4614017249126",
+    "uikName": "УИК №639",
     "tikTvd": "26120002976984",
-    "tikName": "Зверевская городская"
+    "tikName": "Зверевская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 640,
     "uikTvd": "4614017249127",
+    "uikName": "УИК №640",
     "tikTvd": "26120002976984",
-    "tikName": "Зверевская городская"
+    "tikName": "Зверевская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 641,
     "uikTvd": "4614017249128",
+    "uikName": "УИК №641",
     "tikTvd": "26120002976984",
-    "tikName": "Зверевская городская"
+    "tikName": "Зверевская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 642,
     "uikTvd": "4614017249129",
+    "uikName": "УИК №642",
     "tikTvd": "26120002976984",
-    "tikName": "Зверевская городская"
+    "tikName": "Зверевская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 643,
     "uikTvd": "4614018380294",
+    "uikName": "УИК №643",
     "tikTvd": "26120002976968",
-    "tikName": "Зерноградская"
+    "tikName": "Зерноградская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 644,
     "uikTvd": "4614018380295",
+    "uikName": "УИК №644",
     "tikTvd": "26120002976968",
-    "tikName": "Зерноградская"
+    "tikName": "Зерноградская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 645,
     "uikTvd": "4614018380296",
+    "uikName": "УИК №645",
     "tikTvd": "26120002976968",
-    "tikName": "Зерноградская"
+    "tikName": "Зерноградская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 646,
     "uikTvd": "4614018380297",
+    "uikName": "УИК №646",
     "tikTvd": "26120002976968",
-    "tikName": "Зерноградская"
+    "tikName": "Зерноградская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 647,
     "uikTvd": "4614018380298",
+    "uikName": "УИК №647",
     "tikTvd": "26120002976968",
-    "tikName": "Зерноградская"
+    "tikName": "Зерноградская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 649,
     "uikTvd": "4614018380299",
+    "uikName": "УИК №649",
     "tikTvd": "26120002976968",
-    "tikName": "Зерноградская"
+    "tikName": "Зерноградская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 650,
     "uikTvd": "4614018380300",
+    "uikName": "УИК №650",
     "tikTvd": "26120002976968",
-    "tikName": "Зерноградская"
+    "tikName": "Зерноградская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 651,
     "uikTvd": "4614018380301",
+    "uikName": "УИК №651",
     "tikTvd": "26120002976968",
-    "tikName": "Зерноградская"
+    "tikName": "Зерноградская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 652,
     "uikTvd": "4614018380302",
+    "uikName": "УИК №652",
     "tikTvd": "26120002976968",
-    "tikName": "Зерноградская"
+    "tikName": "Зерноградская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 653,
     "uikTvd": "4614018380303",
+    "uikName": "УИК №653",
     "tikTvd": "26120002976968",
-    "tikName": "Зерноградская"
+    "tikName": "Зерноградская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 654,
     "uikTvd": "4614018380304",
+    "uikName": "УИК №654",
     "tikTvd": "26120002976968",
-    "tikName": "Зерноградская"
+    "tikName": "Зерноградская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 655,
     "uikTvd": "4614018380305",
+    "uikName": "УИК №655",
     "tikTvd": "26120002976968",
-    "tikName": "Зерноградская"
+    "tikName": "Зерноградская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 656,
     "uikTvd": "4614018380306",
+    "uikName": "УИК №656",
     "tikTvd": "26120002976968",
-    "tikName": "Зерноградская"
+    "tikName": "Зерноградская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 657,
     "uikTvd": "4614018380307",
+    "uikName": "УИК №657",
     "tikTvd": "26120002976968",
-    "tikName": "Зерноградская"
+    "tikName": "Зерноградская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 658,
     "uikTvd": "4614018380308",
+    "uikName": "УИК №658",
     "tikTvd": "26120002976968",
-    "tikName": "Зерноградская"
+    "tikName": "Зерноградская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 659,
     "uikTvd": "4614018380309",
+    "uikName": "УИК №659",
     "tikTvd": "26120002976968",
-    "tikName": "Зерноградская"
+    "tikName": "Зерноградская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 660,
     "uikTvd": "4614018380310",
+    "uikName": "УИК №660",
     "tikTvd": "26120002976968",
-    "tikName": "Зерноградская"
+    "tikName": "Зерноградская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 661,
     "uikTvd": "4614018380311",
+    "uikName": "УИК №661",
     "tikTvd": "26120002976968",
-    "tikName": "Зерноградская"
+    "tikName": "Зерноградская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 662,
     "uikTvd": "4614018380312",
+    "uikName": "УИК №662",
     "tikTvd": "26120002976968",
-    "tikName": "Зерноградская"
+    "tikName": "Зерноградская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 663,
     "uikTvd": "4614018380313",
+    "uikName": "УИК №663",
     "tikTvd": "26120002976968",
-    "tikName": "Зерноградская"
+    "tikName": "Зерноградская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 665,
     "uikTvd": "4614018380314",
+    "uikName": "УИК №665",
     "tikTvd": "26120002976968",
-    "tikName": "Зерноградская"
+    "tikName": "Зерноградская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 666,
     "uikTvd": "4614018380315",
+    "uikName": "УИК №666",
     "tikTvd": "26120002976968",
-    "tikName": "Зерноградская"
+    "tikName": "Зерноградская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 667,
     "uikTvd": "4614018380316",
+    "uikName": "УИК №667",
     "tikTvd": "26120002976968",
-    "tikName": "Зерноградская"
+    "tikName": "Зерноградская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 668,
     "uikTvd": "4614018380317",
+    "uikName": "УИК №668",
     "tikTvd": "26120002976968",
-    "tikName": "Зерноградская"
+    "tikName": "Зерноградская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 669,
     "uikTvd": "4614018380318",
+    "uikName": "УИК №669",
     "tikTvd": "26120002976968",
-    "tikName": "Зерноградская"
+    "tikName": "Зерноградская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 670,
     "uikTvd": "4614018380319",
+    "uikName": "УИК №670",
     "tikTvd": "26120002976968",
-    "tikName": "Зерноградская"
+    "tikName": "Зерноградская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 671,
     "uikTvd": "4614018380320",
+    "uikName": "УИК №671",
     "tikTvd": "26120002976968",
-    "tikName": "Зерноградская"
+    "tikName": "Зерноградская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 672,
     "uikTvd": "4614018380321",
+    "uikName": "УИК №672",
     "tikTvd": "26120002976968",
-    "tikName": "Зерноградская"
+    "tikName": "Зерноградская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 673,
     "uikTvd": "4614018380322",
+    "uikName": "УИК №673",
     "tikTvd": "26120002976968",
-    "tikName": "Зерноградская"
+    "tikName": "Зерноградская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 674,
     "uikTvd": "4614018380323",
+    "uikName": "УИК №674",
     "tikTvd": "26120002976968",
-    "tikName": "Зерноградская"
+    "tikName": "Зерноградская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 675,
     "uikTvd": "4614018380324",
+    "uikName": "УИК №675",
     "tikTvd": "26120002976968",
-    "tikName": "Зерноградская"
+    "tikName": "Зерноградская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 676,
     "uikTvd": "4614018380325",
+    "uikName": "УИК №676",
     "tikTvd": "26120002976968",
-    "tikName": "Зерноградская"
+    "tikName": "Зерноградская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 677,
     "uikTvd": "4614018380326",
+    "uikName": "УИК №677",
     "tikTvd": "26120002976968",
-    "tikName": "Зерноградская"
+    "tikName": "Зерноградская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 678,
     "uikTvd": "4614018380327",
+    "uikName": "УИК №678",
     "tikTvd": "26120002976968",
-    "tikName": "Зерноградская"
+    "tikName": "Зерноградская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 679,
     "uikTvd": "4614018380328",
+    "uikName": "УИК №679",
     "tikTvd": "26120002976968",
-    "tikName": "Зерноградская"
+    "tikName": "Зерноградская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 680,
     "uikTvd": "4614018380329",
+    "uikName": "УИК №680",
     "tikTvd": "26120002976968",
-    "tikName": "Зерноградская"
+    "tikName": "Зерноградская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 681,
     "uikTvd": "4614018380330",
+    "uikName": "УИК №681",
     "tikTvd": "26120002976968",
-    "tikName": "Зерноградская"
+    "tikName": "Зерноградская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 682,
     "uikTvd": "4614018380331",
+    "uikName": "УИК №682",
     "tikTvd": "26120002976968",
-    "tikName": "Зерноградская"
+    "tikName": "Зерноградская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 684,
     "uikTvd": "4614018380332",
+    "uikName": "УИК №684",
     "tikTvd": "26120002976968",
-    "tikName": "Зерноградская"
+    "tikName": "Зерноградская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 685,
     "uikTvd": "4614018380333",
+    "uikName": "УИК №685",
     "tikTvd": "26120002976968",
-    "tikName": "Зерноградская"
+    "tikName": "Зерноградская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 686,
     "uikTvd": "4614018380334",
+    "uikName": "УИК №686",
     "tikTvd": "26120002976968",
-    "tikName": "Зерноградская"
+    "tikName": "Зерноградская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 687,
     "uikTvd": "4614018380335",
+    "uikName": "УИК №687",
     "tikTvd": "26120002976968",
-    "tikName": "Зерноградская"
+    "tikName": "Зерноградская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 688,
     "uikTvd": "4614018380336",
+    "uikName": "УИК №688",
     "tikTvd": "26120002976968",
-    "tikName": "Зерноградская"
+    "tikName": "Зерноградская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 689,
     "uikTvd": "4614018380337",
+    "uikName": "УИК №689",
     "tikTvd": "26120002976968",
-    "tikName": "Зерноградская"
+    "tikName": "Зерноградская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 690,
     "uikTvd": "4614018380338",
+    "uikName": "УИК №690",
     "tikTvd": "26120002976968",
-    "tikName": "Зерноградская"
+    "tikName": "Зерноградская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 691,
     "uikTvd": "4614018380339",
+    "uikName": "УИК №691",
     "tikTvd": "26120002976968",
-    "tikName": "Зерноградская"
+    "tikName": "Зерноградская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 692,
     "uikTvd": "4614018380340",
+    "uikName": "УИК №692",
     "tikTvd": "26120002976968",
-    "tikName": "Зерноградская"
+    "tikName": "Зерноградская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 693,
     "uikTvd": "4614018380341",
+    "uikName": "УИК №693",
     "tikTvd": "26120002976968",
-    "tikName": "Зерноградская"
+    "tikName": "Зерноградская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 694,
     "uikTvd": "4614018380342",
+    "uikName": "УИК №694",
     "tikTvd": "26120002976968",
-    "tikName": "Зерноградская"
+    "tikName": "Зерноградская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 695,
     "uikTvd": "4614018380343",
+    "uikName": "УИК №695",
     "tikTvd": "26120002976968",
-    "tikName": "Зерноградская"
+    "tikName": "Зерноградская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 696,
     "uikTvd": "4614018380344",
+    "uikName": "УИК №696",
     "tikTvd": "26120002976968",
-    "tikName": "Зерноградская"
+    "tikName": "Зерноградская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 697,
     "uikTvd": "4614018380345",
+    "uikName": "УИК №697",
     "tikTvd": "26120002976968",
-    "tikName": "Зерноградская"
+    "tikName": "Зерноградская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 698,
     "uikTvd": "4614018380346",
+    "uikName": "УИК №698",
     "tikTvd": "26120002976968",
-    "tikName": "Зерноградская"
+    "tikName": "Зерноградская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 699,
     "uikTvd": "4614018380347",
+    "uikName": "УИК №699",
     "tikTvd": "26120002976968",
-    "tikName": "Зерноградская"
+    "tikName": "Зерноградская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 700,
     "uikTvd": "4614018380348",
+    "uikName": "УИК №700",
     "tikTvd": "26120002976968",
-    "tikName": "Зерноградская"
+    "tikName": "Зерноградская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 701,
     "uikTvd": "4614018380349",
+    "uikName": "УИК №701",
     "tikTvd": "26120002976968",
-    "tikName": "Зерноградская"
+    "tikName": "Зерноградская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 702,
     "uikTvd": "4614018380350",
+    "uikName": "УИК №702",
     "tikTvd": "26120002976968",
-    "tikName": "Зерноградская"
+    "tikName": "Зерноградская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 703,
     "uikTvd": "4614018380351",
+    "uikName": "УИК №703",
     "tikTvd": "26120002976968",
-    "tikName": "Зерноградская"
+    "tikName": "Зерноградская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 704,
     "uikTvd": "4614018380352",
+    "uikName": "УИК №704",
     "tikTvd": "26120002976968",
-    "tikName": "Зерноградская"
+    "tikName": "Зерноградская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 705,
     "uikTvd": "4614019503472",
+    "uikName": "УИК №705",
     "tikTvd": "26120002976983",
-    "tikName": "Зимовниковская"
+    "tikName": "Зимовниковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 706,
     "uikTvd": "4614019503473",
+    "uikName": "УИК №706",
     "tikTvd": "26120002976983",
-    "tikName": "Зимовниковская"
+    "tikName": "Зимовниковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 707,
     "uikTvd": "4614019503474",
+    "uikName": "УИК №707",
     "tikTvd": "26120002976983",
-    "tikName": "Зимовниковская"
+    "tikName": "Зимовниковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 708,
     "uikTvd": "4614019503475",
+    "uikName": "УИК №708",
     "tikTvd": "26120002976983",
-    "tikName": "Зимовниковская"
+    "tikName": "Зимовниковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 709,
     "uikTvd": "4614019503476",
+    "uikName": "УИК №709",
     "tikTvd": "26120002976983",
-    "tikName": "Зимовниковская"
+    "tikName": "Зимовниковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 710,
     "uikTvd": "4614019503477",
+    "uikName": "УИК №710",
     "tikTvd": "26120002976983",
-    "tikName": "Зимовниковская"
+    "tikName": "Зимовниковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 711,
     "uikTvd": "4614019503478",
+    "uikName": "УИК №711",
     "tikTvd": "26120002976983",
-    "tikName": "Зимовниковская"
+    "tikName": "Зимовниковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 712,
     "uikTvd": "4614019503479",
+    "uikName": "УИК №712",
     "tikTvd": "26120002976983",
-    "tikName": "Зимовниковская"
+    "tikName": "Зимовниковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 713,
     "uikTvd": "4614019503480",
+    "uikName": "УИК №713",
     "tikTvd": "26120002976983",
-    "tikName": "Зимовниковская"
+    "tikName": "Зимовниковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 714,
     "uikTvd": "4614019503481",
+    "uikName": "УИК №714",
     "tikTvd": "26120002976983",
-    "tikName": "Зимовниковская"
+    "tikName": "Зимовниковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 715,
     "uikTvd": "4614019503482",
+    "uikName": "УИК №715",
     "tikTvd": "26120002976983",
-    "tikName": "Зимовниковская"
+    "tikName": "Зимовниковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 716,
     "uikTvd": "4614019503483",
+    "uikName": "УИК №716",
     "tikTvd": "26120002976983",
-    "tikName": "Зимовниковская"
+    "tikName": "Зимовниковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 717,
     "uikTvd": "4614019503484",
+    "uikName": "УИК №717",
     "tikTvd": "26120002976983",
-    "tikName": "Зимовниковская"
+    "tikName": "Зимовниковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 718,
     "uikTvd": "4614019503485",
+    "uikName": "УИК №718",
     "tikTvd": "26120002976983",
-    "tikName": "Зимовниковская"
+    "tikName": "Зимовниковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 719,
     "uikTvd": "4614019503486",
+    "uikName": "УИК №719",
     "tikTvd": "26120002976983",
-    "tikName": "Зимовниковская"
+    "tikName": "Зимовниковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 720,
     "uikTvd": "4614019503487",
+    "uikName": "УИК №720",
     "tikTvd": "26120002976983",
-    "tikName": "Зимовниковская"
+    "tikName": "Зимовниковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 721,
     "uikTvd": "4614019503488",
+    "uikName": "УИК №721",
     "tikTvd": "26120002976983",
-    "tikName": "Зимовниковская"
+    "tikName": "Зимовниковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 722,
     "uikTvd": "4614019503489",
+    "uikName": "УИК №722",
     "tikTvd": "26120002976983",
-    "tikName": "Зимовниковская"
+    "tikName": "Зимовниковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 723,
     "uikTvd": "4614019503490",
+    "uikName": "УИК №723",
     "tikTvd": "26120002976983",
-    "tikName": "Зимовниковская"
+    "tikName": "Зимовниковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 724,
     "uikTvd": "4614019503491",
+    "uikName": "УИК №724",
     "tikTvd": "26120002976983",
-    "tikName": "Зимовниковская"
+    "tikName": "Зимовниковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 725,
     "uikTvd": "4614019503492",
+    "uikName": "УИК №725",
     "tikTvd": "26120002976983",
-    "tikName": "Зимовниковская"
+    "tikName": "Зимовниковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 726,
     "uikTvd": "4614019503493",
+    "uikName": "УИК №726",
     "tikTvd": "26120002976983",
-    "tikName": "Зимовниковская"
+    "tikName": "Зимовниковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 727,
     "uikTvd": "4614019503494",
+    "uikName": "УИК №727",
     "tikTvd": "26120002976983",
-    "tikName": "Зимовниковская"
+    "tikName": "Зимовниковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 728,
     "uikTvd": "4614019503495",
+    "uikName": "УИК №728",
     "tikTvd": "26120002976983",
-    "tikName": "Зимовниковская"
+    "tikName": "Зимовниковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 729,
     "uikTvd": "4614019503496",
+    "uikName": "УИК №729",
     "tikTvd": "26120002976983",
-    "tikName": "Зимовниковская"
+    "tikName": "Зимовниковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 730,
     "uikTvd": "4614019503497",
+    "uikName": "УИК №730",
     "tikTvd": "26120002976983",
-    "tikName": "Зимовниковская"
+    "tikName": "Зимовниковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 731,
     "uikTvd": "4614019503498",
+    "uikName": "УИК №731",
     "tikTvd": "26120002976983",
-    "tikName": "Зимовниковская"
+    "tikName": "Зимовниковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 732,
     "uikTvd": "4614019503499",
+    "uikName": "УИК №732",
     "tikTvd": "26120002976983",
-    "tikName": "Зимовниковская"
+    "tikName": "Зимовниковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 733,
     "uikTvd": "4614019503500",
+    "uikName": "УИК №733",
     "tikTvd": "26120002976983",
-    "tikName": "Зимовниковская"
+    "tikName": "Зимовниковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 734,
     "uikTvd": "4614020370717",
+    "uikName": "УИК №734",
     "tikTvd": "26120002976953",
-    "tikName": "Кагальницкая"
+    "tikName": "Кагальницкая",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 735,
     "uikTvd": "4614020370718",
+    "uikName": "УИК №735",
     "tikTvd": "26120002976953",
-    "tikName": "Кагальницкая"
+    "tikName": "Кагальницкая",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 737,
     "uikTvd": "4614020370719",
+    "uikName": "УИК №737",
     "tikTvd": "26120002976953",
-    "tikName": "Кагальницкая"
+    "tikName": "Кагальницкая",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 738,
     "uikTvd": "4614020370720",
+    "uikName": "УИК №738",
     "tikTvd": "26120002976953",
-    "tikName": "Кагальницкая"
+    "tikName": "Кагальницкая",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 739,
     "uikTvd": "4614020370721",
+    "uikName": "УИК №739",
     "tikTvd": "26120002976953",
-    "tikName": "Кагальницкая"
+    "tikName": "Кагальницкая",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 740,
     "uikTvd": "4614020370722",
+    "uikName": "УИК №740",
     "tikTvd": "26120002976953",
-    "tikName": "Кагальницкая"
+    "tikName": "Кагальницкая",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 741,
     "uikTvd": "4614020370723",
+    "uikName": "УИК №741",
     "tikTvd": "26120002976953",
-    "tikName": "Кагальницкая"
+    "tikName": "Кагальницкая",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 742,
     "uikTvd": "4614020370724",
+    "uikName": "УИК №742",
     "tikTvd": "26120002976953",
-    "tikName": "Кагальницкая"
+    "tikName": "Кагальницкая",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 743,
     "uikTvd": "4614020370725",
+    "uikName": "УИК №743",
     "tikTvd": "26120002976953",
-    "tikName": "Кагальницкая"
+    "tikName": "Кагальницкая",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 744,
     "uikTvd": "4614020370726",
+    "uikName": "УИК №744",
     "tikTvd": "26120002976953",
-    "tikName": "Кагальницкая"
+    "tikName": "Кагальницкая",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 745,
     "uikTvd": "4614020370727",
+    "uikName": "УИК №745",
     "tikTvd": "26120002976953",
-    "tikName": "Кагальницкая"
+    "tikName": "Кагальницкая",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 746,
     "uikTvd": "4614020370728",
+    "uikName": "УИК №746",
     "tikTvd": "26120002976953",
-    "tikName": "Кагальницкая"
+    "tikName": "Кагальницкая",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 749,
     "uikTvd": "4614020370729",
+    "uikName": "УИК №749",
     "tikTvd": "26120002976953",
-    "tikName": "Кагальницкая"
+    "tikName": "Кагальницкая",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 750,
     "uikTvd": "4614020370730",
+    "uikName": "УИК №750",
     "tikTvd": "26120002976953",
-    "tikName": "Кагальницкая"
+    "tikName": "Кагальницкая",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 751,
     "uikTvd": "4614020370731",
+    "uikName": "УИК №751",
     "tikTvd": "26120002976953",
-    "tikName": "Кагальницкая"
+    "tikName": "Кагальницкая",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 753,
     "uikTvd": "4614020370732",
+    "uikName": "УИК №753",
     "tikTvd": "26120002976953",
-    "tikName": "Кагальницкая"
+    "tikName": "Кагальницкая",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 754,
     "uikTvd": "4614020370733",
+    "uikName": "УИК №754",
     "tikTvd": "26120002976953",
-    "tikName": "Кагальницкая"
+    "tikName": "Кагальницкая",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 755,
     "uikTvd": "4614020370734",
+    "uikName": "УИК №755",
     "tikTvd": "26120002976953",
-    "tikName": "Кагальницкая"
+    "tikName": "Кагальницкая",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 756,
     "uikTvd": "4614020370735",
+    "uikName": "УИК №756",
     "tikTvd": "26120002976953",
-    "tikName": "Кагальницкая"
+    "tikName": "Кагальницкая",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 757,
     "uikTvd": "4614020370736",
+    "uikName": "УИК №757",
     "tikTvd": "26120002976953",
-    "tikName": "Кагальницкая"
+    "tikName": "Кагальницкая",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 758,
     "uikTvd": "4614020370737",
+    "uikName": "УИК №758",
     "tikTvd": "26120002976953",
-    "tikName": "Кагальницкая"
+    "tikName": "Кагальницкая",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 760,
     "uikTvd": "4614020370738",
+    "uikName": "УИК №760",
     "tikTvd": "26120002976953",
-    "tikName": "Кагальницкая"
+    "tikName": "Кагальницкая",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 761,
     "uikTvd": "4614020370739",
+    "uikName": "УИК №761",
     "tikTvd": "26120002976953",
-    "tikName": "Кагальницкая"
+    "tikName": "Кагальницкая",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 762,
     "uikTvd": "4614020370740",
+    "uikName": "УИК №762",
     "tikTvd": "26120002976953",
-    "tikName": "Кагальницкая"
+    "tikName": "Кагальницкая",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 763,
     "uikTvd": "4614020370741",
+    "uikName": "УИК №763",
     "tikTvd": "26120002976953",
-    "tikName": "Кагальницкая"
+    "tikName": "Кагальницкая",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 764,
     "uikTvd": "4614020370742",
+    "uikName": "УИК №764",
     "tikTvd": "26120002976953",
-    "tikName": "Кагальницкая"
+    "tikName": "Кагальницкая",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 765,
     "uikTvd": "4614020370743",
+    "uikName": "УИК №765",
     "tikTvd": "26120002976953",
-    "tikName": "Кагальницкая"
+    "tikName": "Кагальницкая",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 767,
     "uikTvd": "4614020370744",
+    "uikName": "УИК №767",
     "tikTvd": "26120002976953",
-    "tikName": "Кагальницкая"
+    "tikName": "Кагальницкая",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 768,
     "uikTvd": "4614020370745",
+    "uikName": "УИК №768",
     "tikTvd": "26120002976953",
-    "tikName": "Кагальницкая"
+    "tikName": "Кагальницкая",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 769,
     "uikTvd": "4614020370746",
+    "uikName": "УИК №769",
     "tikTvd": "26120002976953",
-    "tikName": "Кагальницкая"
+    "tikName": "Кагальницкая",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 771,
     "uikTvd": "4614020370747",
+    "uikName": "УИК №771",
     "tikTvd": "26120002976953",
-    "tikName": "Кагальницкая"
+    "tikName": "Кагальницкая",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 772,
     "uikTvd": "4614020370748",
+    "uikName": "УИК №772",
     "tikTvd": "26120002976953",
-    "tikName": "Кагальницкая"
+    "tikName": "Кагальницкая",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 773,
     "uikTvd": "4614020370749",
+    "uikName": "УИК №773",
     "tikTvd": "26120002976953",
-    "tikName": "Кагальницкая"
+    "tikName": "Кагальницкая",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 774,
     "uikTvd": "46140211034948",
+    "uikName": "УИК №774",
     "tikTvd": "26120002976966",
-    "tikName": "Каменск-Шахтинская городская"
+    "tikName": "Каменск-Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 775,
     "uikTvd": "46140211034949",
+    "uikName": "УИК №775",
     "tikTvd": "26120002976966",
-    "tikName": "Каменск-Шахтинская городская"
+    "tikName": "Каменск-Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 776,
     "uikTvd": "46140211034950",
+    "uikName": "УИК №776",
     "tikTvd": "26120002976966",
-    "tikName": "Каменск-Шахтинская городская"
+    "tikName": "Каменск-Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 777,
     "uikTvd": "46140211034951",
+    "uikName": "УИК №777",
     "tikTvd": "26120002976966",
-    "tikName": "Каменск-Шахтинская городская"
+    "tikName": "Каменск-Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 778,
     "uikTvd": "46140211034952",
+    "uikName": "УИК №778",
     "tikTvd": "26120002976966",
-    "tikName": "Каменск-Шахтинская городская"
+    "tikName": "Каменск-Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 779,
     "uikTvd": "46140211034953",
+    "uikName": "УИК №779",
     "tikTvd": "26120002976966",
-    "tikName": "Каменск-Шахтинская городская"
+    "tikName": "Каменск-Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 780,
     "uikTvd": "46140211034954",
+    "uikName": "УИК №780",
     "tikTvd": "26120002976966",
-    "tikName": "Каменск-Шахтинская городская"
+    "tikName": "Каменск-Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 781,
     "uikTvd": "46140211034955",
+    "uikName": "УИК №781",
     "tikTvd": "26120002976966",
-    "tikName": "Каменск-Шахтинская городская"
+    "tikName": "Каменск-Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 782,
     "uikTvd": "46140211034956",
+    "uikName": "УИК №782",
     "tikTvd": "26120002976966",
-    "tikName": "Каменск-Шахтинская городская"
+    "tikName": "Каменск-Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 783,
     "uikTvd": "46140211034957",
+    "uikName": "УИК №783",
     "tikTvd": "26120002976966",
-    "tikName": "Каменск-Шахтинская городская"
+    "tikName": "Каменск-Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 784,
     "uikTvd": "46140211034958",
+    "uikName": "УИК №784",
     "tikTvd": "26120002976966",
-    "tikName": "Каменск-Шахтинская городская"
+    "tikName": "Каменск-Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 785,
     "uikTvd": "46140211034959",
+    "uikName": "УИК №785",
     "tikTvd": "26120002976966",
-    "tikName": "Каменск-Шахтинская городская"
+    "tikName": "Каменск-Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 786,
     "uikTvd": "46140211034960",
+    "uikName": "УИК №786",
     "tikTvd": "26120002976966",
-    "tikName": "Каменск-Шахтинская городская"
+    "tikName": "Каменск-Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 787,
     "uikTvd": "46140211034961",
+    "uikName": "УИК №787",
     "tikTvd": "26120002976966",
-    "tikName": "Каменск-Шахтинская городская"
+    "tikName": "Каменск-Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 788,
     "uikTvd": "46140211034962",
+    "uikName": "УИК №788",
     "tikTvd": "26120002976966",
-    "tikName": "Каменск-Шахтинская городская"
+    "tikName": "Каменск-Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 789,
     "uikTvd": "46140211034963",
+    "uikName": "УИК №789",
     "tikTvd": "26120002976966",
-    "tikName": "Каменск-Шахтинская городская"
+    "tikName": "Каменск-Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 790,
     "uikTvd": "46140211034964",
+    "uikName": "УИК №790",
     "tikTvd": "26120002976966",
-    "tikName": "Каменск-Шахтинская городская"
+    "tikName": "Каменск-Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 791,
     "uikTvd": "46140211034965",
+    "uikName": "УИК №791",
     "tikTvd": "26120002976966",
-    "tikName": "Каменск-Шахтинская городская"
+    "tikName": "Каменск-Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 792,
     "uikTvd": "46140211034966",
+    "uikName": "УИК №792",
     "tikTvd": "26120002976966",
-    "tikName": "Каменск-Шахтинская городская"
+    "tikName": "Каменск-Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 793,
     "uikTvd": "46140211034967",
+    "uikName": "УИК №793",
     "tikTvd": "26120002976966",
-    "tikName": "Каменск-Шахтинская городская"
+    "tikName": "Каменск-Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 794,
     "uikTvd": "46140211034968",
+    "uikName": "УИК №794",
     "tikTvd": "26120002976966",
-    "tikName": "Каменск-Шахтинская городская"
+    "tikName": "Каменск-Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 795,
     "uikTvd": "46140211034969",
+    "uikName": "УИК №795",
     "tikTvd": "26120002976966",
-    "tikName": "Каменск-Шахтинская городская"
+    "tikName": "Каменск-Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 796,
     "uikTvd": "46140211034970",
+    "uikName": "УИК №796",
     "tikTvd": "26120002976966",
-    "tikName": "Каменск-Шахтинская городская"
+    "tikName": "Каменск-Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 797,
     "uikTvd": "46140211034971",
+    "uikName": "УИК №797",
     "tikTvd": "26120002976966",
-    "tikName": "Каменск-Шахтинская городская"
+    "tikName": "Каменск-Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 798,
     "uikTvd": "46140211034972",
+    "uikName": "УИК №798",
     "tikTvd": "26120002976966",
-    "tikName": "Каменск-Шахтинская городская"
+    "tikName": "Каменск-Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 799,
     "uikTvd": "46140211034973",
+    "uikName": "УИК №799",
     "tikTvd": "26120002976966",
-    "tikName": "Каменск-Шахтинская городская"
+    "tikName": "Каменск-Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 800,
     "uikTvd": "46140211034974",
+    "uikName": "УИК №800",
     "tikTvd": "26120002976966",
-    "tikName": "Каменск-Шахтинская городская"
+    "tikName": "Каменск-Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 801,
     "uikTvd": "46140211034975",
+    "uikName": "УИК №801",
     "tikTvd": "26120002976966",
-    "tikName": "Каменск-Шахтинская городская"
+    "tikName": "Каменск-Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 802,
     "uikTvd": "46140211034976",
+    "uikName": "УИК №802",
     "tikTvd": "26120002976966",
-    "tikName": "Каменск-Шахтинская городская"
+    "tikName": "Каменск-Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 803,
     "uikTvd": "46140211034977",
+    "uikName": "УИК №803",
     "tikTvd": "26120002976966",
-    "tikName": "Каменск-Шахтинская городская"
+    "tikName": "Каменск-Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 804,
     "uikTvd": "46140211034978",
+    "uikName": "УИК №804",
     "tikTvd": "26120002976966",
-    "tikName": "Каменск-Шахтинская городская"
+    "tikName": "Каменск-Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 805,
     "uikTvd": "46140211034979",
+    "uikName": "УИК №805",
     "tikTvd": "26120002976966",
-    "tikName": "Каменск-Шахтинская городская"
+    "tikName": "Каменск-Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 806,
     "uikTvd": "46140211034980",
+    "uikName": "УИК №806",
     "tikTvd": "26120002976966",
-    "tikName": "Каменск-Шахтинская городская"
+    "tikName": "Каменск-Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 807,
     "uikTvd": "46140211034981",
+    "uikName": "УИК №807",
     "tikTvd": "26120002976966",
-    "tikName": "Каменск-Шахтинская городская"
+    "tikName": "Каменск-Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 808,
     "uikTvd": "46140211034982",
+    "uikName": "УИК №808",
     "tikTvd": "26120002976966",
-    "tikName": "Каменск-Шахтинская городская"
+    "tikName": "Каменск-Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 809,
     "uikTvd": "46140211034983",
+    "uikName": "УИК №809",
     "tikTvd": "26120002976966",
-    "tikName": "Каменск-Шахтинская городская"
+    "tikName": "Каменск-Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 810,
     "uikTvd": "46140211034984",
+    "uikName": "УИК №810",
     "tikTvd": "26120002976966",
-    "tikName": "Каменск-Шахтинская городская"
+    "tikName": "Каменск-Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 811,
     "uikTvd": "46140211034985",
+    "uikName": "УИК №811",
     "tikTvd": "26120002976966",
-    "tikName": "Каменск-Шахтинская городская"
+    "tikName": "Каменск-Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 812,
     "uikTvd": "46140211034986",
+    "uikName": "УИК №812",
     "tikTvd": "26120002976966",
-    "tikName": "Каменск-Шахтинская городская"
+    "tikName": "Каменск-Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 813,
     "uikTvd": "46140211034987",
+    "uikName": "УИК №813",
     "tikTvd": "26120002976966",
-    "tikName": "Каменск-Шахтинская городская"
+    "tikName": "Каменск-Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 814,
     "uikTvd": "46140211034988",
+    "uikName": "УИК №814",
     "tikTvd": "26120002976966",
-    "tikName": "Каменск-Шахтинская городская"
+    "tikName": "Каменск-Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 815,
     "uikTvd": "46140211034989",
+    "uikName": "УИК №815",
     "tikTvd": "26120002976966",
-    "tikName": "Каменск-Шахтинская городская"
+    "tikName": "Каменск-Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 816,
     "uikTvd": "46140211034990",
+    "uikName": "УИК №816",
     "tikTvd": "26120002976966",
-    "tikName": "Каменск-Шахтинская городская"
+    "tikName": "Каменск-Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 817,
     "uikTvd": "46140211034991",
+    "uikName": "УИК №817",
     "tikTvd": "26120002976966",
-    "tikName": "Каменск-Шахтинская городская"
+    "tikName": "Каменск-Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 818,
     "uikTvd": "46140211038830",
+    "uikName": "УИК №818",
     "tikTvd": "26120002976966",
-    "tikName": "Каменск-Шахтинская городская"
+    "tikName": "Каменск-Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 819,
     "uikTvd": "4614022372478",
+    "uikName": "УИК №819",
     "tikTvd": "26120002976993",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 820,
     "uikTvd": "4614022372479",
+    "uikName": "УИК №820",
     "tikTvd": "26120002976993",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 821,
     "uikTvd": "4614022372480",
+    "uikName": "УИК №821",
     "tikTvd": "26120002976993",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 822,
     "uikTvd": "4614022372481",
+    "uikName": "УИК №822",
     "tikTvd": "26120002976993",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 823,
     "uikTvd": "4614022372482",
+    "uikName": "УИК №823",
     "tikTvd": "26120002976993",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 824,
     "uikTvd": "4614022372483",
+    "uikName": "УИК №824",
     "tikTvd": "26120002976993",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 825,
     "uikTvd": "4614022372484",
+    "uikName": "УИК №825",
     "tikTvd": "26120002976993",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 826,
     "uikTvd": "4614022372485",
+    "uikName": "УИК №826",
     "tikTvd": "26120002976993",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 827,
     "uikTvd": "4614022372486",
+    "uikName": "УИК №827",
     "tikTvd": "26120002976993",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 828,
     "uikTvd": "4614022372487",
+    "uikName": "УИК №828",
     "tikTvd": "26120002976993",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 829,
     "uikTvd": "4614022372488",
+    "uikName": "УИК №829",
     "tikTvd": "26120002976993",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 830,
     "uikTvd": "4614022372489",
+    "uikName": "УИК №830",
     "tikTvd": "26120002976993",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 831,
     "uikTvd": "4614022372490",
+    "uikName": "УИК №831",
     "tikTvd": "26120002976993",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 832,
     "uikTvd": "4614022372491",
+    "uikName": "УИК №832",
     "tikTvd": "26120002976993",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 833,
     "uikTvd": "4614022372492",
+    "uikName": "УИК №833",
     "tikTvd": "26120002976993",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 834,
     "uikTvd": "4614022372493",
+    "uikName": "УИК №834",
     "tikTvd": "26120002976993",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 835,
     "uikTvd": "4614022372494",
+    "uikName": "УИК №835",
     "tikTvd": "26120002976993",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 836,
     "uikTvd": "4614022372495",
+    "uikName": "УИК №836",
     "tikTvd": "26120002976993",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 837,
     "uikTvd": "4614022372496",
+    "uikName": "УИК №837",
     "tikTvd": "26120002976993",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 838,
     "uikTvd": "4614022372497",
+    "uikName": "УИК №838",
     "tikTvd": "26120002976993",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 839,
     "uikTvd": "4614022372498",
+    "uikName": "УИК №839",
     "tikTvd": "26120002976993",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 840,
     "uikTvd": "4614022372499",
+    "uikName": "УИК №840",
     "tikTvd": "26120002976993",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 841,
     "uikTvd": "4614022372500",
+    "uikName": "УИК №841",
     "tikTvd": "26120002976993",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 842,
     "uikTvd": "4614022372501",
+    "uikName": "УИК №842",
     "tikTvd": "26120002976993",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 843,
     "uikTvd": "4614022372502",
+    "uikName": "УИК №843",
     "tikTvd": "26120002976993",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 844,
     "uikTvd": "4614022372503",
+    "uikName": "УИК №844",
     "tikTvd": "26120002976993",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 845,
     "uikTvd": "4614022372504",
+    "uikName": "УИК №845",
     "tikTvd": "26120002976993",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 846,
     "uikTvd": "4614022372505",
+    "uikName": "УИК №846",
     "tikTvd": "26120002976993",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 847,
     "uikTvd": "4614022372506",
+    "uikName": "УИК №847",
     "tikTvd": "26120002976993",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 848,
     "uikTvd": "4614022372507",
+    "uikName": "УИК №848",
     "tikTvd": "26120002976993",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 849,
     "uikTvd": "4614022372508",
+    "uikName": "УИК №849",
     "tikTvd": "26120002976993",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 850,
     "uikTvd": "4614022372509",
+    "uikName": "УИК №850",
     "tikTvd": "26120002976993",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 851,
     "uikTvd": "4614022372510",
+    "uikName": "УИК №851",
     "tikTvd": "26120002976993",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 852,
     "uikTvd": "4614022372511",
+    "uikName": "УИК №852",
     "tikTvd": "26120002976993",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 853,
     "uikTvd": "4614022372512",
+    "uikName": "УИК №853",
     "tikTvd": "26120002976993",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 854,
     "uikTvd": "4614022372513",
+    "uikName": "УИК №854",
     "tikTvd": "26120002976993",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 855,
     "uikTvd": "4614022372514",
+    "uikName": "УИК №855",
     "tikTvd": "26120002976993",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 856,
     "uikTvd": "4614022372515",
+    "uikName": "УИК №856",
     "tikTvd": "26120002976993",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 857,
     "uikTvd": "4614022372516",
+    "uikName": "УИК №857",
     "tikTvd": "26120002976993",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 858,
     "uikTvd": "4614022372517",
+    "uikName": "УИК №858",
     "tikTvd": "26120002976993",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 859,
     "uikTvd": "4614022372518",
+    "uikName": "УИК №859",
     "tikTvd": "26120002976993",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 860,
     "uikTvd": "4614022372519",
+    "uikName": "УИК №860",
     "tikTvd": "26120002976993",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 861,
     "uikTvd": "4614022372520",
+    "uikName": "УИК №861",
     "tikTvd": "26120002976993",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 862,
     "uikTvd": "4614022372521",
+    "uikName": "УИК №862",
     "tikTvd": "26120002976993",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 863,
     "uikTvd": "4614022372522",
+    "uikName": "УИК №863",
     "tikTvd": "26120002976993",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 865,
     "uikTvd": "4614022372523",
+    "uikName": "УИК №865",
     "tikTvd": "26120002976993",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 866,
     "uikTvd": "4614022372524",
+    "uikName": "УИК №866",
     "tikTvd": "26120002976993",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 867,
     "uikTvd": "4614023696782",
+    "uikName": "УИК №867",
     "tikTvd": "26120002976972",
-    "tikName": "Кашарская"
+    "tikName": "Кашарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 868,
     "uikTvd": "4614023696783",
+    "uikName": "УИК №868",
     "tikTvd": "26120002976972",
-    "tikName": "Кашарская"
+    "tikName": "Кашарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 870,
     "uikTvd": "4614023696784",
+    "uikName": "УИК №870",
     "tikTvd": "26120002976972",
-    "tikName": "Кашарская"
+    "tikName": "Кашарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 871,
     "uikTvd": "4614023696785",
+    "uikName": "УИК №871",
     "tikTvd": "26120002976972",
-    "tikName": "Кашарская"
+    "tikName": "Кашарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 872,
     "uikTvd": "4614023696786",
+    "uikName": "УИК №872",
     "tikTvd": "26120002976972",
-    "tikName": "Кашарская"
+    "tikName": "Кашарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 873,
     "uikTvd": "4614023696787",
+    "uikName": "УИК №873",
     "tikTvd": "26120002976972",
-    "tikName": "Кашарская"
+    "tikName": "Кашарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 875,
     "uikTvd": "4614023696788",
+    "uikName": "УИК №875",
     "tikTvd": "26120002976972",
-    "tikName": "Кашарская"
+    "tikName": "Кашарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 876,
     "uikTvd": "4614023696789",
+    "uikName": "УИК №876",
     "tikTvd": "26120002976972",
-    "tikName": "Кашарская"
+    "tikName": "Кашарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 877,
     "uikTvd": "4614023696790",
+    "uikName": "УИК №877",
     "tikTvd": "26120002976972",
-    "tikName": "Кашарская"
+    "tikName": "Кашарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 878,
     "uikTvd": "4614023696791",
+    "uikName": "УИК №878",
     "tikTvd": "26120002976972",
-    "tikName": "Кашарская"
+    "tikName": "Кашарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 879,
     "uikTvd": "4614023696792",
+    "uikName": "УИК №879",
     "tikTvd": "26120002976972",
-    "tikName": "Кашарская"
+    "tikName": "Кашарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 880,
     "uikTvd": "4614023696793",
+    "uikName": "УИК №880",
     "tikTvd": "26120002976972",
-    "tikName": "Кашарская"
+    "tikName": "Кашарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 881,
     "uikTvd": "4614023696794",
+    "uikName": "УИК №881",
     "tikTvd": "26120002976972",
-    "tikName": "Кашарская"
+    "tikName": "Кашарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 882,
     "uikTvd": "4614023696795",
+    "uikName": "УИК №882",
     "tikTvd": "26120002976972",
-    "tikName": "Кашарская"
+    "tikName": "Кашарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 883,
     "uikTvd": "4614023696796",
+    "uikName": "УИК №883",
     "tikTvd": "26120002976972",
-    "tikName": "Кашарская"
+    "tikName": "Кашарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 885,
     "uikTvd": "4614023696797",
+    "uikName": "УИК №885",
     "tikTvd": "26120002976972",
-    "tikName": "Кашарская"
+    "tikName": "Кашарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 887,
     "uikTvd": "4614023696798",
+    "uikName": "УИК №887",
     "tikTvd": "26120002976972",
-    "tikName": "Кашарская"
+    "tikName": "Кашарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 888,
     "uikTvd": "4614023696799",
+    "uikName": "УИК №888",
     "tikTvd": "26120002976972",
-    "tikName": "Кашарская"
+    "tikName": "Кашарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 889,
     "uikTvd": "4614023696800",
+    "uikName": "УИК №889",
     "tikTvd": "26120002976972",
-    "tikName": "Кашарская"
+    "tikName": "Кашарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 890,
     "uikTvd": "4614023696801",
+    "uikName": "УИК №890",
     "tikTvd": "26120002976972",
-    "tikName": "Кашарская"
+    "tikName": "Кашарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 892,
     "uikTvd": "4614023696802",
+    "uikName": "УИК №892",
     "tikTvd": "26120002976972",
-    "tikName": "Кашарская"
+    "tikName": "Кашарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 893,
     "uikTvd": "4614023696803",
+    "uikName": "УИК №893",
     "tikTvd": "26120002976972",
-    "tikName": "Кашарская"
+    "tikName": "Кашарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 894,
     "uikTvd": "4614023696804",
+    "uikName": "УИК №894",
     "tikTvd": "26120002976972",
-    "tikName": "Кашарская"
+    "tikName": "Кашарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 895,
     "uikTvd": "4614023696805",
+    "uikName": "УИК №895",
     "tikTvd": "26120002976972",
-    "tikName": "Кашарская"
+    "tikName": "Кашарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 896,
     "uikTvd": "4614023696806",
+    "uikName": "УИК №896",
     "tikTvd": "26120002976972",
-    "tikName": "Кашарская"
+    "tikName": "Кашарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 897,
     "uikTvd": "4614023696807",
+    "uikName": "УИК №897",
     "tikTvd": "26120002976972",
-    "tikName": "Кашарская"
+    "tikName": "Кашарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 898,
     "uikTvd": "4614023696808",
+    "uikName": "УИК №898",
     "tikTvd": "26120002976972",
-    "tikName": "Кашарская"
+    "tikName": "Кашарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 899,
     "uikTvd": "4614023696809",
+    "uikName": "УИК №899",
     "tikTvd": "26120002976972",
-    "tikName": "Кашарская"
+    "tikName": "Кашарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 900,
     "uikTvd": "4614023696810",
+    "uikName": "УИК №900",
     "tikTvd": "26120002976972",
-    "tikName": "Кашарская"
+    "tikName": "Кашарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 901,
     "uikTvd": "4614023696811",
+    "uikName": "УИК №901",
     "tikTvd": "26120002976972",
-    "tikName": "Кашарская"
+    "tikName": "Кашарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 902,
     "uikTvd": "4614023696812",
+    "uikName": "УИК №902",
     "tikTvd": "26120002976972",
-    "tikName": "Кашарская"
+    "tikName": "Кашарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 903,
     "uikTvd": "4614023696813",
+    "uikName": "УИК №903",
     "tikTvd": "26120002976972",
-    "tikName": "Кашарская"
+    "tikName": "Кашарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 904,
     "uikTvd": "4614024398327",
+    "uikName": "УИК №904",
     "tikTvd": "26120002976941",
-    "tikName": "Константиновская"
+    "tikName": "Константиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 906,
     "uikTvd": "4614024398328",
+    "uikName": "УИК №906",
     "tikTvd": "26120002976941",
-    "tikName": "Константиновская"
+    "tikName": "Константиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 907,
     "uikTvd": "4614024398329",
+    "uikName": "УИК №907",
     "tikTvd": "26120002976941",
-    "tikName": "Константиновская"
+    "tikName": "Константиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 908,
     "uikTvd": "4614024398330",
+    "uikName": "УИК №908",
     "tikTvd": "26120002976941",
-    "tikName": "Константиновская"
+    "tikName": "Константиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 911,
     "uikTvd": "4614024398331",
+    "uikName": "УИК №911",
     "tikTvd": "26120002976941",
-    "tikName": "Константиновская"
+    "tikName": "Константиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 912,
     "uikTvd": "4614024398332",
+    "uikName": "УИК №912",
     "tikTvd": "26120002976941",
-    "tikName": "Константиновская"
+    "tikName": "Константиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 913,
     "uikTvd": "4614024398333",
+    "uikName": "УИК №913",
     "tikTvd": "26120002976941",
-    "tikName": "Константиновская"
+    "tikName": "Константиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 914,
     "uikTvd": "4614024398334",
+    "uikName": "УИК №914",
     "tikTvd": "26120002976941",
-    "tikName": "Константиновская"
+    "tikName": "Константиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 916,
     "uikTvd": "4614024398335",
+    "uikName": "УИК №916",
     "tikTvd": "26120002976941",
-    "tikName": "Константиновская"
+    "tikName": "Константиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 917,
     "uikTvd": "4614024398336",
+    "uikName": "УИК №917",
     "tikTvd": "26120002976941",
-    "tikName": "Константиновская"
+    "tikName": "Константиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 918,
     "uikTvd": "4614024398337",
+    "uikName": "УИК №918",
     "tikTvd": "26120002976941",
-    "tikName": "Константиновская"
+    "tikName": "Константиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 920,
     "uikTvd": "4614024398338",
+    "uikName": "УИК №920",
     "tikTvd": "26120002976941",
-    "tikName": "Константиновская"
+    "tikName": "Константиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 921,
     "uikTvd": "4614024398339",
+    "uikName": "УИК №921",
     "tikTvd": "26120002976941",
-    "tikName": "Константиновская"
+    "tikName": "Константиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 922,
     "uikTvd": "4614024398340",
+    "uikName": "УИК №922",
     "tikTvd": "26120002976941",
-    "tikName": "Константиновская"
+    "tikName": "Константиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 923,
     "uikTvd": "4614024398341",
+    "uikName": "УИК №923",
     "tikTvd": "26120002976941",
-    "tikName": "Константиновская"
+    "tikName": "Константиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 924,
     "uikTvd": "4614024398342",
+    "uikName": "УИК №924",
     "tikTvd": "26120002976941",
-    "tikName": "Константиновская"
+    "tikName": "Константиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 925,
     "uikTvd": "4614024398343",
+    "uikName": "УИК №925",
     "tikTvd": "26120002976941",
-    "tikName": "Константиновская"
+    "tikName": "Константиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 926,
     "uikTvd": "4614024398344",
+    "uikName": "УИК №926",
     "tikTvd": "26120002976941",
-    "tikName": "Константиновская"
+    "tikName": "Константиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 927,
     "uikTvd": "4614024398345",
+    "uikName": "УИК №927",
     "tikTvd": "26120002976941",
-    "tikName": "Константиновская"
+    "tikName": "Константиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 928,
     "uikTvd": "4614024398346",
+    "uikName": "УИК №928",
     "tikTvd": "26120002976941",
-    "tikName": "Константиновская"
+    "tikName": "Константиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 929,
     "uikTvd": "4614024398347",
+    "uikName": "УИК №929",
     "tikTvd": "26120002976941",
-    "tikName": "Константиновская"
+    "tikName": "Константиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 930,
     "uikTvd": "4614024398348",
+    "uikName": "УИК №930",
     "tikTvd": "26120002976941",
-    "tikName": "Константиновская"
+    "tikName": "Константиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 933,
     "uikTvd": "4614024398349",
+    "uikName": "УИК №933",
     "tikTvd": "26120002976941",
-    "tikName": "Константиновская"
+    "tikName": "Константиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 934,
     "uikTvd": "4614024398350",
+    "uikName": "УИК №934",
     "tikTvd": "26120002976941",
-    "tikName": "Константиновская"
+    "tikName": "Константиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 935,
     "uikTvd": "4614024398351",
+    "uikName": "УИК №935",
     "tikTvd": "26120002976941",
-    "tikName": "Константиновская"
+    "tikName": "Константиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 936,
     "uikTvd": "4614024398352",
+    "uikName": "УИК №936",
     "tikTvd": "26120002976941",
-    "tikName": "Константиновская"
+    "tikName": "Константиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 939,
     "uikTvd": "4614024398353",
+    "uikName": "УИК №939",
     "tikTvd": "26120002976941",
-    "tikName": "Константиновская"
+    "tikName": "Константиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 940,
     "uikTvd": "4614024398354",
+    "uikName": "УИК №940",
     "tikTvd": "26120002976941",
-    "tikName": "Константиновская"
+    "tikName": "Константиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 941,
     "uikTvd": "4614024398355",
+    "uikName": "УИК №941",
     "tikTvd": "26120002976941",
-    "tikName": "Константиновская"
+    "tikName": "Константиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 942,
     "uikTvd": "4614024398356",
+    "uikName": "УИК №942",
     "tikTvd": "26120002976941",
-    "tikName": "Константиновская"
+    "tikName": "Константиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 943,
     "uikTvd": "4614024398357",
+    "uikName": "УИК №943",
     "tikTvd": "26120002976941",
-    "tikName": "Константиновская"
+    "tikName": "Константиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 944,
     "uikTvd": "4614024398358",
+    "uikName": "УИК №944",
     "tikTvd": "26120002976941",
-    "tikName": "Константиновская"
+    "tikName": "Константиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 945,
     "uikTvd": "4614024398359",
+    "uikName": "УИК №945",
     "tikTvd": "26120002976941",
-    "tikName": "Константиновская"
+    "tikName": "Константиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 946,
     "uikTvd": "4614024398360",
+    "uikName": "УИК №946",
     "tikTvd": "26120002976941",
-    "tikName": "Константиновская"
+    "tikName": "Константиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 947,
     "uikTvd": "4614024398361",
+    "uikName": "УИК №947",
     "tikTvd": "26120002976941",
-    "tikName": "Константиновская"
+    "tikName": "Константиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 948,
     "uikTvd": "4614024398362",
+    "uikName": "УИК №948",
     "tikTvd": "26120002976941",
-    "tikName": "Константиновская"
+    "tikName": "Константиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 949,
     "uikTvd": "4614024398363",
+    "uikName": "УИК №949",
     "tikTvd": "26120002976941",
-    "tikName": "Константиновская"
+    "tikName": "Константиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 950,
     "uikTvd": "46140431256810",
+    "uikName": "УИК №950",
     "tikTvd": "26120002976994",
-    "tikName": "Ростов-на-Дону, Ворошиловская"
+    "tikName": "Ростов-на-Дону, Ворошиловская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 951,
     "uikTvd": "4614025486665",
+    "uikName": "УИК №951",
     "tikTvd": "26120002976940",
-    "tikName": "Красносулинская"
+    "tikName": "Красносулинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 952,
     "uikTvd": "4614025486666",
+    "uikName": "УИК №952",
     "tikTvd": "26120002976940",
-    "tikName": "Красносулинская"
+    "tikName": "Красносулинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 953,
     "uikTvd": "4614025486667",
+    "uikName": "УИК №953",
     "tikTvd": "26120002976940",
-    "tikName": "Красносулинская"
+    "tikName": "Красносулинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 954,
     "uikTvd": "4614025486668",
+    "uikName": "УИК №954",
     "tikTvd": "26120002976940",
-    "tikName": "Красносулинская"
+    "tikName": "Красносулинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 955,
     "uikTvd": "4614025486669",
+    "uikName": "УИК №955",
     "tikTvd": "26120002976940",
-    "tikName": "Красносулинская"
+    "tikName": "Красносулинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 956,
     "uikTvd": "4614025486670",
+    "uikName": "УИК №956",
     "tikTvd": "26120002976940",
-    "tikName": "Красносулинская"
+    "tikName": "Красносулинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 957,
     "uikTvd": "4614025486671",
+    "uikName": "УИК №957",
     "tikTvd": "26120002976940",
-    "tikName": "Красносулинская"
+    "tikName": "Красносулинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 958,
     "uikTvd": "4614025486672",
+    "uikName": "УИК №958",
     "tikTvd": "26120002976940",
-    "tikName": "Красносулинская"
+    "tikName": "Красносулинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 959,
     "uikTvd": "4614025486673",
+    "uikName": "УИК №959",
     "tikTvd": "26120002976940",
-    "tikName": "Красносулинская"
+    "tikName": "Красносулинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 960,
     "uikTvd": "4614025486674",
+    "uikName": "УИК №960",
     "tikTvd": "26120002976940",
-    "tikName": "Красносулинская"
+    "tikName": "Красносулинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 961,
     "uikTvd": "4614025486675",
+    "uikName": "УИК №961",
     "tikTvd": "26120002976940",
-    "tikName": "Красносулинская"
+    "tikName": "Красносулинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 962,
     "uikTvd": "4614025486676",
+    "uikName": "УИК №962",
     "tikTvd": "26120002976940",
-    "tikName": "Красносулинская"
+    "tikName": "Красносулинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 963,
     "uikTvd": "4614025486677",
+    "uikName": "УИК №963",
     "tikTvd": "26120002976940",
-    "tikName": "Красносулинская"
+    "tikName": "Красносулинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 964,
     "uikTvd": "4614025486678",
+    "uikName": "УИК №964",
     "tikTvd": "26120002976940",
-    "tikName": "Красносулинская"
+    "tikName": "Красносулинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 965,
     "uikTvd": "4614025486679",
+    "uikName": "УИК №965",
     "tikTvd": "26120002976940",
-    "tikName": "Красносулинская"
+    "tikName": "Красносулинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 966,
     "uikTvd": "4614025486680",
+    "uikName": "УИК №966",
     "tikTvd": "26120002976940",
-    "tikName": "Красносулинская"
+    "tikName": "Красносулинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 967,
     "uikTvd": "4614025486681",
+    "uikName": "УИК №967",
     "tikTvd": "26120002976940",
-    "tikName": "Красносулинская"
+    "tikName": "Красносулинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 968,
     "uikTvd": "4614025486682",
+    "uikName": "УИК №968",
     "tikTvd": "26120002976940",
-    "tikName": "Красносулинская"
+    "tikName": "Красносулинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 969,
     "uikTvd": "4614025486683",
+    "uikName": "УИК №969",
     "tikTvd": "26120002976940",
-    "tikName": "Красносулинская"
+    "tikName": "Красносулинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 970,
     "uikTvd": "4614025486684",
+    "uikName": "УИК №970",
     "tikTvd": "26120002976940",
-    "tikName": "Красносулинская"
+    "tikName": "Красносулинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 971,
     "uikTvd": "4614025486685",
+    "uikName": "УИК №971",
     "tikTvd": "26120002976940",
-    "tikName": "Красносулинская"
+    "tikName": "Красносулинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 972,
     "uikTvd": "4614025486686",
+    "uikName": "УИК №972",
     "tikTvd": "26120002976940",
-    "tikName": "Красносулинская"
+    "tikName": "Красносулинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 973,
     "uikTvd": "4614025486687",
+    "uikName": "УИК №973",
     "tikTvd": "26120002976940",
-    "tikName": "Красносулинская"
+    "tikName": "Красносулинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 974,
     "uikTvd": "4614025486688",
+    "uikName": "УИК №974",
     "tikTvd": "26120002976940",
-    "tikName": "Красносулинская"
+    "tikName": "Красносулинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 975,
     "uikTvd": "4614025486689",
+    "uikName": "УИК №975",
     "tikTvd": "26120002976940",
-    "tikName": "Красносулинская"
+    "tikName": "Красносулинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 976,
     "uikTvd": "4614025486690",
+    "uikName": "УИК №976",
     "tikTvd": "26120002976940",
-    "tikName": "Красносулинская"
+    "tikName": "Красносулинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 977,
     "uikTvd": "4614025486691",
+    "uikName": "УИК №977",
     "tikTvd": "26120002976940",
-    "tikName": "Красносулинская"
+    "tikName": "Красносулинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 978,
     "uikTvd": "4614025486692",
+    "uikName": "УИК №978",
     "tikTvd": "26120002976940",
-    "tikName": "Красносулинская"
+    "tikName": "Красносулинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 979,
     "uikTvd": "4614025486693",
+    "uikName": "УИК №979",
     "tikTvd": "26120002976940",
-    "tikName": "Красносулинская"
+    "tikName": "Красносулинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 980,
     "uikTvd": "4614025486694",
+    "uikName": "УИК №980",
     "tikTvd": "26120002976940",
-    "tikName": "Красносулинская"
+    "tikName": "Красносулинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 981,
     "uikTvd": "4614025486695",
+    "uikName": "УИК №981",
     "tikTvd": "26120002976940",
-    "tikName": "Красносулинская"
+    "tikName": "Красносулинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 982,
     "uikTvd": "4614025486696",
+    "uikName": "УИК №982",
     "tikTvd": "26120002976940",
-    "tikName": "Красносулинская"
+    "tikName": "Красносулинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 983,
     "uikTvd": "4614025486697",
+    "uikName": "УИК №983",
     "tikTvd": "26120002976940",
-    "tikName": "Красносулинская"
+    "tikName": "Красносулинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 984,
     "uikTvd": "4614025486698",
+    "uikName": "УИК №984",
     "tikTvd": "26120002976940",
-    "tikName": "Красносулинская"
+    "tikName": "Красносулинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 985,
     "uikTvd": "4614025486699",
+    "uikName": "УИК №985",
     "tikTvd": "26120002976940",
-    "tikName": "Красносулинская"
+    "tikName": "Красносулинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 986,
     "uikTvd": "4614025486700",
+    "uikName": "УИК №986",
     "tikTvd": "26120002976940",
-    "tikName": "Красносулинская"
+    "tikName": "Красносулинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 987,
     "uikTvd": "4614025486701",
+    "uikName": "УИК №987",
     "tikTvd": "26120002976940",
-    "tikName": "Красносулинская"
+    "tikName": "Красносулинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 988,
     "uikTvd": "4614025486702",
+    "uikName": "УИК №988",
     "tikTvd": "26120002976940",
-    "tikName": "Красносулинская"
+    "tikName": "Красносулинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 989,
     "uikTvd": "4614025486703",
+    "uikName": "УИК №989",
     "tikTvd": "26120002976940",
-    "tikName": "Красносулинская"
+    "tikName": "Красносулинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 990,
     "uikTvd": "4614025486704",
+    "uikName": "УИК №990",
     "tikTvd": "26120002976940",
-    "tikName": "Красносулинская"
+    "tikName": "Красносулинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 991,
     "uikTvd": "4614025486705",
+    "uikName": "УИК №991",
     "tikTvd": "26120002976940",
-    "tikName": "Красносулинская"
+    "tikName": "Красносулинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 992,
     "uikTvd": "4614025486706",
+    "uikName": "УИК №992",
     "tikTvd": "26120002976940",
-    "tikName": "Красносулинская"
+    "tikName": "Красносулинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 993,
     "uikTvd": "4614025486707",
+    "uikName": "УИК №993",
     "tikTvd": "26120002976940",
-    "tikName": "Красносулинская"
+    "tikName": "Красносулинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 994,
     "uikTvd": "4614025486708",
+    "uikName": "УИК №994",
     "tikTvd": "26120002976940",
-    "tikName": "Красносулинская"
+    "tikName": "Красносулинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 995,
     "uikTvd": "4614025486709",
+    "uikName": "УИК №995",
     "tikTvd": "26120002976940",
-    "tikName": "Красносулинская"
+    "tikName": "Красносулинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 996,
     "uikTvd": "4614002539751",
+    "uikName": "УИК №996",
     "tikTvd": "26120002976975",
-    "tikName": "Азовская"
+    "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 997,
     "uikTvd": "4614025486710",
+    "uikName": "УИК №997",
     "tikTvd": "26120002976940",
-    "tikName": "Красносулинская"
+    "tikName": "Красносулинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 998,
     "uikTvd": "4614025486711",
+    "uikName": "УИК №998",
     "tikTvd": "26120002976940",
-    "tikName": "Красносулинская"
+    "tikName": "Красносулинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 999,
     "uikTvd": "4614025486712",
+    "uikName": "УИК №999",
     "tikTvd": "26120002976940",
-    "tikName": "Красносулинская"
+    "tikName": "Красносулинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1000,
     "uikTvd": "4614025486713",
+    "uikName": "УИК №1000",
     "tikTvd": "26120002976940",
-    "tikName": "Красносулинская"
+    "tikName": "Красносулинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1001,
     "uikTvd": "4614025486714",
+    "uikName": "УИК №1001",
     "tikTvd": "26120002976940",
-    "tikName": "Красносулинская"
+    "tikName": "Красносулинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1002,
     "uikTvd": "4614025486715",
+    "uikName": "УИК №1002",
     "tikTvd": "26120002976940",
-    "tikName": "Красносулинская"
+    "tikName": "Красносулинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1003,
     "uikTvd": "4614025486716",
+    "uikName": "УИК №1003",
     "tikTvd": "26120002976940",
-    "tikName": "Красносулинская"
+    "tikName": "Красносулинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1004,
     "uikTvd": "4614025486717",
+    "uikName": "УИК №1004",
     "tikTvd": "26120002976940",
-    "tikName": "Красносулинская"
+    "tikName": "Красносулинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1005,
     "uikTvd": "4614025486718",
+    "uikName": "УИК №1005",
     "tikTvd": "26120002976940",
-    "tikName": "Красносулинская"
+    "tikName": "Красносулинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1006,
     "uikTvd": "4614025486719",
+    "uikName": "УИК №1006",
     "tikTvd": "26120002976940",
-    "tikName": "Красносулинская"
+    "tikName": "Красносулинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1007,
     "uikTvd": "4614025486720",
+    "uikName": "УИК №1007",
     "tikTvd": "26120002976940",
-    "tikName": "Красносулинская"
+    "tikName": "Красносулинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1008,
     "uikTvd": "4614025486721",
+    "uikName": "УИК №1008",
     "tikTvd": "26120002976940",
-    "tikName": "Красносулинская"
+    "tikName": "Красносулинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1009,
     "uikTvd": "4614025486722",
+    "uikName": "УИК №1009",
     "tikTvd": "26120002976940",
-    "tikName": "Красносулинская"
+    "tikName": "Красносулинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1010,
     "uikTvd": "4614025486723",
+    "uikName": "УИК №1010",
     "tikTvd": "26120002976940",
-    "tikName": "Красносулинская"
+    "tikName": "Красносулинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1011,
     "uikTvd": "4614025486724",
+    "uikName": "УИК №1011",
     "tikTvd": "26120002976940",
-    "tikName": "Красносулинская"
+    "tikName": "Красносулинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1012,
     "uikTvd": "4614025486725",
+    "uikName": "УИК №1012",
     "tikTvd": "26120002976940",
-    "tikName": "Красносулинская"
+    "tikName": "Красносулинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1013,
     "uikTvd": "4614025486726",
+    "uikName": "УИК №1013",
     "tikTvd": "26120002976940",
-    "tikName": "Красносулинская"
+    "tikName": "Красносулинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1014,
     "uikTvd": "4614025486727",
+    "uikName": "УИК №1014",
     "tikTvd": "26120002976940",
-    "tikName": "Красносулинская"
+    "tikName": "Красносулинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1015,
     "uikTvd": "4614025486728",
+    "uikName": "УИК №1015",
     "tikTvd": "26120002976940",
-    "tikName": "Красносулинская"
+    "tikName": "Красносулинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1016,
     "uikTvd": "4614025486729",
+    "uikName": "УИК №1016",
     "tikTvd": "26120002976940",
-    "tikName": "Красносулинская"
+    "tikName": "Красносулинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1018,
     "uikTvd": "4614026269895",
+    "uikName": "УИК №1018",
     "tikTvd": "26120002976963",
-    "tikName": "Куйбышевская"
+    "tikName": "Куйбышевская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1019,
     "uikTvd": "4614026269896",
+    "uikName": "УИК №1019",
     "tikTvd": "26120002976963",
-    "tikName": "Куйбышевская"
+    "tikName": "Куйбышевская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1020,
     "uikTvd": "4614026269897",
+    "uikName": "УИК №1020",
     "tikTvd": "26120002976963",
-    "tikName": "Куйбышевская"
+    "tikName": "Куйбышевская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1021,
     "uikTvd": "4614026269898",
+    "uikName": "УИК №1021",
     "tikTvd": "26120002976963",
-    "tikName": "Куйбышевская"
+    "tikName": "Куйбышевская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1022,
     "uikTvd": "4614026269899",
+    "uikName": "УИК №1022",
     "tikTvd": "26120002976963",
-    "tikName": "Куйбышевская"
+    "tikName": "Куйбышевская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1023,
     "uikTvd": "4614026269900",
+    "uikName": "УИК №1023",
     "tikTvd": "26120002976963",
-    "tikName": "Куйбышевская"
+    "tikName": "Куйбышевская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1024,
     "uikTvd": "4614026269901",
+    "uikName": "УИК №1024",
     "tikTvd": "26120002976963",
-    "tikName": "Куйбышевская"
+    "tikName": "Куйбышевская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1025,
     "uikTvd": "4614026269902",
+    "uikName": "УИК №1025",
     "tikTvd": "26120002976963",
-    "tikName": "Куйбышевская"
+    "tikName": "Куйбышевская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1026,
     "uikTvd": "4614026269903",
+    "uikName": "УИК №1026",
     "tikTvd": "26120002976963",
-    "tikName": "Куйбышевская"
+    "tikName": "Куйбышевская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1027,
     "uikTvd": "4614047492116",
+    "uikName": "УИК №1027",
     "tikTvd": "26120002976990",
-    "tikName": "Ростов-на-Дону, Октябрьская"
+    "tikName": "Ростов-на-Дону, Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1028,
     "uikTvd": "4614025486730",
+    "uikName": "УИК №1028",
     "tikTvd": "26120002976940",
-    "tikName": "Красносулинская"
+    "tikName": "Красносулинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1029,
     "uikTvd": "4614026269904",
+    "uikName": "УИК №1029",
     "tikTvd": "26120002976963",
-    "tikName": "Куйбышевская"
+    "tikName": "Куйбышевская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1030,
     "uikTvd": "4614026269905",
+    "uikName": "УИК №1030",
     "tikTvd": "26120002976963",
-    "tikName": "Куйбышевская"
+    "tikName": "Куйбышевская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1031,
     "uikTvd": "4614047492117",
+    "uikName": "УИК №1031",
     "tikTvd": "26120002976990",
-    "tikName": "Ростов-на-Дону, Октябрьская"
+    "tikName": "Ростов-на-Дону, Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1032,
     "uikTvd": "4614026269906",
+    "uikName": "УИК №1032",
     "tikTvd": "26120002976963",
-    "tikName": "Куйбышевская"
+    "tikName": "Куйбышевская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1033,
     "uikTvd": "4614026269907",
+    "uikName": "УИК №1033",
     "tikTvd": "26120002976963",
-    "tikName": "Куйбышевская"
+    "tikName": "Куйбышевская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1034,
     "uikTvd": "4614026269908",
+    "uikName": "УИК №1034",
     "tikTvd": "26120002976963",
-    "tikName": "Куйбышевская"
+    "tikName": "Куйбышевская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1035,
     "uikTvd": "4614026269909",
+    "uikName": "УИК №1035",
     "tikTvd": "26120002976963",
-    "tikName": "Куйбышевская"
+    "tikName": "Куйбышевская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1036,
     "uikTvd": "4614026269910",
+    "uikName": "УИК №1036",
     "tikTvd": "26120002976963",
-    "tikName": "Куйбышевская"
+    "tikName": "Куйбышевская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1037,
     "uikTvd": "4614026269911",
+    "uikName": "УИК №1037",
     "tikTvd": "26120002976963",
-    "tikName": "Куйбышевская"
+    "tikName": "Куйбышевская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1038,
     "uikTvd": "4614026269912",
+    "uikName": "УИК №1038",
     "tikTvd": "26120002976963",
-    "tikName": "Куйбышевская"
+    "tikName": "Куйбышевская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1039,
     "uikTvd": "4614047492118",
+    "uikName": "УИК №1039",
     "tikTvd": "26120002976990",
-    "tikName": "Ростов-на-Дону, Октябрьская"
+    "tikName": "Ростов-на-Дону, Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1040,
     "uikTvd": "4614026269913",
+    "uikName": "УИК №1040",
     "tikTvd": "26120002976963",
-    "tikName": "Куйбышевская"
+    "tikName": "Куйбышевская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1041,
     "uikTvd": "4614027366071",
+    "uikName": "УИК №1041",
     "tikTvd": "26120002976960",
-    "tikName": "Мартыновская"
+    "tikName": "Мартыновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1042,
     "uikTvd": "4614027366072",
+    "uikName": "УИК №1042",
     "tikTvd": "26120002976960",
-    "tikName": "Мартыновская"
+    "tikName": "Мартыновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1043,
     "uikTvd": "4614027366073",
+    "uikName": "УИК №1043",
     "tikTvd": "26120002976960",
-    "tikName": "Мартыновская"
+    "tikName": "Мартыновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1044,
     "uikTvd": "4614027366074",
+    "uikName": "УИК №1044",
     "tikTvd": "26120002976960",
-    "tikName": "Мартыновская"
+    "tikName": "Мартыновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1045,
     "uikTvd": "4614027366075",
+    "uikName": "УИК №1045",
     "tikTvd": "26120002976960",
-    "tikName": "Мартыновская"
+    "tikName": "Мартыновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1046,
     "uikTvd": "4614027366076",
+    "uikName": "УИК №1046",
     "tikTvd": "26120002976960",
-    "tikName": "Мартыновская"
+    "tikName": "Мартыновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1047,
     "uikTvd": "4614027366077",
+    "uikName": "УИК №1047",
     "tikTvd": "26120002976960",
-    "tikName": "Мартыновская"
+    "tikName": "Мартыновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1048,
     "uikTvd": "4614027366078",
+    "uikName": "УИК №1048",
     "tikTvd": "26120002976960",
-    "tikName": "Мартыновская"
+    "tikName": "Мартыновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1049,
     "uikTvd": "4614027366079",
+    "uikName": "УИК №1049",
     "tikTvd": "26120002976960",
-    "tikName": "Мартыновская"
+    "tikName": "Мартыновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1050,
     "uikTvd": "4614027366080",
+    "uikName": "УИК №1050",
     "tikTvd": "26120002976960",
-    "tikName": "Мартыновская"
+    "tikName": "Мартыновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1051,
     "uikTvd": "4614027366081",
+    "uikName": "УИК №1051",
     "tikTvd": "26120002976960",
-    "tikName": "Мартыновская"
+    "tikName": "Мартыновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1052,
     "uikTvd": "4614027366082",
+    "uikName": "УИК №1052",
     "tikTvd": "26120002976960",
-    "tikName": "Мартыновская"
+    "tikName": "Мартыновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1053,
     "uikTvd": "4614027366083",
+    "uikName": "УИК №1053",
     "tikTvd": "26120002976960",
-    "tikName": "Мартыновская"
+    "tikName": "Мартыновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1054,
     "uikTvd": "4614027366084",
+    "uikName": "УИК №1054",
     "tikTvd": "26120002976960",
-    "tikName": "Мартыновская"
+    "tikName": "Мартыновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1055,
     "uikTvd": "4614027366085",
+    "uikName": "УИК №1055",
     "tikTvd": "26120002976960",
-    "tikName": "Мартыновская"
+    "tikName": "Мартыновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1056,
     "uikTvd": "4614027366086",
+    "uikName": "УИК №1056",
     "tikTvd": "26120002976960",
-    "tikName": "Мартыновская"
+    "tikName": "Мартыновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1057,
     "uikTvd": "4614027366087",
+    "uikName": "УИК №1057",
     "tikTvd": "26120002976960",
-    "tikName": "Мартыновская"
+    "tikName": "Мартыновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1058,
     "uikTvd": "4614027366088",
+    "uikName": "УИК №1058",
     "tikTvd": "26120002976960",
-    "tikName": "Мартыновская"
+    "tikName": "Мартыновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1059,
     "uikTvd": "4614027366089",
+    "uikName": "УИК №1059",
     "tikTvd": "26120002976960",
-    "tikName": "Мартыновская"
+    "tikName": "Мартыновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1060,
     "uikTvd": "4614027366090",
+    "uikName": "УИК №1060",
     "tikTvd": "26120002976960",
-    "tikName": "Мартыновская"
+    "tikName": "Мартыновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1061,
     "uikTvd": "4614027366091",
+    "uikName": "УИК №1061",
     "tikTvd": "26120002976960",
-    "tikName": "Мартыновская"
+    "tikName": "Мартыновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1062,
     "uikTvd": "4614027366092",
+    "uikName": "УИК №1062",
     "tikTvd": "26120002976960",
-    "tikName": "Мартыновская"
+    "tikName": "Мартыновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1063,
     "uikTvd": "4614027366093",
+    "uikName": "УИК №1063",
     "tikTvd": "26120002976960",
-    "tikName": "Мартыновская"
+    "tikName": "Мартыновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1064,
     "uikTvd": "4614027366094",
+    "uikName": "УИК №1064",
     "tikTvd": "26120002976960",
-    "tikName": "Мартыновская"
+    "tikName": "Мартыновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1065,
     "uikTvd": "4614027366095",
+    "uikName": "УИК №1065",
     "tikTvd": "26120002976960",
-    "tikName": "Мартыновская"
+    "tikName": "Мартыновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1066,
     "uikTvd": "4614027366096",
+    "uikName": "УИК №1066",
     "tikTvd": "26120002976960",
-    "tikName": "Мартыновская"
+    "tikName": "Мартыновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1067,
     "uikTvd": "4614027366097",
+    "uikName": "УИК №1067",
     "tikTvd": "26120002976960",
-    "tikName": "Мартыновская"
+    "tikName": "Мартыновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1068,
     "uikTvd": "4614027366098",
+    "uikName": "УИК №1068",
     "tikTvd": "26120002976960",
-    "tikName": "Мартыновская"
+    "tikName": "Мартыновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1069,
     "uikTvd": "4614027366099",
+    "uikName": "УИК №1069",
     "tikTvd": "26120002976960",
-    "tikName": "Мартыновская"
+    "tikName": "Мартыновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1070,
     "uikTvd": "4614027366100",
+    "uikName": "УИК №1070",
     "tikTvd": "26120002976960",
-    "tikName": "Мартыновская"
+    "tikName": "Мартыновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1071,
     "uikTvd": "4614027366101",
+    "uikName": "УИК №1071",
     "tikTvd": "26120002976960",
-    "tikName": "Мартыновская"
+    "tikName": "Мартыновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1072,
     "uikTvd": "4614027366102",
+    "uikName": "УИК №1072",
     "tikTvd": "26120002976960",
-    "tikName": "Мартыновская"
+    "tikName": "Мартыновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1073,
     "uikTvd": "4614027366103",
+    "uikName": "УИК №1073",
     "tikTvd": "26120002976960",
-    "tikName": "Мартыновская"
+    "tikName": "Мартыновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1074,
     "uikTvd": "4614027366104",
+    "uikName": "УИК №1074",
     "tikTvd": "26120002976960",
-    "tikName": "Мартыновская"
+    "tikName": "Мартыновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1075,
     "uikTvd": "4614027366105",
+    "uikName": "УИК №1075",
     "tikTvd": "26120002976960",
-    "tikName": "Мартыновская"
+    "tikName": "Мартыновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1076,
     "uikTvd": "4614027366106",
+    "uikName": "УИК №1076",
     "tikTvd": "26120002976960",
-    "tikName": "Мартыновская"
+    "tikName": "Мартыновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1077,
     "uikTvd": "4614027366107",
+    "uikName": "УИК №1077",
     "tikTvd": "26120002976960",
-    "tikName": "Мартыновская"
+    "tikName": "Мартыновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1078,
     "uikTvd": "4614027366108",
+    "uikName": "УИК №1078",
     "tikTvd": "26120002976960",
-    "tikName": "Мартыновская"
+    "tikName": "Мартыновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1079,
     "uikTvd": "4614027366109",
+    "uikName": "УИК №1079",
     "tikTvd": "26120002976960",
-    "tikName": "Мартыновская"
+    "tikName": "Мартыновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1080,
     "uikTvd": "4614027366110",
+    "uikName": "УИК №1080",
     "tikTvd": "26120002976960",
-    "tikName": "Мартыновская"
+    "tikName": "Мартыновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1081,
     "uikTvd": "4614028308631",
+    "uikName": "УИК №1081",
     "tikTvd": "26120002976937",
-    "tikName": "Матвеево-Курганская"
+    "tikName": "Матвеево-Курганская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1082,
     "uikTvd": "4614028308632",
+    "uikName": "УИК №1082",
     "tikTvd": "26120002976937",
-    "tikName": "Матвеево-Курганская"
+    "tikName": "Матвеево-Курганская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1083,
     "uikTvd": "4614028308633",
+    "uikName": "УИК №1083",
     "tikTvd": "26120002976937",
-    "tikName": "Матвеево-Курганская"
+    "tikName": "Матвеево-Курганская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1084,
     "uikTvd": "4614028308634",
+    "uikName": "УИК №1084",
     "tikTvd": "26120002976937",
-    "tikName": "Матвеево-Курганская"
+    "tikName": "Матвеево-Курганская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1085,
     "uikTvd": "4614028308635",
+    "uikName": "УИК №1085",
     "tikTvd": "26120002976937",
-    "tikName": "Матвеево-Курганская"
+    "tikName": "Матвеево-Курганская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1086,
     "uikTvd": "4614028308636",
+    "uikName": "УИК №1086",
     "tikTvd": "26120002976937",
-    "tikName": "Матвеево-Курганская"
+    "tikName": "Матвеево-Курганская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1087,
     "uikTvd": "4614028308637",
+    "uikName": "УИК №1087",
     "tikTvd": "26120002976937",
-    "tikName": "Матвеево-Курганская"
+    "tikName": "Матвеево-Курганская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1088,
     "uikTvd": "4614028308638",
+    "uikName": "УИК №1088",
     "tikTvd": "26120002976937",
-    "tikName": "Матвеево-Курганская"
+    "tikName": "Матвеево-Курганская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1089,
     "uikTvd": "4614028308639",
+    "uikName": "УИК №1089",
     "tikTvd": "26120002976937",
-    "tikName": "Матвеево-Курганская"
+    "tikName": "Матвеево-Курганская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1090,
     "uikTvd": "4614028308640",
+    "uikName": "УИК №1090",
     "tikTvd": "26120002976937",
-    "tikName": "Матвеево-Курганская"
+    "tikName": "Матвеево-Курганская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1091,
     "uikTvd": "4614028308641",
+    "uikName": "УИК №1091",
     "tikTvd": "26120002976937",
-    "tikName": "Матвеево-Курганская"
+    "tikName": "Матвеево-Курганская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1092,
     "uikTvd": "4614028308642",
+    "uikName": "УИК №1092",
     "tikTvd": "26120002976937",
-    "tikName": "Матвеево-Курганская"
+    "tikName": "Матвеево-Курганская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1093,
     "uikTvd": "4614028308643",
+    "uikName": "УИК №1093",
     "tikTvd": "26120002976937",
-    "tikName": "Матвеево-Курганская"
+    "tikName": "Матвеево-Курганская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1094,
     "uikTvd": "4614028308644",
+    "uikName": "УИК №1094",
     "tikTvd": "26120002976937",
-    "tikName": "Матвеево-Курганская"
+    "tikName": "Матвеево-Курганская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1095,
     "uikTvd": "4614028308645",
+    "uikName": "УИК №1095",
     "tikTvd": "26120002976937",
-    "tikName": "Матвеево-Курганская"
+    "tikName": "Матвеево-Курганская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1096,
     "uikTvd": "4614028308646",
+    "uikName": "УИК №1096",
     "tikTvd": "26120002976937",
-    "tikName": "Матвеево-Курганская"
+    "tikName": "Матвеево-Курганская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1097,
     "uikTvd": "4614050493214",
+    "uikName": "УИК №1097",
     "tikTvd": "26120002976978",
-    "tikName": "Ростов-на-Дону, Советская"
+    "tikName": "Ростов-на-Дону, Советская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1098,
     "uikTvd": "4614028308647",
+    "uikName": "УИК №1098",
     "tikTvd": "26120002976937",
-    "tikName": "Матвеево-Курганская"
+    "tikName": "Матвеево-Курганская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1099,
     "uikTvd": "4614028308648",
+    "uikName": "УИК №1099",
     "tikTvd": "26120002976937",
-    "tikName": "Матвеево-Курганская"
+    "tikName": "Матвеево-Курганская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1100,
     "uikTvd": "4614028308649",
+    "uikName": "УИК №1100",
     "tikTvd": "26120002976937",
-    "tikName": "Матвеево-Курганская"
+    "tikName": "Матвеево-Курганская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1101,
     "uikTvd": "4614028308650",
+    "uikName": "УИК №1101",
     "tikTvd": "26120002976937",
-    "tikName": "Матвеево-Курганская"
+    "tikName": "Матвеево-Курганская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1102,
     "uikTvd": "4614028308651",
+    "uikName": "УИК №1102",
     "tikTvd": "26120002976937",
-    "tikName": "Матвеево-Курганская"
+    "tikName": "Матвеево-Курганская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1103,
     "uikTvd": "4614028308652",
+    "uikName": "УИК №1103",
     "tikTvd": "26120002976937",
-    "tikName": "Матвеево-Курганская"
+    "tikName": "Матвеево-Курганская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1104,
     "uikTvd": "4614028308653",
+    "uikName": "УИК №1104",
     "tikTvd": "26120002976937",
-    "tikName": "Матвеево-Курганская"
+    "tikName": "Матвеево-Курганская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1105,
     "uikTvd": "4614028308654",
+    "uikName": "УИК №1105",
     "tikTvd": "26120002976937",
-    "tikName": "Матвеево-Курганская"
+    "tikName": "Матвеево-Курганская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1106,
     "uikTvd": "4614028308655",
+    "uikName": "УИК №1106",
     "tikTvd": "26120002976937",
-    "tikName": "Матвеево-Курганская"
+    "tikName": "Матвеево-Курганская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1107,
     "uikTvd": "4614028308656",
+    "uikName": "УИК №1107",
     "tikTvd": "26120002976937",
-    "tikName": "Матвеево-Курганская"
+    "tikName": "Матвеево-Курганская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1108,
     "uikTvd": "4614028308657",
+    "uikName": "УИК №1108",
     "tikTvd": "26120002976937",
-    "tikName": "Матвеево-Курганская"
+    "tikName": "Матвеево-Курганская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1109,
     "uikTvd": "4614028308658",
+    "uikName": "УИК №1109",
     "tikTvd": "26120002976937",
-    "tikName": "Матвеево-Курганская"
+    "tikName": "Матвеево-Курганская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1110,
     "uikTvd": "4614028308659",
+    "uikName": "УИК №1110",
     "tikTvd": "26120002976937",
-    "tikName": "Матвеево-Курганская"
+    "tikName": "Матвеево-Курганская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1111,
     "uikTvd": "4614028308660",
+    "uikName": "УИК №1111",
     "tikTvd": "26120002976937",
-    "tikName": "Матвеево-Курганская"
+    "tikName": "Матвеево-Курганская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1112,
     "uikTvd": "4614028308661",
+    "uikName": "УИК №1112",
     "tikTvd": "26120002976937",
-    "tikName": "Матвеево-Курганская"
+    "tikName": "Матвеево-Курганская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1113,
     "uikTvd": "4614028308662",
+    "uikName": "УИК №1113",
     "tikTvd": "26120002976937",
-    "tikName": "Матвеево-Курганская"
+    "tikName": "Матвеево-Курганская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1114,
     "uikTvd": "4614028308663",
+    "uikName": "УИК №1114",
     "tikTvd": "26120002976937",
-    "tikName": "Матвеево-Курганская"
+    "tikName": "Матвеево-Курганская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1115,
     "uikTvd": "4614028308664",
+    "uikName": "УИК №1115",
     "tikTvd": "26120002976937",
-    "tikName": "Матвеево-Курганская"
+    "tikName": "Матвеево-Курганская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1116,
     "uikTvd": "4614028308665",
+    "uikName": "УИК №1116",
     "tikTvd": "26120002976937",
-    "tikName": "Матвеево-Курганская"
+    "tikName": "Матвеево-Курганская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1117,
     "uikTvd": "4614029528599",
+    "uikName": "УИК №1117",
     "tikTvd": "26120002976958",
-    "tikName": "Миллеровская"
+    "tikName": "Миллеровская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1118,
     "uikTvd": "4614029528600",
+    "uikName": "УИК №1118",
     "tikTvd": "26120002976958",
-    "tikName": "Миллеровская"
+    "tikName": "Миллеровская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1119,
     "uikTvd": "4614029528601",
+    "uikName": "УИК №1119",
     "tikTvd": "26120002976958",
-    "tikName": "Миллеровская"
+    "tikName": "Миллеровская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1120,
     "uikTvd": "4614029528602",
+    "uikName": "УИК №1120",
     "tikTvd": "26120002976958",
-    "tikName": "Миллеровская"
+    "tikName": "Миллеровская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1121,
     "uikTvd": "4614029528603",
+    "uikName": "УИК №1121",
     "tikTvd": "26120002976958",
-    "tikName": "Миллеровская"
+    "tikName": "Миллеровская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1122,
     "uikTvd": "4614029528604",
+    "uikName": "УИК №1122",
     "tikTvd": "26120002976958",
-    "tikName": "Миллеровская"
+    "tikName": "Миллеровская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1123,
     "uikTvd": "4614029528605",
+    "uikName": "УИК №1123",
     "tikTvd": "26120002976958",
-    "tikName": "Миллеровская"
+    "tikName": "Миллеровская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1124,
     "uikTvd": "4614029528606",
+    "uikName": "УИК №1124",
     "tikTvd": "26120002976958",
-    "tikName": "Миллеровская"
+    "tikName": "Миллеровская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1125,
     "uikTvd": "4614029528607",
+    "uikName": "УИК №1125",
     "tikTvd": "26120002976958",
-    "tikName": "Миллеровская"
+    "tikName": "Миллеровская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1126,
     "uikTvd": "4614029528608",
+    "uikName": "УИК №1126",
     "tikTvd": "26120002976958",
-    "tikName": "Миллеровская"
+    "tikName": "Миллеровская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1127,
     "uikTvd": "4614029528609",
+    "uikName": "УИК №1127",
     "tikTvd": "26120002976958",
-    "tikName": "Миллеровская"
+    "tikName": "Миллеровская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1128,
     "uikTvd": "4614029528610",
+    "uikName": "УИК №1128",
     "tikTvd": "26120002976958",
-    "tikName": "Миллеровская"
+    "tikName": "Миллеровская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1129,
     "uikTvd": "4614029528611",
+    "uikName": "УИК №1129",
     "tikTvd": "26120002976958",
-    "tikName": "Миллеровская"
+    "tikName": "Миллеровская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1130,
     "uikTvd": "4614029528612",
+    "uikName": "УИК №1130",
     "tikTvd": "26120002976958",
-    "tikName": "Миллеровская"
+    "tikName": "Миллеровская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1131,
     "uikTvd": "4614029528613",
+    "uikName": "УИК №1131",
     "tikTvd": "26120002976958",
-    "tikName": "Миллеровская"
+    "tikName": "Миллеровская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1132,
     "uikTvd": "4614029528614",
+    "uikName": "УИК №1132",
     "tikTvd": "26120002976958",
-    "tikName": "Миллеровская"
+    "tikName": "Миллеровская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1133,
     "uikTvd": "4614029528615",
+    "uikName": "УИК №1133",
     "tikTvd": "26120002976958",
-    "tikName": "Миллеровская"
+    "tikName": "Миллеровская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1134,
     "uikTvd": "4614029528616",
+    "uikName": "УИК №1134",
     "tikTvd": "26120002976958",
-    "tikName": "Миллеровская"
+    "tikName": "Миллеровская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1135,
     "uikTvd": "4614029528617",
+    "uikName": "УИК №1135",
     "tikTvd": "26120002976958",
-    "tikName": "Миллеровская"
+    "tikName": "Миллеровская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1136,
     "uikTvd": "4614029528618",
+    "uikName": "УИК №1136",
     "tikTvd": "26120002976958",
-    "tikName": "Миллеровская"
+    "tikName": "Миллеровская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1138,
     "uikTvd": "4614029528619",
+    "uikName": "УИК №1138",
     "tikTvd": "26120002976958",
-    "tikName": "Миллеровская"
+    "tikName": "Миллеровская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1139,
     "uikTvd": "4614029528620",
+    "uikName": "УИК №1139",
     "tikTvd": "26120002976958",
-    "tikName": "Миллеровская"
+    "tikName": "Миллеровская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1140,
     "uikTvd": "4614029528621",
+    "uikName": "УИК №1140",
     "tikTvd": "26120002976958",
-    "tikName": "Миллеровская"
+    "tikName": "Миллеровская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1141,
     "uikTvd": "4614029528622",
+    "uikName": "УИК №1141",
     "tikTvd": "26120002976958",
-    "tikName": "Миллеровская"
+    "tikName": "Миллеровская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1142,
     "uikTvd": "4614029528623",
+    "uikName": "УИК №1142",
     "tikTvd": "26120002976958",
-    "tikName": "Миллеровская"
+    "tikName": "Миллеровская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1143,
     "uikTvd": "4614029528624",
+    "uikName": "УИК №1143",
     "tikTvd": "26120002976958",
-    "tikName": "Миллеровская"
+    "tikName": "Миллеровская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1144,
     "uikTvd": "4614029528625",
+    "uikName": "УИК №1144",
     "tikTvd": "26120002976958",
-    "tikName": "Миллеровская"
+    "tikName": "Миллеровская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1145,
     "uikTvd": "4614029528626",
+    "uikName": "УИК №1145",
     "tikTvd": "26120002976958",
-    "tikName": "Миллеровская"
+    "tikName": "Миллеровская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1146,
     "uikTvd": "4614029528627",
+    "uikName": "УИК №1146",
     "tikTvd": "26120002976958",
-    "tikName": "Миллеровская"
+    "tikName": "Миллеровская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1148,
     "uikTvd": "4614029528628",
+    "uikName": "УИК №1148",
     "tikTvd": "26120002976958",
-    "tikName": "Миллеровская"
+    "tikName": "Миллеровская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1149,
     "uikTvd": "4614029528629",
+    "uikName": "УИК №1149",
     "tikTvd": "26120002976958",
-    "tikName": "Миллеровская"
+    "tikName": "Миллеровская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1150,
     "uikTvd": "4614029528630",
+    "uikName": "УИК №1150",
     "tikTvd": "26120002976958",
-    "tikName": "Миллеровская"
+    "tikName": "Миллеровская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1151,
     "uikTvd": "4614029528631",
+    "uikName": "УИК №1151",
     "tikTvd": "26120002976958",
-    "tikName": "Миллеровская"
+    "tikName": "Миллеровская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1152,
     "uikTvd": "4614029528632",
+    "uikName": "УИК №1152",
     "tikTvd": "26120002976958",
-    "tikName": "Миллеровская"
+    "tikName": "Миллеровская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1153,
     "uikTvd": "4614029528633",
+    "uikName": "УИК №1153",
     "tikTvd": "26120002976958",
-    "tikName": "Миллеровская"
+    "tikName": "Миллеровская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1154,
     "uikTvd": "4614029528634",
+    "uikName": "УИК №1154",
     "tikTvd": "26120002976958",
-    "tikName": "Миллеровская"
+    "tikName": "Миллеровская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1155,
     "uikTvd": "4614029528635",
+    "uikName": "УИК №1155",
     "tikTvd": "26120002976958",
-    "tikName": "Миллеровская"
+    "tikName": "Миллеровская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1156,
     "uikTvd": "4614029528636",
+    "uikName": "УИК №1156",
     "tikTvd": "26120002976958",
-    "tikName": "Миллеровская"
+    "tikName": "Миллеровская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1157,
     "uikTvd": "4614029528637",
+    "uikName": "УИК №1157",
     "tikTvd": "26120002976958",
-    "tikName": "Миллеровская"
+    "tikName": "Миллеровская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1158,
     "uikTvd": "4614029528638",
+    "uikName": "УИК №1158",
     "tikTvd": "26120002976958",
-    "tikName": "Миллеровская"
+    "tikName": "Миллеровская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1159,
     "uikTvd": "4614029528639",
+    "uikName": "УИК №1159",
     "tikTvd": "26120002976958",
-    "tikName": "Миллеровская"
+    "tikName": "Миллеровская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1160,
     "uikTvd": "4614029528640",
+    "uikName": "УИК №1160",
     "tikTvd": "26120002976958",
-    "tikName": "Миллеровская"
+    "tikName": "Миллеровская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1161,
     "uikTvd": "4614029528641",
+    "uikName": "УИК №1161",
     "tikTvd": "26120002976958",
-    "tikName": "Миллеровская"
+    "tikName": "Миллеровская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1162,
     "uikTvd": "4614029528642",
+    "uikName": "УИК №1162",
     "tikTvd": "26120002976958",
-    "tikName": "Миллеровская"
+    "tikName": "Миллеровская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1163,
     "uikTvd": "4614029528643",
+    "uikName": "УИК №1163",
     "tikTvd": "26120002976958",
-    "tikName": "Миллеровская"
+    "tikName": "Миллеровская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1164,
     "uikTvd": "4614029528644",
+    "uikName": "УИК №1164",
     "tikTvd": "26120002976958",
-    "tikName": "Миллеровская"
+    "tikName": "Миллеровская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1165,
     "uikTvd": "4614029528645",
+    "uikName": "УИК №1165",
     "tikTvd": "26120002976958",
-    "tikName": "Миллеровская"
+    "tikName": "Миллеровская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1166,
     "uikTvd": "4614029528646",
+    "uikName": "УИК №1166",
     "tikTvd": "26120002976958",
-    "tikName": "Миллеровская"
+    "tikName": "Миллеровская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1167,
     "uikTvd": "4614029528647",
+    "uikName": "УИК №1167",
     "tikTvd": "26120002976958",
-    "tikName": "Миллеровская"
+    "tikName": "Миллеровская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1168,
     "uikTvd": "4614029528648",
+    "uikName": "УИК №1168",
     "tikTvd": "26120002976958",
-    "tikName": "Миллеровская"
+    "tikName": "Миллеровская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1169,
     "uikTvd": "4614029528649",
+    "uikName": "УИК №1169",
     "tikTvd": "26120002976958",
-    "tikName": "Миллеровская"
+    "tikName": "Миллеровская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1170,
     "uikTvd": "4614029528650",
+    "uikName": "УИК №1170",
     "tikTvd": "26120002976958",
-    "tikName": "Миллеровская"
+    "tikName": "Миллеровская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1171,
     "uikTvd": "4614029528651",
+    "uikName": "УИК №1171",
     "tikTvd": "26120002976958",
-    "tikName": "Миллеровская"
+    "tikName": "Миллеровская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1172,
     "uikTvd": "4614029528652",
+    "uikName": "УИК №1172",
     "tikTvd": "26120002976958",
-    "tikName": "Миллеровская"
+    "tikName": "Миллеровская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1173,
     "uikTvd": "4614029528653",
+    "uikName": "УИК №1173",
     "tikTvd": "26120002976958",
-    "tikName": "Миллеровская"
+    "tikName": "Миллеровская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1174,
     "uikTvd": "4614029528654",
+    "uikName": "УИК №1174",
     "tikTvd": "26120002976958",
-    "tikName": "Миллеровская"
+    "tikName": "Миллеровская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1175,
     "uikTvd": "4614050493215",
+    "uikName": "УИК №1175",
     "tikTvd": "26120002976978",
-    "tikName": "Ростов-на-Дону, Советская"
+    "tikName": "Ростов-на-Дону, Советская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1176,
     "uikTvd": "4614030284812",
+    "uikName": "УИК №1176",
     "tikTvd": "26120002976970",
-    "tikName": "Милютинская"
+    "tikName": "Милютинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1177,
     "uikTvd": "4614030284813",
+    "uikName": "УИК №1177",
     "tikTvd": "26120002976970",
-    "tikName": "Милютинская"
+    "tikName": "Милютинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1178,
     "uikTvd": "4614030284814",
+    "uikName": "УИК №1178",
     "tikTvd": "26120002976970",
-    "tikName": "Милютинская"
+    "tikName": "Милютинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1180,
     "uikTvd": "4614030284815",
+    "uikName": "УИК №1180",
     "tikTvd": "26120002976970",
-    "tikName": "Милютинская"
+    "tikName": "Милютинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1181,
     "uikTvd": "4614030284816",
+    "uikName": "УИК №1181",
     "tikTvd": "26120002976970",
-    "tikName": "Милютинская"
+    "tikName": "Милютинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1183,
     "uikTvd": "4614030284817",
+    "uikName": "УИК №1183",
     "tikTvd": "26120002976970",
-    "tikName": "Милютинская"
+    "tikName": "Милютинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1184,
     "uikTvd": "4614030284818",
+    "uikName": "УИК №1184",
     "tikTvd": "26120002976970",
-    "tikName": "Милютинская"
+    "tikName": "Милютинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1185,
     "uikTvd": "4614030284819",
+    "uikName": "УИК №1185",
     "tikTvd": "26120002976970",
-    "tikName": "Милютинская"
+    "tikName": "Милютинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1186,
     "uikTvd": "4614030284820",
+    "uikName": "УИК №1186",
     "tikTvd": "26120002976970",
-    "tikName": "Милютинская"
+    "tikName": "Милютинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1187,
     "uikTvd": "4614050493216",
+    "uikName": "УИК №1187",
     "tikTvd": "26120002976978",
-    "tikName": "Ростов-на-Дону, Советская"
+    "tikName": "Ростов-на-Дону, Советская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1188,
     "uikTvd": "4614030284821",
+    "uikName": "УИК №1188",
     "tikTvd": "26120002976970",
-    "tikName": "Милютинская"
+    "tikName": "Милютинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1189,
     "uikTvd": "4614050493217",
+    "uikName": "УИК №1189",
     "tikTvd": "26120002976978",
-    "tikName": "Ростов-на-Дону, Советская"
+    "tikName": "Ростов-на-Дону, Советская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1190,
     "uikTvd": "4614030284822",
+    "uikName": "УИК №1190",
     "tikTvd": "26120002976970",
-    "tikName": "Милютинская"
+    "tikName": "Милютинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1191,
     "uikTvd": "4614030284823",
+    "uikName": "УИК №1191",
     "tikTvd": "26120002976970",
-    "tikName": "Милютинская"
+    "tikName": "Милютинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1192,
     "uikTvd": "4614030284824",
+    "uikName": "УИК №1192",
     "tikTvd": "26120002976970",
-    "tikName": "Милютинская"
+    "tikName": "Милютинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1193,
     "uikTvd": "4614030284825",
+    "uikName": "УИК №1193",
     "tikTvd": "26120002976970",
-    "tikName": "Милютинская"
+    "tikName": "Милютинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1194,
     "uikTvd": "4614030284826",
+    "uikName": "УИК №1194",
     "tikTvd": "26120002976970",
-    "tikName": "Милютинская"
+    "tikName": "Милютинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1195,
     "uikTvd": "4614050493218",
+    "uikName": "УИК №1195",
     "tikTvd": "26120002976978",
-    "tikName": "Ростов-на-Дону, Советская"
+    "tikName": "Ростов-на-Дону, Советская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1196,
     "uikTvd": "4614030284827",
+    "uikName": "УИК №1196",
     "tikTvd": "26120002976970",
-    "tikName": "Милютинская"
+    "tikName": "Милютинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1197,
     "uikTvd": "4614030284828",
+    "uikName": "УИК №1197",
     "tikTvd": "26120002976970",
-    "tikName": "Милютинская"
+    "tikName": "Милютинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1198,
     "uikTvd": "4614030284829",
+    "uikName": "УИК №1198",
     "tikTvd": "26120002976970",
-    "tikName": "Милютинская"
+    "tikName": "Милютинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1199,
     "uikTvd": "4614030284830",
+    "uikName": "УИК №1199",
     "tikTvd": "26120002976970",
-    "tikName": "Милютинская"
+    "tikName": "Милютинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1200,
     "uikTvd": "46140031147396",
+    "uikName": "УИК №1200",
     "tikTvd": "26120002976964",
-    "tikName": "Аксайская"
+    "tikName": "Аксайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1201,
     "uikTvd": "4614030284831",
+    "uikName": "УИК №1201",
     "tikTvd": "26120002976970",
-    "tikName": "Милютинская"
+    "tikName": "Милютинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1202,
     "uikTvd": "4614030284832",
+    "uikName": "УИК №1202",
     "tikTvd": "26120002976970",
-    "tikName": "Милютинская"
+    "tikName": "Милютинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1203,
     "uikTvd": "4614031423317",
+    "uikName": "УИК №1203",
     "tikTvd": "26120002976944",
-    "tikName": "Морозовская"
+    "tikName": "Морозовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1204,
     "uikTvd": "4614031423318",
+    "uikName": "УИК №1204",
     "tikTvd": "26120002976944",
-    "tikName": "Морозовская"
+    "tikName": "Морозовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1205,
     "uikTvd": "4614031423319",
+    "uikName": "УИК №1205",
     "tikTvd": "26120002976944",
-    "tikName": "Морозовская"
+    "tikName": "Морозовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1206,
     "uikTvd": "4614031423320",
+    "uikName": "УИК №1206",
     "tikTvd": "26120002976944",
-    "tikName": "Морозовская"
+    "tikName": "Морозовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1207,
     "uikTvd": "4614031423321",
+    "uikName": "УИК №1207",
     "tikTvd": "26120002976944",
-    "tikName": "Морозовская"
+    "tikName": "Морозовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1208,
     "uikTvd": "4614031423322",
+    "uikName": "УИК №1208",
     "tikTvd": "26120002976944",
-    "tikName": "Морозовская"
+    "tikName": "Морозовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1209,
     "uikTvd": "4614031423323",
+    "uikName": "УИК №1209",
     "tikTvd": "26120002976944",
-    "tikName": "Морозовская"
+    "tikName": "Морозовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1210,
     "uikTvd": "4614031423324",
+    "uikName": "УИК №1210",
     "tikTvd": "26120002976944",
-    "tikName": "Морозовская"
+    "tikName": "Морозовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1211,
     "uikTvd": "4614031423325",
+    "uikName": "УИК №1211",
     "tikTvd": "26120002976944",
-    "tikName": "Морозовская"
+    "tikName": "Морозовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1212,
     "uikTvd": "4614031423326",
+    "uikName": "УИК №1212",
     "tikTvd": "26120002976944",
-    "tikName": "Морозовская"
+    "tikName": "Морозовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1213,
     "uikTvd": "4614031423327",
+    "uikName": "УИК №1213",
     "tikTvd": "26120002976944",
-    "tikName": "Морозовская"
+    "tikName": "Морозовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1214,
     "uikTvd": "4614031423328",
+    "uikName": "УИК №1214",
     "tikTvd": "26120002976944",
-    "tikName": "Морозовская"
+    "tikName": "Морозовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1215,
     "uikTvd": "4614031423329",
+    "uikName": "УИК №1215",
     "tikTvd": "26120002976944",
-    "tikName": "Морозовская"
+    "tikName": "Морозовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1216,
     "uikTvd": "4614031423330",
+    "uikName": "УИК №1216",
     "tikTvd": "26120002976944",
-    "tikName": "Морозовская"
+    "tikName": "Морозовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1217,
     "uikTvd": "4614031423331",
+    "uikName": "УИК №1217",
     "tikTvd": "26120002976944",
-    "tikName": "Морозовская"
+    "tikName": "Морозовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1218,
     "uikTvd": "4614031423332",
+    "uikName": "УИК №1218",
     "tikTvd": "26120002976944",
-    "tikName": "Морозовская"
+    "tikName": "Морозовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1219,
     "uikTvd": "4614031423333",
+    "uikName": "УИК №1219",
     "tikTvd": "26120002976944",
-    "tikName": "Морозовская"
+    "tikName": "Морозовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1220,
     "uikTvd": "46140031147397",
+    "uikName": "УИК №1220",
     "tikTvd": "26120002976964",
-    "tikName": "Аксайская"
+    "tikName": "Аксайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1222,
     "uikTvd": "4614031423334",
+    "uikName": "УИК №1222",
     "tikTvd": "26120002976944",
-    "tikName": "Морозовская"
+    "tikName": "Морозовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1223,
     "uikTvd": "4614031423335",
+    "uikName": "УИК №1223",
     "tikTvd": "26120002976944",
-    "tikName": "Морозовская"
+    "tikName": "Морозовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1224,
     "uikTvd": "4614031423336",
+    "uikName": "УИК №1224",
     "tikTvd": "26120002976944",
-    "tikName": "Морозовская"
+    "tikName": "Морозовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1225,
     "uikTvd": "4614031423337",
+    "uikName": "УИК №1225",
     "tikTvd": "26120002976944",
-    "tikName": "Морозовская"
+    "tikName": "Морозовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1226,
     "uikTvd": "4614031423338",
+    "uikName": "УИК №1226",
     "tikTvd": "26120002976944",
-    "tikName": "Морозовская"
+    "tikName": "Морозовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1227,
     "uikTvd": "4614031423339",
+    "uikName": "УИК №1227",
     "tikTvd": "26120002976944",
-    "tikName": "Морозовская"
+    "tikName": "Морозовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1228,
     "uikTvd": "4614031423340",
+    "uikName": "УИК №1228",
     "tikTvd": "26120002976944",
-    "tikName": "Морозовская"
+    "tikName": "Морозовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1229,
     "uikTvd": "4614031423341",
+    "uikName": "УИК №1229",
     "tikTvd": "26120002976944",
-    "tikName": "Морозовская"
+    "tikName": "Морозовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1230,
     "uikTvd": "4614031423342",
+    "uikName": "УИК №1230",
     "tikTvd": "26120002976944",
-    "tikName": "Морозовская"
+    "tikName": "Морозовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1231,
     "uikTvd": "4614031423343",
+    "uikName": "УИК №1231",
     "tikTvd": "26120002976944",
-    "tikName": "Морозовская"
+    "tikName": "Морозовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1232,
     "uikTvd": "4614044365300",
+    "uikName": "УИК №1232",
     "tikTvd": "26120002976934",
-    "tikName": "Ростов-на-Дону, Железнодорожная"
+    "tikName": "Ростов-на-Дону, Железнодорожная",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1233,
     "uikTvd": "4614035503613",
+    "uikName": "УИК №1233",
     "tikTvd": "26120002976996",
-    "tikName": "Новошахтинская городская"
+    "tikName": "Новошахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1234,
     "uikTvd": "4614031423344",
+    "uikName": "УИК №1234",
     "tikTvd": "26120002976944",
-    "tikName": "Морозовская"
+    "tikName": "Морозовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1235,
     "uikTvd": "4614031423345",
+    "uikName": "УИК №1235",
     "tikTvd": "26120002976944",
-    "tikName": "Морозовская"
+    "tikName": "Морозовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1236,
     "uikTvd": "4614031423346",
+    "uikName": "УИК №1236",
     "tikTvd": "26120002976944",
-    "tikName": "Морозовская"
+    "tikName": "Морозовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1237,
     "uikTvd": "4614031423347",
+    "uikName": "УИК №1237",
     "tikTvd": "26120002976944",
-    "tikName": "Морозовская"
+    "tikName": "Морозовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1238,
     "uikTvd": "4614031423348",
+    "uikName": "УИК №1238",
     "tikTvd": "26120002976944",
-    "tikName": "Морозовская"
+    "tikName": "Морозовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1239,
     "uikTvd": "4614031423349",
+    "uikName": "УИК №1239",
     "tikTvd": "26120002976944",
-    "tikName": "Морозовская"
+    "tikName": "Морозовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1240,
     "uikTvd": "4614031423350",
+    "uikName": "УИК №1240",
     "tikTvd": "26120002976944",
-    "tikName": "Морозовская"
+    "tikName": "Морозовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1241,
     "uikTvd": "4614031423351",
+    "uikName": "УИК №1241",
     "tikTvd": "26120002976944",
-    "tikName": "Морозовская"
+    "tikName": "Морозовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1242,
     "uikTvd": "4614031423352",
+    "uikName": "УИК №1242",
     "tikTvd": "26120002976944",
-    "tikName": "Морозовская"
+    "tikName": "Морозовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1243,
     "uikTvd": "4614031423353",
+    "uikName": "УИК №1243",
     "tikTvd": "26120002976944",
-    "tikName": "Морозовская"
+    "tikName": "Морозовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1244,
     "uikTvd": "4614031423354",
+    "uikName": "УИК №1244",
     "tikTvd": "26120002976944",
-    "tikName": "Морозовская"
+    "tikName": "Морозовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1245,
     "uikTvd": "4614031423355",
+    "uikName": "УИК №1245",
     "tikTvd": "26120002976944",
-    "tikName": "Морозовская"
+    "tikName": "Морозовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1246,
     "uikTvd": "4614031423356",
+    "uikName": "УИК №1246",
     "tikTvd": "26120002976944",
-    "tikName": "Морозовская"
+    "tikName": "Морозовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1247,
     "uikTvd": "4614031423357",
+    "uikName": "УИК №1247",
     "tikTvd": "26120002976944",
-    "tikName": "Морозовская"
+    "tikName": "Морозовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1248,
     "uikTvd": "4614032288849",
+    "uikName": "УИК №1248",
     "tikTvd": "26120002976949",
-    "tikName": "Мясниковская"
+    "tikName": "Мясниковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1249,
     "uikTvd": "4614032288850",
+    "uikName": "УИК №1249",
     "tikTvd": "26120002976949",
-    "tikName": "Мясниковская"
+    "tikName": "Мясниковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1250,
     "uikTvd": "4614032288851",
+    "uikName": "УИК №1250",
     "tikTvd": "26120002976949",
-    "tikName": "Мясниковская"
+    "tikName": "Мясниковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1251,
     "uikTvd": "4614032288852",
+    "uikName": "УИК №1251",
     "tikTvd": "26120002976949",
-    "tikName": "Мясниковская"
+    "tikName": "Мясниковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1252,
     "uikTvd": "4614032288853",
+    "uikName": "УИК №1252",
     "tikTvd": "26120002976949",
-    "tikName": "Мясниковская"
+    "tikName": "Мясниковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1253,
     "uikTvd": "4614032288854",
+    "uikName": "УИК №1253",
     "tikTvd": "26120002976949",
-    "tikName": "Мясниковская"
+    "tikName": "Мясниковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1254,
     "uikTvd": "4614032288855",
+    "uikName": "УИК №1254",
     "tikTvd": "26120002976949",
-    "tikName": "Мясниковская"
+    "tikName": "Мясниковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1255,
     "uikTvd": "4614032288856",
+    "uikName": "УИК №1255",
     "tikTvd": "26120002976949",
-    "tikName": "Мясниковская"
+    "tikName": "Мясниковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1256,
     "uikTvd": "4614032288857",
+    "uikName": "УИК №1256",
     "tikTvd": "26120002976949",
-    "tikName": "Мясниковская"
+    "tikName": "Мясниковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1257,
     "uikTvd": "4614032288858",
+    "uikName": "УИК №1257",
     "tikTvd": "26120002976949",
-    "tikName": "Мясниковская"
+    "tikName": "Мясниковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1258,
     "uikTvd": "4614032288859",
+    "uikName": "УИК №1258",
     "tikTvd": "26120002976949",
-    "tikName": "Мясниковская"
+    "tikName": "Мясниковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1259,
     "uikTvd": "4614032288860",
+    "uikName": "УИК №1259",
     "tikTvd": "26120002976949",
-    "tikName": "Мясниковская"
+    "tikName": "Мясниковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1260,
     "uikTvd": "4614032288861",
+    "uikName": "УИК №1260",
     "tikTvd": "26120002976949",
-    "tikName": "Мясниковская"
+    "tikName": "Мясниковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1261,
     "uikTvd": "4614032288862",
+    "uikName": "УИК №1261",
     "tikTvd": "26120002976949",
-    "tikName": "Мясниковская"
+    "tikName": "Мясниковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1262,
     "uikTvd": "4614032288863",
+    "uikName": "УИК №1262",
     "tikTvd": "26120002976949",
-    "tikName": "Мясниковская"
+    "tikName": "Мясниковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1263,
     "uikTvd": "4614032288864",
+    "uikName": "УИК №1263",
     "tikTvd": "26120002976949",
-    "tikName": "Мясниковская"
+    "tikName": "Мясниковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1264,
     "uikTvd": "4614032288865",
+    "uikName": "УИК №1264",
     "tikTvd": "26120002976949",
-    "tikName": "Мясниковская"
+    "tikName": "Мясниковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1265,
     "uikTvd": "4614032288866",
+    "uikName": "УИК №1265",
     "tikTvd": "26120002976949",
-    "tikName": "Мясниковская"
+    "tikName": "Мясниковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1266,
     "uikTvd": "4614032288867",
+    "uikName": "УИК №1266",
     "tikTvd": "26120002976949",
-    "tikName": "Мясниковская"
+    "tikName": "Мясниковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1267,
     "uikTvd": "4614032288868",
+    "uikName": "УИК №1267",
     "tikTvd": "26120002976949",
-    "tikName": "Мясниковская"
+    "tikName": "Мясниковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1268,
     "uikTvd": "4614032288869",
+    "uikName": "УИК №1268",
     "tikTvd": "26120002976949",
-    "tikName": "Мясниковская"
+    "tikName": "Мясниковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1269,
     "uikTvd": "4614032288870",
+    "uikName": "УИК №1269",
     "tikTvd": "26120002976949",
-    "tikName": "Мясниковская"
+    "tikName": "Мясниковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1270,
     "uikTvd": "4614032288871",
+    "uikName": "УИК №1270",
     "tikTvd": "26120002976949",
-    "tikName": "Мясниковская"
+    "tikName": "Мясниковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1271,
     "uikTvd": "4614032288872",
+    "uikName": "УИК №1271",
     "tikTvd": "26120002976949",
-    "tikName": "Мясниковская"
+    "tikName": "Мясниковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1272,
     "uikTvd": "4614032288873",
+    "uikName": "УИК №1272",
     "tikTvd": "26120002976949",
-    "tikName": "Мясниковская"
+    "tikName": "Мясниковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1273,
     "uikTvd": "46140331194713",
+    "uikName": "УИК №1273",
     "tikTvd": "26120002976952",
-    "tikName": "Неклиновская"
+    "tikName": "Неклиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1274,
     "uikTvd": "46140331194714",
+    "uikName": "УИК №1274",
     "tikTvd": "26120002976952",
-    "tikName": "Неклиновская"
+    "tikName": "Неклиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1275,
     "uikTvd": "46140331194715",
+    "uikName": "УИК №1275",
     "tikTvd": "26120002976952",
-    "tikName": "Неклиновская"
+    "tikName": "Неклиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1276,
     "uikTvd": "46140331194716",
+    "uikName": "УИК №1276",
     "tikTvd": "26120002976952",
-    "tikName": "Неклиновская"
+    "tikName": "Неклиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1277,
     "uikTvd": "46140331194717",
+    "uikName": "УИК №1277",
     "tikTvd": "26120002976952",
-    "tikName": "Неклиновская"
+    "tikName": "Неклиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1278,
     "uikTvd": "46140331194718",
+    "uikName": "УИК №1278",
     "tikTvd": "26120002976952",
-    "tikName": "Неклиновская"
+    "tikName": "Неклиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1279,
     "uikTvd": "46140331194719",
+    "uikName": "УИК №1279",
     "tikTvd": "26120002976952",
-    "tikName": "Неклиновская"
+    "tikName": "Неклиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1280,
     "uikTvd": "46140331194720",
+    "uikName": "УИК №1280",
     "tikTvd": "26120002976952",
-    "tikName": "Неклиновская"
+    "tikName": "Неклиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1281,
     "uikTvd": "46140331194721",
+    "uikName": "УИК №1281",
     "tikTvd": "26120002976952",
-    "tikName": "Неклиновская"
+    "tikName": "Неклиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1282,
     "uikTvd": "46140331194722",
+    "uikName": "УИК №1282",
     "tikTvd": "26120002976952",
-    "tikName": "Неклиновская"
+    "tikName": "Неклиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1283,
     "uikTvd": "46140331194723",
+    "uikName": "УИК №1283",
     "tikTvd": "26120002976952",
-    "tikName": "Неклиновская"
+    "tikName": "Неклиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1284,
     "uikTvd": "46140331194724",
+    "uikName": "УИК №1284",
     "tikTvd": "26120002976952",
-    "tikName": "Неклиновская"
+    "tikName": "Неклиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1285,
     "uikTvd": "46140331194725",
+    "uikName": "УИК №1285",
     "tikTvd": "26120002976952",
-    "tikName": "Неклиновская"
+    "tikName": "Неклиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1286,
     "uikTvd": "46140331194726",
+    "uikName": "УИК №1286",
     "tikTvd": "26120002976952",
-    "tikName": "Неклиновская"
+    "tikName": "Неклиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1287,
     "uikTvd": "46140331194727",
+    "uikName": "УИК №1287",
     "tikTvd": "26120002976952",
-    "tikName": "Неклиновская"
+    "tikName": "Неклиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1288,
     "uikTvd": "46140331194728",
+    "uikName": "УИК №1288",
     "tikTvd": "26120002976952",
-    "tikName": "Неклиновская"
+    "tikName": "Неклиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1289,
     "uikTvd": "46140331194729",
+    "uikName": "УИК №1289",
     "tikTvd": "26120002976952",
-    "tikName": "Неклиновская"
+    "tikName": "Неклиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1290,
     "uikTvd": "46140331194730",
+    "uikName": "УИК №1290",
     "tikTvd": "26120002976952",
-    "tikName": "Неклиновская"
+    "tikName": "Неклиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1291,
     "uikTvd": "46140331194731",
+    "uikName": "УИК №1291",
     "tikTvd": "26120002976952",
-    "tikName": "Неклиновская"
+    "tikName": "Неклиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1292,
     "uikTvd": "46140331194732",
+    "uikName": "УИК №1292",
     "tikTvd": "26120002976952",
-    "tikName": "Неклиновская"
+    "tikName": "Неклиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1293,
     "uikTvd": "46140331194733",
+    "uikName": "УИК №1293",
     "tikTvd": "26120002976952",
-    "tikName": "Неклиновская"
+    "tikName": "Неклиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1294,
     "uikTvd": "46140331194734",
+    "uikName": "УИК №1294",
     "tikTvd": "26120002976952",
-    "tikName": "Неклиновская"
+    "tikName": "Неклиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1295,
     "uikTvd": "46140331194735",
+    "uikName": "УИК №1295",
     "tikTvd": "26120002976952",
-    "tikName": "Неклиновская"
+    "tikName": "Неклиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1296,
     "uikTvd": "46140331194736",
+    "uikName": "УИК №1296",
     "tikTvd": "26120002976952",
-    "tikName": "Неклиновская"
+    "tikName": "Неклиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1297,
     "uikTvd": "46140331194737",
+    "uikName": "УИК №1297",
     "tikTvd": "26120002976952",
-    "tikName": "Неклиновская"
+    "tikName": "Неклиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1298,
     "uikTvd": "46140331194738",
+    "uikName": "УИК №1298",
     "tikTvd": "26120002976952",
-    "tikName": "Неклиновская"
+    "tikName": "Неклиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1299,
     "uikTvd": "46140331194739",
+    "uikName": "УИК №1299",
     "tikTvd": "26120002976952",
-    "tikName": "Неклиновская"
+    "tikName": "Неклиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1300,
     "uikTvd": "46140331194740",
+    "uikName": "УИК №1300",
     "tikTvd": "26120002976952",
-    "tikName": "Неклиновская"
+    "tikName": "Неклиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1301,
     "uikTvd": "46140331194741",
+    "uikName": "УИК №1301",
     "tikTvd": "26120002976952",
-    "tikName": "Неклиновская"
+    "tikName": "Неклиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1302,
     "uikTvd": "46140331194742",
+    "uikName": "УИК №1302",
     "tikTvd": "26120002976952",
-    "tikName": "Неклиновская"
+    "tikName": "Неклиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1303,
     "uikTvd": "46140331194743",
+    "uikName": "УИК №1303",
     "tikTvd": "26120002976952",
-    "tikName": "Неклиновская"
+    "tikName": "Неклиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1304,
     "uikTvd": "46140331194744",
+    "uikName": "УИК №1304",
     "tikTvd": "26120002976952",
-    "tikName": "Неклиновская"
+    "tikName": "Неклиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1305,
     "uikTvd": "46140331194745",
+    "uikName": "УИК №1305",
     "tikTvd": "26120002976952",
-    "tikName": "Неклиновская"
+    "tikName": "Неклиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1306,
     "uikTvd": "46140331194746",
+    "uikName": "УИК №1306",
     "tikTvd": "26120002976952",
-    "tikName": "Неклиновская"
+    "tikName": "Неклиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1307,
     "uikTvd": "46140331194747",
+    "uikName": "УИК №1307",
     "tikTvd": "26120002976952",
-    "tikName": "Неклиновская"
+    "tikName": "Неклиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1308,
     "uikTvd": "46140331194748",
+    "uikName": "УИК №1308",
     "tikTvd": "26120002976952",
-    "tikName": "Неклиновская"
+    "tikName": "Неклиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1309,
     "uikTvd": "46140331194749",
+    "uikName": "УИК №1309",
     "tikTvd": "26120002976952",
-    "tikName": "Неклиновская"
+    "tikName": "Неклиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1310,
     "uikTvd": "46140331194750",
+    "uikName": "УИК №1310",
     "tikTvd": "26120002976952",
-    "tikName": "Неклиновская"
+    "tikName": "Неклиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1311,
     "uikTvd": "46140331194751",
+    "uikName": "УИК №1311",
     "tikTvd": "26120002976952",
-    "tikName": "Неклиновская"
+    "tikName": "Неклиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1312,
     "uikTvd": "46140331194752",
+    "uikName": "УИК №1312",
     "tikTvd": "26120002976952",
-    "tikName": "Неклиновская"
+    "tikName": "Неклиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1313,
     "uikTvd": "46140331194753",
+    "uikName": "УИК №1313",
     "tikTvd": "26120002976952",
-    "tikName": "Неклиновская"
+    "tikName": "Неклиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1314,
     "uikTvd": "46140331194754",
+    "uikName": "УИК №1314",
     "tikTvd": "26120002976952",
-    "tikName": "Неклиновская"
+    "tikName": "Неклиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1315,
     "uikTvd": "46140331194755",
+    "uikName": "УИК №1315",
     "tikTvd": "26120002976952",
-    "tikName": "Неклиновская"
+    "tikName": "Неклиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1316,
     "uikTvd": "46140331194756",
+    "uikName": "УИК №1316",
     "tikTvd": "26120002976952",
-    "tikName": "Неклиновская"
+    "tikName": "Неклиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1317,
     "uikTvd": "46140331194757",
+    "uikName": "УИК №1317",
     "tikTvd": "26120002976952",
-    "tikName": "Неклиновская"
+    "tikName": "Неклиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1318,
     "uikTvd": "46140331194758",
+    "uikName": "УИК №1318",
     "tikTvd": "26120002976952",
-    "tikName": "Неклиновская"
+    "tikName": "Неклиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1319,
     "uikTvd": "46140331194759",
+    "uikName": "УИК №1319",
     "tikTvd": "26120002976952",
-    "tikName": "Неклиновская"
+    "tikName": "Неклиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1320,
     "uikTvd": "46140331194760",
+    "uikName": "УИК №1320",
     "tikTvd": "26120002976952",
-    "tikName": "Неклиновская"
+    "tikName": "Неклиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1321,
     "uikTvd": "46140331194761",
+    "uikName": "УИК №1321",
     "tikTvd": "26120002976952",
-    "tikName": "Неклиновская"
+    "tikName": "Неклиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1322,
     "uikTvd": "46140331194762",
+    "uikName": "УИК №1322",
     "tikTvd": "26120002976952",
-    "tikName": "Неклиновская"
+    "tikName": "Неклиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1323,
     "uikTvd": "46140331194763",
+    "uikName": "УИК №1323",
     "tikTvd": "26120002976952",
-    "tikName": "Неклиновская"
+    "tikName": "Неклиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1324,
     "uikTvd": "46140331194764",
+    "uikName": "УИК №1324",
     "tikTvd": "26120002976952",
-    "tikName": "Неклиновская"
+    "tikName": "Неклиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1325,
     "uikTvd": "46140331194765",
+    "uikName": "УИК №1325",
     "tikTvd": "26120002976952",
-    "tikName": "Неклиновская"
+    "tikName": "Неклиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1326,
     "uikTvd": "46140331194766",
+    "uikName": "УИК №1326",
     "tikTvd": "26120002976952",
-    "tikName": "Неклиновская"
+    "tikName": "Неклиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1327,
     "uikTvd": "46140331194767",
+    "uikName": "УИК №1327",
     "tikTvd": "26120002976952",
-    "tikName": "Неклиновская"
+    "tikName": "Неклиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1328,
     "uikTvd": "46140331194768",
+    "uikName": "УИК №1328",
     "tikTvd": "26120002976952",
-    "tikName": "Неклиновская"
+    "tikName": "Неклиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1329,
     "uikTvd": "46140331194769",
+    "uikName": "УИК №1329",
     "tikTvd": "26120002976952",
-    "tikName": "Неклиновская"
+    "tikName": "Неклиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1330,
     "uikTvd": "46140331194770",
+    "uikName": "УИК №1330",
     "tikTvd": "26120002976952",
-    "tikName": "Неклиновская"
+    "tikName": "Неклиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1331,
     "uikTvd": "46140331194771",
+    "uikName": "УИК №1331",
     "tikTvd": "26120002976952",
-    "tikName": "Неклиновская"
+    "tikName": "Неклиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1332,
     "uikTvd": "46140331194772",
+    "uikName": "УИК №1332",
     "tikTvd": "26120002976952",
-    "tikName": "Неклиновская"
+    "tikName": "Неклиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1333,
     "uikTvd": "46140331194773",
+    "uikName": "УИК №1333",
     "tikTvd": "26120002976952",
-    "tikName": "Неклиновская"
+    "tikName": "Неклиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1334,
     "uikTvd": "46140331194774",
+    "uikName": "УИК №1334",
     "tikTvd": "26120002976952",
-    "tikName": "Неклиновская"
+    "tikName": "Неклиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1335,
     "uikTvd": "46140331194775",
+    "uikName": "УИК №1335",
     "tikTvd": "26120002976952",
-    "tikName": "Неклиновская"
+    "tikName": "Неклиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1336,
     "uikTvd": "46140331194776",
+    "uikName": "УИК №1336",
     "tikTvd": "26120002976952",
-    "tikName": "Неклиновская"
+    "tikName": "Неклиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1337,
     "uikTvd": "46140331194777",
+    "uikName": "УИК №1337",
     "tikTvd": "26120002976952",
-    "tikName": "Неклиновская"
+    "tikName": "Неклиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1338,
     "uikTvd": "46140331194778",
+    "uikName": "УИК №1338",
     "tikTvd": "26120002976952",
-    "tikName": "Неклиновская"
+    "tikName": "Неклиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1339,
     "uikTvd": "46140331194779",
+    "uikName": "УИК №1339",
     "tikTvd": "26120002976952",
-    "tikName": "Неклиновская"
+    "tikName": "Неклиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1340,
     "uikTvd": "46140331194780",
+    "uikName": "УИК №1340",
     "tikTvd": "26120002976952",
-    "tikName": "Неклиновская"
+    "tikName": "Неклиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1341,
     "uikTvd": "46140331194781",
+    "uikName": "УИК №1341",
     "tikTvd": "26120002976952",
-    "tikName": "Неклиновская"
+    "tikName": "Неклиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1342,
     "uikTvd": "46140331194782",
+    "uikName": "УИК №1342",
     "tikTvd": "26120002976952",
-    "tikName": "Неклиновская"
+    "tikName": "Неклиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1343,
     "uikTvd": "46140331194783",
+    "uikName": "УИК №1343",
     "tikTvd": "26120002976952",
-    "tikName": "Неклиновская"
+    "tikName": "Неклиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1344,
     "uikTvd": "46140331194784",
+    "uikName": "УИК №1344",
     "tikTvd": "26120002976952",
-    "tikName": "Неклиновская"
+    "tikName": "Неклиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1345,
     "uikTvd": "46140331194785",
+    "uikName": "УИК №1345",
     "tikTvd": "26120002976952",
-    "tikName": "Неклиновская"
+    "tikName": "Неклиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1346,
     "uikTvd": "46140331194786",
+    "uikName": "УИК №1346",
     "tikTvd": "26120002976952",
-    "tikName": "Неклиновская"
+    "tikName": "Неклиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1347,
     "uikTvd": "46140331194787",
+    "uikName": "УИК №1347",
     "tikTvd": "26120002976952",
-    "tikName": "Неклиновская"
+    "tikName": "Неклиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1348,
     "uikTvd": "46140331194788",
+    "uikName": "УИК №1348",
     "tikTvd": "26120002976952",
-    "tikName": "Неклиновская"
+    "tikName": "Неклиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1349,
     "uikTvd": "46140331194789",
+    "uikName": "УИК №1349",
     "tikTvd": "26120002976952",
-    "tikName": "Неклиновская"
+    "tikName": "Неклиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1350,
     "uikTvd": "46140331194790",
+    "uikName": "УИК №1350",
     "tikTvd": "26120002976952",
-    "tikName": "Неклиновская"
+    "tikName": "Неклиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1351,
     "uikTvd": "46140331194791",
+    "uikName": "УИК №1351",
     "tikTvd": "26120002976952",
-    "tikName": "Неклиновская"
+    "tikName": "Неклиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1352,
     "uikTvd": "46140331194792",
+    "uikName": "УИК №1352",
     "tikTvd": "26120002976952",
-    "tikName": "Неклиновская"
+    "tikName": "Неклиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1353,
     "uikTvd": "46140331194793",
+    "uikName": "УИК №1353",
     "tikTvd": "26120002976952",
-    "tikName": "Неклиновская"
+    "tikName": "Неклиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1354,
     "uikTvd": "46140331194794",
+    "uikName": "УИК №1354",
     "tikTvd": "26120002976952",
-    "tikName": "Неклиновская"
+    "tikName": "Неклиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1355,
     "uikTvd": "46140331194795",
+    "uikName": "УИК №1355",
     "tikTvd": "26120002976952",
-    "tikName": "Неклиновская"
+    "tikName": "Неклиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1356,
     "uikTvd": "46140331194796",
+    "uikName": "УИК №1356",
     "tikTvd": "26120002976952",
-    "tikName": "Неклиновская"
+    "tikName": "Неклиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1357,
     "uikTvd": "4614034603566",
+    "uikName": "УИК №1357",
     "tikTvd": "26120002976959",
-    "tikName": "Новочеркасская городская"
+    "tikName": "Новочеркасская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1358,
     "uikTvd": "4614034603568",
+    "uikName": "УИК №1358",
     "tikTvd": "26120002976959",
-    "tikName": "Новочеркасская городская"
+    "tikName": "Новочеркасская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1359,
     "uikTvd": "4614034603569",
+    "uikName": "УИК №1359",
     "tikTvd": "26120002976959",
-    "tikName": "Новочеркасская городская"
+    "tikName": "Новочеркасская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1360,
     "uikTvd": "4614034603570",
+    "uikName": "УИК №1360",
     "tikTvd": "26120002976959",
-    "tikName": "Новочеркасская городская"
+    "tikName": "Новочеркасская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1361,
     "uikTvd": "4614034603571",
+    "uikName": "УИК №1361",
     "tikTvd": "26120002976959",
-    "tikName": "Новочеркасская городская"
+    "tikName": "Новочеркасская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1362,
     "uikTvd": "4614034603572",
+    "uikName": "УИК №1362",
     "tikTvd": "26120002976959",
-    "tikName": "Новочеркасская городская"
+    "tikName": "Новочеркасская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1363,
     "uikTvd": "4614034603573",
+    "uikName": "УИК №1363",
     "tikTvd": "26120002976959",
-    "tikName": "Новочеркасская городская"
+    "tikName": "Новочеркасская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1364,
     "uikTvd": "4614034603574",
+    "uikName": "УИК №1364",
     "tikTvd": "26120002976959",
-    "tikName": "Новочеркасская городская"
+    "tikName": "Новочеркасская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1365,
     "uikTvd": "4614034603575",
+    "uikName": "УИК №1365",
     "tikTvd": "26120002976959",
-    "tikName": "Новочеркасская городская"
+    "tikName": "Новочеркасская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1366,
     "uikTvd": "4614034603576",
+    "uikName": "УИК №1366",
     "tikTvd": "26120002976959",
-    "tikName": "Новочеркасская городская"
+    "tikName": "Новочеркасская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1367,
     "uikTvd": "4614034603577",
+    "uikName": "УИК №1367",
     "tikTvd": "26120002976959",
-    "tikName": "Новочеркасская городская"
+    "tikName": "Новочеркасская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1368,
     "uikTvd": "4614034603578",
+    "uikName": "УИК №1368",
     "tikTvd": "26120002976959",
-    "tikName": "Новочеркасская городская"
+    "tikName": "Новочеркасская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1369,
     "uikTvd": "4614034603579",
+    "uikName": "УИК №1369",
     "tikTvd": "26120002976959",
-    "tikName": "Новочеркасская городская"
+    "tikName": "Новочеркасская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1370,
     "uikTvd": "4614034603580",
+    "uikName": "УИК №1370",
     "tikTvd": "26120002976959",
-    "tikName": "Новочеркасская городская"
+    "tikName": "Новочеркасская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1371,
     "uikTvd": "4614034603581",
+    "uikName": "УИК №1371",
     "tikTvd": "26120002976959",
-    "tikName": "Новочеркасская городская"
+    "tikName": "Новочеркасская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1372,
     "uikTvd": "4614034603582",
+    "uikName": "УИК №1372",
     "tikTvd": "26120002976959",
-    "tikName": "Новочеркасская городская"
+    "tikName": "Новочеркасская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1373,
     "uikTvd": "4614034603583",
+    "uikName": "УИК №1373",
     "tikTvd": "26120002976959",
-    "tikName": "Новочеркасская городская"
+    "tikName": "Новочеркасская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1374,
     "uikTvd": "4614034603584",
+    "uikName": "УИК №1374",
     "tikTvd": "26120002976959",
-    "tikName": "Новочеркасская городская"
+    "tikName": "Новочеркасская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1375,
     "uikTvd": "4614034603585",
+    "uikName": "УИК №1375",
     "tikTvd": "26120002976959",
-    "tikName": "Новочеркасская городская"
+    "tikName": "Новочеркасская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1376,
     "uikTvd": "4614034603586",
+    "uikName": "УИК №1376",
     "tikTvd": "26120002976959",
-    "tikName": "Новочеркасская городская"
+    "tikName": "Новочеркасская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1377,
     "uikTvd": "4614034603587",
+    "uikName": "УИК №1377",
     "tikTvd": "26120002976959",
-    "tikName": "Новочеркасская городская"
+    "tikName": "Новочеркасская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1378,
     "uikTvd": "4614034603588",
+    "uikName": "УИК №1378",
     "tikTvd": "26120002976959",
-    "tikName": "Новочеркасская городская"
+    "tikName": "Новочеркасская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1379,
     "uikTvd": "4614034603589",
+    "uikName": "УИК №1379",
     "tikTvd": "26120002976959",
-    "tikName": "Новочеркасская городская"
+    "tikName": "Новочеркасская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1380,
     "uikTvd": "4614034603590",
+    "uikName": "УИК №1380",
     "tikTvd": "26120002976959",
-    "tikName": "Новочеркасская городская"
+    "tikName": "Новочеркасская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1381,
     "uikTvd": "4614034603591",
+    "uikName": "УИК №1381",
     "tikTvd": "26120002976959",
-    "tikName": "Новочеркасская городская"
+    "tikName": "Новочеркасская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1382,
     "uikTvd": "4614034603592",
+    "uikName": "УИК №1382",
     "tikTvd": "26120002976959",
-    "tikName": "Новочеркасская городская"
+    "tikName": "Новочеркасская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1383,
     "uikTvd": "4614034603593",
+    "uikName": "УИК №1383",
     "tikTvd": "26120002976959",
-    "tikName": "Новочеркасская городская"
+    "tikName": "Новочеркасская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1384,
     "uikTvd": "4614034603594",
+    "uikName": "УИК №1384",
     "tikTvd": "26120002976959",
-    "tikName": "Новочеркасская городская"
+    "tikName": "Новочеркасская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1385,
     "uikTvd": "4614034603595",
+    "uikName": "УИК №1385",
     "tikTvd": "26120002976959",
-    "tikName": "Новочеркасская городская"
+    "tikName": "Новочеркасская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1386,
     "uikTvd": "4614034603596",
+    "uikName": "УИК №1386",
     "tikTvd": "26120002976959",
-    "tikName": "Новочеркасская городская"
+    "tikName": "Новочеркасская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1387,
     "uikTvd": "4614034603597",
+    "uikName": "УИК №1387",
     "tikTvd": "26120002976959",
-    "tikName": "Новочеркасская городская"
+    "tikName": "Новочеркасская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1388,
     "uikTvd": "4614034603598",
+    "uikName": "УИК №1388",
     "tikTvd": "26120002976959",
-    "tikName": "Новочеркасская городская"
+    "tikName": "Новочеркасская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1389,
     "uikTvd": "4614034603599",
+    "uikName": "УИК №1389",
     "tikTvd": "26120002976959",
-    "tikName": "Новочеркасская городская"
+    "tikName": "Новочеркасская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1390,
     "uikTvd": "4614034603600",
+    "uikName": "УИК №1390",
     "tikTvd": "26120002976959",
-    "tikName": "Новочеркасская городская"
+    "tikName": "Новочеркасская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1391,
     "uikTvd": "4614034603601",
+    "uikName": "УИК №1391",
     "tikTvd": "26120002976959",
-    "tikName": "Новочеркасская городская"
+    "tikName": "Новочеркасская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1392,
     "uikTvd": "4614034603602",
+    "uikName": "УИК №1392",
     "tikTvd": "26120002976959",
-    "tikName": "Новочеркасская городская"
+    "tikName": "Новочеркасская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1393,
     "uikTvd": "4614034603603",
+    "uikName": "УИК №1393",
     "tikTvd": "26120002976959",
-    "tikName": "Новочеркасская городская"
+    "tikName": "Новочеркасская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1394,
     "uikTvd": "4614034603604",
+    "uikName": "УИК №1394",
     "tikTvd": "26120002976959",
-    "tikName": "Новочеркасская городская"
+    "tikName": "Новочеркасская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1395,
     "uikTvd": "4614034603605",
+    "uikName": "УИК №1395",
     "tikTvd": "26120002976959",
-    "tikName": "Новочеркасская городская"
+    "tikName": "Новочеркасская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1396,
     "uikTvd": "4614034603606",
+    "uikName": "УИК №1396",
     "tikTvd": "26120002976959",
-    "tikName": "Новочеркасская городская"
+    "tikName": "Новочеркасская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1397,
     "uikTvd": "4614034603607",
+    "uikName": "УИК №1397",
     "tikTvd": "26120002976959",
-    "tikName": "Новочеркасская городская"
+    "tikName": "Новочеркасская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1398,
     "uikTvd": "4614034603608",
+    "uikName": "УИК №1398",
     "tikTvd": "26120002976959",
-    "tikName": "Новочеркасская городская"
+    "tikName": "Новочеркасская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1399,
     "uikTvd": "4614034603609",
+    "uikName": "УИК №1399",
     "tikTvd": "26120002976959",
-    "tikName": "Новочеркасская городская"
+    "tikName": "Новочеркасская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1400,
     "uikTvd": "4614034603610",
+    "uikName": "УИК №1400",
     "tikTvd": "26120002976959",
-    "tikName": "Новочеркасская городская"
+    "tikName": "Новочеркасская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1401,
     "uikTvd": "4614034603611",
+    "uikName": "УИК №1401",
     "tikTvd": "26120002976959",
-    "tikName": "Новочеркасская городская"
+    "tikName": "Новочеркасская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1402,
     "uikTvd": "4614034603612",
+    "uikName": "УИК №1402",
     "tikTvd": "26120002976959",
-    "tikName": "Новочеркасская городская"
+    "tikName": "Новочеркасская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1403,
     "uikTvd": "4614034603613",
+    "uikName": "УИК №1403",
     "tikTvd": "26120002976959",
-    "tikName": "Новочеркасская городская"
+    "tikName": "Новочеркасская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1404,
     "uikTvd": "4614034603614",
+    "uikName": "УИК №1404",
     "tikTvd": "26120002976959",
-    "tikName": "Новочеркасская городская"
+    "tikName": "Новочеркасская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1405,
     "uikTvd": "4614034603615",
+    "uikName": "УИК №1405",
     "tikTvd": "26120002976959",
-    "tikName": "Новочеркасская городская"
+    "tikName": "Новочеркасская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1406,
     "uikTvd": "4614034603616",
+    "uikName": "УИК №1406",
     "tikTvd": "26120002976959",
-    "tikName": "Новочеркасская городская"
+    "tikName": "Новочеркасская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1407,
     "uikTvd": "4614034603617",
+    "uikName": "УИК №1407",
     "tikTvd": "26120002976959",
-    "tikName": "Новочеркасская городская"
+    "tikName": "Новочеркасская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1408,
     "uikTvd": "4614034603618",
+    "uikName": "УИК №1408",
     "tikTvd": "26120002976959",
-    "tikName": "Новочеркасская городская"
+    "tikName": "Новочеркасская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1409,
     "uikTvd": "4614034603619",
+    "uikName": "УИК №1409",
     "tikTvd": "26120002976959",
-    "tikName": "Новочеркасская городская"
+    "tikName": "Новочеркасская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1410,
     "uikTvd": "4614034603620",
+    "uikName": "УИК №1410",
     "tikTvd": "26120002976959",
-    "tikName": "Новочеркасская городская"
+    "tikName": "Новочеркасская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1411,
     "uikTvd": "4614034603621",
+    "uikName": "УИК №1411",
     "tikTvd": "26120002976959",
-    "tikName": "Новочеркасская городская"
+    "tikName": "Новочеркасская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1412,
     "uikTvd": "4614034603622",
+    "uikName": "УИК №1412",
     "tikTvd": "26120002976959",
-    "tikName": "Новочеркасская городская"
+    "tikName": "Новочеркасская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1413,
     "uikTvd": "4614034603623",
+    "uikName": "УИК №1413",
     "tikTvd": "26120002976959",
-    "tikName": "Новочеркасская городская"
+    "tikName": "Новочеркасская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1414,
     "uikTvd": "4614034603624",
+    "uikName": "УИК №1414",
     "tikTvd": "26120002976959",
-    "tikName": "Новочеркасская городская"
+    "tikName": "Новочеркасская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1415,
     "uikTvd": "4614034603625",
+    "uikName": "УИК №1415",
     "tikTvd": "26120002976959",
-    "tikName": "Новочеркасская городская"
+    "tikName": "Новочеркасская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1416,
     "uikTvd": "4614034603626",
+    "uikName": "УИК №1416",
     "tikTvd": "26120002976959",
-    "tikName": "Новочеркасская городская"
+    "tikName": "Новочеркасская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1417,
     "uikTvd": "4614034603627",
+    "uikName": "УИК №1417",
     "tikTvd": "26120002976959",
-    "tikName": "Новочеркасская городская"
+    "tikName": "Новочеркасская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1418,
     "uikTvd": "4614034603628",
+    "uikName": "УИК №1418",
     "tikTvd": "26120002976959",
-    "tikName": "Новочеркасская городская"
+    "tikName": "Новочеркасская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1419,
     "uikTvd": "4614034603629",
+    "uikName": "УИК №1419",
     "tikTvd": "26120002976959",
-    "tikName": "Новочеркасская городская"
+    "tikName": "Новочеркасская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1420,
     "uikTvd": "4614034603630",
+    "uikName": "УИК №1420",
     "tikTvd": "26120002976959",
-    "tikName": "Новочеркасская городская"
+    "tikName": "Новочеркасская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1421,
     "uikTvd": "4614034603631",
+    "uikName": "УИК №1421",
     "tikTvd": "26120002976959",
-    "tikName": "Новочеркасская городская"
+    "tikName": "Новочеркасская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1422,
     "uikTvd": "4614034603632",
+    "uikName": "УИК №1422",
     "tikTvd": "26120002976959",
-    "tikName": "Новочеркасская городская"
+    "tikName": "Новочеркасская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1423,
     "uikTvd": "4614034603633",
+    "uikName": "УИК №1423",
     "tikTvd": "26120002976959",
-    "tikName": "Новочеркасская городская"
+    "tikName": "Новочеркасская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1424,
     "uikTvd": "4614034609479",
+    "uikName": "УИК №1424",
     "tikTvd": "26120002976959",
-    "tikName": "Новочеркасская городская"
+    "tikName": "Новочеркасская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1425,
     "uikTvd": "4614035503614",
+    "uikName": "УИК №1425",
     "tikTvd": "26120002976996",
-    "tikName": "Новошахтинская городская"
+    "tikName": "Новошахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1426,
     "uikTvd": "4614035503615",
+    "uikName": "УИК №1426",
     "tikTvd": "26120002976996",
-    "tikName": "Новошахтинская городская"
+    "tikName": "Новошахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1427,
     "uikTvd": "4614035503616",
+    "uikName": "УИК №1427",
     "tikTvd": "26120002976996",
-    "tikName": "Новошахтинская городская"
+    "tikName": "Новошахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1428,
     "uikTvd": "4614035503617",
+    "uikName": "УИК №1428",
     "tikTvd": "26120002976996",
-    "tikName": "Новошахтинская городская"
+    "tikName": "Новошахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1429,
     "uikTvd": "4614035503618",
+    "uikName": "УИК №1429",
     "tikTvd": "26120002976996",
-    "tikName": "Новошахтинская городская"
+    "tikName": "Новошахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1430,
     "uikTvd": "4614035503619",
+    "uikName": "УИК №1430",
     "tikTvd": "26120002976996",
-    "tikName": "Новошахтинская городская"
+    "tikName": "Новошахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1431,
     "uikTvd": "4614035503620",
+    "uikName": "УИК №1431",
     "tikTvd": "26120002976996",
-    "tikName": "Новошахтинская городская"
+    "tikName": "Новошахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1432,
     "uikTvd": "4614035503621",
+    "uikName": "УИК №1432",
     "tikTvd": "26120002976996",
-    "tikName": "Новошахтинская городская"
+    "tikName": "Новошахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1433,
     "uikTvd": "4614034603635",
+    "uikName": "УИК №1433",
     "tikTvd": "26120002976959",
-    "tikName": "Новочеркасская городская"
+    "tikName": "Новочеркасская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1434,
     "uikTvd": "4614035503622",
+    "uikName": "УИК №1434",
     "tikTvd": "26120002976996",
-    "tikName": "Новошахтинская городская"
+    "tikName": "Новошахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1435,
     "uikTvd": "4614035503623",
+    "uikName": "УИК №1435",
     "tikTvd": "26120002976996",
-    "tikName": "Новошахтинская городская"
+    "tikName": "Новошахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1436,
     "uikTvd": "4614035503624",
+    "uikName": "УИК №1436",
     "tikTvd": "26120002976996",
-    "tikName": "Новошахтинская городская"
+    "tikName": "Новошахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1437,
     "uikTvd": "4614034603636",
+    "uikName": "УИК №1437",
     "tikTvd": "26120002976959",
-    "tikName": "Новочеркасская городская"
+    "tikName": "Новочеркасская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1438,
     "uikTvd": "4614035503625",
+    "uikName": "УИК №1438",
     "tikTvd": "26120002976996",
-    "tikName": "Новошахтинская городская"
+    "tikName": "Новошахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1439,
     "uikTvd": "4614035503626",
+    "uikName": "УИК №1439",
     "tikTvd": "26120002976996",
-    "tikName": "Новошахтинская городская"
+    "tikName": "Новошахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1440,
     "uikTvd": "4614035503627",
+    "uikName": "УИК №1440",
     "tikTvd": "26120002976996",
-    "tikName": "Новошахтинская городская"
+    "tikName": "Новошахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1441,
     "uikTvd": "4614035503628",
+    "uikName": "УИК №1441",
     "tikTvd": "26120002976996",
-    "tikName": "Новошахтинская городская"
+    "tikName": "Новошахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1442,
     "uikTvd": "4614035503629",
+    "uikName": "УИК №1442",
     "tikTvd": "26120002976996",
-    "tikName": "Новошахтинская городская"
+    "tikName": "Новошахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1443,
     "uikTvd": "4614035503630",
+    "uikName": "УИК №1443",
     "tikTvd": "26120002976996",
-    "tikName": "Новошахтинская городская"
+    "tikName": "Новошахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1444,
     "uikTvd": "4614035503631",
+    "uikName": "УИК №1444",
     "tikTvd": "26120002976996",
-    "tikName": "Новошахтинская городская"
+    "tikName": "Новошахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1445,
     "uikTvd": "4614035503632",
+    "uikName": "УИК №1445",
     "tikTvd": "26120002976996",
-    "tikName": "Новошахтинская городская"
+    "tikName": "Новошахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1446,
     "uikTvd": "4614035503633",
+    "uikName": "УИК №1446",
     "tikTvd": "26120002976996",
-    "tikName": "Новошахтинская городская"
+    "tikName": "Новошахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1447,
     "uikTvd": "4614035503634",
+    "uikName": "УИК №1447",
     "tikTvd": "26120002976996",
-    "tikName": "Новошахтинская городская"
+    "tikName": "Новошахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1448,
     "uikTvd": "4614035503635",
+    "uikName": "УИК №1448",
     "tikTvd": "26120002976996",
-    "tikName": "Новошахтинская городская"
+    "tikName": "Новошахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1449,
     "uikTvd": "4614035503636",
+    "uikName": "УИК №1449",
     "tikTvd": "26120002976996",
-    "tikName": "Новошахтинская городская"
+    "tikName": "Новошахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1450,
     "uikTvd": "4614035503637",
+    "uikName": "УИК №1450",
     "tikTvd": "26120002976996",
-    "tikName": "Новошахтинская городская"
+    "tikName": "Новошахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1451,
     "uikTvd": "4614035503638",
+    "uikName": "УИК №1451",
     "tikTvd": "26120002976996",
-    "tikName": "Новошахтинская городская"
+    "tikName": "Новошахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1452,
     "uikTvd": "4614035503639",
+    "uikName": "УИК №1452",
     "tikTvd": "26120002976996",
-    "tikName": "Новошахтинская городская"
+    "tikName": "Новошахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1453,
     "uikTvd": "4614035503640",
+    "uikName": "УИК №1453",
     "tikTvd": "26120002976996",
-    "tikName": "Новошахтинская городская"
+    "tikName": "Новошахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1456,
     "uikTvd": "4614035503641",
+    "uikName": "УИК №1456",
     "tikTvd": "26120002976996",
-    "tikName": "Новошахтинская городская"
+    "tikName": "Новошахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1457,
     "uikTvd": "4614035503642",
+    "uikName": "УИК №1457",
     "tikTvd": "26120002976996",
-    "tikName": "Новошахтинская городская"
+    "tikName": "Новошахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1458,
     "uikTvd": "4614035503643",
+    "uikName": "УИК №1458",
     "tikTvd": "26120002976996",
-    "tikName": "Новошахтинская городская"
+    "tikName": "Новошахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1460,
     "uikTvd": "4614035503644",
+    "uikName": "УИК №1460",
     "tikTvd": "26120002976996",
-    "tikName": "Новошахтинская городская"
+    "tikName": "Новошахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1461,
     "uikTvd": "4614035503645",
+    "uikName": "УИК №1461",
     "tikTvd": "26120002976996",
-    "tikName": "Новошахтинская городская"
+    "tikName": "Новошахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1462,
     "uikTvd": "4614035503646",
+    "uikName": "УИК №1462",
     "tikTvd": "26120002976996",
-    "tikName": "Новошахтинская городская"
+    "tikName": "Новошахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1463,
     "uikTvd": "4614035503647",
+    "uikName": "УИК №1463",
     "tikTvd": "26120002976996",
-    "tikName": "Новошахтинская городская"
+    "tikName": "Новошахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1464,
     "uikTvd": "4614035503648",
+    "uikName": "УИК №1464",
     "tikTvd": "26120002976996",
-    "tikName": "Новошахтинская городская"
+    "tikName": "Новошахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1465,
     "uikTvd": "4614035503649",
+    "uikName": "УИК №1465",
     "tikTvd": "26120002976996",
-    "tikName": "Новошахтинская городская"
+    "tikName": "Новошахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1466,
     "uikTvd": "4614035503650",
+    "uikName": "УИК №1466",
     "tikTvd": "26120002976996",
-    "tikName": "Новошахтинская городская"
+    "tikName": "Новошахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1468,
     "uikTvd": "4614035503651",
+    "uikName": "УИК №1468",
     "tikTvd": "26120002976996",
-    "tikName": "Новошахтинская городская"
+    "tikName": "Новошахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1469,
     "uikTvd": "4614035503652",
+    "uikName": "УИК №1469",
     "tikTvd": "26120002976996",
-    "tikName": "Новошахтинская городская"
+    "tikName": "Новошахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1470,
     "uikTvd": "4614035503653",
+    "uikName": "УИК №1470",
     "tikTvd": "26120002976996",
-    "tikName": "Новошахтинская городская"
+    "tikName": "Новошахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1471,
     "uikTvd": "4614035503654",
+    "uikName": "УИК №1471",
     "tikTvd": "26120002976996",
-    "tikName": "Новошахтинская городская"
+    "tikName": "Новошахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1472,
     "uikTvd": "4614035503655",
+    "uikName": "УИК №1472",
     "tikTvd": "26120002976996",
-    "tikName": "Новошахтинская городская"
+    "tikName": "Новошахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1473,
     "uikTvd": "4614035503656",
+    "uikName": "УИК №1473",
     "tikTvd": "26120002976996",
-    "tikName": "Новошахтинская городская"
+    "tikName": "Новошахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1474,
     "uikTvd": "4614035503657",
+    "uikName": "УИК №1474",
     "tikTvd": "26120002976996",
-    "tikName": "Новошахтинская городская"
+    "tikName": "Новошахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1475,
     "uikTvd": "4614035503658",
+    "uikName": "УИК №1475",
     "tikTvd": "26120002976996",
-    "tikName": "Новошахтинская городская"
+    "tikName": "Новошахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1476,
     "uikTvd": "4614035503659",
+    "uikName": "УИК №1476",
     "tikTvd": "26120002976996",
-    "tikName": "Новошахтинская городская"
+    "tikName": "Новошахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1477,
     "uikTvd": "4614035503660",
+    "uikName": "УИК №1477",
     "tikTvd": "26120002976996",
-    "tikName": "Новошахтинская городская"
+    "tikName": "Новошахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1478,
     "uikTvd": "4614035503661",
+    "uikName": "УИК №1478",
     "tikTvd": "26120002976996",
-    "tikName": "Новошахтинская городская"
+    "tikName": "Новошахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1479,
     "uikTvd": "4614035503662",
+    "uikName": "УИК №1479",
     "tikTvd": "26120002976996",
-    "tikName": "Новошахтинская городская"
+    "tikName": "Новошахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1480,
     "uikTvd": "4614035503663",
+    "uikName": "УИК №1480",
     "tikTvd": "26120002976996",
-    "tikName": "Новошахтинская городская"
+    "tikName": "Новошахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1481,
     "uikTvd": "4614036259497",
+    "uikName": "УИК №1481",
     "tikTvd": "26120002976947",
-    "tikName": "Обливская"
+    "tikName": "Обливская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1482,
     "uikTvd": "4614036259498",
+    "uikName": "УИК №1482",
     "tikTvd": "26120002976947",
-    "tikName": "Обливская"
+    "tikName": "Обливская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1483,
     "uikTvd": "4614036259499",
+    "uikName": "УИК №1483",
     "tikTvd": "26120002976947",
-    "tikName": "Обливская"
+    "tikName": "Обливская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1484,
     "uikTvd": "4614036259500",
+    "uikName": "УИК №1484",
     "tikTvd": "26120002976947",
-    "tikName": "Обливская"
+    "tikName": "Обливская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1485,
     "uikTvd": "4614036259501",
+    "uikName": "УИК №1485",
     "tikTvd": "26120002976947",
-    "tikName": "Обливская"
+    "tikName": "Обливская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1486,
     "uikTvd": "4614036259502",
+    "uikName": "УИК №1486",
     "tikTvd": "26120002976947",
-    "tikName": "Обливская"
+    "tikName": "Обливская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1487,
     "uikTvd": "4614036259503",
+    "uikName": "УИК №1487",
     "tikTvd": "26120002976947",
-    "tikName": "Обливская"
+    "tikName": "Обливская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1488,
     "uikTvd": "4614036259504",
+    "uikName": "УИК №1488",
     "tikTvd": "26120002976947",
-    "tikName": "Обливская"
+    "tikName": "Обливская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1489,
     "uikTvd": "4614036259505",
+    "uikName": "УИК №1489",
     "tikTvd": "26120002976947",
-    "tikName": "Обливская"
+    "tikName": "Обливская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1490,
     "uikTvd": "4614036259506",
+    "uikName": "УИК №1490",
     "tikTvd": "26120002976947",
-    "tikName": "Обливская"
+    "tikName": "Обливская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1491,
     "uikTvd": "4614036259507",
+    "uikName": "УИК №1491",
     "tikTvd": "26120002976947",
-    "tikName": "Обливская"
+    "tikName": "Обливская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1494,
     "uikTvd": "4614036259508",
+    "uikName": "УИК №1494",
     "tikTvd": "26120002976947",
-    "tikName": "Обливская"
+    "tikName": "Обливская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1495,
     "uikTvd": "4614036259509",
+    "uikName": "УИК №1495",
     "tikTvd": "26120002976947",
-    "tikName": "Обливская"
+    "tikName": "Обливская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1496,
     "uikTvd": "4614036259510",
+    "uikName": "УИК №1496",
     "tikTvd": "26120002976947",
-    "tikName": "Обливская"
+    "tikName": "Обливская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1497,
     "uikTvd": "4614036259511",
+    "uikName": "УИК №1497",
     "tikTvd": "26120002976947",
-    "tikName": "Обливская"
+    "tikName": "Обливская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1498,
     "uikTvd": "4614036259512",
+    "uikName": "УИК №1498",
     "tikTvd": "26120002976947",
-    "tikName": "Обливская"
+    "tikName": "Обливская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1499,
     "uikTvd": "4614036259513",
+    "uikName": "УИК №1499",
     "tikTvd": "26120002976947",
-    "tikName": "Обливская"
+    "tikName": "Обливская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1500,
     "uikTvd": "4614036259514",
+    "uikName": "УИК №1500",
     "tikTvd": "26120002976947",
-    "tikName": "Обливская"
+    "tikName": "Обливская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1501,
     "uikTvd": "4614036259515",
+    "uikName": "УИК №1501",
     "tikTvd": "26120002976947",
-    "tikName": "Обливская"
+    "tikName": "Обливская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1502,
     "uikTvd": "4614036259516",
+    "uikName": "УИК №1502",
     "tikTvd": "26120002976947",
-    "tikName": "Обливская"
+    "tikName": "Обливская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1503,
     "uikTvd": "4614036259517",
+    "uikName": "УИК №1503",
     "tikTvd": "26120002976947",
-    "tikName": "Обливская"
+    "tikName": "Обливская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1504,
     "uikTvd": "4614037452650",
+    "uikName": "УИК №1504",
     "tikTvd": "26120002976977",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1505,
     "uikTvd": "4614037452652",
+    "uikName": "УИК №1505",
     "tikTvd": "26120002976977",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1506,
     "uikTvd": "4614037452653",
+    "uikName": "УИК №1506",
     "tikTvd": "26120002976977",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1507,
     "uikTvd": "4614037452654",
+    "uikName": "УИК №1507",
     "tikTvd": "26120002976977",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1508,
     "uikTvd": "4614037452655",
+    "uikName": "УИК №1508",
     "tikTvd": "26120002976977",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1509,
     "uikTvd": "4614037452656",
+    "uikName": "УИК №1509",
     "tikTvd": "26120002976977",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1510,
     "uikTvd": "4614037452657",
+    "uikName": "УИК №1510",
     "tikTvd": "26120002976977",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1511,
     "uikTvd": "4614037452658",
+    "uikName": "УИК №1511",
     "tikTvd": "26120002976977",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1512,
     "uikTvd": "4614037452659",
+    "uikName": "УИК №1512",
     "tikTvd": "26120002976977",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1513,
     "uikTvd": "4614037452660",
+    "uikName": "УИК №1513",
     "tikTvd": "26120002976977",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1514,
     "uikTvd": "4614037452661",
+    "uikName": "УИК №1514",
     "tikTvd": "26120002976977",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1515,
     "uikTvd": "4614037452662",
+    "uikName": "УИК №1515",
     "tikTvd": "26120002976977",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1516,
     "uikTvd": "4614037452663",
+    "uikName": "УИК №1516",
     "tikTvd": "26120002976977",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1517,
     "uikTvd": "4614037452664",
+    "uikName": "УИК №1517",
     "tikTvd": "26120002976977",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1518,
     "uikTvd": "4614037452665",
+    "uikName": "УИК №1518",
     "tikTvd": "26120002976977",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1519,
     "uikTvd": "4614037452666",
+    "uikName": "УИК №1519",
     "tikTvd": "26120002976977",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1520,
     "uikTvd": "4614037452667",
+    "uikName": "УИК №1520",
     "tikTvd": "26120002976977",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1521,
     "uikTvd": "4614037452668",
+    "uikName": "УИК №1521",
     "tikTvd": "26120002976977",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1522,
     "uikTvd": "4614037452669",
+    "uikName": "УИК №1522",
     "tikTvd": "26120002976977",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1523,
     "uikTvd": "4614037452670",
+    "uikName": "УИК №1523",
     "tikTvd": "26120002976977",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1524,
     "uikTvd": "4614037452671",
+    "uikName": "УИК №1524",
     "tikTvd": "26120002976977",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1525,
     "uikTvd": "4614037452672",
+    "uikName": "УИК №1525",
     "tikTvd": "26120002976977",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1526,
     "uikTvd": "4614037452673",
+    "uikName": "УИК №1526",
     "tikTvd": "26120002976977",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1527,
     "uikTvd": "4614037452674",
+    "uikName": "УИК №1527",
     "tikTvd": "26120002976977",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1528,
     "uikTvd": "4614037452675",
+    "uikName": "УИК №1528",
     "tikTvd": "26120002976977",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1529,
     "uikTvd": "4614037452676",
+    "uikName": "УИК №1529",
     "tikTvd": "26120002976977",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1530,
     "uikTvd": "4614037452677",
+    "uikName": "УИК №1530",
     "tikTvd": "26120002976977",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1531,
     "uikTvd": "4614037452678",
+    "uikName": "УИК №1531",
     "tikTvd": "26120002976977",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1532,
     "uikTvd": "4614037452679",
+    "uikName": "УИК №1532",
     "tikTvd": "26120002976977",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1533,
     "uikTvd": "4614037452680",
+    "uikName": "УИК №1533",
     "tikTvd": "26120002976977",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1534,
     "uikTvd": "4614037452681",
+    "uikName": "УИК №1534",
     "tikTvd": "26120002976977",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1535,
     "uikTvd": "4614037452682",
+    "uikName": "УИК №1535",
     "tikTvd": "26120002976977",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1536,
     "uikTvd": "4614037452683",
+    "uikName": "УИК №1536",
     "tikTvd": "26120002976977",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1537,
     "uikTvd": "4614037452684",
+    "uikName": "УИК №1537",
     "tikTvd": "26120002976977",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1538,
     "uikTvd": "4614037452685",
+    "uikName": "УИК №1538",
     "tikTvd": "26120002976977",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1539,
     "uikTvd": "4614037452686",
+    "uikName": "УИК №1539",
     "tikTvd": "26120002976977",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1540,
     "uikTvd": "4614037452687",
+    "uikName": "УИК №1540",
     "tikTvd": "26120002976977",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1541,
     "uikTvd": "4614037452688",
+    "uikName": "УИК №1541",
     "tikTvd": "26120002976977",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1542,
     "uikTvd": "4614037452689",
+    "uikName": "УИК №1542",
     "tikTvd": "26120002976977",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1543,
     "uikTvd": "4614037452690",
+    "uikName": "УИК №1543",
     "tikTvd": "26120002976977",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1544,
     "uikTvd": "4614037452691",
+    "uikName": "УИК №1544",
     "tikTvd": "26120002976977",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1545,
     "uikTvd": "4614037452692",
+    "uikName": "УИК №1545",
     "tikTvd": "26120002976977",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1546,
     "uikTvd": "4614037452693",
+    "uikName": "УИК №1546",
     "tikTvd": "26120002976977",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1547,
     "uikTvd": "4614037452694",
+    "uikName": "УИК №1547",
     "tikTvd": "26120002976977",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1548,
     "uikTvd": "4614037452695",
+    "uikName": "УИК №1548",
     "tikTvd": "26120002976977",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1549,
     "uikTvd": "4614037452696",
+    "uikName": "УИК №1549",
     "tikTvd": "26120002976977",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1550,
     "uikTvd": "4614037452697",
+    "uikName": "УИК №1550",
     "tikTvd": "26120002976977",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1551,
     "uikTvd": "4614037452698",
+    "uikName": "УИК №1551",
     "tikTvd": "26120002976977",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1552,
     "uikTvd": "4614037452699",
+    "uikName": "УИК №1552",
     "tikTvd": "26120002976977",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1553,
     "uikTvd": "46140381438727",
+    "uikName": "УИК №1553",
     "tikTvd": "26120002976992",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1555,
     "uikTvd": "4614037452700",
+    "uikName": "УИК №1555",
     "tikTvd": "26120002976977",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1556,
     "uikTvd": "4614037452701",
+    "uikName": "УИК №1556",
     "tikTvd": "26120002976977",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1557,
     "uikTvd": "46140381438728",
+    "uikName": "УИК №1557",
     "tikTvd": "26120002976992",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1558,
     "uikTvd": "46140381438729",
+    "uikName": "УИК №1558",
     "tikTvd": "26120002976992",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1560,
     "uikTvd": "46140381438730",
+    "uikName": "УИК №1560",
     "tikTvd": "26120002976992",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1562,
     "uikTvd": "46140381438731",
+    "uikName": "УИК №1562",
     "tikTvd": "26120002976992",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1563,
     "uikTvd": "46140381438732",
+    "uikName": "УИК №1563",
     "tikTvd": "26120002976992",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1564,
     "uikTvd": "4614037452702",
+    "uikName": "УИК №1564",
     "tikTvd": "26120002976977",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1565,
     "uikTvd": "46140381438733",
+    "uikName": "УИК №1565",
     "tikTvd": "26120002976992",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1566,
     "uikTvd": "46140381438734",
+    "uikName": "УИК №1566",
     "tikTvd": "26120002976992",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1567,
     "uikTvd": "46140381438735",
+    "uikName": "УИК №1567",
     "tikTvd": "26120002976992",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1569,
     "uikTvd": "46140381438736",
+    "uikName": "УИК №1569",
     "tikTvd": "26120002976992",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1571,
     "uikTvd": "46140381438737",
+    "uikName": "УИК №1571",
     "tikTvd": "26120002976992",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1574,
     "uikTvd": "46140381438738",
+    "uikName": "УИК №1574",
     "tikTvd": "26120002976992",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1575,
     "uikTvd": "46140381438739",
+    "uikName": "УИК №1575",
     "tikTvd": "26120002976992",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1576,
     "uikTvd": "46140381438740",
+    "uikName": "УИК №1576",
     "tikTvd": "26120002976992",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1577,
     "uikTvd": "46140381438741",
+    "uikName": "УИК №1577",
     "tikTvd": "26120002976992",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1578,
     "uikTvd": "46140381438742",
+    "uikName": "УИК №1578",
     "tikTvd": "26120002976992",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1580,
     "uikTvd": "46140381438743",
+    "uikName": "УИК №1580",
     "tikTvd": "26120002976992",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1581,
     "uikTvd": "46140381438744",
+    "uikName": "УИК №1581",
     "tikTvd": "26120002976992",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1582,
     "uikTvd": "46140381438745",
+    "uikName": "УИК №1582",
     "tikTvd": "26120002976992",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1583,
     "uikTvd": "46140381438746",
+    "uikName": "УИК №1583",
     "tikTvd": "26120002976992",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1584,
     "uikTvd": "46140381438747",
+    "uikName": "УИК №1584",
     "tikTvd": "26120002976992",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1585,
     "uikTvd": "46140381438748",
+    "uikName": "УИК №1585",
     "tikTvd": "26120002976992",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1586,
     "uikTvd": "46140381438749",
+    "uikName": "УИК №1586",
     "tikTvd": "26120002976992",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1587,
     "uikTvd": "46140381438750",
+    "uikName": "УИК №1587",
     "tikTvd": "26120002976992",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1588,
     "uikTvd": "46140381438751",
+    "uikName": "УИК №1588",
     "tikTvd": "26120002976992",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1589,
     "uikTvd": "46140381438752",
+    "uikName": "УИК №1589",
     "tikTvd": "26120002976992",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1590,
     "uikTvd": "46140381438753",
+    "uikName": "УИК №1590",
     "tikTvd": "26120002976992",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1591,
     "uikTvd": "46140381438754",
+    "uikName": "УИК №1591",
     "tikTvd": "26120002976992",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1592,
     "uikTvd": "4614044363381",
+    "uikName": "УИК №1592",
     "tikTvd": "26120002976934",
-    "tikName": "Ростов-на-Дону, Железнодорожная"
+    "tikName": "Ростов-на-Дону, Железнодорожная",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1594,
     "uikTvd": "46140381438755",
+    "uikName": "УИК №1594",
     "tikTvd": "26120002976992",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1595,
     "uikTvd": "46140381438756",
+    "uikName": "УИК №1595",
     "tikTvd": "26120002976992",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1596,
     "uikTvd": "46140381438757",
+    "uikName": "УИК №1596",
     "tikTvd": "26120002976992",
-    "tikName": "Орловская"
+    "tikName": "Орловская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1597,
     "uikTvd": "4614039369996",
+    "uikName": "УИК №1597",
     "tikTvd": "26120002976954",
-    "tikName": "Песчанокопская"
+    "tikName": "Песчанокопская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1598,
     "uikTvd": "4614039369997",
+    "uikName": "УИК №1598",
     "tikTvd": "26120002976954",
-    "tikName": "Песчанокопская"
+    "tikName": "Песчанокопская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1599,
     "uikTvd": "4614039369998",
+    "uikName": "УИК №1599",
     "tikTvd": "26120002976954",
-    "tikName": "Песчанокопская"
+    "tikName": "Песчанокопская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1600,
     "uikTvd": "4614039369999",
+    "uikName": "УИК №1600",
     "tikTvd": "26120002976954",
-    "tikName": "Песчанокопская"
+    "tikName": "Песчанокопская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1601,
     "uikTvd": "4614039370000",
+    "uikName": "УИК №1601",
     "tikTvd": "26120002976954",
-    "tikName": "Песчанокопская"
+    "tikName": "Песчанокопская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1602,
     "uikTvd": "4614039370001",
+    "uikName": "УИК №1602",
     "tikTvd": "26120002976954",
-    "tikName": "Песчанокопская"
+    "tikName": "Песчанокопская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1604,
     "uikTvd": "4614039370002",
+    "uikName": "УИК №1604",
     "tikTvd": "26120002976954",
-    "tikName": "Песчанокопская"
+    "tikName": "Песчанокопская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1605,
     "uikTvd": "4614039370003",
+    "uikName": "УИК №1605",
     "tikTvd": "26120002976954",
-    "tikName": "Песчанокопская"
+    "tikName": "Песчанокопская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1607,
     "uikTvd": "4614039370004",
+    "uikName": "УИК №1607",
     "tikTvd": "26120002976954",
-    "tikName": "Песчанокопская"
+    "tikName": "Песчанокопская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1608,
     "uikTvd": "4614039370005",
+    "uikName": "УИК №1608",
     "tikTvd": "26120002976954",
-    "tikName": "Песчанокопская"
+    "tikName": "Песчанокопская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1610,
     "uikTvd": "4614039370006",
+    "uikName": "УИК №1610",
     "tikTvd": "26120002976954",
-    "tikName": "Песчанокопская"
+    "tikName": "Песчанокопская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1611,
     "uikTvd": "4614039370007",
+    "uikName": "УИК №1611",
     "tikTvd": "26120002976954",
-    "tikName": "Песчанокопская"
+    "tikName": "Песчанокопская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1612,
     "uikTvd": "4614039370008",
+    "uikName": "УИК №1612",
     "tikTvd": "26120002976954",
-    "tikName": "Песчанокопская"
+    "tikName": "Песчанокопская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1614,
     "uikTvd": "4614039370009",
+    "uikName": "УИК №1614",
     "tikTvd": "26120002976954",
-    "tikName": "Песчанокопская"
+    "tikName": "Песчанокопская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1615,
     "uikTvd": "4614039370010",
+    "uikName": "УИК №1615",
     "tikTvd": "26120002976954",
-    "tikName": "Песчанокопская"
+    "tikName": "Песчанокопская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1616,
     "uikTvd": "4614039370011",
+    "uikName": "УИК №1616",
     "tikTvd": "26120002976954",
-    "tikName": "Песчанокопская"
+    "tikName": "Песчанокопская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1617,
     "uikTvd": "4614039370012",
+    "uikName": "УИК №1617",
     "tikTvd": "26120002976954",
-    "tikName": "Песчанокопская"
+    "tikName": "Песчанокопская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1618,
     "uikTvd": "4614040370762",
+    "uikName": "УИК №1618",
     "tikTvd": "26120002976995",
-    "tikName": "Пролетарская"
+    "tikName": "Пролетарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1619,
     "uikTvd": "4614040370763",
+    "uikName": "УИК №1619",
     "tikTvd": "26120002976995",
-    "tikName": "Пролетарская"
+    "tikName": "Пролетарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1620,
     "uikTvd": "4614040370764",
+    "uikName": "УИК №1620",
     "tikTvd": "26120002976995",
-    "tikName": "Пролетарская"
+    "tikName": "Пролетарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1621,
     "uikTvd": "4614040370765",
+    "uikName": "УИК №1621",
     "tikTvd": "26120002976995",
-    "tikName": "Пролетарская"
+    "tikName": "Пролетарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1622,
     "uikTvd": "4614040370766",
+    "uikName": "УИК №1622",
     "tikTvd": "26120002976995",
-    "tikName": "Пролетарская"
+    "tikName": "Пролетарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1623,
     "uikTvd": "4614040370767",
+    "uikName": "УИК №1623",
     "tikTvd": "26120002976995",
-    "tikName": "Пролетарская"
+    "tikName": "Пролетарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1624,
     "uikTvd": "4614040370768",
+    "uikName": "УИК №1624",
     "tikTvd": "26120002976995",
-    "tikName": "Пролетарская"
+    "tikName": "Пролетарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1625,
     "uikTvd": "4614040370769",
+    "uikName": "УИК №1625",
     "tikTvd": "26120002976995",
-    "tikName": "Пролетарская"
+    "tikName": "Пролетарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1626,
     "uikTvd": "4614040370770",
+    "uikName": "УИК №1626",
     "tikTvd": "26120002976995",
-    "tikName": "Пролетарская"
+    "tikName": "Пролетарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1627,
     "uikTvd": "4614040370771",
+    "uikName": "УИК №1627",
     "tikTvd": "26120002976995",
-    "tikName": "Пролетарская"
+    "tikName": "Пролетарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1628,
     "uikTvd": "4614040370772",
+    "uikName": "УИК №1628",
     "tikTvd": "26120002976995",
-    "tikName": "Пролетарская"
+    "tikName": "Пролетарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1629,
     "uikTvd": "4614040370773",
+    "uikName": "УИК №1629",
     "tikTvd": "26120002976995",
-    "tikName": "Пролетарская"
+    "tikName": "Пролетарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1630,
     "uikTvd": "4614040370774",
+    "uikName": "УИК №1630",
     "tikTvd": "26120002976995",
-    "tikName": "Пролетарская"
+    "tikName": "Пролетарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1631,
     "uikTvd": "4614040370775",
+    "uikName": "УИК №1631",
     "tikTvd": "26120002976995",
-    "tikName": "Пролетарская"
+    "tikName": "Пролетарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1632,
     "uikTvd": "4614040370776",
+    "uikName": "УИК №1632",
     "tikTvd": "26120002976995",
-    "tikName": "Пролетарская"
+    "tikName": "Пролетарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1633,
     "uikTvd": "4614040370777",
+    "uikName": "УИК №1633",
     "tikTvd": "26120002976995",
-    "tikName": "Пролетарская"
+    "tikName": "Пролетарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1634,
     "uikTvd": "4614040370778",
+    "uikName": "УИК №1634",
     "tikTvd": "26120002976995",
-    "tikName": "Пролетарская"
+    "tikName": "Пролетарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1635,
     "uikTvd": "4614040370779",
+    "uikName": "УИК №1635",
     "tikTvd": "26120002976995",
-    "tikName": "Пролетарская"
+    "tikName": "Пролетарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1636,
     "uikTvd": "4614040370780",
+    "uikName": "УИК №1636",
     "tikTvd": "26120002976995",
-    "tikName": "Пролетарская"
+    "tikName": "Пролетарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1637,
     "uikTvd": "4614040370781",
+    "uikName": "УИК №1637",
     "tikTvd": "26120002976995",
-    "tikName": "Пролетарская"
+    "tikName": "Пролетарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1638,
     "uikTvd": "4614040370782",
+    "uikName": "УИК №1638",
     "tikTvd": "26120002976995",
-    "tikName": "Пролетарская"
+    "tikName": "Пролетарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1639,
     "uikTvd": "4614040370783",
+    "uikName": "УИК №1639",
     "tikTvd": "26120002976995",
-    "tikName": "Пролетарская"
+    "tikName": "Пролетарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1640,
     "uikTvd": "4614041442898",
+    "uikName": "УИК №1640",
     "tikTvd": "26120002976935",
-    "tikName": "Ремонтненская"
+    "tikName": "Ремонтненская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1641,
     "uikTvd": "4614041442899",
+    "uikName": "УИК №1641",
     "tikTvd": "26120002976935",
-    "tikName": "Ремонтненская"
+    "tikName": "Ремонтненская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1642,
     "uikTvd": "4614041442900",
+    "uikName": "УИК №1642",
     "tikTvd": "26120002976935",
-    "tikName": "Ремонтненская"
+    "tikName": "Ремонтненская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1643,
     "uikTvd": "4614041442901",
+    "uikName": "УИК №1643",
     "tikTvd": "26120002976935",
-    "tikName": "Ремонтненская"
+    "tikName": "Ремонтненская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1644,
     "uikTvd": "4614041442902",
+    "uikName": "УИК №1644",
     "tikTvd": "26120002976935",
-    "tikName": "Ремонтненская"
+    "tikName": "Ремонтненская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1645,
     "uikTvd": "4614041442903",
+    "uikName": "УИК №1645",
     "tikTvd": "26120002976935",
-    "tikName": "Ремонтненская"
+    "tikName": "Ремонтненская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1646,
     "uikTvd": "4614041442904",
+    "uikName": "УИК №1646",
     "tikTvd": "26120002976935",
-    "tikName": "Ремонтненская"
+    "tikName": "Ремонтненская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1647,
     "uikTvd": "4614041442905",
+    "uikName": "УИК №1647",
     "tikTvd": "26120002976935",
-    "tikName": "Ремонтненская"
+    "tikName": "Ремонтненская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1648,
     "uikTvd": "4614041442906",
+    "uikName": "УИК №1648",
     "tikTvd": "26120002976935",
-    "tikName": "Ремонтненская"
+    "tikName": "Ремонтненская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1649,
     "uikTvd": "4614041442907",
+    "uikName": "УИК №1649",
     "tikTvd": "26120002976935",
-    "tikName": "Ремонтненская"
+    "tikName": "Ремонтненская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1650,
     "uikTvd": "4614041442908",
+    "uikName": "УИК №1650",
     "tikTvd": "26120002976935",
-    "tikName": "Ремонтненская"
+    "tikName": "Ремонтненская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1651,
     "uikTvd": "4614041442909",
+    "uikName": "УИК №1651",
     "tikTvd": "26120002976935",
-    "tikName": "Ремонтненская"
+    "tikName": "Ремонтненская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1652,
     "uikTvd": "4614041442910",
+    "uikName": "УИК №1652",
     "tikTvd": "26120002976935",
-    "tikName": "Ремонтненская"
+    "tikName": "Ремонтненская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1653,
     "uikTvd": "4614041442911",
+    "uikName": "УИК №1653",
     "tikTvd": "26120002976935",
-    "tikName": "Ремонтненская"
+    "tikName": "Ремонтненская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1654,
     "uikTvd": "4614041442912",
+    "uikName": "УИК №1654",
     "tikTvd": "26120002976935",
-    "tikName": "Ремонтненская"
+    "tikName": "Ремонтненская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1655,
     "uikTvd": "4614041442913",
+    "uikName": "УИК №1655",
     "tikTvd": "26120002976935",
-    "tikName": "Ремонтненская"
+    "tikName": "Ремонтненская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1656,
     "uikTvd": "4614041442914",
+    "uikName": "УИК №1656",
     "tikTvd": "26120002976935",
-    "tikName": "Ремонтненская"
+    "tikName": "Ремонтненская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1657,
     "uikTvd": "4614042298246",
+    "uikName": "УИК №1657",
     "tikTvd": "26120002976945",
-    "tikName": "Родионово-Несветайская"
+    "tikName": "Родионово-Несветайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1658,
     "uikTvd": "4614042298247",
+    "uikName": "УИК №1658",
     "tikTvd": "26120002976945",
-    "tikName": "Родионово-Несветайская"
+    "tikName": "Родионово-Несветайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1659,
     "uikTvd": "4614042298248",
+    "uikName": "УИК №1659",
     "tikTvd": "26120002976945",
-    "tikName": "Родионово-Несветайская"
+    "tikName": "Родионово-Несветайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1660,
     "uikTvd": "4614042298249",
+    "uikName": "УИК №1660",
     "tikTvd": "26120002976945",
-    "tikName": "Родионово-Несветайская"
+    "tikName": "Родионово-Несветайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1661,
     "uikTvd": "4614042298250",
+    "uikName": "УИК №1661",
     "tikTvd": "26120002976945",
-    "tikName": "Родионово-Несветайская"
+    "tikName": "Родионово-Несветайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1662,
     "uikTvd": "4614042298251",
+    "uikName": "УИК №1662",
     "tikTvd": "26120002976945",
-    "tikName": "Родионово-Несветайская"
+    "tikName": "Родионово-Несветайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1663,
     "uikTvd": "4614042298252",
+    "uikName": "УИК №1663",
     "tikTvd": "26120002976945",
-    "tikName": "Родионово-Несветайская"
+    "tikName": "Родионово-Несветайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1664,
     "uikTvd": "4614042298253",
+    "uikName": "УИК №1664",
     "tikTvd": "26120002976945",
-    "tikName": "Родионово-Несветайская"
+    "tikName": "Родионово-Несветайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1665,
     "uikTvd": "4614042298254",
+    "uikName": "УИК №1665",
     "tikTvd": "26120002976945",
-    "tikName": "Родионово-Несветайская"
+    "tikName": "Родионово-Несветайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1666,
     "uikTvd": "4614042298255",
+    "uikName": "УИК №1666",
     "tikTvd": "26120002976945",
-    "tikName": "Родионово-Несветайская"
+    "tikName": "Родионово-Несветайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1667,
     "uikTvd": "4614042298256",
+    "uikName": "УИК №1667",
     "tikTvd": "26120002976945",
-    "tikName": "Родионово-Несветайская"
+    "tikName": "Родионово-Несветайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1668,
     "uikTvd": "4614042298257",
+    "uikName": "УИК №1668",
     "tikTvd": "26120002976945",
-    "tikName": "Родионово-Несветайская"
+    "tikName": "Родионово-Несветайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1669,
     "uikTvd": "4614042298258",
+    "uikName": "УИК №1669",
     "tikTvd": "26120002976945",
-    "tikName": "Родионово-Несветайская"
+    "tikName": "Родионово-Несветайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1670,
     "uikTvd": "4614042298259",
+    "uikName": "УИК №1670",
     "tikTvd": "26120002976945",
-    "tikName": "Родионово-Несветайская"
+    "tikName": "Родионово-Несветайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1671,
     "uikTvd": "4614042298260",
+    "uikName": "УИК №1671",
     "tikTvd": "26120002976945",
-    "tikName": "Родионово-Несветайская"
+    "tikName": "Родионово-Несветайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1672,
     "uikTvd": "4614042298261",
+    "uikName": "УИК №1672",
     "tikTvd": "26120002976945",
-    "tikName": "Родионово-Несветайская"
+    "tikName": "Родионово-Несветайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1673,
     "uikTvd": "4614042298262",
+    "uikName": "УИК №1673",
     "tikTvd": "26120002976945",
-    "tikName": "Родионово-Несветайская"
+    "tikName": "Родионово-Несветайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1674,
     "uikTvd": "4614042298263",
+    "uikName": "УИК №1674",
     "tikTvd": "26120002976945",
-    "tikName": "Родионово-Несветайская"
+    "tikName": "Родионово-Несветайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1675,
     "uikTvd": "4614042298264",
+    "uikName": "УИК №1675",
     "tikTvd": "26120002976945",
-    "tikName": "Родионово-Несветайская"
+    "tikName": "Родионово-Несветайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1676,
     "uikTvd": "4614042298265",
+    "uikName": "УИК №1676",
     "tikTvd": "26120002976945",
-    "tikName": "Родионово-Несветайская"
+    "tikName": "Родионово-Несветайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1677,
     "uikTvd": "4614042298266",
+    "uikName": "УИК №1677",
     "tikTvd": "26120002976945",
-    "tikName": "Родионово-Несветайская"
+    "tikName": "Родионово-Несветайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1678,
     "uikTvd": "4614042298267",
+    "uikName": "УИК №1678",
     "tikTvd": "26120002976945",
-    "tikName": "Родионово-Несветайская"
+    "tikName": "Родионово-Несветайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1679,
     "uikTvd": "4614042298268",
+    "uikName": "УИК №1679",
     "tikTvd": "26120002976945",
-    "tikName": "Родионово-Несветайская"
+    "tikName": "Родионово-Несветайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1680,
     "uikTvd": "4614042298269",
+    "uikName": "УИК №1680",
     "tikTvd": "26120002976945",
-    "tikName": "Родионово-Несветайская"
+    "tikName": "Родионово-Несветайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1681,
     "uikTvd": "46140431256812",
+    "uikName": "УИК №1681",
     "tikTvd": "26120002976994",
-    "tikName": "Ростов-на-Дону, Ворошиловская"
+    "tikName": "Ростов-на-Дону, Ворошиловская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1682,
     "uikTvd": "46140431256813",
+    "uikName": "УИК №1682",
     "tikTvd": "26120002976994",
-    "tikName": "Ростов-на-Дону, Ворошиловская"
+    "tikName": "Ростов-на-Дону, Ворошиловская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1683,
     "uikTvd": "46140431256814",
+    "uikName": "УИК №1683",
     "tikTvd": "26120002976994",
-    "tikName": "Ростов-на-Дону, Ворошиловская"
+    "tikName": "Ростов-на-Дону, Ворошиловская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1684,
     "uikTvd": "46140431256815",
+    "uikName": "УИК №1684",
     "tikTvd": "26120002976994",
-    "tikName": "Ростов-на-Дону, Ворошиловская"
+    "tikName": "Ростов-на-Дону, Ворошиловская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1685,
     "uikTvd": "46140431256816",
+    "uikName": "УИК №1685",
     "tikTvd": "26120002976994",
-    "tikName": "Ростов-на-Дону, Ворошиловская"
+    "tikName": "Ростов-на-Дону, Ворошиловская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1686,
     "uikTvd": "46140431256817",
+    "uikName": "УИК №1686",
     "tikTvd": "26120002976994",
-    "tikName": "Ростов-на-Дону, Ворошиловская"
+    "tikName": "Ростов-на-Дону, Ворошиловская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1687,
     "uikTvd": "46140431256818",
+    "uikName": "УИК №1687",
     "tikTvd": "26120002976994",
-    "tikName": "Ростов-на-Дону, Ворошиловская"
+    "tikName": "Ростов-на-Дону, Ворошиловская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1688,
     "uikTvd": "46140431256819",
+    "uikName": "УИК №1688",
     "tikTvd": "26120002976994",
-    "tikName": "Ростов-на-Дону, Ворошиловская"
+    "tikName": "Ростов-на-Дону, Ворошиловская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1689,
     "uikTvd": "46140431256820",
+    "uikName": "УИК №1689",
     "tikTvd": "26120002976994",
-    "tikName": "Ростов-на-Дону, Ворошиловская"
+    "tikName": "Ростов-на-Дону, Ворошиловская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1690,
     "uikTvd": "46140431256821",
+    "uikName": "УИК №1690",
     "tikTvd": "26120002976994",
-    "tikName": "Ростов-на-Дону, Ворошиловская"
+    "tikName": "Ростов-на-Дону, Ворошиловская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1691,
     "uikTvd": "46140431256822",
+    "uikName": "УИК №1691",
     "tikTvd": "26120002976994",
-    "tikName": "Ростов-на-Дону, Ворошиловская"
+    "tikName": "Ростов-на-Дону, Ворошиловская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1692,
     "uikTvd": "46140431256823",
+    "uikName": "УИК №1692",
     "tikTvd": "26120002976994",
-    "tikName": "Ростов-на-Дону, Ворошиловская"
+    "tikName": "Ростов-на-Дону, Ворошиловская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1693,
     "uikTvd": "46140431256824",
+    "uikName": "УИК №1693",
     "tikTvd": "26120002976994",
-    "tikName": "Ростов-на-Дону, Ворошиловская"
+    "tikName": "Ростов-на-Дону, Ворошиловская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1694,
     "uikTvd": "46140431256825",
+    "uikName": "УИК №1694",
     "tikTvd": "26120002976994",
-    "tikName": "Ростов-на-Дону, Ворошиловская"
+    "tikName": "Ростов-на-Дону, Ворошиловская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1695,
     "uikTvd": "46140431256826",
+    "uikName": "УИК №1695",
     "tikTvd": "26120002976994",
-    "tikName": "Ростов-на-Дону, Ворошиловская"
+    "tikName": "Ростов-на-Дону, Ворошиловская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1696,
     "uikTvd": "46140431256827",
+    "uikName": "УИК №1696",
     "tikTvd": "26120002976994",
-    "tikName": "Ростов-на-Дону, Ворошиловская"
+    "tikName": "Ростов-на-Дону, Ворошиловская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1697,
     "uikTvd": "46140431256828",
+    "uikName": "УИК №1697",
     "tikTvd": "26120002976994",
-    "tikName": "Ростов-на-Дону, Ворошиловская"
+    "tikName": "Ростов-на-Дону, Ворошиловская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1698,
     "uikTvd": "46140431256829",
+    "uikName": "УИК №1698",
     "tikTvd": "26120002976994",
-    "tikName": "Ростов-на-Дону, Ворошиловская"
+    "tikName": "Ростов-на-Дону, Ворошиловская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1699,
     "uikTvd": "46140431256830",
+    "uikName": "УИК №1699",
     "tikTvd": "26120002976994",
-    "tikName": "Ростов-на-Дону, Ворошиловская"
+    "tikName": "Ростов-на-Дону, Ворошиловская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1700,
     "uikTvd": "46140431256831",
+    "uikName": "УИК №1700",
     "tikTvd": "26120002976994",
-    "tikName": "Ростов-на-Дону, Ворошиловская"
+    "tikName": "Ростов-на-Дону, Ворошиловская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1701,
     "uikTvd": "46140431256832",
+    "uikName": "УИК №1701",
     "tikTvd": "26120002976994",
-    "tikName": "Ростов-на-Дону, Ворошиловская"
+    "tikName": "Ростов-на-Дону, Ворошиловская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1702,
     "uikTvd": "46140431256833",
+    "uikName": "УИК №1702",
     "tikTvd": "26120002976994",
-    "tikName": "Ростов-на-Дону, Ворошиловская"
+    "tikName": "Ростов-на-Дону, Ворошиловская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1703,
     "uikTvd": "46140431256834",
+    "uikName": "УИК №1703",
     "tikTvd": "26120002976994",
-    "tikName": "Ростов-на-Дону, Ворошиловская"
+    "tikName": "Ростов-на-Дону, Ворошиловская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1704,
     "uikTvd": "46140431256835",
+    "uikName": "УИК №1704",
     "tikTvd": "26120002976994",
-    "tikName": "Ростов-на-Дону, Ворошиловская"
+    "tikName": "Ростов-на-Дону, Ворошиловская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1705,
     "uikTvd": "46140431256836",
+    "uikName": "УИК №1705",
     "tikTvd": "26120002976994",
-    "tikName": "Ростов-на-Дону, Ворошиловская"
+    "tikName": "Ростов-на-Дону, Ворошиловская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1706,
     "uikTvd": "46140431256837",
+    "uikName": "УИК №1706",
     "tikTvd": "26120002976994",
-    "tikName": "Ростов-на-Дону, Ворошиловская"
+    "tikName": "Ростов-на-Дону, Ворошиловская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1707,
     "uikTvd": "46140431256838",
+    "uikName": "УИК №1707",
     "tikTvd": "26120002976994",
-    "tikName": "Ростов-на-Дону, Ворошиловская"
+    "tikName": "Ростов-на-Дону, Ворошиловская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1708,
     "uikTvd": "46140431256839",
+    "uikName": "УИК №1708",
     "tikTvd": "26120002976994",
-    "tikName": "Ростов-на-Дону, Ворошиловская"
+    "tikName": "Ростов-на-Дону, Ворошиловская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1709,
     "uikTvd": "46140431256840",
+    "uikName": "УИК №1709",
     "tikTvd": "26120002976994",
-    "tikName": "Ростов-на-Дону, Ворошиловская"
+    "tikName": "Ростов-на-Дону, Ворошиловская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1710,
     "uikTvd": "46140431256841",
+    "uikName": "УИК №1710",
     "tikTvd": "26120002976994",
-    "tikName": "Ростов-на-Дону, Ворошиловская"
+    "tikName": "Ростов-на-Дону, Ворошиловская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1711,
     "uikTvd": "46140431256842",
+    "uikName": "УИК №1711",
     "tikTvd": "26120002976994",
-    "tikName": "Ростов-на-Дону, Ворошиловская"
+    "tikName": "Ростов-на-Дону, Ворошиловская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1712,
     "uikTvd": "46140431256843",
+    "uikName": "УИК №1712",
     "tikTvd": "26120002976994",
-    "tikName": "Ростов-на-Дону, Ворошиловская"
+    "tikName": "Ростов-на-Дону, Ворошиловская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1713,
     "uikTvd": "46140431256844",
+    "uikName": "УИК №1713",
     "tikTvd": "26120002976994",
-    "tikName": "Ростов-на-Дону, Ворошиловская"
+    "tikName": "Ростов-на-Дону, Ворошиловская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1714,
     "uikTvd": "46140431256845",
+    "uikName": "УИК №1714",
     "tikTvd": "26120002976994",
-    "tikName": "Ростов-на-Дону, Ворошиловская"
+    "tikName": "Ростов-на-Дону, Ворошиловская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1715,
     "uikTvd": "46140431256846",
+    "uikName": "УИК №1715",
     "tikTvd": "26120002976994",
-    "tikName": "Ростов-на-Дону, Ворошиловская"
+    "tikName": "Ростов-на-Дону, Ворошиловская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1716,
     "uikTvd": "46140431256847",
+    "uikName": "УИК №1716",
     "tikTvd": "26120002976994",
-    "tikName": "Ростов-на-Дону, Ворошиловская"
+    "tikName": "Ростов-на-Дону, Ворошиловская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1717,
     "uikTvd": "46140431256848",
+    "uikName": "УИК №1717",
     "tikTvd": "26120002976994",
-    "tikName": "Ростов-на-Дону, Ворошиловская"
+    "tikName": "Ростов-на-Дону, Ворошиловская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1718,
     "uikTvd": "46140431256849",
+    "uikName": "УИК №1718",
     "tikTvd": "26120002976994",
-    "tikName": "Ростов-на-Дону, Ворошиловская"
+    "tikName": "Ростов-на-Дону, Ворошиловская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1719,
     "uikTvd": "46140431256850",
+    "uikName": "УИК №1719",
     "tikTvd": "26120002976994",
-    "tikName": "Ростов-на-Дону, Ворошиловская"
+    "tikName": "Ростов-на-Дону, Ворошиловская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1720,
     "uikTvd": "46140431256851",
+    "uikName": "УИК №1720",
     "tikTvd": "26120002976994",
-    "tikName": "Ростов-на-Дону, Ворошиловская"
+    "tikName": "Ростов-на-Дону, Ворошиловская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1721,
     "uikTvd": "46140431256852",
+    "uikName": "УИК №1721",
     "tikTvd": "26120002976994",
-    "tikName": "Ростов-на-Дону, Ворошиловская"
+    "tikName": "Ростов-на-Дону, Ворошиловская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1722,
     "uikTvd": "46140431256853",
+    "uikName": "УИК №1722",
     "tikTvd": "26120002976994",
-    "tikName": "Ростов-на-Дону, Ворошиловская"
+    "tikName": "Ростов-на-Дону, Ворошиловская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1723,
     "uikTvd": "46140431256854",
+    "uikName": "УИК №1723",
     "tikTvd": "26120002976994",
-    "tikName": "Ростов-на-Дону, Ворошиловская"
+    "tikName": "Ростов-на-Дону, Ворошиловская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1724,
     "uikTvd": "46140431256855",
+    "uikName": "УИК №1724",
     "tikTvd": "26120002976994",
-    "tikName": "Ростов-на-Дону, Ворошиловская"
+    "tikName": "Ростов-на-Дону, Ворошиловская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1725,
     "uikTvd": "46140431256856",
+    "uikName": "УИК №1725",
     "tikTvd": "26120002976994",
-    "tikName": "Ростов-на-Дону, Ворошиловская"
+    "tikName": "Ростов-на-Дону, Ворошиловская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1726,
     "uikTvd": "46140431256857",
+    "uikName": "УИК №1726",
     "tikTvd": "26120002976994",
-    "tikName": "Ростов-на-Дону, Ворошиловская"
+    "tikName": "Ростов-на-Дону, Ворошиловская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1727,
     "uikTvd": "46140431256858",
+    "uikName": "УИК №1727",
     "tikTvd": "26120002976994",
-    "tikName": "Ростов-на-Дону, Ворошиловская"
+    "tikName": "Ростов-на-Дону, Ворошиловская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1728,
     "uikTvd": "46140431256859",
+    "uikName": "УИК №1728",
     "tikTvd": "26120002976994",
-    "tikName": "Ростов-на-Дону, Ворошиловская"
+    "tikName": "Ростов-на-Дону, Ворошиловская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1729,
     "uikTvd": "46140431256860",
+    "uikName": "УИК №1729",
     "tikTvd": "26120002976994",
-    "tikName": "Ростов-на-Дону, Ворошиловская"
+    "tikName": "Ростов-на-Дону, Ворошиловская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1730,
     "uikTvd": "46140431256861",
+    "uikName": "УИК №1730",
     "tikTvd": "26120002976994",
-    "tikName": "Ростов-на-Дону, Ворошиловская"
+    "tikName": "Ростов-на-Дону, Ворошиловская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1731,
     "uikTvd": "46140431256862",
+    "uikName": "УИК №1731",
     "tikTvd": "26120002976994",
-    "tikName": "Ростов-на-Дону, Ворошиловская"
+    "tikName": "Ростов-на-Дону, Ворошиловская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1732,
     "uikTvd": "46140431256863",
+    "uikName": "УИК №1732",
     "tikTvd": "26120002976994",
-    "tikName": "Ростов-на-Дону, Ворошиловская"
+    "tikName": "Ростов-на-Дону, Ворошиловская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1733,
     "uikTvd": "46140431256864",
+    "uikName": "УИК №1733",
     "tikTvd": "26120002976994",
-    "tikName": "Ростов-на-Дону, Ворошиловская"
+    "tikName": "Ростов-на-Дону, Ворошиловская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1734,
     "uikTvd": "46140431256865",
+    "uikName": "УИК №1734",
     "tikTvd": "26120002976994",
-    "tikName": "Ростов-на-Дону, Ворошиловская"
+    "tikName": "Ростов-на-Дону, Ворошиловская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1735,
     "uikTvd": "46140431256866",
+    "uikName": "УИК №1735",
     "tikTvd": "26120002976994",
-    "tikName": "Ростов-на-Дону, Ворошиловская"
+    "tikName": "Ростов-на-Дону, Ворошиловская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1736,
     "uikTvd": "46140431256867",
+    "uikName": "УИК №1736",
     "tikTvd": "26120002976994",
-    "tikName": "Ростов-на-Дону, Ворошиловская"
+    "tikName": "Ростов-на-Дону, Ворошиловская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1737,
     "uikTvd": "46140431256868",
+    "uikName": "УИК №1737",
     "tikTvd": "26120002976994",
-    "tikName": "Ростов-на-Дону, Ворошиловская"
+    "tikName": "Ростов-на-Дону, Ворошиловская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1738,
     "uikTvd": "46140431256869",
+    "uikName": "УИК №1738",
     "tikTvd": "26120002976994",
-    "tikName": "Ростов-на-Дону, Ворошиловская"
+    "tikName": "Ростов-на-Дону, Ворошиловская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1739,
     "uikTvd": "46140431259191",
+    "uikName": "УИК №1739",
     "tikTvd": "26120002976994",
-    "tikName": "Ростов-на-Дону, Ворошиловская"
+    "tikName": "Ростов-на-Дону, Ворошиловская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1740,
     "uikTvd": "4614044363382",
+    "uikName": "УИК №1740",
     "tikTvd": "26120002976934",
-    "tikName": "Ростов-на-Дону, Железнодорожная"
+    "tikName": "Ростов-на-Дону, Железнодорожная",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1741,
     "uikTvd": "4614044363383",
+    "uikName": "УИК №1741",
     "tikTvd": "26120002976934",
-    "tikName": "Ростов-на-Дону, Железнодорожная"
+    "tikName": "Ростов-на-Дону, Железнодорожная",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1742,
     "uikTvd": "4614044363384",
+    "uikName": "УИК №1742",
     "tikTvd": "26120002976934",
-    "tikName": "Ростов-на-Дону, Железнодорожная"
+    "tikName": "Ростов-на-Дону, Железнодорожная",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1743,
     "uikTvd": "4614044363385",
+    "uikName": "УИК №1743",
     "tikTvd": "26120002976934",
-    "tikName": "Ростов-на-Дону, Железнодорожная"
+    "tikName": "Ростов-на-Дону, Железнодорожная",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1744,
     "uikTvd": "4614044363386",
+    "uikName": "УИК №1744",
     "tikTvd": "26120002976934",
-    "tikName": "Ростов-на-Дону, Железнодорожная"
+    "tikName": "Ростов-на-Дону, Железнодорожная",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1745,
     "uikTvd": "4614044363387",
+    "uikName": "УИК №1745",
     "tikTvd": "26120002976934",
-    "tikName": "Ростов-на-Дону, Железнодорожная"
+    "tikName": "Ростов-на-Дону, Железнодорожная",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1746,
     "uikTvd": "4614044363388",
+    "uikName": "УИК №1746",
     "tikTvd": "26120002976934",
-    "tikName": "Ростов-на-Дону, Железнодорожная"
+    "tikName": "Ростов-на-Дону, Железнодорожная",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1747,
     "uikTvd": "4614044363389",
+    "uikName": "УИК №1747",
     "tikTvd": "26120002976934",
-    "tikName": "Ростов-на-Дону, Железнодорожная"
+    "tikName": "Ростов-на-Дону, Железнодорожная",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1748,
     "uikTvd": "4614044363390",
+    "uikName": "УИК №1748",
     "tikTvd": "26120002976934",
-    "tikName": "Ростов-на-Дону, Железнодорожная"
+    "tikName": "Ростов-на-Дону, Железнодорожная",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1749,
     "uikTvd": "4614044363391",
+    "uikName": "УИК №1749",
     "tikTvd": "26120002976934",
-    "tikName": "Ростов-на-Дону, Железнодорожная"
+    "tikName": "Ростов-на-Дону, Железнодорожная",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1750,
     "uikTvd": "4614044363392",
+    "uikName": "УИК №1750",
     "tikTvd": "26120002976934",
-    "tikName": "Ростов-на-Дону, Железнодорожная"
+    "tikName": "Ростов-на-Дону, Железнодорожная",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1751,
     "uikTvd": "4614044363393",
+    "uikName": "УИК №1751",
     "tikTvd": "26120002976934",
-    "tikName": "Ростов-на-Дону, Железнодорожная"
+    "tikName": "Ростов-на-Дону, Железнодорожная",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1752,
     "uikTvd": "4614044363394",
+    "uikName": "УИК №1752",
     "tikTvd": "26120002976934",
-    "tikName": "Ростов-на-Дону, Железнодорожная"
+    "tikName": "Ростов-на-Дону, Железнодорожная",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1753,
     "uikTvd": "4614044363395",
+    "uikName": "УИК №1753",
     "tikTvd": "26120002976934",
-    "tikName": "Ростов-на-Дону, Железнодорожная"
+    "tikName": "Ростов-на-Дону, Железнодорожная",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1754,
     "uikTvd": "4614044363396",
+    "uikName": "УИК №1754",
     "tikTvd": "26120002976934",
-    "tikName": "Ростов-на-Дону, Железнодорожная"
+    "tikName": "Ростов-на-Дону, Железнодорожная",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1756,
     "uikTvd": "4614044363397",
+    "uikName": "УИК №1756",
     "tikTvd": "26120002976934",
-    "tikName": "Ростов-на-Дону, Железнодорожная"
+    "tikName": "Ростов-на-Дону, Железнодорожная",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1757,
     "uikTvd": "4614044363398",
+    "uikName": "УИК №1757",
     "tikTvd": "26120002976934",
-    "tikName": "Ростов-на-Дону, Железнодорожная"
+    "tikName": "Ростов-на-Дону, Железнодорожная",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1758,
     "uikTvd": "4614044363399",
+    "uikName": "УИК №1758",
     "tikTvd": "26120002976934",
-    "tikName": "Ростов-на-Дону, Железнодорожная"
+    "tikName": "Ростов-на-Дону, Железнодорожная",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1759,
     "uikTvd": "4614044363400",
+    "uikName": "УИК №1759",
     "tikTvd": "26120002976934",
-    "tikName": "Ростов-на-Дону, Железнодорожная"
+    "tikName": "Ростов-на-Дону, Железнодорожная",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1760,
     "uikTvd": "4614044363401",
+    "uikName": "УИК №1760",
     "tikTvd": "26120002976934",
-    "tikName": "Ростов-на-Дону, Железнодорожная"
+    "tikName": "Ростов-на-Дону, Железнодорожная",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1761,
     "uikTvd": "4614044363402",
+    "uikName": "УИК №1761",
     "tikTvd": "26120002976934",
-    "tikName": "Ростов-на-Дону, Железнодорожная"
+    "tikName": "Ростов-на-Дону, Железнодорожная",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1762,
     "uikTvd": "4614044363403",
+    "uikName": "УИК №1762",
     "tikTvd": "26120002976934",
-    "tikName": "Ростов-на-Дону, Железнодорожная"
+    "tikName": "Ростов-на-Дону, Железнодорожная",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1763,
     "uikTvd": "4614044363404",
+    "uikName": "УИК №1763",
     "tikTvd": "26120002976934",
-    "tikName": "Ростов-на-Дону, Железнодорожная"
+    "tikName": "Ростов-на-Дону, Железнодорожная",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1764,
     "uikTvd": "4614044363405",
+    "uikName": "УИК №1764",
     "tikTvd": "26120002976934",
-    "tikName": "Ростов-на-Дону, Железнодорожная"
+    "tikName": "Ростов-на-Дону, Железнодорожная",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1765,
     "uikTvd": "4614044363406",
+    "uikName": "УИК №1765",
     "tikTvd": "26120002976934",
-    "tikName": "Ростов-на-Дону, Железнодорожная"
+    "tikName": "Ростов-на-Дону, Железнодорожная",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1766,
     "uikTvd": "4614044363407",
+    "uikName": "УИК №1766",
     "tikTvd": "26120002976934",
-    "tikName": "Ростов-на-Дону, Железнодорожная"
+    "tikName": "Ростов-на-Дону, Железнодорожная",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1767,
     "uikTvd": "4614044363408",
+    "uikName": "УИК №1767",
     "tikTvd": "26120002976934",
-    "tikName": "Ростов-на-Дону, Железнодорожная"
+    "tikName": "Ростов-на-Дону, Железнодорожная",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1768,
     "uikTvd": "4614044363409",
+    "uikName": "УИК №1768",
     "tikTvd": "26120002976934",
-    "tikName": "Ростов-на-Дону, Железнодорожная"
+    "tikName": "Ростов-на-Дону, Железнодорожная",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1769,
     "uikTvd": "4614044363410",
+    "uikName": "УИК №1769",
     "tikTvd": "26120002976934",
-    "tikName": "Ростов-на-Дону, Железнодорожная"
+    "tikName": "Ростов-на-Дону, Железнодорожная",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1770,
     "uikTvd": "4614044363411",
+    "uikName": "УИК №1770",
     "tikTvd": "26120002976934",
-    "tikName": "Ростов-на-Дону, Железнодорожная"
+    "tikName": "Ростов-на-Дону, Железнодорожная",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1771,
     "uikTvd": "4614044363412",
+    "uikName": "УИК №1771",
     "tikTvd": "26120002976934",
-    "tikName": "Ростов-на-Дону, Железнодорожная"
+    "tikName": "Ростов-на-Дону, Железнодорожная",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1772,
     "uikTvd": "4614044363413",
+    "uikName": "УИК №1772",
     "tikTvd": "26120002976934",
-    "tikName": "Ростов-на-Дону, Железнодорожная"
+    "tikName": "Ростов-на-Дону, Железнодорожная",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1773,
     "uikTvd": "4614044363414",
+    "uikName": "УИК №1773",
     "tikTvd": "26120002976934",
-    "tikName": "Ростов-на-Дону, Железнодорожная"
+    "tikName": "Ростов-на-Дону, Железнодорожная",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1774,
     "uikTvd": "4614045318145",
+    "uikName": "УИК №1774",
     "tikTvd": "26120002976988",
-    "tikName": "Ростов-на-Дону, Кировская"
+    "tikName": "Ростов-на-Дону, Кировская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1775,
     "uikTvd": "4614045318146",
+    "uikName": "УИК №1775",
     "tikTvd": "26120002976988",
-    "tikName": "Ростов-на-Дону, Кировская"
+    "tikName": "Ростов-на-Дону, Кировская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1776,
     "uikTvd": "4614045318147",
+    "uikName": "УИК №1776",
     "tikTvd": "26120002976988",
-    "tikName": "Ростов-на-Дону, Кировская"
+    "tikName": "Ростов-на-Дону, Кировская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1778,
     "uikTvd": "4614045318148",
+    "uikName": "УИК №1778",
     "tikTvd": "26120002976988",
-    "tikName": "Ростов-на-Дону, Кировская"
+    "tikName": "Ростов-на-Дону, Кировская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1779,
     "uikTvd": "4614045318149",
+    "uikName": "УИК №1779",
     "tikTvd": "26120002976988",
-    "tikName": "Ростов-на-Дону, Кировская"
+    "tikName": "Ростов-на-Дону, Кировская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1780,
     "uikTvd": "4614045318150",
+    "uikName": "УИК №1780",
     "tikTvd": "26120002976988",
-    "tikName": "Ростов-на-Дону, Кировская"
+    "tikName": "Ростов-на-Дону, Кировская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1781,
     "uikTvd": "4614045318151",
+    "uikName": "УИК №1781",
     "tikTvd": "26120002976988",
-    "tikName": "Ростов-на-Дону, Кировская"
+    "tikName": "Ростов-на-Дону, Кировская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1782,
     "uikTvd": "4614045318152",
+    "uikName": "УИК №1782",
     "tikTvd": "26120002976988",
-    "tikName": "Ростов-на-Дону, Кировская"
+    "tikName": "Ростов-на-Дону, Кировская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1783,
     "uikTvd": "4614045318153",
+    "uikName": "УИК №1783",
     "tikTvd": "26120002976988",
-    "tikName": "Ростов-на-Дону, Кировская"
+    "tikName": "Ростов-на-Дону, Кировская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1784,
     "uikTvd": "4614045318154",
+    "uikName": "УИК №1784",
     "tikTvd": "26120002976988",
-    "tikName": "Ростов-на-Дону, Кировская"
+    "tikName": "Ростов-на-Дону, Кировская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1785,
     "uikTvd": "4614045318155",
+    "uikName": "УИК №1785",
     "tikTvd": "26120002976988",
-    "tikName": "Ростов-на-Дону, Кировская"
+    "tikName": "Ростов-на-Дону, Кировская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1786,
     "uikTvd": "4614045318156",
+    "uikName": "УИК №1786",
     "tikTvd": "26120002976988",
-    "tikName": "Ростов-на-Дону, Кировская"
+    "tikName": "Ростов-на-Дону, Кировская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1787,
     "uikTvd": "4614045318157",
+    "uikName": "УИК №1787",
     "tikTvd": "26120002976988",
-    "tikName": "Ростов-на-Дону, Кировская"
+    "tikName": "Ростов-на-Дону, Кировская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1789,
     "uikTvd": "4614045318158",
+    "uikName": "УИК №1789",
     "tikTvd": "26120002976988",
-    "tikName": "Ростов-на-Дону, Кировская"
+    "tikName": "Ростов-на-Дону, Кировская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1792,
     "uikTvd": "4614045318159",
+    "uikName": "УИК №1792",
     "tikTvd": "26120002976988",
-    "tikName": "Ростов-на-Дону, Кировская"
+    "tikName": "Ростов-на-Дону, Кировская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1793,
     "uikTvd": "4614045318160",
+    "uikName": "УИК №1793",
     "tikTvd": "26120002976988",
-    "tikName": "Ростов-на-Дону, Кировская"
+    "tikName": "Ростов-на-Дону, Кировская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1794,
     "uikTvd": "4614045318161",
+    "uikName": "УИК №1794",
     "tikTvd": "26120002976988",
-    "tikName": "Ростов-на-Дону, Кировская"
+    "tikName": "Ростов-на-Дону, Кировская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1795,
     "uikTvd": "4614045318162",
+    "uikName": "УИК №1795",
     "tikTvd": "26120002976988",
-    "tikName": "Ростов-на-Дону, Кировская"
+    "tikName": "Ростов-на-Дону, Кировская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1796,
     "uikTvd": "4614045318163",
+    "uikName": "УИК №1796",
     "tikTvd": "26120002976988",
-    "tikName": "Ростов-на-Дону, Кировская"
+    "tikName": "Ростов-на-Дону, Кировская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1797,
     "uikTvd": "4614045318164",
+    "uikName": "УИК №1797",
     "tikTvd": "26120002976988",
-    "tikName": "Ростов-на-Дону, Кировская"
+    "tikName": "Ростов-на-Дону, Кировская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1798,
     "uikTvd": "4614045321184",
+    "uikName": "УИК №1798",
     "tikTvd": "26120002976988",
-    "tikName": "Ростов-на-Дону, Кировская"
+    "tikName": "Ростов-на-Дону, Кировская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1799,
     "uikTvd": "4614046279245",
+    "uikName": "УИК №1799",
     "tikTvd": "26120002976973",
-    "tikName": "Ростов-на-Дону, Ленинская"
+    "tikName": "Ростов-на-Дону, Ленинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1800,
     "uikTvd": "4614046279246",
+    "uikName": "УИК №1800",
     "tikTvd": "26120002976973",
-    "tikName": "Ростов-на-Дону, Ленинская"
+    "tikName": "Ростов-на-Дону, Ленинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1801,
     "uikTvd": "4614046279247",
+    "uikName": "УИК №1801",
     "tikTvd": "26120002976973",
-    "tikName": "Ростов-на-Дону, Ленинская"
+    "tikName": "Ростов-на-Дону, Ленинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1802,
     "uikTvd": "4614046279248",
+    "uikName": "УИК №1802",
     "tikTvd": "26120002976973",
-    "tikName": "Ростов-на-Дону, Ленинская"
+    "tikName": "Ростов-на-Дону, Ленинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1803,
     "uikTvd": "4614046279249",
+    "uikName": "УИК №1803",
     "tikTvd": "26120002976973",
-    "tikName": "Ростов-на-Дону, Ленинская"
+    "tikName": "Ростов-на-Дону, Ленинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1804,
     "uikTvd": "4614046279250",
+    "uikName": "УИК №1804",
     "tikTvd": "26120002976973",
-    "tikName": "Ростов-на-Дону, Ленинская"
+    "tikName": "Ростов-на-Дону, Ленинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1805,
     "uikTvd": "4614046279251",
+    "uikName": "УИК №1805",
     "tikTvd": "26120002976973",
-    "tikName": "Ростов-на-Дону, Ленинская"
+    "tikName": "Ростов-на-Дону, Ленинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1807,
     "uikTvd": "4614046279252",
+    "uikName": "УИК №1807",
     "tikTvd": "26120002976973",
-    "tikName": "Ростов-на-Дону, Ленинская"
+    "tikName": "Ростов-на-Дону, Ленинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1809,
     "uikTvd": "4614046279254",
+    "uikName": "УИК №1809",
     "tikTvd": "26120002976973",
-    "tikName": "Ростов-на-Дону, Ленинская"
+    "tikName": "Ростов-на-Дону, Ленинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1810,
     "uikTvd": "4614046279255",
+    "uikName": "УИК №1810",
     "tikTvd": "26120002976973",
-    "tikName": "Ростов-на-Дону, Ленинская"
+    "tikName": "Ростов-на-Дону, Ленинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1811,
     "uikTvd": "4614046279256",
+    "uikName": "УИК №1811",
     "tikTvd": "26120002976973",
-    "tikName": "Ростов-на-Дону, Ленинская"
+    "tikName": "Ростов-на-Дону, Ленинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1812,
     "uikTvd": "4614046279257",
+    "uikName": "УИК №1812",
     "tikTvd": "26120002976973",
-    "tikName": "Ростов-на-Дону, Ленинская"
+    "tikName": "Ростов-на-Дону, Ленинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1813,
     "uikTvd": "4614046279258",
+    "uikName": "УИК №1813",
     "tikTvd": "26120002976973",
-    "tikName": "Ростов-на-Дону, Ленинская"
+    "tikName": "Ростов-на-Дону, Ленинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1814,
     "uikTvd": "4614046279259",
+    "uikName": "УИК №1814",
     "tikTvd": "26120002976973",
-    "tikName": "Ростов-на-Дону, Ленинская"
+    "tikName": "Ростов-на-Дону, Ленинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1815,
     "uikTvd": "4614046279260",
+    "uikName": "УИК №1815",
     "tikTvd": "26120002976973",
-    "tikName": "Ростов-на-Дону, Ленинская"
+    "tikName": "Ростов-на-Дону, Ленинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1816,
     "uikTvd": "4614046279261",
+    "uikName": "УИК №1816",
     "tikTvd": "26120002976973",
-    "tikName": "Ростов-на-Дону, Ленинская"
+    "tikName": "Ростов-на-Дону, Ленинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1817,
     "uikTvd": "4614046279262",
+    "uikName": "УИК №1817",
     "tikTvd": "26120002976973",
-    "tikName": "Ростов-на-Дону, Ленинская"
+    "tikName": "Ростов-на-Дону, Ленинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1818,
     "uikTvd": "4614046279263",
+    "uikName": "УИК №1818",
     "tikTvd": "26120002976973",
-    "tikName": "Ростов-на-Дону, Ленинская"
+    "tikName": "Ростов-на-Дону, Ленинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1819,
     "uikTvd": "4614046279264",
+    "uikName": "УИК №1819",
     "tikTvd": "26120002976973",
-    "tikName": "Ростов-на-Дону, Ленинская"
+    "tikName": "Ростов-на-Дону, Ленинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1820,
     "uikTvd": "4614046279265",
+    "uikName": "УИК №1820",
     "tikTvd": "26120002976973",
-    "tikName": "Ростов-на-Дону, Ленинская"
+    "tikName": "Ростов-на-Дону, Ленинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1821,
     "uikTvd": "4614046279266",
+    "uikName": "УИК №1821",
     "tikTvd": "26120002976973",
-    "tikName": "Ростов-на-Дону, Ленинская"
+    "tikName": "Ростов-на-Дону, Ленинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1822,
     "uikTvd": "4614046279267",
+    "uikName": "УИК №1822",
     "tikTvd": "26120002976973",
-    "tikName": "Ростов-на-Дону, Ленинская"
+    "tikName": "Ростов-на-Дону, Ленинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1823,
     "uikTvd": "4614046279268",
+    "uikName": "УИК №1823",
     "tikTvd": "26120002976973",
-    "tikName": "Ростов-на-Дону, Ленинская"
+    "tikName": "Ростов-на-Дону, Ленинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1824,
     "uikTvd": "4614047492119",
+    "uikName": "УИК №1824",
     "tikTvd": "26120002976990",
-    "tikName": "Ростов-на-Дону, Октябрьская"
+    "tikName": "Ростов-на-Дону, Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1825,
     "uikTvd": "4614047492120",
+    "uikName": "УИК №1825",
     "tikTvd": "26120002976990",
-    "tikName": "Ростов-на-Дону, Октябрьская"
+    "tikName": "Ростов-на-Дону, Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1826,
     "uikTvd": "4614047492121",
+    "uikName": "УИК №1826",
     "tikTvd": "26120002976990",
-    "tikName": "Ростов-на-Дону, Октябрьская"
+    "tikName": "Ростов-на-Дону, Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1827,
     "uikTvd": "4614047492122",
+    "uikName": "УИК №1827",
     "tikTvd": "26120002976990",
-    "tikName": "Ростов-на-Дону, Октябрьская"
+    "tikName": "Ростов-на-Дону, Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1828,
     "uikTvd": "4614047492123",
+    "uikName": "УИК №1828",
     "tikTvd": "26120002976990",
-    "tikName": "Ростов-на-Дону, Октябрьская"
+    "tikName": "Ростов-на-Дону, Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1829,
     "uikTvd": "4614047492124",
+    "uikName": "УИК №1829",
     "tikTvd": "26120002976990",
-    "tikName": "Ростов-на-Дону, Октябрьская"
+    "tikName": "Ростов-на-Дону, Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1830,
     "uikTvd": "4614047492125",
+    "uikName": "УИК №1830",
     "tikTvd": "26120002976990",
-    "tikName": "Ростов-на-Дону, Октябрьская"
+    "tikName": "Ростов-на-Дону, Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1831,
     "uikTvd": "4614047492126",
+    "uikName": "УИК №1831",
     "tikTvd": "26120002976990",
-    "tikName": "Ростов-на-Дону, Октябрьская"
+    "tikName": "Ростов-на-Дону, Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1832,
     "uikTvd": "4614047492127",
+    "uikName": "УИК №1832",
     "tikTvd": "26120002976990",
-    "tikName": "Ростов-на-Дону, Октябрьская"
+    "tikName": "Ростов-на-Дону, Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1833,
     "uikTvd": "4614047492128",
+    "uikName": "УИК №1833",
     "tikTvd": "26120002976990",
-    "tikName": "Ростов-на-Дону, Октябрьская"
+    "tikName": "Ростов-на-Дону, Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1834,
     "uikTvd": "4614047492129",
+    "uikName": "УИК №1834",
     "tikTvd": "26120002976990",
-    "tikName": "Ростов-на-Дону, Октябрьская"
+    "tikName": "Ростов-на-Дону, Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1835,
     "uikTvd": "4614047492130",
+    "uikName": "УИК №1835",
     "tikTvd": "26120002976990",
-    "tikName": "Ростов-на-Дону, Октябрьская"
+    "tikName": "Ростов-на-Дону, Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1836,
     "uikTvd": "4614047492131",
+    "uikName": "УИК №1836",
     "tikTvd": "26120002976990",
-    "tikName": "Ростов-на-Дону, Октябрьская"
+    "tikName": "Ростов-на-Дону, Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1837,
     "uikTvd": "4614047492132",
+    "uikName": "УИК №1837",
     "tikTvd": "26120002976990",
-    "tikName": "Ростов-на-Дону, Октябрьская"
+    "tikName": "Ростов-на-Дону, Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1838,
     "uikTvd": "4614047492133",
+    "uikName": "УИК №1838",
     "tikTvd": "26120002976990",
-    "tikName": "Ростов-на-Дону, Октябрьская"
+    "tikName": "Ростов-на-Дону, Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1839,
     "uikTvd": "4614047492134",
+    "uikName": "УИК №1839",
     "tikTvd": "26120002976990",
-    "tikName": "Ростов-на-Дону, Октябрьская"
+    "tikName": "Ростов-на-Дону, Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1840,
     "uikTvd": "4614047492135",
+    "uikName": "УИК №1840",
     "tikTvd": "26120002976990",
-    "tikName": "Ростов-на-Дону, Октябрьская"
+    "tikName": "Ростов-на-Дону, Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1841,
     "uikTvd": "4614047492136",
+    "uikName": "УИК №1841",
     "tikTvd": "26120002976990",
-    "tikName": "Ростов-на-Дону, Октябрьская"
+    "tikName": "Ростов-на-Дону, Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1842,
     "uikTvd": "4614047492137",
+    "uikName": "УИК №1842",
     "tikTvd": "26120002976990",
-    "tikName": "Ростов-на-Дону, Октябрьская"
+    "tikName": "Ростов-на-Дону, Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1843,
     "uikTvd": "4614047492138",
+    "uikName": "УИК №1843",
     "tikTvd": "26120002976990",
-    "tikName": "Ростов-на-Дону, Октябрьская"
+    "tikName": "Ростов-на-Дону, Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1844,
     "uikTvd": "4614047492139",
+    "uikName": "УИК №1844",
     "tikTvd": "26120002976990",
-    "tikName": "Ростов-на-Дону, Октябрьская"
+    "tikName": "Ростов-на-Дону, Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1845,
     "uikTvd": "4614047492140",
+    "uikName": "УИК №1845",
     "tikTvd": "26120002976990",
-    "tikName": "Ростов-на-Дону, Октябрьская"
+    "tikName": "Ростов-на-Дону, Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1846,
     "uikTvd": "4614047492141",
+    "uikName": "УИК №1846",
     "tikTvd": "26120002976990",
-    "tikName": "Ростов-на-Дону, Октябрьская"
+    "tikName": "Ростов-на-Дону, Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1847,
     "uikTvd": "4614047492142",
+    "uikName": "УИК №1847",
     "tikTvd": "26120002976990",
-    "tikName": "Ростов-на-Дону, Октябрьская"
+    "tikName": "Ростов-на-Дону, Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1848,
     "uikTvd": "4614047492143",
+    "uikName": "УИК №1848",
     "tikTvd": "26120002976990",
-    "tikName": "Ростов-на-Дону, Октябрьская"
+    "tikName": "Ростов-на-Дону, Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1849,
     "uikTvd": "4614047492144",
+    "uikName": "УИК №1849",
     "tikTvd": "26120002976990",
-    "tikName": "Ростов-на-Дону, Октябрьская"
+    "tikName": "Ростов-на-Дону, Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1850,
     "uikTvd": "4614047492145",
+    "uikName": "УИК №1850",
     "tikTvd": "26120002976990",
-    "tikName": "Ростов-на-Дону, Октябрьская"
+    "tikName": "Ростов-на-Дону, Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1851,
     "uikTvd": "4614047492146",
+    "uikName": "УИК №1851",
     "tikTvd": "26120002976990",
-    "tikName": "Ростов-на-Дону, Октябрьская"
+    "tikName": "Ростов-на-Дону, Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1852,
     "uikTvd": "4614047492147",
+    "uikName": "УИК №1852",
     "tikTvd": "26120002976990",
-    "tikName": "Ростов-на-Дону, Октябрьская"
+    "tikName": "Ростов-на-Дону, Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1853,
     "uikTvd": "4614047492148",
+    "uikName": "УИК №1853",
     "tikTvd": "26120002976990",
-    "tikName": "Ростов-на-Дону, Октябрьская"
+    "tikName": "Ростов-на-Дону, Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1854,
     "uikTvd": "4614047492149",
+    "uikName": "УИК №1854",
     "tikTvd": "26120002976990",
-    "tikName": "Ростов-на-Дону, Октябрьская"
+    "tikName": "Ростов-на-Дону, Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1855,
     "uikTvd": "4614047492150",
+    "uikName": "УИК №1855",
     "tikTvd": "26120002976990",
-    "tikName": "Ростов-на-Дону, Октябрьская"
+    "tikName": "Ростов-на-Дону, Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1856,
     "uikTvd": "4614047492151",
+    "uikName": "УИК №1856",
     "tikTvd": "26120002976990",
-    "tikName": "Ростов-на-Дону, Октябрьская"
+    "tikName": "Ростов-на-Дону, Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1857,
     "uikTvd": "4614047492152",
+    "uikName": "УИК №1857",
     "tikTvd": "26120002976990",
-    "tikName": "Ростов-на-Дону, Октябрьская"
+    "tikName": "Ростов-на-Дону, Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1858,
     "uikTvd": "4614047492153",
+    "uikName": "УИК №1858",
     "tikTvd": "26120002976990",
-    "tikName": "Ростов-на-Дону, Октябрьская"
+    "tikName": "Ростов-на-Дону, Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1859,
     "uikTvd": "4614047492154",
+    "uikName": "УИК №1859",
     "tikTvd": "26120002976990",
-    "tikName": "Ростов-на-Дону, Октябрьская"
+    "tikName": "Ростов-на-Дону, Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1860,
     "uikTvd": "4614047492155",
+    "uikName": "УИК №1860",
     "tikTvd": "26120002976990",
-    "tikName": "Ростов-на-Дону, Октябрьская"
+    "tikName": "Ростов-на-Дону, Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1861,
     "uikTvd": "4614047492156",
+    "uikName": "УИК №1861",
     "tikTvd": "26120002976990",
-    "tikName": "Ростов-на-Дону, Октябрьская"
+    "tikName": "Ростов-на-Дону, Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1862,
     "uikTvd": "4614047492157",
+    "uikName": "УИК №1862",
     "tikTvd": "26120002976990",
-    "tikName": "Ростов-на-Дону, Октябрьская"
+    "tikName": "Ростов-на-Дону, Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1863,
     "uikTvd": "4614047492158",
+    "uikName": "УИК №1863",
     "tikTvd": "26120002976990",
-    "tikName": "Ростов-на-Дону, Октябрьская"
+    "tikName": "Ростов-на-Дону, Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1864,
     "uikTvd": "4614047492159",
+    "uikName": "УИК №1864",
     "tikTvd": "26120002976990",
-    "tikName": "Ростов-на-Дону, Октябрьская"
+    "tikName": "Ростов-на-Дону, Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1865,
     "uikTvd": "4614047492160",
+    "uikName": "УИК №1865",
     "tikTvd": "26120002976990",
-    "tikName": "Ростов-на-Дону, Октябрьская"
+    "tikName": "Ростов-на-Дону, Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1866,
     "uikTvd": "4614047492161",
+    "uikName": "УИК №1866",
     "tikTvd": "26120002976990",
-    "tikName": "Ростов-на-Дону, Октябрьская"
+    "tikName": "Ростов-на-Дону, Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1867,
     "uikTvd": "4614047492162",
+    "uikName": "УИК №1867",
     "tikTvd": "26120002976990",
-    "tikName": "Ростов-на-Дону, Октябрьская"
+    "tikName": "Ростов-на-Дону, Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1868,
     "uikTvd": "4614047492163",
+    "uikName": "УИК №1868",
     "tikTvd": "26120002976990",
-    "tikName": "Ростов-на-Дону, Октябрьская"
+    "tikName": "Ростов-на-Дону, Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1869,
     "uikTvd": "4614047492164",
+    "uikName": "УИК №1869",
     "tikTvd": "26120002976990",
-    "tikName": "Ростов-на-Дону, Октябрьская"
+    "tikName": "Ростов-на-Дону, Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1870,
     "uikTvd": "4614047492165",
+    "uikName": "УИК №1870",
     "tikTvd": "26120002976990",
-    "tikName": "Ростов-на-Дону, Октябрьская"
+    "tikName": "Ростов-на-Дону, Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1871,
     "uikTvd": "4614047492166",
+    "uikName": "УИК №1871",
     "tikTvd": "26120002976990",
-    "tikName": "Ростов-на-Дону, Октябрьская"
+    "tikName": "Ростов-на-Дону, Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1872,
     "uikTvd": "4614047492167",
+    "uikName": "УИК №1872",
     "tikTvd": "26120002976990",
-    "tikName": "Ростов-на-Дону, Октябрьская"
+    "tikName": "Ростов-на-Дону, Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1873,
     "uikTvd": "4614047492168",
+    "uikName": "УИК №1873",
     "tikTvd": "26120002976990",
-    "tikName": "Ростов-на-Дону, Октябрьская"
+    "tikName": "Ростов-на-Дону, Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1874,
     "uikTvd": "4614047492169",
+    "uikName": "УИК №1874",
     "tikTvd": "26120002976990",
-    "tikName": "Ростов-на-Дону, Октябрьская"
+    "tikName": "Ростов-на-Дону, Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1875,
     "uikTvd": "4614048495255",
+    "uikName": "УИК №1875",
     "tikTvd": "26120002976979",
-    "tikName": "Ростов-на-Дону, Первомайская"
+    "tikName": "Ростов-на-Дону, Первомайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1876,
     "uikTvd": "4614048495256",
+    "uikName": "УИК №1876",
     "tikTvd": "26120002976979",
-    "tikName": "Ростов-на-Дону, Первомайская"
+    "tikName": "Ростов-на-Дону, Первомайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1877,
     "uikTvd": "4614048495257",
+    "uikName": "УИК №1877",
     "tikTvd": "26120002976979",
-    "tikName": "Ростов-на-Дону, Первомайская"
+    "tikName": "Ростов-на-Дону, Первомайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1878,
     "uikTvd": "4614048495258",
+    "uikName": "УИК №1878",
     "tikTvd": "26120002976979",
-    "tikName": "Ростов-на-Дону, Первомайская"
+    "tikName": "Ростов-на-Дону, Первомайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1879,
     "uikTvd": "4614048495259",
+    "uikName": "УИК №1879",
     "tikTvd": "26120002976979",
-    "tikName": "Ростов-на-Дону, Первомайская"
+    "tikName": "Ростов-на-Дону, Первомайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1880,
     "uikTvd": "4614048495260",
+    "uikName": "УИК №1880",
     "tikTvd": "26120002976979",
-    "tikName": "Ростов-на-Дону, Первомайская"
+    "tikName": "Ростов-на-Дону, Первомайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1881,
     "uikTvd": "4614048495261",
+    "uikName": "УИК №1881",
     "tikTvd": "26120002976979",
-    "tikName": "Ростов-на-Дону, Первомайская"
+    "tikName": "Ростов-на-Дону, Первомайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1882,
     "uikTvd": "4614048495262",
+    "uikName": "УИК №1882",
     "tikTvd": "26120002976979",
-    "tikName": "Ростов-на-Дону, Первомайская"
+    "tikName": "Ростов-на-Дону, Первомайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1883,
     "uikTvd": "4614048495263",
+    "uikName": "УИК №1883",
     "tikTvd": "26120002976979",
-    "tikName": "Ростов-на-Дону, Первомайская"
+    "tikName": "Ростов-на-Дону, Первомайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1884,
     "uikTvd": "4614048495264",
+    "uikName": "УИК №1884",
     "tikTvd": "26120002976979",
-    "tikName": "Ростов-на-Дону, Первомайская"
+    "tikName": "Ростов-на-Дону, Первомайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1885,
     "uikTvd": "4614048495265",
+    "uikName": "УИК №1885",
     "tikTvd": "26120002976979",
-    "tikName": "Ростов-на-Дону, Первомайская"
+    "tikName": "Ростов-на-Дону, Первомайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1886,
     "uikTvd": "4614048495266",
+    "uikName": "УИК №1886",
     "tikTvd": "26120002976979",
-    "tikName": "Ростов-на-Дону, Первомайская"
+    "tikName": "Ростов-на-Дону, Первомайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1887,
     "uikTvd": "4614048495267",
+    "uikName": "УИК №1887",
     "tikTvd": "26120002976979",
-    "tikName": "Ростов-на-Дону, Первомайская"
+    "tikName": "Ростов-на-Дону, Первомайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1888,
     "uikTvd": "4614048495268",
+    "uikName": "УИК №1888",
     "tikTvd": "26120002976979",
-    "tikName": "Ростов-на-Дону, Первомайская"
+    "tikName": "Ростов-на-Дону, Первомайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1889,
     "uikTvd": "4614048495269",
+    "uikName": "УИК №1889",
     "tikTvd": "26120002976979",
-    "tikName": "Ростов-на-Дону, Первомайская"
+    "tikName": "Ростов-на-Дону, Первомайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1890,
     "uikTvd": "4614048495270",
+    "uikName": "УИК №1890",
     "tikTvd": "26120002976979",
-    "tikName": "Ростов-на-Дону, Первомайская"
+    "tikName": "Ростов-на-Дону, Первомайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1891,
     "uikTvd": "4614048495271",
+    "uikName": "УИК №1891",
     "tikTvd": "26120002976979",
-    "tikName": "Ростов-на-Дону, Первомайская"
+    "tikName": "Ростов-на-Дону, Первомайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1892,
     "uikTvd": "4614048495272",
+    "uikName": "УИК №1892",
     "tikTvd": "26120002976979",
-    "tikName": "Ростов-на-Дону, Первомайская"
+    "tikName": "Ростов-на-Дону, Первомайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1893,
     "uikTvd": "4614048495273",
+    "uikName": "УИК №1893",
     "tikTvd": "26120002976979",
-    "tikName": "Ростов-на-Дону, Первомайская"
+    "tikName": "Ростов-на-Дону, Первомайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1894,
     "uikTvd": "4614048495274",
+    "uikName": "УИК №1894",
     "tikTvd": "26120002976979",
-    "tikName": "Ростов-на-Дону, Первомайская"
+    "tikName": "Ростов-на-Дону, Первомайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1895,
     "uikTvd": "4614048495275",
+    "uikName": "УИК №1895",
     "tikTvd": "26120002976979",
-    "tikName": "Ростов-на-Дону, Первомайская"
+    "tikName": "Ростов-на-Дону, Первомайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1896,
     "uikTvd": "4614048495276",
+    "uikName": "УИК №1896",
     "tikTvd": "26120002976979",
-    "tikName": "Ростов-на-Дону, Первомайская"
+    "tikName": "Ростов-на-Дону, Первомайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1897,
     "uikTvd": "4614048495277",
+    "uikName": "УИК №1897",
     "tikTvd": "26120002976979",
-    "tikName": "Ростов-на-Дону, Первомайская"
+    "tikName": "Ростов-на-Дону, Первомайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1898,
     "uikTvd": "4614048495278",
+    "uikName": "УИК №1898",
     "tikTvd": "26120002976979",
-    "tikName": "Ростов-на-Дону, Первомайская"
+    "tikName": "Ростов-на-Дону, Первомайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1899,
     "uikTvd": "4614048495279",
+    "uikName": "УИК №1899",
     "tikTvd": "26120002976979",
-    "tikName": "Ростов-на-Дону, Первомайская"
+    "tikName": "Ростов-на-Дону, Первомайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1900,
     "uikTvd": "4614048495280",
+    "uikName": "УИК №1900",
     "tikTvd": "26120002976979",
-    "tikName": "Ростов-на-Дону, Первомайская"
+    "tikName": "Ростов-на-Дону, Первомайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1901,
     "uikTvd": "4614048495281",
+    "uikName": "УИК №1901",
     "tikTvd": "26120002976979",
-    "tikName": "Ростов-на-Дону, Первомайская"
+    "tikName": "Ростов-на-Дону, Первомайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1902,
     "uikTvd": "4614048495282",
+    "uikName": "УИК №1902",
     "tikTvd": "26120002976979",
-    "tikName": "Ростов-на-Дону, Первомайская"
+    "tikName": "Ростов-на-Дону, Первомайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1903,
     "uikTvd": "4614048495283",
+    "uikName": "УИК №1903",
     "tikTvd": "26120002976979",
-    "tikName": "Ростов-на-Дону, Первомайская"
+    "tikName": "Ростов-на-Дону, Первомайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1904,
     "uikTvd": "4614048495284",
+    "uikName": "УИК №1904",
     "tikTvd": "26120002976979",
-    "tikName": "Ростов-на-Дону, Первомайская"
+    "tikName": "Ростов-на-Дону, Первомайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1905,
     "uikTvd": "4614048495285",
+    "uikName": "УИК №1905",
     "tikTvd": "26120002976979",
-    "tikName": "Ростов-на-Дону, Первомайская"
+    "tikName": "Ростов-на-Дону, Первомайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1906,
     "uikTvd": "4614048495286",
+    "uikName": "УИК №1906",
     "tikTvd": "26120002976979",
-    "tikName": "Ростов-на-Дону, Первомайская"
+    "tikName": "Ростов-на-Дону, Первомайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1907,
     "uikTvd": "4614048495287",
+    "uikName": "УИК №1907",
     "tikTvd": "26120002976979",
-    "tikName": "Ростов-на-Дону, Первомайская"
+    "tikName": "Ростов-на-Дону, Первомайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1908,
     "uikTvd": "4614048495288",
+    "uikName": "УИК №1908",
     "tikTvd": "26120002976979",
-    "tikName": "Ростов-на-Дону, Первомайская"
+    "tikName": "Ростов-на-Дону, Первомайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1909,
     "uikTvd": "4614048495289",
+    "uikName": "УИК №1909",
     "tikTvd": "26120002976979",
-    "tikName": "Ростов-на-Дону, Первомайская"
+    "tikName": "Ростов-на-Дону, Первомайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1910,
     "uikTvd": "4614048495290",
+    "uikName": "УИК №1910",
     "tikTvd": "26120002976979",
-    "tikName": "Ростов-на-Дону, Первомайская"
+    "tikName": "Ростов-на-Дону, Первомайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1911,
     "uikTvd": "4614048495291",
+    "uikName": "УИК №1911",
     "tikTvd": "26120002976979",
-    "tikName": "Ростов-на-Дону, Первомайская"
+    "tikName": "Ростов-на-Дону, Первомайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1912,
     "uikTvd": "4614048495292",
+    "uikName": "УИК №1912",
     "tikTvd": "26120002976979",
-    "tikName": "Ростов-на-Дону, Первомайская"
+    "tikName": "Ростов-на-Дону, Первомайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1913,
     "uikTvd": "4614048495293",
+    "uikName": "УИК №1913",
     "tikTvd": "26120002976979",
-    "tikName": "Ростов-на-Дону, Первомайская"
+    "tikName": "Ростов-на-Дону, Первомайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1914,
     "uikTvd": "4614048495294",
+    "uikName": "УИК №1914",
     "tikTvd": "26120002976979",
-    "tikName": "Ростов-на-Дону, Первомайская"
+    "tikName": "Ростов-на-Дону, Первомайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1915,
     "uikTvd": "4614048495295",
+    "uikName": "УИК №1915",
     "tikTvd": "26120002976979",
-    "tikName": "Ростов-на-Дону, Первомайская"
+    "tikName": "Ростов-на-Дону, Первомайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1916,
     "uikTvd": "4614048495296",
+    "uikName": "УИК №1916",
     "tikTvd": "26120002976979",
-    "tikName": "Ростов-на-Дону, Первомайская"
+    "tikName": "Ростов-на-Дону, Первомайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1917,
     "uikTvd": "4614048495297",
+    "uikName": "УИК №1917",
     "tikTvd": "26120002976979",
-    "tikName": "Ростов-на-Дону, Первомайская"
+    "tikName": "Ростов-на-Дону, Первомайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1918,
     "uikTvd": "4614048495298",
+    "uikName": "УИК №1918",
     "tikTvd": "26120002976979",
-    "tikName": "Ростов-на-Дону, Первомайская"
+    "tikName": "Ростов-на-Дону, Первомайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1919,
     "uikTvd": "4614048495299",
+    "uikName": "УИК №1919",
     "tikTvd": "26120002976979",
-    "tikName": "Ростов-на-Дону, Первомайская"
+    "tikName": "Ростов-на-Дону, Первомайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1920,
     "uikTvd": "4614048495300",
+    "uikName": "УИК №1920",
     "tikTvd": "26120002976979",
-    "tikName": "Ростов-на-Дону, Первомайская"
+    "tikName": "Ростов-на-Дону, Первомайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1921,
     "uikTvd": "4614048495301",
+    "uikName": "УИК №1921",
     "tikTvd": "26120002976979",
-    "tikName": "Ростов-на-Дону, Первомайская"
+    "tikName": "Ростов-на-Дону, Первомайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1922,
     "uikTvd": "4614048495302",
+    "uikName": "УИК №1922",
     "tikTvd": "26120002976979",
-    "tikName": "Ростов-на-Дону, Первомайская"
+    "tikName": "Ростов-на-Дону, Первомайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1923,
     "uikTvd": "4614048495303",
+    "uikName": "УИК №1923",
     "tikTvd": "26120002976979",
-    "tikName": "Ростов-на-Дону, Первомайская"
+    "tikName": "Ростов-на-Дону, Первомайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1924,
     "uikTvd": "4614048495304",
+    "uikName": "УИК №1924",
     "tikTvd": "26120002976979",
-    "tikName": "Ростов-на-Дону, Первомайская"
+    "tikName": "Ростов-на-Дону, Первомайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1925,
     "uikTvd": "4614048495305",
+    "uikName": "УИК №1925",
     "tikTvd": "26120002976979",
-    "tikName": "Ростов-на-Дону, Первомайская"
+    "tikName": "Ростов-на-Дону, Первомайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1926,
     "uikTvd": "4614048495306",
+    "uikName": "УИК №1926",
     "tikTvd": "26120002976979",
-    "tikName": "Ростов-на-Дону, Первомайская"
+    "tikName": "Ростов-на-Дону, Первомайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1927,
     "uikTvd": "4614048495307",
+    "uikName": "УИК №1927",
     "tikTvd": "26120002976979",
-    "tikName": "Ростов-на-Дону, Первомайская"
+    "tikName": "Ростов-на-Дону, Первомайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1928,
     "uikTvd": "4614048495308",
+    "uikName": "УИК №1928",
     "tikTvd": "26120002976979",
-    "tikName": "Ростов-на-Дону, Первомайская"
+    "tikName": "Ростов-на-Дону, Первомайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1929,
     "uikTvd": "4614048495309",
+    "uikName": "УИК №1929",
     "tikTvd": "26120002976979",
-    "tikName": "Ростов-на-Дону, Первомайская"
+    "tikName": "Ростов-на-Дону, Первомайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1930,
     "uikTvd": "4614048495310",
+    "uikName": "УИК №1930",
     "tikTvd": "26120002976979",
-    "tikName": "Ростов-на-Дону, Первомайская"
+    "tikName": "Ростов-на-Дону, Первомайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1931,
     "uikTvd": "4614049412349",
+    "uikName": "УИК №1931",
     "tikTvd": "26120002976938",
-    "tikName": "Ростов-на-Дону, Пролетарская"
+    "tikName": "Ростов-на-Дону, Пролетарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1932,
     "uikTvd": "4614048495311",
+    "uikName": "УИК №1932",
     "tikTvd": "26120002976979",
-    "tikName": "Ростов-на-Дону, Первомайская"
+    "tikName": "Ростов-на-Дону, Первомайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1933,
     "uikTvd": "4614049412351",
+    "uikName": "УИК №1933",
     "tikTvd": "26120002976938",
-    "tikName": "Ростов-на-Дону, Пролетарская"
+    "tikName": "Ростов-на-Дону, Пролетарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1934,
     "uikTvd": "4614049412353",
+    "uikName": "УИК №1934",
     "tikTvd": "26120002976938",
-    "tikName": "Ростов-на-Дону, Пролетарская"
+    "tikName": "Ростов-на-Дону, Пролетарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1935,
     "uikTvd": "4614049412355",
+    "uikName": "УИК №1935",
     "tikTvd": "26120002976938",
-    "tikName": "Ростов-на-Дону, Пролетарская"
+    "tikName": "Ростов-на-Дону, Пролетарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1936,
     "uikTvd": "4614049412357",
+    "uikName": "УИК №1936",
     "tikTvd": "26120002976938",
-    "tikName": "Ростов-на-Дону, Пролетарская"
+    "tikName": "Ростов-на-Дону, Пролетарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1937,
     "uikTvd": "4614049412359",
+    "uikName": "УИК №1937",
     "tikTvd": "26120002976938",
-    "tikName": "Ростов-на-Дону, Пролетарская"
+    "tikName": "Ростов-на-Дону, Пролетарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1938,
     "uikTvd": "4614049412361",
+    "uikName": "УИК №1938",
     "tikTvd": "26120002976938",
-    "tikName": "Ростов-на-Дону, Пролетарская"
+    "tikName": "Ростов-на-Дону, Пролетарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1939,
     "uikTvd": "4614049412363",
+    "uikName": "УИК №1939",
     "tikTvd": "26120002976938",
-    "tikName": "Ростов-на-Дону, Пролетарская"
+    "tikName": "Ростов-на-Дону, Пролетарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1940,
     "uikTvd": "4614049412365",
+    "uikName": "УИК №1940",
     "tikTvd": "26120002976938",
-    "tikName": "Ростов-на-Дону, Пролетарская"
+    "tikName": "Ростов-на-Дону, Пролетарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1941,
     "uikTvd": "4614049412367",
+    "uikName": "УИК №1941",
     "tikTvd": "26120002976938",
-    "tikName": "Ростов-на-Дону, Пролетарская"
+    "tikName": "Ростов-на-Дону, Пролетарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1942,
     "uikTvd": "4614049412369",
+    "uikName": "УИК №1942",
     "tikTvd": "26120002976938",
-    "tikName": "Ростов-на-Дону, Пролетарская"
+    "tikName": "Ростов-на-Дону, Пролетарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1943,
     "uikTvd": "4614049412371",
+    "uikName": "УИК №1943",
     "tikTvd": "26120002976938",
-    "tikName": "Ростов-на-Дону, Пролетарская"
+    "tikName": "Ростов-на-Дону, Пролетарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1944,
     "uikTvd": "4614049412373",
+    "uikName": "УИК №1944",
     "tikTvd": "26120002976938",
-    "tikName": "Ростов-на-Дону, Пролетарская"
+    "tikName": "Ростов-на-Дону, Пролетарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1945,
     "uikTvd": "4614049412375",
+    "uikName": "УИК №1945",
     "tikTvd": "26120002976938",
-    "tikName": "Ростов-на-Дону, Пролетарская"
+    "tikName": "Ростов-на-Дону, Пролетарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1946,
     "uikTvd": "4614049414843",
+    "uikName": "УИК №1946",
     "tikTvd": "26120002976938",
-    "tikName": "Ростов-на-Дону, Пролетарская"
+    "tikName": "Ростов-на-Дону, Пролетарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1947,
     "uikTvd": "4614049412379",
+    "uikName": "УИК №1947",
     "tikTvd": "26120002976938",
-    "tikName": "Ростов-на-Дону, Пролетарская"
+    "tikName": "Ростов-на-Дону, Пролетарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1948,
     "uikTvd": "4614049412381",
+    "uikName": "УИК №1948",
     "tikTvd": "26120002976938",
-    "tikName": "Ростов-на-Дону, Пролетарская"
+    "tikName": "Ростов-на-Дону, Пролетарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1949,
     "uikTvd": "4614049412383",
+    "uikName": "УИК №1949",
     "tikTvd": "26120002976938",
-    "tikName": "Ростов-на-Дону, Пролетарская"
+    "tikName": "Ростов-на-Дону, Пролетарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1950,
     "uikTvd": "4614049412385",
+    "uikName": "УИК №1950",
     "tikTvd": "26120002976938",
-    "tikName": "Ростов-на-Дону, Пролетарская"
+    "tikName": "Ростов-на-Дону, Пролетарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1951,
     "uikTvd": "4614049412387",
+    "uikName": "УИК №1951",
     "tikTvd": "26120002976938",
-    "tikName": "Ростов-на-Дону, Пролетарская"
+    "tikName": "Ростов-на-Дону, Пролетарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1952,
     "uikTvd": "4614049412389",
+    "uikName": "УИК №1952",
     "tikTvd": "26120002976938",
-    "tikName": "Ростов-на-Дону, Пролетарская"
+    "tikName": "Ростов-на-Дону, Пролетарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1953,
     "uikTvd": "4614049412391",
+    "uikName": "УИК №1953",
     "tikTvd": "26120002976938",
-    "tikName": "Ростов-на-Дону, Пролетарская"
+    "tikName": "Ростов-на-Дону, Пролетарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1954,
     "uikTvd": "4614049412393",
+    "uikName": "УИК №1954",
     "tikTvd": "26120002976938",
-    "tikName": "Ростов-на-Дону, Пролетарская"
+    "tikName": "Ростов-на-Дону, Пролетарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1955,
     "uikTvd": "4614049412395",
+    "uikName": "УИК №1955",
     "tikTvd": "26120002976938",
-    "tikName": "Ростов-на-Дону, Пролетарская"
+    "tikName": "Ростов-на-Дону, Пролетарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1956,
     "uikTvd": "4614049412397",
+    "uikName": "УИК №1956",
     "tikTvd": "26120002976938",
-    "tikName": "Ростов-на-Дону, Пролетарская"
+    "tikName": "Ростов-на-Дону, Пролетарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1957,
     "uikTvd": "4614049412399",
+    "uikName": "УИК №1957",
     "tikTvd": "26120002976938",
-    "tikName": "Ростов-на-Дону, Пролетарская"
+    "tikName": "Ростов-на-Дону, Пролетарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1958,
     "uikTvd": "4614049412401",
+    "uikName": "УИК №1958",
     "tikTvd": "26120002976938",
-    "tikName": "Ростов-на-Дону, Пролетарская"
+    "tikName": "Ростов-на-Дону, Пролетарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1959,
     "uikTvd": "4614048495312",
+    "uikName": "УИК №1959",
     "tikTvd": "26120002976979",
-    "tikName": "Ростов-на-Дону, Первомайская"
+    "tikName": "Ростов-на-Дону, Первомайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1960,
     "uikTvd": "4614049412403",
+    "uikName": "УИК №1960",
     "tikTvd": "26120002976938",
-    "tikName": "Ростов-на-Дону, Пролетарская"
+    "tikName": "Ростов-на-Дону, Пролетарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1961,
     "uikTvd": "4614049412405",
+    "uikName": "УИК №1961",
     "tikTvd": "26120002976938",
-    "tikName": "Ростов-на-Дону, Пролетарская"
+    "tikName": "Ростов-на-Дону, Пролетарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1962,
     "uikTvd": "4614049412407",
+    "uikName": "УИК №1962",
     "tikTvd": "26120002976938",
-    "tikName": "Ростов-на-Дону, Пролетарская"
+    "tikName": "Ростов-на-Дону, Пролетарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1963,
     "uikTvd": "4614049412409",
+    "uikName": "УИК №1963",
     "tikTvd": "26120002976938",
-    "tikName": "Ростов-на-Дону, Пролетарская"
+    "tikName": "Ростов-на-Дону, Пролетарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1964,
     "uikTvd": "4614049412410",
+    "uikName": "УИК №1964",
     "tikTvd": "26120002976938",
-    "tikName": "Ростов-на-Дону, Пролетарская"
+    "tikName": "Ростов-на-Дону, Пролетарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1965,
     "uikTvd": "4614049412411",
+    "uikName": "УИК №1965",
     "tikTvd": "26120002976938",
-    "tikName": "Ростов-на-Дону, Пролетарская"
+    "tikName": "Ростов-на-Дону, Пролетарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1966,
     "uikTvd": "4614049412412",
+    "uikName": "УИК №1966",
     "tikTvd": "26120002976938",
-    "tikName": "Ростов-на-Дону, Пролетарская"
+    "tikName": "Ростов-на-Дону, Пролетарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1967,
     "uikTvd": "4614049412413",
+    "uikName": "УИК №1967",
     "tikTvd": "26120002976938",
-    "tikName": "Ростов-на-Дону, Пролетарская"
+    "tikName": "Ростов-на-Дону, Пролетарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1968,
     "uikTvd": "4614049412414",
+    "uikName": "УИК №1968",
     "tikTvd": "26120002976938",
-    "tikName": "Ростов-на-Дону, Пролетарская"
+    "tikName": "Ростов-на-Дону, Пролетарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1969,
     "uikTvd": "4614049412416",
+    "uikName": "УИК №1969",
     "tikTvd": "26120002976938",
-    "tikName": "Ростов-на-Дону, Пролетарская"
+    "tikName": "Ростов-на-Дону, Пролетарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1970,
     "uikTvd": "4614049412417",
+    "uikName": "УИК №1970",
     "tikTvd": "26120002976938",
-    "tikName": "Ростов-на-Дону, Пролетарская"
+    "tikName": "Ростов-на-Дону, Пролетарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1971,
     "uikTvd": "4614049412418",
+    "uikName": "УИК №1971",
     "tikTvd": "26120002976938",
-    "tikName": "Ростов-на-Дону, Пролетарская"
+    "tikName": "Ростов-на-Дону, Пролетарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1972,
     "uikTvd": "4614049412419",
+    "uikName": "УИК №1972",
     "tikTvd": "26120002976938",
-    "tikName": "Ростов-на-Дону, Пролетарская"
+    "tikName": "Ростов-на-Дону, Пролетарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1973,
     "uikTvd": "4614049412420",
+    "uikName": "УИК №1973",
     "tikTvd": "26120002976938",
-    "tikName": "Ростов-на-Дону, Пролетарская"
+    "tikName": "Ростов-на-Дону, Пролетарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1974,
     "uikTvd": "4614049412421",
+    "uikName": "УИК №1974",
     "tikTvd": "26120002976938",
-    "tikName": "Ростов-на-Дону, Пролетарская"
+    "tikName": "Ростов-на-Дону, Пролетарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1975,
     "uikTvd": "4614049412423",
+    "uikName": "УИК №1975",
     "tikTvd": "26120002976938",
-    "tikName": "Ростов-на-Дону, Пролетарская"
+    "tikName": "Ростов-на-Дону, Пролетарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1976,
     "uikTvd": "4614049412424",
+    "uikName": "УИК №1976",
     "tikTvd": "26120002976938",
-    "tikName": "Ростов-на-Дону, Пролетарская"
+    "tikName": "Ростов-на-Дону, Пролетарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1977,
     "uikTvd": "4614049412425",
+    "uikName": "УИК №1977",
     "tikTvd": "26120002976938",
-    "tikName": "Ростов-на-Дону, Пролетарская"
+    "tikName": "Ростов-на-Дону, Пролетарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1978,
     "uikTvd": "4614049412426",
+    "uikName": "УИК №1978",
     "tikTvd": "26120002976938",
-    "tikName": "Ростов-на-Дону, Пролетарская"
+    "tikName": "Ростов-на-Дону, Пролетарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1979,
     "uikTvd": "4614049412427",
+    "uikName": "УИК №1979",
     "tikTvd": "26120002976938",
-    "tikName": "Ростов-на-Дону, Пролетарская"
+    "tikName": "Ростов-на-Дону, Пролетарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1980,
     "uikTvd": "4614049412428",
+    "uikName": "УИК №1980",
     "tikTvd": "26120002976938",
-    "tikName": "Ростов-на-Дону, Пролетарская"
+    "tikName": "Ростов-на-Дону, Пролетарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1981,
     "uikTvd": "4614049412430",
+    "uikName": "УИК №1981",
     "tikTvd": "26120002976938",
-    "tikName": "Ростов-на-Дону, Пролетарская"
+    "tikName": "Ростов-на-Дону, Пролетарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1982,
     "uikTvd": "4614049412431",
+    "uikName": "УИК №1982",
     "tikTvd": "26120002976938",
-    "tikName": "Ростов-на-Дону, Пролетарская"
+    "tikName": "Ростов-на-Дону, Пролетарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1983,
     "uikTvd": "4614050493219",
+    "uikName": "УИК №1983",
     "tikTvd": "26120002976978",
-    "tikName": "Ростов-на-Дону, Советская"
+    "tikName": "Ростов-на-Дону, Советская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1984,
     "uikTvd": "4614050493220",
+    "uikName": "УИК №1984",
     "tikTvd": "26120002976978",
-    "tikName": "Ростов-на-Дону, Советская"
+    "tikName": "Ростов-на-Дону, Советская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1985,
     "uikTvd": "4614050493221",
+    "uikName": "УИК №1985",
     "tikTvd": "26120002976978",
-    "tikName": "Ростов-на-Дону, Советская"
+    "tikName": "Ростов-на-Дону, Советская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1986,
     "uikTvd": "4614050493222",
+    "uikName": "УИК №1986",
     "tikTvd": "26120002976978",
-    "tikName": "Ростов-на-Дону, Советская"
+    "tikName": "Ростов-на-Дону, Советская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1987,
     "uikTvd": "4614050493223",
+    "uikName": "УИК №1987",
     "tikTvd": "26120002976978",
-    "tikName": "Ростов-на-Дону, Советская"
+    "tikName": "Ростов-на-Дону, Советская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1988,
     "uikTvd": "4614050493224",
+    "uikName": "УИК №1988",
     "tikTvd": "26120002976978",
-    "tikName": "Ростов-на-Дону, Советская"
+    "tikName": "Ростов-на-Дону, Советская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1989,
     "uikTvd": "4614050493225",
+    "uikName": "УИК №1989",
     "tikTvd": "26120002976978",
-    "tikName": "Ростов-на-Дону, Советская"
+    "tikName": "Ростов-на-Дону, Советская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1990,
     "uikTvd": "4614050493226",
+    "uikName": "УИК №1990",
     "tikTvd": "26120002976978",
-    "tikName": "Ростов-на-Дону, Советская"
+    "tikName": "Ростов-на-Дону, Советская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1991,
     "uikTvd": "4614050493227",
+    "uikName": "УИК №1991",
     "tikTvd": "26120002976978",
-    "tikName": "Ростов-на-Дону, Советская"
+    "tikName": "Ростов-на-Дону, Советская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1992,
     "uikTvd": "4614050493228",
+    "uikName": "УИК №1992",
     "tikTvd": "26120002976978",
-    "tikName": "Ростов-на-Дону, Советская"
+    "tikName": "Ростов-на-Дону, Советская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1993,
     "uikTvd": "4614050493229",
+    "uikName": "УИК №1993",
     "tikTvd": "26120002976978",
-    "tikName": "Ростов-на-Дону, Советская"
+    "tikName": "Ростов-на-Дону, Советская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1994,
     "uikTvd": "4614050493230",
+    "uikName": "УИК №1994",
     "tikTvd": "26120002976978",
-    "tikName": "Ростов-на-Дону, Советская"
+    "tikName": "Ростов-на-Дону, Советская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1995,
     "uikTvd": "4614050493231",
+    "uikName": "УИК №1995",
     "tikTvd": "26120002976978",
-    "tikName": "Ростов-на-Дону, Советская"
+    "tikName": "Ростов-на-Дону, Советская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1996,
     "uikTvd": "4614050493232",
+    "uikName": "УИК №1996",
     "tikTvd": "26120002976978",
-    "tikName": "Ростов-на-Дону, Советская"
+    "tikName": "Ростов-на-Дону, Советская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1997,
     "uikTvd": "4614050493233",
+    "uikName": "УИК №1997",
     "tikTvd": "26120002976978",
-    "tikName": "Ростов-на-Дону, Советская"
+    "tikName": "Ростов-на-Дону, Советская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1998,
     "uikTvd": "4614050493234",
+    "uikName": "УИК №1998",
     "tikTvd": "26120002976978",
-    "tikName": "Ростов-на-Дону, Советская"
+    "tikName": "Ростов-на-Дону, Советская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 1999,
     "uikTvd": "4614050493235",
+    "uikName": "УИК №1999",
     "tikTvd": "26120002976978",
-    "tikName": "Ростов-на-Дону, Советская"
+    "tikName": "Ростов-на-Дону, Советская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2000,
     "uikTvd": "4614050493236",
+    "uikName": "УИК №2000",
     "tikTvd": "26120002976978",
-    "tikName": "Ростов-на-Дону, Советская"
+    "tikName": "Ростов-на-Дону, Советская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2001,
     "uikTvd": "4614050493237",
+    "uikName": "УИК №2001",
     "tikTvd": "26120002976978",
-    "tikName": "Ростов-на-Дону, Советская"
+    "tikName": "Ростов-на-Дону, Советская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2002,
     "uikTvd": "4614050493238",
+    "uikName": "УИК №2002",
     "tikTvd": "26120002976978",
-    "tikName": "Ростов-на-Дону, Советская"
+    "tikName": "Ростов-на-Дону, Советская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2003,
     "uikTvd": "4614050493239",
+    "uikName": "УИК №2003",
     "tikTvd": "26120002976978",
-    "tikName": "Ростов-на-Дону, Советская"
+    "tikName": "Ростов-на-Дону, Советская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2004,
     "uikTvd": "4614050493240",
+    "uikName": "УИК №2004",
     "tikTvd": "26120002976978",
-    "tikName": "Ростов-на-Дону, Советская"
+    "tikName": "Ростов-на-Дону, Советская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2005,
     "uikTvd": "4614050493241",
+    "uikName": "УИК №2005",
     "tikTvd": "26120002976978",
-    "tikName": "Ростов-на-Дону, Советская"
+    "tikName": "Ростов-на-Дону, Советская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2006,
     "uikTvd": "4614050493242",
+    "uikName": "УИК №2006",
     "tikTvd": "26120002976978",
-    "tikName": "Ростов-на-Дону, Советская"
+    "tikName": "Ростов-на-Дону, Советская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2007,
     "uikTvd": "4614050493243",
+    "uikName": "УИК №2007",
     "tikTvd": "26120002976978",
-    "tikName": "Ростов-на-Дону, Советская"
+    "tikName": "Ростов-на-Дону, Советская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2008,
     "uikTvd": "4614050493244",
+    "uikName": "УИК №2008",
     "tikTvd": "26120002976978",
-    "tikName": "Ростов-на-Дону, Советская"
+    "tikName": "Ростов-на-Дону, Советская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2009,
     "uikTvd": "4614050493245",
+    "uikName": "УИК №2009",
     "tikTvd": "26120002976978",
-    "tikName": "Ростов-на-Дону, Советская"
+    "tikName": "Ростов-на-Дону, Советская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2010,
     "uikTvd": "4614050493246",
+    "uikName": "УИК №2010",
     "tikTvd": "26120002976978",
-    "tikName": "Ростов-на-Дону, Советская"
+    "tikName": "Ростов-на-Дону, Советская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2011,
     "uikTvd": "4614050493247",
+    "uikName": "УИК №2011",
     "tikTvd": "26120002976978",
-    "tikName": "Ростов-на-Дону, Советская"
+    "tikName": "Ростов-на-Дону, Советская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2012,
     "uikTvd": "4614050493248",
+    "uikName": "УИК №2012",
     "tikTvd": "26120002976978",
-    "tikName": "Ростов-на-Дону, Советская"
+    "tikName": "Ростов-на-Дону, Советская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2013,
     "uikTvd": "4614050493249",
+    "uikName": "УИК №2013",
     "tikTvd": "26120002976978",
-    "tikName": "Ростов-на-Дону, Советская"
+    "tikName": "Ростов-на-Дону, Советская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2014,
     "uikTvd": "4614050493250",
+    "uikName": "УИК №2014",
     "tikTvd": "26120002976978",
-    "tikName": "Ростов-на-Дону, Советская"
+    "tikName": "Ростов-на-Дону, Советская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2015,
     "uikTvd": "4614050493251",
+    "uikName": "УИК №2015",
     "tikTvd": "26120002976978",
-    "tikName": "Ростов-на-Дону, Советская"
+    "tikName": "Ростов-на-Дону, Советская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2016,
     "uikTvd": "4614050493252",
+    "uikName": "УИК №2016",
     "tikTvd": "26120002976978",
-    "tikName": "Ростов-на-Дону, Советская"
+    "tikName": "Ростов-на-Дону, Советская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2017,
     "uikTvd": "4614050493253",
+    "uikName": "УИК №2017",
     "tikTvd": "26120002976978",
-    "tikName": "Ростов-на-Дону, Советская"
+    "tikName": "Ростов-на-Дону, Советская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2018,
     "uikTvd": "4614050493254",
+    "uikName": "УИК №2018",
     "tikTvd": "26120002976978",
-    "tikName": "Ростов-на-Дону, Советская"
+    "tikName": "Ростов-на-Дону, Советская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2019,
     "uikTvd": "4614050493255",
+    "uikName": "УИК №2019",
     "tikTvd": "26120002976978",
-    "tikName": "Ростов-на-Дону, Советская"
+    "tikName": "Ростов-на-Дону, Советская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2020,
     "uikTvd": "4614050493256",
+    "uikName": "УИК №2020",
     "tikTvd": "26120002976978",
-    "tikName": "Ростов-на-Дону, Советская"
+    "tikName": "Ростов-на-Дону, Советская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2021,
     "uikTvd": "4614050493257",
+    "uikName": "УИК №2021",
     "tikTvd": "26120002976978",
-    "tikName": "Ростов-на-Дону, Советская"
+    "tikName": "Ростов-на-Дону, Советская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2022,
     "uikTvd": "4614050493258",
+    "uikName": "УИК №2022",
     "tikTvd": "26120002976978",
-    "tikName": "Ростов-на-Дону, Советская"
+    "tikName": "Ростов-на-Дону, Советская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2023,
     "uikTvd": "4614050493259",
+    "uikName": "УИК №2023",
     "tikTvd": "26120002976978",
-    "tikName": "Ростов-на-Дону, Советская"
+    "tikName": "Ростов-на-Дону, Советская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2024,
     "uikTvd": "4614050493260",
+    "uikName": "УИК №2024",
     "tikTvd": "26120002976978",
-    "tikName": "Ростов-на-Дону, Советская"
+    "tikName": "Ростов-на-Дону, Советская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2025,
     "uikTvd": "4614050493261",
+    "uikName": "УИК №2025",
     "tikTvd": "26120002976978",
-    "tikName": "Ростов-на-Дону, Советская"
+    "tikName": "Ростов-на-Дону, Советская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2026,
     "uikTvd": "4614050493262",
+    "uikName": "УИК №2026",
     "tikTvd": "26120002976978",
-    "tikName": "Ростов-на-Дону, Советская"
+    "tikName": "Ростов-на-Дону, Советская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2027,
     "uikTvd": "4614050493263",
+    "uikName": "УИК №2027",
     "tikTvd": "26120002976978",
-    "tikName": "Ростов-на-Дону, Советская"
+    "tikName": "Ростов-на-Дону, Советская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2028,
     "uikTvd": "4614050493264",
+    "uikName": "УИК №2028",
     "tikTvd": "26120002976978",
-    "tikName": "Ростов-на-Дону, Советская"
+    "tikName": "Ростов-на-Дону, Советская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2029,
     "uikTvd": "4614050493265",
+    "uikName": "УИК №2029",
     "tikTvd": "26120002976978",
-    "tikName": "Ростов-на-Дону, Советская"
+    "tikName": "Ростов-на-Дону, Советская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2030,
     "uikTvd": "4614050493266",
+    "uikName": "УИК №2030",
     "tikTvd": "26120002976978",
-    "tikName": "Ростов-на-Дону, Советская"
+    "tikName": "Ростов-на-Дону, Советская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2031,
     "uikTvd": "4614050493267",
+    "uikName": "УИК №2031",
     "tikTvd": "26120002976978",
-    "tikName": "Ростов-на-Дону, Советская"
+    "tikName": "Ростов-на-Дону, Советская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2032,
     "uikTvd": "4614050493268",
+    "uikName": "УИК №2032",
     "tikTvd": "26120002976978",
-    "tikName": "Ростов-на-Дону, Советская"
+    "tikName": "Ростов-на-Дону, Советская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2033,
     "uikTvd": "4614050493269",
+    "uikName": "УИК №2033",
     "tikTvd": "26120002976978",
-    "tikName": "Ростов-на-Дону, Советская"
+    "tikName": "Ростов-на-Дону, Советская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2034,
     "uikTvd": "4614050493270",
+    "uikName": "УИК №2034",
     "tikTvd": "26120002976978",
-    "tikName": "Ростов-на-Дону, Советская"
+    "tikName": "Ростов-на-Дону, Советская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2035,
     "uikTvd": "4614050493271",
+    "uikName": "УИК №2035",
     "tikTvd": "26120002976978",
-    "tikName": "Ростов-на-Дону, Советская"
+    "tikName": "Ростов-на-Дону, Советская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2036,
     "uikTvd": "4614050493272",
+    "uikName": "УИК №2036",
     "tikTvd": "26120002976978",
-    "tikName": "Ростов-на-Дону, Советская"
+    "tikName": "Ростов-на-Дону, Советская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2037,
     "uikTvd": "46140431256870",
+    "uikName": "УИК №2037",
     "tikTvd": "26120002976994",
-    "tikName": "Ростов-на-Дону, Ворошиловская"
+    "tikName": "Ростов-на-Дону, Ворошиловская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2038,
     "uikTvd": "4614050495037",
+    "uikName": "УИК №2038",
     "tikTvd": "26120002976978",
-    "tikName": "Ростов-на-Дону, Советская"
+    "tikName": "Ростов-на-Дону, Советская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2039,
     "uikTvd": "4614051593630",
+    "uikName": "УИК №2039",
     "tikTvd": "26120002976969",
-    "tikName": "Сальская"
+    "tikName": "Сальская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2040,
     "uikTvd": "4614051593631",
+    "uikName": "УИК №2040",
     "tikTvd": "26120002976969",
-    "tikName": "Сальская"
+    "tikName": "Сальская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2041,
     "uikTvd": "4614051593632",
+    "uikName": "УИК №2041",
     "tikTvd": "26120002976969",
-    "tikName": "Сальская"
+    "tikName": "Сальская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2042,
     "uikTvd": "4614051593633",
+    "uikName": "УИК №2042",
     "tikTvd": "26120002976969",
-    "tikName": "Сальская"
+    "tikName": "Сальская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2043,
     "uikTvd": "4614051593634",
+    "uikName": "УИК №2043",
     "tikTvd": "26120002976969",
-    "tikName": "Сальская"
+    "tikName": "Сальская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2044,
     "uikTvd": "4614051593635",
+    "uikName": "УИК №2044",
     "tikTvd": "26120002976969",
-    "tikName": "Сальская"
+    "tikName": "Сальская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2045,
     "uikTvd": "4614051593636",
+    "uikName": "УИК №2045",
     "tikTvd": "26120002976969",
-    "tikName": "Сальская"
+    "tikName": "Сальская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2046,
     "uikTvd": "4614051593637",
+    "uikName": "УИК №2046",
     "tikTvd": "26120002976969",
-    "tikName": "Сальская"
+    "tikName": "Сальская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2047,
     "uikTvd": "4614051593638",
+    "uikName": "УИК №2047",
     "tikTvd": "26120002976969",
-    "tikName": "Сальская"
+    "tikName": "Сальская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2048,
     "uikTvd": "4614051593639",
+    "uikName": "УИК №2048",
     "tikTvd": "26120002976969",
-    "tikName": "Сальская"
+    "tikName": "Сальская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2049,
     "uikTvd": "4614051593640",
+    "uikName": "УИК №2049",
     "tikTvd": "26120002976969",
-    "tikName": "Сальская"
+    "tikName": "Сальская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2050,
     "uikTvd": "4614051593641",
+    "uikName": "УИК №2050",
     "tikTvd": "26120002976969",
-    "tikName": "Сальская"
+    "tikName": "Сальская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2051,
     "uikTvd": "4614051593642",
+    "uikName": "УИК №2051",
     "tikTvd": "26120002976969",
-    "tikName": "Сальская"
+    "tikName": "Сальская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2052,
     "uikTvd": "4614051593643",
+    "uikName": "УИК №2052",
     "tikTvd": "26120002976969",
-    "tikName": "Сальская"
+    "tikName": "Сальская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2053,
     "uikTvd": "4614051593644",
+    "uikName": "УИК №2053",
     "tikTvd": "26120002976969",
-    "tikName": "Сальская"
+    "tikName": "Сальская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2054,
     "uikTvd": "4614051593645",
+    "uikName": "УИК №2054",
     "tikTvd": "26120002976969",
-    "tikName": "Сальская"
+    "tikName": "Сальская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2055,
     "uikTvd": "4614051593646",
+    "uikName": "УИК №2055",
     "tikTvd": "26120002976969",
-    "tikName": "Сальская"
+    "tikName": "Сальская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2056,
     "uikTvd": "4614051593647",
+    "uikName": "УИК №2056",
     "tikTvd": "26120002976969",
-    "tikName": "Сальская"
+    "tikName": "Сальская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2057,
     "uikTvd": "4614051593648",
+    "uikName": "УИК №2057",
     "tikTvd": "26120002976969",
-    "tikName": "Сальская"
+    "tikName": "Сальская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2058,
     "uikTvd": "4614051593649",
+    "uikName": "УИК №2058",
     "tikTvd": "26120002976969",
-    "tikName": "Сальская"
+    "tikName": "Сальская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2059,
     "uikTvd": "4614051593650",
+    "uikName": "УИК №2059",
     "tikTvd": "26120002976969",
-    "tikName": "Сальская"
+    "tikName": "Сальская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2061,
     "uikTvd": "4614051593651",
+    "uikName": "УИК №2061",
     "tikTvd": "26120002976969",
-    "tikName": "Сальская"
+    "tikName": "Сальская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2062,
     "uikTvd": "4614051593652",
+    "uikName": "УИК №2062",
     "tikTvd": "26120002976969",
-    "tikName": "Сальская"
+    "tikName": "Сальская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2063,
     "uikTvd": "4614051593653",
+    "uikName": "УИК №2063",
     "tikTvd": "26120002976969",
-    "tikName": "Сальская"
+    "tikName": "Сальская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2065,
     "uikTvd": "4614051593654",
+    "uikName": "УИК №2065",
     "tikTvd": "26120002976969",
-    "tikName": "Сальская"
+    "tikName": "Сальская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2066,
     "uikTvd": "4614051593655",
+    "uikName": "УИК №2066",
     "tikTvd": "26120002976969",
-    "tikName": "Сальская"
+    "tikName": "Сальская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2067,
     "uikTvd": "4614051593656",
+    "uikName": "УИК №2067",
     "tikTvd": "26120002976969",
-    "tikName": "Сальская"
+    "tikName": "Сальская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2068,
     "uikTvd": "4614051593657",
+    "uikName": "УИК №2068",
     "tikTvd": "26120002976969",
-    "tikName": "Сальская"
+    "tikName": "Сальская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2069,
     "uikTvd": "4614051593658",
+    "uikName": "УИК №2069",
     "tikTvd": "26120002976969",
-    "tikName": "Сальская"
+    "tikName": "Сальская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2070,
     "uikTvd": "4614051593659",
+    "uikName": "УИК №2070",
     "tikTvd": "26120002976969",
-    "tikName": "Сальская"
+    "tikName": "Сальская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2071,
     "uikTvd": "4614051593660",
+    "uikName": "УИК №2071",
     "tikTvd": "26120002976969",
-    "tikName": "Сальская"
+    "tikName": "Сальская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2072,
     "uikTvd": "4614051593661",
+    "uikName": "УИК №2072",
     "tikTvd": "26120002976969",
-    "tikName": "Сальская"
+    "tikName": "Сальская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2073,
     "uikTvd": "4614051593662",
+    "uikName": "УИК №2073",
     "tikTvd": "26120002976969",
-    "tikName": "Сальская"
+    "tikName": "Сальская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2074,
     "uikTvd": "4614051593663",
+    "uikName": "УИК №2074",
     "tikTvd": "26120002976969",
-    "tikName": "Сальская"
+    "tikName": "Сальская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2075,
     "uikTvd": "4614051593664",
+    "uikName": "УИК №2075",
     "tikTvd": "26120002976969",
-    "tikName": "Сальская"
+    "tikName": "Сальская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2076,
     "uikTvd": "4614051593665",
+    "uikName": "УИК №2076",
     "tikTvd": "26120002976969",
-    "tikName": "Сальская"
+    "tikName": "Сальская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2077,
     "uikTvd": "4614051593666",
+    "uikName": "УИК №2077",
     "tikTvd": "26120002976969",
-    "tikName": "Сальская"
+    "tikName": "Сальская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2078,
     "uikTvd": "4614051593667",
+    "uikName": "УИК №2078",
     "tikTvd": "26120002976969",
-    "tikName": "Сальская"
+    "tikName": "Сальская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2079,
     "uikTvd": "4614051593668",
+    "uikName": "УИК №2079",
     "tikTvd": "26120002976969",
-    "tikName": "Сальская"
+    "tikName": "Сальская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2080,
     "uikTvd": "4614051593669",
+    "uikName": "УИК №2080",
     "tikTvd": "26120002976969",
-    "tikName": "Сальская"
+    "tikName": "Сальская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2081,
     "uikTvd": "4614051593670",
+    "uikName": "УИК №2081",
     "tikTvd": "26120002976969",
-    "tikName": "Сальская"
+    "tikName": "Сальская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2082,
     "uikTvd": "4614051593671",
+    "uikName": "УИК №2082",
     "tikTvd": "26120002976969",
-    "tikName": "Сальская"
+    "tikName": "Сальская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2083,
     "uikTvd": "4614051593672",
+    "uikName": "УИК №2083",
     "tikTvd": "26120002976969",
-    "tikName": "Сальская"
+    "tikName": "Сальская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2084,
     "uikTvd": "4614051593673",
+    "uikName": "УИК №2084",
     "tikTvd": "26120002976969",
-    "tikName": "Сальская"
+    "tikName": "Сальская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2085,
     "uikTvd": "4614051593674",
+    "uikName": "УИК №2085",
     "tikTvd": "26120002976969",
-    "tikName": "Сальская"
+    "tikName": "Сальская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2086,
     "uikTvd": "4614051593675",
+    "uikName": "УИК №2086",
     "tikTvd": "26120002976969",
-    "tikName": "Сальская"
+    "tikName": "Сальская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2087,
     "uikTvd": "4614051593676",
+    "uikName": "УИК №2087",
     "tikTvd": "26120002976969",
-    "tikName": "Сальская"
+    "tikName": "Сальская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2088,
     "uikTvd": "4614051593677",
+    "uikName": "УИК №2088",
     "tikTvd": "26120002976969",
-    "tikName": "Сальская"
+    "tikName": "Сальская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2089,
     "uikTvd": "4614051593678",
+    "uikName": "УИК №2089",
     "tikTvd": "26120002976969",
-    "tikName": "Сальская"
+    "tikName": "Сальская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2090,
     "uikTvd": "4614051593679",
+    "uikName": "УИК №2090",
     "tikTvd": "26120002976969",
-    "tikName": "Сальская"
+    "tikName": "Сальская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2092,
     "uikTvd": "4614051593680",
+    "uikName": "УИК №2092",
     "tikTvd": "26120002976969",
-    "tikName": "Сальская"
+    "tikName": "Сальская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2093,
     "uikTvd": "4614051593681",
+    "uikName": "УИК №2093",
     "tikTvd": "26120002976969",
-    "tikName": "Сальская"
+    "tikName": "Сальская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2094,
     "uikTvd": "4614051593682",
+    "uikName": "УИК №2094",
     "tikTvd": "26120002976969",
-    "tikName": "Сальская"
+    "tikName": "Сальская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2095,
     "uikTvd": "4614051593683",
+    "uikName": "УИК №2095",
     "tikTvd": "26120002976969",
-    "tikName": "Сальская"
+    "tikName": "Сальская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2096,
     "uikTvd": "4614052439716",
+    "uikName": "УИК №2096",
     "tikTvd": "26120002976985",
-    "tikName": "Семикаракорская"
+    "tikName": "Семикаракорская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2097,
     "uikTvd": "4614052439717",
+    "uikName": "УИК №2097",
     "tikTvd": "26120002976985",
-    "tikName": "Семикаракорская"
+    "tikName": "Семикаракорская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2098,
     "uikTvd": "4614052439718",
+    "uikName": "УИК №2098",
     "tikTvd": "26120002976985",
-    "tikName": "Семикаракорская"
+    "tikName": "Семикаракорская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2099,
     "uikTvd": "4614052439719",
+    "uikName": "УИК №2099",
     "tikTvd": "26120002976985",
-    "tikName": "Семикаракорская"
+    "tikName": "Семикаракорская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2100,
     "uikTvd": "4614052439720",
+    "uikName": "УИК №2100",
     "tikTvd": "26120002976985",
-    "tikName": "Семикаракорская"
+    "tikName": "Семикаракорская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2101,
     "uikTvd": "4614052439721",
+    "uikName": "УИК №2101",
     "tikTvd": "26120002976985",
-    "tikName": "Семикаракорская"
+    "tikName": "Семикаракорская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2102,
     "uikTvd": "4614052439722",
+    "uikName": "УИК №2102",
     "tikTvd": "26120002976985",
-    "tikName": "Семикаракорская"
+    "tikName": "Семикаракорская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2103,
     "uikTvd": "4614052439723",
+    "uikName": "УИК №2103",
     "tikTvd": "26120002976985",
-    "tikName": "Семикаракорская"
+    "tikName": "Семикаракорская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2104,
     "uikTvd": "4614052439724",
+    "uikName": "УИК №2104",
     "tikTvd": "26120002976985",
-    "tikName": "Семикаракорская"
+    "tikName": "Семикаракорская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2105,
     "uikTvd": "4614052439725",
+    "uikName": "УИК №2105",
     "tikTvd": "26120002976985",
-    "tikName": "Семикаракорская"
+    "tikName": "Семикаракорская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2106,
     "uikTvd": "4614052439726",
+    "uikName": "УИК №2106",
     "tikTvd": "26120002976985",
-    "tikName": "Семикаракорская"
+    "tikName": "Семикаракорская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2107,
     "uikTvd": "4614052439727",
+    "uikName": "УИК №2107",
     "tikTvd": "26120002976985",
-    "tikName": "Семикаракорская"
+    "tikName": "Семикаракорская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2108,
     "uikTvd": "4614052439728",
+    "uikName": "УИК №2108",
     "tikTvd": "26120002976985",
-    "tikName": "Семикаракорская"
+    "tikName": "Семикаракорская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2109,
     "uikTvd": "4614052439729",
+    "uikName": "УИК №2109",
     "tikTvd": "26120002976985",
-    "tikName": "Семикаракорская"
+    "tikName": "Семикаракорская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2110,
     "uikTvd": "4614052439730",
+    "uikName": "УИК №2110",
     "tikTvd": "26120002976985",
-    "tikName": "Семикаракорская"
+    "tikName": "Семикаракорская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2111,
     "uikTvd": "4614052439731",
+    "uikName": "УИК №2111",
     "tikTvd": "26120002976985",
-    "tikName": "Семикаракорская"
+    "tikName": "Семикаракорская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2112,
     "uikTvd": "4614052439732",
+    "uikName": "УИК №2112",
     "tikTvd": "26120002976985",
-    "tikName": "Семикаракорская"
+    "tikName": "Семикаракорская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2113,
     "uikTvd": "4614052439733",
+    "uikName": "УИК №2113",
     "tikTvd": "26120002976985",
-    "tikName": "Семикаракорская"
+    "tikName": "Семикаракорская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2114,
     "uikTvd": "4614052439734",
+    "uikName": "УИК №2114",
     "tikTvd": "26120002976985",
-    "tikName": "Семикаракорская"
+    "tikName": "Семикаракорская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2115,
     "uikTvd": "4614052439735",
+    "uikName": "УИК №2115",
     "tikTvd": "26120002976985",
-    "tikName": "Семикаракорская"
+    "tikName": "Семикаракорская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2116,
     "uikTvd": "4614052439736",
+    "uikName": "УИК №2116",
     "tikTvd": "26120002976985",
-    "tikName": "Семикаракорская"
+    "tikName": "Семикаракорская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2117,
     "uikTvd": "4614052439737",
+    "uikName": "УИК №2117",
     "tikTvd": "26120002976985",
-    "tikName": "Семикаракорская"
+    "tikName": "Семикаракорская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2118,
     "uikTvd": "4614052439738",
+    "uikName": "УИК №2118",
     "tikTvd": "26120002976985",
-    "tikName": "Семикаракорская"
+    "tikName": "Семикаракорская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2119,
     "uikTvd": "4614052439739",
+    "uikName": "УИК №2119",
     "tikTvd": "26120002976985",
-    "tikName": "Семикаракорская"
+    "tikName": "Семикаракорская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2120,
     "uikTvd": "4614052439740",
+    "uikName": "УИК №2120",
     "tikTvd": "26120002976985",
-    "tikName": "Семикаракорская"
+    "tikName": "Семикаракорская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2121,
     "uikTvd": "4614052439741",
+    "uikName": "УИК №2121",
     "tikTvd": "26120002976985",
-    "tikName": "Семикаракорская"
+    "tikName": "Семикаракорская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2122,
     "uikTvd": "4614052439742",
+    "uikName": "УИК №2122",
     "tikTvd": "26120002976985",
-    "tikName": "Семикаракорская"
+    "tikName": "Семикаракорская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2123,
     "uikTvd": "4614052439743",
+    "uikName": "УИК №2123",
     "tikTvd": "26120002976985",
-    "tikName": "Семикаракорская"
+    "tikName": "Семикаракорская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2124,
     "uikTvd": "4614052439744",
+    "uikName": "УИК №2124",
     "tikTvd": "26120002976985",
-    "tikName": "Семикаракорская"
+    "tikName": "Семикаракорская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2125,
     "uikTvd": "4614052439745",
+    "uikName": "УИК №2125",
     "tikTvd": "26120002976985",
-    "tikName": "Семикаракорская"
+    "tikName": "Семикаракорская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2126,
     "uikTvd": "4614052439746",
+    "uikName": "УИК №2126",
     "tikTvd": "26120002976985",
-    "tikName": "Семикаракорская"
+    "tikName": "Семикаракорская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2127,
     "uikTvd": "4614052439747",
+    "uikName": "УИК №2127",
     "tikTvd": "26120002976985",
-    "tikName": "Семикаракорская"
+    "tikName": "Семикаракорская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2128,
     "uikTvd": "4614052439748",
+    "uikName": "УИК №2128",
     "tikTvd": "26120002976985",
-    "tikName": "Семикаракорская"
+    "tikName": "Семикаракорская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2129,
     "uikTvd": "4614052439749",
+    "uikName": "УИК №2129",
     "tikTvd": "26120002976985",
-    "tikName": "Семикаракорская"
+    "tikName": "Семикаракорская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2130,
     "uikTvd": "4614052439750",
+    "uikName": "УИК №2130",
     "tikTvd": "26120002976985",
-    "tikName": "Семикаракорская"
+    "tikName": "Семикаракорская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2131,
     "uikTvd": "4614052439751",
+    "uikName": "УИК №2131",
     "tikTvd": "26120002976985",
-    "tikName": "Семикаракорская"
+    "tikName": "Семикаракорская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2132,
     "uikTvd": "4614052439752",
+    "uikName": "УИК №2132",
     "tikTvd": "26120002976985",
-    "tikName": "Семикаракорская"
+    "tikName": "Семикаракорская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2133,
     "uikTvd": "4614052439753",
+    "uikName": "УИК №2133",
     "tikTvd": "26120002976985",
-    "tikName": "Семикаракорская"
+    "tikName": "Семикаракорская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2134,
     "uikTvd": "4614052439754",
+    "uikName": "УИК №2134",
     "tikTvd": "26120002976985",
-    "tikName": "Семикаракорская"
+    "tikName": "Семикаракорская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2135,
     "uikTvd": "4614053231298",
+    "uikName": "УИК №2135",
     "tikTvd": "26120002976980",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2136,
     "uikTvd": "4614053231299",
+    "uikName": "УИК №2136",
     "tikTvd": "26120002976980",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2137,
     "uikTvd": "4614053231300",
+    "uikName": "УИК №2137",
     "tikTvd": "26120002976980",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2138,
     "uikTvd": "4614053231301",
+    "uikName": "УИК №2138",
     "tikTvd": "26120002976980",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2140,
     "uikTvd": "4614053231302",
+    "uikName": "УИК №2140",
     "tikTvd": "26120002976980",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2141,
     "uikTvd": "4614053231303",
+    "uikName": "УИК №2141",
     "tikTvd": "26120002976980",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2142,
     "uikTvd": "4614053231304",
+    "uikName": "УИК №2142",
     "tikTvd": "26120002976980",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2143,
     "uikTvd": "4614053231305",
+    "uikName": "УИК №2143",
     "tikTvd": "26120002976980",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2144,
     "uikTvd": "4614053231306",
+    "uikName": "УИК №2144",
     "tikTvd": "26120002976980",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2145,
     "uikTvd": "4614053231307",
+    "uikName": "УИК №2145",
     "tikTvd": "26120002976980",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2146,
     "uikTvd": "4614053231308",
+    "uikName": "УИК №2146",
     "tikTvd": "26120002976980",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2147,
     "uikTvd": "4614053231309",
+    "uikName": "УИК №2147",
     "tikTvd": "26120002976980",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2148,
     "uikTvd": "46140543450342",
+    "uikName": "УИК №2148",
     "tikTvd": "26120002976936",
-    "tikName": "Таганрогская городская (восточная)"
+    "tikName": "Таганрогская городская (восточная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2149,
     "uikTvd": "46140543450343",
+    "uikName": "УИК №2149",
     "tikTvd": "26120002976936",
-    "tikName": "Таганрогская городская (восточная)"
+    "tikName": "Таганрогская городская (восточная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2150,
     "uikTvd": "46140543450344",
+    "uikName": "УИК №2150",
     "tikTvd": "26120002976936",
-    "tikName": "Таганрогская городская (восточная)"
+    "tikName": "Таганрогская городская (восточная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2151,
     "uikTvd": "46140543450345",
+    "uikName": "УИК №2151",
     "tikTvd": "26120002976936",
-    "tikName": "Таганрогская городская (восточная)"
+    "tikName": "Таганрогская городская (восточная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2152,
     "uikTvd": "46140543450346",
+    "uikName": "УИК №2152",
     "tikTvd": "26120002976936",
-    "tikName": "Таганрогская городская (восточная)"
+    "tikName": "Таганрогская городская (восточная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2153,
     "uikTvd": "46140543450347",
+    "uikName": "УИК №2153",
     "tikTvd": "26120002976936",
-    "tikName": "Таганрогская городская (восточная)"
+    "tikName": "Таганрогская городская (восточная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2154,
     "uikTvd": "46140543450348",
+    "uikName": "УИК №2154",
     "tikTvd": "26120002976936",
-    "tikName": "Таганрогская городская (восточная)"
+    "tikName": "Таганрогская городская (восточная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2155,
     "uikTvd": "46140543450349",
+    "uikName": "УИК №2155",
     "tikTvd": "26120002976936",
-    "tikName": "Таганрогская городская (восточная)"
+    "tikName": "Таганрогская городская (восточная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2156,
     "uikTvd": "46140543450350",
+    "uikName": "УИК №2156",
     "tikTvd": "26120002976936",
-    "tikName": "Таганрогская городская (восточная)"
+    "tikName": "Таганрогская городская (восточная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2157,
     "uikTvd": "46140543450351",
+    "uikName": "УИК №2157",
     "tikTvd": "26120002976936",
-    "tikName": "Таганрогская городская (восточная)"
+    "tikName": "Таганрогская городская (восточная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2158,
     "uikTvd": "46140543450352",
+    "uikName": "УИК №2158",
     "tikTvd": "26120002976936",
-    "tikName": "Таганрогская городская (восточная)"
+    "tikName": "Таганрогская городская (восточная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2159,
     "uikTvd": "46140543450353",
+    "uikName": "УИК №2159",
     "tikTvd": "26120002976936",
-    "tikName": "Таганрогская городская (восточная)"
+    "tikName": "Таганрогская городская (восточная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2160,
     "uikTvd": "46140543450354",
+    "uikName": "УИК №2160",
     "tikTvd": "26120002976936",
-    "tikName": "Таганрогская городская (восточная)"
+    "tikName": "Таганрогская городская (восточная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2161,
     "uikTvd": "46140543450355",
+    "uikName": "УИК №2161",
     "tikTvd": "26120002976936",
-    "tikName": "Таганрогская городская (восточная)"
+    "tikName": "Таганрогская городская (восточная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2162,
     "uikTvd": "46140543450356",
+    "uikName": "УИК №2162",
     "tikTvd": "26120002976936",
-    "tikName": "Таганрогская городская (восточная)"
+    "tikName": "Таганрогская городская (восточная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2163,
     "uikTvd": "46140543450357",
+    "uikName": "УИК №2163",
     "tikTvd": "26120002976936",
-    "tikName": "Таганрогская городская (восточная)"
+    "tikName": "Таганрогская городская (восточная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2164,
     "uikTvd": "46140543450358",
+    "uikName": "УИК №2164",
     "tikTvd": "26120002976936",
-    "tikName": "Таганрогская городская (восточная)"
+    "tikName": "Таганрогская городская (восточная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2165,
     "uikTvd": "46140543450359",
+    "uikName": "УИК №2165",
     "tikTvd": "26120002976936",
-    "tikName": "Таганрогская городская (восточная)"
+    "tikName": "Таганрогская городская (восточная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2166,
     "uikTvd": "46140543450360",
+    "uikName": "УИК №2166",
     "tikTvd": "26120002976936",
-    "tikName": "Таганрогская городская (восточная)"
+    "tikName": "Таганрогская городская (восточная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2167,
     "uikTvd": "46140543450361",
+    "uikName": "УИК №2167",
     "tikTvd": "26120002976936",
-    "tikName": "Таганрогская городская (восточная)"
+    "tikName": "Таганрогская городская (восточная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2168,
     "uikTvd": "46140543450362",
+    "uikName": "УИК №2168",
     "tikTvd": "26120002976936",
-    "tikName": "Таганрогская городская (восточная)"
+    "tikName": "Таганрогская городская (восточная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2169,
     "uikTvd": "46140543450363",
+    "uikName": "УИК №2169",
     "tikTvd": "26120002976936",
-    "tikName": "Таганрогская городская (восточная)"
+    "tikName": "Таганрогская городская (восточная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2170,
     "uikTvd": "46140543450364",
+    "uikName": "УИК №2170",
     "tikTvd": "26120002976936",
-    "tikName": "Таганрогская городская (восточная)"
+    "tikName": "Таганрогская городская (восточная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2171,
     "uikTvd": "46140543450365",
+    "uikName": "УИК №2171",
     "tikTvd": "26120002976936",
-    "tikName": "Таганрогская городская (восточная)"
+    "tikName": "Таганрогская городская (восточная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2172,
     "uikTvd": "46140543450366",
+    "uikName": "УИК №2172",
     "tikTvd": "26120002976936",
-    "tikName": "Таганрогская городская (восточная)"
+    "tikName": "Таганрогская городская (восточная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2173,
     "uikTvd": "46140543450367",
+    "uikName": "УИК №2173",
     "tikTvd": "26120002976936",
-    "tikName": "Таганрогская городская (восточная)"
+    "tikName": "Таганрогская городская (восточная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2174,
     "uikTvd": "46140543450368",
+    "uikName": "УИК №2174",
     "tikTvd": "26120002976936",
-    "tikName": "Таганрогская городская (восточная)"
+    "tikName": "Таганрогская городская (восточная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2175,
     "uikTvd": "46140543450369",
+    "uikName": "УИК №2175",
     "tikTvd": "26120002976936",
-    "tikName": "Таганрогская городская (восточная)"
+    "tikName": "Таганрогская городская (восточная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2176,
     "uikTvd": "46140543450370",
+    "uikName": "УИК №2176",
     "tikTvd": "26120002976936",
-    "tikName": "Таганрогская городская (восточная)"
+    "tikName": "Таганрогская городская (восточная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2177,
     "uikTvd": "46140543450371",
+    "uikName": "УИК №2177",
     "tikTvd": "26120002976936",
-    "tikName": "Таганрогская городская (восточная)"
+    "tikName": "Таганрогская городская (восточная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2178,
     "uikTvd": "46140543450372",
+    "uikName": "УИК №2178",
     "tikTvd": "26120002976936",
-    "tikName": "Таганрогская городская (восточная)"
+    "tikName": "Таганрогская городская (восточная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2179,
     "uikTvd": "46140543450373",
+    "uikName": "УИК №2179",
     "tikTvd": "26120002976936",
-    "tikName": "Таганрогская городская (восточная)"
+    "tikName": "Таганрогская городская (восточная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2180,
     "uikTvd": "46140543450374",
+    "uikName": "УИК №2180",
     "tikTvd": "26120002976936",
-    "tikName": "Таганрогская городская (восточная)"
+    "tikName": "Таганрогская городская (восточная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2181,
     "uikTvd": "46140543450375",
+    "uikName": "УИК №2181",
     "tikTvd": "26120002976936",
-    "tikName": "Таганрогская городская (восточная)"
+    "tikName": "Таганрогская городская (восточная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2182,
     "uikTvd": "46140543450376",
+    "uikName": "УИК №2182",
     "tikTvd": "26120002976936",
-    "tikName": "Таганрогская городская (восточная)"
+    "tikName": "Таганрогская городская (восточная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2183,
     "uikTvd": "46140543450377",
+    "uikName": "УИК №2183",
     "tikTvd": "26120002976936",
-    "tikName": "Таганрогская городская (восточная)"
+    "tikName": "Таганрогская городская (восточная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2184,
     "uikTvd": "46140543450378",
+    "uikName": "УИК №2184",
     "tikTvd": "26120002976936",
-    "tikName": "Таганрогская городская (восточная)"
+    "tikName": "Таганрогская городская (восточная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2185,
     "uikTvd": "46140543450379",
+    "uikName": "УИК №2185",
     "tikTvd": "26120002976936",
-    "tikName": "Таганрогская городская (восточная)"
+    "tikName": "Таганрогская городская (восточная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2186,
     "uikTvd": "46140543450380",
+    "uikName": "УИК №2186",
     "tikTvd": "26120002976936",
-    "tikName": "Таганрогская городская (восточная)"
+    "tikName": "Таганрогская городская (восточная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2187,
     "uikTvd": "46140543450381",
+    "uikName": "УИК №2187",
     "tikTvd": "26120002976936",
-    "tikName": "Таганрогская городская (восточная)"
+    "tikName": "Таганрогская городская (восточная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2188,
     "uikTvd": "46140543450382",
+    "uikName": "УИК №2188",
     "tikTvd": "26120002976936",
-    "tikName": "Таганрогская городская (восточная)"
+    "tikName": "Таганрогская городская (восточная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2189,
     "uikTvd": "46140543450383",
+    "uikName": "УИК №2189",
     "tikTvd": "26120002976936",
-    "tikName": "Таганрогская городская (восточная)"
+    "tikName": "Таганрогская городская (восточная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2190,
     "uikTvd": "46140543450384",
+    "uikName": "УИК №2190",
     "tikTvd": "26120002976936",
-    "tikName": "Таганрогская городская (восточная)"
+    "tikName": "Таганрогская городская (восточная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2191,
     "uikTvd": "46140543450385",
+    "uikName": "УИК №2191",
     "tikTvd": "26120002976936",
-    "tikName": "Таганрогская городская (восточная)"
+    "tikName": "Таганрогская городская (восточная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2192,
     "uikTvd": "46140543450386",
+    "uikName": "УИК №2192",
     "tikTvd": "26120002976936",
-    "tikName": "Таганрогская городская (восточная)"
+    "tikName": "Таганрогская городская (восточная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2193,
     "uikTvd": "46140543450387",
+    "uikName": "УИК №2193",
     "tikTvd": "26120002976936",
-    "tikName": "Таганрогская городская (восточная)"
+    "tikName": "Таганрогская городская (восточная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2194,
     "uikTvd": "46140543450388",
+    "uikName": "УИК №2194",
     "tikTvd": "26120002976936",
-    "tikName": "Таганрогская городская (восточная)"
+    "tikName": "Таганрогская городская (восточная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2195,
     "uikTvd": "46140543450389",
+    "uikName": "УИК №2195",
     "tikTvd": "26120002976936",
-    "tikName": "Таганрогская городская (восточная)"
+    "tikName": "Таганрогская городская (восточная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2196,
     "uikTvd": "46140543450390",
+    "uikName": "УИК №2196",
     "tikTvd": "26120002976936",
-    "tikName": "Таганрогская городская (восточная)"
+    "tikName": "Таганрогская городская (восточная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2197,
     "uikTvd": "46140543450391",
+    "uikName": "УИК №2197",
     "tikTvd": "26120002976936",
-    "tikName": "Таганрогская городская (восточная)"
+    "tikName": "Таганрогская городская (восточная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2198,
     "uikTvd": "46140543450392",
+    "uikName": "УИК №2198",
     "tikTvd": "26120002976936",
-    "tikName": "Таганрогская городская (восточная)"
+    "tikName": "Таганрогская городская (восточная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2199,
     "uikTvd": "46140543450393",
+    "uikName": "УИК №2199",
     "tikTvd": "26120002976936",
-    "tikName": "Таганрогская городская (восточная)"
+    "tikName": "Таганрогская городская (восточная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2200,
     "uikTvd": "46140543450394",
+    "uikName": "УИК №2200",
     "tikTvd": "26120002976936",
-    "tikName": "Таганрогская городская (восточная)"
+    "tikName": "Таганрогская городская (восточная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2201,
     "uikTvd": "46140543450395",
+    "uikName": "УИК №2201",
     "tikTvd": "26120002976936",
-    "tikName": "Таганрогская городская (восточная)"
+    "tikName": "Таганрогская городская (восточная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2202,
     "uikTvd": "46140543450396",
+    "uikName": "УИК №2202",
     "tikTvd": "26120002976936",
-    "tikName": "Таганрогская городская (восточная)"
+    "tikName": "Таганрогская городская (восточная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2203,
     "uikTvd": "46140543450397",
+    "uikName": "УИК №2203",
     "tikTvd": "26120002976936",
-    "tikName": "Таганрогская городская (восточная)"
+    "tikName": "Таганрогская городская (восточная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2204,
     "uikTvd": "46140543450398",
+    "uikName": "УИК №2204",
     "tikTvd": "26120002976936",
-    "tikName": "Таганрогская городская (восточная)"
+    "tikName": "Таганрогская городская (восточная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2205,
     "uikTvd": "46140543450399",
+    "uikName": "УИК №2205",
     "tikTvd": "26120002976936",
-    "tikName": "Таганрогская городская (восточная)"
+    "tikName": "Таганрогская городская (восточная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2206,
     "uikTvd": "46140543450400",
+    "uikName": "УИК №2206",
     "tikTvd": "26120002976936",
-    "tikName": "Таганрогская городская (восточная)"
+    "tikName": "Таганрогская городская (восточная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2207,
     "uikTvd": "46140543450401",
+    "uikName": "УИК №2207",
     "tikTvd": "26120002976936",
-    "tikName": "Таганрогская городская (восточная)"
+    "tikName": "Таганрогская городская (восточная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2208,
     "uikTvd": "46140543450402",
+    "uikName": "УИК №2208",
     "tikTvd": "26120002976936",
-    "tikName": "Таганрогская городская (восточная)"
+    "tikName": "Таганрогская городская (восточная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2209,
     "uikTvd": "46140543450403",
+    "uikName": "УИК №2209",
     "tikTvd": "26120002976936",
-    "tikName": "Таганрогская городская (восточная)"
+    "tikName": "Таганрогская городская (восточная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2210,
     "uikTvd": "46140543450404",
+    "uikName": "УИК №2210",
     "tikTvd": "26120002976936",
-    "tikName": "Таганрогская городская (восточная)"
+    "tikName": "Таганрогская городская (восточная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2211,
     "uikTvd": "46140543450405",
+    "uikName": "УИК №2211",
     "tikTvd": "26120002976936",
-    "tikName": "Таганрогская городская (восточная)"
+    "tikName": "Таганрогская городская (восточная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2212,
     "uikTvd": "46140543450406",
+    "uikName": "УИК №2212",
     "tikTvd": "26120002976936",
-    "tikName": "Таганрогская городская (восточная)"
+    "tikName": "Таганрогская городская (восточная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2213,
     "uikTvd": "46140543450407",
+    "uikName": "УИК №2213",
     "tikTvd": "26120002976936",
-    "tikName": "Таганрогская городская (восточная)"
+    "tikName": "Таганрогская городская (восточная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2214,
     "uikTvd": "46140543450408",
+    "uikName": "УИК №2214",
     "tikTvd": "26120002976936",
-    "tikName": "Таганрогская городская (восточная)"
+    "tikName": "Таганрогская городская (восточная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2215,
     "uikTvd": "4614063167862",
+    "uikName": "УИК №2215",
     "tikTvd": "26120002976987",
-    "tikName": "Таганрогская городская (западная)"
+    "tikName": "Таганрогская городская (западная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2216,
     "uikTvd": "4614063167863",
+    "uikName": "УИК №2216",
     "tikTvd": "26120002976987",
-    "tikName": "Таганрогская городская (западная)"
+    "tikName": "Таганрогская городская (западная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2217,
     "uikTvd": "4614063167864",
+    "uikName": "УИК №2217",
     "tikTvd": "26120002976987",
-    "tikName": "Таганрогская городская (западная)"
+    "tikName": "Таганрогская городская (западная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2218,
     "uikTvd": "4614063167865",
+    "uikName": "УИК №2218",
     "tikTvd": "26120002976987",
-    "tikName": "Таганрогская городская (западная)"
+    "tikName": "Таганрогская городская (западная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2219,
     "uikTvd": "4614063167866",
+    "uikName": "УИК №2219",
     "tikTvd": "26120002976987",
-    "tikName": "Таганрогская городская (западная)"
+    "tikName": "Таганрогская городская (западная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2220,
     "uikTvd": "4614063167867",
+    "uikName": "УИК №2220",
     "tikTvd": "26120002976987",
-    "tikName": "Таганрогская городская (западная)"
+    "tikName": "Таганрогская городская (западная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2221,
     "uikTvd": "4614063167868",
+    "uikName": "УИК №2221",
     "tikTvd": "26120002976987",
-    "tikName": "Таганрогская городская (западная)"
+    "tikName": "Таганрогская городская (западная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2222,
     "uikTvd": "4614063167869",
+    "uikName": "УИК №2222",
     "tikTvd": "26120002976987",
-    "tikName": "Таганрогская городская (западная)"
+    "tikName": "Таганрогская городская (западная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2223,
     "uikTvd": "4614063167870",
+    "uikName": "УИК №2223",
     "tikTvd": "26120002976987",
-    "tikName": "Таганрогская городская (западная)"
+    "tikName": "Таганрогская городская (западная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2224,
     "uikTvd": "4614063167871",
+    "uikName": "УИК №2224",
     "tikTvd": "26120002976987",
-    "tikName": "Таганрогская городская (западная)"
+    "tikName": "Таганрогская городская (западная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2225,
     "uikTvd": "4614063167872",
+    "uikName": "УИК №2225",
     "tikTvd": "26120002976987",
-    "tikName": "Таганрогская городская (западная)"
+    "tikName": "Таганрогская городская (западная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2226,
     "uikTvd": "4614063167873",
+    "uikName": "УИК №2226",
     "tikTvd": "26120002976987",
-    "tikName": "Таганрогская городская (западная)"
+    "tikName": "Таганрогская городская (западная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2227,
     "uikTvd": "4614063167874",
+    "uikName": "УИК №2227",
     "tikTvd": "26120002976987",
-    "tikName": "Таганрогская городская (западная)"
+    "tikName": "Таганрогская городская (западная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2228,
     "uikTvd": "4614063167875",
+    "uikName": "УИК №2228",
     "tikTvd": "26120002976987",
-    "tikName": "Таганрогская городская (западная)"
+    "tikName": "Таганрогская городская (западная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2229,
     "uikTvd": "4614063167876",
+    "uikName": "УИК №2229",
     "tikTvd": "26120002976987",
-    "tikName": "Таганрогская городская (западная)"
+    "tikName": "Таганрогская городская (западная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2230,
     "uikTvd": "4614063167877",
+    "uikName": "УИК №2230",
     "tikTvd": "26120002976987",
-    "tikName": "Таганрогская городская (западная)"
+    "tikName": "Таганрогская городская (западная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2231,
     "uikTvd": "4614063167878",
+    "uikName": "УИК №2231",
     "tikTvd": "26120002976987",
-    "tikName": "Таганрогская городская (западная)"
+    "tikName": "Таганрогская городская (западная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2232,
     "uikTvd": "4614063167879",
+    "uikName": "УИК №2232",
     "tikTvd": "26120002976987",
-    "tikName": "Таганрогская городская (западная)"
+    "tikName": "Таганрогская городская (западная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2233,
     "uikTvd": "4614063167880",
+    "uikName": "УИК №2233",
     "tikTvd": "26120002976987",
-    "tikName": "Таганрогская городская (западная)"
+    "tikName": "Таганрогская городская (западная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2234,
     "uikTvd": "4614063167881",
+    "uikName": "УИК №2234",
     "tikTvd": "26120002976987",
-    "tikName": "Таганрогская городская (западная)"
+    "tikName": "Таганрогская городская (западная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2235,
     "uikTvd": "4614063167882",
+    "uikName": "УИК №2235",
     "tikTvd": "26120002976987",
-    "tikName": "Таганрогская городская (западная)"
+    "tikName": "Таганрогская городская (западная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2236,
     "uikTvd": "4614063167883",
+    "uikName": "УИК №2236",
     "tikTvd": "26120002976987",
-    "tikName": "Таганрогская городская (западная)"
+    "tikName": "Таганрогская городская (западная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2237,
     "uikTvd": "4614063167884",
+    "uikName": "УИК №2237",
     "tikTvd": "26120002976987",
-    "tikName": "Таганрогская городская (западная)"
+    "tikName": "Таганрогская городская (западная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2238,
     "uikTvd": "4614063167885",
+    "uikName": "УИК №2238",
     "tikTvd": "26120002976987",
-    "tikName": "Таганрогская городская (западная)"
+    "tikName": "Таганрогская городская (западная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2239,
     "uikTvd": "4614063167886",
+    "uikName": "УИК №2239",
     "tikTvd": "26120002976987",
-    "tikName": "Таганрогская городская (западная)"
+    "tikName": "Таганрогская городская (западная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2240,
     "uikTvd": "4614063167887",
+    "uikName": "УИК №2240",
     "tikTvd": "26120002976987",
-    "tikName": "Таганрогская городская (западная)"
+    "tikName": "Таганрогская городская (западная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2241,
     "uikTvd": "4614063167888",
+    "uikName": "УИК №2241",
     "tikTvd": "26120002976987",
-    "tikName": "Таганрогская городская (западная)"
+    "tikName": "Таганрогская городская (западная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2242,
     "uikTvd": "4614063167889",
+    "uikName": "УИК №2242",
     "tikTvd": "26120002976987",
-    "tikName": "Таганрогская городская (западная)"
+    "tikName": "Таганрогская городская (западная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2243,
     "uikTvd": "4614063167890",
+    "uikName": "УИК №2243",
     "tikTvd": "26120002976987",
-    "tikName": "Таганрогская городская (западная)"
+    "tikName": "Таганрогская городская (западная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2244,
     "uikTvd": "4614063167891",
+    "uikName": "УИК №2244",
     "tikTvd": "26120002976987",
-    "tikName": "Таганрогская городская (западная)"
+    "tikName": "Таганрогская городская (западная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2245,
     "uikTvd": "4614063167892",
+    "uikName": "УИК №2245",
     "tikTvd": "26120002976987",
-    "tikName": "Таганрогская городская (западная)"
+    "tikName": "Таганрогская городская (западная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2246,
     "uikTvd": "4614063167893",
+    "uikName": "УИК №2246",
     "tikTvd": "26120002976987",
-    "tikName": "Таганрогская городская (западная)"
+    "tikName": "Таганрогская городская (западная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2247,
     "uikTvd": "4614063167894",
+    "uikName": "УИК №2247",
     "tikTvd": "26120002976987",
-    "tikName": "Таганрогская городская (западная)"
+    "tikName": "Таганрогская городская (западная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2248,
     "uikTvd": "4614063167895",
+    "uikName": "УИК №2248",
     "tikTvd": "26120002976987",
-    "tikName": "Таганрогская городская (западная)"
+    "tikName": "Таганрогская городская (западная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2249,
     "uikTvd": "4614063167896",
+    "uikName": "УИК №2249",
     "tikTvd": "26120002976987",
-    "tikName": "Таганрогская городская (западная)"
+    "tikName": "Таганрогская городская (западная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2250,
     "uikTvd": "4614063167897",
+    "uikName": "УИК №2250",
     "tikTvd": "26120002976987",
-    "tikName": "Таганрогская городская (западная)"
+    "tikName": "Таганрогская городская (западная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2251,
     "uikTvd": "4614063167898",
+    "uikName": "УИК №2251",
     "tikTvd": "26120002976987",
-    "tikName": "Таганрогская городская (западная)"
+    "tikName": "Таганрогская городская (западная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2252,
     "uikTvd": "4614063167899",
+    "uikName": "УИК №2252",
     "tikTvd": "26120002976987",
-    "tikName": "Таганрогская городская (западная)"
+    "tikName": "Таганрогская городская (западная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2253,
     "uikTvd": "4614063167900",
+    "uikName": "УИК №2253",
     "tikTvd": "26120002976987",
-    "tikName": "Таганрогская городская (западная)"
+    "tikName": "Таганрогская городская (западная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2254,
     "uikTvd": "4614063167901",
+    "uikName": "УИК №2254",
     "tikTvd": "26120002976987",
-    "tikName": "Таганрогская городская (западная)"
+    "tikName": "Таганрогская городская (западная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2255,
     "uikTvd": "4614063167902",
+    "uikName": "УИК №2255",
     "tikTvd": "26120002976987",
-    "tikName": "Таганрогская городская (западная)"
+    "tikName": "Таганрогская городская (западная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2256,
     "uikTvd": "4614063167903",
+    "uikName": "УИК №2256",
     "tikTvd": "26120002976987",
-    "tikName": "Таганрогская городская (западная)"
+    "tikName": "Таганрогская городская (западная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2257,
     "uikTvd": "4614063167904",
+    "uikName": "УИК №2257",
     "tikTvd": "26120002976987",
-    "tikName": "Таганрогская городская (западная)"
+    "tikName": "Таганрогская городская (западная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2258,
     "uikTvd": "4614063167905",
+    "uikName": "УИК №2258",
     "tikTvd": "26120002976987",
-    "tikName": "Таганрогская городская (западная)"
+    "tikName": "Таганрогская городская (западная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2259,
     "uikTvd": "4614063167906",
+    "uikName": "УИК №2259",
     "tikTvd": "26120002976987",
-    "tikName": "Таганрогская городская (западная)"
+    "tikName": "Таганрогская городская (западная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2260,
     "uikTvd": "4614063167907",
+    "uikName": "УИК №2260",
     "tikTvd": "26120002976987",
-    "tikName": "Таганрогская городская (западная)"
+    "tikName": "Таганрогская городская (западная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2261,
     "uikTvd": "4614063167908",
+    "uikName": "УИК №2261",
     "tikTvd": "26120002976987",
-    "tikName": "Таганрогская городская (западная)"
+    "tikName": "Таганрогская городская (западная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2262,
     "uikTvd": "4614063167909",
+    "uikName": "УИК №2262",
     "tikTvd": "26120002976987",
-    "tikName": "Таганрогская городская (западная)"
+    "tikName": "Таганрогская городская (западная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2263,
     "uikTvd": "4614063167910",
+    "uikName": "УИК №2263",
     "tikTvd": "26120002976987",
-    "tikName": "Таганрогская городская (западная)"
+    "tikName": "Таганрогская городская (западная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2264,
     "uikTvd": "4614063167911",
+    "uikName": "УИК №2264",
     "tikTvd": "26120002976987",
-    "tikName": "Таганрогская городская (западная)"
+    "tikName": "Таганрогская городская (западная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2265,
     "uikTvd": "4614063167912",
+    "uikName": "УИК №2265",
     "tikTvd": "26120002976987",
-    "tikName": "Таганрогская городская (западная)"
+    "tikName": "Таганрогская городская (западная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2266,
     "uikTvd": "4614063167913",
+    "uikName": "УИК №2266",
     "tikTvd": "26120002976987",
-    "tikName": "Таганрогская городская (западная)"
+    "tikName": "Таганрогская городская (западная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2267,
     "uikTvd": "4614063167914",
+    "uikName": "УИК №2267",
     "tikTvd": "26120002976987",
-    "tikName": "Таганрогская городская (западная)"
+    "tikName": "Таганрогская городская (западная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2268,
     "uikTvd": "4614063167915",
+    "uikName": "УИК №2268",
     "tikTvd": "26120002976987",
-    "tikName": "Таганрогская городская (западная)"
+    "tikName": "Таганрогская городская (западная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2269,
     "uikTvd": "4614063167916",
+    "uikName": "УИК №2269",
     "tikTvd": "26120002976987",
-    "tikName": "Таганрогская городская (западная)"
+    "tikName": "Таганрогская городская (западная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2270,
     "uikTvd": "4614063167917",
+    "uikName": "УИК №2270",
     "tikTvd": "26120002976987",
-    "tikName": "Таганрогская городская (западная)"
+    "tikName": "Таганрогская городская (западная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2271,
     "uikTvd": "4614063167918",
+    "uikName": "УИК №2271",
     "tikTvd": "26120002976987",
-    "tikName": "Таганрогская городская (западная)"
+    "tikName": "Таганрогская городская (западная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2272,
     "uikTvd": "4614063167919",
+    "uikName": "УИК №2272",
     "tikTvd": "26120002976987",
-    "tikName": "Таганрогская городская (западная)"
+    "tikName": "Таганрогская городская (западная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2273,
     "uikTvd": "4614055503809",
+    "uikName": "УИК №2273",
     "tikTvd": "26120002976943",
-    "tikName": "Тарасовская"
+    "tikName": "Тарасовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2274,
     "uikTvd": "4614055503810",
+    "uikName": "УИК №2274",
     "tikTvd": "26120002976943",
-    "tikName": "Тарасовская"
+    "tikName": "Тарасовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2275,
     "uikTvd": "4614055503811",
+    "uikName": "УИК №2275",
     "tikTvd": "26120002976943",
-    "tikName": "Тарасовская"
+    "tikName": "Тарасовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2276,
     "uikTvd": "4614055503812",
+    "uikName": "УИК №2276",
     "tikTvd": "26120002976943",
-    "tikName": "Тарасовская"
+    "tikName": "Тарасовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2277,
     "uikTvd": "4614055503813",
+    "uikName": "УИК №2277",
     "tikTvd": "26120002976943",
-    "tikName": "Тарасовская"
+    "tikName": "Тарасовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2278,
     "uikTvd": "4614055503814",
+    "uikName": "УИК №2278",
     "tikTvd": "26120002976943",
-    "tikName": "Тарасовская"
+    "tikName": "Тарасовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2279,
     "uikTvd": "4614055503815",
+    "uikName": "УИК №2279",
     "tikTvd": "26120002976943",
-    "tikName": "Тарасовская"
+    "tikName": "Тарасовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2280,
     "uikTvd": "4614055503816",
+    "uikName": "УИК №2280",
     "tikTvd": "26120002976943",
-    "tikName": "Тарасовская"
+    "tikName": "Тарасовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2282,
     "uikTvd": "4614055503817",
+    "uikName": "УИК №2282",
     "tikTvd": "26120002976943",
-    "tikName": "Тарасовская"
+    "tikName": "Тарасовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2283,
     "uikTvd": "4614055503818",
+    "uikName": "УИК №2283",
     "tikTvd": "26120002976943",
-    "tikName": "Тарасовская"
+    "tikName": "Тарасовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2284,
     "uikTvd": "4614055503819",
+    "uikName": "УИК №2284",
     "tikTvd": "26120002976943",
-    "tikName": "Тарасовская"
+    "tikName": "Тарасовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2285,
     "uikTvd": "4614055503820",
+    "uikName": "УИК №2285",
     "tikTvd": "26120002976943",
-    "tikName": "Тарасовская"
+    "tikName": "Тарасовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2286,
     "uikTvd": "4614055503821",
+    "uikName": "УИК №2286",
     "tikTvd": "26120002976943",
-    "tikName": "Тарасовская"
+    "tikName": "Тарасовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2287,
     "uikTvd": "4614055503822",
+    "uikName": "УИК №2287",
     "tikTvd": "26120002976943",
-    "tikName": "Тарасовская"
+    "tikName": "Тарасовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2288,
     "uikTvd": "4614055503823",
+    "uikName": "УИК №2288",
     "tikTvd": "26120002976943",
-    "tikName": "Тарасовская"
+    "tikName": "Тарасовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2289,
     "uikTvd": "4614055503824",
+    "uikName": "УИК №2289",
     "tikTvd": "26120002976943",
-    "tikName": "Тарасовская"
+    "tikName": "Тарасовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2290,
     "uikTvd": "4614055503825",
+    "uikName": "УИК №2290",
     "tikTvd": "26120002976943",
-    "tikName": "Тарасовская"
+    "tikName": "Тарасовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2291,
     "uikTvd": "4614055503826",
+    "uikName": "УИК №2291",
     "tikTvd": "26120002976943",
-    "tikName": "Тарасовская"
+    "tikName": "Тарасовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2292,
     "uikTvd": "4614055503827",
+    "uikName": "УИК №2292",
     "tikTvd": "26120002976943",
-    "tikName": "Тарасовская"
+    "tikName": "Тарасовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2293,
     "uikTvd": "4614055503828",
+    "uikName": "УИК №2293",
     "tikTvd": "26120002976943",
-    "tikName": "Тарасовская"
+    "tikName": "Тарасовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2294,
     "uikTvd": "4614063167920",
+    "uikName": "УИК №2294",
     "tikTvd": "26120002976987",
-    "tikName": "Таганрогская городская (западная)"
+    "tikName": "Таганрогская городская (западная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2295,
     "uikTvd": "4614055503829",
+    "uikName": "УИК №2295",
     "tikTvd": "26120002976943",
-    "tikName": "Тарасовская"
+    "tikName": "Тарасовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2296,
     "uikTvd": "4614055503830",
+    "uikName": "УИК №2296",
     "tikTvd": "26120002976943",
-    "tikName": "Тарасовская"
+    "tikName": "Тарасовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2297,
     "uikTvd": "4614055503831",
+    "uikName": "УИК №2297",
     "tikTvd": "26120002976943",
-    "tikName": "Тарасовская"
+    "tikName": "Тарасовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2298,
     "uikTvd": "4614055503832",
+    "uikName": "УИК №2298",
     "tikTvd": "26120002976943",
-    "tikName": "Тарасовская"
+    "tikName": "Тарасовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2299,
     "uikTvd": "4614055503833",
+    "uikName": "УИК №2299",
     "tikTvd": "26120002976943",
-    "tikName": "Тарасовская"
+    "tikName": "Тарасовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2300,
     "uikTvd": "4614055503834",
+    "uikName": "УИК №2300",
     "tikTvd": "26120002976943",
-    "tikName": "Тарасовская"
+    "tikName": "Тарасовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2301,
     "uikTvd": "4614055503835",
+    "uikName": "УИК №2301",
     "tikTvd": "26120002976943",
-    "tikName": "Тарасовская"
+    "tikName": "Тарасовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2302,
     "uikTvd": "4614055503836",
+    "uikName": "УИК №2302",
     "tikTvd": "26120002976943",
-    "tikName": "Тарасовская"
+    "tikName": "Тарасовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2303,
     "uikTvd": "4614050493273",
+    "uikName": "УИК №2303",
     "tikTvd": "26120002976978",
-    "tikName": "Ростов-на-Дону, Советская"
+    "tikName": "Ростов-на-Дону, Советская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2304,
     "uikTvd": "4614055503837",
+    "uikName": "УИК №2304",
     "tikTvd": "26120002976943",
-    "tikName": "Тарасовская"
+    "tikName": "Тарасовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2305,
     "uikTvd": "4614047494004",
+    "uikName": "УИК №2305",
     "tikTvd": "26120002976990",
-    "tikName": "Ростов-на-Дону, Октябрьская"
+    "tikName": "Ростов-на-Дону, Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2306,
     "uikTvd": "4614055503838",
+    "uikName": "УИК №2306",
     "tikTvd": "26120002976943",
-    "tikName": "Тарасовская"
+    "tikName": "Тарасовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2307,
     "uikTvd": "4614055503839",
+    "uikName": "УИК №2307",
     "tikTvd": "26120002976943",
-    "tikName": "Тарасовская"
+    "tikName": "Тарасовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2308,
     "uikTvd": "4614055503840",
+    "uikName": "УИК №2308",
     "tikTvd": "26120002976943",
-    "tikName": "Тарасовская"
+    "tikName": "Тарасовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2309,
     "uikTvd": "4614055503841",
+    "uikName": "УИК №2309",
     "tikTvd": "26120002976943",
-    "tikName": "Тарасовская"
+    "tikName": "Тарасовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2311,
     "uikTvd": "4614055503842",
+    "uikName": "УИК №2311",
     "tikTvd": "26120002976943",
-    "tikName": "Тарасовская"
+    "tikName": "Тарасовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2312,
     "uikTvd": "4614055503843",
+    "uikName": "УИК №2312",
     "tikTvd": "26120002976943",
-    "tikName": "Тарасовская"
+    "tikName": "Тарасовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2313,
     "uikTvd": "4614055503844",
+    "uikName": "УИК №2313",
     "tikTvd": "26120002976943",
-    "tikName": "Тарасовская"
+    "tikName": "Тарасовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2314,
     "uikTvd": "4614055503845",
+    "uikName": "УИК №2314",
     "tikTvd": "26120002976943",
-    "tikName": "Тарасовская"
+    "tikName": "Тарасовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2315,
     "uikTvd": "4614055503846",
+    "uikName": "УИК №2315",
     "tikTvd": "26120002976943",
-    "tikName": "Тарасовская"
+    "tikName": "Тарасовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2316,
     "uikTvd": "4614055503847",
+    "uikName": "УИК №2316",
     "tikTvd": "26120002976943",
-    "tikName": "Тарасовская"
+    "tikName": "Тарасовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2317,
     "uikTvd": "4614055503848",
+    "uikName": "УИК №2317",
     "tikTvd": "26120002976943",
-    "tikName": "Тарасовская"
+    "tikName": "Тарасовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2318,
     "uikTvd": "4614055503849",
+    "uikName": "УИК №2318",
     "tikTvd": "26120002976943",
-    "tikName": "Тарасовская"
+    "tikName": "Тарасовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2319,
     "uikTvd": "4614055503850",
+    "uikName": "УИК №2319",
     "tikTvd": "26120002976943",
-    "tikName": "Тарасовская"
+    "tikName": "Тарасовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2320,
     "uikTvd": "4614055503851",
+    "uikName": "УИК №2320",
     "tikTvd": "26120002976943",
-    "tikName": "Тарасовская"
+    "tikName": "Тарасовская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2321,
     "uikTvd": "4614056404326",
+    "uikName": "УИК №2321",
     "tikTvd": "26120002976976",
-    "tikName": "Тацинская"
+    "tikName": "Тацинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2322,
     "uikTvd": "4614056404328",
+    "uikName": "УИК №2322",
     "tikTvd": "26120002976976",
-    "tikName": "Тацинская"
+    "tikName": "Тацинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2323,
     "uikTvd": "4614056404329",
+    "uikName": "УИК №2323",
     "tikTvd": "26120002976976",
-    "tikName": "Тацинская"
+    "tikName": "Тацинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2324,
     "uikTvd": "4614056404330",
+    "uikName": "УИК №2324",
     "tikTvd": "26120002976976",
-    "tikName": "Тацинская"
+    "tikName": "Тацинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2325,
     "uikTvd": "4614056404331",
+    "uikName": "УИК №2325",
     "tikTvd": "26120002976976",
-    "tikName": "Тацинская"
+    "tikName": "Тацинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2326,
     "uikTvd": "4614056404332",
+    "uikName": "УИК №2326",
     "tikTvd": "26120002976976",
-    "tikName": "Тацинская"
+    "tikName": "Тацинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2327,
     "uikTvd": "4614056404333",
+    "uikName": "УИК №2327",
     "tikTvd": "26120002976976",
-    "tikName": "Тацинская"
+    "tikName": "Тацинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2328,
     "uikTvd": "4614056404334",
+    "uikName": "УИК №2328",
     "tikTvd": "26120002976976",
-    "tikName": "Тацинская"
+    "tikName": "Тацинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2329,
     "uikTvd": "4614056404335",
+    "uikName": "УИК №2329",
     "tikTvd": "26120002976976",
-    "tikName": "Тацинская"
+    "tikName": "Тацинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2330,
     "uikTvd": "4614056404336",
+    "uikName": "УИК №2330",
     "tikTvd": "26120002976976",
-    "tikName": "Тацинская"
+    "tikName": "Тацинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2331,
     "uikTvd": "4614056404337",
+    "uikName": "УИК №2331",
     "tikTvd": "26120002976976",
-    "tikName": "Тацинская"
+    "tikName": "Тацинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2332,
     "uikTvd": "4614056404338",
+    "uikName": "УИК №2332",
     "tikTvd": "26120002976976",
-    "tikName": "Тацинская"
+    "tikName": "Тацинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2333,
     "uikTvd": "4614056404339",
+    "uikName": "УИК №2333",
     "tikTvd": "26120002976976",
-    "tikName": "Тацинская"
+    "tikName": "Тацинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2334,
     "uikTvd": "4614056404340",
+    "uikName": "УИК №2334",
     "tikTvd": "26120002976976",
-    "tikName": "Тацинская"
+    "tikName": "Тацинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2335,
     "uikTvd": "4614056404341",
+    "uikName": "УИК №2335",
     "tikTvd": "26120002976976",
-    "tikName": "Тацинская"
+    "tikName": "Тацинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2336,
     "uikTvd": "4614056404342",
+    "uikName": "УИК №2336",
     "tikTvd": "26120002976976",
-    "tikName": "Тацинская"
+    "tikName": "Тацинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2337,
     "uikTvd": "4614056404343",
+    "uikName": "УИК №2337",
     "tikTvd": "26120002976976",
-    "tikName": "Тацинская"
+    "tikName": "Тацинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2338,
     "uikTvd": "4614056404344",
+    "uikName": "УИК №2338",
     "tikTvd": "26120002976976",
-    "tikName": "Тацинская"
+    "tikName": "Тацинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2339,
     "uikTvd": "4614056404345",
+    "uikName": "УИК №2339",
     "tikTvd": "26120002976976",
-    "tikName": "Тацинская"
+    "tikName": "Тацинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2340,
     "uikTvd": "4614056404346",
+    "uikName": "УИК №2340",
     "tikTvd": "26120002976976",
-    "tikName": "Тацинская"
+    "tikName": "Тацинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2341,
     "uikTvd": "4614056404347",
+    "uikName": "УИК №2341",
     "tikTvd": "26120002976976",
-    "tikName": "Тацинская"
+    "tikName": "Тацинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2342,
     "uikTvd": "4614056404348",
+    "uikName": "УИК №2342",
     "tikTvd": "26120002976976",
-    "tikName": "Тацинская"
+    "tikName": "Тацинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2343,
     "uikTvd": "4614056404349",
+    "uikName": "УИК №2343",
     "tikTvd": "26120002976976",
-    "tikName": "Тацинская"
+    "tikName": "Тацинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2344,
     "uikTvd": "4614056404350",
+    "uikName": "УИК №2344",
     "tikTvd": "26120002976976",
-    "tikName": "Тацинская"
+    "tikName": "Тацинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2345,
     "uikTvd": "4614056404351",
+    "uikName": "УИК №2345",
     "tikTvd": "26120002976976",
-    "tikName": "Тацинская"
+    "tikName": "Тацинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2346,
     "uikTvd": "4614056404352",
+    "uikName": "УИК №2346",
     "tikTvd": "26120002976976",
-    "tikName": "Тацинская"
+    "tikName": "Тацинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2347,
     "uikTvd": "4614056404353",
+    "uikName": "УИК №2347",
     "tikTvd": "26120002976976",
-    "tikName": "Тацинская"
+    "tikName": "Тацинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2348,
     "uikTvd": "4614056404354",
+    "uikName": "УИК №2348",
     "tikTvd": "26120002976976",
-    "tikName": "Тацинская"
+    "tikName": "Тацинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2349,
     "uikTvd": "4614056404355",
+    "uikName": "УИК №2349",
     "tikTvd": "26120002976976",
-    "tikName": "Тацинская"
+    "tikName": "Тацинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2350,
     "uikTvd": "4614056404356",
+    "uikName": "УИК №2350",
     "tikTvd": "26120002976976",
-    "tikName": "Тацинская"
+    "tikName": "Тацинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2351,
     "uikTvd": "4614056404357",
+    "uikName": "УИК №2351",
     "tikTvd": "26120002976976",
-    "tikName": "Тацинская"
+    "tikName": "Тацинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2352,
     "uikTvd": "4614056404358",
+    "uikName": "УИК №2352",
     "tikTvd": "26120002976976",
-    "tikName": "Тацинская"
+    "tikName": "Тацинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2353,
     "uikTvd": "4614056404359",
+    "uikName": "УИК №2353",
     "tikTvd": "26120002976976",
-    "tikName": "Тацинская"
+    "tikName": "Тацинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2354,
     "uikTvd": "4614057433874",
+    "uikName": "УИК №2354",
     "tikTvd": "26120002976955",
-    "tikName": "Усть-Донецкая"
+    "tikName": "Усть-Донецкая",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2355,
     "uikTvd": "4614057433875",
+    "uikName": "УИК №2355",
     "tikTvd": "26120002976955",
-    "tikName": "Усть-Донецкая"
+    "tikName": "Усть-Донецкая",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2356,
     "uikTvd": "4614057433876",
+    "uikName": "УИК №2356",
     "tikTvd": "26120002976955",
-    "tikName": "Усть-Донецкая"
+    "tikName": "Усть-Донецкая",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2357,
     "uikTvd": "4614057433877",
+    "uikName": "УИК №2357",
     "tikTvd": "26120002976955",
-    "tikName": "Усть-Донецкая"
+    "tikName": "Усть-Донецкая",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2358,
     "uikTvd": "4614057433878",
+    "uikName": "УИК №2358",
     "tikTvd": "26120002976955",
-    "tikName": "Усть-Донецкая"
+    "tikName": "Усть-Донецкая",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2359,
     "uikTvd": "4614057433879",
+    "uikName": "УИК №2359",
     "tikTvd": "26120002976955",
-    "tikName": "Усть-Донецкая"
+    "tikName": "Усть-Донецкая",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2360,
     "uikTvd": "4614057433880",
+    "uikName": "УИК №2360",
     "tikTvd": "26120002976955",
-    "tikName": "Усть-Донецкая"
+    "tikName": "Усть-Донецкая",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2361,
     "uikTvd": "4614057433881",
+    "uikName": "УИК №2361",
     "tikTvd": "26120002976955",
-    "tikName": "Усть-Донецкая"
+    "tikName": "Усть-Донецкая",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2362,
     "uikTvd": "4614057433882",
+    "uikName": "УИК №2362",
     "tikTvd": "26120002976955",
-    "tikName": "Усть-Донецкая"
+    "tikName": "Усть-Донецкая",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2363,
     "uikTvd": "4614057433883",
+    "uikName": "УИК №2363",
     "tikTvd": "26120002976955",
-    "tikName": "Усть-Донецкая"
+    "tikName": "Усть-Донецкая",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2364,
     "uikTvd": "4614057433884",
+    "uikName": "УИК №2364",
     "tikTvd": "26120002976955",
-    "tikName": "Усть-Донецкая"
+    "tikName": "Усть-Донецкая",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2365,
     "uikTvd": "4614057433885",
+    "uikName": "УИК №2365",
     "tikTvd": "26120002976955",
-    "tikName": "Усть-Донецкая"
+    "tikName": "Усть-Донецкая",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2366,
     "uikTvd": "4614057433886",
+    "uikName": "УИК №2366",
     "tikTvd": "26120002976955",
-    "tikName": "Усть-Донецкая"
+    "tikName": "Усть-Донецкая",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2367,
     "uikTvd": "4614057433887",
+    "uikName": "УИК №2367",
     "tikTvd": "26120002976955",
-    "tikName": "Усть-Донецкая"
+    "tikName": "Усть-Донецкая",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2368,
     "uikTvd": "4614057433888",
+    "uikName": "УИК №2368",
     "tikTvd": "26120002976955",
-    "tikName": "Усть-Донецкая"
+    "tikName": "Усть-Донецкая",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2369,
     "uikTvd": "4614057433889",
+    "uikName": "УИК №2369",
     "tikTvd": "26120002976955",
-    "tikName": "Усть-Донецкая"
+    "tikName": "Усть-Донецкая",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2370,
     "uikTvd": "4614057433890",
+    "uikName": "УИК №2370",
     "tikTvd": "26120002976955",
-    "tikName": "Усть-Донецкая"
+    "tikName": "Усть-Донецкая",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2371,
     "uikTvd": "4614057433891",
+    "uikName": "УИК №2371",
     "tikTvd": "26120002976955",
-    "tikName": "Усть-Донецкая"
+    "tikName": "Усть-Донецкая",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2372,
     "uikTvd": "4614057433892",
+    "uikName": "УИК №2372",
     "tikTvd": "26120002976955",
-    "tikName": "Усть-Донецкая"
+    "tikName": "Усть-Донецкая",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2373,
     "uikTvd": "4614057433893",
+    "uikName": "УИК №2373",
     "tikTvd": "26120002976955",
-    "tikName": "Усть-Донецкая"
+    "tikName": "Усть-Донецкая",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2374,
     "uikTvd": "4614057433894",
+    "uikName": "УИК №2374",
     "tikTvd": "26120002976955",
-    "tikName": "Усть-Донецкая"
+    "tikName": "Усть-Донецкая",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2375,
     "uikTvd": "4614057433895",
+    "uikName": "УИК №2375",
     "tikTvd": "26120002976955",
-    "tikName": "Усть-Донецкая"
+    "tikName": "Усть-Донецкая",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2376,
     "uikTvd": "4614057433896",
+    "uikName": "УИК №2376",
     "tikTvd": "26120002976955",
-    "tikName": "Усть-Донецкая"
+    "tikName": "Усть-Донецкая",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2377,
     "uikTvd": "4614057433897",
+    "uikName": "УИК №2377",
     "tikTvd": "26120002976955",
-    "tikName": "Усть-Донецкая"
+    "tikName": "Усть-Донецкая",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2378,
     "uikTvd": "4614057433898",
+    "uikName": "УИК №2378",
     "tikTvd": "26120002976955",
-    "tikName": "Усть-Донецкая"
+    "tikName": "Усть-Донецкая",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2379,
     "uikTvd": "4614057433899",
+    "uikName": "УИК №2379",
     "tikTvd": "26120002976955",
-    "tikName": "Усть-Донецкая"
+    "tikName": "Усть-Донецкая",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2380,
     "uikTvd": "4614058325931",
+    "uikName": "УИК №2380",
     "tikTvd": "26120002976939",
-    "tikName": "Целинская"
+    "tikName": "Целинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2381,
     "uikTvd": "46140331197561",
+    "uikName": "УИК №2381",
     "tikTvd": "26120002976952",
-    "tikName": "Неклиновская"
+    "tikName": "Неклиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2382,
     "uikTvd": "4614058325933",
+    "uikName": "УИК №2382",
     "tikTvd": "26120002976939",
-    "tikName": "Целинская"
+    "tikName": "Целинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2383,
     "uikTvd": "4614058325934",
+    "uikName": "УИК №2383",
     "tikTvd": "26120002976939",
-    "tikName": "Целинская"
+    "tikName": "Целинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2384,
     "uikTvd": "4614058325935",
+    "uikName": "УИК №2384",
     "tikTvd": "26120002976939",
-    "tikName": "Целинская"
+    "tikName": "Целинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2385,
     "uikTvd": "4614058325936",
+    "uikName": "УИК №2385",
     "tikTvd": "26120002976939",
-    "tikName": "Целинская"
+    "tikName": "Целинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2386,
     "uikTvd": "4614058325937",
+    "uikName": "УИК №2386",
     "tikTvd": "26120002976939",
-    "tikName": "Целинская"
+    "tikName": "Целинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2387,
     "uikTvd": "4614058325938",
+    "uikName": "УИК №2387",
     "tikTvd": "26120002976939",
-    "tikName": "Целинская"
+    "tikName": "Целинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2388,
     "uikTvd": "4614058325939",
+    "uikName": "УИК №2388",
     "tikTvd": "26120002976939",
-    "tikName": "Целинская"
+    "tikName": "Целинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2389,
     "uikTvd": "4614058325940",
+    "uikName": "УИК №2389",
     "tikTvd": "26120002976939",
-    "tikName": "Целинская"
+    "tikName": "Целинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2390,
     "uikTvd": "4614058325941",
+    "uikName": "УИК №2390",
     "tikTvd": "26120002976939",
-    "tikName": "Целинская"
+    "tikName": "Целинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2391,
     "uikTvd": "4614058325942",
+    "uikName": "УИК №2391",
     "tikTvd": "26120002976939",
-    "tikName": "Целинская"
+    "tikName": "Целинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2392,
     "uikTvd": "4614058325943",
+    "uikName": "УИК №2392",
     "tikTvd": "26120002976939",
-    "tikName": "Целинская"
+    "tikName": "Целинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2393,
     "uikTvd": "4614058325944",
+    "uikName": "УИК №2393",
     "tikTvd": "26120002976939",
-    "tikName": "Целинская"
+    "tikName": "Целинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2394,
     "uikTvd": "4614058325945",
+    "uikName": "УИК №2394",
     "tikTvd": "26120002976939",
-    "tikName": "Целинская"
+    "tikName": "Целинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2395,
     "uikTvd": "4614058325946",
+    "uikName": "УИК №2395",
     "tikTvd": "26120002976939",
-    "tikName": "Целинская"
+    "tikName": "Целинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2396,
     "uikTvd": "4614058325947",
+    "uikName": "УИК №2396",
     "tikTvd": "26120002976939",
-    "tikName": "Целинская"
+    "tikName": "Целинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2397,
     "uikTvd": "4614058325948",
+    "uikName": "УИК №2397",
     "tikTvd": "26120002976939",
-    "tikName": "Целинская"
+    "tikName": "Целинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2398,
     "uikTvd": "4614058325949",
+    "uikName": "УИК №2398",
     "tikTvd": "26120002976939",
-    "tikName": "Целинская"
+    "tikName": "Целинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2399,
     "uikTvd": "4614058325950",
+    "uikName": "УИК №2399",
     "tikTvd": "26120002976939",
-    "tikName": "Целинская"
+    "tikName": "Целинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2400,
     "uikTvd": "4614058325951",
+    "uikName": "УИК №2400",
     "tikTvd": "26120002976939",
-    "tikName": "Целинская"
+    "tikName": "Целинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2401,
     "uikTvd": "4614058325952",
+    "uikName": "УИК №2401",
     "tikTvd": "26120002976939",
-    "tikName": "Целинская"
+    "tikName": "Целинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2402,
     "uikTvd": "4614058325953",
+    "uikName": "УИК №2402",
     "tikTvd": "26120002976939",
-    "tikName": "Целинская"
+    "tikName": "Целинская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2403,
     "uikTvd": "4614047492171",
+    "uikName": "УИК №2403",
     "tikTvd": "26120002976990",
-    "tikName": "Ростов-на-Дону, Октябрьская"
+    "tikName": "Ростов-на-Дону, Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2404,
     "uikTvd": "4614059384942",
+    "uikName": "УИК №2404",
     "tikTvd": "26120002976982",
-    "tikName": "Цимлянская"
+    "tikName": "Цимлянская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2405,
     "uikTvd": "4614059384943",
+    "uikName": "УИК №2405",
     "tikTvd": "26120002976982",
-    "tikName": "Цимлянская"
+    "tikName": "Цимлянская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2406,
     "uikTvd": "4614059384944",
+    "uikName": "УИК №2406",
     "tikTvd": "26120002976982",
-    "tikName": "Цимлянская"
+    "tikName": "Цимлянская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2407,
     "uikTvd": "4614059384945",
+    "uikName": "УИК №2407",
     "tikTvd": "26120002976982",
-    "tikName": "Цимлянская"
+    "tikName": "Цимлянская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2408,
     "uikTvd": "4614059384946",
+    "uikName": "УИК №2408",
     "tikTvd": "26120002976982",
-    "tikName": "Цимлянская"
+    "tikName": "Цимлянская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2409,
     "uikTvd": "4614059384947",
+    "uikName": "УИК №2409",
     "tikTvd": "26120002976982",
-    "tikName": "Цимлянская"
+    "tikName": "Цимлянская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2410,
     "uikTvd": "4614059384948",
+    "uikName": "УИК №2410",
     "tikTvd": "26120002976982",
-    "tikName": "Цимлянская"
+    "tikName": "Цимлянская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2411,
     "uikTvd": "4614059384949",
+    "uikName": "УИК №2411",
     "tikTvd": "26120002976982",
-    "tikName": "Цимлянская"
+    "tikName": "Цимлянская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2412,
     "uikTvd": "4614059384950",
+    "uikName": "УИК №2412",
     "tikTvd": "26120002976982",
-    "tikName": "Цимлянская"
+    "tikName": "Цимлянская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2413,
     "uikTvd": "4614059384951",
+    "uikName": "УИК №2413",
     "tikTvd": "26120002976982",
-    "tikName": "Цимлянская"
+    "tikName": "Цимлянская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2414,
     "uikTvd": "4614059384952",
+    "uikName": "УИК №2414",
     "tikTvd": "26120002976982",
-    "tikName": "Цимлянская"
+    "tikName": "Цимлянская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2415,
     "uikTvd": "4614059384953",
+    "uikName": "УИК №2415",
     "tikTvd": "26120002976982",
-    "tikName": "Цимлянская"
+    "tikName": "Цимлянская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2416,
     "uikTvd": "4614059384954",
+    "uikName": "УИК №2416",
     "tikTvd": "26120002976982",
-    "tikName": "Цимлянская"
+    "tikName": "Цимлянская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2417,
     "uikTvd": "4614059384955",
+    "uikName": "УИК №2417",
     "tikTvd": "26120002976982",
-    "tikName": "Цимлянская"
+    "tikName": "Цимлянская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2418,
     "uikTvd": "4614059384956",
+    "uikName": "УИК №2418",
     "tikTvd": "26120002976982",
-    "tikName": "Цимлянская"
+    "tikName": "Цимлянская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2419,
     "uikTvd": "4614059384957",
+    "uikName": "УИК №2419",
     "tikTvd": "26120002976982",
-    "tikName": "Цимлянская"
+    "tikName": "Цимлянская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2420,
     "uikTvd": "4614059384958",
+    "uikName": "УИК №2420",
     "tikTvd": "26120002976982",
-    "tikName": "Цимлянская"
+    "tikName": "Цимлянская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2421,
     "uikTvd": "4614059384959",
+    "uikName": "УИК №2421",
     "tikTvd": "26120002976982",
-    "tikName": "Цимлянская"
+    "tikName": "Цимлянская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2422,
     "uikTvd": "4614059384960",
+    "uikName": "УИК №2422",
     "tikTvd": "26120002976982",
-    "tikName": "Цимлянская"
+    "tikName": "Цимлянская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2423,
     "uikTvd": "4614059384961",
+    "uikName": "УИК №2423",
     "tikTvd": "26120002976982",
-    "tikName": "Цимлянская"
+    "tikName": "Цимлянская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2424,
     "uikTvd": "4614059384962",
+    "uikName": "УИК №2424",
     "tikTvd": "26120002976982",
-    "tikName": "Цимлянская"
+    "tikName": "Цимлянская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2425,
     "uikTvd": "4614059384963",
+    "uikName": "УИК №2425",
     "tikTvd": "26120002976982",
-    "tikName": "Цимлянская"
+    "tikName": "Цимлянская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2426,
     "uikTvd": "4614059384964",
+    "uikName": "УИК №2426",
     "tikTvd": "26120002976982",
-    "tikName": "Цимлянская"
+    "tikName": "Цимлянская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2427,
     "uikTvd": "4614059384965",
+    "uikName": "УИК №2427",
     "tikTvd": "26120002976982",
-    "tikName": "Цимлянская"
+    "tikName": "Цимлянская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2428,
     "uikTvd": "4614059384966",
+    "uikName": "УИК №2428",
     "tikTvd": "26120002976982",
-    "tikName": "Цимлянская"
+    "tikName": "Цимлянская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2429,
     "uikTvd": "4614059384967",
+    "uikName": "УИК №2429",
     "tikTvd": "26120002976982",
-    "tikName": "Цимлянская"
+    "tikName": "Цимлянская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2430,
     "uikTvd": "4614059384968",
+    "uikName": "УИК №2430",
     "tikTvd": "26120002976982",
-    "tikName": "Цимлянская"
+    "tikName": "Цимлянская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2431,
     "uikTvd": "4614059384969",
+    "uikName": "УИК №2431",
     "tikTvd": "26120002976982",
-    "tikName": "Цимлянская"
+    "tikName": "Цимлянская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2432,
     "uikTvd": "4614059384970",
+    "uikName": "УИК №2432",
     "tikTvd": "26120002976982",
-    "tikName": "Цимлянская"
+    "tikName": "Цимлянская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2433,
     "uikTvd": "4614059384971",
+    "uikName": "УИК №2433",
     "tikTvd": "26120002976982",
-    "tikName": "Цимлянская"
+    "tikName": "Цимлянская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2434,
     "uikTvd": "4614059384972",
+    "uikName": "УИК №2434",
     "tikTvd": "26120002976982",
-    "tikName": "Цимлянская"
+    "tikName": "Цимлянская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2435,
     "uikTvd": "4614060408851",
+    "uikName": "УИК №2435",
     "tikTvd": "26120002976962",
-    "tikName": "Чертковская"
+    "tikName": "Чертковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2436,
     "uikTvd": "4614060408852",
+    "uikName": "УИК №2436",
     "tikTvd": "26120002976962",
-    "tikName": "Чертковская"
+    "tikName": "Чертковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2437,
     "uikTvd": "4614060408853",
+    "uikName": "УИК №2437",
     "tikTvd": "26120002976962",
-    "tikName": "Чертковская"
+    "tikName": "Чертковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2438,
     "uikTvd": "4614060408854",
+    "uikName": "УИК №2438",
     "tikTvd": "26120002976962",
-    "tikName": "Чертковская"
+    "tikName": "Чертковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2439,
     "uikTvd": "4614060408855",
+    "uikName": "УИК №2439",
     "tikTvd": "26120002976962",
-    "tikName": "Чертковская"
+    "tikName": "Чертковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2440,
     "uikTvd": "4614060408856",
+    "uikName": "УИК №2440",
     "tikTvd": "26120002976962",
-    "tikName": "Чертковская"
+    "tikName": "Чертковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2441,
     "uikTvd": "4614060408857",
+    "uikName": "УИК №2441",
     "tikTvd": "26120002976962",
-    "tikName": "Чертковская"
+    "tikName": "Чертковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2442,
     "uikTvd": "4614060408858",
+    "uikName": "УИК №2442",
     "tikTvd": "26120002976962",
-    "tikName": "Чертковская"
+    "tikName": "Чертковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2443,
     "uikTvd": "4614060408859",
+    "uikName": "УИК №2443",
     "tikTvd": "26120002976962",
-    "tikName": "Чертковская"
+    "tikName": "Чертковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2444,
     "uikTvd": "4614060408860",
+    "uikName": "УИК №2444",
     "tikTvd": "26120002976962",
-    "tikName": "Чертковская"
+    "tikName": "Чертковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2445,
     "uikTvd": "4614060408861",
+    "uikName": "УИК №2445",
     "tikTvd": "26120002976962",
-    "tikName": "Чертковская"
+    "tikName": "Чертковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2446,
     "uikTvd": "4614060408862",
+    "uikName": "УИК №2446",
     "tikTvd": "26120002976962",
-    "tikName": "Чертковская"
+    "tikName": "Чертковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2447,
     "uikTvd": "4614060408863",
+    "uikName": "УИК №2447",
     "tikTvd": "26120002976962",
-    "tikName": "Чертковская"
+    "tikName": "Чертковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2448,
     "uikTvd": "4614060408864",
+    "uikName": "УИК №2448",
     "tikTvd": "26120002976962",
-    "tikName": "Чертковская"
+    "tikName": "Чертковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2449,
     "uikTvd": "4614060408865",
+    "uikName": "УИК №2449",
     "tikTvd": "26120002976962",
-    "tikName": "Чертковская"
+    "tikName": "Чертковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2450,
     "uikTvd": "4614060408866",
+    "uikName": "УИК №2450",
     "tikTvd": "26120002976962",
-    "tikName": "Чертковская"
+    "tikName": "Чертковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2451,
     "uikTvd": "4614060408867",
+    "uikName": "УИК №2451",
     "tikTvd": "26120002976962",
-    "tikName": "Чертковская"
+    "tikName": "Чертковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2452,
     "uikTvd": "4614060408868",
+    "uikName": "УИК №2452",
     "tikTvd": "26120002976962",
-    "tikName": "Чертковская"
+    "tikName": "Чертковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2453,
     "uikTvd": "4614060408869",
+    "uikName": "УИК №2453",
     "tikTvd": "26120002976962",
-    "tikName": "Чертковская"
+    "tikName": "Чертковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2454,
     "uikTvd": "4614060408870",
+    "uikName": "УИК №2454",
     "tikTvd": "26120002976962",
-    "tikName": "Чертковская"
+    "tikName": "Чертковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2455,
     "uikTvd": "4614060408871",
+    "uikName": "УИК №2455",
     "tikTvd": "26120002976962",
-    "tikName": "Чертковская"
+    "tikName": "Чертковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2456,
     "uikTvd": "4614060408872",
+    "uikName": "УИК №2456",
     "tikTvd": "26120002976962",
-    "tikName": "Чертковская"
+    "tikName": "Чертковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2457,
     "uikTvd": "4614060408873",
+    "uikName": "УИК №2457",
     "tikTvd": "26120002976962",
-    "tikName": "Чертковская"
+    "tikName": "Чертковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2458,
     "uikTvd": "4614060408874",
+    "uikName": "УИК №2458",
     "tikTvd": "26120002976962",
-    "tikName": "Чертковская"
+    "tikName": "Чертковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2459,
     "uikTvd": "4614060408875",
+    "uikName": "УИК №2459",
     "tikTvd": "26120002976962",
-    "tikName": "Чертковская"
+    "tikName": "Чертковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2460,
     "uikTvd": "4614060408876",
+    "uikName": "УИК №2460",
     "tikTvd": "26120002976962",
-    "tikName": "Чертковская"
+    "tikName": "Чертковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2461,
     "uikTvd": "4614060408877",
+    "uikName": "УИК №2461",
     "tikTvd": "26120002976962",
-    "tikName": "Чертковская"
+    "tikName": "Чертковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2462,
     "uikTvd": "4614060408878",
+    "uikName": "УИК №2462",
     "tikTvd": "26120002976962",
-    "tikName": "Чертковская"
+    "tikName": "Чертковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2463,
     "uikTvd": "4614060408879",
+    "uikName": "УИК №2463",
     "tikTvd": "26120002976962",
-    "tikName": "Чертковская"
+    "tikName": "Чертковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2464,
     "uikTvd": "4614060408880",
+    "uikName": "УИК №2464",
     "tikTvd": "26120002976962",
-    "tikName": "Чертковская"
+    "tikName": "Чертковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2465,
     "uikTvd": "4614060408881",
+    "uikName": "УИК №2465",
     "tikTvd": "26120002976962",
-    "tikName": "Чертковская"
+    "tikName": "Чертковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2466,
     "uikTvd": "4614060408882",
+    "uikName": "УИК №2466",
     "tikTvd": "26120002976962",
-    "tikName": "Чертковская"
+    "tikName": "Чертковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2467,
     "uikTvd": "4614060408883",
+    "uikName": "УИК №2467",
     "tikTvd": "26120002976962",
-    "tikName": "Чертковская"
+    "tikName": "Чертковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2468,
     "uikTvd": "4614060408884",
+    "uikName": "УИК №2468",
     "tikTvd": "26120002976962",
-    "tikName": "Чертковская"
+    "tikName": "Чертковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2469,
     "uikTvd": "4614060408885",
+    "uikName": "УИК №2469",
     "tikTvd": "26120002976962",
-    "tikName": "Чертковская"
+    "tikName": "Чертковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2470,
     "uikTvd": "4614060408886",
+    "uikName": "УИК №2470",
     "tikTvd": "26120002976962",
-    "tikName": "Чертковская"
+    "tikName": "Чертковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2471,
     "uikTvd": "4614060408887",
+    "uikName": "УИК №2471",
     "tikTvd": "26120002976962",
-    "tikName": "Чертковская"
+    "tikName": "Чертковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2472,
     "uikTvd": "4614060408888",
+    "uikName": "УИК №2472",
     "tikTvd": "26120002976962",
-    "tikName": "Чертковская"
+    "tikName": "Чертковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2473,
     "uikTvd": "4614060408889",
+    "uikName": "УИК №2473",
     "tikTvd": "26120002976962",
-    "tikName": "Чертковская"
+    "tikName": "Чертковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2474,
     "uikTvd": "4614060408890",
+    "uikName": "УИК №2474",
     "tikTvd": "26120002976962",
-    "tikName": "Чертковская"
+    "tikName": "Чертковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2475,
     "uikTvd": "4614060408891",
+    "uikName": "УИК №2475",
     "tikTvd": "26120002976962",
-    "tikName": "Чертковская"
+    "tikName": "Чертковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2476,
     "uikTvd": "4614060408892",
+    "uikName": "УИК №2476",
     "tikTvd": "26120002976962",
-    "tikName": "Чертковская"
+    "tikName": "Чертковская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2477,
     "uikTvd": "4614061848994",
+    "uikName": "УИК №2477",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2478,
     "uikTvd": "4614061848995",
+    "uikName": "УИК №2478",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2479,
     "uikTvd": "4614061848996",
+    "uikName": "УИК №2479",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2480,
     "uikTvd": "4614061848997",
+    "uikName": "УИК №2480",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2481,
     "uikTvd": "4614061848998",
+    "uikName": "УИК №2481",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2482,
     "uikTvd": "4614061848999",
+    "uikName": "УИК №2482",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2483,
     "uikTvd": "4614061849000",
+    "uikName": "УИК №2483",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2484,
     "uikTvd": "4614061849001",
+    "uikName": "УИК №2484",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2485,
     "uikTvd": "4614061849002",
+    "uikName": "УИК №2485",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2486,
     "uikTvd": "4614061849003",
+    "uikName": "УИК №2486",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2487,
     "uikTvd": "4614061849004",
+    "uikName": "УИК №2487",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2488,
     "uikTvd": "4614061849005",
+    "uikName": "УИК №2488",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2489,
     "uikTvd": "4614061849006",
+    "uikName": "УИК №2489",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2490,
     "uikTvd": "4614061849007",
+    "uikName": "УИК №2490",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2491,
     "uikTvd": "4614061849008",
+    "uikName": "УИК №2491",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2492,
     "uikTvd": "4614061849009",
+    "uikName": "УИК №2492",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2493,
     "uikTvd": "4614061849010",
+    "uikName": "УИК №2493",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2494,
     "uikTvd": "4614061849011",
+    "uikName": "УИК №2494",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2495,
     "uikTvd": "4614061849012",
+    "uikName": "УИК №2495",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2496,
     "uikTvd": "4614061849013",
+    "uikName": "УИК №2496",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2497,
     "uikTvd": "4614061849014",
+    "uikName": "УИК №2497",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2498,
     "uikTvd": "4614061849015",
+    "uikName": "УИК №2498",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2499,
     "uikTvd": "4614061849016",
+    "uikName": "УИК №2499",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2500,
     "uikTvd": "4614061849017",
+    "uikName": "УИК №2500",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2501,
     "uikTvd": "4614061849018",
+    "uikName": "УИК №2501",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2502,
     "uikTvd": "4614061849019",
+    "uikName": "УИК №2502",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2503,
     "uikTvd": "4614061849020",
+    "uikName": "УИК №2503",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2504,
     "uikTvd": "4614061849021",
+    "uikName": "УИК №2504",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2505,
     "uikTvd": "4614061849022",
+    "uikName": "УИК №2505",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2506,
     "uikTvd": "4614061849023",
+    "uikName": "УИК №2506",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2507,
     "uikTvd": "4614061849024",
+    "uikName": "УИК №2507",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2508,
     "uikTvd": "4614061849025",
+    "uikName": "УИК №2508",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2509,
     "uikTvd": "4614061849026",
+    "uikName": "УИК №2509",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2510,
     "uikTvd": "4614061849027",
+    "uikName": "УИК №2510",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2511,
     "uikTvd": "4614061849028",
+    "uikName": "УИК №2511",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2512,
     "uikTvd": "4614061849029",
+    "uikName": "УИК №2512",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2513,
     "uikTvd": "4614061849030",
+    "uikName": "УИК №2513",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2514,
     "uikTvd": "4614061849031",
+    "uikName": "УИК №2514",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2515,
     "uikTvd": "4614061849032",
+    "uikName": "УИК №2515",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2516,
     "uikTvd": "4614061849033",
+    "uikName": "УИК №2516",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2517,
     "uikTvd": "4614061849034",
+    "uikName": "УИК №2517",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2518,
     "uikTvd": "4614061849035",
+    "uikName": "УИК №2518",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2519,
     "uikTvd": "4614061849036",
+    "uikName": "УИК №2519",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2520,
     "uikTvd": "4614061849037",
+    "uikName": "УИК №2520",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2521,
     "uikTvd": "4614061849038",
+    "uikName": "УИК №2521",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2522,
     "uikTvd": "4614061849039",
+    "uikName": "УИК №2522",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2523,
     "uikTvd": "4614061849040",
+    "uikName": "УИК №2523",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2524,
     "uikTvd": "4614061849041",
+    "uikName": "УИК №2524",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2525,
     "uikTvd": "4614061849042",
+    "uikName": "УИК №2525",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2526,
     "uikTvd": "4614061849043",
+    "uikName": "УИК №2526",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2527,
     "uikTvd": "4614061849044",
+    "uikName": "УИК №2527",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2528,
     "uikTvd": "4614061849045",
+    "uikName": "УИК №2528",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2529,
     "uikTvd": "4614061849046",
+    "uikName": "УИК №2529",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2530,
     "uikTvd": "4614061849047",
+    "uikName": "УИК №2530",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2531,
     "uikTvd": "4614061849048",
+    "uikName": "УИК №2531",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2532,
     "uikTvd": "4614061849049",
+    "uikName": "УИК №2532",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2533,
     "uikTvd": "4614061849050",
+    "uikName": "УИК №2533",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2534,
     "uikTvd": "4614061849051",
+    "uikName": "УИК №2534",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2535,
     "uikTvd": "4614061849052",
+    "uikName": "УИК №2535",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2536,
     "uikTvd": "4614061849053",
+    "uikName": "УИК №2536",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2537,
     "uikTvd": "4614061849054",
+    "uikName": "УИК №2537",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2538,
     "uikTvd": "4614061849055",
+    "uikName": "УИК №2538",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2539,
     "uikTvd": "4614061849056",
+    "uikName": "УИК №2539",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2540,
     "uikTvd": "4614061849057",
+    "uikName": "УИК №2540",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2541,
     "uikTvd": "4614061849058",
+    "uikName": "УИК №2541",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2542,
     "uikTvd": "4614061849059",
+    "uikName": "УИК №2542",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2543,
     "uikTvd": "4614061849060",
+    "uikName": "УИК №2543",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2544,
     "uikTvd": "4614061849061",
+    "uikName": "УИК №2544",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2545,
     "uikTvd": "4614061849062",
+    "uikName": "УИК №2545",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2546,
     "uikTvd": "4614061849063",
+    "uikName": "УИК №2546",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2547,
     "uikTvd": "4614061849064",
+    "uikName": "УИК №2547",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2548,
     "uikTvd": "4614061849065",
+    "uikName": "УИК №2548",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2549,
     "uikTvd": "4614061849066",
+    "uikName": "УИК №2549",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2550,
     "uikTvd": "4614061849067",
+    "uikName": "УИК №2550",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2551,
     "uikTvd": "4614061849068",
+    "uikName": "УИК №2551",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2552,
     "uikTvd": "4614061849069",
+    "uikName": "УИК №2552",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2553,
     "uikTvd": "4614061849070",
+    "uikName": "УИК №2553",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2554,
     "uikTvd": "4614061849071",
+    "uikName": "УИК №2554",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2555,
     "uikTvd": "4614061849072",
+    "uikName": "УИК №2555",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2556,
     "uikTvd": "4614061849073",
+    "uikName": "УИК №2556",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2557,
     "uikTvd": "4614061849074",
+    "uikName": "УИК №2557",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2558,
     "uikTvd": "4614061849075",
+    "uikName": "УИК №2558",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2559,
     "uikTvd": "4614061849076",
+    "uikName": "УИК №2559",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2560,
     "uikTvd": "4614061849077",
+    "uikName": "УИК №2560",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2561,
     "uikTvd": "4614061849078",
+    "uikName": "УИК №2561",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2562,
     "uikTvd": "4614061849079",
+    "uikName": "УИК №2562",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2563,
     "uikTvd": "4614061849080",
+    "uikName": "УИК №2563",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2564,
     "uikTvd": "4614061849081",
+    "uikName": "УИК №2564",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2565,
     "uikTvd": "4614061849082",
+    "uikName": "УИК №2565",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2566,
     "uikTvd": "4614061849083",
+    "uikName": "УИК №2566",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2567,
     "uikTvd": "4614061849084",
+    "uikName": "УИК №2567",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2568,
     "uikTvd": "4614061849085",
+    "uikName": "УИК №2568",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2569,
     "uikTvd": "4614061849086",
+    "uikName": "УИК №2569",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2570,
     "uikTvd": "4614061849087",
+    "uikName": "УИК №2570",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2571,
     "uikTvd": "4614061849088",
+    "uikName": "УИК №2571",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2572,
     "uikTvd": "4614061849089",
+    "uikName": "УИК №2572",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2573,
     "uikTvd": "4614061849090",
+    "uikName": "УИК №2573",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2574,
     "uikTvd": "4614061849091",
+    "uikName": "УИК №2574",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2575,
     "uikTvd": "4614061849092",
+    "uikName": "УИК №2575",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2576,
     "uikTvd": "4614061849093",
+    "uikName": "УИК №2576",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2577,
     "uikTvd": "4614061849094",
+    "uikName": "УИК №2577",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2578,
     "uikTvd": "4614061851994",
+    "uikName": "УИК №2578",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2579,
     "uikTvd": "4614061851995",
+    "uikName": "УИК №2579",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2580,
     "uikTvd": "4614061851996",
+    "uikName": "УИК №2580",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2581,
     "uikTvd": "4614062370967",
+    "uikName": "УИК №2581",
     "tikTvd": "26120002976942",
-    "tikName": "Шолоховская"
+    "tikName": "Шолоховская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2582,
     "uikTvd": "4614061851997",
+    "uikName": "УИК №2582",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2583,
     "uikTvd": "4614062370968",
+    "uikName": "УИК №2583",
     "tikTvd": "26120002976942",
-    "tikName": "Шолоховская"
+    "tikName": "Шолоховская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2584,
     "uikTvd": "4614062370969",
+    "uikName": "УИК №2584",
     "tikTvd": "26120002976942",
-    "tikName": "Шолоховская"
+    "tikName": "Шолоховская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2585,
     "uikTvd": "4614062370970",
+    "uikName": "УИК №2585",
     "tikTvd": "26120002976942",
-    "tikName": "Шолоховская"
+    "tikName": "Шолоховская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2586,
     "uikTvd": "4614062370971",
+    "uikName": "УИК №2586",
     "tikTvd": "26120002976942",
-    "tikName": "Шолоховская"
+    "tikName": "Шолоховская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2587,
     "uikTvd": "4614062370972",
+    "uikName": "УИК №2587",
     "tikTvd": "26120002976942",
-    "tikName": "Шолоховская"
+    "tikName": "Шолоховская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2588,
     "uikTvd": "4614062370973",
+    "uikName": "УИК №2588",
     "tikTvd": "26120002976942",
-    "tikName": "Шолоховская"
+    "tikName": "Шолоховская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2589,
     "uikTvd": "4614062370974",
+    "uikName": "УИК №2589",
     "tikTvd": "26120002976942",
-    "tikName": "Шолоховская"
+    "tikName": "Шолоховская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2590,
     "uikTvd": "4614062370975",
+    "uikName": "УИК №2590",
     "tikTvd": "26120002976942",
-    "tikName": "Шолоховская"
+    "tikName": "Шолоховская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2591,
     "uikTvd": "4614062370976",
+    "uikName": "УИК №2591",
     "tikTvd": "26120002976942",
-    "tikName": "Шолоховская"
+    "tikName": "Шолоховская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2592,
     "uikTvd": "4614049412432",
+    "uikName": "УИК №2592",
     "tikTvd": "26120002976938",
-    "tikName": "Ростов-на-Дону, Пролетарская"
+    "tikName": "Ростов-на-Дону, Пролетарская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2594,
     "uikTvd": "4614062370977",
+    "uikName": "УИК №2594",
     "tikTvd": "26120002976942",
-    "tikName": "Шолоховская"
+    "tikName": "Шолоховская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2595,
     "uikTvd": "4614062370978",
+    "uikName": "УИК №2595",
     "tikTvd": "26120002976942",
-    "tikName": "Шолоховская"
+    "tikName": "Шолоховская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2596,
     "uikTvd": "4614062370979",
+    "uikName": "УИК №2596",
     "tikTvd": "26120002976942",
-    "tikName": "Шолоховская"
+    "tikName": "Шолоховская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2597,
     "uikTvd": "4614062370980",
+    "uikName": "УИК №2597",
     "tikTvd": "26120002976942",
-    "tikName": "Шолоховская"
+    "tikName": "Шолоховская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2598,
     "uikTvd": "4614062370981",
+    "uikName": "УИК №2598",
     "tikTvd": "26120002976942",
-    "tikName": "Шолоховская"
+    "tikName": "Шолоховская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2600,
     "uikTvd": "4614062370982",
+    "uikName": "УИК №2600",
     "tikTvd": "26120002976942",
-    "tikName": "Шолоховская"
+    "tikName": "Шолоховская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2601,
     "uikTvd": "4614062370983",
+    "uikName": "УИК №2601",
     "tikTvd": "26120002976942",
-    "tikName": "Шолоховская"
+    "tikName": "Шолоховская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2604,
     "uikTvd": "4614062370984",
+    "uikName": "УИК №2604",
     "tikTvd": "26120002976942",
-    "tikName": "Шолоховская"
+    "tikName": "Шолоховская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2606,
     "uikTvd": "4614062370985",
+    "uikName": "УИК №2606",
     "tikTvd": "26120002976942",
-    "tikName": "Шолоховская"
+    "tikName": "Шолоховская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2608,
     "uikTvd": "4614062370986",
+    "uikName": "УИК №2608",
     "tikTvd": "26120002976942",
-    "tikName": "Шолоховская"
+    "tikName": "Шолоховская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2609,
     "uikTvd": "4614062370987",
+    "uikName": "УИК №2609",
     "tikTvd": "26120002976942",
-    "tikName": "Шолоховская"
+    "tikName": "Шолоховская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2610,
     "uikTvd": "46140031147398",
+    "uikName": "УИК №2610",
     "tikTvd": "26120002976964",
-    "tikName": "Аксайская"
+    "tikName": "Аксайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2612,
     "uikTvd": "4614062370988",
+    "uikName": "УИК №2612",
     "tikTvd": "26120002976942",
-    "tikName": "Шолоховская"
+    "tikName": "Шолоховская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2614,
     "uikTvd": "4614062370989",
+    "uikName": "УИК №2614",
     "tikTvd": "26120002976942",
-    "tikName": "Шолоховская"
+    "tikName": "Шолоховская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2615,
     "uikTvd": "4614050493274",
+    "uikName": "УИК №2615",
     "tikTvd": "26120002976978",
-    "tikName": "Ростов-на-Дону, Советская"
+    "tikName": "Ростов-на-Дону, Советская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2616,
     "uikTvd": "4614061849099",
+    "uikName": "УИК №2616",
     "tikTvd": "26120002976961",
-    "tikName": "Шахтинская городская"
+    "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2617,
     "uikTvd": "4614062370990",
+    "uikName": "УИК №2617",
     "tikTvd": "26120002976942",
-    "tikName": "Шолоховская"
+    "tikName": "Шолоховская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2618,
     "uikTvd": "4614050493275",
+    "uikName": "УИК №2618",
     "tikTvd": "26120002976978",
-    "tikName": "Ростов-на-Дону, Советская"
+    "tikName": "Ростов-на-Дону, Советская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2619,
     "uikTvd": "4614035503664",
+    "uikName": "УИК №2619",
     "tikTvd": "26120002976996",
-    "tikName": "Новошахтинская городская"
+    "tikName": "Новошахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2620,
     "uikTvd": "46140331194798",
+    "uikName": "УИК №2620",
     "tikTvd": "26120002976952",
-    "tikName": "Неклиновская"
+    "tikName": "Неклиновская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2621,
     "uikTvd": "4614034603637",
+    "uikName": "УИК №2621",
     "tikTvd": "26120002976959",
-    "tikName": "Новочеркасская городская"
+    "tikName": "Новочеркасская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2622,
     "uikTvd": "4614063171977",
+    "uikName": "УИК №2622",
     "tikTvd": "26120002976987",
-    "tikName": "Таганрогская городская (западная)"
+    "tikName": "Таганрогская городская (западная)",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2624,
     "uikTvd": "46140031150343",
+    "uikName": "УИК №2624",
     "tikTvd": "26120002976964",
-    "tikName": "Аксайская"
+    "tikName": "Аксайская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2625,
     "uikTvd": "4614047492172",
+    "uikName": "УИК №2625",
     "tikTvd": "26120002976990",
-    "tikName": "Ростов-на-Дону, Октябрьская"
+    "tikName": "Ростов-на-Дону, Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2626,
     "uikTvd": "4614050493276",
+    "uikName": "УИК №2626",
     "tikTvd": "26120002976978",
-    "tikName": "Ростов-на-Дону, Советская"
+    "tikName": "Ростов-на-Дону, Советская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2627,
     "uikTvd": "4614017249130",
+    "uikName": "УИК №2627",
     "tikTvd": "26120002976984",
-    "tikName": "Зверевская городская"
+    "tikName": "Зверевская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2628,
     "uikTvd": "4614017249131",
+    "uikName": "УИК №2628",
     "tikTvd": "26120002976984",
-    "tikName": "Зверевская городская"
+    "tikName": "Зверевская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2629,
     "uikTvd": "4614017249132",
+    "uikName": "УИК №2629",
     "tikTvd": "26120002976984",
-    "tikName": "Зверевская городская"
+    "tikName": "Зверевская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2630,
     "uikTvd": "4614047492173",
+    "uikName": "УИК №2630",
     "tikTvd": "26120002976990",
-    "tikName": "Ростов-на-Дону, Октябрьская"
+    "tikName": "Ростов-на-Дону, Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2631,
     "uikTvd": "46140053109773",
+    "uikName": "УИК №2631",
     "tikTvd": "26120002976946",
-    "tikName": "Батайская городская"
+    "tikName": "Батайская городская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   },
   {
     "uikNumber": 2632,
     "uikTvd": "4614047492174",
+    "uikName": "УИК №2632",
     "tikTvd": "26120002976990",
-    "tikName": "Ростов-на-Дону, Октябрьская"
+    "tikName": "Ростов-на-Дону, Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100339411253",
+    "regionName": "Ростовская область",
+    "district": null
   }
 ] satisfies readonly UikTikRelation[];

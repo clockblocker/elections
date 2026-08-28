@@ -11,6 +11,9 @@ export const president_2008_tic_227_region_45 = [
     "ballot": "presidential",
     "tikTvd": "2452000149185",
     "tikName": "Звериноголовская",
+    "regionCode": "45",
+    "regionTvd": "100100022249970",
+    "regionName": "Курганская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 8312,
@@ -77,6 +80,9 @@ export const president_2008_tic_227_region_45 = [
     "ballot": "presidential",
     "tikTvd": "2452000149186",
     "tikName": "Катайская",
+    "regionCode": "45",
+    "regionTvd": "100100022249970",
+    "regionName": "Курганская область",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 20819,
@@ -168,6 +174,9 @@ export const president_2008_tic_227_region_45 = [
     "ballot": "presidential",
     "tikTvd": "2452000149187",
     "tikName": "Каргапольская",
+    "regionCode": "45",
+    "regionTvd": "100100022249970",
+    "regionName": "Курганская область",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 25045,
@@ -265,6 +274,9 @@ export const president_2008_tic_227_region_45 = [
     "ballot": "presidential",
     "tikTvd": "2452000149188",
     "tikName": "Далматовская",
+    "regionCode": "45",
+    "regionTvd": "100100022249970",
+    "regionName": "Курганская область",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 25889,
@@ -362,6 +374,9 @@ export const president_2008_tic_227_region_45 = [
     "ballot": "presidential",
     "tikTvd": "2452000149189",
     "tikName": "Альменевская",
+    "regionCode": "45",
+    "regionTvd": "100100022249970",
+    "regionName": "Курганская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 9786,
@@ -440,6 +455,9 @@ export const president_2008_tic_227_region_45 = [
     "ballot": "presidential",
     "tikTvd": "2452000149190",
     "tikName": "Белозерская",
+    "regionCode": "45",
+    "regionTvd": "100100022249970",
+    "regionName": "Курганская область",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 15051,
@@ -537,6 +555,9 @@ export const president_2008_tic_227_region_45 = [
     "ballot": "presidential",
     "tikTvd": "2452000149191",
     "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100022249970",
+    "regionName": "Курганская область",
     "uikCount": 55,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 42487,
@@ -639,6 +660,9 @@ export const president_2008_tic_227_region_45 = [
     "ballot": "presidential",
     "tikTvd": "2452000149192",
     "tikName": "Сафакулевская",
+    "regionCode": "45",
+    "regionTvd": "100100022249970",
+    "regionName": "Курганская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 11380,
@@ -720,6 +744,9 @@ export const president_2008_tic_227_region_45 = [
     "ballot": "presidential",
     "tikTvd": "2452000149193",
     "tikName": "Притобольная",
+    "regionCode": "45",
+    "regionTvd": "100100022249970",
+    "regionName": "Курганская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 12934,
@@ -797,6 +824,9 @@ export const president_2008_tic_227_region_45 = [
     "ballot": "presidential",
     "tikTvd": "2452000149194",
     "tikName": "Половинская",
+    "regionCode": "45",
+    "regionTvd": "100100022249970",
+    "regionName": "Курганская область",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 11122,
@@ -879,6 +909,9 @@ export const president_2008_tic_227_region_45 = [
     "ballot": "presidential",
     "tikTvd": "2452000149195",
     "tikName": "Петуховская",
+    "regionCode": "45",
+    "regionTvd": "100100022249970",
+    "regionName": "Курганская область",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 17960,
@@ -972,6 +1005,9 @@ export const president_2008_tic_227_region_45 = [
     "ballot": "presidential",
     "tikTvd": "2452000149196",
     "tikName": "Мишкинская",
+    "regionCode": "45",
+    "regionTvd": "100100022249970",
+    "regionName": "Курганская область",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 15931,
@@ -1054,6 +1090,9 @@ export const president_2008_tic_227_region_45 = [
     "ballot": "presidential",
     "tikTvd": "2452000149197",
     "tikName": "Мокроусовская",
+    "regionCode": "45",
+    "regionTvd": "100100022249970",
+    "regionName": "Курганская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 10195,
@@ -1141,6 +1180,9 @@ export const president_2008_tic_227_region_45 = [
     "ballot": "presidential",
     "tikTvd": "2452000149198",
     "tikName": "Лебяжьевская",
+    "regionCode": "45",
+    "regionTvd": "100100022249970",
+    "regionName": "Курганская область",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 14451,
@@ -1231,6 +1273,9 @@ export const president_2008_tic_227_region_45 = [
     "ballot": "presidential",
     "tikTvd": "2452000149199",
     "tikName": "Куртамышская",
+    "regionCode": "45",
+    "regionTvd": "100100022249970",
+    "regionName": "Курганская область",
     "uikCount": 60,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 26669,
@@ -1338,6 +1383,9 @@ export const president_2008_tic_227_region_45 = [
     "ballot": "presidential",
     "tikTvd": "2452000149200",
     "tikName": "Макушинская",
+    "regionCode": "45",
+    "regionTvd": "100100022249970",
+    "regionName": "Курганская область",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 16507,
@@ -1427,6 +1475,9 @@ export const president_2008_tic_227_region_45 = [
     "ballot": "presidential",
     "tikTvd": "2452000149201",
     "tikName": "Целинная",
+    "regionCode": "45",
+    "regionTvd": "100100022249970",
+    "regionName": "Курганская область",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 15350,
@@ -1518,6 +1569,9 @@ export const president_2008_tic_227_region_45 = [
     "ballot": "presidential",
     "tikTvd": "2452000149202",
     "tikName": "Курган, Восточная",
+    "regionCode": "45",
+    "regionTvd": "100100022249970",
+    "regionName": "Курганская область",
     "uikCount": 76,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 139380,
@@ -1641,6 +1695,9 @@ export const president_2008_tic_227_region_45 = [
     "ballot": "presidential",
     "tikTvd": "2452000149203",
     "tikName": "Курган, Западная",
+    "regionCode": "45",
+    "regionTvd": "100100022249970",
+    "regionName": "Курганская область",
     "uikCount": 69,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 142633,
@@ -1757,6 +1814,9 @@ export const president_2008_tic_227_region_45 = [
     "ballot": "presidential",
     "tikTvd": "2452000149204",
     "tikName": "Шадринская городская",
+    "regionCode": "45",
+    "regionTvd": "100100022249970",
+    "regionName": "Курганская область",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 64165,
@@ -1845,6 +1905,9 @@ export const president_2008_tic_227_region_45 = [
     "ballot": "presidential",
     "tikTvd": "2452000149205",
     "tikName": "Юргамышская",
+    "regionCode": "45",
+    "regionTvd": "100100022249970",
+    "regionName": "Курганская область",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 17650,
@@ -1930,6 +1993,9 @@ export const president_2008_tic_227_region_45 = [
     "ballot": "presidential",
     "tikTvd": "2452000149206",
     "tikName": "Щучанская",
+    "regionCode": "45",
+    "regionTvd": "100100022249970",
+    "regionName": "Курганская область",
     "uikCount": 48,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 19607,
@@ -2025,6 +2091,9 @@ export const president_2008_tic_227_region_45 = [
     "ballot": "presidential",
     "tikTvd": "2452000149207",
     "tikName": "Шатровская",
+    "regionCode": "45",
+    "regionTvd": "100100022249970",
+    "regionName": "Курганская область",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 17092,
@@ -2111,6 +2180,9 @@ export const president_2008_tic_227_region_45 = [
     "ballot": "presidential",
     "tikTvd": "2452000149208",
     "tikName": "Шумихинская",
+    "regionCode": "45",
+    "regionTvd": "100100022249970",
+    "regionName": "Курганская область",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 25211,
@@ -2201,6 +2273,9 @@ export const president_2008_tic_227_region_45 = [
     "ballot": "presidential",
     "tikTvd": "2452000149209",
     "tikName": "Шадринская",
+    "regionCode": "45",
+    "regionTvd": "100100022249970",
+    "regionName": "Курганская область",
     "uikCount": 58,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 24495,
@@ -2306,6 +2381,9 @@ export const president_2008_tic_227_region_45 = [
     "ballot": "presidential",
     "tikTvd": "2452000149210",
     "tikName": "Частоозерская",
+    "regionCode": "45",
+    "regionTvd": "100100022249970",
+    "regionName": "Курганская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 5355,
@@ -2373,6 +2451,9 @@ export const president_2008_tic_227_region_45 = [
     "ballot": "presidential",
     "tikTvd": "2452000149211",
     "tikName": "Варгашинская",
+    "regionCode": "45",
+    "regionTvd": "100100022249970",
+    "regionName": "Курганская область",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 16478,

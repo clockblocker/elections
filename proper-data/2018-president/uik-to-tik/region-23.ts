@@ -7,16747 +7,30702 @@ export const president_2018_uik_to_tik_region_23 = [
   {
     "uikNumber": 101,
     "uikTvd": "4234001231950",
+    "uikName": "УИК №101",
     "tikTvd": "22320002182661",
-    "tikName": "Абинская"
+    "tikName": "Абинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 102,
     "uikTvd": "4234001231951",
+    "uikName": "УИК №102",
     "tikTvd": "22320002182661",
-    "tikName": "Абинская"
+    "tikName": "Абинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 103,
     "uikTvd": "4234001231952",
+    "uikName": "УИК №103",
     "tikTvd": "22320002182661",
-    "tikName": "Абинская"
+    "tikName": "Абинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 104,
     "uikTvd": "4234001231953",
+    "uikName": "УИК №104",
     "tikTvd": "22320002182661",
-    "tikName": "Абинская"
+    "tikName": "Абинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 105,
     "uikTvd": "4234001231954",
+    "uikName": "УИК №105",
     "tikTvd": "22320002182661",
-    "tikName": "Абинская"
+    "tikName": "Абинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 106,
     "uikTvd": "4234001231955",
+    "uikName": "УИК №106",
     "tikTvd": "22320002182661",
-    "tikName": "Абинская"
+    "tikName": "Абинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 107,
     "uikTvd": "4234001231956",
+    "uikName": "УИК №107",
     "tikTvd": "22320002182661",
-    "tikName": "Абинская"
+    "tikName": "Абинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 108,
     "uikTvd": "4234001231957",
+    "uikName": "УИК №108",
     "tikTvd": "22320002182661",
-    "tikName": "Абинская"
+    "tikName": "Абинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 109,
     "uikTvd": "4234001231958",
+    "uikName": "УИК №109",
     "tikTvd": "22320002182661",
-    "tikName": "Абинская"
+    "tikName": "Абинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 110,
     "uikTvd": "4234001231959",
+    "uikName": "УИК №110",
     "tikTvd": "22320002182661",
-    "tikName": "Абинская"
+    "tikName": "Абинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 111,
     "uikTvd": "4234001231960",
+    "uikName": "УИК №111",
     "tikTvd": "22320002182661",
-    "tikName": "Абинская"
+    "tikName": "Абинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 112,
     "uikTvd": "4234001231961",
+    "uikName": "УИК №112",
     "tikTvd": "22320002182661",
-    "tikName": "Абинская"
+    "tikName": "Абинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 113,
     "uikTvd": "4234001231962",
+    "uikName": "УИК №113",
     "tikTvd": "22320002182661",
-    "tikName": "Абинская"
+    "tikName": "Абинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 114,
     "uikTvd": "4234001231963",
+    "uikName": "УИК №114",
     "tikTvd": "22320002182661",
-    "tikName": "Абинская"
+    "tikName": "Абинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 115,
     "uikTvd": "4234001231964",
+    "uikName": "УИК №115",
     "tikTvd": "22320002182661",
-    "tikName": "Абинская"
+    "tikName": "Абинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 116,
     "uikTvd": "4234001231965",
+    "uikName": "УИК №116",
     "tikTvd": "22320002182661",
-    "tikName": "Абинская"
+    "tikName": "Абинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 117,
     "uikTvd": "4234001231966",
+    "uikName": "УИК №117",
     "tikTvd": "22320002182661",
-    "tikName": "Абинская"
+    "tikName": "Абинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 118,
     "uikTvd": "4234001231967",
+    "uikName": "УИК №118",
     "tikTvd": "22320002182661",
-    "tikName": "Абинская"
+    "tikName": "Абинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 119,
     "uikTvd": "4234001231968",
+    "uikName": "УИК №119",
     "tikTvd": "22320002182661",
-    "tikName": "Абинская"
+    "tikName": "Абинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 120,
     "uikTvd": "4234001231969",
+    "uikName": "УИК №120",
     "tikTvd": "22320002182661",
-    "tikName": "Абинская"
+    "tikName": "Абинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 121,
     "uikTvd": "4234001231970",
+    "uikName": "УИК №121",
     "tikTvd": "22320002182661",
-    "tikName": "Абинская"
+    "tikName": "Абинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 122,
     "uikTvd": "4234001231971",
+    "uikName": "УИК №122",
     "tikTvd": "22320002182661",
-    "tikName": "Абинская"
+    "tikName": "Абинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 123,
     "uikTvd": "4234001231972",
+    "uikName": "УИК №123",
     "tikTvd": "22320002182661",
-    "tikName": "Абинская"
+    "tikName": "Абинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 124,
     "uikTvd": "4234001231973",
+    "uikName": "УИК №124",
     "tikTvd": "22320002182661",
-    "tikName": "Абинская"
+    "tikName": "Абинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 125,
     "uikTvd": "4234001231974",
+    "uikName": "УИК №125",
     "tikTvd": "22320002182661",
-    "tikName": "Абинская"
+    "tikName": "Абинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 126,
     "uikTvd": "4234001231975",
+    "uikName": "УИК №126",
     "tikTvd": "22320002182661",
-    "tikName": "Абинская"
+    "tikName": "Абинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 127,
     "uikTvd": "4234001231976",
+    "uikName": "УИК №127",
     "tikTvd": "22320002182661",
-    "tikName": "Абинская"
+    "tikName": "Абинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 128,
     "uikTvd": "4234001231977",
+    "uikName": "УИК №128",
     "tikTvd": "22320002182661",
-    "tikName": "Абинская"
+    "tikName": "Абинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 129,
     "uikTvd": "4234001231978",
+    "uikName": "УИК №129",
     "tikTvd": "22320002182661",
-    "tikName": "Абинская"
+    "tikName": "Абинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 130,
     "uikTvd": "4234001231979",
+    "uikName": "УИК №130",
     "tikTvd": "22320002182661",
-    "tikName": "Абинская"
+    "tikName": "Абинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 131,
     "uikTvd": "4234001231980",
+    "uikName": "УИК №131",
     "tikTvd": "22320002182661",
-    "tikName": "Абинская"
+    "tikName": "Абинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 132,
     "uikTvd": "4234001231981",
+    "uikName": "УИК №132",
     "tikTvd": "22320002182661",
-    "tikName": "Абинская"
+    "tikName": "Абинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 133,
     "uikTvd": "4234001231982",
+    "uikName": "УИК №133",
     "tikTvd": "22320002182661",
-    "tikName": "Абинская"
+    "tikName": "Абинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 134,
     "uikTvd": "4234001231983",
+    "uikName": "УИК №134",
     "tikTvd": "22320002182661",
-    "tikName": "Абинская"
+    "tikName": "Абинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 135,
     "uikTvd": "4234001231984",
+    "uikName": "УИК №135",
     "tikTvd": "22320002182661",
-    "tikName": "Абинская"
+    "tikName": "Абинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 136,
     "uikTvd": "4234001231985",
+    "uikName": "УИК №136",
     "tikTvd": "22320002182661",
-    "tikName": "Абинская"
+    "tikName": "Абинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 137,
     "uikTvd": "4234001231986",
+    "uikName": "УИК №137",
     "tikTvd": "22320002182661",
-    "tikName": "Абинская"
+    "tikName": "Абинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 138,
     "uikTvd": "4234001231987",
+    "uikName": "УИК №138",
     "tikTvd": "22320002182661",
-    "tikName": "Абинская"
+    "tikName": "Абинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 139,
     "uikTvd": "4234001231988",
+    "uikName": "УИК №139",
     "tikTvd": "22320002182661",
-    "tikName": "Абинская"
+    "tikName": "Абинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 140,
     "uikTvd": "4234001231989",
+    "uikName": "УИК №140",
     "tikTvd": "22320002182661",
-    "tikName": "Абинская"
+    "tikName": "Абинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 141,
     "uikTvd": "4234001231990",
+    "uikName": "УИК №141",
     "tikTvd": "22320002182661",
-    "tikName": "Абинская"
+    "tikName": "Абинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 142,
     "uikTvd": "4234001231991",
+    "uikName": "УИК №142",
     "tikTvd": "22320002182661",
-    "tikName": "Абинская"
+    "tikName": "Абинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 201,
     "uikTvd": "4234026260029",
+    "uikName": "УИК №201",
     "tikTvd": "22320002182662",
-    "tikName": "Анапская"
+    "tikName": "Анапская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 202,
     "uikTvd": "4234026260030",
+    "uikName": "УИК №202",
     "tikTvd": "22320002182662",
-    "tikName": "Анапская"
+    "tikName": "Анапская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 203,
     "uikTvd": "4234026260031",
+    "uikName": "УИК №203",
     "tikTvd": "22320002182662",
-    "tikName": "Анапская"
+    "tikName": "Анапская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 204,
     "uikTvd": "4234026260032",
+    "uikName": "УИК №204",
     "tikTvd": "22320002182662",
-    "tikName": "Анапская"
+    "tikName": "Анапская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 205,
     "uikTvd": "4234026260033",
+    "uikName": "УИК №205",
     "tikTvd": "22320002182662",
-    "tikName": "Анапская"
+    "tikName": "Анапская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 206,
     "uikTvd": "4234026260034",
+    "uikName": "УИК №206",
     "tikTvd": "22320002182662",
-    "tikName": "Анапская"
+    "tikName": "Анапская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 207,
     "uikTvd": "4234026260035",
+    "uikName": "УИК №207",
     "tikTvd": "22320002182662",
-    "tikName": "Анапская"
+    "tikName": "Анапская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 208,
     "uikTvd": "4234026260036",
+    "uikName": "УИК №208",
     "tikTvd": "22320002182662",
-    "tikName": "Анапская"
+    "tikName": "Анапская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 209,
     "uikTvd": "4234026260037",
+    "uikName": "УИК №209",
     "tikTvd": "22320002182662",
-    "tikName": "Анапская"
+    "tikName": "Анапская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 210,
     "uikTvd": "4234026260038",
+    "uikName": "УИК №210",
     "tikTvd": "22320002182662",
-    "tikName": "Анапская"
+    "tikName": "Анапская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 211,
     "uikTvd": "4234026260039",
+    "uikName": "УИК №211",
     "tikTvd": "22320002182662",
-    "tikName": "Анапская"
+    "tikName": "Анапская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 212,
     "uikTvd": "4234026260040",
+    "uikName": "УИК №212",
     "tikTvd": "22320002182662",
-    "tikName": "Анапская"
+    "tikName": "Анапская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 213,
     "uikTvd": "4234026260041",
+    "uikName": "УИК №213",
     "tikTvd": "22320002182662",
-    "tikName": "Анапская"
+    "tikName": "Анапская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 214,
     "uikTvd": "4234026260042",
+    "uikName": "УИК №214",
     "tikTvd": "22320002182662",
-    "tikName": "Анапская"
+    "tikName": "Анапская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 215,
     "uikTvd": "4234026260043",
+    "uikName": "УИК №215",
     "tikTvd": "22320002182662",
-    "tikName": "Анапская"
+    "tikName": "Анапская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 216,
     "uikTvd": "4234026260044",
+    "uikName": "УИК №216",
     "tikTvd": "22320002182662",
-    "tikName": "Анапская"
+    "tikName": "Анапская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 217,
     "uikTvd": "4234026260045",
+    "uikName": "УИК №217",
     "tikTvd": "22320002182662",
-    "tikName": "Анапская"
+    "tikName": "Анапская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 218,
     "uikTvd": "4234026260046",
+    "uikName": "УИК №218",
     "tikTvd": "22320002182662",
-    "tikName": "Анапская"
+    "tikName": "Анапская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 219,
     "uikTvd": "4234026260047",
+    "uikName": "УИК №219",
     "tikTvd": "22320002182662",
-    "tikName": "Анапская"
+    "tikName": "Анапская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 220,
     "uikTvd": "4234026260048",
+    "uikName": "УИК №220",
     "tikTvd": "22320002182662",
-    "tikName": "Анапская"
+    "tikName": "Анапская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 221,
     "uikTvd": "4234026260049",
+    "uikName": "УИК №221",
     "tikTvd": "22320002182662",
-    "tikName": "Анапская"
+    "tikName": "Анапская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 222,
     "uikTvd": "4234026260050",
+    "uikName": "УИК №222",
     "tikTvd": "22320002182662",
-    "tikName": "Анапская"
+    "tikName": "Анапская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 223,
     "uikTvd": "4234026260051",
+    "uikName": "УИК №223",
     "tikTvd": "22320002182662",
-    "tikName": "Анапская"
+    "tikName": "Анапская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 224,
     "uikTvd": "4234026260052",
+    "uikName": "УИК №224",
     "tikTvd": "22320002182662",
-    "tikName": "Анапская"
+    "tikName": "Анапская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 225,
     "uikTvd": "4234026260053",
+    "uikName": "УИК №225",
     "tikTvd": "22320002182662",
-    "tikName": "Анапская"
+    "tikName": "Анапская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 226,
     "uikTvd": "4234026260054",
+    "uikName": "УИК №226",
     "tikTvd": "22320002182662",
-    "tikName": "Анапская"
+    "tikName": "Анапская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 227,
     "uikTvd": "4234026260055",
+    "uikName": "УИК №227",
     "tikTvd": "22320002182662",
-    "tikName": "Анапская"
+    "tikName": "Анапская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 228,
     "uikTvd": "4234026260056",
+    "uikName": "УИК №228",
     "tikTvd": "22320002182662",
-    "tikName": "Анапская"
+    "tikName": "Анапская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 229,
     "uikTvd": "4234026260057",
+    "uikName": "УИК №229",
     "tikTvd": "22320002182662",
-    "tikName": "Анапская"
+    "tikName": "Анапская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 230,
     "uikTvd": "4234026260058",
+    "uikName": "УИК №230",
     "tikTvd": "22320002182662",
-    "tikName": "Анапская"
+    "tikName": "Анапская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 231,
     "uikTvd": "4234026260059",
+    "uikName": "УИК №231",
     "tikTvd": "22320002182662",
-    "tikName": "Анапская"
+    "tikName": "Анапская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 232,
     "uikTvd": "4234026260060",
+    "uikName": "УИК №232",
     "tikTvd": "22320002182662",
-    "tikName": "Анапская"
+    "tikName": "Анапская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 233,
     "uikTvd": "4234026260061",
+    "uikName": "УИК №233",
     "tikTvd": "22320002182662",
-    "tikName": "Анапская"
+    "tikName": "Анапская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 234,
     "uikTvd": "4234026260062",
+    "uikName": "УИК №234",
     "tikTvd": "22320002182662",
-    "tikName": "Анапская"
+    "tikName": "Анапская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 235,
     "uikTvd": "4234026260063",
+    "uikName": "УИК №235",
     "tikTvd": "22320002182662",
-    "tikName": "Анапская"
+    "tikName": "Анапская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 236,
     "uikTvd": "4234026260064",
+    "uikName": "УИК №236",
     "tikTvd": "22320002182662",
-    "tikName": "Анапская"
+    "tikName": "Анапская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 237,
     "uikTvd": "4234026260065",
+    "uikName": "УИК №237",
     "tikTvd": "22320002182662",
-    "tikName": "Анапская"
+    "tikName": "Анапская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 238,
     "uikTvd": "4234026260066",
+    "uikName": "УИК №238",
     "tikTvd": "22320002182662",
-    "tikName": "Анапская"
+    "tikName": "Анапская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 239,
     "uikTvd": "4234026260067",
+    "uikName": "УИК №239",
     "tikTvd": "22320002182662",
-    "tikName": "Анапская"
+    "tikName": "Анапская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 240,
     "uikTvd": "4234026260068",
+    "uikName": "УИК №240",
     "tikTvd": "22320002182662",
-    "tikName": "Анапская"
+    "tikName": "Анапская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 241,
     "uikTvd": "4234026260069",
+    "uikName": "УИК №241",
     "tikTvd": "22320002182662",
-    "tikName": "Анапская"
+    "tikName": "Анапская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 242,
     "uikTvd": "4234026260070",
+    "uikName": "УИК №242",
     "tikTvd": "22320002182662",
-    "tikName": "Анапская"
+    "tikName": "Анапская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 243,
     "uikTvd": "4234026260071",
+    "uikName": "УИК №243",
     "tikTvd": "22320002182662",
-    "tikName": "Анапская"
+    "tikName": "Анапская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 244,
     "uikTvd": "4234026260072",
+    "uikName": "УИК №244",
     "tikTvd": "22320002182662",
-    "tikName": "Анапская"
+    "tikName": "Анапская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 245,
     "uikTvd": "4234026260073",
+    "uikName": "УИК №245",
     "tikTvd": "22320002182662",
-    "tikName": "Анапская"
+    "tikName": "Анапская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 246,
     "uikTvd": "4234026260074",
+    "uikName": "УИК №246",
     "tikTvd": "22320002182662",
-    "tikName": "Анапская"
+    "tikName": "Анапская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 247,
     "uikTvd": "4234026260075",
+    "uikName": "УИК №247",
     "tikTvd": "22320002182662",
-    "tikName": "Анапская"
+    "tikName": "Анапская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 248,
     "uikTvd": "4234026260076",
+    "uikName": "УИК №248",
     "tikTvd": "22320002182662",
-    "tikName": "Анапская"
+    "tikName": "Анапская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 249,
     "uikTvd": "4234026260077",
+    "uikName": "УИК №249",
     "tikTvd": "22320002182662",
-    "tikName": "Анапская"
+    "tikName": "Анапская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 250,
     "uikTvd": "4234026260078",
+    "uikName": "УИК №250",
     "tikTvd": "22320002182662",
-    "tikName": "Анапская"
+    "tikName": "Анапская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 251,
     "uikTvd": "4234026260079",
+    "uikName": "УИК №251",
     "tikTvd": "22320002182662",
-    "tikName": "Анапская"
+    "tikName": "Анапская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 252,
     "uikTvd": "4234026260080",
+    "uikName": "УИК №252",
     "tikTvd": "22320002182662",
-    "tikName": "Анапская"
+    "tikName": "Анапская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 253,
     "uikTvd": "4234026260081",
+    "uikName": "УИК №253",
     "tikTvd": "22320002182662",
-    "tikName": "Анапская"
+    "tikName": "Анапская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 254,
     "uikTvd": "4234026260082",
+    "uikName": "УИК №254",
     "tikTvd": "22320002182662",
-    "tikName": "Анапская"
+    "tikName": "Анапская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 255,
     "uikTvd": "4234026260083",
+    "uikName": "УИК №255",
     "tikTvd": "22320002182662",
-    "tikName": "Анапская"
+    "tikName": "Анапская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 256,
     "uikTvd": "4234026260084",
+    "uikName": "УИК №256",
     "tikTvd": "22320002182662",
-    "tikName": "Анапская"
+    "tikName": "Анапская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 257,
     "uikTvd": "4234026260085",
+    "uikName": "УИК №257",
     "tikTvd": "22320002182662",
-    "tikName": "Анапская"
+    "tikName": "Анапская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 258,
     "uikTvd": "4234026260086",
+    "uikName": "УИК №258",
     "tikTvd": "22320002182662",
-    "tikName": "Анапская"
+    "tikName": "Анапская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 259,
     "uikTvd": "4234026260087",
+    "uikName": "УИК №259",
     "tikTvd": "22320002182662",
-    "tikName": "Анапская"
+    "tikName": "Анапская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 260,
     "uikTvd": "4234026260088",
+    "uikName": "УИК №260",
     "tikTvd": "22320002182662",
-    "tikName": "Анапская"
+    "tikName": "Анапская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 261,
     "uikTvd": "4234026260089",
+    "uikName": "УИК №261",
     "tikTvd": "22320002182662",
-    "tikName": "Анапская"
+    "tikName": "Анапская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 262,
     "uikTvd": "4234026260090",
+    "uikName": "УИК №262",
     "tikTvd": "22320002182662",
-    "tikName": "Анапская"
+    "tikName": "Анапская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 263,
     "uikTvd": "4234026260091",
+    "uikName": "УИК №263",
     "tikTvd": "22320002182662",
-    "tikName": "Анапская"
+    "tikName": "Анапская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 264,
     "uikTvd": "4234026260092",
+    "uikName": "УИК №264",
     "tikTvd": "22320002182662",
-    "tikName": "Анапская"
+    "tikName": "Анапская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 265,
     "uikTvd": "4234026260093",
+    "uikName": "УИК №265",
     "tikTvd": "22320002182662",
-    "tikName": "Анапская"
+    "tikName": "Анапская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 266,
     "uikTvd": "4234026260094",
+    "uikName": "УИК №266",
     "tikTvd": "22320002182662",
-    "tikName": "Анапская"
+    "tikName": "Анапская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 267,
     "uikTvd": "4234026260095",
+    "uikName": "УИК №267",
     "tikTvd": "22320002182662",
-    "tikName": "Анапская"
+    "tikName": "Анапская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 268,
     "uikTvd": "4234026260096",
+    "uikName": "УИК №268",
     "tikTvd": "22320002182662",
-    "tikName": "Анапская"
+    "tikName": "Анапская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 269,
     "uikTvd": "4234026260097",
+    "uikName": "УИК №269",
     "tikTvd": "22320002182662",
-    "tikName": "Анапская"
+    "tikName": "Анапская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 270,
     "uikTvd": "4234026260098",
+    "uikName": "УИК №270",
     "tikTvd": "22320002182662",
-    "tikName": "Анапская"
+    "tikName": "Анапская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 271,
     "uikTvd": "4234026260099",
+    "uikName": "УИК №271",
     "tikTvd": "22320002182662",
-    "tikName": "Анапская"
+    "tikName": "Анапская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 272,
     "uikTvd": "4234026260100",
+    "uikName": "УИК №272",
     "tikTvd": "22320002182662",
-    "tikName": "Анапская"
+    "tikName": "Анапская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 273,
     "uikTvd": "4234026260101",
+    "uikName": "УИК №273",
     "tikTvd": "22320002182662",
-    "tikName": "Анапская"
+    "tikName": "Анапская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 274,
     "uikTvd": "4234026260102",
+    "uikName": "УИК №274",
     "tikTvd": "22320002182662",
-    "tikName": "Анапская"
+    "tikName": "Анапская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 275,
     "uikTvd": "4234026260103",
+    "uikName": "УИК №275",
     "tikTvd": "22320002182662",
-    "tikName": "Анапская"
+    "tikName": "Анапская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 301,
     "uikTvd": "4234002236530",
+    "uikName": "УИК №301",
     "tikTvd": "22320002182651",
-    "tikName": "Апшеронская"
+    "tikName": "Апшеронская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 302,
     "uikTvd": "4234002236531",
+    "uikName": "УИК №302",
     "tikTvd": "22320002182651",
-    "tikName": "Апшеронская"
+    "tikName": "Апшеронская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 303,
     "uikTvd": "4234002236532",
+    "uikName": "УИК №303",
     "tikTvd": "22320002182651",
-    "tikName": "Апшеронская"
+    "tikName": "Апшеронская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 304,
     "uikTvd": "4234002236533",
+    "uikName": "УИК №304",
     "tikTvd": "22320002182651",
-    "tikName": "Апшеронская"
+    "tikName": "Апшеронская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 305,
     "uikTvd": "4234002236534",
+    "uikName": "УИК №305",
     "tikTvd": "22320002182651",
-    "tikName": "Апшеронская"
+    "tikName": "Апшеронская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 306,
     "uikTvd": "4234002236535",
+    "uikName": "УИК №306",
     "tikTvd": "22320002182651",
-    "tikName": "Апшеронская"
+    "tikName": "Апшеронская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 307,
     "uikTvd": "4234002236536",
+    "uikName": "УИК №307",
     "tikTvd": "22320002182651",
-    "tikName": "Апшеронская"
+    "tikName": "Апшеронская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 308,
     "uikTvd": "4234002236537",
+    "uikName": "УИК №308",
     "tikTvd": "22320002182651",
-    "tikName": "Апшеронская"
+    "tikName": "Апшеронская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 309,
     "uikTvd": "4234002236538",
+    "uikName": "УИК №309",
     "tikTvd": "22320002182651",
-    "tikName": "Апшеронская"
+    "tikName": "Апшеронская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 310,
     "uikTvd": "4234002236539",
+    "uikName": "УИК №310",
     "tikTvd": "22320002182651",
-    "tikName": "Апшеронская"
+    "tikName": "Апшеронская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 311,
     "uikTvd": "4234002236540",
+    "uikName": "УИК №311",
     "tikTvd": "22320002182651",
-    "tikName": "Апшеронская"
+    "tikName": "Апшеронская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 312,
     "uikTvd": "4234002236541",
+    "uikName": "УИК №312",
     "tikTvd": "22320002182651",
-    "tikName": "Апшеронская"
+    "tikName": "Апшеронская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 313,
     "uikTvd": "4234002236542",
+    "uikName": "УИК №313",
     "tikTvd": "22320002182651",
-    "tikName": "Апшеронская"
+    "tikName": "Апшеронская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 314,
     "uikTvd": "4234002236543",
+    "uikName": "УИК №314",
     "tikTvd": "22320002182651",
-    "tikName": "Апшеронская"
+    "tikName": "Апшеронская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 315,
     "uikTvd": "4234002236544",
+    "uikName": "УИК №315",
     "tikTvd": "22320002182651",
-    "tikName": "Апшеронская"
+    "tikName": "Апшеронская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 316,
     "uikTvd": "4234002236545",
+    "uikName": "УИК №316",
     "tikTvd": "22320002182651",
-    "tikName": "Апшеронская"
+    "tikName": "Апшеронская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 317,
     "uikTvd": "4234002236546",
+    "uikName": "УИК №317",
     "tikTvd": "22320002182651",
-    "tikName": "Апшеронская"
+    "tikName": "Апшеронская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 318,
     "uikTvd": "4234002236547",
+    "uikName": "УИК №318",
     "tikTvd": "22320002182651",
-    "tikName": "Апшеронская"
+    "tikName": "Апшеронская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 319,
     "uikTvd": "4234002236548",
+    "uikName": "УИК №319",
     "tikTvd": "22320002182651",
-    "tikName": "Апшеронская"
+    "tikName": "Апшеронская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 320,
     "uikTvd": "4234002236549",
+    "uikName": "УИК №320",
     "tikTvd": "22320002182651",
-    "tikName": "Апшеронская"
+    "tikName": "Апшеронская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 321,
     "uikTvd": "4234002236550",
+    "uikName": "УИК №321",
     "tikTvd": "22320002182651",
-    "tikName": "Апшеронская"
+    "tikName": "Апшеронская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 322,
     "uikTvd": "4234002236551",
+    "uikName": "УИК №322",
     "tikTvd": "22320002182651",
-    "tikName": "Апшеронская"
+    "tikName": "Апшеронская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 323,
     "uikTvd": "4234002236552",
+    "uikName": "УИК №323",
     "tikTvd": "22320002182651",
-    "tikName": "Апшеронская"
+    "tikName": "Апшеронская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 324,
     "uikTvd": "4234002236553",
+    "uikName": "УИК №324",
     "tikTvd": "22320002182651",
-    "tikName": "Апшеронская"
+    "tikName": "Апшеронская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 325,
     "uikTvd": "4234002236554",
+    "uikName": "УИК №325",
     "tikTvd": "22320002182651",
-    "tikName": "Апшеронская"
+    "tikName": "Апшеронская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 326,
     "uikTvd": "4234002236555",
+    "uikName": "УИК №326",
     "tikTvd": "22320002182651",
-    "tikName": "Апшеронская"
+    "tikName": "Апшеронская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 327,
     "uikTvd": "4234002236556",
+    "uikName": "УИК №327",
     "tikTvd": "22320002182651",
-    "tikName": "Апшеронская"
+    "tikName": "Апшеронская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 328,
     "uikTvd": "4234002236557",
+    "uikName": "УИК №328",
     "tikTvd": "22320002182651",
-    "tikName": "Апшеронская"
+    "tikName": "Апшеронская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 329,
     "uikTvd": "4234002236558",
+    "uikName": "УИК №329",
     "tikTvd": "22320002182651",
-    "tikName": "Апшеронская"
+    "tikName": "Апшеронская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 330,
     "uikTvd": "4234002236559",
+    "uikName": "УИК №330",
     "tikTvd": "22320002182651",
-    "tikName": "Апшеронская"
+    "tikName": "Апшеронская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 331,
     "uikTvd": "4234002236560",
+    "uikName": "УИК №331",
     "tikTvd": "22320002182651",
-    "tikName": "Апшеронская"
+    "tikName": "Апшеронская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 332,
     "uikTvd": "4234002236561",
+    "uikName": "УИК №332",
     "tikTvd": "22320002182651",
-    "tikName": "Апшеронская"
+    "tikName": "Апшеронская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 333,
     "uikTvd": "4234002236562",
+    "uikName": "УИК №333",
     "tikTvd": "22320002182651",
-    "tikName": "Апшеронская"
+    "tikName": "Апшеронская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 334,
     "uikTvd": "4234002236563",
+    "uikName": "УИК №334",
     "tikTvd": "22320002182651",
-    "tikName": "Апшеронская"
+    "tikName": "Апшеронская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 335,
     "uikTvd": "4234002236564",
+    "uikName": "УИК №335",
     "tikTvd": "22320002182651",
-    "tikName": "Апшеронская"
+    "tikName": "Апшеронская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 336,
     "uikTvd": "4234002236565",
+    "uikName": "УИК №336",
     "tikTvd": "22320002182651",
-    "tikName": "Апшеронская"
+    "tikName": "Апшеронская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 337,
     "uikTvd": "4234002236566",
+    "uikName": "УИК №337",
     "tikTvd": "22320002182651",
-    "tikName": "Апшеронская"
+    "tikName": "Апшеронская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 338,
     "uikTvd": "4234002236567",
+    "uikName": "УИК №338",
     "tikTvd": "22320002182651",
-    "tikName": "Апшеронская"
+    "tikName": "Апшеронская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 339,
     "uikTvd": "4234002236568",
+    "uikName": "УИК №339",
     "tikTvd": "22320002182651",
-    "tikName": "Апшеронская"
+    "tikName": "Апшеронская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 340,
     "uikTvd": "4234002236569",
+    "uikName": "УИК №340",
     "tikTvd": "22320002182651",
-    "tikName": "Апшеронская"
+    "tikName": "Апшеронская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 341,
     "uikTvd": "4234002236570",
+    "uikName": "УИК №341",
     "tikTvd": "22320002182651",
-    "tikName": "Апшеронская"
+    "tikName": "Апшеронская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 342,
     "uikTvd": "4234002236571",
+    "uikName": "УИК №342",
     "tikTvd": "22320002182651",
-    "tikName": "Апшеронская"
+    "tikName": "Апшеронская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 343,
     "uikTvd": "4234002236572",
+    "uikName": "УИК №343",
     "tikTvd": "22320002182651",
-    "tikName": "Апшеронская"
+    "tikName": "Апшеронская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 345,
     "uikTvd": "4234002236573",
+    "uikName": "УИК №345",
     "tikTvd": "22320002182651",
-    "tikName": "Апшеронская"
+    "tikName": "Апшеронская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 346,
     "uikTvd": "4234002236574",
+    "uikName": "УИК №346",
     "tikTvd": "22320002182651",
-    "tikName": "Апшеронская"
+    "tikName": "Апшеронская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 347,
     "uikTvd": "4234002236575",
+    "uikName": "УИК №347",
     "tikTvd": "22320002182651",
-    "tikName": "Апшеронская"
+    "tikName": "Апшеронская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 348,
     "uikTvd": "4234002236576",
+    "uikName": "УИК №348",
     "tikTvd": "22320002182651",
-    "tikName": "Апшеронская"
+    "tikName": "Апшеронская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 349,
     "uikTvd": "4234002236577",
+    "uikName": "УИК №349",
     "tikTvd": "22320002182651",
-    "tikName": "Апшеронская"
+    "tikName": "Апшеронская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 350,
     "uikTvd": "4234002236578",
+    "uikName": "УИК №350",
     "tikTvd": "22320002182651",
-    "tikName": "Апшеронская"
+    "tikName": "Апшеронская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 351,
     "uikTvd": "4234002236579",
+    "uikName": "УИК №351",
     "tikTvd": "22320002182651",
-    "tikName": "Апшеронская"
+    "tikName": "Апшеронская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 352,
     "uikTvd": "4234002236580",
+    "uikName": "УИК №352",
     "tikTvd": "22320002182651",
-    "tikName": "Апшеронская"
+    "tikName": "Апшеронская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 353,
     "uikTvd": "4234002236581",
+    "uikName": "УИК №353",
     "tikTvd": "22320002182651",
-    "tikName": "Апшеронская"
+    "tikName": "Апшеронская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 354,
     "uikTvd": "4234002236582",
+    "uikName": "УИК №354",
     "tikTvd": "22320002182651",
-    "tikName": "Апшеронская"
+    "tikName": "Апшеронская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 355,
     "uikTvd": "4234002236583",
+    "uikName": "УИК №355",
     "tikTvd": "22320002182651",
-    "tikName": "Апшеронская"
+    "tikName": "Апшеронская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 356,
     "uikTvd": "4234002236584",
+    "uikName": "УИК №356",
     "tikTvd": "22320002182651",
-    "tikName": "Апшеронская"
+    "tikName": "Апшеронская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 357,
     "uikTvd": "4234002236585",
+    "uikName": "УИК №357",
     "tikTvd": "22320002182651",
-    "tikName": "Апшеронская"
+    "tikName": "Апшеронская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 401,
     "uikTvd": "4234003247899",
+    "uikName": "УИК №401",
     "tikTvd": "22320002182658",
-    "tikName": "Армавирская"
+    "tikName": "Армавирская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 402,
     "uikTvd": "4234003247900",
+    "uikName": "УИК №402",
     "tikTvd": "22320002182658",
-    "tikName": "Армавирская"
+    "tikName": "Армавирская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 403,
     "uikTvd": "4234003247901",
+    "uikName": "УИК №403",
     "tikTvd": "22320002182658",
-    "tikName": "Армавирская"
+    "tikName": "Армавирская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 404,
     "uikTvd": "4234003247902",
+    "uikName": "УИК №404",
     "tikTvd": "22320002182658",
-    "tikName": "Армавирская"
+    "tikName": "Армавирская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 405,
     "uikTvd": "4234003247903",
+    "uikName": "УИК №405",
     "tikTvd": "22320002182658",
-    "tikName": "Армавирская"
+    "tikName": "Армавирская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 406,
     "uikTvd": "4234003247904",
+    "uikName": "УИК №406",
     "tikTvd": "22320002182658",
-    "tikName": "Армавирская"
+    "tikName": "Армавирская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 407,
     "uikTvd": "4234003247905",
+    "uikName": "УИК №407",
     "tikTvd": "22320002182658",
-    "tikName": "Армавирская"
+    "tikName": "Армавирская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 408,
     "uikTvd": "4234003247906",
+    "uikName": "УИК №408",
     "tikTvd": "22320002182658",
-    "tikName": "Армавирская"
+    "tikName": "Армавирская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 409,
     "uikTvd": "4234003247907",
+    "uikName": "УИК №409",
     "tikTvd": "22320002182658",
-    "tikName": "Армавирская"
+    "tikName": "Армавирская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 410,
     "uikTvd": "4234003247908",
+    "uikName": "УИК №410",
     "tikTvd": "22320002182658",
-    "tikName": "Армавирская"
+    "tikName": "Армавирская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 411,
     "uikTvd": "4234003247909",
+    "uikName": "УИК №411",
     "tikTvd": "22320002182658",
-    "tikName": "Армавирская"
+    "tikName": "Армавирская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 412,
     "uikTvd": "4234003247910",
+    "uikName": "УИК №412",
     "tikTvd": "22320002182658",
-    "tikName": "Армавирская"
+    "tikName": "Армавирская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 413,
     "uikTvd": "4234003247911",
+    "uikName": "УИК №413",
     "tikTvd": "22320002182658",
-    "tikName": "Армавирская"
+    "tikName": "Армавирская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 414,
     "uikTvd": "4234003247912",
+    "uikName": "УИК №414",
     "tikTvd": "22320002182658",
-    "tikName": "Армавирская"
+    "tikName": "Армавирская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 415,
     "uikTvd": "4234003247913",
+    "uikName": "УИК №415",
     "tikTvd": "22320002182658",
-    "tikName": "Армавирская"
+    "tikName": "Армавирская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 416,
     "uikTvd": "4234003247914",
+    "uikName": "УИК №416",
     "tikTvd": "22320002182658",
-    "tikName": "Армавирская"
+    "tikName": "Армавирская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 417,
     "uikTvd": "4234003247915",
+    "uikName": "УИК №417",
     "tikTvd": "22320002182658",
-    "tikName": "Армавирская"
+    "tikName": "Армавирская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 418,
     "uikTvd": "4234003247916",
+    "uikName": "УИК №418",
     "tikTvd": "22320002182658",
-    "tikName": "Армавирская"
+    "tikName": "Армавирская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 419,
     "uikTvd": "4234003247917",
+    "uikName": "УИК №419",
     "tikTvd": "22320002182658",
-    "tikName": "Армавирская"
+    "tikName": "Армавирская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 420,
     "uikTvd": "4234003247918",
+    "uikName": "УИК №420",
     "tikTvd": "22320002182658",
-    "tikName": "Армавирская"
+    "tikName": "Армавирская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 421,
     "uikTvd": "4234003247919",
+    "uikName": "УИК №421",
     "tikTvd": "22320002182658",
-    "tikName": "Армавирская"
+    "tikName": "Армавирская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 422,
     "uikTvd": "4234003247920",
+    "uikName": "УИК №422",
     "tikTvd": "22320002182658",
-    "tikName": "Армавирская"
+    "tikName": "Армавирская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 423,
     "uikTvd": "4234003247921",
+    "uikName": "УИК №423",
     "tikTvd": "22320002182658",
-    "tikName": "Армавирская"
+    "tikName": "Армавирская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 424,
     "uikTvd": "4234003247922",
+    "uikName": "УИК №424",
     "tikTvd": "22320002182658",
-    "tikName": "Армавирская"
+    "tikName": "Армавирская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 425,
     "uikTvd": "4234003247923",
+    "uikName": "УИК №425",
     "tikTvd": "22320002182658",
-    "tikName": "Армавирская"
+    "tikName": "Армавирская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 426,
     "uikTvd": "4234003247924",
+    "uikName": "УИК №426",
     "tikTvd": "22320002182658",
-    "tikName": "Армавирская"
+    "tikName": "Армавирская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 427,
     "uikTvd": "4234003247925",
+    "uikName": "УИК №427",
     "tikTvd": "22320002182658",
-    "tikName": "Армавирская"
+    "tikName": "Армавирская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 428,
     "uikTvd": "4234003247926",
+    "uikName": "УИК №428",
     "tikTvd": "22320002182658",
-    "tikName": "Армавирская"
+    "tikName": "Армавирская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 429,
     "uikTvd": "4234003247927",
+    "uikName": "УИК №429",
     "tikTvd": "22320002182658",
-    "tikName": "Армавирская"
+    "tikName": "Армавирская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 430,
     "uikTvd": "4234003247928",
+    "uikName": "УИК №430",
     "tikTvd": "22320002182658",
-    "tikName": "Армавирская"
+    "tikName": "Армавирская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 431,
     "uikTvd": "4234003247929",
+    "uikName": "УИК №431",
     "tikTvd": "22320002182658",
-    "tikName": "Армавирская"
+    "tikName": "Армавирская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 432,
     "uikTvd": "4234003247930",
+    "uikName": "УИК №432",
     "tikTvd": "22320002182658",
-    "tikName": "Армавирская"
+    "tikName": "Армавирская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 433,
     "uikTvd": "4234003247931",
+    "uikName": "УИК №433",
     "tikTvd": "22320002182658",
-    "tikName": "Армавирская"
+    "tikName": "Армавирская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 434,
     "uikTvd": "4234003247932",
+    "uikName": "УИК №434",
     "tikTvd": "22320002182658",
-    "tikName": "Армавирская"
+    "tikName": "Армавирская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 435,
     "uikTvd": "4234003247933",
+    "uikName": "УИК №435",
     "tikTvd": "22320002182658",
-    "tikName": "Армавирская"
+    "tikName": "Армавирская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 436,
     "uikTvd": "4234003247934",
+    "uikName": "УИК №436",
     "tikTvd": "22320002182658",
-    "tikName": "Армавирская"
+    "tikName": "Армавирская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 437,
     "uikTvd": "4234003247935",
+    "uikName": "УИК №437",
     "tikTvd": "22320002182658",
-    "tikName": "Армавирская"
+    "tikName": "Армавирская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 438,
     "uikTvd": "4234003247936",
+    "uikName": "УИК №438",
     "tikTvd": "22320002182658",
-    "tikName": "Армавирская"
+    "tikName": "Армавирская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 439,
     "uikTvd": "4234003247937",
+    "uikName": "УИК №439",
     "tikTvd": "22320002182658",
-    "tikName": "Армавирская"
+    "tikName": "Армавирская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 440,
     "uikTvd": "4234003247938",
+    "uikName": "УИК №440",
     "tikTvd": "22320002182658",
-    "tikName": "Армавирская"
+    "tikName": "Армавирская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 441,
     "uikTvd": "4234003247939",
+    "uikName": "УИК №441",
     "tikTvd": "22320002182658",
-    "tikName": "Армавирская"
+    "tikName": "Армавирская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 442,
     "uikTvd": "4234003247940",
+    "uikName": "УИК №442",
     "tikTvd": "22320002182658",
-    "tikName": "Армавирская"
+    "tikName": "Армавирская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 443,
     "uikTvd": "4234003247941",
+    "uikName": "УИК №443",
     "tikTvd": "22320002182658",
-    "tikName": "Армавирская"
+    "tikName": "Армавирская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 444,
     "uikTvd": "4234003247942",
+    "uikName": "УИК №444",
     "tikTvd": "22320002182658",
-    "tikName": "Армавирская"
+    "tikName": "Армавирская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 445,
     "uikTvd": "4234003247943",
+    "uikName": "УИК №445",
     "tikTvd": "22320002182658",
-    "tikName": "Армавирская"
+    "tikName": "Армавирская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 446,
     "uikTvd": "4234003247944",
+    "uikName": "УИК №446",
     "tikTvd": "22320002182658",
-    "tikName": "Армавирская"
+    "tikName": "Армавирская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 447,
     "uikTvd": "4234003247945",
+    "uikName": "УИК №447",
     "tikTvd": "22320002182658",
-    "tikName": "Армавирская"
+    "tikName": "Армавирская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 448,
     "uikTvd": "4234003247946",
+    "uikName": "УИК №448",
     "tikTvd": "22320002182658",
-    "tikName": "Армавирская"
+    "tikName": "Армавирская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 449,
     "uikTvd": "4234003247947",
+    "uikName": "УИК №449",
     "tikTvd": "22320002182658",
-    "tikName": "Армавирская"
+    "tikName": "Армавирская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 450,
     "uikTvd": "4234003247948",
+    "uikName": "УИК №450",
     "tikTvd": "22320002182658",
-    "tikName": "Армавирская"
+    "tikName": "Армавирская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 451,
     "uikTvd": "4234003247949",
+    "uikName": "УИК №451",
     "tikTvd": "22320002182658",
-    "tikName": "Армавирская"
+    "tikName": "Армавирская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 452,
     "uikTvd": "4234003247950",
+    "uikName": "УИК №452",
     "tikTvd": "22320002182658",
-    "tikName": "Армавирская"
+    "tikName": "Армавирская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 453,
     "uikTvd": "4234003247951",
+    "uikName": "УИК №453",
     "tikTvd": "22320002182658",
-    "tikName": "Армавирская"
+    "tikName": "Армавирская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 454,
     "uikTvd": "4234003247952",
+    "uikName": "УИК №454",
     "tikTvd": "22320002182658",
-    "tikName": "Армавирская"
+    "tikName": "Армавирская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 455,
     "uikTvd": "4234003247953",
+    "uikName": "УИК №455",
     "tikTvd": "22320002182658",
-    "tikName": "Армавирская"
+    "tikName": "Армавирская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 456,
     "uikTvd": "4234003247954",
+    "uikName": "УИК №456",
     "tikTvd": "22320002182658",
-    "tikName": "Армавирская"
+    "tikName": "Армавирская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 457,
     "uikTvd": "4234003247955",
+    "uikName": "УИК №457",
     "tikTvd": "22320002182658",
-    "tikName": "Армавирская"
+    "tikName": "Армавирская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 458,
     "uikTvd": "4234003247956",
+    "uikName": "УИК №458",
     "tikTvd": "22320002182658",
-    "tikName": "Армавирская"
+    "tikName": "Армавирская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 459,
     "uikTvd": "4234003247957",
+    "uikName": "УИК №459",
     "tikTvd": "22320002182658",
-    "tikName": "Армавирская"
+    "tikName": "Армавирская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 460,
     "uikTvd": "4234003247958",
+    "uikName": "УИК №460",
     "tikTvd": "22320002182658",
-    "tikName": "Армавирская"
+    "tikName": "Армавирская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 461,
     "uikTvd": "4234003247959",
+    "uikName": "УИК №461",
     "tikTvd": "22320002182658",
-    "tikName": "Армавирская"
+    "tikName": "Армавирская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 462,
     "uikTvd": "4234003247960",
+    "uikName": "УИК №462",
     "tikTvd": "22320002182658",
-    "tikName": "Армавирская"
+    "tikName": "Армавирская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 463,
     "uikTvd": "4234003247961",
+    "uikName": "УИК №463",
     "tikTvd": "22320002182658",
-    "tikName": "Армавирская"
+    "tikName": "Армавирская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 464,
     "uikTvd": "4234003247962",
+    "uikName": "УИК №464",
     "tikTvd": "22320002182658",
-    "tikName": "Армавирская"
+    "tikName": "Армавирская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 465,
     "uikTvd": "4234003247963",
+    "uikName": "УИК №465",
     "tikTvd": "22320002182658",
-    "tikName": "Армавирская"
+    "tikName": "Армавирская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 466,
     "uikTvd": "4234003247964",
+    "uikName": "УИК №466",
     "tikTvd": "22320002182658",
-    "tikName": "Армавирская"
+    "tikName": "Армавирская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 467,
     "uikTvd": "4234003247965",
+    "uikName": "УИК №467",
     "tikTvd": "22320002182658",
-    "tikName": "Армавирская"
+    "tikName": "Армавирская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 468,
     "uikTvd": "4234003247966",
+    "uikName": "УИК №468",
     "tikTvd": "22320002182658",
-    "tikName": "Армавирская"
+    "tikName": "Армавирская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 469,
     "uikTvd": "4234003247967",
+    "uikName": "УИК №469",
     "tikTvd": "22320002182658",
-    "tikName": "Армавирская"
+    "tikName": "Армавирская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 470,
     "uikTvd": "4234003247968",
+    "uikName": "УИК №470",
     "tikTvd": "22320002182658",
-    "tikName": "Армавирская"
+    "tikName": "Армавирская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 471,
     "uikTvd": "4234003247969",
+    "uikName": "УИК №471",
     "tikTvd": "22320002182658",
-    "tikName": "Армавирская"
+    "tikName": "Армавирская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 472,
     "uikTvd": "4234003247971",
+    "uikName": "УИК №472",
     "tikTvd": "22320002182658",
-    "tikName": "Армавирская"
+    "tikName": "Армавирская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 498,
     "uikTvd": "4234003248352",
+    "uikName": "УИК №498",
     "tikTvd": "22320002182658",
-    "tikName": "Армавирская"
+    "tikName": "Армавирская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 499,
     "uikTvd": "4234003248354",
+    "uikName": "УИК №499",
     "tikTvd": "22320002182658",
-    "tikName": "Армавирская"
+    "tikName": "Армавирская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 501,
     "uikTvd": "4234004184768",
+    "uikName": "УИК №501",
     "tikTvd": "22320002182634",
-    "tikName": "Белоглинская"
+    "tikName": "Белоглинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 502,
     "uikTvd": "4234004184769",
+    "uikName": "УИК №502",
     "tikTvd": "22320002182634",
-    "tikName": "Белоглинская"
+    "tikName": "Белоглинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 503,
     "uikTvd": "4234004184770",
+    "uikName": "УИК №503",
     "tikTvd": "22320002182634",
-    "tikName": "Белоглинская"
+    "tikName": "Белоглинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 504,
     "uikTvd": "4234004184771",
+    "uikName": "УИК №504",
     "tikTvd": "22320002182634",
-    "tikName": "Белоглинская"
+    "tikName": "Белоглинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 505,
     "uikTvd": "4234004184772",
+    "uikName": "УИК №505",
     "tikTvd": "22320002182634",
-    "tikName": "Белоглинская"
+    "tikName": "Белоглинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 506,
     "uikTvd": "4234004184773",
+    "uikName": "УИК №506",
     "tikTvd": "22320002182634",
-    "tikName": "Белоглинская"
+    "tikName": "Белоглинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 507,
     "uikTvd": "4234004184774",
+    "uikName": "УИК №507",
     "tikTvd": "22320002182634",
-    "tikName": "Белоглинская"
+    "tikName": "Белоглинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 508,
     "uikTvd": "4234004184775",
+    "uikName": "УИК №508",
     "tikTvd": "22320002182634",
-    "tikName": "Белоглинская"
+    "tikName": "Белоглинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 509,
     "uikTvd": "4234004184776",
+    "uikName": "УИК №509",
     "tikTvd": "22320002182634",
-    "tikName": "Белоглинская"
+    "tikName": "Белоглинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 510,
     "uikTvd": "4234004184777",
+    "uikName": "УИК №510",
     "tikTvd": "22320002182634",
-    "tikName": "Белоглинская"
+    "tikName": "Белоглинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 511,
     "uikTvd": "4234004184778",
+    "uikName": "УИК №511",
     "tikTvd": "22320002182634",
-    "tikName": "Белоглинская"
+    "tikName": "Белоглинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 512,
     "uikTvd": "4234004184779",
+    "uikName": "УИК №512",
     "tikTvd": "22320002182634",
-    "tikName": "Белоглинская"
+    "tikName": "Белоглинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 513,
     "uikTvd": "4234004184780",
+    "uikName": "УИК №513",
     "tikTvd": "22320002182634",
-    "tikName": "Белоглинская"
+    "tikName": "Белоглинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 514,
     "uikTvd": "4234004184781",
+    "uikName": "УИК №514",
     "tikTvd": "22320002182634",
-    "tikName": "Белоглинская"
+    "tikName": "Белоглинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 515,
     "uikTvd": "4234004184782",
+    "uikName": "УИК №515",
     "tikTvd": "22320002182634",
-    "tikName": "Белоглинская"
+    "tikName": "Белоглинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 516,
     "uikTvd": "4234004184783",
+    "uikName": "УИК №516",
     "tikTvd": "22320002182634",
-    "tikName": "Белоглинская"
+    "tikName": "Белоглинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 517,
     "uikTvd": "4234004184784",
+    "uikName": "УИК №517",
     "tikTvd": "22320002182634",
-    "tikName": "Белоглинская"
+    "tikName": "Белоглинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 518,
     "uikTvd": "4234004184785",
+    "uikName": "УИК №518",
     "tikTvd": "22320002182634",
-    "tikName": "Белоглинская"
+    "tikName": "Белоглинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 519,
     "uikTvd": "4234004184786",
+    "uikName": "УИК №519",
     "tikTvd": "22320002182634",
-    "tikName": "Белоглинская"
+    "tikName": "Белоглинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 520,
     "uikTvd": "4234004184787",
+    "uikName": "УИК №520",
     "tikTvd": "22320002182634",
-    "tikName": "Белоглинская"
+    "tikName": "Белоглинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 521,
     "uikTvd": "4234004184788",
+    "uikName": "УИК №521",
     "tikTvd": "22320002182634",
-    "tikName": "Белоглинская"
+    "tikName": "Белоглинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 601,
     "uikTvd": "4234005269432",
+    "uikName": "УИК №601",
     "tikTvd": "22320002182645",
-    "tikName": "Белореченская"
+    "tikName": "Белореченская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 602,
     "uikTvd": "4234005269433",
+    "uikName": "УИК №602",
     "tikTvd": "22320002182645",
-    "tikName": "Белореченская"
+    "tikName": "Белореченская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 603,
     "uikTvd": "4234005269434",
+    "uikName": "УИК №603",
     "tikTvd": "22320002182645",
-    "tikName": "Белореченская"
+    "tikName": "Белореченская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 604,
     "uikTvd": "4234005269435",
+    "uikName": "УИК №604",
     "tikTvd": "22320002182645",
-    "tikName": "Белореченская"
+    "tikName": "Белореченская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 605,
     "uikTvd": "4234005269436",
+    "uikName": "УИК №605",
     "tikTvd": "22320002182645",
-    "tikName": "Белореченская"
+    "tikName": "Белореченская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 606,
     "uikTvd": "4234005269437",
+    "uikName": "УИК №606",
     "tikTvd": "22320002182645",
-    "tikName": "Белореченская"
+    "tikName": "Белореченская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 607,
     "uikTvd": "4234005269438",
+    "uikName": "УИК №607",
     "tikTvd": "22320002182645",
-    "tikName": "Белореченская"
+    "tikName": "Белореченская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 608,
     "uikTvd": "4234005269439",
+    "uikName": "УИК №608",
     "tikTvd": "22320002182645",
-    "tikName": "Белореченская"
+    "tikName": "Белореченская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 609,
     "uikTvd": "4234005269440",
+    "uikName": "УИК №609",
     "tikTvd": "22320002182645",
-    "tikName": "Белореченская"
+    "tikName": "Белореченская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 610,
     "uikTvd": "4234005269441",
+    "uikName": "УИК №610",
     "tikTvd": "22320002182645",
-    "tikName": "Белореченская"
+    "tikName": "Белореченская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 611,
     "uikTvd": "4234005269442",
+    "uikName": "УИК №611",
     "tikTvd": "22320002182645",
-    "tikName": "Белореченская"
+    "tikName": "Белореченская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 612,
     "uikTvd": "4234005269443",
+    "uikName": "УИК №612",
     "tikTvd": "22320002182645",
-    "tikName": "Белореченская"
+    "tikName": "Белореченская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 613,
     "uikTvd": "4234005269444",
+    "uikName": "УИК №613",
     "tikTvd": "22320002182645",
-    "tikName": "Белореченская"
+    "tikName": "Белореченская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 614,
     "uikTvd": "4234005269445",
+    "uikName": "УИК №614",
     "tikTvd": "22320002182645",
-    "tikName": "Белореченская"
+    "tikName": "Белореченская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 615,
     "uikTvd": "4234005269446",
+    "uikName": "УИК №615",
     "tikTvd": "22320002182645",
-    "tikName": "Белореченская"
+    "tikName": "Белореченская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 616,
     "uikTvd": "4234005269447",
+    "uikName": "УИК №616",
     "tikTvd": "22320002182645",
-    "tikName": "Белореченская"
+    "tikName": "Белореченская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 617,
     "uikTvd": "4234005269448",
+    "uikName": "УИК №617",
     "tikTvd": "22320002182645",
-    "tikName": "Белореченская"
+    "tikName": "Белореченская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 618,
     "uikTvd": "4234005269449",
+    "uikName": "УИК №618",
     "tikTvd": "22320002182645",
-    "tikName": "Белореченская"
+    "tikName": "Белореченская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 619,
     "uikTvd": "4234005269450",
+    "uikName": "УИК №619",
     "tikTvd": "22320002182645",
-    "tikName": "Белореченская"
+    "tikName": "Белореченская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 620,
     "uikTvd": "4234005269451",
+    "uikName": "УИК №620",
     "tikTvd": "22320002182645",
-    "tikName": "Белореченская"
+    "tikName": "Белореченская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 621,
     "uikTvd": "4234005269452",
+    "uikName": "УИК №621",
     "tikTvd": "22320002182645",
-    "tikName": "Белореченская"
+    "tikName": "Белореченская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 622,
     "uikTvd": "4234005269453",
+    "uikName": "УИК №622",
     "tikTvd": "22320002182645",
-    "tikName": "Белореченская"
+    "tikName": "Белореченская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 623,
     "uikTvd": "4234005269454",
+    "uikName": "УИК №623",
     "tikTvd": "22320002182645",
-    "tikName": "Белореченская"
+    "tikName": "Белореченская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 624,
     "uikTvd": "4234005269455",
+    "uikName": "УИК №624",
     "tikTvd": "22320002182645",
-    "tikName": "Белореченская"
+    "tikName": "Белореченская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 625,
     "uikTvd": "4234005269456",
+    "uikName": "УИК №625",
     "tikTvd": "22320002182645",
-    "tikName": "Белореченская"
+    "tikName": "Белореченская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 626,
     "uikTvd": "4234005269457",
+    "uikName": "УИК №626",
     "tikTvd": "22320002182645",
-    "tikName": "Белореченская"
+    "tikName": "Белореченская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 627,
     "uikTvd": "4234005269458",
+    "uikName": "УИК №627",
     "tikTvd": "22320002182645",
-    "tikName": "Белореченская"
+    "tikName": "Белореченская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 628,
     "uikTvd": "4234005269459",
+    "uikName": "УИК №628",
     "tikTvd": "22320002182645",
-    "tikName": "Белореченская"
+    "tikName": "Белореченская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 629,
     "uikTvd": "4234005269460",
+    "uikName": "УИК №629",
     "tikTvd": "22320002182645",
-    "tikName": "Белореченская"
+    "tikName": "Белореченская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 630,
     "uikTvd": "4234005269461",
+    "uikName": "УИК №630",
     "tikTvd": "22320002182645",
-    "tikName": "Белореченская"
+    "tikName": "Белореченская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 631,
     "uikTvd": "4234005269462",
+    "uikName": "УИК №631",
     "tikTvd": "22320002182645",
-    "tikName": "Белореченская"
+    "tikName": "Белореченская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 632,
     "uikTvd": "4234005269463",
+    "uikName": "УИК №632",
     "tikTvd": "22320002182645",
-    "tikName": "Белореченская"
+    "tikName": "Белореченская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 633,
     "uikTvd": "4234005269464",
+    "uikName": "УИК №633",
     "tikTvd": "22320002182645",
-    "tikName": "Белореченская"
+    "tikName": "Белореченская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 634,
     "uikTvd": "4234005269465",
+    "uikName": "УИК №634",
     "tikTvd": "22320002182645",
-    "tikName": "Белореченская"
+    "tikName": "Белореченская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 635,
     "uikTvd": "4234005269466",
+    "uikName": "УИК №635",
     "tikTvd": "22320002182645",
-    "tikName": "Белореченская"
+    "tikName": "Белореченская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 636,
     "uikTvd": "4234005269467",
+    "uikName": "УИК №636",
     "tikTvd": "22320002182645",
-    "tikName": "Белореченская"
+    "tikName": "Белореченская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 637,
     "uikTvd": "4234005269468",
+    "uikName": "УИК №637",
     "tikTvd": "22320002182645",
-    "tikName": "Белореченская"
+    "tikName": "Белореченская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 638,
     "uikTvd": "4234005269469",
+    "uikName": "УИК №638",
     "tikTvd": "22320002182645",
-    "tikName": "Белореченская"
+    "tikName": "Белореченская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 639,
     "uikTvd": "4234005269470",
+    "uikName": "УИК №639",
     "tikTvd": "22320002182645",
-    "tikName": "Белореченская"
+    "tikName": "Белореченская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 640,
     "uikTvd": "4234005269471",
+    "uikName": "УИК №640",
     "tikTvd": "22320002182645",
-    "tikName": "Белореченская"
+    "tikName": "Белореченская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 641,
     "uikTvd": "4234005269472",
+    "uikName": "УИК №641",
     "tikTvd": "22320002182645",
-    "tikName": "Белореченская"
+    "tikName": "Белореченская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 642,
     "uikTvd": "4234005269473",
+    "uikName": "УИК №642",
     "tikTvd": "22320002182645",
-    "tikName": "Белореченская"
+    "tikName": "Белореченская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 643,
     "uikTvd": "4234005269474",
+    "uikName": "УИК №643",
     "tikTvd": "22320002182645",
-    "tikName": "Белореченская"
+    "tikName": "Белореченская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 644,
     "uikTvd": "4234005269475",
+    "uikName": "УИК №644",
     "tikTvd": "22320002182645",
-    "tikName": "Белореченская"
+    "tikName": "Белореченская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 645,
     "uikTvd": "4234005269476",
+    "uikName": "УИК №645",
     "tikTvd": "22320002182645",
-    "tikName": "Белореченская"
+    "tikName": "Белореченская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 646,
     "uikTvd": "4234005269477",
+    "uikName": "УИК №646",
     "tikTvd": "22320002182645",
-    "tikName": "Белореченская"
+    "tikName": "Белореченская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 647,
     "uikTvd": "4234005269478",
+    "uikName": "УИК №647",
     "tikTvd": "22320002182645",
-    "tikName": "Белореченская"
+    "tikName": "Белореченская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 648,
     "uikTvd": "4234005269479",
+    "uikName": "УИК №648",
     "tikTvd": "22320002182645",
-    "tikName": "Белореченская"
+    "tikName": "Белореченская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 649,
     "uikTvd": "4234005269480",
+    "uikName": "УИК №649",
     "tikTvd": "22320002182645",
-    "tikName": "Белореченская"
+    "tikName": "Белореченская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 650,
     "uikTvd": "4234005269481",
+    "uikName": "УИК №650",
     "tikTvd": "22320002182645",
-    "tikName": "Белореченская"
+    "tikName": "Белореченская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 651,
     "uikTvd": "4234005269482",
+    "uikName": "УИК №651",
     "tikTvd": "22320002182645",
-    "tikName": "Белореченская"
+    "tikName": "Белореченская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 652,
     "uikTvd": "4234005269483",
+    "uikName": "УИК №652",
     "tikTvd": "22320002182645",
-    "tikName": "Белореченская"
+    "tikName": "Белореченская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 653,
     "uikTvd": "4234005269484",
+    "uikName": "УИК №653",
     "tikTvd": "22320002182645",
-    "tikName": "Белореченская"
+    "tikName": "Белореченская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 654,
     "uikTvd": "4234005269485",
+    "uikName": "УИК №654",
     "tikTvd": "22320002182645",
-    "tikName": "Белореченская"
+    "tikName": "Белореченская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 655,
     "uikTvd": "4234005269486",
+    "uikName": "УИК №655",
     "tikTvd": "22320002182645",
-    "tikName": "Белореченская"
+    "tikName": "Белореченская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 656,
     "uikTvd": "4234005269487",
+    "uikName": "УИК №656",
     "tikTvd": "22320002182645",
-    "tikName": "Белореченская"
+    "tikName": "Белореченская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 657,
     "uikTvd": "4234005269488",
+    "uikName": "УИК №657",
     "tikTvd": "22320002182645",
-    "tikName": "Белореченская"
+    "tikName": "Белореченская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 658,
     "uikTvd": "4234005269489",
+    "uikName": "УИК №658",
     "tikTvd": "22320002182645",
-    "tikName": "Белореченская"
+    "tikName": "Белореченская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 659,
     "uikTvd": "4234005269490",
+    "uikName": "УИК №659",
     "tikTvd": "22320002182645",
-    "tikName": "Белореченская"
+    "tikName": "Белореченская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 660,
     "uikTvd": "4234005269491",
+    "uikName": "УИК №660",
     "tikTvd": "22320002182645",
-    "tikName": "Белореченская"
+    "tikName": "Белореченская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 661,
     "uikTvd": "4234005269492",
+    "uikName": "УИК №661",
     "tikTvd": "22320002182645",
-    "tikName": "Белореченская"
+    "tikName": "Белореченская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 662,
     "uikTvd": "4234005269493",
+    "uikName": "УИК №662",
     "tikTvd": "22320002182645",
-    "tikName": "Белореченская"
+    "tikName": "Белореченская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 663,
     "uikTvd": "4234005269494",
+    "uikName": "УИК №663",
     "tikTvd": "22320002182645",
-    "tikName": "Белореченская"
+    "tikName": "Белореченская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 664,
     "uikTvd": "4234005269495",
+    "uikName": "УИК №664",
     "tikTvd": "22320002182645",
-    "tikName": "Белореченская"
+    "tikName": "Белореченская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 665,
     "uikTvd": "4234005269496",
+    "uikName": "УИК №665",
     "tikTvd": "22320002182645",
-    "tikName": "Белореченская"
+    "tikName": "Белореченская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 666,
     "uikTvd": "4234005269497",
+    "uikName": "УИК №666",
     "tikTvd": "22320002182645",
-    "tikName": "Белореченская"
+    "tikName": "Белореченская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 667,
     "uikTvd": "4234005269498",
+    "uikName": "УИК №667",
     "tikTvd": "22320002182645",
-    "tikName": "Белореченская"
+    "tikName": "Белореченская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 668,
     "uikTvd": "4234005269499",
+    "uikName": "УИК №668",
     "tikTvd": "22320002182645",
-    "tikName": "Белореченская"
+    "tikName": "Белореченская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 669,
     "uikTvd": "4234005269500",
+    "uikName": "УИК №669",
     "tikTvd": "22320002182645",
-    "tikName": "Белореченская"
+    "tikName": "Белореченская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 670,
     "uikTvd": "4234005269501",
+    "uikName": "УИК №670",
     "tikTvd": "22320002182645",
-    "tikName": "Белореченская"
+    "tikName": "Белореченская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 671,
     "uikTvd": "4234005269502",
+    "uikName": "УИК №671",
     "tikTvd": "22320002182645",
-    "tikName": "Белореченская"
+    "tikName": "Белореченская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 672,
     "uikTvd": "4234005269503",
+    "uikName": "УИК №672",
     "tikTvd": "22320002182645",
-    "tikName": "Белореченская"
+    "tikName": "Белореченская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 673,
     "uikTvd": "4234005269504",
+    "uikName": "УИК №673",
     "tikTvd": "22320002182645",
-    "tikName": "Белореченская"
+    "tikName": "Белореченская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 674,
     "uikTvd": "4234005269505",
+    "uikName": "УИК №674",
     "tikTvd": "22320002182645",
-    "tikName": "Белореченская"
+    "tikName": "Белореченская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 675,
     "uikTvd": "4234005269506",
+    "uikName": "УИК №675",
     "tikTvd": "22320002182645",
-    "tikName": "Белореченская"
+    "tikName": "Белореченская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 698,
     "uikTvd": "4234005269877",
+    "uikName": "УИК №698",
     "tikTvd": "22320002182645",
-    "tikName": "Белореченская"
+    "tikName": "Белореченская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 699,
     "uikTvd": "4234005269879",
+    "uikName": "УИК №699",
     "tikTvd": "22320002182645",
-    "tikName": "Белореченская"
+    "tikName": "Белореченская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 701,
     "uikTvd": "4234006191934",
+    "uikName": "УИК №701",
     "tikTvd": "22320002182673",
-    "tikName": "Брюховецкая"
+    "tikName": "Брюховецкая",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 702,
     "uikTvd": "4234006191935",
+    "uikName": "УИК №702",
     "tikTvd": "22320002182673",
-    "tikName": "Брюховецкая"
+    "tikName": "Брюховецкая",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 703,
     "uikTvd": "4234006191936",
+    "uikName": "УИК №703",
     "tikTvd": "22320002182673",
-    "tikName": "Брюховецкая"
+    "tikName": "Брюховецкая",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 704,
     "uikTvd": "4234006191937",
+    "uikName": "УИК №704",
     "tikTvd": "22320002182673",
-    "tikName": "Брюховецкая"
+    "tikName": "Брюховецкая",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 705,
     "uikTvd": "4234006191938",
+    "uikName": "УИК №705",
     "tikTvd": "22320002182673",
-    "tikName": "Брюховецкая"
+    "tikName": "Брюховецкая",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 706,
     "uikTvd": "4234006191939",
+    "uikName": "УИК №706",
     "tikTvd": "22320002182673",
-    "tikName": "Брюховецкая"
+    "tikName": "Брюховецкая",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 707,
     "uikTvd": "4234006191940",
+    "uikName": "УИК №707",
     "tikTvd": "22320002182673",
-    "tikName": "Брюховецкая"
+    "tikName": "Брюховецкая",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 708,
     "uikTvd": "4234006191941",
+    "uikName": "УИК №708",
     "tikTvd": "22320002182673",
-    "tikName": "Брюховецкая"
+    "tikName": "Брюховецкая",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 709,
     "uikTvd": "4234006191942",
+    "uikName": "УИК №709",
     "tikTvd": "22320002182673",
-    "tikName": "Брюховецкая"
+    "tikName": "Брюховецкая",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 710,
     "uikTvd": "4234006191943",
+    "uikName": "УИК №710",
     "tikTvd": "22320002182673",
-    "tikName": "Брюховецкая"
+    "tikName": "Брюховецкая",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 711,
     "uikTvd": "4234006191944",
+    "uikName": "УИК №711",
     "tikTvd": "22320002182673",
-    "tikName": "Брюховецкая"
+    "tikName": "Брюховецкая",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 712,
     "uikTvd": "4234006191945",
+    "uikName": "УИК №712",
     "tikTvd": "22320002182673",
-    "tikName": "Брюховецкая"
+    "tikName": "Брюховецкая",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 713,
     "uikTvd": "4234006191946",
+    "uikName": "УИК №713",
     "tikTvd": "22320002182673",
-    "tikName": "Брюховецкая"
+    "tikName": "Брюховецкая",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 714,
     "uikTvd": "4234006191947",
+    "uikName": "УИК №714",
     "tikTvd": "22320002182673",
-    "tikName": "Брюховецкая"
+    "tikName": "Брюховецкая",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 715,
     "uikTvd": "4234006191948",
+    "uikName": "УИК №715",
     "tikTvd": "22320002182673",
-    "tikName": "Брюховецкая"
+    "tikName": "Брюховецкая",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 716,
     "uikTvd": "4234006191949",
+    "uikName": "УИК №716",
     "tikTvd": "22320002182673",
-    "tikName": "Брюховецкая"
+    "tikName": "Брюховецкая",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 717,
     "uikTvd": "4234006191950",
+    "uikName": "УИК №717",
     "tikTvd": "22320002182673",
-    "tikName": "Брюховецкая"
+    "tikName": "Брюховецкая",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 718,
     "uikTvd": "4234006191951",
+    "uikName": "УИК №718",
     "tikTvd": "22320002182673",
-    "tikName": "Брюховецкая"
+    "tikName": "Брюховецкая",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 719,
     "uikTvd": "4234006191952",
+    "uikName": "УИК №719",
     "tikTvd": "22320002182673",
-    "tikName": "Брюховецкая"
+    "tikName": "Брюховецкая",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 720,
     "uikTvd": "4234006191953",
+    "uikName": "УИК №720",
     "tikTvd": "22320002182673",
-    "tikName": "Брюховецкая"
+    "tikName": "Брюховецкая",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 721,
     "uikTvd": "4234006191954",
+    "uikName": "УИК №721",
     "tikTvd": "22320002182673",
-    "tikName": "Брюховецкая"
+    "tikName": "Брюховецкая",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 722,
     "uikTvd": "4234006191955",
+    "uikName": "УИК №722",
     "tikTvd": "22320002182673",
-    "tikName": "Брюховецкая"
+    "tikName": "Брюховецкая",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 723,
     "uikTvd": "4234006191956",
+    "uikName": "УИК №723",
     "tikTvd": "22320002182673",
-    "tikName": "Брюховецкая"
+    "tikName": "Брюховецкая",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 724,
     "uikTvd": "4234006191957",
+    "uikName": "УИК №724",
     "tikTvd": "22320002182673",
-    "tikName": "Брюховецкая"
+    "tikName": "Брюховецкая",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 725,
     "uikTvd": "4234006191958",
+    "uikName": "УИК №725",
     "tikTvd": "22320002182673",
-    "tikName": "Брюховецкая"
+    "tikName": "Брюховецкая",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 726,
     "uikTvd": "4234006191959",
+    "uikName": "УИК №726",
     "tikTvd": "22320002182673",
-    "tikName": "Брюховецкая"
+    "tikName": "Брюховецкая",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 727,
     "uikTvd": "4234006191960",
+    "uikName": "УИК №727",
     "tikTvd": "22320002182673",
-    "tikName": "Брюховецкая"
+    "tikName": "Брюховецкая",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 728,
     "uikTvd": "4234006191961",
+    "uikName": "УИК №728",
     "tikTvd": "22320002182673",
-    "tikName": "Брюховецкая"
+    "tikName": "Брюховецкая",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 729,
     "uikTvd": "4234006191962",
+    "uikName": "УИК №729",
     "tikTvd": "22320002182673",
-    "tikName": "Брюховецкая"
+    "tikName": "Брюховецкая",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 730,
     "uikTvd": "4234006191963",
+    "uikName": "УИК №730",
     "tikTvd": "22320002182673",
-    "tikName": "Брюховецкая"
+    "tikName": "Брюховецкая",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 731,
     "uikTvd": "4234006191964",
+    "uikName": "УИК №731",
     "tikTvd": "22320002182673",
-    "tikName": "Брюховецкая"
+    "tikName": "Брюховецкая",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 732,
     "uikTvd": "4234006191965",
+    "uikName": "УИК №732",
     "tikTvd": "22320002182673",
-    "tikName": "Брюховецкая"
+    "tikName": "Брюховецкая",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 733,
     "uikTvd": "4234006191966",
+    "uikName": "УИК №733",
     "tikTvd": "22320002182673",
-    "tikName": "Брюховецкая"
+    "tikName": "Брюховецкая",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 801,
     "uikTvd": "4234007228779",
+    "uikName": "УИК №801",
     "tikTvd": "22320002182636",
-    "tikName": "Выселковская"
+    "tikName": "Выселковская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 802,
     "uikTvd": "4234007228780",
+    "uikName": "УИК №802",
     "tikTvd": "22320002182636",
-    "tikName": "Выселковская"
+    "tikName": "Выселковская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 803,
     "uikTvd": "4234007228781",
+    "uikName": "УИК №803",
     "tikTvd": "22320002182636",
-    "tikName": "Выселковская"
+    "tikName": "Выселковская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 804,
     "uikTvd": "4234007228782",
+    "uikName": "УИК №804",
     "tikTvd": "22320002182636",
-    "tikName": "Выселковская"
+    "tikName": "Выселковская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 805,
     "uikTvd": "4234007228783",
+    "uikName": "УИК №805",
     "tikTvd": "22320002182636",
-    "tikName": "Выселковская"
+    "tikName": "Выселковская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 806,
     "uikTvd": "4234007228784",
+    "uikName": "УИК №806",
     "tikTvd": "22320002182636",
-    "tikName": "Выселковская"
+    "tikName": "Выселковская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 807,
     "uikTvd": "4234007228785",
+    "uikName": "УИК №807",
     "tikTvd": "22320002182636",
-    "tikName": "Выселковская"
+    "tikName": "Выселковская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 808,
     "uikTvd": "4234007228786",
+    "uikName": "УИК №808",
     "tikTvd": "22320002182636",
-    "tikName": "Выселковская"
+    "tikName": "Выселковская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 809,
     "uikTvd": "4234007228787",
+    "uikName": "УИК №809",
     "tikTvd": "22320002182636",
-    "tikName": "Выселковская"
+    "tikName": "Выселковская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 810,
     "uikTvd": "4234007228788",
+    "uikName": "УИК №810",
     "tikTvd": "22320002182636",
-    "tikName": "Выселковская"
+    "tikName": "Выселковская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 811,
     "uikTvd": "4234007228789",
+    "uikName": "УИК №811",
     "tikTvd": "22320002182636",
-    "tikName": "Выселковская"
+    "tikName": "Выселковская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 812,
     "uikTvd": "4234007228790",
+    "uikName": "УИК №812",
     "tikTvd": "22320002182636",
-    "tikName": "Выселковская"
+    "tikName": "Выселковская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 813,
     "uikTvd": "4234007228791",
+    "uikName": "УИК №813",
     "tikTvd": "22320002182636",
-    "tikName": "Выселковская"
+    "tikName": "Выселковская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 814,
     "uikTvd": "4234007228792",
+    "uikName": "УИК №814",
     "tikTvd": "22320002182636",
-    "tikName": "Выселковская"
+    "tikName": "Выселковская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 815,
     "uikTvd": "4234007228793",
+    "uikName": "УИК №815",
     "tikTvd": "22320002182636",
-    "tikName": "Выселковская"
+    "tikName": "Выселковская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 816,
     "uikTvd": "4234007228794",
+    "uikName": "УИК №816",
     "tikTvd": "22320002182636",
-    "tikName": "Выселковская"
+    "tikName": "Выселковская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 817,
     "uikTvd": "4234007228795",
+    "uikName": "УИК №817",
     "tikTvd": "22320002182636",
-    "tikName": "Выселковская"
+    "tikName": "Выселковская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 818,
     "uikTvd": "4234007228796",
+    "uikName": "УИК №818",
     "tikTvd": "22320002182636",
-    "tikName": "Выселковская"
+    "tikName": "Выселковская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 819,
     "uikTvd": "4234007228797",
+    "uikName": "УИК №819",
     "tikTvd": "22320002182636",
-    "tikName": "Выселковская"
+    "tikName": "Выселковская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 820,
     "uikTvd": "4234007228798",
+    "uikName": "УИК №820",
     "tikTvd": "22320002182636",
-    "tikName": "Выселковская"
+    "tikName": "Выселковская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 821,
     "uikTvd": "4234007228799",
+    "uikName": "УИК №821",
     "tikTvd": "22320002182636",
-    "tikName": "Выселковская"
+    "tikName": "Выселковская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 822,
     "uikTvd": "4234007228800",
+    "uikName": "УИК №822",
     "tikTvd": "22320002182636",
-    "tikName": "Выселковская"
+    "tikName": "Выселковская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 823,
     "uikTvd": "4234007228801",
+    "uikName": "УИК №823",
     "tikTvd": "22320002182636",
-    "tikName": "Выселковская"
+    "tikName": "Выселковская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 824,
     "uikTvd": "4234007228802",
+    "uikName": "УИК №824",
     "tikTvd": "22320002182636",
-    "tikName": "Выселковская"
+    "tikName": "Выселковская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 825,
     "uikTvd": "4234007228803",
+    "uikName": "УИК №825",
     "tikTvd": "22320002182636",
-    "tikName": "Выселковская"
+    "tikName": "Выселковская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 826,
     "uikTvd": "4234007228804",
+    "uikName": "УИК №826",
     "tikTvd": "22320002182636",
-    "tikName": "Выселковская"
+    "tikName": "Выселковская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 827,
     "uikTvd": "4234007228805",
+    "uikName": "УИК №827",
     "tikTvd": "22320002182636",
-    "tikName": "Выселковская"
+    "tikName": "Выселковская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 828,
     "uikTvd": "4234007228806",
+    "uikName": "УИК №828",
     "tikTvd": "22320002182636",
-    "tikName": "Выселковская"
+    "tikName": "Выселковская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 829,
     "uikTvd": "4234007228807",
+    "uikName": "УИК №829",
     "tikTvd": "22320002182636",
-    "tikName": "Выселковская"
+    "tikName": "Выселковская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 830,
     "uikTvd": "4234007228808",
+    "uikName": "УИК №830",
     "tikTvd": "22320002182636",
-    "tikName": "Выселковская"
+    "tikName": "Выселковская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 831,
     "uikTvd": "4234007228809",
+    "uikName": "УИК №831",
     "tikTvd": "22320002182636",
-    "tikName": "Выселковская"
+    "tikName": "Выселковская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 832,
     "uikTvd": "4234007228810",
+    "uikName": "УИК №832",
     "tikTvd": "22320002182636",
-    "tikName": "Выселковская"
+    "tikName": "Выселковская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 833,
     "uikTvd": "4234007228811",
+    "uikName": "УИК №833",
     "tikTvd": "22320002182636",
-    "tikName": "Выселковская"
+    "tikName": "Выселковская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 834,
     "uikTvd": "4234007228812",
+    "uikName": "УИК №834",
     "tikTvd": "22320002182636",
-    "tikName": "Выселковская"
+    "tikName": "Выселковская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 835,
     "uikTvd": "4234007228813",
+    "uikName": "УИК №835",
     "tikTvd": "22320002182636",
-    "tikName": "Выселковская"
+    "tikName": "Выселковская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 836,
     "uikTvd": "4234007228814",
+    "uikName": "УИК №836",
     "tikTvd": "22320002182636",
-    "tikName": "Выселковская"
+    "tikName": "Выселковская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 837,
     "uikTvd": "4234007228815",
+    "uikName": "УИК №837",
     "tikTvd": "22320002182636",
-    "tikName": "Выселковская"
+    "tikName": "Выселковская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 838,
     "uikTvd": "4234007228816",
+    "uikName": "УИК №838",
     "tikTvd": "22320002182636",
-    "tikName": "Выселковская"
+    "tikName": "Выселковская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 839,
     "uikTvd": "4234007228817",
+    "uikName": "УИК №839",
     "tikTvd": "22320002182636",
-    "tikName": "Выселковская"
+    "tikName": "Выселковская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 840,
     "uikTvd": "4234007228818",
+    "uikName": "УИК №840",
     "tikTvd": "22320002182636",
-    "tikName": "Выселковская"
+    "tikName": "Выселковская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 841,
     "uikTvd": "4234007228819",
+    "uikName": "УИК №841",
     "tikTvd": "22320002182636",
-    "tikName": "Выселковская"
+    "tikName": "Выселковская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 901,
     "uikTvd": "4234008226595",
+    "uikName": "УИК №901",
     "tikTvd": "22320002182677",
-    "tikName": "Геленджикская"
+    "tikName": "Геленджикская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 902,
     "uikTvd": "4234008226597",
+    "uikName": "УИК №902",
     "tikTvd": "22320002182677",
-    "tikName": "Геленджикская"
+    "tikName": "Геленджикская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 903,
     "uikTvd": "4234008226598",
+    "uikName": "УИК №903",
     "tikTvd": "22320002182677",
-    "tikName": "Геленджикская"
+    "tikName": "Геленджикская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 904,
     "uikTvd": "4234008226599",
+    "uikName": "УИК №904",
     "tikTvd": "22320002182677",
-    "tikName": "Геленджикская"
+    "tikName": "Геленджикская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 905,
     "uikTvd": "4234008226600",
+    "uikName": "УИК №905",
     "tikTvd": "22320002182677",
-    "tikName": "Геленджикская"
+    "tikName": "Геленджикская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 906,
     "uikTvd": "4234008226601",
+    "uikName": "УИК №906",
     "tikTvd": "22320002182677",
-    "tikName": "Геленджикская"
+    "tikName": "Геленджикская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 907,
     "uikTvd": "4234008226602",
+    "uikName": "УИК №907",
     "tikTvd": "22320002182677",
-    "tikName": "Геленджикская"
+    "tikName": "Геленджикская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 908,
     "uikTvd": "4234008226603",
+    "uikName": "УИК №908",
     "tikTvd": "22320002182677",
-    "tikName": "Геленджикская"
+    "tikName": "Геленджикская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 909,
     "uikTvd": "4234008226604",
+    "uikName": "УИК №909",
     "tikTvd": "22320002182677",
-    "tikName": "Геленджикская"
+    "tikName": "Геленджикская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 910,
     "uikTvd": "4234008226605",
+    "uikName": "УИК №910",
     "tikTvd": "22320002182677",
-    "tikName": "Геленджикская"
+    "tikName": "Геленджикская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 911,
     "uikTvd": "4234008226606",
+    "uikName": "УИК №911",
     "tikTvd": "22320002182677",
-    "tikName": "Геленджикская"
+    "tikName": "Геленджикская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 912,
     "uikTvd": "4234008226607",
+    "uikName": "УИК №912",
     "tikTvd": "22320002182677",
-    "tikName": "Геленджикская"
+    "tikName": "Геленджикская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 913,
     "uikTvd": "4234008226608",
+    "uikName": "УИК №913",
     "tikTvd": "22320002182677",
-    "tikName": "Геленджикская"
+    "tikName": "Геленджикская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 914,
     "uikTvd": "4234008226609",
+    "uikName": "УИК №914",
     "tikTvd": "22320002182677",
-    "tikName": "Геленджикская"
+    "tikName": "Геленджикская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 915,
     "uikTvd": "4234008226610",
+    "uikName": "УИК №915",
     "tikTvd": "22320002182677",
-    "tikName": "Геленджикская"
+    "tikName": "Геленджикская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 916,
     "uikTvd": "4234008226611",
+    "uikName": "УИК №916",
     "tikTvd": "22320002182677",
-    "tikName": "Геленджикская"
+    "tikName": "Геленджикская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 917,
     "uikTvd": "4234008226612",
+    "uikName": "УИК №917",
     "tikTvd": "22320002182677",
-    "tikName": "Геленджикская"
+    "tikName": "Геленджикская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 918,
     "uikTvd": "4234008226613",
+    "uikName": "УИК №918",
     "tikTvd": "22320002182677",
-    "tikName": "Геленджикская"
+    "tikName": "Геленджикская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 919,
     "uikTvd": "4234008226614",
+    "uikName": "УИК №919",
     "tikTvd": "22320002182677",
-    "tikName": "Геленджикская"
+    "tikName": "Геленджикская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 920,
     "uikTvd": "4234008226615",
+    "uikName": "УИК №920",
     "tikTvd": "22320002182677",
-    "tikName": "Геленджикская"
+    "tikName": "Геленджикская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 921,
     "uikTvd": "4234008226616",
+    "uikName": "УИК №921",
     "tikTvd": "22320002182677",
-    "tikName": "Геленджикская"
+    "tikName": "Геленджикская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 922,
     "uikTvd": "4234008226617",
+    "uikName": "УИК №922",
     "tikTvd": "22320002182677",
-    "tikName": "Геленджикская"
+    "tikName": "Геленджикская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 923,
     "uikTvd": "4234008226618",
+    "uikName": "УИК №923",
     "tikTvd": "22320002182677",
-    "tikName": "Геленджикская"
+    "tikName": "Геленджикская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 924,
     "uikTvd": "4234008226619",
+    "uikName": "УИК №924",
     "tikTvd": "22320002182677",
-    "tikName": "Геленджикская"
+    "tikName": "Геленджикская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 925,
     "uikTvd": "4234008226620",
+    "uikName": "УИК №925",
     "tikTvd": "22320002182677",
-    "tikName": "Геленджикская"
+    "tikName": "Геленджикская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 926,
     "uikTvd": "4234008226621",
+    "uikName": "УИК №926",
     "tikTvd": "22320002182677",
-    "tikName": "Геленджикская"
+    "tikName": "Геленджикская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 927,
     "uikTvd": "4234008226622",
+    "uikName": "УИК №927",
     "tikTvd": "22320002182677",
-    "tikName": "Геленджикская"
+    "tikName": "Геленджикская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 928,
     "uikTvd": "4234008226623",
+    "uikName": "УИК №928",
     "tikTvd": "22320002182677",
-    "tikName": "Геленджикская"
+    "tikName": "Геленджикская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 929,
     "uikTvd": "4234008226624",
+    "uikName": "УИК №929",
     "tikTvd": "22320002182677",
-    "tikName": "Геленджикская"
+    "tikName": "Геленджикская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 930,
     "uikTvd": "4234008226625",
+    "uikName": "УИК №930",
     "tikTvd": "22320002182677",
-    "tikName": "Геленджикская"
+    "tikName": "Геленджикская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 931,
     "uikTvd": "4234008226626",
+    "uikName": "УИК №931",
     "tikTvd": "22320002182677",
-    "tikName": "Геленджикская"
+    "tikName": "Геленджикская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 932,
     "uikTvd": "4234008226627",
+    "uikName": "УИК №932",
     "tikTvd": "22320002182677",
-    "tikName": "Геленджикская"
+    "tikName": "Геленджикская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 933,
     "uikTvd": "4234008226628",
+    "uikName": "УИК №933",
     "tikTvd": "22320002182677",
-    "tikName": "Геленджикская"
+    "tikName": "Геленджикская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 934,
     "uikTvd": "4234008226629",
+    "uikName": "УИК №934",
     "tikTvd": "22320002182677",
-    "tikName": "Геленджикская"
+    "tikName": "Геленджикская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 935,
     "uikTvd": "4234008226630",
+    "uikName": "УИК №935",
     "tikTvd": "22320002182677",
-    "tikName": "Геленджикская"
+    "tikName": "Геленджикская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 936,
     "uikTvd": "4234008226631",
+    "uikName": "УИК №936",
     "tikTvd": "22320002182677",
-    "tikName": "Геленджикская"
+    "tikName": "Геленджикская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 937,
     "uikTvd": "4234008226632",
+    "uikName": "УИК №937",
     "tikTvd": "22320002182677",
-    "tikName": "Геленджикская"
+    "tikName": "Геленджикская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 938,
     "uikTvd": "4234008226633",
+    "uikName": "УИК №938",
     "tikTvd": "22320002182677",
-    "tikName": "Геленджикская"
+    "tikName": "Геленджикская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 939,
     "uikTvd": "4234008226634",
+    "uikName": "УИК №939",
     "tikTvd": "22320002182677",
-    "tikName": "Геленджикская"
+    "tikName": "Геленджикская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 940,
     "uikTvd": "4234008226635",
+    "uikName": "УИК №940",
     "tikTvd": "22320002182677",
-    "tikName": "Геленджикская"
+    "tikName": "Геленджикская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 941,
     "uikTvd": "4234008226636",
+    "uikName": "УИК №941",
     "tikTvd": "22320002182677",
-    "tikName": "Геленджикская"
+    "tikName": "Геленджикская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 942,
     "uikTvd": "4234008226637",
+    "uikName": "УИК №942",
     "tikTvd": "22320002182677",
-    "tikName": "Геленджикская"
+    "tikName": "Геленджикская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1001,
     "uikTvd": "4234009169225",
+    "uikName": "УИК №1001",
     "tikTvd": "22320002182654",
-    "tikName": "Горячеключевская"
+    "tikName": "Горячеключевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1002,
     "uikTvd": "4234009169227",
+    "uikName": "УИК №1002",
     "tikTvd": "22320002182654",
-    "tikName": "Горячеключевская"
+    "tikName": "Горячеключевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1003,
     "uikTvd": "4234009169229",
+    "uikName": "УИК №1003",
     "tikTvd": "22320002182654",
-    "tikName": "Горячеключевская"
+    "tikName": "Горячеключевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1004,
     "uikTvd": "4234009169230",
+    "uikName": "УИК №1004",
     "tikTvd": "22320002182654",
-    "tikName": "Горячеключевская"
+    "tikName": "Горячеключевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1005,
     "uikTvd": "4234009169231",
+    "uikName": "УИК №1005",
     "tikTvd": "22320002182654",
-    "tikName": "Горячеключевская"
+    "tikName": "Горячеключевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1006,
     "uikTvd": "4234009169232",
+    "uikName": "УИК №1006",
     "tikTvd": "22320002182654",
-    "tikName": "Горячеключевская"
+    "tikName": "Горячеключевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1007,
     "uikTvd": "4234009169233",
+    "uikName": "УИК №1007",
     "tikTvd": "22320002182654",
-    "tikName": "Горячеключевская"
+    "tikName": "Горячеключевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1008,
     "uikTvd": "4234009169235",
+    "uikName": "УИК №1008",
     "tikTvd": "22320002182654",
-    "tikName": "Горячеключевская"
+    "tikName": "Горячеключевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1009,
     "uikTvd": "4234009169236",
+    "uikName": "УИК №1009",
     "tikTvd": "22320002182654",
-    "tikName": "Горячеключевская"
+    "tikName": "Горячеключевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1010,
     "uikTvd": "4234009169237",
+    "uikName": "УИК №1010",
     "tikTvd": "22320002182654",
-    "tikName": "Горячеключевская"
+    "tikName": "Горячеключевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1011,
     "uikTvd": "4234009169238",
+    "uikName": "УИК №1011",
     "tikTvd": "22320002182654",
-    "tikName": "Горячеключевская"
+    "tikName": "Горячеключевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1012,
     "uikTvd": "4234009169239",
+    "uikName": "УИК №1012",
     "tikTvd": "22320002182654",
-    "tikName": "Горячеключевская"
+    "tikName": "Горячеключевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1013,
     "uikTvd": "4234009169241",
+    "uikName": "УИК №1013",
     "tikTvd": "22320002182654",
-    "tikName": "Горячеключевская"
+    "tikName": "Горячеключевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1014,
     "uikTvd": "4234009169242",
+    "uikName": "УИК №1014",
     "tikTvd": "22320002182654",
-    "tikName": "Горячеключевская"
+    "tikName": "Горячеключевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1015,
     "uikTvd": "4234009169243",
+    "uikName": "УИК №1015",
     "tikTvd": "22320002182654",
-    "tikName": "Горячеключевская"
+    "tikName": "Горячеключевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1016,
     "uikTvd": "4234009169244",
+    "uikName": "УИК №1016",
     "tikTvd": "22320002182654",
-    "tikName": "Горячеключевская"
+    "tikName": "Горячеключевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1017,
     "uikTvd": "4234009169245",
+    "uikName": "УИК №1017",
     "tikTvd": "22320002182654",
-    "tikName": "Горячеключевская"
+    "tikName": "Горячеключевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1018,
     "uikTvd": "4234009169246",
+    "uikName": "УИК №1018",
     "tikTvd": "22320002182654",
-    "tikName": "Горячеключевская"
+    "tikName": "Горячеключевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1019,
     "uikTvd": "4234009169247",
+    "uikName": "УИК №1019",
     "tikTvd": "22320002182654",
-    "tikName": "Горячеключевская"
+    "tikName": "Горячеключевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1020,
     "uikTvd": "4234009169248",
+    "uikName": "УИК №1020",
     "tikTvd": "22320002182654",
-    "tikName": "Горячеключевская"
+    "tikName": "Горячеключевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1021,
     "uikTvd": "4234009169249",
+    "uikName": "УИК №1021",
     "tikTvd": "22320002182654",
-    "tikName": "Горячеключевская"
+    "tikName": "Горячеключевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1022,
     "uikTvd": "4234009169251",
+    "uikName": "УИК №1022",
     "tikTvd": "22320002182654",
-    "tikName": "Горячеключевская"
+    "tikName": "Горячеключевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1023,
     "uikTvd": "4234009169252",
+    "uikName": "УИК №1023",
     "tikTvd": "22320002182654",
-    "tikName": "Горячеключевская"
+    "tikName": "Горячеключевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1024,
     "uikTvd": "4234009169253",
+    "uikName": "УИК №1024",
     "tikTvd": "22320002182654",
-    "tikName": "Горячеключевская"
+    "tikName": "Горячеключевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1025,
     "uikTvd": "4234009169254",
+    "uikName": "УИК №1025",
     "tikTvd": "22320002182654",
-    "tikName": "Горячеключевская"
+    "tikName": "Горячеключевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1026,
     "uikTvd": "4234009169255",
+    "uikName": "УИК №1026",
     "tikTvd": "22320002182654",
-    "tikName": "Горячеключевская"
+    "tikName": "Горячеключевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1027,
     "uikTvd": "4234009169256",
+    "uikName": "УИК №1027",
     "tikTvd": "22320002182654",
-    "tikName": "Горячеключевская"
+    "tikName": "Горячеключевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1028,
     "uikTvd": "4234009169257",
+    "uikName": "УИК №1028",
     "tikTvd": "22320002182654",
-    "tikName": "Горячеключевская"
+    "tikName": "Горячеключевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1029,
     "uikTvd": "4234009169258",
+    "uikName": "УИК №1029",
     "tikTvd": "22320002182654",
-    "tikName": "Горячеключевская"
+    "tikName": "Горячеключевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1030,
     "uikTvd": "4234009169260",
+    "uikName": "УИК №1030",
     "tikTvd": "22320002182654",
-    "tikName": "Горячеключевская"
+    "tikName": "Горячеключевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1031,
     "uikTvd": "4234009169261",
+    "uikName": "УИК №1031",
     "tikTvd": "22320002182654",
-    "tikName": "Горячеключевская"
+    "tikName": "Горячеключевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1032,
     "uikTvd": "4234009169262",
+    "uikName": "УИК №1032",
     "tikTvd": "22320002182654",
-    "tikName": "Горячеключевская"
+    "tikName": "Горячеключевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1033,
     "uikTvd": "4234009169263",
+    "uikName": "УИК №1033",
     "tikTvd": "22320002182654",
-    "tikName": "Горячеключевская"
+    "tikName": "Горячеключевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1034,
     "uikTvd": "4234009169264",
+    "uikName": "УИК №1034",
     "tikTvd": "22320002182654",
-    "tikName": "Горячеключевская"
+    "tikName": "Горячеключевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1035,
     "uikTvd": "4234009169265",
+    "uikName": "УИК №1035",
     "tikTvd": "22320002182654",
-    "tikName": "Горячеключевская"
+    "tikName": "Горячеключевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1036,
     "uikTvd": "4234009169268",
+    "uikName": "УИК №1036",
     "tikTvd": "22320002182654",
-    "tikName": "Горячеключевская"
+    "tikName": "Горячеключевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1037,
     "uikTvd": "4234009169270",
+    "uikName": "УИК №1037",
     "tikTvd": "22320002182654",
-    "tikName": "Горячеключевская"
+    "tikName": "Горячеключевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1098,
     "uikTvd": "4234009169612",
+    "uikName": "УИК №1098",
     "tikTvd": "22320002182654",
-    "tikName": "Горячеключевская"
+    "tikName": "Горячеключевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1099,
     "uikTvd": "4234009169614",
+    "uikName": "УИК №1099",
     "tikTvd": "22320002182654",
-    "tikName": "Горячеключевская"
+    "tikName": "Горячеключевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1101,
     "uikTvd": "4234010283128",
+    "uikName": "УИК №1101",
     "tikTvd": "22320002182644",
-    "tikName": "Гулькевичская"
+    "tikName": "Гулькевичская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1102,
     "uikTvd": "4234010283129",
+    "uikName": "УИК №1102",
     "tikTvd": "22320002182644",
-    "tikName": "Гулькевичская"
+    "tikName": "Гулькевичская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1103,
     "uikTvd": "4234010283130",
+    "uikName": "УИК №1103",
     "tikTvd": "22320002182644",
-    "tikName": "Гулькевичская"
+    "tikName": "Гулькевичская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1104,
     "uikTvd": "4234010283131",
+    "uikName": "УИК №1104",
     "tikTvd": "22320002182644",
-    "tikName": "Гулькевичская"
+    "tikName": "Гулькевичская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1105,
     "uikTvd": "4234010283132",
+    "uikName": "УИК №1105",
     "tikTvd": "22320002182644",
-    "tikName": "Гулькевичская"
+    "tikName": "Гулькевичская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1106,
     "uikTvd": "4234010283133",
+    "uikName": "УИК №1106",
     "tikTvd": "22320002182644",
-    "tikName": "Гулькевичская"
+    "tikName": "Гулькевичская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1107,
     "uikTvd": "4234010283134",
+    "uikName": "УИК №1107",
     "tikTvd": "22320002182644",
-    "tikName": "Гулькевичская"
+    "tikName": "Гулькевичская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1108,
     "uikTvd": "4234010283135",
+    "uikName": "УИК №1108",
     "tikTvd": "22320002182644",
-    "tikName": "Гулькевичская"
+    "tikName": "Гулькевичская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1109,
     "uikTvd": "4234010283136",
+    "uikName": "УИК №1109",
     "tikTvd": "22320002182644",
-    "tikName": "Гулькевичская"
+    "tikName": "Гулькевичская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1110,
     "uikTvd": "4234010283137",
+    "uikName": "УИК №1110",
     "tikTvd": "22320002182644",
-    "tikName": "Гулькевичская"
+    "tikName": "Гулькевичская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1111,
     "uikTvd": "4234010283138",
+    "uikName": "УИК №1111",
     "tikTvd": "22320002182644",
-    "tikName": "Гулькевичская"
+    "tikName": "Гулькевичская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1112,
     "uikTvd": "4234010283139",
+    "uikName": "УИК №1112",
     "tikTvd": "22320002182644",
-    "tikName": "Гулькевичская"
+    "tikName": "Гулькевичская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1113,
     "uikTvd": "4234010283140",
+    "uikName": "УИК №1113",
     "tikTvd": "22320002182644",
-    "tikName": "Гулькевичская"
+    "tikName": "Гулькевичская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1114,
     "uikTvd": "4234010283141",
+    "uikName": "УИК №1114",
     "tikTvd": "22320002182644",
-    "tikName": "Гулькевичская"
+    "tikName": "Гулькевичская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1115,
     "uikTvd": "4234010283142",
+    "uikName": "УИК №1115",
     "tikTvd": "22320002182644",
-    "tikName": "Гулькевичская"
+    "tikName": "Гулькевичская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1116,
     "uikTvd": "4234010283143",
+    "uikName": "УИК №1116",
     "tikTvd": "22320002182644",
-    "tikName": "Гулькевичская"
+    "tikName": "Гулькевичская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1117,
     "uikTvd": "4234010283144",
+    "uikName": "УИК №1117",
     "tikTvd": "22320002182644",
-    "tikName": "Гулькевичская"
+    "tikName": "Гулькевичская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1118,
     "uikTvd": "4234010283145",
+    "uikName": "УИК №1118",
     "tikTvd": "22320002182644",
-    "tikName": "Гулькевичская"
+    "tikName": "Гулькевичская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1119,
     "uikTvd": "4234010283146",
+    "uikName": "УИК №1119",
     "tikTvd": "22320002182644",
-    "tikName": "Гулькевичская"
+    "tikName": "Гулькевичская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1120,
     "uikTvd": "4234010283147",
+    "uikName": "УИК №1120",
     "tikTvd": "22320002182644",
-    "tikName": "Гулькевичская"
+    "tikName": "Гулькевичская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1121,
     "uikTvd": "4234010283148",
+    "uikName": "УИК №1121",
     "tikTvd": "22320002182644",
-    "tikName": "Гулькевичская"
+    "tikName": "Гулькевичская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1122,
     "uikTvd": "4234010283149",
+    "uikName": "УИК №1122",
     "tikTvd": "22320002182644",
-    "tikName": "Гулькевичская"
+    "tikName": "Гулькевичская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1123,
     "uikTvd": "4234010283150",
+    "uikName": "УИК №1123",
     "tikTvd": "22320002182644",
-    "tikName": "Гулькевичская"
+    "tikName": "Гулькевичская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1124,
     "uikTvd": "4234010283151",
+    "uikName": "УИК №1124",
     "tikTvd": "22320002182644",
-    "tikName": "Гулькевичская"
+    "tikName": "Гулькевичская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1125,
     "uikTvd": "4234010283152",
+    "uikName": "УИК №1125",
     "tikTvd": "22320002182644",
-    "tikName": "Гулькевичская"
+    "tikName": "Гулькевичская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1126,
     "uikTvd": "4234010283153",
+    "uikName": "УИК №1126",
     "tikTvd": "22320002182644",
-    "tikName": "Гулькевичская"
+    "tikName": "Гулькевичская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1127,
     "uikTvd": "4234010283154",
+    "uikName": "УИК №1127",
     "tikTvd": "22320002182644",
-    "tikName": "Гулькевичская"
+    "tikName": "Гулькевичская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1128,
     "uikTvd": "4234010283155",
+    "uikName": "УИК №1128",
     "tikTvd": "22320002182644",
-    "tikName": "Гулькевичская"
+    "tikName": "Гулькевичская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1129,
     "uikTvd": "4234010283156",
+    "uikName": "УИК №1129",
     "tikTvd": "22320002182644",
-    "tikName": "Гулькевичская"
+    "tikName": "Гулькевичская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1130,
     "uikTvd": "4234010283157",
+    "uikName": "УИК №1130",
     "tikTvd": "22320002182644",
-    "tikName": "Гулькевичская"
+    "tikName": "Гулькевичская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1131,
     "uikTvd": "4234010283158",
+    "uikName": "УИК №1131",
     "tikTvd": "22320002182644",
-    "tikName": "Гулькевичская"
+    "tikName": "Гулькевичская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1132,
     "uikTvd": "4234010283159",
+    "uikName": "УИК №1132",
     "tikTvd": "22320002182644",
-    "tikName": "Гулькевичская"
+    "tikName": "Гулькевичская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1133,
     "uikTvd": "4234010283160",
+    "uikName": "УИК №1133",
     "tikTvd": "22320002182644",
-    "tikName": "Гулькевичская"
+    "tikName": "Гулькевичская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1134,
     "uikTvd": "4234010283161",
+    "uikName": "УИК №1134",
     "tikTvd": "22320002182644",
-    "tikName": "Гулькевичская"
+    "tikName": "Гулькевичская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1135,
     "uikTvd": "4234010283162",
+    "uikName": "УИК №1135",
     "tikTvd": "22320002182644",
-    "tikName": "Гулькевичская"
+    "tikName": "Гулькевичская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1136,
     "uikTvd": "4234010283163",
+    "uikName": "УИК №1136",
     "tikTvd": "22320002182644",
-    "tikName": "Гулькевичская"
+    "tikName": "Гулькевичская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1137,
     "uikTvd": "4234010283164",
+    "uikName": "УИК №1137",
     "tikTvd": "22320002182644",
-    "tikName": "Гулькевичская"
+    "tikName": "Гулькевичская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1138,
     "uikTvd": "4234010283165",
+    "uikName": "УИК №1138",
     "tikTvd": "22320002182644",
-    "tikName": "Гулькевичская"
+    "tikName": "Гулькевичская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1139,
     "uikTvd": "4234010283166",
+    "uikName": "УИК №1139",
     "tikTvd": "22320002182644",
-    "tikName": "Гулькевичская"
+    "tikName": "Гулькевичская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1140,
     "uikTvd": "4234010283167",
+    "uikName": "УИК №1140",
     "tikTvd": "22320002182644",
-    "tikName": "Гулькевичская"
+    "tikName": "Гулькевичская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1141,
     "uikTvd": "4234010283168",
+    "uikName": "УИК №1141",
     "tikTvd": "22320002182644",
-    "tikName": "Гулькевичская"
+    "tikName": "Гулькевичская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1142,
     "uikTvd": "4234010283169",
+    "uikName": "УИК №1142",
     "tikTvd": "22320002182644",
-    "tikName": "Гулькевичская"
+    "tikName": "Гулькевичская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1143,
     "uikTvd": "4234010283170",
+    "uikName": "УИК №1143",
     "tikTvd": "22320002182644",
-    "tikName": "Гулькевичская"
+    "tikName": "Гулькевичская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1144,
     "uikTvd": "4234010283171",
+    "uikName": "УИК №1144",
     "tikTvd": "22320002182644",
-    "tikName": "Гулькевичская"
+    "tikName": "Гулькевичская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1145,
     "uikTvd": "4234010283172",
+    "uikName": "УИК №1145",
     "tikTvd": "22320002182644",
-    "tikName": "Гулькевичская"
+    "tikName": "Гулькевичская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1146,
     "uikTvd": "4234010283173",
+    "uikName": "УИК №1146",
     "tikTvd": "22320002182644",
-    "tikName": "Гулькевичская"
+    "tikName": "Гулькевичская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1147,
     "uikTvd": "4234010283174",
+    "uikName": "УИК №1147",
     "tikTvd": "22320002182644",
-    "tikName": "Гулькевичская"
+    "tikName": "Гулькевичская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1148,
     "uikTvd": "4234010283175",
+    "uikName": "УИК №1148",
     "tikTvd": "22320002182644",
-    "tikName": "Гулькевичская"
+    "tikName": "Гулькевичская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1149,
     "uikTvd": "4234010283176",
+    "uikName": "УИК №1149",
     "tikTvd": "22320002182644",
-    "tikName": "Гулькевичская"
+    "tikName": "Гулькевичская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1150,
     "uikTvd": "4234010283177",
+    "uikName": "УИК №1150",
     "tikTvd": "22320002182644",
-    "tikName": "Гулькевичская"
+    "tikName": "Гулькевичская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1151,
     "uikTvd": "4234010283178",
+    "uikName": "УИК №1151",
     "tikTvd": "22320002182644",
-    "tikName": "Гулькевичская"
+    "tikName": "Гулькевичская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1152,
     "uikTvd": "4234010283179",
+    "uikName": "УИК №1152",
     "tikTvd": "22320002182644",
-    "tikName": "Гулькевичская"
+    "tikName": "Гулькевичская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1153,
     "uikTvd": "4234010283180",
+    "uikName": "УИК №1153",
     "tikTvd": "22320002182644",
-    "tikName": "Гулькевичская"
+    "tikName": "Гулькевичская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1154,
     "uikTvd": "4234010283181",
+    "uikName": "УИК №1154",
     "tikTvd": "22320002182644",
-    "tikName": "Гулькевичская"
+    "tikName": "Гулькевичская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1155,
     "uikTvd": "4234010283182",
+    "uikName": "УИК №1155",
     "tikTvd": "22320002182644",
-    "tikName": "Гулькевичская"
+    "tikName": "Гулькевичская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1156,
     "uikTvd": "4234010283183",
+    "uikName": "УИК №1156",
     "tikTvd": "22320002182644",
-    "tikName": "Гулькевичская"
+    "tikName": "Гулькевичская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1157,
     "uikTvd": "4234010283184",
+    "uikName": "УИК №1157",
     "tikTvd": "22320002182644",
-    "tikName": "Гулькевичская"
+    "tikName": "Гулькевичская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1158,
     "uikTvd": "4234010283185",
+    "uikName": "УИК №1158",
     "tikTvd": "22320002182644",
-    "tikName": "Гулькевичская"
+    "tikName": "Гулькевичская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1159,
     "uikTvd": "4234010283186",
+    "uikName": "УИК №1159",
     "tikTvd": "22320002182644",
-    "tikName": "Гулькевичская"
+    "tikName": "Гулькевичская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1160,
     "uikTvd": "4234010283187",
+    "uikName": "УИК №1160",
     "tikTvd": "22320002182644",
-    "tikName": "Гулькевичская"
+    "tikName": "Гулькевичская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1161,
     "uikTvd": "4234010283188",
+    "uikName": "УИК №1161",
     "tikTvd": "22320002182644",
-    "tikName": "Гулькевичская"
+    "tikName": "Гулькевичская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1162,
     "uikTvd": "4234010283189",
+    "uikName": "УИК №1162",
     "tikTvd": "22320002182644",
-    "tikName": "Гулькевичская"
+    "tikName": "Гулькевичская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1163,
     "uikTvd": "4234010283190",
+    "uikName": "УИК №1163",
     "tikTvd": "22320002182644",
-    "tikName": "Гулькевичская"
+    "tikName": "Гулькевичская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1164,
     "uikTvd": "4234010283191",
+    "uikName": "УИК №1164",
     "tikTvd": "22320002182644",
-    "tikName": "Гулькевичская"
+    "tikName": "Гулькевичская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1165,
     "uikTvd": "4234010283192",
+    "uikName": "УИК №1165",
     "tikTvd": "22320002182644",
-    "tikName": "Гулькевичская"
+    "tikName": "Гулькевичская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1166,
     "uikTvd": "4234010283193",
+    "uikName": "УИК №1166",
     "tikTvd": "22320002182644",
-    "tikName": "Гулькевичская"
+    "tikName": "Гулькевичская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1167,
     "uikTvd": "4234010283194",
+    "uikName": "УИК №1167",
     "tikTvd": "22320002182644",
-    "tikName": "Гулькевичская"
+    "tikName": "Гулькевичская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1168,
     "uikTvd": "4234010283195",
+    "uikName": "УИК №1168",
     "tikTvd": "22320002182644",
-    "tikName": "Гулькевичская"
+    "tikName": "Гулькевичская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1169,
     "uikTvd": "4234010283196",
+    "uikName": "УИК №1169",
     "tikTvd": "22320002182644",
-    "tikName": "Гулькевичская"
+    "tikName": "Гулькевичская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1170,
     "uikTvd": "4234010283197",
+    "uikName": "УИК №1170",
     "tikTvd": "22320002182644",
-    "tikName": "Гулькевичская"
+    "tikName": "Гулькевичская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1201,
     "uikTvd": "4234011281780",
+    "uikName": "УИК №1201",
     "tikTvd": "22320002182668",
-    "tikName": "Динская"
+    "tikName": "Динская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1202,
     "uikTvd": "4234011281782",
+    "uikName": "УИК №1202",
     "tikTvd": "22320002182668",
-    "tikName": "Динская"
+    "tikName": "Динская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1203,
     "uikTvd": "4234011281783",
+    "uikName": "УИК №1203",
     "tikTvd": "22320002182668",
-    "tikName": "Динская"
+    "tikName": "Динская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1204,
     "uikTvd": "4234011281784",
+    "uikName": "УИК №1204",
     "tikTvd": "22320002182668",
-    "tikName": "Динская"
+    "tikName": "Динская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1205,
     "uikTvd": "4234011281785",
+    "uikName": "УИК №1205",
     "tikTvd": "22320002182668",
-    "tikName": "Динская"
+    "tikName": "Динская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1206,
     "uikTvd": "4234011281786",
+    "uikName": "УИК №1206",
     "tikTvd": "22320002182668",
-    "tikName": "Динская"
+    "tikName": "Динская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1207,
     "uikTvd": "4234011281787",
+    "uikName": "УИК №1207",
     "tikTvd": "22320002182668",
-    "tikName": "Динская"
+    "tikName": "Динская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1208,
     "uikTvd": "4234011281788",
+    "uikName": "УИК №1208",
     "tikTvd": "22320002182668",
-    "tikName": "Динская"
+    "tikName": "Динская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1209,
     "uikTvd": "4234011281789",
+    "uikName": "УИК №1209",
     "tikTvd": "22320002182668",
-    "tikName": "Динская"
+    "tikName": "Динская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1210,
     "uikTvd": "4234011281790",
+    "uikName": "УИК №1210",
     "tikTvd": "22320002182668",
-    "tikName": "Динская"
+    "tikName": "Динская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1211,
     "uikTvd": "4234011281791",
+    "uikName": "УИК №1211",
     "tikTvd": "22320002182668",
-    "tikName": "Динская"
+    "tikName": "Динская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1212,
     "uikTvd": "4234011281792",
+    "uikName": "УИК №1212",
     "tikTvd": "22320002182668",
-    "tikName": "Динская"
+    "tikName": "Динская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1213,
     "uikTvd": "4234011281793",
+    "uikName": "УИК №1213",
     "tikTvd": "22320002182668",
-    "tikName": "Динская"
+    "tikName": "Динская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1214,
     "uikTvd": "4234011281794",
+    "uikName": "УИК №1214",
     "tikTvd": "22320002182668",
-    "tikName": "Динская"
+    "tikName": "Динская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1215,
     "uikTvd": "4234011281795",
+    "uikName": "УИК №1215",
     "tikTvd": "22320002182668",
-    "tikName": "Динская"
+    "tikName": "Динская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1216,
     "uikTvd": "4234011281796",
+    "uikName": "УИК №1216",
     "tikTvd": "22320002182668",
-    "tikName": "Динская"
+    "tikName": "Динская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1217,
     "uikTvd": "4234011281797",
+    "uikName": "УИК №1217",
     "tikTvd": "22320002182668",
-    "tikName": "Динская"
+    "tikName": "Динская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1218,
     "uikTvd": "4234011281798",
+    "uikName": "УИК №1218",
     "tikTvd": "22320002182668",
-    "tikName": "Динская"
+    "tikName": "Динская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1219,
     "uikTvd": "4234011281799",
+    "uikName": "УИК №1219",
     "tikTvd": "22320002182668",
-    "tikName": "Динская"
+    "tikName": "Динская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1220,
     "uikTvd": "4234011281800",
+    "uikName": "УИК №1220",
     "tikTvd": "22320002182668",
-    "tikName": "Динская"
+    "tikName": "Динская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1221,
     "uikTvd": "4234011281801",
+    "uikName": "УИК №1221",
     "tikTvd": "22320002182668",
-    "tikName": "Динская"
+    "tikName": "Динская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1222,
     "uikTvd": "4234011281802",
+    "uikName": "УИК №1222",
     "tikTvd": "22320002182668",
-    "tikName": "Динская"
+    "tikName": "Динская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1223,
     "uikTvd": "4234011281803",
+    "uikName": "УИК №1223",
     "tikTvd": "22320002182668",
-    "tikName": "Динская"
+    "tikName": "Динская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1224,
     "uikTvd": "4234011281804",
+    "uikName": "УИК №1224",
     "tikTvd": "22320002182668",
-    "tikName": "Динская"
+    "tikName": "Динская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1225,
     "uikTvd": "4234011281805",
+    "uikName": "УИК №1225",
     "tikTvd": "22320002182668",
-    "tikName": "Динская"
+    "tikName": "Динская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1226,
     "uikTvd": "4234011281806",
+    "uikName": "УИК №1226",
     "tikTvd": "22320002182668",
-    "tikName": "Динская"
+    "tikName": "Динская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1227,
     "uikTvd": "4234011281807",
+    "uikName": "УИК №1227",
     "tikTvd": "22320002182668",
-    "tikName": "Динская"
+    "tikName": "Динская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1228,
     "uikTvd": "4234011281808",
+    "uikName": "УИК №1228",
     "tikTvd": "22320002182668",
-    "tikName": "Динская"
+    "tikName": "Динская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1229,
     "uikTvd": "4234011281809",
+    "uikName": "УИК №1229",
     "tikTvd": "22320002182668",
-    "tikName": "Динская"
+    "tikName": "Динская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1230,
     "uikTvd": "4234011281810",
+    "uikName": "УИК №1230",
     "tikTvd": "22320002182668",
-    "tikName": "Динская"
+    "tikName": "Динская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1231,
     "uikTvd": "4234011281811",
+    "uikName": "УИК №1231",
     "tikTvd": "22320002182668",
-    "tikName": "Динская"
+    "tikName": "Динская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1232,
     "uikTvd": "4234011281812",
+    "uikName": "УИК №1232",
     "tikTvd": "22320002182668",
-    "tikName": "Динская"
+    "tikName": "Динская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1233,
     "uikTvd": "4234011281813",
+    "uikName": "УИК №1233",
     "tikTvd": "22320002182668",
-    "tikName": "Динская"
+    "tikName": "Динская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1234,
     "uikTvd": "4234011281814",
+    "uikName": "УИК №1234",
     "tikTvd": "22320002182668",
-    "tikName": "Динская"
+    "tikName": "Динская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1235,
     "uikTvd": "4234011281815",
+    "uikName": "УИК №1235",
     "tikTvd": "22320002182668",
-    "tikName": "Динская"
+    "tikName": "Динская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1236,
     "uikTvd": "4234011281816",
+    "uikName": "УИК №1236",
     "tikTvd": "22320002182668",
-    "tikName": "Динская"
+    "tikName": "Динская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1237,
     "uikTvd": "4234011281817",
+    "uikName": "УИК №1237",
     "tikTvd": "22320002182668",
-    "tikName": "Динская"
+    "tikName": "Динская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1238,
     "uikTvd": "4234011281818",
+    "uikName": "УИК №1238",
     "tikTvd": "22320002182668",
-    "tikName": "Динская"
+    "tikName": "Динская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1239,
     "uikTvd": "4234011281819",
+    "uikName": "УИК №1239",
     "tikTvd": "22320002182668",
-    "tikName": "Динская"
+    "tikName": "Динская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1240,
     "uikTvd": "4234011281820",
+    "uikName": "УИК №1240",
     "tikTvd": "22320002182668",
-    "tikName": "Динская"
+    "tikName": "Динская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1241,
     "uikTvd": "4234011281821",
+    "uikName": "УИК №1241",
     "tikTvd": "22320002182668",
-    "tikName": "Динская"
+    "tikName": "Динская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1242,
     "uikTvd": "4234011281822",
+    "uikName": "УИК №1242",
     "tikTvd": "22320002182668",
-    "tikName": "Динская"
+    "tikName": "Динская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1243,
     "uikTvd": "4234011281823",
+    "uikName": "УИК №1243",
     "tikTvd": "22320002182668",
-    "tikName": "Динская"
+    "tikName": "Динская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1244,
     "uikTvd": "4234011281824",
+    "uikName": "УИК №1244",
     "tikTvd": "22320002182668",
-    "tikName": "Динская"
+    "tikName": "Динская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1245,
     "uikTvd": "4234011281825",
+    "uikName": "УИК №1245",
     "tikTvd": "22320002182668",
-    "tikName": "Динская"
+    "tikName": "Динская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1246,
     "uikTvd": "4234011281826",
+    "uikName": "УИК №1246",
     "tikTvd": "22320002182668",
-    "tikName": "Динская"
+    "tikName": "Динская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1247,
     "uikTvd": "4234011281827",
+    "uikName": "УИК №1247",
     "tikTvd": "22320002182668",
-    "tikName": "Динская"
+    "tikName": "Динская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1248,
     "uikTvd": "4234011281828",
+    "uikName": "УИК №1248",
     "tikTvd": "22320002182668",
-    "tikName": "Динская"
+    "tikName": "Динская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1249,
     "uikTvd": "4234011281829",
+    "uikName": "УИК №1249",
     "tikTvd": "22320002182668",
-    "tikName": "Динская"
+    "tikName": "Динская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1250,
     "uikTvd": "4234011281830",
+    "uikName": "УИК №1250",
     "tikTvd": "22320002182668",
-    "tikName": "Динская"
+    "tikName": "Динская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1251,
     "uikTvd": "4234011281831",
+    "uikName": "УИК №1251",
     "tikTvd": "22320002182668",
-    "tikName": "Динская"
+    "tikName": "Динская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1252,
     "uikTvd": "4234011281832",
+    "uikName": "УИК №1252",
     "tikTvd": "22320002182668",
-    "tikName": "Динская"
+    "tikName": "Динская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1253,
     "uikTvd": "4234011281833",
+    "uikName": "УИК №1253",
     "tikTvd": "22320002182668",
-    "tikName": "Динская"
+    "tikName": "Динская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1254,
     "uikTvd": "4234011281834",
+    "uikName": "УИК №1254",
     "tikTvd": "22320002182668",
-    "tikName": "Динская"
+    "tikName": "Динская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1255,
     "uikTvd": "4234011281835",
+    "uikName": "УИК №1255",
     "tikTvd": "22320002182668",
-    "tikName": "Динская"
+    "tikName": "Динская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1256,
     "uikTvd": "4234011281836",
+    "uikName": "УИК №1256",
     "tikTvd": "22320002182668",
-    "tikName": "Динская"
+    "tikName": "Динская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1257,
     "uikTvd": "4234011281837",
+    "uikName": "УИК №1257",
     "tikTvd": "22320002182668",
-    "tikName": "Динская"
+    "tikName": "Динская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1299,
     "uikTvd": "4234011282257",
+    "uikName": "УИК №1299",
     "tikTvd": "22320002182668",
-    "tikName": "Динская"
+    "tikName": "Динская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1301,
     "uikTvd": "4234054187190",
+    "uikName": "УИК №1301",
     "tikTvd": "22320002182639",
-    "tikName": "Ейская районная"
+    "tikName": "Ейская районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1302,
     "uikTvd": "4234054187191",
+    "uikName": "УИК №1302",
     "tikTvd": "22320002182639",
-    "tikName": "Ейская районная"
+    "tikName": "Ейская районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1303,
     "uikTvd": "4234054187192",
+    "uikName": "УИК №1303",
     "tikTvd": "22320002182639",
-    "tikName": "Ейская районная"
+    "tikName": "Ейская районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1304,
     "uikTvd": "4234054187193",
+    "uikName": "УИК №1304",
     "tikTvd": "22320002182639",
-    "tikName": "Ейская районная"
+    "tikName": "Ейская районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1305,
     "uikTvd": "4234054187194",
+    "uikName": "УИК №1305",
     "tikTvd": "22320002182639",
-    "tikName": "Ейская районная"
+    "tikName": "Ейская районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1306,
     "uikTvd": "4234054187195",
+    "uikName": "УИК №1306",
     "tikTvd": "22320002182639",
-    "tikName": "Ейская районная"
+    "tikName": "Ейская районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1307,
     "uikTvd": "4234054187196",
+    "uikName": "УИК №1307",
     "tikTvd": "22320002182639",
-    "tikName": "Ейская районная"
+    "tikName": "Ейская районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1308,
     "uikTvd": "4234054187197",
+    "uikName": "УИК №1308",
     "tikTvd": "22320002182639",
-    "tikName": "Ейская районная"
+    "tikName": "Ейская районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1309,
     "uikTvd": "4234054187198",
+    "uikName": "УИК №1309",
     "tikTvd": "22320002182639",
-    "tikName": "Ейская районная"
+    "tikName": "Ейская районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1310,
     "uikTvd": "4234054187199",
+    "uikName": "УИК №1310",
     "tikTvd": "22320002182639",
-    "tikName": "Ейская районная"
+    "tikName": "Ейская районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1311,
     "uikTvd": "4234054187200",
+    "uikName": "УИК №1311",
     "tikTvd": "22320002182639",
-    "tikName": "Ейская районная"
+    "tikName": "Ейская районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1312,
     "uikTvd": "4234054187201",
+    "uikName": "УИК №1312",
     "tikTvd": "22320002182639",
-    "tikName": "Ейская районная"
+    "tikName": "Ейская районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1313,
     "uikTvd": "4234054187202",
+    "uikName": "УИК №1313",
     "tikTvd": "22320002182639",
-    "tikName": "Ейская районная"
+    "tikName": "Ейская районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1314,
     "uikTvd": "4234054187203",
+    "uikName": "УИК №1314",
     "tikTvd": "22320002182639",
-    "tikName": "Ейская районная"
+    "tikName": "Ейская районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1315,
     "uikTvd": "4234054187204",
+    "uikName": "УИК №1315",
     "tikTvd": "22320002182639",
-    "tikName": "Ейская районная"
+    "tikName": "Ейская районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1316,
     "uikTvd": "4234054187205",
+    "uikName": "УИК №1316",
     "tikTvd": "22320002182639",
-    "tikName": "Ейская районная"
+    "tikName": "Ейская районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1317,
     "uikTvd": "4234054187206",
+    "uikName": "УИК №1317",
     "tikTvd": "22320002182639",
-    "tikName": "Ейская районная"
+    "tikName": "Ейская районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1318,
     "uikTvd": "4234054187207",
+    "uikName": "УИК №1318",
     "tikTvd": "22320002182639",
-    "tikName": "Ейская районная"
+    "tikName": "Ейская районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1319,
     "uikTvd": "4234054187208",
+    "uikName": "УИК №1319",
     "tikTvd": "22320002182639",
-    "tikName": "Ейская районная"
+    "tikName": "Ейская районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1320,
     "uikTvd": "4234054187209",
+    "uikName": "УИК №1320",
     "tikTvd": "22320002182639",
-    "tikName": "Ейская районная"
+    "tikName": "Ейская районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1321,
     "uikTvd": "4234054187210",
+    "uikName": "УИК №1321",
     "tikTvd": "22320002182639",
-    "tikName": "Ейская районная"
+    "tikName": "Ейская районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1322,
     "uikTvd": "4234054187211",
+    "uikName": "УИК №1322",
     "tikTvd": "22320002182639",
-    "tikName": "Ейская районная"
+    "tikName": "Ейская районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1323,
     "uikTvd": "4234054187212",
+    "uikName": "УИК №1323",
     "tikTvd": "22320002182639",
-    "tikName": "Ейская районная"
+    "tikName": "Ейская районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1324,
     "uikTvd": "4234054187213",
+    "uikName": "УИК №1324",
     "tikTvd": "22320002182639",
-    "tikName": "Ейская районная"
+    "tikName": "Ейская районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1325,
     "uikTvd": "4234054187214",
+    "uikName": "УИК №1325",
     "tikTvd": "22320002182639",
-    "tikName": "Ейская районная"
+    "tikName": "Ейская районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1326,
     "uikTvd": "4234054187215",
+    "uikName": "УИК №1326",
     "tikTvd": "22320002182639",
-    "tikName": "Ейская районная"
+    "tikName": "Ейская районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1401,
     "uikTvd": "4234012170699",
+    "uikName": "УИК №1401",
     "tikTvd": "22320002182675",
-    "tikName": "Ейская городская"
+    "tikName": "Ейская городская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1402,
     "uikTvd": "4234012170701",
+    "uikName": "УИК №1402",
     "tikTvd": "22320002182675",
-    "tikName": "Ейская городская"
+    "tikName": "Ейская городская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1403,
     "uikTvd": "4234012170703",
+    "uikName": "УИК №1403",
     "tikTvd": "22320002182675",
-    "tikName": "Ейская городская"
+    "tikName": "Ейская городская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1404,
     "uikTvd": "4234012170705",
+    "uikName": "УИК №1404",
     "tikTvd": "22320002182675",
-    "tikName": "Ейская городская"
+    "tikName": "Ейская городская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1405,
     "uikTvd": "4234012170707",
+    "uikName": "УИК №1405",
     "tikTvd": "22320002182675",
-    "tikName": "Ейская городская"
+    "tikName": "Ейская городская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1406,
     "uikTvd": "4234012170708",
+    "uikName": "УИК №1406",
     "tikTvd": "22320002182675",
-    "tikName": "Ейская городская"
+    "tikName": "Ейская городская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1407,
     "uikTvd": "4234012170709",
+    "uikName": "УИК №1407",
     "tikTvd": "22320002182675",
-    "tikName": "Ейская городская"
+    "tikName": "Ейская городская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1408,
     "uikTvd": "4234012170710",
+    "uikName": "УИК №1408",
     "tikTvd": "22320002182675",
-    "tikName": "Ейская городская"
+    "tikName": "Ейская городская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1409,
     "uikTvd": "4234012170711",
+    "uikName": "УИК №1409",
     "tikTvd": "22320002182675",
-    "tikName": "Ейская городская"
+    "tikName": "Ейская городская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1410,
     "uikTvd": "4234012170712",
+    "uikName": "УИК №1410",
     "tikTvd": "22320002182675",
-    "tikName": "Ейская городская"
+    "tikName": "Ейская городская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1411,
     "uikTvd": "4234012170713",
+    "uikName": "УИК №1411",
     "tikTvd": "22320002182675",
-    "tikName": "Ейская городская"
+    "tikName": "Ейская городская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1412,
     "uikTvd": "4234012170714",
+    "uikName": "УИК №1412",
     "tikTvd": "22320002182675",
-    "tikName": "Ейская городская"
+    "tikName": "Ейская городская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1413,
     "uikTvd": "4234012170715",
+    "uikName": "УИК №1413",
     "tikTvd": "22320002182675",
-    "tikName": "Ейская городская"
+    "tikName": "Ейская городская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1414,
     "uikTvd": "4234012170716",
+    "uikName": "УИК №1414",
     "tikTvd": "22320002182675",
-    "tikName": "Ейская городская"
+    "tikName": "Ейская городская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1415,
     "uikTvd": "4234012170717",
+    "uikName": "УИК №1415",
     "tikTvd": "22320002182675",
-    "tikName": "Ейская городская"
+    "tikName": "Ейская городская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1416,
     "uikTvd": "4234012170718",
+    "uikName": "УИК №1416",
     "tikTvd": "22320002182675",
-    "tikName": "Ейская городская"
+    "tikName": "Ейская городская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1417,
     "uikTvd": "4234012170719",
+    "uikName": "УИК №1417",
     "tikTvd": "22320002182675",
-    "tikName": "Ейская городская"
+    "tikName": "Ейская городская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1418,
     "uikTvd": "4234012170720",
+    "uikName": "УИК №1418",
     "tikTvd": "22320002182675",
-    "tikName": "Ейская городская"
+    "tikName": "Ейская городская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1419,
     "uikTvd": "4234012170721",
+    "uikName": "УИК №1419",
     "tikTvd": "22320002182675",
-    "tikName": "Ейская городская"
+    "tikName": "Ейская городская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1420,
     "uikTvd": "4234012170722",
+    "uikName": "УИК №1420",
     "tikTvd": "22320002182675",
-    "tikName": "Ейская городская"
+    "tikName": "Ейская городская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1421,
     "uikTvd": "4234012170723",
+    "uikName": "УИК №1421",
     "tikTvd": "22320002182675",
-    "tikName": "Ейская городская"
+    "tikName": "Ейская городская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1422,
     "uikTvd": "4234012170724",
+    "uikName": "УИК №1422",
     "tikTvd": "22320002182675",
-    "tikName": "Ейская городская"
+    "tikName": "Ейская городская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1423,
     "uikTvd": "4234012170725",
+    "uikName": "УИК №1423",
     "tikTvd": "22320002182675",
-    "tikName": "Ейская городская"
+    "tikName": "Ейская городская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1424,
     "uikTvd": "4234012170726",
+    "uikName": "УИК №1424",
     "tikTvd": "22320002182675",
-    "tikName": "Ейская городская"
+    "tikName": "Ейская городская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1425,
     "uikTvd": "4234012170727",
+    "uikName": "УИК №1425",
     "tikTvd": "22320002182675",
-    "tikName": "Ейская городская"
+    "tikName": "Ейская городская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1426,
     "uikTvd": "4234012170728",
+    "uikName": "УИК №1426",
     "tikTvd": "22320002182675",
-    "tikName": "Ейская городская"
+    "tikName": "Ейская городская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1427,
     "uikTvd": "4234012170729",
+    "uikName": "УИК №1427",
     "tikTvd": "22320002182675",
-    "tikName": "Ейская городская"
+    "tikName": "Ейская городская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1428,
     "uikTvd": "4234012170730",
+    "uikName": "УИК №1428",
     "tikTvd": "22320002182675",
-    "tikName": "Ейская городская"
+    "tikName": "Ейская городская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1429,
     "uikTvd": "4234012170731",
+    "uikName": "УИК №1429",
     "tikTvd": "22320002182675",
-    "tikName": "Ейская городская"
+    "tikName": "Ейская городская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1430,
     "uikTvd": "4234012170732",
+    "uikName": "УИК №1430",
     "tikTvd": "22320002182675",
-    "tikName": "Ейская городская"
+    "tikName": "Ейская городская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1431,
     "uikTvd": "4234012170733",
+    "uikName": "УИК №1431",
     "tikTvd": "22320002182675",
-    "tikName": "Ейская городская"
+    "tikName": "Ейская городская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1432,
     "uikTvd": "4234012170734",
+    "uikName": "УИК №1432",
     "tikTvd": "22320002182675",
-    "tikName": "Ейская городская"
+    "tikName": "Ейская городская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1433,
     "uikTvd": "4234012170735",
+    "uikName": "УИК №1433",
     "tikTvd": "22320002182675",
-    "tikName": "Ейская городская"
+    "tikName": "Ейская городская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1434,
     "uikTvd": "4234012170736",
+    "uikName": "УИК №1434",
     "tikTvd": "22320002182675",
-    "tikName": "Ейская городская"
+    "tikName": "Ейская городская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1435,
     "uikTvd": "4234012170737",
+    "uikName": "УИК №1435",
     "tikTvd": "22320002182675",
-    "tikName": "Ейская городская"
+    "tikName": "Ейская городская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1436,
     "uikTvd": "4234012170738",
+    "uikName": "УИК №1436",
     "tikTvd": "22320002182675",
-    "tikName": "Ейская городская"
+    "tikName": "Ейская городская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1437,
     "uikTvd": "4234012170739",
+    "uikName": "УИК №1437",
     "tikTvd": "22320002182675",
-    "tikName": "Ейская городская"
+    "tikName": "Ейская городская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1438,
     "uikTvd": "4234012170740",
+    "uikName": "УИК №1438",
     "tikTvd": "22320002182675",
-    "tikName": "Ейская городская"
+    "tikName": "Ейская городская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1439,
     "uikTvd": "4234012170741",
+    "uikName": "УИК №1439",
     "tikTvd": "22320002182675",
-    "tikName": "Ейская городская"
+    "tikName": "Ейская городская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1499,
     "uikTvd": "4234012171000",
+    "uikName": "УИК №1499",
     "tikTvd": "22320002182675",
-    "tikName": "Ейская городская"
+    "tikName": "Ейская городская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1501,
     "uikTvd": "4234013176655",
+    "uikName": "УИК №1501",
     "tikTvd": "22320002182652",
-    "tikName": "Кавказская"
+    "tikName": "Кавказская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1502,
     "uikTvd": "4234013176656",
+    "uikName": "УИК №1502",
     "tikTvd": "22320002182652",
-    "tikName": "Кавказская"
+    "tikName": "Кавказская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1503,
     "uikTvd": "4234013176657",
+    "uikName": "УИК №1503",
     "tikTvd": "22320002182652",
-    "tikName": "Кавказская"
+    "tikName": "Кавказская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1504,
     "uikTvd": "4234013176658",
+    "uikName": "УИК №1504",
     "tikTvd": "22320002182652",
-    "tikName": "Кавказская"
+    "tikName": "Кавказская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1505,
     "uikTvd": "4234013176659",
+    "uikName": "УИК №1505",
     "tikTvd": "22320002182652",
-    "tikName": "Кавказская"
+    "tikName": "Кавказская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1506,
     "uikTvd": "4234013176660",
+    "uikName": "УИК №1506",
     "tikTvd": "22320002182652",
-    "tikName": "Кавказская"
+    "tikName": "Кавказская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1507,
     "uikTvd": "4234013176661",
+    "uikName": "УИК №1507",
     "tikTvd": "22320002182652",
-    "tikName": "Кавказская"
+    "tikName": "Кавказская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1508,
     "uikTvd": "4234013176662",
+    "uikName": "УИК №1508",
     "tikTvd": "22320002182652",
-    "tikName": "Кавказская"
+    "tikName": "Кавказская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1509,
     "uikTvd": "4234013176663",
+    "uikName": "УИК №1509",
     "tikTvd": "22320002182652",
-    "tikName": "Кавказская"
+    "tikName": "Кавказская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1510,
     "uikTvd": "4234013176664",
+    "uikName": "УИК №1510",
     "tikTvd": "22320002182652",
-    "tikName": "Кавказская"
+    "tikName": "Кавказская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1511,
     "uikTvd": "4234013176665",
+    "uikName": "УИК №1511",
     "tikTvd": "22320002182652",
-    "tikName": "Кавказская"
+    "tikName": "Кавказская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1512,
     "uikTvd": "4234013176666",
+    "uikName": "УИК №1512",
     "tikTvd": "22320002182652",
-    "tikName": "Кавказская"
+    "tikName": "Кавказская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1513,
     "uikTvd": "4234013176667",
+    "uikName": "УИК №1513",
     "tikTvd": "22320002182652",
-    "tikName": "Кавказская"
+    "tikName": "Кавказская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1514,
     "uikTvd": "4234013176668",
+    "uikName": "УИК №1514",
     "tikTvd": "22320002182652",
-    "tikName": "Кавказская"
+    "tikName": "Кавказская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1515,
     "uikTvd": "4234013176669",
+    "uikName": "УИК №1515",
     "tikTvd": "22320002182652",
-    "tikName": "Кавказская"
+    "tikName": "Кавказская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1516,
     "uikTvd": "4234013176670",
+    "uikName": "УИК №1516",
     "tikTvd": "22320002182652",
-    "tikName": "Кавказская"
+    "tikName": "Кавказская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1517,
     "uikTvd": "4234013176671",
+    "uikName": "УИК №1517",
     "tikTvd": "22320002182652",
-    "tikName": "Кавказская"
+    "tikName": "Кавказская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1518,
     "uikTvd": "4234013176672",
+    "uikName": "УИК №1518",
     "tikTvd": "22320002182652",
-    "tikName": "Кавказская"
+    "tikName": "Кавказская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1519,
     "uikTvd": "4234013176673",
+    "uikName": "УИК №1519",
     "tikTvd": "22320002182652",
-    "tikName": "Кавказская"
+    "tikName": "Кавказская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1520,
     "uikTvd": "4234013176674",
+    "uikName": "УИК №1520",
     "tikTvd": "22320002182652",
-    "tikName": "Кавказская"
+    "tikName": "Кавказская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1521,
     "uikTvd": "4234013176675",
+    "uikName": "УИК №1521",
     "tikTvd": "22320002182652",
-    "tikName": "Кавказская"
+    "tikName": "Кавказская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1522,
     "uikTvd": "4234013176676",
+    "uikName": "УИК №1522",
     "tikTvd": "22320002182652",
-    "tikName": "Кавказская"
+    "tikName": "Кавказская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1523,
     "uikTvd": "4234013176677",
+    "uikName": "УИК №1523",
     "tikTvd": "22320002182652",
-    "tikName": "Кавказская"
+    "tikName": "Кавказская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1524,
     "uikTvd": "4234013176678",
+    "uikName": "УИК №1524",
     "tikTvd": "22320002182652",
-    "tikName": "Кавказская"
+    "tikName": "Кавказская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1601,
     "uikTvd": "4234014195160",
+    "uikName": "УИК №1601",
     "tikTvd": "22320002182638",
-    "tikName": "Калининская"
+    "tikName": "Калининская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1602,
     "uikTvd": "4234014195161",
+    "uikName": "УИК №1602",
     "tikTvd": "22320002182638",
-    "tikName": "Калининская"
+    "tikName": "Калининская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1603,
     "uikTvd": "4234014195162",
+    "uikName": "УИК №1603",
     "tikTvd": "22320002182638",
-    "tikName": "Калининская"
+    "tikName": "Калининская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1604,
     "uikTvd": "4234014195163",
+    "uikName": "УИК №1604",
     "tikTvd": "22320002182638",
-    "tikName": "Калининская"
+    "tikName": "Калининская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1605,
     "uikTvd": "4234014195164",
+    "uikName": "УИК №1605",
     "tikTvd": "22320002182638",
-    "tikName": "Калининская"
+    "tikName": "Калининская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1606,
     "uikTvd": "4234014195165",
+    "uikName": "УИК №1606",
     "tikTvd": "22320002182638",
-    "tikName": "Калининская"
+    "tikName": "Калининская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1607,
     "uikTvd": "4234014195166",
+    "uikName": "УИК №1607",
     "tikTvd": "22320002182638",
-    "tikName": "Калининская"
+    "tikName": "Калининская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1608,
     "uikTvd": "4234014195167",
+    "uikName": "УИК №1608",
     "tikTvd": "22320002182638",
-    "tikName": "Калининская"
+    "tikName": "Калининская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1609,
     "uikTvd": "4234014195168",
+    "uikName": "УИК №1609",
     "tikTvd": "22320002182638",
-    "tikName": "Калининская"
+    "tikName": "Калининская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1610,
     "uikTvd": "4234014195169",
+    "uikName": "УИК №1610",
     "tikTvd": "22320002182638",
-    "tikName": "Калининская"
+    "tikName": "Калининская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1611,
     "uikTvd": "4234014195170",
+    "uikName": "УИК №1611",
     "tikTvd": "22320002182638",
-    "tikName": "Калининская"
+    "tikName": "Калининская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1612,
     "uikTvd": "4234014195171",
+    "uikName": "УИК №1612",
     "tikTvd": "22320002182638",
-    "tikName": "Калининская"
+    "tikName": "Калининская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1613,
     "uikTvd": "4234014195172",
+    "uikName": "УИК №1613",
     "tikTvd": "22320002182638",
-    "tikName": "Калининская"
+    "tikName": "Калининская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1614,
     "uikTvd": "4234014195173",
+    "uikName": "УИК №1614",
     "tikTvd": "22320002182638",
-    "tikName": "Калининская"
+    "tikName": "Калининская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1615,
     "uikTvd": "4234014195174",
+    "uikName": "УИК №1615",
     "tikTvd": "22320002182638",
-    "tikName": "Калининская"
+    "tikName": "Калининская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1616,
     "uikTvd": "4234014195175",
+    "uikName": "УИК №1616",
     "tikTvd": "22320002182638",
-    "tikName": "Калининская"
+    "tikName": "Калининская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1617,
     "uikTvd": "4234014195176",
+    "uikName": "УИК №1617",
     "tikTvd": "22320002182638",
-    "tikName": "Калининская"
+    "tikName": "Калининская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1618,
     "uikTvd": "4234014195177",
+    "uikName": "УИК №1618",
     "tikTvd": "22320002182638",
-    "tikName": "Калининская"
+    "tikName": "Калининская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1619,
     "uikTvd": "4234014195178",
+    "uikName": "УИК №1619",
     "tikTvd": "22320002182638",
-    "tikName": "Калининская"
+    "tikName": "Калининская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1620,
     "uikTvd": "4234014195179",
+    "uikName": "УИК №1620",
     "tikTvd": "22320002182638",
-    "tikName": "Калининская"
+    "tikName": "Калининская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1621,
     "uikTvd": "4234014195180",
+    "uikName": "УИК №1621",
     "tikTvd": "22320002182638",
-    "tikName": "Калининская"
+    "tikName": "Калининская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1622,
     "uikTvd": "4234014195181",
+    "uikName": "УИК №1622",
     "tikTvd": "22320002182638",
-    "tikName": "Калининская"
+    "tikName": "Калининская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1623,
     "uikTvd": "4234014195182",
+    "uikName": "УИК №1623",
     "tikTvd": "22320002182638",
-    "tikName": "Калининская"
+    "tikName": "Калининская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1624,
     "uikTvd": "4234014195183",
+    "uikName": "УИК №1624",
     "tikTvd": "22320002182638",
-    "tikName": "Калининская"
+    "tikName": "Калининская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1625,
     "uikTvd": "4234014195184",
+    "uikName": "УИК №1625",
     "tikTvd": "22320002182638",
-    "tikName": "Калининская"
+    "tikName": "Калининская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1626,
     "uikTvd": "4234014195185",
+    "uikName": "УИК №1626",
     "tikTvd": "22320002182638",
-    "tikName": "Калининская"
+    "tikName": "Калининская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1701,
     "uikTvd": "4234015254265",
+    "uikName": "УИК №1701",
     "tikTvd": "22320002182671",
-    "tikName": "Каневская"
+    "tikName": "Каневская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1702,
     "uikTvd": "4234015254266",
+    "uikName": "УИК №1702",
     "tikTvd": "22320002182671",
-    "tikName": "Каневская"
+    "tikName": "Каневская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1703,
     "uikTvd": "4234015254267",
+    "uikName": "УИК №1703",
     "tikTvd": "22320002182671",
-    "tikName": "Каневская"
+    "tikName": "Каневская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1704,
     "uikTvd": "4234015254268",
+    "uikName": "УИК №1704",
     "tikTvd": "22320002182671",
-    "tikName": "Каневская"
+    "tikName": "Каневская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1705,
     "uikTvd": "4234015254269",
+    "uikName": "УИК №1705",
     "tikTvd": "22320002182671",
-    "tikName": "Каневская"
+    "tikName": "Каневская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1706,
     "uikTvd": "4234015254270",
+    "uikName": "УИК №1706",
     "tikTvd": "22320002182671",
-    "tikName": "Каневская"
+    "tikName": "Каневская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1707,
     "uikTvd": "4234015254271",
+    "uikName": "УИК №1707",
     "tikTvd": "22320002182671",
-    "tikName": "Каневская"
+    "tikName": "Каневская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1708,
     "uikTvd": "4234015254272",
+    "uikName": "УИК №1708",
     "tikTvd": "22320002182671",
-    "tikName": "Каневская"
+    "tikName": "Каневская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1709,
     "uikTvd": "4234015254273",
+    "uikName": "УИК №1709",
     "tikTvd": "22320002182671",
-    "tikName": "Каневская"
+    "tikName": "Каневская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1710,
     "uikTvd": "4234015254274",
+    "uikName": "УИК №1710",
     "tikTvd": "22320002182671",
-    "tikName": "Каневская"
+    "tikName": "Каневская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1711,
     "uikTvd": "4234015254275",
+    "uikName": "УИК №1711",
     "tikTvd": "22320002182671",
-    "tikName": "Каневская"
+    "tikName": "Каневская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1712,
     "uikTvd": "4234015254276",
+    "uikName": "УИК №1712",
     "tikTvd": "22320002182671",
-    "tikName": "Каневская"
+    "tikName": "Каневская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1713,
     "uikTvd": "4234015254277",
+    "uikName": "УИК №1713",
     "tikTvd": "22320002182671",
-    "tikName": "Каневская"
+    "tikName": "Каневская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1714,
     "uikTvd": "4234015254278",
+    "uikName": "УИК №1714",
     "tikTvd": "22320002182671",
-    "tikName": "Каневская"
+    "tikName": "Каневская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1715,
     "uikTvd": "4234015254279",
+    "uikName": "УИК №1715",
     "tikTvd": "22320002182671",
-    "tikName": "Каневская"
+    "tikName": "Каневская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1716,
     "uikTvd": "4234015254280",
+    "uikName": "УИК №1716",
     "tikTvd": "22320002182671",
-    "tikName": "Каневская"
+    "tikName": "Каневская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1717,
     "uikTvd": "4234015254281",
+    "uikName": "УИК №1717",
     "tikTvd": "22320002182671",
-    "tikName": "Каневская"
+    "tikName": "Каневская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1718,
     "uikTvd": "4234015254282",
+    "uikName": "УИК №1718",
     "tikTvd": "22320002182671",
-    "tikName": "Каневская"
+    "tikName": "Каневская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1719,
     "uikTvd": "4234015254283",
+    "uikName": "УИК №1719",
     "tikTvd": "22320002182671",
-    "tikName": "Каневская"
+    "tikName": "Каневская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1720,
     "uikTvd": "4234015254284",
+    "uikName": "УИК №1720",
     "tikTvd": "22320002182671",
-    "tikName": "Каневская"
+    "tikName": "Каневская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1721,
     "uikTvd": "4234015254285",
+    "uikName": "УИК №1721",
     "tikTvd": "22320002182671",
-    "tikName": "Каневская"
+    "tikName": "Каневская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1722,
     "uikTvd": "4234015254286",
+    "uikName": "УИК №1722",
     "tikTvd": "22320002182671",
-    "tikName": "Каневская"
+    "tikName": "Каневская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1723,
     "uikTvd": "4234015254287",
+    "uikName": "УИК №1723",
     "tikTvd": "22320002182671",
-    "tikName": "Каневская"
+    "tikName": "Каневская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1724,
     "uikTvd": "4234015254288",
+    "uikName": "УИК №1724",
     "tikTvd": "22320002182671",
-    "tikName": "Каневская"
+    "tikName": "Каневская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1725,
     "uikTvd": "4234015254289",
+    "uikName": "УИК №1725",
     "tikTvd": "22320002182671",
-    "tikName": "Каневская"
+    "tikName": "Каневская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1726,
     "uikTvd": "4234015254290",
+    "uikName": "УИК №1726",
     "tikTvd": "22320002182671",
-    "tikName": "Каневская"
+    "tikName": "Каневская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1727,
     "uikTvd": "4234015254291",
+    "uikName": "УИК №1727",
     "tikTvd": "22320002182671",
-    "tikName": "Каневская"
+    "tikName": "Каневская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1728,
     "uikTvd": "4234015254292",
+    "uikName": "УИК №1728",
     "tikTvd": "22320002182671",
-    "tikName": "Каневская"
+    "tikName": "Каневская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1729,
     "uikTvd": "4234015254293",
+    "uikName": "УИК №1729",
     "tikTvd": "22320002182671",
-    "tikName": "Каневская"
+    "tikName": "Каневская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1730,
     "uikTvd": "4234015254294",
+    "uikName": "УИК №1730",
     "tikTvd": "22320002182671",
-    "tikName": "Каневская"
+    "tikName": "Каневская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1731,
     "uikTvd": "4234015254295",
+    "uikName": "УИК №1731",
     "tikTvd": "22320002182671",
-    "tikName": "Каневская"
+    "tikName": "Каневская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1732,
     "uikTvd": "4234015254296",
+    "uikName": "УИК №1732",
     "tikTvd": "22320002182671",
-    "tikName": "Каневская"
+    "tikName": "Каневская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1733,
     "uikTvd": "4234015254297",
+    "uikName": "УИК №1733",
     "tikTvd": "22320002182671",
-    "tikName": "Каневская"
+    "tikName": "Каневская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1734,
     "uikTvd": "4234015254298",
+    "uikName": "УИК №1734",
     "tikTvd": "22320002182671",
-    "tikName": "Каневская"
+    "tikName": "Каневская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1735,
     "uikTvd": "4234015254299",
+    "uikName": "УИК №1735",
     "tikTvd": "22320002182671",
-    "tikName": "Каневская"
+    "tikName": "Каневская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1736,
     "uikTvd": "4234015254300",
+    "uikName": "УИК №1736",
     "tikTvd": "22320002182671",
-    "tikName": "Каневская"
+    "tikName": "Каневская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1737,
     "uikTvd": "4234015254301",
+    "uikName": "УИК №1737",
     "tikTvd": "22320002182671",
-    "tikName": "Каневская"
+    "tikName": "Каневская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1738,
     "uikTvd": "4234015254302",
+    "uikName": "УИК №1738",
     "tikTvd": "22320002182671",
-    "tikName": "Каневская"
+    "tikName": "Каневская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1739,
     "uikTvd": "4234015254303",
+    "uikName": "УИК №1739",
     "tikTvd": "22320002182671",
-    "tikName": "Каневская"
+    "tikName": "Каневская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1740,
     "uikTvd": "4234015254304",
+    "uikName": "УИК №1740",
     "tikTvd": "22320002182671",
-    "tikName": "Каневская"
+    "tikName": "Каневская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1741,
     "uikTvd": "4234015254305",
+    "uikName": "УИК №1741",
     "tikTvd": "22320002182671",
-    "tikName": "Каневская"
+    "tikName": "Каневская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1742,
     "uikTvd": "4234015254306",
+    "uikName": "УИК №1742",
     "tikTvd": "22320002182671",
-    "tikName": "Каневская"
+    "tikName": "Каневская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1743,
     "uikTvd": "4234015254307",
+    "uikName": "УИК №1743",
     "tikTvd": "22320002182671",
-    "tikName": "Каневская"
+    "tikName": "Каневская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1744,
     "uikTvd": "4234015254308",
+    "uikName": "УИК №1744",
     "tikTvd": "22320002182671",
-    "tikName": "Каневская"
+    "tikName": "Каневская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1745,
     "uikTvd": "4234015254309",
+    "uikName": "УИК №1745",
     "tikTvd": "22320002182671",
-    "tikName": "Каневская"
+    "tikName": "Каневская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1746,
     "uikTvd": "4234015254310",
+    "uikName": "УИК №1746",
     "tikTvd": "22320002182671",
-    "tikName": "Каневская"
+    "tikName": "Каневская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1747,
     "uikTvd": "4234015254311",
+    "uikName": "УИК №1747",
     "tikTvd": "22320002182671",
-    "tikName": "Каневская"
+    "tikName": "Каневская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1748,
     "uikTvd": "4234015254312",
+    "uikName": "УИК №1748",
     "tikTvd": "22320002182671",
-    "tikName": "Каневская"
+    "tikName": "Каневская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1749,
     "uikTvd": "4234015254313",
+    "uikName": "УИК №1749",
     "tikTvd": "22320002182671",
-    "tikName": "Каневская"
+    "tikName": "Каневская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1750,
     "uikTvd": "4234015254314",
+    "uikName": "УИК №1750",
     "tikTvd": "22320002182671",
-    "tikName": "Каневская"
+    "tikName": "Каневская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1751,
     "uikTvd": "4234015254315",
+    "uikName": "УИК №1751",
     "tikTvd": "22320002182671",
-    "tikName": "Каневская"
+    "tikName": "Каневская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1752,
     "uikTvd": "4234015254316",
+    "uikName": "УИК №1752",
     "tikTvd": "22320002182671",
-    "tikName": "Каневская"
+    "tikName": "Каневская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1753,
     "uikTvd": "4234015254317",
+    "uikName": "УИК №1753",
     "tikTvd": "22320002182671",
-    "tikName": "Каневская"
+    "tikName": "Каневская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1801,
     "uikTvd": "4234016278701",
+    "uikName": "УИК №1801",
     "tikTvd": "22320002182655",
-    "tikName": "Кореновская"
+    "tikName": "Кореновская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1802,
     "uikTvd": "4234016278702",
+    "uikName": "УИК №1802",
     "tikTvd": "22320002182655",
-    "tikName": "Кореновская"
+    "tikName": "Кореновская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1803,
     "uikTvd": "4234016278703",
+    "uikName": "УИК №1803",
     "tikTvd": "22320002182655",
-    "tikName": "Кореновская"
+    "tikName": "Кореновская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1804,
     "uikTvd": "4234016278704",
+    "uikName": "УИК №1804",
     "tikTvd": "22320002182655",
-    "tikName": "Кореновская"
+    "tikName": "Кореновская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1805,
     "uikTvd": "4234016278705",
+    "uikName": "УИК №1805",
     "tikTvd": "22320002182655",
-    "tikName": "Кореновская"
+    "tikName": "Кореновская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1806,
     "uikTvd": "4234016278706",
+    "uikName": "УИК №1806",
     "tikTvd": "22320002182655",
-    "tikName": "Кореновская"
+    "tikName": "Кореновская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1807,
     "uikTvd": "4234016278707",
+    "uikName": "УИК №1807",
     "tikTvd": "22320002182655",
-    "tikName": "Кореновская"
+    "tikName": "Кореновская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1808,
     "uikTvd": "4234016278708",
+    "uikName": "УИК №1808",
     "tikTvd": "22320002182655",
-    "tikName": "Кореновская"
+    "tikName": "Кореновская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1809,
     "uikTvd": "4234016278709",
+    "uikName": "УИК №1809",
     "tikTvd": "22320002182655",
-    "tikName": "Кореновская"
+    "tikName": "Кореновская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1810,
     "uikTvd": "4234016278710",
+    "uikName": "УИК №1810",
     "tikTvd": "22320002182655",
-    "tikName": "Кореновская"
+    "tikName": "Кореновская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1811,
     "uikTvd": "4234016278711",
+    "uikName": "УИК №1811",
     "tikTvd": "22320002182655",
-    "tikName": "Кореновская"
+    "tikName": "Кореновская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1812,
     "uikTvd": "4234016278712",
+    "uikName": "УИК №1812",
     "tikTvd": "22320002182655",
-    "tikName": "Кореновская"
+    "tikName": "Кореновская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1813,
     "uikTvd": "4234016278713",
+    "uikName": "УИК №1813",
     "tikTvd": "22320002182655",
-    "tikName": "Кореновская"
+    "tikName": "Кореновская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1814,
     "uikTvd": "4234016278714",
+    "uikName": "УИК №1814",
     "tikTvd": "22320002182655",
-    "tikName": "Кореновская"
+    "tikName": "Кореновская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1815,
     "uikTvd": "4234016278715",
+    "uikName": "УИК №1815",
     "tikTvd": "22320002182655",
-    "tikName": "Кореновская"
+    "tikName": "Кореновская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1816,
     "uikTvd": "4234016278716",
+    "uikName": "УИК №1816",
     "tikTvd": "22320002182655",
-    "tikName": "Кореновская"
+    "tikName": "Кореновская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1817,
     "uikTvd": "4234016278717",
+    "uikName": "УИК №1817",
     "tikTvd": "22320002182655",
-    "tikName": "Кореновская"
+    "tikName": "Кореновская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1818,
     "uikTvd": "4234016278718",
+    "uikName": "УИК №1818",
     "tikTvd": "22320002182655",
-    "tikName": "Кореновская"
+    "tikName": "Кореновская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1819,
     "uikTvd": "4234016278719",
+    "uikName": "УИК №1819",
     "tikTvd": "22320002182655",
-    "tikName": "Кореновская"
+    "tikName": "Кореновская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1820,
     "uikTvd": "4234016278720",
+    "uikName": "УИК №1820",
     "tikTvd": "22320002182655",
-    "tikName": "Кореновская"
+    "tikName": "Кореновская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1821,
     "uikTvd": "4234016278721",
+    "uikName": "УИК №1821",
     "tikTvd": "22320002182655",
-    "tikName": "Кореновская"
+    "tikName": "Кореновская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1822,
     "uikTvd": "4234016278722",
+    "uikName": "УИК №1822",
     "tikTvd": "22320002182655",
-    "tikName": "Кореновская"
+    "tikName": "Кореновская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1823,
     "uikTvd": "4234016278723",
+    "uikName": "УИК №1823",
     "tikTvd": "22320002182655",
-    "tikName": "Кореновская"
+    "tikName": "Кореновская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1824,
     "uikTvd": "4234016278724",
+    "uikName": "УИК №1824",
     "tikTvd": "22320002182655",
-    "tikName": "Кореновская"
+    "tikName": "Кореновская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1825,
     "uikTvd": "4234016278725",
+    "uikName": "УИК №1825",
     "tikTvd": "22320002182655",
-    "tikName": "Кореновская"
+    "tikName": "Кореновская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1826,
     "uikTvd": "4234016278726",
+    "uikName": "УИК №1826",
     "tikTvd": "22320002182655",
-    "tikName": "Кореновская"
+    "tikName": "Кореновская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1827,
     "uikTvd": "4234016278727",
+    "uikName": "УИК №1827",
     "tikTvd": "22320002182655",
-    "tikName": "Кореновская"
+    "tikName": "Кореновская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1828,
     "uikTvd": "4234016278728",
+    "uikName": "УИК №1828",
     "tikTvd": "22320002182655",
-    "tikName": "Кореновская"
+    "tikName": "Кореновская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1829,
     "uikTvd": "4234016278729",
+    "uikName": "УИК №1829",
     "tikTvd": "22320002182655",
-    "tikName": "Кореновская"
+    "tikName": "Кореновская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1830,
     "uikTvd": "4234016278730",
+    "uikName": "УИК №1830",
     "tikTvd": "22320002182655",
-    "tikName": "Кореновская"
+    "tikName": "Кореновская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1831,
     "uikTvd": "4234016278731",
+    "uikName": "УИК №1831",
     "tikTvd": "22320002182655",
-    "tikName": "Кореновская"
+    "tikName": "Кореновская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1832,
     "uikTvd": "4234016278732",
+    "uikName": "УИК №1832",
     "tikTvd": "22320002182655",
-    "tikName": "Кореновская"
+    "tikName": "Кореновская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1833,
     "uikTvd": "4234016278733",
+    "uikName": "УИК №1833",
     "tikTvd": "22320002182655",
-    "tikName": "Кореновская"
+    "tikName": "Кореновская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1834,
     "uikTvd": "4234016278734",
+    "uikName": "УИК №1834",
     "tikTvd": "22320002182655",
-    "tikName": "Кореновская"
+    "tikName": "Кореновская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1835,
     "uikTvd": "4234016278735",
+    "uikName": "УИК №1835",
     "tikTvd": "22320002182655",
-    "tikName": "Кореновская"
+    "tikName": "Кореновская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1836,
     "uikTvd": "4234016278736",
+    "uikName": "УИК №1836",
     "tikTvd": "22320002182655",
-    "tikName": "Кореновская"
+    "tikName": "Кореновская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1837,
     "uikTvd": "4234016278737",
+    "uikName": "УИК №1837",
     "tikTvd": "22320002182655",
-    "tikName": "Кореновская"
+    "tikName": "Кореновская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1838,
     "uikTvd": "4234016278738",
+    "uikName": "УИК №1838",
     "tikTvd": "22320002182655",
-    "tikName": "Кореновская"
+    "tikName": "Кореновская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1839,
     "uikTvd": "4234016278739",
+    "uikName": "УИК №1839",
     "tikTvd": "22320002182655",
-    "tikName": "Кореновская"
+    "tikName": "Кореновская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1840,
     "uikTvd": "4234016278740",
+    "uikName": "УИК №1840",
     "tikTvd": "22320002182655",
-    "tikName": "Кореновская"
+    "tikName": "Кореновская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1841,
     "uikTvd": "4234016278741",
+    "uikName": "УИК №1841",
     "tikTvd": "22320002182655",
-    "tikName": "Кореновская"
+    "tikName": "Кореновская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1842,
     "uikTvd": "4234016278742",
+    "uikName": "УИК №1842",
     "tikTvd": "22320002182655",
-    "tikName": "Кореновская"
+    "tikName": "Кореновская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1843,
     "uikTvd": "4234016278743",
+    "uikName": "УИК №1843",
     "tikTvd": "22320002182655",
-    "tikName": "Кореновская"
+    "tikName": "Кореновская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1844,
     "uikTvd": "4234016278744",
+    "uikName": "УИК №1844",
     "tikTvd": "22320002182655",
-    "tikName": "Кореновская"
+    "tikName": "Кореновская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1845,
     "uikTvd": "4234016278745",
+    "uikName": "УИК №1845",
     "tikTvd": "22320002182655",
-    "tikName": "Кореновская"
+    "tikName": "Кореновская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1846,
     "uikTvd": "4234016278746",
+    "uikName": "УИК №1846",
     "tikTvd": "22320002182655",
-    "tikName": "Кореновская"
+    "tikName": "Кореновская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1847,
     "uikTvd": "4234016278747",
+    "uikName": "УИК №1847",
     "tikTvd": "22320002182655",
-    "tikName": "Кореновская"
+    "tikName": "Кореновская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1848,
     "uikTvd": "4234016278748",
+    "uikName": "УИК №1848",
     "tikTvd": "22320002182655",
-    "tikName": "Кореновская"
+    "tikName": "Кореновская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1849,
     "uikTvd": "4234016278749",
+    "uikName": "УИК №1849",
     "tikTvd": "22320002182655",
-    "tikName": "Кореновская"
+    "tikName": "Кореновская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1850,
     "uikTvd": "4234016278750",
+    "uikName": "УИК №1850",
     "tikTvd": "22320002182655",
-    "tikName": "Кореновская"
+    "tikName": "Кореновская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1851,
     "uikTvd": "4234016278751",
+    "uikName": "УИК №1851",
     "tikTvd": "22320002182655",
-    "tikName": "Кореновская"
+    "tikName": "Кореновская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1852,
     "uikTvd": "4234016278752",
+    "uikName": "УИК №1852",
     "tikTvd": "22320002182655",
-    "tikName": "Кореновская"
+    "tikName": "Кореновская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1853,
     "uikTvd": "4234016278753",
+    "uikName": "УИК №1853",
     "tikTvd": "22320002182655",
-    "tikName": "Кореновская"
+    "tikName": "Кореновская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1854,
     "uikTvd": "4234016278754",
+    "uikName": "УИК №1854",
     "tikTvd": "22320002182655",
-    "tikName": "Кореновская"
+    "tikName": "Кореновская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1855,
     "uikTvd": "4234016278755",
+    "uikName": "УИК №1855",
     "tikTvd": "22320002182655",
-    "tikName": "Кореновская"
+    "tikName": "Кореновская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1856,
     "uikTvd": "4234016278756",
+    "uikName": "УИК №1856",
     "tikTvd": "22320002182655",
-    "tikName": "Кореновская"
+    "tikName": "Кореновская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1857,
     "uikTvd": "4234016278757",
+    "uikName": "УИК №1857",
     "tikTvd": "22320002182655",
-    "tikName": "Кореновская"
+    "tikName": "Кореновская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1901,
     "uikTvd": "4234017262890",
+    "uikName": "УИК №1901",
     "tikTvd": "22320002182670",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1902,
     "uikTvd": "4234017262891",
+    "uikName": "УИК №1902",
     "tikTvd": "22320002182670",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1903,
     "uikTvd": "4234017262892",
+    "uikName": "УИК №1903",
     "tikTvd": "22320002182670",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1904,
     "uikTvd": "4234017262893",
+    "uikName": "УИК №1904",
     "tikTvd": "22320002182670",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1905,
     "uikTvd": "4234017262894",
+    "uikName": "УИК №1905",
     "tikTvd": "22320002182670",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1906,
     "uikTvd": "4234017262895",
+    "uikName": "УИК №1906",
     "tikTvd": "22320002182670",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1907,
     "uikTvd": "4234017262896",
+    "uikName": "УИК №1907",
     "tikTvd": "22320002182670",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1908,
     "uikTvd": "4234017262897",
+    "uikName": "УИК №1908",
     "tikTvd": "22320002182670",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1909,
     "uikTvd": "4234017262898",
+    "uikName": "УИК №1909",
     "tikTvd": "22320002182670",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1910,
     "uikTvd": "4234017262899",
+    "uikName": "УИК №1910",
     "tikTvd": "22320002182670",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1911,
     "uikTvd": "4234017262900",
+    "uikName": "УИК №1911",
     "tikTvd": "22320002182670",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1912,
     "uikTvd": "4234017262901",
+    "uikName": "УИК №1912",
     "tikTvd": "22320002182670",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1913,
     "uikTvd": "4234017262902",
+    "uikName": "УИК №1913",
     "tikTvd": "22320002182670",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1914,
     "uikTvd": "4234017262903",
+    "uikName": "УИК №1914",
     "tikTvd": "22320002182670",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1915,
     "uikTvd": "4234017262904",
+    "uikName": "УИК №1915",
     "tikTvd": "22320002182670",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1916,
     "uikTvd": "4234017262905",
+    "uikName": "УИК №1916",
     "tikTvd": "22320002182670",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1917,
     "uikTvd": "4234017262906",
+    "uikName": "УИК №1917",
     "tikTvd": "22320002182670",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1918,
     "uikTvd": "4234017262907",
+    "uikName": "УИК №1918",
     "tikTvd": "22320002182670",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1919,
     "uikTvd": "4234017262908",
+    "uikName": "УИК №1919",
     "tikTvd": "22320002182670",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1920,
     "uikTvd": "4234017262909",
+    "uikName": "УИК №1920",
     "tikTvd": "22320002182670",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1921,
     "uikTvd": "4234017262910",
+    "uikName": "УИК №1921",
     "tikTvd": "22320002182670",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1922,
     "uikTvd": "4234017262911",
+    "uikName": "УИК №1922",
     "tikTvd": "22320002182670",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1923,
     "uikTvd": "4234017262912",
+    "uikName": "УИК №1923",
     "tikTvd": "22320002182670",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1924,
     "uikTvd": "4234017262913",
+    "uikName": "УИК №1924",
     "tikTvd": "22320002182670",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1925,
     "uikTvd": "4234017262914",
+    "uikName": "УИК №1925",
     "tikTvd": "22320002182670",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1926,
     "uikTvd": "4234017262915",
+    "uikName": "УИК №1926",
     "tikTvd": "22320002182670",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1927,
     "uikTvd": "4234017262916",
+    "uikName": "УИК №1927",
     "tikTvd": "22320002182670",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1928,
     "uikTvd": "4234017262917",
+    "uikName": "УИК №1928",
     "tikTvd": "22320002182670",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1929,
     "uikTvd": "4234017262918",
+    "uikName": "УИК №1929",
     "tikTvd": "22320002182670",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1930,
     "uikTvd": "4234017262919",
+    "uikName": "УИК №1930",
     "tikTvd": "22320002182670",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1931,
     "uikTvd": "4234017262920",
+    "uikName": "УИК №1931",
     "tikTvd": "22320002182670",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1932,
     "uikTvd": "4234017262921",
+    "uikName": "УИК №1932",
     "tikTvd": "22320002182670",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1933,
     "uikTvd": "4234017262922",
+    "uikName": "УИК №1933",
     "tikTvd": "22320002182670",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1934,
     "uikTvd": "4234017262923",
+    "uikName": "УИК №1934",
     "tikTvd": "22320002182670",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1935,
     "uikTvd": "4234017262924",
+    "uikName": "УИК №1935",
     "tikTvd": "22320002182670",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1936,
     "uikTvd": "4234017262925",
+    "uikName": "УИК №1936",
     "tikTvd": "22320002182670",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1937,
     "uikTvd": "4234017262926",
+    "uikName": "УИК №1937",
     "tikTvd": "22320002182670",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1938,
     "uikTvd": "4234017262927",
+    "uikName": "УИК №1938",
     "tikTvd": "22320002182670",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1939,
     "uikTvd": "4234017262928",
+    "uikName": "УИК №1939",
     "tikTvd": "22320002182670",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1940,
     "uikTvd": "4234017262929",
+    "uikName": "УИК №1940",
     "tikTvd": "22320002182670",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1941,
     "uikTvd": "4234017262930",
+    "uikName": "УИК №1941",
     "tikTvd": "22320002182670",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1942,
     "uikTvd": "4234017262931",
+    "uikName": "УИК №1942",
     "tikTvd": "22320002182670",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1943,
     "uikTvd": "4234017262932",
+    "uikName": "УИК №1943",
     "tikTvd": "22320002182670",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1944,
     "uikTvd": "4234017262933",
+    "uikName": "УИК №1944",
     "tikTvd": "22320002182670",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1945,
     "uikTvd": "4234017262934",
+    "uikName": "УИК №1945",
     "tikTvd": "22320002182670",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1946,
     "uikTvd": "4234017262935",
+    "uikName": "УИК №1946",
     "tikTvd": "22320002182670",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1947,
     "uikTvd": "4234017262936",
+    "uikName": "УИК №1947",
     "tikTvd": "22320002182670",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1948,
     "uikTvd": "4234017262937",
+    "uikName": "УИК №1948",
     "tikTvd": "22320002182670",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1949,
     "uikTvd": "4234017262938",
+    "uikName": "УИК №1949",
     "tikTvd": "22320002182670",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1950,
     "uikTvd": "4234017262939",
+    "uikName": "УИК №1950",
     "tikTvd": "22320002182670",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1951,
     "uikTvd": "4234017262940",
+    "uikName": "УИК №1951",
     "tikTvd": "22320002182670",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1952,
     "uikTvd": "4234017262941",
+    "uikName": "УИК №1952",
     "tikTvd": "22320002182670",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1953,
     "uikTvd": "4234017262942",
+    "uikName": "УИК №1953",
     "tikTvd": "22320002182670",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1954,
     "uikTvd": "4234017262943",
+    "uikName": "УИК №1954",
     "tikTvd": "22320002182670",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1955,
     "uikTvd": "4234017262944",
+    "uikName": "УИК №1955",
     "tikTvd": "22320002182670",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1956,
     "uikTvd": "4234017262945",
+    "uikName": "УИК №1956",
     "tikTvd": "22320002182670",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1957,
     "uikTvd": "4234017262946",
+    "uikName": "УИК №1957",
     "tikTvd": "22320002182670",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1958,
     "uikTvd": "4234017262947",
+    "uikName": "УИК №1958",
     "tikTvd": "22320002182670",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1959,
     "uikTvd": "4234017262948",
+    "uikName": "УИК №1959",
     "tikTvd": "22320002182670",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1960,
     "uikTvd": "4234017262949",
+    "uikName": "УИК №1960",
     "tikTvd": "22320002182670",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1961,
     "uikTvd": "4234017262950",
+    "uikName": "УИК №1961",
     "tikTvd": "22320002182670",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1962,
     "uikTvd": "4234017262951",
+    "uikName": "УИК №1962",
     "tikTvd": "22320002182670",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1963,
     "uikTvd": "4234017262952",
+    "uikName": "УИК №1963",
     "tikTvd": "22320002182670",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1964,
     "uikTvd": "4234017262953",
+    "uikName": "УИК №1964",
     "tikTvd": "22320002182670",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1965,
     "uikTvd": "4234017262954",
+    "uikName": "УИК №1965",
     "tikTvd": "22320002182670",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 1966,
     "uikTvd": "4234017262955",
+    "uikName": "УИК №1966",
     "tikTvd": "22320002182670",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2001,
     "uikTvd": "4234018245980",
+    "uikName": "УИК №2001",
     "tikTvd": "22320002182641",
-    "tikName": "Краснодар, Западная"
+    "tikName": "Краснодар, Западная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2002,
     "uikTvd": "4234018245981",
+    "uikName": "УИК №2002",
     "tikTvd": "22320002182641",
-    "tikName": "Краснодар, Западная"
+    "tikName": "Краснодар, Западная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2003,
     "uikTvd": "4234018245982",
+    "uikName": "УИК №2003",
     "tikTvd": "22320002182641",
-    "tikName": "Краснодар, Западная"
+    "tikName": "Краснодар, Западная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2004,
     "uikTvd": "4234018245983",
+    "uikName": "УИК №2004",
     "tikTvd": "22320002182641",
-    "tikName": "Краснодар, Западная"
+    "tikName": "Краснодар, Западная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2005,
     "uikTvd": "4234018245984",
+    "uikName": "УИК №2005",
     "tikTvd": "22320002182641",
-    "tikName": "Краснодар, Западная"
+    "tikName": "Краснодар, Западная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2006,
     "uikTvd": "4234018245985",
+    "uikName": "УИК №2006",
     "tikTvd": "22320002182641",
-    "tikName": "Краснодар, Западная"
+    "tikName": "Краснодар, Западная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2007,
     "uikTvd": "4234018245986",
+    "uikName": "УИК №2007",
     "tikTvd": "22320002182641",
-    "tikName": "Краснодар, Западная"
+    "tikName": "Краснодар, Западная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2008,
     "uikTvd": "4234018245987",
+    "uikName": "УИК №2008",
     "tikTvd": "22320002182641",
-    "tikName": "Краснодар, Западная"
+    "tikName": "Краснодар, Западная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2009,
     "uikTvd": "4234018245988",
+    "uikName": "УИК №2009",
     "tikTvd": "22320002182641",
-    "tikName": "Краснодар, Западная"
+    "tikName": "Краснодар, Западная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2010,
     "uikTvd": "4234018245989",
+    "uikName": "УИК №2010",
     "tikTvd": "22320002182641",
-    "tikName": "Краснодар, Западная"
+    "tikName": "Краснодар, Западная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2011,
     "uikTvd": "4234018245990",
+    "uikName": "УИК №2011",
     "tikTvd": "22320002182641",
-    "tikName": "Краснодар, Западная"
+    "tikName": "Краснодар, Западная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2012,
     "uikTvd": "4234018245991",
+    "uikName": "УИК №2012",
     "tikTvd": "22320002182641",
-    "tikName": "Краснодар, Западная"
+    "tikName": "Краснодар, Западная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2013,
     "uikTvd": "4234018245992",
+    "uikName": "УИК №2013",
     "tikTvd": "22320002182641",
-    "tikName": "Краснодар, Западная"
+    "tikName": "Краснодар, Западная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2014,
     "uikTvd": "4234018245993",
+    "uikName": "УИК №2014",
     "tikTvd": "22320002182641",
-    "tikName": "Краснодар, Западная"
+    "tikName": "Краснодар, Западная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2015,
     "uikTvd": "4234018245994",
+    "uikName": "УИК №2015",
     "tikTvd": "22320002182641",
-    "tikName": "Краснодар, Западная"
+    "tikName": "Краснодар, Западная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2016,
     "uikTvd": "4234018245995",
+    "uikName": "УИК №2016",
     "tikTvd": "22320002182641",
-    "tikName": "Краснодар, Западная"
+    "tikName": "Краснодар, Западная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2017,
     "uikTvd": "4234018245996",
+    "uikName": "УИК №2017",
     "tikTvd": "22320002182641",
-    "tikName": "Краснодар, Западная"
+    "tikName": "Краснодар, Западная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2018,
     "uikTvd": "4234018245997",
+    "uikName": "УИК №2018",
     "tikTvd": "22320002182641",
-    "tikName": "Краснодар, Западная"
+    "tikName": "Краснодар, Западная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2019,
     "uikTvd": "4234018245998",
+    "uikName": "УИК №2019",
     "tikTvd": "22320002182641",
-    "tikName": "Краснодар, Западная"
+    "tikName": "Краснодар, Западная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2020,
     "uikTvd": "4234018245999",
+    "uikName": "УИК №2020",
     "tikTvd": "22320002182641",
-    "tikName": "Краснодар, Западная"
+    "tikName": "Краснодар, Западная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2021,
     "uikTvd": "4234018246000",
+    "uikName": "УИК №2021",
     "tikTvd": "22320002182641",
-    "tikName": "Краснодар, Западная"
+    "tikName": "Краснодар, Западная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2022,
     "uikTvd": "4234018246001",
+    "uikName": "УИК №2022",
     "tikTvd": "22320002182641",
-    "tikName": "Краснодар, Западная"
+    "tikName": "Краснодар, Западная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2023,
     "uikTvd": "4234018246002",
+    "uikName": "УИК №2023",
     "tikTvd": "22320002182641",
-    "tikName": "Краснодар, Западная"
+    "tikName": "Краснодар, Западная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2024,
     "uikTvd": "4234018246003",
+    "uikName": "УИК №2024",
     "tikTvd": "22320002182641",
-    "tikName": "Краснодар, Западная"
+    "tikName": "Краснодар, Западная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2025,
     "uikTvd": "4234018246004",
+    "uikName": "УИК №2025",
     "tikTvd": "22320002182641",
-    "tikName": "Краснодар, Западная"
+    "tikName": "Краснодар, Западная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2026,
     "uikTvd": "4234018246005",
+    "uikName": "УИК №2026",
     "tikTvd": "22320002182641",
-    "tikName": "Краснодар, Западная"
+    "tikName": "Краснодар, Западная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2027,
     "uikTvd": "4234018246006",
+    "uikName": "УИК №2027",
     "tikTvd": "22320002182641",
-    "tikName": "Краснодар, Западная"
+    "tikName": "Краснодар, Западная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2028,
     "uikTvd": "4234018246007",
+    "uikName": "УИК №2028",
     "tikTvd": "22320002182641",
-    "tikName": "Краснодар, Западная"
+    "tikName": "Краснодар, Западная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2029,
     "uikTvd": "4234018246008",
+    "uikName": "УИК №2029",
     "tikTvd": "22320002182641",
-    "tikName": "Краснодар, Западная"
+    "tikName": "Краснодар, Западная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2030,
     "uikTvd": "4234018246009",
+    "uikName": "УИК №2030",
     "tikTvd": "22320002182641",
-    "tikName": "Краснодар, Западная"
+    "tikName": "Краснодар, Западная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2031,
     "uikTvd": "4234018246010",
+    "uikName": "УИК №2031",
     "tikTvd": "22320002182641",
-    "tikName": "Краснодар, Западная"
+    "tikName": "Краснодар, Западная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2032,
     "uikTvd": "4234018246011",
+    "uikName": "УИК №2032",
     "tikTvd": "22320002182641",
-    "tikName": "Краснодар, Западная"
+    "tikName": "Краснодар, Западная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2033,
     "uikTvd": "4234018246012",
+    "uikName": "УИК №2033",
     "tikTvd": "22320002182641",
-    "tikName": "Краснодар, Западная"
+    "tikName": "Краснодар, Западная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2034,
     "uikTvd": "4234018246013",
+    "uikName": "УИК №2034",
     "tikTvd": "22320002182641",
-    "tikName": "Краснодар, Западная"
+    "tikName": "Краснодар, Западная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2035,
     "uikTvd": "4234018246014",
+    "uikName": "УИК №2035",
     "tikTvd": "22320002182641",
-    "tikName": "Краснодар, Западная"
+    "tikName": "Краснодар, Западная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2036,
     "uikTvd": "4234018246015",
+    "uikName": "УИК №2036",
     "tikTvd": "22320002182641",
-    "tikName": "Краснодар, Западная"
+    "tikName": "Краснодар, Западная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2037,
     "uikTvd": "4234018246016",
+    "uikName": "УИК №2037",
     "tikTvd": "22320002182641",
-    "tikName": "Краснодар, Западная"
+    "tikName": "Краснодар, Западная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2038,
     "uikTvd": "4234018246017",
+    "uikName": "УИК №2038",
     "tikTvd": "22320002182641",
-    "tikName": "Краснодар, Западная"
+    "tikName": "Краснодар, Западная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2039,
     "uikTvd": "4234018246018",
+    "uikName": "УИК №2039",
     "tikTvd": "22320002182641",
-    "tikName": "Краснодар, Западная"
+    "tikName": "Краснодар, Западная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2040,
     "uikTvd": "4234018246019",
+    "uikName": "УИК №2040",
     "tikTvd": "22320002182641",
-    "tikName": "Краснодар, Западная"
+    "tikName": "Краснодар, Западная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2041,
     "uikTvd": "4234018246020",
+    "uikName": "УИК №2041",
     "tikTvd": "22320002182641",
-    "tikName": "Краснодар, Западная"
+    "tikName": "Краснодар, Западная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2042,
     "uikTvd": "4234018246021",
+    "uikName": "УИК №2042",
     "tikTvd": "22320002182641",
-    "tikName": "Краснодар, Западная"
+    "tikName": "Краснодар, Западная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2043,
     "uikTvd": "4234018246022",
+    "uikName": "УИК №2043",
     "tikTvd": "22320002182641",
-    "tikName": "Краснодар, Западная"
+    "tikName": "Краснодар, Западная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2044,
     "uikTvd": "4234018246023",
+    "uikName": "УИК №2044",
     "tikTvd": "22320002182641",
-    "tikName": "Краснодар, Западная"
+    "tikName": "Краснодар, Западная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2045,
     "uikTvd": "4234018246024",
+    "uikName": "УИК №2045",
     "tikTvd": "22320002182641",
-    "tikName": "Краснодар, Западная"
+    "tikName": "Краснодар, Западная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2046,
     "uikTvd": "4234018246025",
+    "uikName": "УИК №2046",
     "tikTvd": "22320002182641",
-    "tikName": "Краснодар, Западная"
+    "tikName": "Краснодар, Западная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2047,
     "uikTvd": "4234018246026",
+    "uikName": "УИК №2047",
     "tikTvd": "22320002182641",
-    "tikName": "Краснодар, Западная"
+    "tikName": "Краснодар, Западная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2048,
     "uikTvd": "4234018246027",
+    "uikName": "УИК №2048",
     "tikTvd": "22320002182641",
-    "tikName": "Краснодар, Западная"
+    "tikName": "Краснодар, Западная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2049,
     "uikTvd": "4234018246028",
+    "uikName": "УИК №2049",
     "tikTvd": "22320002182641",
-    "tikName": "Краснодар, Западная"
+    "tikName": "Краснодар, Западная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2050,
     "uikTvd": "4234018246029",
+    "uikName": "УИК №2050",
     "tikTvd": "22320002182641",
-    "tikName": "Краснодар, Западная"
+    "tikName": "Краснодар, Западная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2051,
     "uikTvd": "4234018246030",
+    "uikName": "УИК №2051",
     "tikTvd": "22320002182641",
-    "tikName": "Краснодар, Западная"
+    "tikName": "Краснодар, Западная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2052,
     "uikTvd": "4234018246031",
+    "uikName": "УИК №2052",
     "tikTvd": "22320002182641",
-    "tikName": "Краснодар, Западная"
+    "tikName": "Краснодар, Западная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2053,
     "uikTvd": "4234018246032",
+    "uikName": "УИК №2053",
     "tikTvd": "22320002182641",
-    "tikName": "Краснодар, Западная"
+    "tikName": "Краснодар, Западная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2054,
     "uikTvd": "4234018246033",
+    "uikName": "УИК №2054",
     "tikTvd": "22320002182641",
-    "tikName": "Краснодар, Западная"
+    "tikName": "Краснодар, Западная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2055,
     "uikTvd": "4234018246034",
+    "uikName": "УИК №2055",
     "tikTvd": "22320002182641",
-    "tikName": "Краснодар, Западная"
+    "tikName": "Краснодар, Западная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2056,
     "uikTvd": "4234018246035",
+    "uikName": "УИК №2056",
     "tikTvd": "22320002182641",
-    "tikName": "Краснодар, Западная"
+    "tikName": "Краснодар, Западная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2057,
     "uikTvd": "4234018246036",
+    "uikName": "УИК №2057",
     "tikTvd": "22320002182641",
-    "tikName": "Краснодар, Западная"
+    "tikName": "Краснодар, Западная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2058,
     "uikTvd": "4234018246037",
+    "uikName": "УИК №2058",
     "tikTvd": "22320002182641",
-    "tikName": "Краснодар, Западная"
+    "tikName": "Краснодар, Западная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2059,
     "uikTvd": "4234018246038",
+    "uikName": "УИК №2059",
     "tikTvd": "22320002182641",
-    "tikName": "Краснодар, Западная"
+    "tikName": "Краснодар, Западная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2060,
     "uikTvd": "4234018246039",
+    "uikName": "УИК №2060",
     "tikTvd": "22320002182641",
-    "tikName": "Краснодар, Западная"
+    "tikName": "Краснодар, Западная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2061,
     "uikTvd": "4234018246040",
+    "uikName": "УИК №2061",
     "tikTvd": "22320002182641",
-    "tikName": "Краснодар, Западная"
+    "tikName": "Краснодар, Западная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2094,
     "uikTvd": "4234018246381",
+    "uikName": "УИК №2094",
     "tikTvd": "22320002182641",
-    "tikName": "Краснодар, Западная"
+    "tikName": "Краснодар, Западная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2095,
     "uikTvd": "4234018246382",
+    "uikName": "УИК №2095",
     "tikTvd": "22320002182641",
-    "tikName": "Краснодар, Западная"
+    "tikName": "Краснодар, Западная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2096,
     "uikTvd": "4234018246383",
+    "uikName": "УИК №2096",
     "tikTvd": "22320002182641",
-    "tikName": "Краснодар, Западная"
+    "tikName": "Краснодар, Западная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2099,
     "uikTvd": "4234018246384",
+    "uikName": "УИК №2099",
     "tikTvd": "22320002182641",
-    "tikName": "Краснодар, Западная"
+    "tikName": "Краснодар, Западная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2101,
     "uikTvd": "4234019323814",
+    "uikName": "УИК №2101",
     "tikTvd": "22320002182653",
-    "tikName": "Краснодар, Карасунская"
+    "tikName": "Краснодар, Карасунская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2102,
     "uikTvd": "4234019323815",
+    "uikName": "УИК №2102",
     "tikTvd": "22320002182653",
-    "tikName": "Краснодар, Карасунская"
+    "tikName": "Краснодар, Карасунская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2103,
     "uikTvd": "4234019323816",
+    "uikName": "УИК №2103",
     "tikTvd": "22320002182653",
-    "tikName": "Краснодар, Карасунская"
+    "tikName": "Краснодар, Карасунская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2104,
     "uikTvd": "4234019323817",
+    "uikName": "УИК №2104",
     "tikTvd": "22320002182653",
-    "tikName": "Краснодар, Карасунская"
+    "tikName": "Краснодар, Карасунская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2105,
     "uikTvd": "4234019323818",
+    "uikName": "УИК №2105",
     "tikTvd": "22320002182653",
-    "tikName": "Краснодар, Карасунская"
+    "tikName": "Краснодар, Карасунская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2106,
     "uikTvd": "4234019323819",
+    "uikName": "УИК №2106",
     "tikTvd": "22320002182653",
-    "tikName": "Краснодар, Карасунская"
+    "tikName": "Краснодар, Карасунская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2107,
     "uikTvd": "4234019323820",
+    "uikName": "УИК №2107",
     "tikTvd": "22320002182653",
-    "tikName": "Краснодар, Карасунская"
+    "tikName": "Краснодар, Карасунская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2108,
     "uikTvd": "4234019323821",
+    "uikName": "УИК №2108",
     "tikTvd": "22320002182653",
-    "tikName": "Краснодар, Карасунская"
+    "tikName": "Краснодар, Карасунская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2109,
     "uikTvd": "4234019323822",
+    "uikName": "УИК №2109",
     "tikTvd": "22320002182653",
-    "tikName": "Краснодар, Карасунская"
+    "tikName": "Краснодар, Карасунская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2110,
     "uikTvd": "4234019323823",
+    "uikName": "УИК №2110",
     "tikTvd": "22320002182653",
-    "tikName": "Краснодар, Карасунская"
+    "tikName": "Краснодар, Карасунская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2111,
     "uikTvd": "4234019323824",
+    "uikName": "УИК №2111",
     "tikTvd": "22320002182653",
-    "tikName": "Краснодар, Карасунская"
+    "tikName": "Краснодар, Карасунская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2112,
     "uikTvd": "4234019323825",
+    "uikName": "УИК №2112",
     "tikTvd": "22320002182653",
-    "tikName": "Краснодар, Карасунская"
+    "tikName": "Краснодар, Карасунская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2113,
     "uikTvd": "4234019323826",
+    "uikName": "УИК №2113",
     "tikTvd": "22320002182653",
-    "tikName": "Краснодар, Карасунская"
+    "tikName": "Краснодар, Карасунская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2114,
     "uikTvd": "4234019323827",
+    "uikName": "УИК №2114",
     "tikTvd": "22320002182653",
-    "tikName": "Краснодар, Карасунская"
+    "tikName": "Краснодар, Карасунская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2115,
     "uikTvd": "4234019323828",
+    "uikName": "УИК №2115",
     "tikTvd": "22320002182653",
-    "tikName": "Краснодар, Карасунская"
+    "tikName": "Краснодар, Карасунская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2116,
     "uikTvd": "4234019323829",
+    "uikName": "УИК №2116",
     "tikTvd": "22320002182653",
-    "tikName": "Краснодар, Карасунская"
+    "tikName": "Краснодар, Карасунская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2117,
     "uikTvd": "4234019323830",
+    "uikName": "УИК №2117",
     "tikTvd": "22320002182653",
-    "tikName": "Краснодар, Карасунская"
+    "tikName": "Краснодар, Карасунская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2118,
     "uikTvd": "4234019323831",
+    "uikName": "УИК №2118",
     "tikTvd": "22320002182653",
-    "tikName": "Краснодар, Карасунская"
+    "tikName": "Краснодар, Карасунская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2119,
     "uikTvd": "4234019323832",
+    "uikName": "УИК №2119",
     "tikTvd": "22320002182653",
-    "tikName": "Краснодар, Карасунская"
+    "tikName": "Краснодар, Карасунская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2120,
     "uikTvd": "4234019323833",
+    "uikName": "УИК №2120",
     "tikTvd": "22320002182653",
-    "tikName": "Краснодар, Карасунская"
+    "tikName": "Краснодар, Карасунская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2121,
     "uikTvd": "4234019323834",
+    "uikName": "УИК №2121",
     "tikTvd": "22320002182653",
-    "tikName": "Краснодар, Карасунская"
+    "tikName": "Краснодар, Карасунская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2122,
     "uikTvd": "4234019323835",
+    "uikName": "УИК №2122",
     "tikTvd": "22320002182653",
-    "tikName": "Краснодар, Карасунская"
+    "tikName": "Краснодар, Карасунская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2123,
     "uikTvd": "4234019323836",
+    "uikName": "УИК №2123",
     "tikTvd": "22320002182653",
-    "tikName": "Краснодар, Карасунская"
+    "tikName": "Краснодар, Карасунская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2124,
     "uikTvd": "4234019323837",
+    "uikName": "УИК №2124",
     "tikTvd": "22320002182653",
-    "tikName": "Краснодар, Карасунская"
+    "tikName": "Краснодар, Карасунская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2125,
     "uikTvd": "4234019323838",
+    "uikName": "УИК №2125",
     "tikTvd": "22320002182653",
-    "tikName": "Краснодар, Карасунская"
+    "tikName": "Краснодар, Карасунская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2126,
     "uikTvd": "4234019323839",
+    "uikName": "УИК №2126",
     "tikTvd": "22320002182653",
-    "tikName": "Краснодар, Карасунская"
+    "tikName": "Краснодар, Карасунская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2127,
     "uikTvd": "4234019323840",
+    "uikName": "УИК №2127",
     "tikTvd": "22320002182653",
-    "tikName": "Краснодар, Карасунская"
+    "tikName": "Краснодар, Карасунская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2128,
     "uikTvd": "4234019323841",
+    "uikName": "УИК №2128",
     "tikTvd": "22320002182653",
-    "tikName": "Краснодар, Карасунская"
+    "tikName": "Краснодар, Карасунская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2129,
     "uikTvd": "4234019323842",
+    "uikName": "УИК №2129",
     "tikTvd": "22320002182653",
-    "tikName": "Краснодар, Карасунская"
+    "tikName": "Краснодар, Карасунская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2130,
     "uikTvd": "4234019323843",
+    "uikName": "УИК №2130",
     "tikTvd": "22320002182653",
-    "tikName": "Краснодар, Карасунская"
+    "tikName": "Краснодар, Карасунская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2131,
     "uikTvd": "4234019323844",
+    "uikName": "УИК №2131",
     "tikTvd": "22320002182653",
-    "tikName": "Краснодар, Карасунская"
+    "tikName": "Краснодар, Карасунская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2132,
     "uikTvd": "4234019323845",
+    "uikName": "УИК №2132",
     "tikTvd": "22320002182653",
-    "tikName": "Краснодар, Карасунская"
+    "tikName": "Краснодар, Карасунская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2133,
     "uikTvd": "4234019323846",
+    "uikName": "УИК №2133",
     "tikTvd": "22320002182653",
-    "tikName": "Краснодар, Карасунская"
+    "tikName": "Краснодар, Карасунская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2134,
     "uikTvd": "4234019323847",
+    "uikName": "УИК №2134",
     "tikTvd": "22320002182653",
-    "tikName": "Краснодар, Карасунская"
+    "tikName": "Краснодар, Карасунская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2135,
     "uikTvd": "4234019323848",
+    "uikName": "УИК №2135",
     "tikTvd": "22320002182653",
-    "tikName": "Краснодар, Карасунская"
+    "tikName": "Краснодар, Карасунская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2136,
     "uikTvd": "4234019323849",
+    "uikName": "УИК №2136",
     "tikTvd": "22320002182653",
-    "tikName": "Краснодар, Карасунская"
+    "tikName": "Краснодар, Карасунская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2137,
     "uikTvd": "4234019323850",
+    "uikName": "УИК №2137",
     "tikTvd": "22320002182653",
-    "tikName": "Краснодар, Карасунская"
+    "tikName": "Краснодар, Карасунская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2138,
     "uikTvd": "4234019323851",
+    "uikName": "УИК №2138",
     "tikTvd": "22320002182653",
-    "tikName": "Краснодар, Карасунская"
+    "tikName": "Краснодар, Карасунская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2139,
     "uikTvd": "4234019323852",
+    "uikName": "УИК №2139",
     "tikTvd": "22320002182653",
-    "tikName": "Краснодар, Карасунская"
+    "tikName": "Краснодар, Карасунская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2140,
     "uikTvd": "4234019323853",
+    "uikName": "УИК №2140",
     "tikTvd": "22320002182653",
-    "tikName": "Краснодар, Карасунская"
+    "tikName": "Краснодар, Карасунская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2141,
     "uikTvd": "4234019323854",
+    "uikName": "УИК №2141",
     "tikTvd": "22320002182653",
-    "tikName": "Краснодар, Карасунская"
+    "tikName": "Краснодар, Карасунская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2142,
     "uikTvd": "4234019323855",
+    "uikName": "УИК №2142",
     "tikTvd": "22320002182653",
-    "tikName": "Краснодар, Карасунская"
+    "tikName": "Краснодар, Карасунская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2143,
     "uikTvd": "4234019323856",
+    "uikName": "УИК №2143",
     "tikTvd": "22320002182653",
-    "tikName": "Краснодар, Карасунская"
+    "tikName": "Краснодар, Карасунская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2144,
     "uikTvd": "4234019323857",
+    "uikName": "УИК №2144",
     "tikTvd": "22320002182653",
-    "tikName": "Краснодар, Карасунская"
+    "tikName": "Краснодар, Карасунская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2145,
     "uikTvd": "4234019323858",
+    "uikName": "УИК №2145",
     "tikTvd": "22320002182653",
-    "tikName": "Краснодар, Карасунская"
+    "tikName": "Краснодар, Карасунская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2146,
     "uikTvd": "4234019323859",
+    "uikName": "УИК №2146",
     "tikTvd": "22320002182653",
-    "tikName": "Краснодар, Карасунская"
+    "tikName": "Краснодар, Карасунская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2147,
     "uikTvd": "4234019323860",
+    "uikName": "УИК №2147",
     "tikTvd": "22320002182653",
-    "tikName": "Краснодар, Карасунская"
+    "tikName": "Краснодар, Карасунская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2148,
     "uikTvd": "4234019323861",
+    "uikName": "УИК №2148",
     "tikTvd": "22320002182653",
-    "tikName": "Краснодар, Карасунская"
+    "tikName": "Краснодар, Карасунская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2149,
     "uikTvd": "4234019323862",
+    "uikName": "УИК №2149",
     "tikTvd": "22320002182653",
-    "tikName": "Краснодар, Карасунская"
+    "tikName": "Краснодар, Карасунская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2150,
     "uikTvd": "4234019323863",
+    "uikName": "УИК №2150",
     "tikTvd": "22320002182653",
-    "tikName": "Краснодар, Карасунская"
+    "tikName": "Краснодар, Карасунская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2151,
     "uikTvd": "4234019323864",
+    "uikName": "УИК №2151",
     "tikTvd": "22320002182653",
-    "tikName": "Краснодар, Карасунская"
+    "tikName": "Краснодар, Карасунская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2152,
     "uikTvd": "4234019323865",
+    "uikName": "УИК №2152",
     "tikTvd": "22320002182653",
-    "tikName": "Краснодар, Карасунская"
+    "tikName": "Краснодар, Карасунская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2153,
     "uikTvd": "4234019323866",
+    "uikName": "УИК №2153",
     "tikTvd": "22320002182653",
-    "tikName": "Краснодар, Карасунская"
+    "tikName": "Краснодар, Карасунская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2154,
     "uikTvd": "4234019323867",
+    "uikName": "УИК №2154",
     "tikTvd": "22320002182653",
-    "tikName": "Краснодар, Карасунская"
+    "tikName": "Краснодар, Карасунская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2155,
     "uikTvd": "4234019323868",
+    "uikName": "УИК №2155",
     "tikTvd": "22320002182653",
-    "tikName": "Краснодар, Карасунская"
+    "tikName": "Краснодар, Карасунская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2156,
     "uikTvd": "4234019323869",
+    "uikName": "УИК №2156",
     "tikTvd": "22320002182653",
-    "tikName": "Краснодар, Карасунская"
+    "tikName": "Краснодар, Карасунская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2157,
     "uikTvd": "4234019323870",
+    "uikName": "УИК №2157",
     "tikTvd": "22320002182653",
-    "tikName": "Краснодар, Карасунская"
+    "tikName": "Краснодар, Карасунская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2158,
     "uikTvd": "4234019323871",
+    "uikName": "УИК №2158",
     "tikTvd": "22320002182653",
-    "tikName": "Краснодар, Карасунская"
+    "tikName": "Краснодар, Карасунская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2159,
     "uikTvd": "4234019323872",
+    "uikName": "УИК №2159",
     "tikTvd": "22320002182653",
-    "tikName": "Краснодар, Карасунская"
+    "tikName": "Краснодар, Карасунская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2160,
     "uikTvd": "4234019323873",
+    "uikName": "УИК №2160",
     "tikTvd": "22320002182653",
-    "tikName": "Краснодар, Карасунская"
+    "tikName": "Краснодар, Карасунская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2161,
     "uikTvd": "4234019323874",
+    "uikName": "УИК №2161",
     "tikTvd": "22320002182653",
-    "tikName": "Краснодар, Карасунская"
+    "tikName": "Краснодар, Карасунская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2162,
     "uikTvd": "4234019323875",
+    "uikName": "УИК №2162",
     "tikTvd": "22320002182653",
-    "tikName": "Краснодар, Карасунская"
+    "tikName": "Краснодар, Карасунская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2163,
     "uikTvd": "4234019323876",
+    "uikName": "УИК №2163",
     "tikTvd": "22320002182653",
-    "tikName": "Краснодар, Карасунская"
+    "tikName": "Краснодар, Карасунская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2164,
     "uikTvd": "4234019323877",
+    "uikName": "УИК №2164",
     "tikTvd": "22320002182653",
-    "tikName": "Краснодар, Карасунская"
+    "tikName": "Краснодар, Карасунская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2165,
     "uikTvd": "4234019323878",
+    "uikName": "УИК №2165",
     "tikTvd": "22320002182653",
-    "tikName": "Краснодар, Карасунская"
+    "tikName": "Краснодар, Карасунская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2166,
     "uikTvd": "4234019323879",
+    "uikName": "УИК №2166",
     "tikTvd": "22320002182653",
-    "tikName": "Краснодар, Карасунская"
+    "tikName": "Краснодар, Карасунская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2167,
     "uikTvd": "4234019323880",
+    "uikName": "УИК №2167",
     "tikTvd": "22320002182653",
-    "tikName": "Краснодар, Карасунская"
+    "tikName": "Краснодар, Карасунская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2168,
     "uikTvd": "4234019323881",
+    "uikName": "УИК №2168",
     "tikTvd": "22320002182653",
-    "tikName": "Краснодар, Карасунская"
+    "tikName": "Краснодар, Карасунская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2169,
     "uikTvd": "4234019323882",
+    "uikName": "УИК №2169",
     "tikTvd": "22320002182653",
-    "tikName": "Краснодар, Карасунская"
+    "tikName": "Краснодар, Карасунская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2170,
     "uikTvd": "4234019323883",
+    "uikName": "УИК №2170",
     "tikTvd": "22320002182653",
-    "tikName": "Краснодар, Карасунская"
+    "tikName": "Краснодар, Карасунская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2171,
     "uikTvd": "4234019323884",
+    "uikName": "УИК №2171",
     "tikTvd": "22320002182653",
-    "tikName": "Краснодар, Карасунская"
+    "tikName": "Краснодар, Карасунская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2172,
     "uikTvd": "4234019323885",
+    "uikName": "УИК №2172",
     "tikTvd": "22320002182653",
-    "tikName": "Краснодар, Карасунская"
+    "tikName": "Краснодар, Карасунская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2173,
     "uikTvd": "4234019323886",
+    "uikName": "УИК №2173",
     "tikTvd": "22320002182653",
-    "tikName": "Краснодар, Карасунская"
+    "tikName": "Краснодар, Карасунская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2174,
     "uikTvd": "4234019323887",
+    "uikName": "УИК №2174",
     "tikTvd": "22320002182653",
-    "tikName": "Краснодар, Карасунская"
+    "tikName": "Краснодар, Карасунская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2175,
     "uikTvd": "4234019323888",
+    "uikName": "УИК №2175",
     "tikTvd": "22320002182653",
-    "tikName": "Краснодар, Карасунская"
+    "tikName": "Краснодар, Карасунская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2176,
     "uikTvd": "4234019323889",
+    "uikName": "УИК №2176",
     "tikTvd": "22320002182653",
-    "tikName": "Краснодар, Карасунская"
+    "tikName": "Краснодар, Карасунская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2177,
     "uikTvd": "4234019323890",
+    "uikName": "УИК №2177",
     "tikTvd": "22320002182653",
-    "tikName": "Краснодар, Карасунская"
+    "tikName": "Краснодар, Карасунская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2178,
     "uikTvd": "4234019323891",
+    "uikName": "УИК №2178",
     "tikTvd": "22320002182653",
-    "tikName": "Краснодар, Карасунская"
+    "tikName": "Краснодар, Карасунская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2179,
     "uikTvd": "4234019323892",
+    "uikName": "УИК №2179",
     "tikTvd": "22320002182653",
-    "tikName": "Краснодар, Карасунская"
+    "tikName": "Краснодар, Карасунская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2180,
     "uikTvd": "4234019323893",
+    "uikName": "УИК №2180",
     "tikTvd": "22320002182653",
-    "tikName": "Краснодар, Карасунская"
+    "tikName": "Краснодар, Карасунская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2181,
     "uikTvd": "4234019323894",
+    "uikName": "УИК №2181",
     "tikTvd": "22320002182653",
-    "tikName": "Краснодар, Карасунская"
+    "tikName": "Краснодар, Карасунская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2201,
     "uikTvd": "4234020333575",
+    "uikName": "УИК №2201",
     "tikTvd": "22320002182679",
-    "tikName": "Краснодар, Прикубанская"
+    "tikName": "Краснодар, Прикубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2202,
     "uikTvd": "4234020333576",
+    "uikName": "УИК №2202",
     "tikTvd": "22320002182679",
-    "tikName": "Краснодар, Прикубанская"
+    "tikName": "Краснодар, Прикубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2203,
     "uikTvd": "4234020333577",
+    "uikName": "УИК №2203",
     "tikTvd": "22320002182679",
-    "tikName": "Краснодар, Прикубанская"
+    "tikName": "Краснодар, Прикубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2204,
     "uikTvd": "4234020333578",
+    "uikName": "УИК №2204",
     "tikTvd": "22320002182679",
-    "tikName": "Краснодар, Прикубанская"
+    "tikName": "Краснодар, Прикубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2205,
     "uikTvd": "4234020333579",
+    "uikName": "УИК №2205",
     "tikTvd": "22320002182679",
-    "tikName": "Краснодар, Прикубанская"
+    "tikName": "Краснодар, Прикубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2206,
     "uikTvd": "4234020333580",
+    "uikName": "УИК №2206",
     "tikTvd": "22320002182679",
-    "tikName": "Краснодар, Прикубанская"
+    "tikName": "Краснодар, Прикубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2207,
     "uikTvd": "4234020333581",
+    "uikName": "УИК №2207",
     "tikTvd": "22320002182679",
-    "tikName": "Краснодар, Прикубанская"
+    "tikName": "Краснодар, Прикубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2208,
     "uikTvd": "4234020333582",
+    "uikName": "УИК №2208",
     "tikTvd": "22320002182679",
-    "tikName": "Краснодар, Прикубанская"
+    "tikName": "Краснодар, Прикубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2209,
     "uikTvd": "4234020333583",
+    "uikName": "УИК №2209",
     "tikTvd": "22320002182679",
-    "tikName": "Краснодар, Прикубанская"
+    "tikName": "Краснодар, Прикубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2210,
     "uikTvd": "4234020333584",
+    "uikName": "УИК №2210",
     "tikTvd": "22320002182679",
-    "tikName": "Краснодар, Прикубанская"
+    "tikName": "Краснодар, Прикубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2211,
     "uikTvd": "4234020333585",
+    "uikName": "УИК №2211",
     "tikTvd": "22320002182679",
-    "tikName": "Краснодар, Прикубанская"
+    "tikName": "Краснодар, Прикубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2212,
     "uikTvd": "4234020333586",
+    "uikName": "УИК №2212",
     "tikTvd": "22320002182679",
-    "tikName": "Краснодар, Прикубанская"
+    "tikName": "Краснодар, Прикубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2213,
     "uikTvd": "4234020333587",
+    "uikName": "УИК №2213",
     "tikTvd": "22320002182679",
-    "tikName": "Краснодар, Прикубанская"
+    "tikName": "Краснодар, Прикубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2214,
     "uikTvd": "4234020333588",
+    "uikName": "УИК №2214",
     "tikTvd": "22320002182679",
-    "tikName": "Краснодар, Прикубанская"
+    "tikName": "Краснодар, Прикубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2215,
     "uikTvd": "4234020333589",
+    "uikName": "УИК №2215",
     "tikTvd": "22320002182679",
-    "tikName": "Краснодар, Прикубанская"
+    "tikName": "Краснодар, Прикубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2216,
     "uikTvd": "4234020333590",
+    "uikName": "УИК №2216",
     "tikTvd": "22320002182679",
-    "tikName": "Краснодар, Прикубанская"
+    "tikName": "Краснодар, Прикубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2217,
     "uikTvd": "4234020333591",
+    "uikName": "УИК №2217",
     "tikTvd": "22320002182679",
-    "tikName": "Краснодар, Прикубанская"
+    "tikName": "Краснодар, Прикубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2218,
     "uikTvd": "4234020333592",
+    "uikName": "УИК №2218",
     "tikTvd": "22320002182679",
-    "tikName": "Краснодар, Прикубанская"
+    "tikName": "Краснодар, Прикубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2219,
     "uikTvd": "4234020333593",
+    "uikName": "УИК №2219",
     "tikTvd": "22320002182679",
-    "tikName": "Краснодар, Прикубанская"
+    "tikName": "Краснодар, Прикубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2220,
     "uikTvd": "4234020333594",
+    "uikName": "УИК №2220",
     "tikTvd": "22320002182679",
-    "tikName": "Краснодар, Прикубанская"
+    "tikName": "Краснодар, Прикубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2221,
     "uikTvd": "4234020333595",
+    "uikName": "УИК №2221",
     "tikTvd": "22320002182679",
-    "tikName": "Краснодар, Прикубанская"
+    "tikName": "Краснодар, Прикубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2222,
     "uikTvd": "4234020333596",
+    "uikName": "УИК №2222",
     "tikTvd": "22320002182679",
-    "tikName": "Краснодар, Прикубанская"
+    "tikName": "Краснодар, Прикубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2223,
     "uikTvd": "4234020333597",
+    "uikName": "УИК №2223",
     "tikTvd": "22320002182679",
-    "tikName": "Краснодар, Прикубанская"
+    "tikName": "Краснодар, Прикубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2224,
     "uikTvd": "4234020333598",
+    "uikName": "УИК №2224",
     "tikTvd": "22320002182679",
-    "tikName": "Краснодар, Прикубанская"
+    "tikName": "Краснодар, Прикубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2225,
     "uikTvd": "4234020333599",
+    "uikName": "УИК №2225",
     "tikTvd": "22320002182679",
-    "tikName": "Краснодар, Прикубанская"
+    "tikName": "Краснодар, Прикубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2226,
     "uikTvd": "4234020333600",
+    "uikName": "УИК №2226",
     "tikTvd": "22320002182679",
-    "tikName": "Краснодар, Прикубанская"
+    "tikName": "Краснодар, Прикубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2227,
     "uikTvd": "4234020333601",
+    "uikName": "УИК №2227",
     "tikTvd": "22320002182679",
-    "tikName": "Краснодар, Прикубанская"
+    "tikName": "Краснодар, Прикубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2228,
     "uikTvd": "4234020333602",
+    "uikName": "УИК №2228",
     "tikTvd": "22320002182679",
-    "tikName": "Краснодар, Прикубанская"
+    "tikName": "Краснодар, Прикубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2229,
     "uikTvd": "4234020333603",
+    "uikName": "УИК №2229",
     "tikTvd": "22320002182679",
-    "tikName": "Краснодар, Прикубанская"
+    "tikName": "Краснодар, Прикубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2230,
     "uikTvd": "4234020333604",
+    "uikName": "УИК №2230",
     "tikTvd": "22320002182679",
-    "tikName": "Краснодар, Прикубанская"
+    "tikName": "Краснодар, Прикубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2231,
     "uikTvd": "4234020333605",
+    "uikName": "УИК №2231",
     "tikTvd": "22320002182679",
-    "tikName": "Краснодар, Прикубанская"
+    "tikName": "Краснодар, Прикубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2232,
     "uikTvd": "4234020333606",
+    "uikName": "УИК №2232",
     "tikTvd": "22320002182679",
-    "tikName": "Краснодар, Прикубанская"
+    "tikName": "Краснодар, Прикубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2233,
     "uikTvd": "4234020333607",
+    "uikName": "УИК №2233",
     "tikTvd": "22320002182679",
-    "tikName": "Краснодар, Прикубанская"
+    "tikName": "Краснодар, Прикубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2234,
     "uikTvd": "4234020333608",
+    "uikName": "УИК №2234",
     "tikTvd": "22320002182679",
-    "tikName": "Краснодар, Прикубанская"
+    "tikName": "Краснодар, Прикубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2235,
     "uikTvd": "4234020333609",
+    "uikName": "УИК №2235",
     "tikTvd": "22320002182679",
-    "tikName": "Краснодар, Прикубанская"
+    "tikName": "Краснодар, Прикубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2236,
     "uikTvd": "4234020333610",
+    "uikName": "УИК №2236",
     "tikTvd": "22320002182679",
-    "tikName": "Краснодар, Прикубанская"
+    "tikName": "Краснодар, Прикубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2237,
     "uikTvd": "4234020333611",
+    "uikName": "УИК №2237",
     "tikTvd": "22320002182679",
-    "tikName": "Краснодар, Прикубанская"
+    "tikName": "Краснодар, Прикубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2238,
     "uikTvd": "4234020333612",
+    "uikName": "УИК №2238",
     "tikTvd": "22320002182679",
-    "tikName": "Краснодар, Прикубанская"
+    "tikName": "Краснодар, Прикубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2239,
     "uikTvd": "4234020333613",
+    "uikName": "УИК №2239",
     "tikTvd": "22320002182679",
-    "tikName": "Краснодар, Прикубанская"
+    "tikName": "Краснодар, Прикубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2240,
     "uikTvd": "4234020333614",
+    "uikName": "УИК №2240",
     "tikTvd": "22320002182679",
-    "tikName": "Краснодар, Прикубанская"
+    "tikName": "Краснодар, Прикубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2241,
     "uikTvd": "4234020333615",
+    "uikName": "УИК №2241",
     "tikTvd": "22320002182679",
-    "tikName": "Краснодар, Прикубанская"
+    "tikName": "Краснодар, Прикубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2242,
     "uikTvd": "4234020333616",
+    "uikName": "УИК №2242",
     "tikTvd": "22320002182679",
-    "tikName": "Краснодар, Прикубанская"
+    "tikName": "Краснодар, Прикубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2243,
     "uikTvd": "4234020333617",
+    "uikName": "УИК №2243",
     "tikTvd": "22320002182679",
-    "tikName": "Краснодар, Прикубанская"
+    "tikName": "Краснодар, Прикубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2244,
     "uikTvd": "4234020333618",
+    "uikName": "УИК №2244",
     "tikTvd": "22320002182679",
-    "tikName": "Краснодар, Прикубанская"
+    "tikName": "Краснодар, Прикубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2245,
     "uikTvd": "4234020333619",
+    "uikName": "УИК №2245",
     "tikTvd": "22320002182679",
-    "tikName": "Краснодар, Прикубанская"
+    "tikName": "Краснодар, Прикубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2246,
     "uikTvd": "4234020333620",
+    "uikName": "УИК №2246",
     "tikTvd": "22320002182679",
-    "tikName": "Краснодар, Прикубанская"
+    "tikName": "Краснодар, Прикубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2247,
     "uikTvd": "4234020333621",
+    "uikName": "УИК №2247",
     "tikTvd": "22320002182679",
-    "tikName": "Краснодар, Прикубанская"
+    "tikName": "Краснодар, Прикубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2248,
     "uikTvd": "4234020333622",
+    "uikName": "УИК №2248",
     "tikTvd": "22320002182679",
-    "tikName": "Краснодар, Прикубанская"
+    "tikName": "Краснодар, Прикубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2249,
     "uikTvd": "4234020333623",
+    "uikName": "УИК №2249",
     "tikTvd": "22320002182679",
-    "tikName": "Краснодар, Прикубанская"
+    "tikName": "Краснодар, Прикубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2250,
     "uikTvd": "4234020333624",
+    "uikName": "УИК №2250",
     "tikTvd": "22320002182679",
-    "tikName": "Краснодар, Прикубанская"
+    "tikName": "Краснодар, Прикубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2251,
     "uikTvd": "4234020333625",
+    "uikName": "УИК №2251",
     "tikTvd": "22320002182679",
-    "tikName": "Краснодар, Прикубанская"
+    "tikName": "Краснодар, Прикубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2252,
     "uikTvd": "4234020333626",
+    "uikName": "УИК №2252",
     "tikTvd": "22320002182679",
-    "tikName": "Краснодар, Прикубанская"
+    "tikName": "Краснодар, Прикубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2253,
     "uikTvd": "4234020333627",
+    "uikName": "УИК №2253",
     "tikTvd": "22320002182679",
-    "tikName": "Краснодар, Прикубанская"
+    "tikName": "Краснодар, Прикубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2254,
     "uikTvd": "4234020333628",
+    "uikName": "УИК №2254",
     "tikTvd": "22320002182679",
-    "tikName": "Краснодар, Прикубанская"
+    "tikName": "Краснодар, Прикубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2255,
     "uikTvd": "4234020333629",
+    "uikName": "УИК №2255",
     "tikTvd": "22320002182679",
-    "tikName": "Краснодар, Прикубанская"
+    "tikName": "Краснодар, Прикубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2256,
     "uikTvd": "4234020333630",
+    "uikName": "УИК №2256",
     "tikTvd": "22320002182679",
-    "tikName": "Краснодар, Прикубанская"
+    "tikName": "Краснодар, Прикубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2257,
     "uikTvd": "4234020333631",
+    "uikName": "УИК №2257",
     "tikTvd": "22320002182679",
-    "tikName": "Краснодар, Прикубанская"
+    "tikName": "Краснодар, Прикубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2258,
     "uikTvd": "4234020333632",
+    "uikName": "УИК №2258",
     "tikTvd": "22320002182679",
-    "tikName": "Краснодар, Прикубанская"
+    "tikName": "Краснодар, Прикубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2259,
     "uikTvd": "4234020333633",
+    "uikName": "УИК №2259",
     "tikTvd": "22320002182679",
-    "tikName": "Краснодар, Прикубанская"
+    "tikName": "Краснодар, Прикубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2260,
     "uikTvd": "4234020333634",
+    "uikName": "УИК №2260",
     "tikTvd": "22320002182679",
-    "tikName": "Краснодар, Прикубанская"
+    "tikName": "Краснодар, Прикубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2261,
     "uikTvd": "4234020333635",
+    "uikName": "УИК №2261",
     "tikTvd": "22320002182679",
-    "tikName": "Краснодар, Прикубанская"
+    "tikName": "Краснодар, Прикубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2262,
     "uikTvd": "4234020333636",
+    "uikName": "УИК №2262",
     "tikTvd": "22320002182679",
-    "tikName": "Краснодар, Прикубанская"
+    "tikName": "Краснодар, Прикубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2263,
     "uikTvd": "4234020333637",
+    "uikName": "УИК №2263",
     "tikTvd": "22320002182679",
-    "tikName": "Краснодар, Прикубанская"
+    "tikName": "Краснодар, Прикубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2264,
     "uikTvd": "4234020333638",
+    "uikName": "УИК №2264",
     "tikTvd": "22320002182679",
-    "tikName": "Краснодар, Прикубанская"
+    "tikName": "Краснодар, Прикубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2299,
     "uikTvd": "4234020334007",
+    "uikName": "УИК №2299",
     "tikTvd": "22320002182679",
-    "tikName": "Краснодар, Прикубанская"
+    "tikName": "Краснодар, Прикубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2301,
     "uikTvd": "4234021239241",
+    "uikName": "УИК №2301",
     "tikTvd": "22320002182659",
-    "tikName": "Краснодар, Центральная"
+    "tikName": "Краснодар, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2302,
     "uikTvd": "4234021239242",
+    "uikName": "УИК №2302",
     "tikTvd": "22320002182659",
-    "tikName": "Краснодар, Центральная"
+    "tikName": "Краснодар, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2303,
     "uikTvd": "4234021239243",
+    "uikName": "УИК №2303",
     "tikTvd": "22320002182659",
-    "tikName": "Краснодар, Центральная"
+    "tikName": "Краснодар, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2304,
     "uikTvd": "4234021239244",
+    "uikName": "УИК №2304",
     "tikTvd": "22320002182659",
-    "tikName": "Краснодар, Центральная"
+    "tikName": "Краснодар, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2305,
     "uikTvd": "4234021239245",
+    "uikName": "УИК №2305",
     "tikTvd": "22320002182659",
-    "tikName": "Краснодар, Центральная"
+    "tikName": "Краснодар, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2306,
     "uikTvd": "4234021239246",
+    "uikName": "УИК №2306",
     "tikTvd": "22320002182659",
-    "tikName": "Краснодар, Центральная"
+    "tikName": "Краснодар, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2307,
     "uikTvd": "4234021239247",
+    "uikName": "УИК №2307",
     "tikTvd": "22320002182659",
-    "tikName": "Краснодар, Центральная"
+    "tikName": "Краснодар, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2308,
     "uikTvd": "4234021239248",
+    "uikName": "УИК №2308",
     "tikTvd": "22320002182659",
-    "tikName": "Краснодар, Центральная"
+    "tikName": "Краснодар, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2309,
     "uikTvd": "4234021239249",
+    "uikName": "УИК №2309",
     "tikTvd": "22320002182659",
-    "tikName": "Краснодар, Центральная"
+    "tikName": "Краснодар, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2310,
     "uikTvd": "4234021239250",
+    "uikName": "УИК №2310",
     "tikTvd": "22320002182659",
-    "tikName": "Краснодар, Центральная"
+    "tikName": "Краснодар, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2311,
     "uikTvd": "4234021239251",
+    "uikName": "УИК №2311",
     "tikTvd": "22320002182659",
-    "tikName": "Краснодар, Центральная"
+    "tikName": "Краснодар, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2312,
     "uikTvd": "4234021239252",
+    "uikName": "УИК №2312",
     "tikTvd": "22320002182659",
-    "tikName": "Краснодар, Центральная"
+    "tikName": "Краснодар, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2313,
     "uikTvd": "4234021239253",
+    "uikName": "УИК №2313",
     "tikTvd": "22320002182659",
-    "tikName": "Краснодар, Центральная"
+    "tikName": "Краснодар, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2314,
     "uikTvd": "4234021239254",
+    "uikName": "УИК №2314",
     "tikTvd": "22320002182659",
-    "tikName": "Краснодар, Центральная"
+    "tikName": "Краснодар, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2315,
     "uikTvd": "4234021239255",
+    "uikName": "УИК №2315",
     "tikTvd": "22320002182659",
-    "tikName": "Краснодар, Центральная"
+    "tikName": "Краснодар, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2316,
     "uikTvd": "4234021239256",
+    "uikName": "УИК №2316",
     "tikTvd": "22320002182659",
-    "tikName": "Краснодар, Центральная"
+    "tikName": "Краснодар, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2317,
     "uikTvd": "4234021239257",
+    "uikName": "УИК №2317",
     "tikTvd": "22320002182659",
-    "tikName": "Краснодар, Центральная"
+    "tikName": "Краснодар, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2318,
     "uikTvd": "4234021239258",
+    "uikName": "УИК №2318",
     "tikTvd": "22320002182659",
-    "tikName": "Краснодар, Центральная"
+    "tikName": "Краснодар, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2319,
     "uikTvd": "4234021239259",
+    "uikName": "УИК №2319",
     "tikTvd": "22320002182659",
-    "tikName": "Краснодар, Центральная"
+    "tikName": "Краснодар, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2320,
     "uikTvd": "4234021239260",
+    "uikName": "УИК №2320",
     "tikTvd": "22320002182659",
-    "tikName": "Краснодар, Центральная"
+    "tikName": "Краснодар, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2321,
     "uikTvd": "4234021239261",
+    "uikName": "УИК №2321",
     "tikTvd": "22320002182659",
-    "tikName": "Краснодар, Центральная"
+    "tikName": "Краснодар, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2322,
     "uikTvd": "4234021239262",
+    "uikName": "УИК №2322",
     "tikTvd": "22320002182659",
-    "tikName": "Краснодар, Центральная"
+    "tikName": "Краснодар, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2323,
     "uikTvd": "4234021239263",
+    "uikName": "УИК №2323",
     "tikTvd": "22320002182659",
-    "tikName": "Краснодар, Центральная"
+    "tikName": "Краснодар, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2324,
     "uikTvd": "4234021239264",
+    "uikName": "УИК №2324",
     "tikTvd": "22320002182659",
-    "tikName": "Краснодар, Центральная"
+    "tikName": "Краснодар, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2325,
     "uikTvd": "4234021239265",
+    "uikName": "УИК №2325",
     "tikTvd": "22320002182659",
-    "tikName": "Краснодар, Центральная"
+    "tikName": "Краснодар, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2326,
     "uikTvd": "4234021239266",
+    "uikName": "УИК №2326",
     "tikTvd": "22320002182659",
-    "tikName": "Краснодар, Центральная"
+    "tikName": "Краснодар, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2327,
     "uikTvd": "4234021239267",
+    "uikName": "УИК №2327",
     "tikTvd": "22320002182659",
-    "tikName": "Краснодар, Центральная"
+    "tikName": "Краснодар, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2328,
     "uikTvd": "4234021239268",
+    "uikName": "УИК №2328",
     "tikTvd": "22320002182659",
-    "tikName": "Краснодар, Центральная"
+    "tikName": "Краснодар, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2329,
     "uikTvd": "4234021239269",
+    "uikName": "УИК №2329",
     "tikTvd": "22320002182659",
-    "tikName": "Краснодар, Центральная"
+    "tikName": "Краснодар, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2330,
     "uikTvd": "4234021239270",
+    "uikName": "УИК №2330",
     "tikTvd": "22320002182659",
-    "tikName": "Краснодар, Центральная"
+    "tikName": "Краснодар, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2331,
     "uikTvd": "4234021239271",
+    "uikName": "УИК №2331",
     "tikTvd": "22320002182659",
-    "tikName": "Краснодар, Центральная"
+    "tikName": "Краснодар, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2332,
     "uikTvd": "4234021239272",
+    "uikName": "УИК №2332",
     "tikTvd": "22320002182659",
-    "tikName": "Краснодар, Центральная"
+    "tikName": "Краснодар, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2333,
     "uikTvd": "4234021239273",
+    "uikName": "УИК №2333",
     "tikTvd": "22320002182659",
-    "tikName": "Краснодар, Центральная"
+    "tikName": "Краснодар, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2334,
     "uikTvd": "4234021239274",
+    "uikName": "УИК №2334",
     "tikTvd": "22320002182659",
-    "tikName": "Краснодар, Центральная"
+    "tikName": "Краснодар, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2335,
     "uikTvd": "4234021239275",
+    "uikName": "УИК №2335",
     "tikTvd": "22320002182659",
-    "tikName": "Краснодар, Центральная"
+    "tikName": "Краснодар, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2336,
     "uikTvd": "4234021239276",
+    "uikName": "УИК №2336",
     "tikTvd": "22320002182659",
-    "tikName": "Краснодар, Центральная"
+    "tikName": "Краснодар, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2337,
     "uikTvd": "4234021239277",
+    "uikName": "УИК №2337",
     "tikTvd": "22320002182659",
-    "tikName": "Краснодар, Центральная"
+    "tikName": "Краснодар, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2338,
     "uikTvd": "4234021239278",
+    "uikName": "УИК №2338",
     "tikTvd": "22320002182659",
-    "tikName": "Краснодар, Центральная"
+    "tikName": "Краснодар, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2339,
     "uikTvd": "4234021239279",
+    "uikName": "УИК №2339",
     "tikTvd": "22320002182659",
-    "tikName": "Краснодар, Центральная"
+    "tikName": "Краснодар, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2340,
     "uikTvd": "4234021239280",
+    "uikName": "УИК №2340",
     "tikTvd": "22320002182659",
-    "tikName": "Краснодар, Центральная"
+    "tikName": "Краснодар, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2341,
     "uikTvd": "4234021239281",
+    "uikName": "УИК №2341",
     "tikTvd": "22320002182659",
-    "tikName": "Краснодар, Центральная"
+    "tikName": "Краснодар, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2342,
     "uikTvd": "4234021239282",
+    "uikName": "УИК №2342",
     "tikTvd": "22320002182659",
-    "tikName": "Краснодар, Центральная"
+    "tikName": "Краснодар, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2343,
     "uikTvd": "4234021239283",
+    "uikName": "УИК №2343",
     "tikTvd": "22320002182659",
-    "tikName": "Краснодар, Центральная"
+    "tikName": "Краснодар, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2344,
     "uikTvd": "4234021239284",
+    "uikName": "УИК №2344",
     "tikTvd": "22320002182659",
-    "tikName": "Краснодар, Центральная"
+    "tikName": "Краснодар, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2345,
     "uikTvd": "4234021239285",
+    "uikName": "УИК №2345",
     "tikTvd": "22320002182659",
-    "tikName": "Краснодар, Центральная"
+    "tikName": "Краснодар, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2346,
     "uikTvd": "4234021239286",
+    "uikName": "УИК №2346",
     "tikTvd": "22320002182659",
-    "tikName": "Краснодар, Центральная"
+    "tikName": "Краснодар, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2347,
     "uikTvd": "4234021239287",
+    "uikName": "УИК №2347",
     "tikTvd": "22320002182659",
-    "tikName": "Краснодар, Центральная"
+    "tikName": "Краснодар, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2348,
     "uikTvd": "4234021239288",
+    "uikName": "УИК №2348",
     "tikTvd": "22320002182659",
-    "tikName": "Краснодар, Центральная"
+    "tikName": "Краснодар, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2349,
     "uikTvd": "4234021239289",
+    "uikName": "УИК №2349",
     "tikTvd": "22320002182659",
-    "tikName": "Краснодар, Центральная"
+    "tikName": "Краснодар, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2350,
     "uikTvd": "4234021239290",
+    "uikName": "УИК №2350",
     "tikTvd": "22320002182659",
-    "tikName": "Краснодар, Центральная"
+    "tikName": "Краснодар, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2351,
     "uikTvd": "4234021239291",
+    "uikName": "УИК №2351",
     "tikTvd": "22320002182659",
-    "tikName": "Краснодар, Центральная"
+    "tikName": "Краснодар, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2352,
     "uikTvd": "4234021239292",
+    "uikName": "УИК №2352",
     "tikTvd": "22320002182659",
-    "tikName": "Краснодар, Центральная"
+    "tikName": "Краснодар, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2353,
     "uikTvd": "4234021239293",
+    "uikName": "УИК №2353",
     "tikTvd": "22320002182659",
-    "tikName": "Краснодар, Центральная"
+    "tikName": "Краснодар, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2354,
     "uikTvd": "4234021239294",
+    "uikName": "УИК №2354",
     "tikTvd": "22320002182659",
-    "tikName": "Краснодар, Центральная"
+    "tikName": "Краснодар, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2355,
     "uikTvd": "4234021239295",
+    "uikName": "УИК №2355",
     "tikTvd": "22320002182659",
-    "tikName": "Краснодар, Центральная"
+    "tikName": "Краснодар, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2356,
     "uikTvd": "4234021239296",
+    "uikName": "УИК №2356",
     "tikTvd": "22320002182659",
-    "tikName": "Краснодар, Центральная"
+    "tikName": "Краснодар, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2393,
     "uikTvd": "4234021239652",
+    "uikName": "УИК №2393",
     "tikTvd": "22320002182659",
-    "tikName": "Краснодар, Центральная"
+    "tikName": "Краснодар, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2394,
     "uikTvd": "4234021239653",
+    "uikName": "УИК №2394",
     "tikTvd": "22320002182659",
-    "tikName": "Краснодар, Центральная"
+    "tikName": "Краснодар, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2395,
     "uikTvd": "4234021239654",
+    "uikName": "УИК №2395",
     "tikTvd": "22320002182659",
-    "tikName": "Краснодар, Центральная"
+    "tikName": "Краснодар, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2396,
     "uikTvd": "4234021239655",
+    "uikName": "УИК №2396",
     "tikTvd": "22320002182659",
-    "tikName": "Краснодар, Центральная"
+    "tikName": "Краснодар, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2397,
     "uikTvd": "4234021239656",
+    "uikName": "УИК №2397",
     "tikTvd": "22320002182659",
-    "tikName": "Краснодар, Центральная"
+    "tikName": "Краснодар, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2398,
     "uikTvd": "4234021239657",
+    "uikName": "УИК №2398",
     "tikTvd": "22320002182659",
-    "tikName": "Краснодар, Центральная"
+    "tikName": "Краснодар, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2399,
     "uikTvd": "4234021239658",
+    "uikName": "УИК №2399",
     "tikTvd": "22320002182659",
-    "tikName": "Краснодар, Центральная"
+    "tikName": "Краснодар, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2401,
     "uikTvd": "4234022168589",
+    "uikName": "УИК №2401",
     "tikTvd": "22320002182630",
-    "tikName": "Кропоткинская"
+    "tikName": "Кропоткинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2402,
     "uikTvd": "4234022168590",
+    "uikName": "УИК №2402",
     "tikTvd": "22320002182630",
-    "tikName": "Кропоткинская"
+    "tikName": "Кропоткинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2403,
     "uikTvd": "4234022168591",
+    "uikName": "УИК №2403",
     "tikTvd": "22320002182630",
-    "tikName": "Кропоткинская"
+    "tikName": "Кропоткинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2404,
     "uikTvd": "4234022168592",
+    "uikName": "УИК №2404",
     "tikTvd": "22320002182630",
-    "tikName": "Кропоткинская"
+    "tikName": "Кропоткинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2405,
     "uikTvd": "4234022168593",
+    "uikName": "УИК №2405",
     "tikTvd": "22320002182630",
-    "tikName": "Кропоткинская"
+    "tikName": "Кропоткинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2406,
     "uikTvd": "4234022168594",
+    "uikName": "УИК №2406",
     "tikTvd": "22320002182630",
-    "tikName": "Кропоткинская"
+    "tikName": "Кропоткинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2407,
     "uikTvd": "4234022168595",
+    "uikName": "УИК №2407",
     "tikTvd": "22320002182630",
-    "tikName": "Кропоткинская"
+    "tikName": "Кропоткинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2408,
     "uikTvd": "4234022168596",
+    "uikName": "УИК №2408",
     "tikTvd": "22320002182630",
-    "tikName": "Кропоткинская"
+    "tikName": "Кропоткинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2409,
     "uikTvd": "4234022168597",
+    "uikName": "УИК №2409",
     "tikTvd": "22320002182630",
-    "tikName": "Кропоткинская"
+    "tikName": "Кропоткинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2410,
     "uikTvd": "4234022168598",
+    "uikName": "УИК №2410",
     "tikTvd": "22320002182630",
-    "tikName": "Кропоткинская"
+    "tikName": "Кропоткинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2411,
     "uikTvd": "4234022168599",
+    "uikName": "УИК №2411",
     "tikTvd": "22320002182630",
-    "tikName": "Кропоткинская"
+    "tikName": "Кропоткинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2412,
     "uikTvd": "4234022168600",
+    "uikName": "УИК №2412",
     "tikTvd": "22320002182630",
-    "tikName": "Кропоткинская"
+    "tikName": "Кропоткинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2413,
     "uikTvd": "4234022168601",
+    "uikName": "УИК №2413",
     "tikTvd": "22320002182630",
-    "tikName": "Кропоткинская"
+    "tikName": "Кропоткинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2414,
     "uikTvd": "4234022168602",
+    "uikName": "УИК №2414",
     "tikTvd": "22320002182630",
-    "tikName": "Кропоткинская"
+    "tikName": "Кропоткинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2415,
     "uikTvd": "4234022168603",
+    "uikName": "УИК №2415",
     "tikTvd": "22320002182630",
-    "tikName": "Кропоткинская"
+    "tikName": "Кропоткинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2416,
     "uikTvd": "4234022168604",
+    "uikName": "УИК №2416",
     "tikTvd": "22320002182630",
-    "tikName": "Кропоткинская"
+    "tikName": "Кропоткинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2417,
     "uikTvd": "4234022168605",
+    "uikName": "УИК №2417",
     "tikTvd": "22320002182630",
-    "tikName": "Кропоткинская"
+    "tikName": "Кропоткинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2418,
     "uikTvd": "4234022168606",
+    "uikName": "УИК №2418",
     "tikTvd": "22320002182630",
-    "tikName": "Кропоткинская"
+    "tikName": "Кропоткинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2419,
     "uikTvd": "4234022168607",
+    "uikName": "УИК №2419",
     "tikTvd": "22320002182630",
-    "tikName": "Кропоткинская"
+    "tikName": "Кропоткинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2420,
     "uikTvd": "4234022168608",
+    "uikName": "УИК №2420",
     "tikTvd": "22320002182630",
-    "tikName": "Кропоткинская"
+    "tikName": "Кропоткинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2421,
     "uikTvd": "4234022168609",
+    "uikName": "УИК №2421",
     "tikTvd": "22320002182630",
-    "tikName": "Кропоткинская"
+    "tikName": "Кропоткинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2422,
     "uikTvd": "4234022168610",
+    "uikName": "УИК №2422",
     "tikTvd": "22320002182630",
-    "tikName": "Кропоткинская"
+    "tikName": "Кропоткинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2423,
     "uikTvd": "4234022168611",
+    "uikName": "УИК №2423",
     "tikTvd": "22320002182630",
-    "tikName": "Кропоткинская"
+    "tikName": "Кропоткинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2424,
     "uikTvd": "4234022168612",
+    "uikName": "УИК №2424",
     "tikTvd": "22320002182630",
-    "tikName": "Кропоткинская"
+    "tikName": "Кропоткинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2425,
     "uikTvd": "4234022168613",
+    "uikName": "УИК №2425",
     "tikTvd": "22320002182630",
-    "tikName": "Кропоткинская"
+    "tikName": "Кропоткинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2426,
     "uikTvd": "4234022168614",
+    "uikName": "УИК №2426",
     "tikTvd": "22320002182630",
-    "tikName": "Кропоткинская"
+    "tikName": "Кропоткинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2427,
     "uikTvd": "4234022168615",
+    "uikName": "УИК №2427",
     "tikTvd": "22320002182630",
-    "tikName": "Кропоткинская"
+    "tikName": "Кропоткинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2428,
     "uikTvd": "4234022168616",
+    "uikName": "УИК №2428",
     "tikTvd": "22320002182630",
-    "tikName": "Кропоткинская"
+    "tikName": "Кропоткинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2429,
     "uikTvd": "4234022168617",
+    "uikName": "УИК №2429",
     "tikTvd": "22320002182630",
-    "tikName": "Кропоткинская"
+    "tikName": "Кропоткинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2430,
     "uikTvd": "4234022168618",
+    "uikName": "УИК №2430",
     "tikTvd": "22320002182630",
-    "tikName": "Кропоткинская"
+    "tikName": "Кропоткинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2431,
     "uikTvd": "4234022168619",
+    "uikName": "УИК №2431",
     "tikTvd": "22320002182630",
-    "tikName": "Кропоткинская"
+    "tikName": "Кропоткинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2432,
     "uikTvd": "4234022168620",
+    "uikName": "УИК №2432",
     "tikTvd": "22320002182630",
-    "tikName": "Кропоткинская"
+    "tikName": "Кропоткинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2433,
     "uikTvd": "4234022168621",
+    "uikName": "УИК №2433",
     "tikTvd": "22320002182630",
-    "tikName": "Кропоткинская"
+    "tikName": "Кропоткинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2434,
     "uikTvd": "4234022168622",
+    "uikName": "УИК №2434",
     "tikTvd": "22320002182630",
-    "tikName": "Кропоткинская"
+    "tikName": "Кропоткинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2501,
     "uikTvd": "4234023182202",
+    "uikName": "УИК №2501",
     "tikTvd": "22320002182629",
-    "tikName": "Крыловская"
+    "tikName": "Крыловская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2502,
     "uikTvd": "4234023182203",
+    "uikName": "УИК №2502",
     "tikTvd": "22320002182629",
-    "tikName": "Крыловская"
+    "tikName": "Крыловская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2503,
     "uikTvd": "4234023182204",
+    "uikName": "УИК №2503",
     "tikTvd": "22320002182629",
-    "tikName": "Крыловская"
+    "tikName": "Крыловская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2504,
     "uikTvd": "4234023182205",
+    "uikName": "УИК №2504",
     "tikTvd": "22320002182629",
-    "tikName": "Крыловская"
+    "tikName": "Крыловская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2505,
     "uikTvd": "4234023182206",
+    "uikName": "УИК №2505",
     "tikTvd": "22320002182629",
-    "tikName": "Крыловская"
+    "tikName": "Крыловская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2506,
     "uikTvd": "4234023182207",
+    "uikName": "УИК №2506",
     "tikTvd": "22320002182629",
-    "tikName": "Крыловская"
+    "tikName": "Крыловская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2507,
     "uikTvd": "4234023182208",
+    "uikName": "УИК №2507",
     "tikTvd": "22320002182629",
-    "tikName": "Крыловская"
+    "tikName": "Крыловская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2508,
     "uikTvd": "4234023182209",
+    "uikName": "УИК №2508",
     "tikTvd": "22320002182629",
-    "tikName": "Крыловская"
+    "tikName": "Крыловская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2509,
     "uikTvd": "4234023182210",
+    "uikName": "УИК №2509",
     "tikTvd": "22320002182629",
-    "tikName": "Крыловская"
+    "tikName": "Крыловская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2510,
     "uikTvd": "4234023182211",
+    "uikName": "УИК №2510",
     "tikTvd": "22320002182629",
-    "tikName": "Крыловская"
+    "tikName": "Крыловская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2511,
     "uikTvd": "4234023182212",
+    "uikName": "УИК №2511",
     "tikTvd": "22320002182629",
-    "tikName": "Крыловская"
+    "tikName": "Крыловская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2512,
     "uikTvd": "4234023182213",
+    "uikName": "УИК №2512",
     "tikTvd": "22320002182629",
-    "tikName": "Крыловская"
+    "tikName": "Крыловская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2513,
     "uikTvd": "4234023182214",
+    "uikName": "УИК №2513",
     "tikTvd": "22320002182629",
-    "tikName": "Крыловская"
+    "tikName": "Крыловская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2514,
     "uikTvd": "4234023182215",
+    "uikName": "УИК №2514",
     "tikTvd": "22320002182629",
-    "tikName": "Крыловская"
+    "tikName": "Крыловская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2515,
     "uikTvd": "4234023182216",
+    "uikName": "УИК №2515",
     "tikTvd": "22320002182629",
-    "tikName": "Крыловская"
+    "tikName": "Крыловская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2516,
     "uikTvd": "4234023182217",
+    "uikName": "УИК №2516",
     "tikTvd": "22320002182629",
-    "tikName": "Крыловская"
+    "tikName": "Крыловская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2517,
     "uikTvd": "4234023182218",
+    "uikName": "УИК №2517",
     "tikTvd": "22320002182629",
-    "tikName": "Крыловская"
+    "tikName": "Крыловская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2518,
     "uikTvd": "4234023182219",
+    "uikName": "УИК №2518",
     "tikTvd": "22320002182629",
-    "tikName": "Крыловская"
+    "tikName": "Крыловская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2519,
     "uikTvd": "4234023182220",
+    "uikName": "УИК №2519",
     "tikTvd": "22320002182629",
-    "tikName": "Крыловская"
+    "tikName": "Крыловская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2520,
     "uikTvd": "4234023182221",
+    "uikName": "УИК №2520",
     "tikTvd": "22320002182629",
-    "tikName": "Крыловская"
+    "tikName": "Крыловская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2521,
     "uikTvd": "4234023182222",
+    "uikName": "УИК №2521",
     "tikTvd": "22320002182629",
-    "tikName": "Крыловская"
+    "tikName": "Крыловская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2522,
     "uikTvd": "4234023182223",
+    "uikName": "УИК №2522",
     "tikTvd": "22320002182629",
-    "tikName": "Крыловская"
+    "tikName": "Крыловская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2523,
     "uikTvd": "4234023182224",
+    "uikName": "УИК №2523",
     "tikTvd": "22320002182629",
-    "tikName": "Крыловская"
+    "tikName": "Крыловская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2524,
     "uikTvd": "4234023182225",
+    "uikName": "УИК №2524",
     "tikTvd": "22320002182629",
-    "tikName": "Крыловская"
+    "tikName": "Крыловская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2525,
     "uikTvd": "4234023182226",
+    "uikName": "УИК №2525",
     "tikTvd": "22320002182629",
-    "tikName": "Крыловская"
+    "tikName": "Крыловская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2526,
     "uikTvd": "4234023182227",
+    "uikName": "УИК №2526",
     "tikTvd": "22320002182629",
-    "tikName": "Крыловская"
+    "tikName": "Крыловская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2527,
     "uikTvd": "4234023182228",
+    "uikName": "УИК №2527",
     "tikTvd": "22320002182629",
-    "tikName": "Крыловская"
+    "tikName": "Крыловская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2528,
     "uikTvd": "4234023182229",
+    "uikName": "УИК №2528",
     "tikTvd": "22320002182629",
-    "tikName": "Крыловская"
+    "tikName": "Крыловская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2529,
     "uikTvd": "4234023182230",
+    "uikName": "УИК №2529",
     "tikTvd": "22320002182629",
-    "tikName": "Крыловская"
+    "tikName": "Крыловская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2530,
     "uikTvd": "4234023182231",
+    "uikName": "УИК №2530",
     "tikTvd": "22320002182629",
-    "tikName": "Крыловская"
+    "tikName": "Крыловская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2531,
     "uikTvd": "4234023182232",
+    "uikName": "УИК №2531",
     "tikTvd": "22320002182629",
-    "tikName": "Крыловская"
+    "tikName": "Крыловская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2532,
     "uikTvd": "4234023182233",
+    "uikName": "УИК №2532",
     "tikTvd": "22320002182629",
-    "tikName": "Крыловская"
+    "tikName": "Крыловская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2533,
     "uikTvd": "4234023182234",
+    "uikName": "УИК №2533",
     "tikTvd": "22320002182629",
-    "tikName": "Крыловская"
+    "tikName": "Крыловская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2534,
     "uikTvd": "4234023182235",
+    "uikName": "УИК №2534",
     "tikTvd": "22320002182629",
-    "tikName": "Крыловская"
+    "tikName": "Крыловская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2535,
     "uikTvd": "4234023182236",
+    "uikName": "УИК №2535",
     "tikTvd": "22320002182629",
-    "tikName": "Крыловская"
+    "tikName": "Крыловская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2536,
     "uikTvd": "4234023182237",
+    "uikName": "УИК №2536",
     "tikTvd": "22320002182629",
-    "tikName": "Крыловская"
+    "tikName": "Крыловская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2537,
     "uikTvd": "4234023182238",
+    "uikName": "УИК №2537",
     "tikTvd": "22320002182629",
-    "tikName": "Крыловская"
+    "tikName": "Крыловская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2601,
     "uikTvd": "4234024299972",
+    "uikName": "УИК №2601",
     "tikTvd": "22320002182650",
-    "tikName": "Крымская"
+    "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2602,
     "uikTvd": "4234024299976",
+    "uikName": "УИК №2602",
     "tikTvd": "22320002182650",
-    "tikName": "Крымская"
+    "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2603,
     "uikTvd": "4234024299977",
+    "uikName": "УИК №2603",
     "tikTvd": "22320002182650",
-    "tikName": "Крымская"
+    "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2604,
     "uikTvd": "4234024299978",
+    "uikName": "УИК №2604",
     "tikTvd": "22320002182650",
-    "tikName": "Крымская"
+    "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2605,
     "uikTvd": "4234024299979",
+    "uikName": "УИК №2605",
     "tikTvd": "22320002182650",
-    "tikName": "Крымская"
+    "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2606,
     "uikTvd": "4234024299980",
+    "uikName": "УИК №2606",
     "tikTvd": "22320002182650",
-    "tikName": "Крымская"
+    "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2607,
     "uikTvd": "4234024299981",
+    "uikName": "УИК №2607",
     "tikTvd": "22320002182650",
-    "tikName": "Крымская"
+    "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2608,
     "uikTvd": "4234024299982",
+    "uikName": "УИК №2608",
     "tikTvd": "22320002182650",
-    "tikName": "Крымская"
+    "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2609,
     "uikTvd": "4234024299983",
+    "uikName": "УИК №2609",
     "tikTvd": "22320002182650",
-    "tikName": "Крымская"
+    "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2610,
     "uikTvd": "4234024299984",
+    "uikName": "УИК №2610",
     "tikTvd": "22320002182650",
-    "tikName": "Крымская"
+    "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2611,
     "uikTvd": "4234024299985",
+    "uikName": "УИК №2611",
     "tikTvd": "22320002182650",
-    "tikName": "Крымская"
+    "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2612,
     "uikTvd": "4234024299986",
+    "uikName": "УИК №2612",
     "tikTvd": "22320002182650",
-    "tikName": "Крымская"
+    "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2613,
     "uikTvd": "4234024299987",
+    "uikName": "УИК №2613",
     "tikTvd": "22320002182650",
-    "tikName": "Крымская"
+    "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2614,
     "uikTvd": "4234024299988",
+    "uikName": "УИК №2614",
     "tikTvd": "22320002182650",
-    "tikName": "Крымская"
+    "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2615,
     "uikTvd": "4234024299989",
+    "uikName": "УИК №2615",
     "tikTvd": "22320002182650",
-    "tikName": "Крымская"
+    "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2616,
     "uikTvd": "4234024299990",
+    "uikName": "УИК №2616",
     "tikTvd": "22320002182650",
-    "tikName": "Крымская"
+    "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2617,
     "uikTvd": "4234024299991",
+    "uikName": "УИК №2617",
     "tikTvd": "22320002182650",
-    "tikName": "Крымская"
+    "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2618,
     "uikTvd": "4234024299992",
+    "uikName": "УИК №2618",
     "tikTvd": "22320002182650",
-    "tikName": "Крымская"
+    "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2619,
     "uikTvd": "4234024299993",
+    "uikName": "УИК №2619",
     "tikTvd": "22320002182650",
-    "tikName": "Крымская"
+    "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2620,
     "uikTvd": "4234024299994",
+    "uikName": "УИК №2620",
     "tikTvd": "22320002182650",
-    "tikName": "Крымская"
+    "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2621,
     "uikTvd": "4234024299995",
+    "uikName": "УИК №2621",
     "tikTvd": "22320002182650",
-    "tikName": "Крымская"
+    "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2622,
     "uikTvd": "4234024299998",
+    "uikName": "УИК №2622",
     "tikTvd": "22320002182650",
-    "tikName": "Крымская"
+    "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2623,
     "uikTvd": "4234024299999",
+    "uikName": "УИК №2623",
     "tikTvd": "22320002182650",
-    "tikName": "Крымская"
+    "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2624,
     "uikTvd": "4234024300000",
+    "uikName": "УИК №2624",
     "tikTvd": "22320002182650",
-    "tikName": "Крымская"
+    "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2625,
     "uikTvd": "4234024300001",
+    "uikName": "УИК №2625",
     "tikTvd": "22320002182650",
-    "tikName": "Крымская"
+    "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2626,
     "uikTvd": "4234024300002",
+    "uikName": "УИК №2626",
     "tikTvd": "22320002182650",
-    "tikName": "Крымская"
+    "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2627,
     "uikTvd": "4234024300003",
+    "uikName": "УИК №2627",
     "tikTvd": "22320002182650",
-    "tikName": "Крымская"
+    "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2628,
     "uikTvd": "4234024300004",
+    "uikName": "УИК №2628",
     "tikTvd": "22320002182650",
-    "tikName": "Крымская"
+    "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2629,
     "uikTvd": "4234024300005",
+    "uikName": "УИК №2629",
     "tikTvd": "22320002182650",
-    "tikName": "Крымская"
+    "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2630,
     "uikTvd": "4234024300006",
+    "uikName": "УИК №2630",
     "tikTvd": "22320002182650",
-    "tikName": "Крымская"
+    "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2631,
     "uikTvd": "4234024300007",
+    "uikName": "УИК №2631",
     "tikTvd": "22320002182650",
-    "tikName": "Крымская"
+    "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2632,
     "uikTvd": "4234024300008",
+    "uikName": "УИК №2632",
     "tikTvd": "22320002182650",
-    "tikName": "Крымская"
+    "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2633,
     "uikTvd": "4234024300009",
+    "uikName": "УИК №2633",
     "tikTvd": "22320002182650",
-    "tikName": "Крымская"
+    "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2634,
     "uikTvd": "4234024300010",
+    "uikName": "УИК №2634",
     "tikTvd": "22320002182650",
-    "tikName": "Крымская"
+    "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2635,
     "uikTvd": "4234024300011",
+    "uikName": "УИК №2635",
     "tikTvd": "22320002182650",
-    "tikName": "Крымская"
+    "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2636,
     "uikTvd": "4234024300013",
+    "uikName": "УИК №2636",
     "tikTvd": "22320002182650",
-    "tikName": "Крымская"
+    "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2637,
     "uikTvd": "4234024300014",
+    "uikName": "УИК №2637",
     "tikTvd": "22320002182650",
-    "tikName": "Крымская"
+    "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2638,
     "uikTvd": "4234024300015",
+    "uikName": "УИК №2638",
     "tikTvd": "22320002182650",
-    "tikName": "Крымская"
+    "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2639,
     "uikTvd": "4234024300016",
+    "uikName": "УИК №2639",
     "tikTvd": "22320002182650",
-    "tikName": "Крымская"
+    "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2640,
     "uikTvd": "4234024300017",
+    "uikName": "УИК №2640",
     "tikTvd": "22320002182650",
-    "tikName": "Крымская"
+    "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2641,
     "uikTvd": "4234024300018",
+    "uikName": "УИК №2641",
     "tikTvd": "22320002182650",
-    "tikName": "Крымская"
+    "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2642,
     "uikTvd": "4234024300019",
+    "uikName": "УИК №2642",
     "tikTvd": "22320002182650",
-    "tikName": "Крымская"
+    "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2643,
     "uikTvd": "4234024300020",
+    "uikName": "УИК №2643",
     "tikTvd": "22320002182650",
-    "tikName": "Крымская"
+    "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2644,
     "uikTvd": "4234024300021",
+    "uikName": "УИК №2644",
     "tikTvd": "22320002182650",
-    "tikName": "Крымская"
+    "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2645,
     "uikTvd": "4234024300022",
+    "uikName": "УИК №2645",
     "tikTvd": "22320002182650",
-    "tikName": "Крымская"
+    "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2646,
     "uikTvd": "4234024300023",
+    "uikName": "УИК №2646",
     "tikTvd": "22320002182650",
-    "tikName": "Крымская"
+    "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2647,
     "uikTvd": "4234024300024",
+    "uikName": "УИК №2647",
     "tikTvd": "22320002182650",
-    "tikName": "Крымская"
+    "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2648,
     "uikTvd": "4234024300025",
+    "uikName": "УИК №2648",
     "tikTvd": "22320002182650",
-    "tikName": "Крымская"
+    "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2649,
     "uikTvd": "4234024300026",
+    "uikName": "УИК №2649",
     "tikTvd": "22320002182650",
-    "tikName": "Крымская"
+    "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2650,
     "uikTvd": "4234024300027",
+    "uikName": "УИК №2650",
     "tikTvd": "22320002182650",
-    "tikName": "Крымская"
+    "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2651,
     "uikTvd": "4234024300028",
+    "uikName": "УИК №2651",
     "tikTvd": "22320002182650",
-    "tikName": "Крымская"
+    "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2652,
     "uikTvd": "4234024300029",
+    "uikName": "УИК №2652",
     "tikTvd": "22320002182650",
-    "tikName": "Крымская"
+    "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2653,
     "uikTvd": "4234024300030",
+    "uikName": "УИК №2653",
     "tikTvd": "22320002182650",
-    "tikName": "Крымская"
+    "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2654,
     "uikTvd": "4234024300031",
+    "uikName": "УИК №2654",
     "tikTvd": "22320002182650",
-    "tikName": "Крымская"
+    "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2655,
     "uikTvd": "4234024300032",
+    "uikName": "УИК №2655",
     "tikTvd": "22320002182650",
-    "tikName": "Крымская"
+    "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2656,
     "uikTvd": "4234024300035",
+    "uikName": "УИК №2656",
     "tikTvd": "22320002182650",
-    "tikName": "Крымская"
+    "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2657,
     "uikTvd": "4234024300036",
+    "uikName": "УИК №2657",
     "tikTvd": "22320002182650",
-    "tikName": "Крымская"
+    "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2658,
     "uikTvd": "4234024300037",
+    "uikName": "УИК №2658",
     "tikTvd": "22320002182650",
-    "tikName": "Крымская"
+    "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2659,
     "uikTvd": "4234024300038",
+    "uikName": "УИК №2659",
     "tikTvd": "22320002182650",
-    "tikName": "Крымская"
+    "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2660,
     "uikTvd": "4234024300039",
+    "uikName": "УИК №2660",
     "tikTvd": "22320002182650",
-    "tikName": "Крымская"
+    "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2661,
     "uikTvd": "4234024300042",
+    "uikName": "УИК №2661",
     "tikTvd": "22320002182650",
-    "tikName": "Крымская"
+    "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2662,
     "uikTvd": "4234024300043",
+    "uikName": "УИК №2662",
     "tikTvd": "22320002182650",
-    "tikName": "Крымская"
+    "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2663,
     "uikTvd": "4234024300044",
+    "uikName": "УИК №2663",
     "tikTvd": "22320002182650",
-    "tikName": "Крымская"
+    "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2664,
     "uikTvd": "4234024300045",
+    "uikName": "УИК №2664",
     "tikTvd": "22320002182650",
-    "tikName": "Крымская"
+    "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2665,
     "uikTvd": "4234024300046",
+    "uikName": "УИК №2665",
     "tikTvd": "22320002182650",
-    "tikName": "Крымская"
+    "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2666,
     "uikTvd": "4234024300051",
+    "uikName": "УИК №2666",
     "tikTvd": "22320002182650",
-    "tikName": "Крымская"
+    "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2667,
     "uikTvd": "4234024300053",
+    "uikName": "УИК №2667",
     "tikTvd": "22320002182650",
-    "tikName": "Крымская"
+    "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2668,
     "uikTvd": "4234024300055",
+    "uikName": "УИК №2668",
     "tikTvd": "22320002182650",
-    "tikName": "Крымская"
+    "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2669,
     "uikTvd": "4234024300060",
+    "uikName": "УИК №2669",
     "tikTvd": "22320002182650",
-    "tikName": "Крымская"
+    "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2670,
     "uikTvd": "4234024300062",
+    "uikName": "УИК №2670",
     "tikTvd": "22320002182650",
-    "tikName": "Крымская"
+    "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2701,
     "uikTvd": "4234025254050",
+    "uikName": "УИК №2701",
     "tikTvd": "22320002182648",
-    "tikName": "Курганинская"
+    "tikName": "Курганинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2702,
     "uikTvd": "4234025254051",
+    "uikName": "УИК №2702",
     "tikTvd": "22320002182648",
-    "tikName": "Курганинская"
+    "tikName": "Курганинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2703,
     "uikTvd": "4234025254052",
+    "uikName": "УИК №2703",
     "tikTvd": "22320002182648",
-    "tikName": "Курганинская"
+    "tikName": "Курганинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2704,
     "uikTvd": "4234025254053",
+    "uikName": "УИК №2704",
     "tikTvd": "22320002182648",
-    "tikName": "Курганинская"
+    "tikName": "Курганинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2705,
     "uikTvd": "4234025254054",
+    "uikName": "УИК №2705",
     "tikTvd": "22320002182648",
-    "tikName": "Курганинская"
+    "tikName": "Курганинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2706,
     "uikTvd": "4234025254055",
+    "uikName": "УИК №2706",
     "tikTvd": "22320002182648",
-    "tikName": "Курганинская"
+    "tikName": "Курганинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2707,
     "uikTvd": "4234025254056",
+    "uikName": "УИК №2707",
     "tikTvd": "22320002182648",
-    "tikName": "Курганинская"
+    "tikName": "Курганинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2708,
     "uikTvd": "4234025254057",
+    "uikName": "УИК №2708",
     "tikTvd": "22320002182648",
-    "tikName": "Курганинская"
+    "tikName": "Курганинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2709,
     "uikTvd": "4234025254058",
+    "uikName": "УИК №2709",
     "tikTvd": "22320002182648",
-    "tikName": "Курганинская"
+    "tikName": "Курганинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2710,
     "uikTvd": "4234025254059",
+    "uikName": "УИК №2710",
     "tikTvd": "22320002182648",
-    "tikName": "Курганинская"
+    "tikName": "Курганинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2711,
     "uikTvd": "4234025254060",
+    "uikName": "УИК №2711",
     "tikTvd": "22320002182648",
-    "tikName": "Курганинская"
+    "tikName": "Курганинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2712,
     "uikTvd": "4234025254061",
+    "uikName": "УИК №2712",
     "tikTvd": "22320002182648",
-    "tikName": "Курганинская"
+    "tikName": "Курганинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2713,
     "uikTvd": "4234025254062",
+    "uikName": "УИК №2713",
     "tikTvd": "22320002182648",
-    "tikName": "Курганинская"
+    "tikName": "Курганинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2714,
     "uikTvd": "4234025254063",
+    "uikName": "УИК №2714",
     "tikTvd": "22320002182648",
-    "tikName": "Курганинская"
+    "tikName": "Курганинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2715,
     "uikTvd": "4234025254064",
+    "uikName": "УИК №2715",
     "tikTvd": "22320002182648",
-    "tikName": "Курганинская"
+    "tikName": "Курганинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2716,
     "uikTvd": "4234025254065",
+    "uikName": "УИК №2716",
     "tikTvd": "22320002182648",
-    "tikName": "Курганинская"
+    "tikName": "Курганинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2717,
     "uikTvd": "4234025254066",
+    "uikName": "УИК №2717",
     "tikTvd": "22320002182648",
-    "tikName": "Курганинская"
+    "tikName": "Курганинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2718,
     "uikTvd": "4234025254067",
+    "uikName": "УИК №2718",
     "tikTvd": "22320002182648",
-    "tikName": "Курганинская"
+    "tikName": "Курганинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2719,
     "uikTvd": "4234025254068",
+    "uikName": "УИК №2719",
     "tikTvd": "22320002182648",
-    "tikName": "Курганинская"
+    "tikName": "Курганинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2720,
     "uikTvd": "4234025254069",
+    "uikName": "УИК №2720",
     "tikTvd": "22320002182648",
-    "tikName": "Курганинская"
+    "tikName": "Курганинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2721,
     "uikTvd": "4234025254070",
+    "uikName": "УИК №2721",
     "tikTvd": "22320002182648",
-    "tikName": "Курганинская"
+    "tikName": "Курганинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2722,
     "uikTvd": "4234025254071",
+    "uikName": "УИК №2722",
     "tikTvd": "22320002182648",
-    "tikName": "Курганинская"
+    "tikName": "Курганинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2723,
     "uikTvd": "4234025254072",
+    "uikName": "УИК №2723",
     "tikTvd": "22320002182648",
-    "tikName": "Курганинская"
+    "tikName": "Курганинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2724,
     "uikTvd": "4234025254073",
+    "uikName": "УИК №2724",
     "tikTvd": "22320002182648",
-    "tikName": "Курганинская"
+    "tikName": "Курганинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2725,
     "uikTvd": "4234025254074",
+    "uikName": "УИК №2725",
     "tikTvd": "22320002182648",
-    "tikName": "Курганинская"
+    "tikName": "Курганинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2726,
     "uikTvd": "4234025254075",
+    "uikName": "УИК №2726",
     "tikTvd": "22320002182648",
-    "tikName": "Курганинская"
+    "tikName": "Курганинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2727,
     "uikTvd": "4234025254076",
+    "uikName": "УИК №2727",
     "tikTvd": "22320002182648",
-    "tikName": "Курганинская"
+    "tikName": "Курганинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2728,
     "uikTvd": "4234025254077",
+    "uikName": "УИК №2728",
     "tikTvd": "22320002182648",
-    "tikName": "Курганинская"
+    "tikName": "Курганинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2729,
     "uikTvd": "4234025254078",
+    "uikName": "УИК №2729",
     "tikTvd": "22320002182648",
-    "tikName": "Курганинская"
+    "tikName": "Курганинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2730,
     "uikTvd": "4234025254079",
+    "uikName": "УИК №2730",
     "tikTvd": "22320002182648",
-    "tikName": "Курганинская"
+    "tikName": "Курганинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2731,
     "uikTvd": "4234025254080",
+    "uikName": "УИК №2731",
     "tikTvd": "22320002182648",
-    "tikName": "Курганинская"
+    "tikName": "Курганинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2732,
     "uikTvd": "4234025254081",
+    "uikName": "УИК №2732",
     "tikTvd": "22320002182648",
-    "tikName": "Курганинская"
+    "tikName": "Курганинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2733,
     "uikTvd": "4234025254082",
+    "uikName": "УИК №2733",
     "tikTvd": "22320002182648",
-    "tikName": "Курганинская"
+    "tikName": "Курганинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2734,
     "uikTvd": "4234025254083",
+    "uikName": "УИК №2734",
     "tikTvd": "22320002182648",
-    "tikName": "Курганинская"
+    "tikName": "Курганинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2735,
     "uikTvd": "4234025254084",
+    "uikName": "УИК №2735",
     "tikTvd": "22320002182648",
-    "tikName": "Курганинская"
+    "tikName": "Курганинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2736,
     "uikTvd": "4234025254085",
+    "uikName": "УИК №2736",
     "tikTvd": "22320002182648",
-    "tikName": "Курганинская"
+    "tikName": "Курганинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2737,
     "uikTvd": "4234025254086",
+    "uikName": "УИК №2737",
     "tikTvd": "22320002182648",
-    "tikName": "Курганинская"
+    "tikName": "Курганинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2738,
     "uikTvd": "4234025254087",
+    "uikName": "УИК №2738",
     "tikTvd": "22320002182648",
-    "tikName": "Курганинская"
+    "tikName": "Курганинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2739,
     "uikTvd": "4234025254088",
+    "uikName": "УИК №2739",
     "tikTvd": "22320002182648",
-    "tikName": "Курганинская"
+    "tikName": "Курганинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2740,
     "uikTvd": "4234025254089",
+    "uikName": "УИК №2740",
     "tikTvd": "22320002182648",
-    "tikName": "Курганинская"
+    "tikName": "Курганинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2741,
     "uikTvd": "4234025254090",
+    "uikName": "УИК №2741",
     "tikTvd": "22320002182648",
-    "tikName": "Курганинская"
+    "tikName": "Курганинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2742,
     "uikTvd": "4234025254091",
+    "uikName": "УИК №2742",
     "tikTvd": "22320002182648",
-    "tikName": "Курганинская"
+    "tikName": "Курганинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2743,
     "uikTvd": "4234025254092",
+    "uikName": "УИК №2743",
     "tikTvd": "22320002182648",
-    "tikName": "Курганинская"
+    "tikName": "Курганинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2744,
     "uikTvd": "4234025254093",
+    "uikName": "УИК №2744",
     "tikTvd": "22320002182648",
-    "tikName": "Курганинская"
+    "tikName": "Курганинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2745,
     "uikTvd": "4234025254094",
+    "uikName": "УИК №2745",
     "tikTvd": "22320002182648",
-    "tikName": "Курганинская"
+    "tikName": "Курганинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2746,
     "uikTvd": "4234025254095",
+    "uikName": "УИК №2746",
     "tikTvd": "22320002182648",
-    "tikName": "Курганинская"
+    "tikName": "Курганинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2747,
     "uikTvd": "4234025254096",
+    "uikName": "УИК №2747",
     "tikTvd": "22320002182648",
-    "tikName": "Курганинская"
+    "tikName": "Курганинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2748,
     "uikTvd": "4234025254097",
+    "uikName": "УИК №2748",
     "tikTvd": "22320002182648",
-    "tikName": "Курганинская"
+    "tikName": "Курганинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2749,
     "uikTvd": "4234025254098",
+    "uikName": "УИК №2749",
     "tikTvd": "22320002182648",
-    "tikName": "Курганинская"
+    "tikName": "Курганинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2750,
     "uikTvd": "4234025254099",
+    "uikName": "УИК №2750",
     "tikTvd": "22320002182648",
-    "tikName": "Курганинская"
+    "tikName": "Курганинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2751,
     "uikTvd": "4234025254100",
+    "uikName": "УИК №2751",
     "tikTvd": "22320002182648",
-    "tikName": "Курганинская"
+    "tikName": "Курганинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2752,
     "uikTvd": "4234025254101",
+    "uikName": "УИК №2752",
     "tikTvd": "22320002182648",
-    "tikName": "Курганинская"
+    "tikName": "Курганинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2753,
     "uikTvd": "4234025254102",
+    "uikName": "УИК №2753",
     "tikTvd": "22320002182648",
-    "tikName": "Курганинская"
+    "tikName": "Курганинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2754,
     "uikTvd": "4234025254103",
+    "uikName": "УИК №2754",
     "tikTvd": "22320002182648",
-    "tikName": "Курганинская"
+    "tikName": "Курганинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2755,
     "uikTvd": "4234025254104",
+    "uikName": "УИК №2755",
     "tikTvd": "22320002182648",
-    "tikName": "Курганинская"
+    "tikName": "Курганинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2756,
     "uikTvd": "4234025254105",
+    "uikName": "УИК №2756",
     "tikTvd": "22320002182648",
-    "tikName": "Курганинская"
+    "tikName": "Курганинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2757,
     "uikTvd": "4234025254106",
+    "uikName": "УИК №2757",
     "tikTvd": "22320002182648",
-    "tikName": "Курганинская"
+    "tikName": "Курганинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2758,
     "uikTvd": "4234025254107",
+    "uikName": "УИК №2758",
     "tikTvd": "22320002182648",
-    "tikName": "Курганинская"
+    "tikName": "Курганинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2759,
     "uikTvd": "4234025254108",
+    "uikName": "УИК №2759",
     "tikTvd": "22320002182648",
-    "tikName": "Курганинская"
+    "tikName": "Курганинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2801,
     "uikTvd": "4234027235271",
+    "uikName": "УИК №2801",
     "tikTvd": "22320002182626",
-    "tikName": "Кущевская"
+    "tikName": "Кущевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2802,
     "uikTvd": "4234027235272",
+    "uikName": "УИК №2802",
     "tikTvd": "22320002182626",
-    "tikName": "Кущевская"
+    "tikName": "Кущевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2803,
     "uikTvd": "4234027235273",
+    "uikName": "УИК №2803",
     "tikTvd": "22320002182626",
-    "tikName": "Кущевская"
+    "tikName": "Кущевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2804,
     "uikTvd": "4234027235274",
+    "uikName": "УИК №2804",
     "tikTvd": "22320002182626",
-    "tikName": "Кущевская"
+    "tikName": "Кущевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2805,
     "uikTvd": "4234027235275",
+    "uikName": "УИК №2805",
     "tikTvd": "22320002182626",
-    "tikName": "Кущевская"
+    "tikName": "Кущевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2806,
     "uikTvd": "4234027235276",
+    "uikName": "УИК №2806",
     "tikTvd": "22320002182626",
-    "tikName": "Кущевская"
+    "tikName": "Кущевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2807,
     "uikTvd": "4234027235277",
+    "uikName": "УИК №2807",
     "tikTvd": "22320002182626",
-    "tikName": "Кущевская"
+    "tikName": "Кущевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2808,
     "uikTvd": "4234027235278",
+    "uikName": "УИК №2808",
     "tikTvd": "22320002182626",
-    "tikName": "Кущевская"
+    "tikName": "Кущевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2809,
     "uikTvd": "4234027235279",
+    "uikName": "УИК №2809",
     "tikTvd": "22320002182626",
-    "tikName": "Кущевская"
+    "tikName": "Кущевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2810,
     "uikTvd": "4234027235280",
+    "uikName": "УИК №2810",
     "tikTvd": "22320002182626",
-    "tikName": "Кущевская"
+    "tikName": "Кущевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2811,
     "uikTvd": "4234027235281",
+    "uikName": "УИК №2811",
     "tikTvd": "22320002182626",
-    "tikName": "Кущевская"
+    "tikName": "Кущевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2812,
     "uikTvd": "4234027235282",
+    "uikName": "УИК №2812",
     "tikTvd": "22320002182626",
-    "tikName": "Кущевская"
+    "tikName": "Кущевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2813,
     "uikTvd": "4234027235283",
+    "uikName": "УИК №2813",
     "tikTvd": "22320002182626",
-    "tikName": "Кущевская"
+    "tikName": "Кущевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2814,
     "uikTvd": "4234027235284",
+    "uikName": "УИК №2814",
     "tikTvd": "22320002182626",
-    "tikName": "Кущевская"
+    "tikName": "Кущевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2815,
     "uikTvd": "4234027235285",
+    "uikName": "УИК №2815",
     "tikTvd": "22320002182626",
-    "tikName": "Кущевская"
+    "tikName": "Кущевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2816,
     "uikTvd": "4234027235286",
+    "uikName": "УИК №2816",
     "tikTvd": "22320002182626",
-    "tikName": "Кущевская"
+    "tikName": "Кущевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2817,
     "uikTvd": "4234027235287",
+    "uikName": "УИК №2817",
     "tikTvd": "22320002182626",
-    "tikName": "Кущевская"
+    "tikName": "Кущевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2818,
     "uikTvd": "4234027235288",
+    "uikName": "УИК №2818",
     "tikTvd": "22320002182626",
-    "tikName": "Кущевская"
+    "tikName": "Кущевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2819,
     "uikTvd": "4234027235289",
+    "uikName": "УИК №2819",
     "tikTvd": "22320002182626",
-    "tikName": "Кущевская"
+    "tikName": "Кущевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2820,
     "uikTvd": "4234027235290",
+    "uikName": "УИК №2820",
     "tikTvd": "22320002182626",
-    "tikName": "Кущевская"
+    "tikName": "Кущевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2821,
     "uikTvd": "4234027235291",
+    "uikName": "УИК №2821",
     "tikTvd": "22320002182626",
-    "tikName": "Кущевская"
+    "tikName": "Кущевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2822,
     "uikTvd": "4234027235292",
+    "uikName": "УИК №2822",
     "tikTvd": "22320002182626",
-    "tikName": "Кущевская"
+    "tikName": "Кущевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2823,
     "uikTvd": "4234027235293",
+    "uikName": "УИК №2823",
     "tikTvd": "22320002182626",
-    "tikName": "Кущевская"
+    "tikName": "Кущевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2824,
     "uikTvd": "4234027235294",
+    "uikName": "УИК №2824",
     "tikTvd": "22320002182626",
-    "tikName": "Кущевская"
+    "tikName": "Кущевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2825,
     "uikTvd": "4234027235295",
+    "uikName": "УИК №2825",
     "tikTvd": "22320002182626",
-    "tikName": "Кущевская"
+    "tikName": "Кущевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2826,
     "uikTvd": "4234027235296",
+    "uikName": "УИК №2826",
     "tikTvd": "22320002182626",
-    "tikName": "Кущевская"
+    "tikName": "Кущевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2827,
     "uikTvd": "4234027235297",
+    "uikName": "УИК №2827",
     "tikTvd": "22320002182626",
-    "tikName": "Кущевская"
+    "tikName": "Кущевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2828,
     "uikTvd": "4234027235298",
+    "uikName": "УИК №2828",
     "tikTvd": "22320002182626",
-    "tikName": "Кущевская"
+    "tikName": "Кущевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2829,
     "uikTvd": "4234027235299",
+    "uikName": "УИК №2829",
     "tikTvd": "22320002182626",
-    "tikName": "Кущевская"
+    "tikName": "Кущевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2830,
     "uikTvd": "4234027235300",
+    "uikName": "УИК №2830",
     "tikTvd": "22320002182626",
-    "tikName": "Кущевская"
+    "tikName": "Кущевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2831,
     "uikTvd": "4234027235301",
+    "uikName": "УИК №2831",
     "tikTvd": "22320002182626",
-    "tikName": "Кущевская"
+    "tikName": "Кущевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2832,
     "uikTvd": "4234027235302",
+    "uikName": "УИК №2832",
     "tikTvd": "22320002182626",
-    "tikName": "Кущевская"
+    "tikName": "Кущевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2833,
     "uikTvd": "4234027235303",
+    "uikName": "УИК №2833",
     "tikTvd": "22320002182626",
-    "tikName": "Кущевская"
+    "tikName": "Кущевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2834,
     "uikTvd": "4234027235304",
+    "uikName": "УИК №2834",
     "tikTvd": "22320002182626",
-    "tikName": "Кущевская"
+    "tikName": "Кущевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2835,
     "uikTvd": "4234027235305",
+    "uikName": "УИК №2835",
     "tikTvd": "22320002182626",
-    "tikName": "Кущевская"
+    "tikName": "Кущевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2836,
     "uikTvd": "4234027235306",
+    "uikName": "УИК №2836",
     "tikTvd": "22320002182626",
-    "tikName": "Кущевская"
+    "tikName": "Кущевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2837,
     "uikTvd": "4234027235307",
+    "uikName": "УИК №2837",
     "tikTvd": "22320002182626",
-    "tikName": "Кущевская"
+    "tikName": "Кущевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2838,
     "uikTvd": "4234027235308",
+    "uikName": "УИК №2838",
     "tikTvd": "22320002182626",
-    "tikName": "Кущевская"
+    "tikName": "Кущевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2839,
     "uikTvd": "4234027235309",
+    "uikName": "УИК №2839",
     "tikTvd": "22320002182626",
-    "tikName": "Кущевская"
+    "tikName": "Кущевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2840,
     "uikTvd": "4234027235310",
+    "uikName": "УИК №2840",
     "tikTvd": "22320002182626",
-    "tikName": "Кущевская"
+    "tikName": "Кущевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2841,
     "uikTvd": "4234027235311",
+    "uikName": "УИК №2841",
     "tikTvd": "22320002182626",
-    "tikName": "Кущевская"
+    "tikName": "Кущевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2842,
     "uikTvd": "4234027235312",
+    "uikName": "УИК №2842",
     "tikTvd": "22320002182626",
-    "tikName": "Кущевская"
+    "tikName": "Кущевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2843,
     "uikTvd": "4234027235313",
+    "uikName": "УИК №2843",
     "tikTvd": "22320002182626",
-    "tikName": "Кущевская"
+    "tikName": "Кущевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2844,
     "uikTvd": "4234027235314",
+    "uikName": "УИК №2844",
     "tikTvd": "22320002182626",
-    "tikName": "Кущевская"
+    "tikName": "Кущевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2845,
     "uikTvd": "4234027235315",
+    "uikName": "УИК №2845",
     "tikTvd": "22320002182626",
-    "tikName": "Кущевская"
+    "tikName": "Кущевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2846,
     "uikTvd": "4234027235316",
+    "uikName": "УИК №2846",
     "tikTvd": "22320002182626",
-    "tikName": "Кущевская"
+    "tikName": "Кущевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2847,
     "uikTvd": "4234027235317",
+    "uikName": "УИК №2847",
     "tikTvd": "22320002182626",
-    "tikName": "Кущевская"
+    "tikName": "Кущевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2848,
     "uikTvd": "4234027235318",
+    "uikName": "УИК №2848",
     "tikTvd": "22320002182626",
-    "tikName": "Кущевская"
+    "tikName": "Кущевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2849,
     "uikTvd": "4234027235319",
+    "uikName": "УИК №2849",
     "tikTvd": "22320002182626",
-    "tikName": "Кущевская"
+    "tikName": "Кущевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2901,
     "uikTvd": "4234028237560",
+    "uikName": "УИК №2901",
     "tikTvd": "22320002182646",
-    "tikName": "Лабинская"
+    "tikName": "Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2902,
     "uikTvd": "4234028237561",
+    "uikName": "УИК №2902",
     "tikTvd": "22320002182646",
-    "tikName": "Лабинская"
+    "tikName": "Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2903,
     "uikTvd": "4234028237562",
+    "uikName": "УИК №2903",
     "tikTvd": "22320002182646",
-    "tikName": "Лабинская"
+    "tikName": "Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2904,
     "uikTvd": "4234028237563",
+    "uikName": "УИК №2904",
     "tikTvd": "22320002182646",
-    "tikName": "Лабинская"
+    "tikName": "Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2905,
     "uikTvd": "4234028237564",
+    "uikName": "УИК №2905",
     "tikTvd": "22320002182646",
-    "tikName": "Лабинская"
+    "tikName": "Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2906,
     "uikTvd": "4234028237565",
+    "uikName": "УИК №2906",
     "tikTvd": "22320002182646",
-    "tikName": "Лабинская"
+    "tikName": "Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2907,
     "uikTvd": "4234028237566",
+    "uikName": "УИК №2907",
     "tikTvd": "22320002182646",
-    "tikName": "Лабинская"
+    "tikName": "Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2908,
     "uikTvd": "4234028237567",
+    "uikName": "УИК №2908",
     "tikTvd": "22320002182646",
-    "tikName": "Лабинская"
+    "tikName": "Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2909,
     "uikTvd": "4234028237568",
+    "uikName": "УИК №2909",
     "tikTvd": "22320002182646",
-    "tikName": "Лабинская"
+    "tikName": "Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2910,
     "uikTvd": "4234028237569",
+    "uikName": "УИК №2910",
     "tikTvd": "22320002182646",
-    "tikName": "Лабинская"
+    "tikName": "Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2911,
     "uikTvd": "4234028237570",
+    "uikName": "УИК №2911",
     "tikTvd": "22320002182646",
-    "tikName": "Лабинская"
+    "tikName": "Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2912,
     "uikTvd": "4234028237571",
+    "uikName": "УИК №2912",
     "tikTvd": "22320002182646",
-    "tikName": "Лабинская"
+    "tikName": "Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2913,
     "uikTvd": "4234028237572",
+    "uikName": "УИК №2913",
     "tikTvd": "22320002182646",
-    "tikName": "Лабинская"
+    "tikName": "Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2914,
     "uikTvd": "4234028237573",
+    "uikName": "УИК №2914",
     "tikTvd": "22320002182646",
-    "tikName": "Лабинская"
+    "tikName": "Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2915,
     "uikTvd": "4234028237574",
+    "uikName": "УИК №2915",
     "tikTvd": "22320002182646",
-    "tikName": "Лабинская"
+    "tikName": "Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2916,
     "uikTvd": "4234028237575",
+    "uikName": "УИК №2916",
     "tikTvd": "22320002182646",
-    "tikName": "Лабинская"
+    "tikName": "Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2917,
     "uikTvd": "4234028237576",
+    "uikName": "УИК №2917",
     "tikTvd": "22320002182646",
-    "tikName": "Лабинская"
+    "tikName": "Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2918,
     "uikTvd": "4234028237577",
+    "uikName": "УИК №2918",
     "tikTvd": "22320002182646",
-    "tikName": "Лабинская"
+    "tikName": "Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2919,
     "uikTvd": "4234028237578",
+    "uikName": "УИК №2919",
     "tikTvd": "22320002182646",
-    "tikName": "Лабинская"
+    "tikName": "Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2920,
     "uikTvd": "4234028237579",
+    "uikName": "УИК №2920",
     "tikTvd": "22320002182646",
-    "tikName": "Лабинская"
+    "tikName": "Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2921,
     "uikTvd": "4234028237580",
+    "uikName": "УИК №2921",
     "tikTvd": "22320002182646",
-    "tikName": "Лабинская"
+    "tikName": "Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2922,
     "uikTvd": "4234028237581",
+    "uikName": "УИК №2922",
     "tikTvd": "22320002182646",
-    "tikName": "Лабинская"
+    "tikName": "Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2923,
     "uikTvd": "4234028237582",
+    "uikName": "УИК №2923",
     "tikTvd": "22320002182646",
-    "tikName": "Лабинская"
+    "tikName": "Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2924,
     "uikTvd": "4234028237583",
+    "uikName": "УИК №2924",
     "tikTvd": "22320002182646",
-    "tikName": "Лабинская"
+    "tikName": "Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2925,
     "uikTvd": "4234028237584",
+    "uikName": "УИК №2925",
     "tikTvd": "22320002182646",
-    "tikName": "Лабинская"
+    "tikName": "Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2926,
     "uikTvd": "4234028237585",
+    "uikName": "УИК №2926",
     "tikTvd": "22320002182646",
-    "tikName": "Лабинская"
+    "tikName": "Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2927,
     "uikTvd": "4234028237586",
+    "uikName": "УИК №2927",
     "tikTvd": "22320002182646",
-    "tikName": "Лабинская"
+    "tikName": "Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2928,
     "uikTvd": "4234028237587",
+    "uikName": "УИК №2928",
     "tikTvd": "22320002182646",
-    "tikName": "Лабинская"
+    "tikName": "Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2929,
     "uikTvd": "4234028237588",
+    "uikName": "УИК №2929",
     "tikTvd": "22320002182646",
-    "tikName": "Лабинская"
+    "tikName": "Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2930,
     "uikTvd": "4234028237589",
+    "uikName": "УИК №2930",
     "tikTvd": "22320002182646",
-    "tikName": "Лабинская"
+    "tikName": "Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2931,
     "uikTvd": "4234028237590",
+    "uikName": "УИК №2931",
     "tikTvd": "22320002182646",
-    "tikName": "Лабинская"
+    "tikName": "Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2932,
     "uikTvd": "4234028237591",
+    "uikName": "УИК №2932",
     "tikTvd": "22320002182646",
-    "tikName": "Лабинская"
+    "tikName": "Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2933,
     "uikTvd": "4234028237592",
+    "uikName": "УИК №2933",
     "tikTvd": "22320002182646",
-    "tikName": "Лабинская"
+    "tikName": "Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2934,
     "uikTvd": "4234028237593",
+    "uikName": "УИК №2934",
     "tikTvd": "22320002182646",
-    "tikName": "Лабинская"
+    "tikName": "Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2935,
     "uikTvd": "4234028237594",
+    "uikName": "УИК №2935",
     "tikTvd": "22320002182646",
-    "tikName": "Лабинская"
+    "tikName": "Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2936,
     "uikTvd": "4234028237595",
+    "uikName": "УИК №2936",
     "tikTvd": "22320002182646",
-    "tikName": "Лабинская"
+    "tikName": "Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2937,
     "uikTvd": "4234028237596",
+    "uikName": "УИК №2937",
     "tikTvd": "22320002182646",
-    "tikName": "Лабинская"
+    "tikName": "Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2938,
     "uikTvd": "4234028237597",
+    "uikName": "УИК №2938",
     "tikTvd": "22320002182646",
-    "tikName": "Лабинская"
+    "tikName": "Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2939,
     "uikTvd": "4234028237598",
+    "uikName": "УИК №2939",
     "tikTvd": "22320002182646",
-    "tikName": "Лабинская"
+    "tikName": "Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2940,
     "uikTvd": "4234028237599",
+    "uikName": "УИК №2940",
     "tikTvd": "22320002182646",
-    "tikName": "Лабинская"
+    "tikName": "Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2941,
     "uikTvd": "4234028237600",
+    "uikName": "УИК №2941",
     "tikTvd": "22320002182646",
-    "tikName": "Лабинская"
+    "tikName": "Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2942,
     "uikTvd": "4234028237601",
+    "uikName": "УИК №2942",
     "tikTvd": "22320002182646",
-    "tikName": "Лабинская"
+    "tikName": "Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2943,
     "uikTvd": "4234028237602",
+    "uikName": "УИК №2943",
     "tikTvd": "22320002182646",
-    "tikName": "Лабинская"
+    "tikName": "Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2944,
     "uikTvd": "4234028237603",
+    "uikName": "УИК №2944",
     "tikTvd": "22320002182646",
-    "tikName": "Лабинская"
+    "tikName": "Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2945,
     "uikTvd": "4234028237604",
+    "uikName": "УИК №2945",
     "tikTvd": "22320002182646",
-    "tikName": "Лабинская"
+    "tikName": "Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2946,
     "uikTvd": "4234028237605",
+    "uikName": "УИК №2946",
     "tikTvd": "22320002182646",
-    "tikName": "Лабинская"
+    "tikName": "Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2947,
     "uikTvd": "4234028237606",
+    "uikName": "УИК №2947",
     "tikTvd": "22320002182646",
-    "tikName": "Лабинская"
+    "tikName": "Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2948,
     "uikTvd": "4234028237607",
+    "uikName": "УИК №2948",
     "tikTvd": "22320002182646",
-    "tikName": "Лабинская"
+    "tikName": "Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2949,
     "uikTvd": "4234028237608",
+    "uikName": "УИК №2949",
     "tikTvd": "22320002182646",
-    "tikName": "Лабинская"
+    "tikName": "Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2950,
     "uikTvd": "4234028237609",
+    "uikName": "УИК №2950",
     "tikTvd": "22320002182646",
-    "tikName": "Лабинская"
+    "tikName": "Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2951,
     "uikTvd": "4234028237610",
+    "uikName": "УИК №2951",
     "tikTvd": "22320002182646",
-    "tikName": "Лабинская"
+    "tikName": "Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2952,
     "uikTvd": "4234028237611",
+    "uikName": "УИК №2952",
     "tikTvd": "22320002182646",
-    "tikName": "Лабинская"
+    "tikName": "Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2953,
     "uikTvd": "4234028237612",
+    "uikName": "УИК №2953",
     "tikTvd": "22320002182646",
-    "tikName": "Лабинская"
+    "tikName": "Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 2954,
     "uikTvd": "4234028237613",
+    "uikName": "УИК №2954",
     "tikTvd": "22320002182646",
-    "tikName": "Лабинская"
+    "tikName": "Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3001,
     "uikTvd": "4234029211084",
+    "uikName": "УИК №3001",
     "tikTvd": "22320002182657",
-    "tikName": "Ленинградская"
+    "tikName": "Ленинградская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3002,
     "uikTvd": "4234029211085",
+    "uikName": "УИК №3002",
     "tikTvd": "22320002182657",
-    "tikName": "Ленинградская"
+    "tikName": "Ленинградская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3003,
     "uikTvd": "4234029211086",
+    "uikName": "УИК №3003",
     "tikTvd": "22320002182657",
-    "tikName": "Ленинградская"
+    "tikName": "Ленинградская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3004,
     "uikTvd": "4234029211087",
+    "uikName": "УИК №3004",
     "tikTvd": "22320002182657",
-    "tikName": "Ленинградская"
+    "tikName": "Ленинградская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3005,
     "uikTvd": "4234029211088",
+    "uikName": "УИК №3005",
     "tikTvd": "22320002182657",
-    "tikName": "Ленинградская"
+    "tikName": "Ленинградская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3006,
     "uikTvd": "4234029211089",
+    "uikName": "УИК №3006",
     "tikTvd": "22320002182657",
-    "tikName": "Ленинградская"
+    "tikName": "Ленинградская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3007,
     "uikTvd": "4234029211090",
+    "uikName": "УИК №3007",
     "tikTvd": "22320002182657",
-    "tikName": "Ленинградская"
+    "tikName": "Ленинградская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3008,
     "uikTvd": "4234029211091",
+    "uikName": "УИК №3008",
     "tikTvd": "22320002182657",
-    "tikName": "Ленинградская"
+    "tikName": "Ленинградская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3009,
     "uikTvd": "4234029211092",
+    "uikName": "УИК №3009",
     "tikTvd": "22320002182657",
-    "tikName": "Ленинградская"
+    "tikName": "Ленинградская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3010,
     "uikTvd": "4234029211093",
+    "uikName": "УИК №3010",
     "tikTvd": "22320002182657",
-    "tikName": "Ленинградская"
+    "tikName": "Ленинградская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3011,
     "uikTvd": "4234029211094",
+    "uikName": "УИК №3011",
     "tikTvd": "22320002182657",
-    "tikName": "Ленинградская"
+    "tikName": "Ленинградская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3012,
     "uikTvd": "4234029211095",
+    "uikName": "УИК №3012",
     "tikTvd": "22320002182657",
-    "tikName": "Ленинградская"
+    "tikName": "Ленинградская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3013,
     "uikTvd": "4234029211096",
+    "uikName": "УИК №3013",
     "tikTvd": "22320002182657",
-    "tikName": "Ленинградская"
+    "tikName": "Ленинградская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3014,
     "uikTvd": "4234029211097",
+    "uikName": "УИК №3014",
     "tikTvd": "22320002182657",
-    "tikName": "Ленинградская"
+    "tikName": "Ленинградская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3015,
     "uikTvd": "4234029211098",
+    "uikName": "УИК №3015",
     "tikTvd": "22320002182657",
-    "tikName": "Ленинградская"
+    "tikName": "Ленинградская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3016,
     "uikTvd": "4234029211099",
+    "uikName": "УИК №3016",
     "tikTvd": "22320002182657",
-    "tikName": "Ленинградская"
+    "tikName": "Ленинградская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3017,
     "uikTvd": "4234029211100",
+    "uikName": "УИК №3017",
     "tikTvd": "22320002182657",
-    "tikName": "Ленинградская"
+    "tikName": "Ленинградская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3018,
     "uikTvd": "4234029211101",
+    "uikName": "УИК №3018",
     "tikTvd": "22320002182657",
-    "tikName": "Ленинградская"
+    "tikName": "Ленинградская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3019,
     "uikTvd": "4234029211102",
+    "uikName": "УИК №3019",
     "tikTvd": "22320002182657",
-    "tikName": "Ленинградская"
+    "tikName": "Ленинградская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3020,
     "uikTvd": "4234029211103",
+    "uikName": "УИК №3020",
     "tikTvd": "22320002182657",
-    "tikName": "Ленинградская"
+    "tikName": "Ленинградская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3021,
     "uikTvd": "4234029211104",
+    "uikName": "УИК №3021",
     "tikTvd": "22320002182657",
-    "tikName": "Ленинградская"
+    "tikName": "Ленинградская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3022,
     "uikTvd": "4234029211105",
+    "uikName": "УИК №3022",
     "tikTvd": "22320002182657",
-    "tikName": "Ленинградская"
+    "tikName": "Ленинградская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3023,
     "uikTvd": "4234029211106",
+    "uikName": "УИК №3023",
     "tikTvd": "22320002182657",
-    "tikName": "Ленинградская"
+    "tikName": "Ленинградская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3024,
     "uikTvd": "4234029211107",
+    "uikName": "УИК №3024",
     "tikTvd": "22320002182657",
-    "tikName": "Ленинградская"
+    "tikName": "Ленинградская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3025,
     "uikTvd": "4234029211108",
+    "uikName": "УИК №3025",
     "tikTvd": "22320002182657",
-    "tikName": "Ленинградская"
+    "tikName": "Ленинградская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3026,
     "uikTvd": "4234029211109",
+    "uikName": "УИК №3026",
     "tikTvd": "22320002182657",
-    "tikName": "Ленинградская"
+    "tikName": "Ленинградская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3027,
     "uikTvd": "4234029211110",
+    "uikName": "УИК №3027",
     "tikTvd": "22320002182657",
-    "tikName": "Ленинградская"
+    "tikName": "Ленинградская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3028,
     "uikTvd": "4234029211111",
+    "uikName": "УИК №3028",
     "tikTvd": "22320002182657",
-    "tikName": "Ленинградская"
+    "tikName": "Ленинградская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3029,
     "uikTvd": "4234029211112",
+    "uikName": "УИК №3029",
     "tikTvd": "22320002182657",
-    "tikName": "Ленинградская"
+    "tikName": "Ленинградская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3030,
     "uikTvd": "4234029211113",
+    "uikName": "УИК №3030",
     "tikTvd": "22320002182657",
-    "tikName": "Ленинградская"
+    "tikName": "Ленинградская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3031,
     "uikTvd": "4234029211114",
+    "uikName": "УИК №3031",
     "tikTvd": "22320002182657",
-    "tikName": "Ленинградская"
+    "tikName": "Ленинградская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3032,
     "uikTvd": "4234029211115",
+    "uikName": "УИК №3032",
     "tikTvd": "22320002182657",
-    "tikName": "Ленинградская"
+    "tikName": "Ленинградская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3033,
     "uikTvd": "4234029211116",
+    "uikName": "УИК №3033",
     "tikTvd": "22320002182657",
-    "tikName": "Ленинградская"
+    "tikName": "Ленинградская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3034,
     "uikTvd": "4234029211117",
+    "uikName": "УИК №3034",
     "tikTvd": "22320002182657",
-    "tikName": "Ленинградская"
+    "tikName": "Ленинградская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3035,
     "uikTvd": "4234029211118",
+    "uikName": "УИК №3035",
     "tikTvd": "22320002182657",
-    "tikName": "Ленинградская"
+    "tikName": "Ленинградская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3101,
     "uikTvd": "4234030246945",
+    "uikName": "УИК №3101",
     "tikTvd": "22320002182632",
-    "tikName": "Мостовская"
+    "tikName": "Мостовская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3102,
     "uikTvd": "4234030246946",
+    "uikName": "УИК №3102",
     "tikTvd": "22320002182632",
-    "tikName": "Мостовская"
+    "tikName": "Мостовская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3103,
     "uikTvd": "4234030246947",
+    "uikName": "УИК №3103",
     "tikTvd": "22320002182632",
-    "tikName": "Мостовская"
+    "tikName": "Мостовская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3104,
     "uikTvd": "4234030246948",
+    "uikName": "УИК №3104",
     "tikTvd": "22320002182632",
-    "tikName": "Мостовская"
+    "tikName": "Мостовская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3105,
     "uikTvd": "4234030246949",
+    "uikName": "УИК №3105",
     "tikTvd": "22320002182632",
-    "tikName": "Мостовская"
+    "tikName": "Мостовская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3106,
     "uikTvd": "4234030246950",
+    "uikName": "УИК №3106",
     "tikTvd": "22320002182632",
-    "tikName": "Мостовская"
+    "tikName": "Мостовская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3107,
     "uikTvd": "4234030246951",
+    "uikName": "УИК №3107",
     "tikTvd": "22320002182632",
-    "tikName": "Мостовская"
+    "tikName": "Мостовская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3108,
     "uikTvd": "4234030246952",
+    "uikName": "УИК №3108",
     "tikTvd": "22320002182632",
-    "tikName": "Мостовская"
+    "tikName": "Мостовская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3109,
     "uikTvd": "4234030246953",
+    "uikName": "УИК №3109",
     "tikTvd": "22320002182632",
-    "tikName": "Мостовская"
+    "tikName": "Мостовская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3110,
     "uikTvd": "4234030246954",
+    "uikName": "УИК №3110",
     "tikTvd": "22320002182632",
-    "tikName": "Мостовская"
+    "tikName": "Мостовская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3111,
     "uikTvd": "4234030246955",
+    "uikName": "УИК №3111",
     "tikTvd": "22320002182632",
-    "tikName": "Мостовская"
+    "tikName": "Мостовская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3112,
     "uikTvd": "4234030246956",
+    "uikName": "УИК №3112",
     "tikTvd": "22320002182632",
-    "tikName": "Мостовская"
+    "tikName": "Мостовская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3113,
     "uikTvd": "4234030246957",
+    "uikName": "УИК №3113",
     "tikTvd": "22320002182632",
-    "tikName": "Мостовская"
+    "tikName": "Мостовская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3114,
     "uikTvd": "4234030246958",
+    "uikName": "УИК №3114",
     "tikTvd": "22320002182632",
-    "tikName": "Мостовская"
+    "tikName": "Мостовская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3115,
     "uikTvd": "4234030246959",
+    "uikName": "УИК №3115",
     "tikTvd": "22320002182632",
-    "tikName": "Мостовская"
+    "tikName": "Мостовская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3116,
     "uikTvd": "4234030246960",
+    "uikName": "УИК №3116",
     "tikTvd": "22320002182632",
-    "tikName": "Мостовская"
+    "tikName": "Мостовская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3117,
     "uikTvd": "4234030246961",
+    "uikName": "УИК №3117",
     "tikTvd": "22320002182632",
-    "tikName": "Мостовская"
+    "tikName": "Мостовская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3118,
     "uikTvd": "4234030246962",
+    "uikName": "УИК №3118",
     "tikTvd": "22320002182632",
-    "tikName": "Мостовская"
+    "tikName": "Мостовская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3119,
     "uikTvd": "4234030246963",
+    "uikName": "УИК №3119",
     "tikTvd": "22320002182632",
-    "tikName": "Мостовская"
+    "tikName": "Мостовская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3120,
     "uikTvd": "4234030246964",
+    "uikName": "УИК №3120",
     "tikTvd": "22320002182632",
-    "tikName": "Мостовская"
+    "tikName": "Мостовская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3121,
     "uikTvd": "4234030246965",
+    "uikName": "УИК №3121",
     "tikTvd": "22320002182632",
-    "tikName": "Мостовская"
+    "tikName": "Мостовская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3122,
     "uikTvd": "4234030246966",
+    "uikName": "УИК №3122",
     "tikTvd": "22320002182632",
-    "tikName": "Мостовская"
+    "tikName": "Мостовская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3123,
     "uikTvd": "4234030246967",
+    "uikName": "УИК №3123",
     "tikTvd": "22320002182632",
-    "tikName": "Мостовская"
+    "tikName": "Мостовская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3124,
     "uikTvd": "4234030246968",
+    "uikName": "УИК №3124",
     "tikTvd": "22320002182632",
-    "tikName": "Мостовская"
+    "tikName": "Мостовская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3125,
     "uikTvd": "4234030246969",
+    "uikName": "УИК №3125",
     "tikTvd": "22320002182632",
-    "tikName": "Мостовская"
+    "tikName": "Мостовская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3126,
     "uikTvd": "4234030246970",
+    "uikName": "УИК №3126",
     "tikTvd": "22320002182632",
-    "tikName": "Мостовская"
+    "tikName": "Мостовская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3127,
     "uikTvd": "4234030246971",
+    "uikName": "УИК №3127",
     "tikTvd": "22320002182632",
-    "tikName": "Мостовская"
+    "tikName": "Мостовская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3128,
     "uikTvd": "4234030246972",
+    "uikName": "УИК №3128",
     "tikTvd": "22320002182632",
-    "tikName": "Мостовская"
+    "tikName": "Мостовская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3129,
     "uikTvd": "4234030246973",
+    "uikName": "УИК №3129",
     "tikTvd": "22320002182632",
-    "tikName": "Мостовская"
+    "tikName": "Мостовская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3130,
     "uikTvd": "4234030246974",
+    "uikName": "УИК №3130",
     "tikTvd": "22320002182632",
-    "tikName": "Мостовская"
+    "tikName": "Мостовская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3131,
     "uikTvd": "4234030246975",
+    "uikName": "УИК №3131",
     "tikTvd": "22320002182632",
-    "tikName": "Мостовская"
+    "tikName": "Мостовская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3132,
     "uikTvd": "4234030246976",
+    "uikName": "УИК №3132",
     "tikTvd": "22320002182632",
-    "tikName": "Мостовская"
+    "tikName": "Мостовская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3133,
     "uikTvd": "4234030246977",
+    "uikName": "УИК №3133",
     "tikTvd": "22320002182632",
-    "tikName": "Мостовская"
+    "tikName": "Мостовская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3134,
     "uikTvd": "4234030246978",
+    "uikName": "УИК №3134",
     "tikTvd": "22320002182632",
-    "tikName": "Мостовская"
+    "tikName": "Мостовская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3135,
     "uikTvd": "4234030246979",
+    "uikName": "УИК №3135",
     "tikTvd": "22320002182632",
-    "tikName": "Мостовская"
+    "tikName": "Мостовская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3136,
     "uikTvd": "4234030246980",
+    "uikName": "УИК №3136",
     "tikTvd": "22320002182632",
-    "tikName": "Мостовская"
+    "tikName": "Мостовская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3137,
     "uikTvd": "4234030246981",
+    "uikName": "УИК №3137",
     "tikTvd": "22320002182632",
-    "tikName": "Мостовская"
+    "tikName": "Мостовская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3138,
     "uikTvd": "4234030246982",
+    "uikName": "УИК №3138",
     "tikTvd": "22320002182632",
-    "tikName": "Мостовская"
+    "tikName": "Мостовская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3139,
     "uikTvd": "4234030246983",
+    "uikName": "УИК №3139",
     "tikTvd": "22320002182632",
-    "tikName": "Мостовская"
+    "tikName": "Мостовская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3140,
     "uikTvd": "4234030246984",
+    "uikName": "УИК №3140",
     "tikTvd": "22320002182632",
-    "tikName": "Мостовская"
+    "tikName": "Мостовская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3141,
     "uikTvd": "4234030246985",
+    "uikName": "УИК №3141",
     "tikTvd": "22320002182632",
-    "tikName": "Мостовская"
+    "tikName": "Мостовская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3142,
     "uikTvd": "4234030246986",
+    "uikName": "УИК №3142",
     "tikTvd": "22320002182632",
-    "tikName": "Мостовская"
+    "tikName": "Мостовская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3201,
     "uikTvd": "4234031263274",
+    "uikName": "УИК №3201",
     "tikTvd": "22320002182637",
-    "tikName": "Новокубанская"
+    "tikName": "Новокубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3202,
     "uikTvd": "4234031263275",
+    "uikName": "УИК №3202",
     "tikTvd": "22320002182637",
-    "tikName": "Новокубанская"
+    "tikName": "Новокубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3203,
     "uikTvd": "4234031263276",
+    "uikName": "УИК №3203",
     "tikTvd": "22320002182637",
-    "tikName": "Новокубанская"
+    "tikName": "Новокубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3204,
     "uikTvd": "4234031263277",
+    "uikName": "УИК №3204",
     "tikTvd": "22320002182637",
-    "tikName": "Новокубанская"
+    "tikName": "Новокубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3205,
     "uikTvd": "4234031263278",
+    "uikName": "УИК №3205",
     "tikTvd": "22320002182637",
-    "tikName": "Новокубанская"
+    "tikName": "Новокубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3206,
     "uikTvd": "4234031263279",
+    "uikName": "УИК №3206",
     "tikTvd": "22320002182637",
-    "tikName": "Новокубанская"
+    "tikName": "Новокубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3207,
     "uikTvd": "4234031263280",
+    "uikName": "УИК №3207",
     "tikTvd": "22320002182637",
-    "tikName": "Новокубанская"
+    "tikName": "Новокубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3208,
     "uikTvd": "4234031263281",
+    "uikName": "УИК №3208",
     "tikTvd": "22320002182637",
-    "tikName": "Новокубанская"
+    "tikName": "Новокубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3209,
     "uikTvd": "4234031263282",
+    "uikName": "УИК №3209",
     "tikTvd": "22320002182637",
-    "tikName": "Новокубанская"
+    "tikName": "Новокубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3210,
     "uikTvd": "4234031263283",
+    "uikName": "УИК №3210",
     "tikTvd": "22320002182637",
-    "tikName": "Новокубанская"
+    "tikName": "Новокубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3211,
     "uikTvd": "4234031263284",
+    "uikName": "УИК №3211",
     "tikTvd": "22320002182637",
-    "tikName": "Новокубанская"
+    "tikName": "Новокубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3212,
     "uikTvd": "4234031263285",
+    "uikName": "УИК №3212",
     "tikTvd": "22320002182637",
-    "tikName": "Новокубанская"
+    "tikName": "Новокубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3213,
     "uikTvd": "4234031263286",
+    "uikName": "УИК №3213",
     "tikTvd": "22320002182637",
-    "tikName": "Новокубанская"
+    "tikName": "Новокубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3214,
     "uikTvd": "4234031263287",
+    "uikName": "УИК №3214",
     "tikTvd": "22320002182637",
-    "tikName": "Новокубанская"
+    "tikName": "Новокубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3215,
     "uikTvd": "4234031263288",
+    "uikName": "УИК №3215",
     "tikTvd": "22320002182637",
-    "tikName": "Новокубанская"
+    "tikName": "Новокубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3216,
     "uikTvd": "4234031263289",
+    "uikName": "УИК №3216",
     "tikTvd": "22320002182637",
-    "tikName": "Новокубанская"
+    "tikName": "Новокубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3217,
     "uikTvd": "4234031263290",
+    "uikName": "УИК №3217",
     "tikTvd": "22320002182637",
-    "tikName": "Новокубанская"
+    "tikName": "Новокубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3218,
     "uikTvd": "4234031263291",
+    "uikName": "УИК №3218",
     "tikTvd": "22320002182637",
-    "tikName": "Новокубанская"
+    "tikName": "Новокубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3219,
     "uikTvd": "4234031263292",
+    "uikName": "УИК №3219",
     "tikTvd": "22320002182637",
-    "tikName": "Новокубанская"
+    "tikName": "Новокубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3220,
     "uikTvd": "4234031263293",
+    "uikName": "УИК №3220",
     "tikTvd": "22320002182637",
-    "tikName": "Новокубанская"
+    "tikName": "Новокубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3221,
     "uikTvd": "4234031263294",
+    "uikName": "УИК №3221",
     "tikTvd": "22320002182637",
-    "tikName": "Новокубанская"
+    "tikName": "Новокубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3222,
     "uikTvd": "4234031263295",
+    "uikName": "УИК №3222",
     "tikTvd": "22320002182637",
-    "tikName": "Новокубанская"
+    "tikName": "Новокубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3223,
     "uikTvd": "4234031263296",
+    "uikName": "УИК №3223",
     "tikTvd": "22320002182637",
-    "tikName": "Новокубанская"
+    "tikName": "Новокубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3224,
     "uikTvd": "4234031263297",
+    "uikName": "УИК №3224",
     "tikTvd": "22320002182637",
-    "tikName": "Новокубанская"
+    "tikName": "Новокубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3225,
     "uikTvd": "4234031263298",
+    "uikName": "УИК №3225",
     "tikTvd": "22320002182637",
-    "tikName": "Новокубанская"
+    "tikName": "Новокубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3226,
     "uikTvd": "4234031263299",
+    "uikName": "УИК №3226",
     "tikTvd": "22320002182637",
-    "tikName": "Новокубанская"
+    "tikName": "Новокубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3227,
     "uikTvd": "4234031263300",
+    "uikName": "УИК №3227",
     "tikTvd": "22320002182637",
-    "tikName": "Новокубанская"
+    "tikName": "Новокубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3228,
     "uikTvd": "4234031263301",
+    "uikName": "УИК №3228",
     "tikTvd": "22320002182637",
-    "tikName": "Новокубанская"
+    "tikName": "Новокубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3229,
     "uikTvd": "4234031263302",
+    "uikName": "УИК №3229",
     "tikTvd": "22320002182637",
-    "tikName": "Новокубанская"
+    "tikName": "Новокубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3230,
     "uikTvd": "4234031263303",
+    "uikName": "УИК №3230",
     "tikTvd": "22320002182637",
-    "tikName": "Новокубанская"
+    "tikName": "Новокубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3231,
     "uikTvd": "4234031263304",
+    "uikName": "УИК №3231",
     "tikTvd": "22320002182637",
-    "tikName": "Новокубанская"
+    "tikName": "Новокубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3232,
     "uikTvd": "4234031263305",
+    "uikName": "УИК №3232",
     "tikTvd": "22320002182637",
-    "tikName": "Новокубанская"
+    "tikName": "Новокубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3233,
     "uikTvd": "4234031263306",
+    "uikName": "УИК №3233",
     "tikTvd": "22320002182637",
-    "tikName": "Новокубанская"
+    "tikName": "Новокубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3234,
     "uikTvd": "4234031263307",
+    "uikName": "УИК №3234",
     "tikTvd": "22320002182637",
-    "tikName": "Новокубанская"
+    "tikName": "Новокубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3235,
     "uikTvd": "4234031263308",
+    "uikName": "УИК №3235",
     "tikTvd": "22320002182637",
-    "tikName": "Новокубанская"
+    "tikName": "Новокубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3236,
     "uikTvd": "4234031263309",
+    "uikName": "УИК №3236",
     "tikTvd": "22320002182637",
-    "tikName": "Новокубанская"
+    "tikName": "Новокубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3237,
     "uikTvd": "4234031263310",
+    "uikName": "УИК №3237",
     "tikTvd": "22320002182637",
-    "tikName": "Новокубанская"
+    "tikName": "Новокубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3238,
     "uikTvd": "4234031263311",
+    "uikName": "УИК №3238",
     "tikTvd": "22320002182637",
-    "tikName": "Новокубанская"
+    "tikName": "Новокубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3239,
     "uikTvd": "4234031263312",
+    "uikName": "УИК №3239",
     "tikTvd": "22320002182637",
-    "tikName": "Новокубанская"
+    "tikName": "Новокубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3240,
     "uikTvd": "4234031263313",
+    "uikName": "УИК №3240",
     "tikTvd": "22320002182637",
-    "tikName": "Новокубанская"
+    "tikName": "Новокубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3241,
     "uikTvd": "4234031263314",
+    "uikName": "УИК №3241",
     "tikTvd": "22320002182637",
-    "tikName": "Новокубанская"
+    "tikName": "Новокубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3242,
     "uikTvd": "4234031263315",
+    "uikName": "УИК №3242",
     "tikTvd": "22320002182637",
-    "tikName": "Новокубанская"
+    "tikName": "Новокубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3243,
     "uikTvd": "4234031263316",
+    "uikName": "УИК №3243",
     "tikTvd": "22320002182637",
-    "tikName": "Новокубанская"
+    "tikName": "Новокубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3244,
     "uikTvd": "4234031263317",
+    "uikName": "УИК №3244",
     "tikTvd": "22320002182637",
-    "tikName": "Новокубанская"
+    "tikName": "Новокубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3245,
     "uikTvd": "4234031263318",
+    "uikName": "УИК №3245",
     "tikTvd": "22320002182637",
-    "tikName": "Новокубанская"
+    "tikName": "Новокубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3246,
     "uikTvd": "4234031263319",
+    "uikName": "УИК №3246",
     "tikTvd": "22320002182637",
-    "tikName": "Новокубанская"
+    "tikName": "Новокубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3247,
     "uikTvd": "4234031263320",
+    "uikName": "УИК №3247",
     "tikTvd": "22320002182637",
-    "tikName": "Новокубанская"
+    "tikName": "Новокубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3248,
     "uikTvd": "4234031263321",
+    "uikName": "УИК №3248",
     "tikTvd": "22320002182637",
-    "tikName": "Новокубанская"
+    "tikName": "Новокубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3249,
     "uikTvd": "4234031263322",
+    "uikName": "УИК №3249",
     "tikTvd": "22320002182637",
-    "tikName": "Новокубанская"
+    "tikName": "Новокубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3250,
     "uikTvd": "4234031263323",
+    "uikName": "УИК №3250",
     "tikTvd": "22320002182637",
-    "tikName": "Новокубанская"
+    "tikName": "Новокубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3251,
     "uikTvd": "4234031263324",
+    "uikName": "УИК №3251",
     "tikTvd": "22320002182637",
-    "tikName": "Новокубанская"
+    "tikName": "Новокубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3252,
     "uikTvd": "4234031263325",
+    "uikName": "УИК №3252",
     "tikTvd": "22320002182637",
-    "tikName": "Новокубанская"
+    "tikName": "Новокубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3253,
     "uikTvd": "4234031263326",
+    "uikName": "УИК №3253",
     "tikTvd": "22320002182637",
-    "tikName": "Новокубанская"
+    "tikName": "Новокубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3254,
     "uikTvd": "4234031263327",
+    "uikName": "УИК №3254",
     "tikTvd": "22320002182637",
-    "tikName": "Новокубанская"
+    "tikName": "Новокубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3255,
     "uikTvd": "4234031263328",
+    "uikName": "УИК №3255",
     "tikTvd": "22320002182637",
-    "tikName": "Новокубанская"
+    "tikName": "Новокубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3256,
     "uikTvd": "4234031263329",
+    "uikName": "УИК №3256",
     "tikTvd": "22320002182637",
-    "tikName": "Новокубанская"
+    "tikName": "Новокубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3257,
     "uikTvd": "4234031263330",
+    "uikName": "УИК №3257",
     "tikTvd": "22320002182637",
-    "tikName": "Новокубанская"
+    "tikName": "Новокубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3258,
     "uikTvd": "4234031263331",
+    "uikName": "УИК №3258",
     "tikTvd": "22320002182637",
-    "tikName": "Новокубанская"
+    "tikName": "Новокубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3259,
     "uikTvd": "4234031263332",
+    "uikName": "УИК №3259",
     "tikTvd": "22320002182637",
-    "tikName": "Новокубанская"
+    "tikName": "Новокубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3260,
     "uikTvd": "4234031263333",
+    "uikName": "УИК №3260",
     "tikTvd": "22320002182637",
-    "tikName": "Новокубанская"
+    "tikName": "Новокубанская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3301,
     "uikTvd": "4234032187373",
+    "uikName": "УИК №3301",
     "tikTvd": "22320002182640",
-    "tikName": "Новопокровская"
+    "tikName": "Новопокровская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3302,
     "uikTvd": "4234032187374",
+    "uikName": "УИК №3302",
     "tikTvd": "22320002182640",
-    "tikName": "Новопокровская"
+    "tikName": "Новопокровская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3303,
     "uikTvd": "4234032187375",
+    "uikName": "УИК №3303",
     "tikTvd": "22320002182640",
-    "tikName": "Новопокровская"
+    "tikName": "Новопокровская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3304,
     "uikTvd": "4234032187376",
+    "uikName": "УИК №3304",
     "tikTvd": "22320002182640",
-    "tikName": "Новопокровская"
+    "tikName": "Новопокровская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3305,
     "uikTvd": "4234032187377",
+    "uikName": "УИК №3305",
     "tikTvd": "22320002182640",
-    "tikName": "Новопокровская"
+    "tikName": "Новопокровская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3306,
     "uikTvd": "4234032187378",
+    "uikName": "УИК №3306",
     "tikTvd": "22320002182640",
-    "tikName": "Новопокровская"
+    "tikName": "Новопокровская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3307,
     "uikTvd": "4234032187379",
+    "uikName": "УИК №3307",
     "tikTvd": "22320002182640",
-    "tikName": "Новопокровская"
+    "tikName": "Новопокровская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3308,
     "uikTvd": "4234032187380",
+    "uikName": "УИК №3308",
     "tikTvd": "22320002182640",
-    "tikName": "Новопокровская"
+    "tikName": "Новопокровская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3309,
     "uikTvd": "4234032187381",
+    "uikName": "УИК №3309",
     "tikTvd": "22320002182640",
-    "tikName": "Новопокровская"
+    "tikName": "Новопокровская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3310,
     "uikTvd": "4234032187382",
+    "uikName": "УИК №3310",
     "tikTvd": "22320002182640",
-    "tikName": "Новопокровская"
+    "tikName": "Новопокровская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3311,
     "uikTvd": "4234032187383",
+    "uikName": "УИК №3311",
     "tikTvd": "22320002182640",
-    "tikName": "Новопокровская"
+    "tikName": "Новопокровская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3312,
     "uikTvd": "4234032187384",
+    "uikName": "УИК №3312",
     "tikTvd": "22320002182640",
-    "tikName": "Новопокровская"
+    "tikName": "Новопокровская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3313,
     "uikTvd": "4234032187385",
+    "uikName": "УИК №3313",
     "tikTvd": "22320002182640",
-    "tikName": "Новопокровская"
+    "tikName": "Новопокровская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3314,
     "uikTvd": "4234032187386",
+    "uikName": "УИК №3314",
     "tikTvd": "22320002182640",
-    "tikName": "Новопокровская"
+    "tikName": "Новопокровская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3315,
     "uikTvd": "4234032187387",
+    "uikName": "УИК №3315",
     "tikTvd": "22320002182640",
-    "tikName": "Новопокровская"
+    "tikName": "Новопокровская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3316,
     "uikTvd": "4234032187388",
+    "uikName": "УИК №3316",
     "tikTvd": "22320002182640",
-    "tikName": "Новопокровская"
+    "tikName": "Новопокровская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3317,
     "uikTvd": "4234032187389",
+    "uikName": "УИК №3317",
     "tikTvd": "22320002182640",
-    "tikName": "Новопокровская"
+    "tikName": "Новопокровская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3318,
     "uikTvd": "4234032187390",
+    "uikName": "УИК №3318",
     "tikTvd": "22320002182640",
-    "tikName": "Новопокровская"
+    "tikName": "Новопокровская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3319,
     "uikTvd": "4234032187391",
+    "uikName": "УИК №3319",
     "tikTvd": "22320002182640",
-    "tikName": "Новопокровская"
+    "tikName": "Новопокровская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3320,
     "uikTvd": "4234032187392",
+    "uikName": "УИК №3320",
     "tikTvd": "22320002182640",
-    "tikName": "Новопокровская"
+    "tikName": "Новопокровская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3321,
     "uikTvd": "4234032187393",
+    "uikName": "УИК №3321",
     "tikTvd": "22320002182640",
-    "tikName": "Новопокровская"
+    "tikName": "Новопокровская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3322,
     "uikTvd": "4234032187394",
+    "uikName": "УИК №3322",
     "tikTvd": "22320002182640",
-    "tikName": "Новопокровская"
+    "tikName": "Новопокровская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3323,
     "uikTvd": "4234032187395",
+    "uikName": "УИК №3323",
     "tikTvd": "22320002182640",
-    "tikName": "Новопокровская"
+    "tikName": "Новопокровская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3324,
     "uikTvd": "4234032187396",
+    "uikName": "УИК №3324",
     "tikTvd": "22320002182640",
-    "tikName": "Новопокровская"
+    "tikName": "Новопокровская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3325,
     "uikTvd": "4234032187397",
+    "uikName": "УИК №3325",
     "tikTvd": "22320002182640",
-    "tikName": "Новопокровская"
+    "tikName": "Новопокровская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3326,
     "uikTvd": "4234032187398",
+    "uikName": "УИК №3326",
     "tikTvd": "22320002182640",
-    "tikName": "Новопокровская"
+    "tikName": "Новопокровская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3327,
     "uikTvd": "4234032187399",
+    "uikName": "УИК №3327",
     "tikTvd": "22320002182640",
-    "tikName": "Новопокровская"
+    "tikName": "Новопокровская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3401,
     "uikTvd": "4234033134312",
+    "uikName": "УИК №3401",
     "tikTvd": "22320002182647",
-    "tikName": "Новороссийск, Восточная"
+    "tikName": "Новороссийск, Восточная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3402,
     "uikTvd": "4234033134313",
+    "uikName": "УИК №3402",
     "tikTvd": "22320002182647",
-    "tikName": "Новороссийск, Восточная"
+    "tikName": "Новороссийск, Восточная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3403,
     "uikTvd": "4234033134314",
+    "uikName": "УИК №3403",
     "tikTvd": "22320002182647",
-    "tikName": "Новороссийск, Восточная"
+    "tikName": "Новороссийск, Восточная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3404,
     "uikTvd": "4234033134315",
+    "uikName": "УИК №3404",
     "tikTvd": "22320002182647",
-    "tikName": "Новороссийск, Восточная"
+    "tikName": "Новороссийск, Восточная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3405,
     "uikTvd": "4234033134316",
+    "uikName": "УИК №3405",
     "tikTvd": "22320002182647",
-    "tikName": "Новороссийск, Восточная"
+    "tikName": "Новороссийск, Восточная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3406,
     "uikTvd": "4234033134317",
+    "uikName": "УИК №3406",
     "tikTvd": "22320002182647",
-    "tikName": "Новороссийск, Восточная"
+    "tikName": "Новороссийск, Восточная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3407,
     "uikTvd": "4234033134318",
+    "uikName": "УИК №3407",
     "tikTvd": "22320002182647",
-    "tikName": "Новороссийск, Восточная"
+    "tikName": "Новороссийск, Восточная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3408,
     "uikTvd": "4234033134319",
+    "uikName": "УИК №3408",
     "tikTvd": "22320002182647",
-    "tikName": "Новороссийск, Восточная"
+    "tikName": "Новороссийск, Восточная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3409,
     "uikTvd": "4234033134320",
+    "uikName": "УИК №3409",
     "tikTvd": "22320002182647",
-    "tikName": "Новороссийск, Восточная"
+    "tikName": "Новороссийск, Восточная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3410,
     "uikTvd": "4234033134321",
+    "uikName": "УИК №3410",
     "tikTvd": "22320002182647",
-    "tikName": "Новороссийск, Восточная"
+    "tikName": "Новороссийск, Восточная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3411,
     "uikTvd": "4234033134322",
+    "uikName": "УИК №3411",
     "tikTvd": "22320002182647",
-    "tikName": "Новороссийск, Восточная"
+    "tikName": "Новороссийск, Восточная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3412,
     "uikTvd": "4234033134323",
+    "uikName": "УИК №3412",
     "tikTvd": "22320002182647",
-    "tikName": "Новороссийск, Восточная"
+    "tikName": "Новороссийск, Восточная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3413,
     "uikTvd": "4234033134324",
+    "uikName": "УИК №3413",
     "tikTvd": "22320002182647",
-    "tikName": "Новороссийск, Восточная"
+    "tikName": "Новороссийск, Восточная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3414,
     "uikTvd": "4234033134325",
+    "uikName": "УИК №3414",
     "tikTvd": "22320002182647",
-    "tikName": "Новороссийск, Восточная"
+    "tikName": "Новороссийск, Восточная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3415,
     "uikTvd": "4234033134326",
+    "uikName": "УИК №3415",
     "tikTvd": "22320002182647",
-    "tikName": "Новороссийск, Восточная"
+    "tikName": "Новороссийск, Восточная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3416,
     "uikTvd": "4234033134327",
+    "uikName": "УИК №3416",
     "tikTvd": "22320002182647",
-    "tikName": "Новороссийск, Восточная"
+    "tikName": "Новороссийск, Восточная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3499,
     "uikTvd": "4234033134936",
+    "uikName": "УИК №3499",
     "tikTvd": "22320002182647",
-    "tikName": "Новороссийск, Восточная"
+    "tikName": "Новороссийск, Восточная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3501,
     "uikTvd": "4234035150466",
+    "uikName": "УИК №3501",
     "tikTvd": "22320002182682",
-    "tikName": "Новороссийск, Приморская"
+    "tikName": "Новороссийск, Приморская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3502,
     "uikTvd": "4234035150467",
+    "uikName": "УИК №3502",
     "tikTvd": "22320002182682",
-    "tikName": "Новороссийск, Приморская"
+    "tikName": "Новороссийск, Приморская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3503,
     "uikTvd": "4234035150468",
+    "uikName": "УИК №3503",
     "tikTvd": "22320002182682",
-    "tikName": "Новороссийск, Приморская"
+    "tikName": "Новороссийск, Приморская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3504,
     "uikTvd": "4234035150469",
+    "uikName": "УИК №3504",
     "tikTvd": "22320002182682",
-    "tikName": "Новороссийск, Приморская"
+    "tikName": "Новороссийск, Приморская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3505,
     "uikTvd": "4234035150470",
+    "uikName": "УИК №3505",
     "tikTvd": "22320002182682",
-    "tikName": "Новороссийск, Приморская"
+    "tikName": "Новороссийск, Приморская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3506,
     "uikTvd": "4234035150471",
+    "uikName": "УИК №3506",
     "tikTvd": "22320002182682",
-    "tikName": "Новороссийск, Приморская"
+    "tikName": "Новороссийск, Приморская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3507,
     "uikTvd": "4234035150472",
+    "uikName": "УИК №3507",
     "tikTvd": "22320002182682",
-    "tikName": "Новороссийск, Приморская"
+    "tikName": "Новороссийск, Приморская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3508,
     "uikTvd": "4234035150473",
+    "uikName": "УИК №3508",
     "tikTvd": "22320002182682",
-    "tikName": "Новороссийск, Приморская"
+    "tikName": "Новороссийск, Приморская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3509,
     "uikTvd": "4234035150474",
+    "uikName": "УИК №3509",
     "tikTvd": "22320002182682",
-    "tikName": "Новороссийск, Приморская"
+    "tikName": "Новороссийск, Приморская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3510,
     "uikTvd": "4234035150475",
+    "uikName": "УИК №3510",
     "tikTvd": "22320002182682",
-    "tikName": "Новороссийск, Приморская"
+    "tikName": "Новороссийск, Приморская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3511,
     "uikTvd": "4234035150476",
+    "uikName": "УИК №3511",
     "tikTvd": "22320002182682",
-    "tikName": "Новороссийск, Приморская"
+    "tikName": "Новороссийск, Приморская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3512,
     "uikTvd": "4234035150477",
+    "uikName": "УИК №3512",
     "tikTvd": "22320002182682",
-    "tikName": "Новороссийск, Приморская"
+    "tikName": "Новороссийск, Приморская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3513,
     "uikTvd": "4234035150478",
+    "uikName": "УИК №3513",
     "tikTvd": "22320002182682",
-    "tikName": "Новороссийск, Приморская"
+    "tikName": "Новороссийск, Приморская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3514,
     "uikTvd": "4234035150479",
+    "uikName": "УИК №3514",
     "tikTvd": "22320002182682",
-    "tikName": "Новороссийск, Приморская"
+    "tikName": "Новороссийск, Приморская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3515,
     "uikTvd": "4234035150480",
+    "uikName": "УИК №3515",
     "tikTvd": "22320002182682",
-    "tikName": "Новороссийск, Приморская"
+    "tikName": "Новороссийск, Приморская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3516,
     "uikTvd": "4234035150481",
+    "uikName": "УИК №3516",
     "tikTvd": "22320002182682",
-    "tikName": "Новороссийск, Приморская"
+    "tikName": "Новороссийск, Приморская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3517,
     "uikTvd": "4234035150482",
+    "uikName": "УИК №3517",
     "tikTvd": "22320002182682",
-    "tikName": "Новороссийск, Приморская"
+    "tikName": "Новороссийск, Приморская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3518,
     "uikTvd": "4234035150483",
+    "uikName": "УИК №3518",
     "tikTvd": "22320002182682",
-    "tikName": "Новороссийск, Приморская"
+    "tikName": "Новороссийск, Приморская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3519,
     "uikTvd": "4234035150484",
+    "uikName": "УИК №3519",
     "tikTvd": "22320002182682",
-    "tikName": "Новороссийск, Приморская"
+    "tikName": "Новороссийск, Приморская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3520,
     "uikTvd": "4234035150485",
+    "uikName": "УИК №3520",
     "tikTvd": "22320002182682",
-    "tikName": "Новороссийск, Приморская"
+    "tikName": "Новороссийск, Приморская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3521,
     "uikTvd": "4234035150486",
+    "uikName": "УИК №3521",
     "tikTvd": "22320002182682",
-    "tikName": "Новороссийск, Приморская"
+    "tikName": "Новороссийск, Приморская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3522,
     "uikTvd": "4234035150487",
+    "uikName": "УИК №3522",
     "tikTvd": "22320002182682",
-    "tikName": "Новороссийск, Приморская"
+    "tikName": "Новороссийск, Приморская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3523,
     "uikTvd": "4234035150488",
+    "uikName": "УИК №3523",
     "tikTvd": "22320002182682",
-    "tikName": "Новороссийск, Приморская"
+    "tikName": "Новороссийск, Приморская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3524,
     "uikTvd": "4234035150489",
+    "uikName": "УИК №3524",
     "tikTvd": "22320002182682",
-    "tikName": "Новороссийск, Приморская"
+    "tikName": "Новороссийск, Приморская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3525,
     "uikTvd": "4234035150490",
+    "uikName": "УИК №3525",
     "tikTvd": "22320002182682",
-    "tikName": "Новороссийск, Приморская"
+    "tikName": "Новороссийск, Приморская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3526,
     "uikTvd": "4234035150491",
+    "uikName": "УИК №3526",
     "tikTvd": "22320002182682",
-    "tikName": "Новороссийск, Приморская"
+    "tikName": "Новороссийск, Приморская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3527,
     "uikTvd": "4234035150492",
+    "uikName": "УИК №3527",
     "tikTvd": "22320002182682",
-    "tikName": "Новороссийск, Приморская"
+    "tikName": "Новороссийск, Приморская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3528,
     "uikTvd": "4234035150493",
+    "uikName": "УИК №3528",
     "tikTvd": "22320002182682",
-    "tikName": "Новороссийск, Приморская"
+    "tikName": "Новороссийск, Приморская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3529,
     "uikTvd": "4234035150494",
+    "uikName": "УИК №3529",
     "tikTvd": "22320002182682",
-    "tikName": "Новороссийск, Приморская"
+    "tikName": "Новороссийск, Приморская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3530,
     "uikTvd": "4234035150495",
+    "uikName": "УИК №3530",
     "tikTvd": "22320002182682",
-    "tikName": "Новороссийск, Приморская"
+    "tikName": "Новороссийск, Приморская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3531,
     "uikTvd": "4234035150496",
+    "uikName": "УИК №3531",
     "tikTvd": "22320002182682",
-    "tikName": "Новороссийск, Приморская"
+    "tikName": "Новороссийск, Приморская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3695,
     "uikTvd": "4234057142203",
+    "uikName": "УИК №3695",
     "tikTvd": "22320002182635",
-    "tikName": "Новороссийск, Судовая"
+    "tikName": "Новороссийск, Судовая",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3696,
     "uikTvd": "4234057142204",
+    "uikName": "УИК №3696",
     "tikTvd": "22320002182635",
-    "tikName": "Новороссийск, Судовая"
+    "tikName": "Новороссийск, Судовая",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3697,
     "uikTvd": "4234057142205",
+    "uikName": "УИК №3697",
     "tikTvd": "22320002182635",
-    "tikName": "Новороссийск, Судовая"
+    "tikName": "Новороссийск, Судовая",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3698,
     "uikTvd": "4234057142206",
+    "uikName": "УИК №3698",
     "tikTvd": "22320002182635",
-    "tikName": "Новороссийск, Судовая"
+    "tikName": "Новороссийск, Судовая",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3699,
     "uikTvd": "4234057142207",
+    "uikName": "УИК №3699",
     "tikTvd": "22320002182635",
-    "tikName": "Новороссийск, Судовая"
+    "tikName": "Новороссийск, Судовая",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3701,
     "uikTvd": "4234034159626",
+    "uikName": "УИК №3701",
     "tikTvd": "22320002182664",
-    "tikName": "Новороссийск, Центральная"
+    "tikName": "Новороссийск, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3702,
     "uikTvd": "4234034159627",
+    "uikName": "УИК №3702",
     "tikTvd": "22320002182664",
-    "tikName": "Новороссийск, Центральная"
+    "tikName": "Новороссийск, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3703,
     "uikTvd": "4234034159628",
+    "uikName": "УИК №3703",
     "tikTvd": "22320002182664",
-    "tikName": "Новороссийск, Центральная"
+    "tikName": "Новороссийск, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3704,
     "uikTvd": "4234034159629",
+    "uikName": "УИК №3704",
     "tikTvd": "22320002182664",
-    "tikName": "Новороссийск, Центральная"
+    "tikName": "Новороссийск, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3705,
     "uikTvd": "4234034159630",
+    "uikName": "УИК №3705",
     "tikTvd": "22320002182664",
-    "tikName": "Новороссийск, Центральная"
+    "tikName": "Новороссийск, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3706,
     "uikTvd": "4234034159631",
+    "uikName": "УИК №3706",
     "tikTvd": "22320002182664",
-    "tikName": "Новороссийск, Центральная"
+    "tikName": "Новороссийск, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3707,
     "uikTvd": "4234034159632",
+    "uikName": "УИК №3707",
     "tikTvd": "22320002182664",
-    "tikName": "Новороссийск, Центральная"
+    "tikName": "Новороссийск, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3708,
     "uikTvd": "4234034159633",
+    "uikName": "УИК №3708",
     "tikTvd": "22320002182664",
-    "tikName": "Новороссийск, Центральная"
+    "tikName": "Новороссийск, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3709,
     "uikTvd": "4234034159634",
+    "uikName": "УИК №3709",
     "tikTvd": "22320002182664",
-    "tikName": "Новороссийск, Центральная"
+    "tikName": "Новороссийск, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3710,
     "uikTvd": "4234034159635",
+    "uikName": "УИК №3710",
     "tikTvd": "22320002182664",
-    "tikName": "Новороссийск, Центральная"
+    "tikName": "Новороссийск, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3711,
     "uikTvd": "4234034159636",
+    "uikName": "УИК №3711",
     "tikTvd": "22320002182664",
-    "tikName": "Новороссийск, Центральная"
+    "tikName": "Новороссийск, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3712,
     "uikTvd": "4234034159637",
+    "uikName": "УИК №3712",
     "tikTvd": "22320002182664",
-    "tikName": "Новороссийск, Центральная"
+    "tikName": "Новороссийск, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3713,
     "uikTvd": "4234034159638",
+    "uikName": "УИК №3713",
     "tikTvd": "22320002182664",
-    "tikName": "Новороссийск, Центральная"
+    "tikName": "Новороссийск, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3714,
     "uikTvd": "4234034159639",
+    "uikName": "УИК №3714",
     "tikTvd": "22320002182664",
-    "tikName": "Новороссийск, Центральная"
+    "tikName": "Новороссийск, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3715,
     "uikTvd": "4234034159640",
+    "uikName": "УИК №3715",
     "tikTvd": "22320002182664",
-    "tikName": "Новороссийск, Центральная"
+    "tikName": "Новороссийск, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3716,
     "uikTvd": "4234034159641",
+    "uikName": "УИК №3716",
     "tikTvd": "22320002182664",
-    "tikName": "Новороссийск, Центральная"
+    "tikName": "Новороссийск, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3717,
     "uikTvd": "4234034159642",
+    "uikName": "УИК №3717",
     "tikTvd": "22320002182664",
-    "tikName": "Новороссийск, Центральная"
+    "tikName": "Новороссийск, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3718,
     "uikTvd": "4234034159643",
+    "uikName": "УИК №3718",
     "tikTvd": "22320002182664",
-    "tikName": "Новороссийск, Центральная"
+    "tikName": "Новороссийск, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3719,
     "uikTvd": "4234034159644",
+    "uikName": "УИК №3719",
     "tikTvd": "22320002182664",
-    "tikName": "Новороссийск, Центральная"
+    "tikName": "Новороссийск, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3720,
     "uikTvd": "4234034159645",
+    "uikName": "УИК №3720",
     "tikTvd": "22320002182664",
-    "tikName": "Новороссийск, Центральная"
+    "tikName": "Новороссийск, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3721,
     "uikTvd": "4234034159646",
+    "uikName": "УИК №3721",
     "tikTvd": "22320002182664",
-    "tikName": "Новороссийск, Центральная"
+    "tikName": "Новороссийск, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3722,
     "uikTvd": "4234034159647",
+    "uikName": "УИК №3722",
     "tikTvd": "22320002182664",
-    "tikName": "Новороссийск, Центральная"
+    "tikName": "Новороссийск, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3723,
     "uikTvd": "4234034159648",
+    "uikName": "УИК №3723",
     "tikTvd": "22320002182664",
-    "tikName": "Новороссийск, Центральная"
+    "tikName": "Новороссийск, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3724,
     "uikTvd": "4234034159649",
+    "uikName": "УИК №3724",
     "tikTvd": "22320002182664",
-    "tikName": "Новороссийск, Центральная"
+    "tikName": "Новороссийск, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3725,
     "uikTvd": "4234034159650",
+    "uikName": "УИК №3725",
     "tikTvd": "22320002182664",
-    "tikName": "Новороссийск, Центральная"
+    "tikName": "Новороссийск, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3726,
     "uikTvd": "4234034159651",
+    "uikName": "УИК №3726",
     "tikTvd": "22320002182664",
-    "tikName": "Новороссийск, Центральная"
+    "tikName": "Новороссийск, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3727,
     "uikTvd": "4234034159652",
+    "uikName": "УИК №3727",
     "tikTvd": "22320002182664",
-    "tikName": "Новороссийск, Центральная"
+    "tikName": "Новороссийск, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3728,
     "uikTvd": "4234034159653",
+    "uikName": "УИК №3728",
     "tikTvd": "22320002182664",
-    "tikName": "Новороссийск, Центральная"
+    "tikName": "Новороссийск, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3729,
     "uikTvd": "4234034159654",
+    "uikName": "УИК №3729",
     "tikTvd": "22320002182664",
-    "tikName": "Новороссийск, Центральная"
+    "tikName": "Новороссийск, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3797,
     "uikTvd": "4234034159889",
+    "uikName": "УИК №3797",
     "tikTvd": "22320002182664",
-    "tikName": "Новороссийск, Центральная"
+    "tikName": "Новороссийск, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3798,
     "uikTvd": "4234034159890",
+    "uikName": "УИК №3798",
     "tikTvd": "22320002182664",
-    "tikName": "Новороссийск, Центральная"
+    "tikName": "Новороссийск, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3799,
     "uikTvd": "4234034159891",
+    "uikName": "УИК №3799",
     "tikTvd": "22320002182664",
-    "tikName": "Новороссийск, Центральная"
+    "tikName": "Новороссийск, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3801,
     "uikTvd": "4234036229256",
+    "uikName": "УИК №3801",
     "tikTvd": "22320002182678",
-    "tikName": "Отрадненская"
+    "tikName": "Отрадненская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3802,
     "uikTvd": "4234036229258",
+    "uikName": "УИК №3802",
     "tikTvd": "22320002182678",
-    "tikName": "Отрадненская"
+    "tikName": "Отрадненская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3803,
     "uikTvd": "4234036229259",
+    "uikName": "УИК №3803",
     "tikTvd": "22320002182678",
-    "tikName": "Отрадненская"
+    "tikName": "Отрадненская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3804,
     "uikTvd": "4234036229260",
+    "uikName": "УИК №3804",
     "tikTvd": "22320002182678",
-    "tikName": "Отрадненская"
+    "tikName": "Отрадненская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3805,
     "uikTvd": "4234036229261",
+    "uikName": "УИК №3805",
     "tikTvd": "22320002182678",
-    "tikName": "Отрадненская"
+    "tikName": "Отрадненская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3806,
     "uikTvd": "4234036229262",
+    "uikName": "УИК №3806",
     "tikTvd": "22320002182678",
-    "tikName": "Отрадненская"
+    "tikName": "Отрадненская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3807,
     "uikTvd": "4234036229263",
+    "uikName": "УИК №3807",
     "tikTvd": "22320002182678",
-    "tikName": "Отрадненская"
+    "tikName": "Отрадненская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3808,
     "uikTvd": "4234036229264",
+    "uikName": "УИК №3808",
     "tikTvd": "22320002182678",
-    "tikName": "Отрадненская"
+    "tikName": "Отрадненская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3809,
     "uikTvd": "4234036229265",
+    "uikName": "УИК №3809",
     "tikTvd": "22320002182678",
-    "tikName": "Отрадненская"
+    "tikName": "Отрадненская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3810,
     "uikTvd": "4234036229266",
+    "uikName": "УИК №3810",
     "tikTvd": "22320002182678",
-    "tikName": "Отрадненская"
+    "tikName": "Отрадненская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3811,
     "uikTvd": "4234036229267",
+    "uikName": "УИК №3811",
     "tikTvd": "22320002182678",
-    "tikName": "Отрадненская"
+    "tikName": "Отрадненская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3812,
     "uikTvd": "4234036229268",
+    "uikName": "УИК №3812",
     "tikTvd": "22320002182678",
-    "tikName": "Отрадненская"
+    "tikName": "Отрадненская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3813,
     "uikTvd": "4234036229269",
+    "uikName": "УИК №3813",
     "tikTvd": "22320002182678",
-    "tikName": "Отрадненская"
+    "tikName": "Отрадненская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3814,
     "uikTvd": "4234036229270",
+    "uikName": "УИК №3814",
     "tikTvd": "22320002182678",
-    "tikName": "Отрадненская"
+    "tikName": "Отрадненская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3815,
     "uikTvd": "4234036229271",
+    "uikName": "УИК №3815",
     "tikTvd": "22320002182678",
-    "tikName": "Отрадненская"
+    "tikName": "Отрадненская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3816,
     "uikTvd": "4234036229272",
+    "uikName": "УИК №3816",
     "tikTvd": "22320002182678",
-    "tikName": "Отрадненская"
+    "tikName": "Отрадненская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3817,
     "uikTvd": "4234036229273",
+    "uikName": "УИК №3817",
     "tikTvd": "22320002182678",
-    "tikName": "Отрадненская"
+    "tikName": "Отрадненская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3818,
     "uikTvd": "4234036229274",
+    "uikName": "УИК №3818",
     "tikTvd": "22320002182678",
-    "tikName": "Отрадненская"
+    "tikName": "Отрадненская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3819,
     "uikTvd": "4234036229275",
+    "uikName": "УИК №3819",
     "tikTvd": "22320002182678",
-    "tikName": "Отрадненская"
+    "tikName": "Отрадненская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3820,
     "uikTvd": "4234036229276",
+    "uikName": "УИК №3820",
     "tikTvd": "22320002182678",
-    "tikName": "Отрадненская"
+    "tikName": "Отрадненская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3821,
     "uikTvd": "4234036229277",
+    "uikName": "УИК №3821",
     "tikTvd": "22320002182678",
-    "tikName": "Отрадненская"
+    "tikName": "Отрадненская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3822,
     "uikTvd": "4234036229278",
+    "uikName": "УИК №3822",
     "tikTvd": "22320002182678",
-    "tikName": "Отрадненская"
+    "tikName": "Отрадненская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3823,
     "uikTvd": "4234036229279",
+    "uikName": "УИК №3823",
     "tikTvd": "22320002182678",
-    "tikName": "Отрадненская"
+    "tikName": "Отрадненская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3824,
     "uikTvd": "4234036229280",
+    "uikName": "УИК №3824",
     "tikTvd": "22320002182678",
-    "tikName": "Отрадненская"
+    "tikName": "Отрадненская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3825,
     "uikTvd": "4234036229281",
+    "uikName": "УИК №3825",
     "tikTvd": "22320002182678",
-    "tikName": "Отрадненская"
+    "tikName": "Отрадненская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3826,
     "uikTvd": "4234036229282",
+    "uikName": "УИК №3826",
     "tikTvd": "22320002182678",
-    "tikName": "Отрадненская"
+    "tikName": "Отрадненская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3827,
     "uikTvd": "4234036229283",
+    "uikName": "УИК №3827",
     "tikTvd": "22320002182678",
-    "tikName": "Отрадненская"
+    "tikName": "Отрадненская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3828,
     "uikTvd": "4234036229284",
+    "uikName": "УИК №3828",
     "tikTvd": "22320002182678",
-    "tikName": "Отрадненская"
+    "tikName": "Отрадненская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3829,
     "uikTvd": "4234036229285",
+    "uikName": "УИК №3829",
     "tikTvd": "22320002182678",
-    "tikName": "Отрадненская"
+    "tikName": "Отрадненская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3830,
     "uikTvd": "4234036229286",
+    "uikName": "УИК №3830",
     "tikTvd": "22320002182678",
-    "tikName": "Отрадненская"
+    "tikName": "Отрадненская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3831,
     "uikTvd": "4234036229287",
+    "uikName": "УИК №3831",
     "tikTvd": "22320002182678",
-    "tikName": "Отрадненская"
+    "tikName": "Отрадненская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3832,
     "uikTvd": "4234036229288",
+    "uikName": "УИК №3832",
     "tikTvd": "22320002182678",
-    "tikName": "Отрадненская"
+    "tikName": "Отрадненская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3833,
     "uikTvd": "4234036229289",
+    "uikName": "УИК №3833",
     "tikTvd": "22320002182678",
-    "tikName": "Отрадненская"
+    "tikName": "Отрадненская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3834,
     "uikTvd": "4234036229290",
+    "uikName": "УИК №3834",
     "tikTvd": "22320002182678",
-    "tikName": "Отрадненская"
+    "tikName": "Отрадненская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3835,
     "uikTvd": "4234036229291",
+    "uikName": "УИК №3835",
     "tikTvd": "22320002182678",
-    "tikName": "Отрадненская"
+    "tikName": "Отрадненская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3836,
     "uikTvd": "4234036229292",
+    "uikName": "УИК №3836",
     "tikTvd": "22320002182678",
-    "tikName": "Отрадненская"
+    "tikName": "Отрадненская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3837,
     "uikTvd": "4234036229293",
+    "uikName": "УИК №3837",
     "tikTvd": "22320002182678",
-    "tikName": "Отрадненская"
+    "tikName": "Отрадненская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3838,
     "uikTvd": "4234036229294",
+    "uikName": "УИК №3838",
     "tikTvd": "22320002182678",
-    "tikName": "Отрадненская"
+    "tikName": "Отрадненская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3839,
     "uikTvd": "4234036229295",
+    "uikName": "УИК №3839",
     "tikTvd": "22320002182678",
-    "tikName": "Отрадненская"
+    "tikName": "Отрадненская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3840,
     "uikTvd": "4234036229296",
+    "uikName": "УИК №3840",
     "tikTvd": "22320002182678",
-    "tikName": "Отрадненская"
+    "tikName": "Отрадненская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3841,
     "uikTvd": "4234036229297",
+    "uikName": "УИК №3841",
     "tikTvd": "22320002182678",
-    "tikName": "Отрадненская"
+    "tikName": "Отрадненская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3842,
     "uikTvd": "4234036229298",
+    "uikName": "УИК №3842",
     "tikTvd": "22320002182678",
-    "tikName": "Отрадненская"
+    "tikName": "Отрадненская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3843,
     "uikTvd": "4234036229299",
+    "uikName": "УИК №3843",
     "tikTvd": "22320002182678",
-    "tikName": "Отрадненская"
+    "tikName": "Отрадненская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3844,
     "uikTvd": "4234036229300",
+    "uikName": "УИК №3844",
     "tikTvd": "22320002182678",
-    "tikName": "Отрадненская"
+    "tikName": "Отрадненская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3845,
     "uikTvd": "4234036229301",
+    "uikName": "УИК №3845",
     "tikTvd": "22320002182678",
-    "tikName": "Отрадненская"
+    "tikName": "Отрадненская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3846,
     "uikTvd": "4234036229302",
+    "uikName": "УИК №3846",
     "tikTvd": "22320002182678",
-    "tikName": "Отрадненская"
+    "tikName": "Отрадненская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3847,
     "uikTvd": "4234036229303",
+    "uikName": "УИК №3847",
     "tikTvd": "22320002182678",
-    "tikName": "Отрадненская"
+    "tikName": "Отрадненская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3848,
     "uikTvd": "4234036229304",
+    "uikName": "УИК №3848",
     "tikTvd": "22320002182678",
-    "tikName": "Отрадненская"
+    "tikName": "Отрадненская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3849,
     "uikTvd": "4234036229305",
+    "uikName": "УИК №3849",
     "tikTvd": "22320002182678",
-    "tikName": "Отрадненская"
+    "tikName": "Отрадненская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3850,
     "uikTvd": "4234036229306",
+    "uikName": "УИК №3850",
     "tikTvd": "22320002182678",
-    "tikName": "Отрадненская"
+    "tikName": "Отрадненская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3851,
     "uikTvd": "4234036229307",
+    "uikName": "УИК №3851",
     "tikTvd": "22320002182678",
-    "tikName": "Отрадненская"
+    "tikName": "Отрадненская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3901,
     "uikTvd": "4234037206615",
+    "uikName": "УИК №3901",
     "tikTvd": "22320002182642",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3902,
     "uikTvd": "4234037206616",
+    "uikName": "УИК №3902",
     "tikTvd": "22320002182642",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3903,
     "uikTvd": "4234037206617",
+    "uikName": "УИК №3903",
     "tikTvd": "22320002182642",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3904,
     "uikTvd": "4234037206618",
+    "uikName": "УИК №3904",
     "tikTvd": "22320002182642",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3905,
     "uikTvd": "4234037206619",
+    "uikName": "УИК №3905",
     "tikTvd": "22320002182642",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3906,
     "uikTvd": "4234037206620",
+    "uikName": "УИК №3906",
     "tikTvd": "22320002182642",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3907,
     "uikTvd": "4234037206621",
+    "uikName": "УИК №3907",
     "tikTvd": "22320002182642",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3908,
     "uikTvd": "4234037206622",
+    "uikName": "УИК №3908",
     "tikTvd": "22320002182642",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3909,
     "uikTvd": "4234037206623",
+    "uikName": "УИК №3909",
     "tikTvd": "22320002182642",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3910,
     "uikTvd": "4234037206624",
+    "uikName": "УИК №3910",
     "tikTvd": "22320002182642",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3911,
     "uikTvd": "4234037206625",
+    "uikName": "УИК №3911",
     "tikTvd": "22320002182642",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3912,
     "uikTvd": "4234037206626",
+    "uikName": "УИК №3912",
     "tikTvd": "22320002182642",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3913,
     "uikTvd": "4234037206627",
+    "uikName": "УИК №3913",
     "tikTvd": "22320002182642",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3914,
     "uikTvd": "4234037206628",
+    "uikName": "УИК №3914",
     "tikTvd": "22320002182642",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3915,
     "uikTvd": "4234037206629",
+    "uikName": "УИК №3915",
     "tikTvd": "22320002182642",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3916,
     "uikTvd": "4234037206630",
+    "uikName": "УИК №3916",
     "tikTvd": "22320002182642",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3917,
     "uikTvd": "4234037206631",
+    "uikName": "УИК №3917",
     "tikTvd": "22320002182642",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3918,
     "uikTvd": "4234037206632",
+    "uikName": "УИК №3918",
     "tikTvd": "22320002182642",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3919,
     "uikTvd": "4234037206633",
+    "uikName": "УИК №3919",
     "tikTvd": "22320002182642",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3920,
     "uikTvd": "4234037206634",
+    "uikName": "УИК №3920",
     "tikTvd": "22320002182642",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3921,
     "uikTvd": "4234037206635",
+    "uikName": "УИК №3921",
     "tikTvd": "22320002182642",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3922,
     "uikTvd": "4234037206636",
+    "uikName": "УИК №3922",
     "tikTvd": "22320002182642",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3923,
     "uikTvd": "4234037206637",
+    "uikName": "УИК №3923",
     "tikTvd": "22320002182642",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3924,
     "uikTvd": "4234037206638",
+    "uikName": "УИК №3924",
     "tikTvd": "22320002182642",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3925,
     "uikTvd": "4234037206639",
+    "uikName": "УИК №3925",
     "tikTvd": "22320002182642",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3926,
     "uikTvd": "4234037206640",
+    "uikName": "УИК №3926",
     "tikTvd": "22320002182642",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3927,
     "uikTvd": "4234037206641",
+    "uikName": "УИК №3927",
     "tikTvd": "22320002182642",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3928,
     "uikTvd": "4234037206642",
+    "uikName": "УИК №3928",
     "tikTvd": "22320002182642",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3929,
     "uikTvd": "4234037206643",
+    "uikName": "УИК №3929",
     "tikTvd": "22320002182642",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3930,
     "uikTvd": "4234037206644",
+    "uikName": "УИК №3930",
     "tikTvd": "22320002182642",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3931,
     "uikTvd": "4234037206645",
+    "uikName": "УИК №3931",
     "tikTvd": "22320002182642",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3932,
     "uikTvd": "4234037206646",
+    "uikName": "УИК №3932",
     "tikTvd": "22320002182642",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3933,
     "uikTvd": "4234037206647",
+    "uikName": "УИК №3933",
     "tikTvd": "22320002182642",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3934,
     "uikTvd": "4234037206648",
+    "uikName": "УИК №3934",
     "tikTvd": "22320002182642",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3935,
     "uikTvd": "4234037206649",
+    "uikName": "УИК №3935",
     "tikTvd": "22320002182642",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3936,
     "uikTvd": "4234037206650",
+    "uikName": "УИК №3936",
     "tikTvd": "22320002182642",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3937,
     "uikTvd": "4234037206651",
+    "uikName": "УИК №3937",
     "tikTvd": "22320002182642",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3938,
     "uikTvd": "4234037206652",
+    "uikName": "УИК №3938",
     "tikTvd": "22320002182642",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3939,
     "uikTvd": "4234037206653",
+    "uikName": "УИК №3939",
     "tikTvd": "22320002182642",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3940,
     "uikTvd": "4234037206654",
+    "uikName": "УИК №3940",
     "tikTvd": "22320002182642",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3941,
     "uikTvd": "4234037206655",
+    "uikName": "УИК №3941",
     "tikTvd": "22320002182642",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3942,
     "uikTvd": "4234037206656",
+    "uikName": "УИК №3942",
     "tikTvd": "22320002182642",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3943,
     "uikTvd": "4234037206657",
+    "uikName": "УИК №3943",
     "tikTvd": "22320002182642",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 3944,
     "uikTvd": "4234037206658",
+    "uikName": "УИК №3944",
     "tikTvd": "22320002182642",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4001,
     "uikTvd": "4234038214700",
+    "uikName": "УИК №4001",
     "tikTvd": "22320002182681",
-    "tikName": "Приморско-Ахтарская"
+    "tikName": "Приморско-Ахтарская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4002,
     "uikTvd": "4234038214701",
+    "uikName": "УИК №4002",
     "tikTvd": "22320002182681",
-    "tikName": "Приморско-Ахтарская"
+    "tikName": "Приморско-Ахтарская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4003,
     "uikTvd": "4234038214702",
+    "uikName": "УИК №4003",
     "tikTvd": "22320002182681",
-    "tikName": "Приморско-Ахтарская"
+    "tikName": "Приморско-Ахтарская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4004,
     "uikTvd": "4234038214703",
+    "uikName": "УИК №4004",
     "tikTvd": "22320002182681",
-    "tikName": "Приморско-Ахтарская"
+    "tikName": "Приморско-Ахтарская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4005,
     "uikTvd": "4234038214704",
+    "uikName": "УИК №4005",
     "tikTvd": "22320002182681",
-    "tikName": "Приморско-Ахтарская"
+    "tikName": "Приморско-Ахтарская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4006,
     "uikTvd": "4234038214705",
+    "uikName": "УИК №4006",
     "tikTvd": "22320002182681",
-    "tikName": "Приморско-Ахтарская"
+    "tikName": "Приморско-Ахтарская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4007,
     "uikTvd": "4234038214706",
+    "uikName": "УИК №4007",
     "tikTvd": "22320002182681",
-    "tikName": "Приморско-Ахтарская"
+    "tikName": "Приморско-Ахтарская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4008,
     "uikTvd": "4234038214707",
+    "uikName": "УИК №4008",
     "tikTvd": "22320002182681",
-    "tikName": "Приморско-Ахтарская"
+    "tikName": "Приморско-Ахтарская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4009,
     "uikTvd": "4234038214708",
+    "uikName": "УИК №4009",
     "tikTvd": "22320002182681",
-    "tikName": "Приморско-Ахтарская"
+    "tikName": "Приморско-Ахтарская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4010,
     "uikTvd": "4234038214709",
+    "uikName": "УИК №4010",
     "tikTvd": "22320002182681",
-    "tikName": "Приморско-Ахтарская"
+    "tikName": "Приморско-Ахтарская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4011,
     "uikTvd": "4234038214710",
+    "uikName": "УИК №4011",
     "tikTvd": "22320002182681",
-    "tikName": "Приморско-Ахтарская"
+    "tikName": "Приморско-Ахтарская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4012,
     "uikTvd": "4234038214711",
+    "uikName": "УИК №4012",
     "tikTvd": "22320002182681",
-    "tikName": "Приморско-Ахтарская"
+    "tikName": "Приморско-Ахтарская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4013,
     "uikTvd": "4234038214712",
+    "uikName": "УИК №4013",
     "tikTvd": "22320002182681",
-    "tikName": "Приморско-Ахтарская"
+    "tikName": "Приморско-Ахтарская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4014,
     "uikTvd": "4234038214713",
+    "uikName": "УИК №4014",
     "tikTvd": "22320002182681",
-    "tikName": "Приморско-Ахтарская"
+    "tikName": "Приморско-Ахтарская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4015,
     "uikTvd": "4234038214714",
+    "uikName": "УИК №4015",
     "tikTvd": "22320002182681",
-    "tikName": "Приморско-Ахтарская"
+    "tikName": "Приморско-Ахтарская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4016,
     "uikTvd": "4234038214715",
+    "uikName": "УИК №4016",
     "tikTvd": "22320002182681",
-    "tikName": "Приморско-Ахтарская"
+    "tikName": "Приморско-Ахтарская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4017,
     "uikTvd": "4234038214716",
+    "uikName": "УИК №4017",
     "tikTvd": "22320002182681",
-    "tikName": "Приморско-Ахтарская"
+    "tikName": "Приморско-Ахтарская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4018,
     "uikTvd": "4234038214717",
+    "uikName": "УИК №4018",
     "tikTvd": "22320002182681",
-    "tikName": "Приморско-Ахтарская"
+    "tikName": "Приморско-Ахтарская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4019,
     "uikTvd": "4234038214718",
+    "uikName": "УИК №4019",
     "tikTvd": "22320002182681",
-    "tikName": "Приморско-Ахтарская"
+    "tikName": "Приморско-Ахтарская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4020,
     "uikTvd": "4234038214719",
+    "uikName": "УИК №4020",
     "tikTvd": "22320002182681",
-    "tikName": "Приморско-Ахтарская"
+    "tikName": "Приморско-Ахтарская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4021,
     "uikTvd": "4234038214720",
+    "uikName": "УИК №4021",
     "tikTvd": "22320002182681",
-    "tikName": "Приморско-Ахтарская"
+    "tikName": "Приморско-Ахтарская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4022,
     "uikTvd": "4234038214721",
+    "uikName": "УИК №4022",
     "tikTvd": "22320002182681",
-    "tikName": "Приморско-Ахтарская"
+    "tikName": "Приморско-Ахтарская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4023,
     "uikTvd": "4234038214722",
+    "uikName": "УИК №4023",
     "tikTvd": "22320002182681",
-    "tikName": "Приморско-Ахтарская"
+    "tikName": "Приморско-Ахтарская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4024,
     "uikTvd": "4234038214723",
+    "uikName": "УИК №4024",
     "tikTvd": "22320002182681",
-    "tikName": "Приморско-Ахтарская"
+    "tikName": "Приморско-Ахтарская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4025,
     "uikTvd": "4234038214724",
+    "uikName": "УИК №4025",
     "tikTvd": "22320002182681",
-    "tikName": "Приморско-Ахтарская"
+    "tikName": "Приморско-Ахтарская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4026,
     "uikTvd": "4234038214725",
+    "uikName": "УИК №4026",
     "tikTvd": "22320002182681",
-    "tikName": "Приморско-Ахтарская"
+    "tikName": "Приморско-Ахтарская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4027,
     "uikTvd": "4234038214726",
+    "uikName": "УИК №4027",
     "tikTvd": "22320002182681",
-    "tikName": "Приморско-Ахтарская"
+    "tikName": "Приморско-Ахтарская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4028,
     "uikTvd": "4234038214727",
+    "uikName": "УИК №4028",
     "tikTvd": "22320002182681",
-    "tikName": "Приморско-Ахтарская"
+    "tikName": "Приморско-Ахтарская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4029,
     "uikTvd": "4234038214728",
+    "uikName": "УИК №4029",
     "tikTvd": "22320002182681",
-    "tikName": "Приморско-Ахтарская"
+    "tikName": "Приморско-Ахтарская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4030,
     "uikTvd": "4234038214729",
+    "uikName": "УИК №4030",
     "tikTvd": "22320002182681",
-    "tikName": "Приморско-Ахтарская"
+    "tikName": "Приморско-Ахтарская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4031,
     "uikTvd": "4234038214730",
+    "uikName": "УИК №4031",
     "tikTvd": "22320002182681",
-    "tikName": "Приморско-Ахтарская"
+    "tikName": "Приморско-Ахтарская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4032,
     "uikTvd": "4234038214731",
+    "uikName": "УИК №4032",
     "tikTvd": "22320002182681",
-    "tikName": "Приморско-Ахтарская"
+    "tikName": "Приморско-Ахтарская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4033,
     "uikTvd": "4234038214732",
+    "uikName": "УИК №4033",
     "tikTvd": "22320002182681",
-    "tikName": "Приморско-Ахтарская"
+    "tikName": "Приморско-Ахтарская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4034,
     "uikTvd": "4234038214733",
+    "uikName": "УИК №4034",
     "tikTvd": "22320002182681",
-    "tikName": "Приморско-Ахтарская"
+    "tikName": "Приморско-Ахтарская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4035,
     "uikTvd": "4234038214734",
+    "uikName": "УИК №4035",
     "tikTvd": "22320002182681",
-    "tikName": "Приморско-Ахтарская"
+    "tikName": "Приморско-Ахтарская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4101,
     "uikTvd": "4234039295574",
+    "uikName": "УИК №4101",
     "tikTvd": "22320002182624",
-    "tikName": "Северская"
+    "tikName": "Северская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4102,
     "uikTvd": "4234039295575",
+    "uikName": "УИК №4102",
     "tikTvd": "22320002182624",
-    "tikName": "Северская"
+    "tikName": "Северская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4103,
     "uikTvd": "4234039295576",
+    "uikName": "УИК №4103",
     "tikTvd": "22320002182624",
-    "tikName": "Северская"
+    "tikName": "Северская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4104,
     "uikTvd": "4234039295577",
+    "uikName": "УИК №4104",
     "tikTvd": "22320002182624",
-    "tikName": "Северская"
+    "tikName": "Северская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4105,
     "uikTvd": "4234039295578",
+    "uikName": "УИК №4105",
     "tikTvd": "22320002182624",
-    "tikName": "Северская"
+    "tikName": "Северская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4106,
     "uikTvd": "4234039295579",
+    "uikName": "УИК №4106",
     "tikTvd": "22320002182624",
-    "tikName": "Северская"
+    "tikName": "Северская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4107,
     "uikTvd": "4234039295580",
+    "uikName": "УИК №4107",
     "tikTvd": "22320002182624",
-    "tikName": "Северская"
+    "tikName": "Северская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4108,
     "uikTvd": "4234039295581",
+    "uikName": "УИК №4108",
     "tikTvd": "22320002182624",
-    "tikName": "Северская"
+    "tikName": "Северская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4109,
     "uikTvd": "4234039295582",
+    "uikName": "УИК №4109",
     "tikTvd": "22320002182624",
-    "tikName": "Северская"
+    "tikName": "Северская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4110,
     "uikTvd": "4234039295583",
+    "uikName": "УИК №4110",
     "tikTvd": "22320002182624",
-    "tikName": "Северская"
+    "tikName": "Северская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4111,
     "uikTvd": "4234039295584",
+    "uikName": "УИК №4111",
     "tikTvd": "22320002182624",
-    "tikName": "Северская"
+    "tikName": "Северская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4112,
     "uikTvd": "4234039295585",
+    "uikName": "УИК №4112",
     "tikTvd": "22320002182624",
-    "tikName": "Северская"
+    "tikName": "Северская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4113,
     "uikTvd": "4234039295586",
+    "uikName": "УИК №4113",
     "tikTvd": "22320002182624",
-    "tikName": "Северская"
+    "tikName": "Северская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4114,
     "uikTvd": "4234039295587",
+    "uikName": "УИК №4114",
     "tikTvd": "22320002182624",
-    "tikName": "Северская"
+    "tikName": "Северская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4115,
     "uikTvd": "4234039295588",
+    "uikName": "УИК №4115",
     "tikTvd": "22320002182624",
-    "tikName": "Северская"
+    "tikName": "Северская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4116,
     "uikTvd": "4234039295589",
+    "uikName": "УИК №4116",
     "tikTvd": "22320002182624",
-    "tikName": "Северская"
+    "tikName": "Северская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4117,
     "uikTvd": "4234039295590",
+    "uikName": "УИК №4117",
     "tikTvd": "22320002182624",
-    "tikName": "Северская"
+    "tikName": "Северская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4118,
     "uikTvd": "4234039295591",
+    "uikName": "УИК №4118",
     "tikTvd": "22320002182624",
-    "tikName": "Северская"
+    "tikName": "Северская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4119,
     "uikTvd": "4234039295592",
+    "uikName": "УИК №4119",
     "tikTvd": "22320002182624",
-    "tikName": "Северская"
+    "tikName": "Северская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4120,
     "uikTvd": "4234039295593",
+    "uikName": "УИК №4120",
     "tikTvd": "22320002182624",
-    "tikName": "Северская"
+    "tikName": "Северская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4121,
     "uikTvd": "4234039295594",
+    "uikName": "УИК №4121",
     "tikTvd": "22320002182624",
-    "tikName": "Северская"
+    "tikName": "Северская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4122,
     "uikTvd": "4234039295595",
+    "uikName": "УИК №4122",
     "tikTvd": "22320002182624",
-    "tikName": "Северская"
+    "tikName": "Северская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4123,
     "uikTvd": "4234039295596",
+    "uikName": "УИК №4123",
     "tikTvd": "22320002182624",
-    "tikName": "Северская"
+    "tikName": "Северская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4124,
     "uikTvd": "4234039295597",
+    "uikName": "УИК №4124",
     "tikTvd": "22320002182624",
-    "tikName": "Северская"
+    "tikName": "Северская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4125,
     "uikTvd": "4234039295598",
+    "uikName": "УИК №4125",
     "tikTvd": "22320002182624",
-    "tikName": "Северская"
+    "tikName": "Северская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4126,
     "uikTvd": "4234039295599",
+    "uikName": "УИК №4126",
     "tikTvd": "22320002182624",
-    "tikName": "Северская"
+    "tikName": "Северская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4127,
     "uikTvd": "4234039295600",
+    "uikName": "УИК №4127",
     "tikTvd": "22320002182624",
-    "tikName": "Северская"
+    "tikName": "Северская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4128,
     "uikTvd": "4234039295601",
+    "uikName": "УИК №4128",
     "tikTvd": "22320002182624",
-    "tikName": "Северская"
+    "tikName": "Северская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4129,
     "uikTvd": "4234039295602",
+    "uikName": "УИК №4129",
     "tikTvd": "22320002182624",
-    "tikName": "Северская"
+    "tikName": "Северская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4130,
     "uikTvd": "4234039295603",
+    "uikName": "УИК №4130",
     "tikTvd": "22320002182624",
-    "tikName": "Северская"
+    "tikName": "Северская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4131,
     "uikTvd": "4234039295604",
+    "uikName": "УИК №4131",
     "tikTvd": "22320002182624",
-    "tikName": "Северская"
+    "tikName": "Северская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4132,
     "uikTvd": "4234039295605",
+    "uikName": "УИК №4132",
     "tikTvd": "22320002182624",
-    "tikName": "Северская"
+    "tikName": "Северская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4133,
     "uikTvd": "4234039295606",
+    "uikName": "УИК №4133",
     "tikTvd": "22320002182624",
-    "tikName": "Северская"
+    "tikName": "Северская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4134,
     "uikTvd": "4234039295607",
+    "uikName": "УИК №4134",
     "tikTvd": "22320002182624",
-    "tikName": "Северская"
+    "tikName": "Северская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4135,
     "uikTvd": "4234039295608",
+    "uikName": "УИК №4135",
     "tikTvd": "22320002182624",
-    "tikName": "Северская"
+    "tikName": "Северская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4136,
     "uikTvd": "4234039295609",
+    "uikName": "УИК №4136",
     "tikTvd": "22320002182624",
-    "tikName": "Северская"
+    "tikName": "Северская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4137,
     "uikTvd": "4234039295610",
+    "uikName": "УИК №4137",
     "tikTvd": "22320002182624",
-    "tikName": "Северская"
+    "tikName": "Северская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4138,
     "uikTvd": "4234039295611",
+    "uikName": "УИК №4138",
     "tikTvd": "22320002182624",
-    "tikName": "Северская"
+    "tikName": "Северская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4139,
     "uikTvd": "4234039295612",
+    "uikName": "УИК №4139",
     "tikTvd": "22320002182624",
-    "tikName": "Северская"
+    "tikName": "Северская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4140,
     "uikTvd": "4234039295613",
+    "uikName": "УИК №4140",
     "tikTvd": "22320002182624",
-    "tikName": "Северская"
+    "tikName": "Северская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4141,
     "uikTvd": "4234039295614",
+    "uikName": "УИК №4141",
     "tikTvd": "22320002182624",
-    "tikName": "Северская"
+    "tikName": "Северская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4142,
     "uikTvd": "4234039295615",
+    "uikName": "УИК №4142",
     "tikTvd": "22320002182624",
-    "tikName": "Северская"
+    "tikName": "Северская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4143,
     "uikTvd": "4234039295616",
+    "uikName": "УИК №4143",
     "tikTvd": "22320002182624",
-    "tikName": "Северская"
+    "tikName": "Северская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4144,
     "uikTvd": "4234039295617",
+    "uikName": "УИК №4144",
     "tikTvd": "22320002182624",
-    "tikName": "Северская"
+    "tikName": "Северская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4145,
     "uikTvd": "4234039295618",
+    "uikName": "УИК №4145",
     "tikTvd": "22320002182624",
-    "tikName": "Северская"
+    "tikName": "Северская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4146,
     "uikTvd": "4234039295619",
+    "uikName": "УИК №4146",
     "tikTvd": "22320002182624",
-    "tikName": "Северская"
+    "tikName": "Северская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4147,
     "uikTvd": "4234039295620",
+    "uikName": "УИК №4147",
     "tikTvd": "22320002182624",
-    "tikName": "Северская"
+    "tikName": "Северская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4148,
     "uikTvd": "4234039295621",
+    "uikName": "УИК №4148",
     "tikTvd": "22320002182624",
-    "tikName": "Северская"
+    "tikName": "Северская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4149,
     "uikTvd": "4234039295622",
+    "uikName": "УИК №4149",
     "tikTvd": "22320002182624",
-    "tikName": "Северская"
+    "tikName": "Северская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4150,
     "uikTvd": "4234039295623",
+    "uikName": "УИК №4150",
     "tikTvd": "22320002182624",
-    "tikName": "Северская"
+    "tikName": "Северская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4151,
     "uikTvd": "4234039295624",
+    "uikName": "УИК №4151",
     "tikTvd": "22320002182624",
-    "tikName": "Северская"
+    "tikName": "Северская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4152,
     "uikTvd": "4234039295625",
+    "uikName": "УИК №4152",
     "tikTvd": "22320002182624",
-    "tikName": "Северская"
+    "tikName": "Северская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4153,
     "uikTvd": "4234039295626",
+    "uikName": "УИК №4153",
     "tikTvd": "22320002182624",
-    "tikName": "Северская"
+    "tikName": "Северская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4154,
     "uikTvd": "4234039295627",
+    "uikName": "УИК №4154",
     "tikTvd": "22320002182624",
-    "tikName": "Северская"
+    "tikName": "Северская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4155,
     "uikTvd": "4234039295628",
+    "uikName": "УИК №4155",
     "tikTvd": "22320002182624",
-    "tikName": "Северская"
+    "tikName": "Северская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4156,
     "uikTvd": "4234039295629",
+    "uikName": "УИК №4156",
     "tikTvd": "22320002182624",
-    "tikName": "Северская"
+    "tikName": "Северская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4157,
     "uikTvd": "4234039295630",
+    "uikName": "УИК №4157",
     "tikTvd": "22320002182624",
-    "tikName": "Северская"
+    "tikName": "Северская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4158,
     "uikTvd": "4234039295631",
+    "uikName": "УИК №4158",
     "tikTvd": "22320002182624",
-    "tikName": "Северская"
+    "tikName": "Северская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4159,
     "uikTvd": "4234039295632",
+    "uikName": "УИК №4159",
     "tikTvd": "22320002182624",
-    "tikName": "Северская"
+    "tikName": "Северская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4160,
     "uikTvd": "4234039295633",
+    "uikName": "УИК №4160",
     "tikTvd": "22320002182624",
-    "tikName": "Северская"
+    "tikName": "Северская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4161,
     "uikTvd": "4234039295634",
+    "uikName": "УИК №4161",
     "tikTvd": "22320002182624",
-    "tikName": "Северская"
+    "tikName": "Северская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4162,
     "uikTvd": "4234039295635",
+    "uikName": "УИК №4162",
     "tikTvd": "22320002182624",
-    "tikName": "Северская"
+    "tikName": "Северская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4163,
     "uikTvd": "4234039295636",
+    "uikName": "УИК №4163",
     "tikTvd": "22320002182624",
-    "tikName": "Северская"
+    "tikName": "Северская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4164,
     "uikTvd": "4234039295637",
+    "uikName": "УИК №4164",
     "tikTvd": "22320002182624",
-    "tikName": "Северская"
+    "tikName": "Северская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4165,
     "uikTvd": "4234039295638",
+    "uikName": "УИК №4165",
     "tikTvd": "22320002182624",
-    "tikName": "Северская"
+    "tikName": "Северская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4166,
     "uikTvd": "4234039295639",
+    "uikName": "УИК №4166",
     "tikTvd": "22320002182624",
-    "tikName": "Северская"
+    "tikName": "Северская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4167,
     "uikTvd": "4234039295640",
+    "uikName": "УИК №4167",
     "tikTvd": "22320002182624",
-    "tikName": "Северская"
+    "tikName": "Северская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4168,
     "uikTvd": "4234039295641",
+    "uikName": "УИК №4168",
     "tikTvd": "22320002182624",
-    "tikName": "Северская"
+    "tikName": "Северская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4169,
     "uikTvd": "4234039295642",
+    "uikName": "УИК №4169",
     "tikTvd": "22320002182624",
-    "tikName": "Северская"
+    "tikName": "Северская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4199,
     "uikTvd": "4234039295928",
+    "uikName": "УИК №4199",
     "tikTvd": "22320002182624",
-    "tikName": "Северская"
+    "tikName": "Северская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4201,
     "uikTvd": "4234040344169",
+    "uikName": "УИК №4201",
     "tikTvd": "22320002182633",
-    "tikName": "Славянская"
+    "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4202,
     "uikTvd": "4234040344170",
+    "uikName": "УИК №4202",
     "tikTvd": "22320002182633",
-    "tikName": "Славянская"
+    "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4203,
     "uikTvd": "4234040344171",
+    "uikName": "УИК №4203",
     "tikTvd": "22320002182633",
-    "tikName": "Славянская"
+    "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4204,
     "uikTvd": "4234040344172",
+    "uikName": "УИК №4204",
     "tikTvd": "22320002182633",
-    "tikName": "Славянская"
+    "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4205,
     "uikTvd": "4234040344173",
+    "uikName": "УИК №4205",
     "tikTvd": "22320002182633",
-    "tikName": "Славянская"
+    "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4206,
     "uikTvd": "4234040344174",
+    "uikName": "УИК №4206",
     "tikTvd": "22320002182633",
-    "tikName": "Славянская"
+    "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4207,
     "uikTvd": "4234040344175",
+    "uikName": "УИК №4207",
     "tikTvd": "22320002182633",
-    "tikName": "Славянская"
+    "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4208,
     "uikTvd": "4234040344176",
+    "uikName": "УИК №4208",
     "tikTvd": "22320002182633",
-    "tikName": "Славянская"
+    "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4209,
     "uikTvd": "4234040344177",
+    "uikName": "УИК №4209",
     "tikTvd": "22320002182633",
-    "tikName": "Славянская"
+    "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4210,
     "uikTvd": "4234040344178",
+    "uikName": "УИК №4210",
     "tikTvd": "22320002182633",
-    "tikName": "Славянская"
+    "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4211,
     "uikTvd": "4234040344179",
+    "uikName": "УИК №4211",
     "tikTvd": "22320002182633",
-    "tikName": "Славянская"
+    "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4212,
     "uikTvd": "4234040344180",
+    "uikName": "УИК №4212",
     "tikTvd": "22320002182633",
-    "tikName": "Славянская"
+    "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4213,
     "uikTvd": "4234040344181",
+    "uikName": "УИК №4213",
     "tikTvd": "22320002182633",
-    "tikName": "Славянская"
+    "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4214,
     "uikTvd": "4234040344182",
+    "uikName": "УИК №4214",
     "tikTvd": "22320002182633",
-    "tikName": "Славянская"
+    "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4215,
     "uikTvd": "4234040344183",
+    "uikName": "УИК №4215",
     "tikTvd": "22320002182633",
-    "tikName": "Славянская"
+    "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4216,
     "uikTvd": "4234040344184",
+    "uikName": "УИК №4216",
     "tikTvd": "22320002182633",
-    "tikName": "Славянская"
+    "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4217,
     "uikTvd": "4234040344185",
+    "uikName": "УИК №4217",
     "tikTvd": "22320002182633",
-    "tikName": "Славянская"
+    "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4218,
     "uikTvd": "4234040344186",
+    "uikName": "УИК №4218",
     "tikTvd": "22320002182633",
-    "tikName": "Славянская"
+    "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4219,
     "uikTvd": "4234040344187",
+    "uikName": "УИК №4219",
     "tikTvd": "22320002182633",
-    "tikName": "Славянская"
+    "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4220,
     "uikTvd": "4234040344188",
+    "uikName": "УИК №4220",
     "tikTvd": "22320002182633",
-    "tikName": "Славянская"
+    "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4221,
     "uikTvd": "4234040344189",
+    "uikName": "УИК №4221",
     "tikTvd": "22320002182633",
-    "tikName": "Славянская"
+    "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4222,
     "uikTvd": "4234040344190",
+    "uikName": "УИК №4222",
     "tikTvd": "22320002182633",
-    "tikName": "Славянская"
+    "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4223,
     "uikTvd": "4234040344191",
+    "uikName": "УИК №4223",
     "tikTvd": "22320002182633",
-    "tikName": "Славянская"
+    "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4224,
     "uikTvd": "4234040344192",
+    "uikName": "УИК №4224",
     "tikTvd": "22320002182633",
-    "tikName": "Славянская"
+    "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4225,
     "uikTvd": "4234040344193",
+    "uikName": "УИК №4225",
     "tikTvd": "22320002182633",
-    "tikName": "Славянская"
+    "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4226,
     "uikTvd": "4234040344194",
+    "uikName": "УИК №4226",
     "tikTvd": "22320002182633",
-    "tikName": "Славянская"
+    "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4227,
     "uikTvd": "4234040344195",
+    "uikName": "УИК №4227",
     "tikTvd": "22320002182633",
-    "tikName": "Славянская"
+    "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4228,
     "uikTvd": "4234040344196",
+    "uikName": "УИК №4228",
     "tikTvd": "22320002182633",
-    "tikName": "Славянская"
+    "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4229,
     "uikTvd": "4234040344197",
+    "uikName": "УИК №4229",
     "tikTvd": "22320002182633",
-    "tikName": "Славянская"
+    "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4230,
     "uikTvd": "4234040344198",
+    "uikName": "УИК №4230",
     "tikTvd": "22320002182633",
-    "tikName": "Славянская"
+    "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4231,
     "uikTvd": "4234040344199",
+    "uikName": "УИК №4231",
     "tikTvd": "22320002182633",
-    "tikName": "Славянская"
+    "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4232,
     "uikTvd": "4234040344200",
+    "uikName": "УИК №4232",
     "tikTvd": "22320002182633",
-    "tikName": "Славянская"
+    "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4233,
     "uikTvd": "4234040344201",
+    "uikName": "УИК №4233",
     "tikTvd": "22320002182633",
-    "tikName": "Славянская"
+    "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4234,
     "uikTvd": "4234040344202",
+    "uikName": "УИК №4234",
     "tikTvd": "22320002182633",
-    "tikName": "Славянская"
+    "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4235,
     "uikTvd": "4234040344203",
+    "uikName": "УИК №4235",
     "tikTvd": "22320002182633",
-    "tikName": "Славянская"
+    "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4236,
     "uikTvd": "4234040344204",
+    "uikName": "УИК №4236",
     "tikTvd": "22320002182633",
-    "tikName": "Славянская"
+    "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4237,
     "uikTvd": "4234040344205",
+    "uikName": "УИК №4237",
     "tikTvd": "22320002182633",
-    "tikName": "Славянская"
+    "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4238,
     "uikTvd": "4234040344206",
+    "uikName": "УИК №4238",
     "tikTvd": "22320002182633",
-    "tikName": "Славянская"
+    "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4239,
     "uikTvd": "4234040344207",
+    "uikName": "УИК №4239",
     "tikTvd": "22320002182633",
-    "tikName": "Славянская"
+    "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4240,
     "uikTvd": "4234040344208",
+    "uikName": "УИК №4240",
     "tikTvd": "22320002182633",
-    "tikName": "Славянская"
+    "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4241,
     "uikTvd": "4234040344209",
+    "uikName": "УИК №4241",
     "tikTvd": "22320002182633",
-    "tikName": "Славянская"
+    "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4242,
     "uikTvd": "4234040344210",
+    "uikName": "УИК №4242",
     "tikTvd": "22320002182633",
-    "tikName": "Славянская"
+    "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4243,
     "uikTvd": "4234040344211",
+    "uikName": "УИК №4243",
     "tikTvd": "22320002182633",
-    "tikName": "Славянская"
+    "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4244,
     "uikTvd": "4234040344212",
+    "uikName": "УИК №4244",
     "tikTvd": "22320002182633",
-    "tikName": "Славянская"
+    "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4245,
     "uikTvd": "4234040344213",
+    "uikName": "УИК №4245",
     "tikTvd": "22320002182633",
-    "tikName": "Славянская"
+    "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4246,
     "uikTvd": "4234040344214",
+    "uikName": "УИК №4246",
     "tikTvd": "22320002182633",
-    "tikName": "Славянская"
+    "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4247,
     "uikTvd": "4234040344215",
+    "uikName": "УИК №4247",
     "tikTvd": "22320002182633",
-    "tikName": "Славянская"
+    "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4248,
     "uikTvd": "4234040344216",
+    "uikName": "УИК №4248",
     "tikTvd": "22320002182633",
-    "tikName": "Славянская"
+    "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4249,
     "uikTvd": "4234040344217",
+    "uikName": "УИК №4249",
     "tikTvd": "22320002182633",
-    "tikName": "Славянская"
+    "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4250,
     "uikTvd": "4234040344218",
+    "uikName": "УИК №4250",
     "tikTvd": "22320002182633",
-    "tikName": "Славянская"
+    "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4251,
     "uikTvd": "4234040344219",
+    "uikName": "УИК №4251",
     "tikTvd": "22320002182633",
-    "tikName": "Славянская"
+    "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4252,
     "uikTvd": "4234040344220",
+    "uikName": "УИК №4252",
     "tikTvd": "22320002182633",
-    "tikName": "Славянская"
+    "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4253,
     "uikTvd": "4234040344221",
+    "uikName": "УИК №4253",
     "tikTvd": "22320002182633",
-    "tikName": "Славянская"
+    "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4254,
     "uikTvd": "4234040344222",
+    "uikName": "УИК №4254",
     "tikTvd": "22320002182633",
-    "tikName": "Славянская"
+    "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4255,
     "uikTvd": "4234040344223",
+    "uikName": "УИК №4255",
     "tikTvd": "22320002182633",
-    "tikName": "Славянская"
+    "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4256,
     "uikTvd": "4234040344224",
+    "uikName": "УИК №4256",
     "tikTvd": "22320002182633",
-    "tikName": "Славянская"
+    "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4257,
     "uikTvd": "4234040344225",
+    "uikName": "УИК №4257",
     "tikTvd": "22320002182633",
-    "tikName": "Славянская"
+    "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4258,
     "uikTvd": "4234040344226",
+    "uikName": "УИК №4258",
     "tikTvd": "22320002182633",
-    "tikName": "Славянская"
+    "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4259,
     "uikTvd": "4234040344227",
+    "uikName": "УИК №4259",
     "tikTvd": "22320002182633",
-    "tikName": "Славянская"
+    "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4260,
     "uikTvd": "4234040344228",
+    "uikName": "УИК №4260",
     "tikTvd": "22320002182633",
-    "tikName": "Славянская"
+    "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4261,
     "uikTvd": "4234040344229",
+    "uikName": "УИК №4261",
     "tikTvd": "22320002182633",
-    "tikName": "Славянская"
+    "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4262,
     "uikTvd": "4234040344230",
+    "uikName": "УИК №4262",
     "tikTvd": "22320002182633",
-    "tikName": "Славянская"
+    "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4263,
     "uikTvd": "4234040344231",
+    "uikName": "УИК №4263",
     "tikTvd": "22320002182633",
-    "tikName": "Славянская"
+    "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4264,
     "uikTvd": "4234040344232",
+    "uikName": "УИК №4264",
     "tikTvd": "22320002182633",
-    "tikName": "Славянская"
+    "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4265,
     "uikTvd": "4234040344233",
+    "uikName": "УИК №4265",
     "tikTvd": "22320002182633",
-    "tikName": "Славянская"
+    "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4266,
     "uikTvd": "4234040344234",
+    "uikName": "УИК №4266",
     "tikTvd": "22320002182633",
-    "tikName": "Славянская"
+    "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4299,
     "uikTvd": "4234040344581",
+    "uikName": "УИК №4299",
     "tikTvd": "22320002182633",
-    "tikName": "Славянская"
+    "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4301,
     "uikTvd": "4234041280951",
+    "uikName": "УИК №4301",
     "tikTvd": "22320002182680",
-    "tikName": "Сочи, Адлерская"
+    "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4302,
     "uikTvd": "4234041280952",
+    "uikName": "УИК №4302",
     "tikTvd": "22320002182680",
-    "tikName": "Сочи, Адлерская"
+    "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4303,
     "uikTvd": "4234041280953",
+    "uikName": "УИК №4303",
     "tikTvd": "22320002182680",
-    "tikName": "Сочи, Адлерская"
+    "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4304,
     "uikTvd": "4234041280954",
+    "uikName": "УИК №4304",
     "tikTvd": "22320002182680",
-    "tikName": "Сочи, Адлерская"
+    "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4305,
     "uikTvd": "4234041280955",
+    "uikName": "УИК №4305",
     "tikTvd": "22320002182680",
-    "tikName": "Сочи, Адлерская"
+    "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4306,
     "uikTvd": "4234041280956",
+    "uikName": "УИК №4306",
     "tikTvd": "22320002182680",
-    "tikName": "Сочи, Адлерская"
+    "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4307,
     "uikTvd": "4234041280957",
+    "uikName": "УИК №4307",
     "tikTvd": "22320002182680",
-    "tikName": "Сочи, Адлерская"
+    "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4308,
     "uikTvd": "4234041280958",
+    "uikName": "УИК №4308",
     "tikTvd": "22320002182680",
-    "tikName": "Сочи, Адлерская"
+    "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4309,
     "uikTvd": "4234041280959",
+    "uikName": "УИК №4309",
     "tikTvd": "22320002182680",
-    "tikName": "Сочи, Адлерская"
+    "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4310,
     "uikTvd": "4234041280960",
+    "uikName": "УИК №4310",
     "tikTvd": "22320002182680",
-    "tikName": "Сочи, Адлерская"
+    "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4311,
     "uikTvd": "4234041280961",
+    "uikName": "УИК №4311",
     "tikTvd": "22320002182680",
-    "tikName": "Сочи, Адлерская"
+    "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4312,
     "uikTvd": "4234041280962",
+    "uikName": "УИК №4312",
     "tikTvd": "22320002182680",
-    "tikName": "Сочи, Адлерская"
+    "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4313,
     "uikTvd": "4234041280963",
+    "uikName": "УИК №4313",
     "tikTvd": "22320002182680",
-    "tikName": "Сочи, Адлерская"
+    "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4314,
     "uikTvd": "4234041280964",
+    "uikName": "УИК №4314",
     "tikTvd": "22320002182680",
-    "tikName": "Сочи, Адлерская"
+    "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4315,
     "uikTvd": "4234041280965",
+    "uikName": "УИК №4315",
     "tikTvd": "22320002182680",
-    "tikName": "Сочи, Адлерская"
+    "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4316,
     "uikTvd": "4234041280966",
+    "uikName": "УИК №4316",
     "tikTvd": "22320002182680",
-    "tikName": "Сочи, Адлерская"
+    "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4317,
     "uikTvd": "4234041280967",
+    "uikName": "УИК №4317",
     "tikTvd": "22320002182680",
-    "tikName": "Сочи, Адлерская"
+    "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4318,
     "uikTvd": "4234041280968",
+    "uikName": "УИК №4318",
     "tikTvd": "22320002182680",
-    "tikName": "Сочи, Адлерская"
+    "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4319,
     "uikTvd": "4234041280969",
+    "uikName": "УИК №4319",
     "tikTvd": "22320002182680",
-    "tikName": "Сочи, Адлерская"
+    "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4320,
     "uikTvd": "4234041280970",
+    "uikName": "УИК №4320",
     "tikTvd": "22320002182680",
-    "tikName": "Сочи, Адлерская"
+    "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4321,
     "uikTvd": "4234041280971",
+    "uikName": "УИК №4321",
     "tikTvd": "22320002182680",
-    "tikName": "Сочи, Адлерская"
+    "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4322,
     "uikTvd": "4234041280972",
+    "uikName": "УИК №4322",
     "tikTvd": "22320002182680",
-    "tikName": "Сочи, Адлерская"
+    "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4323,
     "uikTvd": "4234041280973",
+    "uikName": "УИК №4323",
     "tikTvd": "22320002182680",
-    "tikName": "Сочи, Адлерская"
+    "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4324,
     "uikTvd": "4234041280974",
+    "uikName": "УИК №4324",
     "tikTvd": "22320002182680",
-    "tikName": "Сочи, Адлерская"
+    "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4325,
     "uikTvd": "4234041280975",
+    "uikName": "УИК №4325",
     "tikTvd": "22320002182680",
-    "tikName": "Сочи, Адлерская"
+    "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4326,
     "uikTvd": "4234041280976",
+    "uikName": "УИК №4326",
     "tikTvd": "22320002182680",
-    "tikName": "Сочи, Адлерская"
+    "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4327,
     "uikTvd": "4234041280977",
+    "uikName": "УИК №4327",
     "tikTvd": "22320002182680",
-    "tikName": "Сочи, Адлерская"
+    "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4328,
     "uikTvd": "4234041280978",
+    "uikName": "УИК №4328",
     "tikTvd": "22320002182680",
-    "tikName": "Сочи, Адлерская"
+    "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4329,
     "uikTvd": "4234041280979",
+    "uikName": "УИК №4329",
     "tikTvd": "22320002182680",
-    "tikName": "Сочи, Адлерская"
+    "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4330,
     "uikTvd": "4234041280980",
+    "uikName": "УИК №4330",
     "tikTvd": "22320002182680",
-    "tikName": "Сочи, Адлерская"
+    "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4331,
     "uikTvd": "4234041280981",
+    "uikName": "УИК №4331",
     "tikTvd": "22320002182680",
-    "tikName": "Сочи, Адлерская"
+    "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4332,
     "uikTvd": "4234041280982",
+    "uikName": "УИК №4332",
     "tikTvd": "22320002182680",
-    "tikName": "Сочи, Адлерская"
+    "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4333,
     "uikTvd": "4234041280983",
+    "uikName": "УИК №4333",
     "tikTvd": "22320002182680",
-    "tikName": "Сочи, Адлерская"
+    "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4334,
     "uikTvd": "4234041280984",
+    "uikName": "УИК №4334",
     "tikTvd": "22320002182680",
-    "tikName": "Сочи, Адлерская"
+    "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4335,
     "uikTvd": "4234041280985",
+    "uikName": "УИК №4335",
     "tikTvd": "22320002182680",
-    "tikName": "Сочи, Адлерская"
+    "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4336,
     "uikTvd": "4234041280986",
+    "uikName": "УИК №4336",
     "tikTvd": "22320002182680",
-    "tikName": "Сочи, Адлерская"
+    "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4337,
     "uikTvd": "4234041280987",
+    "uikName": "УИК №4337",
     "tikTvd": "22320002182680",
-    "tikName": "Сочи, Адлерская"
+    "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4338,
     "uikTvd": "4234041280988",
+    "uikName": "УИК №4338",
     "tikTvd": "22320002182680",
-    "tikName": "Сочи, Адлерская"
+    "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4339,
     "uikTvd": "4234041280989",
+    "uikName": "УИК №4339",
     "tikTvd": "22320002182680",
-    "tikName": "Сочи, Адлерская"
+    "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4340,
     "uikTvd": "4234041280990",
+    "uikName": "УИК №4340",
     "tikTvd": "22320002182680",
-    "tikName": "Сочи, Адлерская"
+    "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4341,
     "uikTvd": "4234041280991",
+    "uikName": "УИК №4341",
     "tikTvd": "22320002182680",
-    "tikName": "Сочи, Адлерская"
+    "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4342,
     "uikTvd": "4234041280992",
+    "uikName": "УИК №4342",
     "tikTvd": "22320002182680",
-    "tikName": "Сочи, Адлерская"
+    "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4343,
     "uikTvd": "4234041280993",
+    "uikName": "УИК №4343",
     "tikTvd": "22320002182680",
-    "tikName": "Сочи, Адлерская"
+    "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4344,
     "uikTvd": "4234041280994",
+    "uikName": "УИК №4344",
     "tikTvd": "22320002182680",
-    "tikName": "Сочи, Адлерская"
+    "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4345,
     "uikTvd": "4234041280995",
+    "uikName": "УИК №4345",
     "tikTvd": "22320002182680",
-    "tikName": "Сочи, Адлерская"
+    "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4346,
     "uikTvd": "4234041280996",
+    "uikName": "УИК №4346",
     "tikTvd": "22320002182680",
-    "tikName": "Сочи, Адлерская"
+    "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4347,
     "uikTvd": "4234041280997",
+    "uikName": "УИК №4347",
     "tikTvd": "22320002182680",
-    "tikName": "Сочи, Адлерская"
+    "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4348,
     "uikTvd": "4234041280998",
+    "uikName": "УИК №4348",
     "tikTvd": "22320002182680",
-    "tikName": "Сочи, Адлерская"
+    "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4349,
     "uikTvd": "4234041280999",
+    "uikName": "УИК №4349",
     "tikTvd": "22320002182680",
-    "tikName": "Сочи, Адлерская"
+    "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4350,
     "uikTvd": "4234041281000",
+    "uikName": "УИК №4350",
     "tikTvd": "22320002182680",
-    "tikName": "Сочи, Адлерская"
+    "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4351,
     "uikTvd": "4234041281001",
+    "uikName": "УИК №4351",
     "tikTvd": "22320002182680",
-    "tikName": "Сочи, Адлерская"
+    "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4352,
     "uikTvd": "4234041281002",
+    "uikName": "УИК №4352",
     "tikTvd": "22320002182680",
-    "tikName": "Сочи, Адлерская"
+    "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4353,
     "uikTvd": "4234041281003",
+    "uikName": "УИК №4353",
     "tikTvd": "22320002182680",
-    "tikName": "Сочи, Адлерская"
+    "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4354,
     "uikTvd": "4234041281004",
+    "uikName": "УИК №4354",
     "tikTvd": "22320002182680",
-    "tikName": "Сочи, Адлерская"
+    "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4356,
     "uikTvd": "4234041281005",
+    "uikName": "УИК №4356",
     "tikTvd": "22320002182680",
-    "tikName": "Сочи, Адлерская"
+    "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4357,
     "uikTvd": "4234041281006",
+    "uikName": "УИК №4357",
     "tikTvd": "22320002182680",
-    "tikName": "Сочи, Адлерская"
+    "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4358,
     "uikTvd": "4234041281007",
+    "uikName": "УИК №4358",
     "tikTvd": "22320002182680",
-    "tikName": "Сочи, Адлерская"
+    "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4359,
     "uikTvd": "4234041281008",
+    "uikName": "УИК №4359",
     "tikTvd": "22320002182680",
-    "tikName": "Сочи, Адлерская"
+    "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4360,
     "uikTvd": "4234041281009",
+    "uikName": "УИК №4360",
     "tikTvd": "22320002182680",
-    "tikName": "Сочи, Адлерская"
+    "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4361,
     "uikTvd": "4234041281010",
+    "uikName": "УИК №4361",
     "tikTvd": "22320002182680",
-    "tikName": "Сочи, Адлерская"
+    "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4362,
     "uikTvd": "4234041281011",
+    "uikName": "УИК №4362",
     "tikTvd": "22320002182680",
-    "tikName": "Сочи, Адлерская"
+    "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4398,
     "uikTvd": "4234041292326",
+    "uikName": "УИК №4398",
     "tikTvd": "22320002182680",
-    "tikName": "Сочи, Адлерская"
+    "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4399,
     "uikTvd": "4234041292327",
+    "uikName": "УИК №4399",
     "tikTvd": "22320002182680",
-    "tikName": "Сочи, Адлерская"
+    "tikName": "Сочи, Адлерская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4401,
     "uikTvd": "4234042195036",
+    "uikName": "УИК №4401",
     "tikTvd": "22320002182623",
-    "tikName": "Сочи, Лазаревская"
+    "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4402,
     "uikTvd": "4234042195037",
+    "uikName": "УИК №4402",
     "tikTvd": "22320002182623",
-    "tikName": "Сочи, Лазаревская"
+    "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4403,
     "uikTvd": "4234042195038",
+    "uikName": "УИК №4403",
     "tikTvd": "22320002182623",
-    "tikName": "Сочи, Лазаревская"
+    "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4404,
     "uikTvd": "4234042195039",
+    "uikName": "УИК №4404",
     "tikTvd": "22320002182623",
-    "tikName": "Сочи, Лазаревская"
+    "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4405,
     "uikTvd": "4234042195040",
+    "uikName": "УИК №4405",
     "tikTvd": "22320002182623",
-    "tikName": "Сочи, Лазаревская"
+    "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4406,
     "uikTvd": "4234042195041",
+    "uikName": "УИК №4406",
     "tikTvd": "22320002182623",
-    "tikName": "Сочи, Лазаревская"
+    "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4407,
     "uikTvd": "4234042195042",
+    "uikName": "УИК №4407",
     "tikTvd": "22320002182623",
-    "tikName": "Сочи, Лазаревская"
+    "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4408,
     "uikTvd": "4234042195043",
+    "uikName": "УИК №4408",
     "tikTvd": "22320002182623",
-    "tikName": "Сочи, Лазаревская"
+    "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4409,
     "uikTvd": "4234042195044",
+    "uikName": "УИК №4409",
     "tikTvd": "22320002182623",
-    "tikName": "Сочи, Лазаревская"
+    "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4410,
     "uikTvd": "4234042195045",
+    "uikName": "УИК №4410",
     "tikTvd": "22320002182623",
-    "tikName": "Сочи, Лазаревская"
+    "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4411,
     "uikTvd": "4234042195046",
+    "uikName": "УИК №4411",
     "tikTvd": "22320002182623",
-    "tikName": "Сочи, Лазаревская"
+    "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4412,
     "uikTvd": "4234042195047",
+    "uikName": "УИК №4412",
     "tikTvd": "22320002182623",
-    "tikName": "Сочи, Лазаревская"
+    "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4413,
     "uikTvd": "4234042195048",
+    "uikName": "УИК №4413",
     "tikTvd": "22320002182623",
-    "tikName": "Сочи, Лазаревская"
+    "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4414,
     "uikTvd": "4234042195049",
+    "uikName": "УИК №4414",
     "tikTvd": "22320002182623",
-    "tikName": "Сочи, Лазаревская"
+    "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4415,
     "uikTvd": "4234042195050",
+    "uikName": "УИК №4415",
     "tikTvd": "22320002182623",
-    "tikName": "Сочи, Лазаревская"
+    "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4416,
     "uikTvd": "4234042195051",
+    "uikName": "УИК №4416",
     "tikTvd": "22320002182623",
-    "tikName": "Сочи, Лазаревская"
+    "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4417,
     "uikTvd": "4234042195052",
+    "uikName": "УИК №4417",
     "tikTvd": "22320002182623",
-    "tikName": "Сочи, Лазаревская"
+    "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4418,
     "uikTvd": "4234042195053",
+    "uikName": "УИК №4418",
     "tikTvd": "22320002182623",
-    "tikName": "Сочи, Лазаревская"
+    "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4419,
     "uikTvd": "4234042195054",
+    "uikName": "УИК №4419",
     "tikTvd": "22320002182623",
-    "tikName": "Сочи, Лазаревская"
+    "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4420,
     "uikTvd": "4234042195055",
+    "uikName": "УИК №4420",
     "tikTvd": "22320002182623",
-    "tikName": "Сочи, Лазаревская"
+    "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4421,
     "uikTvd": "4234042195056",
+    "uikName": "УИК №4421",
     "tikTvd": "22320002182623",
-    "tikName": "Сочи, Лазаревская"
+    "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4422,
     "uikTvd": "4234042195057",
+    "uikName": "УИК №4422",
     "tikTvd": "22320002182623",
-    "tikName": "Сочи, Лазаревская"
+    "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4423,
     "uikTvd": "4234042195058",
+    "uikName": "УИК №4423",
     "tikTvd": "22320002182623",
-    "tikName": "Сочи, Лазаревская"
+    "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4424,
     "uikTvd": "4234042195059",
+    "uikName": "УИК №4424",
     "tikTvd": "22320002182623",
-    "tikName": "Сочи, Лазаревская"
+    "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4425,
     "uikTvd": "4234042195060",
+    "uikName": "УИК №4425",
     "tikTvd": "22320002182623",
-    "tikName": "Сочи, Лазаревская"
+    "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4426,
     "uikTvd": "4234042195061",
+    "uikName": "УИК №4426",
     "tikTvd": "22320002182623",
-    "tikName": "Сочи, Лазаревская"
+    "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4427,
     "uikTvd": "4234042195062",
+    "uikName": "УИК №4427",
     "tikTvd": "22320002182623",
-    "tikName": "Сочи, Лазаревская"
+    "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4428,
     "uikTvd": "4234042195063",
+    "uikName": "УИК №4428",
     "tikTvd": "22320002182623",
-    "tikName": "Сочи, Лазаревская"
+    "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4429,
     "uikTvd": "4234042195064",
+    "uikName": "УИК №4429",
     "tikTvd": "22320002182623",
-    "tikName": "Сочи, Лазаревская"
+    "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4430,
     "uikTvd": "4234042195065",
+    "uikName": "УИК №4430",
     "tikTvd": "22320002182623",
-    "tikName": "Сочи, Лазаревская"
+    "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4431,
     "uikTvd": "4234042195066",
+    "uikName": "УИК №4431",
     "tikTvd": "22320002182623",
-    "tikName": "Сочи, Лазаревская"
+    "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4432,
     "uikTvd": "4234042195067",
+    "uikName": "УИК №4432",
     "tikTvd": "22320002182623",
-    "tikName": "Сочи, Лазаревская"
+    "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4433,
     "uikTvd": "4234042195068",
+    "uikName": "УИК №4433",
     "tikTvd": "22320002182623",
-    "tikName": "Сочи, Лазаревская"
+    "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4434,
     "uikTvd": "4234042195069",
+    "uikName": "УИК №4434",
     "tikTvd": "22320002182623",
-    "tikName": "Сочи, Лазаревская"
+    "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4435,
     "uikTvd": "4234042195070",
+    "uikName": "УИК №4435",
     "tikTvd": "22320002182623",
-    "tikName": "Сочи, Лазаревская"
+    "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4436,
     "uikTvd": "4234042195071",
+    "uikName": "УИК №4436",
     "tikTvd": "22320002182623",
-    "tikName": "Сочи, Лазаревская"
+    "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4437,
     "uikTvd": "4234042195072",
+    "uikName": "УИК №4437",
     "tikTvd": "22320002182623",
-    "tikName": "Сочи, Лазаревская"
+    "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4438,
     "uikTvd": "4234042195073",
+    "uikName": "УИК №4438",
     "tikTvd": "22320002182623",
-    "tikName": "Сочи, Лазаревская"
+    "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4439,
     "uikTvd": "4234042195074",
+    "uikName": "УИК №4439",
     "tikTvd": "22320002182623",
-    "tikName": "Сочи, Лазаревская"
+    "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4440,
     "uikTvd": "4234042195075",
+    "uikName": "УИК №4440",
     "tikTvd": "22320002182623",
-    "tikName": "Сочи, Лазаревская"
+    "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4441,
     "uikTvd": "4234042195076",
+    "uikName": "УИК №4441",
     "tikTvd": "22320002182623",
-    "tikName": "Сочи, Лазаревская"
+    "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4442,
     "uikTvd": "4234042195077",
+    "uikName": "УИК №4442",
     "tikTvd": "22320002182623",
-    "tikName": "Сочи, Лазаревская"
+    "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4443,
     "uikTvd": "4234042195078",
+    "uikName": "УИК №4443",
     "tikTvd": "22320002182623",
-    "tikName": "Сочи, Лазаревская"
+    "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4444,
     "uikTvd": "4234042195079",
+    "uikName": "УИК №4444",
     "tikTvd": "22320002182623",
-    "tikName": "Сочи, Лазаревская"
+    "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4445,
     "uikTvd": "4234042195080",
+    "uikName": "УИК №4445",
     "tikTvd": "22320002182623",
-    "tikName": "Сочи, Лазаревская"
+    "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4446,
     "uikTvd": "4234042195081",
+    "uikName": "УИК №4446",
     "tikTvd": "22320002182623",
-    "tikName": "Сочи, Лазаревская"
+    "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4447,
     "uikTvd": "4234042195082",
+    "uikName": "УИК №4447",
     "tikTvd": "22320002182623",
-    "tikName": "Сочи, Лазаревская"
+    "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4448,
     "uikTvd": "4234042195083",
+    "uikName": "УИК №4448",
     "tikTvd": "22320002182623",
-    "tikName": "Сочи, Лазаревская"
+    "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4449,
     "uikTvd": "4234042195084",
+    "uikName": "УИК №4449",
     "tikTvd": "22320002182623",
-    "tikName": "Сочи, Лазаревская"
+    "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4450,
     "uikTvd": "4234042195085",
+    "uikName": "УИК №4450",
     "tikTvd": "22320002182623",
-    "tikName": "Сочи, Лазаревская"
+    "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4451,
     "uikTvd": "4234042195086",
+    "uikName": "УИК №4451",
     "tikTvd": "22320002182623",
-    "tikName": "Сочи, Лазаревская"
+    "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4452,
     "uikTvd": "4234042195087",
+    "uikName": "УИК №4452",
     "tikTvd": "22320002182623",
-    "tikName": "Сочи, Лазаревская"
+    "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4453,
     "uikTvd": "4234042195088",
+    "uikName": "УИК №4453",
     "tikTvd": "22320002182623",
-    "tikName": "Сочи, Лазаревская"
+    "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4454,
     "uikTvd": "4234042195089",
+    "uikName": "УИК №4454",
     "tikTvd": "22320002182623",
-    "tikName": "Сочи, Лазаревская"
+    "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4455,
     "uikTvd": "4234042195090",
+    "uikName": "УИК №4455",
     "tikTvd": "22320002182623",
-    "tikName": "Сочи, Лазаревская"
+    "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4456,
     "uikTvd": "4234042195091",
+    "uikName": "УИК №4456",
     "tikTvd": "22320002182623",
-    "tikName": "Сочи, Лазаревская"
+    "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4457,
     "uikTvd": "4234042195092",
+    "uikName": "УИК №4457",
     "tikTvd": "22320002182623",
-    "tikName": "Сочи, Лазаревская"
+    "tikName": "Сочи, Лазаревская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4501,
     "uikTvd": "4234043173386",
+    "uikName": "УИК №4501",
     "tikTvd": "22320002182674",
-    "tikName": "Сочи, Хостинская"
+    "tikName": "Сочи, Хостинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4502,
     "uikTvd": "4234043173387",
+    "uikName": "УИК №4502",
     "tikTvd": "22320002182674",
-    "tikName": "Сочи, Хостинская"
+    "tikName": "Сочи, Хостинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4503,
     "uikTvd": "4234043173388",
+    "uikName": "УИК №4503",
     "tikTvd": "22320002182674",
-    "tikName": "Сочи, Хостинская"
+    "tikName": "Сочи, Хостинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4504,
     "uikTvd": "4234043173389",
+    "uikName": "УИК №4504",
     "tikTvd": "22320002182674",
-    "tikName": "Сочи, Хостинская"
+    "tikName": "Сочи, Хостинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4505,
     "uikTvd": "4234043173390",
+    "uikName": "УИК №4505",
     "tikTvd": "22320002182674",
-    "tikName": "Сочи, Хостинская"
+    "tikName": "Сочи, Хостинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4506,
     "uikTvd": "4234043173391",
+    "uikName": "УИК №4506",
     "tikTvd": "22320002182674",
-    "tikName": "Сочи, Хостинская"
+    "tikName": "Сочи, Хостинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4507,
     "uikTvd": "4234043173392",
+    "uikName": "УИК №4507",
     "tikTvd": "22320002182674",
-    "tikName": "Сочи, Хостинская"
+    "tikName": "Сочи, Хостинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4508,
     "uikTvd": "4234043173393",
+    "uikName": "УИК №4508",
     "tikTvd": "22320002182674",
-    "tikName": "Сочи, Хостинская"
+    "tikName": "Сочи, Хостинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4509,
     "uikTvd": "4234043173394",
+    "uikName": "УИК №4509",
     "tikTvd": "22320002182674",
-    "tikName": "Сочи, Хостинская"
+    "tikName": "Сочи, Хостинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4510,
     "uikTvd": "4234043173395",
+    "uikName": "УИК №4510",
     "tikTvd": "22320002182674",
-    "tikName": "Сочи, Хостинская"
+    "tikName": "Сочи, Хостинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4511,
     "uikTvd": "4234043173396",
+    "uikName": "УИК №4511",
     "tikTvd": "22320002182674",
-    "tikName": "Сочи, Хостинская"
+    "tikName": "Сочи, Хостинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4512,
     "uikTvd": "4234043173397",
+    "uikName": "УИК №4512",
     "tikTvd": "22320002182674",
-    "tikName": "Сочи, Хостинская"
+    "tikName": "Сочи, Хостинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4513,
     "uikTvd": "4234043173398",
+    "uikName": "УИК №4513",
     "tikTvd": "22320002182674",
-    "tikName": "Сочи, Хостинская"
+    "tikName": "Сочи, Хостинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4514,
     "uikTvd": "4234043173399",
+    "uikName": "УИК №4514",
     "tikTvd": "22320002182674",
-    "tikName": "Сочи, Хостинская"
+    "tikName": "Сочи, Хостинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4515,
     "uikTvd": "4234043173400",
+    "uikName": "УИК №4515",
     "tikTvd": "22320002182674",
-    "tikName": "Сочи, Хостинская"
+    "tikName": "Сочи, Хостинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4516,
     "uikTvd": "4234043173401",
+    "uikName": "УИК №4516",
     "tikTvd": "22320002182674",
-    "tikName": "Сочи, Хостинская"
+    "tikName": "Сочи, Хостинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4517,
     "uikTvd": "4234043173402",
+    "uikName": "УИК №4517",
     "tikTvd": "22320002182674",
-    "tikName": "Сочи, Хостинская"
+    "tikName": "Сочи, Хостинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4518,
     "uikTvd": "4234043173403",
+    "uikName": "УИК №4518",
     "tikTvd": "22320002182674",
-    "tikName": "Сочи, Хостинская"
+    "tikName": "Сочи, Хостинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4519,
     "uikTvd": "4234043173404",
+    "uikName": "УИК №4519",
     "tikTvd": "22320002182674",
-    "tikName": "Сочи, Хостинская"
+    "tikName": "Сочи, Хостинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4520,
     "uikTvd": "4234043173405",
+    "uikName": "УИК №4520",
     "tikTvd": "22320002182674",
-    "tikName": "Сочи, Хостинская"
+    "tikName": "Сочи, Хостинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4521,
     "uikTvd": "4234043173406",
+    "uikName": "УИК №4521",
     "tikTvd": "22320002182674",
-    "tikName": "Сочи, Хостинская"
+    "tikName": "Сочи, Хостинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4522,
     "uikTvd": "4234043173407",
+    "uikName": "УИК №4522",
     "tikTvd": "22320002182674",
-    "tikName": "Сочи, Хостинская"
+    "tikName": "Сочи, Хостинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4523,
     "uikTvd": "4234043173408",
+    "uikName": "УИК №4523",
     "tikTvd": "22320002182674",
-    "tikName": "Сочи, Хостинская"
+    "tikName": "Сочи, Хостинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4524,
     "uikTvd": "4234043173409",
+    "uikName": "УИК №4524",
     "tikTvd": "22320002182674",
-    "tikName": "Сочи, Хостинская"
+    "tikName": "Сочи, Хостинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4525,
     "uikTvd": "4234043173410",
+    "uikName": "УИК №4525",
     "tikTvd": "22320002182674",
-    "tikName": "Сочи, Хостинская"
+    "tikName": "Сочи, Хостинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4526,
     "uikTvd": "4234043173411",
+    "uikName": "УИК №4526",
     "tikTvd": "22320002182674",
-    "tikName": "Сочи, Хостинская"
+    "tikName": "Сочи, Хостинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4527,
     "uikTvd": "4234043173412",
+    "uikName": "УИК №4527",
     "tikTvd": "22320002182674",
-    "tikName": "Сочи, Хостинская"
+    "tikName": "Сочи, Хостинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4528,
     "uikTvd": "4234043173413",
+    "uikName": "УИК №4528",
     "tikTvd": "22320002182674",
-    "tikName": "Сочи, Хостинская"
+    "tikName": "Сочи, Хостинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4529,
     "uikTvd": "4234043173414",
+    "uikName": "УИК №4529",
     "tikTvd": "22320002182674",
-    "tikName": "Сочи, Хостинская"
+    "tikName": "Сочи, Хостинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4530,
     "uikTvd": "4234043173415",
+    "uikName": "УИК №4530",
     "tikTvd": "22320002182674",
-    "tikName": "Сочи, Хостинская"
+    "tikName": "Сочи, Хостинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4531,
     "uikTvd": "4234043173416",
+    "uikName": "УИК №4531",
     "tikTvd": "22320002182674",
-    "tikName": "Сочи, Хостинская"
+    "tikName": "Сочи, Хостинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4532,
     "uikTvd": "4234043173417",
+    "uikName": "УИК №4532",
     "tikTvd": "22320002182674",
-    "tikName": "Сочи, Хостинская"
+    "tikName": "Сочи, Хостинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4533,
     "uikTvd": "4234043173418",
+    "uikName": "УИК №4533",
     "tikTvd": "22320002182674",
-    "tikName": "Сочи, Хостинская"
+    "tikName": "Сочи, Хостинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4534,
     "uikTvd": "4234043173419",
+    "uikName": "УИК №4534",
     "tikTvd": "22320002182674",
-    "tikName": "Сочи, Хостинская"
+    "tikName": "Сочи, Хостинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4535,
     "uikTvd": "4234043173420",
+    "uikName": "УИК №4535",
     "tikTvd": "22320002182674",
-    "tikName": "Сочи, Хостинская"
+    "tikName": "Сочи, Хостинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4536,
     "uikTvd": "4234043173421",
+    "uikName": "УИК №4536",
     "tikTvd": "22320002182674",
-    "tikName": "Сочи, Хостинская"
+    "tikName": "Сочи, Хостинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4537,
     "uikTvd": "4234043173422",
+    "uikName": "УИК №4537",
     "tikTvd": "22320002182674",
-    "tikName": "Сочи, Хостинская"
+    "tikName": "Сочи, Хостинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4538,
     "uikTvd": "4234043173423",
+    "uikName": "УИК №4538",
     "tikTvd": "22320002182674",
-    "tikName": "Сочи, Хостинская"
+    "tikName": "Сочи, Хостинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4539,
     "uikTvd": "4234043173424",
+    "uikName": "УИК №4539",
     "tikTvd": "22320002182674",
-    "tikName": "Сочи, Хостинская"
+    "tikName": "Сочи, Хостинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4601,
     "uikTvd": "4234044313212",
+    "uikName": "УИК №4601",
     "tikTvd": "22320002182660",
-    "tikName": "Сочи, Центральная"
+    "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4602,
     "uikTvd": "4234044313213",
+    "uikName": "УИК №4602",
     "tikTvd": "22320002182660",
-    "tikName": "Сочи, Центральная"
+    "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4603,
     "uikTvd": "4234044313214",
+    "uikName": "УИК №4603",
     "tikTvd": "22320002182660",
-    "tikName": "Сочи, Центральная"
+    "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4604,
     "uikTvd": "4234044313215",
+    "uikName": "УИК №4604",
     "tikTvd": "22320002182660",
-    "tikName": "Сочи, Центральная"
+    "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4605,
     "uikTvd": "4234044313216",
+    "uikName": "УИК №4605",
     "tikTvd": "22320002182660",
-    "tikName": "Сочи, Центральная"
+    "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4606,
     "uikTvd": "4234044313217",
+    "uikName": "УИК №4606",
     "tikTvd": "22320002182660",
-    "tikName": "Сочи, Центральная"
+    "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4607,
     "uikTvd": "4234044313218",
+    "uikName": "УИК №4607",
     "tikTvd": "22320002182660",
-    "tikName": "Сочи, Центральная"
+    "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4608,
     "uikTvd": "4234044313219",
+    "uikName": "УИК №4608",
     "tikTvd": "22320002182660",
-    "tikName": "Сочи, Центральная"
+    "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4609,
     "uikTvd": "4234044313220",
+    "uikName": "УИК №4609",
     "tikTvd": "22320002182660",
-    "tikName": "Сочи, Центральная"
+    "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4610,
     "uikTvd": "4234044313221",
+    "uikName": "УИК №4610",
     "tikTvd": "22320002182660",
-    "tikName": "Сочи, Центральная"
+    "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4611,
     "uikTvd": "4234044313222",
+    "uikName": "УИК №4611",
     "tikTvd": "22320002182660",
-    "tikName": "Сочи, Центральная"
+    "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4612,
     "uikTvd": "4234044313223",
+    "uikName": "УИК №4612",
     "tikTvd": "22320002182660",
-    "tikName": "Сочи, Центральная"
+    "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4613,
     "uikTvd": "4234044313224",
+    "uikName": "УИК №4613",
     "tikTvd": "22320002182660",
-    "tikName": "Сочи, Центральная"
+    "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4614,
     "uikTvd": "4234044313225",
+    "uikName": "УИК №4614",
     "tikTvd": "22320002182660",
-    "tikName": "Сочи, Центральная"
+    "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4615,
     "uikTvd": "4234044313226",
+    "uikName": "УИК №4615",
     "tikTvd": "22320002182660",
-    "tikName": "Сочи, Центральная"
+    "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4616,
     "uikTvd": "4234044313227",
+    "uikName": "УИК №4616",
     "tikTvd": "22320002182660",
-    "tikName": "Сочи, Центральная"
+    "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4617,
     "uikTvd": "4234044313228",
+    "uikName": "УИК №4617",
     "tikTvd": "22320002182660",
-    "tikName": "Сочи, Центральная"
+    "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4618,
     "uikTvd": "4234044313229",
+    "uikName": "УИК №4618",
     "tikTvd": "22320002182660",
-    "tikName": "Сочи, Центральная"
+    "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4619,
     "uikTvd": "4234044313230",
+    "uikName": "УИК №4619",
     "tikTvd": "22320002182660",
-    "tikName": "Сочи, Центральная"
+    "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4620,
     "uikTvd": "4234044313231",
+    "uikName": "УИК №4620",
     "tikTvd": "22320002182660",
-    "tikName": "Сочи, Центральная"
+    "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4621,
     "uikTvd": "4234044313232",
+    "uikName": "УИК №4621",
     "tikTvd": "22320002182660",
-    "tikName": "Сочи, Центральная"
+    "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4622,
     "uikTvd": "4234044313233",
+    "uikName": "УИК №4622",
     "tikTvd": "22320002182660",
-    "tikName": "Сочи, Центральная"
+    "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4623,
     "uikTvd": "4234044313234",
+    "uikName": "УИК №4623",
     "tikTvd": "22320002182660",
-    "tikName": "Сочи, Центральная"
+    "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4624,
     "uikTvd": "4234044313235",
+    "uikName": "УИК №4624",
     "tikTvd": "22320002182660",
-    "tikName": "Сочи, Центральная"
+    "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4625,
     "uikTvd": "4234044313236",
+    "uikName": "УИК №4625",
     "tikTvd": "22320002182660",
-    "tikName": "Сочи, Центральная"
+    "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4626,
     "uikTvd": "4234044313237",
+    "uikName": "УИК №4626",
     "tikTvd": "22320002182660",
-    "tikName": "Сочи, Центральная"
+    "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4627,
     "uikTvd": "4234044313238",
+    "uikName": "УИК №4627",
     "tikTvd": "22320002182660",
-    "tikName": "Сочи, Центральная"
+    "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4628,
     "uikTvd": "4234044313239",
+    "uikName": "УИК №4628",
     "tikTvd": "22320002182660",
-    "tikName": "Сочи, Центральная"
+    "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4629,
     "uikTvd": "4234044313240",
+    "uikName": "УИК №4629",
     "tikTvd": "22320002182660",
-    "tikName": "Сочи, Центральная"
+    "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4630,
     "uikTvd": "4234044313241",
+    "uikName": "УИК №4630",
     "tikTvd": "22320002182660",
-    "tikName": "Сочи, Центральная"
+    "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4631,
     "uikTvd": "4234044313242",
+    "uikName": "УИК №4631",
     "tikTvd": "22320002182660",
-    "tikName": "Сочи, Центральная"
+    "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4632,
     "uikTvd": "4234044313243",
+    "uikName": "УИК №4632",
     "tikTvd": "22320002182660",
-    "tikName": "Сочи, Центральная"
+    "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4633,
     "uikTvd": "4234044313244",
+    "uikName": "УИК №4633",
     "tikTvd": "22320002182660",
-    "tikName": "Сочи, Центральная"
+    "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4634,
     "uikTvd": "4234044313245",
+    "uikName": "УИК №4634",
     "tikTvd": "22320002182660",
-    "tikName": "Сочи, Центральная"
+    "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4635,
     "uikTvd": "4234044313246",
+    "uikName": "УИК №4635",
     "tikTvd": "22320002182660",
-    "tikName": "Сочи, Центральная"
+    "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4636,
     "uikTvd": "4234044313247",
+    "uikName": "УИК №4636",
     "tikTvd": "22320002182660",
-    "tikName": "Сочи, Центральная"
+    "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4637,
     "uikTvd": "4234044313248",
+    "uikName": "УИК №4637",
     "tikTvd": "22320002182660",
-    "tikName": "Сочи, Центральная"
+    "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4638,
     "uikTvd": "4234044313249",
+    "uikName": "УИК №4638",
     "tikTvd": "22320002182660",
-    "tikName": "Сочи, Центральная"
+    "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4639,
     "uikTvd": "4234044313250",
+    "uikName": "УИК №4639",
     "tikTvd": "22320002182660",
-    "tikName": "Сочи, Центральная"
+    "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4640,
     "uikTvd": "4234044313251",
+    "uikName": "УИК №4640",
     "tikTvd": "22320002182660",
-    "tikName": "Сочи, Центральная"
+    "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4641,
     "uikTvd": "4234044313252",
+    "uikName": "УИК №4641",
     "tikTvd": "22320002182660",
-    "tikName": "Сочи, Центральная"
+    "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4642,
     "uikTvd": "4234044313253",
+    "uikName": "УИК №4642",
     "tikTvd": "22320002182660",
-    "tikName": "Сочи, Центральная"
+    "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4643,
     "uikTvd": "4234044313254",
+    "uikName": "УИК №4643",
     "tikTvd": "22320002182660",
-    "tikName": "Сочи, Центральная"
+    "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4644,
     "uikTvd": "4234044313255",
+    "uikName": "УИК №4644",
     "tikTvd": "22320002182660",
-    "tikName": "Сочи, Центральная"
+    "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4645,
     "uikTvd": "4234044313256",
+    "uikName": "УИК №4645",
     "tikTvd": "22320002182660",
-    "tikName": "Сочи, Центральная"
+    "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4646,
     "uikTvd": "4234044313257",
+    "uikName": "УИК №4646",
     "tikTvd": "22320002182660",
-    "tikName": "Сочи, Центральная"
+    "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4647,
     "uikTvd": "4234044313258",
+    "uikName": "УИК №4647",
     "tikTvd": "22320002182660",
-    "tikName": "Сочи, Центральная"
+    "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4648,
     "uikTvd": "4234044313259",
+    "uikName": "УИК №4648",
     "tikTvd": "22320002182660",
-    "tikName": "Сочи, Центральная"
+    "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4649,
     "uikTvd": "4234044313260",
+    "uikName": "УИК №4649",
     "tikTvd": "22320002182660",
-    "tikName": "Сочи, Центральная"
+    "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4650,
     "uikTvd": "4234044313261",
+    "uikName": "УИК №4650",
     "tikTvd": "22320002182660",
-    "tikName": "Сочи, Центральная"
+    "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4651,
     "uikTvd": "4234044313262",
+    "uikName": "УИК №4651",
     "tikTvd": "22320002182660",
-    "tikName": "Сочи, Центральная"
+    "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4652,
     "uikTvd": "4234044313263",
+    "uikName": "УИК №4652",
     "tikTvd": "22320002182660",
-    "tikName": "Сочи, Центральная"
+    "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4653,
     "uikTvd": "4234044313264",
+    "uikName": "УИК №4653",
     "tikTvd": "22320002182660",
-    "tikName": "Сочи, Центральная"
+    "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4654,
     "uikTvd": "4234044313265",
+    "uikName": "УИК №4654",
     "tikTvd": "22320002182660",
-    "tikName": "Сочи, Центральная"
+    "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4655,
     "uikTvd": "4234044313266",
+    "uikName": "УИК №4655",
     "tikTvd": "22320002182660",
-    "tikName": "Сочи, Центральная"
+    "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4656,
     "uikTvd": "4234044313267",
+    "uikName": "УИК №4656",
     "tikTvd": "22320002182660",
-    "tikName": "Сочи, Центральная"
+    "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4657,
     "uikTvd": "4234044313268",
+    "uikName": "УИК №4657",
     "tikTvd": "22320002182660",
-    "tikName": "Сочи, Центральная"
+    "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4658,
     "uikTvd": "4234044313269",
+    "uikName": "УИК №4658",
     "tikTvd": "22320002182660",
-    "tikName": "Сочи, Центральная"
+    "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4659,
     "uikTvd": "4234044313270",
+    "uikName": "УИК №4659",
     "tikTvd": "22320002182660",
-    "tikName": "Сочи, Центральная"
+    "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4660,
     "uikTvd": "4234044313271",
+    "uikName": "УИК №4660",
     "tikTvd": "22320002182660",
-    "tikName": "Сочи, Центральная"
+    "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4661,
     "uikTvd": "4234044313272",
+    "uikName": "УИК №4661",
     "tikTvd": "22320002182660",
-    "tikName": "Сочи, Центральная"
+    "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4662,
     "uikTvd": "4234044313273",
+    "uikName": "УИК №4662",
     "tikTvd": "22320002182660",
-    "tikName": "Сочи, Центральная"
+    "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4663,
     "uikTvd": "4234044313274",
+    "uikName": "УИК №4663",
     "tikTvd": "22320002182660",
-    "tikName": "Сочи, Центральная"
+    "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4664,
     "uikTvd": "4234044313275",
+    "uikName": "УИК №4664",
     "tikTvd": "22320002182660",
-    "tikName": "Сочи, Центральная"
+    "tikName": "Сочи, Центральная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4701,
     "uikTvd": "4234045164325",
+    "uikName": "УИК №4701",
     "tikTvd": "22320002182676",
-    "tikName": "Староминская"
+    "tikName": "Староминская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4702,
     "uikTvd": "4234045164326",
+    "uikName": "УИК №4702",
     "tikTvd": "22320002182676",
-    "tikName": "Староминская"
+    "tikName": "Староминская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4703,
     "uikTvd": "4234045164327",
+    "uikName": "УИК №4703",
     "tikTvd": "22320002182676",
-    "tikName": "Староминская"
+    "tikName": "Староминская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4704,
     "uikTvd": "4234045164328",
+    "uikName": "УИК №4704",
     "tikTvd": "22320002182676",
-    "tikName": "Староминская"
+    "tikName": "Староминская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4705,
     "uikTvd": "4234045164329",
+    "uikName": "УИК №4705",
     "tikTvd": "22320002182676",
-    "tikName": "Староминская"
+    "tikName": "Староминская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4706,
     "uikTvd": "4234045164330",
+    "uikName": "УИК №4706",
     "tikTvd": "22320002182676",
-    "tikName": "Староминская"
+    "tikName": "Староминская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4707,
     "uikTvd": "4234045164331",
+    "uikName": "УИК №4707",
     "tikTvd": "22320002182676",
-    "tikName": "Староминская"
+    "tikName": "Староминская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4708,
     "uikTvd": "4234045164332",
+    "uikName": "УИК №4708",
     "tikTvd": "22320002182676",
-    "tikName": "Староминская"
+    "tikName": "Староминская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4709,
     "uikTvd": "4234045164333",
+    "uikName": "УИК №4709",
     "tikTvd": "22320002182676",
-    "tikName": "Староминская"
+    "tikName": "Староминская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4710,
     "uikTvd": "4234045164334",
+    "uikName": "УИК №4710",
     "tikTvd": "22320002182676",
-    "tikName": "Староминская"
+    "tikName": "Староминская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4711,
     "uikTvd": "4234045164335",
+    "uikName": "УИК №4711",
     "tikTvd": "22320002182676",
-    "tikName": "Староминская"
+    "tikName": "Староминская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4712,
     "uikTvd": "4234045164336",
+    "uikName": "УИК №4712",
     "tikTvd": "22320002182676",
-    "tikName": "Староминская"
+    "tikName": "Староминская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4713,
     "uikTvd": "4234045164337",
+    "uikName": "УИК №4713",
     "tikTvd": "22320002182676",
-    "tikName": "Староминская"
+    "tikName": "Староминская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4714,
     "uikTvd": "4234045164338",
+    "uikName": "УИК №4714",
     "tikTvd": "22320002182676",
-    "tikName": "Староминская"
+    "tikName": "Староминская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4715,
     "uikTvd": "4234045164339",
+    "uikName": "УИК №4715",
     "tikTvd": "22320002182676",
-    "tikName": "Староминская"
+    "tikName": "Староминская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4716,
     "uikTvd": "4234045164340",
+    "uikName": "УИК №4716",
     "tikTvd": "22320002182676",
-    "tikName": "Староминская"
+    "tikName": "Староминская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4717,
     "uikTvd": "4234045164341",
+    "uikName": "УИК №4717",
     "tikTvd": "22320002182676",
-    "tikName": "Староминская"
+    "tikName": "Староминская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4718,
     "uikTvd": "4234045164342",
+    "uikName": "УИК №4718",
     "tikTvd": "22320002182676",
-    "tikName": "Староминская"
+    "tikName": "Староминская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4719,
     "uikTvd": "4234045164343",
+    "uikName": "УИК №4719",
     "tikTvd": "22320002182676",
-    "tikName": "Староминская"
+    "tikName": "Староминская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4720,
     "uikTvd": "4234045164344",
+    "uikName": "УИК №4720",
     "tikTvd": "22320002182676",
-    "tikName": "Староминская"
+    "tikName": "Староминская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4721,
     "uikTvd": "4234045164345",
+    "uikName": "УИК №4721",
     "tikTvd": "22320002182676",
-    "tikName": "Староминская"
+    "tikName": "Староминская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4722,
     "uikTvd": "4234045164346",
+    "uikName": "УИК №4722",
     "tikTvd": "22320002182676",
-    "tikName": "Староминская"
+    "tikName": "Староминская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4801,
     "uikTvd": "4234046219387",
+    "uikName": "УИК №4801",
     "tikTvd": "22320002182666",
-    "tikName": "Тбилисская"
+    "tikName": "Тбилисская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4802,
     "uikTvd": "4234046219388",
+    "uikName": "УИК №4802",
     "tikTvd": "22320002182666",
-    "tikName": "Тбилисская"
+    "tikName": "Тбилисская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4803,
     "uikTvd": "4234046219389",
+    "uikName": "УИК №4803",
     "tikTvd": "22320002182666",
-    "tikName": "Тбилисская"
+    "tikName": "Тбилисская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4804,
     "uikTvd": "4234046219390",
+    "uikName": "УИК №4804",
     "tikTvd": "22320002182666",
-    "tikName": "Тбилисская"
+    "tikName": "Тбилисская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4805,
     "uikTvd": "4234046219391",
+    "uikName": "УИК №4805",
     "tikTvd": "22320002182666",
-    "tikName": "Тбилисская"
+    "tikName": "Тбилисская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4806,
     "uikTvd": "4234046219392",
+    "uikName": "УИК №4806",
     "tikTvd": "22320002182666",
-    "tikName": "Тбилисская"
+    "tikName": "Тбилисская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4807,
     "uikTvd": "4234046219393",
+    "uikName": "УИК №4807",
     "tikTvd": "22320002182666",
-    "tikName": "Тбилисская"
+    "tikName": "Тбилисская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4808,
     "uikTvd": "4234046219394",
+    "uikName": "УИК №4808",
     "tikTvd": "22320002182666",
-    "tikName": "Тбилисская"
+    "tikName": "Тбилисская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4809,
     "uikTvd": "4234046219395",
+    "uikName": "УИК №4809",
     "tikTvd": "22320002182666",
-    "tikName": "Тбилисская"
+    "tikName": "Тбилисская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4810,
     "uikTvd": "4234046219396",
+    "uikName": "УИК №4810",
     "tikTvd": "22320002182666",
-    "tikName": "Тбилисская"
+    "tikName": "Тбилисская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4811,
     "uikTvd": "4234046219397",
+    "uikName": "УИК №4811",
     "tikTvd": "22320002182666",
-    "tikName": "Тбилисская"
+    "tikName": "Тбилисская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4812,
     "uikTvd": "4234046219398",
+    "uikName": "УИК №4812",
     "tikTvd": "22320002182666",
-    "tikName": "Тбилисская"
+    "tikName": "Тбилисская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4813,
     "uikTvd": "4234046219399",
+    "uikName": "УИК №4813",
     "tikTvd": "22320002182666",
-    "tikName": "Тбилисская"
+    "tikName": "Тбилисская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4814,
     "uikTvd": "4234046219400",
+    "uikName": "УИК №4814",
     "tikTvd": "22320002182666",
-    "tikName": "Тбилисская"
+    "tikName": "Тбилисская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4815,
     "uikTvd": "4234046219401",
+    "uikName": "УИК №4815",
     "tikTvd": "22320002182666",
-    "tikName": "Тбилисская"
+    "tikName": "Тбилисская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4816,
     "uikTvd": "4234046219402",
+    "uikName": "УИК №4816",
     "tikTvd": "22320002182666",
-    "tikName": "Тбилисская"
+    "tikName": "Тбилисская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4817,
     "uikTvd": "4234046219403",
+    "uikName": "УИК №4817",
     "tikTvd": "22320002182666",
-    "tikName": "Тбилисская"
+    "tikName": "Тбилисская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4818,
     "uikTvd": "4234046219404",
+    "uikName": "УИК №4818",
     "tikTvd": "22320002182666",
-    "tikName": "Тбилисская"
+    "tikName": "Тбилисская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4819,
     "uikTvd": "4234046219405",
+    "uikName": "УИК №4819",
     "tikTvd": "22320002182666",
-    "tikName": "Тбилисская"
+    "tikName": "Тбилисская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4820,
     "uikTvd": "4234046219406",
+    "uikName": "УИК №4820",
     "tikTvd": "22320002182666",
-    "tikName": "Тбилисская"
+    "tikName": "Тбилисская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4821,
     "uikTvd": "4234046219407",
+    "uikName": "УИК №4821",
     "tikTvd": "22320002182666",
-    "tikName": "Тбилисская"
+    "tikName": "Тбилисская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4822,
     "uikTvd": "4234046219408",
+    "uikName": "УИК №4822",
     "tikTvd": "22320002182666",
-    "tikName": "Тбилисская"
+    "tikName": "Тбилисская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4823,
     "uikTvd": "4234046219409",
+    "uikName": "УИК №4823",
     "tikTvd": "22320002182666",
-    "tikName": "Тбилисская"
+    "tikName": "Тбилисская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4824,
     "uikTvd": "4234046219410",
+    "uikName": "УИК №4824",
     "tikTvd": "22320002182666",
-    "tikName": "Тбилисская"
+    "tikName": "Тбилисская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4825,
     "uikTvd": "4234046219411",
+    "uikName": "УИК №4825",
     "tikTvd": "22320002182666",
-    "tikName": "Тбилисская"
+    "tikName": "Тбилисская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4826,
     "uikTvd": "4234046219412",
+    "uikName": "УИК №4826",
     "tikTvd": "22320002182666",
-    "tikName": "Тбилисская"
+    "tikName": "Тбилисская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4827,
     "uikTvd": "4234046219413",
+    "uikName": "УИК №4827",
     "tikTvd": "22320002182666",
-    "tikName": "Тбилисская"
+    "tikName": "Тбилисская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4828,
     "uikTvd": "4234046219414",
+    "uikName": "УИК №4828",
     "tikTvd": "22320002182666",
-    "tikName": "Тбилисская"
+    "tikName": "Тбилисская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4829,
     "uikTvd": "4234046219415",
+    "uikName": "УИК №4829",
     "tikTvd": "22320002182666",
-    "tikName": "Тбилисская"
+    "tikName": "Тбилисская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4830,
     "uikTvd": "4234046219416",
+    "uikName": "УИК №4830",
     "tikTvd": "22320002182666",
-    "tikName": "Тбилисская"
+    "tikName": "Тбилисская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4831,
     "uikTvd": "4234046219417",
+    "uikName": "УИК №4831",
     "tikTvd": "22320002182666",
-    "tikName": "Тбилисская"
+    "tikName": "Тбилисская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4832,
     "uikTvd": "4234046219418",
+    "uikName": "УИК №4832",
     "tikTvd": "22320002182666",
-    "tikName": "Тбилисская"
+    "tikName": "Тбилисская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4833,
     "uikTvd": "4234046219419",
+    "uikName": "УИК №4833",
     "tikTvd": "22320002182666",
-    "tikName": "Тбилисская"
+    "tikName": "Тбилисская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4834,
     "uikTvd": "4234046219420",
+    "uikName": "УИК №4834",
     "tikTvd": "22320002182666",
-    "tikName": "Тбилисская"
+    "tikName": "Тбилисская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4835,
     "uikTvd": "4234046219421",
+    "uikName": "УИК №4835",
     "tikTvd": "22320002182666",
-    "tikName": "Тбилисская"
+    "tikName": "Тбилисская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4836,
     "uikTvd": "4234046219422",
+    "uikName": "УИК №4836",
     "tikTvd": "22320002182666",
-    "tikName": "Тбилисская"
+    "tikName": "Тбилисская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4837,
     "uikTvd": "4234046219423",
+    "uikName": "УИК №4837",
     "tikTvd": "22320002182666",
-    "tikName": "Тбилисская"
+    "tikName": "Тбилисская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4838,
     "uikTvd": "4234046219424",
+    "uikName": "УИК №4838",
     "tikTvd": "22320002182666",
-    "tikName": "Тбилисская"
+    "tikName": "Тбилисская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4839,
     "uikTvd": "4234046219425",
+    "uikName": "УИК №4839",
     "tikTvd": "22320002182666",
-    "tikName": "Тбилисская"
+    "tikName": "Тбилисская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4840,
     "uikTvd": "4234046219426",
+    "uikName": "УИК №4840",
     "tikTvd": "22320002182666",
-    "tikName": "Тбилисская"
+    "tikName": "Тбилисская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4841,
     "uikTvd": "4234046219427",
+    "uikName": "УИК №4841",
     "tikTvd": "22320002182666",
-    "tikName": "Тбилисская"
+    "tikName": "Тбилисская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4842,
     "uikTvd": "4234046219428",
+    "uikName": "УИК №4842",
     "tikTvd": "22320002182666",
-    "tikName": "Тбилисская"
+    "tikName": "Тбилисская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4843,
     "uikTvd": "4234046219429",
+    "uikName": "УИК №4843",
     "tikTvd": "22320002182666",
-    "tikName": "Тбилисская"
+    "tikName": "Тбилисская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4844,
     "uikTvd": "4234046219430",
+    "uikName": "УИК №4844",
     "tikTvd": "22320002182666",
-    "tikName": "Тбилисская"
+    "tikName": "Тбилисская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4845,
     "uikTvd": "4234046219431",
+    "uikName": "УИК №4845",
     "tikTvd": "22320002182666",
-    "tikName": "Тбилисская"
+    "tikName": "Тбилисская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4901,
     "uikTvd": "4234047270606",
+    "uikName": "УИК №4901",
     "tikTvd": "22320002182627",
-    "tikName": "Темрюкская"
+    "tikName": "Темрюкская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4902,
     "uikTvd": "4234047270607",
+    "uikName": "УИК №4902",
     "tikTvd": "22320002182627",
-    "tikName": "Темрюкская"
+    "tikName": "Темрюкская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4903,
     "uikTvd": "4234047270608",
+    "uikName": "УИК №4903",
     "tikTvd": "22320002182627",
-    "tikName": "Темрюкская"
+    "tikName": "Темрюкская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4904,
     "uikTvd": "4234047270609",
+    "uikName": "УИК №4904",
     "tikTvd": "22320002182627",
-    "tikName": "Темрюкская"
+    "tikName": "Темрюкская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4905,
     "uikTvd": "4234047270610",
+    "uikName": "УИК №4905",
     "tikTvd": "22320002182627",
-    "tikName": "Темрюкская"
+    "tikName": "Темрюкская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4906,
     "uikTvd": "4234047270611",
+    "uikName": "УИК №4906",
     "tikTvd": "22320002182627",
-    "tikName": "Темрюкская"
+    "tikName": "Темрюкская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4907,
     "uikTvd": "4234047270612",
+    "uikName": "УИК №4907",
     "tikTvd": "22320002182627",
-    "tikName": "Темрюкская"
+    "tikName": "Темрюкская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4908,
     "uikTvd": "4234047270613",
+    "uikName": "УИК №4908",
     "tikTvd": "22320002182627",
-    "tikName": "Темрюкская"
+    "tikName": "Темрюкская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4909,
     "uikTvd": "4234047270614",
+    "uikName": "УИК №4909",
     "tikTvd": "22320002182627",
-    "tikName": "Темрюкская"
+    "tikName": "Темрюкская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4910,
     "uikTvd": "4234047270615",
+    "uikName": "УИК №4910",
     "tikTvd": "22320002182627",
-    "tikName": "Темрюкская"
+    "tikName": "Темрюкская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4911,
     "uikTvd": "4234047270616",
+    "uikName": "УИК №4911",
     "tikTvd": "22320002182627",
-    "tikName": "Темрюкская"
+    "tikName": "Темрюкская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4912,
     "uikTvd": "4234047270617",
+    "uikName": "УИК №4912",
     "tikTvd": "22320002182627",
-    "tikName": "Темрюкская"
+    "tikName": "Темрюкская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4913,
     "uikTvd": "4234047270618",
+    "uikName": "УИК №4913",
     "tikTvd": "22320002182627",
-    "tikName": "Темрюкская"
+    "tikName": "Темрюкская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4914,
     "uikTvd": "4234047270619",
+    "uikName": "УИК №4914",
     "tikTvd": "22320002182627",
-    "tikName": "Темрюкская"
+    "tikName": "Темрюкская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4915,
     "uikTvd": "4234047270620",
+    "uikName": "УИК №4915",
     "tikTvd": "22320002182627",
-    "tikName": "Темрюкская"
+    "tikName": "Темрюкская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4916,
     "uikTvd": "4234047270621",
+    "uikName": "УИК №4916",
     "tikTvd": "22320002182627",
-    "tikName": "Темрюкская"
+    "tikName": "Темрюкская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4917,
     "uikTvd": "4234047270622",
+    "uikName": "УИК №4917",
     "tikTvd": "22320002182627",
-    "tikName": "Темрюкская"
+    "tikName": "Темрюкская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4918,
     "uikTvd": "4234047270623",
+    "uikName": "УИК №4918",
     "tikTvd": "22320002182627",
-    "tikName": "Темрюкская"
+    "tikName": "Темрюкская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4919,
     "uikTvd": "4234047270624",
+    "uikName": "УИК №4919",
     "tikTvd": "22320002182627",
-    "tikName": "Темрюкская"
+    "tikName": "Темрюкская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4920,
     "uikTvd": "4234047270625",
+    "uikName": "УИК №4920",
     "tikTvd": "22320002182627",
-    "tikName": "Темрюкская"
+    "tikName": "Темрюкская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4921,
     "uikTvd": "4234047270626",
+    "uikName": "УИК №4921",
     "tikTvd": "22320002182627",
-    "tikName": "Темрюкская"
+    "tikName": "Темрюкская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4922,
     "uikTvd": "4234047270627",
+    "uikName": "УИК №4922",
     "tikTvd": "22320002182627",
-    "tikName": "Темрюкская"
+    "tikName": "Темрюкская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4923,
     "uikTvd": "4234047270628",
+    "uikName": "УИК №4923",
     "tikTvd": "22320002182627",
-    "tikName": "Темрюкская"
+    "tikName": "Темрюкская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4924,
     "uikTvd": "4234047270629",
+    "uikName": "УИК №4924",
     "tikTvd": "22320002182627",
-    "tikName": "Темрюкская"
+    "tikName": "Темрюкская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4925,
     "uikTvd": "4234047270630",
+    "uikName": "УИК №4925",
     "tikTvd": "22320002182627",
-    "tikName": "Темрюкская"
+    "tikName": "Темрюкская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4926,
     "uikTvd": "4234047270631",
+    "uikName": "УИК №4926",
     "tikTvd": "22320002182627",
-    "tikName": "Темрюкская"
+    "tikName": "Темрюкская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4927,
     "uikTvd": "4234047270632",
+    "uikName": "УИК №4927",
     "tikTvd": "22320002182627",
-    "tikName": "Темрюкская"
+    "tikName": "Темрюкская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4928,
     "uikTvd": "4234047270633",
+    "uikName": "УИК №4928",
     "tikTvd": "22320002182627",
-    "tikName": "Темрюкская"
+    "tikName": "Темрюкская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4929,
     "uikTvd": "4234047270634",
+    "uikName": "УИК №4929",
     "tikTvd": "22320002182627",
-    "tikName": "Темрюкская"
+    "tikName": "Темрюкская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4930,
     "uikTvd": "4234047270635",
+    "uikName": "УИК №4930",
     "tikTvd": "22320002182627",
-    "tikName": "Темрюкская"
+    "tikName": "Темрюкская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4931,
     "uikTvd": "4234047270636",
+    "uikName": "УИК №4931",
     "tikTvd": "22320002182627",
-    "tikName": "Темрюкская"
+    "tikName": "Темрюкская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4932,
     "uikTvd": "4234047270637",
+    "uikName": "УИК №4932",
     "tikTvd": "22320002182627",
-    "tikName": "Темрюкская"
+    "tikName": "Темрюкская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4933,
     "uikTvd": "4234047270638",
+    "uikName": "УИК №4933",
     "tikTvd": "22320002182627",
-    "tikName": "Темрюкская"
+    "tikName": "Темрюкская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4934,
     "uikTvd": "4234047270639",
+    "uikName": "УИК №4934",
     "tikTvd": "22320002182627",
-    "tikName": "Темрюкская"
+    "tikName": "Темрюкская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4935,
     "uikTvd": "4234047270640",
+    "uikName": "УИК №4935",
     "tikTvd": "22320002182627",
-    "tikName": "Темрюкская"
+    "tikName": "Темрюкская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4936,
     "uikTvd": "4234047270641",
+    "uikName": "УИК №4936",
     "tikTvd": "22320002182627",
-    "tikName": "Темрюкская"
+    "tikName": "Темрюкская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4937,
     "uikTvd": "4234047270642",
+    "uikName": "УИК №4937",
     "tikTvd": "22320002182627",
-    "tikName": "Темрюкская"
+    "tikName": "Темрюкская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4938,
     "uikTvd": "4234047270643",
+    "uikName": "УИК №4938",
     "tikTvd": "22320002182627",
-    "tikName": "Темрюкская"
+    "tikName": "Темрюкская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4939,
     "uikTvd": "4234047270644",
+    "uikName": "УИК №4939",
     "tikTvd": "22320002182627",
-    "tikName": "Темрюкская"
+    "tikName": "Темрюкская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4940,
     "uikTvd": "4234047270645",
+    "uikName": "УИК №4940",
     "tikTvd": "22320002182627",
-    "tikName": "Темрюкская"
+    "tikName": "Темрюкская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4941,
     "uikTvd": "4234047270646",
+    "uikName": "УИК №4941",
     "tikTvd": "22320002182627",
-    "tikName": "Темрюкская"
+    "tikName": "Темрюкская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4942,
     "uikTvd": "4234047270647",
+    "uikName": "УИК №4942",
     "tikTvd": "22320002182627",
-    "tikName": "Темрюкская"
+    "tikName": "Темрюкская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4943,
     "uikTvd": "4234047270648",
+    "uikName": "УИК №4943",
     "tikTvd": "22320002182627",
-    "tikName": "Темрюкская"
+    "tikName": "Темрюкская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4944,
     "uikTvd": "4234047270649",
+    "uikName": "УИК №4944",
     "tikTvd": "22320002182627",
-    "tikName": "Темрюкская"
+    "tikName": "Темрюкская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4945,
     "uikTvd": "4234047270650",
+    "uikName": "УИК №4945",
     "tikTvd": "22320002182627",
-    "tikName": "Темрюкская"
+    "tikName": "Темрюкская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4946,
     "uikTvd": "4234047270651",
+    "uikName": "УИК №4946",
     "tikTvd": "22320002182627",
-    "tikName": "Темрюкская"
+    "tikName": "Темрюкская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4947,
     "uikTvd": "4234047270652",
+    "uikName": "УИК №4947",
     "tikTvd": "22320002182627",
-    "tikName": "Темрюкская"
+    "tikName": "Темрюкская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4948,
     "uikTvd": "4234047270653",
+    "uikName": "УИК №4948",
     "tikTvd": "22320002182627",
-    "tikName": "Темрюкская"
+    "tikName": "Темрюкская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4949,
     "uikTvd": "4234047270654",
+    "uikName": "УИК №4949",
     "tikTvd": "22320002182627",
-    "tikName": "Темрюкская"
+    "tikName": "Темрюкская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4950,
     "uikTvd": "4234047270655",
+    "uikName": "УИК №4950",
     "tikTvd": "22320002182627",
-    "tikName": "Темрюкская"
+    "tikName": "Темрюкская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4951,
     "uikTvd": "4234047270656",
+    "uikName": "УИК №4951",
     "tikTvd": "22320002182627",
-    "tikName": "Темрюкская"
+    "tikName": "Темрюкская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4952,
     "uikTvd": "4234047270657",
+    "uikName": "УИК №4952",
     "tikTvd": "22320002182627",
-    "tikName": "Темрюкская"
+    "tikName": "Темрюкская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4953,
     "uikTvd": "4234047270658",
+    "uikName": "УИК №4953",
     "tikTvd": "22320002182627",
-    "tikName": "Темрюкская"
+    "tikName": "Темрюкская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4954,
     "uikTvd": "4234047270659",
+    "uikName": "УИК №4954",
     "tikTvd": "22320002182627",
-    "tikName": "Темрюкская"
+    "tikName": "Темрюкская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 4999,
     "uikTvd": "4234047271010",
+    "uikName": "УИК №4999",
     "tikTvd": "22320002182627",
-    "tikName": "Темрюкская"
+    "tikName": "Темрюкская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5001,
     "uikTvd": "4234048289591",
+    "uikName": "УИК №5001",
     "tikTvd": "22320002182665",
-    "tikName": "Тимашевская"
+    "tikName": "Тимашевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5002,
     "uikTvd": "4234048289592",
+    "uikName": "УИК №5002",
     "tikTvd": "22320002182665",
-    "tikName": "Тимашевская"
+    "tikName": "Тимашевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5003,
     "uikTvd": "4234048289593",
+    "uikName": "УИК №5003",
     "tikTvd": "22320002182665",
-    "tikName": "Тимашевская"
+    "tikName": "Тимашевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5004,
     "uikTvd": "4234048289594",
+    "uikName": "УИК №5004",
     "tikTvd": "22320002182665",
-    "tikName": "Тимашевская"
+    "tikName": "Тимашевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5005,
     "uikTvd": "4234048289595",
+    "uikName": "УИК №5005",
     "tikTvd": "22320002182665",
-    "tikName": "Тимашевская"
+    "tikName": "Тимашевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5006,
     "uikTvd": "4234048289596",
+    "uikName": "УИК №5006",
     "tikTvd": "22320002182665",
-    "tikName": "Тимашевская"
+    "tikName": "Тимашевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5007,
     "uikTvd": "4234048289597",
+    "uikName": "УИК №5007",
     "tikTvd": "22320002182665",
-    "tikName": "Тимашевская"
+    "tikName": "Тимашевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5008,
     "uikTvd": "4234048289598",
+    "uikName": "УИК №5008",
     "tikTvd": "22320002182665",
-    "tikName": "Тимашевская"
+    "tikName": "Тимашевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5009,
     "uikTvd": "4234048289599",
+    "uikName": "УИК №5009",
     "tikTvd": "22320002182665",
-    "tikName": "Тимашевская"
+    "tikName": "Тимашевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5010,
     "uikTvd": "4234048289600",
+    "uikName": "УИК №5010",
     "tikTvd": "22320002182665",
-    "tikName": "Тимашевская"
+    "tikName": "Тимашевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5011,
     "uikTvd": "4234048289601",
+    "uikName": "УИК №5011",
     "tikTvd": "22320002182665",
-    "tikName": "Тимашевская"
+    "tikName": "Тимашевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5012,
     "uikTvd": "4234048289602",
+    "uikName": "УИК №5012",
     "tikTvd": "22320002182665",
-    "tikName": "Тимашевская"
+    "tikName": "Тимашевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5013,
     "uikTvd": "4234048289603",
+    "uikName": "УИК №5013",
     "tikTvd": "22320002182665",
-    "tikName": "Тимашевская"
+    "tikName": "Тимашевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5014,
     "uikTvd": "4234048289604",
+    "uikName": "УИК №5014",
     "tikTvd": "22320002182665",
-    "tikName": "Тимашевская"
+    "tikName": "Тимашевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5015,
     "uikTvd": "4234048289605",
+    "uikName": "УИК №5015",
     "tikTvd": "22320002182665",
-    "tikName": "Тимашевская"
+    "tikName": "Тимашевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5016,
     "uikTvd": "4234048289606",
+    "uikName": "УИК №5016",
     "tikTvd": "22320002182665",
-    "tikName": "Тимашевская"
+    "tikName": "Тимашевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5017,
     "uikTvd": "4234048289607",
+    "uikName": "УИК №5017",
     "tikTvd": "22320002182665",
-    "tikName": "Тимашевская"
+    "tikName": "Тимашевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5018,
     "uikTvd": "4234048289608",
+    "uikName": "УИК №5018",
     "tikTvd": "22320002182665",
-    "tikName": "Тимашевская"
+    "tikName": "Тимашевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5019,
     "uikTvd": "4234048289609",
+    "uikName": "УИК №5019",
     "tikTvd": "22320002182665",
-    "tikName": "Тимашевская"
+    "tikName": "Тимашевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5020,
     "uikTvd": "4234048289610",
+    "uikName": "УИК №5020",
     "tikTvd": "22320002182665",
-    "tikName": "Тимашевская"
+    "tikName": "Тимашевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5021,
     "uikTvd": "4234048289611",
+    "uikName": "УИК №5021",
     "tikTvd": "22320002182665",
-    "tikName": "Тимашевская"
+    "tikName": "Тимашевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5022,
     "uikTvd": "4234048289612",
+    "uikName": "УИК №5022",
     "tikTvd": "22320002182665",
-    "tikName": "Тимашевская"
+    "tikName": "Тимашевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5023,
     "uikTvd": "4234048289613",
+    "uikName": "УИК №5023",
     "tikTvd": "22320002182665",
-    "tikName": "Тимашевская"
+    "tikName": "Тимашевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5024,
     "uikTvd": "4234048289614",
+    "uikName": "УИК №5024",
     "tikTvd": "22320002182665",
-    "tikName": "Тимашевская"
+    "tikName": "Тимашевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5025,
     "uikTvd": "4234048289615",
+    "uikName": "УИК №5025",
     "tikTvd": "22320002182665",
-    "tikName": "Тимашевская"
+    "tikName": "Тимашевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5026,
     "uikTvd": "4234048289616",
+    "uikName": "УИК №5026",
     "tikTvd": "22320002182665",
-    "tikName": "Тимашевская"
+    "tikName": "Тимашевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5027,
     "uikTvd": "4234048289617",
+    "uikName": "УИК №5027",
     "tikTvd": "22320002182665",
-    "tikName": "Тимашевская"
+    "tikName": "Тимашевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5028,
     "uikTvd": "4234048289618",
+    "uikName": "УИК №5028",
     "tikTvd": "22320002182665",
-    "tikName": "Тимашевская"
+    "tikName": "Тимашевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5029,
     "uikTvd": "4234048289619",
+    "uikName": "УИК №5029",
     "tikTvd": "22320002182665",
-    "tikName": "Тимашевская"
+    "tikName": "Тимашевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5030,
     "uikTvd": "4234048289620",
+    "uikName": "УИК №5030",
     "tikTvd": "22320002182665",
-    "tikName": "Тимашевская"
+    "tikName": "Тимашевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5031,
     "uikTvd": "4234048289621",
+    "uikName": "УИК №5031",
     "tikTvd": "22320002182665",
-    "tikName": "Тимашевская"
+    "tikName": "Тимашевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5032,
     "uikTvd": "4234048289622",
+    "uikName": "УИК №5032",
     "tikTvd": "22320002182665",
-    "tikName": "Тимашевская"
+    "tikName": "Тимашевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5033,
     "uikTvd": "4234048289623",
+    "uikName": "УИК №5033",
     "tikTvd": "22320002182665",
-    "tikName": "Тимашевская"
+    "tikName": "Тимашевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5034,
     "uikTvd": "4234048289624",
+    "uikName": "УИК №5034",
     "tikTvd": "22320002182665",
-    "tikName": "Тимашевская"
+    "tikName": "Тимашевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5035,
     "uikTvd": "4234048289625",
+    "uikName": "УИК №5035",
     "tikTvd": "22320002182665",
-    "tikName": "Тимашевская"
+    "tikName": "Тимашевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5036,
     "uikTvd": "4234048289626",
+    "uikName": "УИК №5036",
     "tikTvd": "22320002182665",
-    "tikName": "Тимашевская"
+    "tikName": "Тимашевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5037,
     "uikTvd": "4234048289627",
+    "uikName": "УИК №5037",
     "tikTvd": "22320002182665",
-    "tikName": "Тимашевская"
+    "tikName": "Тимашевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5038,
     "uikTvd": "4234048289628",
+    "uikName": "УИК №5038",
     "tikTvd": "22320002182665",
-    "tikName": "Тимашевская"
+    "tikName": "Тимашевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5039,
     "uikTvd": "4234048289629",
+    "uikName": "УИК №5039",
     "tikTvd": "22320002182665",
-    "tikName": "Тимашевская"
+    "tikName": "Тимашевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5040,
     "uikTvd": "4234048289630",
+    "uikName": "УИК №5040",
     "tikTvd": "22320002182665",
-    "tikName": "Тимашевская"
+    "tikName": "Тимашевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5041,
     "uikTvd": "4234048289631",
+    "uikName": "УИК №5041",
     "tikTvd": "22320002182665",
-    "tikName": "Тимашевская"
+    "tikName": "Тимашевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5042,
     "uikTvd": "4234048289632",
+    "uikName": "УИК №5042",
     "tikTvd": "22320002182665",
-    "tikName": "Тимашевская"
+    "tikName": "Тимашевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5043,
     "uikTvd": "4234048289633",
+    "uikName": "УИК №5043",
     "tikTvd": "22320002182665",
-    "tikName": "Тимашевская"
+    "tikName": "Тимашевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5044,
     "uikTvd": "4234048289634",
+    "uikName": "УИК №5044",
     "tikTvd": "22320002182665",
-    "tikName": "Тимашевская"
+    "tikName": "Тимашевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5045,
     "uikTvd": "4234048289635",
+    "uikName": "УИК №5045",
     "tikTvd": "22320002182665",
-    "tikName": "Тимашевская"
+    "tikName": "Тимашевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5046,
     "uikTvd": "4234048289636",
+    "uikName": "УИК №5046",
     "tikTvd": "22320002182665",
-    "tikName": "Тимашевская"
+    "tikName": "Тимашевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5047,
     "uikTvd": "4234048289637",
+    "uikName": "УИК №5047",
     "tikTvd": "22320002182665",
-    "tikName": "Тимашевская"
+    "tikName": "Тимашевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5048,
     "uikTvd": "4234048289638",
+    "uikName": "УИК №5048",
     "tikTvd": "22320002182665",
-    "tikName": "Тимашевская"
+    "tikName": "Тимашевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5049,
     "uikTvd": "4234048289639",
+    "uikName": "УИК №5049",
     "tikTvd": "22320002182665",
-    "tikName": "Тимашевская"
+    "tikName": "Тимашевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5050,
     "uikTvd": "4234048289640",
+    "uikName": "УИК №5050",
     "tikTvd": "22320002182665",
-    "tikName": "Тимашевская"
+    "tikName": "Тимашевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5051,
     "uikTvd": "4234048289641",
+    "uikName": "УИК №5051",
     "tikTvd": "22320002182665",
-    "tikName": "Тимашевская"
+    "tikName": "Тимашевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5052,
     "uikTvd": "4234048289642",
+    "uikName": "УИК №5052",
     "tikTvd": "22320002182665",
-    "tikName": "Тимашевская"
+    "tikName": "Тимашевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5053,
     "uikTvd": "4234048289643",
+    "uikName": "УИК №5053",
     "tikTvd": "22320002182665",
-    "tikName": "Тимашевская"
+    "tikName": "Тимашевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5054,
     "uikTvd": "4234048289644",
+    "uikName": "УИК №5054",
     "tikTvd": "22320002182665",
-    "tikName": "Тимашевская"
+    "tikName": "Тимашевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5055,
     "uikTvd": "4234048289645",
+    "uikName": "УИК №5055",
     "tikTvd": "22320002182665",
-    "tikName": "Тимашевская"
+    "tikName": "Тимашевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5056,
     "uikTvd": "4234048289646",
+    "uikName": "УИК №5056",
     "tikTvd": "22320002182665",
-    "tikName": "Тимашевская"
+    "tikName": "Тимашевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5057,
     "uikTvd": "4234048289647",
+    "uikName": "УИК №5057",
     "tikTvd": "22320002182665",
-    "tikName": "Тимашевская"
+    "tikName": "Тимашевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5058,
     "uikTvd": "4234048289648",
+    "uikName": "УИК №5058",
     "tikTvd": "22320002182665",
-    "tikName": "Тимашевская"
+    "tikName": "Тимашевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5059,
     "uikTvd": "4234048289649",
+    "uikName": "УИК №5059",
     "tikTvd": "22320002182665",
-    "tikName": "Тимашевская"
+    "tikName": "Тимашевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5060,
     "uikTvd": "4234048289650",
+    "uikName": "УИК №5060",
     "tikTvd": "22320002182665",
-    "tikName": "Тимашевская"
+    "tikName": "Тимашевская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5101,
     "uikTvd": "4234055255649",
+    "uikName": "УИК №5101",
     "tikTvd": "22320002182656",
-    "tikName": "Тихорецкая районная"
+    "tikName": "Тихорецкая районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5102,
     "uikTvd": "4234055255650",
+    "uikName": "УИК №5102",
     "tikTvd": "22320002182656",
-    "tikName": "Тихорецкая районная"
+    "tikName": "Тихорецкая районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5103,
     "uikTvd": "4234055255651",
+    "uikName": "УИК №5103",
     "tikTvd": "22320002182656",
-    "tikName": "Тихорецкая районная"
+    "tikName": "Тихорецкая районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5104,
     "uikTvd": "4234055255652",
+    "uikName": "УИК №5104",
     "tikTvd": "22320002182656",
-    "tikName": "Тихорецкая районная"
+    "tikName": "Тихорецкая районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5105,
     "uikTvd": "4234055255653",
+    "uikName": "УИК №5105",
     "tikTvd": "22320002182656",
-    "tikName": "Тихорецкая районная"
+    "tikName": "Тихорецкая районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5106,
     "uikTvd": "4234055255654",
+    "uikName": "УИК №5106",
     "tikTvd": "22320002182656",
-    "tikName": "Тихорецкая районная"
+    "tikName": "Тихорецкая районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5107,
     "uikTvd": "4234055255655",
+    "uikName": "УИК №5107",
     "tikTvd": "22320002182656",
-    "tikName": "Тихорецкая районная"
+    "tikName": "Тихорецкая районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5108,
     "uikTvd": "4234055255656",
+    "uikName": "УИК №5108",
     "tikTvd": "22320002182656",
-    "tikName": "Тихорецкая районная"
+    "tikName": "Тихорецкая районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5109,
     "uikTvd": "4234055255657",
+    "uikName": "УИК №5109",
     "tikTvd": "22320002182656",
-    "tikName": "Тихорецкая районная"
+    "tikName": "Тихорецкая районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5110,
     "uikTvd": "4234055255658",
+    "uikName": "УИК №5110",
     "tikTvd": "22320002182656",
-    "tikName": "Тихорецкая районная"
+    "tikName": "Тихорецкая районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5111,
     "uikTvd": "4234055255659",
+    "uikName": "УИК №5111",
     "tikTvd": "22320002182656",
-    "tikName": "Тихорецкая районная"
+    "tikName": "Тихорецкая районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5112,
     "uikTvd": "4234055255660",
+    "uikName": "УИК №5112",
     "tikTvd": "22320002182656",
-    "tikName": "Тихорецкая районная"
+    "tikName": "Тихорецкая районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5113,
     "uikTvd": "4234055255661",
+    "uikName": "УИК №5113",
     "tikTvd": "22320002182656",
-    "tikName": "Тихорецкая районная"
+    "tikName": "Тихорецкая районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5114,
     "uikTvd": "4234055255662",
+    "uikName": "УИК №5114",
     "tikTvd": "22320002182656",
-    "tikName": "Тихорецкая районная"
+    "tikName": "Тихорецкая районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5115,
     "uikTvd": "4234055255663",
+    "uikName": "УИК №5115",
     "tikTvd": "22320002182656",
-    "tikName": "Тихорецкая районная"
+    "tikName": "Тихорецкая районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5116,
     "uikTvd": "4234055255664",
+    "uikName": "УИК №5116",
     "tikTvd": "22320002182656",
-    "tikName": "Тихорецкая районная"
+    "tikName": "Тихорецкая районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5117,
     "uikTvd": "4234055255665",
+    "uikName": "УИК №5117",
     "tikTvd": "22320002182656",
-    "tikName": "Тихорецкая районная"
+    "tikName": "Тихорецкая районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5118,
     "uikTvd": "4234055255666",
+    "uikName": "УИК №5118",
     "tikTvd": "22320002182656",
-    "tikName": "Тихорецкая районная"
+    "tikName": "Тихорецкая районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5119,
     "uikTvd": "4234055255667",
+    "uikName": "УИК №5119",
     "tikTvd": "22320002182656",
-    "tikName": "Тихорецкая районная"
+    "tikName": "Тихорецкая районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5120,
     "uikTvd": "4234055255668",
+    "uikName": "УИК №5120",
     "tikTvd": "22320002182656",
-    "tikName": "Тихорецкая районная"
+    "tikName": "Тихорецкая районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5121,
     "uikTvd": "4234055255669",
+    "uikName": "УИК №5121",
     "tikTvd": "22320002182656",
-    "tikName": "Тихорецкая районная"
+    "tikName": "Тихорецкая районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5122,
     "uikTvd": "4234055255670",
+    "uikName": "УИК №5122",
     "tikTvd": "22320002182656",
-    "tikName": "Тихорецкая районная"
+    "tikName": "Тихорецкая районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5123,
     "uikTvd": "4234055255671",
+    "uikName": "УИК №5123",
     "tikTvd": "22320002182656",
-    "tikName": "Тихорецкая районная"
+    "tikName": "Тихорецкая районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5124,
     "uikTvd": "4234055255672",
+    "uikName": "УИК №5124",
     "tikTvd": "22320002182656",
-    "tikName": "Тихорецкая районная"
+    "tikName": "Тихорецкая районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5125,
     "uikTvd": "4234055255673",
+    "uikName": "УИК №5125",
     "tikTvd": "22320002182656",
-    "tikName": "Тихорецкая районная"
+    "tikName": "Тихорецкая районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5126,
     "uikTvd": "4234055255674",
+    "uikName": "УИК №5126",
     "tikTvd": "22320002182656",
-    "tikName": "Тихорецкая районная"
+    "tikName": "Тихорецкая районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5127,
     "uikTvd": "4234055255675",
+    "uikName": "УИК №5127",
     "tikTvd": "22320002182656",
-    "tikName": "Тихорецкая районная"
+    "tikName": "Тихорецкая районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5128,
     "uikTvd": "4234055255676",
+    "uikName": "УИК №5128",
     "tikTvd": "22320002182656",
-    "tikName": "Тихорецкая районная"
+    "tikName": "Тихорецкая районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5129,
     "uikTvd": "4234055255677",
+    "uikName": "УИК №5129",
     "tikTvd": "22320002182656",
-    "tikName": "Тихорецкая районная"
+    "tikName": "Тихорецкая районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5130,
     "uikTvd": "4234055255678",
+    "uikName": "УИК №5130",
     "tikTvd": "22320002182656",
-    "tikName": "Тихорецкая районная"
+    "tikName": "Тихорецкая районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5131,
     "uikTvd": "4234055255679",
+    "uikName": "УИК №5131",
     "tikTvd": "22320002182656",
-    "tikName": "Тихорецкая районная"
+    "tikName": "Тихорецкая районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5132,
     "uikTvd": "4234055255680",
+    "uikName": "УИК №5132",
     "tikTvd": "22320002182656",
-    "tikName": "Тихорецкая районная"
+    "tikName": "Тихорецкая районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5133,
     "uikTvd": "4234055255681",
+    "uikName": "УИК №5133",
     "tikTvd": "22320002182656",
-    "tikName": "Тихорецкая районная"
+    "tikName": "Тихорецкая районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5134,
     "uikTvd": "4234055255682",
+    "uikName": "УИК №5134",
     "tikTvd": "22320002182656",
-    "tikName": "Тихорецкая районная"
+    "tikName": "Тихорецкая районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5135,
     "uikTvd": "4234055255683",
+    "uikName": "УИК №5135",
     "tikTvd": "22320002182656",
-    "tikName": "Тихорецкая районная"
+    "tikName": "Тихорецкая районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5136,
     "uikTvd": "4234055255684",
+    "uikName": "УИК №5136",
     "tikTvd": "22320002182656",
-    "tikName": "Тихорецкая районная"
+    "tikName": "Тихорецкая районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5137,
     "uikTvd": "4234055255685",
+    "uikName": "УИК №5137",
     "tikTvd": "22320002182656",
-    "tikName": "Тихорецкая районная"
+    "tikName": "Тихорецкая районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5138,
     "uikTvd": "4234055255686",
+    "uikName": "УИК №5138",
     "tikTvd": "22320002182656",
-    "tikName": "Тихорецкая районная"
+    "tikName": "Тихорецкая районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5139,
     "uikTvd": "4234055255687",
+    "uikName": "УИК №5139",
     "tikTvd": "22320002182656",
-    "tikName": "Тихорецкая районная"
+    "tikName": "Тихорецкая районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5140,
     "uikTvd": "4234055255688",
+    "uikName": "УИК №5140",
     "tikTvd": "22320002182656",
-    "tikName": "Тихорецкая районная"
+    "tikName": "Тихорецкая районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5141,
     "uikTvd": "4234055255689",
+    "uikName": "УИК №5141",
     "tikTvd": "22320002182656",
-    "tikName": "Тихорецкая районная"
+    "tikName": "Тихорецкая районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5142,
     "uikTvd": "4234055255690",
+    "uikName": "УИК №5142",
     "tikTvd": "22320002182656",
-    "tikName": "Тихорецкая районная"
+    "tikName": "Тихорецкая районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5201,
     "uikTvd": "4234049177846",
+    "uikName": "УИК №5201",
     "tikTvd": "22320002182672",
-    "tikName": "Тихорецкая городская"
+    "tikName": "Тихорецкая городская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5202,
     "uikTvd": "4234049177847",
+    "uikName": "УИК №5202",
     "tikTvd": "22320002182672",
-    "tikName": "Тихорецкая городская"
+    "tikName": "Тихорецкая городская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5203,
     "uikTvd": "4234049177848",
+    "uikName": "УИК №5203",
     "tikTvd": "22320002182672",
-    "tikName": "Тихорецкая городская"
+    "tikName": "Тихорецкая городская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5204,
     "uikTvd": "4234049177849",
+    "uikName": "УИК №5204",
     "tikTvd": "22320002182672",
-    "tikName": "Тихорецкая городская"
+    "tikName": "Тихорецкая городская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5205,
     "uikTvd": "4234049177850",
+    "uikName": "УИК №5205",
     "tikTvd": "22320002182672",
-    "tikName": "Тихорецкая городская"
+    "tikName": "Тихорецкая городская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5206,
     "uikTvd": "4234049177851",
+    "uikName": "УИК №5206",
     "tikTvd": "22320002182672",
-    "tikName": "Тихорецкая городская"
+    "tikName": "Тихорецкая городская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5207,
     "uikTvd": "4234049177852",
+    "uikName": "УИК №5207",
     "tikTvd": "22320002182672",
-    "tikName": "Тихорецкая городская"
+    "tikName": "Тихорецкая городская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5208,
     "uikTvd": "4234049177853",
+    "uikName": "УИК №5208",
     "tikTvd": "22320002182672",
-    "tikName": "Тихорецкая городская"
+    "tikName": "Тихорецкая городская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5209,
     "uikTvd": "4234049177854",
+    "uikName": "УИК №5209",
     "tikTvd": "22320002182672",
-    "tikName": "Тихорецкая городская"
+    "tikName": "Тихорецкая городская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5210,
     "uikTvd": "4234049177855",
+    "uikName": "УИК №5210",
     "tikTvd": "22320002182672",
-    "tikName": "Тихорецкая городская"
+    "tikName": "Тихорецкая городская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5211,
     "uikTvd": "4234049177856",
+    "uikName": "УИК №5211",
     "tikTvd": "22320002182672",
-    "tikName": "Тихорецкая городская"
+    "tikName": "Тихорецкая городская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5212,
     "uikTvd": "4234049177857",
+    "uikName": "УИК №5212",
     "tikTvd": "22320002182672",
-    "tikName": "Тихорецкая городская"
+    "tikName": "Тихорецкая городская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5213,
     "uikTvd": "4234049177858",
+    "uikName": "УИК №5213",
     "tikTvd": "22320002182672",
-    "tikName": "Тихорецкая городская"
+    "tikName": "Тихорецкая городская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5214,
     "uikTvd": "4234049177859",
+    "uikName": "УИК №5214",
     "tikTvd": "22320002182672",
-    "tikName": "Тихорецкая городская"
+    "tikName": "Тихорецкая городская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5215,
     "uikTvd": "4234049177860",
+    "uikName": "УИК №5215",
     "tikTvd": "22320002182672",
-    "tikName": "Тихорецкая городская"
+    "tikName": "Тихорецкая городская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5216,
     "uikTvd": "4234049177861",
+    "uikName": "УИК №5216",
     "tikTvd": "22320002182672",
-    "tikName": "Тихорецкая городская"
+    "tikName": "Тихорецкая городская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5217,
     "uikTvd": "4234049177862",
+    "uikName": "УИК №5217",
     "tikTvd": "22320002182672",
-    "tikName": "Тихорецкая городская"
+    "tikName": "Тихорецкая городская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5218,
     "uikTvd": "4234049177863",
+    "uikName": "УИК №5218",
     "tikTvd": "22320002182672",
-    "tikName": "Тихорецкая городская"
+    "tikName": "Тихорецкая городская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5219,
     "uikTvd": "4234049177864",
+    "uikName": "УИК №5219",
     "tikTvd": "22320002182672",
-    "tikName": "Тихорецкая городская"
+    "tikName": "Тихорецкая городская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5220,
     "uikTvd": "4234049177865",
+    "uikName": "УИК №5220",
     "tikTvd": "22320002182672",
-    "tikName": "Тихорецкая городская"
+    "tikName": "Тихорецкая городская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5221,
     "uikTvd": "4234049177866",
+    "uikName": "УИК №5221",
     "tikTvd": "22320002182672",
-    "tikName": "Тихорецкая городская"
+    "tikName": "Тихорецкая городская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5222,
     "uikTvd": "4234049177867",
+    "uikName": "УИК №5222",
     "tikTvd": "22320002182672",
-    "tikName": "Тихорецкая городская"
+    "tikName": "Тихорецкая городская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5223,
     "uikTvd": "4234049177868",
+    "uikName": "УИК №5223",
     "tikTvd": "22320002182672",
-    "tikName": "Тихорецкая городская"
+    "tikName": "Тихорецкая городская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5224,
     "uikTvd": "4234049177869",
+    "uikName": "УИК №5224",
     "tikTvd": "22320002182672",
-    "tikName": "Тихорецкая городская"
+    "tikName": "Тихорецкая городская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5225,
     "uikTvd": "4234049177870",
+    "uikName": "УИК №5225",
     "tikTvd": "22320002182672",
-    "tikName": "Тихорецкая городская"
+    "tikName": "Тихорецкая городская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5227,
     "uikTvd": "4234049177871",
+    "uikName": "УИК №5227",
     "tikTvd": "22320002182672",
-    "tikName": "Тихорецкая городская"
+    "tikName": "Тихорецкая городская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5228,
     "uikTvd": "4234049177872",
+    "uikName": "УИК №5228",
     "tikTvd": "22320002182672",
-    "tikName": "Тихорецкая городская"
+    "tikName": "Тихорецкая городская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5232,
     "uikTvd": "4234049177873",
+    "uikName": "УИК №5232",
     "tikTvd": "22320002182672",
-    "tikName": "Тихорецкая городская"
+    "tikName": "Тихорецкая городская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5233,
     "uikTvd": "4234049177874",
+    "uikName": "УИК №5233",
     "tikTvd": "22320002182672",
-    "tikName": "Тихорецкая городская"
+    "tikName": "Тихорецкая городская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5234,
     "uikTvd": "4234049177875",
+    "uikName": "УИК №5234",
     "tikTvd": "22320002182672",
-    "tikName": "Тихорецкая городская"
+    "tikName": "Тихорецкая городская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5301,
     "uikTvd": "4234056266637",
+    "uikName": "УИК №5301",
     "tikTvd": "22320002182667",
-    "tikName": "Туапсинская районная"
+    "tikName": "Туапсинская районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5302,
     "uikTvd": "4234056266638",
+    "uikName": "УИК №5302",
     "tikTvd": "22320002182667",
-    "tikName": "Туапсинская районная"
+    "tikName": "Туапсинская районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5303,
     "uikTvd": "4234056266639",
+    "uikName": "УИК №5303",
     "tikTvd": "22320002182667",
-    "tikName": "Туапсинская районная"
+    "tikName": "Туапсинская районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5304,
     "uikTvd": "4234056266640",
+    "uikName": "УИК №5304",
     "tikTvd": "22320002182667",
-    "tikName": "Туапсинская районная"
+    "tikName": "Туапсинская районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5305,
     "uikTvd": "4234056266641",
+    "uikName": "УИК №5305",
     "tikTvd": "22320002182667",
-    "tikName": "Туапсинская районная"
+    "tikName": "Туапсинская районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5306,
     "uikTvd": "4234056266642",
+    "uikName": "УИК №5306",
     "tikTvd": "22320002182667",
-    "tikName": "Туапсинская районная"
+    "tikName": "Туапсинская районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5307,
     "uikTvd": "4234056266643",
+    "uikName": "УИК №5307",
     "tikTvd": "22320002182667",
-    "tikName": "Туапсинская районная"
+    "tikName": "Туапсинская районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5308,
     "uikTvd": "4234056266644",
+    "uikName": "УИК №5308",
     "tikTvd": "22320002182667",
-    "tikName": "Туапсинская районная"
+    "tikName": "Туапсинская районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5309,
     "uikTvd": "4234056266645",
+    "uikName": "УИК №5309",
     "tikTvd": "22320002182667",
-    "tikName": "Туапсинская районная"
+    "tikName": "Туапсинская районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5310,
     "uikTvd": "4234056266646",
+    "uikName": "УИК №5310",
     "tikTvd": "22320002182667",
-    "tikName": "Туапсинская районная"
+    "tikName": "Туапсинская районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5311,
     "uikTvd": "4234056266647",
+    "uikName": "УИК №5311",
     "tikTvd": "22320002182667",
-    "tikName": "Туапсинская районная"
+    "tikName": "Туапсинская районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5312,
     "uikTvd": "4234056266648",
+    "uikName": "УИК №5312",
     "tikTvd": "22320002182667",
-    "tikName": "Туапсинская районная"
+    "tikName": "Туапсинская районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5313,
     "uikTvd": "4234056266649",
+    "uikName": "УИК №5313",
     "tikTvd": "22320002182667",
-    "tikName": "Туапсинская районная"
+    "tikName": "Туапсинская районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5314,
     "uikTvd": "4234056266650",
+    "uikName": "УИК №5314",
     "tikTvd": "22320002182667",
-    "tikName": "Туапсинская районная"
+    "tikName": "Туапсинская районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5315,
     "uikTvd": "4234056266651",
+    "uikName": "УИК №5315",
     "tikTvd": "22320002182667",
-    "tikName": "Туапсинская районная"
+    "tikName": "Туапсинская районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5316,
     "uikTvd": "4234056266652",
+    "uikName": "УИК №5316",
     "tikTvd": "22320002182667",
-    "tikName": "Туапсинская районная"
+    "tikName": "Туапсинская районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5317,
     "uikTvd": "4234056266653",
+    "uikName": "УИК №5317",
     "tikTvd": "22320002182667",
-    "tikName": "Туапсинская районная"
+    "tikName": "Туапсинская районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5318,
     "uikTvd": "4234056266654",
+    "uikName": "УИК №5318",
     "tikTvd": "22320002182667",
-    "tikName": "Туапсинская районная"
+    "tikName": "Туапсинская районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5319,
     "uikTvd": "4234056266655",
+    "uikName": "УИК №5319",
     "tikTvd": "22320002182667",
-    "tikName": "Туапсинская районная"
+    "tikName": "Туапсинская районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5320,
     "uikTvd": "4234056266656",
+    "uikName": "УИК №5320",
     "tikTvd": "22320002182667",
-    "tikName": "Туапсинская районная"
+    "tikName": "Туапсинская районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5321,
     "uikTvd": "4234056266657",
+    "uikName": "УИК №5321",
     "tikTvd": "22320002182667",
-    "tikName": "Туапсинская районная"
+    "tikName": "Туапсинская районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5322,
     "uikTvd": "4234056266658",
+    "uikName": "УИК №5322",
     "tikTvd": "22320002182667",
-    "tikName": "Туапсинская районная"
+    "tikName": "Туапсинская районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5323,
     "uikTvd": "4234056266659",
+    "uikName": "УИК №5323",
     "tikTvd": "22320002182667",
-    "tikName": "Туапсинская районная"
+    "tikName": "Туапсинская районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5324,
     "uikTvd": "4234056266660",
+    "uikName": "УИК №5324",
     "tikTvd": "22320002182667",
-    "tikName": "Туапсинская районная"
+    "tikName": "Туапсинская районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5325,
     "uikTvd": "4234056266661",
+    "uikName": "УИК №5325",
     "tikTvd": "22320002182667",
-    "tikName": "Туапсинская районная"
+    "tikName": "Туапсинская районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5326,
     "uikTvd": "4234056266662",
+    "uikName": "УИК №5326",
     "tikTvd": "22320002182667",
-    "tikName": "Туапсинская районная"
+    "tikName": "Туапсинская районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5327,
     "uikTvd": "4234056266663",
+    "uikName": "УИК №5327",
     "tikTvd": "22320002182667",
-    "tikName": "Туапсинская районная"
+    "tikName": "Туапсинская районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5328,
     "uikTvd": "4234056266664",
+    "uikName": "УИК №5328",
     "tikTvd": "22320002182667",
-    "tikName": "Туапсинская районная"
+    "tikName": "Туапсинская районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5329,
     "uikTvd": "4234056266665",
+    "uikName": "УИК №5329",
     "tikTvd": "22320002182667",
-    "tikName": "Туапсинская районная"
+    "tikName": "Туапсинская районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5330,
     "uikTvd": "4234056266666",
+    "uikName": "УИК №5330",
     "tikTvd": "22320002182667",
-    "tikName": "Туапсинская районная"
+    "tikName": "Туапсинская районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5331,
     "uikTvd": "4234056266667",
+    "uikName": "УИК №5331",
     "tikTvd": "22320002182667",
-    "tikName": "Туапсинская районная"
+    "tikName": "Туапсинская районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5332,
     "uikTvd": "4234056266668",
+    "uikName": "УИК №5332",
     "tikTvd": "22320002182667",
-    "tikName": "Туапсинская районная"
+    "tikName": "Туапсинская районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5333,
     "uikTvd": "4234056266669",
+    "uikName": "УИК №5333",
     "tikTvd": "22320002182667",
-    "tikName": "Туапсинская районная"
+    "tikName": "Туапсинская районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5334,
     "uikTvd": "4234056266670",
+    "uikName": "УИК №5334",
     "tikTvd": "22320002182667",
-    "tikName": "Туапсинская районная"
+    "tikName": "Туапсинская районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5335,
     "uikTvd": "4234056266671",
+    "uikName": "УИК №5335",
     "tikTvd": "22320002182667",
-    "tikName": "Туапсинская районная"
+    "tikName": "Туапсинская районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5336,
     "uikTvd": "4234056266672",
+    "uikName": "УИК №5336",
     "tikTvd": "22320002182667",
-    "tikName": "Туапсинская районная"
+    "tikName": "Туапсинская районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5337,
     "uikTvd": "4234056266673",
+    "uikName": "УИК №5337",
     "tikTvd": "22320002182667",
-    "tikName": "Туапсинская районная"
+    "tikName": "Туапсинская районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5338,
     "uikTvd": "4234056266674",
+    "uikName": "УИК №5338",
     "tikTvd": "22320002182667",
-    "tikName": "Туапсинская районная"
+    "tikName": "Туапсинская районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5339,
     "uikTvd": "4234056266675",
+    "uikName": "УИК №5339",
     "tikTvd": "22320002182667",
-    "tikName": "Туапсинская районная"
+    "tikName": "Туапсинская районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5340,
     "uikTvd": "4234056266676",
+    "uikName": "УИК №5340",
     "tikTvd": "22320002182667",
-    "tikName": "Туапсинская районная"
+    "tikName": "Туапсинская районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5341,
     "uikTvd": "4234056266677",
+    "uikName": "УИК №5341",
     "tikTvd": "22320002182667",
-    "tikName": "Туапсинская районная"
+    "tikName": "Туапсинская районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5342,
     "uikTvd": "4234056266678",
+    "uikName": "УИК №5342",
     "tikTvd": "22320002182667",
-    "tikName": "Туапсинская районная"
+    "tikName": "Туапсинская районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5343,
     "uikTvd": "4234056266679",
+    "uikName": "УИК №5343",
     "tikTvd": "22320002182667",
-    "tikName": "Туапсинская районная"
+    "tikName": "Туапсинская районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5344,
     "uikTvd": "4234056266680",
+    "uikName": "УИК №5344",
     "tikTvd": "22320002182667",
-    "tikName": "Туапсинская районная"
+    "tikName": "Туапсинская районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5345,
     "uikTvd": "4234056266681",
+    "uikName": "УИК №5345",
     "tikTvd": "22320002182667",
-    "tikName": "Туапсинская районная"
+    "tikName": "Туапсинская районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5346,
     "uikTvd": "4234056266682",
+    "uikName": "УИК №5346",
     "tikTvd": "22320002182667",
-    "tikName": "Туапсинская районная"
+    "tikName": "Туапсинская районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5347,
     "uikTvd": "4234056266683",
+    "uikName": "УИК №5347",
     "tikTvd": "22320002182667",
-    "tikName": "Туапсинская районная"
+    "tikName": "Туапсинская районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5348,
     "uikTvd": "4234056266684",
+    "uikName": "УИК №5348",
     "tikTvd": "22320002182667",
-    "tikName": "Туапсинская районная"
+    "tikName": "Туапсинская районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5349,
     "uikTvd": "4234056266685",
+    "uikName": "УИК №5349",
     "tikTvd": "22320002182667",
-    "tikName": "Туапсинская районная"
+    "tikName": "Туапсинская районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5350,
     "uikTvd": "4234056266686",
+    "uikName": "УИК №5350",
     "tikTvd": "22320002182667",
-    "tikName": "Туапсинская районная"
+    "tikName": "Туапсинская районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5351,
     "uikTvd": "4234056266687",
+    "uikName": "УИК №5351",
     "tikTvd": "22320002182667",
-    "tikName": "Туапсинская районная"
+    "tikName": "Туапсинская районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5352,
     "uikTvd": "4234056266688",
+    "uikName": "УИК №5352",
     "tikTvd": "22320002182667",
-    "tikName": "Туапсинская районная"
+    "tikName": "Туапсинская районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5353,
     "uikTvd": "4234056266689",
+    "uikName": "УИК №5353",
     "tikTvd": "22320002182667",
-    "tikName": "Туапсинская районная"
+    "tikName": "Туапсинская районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5354,
     "uikTvd": "4234056266690",
+    "uikName": "УИК №5354",
     "tikTvd": "22320002182667",
-    "tikName": "Туапсинская районная"
+    "tikName": "Туапсинская районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5355,
     "uikTvd": "4234056266691",
+    "uikName": "УИК №5355",
     "tikTvd": "22320002182667",
-    "tikName": "Туапсинская районная"
+    "tikName": "Туапсинская районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5356,
     "uikTvd": "4234056266692",
+    "uikName": "УИК №5356",
     "tikTvd": "22320002182667",
-    "tikName": "Туапсинская районная"
+    "tikName": "Туапсинская районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5357,
     "uikTvd": "4234056266693",
+    "uikName": "УИК №5357",
     "tikTvd": "22320002182667",
-    "tikName": "Туапсинская районная"
+    "tikName": "Туапсинская районная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5401,
     "uikTvd": "4234050174155",
+    "uikName": "УИК №5401",
     "tikTvd": "22320002182625",
-    "tikName": "Туапсинская городская"
+    "tikName": "Туапсинская городская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5402,
     "uikTvd": "4234050174156",
+    "uikName": "УИК №5402",
     "tikTvd": "22320002182625",
-    "tikName": "Туапсинская городская"
+    "tikName": "Туапсинская городская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5403,
     "uikTvd": "4234050174157",
+    "uikName": "УИК №5403",
     "tikTvd": "22320002182625",
-    "tikName": "Туапсинская городская"
+    "tikName": "Туапсинская городская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5404,
     "uikTvd": "4234050174158",
+    "uikName": "УИК №5404",
     "tikTvd": "22320002182625",
-    "tikName": "Туапсинская городская"
+    "tikName": "Туапсинская городская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5405,
     "uikTvd": "4234050174159",
+    "uikName": "УИК №5405",
     "tikTvd": "22320002182625",
-    "tikName": "Туапсинская городская"
+    "tikName": "Туапсинская городская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5406,
     "uikTvd": "4234050174160",
+    "uikName": "УИК №5406",
     "tikTvd": "22320002182625",
-    "tikName": "Туапсинская городская"
+    "tikName": "Туапсинская городская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5407,
     "uikTvd": "4234050174161",
+    "uikName": "УИК №5407",
     "tikTvd": "22320002182625",
-    "tikName": "Туапсинская городская"
+    "tikName": "Туапсинская городская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5408,
     "uikTvd": "4234050174162",
+    "uikName": "УИК №5408",
     "tikTvd": "22320002182625",
-    "tikName": "Туапсинская городская"
+    "tikName": "Туапсинская городская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5409,
     "uikTvd": "4234050174163",
+    "uikName": "УИК №5409",
     "tikTvd": "22320002182625",
-    "tikName": "Туапсинская городская"
+    "tikName": "Туапсинская городская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5410,
     "uikTvd": "4234050174164",
+    "uikName": "УИК №5410",
     "tikTvd": "22320002182625",
-    "tikName": "Туапсинская городская"
+    "tikName": "Туапсинская городская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5411,
     "uikTvd": "4234050174165",
+    "uikName": "УИК №5411",
     "tikTvd": "22320002182625",
-    "tikName": "Туапсинская городская"
+    "tikName": "Туапсинская городская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5412,
     "uikTvd": "4234050174166",
+    "uikName": "УИК №5412",
     "tikTvd": "22320002182625",
-    "tikName": "Туапсинская городская"
+    "tikName": "Туапсинская городская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5413,
     "uikTvd": "4234050174167",
+    "uikName": "УИК №5413",
     "tikTvd": "22320002182625",
-    "tikName": "Туапсинская городская"
+    "tikName": "Туапсинская городская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5414,
     "uikTvd": "4234050174168",
+    "uikName": "УИК №5414",
     "tikTvd": "22320002182625",
-    "tikName": "Туапсинская городская"
+    "tikName": "Туапсинская городская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5415,
     "uikTvd": "4234050174169",
+    "uikName": "УИК №5415",
     "tikTvd": "22320002182625",
-    "tikName": "Туапсинская городская"
+    "tikName": "Туапсинская городская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5416,
     "uikTvd": "4234050174170",
+    "uikName": "УИК №5416",
     "tikTvd": "22320002182625",
-    "tikName": "Туапсинская городская"
+    "tikName": "Туапсинская городская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5417,
     "uikTvd": "4234050174171",
+    "uikName": "УИК №5417",
     "tikTvd": "22320002182625",
-    "tikName": "Туапсинская городская"
+    "tikName": "Туапсинская городская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5418,
     "uikTvd": "4234050174172",
+    "uikName": "УИК №5418",
     "tikTvd": "22320002182625",
-    "tikName": "Туапсинская городская"
+    "tikName": "Туапсинская городская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5419,
     "uikTvd": "4234050174173",
+    "uikName": "УИК №5419",
     "tikTvd": "22320002182625",
-    "tikName": "Туапсинская городская"
+    "tikName": "Туапсинская городская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5420,
     "uikTvd": "4234050174174",
+    "uikName": "УИК №5420",
     "tikTvd": "22320002182625",
-    "tikName": "Туапсинская городская"
+    "tikName": "Туапсинская городская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5421,
     "uikTvd": "4234050174175",
+    "uikName": "УИК №5421",
     "tikTvd": "22320002182625",
-    "tikName": "Туапсинская городская"
+    "tikName": "Туапсинская городская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5422,
     "uikTvd": "4234050174176",
+    "uikName": "УИК №5422",
     "tikTvd": "22320002182625",
-    "tikName": "Туапсинская городская"
+    "tikName": "Туапсинская городская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5423,
     "uikTvd": "4234050174177",
+    "uikName": "УИК №5423",
     "tikTvd": "22320002182625",
-    "tikName": "Туапсинская городская"
+    "tikName": "Туапсинская городская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5424,
     "uikTvd": "4234050174178",
+    "uikName": "УИК №5424",
     "tikTvd": "22320002182625",
-    "tikName": "Туапсинская городская"
+    "tikName": "Туапсинская городская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5425,
     "uikTvd": "4234050174179",
+    "uikName": "УИК №5425",
     "tikTvd": "22320002182625",
-    "tikName": "Туапсинская городская"
+    "tikName": "Туапсинская городская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5426,
     "uikTvd": "4234050174180",
+    "uikName": "УИК №5426",
     "tikTvd": "22320002182625",
-    "tikName": "Туапсинская городская"
+    "tikName": "Туапсинская городская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5427,
     "uikTvd": "4234050174181",
+    "uikName": "УИК №5427",
     "tikTvd": "22320002182625",
-    "tikName": "Туапсинская городская"
+    "tikName": "Туапсинская городская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5428,
     "uikTvd": "4234050174182",
+    "uikName": "УИК №5428",
     "tikTvd": "22320002182625",
-    "tikName": "Туапсинская городская"
+    "tikName": "Туапсинская городская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5499,
     "uikTvd": "4234050174488",
+    "uikName": "УИК №5499",
     "tikTvd": "22320002182625",
-    "tikName": "Туапсинская городская"
+    "tikName": "Туапсинская городская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5501,
     "uikTvd": "4234051186773",
+    "uikName": "УИК №5501",
     "tikTvd": "22320002182631",
-    "tikName": "Успенская"
+    "tikName": "Успенская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5502,
     "uikTvd": "4234051186775",
+    "uikName": "УИК №5502",
     "tikTvd": "22320002182631",
-    "tikName": "Успенская"
+    "tikName": "Успенская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5503,
     "uikTvd": "4234051186776",
+    "uikName": "УИК №5503",
     "tikTvd": "22320002182631",
-    "tikName": "Успенская"
+    "tikName": "Успенская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5504,
     "uikTvd": "4234051186777",
+    "uikName": "УИК №5504",
     "tikTvd": "22320002182631",
-    "tikName": "Успенская"
+    "tikName": "Успенская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5505,
     "uikTvd": "4234051186778",
+    "uikName": "УИК №5505",
     "tikTvd": "22320002182631",
-    "tikName": "Успенская"
+    "tikName": "Успенская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5506,
     "uikTvd": "4234051186779",
+    "uikName": "УИК №5506",
     "tikTvd": "22320002182631",
-    "tikName": "Успенская"
+    "tikName": "Успенская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5507,
     "uikTvd": "4234051186780",
+    "uikName": "УИК №5507",
     "tikTvd": "22320002182631",
-    "tikName": "Успенская"
+    "tikName": "Успенская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5508,
     "uikTvd": "4234051186781",
+    "uikName": "УИК №5508",
     "tikTvd": "22320002182631",
-    "tikName": "Успенская"
+    "tikName": "Успенская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5509,
     "uikTvd": "4234051186782",
+    "uikName": "УИК №5509",
     "tikTvd": "22320002182631",
-    "tikName": "Успенская"
+    "tikName": "Успенская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5510,
     "uikTvd": "4234051186783",
+    "uikName": "УИК №5510",
     "tikTvd": "22320002182631",
-    "tikName": "Успенская"
+    "tikName": "Успенская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5511,
     "uikTvd": "4234051186784",
+    "uikName": "УИК №5511",
     "tikTvd": "22320002182631",
-    "tikName": "Успенская"
+    "tikName": "Успенская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5512,
     "uikTvd": "4234051186785",
+    "uikName": "УИК №5512",
     "tikTvd": "22320002182631",
-    "tikName": "Успенская"
+    "tikName": "Успенская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5513,
     "uikTvd": "4234051186786",
+    "uikName": "УИК №5513",
     "tikTvd": "22320002182631",
-    "tikName": "Успенская"
+    "tikName": "Успенская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5514,
     "uikTvd": "4234051186787",
+    "uikName": "УИК №5514",
     "tikTvd": "22320002182631",
-    "tikName": "Успенская"
+    "tikName": "Успенская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5515,
     "uikTvd": "4234051186788",
+    "uikName": "УИК №5515",
     "tikTvd": "22320002182631",
-    "tikName": "Успенская"
+    "tikName": "Успенская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5516,
     "uikTvd": "4234051186789",
+    "uikName": "УИК №5516",
     "tikTvd": "22320002182631",
-    "tikName": "Успенская"
+    "tikName": "Успенская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5517,
     "uikTvd": "4234051186790",
+    "uikName": "УИК №5517",
     "tikTvd": "22320002182631",
-    "tikName": "Успенская"
+    "tikName": "Успенская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5518,
     "uikTvd": "4234051186791",
+    "uikName": "УИК №5518",
     "tikTvd": "22320002182631",
-    "tikName": "Успенская"
+    "tikName": "Успенская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5519,
     "uikTvd": "4234051186792",
+    "uikName": "УИК №5519",
     "tikTvd": "22320002182631",
-    "tikName": "Успенская"
+    "tikName": "Успенская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5520,
     "uikTvd": "4234051186793",
+    "uikName": "УИК №5520",
     "tikTvd": "22320002182631",
-    "tikName": "Успенская"
+    "tikName": "Успенская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5521,
     "uikTvd": "4234051186794",
+    "uikName": "УИК №5521",
     "tikTvd": "22320002182631",
-    "tikName": "Успенская"
+    "tikName": "Успенская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5522,
     "uikTvd": "4234051186795",
+    "uikName": "УИК №5522",
     "tikTvd": "22320002182631",
-    "tikName": "Успенская"
+    "tikName": "Успенская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5523,
     "uikTvd": "4234051186796",
+    "uikName": "УИК №5523",
     "tikTvd": "22320002182631",
-    "tikName": "Успенская"
+    "tikName": "Успенская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5524,
     "uikTvd": "4234051186797",
+    "uikName": "УИК №5524",
     "tikTvd": "22320002182631",
-    "tikName": "Успенская"
+    "tikName": "Успенская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5525,
     "uikTvd": "4234051186798",
+    "uikName": "УИК №5525",
     "tikTvd": "22320002182631",
-    "tikName": "Успенская"
+    "tikName": "Успенская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5601,
     "uikTvd": "4234052255775",
+    "uikName": "УИК №5601",
     "tikTvd": "22320002182663",
-    "tikName": "Усть-Лабинская"
+    "tikName": "Усть-Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5602,
     "uikTvd": "4234052255776",
+    "uikName": "УИК №5602",
     "tikTvd": "22320002182663",
-    "tikName": "Усть-Лабинская"
+    "tikName": "Усть-Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5603,
     "uikTvd": "4234052255777",
+    "uikName": "УИК №5603",
     "tikTvd": "22320002182663",
-    "tikName": "Усть-Лабинская"
+    "tikName": "Усть-Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5604,
     "uikTvd": "4234052255778",
+    "uikName": "УИК №5604",
     "tikTvd": "22320002182663",
-    "tikName": "Усть-Лабинская"
+    "tikName": "Усть-Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5605,
     "uikTvd": "4234052255779",
+    "uikName": "УИК №5605",
     "tikTvd": "22320002182663",
-    "tikName": "Усть-Лабинская"
+    "tikName": "Усть-Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5606,
     "uikTvd": "4234052255780",
+    "uikName": "УИК №5606",
     "tikTvd": "22320002182663",
-    "tikName": "Усть-Лабинская"
+    "tikName": "Усть-Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5607,
     "uikTvd": "4234052255781",
+    "uikName": "УИК №5607",
     "tikTvd": "22320002182663",
-    "tikName": "Усть-Лабинская"
+    "tikName": "Усть-Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5608,
     "uikTvd": "4234052255782",
+    "uikName": "УИК №5608",
     "tikTvd": "22320002182663",
-    "tikName": "Усть-Лабинская"
+    "tikName": "Усть-Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5609,
     "uikTvd": "4234052255783",
+    "uikName": "УИК №5609",
     "tikTvd": "22320002182663",
-    "tikName": "Усть-Лабинская"
+    "tikName": "Усть-Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5610,
     "uikTvd": "4234052255784",
+    "uikName": "УИК №5610",
     "tikTvd": "22320002182663",
-    "tikName": "Усть-Лабинская"
+    "tikName": "Усть-Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5611,
     "uikTvd": "4234052255785",
+    "uikName": "УИК №5611",
     "tikTvd": "22320002182663",
-    "tikName": "Усть-Лабинская"
+    "tikName": "Усть-Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5612,
     "uikTvd": "4234052255786",
+    "uikName": "УИК №5612",
     "tikTvd": "22320002182663",
-    "tikName": "Усть-Лабинская"
+    "tikName": "Усть-Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5613,
     "uikTvd": "4234052255787",
+    "uikName": "УИК №5613",
     "tikTvd": "22320002182663",
-    "tikName": "Усть-Лабинская"
+    "tikName": "Усть-Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5614,
     "uikTvd": "4234052255788",
+    "uikName": "УИК №5614",
     "tikTvd": "22320002182663",
-    "tikName": "Усть-Лабинская"
+    "tikName": "Усть-Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5615,
     "uikTvd": "4234052255789",
+    "uikName": "УИК №5615",
     "tikTvd": "22320002182663",
-    "tikName": "Усть-Лабинская"
+    "tikName": "Усть-Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5616,
     "uikTvd": "4234052255790",
+    "uikName": "УИК №5616",
     "tikTvd": "22320002182663",
-    "tikName": "Усть-Лабинская"
+    "tikName": "Усть-Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5617,
     "uikTvd": "4234052255791",
+    "uikName": "УИК №5617",
     "tikTvd": "22320002182663",
-    "tikName": "Усть-Лабинская"
+    "tikName": "Усть-Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5618,
     "uikTvd": "4234052255792",
+    "uikName": "УИК №5618",
     "tikTvd": "22320002182663",
-    "tikName": "Усть-Лабинская"
+    "tikName": "Усть-Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5619,
     "uikTvd": "4234052255793",
+    "uikName": "УИК №5619",
     "tikTvd": "22320002182663",
-    "tikName": "Усть-Лабинская"
+    "tikName": "Усть-Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5620,
     "uikTvd": "4234052255794",
+    "uikName": "УИК №5620",
     "tikTvd": "22320002182663",
-    "tikName": "Усть-Лабинская"
+    "tikName": "Усть-Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5621,
     "uikTvd": "4234052255795",
+    "uikName": "УИК №5621",
     "tikTvd": "22320002182663",
-    "tikName": "Усть-Лабинская"
+    "tikName": "Усть-Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5622,
     "uikTvd": "4234052255796",
+    "uikName": "УИК №5622",
     "tikTvd": "22320002182663",
-    "tikName": "Усть-Лабинская"
+    "tikName": "Усть-Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5623,
     "uikTvd": "4234052255797",
+    "uikName": "УИК №5623",
     "tikTvd": "22320002182663",
-    "tikName": "Усть-Лабинская"
+    "tikName": "Усть-Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5624,
     "uikTvd": "4234052255798",
+    "uikName": "УИК №5624",
     "tikTvd": "22320002182663",
-    "tikName": "Усть-Лабинская"
+    "tikName": "Усть-Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5625,
     "uikTvd": "4234052255799",
+    "uikName": "УИК №5625",
     "tikTvd": "22320002182663",
-    "tikName": "Усть-Лабинская"
+    "tikName": "Усть-Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5626,
     "uikTvd": "4234052255800",
+    "uikName": "УИК №5626",
     "tikTvd": "22320002182663",
-    "tikName": "Усть-Лабинская"
+    "tikName": "Усть-Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5627,
     "uikTvd": "4234052255801",
+    "uikName": "УИК №5627",
     "tikTvd": "22320002182663",
-    "tikName": "Усть-Лабинская"
+    "tikName": "Усть-Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5628,
     "uikTvd": "4234052255802",
+    "uikName": "УИК №5628",
     "tikTvd": "22320002182663",
-    "tikName": "Усть-Лабинская"
+    "tikName": "Усть-Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5629,
     "uikTvd": "4234052255803",
+    "uikName": "УИК №5629",
     "tikTvd": "22320002182663",
-    "tikName": "Усть-Лабинская"
+    "tikName": "Усть-Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5630,
     "uikTvd": "4234052255804",
+    "uikName": "УИК №5630",
     "tikTvd": "22320002182663",
-    "tikName": "Усть-Лабинская"
+    "tikName": "Усть-Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5631,
     "uikTvd": "4234052255805",
+    "uikName": "УИК №5631",
     "tikTvd": "22320002182663",
-    "tikName": "Усть-Лабинская"
+    "tikName": "Усть-Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5632,
     "uikTvd": "4234052255806",
+    "uikName": "УИК №5632",
     "tikTvd": "22320002182663",
-    "tikName": "Усть-Лабинская"
+    "tikName": "Усть-Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5633,
     "uikTvd": "4234052255807",
+    "uikName": "УИК №5633",
     "tikTvd": "22320002182663",
-    "tikName": "Усть-Лабинская"
+    "tikName": "Усть-Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5634,
     "uikTvd": "4234052255808",
+    "uikName": "УИК №5634",
     "tikTvd": "22320002182663",
-    "tikName": "Усть-Лабинская"
+    "tikName": "Усть-Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5635,
     "uikTvd": "4234052255809",
+    "uikName": "УИК №5635",
     "tikTvd": "22320002182663",
-    "tikName": "Усть-Лабинская"
+    "tikName": "Усть-Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5636,
     "uikTvd": "4234052255810",
+    "uikName": "УИК №5636",
     "tikTvd": "22320002182663",
-    "tikName": "Усть-Лабинская"
+    "tikName": "Усть-Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5637,
     "uikTvd": "4234052255811",
+    "uikName": "УИК №5637",
     "tikTvd": "22320002182663",
-    "tikName": "Усть-Лабинская"
+    "tikName": "Усть-Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5638,
     "uikTvd": "4234052255812",
+    "uikName": "УИК №5638",
     "tikTvd": "22320002182663",
-    "tikName": "Усть-Лабинская"
+    "tikName": "Усть-Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5639,
     "uikTvd": "4234052255813",
+    "uikName": "УИК №5639",
     "tikTvd": "22320002182663",
-    "tikName": "Усть-Лабинская"
+    "tikName": "Усть-Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5640,
     "uikTvd": "4234052255814",
+    "uikName": "УИК №5640",
     "tikTvd": "22320002182663",
-    "tikName": "Усть-Лабинская"
+    "tikName": "Усть-Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5641,
     "uikTvd": "4234052255815",
+    "uikName": "УИК №5641",
     "tikTvd": "22320002182663",
-    "tikName": "Усть-Лабинская"
+    "tikName": "Усть-Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5642,
     "uikTvd": "4234052255816",
+    "uikName": "УИК №5642",
     "tikTvd": "22320002182663",
-    "tikName": "Усть-Лабинская"
+    "tikName": "Усть-Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5643,
     "uikTvd": "4234052255817",
+    "uikName": "УИК №5643",
     "tikTvd": "22320002182663",
-    "tikName": "Усть-Лабинская"
+    "tikName": "Усть-Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5644,
     "uikTvd": "4234052255818",
+    "uikName": "УИК №5644",
     "tikTvd": "22320002182663",
-    "tikName": "Усть-Лабинская"
+    "tikName": "Усть-Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5645,
     "uikTvd": "4234052255819",
+    "uikName": "УИК №5645",
     "tikTvd": "22320002182663",
-    "tikName": "Усть-Лабинская"
+    "tikName": "Усть-Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5646,
     "uikTvd": "4234052255820",
+    "uikName": "УИК №5646",
     "tikTvd": "22320002182663",
-    "tikName": "Усть-Лабинская"
+    "tikName": "Усть-Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5647,
     "uikTvd": "4234052255821",
+    "uikName": "УИК №5647",
     "tikTvd": "22320002182663",
-    "tikName": "Усть-Лабинская"
+    "tikName": "Усть-Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5648,
     "uikTvd": "4234052255822",
+    "uikName": "УИК №5648",
     "tikTvd": "22320002182663",
-    "tikName": "Усть-Лабинская"
+    "tikName": "Усть-Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5649,
     "uikTvd": "4234052255823",
+    "uikName": "УИК №5649",
     "tikTvd": "22320002182663",
-    "tikName": "Усть-Лабинская"
+    "tikName": "Усть-Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5650,
     "uikTvd": "4234052255824",
+    "uikName": "УИК №5650",
     "tikTvd": "22320002182663",
-    "tikName": "Усть-Лабинская"
+    "tikName": "Усть-Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5651,
     "uikTvd": "4234052255825",
+    "uikName": "УИК №5651",
     "tikTvd": "22320002182663",
-    "tikName": "Усть-Лабинская"
+    "tikName": "Усть-Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5652,
     "uikTvd": "4234052255826",
+    "uikName": "УИК №5652",
     "tikTvd": "22320002182663",
-    "tikName": "Усть-Лабинская"
+    "tikName": "Усть-Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5653,
     "uikTvd": "4234052255827",
+    "uikName": "УИК №5653",
     "tikTvd": "22320002182663",
-    "tikName": "Усть-Лабинская"
+    "tikName": "Усть-Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5654,
     "uikTvd": "4234052255828",
+    "uikName": "УИК №5654",
     "tikTvd": "22320002182663",
-    "tikName": "Усть-Лабинская"
+    "tikName": "Усть-Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5655,
     "uikTvd": "4234052255829",
+    "uikName": "УИК №5655",
     "tikTvd": "22320002182663",
-    "tikName": "Усть-Лабинская"
+    "tikName": "Усть-Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5657,
     "uikTvd": "4234052255830",
+    "uikName": "УИК №5657",
     "tikTvd": "22320002182663",
-    "tikName": "Усть-Лабинская"
+    "tikName": "Усть-Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5658,
     "uikTvd": "4234052255831",
+    "uikName": "УИК №5658",
     "tikTvd": "22320002182663",
-    "tikName": "Усть-Лабинская"
+    "tikName": "Усть-Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5659,
     "uikTvd": "4234052255832",
+    "uikName": "УИК №5659",
     "tikTvd": "22320002182663",
-    "tikName": "Усть-Лабинская"
+    "tikName": "Усть-Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5660,
     "uikTvd": "4234052255833",
+    "uikName": "УИК №5660",
     "tikTvd": "22320002182663",
-    "tikName": "Усть-Лабинская"
+    "tikName": "Усть-Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5661,
     "uikTvd": "4234052255834",
+    "uikName": "УИК №5661",
     "tikTvd": "22320002182663",
-    "tikName": "Усть-Лабинская"
+    "tikName": "Усть-Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5662,
     "uikTvd": "4234052255835",
+    "uikName": "УИК №5662",
     "tikTvd": "22320002182663",
-    "tikName": "Усть-Лабинская"
+    "tikName": "Усть-Лабинская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5701,
     "uikTvd": "4234053160170",
+    "uikName": "УИК №5701",
     "tikTvd": "22320002182643",
-    "tikName": "Щербиновская"
+    "tikName": "Щербиновская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5702,
     "uikTvd": "4234053160171",
+    "uikName": "УИК №5702",
     "tikTvd": "22320002182643",
-    "tikName": "Щербиновская"
+    "tikName": "Щербиновская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5703,
     "uikTvd": "4234053160172",
+    "uikName": "УИК №5703",
     "tikTvd": "22320002182643",
-    "tikName": "Щербиновская"
+    "tikName": "Щербиновская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5704,
     "uikTvd": "4234053160173",
+    "uikName": "УИК №5704",
     "tikTvd": "22320002182643",
-    "tikName": "Щербиновская"
+    "tikName": "Щербиновская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5705,
     "uikTvd": "4234053160174",
+    "uikName": "УИК №5705",
     "tikTvd": "22320002182643",
-    "tikName": "Щербиновская"
+    "tikName": "Щербиновская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5706,
     "uikTvd": "4234053160175",
+    "uikName": "УИК №5706",
     "tikTvd": "22320002182643",
-    "tikName": "Щербиновская"
+    "tikName": "Щербиновская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5707,
     "uikTvd": "4234053160176",
+    "uikName": "УИК №5707",
     "tikTvd": "22320002182643",
-    "tikName": "Щербиновская"
+    "tikName": "Щербиновская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5708,
     "uikTvd": "4234053160177",
+    "uikName": "УИК №5708",
     "tikTvd": "22320002182643",
-    "tikName": "Щербиновская"
+    "tikName": "Щербиновская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5709,
     "uikTvd": "4234053160178",
+    "uikName": "УИК №5709",
     "tikTvd": "22320002182643",
-    "tikName": "Щербиновская"
+    "tikName": "Щербиновская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5710,
     "uikTvd": "4234053160179",
+    "uikName": "УИК №5710",
     "tikTvd": "22320002182643",
-    "tikName": "Щербиновская"
+    "tikName": "Щербиновская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5711,
     "uikTvd": "4234053160180",
+    "uikName": "УИК №5711",
     "tikTvd": "22320002182643",
-    "tikName": "Щербиновская"
+    "tikName": "Щербиновская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5712,
     "uikTvd": "4234053160181",
+    "uikName": "УИК №5712",
     "tikTvd": "22320002182643",
-    "tikName": "Щербиновская"
+    "tikName": "Щербиновская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5713,
     "uikTvd": "4234053160182",
+    "uikName": "УИК №5713",
     "tikTvd": "22320002182643",
-    "tikName": "Щербиновская"
+    "tikName": "Щербиновская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5714,
     "uikTvd": "4234053160183",
+    "uikName": "УИК №5714",
     "tikTvd": "22320002182643",
-    "tikName": "Щербиновская"
+    "tikName": "Щербиновская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5715,
     "uikTvd": "4234053160184",
+    "uikName": "УИК №5715",
     "tikTvd": "22320002182643",
-    "tikName": "Щербиновская"
+    "tikName": "Щербиновская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5716,
     "uikTvd": "4234053160185",
+    "uikName": "УИК №5716",
     "tikTvd": "22320002182643",
-    "tikName": "Щербиновская"
+    "tikName": "Щербиновская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5717,
     "uikTvd": "4234053160186",
+    "uikName": "УИК №5717",
     "tikTvd": "22320002182643",
-    "tikName": "Щербиновская"
+    "tikName": "Щербиновская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5718,
     "uikTvd": "4234053160187",
+    "uikName": "УИК №5718",
     "tikTvd": "22320002182643",
-    "tikName": "Щербиновская"
+    "tikName": "Щербиновская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5801,
     "uikTvd": "4234058136102",
+    "uikName": "УИК №5801",
     "tikTvd": "22320002182628",
-    "tikName": "Новороссийск, Южная"
+    "tikName": "Новороссийск, Южная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5802,
     "uikTvd": "4234058136103",
+    "uikName": "УИК №5802",
     "tikTvd": "22320002182628",
-    "tikName": "Новороссийск, Южная"
+    "tikName": "Новороссийск, Южная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5803,
     "uikTvd": "4234058136104",
+    "uikName": "УИК №5803",
     "tikTvd": "22320002182628",
-    "tikName": "Новороссийск, Южная"
+    "tikName": "Новороссийск, Южная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5804,
     "uikTvd": "4234058136105",
+    "uikName": "УИК №5804",
     "tikTvd": "22320002182628",
-    "tikName": "Новороссийск, Южная"
+    "tikName": "Новороссийск, Южная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5805,
     "uikTvd": "4234058136106",
+    "uikName": "УИК №5805",
     "tikTvd": "22320002182628",
-    "tikName": "Новороссийск, Южная"
+    "tikName": "Новороссийск, Южная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5806,
     "uikTvd": "4234058136107",
+    "uikName": "УИК №5806",
     "tikTvd": "22320002182628",
-    "tikName": "Новороссийск, Южная"
+    "tikName": "Новороссийск, Южная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5807,
     "uikTvd": "4234058136108",
+    "uikName": "УИК №5807",
     "tikTvd": "22320002182628",
-    "tikName": "Новороссийск, Южная"
+    "tikName": "Новороссийск, Южная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5808,
     "uikTvd": "4234058136109",
+    "uikName": "УИК №5808",
     "tikTvd": "22320002182628",
-    "tikName": "Новороссийск, Южная"
+    "tikName": "Новороссийск, Южная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5809,
     "uikTvd": "4234058136110",
+    "uikName": "УИК №5809",
     "tikTvd": "22320002182628",
-    "tikName": "Новороссийск, Южная"
+    "tikName": "Новороссийск, Южная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5810,
     "uikTvd": "4234058136111",
+    "uikName": "УИК №5810",
     "tikTvd": "22320002182628",
-    "tikName": "Новороссийск, Южная"
+    "tikName": "Новороссийск, Южная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5811,
     "uikTvd": "4234058136112",
+    "uikName": "УИК №5811",
     "tikTvd": "22320002182628",
-    "tikName": "Новороссийск, Южная"
+    "tikName": "Новороссийск, Южная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5812,
     "uikTvd": "4234058136113",
+    "uikName": "УИК №5812",
     "tikTvd": "22320002182628",
-    "tikName": "Новороссийск, Южная"
+    "tikName": "Новороссийск, Южная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5813,
     "uikTvd": "4234058136114",
+    "uikName": "УИК №5813",
     "tikTvd": "22320002182628",
-    "tikName": "Новороссийск, Южная"
+    "tikName": "Новороссийск, Южная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5814,
     "uikTvd": "4234058136115",
+    "uikName": "УИК №5814",
     "tikTvd": "22320002182628",
-    "tikName": "Новороссийск, Южная"
+    "tikName": "Новороссийск, Южная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5815,
     "uikTvd": "4234058136116",
+    "uikName": "УИК №5815",
     "tikTvd": "22320002182628",
-    "tikName": "Новороссийск, Южная"
+    "tikName": "Новороссийск, Южная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5816,
     "uikTvd": "4234058136117",
+    "uikName": "УИК №5816",
     "tikTvd": "22320002182628",
-    "tikName": "Новороссийск, Южная"
+    "tikName": "Новороссийск, Южная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5817,
     "uikTvd": "4234058136118",
+    "uikName": "УИК №5817",
     "tikTvd": "22320002182628",
-    "tikName": "Новороссийск, Южная"
+    "tikName": "Новороссийск, Южная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5818,
     "uikTvd": "4234058136119",
+    "uikName": "УИК №5818",
     "tikTvd": "22320002182628",
-    "tikName": "Новороссийск, Южная"
+    "tikName": "Новороссийск, Южная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5819,
     "uikTvd": "4234058136120",
+    "uikName": "УИК №5819",
     "tikTvd": "22320002182628",
-    "tikName": "Новороссийск, Южная"
+    "tikName": "Новороссийск, Южная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5820,
     "uikTvd": "4234058136121",
+    "uikName": "УИК №5820",
     "tikTvd": "22320002182628",
-    "tikName": "Новороссийск, Южная"
+    "tikName": "Новороссийск, Южная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5821,
     "uikTvd": "4234058136122",
+    "uikName": "УИК №5821",
     "tikTvd": "22320002182628",
-    "tikName": "Новороссийск, Южная"
+    "tikName": "Новороссийск, Южная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5822,
     "uikTvd": "4234058136123",
+    "uikName": "УИК №5822",
     "tikTvd": "22320002182628",
-    "tikName": "Новороссийск, Южная"
+    "tikName": "Новороссийск, Южная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5823,
     "uikTvd": "4234058136124",
+    "uikName": "УИК №5823",
     "tikTvd": "22320002182628",
-    "tikName": "Новороссийск, Южная"
+    "tikName": "Новороссийск, Южная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5824,
     "uikTvd": "4234058136125",
+    "uikName": "УИК №5824",
     "tikTvd": "22320002182628",
-    "tikName": "Новороссийск, Южная"
+    "tikName": "Новороссийск, Южная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5825,
     "uikTvd": "4234058136126",
+    "uikName": "УИК №5825",
     "tikTvd": "22320002182628",
-    "tikName": "Новороссийск, Южная"
+    "tikName": "Новороссийск, Южная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5901,
     "uikTvd": "4234059121539",
+    "uikName": "УИК №5901",
     "tikTvd": "22320002182669",
-    "tikName": "Новороссийск, Пригородная"
+    "tikName": "Новороссийск, Пригородная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5902,
     "uikTvd": "4234059121540",
+    "uikName": "УИК №5902",
     "tikTvd": "22320002182669",
-    "tikName": "Новороссийск, Пригородная"
+    "tikName": "Новороссийск, Пригородная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5903,
     "uikTvd": "4234059121541",
+    "uikName": "УИК №5903",
     "tikTvd": "22320002182669",
-    "tikName": "Новороссийск, Пригородная"
+    "tikName": "Новороссийск, Пригородная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5904,
     "uikTvd": "4234059121542",
+    "uikName": "УИК №5904",
     "tikTvd": "22320002182669",
-    "tikName": "Новороссийск, Пригородная"
+    "tikName": "Новороссийск, Пригородная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5905,
     "uikTvd": "4234059121543",
+    "uikName": "УИК №5905",
     "tikTvd": "22320002182669",
-    "tikName": "Новороссийск, Пригородная"
+    "tikName": "Новороссийск, Пригородная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5906,
     "uikTvd": "4234059121544",
+    "uikName": "УИК №5906",
     "tikTvd": "22320002182669",
-    "tikName": "Новороссийск, Пригородная"
+    "tikName": "Новороссийск, Пригородная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5907,
     "uikTvd": "4234059121545",
+    "uikName": "УИК №5907",
     "tikTvd": "22320002182669",
-    "tikName": "Новороссийск, Пригородная"
+    "tikName": "Новороссийск, Пригородная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5908,
     "uikTvd": "4234059121546",
+    "uikName": "УИК №5908",
     "tikTvd": "22320002182669",
-    "tikName": "Новороссийск, Пригородная"
+    "tikName": "Новороссийск, Пригородная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5909,
     "uikTvd": "4234059121547",
+    "uikName": "УИК №5909",
     "tikTvd": "22320002182669",
-    "tikName": "Новороссийск, Пригородная"
+    "tikName": "Новороссийск, Пригородная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5910,
     "uikTvd": "4234059121548",
+    "uikName": "УИК №5910",
     "tikTvd": "22320002182669",
-    "tikName": "Новороссийск, Пригородная"
+    "tikName": "Новороссийск, Пригородная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5911,
     "uikTvd": "4234059121549",
+    "uikName": "УИК №5911",
     "tikTvd": "22320002182669",
-    "tikName": "Новороссийск, Пригородная"
+    "tikName": "Новороссийск, Пригородная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5912,
     "uikTvd": "4234059121550",
+    "uikName": "УИК №5912",
     "tikTvd": "22320002182669",
-    "tikName": "Новороссийск, Пригородная"
+    "tikName": "Новороссийск, Пригородная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5913,
     "uikTvd": "4234059121551",
+    "uikName": "УИК №5913",
     "tikTvd": "22320002182669",
-    "tikName": "Новороссийск, Пригородная"
+    "tikName": "Новороссийск, Пригородная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5914,
     "uikTvd": "4234059121552",
+    "uikName": "УИК №5914",
     "tikTvd": "22320002182669",
-    "tikName": "Новороссийск, Пригородная"
+    "tikName": "Новороссийск, Пригородная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5915,
     "uikTvd": "4234059121553",
+    "uikName": "УИК №5915",
     "tikTvd": "22320002182669",
-    "tikName": "Новороссийск, Пригородная"
+    "tikName": "Новороссийск, Пригородная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5916,
     "uikTvd": "4234059121554",
+    "uikName": "УИК №5916",
     "tikTvd": "22320002182669",
-    "tikName": "Новороссийск, Пригородная"
+    "tikName": "Новороссийск, Пригородная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5917,
     "uikTvd": "4234059121555",
+    "uikName": "УИК №5917",
     "tikTvd": "22320002182669",
-    "tikName": "Новороссийск, Пригородная"
+    "tikName": "Новороссийск, Пригородная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5918,
     "uikTvd": "4234059121556",
+    "uikName": "УИК №5918",
     "tikTvd": "22320002182669",
-    "tikName": "Новороссийск, Пригородная"
+    "tikName": "Новороссийск, Пригородная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5919,
     "uikTvd": "4234059121557",
+    "uikName": "УИК №5919",
     "tikTvd": "22320002182669",
-    "tikName": "Новороссийск, Пригородная"
+    "tikName": "Новороссийск, Пригородная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5920,
     "uikTvd": "4234059121558",
+    "uikName": "УИК №5920",
     "tikTvd": "22320002182669",
-    "tikName": "Новороссийск, Пригородная"
+    "tikName": "Новороссийск, Пригородная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5921,
     "uikTvd": "4234059121559",
+    "uikName": "УИК №5921",
     "tikTvd": "22320002182669",
-    "tikName": "Новороссийск, Пригородная"
+    "tikName": "Новороссийск, Пригородная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5922,
     "uikTvd": "4234059121560",
+    "uikName": "УИК №5922",
     "tikTvd": "22320002182669",
-    "tikName": "Новороссийск, Пригородная"
+    "tikName": "Новороссийск, Пригородная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5923,
     "uikTvd": "4234059121561",
+    "uikName": "УИК №5923",
     "tikTvd": "22320002182669",
-    "tikName": "Новороссийск, Пригородная"
+    "tikName": "Новороссийск, Пригородная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5924,
     "uikTvd": "4234059121562",
+    "uikName": "УИК №5924",
     "tikTvd": "22320002182669",
-    "tikName": "Новороссийск, Пригородная"
+    "tikName": "Новороссийск, Пригородная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5925,
     "uikTvd": "4234059121563",
+    "uikName": "УИК №5925",
     "tikTvd": "22320002182669",
-    "tikName": "Новороссийск, Пригородная"
+    "tikName": "Новороссийск, Пригородная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5926,
     "uikTvd": "4234059121564",
+    "uikName": "УИК №5926",
     "tikTvd": "22320002182669",
-    "tikName": "Новороссийск, Пригородная"
+    "tikName": "Новороссийск, Пригородная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5927,
     "uikTvd": "4234059121565",
+    "uikName": "УИК №5927",
     "tikTvd": "22320002182669",
-    "tikName": "Новороссийск, Пригородная"
+    "tikName": "Новороссийск, Пригородная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 5928,
     "uikTvd": "4234059121566",
+    "uikName": "УИК №5928",
     "tikTvd": "22320002182669",
-    "tikName": "Новороссийск, Пригородная"
+    "tikName": "Новороссийск, Пригородная",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 6001,
     "uikTvd": "423406078157",
+    "uikName": "УИК №6001",
     "tikTvd": "22320002182649",
-    "tikName": "Краснодар, Калининская"
+    "tikName": "Краснодар, Калининская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 6002,
     "uikTvd": "423406078158",
+    "uikName": "УИК №6002",
     "tikTvd": "22320002182649",
-    "tikName": "Краснодар, Калининская"
+    "tikName": "Краснодар, Калининская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 6003,
     "uikTvd": "423406078159",
+    "uikName": "УИК №6003",
     "tikTvd": "22320002182649",
-    "tikName": "Краснодар, Калининская"
+    "tikName": "Краснодар, Калининская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 6004,
     "uikTvd": "423406078160",
+    "uikName": "УИК №6004",
     "tikTvd": "22320002182649",
-    "tikName": "Краснодар, Калининская"
+    "tikName": "Краснодар, Калининская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 6005,
     "uikTvd": "423406078161",
+    "uikName": "УИК №6005",
     "tikTvd": "22320002182649",
-    "tikName": "Краснодар, Калининская"
+    "tikName": "Краснодар, Калининская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 6006,
     "uikTvd": "423406078162",
+    "uikName": "УИК №6006",
     "tikTvd": "22320002182649",
-    "tikName": "Краснодар, Калининская"
+    "tikName": "Краснодар, Калининская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 6007,
     "uikTvd": "423406078163",
+    "uikName": "УИК №6007",
     "tikTvd": "22320002182649",
-    "tikName": "Краснодар, Калининская"
+    "tikName": "Краснодар, Калининская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 6008,
     "uikTvd": "423406078164",
+    "uikName": "УИК №6008",
     "tikTvd": "22320002182649",
-    "tikName": "Краснодар, Калининская"
+    "tikName": "Краснодар, Калининская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 6009,
     "uikTvd": "423406078165",
+    "uikName": "УИК №6009",
     "tikTvd": "22320002182649",
-    "tikName": "Краснодар, Калининская"
+    "tikName": "Краснодар, Калининская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 6010,
     "uikTvd": "423406078166",
+    "uikName": "УИК №6010",
     "tikTvd": "22320002182649",
-    "tikName": "Краснодар, Калининская"
+    "tikName": "Краснодар, Калининская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 6011,
     "uikTvd": "423406078167",
+    "uikName": "УИК №6011",
     "tikTvd": "22320002182649",
-    "tikName": "Краснодар, Калининская"
+    "tikName": "Краснодар, Калининская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 6012,
     "uikTvd": "423406078168",
+    "uikName": "УИК №6012",
     "tikTvd": "22320002182649",
-    "tikName": "Краснодар, Калининская"
+    "tikName": "Краснодар, Калининская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 6013,
     "uikTvd": "423406078169",
+    "uikName": "УИК №6013",
     "tikTvd": "22320002182649",
-    "tikName": "Краснодар, Калининская"
+    "tikName": "Краснодар, Калининская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 6014,
     "uikTvd": "423406078170",
+    "uikName": "УИК №6014",
     "tikTvd": "22320002182649",
-    "tikName": "Краснодар, Калининская"
+    "tikName": "Краснодар, Калининская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 6015,
     "uikTvd": "423406078171",
+    "uikName": "УИК №6015",
     "tikTvd": "22320002182649",
-    "tikName": "Краснодар, Калининская"
+    "tikName": "Краснодар, Калининская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 6016,
     "uikTvd": "423406078172",
+    "uikName": "УИК №6016",
     "tikTvd": "22320002182649",
-    "tikName": "Краснодар, Калининская"
+    "tikName": "Краснодар, Калининская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 6017,
     "uikTvd": "423406078173",
+    "uikName": "УИК №6017",
     "tikTvd": "22320002182649",
-    "tikName": "Краснодар, Калининская"
+    "tikName": "Краснодар, Калининская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 6018,
     "uikTvd": "423406078174",
+    "uikName": "УИК №6018",
     "tikTvd": "22320002182649",
-    "tikName": "Краснодар, Калининская"
+    "tikName": "Краснодар, Калининская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 6019,
     "uikTvd": "423406078175",
+    "uikName": "УИК №6019",
     "tikTvd": "22320002182649",
-    "tikName": "Краснодар, Калининская"
+    "tikName": "Краснодар, Калининская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 6020,
     "uikTvd": "423406078176",
+    "uikName": "УИК №6020",
     "tikTvd": "22320002182649",
-    "tikName": "Краснодар, Калининская"
+    "tikName": "Краснодар, Калининская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 6021,
     "uikTvd": "423406078177",
+    "uikName": "УИК №6021",
     "tikTvd": "22320002182649",
-    "tikName": "Краснодар, Калининская"
+    "tikName": "Краснодар, Калининская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 6022,
     "uikTvd": "423406078178",
+    "uikName": "УИК №6022",
     "tikTvd": "22320002182649",
-    "tikName": "Краснодар, Калининская"
+    "tikName": "Краснодар, Калининская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 6023,
     "uikTvd": "423406078179",
+    "uikName": "УИК №6023",
     "tikTvd": "22320002182649",
-    "tikName": "Краснодар, Калининская"
+    "tikName": "Краснодар, Калининская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 6024,
     "uikTvd": "423406078180",
+    "uikName": "УИК №6024",
     "tikTvd": "22320002182649",
-    "tikName": "Краснодар, Калининская"
+    "tikName": "Краснодар, Калининская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 6025,
     "uikTvd": "423406078181",
+    "uikName": "УИК №6025",
     "tikTvd": "22320002182649",
-    "tikName": "Краснодар, Калининская"
+    "tikName": "Краснодар, Калининская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 6026,
     "uikTvd": "423406078182",
+    "uikName": "УИК №6026",
     "tikTvd": "22320002182649",
-    "tikName": "Краснодар, Калининская"
+    "tikName": "Краснодар, Калининская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 6027,
     "uikTvd": "423406078183",
+    "uikName": "УИК №6027",
     "tikTvd": "22320002182649",
-    "tikName": "Краснодар, Калининская"
+    "tikName": "Краснодар, Калининская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 6028,
     "uikTvd": "423406078184",
+    "uikName": "УИК №6028",
     "tikTvd": "22320002182649",
-    "tikName": "Краснодар, Калининская"
+    "tikName": "Краснодар, Калининская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 6029,
     "uikTvd": "423406078185",
+    "uikName": "УИК №6029",
     "tikTvd": "22320002182649",
-    "tikName": "Краснодар, Калининская"
+    "tikName": "Краснодар, Калининская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 6030,
     "uikTvd": "423406078186",
+    "uikName": "УИК №6030",
     "tikTvd": "22320002182649",
-    "tikName": "Краснодар, Калининская"
+    "tikName": "Краснодар, Калининская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 6031,
     "uikTvd": "423406078187",
+    "uikName": "УИК №6031",
     "tikTvd": "22320002182649",
-    "tikName": "Краснодар, Калининская"
+    "tikName": "Краснодар, Калининская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 6032,
     "uikTvd": "423406078188",
+    "uikName": "УИК №6032",
     "tikTvd": "22320002182649",
-    "tikName": "Краснодар, Калининская"
+    "tikName": "Краснодар, Калининская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 6033,
     "uikTvd": "423406078189",
+    "uikName": "УИК №6033",
     "tikTvd": "22320002182649",
-    "tikName": "Краснодар, Калининская"
+    "tikName": "Краснодар, Калининская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 6034,
     "uikTvd": "423406078190",
+    "uikName": "УИК №6034",
     "tikTvd": "22320002182649",
-    "tikName": "Краснодар, Калининская"
+    "tikName": "Краснодар, Калининская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 6035,
     "uikTvd": "423406078191",
+    "uikName": "УИК №6035",
     "tikTvd": "22320002182649",
-    "tikName": "Краснодар, Калининская"
+    "tikName": "Краснодар, Калининская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 6036,
     "uikTvd": "423406078192",
+    "uikName": "УИК №6036",
     "tikTvd": "22320002182649",
-    "tikName": "Краснодар, Калининская"
+    "tikName": "Краснодар, Калининская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 6037,
     "uikTvd": "423406078193",
+    "uikName": "УИК №6037",
     "tikTvd": "22320002182649",
-    "tikName": "Краснодар, Калининская"
+    "tikName": "Краснодар, Калининская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 6038,
     "uikTvd": "423406078194",
+    "uikName": "УИК №6038",
     "tikTvd": "22320002182649",
-    "tikName": "Краснодар, Калининская"
+    "tikName": "Краснодар, Калининская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 6039,
     "uikTvd": "423406078195",
+    "uikName": "УИК №6039",
     "tikTvd": "22320002182649",
-    "tikName": "Краснодар, Калининская"
+    "tikName": "Краснодар, Калининская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 6040,
     "uikTvd": "423406078196",
+    "uikName": "УИК №6040",
     "tikTvd": "22320002182649",
-    "tikName": "Краснодар, Калининская"
+    "tikName": "Краснодар, Калининская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 6041,
     "uikTvd": "423406078197",
+    "uikName": "УИК №6041",
     "tikTvd": "22320002182649",
-    "tikName": "Краснодар, Калининская"
+    "tikName": "Краснодар, Калининская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 6042,
     "uikTvd": "423406078198",
+    "uikName": "УИК №6042",
     "tikTvd": "22320002182649",
-    "tikName": "Краснодар, Калининская"
+    "tikName": "Краснодар, Калининская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 6043,
     "uikTvd": "423406078199",
+    "uikName": "УИК №6043",
     "tikTvd": "22320002182649",
-    "tikName": "Краснодар, Калининская"
+    "tikName": "Краснодар, Калининская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 6044,
     "uikTvd": "423406078200",
+    "uikName": "УИК №6044",
     "tikTvd": "22320002182649",
-    "tikName": "Краснодар, Калининская"
+    "tikName": "Краснодар, Калининская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 6045,
     "uikTvd": "423406078201",
+    "uikName": "УИК №6045",
     "tikTvd": "22320002182649",
-    "tikName": "Краснодар, Калининская"
+    "tikName": "Краснодар, Калининская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 6046,
     "uikTvd": "423406078202",
+    "uikName": "УИК №6046",
     "tikTvd": "22320002182649",
-    "tikName": "Краснодар, Калининская"
+    "tikName": "Краснодар, Калининская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 6047,
     "uikTvd": "423406078203",
+    "uikName": "УИК №6047",
     "tikTvd": "22320002182649",
-    "tikName": "Краснодар, Калининская"
+    "tikName": "Краснодар, Калининская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 6048,
     "uikTvd": "423406078204",
+    "uikName": "УИК №6048",
     "tikTvd": "22320002182649",
-    "tikName": "Краснодар, Калининская"
+    "tikName": "Краснодар, Калининская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 6049,
     "uikTvd": "423406078205",
+    "uikName": "УИК №6049",
     "tikTvd": "22320002182649",
-    "tikName": "Краснодар, Калининская"
+    "tikName": "Краснодар, Калининская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 6050,
     "uikTvd": "423406078206",
+    "uikName": "УИК №6050",
     "tikTvd": "22320002182649",
-    "tikName": "Краснодар, Калининская"
+    "tikName": "Краснодар, Калининская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 6051,
     "uikTvd": "423406078207",
+    "uikName": "УИК №6051",
     "tikTvd": "22320002182649",
-    "tikName": "Краснодар, Калининская"
+    "tikName": "Краснодар, Калининская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 6052,
     "uikTvd": "423406078208",
+    "uikName": "УИК №6052",
     "tikTvd": "22320002182649",
-    "tikName": "Краснодар, Калининская"
+    "tikName": "Краснодар, Калининская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 6053,
     "uikTvd": "423406078209",
+    "uikName": "УИК №6053",
     "tikTvd": "22320002182649",
-    "tikName": "Краснодар, Калининская"
+    "tikName": "Краснодар, Калининская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 6054,
     "uikTvd": "423406078210",
+    "uikName": "УИК №6054",
     "tikTvd": "22320002182649",
-    "tikName": "Краснодар, Калининская"
+    "tikName": "Краснодар, Калининская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 6055,
     "uikTvd": "423406078211",
+    "uikName": "УИК №6055",
     "tikTvd": "22320002182649",
-    "tikName": "Краснодар, Калининская"
+    "tikName": "Краснодар, Калининская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 6097,
     "uikTvd": "423406078494",
+    "uikName": "УИК №6097",
     "tikTvd": "22320002182649",
-    "tikName": "Краснодар, Калининская"
+    "tikName": "Краснодар, Калининская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 6098,
     "uikTvd": "423406078495",
+    "uikName": "УИК №6098",
     "tikTvd": "22320002182649",
-    "tikName": "Краснодар, Калининская"
+    "tikName": "Краснодар, Калининская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   },
   {
     "uikNumber": 6099,
     "uikTvd": "423406078496",
+    "uikName": "УИК №6099",
     "tikTvd": "22320002182649",
-    "tikName": "Краснодар, Калининская"
+    "tikName": "Краснодар, Калининская",
+    "regionCode": "23",
+    "regionTvd": "100100084849149",
+    "regionName": "Краснодарский край",
+    "district": null
   }
 ] satisfies readonly UikTikRelation[];

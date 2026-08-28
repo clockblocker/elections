@@ -11,6 +11,14 @@ export const duma_2016_tic_464_region_18 = [
     "ballot": "single-member",
     "tikTvd": "2182000744057",
     "tikName": "Ярская",
+    "regionCode": "18",
+    "regionTvd": "100100067795901",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 33,
+      "oikTvd": "100100067795902",
+      "oikName": "Удмуртская Республика – Удмуртский"
+    },
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 12502,
@@ -85,6 +93,14 @@ export const duma_2016_tic_464_region_18 = [
     "ballot": "single-member",
     "tikTvd": "2182000744058",
     "tikName": "Якшур-Бодьинская",
+    "regionCode": "18",
+    "regionTvd": "100100067795901",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 33,
+      "oikTvd": "100100067795902",
+      "oikName": "Удмуртская Республика – Удмуртский"
+    },
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 17471,
@@ -166,6 +182,14 @@ export const duma_2016_tic_464_region_18 = [
     "ballot": "single-member",
     "tikTvd": "2182000744059",
     "tikName": "Юкаменская",
+    "regionCode": "18",
+    "regionTvd": "100100067795901",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 33,
+      "oikTvd": "100100067795902",
+      "oikName": "Удмуртская Республика – Удмуртский"
+    },
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 8610,
@@ -239,6 +263,14 @@ export const duma_2016_tic_464_region_18 = [
     "ballot": "single-member",
     "tikTvd": "2182000744060",
     "tikName": "Шарканская",
+    "regionCode": "18",
+    "regionTvd": "100100067795901",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 33,
+      "oikTvd": "100100067795902",
+      "oikName": "Удмуртская Республика – Удмуртский"
+    },
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 16155,
@@ -322,6 +354,14 @@ export const duma_2016_tic_464_region_18 = [
     "ballot": "single-member",
     "tikTvd": "2182000744061",
     "tikName": "Селтинская",
+    "regionCode": "18",
+    "regionTvd": "100100067795901",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 33,
+      "oikTvd": "100100067795902",
+      "oikName": "Удмуртская Республика – Удмуртский"
+    },
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 9957,
@@ -390,6 +430,14 @@ export const duma_2016_tic_464_region_18 = [
     "ballot": "single-member",
     "tikTvd": "2182000744062",
     "tikName": "Красногорская",
+    "regionCode": "18",
+    "regionTvd": "100100067795901",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 33,
+      "oikTvd": "100100067795902",
+      "oikName": "Удмуртская Республика – Удмуртский"
+    },
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 8641,
@@ -458,6 +506,14 @@ export const duma_2016_tic_464_region_18 = [
     "ballot": "single-member",
     "tikTvd": "2182000744063",
     "tikName": "Кезская",
+    "regionCode": "18",
+    "regionTvd": "100100067795901",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 33,
+      "oikTvd": "100100067795902",
+      "oikName": "Удмуртская Республика – Удмуртский"
+    },
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 18702,
@@ -545,6 +601,14 @@ export const duma_2016_tic_464_region_18 = [
     "ballot": "single-member",
     "tikTvd": "2182000744064",
     "tikName": "Ижевск, Устиновская",
+    "regionCode": "18",
+    "regionTvd": "100100067795901",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 33,
+      "oikTvd": "100100067795902",
+      "oikName": "Удмуртская Республика – Удмуртский"
+    },
     "uikCount": 53,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 104636,
@@ -648,6 +712,14 @@ export const duma_2016_tic_464_region_18 = [
     "ballot": "single-member",
     "tikTvd": "2182000744065",
     "tikName": "Ижевск, Индустриальная",
+    "regionCode": "18",
+    "regionTvd": "100100067795901",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 33,
+      "oikTvd": "100100067795902",
+      "oikName": "Удмуртская Республика – Удмуртский"
+    },
     "uikCount": 53,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 88829,
@@ -751,6 +823,14 @@ export const duma_2016_tic_464_region_18 = [
     "ballot": "single-member",
     "tikTvd": "2182000744066",
     "tikName": "Игринская",
+    "regionCode": "18",
+    "regionTvd": "100100067795901",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 33,
+      "oikTvd": "100100067795902",
+      "oikName": "Удмуртская Республика – Удмуртский"
+    },
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 31916,
@@ -840,6 +920,14 @@ export const duma_2016_tic_464_region_18 = [
     "ballot": "single-member",
     "tikTvd": "2182000744067",
     "tikName": "Завьяловская - 33",
+    "regionCode": "18",
+    "regionTvd": "100100067795901",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 33,
+      "oikTvd": "100100067795902",
+      "oikName": "Удмуртская Республика – Удмуртский"
+    },
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 32469,
@@ -918,6 +1006,14 @@ export const duma_2016_tic_464_region_18 = [
     "ballot": "single-member",
     "tikTvd": "2182000744068",
     "tikName": "Дебесская",
+    "regionCode": "18",
+    "regionTvd": "100100067795901",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 33,
+      "oikTvd": "100100067795902",
+      "oikName": "Удмуртская Республика – Удмуртский"
+    },
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 10428,
@@ -991,6 +1087,14 @@ export const duma_2016_tic_464_region_18 = [
     "ballot": "single-member",
     "tikTvd": "2182000744069",
     "tikName": "Глазовская городская",
+    "regionCode": "18",
+    "regionTvd": "100100067795901",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 33,
+      "oikTvd": "100100067795902",
+      "oikName": "Удмуртская Республика – Удмуртский"
+    },
     "uikCount": 42,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 71416,
@@ -1083,6 +1187,14 @@ export const duma_2016_tic_464_region_18 = [
     "ballot": "single-member",
     "tikTvd": "2182000744070",
     "tikName": "Глазовская",
+    "regionCode": "18",
+    "regionTvd": "100100067795901",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 33,
+      "oikTvd": "100100067795902",
+      "oikName": "Удмуртская Республика – Удмуртский"
+    },
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 14838,
@@ -1156,6 +1268,14 @@ export const duma_2016_tic_464_region_18 = [
     "ballot": "single-member",
     "tikTvd": "2182000744071",
     "tikName": "Воткинская городская",
+    "regionCode": "18",
+    "regionTvd": "100100067795901",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 33,
+      "oikTvd": "100100067795902",
+      "oikName": "Удмуртская Республика – Удмуртский"
+    },
     "uikCount": 51,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 73547,
@@ -1257,6 +1377,14 @@ export const duma_2016_tic_464_region_18 = [
     "ballot": "single-member",
     "tikTvd": "2182000744072",
     "tikName": "Воткинская",
+    "regionCode": "18",
+    "regionTvd": "100100067795901",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 33,
+      "oikTvd": "100100067795902",
+      "oikName": "Удмуртская Республика – Удмуртский"
+    },
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 18020,
@@ -1334,6 +1462,14 @@ export const duma_2016_tic_464_region_18 = [
     "ballot": "single-member",
     "tikTvd": "2182000744073",
     "tikName": "Балезинская",
+    "regionCode": "18",
+    "regionTvd": "100100067795901",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 33,
+      "oikTvd": "100100067795902",
+      "oikName": "Удмуртская Республика – Удмуртский"
+    },
     "uikCount": 52,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 27438,
@@ -1436,6 +1572,14 @@ export const duma_2016_tic_464_region_18 = [
     "ballot": "single-member",
     "tikTvd": "2182000744074",
     "tikName": "Завьяловская - 34",
+    "regionCode": "18",
+    "regionTvd": "100100067795901",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100067795903",
+      "oikName": "Удмуртская Республика – Ижевский"
+    },
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 22989,
@@ -1518,6 +1662,14 @@ export const duma_2016_tic_464_region_18 = [
     "ballot": "single-member",
     "tikTvd": "2182000744075",
     "tikName": "Увинская",
+    "regionCode": "18",
+    "regionTvd": "100100067795901",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100067795903",
+      "oikName": "Удмуртская Республика – Ижевский"
+    },
     "uikCount": 42,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 30721,
@@ -1609,6 +1761,14 @@ export const duma_2016_tic_464_region_18 = [
     "ballot": "single-member",
     "tikTvd": "2182000744076",
     "tikName": "Сюмсинская",
+    "regionCode": "18",
+    "regionTvd": "100100067795901",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100067795903",
+      "oikName": "Удмуртская Республика – Ижевский"
+    },
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 11111,
@@ -1683,6 +1843,14 @@ export const duma_2016_tic_464_region_18 = [
     "ballot": "single-member",
     "tikTvd": "2182000744077",
     "tikName": "Сарапульская городская",
+    "regionCode": "18",
+    "regionTvd": "100100067795901",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100067795903",
+      "oikName": "Удмуртская Республика – Ижевский"
+    },
     "uikCount": 53,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 75284,
@@ -1785,6 +1953,14 @@ export const duma_2016_tic_464_region_18 = [
     "ballot": "single-member",
     "tikTvd": "2182000744078",
     "tikName": "Сарапульская",
+    "regionCode": "18",
+    "regionTvd": "100100067795901",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100067795903",
+      "oikName": "Удмуртская Республика – Ижевский"
+    },
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 18728,
@@ -1860,6 +2036,14 @@ export const duma_2016_tic_464_region_18 = [
     "ballot": "single-member",
     "tikTvd": "2182000744079",
     "tikName": "Можгинская городская",
+    "regionCode": "18",
+    "regionTvd": "100100067795901",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100067795903",
+      "oikName": "Удмуртская Республика – Ижевский"
+    },
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 35818,
@@ -1932,6 +2116,14 @@ export const duma_2016_tic_464_region_18 = [
     "ballot": "single-member",
     "tikTvd": "2182000744080",
     "tikName": "Можгинская",
+    "regionCode": "18",
+    "regionTvd": "100100067795901",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100067795903",
+      "oikName": "Удмуртская Республика – Ижевский"
+    },
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 20800,
@@ -2014,6 +2206,14 @@ export const duma_2016_tic_464_region_18 = [
     "ballot": "single-member",
     "tikTvd": "2182000744081",
     "tikName": "Малопургинская",
+    "regionCode": "18",
+    "regionTvd": "100100067795901",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100067795903",
+      "oikName": "Удмуртская Республика – Ижевский"
+    },
     "uikCount": 44,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 24912,
@@ -2107,6 +2307,14 @@ export const duma_2016_tic_464_region_18 = [
     "ballot": "single-member",
     "tikTvd": "2182000744082",
     "tikName": "Киясовская",
+    "regionCode": "18",
+    "regionTvd": "100100067795901",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100067795903",
+      "oikName": "Удмуртская Республика – Ижевский"
+    },
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 8645,
@@ -2177,6 +2385,14 @@ export const duma_2016_tic_464_region_18 = [
     "ballot": "single-member",
     "tikTvd": "2182000744083",
     "tikName": "Кизнерская",
+    "regionCode": "18",
+    "regionTvd": "100100067795901",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100067795903",
+      "oikName": "Удмуртская Республика – Ижевский"
+    },
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 18053,
@@ -2257,6 +2473,14 @@ export const duma_2016_tic_464_region_18 = [
     "ballot": "single-member",
     "tikTvd": "2182000744084",
     "tikName": "Каракулинская",
+    "regionCode": "18",
+    "regionTvd": "100100067795901",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100067795903",
+      "oikName": "Удмуртская Республика – Ижевский"
+    },
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 9817,
@@ -2323,6 +2547,14 @@ export const duma_2016_tic_464_region_18 = [
     "ballot": "single-member",
     "tikTvd": "2182000744085",
     "tikName": "Камбарская",
+    "regionCode": "18",
+    "regionTvd": "100100067795901",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100067795903",
+      "oikName": "Удмуртская Республика – Ижевский"
+    },
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 14827,
@@ -2393,6 +2625,14 @@ export const duma_2016_tic_464_region_18 = [
     "ballot": "single-member",
     "tikTvd": "2182000744086",
     "tikName": "Ижевск, Первомайская",
+    "regionCode": "18",
+    "regionTvd": "100100067795901",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100067795903",
+      "oikName": "Удмуртская Республика – Ижевский"
+    },
     "uikCount": 56,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 97578,
@@ -2498,6 +2738,14 @@ export const duma_2016_tic_464_region_18 = [
     "ballot": "single-member",
     "tikTvd": "2182000744087",
     "tikName": "Ижевск, Октябрьская",
+    "regionCode": "18",
+    "regionTvd": "100100067795901",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100067795903",
+      "oikName": "Удмуртская Республика – Ижевский"
+    },
     "uikCount": 64,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 103214,
@@ -2611,6 +2859,14 @@ export const duma_2016_tic_464_region_18 = [
     "ballot": "single-member",
     "tikTvd": "2182000744088",
     "tikName": "Ижевск, Ленинская",
+    "regionCode": "18",
+    "regionTvd": "100100067795901",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100067795903",
+      "oikName": "Удмуртская Республика – Ижевский"
+    },
     "uikCount": 58,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 95621,
@@ -2718,6 +2974,14 @@ export const duma_2016_tic_464_region_18 = [
     "ballot": "single-member",
     "tikTvd": "2182000744089",
     "tikName": "Граховская",
+    "regionCode": "18",
+    "regionTvd": "100100067795901",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100067795903",
+      "oikName": "Удмуртская Республика – Ижевский"
+    },
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 7894,
@@ -2790,6 +3054,14 @@ export const duma_2016_tic_464_region_18 = [
     "ballot": "single-member",
     "tikTvd": "2182000744090",
     "tikName": "Вавожская",
+    "regionCode": "18",
+    "regionTvd": "100100067795901",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100067795903",
+      "oikName": "Удмуртская Республика – Ижевский"
+    },
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 13156,
@@ -2868,6 +3140,14 @@ export const duma_2016_tic_464_region_18 = [
     "ballot": "single-member",
     "tikTvd": "2182000744091",
     "tikName": "Алнашская",
+    "regionCode": "18",
+    "regionTvd": "100100067795901",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100067795903",
+      "oikName": "Удмуртская Республика – Ижевский"
+    },
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 16477,

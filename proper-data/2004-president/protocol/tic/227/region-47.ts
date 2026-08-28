@@ -11,6 +11,9 @@ export const president_2004_tic_227_region_47 = [
     "ballot": "presidential",
     "tikTvd": "2472000122617",
     "tikName": "Колтушская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
     "uikCount": 5,
     "accounting": {
       "Число избирателей, внесенных в список": 7330,
@@ -64,6 +67,9 @@ export const president_2004_tic_227_region_47 = [
     "ballot": "presidential",
     "tikTvd": "2472000122618",
     "tikName": "Кузнечненская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
     "uikCount": 3,
     "accounting": {
       "Число избирателей, внесенных в список": 4101,
@@ -115,6 +121,9 @@ export const president_2004_tic_227_region_47 = [
     "ballot": "presidential",
     "tikTvd": "2472000122619",
     "tikName": "Шлиссельбургская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
     "uikCount": 4,
     "accounting": {
       "Число избирателей, внесенных в список": 10210,
@@ -167,6 +176,9 @@ export const president_2004_tic_227_region_47 = [
     "ballot": "presidential",
     "tikTvd": "2472000122620",
     "tikName": "Тосненская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
     "uikCount": 62,
     "accounting": {
       "Число избирателей, внесенных в список": 84437,
@@ -277,6 +289,9 @@ export const president_2004_tic_227_region_47 = [
     "ballot": "presidential",
     "tikTvd": "2472000122621",
     "tikName": "Тихвинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
     "uikCount": 52,
     "accounting": {
       "Число избирателей, внесенных в список": 65355,
@@ -377,6 +392,9 @@ export const president_2004_tic_227_region_47 = [
     "ballot": "presidential",
     "tikTvd": "2472000122622",
     "tikName": "Сосновоборская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список": 54302,
@@ -445,6 +463,9 @@ export const president_2004_tic_227_region_47 = [
     "ballot": "presidential",
     "tikTvd": "2472000122623",
     "tikName": "Сланцевская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в список": 39114,
@@ -526,6 +547,9 @@ export const president_2004_tic_227_region_47 = [
     "ballot": "presidential",
     "tikTvd": "2472000122624",
     "tikName": "Сертоловская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в список": 27944,
@@ -587,6 +611,9 @@ export const president_2004_tic_227_region_47 = [
     "ballot": "presidential",
     "tikTvd": "2472000122625",
     "tikName": "Светогорская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
     "uikCount": 5,
     "accounting": {
       "Число избирателей, внесенных в список": 12371,
@@ -640,6 +667,9 @@ export const president_2004_tic_227_region_47 = [
     "ballot": "presidential",
     "tikTvd": "2472000122626",
     "tikName": "Приозерская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в список": 44666,
@@ -727,6 +757,9 @@ export const president_2004_tic_227_region_47 = [
     "ballot": "presidential",
     "tikTvd": "2472000122627",
     "tikName": "Подпорожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в список": 29026,
@@ -812,6 +845,9 @@ export const president_2004_tic_227_region_47 = [
     "ballot": "presidential",
     "tikTvd": "2472000122628",
     "tikName": "Пикалевская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
     "uikCount": 8,
     "accounting": {
       "Число избирателей, внесенных в список": 19498,
@@ -868,6 +904,9 @@ export const president_2004_tic_227_region_47 = [
     "ballot": "presidential",
     "tikTvd": "2472000122629",
     "tikName": "Новоладожская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
     "uikCount": 5,
     "accounting": {
       "Число избирателей, внесенных в список": 7528,
@@ -921,6 +960,9 @@ export const president_2004_tic_227_region_47 = [
     "ballot": "presidential",
     "tikTvd": "2472000122630",
     "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
     "uikCount": 57,
     "accounting": {
       "Число избирателей, внесенных в список": 69710,
@@ -1026,6 +1068,9 @@ export const president_2004_tic_227_region_47 = [
     "ballot": "presidential",
     "tikTvd": "2472000122631",
     "tikName": "Ломоносовская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в список": 53008,
@@ -1112,6 +1157,9 @@ export const president_2004_tic_227_region_47 = [
     "ballot": "presidential",
     "tikTvd": "2472000122632",
     "tikName": "Лодейнопольская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список": 26383,
@@ -1188,6 +1236,9 @@ export const president_2004_tic_227_region_47 = [
     "ballot": "presidential",
     "tikTvd": "2472000122633",
     "tikName": "Коммунаровская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
     "uikCount": 6,
     "accounting": {
       "Число избирателей, внесенных в список": 14630,
@@ -1242,6 +1293,9 @@ export const president_2004_tic_227_region_47 = [
     "ballot": "presidential",
     "tikTvd": "2472000122634",
     "tikName": "Кировская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, внесенных в список": 65997,
@@ -1331,6 +1385,9 @@ export const president_2004_tic_227_region_47 = [
     "ballot": "presidential",
     "tikTvd": "2472000122635",
     "tikName": "Киришская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в список": 55130,
@@ -1414,6 +1471,9 @@ export const president_2004_tic_227_region_47 = [
     "ballot": "presidential",
     "tikTvd": "2472000122636",
     "tikName": "Кингисеппская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, внесенных в список": 58765,
@@ -1505,6 +1565,9 @@ export const president_2004_tic_227_region_47 = [
     "ballot": "presidential",
     "tikTvd": "2472000122637",
     "tikName": "Ивангородская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
     "uikCount": 4,
     "accounting": {
       "Число избирателей, внесенных в список": 9637,
@@ -1557,6 +1620,9 @@ export const president_2004_tic_227_region_47 = [
     "ballot": "presidential",
     "tikTvd": "2472000122638",
     "tikName": "Гатчинская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в список": 69262,
@@ -1638,6 +1704,9 @@ export const president_2004_tic_227_region_47 = [
     "ballot": "presidential",
     "tikTvd": "2472000122639",
     "tikName": "Гатчинская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
     "uikCount": 79,
     "accounting": {
       "Число избирателей, внесенных в список": 82400,
@@ -1765,6 +1834,9 @@ export const president_2004_tic_227_region_47 = [
     "ballot": "presidential",
     "tikTvd": "2472000122640",
     "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
     "uikCount": 111,
     "accounting": {
       "Число избирателей, внесенных в список": 145094,
@@ -1924,6 +1996,9 @@ export const president_2004_tic_227_region_47 = [
     "ballot": "presidential",
     "tikTvd": "2472000122641",
     "tikName": "Всеволожская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
     "uikCount": 91,
     "accounting": {
       "Число избирателей, внесенных в список": 133223,
@@ -2063,6 +2138,9 @@ export const president_2004_tic_227_region_47 = [
     "ballot": "presidential",
     "tikTvd": "2472000122642",
     "tikName": "Волховская городская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в список": 36983,
@@ -2128,6 +2206,9 @@ export const president_2004_tic_227_region_47 = [
     "ballot": "presidential",
     "tikTvd": "2472000122643",
     "tikName": "Волховская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список": 30158,
@@ -2212,6 +2293,9 @@ export const president_2004_tic_227_region_47 = [
     "ballot": "presidential",
     "tikTvd": "2472000122644",
     "tikName": "Волосовская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список": 33414,
@@ -2289,6 +2373,9 @@ export const president_2004_tic_227_region_47 = [
     "ballot": "presidential",
     "tikTvd": "2472000122646",
     "tikName": "Бокситогорская",
+    "regionCode": "47",
+    "regionTvd": "1001000883231",
+    "regionName": "Ленинградская область",
     "uikCount": 47,
     "accounting": {
       "Число избирателей, внесенных в список": 28347,

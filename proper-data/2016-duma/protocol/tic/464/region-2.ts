@@ -11,6 +11,14 @@ export const duma_2016_tic_464_region_2 = [
     "ballot": "single-member",
     "tikTvd": "2042000314655",
     "tikName": "Турочкаская",
+    "regionCode": "2",
+    "regionTvd": "100100067795857",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100067795858",
+      "oikName": "Республика Алтай – Алтайский"
+    },
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 10639,
@@ -82,6 +90,14 @@ export const duma_2016_tic_464_region_2 = [
     "ballot": "single-member",
     "tikTvd": "2042000314656",
     "tikName": "Усть-Коксинская",
+    "regionCode": "2",
+    "regionTvd": "100100067795857",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100067795858",
+      "oikName": "Республика Алтай – Алтайский"
+    },
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 11628,
@@ -163,6 +179,14 @@ export const duma_2016_tic_464_region_2 = [
     "ballot": "single-member",
     "tikTvd": "2042000314657",
     "tikName": "Майминская",
+    "regionCode": "2",
+    "regionTvd": "100100067795857",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100067795858",
+      "oikName": "Республика Алтай – Алтайский"
+    },
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 22693,
@@ -243,6 +267,14 @@ export const duma_2016_tic_464_region_2 = [
     "ballot": "single-member",
     "tikTvd": "2042000314658",
     "tikName": "Горно-Алтайская городская",
+    "regionCode": "2",
+    "regionTvd": "100100067795857",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100067795858",
+      "oikName": "Республика Алтай – Алтайский"
+    },
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 43431,
@@ -317,6 +349,14 @@ export const duma_2016_tic_464_region_2 = [
     "ballot": "single-member",
     "tikTvd": "2042000314659",
     "tikName": "Кош-Агачская",
+    "regionCode": "2",
+    "regionTvd": "100100067795857",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100067795858",
+      "oikName": "Республика Алтай – Алтайский"
+    },
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 14413,
@@ -385,6 +425,14 @@ export const duma_2016_tic_464_region_2 = [
     "ballot": "single-member",
     "tikTvd": "2042000314660",
     "tikName": "Чойская",
+    "regionCode": "2",
+    "regionTvd": "100100067795857",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100067795858",
+      "oikName": "Республика Алтай – Алтайский"
+    },
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 6578,
@@ -454,6 +502,14 @@ export const duma_2016_tic_464_region_2 = [
     "ballot": "single-member",
     "tikTvd": "2042000314661",
     "tikName": "Шебалинская",
+    "regionCode": "2",
+    "regionTvd": "100100067795857",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100067795858",
+      "oikName": "Республика Алтай – Алтайский"
+    },
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 10592,
@@ -526,6 +582,14 @@ export const duma_2016_tic_464_region_2 = [
     "ballot": "single-member",
     "tikTvd": "2042000314662",
     "tikName": "Улаганская",
+    "regionCode": "2",
+    "regionTvd": "100100067795857",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100067795858",
+      "oikName": "Республика Алтай – Алтайский"
+    },
     "uikCount": 11,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 8304,
@@ -588,6 +652,14 @@ export const duma_2016_tic_464_region_2 = [
     "ballot": "single-member",
     "tikTvd": "2042000314663",
     "tikName": "Усть-Канская",
+    "regionCode": "2",
+    "regionTvd": "100100067795857",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100067795858",
+      "oikName": "Республика Алтай – Алтайский"
+    },
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 11077,
@@ -664,6 +736,14 @@ export const duma_2016_tic_464_region_2 = [
     "ballot": "single-member",
     "tikTvd": "2042000314664",
     "tikName": "Онгудайская",
+    "regionCode": "2",
+    "regionTvd": "100100067795857",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100067795858",
+      "oikName": "Республика Алтай – Алтайский"
+    },
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 11628,
@@ -741,6 +821,14 @@ export const duma_2016_tic_464_region_2 = [
     "ballot": "single-member",
     "tikTvd": "2042000314665",
     "tikName": "Чемальская",
+    "regionCode": "2",
+    "regionTvd": "100100067795857",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100067795858",
+      "oikName": "Республика Алтай – Алтайский"
+    },
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 8040,

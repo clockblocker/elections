@@ -11,6 +11,9 @@ export const president_2012_tic_227_region_28 = [
     "ballot": "presidential",
     "tikTvd": "2282000416593",
     "tikName": "(пгт) Прогресс",
+    "regionCode": "28",
+    "regionTvd": "100100031793917",
+    "regionName": "Амурская область",
     "uikCount": 10,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 12106,
@@ -68,6 +71,9 @@ export const president_2012_tic_227_region_28 = [
     "ballot": "presidential",
     "tikTvd": "2282000416594",
     "tikName": "Шимановская городская",
+    "regionCode": "28",
+    "regionTvd": "100100031793917",
+    "regionName": "Амурская область",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 15669,
@@ -126,6 +132,9 @@ export const president_2012_tic_227_region_28 = [
     "ballot": "presidential",
     "tikTvd": "2282000416595",
     "tikName": "Шимановская",
+    "regionCode": "28",
+    "regionTvd": "100100031793917",
+    "regionName": "Амурская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 4912,
@@ -192,6 +201,9 @@ export const president_2012_tic_227_region_28 = [
     "ballot": "presidential",
     "tikTvd": "2282000416596",
     "tikName": "Углегорская поселковая",
+    "regionCode": "28",
+    "regionTvd": "100100031793917",
+    "regionName": "Амурская область",
     "uikCount": 2,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 3253,
@@ -241,6 +253,9 @@ export const president_2012_tic_227_region_28 = [
     "ballot": "presidential",
     "tikTvd": "2282000416597",
     "tikName": "Тындинская городская",
+    "regionCode": "28",
+    "regionTvd": "100100031793917",
+    "regionName": "Амурская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 27531,
@@ -314,6 +329,9 @@ export const president_2012_tic_227_region_28 = [
     "ballot": "presidential",
     "tikTvd": "2282000416598",
     "tikName": "Тындинская",
+    "regionCode": "28",
+    "regionTvd": "100100031793917",
+    "regionName": "Амурская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 12099,
@@ -383,6 +401,9 @@ export const president_2012_tic_227_region_28 = [
     "ballot": "presidential",
     "tikTvd": "2282000416599",
     "tikName": "Тамбовская",
+    "regionCode": "28",
+    "regionTvd": "100100031793917",
+    "regionName": "Амурская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 18702,
@@ -459,6 +480,9 @@ export const president_2012_tic_227_region_28 = [
     "ballot": "presidential",
     "tikTvd": "2282000416600",
     "tikName": "Сковородинская",
+    "regionCode": "28",
+    "regionTvd": "100100031793917",
+    "regionName": "Амурская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 22638,
@@ -532,6 +556,9 @@ export const president_2012_tic_227_region_28 = [
     "ballot": "presidential",
     "tikTvd": "2282000416601",
     "tikName": "Серышевская",
+    "regionCode": "28",
+    "regionTvd": "100100031793917",
+    "regionName": "Амурская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 19965,
@@ -619,6 +646,9 @@ export const president_2012_tic_227_region_28 = [
     "ballot": "presidential",
     "tikTvd": "2282000416602",
     "tikName": "Селемджинская",
+    "regionCode": "28",
+    "regionTvd": "100100031793917",
+    "regionName": "Амурская область",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10562,
@@ -683,6 +713,9 @@ export const president_2012_tic_227_region_28 = [
     "ballot": "presidential",
     "tikTvd": "2282000416603",
     "tikName": "Свободненская городская",
+    "regionCode": "28",
+    "regionTvd": "100100031793917",
+    "regionName": "Амурская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 43550,
@@ -755,6 +788,9 @@ export const president_2012_tic_227_region_28 = [
     "ballot": "presidential",
     "tikTvd": "2282000416604",
     "tikName": "Свободненская",
+    "regionCode": "28",
+    "regionTvd": "100100031793917",
+    "regionName": "Амурская область",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10127,
@@ -841,6 +877,9 @@ export const president_2012_tic_227_region_28 = [
     "ballot": "presidential",
     "tikTvd": "2282000416605",
     "tikName": "Ромненская",
+    "regionCode": "28",
+    "regionTvd": "100100031793917",
+    "regionName": "Амурская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 7981,
@@ -909,6 +948,9 @@ export const president_2012_tic_227_region_28 = [
     "ballot": "presidential",
     "tikTvd": "2282000416606",
     "tikName": "Райчихинская городская",
+    "regionCode": "28",
+    "regionTvd": "100100031793917",
+    "regionName": "Амурская область",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 18319,
@@ -968,6 +1010,9 @@ export const president_2012_tic_227_region_28 = [
     "ballot": "presidential",
     "tikTvd": "2282000416607",
     "tikName": "Октябрьская",
+    "regionCode": "28",
+    "regionTvd": "100100031793917",
+    "regionName": "Амурская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 16439,
@@ -1049,6 +1094,9 @@ export const president_2012_tic_227_region_28 = [
     "ballot": "presidential",
     "tikTvd": "2282000416608",
     "tikName": "Михайловская",
+    "regionCode": "28",
+    "regionTvd": "100100031793917",
+    "regionName": "Амурская область",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 11900,
@@ -1128,6 +1176,9 @@ export const president_2012_tic_227_region_28 = [
     "ballot": "presidential",
     "tikTvd": "2282000416609",
     "tikName": "Мазановская",
+    "regionCode": "28",
+    "regionTvd": "100100031793917",
+    "regionName": "Амурская область",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10802,
@@ -1212,6 +1263,9 @@ export const president_2012_tic_227_region_28 = [
     "ballot": "presidential",
     "tikTvd": "2282000416610",
     "tikName": "Магдагачинская",
+    "regionCode": "28",
+    "regionTvd": "100100031793917",
+    "regionName": "Амурская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 19320,
@@ -1278,6 +1332,9 @@ export const president_2012_tic_227_region_28 = [
     "ballot": "presidential",
     "tikTvd": "2282000416611",
     "tikName": "Константиновская",
+    "regionCode": "28",
+    "regionTvd": "100100031793917",
+    "regionName": "Амурская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10857,
@@ -1343,6 +1400,9 @@ export const president_2012_tic_227_region_28 = [
     "ballot": "presidential",
     "tikTvd": "2282000416612",
     "tikName": "Ивановская",
+    "regionCode": "28",
+    "regionTvd": "100100031793917",
+    "regionName": "Амурская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 20206,
@@ -1418,6 +1478,9 @@ export const president_2012_tic_227_region_28 = [
     "ballot": "presidential",
     "tikTvd": "2282000416613",
     "tikName": "Зейская городская",
+    "regionCode": "28",
+    "regionTvd": "100100031793917",
+    "regionName": "Амурская область",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 20260,
@@ -1477,6 +1540,9 @@ export const president_2012_tic_227_region_28 = [
     "ballot": "presidential",
     "tikTvd": "2282000416614",
     "tikName": "Зейская",
+    "regionCode": "28",
+    "regionTvd": "100100031793917",
+    "regionName": "Амурская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 15321,
@@ -1554,6 +1620,9 @@ export const president_2012_tic_227_region_28 = [
     "ballot": "presidential",
     "tikTvd": "2282000416615",
     "tikName": "Завитинская",
+    "regionCode": "28",
+    "regionTvd": "100100031793917",
+    "regionName": "Амурская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 13740,
@@ -1626,6 +1695,9 @@ export const president_2012_tic_227_region_28 = [
     "ballot": "presidential",
     "tikTvd": "2282000416616",
     "tikName": "Бурейская",
+    "regionCode": "28",
+    "regionTvd": "100100031793917",
+    "regionName": "Амурская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 20233,
@@ -1698,6 +1770,9 @@ export const president_2012_tic_227_region_28 = [
     "ballot": "presidential",
     "tikTvd": "2282000416617",
     "tikName": "Благовещенская городская",
+    "regionCode": "28",
+    "regionTvd": "100100031793917",
+    "regionName": "Амурская область",
     "uikCount": 106,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 177461,
@@ -1851,6 +1926,9 @@ export const president_2012_tic_227_region_28 = [
     "ballot": "presidential",
     "tikTvd": "2282000416618",
     "tikName": "Благовещенская",
+    "regionCode": "28",
+    "regionTvd": "100100031793917",
+    "regionName": "Амурская область",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 15501,
@@ -1925,6 +2003,9 @@ export const president_2012_tic_227_region_28 = [
     "ballot": "presidential",
     "tikTvd": "2282000416619",
     "tikName": "Белогорская городская",
+    "regionCode": "28",
+    "regionTvd": "100100031793917",
+    "regionName": "Амурская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 53389,
@@ -2001,6 +2082,9 @@ export const president_2012_tic_227_region_28 = [
     "ballot": "presidential",
     "tikTvd": "2282000416620",
     "tikName": "Белогорская",
+    "regionCode": "28",
+    "regionTvd": "100100031793917",
+    "regionName": "Амурская область",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 15381,
@@ -2083,6 +2167,9 @@ export const president_2012_tic_227_region_28 = [
     "ballot": "presidential",
     "tikTvd": "2282000416621",
     "tikName": "Архаринская",
+    "regionCode": "28",
+    "regionTvd": "100100031793917",
+    "regionName": "Амурская область",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 14096,

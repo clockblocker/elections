@@ -7,1201 +7,2201 @@ export const president_2004_uik_to_tik_region_85 = [
   {
     "uikNumber": 1,
     "uikTvd": "485400167921",
+    "uikName": "УИК №1",
     "tikTvd": "285200070881",
-    "tikName": "Аларская"
+    "tikName": "Аларская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 2,
     "uikTvd": "485400167922",
+    "uikName": "УИК №2",
     "tikTvd": "285200070881",
-    "tikName": "Аларская"
+    "tikName": "Аларская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 3,
     "uikTvd": "485400167923",
+    "uikName": "УИК №3",
     "tikTvd": "285200070881",
-    "tikName": "Аларская"
+    "tikName": "Аларская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 4,
     "uikTvd": "485400167924",
+    "uikName": "УИК №4",
     "tikTvd": "285200070881",
-    "tikName": "Аларская"
+    "tikName": "Аларская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5,
     "uikTvd": "485400167925",
+    "uikName": "УИК №5",
     "tikTvd": "285200070881",
-    "tikName": "Аларская"
+    "tikName": "Аларская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 6,
     "uikTvd": "485400167926",
+    "uikName": "УИК №6",
     "tikTvd": "285200070881",
-    "tikName": "Аларская"
+    "tikName": "Аларская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 7,
     "uikTvd": "485400167927",
+    "uikName": "УИК №7",
     "tikTvd": "285200070881",
-    "tikName": "Аларская"
+    "tikName": "Аларская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 8,
     "uikTvd": "485400167928",
+    "uikName": "УИК №8",
     "tikTvd": "285200070881",
-    "tikName": "Аларская"
+    "tikName": "Аларская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 9,
     "uikTvd": "485400167929",
+    "uikName": "УИК №9",
     "tikTvd": "285200070881",
-    "tikName": "Аларская"
+    "tikName": "Аларская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 10,
     "uikTvd": "485400167930",
+    "uikName": "УИК №10",
     "tikTvd": "285200070881",
-    "tikName": "Аларская"
+    "tikName": "Аларская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 11,
     "uikTvd": "485400167931",
+    "uikName": "УИК №11",
     "tikTvd": "285200070881",
-    "tikName": "Аларская"
+    "tikName": "Аларская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 12,
     "uikTvd": "485400167932",
+    "uikName": "УИК №12",
     "tikTvd": "285200070881",
-    "tikName": "Аларская"
+    "tikName": "Аларская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 13,
     "uikTvd": "485400167933",
+    "uikName": "УИК №13",
     "tikTvd": "285200070881",
-    "tikName": "Аларская"
+    "tikName": "Аларская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 14,
     "uikTvd": "485400167934",
+    "uikName": "УИК №14",
     "tikTvd": "285200070881",
-    "tikName": "Аларская"
+    "tikName": "Аларская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 15,
     "uikTvd": "485400167935",
+    "uikName": "УИК №15",
     "tikTvd": "285200070881",
-    "tikName": "Аларская"
+    "tikName": "Аларская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 16,
     "uikTvd": "485400167936",
+    "uikName": "УИК №16",
     "tikTvd": "285200070881",
-    "tikName": "Аларская"
+    "tikName": "Аларская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 17,
     "uikTvd": "485400167937",
+    "uikName": "УИК №17",
     "tikTvd": "285200070881",
-    "tikName": "Аларская"
+    "tikName": "Аларская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 18,
     "uikTvd": "485400167938",
+    "uikName": "УИК №18",
     "tikTvd": "285200070881",
-    "tikName": "Аларская"
+    "tikName": "Аларская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 19,
     "uikTvd": "485400167939",
+    "uikName": "УИК №19",
     "tikTvd": "285200070881",
-    "tikName": "Аларская"
+    "tikName": "Аларская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 20,
     "uikTvd": "485400167940",
+    "uikName": "УИК №20",
     "tikTvd": "285200070881",
-    "tikName": "Аларская"
+    "tikName": "Аларская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 21,
     "uikTvd": "485400167941",
+    "uikName": "УИК №21",
     "tikTvd": "285200070881",
-    "tikName": "Аларская"
+    "tikName": "Аларская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 22,
     "uikTvd": "485400167942",
+    "uikName": "УИК №22",
     "tikTvd": "285200070881",
-    "tikName": "Аларская"
+    "tikName": "Аларская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 23,
     "uikTvd": "485400167943",
+    "uikName": "УИК №23",
     "tikTvd": "285200070881",
-    "tikName": "Аларская"
+    "tikName": "Аларская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 24,
     "uikTvd": "485400167944",
+    "uikName": "УИК №24",
     "tikTvd": "285200070881",
-    "tikName": "Аларская"
+    "tikName": "Аларская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 25,
     "uikTvd": "485400167945",
+    "uikName": "УИК №25",
     "tikTvd": "285200070881",
-    "tikName": "Аларская"
+    "tikName": "Аларская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 26,
     "uikTvd": "485400167946",
+    "uikName": "УИК №26",
     "tikTvd": "285200070881",
-    "tikName": "Аларская"
+    "tikName": "Аларская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 27,
     "uikTvd": "485400167947",
+    "uikName": "УИК №27",
     "tikTvd": "285200070881",
-    "tikName": "Аларская"
+    "tikName": "Аларская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 28,
     "uikTvd": "485400167948",
+    "uikName": "УИК №28",
     "tikTvd": "285200070881",
-    "tikName": "Аларская"
+    "tikName": "Аларская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 29,
     "uikTvd": "485400167949",
+    "uikName": "УИК №29",
     "tikTvd": "285200070881",
-    "tikName": "Аларская"
+    "tikName": "Аларская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 30,
     "uikTvd": "485400167950",
+    "uikName": "УИК №30",
     "tikTvd": "285200070881",
-    "tikName": "Аларская"
+    "tikName": "Аларская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 31,
     "uikTvd": "485400167951",
+    "uikName": "УИК №31",
     "tikTvd": "285200070881",
-    "tikName": "Аларская"
+    "tikName": "Аларская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 32,
     "uikTvd": "485400167952",
+    "uikName": "УИК №32",
     "tikTvd": "285200070881",
-    "tikName": "Аларская"
+    "tikName": "Аларская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 33,
     "uikTvd": "485400167953",
+    "uikName": "УИК №33",
     "tikTvd": "285200070881",
-    "tikName": "Аларская"
+    "tikName": "Аларская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 34,
     "uikTvd": "485400167954",
+    "uikName": "УИК №34",
     "tikTvd": "285200070881",
-    "tikName": "Аларская"
+    "tikName": "Аларская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 35,
     "uikTvd": "485400167955",
+    "uikName": "УИК №35",
     "tikTvd": "285200070881",
-    "tikName": "Аларская"
+    "tikName": "Аларская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 36,
     "uikTvd": "485400167956",
+    "uikName": "УИК №36",
     "tikTvd": "285200070881",
-    "tikName": "Аларская"
+    "tikName": "Аларская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 37,
     "uikTvd": "485400167957",
+    "uikName": "УИК №37",
     "tikTvd": "285200070881",
-    "tikName": "Аларская"
+    "tikName": "Аларская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 38,
     "uikTvd": "485400167958",
+    "uikName": "УИК №38",
     "tikTvd": "285200070881",
-    "tikName": "Аларская"
+    "tikName": "Аларская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 39,
     "uikTvd": "485400267510",
+    "uikName": "УИК №39",
     "tikTvd": "285200070882",
-    "tikName": "Баяндаевская"
+    "tikName": "Баяндаевская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 40,
     "uikTvd": "485400267512",
+    "uikName": "УИК №40",
     "tikTvd": "285200070882",
-    "tikName": "Баяндаевская"
+    "tikName": "Баяндаевская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 41,
     "uikTvd": "485400267513",
+    "uikName": "УИК №41",
     "tikTvd": "285200070882",
-    "tikName": "Баяндаевская"
+    "tikName": "Баяндаевская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 42,
     "uikTvd": "485400267514",
+    "uikName": "УИК №42",
     "tikTvd": "285200070882",
-    "tikName": "Баяндаевская"
+    "tikName": "Баяндаевская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 43,
     "uikTvd": "485400267515",
+    "uikName": "УИК №43",
     "tikTvd": "285200070882",
-    "tikName": "Баяндаевская"
+    "tikName": "Баяндаевская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 44,
     "uikTvd": "485400267516",
+    "uikName": "УИК №44",
     "tikTvd": "285200070882",
-    "tikName": "Баяндаевская"
+    "tikName": "Баяндаевская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 45,
     "uikTvd": "485400267517",
+    "uikName": "УИК №45",
     "tikTvd": "285200070882",
-    "tikName": "Баяндаевская"
+    "tikName": "Баяндаевская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 46,
     "uikTvd": "485400267518",
+    "uikName": "УИК №46",
     "tikTvd": "285200070882",
-    "tikName": "Баяндаевская"
+    "tikName": "Баяндаевская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 47,
     "uikTvd": "485400267519",
+    "uikName": "УИК №47",
     "tikTvd": "285200070882",
-    "tikName": "Баяндаевская"
+    "tikName": "Баяндаевская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 48,
     "uikTvd": "485400267520",
+    "uikName": "УИК №48",
     "tikTvd": "285200070882",
-    "tikName": "Баяндаевская"
+    "tikName": "Баяндаевская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 49,
     "uikTvd": "485400267521",
+    "uikName": "УИК №49",
     "tikTvd": "285200070882",
-    "tikName": "Баяндаевская"
+    "tikName": "Баяндаевская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 50,
     "uikTvd": "485400267522",
+    "uikName": "УИК №50",
     "tikTvd": "285200070882",
-    "tikName": "Баяндаевская"
+    "tikName": "Баяндаевская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 51,
     "uikTvd": "485400267523",
+    "uikName": "УИК №51",
     "tikTvd": "285200070882",
-    "tikName": "Баяндаевская"
+    "tikName": "Баяндаевская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 52,
     "uikTvd": "485400267524",
+    "uikName": "УИК №52",
     "tikTvd": "285200070882",
-    "tikName": "Баяндаевская"
+    "tikName": "Баяндаевская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 53,
     "uikTvd": "485400267525",
+    "uikName": "УИК №53",
     "tikTvd": "285200070882",
-    "tikName": "Баяндаевская"
+    "tikName": "Баяндаевская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 54,
     "uikTvd": "485400267526",
+    "uikName": "УИК №54",
     "tikTvd": "285200070882",
-    "tikName": "Баяндаевская"
+    "tikName": "Баяндаевская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 55,
     "uikTvd": "485400267527",
+    "uikName": "УИК №55",
     "tikTvd": "285200070882",
-    "tikName": "Баяндаевская"
+    "tikName": "Баяндаевская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 56,
     "uikTvd": "485400267528",
+    "uikName": "УИК №56",
     "tikTvd": "285200070882",
-    "tikName": "Баяндаевская"
+    "tikName": "Баяндаевская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 57,
     "uikTvd": "485400267529",
+    "uikName": "УИК №57",
     "tikTvd": "285200070882",
-    "tikName": "Баяндаевская"
+    "tikName": "Баяндаевская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 58,
     "uikTvd": "485400267530",
+    "uikName": "УИК №58",
     "tikTvd": "285200070882",
-    "tikName": "Баяндаевская"
+    "tikName": "Баяндаевская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 59,
     "uikTvd": "485400267531",
+    "uikName": "УИК №59",
     "tikTvd": "285200070882",
-    "tikName": "Баяндаевская"
+    "tikName": "Баяндаевская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 60,
     "uikTvd": "485400267532",
+    "uikName": "УИК №60",
     "tikTvd": "285200070882",
-    "tikName": "Баяндаевская"
+    "tikName": "Баяндаевская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 61,
     "uikTvd": "485400267533",
+    "uikName": "УИК №61",
     "tikTvd": "285200070882",
-    "tikName": "Баяндаевская"
+    "tikName": "Баяндаевская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 62,
     "uikTvd": "485400267534",
+    "uikName": "УИК №62",
     "tikTvd": "285200070882",
-    "tikName": "Баяндаевская"
+    "tikName": "Баяндаевская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 63,
     "uikTvd": "485400267535",
+    "uikName": "УИК №63",
     "tikTvd": "285200070882",
-    "tikName": "Баяндаевская"
+    "tikName": "Баяндаевская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 64,
     "uikTvd": "485400367654",
+    "uikName": "УИК №64",
     "tikTvd": "285200070883",
-    "tikName": "Боханская"
+    "tikName": "Боханская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 65,
     "uikTvd": "485400367657",
+    "uikName": "УИК №65",
     "tikTvd": "285200070883",
-    "tikName": "Боханская"
+    "tikName": "Боханская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 66,
     "uikTvd": "485400367658",
+    "uikName": "УИК №66",
     "tikTvd": "285200070883",
-    "tikName": "Боханская"
+    "tikName": "Боханская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 67,
     "uikTvd": "485400367659",
+    "uikName": "УИК №67",
     "tikTvd": "285200070883",
-    "tikName": "Боханская"
+    "tikName": "Боханская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 68,
     "uikTvd": "485400367660",
+    "uikName": "УИК №68",
     "tikTvd": "285200070883",
-    "tikName": "Боханская"
+    "tikName": "Боханская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 69,
     "uikTvd": "485400367661",
+    "uikName": "УИК №69",
     "tikTvd": "285200070883",
-    "tikName": "Боханская"
+    "tikName": "Боханская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 70,
     "uikTvd": "485400367662",
+    "uikName": "УИК №70",
     "tikTvd": "285200070883",
-    "tikName": "Боханская"
+    "tikName": "Боханская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 71,
     "uikTvd": "485400367663",
+    "uikName": "УИК №71",
     "tikTvd": "285200070883",
-    "tikName": "Боханская"
+    "tikName": "Боханская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 72,
     "uikTvd": "485400367664",
+    "uikName": "УИК №72",
     "tikTvd": "285200070883",
-    "tikName": "Боханская"
+    "tikName": "Боханская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 73,
     "uikTvd": "485400367665",
+    "uikName": "УИК №73",
     "tikTvd": "285200070883",
-    "tikName": "Боханская"
+    "tikName": "Боханская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 74,
     "uikTvd": "485400367666",
+    "uikName": "УИК №74",
     "tikTvd": "285200070883",
-    "tikName": "Боханская"
+    "tikName": "Боханская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 75,
     "uikTvd": "485400367667",
+    "uikName": "УИК №75",
     "tikTvd": "285200070883",
-    "tikName": "Боханская"
+    "tikName": "Боханская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 76,
     "uikTvd": "485400367668",
+    "uikName": "УИК №76",
     "tikTvd": "285200070883",
-    "tikName": "Боханская"
+    "tikName": "Боханская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 77,
     "uikTvd": "485400367669",
+    "uikName": "УИК №77",
     "tikTvd": "285200070883",
-    "tikName": "Боханская"
+    "tikName": "Боханская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 78,
     "uikTvd": "485400367670",
+    "uikName": "УИК №78",
     "tikTvd": "285200070883",
-    "tikName": "Боханская"
+    "tikName": "Боханская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 79,
     "uikTvd": "485400367671",
+    "uikName": "УИК №79",
     "tikTvd": "285200070883",
-    "tikName": "Боханская"
+    "tikName": "Боханская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 80,
     "uikTvd": "485400367672",
+    "uikName": "УИК №80",
     "tikTvd": "285200070883",
-    "tikName": "Боханская"
+    "tikName": "Боханская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 81,
     "uikTvd": "485400367673",
+    "uikName": "УИК №81",
     "tikTvd": "285200070883",
-    "tikName": "Боханская"
+    "tikName": "Боханская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 82,
     "uikTvd": "485400367674",
+    "uikName": "УИК №82",
     "tikTvd": "285200070883",
-    "tikName": "Боханская"
+    "tikName": "Боханская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 83,
     "uikTvd": "485400367675",
+    "uikName": "УИК №83",
     "tikTvd": "285200070883",
-    "tikName": "Боханская"
+    "tikName": "Боханская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 84,
     "uikTvd": "485400367676",
+    "uikName": "УИК №84",
     "tikTvd": "285200070883",
-    "tikName": "Боханская"
+    "tikName": "Боханская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 85,
     "uikTvd": "485400367677",
+    "uikName": "УИК №85",
     "tikTvd": "285200070883",
-    "tikName": "Боханская"
+    "tikName": "Боханская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 86,
     "uikTvd": "485400367678",
+    "uikName": "УИК №86",
     "tikTvd": "285200070883",
-    "tikName": "Боханская"
+    "tikName": "Боханская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 87,
     "uikTvd": "485400367679",
+    "uikName": "УИК №87",
     "tikTvd": "285200070883",
-    "tikName": "Боханская"
+    "tikName": "Боханская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 88,
     "uikTvd": "485400367680",
+    "uikName": "УИК №88",
     "tikTvd": "285200070883",
-    "tikName": "Боханская"
+    "tikName": "Боханская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 89,
     "uikTvd": "485400367681",
+    "uikName": "УИК №89",
     "tikTvd": "285200070883",
-    "tikName": "Боханская"
+    "tikName": "Боханская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 90,
     "uikTvd": "485400367682",
+    "uikName": "УИК №90",
     "tikTvd": "285200070883",
-    "tikName": "Боханская"
+    "tikName": "Боханская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 91,
     "uikTvd": "485400367683",
+    "uikName": "УИК №91",
     "tikTvd": "285200070883",
-    "tikName": "Боханская"
+    "tikName": "Боханская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 92,
     "uikTvd": "485400367684",
+    "uikName": "УИК №92",
     "tikTvd": "285200070883",
-    "tikName": "Боханская"
+    "tikName": "Боханская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 93,
     "uikTvd": "485400367685",
+    "uikName": "УИК №93",
     "tikTvd": "285200070883",
-    "tikName": "Боханская"
+    "tikName": "Боханская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 94,
     "uikTvd": "485400367686",
+    "uikName": "УИК №94",
     "tikTvd": "285200070883",
-    "tikName": "Боханская"
+    "tikName": "Боханская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 95,
     "uikTvd": "485400367687",
+    "uikName": "УИК №95",
     "tikTvd": "285200070883",
-    "tikName": "Боханская"
+    "tikName": "Боханская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 96,
     "uikTvd": "485400367688",
+    "uikName": "УИК №96",
     "tikTvd": "285200070883",
-    "tikName": "Боханская"
+    "tikName": "Боханская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 97,
     "uikTvd": "485400367689",
+    "uikName": "УИК №97",
     "tikTvd": "285200070883",
-    "tikName": "Боханская"
+    "tikName": "Боханская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 98,
     "uikTvd": "485400367690",
+    "uikName": "УИК №98",
     "tikTvd": "285200070883",
-    "tikName": "Боханская"
+    "tikName": "Боханская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 99,
     "uikTvd": "485400367691",
+    "uikName": "УИК №99",
     "tikTvd": "285200070883",
-    "tikName": "Боханская"
+    "tikName": "Боханская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 100,
     "uikTvd": "485400367652",
+    "uikName": "УИК №100",
     "tikTvd": "285200070883",
-    "tikName": "Боханская"
+    "tikName": "Боханская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 101,
     "uikTvd": "485400467712",
+    "uikName": "УИК №101",
     "tikTvd": "285200070884",
-    "tikName": "Нукутская"
+    "tikName": "Нукутская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 102,
     "uikTvd": "485400467713",
+    "uikName": "УИК №102",
     "tikTvd": "285200070884",
-    "tikName": "Нукутская"
+    "tikName": "Нукутская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 103,
     "uikTvd": "485400467714",
+    "uikName": "УИК №103",
     "tikTvd": "285200070884",
-    "tikName": "Нукутская"
+    "tikName": "Нукутская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 104,
     "uikTvd": "485400467715",
+    "uikName": "УИК №104",
     "tikTvd": "285200070884",
-    "tikName": "Нукутская"
+    "tikName": "Нукутская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 105,
     "uikTvd": "485400467716",
+    "uikName": "УИК №105",
     "tikTvd": "285200070884",
-    "tikName": "Нукутская"
+    "tikName": "Нукутская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 106,
     "uikTvd": "485400467717",
+    "uikName": "УИК №106",
     "tikTvd": "285200070884",
-    "tikName": "Нукутская"
+    "tikName": "Нукутская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 107,
     "uikTvd": "485400467718",
+    "uikName": "УИК №107",
     "tikTvd": "285200070884",
-    "tikName": "Нукутская"
+    "tikName": "Нукутская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 108,
     "uikTvd": "485400467719",
+    "uikName": "УИК №108",
     "tikTvd": "285200070884",
-    "tikName": "Нукутская"
+    "tikName": "Нукутская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 109,
     "uikTvd": "485400467720",
+    "uikName": "УИК №109",
     "tikTvd": "285200070884",
-    "tikName": "Нукутская"
+    "tikName": "Нукутская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 110,
     "uikTvd": "485400467721",
+    "uikName": "УИК №110",
     "tikTvd": "285200070884",
-    "tikName": "Нукутская"
+    "tikName": "Нукутская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 111,
     "uikTvd": "485400467722",
+    "uikName": "УИК №111",
     "tikTvd": "285200070884",
-    "tikName": "Нукутская"
+    "tikName": "Нукутская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 112,
     "uikTvd": "485400467723",
+    "uikName": "УИК №112",
     "tikTvd": "285200070884",
-    "tikName": "Нукутская"
+    "tikName": "Нукутская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 113,
     "uikTvd": "485400467724",
+    "uikName": "УИК №113",
     "tikTvd": "285200070884",
-    "tikName": "Нукутская"
+    "tikName": "Нукутская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 114,
     "uikTvd": "485400467725",
+    "uikName": "УИК №114",
     "tikTvd": "285200070884",
-    "tikName": "Нукутская"
+    "tikName": "Нукутская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 115,
     "uikTvd": "485400467726",
+    "uikName": "УИК №115",
     "tikTvd": "285200070884",
-    "tikName": "Нукутская"
+    "tikName": "Нукутская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 116,
     "uikTvd": "485400467727",
+    "uikName": "УИК №116",
     "tikTvd": "285200070884",
-    "tikName": "Нукутская"
+    "tikName": "Нукутская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 117,
     "uikTvd": "485400467728",
+    "uikName": "УИК №117",
     "tikTvd": "285200070884",
-    "tikName": "Нукутская"
+    "tikName": "Нукутская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 118,
     "uikTvd": "485400467729",
+    "uikName": "УИК №118",
     "tikTvd": "285200070884",
-    "tikName": "Нукутская"
+    "tikName": "Нукутская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 119,
     "uikTvd": "485400467730",
+    "uikName": "УИК №119",
     "tikTvd": "285200070884",
-    "tikName": "Нукутская"
+    "tikName": "Нукутская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 120,
     "uikTvd": "485400467731",
+    "uikName": "УИК №120",
     "tikTvd": "285200070884",
-    "tikName": "Нукутская"
+    "tikName": "Нукутская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 121,
     "uikTvd": "485400467732",
+    "uikName": "УИК №121",
     "tikTvd": "285200070884",
-    "tikName": "Нукутская"
+    "tikName": "Нукутская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 122,
     "uikTvd": "485400467733",
+    "uikName": "УИК №122",
     "tikTvd": "285200070884",
-    "tikName": "Нукутская"
+    "tikName": "Нукутская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 123,
     "uikTvd": "485400467734",
+    "uikName": "УИК №123",
     "tikTvd": "285200070884",
-    "tikName": "Нукутская"
+    "tikName": "Нукутская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 124,
     "uikTvd": "485400467735",
+    "uikName": "УИК №124",
     "tikTvd": "285200070884",
-    "tikName": "Нукутская"
+    "tikName": "Нукутская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 125,
     "uikTvd": "485400467736",
+    "uikName": "УИК №125",
     "tikTvd": "285200070884",
-    "tikName": "Нукутская"
+    "tikName": "Нукутская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 126,
     "uikTvd": "485400467737",
+    "uikName": "УИК №126",
     "tikTvd": "285200070884",
-    "tikName": "Нукутская"
+    "tikName": "Нукутская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 127,
     "uikTvd": "485400467738",
+    "uikName": "УИК №127",
     "tikTvd": "285200070884",
-    "tikName": "Нукутская"
+    "tikName": "Нукутская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 128,
     "uikTvd": "485400467739",
+    "uikName": "УИК №128",
     "tikTvd": "285200070884",
-    "tikName": "Нукутская"
+    "tikName": "Нукутская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 129,
     "uikTvd": "485400467740",
+    "uikName": "УИК №129",
     "tikTvd": "285200070884",
-    "tikName": "Нукутская"
+    "tikName": "Нукутская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 130,
     "uikTvd": "485400567484",
+    "uikName": "УИК  130",
     "tikTvd": "285200070885",
-    "tikName": "Осинская"
+    "tikName": "Осинская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 131,
     "uikTvd": "485400567485",
+    "uikName": "УИК  131",
     "tikTvd": "285200070885",
-    "tikName": "Осинская"
+    "tikName": "Осинская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 132,
     "uikTvd": "485400567486",
+    "uikName": "УИК  132",
     "tikTvd": "285200070885",
-    "tikName": "Осинская"
+    "tikName": "Осинская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 133,
     "uikTvd": "485400567487",
+    "uikName": "УИК  133",
     "tikTvd": "285200070885",
-    "tikName": "Осинская"
+    "tikName": "Осинская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 134,
     "uikTvd": "485400567488",
+    "uikName": "УИК  134",
     "tikTvd": "285200070885",
-    "tikName": "Осинская"
+    "tikName": "Осинская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 135,
     "uikTvd": "485400567489",
+    "uikName": "УИК  135",
     "tikTvd": "285200070885",
-    "tikName": "Осинская"
+    "tikName": "Осинская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 136,
     "uikTvd": "485400567490",
+    "uikName": "УИК  136",
     "tikTvd": "285200070885",
-    "tikName": "Осинская"
+    "tikName": "Осинская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 137,
     "uikTvd": "485400567491",
+    "uikName": "УИК  137",
     "tikTvd": "285200070885",
-    "tikName": "Осинская"
+    "tikName": "Осинская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 138,
     "uikTvd": "485400567492",
+    "uikName": "УИК  138",
     "tikTvd": "285200070885",
-    "tikName": "Осинская"
+    "tikName": "Осинская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 139,
     "uikTvd": "485400567493",
+    "uikName": "УИК  139",
     "tikTvd": "285200070885",
-    "tikName": "Осинская"
+    "tikName": "Осинская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 140,
     "uikTvd": "485400567494",
+    "uikName": "УИК  140",
     "tikTvd": "285200070885",
-    "tikName": "Осинская"
+    "tikName": "Осинская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 141,
     "uikTvd": "485400567495",
+    "uikName": "УИК  141",
     "tikTvd": "285200070885",
-    "tikName": "Осинская"
+    "tikName": "Осинская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 142,
     "uikTvd": "485400567496",
+    "uikName": "УИК  142",
     "tikTvd": "285200070885",
-    "tikName": "Осинская"
+    "tikName": "Осинская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 143,
     "uikTvd": "485400567497",
+    "uikName": "УИК  143",
     "tikTvd": "285200070885",
-    "tikName": "Осинская"
+    "tikName": "Осинская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 144,
     "uikTvd": "485400567498",
+    "uikName": "УИК  144",
     "tikTvd": "285200070885",
-    "tikName": "Осинская"
+    "tikName": "Осинская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 145,
     "uikTvd": "485400567499",
+    "uikName": "УИК  145",
     "tikTvd": "285200070885",
-    "tikName": "Осинская"
+    "tikName": "Осинская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 146,
     "uikTvd": "485400567500",
+    "uikName": "УИК  146",
     "tikTvd": "285200070885",
-    "tikName": "Осинская"
+    "tikName": "Осинская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 147,
     "uikTvd": "485400567501",
+    "uikName": "УИК  147",
     "tikTvd": "285200070885",
-    "tikName": "Осинская"
+    "tikName": "Осинская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 148,
     "uikTvd": "485400567502",
+    "uikName": "УИК  148",
     "tikTvd": "285200070885",
-    "tikName": "Осинская"
+    "tikName": "Осинская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 149,
     "uikTvd": "485400567503",
+    "uikName": "УИК  149",
     "tikTvd": "285200070885",
-    "tikName": "Осинская"
+    "tikName": "Осинская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 150,
     "uikTvd": "485400567504",
+    "uikName": "УИК  150",
     "tikTvd": "285200070885",
-    "tikName": "Осинская"
+    "tikName": "Осинская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 151,
     "uikTvd": "485400567505",
+    "uikName": "УИК  151",
     "tikTvd": "285200070885",
-    "tikName": "Осинская"
+    "tikName": "Осинская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 152,
     "uikTvd": "485400567506",
+    "uikName": "УИК  152",
     "tikTvd": "285200070885",
-    "tikName": "Осинская"
+    "tikName": "Осинская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 153,
     "uikTvd": "485400567507",
+    "uikName": "УИК  153",
     "tikTvd": "285200070885",
-    "tikName": "Осинская"
+    "tikName": "Осинская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 154,
     "uikTvd": "485400567508",
+    "uikName": "УИК  154",
     "tikTvd": "285200070885",
-    "tikName": "Осинская"
+    "tikName": "Осинская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 155,
     "uikTvd": "485400567509",
+    "uikName": "УИК  155",
     "tikTvd": "285200070885",
-    "tikName": "Осинская"
+    "tikName": "Осинская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 156,
     "uikTvd": "485400567510",
+    "uikName": "УИК  156",
     "tikTvd": "285200070885",
-    "tikName": "Осинская"
+    "tikName": "Осинская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 157,
     "uikTvd": "485400567511",
+    "uikName": "УИК  157",
     "tikTvd": "285200070885",
-    "tikName": "Осинская"
+    "tikName": "Осинская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 158,
     "uikTvd": "485400667782",
+    "uikName": "УИК №158",
     "tikTvd": "285200070886",
-    "tikName": "Эхирит-Булагатская"
+    "tikName": "Эхирит-Булагатская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 159,
     "uikTvd": "485400667783",
+    "uikName": "УИК №159",
     "tikTvd": "285200070886",
-    "tikName": "Эхирит-Булагатская"
+    "tikName": "Эхирит-Булагатская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 160,
     "uikTvd": "485400667784",
+    "uikName": "УИК №160",
     "tikTvd": "285200070886",
-    "tikName": "Эхирит-Булагатская"
+    "tikName": "Эхирит-Булагатская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 161,
     "uikTvd": "485400667785",
+    "uikName": "УИК №161",
     "tikTvd": "285200070886",
-    "tikName": "Эхирит-Булагатская"
+    "tikName": "Эхирит-Булагатская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 162,
     "uikTvd": "485400667786",
+    "uikName": "УИК №162",
     "tikTvd": "285200070886",
-    "tikName": "Эхирит-Булагатская"
+    "tikName": "Эхирит-Булагатская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 163,
     "uikTvd": "485400667787",
+    "uikName": "УИК №163",
     "tikTvd": "285200070886",
-    "tikName": "Эхирит-Булагатская"
+    "tikName": "Эхирит-Булагатская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 164,
     "uikTvd": "485400667788",
+    "uikName": "УИК №164",
     "tikTvd": "285200070886",
-    "tikName": "Эхирит-Булагатская"
+    "tikName": "Эхирит-Булагатская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 165,
     "uikTvd": "485400667789",
+    "uikName": "УИК №165",
     "tikTvd": "285200070886",
-    "tikName": "Эхирит-Булагатская"
+    "tikName": "Эхирит-Булагатская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 166,
     "uikTvd": "485400667790",
+    "uikName": "УИК №166",
     "tikTvd": "285200070886",
-    "tikName": "Эхирит-Булагатская"
+    "tikName": "Эхирит-Булагатская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 167,
     "uikTvd": "485400667791",
+    "uikName": "УИК №167",
     "tikTvd": "285200070886",
-    "tikName": "Эхирит-Булагатская"
+    "tikName": "Эхирит-Булагатская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 168,
     "uikTvd": "485400667792",
+    "uikName": "УИК №168",
     "tikTvd": "285200070886",
-    "tikName": "Эхирит-Булагатская"
+    "tikName": "Эхирит-Булагатская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 169,
     "uikTvd": "485400667793",
+    "uikName": "УИК №169",
     "tikTvd": "285200070886",
-    "tikName": "Эхирит-Булагатская"
+    "tikName": "Эхирит-Булагатская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 170,
     "uikTvd": "485400667794",
+    "uikName": "УИК №170",
     "tikTvd": "285200070886",
-    "tikName": "Эхирит-Булагатская"
+    "tikName": "Эхирит-Булагатская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 171,
     "uikTvd": "485400667795",
+    "uikName": "УИК №171",
     "tikTvd": "285200070886",
-    "tikName": "Эхирит-Булагатская"
+    "tikName": "Эхирит-Булагатская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 172,
     "uikTvd": "485400667796",
+    "uikName": "УИК №172",
     "tikTvd": "285200070886",
-    "tikName": "Эхирит-Булагатская"
+    "tikName": "Эхирит-Булагатская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 173,
     "uikTvd": "485400667797",
+    "uikName": "УИК №173",
     "tikTvd": "285200070886",
-    "tikName": "Эхирит-Булагатская"
+    "tikName": "Эхирит-Булагатская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 174,
     "uikTvd": "485400667798",
+    "uikName": "УИК №174",
     "tikTvd": "285200070886",
-    "tikName": "Эхирит-Булагатская"
+    "tikName": "Эхирит-Булагатская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 175,
     "uikTvd": "485400667799",
+    "uikName": "УИК №175",
     "tikTvd": "285200070886",
-    "tikName": "Эхирит-Булагатская"
+    "tikName": "Эхирит-Булагатская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 176,
     "uikTvd": "485400667800",
+    "uikName": "УИК №176",
     "tikTvd": "285200070886",
-    "tikName": "Эхирит-Булагатская"
+    "tikName": "Эхирит-Булагатская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 177,
     "uikTvd": "485400667801",
+    "uikName": "УИК №177",
     "tikTvd": "285200070886",
-    "tikName": "Эхирит-Булагатская"
+    "tikName": "Эхирит-Булагатская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 178,
     "uikTvd": "485400667802",
+    "uikName": "УИК №178",
     "tikTvd": "285200070886",
-    "tikName": "Эхирит-Булагатская"
+    "tikName": "Эхирит-Булагатская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 179,
     "uikTvd": "485400667803",
+    "uikName": "УИК №179",
     "tikTvd": "285200070886",
-    "tikName": "Эхирит-Булагатская"
+    "tikName": "Эхирит-Булагатская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 180,
     "uikTvd": "485400667804",
+    "uikName": "УИК №180",
     "tikTvd": "285200070886",
-    "tikName": "Эхирит-Булагатская"
+    "tikName": "Эхирит-Булагатская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 181,
     "uikTvd": "485400667805",
+    "uikName": "УИК №181",
     "tikTvd": "285200070886",
-    "tikName": "Эхирит-Булагатская"
+    "tikName": "Эхирит-Булагатская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 182,
     "uikTvd": "485400667806",
+    "uikName": "УИК №182",
     "tikTvd": "285200070886",
-    "tikName": "Эхирит-Булагатская"
+    "tikName": "Эхирит-Булагатская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 183,
     "uikTvd": "485400667807",
+    "uikName": "УИК №183",
     "tikTvd": "285200070886",
-    "tikName": "Эхирит-Булагатская"
+    "tikName": "Эхирит-Булагатская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 184,
     "uikTvd": "485400667808",
+    "uikName": "УИК №184",
     "tikTvd": "285200070886",
-    "tikName": "Эхирит-Булагатская"
+    "tikName": "Эхирит-Булагатская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 185,
     "uikTvd": "485400667809",
+    "uikName": "УИК №185",
     "tikTvd": "285200070886",
-    "tikName": "Эхирит-Булагатская"
+    "tikName": "Эхирит-Булагатская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 186,
     "uikTvd": "485400667810",
+    "uikName": "УИК №186",
     "tikTvd": "285200070886",
-    "tikName": "Эхирит-Булагатская"
+    "tikName": "Эхирит-Булагатская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 187,
     "uikTvd": "485400667811",
+    "uikName": "УИК №187",
     "tikTvd": "285200070886",
-    "tikName": "Эхирит-Булагатская"
+    "tikName": "Эхирит-Булагатская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 188,
     "uikTvd": "485400667812",
+    "uikName": "УИК №188",
     "tikTvd": "285200070886",
-    "tikName": "Эхирит-Булагатская"
+    "tikName": "Эхирит-Булагатская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 189,
     "uikTvd": "485400667813",
+    "uikName": "УИК №189",
     "tikTvd": "285200070886",
-    "tikName": "Эхирит-Булагатская"
+    "tikName": "Эхирит-Булагатская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 190,
     "uikTvd": "485400667814",
+    "uikName": "УИК №190",
     "tikTvd": "285200070886",
-    "tikName": "Эхирит-Булагатская"
+    "tikName": "Эхирит-Булагатская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 191,
     "uikTvd": "485400667815",
+    "uikName": "УИК №191",
     "tikTvd": "285200070886",
-    "tikName": "Эхирит-Булагатская"
+    "tikName": "Эхирит-Булагатская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 192,
     "uikTvd": "485400667816",
+    "uikName": "УИК №192",
     "tikTvd": "285200070886",
-    "tikName": "Эхирит-Булагатская"
+    "tikName": "Эхирит-Булагатская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 193,
     "uikTvd": "485400667817",
+    "uikName": "УИК №193",
     "tikTvd": "285200070886",
-    "tikName": "Эхирит-Булагатская"
+    "tikName": "Эхирит-Булагатская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 194,
     "uikTvd": "485400667818",
+    "uikName": "УИК №194",
     "tikTvd": "285200070886",
-    "tikName": "Эхирит-Булагатская"
+    "tikName": "Эхирит-Булагатская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 195,
     "uikTvd": "485400667819",
+    "uikName": "УИК №195",
     "tikTvd": "285200070886",
-    "tikName": "Эхирит-Булагатская"
+    "tikName": "Эхирит-Булагатская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 196,
     "uikTvd": "485400667820",
+    "uikName": "УИК №196",
     "tikTvd": "285200070886",
-    "tikName": "Эхирит-Булагатская"
+    "tikName": "Эхирит-Булагатская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 197,
     "uikTvd": "485400667821",
+    "uikName": "УИК №197",
     "tikTvd": "285200070886",
-    "tikName": "Эхирит-Булагатская"
+    "tikName": "Эхирит-Булагатская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 198,
     "uikTvd": "485400667822",
+    "uikName": "УИК №198",
     "tikTvd": "285200070886",
-    "tikName": "Эхирит-Булагатская"
+    "tikName": "Эхирит-Булагатская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 199,
     "uikTvd": "485400167959",
+    "uikName": "УИК №199",
     "tikTvd": "285200070881",
-    "tikName": "Аларская"
+    "tikName": "Аларская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   },
   {
     "uikNumber": 200,
     "uikTvd": "485400667823",
+    "uikName": "УИК №200",
     "tikTvd": "285200070886",
-    "tikName": "Эхирит-Булагатская"
+    "tikName": "Эхирит-Булагатская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": null
   }
 ] satisfies readonly UikTikRelation[];

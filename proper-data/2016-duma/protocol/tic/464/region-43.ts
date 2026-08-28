@@ -11,6 +11,14 @@ export const duma_2016_tic_464_region_43 = [
     "ballot": "single-member",
     "tikTvd": "2432000773442",
     "tikName": "Мурашинская",
+    "regionCode": "43",
+    "regionTvd": "100100067795990",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 105,
+      "oikTvd": "100100067795991",
+      "oikName": "Кировская область – Кировский"
+    },
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 10572,
@@ -76,6 +84,14 @@ export const duma_2016_tic_464_region_43 = [
     "ballot": "single-member",
     "tikTvd": "2432000773446",
     "tikName": "Оричевская",
+    "regionCode": "43",
+    "regionTvd": "100100067795990",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 105,
+      "oikTvd": "100100067795991",
+      "oikName": "Кировская область – Кировский"
+    },
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 23856,
@@ -158,6 +174,14 @@ export const duma_2016_tic_464_region_43 = [
     "ballot": "single-member",
     "tikTvd": "2432000773448",
     "tikName": "Верхнекамская",
+    "regionCode": "43",
+    "regionTvd": "100100067795990",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 105,
+      "oikTvd": "100100067795991",
+      "oikName": "Кировская область – Кировский"
+    },
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 21693,
@@ -235,6 +259,14 @@ export const duma_2016_tic_464_region_43 = [
     "ballot": "single-member",
     "tikTvd": "2432000773451",
     "tikName": "Орловская",
+    "regionCode": "43",
+    "regionTvd": "100100067795990",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 105,
+      "oikTvd": "100100067795991",
+      "oikName": "Кировская область – Кировский"
+    },
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 10915,
@@ -302,6 +334,14 @@ export const duma_2016_tic_464_region_43 = [
     "ballot": "single-member",
     "tikTvd": "2432000773452",
     "tikName": "Киров, Первомайская",
+    "regionCode": "43",
+    "regionTvd": "100100067795990",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 105,
+      "oikTvd": "100100067795991",
+      "oikName": "Кировская область – Кировский"
+    },
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 65543,
@@ -386,6 +426,14 @@ export const duma_2016_tic_464_region_43 = [
     "ballot": "single-member",
     "tikTvd": "2432000773454",
     "tikName": "ЗАТО Первомайский",
+    "regionCode": "43",
+    "regionTvd": "100100067795990",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 105,
+      "oikTvd": "100100067795991",
+      "oikName": "Кировская область – Кировский"
+    },
     "uikCount": 4,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 3241,
@@ -439,6 +487,14 @@ export const duma_2016_tic_464_region_43 = [
     "ballot": "single-member",
     "tikTvd": "2432000773455",
     "tikName": "Котельничская городская",
+    "regionCode": "43",
+    "regionTvd": "100100067795990",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 105,
+      "oikTvd": "100100067795991",
+      "oikName": "Кировская область – Кировский"
+    },
     "uikCount": 12,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 20172,
@@ -500,6 +556,14 @@ export const duma_2016_tic_464_region_43 = [
     "ballot": "single-member",
     "tikTvd": "2432000773456",
     "tikName": "Слободская городская",
+    "regionCode": "43",
+    "regionTvd": "100100067795990",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 105,
+      "oikTvd": "100100067795991",
+      "oikName": "Кировская область – Кировский"
+    },
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 27830,
@@ -567,6 +631,14 @@ export const duma_2016_tic_464_region_43 = [
     "ballot": "single-member",
     "tikTvd": "2432000773460",
     "tikName": "Омутнинская",
+    "regionCode": "43",
+    "regionTvd": "100100067795990",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 105,
+      "oikTvd": "100100067795991",
+      "oikName": "Кировская область – Кировский"
+    },
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 33258,
@@ -650,6 +722,14 @@ export const duma_2016_tic_464_region_43 = [
     "ballot": "single-member",
     "tikTvd": "2432000773465",
     "tikName": "Нагорская",
+    "regionCode": "43",
+    "regionTvd": "100100067795990",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 105,
+      "oikTvd": "100100067795991",
+      "oikName": "Кировская область – Кировский"
+    },
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 8566,
@@ -718,6 +798,14 @@ export const duma_2016_tic_464_region_43 = [
     "ballot": "single-member",
     "tikTvd": "2432000773466",
     "tikName": "Белохолуницкая",
+    "regionCode": "43",
+    "regionTvd": "100100067795990",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 105,
+      "oikTvd": "100100067795991",
+      "oikName": "Кировская область – Кировский"
+    },
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 16232,
@@ -792,6 +880,14 @@ export const duma_2016_tic_464_region_43 = [
     "ballot": "single-member",
     "tikTvd": "2432000773467",
     "tikName": "Киров, Октябрьская",
+    "regionCode": "43",
+    "regionTvd": "100100067795990",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 105,
+      "oikTvd": "100100067795991",
+      "oikName": "Кировская область – Кировский"
+    },
     "uikCount": 73,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 129397,
@@ -914,6 +1010,14 @@ export const duma_2016_tic_464_region_43 = [
     "ballot": "single-member",
     "tikTvd": "2432000773469",
     "tikName": "Зуевская",
+    "regionCode": "43",
+    "regionTvd": "100100067795990",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 105,
+      "oikTvd": "100100067795991",
+      "oikName": "Кировская область – Кировский"
+    },
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 19021,
@@ -991,6 +1095,14 @@ export const duma_2016_tic_464_region_43 = [
     "ballot": "single-member",
     "tikTvd": "2432000773472",
     "tikName": "Опаpинская",
+    "regionCode": "43",
+    "regionTvd": "100100067795990",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 105,
+      "oikTvd": "100100067795991",
+      "oikName": "Кировская область – Кировский"
+    },
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 8461,
@@ -1055,6 +1167,14 @@ export const duma_2016_tic_464_region_43 = [
     "ballot": "single-member",
     "tikTvd": "2432000773474",
     "tikName": "Лузская",
+    "regionCode": "43",
+    "regionTvd": "100100067795990",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 105,
+      "oikTvd": "100100067795991",
+      "oikName": "Кировская область – Кировский"
+    },
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 14554,
@@ -1127,6 +1247,14 @@ export const duma_2016_tic_464_region_43 = [
     "ballot": "single-member",
     "tikTvd": "2432000773475",
     "tikName": "Шабалинская",
+    "regionCode": "43",
+    "regionTvd": "100100067795990",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 105,
+      "oikTvd": "100100067795991",
+      "oikName": "Кировская область – Кировский"
+    },
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 9197,
@@ -1193,6 +1321,14 @@ export const duma_2016_tic_464_region_43 = [
     "ballot": "single-member",
     "tikTvd": "2432000773477",
     "tikName": "Афанасьевская",
+    "regionCode": "43",
+    "regionTvd": "100100067795990",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 105,
+      "oikTvd": "100100067795991",
+      "oikName": "Кировская область – Кировский"
+    },
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 11272,
@@ -1272,6 +1408,14 @@ export const duma_2016_tic_464_region_43 = [
     "ballot": "single-member",
     "tikTvd": "2432000773479",
     "tikName": "Свечинская",
+    "regionCode": "43",
+    "regionTvd": "100100067795990",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 105,
+      "oikTvd": "100100067795991",
+      "oikName": "Кировская область – Кировский"
+    },
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 6615,
@@ -1335,6 +1479,14 @@ export const duma_2016_tic_464_region_43 = [
     "ballot": "single-member",
     "tikTvd": "2432000773485",
     "tikName": "Котельничская",
+    "regionCode": "43",
+    "regionTvd": "100100067795990",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 105,
+      "oikTvd": "100100067795991",
+      "oikName": "Кировская область – Кировский"
+    },
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 13281,
@@ -1407,6 +1559,14 @@ export const duma_2016_tic_464_region_43 = [
     "ballot": "single-member",
     "tikTvd": "2432000773489",
     "tikName": "Фаленская",
+    "regionCode": "43",
+    "regionTvd": "100100067795990",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 105,
+      "oikTvd": "100100067795991",
+      "oikName": "Кировская область – Кировский"
+    },
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 9586,
@@ -1475,6 +1635,14 @@ export const duma_2016_tic_464_region_43 = [
     "ballot": "single-member",
     "tikTvd": "2432000773491",
     "tikName": "Юрьянская",
+    "regionCode": "43",
+    "regionTvd": "100100067795990",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 105,
+      "oikTvd": "100100067795991",
+      "oikName": "Кировская область – Кировский"
+    },
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 16244,
@@ -1544,6 +1712,14 @@ export const duma_2016_tic_464_region_43 = [
     "ballot": "single-member",
     "tikTvd": "2432000773492",
     "tikName": "Даровская",
+    "regionCode": "43",
+    "regionTvd": "100100067795990",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 105,
+      "oikTvd": "100100067795991",
+      "oikName": "Кировская область – Кировский"
+    },
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 9293,
@@ -1613,6 +1789,14 @@ export const duma_2016_tic_464_region_43 = [
     "ballot": "single-member",
     "tikTvd": "2432000773493",
     "tikName": "Слободская",
+    "regionCode": "43",
+    "regionTvd": "100100067795990",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 105,
+      "oikTvd": "100100067795991",
+      "oikName": "Кировская область – Кировский"
+    },
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 24900,
@@ -1694,6 +1878,14 @@ export const duma_2016_tic_464_region_43 = [
     "ballot": "single-member",
     "tikTvd": "2432000773497",
     "tikName": "Подосиновская",
+    "regionCode": "43",
+    "regionTvd": "100100067795990",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 105,
+      "oikTvd": "100100067795991",
+      "oikName": "Кировская область – Кировский"
+    },
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 13715,
@@ -1762,6 +1954,14 @@ export const duma_2016_tic_464_region_43 = [
     "ballot": "single-member",
     "tikTvd": "2432000773536",
     "tikName": "Яранская",
+    "regionCode": "43",
+    "regionTvd": "100100067795990",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 106,
+      "oikTvd": "100100067795992",
+      "oikName": "Кировская область – Кирово-Чепецкий"
+    },
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 23074,
@@ -1850,6 +2050,14 @@ export const duma_2016_tic_464_region_43 = [
     "ballot": "single-member",
     "tikTvd": "2432000773537",
     "tikName": "Уржумская",
+    "regionCode": "43",
+    "regionTvd": "100100067795990",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 106,
+      "oikTvd": "100100067795992",
+      "oikName": "Кировская область – Кирово-Чепецкий"
+    },
     "uikCount": 45,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 19460,
@@ -1946,6 +2154,14 @@ export const duma_2016_tic_464_region_43 = [
     "ballot": "single-member",
     "tikTvd": "2432000773538",
     "tikName": "Унинская",
+    "regionCode": "43",
+    "regionTvd": "100100067795990",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 106,
+      "oikTvd": "100100067795992",
+      "oikName": "Кировская область – Кирово-Чепецкий"
+    },
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 7512,
@@ -2017,6 +2233,14 @@ export const duma_2016_tic_464_region_43 = [
     "ballot": "single-member",
     "tikTvd": "2432000773539",
     "tikName": "Тужинская",
+    "regionCode": "43",
+    "regionTvd": "100100067795990",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 106,
+      "oikTvd": "100100067795992",
+      "oikName": "Кировская область – Кирово-Чепецкий"
+    },
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 6559,
@@ -2083,6 +2307,14 @@ export const duma_2016_tic_464_region_43 = [
     "ballot": "single-member",
     "tikTvd": "2432000773540",
     "tikName": "Сунская",
+    "regionCode": "43",
+    "regionTvd": "100100067795990",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 106,
+      "oikTvd": "100100067795992",
+      "oikName": "Кировская область – Кирово-Чепецкий"
+    },
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 5776,
@@ -2149,6 +2381,14 @@ export const duma_2016_tic_464_region_43 = [
     "ballot": "single-member",
     "tikTvd": "2432000773541",
     "tikName": "Советская",
+    "regionCode": "43",
+    "regionTvd": "100100067795990",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 106,
+      "oikTvd": "100100067795992",
+      "oikName": "Кировская область – Кирово-Чепецкий"
+    },
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 21776,
@@ -2233,6 +2473,14 @@ export const duma_2016_tic_464_region_43 = [
     "ballot": "single-member",
     "tikTvd": "2432000773542",
     "tikName": "Санчурская",
+    "regionCode": "43",
+    "regionTvd": "100100067795990",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 106,
+      "oikTvd": "100100067795992",
+      "oikName": "Кировская область – Кирово-Чепецкий"
+    },
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 8103,
@@ -2301,6 +2549,14 @@ export const duma_2016_tic_464_region_43 = [
     "ballot": "single-member",
     "tikTvd": "2432000773543",
     "tikName": "Пижанская",
+    "regionCode": "43",
+    "regionTvd": "100100067795990",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 106,
+      "oikTvd": "100100067795992",
+      "oikName": "Кировская область – Кирово-Чепецкий"
+    },
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 8500,
@@ -2365,6 +2621,14 @@ export const duma_2016_tic_464_region_43 = [
     "ballot": "single-member",
     "tikTvd": "2432000773544",
     "tikName": "Нолинская",
+    "regionCode": "43",
+    "regionTvd": "100100067795990",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 106,
+      "oikTvd": "100100067795992",
+      "oikName": "Кировская область – Кирово-Чепецкий"
+    },
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 16596,
@@ -2438,6 +2702,14 @@ export const duma_2016_tic_464_region_43 = [
     "ballot": "single-member",
     "tikTvd": "2432000773545",
     "tikName": "Немская",
+    "regionCode": "43",
+    "regionTvd": "100100067795990",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 106,
+      "oikTvd": "100100067795992",
+      "oikName": "Кировская область – Кирово-Чепецкий"
+    },
     "uikCount": 11,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 6855,
@@ -2500,6 +2772,14 @@ export const duma_2016_tic_464_region_43 = [
     "ballot": "single-member",
     "tikTvd": "2432000773546",
     "tikName": "Малмыжская",
+    "regionCode": "43",
+    "regionTvd": "100100067795990",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 106,
+      "oikTvd": "100100067795992",
+      "oikName": "Кировская область – Кирово-Чепецкий"
+    },
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 21528,
@@ -2586,6 +2866,14 @@ export const duma_2016_tic_464_region_43 = [
     "ballot": "single-member",
     "tikTvd": "2432000773547",
     "tikName": "Лебяжская",
+    "regionCode": "43",
+    "regionTvd": "100100067795990",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 106,
+      "oikTvd": "100100067795992",
+      "oikName": "Кировская область – Кирово-Чепецкий"
+    },
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 7477,
@@ -2656,6 +2944,14 @@ export const duma_2016_tic_464_region_43 = [
     "ballot": "single-member",
     "tikTvd": "2432000773548",
     "tikName": "Куменская",
+    "regionCode": "43",
+    "regionTvd": "100100067795990",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 106,
+      "oikTvd": "100100067795992",
+      "oikName": "Кировская область – Кирово-Чепецкий"
+    },
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 14651,
@@ -2730,6 +3026,14 @@ export const duma_2016_tic_464_region_43 = [
     "ballot": "single-member",
     "tikTvd": "2432000773549",
     "tikName": "Кирово-Чепецкая городская",
+    "regionCode": "43",
+    "regionTvd": "100100067795990",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 106,
+      "oikTvd": "100100067795992",
+      "oikName": "Кировская область – Кирово-Чепецкий"
+    },
     "uikCount": 41,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 63105,
@@ -2822,6 +3126,14 @@ export const duma_2016_tic_464_region_43 = [
     "ballot": "single-member",
     "tikTvd": "2432000773550",
     "tikName": "Кирово-Чепецкая",
+    "regionCode": "43",
+    "regionTvd": "100100067795990",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 106,
+      "oikTvd": "100100067795992",
+      "oikName": "Кировская область – Кирово-Чепецкий"
+    },
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 18775,
@@ -2893,6 +3205,14 @@ export const duma_2016_tic_464_region_43 = [
     "ballot": "single-member",
     "tikTvd": "2432000773551",
     "tikName": "Киров, Нововятская",
+    "regionCode": "43",
+    "regionTvd": "100100067795990",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 106,
+      "oikTvd": "100100067795992",
+      "oikName": "Кировская область – Кирово-Чепецкий"
+    },
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 39474,
@@ -2962,6 +3282,14 @@ export const duma_2016_tic_464_region_43 = [
     "ballot": "single-member",
     "tikTvd": "2432000773552",
     "tikName": "Киров, Ленинская",
+    "regionCode": "43",
+    "regionTvd": "100100067795990",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 106,
+      "oikTvd": "100100067795992",
+      "oikName": "Кировская область – Кирово-Чепецкий"
+    },
     "uikCount": 98,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 173749,
@@ -3111,6 +3439,14 @@ export const duma_2016_tic_464_region_43 = [
     "ballot": "single-member",
     "tikTvd": "2432000773553",
     "tikName": "Кильмезская",
+    "regionCode": "43",
+    "regionTvd": "100100067795990",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 106,
+      "oikTvd": "100100067795992",
+      "oikName": "Кировская область – Кирово-Чепецкий"
+    },
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 10963,
@@ -3186,6 +3522,14 @@ export const duma_2016_tic_464_region_43 = [
     "ballot": "single-member",
     "tikTvd": "2432000773554",
     "tikName": "Кикнурская",
+    "regionCode": "43",
+    "regionTvd": "100100067795990",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 106,
+      "oikTvd": "100100067795992",
+      "oikName": "Кировская область – Кирово-Чепецкий"
+    },
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 8152,
@@ -3251,6 +3595,14 @@ export const duma_2016_tic_464_region_43 = [
     "ballot": "single-member",
     "tikTvd": "2432000773555",
     "tikName": "Вятскополянская городская",
+    "regionCode": "43",
+    "regionTvd": "100100067795990",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 106,
+      "oikTvd": "100100067795992",
+      "oikName": "Кировская область – Кирово-Чепецкий"
+    },
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 28636,
@@ -3320,6 +3672,14 @@ export const duma_2016_tic_464_region_43 = [
     "ballot": "single-member",
     "tikTvd": "2432000773556",
     "tikName": "Вятскополянская",
+    "regionCode": "43",
+    "regionTvd": "100100067795990",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 106,
+      "oikTvd": "100100067795992",
+      "oikName": "Кировская область – Кирово-Чепецкий"
+    },
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 24466,
@@ -3405,6 +3765,14 @@ export const duma_2016_tic_464_region_43 = [
     "ballot": "single-member",
     "tikTvd": "2432000773557",
     "tikName": "Верхошижемская",
+    "regionCode": "43",
+    "regionTvd": "100100067795990",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 106,
+      "oikTvd": "100100067795992",
+      "oikName": "Кировская область – Кирово-Чепецкий"
+    },
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 7709,
@@ -3469,6 +3837,14 @@ export const duma_2016_tic_464_region_43 = [
     "ballot": "single-member",
     "tikTvd": "2432000773558",
     "tikName": "Богородская",
+    "regionCode": "43",
+    "regionTvd": "100100067795990",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 106,
+      "oikTvd": "100100067795992",
+      "oikName": "Кировская область – Кирово-Чепецкий"
+    },
     "uikCount": 12,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 4194,
@@ -3532,6 +3908,14 @@ export const duma_2016_tic_464_region_43 = [
     "ballot": "single-member",
     "tikTvd": "2432000773559",
     "tikName": "Арбажская",
+    "regionCode": "43",
+    "regionTvd": "100100067795990",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 106,
+      "oikTvd": "100100067795992",
+      "oikName": "Кировская область – Кирово-Чепецкий"
+    },
     "uikCount": 11,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 6128,

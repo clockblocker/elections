@@ -11,6 +11,9 @@ export const duma_2011_tic_233_region_83 = [
     "ballot": "party",
     "tikTvd": "2832000173251",
     "tikName": "Заполярного района",
+    "regionCode": "83",
+    "regionTvd": "100100028713475",
+    "regionName": "Ненецкий автономный округ",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 18882,
@@ -100,6 +103,9 @@ export const duma_2011_tic_233_region_83 = [
     "ballot": "party",
     "tikTvd": "2832000173252",
     "tikName": "Нарьян-Марская",
+    "regionCode": "83",
+    "regionTvd": "100100028713475",
+    "regionName": "Ненецкий автономный округ",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 16615,

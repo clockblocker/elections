@@ -11,6 +11,9 @@ export const president_2024_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "25220002819414",
     "tikName": "Первомайская",
+    "regionCode": "52",
+    "regionTvd": "100100339411245",
+    "regionName": "Нижегородская область",
     "uikCount": 9,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 11259,
@@ -60,6 +63,9 @@ export const president_2024_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "25220002819415",
     "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "100100339411245",
+    "regionName": "Нижегородская область",
     "uikCount": 58,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 100801,
@@ -158,6 +164,9 @@ export const president_2024_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "25220002819416",
     "tikName": "Тоншаевская",
+    "regionCode": "52",
+    "regionTvd": "100100339411245",
+    "regionName": "Нижегородская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 8670,
@@ -218,6 +227,9 @@ export const president_2024_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "25220002819417",
     "tikName": "Краснооктябрьская",
+    "regionCode": "52",
+    "regionTvd": "100100339411245",
+    "regionName": "Нижегородская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 6464,
@@ -287,6 +299,9 @@ export const president_2024_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "25220002819418",
     "tikName": "Сергачская",
+    "regionCode": "52",
+    "regionTvd": "100100339411245",
+    "regionName": "Нижегородская область",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 19795,
@@ -366,6 +381,9 @@ export const president_2024_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "25220002819419",
     "tikName": "Шатковская",
+    "regionCode": "52",
+    "regionTvd": "100100339411245",
+    "regionName": "Нижегородская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 15469,
@@ -425,6 +443,9 @@ export const president_2024_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "25220002819420",
     "tikName": "Княгининская",
+    "regionCode": "52",
+    "regionTvd": "100100339411245",
+    "regionName": "Нижегородская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 7532,
@@ -485,6 +506,9 @@ export const president_2024_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "25220002819421",
     "tikName": "Саровская",
+    "regionCode": "52",
+    "regionTvd": "100100339411245",
+    "regionName": "Нижегородская область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 66272,
@@ -561,6 +585,9 @@ export const president_2024_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "25220002819422",
     "tikName": "Уренская",
+    "regionCode": "52",
+    "regionTvd": "100100339411245",
+    "regionName": "Нижегородская область",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 18233,
@@ -633,6 +660,9 @@ export const president_2024_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "25220002819423",
     "tikName": "Лукояновская",
+    "regionCode": "52",
+    "regionTvd": "100100339411245",
+    "regionName": "Нижегородская область",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 15768,
@@ -710,6 +740,9 @@ export const president_2024_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "25220002819424",
     "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "100100339411245",
+    "regionName": "Нижегородская область",
     "uikCount": 64,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 113250,
@@ -814,6 +847,9 @@ export const president_2024_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "25220002819425",
     "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "100100339411245",
+    "regionName": "Нижегородская область",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 44641,
@@ -896,6 +932,9 @@ export const president_2024_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "25220002819426",
     "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "100100339411245",
+    "regionName": "Нижегородская область",
     "uikCount": 68,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 104560,
@@ -1004,6 +1043,9 @@ export const president_2024_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "25220002819427",
     "tikName": "Борская",
+    "regionCode": "52",
+    "regionTvd": "100100339411245",
+    "regionName": "Нижегородская область",
     "uikCount": 90,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 88373,
@@ -1134,6 +1176,9 @@ export const president_2024_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "25220002819428",
     "tikName": "Лысковская",
+    "regionCode": "52",
+    "regionTvd": "100100339411245",
+    "regionName": "Нижегородская область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 25510,
@@ -1210,6 +1255,9 @@ export const president_2024_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "25220002819429",
     "tikName": "Воротынская",
+    "regionCode": "52",
+    "regionTvd": "100100339411245",
+    "regionName": "Нижегородская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 11563,
@@ -1275,6 +1323,9 @@ export const president_2024_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "25220002819430",
     "tikName": "Ветлужская",
+    "regionCode": "52",
+    "regionTvd": "100100339411245",
+    "regionName": "Нижегородская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9366,
@@ -1338,6 +1389,9 @@ export const president_2024_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "25220002819431",
     "tikName": "Навашинская",
+    "regionCode": "52",
+    "regionTvd": "100100339411245",
+    "regionName": "Нижегородская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 15654,
@@ -1402,6 +1456,9 @@ export const president_2024_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "25220002819432",
     "tikName": "Городецкая",
+    "regionCode": "52",
+    "regionTvd": "100100339411245",
+    "regionName": "Нижегородская область",
     "uikCount": 47,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 60976,
@@ -1489,6 +1546,9 @@ export const president_2024_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "25220002819433",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100339411245",
+    "regionName": "Нижегородская область",
     "uikCount": 131,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 92440,
@@ -1660,6 +1720,9 @@ export const president_2024_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "25220002819434",
     "tikName": "Шарангская",
+    "regionCode": "52",
+    "regionTvd": "100100339411245",
+    "regionName": "Нижегородская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 7607,
@@ -1724,6 +1787,9 @@ export const president_2024_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "25220002819435",
     "tikName": "Варнавинская",
+    "regionCode": "52",
+    "regionTvd": "100100339411245",
+    "regionName": "Нижегородская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 5973,
@@ -1782,6 +1848,9 @@ export const president_2024_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "25220002819436",
     "tikName": "Большеболдинская",
+    "regionCode": "52",
+    "regionTvd": "100100339411245",
+    "regionName": "Нижегородская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 7135,
@@ -1845,6 +1914,9 @@ export const president_2024_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "25220002819437",
     "tikName": "Кстовская",
+    "regionCode": "52",
+    "regionTvd": "100100339411245",
+    "regionName": "Нижегородская область",
     "uikCount": 67,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 91954,
@@ -1952,6 +2024,9 @@ export const president_2024_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "25220002819438",
     "tikName": "Сокольская",
+    "regionCode": "52",
+    "regionTvd": "100100339411245",
+    "regionName": "Нижегородская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 8873,
@@ -2020,6 +2095,9 @@ export const president_2024_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "25220002819439",
     "tikName": "Краснобаковская",
+    "regionCode": "52",
+    "regionTvd": "100100339411245",
+    "regionName": "Нижегородская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 12593,
@@ -2082,6 +2160,9 @@ export const president_2024_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "25220002819440",
     "tikName": "Дзержинск, Калининская",
+    "regionCode": "52",
+    "regionTvd": "100100339411245",
+    "regionName": "Нижегородская область",
     "uikCount": 60,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 77690,
@@ -2182,6 +2263,9 @@ export const president_2024_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "25220002819441",
     "tikName": "Нижний Новгород, Автозаводская Южная",
+    "regionCode": "52",
+    "regionTvd": "100100339411245",
+    "regionName": "Нижегородская область",
     "uikCount": 61,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 105375,
@@ -2283,6 +2367,9 @@ export const president_2024_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "25220002819442",
     "tikName": "Ковернинская",
+    "regionCode": "52",
+    "regionTvd": "100100339411245",
+    "regionName": "Нижегородская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 12845,
@@ -2343,6 +2430,9 @@ export const president_2024_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "25220002819443",
     "tikName": "Арзамасская, Вторая",
+    "regionCode": "52",
+    "regionTvd": "100100339411245",
+    "regionName": "Нижегородская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 29835,
@@ -2423,6 +2513,9 @@ export const president_2024_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "25220002819444",
     "tikName": "Володарская",
+    "regionCode": "52",
+    "regionTvd": "100100339411245",
+    "regionName": "Нижегородская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 34383,
@@ -2491,6 +2584,9 @@ export const president_2024_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "25220002819445",
     "tikName": "Дальнеконстантиновская",
+    "regionCode": "52",
+    "regionTvd": "100100339411245",
+    "regionName": "Нижегородская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 15017,
@@ -2557,6 +2653,9 @@ export const president_2024_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "25220002819446",
     "tikName": "Вадская",
+    "regionCode": "52",
+    "regionTvd": "100100339411245",
+    "regionName": "Нижегородская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9642,
@@ -2620,6 +2719,9 @@ export const president_2024_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "25220002819447",
     "tikName": "Выксунская",
+    "regionCode": "52",
+    "regionTvd": "100100339411245",
+    "regionName": "Нижегородская область",
     "uikCount": 51,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 56340,
@@ -2711,6 +2813,9 @@ export const president_2024_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "25220002819448",
     "tikName": "Сосновская",
+    "regionCode": "52",
+    "regionTvd": "100100339411245",
+    "regionName": "Нижегородская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 12197,
@@ -2779,6 +2884,9 @@ export const president_2024_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "25220002819449",
     "tikName": "Кулебакская",
+    "regionCode": "52",
+    "regionTvd": "100100339411245",
+    "regionName": "Нижегородская область",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 34790,
@@ -2860,6 +2968,9 @@ export const president_2024_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "25220002819450",
     "tikName": "Балахнинская",
+    "regionCode": "52",
+    "regionTvd": "100100339411245",
+    "regionName": "Нижегородская область",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 53969,
@@ -2937,6 +3048,9 @@ export const president_2024_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "25220002819451",
     "tikName": "Дивеевская",
+    "regionCode": "52",
+    "regionTvd": "100100339411245",
+    "regionName": "Нижегородская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10848,
@@ -3000,6 +3114,9 @@ export const president_2024_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "25220002819452",
     "tikName": "Пильнинская",
+    "regionCode": "52",
+    "regionTvd": "100100339411245",
+    "regionName": "Нижегородская область",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 12890,
@@ -3072,6 +3189,9 @@ export const president_2024_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "25220002819453",
     "tikName": "Ардатовская",
+    "regionCode": "52",
+    "regionTvd": "100100339411245",
+    "regionName": "Нижегородская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 17449,
@@ -3141,6 +3261,9 @@ export const president_2024_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "25220002819454",
     "tikName": "Арзамасская, Первая",
+    "regionCode": "52",
+    "regionTvd": "100100339411245",
+    "regionName": "Нижегородская область",
     "uikCount": 48,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 67706,
@@ -3229,6 +3352,9 @@ export const president_2024_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "25220002819455",
     "tikName": "Чкаловская",
+    "regionCode": "52",
+    "regionTvd": "100100339411245",
+    "regionName": "Нижегородская область",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 15274,
@@ -3286,6 +3412,9 @@ export const president_2024_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "25220002819456",
     "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "100100339411245",
+    "regionName": "Нижегородская область",
     "uikCount": 62,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 94098,
@@ -3388,6 +3517,9 @@ export const president_2024_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "25220002819457",
     "tikName": "Сеченовская",
+    "regionCode": "52",
+    "regionTvd": "100100339411245",
+    "regionName": "Нижегородская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9361,
@@ -3462,6 +3594,9 @@ export const president_2024_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "25220002819458",
     "tikName": "Семеновская",
+    "regionCode": "52",
+    "regionTvd": "100100339411245",
+    "regionName": "Нижегородская область",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 29403,
@@ -3548,6 +3683,9 @@ export const president_2024_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "25220002819459",
     "tikName": "Тонкинская",
+    "regionCode": "52",
+    "regionTvd": "100100339411245",
+    "regionName": "Нижегородская область",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 5308,
@@ -3605,6 +3743,9 @@ export const president_2024_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "25220002819460",
     "tikName": "Вачская",
+    "regionCode": "52",
+    "regionTvd": "100100339411245",
+    "regionName": "Нижегородская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 12358,
@@ -3668,6 +3809,9 @@ export const president_2024_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "25220002819461",
     "tikName": "Шахунская",
+    "regionCode": "52",
+    "regionTvd": "100100339411245",
+    "regionName": "Нижегородская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 24686,
@@ -3733,6 +3877,9 @@ export const president_2024_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "25220002819462",
     "tikName": "Гагинская",
+    "regionCode": "52",
+    "regionTvd": "100100339411245",
+    "regionName": "Нижегородская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 7388,
@@ -3803,6 +3950,9 @@ export const president_2024_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "25220002819463",
     "tikName": "Воскресенская",
+    "regionCode": "52",
+    "regionTvd": "100100339411245",
+    "regionName": "Нижегородская область",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 12668,
@@ -3875,6 +4025,9 @@ export const president_2024_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "25220002819464",
     "tikName": "Спасская",
+    "regionCode": "52",
+    "regionTvd": "100100339411245",
+    "regionName": "Нижегородская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 6778,
@@ -3935,6 +4088,9 @@ export const president_2024_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "25220002819465",
     "tikName": "Большемурашкинская",
+    "regionCode": "52",
+    "regionTvd": "100100339411245",
+    "regionName": "Нижегородская область",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 7446,
@@ -3991,6 +4147,9 @@ export const president_2024_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "25220002819466",
     "tikName": "Перевозская",
+    "regionCode": "52",
+    "regionTvd": "100100339411245",
+    "regionName": "Нижегородская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9954,
@@ -4049,6 +4208,9 @@ export const president_2024_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "25220002819467",
     "tikName": "Вознесенская",
+    "regionCode": "52",
+    "regionTvd": "100100339411245",
+    "regionName": "Нижегородская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9974,
@@ -4111,6 +4273,9 @@ export const president_2024_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "25220002819468",
     "tikName": "Починковская",
+    "regionCode": "52",
+    "regionTvd": "100100339411245",
+    "regionName": "Нижегородская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 17779,
@@ -4182,6 +4347,9 @@ export const president_2024_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "25220002819469",
     "tikName": "Бутурлинская",
+    "regionCode": "52",
+    "regionTvd": "100100339411245",
+    "regionName": "Нижегородская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 8942,
@@ -4240,6 +4408,9 @@ export const president_2024_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "25220002819470",
     "tikName": "Нижний Новгород, Московская",
+    "regionCode": "52",
+    "regionTvd": "100100339411245",
+    "regionName": "Нижегородская область",
     "uikCount": 59,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 84075,
@@ -4339,6 +4510,9 @@ export const president_2024_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "25220002819471",
     "tikName": "Дзержинск, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "100100339411245",
+    "regionName": "Нижегородская область",
     "uikCount": 54,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 80104,
@@ -4433,6 +4607,9 @@ export const president_2024_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "25220002819472",
     "tikName": "Павловская",
+    "regionCode": "52",
+    "regionTvd": "100100339411245",
+    "regionName": "Нижегородская область",
     "uikCount": 47,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 65917,
@@ -4520,6 +4697,9 @@ export const president_2024_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "25220002819473",
     "tikName": "Нижний Новгород, Приокская",
+    "regionCode": "52",
+    "regionTvd": "100100339411245",
+    "regionName": "Нижегородская область",
     "uikCount": 48,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 78936,
@@ -4608,6 +4788,9 @@ export const president_2024_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "25220002819474",
     "tikName": "Нижний Новгород, Автозаводская Северная",
+    "regionCode": "52",
+    "regionTvd": "100100339411245",
+    "regionName": "Нижегородская область",
     "uikCount": 58,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 95661,

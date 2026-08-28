@@ -7,7105 +7,17761 @@ export const duma_2016_uik_to_tik_region_21 = [
   {
     "uikNumber": 101,
     "uikTvd": "4214001198863",
+    "uikName": "УИК №101",
     "tikTvd": "22120001076055",
-    "tikName": "Алатырская"
+    "tikName": "Алатырская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 102,
     "uikTvd": "4214001198864",
+    "uikName": "УИК №102",
     "tikTvd": "22120001076055",
-    "tikName": "Алатырская"
+    "tikName": "Алатырская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 103,
     "uikTvd": "4214001198865",
+    "uikName": "УИК №103",
     "tikTvd": "22120001076055",
-    "tikName": "Алатырская"
+    "tikName": "Алатырская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 104,
     "uikTvd": "4214001198866",
+    "uikName": "УИК №104",
     "tikTvd": "22120001076055",
-    "tikName": "Алатырская"
+    "tikName": "Алатырская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 105,
     "uikTvd": "4214001198867",
+    "uikName": "УИК №105",
     "tikTvd": "22120001076055",
-    "tikName": "Алатырская"
+    "tikName": "Алатырская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 106,
     "uikTvd": "4214001198868",
+    "uikName": "УИК №106",
     "tikTvd": "22120001076055",
-    "tikName": "Алатырская"
+    "tikName": "Алатырская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 107,
     "uikTvd": "4214001198869",
+    "uikName": "УИК №107",
     "tikTvd": "22120001076055",
-    "tikName": "Алатырская"
+    "tikName": "Алатырская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 108,
     "uikTvd": "4214001198870",
+    "uikName": "УИК №108",
     "tikTvd": "22120001076055",
-    "tikName": "Алатырская"
+    "tikName": "Алатырская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 109,
     "uikTvd": "4214001198871",
+    "uikName": "УИК №109",
     "tikTvd": "22120001076055",
-    "tikName": "Алатырская"
+    "tikName": "Алатырская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 110,
     "uikTvd": "4214001198872",
+    "uikName": "УИК №110",
     "tikTvd": "22120001076055",
-    "tikName": "Алатырская"
+    "tikName": "Алатырская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 111,
     "uikTvd": "4214001198873",
+    "uikName": "УИК №111",
     "tikTvd": "22120001076055",
-    "tikName": "Алатырская"
+    "tikName": "Алатырская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 112,
     "uikTvd": "4214001198874",
+    "uikName": "УИК №112",
     "tikTvd": "22120001076055",
-    "tikName": "Алатырская"
+    "tikName": "Алатырская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 113,
     "uikTvd": "4214001198875",
+    "uikName": "УИК №113",
     "tikTvd": "22120001076055",
-    "tikName": "Алатырская"
+    "tikName": "Алатырская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 114,
     "uikTvd": "4214001198876",
+    "uikName": "УИК №114",
     "tikTvd": "22120001076055",
-    "tikName": "Алатырская"
+    "tikName": "Алатырская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 115,
     "uikTvd": "4214001198877",
+    "uikName": "УИК №115",
     "tikTvd": "22120001076055",
-    "tikName": "Алатырская"
+    "tikName": "Алатырская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 116,
     "uikTvd": "4214001198878",
+    "uikName": "УИК №116",
     "tikTvd": "22120001076055",
-    "tikName": "Алатырская"
+    "tikName": "Алатырская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 117,
     "uikTvd": "4214001198879",
+    "uikName": "УИК №117",
     "tikTvd": "22120001076055",
-    "tikName": "Алатырская"
+    "tikName": "Алатырская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 118,
     "uikTvd": "4214001198880",
+    "uikName": "УИК №118",
     "tikTvd": "22120001076055",
-    "tikName": "Алатырская"
+    "tikName": "Алатырская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 119,
     "uikTvd": "4214001198881",
+    "uikName": "УИК №119",
     "tikTvd": "22120001076055",
-    "tikName": "Алатырская"
+    "tikName": "Алатырская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 120,
     "uikTvd": "4214001198882",
+    "uikName": "УИК №120",
     "tikTvd": "22120001076055",
-    "tikName": "Алатырская"
+    "tikName": "Алатырская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 121,
     "uikTvd": "4214001198883",
+    "uikName": "УИК №121",
     "tikTvd": "22120001076055",
-    "tikName": "Алатырская"
+    "tikName": "Алатырская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 122,
     "uikTvd": "4214001198884",
+    "uikName": "УИК №122",
     "tikTvd": "22120001076055",
-    "tikName": "Алатырская"
+    "tikName": "Алатырская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 123,
     "uikTvd": "4214001198885",
+    "uikName": "УИК №123",
     "tikTvd": "22120001076055",
-    "tikName": "Алатырская"
+    "tikName": "Алатырская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 124,
     "uikTvd": "4214001198886",
+    "uikName": "УИК №124",
     "tikTvd": "22120001076055",
-    "tikName": "Алатырская"
+    "tikName": "Алатырская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 201,
     "uikTvd": "4214002224684",
+    "uikName": "УИК №201",
     "tikTvd": "22120001076053",
-    "tikName": "Аликовская"
+    "tikName": "Аликовская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 202,
     "uikTvd": "4214002224685",
+    "uikName": "УИК №202",
     "tikTvd": "22120001076053",
-    "tikName": "Аликовская"
+    "tikName": "Аликовская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 203,
     "uikTvd": "4214002224686",
+    "uikName": "УИК №203",
     "tikTvd": "22120001076053",
-    "tikName": "Аликовская"
+    "tikName": "Аликовская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 204,
     "uikTvd": "4214002224687",
+    "uikName": "УИК №204",
     "tikTvd": "22120001076053",
-    "tikName": "Аликовская"
+    "tikName": "Аликовская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 205,
     "uikTvd": "4214002224688",
+    "uikName": "УИК №205",
     "tikTvd": "22120001076053",
-    "tikName": "Аликовская"
+    "tikName": "Аликовская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 206,
     "uikTvd": "4214002224689",
+    "uikName": "УИК №206",
     "tikTvd": "22120001076053",
-    "tikName": "Аликовская"
+    "tikName": "Аликовская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 207,
     "uikTvd": "4214002224690",
+    "uikName": "УИК №207",
     "tikTvd": "22120001076053",
-    "tikName": "Аликовская"
+    "tikName": "Аликовская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 208,
     "uikTvd": "4214002224691",
+    "uikName": "УИК №208",
     "tikTvd": "22120001076053",
-    "tikName": "Аликовская"
+    "tikName": "Аликовская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 209,
     "uikTvd": "4214002224692",
+    "uikName": "УИК №209",
     "tikTvd": "22120001076053",
-    "tikName": "Аликовская"
+    "tikName": "Аликовская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 210,
     "uikTvd": "4214002224693",
+    "uikName": "УИК №210",
     "tikTvd": "22120001076053",
-    "tikName": "Аликовская"
+    "tikName": "Аликовская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 211,
     "uikTvd": "4214002224694",
+    "uikName": "УИК №211",
     "tikTvd": "22120001076053",
-    "tikName": "Аликовская"
+    "tikName": "Аликовская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 212,
     "uikTvd": "4214002224695",
+    "uikName": "УИК №212",
     "tikTvd": "22120001076053",
-    "tikName": "Аликовская"
+    "tikName": "Аликовская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 213,
     "uikTvd": "4214002224696",
+    "uikName": "УИК №213",
     "tikTvd": "22120001076053",
-    "tikName": "Аликовская"
+    "tikName": "Аликовская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 214,
     "uikTvd": "4214002224697",
+    "uikName": "УИК №214",
     "tikTvd": "22120001076053",
-    "tikName": "Аликовская"
+    "tikName": "Аликовская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 215,
     "uikTvd": "4214002224698",
+    "uikName": "УИК №215",
     "tikTvd": "22120001076053",
-    "tikName": "Аликовская"
+    "tikName": "Аликовская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 216,
     "uikTvd": "4214002224699",
+    "uikName": "УИК №216",
     "tikTvd": "22120001076053",
-    "tikName": "Аликовская"
+    "tikName": "Аликовская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 217,
     "uikTvd": "4214002224700",
+    "uikName": "УИК №217",
     "tikTvd": "22120001076053",
-    "tikName": "Аликовская"
+    "tikName": "Аликовская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 218,
     "uikTvd": "4214002224701",
+    "uikName": "УИК №218",
     "tikTvd": "22120001076053",
-    "tikName": "Аликовская"
+    "tikName": "Аликовская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 219,
     "uikTvd": "4214002224702",
+    "uikName": "УИК №219",
     "tikTvd": "22120001076053",
-    "tikName": "Аликовская"
+    "tikName": "Аликовская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 220,
     "uikTvd": "4214002224703",
+    "uikName": "УИК №220",
     "tikTvd": "22120001076053",
-    "tikName": "Аликовская"
+    "tikName": "Аликовская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 221,
     "uikTvd": "4214002224704",
+    "uikName": "УИК №221",
     "tikTvd": "22120001076053",
-    "tikName": "Аликовская"
+    "tikName": "Аликовская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 222,
     "uikTvd": "4214002224705",
+    "uikName": "УИК №222",
     "tikTvd": "22120001076053",
-    "tikName": "Аликовская"
+    "tikName": "Аликовская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 223,
     "uikTvd": "4214002224706",
+    "uikName": "УИК №223",
     "tikTvd": "22120001076053",
-    "tikName": "Аликовская"
+    "tikName": "Аликовская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 224,
     "uikTvd": "4214002224707",
+    "uikName": "УИК №224",
     "tikTvd": "22120001076053",
-    "tikName": "Аликовская"
+    "tikName": "Аликовская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 225,
     "uikTvd": "4214002224708",
+    "uikName": "УИК №225",
     "tikTvd": "22120001076053",
-    "tikName": "Аликовская"
+    "tikName": "Аликовская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 226,
     "uikTvd": "4214002224709",
+    "uikName": "УИК №226",
     "tikTvd": "22120001076053",
-    "tikName": "Аликовская"
+    "tikName": "Аликовская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 227,
     "uikTvd": "4214002224710",
+    "uikName": "УИК №227",
     "tikTvd": "22120001076053",
-    "tikName": "Аликовская"
+    "tikName": "Аликовская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 228,
     "uikTvd": "4214002224711",
+    "uikName": "УИК №228",
     "tikTvd": "22120001076053",
-    "tikName": "Аликовская"
+    "tikName": "Аликовская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 229,
     "uikTvd": "4214002224712",
+    "uikName": "УИК №229",
     "tikTvd": "22120001076053",
-    "tikName": "Аликовская"
+    "tikName": "Аликовская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 230,
     "uikTvd": "4214002224713",
+    "uikName": "УИК №230",
     "tikTvd": "22120001076053",
-    "tikName": "Аликовская"
+    "tikName": "Аликовская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 231,
     "uikTvd": "4214002224714",
+    "uikName": "УИК №231",
     "tikTvd": "22120001076053",
-    "tikName": "Аликовская"
+    "tikName": "Аликовская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 232,
     "uikTvd": "4214002224715",
+    "uikName": "УИК №232",
     "tikTvd": "22120001076053",
-    "tikName": "Аликовская"
+    "tikName": "Аликовская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 233,
     "uikTvd": "4214002224716",
+    "uikName": "УИК №233",
     "tikTvd": "22120001076053",
-    "tikName": "Аликовская"
+    "tikName": "Аликовская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 234,
     "uikTvd": "4214002224717",
+    "uikName": "УИК №234",
     "tikTvd": "22120001076053",
-    "tikName": "Аликовская"
+    "tikName": "Аликовская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 235,
     "uikTvd": "4214002224718",
+    "uikName": "УИК №235",
     "tikTvd": "22120001076053",
-    "tikName": "Аликовская"
+    "tikName": "Аликовская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 236,
     "uikTvd": "4214002224719",
+    "uikName": "УИК №236",
     "tikTvd": "22120001076053",
-    "tikName": "Аликовская"
+    "tikName": "Аликовская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 237,
     "uikTvd": "4214002224720",
+    "uikName": "УИК №237",
     "tikTvd": "22120001076053",
-    "tikName": "Аликовская"
+    "tikName": "Аликовская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 238,
     "uikTvd": "4214002224721",
+    "uikName": "УИК №238",
     "tikTvd": "22120001076053",
-    "tikName": "Аликовская"
+    "tikName": "Аликовская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 239,
     "uikTvd": "4214002224722",
+    "uikName": "УИК №239",
     "tikTvd": "22120001076053",
-    "tikName": "Аликовская"
+    "tikName": "Аликовская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 301,
     "uikTvd": "4214003274651",
+    "uikName": "УИК №301",
     "tikTvd": "22120001076042",
-    "tikName": "Батыревская"
+    "tikName": "Батыревская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 302,
     "uikTvd": "4214003274652",
+    "uikName": "УИК №302",
     "tikTvd": "22120001076042",
-    "tikName": "Батыревская"
+    "tikName": "Батыревская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 303,
     "uikTvd": "4214003274653",
+    "uikName": "УИК №303",
     "tikTvd": "22120001076042",
-    "tikName": "Батыревская"
+    "tikName": "Батыревская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 304,
     "uikTvd": "4214003274654",
+    "uikName": "УИК №304",
     "tikTvd": "22120001076042",
-    "tikName": "Батыревская"
+    "tikName": "Батыревская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 305,
     "uikTvd": "4214003274655",
+    "uikName": "УИК №305",
     "tikTvd": "22120001076042",
-    "tikName": "Батыревская"
+    "tikName": "Батыревская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 306,
     "uikTvd": "4214003274656",
+    "uikName": "УИК №306",
     "tikTvd": "22120001076042",
-    "tikName": "Батыревская"
+    "tikName": "Батыревская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 307,
     "uikTvd": "4214003274657",
+    "uikName": "УИК №307",
     "tikTvd": "22120001076042",
-    "tikName": "Батыревская"
+    "tikName": "Батыревская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 308,
     "uikTvd": "4214003274658",
+    "uikName": "УИК №308",
     "tikTvd": "22120001076042",
-    "tikName": "Батыревская"
+    "tikName": "Батыревская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 309,
     "uikTvd": "4214003274659",
+    "uikName": "УИК №309",
     "tikTvd": "22120001076042",
-    "tikName": "Батыревская"
+    "tikName": "Батыревская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 310,
     "uikTvd": "4214003274660",
+    "uikName": "УИК №310",
     "tikTvd": "22120001076042",
-    "tikName": "Батыревская"
+    "tikName": "Батыревская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 311,
     "uikTvd": "4214003274661",
+    "uikName": "УИК №311",
     "tikTvd": "22120001076042",
-    "tikName": "Батыревская"
+    "tikName": "Батыревская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 312,
     "uikTvd": "4214003274662",
+    "uikName": "УИК №312",
     "tikTvd": "22120001076042",
-    "tikName": "Батыревская"
+    "tikName": "Батыревская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 313,
     "uikTvd": "4214003274663",
+    "uikName": "УИК №313",
     "tikTvd": "22120001076042",
-    "tikName": "Батыревская"
+    "tikName": "Батыревская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 314,
     "uikTvd": "4214003274664",
+    "uikName": "УИК №314",
     "tikTvd": "22120001076042",
-    "tikName": "Батыревская"
+    "tikName": "Батыревская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 315,
     "uikTvd": "4214003274665",
+    "uikName": "УИК №315",
     "tikTvd": "22120001076042",
-    "tikName": "Батыревская"
+    "tikName": "Батыревская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 316,
     "uikTvd": "4214003274666",
+    "uikName": "УИК №316",
     "tikTvd": "22120001076042",
-    "tikName": "Батыревская"
+    "tikName": "Батыревская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 317,
     "uikTvd": "4214003274667",
+    "uikName": "УИК №317",
     "tikTvd": "22120001076042",
-    "tikName": "Батыревская"
+    "tikName": "Батыревская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 318,
     "uikTvd": "4214003274668",
+    "uikName": "УИК №318",
     "tikTvd": "22120001076042",
-    "tikName": "Батыревская"
+    "tikName": "Батыревская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 319,
     "uikTvd": "4214003274669",
+    "uikName": "УИК №319",
     "tikTvd": "22120001076042",
-    "tikName": "Батыревская"
+    "tikName": "Батыревская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 320,
     "uikTvd": "4214003274670",
+    "uikName": "УИК №320",
     "tikTvd": "22120001076042",
-    "tikName": "Батыревская"
+    "tikName": "Батыревская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 321,
     "uikTvd": "4214003274671",
+    "uikName": "УИК №321",
     "tikTvd": "22120001076042",
-    "tikName": "Батыревская"
+    "tikName": "Батыревская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 322,
     "uikTvd": "4214003274672",
+    "uikName": "УИК №322",
     "tikTvd": "22120001076042",
-    "tikName": "Батыревская"
+    "tikName": "Батыревская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 323,
     "uikTvd": "4214003274673",
+    "uikName": "УИК №323",
     "tikTvd": "22120001076042",
-    "tikName": "Батыревская"
+    "tikName": "Батыревская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 324,
     "uikTvd": "4214003274674",
+    "uikName": "УИК №324",
     "tikTvd": "22120001076042",
-    "tikName": "Батыревская"
+    "tikName": "Батыревская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 325,
     "uikTvd": "4214003274675",
+    "uikName": "УИК №325",
     "tikTvd": "22120001076042",
-    "tikName": "Батыревская"
+    "tikName": "Батыревская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 326,
     "uikTvd": "4214003274676",
+    "uikName": "УИК №326",
     "tikTvd": "22120001076042",
-    "tikName": "Батыревская"
+    "tikName": "Батыревская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 327,
     "uikTvd": "4214003274677",
+    "uikName": "УИК №327",
     "tikTvd": "22120001076042",
-    "tikName": "Батыревская"
+    "tikName": "Батыревская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 328,
     "uikTvd": "4214003274678",
+    "uikName": "УИК №328",
     "tikTvd": "22120001076042",
-    "tikName": "Батыревская"
+    "tikName": "Батыревская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 329,
     "uikTvd": "4214003274679",
+    "uikName": "УИК №329",
     "tikTvd": "22120001076042",
-    "tikName": "Батыревская"
+    "tikName": "Батыревская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 330,
     "uikTvd": "4214003274680",
+    "uikName": "УИК №330",
     "tikTvd": "22120001076042",
-    "tikName": "Батыревская"
+    "tikName": "Батыревская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 331,
     "uikTvd": "4214003274681",
+    "uikName": "УИК №331",
     "tikTvd": "22120001076042",
-    "tikName": "Батыревская"
+    "tikName": "Батыревская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 332,
     "uikTvd": "4214003274682",
+    "uikName": "УИК №332",
     "tikTvd": "22120001076042",
-    "tikName": "Батыревская"
+    "tikName": "Батыревская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 333,
     "uikTvd": "4214003274683",
+    "uikName": "УИК №333",
     "tikTvd": "22120001076042",
-    "tikName": "Батыревская"
+    "tikName": "Батыревская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 334,
     "uikTvd": "4214003274684",
+    "uikName": "УИК №334",
     "tikTvd": "22120001076042",
-    "tikName": "Батыревская"
+    "tikName": "Батыревская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 335,
     "uikTvd": "4214003274685",
+    "uikName": "УИК №335",
     "tikTvd": "22120001076042",
-    "tikName": "Батыревская"
+    "tikName": "Батыревская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 336,
     "uikTvd": "4214003274686",
+    "uikName": "УИК №336",
     "tikTvd": "22120001076042",
-    "tikName": "Батыревская"
+    "tikName": "Батыревская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 337,
     "uikTvd": "4214003274687",
+    "uikName": "УИК №337",
     "tikTvd": "22120001076042",
-    "tikName": "Батыревская"
+    "tikName": "Батыревская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 338,
     "uikTvd": "4214003274688",
+    "uikName": "УИК №338",
     "tikTvd": "22120001076042",
-    "tikName": "Батыревская"
+    "tikName": "Батыревская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 339,
     "uikTvd": "4214003274689",
+    "uikName": "УИК №339",
     "tikTvd": "22120001076042",
-    "tikName": "Батыревская"
+    "tikName": "Батыревская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 340,
     "uikTvd": "4214003274690",
+    "uikName": "УИК №340",
     "tikTvd": "22120001076042",
-    "tikName": "Батыревская"
+    "tikName": "Батыревская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 341,
     "uikTvd": "4214003274691",
+    "uikName": "УИК №341",
     "tikTvd": "22120001076042",
-    "tikName": "Батыревская"
+    "tikName": "Батыревская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 342,
     "uikTvd": "4214003274692",
+    "uikName": "УИК №342",
     "tikTvd": "22120001076042",
-    "tikName": "Батыревская"
+    "tikName": "Батыревская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 343,
     "uikTvd": "4214003274693",
+    "uikName": "УИК №343",
     "tikTvd": "22120001076042",
-    "tikName": "Батыревская"
+    "tikName": "Батыревская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 344,
     "uikTvd": "4214003274694",
+    "uikName": "УИК №344",
     "tikTvd": "22120001076042",
-    "tikName": "Батыревская"
+    "tikName": "Батыревская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 345,
     "uikTvd": "4214003274695",
+    "uikName": "УИК №345",
     "tikTvd": "22120001076042",
-    "tikName": "Батыревская"
+    "tikName": "Батыревская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 346,
     "uikTvd": "4214003274696",
+    "uikName": "УИК №346",
     "tikTvd": "22120001076042",
-    "tikName": "Батыревская"
+    "tikName": "Батыревская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 347,
     "uikTvd": "4214003274697",
+    "uikName": "УИК №347",
     "tikTvd": "22120001076042",
-    "tikName": "Батыревская"
+    "tikName": "Батыревская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 348,
     "uikTvd": "4214003274698",
+    "uikName": "УИК №348",
     "tikTvd": "22120001076042",
-    "tikName": "Батыревская"
+    "tikName": "Батыревская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 349,
     "uikTvd": "4214003274699",
+    "uikName": "УИК №349",
     "tikTvd": "22120001076042",
-    "tikName": "Батыревская"
+    "tikName": "Батыревская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 350,
     "uikTvd": "4214003274700",
+    "uikName": "УИК №350",
     "tikTvd": "22120001076042",
-    "tikName": "Батыревская"
+    "tikName": "Батыревская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 351,
     "uikTvd": "4214003274701",
+    "uikName": "УИК №351",
     "tikTvd": "22120001076042",
-    "tikName": "Батыревская"
+    "tikName": "Батыревская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 352,
     "uikTvd": "4214003274702",
+    "uikName": "УИК №352",
     "tikTvd": "22120001076042",
-    "tikName": "Батыревская"
+    "tikName": "Батыревская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 401,
     "uikTvd": "4214004307522",
+    "uikName": "УИК №401",
     "tikTvd": "22120001076052",
-    "tikName": "Вурнарская"
+    "tikName": "Вурнарская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 402,
     "uikTvd": "4214004307523",
+    "uikName": "УИК №402",
     "tikTvd": "22120001076052",
-    "tikName": "Вурнарская"
+    "tikName": "Вурнарская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 403,
     "uikTvd": "4214004307524",
+    "uikName": "УИК №403",
     "tikTvd": "22120001076052",
-    "tikName": "Вурнарская"
+    "tikName": "Вурнарская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 404,
     "uikTvd": "4214004307525",
+    "uikName": "УИК №404",
     "tikTvd": "22120001076052",
-    "tikName": "Вурнарская"
+    "tikName": "Вурнарская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 405,
     "uikTvd": "4214004307526",
+    "uikName": "УИК №405",
     "tikTvd": "22120001076052",
-    "tikName": "Вурнарская"
+    "tikName": "Вурнарская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 406,
     "uikTvd": "4214004307527",
+    "uikName": "УИК №406",
     "tikTvd": "22120001076052",
-    "tikName": "Вурнарская"
+    "tikName": "Вурнарская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 407,
     "uikTvd": "4214004307528",
+    "uikName": "УИК №407",
     "tikTvd": "22120001076052",
-    "tikName": "Вурнарская"
+    "tikName": "Вурнарская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 408,
     "uikTvd": "4214004307529",
+    "uikName": "УИК №408",
     "tikTvd": "22120001076052",
-    "tikName": "Вурнарская"
+    "tikName": "Вурнарская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 409,
     "uikTvd": "4214004307530",
+    "uikName": "УИК №409",
     "tikTvd": "22120001076052",
-    "tikName": "Вурнарская"
+    "tikName": "Вурнарская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 410,
     "uikTvd": "4214004307531",
+    "uikName": "УИК №410",
     "tikTvd": "22120001076052",
-    "tikName": "Вурнарская"
+    "tikName": "Вурнарская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 411,
     "uikTvd": "4214004307532",
+    "uikName": "УИК №411",
     "tikTvd": "22120001076052",
-    "tikName": "Вурнарская"
+    "tikName": "Вурнарская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 412,
     "uikTvd": "4214004307533",
+    "uikName": "УИК №412",
     "tikTvd": "22120001076052",
-    "tikName": "Вурнарская"
+    "tikName": "Вурнарская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 413,
     "uikTvd": "4214004307534",
+    "uikName": "УИК №413",
     "tikTvd": "22120001076052",
-    "tikName": "Вурнарская"
+    "tikName": "Вурнарская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 414,
     "uikTvd": "4214004307535",
+    "uikName": "УИК №414",
     "tikTvd": "22120001076052",
-    "tikName": "Вурнарская"
+    "tikName": "Вурнарская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 415,
     "uikTvd": "4214004307536",
+    "uikName": "УИК №415",
     "tikTvd": "22120001076052",
-    "tikName": "Вурнарская"
+    "tikName": "Вурнарская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 416,
     "uikTvd": "4214004307537",
+    "uikName": "УИК №416",
     "tikTvd": "22120001076052",
-    "tikName": "Вурнарская"
+    "tikName": "Вурнарская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 417,
     "uikTvd": "4214004307538",
+    "uikName": "УИК №417",
     "tikTvd": "22120001076052",
-    "tikName": "Вурнарская"
+    "tikName": "Вурнарская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 418,
     "uikTvd": "4214004307539",
+    "uikName": "УИК №418",
     "tikTvd": "22120001076052",
-    "tikName": "Вурнарская"
+    "tikName": "Вурнарская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 419,
     "uikTvd": "4214004307540",
+    "uikName": "УИК №419",
     "tikTvd": "22120001076052",
-    "tikName": "Вурнарская"
+    "tikName": "Вурнарская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 420,
     "uikTvd": "4214004307541",
+    "uikName": "УИК №420",
     "tikTvd": "22120001076052",
-    "tikName": "Вурнарская"
+    "tikName": "Вурнарская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 421,
     "uikTvd": "4214004307542",
+    "uikName": "УИК №421",
     "tikTvd": "22120001076052",
-    "tikName": "Вурнарская"
+    "tikName": "Вурнарская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 422,
     "uikTvd": "4214004307543",
+    "uikName": "УИК №422",
     "tikTvd": "22120001076052",
-    "tikName": "Вурнарская"
+    "tikName": "Вурнарская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 423,
     "uikTvd": "4214004307544",
+    "uikName": "УИК №423",
     "tikTvd": "22120001076052",
-    "tikName": "Вурнарская"
+    "tikName": "Вурнарская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 424,
     "uikTvd": "4214004307545",
+    "uikName": "УИК №424",
     "tikTvd": "22120001076052",
-    "tikName": "Вурнарская"
+    "tikName": "Вурнарская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 425,
     "uikTvd": "4214004307546",
+    "uikName": "УИК №425",
     "tikTvd": "22120001076052",
-    "tikName": "Вурнарская"
+    "tikName": "Вурнарская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 426,
     "uikTvd": "4214004307547",
+    "uikName": "УИК №426",
     "tikTvd": "22120001076052",
-    "tikName": "Вурнарская"
+    "tikName": "Вурнарская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 427,
     "uikTvd": "4214004307548",
+    "uikName": "УИК №427",
     "tikTvd": "22120001076052",
-    "tikName": "Вурнарская"
+    "tikName": "Вурнарская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 428,
     "uikTvd": "4214004307549",
+    "uikName": "УИК №428",
     "tikTvd": "22120001076052",
-    "tikName": "Вурнарская"
+    "tikName": "Вурнарская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 429,
     "uikTvd": "4214004307550",
+    "uikName": "УИК №429",
     "tikTvd": "22120001076052",
-    "tikName": "Вурнарская"
+    "tikName": "Вурнарская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 430,
     "uikTvd": "4214004307551",
+    "uikName": "УИК №430",
     "tikTvd": "22120001076052",
-    "tikName": "Вурнарская"
+    "tikName": "Вурнарская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 431,
     "uikTvd": "4214004307552",
+    "uikName": "УИК №431",
     "tikTvd": "22120001076052",
-    "tikName": "Вурнарская"
+    "tikName": "Вурнарская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 432,
     "uikTvd": "4214004307553",
+    "uikName": "УИК №432",
     "tikTvd": "22120001076052",
-    "tikName": "Вурнарская"
+    "tikName": "Вурнарская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 433,
     "uikTvd": "4214004307554",
+    "uikName": "УИК №433",
     "tikTvd": "22120001076052",
-    "tikName": "Вурнарская"
+    "tikName": "Вурнарская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 434,
     "uikTvd": "4214004307555",
+    "uikName": "УИК №434",
     "tikTvd": "22120001076052",
-    "tikName": "Вурнарская"
+    "tikName": "Вурнарская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 435,
     "uikTvd": "4214004307556",
+    "uikName": "УИК №435",
     "tikTvd": "22120001076052",
-    "tikName": "Вурнарская"
+    "tikName": "Вурнарская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 436,
     "uikTvd": "4214004307557",
+    "uikName": "УИК №436",
     "tikTvd": "22120001076052",
-    "tikName": "Вурнарская"
+    "tikName": "Вурнарская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 437,
     "uikTvd": "4214004307558",
+    "uikName": "УИК №437",
     "tikTvd": "22120001076052",
-    "tikName": "Вурнарская"
+    "tikName": "Вурнарская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 438,
     "uikTvd": "4214004307559",
+    "uikName": "УИК №438",
     "tikTvd": "22120001076052",
-    "tikName": "Вурнарская"
+    "tikName": "Вурнарская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 439,
     "uikTvd": "4214004307560",
+    "uikName": "УИК №439",
     "tikTvd": "22120001076052",
-    "tikName": "Вурнарская"
+    "tikName": "Вурнарская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 440,
     "uikTvd": "4214004307561",
+    "uikName": "УИК №440",
     "tikTvd": "22120001076052",
-    "tikName": "Вурнарская"
+    "tikName": "Вурнарская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 441,
     "uikTvd": "4214004307562",
+    "uikName": "УИК №441",
     "tikTvd": "22120001076052",
-    "tikName": "Вурнарская"
+    "tikName": "Вурнарская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 442,
     "uikTvd": "4214004307563",
+    "uikName": "УИК №442",
     "tikTvd": "22120001076052",
-    "tikName": "Вурнарская"
+    "tikName": "Вурнарская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 443,
     "uikTvd": "4214004307564",
+    "uikName": "УИК №443",
     "tikTvd": "22120001076052",
-    "tikName": "Вурнарская"
+    "tikName": "Вурнарская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 444,
     "uikTvd": "4214004307565",
+    "uikName": "УИК №444",
     "tikTvd": "22120001076052",
-    "tikName": "Вурнарская"
+    "tikName": "Вурнарская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 445,
     "uikTvd": "4214004307566",
+    "uikName": "УИК №445",
     "tikTvd": "22120001076052",
-    "tikName": "Вурнарская"
+    "tikName": "Вурнарская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 446,
     "uikTvd": "4214004307567",
+    "uikName": "УИК №446",
     "tikTvd": "22120001076052",
-    "tikName": "Вурнарская"
+    "tikName": "Вурнарская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 447,
     "uikTvd": "4214004307568",
+    "uikName": "УИК №447",
     "tikTvd": "22120001076052",
-    "tikName": "Вурнарская"
+    "tikName": "Вурнарская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 448,
     "uikTvd": "4214004307569",
+    "uikName": "УИК №448",
     "tikTvd": "22120001076052",
-    "tikName": "Вурнарская"
+    "tikName": "Вурнарская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 449,
     "uikTvd": "4214004307570",
+    "uikName": "УИК №449",
     "tikTvd": "22120001076052",
-    "tikName": "Вурнарская"
+    "tikName": "Вурнарская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 450,
     "uikTvd": "4214004307571",
+    "uikName": "УИК №450",
     "tikTvd": "22120001076052",
-    "tikName": "Вурнарская"
+    "tikName": "Вурнарская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 451,
     "uikTvd": "4214004307572",
+    "uikName": "УИК №451",
     "tikTvd": "22120001076052",
-    "tikName": "Вурнарская"
+    "tikName": "Вурнарская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 452,
     "uikTvd": "4214004307573",
+    "uikName": "УИК №452",
     "tikTvd": "22120001076052",
-    "tikName": "Вурнарская"
+    "tikName": "Вурнарская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 453,
     "uikTvd": "4214004307574",
+    "uikName": "УИК №453",
     "tikTvd": "22120001076052",
-    "tikName": "Вурнарская"
+    "tikName": "Вурнарская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 454,
     "uikTvd": "4214004307575",
+    "uikName": "УИК №454",
     "tikTvd": "22120001076052",
-    "tikName": "Вурнарская"
+    "tikName": "Вурнарская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 455,
     "uikTvd": "4214004307576",
+    "uikName": "УИК №455",
     "tikTvd": "22120001076052",
-    "tikName": "Вурнарская"
+    "tikName": "Вурнарская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 456,
     "uikTvd": "4214004307577",
+    "uikName": "УИК №456",
     "tikTvd": "22120001076052",
-    "tikName": "Вурнарская"
+    "tikName": "Вурнарская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 457,
     "uikTvd": "4214004307578",
+    "uikName": "УИК №457",
     "tikTvd": "22120001076052",
-    "tikName": "Вурнарская"
+    "tikName": "Вурнарская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 458,
     "uikTvd": "4214004307579",
+    "uikName": "УИК №458",
     "tikTvd": "22120001076052",
-    "tikName": "Вурнарская"
+    "tikName": "Вурнарская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 459,
     "uikTvd": "4214004307580",
+    "uikName": "УИК №459",
     "tikTvd": "22120001076052",
-    "tikName": "Вурнарская"
+    "tikName": "Вурнарская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 460,
     "uikTvd": "4214004307581",
+    "uikName": "УИК №460",
     "tikTvd": "22120001076052",
-    "tikName": "Вурнарская"
+    "tikName": "Вурнарская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 501,
     "uikTvd": "4214005212281",
+    "uikName": "УИК №501",
     "tikTvd": "22120001076051",
-    "tikName": "Ибресинская"
+    "tikName": "Ибресинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 502,
     "uikTvd": "4214005212282",
+    "uikName": "УИК №502",
     "tikTvd": "22120001076051",
-    "tikName": "Ибресинская"
+    "tikName": "Ибресинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 503,
     "uikTvd": "4214005212283",
+    "uikName": "УИК №503",
     "tikTvd": "22120001076051",
-    "tikName": "Ибресинская"
+    "tikName": "Ибресинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 504,
     "uikTvd": "4214005212284",
+    "uikName": "УИК №504",
     "tikTvd": "22120001076051",
-    "tikName": "Ибресинская"
+    "tikName": "Ибресинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 505,
     "uikTvd": "4214005212285",
+    "uikName": "УИК №505",
     "tikTvd": "22120001076051",
-    "tikName": "Ибресинская"
+    "tikName": "Ибресинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 506,
     "uikTvd": "4214005212286",
+    "uikName": "УИК №506",
     "tikTvd": "22120001076051",
-    "tikName": "Ибресинская"
+    "tikName": "Ибресинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 507,
     "uikTvd": "4214005212287",
+    "uikName": "УИК №507",
     "tikTvd": "22120001076051",
-    "tikName": "Ибресинская"
+    "tikName": "Ибресинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 508,
     "uikTvd": "4214005212288",
+    "uikName": "УИК №508",
     "tikTvd": "22120001076051",
-    "tikName": "Ибресинская"
+    "tikName": "Ибресинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 509,
     "uikTvd": "4214005212289",
+    "uikName": "УИК №509",
     "tikTvd": "22120001076051",
-    "tikName": "Ибресинская"
+    "tikName": "Ибресинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 510,
     "uikTvd": "4214005212290",
+    "uikName": "УИК №510",
     "tikTvd": "22120001076051",
-    "tikName": "Ибресинская"
+    "tikName": "Ибресинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 511,
     "uikTvd": "4214005212291",
+    "uikName": "УИК №511",
     "tikTvd": "22120001076051",
-    "tikName": "Ибресинская"
+    "tikName": "Ибресинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 512,
     "uikTvd": "4214005212292",
+    "uikName": "УИК №512",
     "tikTvd": "22120001076051",
-    "tikName": "Ибресинская"
+    "tikName": "Ибресинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 513,
     "uikTvd": "4214005212293",
+    "uikName": "УИК №513",
     "tikTvd": "22120001076051",
-    "tikName": "Ибресинская"
+    "tikName": "Ибресинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 514,
     "uikTvd": "4214005212294",
+    "uikName": "УИК №514",
     "tikTvd": "22120001076051",
-    "tikName": "Ибресинская"
+    "tikName": "Ибресинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 515,
     "uikTvd": "4214005212295",
+    "uikName": "УИК №515",
     "tikTvd": "22120001076051",
-    "tikName": "Ибресинская"
+    "tikName": "Ибресинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 516,
     "uikTvd": "4214005212296",
+    "uikName": "УИК №516",
     "tikTvd": "22120001076051",
-    "tikName": "Ибресинская"
+    "tikName": "Ибресинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 517,
     "uikTvd": "4214005212297",
+    "uikName": "УИК №517",
     "tikTvd": "22120001076051",
-    "tikName": "Ибресинская"
+    "tikName": "Ибресинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 518,
     "uikTvd": "4214005212298",
+    "uikName": "УИК №518",
     "tikTvd": "22120001076051",
-    "tikName": "Ибресинская"
+    "tikName": "Ибресинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 519,
     "uikTvd": "4214005212299",
+    "uikName": "УИК №519",
     "tikTvd": "22120001076051",
-    "tikName": "Ибресинская"
+    "tikName": "Ибресинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 520,
     "uikTvd": "4214005212300",
+    "uikName": "УИК №520",
     "tikTvd": "22120001076051",
-    "tikName": "Ибресинская"
+    "tikName": "Ибресинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 521,
     "uikTvd": "4214005212301",
+    "uikName": "УИК №521",
     "tikTvd": "22120001076051",
-    "tikName": "Ибресинская"
+    "tikName": "Ибресинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 522,
     "uikTvd": "4214005212302",
+    "uikName": "УИК №522",
     "tikTvd": "22120001076051",
-    "tikName": "Ибресинская"
+    "tikName": "Ибресинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 523,
     "uikTvd": "4214005212303",
+    "uikName": "УИК №523",
     "tikTvd": "22120001076051",
-    "tikName": "Ибресинская"
+    "tikName": "Ибресинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 524,
     "uikTvd": "4214005212304",
+    "uikName": "УИК №524",
     "tikTvd": "22120001076051",
-    "tikName": "Ибресинская"
+    "tikName": "Ибресинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 525,
     "uikTvd": "4214005212305",
+    "uikName": "УИК №525",
     "tikTvd": "22120001076051",
-    "tikName": "Ибресинская"
+    "tikName": "Ибресинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 526,
     "uikTvd": "4214005212306",
+    "uikName": "УИК №526",
     "tikTvd": "22120001076051",
-    "tikName": "Ибресинская"
+    "tikName": "Ибресинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 527,
     "uikTvd": "4214005212307",
+    "uikName": "УИК №527",
     "tikTvd": "22120001076051",
-    "tikName": "Ибресинская"
+    "tikName": "Ибресинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 528,
     "uikTvd": "4214005212308",
+    "uikName": "УИК №528",
     "tikTvd": "22120001076051",
-    "tikName": "Ибресинская"
+    "tikName": "Ибресинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 529,
     "uikTvd": "4214005212309",
+    "uikName": "УИК №529",
     "tikTvd": "22120001076051",
-    "tikName": "Ибресинская"
+    "tikName": "Ибресинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 530,
     "uikTvd": "4214005212310",
+    "uikName": "УИК №530",
     "tikTvd": "22120001076051",
-    "tikName": "Ибресинская"
+    "tikName": "Ибресинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 531,
     "uikTvd": "4214005212311",
+    "uikName": "УИК №531",
     "tikTvd": "22120001076051",
-    "tikName": "Ибресинская"
+    "tikName": "Ибресинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 532,
     "uikTvd": "4214005212312",
+    "uikName": "УИК №532",
     "tikTvd": "22120001076051",
-    "tikName": "Ибресинская"
+    "tikName": "Ибресинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 601,
     "uikTvd": "4214006137042",
+    "uikName": "УИК №601",
     "tikTvd": "22120001076030",
-    "tikName": "Канашская городская"
+    "tikName": "Канашская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 602,
     "uikTvd": "4214006137043",
+    "uikName": "УИК №602",
     "tikTvd": "22120001076030",
-    "tikName": "Канашская городская"
+    "tikName": "Канашская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 603,
     "uikTvd": "4214006137044",
+    "uikName": "УИК №603",
     "tikTvd": "22120001076030",
-    "tikName": "Канашская городская"
+    "tikName": "Канашская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 604,
     "uikTvd": "4214006137045",
+    "uikName": "УИК №604",
     "tikTvd": "22120001076030",
-    "tikName": "Канашская городская"
+    "tikName": "Канашская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 605,
     "uikTvd": "4214006137046",
+    "uikName": "УИК №605",
     "tikTvd": "22120001076030",
-    "tikName": "Канашская городская"
+    "tikName": "Канашская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 606,
     "uikTvd": "4214006137047",
+    "uikName": "УИК №606",
     "tikTvd": "22120001076030",
-    "tikName": "Канашская городская"
+    "tikName": "Канашская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 607,
     "uikTvd": "4214006137048",
+    "uikName": "УИК №607",
     "tikTvd": "22120001076030",
-    "tikName": "Канашская городская"
+    "tikName": "Канашская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 608,
     "uikTvd": "4214006137049",
+    "uikName": "УИК №608",
     "tikTvd": "22120001076030",
-    "tikName": "Канашская городская"
+    "tikName": "Канашская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 609,
     "uikTvd": "4214006137050",
+    "uikName": "УИК №609",
     "tikTvd": "22120001076030",
-    "tikName": "Канашская городская"
+    "tikName": "Канашская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 610,
     "uikTvd": "4214006137051",
+    "uikName": "УИК №610",
     "tikTvd": "22120001076030",
-    "tikName": "Канашская городская"
+    "tikName": "Канашская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 611,
     "uikTvd": "4214006137052",
+    "uikName": "УИК №611",
     "tikTvd": "22120001076030",
-    "tikName": "Канашская городская"
+    "tikName": "Канашская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 612,
     "uikTvd": "4214006137053",
+    "uikName": "УИК №612",
     "tikTvd": "22120001076030",
-    "tikName": "Канашская городская"
+    "tikName": "Канашская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 613,
     "uikTvd": "4214006137054",
+    "uikName": "УИК №613",
     "tikTvd": "22120001076030",
-    "tikName": "Канашская городская"
+    "tikName": "Канашская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 614,
     "uikTvd": "4214006137055",
+    "uikName": "УИК №614",
     "tikTvd": "22120001076030",
-    "tikName": "Канашская городская"
+    "tikName": "Канашская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 615,
     "uikTvd": "4214006137056",
+    "uikName": "УИК №615",
     "tikTvd": "22120001076030",
-    "tikName": "Канашская городская"
+    "tikName": "Канашская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 616,
     "uikTvd": "4214006137057",
+    "uikName": "УИК №616",
     "tikTvd": "22120001076030",
-    "tikName": "Канашская городская"
+    "tikName": "Канашская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 617,
     "uikTvd": "4214006137058",
+    "uikName": "УИК №617",
     "tikTvd": "22120001076030",
-    "tikName": "Канашская городская"
+    "tikName": "Канашская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 618,
     "uikTvd": "4214006137059",
+    "uikName": "УИК №618",
     "tikTvd": "22120001076030",
-    "tikName": "Канашская городская"
+    "tikName": "Канашская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 619,
     "uikTvd": "4214006137060",
+    "uikName": "УИК №619",
     "tikTvd": "22120001076030",
-    "tikName": "Канашская городская"
+    "tikName": "Канашская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 620,
     "uikTvd": "4214006137061",
+    "uikName": "УИК №620",
     "tikTvd": "22120001076030",
-    "tikName": "Канашская городская"
+    "tikName": "Канашская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 621,
     "uikTvd": "4214006137062",
+    "uikName": "УИК №621",
     "tikTvd": "22120001076030",
-    "tikName": "Канашская городская"
+    "tikName": "Канашская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 622,
     "uikTvd": "4214006137063",
+    "uikName": "УИК №622",
     "tikTvd": "22120001076030",
-    "tikName": "Канашская городская"
+    "tikName": "Канашская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 623,
     "uikTvd": "4214006137064",
+    "uikName": "УИК №623",
     "tikTvd": "22120001076030",
-    "tikName": "Канашская городская"
+    "tikName": "Канашская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 624,
     "uikTvd": "4214006137065",
+    "uikName": "УИК №624",
     "tikTvd": "22120001076030",
-    "tikName": "Канашская городская"
+    "tikName": "Канашская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 625,
     "uikTvd": "4214006137066",
+    "uikName": "УИК №625",
     "tikTvd": "22120001076030",
-    "tikName": "Канашская городская"
+    "tikName": "Канашская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 626,
     "uikTvd": "4214006137067",
+    "uikName": "УИК №626",
     "tikTvd": "22120001076030",
-    "tikName": "Канашская городская"
+    "tikName": "Канашская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 627,
     "uikTvd": "4214006137068",
+    "uikName": "УИК №627",
     "tikTvd": "22120001076030",
-    "tikName": "Канашская городская"
+    "tikName": "Канашская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 701,
     "uikTvd": "4214007202675",
+    "uikName": "УИК №701",
     "tikTvd": "22120001076040",
-    "tikName": "Козловская"
+    "tikName": "Козловская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 702,
     "uikTvd": "4214007202676",
+    "uikName": "УИК №702",
     "tikTvd": "22120001076040",
-    "tikName": "Козловская"
+    "tikName": "Козловская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 703,
     "uikTvd": "4214007202677",
+    "uikName": "УИК №703",
     "tikTvd": "22120001076040",
-    "tikName": "Козловская"
+    "tikName": "Козловская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 704,
     "uikTvd": "4214007202678",
+    "uikName": "УИК №704",
     "tikTvd": "22120001076040",
-    "tikName": "Козловская"
+    "tikName": "Козловская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 705,
     "uikTvd": "4214007202679",
+    "uikName": "УИК №705",
     "tikTvd": "22120001076040",
-    "tikName": "Козловская"
+    "tikName": "Козловская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 706,
     "uikTvd": "4214007202680",
+    "uikName": "УИК №706",
     "tikTvd": "22120001076040",
-    "tikName": "Козловская"
+    "tikName": "Козловская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 707,
     "uikTvd": "4214007202681",
+    "uikName": "УИК №707",
     "tikTvd": "22120001076040",
-    "tikName": "Козловская"
+    "tikName": "Козловская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 708,
     "uikTvd": "4214007202682",
+    "uikName": "УИК №708",
     "tikTvd": "22120001076040",
-    "tikName": "Козловская"
+    "tikName": "Козловская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 709,
     "uikTvd": "4214007202683",
+    "uikName": "УИК №709",
     "tikTvd": "22120001076040",
-    "tikName": "Козловская"
+    "tikName": "Козловская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 710,
     "uikTvd": "4214007202684",
+    "uikName": "УИК №710",
     "tikTvd": "22120001076040",
-    "tikName": "Козловская"
+    "tikName": "Козловская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 711,
     "uikTvd": "4214007202685",
+    "uikName": "УИК №711",
     "tikTvd": "22120001076040",
-    "tikName": "Козловская"
+    "tikName": "Козловская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 712,
     "uikTvd": "4214007202686",
+    "uikName": "УИК №712",
     "tikTvd": "22120001076040",
-    "tikName": "Козловская"
+    "tikName": "Козловская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 713,
     "uikTvd": "4214007202687",
+    "uikName": "УИК №713",
     "tikTvd": "22120001076040",
-    "tikName": "Козловская"
+    "tikName": "Козловская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 714,
     "uikTvd": "4214007202688",
+    "uikName": "УИК №714",
     "tikTvd": "22120001076040",
-    "tikName": "Козловская"
+    "tikName": "Козловская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 715,
     "uikTvd": "4214007202689",
+    "uikName": "УИК №715",
     "tikTvd": "22120001076040",
-    "tikName": "Козловская"
+    "tikName": "Козловская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 716,
     "uikTvd": "4214007202690",
+    "uikName": "УИК №716",
     "tikTvd": "22120001076040",
-    "tikName": "Козловская"
+    "tikName": "Козловская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 717,
     "uikTvd": "4214007202691",
+    "uikName": "УИК №717",
     "tikTvd": "22120001076040",
-    "tikName": "Козловская"
+    "tikName": "Козловская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 718,
     "uikTvd": "4214007202692",
+    "uikName": "УИК №718",
     "tikTvd": "22120001076040",
-    "tikName": "Козловская"
+    "tikName": "Козловская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 719,
     "uikTvd": "4214007202693",
+    "uikName": "УИК №719",
     "tikTvd": "22120001076040",
-    "tikName": "Козловская"
+    "tikName": "Козловская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 720,
     "uikTvd": "4214007202694",
+    "uikName": "УИК №720",
     "tikTvd": "22120001076040",
-    "tikName": "Козловская"
+    "tikName": "Козловская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 721,
     "uikTvd": "4214007202695",
+    "uikName": "УИК №721",
     "tikTvd": "22120001076040",
-    "tikName": "Козловская"
+    "tikName": "Козловская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 722,
     "uikTvd": "4214007202696",
+    "uikName": "УИК №722",
     "tikTvd": "22120001076040",
-    "tikName": "Козловская"
+    "tikName": "Козловская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 723,
     "uikTvd": "4214007202697",
+    "uikName": "УИК №723",
     "tikTvd": "22120001076040",
-    "tikName": "Козловская"
+    "tikName": "Козловская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 724,
     "uikTvd": "4214007202698",
+    "uikName": "УИК №724",
     "tikTvd": "22120001076040",
-    "tikName": "Козловская"
+    "tikName": "Козловская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 725,
     "uikTvd": "4214007202699",
+    "uikName": "УИК №725",
     "tikTvd": "22120001076040",
-    "tikName": "Козловская"
+    "tikName": "Козловская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 726,
     "uikTvd": "4214007202700",
+    "uikName": "УИК №726",
     "tikTvd": "22120001076040",
-    "tikName": "Козловская"
+    "tikName": "Козловская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 727,
     "uikTvd": "4214007202701",
+    "uikName": "УИК №727",
     "tikTvd": "22120001076040",
-    "tikName": "Козловская"
+    "tikName": "Козловская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 728,
     "uikTvd": "4214007202702",
+    "uikName": "УИК №728",
     "tikTvd": "22120001076040",
-    "tikName": "Козловская"
+    "tikName": "Козловская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 729,
     "uikTvd": "4214007202703",
+    "uikName": "УИК №729",
     "tikTvd": "22120001076040",
-    "tikName": "Козловская"
+    "tikName": "Козловская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 730,
     "uikTvd": "4214007202704",
+    "uikName": "УИК №730",
     "tikTvd": "22120001076040",
-    "tikName": "Козловская"
+    "tikName": "Козловская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 731,
     "uikTvd": "4214007202705",
+    "uikName": "УИК №731",
     "tikTvd": "22120001076040",
-    "tikName": "Козловская"
+    "tikName": "Козловская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 732,
     "uikTvd": "4214007202706",
+    "uikName": "УИК №732",
     "tikTvd": "22120001076040",
-    "tikName": "Козловская"
+    "tikName": "Козловская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 733,
     "uikTvd": "4214007202707",
+    "uikName": "УИК №733",
     "tikTvd": "22120001076040",
-    "tikName": "Козловская"
+    "tikName": "Козловская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 734,
     "uikTvd": "4214007202708",
+    "uikName": "УИК №734",
     "tikTvd": "22120001076040",
-    "tikName": "Козловская"
+    "tikName": "Козловская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 735,
     "uikTvd": "4214007202709",
+    "uikName": "УИК №735",
     "tikTvd": "22120001076040",
-    "tikName": "Козловская"
+    "tikName": "Козловская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 736,
     "uikTvd": "4214007202710",
+    "uikName": "УИК №736",
     "tikTvd": "22120001076040",
-    "tikName": "Козловская"
+    "tikName": "Козловская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 737,
     "uikTvd": "4214007202711",
+    "uikName": "УИК №737",
     "tikTvd": "22120001076040",
-    "tikName": "Козловская"
+    "tikName": "Козловская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 738,
     "uikTvd": "4214007202712",
+    "uikName": "УИК №738",
     "tikTvd": "22120001076040",
-    "tikName": "Козловская"
+    "tikName": "Козловская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 739,
     "uikTvd": "4214007202713",
+    "uikName": "УИК №739",
     "tikTvd": "22120001076040",
-    "tikName": "Козловская"
+    "tikName": "Козловская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 801,
     "uikTvd": "4214008230327",
+    "uikName": "УИК №801",
     "tikTvd": "22120001076039",
-    "tikName": "Комсомольская"
+    "tikName": "Комсомольская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 802,
     "uikTvd": "4214008230329",
+    "uikName": "УИК №802",
     "tikTvd": "22120001076039",
-    "tikName": "Комсомольская"
+    "tikName": "Комсомольская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 803,
     "uikTvd": "4214008230330",
+    "uikName": "УИК №803",
     "tikTvd": "22120001076039",
-    "tikName": "Комсомольская"
+    "tikName": "Комсомольская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 804,
     "uikTvd": "4214008230331",
+    "uikName": "УИК №804",
     "tikTvd": "22120001076039",
-    "tikName": "Комсомольская"
+    "tikName": "Комсомольская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 805,
     "uikTvd": "4214008230332",
+    "uikName": "УИК №805",
     "tikTvd": "22120001076039",
-    "tikName": "Комсомольская"
+    "tikName": "Комсомольская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 806,
     "uikTvd": "4214008230333",
+    "uikName": "УИК №806",
     "tikTvd": "22120001076039",
-    "tikName": "Комсомольская"
+    "tikName": "Комсомольская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 807,
     "uikTvd": "4214008230334",
+    "uikName": "УИК №807",
     "tikTvd": "22120001076039",
-    "tikName": "Комсомольская"
+    "tikName": "Комсомольская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 808,
     "uikTvd": "4214008230335",
+    "uikName": "УИК №808",
     "tikTvd": "22120001076039",
-    "tikName": "Комсомольская"
+    "tikName": "Комсомольская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 809,
     "uikTvd": "4214008230336",
+    "uikName": "УИК №809",
     "tikTvd": "22120001076039",
-    "tikName": "Комсомольская"
+    "tikName": "Комсомольская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 810,
     "uikTvd": "4214008230337",
+    "uikName": "УИК №810",
     "tikTvd": "22120001076039",
-    "tikName": "Комсомольская"
+    "tikName": "Комсомольская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 811,
     "uikTvd": "4214008230338",
+    "uikName": "УИК №811",
     "tikTvd": "22120001076039",
-    "tikName": "Комсомольская"
+    "tikName": "Комсомольская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 812,
     "uikTvd": "4214008230339",
+    "uikName": "УИК №812",
     "tikTvd": "22120001076039",
-    "tikName": "Комсомольская"
+    "tikName": "Комсомольская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 813,
     "uikTvd": "4214008230340",
+    "uikName": "УИК №813",
     "tikTvd": "22120001076039",
-    "tikName": "Комсомольская"
+    "tikName": "Комсомольская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 814,
     "uikTvd": "4214008230341",
+    "uikName": "УИК №814",
     "tikTvd": "22120001076039",
-    "tikName": "Комсомольская"
+    "tikName": "Комсомольская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 815,
     "uikTvd": "4214008230342",
+    "uikName": "УИК №815",
     "tikTvd": "22120001076039",
-    "tikName": "Комсомольская"
+    "tikName": "Комсомольская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 816,
     "uikTvd": "4214008230343",
+    "uikName": "УИК №816",
     "tikTvd": "22120001076039",
-    "tikName": "Комсомольская"
+    "tikName": "Комсомольская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 817,
     "uikTvd": "4214008230344",
+    "uikName": "УИК №817",
     "tikTvd": "22120001076039",
-    "tikName": "Комсомольская"
+    "tikName": "Комсомольская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 818,
     "uikTvd": "4214008230345",
+    "uikName": "УИК №818",
     "tikTvd": "22120001076039",
-    "tikName": "Комсомольская"
+    "tikName": "Комсомольская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 819,
     "uikTvd": "4214008230346",
+    "uikName": "УИК №819",
     "tikTvd": "22120001076039",
-    "tikName": "Комсомольская"
+    "tikName": "Комсомольская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 820,
     "uikTvd": "4214008230347",
+    "uikName": "УИК №820",
     "tikTvd": "22120001076039",
-    "tikName": "Комсомольская"
+    "tikName": "Комсомольская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 821,
     "uikTvd": "4214008230348",
+    "uikName": "УИК №821",
     "tikTvd": "22120001076039",
-    "tikName": "Комсомольская"
+    "tikName": "Комсомольская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 822,
     "uikTvd": "4214008230349",
+    "uikName": "УИК №822",
     "tikTvd": "22120001076039",
-    "tikName": "Комсомольская"
+    "tikName": "Комсомольская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 823,
     "uikTvd": "4214008230350",
+    "uikName": "УИК №823",
     "tikTvd": "22120001076039",
-    "tikName": "Комсомольская"
+    "tikName": "Комсомольская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 824,
     "uikTvd": "4214008230351",
+    "uikName": "УИК №824",
     "tikTvd": "22120001076039",
-    "tikName": "Комсомольская"
+    "tikName": "Комсомольская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 825,
     "uikTvd": "4214008230352",
+    "uikName": "УИК №825",
     "tikTvd": "22120001076039",
-    "tikName": "Комсомольская"
+    "tikName": "Комсомольская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 826,
     "uikTvd": "4214008230353",
+    "uikName": "УИК №826",
     "tikTvd": "22120001076039",
-    "tikName": "Комсомольская"
+    "tikName": "Комсомольская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 827,
     "uikTvd": "4214008230354",
+    "uikName": "УИК №827",
     "tikTvd": "22120001076039",
-    "tikName": "Комсомольская"
+    "tikName": "Комсомольская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 828,
     "uikTvd": "4214008230355",
+    "uikName": "УИК №828",
     "tikTvd": "22120001076039",
-    "tikName": "Комсомольская"
+    "tikName": "Комсомольская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 829,
     "uikTvd": "4214008230356",
+    "uikName": "УИК №829",
     "tikTvd": "22120001076039",
-    "tikName": "Комсомольская"
+    "tikName": "Комсомольская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 830,
     "uikTvd": "4214008230357",
+    "uikName": "УИК №830",
     "tikTvd": "22120001076039",
-    "tikName": "Комсомольская"
+    "tikName": "Комсомольская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 831,
     "uikTvd": "4214008230358",
+    "uikName": "УИК №831",
     "tikTvd": "22120001076039",
-    "tikName": "Комсомольская"
+    "tikName": "Комсомольская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 832,
     "uikTvd": "4214008230359",
+    "uikName": "УИК №832",
     "tikTvd": "22120001076039",
-    "tikName": "Комсомольская"
+    "tikName": "Комсомольская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 833,
     "uikTvd": "4214008230360",
+    "uikName": "УИК №833",
     "tikTvd": "22120001076039",
-    "tikName": "Комсомольская"
+    "tikName": "Комсомольская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 834,
     "uikTvd": "4214008230361",
+    "uikName": "УИК №834",
     "tikTvd": "22120001076039",
-    "tikName": "Комсомольская"
+    "tikName": "Комсомольская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 835,
     "uikTvd": "4214008230362",
+    "uikName": "УИК №835",
     "tikTvd": "22120001076039",
-    "tikName": "Комсомольская"
+    "tikName": "Комсомольская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 836,
     "uikTvd": "4214008230363",
+    "uikName": "УИК №836",
     "tikTvd": "22120001076039",
-    "tikName": "Комсомольская"
+    "tikName": "Комсомольская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 837,
     "uikTvd": "4214008230364",
+    "uikName": "УИК №837",
     "tikTvd": "22120001076039",
-    "tikName": "Комсомольская"
+    "tikName": "Комсомольская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 838,
     "uikTvd": "4214008230365",
+    "uikName": "УИК №838",
     "tikTvd": "22120001076039",
-    "tikName": "Комсомольская"
+    "tikName": "Комсомольская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 839,
     "uikTvd": "4214008230366",
+    "uikName": "УИК №839",
     "tikTvd": "22120001076039",
-    "tikName": "Комсомольская"
+    "tikName": "Комсомольская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 840,
     "uikTvd": "4214008230367",
+    "uikName": "УИК №840",
     "tikTvd": "22120001076039",
-    "tikName": "Комсомольская"
+    "tikName": "Комсомольская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 841,
     "uikTvd": "4214008230368",
+    "uikName": "УИК №841",
     "tikTvd": "22120001076039",
-    "tikName": "Комсомольская"
+    "tikName": "Комсомольская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 842,
     "uikTvd": "4214008230369",
+    "uikName": "УИК №842",
     "tikTvd": "22120001076039",
-    "tikName": "Комсомольская"
+    "tikName": "Комсомольская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 843,
     "uikTvd": "4214008230370",
+    "uikName": "УИК №843",
     "tikTvd": "22120001076039",
-    "tikName": "Комсомольская"
+    "tikName": "Комсомольская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 901,
     "uikTvd": "4214009212003",
+    "uikName": "УИК №901",
     "tikTvd": "22120001076038",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 902,
     "uikTvd": "4214009212004",
+    "uikName": "УИК №902",
     "tikTvd": "22120001076038",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 903,
     "uikTvd": "4214009212005",
+    "uikName": "УИК №903",
     "tikTvd": "22120001076038",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 904,
     "uikTvd": "4214009212006",
+    "uikName": "УИК №904",
     "tikTvd": "22120001076038",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 905,
     "uikTvd": "4214009212007",
+    "uikName": "УИК №905",
     "tikTvd": "22120001076038",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 906,
     "uikTvd": "4214009212008",
+    "uikName": "УИК №906",
     "tikTvd": "22120001076038",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 907,
     "uikTvd": "4214009212009",
+    "uikName": "УИК №907",
     "tikTvd": "22120001076038",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 908,
     "uikTvd": "4214009212010",
+    "uikName": "УИК №908",
     "tikTvd": "22120001076038",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 909,
     "uikTvd": "4214009212011",
+    "uikName": "УИК №909",
     "tikTvd": "22120001076038",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 910,
     "uikTvd": "4214009212012",
+    "uikName": "УИК №910",
     "tikTvd": "22120001076038",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 911,
     "uikTvd": "4214009212013",
+    "uikName": "УИК №911",
     "tikTvd": "22120001076038",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 912,
     "uikTvd": "4214009212014",
+    "uikName": "УИК №912",
     "tikTvd": "22120001076038",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 913,
     "uikTvd": "4214009212015",
+    "uikName": "УИК №913",
     "tikTvd": "22120001076038",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 914,
     "uikTvd": "4214009212016",
+    "uikName": "УИК №914",
     "tikTvd": "22120001076038",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 915,
     "uikTvd": "4214009212017",
+    "uikName": "УИК №915",
     "tikTvd": "22120001076038",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 916,
     "uikTvd": "4214009212018",
+    "uikName": "УИК №916",
     "tikTvd": "22120001076038",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 917,
     "uikTvd": "4214009212019",
+    "uikName": "УИК №917",
     "tikTvd": "22120001076038",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 918,
     "uikTvd": "4214009212020",
+    "uikName": "УИК №918",
     "tikTvd": "22120001076038",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 919,
     "uikTvd": "4214009212021",
+    "uikName": "УИК №919",
     "tikTvd": "22120001076038",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 920,
     "uikTvd": "4214009212022",
+    "uikName": "УИК №920",
     "tikTvd": "22120001076038",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 921,
     "uikTvd": "4214009212023",
+    "uikName": "УИК №921",
     "tikTvd": "22120001076038",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 922,
     "uikTvd": "4214009212024",
+    "uikName": "УИК №922",
     "tikTvd": "22120001076038",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1001,
     "uikTvd": "4214010197668",
+    "uikName": "УИК №1001",
     "tikTvd": "22120001076050",
-    "tikName": "Красночетайская"
+    "tikName": "Красночетайская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1002,
     "uikTvd": "4214010197669",
+    "uikName": "УИК №1002",
     "tikTvd": "22120001076050",
-    "tikName": "Красночетайская"
+    "tikName": "Красночетайская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1003,
     "uikTvd": "4214010197670",
+    "uikName": "УИК №1003",
     "tikTvd": "22120001076050",
-    "tikName": "Красночетайская"
+    "tikName": "Красночетайская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1004,
     "uikTvd": "4214010197671",
+    "uikName": "УИК №1004",
     "tikTvd": "22120001076050",
-    "tikName": "Красночетайская"
+    "tikName": "Красночетайская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1005,
     "uikTvd": "4214010197672",
+    "uikName": "УИК №1005",
     "tikTvd": "22120001076050",
-    "tikName": "Красночетайская"
+    "tikName": "Красночетайская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1006,
     "uikTvd": "4214010197673",
+    "uikName": "УИК №1006",
     "tikTvd": "22120001076050",
-    "tikName": "Красночетайская"
+    "tikName": "Красночетайская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1007,
     "uikTvd": "4214010197674",
+    "uikName": "УИК №1007",
     "tikTvd": "22120001076050",
-    "tikName": "Красночетайская"
+    "tikName": "Красночетайская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1008,
     "uikTvd": "4214010197675",
+    "uikName": "УИК №1008",
     "tikTvd": "22120001076050",
-    "tikName": "Красночетайская"
+    "tikName": "Красночетайская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1009,
     "uikTvd": "4214010197676",
+    "uikName": "УИК №1009",
     "tikTvd": "22120001076050",
-    "tikName": "Красночетайская"
+    "tikName": "Красночетайская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1010,
     "uikTvd": "4214010197677",
+    "uikName": "УИК №1010",
     "tikTvd": "22120001076050",
-    "tikName": "Красночетайская"
+    "tikName": "Красночетайская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1011,
     "uikTvd": "4214010197678",
+    "uikName": "УИК №1011",
     "tikTvd": "22120001076050",
-    "tikName": "Красночетайская"
+    "tikName": "Красночетайская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1012,
     "uikTvd": "4214010197679",
+    "uikName": "УИК №1012",
     "tikTvd": "22120001076050",
-    "tikName": "Красночетайская"
+    "tikName": "Красночетайская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1013,
     "uikTvd": "4214010197680",
+    "uikName": "УИК №1013",
     "tikTvd": "22120001076050",
-    "tikName": "Красночетайская"
+    "tikName": "Красночетайская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1014,
     "uikTvd": "4214010197681",
+    "uikName": "УИК №1014",
     "tikTvd": "22120001076050",
-    "tikName": "Красночетайская"
+    "tikName": "Красночетайская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1015,
     "uikTvd": "4214010197682",
+    "uikName": "УИК №1015",
     "tikTvd": "22120001076050",
-    "tikName": "Красночетайская"
+    "tikName": "Красночетайская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1016,
     "uikTvd": "4214010197683",
+    "uikName": "УИК №1016",
     "tikTvd": "22120001076050",
-    "tikName": "Красночетайская"
+    "tikName": "Красночетайская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1017,
     "uikTvd": "4214010197684",
+    "uikName": "УИК №1017",
     "tikTvd": "22120001076050",
-    "tikName": "Красночетайская"
+    "tikName": "Красночетайская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1018,
     "uikTvd": "4214010197685",
+    "uikName": "УИК №1018",
     "tikTvd": "22120001076050",
-    "tikName": "Красночетайская"
+    "tikName": "Красночетайская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1019,
     "uikTvd": "4214010197686",
+    "uikName": "УИК №1019",
     "tikTvd": "22120001076050",
-    "tikName": "Красночетайская"
+    "tikName": "Красночетайская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1020,
     "uikTvd": "4214010197687",
+    "uikName": "УИК №1020",
     "tikTvd": "22120001076050",
-    "tikName": "Красночетайская"
+    "tikName": "Красночетайская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1021,
     "uikTvd": "4214010197688",
+    "uikName": "УИК №1021",
     "tikTvd": "22120001076050",
-    "tikName": "Красночетайская"
+    "tikName": "Красночетайская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1022,
     "uikTvd": "4214010197689",
+    "uikName": "УИК №1022",
     "tikTvd": "22120001076050",
-    "tikName": "Красночетайская"
+    "tikName": "Красночетайская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1023,
     "uikTvd": "4214010197690",
+    "uikName": "УИК №1023",
     "tikTvd": "22120001076050",
-    "tikName": "Красночетайская"
+    "tikName": "Красночетайская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1024,
     "uikTvd": "4214010197691",
+    "uikName": "УИК №1024",
     "tikTvd": "22120001076050",
-    "tikName": "Красночетайская"
+    "tikName": "Красночетайская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1025,
     "uikTvd": "4214010197692",
+    "uikName": "УИК №1025",
     "tikTvd": "22120001076050",
-    "tikName": "Красночетайская"
+    "tikName": "Красночетайская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1026,
     "uikTvd": "4214010197693",
+    "uikName": "УИК №1026",
     "tikTvd": "22120001076050",
-    "tikName": "Красночетайская"
+    "tikName": "Красночетайская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1027,
     "uikTvd": "4214010197694",
+    "uikName": "УИК №1027",
     "tikTvd": "22120001076050",
-    "tikName": "Красночетайская"
+    "tikName": "Красночетайская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1028,
     "uikTvd": "4214010197695",
+    "uikName": "УИК №1028",
     "tikTvd": "22120001076050",
-    "tikName": "Красночетайская"
+    "tikName": "Красночетайская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1029,
     "uikTvd": "4214010197696",
+    "uikName": "УИК №1029",
     "tikTvd": "22120001076050",
-    "tikName": "Красночетайская"
+    "tikName": "Красночетайская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1030,
     "uikTvd": "4214010197697",
+    "uikName": "УИК №1030",
     "tikTvd": "22120001076050",
-    "tikName": "Красночетайская"
+    "tikName": "Красночетайская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1031,
     "uikTvd": "4214010197698",
+    "uikName": "УИК №1031",
     "tikTvd": "22120001076050",
-    "tikName": "Красночетайская"
+    "tikName": "Красночетайская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1032,
     "uikTvd": "4214010197699",
+    "uikName": "УИК №1032",
     "tikTvd": "22120001076050",
-    "tikName": "Красночетайская"
+    "tikName": "Красночетайская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1033,
     "uikTvd": "4214010197700",
+    "uikName": "УИК №1033",
     "tikTvd": "22120001076050",
-    "tikName": "Красночетайская"
+    "tikName": "Красночетайская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1034,
     "uikTvd": "4214010197701",
+    "uikName": "УИК №1034",
     "tikTvd": "22120001076050",
-    "tikName": "Красночетайская"
+    "tikName": "Красночетайская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1035,
     "uikTvd": "4214010197702",
+    "uikName": "УИК №1035",
     "tikTvd": "22120001076050",
-    "tikName": "Красночетайская"
+    "tikName": "Красночетайская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1036,
     "uikTvd": "4214010197703",
+    "uikName": "УИК №1036",
     "tikTvd": "22120001076050",
-    "tikName": "Красночетайская"
+    "tikName": "Красночетайская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1037,
     "uikTvd": "4214010197704",
+    "uikName": "УИК №1037",
     "tikTvd": "22120001076050",
-    "tikName": "Красночетайская"
+    "tikName": "Красночетайская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1038,
     "uikTvd": "4214010197705",
+    "uikName": "УИК №1038",
     "tikTvd": "22120001076050",
-    "tikName": "Красночетайская"
+    "tikName": "Красночетайская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1039,
     "uikTvd": "4214010197706",
+    "uikName": "УИК №1039",
     "tikTvd": "22120001076050",
-    "tikName": "Красночетайская"
+    "tikName": "Красночетайская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1040,
     "uikTvd": "4214010197707",
+    "uikName": "УИК №1040",
     "tikTvd": "22120001076050",
-    "tikName": "Красночетайская"
+    "tikName": "Красночетайская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1101,
     "uikTvd": "4214011282745",
+    "uikName": "УИК №1101",
     "tikTvd": "22120001076037",
-    "tikName": "Марпосадская"
+    "tikName": "Марпосадская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1102,
     "uikTvd": "4214011282746",
+    "uikName": "УИК №1102",
     "tikTvd": "22120001076037",
-    "tikName": "Марпосадская"
+    "tikName": "Марпосадская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1103,
     "uikTvd": "4214011282747",
+    "uikName": "УИК №1103",
     "tikTvd": "22120001076037",
-    "tikName": "Марпосадская"
+    "tikName": "Марпосадская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1104,
     "uikTvd": "4214011282748",
+    "uikName": "УИК №1104",
     "tikTvd": "22120001076037",
-    "tikName": "Марпосадская"
+    "tikName": "Марпосадская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1105,
     "uikTvd": "4214011282749",
+    "uikName": "УИК №1105",
     "tikTvd": "22120001076037",
-    "tikName": "Марпосадская"
+    "tikName": "Марпосадская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1106,
     "uikTvd": "4214011282750",
+    "uikName": "УИК №1106",
     "tikTvd": "22120001076037",
-    "tikName": "Марпосадская"
+    "tikName": "Марпосадская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1107,
     "uikTvd": "4214011282751",
+    "uikName": "УИК №1107",
     "tikTvd": "22120001076037",
-    "tikName": "Марпосадская"
+    "tikName": "Марпосадская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1108,
     "uikTvd": "4214011282752",
+    "uikName": "УИК №1108",
     "tikTvd": "22120001076037",
-    "tikName": "Марпосадская"
+    "tikName": "Марпосадская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1109,
     "uikTvd": "4214011282753",
+    "uikName": "УИК №1109",
     "tikTvd": "22120001076037",
-    "tikName": "Марпосадская"
+    "tikName": "Марпосадская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1110,
     "uikTvd": "4214011282754",
+    "uikName": "УИК №1110",
     "tikTvd": "22120001076037",
-    "tikName": "Марпосадская"
+    "tikName": "Марпосадская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1111,
     "uikTvd": "4214011282755",
+    "uikName": "УИК №1111",
     "tikTvd": "22120001076037",
-    "tikName": "Марпосадская"
+    "tikName": "Марпосадская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1112,
     "uikTvd": "4214011282756",
+    "uikName": "УИК №1112",
     "tikTvd": "22120001076037",
-    "tikName": "Марпосадская"
+    "tikName": "Марпосадская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1113,
     "uikTvd": "4214011282757",
+    "uikName": "УИК №1113",
     "tikTvd": "22120001076037",
-    "tikName": "Марпосадская"
+    "tikName": "Марпосадская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1114,
     "uikTvd": "4214011282758",
+    "uikName": "УИК №1114",
     "tikTvd": "22120001076037",
-    "tikName": "Марпосадская"
+    "tikName": "Марпосадская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1115,
     "uikTvd": "4214011282759",
+    "uikName": "УИК №1115",
     "tikTvd": "22120001076037",
-    "tikName": "Марпосадская"
+    "tikName": "Марпосадская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1116,
     "uikTvd": "4214011282760",
+    "uikName": "УИК №1116",
     "tikTvd": "22120001076037",
-    "tikName": "Марпосадская"
+    "tikName": "Марпосадская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1117,
     "uikTvd": "4214011282761",
+    "uikName": "УИК №1117",
     "tikTvd": "22120001076037",
-    "tikName": "Марпосадская"
+    "tikName": "Марпосадская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1118,
     "uikTvd": "4214011282762",
+    "uikName": "УИК №1118",
     "tikTvd": "22120001076037",
-    "tikName": "Марпосадская"
+    "tikName": "Марпосадская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1119,
     "uikTvd": "4214011282763",
+    "uikName": "УИК №1119",
     "tikTvd": "22120001076037",
-    "tikName": "Марпосадская"
+    "tikName": "Марпосадская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1120,
     "uikTvd": "4214011282764",
+    "uikName": "УИК №1120",
     "tikTvd": "22120001076037",
-    "tikName": "Марпосадская"
+    "tikName": "Марпосадская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1121,
     "uikTvd": "4214011282765",
+    "uikName": "УИК №1121",
     "tikTvd": "22120001076037",
-    "tikName": "Марпосадская"
+    "tikName": "Марпосадская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1122,
     "uikTvd": "4214011282766",
+    "uikName": "УИК №1122",
     "tikTvd": "22120001076037",
-    "tikName": "Марпосадская"
+    "tikName": "Марпосадская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1123,
     "uikTvd": "4214011282767",
+    "uikName": "УИК №1123",
     "tikTvd": "22120001076037",
-    "tikName": "Марпосадская"
+    "tikName": "Марпосадская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1124,
     "uikTvd": "4214011282768",
+    "uikName": "УИК №1124",
     "tikTvd": "22120001076037",
-    "tikName": "Марпосадская"
+    "tikName": "Марпосадская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1125,
     "uikTvd": "4214011282769",
+    "uikName": "УИК №1125",
     "tikTvd": "22120001076037",
-    "tikName": "Марпосадская"
+    "tikName": "Марпосадская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1126,
     "uikTvd": "4214011282770",
+    "uikName": "УИК №1126",
     "tikTvd": "22120001076037",
-    "tikName": "Марпосадская"
+    "tikName": "Марпосадская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1127,
     "uikTvd": "4214011282771",
+    "uikName": "УИК №1127",
     "tikTvd": "22120001076037",
-    "tikName": "Марпосадская"
+    "tikName": "Марпосадская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1128,
     "uikTvd": "4214011282772",
+    "uikName": "УИК №1128",
     "tikTvd": "22120001076037",
-    "tikName": "Марпосадская"
+    "tikName": "Марпосадская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1129,
     "uikTvd": "4214011282773",
+    "uikName": "УИК №1129",
     "tikTvd": "22120001076037",
-    "tikName": "Марпосадская"
+    "tikName": "Марпосадская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1130,
     "uikTvd": "4214011282774",
+    "uikName": "УИК №1130",
     "tikTvd": "22120001076037",
-    "tikName": "Марпосадская"
+    "tikName": "Марпосадская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1131,
     "uikTvd": "4214011282775",
+    "uikName": "УИК №1131",
     "tikTvd": "22120001076037",
-    "tikName": "Марпосадская"
+    "tikName": "Марпосадская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1132,
     "uikTvd": "4214011282776",
+    "uikName": "УИК №1132",
     "tikTvd": "22120001076037",
-    "tikName": "Марпосадская"
+    "tikName": "Марпосадская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1133,
     "uikTvd": "4214011282777",
+    "uikName": "УИК №1133",
     "tikTvd": "22120001076037",
-    "tikName": "Марпосадская"
+    "tikName": "Марпосадская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1134,
     "uikTvd": "4214011282778",
+    "uikName": "УИК №1134",
     "tikTvd": "22120001076037",
-    "tikName": "Марпосадская"
+    "tikName": "Марпосадская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1135,
     "uikTvd": "4214011282779",
+    "uikName": "УИК №1135",
     "tikTvd": "22120001076037",
-    "tikName": "Марпосадская"
+    "tikName": "Марпосадская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1136,
     "uikTvd": "4214011282780",
+    "uikName": "УИК №1136",
     "tikTvd": "22120001076037",
-    "tikName": "Марпосадская"
+    "tikName": "Марпосадская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1137,
     "uikTvd": "4214011282781",
+    "uikName": "УИК №1137",
     "tikTvd": "22120001076037",
-    "tikName": "Марпосадская"
+    "tikName": "Марпосадская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1138,
     "uikTvd": "4214011282782",
+    "uikName": "УИК №1138",
     "tikTvd": "22120001076037",
-    "tikName": "Марпосадская"
+    "tikName": "Марпосадская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1139,
     "uikTvd": "4214011282783",
+    "uikName": "УИК №1139",
     "tikTvd": "22120001076037",
-    "tikName": "Марпосадская"
+    "tikName": "Марпосадская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1140,
     "uikTvd": "4214011282784",
+    "uikName": "УИК №1140",
     "tikTvd": "22120001076037",
-    "tikName": "Марпосадская"
+    "tikName": "Марпосадская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1141,
     "uikTvd": "4214011282785",
+    "uikName": "УИК №1141",
     "tikTvd": "22120001076037",
-    "tikName": "Марпосадская"
+    "tikName": "Марпосадская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1142,
     "uikTvd": "4214011282786",
+    "uikName": "УИК №1142",
     "tikTvd": "22120001076037",
-    "tikName": "Марпосадская"
+    "tikName": "Марпосадская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1143,
     "uikTvd": "4214011282787",
+    "uikName": "УИК №1143",
     "tikTvd": "22120001076037",
-    "tikName": "Марпосадская"
+    "tikName": "Марпосадская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1144,
     "uikTvd": "4214011282788",
+    "uikName": "УИК №1144",
     "tikTvd": "22120001076037",
-    "tikName": "Марпосадская"
+    "tikName": "Марпосадская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1145,
     "uikTvd": "4214011282789",
+    "uikName": "УИК №1145",
     "tikTvd": "22120001076037",
-    "tikName": "Марпосадская"
+    "tikName": "Марпосадская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1146,
     "uikTvd": "4214011282790",
+    "uikName": "УИК №1146",
     "tikTvd": "22120001076037",
-    "tikName": "Марпосадская"
+    "tikName": "Марпосадская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1147,
     "uikTvd": "4214011282791",
+    "uikName": "УИК №1147",
     "tikTvd": "22120001076037",
-    "tikName": "Марпосадская"
+    "tikName": "Марпосадская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1148,
     "uikTvd": "4214011282792",
+    "uikName": "УИК №1148",
     "tikTvd": "22120001076037",
-    "tikName": "Марпосадская"
+    "tikName": "Марпосадская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1149,
     "uikTvd": "4214011282793",
+    "uikName": "УИК №1149",
     "tikTvd": "22120001076037",
-    "tikName": "Марпосадская"
+    "tikName": "Марпосадская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1201,
     "uikTvd": "4214012253568",
+    "uikName": "УИК №1201",
     "tikTvd": "22120001076049",
-    "tikName": "Моргаушская"
+    "tikName": "Моргаушская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1202,
     "uikTvd": "4214012253569",
+    "uikName": "УИК №1202",
     "tikTvd": "22120001076049",
-    "tikName": "Моргаушская"
+    "tikName": "Моргаушская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1203,
     "uikTvd": "4214012253570",
+    "uikName": "УИК №1203",
     "tikTvd": "22120001076049",
-    "tikName": "Моргаушская"
+    "tikName": "Моргаушская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1204,
     "uikTvd": "4214012253571",
+    "uikName": "УИК №1204",
     "tikTvd": "22120001076049",
-    "tikName": "Моргаушская"
+    "tikName": "Моргаушская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1205,
     "uikTvd": "4214012253572",
+    "uikName": "УИК №1205",
     "tikTvd": "22120001076049",
-    "tikName": "Моргаушская"
+    "tikName": "Моргаушская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1206,
     "uikTvd": "4214012253573",
+    "uikName": "УИК №1206",
     "tikTvd": "22120001076049",
-    "tikName": "Моргаушская"
+    "tikName": "Моргаушская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1207,
     "uikTvd": "4214012253574",
+    "uikName": "УИК №1207",
     "tikTvd": "22120001076049",
-    "tikName": "Моргаушская"
+    "tikName": "Моргаушская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1208,
     "uikTvd": "4214012253575",
+    "uikName": "УИК №1208",
     "tikTvd": "22120001076049",
-    "tikName": "Моргаушская"
+    "tikName": "Моргаушская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1209,
     "uikTvd": "4214012253576",
+    "uikName": "УИК №1209",
     "tikTvd": "22120001076049",
-    "tikName": "Моргаушская"
+    "tikName": "Моргаушская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1210,
     "uikTvd": "4214012253577",
+    "uikName": "УИК №1210",
     "tikTvd": "22120001076049",
-    "tikName": "Моргаушская"
+    "tikName": "Моргаушская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1211,
     "uikTvd": "4214012253578",
+    "uikName": "УИК №1211",
     "tikTvd": "22120001076049",
-    "tikName": "Моргаушская"
+    "tikName": "Моргаушская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1212,
     "uikTvd": "4214012253579",
+    "uikName": "УИК №1212",
     "tikTvd": "22120001076049",
-    "tikName": "Моргаушская"
+    "tikName": "Моргаушская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1213,
     "uikTvd": "4214012253580",
+    "uikName": "УИК №1213",
     "tikTvd": "22120001076049",
-    "tikName": "Моргаушская"
+    "tikName": "Моргаушская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1214,
     "uikTvd": "4214012253581",
+    "uikName": "УИК №1214",
     "tikTvd": "22120001076049",
-    "tikName": "Моргаушская"
+    "tikName": "Моргаушская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1215,
     "uikTvd": "4214012253582",
+    "uikName": "УИК №1215",
     "tikTvd": "22120001076049",
-    "tikName": "Моргаушская"
+    "tikName": "Моргаушская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1216,
     "uikTvd": "4214012253583",
+    "uikName": "УИК №1216",
     "tikTvd": "22120001076049",
-    "tikName": "Моргаушская"
+    "tikName": "Моргаушская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1217,
     "uikTvd": "4214012253584",
+    "uikName": "УИК №1217",
     "tikTvd": "22120001076049",
-    "tikName": "Моргаушская"
+    "tikName": "Моргаушская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1218,
     "uikTvd": "4214012253585",
+    "uikName": "УИК №1218",
     "tikTvd": "22120001076049",
-    "tikName": "Моргаушская"
+    "tikName": "Моргаушская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1219,
     "uikTvd": "4214012253586",
+    "uikName": "УИК №1219",
     "tikTvd": "22120001076049",
-    "tikName": "Моргаушская"
+    "tikName": "Моргаушская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1220,
     "uikTvd": "4214012253587",
+    "uikName": "УИК №1220",
     "tikTvd": "22120001076049",
-    "tikName": "Моргаушская"
+    "tikName": "Моргаушская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1221,
     "uikTvd": "4214012253588",
+    "uikName": "УИК №1221",
     "tikTvd": "22120001076049",
-    "tikName": "Моргаушская"
+    "tikName": "Моргаушская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1222,
     "uikTvd": "4214012253589",
+    "uikName": "УИК №1222",
     "tikTvd": "22120001076049",
-    "tikName": "Моргаушская"
+    "tikName": "Моргаушская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1223,
     "uikTvd": "4214012253590",
+    "uikName": "УИК №1223",
     "tikTvd": "22120001076049",
-    "tikName": "Моргаушская"
+    "tikName": "Моргаушская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1224,
     "uikTvd": "4214012253591",
+    "uikName": "УИК №1224",
     "tikTvd": "22120001076049",
-    "tikName": "Моргаушская"
+    "tikName": "Моргаушская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1225,
     "uikTvd": "4214012253592",
+    "uikName": "УИК №1225",
     "tikTvd": "22120001076049",
-    "tikName": "Моргаушская"
+    "tikName": "Моргаушская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1226,
     "uikTvd": "4214012253593",
+    "uikName": "УИК №1226",
     "tikTvd": "22120001076049",
-    "tikName": "Моргаушская"
+    "tikName": "Моргаушская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1227,
     "uikTvd": "4214012253594",
+    "uikName": "УИК №1227",
     "tikTvd": "22120001076049",
-    "tikName": "Моргаушская"
+    "tikName": "Моргаушская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1228,
     "uikTvd": "4214012253595",
+    "uikName": "УИК №1228",
     "tikTvd": "22120001076049",
-    "tikName": "Моргаушская"
+    "tikName": "Моргаушская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1229,
     "uikTvd": "4214012253596",
+    "uikName": "УИК №1229",
     "tikTvd": "22120001076049",
-    "tikName": "Моргаушская"
+    "tikName": "Моргаушская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1230,
     "uikTvd": "4214012253597",
+    "uikName": "УИК №1230",
     "tikTvd": "22120001076049",
-    "tikName": "Моргаушская"
+    "tikName": "Моргаушская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1231,
     "uikTvd": "4214012253598",
+    "uikName": "УИК №1231",
     "tikTvd": "22120001076049",
-    "tikName": "Моргаушская"
+    "tikName": "Моргаушская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1232,
     "uikTvd": "4214012253599",
+    "uikName": "УИК №1232",
     "tikTvd": "22120001076049",
-    "tikName": "Моргаушская"
+    "tikName": "Моргаушская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1233,
     "uikTvd": "4214012253600",
+    "uikName": "УИК №1233",
     "tikTvd": "22120001076049",
-    "tikName": "Моргаушская"
+    "tikName": "Моргаушская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1234,
     "uikTvd": "4214012253601",
+    "uikName": "УИК №1234",
     "tikTvd": "22120001076049",
-    "tikName": "Моргаушская"
+    "tikName": "Моргаушская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1235,
     "uikTvd": "4214012253602",
+    "uikName": "УИК №1235",
     "tikTvd": "22120001076049",
-    "tikName": "Моргаушская"
+    "tikName": "Моргаушская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1236,
     "uikTvd": "4214012253603",
+    "uikName": "УИК №1236",
     "tikTvd": "22120001076049",
-    "tikName": "Моргаушская"
+    "tikName": "Моргаушская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1237,
     "uikTvd": "4214012253604",
+    "uikName": "УИК №1237",
     "tikTvd": "22120001076049",
-    "tikName": "Моргаушская"
+    "tikName": "Моргаушская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1238,
     "uikTvd": "4214012253605",
+    "uikName": "УИК №1238",
     "tikTvd": "22120001076049",
-    "tikName": "Моргаушская"
+    "tikName": "Моргаушская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1239,
     "uikTvd": "4214012253606",
+    "uikName": "УИК №1239",
     "tikTvd": "22120001076049",
-    "tikName": "Моргаушская"
+    "tikName": "Моргаушская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1240,
     "uikTvd": "4214012253607",
+    "uikName": "УИК №1240",
     "tikTvd": "22120001076049",
-    "tikName": "Моргаушская"
+    "tikName": "Моргаушская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1241,
     "uikTvd": "4214012253608",
+    "uikName": "УИК №1241",
     "tikTvd": "22120001076049",
-    "tikName": "Моргаушская"
+    "tikName": "Моргаушская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1242,
     "uikTvd": "4214012253609",
+    "uikName": "УИК №1242",
     "tikTvd": "22120001076049",
-    "tikName": "Моргаушская"
+    "tikName": "Моргаушская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1243,
     "uikTvd": "4214012253610",
+    "uikName": "УИК №1243",
     "tikTvd": "22120001076049",
-    "tikName": "Моргаушская"
+    "tikName": "Моргаушская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1244,
     "uikTvd": "4214012253611",
+    "uikName": "УИК №1244",
     "tikTvd": "22120001076049",
-    "tikName": "Моргаушская"
+    "tikName": "Моргаушская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1245,
     "uikTvd": "4214012253612",
+    "uikName": "УИК №1245",
     "tikTvd": "22120001076049",
-    "tikName": "Моргаушская"
+    "tikName": "Моргаушская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1246,
     "uikTvd": "4214012253613",
+    "uikName": "УИК №1246",
     "tikTvd": "22120001076049",
-    "tikName": "Моргаушская"
+    "tikName": "Моргаушская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1247,
     "uikTvd": "4214012253614",
+    "uikName": "УИК №1247",
     "tikTvd": "22120001076049",
-    "tikName": "Моргаушская"
+    "tikName": "Моргаушская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1248,
     "uikTvd": "4214012253615",
+    "uikName": "УИК №1248",
     "tikTvd": "22120001076049",
-    "tikName": "Моргаушская"
+    "tikName": "Моргаушская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1249,
     "uikTvd": "4214012253616",
+    "uikName": "УИК №1249",
     "tikTvd": "22120001076049",
-    "tikName": "Моргаушская"
+    "tikName": "Моргаушская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1250,
     "uikTvd": "4214012253618",
+    "uikName": "УИК №1250",
     "tikTvd": "22120001076049",
-    "tikName": "Моргаушская"
+    "tikName": "Моргаушская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1251,
     "uikTvd": "4214012253619",
+    "uikName": "УИК №1251",
     "tikTvd": "22120001076049",
-    "tikName": "Моргаушская"
+    "tikName": "Моргаушская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1301,
     "uikTvd": "4214013185270",
+    "uikName": "УИК №1301",
     "tikTvd": "22120001076036",
-    "tikName": "Новочебоксарская городская"
+    "tikName": "Новочебоксарская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1302,
     "uikTvd": "4214013185271",
+    "uikName": "УИК №1302",
     "tikTvd": "22120001076036",
-    "tikName": "Новочебоксарская городская"
+    "tikName": "Новочебоксарская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1303,
     "uikTvd": "4214013185272",
+    "uikName": "УИК №1303",
     "tikTvd": "22120001076036",
-    "tikName": "Новочебоксарская городская"
+    "tikName": "Новочебоксарская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1304,
     "uikTvd": "4214013185273",
+    "uikName": "УИК №1304",
     "tikTvd": "22120001076036",
-    "tikName": "Новочебоксарская городская"
+    "tikName": "Новочебоксарская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1305,
     "uikTvd": "4214013185274",
+    "uikName": "УИК №1305",
     "tikTvd": "22120001076036",
-    "tikName": "Новочебоксарская городская"
+    "tikName": "Новочебоксарская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1306,
     "uikTvd": "4214013185275",
+    "uikName": "УИК №1306",
     "tikTvd": "22120001076036",
-    "tikName": "Новочебоксарская городская"
+    "tikName": "Новочебоксарская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1307,
     "uikTvd": "4214013185276",
+    "uikName": "УИК №1307",
     "tikTvd": "22120001076036",
-    "tikName": "Новочебоксарская городская"
+    "tikName": "Новочебоксарская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1308,
     "uikTvd": "4214013185277",
+    "uikName": "УИК №1308",
     "tikTvd": "22120001076036",
-    "tikName": "Новочебоксарская городская"
+    "tikName": "Новочебоксарская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1309,
     "uikTvd": "4214013185278",
+    "uikName": "УИК №1309",
     "tikTvd": "22120001076036",
-    "tikName": "Новочебоксарская городская"
+    "tikName": "Новочебоксарская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1310,
     "uikTvd": "4214013185279",
+    "uikName": "УИК №1310",
     "tikTvd": "22120001076036",
-    "tikName": "Новочебоксарская городская"
+    "tikName": "Новочебоксарская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1311,
     "uikTvd": "4214013185280",
+    "uikName": "УИК №1311",
     "tikTvd": "22120001076036",
-    "tikName": "Новочебоксарская городская"
+    "tikName": "Новочебоксарская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1312,
     "uikTvd": "4214013185281",
+    "uikName": "УИК №1312",
     "tikTvd": "22120001076036",
-    "tikName": "Новочебоксарская городская"
+    "tikName": "Новочебоксарская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1313,
     "uikTvd": "4214013185282",
+    "uikName": "УИК №1313",
     "tikTvd": "22120001076036",
-    "tikName": "Новочебоксарская городская"
+    "tikName": "Новочебоксарская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1314,
     "uikTvd": "4214013185283",
+    "uikName": "УИК №1314",
     "tikTvd": "22120001076036",
-    "tikName": "Новочебоксарская городская"
+    "tikName": "Новочебоксарская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1315,
     "uikTvd": "4214013185284",
+    "uikName": "УИК №1315",
     "tikTvd": "22120001076036",
-    "tikName": "Новочебоксарская городская"
+    "tikName": "Новочебоксарская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1316,
     "uikTvd": "4214013185285",
+    "uikName": "УИК №1316",
     "tikTvd": "22120001076036",
-    "tikName": "Новочебоксарская городская"
+    "tikName": "Новочебоксарская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1317,
     "uikTvd": "4214013185286",
+    "uikName": "УИК №1317",
     "tikTvd": "22120001076036",
-    "tikName": "Новочебоксарская городская"
+    "tikName": "Новочебоксарская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1318,
     "uikTvd": "4214013185287",
+    "uikName": "УИК №1318",
     "tikTvd": "22120001076036",
-    "tikName": "Новочебоксарская городская"
+    "tikName": "Новочебоксарская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1319,
     "uikTvd": "4214013185288",
+    "uikName": "УИК №1319",
     "tikTvd": "22120001076036",
-    "tikName": "Новочебоксарская городская"
+    "tikName": "Новочебоксарская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1320,
     "uikTvd": "4214013185289",
+    "uikName": "УИК №1320",
     "tikTvd": "22120001076036",
-    "tikName": "Новочебоксарская городская"
+    "tikName": "Новочебоксарская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1321,
     "uikTvd": "4214013185290",
+    "uikName": "УИК №1321",
     "tikTvd": "22120001076036",
-    "tikName": "Новочебоксарская городская"
+    "tikName": "Новочебоксарская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1322,
     "uikTvd": "4214013185291",
+    "uikName": "УИК №1322",
     "tikTvd": "22120001076036",
-    "tikName": "Новочебоксарская городская"
+    "tikName": "Новочебоксарская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1323,
     "uikTvd": "4214013185292",
+    "uikName": "УИК №1323",
     "tikTvd": "22120001076036",
-    "tikName": "Новочебоксарская городская"
+    "tikName": "Новочебоксарская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1324,
     "uikTvd": "4214013185293",
+    "uikName": "УИК №1324",
     "tikTvd": "22120001076036",
-    "tikName": "Новочебоксарская городская"
+    "tikName": "Новочебоксарская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1325,
     "uikTvd": "4214013185294",
+    "uikName": "УИК №1325",
     "tikTvd": "22120001076036",
-    "tikName": "Новочебоксарская городская"
+    "tikName": "Новочебоксарская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1326,
     "uikTvd": "4214013185295",
+    "uikName": "УИК №1326",
     "tikTvd": "22120001076036",
-    "tikName": "Новочебоксарская городская"
+    "tikName": "Новочебоксарская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1327,
     "uikTvd": "4214013185296",
+    "uikName": "УИК №1327",
     "tikTvd": "22120001076036",
-    "tikName": "Новочебоксарская городская"
+    "tikName": "Новочебоксарская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1328,
     "uikTvd": "4214013185297",
+    "uikName": "УИК №1328",
     "tikTvd": "22120001076036",
-    "tikName": "Новочебоксарская городская"
+    "tikName": "Новочебоксарская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1329,
     "uikTvd": "4214013185298",
+    "uikName": "УИК №1329",
     "tikTvd": "22120001076036",
-    "tikName": "Новочебоксарская городская"
+    "tikName": "Новочебоксарская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1330,
     "uikTvd": "4214013185299",
+    "uikName": "УИК №1330",
     "tikTvd": "22120001076036",
-    "tikName": "Новочебоксарская городская"
+    "tikName": "Новочебоксарская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1331,
     "uikTvd": "4214013185300",
+    "uikName": "УИК №1331",
     "tikTvd": "22120001076036",
-    "tikName": "Новочебоксарская городская"
+    "tikName": "Новочебоксарская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1332,
     "uikTvd": "4214013185301",
+    "uikName": "УИК №1332",
     "tikTvd": "22120001076036",
-    "tikName": "Новочебоксарская городская"
+    "tikName": "Новочебоксарская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1333,
     "uikTvd": "4214013185302",
+    "uikName": "УИК №1333",
     "tikTvd": "22120001076036",
-    "tikName": "Новочебоксарская городская"
+    "tikName": "Новочебоксарская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1334,
     "uikTvd": "4214013185303",
+    "uikName": "УИК №1334",
     "tikTvd": "22120001076036",
-    "tikName": "Новочебоксарская городская"
+    "tikName": "Новочебоксарская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1335,
     "uikTvd": "4214013185304",
+    "uikName": "УИК №1335",
     "tikTvd": "22120001076036",
-    "tikName": "Новочебоксарская городская"
+    "tikName": "Новочебоксарская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1336,
     "uikTvd": "4214013185305",
+    "uikName": "УИК №1336",
     "tikTvd": "22120001076036",
-    "tikName": "Новочебоксарская городская"
+    "tikName": "Новочебоксарская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1337,
     "uikTvd": "4214013185306",
+    "uikName": "УИК №1337",
     "tikTvd": "22120001076036",
-    "tikName": "Новочебоксарская городская"
+    "tikName": "Новочебоксарская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1338,
     "uikTvd": "4214013185307",
+    "uikName": "УИК №1338",
     "tikTvd": "22120001076036",
-    "tikName": "Новочебоксарская городская"
+    "tikName": "Новочебоксарская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1339,
     "uikTvd": "4214013185308",
+    "uikName": "УИК №1339",
     "tikTvd": "22120001076036",
-    "tikName": "Новочебоксарская городская"
+    "tikName": "Новочебоксарская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1340,
     "uikTvd": "4214013185309",
+    "uikName": "УИК №1340",
     "tikTvd": "22120001076036",
-    "tikName": "Новочебоксарская городская"
+    "tikName": "Новочебоксарская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1341,
     "uikTvd": "4214013185310",
+    "uikName": "УИК №1341",
     "tikTvd": "22120001076036",
-    "tikName": "Новочебоксарская городская"
+    "tikName": "Новочебоксарская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1342,
     "uikTvd": "4214013185311",
+    "uikName": "УИК №1342",
     "tikTvd": "22120001076036",
-    "tikName": "Новочебоксарская городская"
+    "tikName": "Новочебоксарская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1343,
     "uikTvd": "4214013185312",
+    "uikName": "УИК №1343",
     "tikTvd": "22120001076036",
-    "tikName": "Новочебоксарская городская"
+    "tikName": "Новочебоксарская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1344,
     "uikTvd": "4214013185313",
+    "uikName": "УИК №1344",
     "tikTvd": "22120001076036",
-    "tikName": "Новочебоксарская городская"
+    "tikName": "Новочебоксарская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1345,
     "uikTvd": "4214013185314",
+    "uikName": "УИК №1345",
     "tikTvd": "22120001076036",
-    "tikName": "Новочебоксарская городская"
+    "tikName": "Новочебоксарская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1346,
     "uikTvd": "4214013185315",
+    "uikName": "УИК №1346",
     "tikTvd": "22120001076036",
-    "tikName": "Новочебоксарская городская"
+    "tikName": "Новочебоксарская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1347,
     "uikTvd": "4214013185316",
+    "uikName": "УИК №1347",
     "tikTvd": "22120001076036",
-    "tikName": "Новочебоксарская городская"
+    "tikName": "Новочебоксарская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1348,
     "uikTvd": "4214013185317",
+    "uikName": "УИК №1348",
     "tikTvd": "22120001076036",
-    "tikName": "Новочебоксарская городская"
+    "tikName": "Новочебоксарская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1349,
     "uikTvd": "4214013185318",
+    "uikName": "УИК №1349",
     "tikTvd": "22120001076036",
-    "tikName": "Новочебоксарская городская"
+    "tikName": "Новочебоксарская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1350,
     "uikTvd": "4214013185319",
+    "uikName": "УИК №1350",
     "tikTvd": "22120001076036",
-    "tikName": "Новочебоксарская городская"
+    "tikName": "Новочебоксарская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1351,
     "uikTvd": "4214013185320",
+    "uikName": "УИК №1351",
     "tikTvd": "22120001076036",
-    "tikName": "Новочебоксарская городская"
+    "tikName": "Новочебоксарская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1352,
     "uikTvd": "4214013185321",
+    "uikName": "УИК №1352",
     "tikTvd": "22120001076036",
-    "tikName": "Новочебоксарская городская"
+    "tikName": "Новочебоксарская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1401,
     "uikTvd": "4214014186272",
+    "uikName": "УИК №1401",
     "tikTvd": "22120001076048",
-    "tikName": "Порецкая"
+    "tikName": "Порецкая",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1402,
     "uikTvd": "4214014186273",
+    "uikName": "УИК №1402",
     "tikTvd": "22120001076048",
-    "tikName": "Порецкая"
+    "tikName": "Порецкая",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1403,
     "uikTvd": "4214014186274",
+    "uikName": "УИК №1403",
     "tikTvd": "22120001076048",
-    "tikName": "Порецкая"
+    "tikName": "Порецкая",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1404,
     "uikTvd": "4214014186275",
+    "uikName": "УИК №1404",
     "tikTvd": "22120001076048",
-    "tikName": "Порецкая"
+    "tikName": "Порецкая",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1405,
     "uikTvd": "4214014186276",
+    "uikName": "УИК №1405",
     "tikTvd": "22120001076048",
-    "tikName": "Порецкая"
+    "tikName": "Порецкая",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1406,
     "uikTvd": "4214014186277",
+    "uikName": "УИК №1406",
     "tikTvd": "22120001076048",
-    "tikName": "Порецкая"
+    "tikName": "Порецкая",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1407,
     "uikTvd": "4214014186278",
+    "uikName": "УИК №1407",
     "tikTvd": "22120001076048",
-    "tikName": "Порецкая"
+    "tikName": "Порецкая",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1408,
     "uikTvd": "4214014186279",
+    "uikName": "УИК №1408",
     "tikTvd": "22120001076048",
-    "tikName": "Порецкая"
+    "tikName": "Порецкая",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1409,
     "uikTvd": "4214014186280",
+    "uikName": "УИК №1409",
     "tikTvd": "22120001076048",
-    "tikName": "Порецкая"
+    "tikName": "Порецкая",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1410,
     "uikTvd": "4214014186281",
+    "uikName": "УИК №1410",
     "tikTvd": "22120001076048",
-    "tikName": "Порецкая"
+    "tikName": "Порецкая",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1411,
     "uikTvd": "4214014186282",
+    "uikName": "УИК №1411",
     "tikTvd": "22120001076048",
-    "tikName": "Порецкая"
+    "tikName": "Порецкая",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1412,
     "uikTvd": "4214014186283",
+    "uikName": "УИК №1412",
     "tikTvd": "22120001076048",
-    "tikName": "Порецкая"
+    "tikName": "Порецкая",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1413,
     "uikTvd": "4214014186284",
+    "uikName": "УИК №1413",
     "tikTvd": "22120001076048",
-    "tikName": "Порецкая"
+    "tikName": "Порецкая",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1414,
     "uikTvd": "4214014186285",
+    "uikName": "УИК №1414",
     "tikTvd": "22120001076048",
-    "tikName": "Порецкая"
+    "tikName": "Порецкая",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1415,
     "uikTvd": "4214014186286",
+    "uikName": "УИК №1415",
     "tikTvd": "22120001076048",
-    "tikName": "Порецкая"
+    "tikName": "Порецкая",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1416,
     "uikTvd": "4214014186287",
+    "uikName": "УИК №1416",
     "tikTvd": "22120001076048",
-    "tikName": "Порецкая"
+    "tikName": "Порецкая",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1417,
     "uikTvd": "4214014186288",
+    "uikName": "УИК №1417",
     "tikTvd": "22120001076048",
-    "tikName": "Порецкая"
+    "tikName": "Порецкая",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1418,
     "uikTvd": "4214014186289",
+    "uikName": "УИК №1418",
     "tikTvd": "22120001076048",
-    "tikName": "Порецкая"
+    "tikName": "Порецкая",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1419,
     "uikTvd": "4214014186290",
+    "uikName": "УИК №1419",
     "tikTvd": "22120001076048",
-    "tikName": "Порецкая"
+    "tikName": "Порецкая",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1501,
     "uikTvd": "4214015243779",
+    "uikName": "УИК №1501",
     "tikTvd": "22120001076035",
-    "tikName": "Урмарская"
+    "tikName": "Урмарская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1502,
     "uikTvd": "4214015243781",
+    "uikName": "УИК №1502",
     "tikTvd": "22120001076035",
-    "tikName": "Урмарская"
+    "tikName": "Урмарская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1503,
     "uikTvd": "4214015243782",
+    "uikName": "УИК №1503",
     "tikTvd": "22120001076035",
-    "tikName": "Урмарская"
+    "tikName": "Урмарская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1504,
     "uikTvd": "4214015243783",
+    "uikName": "УИК №1504",
     "tikTvd": "22120001076035",
-    "tikName": "Урмарская"
+    "tikName": "Урмарская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1505,
     "uikTvd": "4214015243784",
+    "uikName": "УИК №1505",
     "tikTvd": "22120001076035",
-    "tikName": "Урмарская"
+    "tikName": "Урмарская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1506,
     "uikTvd": "4214015243785",
+    "uikName": "УИК №1506",
     "tikTvd": "22120001076035",
-    "tikName": "Урмарская"
+    "tikName": "Урмарская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1507,
     "uikTvd": "4214015243786",
+    "uikName": "УИК №1507",
     "tikTvd": "22120001076035",
-    "tikName": "Урмарская"
+    "tikName": "Урмарская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1508,
     "uikTvd": "4214015243787",
+    "uikName": "УИК №1508",
     "tikTvd": "22120001076035",
-    "tikName": "Урмарская"
+    "tikName": "Урмарская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1509,
     "uikTvd": "4214015243788",
+    "uikName": "УИК №1509",
     "tikTvd": "22120001076035",
-    "tikName": "Урмарская"
+    "tikName": "Урмарская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1510,
     "uikTvd": "4214015243789",
+    "uikName": "УИК №1510",
     "tikTvd": "22120001076035",
-    "tikName": "Урмарская"
+    "tikName": "Урмарская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1511,
     "uikTvd": "4214015243790",
+    "uikName": "УИК №1511",
     "tikTvd": "22120001076035",
-    "tikName": "Урмарская"
+    "tikName": "Урмарская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1512,
     "uikTvd": "4214015243791",
+    "uikName": "УИК №1512",
     "tikTvd": "22120001076035",
-    "tikName": "Урмарская"
+    "tikName": "Урмарская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1513,
     "uikTvd": "4214015243792",
+    "uikName": "УИК №1513",
     "tikTvd": "22120001076035",
-    "tikName": "Урмарская"
+    "tikName": "Урмарская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1514,
     "uikTvd": "4214015243793",
+    "uikName": "УИК №1514",
     "tikTvd": "22120001076035",
-    "tikName": "Урмарская"
+    "tikName": "Урмарская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1515,
     "uikTvd": "4214015243794",
+    "uikName": "УИК №1515",
     "tikTvd": "22120001076035",
-    "tikName": "Урмарская"
+    "tikName": "Урмарская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1516,
     "uikTvd": "4214015243795",
+    "uikName": "УИК №1516",
     "tikTvd": "22120001076035",
-    "tikName": "Урмарская"
+    "tikName": "Урмарская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1517,
     "uikTvd": "4214015243796",
+    "uikName": "УИК №1517",
     "tikTvd": "22120001076035",
-    "tikName": "Урмарская"
+    "tikName": "Урмарская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1518,
     "uikTvd": "4214015243797",
+    "uikName": "УИК №1518",
     "tikTvd": "22120001076035",
-    "tikName": "Урмарская"
+    "tikName": "Урмарская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1519,
     "uikTvd": "4214015243798",
+    "uikName": "УИК №1519",
     "tikTvd": "22120001076035",
-    "tikName": "Урмарская"
+    "tikName": "Урмарская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1520,
     "uikTvd": "4214015243799",
+    "uikName": "УИК №1520",
     "tikTvd": "22120001076035",
-    "tikName": "Урмарская"
+    "tikName": "Урмарская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1521,
     "uikTvd": "4214015243800",
+    "uikName": "УИК №1521",
     "tikTvd": "22120001076035",
-    "tikName": "Урмарская"
+    "tikName": "Урмарская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1522,
     "uikTvd": "4214015243801",
+    "uikName": "УИК №1522",
     "tikTvd": "22120001076035",
-    "tikName": "Урмарская"
+    "tikName": "Урмарская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1523,
     "uikTvd": "4214015243802",
+    "uikName": "УИК №1523",
     "tikTvd": "22120001076035",
-    "tikName": "Урмарская"
+    "tikName": "Урмарская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1524,
     "uikTvd": "4214015243803",
+    "uikName": "УИК №1524",
     "tikTvd": "22120001076035",
-    "tikName": "Урмарская"
+    "tikName": "Урмарская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1525,
     "uikTvd": "4214015243804",
+    "uikName": "УИК №1525",
     "tikTvd": "22120001076035",
-    "tikName": "Урмарская"
+    "tikName": "Урмарская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1526,
     "uikTvd": "4214015243805",
+    "uikName": "УИК №1526",
     "tikTvd": "22120001076035",
-    "tikName": "Урмарская"
+    "tikName": "Урмарская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1527,
     "uikTvd": "4214015243806",
+    "uikName": "УИК №1527",
     "tikTvd": "22120001076035",
-    "tikName": "Урмарская"
+    "tikName": "Урмарская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1528,
     "uikTvd": "4214015243807",
+    "uikName": "УИК №1528",
     "tikTvd": "22120001076035",
-    "tikName": "Урмарская"
+    "tikName": "Урмарская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1529,
     "uikTvd": "4214015243808",
+    "uikName": "УИК №1529",
     "tikTvd": "22120001076035",
-    "tikName": "Урмарская"
+    "tikName": "Урмарская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1530,
     "uikTvd": "4214015243809",
+    "uikName": "УИК №1530",
     "tikTvd": "22120001076035",
-    "tikName": "Урмарская"
+    "tikName": "Урмарская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1531,
     "uikTvd": "4214015243810",
+    "uikName": "УИК №1531",
     "tikTvd": "22120001076035",
-    "tikName": "Урмарская"
+    "tikName": "Урмарская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1532,
     "uikTvd": "4214015243811",
+    "uikName": "УИК №1532",
     "tikTvd": "22120001076035",
-    "tikName": "Урмарская"
+    "tikName": "Урмарская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1533,
     "uikTvd": "4214015243812",
+    "uikName": "УИК №1533",
     "tikTvd": "22120001076035",
-    "tikName": "Урмарская"
+    "tikName": "Урмарская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1534,
     "uikTvd": "4214015243813",
+    "uikName": "УИК №1534",
     "tikTvd": "22120001076035",
-    "tikName": "Урмарская"
+    "tikName": "Урмарская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1535,
     "uikTvd": "4214015243814",
+    "uikName": "УИК №1535",
     "tikTvd": "22120001076035",
-    "tikName": "Урмарская"
+    "tikName": "Урмарская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1536,
     "uikTvd": "4214015243815",
+    "uikName": "УИК №1536",
     "tikTvd": "22120001076035",
-    "tikName": "Урмарская"
+    "tikName": "Урмарская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1537,
     "uikTvd": "4214015243816",
+    "uikName": "УИК №1537",
     "tikTvd": "22120001076035",
-    "tikName": "Урмарская"
+    "tikName": "Урмарская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1538,
     "uikTvd": "4214015243817",
+    "uikName": "УИК №1538",
     "tikTvd": "22120001076035",
-    "tikName": "Урмарская"
+    "tikName": "Урмарская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1539,
     "uikTvd": "4214015243818",
+    "uikName": "УИК №1539",
     "tikTvd": "22120001076035",
-    "tikName": "Урмарская"
+    "tikName": "Урмарская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1540,
     "uikTvd": "4214015243819",
+    "uikName": "УИК №1540",
     "tikTvd": "22120001076035",
-    "tikName": "Урмарская"
+    "tikName": "Урмарская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1601,
     "uikTvd": "4214016279309",
+    "uikName": "УИК №1601",
     "tikTvd": "22120001076034",
-    "tikName": "Цивильская"
+    "tikName": "Цивильская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1602,
     "uikTvd": "4214016279310",
+    "uikName": "УИК №1602",
     "tikTvd": "22120001076034",
-    "tikName": "Цивильская"
+    "tikName": "Цивильская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1603,
     "uikTvd": "4214016279311",
+    "uikName": "УИК №1603",
     "tikTvd": "22120001076034",
-    "tikName": "Цивильская"
+    "tikName": "Цивильская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1604,
     "uikTvd": "4214016279312",
+    "uikName": "УИК №1604",
     "tikTvd": "22120001076034",
-    "tikName": "Цивильская"
+    "tikName": "Цивильская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1605,
     "uikTvd": "4214016279313",
+    "uikName": "УИК №1605",
     "tikTvd": "22120001076034",
-    "tikName": "Цивильская"
+    "tikName": "Цивильская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1606,
     "uikTvd": "4214016279314",
+    "uikName": "УИК №1606",
     "tikTvd": "22120001076034",
-    "tikName": "Цивильская"
+    "tikName": "Цивильская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1607,
     "uikTvd": "4214016279315",
+    "uikName": "УИК №1607",
     "tikTvd": "22120001076034",
-    "tikName": "Цивильская"
+    "tikName": "Цивильская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1608,
     "uikTvd": "4214016279316",
+    "uikName": "УИК №1608",
     "tikTvd": "22120001076034",
-    "tikName": "Цивильская"
+    "tikName": "Цивильская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1609,
     "uikTvd": "4214016279317",
+    "uikName": "УИК №1609",
     "tikTvd": "22120001076034",
-    "tikName": "Цивильская"
+    "tikName": "Цивильская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1610,
     "uikTvd": "4214016279318",
+    "uikName": "УИК №1610",
     "tikTvd": "22120001076034",
-    "tikName": "Цивильская"
+    "tikName": "Цивильская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1611,
     "uikTvd": "4214016279319",
+    "uikName": "УИК №1611",
     "tikTvd": "22120001076034",
-    "tikName": "Цивильская"
+    "tikName": "Цивильская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1612,
     "uikTvd": "4214016279320",
+    "uikName": "УИК №1612",
     "tikTvd": "22120001076034",
-    "tikName": "Цивильская"
+    "tikName": "Цивильская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1613,
     "uikTvd": "4214016279321",
+    "uikName": "УИК №1613",
     "tikTvd": "22120001076034",
-    "tikName": "Цивильская"
+    "tikName": "Цивильская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1614,
     "uikTvd": "4214016279322",
+    "uikName": "УИК №1614",
     "tikTvd": "22120001076034",
-    "tikName": "Цивильская"
+    "tikName": "Цивильская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1615,
     "uikTvd": "4214016279323",
+    "uikName": "УИК №1615",
     "tikTvd": "22120001076034",
-    "tikName": "Цивильская"
+    "tikName": "Цивильская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1616,
     "uikTvd": "4214016279324",
+    "uikName": "УИК №1616",
     "tikTvd": "22120001076034",
-    "tikName": "Цивильская"
+    "tikName": "Цивильская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1617,
     "uikTvd": "4214016279325",
+    "uikName": "УИК №1617",
     "tikTvd": "22120001076034",
-    "tikName": "Цивильская"
+    "tikName": "Цивильская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1618,
     "uikTvd": "4214016279326",
+    "uikName": "УИК №1618",
     "tikTvd": "22120001076034",
-    "tikName": "Цивильская"
+    "tikName": "Цивильская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1619,
     "uikTvd": "4214016279327",
+    "uikName": "УИК №1619",
     "tikTvd": "22120001076034",
-    "tikName": "Цивильская"
+    "tikName": "Цивильская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1620,
     "uikTvd": "4214016279328",
+    "uikName": "УИК №1620",
     "tikTvd": "22120001076034",
-    "tikName": "Цивильская"
+    "tikName": "Цивильская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1621,
     "uikTvd": "4214016279329",
+    "uikName": "УИК №1621",
     "tikTvd": "22120001076034",
-    "tikName": "Цивильская"
+    "tikName": "Цивильская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1622,
     "uikTvd": "4214016279330",
+    "uikName": "УИК №1622",
     "tikTvd": "22120001076034",
-    "tikName": "Цивильская"
+    "tikName": "Цивильская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1623,
     "uikTvd": "4214016279331",
+    "uikName": "УИК №1623",
     "tikTvd": "22120001076034",
-    "tikName": "Цивильская"
+    "tikName": "Цивильская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1624,
     "uikTvd": "4214016279332",
+    "uikName": "УИК №1624",
     "tikTvd": "22120001076034",
-    "tikName": "Цивильская"
+    "tikName": "Цивильская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1625,
     "uikTvd": "4214016279333",
+    "uikName": "УИК №1625",
     "tikTvd": "22120001076034",
-    "tikName": "Цивильская"
+    "tikName": "Цивильская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1626,
     "uikTvd": "4214016279334",
+    "uikName": "УИК №1626",
     "tikTvd": "22120001076034",
-    "tikName": "Цивильская"
+    "tikName": "Цивильская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1627,
     "uikTvd": "4214016279335",
+    "uikName": "УИК №1627",
     "tikTvd": "22120001076034",
-    "tikName": "Цивильская"
+    "tikName": "Цивильская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1628,
     "uikTvd": "4214016279336",
+    "uikName": "УИК №1628",
     "tikTvd": "22120001076034",
-    "tikName": "Цивильская"
+    "tikName": "Цивильская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1629,
     "uikTvd": "4214016279337",
+    "uikName": "УИК №1629",
     "tikTvd": "22120001076034",
-    "tikName": "Цивильская"
+    "tikName": "Цивильская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1630,
     "uikTvd": "4214016279338",
+    "uikName": "УИК №1630",
     "tikTvd": "22120001076034",
-    "tikName": "Цивильская"
+    "tikName": "Цивильская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1631,
     "uikTvd": "4214016279339",
+    "uikName": "УИК №1631",
     "tikTvd": "22120001076034",
-    "tikName": "Цивильская"
+    "tikName": "Цивильская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1632,
     "uikTvd": "4214016279340",
+    "uikName": "УИК №1632",
     "tikTvd": "22120001076034",
-    "tikName": "Цивильская"
+    "tikName": "Цивильская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1633,
     "uikTvd": "4214016279341",
+    "uikName": "УИК №1633",
     "tikTvd": "22120001076034",
-    "tikName": "Цивильская"
+    "tikName": "Цивильская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1634,
     "uikTvd": "4214016279342",
+    "uikName": "УИК №1634",
     "tikTvd": "22120001076034",
-    "tikName": "Цивильская"
+    "tikName": "Цивильская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1635,
     "uikTvd": "4214016279343",
+    "uikName": "УИК №1635",
     "tikTvd": "22120001076034",
-    "tikName": "Цивильская"
+    "tikName": "Цивильская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1636,
     "uikTvd": "4214016279344",
+    "uikName": "УИК №1636",
     "tikTvd": "22120001076034",
-    "tikName": "Цивильская"
+    "tikName": "Цивильская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1637,
     "uikTvd": "4214016279345",
+    "uikName": "УИК №1637",
     "tikTvd": "22120001076034",
-    "tikName": "Цивильская"
+    "tikName": "Цивильская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1638,
     "uikTvd": "4214016279346",
+    "uikName": "УИК №1638",
     "tikTvd": "22120001076034",
-    "tikName": "Цивильская"
+    "tikName": "Цивильская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1639,
     "uikTvd": "4214016279347",
+    "uikName": "УИК №1639",
     "tikTvd": "22120001076034",
-    "tikName": "Цивильская"
+    "tikName": "Цивильская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1640,
     "uikTvd": "4214016279348",
+    "uikName": "УИК №1640",
     "tikTvd": "22120001076034",
-    "tikName": "Цивильская"
+    "tikName": "Цивильская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1641,
     "uikTvd": "4214016279349",
+    "uikName": "УИК №1641",
     "tikTvd": "22120001076034",
-    "tikName": "Цивильская"
+    "tikName": "Цивильская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1642,
     "uikTvd": "4214016279350",
+    "uikName": "УИК №1642",
     "tikTvd": "22120001076034",
-    "tikName": "Цивильская"
+    "tikName": "Цивильская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1643,
     "uikTvd": "4214016279351",
+    "uikName": "УИК №1643",
     "tikTvd": "22120001076034",
-    "tikName": "Цивильская"
+    "tikName": "Цивильская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1644,
     "uikTvd": "4214016279352",
+    "uikName": "УИК №1644",
     "tikTvd": "22120001076034",
-    "tikName": "Цивильская"
+    "tikName": "Цивильская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1645,
     "uikTvd": "4214016279353",
+    "uikName": "УИК №1645",
     "tikTvd": "22120001076034",
-    "tikName": "Цивильская"
+    "tikName": "Цивильская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1646,
     "uikTvd": "4214016279354",
+    "uikName": "УИК №1646",
     "tikTvd": "22120001076034",
-    "tikName": "Цивильская"
+    "tikName": "Цивильская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1647,
     "uikTvd": "4214016279355",
+    "uikName": "УИК №1647",
     "tikTvd": "22120001076034",
-    "tikName": "Цивильская"
+    "tikName": "Цивильская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1648,
     "uikTvd": "4214016279356",
+    "uikName": "УИК №1648",
     "tikTvd": "22120001076034",
-    "tikName": "Цивильская"
+    "tikName": "Цивильская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1649,
     "uikTvd": "4214016279357",
+    "uikName": "УИК №1649",
     "tikTvd": "22120001076034",
-    "tikName": "Цивильская"
+    "tikName": "Цивильская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1650,
     "uikTvd": "4214016279358",
+    "uikName": "УИК №1650",
     "tikTvd": "22120001076034",
-    "tikName": "Цивильская"
+    "tikName": "Цивильская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1651,
     "uikTvd": "4214016279359",
+    "uikName": "УИК №1651",
     "tikTvd": "22120001076034",
-    "tikName": "Цивильская"
+    "tikName": "Цивильская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1652,
     "uikTvd": "4214016279360",
+    "uikName": "УИК №1652",
     "tikTvd": "22120001076034",
-    "tikName": "Цивильская"
+    "tikName": "Цивильская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1653,
     "uikTvd": "4214016279361",
+    "uikName": "УИК №1653",
     "tikTvd": "22120001076034",
-    "tikName": "Цивильская"
+    "tikName": "Цивильская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1654,
     "uikTvd": "4214016279362",
+    "uikName": "УИК №1654",
     "tikTvd": "22120001076034",
-    "tikName": "Цивильская"
+    "tikName": "Цивильская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1655,
     "uikTvd": "4214016285934",
+    "uikName": "УИК №1655",
     "tikTvd": "22120001076034",
-    "tikName": "Цивильская"
+    "tikName": "Цивильская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1701,
     "uikTvd": "4214017286011",
+    "uikName": "УИК №1701",
     "tikTvd": "22120001076064",
-    "tikName": "Чебоксарская-38"
+    "tikName": "Чебоксарская-38",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1702,
     "uikTvd": "4214017286012",
+    "uikName": "УИК №1702",
     "tikTvd": "22120001076064",
-    "tikName": "Чебоксарская-38"
+    "tikName": "Чебоксарская-38",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1703,
     "uikTvd": "4214017286013",
+    "uikName": "УИК №1703",
     "tikTvd": "22120001076064",
-    "tikName": "Чебоксарская-38"
+    "tikName": "Чебоксарская-38",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1704,
     "uikTvd": "4214017286014",
+    "uikName": "УИК №1704",
     "tikTvd": "22120001076064",
-    "tikName": "Чебоксарская-38"
+    "tikName": "Чебоксарская-38",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1705,
     "uikTvd": "4214017286015",
+    "uikName": "УИК №1705",
     "tikTvd": "22120001076064",
-    "tikName": "Чебоксарская-38"
+    "tikName": "Чебоксарская-38",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1706,
     "uikTvd": "4214017286016",
+    "uikName": "УИК №1706",
     "tikTvd": "22120001076064",
-    "tikName": "Чебоксарская-38"
+    "tikName": "Чебоксарская-38",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1707,
     "uikTvd": "4214017286017",
+    "uikName": "УИК №1707",
     "tikTvd": "22120001076064",
-    "tikName": "Чебоксарская-38"
+    "tikName": "Чебоксарская-38",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1708,
     "uikTvd": "4214017286018",
+    "uikName": "УИК №1708",
     "tikTvd": "22120001076064",
-    "tikName": "Чебоксарская-38"
+    "tikName": "Чебоксарская-38",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1709,
     "uikTvd": "4214017286019",
+    "uikName": "УИК №1709",
     "tikTvd": "22120001076064",
-    "tikName": "Чебоксарская-38"
+    "tikName": "Чебоксарская-38",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1710,
     "uikTvd": "4214017286020",
+    "uikName": "УИК №1710",
     "tikTvd": "22120001076064",
-    "tikName": "Чебоксарская-38"
+    "tikName": "Чебоксарская-38",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1711,
     "uikTvd": "4214017286021",
+    "uikName": "УИК №1711",
     "tikTvd": "22120001076064",
-    "tikName": "Чебоксарская-38"
+    "tikName": "Чебоксарская-38",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1712,
     "uikTvd": "4214017286022",
+    "uikName": "УИК №1712",
     "tikTvd": "22120001076064",
-    "tikName": "Чебоксарская-38"
+    "tikName": "Чебоксарская-38",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1713,
     "uikTvd": "4214017286023",
+    "uikName": "УИК №1713",
     "tikTvd": "22120001076064",
-    "tikName": "Чебоксарская-38"
+    "tikName": "Чебоксарская-38",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1714,
     "uikTvd": "4214017286024",
+    "uikName": "УИК №1714",
     "tikTvd": "22120001076064",
-    "tikName": "Чебоксарская-38"
+    "tikName": "Чебоксарская-38",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1715,
     "uikTvd": "4214017286025",
+    "uikName": "УИК №1715",
     "tikTvd": "22120001076064",
-    "tikName": "Чебоксарская-38"
+    "tikName": "Чебоксарская-38",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1716,
     "uikTvd": "4214017286026",
+    "uikName": "УИК №1716",
     "tikTvd": "22120001076064",
-    "tikName": "Чебоксарская-38"
+    "tikName": "Чебоксарская-38",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1717,
     "uikTvd": "4214017286027",
+    "uikName": "УИК №1717",
     "tikTvd": "22120001076064",
-    "tikName": "Чебоксарская-38"
+    "tikName": "Чебоксарская-38",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1718,
     "uikTvd": "4214017286028",
+    "uikName": "УИК №1718",
     "tikTvd": "22120001076064",
-    "tikName": "Чебоксарская-38"
+    "tikName": "Чебоксарская-38",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1719,
     "uikTvd": "4214017286029",
+    "uikName": "УИК №1719",
     "tikTvd": "22120001076064",
-    "tikName": "Чебоксарская-38"
+    "tikName": "Чебоксарская-38",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1720,
     "uikTvd": "4214017286030",
+    "uikName": "УИК №1720",
     "tikTvd": "22120001076064",
-    "tikName": "Чебоксарская-38"
+    "tikName": "Чебоксарская-38",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1721,
     "uikTvd": "4214017286031",
+    "uikName": "УИК №1721",
     "tikTvd": "22120001076064",
-    "tikName": "Чебоксарская-38"
+    "tikName": "Чебоксарская-38",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1722,
     "uikTvd": "4214017286032",
+    "uikName": "УИК №1722",
     "tikTvd": "22120001076064",
-    "tikName": "Чебоксарская-38"
+    "tikName": "Чебоксарская-38",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1723,
     "uikTvd": "4214017285955",
+    "uikName": "УИК №1723",
     "tikTvd": "22120001076063",
-    "tikName": "Чебоксарская-37"
+    "tikName": "Чебоксарская-37",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1724,
     "uikTvd": "4214017285959",
+    "uikName": "УИК №1724",
     "tikTvd": "22120001076063",
-    "tikName": "Чебоксарская-37"
+    "tikName": "Чебоксарская-37",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1725,
     "uikTvd": "4214017285961",
+    "uikName": "УИК №1725",
     "tikTvd": "22120001076063",
-    "tikName": "Чебоксарская-37"
+    "tikName": "Чебоксарская-37",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1726,
     "uikTvd": "4214017285963",
+    "uikName": "УИК №1726",
     "tikTvd": "22120001076063",
-    "tikName": "Чебоксарская-37"
+    "tikName": "Чебоксарская-37",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1727,
     "uikTvd": "4214017285965",
+    "uikName": "УИК №1727",
     "tikTvd": "22120001076063",
-    "tikName": "Чебоксарская-37"
+    "tikName": "Чебоксарская-37",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1728,
     "uikTvd": "4214017285967",
+    "uikName": "УИК №1728",
     "tikTvd": "22120001076063",
-    "tikName": "Чебоксарская-37"
+    "tikName": "Чебоксарская-37",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1729,
     "uikTvd": "4214017286033",
+    "uikName": "УИК №1729",
     "tikTvd": "22120001076064",
-    "tikName": "Чебоксарская-38"
+    "tikName": "Чебоксарская-38",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1730,
     "uikTvd": "4214017286034",
+    "uikName": "УИК №1730",
     "tikTvd": "22120001076064",
-    "tikName": "Чебоксарская-38"
+    "tikName": "Чебоксарская-38",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1731,
     "uikTvd": "4214017286035",
+    "uikName": "УИК №1731",
     "tikTvd": "22120001076064",
-    "tikName": "Чебоксарская-38"
+    "tikName": "Чебоксарская-38",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1732,
     "uikTvd": "4214017286036",
+    "uikName": "УИК №1732",
     "tikTvd": "22120001076064",
-    "tikName": "Чебоксарская-38"
+    "tikName": "Чебоксарская-38",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1733,
     "uikTvd": "4214017286037",
+    "uikName": "УИК №1733",
     "tikTvd": "22120001076064",
-    "tikName": "Чебоксарская-38"
+    "tikName": "Чебоксарская-38",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1734,
     "uikTvd": "4214017286038",
+    "uikName": "УИК №1734",
     "tikTvd": "22120001076064",
-    "tikName": "Чебоксарская-38"
+    "tikName": "Чебоксарская-38",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1735,
     "uikTvd": "4214017286039",
+    "uikName": "УИК №1735",
     "tikTvd": "22120001076064",
-    "tikName": "Чебоксарская-38"
+    "tikName": "Чебоксарская-38",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1736,
     "uikTvd": "4214017285969",
+    "uikName": "УИК №1736",
     "tikTvd": "22120001076063",
-    "tikName": "Чебоксарская-37"
+    "tikName": "Чебоксарская-37",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1737,
     "uikTvd": "4214017285971",
+    "uikName": "УИК №1737",
     "tikTvd": "22120001076063",
-    "tikName": "Чебоксарская-37"
+    "tikName": "Чебоксарская-37",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1738,
     "uikTvd": "4214017285973",
+    "uikName": "УИК №1738",
     "tikTvd": "22120001076063",
-    "tikName": "Чебоксарская-37"
+    "tikName": "Чебоксарская-37",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1739,
     "uikTvd": "4214017285975",
+    "uikName": "УИК №1739",
     "tikTvd": "22120001076063",
-    "tikName": "Чебоксарская-37"
+    "tikName": "Чебоксарская-37",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1740,
     "uikTvd": "4214017285977",
+    "uikName": "УИК №1740",
     "tikTvd": "22120001076063",
-    "tikName": "Чебоксарская-37"
+    "tikName": "Чебоксарская-37",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1741,
     "uikTvd": "4214017285979",
+    "uikName": "УИК №1741",
     "tikTvd": "22120001076063",
-    "tikName": "Чебоксарская-37"
+    "tikName": "Чебоксарская-37",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1742,
     "uikTvd": "4214017285981",
+    "uikName": "УИК №1742",
     "tikTvd": "22120001076063",
-    "tikName": "Чебоксарская-37"
+    "tikName": "Чебоксарская-37",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1743,
     "uikTvd": "4214017285983",
+    "uikName": "УИК №1743",
     "tikTvd": "22120001076063",
-    "tikName": "Чебоксарская-37"
+    "tikName": "Чебоксарская-37",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1744,
     "uikTvd": "4214017285985",
+    "uikName": "УИК №1744",
     "tikTvd": "22120001076063",
-    "tikName": "Чебоксарская-37"
+    "tikName": "Чебоксарская-37",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1745,
     "uikTvd": "4214017285987",
+    "uikName": "УИК №1745",
     "tikTvd": "22120001076063",
-    "tikName": "Чебоксарская-37"
+    "tikName": "Чебоксарская-37",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1746,
     "uikTvd": "4214017285989",
+    "uikName": "УИК №1746",
     "tikTvd": "22120001076063",
-    "tikName": "Чебоксарская-37"
+    "tikName": "Чебоксарская-37",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1747,
     "uikTvd": "4214017285991",
+    "uikName": "УИК №1747",
     "tikTvd": "22120001076063",
-    "tikName": "Чебоксарская-37"
+    "tikName": "Чебоксарская-37",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1748,
     "uikTvd": "4214017285993",
+    "uikName": "УИК №1748",
     "tikTvd": "22120001076063",
-    "tikName": "Чебоксарская-37"
+    "tikName": "Чебоксарская-37",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1749,
     "uikTvd": "4214017285995",
+    "uikName": "УИК №1749",
     "tikTvd": "22120001076063",
-    "tikName": "Чебоксарская-37"
+    "tikName": "Чебоксарская-37",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1750,
     "uikTvd": "4214017285997",
+    "uikName": "УИК №1750",
     "tikTvd": "22120001076063",
-    "tikName": "Чебоксарская-37"
+    "tikName": "Чебоксарская-37",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1751,
     "uikTvd": "4214017285999",
+    "uikName": "УИК №1751",
     "tikTvd": "22120001076063",
-    "tikName": "Чебоксарская-37"
+    "tikName": "Чебоксарская-37",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1752,
     "uikTvd": "4214017286040",
+    "uikName": "УИК №1752",
     "tikTvd": "22120001076064",
-    "tikName": "Чебоксарская-38"
+    "tikName": "Чебоксарская-38",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1753,
     "uikTvd": "4214017286041",
+    "uikName": "УИК №1753",
     "tikTvd": "22120001076064",
-    "tikName": "Чебоксарская-38"
+    "tikName": "Чебоксарская-38",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1754,
     "uikTvd": "4214017286042",
+    "uikName": "УИК №1754",
     "tikTvd": "22120001076064",
-    "tikName": "Чебоксарская-38"
+    "tikName": "Чебоксарская-38",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1755,
     "uikTvd": "4214017286043",
+    "uikName": "УИК №1755",
     "tikTvd": "22120001076064",
-    "tikName": "Чебоксарская-38"
+    "tikName": "Чебоксарская-38",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1756,
     "uikTvd": "4214017286001",
+    "uikName": "УИК №1756",
     "tikTvd": "22120001076063",
-    "tikName": "Чебоксарская-37"
+    "tikName": "Чебоксарская-37",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1757,
     "uikTvd": "4214017286003",
+    "uikName": "УИК №1757",
     "tikTvd": "22120001076063",
-    "tikName": "Чебоксарская-37"
+    "tikName": "Чебоксарская-37",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1758,
     "uikTvd": "4214017286005",
+    "uikName": "УИК №1758",
     "tikTvd": "22120001076063",
-    "tikName": "Чебоксарская-37"
+    "tikName": "Чебоксарская-37",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1759,
     "uikTvd": "4214017286007",
+    "uikName": "УИК №1759",
     "tikTvd": "22120001076063",
-    "tikName": "Чебоксарская-37"
+    "tikName": "Чебоксарская-37",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1760,
     "uikTvd": "4214017286009",
+    "uikName": "УИК №1760",
     "tikTvd": "22120001076063",
-    "tikName": "Чебоксарская-37"
+    "tikName": "Чебоксарская-37",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1801,
     "uikTvd": "4214018164619",
+    "uikName": "УИК №1801",
     "tikTvd": "22120001076029",
-    "tikName": "Чебоксары, Калининская"
+    "tikName": "Чебоксары, Калининская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1802,
     "uikTvd": "4214018164622",
+    "uikName": "УИК №1802",
     "tikTvd": "22120001076029",
-    "tikName": "Чебоксары, Калининская"
+    "tikName": "Чебоксары, Калининская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1803,
     "uikTvd": "4214018164623",
+    "uikName": "УИК №1803",
     "tikTvd": "22120001076029",
-    "tikName": "Чебоксары, Калининская"
+    "tikName": "Чебоксары, Калининская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1804,
     "uikTvd": "4214018164624",
+    "uikName": "УИК №1804",
     "tikTvd": "22120001076029",
-    "tikName": "Чебоксары, Калининская"
+    "tikName": "Чебоксары, Калининская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1805,
     "uikTvd": "4214018164625",
+    "uikName": "УИК №1805",
     "tikTvd": "22120001076029",
-    "tikName": "Чебоксары, Калининская"
+    "tikName": "Чебоксары, Калининская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1806,
     "uikTvd": "4214018164626",
+    "uikName": "УИК №1806",
     "tikTvd": "22120001076029",
-    "tikName": "Чебоксары, Калининская"
+    "tikName": "Чебоксары, Калининская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1807,
     "uikTvd": "4214018164627",
+    "uikName": "УИК №1807",
     "tikTvd": "22120001076029",
-    "tikName": "Чебоксары, Калининская"
+    "tikName": "Чебоксары, Калининская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1808,
     "uikTvd": "4214018164628",
+    "uikName": "УИК №1808",
     "tikTvd": "22120001076029",
-    "tikName": "Чебоксары, Калининская"
+    "tikName": "Чебоксары, Калининская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1809,
     "uikTvd": "4214018164629",
+    "uikName": "УИК №1809",
     "tikTvd": "22120001076029",
-    "tikName": "Чебоксары, Калининская"
+    "tikName": "Чебоксары, Калининская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1810,
     "uikTvd": "4214018164630",
+    "uikName": "УИК №1810",
     "tikTvd": "22120001076029",
-    "tikName": "Чебоксары, Калининская"
+    "tikName": "Чебоксары, Калининская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1811,
     "uikTvd": "4214018164631",
+    "uikName": "УИК №1811",
     "tikTvd": "22120001076029",
-    "tikName": "Чебоксары, Калининская"
+    "tikName": "Чебоксары, Калининская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1812,
     "uikTvd": "4214018164632",
+    "uikName": "УИК №1812",
     "tikTvd": "22120001076029",
-    "tikName": "Чебоксары, Калининская"
+    "tikName": "Чебоксары, Калининская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1813,
     "uikTvd": "4214018164633",
+    "uikName": "УИК №1813",
     "tikTvd": "22120001076029",
-    "tikName": "Чебоксары, Калининская"
+    "tikName": "Чебоксары, Калининская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1814,
     "uikTvd": "4214018164634",
+    "uikName": "УИК №1814",
     "tikTvd": "22120001076029",
-    "tikName": "Чебоксары, Калининская"
+    "tikName": "Чебоксары, Калининская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1815,
     "uikTvd": "4214018164635",
+    "uikName": "УИК №1815",
     "tikTvd": "22120001076029",
-    "tikName": "Чебоксары, Калининская"
+    "tikName": "Чебоксары, Калининская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1816,
     "uikTvd": "4214018164636",
+    "uikName": "УИК №1816",
     "tikTvd": "22120001076029",
-    "tikName": "Чебоксары, Калининская"
+    "tikName": "Чебоксары, Калининская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1817,
     "uikTvd": "4214018164637",
+    "uikName": "УИК №1817",
     "tikTvd": "22120001076029",
-    "tikName": "Чебоксары, Калининская"
+    "tikName": "Чебоксары, Калининская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1818,
     "uikTvd": "4214018164638",
+    "uikName": "УИК №1818",
     "tikTvd": "22120001076029",
-    "tikName": "Чебоксары, Калининская"
+    "tikName": "Чебоксары, Калининская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1819,
     "uikTvd": "4214018164639",
+    "uikName": "УИК №1819",
     "tikTvd": "22120001076029",
-    "tikName": "Чебоксары, Калининская"
+    "tikName": "Чебоксары, Калининская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1820,
     "uikTvd": "4214018164640",
+    "uikName": "УИК №1820",
     "tikTvd": "22120001076029",
-    "tikName": "Чебоксары, Калининская"
+    "tikName": "Чебоксары, Калининская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1821,
     "uikTvd": "4214018164641",
+    "uikName": "УИК №1821",
     "tikTvd": "22120001076029",
-    "tikName": "Чебоксары, Калининская"
+    "tikName": "Чебоксары, Калининская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1822,
     "uikTvd": "4214018164642",
+    "uikName": "УИК №1822",
     "tikTvd": "22120001076029",
-    "tikName": "Чебоксары, Калининская"
+    "tikName": "Чебоксары, Калининская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1823,
     "uikTvd": "4214018164643",
+    "uikName": "УИК №1823",
     "tikTvd": "22120001076029",
-    "tikName": "Чебоксары, Калининская"
+    "tikName": "Чебоксары, Калининская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1824,
     "uikTvd": "4214018164644",
+    "uikName": "УИК №1824",
     "tikTvd": "22120001076029",
-    "tikName": "Чебоксары, Калининская"
+    "tikName": "Чебоксары, Калининская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1825,
     "uikTvd": "4214018164645",
+    "uikName": "УИК №1825",
     "tikTvd": "22120001076029",
-    "tikName": "Чебоксары, Калининская"
+    "tikName": "Чебоксары, Калининская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1826,
     "uikTvd": "4214018164646",
+    "uikName": "УИК №1826",
     "tikTvd": "22120001076029",
-    "tikName": "Чебоксары, Калининская"
+    "tikName": "Чебоксары, Калининская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1827,
     "uikTvd": "4214018164647",
+    "uikName": "УИК №1827",
     "tikTvd": "22120001076029",
-    "tikName": "Чебоксары, Калининская"
+    "tikName": "Чебоксары, Калининская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1828,
     "uikTvd": "4214018164648",
+    "uikName": "УИК №1828",
     "tikTvd": "22120001076029",
-    "tikName": "Чебоксары, Калининская"
+    "tikName": "Чебоксары, Калининская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1829,
     "uikTvd": "4214018164649",
+    "uikName": "УИК №1829",
     "tikTvd": "22120001076029",
-    "tikName": "Чебоксары, Калининская"
+    "tikName": "Чебоксары, Калининская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1830,
     "uikTvd": "4214018164650",
+    "uikName": "УИК №1830",
     "tikTvd": "22120001076029",
-    "tikName": "Чебоксары, Калининская"
+    "tikName": "Чебоксары, Калининская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1831,
     "uikTvd": "4214018164651",
+    "uikName": "УИК №1831",
     "tikTvd": "22120001076029",
-    "tikName": "Чебоксары, Калининская"
+    "tikName": "Чебоксары, Калининская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1832,
     "uikTvd": "4214018164652",
+    "uikName": "УИК №1832",
     "tikTvd": "22120001076029",
-    "tikName": "Чебоксары, Калининская"
+    "tikName": "Чебоксары, Калининская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1833,
     "uikTvd": "4214018164653",
+    "uikName": "УИК №1833",
     "tikTvd": "22120001076029",
-    "tikName": "Чебоксары, Калининская"
+    "tikName": "Чебоксары, Калининская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1834,
     "uikTvd": "4214018164654",
+    "uikName": "УИК №1834",
     "tikTvd": "22120001076029",
-    "tikName": "Чебоксары, Калининская"
+    "tikName": "Чебоксары, Калининская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1835,
     "uikTvd": "4214018164655",
+    "uikName": "УИК №1835",
     "tikTvd": "22120001076029",
-    "tikName": "Чебоксары, Калининская"
+    "tikName": "Чебоксары, Калининская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1836,
     "uikTvd": "4214018164656",
+    "uikName": "УИК №1836",
     "tikTvd": "22120001076029",
-    "tikName": "Чебоксары, Калининская"
+    "tikName": "Чебоксары, Калининская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1837,
     "uikTvd": "4214018164657",
+    "uikName": "УИК №1837",
     "tikTvd": "22120001076029",
-    "tikName": "Чебоксары, Калининская"
+    "tikName": "Чебоксары, Калининская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1838,
     "uikTvd": "4214018164658",
+    "uikName": "УИК №1838",
     "tikTvd": "22120001076029",
-    "tikName": "Чебоксары, Калининская"
+    "tikName": "Чебоксары, Калининская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1839,
     "uikTvd": "4214018164659",
+    "uikName": "УИК №1839",
     "tikTvd": "22120001076029",
-    "tikName": "Чебоксары, Калининская"
+    "tikName": "Чебоксары, Калининская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1840,
     "uikTvd": "4214018164660",
+    "uikName": "УИК №1840",
     "tikTvd": "22120001076029",
-    "tikName": "Чебоксары, Калининская"
+    "tikName": "Чебоксары, Калининская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1841,
     "uikTvd": "4214018164661",
+    "uikName": "УИК №1841",
     "tikTvd": "22120001076029",
-    "tikName": "Чебоксары, Калининская"
+    "tikName": "Чебоксары, Калининская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1842,
     "uikTvd": "4214018164662",
+    "uikName": "УИК №1842",
     "tikTvd": "22120001076029",
-    "tikName": "Чебоксары, Калининская"
+    "tikName": "Чебоксары, Калининская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1843,
     "uikTvd": "4214018164663",
+    "uikName": "УИК №1843",
     "tikTvd": "22120001076029",
-    "tikName": "Чебоксары, Калининская"
+    "tikName": "Чебоксары, Калининская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1844,
     "uikTvd": "4214018164664",
+    "uikName": "УИК №1844",
     "tikTvd": "22120001076029",
-    "tikName": "Чебоксары, Калининская"
+    "tikName": "Чебоксары, Калининская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1845,
     "uikTvd": "4214018164665",
+    "uikName": "УИК №1845",
     "tikTvd": "22120001076029",
-    "tikName": "Чебоксары, Калининская"
+    "tikName": "Чебоксары, Калининская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1846,
     "uikTvd": "4214018164666",
+    "uikName": "УИК №1846",
     "tikTvd": "22120001076029",
-    "tikName": "Чебоксары, Калининская"
+    "tikName": "Чебоксары, Калининская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1847,
     "uikTvd": "4214018164667",
+    "uikName": "УИК №1847",
     "tikTvd": "22120001076029",
-    "tikName": "Чебоксары, Калининская"
+    "tikName": "Чебоксары, Калининская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1848,
     "uikTvd": "4214018164668",
+    "uikName": "УИК №1848",
     "tikTvd": "22120001076029",
-    "tikName": "Чебоксары, Калининская"
+    "tikName": "Чебоксары, Калининская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1849,
     "uikTvd": "4214018164669",
+    "uikName": "УИК №1849",
     "tikTvd": "22120001076029",
-    "tikName": "Чебоксары, Калининская"
+    "tikName": "Чебоксары, Калининская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1850,
     "uikTvd": "4214018164670",
+    "uikName": "УИК №1850",
     "tikTvd": "22120001076029",
-    "tikName": "Чебоксары, Калининская"
+    "tikName": "Чебоксары, Калининская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1851,
     "uikTvd": "4214018164671",
+    "uikName": "УИК №1851",
     "tikTvd": "22120001076029",
-    "tikName": "Чебоксары, Калининская"
+    "tikName": "Чебоксары, Калининская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1852,
     "uikTvd": "4214018164672",
+    "uikName": "УИК №1852",
     "tikTvd": "22120001076029",
-    "tikName": "Чебоксары, Калининская"
+    "tikName": "Чебоксары, Калининская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1853,
     "uikTvd": "4214018164673",
+    "uikName": "УИК №1853",
     "tikTvd": "22120001076029",
-    "tikName": "Чебоксары, Калининская"
+    "tikName": "Чебоксары, Калининская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1854,
     "uikTvd": "4214018164674",
+    "uikName": "УИК №1854",
     "tikTvd": "22120001076029",
-    "tikName": "Чебоксары, Калининская"
+    "tikName": "Чебоксары, Калининская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1855,
     "uikTvd": "4214018164675",
+    "uikName": "УИК №1855",
     "tikTvd": "22120001076029",
-    "tikName": "Чебоксары, Калининская"
+    "tikName": "Чебоксары, Калининская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1856,
     "uikTvd": "4214018164676",
+    "uikName": "УИК №1856",
     "tikTvd": "22120001076029",
-    "tikName": "Чебоксары, Калининская"
+    "tikName": "Чебоксары, Калининская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1857,
     "uikTvd": "4214018164677",
+    "uikName": "УИК №1857",
     "tikTvd": "22120001076029",
-    "tikName": "Чебоксары, Калининская"
+    "tikName": "Чебоксары, Калининская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1858,
     "uikTvd": "4214018164678",
+    "uikName": "УИК №1858",
     "tikTvd": "22120001076029",
-    "tikName": "Чебоксары, Калининская"
+    "tikName": "Чебоксары, Калининская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1859,
     "uikTvd": "4214018164679",
+    "uikName": "УИК №1859",
     "tikTvd": "22120001076029",
-    "tikName": "Чебоксары, Калининская"
+    "tikName": "Чебоксары, Калининская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1860,
     "uikTvd": "4214018164680",
+    "uikName": "УИК №1860",
     "tikTvd": "22120001076029",
-    "tikName": "Чебоксары, Калининская"
+    "tikName": "Чебоксары, Калининская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1861,
     "uikTvd": "4214018164681",
+    "uikName": "УИК №1861",
     "tikTvd": "22120001076029",
-    "tikName": "Чебоксары, Калининская"
+    "tikName": "Чебоксары, Калининская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1862,
     "uikTvd": "4214018168207",
+    "uikName": "УИК №1862",
     "tikTvd": "22120001076029",
-    "tikName": "Чебоксары, Калининская"
+    "tikName": "Чебоксары, Калининская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1863,
     "uikTvd": "4214018168208",
+    "uikName": "УИК №1863",
     "tikTvd": "22120001076029",
-    "tikName": "Чебоксары, Калининская"
+    "tikName": "Чебоксары, Калининская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 1901,
     "uikTvd": "4214019168474",
+    "uikName": "УИК №1901",
     "tikTvd": "22120001076047",
-    "tikName": "Чебоксары, Ленинская"
+    "tikName": "Чебоксары, Ленинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1902,
     "uikTvd": "4214019168475",
+    "uikName": "УИК №1902",
     "tikTvd": "22120001076047",
-    "tikName": "Чебоксары, Ленинская"
+    "tikName": "Чебоксары, Ленинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1903,
     "uikTvd": "4214019168476",
+    "uikName": "УИК №1903",
     "tikTvd": "22120001076047",
-    "tikName": "Чебоксары, Ленинская"
+    "tikName": "Чебоксары, Ленинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1904,
     "uikTvd": "4214019168477",
+    "uikName": "УИК №1904",
     "tikTvd": "22120001076047",
-    "tikName": "Чебоксары, Ленинская"
+    "tikName": "Чебоксары, Ленинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1905,
     "uikTvd": "4214019168478",
+    "uikName": "УИК №1905",
     "tikTvd": "22120001076047",
-    "tikName": "Чебоксары, Ленинская"
+    "tikName": "Чебоксары, Ленинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1906,
     "uikTvd": "4214019168479",
+    "uikName": "УИК №1906",
     "tikTvd": "22120001076047",
-    "tikName": "Чебоксары, Ленинская"
+    "tikName": "Чебоксары, Ленинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1907,
     "uikTvd": "4214019168480",
+    "uikName": "УИК №1907",
     "tikTvd": "22120001076047",
-    "tikName": "Чебоксары, Ленинская"
+    "tikName": "Чебоксары, Ленинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1908,
     "uikTvd": "4214019168481",
+    "uikName": "УИК №1908",
     "tikTvd": "22120001076047",
-    "tikName": "Чебоксары, Ленинская"
+    "tikName": "Чебоксары, Ленинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1909,
     "uikTvd": "4214019168482",
+    "uikName": "УИК №1909",
     "tikTvd": "22120001076047",
-    "tikName": "Чебоксары, Ленинская"
+    "tikName": "Чебоксары, Ленинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1910,
     "uikTvd": "4214019168483",
+    "uikName": "УИК №1910",
     "tikTvd": "22120001076047",
-    "tikName": "Чебоксары, Ленинская"
+    "tikName": "Чебоксары, Ленинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1911,
     "uikTvd": "4214019168484",
+    "uikName": "УИК №1911",
     "tikTvd": "22120001076047",
-    "tikName": "Чебоксары, Ленинская"
+    "tikName": "Чебоксары, Ленинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1912,
     "uikTvd": "4214019168485",
+    "uikName": "УИК №1912",
     "tikTvd": "22120001076047",
-    "tikName": "Чебоксары, Ленинская"
+    "tikName": "Чебоксары, Ленинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1913,
     "uikTvd": "4214019168486",
+    "uikName": "УИК №1913",
     "tikTvd": "22120001076047",
-    "tikName": "Чебоксары, Ленинская"
+    "tikName": "Чебоксары, Ленинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1914,
     "uikTvd": "4214019168487",
+    "uikName": "УИК №1914",
     "tikTvd": "22120001076047",
-    "tikName": "Чебоксары, Ленинская"
+    "tikName": "Чебоксары, Ленинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1915,
     "uikTvd": "4214019168488",
+    "uikName": "УИК №1915",
     "tikTvd": "22120001076047",
-    "tikName": "Чебоксары, Ленинская"
+    "tikName": "Чебоксары, Ленинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1916,
     "uikTvd": "4214019168489",
+    "uikName": "УИК №1916",
     "tikTvd": "22120001076047",
-    "tikName": "Чебоксары, Ленинская"
+    "tikName": "Чебоксары, Ленинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1917,
     "uikTvd": "4214019168490",
+    "uikName": "УИК №1917",
     "tikTvd": "22120001076047",
-    "tikName": "Чебоксары, Ленинская"
+    "tikName": "Чебоксары, Ленинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1918,
     "uikTvd": "4214019168491",
+    "uikName": "УИК №1918",
     "tikTvd": "22120001076047",
-    "tikName": "Чебоксары, Ленинская"
+    "tikName": "Чебоксары, Ленинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1919,
     "uikTvd": "4214019168492",
+    "uikName": "УИК №1919",
     "tikTvd": "22120001076047",
-    "tikName": "Чебоксары, Ленинская"
+    "tikName": "Чебоксары, Ленинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1920,
     "uikTvd": "4214019168493",
+    "uikName": "УИК №1920",
     "tikTvd": "22120001076047",
-    "tikName": "Чебоксары, Ленинская"
+    "tikName": "Чебоксары, Ленинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1921,
     "uikTvd": "4214019168494",
+    "uikName": "УИК №1921",
     "tikTvd": "22120001076047",
-    "tikName": "Чебоксары, Ленинская"
+    "tikName": "Чебоксары, Ленинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1922,
     "uikTvd": "4214019168495",
+    "uikName": "УИК №1922",
     "tikTvd": "22120001076047",
-    "tikName": "Чебоксары, Ленинская"
+    "tikName": "Чебоксары, Ленинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1923,
     "uikTvd": "4214019168496",
+    "uikName": "УИК №1923",
     "tikTvd": "22120001076047",
-    "tikName": "Чебоксары, Ленинская"
+    "tikName": "Чебоксары, Ленинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1924,
     "uikTvd": "4214019168497",
+    "uikName": "УИК №1924",
     "tikTvd": "22120001076047",
-    "tikName": "Чебоксары, Ленинская"
+    "tikName": "Чебоксары, Ленинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1925,
     "uikTvd": "4214019168498",
+    "uikName": "УИК №1925",
     "tikTvd": "22120001076047",
-    "tikName": "Чебоксары, Ленинская"
+    "tikName": "Чебоксары, Ленинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1926,
     "uikTvd": "4214019168499",
+    "uikName": "УИК №1926",
     "tikTvd": "22120001076047",
-    "tikName": "Чебоксары, Ленинская"
+    "tikName": "Чебоксары, Ленинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1927,
     "uikTvd": "4214019168500",
+    "uikName": "УИК №1927",
     "tikTvd": "22120001076047",
-    "tikName": "Чебоксары, Ленинская"
+    "tikName": "Чебоксары, Ленинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1928,
     "uikTvd": "4214019168501",
+    "uikName": "УИК №1928",
     "tikTvd": "22120001076047",
-    "tikName": "Чебоксары, Ленинская"
+    "tikName": "Чебоксары, Ленинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1929,
     "uikTvd": "4214019168502",
+    "uikName": "УИК №1929",
     "tikTvd": "22120001076047",
-    "tikName": "Чебоксары, Ленинская"
+    "tikName": "Чебоксары, Ленинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1930,
     "uikTvd": "4214019168503",
+    "uikName": "УИК №1930",
     "tikTvd": "22120001076047",
-    "tikName": "Чебоксары, Ленинская"
+    "tikName": "Чебоксары, Ленинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1931,
     "uikTvd": "4214019168504",
+    "uikName": "УИК №1931",
     "tikTvd": "22120001076047",
-    "tikName": "Чебоксары, Ленинская"
+    "tikName": "Чебоксары, Ленинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1932,
     "uikTvd": "4214019168505",
+    "uikName": "УИК №1932",
     "tikTvd": "22120001076047",
-    "tikName": "Чебоксары, Ленинская"
+    "tikName": "Чебоксары, Ленинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1933,
     "uikTvd": "4214019168506",
+    "uikName": "УИК №1933",
     "tikTvd": "22120001076047",
-    "tikName": "Чебоксары, Ленинская"
+    "tikName": "Чебоксары, Ленинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1934,
     "uikTvd": "4214019168507",
+    "uikName": "УИК №1934",
     "tikTvd": "22120001076047",
-    "tikName": "Чебоксары, Ленинская"
+    "tikName": "Чебоксары, Ленинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1935,
     "uikTvd": "4214019168508",
+    "uikName": "УИК №1935",
     "tikTvd": "22120001076047",
-    "tikName": "Чебоксары, Ленинская"
+    "tikName": "Чебоксары, Ленинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1936,
     "uikTvd": "4214019168509",
+    "uikName": "УИК №1936",
     "tikTvd": "22120001076047",
-    "tikName": "Чебоксары, Ленинская"
+    "tikName": "Чебоксары, Ленинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1937,
     "uikTvd": "4214019168510",
+    "uikName": "УИК №1937",
     "tikTvd": "22120001076047",
-    "tikName": "Чебоксары, Ленинская"
+    "tikName": "Чебоксары, Ленинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1938,
     "uikTvd": "4214019168511",
+    "uikName": "УИК №1938",
     "tikTvd": "22120001076047",
-    "tikName": "Чебоксары, Ленинская"
+    "tikName": "Чебоксары, Ленинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1939,
     "uikTvd": "4214019168512",
+    "uikName": "УИК №1939",
     "tikTvd": "22120001076047",
-    "tikName": "Чебоксары, Ленинская"
+    "tikName": "Чебоксары, Ленинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1940,
     "uikTvd": "4214019168513",
+    "uikName": "УИК №1940",
     "tikTvd": "22120001076047",
-    "tikName": "Чебоксары, Ленинская"
+    "tikName": "Чебоксары, Ленинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1941,
     "uikTvd": "4214019168514",
+    "uikName": "УИК №1941",
     "tikTvd": "22120001076047",
-    "tikName": "Чебоксары, Ленинская"
+    "tikName": "Чебоксары, Ленинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1942,
     "uikTvd": "4214019168515",
+    "uikName": "УИК №1942",
     "tikTvd": "22120001076047",
-    "tikName": "Чебоксары, Ленинская"
+    "tikName": "Чебоксары, Ленинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1943,
     "uikTvd": "4214019168516",
+    "uikName": "УИК №1943",
     "tikTvd": "22120001076047",
-    "tikName": "Чебоксары, Ленинская"
+    "tikName": "Чебоксары, Ленинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1944,
     "uikTvd": "4214019168517",
+    "uikName": "УИК №1944",
     "tikTvd": "22120001076047",
-    "tikName": "Чебоксары, Ленинская"
+    "tikName": "Чебоксары, Ленинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1945,
     "uikTvd": "4214019168518",
+    "uikName": "УИК №1945",
     "tikTvd": "22120001076047",
-    "tikName": "Чебоксары, Ленинская"
+    "tikName": "Чебоксары, Ленинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1946,
     "uikTvd": "4214019168519",
+    "uikName": "УИК №1946",
     "tikTvd": "22120001076047",
-    "tikName": "Чебоксары, Ленинская"
+    "tikName": "Чебоксары, Ленинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1947,
     "uikTvd": "4214019168520",
+    "uikName": "УИК №1947",
     "tikTvd": "22120001076047",
-    "tikName": "Чебоксары, Ленинская"
+    "tikName": "Чебоксары, Ленинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1948,
     "uikTvd": "4214019168521",
+    "uikName": "УИК №1948",
     "tikTvd": "22120001076047",
-    "tikName": "Чебоксары, Ленинская"
+    "tikName": "Чебоксары, Ленинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1949,
     "uikTvd": "4214019168522",
+    "uikName": "УИК №1949",
     "tikTvd": "22120001076047",
-    "tikName": "Чебоксары, Ленинская"
+    "tikName": "Чебоксары, Ленинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1950,
     "uikTvd": "4214019168523",
+    "uikName": "УИК №1950",
     "tikTvd": "22120001076047",
-    "tikName": "Чебоксары, Ленинская"
+    "tikName": "Чебоксары, Ленинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1951,
     "uikTvd": "4214019168524",
+    "uikName": "УИК №1951",
     "tikTvd": "22120001076047",
-    "tikName": "Чебоксары, Ленинская"
+    "tikName": "Чебоксары, Ленинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1952,
     "uikTvd": "4214019168525",
+    "uikName": "УИК №1952",
     "tikTvd": "22120001076047",
-    "tikName": "Чебоксары, Ленинская"
+    "tikName": "Чебоксары, Ленинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1953,
     "uikTvd": "4214019168526",
+    "uikName": "УИК №1953",
     "tikTvd": "22120001076047",
-    "tikName": "Чебоксары, Ленинская"
+    "tikName": "Чебоксары, Ленинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1954,
     "uikTvd": "4214019168527",
+    "uikName": "УИК №1954",
     "tikTvd": "22120001076047",
-    "tikName": "Чебоксары, Ленинская"
+    "tikName": "Чебоксары, Ленинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1955,
     "uikTvd": "4214019177761",
+    "uikName": "УИК №1955",
     "tikTvd": "22120001076047",
-    "tikName": "Чебоксары, Ленинская"
+    "tikName": "Чебоксары, Ленинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1956,
     "uikTvd": "4214019177762",
+    "uikName": "УИК №1956",
     "tikTvd": "22120001076047",
-    "tikName": "Чебоксары, Ленинская"
+    "tikName": "Чебоксары, Ленинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1957,
     "uikTvd": "4214019177763",
+    "uikName": "УИК №1957",
     "tikTvd": "22120001076047",
-    "tikName": "Чебоксары, Ленинская"
+    "tikName": "Чебоксары, Ленинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 1958,
     "uikTvd": "4214019177764",
+    "uikName": "УИК №1958",
     "tikTvd": "22120001076047",
-    "tikName": "Чебоксары, Ленинская"
+    "tikName": "Чебоксары, Ленинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2001,
     "uikTvd": "4214020203622",
+    "uikName": "УИК №2001",
     "tikTvd": "22120001076046",
-    "tikName": "Чебоксары, Московская"
+    "tikName": "Чебоксары, Московская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2002,
     "uikTvd": "4214020203623",
+    "uikName": "УИК №2002",
     "tikTvd": "22120001076046",
-    "tikName": "Чебоксары, Московская"
+    "tikName": "Чебоксары, Московская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2003,
     "uikTvd": "4214020203624",
+    "uikName": "УИК №2003",
     "tikTvd": "22120001076046",
-    "tikName": "Чебоксары, Московская"
+    "tikName": "Чебоксары, Московская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2004,
     "uikTvd": "4214020203625",
+    "uikName": "УИК №2004",
     "tikTvd": "22120001076046",
-    "tikName": "Чебоксары, Московская"
+    "tikName": "Чебоксары, Московская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2005,
     "uikTvd": "4214020203626",
+    "uikName": "УИК №2005",
     "tikTvd": "22120001076046",
-    "tikName": "Чебоксары, Московская"
+    "tikName": "Чебоксары, Московская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2006,
     "uikTvd": "4214020203627",
+    "uikName": "УИК №2006",
     "tikTvd": "22120001076046",
-    "tikName": "Чебоксары, Московская"
+    "tikName": "Чебоксары, Московская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2007,
     "uikTvd": "4214020203628",
+    "uikName": "УИК №2007",
     "tikTvd": "22120001076046",
-    "tikName": "Чебоксары, Московская"
+    "tikName": "Чебоксары, Московская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2008,
     "uikTvd": "4214020203629",
+    "uikName": "УИК №2008",
     "tikTvd": "22120001076046",
-    "tikName": "Чебоксары, Московская"
+    "tikName": "Чебоксары, Московская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2009,
     "uikTvd": "4214020203630",
+    "uikName": "УИК №2009",
     "tikTvd": "22120001076046",
-    "tikName": "Чебоксары, Московская"
+    "tikName": "Чебоксары, Московская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2010,
     "uikTvd": "4214020203631",
+    "uikName": "УИК №2010",
     "tikTvd": "22120001076046",
-    "tikName": "Чебоксары, Московская"
+    "tikName": "Чебоксары, Московская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2011,
     "uikTvd": "4214020203632",
+    "uikName": "УИК №2011",
     "tikTvd": "22120001076046",
-    "tikName": "Чебоксары, Московская"
+    "tikName": "Чебоксары, Московская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2012,
     "uikTvd": "4214020203633",
+    "uikName": "УИК №2012",
     "tikTvd": "22120001076046",
-    "tikName": "Чебоксары, Московская"
+    "tikName": "Чебоксары, Московская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2013,
     "uikTvd": "4214020203634",
+    "uikName": "УИК №2013",
     "tikTvd": "22120001076046",
-    "tikName": "Чебоксары, Московская"
+    "tikName": "Чебоксары, Московская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2014,
     "uikTvd": "4214020203635",
+    "uikName": "УИК №2014",
     "tikTvd": "22120001076046",
-    "tikName": "Чебоксары, Московская"
+    "tikName": "Чебоксары, Московская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2015,
     "uikTvd": "4214020203636",
+    "uikName": "УИК №2015",
     "tikTvd": "22120001076046",
-    "tikName": "Чебоксары, Московская"
+    "tikName": "Чебоксары, Московская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2016,
     "uikTvd": "4214020203637",
+    "uikName": "УИК №2016",
     "tikTvd": "22120001076046",
-    "tikName": "Чебоксары, Московская"
+    "tikName": "Чебоксары, Московская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2017,
     "uikTvd": "4214020203638",
+    "uikName": "УИК №2017",
     "tikTvd": "22120001076046",
-    "tikName": "Чебоксары, Московская"
+    "tikName": "Чебоксары, Московская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2018,
     "uikTvd": "4214020203639",
+    "uikName": "УИК №2018",
     "tikTvd": "22120001076046",
-    "tikName": "Чебоксары, Московская"
+    "tikName": "Чебоксары, Московская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2019,
     "uikTvd": "4214020203640",
+    "uikName": "УИК №2019",
     "tikTvd": "22120001076046",
-    "tikName": "Чебоксары, Московская"
+    "tikName": "Чебоксары, Московская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2020,
     "uikTvd": "4214020203641",
+    "uikName": "УИК №2020",
     "tikTvd": "22120001076046",
-    "tikName": "Чебоксары, Московская"
+    "tikName": "Чебоксары, Московская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2021,
     "uikTvd": "4214020203642",
+    "uikName": "УИК №2021",
     "tikTvd": "22120001076046",
-    "tikName": "Чебоксары, Московская"
+    "tikName": "Чебоксары, Московская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2022,
     "uikTvd": "4214020203643",
+    "uikName": "УИК №2022",
     "tikTvd": "22120001076046",
-    "tikName": "Чебоксары, Московская"
+    "tikName": "Чебоксары, Московская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2023,
     "uikTvd": "4214020203644",
+    "uikName": "УИК №2023",
     "tikTvd": "22120001076046",
-    "tikName": "Чебоксары, Московская"
+    "tikName": "Чебоксары, Московская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2024,
     "uikTvd": "4214020203645",
+    "uikName": "УИК №2024",
     "tikTvd": "22120001076046",
-    "tikName": "Чебоксары, Московская"
+    "tikName": "Чебоксары, Московская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2025,
     "uikTvd": "4214020203646",
+    "uikName": "УИК №2025",
     "tikTvd": "22120001076046",
-    "tikName": "Чебоксары, Московская"
+    "tikName": "Чебоксары, Московская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2026,
     "uikTvd": "4214020203647",
+    "uikName": "УИК №2026",
     "tikTvd": "22120001076046",
-    "tikName": "Чебоксары, Московская"
+    "tikName": "Чебоксары, Московская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2027,
     "uikTvd": "4214020203648",
+    "uikName": "УИК №2027",
     "tikTvd": "22120001076046",
-    "tikName": "Чебоксары, Московская"
+    "tikName": "Чебоксары, Московская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2028,
     "uikTvd": "4214020203649",
+    "uikName": "УИК №2028",
     "tikTvd": "22120001076046",
-    "tikName": "Чебоксары, Московская"
+    "tikName": "Чебоксары, Московская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2029,
     "uikTvd": "4214020203650",
+    "uikName": "УИК №2029",
     "tikTvd": "22120001076046",
-    "tikName": "Чебоксары, Московская"
+    "tikName": "Чебоксары, Московская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2030,
     "uikTvd": "4214020203651",
+    "uikName": "УИК №2030",
     "tikTvd": "22120001076046",
-    "tikName": "Чебоксары, Московская"
+    "tikName": "Чебоксары, Московская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2031,
     "uikTvd": "4214020203652",
+    "uikName": "УИК №2031",
     "tikTvd": "22120001076046",
-    "tikName": "Чебоксары, Московская"
+    "tikName": "Чебоксары, Московская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2032,
     "uikTvd": "4214020203653",
+    "uikName": "УИК №2032",
     "tikTvd": "22120001076046",
-    "tikName": "Чебоксары, Московская"
+    "tikName": "Чебоксары, Московская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2033,
     "uikTvd": "4214020203654",
+    "uikName": "УИК №2033",
     "tikTvd": "22120001076046",
-    "tikName": "Чебоксары, Московская"
+    "tikName": "Чебоксары, Московская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2034,
     "uikTvd": "4214020203655",
+    "uikName": "УИК №2034",
     "tikTvd": "22120001076046",
-    "tikName": "Чебоксары, Московская"
+    "tikName": "Чебоксары, Московская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2035,
     "uikTvd": "4214020203656",
+    "uikName": "УИК №2035",
     "tikTvd": "22120001076046",
-    "tikName": "Чебоксары, Московская"
+    "tikName": "Чебоксары, Московская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2036,
     "uikTvd": "4214020203657",
+    "uikName": "УИК №2036",
     "tikTvd": "22120001076046",
-    "tikName": "Чебоксары, Московская"
+    "tikName": "Чебоксары, Московская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2037,
     "uikTvd": "4214020203658",
+    "uikName": "УИК №2037",
     "tikTvd": "22120001076046",
-    "tikName": "Чебоксары, Московская"
+    "tikName": "Чебоксары, Московская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2038,
     "uikTvd": "4214020203659",
+    "uikName": "УИК №2038",
     "tikTvd": "22120001076046",
-    "tikName": "Чебоксары, Московская"
+    "tikName": "Чебоксары, Московская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2039,
     "uikTvd": "4214020203660",
+    "uikName": "УИК №2039",
     "tikTvd": "22120001076046",
-    "tikName": "Чебоксары, Московская"
+    "tikName": "Чебоксары, Московская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2040,
     "uikTvd": "4214020203661",
+    "uikName": "УИК №2040",
     "tikTvd": "22120001076046",
-    "tikName": "Чебоксары, Московская"
+    "tikName": "Чебоксары, Московская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2041,
     "uikTvd": "4214020203662",
+    "uikName": "УИК №2041",
     "tikTvd": "22120001076046",
-    "tikName": "Чебоксары, Московская"
+    "tikName": "Чебоксары, Московская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2042,
     "uikTvd": "4214020203663",
+    "uikName": "УИК №2042",
     "tikTvd": "22120001076046",
-    "tikName": "Чебоксары, Московская"
+    "tikName": "Чебоксары, Московская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2043,
     "uikTvd": "4214020203664",
+    "uikName": "УИК №2043",
     "tikTvd": "22120001076046",
-    "tikName": "Чебоксары, Московская"
+    "tikName": "Чебоксары, Московская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2044,
     "uikTvd": "4214020203665",
+    "uikName": "УИК №2044",
     "tikTvd": "22120001076046",
-    "tikName": "Чебоксары, Московская"
+    "tikName": "Чебоксары, Московская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2045,
     "uikTvd": "4214020203666",
+    "uikName": "УИК №2045",
     "tikTvd": "22120001076046",
-    "tikName": "Чебоксары, Московская"
+    "tikName": "Чебоксары, Московская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2046,
     "uikTvd": "4214020203667",
+    "uikName": "УИК №2046",
     "tikTvd": "22120001076046",
-    "tikName": "Чебоксары, Московская"
+    "tikName": "Чебоксары, Московская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2047,
     "uikTvd": "4214020203668",
+    "uikName": "УИК №2047",
     "tikTvd": "22120001076046",
-    "tikName": "Чебоксары, Московская"
+    "tikName": "Чебоксары, Московская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2048,
     "uikTvd": "4214020203669",
+    "uikName": "УИК №2048",
     "tikTvd": "22120001076046",
-    "tikName": "Чебоксары, Московская"
+    "tikName": "Чебоксары, Московская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2049,
     "uikTvd": "4214020203670",
+    "uikName": "УИК №2049",
     "tikTvd": "22120001076046",
-    "tikName": "Чебоксары, Московская"
+    "tikName": "Чебоксары, Московская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2050,
     "uikTvd": "4214020203671",
+    "uikName": "УИК №2050",
     "tikTvd": "22120001076046",
-    "tikName": "Чебоксары, Московская"
+    "tikName": "Чебоксары, Московская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2051,
     "uikTvd": "4214020203672",
+    "uikName": "УИК №2051",
     "tikTvd": "22120001076046",
-    "tikName": "Чебоксары, Московская"
+    "tikName": "Чебоксары, Московская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2052,
     "uikTvd": "4214020203673",
+    "uikName": "УИК №2052",
     "tikTvd": "22120001076046",
-    "tikName": "Чебоксары, Московская"
+    "tikName": "Чебоксары, Московская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2053,
     "uikTvd": "4214020203674",
+    "uikName": "УИК №2053",
     "tikTvd": "22120001076046",
-    "tikName": "Чебоксары, Московская"
+    "tikName": "Чебоксары, Московская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2054,
     "uikTvd": "4214020203675",
+    "uikName": "УИК №2054",
     "tikTvd": "22120001076046",
-    "tikName": "Чебоксары, Московская"
+    "tikName": "Чебоксары, Московская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2055,
     "uikTvd": "4214020203676",
+    "uikName": "УИК №2055",
     "tikTvd": "22120001076046",
-    "tikName": "Чебоксары, Московская"
+    "tikName": "Чебоксары, Московская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2056,
     "uikTvd": "4214020203677",
+    "uikName": "УИК №2056",
     "tikTvd": "22120001076046",
-    "tikName": "Чебоксары, Московская"
+    "tikName": "Чебоксары, Московская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2057,
     "uikTvd": "4214020203678",
+    "uikName": "УИК №2057",
     "tikTvd": "22120001076046",
-    "tikName": "Чебоксары, Московская"
+    "tikName": "Чебоксары, Московская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2058,
     "uikTvd": "4214020203679",
+    "uikName": "УИК №2058",
     "tikTvd": "22120001076046",
-    "tikName": "Чебоксары, Московская"
+    "tikName": "Чебоксары, Московская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2059,
     "uikTvd": "4214020203680",
+    "uikName": "УИК №2059",
     "tikTvd": "22120001076046",
-    "tikName": "Чебоксары, Московская"
+    "tikName": "Чебоксары, Московская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2060,
     "uikTvd": "4214020203681",
+    "uikName": "УИК №2060",
     "tikTvd": "22120001076046",
-    "tikName": "Чебоксары, Московская"
+    "tikName": "Чебоксары, Московская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2061,
     "uikTvd": "4214020203682",
+    "uikName": "УИК №2061",
     "tikTvd": "22120001076046",
-    "tikName": "Чебоксары, Московская"
+    "tikName": "Чебоксары, Московская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2062,
     "uikTvd": "4214020203683",
+    "uikName": "УИК №2062",
     "tikTvd": "22120001076046",
-    "tikName": "Чебоксары, Московская"
+    "tikName": "Чебоксары, Московская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2063,
     "uikTvd": "4214020203684",
+    "uikName": "УИК №2063",
     "tikTvd": "22120001076046",
-    "tikName": "Чебоксары, Московская"
+    "tikName": "Чебоксары, Московская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2064,
     "uikTvd": "4214020203685",
+    "uikName": "УИК №2064",
     "tikTvd": "22120001076046",
-    "tikName": "Чебоксары, Московская"
+    "tikName": "Чебоксары, Московская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2065,
     "uikTvd": "4214020203686",
+    "uikName": "УИК №2065",
     "tikTvd": "22120001076046",
-    "tikName": "Чебоксары, Московская"
+    "tikName": "Чебоксары, Московская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2066,
     "uikTvd": "4214020203687",
+    "uikName": "УИК №2066",
     "tikTvd": "22120001076046",
-    "tikName": "Чебоксары, Московская"
+    "tikName": "Чебоксары, Московская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2067,
     "uikTvd": "4214020203688",
+    "uikName": "УИК №2067",
     "tikTvd": "22120001076046",
-    "tikName": "Чебоксары, Московская"
+    "tikName": "Чебоксары, Московская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2068,
     "uikTvd": "4214020203689",
+    "uikName": "УИК №2068",
     "tikTvd": "22120001076046",
-    "tikName": "Чебоксары, Московская"
+    "tikName": "Чебоксары, Московская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2069,
     "uikTvd": "4214020203690",
+    "uikName": "УИК №2069",
     "tikTvd": "22120001076046",
-    "tikName": "Чебоксары, Московская"
+    "tikName": "Чебоксары, Московская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2070,
     "uikTvd": "4214020203691",
+    "uikName": "УИК №2070",
     "tikTvd": "22120001076046",
-    "tikName": "Чебоксары, Московская"
+    "tikName": "Чебоксары, Московская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2071,
     "uikTvd": "4214020203692",
+    "uikName": "УИК №2071",
     "tikTvd": "22120001076046",
-    "tikName": "Чебоксары, Московская"
+    "tikName": "Чебоксары, Московская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2072,
     "uikTvd": "4214020203693",
+    "uikName": "УИК №2072",
     "tikTvd": "22120001076046",
-    "tikName": "Чебоксары, Московская"
+    "tikName": "Чебоксары, Московская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2073,
     "uikTvd": "4214020203694",
+    "uikName": "УИК №2073",
     "tikTvd": "22120001076046",
-    "tikName": "Чебоксары, Московская"
+    "tikName": "Чебоксары, Московская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2074,
     "uikTvd": "4214020203695",
+    "uikName": "УИК №2074",
     "tikTvd": "22120001076046",
-    "tikName": "Чебоксары, Московская"
+    "tikName": "Чебоксары, Московская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2075,
     "uikTvd": "4214020203696",
+    "uikName": "УИК №2075",
     "tikTvd": "22120001076046",
-    "tikName": "Чебоксары, Московская"
+    "tikName": "Чебоксары, Московская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2076,
     "uikTvd": "4214020208749",
+    "uikName": "УИК №2076",
     "tikTvd": "22120001076046",
-    "tikName": "Чебоксары, Московская"
+    "tikName": "Чебоксары, Московская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2077,
     "uikTvd": "4214020208750",
+    "uikName": "УИК №2077",
     "tikTvd": "22120001076046",
-    "tikName": "Чебоксары, Московская"
+    "tikName": "Чебоксары, Московская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2078,
     "uikTvd": "4214020208751",
+    "uikName": "УИК №2078",
     "tikTvd": "22120001076046",
-    "tikName": "Чебоксары, Московская"
+    "tikName": "Чебоксары, Московская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2079,
     "uikTvd": "4214020208752",
+    "uikName": "УИК №2079",
     "tikTvd": "22120001076046",
-    "tikName": "Чебоксары, Московская"
+    "tikName": "Чебоксары, Московская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2080,
     "uikTvd": "4214020208753",
+    "uikName": "УИК №2080",
     "tikTvd": "22120001076046",
-    "tikName": "Чебоксары, Московская"
+    "tikName": "Чебоксары, Московская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2081,
     "uikTvd": "4214020208754",
+    "uikName": "УИК №2081",
     "tikTvd": "22120001076046",
-    "tikName": "Чебоксары, Московская"
+    "tikName": "Чебоксары, Московская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2082,
     "uikTvd": "4214020208755",
+    "uikName": "УИК №2082",
     "tikTvd": "22120001076046",
-    "tikName": "Чебоксары, Московская"
+    "tikName": "Чебоксары, Московская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2101,
     "uikTvd": "4214021216918",
+    "uikName": "УИК №2101",
     "tikTvd": "22120001076033",
-    "tikName": "Шемуршинская"
+    "tikName": "Шемуршинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2102,
     "uikTvd": "4214021216919",
+    "uikName": "УИК №2102",
     "tikTvd": "22120001076033",
-    "tikName": "Шемуршинская"
+    "tikName": "Шемуршинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2103,
     "uikTvd": "4214021216920",
+    "uikName": "УИК №2103",
     "tikTvd": "22120001076033",
-    "tikName": "Шемуршинская"
+    "tikName": "Шемуршинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2104,
     "uikTvd": "4214021216921",
+    "uikName": "УИК №2104",
     "tikTvd": "22120001076033",
-    "tikName": "Шемуршинская"
+    "tikName": "Шемуршинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2105,
     "uikTvd": "4214021216922",
+    "uikName": "УИК №2105",
     "tikTvd": "22120001076033",
-    "tikName": "Шемуршинская"
+    "tikName": "Шемуршинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2106,
     "uikTvd": "4214021216923",
+    "uikName": "УИК №2106",
     "tikTvd": "22120001076033",
-    "tikName": "Шемуршинская"
+    "tikName": "Шемуршинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2107,
     "uikTvd": "4214021216924",
+    "uikName": "УИК №2107",
     "tikTvd": "22120001076033",
-    "tikName": "Шемуршинская"
+    "tikName": "Шемуршинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2108,
     "uikTvd": "4214021216925",
+    "uikName": "УИК №2108",
     "tikTvd": "22120001076033",
-    "tikName": "Шемуршинская"
+    "tikName": "Шемуршинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2109,
     "uikTvd": "4214021216926",
+    "uikName": "УИК №2109",
     "tikTvd": "22120001076033",
-    "tikName": "Шемуршинская"
+    "tikName": "Шемуршинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2110,
     "uikTvd": "4214021216927",
+    "uikName": "УИК №2110",
     "tikTvd": "22120001076033",
-    "tikName": "Шемуршинская"
+    "tikName": "Шемуршинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2111,
     "uikTvd": "4214021216928",
+    "uikName": "УИК №2111",
     "tikTvd": "22120001076033",
-    "tikName": "Шемуршинская"
+    "tikName": "Шемуршинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2112,
     "uikTvd": "4214021216929",
+    "uikName": "УИК №2112",
     "tikTvd": "22120001076033",
-    "tikName": "Шемуршинская"
+    "tikName": "Шемуршинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2113,
     "uikTvd": "4214021216930",
+    "uikName": "УИК №2113",
     "tikTvd": "22120001076033",
-    "tikName": "Шемуршинская"
+    "tikName": "Шемуршинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2114,
     "uikTvd": "4214021216931",
+    "uikName": "УИК №2114",
     "tikTvd": "22120001076033",
-    "tikName": "Шемуршинская"
+    "tikName": "Шемуршинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2115,
     "uikTvd": "4214021216932",
+    "uikName": "УИК №2115",
     "tikTvd": "22120001076033",
-    "tikName": "Шемуршинская"
+    "tikName": "Шемуршинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2116,
     "uikTvd": "4214021216933",
+    "uikName": "УИК №2116",
     "tikTvd": "22120001076033",
-    "tikName": "Шемуршинская"
+    "tikName": "Шемуршинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2117,
     "uikTvd": "4214021216934",
+    "uikName": "УИК №2117",
     "tikTvd": "22120001076033",
-    "tikName": "Шемуршинская"
+    "tikName": "Шемуршинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2118,
     "uikTvd": "4214021216935",
+    "uikName": "УИК №2118",
     "tikTvd": "22120001076033",
-    "tikName": "Шемуршинская"
+    "tikName": "Шемуршинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2119,
     "uikTvd": "4214021216936",
+    "uikName": "УИК №2119",
     "tikTvd": "22120001076033",
-    "tikName": "Шемуршинская"
+    "tikName": "Шемуршинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2120,
     "uikTvd": "4214021216937",
+    "uikName": "УИК №2120",
     "tikTvd": "22120001076033",
-    "tikName": "Шемуршинская"
+    "tikName": "Шемуршинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2201,
     "uikTvd": "4214022175447",
+    "uikName": "УИК №2201",
     "tikTvd": "22120001076045",
-    "tikName": "Шумерлинская"
+    "tikName": "Шумерлинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2202,
     "uikTvd": "4214022175448",
+    "uikName": "УИК №2202",
     "tikTvd": "22120001076045",
-    "tikName": "Шумерлинская"
+    "tikName": "Шумерлинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2203,
     "uikTvd": "4214022175449",
+    "uikName": "УИК №2203",
     "tikTvd": "22120001076045",
-    "tikName": "Шумерлинская"
+    "tikName": "Шумерлинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2204,
     "uikTvd": "4214022175450",
+    "uikName": "УИК №2204",
     "tikTvd": "22120001076045",
-    "tikName": "Шумерлинская"
+    "tikName": "Шумерлинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2205,
     "uikTvd": "4214022175451",
+    "uikName": "УИК №2205",
     "tikTvd": "22120001076045",
-    "tikName": "Шумерлинская"
+    "tikName": "Шумерлинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2206,
     "uikTvd": "4214022175452",
+    "uikName": "УИК №2206",
     "tikTvd": "22120001076045",
-    "tikName": "Шумерлинская"
+    "tikName": "Шумерлинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2207,
     "uikTvd": "4214022175453",
+    "uikName": "УИК №2207",
     "tikTvd": "22120001076045",
-    "tikName": "Шумерлинская"
+    "tikName": "Шумерлинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2208,
     "uikTvd": "4214022175454",
+    "uikName": "УИК №2208",
     "tikTvd": "22120001076045",
-    "tikName": "Шумерлинская"
+    "tikName": "Шумерлинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2209,
     "uikTvd": "4214022175455",
+    "uikName": "УИК №2209",
     "tikTvd": "22120001076045",
-    "tikName": "Шумерлинская"
+    "tikName": "Шумерлинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2210,
     "uikTvd": "4214022175456",
+    "uikName": "УИК №2210",
     "tikTvd": "22120001076045",
-    "tikName": "Шумерлинская"
+    "tikName": "Шумерлинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2211,
     "uikTvd": "4214022175457",
+    "uikName": "УИК №2211",
     "tikTvd": "22120001076045",
-    "tikName": "Шумерлинская"
+    "tikName": "Шумерлинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2212,
     "uikTvd": "4214022175458",
+    "uikName": "УИК №2212",
     "tikTvd": "22120001076045",
-    "tikName": "Шумерлинская"
+    "tikName": "Шумерлинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2213,
     "uikTvd": "4214022175459",
+    "uikName": "УИК №2213",
     "tikTvd": "22120001076045",
-    "tikName": "Шумерлинская"
+    "tikName": "Шумерлинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2214,
     "uikTvd": "4214022175460",
+    "uikName": "УИК №2214",
     "tikTvd": "22120001076045",
-    "tikName": "Шумерлинская"
+    "tikName": "Шумерлинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2215,
     "uikTvd": "4214022175461",
+    "uikName": "УИК №2215",
     "tikTvd": "22120001076045",
-    "tikName": "Шумерлинская"
+    "tikName": "Шумерлинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2216,
     "uikTvd": "4214022175462",
+    "uikName": "УИК №2216",
     "tikTvd": "22120001076045",
-    "tikName": "Шумерлинская"
+    "tikName": "Шумерлинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2217,
     "uikTvd": "4214022175463",
+    "uikName": "УИК №2217",
     "tikTvd": "22120001076045",
-    "tikName": "Шумерлинская"
+    "tikName": "Шумерлинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2218,
     "uikTvd": "4214022175464",
+    "uikName": "УИК №2218",
     "tikTvd": "22120001076045",
-    "tikName": "Шумерлинская"
+    "tikName": "Шумерлинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2219,
     "uikTvd": "4214022175465",
+    "uikName": "УИК №2219",
     "tikTvd": "22120001076045",
-    "tikName": "Шумерлинская"
+    "tikName": "Шумерлинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2220,
     "uikTvd": "4214022175466",
+    "uikName": "УИК №2220",
     "tikTvd": "22120001076045",
-    "tikName": "Шумерлинская"
+    "tikName": "Шумерлинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2221,
     "uikTvd": "4214022175467",
+    "uikName": "УИК №2221",
     "tikTvd": "22120001076045",
-    "tikName": "Шумерлинская"
+    "tikName": "Шумерлинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2222,
     "uikTvd": "4214022175468",
+    "uikName": "УИК №2222",
     "tikTvd": "22120001076045",
-    "tikName": "Шумерлинская"
+    "tikName": "Шумерлинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2223,
     "uikTvd": "4214022175469",
+    "uikName": "УИК №2223",
     "tikTvd": "22120001076045",
-    "tikName": "Шумерлинская"
+    "tikName": "Шумерлинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2224,
     "uikTvd": "4214022175470",
+    "uikName": "УИК №2224",
     "tikTvd": "22120001076045",
-    "tikName": "Шумерлинская"
+    "tikName": "Шумерлинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2225,
     "uikTvd": "4214022175471",
+    "uikName": "УИК №2225",
     "tikTvd": "22120001076045",
-    "tikName": "Шумерлинская"
+    "tikName": "Шумерлинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2301,
     "uikTvd": "4214023348027",
+    "uikName": "УИК №2301",
     "tikTvd": "22120001076043",
-    "tikName": "Ядринская"
+    "tikName": "Ядринская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2302,
     "uikTvd": "4214023348028",
+    "uikName": "УИК №2302",
     "tikTvd": "22120001076043",
-    "tikName": "Ядринская"
+    "tikName": "Ядринская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2303,
     "uikTvd": "4214023348029",
+    "uikName": "УИК №2303",
     "tikTvd": "22120001076043",
-    "tikName": "Ядринская"
+    "tikName": "Ядринская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2304,
     "uikTvd": "4214023348030",
+    "uikName": "УИК №2304",
     "tikTvd": "22120001076043",
-    "tikName": "Ядринская"
+    "tikName": "Ядринская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2305,
     "uikTvd": "4214023348031",
+    "uikName": "УИК №2305",
     "tikTvd": "22120001076043",
-    "tikName": "Ядринская"
+    "tikName": "Ядринская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2306,
     "uikTvd": "4214023348032",
+    "uikName": "УИК №2306",
     "tikTvd": "22120001076043",
-    "tikName": "Ядринская"
+    "tikName": "Ядринская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2307,
     "uikTvd": "4214023348033",
+    "uikName": "УИК №2307",
     "tikTvd": "22120001076043",
-    "tikName": "Ядринская"
+    "tikName": "Ядринская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2308,
     "uikTvd": "4214023348034",
+    "uikName": "УИК №2308",
     "tikTvd": "22120001076043",
-    "tikName": "Ядринская"
+    "tikName": "Ядринская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2309,
     "uikTvd": "4214023348035",
+    "uikName": "УИК №2309",
     "tikTvd": "22120001076043",
-    "tikName": "Ядринская"
+    "tikName": "Ядринская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2310,
     "uikTvd": "4214023348036",
+    "uikName": "УИК №2310",
     "tikTvd": "22120001076043",
-    "tikName": "Ядринская"
+    "tikName": "Ядринская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2311,
     "uikTvd": "4214023348037",
+    "uikName": "УИК №2311",
     "tikTvd": "22120001076043",
-    "tikName": "Ядринская"
+    "tikName": "Ядринская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2312,
     "uikTvd": "4214023348038",
+    "uikName": "УИК №2312",
     "tikTvd": "22120001076043",
-    "tikName": "Ядринская"
+    "tikName": "Ядринская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2313,
     "uikTvd": "4214023348039",
+    "uikName": "УИК №2313",
     "tikTvd": "22120001076043",
-    "tikName": "Ядринская"
+    "tikName": "Ядринская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2314,
     "uikTvd": "4214023348040",
+    "uikName": "УИК №2314",
     "tikTvd": "22120001076043",
-    "tikName": "Ядринская"
+    "tikName": "Ядринская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2315,
     "uikTvd": "4214023348041",
+    "uikName": "УИК №2315",
     "tikTvd": "22120001076043",
-    "tikName": "Ядринская"
+    "tikName": "Ядринская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2316,
     "uikTvd": "4214023348042",
+    "uikName": "УИК №2316",
     "tikTvd": "22120001076043",
-    "tikName": "Ядринская"
+    "tikName": "Ядринская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2317,
     "uikTvd": "4214023348043",
+    "uikName": "УИК №2317",
     "tikTvd": "22120001076043",
-    "tikName": "Ядринская"
+    "tikName": "Ядринская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2318,
     "uikTvd": "4214023348044",
+    "uikName": "УИК №2318",
     "tikTvd": "22120001076043",
-    "tikName": "Ядринская"
+    "tikName": "Ядринская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2319,
     "uikTvd": "4214023348045",
+    "uikName": "УИК №2319",
     "tikTvd": "22120001076043",
-    "tikName": "Ядринская"
+    "tikName": "Ядринская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2320,
     "uikTvd": "4214023348046",
+    "uikName": "УИК №2320",
     "tikTvd": "22120001076043",
-    "tikName": "Ядринская"
+    "tikName": "Ядринская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2321,
     "uikTvd": "4214023348047",
+    "uikName": "УИК №2321",
     "tikTvd": "22120001076043",
-    "tikName": "Ядринская"
+    "tikName": "Ядринская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2322,
     "uikTvd": "4214023348048",
+    "uikName": "УИК №2322",
     "tikTvd": "22120001076043",
-    "tikName": "Ядринская"
+    "tikName": "Ядринская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2323,
     "uikTvd": "4214023348049",
+    "uikName": "УИК №2323",
     "tikTvd": "22120001076043",
-    "tikName": "Ядринская"
+    "tikName": "Ядринская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2324,
     "uikTvd": "4214023348050",
+    "uikName": "УИК №2324",
     "tikTvd": "22120001076043",
-    "tikName": "Ядринская"
+    "tikName": "Ядринская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2325,
     "uikTvd": "4214023348051",
+    "uikName": "УИК №2325",
     "tikTvd": "22120001076043",
-    "tikName": "Ядринская"
+    "tikName": "Ядринская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2326,
     "uikTvd": "4214023348052",
+    "uikName": "УИК №2326",
     "tikTvd": "22120001076043",
-    "tikName": "Ядринская"
+    "tikName": "Ядринская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2327,
     "uikTvd": "4214023348053",
+    "uikName": "УИК №2327",
     "tikTvd": "22120001076043",
-    "tikName": "Ядринская"
+    "tikName": "Ядринская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2328,
     "uikTvd": "4214023348054",
+    "uikName": "УИК №2328",
     "tikTvd": "22120001076043",
-    "tikName": "Ядринская"
+    "tikName": "Ядринская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2329,
     "uikTvd": "4214023348055",
+    "uikName": "УИК №2329",
     "tikTvd": "22120001076043",
-    "tikName": "Ядринская"
+    "tikName": "Ядринская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2330,
     "uikTvd": "4214023348056",
+    "uikName": "УИК №2330",
     "tikTvd": "22120001076043",
-    "tikName": "Ядринская"
+    "tikName": "Ядринская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2331,
     "uikTvd": "4214023348057",
+    "uikName": "УИК №2331",
     "tikTvd": "22120001076043",
-    "tikName": "Ядринская"
+    "tikName": "Ядринская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2332,
     "uikTvd": "4214023348058",
+    "uikName": "УИК №2332",
     "tikTvd": "22120001076043",
-    "tikName": "Ядринская"
+    "tikName": "Ядринская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2333,
     "uikTvd": "4214023348059",
+    "uikName": "УИК №2333",
     "tikTvd": "22120001076043",
-    "tikName": "Ядринская"
+    "tikName": "Ядринская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2334,
     "uikTvd": "4214023348060",
+    "uikName": "УИК №2334",
     "tikTvd": "22120001076043",
-    "tikName": "Ядринская"
+    "tikName": "Ядринская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2335,
     "uikTvd": "4214023348061",
+    "uikName": "УИК №2335",
     "tikTvd": "22120001076043",
-    "tikName": "Ядринская"
+    "tikName": "Ядринская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2336,
     "uikTvd": "4214023348062",
+    "uikName": "УИК №2336",
     "tikTvd": "22120001076043",
-    "tikName": "Ядринская"
+    "tikName": "Ядринская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2337,
     "uikTvd": "4214023348063",
+    "uikName": "УИК №2337",
     "tikTvd": "22120001076043",
-    "tikName": "Ядринская"
+    "tikName": "Ядринская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2338,
     "uikTvd": "4214023348064",
+    "uikName": "УИК №2338",
     "tikTvd": "22120001076043",
-    "tikName": "Ядринская"
+    "tikName": "Ядринская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2339,
     "uikTvd": "4214023348065",
+    "uikName": "УИК №2339",
     "tikTvd": "22120001076043",
-    "tikName": "Ядринская"
+    "tikName": "Ядринская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2340,
     "uikTvd": "4214023348066",
+    "uikName": "УИК №2340",
     "tikTvd": "22120001076043",
-    "tikName": "Ядринская"
+    "tikName": "Ядринская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2341,
     "uikTvd": "4214023348067",
+    "uikName": "УИК №2341",
     "tikTvd": "22120001076043",
-    "tikName": "Ядринская"
+    "tikName": "Ядринская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2401,
     "uikTvd": "4214024207818",
+    "uikName": "УИК №2401",
     "tikTvd": "22120001076032",
-    "tikName": "Яльчикская"
+    "tikName": "Яльчикская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2402,
     "uikTvd": "4214024207819",
+    "uikName": "УИК №2402",
     "tikTvd": "22120001076032",
-    "tikName": "Яльчикская"
+    "tikName": "Яльчикская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2403,
     "uikTvd": "4214024207820",
+    "uikName": "УИК №2403",
     "tikTvd": "22120001076032",
-    "tikName": "Яльчикская"
+    "tikName": "Яльчикская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2404,
     "uikTvd": "4214024207821",
+    "uikName": "УИК №2404",
     "tikTvd": "22120001076032",
-    "tikName": "Яльчикская"
+    "tikName": "Яльчикская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2405,
     "uikTvd": "4214024207822",
+    "uikName": "УИК №2405",
     "tikTvd": "22120001076032",
-    "tikName": "Яльчикская"
+    "tikName": "Яльчикская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2406,
     "uikTvd": "4214024207823",
+    "uikName": "УИК №2406",
     "tikTvd": "22120001076032",
-    "tikName": "Яльчикская"
+    "tikName": "Яльчикская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2407,
     "uikTvd": "4214024207824",
+    "uikName": "УИК №2407",
     "tikTvd": "22120001076032",
-    "tikName": "Яльчикская"
+    "tikName": "Яльчикская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2408,
     "uikTvd": "4214024207825",
+    "uikName": "УИК №2408",
     "tikTvd": "22120001076032",
-    "tikName": "Яльчикская"
+    "tikName": "Яльчикская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2409,
     "uikTvd": "4214024207826",
+    "uikName": "УИК №2409",
     "tikTvd": "22120001076032",
-    "tikName": "Яльчикская"
+    "tikName": "Яльчикская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2410,
     "uikTvd": "4214024207827",
+    "uikName": "УИК №2410",
     "tikTvd": "22120001076032",
-    "tikName": "Яльчикская"
+    "tikName": "Яльчикская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2411,
     "uikTvd": "4214024207828",
+    "uikName": "УИК №2411",
     "tikTvd": "22120001076032",
-    "tikName": "Яльчикская"
+    "tikName": "Яльчикская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2412,
     "uikTvd": "4214024207829",
+    "uikName": "УИК №2412",
     "tikTvd": "22120001076032",
-    "tikName": "Яльчикская"
+    "tikName": "Яльчикская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2413,
     "uikTvd": "4214024207830",
+    "uikName": "УИК №2413",
     "tikTvd": "22120001076032",
-    "tikName": "Яльчикская"
+    "tikName": "Яльчикская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2414,
     "uikTvd": "4214024207831",
+    "uikName": "УИК №2414",
     "tikTvd": "22120001076032",
-    "tikName": "Яльчикская"
+    "tikName": "Яльчикская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2415,
     "uikTvd": "4214024207832",
+    "uikName": "УИК №2415",
     "tikTvd": "22120001076032",
-    "tikName": "Яльчикская"
+    "tikName": "Яльчикская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2416,
     "uikTvd": "4214024207833",
+    "uikName": "УИК №2416",
     "tikTvd": "22120001076032",
-    "tikName": "Яльчикская"
+    "tikName": "Яльчикская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2417,
     "uikTvd": "4214024207834",
+    "uikName": "УИК №2417",
     "tikTvd": "22120001076032",
-    "tikName": "Яльчикская"
+    "tikName": "Яльчикская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2418,
     "uikTvd": "4214024207835",
+    "uikName": "УИК №2418",
     "tikTvd": "22120001076032",
-    "tikName": "Яльчикская"
+    "tikName": "Яльчикская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2419,
     "uikTvd": "4214024207836",
+    "uikName": "УИК №2419",
     "tikTvd": "22120001076032",
-    "tikName": "Яльчикская"
+    "tikName": "Яльчикская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2420,
     "uikTvd": "4214024207837",
+    "uikName": "УИК №2420",
     "tikTvd": "22120001076032",
-    "tikName": "Яльчикская"
+    "tikName": "Яльчикская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2421,
     "uikTvd": "4214024207838",
+    "uikName": "УИК №2421",
     "tikTvd": "22120001076032",
-    "tikName": "Яльчикская"
+    "tikName": "Яльчикская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2422,
     "uikTvd": "4214024207839",
+    "uikName": "УИК №2422",
     "tikTvd": "22120001076032",
-    "tikName": "Яльчикская"
+    "tikName": "Яльчикская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2423,
     "uikTvd": "4214024207840",
+    "uikName": "УИК №2423",
     "tikTvd": "22120001076032",
-    "tikName": "Яльчикская"
+    "tikName": "Яльчикская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2424,
     "uikTvd": "4214024207841",
+    "uikName": "УИК №2424",
     "tikTvd": "22120001076032",
-    "tikName": "Яльчикская"
+    "tikName": "Яльчикская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2425,
     "uikTvd": "4214024207842",
+    "uikName": "УИК №2425",
     "tikTvd": "22120001076032",
-    "tikName": "Яльчикская"
+    "tikName": "Яльчикская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2426,
     "uikTvd": "4214024207843",
+    "uikName": "УИК №2426",
     "tikTvd": "22120001076032",
-    "tikName": "Яльчикская"
+    "tikName": "Яльчикская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2427,
     "uikTvd": "4214024207844",
+    "uikName": "УИК №2427",
     "tikTvd": "22120001076032",
-    "tikName": "Яльчикская"
+    "tikName": "Яльчикская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2428,
     "uikTvd": "4214024207845",
+    "uikName": "УИК №2428",
     "tikTvd": "22120001076032",
-    "tikName": "Яльчикская"
+    "tikName": "Яльчикская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2429,
     "uikTvd": "4214024207846",
+    "uikName": "УИК №2429",
     "tikTvd": "22120001076032",
-    "tikName": "Яльчикская"
+    "tikName": "Яльчикская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2430,
     "uikTvd": "4214024207847",
+    "uikName": "УИК №2430",
     "tikTvd": "22120001076032",
-    "tikName": "Яльчикская"
+    "tikName": "Яльчикская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2431,
     "uikTvd": "4214024207848",
+    "uikName": "УИК №2431",
     "tikTvd": "22120001076032",
-    "tikName": "Яльчикская"
+    "tikName": "Яльчикская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2432,
     "uikTvd": "4214024207849",
+    "uikName": "УИК №2432",
     "tikTvd": "22120001076032",
-    "tikName": "Яльчикская"
+    "tikName": "Яльчикская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2433,
     "uikTvd": "4214024207850",
+    "uikName": "УИК №2433",
     "tikTvd": "22120001076032",
-    "tikName": "Яльчикская"
+    "tikName": "Яльчикская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2434,
     "uikTvd": "4214024207851",
+    "uikName": "УИК №2434",
     "tikTvd": "22120001076032",
-    "tikName": "Яльчикская"
+    "tikName": "Яльчикская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2435,
     "uikTvd": "4214024207852",
+    "uikName": "УИК №2435",
     "tikTvd": "22120001076032",
-    "tikName": "Яльчикская"
+    "tikName": "Яльчикская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2436,
     "uikTvd": "4214024207853",
+    "uikName": "УИК №2436",
     "tikTvd": "22120001076032",
-    "tikName": "Яльчикская"
+    "tikName": "Яльчикская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2437,
     "uikTvd": "4214024207854",
+    "uikName": "УИК №2437",
     "tikTvd": "22120001076032",
-    "tikName": "Яльчикская"
+    "tikName": "Яльчикская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2438,
     "uikTvd": "4214024207855",
+    "uikName": "УИК №2438",
     "tikTvd": "22120001076032",
-    "tikName": "Яльчикская"
+    "tikName": "Яльчикская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2439,
     "uikTvd": "4214024207856",
+    "uikName": "УИК №2439",
     "tikTvd": "22120001076032",
-    "tikName": "Яльчикская"
+    "tikName": "Яльчикская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2440,
     "uikTvd": "4214024207857",
+    "uikName": "УИК №2440",
     "tikTvd": "22120001076032",
-    "tikName": "Яльчикская"
+    "tikName": "Яльчикская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2441,
     "uikTvd": "4214024207858",
+    "uikName": "УИК №2441",
     "tikTvd": "22120001076032",
-    "tikName": "Яльчикская"
+    "tikName": "Яльчикская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2442,
     "uikTvd": "4214024207859",
+    "uikName": "УИК №2442",
     "tikTvd": "22120001076032",
-    "tikName": "Яльчикская"
+    "tikName": "Яльчикская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2501,
     "uikTvd": "4214025210304",
+    "uikName": "УИК №2501",
     "tikTvd": "22120001076031",
-    "tikName": "Янтиковская"
+    "tikName": "Янтиковская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2502,
     "uikTvd": "4214025210305",
+    "uikName": "УИК №2502",
     "tikTvd": "22120001076031",
-    "tikName": "Янтиковская"
+    "tikName": "Янтиковская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2503,
     "uikTvd": "4214025210306",
+    "uikName": "УИК №2503",
     "tikTvd": "22120001076031",
-    "tikName": "Янтиковская"
+    "tikName": "Янтиковская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2504,
     "uikTvd": "4214025210307",
+    "uikName": "УИК №2504",
     "tikTvd": "22120001076031",
-    "tikName": "Янтиковская"
+    "tikName": "Янтиковская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2505,
     "uikTvd": "4214025210308",
+    "uikName": "УИК №2505",
     "tikTvd": "22120001076031",
-    "tikName": "Янтиковская"
+    "tikName": "Янтиковская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2506,
     "uikTvd": "4214025210309",
+    "uikName": "УИК №2506",
     "tikTvd": "22120001076031",
-    "tikName": "Янтиковская"
+    "tikName": "Янтиковская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2507,
     "uikTvd": "4214025210310",
+    "uikName": "УИК №2507",
     "tikTvd": "22120001076031",
-    "tikName": "Янтиковская"
+    "tikName": "Янтиковская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2508,
     "uikTvd": "4214025210311",
+    "uikName": "УИК №2508",
     "tikTvd": "22120001076031",
-    "tikName": "Янтиковская"
+    "tikName": "Янтиковская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2509,
     "uikTvd": "4214025210312",
+    "uikName": "УИК №2509",
     "tikTvd": "22120001076031",
-    "tikName": "Янтиковская"
+    "tikName": "Янтиковская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2510,
     "uikTvd": "4214025210313",
+    "uikName": "УИК №2510",
     "tikTvd": "22120001076031",
-    "tikName": "Янтиковская"
+    "tikName": "Янтиковская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2511,
     "uikTvd": "4214025210314",
+    "uikName": "УИК №2511",
     "tikTvd": "22120001076031",
-    "tikName": "Янтиковская"
+    "tikName": "Янтиковская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2512,
     "uikTvd": "4214025210315",
+    "uikName": "УИК №2512",
     "tikTvd": "22120001076031",
-    "tikName": "Янтиковская"
+    "tikName": "Янтиковская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2513,
     "uikTvd": "4214025210316",
+    "uikName": "УИК №2513",
     "tikTvd": "22120001076031",
-    "tikName": "Янтиковская"
+    "tikName": "Янтиковская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2514,
     "uikTvd": "4214025210317",
+    "uikName": "УИК №2514",
     "tikTvd": "22120001076031",
-    "tikName": "Янтиковская"
+    "tikName": "Янтиковская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2515,
     "uikTvd": "4214025210318",
+    "uikName": "УИК №2515",
     "tikTvd": "22120001076031",
-    "tikName": "Янтиковская"
+    "tikName": "Янтиковская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2516,
     "uikTvd": "4214025210319",
+    "uikName": "УИК №2516",
     "tikTvd": "22120001076031",
-    "tikName": "Янтиковская"
+    "tikName": "Янтиковская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2517,
     "uikTvd": "4214025210320",
+    "uikName": "УИК №2517",
     "tikTvd": "22120001076031",
-    "tikName": "Янтиковская"
+    "tikName": "Янтиковская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2518,
     "uikTvd": "4214025210321",
+    "uikName": "УИК №2518",
     "tikTvd": "22120001076031",
-    "tikName": "Янтиковская"
+    "tikName": "Янтиковская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2519,
     "uikTvd": "4214025210322",
+    "uikName": "УИК №2519",
     "tikTvd": "22120001076031",
-    "tikName": "Янтиковская"
+    "tikName": "Янтиковская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2520,
     "uikTvd": "4214025210323",
+    "uikName": "УИК №2520",
     "tikTvd": "22120001076031",
-    "tikName": "Янтиковская"
+    "tikName": "Янтиковская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2521,
     "uikTvd": "4214025210324",
+    "uikName": "УИК №2521",
     "tikTvd": "22120001076031",
-    "tikName": "Янтиковская"
+    "tikName": "Янтиковская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2522,
     "uikTvd": "4214025210325",
+    "uikName": "УИК №2522",
     "tikTvd": "22120001076031",
-    "tikName": "Янтиковская"
+    "tikName": "Янтиковская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2523,
     "uikTvd": "4214025210326",
+    "uikName": "УИК №2523",
     "tikTvd": "22120001076031",
-    "tikName": "Янтиковская"
+    "tikName": "Янтиковская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2524,
     "uikTvd": "4214025210327",
+    "uikName": "УИК №2524",
     "tikTvd": "22120001076031",
-    "tikName": "Янтиковская"
+    "tikName": "Янтиковская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2525,
     "uikTvd": "4214025210328",
+    "uikName": "УИК №2525",
     "tikTvd": "22120001076031",
-    "tikName": "Янтиковская"
+    "tikName": "Янтиковская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2526,
     "uikTvd": "4214025210329",
+    "uikName": "УИК №2526",
     "tikTvd": "22120001076031",
-    "tikName": "Янтиковская"
+    "tikName": "Янтиковская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2527,
     "uikTvd": "4214025210330",
+    "uikName": "УИК №2527",
     "tikTvd": "22120001076031",
-    "tikName": "Янтиковская"
+    "tikName": "Янтиковская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2528,
     "uikTvd": "4214025210331",
+    "uikName": "УИК №2528",
     "tikTvd": "22120001076031",
-    "tikName": "Янтиковская"
+    "tikName": "Янтиковская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2529,
     "uikTvd": "4214025210332",
+    "uikName": "УИК №2529",
     "tikTvd": "22120001076031",
-    "tikName": "Янтиковская"
+    "tikName": "Янтиковская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2530,
     "uikTvd": "4214025210333",
+    "uikName": "УИК №2530",
     "tikTvd": "22120001076031",
-    "tikName": "Янтиковская"
+    "tikName": "Янтиковская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2601,
     "uikTvd": "4214026151529",
+    "uikName": "УИК №2601",
     "tikTvd": "22120001076054",
-    "tikName": "Алатырская городская"
+    "tikName": "Алатырская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2602,
     "uikTvd": "4214026151530",
+    "uikName": "УИК №2602",
     "tikTvd": "22120001076054",
-    "tikName": "Алатырская городская"
+    "tikName": "Алатырская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2603,
     "uikTvd": "4214026151531",
+    "uikName": "УИК №2603",
     "tikTvd": "22120001076054",
-    "tikName": "Алатырская городская"
+    "tikName": "Алатырская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2604,
     "uikTvd": "4214026151532",
+    "uikName": "УИК №2604",
     "tikTvd": "22120001076054",
-    "tikName": "Алатырская городская"
+    "tikName": "Алатырская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2605,
     "uikTvd": "4214026151533",
+    "uikName": "УИК №2605",
     "tikTvd": "22120001076054",
-    "tikName": "Алатырская городская"
+    "tikName": "Алатырская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2606,
     "uikTvd": "4214026151534",
+    "uikName": "УИК №2606",
     "tikTvd": "22120001076054",
-    "tikName": "Алатырская городская"
+    "tikName": "Алатырская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2607,
     "uikTvd": "4214026151535",
+    "uikName": "УИК №2607",
     "tikTvd": "22120001076054",
-    "tikName": "Алатырская городская"
+    "tikName": "Алатырская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2608,
     "uikTvd": "4214026151536",
+    "uikName": "УИК №2608",
     "tikTvd": "22120001076054",
-    "tikName": "Алатырская городская"
+    "tikName": "Алатырская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2609,
     "uikTvd": "4214026151537",
+    "uikName": "УИК №2609",
     "tikTvd": "22120001076054",
-    "tikName": "Алатырская городская"
+    "tikName": "Алатырская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2610,
     "uikTvd": "4214026151538",
+    "uikName": "УИК №2610",
     "tikTvd": "22120001076054",
-    "tikName": "Алатырская городская"
+    "tikName": "Алатырская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2611,
     "uikTvd": "4214026151539",
+    "uikName": "УИК №2611",
     "tikTvd": "22120001076054",
-    "tikName": "Алатырская городская"
+    "tikName": "Алатырская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2612,
     "uikTvd": "4214026151540",
+    "uikName": "УИК №2612",
     "tikTvd": "22120001076054",
-    "tikName": "Алатырская городская"
+    "tikName": "Алатырская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2613,
     "uikTvd": "4214026151541",
+    "uikName": "УИК №2613",
     "tikTvd": "22120001076054",
-    "tikName": "Алатырская городская"
+    "tikName": "Алатырская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2614,
     "uikTvd": "4214026151542",
+    "uikName": "УИК №2614",
     "tikTvd": "22120001076054",
-    "tikName": "Алатырская городская"
+    "tikName": "Алатырская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2615,
     "uikTvd": "4214026151543",
+    "uikName": "УИК №2615",
     "tikTvd": "22120001076054",
-    "tikName": "Алатырская городская"
+    "tikName": "Алатырская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2616,
     "uikTvd": "4214026151544",
+    "uikName": "УИК №2616",
     "tikTvd": "22120001076054",
-    "tikName": "Алатырская городская"
+    "tikName": "Алатырская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2617,
     "uikTvd": "4214026151545",
+    "uikName": "УИК №2617",
     "tikTvd": "22120001076054",
-    "tikName": "Алатырская городская"
+    "tikName": "Алатырская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2618,
     "uikTvd": "4214026151546",
+    "uikName": "УИК №2618",
     "tikTvd": "22120001076054",
-    "tikName": "Алатырская городская"
+    "tikName": "Алатырская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2619,
     "uikTvd": "4214026151547",
+    "uikName": "УИК №2619",
     "tikTvd": "22120001076054",
-    "tikName": "Алатырская городская"
+    "tikName": "Алатырская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2620,
     "uikTvd": "4214026151548",
+    "uikName": "УИК №2620",
     "tikTvd": "22120001076054",
-    "tikName": "Алатырская городская"
+    "tikName": "Алатырская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2621,
     "uikTvd": "4214026151549",
+    "uikName": "УИК №2621",
     "tikTvd": "22120001076054",
-    "tikName": "Алатырская городская"
+    "tikName": "Алатырская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2622,
     "uikTvd": "4214026151550",
+    "uikName": "УИК №2622",
     "tikTvd": "22120001076054",
-    "tikName": "Алатырская городская"
+    "tikName": "Алатырская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2623,
     "uikTvd": "4214026151551",
+    "uikName": "УИК №2623",
     "tikTvd": "22120001076054",
-    "tikName": "Алатырская городская"
+    "tikName": "Алатырская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2624,
     "uikTvd": "4214026151552",
+    "uikName": "УИК №2624",
     "tikTvd": "22120001076054",
-    "tikName": "Алатырская городская"
+    "tikName": "Алатырская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2625,
     "uikTvd": "4214026151553",
+    "uikName": "УИК №2625",
     "tikTvd": "22120001076054",
-    "tikName": "Алатырская городская"
+    "tikName": "Алатырская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2626,
     "uikTvd": "4214026154847",
+    "uikName": "УИК №2626",
     "tikTvd": "22120001076054",
-    "tikName": "Алатырская городская"
+    "tikName": "Алатырская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2701,
     "uikTvd": "4214027315061",
+    "uikName": "УИК №2701",
     "tikTvd": "22120001076041",
-    "tikName": "Канашская"
+    "tikName": "Канашская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2702,
     "uikTvd": "4214027315062",
+    "uikName": "УИК №2702",
     "tikTvd": "22120001076041",
-    "tikName": "Канашская"
+    "tikName": "Канашская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2703,
     "uikTvd": "4214027315063",
+    "uikName": "УИК №2703",
     "tikTvd": "22120001076041",
-    "tikName": "Канашская"
+    "tikName": "Канашская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2704,
     "uikTvd": "4214027315064",
+    "uikName": "УИК №2704",
     "tikTvd": "22120001076041",
-    "tikName": "Канашская"
+    "tikName": "Канашская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2705,
     "uikTvd": "4214027315065",
+    "uikName": "УИК №2705",
     "tikTvd": "22120001076041",
-    "tikName": "Канашская"
+    "tikName": "Канашская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2706,
     "uikTvd": "4214027315066",
+    "uikName": "УИК №2706",
     "tikTvd": "22120001076041",
-    "tikName": "Канашская"
+    "tikName": "Канашская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2707,
     "uikTvd": "4214027315067",
+    "uikName": "УИК №2707",
     "tikTvd": "22120001076041",
-    "tikName": "Канашская"
+    "tikName": "Канашская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2708,
     "uikTvd": "4214027315068",
+    "uikName": "УИК №2708",
     "tikTvd": "22120001076041",
-    "tikName": "Канашская"
+    "tikName": "Канашская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2709,
     "uikTvd": "4214027315069",
+    "uikName": "УИК №2709",
     "tikTvd": "22120001076041",
-    "tikName": "Канашская"
+    "tikName": "Канашская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2710,
     "uikTvd": "4214027315070",
+    "uikName": "УИК №2710",
     "tikTvd": "22120001076041",
-    "tikName": "Канашская"
+    "tikName": "Канашская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2711,
     "uikTvd": "4214027315071",
+    "uikName": "УИК №2711",
     "tikTvd": "22120001076041",
-    "tikName": "Канашская"
+    "tikName": "Канашская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2712,
     "uikTvd": "4214027315072",
+    "uikName": "УИК №2712",
     "tikTvd": "22120001076041",
-    "tikName": "Канашская"
+    "tikName": "Канашская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2713,
     "uikTvd": "4214027315073",
+    "uikName": "УИК №2713",
     "tikTvd": "22120001076041",
-    "tikName": "Канашская"
+    "tikName": "Канашская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2714,
     "uikTvd": "4214027315074",
+    "uikName": "УИК №2714",
     "tikTvd": "22120001076041",
-    "tikName": "Канашская"
+    "tikName": "Канашская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2715,
     "uikTvd": "4214027315075",
+    "uikName": "УИК №2715",
     "tikTvd": "22120001076041",
-    "tikName": "Канашская"
+    "tikName": "Канашская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2716,
     "uikTvd": "4214027315076",
+    "uikName": "УИК №2716",
     "tikTvd": "22120001076041",
-    "tikName": "Канашская"
+    "tikName": "Канашская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2717,
     "uikTvd": "4214027315077",
+    "uikName": "УИК №2717",
     "tikTvd": "22120001076041",
-    "tikName": "Канашская"
+    "tikName": "Канашская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2718,
     "uikTvd": "4214027315078",
+    "uikName": "УИК №2718",
     "tikTvd": "22120001076041",
-    "tikName": "Канашская"
+    "tikName": "Канашская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2719,
     "uikTvd": "4214027315079",
+    "uikName": "УИК №2719",
     "tikTvd": "22120001076041",
-    "tikName": "Канашская"
+    "tikName": "Канашская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2720,
     "uikTvd": "4214027315080",
+    "uikName": "УИК №2720",
     "tikTvd": "22120001076041",
-    "tikName": "Канашская"
+    "tikName": "Канашская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2721,
     "uikTvd": "4214027315081",
+    "uikName": "УИК №2721",
     "tikTvd": "22120001076041",
-    "tikName": "Канашская"
+    "tikName": "Канашская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2722,
     "uikTvd": "4214027315082",
+    "uikName": "УИК №2722",
     "tikTvd": "22120001076041",
-    "tikName": "Канашская"
+    "tikName": "Канашская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2723,
     "uikTvd": "4214027315083",
+    "uikName": "УИК №2723",
     "tikTvd": "22120001076041",
-    "tikName": "Канашская"
+    "tikName": "Канашская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2724,
     "uikTvd": "4214027315084",
+    "uikName": "УИК №2724",
     "tikTvd": "22120001076041",
-    "tikName": "Канашская"
+    "tikName": "Канашская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2725,
     "uikTvd": "4214027315085",
+    "uikName": "УИК №2725",
     "tikTvd": "22120001076041",
-    "tikName": "Канашская"
+    "tikName": "Канашская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2726,
     "uikTvd": "4214027315086",
+    "uikName": "УИК №2726",
     "tikTvd": "22120001076041",
-    "tikName": "Канашская"
+    "tikName": "Канашская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2727,
     "uikTvd": "4214027315087",
+    "uikName": "УИК №2727",
     "tikTvd": "22120001076041",
-    "tikName": "Канашская"
+    "tikName": "Канашская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2728,
     "uikTvd": "4214027315088",
+    "uikName": "УИК №2728",
     "tikTvd": "22120001076041",
-    "tikName": "Канашская"
+    "tikName": "Канашская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2729,
     "uikTvd": "4214027315089",
+    "uikName": "УИК №2729",
     "tikTvd": "22120001076041",
-    "tikName": "Канашская"
+    "tikName": "Канашская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2730,
     "uikTvd": "4214027315090",
+    "uikName": "УИК №2730",
     "tikTvd": "22120001076041",
-    "tikName": "Канашская"
+    "tikName": "Канашская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2731,
     "uikTvd": "4214027315091",
+    "uikName": "УИК №2731",
     "tikTvd": "22120001076041",
-    "tikName": "Канашская"
+    "tikName": "Канашская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2732,
     "uikTvd": "4214027315092",
+    "uikName": "УИК №2732",
     "tikTvd": "22120001076041",
-    "tikName": "Канашская"
+    "tikName": "Канашская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2733,
     "uikTvd": "4214027315093",
+    "uikName": "УИК №2733",
     "tikTvd": "22120001076041",
-    "tikName": "Канашская"
+    "tikName": "Канашская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2734,
     "uikTvd": "4214027315094",
+    "uikName": "УИК №2734",
     "tikTvd": "22120001076041",
-    "tikName": "Канашская"
+    "tikName": "Канашская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2735,
     "uikTvd": "4214027315095",
+    "uikName": "УИК №2735",
     "tikTvd": "22120001076041",
-    "tikName": "Канашская"
+    "tikName": "Канашская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2736,
     "uikTvd": "4214027315096",
+    "uikName": "УИК №2736",
     "tikTvd": "22120001076041",
-    "tikName": "Канашская"
+    "tikName": "Канашская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2737,
     "uikTvd": "4214027315097",
+    "uikName": "УИК №2737",
     "tikTvd": "22120001076041",
-    "tikName": "Канашская"
+    "tikName": "Канашская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2738,
     "uikTvd": "4214027315098",
+    "uikName": "УИК №2738",
     "tikTvd": "22120001076041",
-    "tikName": "Канашская"
+    "tikName": "Канашская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2739,
     "uikTvd": "4214027315099",
+    "uikName": "УИК №2739",
     "tikTvd": "22120001076041",
-    "tikName": "Канашская"
+    "tikName": "Канашская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2740,
     "uikTvd": "4214027315100",
+    "uikName": "УИК №2740",
     "tikTvd": "22120001076041",
-    "tikName": "Канашская"
+    "tikName": "Канашская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2741,
     "uikTvd": "4214027315101",
+    "uikName": "УИК №2741",
     "tikTvd": "22120001076041",
-    "tikName": "Канашская"
+    "tikName": "Канашская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2742,
     "uikTvd": "4214027315102",
+    "uikName": "УИК №2742",
     "tikTvd": "22120001076041",
-    "tikName": "Канашская"
+    "tikName": "Канашская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2743,
     "uikTvd": "4214027315103",
+    "uikName": "УИК №2743",
     "tikTvd": "22120001076041",
-    "tikName": "Канашская"
+    "tikName": "Канашская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2744,
     "uikTvd": "4214027315104",
+    "uikName": "УИК №2744",
     "tikTvd": "22120001076041",
-    "tikName": "Канашская"
+    "tikName": "Канашская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2745,
     "uikTvd": "4214027315105",
+    "uikName": "УИК №2745",
     "tikTvd": "22120001076041",
-    "tikName": "Канашская"
+    "tikName": "Канашская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2746,
     "uikTvd": "4214027315106",
+    "uikName": "УИК №2746",
     "tikTvd": "22120001076041",
-    "tikName": "Канашская"
+    "tikName": "Канашская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2747,
     "uikTvd": "4214027315107",
+    "uikName": "УИК №2747",
     "tikTvd": "22120001076041",
-    "tikName": "Канашская"
+    "tikName": "Канашская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2748,
     "uikTvd": "4214027315108",
+    "uikName": "УИК №2748",
     "tikTvd": "22120001076041",
-    "tikName": "Канашская"
+    "tikName": "Канашская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2749,
     "uikTvd": "4214027315109",
+    "uikName": "УИК №2749",
     "tikTvd": "22120001076041",
-    "tikName": "Канашская"
+    "tikName": "Канашская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2750,
     "uikTvd": "4214027315110",
+    "uikName": "УИК №2750",
     "tikTvd": "22120001076041",
-    "tikName": "Канашская"
+    "tikName": "Канашская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2751,
     "uikTvd": "4214027315111",
+    "uikName": "УИК №2751",
     "tikTvd": "22120001076041",
-    "tikName": "Канашская"
+    "tikName": "Канашская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2752,
     "uikTvd": "4214027315112",
+    "uikName": "УИК №2752",
     "tikTvd": "22120001076041",
-    "tikName": "Канашская"
+    "tikName": "Канашская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2753,
     "uikTvd": "4214027315113",
+    "uikName": "УИК №2753",
     "tikTvd": "22120001076041",
-    "tikName": "Канашская"
+    "tikName": "Канашская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2754,
     "uikTvd": "4214027315114",
+    "uikName": "УИК №2754",
     "tikTvd": "22120001076041",
-    "tikName": "Канашская"
+    "tikName": "Канашская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2755,
     "uikTvd": "4214027315115",
+    "uikName": "УИК №2755",
     "tikTvd": "22120001076041",
-    "tikName": "Канашская"
+    "tikName": "Канашская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2756,
     "uikTvd": "4214027315116",
+    "uikName": "УИК №2756",
     "tikTvd": "22120001076041",
-    "tikName": "Канашская"
+    "tikName": "Канашская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2757,
     "uikTvd": "4214027315117",
+    "uikName": "УИК №2757",
     "tikTvd": "22120001076041",
-    "tikName": "Канашская"
+    "tikName": "Канашская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2758,
     "uikTvd": "4214027315118",
+    "uikName": "УИК №2758",
     "tikTvd": "22120001076041",
-    "tikName": "Канашская"
+    "tikName": "Канашская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2759,
     "uikTvd": "4214027315119",
+    "uikName": "УИК №2759",
     "tikTvd": "22120001076041",
-    "tikName": "Канашская"
+    "tikName": "Канашская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2760,
     "uikTvd": "4214027315120",
+    "uikName": "УИК №2760",
     "tikTvd": "22120001076041",
-    "tikName": "Канашская"
+    "tikName": "Канашская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2761,
     "uikTvd": "4214027315121",
+    "uikName": "УИК №2761",
     "tikTvd": "22120001076041",
-    "tikName": "Канашская"
+    "tikName": "Канашская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2762,
     "uikTvd": "4214027315122",
+    "uikName": "УИК №2762",
     "tikTvd": "22120001076041",
-    "tikName": "Канашская"
+    "tikName": "Канашская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2763,
     "uikTvd": "4214027315123",
+    "uikName": "УИК №2763",
     "tikTvd": "22120001076041",
-    "tikName": "Канашская"
+    "tikName": "Канашская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2764,
     "uikTvd": "4214027315124",
+    "uikName": "УИК №2764",
     "tikTvd": "22120001076041",
-    "tikName": "Канашская"
+    "tikName": "Канашская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2765,
     "uikTvd": "4214027315125",
+    "uikName": "УИК №2765",
     "tikTvd": "22120001076041",
-    "tikName": "Канашская"
+    "tikName": "Канашская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2766,
     "uikTvd": "4214027315126",
+    "uikName": "УИК №2766",
     "tikTvd": "22120001076041",
-    "tikName": "Канашская"
+    "tikName": "Канашская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2767,
     "uikTvd": "4214027315127",
+    "uikName": "УИК №2767",
     "tikTvd": "22120001076041",
-    "tikName": "Канашская"
+    "tikName": "Канашская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2768,
     "uikTvd": "4214027315128",
+    "uikName": "УИК №2768",
     "tikTvd": "22120001076041",
-    "tikName": "Канашская"
+    "tikName": "Канашская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2769,
     "uikTvd": "4214027315129",
+    "uikName": "УИК №2769",
     "tikTvd": "22120001076041",
-    "tikName": "Канашская"
+    "tikName": "Канашская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2770,
     "uikTvd": "4214027315130",
+    "uikName": "УИК №2770",
     "tikTvd": "22120001076041",
-    "tikName": "Канашская"
+    "tikName": "Канашская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100067795909",
+      "oikName": "Чувашская Республика – Чувашия – Канашский"
+    }
   },
   {
     "uikNumber": 2801,
     "uikTvd": "4214028136323",
+    "uikName": "УИК №2801",
     "tikTvd": "22120001076044",
-    "tikName": "Шумерлинская городская"
+    "tikName": "Шумерлинская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2802,
     "uikTvd": "4214028136324",
+    "uikName": "УИК №2802",
     "tikTvd": "22120001076044",
-    "tikName": "Шумерлинская городская"
+    "tikName": "Шумерлинская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2803,
     "uikTvd": "4214028136325",
+    "uikName": "УИК №2803",
     "tikTvd": "22120001076044",
-    "tikName": "Шумерлинская городская"
+    "tikName": "Шумерлинская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2804,
     "uikTvd": "4214028136326",
+    "uikName": "УИК №2804",
     "tikTvd": "22120001076044",
-    "tikName": "Шумерлинская городская"
+    "tikName": "Шумерлинская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2805,
     "uikTvd": "4214028136327",
+    "uikName": "УИК №2805",
     "tikTvd": "22120001076044",
-    "tikName": "Шумерлинская городская"
+    "tikName": "Шумерлинская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2806,
     "uikTvd": "4214028136328",
+    "uikName": "УИК №2806",
     "tikTvd": "22120001076044",
-    "tikName": "Шумерлинская городская"
+    "tikName": "Шумерлинская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2807,
     "uikTvd": "4214028136329",
+    "uikName": "УИК №2807",
     "tikTvd": "22120001076044",
-    "tikName": "Шумерлинская городская"
+    "tikName": "Шумерлинская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2808,
     "uikTvd": "4214028136330",
+    "uikName": "УИК №2808",
     "tikTvd": "22120001076044",
-    "tikName": "Шумерлинская городская"
+    "tikName": "Шумерлинская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2809,
     "uikTvd": "4214028136331",
+    "uikName": "УИК №2809",
     "tikTvd": "22120001076044",
-    "tikName": "Шумерлинская городская"
+    "tikName": "Шумерлинская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2810,
     "uikTvd": "4214028136332",
+    "uikName": "УИК №2810",
     "tikTvd": "22120001076044",
-    "tikName": "Шумерлинская городская"
+    "tikName": "Шумерлинская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2811,
     "uikTvd": "4214028136333",
+    "uikName": "УИК №2811",
     "tikTvd": "22120001076044",
-    "tikName": "Шумерлинская городская"
+    "tikName": "Шумерлинская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2812,
     "uikTvd": "4214028136334",
+    "uikName": "УИК №2812",
     "tikTvd": "22120001076044",
-    "tikName": "Шумерлинская городская"
+    "tikName": "Шумерлинская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2813,
     "uikTvd": "4214028136335",
+    "uikName": "УИК №2813",
     "tikTvd": "22120001076044",
-    "tikName": "Шумерлинская городская"
+    "tikName": "Шумерлинская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2814,
     "uikTvd": "4214028136336",
+    "uikName": "УИК №2814",
     "tikTvd": "22120001076044",
-    "tikName": "Шумерлинская городская"
+    "tikName": "Шумерлинская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2815,
     "uikTvd": "4214028136337",
+    "uikName": "УИК №2815",
     "tikTvd": "22120001076044",
-    "tikName": "Шумерлинская городская"
+    "tikName": "Шумерлинская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2816,
     "uikTvd": "4214028136338",
+    "uikName": "УИК №2816",
     "tikTvd": "22120001076044",
-    "tikName": "Шумерлинская городская"
+    "tikName": "Шумерлинская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2817,
     "uikTvd": "4214028136339",
+    "uikName": "УИК №2817",
     "tikTvd": "22120001076044",
-    "tikName": "Шумерлинская городская"
+    "tikName": "Шумерлинская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2818,
     "uikTvd": "4214028136340",
+    "uikName": "УИК №2818",
     "tikTvd": "22120001076044",
-    "tikName": "Шумерлинская городская"
+    "tikName": "Шумерлинская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2819,
     "uikTvd": "4214028136341",
+    "uikName": "УИК №2819",
     "tikTvd": "22120001076044",
-    "tikName": "Шумерлинская городская"
+    "tikName": "Шумерлинская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2820,
     "uikTvd": "4214028136342",
+    "uikName": "УИК №2820",
     "tikTvd": "22120001076044",
-    "tikName": "Шумерлинская городская"
+    "tikName": "Шумерлинская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2821,
     "uikTvd": "4214028136343",
+    "uikName": "УИК №2821",
     "tikTvd": "22120001076044",
-    "tikName": "Шумерлинская городская"
+    "tikName": "Шумерлинская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 2822,
     "uikTvd": "4214028136344",
+    "uikName": "УИК №2822",
     "tikTvd": "22120001076044",
-    "tikName": "Шумерлинская городская"
+    "tikName": "Шумерлинская городская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   },
   {
     "uikNumber": 8045,
     "uikTvd": "4214019179682",
+    "uikName": "УИК №8045",
     "tikTvd": "22120001076047",
-    "tikName": "Чебоксары, Ленинская"
+    "tikName": "Чебоксары, Ленинская",
+    "regionCode": "21",
+    "regionTvd": "100100067795908",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100067795910",
+      "oikName": "Чувашская Республика – Чувашия – Чебоксарский"
+    }
   }
 ] satisfies readonly UikTikRelation[];

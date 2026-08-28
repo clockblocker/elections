@@ -11,6 +11,14 @@ export const duma_2016_tic_464_region_35 = [
     "ballot": "single-member",
     "tikTvd": "2352000869370",
     "tikName": "Тотемская",
+    "regionCode": "35",
+    "regionTvd": "100100067795963",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100067795964",
+      "oikName": "Вологодская область – Вологодский"
+    },
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 19029,
@@ -95,6 +103,14 @@ export const duma_2016_tic_464_region_35 = [
     "ballot": "single-member",
     "tikTvd": "2352000869371",
     "tikName": "Тарногская",
+    "regionCode": "35",
+    "regionTvd": "100100067795963",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100067795964",
+      "oikName": "Вологодская область – Вологодский"
+    },
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 10574,
@@ -168,6 +184,14 @@ export const duma_2016_tic_464_region_35 = [
     "ballot": "single-member",
     "tikTvd": "2352000869372",
     "tikName": "Сямженская",
+    "regionCode": "35",
+    "regionTvd": "100100067795963",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100067795964",
+      "oikName": "Вологодская область – Вологодский"
+    },
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 7619,
@@ -239,6 +263,14 @@ export const duma_2016_tic_464_region_35 = [
     "ballot": "single-member",
     "tikTvd": "2352000869373",
     "tikName": "Сокольская",
+    "regionCode": "35",
+    "regionTvd": "100100067795963",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100067795964",
+      "oikName": "Вологодская область – Вологодский"
+    },
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 41176,
@@ -328,6 +360,14 @@ export const duma_2016_tic_464_region_35 = [
     "ballot": "single-member",
     "tikTvd": "2352000869374",
     "tikName": "Нюксенская",
+    "regionCode": "35",
+    "regionTvd": "100100067795963",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100067795964",
+      "oikName": "Вологодская область – Вологодский"
+    },
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 8144,
@@ -401,6 +441,14 @@ export const duma_2016_tic_464_region_35 = [
     "ballot": "single-member",
     "tikTvd": "2352000869375",
     "tikName": "Никольская",
+    "regionCode": "35",
+    "regionTvd": "100100067795963",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100067795964",
+      "oikName": "Вологодская область – Вологодский"
+    },
     "uikCount": 42,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 18051,
@@ -494,6 +542,14 @@ export const duma_2016_tic_464_region_35 = [
     "ballot": "single-member",
     "tikTvd": "2352000869376",
     "tikName": "Междуреченская",
+    "regionCode": "35",
+    "regionTvd": "100100067795963",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100067795964",
+      "oikName": "Вологодская область – Вологодский"
+    },
     "uikCount": 11,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 5280,
@@ -556,6 +612,14 @@ export const duma_2016_tic_464_region_35 = [
     "ballot": "single-member",
     "tikTvd": "2352000869377",
     "tikName": "Кичменгско-Городецкая",
+    "regionCode": "35",
+    "regionTvd": "100100067795963",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100067795964",
+      "oikName": "Вологодская область – Вологодский"
+    },
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 14434,
@@ -638,6 +702,14 @@ export const duma_2016_tic_464_region_35 = [
     "ballot": "single-member",
     "tikTvd": "2352000869378",
     "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "100100067795963",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100067795964",
+      "oikName": "Вологодская область – Вологодский"
+    },
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 27888,
@@ -729,6 +801,14 @@ export const duma_2016_tic_464_region_35 = [
     "ballot": "single-member",
     "tikTvd": "2352000869379",
     "tikName": "Вологодская",
+    "regionCode": "35",
+    "regionTvd": "100100067795963",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100067795964",
+      "oikName": "Вологодская область – Вологодский"
+    },
     "uikCount": 43,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 40389,
@@ -823,6 +903,14 @@ export const duma_2016_tic_464_region_35 = [
     "ballot": "single-member",
     "tikTvd": "2352000869380",
     "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "100100067795963",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100067795964",
+      "oikName": "Вологодская область – Вологодский"
+    },
     "uikCount": 140,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 244360,
@@ -1014,6 +1102,14 @@ export const duma_2016_tic_464_region_35 = [
     "ballot": "single-member",
     "tikTvd": "2352000869381",
     "tikName": "Верховажская",
+    "regionCode": "35",
+    "regionTvd": "100100067795963",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100067795964",
+      "oikName": "Вологодская область – Вологодский"
+    },
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 11632,
@@ -1093,6 +1189,14 @@ export const duma_2016_tic_464_region_35 = [
     "ballot": "single-member",
     "tikTvd": "2352000869382",
     "tikName": "Великоустюгская",
+    "regionCode": "35",
+    "regionTvd": "100100067795963",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100067795964",
+      "oikName": "Вологодская область – Вологодский"
+    },
     "uikCount": 53,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 46163,
@@ -1197,6 +1301,14 @@ export const duma_2016_tic_464_region_35 = [
     "ballot": "single-member",
     "tikTvd": "2352000869383",
     "tikName": "Бабушкинская",
+    "regionCode": "35",
+    "regionTvd": "100100067795963",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100067795964",
+      "oikName": "Вологодская область – Вологодский"
+    },
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 10810,
@@ -1270,6 +1382,14 @@ export const duma_2016_tic_464_region_35 = [
     "ballot": "single-member",
     "tikTvd": "2352000869384",
     "tikName": "Шекснинская",
+    "regionCode": "35",
+    "regionTvd": "100100067795963",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100067795965",
+      "oikName": "Вологодская область – Череповецкий"
+    },
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 23931,
@@ -1356,6 +1476,14 @@ export const duma_2016_tic_464_region_35 = [
     "ballot": "single-member",
     "tikTvd": "2352000869385",
     "tikName": "Череповецкая",
+    "regionCode": "35",
+    "regionTvd": "100100067795963",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100067795965",
+      "oikName": "Вологодская область – Череповецкий"
+    },
     "uikCount": 44,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 32237,
@@ -1452,6 +1580,14 @@ export const duma_2016_tic_464_region_35 = [
     "ballot": "single-member",
     "tikTvd": "2352000869386",
     "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "100100067795963",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100067795965",
+      "oikName": "Вологодская область – Череповецкий"
+    },
     "uikCount": 117,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 248895,
@@ -1621,6 +1757,14 @@ export const duma_2016_tic_464_region_35 = [
     "ballot": "single-member",
     "tikTvd": "2352000869387",
     "tikName": "Чагодощенская",
+    "regionCode": "35",
+    "regionTvd": "100100067795963",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100067795965",
+      "oikName": "Вологодская область – Череповецкий"
+    },
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 10789,
@@ -1694,6 +1838,14 @@ export const duma_2016_tic_464_region_35 = [
     "ballot": "single-member",
     "tikTvd": "2352000869388",
     "tikName": "Харовская",
+    "regionCode": "35",
+    "regionTvd": "100100067795963",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100067795965",
+      "oikName": "Вологодская область – Череповецкий"
+    },
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 13564,
@@ -1768,6 +1920,14 @@ export const duma_2016_tic_464_region_35 = [
     "ballot": "single-member",
     "tikTvd": "2352000869389",
     "tikName": "Устюженская",
+    "regionCode": "35",
+    "regionTvd": "100100067795963",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100067795965",
+      "oikName": "Вологодская область – Череповецкий"
+    },
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 13755,
@@ -1852,6 +2012,14 @@ export const duma_2016_tic_464_region_35 = [
     "ballot": "single-member",
     "tikTvd": "2352000869390",
     "tikName": "Усть-Кубинская",
+    "regionCode": "35",
+    "regionTvd": "100100067795963",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100067795965",
+      "oikName": "Вологодская область – Череповецкий"
+    },
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 6844,
@@ -1919,6 +2087,14 @@ export const duma_2016_tic_464_region_35 = [
     "ballot": "single-member",
     "tikTvd": "2352000869391",
     "tikName": "Кирилловская",
+    "regionCode": "35",
+    "regionTvd": "100100067795963",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100067795965",
+      "oikName": "Вологодская область – Череповецкий"
+    },
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 12939,
@@ -1992,6 +2168,14 @@ export const duma_2016_tic_464_region_35 = [
     "ballot": "single-member",
     "tikTvd": "2352000869392",
     "tikName": "Кадуйская",
+    "regionCode": "35",
+    "regionTvd": "100100067795963",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100067795965",
+      "oikName": "Вологодская область – Череповецкий"
+    },
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 14196,
@@ -2065,6 +2249,14 @@ export const duma_2016_tic_464_region_35 = [
     "ballot": "single-member",
     "tikTvd": "2352000869393",
     "tikName": "Вытегорская",
+    "regionCode": "35",
+    "regionTvd": "100100067795963",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100067795965",
+      "oikName": "Вологодская область – Череповецкий"
+    },
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 21244,
@@ -2156,6 +2348,14 @@ export const duma_2016_tic_464_region_35 = [
     "ballot": "single-member",
     "tikTvd": "2352000869394",
     "tikName": "Вожегодская",
+    "regionCode": "35",
+    "regionTvd": "100100067795963",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100067795965",
+      "oikName": "Вологодская область – Череповецкий"
+    },
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 12523,
@@ -2231,6 +2431,14 @@ export const duma_2016_tic_464_region_35 = [
     "ballot": "single-member",
     "tikTvd": "2352000869395",
     "tikName": "Вашкинская",
+    "regionCode": "35",
+    "regionTvd": "100100067795963",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100067795965",
+      "oikName": "Вологодская область – Череповецкий"
+    },
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 7093,
@@ -2299,6 +2507,14 @@ export const duma_2016_tic_464_region_35 = [
     "ballot": "single-member",
     "tikTvd": "2352000869396",
     "tikName": "Белозерская",
+    "regionCode": "35",
+    "regionTvd": "100100067795963",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100067795965",
+      "oikName": "Вологодская область – Череповецкий"
+    },
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 14382,
@@ -2375,6 +2591,14 @@ export const duma_2016_tic_464_region_35 = [
     "ballot": "single-member",
     "tikTvd": "2352000869397",
     "tikName": "Бабаевская",
+    "regionCode": "35",
+    "regionTvd": "100100067795963",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100067795965",
+      "oikName": "Вологодская область – Череповецкий"
+    },
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 17905,

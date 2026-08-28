@@ -11,6 +11,9 @@ export const duma_2007_tic_233_region_6 = [
     "ballot": "party",
     "tikTvd": "206200088577",
     "tikName": "Назрановская городская",
+    "regionCode": "6",
+    "regionTvd": "100100021960198",
+    "regionName": "Республика Ингушетия",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 42286,
@@ -91,6 +94,9 @@ export const duma_2007_tic_233_region_6 = [
     "ballot": "party",
     "tikTvd": "206200088578",
     "tikName": "Назрановская",
+    "regionCode": "6",
+    "regionTvd": "100100021960198",
+    "regionName": "Республика Ингушетия",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 33924,
@@ -167,6 +173,9 @@ export const duma_2007_tic_233_region_6 = [
     "ballot": "party",
     "tikTvd": "206200088579",
     "tikName": "Сунженская",
+    "regionCode": "6",
+    "regionTvd": "100100021960198",
+    "regionName": "Республика Ингушетия",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 33033,
@@ -248,6 +257,9 @@ export const duma_2007_tic_233_region_6 = [
     "ballot": "party",
     "tikTvd": "206200088580",
     "tikName": "Карабулакская",
+    "regionCode": "6",
+    "regionTvd": "100100021960198",
+    "regionName": "Республика Ингушетия",
     "uikCount": 6,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 10163,
@@ -308,6 +320,9 @@ export const duma_2007_tic_233_region_6 = [
     "ballot": "party",
     "tikTvd": "206200088581",
     "tikName": "Малгобекская",
+    "regionCode": "6",
+    "regionTvd": "100100021960198",
+    "regionName": "Республика Ингушетия",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 25422,
@@ -384,6 +399,9 @@ export const duma_2007_tic_233_region_6 = [
     "ballot": "party",
     "tikTvd": "206200088582",
     "tikName": "Джейрахская",
+    "regionCode": "6",
+    "regionTvd": "100100021960198",
+    "regionName": "Республика Ингушетия",
     "uikCount": 7,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 2161,
@@ -445,6 +463,9 @@ export const duma_2007_tic_233_region_6 = [
     "ballot": "party",
     "tikTvd": "206200088583",
     "tikName": "Малгобекская городская",
+    "regionCode": "6",
+    "regionTvd": "100100021960198",
+    "regionName": "Республика Ингушетия",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 17073,
@@ -514,6 +535,9 @@ export const duma_2007_tic_233_region_6 = [
     "ballot": "party",
     "tikTvd": "206200088584",
     "tikName": "Магасская",
+    "regionCode": "6",
+    "regionTvd": "100100021960198",
+    "regionName": "Республика Ингушетия",
     "uikCount": 1,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 213,

@@ -11,6 +11,9 @@ export const duma_2011_tic_233_region_28 = [
     "ballot": "party",
     "tikTvd": "2282000359943",
     "tikName": "пгт Прогресс",
+    "regionCode": "28",
+    "regionTvd": "100100028713360",
+    "regionName": "Амурская область",
     "uikCount": 10,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 12287,
@@ -70,6 +73,9 @@ export const duma_2011_tic_233_region_28 = [
     "ballot": "party",
     "tikTvd": "2282000359944",
     "tikName": "Шимановская городская",
+    "regionCode": "28",
+    "regionTvd": "100100028713360",
+    "regionName": "Амурская область",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 15630,
@@ -130,6 +136,9 @@ export const duma_2011_tic_233_region_28 = [
     "ballot": "party",
     "tikTvd": "2282000359945",
     "tikName": "Шимановская",
+    "regionCode": "28",
+    "regionTvd": "100100028713360",
+    "regionName": "Амурская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 5264,
@@ -198,6 +207,9 @@ export const duma_2011_tic_233_region_28 = [
     "ballot": "party",
     "tikTvd": "2282000359946",
     "tikName": "Углегорская поселковая",
+    "regionCode": "28",
+    "regionTvd": "100100028713360",
+    "regionName": "Амурская область",
     "uikCount": 2,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 3154,
@@ -249,6 +261,9 @@ export const duma_2011_tic_233_region_28 = [
     "ballot": "party",
     "tikTvd": "2282000359947",
     "tikName": "Тындинская городская",
+    "regionCode": "28",
+    "regionTvd": "100100028713360",
+    "regionName": "Амурская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 27742,
@@ -324,6 +339,9 @@ export const duma_2011_tic_233_region_28 = [
     "ballot": "party",
     "tikTvd": "2282000359948",
     "tikName": "Тындинская",
+    "regionCode": "28",
+    "regionTvd": "100100028713360",
+    "regionName": "Амурская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 12386,
@@ -394,6 +412,9 @@ export const duma_2011_tic_233_region_28 = [
     "ballot": "party",
     "tikTvd": "2282000359949",
     "tikName": "Тамбовская",
+    "regionCode": "28",
+    "regionTvd": "100100028713360",
+    "regionName": "Амурская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 18235,
@@ -472,6 +493,9 @@ export const duma_2011_tic_233_region_28 = [
     "ballot": "party",
     "tikTvd": "2282000359950",
     "tikName": "Сковородинская",
+    "regionCode": "28",
+    "regionTvd": "100100028713360",
+    "regionName": "Амурская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 22017,
@@ -547,6 +571,9 @@ export const duma_2011_tic_233_region_28 = [
     "ballot": "party",
     "tikTvd": "2282000359951",
     "tikName": "Серышевская",
+    "regionCode": "28",
+    "regionTvd": "100100028713360",
+    "regionName": "Амурская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 20339,
@@ -636,6 +663,9 @@ export const duma_2011_tic_233_region_28 = [
     "ballot": "party",
     "tikTvd": "2282000359952",
     "tikName": "Селемджинская",
+    "regionCode": "28",
+    "regionTvd": "100100028713360",
+    "regionName": "Амурская область",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 10151,
@@ -702,6 +732,9 @@ export const duma_2011_tic_233_region_28 = [
     "ballot": "party",
     "tikTvd": "2282000359953",
     "tikName": "Свободненская городская",
+    "regionCode": "28",
+    "regionTvd": "100100028713360",
+    "regionName": "Амурская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 43260,
@@ -776,6 +809,9 @@ export const duma_2011_tic_233_region_28 = [
     "ballot": "party",
     "tikTvd": "2282000359954",
     "tikName": "Свободненская",
+    "regionCode": "28",
+    "regionTvd": "100100028713360",
+    "regionName": "Амурская область",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 10630,
@@ -864,6 +900,9 @@ export const duma_2011_tic_233_region_28 = [
     "ballot": "party",
     "tikTvd": "2282000359955",
     "tikName": "Ромненская",
+    "regionCode": "28",
+    "regionTvd": "100100028713360",
+    "regionName": "Амурская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 8093,
@@ -934,6 +973,9 @@ export const duma_2011_tic_233_region_28 = [
     "ballot": "party",
     "tikTvd": "2282000359956",
     "tikName": "Райчихинская городская",
+    "regionCode": "28",
+    "regionTvd": "100100028713360",
+    "regionName": "Амурская область",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 18477,
@@ -995,6 +1037,9 @@ export const duma_2011_tic_233_region_28 = [
     "ballot": "party",
     "tikTvd": "2282000359957",
     "tikName": "Октябрьская",
+    "regionCode": "28",
+    "regionTvd": "100100028713360",
+    "regionName": "Амурская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 16596,
@@ -1078,6 +1123,9 @@ export const duma_2011_tic_233_region_28 = [
     "ballot": "party",
     "tikTvd": "2282000359958",
     "tikName": "Михайловская",
+    "regionCode": "28",
+    "regionTvd": "100100028713360",
+    "regionName": "Амурская область",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 11855,
@@ -1159,6 +1207,9 @@ export const duma_2011_tic_233_region_28 = [
     "ballot": "party",
     "tikTvd": "2282000359959",
     "tikName": "Мазановская",
+    "regionCode": "28",
+    "regionTvd": "100100028713360",
+    "regionName": "Амурская область",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 10520,
@@ -1245,6 +1296,9 @@ export const duma_2011_tic_233_region_28 = [
     "ballot": "party",
     "tikTvd": "2282000359960",
     "tikName": "Магдагачинская",
+    "regionCode": "28",
+    "regionTvd": "100100028713360",
+    "regionName": "Амурская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 20621,
@@ -1313,6 +1367,9 @@ export const duma_2011_tic_233_region_28 = [
     "ballot": "party",
     "tikTvd": "2282000359961",
     "tikName": "Константиновская",
+    "regionCode": "28",
+    "regionTvd": "100100028713360",
+    "regionName": "Амурская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 10879,
@@ -1380,6 +1437,9 @@ export const duma_2011_tic_233_region_28 = [
     "ballot": "party",
     "tikTvd": "2282000359962",
     "tikName": "Ивановская",
+    "regionCode": "28",
+    "regionTvd": "100100028713360",
+    "regionName": "Амурская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 20197,
@@ -1457,6 +1517,9 @@ export const duma_2011_tic_233_region_28 = [
     "ballot": "party",
     "tikTvd": "2282000359963",
     "tikName": "Зейская городская",
+    "regionCode": "28",
+    "regionTvd": "100100028713360",
+    "regionName": "Амурская область",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 19870,
@@ -1518,6 +1581,9 @@ export const duma_2011_tic_233_region_28 = [
     "ballot": "party",
     "tikTvd": "2282000359964",
     "tikName": "Зейская",
+    "regionCode": "28",
+    "regionTvd": "100100028713360",
+    "regionName": "Амурская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 14753,
@@ -1597,6 +1663,9 @@ export const duma_2011_tic_233_region_28 = [
     "ballot": "party",
     "tikTvd": "2282000359965",
     "tikName": "Завитинская",
+    "regionCode": "28",
+    "regionTvd": "100100028713360",
+    "regionName": "Амурская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 13686,
@@ -1671,6 +1740,9 @@ export const duma_2011_tic_233_region_28 = [
     "ballot": "party",
     "tikTvd": "2282000359966",
     "tikName": "Бурейская",
+    "regionCode": "28",
+    "regionTvd": "100100028713360",
+    "regionName": "Амурская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 20407,
@@ -1745,6 +1817,9 @@ export const duma_2011_tic_233_region_28 = [
     "ballot": "party",
     "tikTvd": "2282000359967",
     "tikName": "Благовещенская городская",
+    "regionCode": "28",
+    "regionTvd": "100100028713360",
+    "regionName": "Амурская область",
     "uikCount": 106,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 174127,
@@ -1900,6 +1975,9 @@ export const duma_2011_tic_233_region_28 = [
     "ballot": "party",
     "tikTvd": "2282000359968",
     "tikName": "Благовещенская",
+    "regionCode": "28",
+    "regionTvd": "100100028713360",
+    "regionName": "Амурская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 12644,
@@ -1975,6 +2053,9 @@ export const duma_2011_tic_233_region_28 = [
     "ballot": "party",
     "tikTvd": "2282000359969",
     "tikName": "Белогорская городская",
+    "regionCode": "28",
+    "regionTvd": "100100028713360",
+    "regionName": "Амурская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 52546,
@@ -2053,6 +2134,9 @@ export const duma_2011_tic_233_region_28 = [
     "ballot": "party",
     "tikTvd": "2282000359970",
     "tikName": "Белогорская",
+    "regionCode": "28",
+    "regionTvd": "100100028713360",
+    "regionName": "Амурская область",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 15118,
@@ -2137,6 +2221,9 @@ export const duma_2011_tic_233_region_28 = [
     "ballot": "party",
     "tikTvd": "2282000359971",
     "tikName": "Архаринская",
+    "regionCode": "28",
+    "regionTvd": "100100028713360",
+    "regionName": "Амурская область",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 14069,

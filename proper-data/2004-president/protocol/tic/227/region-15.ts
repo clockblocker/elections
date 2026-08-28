@@ -11,6 +11,9 @@ export const president_2004_tic_227_region_15 = [
     "ballot": "presidential",
     "tikTvd": "215200072982",
     "tikName": "Алагирская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список": 25573,
@@ -95,6 +98,9 @@ export const president_2004_tic_227_region_15 = [
     "ballot": "presidential",
     "tikTvd": "215200072983",
     "tikName": "Ардонская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в список": 18756,
@@ -157,6 +163,9 @@ export const president_2004_tic_227_region_15 = [
     "ballot": "presidential",
     "tikTvd": "215200072984",
     "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
     "uikCount": 57,
     "accounting": {
       "Число избирателей, внесенных в список": 120936,
@@ -262,6 +271,9 @@ export const president_2004_tic_227_region_15 = [
     "ballot": "presidential",
     "tikTvd": "215200072985",
     "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
     "uikCount": 64,
     "accounting": {
       "Число избирателей, внесенных в список": 89495,
@@ -374,6 +386,9 @@ export const president_2004_tic_227_region_15 = [
     "ballot": "presidential",
     "tikTvd": "215200072986",
     "tikName": "Дигорская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в список": 14440,
@@ -435,6 +450,9 @@ export const president_2004_tic_227_region_15 = [
     "ballot": "presidential",
     "tikTvd": "215200072987",
     "tikName": "Ирафская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список": 11030,
@@ -503,6 +521,9 @@ export const president_2004_tic_227_region_15 = [
     "ballot": "presidential",
     "tikTvd": "215200072988",
     "tikName": "Кировская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в список": 15289,
@@ -564,6 +585,9 @@ export const president_2004_tic_227_region_15 = [
     "ballot": "presidential",
     "tikTvd": "215200072989",
     "tikName": "Моздокская",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, внесенных в список": 61378,
@@ -655,6 +679,9 @@ export const president_2004_tic_227_region_15 = [
     "ballot": "presidential",
     "tikTvd": "215200072990",
     "tikName": "Правобережная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список": 33789,
@@ -723,6 +750,9 @@ export const president_2004_tic_227_region_15 = [
     "ballot": "presidential",
     "tikTvd": "215200072991",
     "tikName": "Пригородная",
+    "regionCode": "15",
+    "regionTvd": "1001000882958",
+    "regionName": "Республика Северная Осетия - Алания",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список": 53074,

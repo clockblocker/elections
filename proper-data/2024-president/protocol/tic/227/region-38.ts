@@ -11,6 +11,9 @@ export const president_2024_tic_227_region_38 = [
     "ballot": "presidential",
     "tikTvd": "23820002799330",
     "tikName": "Шелеховская",
+    "regionCode": "38",
+    "regionTvd": "100100339411232",
+    "regionName": "Иркутская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 54201,
@@ -82,6 +85,9 @@ export const president_2024_tic_227_region_38 = [
     "ballot": "presidential",
     "tikTvd": "23820002799331",
     "tikName": "Нукутская ",
+    "regionCode": "38",
+    "regionTvd": "100100339411232",
+    "regionName": "Иркутская область",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9964,
@@ -154,6 +160,9 @@ export const president_2024_tic_227_region_38 = [
     "ballot": "presidential",
     "tikTvd": "23820002799332",
     "tikName": "Балаганская",
+    "regionCode": "38",
+    "regionTvd": "100100339411232",
+    "regionName": "Иркутская область",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 6006,
@@ -207,6 +216,9 @@ export const president_2024_tic_227_region_38 = [
     "ballot": "presidential",
     "tikTvd": "23820002799333",
     "tikName": "Иркутская городская N 3 ",
+    "regionCode": "38",
+    "regionTvd": "100100339411232",
+    "regionName": "Иркутская область",
     "uikCount": 48,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 86944,
@@ -295,6 +307,9 @@ export const president_2024_tic_227_region_38 = [
     "ballot": "presidential",
     "tikTvd": "23820002799334",
     "tikName": "Черемховская городская",
+    "regionCode": "38",
+    "regionTvd": "100100339411232",
+    "regionName": "Иркутская область",
     "uikCount": 48,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 36708,
@@ -383,6 +398,9 @@ export const president_2024_tic_227_region_38 = [
     "ballot": "presidential",
     "tikTvd": "23820002799335",
     "tikName": "Киренская",
+    "regionCode": "38",
+    "regionTvd": "100100339411232",
+    "regionName": "Иркутская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 13954,
@@ -454,6 +472,9 @@ export const president_2024_tic_227_region_38 = [
     "ballot": "presidential",
     "tikTvd": "23820002799336",
     "tikName": "Заларинская",
+    "regionCode": "38",
+    "regionTvd": "100100339411232",
+    "regionName": "Иркутская область",
     "uikCount": 59,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 19719,
@@ -553,6 +574,9 @@ export const president_2024_tic_227_region_38 = [
     "ballot": "presidential",
     "tikTvd": "23820002799337",
     "tikName": "Казачинско-Ленская",
+    "regionCode": "38",
+    "regionTvd": "100100339411232",
+    "regionName": "Иркутская область",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 13109,
@@ -610,6 +634,9 @@ export const president_2024_tic_227_region_38 = [
     "ballot": "presidential",
     "tikTvd": "23820002799338",
     "tikName": "Свирская",
+    "regionCode": "38",
+    "regionTvd": "100100339411232",
+    "regionName": "Иркутская область",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10322,
@@ -666,6 +693,9 @@ export const president_2024_tic_227_region_38 = [
     "ballot": "presidential",
     "tikTvd": "23820002799339",
     "tikName": "Баяндаевская",
+    "regionCode": "38",
+    "regionTvd": "100100339411232",
+    "regionName": "Иркутская область",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 8483,
@@ -733,6 +763,9 @@ export const president_2024_tic_227_region_38 = [
     "ballot": "presidential",
     "tikTvd": "23820002799340",
     "tikName": "Осинская",
+    "regionCode": "38",
+    "regionTvd": "100100339411232",
+    "regionName": "Иркутская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 13862,
@@ -804,6 +837,9 @@ export const president_2024_tic_227_region_38 = [
     "ballot": "presidential",
     "tikTvd": "23820002799341",
     "tikName": "Мамско-Чуйская",
+    "regionCode": "38",
+    "regionTvd": "100100339411232",
+    "regionName": "Иркутская область",
     "uikCount": 7,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 2893,
@@ -851,6 +887,9 @@ export const president_2024_tic_227_region_38 = [
     "ballot": "presidential",
     "tikTvd": "23820002799342",
     "tikName": "Аларская",
+    "regionCode": "38",
+    "regionTvd": "100100339411232",
+    "regionName": "Иркутская область",
     "uikCount": 49,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 16021,
@@ -940,6 +979,9 @@ export const president_2024_tic_227_region_38 = [
     "ballot": "presidential",
     "tikTvd": "23820002799343",
     "tikName": "Нижнеудинская",
+    "regionCode": "38",
+    "regionTvd": "100100339411232",
+    "regionName": "Иркутская область",
     "uikCount": 83,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 44629,
@@ -1063,6 +1105,9 @@ export const president_2024_tic_227_region_38 = [
     "ballot": "presidential",
     "tikTvd": "23820002799344",
     "tikName": "Ангарская",
+    "regionCode": "38",
+    "regionTvd": "100100339411232",
+    "regionName": "Иркутская область",
     "uikCount": 103,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 176237,
@@ -1206,6 +1251,9 @@ export const president_2024_tic_227_region_38 = [
     "ballot": "presidential",
     "tikTvd": "23820002799345",
     "tikName": "Нижнеилимская",
+    "regionCode": "38",
+    "regionTvd": "100100339411232",
+    "regionName": "Иркутская область",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 36267,
@@ -1285,6 +1333,9 @@ export const president_2024_tic_227_region_38 = [
     "ballot": "presidential",
     "tikTvd": "23820002799346",
     "tikName": "Слюдянская",
+    "regionCode": "38",
+    "regionTvd": "100100339411232",
+    "regionName": "Иркутская область",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 29550,
@@ -1352,6 +1403,9 @@ export const president_2024_tic_227_region_38 = [
     "ballot": "presidential",
     "tikTvd": "23820002799347",
     "tikName": "Черемховская районная",
+    "regionCode": "38",
+    "regionTvd": "100100339411232",
+    "regionName": "Иркутская область",
     "uikCount": 51,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 20103,
@@ -1443,6 +1497,9 @@ export const president_2024_tic_227_region_38 = [
     "ballot": "presidential",
     "tikTvd": "23820002799348",
     "tikName": "Усть-Илимская городская",
+    "regionCode": "38",
+    "regionTvd": "100100339411232",
+    "regionName": "Иркутская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 57129,
@@ -1523,6 +1580,9 @@ export const president_2024_tic_227_region_38 = [
     "ballot": "presidential",
     "tikTvd": "23820002799349",
     "tikName": "Бодайбинская",
+    "regionCode": "38",
+    "regionTvd": "100100339411232",
+    "regionName": "Иркутская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 14532,
@@ -1586,6 +1646,9 @@ export const president_2024_tic_227_region_38 = [
     "ballot": "presidential",
     "tikTvd": "23820002799350",
     "tikName": "Усольская районная",
+    "regionCode": "38",
+    "regionTvd": "100100339411232",
+    "regionName": "Иркутская область",
     "uikCount": 45,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 34065,
@@ -1671,6 +1734,9 @@ export const president_2024_tic_227_region_38 = [
     "ballot": "presidential",
     "tikTvd": "23820002799351",
     "tikName": "Братская районная",
+    "regionCode": "38",
+    "regionTvd": "100100339411232",
+    "regionName": "Иркутская область",
     "uikCount": 55,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 37335,
@@ -1766,6 +1832,9 @@ export const president_2024_tic_227_region_38 = [
     "ballot": "presidential",
     "tikTvd": "23820002799352",
     "tikName": "Зиминская районная",
+    "regionCode": "38",
+    "regionTvd": "100100339411232",
+    "regionName": "Иркутская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 8912,
@@ -1832,6 +1901,9 @@ export const president_2024_tic_227_region_38 = [
     "ballot": "presidential",
     "tikTvd": "23820002799353",
     "tikName": "Катангская",
+    "regionCode": "38",
+    "regionTvd": "100100339411232",
+    "regionName": "Иркутская область",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 4231,
@@ -1885,6 +1957,9 @@ export const president_2024_tic_227_region_38 = [
     "ballot": "presidential",
     "tikTvd": "23820002799354",
     "tikName": "Тайшетская",
+    "regionCode": "38",
+    "regionTvd": "100100339411232",
+    "regionName": "Иркутская область",
     "uikCount": 83,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 53025,
@@ -2008,6 +2083,9 @@ export const president_2024_tic_227_region_38 = [
     "ballot": "presidential",
     "tikTvd": "23820002799355",
     "tikName": "Иркутская районная",
+    "regionCode": "38",
+    "regionTvd": "100100339411232",
+    "regionName": "Иркутская область",
     "uikCount": 98,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 134026,
@@ -2146,6 +2224,9 @@ export const president_2024_tic_227_region_38 = [
     "ballot": "presidential",
     "tikTvd": "23820002799356",
     "tikName": "Братская городская",
+    "regionCode": "38",
+    "regionTvd": "100100339411232",
+    "regionName": "Иркутская область",
     "uikCount": 96,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 158714,
@@ -2282,6 +2363,9 @@ export const president_2024_tic_227_region_38 = [
     "ballot": "presidential",
     "tikTvd": "23820002799357",
     "tikName": "Эхирит-Булагатская",
+    "regionCode": "38",
+    "regionTvd": "100100339411232",
+    "regionName": "Иркутская область",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 22131,
@@ -2364,6 +2448,9 @@ export const president_2024_tic_227_region_38 = [
     "ballot": "presidential",
     "tikTvd": "23820002799358",
     "tikName": "Иркутская городская N 2",
+    "regionCode": "38",
+    "regionTvd": "100100339411232",
+    "regionName": "Иркутская область",
     "uikCount": 61,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 117364,
@@ -2465,6 +2552,9 @@ export const president_2024_tic_227_region_38 = [
     "ballot": "presidential",
     "tikTvd": "23820002799359",
     "tikName": "Иркутская городская N 4",
+    "regionCode": "38",
+    "regionTvd": "100100339411232",
+    "regionName": "Иркутская область",
     "uikCount": 77,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 158997,
@@ -2582,6 +2672,9 @@ export const president_2024_tic_227_region_38 = [
     "ballot": "presidential",
     "tikTvd": "23820002799360",
     "tikName": "Жигаловская",
+    "regionCode": "38",
+    "regionTvd": "100100339411232",
+    "regionName": "Иркутская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 12161,
@@ -2648,6 +2741,9 @@ export const president_2024_tic_227_region_38 = [
     "ballot": "presidential",
     "tikTvd": "23820002799361",
     "tikName": "Иркутская городская N 1",
+    "regionCode": "38",
+    "regionTvd": "100100339411232",
+    "regionName": "Иркутская область",
     "uikCount": 63,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 113592,
@@ -2751,6 +2847,9 @@ export const president_2024_tic_227_region_38 = [
     "ballot": "presidential",
     "tikTvd": "23820002799362",
     "tikName": "Усть-Илимская районная",
+    "regionCode": "38",
+    "regionTvd": "100100339411232",
+    "regionName": "Иркутская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 11102,
@@ -2806,6 +2905,9 @@ export const president_2024_tic_227_region_38 = [
     "ballot": "presidential",
     "tikTvd": "23820002799363",
     "tikName": "Тулунская городская",
+    "regionCode": "38",
+    "regionTvd": "100100339411232",
+    "regionName": "Иркутская область",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 29283,
@@ -2887,6 +2989,9 @@ export const president_2024_tic_227_region_38 = [
     "ballot": "presidential",
     "tikTvd": "23820002799364",
     "tikName": "Куйтунская",
+    "regionCode": "38",
+    "regionTvd": "100100339411232",
+    "regionName": "Иркутская область",
     "uikCount": 67,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 20095,
@@ -2994,6 +3099,9 @@ export const president_2024_tic_227_region_38 = [
     "ballot": "presidential",
     "tikTvd": "23820002799365",
     "tikName": "Качугская",
+    "regionCode": "38",
+    "regionTvd": "100100339411232",
+    "regionName": "Иркутская область",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 12267,
@@ -3076,6 +3184,9 @@ export const president_2024_tic_227_region_38 = [
     "ballot": "presidential",
     "tikTvd": "23820002799366",
     "tikName": "Усть-Кутская",
+    "regionCode": "38",
+    "regionTvd": "100100339411232",
+    "regionName": "Иркутская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 38986,
@@ -3156,6 +3267,9 @@ export const president_2024_tic_227_region_38 = [
     "ballot": "presidential",
     "tikTvd": "23820002799367",
     "tikName": "Чунская",
+    "regionCode": "38",
+    "regionTvd": "100100339411232",
+    "regionName": "Иркутская область",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 23628,
@@ -3233,6 +3347,9 @@ export const president_2024_tic_227_region_38 = [
     "ballot": "presidential",
     "tikTvd": "23820002799368",
     "tikName": "Боханская",
+    "regionCode": "38",
+    "regionTvd": "100100339411232",
+    "regionName": "Иркутская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 15759,
@@ -3313,6 +3430,9 @@ export const president_2024_tic_227_region_38 = [
     "ballot": "presidential",
     "tikTvd": "23820002799369",
     "tikName": "Зиминская городская",
+    "regionCode": "38",
+    "regionTvd": "100100339411232",
+    "regionName": "Иркутская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 22289,
@@ -3374,6 +3494,9 @@ export const president_2024_tic_227_region_38 = [
     "ballot": "presidential",
     "tikTvd": "23820002799370",
     "tikName": "Саянская",
+    "regionCode": "38",
+    "regionTvd": "100100339411232",
+    "regionName": "Иркутская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 28428,
@@ -3436,6 +3559,9 @@ export const president_2024_tic_227_region_38 = [
     "ballot": "presidential",
     "tikTvd": "23820002799371",
     "tikName": "Усть-Удинская",
+    "regionCode": "38",
+    "regionTvd": "100100339411232",
+    "regionName": "Иркутская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9532,
@@ -3501,6 +3627,9 @@ export const president_2024_tic_227_region_38 = [
     "ballot": "presidential",
     "tikTvd": "23820002799372",
     "tikName": "Тулунская районная",
+    "regionCode": "38",
+    "regionTvd": "100100339411232",
+    "regionName": "Иркутская область",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 16263,
@@ -3583,6 +3712,9 @@ export const president_2024_tic_227_region_38 = [
     "ballot": "presidential",
     "tikTvd": "23820002799373",
     "tikName": "Усолье-Сибирская городская",
+    "regionCode": "38",
+    "regionTvd": "100100339411232",
+    "regionName": "Иркутская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 56147,
@@ -3663,6 +3795,9 @@ export const president_2024_tic_227_region_38 = [
     "ballot": "presidential",
     "tikTvd": "23820002799374",
     "tikName": "Ольхонская",
+    "regionCode": "38",
+    "regionTvd": "100100339411232",
+    "regionName": "Иркутская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 6717,

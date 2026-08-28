@@ -7,5953 +7,14881 @@ export const duma_2016_uik_to_tik_region_45 = [
   {
     "uikNumber": 1,
     "uikTvd": "4454009171534",
+    "uikName": "УИК №1",
     "tikTvd": "2452000794252",
-    "tikName": "Курган, Восточная"
+    "tikName": "Курган, Восточная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 2,
     "uikTvd": "4454009171535",
+    "uikName": "УИК №2",
     "tikTvd": "2452000794252",
-    "tikName": "Курган, Восточная"
+    "tikName": "Курган, Восточная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 3,
     "uikTvd": "4454009171536",
+    "uikName": "УИК №3",
     "tikTvd": "2452000794252",
-    "tikName": "Курган, Восточная"
+    "tikName": "Курган, Восточная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 4,
     "uikTvd": "4454009171537",
+    "uikName": "УИК №4",
     "tikTvd": "2452000794252",
-    "tikName": "Курган, Восточная"
+    "tikName": "Курган, Восточная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 5,
     "uikTvd": "4454009171538",
+    "uikName": "УИК №5",
     "tikTvd": "2452000794252",
-    "tikName": "Курган, Восточная"
+    "tikName": "Курган, Восточная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 6,
     "uikTvd": "4454009171539",
+    "uikName": "УИК №6",
     "tikTvd": "2452000794252",
-    "tikName": "Курган, Восточная"
+    "tikName": "Курган, Восточная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 7,
     "uikTvd": "4454009171540",
+    "uikName": "УИК №7",
     "tikTvd": "2452000794252",
-    "tikName": "Курган, Восточная"
+    "tikName": "Курган, Восточная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 8,
     "uikTvd": "4454009171541",
+    "uikName": "УИК №8",
     "tikTvd": "2452000794252",
-    "tikName": "Курган, Восточная"
+    "tikName": "Курган, Восточная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 9,
     "uikTvd": "4454009171542",
+    "uikName": "УИК №9",
     "tikTvd": "2452000794252",
-    "tikName": "Курган, Восточная"
+    "tikName": "Курган, Восточная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 10,
     "uikTvd": "4454009171543",
+    "uikName": "УИК №10",
     "tikTvd": "2452000794252",
-    "tikName": "Курган, Восточная"
+    "tikName": "Курган, Восточная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 11,
     "uikTvd": "4454009171544",
+    "uikName": "УИК №11",
     "tikTvd": "2452000794252",
-    "tikName": "Курган, Восточная"
+    "tikName": "Курган, Восточная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 12,
     "uikTvd": "4454009171545",
+    "uikName": "УИК №12",
     "tikTvd": "2452000794252",
-    "tikName": "Курган, Восточная"
+    "tikName": "Курган, Восточная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 13,
     "uikTvd": "4454009171546",
+    "uikName": "УИК №13",
     "tikTvd": "2452000794252",
-    "tikName": "Курган, Восточная"
+    "tikName": "Курган, Восточная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 14,
     "uikTvd": "4454009171547",
+    "uikName": "УИК №14",
     "tikTvd": "2452000794252",
-    "tikName": "Курган, Восточная"
+    "tikName": "Курган, Восточная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 15,
     "uikTvd": "4454009171548",
+    "uikName": "УИК №15",
     "tikTvd": "2452000794252",
-    "tikName": "Курган, Восточная"
+    "tikName": "Курган, Восточная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 16,
     "uikTvd": "4454009171549",
+    "uikName": "УИК №16",
     "tikTvd": "2452000794252",
-    "tikName": "Курган, Восточная"
+    "tikName": "Курган, Восточная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 17,
     "uikTvd": "4454009171550",
+    "uikName": "УИК №17",
     "tikTvd": "2452000794252",
-    "tikName": "Курган, Восточная"
+    "tikName": "Курган, Восточная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 18,
     "uikTvd": "4454009171551",
+    "uikName": "УИК №18",
     "tikTvd": "2452000794252",
-    "tikName": "Курган, Восточная"
+    "tikName": "Курган, Восточная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 19,
     "uikTvd": "4454009171552",
+    "uikName": "УИК №19",
     "tikTvd": "2452000794252",
-    "tikName": "Курган, Восточная"
+    "tikName": "Курган, Восточная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 20,
     "uikTvd": "4454009171553",
+    "uikName": "УИК №20",
     "tikTvd": "2452000794252",
-    "tikName": "Курган, Восточная"
+    "tikName": "Курган, Восточная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 21,
     "uikTvd": "4454009171554",
+    "uikName": "УИК №21",
     "tikTvd": "2452000794252",
-    "tikName": "Курган, Восточная"
+    "tikName": "Курган, Восточная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 22,
     "uikTvd": "4454009171555",
+    "uikName": "УИК №22",
     "tikTvd": "2452000794252",
-    "tikName": "Курган, Восточная"
+    "tikName": "Курган, Восточная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 23,
     "uikTvd": "4454009171556",
+    "uikName": "УИК №23",
     "tikTvd": "2452000794252",
-    "tikName": "Курган, Восточная"
+    "tikName": "Курган, Восточная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 24,
     "uikTvd": "4454009171557",
+    "uikName": "УИК №24",
     "tikTvd": "2452000794252",
-    "tikName": "Курган, Восточная"
+    "tikName": "Курган, Восточная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 25,
     "uikTvd": "4454009171558",
+    "uikName": "УИК №25",
     "tikTvd": "2452000794252",
-    "tikName": "Курган, Восточная"
+    "tikName": "Курган, Восточная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 26,
     "uikTvd": "4454009171559",
+    "uikName": "УИК №26",
     "tikTvd": "2452000794252",
-    "tikName": "Курган, Восточная"
+    "tikName": "Курган, Восточная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 27,
     "uikTvd": "4454009171560",
+    "uikName": "УИК №27",
     "tikTvd": "2452000794252",
-    "tikName": "Курган, Восточная"
+    "tikName": "Курган, Восточная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 28,
     "uikTvd": "4454009171561",
+    "uikName": "УИК №28",
     "tikTvd": "2452000794252",
-    "tikName": "Курган, Восточная"
+    "tikName": "Курган, Восточная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 29,
     "uikTvd": "4454009171562",
+    "uikName": "УИК №29",
     "tikTvd": "2452000794252",
-    "tikName": "Курган, Восточная"
+    "tikName": "Курган, Восточная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 30,
     "uikTvd": "4454009171563",
+    "uikName": "УИК №30",
     "tikTvd": "2452000794252",
-    "tikName": "Курган, Восточная"
+    "tikName": "Курган, Восточная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 31,
     "uikTvd": "4454009171564",
+    "uikName": "УИК №31",
     "tikTvd": "2452000794252",
-    "tikName": "Курган, Восточная"
+    "tikName": "Курган, Восточная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 32,
     "uikTvd": "4454009171565",
+    "uikName": "УИК №32",
     "tikTvd": "2452000794252",
-    "tikName": "Курган, Восточная"
+    "tikName": "Курган, Восточная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 33,
     "uikTvd": "4454009171566",
+    "uikName": "УИК №33",
     "tikTvd": "2452000794252",
-    "tikName": "Курган, Восточная"
+    "tikName": "Курган, Восточная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 34,
     "uikTvd": "4454009171567",
+    "uikName": "УИК №34",
     "tikTvd": "2452000794252",
-    "tikName": "Курган, Восточная"
+    "tikName": "Курган, Восточная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 35,
     "uikTvd": "4454009171568",
+    "uikName": "УИК №35",
     "tikTvd": "2452000794252",
-    "tikName": "Курган, Восточная"
+    "tikName": "Курган, Восточная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 36,
     "uikTvd": "4454009171569",
+    "uikName": "УИК №36",
     "tikTvd": "2452000794252",
-    "tikName": "Курган, Восточная"
+    "tikName": "Курган, Восточная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 37,
     "uikTvd": "4454009171570",
+    "uikName": "УИК №37",
     "tikTvd": "2452000794252",
-    "tikName": "Курган, Восточная"
+    "tikName": "Курган, Восточная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 38,
     "uikTvd": "4454009171571",
+    "uikName": "УИК №38",
     "tikTvd": "2452000794252",
-    "tikName": "Курган, Восточная"
+    "tikName": "Курган, Восточная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 39,
     "uikTvd": "4454009171572",
+    "uikName": "УИК №39",
     "tikTvd": "2452000794252",
-    "tikName": "Курган, Восточная"
+    "tikName": "Курган, Восточная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 40,
     "uikTvd": "4454009171573",
+    "uikName": "УИК №40",
     "tikTvd": "2452000794252",
-    "tikName": "Курган, Восточная"
+    "tikName": "Курган, Восточная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 41,
     "uikTvd": "4454009171574",
+    "uikName": "УИК №41",
     "tikTvd": "2452000794252",
-    "tikName": "Курган, Восточная"
+    "tikName": "Курган, Восточная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 42,
     "uikTvd": "4454009171575",
+    "uikName": "УИК №42",
     "tikTvd": "2452000794252",
-    "tikName": "Курган, Восточная"
+    "tikName": "Курган, Восточная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 43,
     "uikTvd": "4454009171576",
+    "uikName": "УИК №43",
     "tikTvd": "2452000794252",
-    "tikName": "Курган, Восточная"
+    "tikName": "Курган, Восточная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 44,
     "uikTvd": "4454009171577",
+    "uikName": "УИК №44",
     "tikTvd": "2452000794252",
-    "tikName": "Курган, Восточная"
+    "tikName": "Курган, Восточная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 45,
     "uikTvd": "4454009171578",
+    "uikName": "УИК №45",
     "tikTvd": "2452000794252",
-    "tikName": "Курган, Восточная"
+    "tikName": "Курган, Восточная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 46,
     "uikTvd": "4454009171579",
+    "uikName": "УИК №46",
     "tikTvd": "2452000794252",
-    "tikName": "Курган, Восточная"
+    "tikName": "Курган, Восточная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 47,
     "uikTvd": "4454009171580",
+    "uikName": "УИК №47",
     "tikTvd": "2452000794252",
-    "tikName": "Курган, Восточная"
+    "tikName": "Курган, Восточная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 48,
     "uikTvd": "4454009171581",
+    "uikName": "УИК №48",
     "tikTvd": "2452000794252",
-    "tikName": "Курган, Восточная"
+    "tikName": "Курган, Восточная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 49,
     "uikTvd": "4454009171582",
+    "uikName": "УИК №49",
     "tikTvd": "2452000794252",
-    "tikName": "Курган, Восточная"
+    "tikName": "Курган, Восточная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 50,
     "uikTvd": "4454009171583",
+    "uikName": "УИК №50",
     "tikTvd": "2452000794252",
-    "tikName": "Курган, Восточная"
+    "tikName": "Курган, Восточная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 51,
     "uikTvd": "4454009171584",
+    "uikName": "УИК №51",
     "tikTvd": "2452000794252",
-    "tikName": "Курган, Восточная"
+    "tikName": "Курган, Восточная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 52,
     "uikTvd": "4454009171585",
+    "uikName": "УИК №52",
     "tikTvd": "2452000794252",
-    "tikName": "Курган, Восточная"
+    "tikName": "Курган, Восточная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 53,
     "uikTvd": "4454009171586",
+    "uikName": "УИК №53",
     "tikTvd": "2452000794252",
-    "tikName": "Курган, Восточная"
+    "tikName": "Курган, Восточная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 54,
     "uikTvd": "4454027185115",
+    "uikName": "УИК №54",
     "tikTvd": "2452000794251",
-    "tikName": "Курган, Западная"
+    "tikName": "Курган, Западная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 55,
     "uikTvd": "4454027185116",
+    "uikName": "УИК №55",
     "tikTvd": "2452000794251",
-    "tikName": "Курган, Западная"
+    "tikName": "Курган, Западная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 56,
     "uikTvd": "4454027185117",
+    "uikName": "УИК №56",
     "tikTvd": "2452000794251",
-    "tikName": "Курган, Западная"
+    "tikName": "Курган, Западная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 57,
     "uikTvd": "4454027185118",
+    "uikName": "УИК №57",
     "tikTvd": "2452000794251",
-    "tikName": "Курган, Западная"
+    "tikName": "Курган, Западная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 58,
     "uikTvd": "4454027185119",
+    "uikName": "УИК №58",
     "tikTvd": "2452000794251",
-    "tikName": "Курган, Западная"
+    "tikName": "Курган, Западная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 59,
     "uikTvd": "4454027185120",
+    "uikName": "УИК №59",
     "tikTvd": "2452000794251",
-    "tikName": "Курган, Западная"
+    "tikName": "Курган, Западная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 60,
     "uikTvd": "4454027185121",
+    "uikName": "УИК №60",
     "tikTvd": "2452000794251",
-    "tikName": "Курган, Западная"
+    "tikName": "Курган, Западная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 61,
     "uikTvd": "4454027185122",
+    "uikName": "УИК №61",
     "tikTvd": "2452000794251",
-    "tikName": "Курган, Западная"
+    "tikName": "Курган, Западная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 62,
     "uikTvd": "4454027185123",
+    "uikName": "УИК №62",
     "tikTvd": "2452000794251",
-    "tikName": "Курган, Западная"
+    "tikName": "Курган, Западная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 63,
     "uikTvd": "4454027185124",
+    "uikName": "УИК №63",
     "tikTvd": "2452000794251",
-    "tikName": "Курган, Западная"
+    "tikName": "Курган, Западная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 64,
     "uikTvd": "4454027185125",
+    "uikName": "УИК №64",
     "tikTvd": "2452000794251",
-    "tikName": "Курган, Западная"
+    "tikName": "Курган, Западная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 65,
     "uikTvd": "4454027185126",
+    "uikName": "УИК №65",
     "tikTvd": "2452000794251",
-    "tikName": "Курган, Западная"
+    "tikName": "Курган, Западная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 66,
     "uikTvd": "4454027185127",
+    "uikName": "УИК №66",
     "tikTvd": "2452000794251",
-    "tikName": "Курган, Западная"
+    "tikName": "Курган, Западная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 67,
     "uikTvd": "4454027185128",
+    "uikName": "УИК №67",
     "tikTvd": "2452000794251",
-    "tikName": "Курган, Западная"
+    "tikName": "Курган, Западная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 68,
     "uikTvd": "4454027185129",
+    "uikName": "УИК №68",
     "tikTvd": "2452000794251",
-    "tikName": "Курган, Западная"
+    "tikName": "Курган, Западная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 69,
     "uikTvd": "4454027185130",
+    "uikName": "УИК №69",
     "tikTvd": "2452000794251",
-    "tikName": "Курган, Западная"
+    "tikName": "Курган, Западная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 70,
     "uikTvd": "4454027185131",
+    "uikName": "УИК №70",
     "tikTvd": "2452000794251",
-    "tikName": "Курган, Западная"
+    "tikName": "Курган, Западная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 71,
     "uikTvd": "4454027185132",
+    "uikName": "УИК №71",
     "tikTvd": "2452000794251",
-    "tikName": "Курган, Западная"
+    "tikName": "Курган, Западная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 72,
     "uikTvd": "4454027185133",
+    "uikName": "УИК №72",
     "tikTvd": "2452000794251",
-    "tikName": "Курган, Западная"
+    "tikName": "Курган, Западная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 73,
     "uikTvd": "4454027185134",
+    "uikName": "УИК №73",
     "tikTvd": "2452000794251",
-    "tikName": "Курган, Западная"
+    "tikName": "Курган, Западная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 74,
     "uikTvd": "4454009171587",
+    "uikName": "УИК №74",
     "tikTvd": "2452000794252",
-    "tikName": "Курган, Восточная"
+    "tikName": "Курган, Восточная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 75,
     "uikTvd": "4454009171588",
+    "uikName": "УИК №75",
     "tikTvd": "2452000794252",
-    "tikName": "Курган, Восточная"
+    "tikName": "Курган, Восточная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 76,
     "uikTvd": "4454027185135",
+    "uikName": "УИК №76",
     "tikTvd": "2452000794251",
-    "tikName": "Курган, Западная"
+    "tikName": "Курган, Западная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 77,
     "uikTvd": "4454027185136",
+    "uikName": "УИК №77",
     "tikTvd": "2452000794251",
-    "tikName": "Курган, Западная"
+    "tikName": "Курган, Западная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 78,
     "uikTvd": "4454027185137",
+    "uikName": "УИК №78",
     "tikTvd": "2452000794251",
-    "tikName": "Курган, Западная"
+    "tikName": "Курган, Западная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 79,
     "uikTvd": "4454027185138",
+    "uikName": "УИК №79",
     "tikTvd": "2452000794251",
-    "tikName": "Курган, Западная"
+    "tikName": "Курган, Западная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 80,
     "uikTvd": "4454027185139",
+    "uikName": "УИК №80",
     "tikTvd": "2452000794251",
-    "tikName": "Курган, Западная"
+    "tikName": "Курган, Западная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 81,
     "uikTvd": "4454027185140",
+    "uikName": "УИК №81",
     "tikTvd": "2452000794251",
-    "tikName": "Курган, Западная"
+    "tikName": "Курган, Западная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 82,
     "uikTvd": "4454027185141",
+    "uikName": "УИК №82",
     "tikTvd": "2452000794251",
-    "tikName": "Курган, Западная"
+    "tikName": "Курган, Западная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 83,
     "uikTvd": "4454027185142",
+    "uikName": "УИК №83",
     "tikTvd": "2452000794251",
-    "tikName": "Курган, Западная"
+    "tikName": "Курган, Западная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 84,
     "uikTvd": "4454027185143",
+    "uikName": "УИК №84",
     "tikTvd": "2452000794251",
-    "tikName": "Курган, Западная"
+    "tikName": "Курган, Западная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 85,
     "uikTvd": "4454027185144",
+    "uikName": "УИК №85",
     "tikTvd": "2452000794251",
-    "tikName": "Курган, Западная"
+    "tikName": "Курган, Западная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 86,
     "uikTvd": "4454027185145",
+    "uikName": "УИК №86",
     "tikTvd": "2452000794251",
-    "tikName": "Курган, Западная"
+    "tikName": "Курган, Западная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 87,
     "uikTvd": "4454027185146",
+    "uikName": "УИК №87",
     "tikTvd": "2452000794251",
-    "tikName": "Курган, Западная"
+    "tikName": "Курган, Западная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 88,
     "uikTvd": "4454027185147",
+    "uikName": "УИК №88",
     "tikTvd": "2452000794251",
-    "tikName": "Курган, Западная"
+    "tikName": "Курган, Западная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 89,
     "uikTvd": "4454027185148",
+    "uikName": "УИК №89",
     "tikTvd": "2452000794251",
-    "tikName": "Курган, Западная"
+    "tikName": "Курган, Западная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 90,
     "uikTvd": "4454027185149",
+    "uikName": "УИК №90",
     "tikTvd": "2452000794251",
-    "tikName": "Курган, Западная"
+    "tikName": "Курган, Западная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 91,
     "uikTvd": "4454027185150",
+    "uikName": "УИК №91",
     "tikTvd": "2452000794251",
-    "tikName": "Курган, Западная"
+    "tikName": "Курган, Западная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 92,
     "uikTvd": "4454027185151",
+    "uikName": "УИК №92",
     "tikTvd": "2452000794251",
-    "tikName": "Курган, Западная"
+    "tikName": "Курган, Западная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 93,
     "uikTvd": "4454027185152",
+    "uikName": "УИК №93",
     "tikTvd": "2452000794251",
-    "tikName": "Курган, Западная"
+    "tikName": "Курган, Западная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 94,
     "uikTvd": "4454027185153",
+    "uikName": "УИК №94",
     "tikTvd": "2452000794251",
-    "tikName": "Курган, Западная"
+    "tikName": "Курган, Западная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 95,
     "uikTvd": "4454027185154",
+    "uikName": "УИК №95",
     "tikTvd": "2452000794251",
-    "tikName": "Курган, Западная"
+    "tikName": "Курган, Западная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 96,
     "uikTvd": "4454027185155",
+    "uikName": "УИК №96",
     "tikTvd": "2452000794251",
-    "tikName": "Курган, Западная"
+    "tikName": "Курган, Западная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 97,
     "uikTvd": "4454027185156",
+    "uikName": "УИК №97",
     "tikTvd": "2452000794251",
-    "tikName": "Курган, Западная"
+    "tikName": "Курган, Западная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 98,
     "uikTvd": "4454027185196",
+    "uikName": "УИК №98",
     "tikTvd": "2452000794251",
-    "tikName": "Курган, Западная"
+    "tikName": "Курган, Западная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 99,
     "uikTvd": "4454027185197",
+    "uikName": "УИК №99",
     "tikTvd": "2452000794251",
-    "tikName": "Курган, Западная"
+    "tikName": "Курган, Западная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 100,
     "uikTvd": "4454027185198",
+    "uikName": "УИК №100",
     "tikTvd": "2452000794251",
-    "tikName": "Курган, Западная"
+    "tikName": "Курган, Западная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 101,
     "uikTvd": "4454027185199",
+    "uikName": "УИК №101",
     "tikTvd": "2452000794251",
-    "tikName": "Курган, Западная"
+    "tikName": "Курган, Западная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 102,
     "uikTvd": "4454027185200",
+    "uikName": "УИК №102",
     "tikTvd": "2452000794251",
-    "tikName": "Курган, Западная"
+    "tikName": "Курган, Западная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 103,
     "uikTvd": "4454027185201",
+    "uikName": "УИК №103",
     "tikTvd": "2452000794251",
-    "tikName": "Курган, Западная"
+    "tikName": "Курган, Западная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 104,
     "uikTvd": "4454027185202",
+    "uikName": "УИК №104",
     "tikTvd": "2452000794251",
-    "tikName": "Курган, Западная"
+    "tikName": "Курган, Западная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 105,
     "uikTvd": "4454027185203",
+    "uikName": "УИК №105",
     "tikTvd": "2452000794251",
-    "tikName": "Курган, Западная"
+    "tikName": "Курган, Западная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 106,
     "uikTvd": "4454027185204",
+    "uikName": "УИК №106",
     "tikTvd": "2452000794251",
-    "tikName": "Курган, Западная"
+    "tikName": "Курган, Западная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 107,
     "uikTvd": "4454027185205",
+    "uikName": "УИК №107",
     "tikTvd": "2452000794251",
-    "tikName": "Курган, Западная"
+    "tikName": "Курган, Западная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 108,
     "uikTvd": "4454027185206",
+    "uikName": "УИК №108",
     "tikTvd": "2452000794251",
-    "tikName": "Курган, Западная"
+    "tikName": "Курган, Западная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 109,
     "uikTvd": "4454027185207",
+    "uikName": "УИК №109",
     "tikTvd": "2452000794251",
-    "tikName": "Курган, Западная"
+    "tikName": "Курган, Западная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 110,
     "uikTvd": "4454027185208",
+    "uikName": "УИК №110",
     "tikTvd": "2452000794251",
-    "tikName": "Курган, Западная"
+    "tikName": "Курган, Западная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 111,
     "uikTvd": "4454027185209",
+    "uikName": "УИК №111",
     "tikTvd": "2452000794251",
-    "tikName": "Курган, Западная"
+    "tikName": "Курган, Западная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 112,
     "uikTvd": "4454027185210",
+    "uikName": "УИК №112",
     "tikTvd": "2452000794251",
-    "tikName": "Курган, Западная"
+    "tikName": "Курган, Западная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 113,
     "uikTvd": "4454027185211",
+    "uikName": "УИК №113",
     "tikTvd": "2452000794251",
-    "tikName": "Курган, Западная"
+    "tikName": "Курган, Западная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 114,
     "uikTvd": "4454027185212",
+    "uikName": "УИК №114",
     "tikTvd": "2452000794251",
-    "tikName": "Курган, Западная"
+    "tikName": "Курган, Западная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 115,
     "uikTvd": "4454027185213",
+    "uikName": "УИК №115",
     "tikTvd": "2452000794251",
-    "tikName": "Курган, Западная"
+    "tikName": "Курган, Западная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 116,
     "uikTvd": "4454027185214",
+    "uikName": "УИК №116",
     "tikTvd": "2452000794251",
-    "tikName": "Курган, Западная"
+    "tikName": "Курган, Западная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 117,
     "uikTvd": "4454009171589",
+    "uikName": "УИК №117",
     "tikTvd": "2452000794252",
-    "tikName": "Курган, Восточная"
+    "tikName": "Курган, Восточная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 118,
     "uikTvd": "4454009171590",
+    "uikName": "УИК №118",
     "tikTvd": "2452000794252",
-    "tikName": "Курган, Восточная"
+    "tikName": "Курган, Восточная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 119,
     "uikTvd": "4454009171591",
+    "uikName": "УИК №119",
     "tikTvd": "2452000794252",
-    "tikName": "Курган, Восточная"
+    "tikName": "Курган, Восточная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 120,
     "uikTvd": "4454009171592",
+    "uikName": "УИК №120",
     "tikTvd": "2452000794252",
-    "tikName": "Курган, Восточная"
+    "tikName": "Курган, Восточная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 121,
     "uikTvd": "4454009171593",
+    "uikName": "УИК №121",
     "tikTvd": "2452000794252",
-    "tikName": "Курган, Восточная"
+    "tikName": "Курган, Восточная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 122,
     "uikTvd": "4454009171594",
+    "uikName": "УИК №122",
     "tikTvd": "2452000794252",
-    "tikName": "Курган, Восточная"
+    "tikName": "Курган, Восточная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 123,
     "uikTvd": "4454009171595",
+    "uikName": "УИК №123",
     "tikTvd": "2452000794252",
-    "tikName": "Курган, Восточная"
+    "tikName": "Курган, Восточная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 124,
     "uikTvd": "4454009171596",
+    "uikName": "УИК №124",
     "tikTvd": "2452000794252",
-    "tikName": "Курган, Восточная"
+    "tikName": "Курган, Восточная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 125,
     "uikTvd": "4454009171597",
+    "uikName": "УИК №125",
     "tikTvd": "2452000794252",
-    "tikName": "Курган, Восточная"
+    "tikName": "Курган, Восточная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 126,
     "uikTvd": "4454009171598",
+    "uikName": "УИК №126",
     "tikTvd": "2452000794252",
-    "tikName": "Курган, Восточная"
+    "tikName": "Курган, Восточная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 127,
     "uikTvd": "4454009171599",
+    "uikName": "УИК №127",
     "tikTvd": "2452000794252",
-    "tikName": "Курган, Восточная"
+    "tikName": "Курган, Восточная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 128,
     "uikTvd": "4454009171600",
+    "uikName": "УИК №128",
     "tikTvd": "2452000794252",
-    "tikName": "Курган, Восточная"
+    "tikName": "Курган, Восточная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 129,
     "uikTvd": "4454009171601",
+    "uikName": "УИК №129",
     "tikTvd": "2452000794252",
-    "tikName": "Курган, Восточная"
+    "tikName": "Курган, Восточная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 130,
     "uikTvd": "4454027185215",
+    "uikName": "УИК №130",
     "tikTvd": "2452000794251",
-    "tikName": "Курган, Западная"
+    "tikName": "Курган, Западная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 131,
     "uikTvd": "4454009171602",
+    "uikName": "УИК №131",
     "tikTvd": "2452000794252",
-    "tikName": "Курган, Восточная"
+    "tikName": "Курган, Восточная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 132,
     "uikTvd": "4454009171603",
+    "uikName": "УИК №132",
     "tikTvd": "2452000794252",
-    "tikName": "Курган, Восточная"
+    "tikName": "Курган, Восточная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 133,
     "uikTvd": "4454027185216",
+    "uikName": "УИК №133",
     "tikTvd": "2452000794251",
-    "tikName": "Курган, Западная"
+    "tikName": "Курган, Западная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 134,
     "uikTvd": "4454009171604",
+    "uikName": "УИК №134",
     "tikTvd": "2452000794252",
-    "tikName": "Курган, Восточная"
+    "tikName": "Курган, Восточная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 135,
     "uikTvd": "4454027185217",
+    "uikName": "УИК №135",
     "tikTvd": "2452000794251",
-    "tikName": "Курган, Западная"
+    "tikName": "Курган, Западная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 136,
     "uikTvd": "4454027185218",
+    "uikName": "УИК №136",
     "tikTvd": "2452000794251",
-    "tikName": "Курган, Западная"
+    "tikName": "Курган, Западная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 137,
     "uikTvd": "4454009171605",
+    "uikName": "УИК №137",
     "tikTvd": "2452000794252",
-    "tikName": "Курган, Восточная"
+    "tikName": "Курган, Восточная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 138,
     "uikTvd": "4454027185219",
+    "uikName": "УИК №138",
     "tikTvd": "2452000794251",
-    "tikName": "Курган, Западная"
+    "tikName": "Курган, Западная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 139,
     "uikTvd": "4454027185175",
+    "uikName": "УИК №139",
     "tikTvd": "2452000794251",
-    "tikName": "Курган, Западная"
+    "tikName": "Курган, Западная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 140,
     "uikTvd": "4454027187436",
+    "uikName": "УИК №140",
     "tikTvd": "2452000794251",
-    "tikName": "Курган, Западная"
+    "tikName": "Курган, Западная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 141,
     "uikTvd": "4454026166176",
+    "uikName": "УИК №141",
     "tikTvd": "2452000794238",
-    "tikName": "Шадринская городская"
+    "tikName": "Шадринская городская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 142,
     "uikTvd": "4454026166177",
+    "uikName": "УИК №142",
     "tikTvd": "2452000794238",
-    "tikName": "Шадринская городская"
+    "tikName": "Шадринская городская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 143,
     "uikTvd": "4454026166178",
+    "uikName": "УИК №143",
     "tikTvd": "2452000794238",
-    "tikName": "Шадринская городская"
+    "tikName": "Шадринская городская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 144,
     "uikTvd": "4454026166179",
+    "uikName": "УИК №144",
     "tikTvd": "2452000794238",
-    "tikName": "Шадринская городская"
+    "tikName": "Шадринская городская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 145,
     "uikTvd": "4454026166180",
+    "uikName": "УИК №145",
     "tikTvd": "2452000794238",
-    "tikName": "Шадринская городская"
+    "tikName": "Шадринская городская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 146,
     "uikTvd": "4454026166181",
+    "uikName": "УИК №146",
     "tikTvd": "2452000794238",
-    "tikName": "Шадринская городская"
+    "tikName": "Шадринская городская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 147,
     "uikTvd": "4454026166182",
+    "uikName": "УИК №147",
     "tikTvd": "2452000794238",
-    "tikName": "Шадринская городская"
+    "tikName": "Шадринская городская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 148,
     "uikTvd": "4454026166183",
+    "uikName": "УИК №148",
     "tikTvd": "2452000794238",
-    "tikName": "Шадринская городская"
+    "tikName": "Шадринская городская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 149,
     "uikTvd": "4454026166184",
+    "uikName": "УИК №149",
     "tikTvd": "2452000794238",
-    "tikName": "Шадринская городская"
+    "tikName": "Шадринская городская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 150,
     "uikTvd": "4454026166185",
+    "uikName": "УИК №150",
     "tikTvd": "2452000794238",
-    "tikName": "Шадринская городская"
+    "tikName": "Шадринская городская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 151,
     "uikTvd": "4454026166186",
+    "uikName": "УИК №151",
     "tikTvd": "2452000794238",
-    "tikName": "Шадринская городская"
+    "tikName": "Шадринская городская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 152,
     "uikTvd": "4454026166187",
+    "uikName": "УИК №152",
     "tikTvd": "2452000794238",
-    "tikName": "Шадринская городская"
+    "tikName": "Шадринская городская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 153,
     "uikTvd": "4454026166188",
+    "uikName": "УИК №153",
     "tikTvd": "2452000794238",
-    "tikName": "Шадринская городская"
+    "tikName": "Шадринская городская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 154,
     "uikTvd": "4454026166189",
+    "uikName": "УИК №154",
     "tikTvd": "2452000794238",
-    "tikName": "Шадринская городская"
+    "tikName": "Шадринская городская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 155,
     "uikTvd": "4454026166190",
+    "uikName": "УИК №155",
     "tikTvd": "2452000794238",
-    "tikName": "Шадринская городская"
+    "tikName": "Шадринская городская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 156,
     "uikTvd": "4454026166191",
+    "uikName": "УИК №156",
     "tikTvd": "2452000794238",
-    "tikName": "Шадринская городская"
+    "tikName": "Шадринская городская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 157,
     "uikTvd": "4454026166192",
+    "uikName": "УИК №157",
     "tikTvd": "2452000794238",
-    "tikName": "Шадринская городская"
+    "tikName": "Шадринская городская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 158,
     "uikTvd": "4454026166193",
+    "uikName": "УИК №158",
     "tikTvd": "2452000794238",
-    "tikName": "Шадринская городская"
+    "tikName": "Шадринская городская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 159,
     "uikTvd": "4454026166194",
+    "uikName": "УИК №159",
     "tikTvd": "2452000794238",
-    "tikName": "Шадринская городская"
+    "tikName": "Шадринская городская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 160,
     "uikTvd": "4454026166195",
+    "uikName": "УИК №160",
     "tikTvd": "2452000794238",
-    "tikName": "Шадринская городская"
+    "tikName": "Шадринская городская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 161,
     "uikTvd": "4454026166196",
+    "uikName": "УИК №161",
     "tikTvd": "2452000794238",
-    "tikName": "Шадринская городская"
+    "tikName": "Шадринская городская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 162,
     "uikTvd": "4454026166197",
+    "uikName": "УИК №162",
     "tikTvd": "2452000794238",
-    "tikName": "Шадринская городская"
+    "tikName": "Шадринская городская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 163,
     "uikTvd": "4454026166198",
+    "uikName": "УИК №163",
     "tikTvd": "2452000794238",
-    "tikName": "Шадринская городская"
+    "tikName": "Шадринская городская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 164,
     "uikTvd": "4454026166199",
+    "uikName": "УИК №164",
     "tikTvd": "2452000794238",
-    "tikName": "Шадринская городская"
+    "tikName": "Шадринская городская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 165,
     "uikTvd": "4454026166200",
+    "uikName": "УИК №165",
     "tikTvd": "2452000794238",
-    "tikName": "Шадринская городская"
+    "tikName": "Шадринская городская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 166,
     "uikTvd": "4454026166201",
+    "uikName": "УИК №166",
     "tikTvd": "2452000794238",
-    "tikName": "Шадринская городская"
+    "tikName": "Шадринская городская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 167,
     "uikTvd": "4454026166202",
+    "uikName": "УИК №167",
     "tikTvd": "2452000794238",
-    "tikName": "Шадринская городская"
+    "tikName": "Шадринская городская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 168,
     "uikTvd": "4454026166203",
+    "uikName": "УИК №168",
     "tikTvd": "2452000794238",
-    "tikName": "Шадринская городская"
+    "tikName": "Шадринская городская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 169,
     "uikTvd": "4454026166204",
+    "uikName": "УИК №169",
     "tikTvd": "2452000794238",
-    "tikName": "Шадринская городская"
+    "tikName": "Шадринская городская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 170,
     "uikTvd": "4454026166205",
+    "uikName": "УИК №170",
     "tikTvd": "2452000794238",
-    "tikName": "Шадринская городская"
+    "tikName": "Шадринская городская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 171,
     "uikTvd": "4454026166206",
+    "uikName": "УИК №171",
     "tikTvd": "2452000794238",
-    "tikName": "Шадринская городская"
+    "tikName": "Шадринская городская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 172,
     "uikTvd": "4454026166207",
+    "uikName": "УИК №172",
     "tikTvd": "2452000794238",
-    "tikName": "Шадринская городская"
+    "tikName": "Шадринская городская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 173,
     "uikTvd": "4454026166208",
+    "uikName": "УИК №173",
     "tikTvd": "2452000794238",
-    "tikName": "Шадринская городская"
+    "tikName": "Шадринская городская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 174,
     "uikTvd": "4454001148759",
+    "uikName": "УИК №174",
     "tikTvd": "2452000794260",
-    "tikName": "Альменевская"
+    "tikName": "Альменевская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 175,
     "uikTvd": "4454001148760",
+    "uikName": "УИК №175",
     "tikTvd": "2452000794260",
-    "tikName": "Альменевская"
+    "tikName": "Альменевская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 176,
     "uikTvd": "4454001148761",
+    "uikName": "УИК №176",
     "tikTvd": "2452000794260",
-    "tikName": "Альменевская"
+    "tikName": "Альменевская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 177,
     "uikTvd": "4454001148762",
+    "uikName": "УИК №177",
     "tikTvd": "2452000794260",
-    "tikName": "Альменевская"
+    "tikName": "Альменевская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 178,
     "uikTvd": "4454001148763",
+    "uikName": "УИК №178",
     "tikTvd": "2452000794260",
-    "tikName": "Альменевская"
+    "tikName": "Альменевская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 179,
     "uikTvd": "4454001148764",
+    "uikName": "УИК №179",
     "tikTvd": "2452000794260",
-    "tikName": "Альменевская"
+    "tikName": "Альменевская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 180,
     "uikTvd": "4454001148765",
+    "uikName": "УИК №180",
     "tikTvd": "2452000794260",
-    "tikName": "Альменевская"
+    "tikName": "Альменевская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 181,
     "uikTvd": "4454001148766",
+    "uikName": "УИК №181",
     "tikTvd": "2452000794260",
-    "tikName": "Альменевская"
+    "tikName": "Альменевская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 182,
     "uikTvd": "4454001148767",
+    "uikName": "УИК №182",
     "tikTvd": "2452000794260",
-    "tikName": "Альменевская"
+    "tikName": "Альменевская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 183,
     "uikTvd": "4454026166209",
+    "uikName": "УИК №183",
     "tikTvd": "2452000794238",
-    "tikName": "Шадринская городская"
+    "tikName": "Шадринская городская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 184,
     "uikTvd": "4454001148768",
+    "uikName": "УИК №184",
     "tikTvd": "2452000794260",
-    "tikName": "Альменевская"
+    "tikName": "Альменевская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 185,
     "uikTvd": "4454001148769",
+    "uikName": "УИК №185",
     "tikTvd": "2452000794260",
-    "tikName": "Альменевская"
+    "tikName": "Альменевская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 186,
     "uikTvd": "4454001148770",
+    "uikName": "УИК №186",
     "tikTvd": "2452000794260",
-    "tikName": "Альменевская"
+    "tikName": "Альменевская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 187,
     "uikTvd": "4454001148771",
+    "uikName": "УИК №187",
     "tikTvd": "2452000794260",
-    "tikName": "Альменевская"
+    "tikName": "Альменевская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 188,
     "uikTvd": "4454001148772",
+    "uikName": "УИК №188",
     "tikTvd": "2452000794260",
-    "tikName": "Альменевская"
+    "tikName": "Альменевская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 189,
     "uikTvd": "4454001148773",
+    "uikName": "УИК №189",
     "tikTvd": "2452000794260",
-    "tikName": "Альменевская"
+    "tikName": "Альменевская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 190,
     "uikTvd": "4454001148774",
+    "uikName": "УИК №190",
     "tikTvd": "2452000794260",
-    "tikName": "Альменевская"
+    "tikName": "Альменевская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 191,
     "uikTvd": "4454001148775",
+    "uikName": "УИК №191",
     "tikTvd": "2452000794260",
-    "tikName": "Альменевская"
+    "tikName": "Альменевская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 192,
     "uikTvd": "4454001148776",
+    "uikName": "УИК №192",
     "tikTvd": "2452000794260",
-    "tikName": "Альменевская"
+    "tikName": "Альменевская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 194,
     "uikTvd": "4454001148777",
+    "uikName": "УИК №194",
     "tikTvd": "2452000794260",
-    "tikName": "Альменевская"
+    "tikName": "Альменевская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 195,
     "uikTvd": "4454001148778",
+    "uikName": "УИК №195",
     "tikTvd": "2452000794260",
-    "tikName": "Альменевская"
+    "tikName": "Альменевская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 196,
     "uikTvd": "4454001148779",
+    "uikName": "УИК №196",
     "tikTvd": "2452000794260",
-    "tikName": "Альменевская"
+    "tikName": "Альменевская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 197,
     "uikTvd": "4454001148780",
+    "uikName": "УИК №197",
     "tikTvd": "2452000794260",
-    "tikName": "Альменевская"
+    "tikName": "Альменевская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 198,
     "uikTvd": "4454001148781",
+    "uikName": "УИК №198",
     "tikTvd": "2452000794260",
-    "tikName": "Альменевская"
+    "tikName": "Альменевская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 199,
     "uikTvd": "4454001148782",
+    "uikName": "УИК №199",
     "tikTvd": "2452000794260",
-    "tikName": "Альменевская"
+    "tikName": "Альменевская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 200,
     "uikTvd": "4454001148783",
+    "uikName": "УИК №200",
     "tikTvd": "2452000794260",
-    "tikName": "Альменевская"
+    "tikName": "Альменевская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 201,
     "uikTvd": "4454001148784",
+    "uikName": "УИК №201",
     "tikTvd": "2452000794260",
-    "tikName": "Альменевская"
+    "tikName": "Альменевская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 202,
     "uikTvd": "4454001148785",
+    "uikName": "УИК №202",
     "tikTvd": "2452000794260",
-    "tikName": "Альменевская"
+    "tikName": "Альменевская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 203,
     "uikTvd": "4454001148786",
+    "uikName": "УИК №203",
     "tikTvd": "2452000794260",
-    "tikName": "Альменевская"
+    "tikName": "Альменевская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 204,
     "uikTvd": "4454001148787",
+    "uikName": "УИК №204",
     "tikTvd": "2452000794260",
-    "tikName": "Альменевская"
+    "tikName": "Альменевская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 206,
     "uikTvd": "4454002194532",
+    "uikName": "УИК №206",
     "tikTvd": "2452000794259",
-    "tikName": "Белозерская"
+    "tikName": "Белозерская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 207,
     "uikTvd": "4454002194533",
+    "uikName": "УИК №207",
     "tikTvd": "2452000794259",
-    "tikName": "Белозерская"
+    "tikName": "Белозерская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 208,
     "uikTvd": "4454002194534",
+    "uikName": "УИК №208",
     "tikTvd": "2452000794259",
-    "tikName": "Белозерская"
+    "tikName": "Белозерская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 209,
     "uikTvd": "4454002194535",
+    "uikName": "УИК №209",
     "tikTvd": "2452000794259",
-    "tikName": "Белозерская"
+    "tikName": "Белозерская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 210,
     "uikTvd": "4454002194536",
+    "uikName": "УИК №210",
     "tikTvd": "2452000794259",
-    "tikName": "Белозерская"
+    "tikName": "Белозерская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 212,
     "uikTvd": "4454002194537",
+    "uikName": "УИК №212",
     "tikTvd": "2452000794259",
-    "tikName": "Белозерская"
+    "tikName": "Белозерская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 213,
     "uikTvd": "4454002194538",
+    "uikName": "УИК №213",
     "tikTvd": "2452000794259",
-    "tikName": "Белозерская"
+    "tikName": "Белозерская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 214,
     "uikTvd": "4454002194539",
+    "uikName": "УИК №214",
     "tikTvd": "2452000794259",
-    "tikName": "Белозерская"
+    "tikName": "Белозерская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 215,
     "uikTvd": "4454002194540",
+    "uikName": "УИК №215",
     "tikTvd": "2452000794259",
-    "tikName": "Белозерская"
+    "tikName": "Белозерская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 217,
     "uikTvd": "4454002194541",
+    "uikName": "УИК №217",
     "tikTvd": "2452000794259",
-    "tikName": "Белозерская"
+    "tikName": "Белозерская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 218,
     "uikTvd": "4454002194542",
+    "uikName": "УИК №218",
     "tikTvd": "2452000794259",
-    "tikName": "Белозерская"
+    "tikName": "Белозерская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 219,
     "uikTvd": "4454002194543",
+    "uikName": "УИК №219",
     "tikTvd": "2452000794259",
-    "tikName": "Белозерская"
+    "tikName": "Белозерская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 221,
     "uikTvd": "4454002194544",
+    "uikName": "УИК №221",
     "tikTvd": "2452000794259",
-    "tikName": "Белозерская"
+    "tikName": "Белозерская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 222,
     "uikTvd": "4454002194545",
+    "uikName": "УИК №222",
     "tikTvd": "2452000794259",
-    "tikName": "Белозерская"
+    "tikName": "Белозерская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 223,
     "uikTvd": "4454002194546",
+    "uikName": "УИК №223",
     "tikTvd": "2452000794259",
-    "tikName": "Белозерская"
+    "tikName": "Белозерская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 224,
     "uikTvd": "4454002194547",
+    "uikName": "УИК №224",
     "tikTvd": "2452000794259",
-    "tikName": "Белозерская"
+    "tikName": "Белозерская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 226,
     "uikTvd": "4454002194548",
+    "uikName": "УИК №226",
     "tikTvd": "2452000794259",
-    "tikName": "Белозерская"
+    "tikName": "Белозерская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 227,
     "uikTvd": "4454002194549",
+    "uikName": "УИК №227",
     "tikTvd": "2452000794259",
-    "tikName": "Белозерская"
+    "tikName": "Белозерская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 230,
     "uikTvd": "4454002194550",
+    "uikName": "УИК №230",
     "tikTvd": "2452000794259",
-    "tikName": "Белозерская"
+    "tikName": "Белозерская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 232,
     "uikTvd": "4454002194551",
+    "uikName": "УИК №232",
     "tikTvd": "2452000794259",
-    "tikName": "Белозерская"
+    "tikName": "Белозерская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 234,
     "uikTvd": "4454002194552",
+    "uikName": "УИК №234",
     "tikTvd": "2452000794259",
-    "tikName": "Белозерская"
+    "tikName": "Белозерская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 236,
     "uikTvd": "4454002194553",
+    "uikName": "УИК №236",
     "tikTvd": "2452000794259",
-    "tikName": "Белозерская"
+    "tikName": "Белозерская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 238,
     "uikTvd": "4454002194554",
+    "uikName": "УИК №238",
     "tikTvd": "2452000794259",
-    "tikName": "Белозерская"
+    "tikName": "Белозерская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 239,
     "uikTvd": "4454002194555",
+    "uikName": "УИК №239",
     "tikTvd": "2452000794259",
-    "tikName": "Белозерская"
+    "tikName": "Белозерская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 241,
     "uikTvd": "4454002194556",
+    "uikName": "УИК №241",
     "tikTvd": "2452000794259",
-    "tikName": "Белозерская"
+    "tikName": "Белозерская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 242,
     "uikTvd": "4454002194557",
+    "uikName": "УИК №242",
     "tikTvd": "2452000794259",
-    "tikName": "Белозерская"
+    "tikName": "Белозерская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 243,
     "uikTvd": "4454002194558",
+    "uikName": "УИК №243",
     "tikTvd": "2452000794259",
-    "tikName": "Белозерская"
+    "tikName": "Белозерская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 244,
     "uikTvd": "4454002194559",
+    "uikName": "УИК №244",
     "tikTvd": "2452000794259",
-    "tikName": "Белозерская"
+    "tikName": "Белозерская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 245,
     "uikTvd": "4454002194560",
+    "uikName": "УИК №245",
     "tikTvd": "2452000794259",
-    "tikName": "Белозерская"
+    "tikName": "Белозерская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 247,
     "uikTvd": "4454002194561",
+    "uikName": "УИК №247",
     "tikTvd": "2452000794259",
-    "tikName": "Белозерская"
+    "tikName": "Белозерская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 249,
     "uikTvd": "4454002194562",
+    "uikName": "УИК №249",
     "tikTvd": "2452000794259",
-    "tikName": "Белозерская"
+    "tikName": "Белозерская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 250,
     "uikTvd": "4454002194563",
+    "uikName": "УИК №250",
     "tikTvd": "2452000794259",
-    "tikName": "Белозерская"
+    "tikName": "Белозерская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 251,
     "uikTvd": "4454002194564",
+    "uikName": "УИК №251",
     "tikTvd": "2452000794259",
-    "tikName": "Белозерская"
+    "tikName": "Белозерская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 252,
     "uikTvd": "4454002194565",
+    "uikName": "УИК №252",
     "tikTvd": "2452000794259",
-    "tikName": "Белозерская"
+    "tikName": "Белозерская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 254,
     "uikTvd": "4454002194566",
+    "uikName": "УИК №254",
     "tikTvd": "2452000794259",
-    "tikName": "Белозерская"
+    "tikName": "Белозерская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 255,
     "uikTvd": "4454002194567",
+    "uikName": "УИК №255",
     "tikTvd": "2452000794259",
-    "tikName": "Белозерская"
+    "tikName": "Белозерская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 256,
     "uikTvd": "4454003195578",
+    "uikName": "УИК №256",
     "tikTvd": "2452000794258",
-    "tikName": "Варгашинская"
+    "tikName": "Варгашинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 257,
     "uikTvd": "4454003195579",
+    "uikName": "УИК №257",
     "tikTvd": "2452000794258",
-    "tikName": "Варгашинская"
+    "tikName": "Варгашинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 258,
     "uikTvd": "4454003195580",
+    "uikName": "УИК №258",
     "tikTvd": "2452000794258",
-    "tikName": "Варгашинская"
+    "tikName": "Варгашинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 259,
     "uikTvd": "4454003195581",
+    "uikName": "УИК №259",
     "tikTvd": "2452000794258",
-    "tikName": "Варгашинская"
+    "tikName": "Варгашинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 260,
     "uikTvd": "4454003195582",
+    "uikName": "УИК №260",
     "tikTvd": "2452000794258",
-    "tikName": "Варгашинская"
+    "tikName": "Варгашинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 261,
     "uikTvd": "4454003195583",
+    "uikName": "УИК №261",
     "tikTvd": "2452000794258",
-    "tikName": "Варгашинская"
+    "tikName": "Варгашинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 262,
     "uikTvd": "4454003195584",
+    "uikName": "УИК №262",
     "tikTvd": "2452000794258",
-    "tikName": "Варгашинская"
+    "tikName": "Варгашинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 263,
     "uikTvd": "4454003195585",
+    "uikName": "УИК №263",
     "tikTvd": "2452000794258",
-    "tikName": "Варгашинская"
+    "tikName": "Варгашинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 264,
     "uikTvd": "4454003195586",
+    "uikName": "УИК №264",
     "tikTvd": "2452000794258",
-    "tikName": "Варгашинская"
+    "tikName": "Варгашинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 265,
     "uikTvd": "4454003195587",
+    "uikName": "УИК №265",
     "tikTvd": "2452000794258",
-    "tikName": "Варгашинская"
+    "tikName": "Варгашинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 266,
     "uikTvd": "4454003195588",
+    "uikName": "УИК №266",
     "tikTvd": "2452000794258",
-    "tikName": "Варгашинская"
+    "tikName": "Варгашинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 267,
     "uikTvd": "4454003195589",
+    "uikName": "УИК №267",
     "tikTvd": "2452000794258",
-    "tikName": "Варгашинская"
+    "tikName": "Варгашинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 268,
     "uikTvd": "4454003195590",
+    "uikName": "УИК №268",
     "tikTvd": "2452000794258",
-    "tikName": "Варгашинская"
+    "tikName": "Варгашинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 269,
     "uikTvd": "4454003195591",
+    "uikName": "УИК №269",
     "tikTvd": "2452000794258",
-    "tikName": "Варгашинская"
+    "tikName": "Варгашинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 270,
     "uikTvd": "4454003195592",
+    "uikName": "УИК №270",
     "tikTvd": "2452000794258",
-    "tikName": "Варгашинская"
+    "tikName": "Варгашинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 271,
     "uikTvd": "4454003195593",
+    "uikName": "УИК №271",
     "tikTvd": "2452000794258",
-    "tikName": "Варгашинская"
+    "tikName": "Варгашинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 272,
     "uikTvd": "4454003195594",
+    "uikName": "УИК №272",
     "tikTvd": "2452000794258",
-    "tikName": "Варгашинская"
+    "tikName": "Варгашинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 273,
     "uikTvd": "4454003195595",
+    "uikName": "УИК №273",
     "tikTvd": "2452000794258",
-    "tikName": "Варгашинская"
+    "tikName": "Варгашинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 274,
     "uikTvd": "4454003195596",
+    "uikName": "УИК №274",
     "tikTvd": "2452000794258",
-    "tikName": "Варгашинская"
+    "tikName": "Варгашинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 275,
     "uikTvd": "4454003195597",
+    "uikName": "УИК №275",
     "tikTvd": "2452000794258",
-    "tikName": "Варгашинская"
+    "tikName": "Варгашинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 276,
     "uikTvd": "4454003195598",
+    "uikName": "УИК №276",
     "tikTvd": "2452000794258",
-    "tikName": "Варгашинская"
+    "tikName": "Варгашинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 277,
     "uikTvd": "4454003195599",
+    "uikName": "УИК №277",
     "tikTvd": "2452000794258",
-    "tikName": "Варгашинская"
+    "tikName": "Варгашинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 278,
     "uikTvd": "4454003195600",
+    "uikName": "УИК №278",
     "tikTvd": "2452000794258",
-    "tikName": "Варгашинская"
+    "tikName": "Варгашинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 279,
     "uikTvd": "4454003195601",
+    "uikName": "УИК №279",
     "tikTvd": "2452000794258",
-    "tikName": "Варгашинская"
+    "tikName": "Варгашинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 280,
     "uikTvd": "4454003195602",
+    "uikName": "УИК №280",
     "tikTvd": "2452000794258",
-    "tikName": "Варгашинская"
+    "tikName": "Варгашинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 281,
     "uikTvd": "4454003195603",
+    "uikName": "УИК №281",
     "tikTvd": "2452000794258",
-    "tikName": "Варгашинская"
+    "tikName": "Варгашинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 282,
     "uikTvd": "4454003195604",
+    "uikName": "УИК №282",
     "tikTvd": "2452000794258",
-    "tikName": "Варгашинская"
+    "tikName": "Варгашинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 283,
     "uikTvd": "4454003195605",
+    "uikName": "УИК №283",
     "tikTvd": "2452000794258",
-    "tikName": "Варгашинская"
+    "tikName": "Варгашинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 284,
     "uikTvd": "4454003195606",
+    "uikName": "УИК №284",
     "tikTvd": "2452000794258",
-    "tikName": "Варгашинская"
+    "tikName": "Варгашинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 285,
     "uikTvd": "4454003195607",
+    "uikName": "УИК №285",
     "tikTvd": "2452000794258",
-    "tikName": "Варгашинская"
+    "tikName": "Варгашинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 286,
     "uikTvd": "4454003195608",
+    "uikName": "УИК №286",
     "tikTvd": "2452000794258",
-    "tikName": "Варгашинская"
+    "tikName": "Варгашинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 287,
     "uikTvd": "4454003195609",
+    "uikName": "УИК №287",
     "tikTvd": "2452000794258",
-    "tikName": "Варгашинская"
+    "tikName": "Варгашинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 292,
     "uikTvd": "4454004203302",
+    "uikName": "УИК №292",
     "tikTvd": "2452000794257",
-    "tikName": "Далматовская"
+    "tikName": "Далматовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 293,
     "uikTvd": "4454004203303",
+    "uikName": "УИК №293",
     "tikTvd": "2452000794257",
-    "tikName": "Далматовская"
+    "tikName": "Далматовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 295,
     "uikTvd": "4454004203304",
+    "uikName": "УИК №295",
     "tikTvd": "2452000794257",
-    "tikName": "Далматовская"
+    "tikName": "Далматовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 296,
     "uikTvd": "4454004203305",
+    "uikName": "УИК №296",
     "tikTvd": "2452000794257",
-    "tikName": "Далматовская"
+    "tikName": "Далматовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 297,
     "uikTvd": "4454004203306",
+    "uikName": "УИК №297",
     "tikTvd": "2452000794257",
-    "tikName": "Далматовская"
+    "tikName": "Далматовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 298,
     "uikTvd": "4454004203307",
+    "uikName": "УИК №298",
     "tikTvd": "2452000794257",
-    "tikName": "Далматовская"
+    "tikName": "Далматовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 300,
     "uikTvd": "4454004203308",
+    "uikName": "УИК №300",
     "tikTvd": "2452000794257",
-    "tikName": "Далматовская"
+    "tikName": "Далматовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 304,
     "uikTvd": "4454004204321",
+    "uikName": "УИК №304",
     "tikTvd": "2452000794257",
-    "tikName": "Далматовская"
+    "tikName": "Далматовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 305,
     "uikTvd": "4454004203309",
+    "uikName": "УИК №305",
     "tikTvd": "2452000794257",
-    "tikName": "Далматовская"
+    "tikName": "Далматовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 306,
     "uikTvd": "4454004203310",
+    "uikName": "УИК №306",
     "tikTvd": "2452000794257",
-    "tikName": "Далматовская"
+    "tikName": "Далматовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 307,
     "uikTvd": "4454004203311",
+    "uikName": "УИК №307",
     "tikTvd": "2452000794257",
-    "tikName": "Далматовская"
+    "tikName": "Далматовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 308,
     "uikTvd": "4454004203312",
+    "uikName": "УИК №308",
     "tikTvd": "2452000794257",
-    "tikName": "Далматовская"
+    "tikName": "Далматовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 309,
     "uikTvd": "4454004203313",
+    "uikName": "УИК №309",
     "tikTvd": "2452000794257",
-    "tikName": "Далматовская"
+    "tikName": "Далматовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 310,
     "uikTvd": "4454004203314",
+    "uikName": "УИК №310",
     "tikTvd": "2452000794257",
-    "tikName": "Далматовская"
+    "tikName": "Далматовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 311,
     "uikTvd": "4454004203315",
+    "uikName": "УИК №311",
     "tikTvd": "2452000794257",
-    "tikName": "Далматовская"
+    "tikName": "Далматовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 313,
     "uikTvd": "4454004203316",
+    "uikName": "УИК №313",
     "tikTvd": "2452000794257",
-    "tikName": "Далматовская"
+    "tikName": "Далматовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 314,
     "uikTvd": "4454004203317",
+    "uikName": "УИК №314",
     "tikTvd": "2452000794257",
-    "tikName": "Далматовская"
+    "tikName": "Далматовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 315,
     "uikTvd": "4454004203318",
+    "uikName": "УИК №315",
     "tikTvd": "2452000794257",
-    "tikName": "Далматовская"
+    "tikName": "Далматовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 317,
     "uikTvd": "4454004203319",
+    "uikName": "УИК №317",
     "tikTvd": "2452000794257",
-    "tikName": "Далматовская"
+    "tikName": "Далматовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 318,
     "uikTvd": "4454004203320",
+    "uikName": "УИК №318",
     "tikTvd": "2452000794257",
-    "tikName": "Далматовская"
+    "tikName": "Далматовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 320,
     "uikTvd": "4454004203321",
+    "uikName": "УИК №320",
     "tikTvd": "2452000794257",
-    "tikName": "Далматовская"
+    "tikName": "Далматовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 321,
     "uikTvd": "4454004203322",
+    "uikName": "УИК №321",
     "tikTvd": "2452000794257",
-    "tikName": "Далматовская"
+    "tikName": "Далматовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 322,
     "uikTvd": "4454004203323",
+    "uikName": "УИК №322",
     "tikTvd": "2452000794257",
-    "tikName": "Далматовская"
+    "tikName": "Далматовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 323,
     "uikTvd": "4454004203324",
+    "uikName": "УИК №323",
     "tikTvd": "2452000794257",
-    "tikName": "Далматовская"
+    "tikName": "Далматовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 324,
     "uikTvd": "4454004203325",
+    "uikName": "УИК №324",
     "tikTvd": "2452000794257",
-    "tikName": "Далматовская"
+    "tikName": "Далматовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 325,
     "uikTvd": "4454004203326",
+    "uikName": "УИК №325",
     "tikTvd": "2452000794257",
-    "tikName": "Далматовская"
+    "tikName": "Далматовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 326,
     "uikTvd": "4454004203327",
+    "uikName": "УИК №326",
     "tikTvd": "2452000794257",
-    "tikName": "Далматовская"
+    "tikName": "Далматовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 327,
     "uikTvd": "4454004203328",
+    "uikName": "УИК №327",
     "tikTvd": "2452000794257",
-    "tikName": "Далматовская"
+    "tikName": "Далматовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 328,
     "uikTvd": "4454004203329",
+    "uikName": "УИК №328",
     "tikTvd": "2452000794257",
-    "tikName": "Далматовская"
+    "tikName": "Далматовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 329,
     "uikTvd": "4454004203330",
+    "uikName": "УИК №329",
     "tikTvd": "2452000794257",
-    "tikName": "Далматовская"
+    "tikName": "Далматовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 330,
     "uikTvd": "4454004203331",
+    "uikName": "УИК №330",
     "tikTvd": "2452000794257",
-    "tikName": "Далматовская"
+    "tikName": "Далматовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 332,
     "uikTvd": "4454004203332",
+    "uikName": "УИК №332",
     "tikTvd": "2452000794257",
-    "tikName": "Далматовская"
+    "tikName": "Далматовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 333,
     "uikTvd": "4454004203333",
+    "uikName": "УИК №333",
     "tikTvd": "2452000794257",
-    "tikName": "Далматовская"
+    "tikName": "Далматовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 334,
     "uikTvd": "4454004203334",
+    "uikName": "УИК №334",
     "tikTvd": "2452000794257",
-    "tikName": "Далматовская"
+    "tikName": "Далматовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 335,
     "uikTvd": "4454004203335",
+    "uikName": "УИК №335",
     "tikTvd": "2452000794257",
-    "tikName": "Далматовская"
+    "tikName": "Далматовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 336,
     "uikTvd": "4454004203336",
+    "uikName": "УИК №336",
     "tikTvd": "2452000794257",
-    "tikName": "Далматовская"
+    "tikName": "Далматовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 337,
     "uikTvd": "4454004203337",
+    "uikName": "УИК №337",
     "tikTvd": "2452000794257",
-    "tikName": "Далматовская"
+    "tikName": "Далматовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 338,
     "uikTvd": "4454004203338",
+    "uikName": "УИК №338",
     "tikTvd": "2452000794257",
-    "tikName": "Далматовская"
+    "tikName": "Далматовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 339,
     "uikTvd": "4454004203339",
+    "uikName": "УИК №339",
     "tikTvd": "2452000794257",
-    "tikName": "Далматовская"
+    "tikName": "Далматовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 340,
     "uikTvd": "4454004203340",
+    "uikName": "УИК №340",
     "tikTvd": "2452000794257",
-    "tikName": "Далматовская"
+    "tikName": "Далматовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 342,
     "uikTvd": "4454005131762",
+    "uikName": "УИК №342",
     "tikTvd": "2452000794256",
-    "tikName": "Звериноголовская"
+    "tikName": "Звериноголовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 343,
     "uikTvd": "4454005131763",
+    "uikName": "УИК №343",
     "tikTvd": "2452000794256",
-    "tikName": "Звериноголовская"
+    "tikName": "Звериноголовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 344,
     "uikTvd": "4454005131764",
+    "uikName": "УИК №344",
     "tikTvd": "2452000794256",
-    "tikName": "Звериноголовская"
+    "tikName": "Звериноголовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 345,
     "uikTvd": "4454005131765",
+    "uikName": "УИК №345",
     "tikTvd": "2452000794256",
-    "tikName": "Звериноголовская"
+    "tikName": "Звериноголовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 346,
     "uikTvd": "4454005131766",
+    "uikName": "УИК №346",
     "tikTvd": "2452000794256",
-    "tikName": "Звериноголовская"
+    "tikName": "Звериноголовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 347,
     "uikTvd": "4454005131767",
+    "uikName": "УИК №347",
     "tikTvd": "2452000794256",
-    "tikName": "Звериноголовская"
+    "tikName": "Звериноголовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 348,
     "uikTvd": "4454005131768",
+    "uikName": "УИК №348",
     "tikTvd": "2452000794256",
-    "tikName": "Звериноголовская"
+    "tikName": "Звериноголовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 349,
     "uikTvd": "4454005131769",
+    "uikName": "УИК №349",
     "tikTvd": "2452000794256",
-    "tikName": "Звериноголовская"
+    "tikName": "Звериноголовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 350,
     "uikTvd": "4454005131770",
+    "uikName": "УИК №350",
     "tikTvd": "2452000794256",
-    "tikName": "Звериноголовская"
+    "tikName": "Звериноголовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 351,
     "uikTvd": "4454005131771",
+    "uikName": "УИК №351",
     "tikTvd": "2452000794256",
-    "tikName": "Звериноголовская"
+    "tikName": "Звериноголовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 352,
     "uikTvd": "4454005131772",
+    "uikName": "УИК №352",
     "tikTvd": "2452000794256",
-    "tikName": "Звериноголовская"
+    "tikName": "Звериноголовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 353,
     "uikTvd": "4454005131773",
+    "uikName": "УИК №353",
     "tikTvd": "2452000794256",
-    "tikName": "Звериноголовская"
+    "tikName": "Звериноголовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 354,
     "uikTvd": "4454005131774",
+    "uikName": "УИК №354",
     "tikTvd": "2452000794256",
-    "tikName": "Звериноголовская"
+    "tikName": "Звериноголовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 355,
     "uikTvd": "4454005131775",
+    "uikName": "УИК №355",
     "tikTvd": "2452000794256",
-    "tikName": "Звериноголовская"
+    "tikName": "Звериноголовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 356,
     "uikTvd": "4454005131776",
+    "uikName": "УИК №356",
     "tikTvd": "2452000794256",
-    "tikName": "Звериноголовская"
+    "tikName": "Звериноголовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 357,
     "uikTvd": "4454005131777",
+    "uikName": "УИК №357",
     "tikTvd": "2452000794256",
-    "tikName": "Звериноголовская"
+    "tikName": "Звериноголовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 361,
     "uikTvd": "4454006181779",
+    "uikName": "УИК №361",
     "tikTvd": "2452000794255",
-    "tikName": "Каргапольская"
+    "tikName": "Каргапольская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 362,
     "uikTvd": "4454006181780",
+    "uikName": "УИК №362",
     "tikTvd": "2452000794255",
-    "tikName": "Каргапольская"
+    "tikName": "Каргапольская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 363,
     "uikTvd": "4454006181781",
+    "uikName": "УИК №363",
     "tikTvd": "2452000794255",
-    "tikName": "Каргапольская"
+    "tikName": "Каргапольская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 364,
     "uikTvd": "4454006181782",
+    "uikName": "УИК №364",
     "tikTvd": "2452000794255",
-    "tikName": "Каргапольская"
+    "tikName": "Каргапольская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 365,
     "uikTvd": "4454006181783",
+    "uikName": "УИК №365",
     "tikTvd": "2452000794255",
-    "tikName": "Каргапольская"
+    "tikName": "Каргапольская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 366,
     "uikTvd": "4454006181784",
+    "uikName": "УИК №366",
     "tikTvd": "2452000794255",
-    "tikName": "Каргапольская"
+    "tikName": "Каргапольская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 368,
     "uikTvd": "4454006181785",
+    "uikName": "УИК №368",
     "tikTvd": "2452000794255",
-    "tikName": "Каргапольская"
+    "tikName": "Каргапольская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 370,
     "uikTvd": "4454006181786",
+    "uikName": "УИК №370",
     "tikTvd": "2452000794255",
-    "tikName": "Каргапольская"
+    "tikName": "Каргапольская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 371,
     "uikTvd": "4454006181787",
+    "uikName": "УИК №371",
     "tikTvd": "2452000794255",
-    "tikName": "Каргапольская"
+    "tikName": "Каргапольская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 374,
     "uikTvd": "4454006181788",
+    "uikName": "УИК №374",
     "tikTvd": "2452000794255",
-    "tikName": "Каргапольская"
+    "tikName": "Каргапольская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 376,
     "uikTvd": "4454006181789",
+    "uikName": "УИК №376",
     "tikTvd": "2452000794255",
-    "tikName": "Каргапольская"
+    "tikName": "Каргапольская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 377,
     "uikTvd": "4454006181790",
+    "uikName": "УИК №377",
     "tikTvd": "2452000794255",
-    "tikName": "Каргапольская"
+    "tikName": "Каргапольская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 378,
     "uikTvd": "4454006181791",
+    "uikName": "УИК №378",
     "tikTvd": "2452000794255",
-    "tikName": "Каргапольская"
+    "tikName": "Каргапольская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 380,
     "uikTvd": "4454006181792",
+    "uikName": "УИК №380",
     "tikTvd": "2452000794255",
-    "tikName": "Каргапольская"
+    "tikName": "Каргапольская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 381,
     "uikTvd": "4454006181793",
+    "uikName": "УИК №381",
     "tikTvd": "2452000794255",
-    "tikName": "Каргапольская"
+    "tikName": "Каргапольская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 382,
     "uikTvd": "4454006181794",
+    "uikName": "УИК №382",
     "tikTvd": "2452000794255",
-    "tikName": "Каргапольская"
+    "tikName": "Каргапольская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 383,
     "uikTvd": "4454006181795",
+    "uikName": "УИК №383",
     "tikTvd": "2452000794255",
-    "tikName": "Каргапольская"
+    "tikName": "Каргапольская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 384,
     "uikTvd": "4454006181796",
+    "uikName": "УИК №384",
     "tikTvd": "2452000794255",
-    "tikName": "Каргапольская"
+    "tikName": "Каргапольская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 386,
     "uikTvd": "4454006181797",
+    "uikName": "УИК №386",
     "tikTvd": "2452000794255",
-    "tikName": "Каргапольская"
+    "tikName": "Каргапольская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 387,
     "uikTvd": "4454006181798",
+    "uikName": "УИК №387",
     "tikTvd": "2452000794255",
-    "tikName": "Каргапольская"
+    "tikName": "Каргапольская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 388,
     "uikTvd": "4454006181799",
+    "uikName": "УИК №388",
     "tikTvd": "2452000794255",
-    "tikName": "Каргапольская"
+    "tikName": "Каргапольская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 389,
     "uikTvd": "4454006181800",
+    "uikName": "УИК №389",
     "tikTvd": "2452000794255",
-    "tikName": "Каргапольская"
+    "tikName": "Каргапольская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 390,
     "uikTvd": "4454006181801",
+    "uikName": "УИК №390",
     "tikTvd": "2452000794255",
-    "tikName": "Каргапольская"
+    "tikName": "Каргапольская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 392,
     "uikTvd": "4454006181802",
+    "uikName": "УИК №392",
     "tikTvd": "2452000794255",
-    "tikName": "Каргапольская"
+    "tikName": "Каргапольская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 393,
     "uikTvd": "4454006181803",
+    "uikName": "УИК №393",
     "tikTvd": "2452000794255",
-    "tikName": "Каргапольская"
+    "tikName": "Каргапольская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 394,
     "uikTvd": "4454006181804",
+    "uikName": "УИК №394",
     "tikTvd": "2452000794255",
-    "tikName": "Каргапольская"
+    "tikName": "Каргапольская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 395,
     "uikTvd": "4454006181805",
+    "uikName": "УИК №395",
     "tikTvd": "2452000794255",
-    "tikName": "Каргапольская"
+    "tikName": "Каргапольская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 396,
     "uikTvd": "4454006181806",
+    "uikName": "УИК №396",
     "tikTvd": "2452000794255",
-    "tikName": "Каргапольская"
+    "tikName": "Каргапольская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 397,
     "uikTvd": "4454006181807",
+    "uikName": "УИК №397",
     "tikTvd": "2452000794255",
-    "tikName": "Каргапольская"
+    "tikName": "Каргапольская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 398,
     "uikTvd": "4454006181808",
+    "uikName": "УИК №398",
     "tikTvd": "2452000794255",
-    "tikName": "Каргапольская"
+    "tikName": "Каргапольская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 399,
     "uikTvd": "4454006181809",
+    "uikName": "УИК №399",
     "tikTvd": "2452000794255",
-    "tikName": "Каргапольская"
+    "tikName": "Каргапольская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 400,
     "uikTvd": "4454006181810",
+    "uikName": "УИК №400",
     "tikTvd": "2452000794255",
-    "tikName": "Каргапольская"
+    "tikName": "Каргапольская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 401,
     "uikTvd": "4454006181811",
+    "uikName": "УИК №401",
     "tikTvd": "2452000794255",
-    "tikName": "Каргапольская"
+    "tikName": "Каргапольская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 402,
     "uikTvd": "4454006181812",
+    "uikName": "УИК №402",
     "tikTvd": "2452000794255",
-    "tikName": "Каргапольская"
+    "tikName": "Каргапольская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 403,
     "uikTvd": "4454006181813",
+    "uikName": "УИК №403",
     "tikTvd": "2452000794255",
-    "tikName": "Каргапольская"
+    "tikName": "Каргапольская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 404,
     "uikTvd": "4454006181814",
+    "uikName": "УИК №404",
     "tikTvd": "2452000794255",
-    "tikName": "Каргапольская"
+    "tikName": "Каргапольская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 405,
     "uikTvd": "4454007172708",
+    "uikName": "УИК №405",
     "tikTvd": "2452000794254",
-    "tikName": "Катайская"
+    "tikName": "Катайская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 406,
     "uikTvd": "4454007172709",
+    "uikName": "УИК №406",
     "tikTvd": "2452000794254",
-    "tikName": "Катайская"
+    "tikName": "Катайская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 407,
     "uikTvd": "4454007172710",
+    "uikName": "УИК №407",
     "tikTvd": "2452000794254",
-    "tikName": "Катайская"
+    "tikName": "Катайская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 408,
     "uikTvd": "4454007172711",
+    "uikName": "УИК №408",
     "tikTvd": "2452000794254",
-    "tikName": "Катайская"
+    "tikName": "Катайская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 409,
     "uikTvd": "4454007172712",
+    "uikName": "УИК №409",
     "tikTvd": "2452000794254",
-    "tikName": "Катайская"
+    "tikName": "Катайская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 410,
     "uikTvd": "4454007172713",
+    "uikName": "УИК №410",
     "tikTvd": "2452000794254",
-    "tikName": "Катайская"
+    "tikName": "Катайская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 411,
     "uikTvd": "4454007172714",
+    "uikName": "УИК №411",
     "tikTvd": "2452000794254",
-    "tikName": "Катайская"
+    "tikName": "Катайская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 412,
     "uikTvd": "4454007172715",
+    "uikName": "УИК №412",
     "tikTvd": "2452000794254",
-    "tikName": "Катайская"
+    "tikName": "Катайская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 413,
     "uikTvd": "4454007172716",
+    "uikName": "УИК №413",
     "tikTvd": "2452000794254",
-    "tikName": "Катайская"
+    "tikName": "Катайская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 414,
     "uikTvd": "4454007172717",
+    "uikName": "УИК №414",
     "tikTvd": "2452000794254",
-    "tikName": "Катайская"
+    "tikName": "Катайская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 415,
     "uikTvd": "4454007172718",
+    "uikName": "УИК №415",
     "tikTvd": "2452000794254",
-    "tikName": "Катайская"
+    "tikName": "Катайская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 416,
     "uikTvd": "4454007172719",
+    "uikName": "УИК №416",
     "tikTvd": "2452000794254",
-    "tikName": "Катайская"
+    "tikName": "Катайская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 417,
     "uikTvd": "4454007172720",
+    "uikName": "УИК №417",
     "tikTvd": "2452000794254",
-    "tikName": "Катайская"
+    "tikName": "Катайская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 418,
     "uikTvd": "4454007172721",
+    "uikName": "УИК №418",
     "tikTvd": "2452000794254",
-    "tikName": "Катайская"
+    "tikName": "Катайская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 419,
     "uikTvd": "4454007172722",
+    "uikName": "УИК №419",
     "tikTvd": "2452000794254",
-    "tikName": "Катайская"
+    "tikName": "Катайская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 420,
     "uikTvd": "4454007172723",
+    "uikName": "УИК №420",
     "tikTvd": "2452000794254",
-    "tikName": "Катайская"
+    "tikName": "Катайская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 421,
     "uikTvd": "4454007172724",
+    "uikName": "УИК №421",
     "tikTvd": "2452000794254",
-    "tikName": "Катайская"
+    "tikName": "Катайская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 422,
     "uikTvd": "4454007172725",
+    "uikName": "УИК №422",
     "tikTvd": "2452000794254",
-    "tikName": "Катайская"
+    "tikName": "Катайская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 423,
     "uikTvd": "4454007172726",
+    "uikName": "УИК №423",
     "tikTvd": "2452000794254",
-    "tikName": "Катайская"
+    "tikName": "Катайская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 424,
     "uikTvd": "4454007172727",
+    "uikName": "УИК №424",
     "tikTvd": "2452000794254",
-    "tikName": "Катайская"
+    "tikName": "Катайская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 425,
     "uikTvd": "4454007172728",
+    "uikName": "УИК №425",
     "tikTvd": "2452000794254",
-    "tikName": "Катайская"
+    "tikName": "Катайская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 426,
     "uikTvd": "4454007172729",
+    "uikName": "УИК №426",
     "tikTvd": "2452000794254",
-    "tikName": "Катайская"
+    "tikName": "Катайская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 427,
     "uikTvd": "4454007172730",
+    "uikName": "УИК №427",
     "tikTvd": "2452000794254",
-    "tikName": "Катайская"
+    "tikName": "Катайская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 428,
     "uikTvd": "4454007172731",
+    "uikName": "УИК №428",
     "tikTvd": "2452000794254",
-    "tikName": "Катайская"
+    "tikName": "Катайская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 429,
     "uikTvd": "4454007172732",
+    "uikName": "УИК №429",
     "tikTvd": "2452000794254",
-    "tikName": "Катайская"
+    "tikName": "Катайская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 430,
     "uikTvd": "4454007172733",
+    "uikName": "УИК №430",
     "tikTvd": "2452000794254",
-    "tikName": "Катайская"
+    "tikName": "Катайская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 431,
     "uikTvd": "4454007172734",
+    "uikName": "УИК №431",
     "tikTvd": "2452000794254",
-    "tikName": "Катайская"
+    "tikName": "Катайская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 432,
     "uikTvd": "4454007172735",
+    "uikName": "УИК №432",
     "tikTvd": "2452000794254",
-    "tikName": "Катайская"
+    "tikName": "Катайская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 433,
     "uikTvd": "4454007172736",
+    "uikName": "УИК №433",
     "tikTvd": "2452000794254",
-    "tikName": "Катайская"
+    "tikName": "Катайская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 434,
     "uikTvd": "4454007172737",
+    "uikName": "УИК №434",
     "tikTvd": "2452000794254",
-    "tikName": "Катайская"
+    "tikName": "Катайская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 435,
     "uikTvd": "4454007172738",
+    "uikName": "УИК №435",
     "tikTvd": "2452000794254",
-    "tikName": "Катайская"
+    "tikName": "Катайская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 436,
     "uikTvd": "4454007172739",
+    "uikName": "УИК №436",
     "tikTvd": "2452000794254",
-    "tikName": "Катайская"
+    "tikName": "Катайская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 437,
     "uikTvd": "4454007172740",
+    "uikName": "УИК №437",
     "tikTvd": "2452000794254",
-    "tikName": "Катайская"
+    "tikName": "Катайская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 438,
     "uikTvd": "4454007172741",
+    "uikName": "УИК №438",
     "tikTvd": "2452000794254",
-    "tikName": "Катайская"
+    "tikName": "Катайская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 439,
     "uikTvd": "4454007172742",
+    "uikName": "УИК №439",
     "tikTvd": "2452000794254",
-    "tikName": "Катайская"
+    "tikName": "Катайская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 440,
     "uikTvd": "4454007172743",
+    "uikName": "УИК №440",
     "tikTvd": "2452000794254",
-    "tikName": "Катайская"
+    "tikName": "Катайская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 441,
     "uikTvd": "4454007172744",
+    "uikName": "УИК №441",
     "tikTvd": "2452000794254",
-    "tikName": "Катайская"
+    "tikName": "Катайская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 450,
     "uikTvd": "4454008265227",
+    "uikName": "УИК №450",
     "tikTvd": "2452000794253",
-    "tikName": "Кетовская"
+    "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 451,
     "uikTvd": "4454008265228",
+    "uikName": "УИК №451",
     "tikTvd": "2452000794253",
-    "tikName": "Кетовская"
+    "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 452,
     "uikTvd": "4454008265229",
+    "uikName": "УИК №452",
     "tikTvd": "2452000794253",
-    "tikName": "Кетовская"
+    "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 453,
     "uikTvd": "4454008265230",
+    "uikName": "УИК №453",
     "tikTvd": "2452000794253",
-    "tikName": "Кетовская"
+    "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 454,
     "uikTvd": "4454008265231",
+    "uikName": "УИК №454",
     "tikTvd": "2452000794253",
-    "tikName": "Кетовская"
+    "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 455,
     "uikTvd": "4454008265232",
+    "uikName": "УИК №455",
     "tikTvd": "2452000794253",
-    "tikName": "Кетовская"
+    "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 456,
     "uikTvd": "4454008265233",
+    "uikName": "УИК №456",
     "tikTvd": "2452000794253",
-    "tikName": "Кетовская"
+    "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 457,
     "uikTvd": "4454008265234",
+    "uikName": "УИК №457",
     "tikTvd": "2452000794253",
-    "tikName": "Кетовская"
+    "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 458,
     "uikTvd": "4454008265235",
+    "uikName": "УИК №458",
     "tikTvd": "2452000794253",
-    "tikName": "Кетовская"
+    "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 459,
     "uikTvd": "4454008265236",
+    "uikName": "УИК №459",
     "tikTvd": "2452000794253",
-    "tikName": "Кетовская"
+    "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 460,
     "uikTvd": "4454008265237",
+    "uikName": "УИК №460",
     "tikTvd": "2452000794253",
-    "tikName": "Кетовская"
+    "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 461,
     "uikTvd": "4454008265238",
+    "uikName": "УИК №461",
     "tikTvd": "2452000794253",
-    "tikName": "Кетовская"
+    "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 462,
     "uikTvd": "4454008265239",
+    "uikName": "УИК №462",
     "tikTvd": "2452000794253",
-    "tikName": "Кетовская"
+    "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 463,
     "uikTvd": "4454008265240",
+    "uikName": "УИК №463",
     "tikTvd": "2452000794253",
-    "tikName": "Кетовская"
+    "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 464,
     "uikTvd": "4454008265241",
+    "uikName": "УИК №464",
     "tikTvd": "2452000794253",
-    "tikName": "Кетовская"
+    "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 465,
     "uikTvd": "4454008265242",
+    "uikName": "УИК №465",
     "tikTvd": "2452000794253",
-    "tikName": "Кетовская"
+    "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 466,
     "uikTvd": "4454008265243",
+    "uikName": "УИК №466",
     "tikTvd": "2452000794253",
-    "tikName": "Кетовская"
+    "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 467,
     "uikTvd": "4454008265244",
+    "uikName": "УИК №467",
     "tikTvd": "2452000794253",
-    "tikName": "Кетовская"
+    "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 468,
     "uikTvd": "4454008265245",
+    "uikName": "УИК №468",
     "tikTvd": "2452000794253",
-    "tikName": "Кетовская"
+    "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 469,
     "uikTvd": "4454008265246",
+    "uikName": "УИК №469",
     "tikTvd": "2452000794253",
-    "tikName": "Кетовская"
+    "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 470,
     "uikTvd": "4454008265247",
+    "uikName": "УИК №470",
     "tikTvd": "2452000794253",
-    "tikName": "Кетовская"
+    "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 471,
     "uikTvd": "4454008265248",
+    "uikName": "УИК №471",
     "tikTvd": "2452000794253",
-    "tikName": "Кетовская"
+    "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 472,
     "uikTvd": "4454008265249",
+    "uikName": "УИК №472",
     "tikTvd": "2452000794253",
-    "tikName": "Кетовская"
+    "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 473,
     "uikTvd": "4454008265250",
+    "uikName": "УИК №473",
     "tikTvd": "2452000794253",
-    "tikName": "Кетовская"
+    "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 474,
     "uikTvd": "4454008265251",
+    "uikName": "УИК №474",
     "tikTvd": "2452000794253",
-    "tikName": "Кетовская"
+    "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 475,
     "uikTvd": "4454008265252",
+    "uikName": "УИК №475",
     "tikTvd": "2452000794253",
-    "tikName": "Кетовская"
+    "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 476,
     "uikTvd": "4454008265253",
+    "uikName": "УИК №476",
     "tikTvd": "2452000794253",
-    "tikName": "Кетовская"
+    "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 477,
     "uikTvd": "4454008265254",
+    "uikName": "УИК №477",
     "tikTvd": "2452000794253",
-    "tikName": "Кетовская"
+    "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 478,
     "uikTvd": "4454008265255",
+    "uikName": "УИК №478",
     "tikTvd": "2452000794253",
-    "tikName": "Кетовская"
+    "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 479,
     "uikTvd": "4454008265256",
+    "uikName": "УИК №479",
     "tikTvd": "2452000794253",
-    "tikName": "Кетовская"
+    "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 480,
     "uikTvd": "4454008265257",
+    "uikName": "УИК №480",
     "tikTvd": "2452000794253",
-    "tikName": "Кетовская"
+    "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 481,
     "uikTvd": "4454008265258",
+    "uikName": "УИК №481",
     "tikTvd": "2452000794253",
-    "tikName": "Кетовская"
+    "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 482,
     "uikTvd": "4454008265259",
+    "uikName": "УИК №482",
     "tikTvd": "2452000794253",
-    "tikName": "Кетовская"
+    "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 483,
     "uikTvd": "4454008265260",
+    "uikName": "УИК №483",
     "tikTvd": "2452000794253",
-    "tikName": "Кетовская"
+    "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 484,
     "uikTvd": "4454008265261",
+    "uikName": "УИК №484",
     "tikTvd": "2452000794253",
-    "tikName": "Кетовская"
+    "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 485,
     "uikTvd": "4454008265262",
+    "uikName": "УИК №485",
     "tikTvd": "2452000794253",
-    "tikName": "Кетовская"
+    "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 486,
     "uikTvd": "4454008265263",
+    "uikName": "УИК №486",
     "tikTvd": "2452000794253",
-    "tikName": "Кетовская"
+    "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 487,
     "uikTvd": "4454008265264",
+    "uikName": "УИК №487",
     "tikTvd": "2452000794253",
-    "tikName": "Кетовская"
+    "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 488,
     "uikTvd": "4454008265265",
+    "uikName": "УИК №488",
     "tikTvd": "2452000794253",
-    "tikName": "Кетовская"
+    "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 489,
     "uikTvd": "4454008265266",
+    "uikName": "УИК №489",
     "tikTvd": "2452000794253",
-    "tikName": "Кетовская"
+    "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 490,
     "uikTvd": "4454008265267",
+    "uikName": "УИК №490",
     "tikTvd": "2452000794253",
-    "tikName": "Кетовская"
+    "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 491,
     "uikTvd": "4454008265268",
+    "uikName": "УИК №491",
     "tikTvd": "2452000794253",
-    "tikName": "Кетовская"
+    "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 492,
     "uikTvd": "4454008265269",
+    "uikName": "УИК №492",
     "tikTvd": "2452000794253",
-    "tikName": "Кетовская"
+    "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 493,
     "uikTvd": "4454008265270",
+    "uikName": "УИК №493",
     "tikTvd": "2452000794253",
-    "tikName": "Кетовская"
+    "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 494,
     "uikTvd": "4454008265271",
+    "uikName": "УИК №494",
     "tikTvd": "2452000794253",
-    "tikName": "Кетовская"
+    "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 495,
     "uikTvd": "4454008265272",
+    "uikName": "УИК №495",
     "tikTvd": "2452000794253",
-    "tikName": "Кетовская"
+    "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 496,
     "uikTvd": "4454008265273",
+    "uikName": "УИК №496",
     "tikTvd": "2452000794253",
-    "tikName": "Кетовская"
+    "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 497,
     "uikTvd": "4454008265274",
+    "uikName": "УИК №497",
     "tikTvd": "2452000794253",
-    "tikName": "Кетовская"
+    "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 498,
     "uikTvd": "4454008265275",
+    "uikName": "УИК №498",
     "tikTvd": "2452000794253",
-    "tikName": "Кетовская"
+    "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 499,
     "uikTvd": "4454008265276",
+    "uikName": "УИК №499",
     "tikTvd": "2452000794253",
-    "tikName": "Кетовская"
+    "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 501,
     "uikTvd": "4454008265277",
+    "uikName": "УИК №501",
     "tikTvd": "2452000794253",
-    "tikName": "Кетовская"
+    "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 503,
     "uikTvd": "4454010200917",
+    "uikName": "УИК №503",
     "tikTvd": "2452000794250",
-    "tikName": "Куртамышская"
+    "tikName": "Куртамышская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 504,
     "uikTvd": "4454010200919",
+    "uikName": "УИК №504",
     "tikTvd": "2452000794250",
-    "tikName": "Куртамышская"
+    "tikName": "Куртамышская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 505,
     "uikTvd": "4454010200920",
+    "uikName": "УИК №505",
     "tikTvd": "2452000794250",
-    "tikName": "Куртамышская"
+    "tikName": "Куртамышская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 506,
     "uikTvd": "4454010200921",
+    "uikName": "УИК №506",
     "tikTvd": "2452000794250",
-    "tikName": "Куртамышская"
+    "tikName": "Куртамышская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 507,
     "uikTvd": "4454010200922",
+    "uikName": "УИК №507",
     "tikTvd": "2452000794250",
-    "tikName": "Куртамышская"
+    "tikName": "Куртамышская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 508,
     "uikTvd": "4454010200923",
+    "uikName": "УИК №508",
     "tikTvd": "2452000794250",
-    "tikName": "Куртамышская"
+    "tikName": "Куртамышская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 509,
     "uikTvd": "4454010200924",
+    "uikName": "УИК №509",
     "tikTvd": "2452000794250",
-    "tikName": "Куртамышская"
+    "tikName": "Куртамышская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 510,
     "uikTvd": "4454010200925",
+    "uikName": "УИК №510",
     "tikTvd": "2452000794250",
-    "tikName": "Куртамышская"
+    "tikName": "Куртамышская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 511,
     "uikTvd": "4454010200926",
+    "uikName": "УИК №511",
     "tikTvd": "2452000794250",
-    "tikName": "Куртамышская"
+    "tikName": "Куртамышская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 512,
     "uikTvd": "4454010200927",
+    "uikName": "УИК №512",
     "tikTvd": "2452000794250",
-    "tikName": "Куртамышская"
+    "tikName": "Куртамышская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 513,
     "uikTvd": "4454010200928",
+    "uikName": "УИК №513",
     "tikTvd": "2452000794250",
-    "tikName": "Куртамышская"
+    "tikName": "Куртамышская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 514,
     "uikTvd": "4454010200929",
+    "uikName": "УИК №514",
     "tikTvd": "2452000794250",
-    "tikName": "Куртамышская"
+    "tikName": "Куртамышская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 515,
     "uikTvd": "4454010200930",
+    "uikName": "УИК №515",
     "tikTvd": "2452000794250",
-    "tikName": "Куртамышская"
+    "tikName": "Куртамышская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 516,
     "uikTvd": "4454010200931",
+    "uikName": "УИК №516",
     "tikTvd": "2452000794250",
-    "tikName": "Куртамышская"
+    "tikName": "Куртамышская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 517,
     "uikTvd": "4454010200932",
+    "uikName": "УИК №517",
     "tikTvd": "2452000794250",
-    "tikName": "Куртамышская"
+    "tikName": "Куртамышская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 518,
     "uikTvd": "4454010200933",
+    "uikName": "УИК №518",
     "tikTvd": "2452000794250",
-    "tikName": "Куртамышская"
+    "tikName": "Куртамышская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 519,
     "uikTvd": "4454010200934",
+    "uikName": "УИК №519",
     "tikTvd": "2452000794250",
-    "tikName": "Куртамышская"
+    "tikName": "Куртамышская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 520,
     "uikTvd": "4454010200935",
+    "uikName": "УИК №520",
     "tikTvd": "2452000794250",
-    "tikName": "Куртамышская"
+    "tikName": "Куртамышская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 521,
     "uikTvd": "4454010200936",
+    "uikName": "УИК №521",
     "tikTvd": "2452000794250",
-    "tikName": "Куртамышская"
+    "tikName": "Куртамышская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 522,
     "uikTvd": "4454010200937",
+    "uikName": "УИК №522",
     "tikTvd": "2452000794250",
-    "tikName": "Куртамышская"
+    "tikName": "Куртамышская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 523,
     "uikTvd": "4454010200938",
+    "uikName": "УИК №523",
     "tikTvd": "2452000794250",
-    "tikName": "Куртамышская"
+    "tikName": "Куртамышская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 524,
     "uikTvd": "4454010200939",
+    "uikName": "УИК №524",
     "tikTvd": "2452000794250",
-    "tikName": "Куртамышская"
+    "tikName": "Куртамышская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 525,
     "uikTvd": "4454010200940",
+    "uikName": "УИК №525",
     "tikTvd": "2452000794250",
-    "tikName": "Куртамышская"
+    "tikName": "Куртамышская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 526,
     "uikTvd": "4454010200941",
+    "uikName": "УИК №526",
     "tikTvd": "2452000794250",
-    "tikName": "Куртамышская"
+    "tikName": "Куртамышская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 527,
     "uikTvd": "4454010200942",
+    "uikName": "УИК №527",
     "tikTvd": "2452000794250",
-    "tikName": "Куртамышская"
+    "tikName": "Куртамышская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 528,
     "uikTvd": "4454010200943",
+    "uikName": "УИК №528",
     "tikTvd": "2452000794250",
-    "tikName": "Куртамышская"
+    "tikName": "Куртамышская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 529,
     "uikTvd": "4454010200944",
+    "uikName": "УИК №529",
     "tikTvd": "2452000794250",
-    "tikName": "Куртамышская"
+    "tikName": "Куртамышская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 530,
     "uikTvd": "4454010200945",
+    "uikName": "УИК №530",
     "tikTvd": "2452000794250",
-    "tikName": "Куртамышская"
+    "tikName": "Куртамышская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 531,
     "uikTvd": "4454010200946",
+    "uikName": "УИК №531",
     "tikTvd": "2452000794250",
-    "tikName": "Куртамышская"
+    "tikName": "Куртамышская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 532,
     "uikTvd": "4454010200947",
+    "uikName": "УИК №532",
     "tikTvd": "2452000794250",
-    "tikName": "Куртамышская"
+    "tikName": "Куртамышская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 533,
     "uikTvd": "4454010200948",
+    "uikName": "УИК №533",
     "tikTvd": "2452000794250",
-    "tikName": "Куртамышская"
+    "tikName": "Куртамышская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 534,
     "uikTvd": "4454010200949",
+    "uikName": "УИК №534",
     "tikTvd": "2452000794250",
-    "tikName": "Куртамышская"
+    "tikName": "Куртамышская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 535,
     "uikTvd": "4454010200950",
+    "uikName": "УИК №535",
     "tikTvd": "2452000794250",
-    "tikName": "Куртамышская"
+    "tikName": "Куртамышская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 536,
     "uikTvd": "4454010200951",
+    "uikName": "УИК №536",
     "tikTvd": "2452000794250",
-    "tikName": "Куртамышская"
+    "tikName": "Куртамышская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 537,
     "uikTvd": "4454010200952",
+    "uikName": "УИК №537",
     "tikTvd": "2452000794250",
-    "tikName": "Куртамышская"
+    "tikName": "Куртамышская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 538,
     "uikTvd": "4454010200953",
+    "uikName": "УИК №538",
     "tikTvd": "2452000794250",
-    "tikName": "Куртамышская"
+    "tikName": "Куртамышская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 539,
     "uikTvd": "4454010200954",
+    "uikName": "УИК №539",
     "tikTvd": "2452000794250",
-    "tikName": "Куртамышская"
+    "tikName": "Куртамышская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 540,
     "uikTvd": "4454010200955",
+    "uikName": "УИК №540",
     "tikTvd": "2452000794250",
-    "tikName": "Куртамышская"
+    "tikName": "Куртамышская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 541,
     "uikTvd": "4454010200956",
+    "uikName": "УИК №541",
     "tikTvd": "2452000794250",
-    "tikName": "Куртамышская"
+    "tikName": "Куртамышская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 542,
     "uikTvd": "4454010200957",
+    "uikName": "УИК №542",
     "tikTvd": "2452000794250",
-    "tikName": "Куртамышская"
+    "tikName": "Куртамышская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 543,
     "uikTvd": "4454010200958",
+    "uikName": "УИК №543",
     "tikTvd": "2452000794250",
-    "tikName": "Куртамышская"
+    "tikName": "Куртамышская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 544,
     "uikTvd": "4454010200959",
+    "uikName": "УИК №544",
     "tikTvd": "2452000794250",
-    "tikName": "Куртамышская"
+    "tikName": "Куртамышская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 559,
     "uikTvd": "4454008265278",
+    "uikName": "УИК №559",
     "tikTvd": "2452000794253",
-    "tikName": "Кетовская"
+    "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 565,
     "uikTvd": "4454011188847",
+    "uikName": "УИК №565",
     "tikTvd": "2452000794249",
-    "tikName": "Лебяжьевская"
+    "tikName": "Лебяжьевская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 566,
     "uikTvd": "4454011188850",
+    "uikName": "УИК №566",
     "tikTvd": "2452000794249",
-    "tikName": "Лебяжьевская"
+    "tikName": "Лебяжьевская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 567,
     "uikTvd": "4454011188852",
+    "uikName": "УИК №567",
     "tikTvd": "2452000794249",
-    "tikName": "Лебяжьевская"
+    "tikName": "Лебяжьевская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 568,
     "uikTvd": "4454011188854",
+    "uikName": "УИК №568",
     "tikTvd": "2452000794249",
-    "tikName": "Лебяжьевская"
+    "tikName": "Лебяжьевская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 569,
     "uikTvd": "4454011188856",
+    "uikName": "УИК №569",
     "tikTvd": "2452000794249",
-    "tikName": "Лебяжьевская"
+    "tikName": "Лебяжьевская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 570,
     "uikTvd": "4454011188858",
+    "uikName": "УИК №570",
     "tikTvd": "2452000794249",
-    "tikName": "Лебяжьевская"
+    "tikName": "Лебяжьевская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 571,
     "uikTvd": "4454011188860",
+    "uikName": "УИК №571",
     "tikTvd": "2452000794249",
-    "tikName": "Лебяжьевская"
+    "tikName": "Лебяжьевская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 572,
     "uikTvd": "4454011188862",
+    "uikName": "УИК №572",
     "tikTvd": "2452000794249",
-    "tikName": "Лебяжьевская"
+    "tikName": "Лебяжьевская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 573,
     "uikTvd": "4454011188864",
+    "uikName": "УИК №573",
     "tikTvd": "2452000794249",
-    "tikName": "Лебяжьевская"
+    "tikName": "Лебяжьевская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 574,
     "uikTvd": "4454011188866",
+    "uikName": "УИК №574",
     "tikTvd": "2452000794249",
-    "tikName": "Лебяжьевская"
+    "tikName": "Лебяжьевская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 575,
     "uikTvd": "4454011188868",
+    "uikName": "УИК №575",
     "tikTvd": "2452000794249",
-    "tikName": "Лебяжьевская"
+    "tikName": "Лебяжьевская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 576,
     "uikTvd": "4454011188870",
+    "uikName": "УИК №576",
     "tikTvd": "2452000794249",
-    "tikName": "Лебяжьевская"
+    "tikName": "Лебяжьевская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 577,
     "uikTvd": "4454011188872",
+    "uikName": "УИК №577",
     "tikTvd": "2452000794249",
-    "tikName": "Лебяжьевская"
+    "tikName": "Лебяжьевская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 578,
     "uikTvd": "4454011188874",
+    "uikName": "УИК №578",
     "tikTvd": "2452000794249",
-    "tikName": "Лебяжьевская"
+    "tikName": "Лебяжьевская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 579,
     "uikTvd": "4454011188876",
+    "uikName": "УИК №579",
     "tikTvd": "2452000794249",
-    "tikName": "Лебяжьевская"
+    "tikName": "Лебяжьевская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 580,
     "uikTvd": "4454011188878",
+    "uikName": "УИК №580",
     "tikTvd": "2452000794249",
-    "tikName": "Лебяжьевская"
+    "tikName": "Лебяжьевская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 581,
     "uikTvd": "4454011188880",
+    "uikName": "УИК №581",
     "tikTvd": "2452000794249",
-    "tikName": "Лебяжьевская"
+    "tikName": "Лебяжьевская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 582,
     "uikTvd": "4454011188882",
+    "uikName": "УИК №582",
     "tikTvd": "2452000794249",
-    "tikName": "Лебяжьевская"
+    "tikName": "Лебяжьевская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 583,
     "uikTvd": "4454011188884",
+    "uikName": "УИК №583",
     "tikTvd": "2452000794249",
-    "tikName": "Лебяжьевская"
+    "tikName": "Лебяжьевская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 584,
     "uikTvd": "4454011188886",
+    "uikName": "УИК №584",
     "tikTvd": "2452000794249",
-    "tikName": "Лебяжьевская"
+    "tikName": "Лебяжьевская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 585,
     "uikTvd": "4454011188888",
+    "uikName": "УИК №585",
     "tikTvd": "2452000794249",
-    "tikName": "Лебяжьевская"
+    "tikName": "Лебяжьевская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 586,
     "uikTvd": "4454011188890",
+    "uikName": "УИК №586",
     "tikTvd": "2452000794249",
-    "tikName": "Лебяжьевская"
+    "tikName": "Лебяжьевская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 587,
     "uikTvd": "4454011188892",
+    "uikName": "УИК №587",
     "tikTvd": "2452000794249",
-    "tikName": "Лебяжьевская"
+    "tikName": "Лебяжьевская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 588,
     "uikTvd": "4454011188894",
+    "uikName": "УИК №588",
     "tikTvd": "2452000794249",
-    "tikName": "Лебяжьевская"
+    "tikName": "Лебяжьевская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 589,
     "uikTvd": "4454011188896",
+    "uikName": "УИК №589",
     "tikTvd": "2452000794249",
-    "tikName": "Лебяжьевская"
+    "tikName": "Лебяжьевская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 590,
     "uikTvd": "4454011188898",
+    "uikName": "УИК №590",
     "tikTvd": "2452000794249",
-    "tikName": "Лебяжьевская"
+    "tikName": "Лебяжьевская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 591,
     "uikTvd": "4454011188900",
+    "uikName": "УИК №591",
     "tikTvd": "2452000794249",
-    "tikName": "Лебяжьевская"
+    "tikName": "Лебяжьевская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 592,
     "uikTvd": "4454011188902",
+    "uikName": "УИК №592",
     "tikTvd": "2452000794249",
-    "tikName": "Лебяжьевская"
+    "tikName": "Лебяжьевская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 593,
     "uikTvd": "4454011188904",
+    "uikName": "УИК №593",
     "tikTvd": "2452000794249",
-    "tikName": "Лебяжьевская"
+    "tikName": "Лебяжьевская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 594,
     "uikTvd": "4454011188906",
+    "uikName": "УИК №594",
     "tikTvd": "2452000794249",
-    "tikName": "Лебяжьевская"
+    "tikName": "Лебяжьевская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 595,
     "uikTvd": "4454011188908",
+    "uikName": "УИК №595",
     "tikTvd": "2452000794249",
-    "tikName": "Лебяжьевская"
+    "tikName": "Лебяжьевская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 596,
     "uikTvd": "4454011188910",
+    "uikName": "УИК №596",
     "tikTvd": "2452000794249",
-    "tikName": "Лебяжьевская"
+    "tikName": "Лебяжьевская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 597,
     "uikTvd": "4454011188912",
+    "uikName": "УИК №597",
     "tikTvd": "2452000794249",
-    "tikName": "Лебяжьевская"
+    "tikName": "Лебяжьевская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 598,
     "uikTvd": "4454011188914",
+    "uikName": "УИК №598",
     "tikTvd": "2452000794249",
-    "tikName": "Лебяжьевская"
+    "tikName": "Лебяжьевская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 606,
     "uikTvd": "4454012166166",
+    "uikName": "УИК №606",
     "tikTvd": "2452000794248",
-    "tikName": "Макушинская"
+    "tikName": "Макушинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 607,
     "uikTvd": "4454012166168",
+    "uikName": "УИК №607",
     "tikTvd": "2452000794248",
-    "tikName": "Макушинская"
+    "tikName": "Макушинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 608,
     "uikTvd": "4454012166169",
+    "uikName": "УИК №608",
     "tikTvd": "2452000794248",
-    "tikName": "Макушинская"
+    "tikName": "Макушинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 609,
     "uikTvd": "4454012166170",
+    "uikName": "УИК №609",
     "tikTvd": "2452000794248",
-    "tikName": "Макушинская"
+    "tikName": "Макушинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 610,
     "uikTvd": "4454012166171",
+    "uikName": "УИК №610",
     "tikTvd": "2452000794248",
-    "tikName": "Макушинская"
+    "tikName": "Макушинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 611,
     "uikTvd": "4454012166172",
+    "uikName": "УИК №611",
     "tikTvd": "2452000794248",
-    "tikName": "Макушинская"
+    "tikName": "Макушинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 612,
     "uikTvd": "4454012166173",
+    "uikName": "УИК №612",
     "tikTvd": "2452000794248",
-    "tikName": "Макушинская"
+    "tikName": "Макушинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 613,
     "uikTvd": "4454012166174",
+    "uikName": "УИК №613",
     "tikTvd": "2452000794248",
-    "tikName": "Макушинская"
+    "tikName": "Макушинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 614,
     "uikTvd": "4454012166175",
+    "uikName": "УИК №614",
     "tikTvd": "2452000794248",
-    "tikName": "Макушинская"
+    "tikName": "Макушинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 615,
     "uikTvd": "4454012166176",
+    "uikName": "УИК №615",
     "tikTvd": "2452000794248",
-    "tikName": "Макушинская"
+    "tikName": "Макушинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 616,
     "uikTvd": "4454012166177",
+    "uikName": "УИК №616",
     "tikTvd": "2452000794248",
-    "tikName": "Макушинская"
+    "tikName": "Макушинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 617,
     "uikTvd": "4454012166178",
+    "uikName": "УИК №617",
     "tikTvd": "2452000794248",
-    "tikName": "Макушинская"
+    "tikName": "Макушинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 618,
     "uikTvd": "4454012166179",
+    "uikName": "УИК №618",
     "tikTvd": "2452000794248",
-    "tikName": "Макушинская"
+    "tikName": "Макушинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 619,
     "uikTvd": "4454012166180",
+    "uikName": "УИК №619",
     "tikTvd": "2452000794248",
-    "tikName": "Макушинская"
+    "tikName": "Макушинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 620,
     "uikTvd": "4454012166181",
+    "uikName": "УИК №620",
     "tikTvd": "2452000794248",
-    "tikName": "Макушинская"
+    "tikName": "Макушинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 621,
     "uikTvd": "4454012166182",
+    "uikName": "УИК №621",
     "tikTvd": "2452000794248",
-    "tikName": "Макушинская"
+    "tikName": "Макушинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 622,
     "uikTvd": "4454012166183",
+    "uikName": "УИК №622",
     "tikTvd": "2452000794248",
-    "tikName": "Макушинская"
+    "tikName": "Макушинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 623,
     "uikTvd": "4454012166184",
+    "uikName": "УИК №623",
     "tikTvd": "2452000794248",
-    "tikName": "Макушинская"
+    "tikName": "Макушинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 624,
     "uikTvd": "4454012166185",
+    "uikName": "УИК №624",
     "tikTvd": "2452000794248",
-    "tikName": "Макушинская"
+    "tikName": "Макушинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 625,
     "uikTvd": "4454012166186",
+    "uikName": "УИК №625",
     "tikTvd": "2452000794248",
-    "tikName": "Макушинская"
+    "tikName": "Макушинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 626,
     "uikTvd": "4454012166187",
+    "uikName": "УИК №626",
     "tikTvd": "2452000794248",
-    "tikName": "Макушинская"
+    "tikName": "Макушинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 627,
     "uikTvd": "4454012166188",
+    "uikName": "УИК №627",
     "tikTvd": "2452000794248",
-    "tikName": "Макушинская"
+    "tikName": "Макушинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 628,
     "uikTvd": "4454012166189",
+    "uikName": "УИК №628",
     "tikTvd": "2452000794248",
-    "tikName": "Макушинская"
+    "tikName": "Макушинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 629,
     "uikTvd": "4454012166190",
+    "uikName": "УИК №629",
     "tikTvd": "2452000794248",
-    "tikName": "Макушинская"
+    "tikName": "Макушинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 630,
     "uikTvd": "4454012166191",
+    "uikName": "УИК №630",
     "tikTvd": "2452000794248",
-    "tikName": "Макушинская"
+    "tikName": "Макушинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 631,
     "uikTvd": "4454012166192",
+    "uikName": "УИК №631",
     "tikTvd": "2452000794248",
-    "tikName": "Макушинская"
+    "tikName": "Макушинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 632,
     "uikTvd": "4454012166193",
+    "uikName": "УИК №632",
     "tikTvd": "2452000794248",
-    "tikName": "Макушинская"
+    "tikName": "Макушинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 633,
     "uikTvd": "4454012166194",
+    "uikName": "УИК №633",
     "tikTvd": "2452000794248",
-    "tikName": "Макушинская"
+    "tikName": "Макушинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 634,
     "uikTvd": "4454012166195",
+    "uikName": "УИК №634",
     "tikTvd": "2452000794248",
-    "tikName": "Макушинская"
+    "tikName": "Макушинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 635,
     "uikTvd": "4454012166196",
+    "uikName": "УИК №635",
     "tikTvd": "2452000794248",
-    "tikName": "Макушинская"
+    "tikName": "Макушинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 636,
     "uikTvd": "4454012166197",
+    "uikName": "УИК №636",
     "tikTvd": "2452000794248",
-    "tikName": "Макушинская"
+    "tikName": "Макушинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 647,
     "uikTvd": "4454013174684",
+    "uikName": "УИК №647",
     "tikTvd": "2452000794247",
-    "tikName": "Мишкинская"
+    "tikName": "Мишкинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 648,
     "uikTvd": "4454013174685",
+    "uikName": "УИК №648",
     "tikTvd": "2452000794247",
-    "tikName": "Мишкинская"
+    "tikName": "Мишкинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 649,
     "uikTvd": "4454013174686",
+    "uikName": "УИК №649",
     "tikTvd": "2452000794247",
-    "tikName": "Мишкинская"
+    "tikName": "Мишкинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 650,
     "uikTvd": "4454013174687",
+    "uikName": "УИК №650",
     "tikTvd": "2452000794247",
-    "tikName": "Мишкинская"
+    "tikName": "Мишкинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 651,
     "uikTvd": "4454013174688",
+    "uikName": "УИК №651",
     "tikTvd": "2452000794247",
-    "tikName": "Мишкинская"
+    "tikName": "Мишкинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 652,
     "uikTvd": "4454013174689",
+    "uikName": "УИК №652",
     "tikTvd": "2452000794247",
-    "tikName": "Мишкинская"
+    "tikName": "Мишкинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 653,
     "uikTvd": "4454013174690",
+    "uikName": "УИК №653",
     "tikTvd": "2452000794247",
-    "tikName": "Мишкинская"
+    "tikName": "Мишкинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 654,
     "uikTvd": "4454013174691",
+    "uikName": "УИК №654",
     "tikTvd": "2452000794247",
-    "tikName": "Мишкинская"
+    "tikName": "Мишкинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 655,
     "uikTvd": "4454013174692",
+    "uikName": "УИК №655",
     "tikTvd": "2452000794247",
-    "tikName": "Мишкинская"
+    "tikName": "Мишкинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 656,
     "uikTvd": "4454013174693",
+    "uikName": "УИК №656",
     "tikTvd": "2452000794247",
-    "tikName": "Мишкинская"
+    "tikName": "Мишкинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 657,
     "uikTvd": "4454013174694",
+    "uikName": "УИК №657",
     "tikTvd": "2452000794247",
-    "tikName": "Мишкинская"
+    "tikName": "Мишкинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 659,
     "uikTvd": "4454013174695",
+    "uikName": "УИК №659",
     "tikTvd": "2452000794247",
-    "tikName": "Мишкинская"
+    "tikName": "Мишкинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 661,
     "uikTvd": "4454013174696",
+    "uikName": "УИК №661",
     "tikTvd": "2452000794247",
-    "tikName": "Мишкинская"
+    "tikName": "Мишкинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 663,
     "uikTvd": "4454013174697",
+    "uikName": "УИК №663",
     "tikTvd": "2452000794247",
-    "tikName": "Мишкинская"
+    "tikName": "Мишкинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 664,
     "uikTvd": "4454013174698",
+    "uikName": "УИК №664",
     "tikTvd": "2452000794247",
-    "tikName": "Мишкинская"
+    "tikName": "Мишкинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 665,
     "uikTvd": "4454013174699",
+    "uikName": "УИК №665",
     "tikTvd": "2452000794247",
-    "tikName": "Мишкинская"
+    "tikName": "Мишкинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 666,
     "uikTvd": "4454013174700",
+    "uikName": "УИК №666",
     "tikTvd": "2452000794247",
-    "tikName": "Мишкинская"
+    "tikName": "Мишкинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 667,
     "uikTvd": "4454013174701",
+    "uikName": "УИК №667",
     "tikTvd": "2452000794247",
-    "tikName": "Мишкинская"
+    "tikName": "Мишкинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 668,
     "uikTvd": "4454013174702",
+    "uikName": "УИК №668",
     "tikTvd": "2452000794247",
-    "tikName": "Мишкинская"
+    "tikName": "Мишкинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 669,
     "uikTvd": "4454013174703",
+    "uikName": "УИК №669",
     "tikTvd": "2452000794247",
-    "tikName": "Мишкинская"
+    "tikName": "Мишкинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 671,
     "uikTvd": "4454013174704",
+    "uikName": "УИК №671",
     "tikTvd": "2452000794247",
-    "tikName": "Мишкинская"
+    "tikName": "Мишкинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 672,
     "uikTvd": "4454013174705",
+    "uikName": "УИК №672",
     "tikTvd": "2452000794247",
-    "tikName": "Мишкинская"
+    "tikName": "Мишкинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 673,
     "uikTvd": "4454013174706",
+    "uikName": "УИК №673",
     "tikTvd": "2452000794247",
-    "tikName": "Мишкинская"
+    "tikName": "Мишкинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 674,
     "uikTvd": "4454013174707",
+    "uikName": "УИК №674",
     "tikTvd": "2452000794247",
-    "tikName": "Мишкинская"
+    "tikName": "Мишкинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 675,
     "uikTvd": "4454013174708",
+    "uikName": "УИК №675",
     "tikTvd": "2452000794247",
-    "tikName": "Мишкинская"
+    "tikName": "Мишкинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 677,
     "uikTvd": "4454013174709",
+    "uikName": "УИК №677",
     "tikTvd": "2452000794247",
-    "tikName": "Мишкинская"
+    "tikName": "Мишкинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 678,
     "uikTvd": "4454013174710",
+    "uikName": "УИК №678",
     "tikTvd": "2452000794247",
-    "tikName": "Мишкинская"
+    "tikName": "Мишкинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 679,
     "uikTvd": "4454013174711",
+    "uikName": "УИК №679",
     "tikTvd": "2452000794247",
-    "tikName": "Мишкинская"
+    "tikName": "Мишкинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 680,
     "uikTvd": "4454013174712",
+    "uikName": "УИК №680",
     "tikTvd": "2452000794247",
-    "tikName": "Мишкинская"
+    "tikName": "Мишкинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 682,
     "uikTvd": "4454014190141",
+    "uikName": "УИК №682",
     "tikTvd": "2452000794246",
-    "tikName": "Мокроусовская"
+    "tikName": "Мокроусовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 683,
     "uikTvd": "4454014190142",
+    "uikName": "УИК №683",
     "tikTvd": "2452000794246",
-    "tikName": "Мокроусовская"
+    "tikName": "Мокроусовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 684,
     "uikTvd": "4454014190143",
+    "uikName": "УИК №684",
     "tikTvd": "2452000794246",
-    "tikName": "Мокроусовская"
+    "tikName": "Мокроусовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 685,
     "uikTvd": "4454014190144",
+    "uikName": "УИК №685",
     "tikTvd": "2452000794246",
-    "tikName": "Мокроусовская"
+    "tikName": "Мокроусовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 686,
     "uikTvd": "4454014190145",
+    "uikName": "УИК №686",
     "tikTvd": "2452000794246",
-    "tikName": "Мокроусовская"
+    "tikName": "Мокроусовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 687,
     "uikTvd": "4454014190146",
+    "uikName": "УИК №687",
     "tikTvd": "2452000794246",
-    "tikName": "Мокроусовская"
+    "tikName": "Мокроусовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 688,
     "uikTvd": "4454014190147",
+    "uikName": "УИК №688",
     "tikTvd": "2452000794246",
-    "tikName": "Мокроусовская"
+    "tikName": "Мокроусовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 689,
     "uikTvd": "4454014190148",
+    "uikName": "УИК №689",
     "tikTvd": "2452000794246",
-    "tikName": "Мокроусовская"
+    "tikName": "Мокроусовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 690,
     "uikTvd": "4454014190149",
+    "uikName": "УИК №690",
     "tikTvd": "2452000794246",
-    "tikName": "Мокроусовская"
+    "tikName": "Мокроусовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 691,
     "uikTvd": "4454014190150",
+    "uikName": "УИК №691",
     "tikTvd": "2452000794246",
-    "tikName": "Мокроусовская"
+    "tikName": "Мокроусовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 692,
     "uikTvd": "4454014190151",
+    "uikName": "УИК №692",
     "tikTvd": "2452000794246",
-    "tikName": "Мокроусовская"
+    "tikName": "Мокроусовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 693,
     "uikTvd": "4454014190152",
+    "uikName": "УИК №693",
     "tikTvd": "2452000794246",
-    "tikName": "Мокроусовская"
+    "tikName": "Мокроусовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 694,
     "uikTvd": "4454014190153",
+    "uikName": "УИК №694",
     "tikTvd": "2452000794246",
-    "tikName": "Мокроусовская"
+    "tikName": "Мокроусовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 695,
     "uikTvd": "4454014190154",
+    "uikName": "УИК №695",
     "tikTvd": "2452000794246",
-    "tikName": "Мокроусовская"
+    "tikName": "Мокроусовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 696,
     "uikTvd": "4454014190155",
+    "uikName": "УИК №696",
     "tikTvd": "2452000794246",
-    "tikName": "Мокроусовская"
+    "tikName": "Мокроусовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 697,
     "uikTvd": "4454014190156",
+    "uikName": "УИК №697",
     "tikTvd": "2452000794246",
-    "tikName": "Мокроусовская"
+    "tikName": "Мокроусовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 698,
     "uikTvd": "4454014190157",
+    "uikName": "УИК №698",
     "tikTvd": "2452000794246",
-    "tikName": "Мокроусовская"
+    "tikName": "Мокроусовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 699,
     "uikTvd": "4454014190158",
+    "uikName": "УИК №699",
     "tikTvd": "2452000794246",
-    "tikName": "Мокроусовская"
+    "tikName": "Мокроусовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 700,
     "uikTvd": "4454014190159",
+    "uikName": "УИК №700",
     "tikTvd": "2452000794246",
-    "tikName": "Мокроусовская"
+    "tikName": "Мокроусовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 701,
     "uikTvd": "4454014190160",
+    "uikName": "УИК №701",
     "tikTvd": "2452000794246",
-    "tikName": "Мокроусовская"
+    "tikName": "Мокроусовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 702,
     "uikTvd": "4454014190161",
+    "uikName": "УИК №702",
     "tikTvd": "2452000794246",
-    "tikName": "Мокроусовская"
+    "tikName": "Мокроусовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 703,
     "uikTvd": "4454014190162",
+    "uikName": "УИК №703",
     "tikTvd": "2452000794246",
-    "tikName": "Мокроусовская"
+    "tikName": "Мокроусовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 704,
     "uikTvd": "4454014190163",
+    "uikName": "УИК №704",
     "tikTvd": "2452000794246",
-    "tikName": "Мокроусовская"
+    "tikName": "Мокроусовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 705,
     "uikTvd": "4454014190164",
+    "uikName": "УИК №705",
     "tikTvd": "2452000794246",
-    "tikName": "Мокроусовская"
+    "tikName": "Мокроусовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 706,
     "uikTvd": "4454014190165",
+    "uikName": "УИК №706",
     "tikTvd": "2452000794246",
-    "tikName": "Мокроусовская"
+    "tikName": "Мокроусовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 707,
     "uikTvd": "4454014190166",
+    "uikName": "УИК №707",
     "tikTvd": "2452000794246",
-    "tikName": "Мокроусовская"
+    "tikName": "Мокроусовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 708,
     "uikTvd": "4454014190167",
+    "uikName": "УИК №708",
     "tikTvd": "2452000794246",
-    "tikName": "Мокроусовская"
+    "tikName": "Мокроусовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 709,
     "uikTvd": "4454014190168",
+    "uikName": "УИК №709",
     "tikTvd": "2452000794246",
-    "tikName": "Мокроусовская"
+    "tikName": "Мокроусовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 710,
     "uikTvd": "4454014190169",
+    "uikName": "УИК №710",
     "tikTvd": "2452000794246",
-    "tikName": "Мокроусовская"
+    "tikName": "Мокроусовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 711,
     "uikTvd": "4454014190170",
+    "uikName": "УИК №711",
     "tikTvd": "2452000794246",
-    "tikName": "Мокроусовская"
+    "tikName": "Мокроусовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 712,
     "uikTvd": "4454014190171",
+    "uikName": "УИК №712",
     "tikTvd": "2452000794246",
-    "tikName": "Мокроусовская"
+    "tikName": "Мокроусовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 713,
     "uikTvd": "4454014190172",
+    "uikName": "УИК №713",
     "tikTvd": "2452000794246",
-    "tikName": "Мокроусовская"
+    "tikName": "Мокроусовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 714,
     "uikTvd": "4454014190173",
+    "uikName": "УИК №714",
     "tikTvd": "2452000794246",
-    "tikName": "Мокроусовская"
+    "tikName": "Мокроусовская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 722,
     "uikTvd": "4454015625114",
+    "uikName": "УИК №722",
     "tikTvd": "2452000794245",
-    "tikName": "Петуховская"
+    "tikName": "Петуховская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 723,
     "uikTvd": "4454015625115",
+    "uikName": "УИК №723",
     "tikTvd": "2452000794245",
-    "tikName": "Петуховская"
+    "tikName": "Петуховская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 724,
     "uikTvd": "4454015625116",
+    "uikName": "УИК №724",
     "tikTvd": "2452000794245",
-    "tikName": "Петуховская"
+    "tikName": "Петуховская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 725,
     "uikTvd": "4454015625117",
+    "uikName": "УИК №725",
     "tikTvd": "2452000794245",
-    "tikName": "Петуховская"
+    "tikName": "Петуховская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 726,
     "uikTvd": "4454015625118",
+    "uikName": "УИК №726",
     "tikTvd": "2452000794245",
-    "tikName": "Петуховская"
+    "tikName": "Петуховская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 727,
     "uikTvd": "4454015625119",
+    "uikName": "УИК №727",
     "tikTvd": "2452000794245",
-    "tikName": "Петуховская"
+    "tikName": "Петуховская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 728,
     "uikTvd": "4454015625120",
+    "uikName": "УИК №728",
     "tikTvd": "2452000794245",
-    "tikName": "Петуховская"
+    "tikName": "Петуховская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 730,
     "uikTvd": "4454015625121",
+    "uikName": "УИК №730",
     "tikTvd": "2452000794245",
-    "tikName": "Петуховская"
+    "tikName": "Петуховская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 731,
     "uikTvd": "4454015625122",
+    "uikName": "УИК №731",
     "tikTvd": "2452000794245",
-    "tikName": "Петуховская"
+    "tikName": "Петуховская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 732,
     "uikTvd": "4454015625123",
+    "uikName": "УИК №732",
     "tikTvd": "2452000794245",
-    "tikName": "Петуховская"
+    "tikName": "Петуховская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 733,
     "uikTvd": "4454015625124",
+    "uikName": "УИК №733",
     "tikTvd": "2452000794245",
-    "tikName": "Петуховская"
+    "tikName": "Петуховская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 734,
     "uikTvd": "4454015625125",
+    "uikName": "УИК №734",
     "tikTvd": "2452000794245",
-    "tikName": "Петуховская"
+    "tikName": "Петуховская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 735,
     "uikTvd": "4454015625126",
+    "uikName": "УИК №735",
     "tikTvd": "2452000794245",
-    "tikName": "Петуховская"
+    "tikName": "Петуховская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 738,
     "uikTvd": "4454015625127",
+    "uikName": "УИК №738",
     "tikTvd": "2452000794245",
-    "tikName": "Петуховская"
+    "tikName": "Петуховская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 740,
     "uikTvd": "4454015625128",
+    "uikName": "УИК №740",
     "tikTvd": "2452000794245",
-    "tikName": "Петуховская"
+    "tikName": "Петуховская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 741,
     "uikTvd": "4454015625129",
+    "uikName": "УИК №741",
     "tikTvd": "2452000794245",
-    "tikName": "Петуховская"
+    "tikName": "Петуховская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 742,
     "uikTvd": "4454015625130",
+    "uikName": "УИК №742",
     "tikTvd": "2452000794245",
-    "tikName": "Петуховская"
+    "tikName": "Петуховская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 743,
     "uikTvd": "4454015625131",
+    "uikName": "УИК №743",
     "tikTvd": "2452000794245",
-    "tikName": "Петуховская"
+    "tikName": "Петуховская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 744,
     "uikTvd": "4454015625132",
+    "uikName": "УИК №744",
     "tikTvd": "2452000794245",
-    "tikName": "Петуховская"
+    "tikName": "Петуховская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 745,
     "uikTvd": "4454015625133",
+    "uikName": "УИК №745",
     "tikTvd": "2452000794245",
-    "tikName": "Петуховская"
+    "tikName": "Петуховская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 746,
     "uikTvd": "4454015625134",
+    "uikName": "УИК №746",
     "tikTvd": "2452000794245",
-    "tikName": "Петуховская"
+    "tikName": "Петуховская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 747,
     "uikTvd": "4454015625135",
+    "uikName": "УИК №747",
     "tikTvd": "2452000794245",
-    "tikName": "Петуховская"
+    "tikName": "Петуховская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 748,
     "uikTvd": "4454015625136",
+    "uikName": "УИК №748",
     "tikTvd": "2452000794245",
-    "tikName": "Петуховская"
+    "tikName": "Петуховская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 751,
     "uikTvd": "4454015625137",
+    "uikName": "УИК №751",
     "tikTvd": "2452000794245",
-    "tikName": "Петуховская"
+    "tikName": "Петуховская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 754,
     "uikTvd": "4454015625138",
+    "uikName": "УИК №754",
     "tikTvd": "2452000794245",
-    "tikName": "Петуховская"
+    "tikName": "Петуховская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 755,
     "uikTvd": "4454015625139",
+    "uikName": "УИК №755",
     "tikTvd": "2452000794245",
-    "tikName": "Петуховская"
+    "tikName": "Петуховская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 756,
     "uikTvd": "4454015625140",
+    "uikName": "УИК №756",
     "tikTvd": "2452000794245",
-    "tikName": "Петуховская"
+    "tikName": "Петуховская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 758,
     "uikTvd": "4454015625141",
+    "uikName": "УИК №758",
     "tikTvd": "2452000794245",
-    "tikName": "Петуховская"
+    "tikName": "Петуховская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 759,
     "uikTvd": "4454015625142",
+    "uikName": "УИК №759",
     "tikTvd": "2452000794245",
-    "tikName": "Петуховская"
+    "tikName": "Петуховская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 760,
     "uikTvd": "4454015625143",
+    "uikName": "УИК №760",
     "tikTvd": "2452000794245",
-    "tikName": "Петуховская"
+    "tikName": "Петуховская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 761,
     "uikTvd": "4454015625144",
+    "uikName": "УИК №761",
     "tikTvd": "2452000794245",
-    "tikName": "Петуховская"
+    "tikName": "Петуховская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 762,
     "uikTvd": "4454015625145",
+    "uikName": "УИК №762",
     "tikTvd": "2452000794245",
-    "tikName": "Петуховская"
+    "tikName": "Петуховская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 763,
     "uikTvd": "4454015625146",
+    "uikName": "УИК №763",
     "tikTvd": "2452000794245",
-    "tikName": "Петуховская"
+    "tikName": "Петуховская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 767,
     "uikTvd": "4454016154481",
+    "uikName": "УИК №767",
     "tikTvd": "2452000794244",
-    "tikName": "Половинская"
+    "tikName": "Половинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 768,
     "uikTvd": "4454016154482",
+    "uikName": "УИК №768",
     "tikTvd": "2452000794244",
-    "tikName": "Половинская"
+    "tikName": "Половинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 769,
     "uikTvd": "4454016154483",
+    "uikName": "УИК №769",
     "tikTvd": "2452000794244",
-    "tikName": "Половинская"
+    "tikName": "Половинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 770,
     "uikTvd": "4454016154484",
+    "uikName": "УИК №770",
     "tikTvd": "2452000794244",
-    "tikName": "Половинская"
+    "tikName": "Половинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 771,
     "uikTvd": "4454016154485",
+    "uikName": "УИК №771",
     "tikTvd": "2452000794244",
-    "tikName": "Половинская"
+    "tikName": "Половинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 772,
     "uikTvd": "4454016154486",
+    "uikName": "УИК №772",
     "tikTvd": "2452000794244",
-    "tikName": "Половинская"
+    "tikName": "Половинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 773,
     "uikTvd": "4454016154487",
+    "uikName": "УИК №773",
     "tikTvd": "2452000794244",
-    "tikName": "Половинская"
+    "tikName": "Половинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 774,
     "uikTvd": "4454016154488",
+    "uikName": "УИК №774",
     "tikTvd": "2452000794244",
-    "tikName": "Половинская"
+    "tikName": "Половинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 775,
     "uikTvd": "4454016154489",
+    "uikName": "УИК №775",
     "tikTvd": "2452000794244",
-    "tikName": "Половинская"
+    "tikName": "Половинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 776,
     "uikTvd": "4454016154490",
+    "uikName": "УИК №776",
     "tikTvd": "2452000794244",
-    "tikName": "Половинская"
+    "tikName": "Половинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 777,
     "uikTvd": "4454016154491",
+    "uikName": "УИК №777",
     "tikTvd": "2452000794244",
-    "tikName": "Половинская"
+    "tikName": "Половинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 778,
     "uikTvd": "4454016154492",
+    "uikName": "УИК №778",
     "tikTvd": "2452000794244",
-    "tikName": "Половинская"
+    "tikName": "Половинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 779,
     "uikTvd": "4454016154493",
+    "uikName": "УИК №779",
     "tikTvd": "2452000794244",
-    "tikName": "Половинская"
+    "tikName": "Половинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 780,
     "uikTvd": "4454016154494",
+    "uikName": "УИК №780",
     "tikTvd": "2452000794244",
-    "tikName": "Половинская"
+    "tikName": "Половинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 781,
     "uikTvd": "4454016154495",
+    "uikName": "УИК №781",
     "tikTvd": "2452000794244",
-    "tikName": "Половинская"
+    "tikName": "Половинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 782,
     "uikTvd": "4454016154496",
+    "uikName": "УИК №782",
     "tikTvd": "2452000794244",
-    "tikName": "Половинская"
+    "tikName": "Половинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 783,
     "uikTvd": "4454016154497",
+    "uikName": "УИК №783",
     "tikTvd": "2452000794244",
-    "tikName": "Половинская"
+    "tikName": "Половинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 784,
     "uikTvd": "4454016154498",
+    "uikName": "УИК №784",
     "tikTvd": "2452000794244",
-    "tikName": "Половинская"
+    "tikName": "Половинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 785,
     "uikTvd": "4454016154499",
+    "uikName": "УИК №785",
     "tikTvd": "2452000794244",
-    "tikName": "Половинская"
+    "tikName": "Половинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 786,
     "uikTvd": "4454016154500",
+    "uikName": "УИК №786",
     "tikTvd": "2452000794244",
-    "tikName": "Половинская"
+    "tikName": "Половинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 787,
     "uikTvd": "4454016154501",
+    "uikName": "УИК №787",
     "tikTvd": "2452000794244",
-    "tikName": "Половинская"
+    "tikName": "Половинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 788,
     "uikTvd": "4454016154502",
+    "uikName": "УИК №788",
     "tikTvd": "2452000794244",
-    "tikName": "Половинская"
+    "tikName": "Половинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 789,
     "uikTvd": "4454016154503",
+    "uikName": "УИК №789",
     "tikTvd": "2452000794244",
-    "tikName": "Половинская"
+    "tikName": "Половинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 800,
     "uikTvd": "4454017179407",
+    "uikName": "УИК №800",
     "tikTvd": "2452000794243",
-    "tikName": "Притобольная"
+    "tikName": "Притобольная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 801,
     "uikTvd": "4454017179408",
+    "uikName": "УИК №801",
     "tikTvd": "2452000794243",
-    "tikName": "Притобольная"
+    "tikName": "Притобольная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 802,
     "uikTvd": "4454017179409",
+    "uikName": "УИК №802",
     "tikTvd": "2452000794243",
-    "tikName": "Притобольная"
+    "tikName": "Притобольная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 803,
     "uikTvd": "4454017179410",
+    "uikName": "УИК №803",
     "tikTvd": "2452000794243",
-    "tikName": "Притобольная"
+    "tikName": "Притобольная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 804,
     "uikTvd": "4454017179411",
+    "uikName": "УИК №804",
     "tikTvd": "2452000794243",
-    "tikName": "Притобольная"
+    "tikName": "Притобольная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 805,
     "uikTvd": "4454017179412",
+    "uikName": "УИК №805",
     "tikTvd": "2452000794243",
-    "tikName": "Притобольная"
+    "tikName": "Притобольная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 806,
     "uikTvd": "4454017179413",
+    "uikName": "УИК №806",
     "tikTvd": "2452000794243",
-    "tikName": "Притобольная"
+    "tikName": "Притобольная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 807,
     "uikTvd": "4454017179414",
+    "uikName": "УИК №807",
     "tikTvd": "2452000794243",
-    "tikName": "Притобольная"
+    "tikName": "Притобольная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 808,
     "uikTvd": "4454017179415",
+    "uikName": "УИК №808",
     "tikTvd": "2452000794243",
-    "tikName": "Притобольная"
+    "tikName": "Притобольная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 809,
     "uikTvd": "4454017179416",
+    "uikName": "УИК №809",
     "tikTvd": "2452000794243",
-    "tikName": "Притобольная"
+    "tikName": "Притобольная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 810,
     "uikTvd": "4454017179417",
+    "uikName": "УИК №810",
     "tikTvd": "2452000794243",
-    "tikName": "Притобольная"
+    "tikName": "Притобольная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 811,
     "uikTvd": "4454017179418",
+    "uikName": "УИК №811",
     "tikTvd": "2452000794243",
-    "tikName": "Притобольная"
+    "tikName": "Притобольная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 812,
     "uikTvd": "4454017179419",
+    "uikName": "УИК №812",
     "tikTvd": "2452000794243",
-    "tikName": "Притобольная"
+    "tikName": "Притобольная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 813,
     "uikTvd": "4454017179420",
+    "uikName": "УИК №813",
     "tikTvd": "2452000794243",
-    "tikName": "Притобольная"
+    "tikName": "Притобольная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 814,
     "uikTvd": "4454017179421",
+    "uikName": "УИК №814",
     "tikTvd": "2452000794243",
-    "tikName": "Притобольная"
+    "tikName": "Притобольная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 816,
     "uikTvd": "4454017179422",
+    "uikName": "УИК №816",
     "tikTvd": "2452000794243",
-    "tikName": "Притобольная"
+    "tikName": "Притобольная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 817,
     "uikTvd": "4454017179423",
+    "uikName": "УИК №817",
     "tikTvd": "2452000794243",
-    "tikName": "Притобольная"
+    "tikName": "Притобольная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 818,
     "uikTvd": "4454017179424",
+    "uikName": "УИК №818",
     "tikTvd": "2452000794243",
-    "tikName": "Притобольная"
+    "tikName": "Притобольная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 819,
     "uikTvd": "4454017179425",
+    "uikName": "УИК №819",
     "tikTvd": "2452000794243",
-    "tikName": "Притобольная"
+    "tikName": "Притобольная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 820,
     "uikTvd": "4454017179426",
+    "uikName": "УИК №820",
     "tikTvd": "2452000794243",
-    "tikName": "Притобольная"
+    "tikName": "Притобольная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 821,
     "uikTvd": "4454017179427",
+    "uikName": "УИК №821",
     "tikTvd": "2452000794243",
-    "tikName": "Притобольная"
+    "tikName": "Притобольная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 822,
     "uikTvd": "4454017179428",
+    "uikName": "УИК №822",
     "tikTvd": "2452000794243",
-    "tikName": "Притобольная"
+    "tikName": "Притобольная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 823,
     "uikTvd": "4454017179429",
+    "uikName": "УИК №823",
     "tikTvd": "2452000794243",
-    "tikName": "Притобольная"
+    "tikName": "Притобольная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 824,
     "uikTvd": "4454017179430",
+    "uikName": "УИК №824",
     "tikTvd": "2452000794243",
-    "tikName": "Притобольная"
+    "tikName": "Притобольная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 825,
     "uikTvd": "4454017179431",
+    "uikName": "УИК №825",
     "tikTvd": "2452000794243",
-    "tikName": "Притобольная"
+    "tikName": "Притобольная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 826,
     "uikTvd": "4454017179432",
+    "uikName": "УИК №826",
     "tikTvd": "2452000794243",
-    "tikName": "Притобольная"
+    "tikName": "Притобольная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 827,
     "uikTvd": "4454017179433",
+    "uikName": "УИК №827",
     "tikTvd": "2452000794243",
-    "tikName": "Притобольная"
+    "tikName": "Притобольная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 831,
     "uikTvd": "4454018192556",
+    "uikName": "УИК №831",
     "tikTvd": "2452000794242",
-    "tikName": "Сафакулевская"
+    "tikName": "Сафакулевская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 832,
     "uikTvd": "4454018192557",
+    "uikName": "УИК №832",
     "tikTvd": "2452000794242",
-    "tikName": "Сафакулевская"
+    "tikName": "Сафакулевская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 833,
     "uikTvd": "4454018192558",
+    "uikName": "УИК №833",
     "tikTvd": "2452000794242",
-    "tikName": "Сафакулевская"
+    "tikName": "Сафакулевская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 834,
     "uikTvd": "4454018192559",
+    "uikName": "УИК №834",
     "tikTvd": "2452000794242",
-    "tikName": "Сафакулевская"
+    "tikName": "Сафакулевская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 835,
     "uikTvd": "4454018192560",
+    "uikName": "УИК №835",
     "tikTvd": "2452000794242",
-    "tikName": "Сафакулевская"
+    "tikName": "Сафакулевская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 836,
     "uikTvd": "4454018192561",
+    "uikName": "УИК №836",
     "tikTvd": "2452000794242",
-    "tikName": "Сафакулевская"
+    "tikName": "Сафакулевская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 837,
     "uikTvd": "4454018192562",
+    "uikName": "УИК №837",
     "tikTvd": "2452000794242",
-    "tikName": "Сафакулевская"
+    "tikName": "Сафакулевская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 838,
     "uikTvd": "4454018192563",
+    "uikName": "УИК №838",
     "tikTvd": "2452000794242",
-    "tikName": "Сафакулевская"
+    "tikName": "Сафакулевская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 840,
     "uikTvd": "4454018192564",
+    "uikName": "УИК №840",
     "tikTvd": "2452000794242",
-    "tikName": "Сафакулевская"
+    "tikName": "Сафакулевская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 841,
     "uikTvd": "4454018192565",
+    "uikName": "УИК №841",
     "tikTvd": "2452000794242",
-    "tikName": "Сафакулевская"
+    "tikName": "Сафакулевская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 843,
     "uikTvd": "4454018192566",
+    "uikName": "УИК №843",
     "tikTvd": "2452000794242",
-    "tikName": "Сафакулевская"
+    "tikName": "Сафакулевская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 845,
     "uikTvd": "4454018192567",
+    "uikName": "УИК №845",
     "tikTvd": "2452000794242",
-    "tikName": "Сафакулевская"
+    "tikName": "Сафакулевская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 846,
     "uikTvd": "4454018192568",
+    "uikName": "УИК №846",
     "tikTvd": "2452000794242",
-    "tikName": "Сафакулевская"
+    "tikName": "Сафакулевская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 848,
     "uikTvd": "4454018192569",
+    "uikName": "УИК №848",
     "tikTvd": "2452000794242",
-    "tikName": "Сафакулевская"
+    "tikName": "Сафакулевская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 849,
     "uikTvd": "4454018192570",
+    "uikName": "УИК №849",
     "tikTvd": "2452000794242",
-    "tikName": "Сафакулевская"
+    "tikName": "Сафакулевская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 850,
     "uikTvd": "4454018192571",
+    "uikName": "УИК №850",
     "tikTvd": "2452000794242",
-    "tikName": "Сафакулевская"
+    "tikName": "Сафакулевская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 851,
     "uikTvd": "4454018192572",
+    "uikName": "УИК №851",
     "tikTvd": "2452000794242",
-    "tikName": "Сафакулевская"
+    "tikName": "Сафакулевская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 852,
     "uikTvd": "4454018192573",
+    "uikName": "УИК №852",
     "tikTvd": "2452000794242",
-    "tikName": "Сафакулевская"
+    "tikName": "Сафакулевская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 853,
     "uikTvd": "4454018192574",
+    "uikName": "УИК №853",
     "tikTvd": "2452000794242",
-    "tikName": "Сафакулевская"
+    "tikName": "Сафакулевская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 854,
     "uikTvd": "4454018192575",
+    "uikName": "УИК №854",
     "tikTvd": "2452000794242",
-    "tikName": "Сафакулевская"
+    "tikName": "Сафакулевская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 855,
     "uikTvd": "4454018192576",
+    "uikName": "УИК №855",
     "tikTvd": "2452000794242",
-    "tikName": "Сафакулевская"
+    "tikName": "Сафакулевская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 856,
     "uikTvd": "4454018192577",
+    "uikName": "УИК №856",
     "tikTvd": "2452000794242",
-    "tikName": "Сафакулевская"
+    "tikName": "Сафакулевская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 857,
     "uikTvd": "4454018192578",
+    "uikName": "УИК №857",
     "tikTvd": "2452000794242",
-    "tikName": "Сафакулевская"
+    "tikName": "Сафакулевская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 858,
     "uikTvd": "4454018192579",
+    "uikName": "УИК №858",
     "tikTvd": "2452000794242",
-    "tikName": "Сафакулевская"
+    "tikName": "Сафакулевская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 859,
     "uikTvd": "4454018192580",
+    "uikName": "УИК №859",
     "tikTvd": "2452000794242",
-    "tikName": "Сафакулевская"
+    "tikName": "Сафакулевская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 860,
     "uikTvd": "4454018192581",
+    "uikName": "УИК №860",
     "tikTvd": "2452000794242",
-    "tikName": "Сафакулевская"
+    "tikName": "Сафакулевская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 863,
     "uikTvd": "4454018192582",
+    "uikName": "УИК №863",
     "tikTvd": "2452000794242",
-    "tikName": "Сафакулевская"
+    "tikName": "Сафакулевская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 864,
     "uikTvd": "4454018192583",
+    "uikName": "УИК №864",
     "tikTvd": "2452000794242",
-    "tikName": "Сафакулевская"
+    "tikName": "Сафакулевская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 866,
     "uikTvd": "4454019189831",
+    "uikName": "УИК №866",
     "tikTvd": "2452000794241",
-    "tikName": "Целинная"
+    "tikName": "Целинная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 867,
     "uikTvd": "4454019189832",
+    "uikName": "УИК №867",
     "tikTvd": "2452000794241",
-    "tikName": "Целинная"
+    "tikName": "Целинная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 868,
     "uikTvd": "4454019189833",
+    "uikName": "УИК №868",
     "tikTvd": "2452000794241",
-    "tikName": "Целинная"
+    "tikName": "Целинная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 869,
     "uikTvd": "4454019189834",
+    "uikName": "УИК №869",
     "tikTvd": "2452000794241",
-    "tikName": "Целинная"
+    "tikName": "Целинная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 870,
     "uikTvd": "4454019189835",
+    "uikName": "УИК №870",
     "tikTvd": "2452000794241",
-    "tikName": "Целинная"
+    "tikName": "Целинная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 871,
     "uikTvd": "4454019189836",
+    "uikName": "УИК №871",
     "tikTvd": "2452000794241",
-    "tikName": "Целинная"
+    "tikName": "Целинная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 872,
     "uikTvd": "4454019189837",
+    "uikName": "УИК №872",
     "tikTvd": "2452000794241",
-    "tikName": "Целинная"
+    "tikName": "Целинная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 873,
     "uikTvd": "4454019189838",
+    "uikName": "УИК №873",
     "tikTvd": "2452000794241",
-    "tikName": "Целинная"
+    "tikName": "Целинная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 874,
     "uikTvd": "4454019189839",
+    "uikName": "УИК №874",
     "tikTvd": "2452000794241",
-    "tikName": "Целинная"
+    "tikName": "Целинная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 875,
     "uikTvd": "4454019189840",
+    "uikName": "УИК №875",
     "tikTvd": "2452000794241",
-    "tikName": "Целинная"
+    "tikName": "Целинная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 876,
     "uikTvd": "4454019189841",
+    "uikName": "УИК №876",
     "tikTvd": "2452000794241",
-    "tikName": "Целинная"
+    "tikName": "Целинная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 877,
     "uikTvd": "4454019189842",
+    "uikName": "УИК №877",
     "tikTvd": "2452000794241",
-    "tikName": "Целинная"
+    "tikName": "Целинная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 878,
     "uikTvd": "4454019189843",
+    "uikName": "УИК №878",
     "tikTvd": "2452000794241",
-    "tikName": "Целинная"
+    "tikName": "Целинная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 879,
     "uikTvd": "4454019189844",
+    "uikName": "УИК №879",
     "tikTvd": "2452000794241",
-    "tikName": "Целинная"
+    "tikName": "Целинная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 880,
     "uikTvd": "4454019189845",
+    "uikName": "УИК №880",
     "tikTvd": "2452000794241",
-    "tikName": "Целинная"
+    "tikName": "Целинная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 881,
     "uikTvd": "4454019189846",
+    "uikName": "УИК №881",
     "tikTvd": "2452000794241",
-    "tikName": "Целинная"
+    "tikName": "Целинная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 882,
     "uikTvd": "4454019189847",
+    "uikName": "УИК №882",
     "tikTvd": "2452000794241",
-    "tikName": "Целинная"
+    "tikName": "Целинная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 883,
     "uikTvd": "4454019189848",
+    "uikName": "УИК №883",
     "tikTvd": "2452000794241",
-    "tikName": "Целинная"
+    "tikName": "Целинная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 884,
     "uikTvd": "4454019189849",
+    "uikName": "УИК №884",
     "tikTvd": "2452000794241",
-    "tikName": "Целинная"
+    "tikName": "Целинная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 885,
     "uikTvd": "4454019189850",
+    "uikName": "УИК №885",
     "tikTvd": "2452000794241",
-    "tikName": "Целинная"
+    "tikName": "Целинная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 886,
     "uikTvd": "4454019189851",
+    "uikName": "УИК №886",
     "tikTvd": "2452000794241",
-    "tikName": "Целинная"
+    "tikName": "Целинная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 887,
     "uikTvd": "4454019189852",
+    "uikName": "УИК №887",
     "tikTvd": "2452000794241",
-    "tikName": "Целинная"
+    "tikName": "Целинная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 888,
     "uikTvd": "4454019189853",
+    "uikName": "УИК №888",
     "tikTvd": "2452000794241",
-    "tikName": "Целинная"
+    "tikName": "Целинная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 889,
     "uikTvd": "4454019189854",
+    "uikName": "УИК №889",
     "tikTvd": "2452000794241",
-    "tikName": "Целинная"
+    "tikName": "Целинная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 890,
     "uikTvd": "4454019189855",
+    "uikName": "УИК №890",
     "tikTvd": "2452000794241",
-    "tikName": "Целинная"
+    "tikName": "Целинная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 891,
     "uikTvd": "4454019189856",
+    "uikName": "УИК №891",
     "tikTvd": "2452000794241",
-    "tikName": "Целинная"
+    "tikName": "Целинная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 892,
     "uikTvd": "4454019189857",
+    "uikName": "УИК №892",
     "tikTvd": "2452000794241",
-    "tikName": "Целинная"
+    "tikName": "Целинная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 893,
     "uikTvd": "4454019189858",
+    "uikName": "УИК №893",
     "tikTvd": "2452000794241",
-    "tikName": "Целинная"
+    "tikName": "Целинная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 894,
     "uikTvd": "4454019189859",
+    "uikName": "УИК №894",
     "tikTvd": "2452000794241",
-    "tikName": "Целинная"
+    "tikName": "Целинная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 895,
     "uikTvd": "4454019189860",
+    "uikName": "УИК №895",
     "tikTvd": "2452000794241",
-    "tikName": "Целинная"
+    "tikName": "Целинная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 896,
     "uikTvd": "4454019189861",
+    "uikName": "УИК №896",
     "tikTvd": "2452000794241",
-    "tikName": "Целинная"
+    "tikName": "Целинная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 897,
     "uikTvd": "4454019189862",
+    "uikName": "УИК №897",
     "tikTvd": "2452000794241",
-    "tikName": "Целинная"
+    "tikName": "Целинная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 898,
     "uikTvd": "4454019189863",
+    "uikName": "УИК №898",
     "tikTvd": "2452000794241",
-    "tikName": "Целинная"
+    "tikName": "Целинная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 899,
     "uikTvd": "4454019189864",
+    "uikName": "УИК №899",
     "tikTvd": "2452000794241",
-    "tikName": "Целинная"
+    "tikName": "Целинная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 910,
     "uikTvd": "4454027185220",
+    "uikName": "УИК №910",
     "tikTvd": "2452000794251",
-    "tikName": "Курган, Западная"
+    "tikName": "Курган, Западная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 911,
     "uikTvd": "4454027185221",
+    "uikName": "УИК №911",
     "tikTvd": "2452000794251",
-    "tikName": "Курган, Западная"
+    "tikName": "Курган, Западная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 912,
     "uikTvd": "4454027185222",
+    "uikName": "УИК №912",
     "tikTvd": "2452000794251",
-    "tikName": "Курган, Западная"
+    "tikName": "Курган, Западная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 913,
     "uikTvd": "4454020146516",
+    "uikName": "УИК №913",
     "tikTvd": "2452000794240",
-    "tikName": "Частоозерская"
+    "tikName": "Частоозерская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 914,
     "uikTvd": "4454020146518",
+    "uikName": "УИК №914",
     "tikTvd": "2452000794240",
-    "tikName": "Частоозерская"
+    "tikName": "Частоозерская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 915,
     "uikTvd": "4454020146519",
+    "uikName": "УИК №915",
     "tikTvd": "2452000794240",
-    "tikName": "Частоозерская"
+    "tikName": "Частоозерская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 916,
     "uikTvd": "4454020146520",
+    "uikName": "УИК №916",
     "tikTvd": "2452000794240",
-    "tikName": "Частоозерская"
+    "tikName": "Частоозерская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 917,
     "uikTvd": "4454020146521",
+    "uikName": "УИК №917",
     "tikTvd": "2452000794240",
-    "tikName": "Частоозерская"
+    "tikName": "Частоозерская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 918,
     "uikTvd": "4454020146522",
+    "uikName": "УИК №918",
     "tikTvd": "2452000794240",
-    "tikName": "Частоозерская"
+    "tikName": "Частоозерская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 919,
     "uikTvd": "4454020146523",
+    "uikName": "УИК №919",
     "tikTvd": "2452000794240",
-    "tikName": "Частоозерская"
+    "tikName": "Частоозерская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 920,
     "uikTvd": "4454020146524",
+    "uikName": "УИК №920",
     "tikTvd": "2452000794240",
-    "tikName": "Частоозерская"
+    "tikName": "Частоозерская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 921,
     "uikTvd": "4454020146525",
+    "uikName": "УИК №921",
     "tikTvd": "2452000794240",
-    "tikName": "Частоозерская"
+    "tikName": "Частоозерская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 922,
     "uikTvd": "4454020146526",
+    "uikName": "УИК №922",
     "tikTvd": "2452000794240",
-    "tikName": "Частоозерская"
+    "tikName": "Частоозерская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 923,
     "uikTvd": "4454020146527",
+    "uikName": "УИК №923",
     "tikTvd": "2452000794240",
-    "tikName": "Частоозерская"
+    "tikName": "Частоозерская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 924,
     "uikTvd": "4454020146528",
+    "uikName": "УИК №924",
     "tikTvd": "2452000794240",
-    "tikName": "Частоозерская"
+    "tikName": "Частоозерская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 925,
     "uikTvd": "4454020146529",
+    "uikName": "УИК №925",
     "tikTvd": "2452000794240",
-    "tikName": "Частоозерская"
+    "tikName": "Частоозерская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 926,
     "uikTvd": "4454020146530",
+    "uikName": "УИК №926",
     "tikTvd": "2452000794240",
-    "tikName": "Частоозерская"
+    "tikName": "Частоозерская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 927,
     "uikTvd": "4454020146531",
+    "uikName": "УИК №927",
     "tikTvd": "2452000794240",
-    "tikName": "Частоозерская"
+    "tikName": "Частоозерская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 928,
     "uikTvd": "4454020146532",
+    "uikName": "УИК №928",
     "tikTvd": "2452000794240",
-    "tikName": "Частоозерская"
+    "tikName": "Частоозерская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 929,
     "uikTvd": "4454020146533",
+    "uikName": "УИК №929",
     "tikTvd": "2452000794240",
-    "tikName": "Частоозерская"
+    "tikName": "Частоозерская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 930,
     "uikTvd": "4454020146534",
+    "uikName": "УИК №930",
     "tikTvd": "2452000794240",
-    "tikName": "Частоозерская"
+    "tikName": "Частоозерская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 932,
     "uikTvd": "4454021224865",
+    "uikName": "УИК №932",
     "tikTvd": "2452000794239",
-    "tikName": "Шадринская"
+    "tikName": "Шадринская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 933,
     "uikTvd": "4454021224866",
+    "uikName": "УИК №933",
     "tikTvd": "2452000794239",
-    "tikName": "Шадринская"
+    "tikName": "Шадринская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 934,
     "uikTvd": "4454021224867",
+    "uikName": "УИК №934",
     "tikTvd": "2452000794239",
-    "tikName": "Шадринская"
+    "tikName": "Шадринская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 935,
     "uikTvd": "4454021224868",
+    "uikName": "УИК №935",
     "tikTvd": "2452000794239",
-    "tikName": "Шадринская"
+    "tikName": "Шадринская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 936,
     "uikTvd": "4454021224869",
+    "uikName": "УИК №936",
     "tikTvd": "2452000794239",
-    "tikName": "Шадринская"
+    "tikName": "Шадринская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 937,
     "uikTvd": "4454021224870",
+    "uikName": "УИК №937",
     "tikTvd": "2452000794239",
-    "tikName": "Шадринская"
+    "tikName": "Шадринская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 938,
     "uikTvd": "4454021224871",
+    "uikName": "УИК №938",
     "tikTvd": "2452000794239",
-    "tikName": "Шадринская"
+    "tikName": "Шадринская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 939,
     "uikTvd": "4454021224872",
+    "uikName": "УИК №939",
     "tikTvd": "2452000794239",
-    "tikName": "Шадринская"
+    "tikName": "Шадринская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 940,
     "uikTvd": "4454021224873",
+    "uikName": "УИК №940",
     "tikTvd": "2452000794239",
-    "tikName": "Шадринская"
+    "tikName": "Шадринская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 941,
     "uikTvd": "4454021224874",
+    "uikName": "УИК №941",
     "tikTvd": "2452000794239",
-    "tikName": "Шадринская"
+    "tikName": "Шадринская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 942,
     "uikTvd": "4454021224875",
+    "uikName": "УИК №942",
     "tikTvd": "2452000794239",
-    "tikName": "Шадринская"
+    "tikName": "Шадринская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 943,
     "uikTvd": "4454021224876",
+    "uikName": "УИК №943",
     "tikTvd": "2452000794239",
-    "tikName": "Шадринская"
+    "tikName": "Шадринская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 944,
     "uikTvd": "4454021224877",
+    "uikName": "УИК №944",
     "tikTvd": "2452000794239",
-    "tikName": "Шадринская"
+    "tikName": "Шадринская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 945,
     "uikTvd": "4454021224878",
+    "uikName": "УИК №945",
     "tikTvd": "2452000794239",
-    "tikName": "Шадринская"
+    "tikName": "Шадринская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 946,
     "uikTvd": "4454021224879",
+    "uikName": "УИК №946",
     "tikTvd": "2452000794239",
-    "tikName": "Шадринская"
+    "tikName": "Шадринская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 947,
     "uikTvd": "4454021224880",
+    "uikName": "УИК №947",
     "tikTvd": "2452000794239",
-    "tikName": "Шадринская"
+    "tikName": "Шадринская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 948,
     "uikTvd": "4454021224881",
+    "uikName": "УИК №948",
     "tikTvd": "2452000794239",
-    "tikName": "Шадринская"
+    "tikName": "Шадринская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 949,
     "uikTvd": "4454021224882",
+    "uikName": "УИК №949",
     "tikTvd": "2452000794239",
-    "tikName": "Шадринская"
+    "tikName": "Шадринская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 950,
     "uikTvd": "4454021224883",
+    "uikName": "УИК №950",
     "tikTvd": "2452000794239",
-    "tikName": "Шадринская"
+    "tikName": "Шадринская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 951,
     "uikTvd": "4454021224884",
+    "uikName": "УИК №951",
     "tikTvd": "2452000794239",
-    "tikName": "Шадринская"
+    "tikName": "Шадринская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 952,
     "uikTvd": "4454021224885",
+    "uikName": "УИК №952",
     "tikTvd": "2452000794239",
-    "tikName": "Шадринская"
+    "tikName": "Шадринская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 953,
     "uikTvd": "4454021224886",
+    "uikName": "УИК №953",
     "tikTvd": "2452000794239",
-    "tikName": "Шадринская"
+    "tikName": "Шадринская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 954,
     "uikTvd": "4454021224887",
+    "uikName": "УИК №954",
     "tikTvd": "2452000794239",
-    "tikName": "Шадринская"
+    "tikName": "Шадринская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 955,
     "uikTvd": "4454021224888",
+    "uikName": "УИК №955",
     "tikTvd": "2452000794239",
-    "tikName": "Шадринская"
+    "tikName": "Шадринская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 956,
     "uikTvd": "4454021224889",
+    "uikName": "УИК №956",
     "tikTvd": "2452000794239",
-    "tikName": "Шадринская"
+    "tikName": "Шадринская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 957,
     "uikTvd": "4454021224890",
+    "uikName": "УИК №957",
     "tikTvd": "2452000794239",
-    "tikName": "Шадринская"
+    "tikName": "Шадринская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 958,
     "uikTvd": "4454021224891",
+    "uikName": "УИК №958",
     "tikTvd": "2452000794239",
-    "tikName": "Шадринская"
+    "tikName": "Шадринская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 959,
     "uikTvd": "4454021224892",
+    "uikName": "УИК №959",
     "tikTvd": "2452000794239",
-    "tikName": "Шадринская"
+    "tikName": "Шадринская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 960,
     "uikTvd": "4454021224893",
+    "uikName": "УИК №960",
     "tikTvd": "2452000794239",
-    "tikName": "Шадринская"
+    "tikName": "Шадринская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 961,
     "uikTvd": "4454021224894",
+    "uikName": "УИК №961",
     "tikTvd": "2452000794239",
-    "tikName": "Шадринская"
+    "tikName": "Шадринская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 962,
     "uikTvd": "4454021224895",
+    "uikName": "УИК №962",
     "tikTvd": "2452000794239",
-    "tikName": "Шадринская"
+    "tikName": "Шадринская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 963,
     "uikTvd": "4454021224896",
+    "uikName": "УИК №963",
     "tikTvd": "2452000794239",
-    "tikName": "Шадринская"
+    "tikName": "Шадринская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 964,
     "uikTvd": "4454021224897",
+    "uikName": "УИК №964",
     "tikTvd": "2452000794239",
-    "tikName": "Шадринская"
+    "tikName": "Шадринская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 965,
     "uikTvd": "4454021224898",
+    "uikName": "УИК №965",
     "tikTvd": "2452000794239",
-    "tikName": "Шадринская"
+    "tikName": "Шадринская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 966,
     "uikTvd": "4454021224899",
+    "uikName": "УИК №966",
     "tikTvd": "2452000794239",
-    "tikName": "Шадринская"
+    "tikName": "Шадринская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 967,
     "uikTvd": "4454021224900",
+    "uikName": "УИК №967",
     "tikTvd": "2452000794239",
-    "tikName": "Шадринская"
+    "tikName": "Шадринская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 968,
     "uikTvd": "4454021224901",
+    "uikName": "УИК №968",
     "tikTvd": "2452000794239",
-    "tikName": "Шадринская"
+    "tikName": "Шадринская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 969,
     "uikTvd": "4454021224902",
+    "uikName": "УИК №969",
     "tikTvd": "2452000794239",
-    "tikName": "Шадринская"
+    "tikName": "Шадринская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 971,
     "uikTvd": "4454021224903",
+    "uikName": "УИК №971",
     "tikTvd": "2452000794239",
-    "tikName": "Шадринская"
+    "tikName": "Шадринская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 972,
     "uikTvd": "4454021224904",
+    "uikName": "УИК №972",
     "tikTvd": "2452000794239",
-    "tikName": "Шадринская"
+    "tikName": "Шадринская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 973,
     "uikTvd": "4454021224905",
+    "uikName": "УИК №973",
     "tikTvd": "2452000794239",
-    "tikName": "Шадринская"
+    "tikName": "Шадринская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 974,
     "uikTvd": "4454021224906",
+    "uikName": "УИК №974",
     "tikTvd": "2452000794239",
-    "tikName": "Шадринская"
+    "tikName": "Шадринская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 975,
     "uikTvd": "4454021224907",
+    "uikName": "УИК №975",
     "tikTvd": "2452000794239",
-    "tikName": "Шадринская"
+    "tikName": "Шадринская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 976,
     "uikTvd": "4454021224908",
+    "uikName": "УИК №976",
     "tikTvd": "2452000794239",
-    "tikName": "Шадринская"
+    "tikName": "Шадринская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 977,
     "uikTvd": "4454021224909",
+    "uikName": "УИК №977",
     "tikTvd": "2452000794239",
-    "tikName": "Шадринская"
+    "tikName": "Шадринская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 978,
     "uikTvd": "4454021224910",
+    "uikName": "УИК №978",
     "tikTvd": "2452000794239",
-    "tikName": "Шадринская"
+    "tikName": "Шадринская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 979,
     "uikTvd": "4454021224911",
+    "uikName": "УИК №979",
     "tikTvd": "2452000794239",
-    "tikName": "Шадринская"
+    "tikName": "Шадринская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 980,
     "uikTvd": "4454021224912",
+    "uikName": "УИК №980",
     "tikTvd": "2452000794239",
-    "tikName": "Шадринская"
+    "tikName": "Шадринская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 981,
     "uikTvd": "4454021224913",
+    "uikName": "УИК №981",
     "tikTvd": "2452000794239",
-    "tikName": "Шадринская"
+    "tikName": "Шадринская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 982,
     "uikTvd": "4454021224914",
+    "uikName": "УИК №982",
     "tikTvd": "2452000794239",
-    "tikName": "Шадринская"
+    "tikName": "Шадринская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 984,
     "uikTvd": "4454022228485",
+    "uikName": "УИК №984",
     "tikTvd": "2452000794237",
-    "tikName": "Шатровская"
+    "tikName": "Шатровская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 985,
     "uikTvd": "4454022228486",
+    "uikName": "УИК №985",
     "tikTvd": "2452000794237",
-    "tikName": "Шатровская"
+    "tikName": "Шатровская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 986,
     "uikTvd": "4454022228487",
+    "uikName": "УИК №986",
     "tikTvd": "2452000794237",
-    "tikName": "Шатровская"
+    "tikName": "Шатровская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 987,
     "uikTvd": "4454022228488",
+    "uikName": "УИК №987",
     "tikTvd": "2452000794237",
-    "tikName": "Шатровская"
+    "tikName": "Шатровская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 988,
     "uikTvd": "4454022228489",
+    "uikName": "УИК №988",
     "tikTvd": "2452000794237",
-    "tikName": "Шатровская"
+    "tikName": "Шатровская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 989,
     "uikTvd": "4454022228490",
+    "uikName": "УИК №989",
     "tikTvd": "2452000794237",
-    "tikName": "Шатровская"
+    "tikName": "Шатровская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 990,
     "uikTvd": "4454022228491",
+    "uikName": "УИК №990",
     "tikTvd": "2452000794237",
-    "tikName": "Шатровская"
+    "tikName": "Шатровская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 991,
     "uikTvd": "4454022228492",
+    "uikName": "УИК №991",
     "tikTvd": "2452000794237",
-    "tikName": "Шатровская"
+    "tikName": "Шатровская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 992,
     "uikTvd": "4454022228493",
+    "uikName": "УИК №992",
     "tikTvd": "2452000794237",
-    "tikName": "Шатровская"
+    "tikName": "Шатровская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 993,
     "uikTvd": "4454022228494",
+    "uikName": "УИК №993",
     "tikTvd": "2452000794237",
-    "tikName": "Шатровская"
+    "tikName": "Шатровская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 994,
     "uikTvd": "4454022228495",
+    "uikName": "УИК №994",
     "tikTvd": "2452000794237",
-    "tikName": "Шатровская"
+    "tikName": "Шатровская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 995,
     "uikTvd": "4454022228496",
+    "uikName": "УИК №995",
     "tikTvd": "2452000794237",
-    "tikName": "Шатровская"
+    "tikName": "Шатровская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 996,
     "uikTvd": "4454022228497",
+    "uikName": "УИК №996",
     "tikTvd": "2452000794237",
-    "tikName": "Шатровская"
+    "tikName": "Шатровская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 997,
     "uikTvd": "4454022228498",
+    "uikName": "УИК №997",
     "tikTvd": "2452000794237",
-    "tikName": "Шатровская"
+    "tikName": "Шатровская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 998,
     "uikTvd": "4454022228499",
+    "uikName": "УИК №998",
     "tikTvd": "2452000794237",
-    "tikName": "Шатровская"
+    "tikName": "Шатровская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 999,
     "uikTvd": "4454022228500",
+    "uikName": "УИК №999",
     "tikTvd": "2452000794237",
-    "tikName": "Шатровская"
+    "tikName": "Шатровская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1000,
     "uikTvd": "4454022228501",
+    "uikName": "УИК №1000",
     "tikTvd": "2452000794237",
-    "tikName": "Шатровская"
+    "tikName": "Шатровская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1001,
     "uikTvd": "4454022228502",
+    "uikName": "УИК №1001",
     "tikTvd": "2452000794237",
-    "tikName": "Шатровская"
+    "tikName": "Шатровская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1002,
     "uikTvd": "4454022228503",
+    "uikName": "УИК №1002",
     "tikTvd": "2452000794237",
-    "tikName": "Шатровская"
+    "tikName": "Шатровская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1003,
     "uikTvd": "4454022228504",
+    "uikName": "УИК №1003",
     "tikTvd": "2452000794237",
-    "tikName": "Шатровская"
+    "tikName": "Шатровская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1004,
     "uikTvd": "4454022228505",
+    "uikName": "УИК №1004",
     "tikTvd": "2452000794237",
-    "tikName": "Шатровская"
+    "tikName": "Шатровская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1005,
     "uikTvd": "4454022228506",
+    "uikName": "УИК №1005",
     "tikTvd": "2452000794237",
-    "tikName": "Шатровская"
+    "tikName": "Шатровская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1006,
     "uikTvd": "4454022228507",
+    "uikName": "УИК №1006",
     "tikTvd": "2452000794237",
-    "tikName": "Шатровская"
+    "tikName": "Шатровская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1007,
     "uikTvd": "4454022228508",
+    "uikName": "УИК №1007",
     "tikTvd": "2452000794237",
-    "tikName": "Шатровская"
+    "tikName": "Шатровская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1008,
     "uikTvd": "4454022228509",
+    "uikName": "УИК №1008",
     "tikTvd": "2452000794237",
-    "tikName": "Шатровская"
+    "tikName": "Шатровская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1009,
     "uikTvd": "4454022228510",
+    "uikName": "УИК №1009",
     "tikTvd": "2452000794237",
-    "tikName": "Шатровская"
+    "tikName": "Шатровская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1010,
     "uikTvd": "4454022228511",
+    "uikName": "УИК №1010",
     "tikTvd": "2452000794237",
-    "tikName": "Шатровская"
+    "tikName": "Шатровская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1011,
     "uikTvd": "4454022228512",
+    "uikName": "УИК №1011",
     "tikTvd": "2452000794237",
-    "tikName": "Шатровская"
+    "tikName": "Шатровская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1012,
     "uikTvd": "4454022228513",
+    "uikName": "УИК №1012",
     "tikTvd": "2452000794237",
-    "tikName": "Шатровская"
+    "tikName": "Шатровская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1013,
     "uikTvd": "4454022228514",
+    "uikName": "УИК №1013",
     "tikTvd": "2452000794237",
-    "tikName": "Шатровская"
+    "tikName": "Шатровская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1014,
     "uikTvd": "4454022228515",
+    "uikName": "УИК №1014",
     "tikTvd": "2452000794237",
-    "tikName": "Шатровская"
+    "tikName": "Шатровская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1020,
     "uikTvd": "4454023167955",
+    "uikName": "УИК №1020",
     "tikTvd": "2452000794236",
-    "tikName": "Шумихинская"
+    "tikName": "Шумихинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1021,
     "uikTvd": "4454023167956",
+    "uikName": "УИК №1021",
     "tikTvd": "2452000794236",
-    "tikName": "Шумихинская"
+    "tikName": "Шумихинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1022,
     "uikTvd": "4454023167957",
+    "uikName": "УИК №1022",
     "tikTvd": "2452000794236",
-    "tikName": "Шумихинская"
+    "tikName": "Шумихинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1023,
     "uikTvd": "4454023167958",
+    "uikName": "УИК №1023",
     "tikTvd": "2452000794236",
-    "tikName": "Шумихинская"
+    "tikName": "Шумихинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1024,
     "uikTvd": "4454023167959",
+    "uikName": "УИК №1024",
     "tikTvd": "2452000794236",
-    "tikName": "Шумихинская"
+    "tikName": "Шумихинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1025,
     "uikTvd": "4454023167960",
+    "uikName": "УИК №1025",
     "tikTvd": "2452000794236",
-    "tikName": "Шумихинская"
+    "tikName": "Шумихинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1026,
     "uikTvd": "4454023167961",
+    "uikName": "УИК №1026",
     "tikTvd": "2452000794236",
-    "tikName": "Шумихинская"
+    "tikName": "Шумихинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1027,
     "uikTvd": "4454023167962",
+    "uikName": "УИК №1027",
     "tikTvd": "2452000794236",
-    "tikName": "Шумихинская"
+    "tikName": "Шумихинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1028,
     "uikTvd": "4454023167963",
+    "uikName": "УИК №1028",
     "tikTvd": "2452000794236",
-    "tikName": "Шумихинская"
+    "tikName": "Шумихинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1029,
     "uikTvd": "4454023167964",
+    "uikName": "УИК №1029",
     "tikTvd": "2452000794236",
-    "tikName": "Шумихинская"
+    "tikName": "Шумихинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1030,
     "uikTvd": "4454023167965",
+    "uikName": "УИК №1030",
     "tikTvd": "2452000794236",
-    "tikName": "Шумихинская"
+    "tikName": "Шумихинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1031,
     "uikTvd": "4454023167966",
+    "uikName": "УИК №1031",
     "tikTvd": "2452000794236",
-    "tikName": "Шумихинская"
+    "tikName": "Шумихинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1032,
     "uikTvd": "4454023167967",
+    "uikName": "УИК №1032",
     "tikTvd": "2452000794236",
-    "tikName": "Шумихинская"
+    "tikName": "Шумихинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1033,
     "uikTvd": "4454023167968",
+    "uikName": "УИК №1033",
     "tikTvd": "2452000794236",
-    "tikName": "Шумихинская"
+    "tikName": "Шумихинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1034,
     "uikTvd": "4454023167969",
+    "uikName": "УИК №1034",
     "tikTvd": "2452000794236",
-    "tikName": "Шумихинская"
+    "tikName": "Шумихинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1035,
     "uikTvd": "4454023167970",
+    "uikName": "УИК №1035",
     "tikTvd": "2452000794236",
-    "tikName": "Шумихинская"
+    "tikName": "Шумихинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1036,
     "uikTvd": "4454023167971",
+    "uikName": "УИК №1036",
     "tikTvd": "2452000794236",
-    "tikName": "Шумихинская"
+    "tikName": "Шумихинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1037,
     "uikTvd": "4454023167972",
+    "uikName": "УИК №1037",
     "tikTvd": "2452000794236",
-    "tikName": "Шумихинская"
+    "tikName": "Шумихинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1038,
     "uikTvd": "4454023167973",
+    "uikName": "УИК №1038",
     "tikTvd": "2452000794236",
-    "tikName": "Шумихинская"
+    "tikName": "Шумихинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1039,
     "uikTvd": "4454023167974",
+    "uikName": "УИК №1039",
     "tikTvd": "2452000794236",
-    "tikName": "Шумихинская"
+    "tikName": "Шумихинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1040,
     "uikTvd": "4454023167975",
+    "uikName": "УИК №1040",
     "tikTvd": "2452000794236",
-    "tikName": "Шумихинская"
+    "tikName": "Шумихинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1041,
     "uikTvd": "4454023167976",
+    "uikName": "УИК №1041",
     "tikTvd": "2452000794236",
-    "tikName": "Шумихинская"
+    "tikName": "Шумихинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1042,
     "uikTvd": "4454023167977",
+    "uikName": "УИК №1042",
     "tikTvd": "2452000794236",
-    "tikName": "Шумихинская"
+    "tikName": "Шумихинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1043,
     "uikTvd": "4454023167978",
+    "uikName": "УИК №1043",
     "tikTvd": "2452000794236",
-    "tikName": "Шумихинская"
+    "tikName": "Шумихинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1044,
     "uikTvd": "4454023167979",
+    "uikName": "УИК №1044",
     "tikTvd": "2452000794236",
-    "tikName": "Шумихинская"
+    "tikName": "Шумихинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1045,
     "uikTvd": "4454023167980",
+    "uikName": "УИК №1045",
     "tikTvd": "2452000794236",
-    "tikName": "Шумихинская"
+    "tikName": "Шумихинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1046,
     "uikTvd": "4454023167981",
+    "uikName": "УИК №1046",
     "tikTvd": "2452000794236",
-    "tikName": "Шумихинская"
+    "tikName": "Шумихинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1047,
     "uikTvd": "4454023167982",
+    "uikName": "УИК №1047",
     "tikTvd": "2452000794236",
-    "tikName": "Шумихинская"
+    "tikName": "Шумихинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1048,
     "uikTvd": "4454023167983",
+    "uikName": "УИК №1048",
     "tikTvd": "2452000794236",
-    "tikName": "Шумихинская"
+    "tikName": "Шумихинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1049,
     "uikTvd": "4454023167984",
+    "uikName": "УИК №1049",
     "tikTvd": "2452000794236",
-    "tikName": "Шумихинская"
+    "tikName": "Шумихинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1050,
     "uikTvd": "4454023167985",
+    "uikName": "УИК №1050",
     "tikTvd": "2452000794236",
-    "tikName": "Шумихинская"
+    "tikName": "Шумихинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1051,
     "uikTvd": "4454023167986",
+    "uikName": "УИК №1051",
     "tikTvd": "2452000794236",
-    "tikName": "Шумихинская"
+    "tikName": "Шумихинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1052,
     "uikTvd": "4454023167987",
+    "uikName": "УИК №1052",
     "tikTvd": "2452000794236",
-    "tikName": "Шумихинская"
+    "tikName": "Шумихинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1053,
     "uikTvd": "4454023167988",
+    "uikName": "УИК №1053",
     "tikTvd": "2452000794236",
-    "tikName": "Шумихинская"
+    "tikName": "Шумихинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1054,
     "uikTvd": "4454023167989",
+    "uikName": "УИК №1054",
     "tikTvd": "2452000794236",
-    "tikName": "Шумихинская"
+    "tikName": "Шумихинская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1066,
     "uikTvd": "4454024196081",
+    "uikName": "УИК №1066",
     "tikTvd": "2452000794235",
-    "tikName": "Щучанская"
+    "tikName": "Щучанская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1067,
     "uikTvd": "4454024196082",
+    "uikName": "УИК №1067",
     "tikTvd": "2452000794235",
-    "tikName": "Щучанская"
+    "tikName": "Щучанская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1068,
     "uikTvd": "4454024196083",
+    "uikName": "УИК №1068",
     "tikTvd": "2452000794235",
-    "tikName": "Щучанская"
+    "tikName": "Щучанская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1070,
     "uikTvd": "4454024196084",
+    "uikName": "УИК №1070",
     "tikTvd": "2452000794235",
-    "tikName": "Щучанская"
+    "tikName": "Щучанская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1071,
     "uikTvd": "4454024196085",
+    "uikName": "УИК №1071",
     "tikTvd": "2452000794235",
-    "tikName": "Щучанская"
+    "tikName": "Щучанская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1072,
     "uikTvd": "4454024196086",
+    "uikName": "УИК №1072",
     "tikTvd": "2452000794235",
-    "tikName": "Щучанская"
+    "tikName": "Щучанская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1073,
     "uikTvd": "4454024196087",
+    "uikName": "УИК №1073",
     "tikTvd": "2452000794235",
-    "tikName": "Щучанская"
+    "tikName": "Щучанская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1074,
     "uikTvd": "4454024196088",
+    "uikName": "УИК №1074",
     "tikTvd": "2452000794235",
-    "tikName": "Щучанская"
+    "tikName": "Щучанская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1076,
     "uikTvd": "4454024196089",
+    "uikName": "УИК №1076",
     "tikTvd": "2452000794235",
-    "tikName": "Щучанская"
+    "tikName": "Щучанская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1077,
     "uikTvd": "4454024196090",
+    "uikName": "УИК №1077",
     "tikTvd": "2452000794235",
-    "tikName": "Щучанская"
+    "tikName": "Щучанская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1078,
     "uikTvd": "4454024196091",
+    "uikName": "УИК №1078",
     "tikTvd": "2452000794235",
-    "tikName": "Щучанская"
+    "tikName": "Щучанская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1079,
     "uikTvd": "4454024196092",
+    "uikName": "УИК №1079",
     "tikTvd": "2452000794235",
-    "tikName": "Щучанская"
+    "tikName": "Щучанская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1080,
     "uikTvd": "4454024196093",
+    "uikName": "УИК №1080",
     "tikTvd": "2452000794235",
-    "tikName": "Щучанская"
+    "tikName": "Щучанская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1081,
     "uikTvd": "4454024196094",
+    "uikName": "УИК №1081",
     "tikTvd": "2452000794235",
-    "tikName": "Щучанская"
+    "tikName": "Щучанская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1082,
     "uikTvd": "4454024196095",
+    "uikName": "УИК №1082",
     "tikTvd": "2452000794235",
-    "tikName": "Щучанская"
+    "tikName": "Щучанская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1083,
     "uikTvd": "4454024196096",
+    "uikName": "УИК №1083",
     "tikTvd": "2452000794235",
-    "tikName": "Щучанская"
+    "tikName": "Щучанская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1084,
     "uikTvd": "4454024196097",
+    "uikName": "УИК №1084",
     "tikTvd": "2452000794235",
-    "tikName": "Щучанская"
+    "tikName": "Щучанская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1085,
     "uikTvd": "4454024196098",
+    "uikName": "УИК №1085",
     "tikTvd": "2452000794235",
-    "tikName": "Щучанская"
+    "tikName": "Щучанская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1086,
     "uikTvd": "4454024196099",
+    "uikName": "УИК №1086",
     "tikTvd": "2452000794235",
-    "tikName": "Щучанская"
+    "tikName": "Щучанская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1087,
     "uikTvd": "4454024196100",
+    "uikName": "УИК №1087",
     "tikTvd": "2452000794235",
-    "tikName": "Щучанская"
+    "tikName": "Щучанская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1088,
     "uikTvd": "4454024196101",
+    "uikName": "УИК №1088",
     "tikTvd": "2452000794235",
-    "tikName": "Щучанская"
+    "tikName": "Щучанская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1089,
     "uikTvd": "4454024196102",
+    "uikName": "УИК №1089",
     "tikTvd": "2452000794235",
-    "tikName": "Щучанская"
+    "tikName": "Щучанская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1091,
     "uikTvd": "4454024196103",
+    "uikName": "УИК №1091",
     "tikTvd": "2452000794235",
-    "tikName": "Щучанская"
+    "tikName": "Щучанская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1092,
     "uikTvd": "4454024196104",
+    "uikName": "УИК №1092",
     "tikTvd": "2452000794235",
-    "tikName": "Щучанская"
+    "tikName": "Щучанская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1093,
     "uikTvd": "4454024196105",
+    "uikName": "УИК №1093",
     "tikTvd": "2452000794235",
-    "tikName": "Щучанская"
+    "tikName": "Щучанская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1094,
     "uikTvd": "4454024196106",
+    "uikName": "УИК №1094",
     "tikTvd": "2452000794235",
-    "tikName": "Щучанская"
+    "tikName": "Щучанская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1095,
     "uikTvd": "4454024196107",
+    "uikName": "УИК №1095",
     "tikTvd": "2452000794235",
-    "tikName": "Щучанская"
+    "tikName": "Щучанская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1096,
     "uikTvd": "4454024196108",
+    "uikName": "УИК №1096",
     "tikTvd": "2452000794235",
-    "tikName": "Щучанская"
+    "tikName": "Щучанская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1097,
     "uikTvd": "4454024196109",
+    "uikName": "УИК №1097",
     "tikTvd": "2452000794235",
-    "tikName": "Щучанская"
+    "tikName": "Щучанская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1098,
     "uikTvd": "4454024196110",
+    "uikName": "УИК №1098",
     "tikTvd": "2452000794235",
-    "tikName": "Щучанская"
+    "tikName": "Щучанская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1100,
     "uikTvd": "4454024196111",
+    "uikName": "УИК №1100",
     "tikTvd": "2452000794235",
-    "tikName": "Щучанская"
+    "tikName": "Щучанская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1101,
     "uikTvd": "4454024196112",
+    "uikName": "УИК №1101",
     "tikTvd": "2452000794235",
-    "tikName": "Щучанская"
+    "tikName": "Щучанская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1102,
     "uikTvd": "4454024196113",
+    "uikName": "УИК №1102",
     "tikTvd": "2452000794235",
-    "tikName": "Щучанская"
+    "tikName": "Щучанская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1103,
     "uikTvd": "4454009171606",
+    "uikName": "УИК №1103",
     "tikTvd": "2452000794252",
-    "tikName": "Курган, Восточная"
+    "tikName": "Курган, Восточная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1104,
     "uikTvd": "4454024196114",
+    "uikName": "УИК №1104",
     "tikTvd": "2452000794235",
-    "tikName": "Щучанская"
+    "tikName": "Щучанская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1105,
     "uikTvd": "4454024196115",
+    "uikName": "УИК №1105",
     "tikTvd": "2452000794235",
-    "tikName": "Щучанская"
+    "tikName": "Щучанская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1106,
     "uikTvd": "4454024196116",
+    "uikName": "УИК №1106",
     "tikTvd": "2452000794235",
-    "tikName": "Щучанская"
+    "tikName": "Щучанская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1107,
     "uikTvd": "4454024196117",
+    "uikName": "УИК №1107",
     "tikTvd": "2452000794235",
-    "tikName": "Щучанская"
+    "tikName": "Щучанская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1109,
     "uikTvd": "4454024196118",
+    "uikName": "УИК №1109",
     "tikTvd": "2452000794235",
-    "tikName": "Щучанская"
+    "tikName": "Щучанская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1110,
     "uikTvd": "4454024196119",
+    "uikName": "УИК №1110",
     "tikTvd": "2452000794235",
-    "tikName": "Щучанская"
+    "tikName": "Щучанская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1112,
     "uikTvd": "4454024196120",
+    "uikName": "УИК №1112",
     "tikTvd": "2452000794235",
-    "tikName": "Щучанская"
+    "tikName": "Щучанская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1113,
     "uikTvd": "4454024196121",
+    "uikName": "УИК №1113",
     "tikTvd": "2452000794235",
-    "tikName": "Щучанская"
+    "tikName": "Щучанская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1115,
     "uikTvd": "4454024196122",
+    "uikName": "УИК №1115",
     "tikTvd": "2452000794235",
-    "tikName": "Щучанская"
+    "tikName": "Щучанская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1116,
     "uikTvd": "4454024196123",
+    "uikName": "УИК №1116",
     "tikTvd": "2452000794235",
-    "tikName": "Щучанская"
+    "tikName": "Щучанская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1117,
     "uikTvd": "4454025141804",
+    "uikName": "УИК №1117",
     "tikTvd": "2452000794234",
-    "tikName": "Юргамышская"
+    "tikName": "Юргамышская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1119,
     "uikTvd": "4454025141805",
+    "uikName": "УИК №1119",
     "tikTvd": "2452000794234",
-    "tikName": "Юргамышская"
+    "tikName": "Юргамышская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1120,
     "uikTvd": "4454025141806",
+    "uikName": "УИК №1120",
     "tikTvd": "2452000794234",
-    "tikName": "Юргамышская"
+    "tikName": "Юргамышская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1121,
     "uikTvd": "4454025141807",
+    "uikName": "УИК №1121",
     "tikTvd": "2452000794234",
-    "tikName": "Юргамышская"
+    "tikName": "Юргамышская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1123,
     "uikTvd": "4454025141808",
+    "uikName": "УИК №1123",
     "tikTvd": "2452000794234",
-    "tikName": "Юргамышская"
+    "tikName": "Юргамышская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1125,
     "uikTvd": "4454025141809",
+    "uikName": "УИК №1125",
     "tikTvd": "2452000794234",
-    "tikName": "Юргамышская"
+    "tikName": "Юргамышская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1126,
     "uikTvd": "4454025141810",
+    "uikName": "УИК №1126",
     "tikTvd": "2452000794234",
-    "tikName": "Юргамышская"
+    "tikName": "Юргамышская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1127,
     "uikTvd": "4454025141811",
+    "uikName": "УИК №1127",
     "tikTvd": "2452000794234",
-    "tikName": "Юргамышская"
+    "tikName": "Юргамышская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1128,
     "uikTvd": "4454009171607",
+    "uikName": "УИК №1128",
     "tikTvd": "2452000794252",
-    "tikName": "Курган, Восточная"
+    "tikName": "Курган, Восточная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1130,
     "uikTvd": "4454025141812",
+    "uikName": "УИК №1130",
     "tikTvd": "2452000794234",
-    "tikName": "Юргамышская"
+    "tikName": "Юргамышская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1131,
     "uikTvd": "4454025141813",
+    "uikName": "УИК №1131",
     "tikTvd": "2452000794234",
-    "tikName": "Юргамышская"
+    "tikName": "Юргамышская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1132,
     "uikTvd": "4454025141814",
+    "uikName": "УИК №1132",
     "tikTvd": "2452000794234",
-    "tikName": "Юргамышская"
+    "tikName": "Юргамышская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1133,
     "uikTvd": "4454025141815",
+    "uikName": "УИК №1133",
     "tikTvd": "2452000794234",
-    "tikName": "Юргамышская"
+    "tikName": "Юргамышская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1134,
     "uikTvd": "4454025141816",
+    "uikName": "УИК №1134",
     "tikTvd": "2452000794234",
-    "tikName": "Юргамышская"
+    "tikName": "Юргамышская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1135,
     "uikTvd": "4454025141817",
+    "uikName": "УИК №1135",
     "tikTvd": "2452000794234",
-    "tikName": "Юргамышская"
+    "tikName": "Юргамышская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1136,
     "uikTvd": "4454025141818",
+    "uikName": "УИК №1136",
     "tikTvd": "2452000794234",
-    "tikName": "Юргамышская"
+    "tikName": "Юргамышская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1137,
     "uikTvd": "4454025141819",
+    "uikName": "УИК №1137",
     "tikTvd": "2452000794234",
-    "tikName": "Юргамышская"
+    "tikName": "Юргамышская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1138,
     "uikTvd": "4454025141820",
+    "uikName": "УИК №1138",
     "tikTvd": "2452000794234",
-    "tikName": "Юргамышская"
+    "tikName": "Юргамышская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1139,
     "uikTvd": "4454025141821",
+    "uikName": "УИК №1139",
     "tikTvd": "2452000794234",
-    "tikName": "Юргамышская"
+    "tikName": "Юргамышская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1140,
     "uikTvd": "4454025141822",
+    "uikName": "УИК №1140",
     "tikTvd": "2452000794234",
-    "tikName": "Юргамышская"
+    "tikName": "Юргамышская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1141,
     "uikTvd": "4454025141823",
+    "uikName": "УИК №1141",
     "tikTvd": "2452000794234",
-    "tikName": "Юргамышская"
+    "tikName": "Юргамышская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1142,
     "uikTvd": "4454025141824",
+    "uikName": "УИК №1142",
     "tikTvd": "2452000794234",
-    "tikName": "Юргамышская"
+    "tikName": "Юргамышская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1143,
     "uikTvd": "4454025141825",
+    "uikName": "УИК №1143",
     "tikTvd": "2452000794234",
-    "tikName": "Юргамышская"
+    "tikName": "Юргамышская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1144,
     "uikTvd": "4454025141826",
+    "uikName": "УИК №1144",
     "tikTvd": "2452000794234",
-    "tikName": "Юргамышская"
+    "tikName": "Юргамышская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1145,
     "uikTvd": "4454025141827",
+    "uikName": "УИК №1145",
     "tikTvd": "2452000794234",
-    "tikName": "Юргамышская"
+    "tikName": "Юргамышская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1146,
     "uikTvd": "4454025141828",
+    "uikName": "УИК №1146",
     "tikTvd": "2452000794234",
-    "tikName": "Юргамышская"
+    "tikName": "Юргамышская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1147,
     "uikTvd": "4454025141829",
+    "uikName": "УИК №1147",
     "tikTvd": "2452000794234",
-    "tikName": "Юргамышская"
+    "tikName": "Юргамышская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1148,
     "uikTvd": "4454025141830",
+    "uikName": "УИК №1148",
     "tikTvd": "2452000794234",
-    "tikName": "Юргамышская"
+    "tikName": "Юргамышская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1149,
     "uikTvd": "4454025141831",
+    "uikName": "УИК №1149",
     "tikTvd": "2452000794234",
-    "tikName": "Юргамышская"
+    "tikName": "Юргамышская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1150,
     "uikTvd": "4454025141832",
+    "uikName": "УИК №1150",
     "tikTvd": "2452000794234",
-    "tikName": "Юргамышская"
+    "tikName": "Юргамышская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1151,
     "uikTvd": "4454025141833",
+    "uikName": "УИК №1151",
     "tikTvd": "2452000794234",
-    "tikName": "Юргамышская"
+    "tikName": "Юргамышская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1152,
     "uikTvd": "4454025141834",
+    "uikName": "УИК №1152",
     "tikTvd": "2452000794234",
-    "tikName": "Юргамышская"
+    "tikName": "Юргамышская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1163,
     "uikTvd": "4454026166210",
+    "uikName": "УИК №1163",
     "tikTvd": "2452000794238",
-    "tikName": "Шадринская городская"
+    "tikName": "Шадринская городская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1164,
     "uikTvd": "4454026166211",
+    "uikName": "УИК №1164",
     "tikTvd": "2452000794238",
-    "tikName": "Шадринская городская"
+    "tikName": "Шадринская городская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1165,
     "uikTvd": "4454026166212",
+    "uikName": "УИК №1165",
     "tikTvd": "2452000794238",
-    "tikName": "Шадринская городская"
+    "tikName": "Шадринская городская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1166,
     "uikTvd": "4454026168101",
+    "uikName": "УИК №1166",
     "tikTvd": "2452000794238",
-    "tikName": "Шадринская городская"
+    "tikName": "Шадринская городская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1170,
     "uikTvd": "4454006181815",
+    "uikName": "УИК №1170",
     "tikTvd": "2452000794255",
-    "tikName": "Каргапольская"
+    "tikName": "Каргапольская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1171,
     "uikTvd": "4454006181816",
+    "uikName": "УИК №1171",
     "tikTvd": "2452000794255",
-    "tikName": "Каргапольская"
+    "tikName": "Каргапольская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1172,
     "uikTvd": "4454006181817",
+    "uikName": "УИК №1172",
     "tikTvd": "2452000794255",
-    "tikName": "Каргапольская"
+    "tikName": "Каргапольская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1173,
     "uikTvd": "4454006181818",
+    "uikName": "УИК №1173",
     "tikTvd": "2452000794255",
-    "tikName": "Каргапольская"
+    "tikName": "Каргапольская",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1181,
     "uikTvd": "4454009171608",
+    "uikName": "УИК №1181",
     "tikTvd": "2452000794252",
-    "tikName": "Курган, Восточная"
+    "tikName": "Курган, Восточная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1182,
     "uikTvd": "4454009171609",
+    "uikName": "УИК №1182",
     "tikTvd": "2452000794252",
-    "tikName": "Курган, Восточная"
+    "tikName": "Курган, Восточная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1183,
     "uikTvd": "4454009171610",
+    "uikName": "УИК №1183",
     "tikTvd": "2452000794252",
-    "tikName": "Курган, Восточная"
+    "tikName": "Курган, Восточная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1184,
     "uikTvd": "4454009171611",
+    "uikName": "УИК №1184",
     "tikTvd": "2452000794252",
-    "tikName": "Курган, Восточная"
+    "tikName": "Курган, Восточная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   },
   {
     "uikNumber": 1185,
     "uikTvd": "4454009171612",
+    "uikName": "УИК №1185",
     "tikTvd": "2452000794252",
-    "tikName": "Курган, Восточная"
+    "tikName": "Курган, Восточная",
+    "regionCode": "45",
+    "regionTvd": "100100067795995",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100067795996",
+      "oikName": "Курганская область – Курганский"
+    }
   }
 ] satisfies readonly UikTikRelation[];

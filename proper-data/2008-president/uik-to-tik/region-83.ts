@@ -7,337 +7,617 @@ export const president_2008_uik_to_tik_region_83 = [
   {
     "uikNumber": 1,
     "uikTvd": "483400295108",
+    "uikName": "УИК №1",
     "tikTvd": "2832000110780",
-    "tikName": "Заполярная"
+    "tikName": "Заполярная",
+    "regionCode": "83",
+    "regionTvd": "100100022249964",
+    "regionName": "Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 2,
     "uikTvd": "483400295110",
+    "uikName": "УИК №2",
     "tikTvd": "2832000110780",
-    "tikName": "Заполярная"
+    "tikName": "Заполярная",
+    "regionCode": "83",
+    "regionTvd": "100100022249964",
+    "regionName": "Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 3,
     "uikTvd": "483400295111",
+    "uikName": "УИК №3",
     "tikTvd": "2832000110780",
-    "tikName": "Заполярная"
+    "tikName": "Заполярная",
+    "regionCode": "83",
+    "regionTvd": "100100022249964",
+    "regionName": "Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 4,
     "uikTvd": "483400295112",
+    "uikName": "УИК №4",
     "tikTvd": "2832000110780",
-    "tikName": "Заполярная"
+    "tikName": "Заполярная",
+    "regionCode": "83",
+    "regionTvd": "100100022249964",
+    "regionName": "Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5,
     "uikTvd": "483400295113",
+    "uikName": "УИК №5",
     "tikTvd": "2832000110780",
-    "tikName": "Заполярная"
+    "tikName": "Заполярная",
+    "regionCode": "83",
+    "regionTvd": "100100022249964",
+    "regionName": "Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 6,
     "uikTvd": "483400295114",
+    "uikName": "УИК №6",
     "tikTvd": "2832000110780",
-    "tikName": "Заполярная"
+    "tikName": "Заполярная",
+    "regionCode": "83",
+    "regionTvd": "100100022249964",
+    "regionName": "Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 7,
     "uikTvd": "483400295115",
+    "uikName": "УИК №7",
     "tikTvd": "2832000110780",
-    "tikName": "Заполярная"
+    "tikName": "Заполярная",
+    "regionCode": "83",
+    "regionTvd": "100100022249964",
+    "regionName": "Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 8,
     "uikTvd": "483400295116",
+    "uikName": "УИК №8",
     "tikTvd": "2832000110780",
-    "tikName": "Заполярная"
+    "tikName": "Заполярная",
+    "regionCode": "83",
+    "regionTvd": "100100022249964",
+    "regionName": "Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 9,
     "uikTvd": "483400295117",
+    "uikName": "УИК №9",
     "tikTvd": "2832000110780",
-    "tikName": "Заполярная"
+    "tikName": "Заполярная",
+    "regionCode": "83",
+    "regionTvd": "100100022249964",
+    "regionName": "Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 10,
     "uikTvd": "483400295118",
+    "uikName": "УИК №10",
     "tikTvd": "2832000110780",
-    "tikName": "Заполярная"
+    "tikName": "Заполярная",
+    "regionCode": "83",
+    "regionTvd": "100100022249964",
+    "regionName": "Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 11,
     "uikTvd": "483400295119",
+    "uikName": "УИК №11",
     "tikTvd": "2832000110780",
-    "tikName": "Заполярная"
+    "tikName": "Заполярная",
+    "regionCode": "83",
+    "regionTvd": "100100022249964",
+    "regionName": "Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 12,
     "uikTvd": "483400295120",
+    "uikName": "УИК №12",
     "tikTvd": "2832000110780",
-    "tikName": "Заполярная"
+    "tikName": "Заполярная",
+    "regionCode": "83",
+    "regionTvd": "100100022249964",
+    "regionName": "Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 13,
     "uikTvd": "483400295121",
+    "uikName": "УИК №13",
     "tikTvd": "2832000110780",
-    "tikName": "Заполярная"
+    "tikName": "Заполярная",
+    "regionCode": "83",
+    "regionTvd": "100100022249964",
+    "regionName": "Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 14,
     "uikTvd": "483400295122",
+    "uikName": "УИК №14",
     "tikTvd": "2832000110780",
-    "tikName": "Заполярная"
+    "tikName": "Заполярная",
+    "regionCode": "83",
+    "regionTvd": "100100022249964",
+    "regionName": "Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 15,
     "uikTvd": "483400295123",
+    "uikName": "УИК №15",
     "tikTvd": "2832000110780",
-    "tikName": "Заполярная"
+    "tikName": "Заполярная",
+    "regionCode": "83",
+    "regionTvd": "100100022249964",
+    "regionName": "Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 16,
     "uikTvd": "483400295124",
+    "uikName": "УИК №16",
     "tikTvd": "2832000110780",
-    "tikName": "Заполярная"
+    "tikName": "Заполярная",
+    "regionCode": "83",
+    "regionTvd": "100100022249964",
+    "regionName": "Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 17,
     "uikTvd": "483400295125",
+    "uikName": "УИК №17",
     "tikTvd": "2832000110780",
-    "tikName": "Заполярная"
+    "tikName": "Заполярная",
+    "regionCode": "83",
+    "regionTvd": "100100022249964",
+    "regionName": "Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 18,
     "uikTvd": "483400295126",
+    "uikName": "УИК №18",
     "tikTvd": "2832000110780",
-    "tikName": "Заполярная"
+    "tikName": "Заполярная",
+    "regionCode": "83",
+    "regionTvd": "100100022249964",
+    "regionName": "Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 19,
     "uikTvd": "483400295127",
+    "uikName": "УИК №19",
     "tikTvd": "2832000110780",
-    "tikName": "Заполярная"
+    "tikName": "Заполярная",
+    "regionCode": "83",
+    "regionTvd": "100100022249964",
+    "regionName": "Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 20,
     "uikTvd": "483400295128",
+    "uikName": "УИК №20",
     "tikTvd": "2832000110780",
-    "tikName": "Заполярная"
+    "tikName": "Заполярная",
+    "regionCode": "83",
+    "regionTvd": "100100022249964",
+    "regionName": "Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 21,
     "uikTvd": "483400295129",
+    "uikName": "УИК №21",
     "tikTvd": "2832000110780",
-    "tikName": "Заполярная"
+    "tikName": "Заполярная",
+    "regionCode": "83",
+    "regionTvd": "100100022249964",
+    "regionName": "Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 22,
     "uikTvd": "483400295130",
+    "uikName": "УИК №22",
     "tikTvd": "2832000110780",
-    "tikName": "Заполярная"
+    "tikName": "Заполярная",
+    "regionCode": "83",
+    "regionTvd": "100100022249964",
+    "regionName": "Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 23,
     "uikTvd": "483400295131",
+    "uikName": "УИК №23",
     "tikTvd": "2832000110780",
-    "tikName": "Заполярная"
+    "tikName": "Заполярная",
+    "regionCode": "83",
+    "regionTvd": "100100022249964",
+    "regionName": "Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 24,
     "uikTvd": "483400295132",
+    "uikName": "УИК №24",
     "tikTvd": "2832000110780",
-    "tikName": "Заполярная"
+    "tikName": "Заполярная",
+    "regionCode": "83",
+    "regionTvd": "100100022249964",
+    "regionName": "Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 25,
     "uikTvd": "483400295133",
+    "uikName": "УИК №25",
     "tikTvd": "2832000110780",
-    "tikName": "Заполярная"
+    "tikName": "Заполярная",
+    "regionCode": "83",
+    "regionTvd": "100100022249964",
+    "regionName": "Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 26,
     "uikTvd": "483400295134",
+    "uikName": "УИК №26",
     "tikTvd": "2832000110780",
-    "tikName": "Заполярная"
+    "tikName": "Заполярная",
+    "regionCode": "83",
+    "regionTvd": "100100022249964",
+    "regionName": "Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 27,
     "uikTvd": "483400295135",
+    "uikName": "УИК №27",
     "tikTvd": "2832000110780",
-    "tikName": "Заполярная"
+    "tikName": "Заполярная",
+    "regionCode": "83",
+    "regionTvd": "100100022249964",
+    "regionName": "Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 28,
     "uikTvd": "483400295136",
+    "uikName": "УИК №28",
     "tikTvd": "2832000110780",
-    "tikName": "Заполярная"
+    "tikName": "Заполярная",
+    "regionCode": "83",
+    "regionTvd": "100100022249964",
+    "regionName": "Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 29,
     "uikTvd": "483400295137",
+    "uikName": "УИК №29",
     "tikTvd": "2832000110780",
-    "tikName": "Заполярная"
+    "tikName": "Заполярная",
+    "regionCode": "83",
+    "regionTvd": "100100022249964",
+    "regionName": "Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 30,
     "uikTvd": "483400295138",
+    "uikName": "УИК №30",
     "tikTvd": "2832000110780",
-    "tikName": "Заполярная"
+    "tikName": "Заполярная",
+    "regionCode": "83",
+    "regionTvd": "100100022249964",
+    "regionName": "Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 31,
     "uikTvd": "483400295139",
+    "uikName": "УИК №31",
     "tikTvd": "2832000110780",
-    "tikName": "Заполярная"
+    "tikName": "Заполярная",
+    "regionCode": "83",
+    "regionTvd": "100100022249964",
+    "regionName": "Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 32,
     "uikTvd": "483400295140",
+    "uikName": "УИК №32",
     "tikTvd": "2832000110780",
-    "tikName": "Заполярная"
+    "tikName": "Заполярная",
+    "regionCode": "83",
+    "regionTvd": "100100022249964",
+    "regionName": "Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 33,
     "uikTvd": "483400295141",
+    "uikName": "УИК №33",
     "tikTvd": "2832000110780",
-    "tikName": "Заполярная"
+    "tikName": "Заполярная",
+    "regionCode": "83",
+    "regionTvd": "100100022249964",
+    "regionName": "Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 34,
     "uikTvd": "483400295142",
+    "uikName": "УИК №34",
     "tikTvd": "2832000110780",
-    "tikName": "Заполярная"
+    "tikName": "Заполярная",
+    "regionCode": "83",
+    "regionTvd": "100100022249964",
+    "regionName": "Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 35,
     "uikTvd": "483400295143",
+    "uikName": "УИК №35",
     "tikTvd": "2832000110780",
-    "tikName": "Заполярная"
+    "tikName": "Заполярная",
+    "regionCode": "83",
+    "regionTvd": "100100022249964",
+    "regionName": "Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 36,
     "uikTvd": "483400295144",
+    "uikName": "УИК №36",
     "tikTvd": "2832000110780",
-    "tikName": "Заполярная"
+    "tikName": "Заполярная",
+    "regionCode": "83",
+    "regionTvd": "100100022249964",
+    "regionName": "Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 37,
     "uikTvd": "483400295145",
+    "uikName": "УИК №37",
     "tikTvd": "2832000110780",
-    "tikName": "Заполярная"
+    "tikName": "Заполярная",
+    "regionCode": "83",
+    "regionTvd": "100100022249964",
+    "regionName": "Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 38,
     "uikTvd": "483400295146",
+    "uikName": "УИК №38",
     "tikTvd": "2832000110780",
-    "tikName": "Заполярная"
+    "tikName": "Заполярная",
+    "regionCode": "83",
+    "regionTvd": "100100022249964",
+    "regionName": "Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 39,
     "uikTvd": "483400295147",
+    "uikName": "УИК №39",
     "tikTvd": "2832000110780",
-    "tikName": "Заполярная"
+    "tikName": "Заполярная",
+    "regionCode": "83",
+    "regionTvd": "100100022249964",
+    "regionName": "Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 40,
     "uikTvd": "483400295148",
+    "uikName": "УИК №40",
     "tikTvd": "2832000110780",
-    "tikName": "Заполярная"
+    "tikName": "Заполярная",
+    "regionCode": "83",
+    "regionTvd": "100100022249964",
+    "regionName": "Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 41,
     "uikTvd": "483400295149",
+    "uikName": "УИК №41",
     "tikTvd": "2832000110780",
-    "tikName": "Заполярная"
+    "tikName": "Заполярная",
+    "regionCode": "83",
+    "regionTvd": "100100022249964",
+    "regionName": "Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 42,
     "uikTvd": "483400184626",
+    "uikName": "УИК №42",
     "tikTvd": "2832000110781",
-    "tikName": "Нарьян-Марская"
+    "tikName": "Нарьян-Марская",
+    "regionCode": "83",
+    "regionTvd": "100100022249964",
+    "regionName": "Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 43,
     "uikTvd": "483400184627",
+    "uikName": "УИК №43",
     "tikTvd": "2832000110781",
-    "tikName": "Нарьян-Марская"
+    "tikName": "Нарьян-Марская",
+    "regionCode": "83",
+    "regionTvd": "100100022249964",
+    "regionName": "Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 44,
     "uikTvd": "483400184628",
+    "uikName": "УИК №44",
     "tikTvd": "2832000110781",
-    "tikName": "Нарьян-Марская"
+    "tikName": "Нарьян-Марская",
+    "regionCode": "83",
+    "regionTvd": "100100022249964",
+    "regionName": "Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 45,
     "uikTvd": "483400184629",
+    "uikName": "УИК №45",
     "tikTvd": "2832000110781",
-    "tikName": "Нарьян-Марская"
+    "tikName": "Нарьян-Марская",
+    "regionCode": "83",
+    "regionTvd": "100100022249964",
+    "regionName": "Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 46,
     "uikTvd": "483400184630",
+    "uikName": "УИК №46",
     "tikTvd": "2832000110781",
-    "tikName": "Нарьян-Марская"
+    "tikName": "Нарьян-Марская",
+    "regionCode": "83",
+    "regionTvd": "100100022249964",
+    "regionName": "Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 47,
     "uikTvd": "483400184631",
+    "uikName": "УИК №47",
     "tikTvd": "2832000110781",
-    "tikName": "Нарьян-Марская"
+    "tikName": "Нарьян-Марская",
+    "regionCode": "83",
+    "regionTvd": "100100022249964",
+    "regionName": "Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 48,
     "uikTvd": "483400184632",
+    "uikName": "УИК №48",
     "tikTvd": "2832000110781",
-    "tikName": "Нарьян-Марская"
+    "tikName": "Нарьян-Марская",
+    "regionCode": "83",
+    "regionTvd": "100100022249964",
+    "regionName": "Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 49,
     "uikTvd": "483400184633",
+    "uikName": "УИК №49",
     "tikTvd": "2832000110781",
-    "tikName": "Нарьян-Марская"
+    "tikName": "Нарьян-Марская",
+    "regionCode": "83",
+    "regionTvd": "100100022249964",
+    "regionName": "Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 50,
     "uikTvd": "483400184634",
+    "uikName": "УИК №50",
     "tikTvd": "2832000110781",
-    "tikName": "Нарьян-Марская"
+    "tikName": "Нарьян-Марская",
+    "regionCode": "83",
+    "regionTvd": "100100022249964",
+    "regionName": "Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 51,
     "uikTvd": "483400184635",
+    "uikName": "УИК №51",
     "tikTvd": "2832000110781",
-    "tikName": "Нарьян-Марская"
+    "tikName": "Нарьян-Марская",
+    "regionCode": "83",
+    "regionTvd": "100100022249964",
+    "regionName": "Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 52,
     "uikTvd": "483400184636",
+    "uikName": "УИК №52",
     "tikTvd": "2832000110781",
-    "tikName": "Нарьян-Марская"
+    "tikName": "Нарьян-Марская",
+    "regionCode": "83",
+    "regionTvd": "100100022249964",
+    "regionName": "Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 53,
     "uikTvd": "483400184637",
+    "uikName": "УИК №53",
     "tikTvd": "2832000110781",
-    "tikName": "Нарьян-Марская"
+    "tikName": "Нарьян-Марская",
+    "regionCode": "83",
+    "regionTvd": "100100022249964",
+    "regionName": "Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 54,
     "uikTvd": "483400184638",
+    "uikName": "УИК №54",
     "tikTvd": "2832000110781",
-    "tikName": "Нарьян-Марская"
+    "tikName": "Нарьян-Марская",
+    "regionCode": "83",
+    "regionTvd": "100100022249964",
+    "regionName": "Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 55,
     "uikTvd": "483400184639",
+    "uikName": "УИК №55",
     "tikTvd": "2832000110781",
-    "tikName": "Нарьян-Марская"
+    "tikName": "Нарьян-Марская",
+    "regionCode": "83",
+    "regionTvd": "100100022249964",
+    "regionName": "Ненецкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 56,
     "uikTvd": "483400184640",
+    "uikName": "УИК №56",
     "tikTvd": "2832000110781",
-    "tikName": "Нарьян-Марская"
+    "tikName": "Нарьян-Марская",
+    "regionCode": "83",
+    "regionTvd": "100100022249964",
+    "regionName": "Ненецкий автономный округ",
+    "district": null
   }
 ] satisfies readonly UikTikRelation[];

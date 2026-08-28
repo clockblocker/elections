@@ -11,6 +11,9 @@ export const duma_2007_tic_233_region_99 = [
     "ballot": "party",
     "tikTvd": "100100022111492",
     "tikName": "Город Байконур (Республика Казахстан)",
+    "regionCode": "99",
+    "regionTvd": "100100021960366",
+    "regionName": "Зарубежная территория",
     "uikCount": 7,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 15995,
@@ -72,6 +75,9 @@ export const duma_2007_tic_233_region_99 = [
     "ballot": "party",
     "tikTvd": "100100022111493",
     "tikName": "Территория за пределами РФ",
+    "regionCode": "99",
+    "regionTvd": "100100021960366",
+    "regionName": "Зарубежная территория",
     "uikCount": 351,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 405400,

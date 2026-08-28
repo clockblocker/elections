@@ -11,6 +11,14 @@ export const duma_2016_tic_464_region_52 = [
     "ballot": "single-member",
     "tikTvd": "25220001120001",
     "tikName": "Спасская",
+    "regionCode": "52",
+    "regionTvd": "100100067796023",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100067796024",
+      "oikName": "Нижегородская область – Нижегородский"
+    },
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 9060,
@@ -81,6 +89,14 @@ export const duma_2016_tic_464_region_52 = [
     "ballot": "single-member",
     "tikTvd": "25220001120002",
     "tikName": "Сеченовская",
+    "regionCode": "52",
+    "regionTvd": "100100067796023",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100067796024",
+      "oikName": "Нижегородская область – Нижегородский"
+    },
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 12079,
@@ -158,6 +174,14 @@ export const duma_2016_tic_464_region_52 = [
     "ballot": "single-member",
     "tikTvd": "25220001120003",
     "tikName": "Сергачская",
+    "regionCode": "52",
+    "regionTvd": "100100067796023",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100067796024",
+      "oikName": "Нижегородская область – Нижегородский"
+    },
     "uikCount": 41,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 24979,
@@ -249,6 +273,14 @@ export const duma_2016_tic_464_region_52 = [
     "ballot": "single-member",
     "tikTvd": "25220001120004",
     "tikName": "Пильнинская",
+    "regionCode": "52",
+    "regionTvd": "100100067796023",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100067796024",
+      "oikName": "Нижегородская область – Нижегородский"
+    },
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 16719,
@@ -334,6 +366,14 @@ export const duma_2016_tic_464_region_52 = [
     "ballot": "single-member",
     "tikTvd": "25220001120005",
     "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "100100067796023",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100067796024",
+      "oikName": "Нижегородская область – Нижегородский"
+    },
     "uikCount": 146,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 131062,
@@ -530,6 +570,14 @@ export const duma_2016_tic_464_region_52 = [
     "ballot": "single-member",
     "tikTvd": "25220001120006",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100067796023",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100067796024",
+      "oikName": "Нижегородская область – Нижегородский"
+    },
     "uikCount": 189,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 115924,
@@ -769,6 +817,14 @@ export const duma_2016_tic_464_region_52 = [
     "ballot": "single-member",
     "tikTvd": "25220001120007",
     "tikName": "Лысковская",
+    "regionCode": "52",
+    "regionTvd": "100100067796023",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100067796024",
+      "oikName": "Нижегородская область – Нижегородский"
+    },
     "uikCount": 41,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 31550,
@@ -860,6 +916,14 @@ export const duma_2016_tic_464_region_52 = [
     "ballot": "single-member",
     "tikTvd": "25220001120008",
     "tikName": "Кстовская",
+    "regionCode": "52",
+    "regionTvd": "100100067796023",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100067796024",
+      "oikName": "Нижегородская область – Нижегородский"
+    },
     "uikCount": 73,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 93748,
@@ -983,6 +1047,14 @@ export const duma_2016_tic_464_region_52 = [
     "ballot": "single-member",
     "tikTvd": "25220001120009",
     "tikName": "Краснооктябрьская",
+    "regionCode": "52",
+    "regionTvd": "100100067796023",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100067796024",
+      "oikName": "Нижегородская область – Нижегородский"
+    },
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 8753,
@@ -1061,6 +1133,14 @@ export const duma_2016_tic_464_region_52 = [
     "ballot": "single-member",
     "tikTvd": "25220001120010",
     "tikName": "Княгининская",
+    "regionCode": "52",
+    "regionTvd": "100100067796023",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100067796024",
+      "oikName": "Нижегородская область – Нижегородский"
+    },
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 9265,
@@ -1126,6 +1206,14 @@ export const duma_2016_tic_464_region_52 = [
     "ballot": "single-member",
     "tikTvd": "25220001120011",
     "tikName": "Гагинская",
+    "regionCode": "52",
+    "regionTvd": "100100067796023",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100067796024",
+      "oikName": "Нижегородская область – Нижегородский"
+    },
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 9942,
@@ -1203,6 +1291,14 @@ export const duma_2016_tic_464_region_52 = [
     "ballot": "single-member",
     "tikTvd": "25220001120012",
     "tikName": "Воротынская",
+    "regionCode": "52",
+    "regionTvd": "100100067796023",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100067796024",
+      "oikName": "Нижегородская область – Нижегородский"
+    },
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 13591,
@@ -1282,6 +1378,14 @@ export const duma_2016_tic_464_region_52 = [
     "ballot": "single-member",
     "tikTvd": "25220001120013",
     "tikName": "Бутурлинская",
+    "regionCode": "52",
+    "regionTvd": "100100067796023",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100067796024",
+      "oikName": "Нижегородская область – Нижегородский"
+    },
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 11445,
@@ -1352,6 +1456,14 @@ export const duma_2016_tic_464_region_52 = [
     "ballot": "single-member",
     "tikTvd": "25220001120014",
     "tikName": "Большемурашкинская",
+    "regionCode": "52",
+    "regionTvd": "100100067796023",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100067796024",
+      "oikName": "Нижегородская область – Нижегородский"
+    },
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 9309,
@@ -1417,6 +1529,14 @@ export const duma_2016_tic_464_region_52 = [
     "ballot": "single-member",
     "tikTvd": "25220001120015",
     "tikName": "Большеболдинская",
+    "regionCode": "52",
+    "regionTvd": "100100067796023",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100067796024",
+      "oikName": "Нижегородская область – Нижегородский"
+    },
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 9384,
@@ -1486,6 +1606,14 @@ export const duma_2016_tic_464_region_52 = [
     "ballot": "single-member",
     "tikTvd": "25220001120016",
     "tikName": "Шатковская",
+    "regionCode": "52",
+    "regionTvd": "100100067796023",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 130,
+      "oikTvd": "100100067796025",
+      "oikName": "Нижегородская область – Приокский"
+    },
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 20412,
@@ -1559,6 +1687,14 @@ export const duma_2016_tic_464_region_52 = [
     "ballot": "single-member",
     "tikTvd": "25220001120017",
     "tikName": "Починковская",
+    "regionCode": "52",
+    "regionTvd": "100100067796023",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 130,
+      "oikTvd": "100100067796025",
+      "oikName": "Нижегородская область – Приокский"
+    },
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 22837,
@@ -1649,6 +1785,14 @@ export const duma_2016_tic_464_region_52 = [
     "ballot": "single-member",
     "tikTvd": "25220001120018",
     "tikName": "Перевозская",
+    "regionCode": "52",
+    "regionTvd": "100100067796023",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 130,
+      "oikTvd": "100100067796025",
+      "oikName": "Нижегородская область – Приокский"
+    },
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 12701,
@@ -1720,6 +1864,14 @@ export const duma_2016_tic_464_region_52 = [
     "ballot": "single-member",
     "tikTvd": "25220001120019",
     "tikName": "Нижний Новгород, Приокская",
+    "regionCode": "52",
+    "regionTvd": "100100067796023",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 130,
+      "oikTvd": "100100067796025",
+      "oikName": "Нижегородская область – Приокский"
+    },
     "uikCount": 41,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 83262,
@@ -1813,6 +1965,14 @@ export const duma_2016_tic_464_region_52 = [
     "ballot": "single-member",
     "tikTvd": "25220001120020",
     "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "100100067796023",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 130,
+      "oikTvd": "100100067796025",
+      "oikName": "Нижегородская область – Приокский"
+    },
     "uikCount": 61,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 114264,
@@ -1926,6 +2086,14 @@ export const duma_2016_tic_464_region_52 = [
     "ballot": "single-member",
     "tikTvd": "25220001120021",
     "tikName": "Лукояновская",
+    "regionCode": "52",
+    "regionTvd": "100100067796023",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 130,
+      "oikTvd": "100100067796025",
+      "oikName": "Нижегородская область – Приокский"
+    },
     "uikCount": 41,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 21291,
@@ -2019,6 +2187,14 @@ export const duma_2016_tic_464_region_52 = [
     "ballot": "single-member",
     "tikTvd": "25220001120022",
     "tikName": "Дивеевская",
+    "regionCode": "52",
+    "regionTvd": "100100067796023",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 130,
+      "oikTvd": "100100067796025",
+      "oikName": "Нижегородская область – Приокский"
+    },
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 13142,
@@ -2091,6 +2267,14 @@ export const duma_2016_tic_464_region_52 = [
     "ballot": "single-member",
     "tikTvd": "25220001120023",
     "tikName": "Дальнеконстантиновская",
+    "regionCode": "52",
+    "regionTvd": "100100067796023",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 130,
+      "oikTvd": "100100067796025",
+      "oikName": "Нижегородская область – Приокский"
+    },
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 17338,
@@ -2173,6 +2357,14 @@ export const duma_2016_tic_464_region_52 = [
     "ballot": "single-member",
     "tikTvd": "25220001120024",
     "tikName": "Вадская",
+    "regionCode": "52",
+    "regionTvd": "100100067796023",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 130,
+      "oikTvd": "100100067796025",
+      "oikName": "Нижегородская область – Приокский"
+    },
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 11050,
@@ -2243,6 +2435,14 @@ export const duma_2016_tic_464_region_52 = [
     "ballot": "single-member",
     "tikTvd": "25220001120025",
     "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "100100067796023",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 130,
+      "oikTvd": "100100067796025",
+      "oikName": "Нижегородская область – Приокский"
+    },
     "uikCount": 8,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 9355,
@@ -2303,6 +2503,14 @@ export const duma_2016_tic_464_region_52 = [
     "ballot": "single-member",
     "tikTvd": "25220001120026",
     "tikName": "Арзамасская городская",
+    "regionCode": "52",
+    "regionTvd": "100100067796023",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 130,
+      "oikTvd": "100100067796025",
+      "oikName": "Нижегородская область – Приокский"
+    },
     "uikCount": 46,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 81842,
@@ -2401,6 +2609,14 @@ export const duma_2016_tic_464_region_52 = [
     "ballot": "single-member",
     "tikTvd": "25220001120027",
     "tikName": "Арзамасская",
+    "regionCode": "52",
+    "regionTvd": "100100067796023",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 130,
+      "oikTvd": "100100067796025",
+      "oikName": "Нижегородская область – Приокский"
+    },
     "uikCount": 49,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 34374,
@@ -2502,6 +2718,14 @@ export const duma_2016_tic_464_region_52 = [
     "ballot": "single-member",
     "tikTvd": "25220001120028",
     "tikName": "Первомайская",
+    "regionCode": "52",
+    "regionTvd": "100100067796023",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 130,
+      "oikTvd": "100100067796025",
+      "oikName": "Нижегородская область – Приокский"
+    },
     "uikCount": 11,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 16146,
@@ -2565,6 +2789,14 @@ export const duma_2016_tic_464_region_52 = [
     "ballot": "single-member",
     "tikTvd": "25220001120029",
     "tikName": "Нижний Новгород, Автозаводская Южная",
+    "regionCode": "52",
+    "regionTvd": "100100067796023",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100067796026",
+      "oikName": "Нижегородская область – Автозаводский"
+    },
     "uikCount": 62,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 125416,
@@ -2680,6 +2912,14 @@ export const duma_2016_tic_464_region_52 = [
     "ballot": "single-member",
     "tikTvd": "25220001120030",
     "tikName": "Нижний Новгород, Автозаводская Северная",
+    "regionCode": "52",
+    "regionTvd": "100100067796023",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100067796026",
+      "oikName": "Нижегородская область – Автозаводский"
+    },
     "uikCount": 57,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 117007,
@@ -2790,6 +3030,14 @@ export const duma_2016_tic_464_region_52 = [
     "ballot": "single-member",
     "tikTvd": "25220001120031",
     "tikName": "Навашинская",
+    "regionCode": "52",
+    "regionTvd": "100100067796023",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100067796026",
+      "oikName": "Нижегородская область – Автозаводский"
+    },
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 19551,
@@ -2868,6 +3116,14 @@ export const duma_2016_tic_464_region_52 = [
     "ballot": "single-member",
     "tikTvd": "25220001120032",
     "tikName": "Кулебакская",
+    "regionCode": "52",
+    "regionTvd": "100100067796023",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100067796026",
+      "oikName": "Нижегородская область – Автозаводский"
+    },
     "uikCount": 44,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 41214,
@@ -2965,6 +3221,14 @@ export const duma_2016_tic_464_region_52 = [
     "ballot": "single-member",
     "tikTvd": "25220001120033",
     "tikName": "Выксунская",
+    "regionCode": "52",
+    "regionTvd": "100100067796023",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100067796026",
+      "oikName": "Нижегородская область – Автозаводский"
+    },
     "uikCount": 52,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 70085,
@@ -3070,6 +3334,14 @@ export const duma_2016_tic_464_region_52 = [
     "ballot": "single-member",
     "tikTvd": "25220001120034",
     "tikName": "Вознесенская",
+    "regionCode": "52",
+    "regionTvd": "100100067796023",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100067796026",
+      "oikName": "Нижегородская область – Автозаводский"
+    },
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 13137,
@@ -3140,6 +3412,14 @@ export const duma_2016_tic_464_region_52 = [
     "ballot": "single-member",
     "tikTvd": "25220001120035",
     "tikName": "Вачская",
+    "regionCode": "52",
+    "regionTvd": "100100067796023",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100067796026",
+      "oikName": "Нижегородская область – Автозаводский"
+    },
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 15639,
@@ -3222,6 +3502,14 @@ export const duma_2016_tic_464_region_52 = [
     "ballot": "single-member",
     "tikTvd": "25220001120036",
     "tikName": "Сосновская",
+    "regionCode": "52",
+    "regionTvd": "100100067796023",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100067796026",
+      "oikName": "Нижегородская область – Автозаводский"
+    },
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 15377,
@@ -3312,6 +3600,14 @@ export const duma_2016_tic_464_region_52 = [
     "ballot": "single-member",
     "tikTvd": "25220001120037",
     "tikName": "Павловская",
+    "regionCode": "52",
+    "regionTvd": "100100067796023",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100067796026",
+      "oikName": "Нижегородская область – Автозаводский"
+    },
     "uikCount": 51,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 80169,
@@ -3416,6 +3712,14 @@ export const duma_2016_tic_464_region_52 = [
     "ballot": "single-member",
     "tikTvd": "25220001120038",
     "tikName": "Ардатовская",
+    "regionCode": "52",
+    "regionTvd": "100100067796023",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100067796026",
+      "oikName": "Нижегородская область – Автозаводский"
+    },
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 21136,
@@ -3499,6 +3803,14 @@ export const duma_2016_tic_464_region_52 = [
     "ballot": "single-member",
     "tikTvd": "25220001120039",
     "tikName": "Нижний Новгород, Московская",
+    "regionCode": "52",
+    "regionTvd": "100100067796023",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 132,
+      "oikTvd": "100100067796027",
+      "oikName": "Нижегородская область – Канавинский"
+    },
     "uikCount": 58,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 106384,
@@ -3607,6 +3919,14 @@ export const duma_2016_tic_464_region_52 = [
     "ballot": "single-member",
     "tikTvd": "25220001120040",
     "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "100100067796023",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 132,
+      "oikTvd": "100100067796027",
+      "oikName": "Нижегородская область – Канавинский"
+    },
     "uikCount": 68,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 129527,
@@ -3725,6 +4045,14 @@ export const duma_2016_tic_464_region_52 = [
     "ballot": "single-member",
     "tikTvd": "25220001120041",
     "tikName": "Дзержинская, Калининская",
+    "regionCode": "52",
+    "regionTvd": "100100067796023",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 132,
+      "oikTvd": "100100067796027",
+      "oikName": "Нижегородская область – Канавинский"
+    },
     "uikCount": 60,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 97158,
@@ -3835,6 +4163,14 @@ export const duma_2016_tic_464_region_52 = [
     "ballot": "single-member",
     "tikTvd": "25220001120042",
     "tikName": "Дзержинская, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "100100067796023",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 132,
+      "oikTvd": "100100067796027",
+      "oikName": "Нижегородская область – Канавинский"
+    },
     "uikCount": 57,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 100600,
@@ -3942,6 +4278,14 @@ export const duma_2016_tic_464_region_52 = [
     "ballot": "single-member",
     "tikTvd": "25220001120043",
     "tikName": "Володарская",
+    "regionCode": "52",
+    "regionTvd": "100100067796023",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 132,
+      "oikTvd": "100100067796027",
+      "oikName": "Нижегородская область – Канавинский"
+    },
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 44031,
@@ -4020,6 +4364,14 @@ export const duma_2016_tic_464_region_52 = [
     "ballot": "single-member",
     "tikTvd": "25220001120044",
     "tikName": "Балахнинская",
+    "regionCode": "52",
+    "regionTvd": "100100067796023",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 132,
+      "oikTvd": "100100067796027",
+      "oikName": "Нижегородская область – Канавинский"
+    },
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 64542,
@@ -4107,6 +4459,14 @@ export const duma_2016_tic_464_region_52 = [
     "ballot": "single-member",
     "tikTvd": "25220001120045",
     "tikName": "Шахунская",
+    "regionCode": "52",
+    "regionTvd": "100100067796023",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 133,
+      "oikTvd": "100100067796028",
+      "oikName": "Нижегородская область – Борский"
+    },
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 31482,
@@ -4187,6 +4547,14 @@ export const duma_2016_tic_464_region_52 = [
     "ballot": "single-member",
     "tikTvd": "25220001120046",
     "tikName": "Шарангская",
+    "regionCode": "52",
+    "regionTvd": "100100067796023",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 133,
+      "oikTvd": "100100067796028",
+      "oikName": "Нижегородская область – Борский"
+    },
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 9878,
@@ -4258,6 +4626,14 @@ export const duma_2016_tic_464_region_52 = [
     "ballot": "single-member",
     "tikTvd": "25220001120047",
     "tikName": "Чкаловская",
+    "regionCode": "52",
+    "regionTvd": "100100067796023",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 133,
+      "oikTvd": "100100067796028",
+      "oikName": "Нижегородская область – Борский"
+    },
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 19063,
@@ -4328,6 +4704,14 @@ export const duma_2016_tic_464_region_52 = [
     "ballot": "single-member",
     "tikTvd": "25220001120048",
     "tikName": "Уренская",
+    "regionCode": "52",
+    "regionTvd": "100100067796023",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 133,
+      "oikTvd": "100100067796028",
+      "oikName": "Нижегородская область – Борский"
+    },
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 22904,
@@ -4415,6 +4799,14 @@ export const duma_2016_tic_464_region_52 = [
     "ballot": "single-member",
     "tikTvd": "25220001120049",
     "tikName": "Тоншаевская",
+    "regionCode": "52",
+    "regionTvd": "100100067796023",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 133,
+      "oikTvd": "100100067796028",
+      "oikName": "Нижегородская область – Борский"
+    },
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 11280,
@@ -4488,6 +4880,14 @@ export const duma_2016_tic_464_region_52 = [
     "ballot": "single-member",
     "tikTvd": "25220001120050",
     "tikName": "Тонкинская",
+    "regionCode": "52",
+    "regionTvd": "100100067796023",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 133,
+      "oikTvd": "100100067796028",
+      "oikName": "Нижегородская область – Борский"
+    },
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 6472,
@@ -4554,6 +4954,14 @@ export const duma_2016_tic_464_region_52 = [
     "ballot": "single-member",
     "tikTvd": "25220001120051",
     "tikName": "Семеновская",
+    "regionCode": "52",
+    "regionTvd": "100100067796023",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 133,
+      "oikTvd": "100100067796028",
+      "oikName": "Нижегородская область – Борский"
+    },
     "uikCount": 48,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 36971,
@@ -4653,6 +5061,14 @@ export const duma_2016_tic_464_region_52 = [
     "ballot": "single-member",
     "tikTvd": "25220001120052",
     "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "100100067796023",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 133,
+      "oikTvd": "100100067796028",
+      "oikName": "Нижегородская область – Борский"
+    },
     "uikCount": 66,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 140385,
@@ -4770,6 +5186,14 @@ export const duma_2016_tic_464_region_52 = [
     "ballot": "single-member",
     "tikTvd": "25220001120053",
     "tikName": "Сокольская",
+    "regionCode": "52",
+    "regionTvd": "100100067796023",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 133,
+      "oikTvd": "100100067796028",
+      "oikName": "Нижегородская область – Борский"
+    },
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 11043,
@@ -4851,6 +5275,14 @@ export const duma_2016_tic_464_region_52 = [
     "ballot": "single-member",
     "tikTvd": "25220001120054",
     "tikName": "Краснобаковская",
+    "regionCode": "52",
+    "regionTvd": "100100067796023",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 133,
+      "oikTvd": "100100067796028",
+      "oikName": "Нижегородская область – Борский"
+    },
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 15510,
@@ -4922,6 +5354,14 @@ export const duma_2016_tic_464_region_52 = [
     "ballot": "single-member",
     "tikTvd": "25220001120055",
     "tikName": "Ковернинская",
+    "regionCode": "52",
+    "regionTvd": "100100067796023",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 133,
+      "oikTvd": "100100067796028",
+      "oikName": "Нижегородская область – Борский"
+    },
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 15692,
@@ -4993,6 +5433,14 @@ export const duma_2016_tic_464_region_52 = [
     "ballot": "single-member",
     "tikTvd": "25220001120056",
     "tikName": "Городецкая",
+    "regionCode": "52",
+    "regionTvd": "100100067796023",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 133,
+      "oikTvd": "100100067796028",
+      "oikName": "Нижегородская область – Борский"
+    },
     "uikCount": 55,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 74220,
@@ -5099,6 +5547,14 @@ export const duma_2016_tic_464_region_52 = [
     "ballot": "single-member",
     "tikTvd": "25220001120057",
     "tikName": "Воскресенская",
+    "regionCode": "52",
+    "regionTvd": "100100067796023",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 133,
+      "oikTvd": "100100067796028",
+      "oikName": "Нижегородская область – Борский"
+    },
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 16004,
@@ -5183,6 +5639,14 @@ export const duma_2016_tic_464_region_52 = [
     "ballot": "single-member",
     "tikTvd": "25220001120058",
     "tikName": "Ветлужская",
+    "regionCode": "52",
+    "regionTvd": "100100067796023",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 133,
+      "oikTvd": "100100067796028",
+      "oikName": "Нижегородская область – Борский"
+    },
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 12225,
@@ -5256,6 +5720,14 @@ export const duma_2016_tic_464_region_52 = [
     "ballot": "single-member",
     "tikTvd": "25220001120059",
     "tikName": "Варнавинская",
+    "regionCode": "52",
+    "regionTvd": "100100067796023",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 133,
+      "oikTvd": "100100067796028",
+      "oikName": "Нижегородская область – Борский"
+    },
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 8261,
@@ -5321,6 +5793,14 @@ export const duma_2016_tic_464_region_52 = [
     "ballot": "single-member",
     "tikTvd": "25220001120060",
     "tikName": "Борская",
+    "regionCode": "52",
+    "regionTvd": "100100067796023",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 133,
+      "oikTvd": "100100067796028",
+      "oikName": "Нижегородская область – Борский"
+    },
     "uikCount": 90,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 98216,
@@ -5462,6 +5942,14 @@ export const duma_2016_tic_464_region_52 = [
     "ballot": "single-member",
     "tikTvd": "25220001120063",
     "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "100100067796023",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100067796026",
+      "oikName": "Нижегородская область – Автозаводский"
+    },
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 46834,
@@ -5555,6 +6043,14 @@ export const duma_2016_tic_464_region_52 = [
     "ballot": "single-member",
     "tikTvd": "25220001128350",
     "tikName": "Саровская городская",
+    "regionCode": "52",
+    "regionTvd": "100100067796023",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 130,
+      "oikTvd": "100100067796025",
+      "oikName": "Нижегородская область – Приокский"
+    },
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 76501,

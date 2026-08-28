@@ -11,6 +11,9 @@ export const president_2004_tic_227_region_54 = [
     "ballot": "presidential",
     "tikTvd": "254200081128",
     "tikName": "Татарская городская",
+    "regionCode": "54",
+    "regionTvd": "1001000883233",
+    "regionName": "Новосибирская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список": 20667,
@@ -74,6 +77,9 @@ export const president_2004_tic_227_region_54 = [
     "ballot": "presidential",
     "tikTvd": "254200081129",
     "tikName": "Барабинская городская",
+    "regionCode": "54",
+    "regionTvd": "1001000883233",
+    "regionName": "Новосибирская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список": 24667,
@@ -143,6 +149,9 @@ export const president_2004_tic_227_region_54 = [
     "ballot": "presidential",
     "tikTvd": "254200081130",
     "tikName": "Болотнинская",
+    "regionCode": "54",
+    "regionTvd": "1001000883233",
+    "regionName": "Новосибирская область",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в список": 24224,
@@ -230,6 +239,9 @@ export const president_2004_tic_227_region_54 = [
     "ballot": "presidential",
     "tikTvd": "254200081131",
     "tikName": "Венгеровская",
+    "regionCode": "54",
+    "regionTvd": "1001000883233",
+    "regionName": "Новосибирская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в список": 16804,
@@ -318,6 +330,9 @@ export const president_2004_tic_227_region_54 = [
     "ballot": "presidential",
     "tikTvd": "254200081132",
     "tikName": "Бердская городская",
+    "regionCode": "54",
+    "regionTvd": "1001000883233",
+    "regionName": "Новосибирская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в список": 72985,
@@ -406,6 +421,9 @@ export const president_2004_tic_227_region_54 = [
     "ballot": "presidential",
     "tikTvd": "254200081133",
     "tikName": "Баганская",
+    "regionCode": "54",
+    "regionTvd": "1001000883233",
+    "regionName": "Новосибирская область",
     "uikCount": 48,
     "accounting": {
       "Число избирателей, внесенных в список": 13011,
@@ -502,6 +520,9 @@ export const president_2004_tic_227_region_54 = [
     "ballot": "presidential",
     "tikTvd": "254200081134",
     "tikName": "Барабинская",
+    "regionCode": "54",
+    "regionTvd": "1001000883233",
+    "regionName": "Новосибирская область",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в список": 12702,
@@ -582,6 +603,9 @@ export const president_2004_tic_227_region_54 = [
     "ballot": "presidential",
     "tikTvd": "254200081135",
     "tikName": "Купинская",
+    "regionCode": "54",
+    "regionTvd": "1001000883233",
+    "regionName": "Новосибирская область",
     "uikCount": 52,
     "accounting": {
       "Число избирателей, внесенных в список": 25861,
@@ -682,6 +706,9 @@ export const president_2004_tic_227_region_54 = [
     "ballot": "presidential",
     "tikTvd": "254200081136",
     "tikName": "Куйбышевская городская",
+    "regionCode": "54",
+    "regionTvd": "1001000883233",
+    "regionName": "Новосибирская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список": 36174,
@@ -755,6 +782,9 @@ export const president_2004_tic_227_region_54 = [
     "ballot": "presidential",
     "tikTvd": "254200081137",
     "tikName": "Краснозерская",
+    "regionCode": "54",
+    "regionTvd": "1001000883233",
+    "regionName": "Новосибирская область",
     "uikCount": 49,
     "accounting": {
       "Число избирателей, внесенных в список": 29355,
@@ -852,6 +882,9 @@ export const president_2004_tic_227_region_54 = [
     "ballot": "presidential",
     "tikTvd": "254200081138",
     "tikName": "Кочковская",
+    "regionCode": "54",
+    "regionTvd": "1001000883233",
+    "regionName": "Новосибирская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список": 12115,
@@ -918,6 +951,9 @@ export const president_2004_tic_227_region_54 = [
     "ballot": "presidential",
     "tikTvd": "254200081139",
     "tikName": "Коченевская",
+    "regionCode": "54",
+    "regionTvd": "1001000883233",
+    "regionName": "Новосибирская область",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, внесенных в список": 35367,
@@ -1016,6 +1052,9 @@ export const president_2004_tic_227_region_54 = [
     "ballot": "presidential",
     "tikTvd": "254200081140",
     "tikName": "Карасукская",
+    "regionCode": "54",
+    "regionTvd": "1001000883233",
+    "regionName": "Новосибирская область",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, внесенных в список": 35324,
@@ -1114,6 +1153,9 @@ export const president_2004_tic_227_region_54 = [
     "ballot": "presidential",
     "tikTvd": "254200081141",
     "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "1001000883233",
+    "regionName": "Новосибирская область",
     "uikCount": 76,
     "accounting": {
       "Число избирателей, внесенных в список": 52583,
@@ -1238,6 +1280,9 @@ export const president_2004_tic_227_region_54 = [
     "ballot": "presidential",
     "tikTvd": "254200081142",
     "tikName": "Колыванская",
+    "regionCode": "54",
+    "regionTvd": "1001000883233",
+    "regionName": "Новосибирская область",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в список": 19565,
@@ -1325,6 +1370,9 @@ export const president_2004_tic_227_region_54 = [
     "ballot": "presidential",
     "tikTvd": "254200081143",
     "tikName": "Каргатская",
+    "regionCode": "54",
+    "regionTvd": "1001000883233",
+    "regionName": "Новосибирская область",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в список": 17291,
@@ -1411,6 +1459,9 @@ export const president_2004_tic_227_region_54 = [
     "ballot": "presidential",
     "tikTvd": "254200081144",
     "tikName": "Искитимская городская",
+    "regionCode": "54",
+    "regionTvd": "1001000883233",
+    "regionName": "Новосибирская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список": 49547,
@@ -1487,6 +1538,9 @@ export const president_2004_tic_227_region_54 = [
     "ballot": "presidential",
     "tikTvd": "254200081145",
     "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "1001000883233",
+    "regionName": "Новосибирская область",
     "uikCount": 64,
     "accounting": {
       "Число избирателей, внесенных в список": 139406,
@@ -1599,6 +1653,9 @@ export const president_2004_tic_227_region_54 = [
     "ballot": "presidential",
     "tikTvd": "254200081146",
     "tikName": "Новосибирск, Кировская",
+    "regionCode": "54",
+    "regionTvd": "1001000883233",
+    "regionName": "Новосибирская область",
     "uikCount": 69,
     "accounting": {
       "Число избирателей, внесенных в список": 132410,
@@ -1716,6 +1773,9 @@ export const president_2004_tic_227_region_54 = [
     "ballot": "presidential",
     "tikTvd": "254200081147",
     "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "1001000883233",
+    "regionName": "Новосибирская область",
     "uikCount": 66,
     "accounting": {
       "Число избирателей, внесенных в список": 110961,
@@ -1830,6 +1890,9 @@ export const president_2004_tic_227_region_54 = [
     "ballot": "presidential",
     "tikTvd": "254200081148",
     "tikName": "Новосибирск, Дзержинская",
+    "regionCode": "54",
+    "regionTvd": "1001000883233",
+    "regionName": "Новосибирская область",
     "uikCount": 73,
     "accounting": {
       "Число избирателей, внесенных в список": 120961,
@@ -1951,6 +2014,9 @@ export const president_2004_tic_227_region_54 = [
     "ballot": "presidential",
     "tikTvd": "254200081149",
     "tikName": "Новосибирск, Железнодорожная",
+    "regionCode": "54",
+    "regionTvd": "1001000883233",
+    "regionName": "Новосибирская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список": 53191,
@@ -2020,6 +2086,9 @@ export const president_2004_tic_227_region_54 = [
     "ballot": "presidential",
     "tikTvd": "254200081150",
     "tikName": "Кыштовская",
+    "regionCode": "54",
+    "regionTvd": "1001000883233",
+    "regionName": "Новосибирская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в список": 11465,
@@ -2099,6 +2168,9 @@ export const president_2004_tic_227_region_54 = [
     "ballot": "presidential",
     "tikTvd": "254200081151",
     "tikName": "Сузунская",
+    "regionCode": "54",
+    "regionTvd": "1001000883233",
+    "regionName": "Новосибирская область",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в список": 26365,
@@ -2182,6 +2254,9 @@ export const president_2004_tic_227_region_54 = [
     "ballot": "presidential",
     "tikTvd": "254200081152",
     "tikName": "Мошковская",
+    "regionCode": "54",
+    "regionTvd": "1001000883233",
+    "regionName": "Новосибирская область",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, внесенных в список": 30878,
@@ -2271,6 +2346,9 @@ export const president_2004_tic_227_region_54 = [
     "ballot": "presidential",
     "tikTvd": "254200081153",
     "tikName": "Маслянинская",
+    "regionCode": "54",
+    "regionTvd": "1001000883233",
+    "regionName": "Новосибирская область",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в список": 20716,
@@ -2356,6 +2434,9 @@ export const president_2004_tic_227_region_54 = [
     "ballot": "presidential",
     "tikTvd": "254200081154",
     "tikName": "Северная",
+    "regionCode": "54",
+    "regionTvd": "1001000883233",
+    "regionName": "Новосибирская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список": 8910,
@@ -2426,6 +2507,9 @@ export const president_2004_tic_227_region_54 = [
     "ballot": "presidential",
     "tikTvd": "254200081155",
     "tikName": "Ордынская",
+    "regionCode": "54",
+    "regionTvd": "1001000883233",
+    "regionName": "Новосибирская область",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в список": 30740,
@@ -2512,6 +2596,9 @@ export const president_2004_tic_227_region_54 = [
     "ballot": "presidential",
     "tikTvd": "254200081156",
     "tikName": "Обская городская",
+    "regionCode": "54",
+    "regionTvd": "1001000883233",
+    "regionName": "Новосибирская область",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, внесенных в список": 20223,
@@ -2572,6 +2659,9 @@ export const president_2004_tic_227_region_54 = [
     "ballot": "presidential",
     "tikTvd": "254200081157",
     "tikName": "Новосибирская",
+    "regionCode": "54",
+    "regionTvd": "1001000883233",
+    "regionName": "Новосибирская область",
     "uikCount": 65,
     "accounting": {
       "Число избирателей, внесенных в список": 90405,
@@ -2685,6 +2775,9 @@ export const president_2004_tic_227_region_54 = [
     "ballot": "presidential",
     "tikTvd": "254200081158",
     "tikName": "Новосибирск, Советская",
+    "regionCode": "54",
+    "regionTvd": "1001000883233",
+    "regionName": "Новосибирская область",
     "uikCount": 53,
     "accounting": {
       "Число избирателей, внесенных в список": 106531,
@@ -2786,6 +2879,9 @@ export const president_2004_tic_227_region_54 = [
     "ballot": "presidential",
     "tikTvd": "254200081159",
     "tikName": "Новосибирск, Центральная",
+    "regionCode": "54",
+    "regionTvd": "1001000883233",
+    "regionName": "Новосибирская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список": 56402,
@@ -2860,6 +2956,9 @@ export const president_2004_tic_227_region_54 = [
     "ballot": "presidential",
     "tikTvd": "254200081160",
     "tikName": "Новосибирск, Первомайская",
+    "regionCode": "54",
+    "regionTvd": "1001000883233",
+    "regionName": "Новосибирская область",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список": 55497,
@@ -2935,6 +3034,9 @@ export const president_2004_tic_227_region_54 = [
     "ballot": "presidential",
     "tikTvd": "254200081161",
     "tikName": "Новосибирск, Октябрьская",
+    "regionCode": "54",
+    "regionTvd": "1001000883233",
+    "regionName": "Новосибирская область",
     "uikCount": 61,
     "accounting": {
       "Число избирателей, внесенных в список": 134992,
@@ -3044,6 +3146,9 @@ export const president_2004_tic_227_region_54 = [
     "ballot": "presidential",
     "tikTvd": "254200081162",
     "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "1001000883233",
+    "regionName": "Новосибирская область",
     "uikCount": 52,
     "accounting": {
       "Число избирателей, внесенных в список": 13825,
@@ -3144,6 +3249,9 @@ export const president_2004_tic_227_region_54 = [
     "ballot": "presidential",
     "tikTvd": "254200081163",
     "tikName": "Куйбышевская",
+    "regionCode": "54",
+    "regionTvd": "1001000883233",
+    "regionName": "Новосибирская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в список": 14532,
@@ -3226,6 +3334,9 @@ export const president_2004_tic_227_region_54 = [
     "ballot": "presidential",
     "tikTvd": "254200081164",
     "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "1001000883233",
+    "regionName": "Новосибирская область",
     "uikCount": 98,
     "accounting": {
       "Число избирателей, внесенных в список": 218383,
@@ -3372,6 +3483,9 @@ export const president_2004_tic_227_region_54 = [
     "ballot": "presidential",
     "tikTvd": "254200081165",
     "tikName": "Чистоозерная",
+    "regionCode": "54",
+    "regionTvd": "1001000883233",
+    "regionName": "Новосибирская область",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, внесенных в список": 15675,
@@ -3463,6 +3577,9 @@ export const president_2004_tic_227_region_54 = [
     "ballot": "presidential",
     "tikTvd": "254200081166",
     "tikName": "Убинская",
+    "regionCode": "54",
+    "regionTvd": "1001000883233",
+    "regionName": "Новосибирская область",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в список": 13902,
@@ -3546,6 +3663,9 @@ export const president_2004_tic_227_region_54 = [
     "ballot": "presidential",
     "tikTvd": "254200081167",
     "tikName": "Чановская",
+    "regionCode": "54",
+    "regionTvd": "1001000883233",
+    "regionName": "Новосибирская область",
     "uikCount": 54,
     "accounting": {
       "Число избирателей, внесенных в список": 21786,
@@ -3648,6 +3768,9 @@ export const president_2004_tic_227_region_54 = [
     "ballot": "presidential",
     "tikTvd": "254200081168",
     "tikName": "Тогучинская",
+    "regionCode": "54",
+    "regionTvd": "1001000883233",
+    "regionName": "Новосибирская область",
     "uikCount": 66,
     "accounting": {
       "Число избирателей, внесенных в список": 45995,
@@ -3762,6 +3885,9 @@ export const president_2004_tic_227_region_54 = [
     "ballot": "presidential",
     "tikTvd": "254200081169",
     "tikName": "Усть-Таркская",
+    "regionCode": "54",
+    "regionTvd": "1001000883233",
+    "regionName": "Новосибирская область",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в список": 10358,
@@ -3847,6 +3973,9 @@ export const president_2004_tic_227_region_54 = [
     "ballot": "presidential",
     "tikTvd": "254200081170",
     "tikName": "Чулымская",
+    "regionCode": "54",
+    "regionTvd": "1001000883233",
+    "regionName": "Новосибирская область",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, внесенных в список": 20377,
@@ -3945,6 +4074,9 @@ export const president_2004_tic_227_region_54 = [
     "ballot": "presidential",
     "tikTvd": "254200081171",
     "tikName": "Черепановская",
+    "regionCode": "54",
+    "regionTvd": "1001000883233",
+    "regionName": "Новосибирская область",
     "uikCount": 56,
     "accounting": {
       "Число избирателей, внесенных в список": 39966,
@@ -4049,6 +4181,9 @@ export const president_2004_tic_227_region_54 = [
     "ballot": "presidential",
     "tikTvd": "254200081172",
     "tikName": "Здвинская",
+    "regionCode": "54",
+    "regionTvd": "1001000883233",
+    "regionName": "Новосибирская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в список": 14410,
@@ -4131,6 +4266,9 @@ export const president_2004_tic_227_region_54 = [
     "ballot": "presidential",
     "tikTvd": "254200081173",
     "tikName": "Доволенская",
+    "regionCode": "54",
+    "regionTvd": "1001000883233",
+    "regionName": "Новосибирская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в список": 15563,

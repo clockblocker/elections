@@ -11,6 +11,9 @@ export const president_2004_tic_227_region_49 = [
     "ballot": "presidential",
     "tikTvd": "249200070066",
     "tikName": "Магаданская",
+    "regionCode": "49",
+    "regionTvd": "1001000883010",
+    "regionName": "Магаданская область",
     "uikCount": 66,
     "accounting": {
       "Число избирателей, внесенных в список": 79755,
@@ -125,6 +128,9 @@ export const president_2004_tic_227_region_49 = [
     "ballot": "presidential",
     "tikTvd": "249200070067",
     "tikName": "Ольская",
+    "regionCode": "49",
+    "regionTvd": "1001000883010",
+    "regionName": "Магаданская область",
     "uikCount": 8,
     "accounting": {
       "Число избирателей, внесенных в список": 6787,
@@ -181,6 +187,9 @@ export const president_2004_tic_227_region_49 = [
     "ballot": "presidential",
     "tikTvd": "249200070068",
     "tikName": "Омсукчанская",
+    "regionCode": "49",
+    "regionTvd": "1001000883010",
+    "regionName": "Магаданская область",
     "uikCount": 5,
     "accounting": {
       "Число избирателей, внесенных в список": 4918,
@@ -234,6 +243,9 @@ export const president_2004_tic_227_region_49 = [
     "ballot": "presidential",
     "tikTvd": "249200070069",
     "tikName": "Северо-Эвенская",
+    "regionCode": "49",
+    "regionTvd": "1001000883010",
+    "regionName": "Магаданская область",
     "uikCount": 6,
     "accounting": {
       "Число избирателей, внесенных в список": 2446,
@@ -288,6 +300,9 @@ export const president_2004_tic_227_region_49 = [
     "ballot": "presidential",
     "tikTvd": "249200070070",
     "tikName": "Среднеканская",
+    "regionCode": "49",
+    "regionTvd": "1001000883010",
+    "regionName": "Магаданская область",
     "uikCount": 5,
     "accounting": {
       "Число избирателей, внесенных в список": 3935,
@@ -341,6 +356,9 @@ export const president_2004_tic_227_region_49 = [
     "ballot": "presidential",
     "tikTvd": "249200070071",
     "tikName": "Сусуманская",
+    "regionCode": "49",
+    "regionTvd": "1001000883010",
+    "regionName": "Магаданская область",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, внесенных в список": 7691,
@@ -401,6 +419,9 @@ export const president_2004_tic_227_region_49 = [
     "ballot": "presidential",
     "tikTvd": "249200070072",
     "tikName": "Тенькинская",
+    "regionCode": "49",
+    "regionTvd": "1001000883010",
+    "regionName": "Магаданская область",
     "uikCount": 10,
     "accounting": {
       "Число избирателей, внесенных в список": 5782,
@@ -459,6 +480,9 @@ export const president_2004_tic_227_region_49 = [
     "ballot": "presidential",
     "tikTvd": "249200070073",
     "tikName": "Хасынская",
+    "regionCode": "49",
+    "regionTvd": "1001000883010",
+    "regionName": "Магаданская область",
     "uikCount": 8,
     "accounting": {
       "Число избирателей, внесенных в список": 7116,
@@ -515,6 +539,9 @@ export const president_2004_tic_227_region_49 = [
     "ballot": "presidential",
     "tikTvd": "249200070074",
     "tikName": "Ягоднинская",
+    "regionCode": "49",
+    "regionTvd": "1001000883010",
+    "regionName": "Магаданская область",
     "uikCount": 10,
     "accounting": {
       "Число избирателей, внесенных в список": 10101,
@@ -573,6 +600,9 @@ export const president_2004_tic_227_region_49 = [
     "ballot": "presidential",
     "tikTvd": "249200070075",
     "tikName": "Арманская",
+    "regionCode": "49",
+    "regionTvd": "1001000883010",
+    "regionName": "Магаданская область",
     "uikCount": 6,
     "accounting": {
       "Число избирателей, внесенных в список": 2770,

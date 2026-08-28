@@ -11,6 +11,9 @@ export const president_2018_tic_227_region_47 = [
     "ballot": "presidential",
     "tikTvd": "2472000873702",
     "tikName": "Тосненская",
+    "regionCode": "47",
+    "regionTvd": "100100084849172",
+    "regionName": "Ленинградская область",
     "uikCount": 65,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 91001,
@@ -120,6 +123,9 @@ export const president_2018_tic_227_region_47 = [
     "ballot": "presidential",
     "tikTvd": "2472000873703",
     "tikName": "Тихвинская",
+    "regionCode": "47",
+    "regionTvd": "100100084849172",
+    "regionName": "Ленинградская область",
     "uikCount": 47,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 57968,
@@ -211,6 +217,9 @@ export const president_2018_tic_227_region_47 = [
     "ballot": "presidential",
     "tikTvd": "2472000873704",
     "tikName": "Сосновоборская городская",
+    "regionCode": "47",
+    "regionTvd": "100100084849172",
+    "regionName": "Ленинградская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 53892,
@@ -281,6 +290,9 @@ export const president_2018_tic_227_region_47 = [
     "ballot": "presidential",
     "tikTvd": "2472000873705",
     "tikName": "Сланцевская",
+    "regionCode": "47",
+    "regionTvd": "100100084849172",
+    "regionName": "Ленинградская область",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 35327,
@@ -358,6 +370,9 @@ export const president_2018_tic_227_region_47 = [
     "ballot": "presidential",
     "tikTvd": "2472000873706",
     "tikName": "Приозерская",
+    "regionCode": "47",
+    "regionTvd": "100100084849172",
+    "regionName": "Ленинградская область",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 45702,
@@ -439,6 +454,9 @@ export const president_2018_tic_227_region_47 = [
     "ballot": "presidential",
     "tikTvd": "2472000873707",
     "tikName": "Подпорожская",
+    "regionCode": "47",
+    "regionTvd": "100100084849172",
+    "regionName": "Ленинградская область",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 24927,
@@ -518,6 +536,9 @@ export const president_2018_tic_227_region_47 = [
     "ballot": "presidential",
     "tikTvd": "2472000873708",
     "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "100100084849172",
+    "regionName": "Ленинградская область",
     "uikCount": 57,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 60262,
@@ -619,6 +640,9 @@ export const president_2018_tic_227_region_47 = [
     "ballot": "presidential",
     "tikTvd": "2472000873709",
     "tikName": "Ломоносовская",
+    "regionCode": "47",
+    "regionTvd": "100100084849172",
+    "regionName": "Ленинградская область",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 61795,
@@ -704,6 +728,9 @@ export const president_2018_tic_227_region_47 = [
     "ballot": "presidential",
     "tikTvd": "2472000873710",
     "tikName": "Лодейнопольская",
+    "regionCode": "47",
+    "regionTvd": "100100084849172",
+    "regionName": "Ленинградская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 23296,
@@ -777,6 +804,9 @@ export const president_2018_tic_227_region_47 = [
     "ballot": "presidential",
     "tikTvd": "2472000873711",
     "tikName": "Кировская",
+    "regionCode": "47",
+    "regionTvd": "100100084849172",
+    "regionName": "Ленинградская область",
     "uikCount": 48,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 74175,
@@ -869,6 +899,9 @@ export const president_2018_tic_227_region_47 = [
     "ballot": "presidential",
     "tikTvd": "2472000873712",
     "tikName": "Киришская",
+    "regionCode": "47",
+    "regionTvd": "100100084849172",
+    "regionName": "Ленинградская область",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 50793,
@@ -945,6 +978,9 @@ export const president_2018_tic_227_region_47 = [
     "ballot": "presidential",
     "tikTvd": "2472000873713",
     "tikName": "Кингисеппская",
+    "regionCode": "47",
+    "regionTvd": "100100084849172",
+    "regionName": "Ленинградская область",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 60781,
@@ -1035,6 +1071,9 @@ export const president_2018_tic_227_region_47 = [
     "ballot": "presidential",
     "tikTvd": "2472000873714",
     "tikName": "Гатчинская",
+    "regionCode": "47",
+    "regionTvd": "100100084849172",
+    "regionName": "Ленинградская область",
     "uikCount": 119,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 159868,
@@ -1198,6 +1237,9 @@ export const president_2018_tic_227_region_47 = [
     "ballot": "presidential",
     "tikTvd": "2472000873715",
     "tikName": "Выборгская",
+    "regionCode": "47",
+    "regionTvd": "100100084849172",
+    "regionName": "Ленинградская область",
     "uikCount": 122,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 152582,
@@ -1364,6 +1406,9 @@ export const president_2018_tic_227_region_47 = [
     "ballot": "presidential",
     "tikTvd": "2472000873716",
     "tikName": "Всеволожская",
+    "regionCode": "47",
+    "regionTvd": "100100084849172",
+    "regionName": "Ленинградская область",
     "uikCount": 133,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 241369,
@@ -1541,6 +1586,9 @@ export const president_2018_tic_227_region_47 = [
     "ballot": "presidential",
     "tikTvd": "2472000873717",
     "tikName": "Волховская",
+    "regionCode": "47",
+    "regionTvd": "100100084849172",
+    "regionName": "Ленинградская область",
     "uikCount": 54,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 66838,
@@ -1639,6 +1687,9 @@ export const president_2018_tic_227_region_47 = [
     "ballot": "presidential",
     "tikTvd": "2472000873718",
     "tikName": "Волосовская",
+    "regionCode": "47",
+    "regionTvd": "100100084849172",
+    "regionName": "Ленинградская область",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 32443,
@@ -1710,6 +1761,9 @@ export const president_2018_tic_227_region_47 = [
     "ballot": "presidential",
     "tikTvd": "2472000873719",
     "tikName": "Бокситогорская",
+    "regionCode": "47",
+    "regionTvd": "100100084849172",
+    "regionName": "Ленинградская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 38488,

@@ -11,6 +11,9 @@ export const duma_2016_tic_233_region_72 = [
     "ballot": "party",
     "tikTvd": "2722000792584",
     "tikName": "Ярковская",
+    "regionCode": "72",
+    "regionTvd": "100100067796098",
+    "regionName": "Тюменская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 16076,
@@ -93,6 +96,9 @@ export const duma_2016_tic_233_region_72 = [
     "ballot": "party",
     "tikTvd": "2722000792585",
     "tikName": "Юргинская",
+    "regionCode": "72",
+    "regionTvd": "100100067796098",
+    "regionName": "Тюменская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 9008,
@@ -168,6 +174,9 @@ export const duma_2016_tic_233_region_72 = [
     "ballot": "party",
     "tikTvd": "2722000792586",
     "tikName": "Уватская",
+    "regionCode": "72",
+    "regionTvd": "100100067796098",
+    "regionName": "Тюменская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 14844,
@@ -243,6 +252,9 @@ export const duma_2016_tic_233_region_72 = [
     "ballot": "party",
     "tikTvd": "2722000792587",
     "tikName": "Тюмень, Центральная",
+    "regionCode": "72",
+    "regionTvd": "100100067796098",
+    "regionName": "Тюменская область",
     "uikCount": 79,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 131275,
@@ -378,6 +390,9 @@ export const duma_2016_tic_233_region_72 = [
     "ballot": "party",
     "tikTvd": "2722000792588",
     "tikName": "Тюмень, Ленинская",
+    "regionCode": "72",
+    "regionTvd": "100100067796098",
+    "regionName": "Тюменская область",
     "uikCount": 59,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 110828,
@@ -493,6 +508,9 @@ export const duma_2016_tic_233_region_72 = [
     "ballot": "party",
     "tikTvd": "2722000792589",
     "tikName": "Тобольская городская",
+    "regionCode": "72",
+    "regionTvd": "100100067796098",
+    "regionName": "Тюменская область",
     "uikCount": 52,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 81779,
@@ -601,6 +619,9 @@ export const duma_2016_tic_233_region_72 = [
     "ballot": "party",
     "tikTvd": "2722000792590",
     "tikName": "Тобольская",
+    "regionCode": "72",
+    "regionTvd": "100100067796098",
+    "regionName": "Тюменская область",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 15986,
@@ -692,6 +713,9 @@ export const duma_2016_tic_233_region_72 = [
     "ballot": "party",
     "tikTvd": "2722000792591",
     "tikName": "Сорокинская",
+    "regionCode": "72",
+    "regionTvd": "100100067796098",
+    "regionName": "Тюменская область",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 7966,
@@ -764,6 +788,9 @@ export const duma_2016_tic_233_region_72 = [
     "ballot": "party",
     "tikTvd": "2722000792592",
     "tikName": "Нижнетавдинская",
+    "regionCode": "72",
+    "regionTvd": "100100067796098",
+    "regionName": "Тюменская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 18909,
@@ -854,6 +881,9 @@ export const duma_2016_tic_233_region_72 = [
     "ballot": "party",
     "tikTvd": "2722000792593",
     "tikName": "Ишимская городская",
+    "regionCode": "72",
+    "regionTvd": "100100067796098",
+    "regionName": "Тюменская область",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 48731,
@@ -949,6 +979,9 @@ export const duma_2016_tic_233_region_72 = [
     "ballot": "party",
     "tikTvd": "2722000792594",
     "tikName": "Ишимская",
+    "regionCode": "72",
+    "regionTvd": "100100067796098",
+    "regionName": "Тюменская область",
     "uikCount": 54,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 24865,
@@ -1059,6 +1092,9 @@ export const duma_2016_tic_233_region_72 = [
     "ballot": "party",
     "tikTvd": "2722000792595",
     "tikName": "Викуловская",
+    "regionCode": "72",
+    "regionTvd": "100100067796098",
+    "regionName": "Тюменская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 12563,
@@ -1149,6 +1185,9 @@ export const duma_2016_tic_233_region_72 = [
     "ballot": "party",
     "tikTvd": "2722000792596",
     "tikName": "Вагайская",
+    "regionCode": "72",
+    "regionTvd": "100100067796098",
+    "regionName": "Тюменская область",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 16456,
@@ -1247,6 +1286,9 @@ export const duma_2016_tic_233_region_72 = [
     "ballot": "party",
     "tikTvd": "2722000792597",
     "tikName": "Аромашевская",
+    "regionCode": "72",
+    "regionTvd": "100100067796098",
+    "regionName": "Тюменская область",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 9998,
@@ -1330,6 +1372,9 @@ export const duma_2016_tic_233_region_72 = [
     "ballot": "party",
     "tikTvd": "2722000792598",
     "tikName": "Абатская",
+    "regionCode": "72",
+    "regionTvd": "100100067796098",
+    "regionName": "Тюменская область",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 15437,
@@ -1429,6 +1474,9 @@ export const duma_2016_tic_233_region_72 = [
     "ballot": "party",
     "tikTvd": "2722000792599",
     "tikName": "Тюмень, Восточная",
+    "regionCode": "72",
+    "regionTvd": "100100067796098",
+    "regionName": "Тюменская область",
     "uikCount": 63,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 128842,
@@ -1548,6 +1596,9 @@ export const duma_2016_tic_233_region_72 = [
     "ballot": "party",
     "tikTvd": "2722000792600",
     "tikName": "Ялуторовская городская",
+    "regionCode": "72",
+    "regionTvd": "100100067796098",
+    "regionName": "Тюменская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 27795,
@@ -1624,6 +1675,9 @@ export const duma_2016_tic_233_region_72 = [
     "ballot": "party",
     "tikTvd": "2722000792601",
     "tikName": "Ялуторовская",
+    "regionCode": "72",
+    "regionTvd": "100100067796098",
+    "regionName": "Тюменская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 11596,
@@ -1709,6 +1763,9 @@ export const duma_2016_tic_233_region_72 = [
     "ballot": "party",
     "tikTvd": "2722000792602",
     "tikName": "Упоровская",
+    "regionCode": "72",
+    "regionTvd": "100100067796098",
+    "regionName": "Тюменская область",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 15223,
@@ -1804,6 +1861,9 @@ export const duma_2016_tic_233_region_72 = [
     "ballot": "party",
     "tikTvd": "2722000792603",
     "tikName": "Тюмень, Калининская",
+    "regionCode": "72",
+    "regionTvd": "100100067796098",
+    "regionName": "Тюменская область",
     "uikCount": 79,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 139372,
@@ -1939,6 +1999,9 @@ export const duma_2016_tic_233_region_72 = [
     "ballot": "party",
     "tikTvd": "2722000792604",
     "tikName": "Тюменская",
+    "regionCode": "72",
+    "regionTvd": "100100067796098",
+    "regionName": "Тюменская область",
     "uikCount": 76,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 86261,
@@ -2071,6 +2134,9 @@ export const duma_2016_tic_233_region_72 = [
     "ballot": "party",
     "tikTvd": "2722000792605",
     "tikName": "Сладковская",
+    "regionCode": "72",
+    "regionTvd": "100100067796098",
+    "regionName": "Тюменская область",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 9612,
@@ -2141,6 +2207,9 @@ export const duma_2016_tic_233_region_72 = [
     "ballot": "party",
     "tikTvd": "2722000792606",
     "tikName": "Омутинская",
+    "regionCode": "72",
+    "regionTvd": "100100067796098",
+    "regionName": "Тюменская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 15291,
@@ -2222,6 +2291,9 @@ export const duma_2016_tic_233_region_72 = [
     "ballot": "party",
     "tikTvd": "2722000792607",
     "tikName": "Казанская",
+    "regionCode": "72",
+    "regionTvd": "100100067796098",
+    "regionName": "Тюменская область",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 17227,
@@ -2311,6 +2383,9 @@ export const duma_2016_tic_233_region_72 = [
     "ballot": "party",
     "tikTvd": "2722000792608",
     "tikName": "Исетская",
+    "regionCode": "72",
+    "regionTvd": "100100067796098",
+    "regionName": "Тюменская область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 20119,
@@ -2403,6 +2478,9 @@ export const duma_2016_tic_233_region_72 = [
     "ballot": "party",
     "tikTvd": "2722000792609",
     "tikName": "Заводоуковская",
+    "regionCode": "72",
+    "regionTvd": "100100067796098",
+    "regionName": "Тюменская область",
     "uikCount": 59,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 38068,
@@ -2518,6 +2596,9 @@ export const duma_2016_tic_233_region_72 = [
     "ballot": "party",
     "tikTvd": "2722000792610",
     "tikName": "Голышмановская",
+    "regionCode": "72",
+    "regionTvd": "100100067796098",
+    "regionName": "Тюменская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 19479,
@@ -2603,6 +2684,9 @@ export const duma_2016_tic_233_region_72 = [
     "ballot": "party",
     "tikTvd": "2722000792611",
     "tikName": "Бердюжская",
+    "regionCode": "72",
+    "regionTvd": "100100067796098",
+    "regionName": "Тюменская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 9492,
@@ -2690,6 +2774,9 @@ export const duma_2016_tic_233_region_72 = [
     "ballot": "party",
     "tikTvd": "2722000792612",
     "tikName": "Армизонская",
+    "regionCode": "72",
+    "regionTvd": "100100067796098",
+    "regionName": "Тюменская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 7699,

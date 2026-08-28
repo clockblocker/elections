@@ -11,6 +11,9 @@ export const duma_2007_tic_233_region_64 = [
     "ballot": "party",
     "tikTvd": "2642000188084",
     "tikName": "Саратов, Фрунзенская",
+    "regionCode": "64",
+    "regionTvd": "100100021960310",
+    "regionName": "Саратовская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 38682,
@@ -91,6 +94,9 @@ export const duma_2007_tic_233_region_64 = [
     "ballot": "party",
     "tikTvd": "2642000188085",
     "tikName": "Саратов, Октябрьская",
+    "regionCode": "64",
+    "regionTvd": "100100021960310",
+    "regionName": "Саратовская область",
     "uikCount": 59,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 101004,
@@ -204,6 +210,9 @@ export const duma_2007_tic_233_region_64 = [
     "ballot": "party",
     "tikTvd": "2642000188086",
     "tikName": "Саратов, Ленинская",
+    "regionCode": "64",
+    "regionTvd": "100100021960310",
+    "regionName": "Саратовская область",
     "uikCount": 105,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 202600,
@@ -363,6 +372,9 @@ export const duma_2007_tic_233_region_64 = [
     "ballot": "party",
     "tikTvd": "2642000188087",
     "tikName": "Саратов, Кировская",
+    "regionCode": "64",
+    "regionTvd": "100100021960310",
+    "regionName": "Саратовская область",
     "uikCount": 57,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 110550,
@@ -474,6 +486,9 @@ export const duma_2007_tic_233_region_64 = [
     "ballot": "party",
     "tikTvd": "2642000188088",
     "tikName": "Саратов, Заводская",
+    "regionCode": "64",
+    "regionTvd": "100100021960310",
+    "regionName": "Саратовская область",
     "uikCount": 75,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 155060,
@@ -603,6 +618,9 @@ export const duma_2007_tic_233_region_64 = [
     "ballot": "party",
     "tikTvd": "2642000188089",
     "tikName": "Саратов, Волжская",
+    "regionCode": "64",
+    "regionTvd": "100100021960310",
+    "regionName": "Саратовская область",
     "uikCount": 51,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 68893,
@@ -708,6 +726,9 @@ export const duma_2007_tic_233_region_64 = [
     "ballot": "party",
     "tikTvd": "2642000188090",
     "tikName": "Михайловская",
+    "regionCode": "64",
+    "regionTvd": "100100021960310",
+    "regionName": "Саратовская область",
     "uikCount": 1,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 1006,
@@ -763,6 +784,9 @@ export const duma_2007_tic_233_region_64 = [
     "ballot": "party",
     "tikTvd": "2642000188091",
     "tikName": "Шиханская городская",
+    "regionCode": "64",
+    "regionTvd": "100100021960310",
+    "regionName": "Саратовская область",
     "uikCount": 2,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 5386,
@@ -819,6 +843,9 @@ export const duma_2007_tic_233_region_64 = [
     "ballot": "party",
     "tikTvd": "2642000188092",
     "tikName": "Хвалынская",
+    "regionCode": "64",
+    "regionTvd": "100100021960310",
+    "regionName": "Саратовская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 20023,
@@ -895,6 +922,9 @@ export const duma_2007_tic_233_region_64 = [
     "ballot": "party",
     "tikTvd": "2642000188093",
     "tikName": "Пугачевская",
+    "regionCode": "64",
+    "regionTvd": "100100021960310",
+    "regionName": "Саратовская область",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 46538,
@@ -999,6 +1029,9 @@ export const duma_2007_tic_233_region_64 = [
     "ballot": "party",
     "tikTvd": "2642000188094",
     "tikName": "Питерская",
+    "regionCode": "64",
+    "regionTvd": "100100021960310",
+    "regionName": "Саратовская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 13579,
@@ -1074,6 +1107,9 @@ export const duma_2007_tic_233_region_64 = [
     "ballot": "party",
     "tikTvd": "2642000188095",
     "tikName": "Петровская",
+    "regionCode": "64",
+    "regionTvd": "100100021960310",
+    "regionName": "Саратовская область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 36331,
@@ -1164,6 +1200,9 @@ export const duma_2007_tic_233_region_64 = [
     "ballot": "party",
     "tikTvd": "2642000188096",
     "tikName": "Перелюбская",
+    "regionCode": "64",
+    "regionTvd": "100100021960310",
+    "regionName": "Саратовская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 12613,
@@ -1237,6 +1276,9 @@ export const duma_2007_tic_233_region_64 = [
     "ballot": "party",
     "tikTvd": "2642000188097",
     "tikName": "Озинская",
+    "regionCode": "64",
+    "regionTvd": "100100021960310",
+    "regionName": "Саратовская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 16400,
@@ -1316,6 +1358,9 @@ export const duma_2007_tic_233_region_64 = [
     "ballot": "party",
     "tikTvd": "2642000188098",
     "tikName": "Новоузенская",
+    "regionCode": "64",
+    "regionTvd": "100100021960310",
+    "regionName": "Саратовская область",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 24484,
@@ -1413,6 +1458,9 @@ export const duma_2007_tic_233_region_64 = [
     "ballot": "party",
     "tikTvd": "2642000188099",
     "tikName": "Новобурасская",
+    "regionCode": "64",
+    "regionTvd": "100100021960310",
+    "regionName": "Саратовская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 12965,
@@ -1490,6 +1538,9 @@ export const duma_2007_tic_233_region_64 = [
     "ballot": "party",
     "tikTvd": "2642000188100",
     "tikName": "Марксовская",
+    "regionCode": "64",
+    "regionTvd": "100100021960310",
+    "regionName": "Саратовская область",
     "uikCount": 52,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 47677,
@@ -1596,6 +1647,9 @@ export const duma_2007_tic_233_region_64 = [
     "ballot": "party",
     "tikTvd": "2642000188101",
     "tikName": "Краснопартизанская",
+    "regionCode": "64",
+    "regionTvd": "100100021960310",
+    "regionName": "Саратовская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 12112,
@@ -1668,6 +1722,9 @@ export const duma_2007_tic_233_region_64 = [
     "ballot": "party",
     "tikTvd": "2642000188102",
     "tikName": "Краснокутская",
+    "regionCode": "64",
+    "regionTvd": "100100021960310",
+    "regionName": "Саратовская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 26743,
@@ -1753,6 +1810,9 @@ export const duma_2007_tic_233_region_64 = [
     "ballot": "party",
     "tikTvd": "2642000188103",
     "tikName": "Ивантеевская",
+    "regionCode": "64",
+    "regionTvd": "100100021960310",
+    "regionName": "Саратовская область",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 12252,
@@ -1823,6 +1883,9 @@ export const duma_2007_tic_233_region_64 = [
     "ballot": "party",
     "tikTvd": "2642000188104",
     "tikName": "Ершовская",
+    "regionCode": "64",
+    "regionTvd": "100100021960310",
+    "regionName": "Саратовская область",
     "uikCount": 63,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 36552,
@@ -1940,6 +2003,9 @@ export const duma_2007_tic_233_region_64 = [
     "ballot": "party",
     "tikTvd": "2642000188105",
     "tikName": "Духовницкая",
+    "regionCode": "64",
+    "regionTvd": "100100021960310",
+    "regionName": "Саратовская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 11214,
@@ -2013,6 +2079,9 @@ export const duma_2007_tic_233_region_64 = [
     "ballot": "party",
     "tikTvd": "2642000188106",
     "tikName": "Дергачевская",
+    "regionCode": "64",
+    "regionTvd": "100100021960310",
+    "regionName": "Саратовская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 19263,
@@ -2095,6 +2164,9 @@ export const duma_2007_tic_233_region_64 = [
     "ballot": "party",
     "tikTvd": "2642000188107",
     "tikName": "Воскресенская",
+    "regionCode": "64",
+    "regionTvd": "100100021960310",
+    "regionName": "Саратовская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 9088,
@@ -2168,6 +2240,9 @@ export const duma_2007_tic_233_region_64 = [
     "ballot": "party",
     "tikTvd": "2642000188108",
     "tikName": "Вольская",
+    "regionCode": "64",
+    "regionTvd": "100100021960310",
+    "regionName": "Саратовская область",
     "uikCount": 88,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 77782,
@@ -2310,6 +2385,9 @@ export const duma_2007_tic_233_region_64 = [
     "ballot": "party",
     "tikTvd": "2642000188109",
     "tikName": "Балтайская",
+    "regionCode": "64",
+    "regionTvd": "100100021960310",
+    "regionName": "Саратовская область",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 9956,
@@ -2380,6 +2458,9 @@ export const duma_2007_tic_233_region_64 = [
     "ballot": "party",
     "tikTvd": "2642000188110",
     "tikName": "Балаковская",
+    "regionCode": "64",
+    "regionTvd": "100100021960310",
+    "regionName": "Саратовская область",
     "uikCount": 100,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 174593,
@@ -2534,6 +2615,9 @@ export const duma_2007_tic_233_region_64 = [
     "ballot": "party",
     "tikTvd": "2642000188111",
     "tikName": "Базарно-Карабулакская",
+    "regionCode": "64",
+    "regionTvd": "100100021960310",
+    "regionName": "Саратовская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 25811,
@@ -2618,6 +2702,9 @@ export const duma_2007_tic_233_region_64 = [
     "ballot": "party",
     "tikTvd": "2642000188112",
     "tikName": "Александрово-Гайская",
+    "regionCode": "64",
+    "regionTvd": "100100021960310",
+    "regionName": "Саратовская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 11635,
@@ -2695,6 +2782,9 @@ export const duma_2007_tic_233_region_64 = [
     "ballot": "party",
     "tikTvd": "2642000188113",
     "tikName": "Энгельсская",
+    "regionCode": "64",
+    "regionTvd": "100100021960310",
+    "regionName": "Саратовская область",
     "uikCount": 139,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 205801,
@@ -2888,6 +2978,9 @@ export const duma_2007_tic_233_region_64 = [
     "ballot": "party",
     "tikTvd": "2642000188114",
     "tikName": "Федоровская",
+    "regionCode": "64",
+    "regionTvd": "100100021960310",
+    "regionName": "Саратовская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 16132,
@@ -2966,6 +3059,9 @@ export const duma_2007_tic_233_region_64 = [
     "ballot": "party",
     "tikTvd": "2642000188115",
     "tikName": "Турковская",
+    "regionCode": "64",
+    "regionTvd": "100100021960310",
+    "regionName": "Саратовская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 11521,
@@ -3039,6 +3135,9 @@ export const duma_2007_tic_233_region_64 = [
     "ballot": "party",
     "tikTvd": "2642000188116",
     "tikName": "Светловская",
+    "regionCode": "64",
+    "regionTvd": "100100021960310",
+    "regionName": "Саратовская область",
     "uikCount": 4,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 10530,
@@ -3097,6 +3196,9 @@ export const duma_2007_tic_233_region_64 = [
     "ballot": "party",
     "tikTvd": "2642000188117",
     "tikName": "Татищевская",
+    "regionCode": "64",
+    "regionTvd": "100100021960310",
+    "regionName": "Саратовская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 22261,
@@ -3181,6 +3283,9 @@ export const duma_2007_tic_233_region_64 = [
     "ballot": "party",
     "tikTvd": "2642000188118",
     "tikName": "Советская",
+    "regionCode": "64",
+    "regionTvd": "100100021960310",
+    "regionName": "Саратовская область",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 22254,
@@ -3251,6 +3356,9 @@ export const duma_2007_tic_233_region_64 = [
     "ballot": "party",
     "tikTvd": "2642000188119",
     "tikName": "Саратовская",
+    "regionCode": "64",
+    "regionTvd": "100100021960310",
+    "regionName": "Саратовская область",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 35005,
@@ -3346,6 +3454,9 @@ export const duma_2007_tic_233_region_64 = [
     "ballot": "party",
     "tikTvd": "2642000188120",
     "tikName": "Самойловская",
+    "regionCode": "64",
+    "regionTvd": "100100021960310",
+    "regionName": "Саратовская область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 17679,
@@ -3436,6 +3547,9 @@ export const duma_2007_tic_233_region_64 = [
     "ballot": "party",
     "tikTvd": "2642000188121",
     "tikName": "Ртищевская",
+    "regionCode": "64",
+    "regionTvd": "100100021960310",
+    "regionName": "Саратовская область",
     "uikCount": 51,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 49115,
@@ -3541,6 +3655,9 @@ export const duma_2007_tic_233_region_64 = [
     "ballot": "party",
     "tikTvd": "2642000188122",
     "tikName": "Романовская",
+    "regionCode": "64",
+    "regionTvd": "100100021960310",
+    "regionName": "Саратовская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 11492,
@@ -3615,6 +3732,9 @@ export const duma_2007_tic_233_region_64 = [
     "ballot": "party",
     "tikTvd": "2642000188123",
     "tikName": "Ровенская",
+    "regionCode": "64",
+    "regionTvd": "100100021960310",
+    "regionName": "Саратовская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 12583,
@@ -3690,6 +3810,9 @@ export const duma_2007_tic_233_region_64 = [
     "ballot": "party",
     "tikTvd": "2642000188124",
     "tikName": "Лысогорская",
+    "regionCode": "64",
+    "regionTvd": "100100021960310",
+    "regionName": "Саратовская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 15709,
@@ -3768,6 +3891,9 @@ export const duma_2007_tic_233_region_64 = [
     "ballot": "party",
     "tikTvd": "2642000188125",
     "tikName": "Красноармейская",
+    "regionCode": "64",
+    "regionTvd": "100100021960310",
+    "regionName": "Саратовская область",
     "uikCount": 49,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 35158,
@@ -3871,6 +3997,9 @@ export const duma_2007_tic_233_region_64 = [
     "ballot": "party",
     "tikTvd": "2642000188126",
     "tikName": "Калининская",
+    "regionCode": "64",
+    "regionTvd": "100100021960310",
+    "regionName": "Саратовская область",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 29774,
@@ -3969,6 +4098,9 @@ export const duma_2007_tic_233_region_64 = [
     "ballot": "party",
     "tikTvd": "2642000188127",
     "tikName": "Екатериновская",
+    "regionCode": "64",
+    "regionTvd": "100100021960310",
+    "regionName": "Саратовская область",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 16061,
@@ -4050,6 +4182,9 @@ export const duma_2007_tic_233_region_64 = [
     "ballot": "party",
     "tikTvd": "2642000188128",
     "tikName": "Балашовская",
+    "regionCode": "64",
+    "regionTvd": "100100021960310",
+    "regionName": "Саратовская область",
     "uikCount": 92,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 95384,
@@ -4196,6 +4331,9 @@ export const duma_2007_tic_233_region_64 = [
     "ballot": "party",
     "tikTvd": "2642000188129",
     "tikName": "Аткарская",
+    "regionCode": "64",
+    "regionTvd": "100100021960310",
+    "regionName": "Саратовская область",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 33408,
@@ -4287,6 +4425,9 @@ export const duma_2007_tic_233_region_64 = [
     "ballot": "party",
     "tikTvd": "2642000188130",
     "tikName": "Аркадакская",
+    "regionCode": "64",
+    "regionTvd": "100100021960310",
+    "regionName": "Саратовская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 20734,

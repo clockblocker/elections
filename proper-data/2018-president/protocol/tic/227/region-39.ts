@@ -11,6 +11,9 @@ export const president_2018_tic_227_region_39 = [
     "ballot": "presidential",
     "tikTvd": "2392000675089",
     "tikName": "Янтарнинская",
+    "regionCode": "39",
+    "regionTvd": "100100084849165",
+    "regionName": "Калининградская область",
     "uikCount": 2,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 4799,
@@ -57,6 +60,9 @@ export const president_2018_tic_227_region_39 = [
     "ballot": "presidential",
     "tikTvd": "2392000675090",
     "tikName": "Гвардейская",
+    "regionCode": "39",
+    "regionTvd": "100100084849165",
+    "regionName": "Калининградская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 22501,
@@ -122,6 +128,9 @@ export const president_2018_tic_227_region_39 = [
     "ballot": "presidential",
     "tikTvd": "2392000675091",
     "tikName": "Озерская",
+    "regionCode": "39",
+    "regionTvd": "100100084849165",
+    "regionName": "Калининградская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10770,
@@ -185,6 +194,9 @@ export const president_2018_tic_227_region_39 = [
     "ballot": "presidential",
     "tikTvd": "2392000675092",
     "tikName": "Славская",
+    "regionCode": "39",
+    "regionTvd": "100100084849165",
+    "regionName": "Калининградская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 13970,
@@ -248,6 +260,9 @@ export const president_2018_tic_227_region_39 = [
     "ballot": "presidential",
     "tikTvd": "2392000675093",
     "tikName": "Правдинская",
+    "regionCode": "39",
+    "regionTvd": "100100084849165",
+    "regionName": "Калининградская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 14481,
@@ -307,6 +322,9 @@ export const president_2018_tic_227_region_39 = [
     "ballot": "presidential",
     "tikTvd": "2392000675095",
     "tikName": "Гурьевская",
+    "regionCode": "39",
+    "regionTvd": "100100084849165",
+    "regionName": "Калининградская область",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 56360,
@@ -389,6 +407,9 @@ export const president_2018_tic_227_region_39 = [
     "ballot": "presidential",
     "tikTvd": "2392000675096",
     "tikName": "Черняховская",
+    "regionCode": "39",
+    "regionTvd": "100100084849165",
+    "regionName": "Калининградская область",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 40818,
@@ -470,6 +491,9 @@ export const president_2018_tic_227_region_39 = [
     "ballot": "presidential",
     "tikTvd": "2392000675097",
     "tikName": "Багратионовская",
+    "regionCode": "39",
+    "regionTvd": "100100084849165",
+    "regionName": "Калининградская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 24281,
@@ -536,6 +560,9 @@ export const president_2018_tic_227_region_39 = [
     "ballot": "presidential",
     "tikTvd": "2392000675098",
     "tikName": "Мамоновская",
+    "regionCode": "39",
+    "regionTvd": "100100084849165",
+    "regionName": "Калининградская область",
     "uikCount": 3,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 6166,
@@ -583,6 +610,9 @@ export const president_2018_tic_227_region_39 = [
     "ballot": "presidential",
     "tikTvd": "2392000675099",
     "tikName": "Балтийская",
+    "regionCode": "39",
+    "regionTvd": "100100084849165",
+    "regionName": "Калининградская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 27687,
@@ -648,6 +678,9 @@ export const president_2018_tic_227_region_39 = [
     "ballot": "presidential",
     "tikTvd": "2392000675100",
     "tikName": "Ладушкинская",
+    "regionCode": "39",
+    "regionTvd": "100100084849165",
+    "regionName": "Калининградская область",
     "uikCount": 2,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 3052,
@@ -694,6 +727,9 @@ export const president_2018_tic_227_region_39 = [
     "ballot": "presidential",
     "tikTvd": "2392000675101",
     "tikName": "Гусевская",
+    "regionCode": "39",
+    "regionTvd": "100100084849165",
+    "regionName": "Калининградская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 25549,
@@ -759,6 +795,9 @@ export const president_2018_tic_227_region_39 = [
     "ballot": "presidential",
     "tikTvd": "2392000675102",
     "tikName": "Калининград, Ленинградская",
+    "regionCode": "39",
+    "regionTvd": "100100084849165",
+    "regionName": "Калининградская область",
     "uikCount": 72,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 154407,
@@ -875,6 +914,9 @@ export const president_2018_tic_227_region_39 = [
     "ballot": "presidential",
     "tikTvd": "2392000675103",
     "tikName": "Краснознаменская",
+    "regionCode": "39",
+    "regionTvd": "100100084849165",
+    "regionName": "Калининградская область",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9021,
@@ -932,6 +974,9 @@ export const president_2018_tic_227_region_39 = [
     "ballot": "presidential",
     "tikTvd": "2392000675104",
     "tikName": "Светлогорская",
+    "regionCode": "39",
+    "regionTvd": "100100084849165",
+    "regionName": "Калининградская область",
     "uikCount": 8,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 14625,
@@ -984,6 +1029,9 @@ export const president_2018_tic_227_region_39 = [
     "ballot": "presidential",
     "tikTvd": "2392000675105",
     "tikName": "Полесская",
+    "regionCode": "39",
+    "regionTvd": "100100084849165",
+    "regionName": "Калининградская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 13861,
@@ -1043,6 +1091,9 @@ export const president_2018_tic_227_region_39 = [
     "ballot": "presidential",
     "tikTvd": "2392000675106",
     "tikName": "Нестеровская",
+    "regionCode": "39",
+    "regionTvd": "100100084849165",
+    "regionName": "Калининградская область",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 11091,
@@ -1103,6 +1154,9 @@ export const president_2018_tic_227_region_39 = [
     "ballot": "presidential",
     "tikTvd": "2392000675107",
     "tikName": "Пионерская ",
+    "regionCode": "39",
+    "regionTvd": "100100084849165",
+    "regionName": "Калининградская область",
     "uikCount": 8,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10927,
@@ -1155,6 +1209,9 @@ export const president_2018_tic_227_region_39 = [
     "ballot": "presidential",
     "tikTvd": "2392000675108",
     "tikName": "Калининград, Московская",
+    "regionCode": "39",
+    "regionTvd": "100100084849165",
+    "regionName": "Калининградская область",
     "uikCount": 97,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 132595,
@@ -1296,6 +1353,9 @@ export const president_2018_tic_227_region_39 = [
     "ballot": "presidential",
     "tikTvd": "2392000675109",
     "tikName": "Неманская",
+    "regionCode": "39",
+    "regionTvd": "100100084849165",
+    "regionName": "Калининградская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 14736,
@@ -1360,6 +1420,9 @@ export const president_2018_tic_227_region_39 = [
     "ballot": "presidential",
     "tikTvd": "2392000675111",
     "tikName": "Советская ",
+    "regionCode": "39",
+    "regionTvd": "100100084849165",
+    "regionName": "Калининградская область",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 26510,
@@ -1418,6 +1481,9 @@ export const president_2018_tic_227_region_39 = [
     "ballot": "presidential",
     "tikTvd": "2392000675112",
     "tikName": "Светловская",
+    "regionCode": "39",
+    "regionTvd": "100100084849165",
+    "regionName": "Калининградская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 22218,
@@ -1477,6 +1543,9 @@ export const president_2018_tic_227_region_39 = [
     "ballot": "presidential",
     "tikTvd": "2392000675113",
     "tikName": "Калининград, Центральная",
+    "regionCode": "39",
+    "regionTvd": "100100084849165",
+    "regionName": "Калининградская область",
     "uikCount": 52,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 108169,
@@ -1573,6 +1642,9 @@ export const president_2018_tic_227_region_39 = [
     "ballot": "presidential",
     "tikTvd": "2392000675114",
     "tikName": "Зеленоградская",
+    "regionCode": "39",
+    "regionTvd": "100100084849165",
+    "regionName": "Калининградская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 27851,

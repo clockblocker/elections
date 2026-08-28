@@ -11,6 +11,9 @@ export const president_2004_tic_227_region_85 = [
     "ballot": "presidential",
     "tikTvd": "285200070881",
     "tikName": "Аларская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в список": 18648,
@@ -98,6 +101,9 @@ export const president_2004_tic_227_region_85 = [
     "ballot": "presidential",
     "tikTvd": "285200070882",
     "tikName": "Баяндаевская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список": 8432,
@@ -171,6 +177,9 @@ export const president_2004_tic_227_region_85 = [
     "ballot": "presidential",
     "tikTvd": "285200070883",
     "tikName": "Боханская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в список": 16039,
@@ -256,6 +265,9 @@ export const president_2004_tic_227_region_85 = [
     "ballot": "presidential",
     "tikTvd": "285200070884",
     "tikName": "Нукутская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список": 10640,
@@ -333,6 +345,9 @@ export const president_2004_tic_227_region_85 = [
     "ballot": "presidential",
     "tikTvd": "285200070885",
     "tikName": "Осинская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список": 12226,
@@ -409,6 +424,9 @@ export const president_2004_tic_227_region_85 = [
     "ballot": "presidential",
     "tikTvd": "285200070886",
     "tikName": "Эхирит-Булагатская",
+    "regionCode": "85",
+    "regionTvd": "1001000882994",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, внесенных в список": 20774,

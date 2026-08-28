@@ -11,6 +11,9 @@ export const president_2004_tic_227_region_26 = [
     "ballot": "presidential",
     "tikTvd": "226200076617",
     "tikName": "Александровская",
+    "regionCode": "26",
+    "regionTvd": "1001000883026",
+    "regionName": "Ставропольский край",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список": 36168,
@@ -84,6 +87,9 @@ export const president_2004_tic_227_region_26 = [
     "ballot": "presidential",
     "tikTvd": "226200076618",
     "tikName": "Андроповская",
+    "regionCode": "26",
+    "regionTvd": "1001000883026",
+    "regionName": "Ставропольский край",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список": 22641,
@@ -160,6 +166,9 @@ export const president_2004_tic_227_region_26 = [
     "ballot": "presidential",
     "tikTvd": "226200076619",
     "tikName": "Апанасенковская",
+    "regionCode": "26",
+    "regionTvd": "1001000883026",
+    "regionName": "Ставропольский край",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список": 26667,
@@ -226,6 +235,9 @@ export const president_2004_tic_227_region_26 = [
     "ballot": "presidential",
     "tikTvd": "226200076620",
     "tikName": "Арзгирская",
+    "regionCode": "26",
+    "regionTvd": "1001000883026",
+    "regionName": "Ставропольский край",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, внесенных в список": 19032,
@@ -286,6 +298,9 @@ export const president_2004_tic_227_region_26 = [
     "ballot": "presidential",
     "tikTvd": "226200076621",
     "tikName": "Благодарненская",
+    "regionCode": "26",
+    "regionTvd": "1001000883026",
+    "regionName": "Ставропольский край",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список": 43754,
@@ -360,6 +375,9 @@ export const president_2004_tic_227_region_26 = [
     "ballot": "presidential",
     "tikTvd": "226200076622",
     "tikName": "Буденновская",
+    "regionCode": "26",
+    "regionTvd": "1001000883026",
+    "regionName": "Ставропольский край",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список": 36733,
@@ -435,6 +453,9 @@ export const president_2004_tic_227_region_26 = [
     "ballot": "presidential",
     "tikTvd": "226200076623",
     "tikName": "Георгиевская",
+    "regionCode": "26",
+    "regionTvd": "1001000883026",
+    "regionName": "Ставропольский край",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в список": 60676,
@@ -518,6 +539,9 @@ export const president_2004_tic_227_region_26 = [
     "ballot": "presidential",
     "tikTvd": "226200076624",
     "tikName": "Грачевская ",
+    "regionCode": "26",
+    "regionTvd": "1001000883026",
+    "regionName": "Ставропольский край",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список": 26004,
@@ -586,6 +610,9 @@ export const president_2004_tic_227_region_26 = [
     "ballot": "presidential",
     "tikTvd": "226200076625",
     "tikName": "Ессентукская городская ",
+    "regionCode": "26",
+    "regionTvd": "1001000883026",
+    "regionName": "Ставропольский край",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, внесенных в список": 63106,
@@ -677,6 +704,9 @@ export const president_2004_tic_227_region_26 = [
     "ballot": "presidential",
     "tikTvd": "226200076626",
     "tikName": "Железноводская городская",
+    "regionCode": "26",
+    "regionTvd": "1001000883026",
+    "regionName": "Ставропольский край",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список": 35674,
@@ -754,6 +784,9 @@ export const president_2004_tic_227_region_26 = [
     "ballot": "presidential",
     "tikTvd": "226200076627",
     "tikName": "Изобильненская",
+    "regionCode": "26",
+    "regionTvd": "1001000883026",
+    "regionName": "Ставропольский край",
     "uikCount": 54,
     "accounting": {
       "Число избирателей, внесенных в список": 73080,
@@ -856,6 +889,9 @@ export const president_2004_tic_227_region_26 = [
     "ballot": "presidential",
     "tikTvd": "226200076628",
     "tikName": "Ипатовская",
+    "regionCode": "26",
+    "regionTvd": "1001000883026",
+    "regionName": "Ставропольский край",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, внесенных в список": 48607,
@@ -948,6 +984,9 @@ export const president_2004_tic_227_region_26 = [
     "ballot": "presidential",
     "tikTvd": "226200076629",
     "tikName": "Кировская",
+    "regionCode": "26",
+    "regionTvd": "1001000883026",
+    "regionName": "Ставропольский край",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список": 47549,
@@ -1021,6 +1060,9 @@ export const president_2004_tic_227_region_26 = [
     "ballot": "presidential",
     "tikTvd": "226200076630",
     "tikName": "Кисловодская городская",
+    "regionCode": "26",
+    "regionTvd": "1001000883026",
+    "regionName": "Ставропольский край",
     "uikCount": 52,
     "accounting": {
       "Число избирателей, внесенных в список": 72163,
@@ -1121,6 +1163,9 @@ export const president_2004_tic_227_region_26 = [
     "ballot": "presidential",
     "tikTvd": "226200076631",
     "tikName": "Кочубеевская",
+    "regionCode": "26",
+    "regionTvd": "1001000883026",
+    "regionName": "Ставропольский край",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, внесенных в список": 55720,
@@ -1219,6 +1264,9 @@ export const president_2004_tic_227_region_26 = [
     "ballot": "presidential",
     "tikTvd": "226200076632",
     "tikName": "Красногвардейская",
+    "regionCode": "26",
+    "regionTvd": "1001000883026",
+    "regionName": "Ставропольский край",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список": 30549,
@@ -1286,6 +1334,9 @@ export const president_2004_tic_227_region_26 = [
     "ballot": "presidential",
     "tikTvd": "226200076633",
     "tikName": "Курская",
+    "regionCode": "26",
+    "regionTvd": "1001000883026",
+    "regionName": "Ставропольский край",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в список": 33548,
@@ -1367,6 +1418,9 @@ export const president_2004_tic_227_region_26 = [
     "ballot": "presidential",
     "tikTvd": "226200076634",
     "tikName": "Левокумская",
+    "regionCode": "26",
+    "regionTvd": "1001000883026",
+    "regionName": "Ставропольский край",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список": 27321,
@@ -1435,6 +1489,9 @@ export const president_2004_tic_227_region_26 = [
     "ballot": "presidential",
     "tikTvd": "226200076635",
     "tikName": "Лермонтовская городская",
+    "regionCode": "26",
+    "regionTvd": "1001000883026",
+    "regionName": "Ставропольский край",
     "uikCount": 9,
     "accounting": {
       "Число избирателей, внесенных в список": 18884,
@@ -1492,6 +1549,9 @@ export const president_2004_tic_227_region_26 = [
     "ballot": "presidential",
     "tikTvd": "226200076636",
     "tikName": "Минераловодская",
+    "regionCode": "26",
+    "regionTvd": "1001000883026",
+    "regionName": "Ставропольский край",
     "uikCount": 68,
     "accounting": {
       "Число избирателей, внесенных в список": 98353,
@@ -1608,6 +1668,9 @@ export const president_2004_tic_227_region_26 = [
     "ballot": "presidential",
     "tikTvd": "226200076637",
     "tikName": "Невинномысская городская",
+    "regionCode": "26",
+    "regionTvd": "1001000883026",
+    "regionName": "Ставропольский край",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, внесенных в список": 99396,
@@ -1702,6 +1765,9 @@ export const president_2004_tic_227_region_26 = [
     "ballot": "presidential",
     "tikTvd": "226200076638",
     "tikName": "Нефтекумская",
+    "regionCode": "26",
+    "regionTvd": "1001000883026",
+    "regionName": "Ставропольский край",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в список": 45304,
@@ -1787,6 +1853,9 @@ export const president_2004_tic_227_region_26 = [
     "ballot": "presidential",
     "tikTvd": "226200076639",
     "tikName": "Новоалександровская",
+    "regionCode": "26",
+    "regionTvd": "1001000883026",
+    "regionName": "Ставропольский край",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, внесенных в список": 47110,
@@ -1885,6 +1954,9 @@ export const president_2004_tic_227_region_26 = [
     "ballot": "presidential",
     "tikTvd": "226200076640",
     "tikName": "Новоселицкая",
+    "regionCode": "26",
+    "regionTvd": "1001000883026",
+    "regionName": "Ставропольский край",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в список": 17660,
@@ -1946,6 +2018,9 @@ export const president_2004_tic_227_region_26 = [
     "ballot": "presidential",
     "tikTvd": "226200076641",
     "tikName": "Петровская",
+    "regionCode": "26",
+    "regionTvd": "1001000883026",
+    "regionName": "Ставропольский край",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, внесенных в список": 59050,
@@ -2038,6 +2113,9 @@ export const president_2004_tic_227_region_26 = [
     "ballot": "presidential",
     "tikTvd": "226200076642",
     "tikName": "Предгорная",
+    "regionCode": "26",
+    "regionTvd": "1001000883026",
+    "regionName": "Ставропольский край",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, внесенных в список": 66994,
@@ -2130,6 +2208,9 @@ export const president_2004_tic_227_region_26 = [
     "ballot": "presidential",
     "tikTvd": "226200076643",
     "tikName": "Пятигорская городская",
+    "regionCode": "26",
+    "regionTvd": "1001000883026",
+    "regionName": "Ставропольский край",
     "uikCount": 77,
     "accounting": {
       "Число избирателей, внесенных в список": 136292,
@@ -2255,6 +2336,9 @@ export const president_2004_tic_227_region_26 = [
     "ballot": "presidential",
     "tikTvd": "226200076644",
     "tikName": "Советская",
+    "regionCode": "26",
+    "regionTvd": "1001000883026",
+    "regionName": "Ставропольский край",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список": 52510,
@@ -2339,6 +2423,9 @@ export const president_2004_tic_227_region_26 = [
     "ballot": "presidential",
     "tikTvd": "226200076645",
     "tikName": "Ставрополь, Ленинская",
+    "regionCode": "26",
+    "regionTvd": "1001000883026",
+    "regionName": "Ставропольский край",
     "uikCount": 52,
     "accounting": {
       "Число избирателей, внесенных в список": 71860,
@@ -2439,6 +2526,9 @@ export const president_2004_tic_227_region_26 = [
     "ballot": "presidential",
     "tikTvd": "226200076646",
     "tikName": "Ставрополь, Октябрьская",
+    "regionCode": "26",
+    "regionTvd": "1001000883026",
+    "regionName": "Ставропольский край",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в список": 51633,
@@ -2518,6 +2608,9 @@ export const president_2004_tic_227_region_26 = [
     "ballot": "presidential",
     "tikTvd": "226200076647",
     "tikName": "Ставрополь, Промышленная",
+    "regionCode": "26",
+    "regionTvd": "1001000883026",
+    "regionName": "Ставропольский край",
     "uikCount": 65,
     "accounting": {
       "Число избирателей, внесенных в список": 131578,
@@ -2631,6 +2724,9 @@ export const president_2004_tic_227_region_26 = [
     "ballot": "presidential",
     "tikTvd": "226200076648",
     "tikName": "Степновская",
+    "regionCode": "26",
+    "regionTvd": "1001000883026",
+    "regionName": "Ставропольский край",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в список": 14754,
@@ -2695,6 +2791,9 @@ export const president_2004_tic_227_region_26 = [
     "ballot": "presidential",
     "tikTvd": "226200076649",
     "tikName": "Труновская",
+    "regionCode": "26",
+    "regionTvd": "1001000883026",
+    "regionName": "Ставропольский край",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список": 26387,
@@ -2769,6 +2868,9 @@ export const president_2004_tic_227_region_26 = [
     "ballot": "presidential",
     "tikTvd": "226200076650",
     "tikName": "Туркменская",
+    "regionCode": "26",
+    "regionTvd": "1001000883026",
+    "regionName": "Ставропольский край",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список": 19449,
@@ -2839,6 +2941,9 @@ export const president_2004_tic_227_region_26 = [
     "ballot": "presidential",
     "tikTvd": "226200076651",
     "tikName": "Шпаковская",
+    "regionCode": "26",
+    "regionTvd": "1001000883026",
+    "regionName": "Ставропольский край",
     "uikCount": 52,
     "accounting": {
       "Число избирателей, внесенных в список": 72547,
@@ -2939,6 +3044,9 @@ export const president_2004_tic_227_region_26 = [
     "ballot": "presidential",
     "tikTvd": "226200076652",
     "tikName": "Буденновская городская",
+    "regionCode": "26",
+    "regionTvd": "1001000883026",
+    "regionName": "Ставропольский край",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список": 43511,
@@ -3005,6 +3113,9 @@ export const president_2004_tic_227_region_26 = [
     "ballot": "presidential",
     "tikTvd": "226200076653",
     "tikName": "Георгиевская городская",
+    "regionCode": "26",
+    "regionTvd": "1001000883026",
+    "regionName": "Ставропольский край",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список": 46544,

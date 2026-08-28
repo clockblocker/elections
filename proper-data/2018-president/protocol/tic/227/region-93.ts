@@ -11,6 +11,9 @@ export const president_2018_tic_227_region_93 = [
     "ballot": "presidential",
     "tikTvd": "2932000314669",
     "tikName": "Джанкойская городская",
+    "regionCode": "93",
+    "regionTvd": "100100084849210",
+    "regionName": "Республика Крым",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 34068,
@@ -73,6 +76,9 @@ export const president_2018_tic_227_region_93 = [
     "ballot": "presidential",
     "tikTvd": "2932000314670",
     "tikName": "Черноморская",
+    "regionCode": "93",
+    "regionTvd": "100100084849210",
+    "regionName": "Республика Крым",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 25376,
@@ -150,6 +156,9 @@ export const president_2018_tic_227_region_93 = [
     "ballot": "presidential",
     "tikTvd": "2932000314671",
     "tikName": "Керченская городская",
+    "regionCode": "93",
+    "regionTvd": "100100084849210",
+    "regionName": "Республика Крым",
     "uikCount": 71,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 111164,
@@ -265,6 +274,9 @@ export const president_2018_tic_227_region_93 = [
     "ballot": "presidential",
     "tikTvd": "2932000314672",
     "tikName": "Бахчисарайская",
+    "regionCode": "93",
+    "regionTvd": "100100084849210",
+    "regionName": "Республика Крым",
     "uikCount": 75,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 74298,
@@ -384,6 +396,9 @@ export const president_2018_tic_227_region_93 = [
     "ballot": "presidential",
     "tikTvd": "2932000314673",
     "tikName": "Первомайская",
+    "regionCode": "93",
+    "regionTvd": "100100084849210",
+    "regionName": "Республика Крым",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 24363,
@@ -462,6 +477,9 @@ export const president_2018_tic_227_region_93 = [
     "ballot": "presidential",
     "tikTvd": "2932000314674",
     "tikName": "Красноперекопская",
+    "regionCode": "93",
+    "regionTvd": "100100084849210",
+    "regionName": "Республика Крым",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 21224,
@@ -530,6 +548,9 @@ export const president_2018_tic_227_region_93 = [
     "ballot": "presidential",
     "tikTvd": "2932000314675",
     "tikName": "Красногвардейская",
+    "regionCode": "93",
+    "regionTvd": "100100084849210",
+    "regionName": "Республика Крым",
     "uikCount": 64,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 65235,
@@ -638,6 +659,9 @@ export const president_2018_tic_227_region_93 = [
     "ballot": "presidential",
     "tikTvd": "2932000314676",
     "tikName": "Сакская городская",
+    "regionCode": "93",
+    "regionTvd": "100100084849210",
+    "regionName": "Республика Крым",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 21731,
@@ -694,6 +718,9 @@ export const president_2018_tic_227_region_93 = [
     "ballot": "presidential",
     "tikTvd": "2932000314677",
     "tikName": "Сакская",
+    "regionCode": "93",
+    "regionTvd": "100100084849210",
+    "regionName": "Республика Крым",
     "uikCount": 66,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 60973,
@@ -804,6 +831,9 @@ export const president_2018_tic_227_region_93 = [
     "ballot": "presidential",
     "tikTvd": "2932000314678",
     "tikName": "Евпаторийская городская",
+    "regionCode": "93",
+    "regionTvd": "100100084849210",
+    "regionName": "Республика Крым",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 87632,
@@ -886,6 +916,9 @@ export const president_2018_tic_227_region_93 = [
     "ballot": "presidential",
     "tikTvd": "2932000314679",
     "tikName": "Белогорская",
+    "regionCode": "93",
+    "regionTvd": "100100084849210",
+    "regionName": "Республика Крым",
     "uikCount": 60,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 48425,
@@ -990,6 +1023,9 @@ export const president_2018_tic_227_region_93 = [
     "ballot": "presidential",
     "tikTvd": "2932000314680",
     "tikName": "Нижнегорская",
+    "regionCode": "93",
+    "regionTvd": "100100084849210",
+    "regionName": "Республика Крым",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 36654,
@@ -1064,6 +1100,9 @@ export const president_2018_tic_227_region_93 = [
     "ballot": "presidential",
     "tikTvd": "2932000314681",
     "tikName": "Раздольненская",
+    "regionCode": "93",
+    "regionTvd": "100100084849210",
+    "regionName": "Республика Крым",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 25021,
@@ -1140,6 +1179,9 @@ export const president_2018_tic_227_region_93 = [
     "ballot": "presidential",
     "tikTvd": "2932000314682",
     "tikName": "Кировская",
+    "regionCode": "93",
+    "regionTvd": "100100084849210",
+    "regionName": "Республика Крым",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 40267,
@@ -1222,6 +1264,9 @@ export const president_2018_tic_227_region_93 = [
     "ballot": "presidential",
     "tikTvd": "2932000314683",
     "tikName": "Ленинская",
+    "regionCode": "93",
+    "regionTvd": "100100084849210",
+    "regionName": "Республика Крым",
     "uikCount": 45,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 47816,
@@ -1311,6 +1356,9 @@ export const president_2018_tic_227_region_93 = [
     "ballot": "presidential",
     "tikTvd": "2932000314684",
     "tikName": "Советская",
+    "regionCode": "93",
+    "regionTvd": "100100084849210",
+    "regionName": "Республика Крым",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 25416,
@@ -1388,6 +1436,9 @@ export const president_2018_tic_227_region_93 = [
     "ballot": "presidential",
     "tikTvd": "2932000314685",
     "tikName": "Симферопольская",
+    "regionCode": "93",
+    "regionTvd": "100100084849210",
+    "regionName": "Республика Крым",
     "uikCount": 86,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 121876,
@@ -1518,6 +1569,9 @@ export const president_2018_tic_227_region_93 = [
     "ballot": "presidential",
     "tikTvd": "2932000314686",
     "tikName": "Алуштинская городская",
+    "regionCode": "93",
+    "regionTvd": "100100084849210",
+    "regionName": "Республика Крым",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 42819,
@@ -1599,6 +1653,9 @@ export const president_2018_tic_227_region_93 = [
     "ballot": "presidential",
     "tikTvd": "2932000314687",
     "tikName": "Феодосийская городская",
+    "regionCode": "93",
+    "regionTvd": "100100084849210",
+    "regionName": "Республика Крым",
     "uikCount": 51,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 82003,
@@ -1694,6 +1751,9 @@ export const president_2018_tic_227_region_93 = [
     "ballot": "presidential",
     "tikTvd": "2932000314688",
     "tikName": "Армянская городская",
+    "regionCode": "93",
+    "regionTvd": "100100084849210",
+    "regionName": "Республика Крым",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 20207,
@@ -1752,6 +1812,9 @@ export const president_2018_tic_227_region_93 = [
     "ballot": "presidential",
     "tikTvd": "2932000314689",
     "tikName": "Судакская городская",
+    "regionCode": "93",
+    "regionTvd": "100100084849210",
+    "regionName": "Республика Крым",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 24689,
@@ -1819,6 +1882,9 @@ export const president_2018_tic_227_region_93 = [
     "ballot": "presidential",
     "tikTvd": "2932000314690",
     "tikName": "Красноперекопская городская",
+    "regionCode": "93",
+    "regionTvd": "100100084849210",
+    "regionName": "Республика Крым",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 21757,
@@ -1876,6 +1942,9 @@ export const president_2018_tic_227_region_93 = [
     "ballot": "presidential",
     "tikTvd": "2932000314691",
     "tikName": "Джанкойская",
+    "regionCode": "93",
+    "regionTvd": "100100084849210",
+    "regionName": "Республика Крым",
     "uikCount": 75,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 53307,
@@ -1995,6 +2064,9 @@ export const president_2018_tic_227_region_93 = [
     "ballot": "presidential",
     "tikTvd": "2932000314692",
     "tikName": "Ялтинская городская",
+    "regionCode": "93",
+    "regionTvd": "100100084849210",
+    "regionName": "Республика Крым",
     "uikCount": 68,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 108221,
@@ -2107,6 +2179,9 @@ export const president_2018_tic_227_region_93 = [
     "ballot": "presidential",
     "tikTvd": "2932000314835",
     "tikName": "Симферополь, Железнодорожная",
+    "regionCode": "93",
+    "regionTvd": "100100084849210",
+    "regionName": "Республика Крым",
     "uikCount": 49,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 76631,
@@ -2200,6 +2275,9 @@ export const president_2018_tic_227_region_93 = [
     "ballot": "presidential",
     "tikTvd": "2932000314836",
     "tikName": "Симферополь, Киевская",
+    "regionCode": "93",
+    "regionTvd": "100100084849210",
+    "regionName": "Республика Крым",
     "uikCount": 71,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 122994,
@@ -2315,6 +2393,9 @@ export const president_2018_tic_227_region_93 = [
     "ballot": "presidential",
     "tikTvd": "2932000314837",
     "tikName": "Симферополь, Центральная",
+    "regionCode": "93",
+    "regionTvd": "100100084849210",
+    "regionName": "Республика Крым",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 84534,

@@ -11,6 +11,9 @@ export const president_2024_tic_227_region_33 = [
     "ballot": "presidential",
     "tikTvd": "23320001255052",
     "tikName": "Юрьев-Польская",
+    "regionCode": "33",
+    "regionTvd": "100100339411227",
+    "regionName": "Владимирская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 22118,
@@ -91,6 +94,9 @@ export const president_2024_tic_227_region_33 = [
     "ballot": "presidential",
     "tikTvd": "23320001255053",
     "tikName": "Суздальская",
+    "regionCode": "33",
+    "regionTvd": "100100339411227",
+    "regionName": "Владимирская область",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 32091,
@@ -175,6 +181,9 @@ export const president_2024_tic_227_region_33 = [
     "ballot": "presidential",
     "tikTvd": "23320001255054",
     "tikName": "Судогодская",
+    "regionCode": "33",
+    "regionTvd": "100100339411227",
+    "regionName": "Владимирская область",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 26969,
@@ -252,6 +261,9 @@ export const president_2024_tic_227_region_33 = [
     "ballot": "presidential",
     "tikTvd": "23320001255055",
     "tikName": "Собинская",
+    "regionCode": "33",
+    "regionTvd": "100100339411227",
+    "regionName": "Владимирская область",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 39147,
@@ -333,6 +345,9 @@ export const president_2024_tic_227_region_33 = [
     "ballot": "presidential",
     "tikTvd": "23320001255056",
     "tikName": "Селивановская",
+    "regionCode": "33",
+    "regionTvd": "100100339411227",
+    "regionName": "Владимирская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 12225,
@@ -401,6 +416,9 @@ export const president_2024_tic_227_region_33 = [
     "ballot": "presidential",
     "tikTvd": "23320001255057",
     "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100339411227",
+    "regionName": "Владимирская область",
     "uikCount": 54,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 43058,
@@ -495,6 +513,9 @@ export const president_2024_tic_227_region_33 = [
     "ballot": "presidential",
     "tikTvd": "23320001255058",
     "tikName": "Муромская",
+    "regionCode": "33",
+    "regionTvd": "100100339411227",
+    "regionName": "Владимирская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 11732,
@@ -569,6 +590,9 @@ export const president_2024_tic_227_region_33 = [
     "ballot": "presidential",
     "tikTvd": "23320001255059",
     "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100339411227",
+    "regionName": "Владимирская область",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 21890,
@@ -659,6 +683,9 @@ export const president_2024_tic_227_region_33 = [
     "ballot": "presidential",
     "tikTvd": "23320001255060",
     "tikName": "Кольчугинская",
+    "regionCode": "33",
+    "regionTvd": "100100339411227",
+    "regionName": "Владимирская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 38269,
@@ -739,6 +766,9 @@ export const president_2024_tic_227_region_33 = [
     "ballot": "presidential",
     "tikTvd": "23320001255061",
     "tikName": "Ковровская",
+    "regionCode": "33",
+    "regionTvd": "100100339411227",
+    "regionName": "Владимирская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 20405,
@@ -813,6 +843,9 @@ export const president_2024_tic_227_region_33 = [
     "ballot": "presidential",
     "tikTvd": "23320001255062",
     "tikName": "Киржачская",
+    "regionCode": "33",
+    "regionTvd": "100100339411227",
+    "regionName": "Владимирская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 29239,
@@ -887,6 +920,9 @@ export const president_2024_tic_227_region_33 = [
     "ballot": "presidential",
     "tikTvd": "23320001255063",
     "tikName": "Камешковская",
+    "regionCode": "33",
+    "regionTvd": "100100339411227",
+    "regionName": "Владимирская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 20614,
@@ -957,6 +993,9 @@ export const president_2024_tic_227_region_33 = [
     "ballot": "presidential",
     "tikTvd": "23320001255064",
     "tikName": "Гусь-Хрустальная",
+    "regionCode": "33",
+    "regionTvd": "100100339411227",
+    "regionName": "Владимирская область",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 28954,
@@ -1040,6 +1079,9 @@ export const president_2024_tic_227_region_33 = [
     "ballot": "presidential",
     "tikTvd": "23320001255065",
     "tikName": "Гороховецкая",
+    "regionCode": "33",
+    "regionTvd": "100100339411227",
+    "regionName": "Владимирская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 13185,
@@ -1100,6 +1142,9 @@ export const president_2024_tic_227_region_33 = [
     "ballot": "presidential",
     "tikTvd": "23320001255066",
     "tikName": "Вязниковская",
+    "regionCode": "33",
+    "regionTvd": "100100339411227",
+    "regionName": "Владимирская область",
     "uikCount": 69,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 51902,
@@ -1209,6 +1254,9 @@ export const president_2024_tic_227_region_33 = [
     "ballot": "presidential",
     "tikTvd": "23320001255067",
     "tikName": "Александровская",
+    "regionCode": "33",
+    "regionTvd": "100100339411227",
+    "regionName": "Владимирская область",
     "uikCount": 69,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 78771,
@@ -1318,6 +1366,9 @@ export const president_2024_tic_227_region_33 = [
     "ballot": "presidential",
     "tikTvd": "23320001255068",
     "tikName": "Радужная городская",
+    "regionCode": "33",
+    "regionTvd": "100100339411227",
+    "regionName": "Владимирская область",
     "uikCount": 6,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 11582,
@@ -1364,6 +1415,9 @@ export const president_2024_tic_227_region_33 = [
     "ballot": "presidential",
     "tikTvd": "23320001255069",
     "tikName": "Муром округ",
+    "regionCode": "33",
+    "regionTvd": "100100339411227",
+    "regionName": "Владимирская область",
     "uikCount": 68,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 80114,
@@ -1472,6 +1526,9 @@ export const president_2024_tic_227_region_33 = [
     "ballot": "presidential",
     "tikTvd": "23320001255070",
     "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100339411227",
+    "regionName": "Владимирская область",
     "uikCount": 65,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 93665,
@@ -1577,6 +1634,9 @@ export const president_2024_tic_227_region_33 = [
     "ballot": "presidential",
     "tikTvd": "23320001255071",
     "tikName": "Гусь-Хрустальная городская",
+    "regionCode": "33",
+    "regionTvd": "100100339411227",
+    "regionName": "Владимирская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 43636,
@@ -1647,6 +1707,9 @@ export const president_2024_tic_227_region_33 = [
     "ballot": "presidential",
     "tikTvd": "23320001255072",
     "tikName": "Владимир, Фрунзенская",
+    "regionCode": "33",
+    "regionTvd": "100100339411227",
+    "regionName": "Владимирская область",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 72622,
@@ -1726,6 +1789,9 @@ export const president_2024_tic_227_region_33 = [
     "ballot": "presidential",
     "tikTvd": "23320001255073",
     "tikName": "Владимир, Октябрьская",
+    "regionCode": "33",
+    "regionTvd": "100100339411227",
+    "regionName": "Владимирская область",
     "uikCount": 48,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 72673,
@@ -1814,6 +1880,9 @@ export const president_2024_tic_227_region_33 = [
     "ballot": "presidential",
     "tikTvd": "23320001255074",
     "tikName": "Владимир, Ленинская",
+    "regionCode": "33",
+    "regionTvd": "100100339411227",
+    "regionName": "Владимирская область",
     "uikCount": 55,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 92347,

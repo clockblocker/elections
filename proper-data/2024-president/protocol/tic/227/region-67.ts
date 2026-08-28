@@ -11,6 +11,9 @@ export const president_2024_tic_227_region_67 = [
     "ballot": "presidential",
     "tikTvd": "26720001632308",
     "tikName": "Велижская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 8320,
@@ -62,6 +65,9 @@ export const president_2024_tic_227_region_67 = [
     "ballot": "presidential",
     "tikTvd": "26720001632309",
     "tikName": "Вяземская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
     "uikCount": 53,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 58173,
@@ -155,6 +161,9 @@ export const president_2024_tic_227_region_67 = [
     "ballot": "presidential",
     "tikTvd": "26720001632310",
     "tikName": "Глинковская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
     "uikCount": 10,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 3192,
@@ -205,6 +214,9 @@ export const president_2024_tic_227_region_67 = [
     "ballot": "presidential",
     "tikTvd": "26720001632311",
     "tikName": "Демидовская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9776,
@@ -265,6 +277,9 @@ export const president_2024_tic_227_region_67 = [
     "ballot": "presidential",
     "tikTvd": "26720001632312",
     "tikName": "Десногорская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 21810,
@@ -320,6 +335,9 @@ export const president_2024_tic_227_region_67 = [
     "ballot": "presidential",
     "tikTvd": "26720001632313",
     "tikName": "Дорогобужская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 19795,
@@ -384,6 +402,9 @@ export const president_2024_tic_227_region_67 = [
     "ballot": "presidential",
     "tikTvd": "26720001632314",
     "tikName": "Духовщинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10972,
@@ -442,6 +463,9 @@ export const president_2024_tic_227_region_67 = [
     "ballot": "presidential",
     "tikTvd": "26720001632315",
     "tikName": "Ельнинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9823,
@@ -501,6 +525,9 @@ export const president_2024_tic_227_region_67 = [
     "ballot": "presidential",
     "tikTvd": "26720001632316",
     "tikName": "Ершичская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
     "uikCount": 8,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 4549,
@@ -549,6 +576,9 @@ export const president_2024_tic_227_region_67 = [
     "ballot": "presidential",
     "tikTvd": "26720001632317",
     "tikName": "Краснинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9454,
@@ -603,6 +633,9 @@ export const president_2024_tic_227_region_67 = [
     "ballot": "presidential",
     "tikTvd": "26720001632318",
     "tikName": "Монастырщинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 7387,
@@ -659,6 +692,9 @@ export const president_2024_tic_227_region_67 = [
     "ballot": "presidential",
     "tikTvd": "26720001632319",
     "tikName": "Новодугинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 6568,
@@ -710,6 +746,9 @@ export const president_2024_tic_227_region_67 = [
     "ballot": "presidential",
     "tikTvd": "26720001632320",
     "tikName": "Сафоновская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 39599,
@@ -790,6 +829,9 @@ export const president_2024_tic_227_region_67 = [
     "ballot": "presidential",
     "tikTvd": "26720001632321",
     "tikName": "Починковская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 21526,
@@ -860,6 +902,9 @@ export const president_2024_tic_227_region_67 = [
     "ballot": "presidential",
     "tikTvd": "26720001632322",
     "tikName": "Рославльская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
     "uikCount": 45,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 52045,
@@ -945,6 +990,9 @@ export const president_2024_tic_227_region_67 = [
     "ballot": "presidential",
     "tikTvd": "26720001632323",
     "tikName": "Руднянская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 16099,
@@ -1011,6 +1059,9 @@ export const president_2024_tic_227_region_67 = [
     "ballot": "presidential",
     "tikTvd": "26720001632324",
     "tikName": "Смоленск, Заднепровская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 72019,
@@ -1097,6 +1148,9 @@ export const president_2024_tic_227_region_67 = [
     "ballot": "presidential",
     "tikTvd": "26720001632325",
     "tikName": "Угранская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 5809,
@@ -1151,6 +1205,9 @@ export const president_2024_tic_227_region_67 = [
     "ballot": "presidential",
     "tikTvd": "26720001632326",
     "tikName": "Смоленск, Промышленная",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
     "uikCount": 53,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 104580,
@@ -1244,6 +1301,9 @@ export const president_2024_tic_227_region_67 = [
     "ballot": "presidential",
     "tikTvd": "26720001632327",
     "tikName": "Смоленск, Ленинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 85745,
@@ -1328,6 +1388,9 @@ export const president_2024_tic_227_region_67 = [
     "ballot": "presidential",
     "tikTvd": "26720001632328",
     "tikName": "Смоленская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 42439,
@@ -1411,6 +1474,9 @@ export const president_2024_tic_227_region_67 = [
     "ballot": "presidential",
     "tikTvd": "26720001632329",
     "tikName": "Сычевская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9158,
@@ -1467,6 +1533,9 @@ export const president_2024_tic_227_region_67 = [
     "ballot": "presidential",
     "tikTvd": "26720001632330",
     "tikName": "Темкинская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 3849,
@@ -1518,6 +1587,9 @@ export const president_2024_tic_227_region_67 = [
     "ballot": "presidential",
     "tikTvd": "26720001632331",
     "tikName": "Ярцевская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 39879,
@@ -1595,6 +1667,9 @@ export const president_2024_tic_227_region_67 = [
     "ballot": "presidential",
     "tikTvd": "26720001632332",
     "tikName": "Хиславичская ",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 6513,
@@ -1649,6 +1724,9 @@ export const president_2024_tic_227_region_67 = [
     "ballot": "presidential",
     "tikTvd": "26720001632333",
     "tikName": "Холм-Жирковская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 6771,
@@ -1704,6 +1782,9 @@ export const president_2024_tic_227_region_67 = [
     "ballot": "presidential",
     "tikTvd": "26720001632334",
     "tikName": "Шумячская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 7514,
@@ -1757,6 +1838,9 @@ export const president_2024_tic_227_region_67 = [
     "ballot": "presidential",
     "tikTvd": "26720001632335",
     "tikName": "Гагаринская ",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 32272,
@@ -1840,6 +1924,9 @@ export const president_2024_tic_227_region_67 = [
     "ballot": "presidential",
     "tikTvd": "26720001632336",
     "tikName": "Кардымовская",
+    "regionCode": "67",
+    "regionTvd": "100100339411259",
+    "regionName": "Смоленская область",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 7675,

@@ -11,6 +11,9 @@ export const duma_2007_tic_233_region_5 = [
     "ballot": "party",
     "tikTvd": "2052000198732",
     "tikName": "Дагогнинская городская",
+    "regionCode": "5",
+    "regionTvd": "100100021960195",
+    "regionName": "Республика Дагестан",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 17966,
@@ -76,6 +79,9 @@ export const duma_2007_tic_233_region_5 = [
     "ballot": "party",
     "tikTvd": "2052000198733",
     "tikName": "Дербентская городская",
+    "regionCode": "5",
+    "regionTvd": "100100021960195",
+    "regionName": "Республика Дагестан",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 62969,
@@ -166,6 +172,9 @@ export const duma_2007_tic_233_region_5 = [
     "ballot": "party",
     "tikTvd": "2052000198734",
     "tikName": "Избербашская городская",
+    "regionCode": "5",
+    "regionTvd": "100100021960195",
+    "regionName": "Республика Дагестан",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 24668,
@@ -234,6 +243,9 @@ export const duma_2007_tic_233_region_5 = [
     "ballot": "party",
     "tikTvd": "2052000198735",
     "tikName": "Агульская",
+    "regionCode": "5",
+    "regionTvd": "100100021960195",
+    "regionName": "Республика Дагестан",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 5462,
@@ -307,6 +319,9 @@ export const duma_2007_tic_233_region_5 = [
     "ballot": "party",
     "tikTvd": "2052000198736",
     "tikName": "Акушинская",
+    "regionCode": "5",
+    "regionTvd": "100100021960195",
+    "regionName": "Республика Дагестан",
     "uikCount": 52,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 26900,
@@ -413,6 +428,9 @@ export const duma_2007_tic_233_region_5 = [
     "ballot": "party",
     "tikTvd": "2052000198737",
     "tikName": "Ахвахская",
+    "regionCode": "5",
+    "regionTvd": "100100021960195",
+    "regionName": "Республика Дагестан",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 11585,
@@ -502,6 +520,9 @@ export const duma_2007_tic_233_region_5 = [
     "ballot": "party",
     "tikTvd": "2052000198738",
     "tikName": "Ахтынская",
+    "regionCode": "5",
+    "regionTvd": "100100021960195",
+    "regionName": "Республика Дагестан",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 15913,
@@ -588,6 +609,9 @@ export const duma_2007_tic_233_region_5 = [
     "ballot": "party",
     "tikTvd": "2052000198739",
     "tikName": "Ботлихская",
+    "regionCode": "5",
+    "regionTvd": "100100021960195",
+    "regionName": "Республика Дагестан",
     "uikCount": 52,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 25249,
@@ -694,6 +718,9 @@ export const duma_2007_tic_233_region_5 = [
     "ballot": "party",
     "tikTvd": "2052000198740",
     "tikName": "Гергебильская",
+    "regionCode": "5",
+    "regionTvd": "100100021960195",
+    "regionName": "Республика Дагестан",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 10777,
@@ -767,6 +794,9 @@ export const duma_2007_tic_233_region_5 = [
     "ballot": "party",
     "tikTvd": "2052000198741",
     "tikName": "Гумбетовская",
+    "regionCode": "5",
+    "regionTvd": "100100021960195",
+    "regionName": "Республика Дагестан",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 9926,
@@ -851,6 +881,9 @@ export const duma_2007_tic_233_region_5 = [
     "ballot": "party",
     "tikTvd": "2052000198742",
     "tikName": "Гунибская",
+    "regionCode": "5",
+    "regionTvd": "100100021960195",
+    "regionName": "Республика Дагестан",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 13701,
@@ -948,6 +981,9 @@ export const duma_2007_tic_233_region_5 = [
     "ballot": "party",
     "tikTvd": "2052000198743",
     "tikName": "Дахадаевская",
+    "regionCode": "5",
+    "regionTvd": "100100021960195",
+    "regionName": "Республика Дагестан",
     "uikCount": 56,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 22631,
@@ -1058,6 +1094,9 @@ export const duma_2007_tic_233_region_5 = [
     "ballot": "party",
     "tikTvd": "2052000198744",
     "tikName": "Дербентская",
+    "regionCode": "5",
+    "regionTvd": "100100021960195",
+    "regionName": "Республика Дагестан",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 50664,
@@ -1154,6 +1193,9 @@ export const duma_2007_tic_233_region_5 = [
     "ballot": "party",
     "tikTvd": "2052000198745",
     "tikName": "Докузпаринская",
+    "regionCode": "5",
+    "regionTvd": "100100021960195",
+    "regionName": "Республика Дагестан",
     "uikCount": 10,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 8513,
@@ -1218,6 +1260,9 @@ export const duma_2007_tic_233_region_5 = [
     "ballot": "party",
     "tikTvd": "2052000198746",
     "tikName": "Кайтагская",
+    "regionCode": "5",
+    "regionTvd": "100100021960195",
+    "regionName": "Республика Дагестан",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 18178,
@@ -1312,6 +1357,9 @@ export const duma_2007_tic_233_region_5 = [
     "ballot": "party",
     "tikTvd": "2052000198747",
     "tikName": "Карабудахкентская",
+    "regionCode": "5",
+    "regionTvd": "100100021960195",
+    "regionName": "Республика Дагестан",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 38315,
@@ -1397,6 +1445,9 @@ export const duma_2007_tic_233_region_5 = [
     "ballot": "party",
     "tikTvd": "2052000198748",
     "tikName": "Каякентская",
+    "regionCode": "5",
+    "regionTvd": "100100021960195",
+    "regionName": "Республика Дагестан",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 29573,
@@ -1477,6 +1528,9 @@ export const duma_2007_tic_233_region_5 = [
     "ballot": "party",
     "tikTvd": "2052000198749",
     "tikName": "Кулинская",
+    "regionCode": "5",
+    "regionTvd": "100100021960195",
+    "regionName": "Республика Дагестан",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 6130,
@@ -1548,6 +1602,9 @@ export const duma_2007_tic_233_region_5 = [
     "ballot": "party",
     "tikTvd": "2052000198750",
     "tikName": "Курахская",
+    "regionCode": "5",
+    "regionTvd": "100100021960195",
+    "regionName": "Республика Дагестан",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 9757,
@@ -1633,6 +1690,9 @@ export const duma_2007_tic_233_region_5 = [
     "ballot": "party",
     "tikTvd": "2052000198751",
     "tikName": "Лакская",
+    "regionCode": "5",
+    "regionTvd": "100100021960195",
+    "regionName": "Республика Дагестан",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 7330,
@@ -1721,6 +1781,9 @@ export const duma_2007_tic_233_region_5 = [
     "ballot": "party",
     "tikTvd": "2052000198752",
     "tikName": "Левашинская",
+    "regionCode": "5",
+    "regionTvd": "100100021960195",
+    "regionName": "Республика Дагестан",
     "uikCount": 52,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 40842,
@@ -1827,6 +1890,9 @@ export const duma_2007_tic_233_region_5 = [
     "ballot": "party",
     "tikTvd": "2052000198753",
     "tikName": "Магарамкентская",
+    "regionCode": "5",
+    "regionTvd": "100100021960195",
+    "regionName": "Республика Дагестан",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 35397,
@@ -1919,6 +1985,9 @@ export const duma_2007_tic_233_region_5 = [
     "ballot": "party",
     "tikTvd": "2052000198754",
     "tikName": "Рутульская",
+    "regionCode": "5",
+    "regionTvd": "100100021960195",
+    "regionName": "Республика Дагестан",
     "uikCount": 53,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 13316,
@@ -2026,6 +2095,9 @@ export const duma_2007_tic_233_region_5 = [
     "ballot": "party",
     "tikTvd": "2052000198755",
     "tikName": "Сергокалинская",
+    "regionCode": "5",
+    "regionTvd": "100100021960195",
+    "regionName": "Республика Дагестан",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 18203,
@@ -2109,6 +2181,9 @@ export const duma_2007_tic_233_region_5 = [
     "ballot": "party",
     "tikTvd": "2052000198756",
     "tikName": "Сулейман-Стальская",
+    "regionCode": "5",
+    "regionTvd": "100100021960195",
+    "regionName": "Республика Дагестан",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 33483,
@@ -2205,6 +2280,9 @@ export const duma_2007_tic_233_region_5 = [
     "ballot": "party",
     "tikTvd": "2052000198757",
     "tikName": "Табасаранская",
+    "regionCode": "5",
+    "regionTvd": "100100021960195",
+    "regionName": "Республика Дагестан",
     "uikCount": 66,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 29753,
@@ -2325,6 +2403,9 @@ export const duma_2007_tic_233_region_5 = [
     "ballot": "party",
     "tikTvd": "2052000198758",
     "tikName": "Тляратинская",
+    "regionCode": "5",
+    "regionTvd": "100100021960195",
+    "regionName": "Республика Дагестан",
     "uikCount": 65,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 12451,
@@ -2444,6 +2525,9 @@ export const duma_2007_tic_233_region_5 = [
     "ballot": "party",
     "tikTvd": "2052000198759",
     "tikName": "Унцукульская",
+    "regionCode": "5",
+    "regionTvd": "100100021960195",
+    "regionName": "Республика Дагестан",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 13558,
@@ -2528,6 +2612,9 @@ export const duma_2007_tic_233_region_5 = [
     "ballot": "party",
     "tikTvd": "2052000198760",
     "tikName": "Хивская",
+    "regionCode": "5",
+    "regionTvd": "100100021960195",
+    "regionName": "Республика Дагестан",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 13247,
@@ -2618,6 +2705,9 @@ export const duma_2007_tic_233_region_5 = [
     "ballot": "party",
     "tikTvd": "2052000198761",
     "tikName": "Хунзахская",
+    "regionCode": "5",
+    "regionTvd": "100100021960195",
+    "regionName": "Республика Дагестан",
     "uikCount": 55,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 18220,
@@ -2727,6 +2817,9 @@ export const duma_2007_tic_233_region_5 = [
     "ballot": "party",
     "tikTvd": "2052000198762",
     "tikName": "Цумадинская",
+    "regionCode": "5",
+    "regionTvd": "100100021960195",
+    "regionName": "Республика Дагестан",
     "uikCount": 54,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 13441,
@@ -2835,6 +2928,9 @@ export const duma_2007_tic_233_region_5 = [
     "ballot": "party",
     "tikTvd": "2052000198763",
     "tikName": "Бежтинская",
+    "regionCode": "5",
+    "regionTvd": "100100021960195",
+    "regionName": "Республика Дагестан",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 4996,
@@ -2900,6 +2996,9 @@ export const duma_2007_tic_233_region_5 = [
     "ballot": "party",
     "tikTvd": "2052000198764",
     "tikName": "Цунтинская",
+    "regionCode": "5",
+    "regionTvd": "100100021960195",
+    "regionName": "Республика Дагестан",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 5787,
@@ -2994,6 +3093,9 @@ export const duma_2007_tic_233_region_5 = [
     "ballot": "party",
     "tikTvd": "2052000198765",
     "tikName": "Чародинская",
+    "regionCode": "5",
+    "regionTvd": "100100021960195",
+    "regionName": "Республика Дагестан",
     "uikCount": 52,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 6929,
@@ -3100,6 +3202,9 @@ export const duma_2007_tic_233_region_5 = [
     "ballot": "party",
     "tikTvd": "2052000198766",
     "tikName": "Шамильская",
+    "regionCode": "5",
+    "regionTvd": "100100021960195",
+    "regionName": "Республика Дагестан",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 15858,
@@ -3198,6 +3303,9 @@ export const duma_2007_tic_233_region_5 = [
     "ballot": "party",
     "tikTvd": "2052000198767",
     "tikName": "Буйнакская городская",
+    "regionCode": "5",
+    "regionTvd": "100100021960195",
+    "regionName": "Республика Дагестан",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 39921,
@@ -3273,6 +3381,9 @@ export const duma_2007_tic_233_region_5 = [
     "ballot": "party",
     "tikTvd": "2052000198768",
     "tikName": "Каспийская городская",
+    "regionCode": "5",
+    "regionTvd": "100100021960195",
+    "regionName": "Республика Дагестан",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 46656,
@@ -3348,6 +3459,9 @@ export const duma_2007_tic_233_region_5 = [
     "ballot": "party",
     "tikTvd": "2052000198769",
     "tikName": "Кизилюртовская городская",
+    "regionCode": "5",
+    "regionTvd": "100100021960195",
+    "regionName": "Республика Дагестан",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 20867,
@@ -3423,6 +3537,9 @@ export const duma_2007_tic_233_region_5 = [
     "ballot": "party",
     "tikTvd": "2052000198770",
     "tikName": "Кизлярская городская",
+    "regionCode": "5",
+    "regionTvd": "100100021960195",
+    "regionName": "Республика Дагестан",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 25477,
@@ -3494,6 +3611,9 @@ export const duma_2007_tic_233_region_5 = [
     "ballot": "party",
     "tikTvd": "2052000198771",
     "tikName": "Махачкала, Кировская",
+    "regionCode": "5",
+    "regionTvd": "100100021960195",
+    "regionName": "Республика Дагестан",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 70064,
@@ -3583,6 +3703,9 @@ export const duma_2007_tic_233_region_5 = [
     "ballot": "party",
     "tikTvd": "2052000198772",
     "tikName": "Махачкала, Ленинская",
+    "regionCode": "5",
+    "regionTvd": "100100021960195",
+    "regionName": "Республика Дагестан",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 66430,
@@ -3672,6 +3795,9 @@ export const duma_2007_tic_233_region_5 = [
     "ballot": "party",
     "tikTvd": "2052000198773",
     "tikName": "Махачкала, Советская",
+    "regionCode": "5",
+    "regionTvd": "100100021960195",
+    "regionName": "Республика Дагестан",
     "uikCount": 47,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 86491,
@@ -3773,6 +3899,9 @@ export const duma_2007_tic_233_region_5 = [
     "ballot": "party",
     "tikTvd": "2052000198774",
     "tikName": "Хасавюртовская городская",
+    "regionCode": "5",
+    "regionTvd": "100100021960195",
+    "regionName": "Республика Дагестан",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 57758,
@@ -3857,6 +3986,9 @@ export const duma_2007_tic_233_region_5 = [
     "ballot": "party",
     "tikTvd": "2052000198775",
     "tikName": "Южно-Сухокумская городская",
+    "regionCode": "5",
+    "regionTvd": "100100021960195",
+    "regionName": "Республика Дагестан",
     "uikCount": 4,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 4910,
@@ -3915,6 +4047,9 @@ export const duma_2007_tic_233_region_5 = [
     "ballot": "party",
     "tikTvd": "2052000198776",
     "tikName": "Бабаюртовская",
+    "regionCode": "5",
+    "regionTvd": "100100021960195",
+    "regionName": "Республика Дагестан",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 22867,
@@ -3993,6 +4128,9 @@ export const duma_2007_tic_233_region_5 = [
     "ballot": "party",
     "tikTvd": "2052000198777",
     "tikName": "Буйнакская",
+    "regionCode": "5",
+    "regionTvd": "100100021960195",
+    "regionName": "Республика Дагестан",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 43113,
@@ -4082,6 +4220,9 @@ export const duma_2007_tic_233_region_5 = [
     "ballot": "party",
     "tikTvd": "2052000198778",
     "tikName": "Казбековская",
+    "regionCode": "5",
+    "regionTvd": "100100021960195",
+    "regionName": "Республика Дагестан",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 26259,
@@ -4161,6 +4302,9 @@ export const duma_2007_tic_233_region_5 = [
     "ballot": "party",
     "tikTvd": "2052000198779",
     "tikName": "Кизилюртовская",
+    "regionCode": "5",
+    "regionTvd": "100100021960195",
+    "regionName": "Республика Дагестан",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 41193,
@@ -4249,6 +4393,9 @@ export const duma_2007_tic_233_region_5 = [
     "ballot": "party",
     "tikTvd": "2052000198780",
     "tikName": "Кизлярская",
+    "regionCode": "5",
+    "regionTvd": "100100021960195",
+    "regionName": "Республика Дагестан",
     "uikCount": 54,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 36714,
@@ -4357,6 +4504,9 @@ export const duma_2007_tic_233_region_5 = [
     "ballot": "party",
     "tikTvd": "2052000198781",
     "tikName": "Кумторкалинская",
+    "regionCode": "5",
+    "regionTvd": "100100021960195",
+    "regionName": "Республика Дагестан",
     "uikCount": 9,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 12562,
@@ -4420,6 +4570,9 @@ export const duma_2007_tic_233_region_5 = [
     "ballot": "party",
     "tikTvd": "2052000198782",
     "tikName": "Новолакская",
+    "regionCode": "5",
+    "regionTvd": "100100021960195",
+    "regionName": "Республика Дагестан",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 16210,
@@ -4500,6 +4653,9 @@ export const duma_2007_tic_233_region_5 = [
     "ballot": "party",
     "tikTvd": "2052000198783",
     "tikName": "Ногайская",
+    "regionCode": "5",
+    "regionTvd": "100100021960195",
+    "regionName": "Республика Дагестан",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 14368,
@@ -4575,6 +4731,9 @@ export const duma_2007_tic_233_region_5 = [
     "ballot": "party",
     "tikTvd": "2052000198784",
     "tikName": "Тарумовская",
+    "regionCode": "5",
+    "regionTvd": "100100021960195",
+    "regionName": "Республика Дагестан",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 18290,
@@ -4649,6 +4808,9 @@ export const duma_2007_tic_233_region_5 = [
     "ballot": "party",
     "tikTvd": "2052000198785",
     "tikName": "Хасавюртовская",
+    "regionCode": "5",
+    "regionTvd": "100100021960195",
+    "regionName": "Республика Дагестан",
     "uikCount": 64,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 79900,

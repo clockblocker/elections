@@ -11,6 +11,9 @@ export const president_2004_tic_227_region_9 = [
     "ballot": "presidential",
     "tikTvd": "209200072576",
     "tikName": "Хабезская",
+    "regionCode": "9",
+    "regionTvd": "1001000883003",
+    "regionName": "Карачаево-Черкесская Республика",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в список": 22072,
@@ -76,6 +79,9 @@ export const president_2004_tic_227_region_9 = [
     "ballot": "presidential",
     "tikTvd": "209200072577",
     "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "1001000883003",
+    "regionName": "Карачаево-Черкесская Республика",
     "uikCount": 52,
     "accounting": {
       "Число избирателей, внесенных в список": 78950,
@@ -176,6 +182,9 @@ export const president_2004_tic_227_region_9 = [
     "ballot": "presidential",
     "tikTvd": "209200072578",
     "tikName": "Усть-Джегутинская",
+    "regionCode": "9",
+    "regionTvd": "1001000883003",
+    "regionName": "Карачаево-Черкесская Республика",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список": 34416,
@@ -248,6 +257,9 @@ export const president_2004_tic_227_region_9 = [
     "ballot": "presidential",
     "tikTvd": "209200072579",
     "tikName": "Урупская",
+    "regionCode": "9",
+    "regionTvd": "1001000883003",
+    "regionName": "Карачаево-Черкесская Республика",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в список": 15110,
@@ -313,6 +325,9 @@ export const president_2004_tic_227_region_9 = [
     "ballot": "presidential",
     "tikTvd": "209200072580",
     "tikName": "Прикубанская",
+    "regionCode": "9",
+    "regionTvd": "1001000883003",
+    "regionName": "Карачаево-Черкесская Республика",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список": 26310,
@@ -385,6 +400,9 @@ export const president_2004_tic_227_region_9 = [
     "ballot": "presidential",
     "tikTvd": "209200072581",
     "tikName": "Малокарачаевская",
+    "regionCode": "9",
+    "regionTvd": "1001000883003",
+    "regionName": "Карачаево-Черкесская Республика",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в список": 27312,
@@ -450,6 +468,9 @@ export const president_2004_tic_227_region_9 = [
     "ballot": "presidential",
     "tikTvd": "209200072582",
     "tikName": "Зеленчукская",
+    "regionCode": "9",
+    "regionTvd": "1001000883003",
+    "regionName": "Карачаево-Черкесская Республика",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в список": 39213,
@@ -535,6 +556,9 @@ export const president_2004_tic_227_region_9 = [
     "ballot": "presidential",
     "tikTvd": "209200072583",
     "tikName": "Карачаевская",
+    "regionCode": "9",
+    "regionTvd": "1001000883003",
+    "regionName": "Карачаево-Черкесская Республика",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в список": 18219,
@@ -599,6 +623,9 @@ export const president_2004_tic_227_region_9 = [
     "ballot": "presidential",
     "tikTvd": "209200072584",
     "tikName": "Карачаевская городская",
+    "regionCode": "9",
+    "regionTvd": "1001000883003",
+    "regionName": "Карачаево-Черкесская Республика",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список": 22463,
@@ -665,6 +692,9 @@ export const president_2004_tic_227_region_9 = [
     "ballot": "presidential",
     "tikTvd": "209200072585",
     "tikName": "Адыге-Хабльская ",
+    "regionCode": "9",
+    "regionTvd": "1001000883003",
+    "regionName": "Карачаево-Черкесская Республика",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список": 20481,

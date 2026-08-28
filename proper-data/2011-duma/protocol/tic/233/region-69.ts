@@ -11,6 +11,9 @@ export const duma_2011_tic_233_region_69 = [
     "ballot": "party",
     "tikTvd": "7697000411097",
     "tikName": "Спировская",
+    "regionCode": "69",
+    "regionTvd": "100100028713446",
+    "regionName": "Тверская область",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 9836,
@@ -77,6 +80,9 @@ export const duma_2011_tic_233_region_69 = [
     "ballot": "party",
     "tikTvd": "7697000411098",
     "tikName": "Старицкая",
+    "regionCode": "69",
+    "regionTvd": "100100028713446",
+    "regionName": "Тверская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 18366,
@@ -156,6 +162,9 @@ export const duma_2011_tic_233_region_69 = [
     "ballot": "party",
     "tikTvd": "7697000411099",
     "tikName": "Тверь, Заволжская",
+    "regionCode": "69",
+    "regionTvd": "100100028713446",
+    "regionName": "Тверская область",
     "uikCount": 57,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 119784,
@@ -262,6 +271,9 @@ export const duma_2011_tic_233_region_69 = [
     "ballot": "party",
     "tikTvd": "7697000411100",
     "tikName": "Тверь, Московская",
+    "regionCode": "69",
+    "regionTvd": "100100028713446",
+    "regionName": "Тверская область",
     "uikCount": 56,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 99316,
@@ -367,6 +379,9 @@ export const duma_2011_tic_233_region_69 = [
     "ballot": "party",
     "tikTvd": "7697000411101",
     "tikName": "Тверь, Пролетарская",
+    "regionCode": "69",
+    "regionTvd": "100100028713446",
+    "regionName": "Тверская область",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 77856,
@@ -458,6 +473,9 @@ export const duma_2011_tic_233_region_69 = [
     "ballot": "party",
     "tikTvd": "7697000411102",
     "tikName": "Тверь, Центральная",
+    "regionCode": "69",
+    "regionTvd": "100100028713446",
+    "regionName": "Тверская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 46448,
@@ -532,6 +550,9 @@ export const duma_2011_tic_233_region_69 = [
     "ballot": "party",
     "tikTvd": "7697000411103",
     "tikName": "Торжокская",
+    "regionCode": "69",
+    "regionTvd": "100100028713446",
+    "regionName": "Тверская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 16758,
@@ -621,6 +642,9 @@ export const duma_2011_tic_233_region_69 = [
     "ballot": "party",
     "tikTvd": "7697000411104",
     "tikName": "Торжокская городская",
+    "regionCode": "69",
+    "regionTvd": "100100028713446",
+    "regionName": "Тверская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 37461,
@@ -694,6 +718,9 @@ export const duma_2011_tic_233_region_69 = [
     "ballot": "party",
     "tikTvd": "7697000411105",
     "tikName": "Торопецкая",
+    "regionCode": "69",
+    "regionTvd": "100100028713446",
+    "regionName": "Тверская область",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 18147,
@@ -776,6 +803,9 @@ export const duma_2011_tic_233_region_69 = [
     "ballot": "party",
     "tikTvd": "7697000411106",
     "tikName": "Удомельская",
+    "regionCode": "69",
+    "regionTvd": "100100028713446",
+    "regionName": "Тверская область",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 33770,
@@ -860,6 +890,9 @@ export const duma_2011_tic_233_region_69 = [
     "ballot": "party",
     "tikTvd": "7697000411107",
     "tikName": "Фировская",
+    "regionCode": "69",
+    "regionTvd": "100100028713446",
+    "regionName": "Тверская область",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 8370,
@@ -922,6 +955,9 @@ export const duma_2011_tic_233_region_69 = [
     "ballot": "party",
     "tikTvd": "7697000411108",
     "tikName": "Кувшиновская",
+    "regionCode": "69",
+    "regionTvd": "100100028713446",
+    "regionName": "Тверская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 12822,
@@ -994,6 +1030,9 @@ export const duma_2011_tic_233_region_69 = [
     "ballot": "party",
     "tikTvd": "7697000411109",
     "tikName": "Лесная",
+    "regionCode": "69",
+    "regionTvd": "100100028713446",
+    "regionName": "Тверская область",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 4629,
@@ -1056,6 +1095,9 @@ export const duma_2011_tic_233_region_69 = [
     "ballot": "party",
     "tikTvd": "7697000411110",
     "tikName": "Лихославльская",
+    "regionCode": "69",
+    "regionTvd": "100100028713446",
+    "regionName": "Тверская область",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 23594,
@@ -1138,6 +1180,9 @@ export const duma_2011_tic_233_region_69 = [
     "ballot": "party",
     "tikTvd": "7697000411111",
     "tikName": "Максатихинская",
+    "regionCode": "69",
+    "regionTvd": "100100028713446",
+    "regionName": "Тверская область",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 15373,
@@ -1214,6 +1259,9 @@ export const duma_2011_tic_233_region_69 = [
     "ballot": "party",
     "tikTvd": "7697000411112",
     "tikName": "Молоковская",
+    "regionCode": "69",
+    "regionTvd": "100100028713446",
+    "regionName": "Тверская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 4553,
@@ -1278,6 +1326,9 @@ export const duma_2011_tic_233_region_69 = [
     "ballot": "party",
     "tikTvd": "7697000411113",
     "tikName": "Нелидовская",
+    "regionCode": "69",
+    "regionTvd": "100100028713446",
+    "regionName": "Тверская область",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 25784,
@@ -1373,6 +1424,9 @@ export const duma_2011_tic_233_region_69 = [
     "ballot": "party",
     "tikTvd": "7697000411114",
     "tikName": "Озерная поселковая",
+    "regionCode": "69",
+    "regionTvd": "100100028713446",
+    "regionName": "Тверская область",
     "uikCount": 5,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 8896,
@@ -1427,6 +1481,9 @@ export const duma_2011_tic_233_region_69 = [
     "ballot": "party",
     "tikTvd": "7697000411115",
     "tikName": "Оленинская",
+    "regionCode": "69",
+    "regionTvd": "100100028713446",
+    "regionName": "Тверская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 11188,
@@ -1500,6 +1557,9 @@ export const duma_2011_tic_233_region_69 = [
     "ballot": "party",
     "tikTvd": "7697000411116",
     "tikName": "Осташковская",
+    "regionCode": "69",
+    "regionTvd": "100100028713446",
+    "regionName": "Тверская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 21109,
@@ -1578,6 +1638,9 @@ export const duma_2011_tic_233_region_69 = [
     "ballot": "party",
     "tikTvd": "7697000411117",
     "tikName": "Пеновская",
+    "regionCode": "69",
+    "regionTvd": "100100028713446",
+    "regionName": "Тверская область",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 6076,
@@ -1638,6 +1701,9 @@ export const duma_2011_tic_233_region_69 = [
     "ballot": "party",
     "tikTvd": "7697000411118",
     "tikName": "Рамешковская",
+    "regionCode": "69",
+    "regionTvd": "100100028713446",
+    "regionName": "Тверская область",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 11641,
@@ -1699,6 +1765,9 @@ export const duma_2011_tic_233_region_69 = [
     "ballot": "party",
     "tikTvd": "7697000411119",
     "tikName": "Ржевская",
+    "regionCode": "69",
+    "regionTvd": "100100028713446",
+    "regionName": "Тверская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 10110,
@@ -1777,6 +1846,9 @@ export const duma_2011_tic_233_region_69 = [
     "ballot": "party",
     "tikTvd": "7697000411120",
     "tikName": "Ржевская городская",
+    "regionCode": "69",
+    "regionTvd": "100100028713446",
+    "regionName": "Тверская область",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 50036,
@@ -1858,6 +1930,9 @@ export const duma_2011_tic_233_region_69 = [
     "ballot": "party",
     "tikTvd": "7697000411121",
     "tikName": "Сандовская",
+    "regionCode": "69",
+    "regionTvd": "100100028713446",
+    "regionName": "Тверская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 6013,
@@ -1922,6 +1997,9 @@ export const duma_2011_tic_233_region_69 = [
     "ballot": "party",
     "tikTvd": "7697000411122",
     "tikName": "Селижаровская",
+    "regionCode": "69",
+    "regionTvd": "100100028713446",
+    "regionName": "Тверская область",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 10345,
@@ -1998,6 +2076,9 @@ export const duma_2011_tic_233_region_69 = [
     "ballot": "party",
     "tikTvd": "7697000411123",
     "tikName": "Солнечная поселковая",
+    "regionCode": "69",
+    "regionTvd": "100100028713446",
+    "regionName": "Тверская область",
     "uikCount": 1,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 1767,
@@ -2048,6 +2129,9 @@ export const duma_2011_tic_233_region_69 = [
     "ballot": "party",
     "tikTvd": "7697000411124",
     "tikName": "Сонковская",
+    "regionCode": "69",
+    "regionTvd": "100100028713446",
+    "regionName": "Тверская область",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 7571,
@@ -2110,6 +2194,9 @@ export const duma_2011_tic_233_region_69 = [
     "ballot": "party",
     "tikTvd": "7697000411125",
     "tikName": "Андреапольская",
+    "regionCode": "69",
+    "regionTvd": "100100028713446",
+    "regionName": "Тверская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 10658,
@@ -2189,6 +2276,9 @@ export const duma_2011_tic_233_region_69 = [
     "ballot": "party",
     "tikTvd": "7697000411126",
     "tikName": "Бежецкая",
+    "regionCode": "69",
+    "regionTvd": "100100028713446",
+    "regionName": "Тверская область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 30434,
@@ -2274,6 +2364,9 @@ export const duma_2011_tic_233_region_69 = [
     "ballot": "party",
     "tikTvd": "7697000411127",
     "tikName": "Бельская",
+    "regionCode": "69",
+    "regionTvd": "100100028713446",
+    "regionName": "Тверская область",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 5919,
@@ -2335,6 +2428,9 @@ export const duma_2011_tic_233_region_69 = [
     "ballot": "party",
     "tikTvd": "7697000411128",
     "tikName": "Бологовская",
+    "regionCode": "69",
+    "regionTvd": "100100028713446",
+    "regionName": "Тверская область",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 32282,
@@ -2421,6 +2517,9 @@ export const duma_2011_tic_233_region_69 = [
     "ballot": "party",
     "tikTvd": "7697000411129",
     "tikName": "Весьегонская",
+    "regionCode": "69",
+    "regionTvd": "100100028713446",
+    "regionName": "Тверская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 11469,
@@ -2490,6 +2589,9 @@ export const duma_2011_tic_233_region_69 = [
     "ballot": "party",
     "tikTvd": "7697000411130",
     "tikName": "Вышневолоцкая ",
+    "regionCode": "69",
+    "regionTvd": "100100028713446",
+    "regionName": "Тверская область",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 20976,
@@ -2574,6 +2676,9 @@ export const duma_2011_tic_233_region_69 = [
     "ballot": "party",
     "tikTvd": "7697000411131",
     "tikName": "Вышневолоцкая городская",
+    "regionCode": "69",
+    "regionTvd": "100100028713446",
+    "regionName": "Тверская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 42209,
@@ -2654,6 +2759,9 @@ export const duma_2011_tic_233_region_69 = [
     "ballot": "party",
     "tikTvd": "7697000411132",
     "tikName": "Жарковская",
+    "regionCode": "69",
+    "regionTvd": "100100028713446",
+    "regionName": "Тверская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 5456,
@@ -2718,6 +2826,9 @@ export const duma_2011_tic_233_region_69 = [
     "ballot": "party",
     "tikTvd": "7697000411133",
     "tikName": "Западнодвинская",
+    "regionCode": "69",
+    "regionTvd": "100100028713446",
+    "regionName": "Тверская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 14055,
@@ -2796,6 +2907,9 @@ export const duma_2011_tic_233_region_69 = [
     "ballot": "party",
     "tikTvd": "7697000411134",
     "tikName": "Зубцовская",
+    "regionCode": "69",
+    "regionTvd": "100100028713446",
+    "regionName": "Тверская область",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 14145,
@@ -2877,6 +2991,9 @@ export const duma_2011_tic_233_region_69 = [
     "ballot": "party",
     "tikTvd": "7697000411135",
     "tikName": "Калининская",
+    "regionCode": "69",
+    "regionTvd": "100100028713446",
+    "regionName": "Тверская область",
     "uikCount": 56,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 44747,
@@ -2982,6 +3099,9 @@ export const duma_2011_tic_233_region_69 = [
     "ballot": "party",
     "tikTvd": "7697000411136",
     "tikName": "Калязинская",
+    "regionCode": "69",
+    "regionTvd": "100100028713446",
+    "regionName": "Тверская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 17524,
@@ -3061,6 +3181,9 @@ export const duma_2011_tic_233_region_69 = [
     "ballot": "party",
     "tikTvd": "7697000411137",
     "tikName": "Кашинская",
+    "regionCode": "69",
+    "regionTvd": "100100028713446",
+    "regionName": "Тверская область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 23597,
@@ -3146,6 +3269,9 @@ export const duma_2011_tic_233_region_69 = [
     "ballot": "party",
     "tikTvd": "7697000411138",
     "tikName": "Кесовогорская",
+    "regionCode": "69",
+    "regionTvd": "100100028713446",
+    "regionName": "Тверская область",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 7180,
@@ -3212,6 +3338,9 @@ export const duma_2011_tic_233_region_69 = [
     "ballot": "party",
     "tikTvd": "7697000411139",
     "tikName": "Кимрская",
+    "regionCode": "69",
+    "regionTvd": "100100028713446",
+    "regionName": "Тверская область",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 11874,
@@ -3278,6 +3407,9 @@ export const duma_2011_tic_233_region_69 = [
     "ballot": "party",
     "tikTvd": "7697000411140",
     "tikName": "Кимрская городская",
+    "regionCode": "69",
+    "regionTvd": "100100028713446",
+    "regionName": "Тверская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 43641,
@@ -3350,6 +3482,9 @@ export const duma_2011_tic_233_region_69 = [
     "ballot": "party",
     "tikTvd": "7697000411141",
     "tikName": "Конаковская",
+    "regionCode": "69",
+    "regionTvd": "100100028713446",
+    "regionName": "Тверская область",
     "uikCount": 54,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 76195,
@@ -3453,6 +3588,9 @@ export const duma_2011_tic_233_region_69 = [
     "ballot": "party",
     "tikTvd": "7697000411142",
     "tikName": "Краснохолмская",
+    "regionCode": "69",
+    "regionTvd": "100100028713446",
+    "regionName": "Тверская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 10215,

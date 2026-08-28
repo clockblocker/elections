@@ -11,6 +11,9 @@ export const president_2004_tic_227_region_13 = [
     "ballot": "presidential",
     "tikTvd": "213200093821",
     "tikName": "Большеберезниковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список": 12316,
@@ -84,6 +87,9 @@ export const president_2004_tic_227_region_13 = [
     "ballot": "presidential",
     "tikTvd": "213200093822",
     "tikName": "Атяшевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, внесенных в список": 17480,
@@ -173,6 +179,9 @@ export const president_2004_tic_227_region_13 = [
     "ballot": "presidential",
     "tikTvd": "213200093823",
     "tikName": "Атюрьевская ",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список": 9110,
@@ -246,6 +255,9 @@ export const president_2004_tic_227_region_13 = [
     "ballot": "presidential",
     "tikTvd": "213200093824",
     "tikName": "Ардатовская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
     "uikCount": 47,
     "accounting": {
       "Число избирателей, внесенных в список": 24190,
@@ -341,6 +353,9 @@ export const president_2004_tic_227_region_13 = [
     "ballot": "presidential",
     "tikTvd": "213200093825",
     "tikName": "Чамзинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в список": 25607,
@@ -424,6 +439,9 @@ export const president_2004_tic_227_region_13 = [
     "ballot": "presidential",
     "tikTvd": "213200093826",
     "tikName": "Торбеевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в список": 17315,
@@ -506,6 +524,9 @@ export const president_2004_tic_227_region_13 = [
     "ballot": "presidential",
     "tikTvd": "213200093827",
     "tikName": "Теньгушевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список": 9456,
@@ -578,6 +599,9 @@ export const president_2004_tic_227_region_13 = [
     "ballot": "presidential",
     "tikTvd": "213200093828",
     "tikName": "Пролетарская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в список": 68695,
@@ -660,6 +684,9 @@ export const president_2004_tic_227_region_13 = [
     "ballot": "presidential",
     "tikTvd": "213200093829",
     "tikName": "Темниковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в список": 15352,
@@ -739,6 +766,9 @@ export const president_2004_tic_227_region_13 = [
     "ballot": "presidential",
     "tikTvd": "213200093830",
     "tikName": "Старошайговская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в список": 11993,
@@ -819,6 +849,9 @@ export const president_2004_tic_227_region_13 = [
     "ballot": "presidential",
     "tikTvd": "213200093831",
     "tikName": "Октябрьская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
     "uikCount": 56,
     "accounting": {
       "Число избирателей, внесенных в список": 97090,
@@ -923,6 +956,9 @@ export const president_2004_tic_227_region_13 = [
     "ballot": "presidential",
     "tikTvd": "213200093832",
     "tikName": "Рузаевская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
     "uikCount": 55,
     "accounting": {
       "Число избирателей, внесенных в список": 51700,
@@ -1026,6 +1062,9 @@ export const president_2004_tic_227_region_13 = [
     "ballot": "presidential",
     "tikTvd": "213200093833",
     "tikName": "Ленинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, внесенных в список": 78670,
@@ -1120,6 +1159,9 @@ export const president_2004_tic_227_region_13 = [
     "ballot": "presidential",
     "tikTvd": "213200093834",
     "tikName": "Ромодановская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список": 15478,
@@ -1196,6 +1238,9 @@ export const president_2004_tic_227_region_13 = [
     "ballot": "presidential",
     "tikTvd": "213200093835",
     "tikName": "Лямбирская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в список": 25229,
@@ -1279,6 +1324,9 @@ export const president_2004_tic_227_region_13 = [
     "ballot": "presidential",
     "tikTvd": "213200093836",
     "tikName": "Краснослободская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список": 21815,
@@ -1363,6 +1411,9 @@ export const president_2004_tic_227_region_13 = [
     "ballot": "presidential",
     "tikTvd": "213200093837",
     "tikName": "Ковылкинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
     "uikCount": 73,
     "accounting": {
       "Число избирателей, внесенных в список": 35935,
@@ -1484,6 +1535,9 @@ export const president_2004_tic_227_region_13 = [
     "ballot": "presidential",
     "tikTvd": "213200093838",
     "tikName": "Кадошкинская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список": 7307,
@@ -1547,6 +1601,9 @@ export const president_2004_tic_227_region_13 = [
     "ballot": "presidential",
     "tikTvd": "213200093839",
     "tikName": "Кочкуровская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в список": 9230,
@@ -1609,6 +1666,9 @@ export const president_2004_tic_227_region_13 = [
     "ballot": "presidential",
     "tikTvd": "213200093840",
     "tikName": "Зубово-Полянская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
     "uikCount": 53,
     "accounting": {
       "Число избирателей, внесенных в список": 35886,
@@ -1710,6 +1770,9 @@ export const president_2004_tic_227_region_13 = [
     "ballot": "presidential",
     "tikTvd": "213200093841",
     "tikName": "Инсарская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список": 12110,
@@ -1787,6 +1850,9 @@ export const president_2004_tic_227_region_13 = [
     "ballot": "presidential",
     "tikTvd": "213200093842",
     "tikName": "Ичалковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, внесенных в список": 17188,
@@ -1881,6 +1947,9 @@ export const president_2004_tic_227_region_13 = [
     "ballot": "presidential",
     "tikTvd": "213200093843",
     "tikName": "Дубенская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список": 12148,
@@ -1954,6 +2023,9 @@ export const president_2004_tic_227_region_13 = [
     "ballot": "presidential",
     "tikTvd": "213200093844",
     "tikName": "Ельниковская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список": 10043,
@@ -2025,6 +2097,9 @@ export const president_2004_tic_227_region_13 = [
     "ballot": "presidential",
     "tikTvd": "213200093845",
     "tikName": "Большеигнатовская",
+    "regionCode": "13",
+    "regionTvd": "1001000883004",
+    "regionName": "Республика Мордовия",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список": 7361,

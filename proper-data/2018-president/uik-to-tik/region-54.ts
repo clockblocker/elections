@@ -7,12175 +7,22320 @@ export const president_2018_uik_to_tik_region_54 = [
   {
     "uikNumber": 1,
     "uikTvd": "4544001187010",
+    "uikName": "УИК №1",
     "tikTvd": "25420001560248",
-    "tikName": "Баганская "
+    "tikName": "Баганская ",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 2,
     "uikTvd": "4544001187011",
+    "uikName": "УИК №2",
     "tikTvd": "25420001560248",
-    "tikName": "Баганская "
+    "tikName": "Баганская ",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 3,
     "uikTvd": "4544001187012",
+    "uikName": "УИК №3",
     "tikTvd": "25420001560248",
-    "tikName": "Баганская "
+    "tikName": "Баганская ",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 4,
     "uikTvd": "4544001187013",
+    "uikName": "УИК №4",
     "tikTvd": "25420001560248",
-    "tikName": "Баганская "
+    "tikName": "Баганская ",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 5,
     "uikTvd": "4544001187014",
+    "uikName": "УИК №5",
     "tikTvd": "25420001560248",
-    "tikName": "Баганская "
+    "tikName": "Баганская ",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 6,
     "uikTvd": "4544001187015",
+    "uikName": "УИК №6",
     "tikTvd": "25420001560248",
-    "tikName": "Баганская "
+    "tikName": "Баганская ",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 7,
     "uikTvd": "4544001187016",
+    "uikName": "УИК №7",
     "tikTvd": "25420001560248",
-    "tikName": "Баганская "
+    "tikName": "Баганская ",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 8,
     "uikTvd": "4544001187017",
+    "uikName": "УИК №8",
     "tikTvd": "25420001560248",
-    "tikName": "Баганская "
+    "tikName": "Баганская ",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 9,
     "uikTvd": "4544001187018",
+    "uikName": "УИК №9",
     "tikTvd": "25420001560248",
-    "tikName": "Баганская "
+    "tikName": "Баганская ",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 10,
     "uikTvd": "4544001187019",
+    "uikName": "УИК №10",
     "tikTvd": "25420001560248",
-    "tikName": "Баганская "
+    "tikName": "Баганская ",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 11,
     "uikTvd": "4544001187020",
+    "uikName": "УИК №11",
     "tikTvd": "25420001560248",
-    "tikName": "Баганская "
+    "tikName": "Баганская ",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 12,
     "uikTvd": "4544001187021",
+    "uikName": "УИК №12",
     "tikTvd": "25420001560248",
-    "tikName": "Баганская "
+    "tikName": "Баганская ",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 13,
     "uikTvd": "4544001187022",
+    "uikName": "УИК №13",
     "tikTvd": "25420001560248",
-    "tikName": "Баганская "
+    "tikName": "Баганская ",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 14,
     "uikTvd": "4544001187023",
+    "uikName": "УИК №14",
     "tikTvd": "25420001560248",
-    "tikName": "Баганская "
+    "tikName": "Баганская ",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 15,
     "uikTvd": "4544001187024",
+    "uikName": "УИК №15",
     "tikTvd": "25420001560248",
-    "tikName": "Баганская "
+    "tikName": "Баганская ",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 16,
     "uikTvd": "4544001187025",
+    "uikName": "УИК №16",
     "tikTvd": "25420001560248",
-    "tikName": "Баганская "
+    "tikName": "Баганская ",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 17,
     "uikTvd": "4544001187026",
+    "uikName": "УИК №17",
     "tikTvd": "25420001560248",
-    "tikName": "Баганская "
+    "tikName": "Баганская ",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 18,
     "uikTvd": "4544001187027",
+    "uikName": "УИК №18",
     "tikTvd": "25420001560248",
-    "tikName": "Баганская "
+    "tikName": "Баганская ",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 19,
     "uikTvd": "4544001187028",
+    "uikName": "УИК №19",
     "tikTvd": "25420001560248",
-    "tikName": "Баганская "
+    "tikName": "Баганская ",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 20,
     "uikTvd": "4544001187029",
+    "uikName": "УИК №20",
     "tikTvd": "25420001560248",
-    "tikName": "Баганская "
+    "tikName": "Баганская ",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 21,
     "uikTvd": "4544001187030",
+    "uikName": "УИК №21",
     "tikTvd": "25420001560248",
-    "tikName": "Баганская "
+    "tikName": "Баганская ",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 22,
     "uikTvd": "4544001187031",
+    "uikName": "УИК №22",
     "tikTvd": "25420001560248",
-    "tikName": "Баганская "
+    "tikName": "Баганская ",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 23,
     "uikTvd": "4544001187032",
+    "uikName": "УИК №23",
     "tikTvd": "25420001560248",
-    "tikName": "Баганская "
+    "tikName": "Баганская ",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 24,
     "uikTvd": "4544001187033",
+    "uikName": "УИК №24",
     "tikTvd": "25420001560248",
-    "tikName": "Баганская "
+    "tikName": "Баганская ",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 25,
     "uikTvd": "4544001187034",
+    "uikName": "УИК №25",
     "tikTvd": "25420001560248",
-    "tikName": "Баганская "
+    "tikName": "Баганская ",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 26,
     "uikTvd": "4544001187035",
+    "uikName": "УИК №26",
     "tikTvd": "25420001560248",
-    "tikName": "Баганская "
+    "tikName": "Баганская ",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 27,
     "uikTvd": "4544001187036",
+    "uikName": "УИК №27",
     "tikTvd": "25420001560248",
-    "tikName": "Баганская "
+    "tikName": "Баганская ",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 28,
     "uikTvd": "4544001187037",
+    "uikName": "УИК №28",
     "tikTvd": "25420001560248",
-    "tikName": "Баганская "
+    "tikName": "Баганская ",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 29,
     "uikTvd": "4544001187038",
+    "uikName": "УИК №29",
     "tikTvd": "25420001560248",
-    "tikName": "Баганская "
+    "tikName": "Баганская ",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 30,
     "uikTvd": "4544001187039",
+    "uikName": "УИК №30",
     "tikTvd": "25420001560248",
-    "tikName": "Баганская "
+    "tikName": "Баганская ",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 31,
     "uikTvd": "4544001187040",
+    "uikName": "УИК №31",
     "tikTvd": "25420001560248",
-    "tikName": "Баганская "
+    "tikName": "Баганская ",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 32,
     "uikTvd": "4544001187041",
+    "uikName": "УИК №32",
     "tikTvd": "25420001560248",
-    "tikName": "Баганская "
+    "tikName": "Баганская ",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 33,
     "uikTvd": "4544001187042",
+    "uikName": "УИК №33",
     "tikTvd": "25420001560248",
-    "tikName": "Баганская "
+    "tikName": "Баганская ",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 34,
     "uikTvd": "4544001187043",
+    "uikName": "УИК №34",
     "tikTvd": "25420001560248",
-    "tikName": "Баганская "
+    "tikName": "Баганская ",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 35,
     "uikTvd": "4544001187044",
+    "uikName": "УИК №35",
     "tikTvd": "25420001560248",
-    "tikName": "Баганская "
+    "tikName": "Баганская ",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 36,
     "uikTvd": "4544001187045",
+    "uikName": "УИК №36",
     "tikTvd": "25420001560248",
-    "tikName": "Баганская "
+    "tikName": "Баганская ",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 37,
     "uikTvd": "4544001187046",
+    "uikName": "УИК №37",
     "tikTvd": "25420001560248",
-    "tikName": "Баганская "
+    "tikName": "Баганская ",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 38,
     "uikTvd": "4544001187047",
+    "uikName": "УИК №38",
     "tikTvd": "25420001560248",
-    "tikName": "Баганская "
+    "tikName": "Баганская ",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 39,
     "uikTvd": "4544001187048",
+    "uikName": "УИК №39",
     "tikTvd": "25420001560248",
-    "tikName": "Баганская "
+    "tikName": "Баганская ",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 40,
     "uikTvd": "4544001187049",
+    "uikName": "УИК №40",
     "tikTvd": "25420001560248",
-    "tikName": "Баганская "
+    "tikName": "Баганская ",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 41,
     "uikTvd": "4544001187050",
+    "uikName": "УИК №41",
     "tikTvd": "25420001560248",
-    "tikName": "Баганская "
+    "tikName": "Баганская ",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 42,
     "uikTvd": "4544001187051",
+    "uikName": "УИК №42",
     "tikTvd": "25420001560248",
-    "tikName": "Баганская "
+    "tikName": "Баганская ",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 43,
     "uikTvd": "4544002283851",
+    "uikName": "УИК №43",
     "tikTvd": "25420001560250",
-    "tikName": "Барабинская"
+    "tikName": "Барабинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 44,
     "uikTvd": "4544002283852",
+    "uikName": "УИК №44",
     "tikTvd": "25420001560250",
-    "tikName": "Барабинская"
+    "tikName": "Барабинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 45,
     "uikTvd": "4544002283853",
+    "uikName": "УИК №45",
     "tikTvd": "25420001560250",
-    "tikName": "Барабинская"
+    "tikName": "Барабинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 46,
     "uikTvd": "4544002283854",
+    "uikName": "УИК №46",
     "tikTvd": "25420001560250",
-    "tikName": "Барабинская"
+    "tikName": "Барабинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 47,
     "uikTvd": "4544002283855",
+    "uikName": "УИК №47",
     "tikTvd": "25420001560250",
-    "tikName": "Барабинская"
+    "tikName": "Барабинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 48,
     "uikTvd": "4544002283856",
+    "uikName": "УИК №48",
     "tikTvd": "25420001560250",
-    "tikName": "Барабинская"
+    "tikName": "Барабинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 49,
     "uikTvd": "4544002283857",
+    "uikName": "УИК №49",
     "tikTvd": "25420001560250",
-    "tikName": "Барабинская"
+    "tikName": "Барабинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 50,
     "uikTvd": "4544002283858",
+    "uikName": "УИК №50",
     "tikTvd": "25420001560250",
-    "tikName": "Барабинская"
+    "tikName": "Барабинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 51,
     "uikTvd": "4544002283859",
+    "uikName": "УИК №51",
     "tikTvd": "25420001560250",
-    "tikName": "Барабинская"
+    "tikName": "Барабинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 52,
     "uikTvd": "4544002283860",
+    "uikName": "УИК №52",
     "tikTvd": "25420001560250",
-    "tikName": "Барабинская"
+    "tikName": "Барабинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 53,
     "uikTvd": "4544002283861",
+    "uikName": "УИК №53",
     "tikTvd": "25420001560250",
-    "tikName": "Барабинская"
+    "tikName": "Барабинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 54,
     "uikTvd": "4544002283862",
+    "uikName": "УИК №54",
     "tikTvd": "25420001560250",
-    "tikName": "Барабинская"
+    "tikName": "Барабинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 55,
     "uikTvd": "4544002283863",
+    "uikName": "УИК №55",
     "tikTvd": "25420001560250",
-    "tikName": "Барабинская"
+    "tikName": "Барабинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 56,
     "uikTvd": "4544002283864",
+    "uikName": "УИК №56",
     "tikTvd": "25420001560250",
-    "tikName": "Барабинская"
+    "tikName": "Барабинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 57,
     "uikTvd": "4544002283865",
+    "uikName": "УИК №57",
     "tikTvd": "25420001560250",
-    "tikName": "Барабинская"
+    "tikName": "Барабинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 58,
     "uikTvd": "4544002283866",
+    "uikName": "УИК №58",
     "tikTvd": "25420001560250",
-    "tikName": "Барабинская"
+    "tikName": "Барабинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 59,
     "uikTvd": "4544002283867",
+    "uikName": "УИК №59",
     "tikTvd": "25420001560250",
-    "tikName": "Барабинская"
+    "tikName": "Барабинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 60,
     "uikTvd": "4544002283868",
+    "uikName": "УИК №60",
     "tikTvd": "25420001560250",
-    "tikName": "Барабинская"
+    "tikName": "Барабинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 61,
     "uikTvd": "4544002283869",
+    "uikName": "УИК №61",
     "tikTvd": "25420001560250",
-    "tikName": "Барабинская"
+    "tikName": "Барабинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 62,
     "uikTvd": "4544002283870",
+    "uikName": "УИК №62",
     "tikTvd": "25420001560250",
-    "tikName": "Барабинская"
+    "tikName": "Барабинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 63,
     "uikTvd": "4544002283871",
+    "uikName": "УИК №63",
     "tikTvd": "25420001560250",
-    "tikName": "Барабинская"
+    "tikName": "Барабинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 64,
     "uikTvd": "4544002283872",
+    "uikName": "УИК №64",
     "tikTvd": "25420001560250",
-    "tikName": "Барабинская"
+    "tikName": "Барабинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 65,
     "uikTvd": "4544002283873",
+    "uikName": "УИК №65",
     "tikTvd": "25420001560250",
-    "tikName": "Барабинская"
+    "tikName": "Барабинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 66,
     "uikTvd": "4544002283874",
+    "uikName": "УИК №66",
     "tikTvd": "25420001560250",
-    "tikName": "Барабинская"
+    "tikName": "Барабинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 67,
     "uikTvd": "4544002283875",
+    "uikName": "УИК №67",
     "tikTvd": "25420001560250",
-    "tikName": "Барабинская"
+    "tikName": "Барабинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 68,
     "uikTvd": "4544002283876",
+    "uikName": "УИК №68",
     "tikTvd": "25420001560250",
-    "tikName": "Барабинская"
+    "tikName": "Барабинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 70,
     "uikTvd": "4544002283877",
+    "uikName": "УИК №70",
     "tikTvd": "25420001560250",
-    "tikName": "Барабинская"
+    "tikName": "Барабинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 71,
     "uikTvd": "4544002283878",
+    "uikName": "УИК №71",
     "tikTvd": "25420001560250",
-    "tikName": "Барабинская"
+    "tikName": "Барабинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 72,
     "uikTvd": "4544002283879",
+    "uikName": "УИК №72",
     "tikTvd": "25420001560250",
-    "tikName": "Барабинская"
+    "tikName": "Барабинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 73,
     "uikTvd": "4544002283880",
+    "uikName": "УИК №73",
     "tikTvd": "25420001560250",
-    "tikName": "Барабинская"
+    "tikName": "Барабинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 74,
     "uikTvd": "4544002283881",
+    "uikName": "УИК №74",
     "tikTvd": "25420001560250",
-    "tikName": "Барабинская"
+    "tikName": "Барабинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 75,
     "uikTvd": "4544002283882",
+    "uikName": "УИК №75",
     "tikTvd": "25420001560250",
-    "tikName": "Барабинская"
+    "tikName": "Барабинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 76,
     "uikTvd": "4544002283883",
+    "uikName": "УИК №76",
     "tikTvd": "25420001560250",
-    "tikName": "Барабинская"
+    "tikName": "Барабинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 77,
     "uikTvd": "4544002283884",
+    "uikName": "УИК №77",
     "tikTvd": "25420001560250",
-    "tikName": "Барабинская"
+    "tikName": "Барабинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 78,
     "uikTvd": "4544002283885",
+    "uikName": "УИК №78",
     "tikTvd": "25420001560250",
-    "tikName": "Барабинская"
+    "tikName": "Барабинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 79,
     "uikTvd": "4544002283886",
+    "uikName": "УИК №79",
     "tikTvd": "25420001560250",
-    "tikName": "Барабинская"
+    "tikName": "Барабинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 80,
     "uikTvd": "4544002283887",
+    "uikName": "УИК №80",
     "tikTvd": "25420001560250",
-    "tikName": "Барабинская"
+    "tikName": "Барабинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 81,
     "uikTvd": "4544002283888",
+    "uikName": "УИК №81",
     "tikTvd": "25420001560250",
-    "tikName": "Барабинская"
+    "tikName": "Барабинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 82,
     "uikTvd": "4544002283889",
+    "uikName": "УИК №82",
     "tikTvd": "25420001560250",
-    "tikName": "Барабинская"
+    "tikName": "Барабинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 83,
     "uikTvd": "4544002283890",
+    "uikName": "УИК №83",
     "tikTvd": "25420001560250",
-    "tikName": "Барабинская"
+    "tikName": "Барабинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 84,
     "uikTvd": "4544002283891",
+    "uikName": "УИК №84",
     "tikTvd": "25420001560250",
-    "tikName": "Барабинская"
+    "tikName": "Барабинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 85,
     "uikTvd": "4544002283892",
+    "uikName": "УИК №85",
     "tikTvd": "25420001560250",
-    "tikName": "Барабинская"
+    "tikName": "Барабинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 86,
     "uikTvd": "4544002283893",
+    "uikName": "УИК №86",
     "tikTvd": "25420001560250",
-    "tikName": "Барабинская"
+    "tikName": "Барабинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 87,
     "uikTvd": "4544002283894",
+    "uikName": "УИК №87",
     "tikTvd": "25420001560250",
-    "tikName": "Барабинская"
+    "tikName": "Барабинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 88,
     "uikTvd": "4544002283895",
+    "uikName": "УИК №88",
     "tikTvd": "25420001560250",
-    "tikName": "Барабинская"
+    "tikName": "Барабинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 90,
     "uikTvd": "4544002283896",
+    "uikName": "УИК №90",
     "tikTvd": "25420001560250",
-    "tikName": "Барабинская"
+    "tikName": "Барабинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 91,
     "uikTvd": "4544002283897",
+    "uikName": "УИК №91",
     "tikTvd": "25420001560250",
-    "tikName": "Барабинская"
+    "tikName": "Барабинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 92,
     "uikTvd": "4544002283898",
+    "uikName": "УИК №92",
     "tikTvd": "25420001560250",
-    "tikName": "Барабинская"
+    "tikName": "Барабинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 93,
     "uikTvd": "4544002283899",
+    "uikName": "УИК №93",
     "tikTvd": "25420001560250",
-    "tikName": "Барабинская"
+    "tikName": "Барабинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 94,
     "uikTvd": "4544002283900",
+    "uikName": "УИК №94",
     "tikTvd": "25420001560250",
-    "tikName": "Барабинская"
+    "tikName": "Барабинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 96,
     "uikTvd": "4544002283901",
+    "uikName": "УИК №96",
     "tikTvd": "25420001560250",
-    "tikName": "Барабинская"
+    "tikName": "Барабинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 97,
     "uikTvd": "4544002283902",
+    "uikName": "УИК №97",
     "tikTvd": "25420001560250",
-    "tikName": "Барабинская"
+    "tikName": "Барабинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 98,
     "uikTvd": "4544002283903",
+    "uikName": "УИК №98",
     "tikTvd": "25420001560250",
-    "tikName": "Барабинская"
+    "tikName": "Барабинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 99,
     "uikTvd": "4544002283904",
+    "uikName": "УИК №99",
     "tikTvd": "25420001560250",
-    "tikName": "Барабинская"
+    "tikName": "Барабинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 100,
     "uikTvd": "4544002283905",
+    "uikName": "УИК №100",
     "tikTvd": "25420001560250",
-    "tikName": "Барабинская"
+    "tikName": "Барабинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 101,
     "uikTvd": "4544002283906",
+    "uikName": "УИК №101",
     "tikTvd": "25420001560250",
-    "tikName": "Барабинская"
+    "tikName": "Барабинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 102,
     "uikTvd": "4544002283907",
+    "uikName": "УИК №102",
     "tikTvd": "25420001560250",
-    "tikName": "Барабинская"
+    "tikName": "Барабинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 103,
     "uikTvd": "4544002283908",
+    "uikName": "УИК №103",
     "tikTvd": "25420001560250",
-    "tikName": "Барабинская"
+    "tikName": "Барабинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 104,
     "uikTvd": "4544002283909",
+    "uikName": "УИК №104",
     "tikTvd": "25420001560250",
-    "tikName": "Барабинская"
+    "tikName": "Барабинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 105,
     "uikTvd": "4544002283910",
+    "uikName": "УИК №105",
     "tikTvd": "25420001560250",
-    "tikName": "Барабинская"
+    "tikName": "Барабинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 106,
     "uikTvd": "4544002283911",
+    "uikName": "УИК №106",
     "tikTvd": "25420001560250",
-    "tikName": "Барабинская"
+    "tikName": "Барабинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 107,
     "uikTvd": "4544004289736",
+    "uikName": "УИК №107",
     "tikTvd": "25420001560255",
-    "tikName": "Болотнинская"
+    "tikName": "Болотнинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 108,
     "uikTvd": "4544004289737",
+    "uikName": "УИК №108",
     "tikTvd": "25420001560255",
-    "tikName": "Болотнинская"
+    "tikName": "Болотнинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 109,
     "uikTvd": "4544004289738",
+    "uikName": "УИК №109",
     "tikTvd": "25420001560255",
-    "tikName": "Болотнинская"
+    "tikName": "Болотнинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 110,
     "uikTvd": "4544004289739",
+    "uikName": "УИК №110",
     "tikTvd": "25420001560255",
-    "tikName": "Болотнинская"
+    "tikName": "Болотнинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 111,
     "uikTvd": "4544004289740",
+    "uikName": "УИК №111",
     "tikTvd": "25420001560255",
-    "tikName": "Болотнинская"
+    "tikName": "Болотнинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 112,
     "uikTvd": "4544004289741",
+    "uikName": "УИК №112",
     "tikTvd": "25420001560255",
-    "tikName": "Болотнинская"
+    "tikName": "Болотнинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 113,
     "uikTvd": "4544004289742",
+    "uikName": "УИК №113",
     "tikTvd": "25420001560255",
-    "tikName": "Болотнинская"
+    "tikName": "Болотнинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 114,
     "uikTvd": "4544004289743",
+    "uikName": "УИК №114",
     "tikTvd": "25420001560255",
-    "tikName": "Болотнинская"
+    "tikName": "Болотнинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 115,
     "uikTvd": "4544004289744",
+    "uikName": "УИК №115",
     "tikTvd": "25420001560255",
-    "tikName": "Болотнинская"
+    "tikName": "Болотнинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 116,
     "uikTvd": "4544004289745",
+    "uikName": "УИК №116",
     "tikTvd": "25420001560255",
-    "tikName": "Болотнинская"
+    "tikName": "Болотнинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 117,
     "uikTvd": "4544004289746",
+    "uikName": "УИК №117",
     "tikTvd": "25420001560255",
-    "tikName": "Болотнинская"
+    "tikName": "Болотнинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 118,
     "uikTvd": "4544004289747",
+    "uikName": "УИК №118",
     "tikTvd": "25420001560255",
-    "tikName": "Болотнинская"
+    "tikName": "Болотнинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 119,
     "uikTvd": "4544004289748",
+    "uikName": "УИК №119",
     "tikTvd": "25420001560255",
-    "tikName": "Болотнинская"
+    "tikName": "Болотнинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 120,
     "uikTvd": "4544004289749",
+    "uikName": "УИК №120",
     "tikTvd": "25420001560255",
-    "tikName": "Болотнинская"
+    "tikName": "Болотнинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 121,
     "uikTvd": "4544004289750",
+    "uikName": "УИК №121",
     "tikTvd": "25420001560255",
-    "tikName": "Болотнинская"
+    "tikName": "Болотнинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 122,
     "uikTvd": "4544004289751",
+    "uikName": "УИК №122",
     "tikTvd": "25420001560255",
-    "tikName": "Болотнинская"
+    "tikName": "Болотнинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 123,
     "uikTvd": "4544004289752",
+    "uikName": "УИК №123",
     "tikTvd": "25420001560255",
-    "tikName": "Болотнинская"
+    "tikName": "Болотнинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 124,
     "uikTvd": "4544004289753",
+    "uikName": "УИК №124",
     "tikTvd": "25420001560255",
-    "tikName": "Болотнинская"
+    "tikName": "Болотнинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 125,
     "uikTvd": "4544004289754",
+    "uikName": "УИК №125",
     "tikTvd": "25420001560255",
-    "tikName": "Болотнинская"
+    "tikName": "Болотнинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 126,
     "uikTvd": "4544004289755",
+    "uikName": "УИК №126",
     "tikTvd": "25420001560255",
-    "tikName": "Болотнинская"
+    "tikName": "Болотнинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 128,
     "uikTvd": "4544004289756",
+    "uikName": "УИК №128",
     "tikTvd": "25420001560255",
-    "tikName": "Болотнинская"
+    "tikName": "Болотнинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 129,
     "uikTvd": "4544004289757",
+    "uikName": "УИК №129",
     "tikTvd": "25420001560255",
-    "tikName": "Болотнинская"
+    "tikName": "Болотнинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 130,
     "uikTvd": "4544004289758",
+    "uikName": "УИК №130",
     "tikTvd": "25420001560255",
-    "tikName": "Болотнинская"
+    "tikName": "Болотнинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 131,
     "uikTvd": "4544004289759",
+    "uikName": "УИК №131",
     "tikTvd": "25420001560255",
-    "tikName": "Болотнинская"
+    "tikName": "Болотнинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 132,
     "uikTvd": "4544004289760",
+    "uikName": "УИК №132",
     "tikTvd": "25420001560255",
-    "tikName": "Болотнинская"
+    "tikName": "Болотнинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 133,
     "uikTvd": "4544004289761",
+    "uikName": "УИК №133",
     "tikTvd": "25420001560255",
-    "tikName": "Болотнинская"
+    "tikName": "Болотнинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 134,
     "uikTvd": "4544004289762",
+    "uikName": "УИК №134",
     "tikTvd": "25420001560255",
-    "tikName": "Болотнинская"
+    "tikName": "Болотнинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 135,
     "uikTvd": "4544004289763",
+    "uikName": "УИК №135",
     "tikTvd": "25420001560255",
-    "tikName": "Болотнинская"
+    "tikName": "Болотнинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 136,
     "uikTvd": "4544004289764",
+    "uikName": "УИК №136",
     "tikTvd": "25420001560255",
-    "tikName": "Болотнинская"
+    "tikName": "Болотнинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 137,
     "uikTvd": "4544004289765",
+    "uikName": "УИК №137",
     "tikTvd": "25420001560255",
-    "tikName": "Болотнинская"
+    "tikName": "Болотнинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 138,
     "uikTvd": "4544004289766",
+    "uikName": "УИК №138",
     "tikTvd": "25420001560255",
-    "tikName": "Болотнинская"
+    "tikName": "Болотнинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 139,
     "uikTvd": "4544004289767",
+    "uikName": "УИК №139",
     "tikTvd": "25420001560255",
-    "tikName": "Болотнинская"
+    "tikName": "Болотнинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 140,
     "uikTvd": "4544004289768",
+    "uikName": "УИК №140",
     "tikTvd": "25420001560255",
-    "tikName": "Болотнинская"
+    "tikName": "Болотнинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 141,
     "uikTvd": "4544004289769",
+    "uikName": "УИК №141",
     "tikTvd": "25420001560255",
-    "tikName": "Болотнинская"
+    "tikName": "Болотнинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 142,
     "uikTvd": "4544004289770",
+    "uikName": "УИК №142",
     "tikTvd": "25420001560255",
-    "tikName": "Болотнинская"
+    "tikName": "Болотнинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 143,
     "uikTvd": "4544004289771",
+    "uikName": "УИК №143",
     "tikTvd": "25420001560255",
-    "tikName": "Болотнинская"
+    "tikName": "Болотнинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 144,
     "uikTvd": "4544004289772",
+    "uikName": "УИК №144",
     "tikTvd": "25420001560255",
-    "tikName": "Болотнинская"
+    "tikName": "Болотнинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 145,
     "uikTvd": "4544004289773",
+    "uikName": "УИК №145",
     "tikTvd": "25420001560255",
-    "tikName": "Болотнинская"
+    "tikName": "Болотнинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 146,
     "uikTvd": "4544005179538",
+    "uikName": "УИК №146",
     "tikTvd": "25420001560275",
-    "tikName": "Венгеровская"
+    "tikName": "Венгеровская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 147,
     "uikTvd": "4544005179539",
+    "uikName": "УИК №147",
     "tikTvd": "25420001560275",
-    "tikName": "Венгеровская"
+    "tikName": "Венгеровская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 148,
     "uikTvd": "4544005179540",
+    "uikName": "УИК №148",
     "tikTvd": "25420001560275",
-    "tikName": "Венгеровская"
+    "tikName": "Венгеровская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 149,
     "uikTvd": "4544005179541",
+    "uikName": "УИК №149",
     "tikTvd": "25420001560275",
-    "tikName": "Венгеровская"
+    "tikName": "Венгеровская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 150,
     "uikTvd": "4544005179542",
+    "uikName": "УИК №150",
     "tikTvd": "25420001560275",
-    "tikName": "Венгеровская"
+    "tikName": "Венгеровская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 151,
     "uikTvd": "4544005179543",
+    "uikName": "УИК №151",
     "tikTvd": "25420001560275",
-    "tikName": "Венгеровская"
+    "tikName": "Венгеровская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 152,
     "uikTvd": "4544005179544",
+    "uikName": "УИК №152",
     "tikTvd": "25420001560275",
-    "tikName": "Венгеровская"
+    "tikName": "Венгеровская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 153,
     "uikTvd": "4544005179545",
+    "uikName": "УИК №153",
     "tikTvd": "25420001560275",
-    "tikName": "Венгеровская"
+    "tikName": "Венгеровская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 154,
     "uikTvd": "4544005179546",
+    "uikName": "УИК №154",
     "tikTvd": "25420001560275",
-    "tikName": "Венгеровская"
+    "tikName": "Венгеровская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 155,
     "uikTvd": "4544005179547",
+    "uikName": "УИК №155",
     "tikTvd": "25420001560275",
-    "tikName": "Венгеровская"
+    "tikName": "Венгеровская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 156,
     "uikTvd": "4544005179548",
+    "uikName": "УИК №156",
     "tikTvd": "25420001560275",
-    "tikName": "Венгеровская"
+    "tikName": "Венгеровская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 157,
     "uikTvd": "4544005179549",
+    "uikName": "УИК №157",
     "tikTvd": "25420001560275",
-    "tikName": "Венгеровская"
+    "tikName": "Венгеровская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 158,
     "uikTvd": "4544005179550",
+    "uikName": "УИК №158",
     "tikTvd": "25420001560275",
-    "tikName": "Венгеровская"
+    "tikName": "Венгеровская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 159,
     "uikTvd": "4544005179551",
+    "uikName": "УИК №159",
     "tikTvd": "25420001560275",
-    "tikName": "Венгеровская"
+    "tikName": "Венгеровская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 160,
     "uikTvd": "4544005179552",
+    "uikName": "УИК №160",
     "tikTvd": "25420001560275",
-    "tikName": "Венгеровская"
+    "tikName": "Венгеровская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 161,
     "uikTvd": "4544005179553",
+    "uikName": "УИК №161",
     "tikTvd": "25420001560275",
-    "tikName": "Венгеровская"
+    "tikName": "Венгеровская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 162,
     "uikTvd": "4544005179554",
+    "uikName": "УИК №162",
     "tikTvd": "25420001560275",
-    "tikName": "Венгеровская"
+    "tikName": "Венгеровская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 163,
     "uikTvd": "4544005179555",
+    "uikName": "УИК №163",
     "tikTvd": "25420001560275",
-    "tikName": "Венгеровская"
+    "tikName": "Венгеровская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 164,
     "uikTvd": "4544005179556",
+    "uikName": "УИК №164",
     "tikTvd": "25420001560275",
-    "tikName": "Венгеровская"
+    "tikName": "Венгеровская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 165,
     "uikTvd": "4544005179557",
+    "uikName": "УИК №165",
     "tikTvd": "25420001560275",
-    "tikName": "Венгеровская"
+    "tikName": "Венгеровская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 166,
     "uikTvd": "4544005179558",
+    "uikName": "УИК №166",
     "tikTvd": "25420001560275",
-    "tikName": "Венгеровская"
+    "tikName": "Венгеровская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 167,
     "uikTvd": "4544005179559",
+    "uikName": "УИК №167",
     "tikTvd": "25420001560275",
-    "tikName": "Венгеровская"
+    "tikName": "Венгеровская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 168,
     "uikTvd": "4544005179560",
+    "uikName": "УИК №168",
     "tikTvd": "25420001560275",
-    "tikName": "Венгеровская"
+    "tikName": "Венгеровская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 169,
     "uikTvd": "4544005179561",
+    "uikName": "УИК №169",
     "tikTvd": "25420001560275",
-    "tikName": "Венгеровская"
+    "tikName": "Венгеровская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 170,
     "uikTvd": "4544005179562",
+    "uikName": "УИК №170",
     "tikTvd": "25420001560275",
-    "tikName": "Венгеровская"
+    "tikName": "Венгеровская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 171,
     "uikTvd": "4544005179563",
+    "uikName": "УИК №171",
     "tikTvd": "25420001560275",
-    "tikName": "Венгеровская"
+    "tikName": "Венгеровская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 172,
     "uikTvd": "4544005179564",
+    "uikName": "УИК №172",
     "tikTvd": "25420001560275",
-    "tikName": "Венгеровская"
+    "tikName": "Венгеровская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 173,
     "uikTvd": "4544005179565",
+    "uikName": "УИК №173",
     "tikTvd": "25420001560275",
-    "tikName": "Венгеровская"
+    "tikName": "Венгеровская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 174,
     "uikTvd": "4544005179566",
+    "uikName": "УИК №174",
     "tikTvd": "25420001560275",
-    "tikName": "Венгеровская"
+    "tikName": "Венгеровская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 175,
     "uikTvd": "4544005179567",
+    "uikName": "УИК №175",
     "tikTvd": "25420001560275",
-    "tikName": "Венгеровская"
+    "tikName": "Венгеровская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 176,
     "uikTvd": "4544005179568",
+    "uikName": "УИК №176",
     "tikTvd": "25420001560275",
-    "tikName": "Венгеровская"
+    "tikName": "Венгеровская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 177,
     "uikTvd": "4544005179569",
+    "uikName": "УИК №177",
     "tikTvd": "25420001560275",
-    "tikName": "Венгеровская"
+    "tikName": "Венгеровская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 178,
     "uikTvd": "4544005179570",
+    "uikName": "УИК №178",
     "tikTvd": "25420001560275",
-    "tikName": "Венгеровская"
+    "tikName": "Венгеровская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 179,
     "uikTvd": "4544005179571",
+    "uikName": "УИК №179",
     "tikTvd": "25420001560275",
-    "tikName": "Венгеровская"
+    "tikName": "Венгеровская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 180,
     "uikTvd": "4544005179572",
+    "uikName": "УИК №180",
     "tikTvd": "25420001560275",
-    "tikName": "Венгеровская"
+    "tikName": "Венгеровская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 181,
     "uikTvd": "4544005179573",
+    "uikName": "УИК №181",
     "tikTvd": "25420001560275",
-    "tikName": "Венгеровская"
+    "tikName": "Венгеровская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 182,
     "uikTvd": "4544005179574",
+    "uikName": "УИК №182",
     "tikTvd": "25420001560275",
-    "tikName": "Венгеровская"
+    "tikName": "Венгеровская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 183,
     "uikTvd": "4544005179575",
+    "uikName": "УИК №183",
     "tikTvd": "25420001560275",
-    "tikName": "Венгеровская"
+    "tikName": "Венгеровская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 184,
     "uikTvd": "4544005179576",
+    "uikName": "УИК №184",
     "tikTvd": "25420001560275",
-    "tikName": "Венгеровская"
+    "tikName": "Венгеровская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 185,
     "uikTvd": "4544005179577",
+    "uikName": "УИК №185",
     "tikTvd": "25420001560275",
-    "tikName": "Венгеровская"
+    "tikName": "Венгеровская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 186,
     "uikTvd": "4544005179578",
+    "uikName": "УИК №186",
     "tikTvd": "25420001560275",
-    "tikName": "Венгеровская"
+    "tikName": "Венгеровская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 187,
     "uikTvd": "4544006178594",
+    "uikName": "УИК №187",
     "tikTvd": "25420001560262",
-    "tikName": "Доволенская"
+    "tikName": "Доволенская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 188,
     "uikTvd": "4544006178595",
+    "uikName": "УИК №188",
     "tikTvd": "25420001560262",
-    "tikName": "Доволенская"
+    "tikName": "Доволенская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 189,
     "uikTvd": "4544006178596",
+    "uikName": "УИК №189",
     "tikTvd": "25420001560262",
-    "tikName": "Доволенская"
+    "tikName": "Доволенская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 190,
     "uikTvd": "4544006178597",
+    "uikName": "УИК №190",
     "tikTvd": "25420001560262",
-    "tikName": "Доволенская"
+    "tikName": "Доволенская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 191,
     "uikTvd": "4544006178598",
+    "uikName": "УИК №191",
     "tikTvd": "25420001560262",
-    "tikName": "Доволенская"
+    "tikName": "Доволенская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 192,
     "uikTvd": "4544006178599",
+    "uikName": "УИК №192",
     "tikTvd": "25420001560262",
-    "tikName": "Доволенская"
+    "tikName": "Доволенская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 193,
     "uikTvd": "4544006178600",
+    "uikName": "УИК №193",
     "tikTvd": "25420001560262",
-    "tikName": "Доволенская"
+    "tikName": "Доволенская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 194,
     "uikTvd": "4544006178601",
+    "uikName": "УИК №194",
     "tikTvd": "25420001560262",
-    "tikName": "Доволенская"
+    "tikName": "Доволенская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 195,
     "uikTvd": "4544006178602",
+    "uikName": "УИК №195",
     "tikTvd": "25420001560262",
-    "tikName": "Доволенская"
+    "tikName": "Доволенская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 196,
     "uikTvd": "4544006178603",
+    "uikName": "УИК №196",
     "tikTvd": "25420001560262",
-    "tikName": "Доволенская"
+    "tikName": "Доволенская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 197,
     "uikTvd": "4544006178604",
+    "uikName": "УИК №197",
     "tikTvd": "25420001560262",
-    "tikName": "Доволенская"
+    "tikName": "Доволенская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 198,
     "uikTvd": "4544006178605",
+    "uikName": "УИК №198",
     "tikTvd": "25420001560262",
-    "tikName": "Доволенская"
+    "tikName": "Доволенская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 199,
     "uikTvd": "4544006178606",
+    "uikName": "УИК №199",
     "tikTvd": "25420001560262",
-    "tikName": "Доволенская"
+    "tikName": "Доволенская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 200,
     "uikTvd": "4544006178607",
+    "uikName": "УИК №200",
     "tikTvd": "25420001560262",
-    "tikName": "Доволенская"
+    "tikName": "Доволенская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 201,
     "uikTvd": "4544006178608",
+    "uikName": "УИК №201",
     "tikTvd": "25420001560262",
-    "tikName": "Доволенская"
+    "tikName": "Доволенская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 202,
     "uikTvd": "4544006178609",
+    "uikName": "УИК №202",
     "tikTvd": "25420001560262",
-    "tikName": "Доволенская"
+    "tikName": "Доволенская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 203,
     "uikTvd": "4544006178610",
+    "uikName": "УИК №203",
     "tikTvd": "25420001560262",
-    "tikName": "Доволенская"
+    "tikName": "Доволенская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 204,
     "uikTvd": "4544006178611",
+    "uikName": "УИК №204",
     "tikTvd": "25420001560262",
-    "tikName": "Доволенская"
+    "tikName": "Доволенская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 205,
     "uikTvd": "4544006178612",
+    "uikName": "УИК №205",
     "tikTvd": "25420001560262",
-    "tikName": "Доволенская"
+    "tikName": "Доволенская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 206,
     "uikTvd": "4544006178613",
+    "uikName": "УИК №206",
     "tikTvd": "25420001560262",
-    "tikName": "Доволенская"
+    "tikName": "Доволенская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 207,
     "uikTvd": "4544006178614",
+    "uikName": "УИК №207",
     "tikTvd": "25420001560262",
-    "tikName": "Доволенская"
+    "tikName": "Доволенская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 208,
     "uikTvd": "4544006178615",
+    "uikName": "УИК №208",
     "tikTvd": "25420001560262",
-    "tikName": "Доволенская"
+    "tikName": "Доволенская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 209,
     "uikTvd": "4544006178616",
+    "uikName": "УИК №209",
     "tikTvd": "25420001560262",
-    "tikName": "Доволенская"
+    "tikName": "Доволенская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 210,
     "uikTvd": "4544006178617",
+    "uikName": "УИК №210",
     "tikTvd": "25420001560262",
-    "tikName": "Доволенская"
+    "tikName": "Доволенская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 211,
     "uikTvd": "4544006178618",
+    "uikName": "УИК №211",
     "tikTvd": "25420001560262",
-    "tikName": "Доволенская"
+    "tikName": "Доволенская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 212,
     "uikTvd": "4544006178619",
+    "uikName": "УИК №212",
     "tikTvd": "25420001560262",
-    "tikName": "Доволенская"
+    "tikName": "Доволенская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 213,
     "uikTvd": "4544006178620",
+    "uikName": "УИК №213",
     "tikTvd": "25420001560262",
-    "tikName": "Доволенская"
+    "tikName": "Доволенская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 214,
     "uikTvd": "4544006178621",
+    "uikName": "УИК №214",
     "tikTvd": "25420001560262",
-    "tikName": "Доволенская"
+    "tikName": "Доволенская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 215,
     "uikTvd": "4544007221159",
+    "uikName": "УИК №215",
     "tikTvd": "25420001560257",
-    "tikName": "Здвинская"
+    "tikName": "Здвинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 216,
     "uikTvd": "4544007221160",
+    "uikName": "УИК №216",
     "tikTvd": "25420001560257",
-    "tikName": "Здвинская"
+    "tikName": "Здвинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 217,
     "uikTvd": "4544007221161",
+    "uikName": "УИК №217",
     "tikTvd": "25420001560257",
-    "tikName": "Здвинская"
+    "tikName": "Здвинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 218,
     "uikTvd": "4544007221162",
+    "uikName": "УИК №218",
     "tikTvd": "25420001560257",
-    "tikName": "Здвинская"
+    "tikName": "Здвинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 219,
     "uikTvd": "4544007221163",
+    "uikName": "УИК №219",
     "tikTvd": "25420001560257",
-    "tikName": "Здвинская"
+    "tikName": "Здвинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 220,
     "uikTvd": "4544007221164",
+    "uikName": "УИК №220",
     "tikTvd": "25420001560257",
-    "tikName": "Здвинская"
+    "tikName": "Здвинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 221,
     "uikTvd": "4544007221165",
+    "uikName": "УИК №221",
     "tikTvd": "25420001560257",
-    "tikName": "Здвинская"
+    "tikName": "Здвинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 222,
     "uikTvd": "4544007221166",
+    "uikName": "УИК №222",
     "tikTvd": "25420001560257",
-    "tikName": "Здвинская"
+    "tikName": "Здвинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 223,
     "uikTvd": "4544007221167",
+    "uikName": "УИК №223",
     "tikTvd": "25420001560257",
-    "tikName": "Здвинская"
+    "tikName": "Здвинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 224,
     "uikTvd": "4544007221168",
+    "uikName": "УИК №224",
     "tikTvd": "25420001560257",
-    "tikName": "Здвинская"
+    "tikName": "Здвинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 225,
     "uikTvd": "4544007221169",
+    "uikName": "УИК №225",
     "tikTvd": "25420001560257",
-    "tikName": "Здвинская"
+    "tikName": "Здвинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 226,
     "uikTvd": "4544007221170",
+    "uikName": "УИК №226",
     "tikTvd": "25420001560257",
-    "tikName": "Здвинская"
+    "tikName": "Здвинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 227,
     "uikTvd": "4544007221171",
+    "uikName": "УИК №227",
     "tikTvd": "25420001560257",
-    "tikName": "Здвинская"
+    "tikName": "Здвинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 228,
     "uikTvd": "4544007221172",
+    "uikName": "УИК №228",
     "tikTvd": "25420001560257",
-    "tikName": "Здвинская"
+    "tikName": "Здвинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 229,
     "uikTvd": "4544007221173",
+    "uikName": "УИК №229",
     "tikTvd": "25420001560257",
-    "tikName": "Здвинская"
+    "tikName": "Здвинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 230,
     "uikTvd": "4544007221174",
+    "uikName": "УИК №230",
     "tikTvd": "25420001560257",
-    "tikName": "Здвинская"
+    "tikName": "Здвинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 231,
     "uikTvd": "4544007221175",
+    "uikName": "УИК №231",
     "tikTvd": "25420001560257",
-    "tikName": "Здвинская"
+    "tikName": "Здвинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 232,
     "uikTvd": "4544007221176",
+    "uikName": "УИК №232",
     "tikTvd": "25420001560257",
-    "tikName": "Здвинская"
+    "tikName": "Здвинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 233,
     "uikTvd": "4544007221177",
+    "uikName": "УИК №233",
     "tikTvd": "25420001560257",
-    "tikName": "Здвинская"
+    "tikName": "Здвинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 234,
     "uikTvd": "4544007221178",
+    "uikName": "УИК №234",
     "tikTvd": "25420001560257",
-    "tikName": "Здвинская"
+    "tikName": "Здвинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 235,
     "uikTvd": "4544007221179",
+    "uikName": "УИК №235",
     "tikTvd": "25420001560257",
-    "tikName": "Здвинская"
+    "tikName": "Здвинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 236,
     "uikTvd": "4544007221180",
+    "uikName": "УИК №236",
     "tikTvd": "25420001560257",
-    "tikName": "Здвинская"
+    "tikName": "Здвинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 237,
     "uikTvd": "4544007221181",
+    "uikName": "УИК №237",
     "tikTvd": "25420001560257",
-    "tikName": "Здвинская"
+    "tikName": "Здвинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 238,
     "uikTvd": "4544007221182",
+    "uikName": "УИК №238",
     "tikTvd": "25420001560257",
-    "tikName": "Здвинская"
+    "tikName": "Здвинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 239,
     "uikTvd": "4544007221183",
+    "uikName": "УИК №239",
     "tikTvd": "25420001560257",
-    "tikName": "Здвинская"
+    "tikName": "Здвинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 240,
     "uikTvd": "4544007221184",
+    "uikName": "УИК №240",
     "tikTvd": "25420001560257",
-    "tikName": "Здвинская"
+    "tikName": "Здвинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 241,
     "uikTvd": "4544007221185",
+    "uikName": "УИК №241",
     "tikTvd": "25420001560257",
-    "tikName": "Здвинская"
+    "tikName": "Здвинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 242,
     "uikTvd": "4544007221186",
+    "uikName": "УИК №242",
     "tikTvd": "25420001560257",
-    "tikName": "Здвинская"
+    "tikName": "Здвинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 243,
     "uikTvd": "4544007221187",
+    "uikName": "УИК №243",
     "tikTvd": "25420001560257",
-    "tikName": "Здвинская"
+    "tikName": "Здвинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 244,
     "uikTvd": "4544009284360",
+    "uikName": "УИК №244",
     "tikTvd": "25420001560267",
-    "tikName": "Искитимская"
+    "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 245,
     "uikTvd": "4544009284361",
+    "uikName": "УИК №245",
     "tikTvd": "25420001560267",
-    "tikName": "Искитимская"
+    "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 246,
     "uikTvd": "4544009284362",
+    "uikName": "УИК №246",
     "tikTvd": "25420001560267",
-    "tikName": "Искитимская"
+    "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 247,
     "uikTvd": "4544009284363",
+    "uikName": "УИК №247",
     "tikTvd": "25420001560267",
-    "tikName": "Искитимская"
+    "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 248,
     "uikTvd": "4544009284364",
+    "uikName": "УИК №248",
     "tikTvd": "25420001560267",
-    "tikName": "Искитимская"
+    "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 249,
     "uikTvd": "4544009284365",
+    "uikName": "УИК №249",
     "tikTvd": "25420001560267",
-    "tikName": "Искитимская"
+    "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 250,
     "uikTvd": "4544009284366",
+    "uikName": "УИК №250",
     "tikTvd": "25420001560267",
-    "tikName": "Искитимская"
+    "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 251,
     "uikTvd": "4544009284367",
+    "uikName": "УИК №251",
     "tikTvd": "25420001560267",
-    "tikName": "Искитимская"
+    "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 252,
     "uikTvd": "4544009284368",
+    "uikName": "УИК №252",
     "tikTvd": "25420001560267",
-    "tikName": "Искитимская"
+    "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 253,
     "uikTvd": "4544009284369",
+    "uikName": "УИК №253",
     "tikTvd": "25420001560267",
-    "tikName": "Искитимская"
+    "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 254,
     "uikTvd": "4544009284370",
+    "uikName": "УИК №254",
     "tikTvd": "25420001560267",
-    "tikName": "Искитимская"
+    "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 255,
     "uikTvd": "4544009284371",
+    "uikName": "УИК №255",
     "tikTvd": "25420001560267",
-    "tikName": "Искитимская"
+    "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 256,
     "uikTvd": "4544009284372",
+    "uikName": "УИК №256",
     "tikTvd": "25420001560267",
-    "tikName": "Искитимская"
+    "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 257,
     "uikTvd": "4544009284373",
+    "uikName": "УИК №257",
     "tikTvd": "25420001560267",
-    "tikName": "Искитимская"
+    "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 258,
     "uikTvd": "4544009284374",
+    "uikName": "УИК №258",
     "tikTvd": "25420001560267",
-    "tikName": "Искитимская"
+    "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 259,
     "uikTvd": "4544009284375",
+    "uikName": "УИК №259",
     "tikTvd": "25420001560267",
-    "tikName": "Искитимская"
+    "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 260,
     "uikTvd": "4544009284376",
+    "uikName": "УИК №260",
     "tikTvd": "25420001560267",
-    "tikName": "Искитимская"
+    "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 261,
     "uikTvd": "4544009284377",
+    "uikName": "УИК №261",
     "tikTvd": "25420001560267",
-    "tikName": "Искитимская"
+    "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 262,
     "uikTvd": "4544009284378",
+    "uikName": "УИК №262",
     "tikTvd": "25420001560267",
-    "tikName": "Искитимская"
+    "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 263,
     "uikTvd": "4544009284379",
+    "uikName": "УИК №263",
     "tikTvd": "25420001560267",
-    "tikName": "Искитимская"
+    "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 264,
     "uikTvd": "4544009284380",
+    "uikName": "УИК №264",
     "tikTvd": "25420001560267",
-    "tikName": "Искитимская"
+    "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 265,
     "uikTvd": "4544009284381",
+    "uikName": "УИК №265",
     "tikTvd": "25420001560267",
-    "tikName": "Искитимская"
+    "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 266,
     "uikTvd": "4544009284382",
+    "uikName": "УИК №266",
     "tikTvd": "25420001560267",
-    "tikName": "Искитимская"
+    "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 267,
     "uikTvd": "4544009284383",
+    "uikName": "УИК №267",
     "tikTvd": "25420001560267",
-    "tikName": "Искитимская"
+    "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 268,
     "uikTvd": "4544009284384",
+    "uikName": "УИК №268",
     "tikTvd": "25420001560267",
-    "tikName": "Искитимская"
+    "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 269,
     "uikTvd": "4544009284385",
+    "uikName": "УИК №269",
     "tikTvd": "25420001560267",
-    "tikName": "Искитимская"
+    "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 270,
     "uikTvd": "4544009284386",
+    "uikName": "УИК №270",
     "tikTvd": "25420001560267",
-    "tikName": "Искитимская"
+    "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 271,
     "uikTvd": "4544009284387",
+    "uikName": "УИК №271",
     "tikTvd": "25420001560267",
-    "tikName": "Искитимская"
+    "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 272,
     "uikTvd": "4544009284388",
+    "uikName": "УИК №272",
     "tikTvd": "25420001560267",
-    "tikName": "Искитимская"
+    "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 273,
     "uikTvd": "4544009284389",
+    "uikName": "УИК №273",
     "tikTvd": "25420001560267",
-    "tikName": "Искитимская"
+    "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 274,
     "uikTvd": "4544009284390",
+    "uikName": "УИК №274",
     "tikTvd": "25420001560267",
-    "tikName": "Искитимская"
+    "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 275,
     "uikTvd": "4544009284391",
+    "uikName": "УИК №275",
     "tikTvd": "25420001560267",
-    "tikName": "Искитимская"
+    "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 276,
     "uikTvd": "4544009284392",
+    "uikName": "УИК №276",
     "tikTvd": "25420001560267",
-    "tikName": "Искитимская"
+    "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 277,
     "uikTvd": "4544009284393",
+    "uikName": "УИК №277",
     "tikTvd": "25420001560267",
-    "tikName": "Искитимская"
+    "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 278,
     "uikTvd": "4544009284394",
+    "uikName": "УИК №278",
     "tikTvd": "25420001560267",
-    "tikName": "Искитимская"
+    "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 279,
     "uikTvd": "4544009284395",
+    "uikName": "УИК №279",
     "tikTvd": "25420001560267",
-    "tikName": "Искитимская"
+    "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 280,
     "uikTvd": "4544009284396",
+    "uikName": "УИК №280",
     "tikTvd": "25420001560267",
-    "tikName": "Искитимская"
+    "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 281,
     "uikTvd": "4544009284397",
+    "uikName": "УИК №281",
     "tikTvd": "25420001560267",
-    "tikName": "Искитимская"
+    "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 282,
     "uikTvd": "4544009284398",
+    "uikName": "УИК №282",
     "tikTvd": "25420001560267",
-    "tikName": "Искитимская"
+    "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 283,
     "uikTvd": "4544009284399",
+    "uikName": "УИК №283",
     "tikTvd": "25420001560267",
-    "tikName": "Искитимская"
+    "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 284,
     "uikTvd": "4544009284400",
+    "uikName": "УИК №284",
     "tikTvd": "25420001560267",
-    "tikName": "Искитимская"
+    "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 285,
     "uikTvd": "4544009284401",
+    "uikName": "УИК №285",
     "tikTvd": "25420001560267",
-    "tikName": "Искитимская"
+    "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 286,
     "uikTvd": "4544009284402",
+    "uikName": "УИК №286",
     "tikTvd": "25420001560267",
-    "tikName": "Искитимская"
+    "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 287,
     "uikTvd": "4544009284403",
+    "uikName": "УИК №287",
     "tikTvd": "25420001560267",
-    "tikName": "Искитимская"
+    "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 288,
     "uikTvd": "4544009284404",
+    "uikName": "УИК №288",
     "tikTvd": "25420001560267",
-    "tikName": "Искитимская"
+    "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 289,
     "uikTvd": "4544009284405",
+    "uikName": "УИК №289",
     "tikTvd": "25420001560267",
-    "tikName": "Искитимская"
+    "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 290,
     "uikTvd": "4544009284406",
+    "uikName": "УИК №290",
     "tikTvd": "25420001560267",
-    "tikName": "Искитимская"
+    "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 291,
     "uikTvd": "4544009284407",
+    "uikName": "УИК №291",
     "tikTvd": "25420001560267",
-    "tikName": "Искитимская"
+    "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 292,
     "uikTvd": "4544009284408",
+    "uikName": "УИК №292",
     "tikTvd": "25420001560267",
-    "tikName": "Искитимская"
+    "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 293,
     "uikTvd": "4544009284409",
+    "uikName": "УИК №293",
     "tikTvd": "25420001560267",
-    "tikName": "Искитимская"
+    "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 294,
     "uikTvd": "4544009284410",
+    "uikName": "УИК №294",
     "tikTvd": "25420001560267",
-    "tikName": "Искитимская"
+    "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 295,
     "uikTvd": "4544009284411",
+    "uikName": "УИК №295",
     "tikTvd": "25420001560267",
-    "tikName": "Искитимская"
+    "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 296,
     "uikTvd": "4544009284412",
+    "uikName": "УИК №296",
     "tikTvd": "25420001560267",
-    "tikName": "Искитимская"
+    "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 297,
     "uikTvd": "4544009284413",
+    "uikName": "УИК №297",
     "tikTvd": "25420001560267",
-    "tikName": "Искитимская"
+    "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 298,
     "uikTvd": "4544009284414",
+    "uikName": "УИК №298",
     "tikTvd": "25420001560267",
-    "tikName": "Искитимская"
+    "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 299,
     "uikTvd": "4544009284415",
+    "uikName": "УИК №299",
     "tikTvd": "25420001560267",
-    "tikName": "Искитимская"
+    "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 300,
     "uikTvd": "4544009284416",
+    "uikName": "УИК №300",
     "tikTvd": "25420001560267",
-    "tikName": "Искитимская"
+    "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 301,
     "uikTvd": "4544009284417",
+    "uikName": "УИК №301",
     "tikTvd": "25420001560267",
-    "tikName": "Искитимская"
+    "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 302,
     "uikTvd": "4544009284418",
+    "uikName": "УИК №302",
     "tikTvd": "25420001560267",
-    "tikName": "Искитимская"
+    "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 303,
     "uikTvd": "4544004289774",
+    "uikName": "УИК №303",
     "tikTvd": "25420001560255",
-    "tikName": "Болотнинская"
+    "tikName": "Болотнинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 304,
     "uikTvd": "4544009284419",
+    "uikName": "УИК №304",
     "tikTvd": "25420001560267",
-    "tikName": "Искитимская"
+    "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 305,
     "uikTvd": "4544009284420",
+    "uikName": "УИК №305",
     "tikTvd": "25420001560267",
-    "tikName": "Искитимская"
+    "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 306,
     "uikTvd": "4544009284421",
+    "uikName": "УИК №306",
     "tikTvd": "25420001560267",
-    "tikName": "Искитимская"
+    "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 307,
     "uikTvd": "4544009284422",
+    "uikName": "УИК №307",
     "tikTvd": "25420001560267",
-    "tikName": "Искитимская"
+    "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 308,
     "uikTvd": "4544009284423",
+    "uikName": "УИК №308",
     "tikTvd": "25420001560267",
-    "tikName": "Искитимская"
+    "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 309,
     "uikTvd": "4544009284424",
+    "uikName": "УИК №309",
     "tikTvd": "25420001560267",
-    "tikName": "Искитимская"
+    "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 310,
     "uikTvd": "4544009284425",
+    "uikName": "УИК №310",
     "tikTvd": "25420001560267",
-    "tikName": "Искитимская"
+    "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 311,
     "uikTvd": "4544009284426",
+    "uikName": "УИК №311",
     "tikTvd": "25420001560267",
-    "tikName": "Искитимская"
+    "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 312,
     "uikTvd": "4544009284427",
+    "uikName": "УИК №312",
     "tikTvd": "25420001560267",
-    "tikName": "Искитимская"
+    "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 313,
     "uikTvd": "4544009284428",
+    "uikName": "УИК №313",
     "tikTvd": "25420001560267",
-    "tikName": "Искитимская"
+    "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 314,
     "uikTvd": "4544009284429",
+    "uikName": "УИК №314",
     "tikTvd": "25420001560267",
-    "tikName": "Искитимская"
+    "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 315,
     "uikTvd": "4544009284430",
+    "uikName": "УИК №315",
     "tikTvd": "25420001560267",
-    "tikName": "Искитимская"
+    "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 316,
     "uikTvd": "4544009284431",
+    "uikName": "УИК №316",
     "tikTvd": "25420001560267",
-    "tikName": "Искитимская"
+    "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 317,
     "uikTvd": "4544009284432",
+    "uikName": "УИК №317",
     "tikTvd": "25420001560267",
-    "tikName": "Искитимская"
+    "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 318,
     "uikTvd": "4544009284433",
+    "uikName": "УИК №318",
     "tikTvd": "25420001560267",
-    "tikName": "Искитимская"
+    "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 319,
     "uikTvd": "4544009284434",
+    "uikName": "УИК №319",
     "tikTvd": "25420001560267",
-    "tikName": "Искитимская"
+    "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 320,
     "uikTvd": "4544009284435",
+    "uikName": "УИК №320",
     "tikTvd": "25420001560267",
-    "tikName": "Искитимская"
+    "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 321,
     "uikTvd": "4544009284436",
+    "uikName": "УИК №321",
     "tikTvd": "25420001560267",
-    "tikName": "Искитимская"
+    "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 322,
     "uikTvd": "4544009284437",
+    "uikName": "УИК №322",
     "tikTvd": "25420001560267",
-    "tikName": "Искитимская"
+    "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 323,
     "uikTvd": "4544009284438",
+    "uikName": "УИК №323",
     "tikTvd": "25420001560267",
-    "tikName": "Искитимская"
+    "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 324,
     "uikTvd": "4544009284439",
+    "uikName": "УИК №324",
     "tikTvd": "25420001560267",
-    "tikName": "Искитимская"
+    "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 325,
     "uikTvd": "4544009284440",
+    "uikName": "УИК №325",
     "tikTvd": "25420001560267",
-    "tikName": "Искитимская"
+    "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 326,
     "uikTvd": "4544010215748",
+    "uikName": "УИК №326",
     "tikTvd": "25420001560274",
-    "tikName": "Карасукская"
+    "tikName": "Карасукская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 327,
     "uikTvd": "4544010215749",
+    "uikName": "УИК №327",
     "tikTvd": "25420001560274",
-    "tikName": "Карасукская"
+    "tikName": "Карасукская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 328,
     "uikTvd": "4544010215750",
+    "uikName": "УИК №328",
     "tikTvd": "25420001560274",
-    "tikName": "Карасукская"
+    "tikName": "Карасукская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 329,
     "uikTvd": "4544010215751",
+    "uikName": "УИК №329",
     "tikTvd": "25420001560274",
-    "tikName": "Карасукская"
+    "tikName": "Карасукская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 330,
     "uikTvd": "4544010215752",
+    "uikName": "УИК №330",
     "tikTvd": "25420001560274",
-    "tikName": "Карасукская"
+    "tikName": "Карасукская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 331,
     "uikTvd": "4544010215753",
+    "uikName": "УИК №331",
     "tikTvd": "25420001560274",
-    "tikName": "Карасукская"
+    "tikName": "Карасукская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 332,
     "uikTvd": "4544010215754",
+    "uikName": "УИК №332",
     "tikTvd": "25420001560274",
-    "tikName": "Карасукская"
+    "tikName": "Карасукская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 333,
     "uikTvd": "4544010215755",
+    "uikName": "УИК №333",
     "tikTvd": "25420001560274",
-    "tikName": "Карасукская"
+    "tikName": "Карасукская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 334,
     "uikTvd": "4544010215756",
+    "uikName": "УИК №334",
     "tikTvd": "25420001560274",
-    "tikName": "Карасукская"
+    "tikName": "Карасукская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 335,
     "uikTvd": "4544010215757",
+    "uikName": "УИК №335",
     "tikTvd": "25420001560274",
-    "tikName": "Карасукская"
+    "tikName": "Карасукская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 336,
     "uikTvd": "4544010215758",
+    "uikName": "УИК №336",
     "tikTvd": "25420001560274",
-    "tikName": "Карасукская"
+    "tikName": "Карасукская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 337,
     "uikTvd": "4544010215759",
+    "uikName": "УИК №337",
     "tikTvd": "25420001560274",
-    "tikName": "Карасукская"
+    "tikName": "Карасукская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 338,
     "uikTvd": "4544010215760",
+    "uikName": "УИК №338",
     "tikTvd": "25420001560274",
-    "tikName": "Карасукская"
+    "tikName": "Карасукская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 339,
     "uikTvd": "4544010215761",
+    "uikName": "УИК №339",
     "tikTvd": "25420001560274",
-    "tikName": "Карасукская"
+    "tikName": "Карасукская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 340,
     "uikTvd": "4544010215762",
+    "uikName": "УИК №340",
     "tikTvd": "25420001560274",
-    "tikName": "Карасукская"
+    "tikName": "Карасукская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 341,
     "uikTvd": "4544010215763",
+    "uikName": "УИК №341",
     "tikTvd": "25420001560274",
-    "tikName": "Карасукская"
+    "tikName": "Карасукская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 342,
     "uikTvd": "4544010215764",
+    "uikName": "УИК №342",
     "tikTvd": "25420001560274",
-    "tikName": "Карасукская"
+    "tikName": "Карасукская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 343,
     "uikTvd": "4544010215765",
+    "uikName": "УИК №343",
     "tikTvd": "25420001560274",
-    "tikName": "Карасукская"
+    "tikName": "Карасукская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 344,
     "uikTvd": "4544010215766",
+    "uikName": "УИК №344",
     "tikTvd": "25420001560274",
-    "tikName": "Карасукская"
+    "tikName": "Карасукская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 345,
     "uikTvd": "4544010215767",
+    "uikName": "УИК №345",
     "tikTvd": "25420001560274",
-    "tikName": "Карасукская"
+    "tikName": "Карасукская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 346,
     "uikTvd": "4544010215768",
+    "uikName": "УИК №346",
     "tikTvd": "25420001560274",
-    "tikName": "Карасукская"
+    "tikName": "Карасукская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 347,
     "uikTvd": "4544010215769",
+    "uikName": "УИК №347",
     "tikTvd": "25420001560274",
-    "tikName": "Карасукская"
+    "tikName": "Карасукская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 348,
     "uikTvd": "4544010215770",
+    "uikName": "УИК №348",
     "tikTvd": "25420001560274",
-    "tikName": "Карасукская"
+    "tikName": "Карасукская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 349,
     "uikTvd": "4544010215771",
+    "uikName": "УИК №349",
     "tikTvd": "25420001560274",
-    "tikName": "Карасукская"
+    "tikName": "Карасукская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 350,
     "uikTvd": "4544010215772",
+    "uikName": "УИК №350",
     "tikTvd": "25420001560274",
-    "tikName": "Карасукская"
+    "tikName": "Карасукская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 351,
     "uikTvd": "4544010215773",
+    "uikName": "УИК №351",
     "tikTvd": "25420001560274",
-    "tikName": "Карасукская"
+    "tikName": "Карасукская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 352,
     "uikTvd": "4544010215774",
+    "uikName": "УИК №352",
     "tikTvd": "25420001560274",
-    "tikName": "Карасукская"
+    "tikName": "Карасукская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 353,
     "uikTvd": "4544010215775",
+    "uikName": "УИК №353",
     "tikTvd": "25420001560274",
-    "tikName": "Карасукская"
+    "tikName": "Карасукская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 354,
     "uikTvd": "4544010215776",
+    "uikName": "УИК №354",
     "tikTvd": "25420001560274",
-    "tikName": "Карасукская"
+    "tikName": "Карасукская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 355,
     "uikTvd": "4544010215777",
+    "uikName": "УИК №355",
     "tikTvd": "25420001560274",
-    "tikName": "Карасукская"
+    "tikName": "Карасукская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 356,
     "uikTvd": "4544010215778",
+    "uikName": "УИК №356",
     "tikTvd": "25420001560274",
-    "tikName": "Карасукская"
+    "tikName": "Карасукская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 357,
     "uikTvd": "4544010215779",
+    "uikName": "УИК №357",
     "tikTvd": "25420001560274",
-    "tikName": "Карасукская"
+    "tikName": "Карасукская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 358,
     "uikTvd": "4544010215780",
+    "uikName": "УИК №358",
     "tikTvd": "25420001560274",
-    "tikName": "Карасукская"
+    "tikName": "Карасукская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 359,
     "uikTvd": "4544010215781",
+    "uikName": "УИК №359",
     "tikTvd": "25420001560274",
-    "tikName": "Карасукская"
+    "tikName": "Карасукская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 360,
     "uikTvd": "4544010215782",
+    "uikName": "УИК №360",
     "tikTvd": "25420001560274",
-    "tikName": "Карасукская"
+    "tikName": "Карасукская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 361,
     "uikTvd": "4544010215783",
+    "uikName": "УИК №361",
     "tikTvd": "25420001560274",
-    "tikName": "Карасукская"
+    "tikName": "Карасукская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 362,
     "uikTvd": "4544010215784",
+    "uikName": "УИК №362",
     "tikTvd": "25420001560274",
-    "tikName": "Карасукская"
+    "tikName": "Карасукская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 363,
     "uikTvd": "4544010215785",
+    "uikName": "УИК №363",
     "tikTvd": "25420001560274",
-    "tikName": "Карасукская"
+    "tikName": "Карасукская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 364,
     "uikTvd": "4544010215786",
+    "uikName": "УИК №364",
     "tikTvd": "25420001560274",
-    "tikName": "Карасукская"
+    "tikName": "Карасукская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 365,
     "uikTvd": "4544010215787",
+    "uikName": "УИК №365",
     "tikTvd": "25420001560274",
-    "tikName": "Карасукская"
+    "tikName": "Карасукская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 366,
     "uikTvd": "4544010215788",
+    "uikName": "УИК №366",
     "tikTvd": "25420001560274",
-    "tikName": "Карасукская"
+    "tikName": "Карасукская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 367,
     "uikTvd": "4544010215789",
+    "uikName": "УИК №367",
     "tikTvd": "25420001560274",
-    "tikName": "Карасукская"
+    "tikName": "Карасукская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 368,
     "uikTvd": "4544010215790",
+    "uikName": "УИК №368",
     "tikTvd": "25420001560274",
-    "tikName": "Карасукская"
+    "tikName": "Карасукская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 369,
     "uikTvd": "4544010215791",
+    "uikName": "УИК №369",
     "tikTvd": "25420001560274",
-    "tikName": "Карасукская"
+    "tikName": "Карасукская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 370,
     "uikTvd": "4544010215792",
+    "uikName": "УИК №370",
     "tikTvd": "25420001560274",
-    "tikName": "Карасукская"
+    "tikName": "Карасукская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 371,
     "uikTvd": "4544010215793",
+    "uikName": "УИК №371",
     "tikTvd": "25420001560274",
-    "tikName": "Карасукская"
+    "tikName": "Карасукская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 372,
     "uikTvd": "4544010215794",
+    "uikName": "УИК №372",
     "tikTvd": "25420001560274",
-    "tikName": "Карасукская"
+    "tikName": "Карасукская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 373,
     "uikTvd": "4544010215795",
+    "uikName": "УИК №373",
     "tikTvd": "25420001560274",
-    "tikName": "Карасукская"
+    "tikName": "Карасукская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 374,
     "uikTvd": "4544010215796",
+    "uikName": "УИК №374",
     "tikTvd": "25420001560274",
-    "tikName": "Карасукская"
+    "tikName": "Карасукская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 375,
     "uikTvd": "4544010215797",
+    "uikName": "УИК №375",
     "tikTvd": "25420001560274",
-    "tikName": "Карасукская"
+    "tikName": "Карасукская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 376,
     "uikTvd": "4544010215798",
+    "uikName": "УИК №376",
     "tikTvd": "25420001560274",
-    "tikName": "Карасукская"
+    "tikName": "Карасукская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 377,
     "uikTvd": "4544010215799",
+    "uikName": "УИК №377",
     "tikTvd": "25420001560274",
-    "tikName": "Карасукская"
+    "tikName": "Карасукская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 378,
     "uikTvd": "4544011210980",
+    "uikName": "УИК №378",
     "tikTvd": "25420001560258",
-    "tikName": "Каргатская"
+    "tikName": "Каргатская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 379,
     "uikTvd": "4544011210981",
+    "uikName": "УИК №379",
     "tikTvd": "25420001560258",
-    "tikName": "Каргатская"
+    "tikName": "Каргатская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 380,
     "uikTvd": "4544011210982",
+    "uikName": "УИК №380",
     "tikTvd": "25420001560258",
-    "tikName": "Каргатская"
+    "tikName": "Каргатская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 381,
     "uikTvd": "4544011210983",
+    "uikName": "УИК №381",
     "tikTvd": "25420001560258",
-    "tikName": "Каргатская"
+    "tikName": "Каргатская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 382,
     "uikTvd": "4544011210984",
+    "uikName": "УИК №382",
     "tikTvd": "25420001560258",
-    "tikName": "Каргатская"
+    "tikName": "Каргатская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 383,
     "uikTvd": "4544011210985",
+    "uikName": "УИК №383",
     "tikTvd": "25420001560258",
-    "tikName": "Каргатская"
+    "tikName": "Каргатская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 384,
     "uikTvd": "4544011210986",
+    "uikName": "УИК №384",
     "tikTvd": "25420001560258",
-    "tikName": "Каргатская"
+    "tikName": "Каргатская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 385,
     "uikTvd": "4544011210987",
+    "uikName": "УИК №385",
     "tikTvd": "25420001560258",
-    "tikName": "Каргатская"
+    "tikName": "Каргатская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 386,
     "uikTvd": "4544011210988",
+    "uikName": "УИК №386",
     "tikTvd": "25420001560258",
-    "tikName": "Каргатская"
+    "tikName": "Каргатская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 387,
     "uikTvd": "4544011210989",
+    "uikName": "УИК №387",
     "tikTvd": "25420001560258",
-    "tikName": "Каргатская"
+    "tikName": "Каргатская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 388,
     "uikTvd": "4544011210990",
+    "uikName": "УИК №388",
     "tikTvd": "25420001560258",
-    "tikName": "Каргатская"
+    "tikName": "Каргатская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 389,
     "uikTvd": "4544011210991",
+    "uikName": "УИК №389",
     "tikTvd": "25420001560258",
-    "tikName": "Каргатская"
+    "tikName": "Каргатская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 390,
     "uikTvd": "4544011210992",
+    "uikName": "УИК №390",
     "tikTvd": "25420001560258",
-    "tikName": "Каргатская"
+    "tikName": "Каргатская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 391,
     "uikTvd": "4544011210993",
+    "uikName": "УИК №391",
     "tikTvd": "25420001560258",
-    "tikName": "Каргатская"
+    "tikName": "Каргатская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 392,
     "uikTvd": "4544011210994",
+    "uikName": "УИК №392",
     "tikTvd": "25420001560258",
-    "tikName": "Каргатская"
+    "tikName": "Каргатская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 393,
     "uikTvd": "4544011210995",
+    "uikName": "УИК №393",
     "tikTvd": "25420001560258",
-    "tikName": "Каргатская"
+    "tikName": "Каргатская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 394,
     "uikTvd": "4544011210996",
+    "uikName": "УИК №394",
     "tikTvd": "25420001560258",
-    "tikName": "Каргатская"
+    "tikName": "Каргатская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 395,
     "uikTvd": "4544011210997",
+    "uikName": "УИК №395",
     "tikTvd": "25420001560258",
-    "tikName": "Каргатская"
+    "tikName": "Каргатская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 396,
     "uikTvd": "4544011210998",
+    "uikName": "УИК №396",
     "tikTvd": "25420001560258",
-    "tikName": "Каргатская"
+    "tikName": "Каргатская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 397,
     "uikTvd": "4544011210999",
+    "uikName": "УИК №397",
     "tikTvd": "25420001560258",
-    "tikName": "Каргатская"
+    "tikName": "Каргатская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 398,
     "uikTvd": "4544011211000",
+    "uikName": "УИК №398",
     "tikTvd": "25420001560258",
-    "tikName": "Каргатская"
+    "tikName": "Каргатская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 399,
     "uikTvd": "4544011211001",
+    "uikName": "УИК №399",
     "tikTvd": "25420001560258",
-    "tikName": "Каргатская"
+    "tikName": "Каргатская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 400,
     "uikTvd": "4544011211002",
+    "uikName": "УИК №400",
     "tikTvd": "25420001560258",
-    "tikName": "Каргатская"
+    "tikName": "Каргатская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 401,
     "uikTvd": "4544011211003",
+    "uikName": "УИК №401",
     "tikTvd": "25420001560258",
-    "tikName": "Каргатская"
+    "tikName": "Каргатская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 402,
     "uikTvd": "4544011211004",
+    "uikName": "УИК №402",
     "tikTvd": "25420001560258",
-    "tikName": "Каргатская"
+    "tikName": "Каргатская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 403,
     "uikTvd": "4544011211005",
+    "uikName": "УИК №403",
     "tikTvd": "25420001560258",
-    "tikName": "Каргатская"
+    "tikName": "Каргатская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 404,
     "uikTvd": "4544011211006",
+    "uikName": "УИК №404",
     "tikTvd": "25420001560258",
-    "tikName": "Каргатская"
+    "tikName": "Каргатская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 405,
     "uikTvd": "4544011211007",
+    "uikName": "УИК №405",
     "tikTvd": "25420001560258",
-    "tikName": "Каргатская"
+    "tikName": "Каргатская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 406,
     "uikTvd": "4544011211008",
+    "uikName": "УИК №406",
     "tikTvd": "25420001560258",
-    "tikName": "Каргатская"
+    "tikName": "Каргатская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 407,
     "uikTvd": "4544011211009",
+    "uikName": "УИК №407",
     "tikTvd": "25420001560258",
-    "tikName": "Каргатская"
+    "tikName": "Каргатская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 408,
     "uikTvd": "4544011211010",
+    "uikName": "УИК №408",
     "tikTvd": "25420001560258",
-    "tikName": "Каргатская"
+    "tikName": "Каргатская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 409,
     "uikTvd": "4544011211011",
+    "uikName": "УИК №409",
     "tikTvd": "25420001560258",
-    "tikName": "Каргатская"
+    "tikName": "Каргатская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 410,
     "uikTvd": "4544011211012",
+    "uikName": "УИК №410",
     "tikTvd": "25420001560258",
-    "tikName": "Каргатская"
+    "tikName": "Каргатская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 411,
     "uikTvd": "4544011211013",
+    "uikName": "УИК №411",
     "tikTvd": "25420001560258",
-    "tikName": "Каргатская"
+    "tikName": "Каргатская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 412,
     "uikTvd": "4544011211014",
+    "uikName": "УИК №412",
     "tikTvd": "25420001560258",
-    "tikName": "Каргатская"
+    "tikName": "Каргатская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 413,
     "uikTvd": "4544011211015",
+    "uikName": "УИК №413",
     "tikTvd": "25420001560258",
-    "tikName": "Каргатская"
+    "tikName": "Каргатская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 414,
     "uikTvd": "4544012182740",
+    "uikName": "УИК №414",
     "tikTvd": "25420001560268",
-    "tikName": "Колыванская"
+    "tikName": "Колыванская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 415,
     "uikTvd": "4544012182741",
+    "uikName": "УИК №415",
     "tikTvd": "25420001560268",
-    "tikName": "Колыванская"
+    "tikName": "Колыванская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 416,
     "uikTvd": "4544012182742",
+    "uikName": "УИК №416",
     "tikTvd": "25420001560268",
-    "tikName": "Колыванская"
+    "tikName": "Колыванская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 417,
     "uikTvd": "4544012182743",
+    "uikName": "УИК №417",
     "tikTvd": "25420001560268",
-    "tikName": "Колыванская"
+    "tikName": "Колыванская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 418,
     "uikTvd": "4544012182744",
+    "uikName": "УИК №418",
     "tikTvd": "25420001560268",
-    "tikName": "Колыванская"
+    "tikName": "Колыванская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 419,
     "uikTvd": "4544012182745",
+    "uikName": "УИК №419",
     "tikTvd": "25420001560268",
-    "tikName": "Колыванская"
+    "tikName": "Колыванская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 420,
     "uikTvd": "4544012182746",
+    "uikName": "УИК №420",
     "tikTvd": "25420001560268",
-    "tikName": "Колыванская"
+    "tikName": "Колыванская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 421,
     "uikTvd": "4544012182747",
+    "uikName": "УИК №421",
     "tikTvd": "25420001560268",
-    "tikName": "Колыванская"
+    "tikName": "Колыванская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 422,
     "uikTvd": "4544012182748",
+    "uikName": "УИК №422",
     "tikTvd": "25420001560268",
-    "tikName": "Колыванская"
+    "tikName": "Колыванская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 423,
     "uikTvd": "4544012182749",
+    "uikName": "УИК №423",
     "tikTvd": "25420001560268",
-    "tikName": "Колыванская"
+    "tikName": "Колыванская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 424,
     "uikTvd": "4544012182750",
+    "uikName": "УИК №424",
     "tikTvd": "25420001560268",
-    "tikName": "Колыванская"
+    "tikName": "Колыванская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 425,
     "uikTvd": "4544012182751",
+    "uikName": "УИК №425",
     "tikTvd": "25420001560268",
-    "tikName": "Колыванская"
+    "tikName": "Колыванская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 426,
     "uikTvd": "4544012182752",
+    "uikName": "УИК №426",
     "tikTvd": "25420001560268",
-    "tikName": "Колыванская"
+    "tikName": "Колыванская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 427,
     "uikTvd": "4544012182753",
+    "uikName": "УИК №427",
     "tikTvd": "25420001560268",
-    "tikName": "Колыванская"
+    "tikName": "Колыванская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 428,
     "uikTvd": "4544012182754",
+    "uikName": "УИК №428",
     "tikTvd": "25420001560268",
-    "tikName": "Колыванская"
+    "tikName": "Колыванская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 429,
     "uikTvd": "4544012182755",
+    "uikName": "УИК №429",
     "tikTvd": "25420001560268",
-    "tikName": "Колыванская"
+    "tikName": "Колыванская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 430,
     "uikTvd": "4544012182756",
+    "uikName": "УИК №430",
     "tikTvd": "25420001560268",
-    "tikName": "Колыванская"
+    "tikName": "Колыванская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 431,
     "uikTvd": "4544012182757",
+    "uikName": "УИК №431",
     "tikTvd": "25420001560268",
-    "tikName": "Колыванская"
+    "tikName": "Колыванская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 432,
     "uikTvd": "4544012182758",
+    "uikName": "УИК №432",
     "tikTvd": "25420001560268",
-    "tikName": "Колыванская"
+    "tikName": "Колыванская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 433,
     "uikTvd": "4544012182759",
+    "uikName": "УИК №433",
     "tikTvd": "25420001560268",
-    "tikName": "Колыванская"
+    "tikName": "Колыванская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 434,
     "uikTvd": "4544012182760",
+    "uikName": "УИК №434",
     "tikTvd": "25420001560268",
-    "tikName": "Колыванская"
+    "tikName": "Колыванская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 435,
     "uikTvd": "4544012182761",
+    "uikName": "УИК №435",
     "tikTvd": "25420001560268",
-    "tikName": "Колыванская"
+    "tikName": "Колыванская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 436,
     "uikTvd": "4544012182762",
+    "uikName": "УИК №436",
     "tikTvd": "25420001560268",
-    "tikName": "Колыванская"
+    "tikName": "Колыванская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 437,
     "uikTvd": "4544012182763",
+    "uikName": "УИК №437",
     "tikTvd": "25420001560268",
-    "tikName": "Колыванская"
+    "tikName": "Колыванская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 438,
     "uikTvd": "4544012182764",
+    "uikName": "УИК №438",
     "tikTvd": "25420001560268",
-    "tikName": "Колыванская"
+    "tikName": "Колыванская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 439,
     "uikTvd": "4544012182765",
+    "uikName": "УИК №439",
     "tikTvd": "25420001560268",
-    "tikName": "Колыванская"
+    "tikName": "Колыванская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 440,
     "uikTvd": "4544012182766",
+    "uikName": "УИК №440",
     "tikTvd": "25420001560268",
-    "tikName": "Колыванская"
+    "tikName": "Колыванская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 441,
     "uikTvd": "4544012182767",
+    "uikName": "УИК №441",
     "tikTvd": "25420001560268",
-    "tikName": "Колыванская"
+    "tikName": "Колыванская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 442,
     "uikTvd": "4544012182768",
+    "uikName": "УИК №442",
     "tikTvd": "25420001560268",
-    "tikName": "Колыванская"
+    "tikName": "Колыванская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 443,
     "uikTvd": "4544012182769",
+    "uikName": "УИК №443",
     "tikTvd": "25420001560268",
-    "tikName": "Колыванская"
+    "tikName": "Колыванская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 445,
     "uikTvd": "4544012182771",
+    "uikName": "УИК №445",
     "tikTvd": "25420001560268",
-    "tikName": "Колыванская"
+    "tikName": "Колыванская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 446,
     "uikTvd": "4544012182772",
+    "uikName": "УИК №446",
     "tikTvd": "25420001560268",
-    "tikName": "Колыванская"
+    "tikName": "Колыванская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 447,
     "uikTvd": "4544012182773",
+    "uikName": "УИК №447",
     "tikTvd": "25420001560268",
-    "tikName": "Колыванская"
+    "tikName": "Колыванская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 448,
     "uikTvd": "4544012182774",
+    "uikName": "УИК №448",
     "tikTvd": "25420001560268",
-    "tikName": "Колыванская"
+    "tikName": "Колыванская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 449,
     "uikTvd": "4544013224555",
+    "uikName": "УИК №449",
     "tikTvd": "25420001560264",
-    "tikName": "Коченевская"
+    "tikName": "Коченевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 450,
     "uikTvd": "4544013224556",
+    "uikName": "УИК №450",
     "tikTvd": "25420001560264",
-    "tikName": "Коченевская"
+    "tikName": "Коченевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 451,
     "uikTvd": "4544013224557",
+    "uikName": "УИК №451",
     "tikTvd": "25420001560264",
-    "tikName": "Коченевская"
+    "tikName": "Коченевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 452,
     "uikTvd": "4544013224558",
+    "uikName": "УИК №452",
     "tikTvd": "25420001560264",
-    "tikName": "Коченевская"
+    "tikName": "Коченевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 453,
     "uikTvd": "4544013224559",
+    "uikName": "УИК №453",
     "tikTvd": "25420001560264",
-    "tikName": "Коченевская"
+    "tikName": "Коченевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 454,
     "uikTvd": "4544013224560",
+    "uikName": "УИК №454",
     "tikTvd": "25420001560264",
-    "tikName": "Коченевская"
+    "tikName": "Коченевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 455,
     "uikTvd": "4544013224561",
+    "uikName": "УИК №455",
     "tikTvd": "25420001560264",
-    "tikName": "Коченевская"
+    "tikName": "Коченевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 456,
     "uikTvd": "4544013224562",
+    "uikName": "УИК №456",
     "tikTvd": "25420001560264",
-    "tikName": "Коченевская"
+    "tikName": "Коченевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 457,
     "uikTvd": "4544013224563",
+    "uikName": "УИК №457",
     "tikTvd": "25420001560264",
-    "tikName": "Коченевская"
+    "tikName": "Коченевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 458,
     "uikTvd": "4544013224564",
+    "uikName": "УИК №458",
     "tikTvd": "25420001560264",
-    "tikName": "Коченевская"
+    "tikName": "Коченевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 459,
     "uikTvd": "4544013224565",
+    "uikName": "УИК №459",
     "tikTvd": "25420001560264",
-    "tikName": "Коченевская"
+    "tikName": "Коченевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 460,
     "uikTvd": "4544013224566",
+    "uikName": "УИК №460",
     "tikTvd": "25420001560264",
-    "tikName": "Коченевская"
+    "tikName": "Коченевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 461,
     "uikTvd": "4544013224567",
+    "uikName": "УИК №461",
     "tikTvd": "25420001560264",
-    "tikName": "Коченевская"
+    "tikName": "Коченевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 462,
     "uikTvd": "4544013224568",
+    "uikName": "УИК №462",
     "tikTvd": "25420001560264",
-    "tikName": "Коченевская"
+    "tikName": "Коченевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 463,
     "uikTvd": "4544013224569",
+    "uikName": "УИК №463",
     "tikTvd": "25420001560264",
-    "tikName": "Коченевская"
+    "tikName": "Коченевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 464,
     "uikTvd": "4544013224570",
+    "uikName": "УИК №464",
     "tikTvd": "25420001560264",
-    "tikName": "Коченевская"
+    "tikName": "Коченевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 465,
     "uikTvd": "4544013224571",
+    "uikName": "УИК №465",
     "tikTvd": "25420001560264",
-    "tikName": "Коченевская"
+    "tikName": "Коченевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 466,
     "uikTvd": "4544013224572",
+    "uikName": "УИК №466",
     "tikTvd": "25420001560264",
-    "tikName": "Коченевская"
+    "tikName": "Коченевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 467,
     "uikTvd": "4544013224573",
+    "uikName": "УИК №467",
     "tikTvd": "25420001560264",
-    "tikName": "Коченевская"
+    "tikName": "Коченевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 468,
     "uikTvd": "4544013224574",
+    "uikName": "УИК №468",
     "tikTvd": "25420001560264",
-    "tikName": "Коченевская"
+    "tikName": "Коченевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 469,
     "uikTvd": "4544013224575",
+    "uikName": "УИК №469",
     "tikTvd": "25420001560264",
-    "tikName": "Коченевская"
+    "tikName": "Коченевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 470,
     "uikTvd": "4544013224576",
+    "uikName": "УИК №470",
     "tikTvd": "25420001560264",
-    "tikName": "Коченевская"
+    "tikName": "Коченевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 471,
     "uikTvd": "4544013224577",
+    "uikName": "УИК №471",
     "tikTvd": "25420001560264",
-    "tikName": "Коченевская"
+    "tikName": "Коченевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 472,
     "uikTvd": "4544013224578",
+    "uikName": "УИК №472",
     "tikTvd": "25420001560264",
-    "tikName": "Коченевская"
+    "tikName": "Коченевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 473,
     "uikTvd": "4544013224579",
+    "uikName": "УИК №473",
     "tikTvd": "25420001560264",
-    "tikName": "Коченевская"
+    "tikName": "Коченевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 474,
     "uikTvd": "4544013224580",
+    "uikName": "УИК №474",
     "tikTvd": "25420001560264",
-    "tikName": "Коченевская"
+    "tikName": "Коченевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 475,
     "uikTvd": "4544013224581",
+    "uikName": "УИК №475",
     "tikTvd": "25420001560264",
-    "tikName": "Коченевская"
+    "tikName": "Коченевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 476,
     "uikTvd": "4544013224582",
+    "uikName": "УИК №476",
     "tikTvd": "25420001560264",
-    "tikName": "Коченевская"
+    "tikName": "Коченевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 477,
     "uikTvd": "4544013224583",
+    "uikName": "УИК №477",
     "tikTvd": "25420001560264",
-    "tikName": "Коченевская"
+    "tikName": "Коченевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 478,
     "uikTvd": "4544013224584",
+    "uikName": "УИК №478",
     "tikTvd": "25420001560264",
-    "tikName": "Коченевская"
+    "tikName": "Коченевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 479,
     "uikTvd": "4544013224585",
+    "uikName": "УИК №479",
     "tikTvd": "25420001560264",
-    "tikName": "Коченевская"
+    "tikName": "Коченевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 480,
     "uikTvd": "4544013224586",
+    "uikName": "УИК №480",
     "tikTvd": "25420001560264",
-    "tikName": "Коченевская"
+    "tikName": "Коченевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 481,
     "uikTvd": "4544013224587",
+    "uikName": "УИК №481",
     "tikTvd": "25420001560264",
-    "tikName": "Коченевская"
+    "tikName": "Коченевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 482,
     "uikTvd": "4544013224588",
+    "uikName": "УИК №482",
     "tikTvd": "25420001560264",
-    "tikName": "Коченевская"
+    "tikName": "Коченевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 483,
     "uikTvd": "4544013224589",
+    "uikName": "УИК №483",
     "tikTvd": "25420001560264",
-    "tikName": "Коченевская"
+    "tikName": "Коченевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 484,
     "uikTvd": "4544013224590",
+    "uikName": "УИК №484",
     "tikTvd": "25420001560264",
-    "tikName": "Коченевская"
+    "tikName": "Коченевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 485,
     "uikTvd": "4544013224591",
+    "uikName": "УИК №485",
     "tikTvd": "25420001560264",
-    "tikName": "Коченевская"
+    "tikName": "Коченевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 486,
     "uikTvd": "4544013224592",
+    "uikName": "УИК №486",
     "tikTvd": "25420001560264",
-    "tikName": "Коченевская"
+    "tikName": "Коченевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 487,
     "uikTvd": "4544013224593",
+    "uikName": "УИК №487",
     "tikTvd": "25420001560264",
-    "tikName": "Коченевская"
+    "tikName": "Коченевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 488,
     "uikTvd": "4544013224594",
+    "uikName": "УИК №488",
     "tikTvd": "25420001560264",
-    "tikName": "Коченевская"
+    "tikName": "Коченевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 489,
     "uikTvd": "4544013224595",
+    "uikName": "УИК №489",
     "tikTvd": "25420001560264",
-    "tikName": "Коченевская"
+    "tikName": "Коченевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 490,
     "uikTvd": "4544013224596",
+    "uikName": "УИК №490",
     "tikTvd": "25420001560264",
-    "tikName": "Коченевская"
+    "tikName": "Коченевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 491,
     "uikTvd": "4544013224597",
+    "uikName": "УИК №491",
     "tikTvd": "25420001560264",
-    "tikName": "Коченевская"
+    "tikName": "Коченевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 492,
     "uikTvd": "4544013224598",
+    "uikName": "УИК №492",
     "tikTvd": "25420001560264",
-    "tikName": "Коченевская"
+    "tikName": "Коченевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 493,
     "uikTvd": "4544013224599",
+    "uikName": "УИК №493",
     "tikTvd": "25420001560264",
-    "tikName": "Коченевская"
+    "tikName": "Коченевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 494,
     "uikTvd": "4544013224600",
+    "uikName": "УИК №494",
     "tikTvd": "25420001560264",
-    "tikName": "Коченевская"
+    "tikName": "Коченевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 495,
     "uikTvd": "4544013224601",
+    "uikName": "УИК №495",
     "tikTvd": "25420001560264",
-    "tikName": "Коченевская"
+    "tikName": "Коченевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 496,
     "uikTvd": "4544013224602",
+    "uikName": "УИК №496",
     "tikTvd": "25420001560264",
-    "tikName": "Коченевская"
+    "tikName": "Коченевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 497,
     "uikTvd": "4544013224603",
+    "uikName": "УИК №497",
     "tikTvd": "25420001560264",
-    "tikName": "Коченевская"
+    "tikName": "Коченевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 498,
     "uikTvd": "4544013224604",
+    "uikName": "УИК №498",
     "tikTvd": "25420001560264",
-    "tikName": "Коченевская"
+    "tikName": "Коченевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 499,
     "uikTvd": "4544013224605",
+    "uikName": "УИК №499",
     "tikTvd": "25420001560264",
-    "tikName": "Коченевская"
+    "tikName": "Коченевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 500,
     "uikTvd": "4544014176648",
+    "uikName": "УИК №500",
     "tikTvd": "25420001560239",
-    "tikName": "Кочковская"
+    "tikName": "Кочковская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 501,
     "uikTvd": "4544014176649",
+    "uikName": "УИК №501",
     "tikTvd": "25420001560239",
-    "tikName": "Кочковская"
+    "tikName": "Кочковская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 502,
     "uikTvd": "4544014176650",
+    "uikName": "УИК №502",
     "tikTvd": "25420001560239",
-    "tikName": "Кочковская"
+    "tikName": "Кочковская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 503,
     "uikTvd": "4544014176651",
+    "uikName": "УИК №503",
     "tikTvd": "25420001560239",
-    "tikName": "Кочковская"
+    "tikName": "Кочковская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 504,
     "uikTvd": "4544014176652",
+    "uikName": "УИК №504",
     "tikTvd": "25420001560239",
-    "tikName": "Кочковская"
+    "tikName": "Кочковская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 505,
     "uikTvd": "4544014176653",
+    "uikName": "УИК №505",
     "tikTvd": "25420001560239",
-    "tikName": "Кочковская"
+    "tikName": "Кочковская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 506,
     "uikTvd": "4544014176654",
+    "uikName": "УИК №506",
     "tikTvd": "25420001560239",
-    "tikName": "Кочковская"
+    "tikName": "Кочковская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 507,
     "uikTvd": "4544014176655",
+    "uikName": "УИК №507",
     "tikTvd": "25420001560239",
-    "tikName": "Кочковская"
+    "tikName": "Кочковская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 508,
     "uikTvd": "4544014176656",
+    "uikName": "УИК №508",
     "tikTvd": "25420001560239",
-    "tikName": "Кочковская"
+    "tikName": "Кочковская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 509,
     "uikTvd": "4544014176657",
+    "uikName": "УИК №509",
     "tikTvd": "25420001560239",
-    "tikName": "Кочковская"
+    "tikName": "Кочковская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 510,
     "uikTvd": "4544014176658",
+    "uikName": "УИК №510",
     "tikTvd": "25420001560239",
-    "tikName": "Кочковская"
+    "tikName": "Кочковская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 511,
     "uikTvd": "4544014176659",
+    "uikName": "УИК №511",
     "tikTvd": "25420001560239",
-    "tikName": "Кочковская"
+    "tikName": "Кочковская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 512,
     "uikTvd": "4544014176660",
+    "uikName": "УИК №512",
     "tikTvd": "25420001560239",
-    "tikName": "Кочковская"
+    "tikName": "Кочковская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 513,
     "uikTvd": "4544014176661",
+    "uikName": "УИК №513",
     "tikTvd": "25420001560239",
-    "tikName": "Кочковская"
+    "tikName": "Кочковская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 514,
     "uikTvd": "4544014176662",
+    "uikName": "УИК №514",
     "tikTvd": "25420001560239",
-    "tikName": "Кочковская"
+    "tikName": "Кочковская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 515,
     "uikTvd": "4544015246641",
+    "uikName": "УИК №515",
     "tikTvd": "25420001560265",
-    "tikName": "Краснозерская"
+    "tikName": "Краснозерская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 516,
     "uikTvd": "4544015246642",
+    "uikName": "УИК №516",
     "tikTvd": "25420001560265",
-    "tikName": "Краснозерская"
+    "tikName": "Краснозерская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 517,
     "uikTvd": "4544015246643",
+    "uikName": "УИК №517",
     "tikTvd": "25420001560265",
-    "tikName": "Краснозерская"
+    "tikName": "Краснозерская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 518,
     "uikTvd": "4544015246644",
+    "uikName": "УИК №518",
     "tikTvd": "25420001560265",
-    "tikName": "Краснозерская"
+    "tikName": "Краснозерская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 519,
     "uikTvd": "4544015246645",
+    "uikName": "УИК №519",
     "tikTvd": "25420001560265",
-    "tikName": "Краснозерская"
+    "tikName": "Краснозерская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 520,
     "uikTvd": "4544015246646",
+    "uikName": "УИК №520",
     "tikTvd": "25420001560265",
-    "tikName": "Краснозерская"
+    "tikName": "Краснозерская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 521,
     "uikTvd": "4544015246647",
+    "uikName": "УИК №521",
     "tikTvd": "25420001560265",
-    "tikName": "Краснозерская"
+    "tikName": "Краснозерская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 522,
     "uikTvd": "4544015246648",
+    "uikName": "УИК №522",
     "tikTvd": "25420001560265",
-    "tikName": "Краснозерская"
+    "tikName": "Краснозерская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 523,
     "uikTvd": "4544015246649",
+    "uikName": "УИК №523",
     "tikTvd": "25420001560265",
-    "tikName": "Краснозерская"
+    "tikName": "Краснозерская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 524,
     "uikTvd": "4544015246650",
+    "uikName": "УИК №524",
     "tikTvd": "25420001560265",
-    "tikName": "Краснозерская"
+    "tikName": "Краснозерская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 525,
     "uikTvd": "4544015246651",
+    "uikName": "УИК №525",
     "tikTvd": "25420001560265",
-    "tikName": "Краснозерская"
+    "tikName": "Краснозерская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 526,
     "uikTvd": "4544015246652",
+    "uikName": "УИК №526",
     "tikTvd": "25420001560265",
-    "tikName": "Краснозерская"
+    "tikName": "Краснозерская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 527,
     "uikTvd": "4544015246653",
+    "uikName": "УИК №527",
     "tikTvd": "25420001560265",
-    "tikName": "Краснозерская"
+    "tikName": "Краснозерская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 528,
     "uikTvd": "4544015246654",
+    "uikName": "УИК №528",
     "tikTvd": "25420001560265",
-    "tikName": "Краснозерская"
+    "tikName": "Краснозерская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 529,
     "uikTvd": "4544015246655",
+    "uikName": "УИК №529",
     "tikTvd": "25420001560265",
-    "tikName": "Краснозерская"
+    "tikName": "Краснозерская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 530,
     "uikTvd": "4544015246656",
+    "uikName": "УИК №530",
     "tikTvd": "25420001560265",
-    "tikName": "Краснозерская"
+    "tikName": "Краснозерская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 531,
     "uikTvd": "4544015246657",
+    "uikName": "УИК №531",
     "tikTvd": "25420001560265",
-    "tikName": "Краснозерская"
+    "tikName": "Краснозерская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 532,
     "uikTvd": "4544015246658",
+    "uikName": "УИК №532",
     "tikTvd": "25420001560265",
-    "tikName": "Краснозерская"
+    "tikName": "Краснозерская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 533,
     "uikTvd": "4544015246659",
+    "uikName": "УИК №533",
     "tikTvd": "25420001560265",
-    "tikName": "Краснозерская"
+    "tikName": "Краснозерская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 534,
     "uikTvd": "4544015246660",
+    "uikName": "УИК №534",
     "tikTvd": "25420001560265",
-    "tikName": "Краснозерская"
+    "tikName": "Краснозерская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 535,
     "uikTvd": "4544015246661",
+    "uikName": "УИК №535",
     "tikTvd": "25420001560265",
-    "tikName": "Краснозерская"
+    "tikName": "Краснозерская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 536,
     "uikTvd": "4544015246662",
+    "uikName": "УИК №536",
     "tikTvd": "25420001560265",
-    "tikName": "Краснозерская"
+    "tikName": "Краснозерская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 537,
     "uikTvd": "4544015246663",
+    "uikName": "УИК №537",
     "tikTvd": "25420001560265",
-    "tikName": "Краснозерская"
+    "tikName": "Краснозерская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 538,
     "uikTvd": "4544015246664",
+    "uikName": "УИК №538",
     "tikTvd": "25420001560265",
-    "tikName": "Краснозерская"
+    "tikName": "Краснозерская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 539,
     "uikTvd": "4544015246665",
+    "uikName": "УИК №539",
     "tikTvd": "25420001560265",
-    "tikName": "Краснозерская"
+    "tikName": "Краснозерская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 540,
     "uikTvd": "4544015246666",
+    "uikName": "УИК №540",
     "tikTvd": "25420001560265",
-    "tikName": "Краснозерская"
+    "tikName": "Краснозерская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 541,
     "uikTvd": "4544015246667",
+    "uikName": "УИК №541",
     "tikTvd": "25420001560265",
-    "tikName": "Краснозерская"
+    "tikName": "Краснозерская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 542,
     "uikTvd": "4544015246668",
+    "uikName": "УИК №542",
     "tikTvd": "25420001560265",
-    "tikName": "Краснозерская"
+    "tikName": "Краснозерская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 543,
     "uikTvd": "4544015246669",
+    "uikName": "УИК №543",
     "tikTvd": "25420001560265",
-    "tikName": "Краснозерская"
+    "tikName": "Краснозерская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 544,
     "uikTvd": "4544015246670",
+    "uikName": "УИК №544",
     "tikTvd": "25420001560265",
-    "tikName": "Краснозерская"
+    "tikName": "Краснозерская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 545,
     "uikTvd": "4544015246671",
+    "uikName": "УИК №545",
     "tikTvd": "25420001560265",
-    "tikName": "Краснозерская"
+    "tikName": "Краснозерская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 547,
     "uikTvd": "4544015246672",
+    "uikName": "УИК №547",
     "tikTvd": "25420001560265",
-    "tikName": "Краснозерская"
+    "tikName": "Краснозерская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 548,
     "uikTvd": "4544015246673",
+    "uikName": "УИК №548",
     "tikTvd": "25420001560265",
-    "tikName": "Краснозерская"
+    "tikName": "Краснозерская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 549,
     "uikTvd": "4544015246674",
+    "uikName": "УИК №549",
     "tikTvd": "25420001560265",
-    "tikName": "Краснозерская"
+    "tikName": "Краснозерская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 550,
     "uikTvd": "4544015246675",
+    "uikName": "УИК №550",
     "tikTvd": "25420001560265",
-    "tikName": "Краснозерская"
+    "tikName": "Краснозерская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 551,
     "uikTvd": "4544015246676",
+    "uikName": "УИК №551",
     "tikTvd": "25420001560265",
-    "tikName": "Краснозерская"
+    "tikName": "Краснозерская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 552,
     "uikTvd": "4544015246677",
+    "uikName": "УИК №552",
     "tikTvd": "25420001560265",
-    "tikName": "Краснозерская"
+    "tikName": "Краснозерская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 553,
     "uikTvd": "4544015246678",
+    "uikName": "УИК №553",
     "tikTvd": "25420001560265",
-    "tikName": "Краснозерская"
+    "tikName": "Краснозерская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 554,
     "uikTvd": "4544015246679",
+    "uikName": "УИК №554",
     "tikTvd": "25420001560265",
-    "tikName": "Краснозерская"
+    "tikName": "Краснозерская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 555,
     "uikTvd": "4544015246680",
+    "uikName": "УИК №555",
     "tikTvd": "25420001560265",
-    "tikName": "Краснозерская"
+    "tikName": "Краснозерская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 557,
     "uikTvd": "4544015246681",
+    "uikName": "УИК №557",
     "tikTvd": "25420001560265",
-    "tikName": "Краснозерская"
+    "tikName": "Краснозерская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 558,
     "uikTvd": "4544015246682",
+    "uikName": "УИК №558",
     "tikTvd": "25420001560265",
-    "tikName": "Краснозерская"
+    "tikName": "Краснозерская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 559,
     "uikTvd": "4544015246683",
+    "uikName": "УИК №559",
     "tikTvd": "25420001560265",
-    "tikName": "Краснозерская"
+    "tikName": "Краснозерская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 560,
     "uikTvd": "4544015246684",
+    "uikName": "УИК №560",
     "tikTvd": "25420001560265",
-    "tikName": "Краснозерская"
+    "tikName": "Краснозерская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 561,
     "uikTvd": "4544015246685",
+    "uikName": "УИК №561",
     "tikTvd": "25420001560265",
-    "tikName": "Краснозерская"
+    "tikName": "Краснозерская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 562,
     "uikTvd": "4544015246686",
+    "uikName": "УИК №562",
     "tikTvd": "25420001560265",
-    "tikName": "Краснозерская"
+    "tikName": "Краснозерская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 563,
     "uikTvd": "4544015246687",
+    "uikName": "УИК №563",
     "tikTvd": "25420001560265",
-    "tikName": "Краснозерская"
+    "tikName": "Краснозерская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 564,
     "uikTvd": "4544015246688",
+    "uikName": "УИК №564",
     "tikTvd": "25420001560265",
-    "tikName": "Краснозерская"
+    "tikName": "Краснозерская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 565,
     "uikTvd": "4544015246689",
+    "uikName": "УИК №565",
     "tikTvd": "25420001560265",
-    "tikName": "Краснозерская"
+    "tikName": "Краснозерская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 566,
     "uikTvd": "4544015246690",
+    "uikName": "УИК №566",
     "tikTvd": "25420001560265",
-    "tikName": "Краснозерская"
+    "tikName": "Краснозерская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 567,
     "uikTvd": "4544045430667",
+    "uikName": "УИК №567",
     "tikTvd": "25420001560261",
-    "tikName": "Куйбышевская"
+    "tikName": "Куйбышевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 568,
     "uikTvd": "4544045430668",
+    "uikName": "УИК №568",
     "tikTvd": "25420001560261",
-    "tikName": "Куйбышевская"
+    "tikName": "Куйбышевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 569,
     "uikTvd": "4544045430669",
+    "uikName": "УИК №569",
     "tikTvd": "25420001560261",
-    "tikName": "Куйбышевская"
+    "tikName": "Куйбышевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 570,
     "uikTvd": "4544045430670",
+    "uikName": "УИК №570",
     "tikTvd": "25420001560261",
-    "tikName": "Куйбышевская"
+    "tikName": "Куйбышевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 571,
     "uikTvd": "4544045430671",
+    "uikName": "УИК №571",
     "tikTvd": "25420001560261",
-    "tikName": "Куйбышевская"
+    "tikName": "Куйбышевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 572,
     "uikTvd": "4544045430672",
+    "uikName": "УИК №572",
     "tikTvd": "25420001560261",
-    "tikName": "Куйбышевская"
+    "tikName": "Куйбышевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 573,
     "uikTvd": "4544045430673",
+    "uikName": "УИК №573",
     "tikTvd": "25420001560261",
-    "tikName": "Куйбышевская"
+    "tikName": "Куйбышевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 574,
     "uikTvd": "4544045430674",
+    "uikName": "УИК №574",
     "tikTvd": "25420001560261",
-    "tikName": "Куйбышевская"
+    "tikName": "Куйбышевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 575,
     "uikTvd": "4544045430675",
+    "uikName": "УИК №575",
     "tikTvd": "25420001560261",
-    "tikName": "Куйбышевская"
+    "tikName": "Куйбышевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 576,
     "uikTvd": "4544045430676",
+    "uikName": "УИК №576",
     "tikTvd": "25420001560261",
-    "tikName": "Куйбышевская"
+    "tikName": "Куйбышевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 577,
     "uikTvd": "4544045430677",
+    "uikName": "УИК №577",
     "tikTvd": "25420001560261",
-    "tikName": "Куйбышевская"
+    "tikName": "Куйбышевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 578,
     "uikTvd": "4544045430678",
+    "uikName": "УИК №578",
     "tikTvd": "25420001560261",
-    "tikName": "Куйбышевская"
+    "tikName": "Куйбышевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 579,
     "uikTvd": "4544045430679",
+    "uikName": "УИК №579",
     "tikTvd": "25420001560261",
-    "tikName": "Куйбышевская"
+    "tikName": "Куйбышевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 580,
     "uikTvd": "4544045430680",
+    "uikName": "УИК №580",
     "tikTvd": "25420001560261",
-    "tikName": "Куйбышевская"
+    "tikName": "Куйбышевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 581,
     "uikTvd": "4544045430681",
+    "uikName": "УИК №581",
     "tikTvd": "25420001560261",
-    "tikName": "Куйбышевская"
+    "tikName": "Куйбышевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 582,
     "uikTvd": "4544045430682",
+    "uikName": "УИК №582",
     "tikTvd": "25420001560261",
-    "tikName": "Куйбышевская"
+    "tikName": "Куйбышевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 583,
     "uikTvd": "4544045430683",
+    "uikName": "УИК №583",
     "tikTvd": "25420001560261",
-    "tikName": "Куйбышевская"
+    "tikName": "Куйбышевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 584,
     "uikTvd": "4544045430684",
+    "uikName": "УИК №584",
     "tikTvd": "25420001560261",
-    "tikName": "Куйбышевская"
+    "tikName": "Куйбышевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 585,
     "uikTvd": "4544045430685",
+    "uikName": "УИК №585",
     "tikTvd": "25420001560261",
-    "tikName": "Куйбышевская"
+    "tikName": "Куйбышевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 586,
     "uikTvd": "4544045430686",
+    "uikName": "УИК №586",
     "tikTvd": "25420001560261",
-    "tikName": "Куйбышевская"
+    "tikName": "Куйбышевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 587,
     "uikTvd": "4544045430687",
+    "uikName": "УИК №587",
     "tikTvd": "25420001560261",
-    "tikName": "Куйбышевская"
+    "tikName": "Куйбышевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 588,
     "uikTvd": "4544045430688",
+    "uikName": "УИК №588",
     "tikTvd": "25420001560261",
-    "tikName": "Куйбышевская"
+    "tikName": "Куйбышевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 589,
     "uikTvd": "4544045430689",
+    "uikName": "УИК №589",
     "tikTvd": "25420001560261",
-    "tikName": "Куйбышевская"
+    "tikName": "Куйбышевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 590,
     "uikTvd": "4544045430690",
+    "uikName": "УИК №590",
     "tikTvd": "25420001560261",
-    "tikName": "Куйбышевская"
+    "tikName": "Куйбышевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 591,
     "uikTvd": "4544045430691",
+    "uikName": "УИК №591",
     "tikTvd": "25420001560261",
-    "tikName": "Куйбышевская"
+    "tikName": "Куйбышевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 592,
     "uikTvd": "4544045430692",
+    "uikName": "УИК №592",
     "tikTvd": "25420001560261",
-    "tikName": "Куйбышевская"
+    "tikName": "Куйбышевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 593,
     "uikTvd": "4544045430693",
+    "uikName": "УИК №593",
     "tikTvd": "25420001560261",
-    "tikName": "Куйбышевская"
+    "tikName": "Куйбышевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 594,
     "uikTvd": "4544045430694",
+    "uikName": "УИК №594",
     "tikTvd": "25420001560261",
-    "tikName": "Куйбышевская"
+    "tikName": "Куйбышевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 595,
     "uikTvd": "4544045430695",
+    "uikName": "УИК №595",
     "tikTvd": "25420001560261",
-    "tikName": "Куйбышевская"
+    "tikName": "Куйбышевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 596,
     "uikTvd": "4544045430696",
+    "uikName": "УИК №596",
     "tikTvd": "25420001560261",
-    "tikName": "Куйбышевская"
+    "tikName": "Куйбышевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 597,
     "uikTvd": "4544045430697",
+    "uikName": "УИК №597",
     "tikTvd": "25420001560261",
-    "tikName": "Куйбышевская"
+    "tikName": "Куйбышевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 598,
     "uikTvd": "4544045430698",
+    "uikName": "УИК №598",
     "tikTvd": "25420001560261",
-    "tikName": "Куйбышевская"
+    "tikName": "Куйбышевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 599,
     "uikTvd": "4544045430699",
+    "uikName": "УИК №599",
     "tikTvd": "25420001560261",
-    "tikName": "Куйбышевская"
+    "tikName": "Куйбышевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 600,
     "uikTvd": "4544045430700",
+    "uikName": "УИК №600",
     "tikTvd": "25420001560261",
-    "tikName": "Куйбышевская"
+    "tikName": "Куйбышевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 601,
     "uikTvd": "4544045430701",
+    "uikName": "УИК №601",
     "tikTvd": "25420001560261",
-    "tikName": "Куйбышевская"
+    "tikName": "Куйбышевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 602,
     "uikTvd": "4544045430702",
+    "uikName": "УИК №602",
     "tikTvd": "25420001560261",
-    "tikName": "Куйбышевская"
+    "tikName": "Куйбышевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 603,
     "uikTvd": "4544045430703",
+    "uikName": "УИК №603",
     "tikTvd": "25420001560261",
-    "tikName": "Куйбышевская"
+    "tikName": "Куйбышевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 604,
     "uikTvd": "4544045430704",
+    "uikName": "УИК №604",
     "tikTvd": "25420001560261",
-    "tikName": "Куйбышевская"
+    "tikName": "Куйбышевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 605,
     "uikTvd": "4544045430705",
+    "uikName": "УИК №605",
     "tikTvd": "25420001560261",
-    "tikName": "Куйбышевская"
+    "tikName": "Куйбышевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 606,
     "uikTvd": "4544045430706",
+    "uikName": "УИК №606",
     "tikTvd": "25420001560261",
-    "tikName": "Куйбышевская"
+    "tikName": "Куйбышевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 607,
     "uikTvd": "4544045430707",
+    "uikName": "УИК №607",
     "tikTvd": "25420001560261",
-    "tikName": "Куйбышевская"
+    "tikName": "Куйбышевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 608,
     "uikTvd": "4544045430708",
+    "uikName": "УИК №608",
     "tikTvd": "25420001560261",
-    "tikName": "Куйбышевская"
+    "tikName": "Куйбышевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 609,
     "uikTvd": "4544045430709",
+    "uikName": "УИК №609",
     "tikTvd": "25420001560261",
-    "tikName": "Куйбышевская"
+    "tikName": "Куйбышевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 610,
     "uikTvd": "4544045430710",
+    "uikName": "УИК №610",
     "tikTvd": "25420001560261",
-    "tikName": "Куйбышевская"
+    "tikName": "Куйбышевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 611,
     "uikTvd": "4544045430711",
+    "uikName": "УИК №611",
     "tikTvd": "25420001560261",
-    "tikName": "Куйбышевская"
+    "tikName": "Куйбышевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 612,
     "uikTvd": "4544045430712",
+    "uikName": "УИК №612",
     "tikTvd": "25420001560261",
-    "tikName": "Куйбышевская"
+    "tikName": "Куйбышевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 613,
     "uikTvd": "4544045430713",
+    "uikName": "УИК №613",
     "tikTvd": "25420001560261",
-    "tikName": "Куйбышевская"
+    "tikName": "Куйбышевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 614,
     "uikTvd": "4544045430714",
+    "uikName": "УИК №614",
     "tikTvd": "25420001560261",
-    "tikName": "Куйбышевская"
+    "tikName": "Куйбышевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 615,
     "uikTvd": "4544045430715",
+    "uikName": "УИК №615",
     "tikTvd": "25420001560261",
-    "tikName": "Куйбышевская"
+    "tikName": "Куйбышевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 616,
     "uikTvd": "4544045430716",
+    "uikName": "УИК №616",
     "tikTvd": "25420001560261",
-    "tikName": "Куйбышевская"
+    "tikName": "Куйбышевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 617,
     "uikTvd": "4544045430717",
+    "uikName": "УИК №617",
     "tikTvd": "25420001560261",
-    "tikName": "Куйбышевская"
+    "tikName": "Куйбышевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 618,
     "uikTvd": "4544045430718",
+    "uikName": "УИК №618",
     "tikTvd": "25420001560261",
-    "tikName": "Куйбышевская"
+    "tikName": "Куйбышевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 619,
     "uikTvd": "4544045430719",
+    "uikName": "УИК №619",
     "tikTvd": "25420001560261",
-    "tikName": "Куйбышевская"
+    "tikName": "Куйбышевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 620,
     "uikTvd": "4544045430720",
+    "uikName": "УИК №620",
     "tikTvd": "25420001560261",
-    "tikName": "Куйбышевская"
+    "tikName": "Куйбышевская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 621,
     "uikTvd": "4544017297519",
+    "uikName": "УИК №621",
     "tikTvd": "25420001560259",
-    "tikName": "Купинская"
+    "tikName": "Купинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 622,
     "uikTvd": "4544017297520",
+    "uikName": "УИК №622",
     "tikTvd": "25420001560259",
-    "tikName": "Купинская"
+    "tikName": "Купинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 623,
     "uikTvd": "4544017297521",
+    "uikName": "УИК №623",
     "tikTvd": "25420001560259",
-    "tikName": "Купинская"
+    "tikName": "Купинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 624,
     "uikTvd": "4544017297522",
+    "uikName": "УИК №624",
     "tikTvd": "25420001560259",
-    "tikName": "Купинская"
+    "tikName": "Купинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 625,
     "uikTvd": "4544017297523",
+    "uikName": "УИК №625",
     "tikTvd": "25420001560259",
-    "tikName": "Купинская"
+    "tikName": "Купинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 626,
     "uikTvd": "4544017297524",
+    "uikName": "УИК №626",
     "tikTvd": "25420001560259",
-    "tikName": "Купинская"
+    "tikName": "Купинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 627,
     "uikTvd": "4544017297525",
+    "uikName": "УИК №627",
     "tikTvd": "25420001560259",
-    "tikName": "Купинская"
+    "tikName": "Купинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 628,
     "uikTvd": "4544017297526",
+    "uikName": "УИК №628",
     "tikTvd": "25420001560259",
-    "tikName": "Купинская"
+    "tikName": "Купинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 629,
     "uikTvd": "4544017297527",
+    "uikName": "УИК №629",
     "tikTvd": "25420001560259",
-    "tikName": "Купинская"
+    "tikName": "Купинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 630,
     "uikTvd": "4544017297528",
+    "uikName": "УИК №630",
     "tikTvd": "25420001560259",
-    "tikName": "Купинская"
+    "tikName": "Купинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 631,
     "uikTvd": "4544017297529",
+    "uikName": "УИК №631",
     "tikTvd": "25420001560259",
-    "tikName": "Купинская"
+    "tikName": "Купинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 632,
     "uikTvd": "4544017297530",
+    "uikName": "УИК №632",
     "tikTvd": "25420001560259",
-    "tikName": "Купинская"
+    "tikName": "Купинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 633,
     "uikTvd": "4544017297531",
+    "uikName": "УИК №633",
     "tikTvd": "25420001560259",
-    "tikName": "Купинская"
+    "tikName": "Купинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 634,
     "uikTvd": "4544017297532",
+    "uikName": "УИК №634",
     "tikTvd": "25420001560259",
-    "tikName": "Купинская"
+    "tikName": "Купинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 635,
     "uikTvd": "4544017297533",
+    "uikName": "УИК №635",
     "tikTvd": "25420001560259",
-    "tikName": "Купинская"
+    "tikName": "Купинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 636,
     "uikTvd": "4544017297534",
+    "uikName": "УИК №636",
     "tikTvd": "25420001560259",
-    "tikName": "Купинская"
+    "tikName": "Купинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 638,
     "uikTvd": "4544017297535",
+    "uikName": "УИК №638",
     "tikTvd": "25420001560259",
-    "tikName": "Купинская"
+    "tikName": "Купинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 639,
     "uikTvd": "4544017297536",
+    "uikName": "УИК №639",
     "tikTvd": "25420001560259",
-    "tikName": "Купинская"
+    "tikName": "Купинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 640,
     "uikTvd": "4544017297537",
+    "uikName": "УИК №640",
     "tikTvd": "25420001560259",
-    "tikName": "Купинская"
+    "tikName": "Купинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 641,
     "uikTvd": "4544017297538",
+    "uikName": "УИК №641",
     "tikTvd": "25420001560259",
-    "tikName": "Купинская"
+    "tikName": "Купинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 642,
     "uikTvd": "4544017297539",
+    "uikName": "УИК №642",
     "tikTvd": "25420001560259",
-    "tikName": "Купинская"
+    "tikName": "Купинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 643,
     "uikTvd": "4544017297540",
+    "uikName": "УИК №643",
     "tikTvd": "25420001560259",
-    "tikName": "Купинская"
+    "tikName": "Купинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 644,
     "uikTvd": "4544017297541",
+    "uikName": "УИК №644",
     "tikTvd": "25420001560259",
-    "tikName": "Купинская"
+    "tikName": "Купинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 645,
     "uikTvd": "4544017297542",
+    "uikName": "УИК №645",
     "tikTvd": "25420001560259",
-    "tikName": "Купинская"
+    "tikName": "Купинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 646,
     "uikTvd": "4544017297543",
+    "uikName": "УИК №646",
     "tikTvd": "25420001560259",
-    "tikName": "Купинская"
+    "tikName": "Купинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 647,
     "uikTvd": "4544017297544",
+    "uikName": "УИК №647",
     "tikTvd": "25420001560259",
-    "tikName": "Купинская"
+    "tikName": "Купинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 648,
     "uikTvd": "4544017297545",
+    "uikName": "УИК №648",
     "tikTvd": "25420001560259",
-    "tikName": "Купинская"
+    "tikName": "Купинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 649,
     "uikTvd": "4544017297546",
+    "uikName": "УИК №649",
     "tikTvd": "25420001560259",
-    "tikName": "Купинская"
+    "tikName": "Купинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 650,
     "uikTvd": "4544017297547",
+    "uikName": "УИК №650",
     "tikTvd": "25420001560259",
-    "tikName": "Купинская"
+    "tikName": "Купинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 651,
     "uikTvd": "4544017297548",
+    "uikName": "УИК №651",
     "tikTvd": "25420001560259",
-    "tikName": "Купинская"
+    "tikName": "Купинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 652,
     "uikTvd": "4544017297549",
+    "uikName": "УИК №652",
     "tikTvd": "25420001560259",
-    "tikName": "Купинская"
+    "tikName": "Купинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 653,
     "uikTvd": "4544017297550",
+    "uikName": "УИК №653",
     "tikTvd": "25420001560259",
-    "tikName": "Купинская"
+    "tikName": "Купинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 654,
     "uikTvd": "4544017297551",
+    "uikName": "УИК №654",
     "tikTvd": "25420001560259",
-    "tikName": "Купинская"
+    "tikName": "Купинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 655,
     "uikTvd": "4544017297552",
+    "uikName": "УИК №655",
     "tikTvd": "25420001560259",
-    "tikName": "Купинская"
+    "tikName": "Купинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 656,
     "uikTvd": "4544017297553",
+    "uikName": "УИК №656",
     "tikTvd": "25420001560259",
-    "tikName": "Купинская"
+    "tikName": "Купинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 657,
     "uikTvd": "4544017297554",
+    "uikName": "УИК №657",
     "tikTvd": "25420001560259",
-    "tikName": "Купинская"
+    "tikName": "Купинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 658,
     "uikTvd": "4544017297555",
+    "uikName": "УИК №658",
     "tikTvd": "25420001560259",
-    "tikName": "Купинская"
+    "tikName": "Купинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 659,
     "uikTvd": "4544017297556",
+    "uikName": "УИК №659",
     "tikTvd": "25420001560259",
-    "tikName": "Купинская"
+    "tikName": "Купинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 660,
     "uikTvd": "4544017297557",
+    "uikName": "УИК №660",
     "tikTvd": "25420001560259",
-    "tikName": "Купинская"
+    "tikName": "Купинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 661,
     "uikTvd": "4544017297558",
+    "uikName": "УИК №661",
     "tikTvd": "25420001560259",
-    "tikName": "Купинская"
+    "tikName": "Купинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 662,
     "uikTvd": "4544017297559",
+    "uikName": "УИК №662",
     "tikTvd": "25420001560259",
-    "tikName": "Купинская"
+    "tikName": "Купинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 663,
     "uikTvd": "4544017297560",
+    "uikName": "УИК №663",
     "tikTvd": "25420001560259",
-    "tikName": "Купинская"
+    "tikName": "Купинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 664,
     "uikTvd": "4544017297561",
+    "uikName": "УИК №664",
     "tikTvd": "25420001560259",
-    "tikName": "Купинская"
+    "tikName": "Купинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 665,
     "uikTvd": "4544017297562",
+    "uikName": "УИК №665",
     "tikTvd": "25420001560259",
-    "tikName": "Купинская"
+    "tikName": "Купинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 667,
     "uikTvd": "4544017297563",
+    "uikName": "УИК №667",
     "tikTvd": "25420001560259",
-    "tikName": "Купинская"
+    "tikName": "Купинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 668,
     "uikTvd": "4544017297564",
+    "uikName": "УИК №668",
     "tikTvd": "25420001560259",
-    "tikName": "Купинская"
+    "tikName": "Купинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 669,
     "uikTvd": "4544017297565",
+    "uikName": "УИК №669",
     "tikTvd": "25420001560259",
-    "tikName": "Купинская"
+    "tikName": "Купинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 670,
     "uikTvd": "4544017297566",
+    "uikName": "УИК №670",
     "tikTvd": "25420001560259",
-    "tikName": "Купинская"
+    "tikName": "Купинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 671,
     "uikTvd": "4544017297567",
+    "uikName": "УИК №671",
     "tikTvd": "25420001560259",
-    "tikName": "Купинская"
+    "tikName": "Купинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 672,
     "uikTvd": "4544017297568",
+    "uikName": "УИК №672",
     "tikTvd": "25420001560259",
-    "tikName": "Купинская"
+    "tikName": "Купинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 673,
     "uikTvd": "4544017297569",
+    "uikName": "УИК №673",
     "tikTvd": "25420001560259",
-    "tikName": "Купинская"
+    "tikName": "Купинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 674,
     "uikTvd": "4544018171622",
+    "uikName": "УИК №674",
     "tikTvd": "25420001560272",
-    "tikName": "Кыштовская"
+    "tikName": "Кыштовская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 675,
     "uikTvd": "4544018171623",
+    "uikName": "УИК №675",
     "tikTvd": "25420001560272",
-    "tikName": "Кыштовская"
+    "tikName": "Кыштовская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 676,
     "uikTvd": "4544018171624",
+    "uikName": "УИК №676",
     "tikTvd": "25420001560272",
-    "tikName": "Кыштовская"
+    "tikName": "Кыштовская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 677,
     "uikTvd": "4544018171625",
+    "uikName": "УИК №677",
     "tikTvd": "25420001560272",
-    "tikName": "Кыштовская"
+    "tikName": "Кыштовская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 678,
     "uikTvd": "4544018171626",
+    "uikName": "УИК №678",
     "tikTvd": "25420001560272",
-    "tikName": "Кыштовская"
+    "tikName": "Кыштовская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 679,
     "uikTvd": "4544018171627",
+    "uikName": "УИК №679",
     "tikTvd": "25420001560272",
-    "tikName": "Кыштовская"
+    "tikName": "Кыштовская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 680,
     "uikTvd": "4544018171628",
+    "uikName": "УИК №680",
     "tikTvd": "25420001560272",
-    "tikName": "Кыштовская"
+    "tikName": "Кыштовская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 681,
     "uikTvd": "4544018171629",
+    "uikName": "УИК №681",
     "tikTvd": "25420001560272",
-    "tikName": "Кыштовская"
+    "tikName": "Кыштовская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 682,
     "uikTvd": "4544018171630",
+    "uikName": "УИК №682",
     "tikTvd": "25420001560272",
-    "tikName": "Кыштовская"
+    "tikName": "Кыштовская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 683,
     "uikTvd": "4544018171631",
+    "uikName": "УИК №683",
     "tikTvd": "25420001560272",
-    "tikName": "Кыштовская"
+    "tikName": "Кыштовская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 684,
     "uikTvd": "4544018171632",
+    "uikName": "УИК №684",
     "tikTvd": "25420001560272",
-    "tikName": "Кыштовская"
+    "tikName": "Кыштовская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 685,
     "uikTvd": "4544018171633",
+    "uikName": "УИК №685",
     "tikTvd": "25420001560272",
-    "tikName": "Кыштовская"
+    "tikName": "Кыштовская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 686,
     "uikTvd": "4544018171634",
+    "uikName": "УИК №686",
     "tikTvd": "25420001560272",
-    "tikName": "Кыштовская"
+    "tikName": "Кыштовская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 687,
     "uikTvd": "4544018171635",
+    "uikName": "УИК №687",
     "tikTvd": "25420001560272",
-    "tikName": "Кыштовская"
+    "tikName": "Кыштовская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 688,
     "uikTvd": "4544018171636",
+    "uikName": "УИК №688",
     "tikTvd": "25420001560272",
-    "tikName": "Кыштовская"
+    "tikName": "Кыштовская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 689,
     "uikTvd": "4544018171637",
+    "uikName": "УИК №689",
     "tikTvd": "25420001560272",
-    "tikName": "Кыштовская"
+    "tikName": "Кыштовская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 690,
     "uikTvd": "4544018171638",
+    "uikName": "УИК №690",
     "tikTvd": "25420001560272",
-    "tikName": "Кыштовская"
+    "tikName": "Кыштовская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 691,
     "uikTvd": "4544018171639",
+    "uikName": "УИК №691",
     "tikTvd": "25420001560272",
-    "tikName": "Кыштовская"
+    "tikName": "Кыштовская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 692,
     "uikTvd": "4544018171640",
+    "uikName": "УИК №692",
     "tikTvd": "25420001560272",
-    "tikName": "Кыштовская"
+    "tikName": "Кыштовская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 693,
     "uikTvd": "4544018171641",
+    "uikName": "УИК №693",
     "tikTvd": "25420001560272",
-    "tikName": "Кыштовская"
+    "tikName": "Кыштовская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 694,
     "uikTvd": "4544018171642",
+    "uikName": "УИК №694",
     "tikTvd": "25420001560272",
-    "tikName": "Кыштовская"
+    "tikName": "Кыштовская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 695,
     "uikTvd": "4544018171643",
+    "uikName": "УИК №695",
     "tikTvd": "25420001560272",
-    "tikName": "Кыштовская"
+    "tikName": "Кыштовская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 696,
     "uikTvd": "4544018171644",
+    "uikName": "УИК №696",
     "tikTvd": "25420001560272",
-    "tikName": "Кыштовская"
+    "tikName": "Кыштовская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 697,
     "uikTvd": "4544018171645",
+    "uikName": "УИК №697",
     "tikTvd": "25420001560272",
-    "tikName": "Кыштовская"
+    "tikName": "Кыштовская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 698,
     "uikTvd": "4544018171646",
+    "uikName": "УИК №698",
     "tikTvd": "25420001560272",
-    "tikName": "Кыштовская"
+    "tikName": "Кыштовская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 699,
     "uikTvd": "4544018171647",
+    "uikName": "УИК №699",
     "tikTvd": "25420001560272",
-    "tikName": "Кыштовская"
+    "tikName": "Кыштовская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 700,
     "uikTvd": "4544018171648",
+    "uikName": "УИК №700",
     "tikTvd": "25420001560272",
-    "tikName": "Кыштовская"
+    "tikName": "Кыштовская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 701,
     "uikTvd": "4544018171649",
+    "uikName": "УИК №701",
     "tikTvd": "25420001560272",
-    "tikName": "Кыштовская"
+    "tikName": "Кыштовская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 702,
     "uikTvd": "4544018171650",
+    "uikName": "УИК №702",
     "tikTvd": "25420001560272",
-    "tikName": "Кыштовская"
+    "tikName": "Кыштовская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 703,
     "uikTvd": "4544018171651",
+    "uikName": "УИК №703",
     "tikTvd": "25420001560272",
-    "tikName": "Кыштовская"
+    "tikName": "Кыштовская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 704,
     "uikTvd": "4544018171652",
+    "uikName": "УИК №704",
     "tikTvd": "25420001560272",
-    "tikName": "Кыштовская"
+    "tikName": "Кыштовская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 705,
     "uikTvd": "4544018171653",
+    "uikName": "УИК №705",
     "tikTvd": "25420001560272",
-    "tikName": "Кыштовская"
+    "tikName": "Кыштовская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 706,
     "uikTvd": "4544018171654",
+    "uikName": "УИК №706",
     "tikTvd": "25420001560272",
-    "tikName": "Кыштовская"
+    "tikName": "Кыштовская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 707,
     "uikTvd": "4544019188835",
+    "uikName": "УИК №707",
     "tikTvd": "25420001560241",
-    "tikName": "Маслянинская"
+    "tikName": "Маслянинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 708,
     "uikTvd": "4544019188836",
+    "uikName": "УИК №708",
     "tikTvd": "25420001560241",
-    "tikName": "Маслянинская"
+    "tikName": "Маслянинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 709,
     "uikTvd": "4544019188837",
+    "uikName": "УИК №709",
     "tikTvd": "25420001560241",
-    "tikName": "Маслянинская"
+    "tikName": "Маслянинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 710,
     "uikTvd": "4544019188838",
+    "uikName": "УИК №710",
     "tikTvd": "25420001560241",
-    "tikName": "Маслянинская"
+    "tikName": "Маслянинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 711,
     "uikTvd": "4544019188839",
+    "uikName": "УИК №711",
     "tikTvd": "25420001560241",
-    "tikName": "Маслянинская"
+    "tikName": "Маслянинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 712,
     "uikTvd": "4544019188840",
+    "uikName": "УИК №712",
     "tikTvd": "25420001560241",
-    "tikName": "Маслянинская"
+    "tikName": "Маслянинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 713,
     "uikTvd": "4544019188841",
+    "uikName": "УИК №713",
     "tikTvd": "25420001560241",
-    "tikName": "Маслянинская"
+    "tikName": "Маслянинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 714,
     "uikTvd": "4544019188842",
+    "uikName": "УИК №714",
     "tikTvd": "25420001560241",
-    "tikName": "Маслянинская"
+    "tikName": "Маслянинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 715,
     "uikTvd": "4544019188843",
+    "uikName": "УИК №715",
     "tikTvd": "25420001560241",
-    "tikName": "Маслянинская"
+    "tikName": "Маслянинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 716,
     "uikTvd": "4544019188844",
+    "uikName": "УИК №716",
     "tikTvd": "25420001560241",
-    "tikName": "Маслянинская"
+    "tikName": "Маслянинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 717,
     "uikTvd": "4544019188845",
+    "uikName": "УИК №717",
     "tikTvd": "25420001560241",
-    "tikName": "Маслянинская"
+    "tikName": "Маслянинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 718,
     "uikTvd": "4544019188846",
+    "uikName": "УИК №718",
     "tikTvd": "25420001560241",
-    "tikName": "Маслянинская"
+    "tikName": "Маслянинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 719,
     "uikTvd": "4544019188847",
+    "uikName": "УИК №719",
     "tikTvd": "25420001560241",
-    "tikName": "Маслянинская"
+    "tikName": "Маслянинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 720,
     "uikTvd": "4544019188848",
+    "uikName": "УИК №720",
     "tikTvd": "25420001560241",
-    "tikName": "Маслянинская"
+    "tikName": "Маслянинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 721,
     "uikTvd": "4544019188849",
+    "uikName": "УИК №721",
     "tikTvd": "25420001560241",
-    "tikName": "Маслянинская"
+    "tikName": "Маслянинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 722,
     "uikTvd": "4544019188850",
+    "uikName": "УИК №722",
     "tikTvd": "25420001560241",
-    "tikName": "Маслянинская"
+    "tikName": "Маслянинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 723,
     "uikTvd": "4544019188851",
+    "uikName": "УИК №723",
     "tikTvd": "25420001560241",
-    "tikName": "Маслянинская"
+    "tikName": "Маслянинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 724,
     "uikTvd": "4544019188852",
+    "uikName": "УИК №724",
     "tikTvd": "25420001560241",
-    "tikName": "Маслянинская"
+    "tikName": "Маслянинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 725,
     "uikTvd": "4544019188853",
+    "uikName": "УИК №725",
     "tikTvd": "25420001560241",
-    "tikName": "Маслянинская"
+    "tikName": "Маслянинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 726,
     "uikTvd": "4544019188854",
+    "uikName": "УИК №726",
     "tikTvd": "25420001560241",
-    "tikName": "Маслянинская"
+    "tikName": "Маслянинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 727,
     "uikTvd": "4544019188855",
+    "uikName": "УИК №727",
     "tikTvd": "25420001560241",
-    "tikName": "Маслянинская"
+    "tikName": "Маслянинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 728,
     "uikTvd": "4544019188856",
+    "uikName": "УИК №728",
     "tikTvd": "25420001560241",
-    "tikName": "Маслянинская"
+    "tikName": "Маслянинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 729,
     "uikTvd": "4544019188857",
+    "uikName": "УИК №729",
     "tikTvd": "25420001560241",
-    "tikName": "Маслянинская"
+    "tikName": "Маслянинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 730,
     "uikTvd": "4544019188858",
+    "uikName": "УИК №730",
     "tikTvd": "25420001560241",
-    "tikName": "Маслянинская"
+    "tikName": "Маслянинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 731,
     "uikTvd": "4544019188859",
+    "uikName": "УИК №731",
     "tikTvd": "25420001560241",
-    "tikName": "Маслянинская"
+    "tikName": "Маслянинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 732,
     "uikTvd": "4544019188860",
+    "uikName": "УИК №732",
     "tikTvd": "25420001560241",
-    "tikName": "Маслянинская"
+    "tikName": "Маслянинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 733,
     "uikTvd": "4544019188861",
+    "uikName": "УИК №733",
     "tikTvd": "25420001560241",
-    "tikName": "Маслянинская"
+    "tikName": "Маслянинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 734,
     "uikTvd": "4544019188862",
+    "uikName": "УИК №734",
     "tikTvd": "25420001560241",
-    "tikName": "Маслянинская"
+    "tikName": "Маслянинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 735,
     "uikTvd": "4544019188863",
+    "uikName": "УИК №735",
     "tikTvd": "25420001560241",
-    "tikName": "Маслянинская"
+    "tikName": "Маслянинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 736,
     "uikTvd": "4544019188864",
+    "uikName": "УИК №736",
     "tikTvd": "25420001560241",
-    "tikName": "Маслянинская"
+    "tikName": "Маслянинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 737,
     "uikTvd": "4544019188865",
+    "uikName": "УИК №737",
     "tikTvd": "25420001560241",
-    "tikName": "Маслянинская"
+    "tikName": "Маслянинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 738,
     "uikTvd": "4544019188866",
+    "uikName": "УИК №738",
     "tikTvd": "25420001560241",
-    "tikName": "Маслянинская"
+    "tikName": "Маслянинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 739,
     "uikTvd": "4544019188867",
+    "uikName": "УИК №739",
     "tikTvd": "25420001560241",
-    "tikName": "Маслянинская"
+    "tikName": "Маслянинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 740,
     "uikTvd": "4544019188868",
+    "uikName": "УИК №740",
     "tikTvd": "25420001560241",
-    "tikName": "Маслянинская"
+    "tikName": "Маслянинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 741,
     "uikTvd": "4544019188869",
+    "uikName": "УИК №741",
     "tikTvd": "25420001560241",
-    "tikName": "Маслянинская"
+    "tikName": "Маслянинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 742,
     "uikTvd": "4544019188870",
+    "uikName": "УИК №742",
     "tikTvd": "25420001560241",
-    "tikName": "Маслянинская"
+    "tikName": "Маслянинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 743,
     "uikTvd": "4544019188871",
+    "uikName": "УИК №743",
     "tikTvd": "25420001560241",
-    "tikName": "Маслянинская"
+    "tikName": "Маслянинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 744,
     "uikTvd": "4544019188872",
+    "uikName": "УИК №744",
     "tikTvd": "25420001560241",
-    "tikName": "Маслянинская"
+    "tikName": "Маслянинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 745,
     "uikTvd": "4544020211811",
+    "uikName": "УИК №745",
     "tikTvd": "25420001560271",
-    "tikName": "Мошковская"
+    "tikName": "Мошковская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 746,
     "uikTvd": "4544020211812",
+    "uikName": "УИК №746",
     "tikTvd": "25420001560271",
-    "tikName": "Мошковская"
+    "tikName": "Мошковская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 747,
     "uikTvd": "4544020211813",
+    "uikName": "УИК №747",
     "tikTvd": "25420001560271",
-    "tikName": "Мошковская"
+    "tikName": "Мошковская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 748,
     "uikTvd": "4544020211814",
+    "uikName": "УИК №748",
     "tikTvd": "25420001560271",
-    "tikName": "Мошковская"
+    "tikName": "Мошковская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 749,
     "uikTvd": "4544020211815",
+    "uikName": "УИК №749",
     "tikTvd": "25420001560271",
-    "tikName": "Мошковская"
+    "tikName": "Мошковская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 750,
     "uikTvd": "4544020211816",
+    "uikName": "УИК №750",
     "tikTvd": "25420001560271",
-    "tikName": "Мошковская"
+    "tikName": "Мошковская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 751,
     "uikTvd": "4544020211817",
+    "uikName": "УИК №751",
     "tikTvd": "25420001560271",
-    "tikName": "Мошковская"
+    "tikName": "Мошковская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 752,
     "uikTvd": "4544020211818",
+    "uikName": "УИК №752",
     "tikTvd": "25420001560271",
-    "tikName": "Мошковская"
+    "tikName": "Мошковская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 753,
     "uikTvd": "4544020211819",
+    "uikName": "УИК №753",
     "tikTvd": "25420001560271",
-    "tikName": "Мошковская"
+    "tikName": "Мошковская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 754,
     "uikTvd": "4544020211820",
+    "uikName": "УИК №754",
     "tikTvd": "25420001560271",
-    "tikName": "Мошковская"
+    "tikName": "Мошковская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 755,
     "uikTvd": "4544020211821",
+    "uikName": "УИК №755",
     "tikTvd": "25420001560271",
-    "tikName": "Мошковская"
+    "tikName": "Мошковская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 756,
     "uikTvd": "4544020211822",
+    "uikName": "УИК №756",
     "tikTvd": "25420001560271",
-    "tikName": "Мошковская"
+    "tikName": "Мошковская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 757,
     "uikTvd": "4544020211823",
+    "uikName": "УИК №757",
     "tikTvd": "25420001560271",
-    "tikName": "Мошковская"
+    "tikName": "Мошковская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 758,
     "uikTvd": "4544020211824",
+    "uikName": "УИК №758",
     "tikTvd": "25420001560271",
-    "tikName": "Мошковская"
+    "tikName": "Мошковская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 759,
     "uikTvd": "4544020211825",
+    "uikName": "УИК №759",
     "tikTvd": "25420001560271",
-    "tikName": "Мошковская"
+    "tikName": "Мошковская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 760,
     "uikTvd": "4544020211826",
+    "uikName": "УИК №760",
     "tikTvd": "25420001560271",
-    "tikName": "Мошковская"
+    "tikName": "Мошковская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 761,
     "uikTvd": "4544020211827",
+    "uikName": "УИК №761",
     "tikTvd": "25420001560271",
-    "tikName": "Мошковская"
+    "tikName": "Мошковская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 762,
     "uikTvd": "4544020211828",
+    "uikName": "УИК №762",
     "tikTvd": "25420001560271",
-    "tikName": "Мошковская"
+    "tikName": "Мошковская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 763,
     "uikTvd": "4544020211829",
+    "uikName": "УИК №763",
     "tikTvd": "25420001560271",
-    "tikName": "Мошковская"
+    "tikName": "Мошковская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 764,
     "uikTvd": "4544020211830",
+    "uikName": "УИК №764",
     "tikTvd": "25420001560271",
-    "tikName": "Мошковская"
+    "tikName": "Мошковская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 765,
     "uikTvd": "4544020211831",
+    "uikName": "УИК №765",
     "tikTvd": "25420001560271",
-    "tikName": "Мошковская"
+    "tikName": "Мошковская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 766,
     "uikTvd": "4544020211832",
+    "uikName": "УИК №766",
     "tikTvd": "25420001560271",
-    "tikName": "Мошковская"
+    "tikName": "Мошковская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 767,
     "uikTvd": "4544020211833",
+    "uikName": "УИК №767",
     "tikTvd": "25420001560271",
-    "tikName": "Мошковская"
+    "tikName": "Мошковская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 768,
     "uikTvd": "4544020211834",
+    "uikName": "УИК №768",
     "tikTvd": "25420001560271",
-    "tikName": "Мошковская"
+    "tikName": "Мошковская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 769,
     "uikTvd": "4544020211835",
+    "uikName": "УИК №769",
     "tikTvd": "25420001560271",
-    "tikName": "Мошковская"
+    "tikName": "Мошковская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 770,
     "uikTvd": "4544020211836",
+    "uikName": "УИК №770",
     "tikTvd": "25420001560271",
-    "tikName": "Мошковская"
+    "tikName": "Мошковская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 771,
     "uikTvd": "4544020211837",
+    "uikName": "УИК №771",
     "tikTvd": "25420001560271",
-    "tikName": "Мошковская"
+    "tikName": "Мошковская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 772,
     "uikTvd": "4544020211838",
+    "uikName": "УИК №772",
     "tikTvd": "25420001560271",
-    "tikName": "Мошковская"
+    "tikName": "Мошковская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 773,
     "uikTvd": "4544020211839",
+    "uikName": "УИК №773",
     "tikTvd": "25420001560271",
-    "tikName": "Мошковская"
+    "tikName": "Мошковская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 774,
     "uikTvd": "4544020211840",
+    "uikName": "УИК №774",
     "tikTvd": "25420001560271",
-    "tikName": "Мошковская"
+    "tikName": "Мошковская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 775,
     "uikTvd": "4544020211841",
+    "uikName": "УИК №775",
     "tikTvd": "25420001560271",
-    "tikName": "Мошковская"
+    "tikName": "Мошковская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 776,
     "uikTvd": "4544020211842",
+    "uikName": "УИК №776",
     "tikTvd": "25420001560271",
-    "tikName": "Мошковская"
+    "tikName": "Мошковская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 777,
     "uikTvd": "4544020211843",
+    "uikName": "УИК №777",
     "tikTvd": "25420001560271",
-    "tikName": "Мошковская"
+    "tikName": "Мошковская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 778,
     "uikTvd": "4544020211844",
+    "uikName": "УИК №778",
     "tikTvd": "25420001560271",
-    "tikName": "Мошковская"
+    "tikName": "Мошковская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 779,
     "uikTvd": "4544020211845",
+    "uikName": "УИК №779",
     "tikTvd": "25420001560271",
-    "tikName": "Мошковская"
+    "tikName": "Мошковская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 780,
     "uikTvd": "4544020211846",
+    "uikName": "УИК №780",
     "tikTvd": "25420001560271",
-    "tikName": "Мошковская"
+    "tikName": "Мошковская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 781,
     "uikTvd": "4544020211847",
+    "uikName": "УИК №781",
     "tikTvd": "25420001560271",
-    "tikName": "Мошковская"
+    "tikName": "Мошковская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 782,
     "uikTvd": "4544020211848",
+    "uikName": "УИК №782",
     "tikTvd": "25420001560271",
-    "tikName": "Мошковская"
+    "tikName": "Мошковская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 783,
     "uikTvd": "4544020211849",
+    "uikName": "УИК №783",
     "tikTvd": "25420001560271",
-    "tikName": "Мошковская"
+    "tikName": "Мошковская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 784,
     "uikTvd": "4544020211850",
+    "uikName": "УИК №784",
     "tikTvd": "25420001560271",
-    "tikName": "Мошковская"
+    "tikName": "Мошковская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 785,
     "uikTvd": "4544031252567",
+    "uikName": "УИК №785",
     "tikTvd": "25420001560270",
-    "tikName": "Новосибирская"
+    "tikName": "Новосибирская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 786,
     "uikTvd": "4544031252568",
+    "uikName": "УИК №786",
     "tikTvd": "25420001560270",
-    "tikName": "Новосибирская"
+    "tikName": "Новосибирская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 787,
     "uikTvd": "4544031252569",
+    "uikName": "УИК №787",
     "tikTvd": "25420001560270",
-    "tikName": "Новосибирская"
+    "tikName": "Новосибирская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 788,
     "uikTvd": "4544031252570",
+    "uikName": "УИК №788",
     "tikTvd": "25420001560270",
-    "tikName": "Новосибирская"
+    "tikName": "Новосибирская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 789,
     "uikTvd": "4544031252571",
+    "uikName": "УИК №789",
     "tikTvd": "25420001560270",
-    "tikName": "Новосибирская"
+    "tikName": "Новосибирская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 790,
     "uikTvd": "4544031252572",
+    "uikName": "УИК №790",
     "tikTvd": "25420001560270",
-    "tikName": "Новосибирская"
+    "tikName": "Новосибирская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 791,
     "uikTvd": "4544031252573",
+    "uikName": "УИК №791",
     "tikTvd": "25420001560270",
-    "tikName": "Новосибирская"
+    "tikName": "Новосибирская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 792,
     "uikTvd": "4544031252574",
+    "uikName": "УИК №792",
     "tikTvd": "25420001560270",
-    "tikName": "Новосибирская"
+    "tikName": "Новосибирская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 793,
     "uikTvd": "4544031252575",
+    "uikName": "УИК №793",
     "tikTvd": "25420001560270",
-    "tikName": "Новосибирская"
+    "tikName": "Новосибирская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 794,
     "uikTvd": "4544031252576",
+    "uikName": "УИК №794",
     "tikTvd": "25420001560270",
-    "tikName": "Новосибирская"
+    "tikName": "Новосибирская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 795,
     "uikTvd": "4544031252577",
+    "uikName": "УИК №795",
     "tikTvd": "25420001560270",
-    "tikName": "Новосибирская"
+    "tikName": "Новосибирская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 796,
     "uikTvd": "4544031252578",
+    "uikName": "УИК №796",
     "tikTvd": "25420001560270",
-    "tikName": "Новосибирская"
+    "tikName": "Новосибирская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 797,
     "uikTvd": "4544031252579",
+    "uikName": "УИК №797",
     "tikTvd": "25420001560270",
-    "tikName": "Новосибирская"
+    "tikName": "Новосибирская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 798,
     "uikTvd": "4544031252580",
+    "uikName": "УИК №798",
     "tikTvd": "25420001560270",
-    "tikName": "Новосибирская"
+    "tikName": "Новосибирская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 799,
     "uikTvd": "4544031252581",
+    "uikName": "УИК №799",
     "tikTvd": "25420001560270",
-    "tikName": "Новосибирская"
+    "tikName": "Новосибирская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 800,
     "uikTvd": "4544031252582",
+    "uikName": "УИК №800",
     "tikTvd": "25420001560270",
-    "tikName": "Новосибирская"
+    "tikName": "Новосибирская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 801,
     "uikTvd": "4544031252583",
+    "uikName": "УИК №801",
     "tikTvd": "25420001560270",
-    "tikName": "Новосибирская"
+    "tikName": "Новосибирская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 802,
     "uikTvd": "4544031252584",
+    "uikName": "УИК №802",
     "tikTvd": "25420001560270",
-    "tikName": "Новосибирская"
+    "tikName": "Новосибирская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 803,
     "uikTvd": "4544031252585",
+    "uikName": "УИК №803",
     "tikTvd": "25420001560270",
-    "tikName": "Новосибирская"
+    "tikName": "Новосибирская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 804,
     "uikTvd": "4544031252586",
+    "uikName": "УИК №804",
     "tikTvd": "25420001560270",
-    "tikName": "Новосибирская"
+    "tikName": "Новосибирская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 805,
     "uikTvd": "4544031252587",
+    "uikName": "УИК №805",
     "tikTvd": "25420001560270",
-    "tikName": "Новосибирская"
+    "tikName": "Новосибирская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 806,
     "uikTvd": "4544031252588",
+    "uikName": "УИК №806",
     "tikTvd": "25420001560270",
-    "tikName": "Новосибирская"
+    "tikName": "Новосибирская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 807,
     "uikTvd": "4544031252589",
+    "uikName": "УИК №807",
     "tikTvd": "25420001560270",
-    "tikName": "Новосибирская"
+    "tikName": "Новосибирская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 808,
     "uikTvd": "4544031252590",
+    "uikName": "УИК №808",
     "tikTvd": "25420001560270",
-    "tikName": "Новосибирская"
+    "tikName": "Новосибирская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 809,
     "uikTvd": "4544031252591",
+    "uikName": "УИК №809",
     "tikTvd": "25420001560270",
-    "tikName": "Новосибирская"
+    "tikName": "Новосибирская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 810,
     "uikTvd": "4544031252592",
+    "uikName": "УИК №810",
     "tikTvd": "25420001560270",
-    "tikName": "Новосибирская"
+    "tikName": "Новосибирская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 811,
     "uikTvd": "4544031252593",
+    "uikName": "УИК №811",
     "tikTvd": "25420001560270",
-    "tikName": "Новосибирская"
+    "tikName": "Новосибирская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 812,
     "uikTvd": "4544031252594",
+    "uikName": "УИК №812",
     "tikTvd": "25420001560270",
-    "tikName": "Новосибирская"
+    "tikName": "Новосибирская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 813,
     "uikTvd": "4544031252595",
+    "uikName": "УИК №813",
     "tikTvd": "25420001560270",
-    "tikName": "Новосибирская"
+    "tikName": "Новосибирская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 814,
     "uikTvd": "4544031252596",
+    "uikName": "УИК №814",
     "tikTvd": "25420001560270",
-    "tikName": "Новосибирская"
+    "tikName": "Новосибирская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 815,
     "uikTvd": "4544031252597",
+    "uikName": "УИК №815",
     "tikTvd": "25420001560270",
-    "tikName": "Новосибирская"
+    "tikName": "Новосибирская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 816,
     "uikTvd": "4544031252598",
+    "uikName": "УИК №816",
     "tikTvd": "25420001560270",
-    "tikName": "Новосибирская"
+    "tikName": "Новосибирская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 817,
     "uikTvd": "4544031252599",
+    "uikName": "УИК №817",
     "tikTvd": "25420001560270",
-    "tikName": "Новосибирская"
+    "tikName": "Новосибирская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 818,
     "uikTvd": "4544031252600",
+    "uikName": "УИК №818",
     "tikTvd": "25420001560270",
-    "tikName": "Новосибирская"
+    "tikName": "Новосибирская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 819,
     "uikTvd": "4544031252601",
+    "uikName": "УИК №819",
     "tikTvd": "25420001560270",
-    "tikName": "Новосибирская"
+    "tikName": "Новосибирская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 820,
     "uikTvd": "4544031252602",
+    "uikName": "УИК №820",
     "tikTvd": "25420001560270",
-    "tikName": "Новосибирская"
+    "tikName": "Новосибирская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 821,
     "uikTvd": "4544031252603",
+    "uikName": "УИК №821",
     "tikTvd": "25420001560270",
-    "tikName": "Новосибирская"
+    "tikName": "Новосибирская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 822,
     "uikTvd": "4544031252604",
+    "uikName": "УИК №822",
     "tikTvd": "25420001560270",
-    "tikName": "Новосибирская"
+    "tikName": "Новосибирская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 823,
     "uikTvd": "4544031252605",
+    "uikName": "УИК №823",
     "tikTvd": "25420001560270",
-    "tikName": "Новосибирская"
+    "tikName": "Новосибирская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 824,
     "uikTvd": "4544031252606",
+    "uikName": "УИК №824",
     "tikTvd": "25420001560270",
-    "tikName": "Новосибирская"
+    "tikName": "Новосибирская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 825,
     "uikTvd": "4544014176663",
+    "uikName": "УИК №825",
     "tikTvd": "25420001560239",
-    "tikName": "Кочковская"
+    "tikName": "Кочковская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 826,
     "uikTvd": "4544031252607",
+    "uikName": "УИК №826",
     "tikTvd": "25420001560270",
-    "tikName": "Новосибирская"
+    "tikName": "Новосибирская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 827,
     "uikTvd": "4544031252608",
+    "uikName": "УИК №827",
     "tikTvd": "25420001560270",
-    "tikName": "Новосибирская"
+    "tikName": "Новосибирская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 828,
     "uikTvd": "4544031252609",
+    "uikName": "УИК №828",
     "tikTvd": "25420001560270",
-    "tikName": "Новосибирская"
+    "tikName": "Новосибирская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 829,
     "uikTvd": "4544031252610",
+    "uikName": "УИК №829",
     "tikTvd": "25420001560270",
-    "tikName": "Новосибирская"
+    "tikName": "Новосибирская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 830,
     "uikTvd": "4544031252611",
+    "uikName": "УИК №830",
     "tikTvd": "25420001560270",
-    "tikName": "Новосибирская"
+    "tikName": "Новосибирская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 831,
     "uikTvd": "4544031252612",
+    "uikName": "УИК №831",
     "tikTvd": "25420001560270",
-    "tikName": "Новосибирская"
+    "tikName": "Новосибирская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 832,
     "uikTvd": "4544031252613",
+    "uikName": "УИК №832",
     "tikTvd": "25420001560270",
-    "tikName": "Новосибирская"
+    "tikName": "Новосибирская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 833,
     "uikTvd": "4544031252614",
+    "uikName": "УИК №833",
     "tikTvd": "25420001560270",
-    "tikName": "Новосибирская"
+    "tikName": "Новосибирская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 834,
     "uikTvd": "4544031252615",
+    "uikName": "УИК №834",
     "tikTvd": "25420001560270",
-    "tikName": "Новосибирская"
+    "tikName": "Новосибирская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 835,
     "uikTvd": "4544031252616",
+    "uikName": "УИК №835",
     "tikTvd": "25420001560270",
-    "tikName": "Новосибирская"
+    "tikName": "Новосибирская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 836,
     "uikTvd": "4544031252617",
+    "uikName": "УИК №836",
     "tikTvd": "25420001560270",
-    "tikName": "Новосибирская"
+    "tikName": "Новосибирская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 837,
     "uikTvd": "4544031252618",
+    "uikName": "УИК №837",
     "tikTvd": "25420001560270",
-    "tikName": "Новосибирская"
+    "tikName": "Новосибирская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 838,
     "uikTvd": "4544031252619",
+    "uikName": "УИК №838",
     "tikTvd": "25420001560270",
-    "tikName": "Новосибирская"
+    "tikName": "Новосибирская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 839,
     "uikTvd": "4544031252620",
+    "uikName": "УИК №839",
     "tikTvd": "25420001560270",
-    "tikName": "Новосибирская"
+    "tikName": "Новосибирская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 840,
     "uikTvd": "4544031252621",
+    "uikName": "УИК №840",
     "tikTvd": "25420001560270",
-    "tikName": "Новосибирская"
+    "tikName": "Новосибирская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 841,
     "uikTvd": "4544031252622",
+    "uikName": "УИК №841",
     "tikTvd": "25420001560270",
-    "tikName": "Новосибирская"
+    "tikName": "Новосибирская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 842,
     "uikTvd": "4544031252623",
+    "uikName": "УИК №842",
     "tikTvd": "25420001560270",
-    "tikName": "Новосибирская"
+    "tikName": "Новосибирская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 843,
     "uikTvd": "4544031252624",
+    "uikName": "УИК №843",
     "tikTvd": "25420001560270",
-    "tikName": "Новосибирская"
+    "tikName": "Новосибирская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 844,
     "uikTvd": "4544031252625",
+    "uikName": "УИК №844",
     "tikTvd": "25420001560270",
-    "tikName": "Новосибирская"
+    "tikName": "Новосибирская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 845,
     "uikTvd": "4544031252626",
+    "uikName": "УИК №845",
     "tikTvd": "25420001560270",
-    "tikName": "Новосибирская"
+    "tikName": "Новосибирская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 846,
     "uikTvd": "4544031252627",
+    "uikName": "УИК №846",
     "tikTvd": "25420001560270",
-    "tikName": "Новосибирская"
+    "tikName": "Новосибирская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 847,
     "uikTvd": "4544031252628",
+    "uikName": "УИК №847",
     "tikTvd": "25420001560270",
-    "tikName": "Новосибирская"
+    "tikName": "Новосибирская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 848,
     "uikTvd": "4544031252629",
+    "uikName": "УИК №848",
     "tikTvd": "25420001560270",
-    "tikName": "Новосибирская"
+    "tikName": "Новосибирская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 849,
     "uikTvd": "4544031252630",
+    "uikName": "УИК №849",
     "tikTvd": "25420001560270",
-    "tikName": "Новосибирская"
+    "tikName": "Новосибирская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 850,
     "uikTvd": "4544031252631",
+    "uikName": "УИК №850",
     "tikTvd": "25420001560270",
-    "tikName": "Новосибирская"
+    "tikName": "Новосибирская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 851,
     "uikTvd": "4544031252632",
+    "uikName": "УИК №851",
     "tikTvd": "25420001560270",
-    "tikName": "Новосибирская"
+    "tikName": "Новосибирская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 852,
     "uikTvd": "4544031252633",
+    "uikName": "УИК №852",
     "tikTvd": "25420001560270",
-    "tikName": "Новосибирская"
+    "tikName": "Новосибирская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 853,
     "uikTvd": "4544033220449",
+    "uikName": "УИК №853",
     "tikTvd": "25420001560279",
-    "tikName": "Ордынская"
+    "tikName": "Ордынская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 854,
     "uikTvd": "4544033220450",
+    "uikName": "УИК №854",
     "tikTvd": "25420001560279",
-    "tikName": "Ордынская"
+    "tikName": "Ордынская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 855,
     "uikTvd": "4544033220451",
+    "uikName": "УИК №855",
     "tikTvd": "25420001560279",
-    "tikName": "Ордынская"
+    "tikName": "Ордынская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 856,
     "uikTvd": "4544033220452",
+    "uikName": "УИК №856",
     "tikTvd": "25420001560279",
-    "tikName": "Ордынская"
+    "tikName": "Ордынская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 857,
     "uikTvd": "4544033220453",
+    "uikName": "УИК №857",
     "tikTvd": "25420001560279",
-    "tikName": "Ордынская"
+    "tikName": "Ордынская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 858,
     "uikTvd": "4544033220454",
+    "uikName": "УИК №858",
     "tikTvd": "25420001560279",
-    "tikName": "Ордынская"
+    "tikName": "Ордынская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 859,
     "uikTvd": "4544033220455",
+    "uikName": "УИК №859",
     "tikTvd": "25420001560279",
-    "tikName": "Ордынская"
+    "tikName": "Ордынская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 860,
     "uikTvd": "4544033220456",
+    "uikName": "УИК №860",
     "tikTvd": "25420001560279",
-    "tikName": "Ордынская"
+    "tikName": "Ордынская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 861,
     "uikTvd": "4544033220457",
+    "uikName": "УИК №861",
     "tikTvd": "25420001560279",
-    "tikName": "Ордынская"
+    "tikName": "Ордынская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 862,
     "uikTvd": "4544033220458",
+    "uikName": "УИК №862",
     "tikTvd": "25420001560279",
-    "tikName": "Ордынская"
+    "tikName": "Ордынская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 863,
     "uikTvd": "4544033220459",
+    "uikName": "УИК №863",
     "tikTvd": "25420001560279",
-    "tikName": "Ордынская"
+    "tikName": "Ордынская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 864,
     "uikTvd": "4544033220460",
+    "uikName": "УИК №864",
     "tikTvd": "25420001560279",
-    "tikName": "Ордынская"
+    "tikName": "Ордынская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 865,
     "uikTvd": "4544033220461",
+    "uikName": "УИК №865",
     "tikTvd": "25420001560279",
-    "tikName": "Ордынская"
+    "tikName": "Ордынская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 866,
     "uikTvd": "4544033220462",
+    "uikName": "УИК №866",
     "tikTvd": "25420001560279",
-    "tikName": "Ордынская"
+    "tikName": "Ордынская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 867,
     "uikTvd": "4544033220463",
+    "uikName": "УИК №867",
     "tikTvd": "25420001560279",
-    "tikName": "Ордынская"
+    "tikName": "Ордынская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 868,
     "uikTvd": "4544033220464",
+    "uikName": "УИК №868",
     "tikTvd": "25420001560279",
-    "tikName": "Ордынская"
+    "tikName": "Ордынская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 869,
     "uikTvd": "4544033220465",
+    "uikName": "УИК №869",
     "tikTvd": "25420001560279",
-    "tikName": "Ордынская"
+    "tikName": "Ордынская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 870,
     "uikTvd": "4544033220466",
+    "uikName": "УИК №870",
     "tikTvd": "25420001560279",
-    "tikName": "Ордынская"
+    "tikName": "Ордынская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 871,
     "uikTvd": "4544033220467",
+    "uikName": "УИК №871",
     "tikTvd": "25420001560279",
-    "tikName": "Ордынская"
+    "tikName": "Ордынская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 872,
     "uikTvd": "4544033220468",
+    "uikName": "УИК №872",
     "tikTvd": "25420001560279",
-    "tikName": "Ордынская"
+    "tikName": "Ордынская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 873,
     "uikTvd": "4544033220469",
+    "uikName": "УИК №873",
     "tikTvd": "25420001560279",
-    "tikName": "Ордынская"
+    "tikName": "Ордынская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 874,
     "uikTvd": "4544033220470",
+    "uikName": "УИК №874",
     "tikTvd": "25420001560279",
-    "tikName": "Ордынская"
+    "tikName": "Ордынская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 875,
     "uikTvd": "4544033220471",
+    "uikName": "УИК №875",
     "tikTvd": "25420001560279",
-    "tikName": "Ордынская"
+    "tikName": "Ордынская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 876,
     "uikTvd": "4544033220472",
+    "uikName": "УИК №876",
     "tikTvd": "25420001560279",
-    "tikName": "Ордынская"
+    "tikName": "Ордынская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 877,
     "uikTvd": "4544033220473",
+    "uikName": "УИК №877",
     "tikTvd": "25420001560279",
-    "tikName": "Ордынская"
+    "tikName": "Ордынская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 878,
     "uikTvd": "4544033220474",
+    "uikName": "УИК №878",
     "tikTvd": "25420001560279",
-    "tikName": "Ордынская"
+    "tikName": "Ордынская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 879,
     "uikTvd": "4544033220475",
+    "uikName": "УИК №879",
     "tikTvd": "25420001560279",
-    "tikName": "Ордынская"
+    "tikName": "Ордынская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 880,
     "uikTvd": "4544033220476",
+    "uikName": "УИК №880",
     "tikTvd": "25420001560279",
-    "tikName": "Ордынская"
+    "tikName": "Ордынская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 881,
     "uikTvd": "4544033220477",
+    "uikName": "УИК №881",
     "tikTvd": "25420001560279",
-    "tikName": "Ордынская"
+    "tikName": "Ордынская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 882,
     "uikTvd": "4544033220478",
+    "uikName": "УИК №882",
     "tikTvd": "25420001560279",
-    "tikName": "Ордынская"
+    "tikName": "Ордынская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 883,
     "uikTvd": "4544033220479",
+    "uikName": "УИК №883",
     "tikTvd": "25420001560279",
-    "tikName": "Ордынская"
+    "tikName": "Ордынская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 884,
     "uikTvd": "4544033220480",
+    "uikName": "УИК №884",
     "tikTvd": "25420001560279",
-    "tikName": "Ордынская"
+    "tikName": "Ордынская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 885,
     "uikTvd": "4544033220481",
+    "uikName": "УИК №885",
     "tikTvd": "25420001560279",
-    "tikName": "Ордынская"
+    "tikName": "Ордынская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 886,
     "uikTvd": "4544033220482",
+    "uikName": "УИК №886",
     "tikTvd": "25420001560279",
-    "tikName": "Ордынская"
+    "tikName": "Ордынская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 887,
     "uikTvd": "4544033220483",
+    "uikName": "УИК №887",
     "tikTvd": "25420001560279",
-    "tikName": "Ордынская"
+    "tikName": "Ордынская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 888,
     "uikTvd": "4544033220484",
+    "uikName": "УИК №888",
     "tikTvd": "25420001560279",
-    "tikName": "Ордынская"
+    "tikName": "Ордынская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 889,
     "uikTvd": "4544033220485",
+    "uikName": "УИК №889",
     "tikTvd": "25420001560279",
-    "tikName": "Ордынская"
+    "tikName": "Ордынская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 890,
     "uikTvd": "4544033220486",
+    "uikName": "УИК №890",
     "tikTvd": "25420001560279",
-    "tikName": "Ордынская"
+    "tikName": "Ордынская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 891,
     "uikTvd": "4544033220487",
+    "uikName": "УИК №891",
     "tikTvd": "25420001560279",
-    "tikName": "Ордынская"
+    "tikName": "Ордынская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 892,
     "uikTvd": "4544033220488",
+    "uikName": "УИК №892",
     "tikTvd": "25420001560279",
-    "tikName": "Ордынская"
+    "tikName": "Ордынская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 893,
     "uikTvd": "4544034169853",
+    "uikName": "УИК №893",
     "tikTvd": "25420001560256",
-    "tikName": "Северная"
+    "tikName": "Северная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 894,
     "uikTvd": "4544034169854",
+    "uikName": "УИК №894",
     "tikTvd": "25420001560256",
-    "tikName": "Северная"
+    "tikName": "Северная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 895,
     "uikTvd": "4544034169855",
+    "uikName": "УИК №895",
     "tikTvd": "25420001560256",
-    "tikName": "Северная"
+    "tikName": "Северная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 896,
     "uikTvd": "4544034169856",
+    "uikName": "УИК №896",
     "tikTvd": "25420001560256",
-    "tikName": "Северная"
+    "tikName": "Северная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 897,
     "uikTvd": "4544034169857",
+    "uikName": "УИК №897",
     "tikTvd": "25420001560256",
-    "tikName": "Северная"
+    "tikName": "Северная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 898,
     "uikTvd": "4544034169858",
+    "uikName": "УИК №898",
     "tikTvd": "25420001560256",
-    "tikName": "Северная"
+    "tikName": "Северная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 899,
     "uikTvd": "4544034169859",
+    "uikName": "УИК №899",
     "tikTvd": "25420001560256",
-    "tikName": "Северная"
+    "tikName": "Северная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 900,
     "uikTvd": "4544034169860",
+    "uikName": "УИК №900",
     "tikTvd": "25420001560256",
-    "tikName": "Северная"
+    "tikName": "Северная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 901,
     "uikTvd": "4544034169861",
+    "uikName": "УИК №901",
     "tikTvd": "25420001560256",
-    "tikName": "Северная"
+    "tikName": "Северная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 902,
     "uikTvd": "4544034169862",
+    "uikName": "УИК №902",
     "tikTvd": "25420001560256",
-    "tikName": "Северная"
+    "tikName": "Северная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 903,
     "uikTvd": "4544034169863",
+    "uikName": "УИК №903",
     "tikTvd": "25420001560256",
-    "tikName": "Северная"
+    "tikName": "Северная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 904,
     "uikTvd": "4544034169864",
+    "uikName": "УИК №904",
     "tikTvd": "25420001560256",
-    "tikName": "Северная"
+    "tikName": "Северная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 905,
     "uikTvd": "4544034169865",
+    "uikName": "УИК №905",
     "tikTvd": "25420001560256",
-    "tikName": "Северная"
+    "tikName": "Северная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 906,
     "uikTvd": "4544034169866",
+    "uikName": "УИК №906",
     "tikTvd": "25420001560256",
-    "tikName": "Северная"
+    "tikName": "Северная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 907,
     "uikTvd": "4544034169867",
+    "uikName": "УИК №907",
     "tikTvd": "25420001560256",
-    "tikName": "Северная"
+    "tikName": "Северная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 908,
     "uikTvd": "4544034169868",
+    "uikName": "УИК №908",
     "tikTvd": "25420001560256",
-    "tikName": "Северная"
+    "tikName": "Северная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 909,
     "uikTvd": "4544034169869",
+    "uikName": "УИК №909",
     "tikTvd": "25420001560256",
-    "tikName": "Северная"
+    "tikName": "Северная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 910,
     "uikTvd": "4544034169870",
+    "uikName": "УИК №910",
     "tikTvd": "25420001560256",
-    "tikName": "Северная"
+    "tikName": "Северная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 911,
     "uikTvd": "4544034169871",
+    "uikName": "УИК №911",
     "tikTvd": "25420001560256",
-    "tikName": "Северная"
+    "tikName": "Северная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 912,
     "uikTvd": "4544035229024",
+    "uikName": "УИК №912",
     "tikTvd": "25420001560254",
-    "tikName": "Сузунская"
+    "tikName": "Сузунская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 913,
     "uikTvd": "4544035229025",
+    "uikName": "УИК №913",
     "tikTvd": "25420001560254",
-    "tikName": "Сузунская"
+    "tikName": "Сузунская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 914,
     "uikTvd": "4544035229026",
+    "uikName": "УИК №914",
     "tikTvd": "25420001560254",
-    "tikName": "Сузунская"
+    "tikName": "Сузунская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 915,
     "uikTvd": "4544035229027",
+    "uikName": "УИК №915",
     "tikTvd": "25420001560254",
-    "tikName": "Сузунская"
+    "tikName": "Сузунская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 916,
     "uikTvd": "4544035229028",
+    "uikName": "УИК №916",
     "tikTvd": "25420001560254",
-    "tikName": "Сузунская"
+    "tikName": "Сузунская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 917,
     "uikTvd": "4544035229029",
+    "uikName": "УИК №917",
     "tikTvd": "25420001560254",
-    "tikName": "Сузунская"
+    "tikName": "Сузунская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 918,
     "uikTvd": "4544035229030",
+    "uikName": "УИК №918",
     "tikTvd": "25420001560254",
-    "tikName": "Сузунская"
+    "tikName": "Сузунская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 919,
     "uikTvd": "4544035229031",
+    "uikName": "УИК №919",
     "tikTvd": "25420001560254",
-    "tikName": "Сузунская"
+    "tikName": "Сузунская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 920,
     "uikTvd": "4544035229032",
+    "uikName": "УИК №920",
     "tikTvd": "25420001560254",
-    "tikName": "Сузунская"
+    "tikName": "Сузунская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 921,
     "uikTvd": "4544035229033",
+    "uikName": "УИК №921",
     "tikTvd": "25420001560254",
-    "tikName": "Сузунская"
+    "tikName": "Сузунская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 922,
     "uikTvd": "4544035229034",
+    "uikName": "УИК №922",
     "tikTvd": "25420001560254",
-    "tikName": "Сузунская"
+    "tikName": "Сузунская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 923,
     "uikTvd": "4544035229035",
+    "uikName": "УИК №923",
     "tikTvd": "25420001560254",
-    "tikName": "Сузунская"
+    "tikName": "Сузунская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 924,
     "uikTvd": "4544035229036",
+    "uikName": "УИК №924",
     "tikTvd": "25420001560254",
-    "tikName": "Сузунская"
+    "tikName": "Сузунская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 925,
     "uikTvd": "4544035229037",
+    "uikName": "УИК №925",
     "tikTvd": "25420001560254",
-    "tikName": "Сузунская"
+    "tikName": "Сузунская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 926,
     "uikTvd": "4544035229038",
+    "uikName": "УИК №926",
     "tikTvd": "25420001560254",
-    "tikName": "Сузунская"
+    "tikName": "Сузунская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 927,
     "uikTvd": "4544035229039",
+    "uikName": "УИК №927",
     "tikTvd": "25420001560254",
-    "tikName": "Сузунская"
+    "tikName": "Сузунская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 928,
     "uikTvd": "4544035229040",
+    "uikName": "УИК №928",
     "tikTvd": "25420001560254",
-    "tikName": "Сузунская"
+    "tikName": "Сузунская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 929,
     "uikTvd": "4544035229041",
+    "uikName": "УИК №929",
     "tikTvd": "25420001560254",
-    "tikName": "Сузунская"
+    "tikName": "Сузунская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 930,
     "uikTvd": "4544035229042",
+    "uikName": "УИК №930",
     "tikTvd": "25420001560254",
-    "tikName": "Сузунская"
+    "tikName": "Сузунская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 931,
     "uikTvd": "4544035229043",
+    "uikName": "УИК №931",
     "tikTvd": "25420001560254",
-    "tikName": "Сузунская"
+    "tikName": "Сузунская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 932,
     "uikTvd": "4544035229044",
+    "uikName": "УИК №932",
     "tikTvd": "25420001560254",
-    "tikName": "Сузунская"
+    "tikName": "Сузунская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 933,
     "uikTvd": "4544035229045",
+    "uikName": "УИК №933",
     "tikTvd": "25420001560254",
-    "tikName": "Сузунская"
+    "tikName": "Сузунская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 934,
     "uikTvd": "4544035229046",
+    "uikName": "УИК №934",
     "tikTvd": "25420001560254",
-    "tikName": "Сузунская"
+    "tikName": "Сузунская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 935,
     "uikTvd": "4544035229047",
+    "uikName": "УИК №935",
     "tikTvd": "25420001560254",
-    "tikName": "Сузунская"
+    "tikName": "Сузунская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 936,
     "uikTvd": "4544035229048",
+    "uikName": "УИК №936",
     "tikTvd": "25420001560254",
-    "tikName": "Сузунская"
+    "tikName": "Сузунская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 937,
     "uikTvd": "4544035229049",
+    "uikName": "УИК №937",
     "tikTvd": "25420001560254",
-    "tikName": "Сузунская"
+    "tikName": "Сузунская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 938,
     "uikTvd": "4544035229050",
+    "uikName": "УИК №938",
     "tikTvd": "25420001560254",
-    "tikName": "Сузунская"
+    "tikName": "Сузунская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 939,
     "uikTvd": "4544020211851",
+    "uikName": "УИК №939",
     "tikTvd": "25420001560271",
-    "tikName": "Мошковская"
+    "tikName": "Мошковская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 940,
     "uikTvd": "4544035229051",
+    "uikName": "УИК №940",
     "tikTvd": "25420001560254",
-    "tikName": "Сузунская"
+    "tikName": "Сузунская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 941,
     "uikTvd": "4544035229052",
+    "uikName": "УИК №941",
     "tikTvd": "25420001560254",
-    "tikName": "Сузунская"
+    "tikName": "Сузунская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 942,
     "uikTvd": "4544035229053",
+    "uikName": "УИК №942",
     "tikTvd": "25420001560254",
-    "tikName": "Сузунская"
+    "tikName": "Сузунская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 943,
     "uikTvd": "4544035229054",
+    "uikName": "УИК №943",
     "tikTvd": "25420001560254",
-    "tikName": "Сузунская"
+    "tikName": "Сузунская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 944,
     "uikTvd": "4544035229055",
+    "uikName": "УИК №944",
     "tikTvd": "25420001560254",
-    "tikName": "Сузунская"
+    "tikName": "Сузунская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 945,
     "uikTvd": "4544035229056",
+    "uikName": "УИК №945",
     "tikTvd": "25420001560254",
-    "tikName": "Сузунская"
+    "tikName": "Сузунская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 946,
     "uikTvd": "4544035229057",
+    "uikName": "УИК №946",
     "tikTvd": "25420001560254",
-    "tikName": "Сузунская"
+    "tikName": "Сузунская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 947,
     "uikTvd": "4544035229058",
+    "uikName": "УИК №947",
     "tikTvd": "25420001560254",
-    "tikName": "Сузунская"
+    "tikName": "Сузунская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 948,
     "uikTvd": "4544035229059",
+    "uikName": "УИК №948",
     "tikTvd": "25420001560254",
-    "tikName": "Сузунская"
+    "tikName": "Сузунская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 949,
     "uikTvd": "4544046296671",
+    "uikName": "УИК №949",
     "tikTvd": "25420001560269",
-    "tikName": "Татарская"
+    "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 950,
     "uikTvd": "4544046296672",
+    "uikName": "УИК №950",
     "tikTvd": "25420001560269",
-    "tikName": "Татарская"
+    "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 951,
     "uikTvd": "4544046296673",
+    "uikName": "УИК №951",
     "tikTvd": "25420001560269",
-    "tikName": "Татарская"
+    "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 952,
     "uikTvd": "4544046296674",
+    "uikName": "УИК №952",
     "tikTvd": "25420001560269",
-    "tikName": "Татарская"
+    "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 953,
     "uikTvd": "4544046296675",
+    "uikName": "УИК №953",
     "tikTvd": "25420001560269",
-    "tikName": "Татарская"
+    "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 954,
     "uikTvd": "4544046296676",
+    "uikName": "УИК №954",
     "tikTvd": "25420001560269",
-    "tikName": "Татарская"
+    "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 955,
     "uikTvd": "4544046296677",
+    "uikName": "УИК №955",
     "tikTvd": "25420001560269",
-    "tikName": "Татарская"
+    "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 956,
     "uikTvd": "4544046296678",
+    "uikName": "УИК №956",
     "tikTvd": "25420001560269",
-    "tikName": "Татарская"
+    "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 957,
     "uikTvd": "4544046296679",
+    "uikName": "УИК №957",
     "tikTvd": "25420001560269",
-    "tikName": "Татарская"
+    "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 958,
     "uikTvd": "4544046296680",
+    "uikName": "УИК №958",
     "tikTvd": "25420001560269",
-    "tikName": "Татарская"
+    "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 959,
     "uikTvd": "4544046296681",
+    "uikName": "УИК №959",
     "tikTvd": "25420001560269",
-    "tikName": "Татарская"
+    "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 960,
     "uikTvd": "4544046296682",
+    "uikName": "УИК №960",
     "tikTvd": "25420001560269",
-    "tikName": "Татарская"
+    "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 961,
     "uikTvd": "4544046296683",
+    "uikName": "УИК №961",
     "tikTvd": "25420001560269",
-    "tikName": "Татарская"
+    "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 962,
     "uikTvd": "4544046296684",
+    "uikName": "УИК №962",
     "tikTvd": "25420001560269",
-    "tikName": "Татарская"
+    "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 963,
     "uikTvd": "4544046296685",
+    "uikName": "УИК №963",
     "tikTvd": "25420001560269",
-    "tikName": "Татарская"
+    "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 964,
     "uikTvd": "4544046296686",
+    "uikName": "УИК №964",
     "tikTvd": "25420001560269",
-    "tikName": "Татарская"
+    "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 965,
     "uikTvd": "4544046296687",
+    "uikName": "УИК №965",
     "tikTvd": "25420001560269",
-    "tikName": "Татарская"
+    "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 966,
     "uikTvd": "4544046296688",
+    "uikName": "УИК №966",
     "tikTvd": "25420001560269",
-    "tikName": "Татарская"
+    "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 967,
     "uikTvd": "4544046296689",
+    "uikName": "УИК №967",
     "tikTvd": "25420001560269",
-    "tikName": "Татарская"
+    "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 968,
     "uikTvd": "4544046296690",
+    "uikName": "УИК №968",
     "tikTvd": "25420001560269",
-    "tikName": "Татарская"
+    "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 969,
     "uikTvd": "4544046296691",
+    "uikName": "УИК №969",
     "tikTvd": "25420001560269",
-    "tikName": "Татарская"
+    "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 970,
     "uikTvd": "4544046296692",
+    "uikName": "УИК №970",
     "tikTvd": "25420001560269",
-    "tikName": "Татарская"
+    "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 971,
     "uikTvd": "4544046296693",
+    "uikName": "УИК №971",
     "tikTvd": "25420001560269",
-    "tikName": "Татарская"
+    "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 972,
     "uikTvd": "4544046296694",
+    "uikName": "УИК №972",
     "tikTvd": "25420001560269",
-    "tikName": "Татарская"
+    "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 973,
     "uikTvd": "4544046296695",
+    "uikName": "УИК №973",
     "tikTvd": "25420001560269",
-    "tikName": "Татарская"
+    "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 974,
     "uikTvd": "4544046296696",
+    "uikName": "УИК №974",
     "tikTvd": "25420001560269",
-    "tikName": "Татарская"
+    "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 975,
     "uikTvd": "4544046296697",
+    "uikName": "УИК №975",
     "tikTvd": "25420001560269",
-    "tikName": "Татарская"
+    "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 976,
     "uikTvd": "4544046296698",
+    "uikName": "УИК №976",
     "tikTvd": "25420001560269",
-    "tikName": "Татарская"
+    "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 977,
     "uikTvd": "4544046296699",
+    "uikName": "УИК №977",
     "tikTvd": "25420001560269",
-    "tikName": "Татарская"
+    "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 978,
     "uikTvd": "4544046296700",
+    "uikName": "УИК №978",
     "tikTvd": "25420001560269",
-    "tikName": "Татарская"
+    "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 979,
     "uikTvd": "4544046296701",
+    "uikName": "УИК №979",
     "tikTvd": "25420001560269",
-    "tikName": "Татарская"
+    "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 980,
     "uikTvd": "4544046296702",
+    "uikName": "УИК №980",
     "tikTvd": "25420001560269",
-    "tikName": "Татарская"
+    "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 981,
     "uikTvd": "4544046296703",
+    "uikName": "УИК №981",
     "tikTvd": "25420001560269",
-    "tikName": "Татарская"
+    "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 982,
     "uikTvd": "4544046296704",
+    "uikName": "УИК №982",
     "tikTvd": "25420001560269",
-    "tikName": "Татарская"
+    "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 983,
     "uikTvd": "4544046296705",
+    "uikName": "УИК №983",
     "tikTvd": "25420001560269",
-    "tikName": "Татарская"
+    "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 984,
     "uikTvd": "4544046296706",
+    "uikName": "УИК №984",
     "tikTvd": "25420001560269",
-    "tikName": "Татарская"
+    "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 985,
     "uikTvd": "4544046296707",
+    "uikName": "УИК №985",
     "tikTvd": "25420001560269",
-    "tikName": "Татарская"
+    "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 986,
     "uikTvd": "4544046296708",
+    "uikName": "УИК №986",
     "tikTvd": "25420001560269",
-    "tikName": "Татарская"
+    "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 987,
     "uikTvd": "4544046296709",
+    "uikName": "УИК №987",
     "tikTvd": "25420001560269",
-    "tikName": "Татарская"
+    "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 988,
     "uikTvd": "4544046296710",
+    "uikName": "УИК №988",
     "tikTvd": "25420001560269",
-    "tikName": "Татарская"
+    "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 989,
     "uikTvd": "4544046296711",
+    "uikName": "УИК №989",
     "tikTvd": "25420001560269",
-    "tikName": "Татарская"
+    "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 990,
     "uikTvd": "4544046296712",
+    "uikName": "УИК №990",
     "tikTvd": "25420001560269",
-    "tikName": "Татарская"
+    "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 991,
     "uikTvd": "4544046296713",
+    "uikName": "УИК №991",
     "tikTvd": "25420001560269",
-    "tikName": "Татарская"
+    "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 992,
     "uikTvd": "4544046296714",
+    "uikName": "УИК №992",
     "tikTvd": "25420001560269",
-    "tikName": "Татарская"
+    "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 993,
     "uikTvd": "4544046296715",
+    "uikName": "УИК №993",
     "tikTvd": "25420001560269",
-    "tikName": "Татарская"
+    "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 994,
     "uikTvd": "4544046296716",
+    "uikName": "УИК №994",
     "tikTvd": "25420001560269",
-    "tikName": "Татарская"
+    "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 995,
     "uikTvd": "4544046296717",
+    "uikName": "УИК №995",
     "tikTvd": "25420001560269",
-    "tikName": "Татарская"
+    "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 996,
     "uikTvd": "4544046296718",
+    "uikName": "УИК №996",
     "tikTvd": "25420001560269",
-    "tikName": "Татарская"
+    "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 997,
     "uikTvd": "4544046296719",
+    "uikName": "УИК №997",
     "tikTvd": "25420001560269",
-    "tikName": "Татарская"
+    "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 998,
     "uikTvd": "4544046296720",
+    "uikName": "УИК №998",
     "tikTvd": "25420001560269",
-    "tikName": "Татарская"
+    "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 999,
     "uikTvd": "4544046296721",
+    "uikName": "УИК №999",
     "tikTvd": "25420001560269",
-    "tikName": "Татарская"
+    "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1000,
     "uikTvd": "4544046296722",
+    "uikName": "УИК №1000",
     "tikTvd": "25420001560269",
-    "tikName": "Татарская"
+    "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1001,
     "uikTvd": "4544046296723",
+    "uikName": "УИК №1001",
     "tikTvd": "25420001560269",
-    "tikName": "Татарская"
+    "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1002,
     "uikTvd": "4544046296724",
+    "uikName": "УИК №1002",
     "tikTvd": "25420001560269",
-    "tikName": "Татарская"
+    "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1003,
     "uikTvd": "4544046296725",
+    "uikName": "УИК №1003",
     "tikTvd": "25420001560269",
-    "tikName": "Татарская"
+    "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1004,
     "uikTvd": "4544046296726",
+    "uikName": "УИК №1004",
     "tikTvd": "25420001560269",
-    "tikName": "Татарская"
+    "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1005,
     "uikTvd": "4544046296727",
+    "uikName": "УИК №1005",
     "tikTvd": "25420001560269",
-    "tikName": "Татарская"
+    "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1006,
     "uikTvd": "4544046296728",
+    "uikName": "УИК №1006",
     "tikTvd": "25420001560269",
-    "tikName": "Татарская"
+    "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1007,
     "uikTvd": "4544046296729",
+    "uikName": "УИК №1007",
     "tikTvd": "25420001560269",
-    "tikName": "Татарская"
+    "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1008,
     "uikTvd": "4544046296730",
+    "uikName": "УИК №1008",
     "tikTvd": "25420001560269",
-    "tikName": "Татарская"
+    "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1009,
     "uikTvd": "4544046296731",
+    "uikName": "УИК №1009",
     "tikTvd": "25420001560269",
-    "tikName": "Татарская"
+    "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1010,
     "uikTvd": "4544046296732",
+    "uikName": "УИК №1010",
     "tikTvd": "25420001560269",
-    "tikName": "Татарская"
+    "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1011,
     "uikTvd": "4544037199899",
+    "uikName": "УИК №1011",
     "tikTvd": "25420001560277",
-    "tikName": "Тогучинская"
+    "tikName": "Тогучинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1012,
     "uikTvd": "4544037199900",
+    "uikName": "УИК №1012",
     "tikTvd": "25420001560277",
-    "tikName": "Тогучинская"
+    "tikName": "Тогучинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1013,
     "uikTvd": "4544037199901",
+    "uikName": "УИК №1013",
     "tikTvd": "25420001560277",
-    "tikName": "Тогучинская"
+    "tikName": "Тогучинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1014,
     "uikTvd": "4544037199902",
+    "uikName": "УИК №1014",
     "tikTvd": "25420001560277",
-    "tikName": "Тогучинская"
+    "tikName": "Тогучинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1015,
     "uikTvd": "4544037199903",
+    "uikName": "УИК №1015",
     "tikTvd": "25420001560277",
-    "tikName": "Тогучинская"
+    "tikName": "Тогучинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1016,
     "uikTvd": "4544037199904",
+    "uikName": "УИК №1016",
     "tikTvd": "25420001560277",
-    "tikName": "Тогучинская"
+    "tikName": "Тогучинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1017,
     "uikTvd": "4544037199905",
+    "uikName": "УИК №1017",
     "tikTvd": "25420001560277",
-    "tikName": "Тогучинская"
+    "tikName": "Тогучинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1018,
     "uikTvd": "4544037199906",
+    "uikName": "УИК №1018",
     "tikTvd": "25420001560277",
-    "tikName": "Тогучинская"
+    "tikName": "Тогучинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1019,
     "uikTvd": "4544037199907",
+    "uikName": "УИК №1019",
     "tikTvd": "25420001560277",
-    "tikName": "Тогучинская"
+    "tikName": "Тогучинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1020,
     "uikTvd": "4544037199908",
+    "uikName": "УИК №1020",
     "tikTvd": "25420001560277",
-    "tikName": "Тогучинская"
+    "tikName": "Тогучинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1021,
     "uikTvd": "4544001187052",
+    "uikName": "УИК №1021",
     "tikTvd": "25420001560248",
-    "tikName": "Баганская "
+    "tikName": "Баганская ",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1022,
     "uikTvd": "4544037199909",
+    "uikName": "УИК №1022",
     "tikTvd": "25420001560277",
-    "tikName": "Тогучинская"
+    "tikName": "Тогучинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1023,
     "uikTvd": "4544037199910",
+    "uikName": "УИК №1023",
     "tikTvd": "25420001560277",
-    "tikName": "Тогучинская"
+    "tikName": "Тогучинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1024,
     "uikTvd": "4544037199911",
+    "uikName": "УИК №1024",
     "tikTvd": "25420001560277",
-    "tikName": "Тогучинская"
+    "tikName": "Тогучинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1025,
     "uikTvd": "4544037199912",
+    "uikName": "УИК №1025",
     "tikTvd": "25420001560277",
-    "tikName": "Тогучинская"
+    "tikName": "Тогучинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1026,
     "uikTvd": "4544037199913",
+    "uikName": "УИК №1026",
     "tikTvd": "25420001560277",
-    "tikName": "Тогучинская"
+    "tikName": "Тогучинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1027,
     "uikTvd": "4544037199914",
+    "uikName": "УИК №1027",
     "tikTvd": "25420001560277",
-    "tikName": "Тогучинская"
+    "tikName": "Тогучинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1028,
     "uikTvd": "4544037199915",
+    "uikName": "УИК №1028",
     "tikTvd": "25420001560277",
-    "tikName": "Тогучинская"
+    "tikName": "Тогучинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1029,
     "uikTvd": "4544037199916",
+    "uikName": "УИК №1029",
     "tikTvd": "25420001560277",
-    "tikName": "Тогучинская"
+    "tikName": "Тогучинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1030,
     "uikTvd": "4544037199917",
+    "uikName": "УИК №1030",
     "tikTvd": "25420001560277",
-    "tikName": "Тогучинская"
+    "tikName": "Тогучинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1031,
     "uikTvd": "4544037199918",
+    "uikName": "УИК №1031",
     "tikTvd": "25420001560277",
-    "tikName": "Тогучинская"
+    "tikName": "Тогучинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1032,
     "uikTvd": "4544037199919",
+    "uikName": "УИК №1032",
     "tikTvd": "25420001560277",
-    "tikName": "Тогучинская"
+    "tikName": "Тогучинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1033,
     "uikTvd": "4544037199920",
+    "uikName": "УИК №1033",
     "tikTvd": "25420001560277",
-    "tikName": "Тогучинская"
+    "tikName": "Тогучинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1034,
     "uikTvd": "4544037199921",
+    "uikName": "УИК №1034",
     "tikTvd": "25420001560277",
-    "tikName": "Тогучинская"
+    "tikName": "Тогучинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1035,
     "uikTvd": "4544037199922",
+    "uikName": "УИК №1035",
     "tikTvd": "25420001560277",
-    "tikName": "Тогучинская"
+    "tikName": "Тогучинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1036,
     "uikTvd": "4544037199923",
+    "uikName": "УИК №1036",
     "tikTvd": "25420001560277",
-    "tikName": "Тогучинская"
+    "tikName": "Тогучинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1037,
     "uikTvd": "4544037199924",
+    "uikName": "УИК №1037",
     "tikTvd": "25420001560277",
-    "tikName": "Тогучинская"
+    "tikName": "Тогучинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1038,
     "uikTvd": "4544037199925",
+    "uikName": "УИК №1038",
     "tikTvd": "25420001560277",
-    "tikName": "Тогучинская"
+    "tikName": "Тогучинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1039,
     "uikTvd": "4544037199926",
+    "uikName": "УИК №1039",
     "tikTvd": "25420001560277",
-    "tikName": "Тогучинская"
+    "tikName": "Тогучинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1040,
     "uikTvd": "4544037199927",
+    "uikName": "УИК №1040",
     "tikTvd": "25420001560277",
-    "tikName": "Тогучинская"
+    "tikName": "Тогучинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1041,
     "uikTvd": "4544037199928",
+    "uikName": "УИК №1041",
     "tikTvd": "25420001560277",
-    "tikName": "Тогучинская"
+    "tikName": "Тогучинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1042,
     "uikTvd": "4544037199929",
+    "uikName": "УИК №1042",
     "tikTvd": "25420001560277",
-    "tikName": "Тогучинская"
+    "tikName": "Тогучинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1043,
     "uikTvd": "4544037199930",
+    "uikName": "УИК №1043",
     "tikTvd": "25420001560277",
-    "tikName": "Тогучинская"
+    "tikName": "Тогучинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1044,
     "uikTvd": "4544037199931",
+    "uikName": "УИК №1044",
     "tikTvd": "25420001560277",
-    "tikName": "Тогучинская"
+    "tikName": "Тогучинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1045,
     "uikTvd": "4544037199932",
+    "uikName": "УИК №1045",
     "tikTvd": "25420001560277",
-    "tikName": "Тогучинская"
+    "tikName": "Тогучинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1046,
     "uikTvd": "4544037199933",
+    "uikName": "УИК №1046",
     "tikTvd": "25420001560277",
-    "tikName": "Тогучинская"
+    "tikName": "Тогучинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1047,
     "uikTvd": "4544037199934",
+    "uikName": "УИК №1047",
     "tikTvd": "25420001560277",
-    "tikName": "Тогучинская"
+    "tikName": "Тогучинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1048,
     "uikTvd": "4544037199935",
+    "uikName": "УИК №1048",
     "tikTvd": "25420001560277",
-    "tikName": "Тогучинская"
+    "tikName": "Тогучинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1049,
     "uikTvd": "4544037199936",
+    "uikName": "УИК №1049",
     "tikTvd": "25420001560277",
-    "tikName": "Тогучинская"
+    "tikName": "Тогучинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1050,
     "uikTvd": "4544031252634",
+    "uikName": "УИК №1050",
     "tikTvd": "25420001560270",
-    "tikName": "Новосибирская"
+    "tikName": "Новосибирская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1051,
     "uikTvd": "4544037199937",
+    "uikName": "УИК №1051",
     "tikTvd": "25420001560277",
-    "tikName": "Тогучинская"
+    "tikName": "Тогучинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1052,
     "uikTvd": "4544037199938",
+    "uikName": "УИК №1052",
     "tikTvd": "25420001560277",
-    "tikName": "Тогучинская"
+    "tikName": "Тогучинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1053,
     "uikTvd": "4544037199939",
+    "uikName": "УИК №1053",
     "tikTvd": "25420001560277",
-    "tikName": "Тогучинская"
+    "tikName": "Тогучинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1054,
     "uikTvd": "4544037199940",
+    "uikName": "УИК №1054",
     "tikTvd": "25420001560277",
-    "tikName": "Тогучинская"
+    "tikName": "Тогучинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1055,
     "uikTvd": "4544037199941",
+    "uikName": "УИК №1055",
     "tikTvd": "25420001560277",
-    "tikName": "Тогучинская"
+    "tikName": "Тогучинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1056,
     "uikTvd": "4544037199942",
+    "uikName": "УИК №1056",
     "tikTvd": "25420001560277",
-    "tikName": "Тогучинская"
+    "tikName": "Тогучинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1057,
     "uikTvd": "4544037199943",
+    "uikName": "УИК №1057",
     "tikTvd": "25420001560277",
-    "tikName": "Тогучинская"
+    "tikName": "Тогучинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1058,
     "uikTvd": "4544037199944",
+    "uikName": "УИК №1058",
     "tikTvd": "25420001560277",
-    "tikName": "Тогучинская"
+    "tikName": "Тогучинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1059,
     "uikTvd": "4544037199945",
+    "uikName": "УИК №1059",
     "tikTvd": "25420001560277",
-    "tikName": "Тогучинская"
+    "tikName": "Тогучинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1060,
     "uikTvd": "4544037199946",
+    "uikName": "УИК №1060",
     "tikTvd": "25420001560277",
-    "tikName": "Тогучинская"
+    "tikName": "Тогучинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1061,
     "uikTvd": "4544037199947",
+    "uikName": "УИК №1061",
     "tikTvd": "25420001560277",
-    "tikName": "Тогучинская"
+    "tikName": "Тогучинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1062,
     "uikTvd": "4544037199948",
+    "uikName": "УИК №1062",
     "tikTvd": "25420001560277",
-    "tikName": "Тогучинская"
+    "tikName": "Тогучинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1063,
     "uikTvd": "4544037199949",
+    "uikName": "УИК №1063",
     "tikTvd": "25420001560277",
-    "tikName": "Тогучинская"
+    "tikName": "Тогучинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1064,
     "uikTvd": "4544037199950",
+    "uikName": "УИК №1064",
     "tikTvd": "25420001560277",
-    "tikName": "Тогучинская"
+    "tikName": "Тогучинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1065,
     "uikTvd": "4544031252635",
+    "uikName": "УИК №1065",
     "tikTvd": "25420001560270",
-    "tikName": "Новосибирская"
+    "tikName": "Новосибирская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1066,
     "uikTvd": "4544037199951",
+    "uikName": "УИК №1066",
     "tikTvd": "25420001560277",
-    "tikName": "Тогучинская"
+    "tikName": "Тогучинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1067,
     "uikTvd": "4544037199952",
+    "uikName": "УИК №1067",
     "tikTvd": "25420001560277",
-    "tikName": "Тогучинская"
+    "tikName": "Тогучинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1068,
     "uikTvd": "4544037199953",
+    "uikName": "УИК №1068",
     "tikTvd": "25420001560277",
-    "tikName": "Тогучинская"
+    "tikName": "Тогучинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1069,
     "uikTvd": "4544037199954",
+    "uikName": "УИК №1069",
     "tikTvd": "25420001560277",
-    "tikName": "Тогучинская"
+    "tikName": "Тогучинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1070,
     "uikTvd": "4544037199955",
+    "uikName": "УИК №1070",
     "tikTvd": "25420001560277",
-    "tikName": "Тогучинская"
+    "tikName": "Тогучинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1071,
     "uikTvd": "4544037199956",
+    "uikName": "УИК №1071",
     "tikTvd": "25420001560277",
-    "tikName": "Тогучинская"
+    "tikName": "Тогучинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1072,
     "uikTvd": "4544037199957",
+    "uikName": "УИК №1072",
     "tikTvd": "25420001560277",
-    "tikName": "Тогучинская"
+    "tikName": "Тогучинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1073,
     "uikTvd": "4544037199958",
+    "uikName": "УИК №1073",
     "tikTvd": "25420001560277",
-    "tikName": "Тогучинская"
+    "tikName": "Тогучинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1074,
     "uikTvd": "4544037199959",
+    "uikName": "УИК №1074",
     "tikTvd": "25420001560277",
-    "tikName": "Тогучинская"
+    "tikName": "Тогучинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1075,
     "uikTvd": "4544037199960",
+    "uikName": "УИК №1075",
     "tikTvd": "25420001560277",
-    "tikName": "Тогучинская"
+    "tikName": "Тогучинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1076,
     "uikTvd": "4544038184275",
+    "uikName": "УИК №1076",
     "tikTvd": "25420001560240",
-    "tikName": "Убинская"
+    "tikName": "Убинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1077,
     "uikTvd": "4544038184276",
+    "uikName": "УИК №1077",
     "tikTvd": "25420001560240",
-    "tikName": "Убинская"
+    "tikName": "Убинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1078,
     "uikTvd": "4544038184277",
+    "uikName": "УИК №1078",
     "tikTvd": "25420001560240",
-    "tikName": "Убинская"
+    "tikName": "Убинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1079,
     "uikTvd": "4544038184278",
+    "uikName": "УИК №1079",
     "tikTvd": "25420001560240",
-    "tikName": "Убинская"
+    "tikName": "Убинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1080,
     "uikTvd": "4544038184279",
+    "uikName": "УИК №1080",
     "tikTvd": "25420001560240",
-    "tikName": "Убинская"
+    "tikName": "Убинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1081,
     "uikTvd": "4544038184280",
+    "uikName": "УИК №1081",
     "tikTvd": "25420001560240",
-    "tikName": "Убинская"
+    "tikName": "Убинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1082,
     "uikTvd": "4544038184281",
+    "uikName": "УИК №1082",
     "tikTvd": "25420001560240",
-    "tikName": "Убинская"
+    "tikName": "Убинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1083,
     "uikTvd": "4544038184282",
+    "uikName": "УИК №1083",
     "tikTvd": "25420001560240",
-    "tikName": "Убинская"
+    "tikName": "Убинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1084,
     "uikTvd": "4544038184283",
+    "uikName": "УИК №1084",
     "tikTvd": "25420001560240",
-    "tikName": "Убинская"
+    "tikName": "Убинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1085,
     "uikTvd": "4544038184284",
+    "uikName": "УИК №1085",
     "tikTvd": "25420001560240",
-    "tikName": "Убинская"
+    "tikName": "Убинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1086,
     "uikTvd": "4544038184285",
+    "uikName": "УИК №1086",
     "tikTvd": "25420001560240",
-    "tikName": "Убинская"
+    "tikName": "Убинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1087,
     "uikTvd": "4544038184286",
+    "uikName": "УИК №1087",
     "tikTvd": "25420001560240",
-    "tikName": "Убинская"
+    "tikName": "Убинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1088,
     "uikTvd": "4544038184287",
+    "uikName": "УИК №1088",
     "tikTvd": "25420001560240",
-    "tikName": "Убинская"
+    "tikName": "Убинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1089,
     "uikTvd": "4544038184288",
+    "uikName": "УИК №1089",
     "tikTvd": "25420001560240",
-    "tikName": "Убинская"
+    "tikName": "Убинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1090,
     "uikTvd": "4544038184289",
+    "uikName": "УИК №1090",
     "tikTvd": "25420001560240",
-    "tikName": "Убинская"
+    "tikName": "Убинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1092,
     "uikTvd": "4544038184290",
+    "uikName": "УИК №1092",
     "tikTvd": "25420001560240",
-    "tikName": "Убинская"
+    "tikName": "Убинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1093,
     "uikTvd": "4544038184291",
+    "uikName": "УИК №1093",
     "tikTvd": "25420001560240",
-    "tikName": "Убинская"
+    "tikName": "Убинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1094,
     "uikTvd": "4544038184292",
+    "uikName": "УИК №1094",
     "tikTvd": "25420001560240",
-    "tikName": "Убинская"
+    "tikName": "Убинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1095,
     "uikTvd": "4544038184293",
+    "uikName": "УИК №1095",
     "tikTvd": "25420001560240",
-    "tikName": "Убинская"
+    "tikName": "Убинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1096,
     "uikTvd": "4544038184294",
+    "uikName": "УИК №1096",
     "tikTvd": "25420001560240",
-    "tikName": "Убинская"
+    "tikName": "Убинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1097,
     "uikTvd": "4544020211852",
+    "uikName": "УИК №1097",
     "tikTvd": "25420001560271",
-    "tikName": "Мошковская"
+    "tikName": "Мошковская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1098,
     "uikTvd": "4544038184295",
+    "uikName": "УИК №1098",
     "tikTvd": "25420001560240",
-    "tikName": "Убинская"
+    "tikName": "Убинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1099,
     "uikTvd": "4544038184296",
+    "uikName": "УИК №1099",
     "tikTvd": "25420001560240",
-    "tikName": "Убинская"
+    "tikName": "Убинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1100,
     "uikTvd": "4544038184297",
+    "uikName": "УИК №1100",
     "tikTvd": "25420001560240",
-    "tikName": "Убинская"
+    "tikName": "Убинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1101,
     "uikTvd": "4544038184298",
+    "uikName": "УИК №1101",
     "tikTvd": "25420001560240",
-    "tikName": "Убинская"
+    "tikName": "Убинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1102,
     "uikTvd": "4544038184299",
+    "uikName": "УИК №1102",
     "tikTvd": "25420001560240",
-    "tikName": "Убинская"
+    "tikName": "Убинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1103,
     "uikTvd": "4544001187053",
+    "uikName": "УИК №1103",
     "tikTvd": "25420001560248",
-    "tikName": "Баганская "
+    "tikName": "Баганская ",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1104,
     "uikTvd": "4544038184300",
+    "uikName": "УИК №1104",
     "tikTvd": "25420001560240",
-    "tikName": "Убинская"
+    "tikName": "Убинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1105,
     "uikTvd": "4544038184301",
+    "uikName": "УИК №1105",
     "tikTvd": "25420001560240",
-    "tikName": "Убинская"
+    "tikName": "Убинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1106,
     "uikTvd": "4544038184302",
+    "uikName": "УИК №1106",
     "tikTvd": "25420001560240",
-    "tikName": "Убинская"
+    "tikName": "Убинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1107,
     "uikTvd": "4544038184303",
+    "uikName": "УИК №1107",
     "tikTvd": "25420001560240",
-    "tikName": "Убинская"
+    "tikName": "Убинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1108,
     "uikTvd": "4544039199493",
+    "uikName": "УИК №1108",
     "tikTvd": "25420001560253",
-    "tikName": "Усть-Таркская"
+    "tikName": "Усть-Таркская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1109,
     "uikTvd": "4544039199494",
+    "uikName": "УИК №1109",
     "tikTvd": "25420001560253",
-    "tikName": "Усть-Таркская"
+    "tikName": "Усть-Таркская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1110,
     "uikTvd": "4544005179579",
+    "uikName": "УИК №1110",
     "tikTvd": "25420001560275",
-    "tikName": "Венгеровская"
+    "tikName": "Венгеровская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1111,
     "uikTvd": "4544039199495",
+    "uikName": "УИК №1111",
     "tikTvd": "25420001560253",
-    "tikName": "Усть-Таркская"
+    "tikName": "Усть-Таркская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1112,
     "uikTvd": "4544039199496",
+    "uikName": "УИК №1112",
     "tikTvd": "25420001560253",
-    "tikName": "Усть-Таркская"
+    "tikName": "Усть-Таркская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1113,
     "uikTvd": "4544039199497",
+    "uikName": "УИК №1113",
     "tikTvd": "25420001560253",
-    "tikName": "Усть-Таркская"
+    "tikName": "Усть-Таркская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1114,
     "uikTvd": "4544005179580",
+    "uikName": "УИК №1114",
     "tikTvd": "25420001560275",
-    "tikName": "Венгеровская"
+    "tikName": "Венгеровская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1115,
     "uikTvd": "4544039199498",
+    "uikName": "УИК №1115",
     "tikTvd": "25420001560253",
-    "tikName": "Усть-Таркская"
+    "tikName": "Усть-Таркская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1116,
     "uikTvd": "4544039199499",
+    "uikName": "УИК №1116",
     "tikTvd": "25420001560253",
-    "tikName": "Усть-Таркская"
+    "tikName": "Усть-Таркская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1117,
     "uikTvd": "4544039199500",
+    "uikName": "УИК №1117",
     "tikTvd": "25420001560253",
-    "tikName": "Усть-Таркская"
+    "tikName": "Усть-Таркская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1118,
     "uikTvd": "4544039199501",
+    "uikName": "УИК №1118",
     "tikTvd": "25420001560253",
-    "tikName": "Усть-Таркская"
+    "tikName": "Усть-Таркская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1119,
     "uikTvd": "4544039199502",
+    "uikName": "УИК №1119",
     "tikTvd": "25420001560253",
-    "tikName": "Усть-Таркская"
+    "tikName": "Усть-Таркская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1120,
     "uikTvd": "4544039199503",
+    "uikName": "УИК №1120",
     "tikTvd": "25420001560253",
-    "tikName": "Усть-Таркская"
+    "tikName": "Усть-Таркская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1121,
     "uikTvd": "4544039199504",
+    "uikName": "УИК №1121",
     "tikTvd": "25420001560253",
-    "tikName": "Усть-Таркская"
+    "tikName": "Усть-Таркская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1122,
     "uikTvd": "4544039199505",
+    "uikName": "УИК №1122",
     "tikTvd": "25420001560253",
-    "tikName": "Усть-Таркская"
+    "tikName": "Усть-Таркская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1123,
     "uikTvd": "4544039199506",
+    "uikName": "УИК №1123",
     "tikTvd": "25420001560253",
-    "tikName": "Усть-Таркская"
+    "tikName": "Усть-Таркская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1124,
     "uikTvd": "4544039199507",
+    "uikName": "УИК №1124",
     "tikTvd": "25420001560253",
-    "tikName": "Усть-Таркская"
+    "tikName": "Усть-Таркская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1125,
     "uikTvd": "4544010215800",
+    "uikName": "УИК №1125",
     "tikTvd": "25420001560274",
-    "tikName": "Карасукская"
+    "tikName": "Карасукская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1126,
     "uikTvd": "4544039199508",
+    "uikName": "УИК №1126",
     "tikTvd": "25420001560253",
-    "tikName": "Усть-Таркская"
+    "tikName": "Усть-Таркская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1127,
     "uikTvd": "4544039199509",
+    "uikName": "УИК №1127",
     "tikTvd": "25420001560253",
-    "tikName": "Усть-Таркская"
+    "tikName": "Усть-Таркская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1128,
     "uikTvd": "4544039199510",
+    "uikName": "УИК №1128",
     "tikTvd": "25420001560253",
-    "tikName": "Усть-Таркская"
+    "tikName": "Усть-Таркская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1129,
     "uikTvd": "4544005179581",
+    "uikName": "УИК №1129",
     "tikTvd": "25420001560275",
-    "tikName": "Венгеровская"
+    "tikName": "Венгеровская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1130,
     "uikTvd": "4544039199511",
+    "uikName": "УИК №1130",
     "tikTvd": "25420001560253",
-    "tikName": "Усть-Таркская"
+    "tikName": "Усть-Таркская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1131,
     "uikTvd": "4544039199512",
+    "uikName": "УИК №1131",
     "tikTvd": "25420001560253",
-    "tikName": "Усть-Таркская"
+    "tikName": "Усть-Таркская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1132,
     "uikTvd": "4544039199513",
+    "uikName": "УИК №1132",
     "tikTvd": "25420001560253",
-    "tikName": "Усть-Таркская"
+    "tikName": "Усть-Таркская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1133,
     "uikTvd": "4544031252636",
+    "uikName": "УИК №1133",
     "tikTvd": "25420001560270",
-    "tikName": "Новосибирская"
+    "tikName": "Новосибирская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1134,
     "uikTvd": "4544039199514",
+    "uikName": "УИК №1134",
     "tikTvd": "25420001560253",
-    "tikName": "Усть-Таркская"
+    "tikName": "Усть-Таркская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1135,
     "uikTvd": "4544039199515",
+    "uikName": "УИК №1135",
     "tikTvd": "25420001560253",
-    "tikName": "Усть-Таркская"
+    "tikName": "Усть-Таркская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1136,
     "uikTvd": "4544039199516",
+    "uikName": "УИК №1136",
     "tikTvd": "25420001560253",
-    "tikName": "Усть-Таркская"
+    "tikName": "Усть-Таркская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1137,
     "uikTvd": "4544039199517",
+    "uikName": "УИК №1137",
     "tikTvd": "25420001560253",
-    "tikName": "Усть-Таркская"
+    "tikName": "Усть-Таркская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1138,
     "uikTvd": "4544039199518",
+    "uikName": "УИК №1138",
     "tikTvd": "25420001560253",
-    "tikName": "Усть-Таркская"
+    "tikName": "Усть-Таркская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1139,
     "uikTvd": "4544039199519",
+    "uikName": "УИК №1139",
     "tikTvd": "25420001560253",
-    "tikName": "Усть-Таркская"
+    "tikName": "Усть-Таркская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1140,
     "uikTvd": "4544039199520",
+    "uikName": "УИК №1140",
     "tikTvd": "25420001560253",
-    "tikName": "Усть-Таркская"
+    "tikName": "Усть-Таркская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1141,
     "uikTvd": "4544010215801",
+    "uikName": "УИК №1141",
     "tikTvd": "25420001560274",
-    "tikName": "Карасукская"
+    "tikName": "Карасукская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1142,
     "uikTvd": "4544039199521",
+    "uikName": "УИК №1142",
     "tikTvd": "25420001560253",
-    "tikName": "Усть-Таркская"
+    "tikName": "Усть-Таркская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1143,
     "uikTvd": "4544039199522",
+    "uikName": "УИК №1143",
     "tikTvd": "25420001560253",
-    "tikName": "Усть-Таркская"
+    "tikName": "Усть-Таркская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1144,
     "uikTvd": "4544010215802",
+    "uikName": "УИК №1144",
     "tikTvd": "25420001560274",
-    "tikName": "Карасукская"
+    "tikName": "Карасукская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1145,
     "uikTvd": "4544039199523",
+    "uikName": "УИК №1145",
     "tikTvd": "25420001560253",
-    "tikName": "Усть-Таркская"
+    "tikName": "Усть-Таркская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1146,
     "uikTvd": "4544040232831",
+    "uikName": "УИК №1146",
     "tikTvd": "25420001560273",
-    "tikName": "Чановская"
+    "tikName": "Чановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1147,
     "uikTvd": "4544040232832",
+    "uikName": "УИК №1147",
     "tikTvd": "25420001560273",
-    "tikName": "Чановская"
+    "tikName": "Чановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1148,
     "uikTvd": "4544040232833",
+    "uikName": "УИК №1148",
     "tikTvd": "25420001560273",
-    "tikName": "Чановская"
+    "tikName": "Чановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1149,
     "uikTvd": "4544040232834",
+    "uikName": "УИК №1149",
     "tikTvd": "25420001560273",
-    "tikName": "Чановская"
+    "tikName": "Чановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1150,
     "uikTvd": "4544040232835",
+    "uikName": "УИК №1150",
     "tikTvd": "25420001560273",
-    "tikName": "Чановская"
+    "tikName": "Чановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1151,
     "uikTvd": "4544040232836",
+    "uikName": "УИК №1151",
     "tikTvd": "25420001560273",
-    "tikName": "Чановская"
+    "tikName": "Чановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1152,
     "uikTvd": "4544040232837",
+    "uikName": "УИК №1152",
     "tikTvd": "25420001560273",
-    "tikName": "Чановская"
+    "tikName": "Чановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1153,
     "uikTvd": "4544040232838",
+    "uikName": "УИК №1153",
     "tikTvd": "25420001560273",
-    "tikName": "Чановская"
+    "tikName": "Чановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1154,
     "uikTvd": "4544040232839",
+    "uikName": "УИК №1154",
     "tikTvd": "25420001560273",
-    "tikName": "Чановская"
+    "tikName": "Чановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1155,
     "uikTvd": "4544040232840",
+    "uikName": "УИК №1155",
     "tikTvd": "25420001560273",
-    "tikName": "Чановская"
+    "tikName": "Чановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1156,
     "uikTvd": "4544040232841",
+    "uikName": "УИК №1156",
     "tikTvd": "25420001560273",
-    "tikName": "Чановская"
+    "tikName": "Чановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1157,
     "uikTvd": "4544040232842",
+    "uikName": "УИК №1157",
     "tikTvd": "25420001560273",
-    "tikName": "Чановская"
+    "tikName": "Чановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1158,
     "uikTvd": "4544040232843",
+    "uikName": "УИК №1158",
     "tikTvd": "25420001560273",
-    "tikName": "Чановская"
+    "tikName": "Чановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1159,
     "uikTvd": "4544040232844",
+    "uikName": "УИК №1159",
     "tikTvd": "25420001560273",
-    "tikName": "Чановская"
+    "tikName": "Чановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1160,
     "uikTvd": "4544040232845",
+    "uikName": "УИК №1160",
     "tikTvd": "25420001560273",
-    "tikName": "Чановская"
+    "tikName": "Чановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1161,
     "uikTvd": "4544040232846",
+    "uikName": "УИК №1161",
     "tikTvd": "25420001560273",
-    "tikName": "Чановская"
+    "tikName": "Чановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1162,
     "uikTvd": "4544040232847",
+    "uikName": "УИК №1162",
     "tikTvd": "25420001560273",
-    "tikName": "Чановская"
+    "tikName": "Чановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1163,
     "uikTvd": "4544040232848",
+    "uikName": "УИК №1163",
     "tikTvd": "25420001560273",
-    "tikName": "Чановская"
+    "tikName": "Чановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1164,
     "uikTvd": "4544040232849",
+    "uikName": "УИК №1164",
     "tikTvd": "25420001560273",
-    "tikName": "Чановская"
+    "tikName": "Чановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1165,
     "uikTvd": "4544040232850",
+    "uikName": "УИК №1165",
     "tikTvd": "25420001560273",
-    "tikName": "Чановская"
+    "tikName": "Чановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1166,
     "uikTvd": "4544040232851",
+    "uikName": "УИК №1166",
     "tikTvd": "25420001560273",
-    "tikName": "Чановская"
+    "tikName": "Чановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1167,
     "uikTvd": "4544040232852",
+    "uikName": "УИК №1167",
     "tikTvd": "25420001560273",
-    "tikName": "Чановская"
+    "tikName": "Чановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1168,
     "uikTvd": "4544040232853",
+    "uikName": "УИК №1168",
     "tikTvd": "25420001560273",
-    "tikName": "Чановская"
+    "tikName": "Чановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1169,
     "uikTvd": "4544040232854",
+    "uikName": "УИК №1169",
     "tikTvd": "25420001560273",
-    "tikName": "Чановская"
+    "tikName": "Чановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1170,
     "uikTvd": "4544040232855",
+    "uikName": "УИК №1170",
     "tikTvd": "25420001560273",
-    "tikName": "Чановская"
+    "tikName": "Чановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1171,
     "uikTvd": "4544040232856",
+    "uikName": "УИК №1171",
     "tikTvd": "25420001560273",
-    "tikName": "Чановская"
+    "tikName": "Чановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1172,
     "uikTvd": "4544040232857",
+    "uikName": "УИК №1172",
     "tikTvd": "25420001560273",
-    "tikName": "Чановская"
+    "tikName": "Чановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1173,
     "uikTvd": "4544040232858",
+    "uikName": "УИК №1173",
     "tikTvd": "25420001560273",
-    "tikName": "Чановская"
+    "tikName": "Чановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1174,
     "uikTvd": "4544040232859",
+    "uikName": "УИК №1174",
     "tikTvd": "25420001560273",
-    "tikName": "Чановская"
+    "tikName": "Чановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1175,
     "uikTvd": "4544040232860",
+    "uikName": "УИК №1175",
     "tikTvd": "25420001560273",
-    "tikName": "Чановская"
+    "tikName": "Чановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1177,
     "uikTvd": "4544040232861",
+    "uikName": "УИК №1177",
     "tikTvd": "25420001560273",
-    "tikName": "Чановская"
+    "tikName": "Чановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1178,
     "uikTvd": "4544040232862",
+    "uikName": "УИК №1178",
     "tikTvd": "25420001560273",
-    "tikName": "Чановская"
+    "tikName": "Чановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1179,
     "uikTvd": "4544040232863",
+    "uikName": "УИК №1179",
     "tikTvd": "25420001560273",
-    "tikName": "Чановская"
+    "tikName": "Чановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1180,
     "uikTvd": "4544040232864",
+    "uikName": "УИК №1180",
     "tikTvd": "25420001560273",
-    "tikName": "Чановская"
+    "tikName": "Чановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1181,
     "uikTvd": "4544040232865",
+    "uikName": "УИК №1181",
     "tikTvd": "25420001560273",
-    "tikName": "Чановская"
+    "tikName": "Чановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1182,
     "uikTvd": "4544040232866",
+    "uikName": "УИК №1182",
     "tikTvd": "25420001560273",
-    "tikName": "Чановская"
+    "tikName": "Чановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1183,
     "uikTvd": "4544040232867",
+    "uikName": "УИК №1183",
     "tikTvd": "25420001560273",
-    "tikName": "Чановская"
+    "tikName": "Чановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1184,
     "uikTvd": "4544031252637",
+    "uikName": "УИК №1184",
     "tikTvd": "25420001560270",
-    "tikName": "Новосибирская"
+    "tikName": "Новосибирская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1185,
     "uikTvd": "4544031252638",
+    "uikName": "УИК №1185",
     "tikTvd": "25420001560270",
-    "tikName": "Новосибирская"
+    "tikName": "Новосибирская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1186,
     "uikTvd": "4544040232868",
+    "uikName": "УИК №1186",
     "tikTvd": "25420001560273",
-    "tikName": "Чановская"
+    "tikName": "Чановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1187,
     "uikTvd": "4544040232869",
+    "uikName": "УИК №1187",
     "tikTvd": "25420001560273",
-    "tikName": "Чановская"
+    "tikName": "Чановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1188,
     "uikTvd": "4544040232870",
+    "uikName": "УИК №1188",
     "tikTvd": "25420001560273",
-    "tikName": "Чановская"
+    "tikName": "Чановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1189,
     "uikTvd": "4544040232871",
+    "uikName": "УИК №1189",
     "tikTvd": "25420001560273",
-    "tikName": "Чановская"
+    "tikName": "Чановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1190,
     "uikTvd": "4544040232872",
+    "uikName": "УИК №1190",
     "tikTvd": "25420001560273",
-    "tikName": "Чановская"
+    "tikName": "Чановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1191,
     "uikTvd": "4544040232873",
+    "uikName": "УИК №1191",
     "tikTvd": "25420001560273",
-    "tikName": "Чановская"
+    "tikName": "Чановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1192,
     "uikTvd": "4544040232874",
+    "uikName": "УИК №1192",
     "tikTvd": "25420001560273",
-    "tikName": "Чановская"
+    "tikName": "Чановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1193,
     "uikTvd": "4544040232875",
+    "uikName": "УИК №1193",
     "tikTvd": "25420001560273",
-    "tikName": "Чановская"
+    "tikName": "Чановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1194,
     "uikTvd": "4544040232876",
+    "uikName": "УИК №1194",
     "tikTvd": "25420001560273",
-    "tikName": "Чановская"
+    "tikName": "Чановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1195,
     "uikTvd": "4544040232877",
+    "uikName": "УИК №1195",
     "tikTvd": "25420001560273",
-    "tikName": "Чановская"
+    "tikName": "Чановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1196,
     "uikTvd": "4544040232878",
+    "uikName": "УИК №1196",
     "tikTvd": "25420001560273",
-    "tikName": "Чановская"
+    "tikName": "Чановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1197,
     "uikTvd": "4544040232879",
+    "uikName": "УИК №1197",
     "tikTvd": "25420001560273",
-    "tikName": "Чановская"
+    "tikName": "Чановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1198,
     "uikTvd": "4544040232880",
+    "uikName": "УИК №1198",
     "tikTvd": "25420001560273",
-    "tikName": "Чановская"
+    "tikName": "Чановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1199,
     "uikTvd": "4544040232881",
+    "uikName": "УИК №1199",
     "tikTvd": "25420001560273",
-    "tikName": "Чановская"
+    "tikName": "Чановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1200,
     "uikTvd": "4544040232882",
+    "uikName": "УИК №1200",
     "tikTvd": "25420001560273",
-    "tikName": "Чановская"
+    "tikName": "Чановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1201,
     "uikTvd": "4544040232883",
+    "uikName": "УИК №1201",
     "tikTvd": "25420001560273",
-    "tikName": "Чановская"
+    "tikName": "Чановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1202,
     "uikTvd": "4544040232884",
+    "uikName": "УИК №1202",
     "tikTvd": "25420001560273",
-    "tikName": "Чановская"
+    "tikName": "Чановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1203,
     "uikTvd": "4544040232885",
+    "uikName": "УИК №1203",
     "tikTvd": "25420001560273",
-    "tikName": "Чановская"
+    "tikName": "Чановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1204,
     "uikTvd": "4544041253614",
+    "uikName": "УИК №1204",
     "tikTvd": "25420001560237",
-    "tikName": "Черепановская"
+    "tikName": "Черепановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1205,
     "uikTvd": "4544041253615",
+    "uikName": "УИК №1205",
     "tikTvd": "25420001560237",
-    "tikName": "Черепановская"
+    "tikName": "Черепановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1206,
     "uikTvd": "4544041253616",
+    "uikName": "УИК №1206",
     "tikTvd": "25420001560237",
-    "tikName": "Черепановская"
+    "tikName": "Черепановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1207,
     "uikTvd": "4544041253617",
+    "uikName": "УИК №1207",
     "tikTvd": "25420001560237",
-    "tikName": "Черепановская"
+    "tikName": "Черепановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1208,
     "uikTvd": "4544041253618",
+    "uikName": "УИК №1208",
     "tikTvd": "25420001560237",
-    "tikName": "Черепановская"
+    "tikName": "Черепановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1209,
     "uikTvd": "4544040232886",
+    "uikName": "УИК №1209",
     "tikTvd": "25420001560273",
-    "tikName": "Чановская"
+    "tikName": "Чановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1210,
     "uikTvd": "4544041253619",
+    "uikName": "УИК №1210",
     "tikTvd": "25420001560237",
-    "tikName": "Черепановская"
+    "tikName": "Черепановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1211,
     "uikTvd": "4544041253620",
+    "uikName": "УИК №1211",
     "tikTvd": "25420001560237",
-    "tikName": "Черепановская"
+    "tikName": "Черепановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1212,
     "uikTvd": "4544041253621",
+    "uikName": "УИК №1212",
     "tikTvd": "25420001560237",
-    "tikName": "Черепановская"
+    "tikName": "Черепановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1213,
     "uikTvd": "4544041253622",
+    "uikName": "УИК №1213",
     "tikTvd": "25420001560237",
-    "tikName": "Черепановская"
+    "tikName": "Черепановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1214,
     "uikTvd": "4544041253623",
+    "uikName": "УИК №1214",
     "tikTvd": "25420001560237",
-    "tikName": "Черепановская"
+    "tikName": "Черепановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1215,
     "uikTvd": "4544041253624",
+    "uikName": "УИК №1215",
     "tikTvd": "25420001560237",
-    "tikName": "Черепановская"
+    "tikName": "Черепановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1216,
     "uikTvd": "4544041253625",
+    "uikName": "УИК №1216",
     "tikTvd": "25420001560237",
-    "tikName": "Черепановская"
+    "tikName": "Черепановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1217,
     "uikTvd": "4544041253626",
+    "uikName": "УИК №1217",
     "tikTvd": "25420001560237",
-    "tikName": "Черепановская"
+    "tikName": "Черепановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1218,
     "uikTvd": "4544041253627",
+    "uikName": "УИК №1218",
     "tikTvd": "25420001560237",
-    "tikName": "Черепановская"
+    "tikName": "Черепановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1219,
     "uikTvd": "4544041253628",
+    "uikName": "УИК №1219",
     "tikTvd": "25420001560237",
-    "tikName": "Черепановская"
+    "tikName": "Черепановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1220,
     "uikTvd": "4544041253629",
+    "uikName": "УИК №1220",
     "tikTvd": "25420001560237",
-    "tikName": "Черепановская"
+    "tikName": "Черепановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1221,
     "uikTvd": "4544041253630",
+    "uikName": "УИК №1221",
     "tikTvd": "25420001560237",
-    "tikName": "Черепановская"
+    "tikName": "Черепановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1222,
     "uikTvd": "4544041253631",
+    "uikName": "УИК №1222",
     "tikTvd": "25420001560237",
-    "tikName": "Черепановская"
+    "tikName": "Черепановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1224,
     "uikTvd": "4544041253632",
+    "uikName": "УИК №1224",
     "tikTvd": "25420001560237",
-    "tikName": "Черепановская"
+    "tikName": "Черепановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1225,
     "uikTvd": "4544041253633",
+    "uikName": "УИК №1225",
     "tikTvd": "25420001560237",
-    "tikName": "Черепановская"
+    "tikName": "Черепановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1226,
     "uikTvd": "4544041253634",
+    "uikName": "УИК №1226",
     "tikTvd": "25420001560237",
-    "tikName": "Черепановская"
+    "tikName": "Черепановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1227,
     "uikTvd": "4544041253635",
+    "uikName": "УИК №1227",
     "tikTvd": "25420001560237",
-    "tikName": "Черепановская"
+    "tikName": "Черепановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1228,
     "uikTvd": "4544041253636",
+    "uikName": "УИК №1228",
     "tikTvd": "25420001560237",
-    "tikName": "Черепановская"
+    "tikName": "Черепановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1229,
     "uikTvd": "4544041253637",
+    "uikName": "УИК №1229",
     "tikTvd": "25420001560237",
-    "tikName": "Черепановская"
+    "tikName": "Черепановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1230,
     "uikTvd": "4544041253638",
+    "uikName": "УИК №1230",
     "tikTvd": "25420001560237",
-    "tikName": "Черепановская"
+    "tikName": "Черепановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1232,
     "uikTvd": "4544041253639",
+    "uikName": "УИК №1232",
     "tikTvd": "25420001560237",
-    "tikName": "Черепановская"
+    "tikName": "Черепановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1233,
     "uikTvd": "4544041253640",
+    "uikName": "УИК №1233",
     "tikTvd": "25420001560237",
-    "tikName": "Черепановская"
+    "tikName": "Черепановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1234,
     "uikTvd": "4544041253641",
+    "uikName": "УИК №1234",
     "tikTvd": "25420001560237",
-    "tikName": "Черепановская"
+    "tikName": "Черепановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1235,
     "uikTvd": "4544041253642",
+    "uikName": "УИК №1235",
     "tikTvd": "25420001560237",
-    "tikName": "Черепановская"
+    "tikName": "Черепановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1236,
     "uikTvd": "4544041253643",
+    "uikName": "УИК №1236",
     "tikTvd": "25420001560237",
-    "tikName": "Черепановская"
+    "tikName": "Черепановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1237,
     "uikTvd": "4544041253644",
+    "uikName": "УИК №1237",
     "tikTvd": "25420001560237",
-    "tikName": "Черепановская"
+    "tikName": "Черепановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1238,
     "uikTvd": "4544041253645",
+    "uikName": "УИК №1238",
     "tikTvd": "25420001560237",
-    "tikName": "Черепановская"
+    "tikName": "Черепановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1239,
     "uikTvd": "4544041253646",
+    "uikName": "УИК №1239",
     "tikTvd": "25420001560237",
-    "tikName": "Черепановская"
+    "tikName": "Черепановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1240,
     "uikTvd": "4544041253647",
+    "uikName": "УИК №1240",
     "tikTvd": "25420001560237",
-    "tikName": "Черепановская"
+    "tikName": "Черепановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1241,
     "uikTvd": "4544041253648",
+    "uikName": "УИК №1241",
     "tikTvd": "25420001560237",
-    "tikName": "Черепановская"
+    "tikName": "Черепановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1242,
     "uikTvd": "4544041253649",
+    "uikName": "УИК №1242",
     "tikTvd": "25420001560237",
-    "tikName": "Черепановская"
+    "tikName": "Черепановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1243,
     "uikTvd": "4544041253650",
+    "uikName": "УИК №1243",
     "tikTvd": "25420001560237",
-    "tikName": "Черепановская"
+    "tikName": "Черепановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1244,
     "uikTvd": "4544041253651",
+    "uikName": "УИК №1244",
     "tikTvd": "25420001560237",
-    "tikName": "Черепановская"
+    "tikName": "Черепановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1245,
     "uikTvd": "4544041253652",
+    "uikName": "УИК №1245",
     "tikTvd": "25420001560237",
-    "tikName": "Черепановская"
+    "tikName": "Черепановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1246,
     "uikTvd": "4544041253653",
+    "uikName": "УИК №1246",
     "tikTvd": "25420001560237",
-    "tikName": "Черепановская"
+    "tikName": "Черепановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1247,
     "uikTvd": "4544041253654",
+    "uikName": "УИК №1247",
     "tikTvd": "25420001560237",
-    "tikName": "Черепановская"
+    "tikName": "Черепановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1248,
     "uikTvd": "4544041253655",
+    "uikName": "УИК №1248",
     "tikTvd": "25420001560237",
-    "tikName": "Черепановская"
+    "tikName": "Черепановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1249,
     "uikTvd": "4544041253656",
+    "uikName": "УИК №1249",
     "tikTvd": "25420001560237",
-    "tikName": "Черепановская"
+    "tikName": "Черепановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1250,
     "uikTvd": "4544041253657",
+    "uikName": "УИК №1250",
     "tikTvd": "25420001560237",
-    "tikName": "Черепановская"
+    "tikName": "Черепановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1251,
     "uikTvd": "4544041253658",
+    "uikName": "УИК №1251",
     "tikTvd": "25420001560237",
-    "tikName": "Черепановская"
+    "tikName": "Черепановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1252,
     "uikTvd": "4544041253659",
+    "uikName": "УИК №1252",
     "tikTvd": "25420001560237",
-    "tikName": "Черепановская"
+    "tikName": "Черепановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1253,
     "uikTvd": "4544041253660",
+    "uikName": "УИК №1253",
     "tikTvd": "25420001560237",
-    "tikName": "Черепановская"
+    "tikName": "Черепановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1254,
     "uikTvd": "4544041253661",
+    "uikName": "УИК №1254",
     "tikTvd": "25420001560237",
-    "tikName": "Черепановская"
+    "tikName": "Черепановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1255,
     "uikTvd": "4544041253662",
+    "uikName": "УИК №1255",
     "tikTvd": "25420001560237",
-    "tikName": "Черепановская"
+    "tikName": "Черепановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1256,
     "uikTvd": "4544041253663",
+    "uikName": "УИК №1256",
     "tikTvd": "25420001560237",
-    "tikName": "Черепановская"
+    "tikName": "Черепановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1257,
     "uikTvd": "4544041253664",
+    "uikName": "УИК №1257",
     "tikTvd": "25420001560237",
-    "tikName": "Черепановская"
+    "tikName": "Черепановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1258,
     "uikTvd": "4544041253665",
+    "uikName": "УИК №1258",
     "tikTvd": "25420001560237",
-    "tikName": "Черепановская"
+    "tikName": "Черепановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1259,
     "uikTvd": "4544041253666",
+    "uikName": "УИК №1259",
     "tikTvd": "25420001560237",
-    "tikName": "Черепановская"
+    "tikName": "Черепановская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1260,
     "uikTvd": "4544042216732",
+    "uikName": "УИК №1260",
     "tikTvd": "25420001560263",
-    "tikName": "Чистоозерная"
+    "tikName": "Чистоозерная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1261,
     "uikTvd": "4544042216733",
+    "uikName": "УИК №1261",
     "tikTvd": "25420001560263",
-    "tikName": "Чистоозерная"
+    "tikName": "Чистоозерная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1262,
     "uikTvd": "4544042216734",
+    "uikName": "УИК №1262",
     "tikTvd": "25420001560263",
-    "tikName": "Чистоозерная"
+    "tikName": "Чистоозерная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1263,
     "uikTvd": "4544042216735",
+    "uikName": "УИК №1263",
     "tikTvd": "25420001560263",
-    "tikName": "Чистоозерная"
+    "tikName": "Чистоозерная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1264,
     "uikTvd": "4544042216736",
+    "uikName": "УИК №1264",
     "tikTvd": "25420001560263",
-    "tikName": "Чистоозерная"
+    "tikName": "Чистоозерная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1265,
     "uikTvd": "4544042216737",
+    "uikName": "УИК №1265",
     "tikTvd": "25420001560263",
-    "tikName": "Чистоозерная"
+    "tikName": "Чистоозерная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1266,
     "uikTvd": "4544042216738",
+    "uikName": "УИК №1266",
     "tikTvd": "25420001560263",
-    "tikName": "Чистоозерная"
+    "tikName": "Чистоозерная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1267,
     "uikTvd": "4544042216739",
+    "uikName": "УИК №1267",
     "tikTvd": "25420001560263",
-    "tikName": "Чистоозерная"
+    "tikName": "Чистоозерная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1268,
     "uikTvd": "4544042216740",
+    "uikName": "УИК №1268",
     "tikTvd": "25420001560263",
-    "tikName": "Чистоозерная"
+    "tikName": "Чистоозерная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1269,
     "uikTvd": "4544042216741",
+    "uikName": "УИК №1269",
     "tikTvd": "25420001560263",
-    "tikName": "Чистоозерная"
+    "tikName": "Чистоозерная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1270,
     "uikTvd": "4544042216742",
+    "uikName": "УИК №1270",
     "tikTvd": "25420001560263",
-    "tikName": "Чистоозерная"
+    "tikName": "Чистоозерная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1271,
     "uikTvd": "4544042216743",
+    "uikName": "УИК №1271",
     "tikTvd": "25420001560263",
-    "tikName": "Чистоозерная"
+    "tikName": "Чистоозерная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1272,
     "uikTvd": "4544042216744",
+    "uikName": "УИК №1272",
     "tikTvd": "25420001560263",
-    "tikName": "Чистоозерная"
+    "tikName": "Чистоозерная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1273,
     "uikTvd": "4544042216745",
+    "uikName": "УИК №1273",
     "tikTvd": "25420001560263",
-    "tikName": "Чистоозерная"
+    "tikName": "Чистоозерная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1274,
     "uikTvd": "4544042216746",
+    "uikName": "УИК №1274",
     "tikTvd": "25420001560263",
-    "tikName": "Чистоозерная"
+    "tikName": "Чистоозерная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1275,
     "uikTvd": "4544042216747",
+    "uikName": "УИК №1275",
     "tikTvd": "25420001560263",
-    "tikName": "Чистоозерная"
+    "tikName": "Чистоозерная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1276,
     "uikTvd": "4544042216748",
+    "uikName": "УИК №1276",
     "tikTvd": "25420001560263",
-    "tikName": "Чистоозерная"
+    "tikName": "Чистоозерная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1277,
     "uikTvd": "4544042216749",
+    "uikName": "УИК №1277",
     "tikTvd": "25420001560263",
-    "tikName": "Чистоозерная"
+    "tikName": "Чистоозерная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1278,
     "uikTvd": "4544042216750",
+    "uikName": "УИК №1278",
     "tikTvd": "25420001560263",
-    "tikName": "Чистоозерная"
+    "tikName": "Чистоозерная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1279,
     "uikTvd": "4544042216751",
+    "uikName": "УИК №1279",
     "tikTvd": "25420001560263",
-    "tikName": "Чистоозерная"
+    "tikName": "Чистоозерная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1280,
     "uikTvd": "4544042216752",
+    "uikName": "УИК №1280",
     "tikTvd": "25420001560263",
-    "tikName": "Чистоозерная"
+    "tikName": "Чистоозерная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1281,
     "uikTvd": "4544042216753",
+    "uikName": "УИК №1281",
     "tikTvd": "25420001560263",
-    "tikName": "Чистоозерная"
+    "tikName": "Чистоозерная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1282,
     "uikTvd": "4544042216754",
+    "uikName": "УИК №1282",
     "tikTvd": "25420001560263",
-    "tikName": "Чистоозерная"
+    "tikName": "Чистоозерная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1283,
     "uikTvd": "4544042216755",
+    "uikName": "УИК №1283",
     "tikTvd": "25420001560263",
-    "tikName": "Чистоозерная"
+    "tikName": "Чистоозерная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1284,
     "uikTvd": "4544042216756",
+    "uikName": "УИК №1284",
     "tikTvd": "25420001560263",
-    "tikName": "Чистоозерная"
+    "tikName": "Чистоозерная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1285,
     "uikTvd": "4544042216757",
+    "uikName": "УИК №1285",
     "tikTvd": "25420001560263",
-    "tikName": "Чистоозерная"
+    "tikName": "Чистоозерная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1286,
     "uikTvd": "4544042216758",
+    "uikName": "УИК №1286",
     "tikTvd": "25420001560263",
-    "tikName": "Чистоозерная"
+    "tikName": "Чистоозерная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1287,
     "uikTvd": "4544042216759",
+    "uikName": "УИК №1287",
     "tikTvd": "25420001560263",
-    "tikName": "Чистоозерная"
+    "tikName": "Чистоозерная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1288,
     "uikTvd": "4544042216760",
+    "uikName": "УИК №1288",
     "tikTvd": "25420001560263",
-    "tikName": "Чистоозерная"
+    "tikName": "Чистоозерная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1289,
     "uikTvd": "4544042216761",
+    "uikName": "УИК №1289",
     "tikTvd": "25420001560263",
-    "tikName": "Чистоозерная"
+    "tikName": "Чистоозерная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1290,
     "uikTvd": "4544042216762",
+    "uikName": "УИК №1290",
     "tikTvd": "25420001560263",
-    "tikName": "Чистоозерная"
+    "tikName": "Чистоозерная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1291,
     "uikTvd": "4544042216763",
+    "uikName": "УИК №1291",
     "tikTvd": "25420001560263",
-    "tikName": "Чистоозерная"
+    "tikName": "Чистоозерная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1292,
     "uikTvd": "4544042216764",
+    "uikName": "УИК №1292",
     "tikTvd": "25420001560263",
-    "tikName": "Чистоозерная"
+    "tikName": "Чистоозерная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1293,
     "uikTvd": "4544042216765",
+    "uikName": "УИК №1293",
     "tikTvd": "25420001560263",
-    "tikName": "Чистоозерная"
+    "tikName": "Чистоозерная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1294,
     "uikTvd": "4544042216766",
+    "uikName": "УИК №1294",
     "tikTvd": "25420001560263",
-    "tikName": "Чистоозерная"
+    "tikName": "Чистоозерная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1295,
     "uikTvd": "4544043191244",
+    "uikName": "УИК №1295",
     "tikTvd": "25420001560247",
-    "tikName": "Чулымская"
+    "tikName": "Чулымская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1296,
     "uikTvd": "4544043191245",
+    "uikName": "УИК №1296",
     "tikTvd": "25420001560247",
-    "tikName": "Чулымская"
+    "tikName": "Чулымская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1297,
     "uikTvd": "4544043191246",
+    "uikName": "УИК №1297",
     "tikTvd": "25420001560247",
-    "tikName": "Чулымская"
+    "tikName": "Чулымская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1298,
     "uikTvd": "4544043191247",
+    "uikName": "УИК №1298",
     "tikTvd": "25420001560247",
-    "tikName": "Чулымская"
+    "tikName": "Чулымская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1299,
     "uikTvd": "4544043191248",
+    "uikName": "УИК №1299",
     "tikTvd": "25420001560247",
-    "tikName": "Чулымская"
+    "tikName": "Чулымская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1300,
     "uikTvd": "4544043191249",
+    "uikName": "УИК №1300",
     "tikTvd": "25420001560247",
-    "tikName": "Чулымская"
+    "tikName": "Чулымская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1301,
     "uikTvd": "4544043191250",
+    "uikName": "УИК №1301",
     "tikTvd": "25420001560247",
-    "tikName": "Чулымская"
+    "tikName": "Чулымская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1302,
     "uikTvd": "4544043191251",
+    "uikName": "УИК №1302",
     "tikTvd": "25420001560247",
-    "tikName": "Чулымская"
+    "tikName": "Чулымская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1303,
     "uikTvd": "4544043191252",
+    "uikName": "УИК №1303",
     "tikTvd": "25420001560247",
-    "tikName": "Чулымская"
+    "tikName": "Чулымская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1304,
     "uikTvd": "4544043191253",
+    "uikName": "УИК №1304",
     "tikTvd": "25420001560247",
-    "tikName": "Чулымская"
+    "tikName": "Чулымская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1305,
     "uikTvd": "4544043191254",
+    "uikName": "УИК №1305",
     "tikTvd": "25420001560247",
-    "tikName": "Чулымская"
+    "tikName": "Чулымская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1306,
     "uikTvd": "4544043191255",
+    "uikName": "УИК №1306",
     "tikTvd": "25420001560247",
-    "tikName": "Чулымская"
+    "tikName": "Чулымская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1307,
     "uikTvd": "4544043191256",
+    "uikName": "УИК №1307",
     "tikTvd": "25420001560247",
-    "tikName": "Чулымская"
+    "tikName": "Чулымская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1308,
     "uikTvd": "4544043191257",
+    "uikName": "УИК №1308",
     "tikTvd": "25420001560247",
-    "tikName": "Чулымская"
+    "tikName": "Чулымская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1309,
     "uikTvd": "4544043191258",
+    "uikName": "УИК №1309",
     "tikTvd": "25420001560247",
-    "tikName": "Чулымская"
+    "tikName": "Чулымская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1310,
     "uikTvd": "4544043191259",
+    "uikName": "УИК №1310",
     "tikTvd": "25420001560247",
-    "tikName": "Чулымская"
+    "tikName": "Чулымская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1311,
     "uikTvd": "4544043191260",
+    "uikName": "УИК №1311",
     "tikTvd": "25420001560247",
-    "tikName": "Чулымская"
+    "tikName": "Чулымская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1312,
     "uikTvd": "4544043191261",
+    "uikName": "УИК №1312",
     "tikTvd": "25420001560247",
-    "tikName": "Чулымская"
+    "tikName": "Чулымская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1313,
     "uikTvd": "4544043191262",
+    "uikName": "УИК №1313",
     "tikTvd": "25420001560247",
-    "tikName": "Чулымская"
+    "tikName": "Чулымская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1314,
     "uikTvd": "4544043191263",
+    "uikName": "УИК №1314",
     "tikTvd": "25420001560247",
-    "tikName": "Чулымская"
+    "tikName": "Чулымская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1315,
     "uikTvd": "4544043191264",
+    "uikName": "УИК №1315",
     "tikTvd": "25420001560247",
-    "tikName": "Чулымская"
+    "tikName": "Чулымская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1316,
     "uikTvd": "4544043191265",
+    "uikName": "УИК №1316",
     "tikTvd": "25420001560247",
-    "tikName": "Чулымская"
+    "tikName": "Чулымская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1317,
     "uikTvd": "4544043191266",
+    "uikName": "УИК №1317",
     "tikTvd": "25420001560247",
-    "tikName": "Чулымская"
+    "tikName": "Чулымская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1318,
     "uikTvd": "4544043191267",
+    "uikName": "УИК №1318",
     "tikTvd": "25420001560247",
-    "tikName": "Чулымская"
+    "tikName": "Чулымская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1319,
     "uikTvd": "4544043191268",
+    "uikName": "УИК №1319",
     "tikTvd": "25420001560247",
-    "tikName": "Чулымская"
+    "tikName": "Чулымская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1320,
     "uikTvd": "4544043191269",
+    "uikName": "УИК №1320",
     "tikTvd": "25420001560247",
-    "tikName": "Чулымская"
+    "tikName": "Чулымская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1321,
     "uikTvd": "4544043191270",
+    "uikName": "УИК №1321",
     "tikTvd": "25420001560247",
-    "tikName": "Чулымская"
+    "tikName": "Чулымская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1322,
     "uikTvd": "4544043191271",
+    "uikName": "УИК №1322",
     "tikTvd": "25420001560247",
-    "tikName": "Чулымская"
+    "tikName": "Чулымская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1323,
     "uikTvd": "4544043191272",
+    "uikName": "УИК №1323",
     "tikTvd": "25420001560247",
-    "tikName": "Чулымская"
+    "tikName": "Чулымская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1324,
     "uikTvd": "4544043191273",
+    "uikName": "УИК №1324",
     "tikTvd": "25420001560247",
-    "tikName": "Чулымская"
+    "tikName": "Чулымская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1325,
     "uikTvd": "4544043191274",
+    "uikName": "УИК №1325",
     "tikTvd": "25420001560247",
-    "tikName": "Чулымская"
+    "tikName": "Чулымская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1326,
     "uikTvd": "4544042216767",
+    "uikName": "УИК №1326",
     "tikTvd": "25420001560263",
-    "tikName": "Чистоозерная"
+    "tikName": "Чистоозерная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1327,
     "uikTvd": "4544003240494",
+    "uikName": "УИК №1327",
     "tikTvd": "25420001560244",
-    "tikName": "Бердская городская"
+    "tikName": "Бердская городская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1328,
     "uikTvd": "4544003240495",
+    "uikName": "УИК №1328",
     "tikTvd": "25420001560244",
-    "tikName": "Бердская городская"
+    "tikName": "Бердская городская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1329,
     "uikTvd": "4544003240496",
+    "uikName": "УИК №1329",
     "tikTvd": "25420001560244",
-    "tikName": "Бердская городская"
+    "tikName": "Бердская городская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1330,
     "uikTvd": "4544003240497",
+    "uikName": "УИК №1330",
     "tikTvd": "25420001560244",
-    "tikName": "Бердская городская"
+    "tikName": "Бердская городская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1331,
     "uikTvd": "4544003240498",
+    "uikName": "УИК №1331",
     "tikTvd": "25420001560244",
-    "tikName": "Бердская городская"
+    "tikName": "Бердская городская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1332,
     "uikTvd": "4544003240499",
+    "uikName": "УИК №1332",
     "tikTvd": "25420001560244",
-    "tikName": "Бердская городская"
+    "tikName": "Бердская городская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1333,
     "uikTvd": "4544003240500",
+    "uikName": "УИК №1333",
     "tikTvd": "25420001560244",
-    "tikName": "Бердская городская"
+    "tikName": "Бердская городская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1334,
     "uikTvd": "4544003240501",
+    "uikName": "УИК №1334",
     "tikTvd": "25420001560244",
-    "tikName": "Бердская городская"
+    "tikName": "Бердская городская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1335,
     "uikTvd": "4544003240502",
+    "uikName": "УИК №1335",
     "tikTvd": "25420001560244",
-    "tikName": "Бердская городская"
+    "tikName": "Бердская городская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1336,
     "uikTvd": "4544003240503",
+    "uikName": "УИК №1336",
     "tikTvd": "25420001560244",
-    "tikName": "Бердская городская"
+    "tikName": "Бердская городская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1337,
     "uikTvd": "4544003240504",
+    "uikName": "УИК №1337",
     "tikTvd": "25420001560244",
-    "tikName": "Бердская городская"
+    "tikName": "Бердская городская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1338,
     "uikTvd": "4544003240505",
+    "uikName": "УИК №1338",
     "tikTvd": "25420001560244",
-    "tikName": "Бердская городская"
+    "tikName": "Бердская городская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1339,
     "uikTvd": "4544003240506",
+    "uikName": "УИК №1339",
     "tikTvd": "25420001560244",
-    "tikName": "Бердская городская"
+    "tikName": "Бердская городская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1340,
     "uikTvd": "4544003240507",
+    "uikName": "УИК №1340",
     "tikTvd": "25420001560244",
-    "tikName": "Бердская городская"
+    "tikName": "Бердская городская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1341,
     "uikTvd": "4544003240508",
+    "uikName": "УИК №1341",
     "tikTvd": "25420001560244",
-    "tikName": "Бердская городская"
+    "tikName": "Бердская городская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1342,
     "uikTvd": "4544003240509",
+    "uikName": "УИК №1342",
     "tikTvd": "25420001560244",
-    "tikName": "Бердская городская"
+    "tikName": "Бердская городская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1343,
     "uikTvd": "4544003240510",
+    "uikName": "УИК №1343",
     "tikTvd": "25420001560244",
-    "tikName": "Бердская городская"
+    "tikName": "Бердская городская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1344,
     "uikTvd": "4544003240511",
+    "uikName": "УИК №1344",
     "tikTvd": "25420001560244",
-    "tikName": "Бердская городская"
+    "tikName": "Бердская городская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1345,
     "uikTvd": "4544003240512",
+    "uikName": "УИК №1345",
     "tikTvd": "25420001560244",
-    "tikName": "Бердская городская"
+    "tikName": "Бердская городская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1346,
     "uikTvd": "4544003240513",
+    "uikName": "УИК №1346",
     "tikTvd": "25420001560244",
-    "tikName": "Бердская городская"
+    "tikName": "Бердская городская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1347,
     "uikTvd": "4544003240514",
+    "uikName": "УИК №1347",
     "tikTvd": "25420001560244",
-    "tikName": "Бердская городская"
+    "tikName": "Бердская городская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1348,
     "uikTvd": "4544003240515",
+    "uikName": "УИК №1348",
     "tikTvd": "25420001560244",
-    "tikName": "Бердская городская"
+    "tikName": "Бердская городская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1349,
     "uikTvd": "4544003240516",
+    "uikName": "УИК №1349",
     "tikTvd": "25420001560244",
-    "tikName": "Бердская городская"
+    "tikName": "Бердская городская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1350,
     "uikTvd": "4544003240517",
+    "uikName": "УИК №1350",
     "tikTvd": "25420001560244",
-    "tikName": "Бердская городская"
+    "tikName": "Бердская городская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1351,
     "uikTvd": "4544003240518",
+    "uikName": "УИК №1351",
     "tikTvd": "25420001560244",
-    "tikName": "Бердская городская"
+    "tikName": "Бердская городская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1352,
     "uikTvd": "4544003240519",
+    "uikName": "УИК №1352",
     "tikTvd": "25420001560244",
-    "tikName": "Бердская городская"
+    "tikName": "Бердская городская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1353,
     "uikTvd": "4544003240520",
+    "uikName": "УИК №1353",
     "tikTvd": "25420001560244",
-    "tikName": "Бердская городская"
+    "tikName": "Бердская городская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1354,
     "uikTvd": "4544003240521",
+    "uikName": "УИК №1354",
     "tikTvd": "25420001560244",
-    "tikName": "Бердская городская"
+    "tikName": "Бердская городская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1355,
     "uikTvd": "4544003240522",
+    "uikName": "УИК №1355",
     "tikTvd": "25420001560244",
-    "tikName": "Бердская городская"
+    "tikName": "Бердская городская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1356,
     "uikTvd": "4544003240523",
+    "uikName": "УИК №1356",
     "tikTvd": "25420001560244",
-    "tikName": "Бердская городская"
+    "tikName": "Бердская городская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1357,
     "uikTvd": "4544003240524",
+    "uikName": "УИК №1357",
     "tikTvd": "25420001560244",
-    "tikName": "Бердская городская"
+    "tikName": "Бердская городская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1358,
     "uikTvd": "4544003240525",
+    "uikName": "УИК №1358",
     "tikTvd": "25420001560244",
-    "tikName": "Бердская городская"
+    "tikName": "Бердская городская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1359,
     "uikTvd": "4544003240526",
+    "uikName": "УИК №1359",
     "tikTvd": "25420001560244",
-    "tikName": "Бердская городская"
+    "tikName": "Бердская городская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1360,
     "uikTvd": "4544003240527",
+    "uikName": "УИК №1360",
     "tikTvd": "25420001560244",
-    "tikName": "Бердская городская"
+    "tikName": "Бердская городская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1361,
     "uikTvd": "4544003240528",
+    "uikName": "УИК №1361",
     "tikTvd": "25420001560244",
-    "tikName": "Бердская городская"
+    "tikName": "Бердская городская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1362,
     "uikTvd": "4544003240529",
+    "uikName": "УИК №1362",
     "tikTvd": "25420001560244",
-    "tikName": "Бердская городская"
+    "tikName": "Бердская городская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1363,
     "uikTvd": "4544003240530",
+    "uikName": "УИК №1363",
     "tikTvd": "25420001560244",
-    "tikName": "Бердская городская"
+    "tikName": "Бердская городская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1364,
     "uikTvd": "4544003240531",
+    "uikName": "УИК №1364",
     "tikTvd": "25420001560244",
-    "tikName": "Бердская городская"
+    "tikName": "Бердская городская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1365,
     "uikTvd": "4544003240532",
+    "uikName": "УИК №1365",
     "tikTvd": "25420001560244",
-    "tikName": "Бердская городская"
+    "tikName": "Бердская городская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1366,
     "uikTvd": "4544003240533",
+    "uikName": "УИК №1366",
     "tikTvd": "25420001560244",
-    "tikName": "Бердская городская"
+    "tikName": "Бердская городская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1367,
     "uikTvd": "4544003240534",
+    "uikName": "УИК №1367",
     "tikTvd": "25420001560244",
-    "tikName": "Бердская городская"
+    "tikName": "Бердская городская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1368,
     "uikTvd": "4544003240535",
+    "uikName": "УИК №1368",
     "tikTvd": "25420001560244",
-    "tikName": "Бердская городская"
+    "tikName": "Бердская городская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1369,
     "uikTvd": "4544003240536",
+    "uikName": "УИК №1369",
     "tikTvd": "25420001560244",
-    "tikName": "Бердская городская"
+    "tikName": "Бердская городская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1370,
     "uikTvd": "4544003240537",
+    "uikName": "УИК №1370",
     "tikTvd": "25420001560244",
-    "tikName": "Бердская городская"
+    "tikName": "Бердская городская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1371,
     "uikTvd": "4544003240538",
+    "uikName": "УИК №1371",
     "tikTvd": "25420001560244",
-    "tikName": "Бердская городская"
+    "tikName": "Бердская городская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1372,
     "uikTvd": "4544003240539",
+    "uikName": "УИК №1372",
     "tikTvd": "25420001560244",
-    "tikName": "Бердская городская"
+    "tikName": "Бердская городская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1373,
     "uikTvd": "4544003240540",
+    "uikName": "УИК №1373",
     "tikTvd": "25420001560244",
-    "tikName": "Бердская городская"
+    "tikName": "Бердская городская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1374,
     "uikTvd": "4544008216451",
+    "uikName": "УИК №1374",
     "tikTvd": "25420001560242",
-    "tikName": "Искитимская городская"
+    "tikName": "Искитимская городская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1375,
     "uikTvd": "4544008216452",
+    "uikName": "УИК №1375",
     "tikTvd": "25420001560242",
-    "tikName": "Искитимская городская"
+    "tikName": "Искитимская городская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1376,
     "uikTvd": "4544008216453",
+    "uikName": "УИК №1376",
     "tikTvd": "25420001560242",
-    "tikName": "Искитимская городская"
+    "tikName": "Искитимская городская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1377,
     "uikTvd": "4544008216454",
+    "uikName": "УИК №1377",
     "tikTvd": "25420001560242",
-    "tikName": "Искитимская городская"
+    "tikName": "Искитимская городская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1378,
     "uikTvd": "4544008216455",
+    "uikName": "УИК №1378",
     "tikTvd": "25420001560242",
-    "tikName": "Искитимская городская"
+    "tikName": "Искитимская городская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1379,
     "uikTvd": "4544008216456",
+    "uikName": "УИК №1379",
     "tikTvd": "25420001560242",
-    "tikName": "Искитимская городская"
+    "tikName": "Искитимская городская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1380,
     "uikTvd": "4544008216457",
+    "uikName": "УИК №1380",
     "tikTvd": "25420001560242",
-    "tikName": "Искитимская городская"
+    "tikName": "Искитимская городская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1381,
     "uikTvd": "4544008216458",
+    "uikName": "УИК №1381",
     "tikTvd": "25420001560242",
-    "tikName": "Искитимская городская"
+    "tikName": "Искитимская городская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1382,
     "uikTvd": "4544008216459",
+    "uikName": "УИК №1382",
     "tikTvd": "25420001560242",
-    "tikName": "Искитимская городская"
+    "tikName": "Искитимская городская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1383,
     "uikTvd": "4544008216460",
+    "uikName": "УИК №1383",
     "tikTvd": "25420001560242",
-    "tikName": "Искитимская городская"
+    "tikName": "Искитимская городская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1384,
     "uikTvd": "4544008216461",
+    "uikName": "УИК №1384",
     "tikTvd": "25420001560242",
-    "tikName": "Искитимская городская"
+    "tikName": "Искитимская городская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1385,
     "uikTvd": "4544008216462",
+    "uikName": "УИК №1385",
     "tikTvd": "25420001560242",
-    "tikName": "Искитимская городская"
+    "tikName": "Искитимская городская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1386,
     "uikTvd": "4544008216463",
+    "uikName": "УИК №1386",
     "tikTvd": "25420001560242",
-    "tikName": "Искитимская городская"
+    "tikName": "Искитимская городская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1387,
     "uikTvd": "4544008216464",
+    "uikName": "УИК №1387",
     "tikTvd": "25420001560242",
-    "tikName": "Искитимская городская"
+    "tikName": "Искитимская городская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1388,
     "uikTvd": "4544008216465",
+    "uikName": "УИК №1388",
     "tikTvd": "25420001560242",
-    "tikName": "Искитимская городская"
+    "tikName": "Искитимская городская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1389,
     "uikTvd": "4544008216466",
+    "uikName": "УИК №1389",
     "tikTvd": "25420001560242",
-    "tikName": "Искитимская городская"
+    "tikName": "Искитимская городская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1390,
     "uikTvd": "4544008216467",
+    "uikName": "УИК №1390",
     "tikTvd": "25420001560242",
-    "tikName": "Искитимская городская"
+    "tikName": "Искитимская городская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1391,
     "uikTvd": "4544008216468",
+    "uikName": "УИК №1391",
     "tikTvd": "25420001560242",
-    "tikName": "Искитимская городская"
+    "tikName": "Искитимская городская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1392,
     "uikTvd": "4544008216469",
+    "uikName": "УИК №1392",
     "tikTvd": "25420001560242",
-    "tikName": "Искитимская городская"
+    "tikName": "Искитимская городская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1393,
     "uikTvd": "4544008216470",
+    "uikName": "УИК №1393",
     "tikTvd": "25420001560242",
-    "tikName": "Искитимская городская"
+    "tikName": "Искитимская городская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1394,
     "uikTvd": "4544008216471",
+    "uikName": "УИК №1394",
     "tikTvd": "25420001560242",
-    "tikName": "Искитимская городская"
+    "tikName": "Искитимская городская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1395,
     "uikTvd": "4544008216472",
+    "uikName": "УИК №1395",
     "tikTvd": "25420001560242",
-    "tikName": "Искитимская городская"
+    "tikName": "Искитимская городская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1396,
     "uikTvd": "4544008216473",
+    "uikName": "УИК №1396",
     "tikTvd": "25420001560242",
-    "tikName": "Искитимская городская"
+    "tikName": "Искитимская городская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1397,
     "uikTvd": "4544008216474",
+    "uikName": "УИК №1397",
     "tikTvd": "25420001560242",
-    "tikName": "Искитимская городская"
+    "tikName": "Искитимская городская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1398,
     "uikTvd": "4544008216475",
+    "uikName": "УИК №1398",
     "tikTvd": "25420001560242",
-    "tikName": "Искитимская городская"
+    "tikName": "Искитимская городская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1399,
     "uikTvd": "4544008216476",
+    "uikName": "УИК №1399",
     "tikTvd": "25420001560242",
-    "tikName": "Искитимская городская"
+    "tikName": "Искитимская городская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1400,
     "uikTvd": "4544008216477",
+    "uikName": "УИК №1400",
     "tikTvd": "25420001560242",
-    "tikName": "Искитимская городская"
+    "tikName": "Искитимская городская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1401,
     "uikTvd": "4544008216478",
+    "uikName": "УИК №1401",
     "tikTvd": "25420001560242",
-    "tikName": "Искитимская городская"
+    "tikName": "Искитимская городская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1402,
     "uikTvd": "4544008216479",
+    "uikName": "УИК №1402",
     "tikTvd": "25420001560242",
-    "tikName": "Искитимская городская"
+    "tikName": "Искитимская городская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1403,
     "uikTvd": "4544008216480",
+    "uikName": "УИК №1403",
     "tikTvd": "25420001560242",
-    "tikName": "Искитимская городская"
+    "tikName": "Искитимская городская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1404,
     "uikTvd": "4544008216481",
+    "uikName": "УИК №1404",
     "tikTvd": "25420001560242",
-    "tikName": "Искитимская городская"
+    "tikName": "Искитимская городская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1405,
     "uikTvd": "4544008216482",
+    "uikName": "УИК №1405",
     "tikTvd": "25420001560242",
-    "tikName": "Искитимская городская"
+    "tikName": "Искитимская городская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1406,
     "uikTvd": "4544008216483",
+    "uikName": "УИК №1406",
     "tikTvd": "25420001560242",
-    "tikName": "Искитимская городская"
+    "tikName": "Искитимская городская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1407,
     "uikTvd": "4544008216484",
+    "uikName": "УИК №1407",
     "tikTvd": "25420001560242",
-    "tikName": "Искитимская городская"
+    "tikName": "Искитимская городская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1408,
     "uikTvd": "4544032233122",
+    "uikName": "УИК №1408",
     "tikTvd": "25420001560278",
-    "tikName": "Обская городская"
+    "tikName": "Обская городская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1409,
     "uikTvd": "4544032233123",
+    "uikName": "УИК №1409",
     "tikTvd": "25420001560278",
-    "tikName": "Обская городская"
+    "tikName": "Обская городская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1410,
     "uikTvd": "4544032233124",
+    "uikName": "УИК №1410",
     "tikTvd": "25420001560278",
-    "tikName": "Обская городская"
+    "tikName": "Обская городская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1411,
     "uikTvd": "4544032233125",
+    "uikName": "УИК №1411",
     "tikTvd": "25420001560278",
-    "tikName": "Обская городская"
+    "tikName": "Обская городская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1412,
     "uikTvd": "4544032233126",
+    "uikName": "УИК №1412",
     "tikTvd": "25420001560278",
-    "tikName": "Обская городская"
+    "tikName": "Обская городская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1413,
     "uikTvd": "4544032233136",
+    "uikName": "УИК №1413",
     "tikTvd": "25420001560278",
-    "tikName": "Обская городская"
+    "tikName": "Обская городская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1414,
     "uikTvd": "4544032233128",
+    "uikName": "УИК №1414",
     "tikTvd": "25420001560278",
-    "tikName": "Обская городская"
+    "tikName": "Обская городская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1415,
     "uikTvd": "4544032233129",
+    "uikName": "УИК №1415",
     "tikTvd": "25420001560278",
-    "tikName": "Обская городская"
+    "tikName": "Обская городская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1416,
     "uikTvd": "4544032233130",
+    "uikName": "УИК №1416",
     "tikTvd": "25420001560278",
-    "tikName": "Обская городская"
+    "tikName": "Обская городская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1417,
     "uikTvd": "4544032233131",
+    "uikName": "УИК №1417",
     "tikTvd": "25420001560278",
-    "tikName": "Обская городская"
+    "tikName": "Обская городская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1418,
     "uikTvd": "4544032233132",
+    "uikName": "УИК №1418",
     "tikTvd": "25420001560278",
-    "tikName": "Обская городская"
+    "tikName": "Обская городская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1419,
     "uikTvd": "4544032233133",
+    "uikName": "УИК №1419",
     "tikTvd": "25420001560278",
-    "tikName": "Обская городская"
+    "tikName": "Обская городская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1420,
     "uikTvd": "4544047112734",
+    "uikName": "УИК №1420",
     "tikTvd": "25420001560266",
-    "tikName": "р.п.Кольцово"
+    "tikName": "р.п.Кольцово",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1421,
     "uikTvd": "4544047112735",
+    "uikName": "УИК №1421",
     "tikTvd": "25420001560266",
-    "tikName": "р.п.Кольцово"
+    "tikName": "р.п.Кольцово",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1422,
     "uikTvd": "4544047112736",
+    "uikName": "УИК №1422",
     "tikTvd": "25420001560266",
-    "tikName": "р.п.Кольцово"
+    "tikName": "р.п.Кольцово",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1423,
     "uikTvd": "4544047112737",
+    "uikName": "УИК №1423",
     "tikTvd": "25420001560266",
-    "tikName": "р.п.Кольцово"
+    "tikName": "р.п.Кольцово",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1424,
     "uikTvd": "4544047112738",
+    "uikName": "УИК №1424",
     "tikTvd": "25420001560266",
-    "tikName": "р.п.Кольцово"
+    "tikName": "р.п.Кольцово",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1425,
     "uikTvd": "9549021278924",
+    "uikName": "УИК №1425",
     "tikTvd": "25420001560246",
-    "tikName": "Новосибирск, Дзержинская"
+    "tikName": "Новосибирск, Дзержинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1426,
     "uikTvd": "9549021278925",
+    "uikName": "УИК №1426",
     "tikTvd": "25420001560246",
-    "tikName": "Новосибирск, Дзержинская"
+    "tikName": "Новосибирск, Дзержинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1427,
     "uikTvd": "9549021278926",
+    "uikName": "УИК №1427",
     "tikTvd": "25420001560246",
-    "tikName": "Новосибирск, Дзержинская"
+    "tikName": "Новосибирск, Дзержинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1428,
     "uikTvd": "9549021278927",
+    "uikName": "УИК №1428",
     "tikTvd": "25420001560246",
-    "tikName": "Новосибирск, Дзержинская"
+    "tikName": "Новосибирск, Дзержинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1429,
     "uikTvd": "9549021278928",
+    "uikName": "УИК №1429",
     "tikTvd": "25420001560246",
-    "tikName": "Новосибирск, Дзержинская"
+    "tikName": "Новосибирск, Дзержинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1430,
     "uikTvd": "9549021278929",
+    "uikName": "УИК №1430",
     "tikTvd": "25420001560246",
-    "tikName": "Новосибирск, Дзержинская"
+    "tikName": "Новосибирск, Дзержинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1431,
     "uikTvd": "9549021278930",
+    "uikName": "УИК №1431",
     "tikTvd": "25420001560246",
-    "tikName": "Новосибирск, Дзержинская"
+    "tikName": "Новосибирск, Дзержинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1432,
     "uikTvd": "9549021278931",
+    "uikName": "УИК №1432",
     "tikTvd": "25420001560246",
-    "tikName": "Новосибирск, Дзержинская"
+    "tikName": "Новосибирск, Дзержинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1433,
     "uikTvd": "9549021278932",
+    "uikName": "УИК №1433",
     "tikTvd": "25420001560246",
-    "tikName": "Новосибирск, Дзержинская"
+    "tikName": "Новосибирск, Дзержинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1434,
     "uikTvd": "9549021278933",
+    "uikName": "УИК №1434",
     "tikTvd": "25420001560246",
-    "tikName": "Новосибирск, Дзержинская"
+    "tikName": "Новосибирск, Дзержинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1435,
     "uikTvd": "9549021278934",
+    "uikName": "УИК №1435",
     "tikTvd": "25420001560246",
-    "tikName": "Новосибирск, Дзержинская"
+    "tikName": "Новосибирск, Дзержинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1436,
     "uikTvd": "9549021278935",
+    "uikName": "УИК №1436",
     "tikTvd": "25420001560246",
-    "tikName": "Новосибирск, Дзержинская"
+    "tikName": "Новосибирск, Дзержинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1437,
     "uikTvd": "9549021278936",
+    "uikName": "УИК №1437",
     "tikTvd": "25420001560246",
-    "tikName": "Новосибирск, Дзержинская"
+    "tikName": "Новосибирск, Дзержинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1438,
     "uikTvd": "9549021278937",
+    "uikName": "УИК №1438",
     "tikTvd": "25420001560246",
-    "tikName": "Новосибирск, Дзержинская"
+    "tikName": "Новосибирск, Дзержинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1439,
     "uikTvd": "9549021278938",
+    "uikName": "УИК №1439",
     "tikTvd": "25420001560246",
-    "tikName": "Новосибирск, Дзержинская"
+    "tikName": "Новосибирск, Дзержинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1440,
     "uikTvd": "9549021278939",
+    "uikName": "УИК №1440",
     "tikTvd": "25420001560246",
-    "tikName": "Новосибирск, Дзержинская"
+    "tikName": "Новосибирск, Дзержинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1441,
     "uikTvd": "9549021278940",
+    "uikName": "УИК №1441",
     "tikTvd": "25420001560246",
-    "tikName": "Новосибирск, Дзержинская"
+    "tikName": "Новосибирск, Дзержинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1442,
     "uikTvd": "9549021278941",
+    "uikName": "УИК №1442",
     "tikTvd": "25420001560246",
-    "tikName": "Новосибирск, Дзержинская"
+    "tikName": "Новосибирск, Дзержинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1443,
     "uikTvd": "9549021278942",
+    "uikName": "УИК №1443",
     "tikTvd": "25420001560246",
-    "tikName": "Новосибирск, Дзержинская"
+    "tikName": "Новосибирск, Дзержинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1444,
     "uikTvd": "9549021278943",
+    "uikName": "УИК №1444",
     "tikTvd": "25420001560246",
-    "tikName": "Новосибирск, Дзержинская"
+    "tikName": "Новосибирск, Дзержинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1445,
     "uikTvd": "9549021278944",
+    "uikName": "УИК №1445",
     "tikTvd": "25420001560246",
-    "tikName": "Новосибирск, Дзержинская"
+    "tikName": "Новосибирск, Дзержинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1446,
     "uikTvd": "9549021278945",
+    "uikName": "УИК №1446",
     "tikTvd": "25420001560246",
-    "tikName": "Новосибирск, Дзержинская"
+    "tikName": "Новосибирск, Дзержинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1447,
     "uikTvd": "9549021278946",
+    "uikName": "УИК №1447",
     "tikTvd": "25420001560246",
-    "tikName": "Новосибирск, Дзержинская"
+    "tikName": "Новосибирск, Дзержинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1448,
     "uikTvd": "9549021278947",
+    "uikName": "УИК №1448",
     "tikTvd": "25420001560246",
-    "tikName": "Новосибирск, Дзержинская"
+    "tikName": "Новосибирск, Дзержинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1449,
     "uikTvd": "9549021278948",
+    "uikName": "УИК №1449",
     "tikTvd": "25420001560246",
-    "tikName": "Новосибирск, Дзержинская"
+    "tikName": "Новосибирск, Дзержинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1450,
     "uikTvd": "9549021278949",
+    "uikName": "УИК №1450",
     "tikTvd": "25420001560246",
-    "tikName": "Новосибирск, Дзержинская"
+    "tikName": "Новосибирск, Дзержинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1451,
     "uikTvd": "9549021278950",
+    "uikName": "УИК №1451",
     "tikTvd": "25420001560246",
-    "tikName": "Новосибирск, Дзержинская"
+    "tikName": "Новосибирск, Дзержинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1452,
     "uikTvd": "9549021278951",
+    "uikName": "УИК №1452",
     "tikTvd": "25420001560246",
-    "tikName": "Новосибирск, Дзержинская"
+    "tikName": "Новосибирск, Дзержинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1453,
     "uikTvd": "9549021278952",
+    "uikName": "УИК №1453",
     "tikTvd": "25420001560246",
-    "tikName": "Новосибирск, Дзержинская"
+    "tikName": "Новосибирск, Дзержинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1454,
     "uikTvd": "9549021278953",
+    "uikName": "УИК №1454",
     "tikTvd": "25420001560246",
-    "tikName": "Новосибирск, Дзержинская"
+    "tikName": "Новосибирск, Дзержинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1455,
     "uikTvd": "9549021278954",
+    "uikName": "УИК №1455",
     "tikTvd": "25420001560246",
-    "tikName": "Новосибирск, Дзержинская"
+    "tikName": "Новосибирск, Дзержинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1456,
     "uikTvd": "9549021278955",
+    "uikName": "УИК №1456",
     "tikTvd": "25420001560246",
-    "tikName": "Новосибирск, Дзержинская"
+    "tikName": "Новосибирск, Дзержинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1457,
     "uikTvd": "9549021278956",
+    "uikName": "УИК №1457",
     "tikTvd": "25420001560246",
-    "tikName": "Новосибирск, Дзержинская"
+    "tikName": "Новосибирск, Дзержинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1458,
     "uikTvd": "9549021278957",
+    "uikName": "УИК №1458",
     "tikTvd": "25420001560246",
-    "tikName": "Новосибирск, Дзержинская"
+    "tikName": "Новосибирск, Дзержинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1459,
     "uikTvd": "9549021278958",
+    "uikName": "УИК №1459",
     "tikTvd": "25420001560246",
-    "tikName": "Новосибирск, Дзержинская"
+    "tikName": "Новосибирск, Дзержинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1460,
     "uikTvd": "9549021278959",
+    "uikName": "УИК №1460",
     "tikTvd": "25420001560246",
-    "tikName": "Новосибирск, Дзержинская"
+    "tikName": "Новосибирск, Дзержинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1461,
     "uikTvd": "9549021278960",
+    "uikName": "УИК №1461",
     "tikTvd": "25420001560246",
-    "tikName": "Новосибирск, Дзержинская"
+    "tikName": "Новосибирск, Дзержинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1462,
     "uikTvd": "9549021278961",
+    "uikName": "УИК №1462",
     "tikTvd": "25420001560246",
-    "tikName": "Новосибирск, Дзержинская"
+    "tikName": "Новосибирск, Дзержинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1463,
     "uikTvd": "9549021278962",
+    "uikName": "УИК №1463",
     "tikTvd": "25420001560246",
-    "tikName": "Новосибирск, Дзержинская"
+    "tikName": "Новосибирск, Дзержинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1464,
     "uikTvd": "9549021278963",
+    "uikName": "УИК №1464",
     "tikTvd": "25420001560246",
-    "tikName": "Новосибирск, Дзержинская"
+    "tikName": "Новосибирск, Дзержинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1465,
     "uikTvd": "9549021278964",
+    "uikName": "УИК №1465",
     "tikTvd": "25420001560246",
-    "tikName": "Новосибирск, Дзержинская"
+    "tikName": "Новосибирск, Дзержинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1466,
     "uikTvd": "9549021278965",
+    "uikName": "УИК №1466",
     "tikTvd": "25420001560246",
-    "tikName": "Новосибирск, Дзержинская"
+    "tikName": "Новосибирск, Дзержинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1467,
     "uikTvd": "9549021278966",
+    "uikName": "УИК №1467",
     "tikTvd": "25420001560246",
-    "tikName": "Новосибирск, Дзержинская"
+    "tikName": "Новосибирск, Дзержинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1468,
     "uikTvd": "9549021278967",
+    "uikName": "УИК №1468",
     "tikTvd": "25420001560246",
-    "tikName": "Новосибирск, Дзержинская"
+    "tikName": "Новосибирск, Дзержинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1469,
     "uikTvd": "9549021278968",
+    "uikName": "УИК №1469",
     "tikTvd": "25420001560246",
-    "tikName": "Новосибирск, Дзержинская"
+    "tikName": "Новосибирск, Дзержинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1470,
     "uikTvd": "9549021278969",
+    "uikName": "УИК №1470",
     "tikTvd": "25420001560246",
-    "tikName": "Новосибирск, Дзержинская"
+    "tikName": "Новосибирск, Дзержинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1471,
     "uikTvd": "9549021278970",
+    "uikName": "УИК №1471",
     "tikTvd": "25420001560246",
-    "tikName": "Новосибирск, Дзержинская"
+    "tikName": "Новосибирск, Дзержинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1472,
     "uikTvd": "9549021278971",
+    "uikName": "УИК №1472",
     "tikTvd": "25420001560246",
-    "tikName": "Новосибирск, Дзержинская"
+    "tikName": "Новосибирск, Дзержинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1473,
     "uikTvd": "9549021278972",
+    "uikName": "УИК №1473",
     "tikTvd": "25420001560246",
-    "tikName": "Новосибирск, Дзержинская"
+    "tikName": "Новосибирск, Дзержинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1474,
     "uikTvd": "9549021278973",
+    "uikName": "УИК №1474",
     "tikTvd": "25420001560246",
-    "tikName": "Новосибирск, Дзержинская"
+    "tikName": "Новосибирск, Дзержинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1475,
     "uikTvd": "9549021278974",
+    "uikName": "УИК №1475",
     "tikTvd": "25420001560246",
-    "tikName": "Новосибирск, Дзержинская"
+    "tikName": "Новосибирск, Дзержинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1476,
     "uikTvd": "9549021278975",
+    "uikName": "УИК №1476",
     "tikTvd": "25420001560246",
-    "tikName": "Новосибирск, Дзержинская"
+    "tikName": "Новосибирск, Дзержинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1477,
     "uikTvd": "9549021278976",
+    "uikName": "УИК №1477",
     "tikTvd": "25420001560246",
-    "tikName": "Новосибирск, Дзержинская"
+    "tikName": "Новосибирск, Дзержинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1478,
     "uikTvd": "9549021278977",
+    "uikName": "УИК №1478",
     "tikTvd": "25420001560246",
-    "tikName": "Новосибирск, Дзержинская"
+    "tikName": "Новосибирск, Дзержинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1479,
     "uikTvd": "9549021278978",
+    "uikName": "УИК №1479",
     "tikTvd": "25420001560246",
-    "tikName": "Новосибирск, Дзержинская"
+    "tikName": "Новосибирск, Дзержинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1480,
     "uikTvd": "9549021278979",
+    "uikName": "УИК №1480",
     "tikTvd": "25420001560246",
-    "tikName": "Новосибирск, Дзержинская"
+    "tikName": "Новосибирск, Дзержинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1481,
     "uikTvd": "9549021278980",
+    "uikName": "УИК №1481",
     "tikTvd": "25420001560246",
-    "tikName": "Новосибирск, Дзержинская"
+    "tikName": "Новосибирск, Дзержинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1482,
     "uikTvd": "9549021278981",
+    "uikName": "УИК №1482",
     "tikTvd": "25420001560246",
-    "tikName": "Новосибирск, Дзержинская"
+    "tikName": "Новосибирск, Дзержинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1483,
     "uikTvd": "9549021278982",
+    "uikName": "УИК №1483",
     "tikTvd": "25420001560246",
-    "tikName": "Новосибирск, Дзержинская"
+    "tikName": "Новосибирск, Дзержинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1484,
     "uikTvd": "9549021278983",
+    "uikName": "УИК №1484",
     "tikTvd": "25420001560246",
-    "tikName": "Новосибирск, Дзержинская"
+    "tikName": "Новосибирск, Дзержинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1485,
     "uikTvd": "9549021278984",
+    "uikName": "УИК №1485",
     "tikTvd": "25420001560246",
-    "tikName": "Новосибирск, Дзержинская"
+    "tikName": "Новосибирск, Дзержинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1486,
     "uikTvd": "9549021278985",
+    "uikName": "УИК №1486",
     "tikTvd": "25420001560246",
-    "tikName": "Новосибирск, Дзержинская"
+    "tikName": "Новосибирск, Дзержинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1487,
     "uikTvd": "9549021278986",
+    "uikName": "УИК №1487",
     "tikTvd": "25420001560246",
-    "tikName": "Новосибирск, Дзержинская"
+    "tikName": "Новосибирск, Дзержинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1488,
     "uikTvd": "9549021278987",
+    "uikName": "УИК №1488",
     "tikTvd": "25420001560246",
-    "tikName": "Новосибирск, Дзержинская"
+    "tikName": "Новосибирск, Дзержинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1489,
     "uikTvd": "9549021278988",
+    "uikName": "УИК №1489",
     "tikTvd": "25420001560246",
-    "tikName": "Новосибирск, Дзержинская"
+    "tikName": "Новосибирск, Дзержинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1490,
     "uikTvd": "9549021278989",
+    "uikName": "УИК №1490",
     "tikTvd": "25420001560246",
-    "tikName": "Новосибирск, Дзержинская"
+    "tikName": "Новосибирск, Дзержинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1491,
     "uikTvd": "9549021278990",
+    "uikName": "УИК №1491",
     "tikTvd": "25420001560246",
-    "tikName": "Новосибирск, Дзержинская"
+    "tikName": "Новосибирск, Дзержинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1492,
     "uikTvd": "9549021278991",
+    "uikName": "УИК №1492",
     "tikTvd": "25420001560246",
-    "tikName": "Новосибирск, Дзержинская"
+    "tikName": "Новосибирск, Дзержинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1493,
     "uikTvd": "9549021278992",
+    "uikName": "УИК №1493",
     "tikTvd": "25420001560246",
-    "tikName": "Новосибирск, Дзержинская"
+    "tikName": "Новосибирск, Дзержинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1494,
     "uikTvd": "9549021278993",
+    "uikName": "УИК №1494",
     "tikTvd": "25420001560246",
-    "tikName": "Новосибирск, Дзержинская"
+    "tikName": "Новосибирск, Дзержинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1495,
     "uikTvd": "4544022161280",
+    "uikName": "УИК №1495",
     "tikTvd": "25420001560251",
-    "tikName": "Новосибирск, Железнодорожная"
+    "tikName": "Новосибирск, Железнодорожная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1496,
     "uikTvd": "4544022161281",
+    "uikName": "УИК №1496",
     "tikTvd": "25420001560251",
-    "tikName": "Новосибирск, Железнодорожная"
+    "tikName": "Новосибирск, Железнодорожная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1497,
     "uikTvd": "4544022161282",
+    "uikName": "УИК №1497",
     "tikTvd": "25420001560251",
-    "tikName": "Новосибирск, Железнодорожная"
+    "tikName": "Новосибирск, Железнодорожная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1498,
     "uikTvd": "4544022161283",
+    "uikName": "УИК №1498",
     "tikTvd": "25420001560251",
-    "tikName": "Новосибирск, Железнодорожная"
+    "tikName": "Новосибирск, Железнодорожная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1499,
     "uikTvd": "4544022161284",
+    "uikName": "УИК №1499",
     "tikTvd": "25420001560251",
-    "tikName": "Новосибирск, Железнодорожная"
+    "tikName": "Новосибирск, Железнодорожная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1500,
     "uikTvd": "4544022161285",
+    "uikName": "УИК №1500",
     "tikTvd": "25420001560251",
-    "tikName": "Новосибирск, Железнодорожная"
+    "tikName": "Новосибирск, Железнодорожная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1501,
     "uikTvd": "4544022161286",
+    "uikName": "УИК №1501",
     "tikTvd": "25420001560251",
-    "tikName": "Новосибирск, Железнодорожная"
+    "tikName": "Новосибирск, Железнодорожная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1502,
     "uikTvd": "4544022161287",
+    "uikName": "УИК №1502",
     "tikTvd": "25420001560251",
-    "tikName": "Новосибирск, Железнодорожная"
+    "tikName": "Новосибирск, Железнодорожная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1503,
     "uikTvd": "4544022161288",
+    "uikName": "УИК №1503",
     "tikTvd": "25420001560251",
-    "tikName": "Новосибирск, Железнодорожная"
+    "tikName": "Новосибирск, Железнодорожная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1504,
     "uikTvd": "4544022161289",
+    "uikName": "УИК №1504",
     "tikTvd": "25420001560251",
-    "tikName": "Новосибирск, Железнодорожная"
+    "tikName": "Новосибирск, Железнодорожная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1505,
     "uikTvd": "4544022161290",
+    "uikName": "УИК №1505",
     "tikTvd": "25420001560251",
-    "tikName": "Новосибирск, Железнодорожная"
+    "tikName": "Новосибирск, Железнодорожная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1506,
     "uikTvd": "4544022161291",
+    "uikName": "УИК №1506",
     "tikTvd": "25420001560251",
-    "tikName": "Новосибирск, Железнодорожная"
+    "tikName": "Новосибирск, Железнодорожная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1507,
     "uikTvd": "4544022161292",
+    "uikName": "УИК №1507",
     "tikTvd": "25420001560251",
-    "tikName": "Новосибирск, Железнодорожная"
+    "tikName": "Новосибирск, Железнодорожная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1508,
     "uikTvd": "4544022161293",
+    "uikName": "УИК №1508",
     "tikTvd": "25420001560251",
-    "tikName": "Новосибирск, Железнодорожная"
+    "tikName": "Новосибирск, Железнодорожная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1509,
     "uikTvd": "4544022161294",
+    "uikName": "УИК №1509",
     "tikTvd": "25420001560251",
-    "tikName": "Новосибирск, Железнодорожная"
+    "tikName": "Новосибирск, Железнодорожная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1510,
     "uikTvd": "4544022161295",
+    "uikName": "УИК №1510",
     "tikTvd": "25420001560251",
-    "tikName": "Новосибирск, Железнодорожная"
+    "tikName": "Новосибирск, Железнодорожная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1511,
     "uikTvd": "4544022161296",
+    "uikName": "УИК №1511",
     "tikTvd": "25420001560251",
-    "tikName": "Новосибирск, Железнодорожная"
+    "tikName": "Новосибирск, Железнодорожная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1512,
     "uikTvd": "4544022161297",
+    "uikName": "УИК №1512",
     "tikTvd": "25420001560251",
-    "tikName": "Новосибирск, Железнодорожная"
+    "tikName": "Новосибирск, Железнодорожная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1513,
     "uikTvd": "4544022161298",
+    "uikName": "УИК №1513",
     "tikTvd": "25420001560251",
-    "tikName": "Новосибирск, Железнодорожная"
+    "tikName": "Новосибирск, Железнодорожная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1514,
     "uikTvd": "4544022161299",
+    "uikName": "УИК №1514",
     "tikTvd": "25420001560251",
-    "tikName": "Новосибирск, Железнодорожная"
+    "tikName": "Новосибирск, Железнодорожная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1515,
     "uikTvd": "4544022161300",
+    "uikName": "УИК №1515",
     "tikTvd": "25420001560251",
-    "tikName": "Новосибирск, Железнодорожная"
+    "tikName": "Новосибирск, Железнодорожная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1516,
     "uikTvd": "4544023211864",
+    "uikName": "УИК №1516",
     "tikTvd": "25420001560249",
-    "tikName": "Новосибирск, Заельцовская"
+    "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1517,
     "uikTvd": "4544023211865",
+    "uikName": "УИК №1517",
     "tikTvd": "25420001560249",
-    "tikName": "Новосибирск, Заельцовская"
+    "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1518,
     "uikTvd": "4544023211866",
+    "uikName": "УИК №1518",
     "tikTvd": "25420001560249",
-    "tikName": "Новосибирск, Заельцовская"
+    "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1519,
     "uikTvd": "4544023211867",
+    "uikName": "УИК №1519",
     "tikTvd": "25420001560249",
-    "tikName": "Новосибирск, Заельцовская"
+    "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1520,
     "uikTvd": "4544023211868",
+    "uikName": "УИК №1520",
     "tikTvd": "25420001560249",
-    "tikName": "Новосибирск, Заельцовская"
+    "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1521,
     "uikTvd": "4544023211869",
+    "uikName": "УИК №1521",
     "tikTvd": "25420001560249",
-    "tikName": "Новосибирск, Заельцовская"
+    "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1522,
     "uikTvd": "4544023211870",
+    "uikName": "УИК №1522",
     "tikTvd": "25420001560249",
-    "tikName": "Новосибирск, Заельцовская"
+    "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1523,
     "uikTvd": "4544023211871",
+    "uikName": "УИК №1523",
     "tikTvd": "25420001560249",
-    "tikName": "Новосибирск, Заельцовская"
+    "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1524,
     "uikTvd": "4544023211872",
+    "uikName": "УИК №1524",
     "tikTvd": "25420001560249",
-    "tikName": "Новосибирск, Заельцовская"
+    "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1525,
     "uikTvd": "4544023211873",
+    "uikName": "УИК №1525",
     "tikTvd": "25420001560249",
-    "tikName": "Новосибирск, Заельцовская"
+    "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1526,
     "uikTvd": "4544023211874",
+    "uikName": "УИК №1526",
     "tikTvd": "25420001560249",
-    "tikName": "Новосибирск, Заельцовская"
+    "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1527,
     "uikTvd": "4544023211875",
+    "uikName": "УИК №1527",
     "tikTvd": "25420001560249",
-    "tikName": "Новосибирск, Заельцовская"
+    "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1528,
     "uikTvd": "4544023211876",
+    "uikName": "УИК №1528",
     "tikTvd": "25420001560249",
-    "tikName": "Новосибирск, Заельцовская"
+    "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1529,
     "uikTvd": "4544023211877",
+    "uikName": "УИК №1529",
     "tikTvd": "25420001560249",
-    "tikName": "Новосибирск, Заельцовская"
+    "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1530,
     "uikTvd": "4544023211878",
+    "uikName": "УИК №1530",
     "tikTvd": "25420001560249",
-    "tikName": "Новосибирск, Заельцовская"
+    "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1531,
     "uikTvd": "4544023211879",
+    "uikName": "УИК №1531",
     "tikTvd": "25420001560249",
-    "tikName": "Новосибирск, Заельцовская"
+    "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1532,
     "uikTvd": "4544023211880",
+    "uikName": "УИК №1532",
     "tikTvd": "25420001560249",
-    "tikName": "Новосибирск, Заельцовская"
+    "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1533,
     "uikTvd": "4544023211881",
+    "uikName": "УИК №1533",
     "tikTvd": "25420001560249",
-    "tikName": "Новосибирск, Заельцовская"
+    "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1534,
     "uikTvd": "4544023211882",
+    "uikName": "УИК №1534",
     "tikTvd": "25420001560249",
-    "tikName": "Новосибирск, Заельцовская"
+    "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1535,
     "uikTvd": "4544023211883",
+    "uikName": "УИК №1535",
     "tikTvd": "25420001560249",
-    "tikName": "Новосибирск, Заельцовская"
+    "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1536,
     "uikTvd": "4544023211884",
+    "uikName": "УИК №1536",
     "tikTvd": "25420001560249",
-    "tikName": "Новосибирск, Заельцовская"
+    "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1537,
     "uikTvd": "4544023211885",
+    "uikName": "УИК №1537",
     "tikTvd": "25420001560249",
-    "tikName": "Новосибирск, Заельцовская"
+    "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1538,
     "uikTvd": "4544023211886",
+    "uikName": "УИК №1538",
     "tikTvd": "25420001560249",
-    "tikName": "Новосибирск, Заельцовская"
+    "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1539,
     "uikTvd": "4544023211887",
+    "uikName": "УИК №1539",
     "tikTvd": "25420001560249",
-    "tikName": "Новосибирск, Заельцовская"
+    "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1540,
     "uikTvd": "4544023211888",
+    "uikName": "УИК №1540",
     "tikTvd": "25420001560249",
-    "tikName": "Новосибирск, Заельцовская"
+    "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1541,
     "uikTvd": "4544023211889",
+    "uikName": "УИК №1541",
     "tikTvd": "25420001560249",
-    "tikName": "Новосибирск, Заельцовская"
+    "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1542,
     "uikTvd": "4544023211890",
+    "uikName": "УИК №1542",
     "tikTvd": "25420001560249",
-    "tikName": "Новосибирск, Заельцовская"
+    "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1543,
     "uikTvd": "4544023211891",
+    "uikName": "УИК №1543",
     "tikTvd": "25420001560249",
-    "tikName": "Новосибирск, Заельцовская"
+    "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1544,
     "uikTvd": "4544023211892",
+    "uikName": "УИК №1544",
     "tikTvd": "25420001560249",
-    "tikName": "Новосибирск, Заельцовская"
+    "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1545,
     "uikTvd": "4544023211893",
+    "uikName": "УИК №1545",
     "tikTvd": "25420001560249",
-    "tikName": "Новосибирск, Заельцовская"
+    "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1546,
     "uikTvd": "4544023211894",
+    "uikName": "УИК №1546",
     "tikTvd": "25420001560249",
-    "tikName": "Новосибирск, Заельцовская"
+    "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1547,
     "uikTvd": "4544023211895",
+    "uikName": "УИК №1547",
     "tikTvd": "25420001560249",
-    "tikName": "Новосибирск, Заельцовская"
+    "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1548,
     "uikTvd": "4544023211896",
+    "uikName": "УИК №1548",
     "tikTvd": "25420001560249",
-    "tikName": "Новосибирск, Заельцовская"
+    "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1549,
     "uikTvd": "4544023211897",
+    "uikName": "УИК №1549",
     "tikTvd": "25420001560249",
-    "tikName": "Новосибирск, Заельцовская"
+    "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1550,
     "uikTvd": "4544023211898",
+    "uikName": "УИК №1550",
     "tikTvd": "25420001560249",
-    "tikName": "Новосибирск, Заельцовская"
+    "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1551,
     "uikTvd": "4544023211899",
+    "uikName": "УИК №1551",
     "tikTvd": "25420001560249",
-    "tikName": "Новосибирск, Заельцовская"
+    "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1552,
     "uikTvd": "4544023211900",
+    "uikName": "УИК №1552",
     "tikTvd": "25420001560249",
-    "tikName": "Новосибирск, Заельцовская"
+    "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1553,
     "uikTvd": "4544023211901",
+    "uikName": "УИК №1553",
     "tikTvd": "25420001560249",
-    "tikName": "Новосибирск, Заельцовская"
+    "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1554,
     "uikTvd": "4544023211902",
+    "uikName": "УИК №1554",
     "tikTvd": "25420001560249",
-    "tikName": "Новосибирск, Заельцовская"
+    "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1555,
     "uikTvd": "4544023211903",
+    "uikName": "УИК №1555",
     "tikTvd": "25420001560249",
-    "tikName": "Новосибирск, Заельцовская"
+    "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1556,
     "uikTvd": "4544023211904",
+    "uikName": "УИК №1556",
     "tikTvd": "25420001560249",
-    "tikName": "Новосибирск, Заельцовская"
+    "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1557,
     "uikTvd": "4544023211905",
+    "uikName": "УИК №1557",
     "tikTvd": "25420001560249",
-    "tikName": "Новосибирск, Заельцовская"
+    "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1558,
     "uikTvd": "4544023211906",
+    "uikName": "УИК №1558",
     "tikTvd": "25420001560249",
-    "tikName": "Новосибирск, Заельцовская"
+    "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1559,
     "uikTvd": "4544023211907",
+    "uikName": "УИК №1559",
     "tikTvd": "25420001560249",
-    "tikName": "Новосибирск, Заельцовская"
+    "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1560,
     "uikTvd": "4544023211908",
+    "uikName": "УИК №1560",
     "tikTvd": "25420001560249",
-    "tikName": "Новосибирск, Заельцовская"
+    "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1561,
     "uikTvd": "4544023211909",
+    "uikName": "УИК №1561",
     "tikTvd": "25420001560249",
-    "tikName": "Новосибирск, Заельцовская"
+    "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1562,
     "uikTvd": "4544023211910",
+    "uikName": "УИК №1562",
     "tikTvd": "25420001560249",
-    "tikName": "Новосибирск, Заельцовская"
+    "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1563,
     "uikTvd": "4544023211911",
+    "uikName": "УИК №1563",
     "tikTvd": "25420001560249",
-    "tikName": "Новосибирск, Заельцовская"
+    "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1564,
     "uikTvd": "4544023211912",
+    "uikName": "УИК №1564",
     "tikTvd": "25420001560249",
-    "tikName": "Новосибирск, Заельцовская"
+    "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1565,
     "uikTvd": "4544023211913",
+    "uikName": "УИК №1565",
     "tikTvd": "25420001560249",
-    "tikName": "Новосибирск, Заельцовская"
+    "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1566,
     "uikTvd": "4544023211914",
+    "uikName": "УИК №1566",
     "tikTvd": "25420001560249",
-    "tikName": "Новосибирск, Заельцовская"
+    "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1567,
     "uikTvd": "4544023211915",
+    "uikName": "УИК №1567",
     "tikTvd": "25420001560249",
-    "tikName": "Новосибирск, Заельцовская"
+    "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1568,
     "uikTvd": "4544023211916",
+    "uikName": "УИК №1568",
     "tikTvd": "25420001560249",
-    "tikName": "Новосибирск, Заельцовская"
+    "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1569,
     "uikTvd": "4544023211917",
+    "uikName": "УИК №1569",
     "tikTvd": "25420001560249",
-    "tikName": "Новосибирск, Заельцовская"
+    "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1570,
     "uikTvd": "4544023211918",
+    "uikName": "УИК №1570",
     "tikTvd": "25420001560249",
-    "tikName": "Новосибирск, Заельцовская"
+    "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1571,
     "uikTvd": "4544023211919",
+    "uikName": "УИК №1571",
     "tikTvd": "25420001560249",
-    "tikName": "Новосибирск, Заельцовская"
+    "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1572,
     "uikTvd": "4544023211920",
+    "uikName": "УИК №1572",
     "tikTvd": "25420001560249",
-    "tikName": "Новосибирск, Заельцовская"
+    "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1573,
     "uikTvd": "4544023211921",
+    "uikName": "УИК №1573",
     "tikTvd": "25420001560249",
-    "tikName": "Новосибирск, Заельцовская"
+    "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1574,
     "uikTvd": "4544023211922",
+    "uikName": "УИК №1574",
     "tikTvd": "25420001560249",
-    "tikName": "Новосибирск, Заельцовская"
+    "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1575,
     "uikTvd": "4544023211923",
+    "uikName": "УИК №1575",
     "tikTvd": "25420001560249",
-    "tikName": "Новосибирск, Заельцовская"
+    "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1576,
     "uikTvd": "4544023211924",
+    "uikName": "УИК №1576",
     "tikTvd": "25420001560249",
-    "tikName": "Новосибирск, Заельцовская"
+    "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1577,
     "uikTvd": "4544023211925",
+    "uikName": "УИК №1577",
     "tikTvd": "25420001560249",
-    "tikName": "Новосибирск, Заельцовская"
+    "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1578,
     "uikTvd": "4544023211926",
+    "uikName": "УИК №1578",
     "tikTvd": "25420001560249",
-    "tikName": "Новосибирск, Заельцовская"
+    "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1579,
     "uikTvd": "4544023211927",
+    "uikName": "УИК №1579",
     "tikTvd": "25420001560249",
-    "tikName": "Новосибирск, Заельцовская"
+    "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1580,
     "uikTvd": "4544023211928",
+    "uikName": "УИК №1580",
     "tikTvd": "25420001560249",
-    "tikName": "Новосибирск, Заельцовская"
+    "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1581,
     "uikTvd": "4544024231885",
+    "uikName": "УИК №1581",
     "tikTvd": "25420001560238",
-    "tikName": "Новосибирск, Калининская"
+    "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1582,
     "uikTvd": "4544024231886",
+    "uikName": "УИК №1582",
     "tikTvd": "25420001560238",
-    "tikName": "Новосибирск, Калининская"
+    "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1583,
     "uikTvd": "4544024231887",
+    "uikName": "УИК №1583",
     "tikTvd": "25420001560238",
-    "tikName": "Новосибирск, Калининская"
+    "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1584,
     "uikTvd": "4544024231888",
+    "uikName": "УИК №1584",
     "tikTvd": "25420001560238",
-    "tikName": "Новосибирск, Калининская"
+    "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1585,
     "uikTvd": "4544024231889",
+    "uikName": "УИК №1585",
     "tikTvd": "25420001560238",
-    "tikName": "Новосибирск, Калининская"
+    "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1586,
     "uikTvd": "4544024231890",
+    "uikName": "УИК №1586",
     "tikTvd": "25420001560238",
-    "tikName": "Новосибирск, Калининская"
+    "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1587,
     "uikTvd": "4544024231891",
+    "uikName": "УИК №1587",
     "tikTvd": "25420001560238",
-    "tikName": "Новосибирск, Калининская"
+    "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1588,
     "uikTvd": "4544024231892",
+    "uikName": "УИК №1588",
     "tikTvd": "25420001560238",
-    "tikName": "Новосибирск, Калининская"
+    "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1589,
     "uikTvd": "4544024231893",
+    "uikName": "УИК №1589",
     "tikTvd": "25420001560238",
-    "tikName": "Новосибирск, Калининская"
+    "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1590,
     "uikTvd": "4544024231894",
+    "uikName": "УИК №1590",
     "tikTvd": "25420001560238",
-    "tikName": "Новосибирск, Калининская"
+    "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1591,
     "uikTvd": "4544024231895",
+    "uikName": "УИК №1591",
     "tikTvd": "25420001560238",
-    "tikName": "Новосибирск, Калининская"
+    "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1592,
     "uikTvd": "4544024231896",
+    "uikName": "УИК №1592",
     "tikTvd": "25420001560238",
-    "tikName": "Новосибирск, Калининская"
+    "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1593,
     "uikTvd": "4544024231897",
+    "uikName": "УИК №1593",
     "tikTvd": "25420001560238",
-    "tikName": "Новосибирск, Калининская"
+    "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1594,
     "uikTvd": "4544024231898",
+    "uikName": "УИК №1594",
     "tikTvd": "25420001560238",
-    "tikName": "Новосибирск, Калининская"
+    "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1595,
     "uikTvd": "4544024231899",
+    "uikName": "УИК №1595",
     "tikTvd": "25420001560238",
-    "tikName": "Новосибирск, Калининская"
+    "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1596,
     "uikTvd": "4544024231900",
+    "uikName": "УИК №1596",
     "tikTvd": "25420001560238",
-    "tikName": "Новосибирск, Калининская"
+    "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1597,
     "uikTvd": "4544024231901",
+    "uikName": "УИК №1597",
     "tikTvd": "25420001560238",
-    "tikName": "Новосибирск, Калининская"
+    "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1598,
     "uikTvd": "4544024231902",
+    "uikName": "УИК №1598",
     "tikTvd": "25420001560238",
-    "tikName": "Новосибирск, Калининская"
+    "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1599,
     "uikTvd": "4544024231903",
+    "uikName": "УИК №1599",
     "tikTvd": "25420001560238",
-    "tikName": "Новосибирск, Калининская"
+    "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1600,
     "uikTvd": "4544024231904",
+    "uikName": "УИК №1600",
     "tikTvd": "25420001560238",
-    "tikName": "Новосибирск, Калининская"
+    "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1601,
     "uikTvd": "4544024231905",
+    "uikName": "УИК №1601",
     "tikTvd": "25420001560238",
-    "tikName": "Новосибирск, Калининская"
+    "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1602,
     "uikTvd": "4544024231906",
+    "uikName": "УИК №1602",
     "tikTvd": "25420001560238",
-    "tikName": "Новосибирск, Калининская"
+    "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1603,
     "uikTvd": "4544024231907",
+    "uikName": "УИК №1603",
     "tikTvd": "25420001560238",
-    "tikName": "Новосибирск, Калининская"
+    "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1604,
     "uikTvd": "4544024231908",
+    "uikName": "УИК №1604",
     "tikTvd": "25420001560238",
-    "tikName": "Новосибирск, Калининская"
+    "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1605,
     "uikTvd": "4544024231909",
+    "uikName": "УИК №1605",
     "tikTvd": "25420001560238",
-    "tikName": "Новосибирск, Калининская"
+    "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1606,
     "uikTvd": "4544024231910",
+    "uikName": "УИК №1606",
     "tikTvd": "25420001560238",
-    "tikName": "Новосибирск, Калининская"
+    "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1607,
     "uikTvd": "4544024231911",
+    "uikName": "УИК №1607",
     "tikTvd": "25420001560238",
-    "tikName": "Новосибирск, Калининская"
+    "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1608,
     "uikTvd": "4544024231912",
+    "uikName": "УИК №1608",
     "tikTvd": "25420001560238",
-    "tikName": "Новосибирск, Калининская"
+    "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1609,
     "uikTvd": "4544024231913",
+    "uikName": "УИК №1609",
     "tikTvd": "25420001560238",
-    "tikName": "Новосибирск, Калининская"
+    "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1610,
     "uikTvd": "4544024231914",
+    "uikName": "УИК №1610",
     "tikTvd": "25420001560238",
-    "tikName": "Новосибирск, Калининская"
+    "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1611,
     "uikTvd": "4544024231915",
+    "uikName": "УИК №1611",
     "tikTvd": "25420001560238",
-    "tikName": "Новосибирск, Калининская"
+    "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1612,
     "uikTvd": "4544024231916",
+    "uikName": "УИК №1612",
     "tikTvd": "25420001560238",
-    "tikName": "Новосибирск, Калининская"
+    "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1613,
     "uikTvd": "4544024231917",
+    "uikName": "УИК №1613",
     "tikTvd": "25420001560238",
-    "tikName": "Новосибирск, Калининская"
+    "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1614,
     "uikTvd": "4544024231918",
+    "uikName": "УИК №1614",
     "tikTvd": "25420001560238",
-    "tikName": "Новосибирск, Калининская"
+    "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1615,
     "uikTvd": "4544024231919",
+    "uikName": "УИК №1615",
     "tikTvd": "25420001560238",
-    "tikName": "Новосибирск, Калининская"
+    "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1616,
     "uikTvd": "4544024231920",
+    "uikName": "УИК №1616",
     "tikTvd": "25420001560238",
-    "tikName": "Новосибирск, Калининская"
+    "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1617,
     "uikTvd": "4544024231921",
+    "uikName": "УИК №1617",
     "tikTvd": "25420001560238",
-    "tikName": "Новосибирск, Калининская"
+    "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1618,
     "uikTvd": "4544024231922",
+    "uikName": "УИК №1618",
     "tikTvd": "25420001560238",
-    "tikName": "Новосибирск, Калининская"
+    "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1619,
     "uikTvd": "4544024231923",
+    "uikName": "УИК №1619",
     "tikTvd": "25420001560238",
-    "tikName": "Новосибирск, Калининская"
+    "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1620,
     "uikTvd": "4544024231924",
+    "uikName": "УИК №1620",
     "tikTvd": "25420001560238",
-    "tikName": "Новосибирск, Калининская"
+    "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1621,
     "uikTvd": "4544024231925",
+    "uikName": "УИК №1621",
     "tikTvd": "25420001560238",
-    "tikName": "Новосибирск, Калининская"
+    "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1622,
     "uikTvd": "4544024231926",
+    "uikName": "УИК №1622",
     "tikTvd": "25420001560238",
-    "tikName": "Новосибирск, Калининская"
+    "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1623,
     "uikTvd": "4544024231927",
+    "uikName": "УИК №1623",
     "tikTvd": "25420001560238",
-    "tikName": "Новосибирск, Калининская"
+    "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1624,
     "uikTvd": "4544024231928",
+    "uikName": "УИК №1624",
     "tikTvd": "25420001560238",
-    "tikName": "Новосибирск, Калининская"
+    "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1625,
     "uikTvd": "4544024231929",
+    "uikName": "УИК №1625",
     "tikTvd": "25420001560238",
-    "tikName": "Новосибирск, Калининская"
+    "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1626,
     "uikTvd": "4544024231930",
+    "uikName": "УИК №1626",
     "tikTvd": "25420001560238",
-    "tikName": "Новосибирск, Калининская"
+    "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1627,
     "uikTvd": "4544024231931",
+    "uikName": "УИК №1627",
     "tikTvd": "25420001560238",
-    "tikName": "Новосибирск, Калининская"
+    "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1628,
     "uikTvd": "4544024231932",
+    "uikName": "УИК №1628",
     "tikTvd": "25420001560238",
-    "tikName": "Новосибирск, Калининская"
+    "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1629,
     "uikTvd": "4544024231933",
+    "uikName": "УИК №1629",
     "tikTvd": "25420001560238",
-    "tikName": "Новосибирск, Калининская"
+    "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1630,
     "uikTvd": "4544024231934",
+    "uikName": "УИК №1630",
     "tikTvd": "25420001560238",
-    "tikName": "Новосибирск, Калининская"
+    "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1631,
     "uikTvd": "4544024231935",
+    "uikName": "УИК №1631",
     "tikTvd": "25420001560238",
-    "tikName": "Новосибирск, Калининская"
+    "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1632,
     "uikTvd": "4544024231936",
+    "uikName": "УИК №1632",
     "tikTvd": "25420001560238",
-    "tikName": "Новосибирск, Калининская"
+    "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1633,
     "uikTvd": "4544024231937",
+    "uikName": "УИК №1633",
     "tikTvd": "25420001560238",
-    "tikName": "Новосибирск, Калининская"
+    "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1634,
     "uikTvd": "4544024231938",
+    "uikName": "УИК №1634",
     "tikTvd": "25420001560238",
-    "tikName": "Новосибирск, Калининская"
+    "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1635,
     "uikTvd": "4544024231939",
+    "uikName": "УИК №1635",
     "tikTvd": "25420001560238",
-    "tikName": "Новосибирск, Калининская"
+    "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1636,
     "uikTvd": "4544024231940",
+    "uikName": "УИК №1636",
     "tikTvd": "25420001560238",
-    "tikName": "Новосибирск, Калининская"
+    "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1637,
     "uikTvd": "4544024231941",
+    "uikName": "УИК №1637",
     "tikTvd": "25420001560238",
-    "tikName": "Новосибирск, Калининская"
+    "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1638,
     "uikTvd": "4544024231942",
+    "uikName": "УИК №1638",
     "tikTvd": "25420001560238",
-    "tikName": "Новосибирск, Калининская"
+    "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1639,
     "uikTvd": "4544024231943",
+    "uikName": "УИК №1639",
     "tikTvd": "25420001560238",
-    "tikName": "Новосибирск, Калининская"
+    "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1640,
     "uikTvd": "4544024231944",
+    "uikName": "УИК №1640",
     "tikTvd": "25420001560238",
-    "tikName": "Новосибирск, Калининская"
+    "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1641,
     "uikTvd": "4544024231945",
+    "uikName": "УИК №1641",
     "tikTvd": "25420001560238",
-    "tikName": "Новосибирск, Калининская"
+    "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1642,
     "uikTvd": "4544024231946",
+    "uikName": "УИК №1642",
     "tikTvd": "25420001560238",
-    "tikName": "Новосибирск, Калининская"
+    "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1643,
     "uikTvd": "4544024231947",
+    "uikName": "УИК №1643",
     "tikTvd": "25420001560238",
-    "tikName": "Новосибирск, Калининская"
+    "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1644,
     "uikTvd": "4544024231948",
+    "uikName": "УИК №1644",
     "tikTvd": "25420001560238",
-    "tikName": "Новосибирск, Калининская"
+    "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1645,
     "uikTvd": "4544024231949",
+    "uikName": "УИК №1645",
     "tikTvd": "25420001560238",
-    "tikName": "Новосибирск, Калининская"
+    "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1646,
     "uikTvd": "4544024231950",
+    "uikName": "УИК №1646",
     "tikTvd": "25420001560238",
-    "tikName": "Новосибирск, Калининская"
+    "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1647,
     "uikTvd": "4544024231951",
+    "uikName": "УИК №1647",
     "tikTvd": "25420001560238",
-    "tikName": "Новосибирск, Калининская"
+    "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1648,
     "uikTvd": "4544025227909",
+    "uikName": "УИК №1648",
     "tikTvd": "25420001560280",
-    "tikName": "Новосибирск, Кировская"
+    "tikName": "Новосибирск, Кировская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1649,
     "uikTvd": "4544025227910",
+    "uikName": "УИК №1649",
     "tikTvd": "25420001560280",
-    "tikName": "Новосибирск, Кировская"
+    "tikName": "Новосибирск, Кировская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1650,
     "uikTvd": "4544025227911",
+    "uikName": "УИК №1650",
     "tikTvd": "25420001560280",
-    "tikName": "Новосибирск, Кировская"
+    "tikName": "Новосибирск, Кировская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1651,
     "uikTvd": "4544025227912",
+    "uikName": "УИК №1651",
     "tikTvd": "25420001560280",
-    "tikName": "Новосибирск, Кировская"
+    "tikName": "Новосибирск, Кировская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1652,
     "uikTvd": "4544025227913",
+    "uikName": "УИК №1652",
     "tikTvd": "25420001560280",
-    "tikName": "Новосибирск, Кировская"
+    "tikName": "Новосибирск, Кировская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1653,
     "uikTvd": "4544025227914",
+    "uikName": "УИК №1653",
     "tikTvd": "25420001560280",
-    "tikName": "Новосибирск, Кировская"
+    "tikName": "Новосибирск, Кировская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1654,
     "uikTvd": "4544025227915",
+    "uikName": "УИК №1654",
     "tikTvd": "25420001560280",
-    "tikName": "Новосибирск, Кировская"
+    "tikName": "Новосибирск, Кировская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1655,
     "uikTvd": "4544025227916",
+    "uikName": "УИК №1655",
     "tikTvd": "25420001560280",
-    "tikName": "Новосибирск, Кировская"
+    "tikName": "Новосибирск, Кировская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1656,
     "uikTvd": "4544025227917",
+    "uikName": "УИК №1656",
     "tikTvd": "25420001560280",
-    "tikName": "Новосибирск, Кировская"
+    "tikName": "Новосибирск, Кировская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1657,
     "uikTvd": "4544025227918",
+    "uikName": "УИК №1657",
     "tikTvd": "25420001560280",
-    "tikName": "Новосибирск, Кировская"
+    "tikName": "Новосибирск, Кировская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1658,
     "uikTvd": "4544025227919",
+    "uikName": "УИК №1658",
     "tikTvd": "25420001560280",
-    "tikName": "Новосибирск, Кировская"
+    "tikName": "Новосибирск, Кировская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1659,
     "uikTvd": "4544025227920",
+    "uikName": "УИК №1659",
     "tikTvd": "25420001560280",
-    "tikName": "Новосибирск, Кировская"
+    "tikName": "Новосибирск, Кировская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1660,
     "uikTvd": "4544025227921",
+    "uikName": "УИК №1660",
     "tikTvd": "25420001560280",
-    "tikName": "Новосибирск, Кировская"
+    "tikName": "Новосибирск, Кировская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1661,
     "uikTvd": "4544025227922",
+    "uikName": "УИК №1661",
     "tikTvd": "25420001560280",
-    "tikName": "Новосибирск, Кировская"
+    "tikName": "Новосибирск, Кировская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1662,
     "uikTvd": "4544025227923",
+    "uikName": "УИК №1662",
     "tikTvd": "25420001560280",
-    "tikName": "Новосибирск, Кировская"
+    "tikName": "Новосибирск, Кировская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1663,
     "uikTvd": "4544025227924",
+    "uikName": "УИК №1663",
     "tikTvd": "25420001560280",
-    "tikName": "Новосибирск, Кировская"
+    "tikName": "Новосибирск, Кировская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1664,
     "uikTvd": "4544025227925",
+    "uikName": "УИК №1664",
     "tikTvd": "25420001560280",
-    "tikName": "Новосибирск, Кировская"
+    "tikName": "Новосибирск, Кировская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1665,
     "uikTvd": "4544025227926",
+    "uikName": "УИК №1665",
     "tikTvd": "25420001560280",
-    "tikName": "Новосибирск, Кировская"
+    "tikName": "Новосибирск, Кировская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1666,
     "uikTvd": "4544025227927",
+    "uikName": "УИК №1666",
     "tikTvd": "25420001560280",
-    "tikName": "Новосибирск, Кировская"
+    "tikName": "Новосибирск, Кировская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1667,
     "uikTvd": "4544025227928",
+    "uikName": "УИК №1667",
     "tikTvd": "25420001560280",
-    "tikName": "Новосибирск, Кировская"
+    "tikName": "Новосибирск, Кировская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1668,
     "uikTvd": "4544025227929",
+    "uikName": "УИК №1668",
     "tikTvd": "25420001560280",
-    "tikName": "Новосибирск, Кировская"
+    "tikName": "Новосибирск, Кировская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1669,
     "uikTvd": "4544025227930",
+    "uikName": "УИК №1669",
     "tikTvd": "25420001560280",
-    "tikName": "Новосибирск, Кировская"
+    "tikName": "Новосибирск, Кировская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1670,
     "uikTvd": "4544025227931",
+    "uikName": "УИК №1670",
     "tikTvd": "25420001560280",
-    "tikName": "Новосибирск, Кировская"
+    "tikName": "Новосибирск, Кировская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1671,
     "uikTvd": "4544025227932",
+    "uikName": "УИК №1671",
     "tikTvd": "25420001560280",
-    "tikName": "Новосибирск, Кировская"
+    "tikName": "Новосибирск, Кировская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1672,
     "uikTvd": "4544025227933",
+    "uikName": "УИК №1672",
     "tikTvd": "25420001560280",
-    "tikName": "Новосибирск, Кировская"
+    "tikName": "Новосибирск, Кировская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1673,
     "uikTvd": "4544025227934",
+    "uikName": "УИК №1673",
     "tikTvd": "25420001560280",
-    "tikName": "Новосибирск, Кировская"
+    "tikName": "Новосибирск, Кировская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1674,
     "uikTvd": "4544025227935",
+    "uikName": "УИК №1674",
     "tikTvd": "25420001560280",
-    "tikName": "Новосибирск, Кировская"
+    "tikName": "Новосибирск, Кировская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1675,
     "uikTvd": "4544025227936",
+    "uikName": "УИК №1675",
     "tikTvd": "25420001560280",
-    "tikName": "Новосибирск, Кировская"
+    "tikName": "Новосибирск, Кировская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1676,
     "uikTvd": "4544025227937",
+    "uikName": "УИК №1676",
     "tikTvd": "25420001560280",
-    "tikName": "Новосибирск, Кировская"
+    "tikName": "Новосибирск, Кировская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1677,
     "uikTvd": "4544025227938",
+    "uikName": "УИК №1677",
     "tikTvd": "25420001560280",
-    "tikName": "Новосибирск, Кировская"
+    "tikName": "Новосибирск, Кировская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1678,
     "uikTvd": "4544025227939",
+    "uikName": "УИК №1678",
     "tikTvd": "25420001560280",
-    "tikName": "Новосибирск, Кировская"
+    "tikName": "Новосибирск, Кировская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1679,
     "uikTvd": "4544025227940",
+    "uikName": "УИК №1679",
     "tikTvd": "25420001560280",
-    "tikName": "Новосибирск, Кировская"
+    "tikName": "Новосибирск, Кировская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1680,
     "uikTvd": "4544025227941",
+    "uikName": "УИК №1680",
     "tikTvd": "25420001560280",
-    "tikName": "Новосибирск, Кировская"
+    "tikName": "Новосибирск, Кировская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1681,
     "uikTvd": "4544025227942",
+    "uikName": "УИК №1681",
     "tikTvd": "25420001560280",
-    "tikName": "Новосибирск, Кировская"
+    "tikName": "Новосибирск, Кировская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1682,
     "uikTvd": "4544025227943",
+    "uikName": "УИК №1682",
     "tikTvd": "25420001560280",
-    "tikName": "Новосибирск, Кировская"
+    "tikName": "Новосибирск, Кировская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1683,
     "uikTvd": "4544025227944",
+    "uikName": "УИК №1683",
     "tikTvd": "25420001560280",
-    "tikName": "Новосибирск, Кировская"
+    "tikName": "Новосибирск, Кировская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1684,
     "uikTvd": "4544025227945",
+    "uikName": "УИК №1684",
     "tikTvd": "25420001560280",
-    "tikName": "Новосибирск, Кировская"
+    "tikName": "Новосибирск, Кировская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1685,
     "uikTvd": "4544025227946",
+    "uikName": "УИК №1685",
     "tikTvd": "25420001560280",
-    "tikName": "Новосибирск, Кировская"
+    "tikName": "Новосибирск, Кировская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1686,
     "uikTvd": "4544025227947",
+    "uikName": "УИК №1686",
     "tikTvd": "25420001560280",
-    "tikName": "Новосибирск, Кировская"
+    "tikName": "Новосибирск, Кировская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1687,
     "uikTvd": "4544025227948",
+    "uikName": "УИК №1687",
     "tikTvd": "25420001560280",
-    "tikName": "Новосибирск, Кировская"
+    "tikName": "Новосибирск, Кировская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1688,
     "uikTvd": "4544025227949",
+    "uikName": "УИК №1688",
     "tikTvd": "25420001560280",
-    "tikName": "Новосибирск, Кировская"
+    "tikName": "Новосибирск, Кировская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1689,
     "uikTvd": "4544025227950",
+    "uikName": "УИК №1689",
     "tikTvd": "25420001560280",
-    "tikName": "Новосибирск, Кировская"
+    "tikName": "Новосибирск, Кировская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1690,
     "uikTvd": "4544025227951",
+    "uikName": "УИК №1690",
     "tikTvd": "25420001560280",
-    "tikName": "Новосибирск, Кировская"
+    "tikName": "Новосибирск, Кировская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1691,
     "uikTvd": "4544025227952",
+    "uikName": "УИК №1691",
     "tikTvd": "25420001560280",
-    "tikName": "Новосибирск, Кировская"
+    "tikName": "Новосибирск, Кировская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1692,
     "uikTvd": "4544025227953",
+    "uikName": "УИК №1692",
     "tikTvd": "25420001560280",
-    "tikName": "Новосибирск, Кировская"
+    "tikName": "Новосибирск, Кировская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1693,
     "uikTvd": "4544025227954",
+    "uikName": "УИК №1693",
     "tikTvd": "25420001560280",
-    "tikName": "Новосибирск, Кировская"
+    "tikName": "Новосибирск, Кировская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1694,
     "uikTvd": "4544025227955",
+    "uikName": "УИК №1694",
     "tikTvd": "25420001560280",
-    "tikName": "Новосибирск, Кировская"
+    "tikName": "Новосибирск, Кировская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1695,
     "uikTvd": "4544025227956",
+    "uikName": "УИК №1695",
     "tikTvd": "25420001560280",
-    "tikName": "Новосибирск, Кировская"
+    "tikName": "Новосибирск, Кировская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1696,
     "uikTvd": "4544025227957",
+    "uikName": "УИК №1696",
     "tikTvd": "25420001560280",
-    "tikName": "Новосибирск, Кировская"
+    "tikName": "Новосибирск, Кировская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1697,
     "uikTvd": "4544025227958",
+    "uikName": "УИК №1697",
     "tikTvd": "25420001560280",
-    "tikName": "Новосибирск, Кировская"
+    "tikName": "Новосибирск, Кировская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1698,
     "uikTvd": "4544025227959",
+    "uikName": "УИК №1698",
     "tikTvd": "25420001560280",
-    "tikName": "Новосибирск, Кировская"
+    "tikName": "Новосибирск, Кировская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1699,
     "uikTvd": "4544025227960",
+    "uikName": "УИК №1699",
     "tikTvd": "25420001560280",
-    "tikName": "Новосибирск, Кировская"
+    "tikName": "Новосибирск, Кировская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1700,
     "uikTvd": "4544025227961",
+    "uikName": "УИК №1700",
     "tikTvd": "25420001560280",
-    "tikName": "Новосибирск, Кировская"
+    "tikName": "Новосибирск, Кировская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1701,
     "uikTvd": "4544025227962",
+    "uikName": "УИК №1701",
     "tikTvd": "25420001560280",
-    "tikName": "Новосибирск, Кировская"
+    "tikName": "Новосибирск, Кировская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1702,
     "uikTvd": "4544025227963",
+    "uikName": "УИК №1702",
     "tikTvd": "25420001560280",
-    "tikName": "Новосибирск, Кировская"
+    "tikName": "Новосибирск, Кировская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1703,
     "uikTvd": "4544025227964",
+    "uikName": "УИК №1703",
     "tikTvd": "25420001560280",
-    "tikName": "Новосибирск, Кировская"
+    "tikName": "Новосибирск, Кировская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1704,
     "uikTvd": "4544025227965",
+    "uikName": "УИК №1704",
     "tikTvd": "25420001560280",
-    "tikName": "Новосибирск, Кировская"
+    "tikName": "Новосибирск, Кировская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1705,
     "uikTvd": "4544025227966",
+    "uikName": "УИК №1705",
     "tikTvd": "25420001560280",
-    "tikName": "Новосибирск, Кировская"
+    "tikName": "Новосибирск, Кировская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1706,
     "uikTvd": "4544025227967",
+    "uikName": "УИК №1706",
     "tikTvd": "25420001560280",
-    "tikName": "Новосибирск, Кировская"
+    "tikName": "Новосибирск, Кировская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1707,
     "uikTvd": "4544025227968",
+    "uikName": "УИК №1707",
     "tikTvd": "25420001560280",
-    "tikName": "Новосибирск, Кировская"
+    "tikName": "Новосибирск, Кировская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1708,
     "uikTvd": "4544025227969",
+    "uikName": "УИК №1708",
     "tikTvd": "25420001560280",
-    "tikName": "Новосибирск, Кировская"
+    "tikName": "Новосибирск, Кировская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1709,
     "uikTvd": "4544026277833",
+    "uikName": "УИК №1709",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1710,
     "uikTvd": "4544026277728",
+    "uikName": "УИК №1710",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1711,
     "uikTvd": "4544026277729",
+    "uikName": "УИК №1711",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1712,
     "uikTvd": "4544026277730",
+    "uikName": "УИК №1712",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1713,
     "uikTvd": "4544026277731",
+    "uikName": "УИК №1713",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1714,
     "uikTvd": "4544026277732",
+    "uikName": "УИК №1714",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1715,
     "uikTvd": "4544026277733",
+    "uikName": "УИК №1715",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1716,
     "uikTvd": "4544026277734",
+    "uikName": "УИК №1716",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1717,
     "uikTvd": "4544026277735",
+    "uikName": "УИК №1717",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1718,
     "uikTvd": "4544026277736",
+    "uikName": "УИК №1718",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1719,
     "uikTvd": "4544026277737",
+    "uikName": "УИК №1719",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1720,
     "uikTvd": "4544026277738",
+    "uikName": "УИК №1720",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1721,
     "uikTvd": "4544026277739",
+    "uikName": "УИК №1721",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1722,
     "uikTvd": "4544026277740",
+    "uikName": "УИК №1722",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1723,
     "uikTvd": "4544026277741",
+    "uikName": "УИК №1723",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1724,
     "uikTvd": "4544026277742",
+    "uikName": "УИК №1724",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1725,
     "uikTvd": "4544026277743",
+    "uikName": "УИК №1725",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1726,
     "uikTvd": "4544026277744",
+    "uikName": "УИК №1726",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1727,
     "uikTvd": "4544026277745",
+    "uikName": "УИК №1727",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1728,
     "uikTvd": "4544026277746",
+    "uikName": "УИК №1728",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1729,
     "uikTvd": "4544026277747",
+    "uikName": "УИК №1729",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1730,
     "uikTvd": "4544026277748",
+    "uikName": "УИК №1730",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1731,
     "uikTvd": "4544026277749",
+    "uikName": "УИК №1731",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1732,
     "uikTvd": "4544026277750",
+    "uikName": "УИК №1732",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1733,
     "uikTvd": "4544026277751",
+    "uikName": "УИК №1733",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1734,
     "uikTvd": "4544026277752",
+    "uikName": "УИК №1734",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1735,
     "uikTvd": "4544026277753",
+    "uikName": "УИК №1735",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1736,
     "uikTvd": "4544026277754",
+    "uikName": "УИК №1736",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1737,
     "uikTvd": "4544026277755",
+    "uikName": "УИК №1737",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1738,
     "uikTvd": "4544026277756",
+    "uikName": "УИК №1738",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1739,
     "uikTvd": "4544026277757",
+    "uikName": "УИК №1739",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1740,
     "uikTvd": "4544026277758",
+    "uikName": "УИК №1740",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1741,
     "uikTvd": "4544026277759",
+    "uikName": "УИК №1741",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1742,
     "uikTvd": "4544026277760",
+    "uikName": "УИК №1742",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1743,
     "uikTvd": "4544026277761",
+    "uikName": "УИК №1743",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1744,
     "uikTvd": "4544026277762",
+    "uikName": "УИК №1744",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1745,
     "uikTvd": "4544026277763",
+    "uikName": "УИК №1745",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1746,
     "uikTvd": "4544026277764",
+    "uikName": "УИК №1746",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1747,
     "uikTvd": "4544026277765",
+    "uikName": "УИК №1747",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1748,
     "uikTvd": "4544026277766",
+    "uikName": "УИК №1748",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1749,
     "uikTvd": "4544026277767",
+    "uikName": "УИК №1749",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1750,
     "uikTvd": "4544026277768",
+    "uikName": "УИК №1750",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1751,
     "uikTvd": "4544026277769",
+    "uikName": "УИК №1751",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1752,
     "uikTvd": "4544026277770",
+    "uikName": "УИК №1752",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1753,
     "uikTvd": "4544026277771",
+    "uikName": "УИК №1753",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1754,
     "uikTvd": "4544026277772",
+    "uikName": "УИК №1754",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1755,
     "uikTvd": "4544026277773",
+    "uikName": "УИК №1755",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1756,
     "uikTvd": "4544026277774",
+    "uikName": "УИК №1756",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1757,
     "uikTvd": "4544026277775",
+    "uikName": "УИК №1757",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1758,
     "uikTvd": "4544026277776",
+    "uikName": "УИК №1758",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1759,
     "uikTvd": "4544026277777",
+    "uikName": "УИК №1759",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1760,
     "uikTvd": "4544026277778",
+    "uikName": "УИК №1760",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1761,
     "uikTvd": "4544026277779",
+    "uikName": "УИК №1761",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1762,
     "uikTvd": "4544026277780",
+    "uikName": "УИК №1762",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1763,
     "uikTvd": "4544026277781",
+    "uikName": "УИК №1763",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1764,
     "uikTvd": "4544026277782",
+    "uikName": "УИК №1764",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1765,
     "uikTvd": "4544026277783",
+    "uikName": "УИК №1765",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1766,
     "uikTvd": "4544026277784",
+    "uikName": "УИК №1766",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1767,
     "uikTvd": "4544026277785",
+    "uikName": "УИК №1767",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1768,
     "uikTvd": "4544026277786",
+    "uikName": "УИК №1768",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1769,
     "uikTvd": "4544026277787",
+    "uikName": "УИК №1769",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1770,
     "uikTvd": "4544026277788",
+    "uikName": "УИК №1770",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1771,
     "uikTvd": "4544026277789",
+    "uikName": "УИК №1771",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1772,
     "uikTvd": "4544026277790",
+    "uikName": "УИК №1772",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1773,
     "uikTvd": "4544026277791",
+    "uikName": "УИК №1773",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1774,
     "uikTvd": "4544026277792",
+    "uikName": "УИК №1774",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1775,
     "uikTvd": "4544026277793",
+    "uikName": "УИК №1775",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1776,
     "uikTvd": "4544026277794",
+    "uikName": "УИК №1776",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1777,
     "uikTvd": "4544026277795",
+    "uikName": "УИК №1777",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1778,
     "uikTvd": "4544026277796",
+    "uikName": "УИК №1778",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1779,
     "uikTvd": "4544026277797",
+    "uikName": "УИК №1779",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1780,
     "uikTvd": "4544026277798",
+    "uikName": "УИК №1780",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1781,
     "uikTvd": "4544026277799",
+    "uikName": "УИК №1781",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1782,
     "uikTvd": "4544026277800",
+    "uikName": "УИК №1782",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1783,
     "uikTvd": "4544026277801",
+    "uikName": "УИК №1783",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1784,
     "uikTvd": "4544026277802",
+    "uikName": "УИК №1784",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1785,
     "uikTvd": "4544026277803",
+    "uikName": "УИК №1785",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1786,
     "uikTvd": "4544026277804",
+    "uikName": "УИК №1786",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1787,
     "uikTvd": "4544026277805",
+    "uikName": "УИК №1787",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1788,
     "uikTvd": "4544026277806",
+    "uikName": "УИК №1788",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1789,
     "uikTvd": "4544026277807",
+    "uikName": "УИК №1789",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1790,
     "uikTvd": "4544026277808",
+    "uikName": "УИК №1790",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1791,
     "uikTvd": "4544026277809",
+    "uikName": "УИК №1791",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1792,
     "uikTvd": "4544026277810",
+    "uikName": "УИК №1792",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1793,
     "uikTvd": "4544026277811",
+    "uikName": "УИК №1793",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1794,
     "uikTvd": "4544026277812",
+    "uikName": "УИК №1794",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1795,
     "uikTvd": "4544026277813",
+    "uikName": "УИК №1795",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1796,
     "uikTvd": "4544026277814",
+    "uikName": "УИК №1796",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1797,
     "uikTvd": "4544026277815",
+    "uikName": "УИК №1797",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1798,
     "uikTvd": "4544026277816",
+    "uikName": "УИК №1798",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1799,
     "uikTvd": "4544026277817",
+    "uikName": "УИК №1799",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1800,
     "uikTvd": "4544026277818",
+    "uikName": "УИК №1800",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1801,
     "uikTvd": "4544026277819",
+    "uikName": "УИК №1801",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1802,
     "uikTvd": "4544026277820",
+    "uikName": "УИК №1802",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1803,
     "uikTvd": "4544026277821",
+    "uikName": "УИК №1803",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1804,
     "uikTvd": "4544026277822",
+    "uikName": "УИК №1804",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1805,
     "uikTvd": "4544026277823",
+    "uikName": "УИК №1805",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1806,
     "uikTvd": "4544026277824",
+    "uikName": "УИК №1806",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1807,
     "uikTvd": "4544026277825",
+    "uikName": "УИК №1807",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1808,
     "uikTvd": "4544026277826",
+    "uikName": "УИК №1808",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1809,
     "uikTvd": "4544026277827",
+    "uikName": "УИК №1809",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1810,
     "uikTvd": "4544026277828",
+    "uikName": "УИК №1810",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1811,
     "uikTvd": "4544026277829",
+    "uikName": "УИК №1811",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1812,
     "uikTvd": "4544026277830",
+    "uikName": "УИК №1812",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1813,
     "uikTvd": "4544026277831",
+    "uikName": "УИК №1813",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1814,
     "uikTvd": "4544027274197",
+    "uikName": "УИК №1814",
     "tikTvd": "25420001560276",
-    "tikName": "Новосибирск, Октябрьская"
+    "tikName": "Новосибирск, Октябрьская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1815,
     "uikTvd": "4544027274198",
+    "uikName": "УИК №1815",
     "tikTvd": "25420001560276",
-    "tikName": "Новосибирск, Октябрьская"
+    "tikName": "Новосибирск, Октябрьская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1816,
     "uikTvd": "4544027274199",
+    "uikName": "УИК №1816",
     "tikTvd": "25420001560276",
-    "tikName": "Новосибирск, Октябрьская"
+    "tikName": "Новосибирск, Октябрьская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1817,
     "uikTvd": "4544027274200",
+    "uikName": "УИК №1817",
     "tikTvd": "25420001560276",
-    "tikName": "Новосибирск, Октябрьская"
+    "tikName": "Новосибирск, Октябрьская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1818,
     "uikTvd": "4544027274201",
+    "uikName": "УИК №1818",
     "tikTvd": "25420001560276",
-    "tikName": "Новосибирск, Октябрьская"
+    "tikName": "Новосибирск, Октябрьская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1819,
     "uikTvd": "4544027274202",
+    "uikName": "УИК №1819",
     "tikTvd": "25420001560276",
-    "tikName": "Новосибирск, Октябрьская"
+    "tikName": "Новосибирск, Октябрьская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1820,
     "uikTvd": "4544027274203",
+    "uikName": "УИК №1820",
     "tikTvd": "25420001560276",
-    "tikName": "Новосибирск, Октябрьская"
+    "tikName": "Новосибирск, Октябрьская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1821,
     "uikTvd": "4544027274204",
+    "uikName": "УИК №1821",
     "tikTvd": "25420001560276",
-    "tikName": "Новосибирск, Октябрьская"
+    "tikName": "Новосибирск, Октябрьская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1822,
     "uikTvd": "4544027274205",
+    "uikName": "УИК №1822",
     "tikTvd": "25420001560276",
-    "tikName": "Новосибирск, Октябрьская"
+    "tikName": "Новосибирск, Октябрьская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1823,
     "uikTvd": "4544027274206",
+    "uikName": "УИК №1823",
     "tikTvd": "25420001560276",
-    "tikName": "Новосибирск, Октябрьская"
+    "tikName": "Новосибирск, Октябрьская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1824,
     "uikTvd": "4544027274207",
+    "uikName": "УИК №1824",
     "tikTvd": "25420001560276",
-    "tikName": "Новосибирск, Октябрьская"
+    "tikName": "Новосибирск, Октябрьская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1825,
     "uikTvd": "4544027274208",
+    "uikName": "УИК №1825",
     "tikTvd": "25420001560276",
-    "tikName": "Новосибирск, Октябрьская"
+    "tikName": "Новосибирск, Октябрьская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1826,
     "uikTvd": "4544027274209",
+    "uikName": "УИК №1826",
     "tikTvd": "25420001560276",
-    "tikName": "Новосибирск, Октябрьская"
+    "tikName": "Новосибирск, Октябрьская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1827,
     "uikTvd": "4544027274210",
+    "uikName": "УИК №1827",
     "tikTvd": "25420001560276",
-    "tikName": "Новосибирск, Октябрьская"
+    "tikName": "Новосибирск, Октябрьская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1828,
     "uikTvd": "4544027274211",
+    "uikName": "УИК №1828",
     "tikTvd": "25420001560276",
-    "tikName": "Новосибирск, Октябрьская"
+    "tikName": "Новосибирск, Октябрьская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1829,
     "uikTvd": "4544027274212",
+    "uikName": "УИК №1829",
     "tikTvd": "25420001560276",
-    "tikName": "Новосибирск, Октябрьская"
+    "tikName": "Новосибирск, Октябрьская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1830,
     "uikTvd": "4544027274213",
+    "uikName": "УИК №1830",
     "tikTvd": "25420001560276",
-    "tikName": "Новосибирск, Октябрьская"
+    "tikName": "Новосибирск, Октябрьская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1831,
     "uikTvd": "4544027274214",
+    "uikName": "УИК №1831",
     "tikTvd": "25420001560276",
-    "tikName": "Новосибирск, Октябрьская"
+    "tikName": "Новосибирск, Октябрьская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1832,
     "uikTvd": "4544027274215",
+    "uikName": "УИК №1832",
     "tikTvd": "25420001560276",
-    "tikName": "Новосибирск, Октябрьская"
+    "tikName": "Новосибирск, Октябрьская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1833,
     "uikTvd": "4544027274216",
+    "uikName": "УИК №1833",
     "tikTvd": "25420001560276",
-    "tikName": "Новосибирск, Октябрьская"
+    "tikName": "Новосибирск, Октябрьская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1834,
     "uikTvd": "4544027274217",
+    "uikName": "УИК №1834",
     "tikTvd": "25420001560276",
-    "tikName": "Новосибирск, Октябрьская"
+    "tikName": "Новосибирск, Октябрьская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1835,
     "uikTvd": "4544027274218",
+    "uikName": "УИК №1835",
     "tikTvd": "25420001560276",
-    "tikName": "Новосибирск, Октябрьская"
+    "tikName": "Новосибирск, Октябрьская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1836,
     "uikTvd": "4544027274219",
+    "uikName": "УИК №1836",
     "tikTvd": "25420001560276",
-    "tikName": "Новосибирск, Октябрьская"
+    "tikName": "Новосибирск, Октябрьская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1837,
     "uikTvd": "4544027274220",
+    "uikName": "УИК №1837",
     "tikTvd": "25420001560276",
-    "tikName": "Новосибирск, Октябрьская"
+    "tikName": "Новосибирск, Октябрьская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1838,
     "uikTvd": "4544027274221",
+    "uikName": "УИК №1838",
     "tikTvd": "25420001560276",
-    "tikName": "Новосибирск, Октябрьская"
+    "tikName": "Новосибирск, Октябрьская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1839,
     "uikTvd": "4544027274222",
+    "uikName": "УИК №1839",
     "tikTvd": "25420001560276",
-    "tikName": "Новосибирск, Октябрьская"
+    "tikName": "Новосибирск, Октябрьская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1840,
     "uikTvd": "4544027274223",
+    "uikName": "УИК №1840",
     "tikTvd": "25420001560276",
-    "tikName": "Новосибирск, Октябрьская"
+    "tikName": "Новосибирск, Октябрьская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1841,
     "uikTvd": "4544027274224",
+    "uikName": "УИК №1841",
     "tikTvd": "25420001560276",
-    "tikName": "Новосибирск, Октябрьская"
+    "tikName": "Новосибирск, Октябрьская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1842,
     "uikTvd": "4544027274225",
+    "uikName": "УИК №1842",
     "tikTvd": "25420001560276",
-    "tikName": "Новосибирск, Октябрьская"
+    "tikName": "Новосибирск, Октябрьская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1843,
     "uikTvd": "4544027274226",
+    "uikName": "УИК №1843",
     "tikTvd": "25420001560276",
-    "tikName": "Новосибирск, Октябрьская"
+    "tikName": "Новосибирск, Октябрьская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1844,
     "uikTvd": "4544027274227",
+    "uikName": "УИК №1844",
     "tikTvd": "25420001560276",
-    "tikName": "Новосибирск, Октябрьская"
+    "tikName": "Новосибирск, Октябрьская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1845,
     "uikTvd": "4544027274228",
+    "uikName": "УИК №1845",
     "tikTvd": "25420001560276",
-    "tikName": "Новосибирск, Октябрьская"
+    "tikName": "Новосибирск, Октябрьская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1846,
     "uikTvd": "4544027274229",
+    "uikName": "УИК №1846",
     "tikTvd": "25420001560276",
-    "tikName": "Новосибирск, Октябрьская"
+    "tikName": "Новосибирск, Октябрьская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1847,
     "uikTvd": "4544025227970",
+    "uikName": "УИК №1847",
     "tikTvd": "25420001560280",
-    "tikName": "Новосибирск, Кировская"
+    "tikName": "Новосибирск, Кировская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1848,
     "uikTvd": "4544027274230",
+    "uikName": "УИК №1848",
     "tikTvd": "25420001560276",
-    "tikName": "Новосибирск, Октябрьская"
+    "tikName": "Новосибирск, Октябрьская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1849,
     "uikTvd": "4544027274231",
+    "uikName": "УИК №1849",
     "tikTvd": "25420001560276",
-    "tikName": "Новосибирск, Октябрьская"
+    "tikName": "Новосибирск, Октябрьская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1850,
     "uikTvd": "4544027274232",
+    "uikName": "УИК №1850",
     "tikTvd": "25420001560276",
-    "tikName": "Новосибирск, Октябрьская"
+    "tikName": "Новосибирск, Октябрьская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1851,
     "uikTvd": "4544027274233",
+    "uikName": "УИК №1851",
     "tikTvd": "25420001560276",
-    "tikName": "Новосибирск, Октябрьская"
+    "tikName": "Новосибирск, Октябрьская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1852,
     "uikTvd": "4544027274234",
+    "uikName": "УИК №1852",
     "tikTvd": "25420001560276",
-    "tikName": "Новосибирск, Октябрьская"
+    "tikName": "Новосибирск, Октябрьская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1853,
     "uikTvd": "4544027274235",
+    "uikName": "УИК №1853",
     "tikTvd": "25420001560276",
-    "tikName": "Новосибирск, Октябрьская"
+    "tikName": "Новосибирск, Октябрьская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1854,
     "uikTvd": "4544027274236",
+    "uikName": "УИК №1854",
     "tikTvd": "25420001560276",
-    "tikName": "Новосибирск, Октябрьская"
+    "tikName": "Новосибирск, Октябрьская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1855,
     "uikTvd": "4544027274237",
+    "uikName": "УИК №1855",
     "tikTvd": "25420001560276",
-    "tikName": "Новосибирск, Октябрьская"
+    "tikName": "Новосибирск, Октябрьская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1856,
     "uikTvd": "4544027274238",
+    "uikName": "УИК №1856",
     "tikTvd": "25420001560276",
-    "tikName": "Новосибирск, Октябрьская"
+    "tikName": "Новосибирск, Октябрьская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1857,
     "uikTvd": "4544027274239",
+    "uikName": "УИК №1857",
     "tikTvd": "25420001560276",
-    "tikName": "Новосибирск, Октябрьская"
+    "tikName": "Новосибирск, Октябрьская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1858,
     "uikTvd": "4544027274240",
+    "uikName": "УИК №1858",
     "tikTvd": "25420001560276",
-    "tikName": "Новосибирск, Октябрьская"
+    "tikName": "Новосибирск, Октябрьская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1859,
     "uikTvd": "4544027274241",
+    "uikName": "УИК №1859",
     "tikTvd": "25420001560276",
-    "tikName": "Новосибирск, Октябрьская"
+    "tikName": "Новосибирск, Октябрьская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1860,
     "uikTvd": "4544027274242",
+    "uikName": "УИК №1860",
     "tikTvd": "25420001560276",
-    "tikName": "Новосибирск, Октябрьская"
+    "tikName": "Новосибирск, Октябрьская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1861,
     "uikTvd": "4544027274243",
+    "uikName": "УИК №1861",
     "tikTvd": "25420001560276",
-    "tikName": "Новосибирск, Октябрьская"
+    "tikName": "Новосибирск, Октябрьская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1862,
     "uikTvd": "4544027274244",
+    "uikName": "УИК №1862",
     "tikTvd": "25420001560276",
-    "tikName": "Новосибирск, Октябрьская"
+    "tikName": "Новосибирск, Октябрьская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1863,
     "uikTvd": "4544027274245",
+    "uikName": "УИК №1863",
     "tikTvd": "25420001560276",
-    "tikName": "Новосибирск, Октябрьская"
+    "tikName": "Новосибирск, Октябрьская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1864,
     "uikTvd": "4544027274246",
+    "uikName": "УИК №1864",
     "tikTvd": "25420001560276",
-    "tikName": "Новосибирск, Октябрьская"
+    "tikName": "Новосибирск, Октябрьская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1865,
     "uikTvd": "4544027274247",
+    "uikName": "УИК №1865",
     "tikTvd": "25420001560276",
-    "tikName": "Новосибирск, Октябрьская"
+    "tikName": "Новосибирск, Октябрьская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1866,
     "uikTvd": "4544027274248",
+    "uikName": "УИК №1866",
     "tikTvd": "25420001560276",
-    "tikName": "Новосибирск, Октябрьская"
+    "tikName": "Новосибирск, Октябрьская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1867,
     "uikTvd": "4544027274249",
+    "uikName": "УИК №1867",
     "tikTvd": "25420001560276",
-    "tikName": "Новосибирск, Октябрьская"
+    "tikName": "Новосибирск, Октябрьская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1868,
     "uikTvd": "4544027274250",
+    "uikName": "УИК №1868",
     "tikTvd": "25420001560276",
-    "tikName": "Новосибирск, Октябрьская"
+    "tikName": "Новосибирск, Октябрьская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1869,
     "uikTvd": "4544027274251",
+    "uikName": "УИК №1869",
     "tikTvd": "25420001560276",
-    "tikName": "Новосибирск, Октябрьская"
+    "tikName": "Новосибирск, Октябрьская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1870,
     "uikTvd": "4544027274252",
+    "uikName": "УИК №1870",
     "tikTvd": "25420001560276",
-    "tikName": "Новосибирск, Октябрьская"
+    "tikName": "Новосибирск, Октябрьская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1871,
     "uikTvd": "4544027274253",
+    "uikName": "УИК №1871",
     "tikTvd": "25420001560276",
-    "tikName": "Новосибирск, Октябрьская"
+    "tikName": "Новосибирск, Октябрьская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1872,
     "uikTvd": "4544027274254",
+    "uikName": "УИК №1872",
     "tikTvd": "25420001560276",
-    "tikName": "Новосибирск, Октябрьская"
+    "tikName": "Новосибирск, Октябрьская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1873,
     "uikTvd": "4544027274255",
+    "uikName": "УИК №1873",
     "tikTvd": "25420001560276",
-    "tikName": "Новосибирск, Октябрьская"
+    "tikName": "Новосибирск, Октябрьская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1874,
     "uikTvd": "4544027274256",
+    "uikName": "УИК №1874",
     "tikTvd": "25420001560276",
-    "tikName": "Новосибирск, Октябрьская"
+    "tikName": "Новосибирск, Октябрьская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1875,
     "uikTvd": "4544027274257",
+    "uikName": "УИК №1875",
     "tikTvd": "25420001560276",
-    "tikName": "Новосибирск, Октябрьская"
+    "tikName": "Новосибирск, Октябрьская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1876,
     "uikTvd": "4544027274258",
+    "uikName": "УИК №1876",
     "tikTvd": "25420001560276",
-    "tikName": "Новосибирск, Октябрьская"
+    "tikName": "Новосибирск, Октябрьская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1877,
     "uikTvd": "4544027274259",
+    "uikName": "УИК №1877",
     "tikTvd": "25420001560276",
-    "tikName": "Новосибирск, Октябрьская"
+    "tikName": "Новосибирск, Октябрьская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1878,
     "uikTvd": "4544027274260",
+    "uikName": "УИК №1878",
     "tikTvd": "25420001560276",
-    "tikName": "Новосибирск, Октябрьская"
+    "tikName": "Новосибирск, Октябрьская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1879,
     "uikTvd": "4544027274261",
+    "uikName": "УИК №1879",
     "tikTvd": "25420001560276",
-    "tikName": "Новосибирск, Октябрьская"
+    "tikName": "Новосибирск, Октябрьская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1880,
     "uikTvd": "4544027274262",
+    "uikName": "УИК №1880",
     "tikTvd": "25420001560276",
-    "tikName": "Новосибирск, Октябрьская"
+    "tikName": "Новосибирск, Октябрьская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1881,
     "uikTvd": "4544027274263",
+    "uikName": "УИК №1881",
     "tikTvd": "25420001560276",
-    "tikName": "Новосибирск, Октябрьская"
+    "tikName": "Новосибирск, Октябрьская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1882,
     "uikTvd": "4544027274264",
+    "uikName": "УИК №1882",
     "tikTvd": "25420001560276",
-    "tikName": "Новосибирск, Октябрьская"
+    "tikName": "Новосибирск, Октябрьская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1883,
     "uikTvd": "4544027274265",
+    "uikName": "УИК №1883",
     "tikTvd": "25420001560276",
-    "tikName": "Новосибирск, Октябрьская"
+    "tikName": "Новосибирск, Октябрьская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1884,
     "uikTvd": "4544027274266",
+    "uikName": "УИК №1884",
     "tikTvd": "25420001560276",
-    "tikName": "Новосибирск, Октябрьская"
+    "tikName": "Новосибирск, Октябрьская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1885,
     "uikTvd": "4544027274267",
+    "uikName": "УИК №1885",
     "tikTvd": "25420001560276",
-    "tikName": "Новосибирск, Октябрьская"
+    "tikName": "Новосибирск, Октябрьская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1886,
     "uikTvd": "4544027274268",
+    "uikName": "УИК №1886",
     "tikTvd": "25420001560276",
-    "tikName": "Новосибирск, Октябрьская"
+    "tikName": "Новосибирск, Октябрьская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1887,
     "uikTvd": "4544027274269",
+    "uikName": "УИК №1887",
     "tikTvd": "25420001560276",
-    "tikName": "Новосибирск, Октябрьская"
+    "tikName": "Новосибирск, Октябрьская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1888,
     "uikTvd": "4544027274270",
+    "uikName": "УИК №1888",
     "tikTvd": "25420001560276",
-    "tikName": "Новосибирск, Октябрьская"
+    "tikName": "Новосибирск, Октябрьская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1889,
     "uikTvd": "4544027274271",
+    "uikName": "УИК №1889",
     "tikTvd": "25420001560276",
-    "tikName": "Новосибирск, Октябрьская"
+    "tikName": "Новосибирск, Октябрьская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1890,
     "uikTvd": "4544027274272",
+    "uikName": "УИК №1890",
     "tikTvd": "25420001560276",
-    "tikName": "Новосибирск, Октябрьская"
+    "tikName": "Новосибирск, Октябрьская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1891,
     "uikTvd": "4544027274273",
+    "uikName": "УИК №1891",
     "tikTvd": "25420001560276",
-    "tikName": "Новосибирск, Октябрьская"
+    "tikName": "Новосибирск, Октябрьская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1892,
     "uikTvd": "4544027274274",
+    "uikName": "УИК №1892",
     "tikTvd": "25420001560276",
-    "tikName": "Новосибирск, Октябрьская"
+    "tikName": "Новосибирск, Октябрьская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1893,
     "uikTvd": "4544027274275",
+    "uikName": "УИК №1893",
     "tikTvd": "25420001560276",
-    "tikName": "Новосибирск, Октябрьская"
+    "tikName": "Новосибирск, Октябрьская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1894,
     "uikTvd": "4544027274276",
+    "uikName": "УИК №1894",
     "tikTvd": "25420001560276",
-    "tikName": "Новосибирск, Октябрьская"
+    "tikName": "Новосибирск, Октябрьская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1895,
     "uikTvd": "4544025227971",
+    "uikName": "УИК №1895",
     "tikTvd": "25420001560280",
-    "tikName": "Новосибирск, Кировская"
+    "tikName": "Новосибирск, Кировская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1896,
     "uikTvd": "4544027274277",
+    "uikName": "УИК №1896",
     "tikTvd": "25420001560276",
-    "tikName": "Новосибирск, Октябрьская"
+    "tikName": "Новосибирск, Октябрьская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1897,
     "uikTvd": "4544028150421",
+    "uikName": "УИК №1897",
     "tikTvd": "25420001560243",
-    "tikName": "Новосибирск, Первомайская"
+    "tikName": "Новосибирск, Первомайская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1898,
     "uikTvd": "4544028150422",
+    "uikName": "УИК №1898",
     "tikTvd": "25420001560243",
-    "tikName": "Новосибирск, Первомайская"
+    "tikName": "Новосибирск, Первомайская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1899,
     "uikTvd": "4544028150423",
+    "uikName": "УИК №1899",
     "tikTvd": "25420001560243",
-    "tikName": "Новосибирск, Первомайская"
+    "tikName": "Новосибирск, Первомайская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1900,
     "uikTvd": "4544028150424",
+    "uikName": "УИК №1900",
     "tikTvd": "25420001560243",
-    "tikName": "Новосибирск, Первомайская"
+    "tikName": "Новосибирск, Первомайская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1901,
     "uikTvd": "4544028150425",
+    "uikName": "УИК №1901",
     "tikTvd": "25420001560243",
-    "tikName": "Новосибирск, Первомайская"
+    "tikName": "Новосибирск, Первомайская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1902,
     "uikTvd": "4544028150426",
+    "uikName": "УИК №1902",
     "tikTvd": "25420001560243",
-    "tikName": "Новосибирск, Первомайская"
+    "tikName": "Новосибирск, Первомайская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1903,
     "uikTvd": "4544028150427",
+    "uikName": "УИК №1903",
     "tikTvd": "25420001560243",
-    "tikName": "Новосибирск, Первомайская"
+    "tikName": "Новосибирск, Первомайская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1904,
     "uikTvd": "4544028150428",
+    "uikName": "УИК №1904",
     "tikTvd": "25420001560243",
-    "tikName": "Новосибирск, Первомайская"
+    "tikName": "Новосибирск, Первомайская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1905,
     "uikTvd": "4544028150429",
+    "uikName": "УИК №1905",
     "tikTvd": "25420001560243",
-    "tikName": "Новосибирск, Первомайская"
+    "tikName": "Новосибирск, Первомайская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1906,
     "uikTvd": "4544028150430",
+    "uikName": "УИК №1906",
     "tikTvd": "25420001560243",
-    "tikName": "Новосибирск, Первомайская"
+    "tikName": "Новосибирск, Первомайская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1907,
     "uikTvd": "4544028150431",
+    "uikName": "УИК №1907",
     "tikTvd": "25420001560243",
-    "tikName": "Новосибирск, Первомайская"
+    "tikName": "Новосибирск, Первомайская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1908,
     "uikTvd": "4544028150432",
+    "uikName": "УИК №1908",
     "tikTvd": "25420001560243",
-    "tikName": "Новосибирск, Первомайская"
+    "tikName": "Новосибирск, Первомайская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1909,
     "uikTvd": "4544028150433",
+    "uikName": "УИК №1909",
     "tikTvd": "25420001560243",
-    "tikName": "Новосибирск, Первомайская"
+    "tikName": "Новосибирск, Первомайская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1910,
     "uikTvd": "4544028150434",
+    "uikName": "УИК №1910",
     "tikTvd": "25420001560243",
-    "tikName": "Новосибирск, Первомайская"
+    "tikName": "Новосибирск, Первомайская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1911,
     "uikTvd": "4544028150435",
+    "uikName": "УИК №1911",
     "tikTvd": "25420001560243",
-    "tikName": "Новосибирск, Первомайская"
+    "tikName": "Новосибирск, Первомайская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1912,
     "uikTvd": "4544028150436",
+    "uikName": "УИК №1912",
     "tikTvd": "25420001560243",
-    "tikName": "Новосибирск, Первомайская"
+    "tikName": "Новосибирск, Первомайская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1913,
     "uikTvd": "4544028150437",
+    "uikName": "УИК №1913",
     "tikTvd": "25420001560243",
-    "tikName": "Новосибирск, Первомайская"
+    "tikName": "Новосибирск, Первомайская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1914,
     "uikTvd": "4544028150438",
+    "uikName": "УИК №1914",
     "tikTvd": "25420001560243",
-    "tikName": "Новосибирск, Первомайская"
+    "tikName": "Новосибирск, Первомайская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1915,
     "uikTvd": "4544028150439",
+    "uikName": "УИК №1915",
     "tikTvd": "25420001560243",
-    "tikName": "Новосибирск, Первомайская"
+    "tikName": "Новосибирск, Первомайская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1916,
     "uikTvd": "4544028150440",
+    "uikName": "УИК №1916",
     "tikTvd": "25420001560243",
-    "tikName": "Новосибирск, Первомайская"
+    "tikName": "Новосибирск, Первомайская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1917,
     "uikTvd": "4544028150441",
+    "uikName": "УИК №1917",
     "tikTvd": "25420001560243",
-    "tikName": "Новосибирск, Первомайская"
+    "tikName": "Новосибирск, Первомайская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1918,
     "uikTvd": "4544028150442",
+    "uikName": "УИК №1918",
     "tikTvd": "25420001560243",
-    "tikName": "Новосибирск, Первомайская"
+    "tikName": "Новосибирск, Первомайская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1919,
     "uikTvd": "4544028150443",
+    "uikName": "УИК №1919",
     "tikTvd": "25420001560243",
-    "tikName": "Новосибирск, Первомайская"
+    "tikName": "Новосибирск, Первомайская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1920,
     "uikTvd": "4544028150444",
+    "uikName": "УИК №1920",
     "tikTvd": "25420001560243",
-    "tikName": "Новосибирск, Первомайская"
+    "tikName": "Новосибирск, Первомайская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1921,
     "uikTvd": "4544028150445",
+    "uikName": "УИК №1921",
     "tikTvd": "25420001560243",
-    "tikName": "Новосибирск, Первомайская"
+    "tikName": "Новосибирск, Первомайская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1922,
     "uikTvd": "4544028150446",
+    "uikName": "УИК №1922",
     "tikTvd": "25420001560243",
-    "tikName": "Новосибирск, Первомайская"
+    "tikName": "Новосибирск, Первомайская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1923,
     "uikTvd": "4544028150447",
+    "uikName": "УИК №1923",
     "tikTvd": "25420001560243",
-    "tikName": "Новосибирск, Первомайская"
+    "tikName": "Новосибирск, Первомайская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1924,
     "uikTvd": "4544028150448",
+    "uikName": "УИК №1924",
     "tikTvd": "25420001560243",
-    "tikName": "Новосибирск, Первомайская"
+    "tikName": "Новосибирск, Первомайская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1925,
     "uikTvd": "4544028150449",
+    "uikName": "УИК №1925",
     "tikTvd": "25420001560243",
-    "tikName": "Новосибирск, Первомайская"
+    "tikName": "Новосибирск, Первомайская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1926,
     "uikTvd": "4544028150450",
+    "uikName": "УИК №1926",
     "tikTvd": "25420001560243",
-    "tikName": "Новосибирск, Первомайская"
+    "tikName": "Новосибирск, Первомайская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1927,
     "uikTvd": "4544028150451",
+    "uikName": "УИК №1927",
     "tikTvd": "25420001560243",
-    "tikName": "Новосибирск, Первомайская"
+    "tikName": "Новосибирск, Первомайская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1928,
     "uikTvd": "4544028150452",
+    "uikName": "УИК №1928",
     "tikTvd": "25420001560243",
-    "tikName": "Новосибирск, Первомайская"
+    "tikName": "Новосибирск, Первомайская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1929,
     "uikTvd": "4544029185167",
+    "uikName": "УИК №1929",
     "tikTvd": "25420001560252",
-    "tikName": "Новосибирск, Советская"
+    "tikName": "Новосибирск, Советская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1930,
     "uikTvd": "4544029185168",
+    "uikName": "УИК №1930",
     "tikTvd": "25420001560252",
-    "tikName": "Новосибирск, Советская"
+    "tikName": "Новосибирск, Советская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1931,
     "uikTvd": "4544029185169",
+    "uikName": "УИК №1931",
     "tikTvd": "25420001560252",
-    "tikName": "Новосибирск, Советская"
+    "tikName": "Новосибирск, Советская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1932,
     "uikTvd": "4544029185170",
+    "uikName": "УИК №1932",
     "tikTvd": "25420001560252",
-    "tikName": "Новосибирск, Советская"
+    "tikName": "Новосибирск, Советская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1933,
     "uikTvd": "4544029185171",
+    "uikName": "УИК №1933",
     "tikTvd": "25420001560252",
-    "tikName": "Новосибирск, Советская"
+    "tikName": "Новосибирск, Советская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1934,
     "uikTvd": "4544029185172",
+    "uikName": "УИК №1934",
     "tikTvd": "25420001560252",
-    "tikName": "Новосибирск, Советская"
+    "tikName": "Новосибирск, Советская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1935,
     "uikTvd": "4544029185173",
+    "uikName": "УИК №1935",
     "tikTvd": "25420001560252",
-    "tikName": "Новосибирск, Советская"
+    "tikName": "Новосибирск, Советская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1936,
     "uikTvd": "4544029185174",
+    "uikName": "УИК №1936",
     "tikTvd": "25420001560252",
-    "tikName": "Новосибирск, Советская"
+    "tikName": "Новосибирск, Советская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1937,
     "uikTvd": "4544029185175",
+    "uikName": "УИК №1937",
     "tikTvd": "25420001560252",
-    "tikName": "Новосибирск, Советская"
+    "tikName": "Новосибирск, Советская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1938,
     "uikTvd": "4544029185176",
+    "uikName": "УИК №1938",
     "tikTvd": "25420001560252",
-    "tikName": "Новосибирск, Советская"
+    "tikName": "Новосибирск, Советская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1939,
     "uikTvd": "4544029185177",
+    "uikName": "УИК №1939",
     "tikTvd": "25420001560252",
-    "tikName": "Новосибирск, Советская"
+    "tikName": "Новосибирск, Советская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1940,
     "uikTvd": "4544029185178",
+    "uikName": "УИК №1940",
     "tikTvd": "25420001560252",
-    "tikName": "Новосибирск, Советская"
+    "tikName": "Новосибирск, Советская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1941,
     "uikTvd": "4544029185179",
+    "uikName": "УИК №1941",
     "tikTvd": "25420001560252",
-    "tikName": "Новосибирск, Советская"
+    "tikName": "Новосибирск, Советская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1942,
     "uikTvd": "4544029185180",
+    "uikName": "УИК №1942",
     "tikTvd": "25420001560252",
-    "tikName": "Новосибирск, Советская"
+    "tikName": "Новосибирск, Советская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1943,
     "uikTvd": "4544029185181",
+    "uikName": "УИК №1943",
     "tikTvd": "25420001560252",
-    "tikName": "Новосибирск, Советская"
+    "tikName": "Новосибирск, Советская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1944,
     "uikTvd": "4544029185182",
+    "uikName": "УИК №1944",
     "tikTvd": "25420001560252",
-    "tikName": "Новосибирск, Советская"
+    "tikName": "Новосибирск, Советская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1945,
     "uikTvd": "4544029185183",
+    "uikName": "УИК №1945",
     "tikTvd": "25420001560252",
-    "tikName": "Новосибирск, Советская"
+    "tikName": "Новосибирск, Советская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1946,
     "uikTvd": "4544029185184",
+    "uikName": "УИК №1946",
     "tikTvd": "25420001560252",
-    "tikName": "Новосибирск, Советская"
+    "tikName": "Новосибирск, Советская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1947,
     "uikTvd": "4544029185185",
+    "uikName": "УИК №1947",
     "tikTvd": "25420001560252",
-    "tikName": "Новосибирск, Советская"
+    "tikName": "Новосибирск, Советская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1948,
     "uikTvd": "4544029185186",
+    "uikName": "УИК №1948",
     "tikTvd": "25420001560252",
-    "tikName": "Новосибирск, Советская"
+    "tikName": "Новосибирск, Советская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1949,
     "uikTvd": "4544029185187",
+    "uikName": "УИК №1949",
     "tikTvd": "25420001560252",
-    "tikName": "Новосибирск, Советская"
+    "tikName": "Новосибирск, Советская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1950,
     "uikTvd": "4544029185188",
+    "uikName": "УИК №1950",
     "tikTvd": "25420001560252",
-    "tikName": "Новосибирск, Советская"
+    "tikName": "Новосибирск, Советская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1951,
     "uikTvd": "4544029185189",
+    "uikName": "УИК №1951",
     "tikTvd": "25420001560252",
-    "tikName": "Новосибирск, Советская"
+    "tikName": "Новосибирск, Советская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1952,
     "uikTvd": "4544029185190",
+    "uikName": "УИК №1952",
     "tikTvd": "25420001560252",
-    "tikName": "Новосибирск, Советская"
+    "tikName": "Новосибирск, Советская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1953,
     "uikTvd": "4544029185191",
+    "uikName": "УИК №1953",
     "tikTvd": "25420001560252",
-    "tikName": "Новосибирск, Советская"
+    "tikName": "Новосибирск, Советская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1954,
     "uikTvd": "4544029185192",
+    "uikName": "УИК №1954",
     "tikTvd": "25420001560252",
-    "tikName": "Новосибирск, Советская"
+    "tikName": "Новосибирск, Советская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1955,
     "uikTvd": "4544029185193",
+    "uikName": "УИК №1955",
     "tikTvd": "25420001560252",
-    "tikName": "Новосибирск, Советская"
+    "tikName": "Новосибирск, Советская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1956,
     "uikTvd": "4544029185194",
+    "uikName": "УИК №1956",
     "tikTvd": "25420001560252",
-    "tikName": "Новосибирск, Советская"
+    "tikName": "Новосибирск, Советская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1957,
     "uikTvd": "4544029185195",
+    "uikName": "УИК №1957",
     "tikTvd": "25420001560252",
-    "tikName": "Новосибирск, Советская"
+    "tikName": "Новосибирск, Советская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1958,
     "uikTvd": "4544029185196",
+    "uikName": "УИК №1958",
     "tikTvd": "25420001560252",
-    "tikName": "Новосибирск, Советская"
+    "tikName": "Новосибирск, Советская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1959,
     "uikTvd": "4544029185197",
+    "uikName": "УИК №1959",
     "tikTvd": "25420001560252",
-    "tikName": "Новосибирск, Советская"
+    "tikName": "Новосибирск, Советская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1960,
     "uikTvd": "4544029185198",
+    "uikName": "УИК №1960",
     "tikTvd": "25420001560252",
-    "tikName": "Новосибирск, Советская"
+    "tikName": "Новосибирск, Советская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1961,
     "uikTvd": "4544029185199",
+    "uikName": "УИК №1961",
     "tikTvd": "25420001560252",
-    "tikName": "Новосибирск, Советская"
+    "tikName": "Новосибирск, Советская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1962,
     "uikTvd": "4544029185200",
+    "uikName": "УИК №1962",
     "tikTvd": "25420001560252",
-    "tikName": "Новосибирск, Советская"
+    "tikName": "Новосибирск, Советская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1963,
     "uikTvd": "4544029185201",
+    "uikName": "УИК №1963",
     "tikTvd": "25420001560252",
-    "tikName": "Новосибирск, Советская"
+    "tikName": "Новосибирск, Советская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1964,
     "uikTvd": "4544029185202",
+    "uikName": "УИК №1964",
     "tikTvd": "25420001560252",
-    "tikName": "Новосибирск, Советская"
+    "tikName": "Новосибирск, Советская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1965,
     "uikTvd": "4544029185203",
+    "uikName": "УИК №1965",
     "tikTvd": "25420001560252",
-    "tikName": "Новосибирск, Советская"
+    "tikName": "Новосибирск, Советская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1966,
     "uikTvd": "4544029185204",
+    "uikName": "УИК №1966",
     "tikTvd": "25420001560252",
-    "tikName": "Новосибирск, Советская"
+    "tikName": "Новосибирск, Советская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1967,
     "uikTvd": "4544029185205",
+    "uikName": "УИК №1967",
     "tikTvd": "25420001560252",
-    "tikName": "Новосибирск, Советская"
+    "tikName": "Новосибирск, Советская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1968,
     "uikTvd": "4544029185206",
+    "uikName": "УИК №1968",
     "tikTvd": "25420001560252",
-    "tikName": "Новосибирск, Советская"
+    "tikName": "Новосибирск, Советская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1969,
     "uikTvd": "4544029185207",
+    "uikName": "УИК №1969",
     "tikTvd": "25420001560252",
-    "tikName": "Новосибирск, Советская"
+    "tikName": "Новосибирск, Советская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1970,
     "uikTvd": "4544029185208",
+    "uikName": "УИК №1970",
     "tikTvd": "25420001560252",
-    "tikName": "Новосибирск, Советская"
+    "tikName": "Новосибирск, Советская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1971,
     "uikTvd": "4544029185209",
+    "uikName": "УИК №1971",
     "tikTvd": "25420001560252",
-    "tikName": "Новосибирск, Советская"
+    "tikName": "Новосибирск, Советская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1972,
     "uikTvd": "4544029185210",
+    "uikName": "УИК №1972",
     "tikTvd": "25420001560252",
-    "tikName": "Новосибирск, Советская"
+    "tikName": "Новосибирск, Советская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1973,
     "uikTvd": "4544029185211",
+    "uikName": "УИК №1973",
     "tikTvd": "25420001560252",
-    "tikName": "Новосибирск, Советская"
+    "tikName": "Новосибирск, Советская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1974,
     "uikTvd": "4544029185212",
+    "uikName": "УИК №1974",
     "tikTvd": "25420001560252",
-    "tikName": "Новосибирск, Советская"
+    "tikName": "Новосибирск, Советская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1975,
     "uikTvd": "4544029185213",
+    "uikName": "УИК №1975",
     "tikTvd": "25420001560252",
-    "tikName": "Новосибирск, Советская"
+    "tikName": "Новосибирск, Советская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1976,
     "uikTvd": "4544029185214",
+    "uikName": "УИК №1976",
     "tikTvd": "25420001560252",
-    "tikName": "Новосибирск, Советская"
+    "tikName": "Новосибирск, Советская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1977,
     "uikTvd": "4544029185215",
+    "uikName": "УИК №1977",
     "tikTvd": "25420001560252",
-    "tikName": "Новосибирск, Советская"
+    "tikName": "Новосибирск, Советская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1978,
     "uikTvd": "4544029185216",
+    "uikName": "УИК №1978",
     "tikTvd": "25420001560252",
-    "tikName": "Новосибирск, Советская"
+    "tikName": "Новосибирск, Советская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1979,
     "uikTvd": "4544029185217",
+    "uikName": "УИК №1979",
     "tikTvd": "25420001560252",
-    "tikName": "Новосибирск, Советская"
+    "tikName": "Новосибирск, Советская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1980,
     "uikTvd": "4544029185218",
+    "uikName": "УИК №1980",
     "tikTvd": "25420001560252",
-    "tikName": "Новосибирск, Советская"
+    "tikName": "Новосибирск, Советская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1981,
     "uikTvd": "4544030178576",
+    "uikName": "УИК №1981",
     "tikTvd": "25420001560260",
-    "tikName": "Новосибирск, Центральная"
+    "tikName": "Новосибирск, Центральная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1982,
     "uikTvd": "4544030178577",
+    "uikName": "УИК №1982",
     "tikTvd": "25420001560260",
-    "tikName": "Новосибирск, Центральная"
+    "tikName": "Новосибирск, Центральная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1983,
     "uikTvd": "4544030178578",
+    "uikName": "УИК №1983",
     "tikTvd": "25420001560260",
-    "tikName": "Новосибирск, Центральная"
+    "tikName": "Новосибирск, Центральная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1984,
     "uikTvd": "4544030178579",
+    "uikName": "УИК №1984",
     "tikTvd": "25420001560260",
-    "tikName": "Новосибирск, Центральная"
+    "tikName": "Новосибирск, Центральная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1985,
     "uikTvd": "4544030178580",
+    "uikName": "УИК №1985",
     "tikTvd": "25420001560260",
-    "tikName": "Новосибирск, Центральная"
+    "tikName": "Новосибирск, Центральная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1986,
     "uikTvd": "4544030178581",
+    "uikName": "УИК №1986",
     "tikTvd": "25420001560260",
-    "tikName": "Новосибирск, Центральная"
+    "tikName": "Новосибирск, Центральная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1987,
     "uikTvd": "4544030178582",
+    "uikName": "УИК №1987",
     "tikTvd": "25420001560260",
-    "tikName": "Новосибирск, Центральная"
+    "tikName": "Новосибирск, Центральная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1988,
     "uikTvd": "4544030178583",
+    "uikName": "УИК №1988",
     "tikTvd": "25420001560260",
-    "tikName": "Новосибирск, Центральная"
+    "tikName": "Новосибирск, Центральная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1989,
     "uikTvd": "4544030178584",
+    "uikName": "УИК №1989",
     "tikTvd": "25420001560260",
-    "tikName": "Новосибирск, Центральная"
+    "tikName": "Новосибирск, Центральная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1990,
     "uikTvd": "4544030178585",
+    "uikName": "УИК №1990",
     "tikTvd": "25420001560260",
-    "tikName": "Новосибирск, Центральная"
+    "tikName": "Новосибирск, Центральная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1991,
     "uikTvd": "4544030178586",
+    "uikName": "УИК №1991",
     "tikTvd": "25420001560260",
-    "tikName": "Новосибирск, Центральная"
+    "tikName": "Новосибирск, Центральная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1992,
     "uikTvd": "4544030178587",
+    "uikName": "УИК №1992",
     "tikTvd": "25420001560260",
-    "tikName": "Новосибирск, Центральная"
+    "tikName": "Новосибирск, Центральная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1993,
     "uikTvd": "4544030178588",
+    "uikName": "УИК №1993",
     "tikTvd": "25420001560260",
-    "tikName": "Новосибирск, Центральная"
+    "tikName": "Новосибирск, Центральная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1994,
     "uikTvd": "4544030178589",
+    "uikName": "УИК №1994",
     "tikTvd": "25420001560260",
-    "tikName": "Новосибирск, Центральная"
+    "tikName": "Новосибирск, Центральная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1995,
     "uikTvd": "4544030178590",
+    "uikName": "УИК №1995",
     "tikTvd": "25420001560260",
-    "tikName": "Новосибирск, Центральная"
+    "tikName": "Новосибирск, Центральная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1996,
     "uikTvd": "4544030178591",
+    "uikName": "УИК №1996",
     "tikTvd": "25420001560260",
-    "tikName": "Новосибирск, Центральная"
+    "tikName": "Новосибирск, Центральная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1997,
     "uikTvd": "4544030178592",
+    "uikName": "УИК №1997",
     "tikTvd": "25420001560260",
-    "tikName": "Новосибирск, Центральная"
+    "tikName": "Новосибирск, Центральная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1998,
     "uikTvd": "4544030178593",
+    "uikName": "УИК №1998",
     "tikTvd": "25420001560260",
-    "tikName": "Новосибирск, Центральная"
+    "tikName": "Новосибирск, Центральная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 1999,
     "uikTvd": "4544030178594",
+    "uikName": "УИК №1999",
     "tikTvd": "25420001560260",
-    "tikName": "Новосибирск, Центральная"
+    "tikName": "Новосибирск, Центральная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 2000,
     "uikTvd": "4544030178595",
+    "uikName": "УИК №2000",
     "tikTvd": "25420001560260",
-    "tikName": "Новосибирск, Центральная"
+    "tikName": "Новосибирск, Центральная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 2001,
     "uikTvd": "4544030178596",
+    "uikName": "УИК №2001",
     "tikTvd": "25420001560260",
-    "tikName": "Новосибирск, Центральная"
+    "tikName": "Новосибирск, Центральная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 2002,
     "uikTvd": "4544030178597",
+    "uikName": "УИК №2002",
     "tikTvd": "25420001560260",
-    "tikName": "Новосибирск, Центральная"
+    "tikName": "Новосибирск, Центральная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 2003,
     "uikTvd": "4544030178598",
+    "uikName": "УИК №2003",
     "tikTvd": "25420001560260",
-    "tikName": "Новосибирск, Центральная"
+    "tikName": "Новосибирск, Центральная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 2004,
     "uikTvd": "4544030178599",
+    "uikName": "УИК №2004",
     "tikTvd": "25420001560260",
-    "tikName": "Новосибирск, Центральная"
+    "tikName": "Новосибирск, Центральная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 2005,
     "uikTvd": "4544030178600",
+    "uikName": "УИК №2005",
     "tikTvd": "25420001560260",
-    "tikName": "Новосибирск, Центральная"
+    "tikName": "Новосибирск, Центральная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 2006,
     "uikTvd": "4544030178601",
+    "uikName": "УИК №2006",
     "tikTvd": "25420001560260",
-    "tikName": "Новосибирск, Центральная"
+    "tikName": "Новосибирск, Центральная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 2007,
     "uikTvd": "4544030178602",
+    "uikName": "УИК №2007",
     "tikTvd": "25420001560260",
-    "tikName": "Новосибирск, Центральная"
+    "tikName": "Новосибирск, Центральная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 2008,
     "uikTvd": "4544030178603",
+    "uikName": "УИК №2008",
     "tikTvd": "25420001560260",
-    "tikName": "Новосибирск, Центральная"
+    "tikName": "Новосибирск, Центральная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 2009,
     "uikTvd": "4544030178604",
+    "uikName": "УИК №2009",
     "tikTvd": "25420001560260",
-    "tikName": "Новосибирск, Центральная"
+    "tikName": "Новосибирск, Центральная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 2010,
     "uikTvd": "4544030178605",
+    "uikName": "УИК №2010",
     "tikTvd": "25420001560260",
-    "tikName": "Новосибирск, Центральная"
+    "tikName": "Новосибирск, Центральная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 2011,
     "uikTvd": "4544030178606",
+    "uikName": "УИК №2011",
     "tikTvd": "25420001560260",
-    "tikName": "Новосибирск, Центральная"
+    "tikName": "Новосибирск, Центральная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 2012,
     "uikTvd": "4544030178607",
+    "uikName": "УИК №2012",
     "tikTvd": "25420001560260",
-    "tikName": "Новосибирск, Центральная"
+    "tikName": "Новосибирск, Центральная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 2013,
     "uikTvd": "4544030178608",
+    "uikName": "УИК №2013",
     "tikTvd": "25420001560260",
-    "tikName": "Новосибирск, Центральная"
+    "tikName": "Новосибирск, Центральная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 2014,
     "uikTvd": "4544025227972",
+    "uikName": "УИК №2014",
     "tikTvd": "25420001560280",
-    "tikName": "Новосибирск, Кировская"
+    "tikName": "Новосибирск, Кировская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 2015,
     "uikTvd": "4544024231952",
+    "uikName": "УИК №2015",
     "tikTvd": "25420001560238",
-    "tikName": "Новосибирск, Калининская"
+    "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 2016,
     "uikTvd": "4544024231953",
+    "uikName": "УИК №2016",
     "tikTvd": "25420001560238",
-    "tikName": "Новосибирск, Калининская"
+    "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 2017,
     "uikTvd": "4544028150453",
+    "uikName": "УИК №2017",
     "tikTvd": "25420001560243",
-    "tikName": "Новосибирск, Первомайская"
+    "tikName": "Новосибирск, Первомайская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 2018,
     "uikTvd": "4544028150454",
+    "uikName": "УИК №2018",
     "tikTvd": "25420001560243",
-    "tikName": "Новосибирск, Первомайская"
+    "tikName": "Новосибирск, Первомайская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 2019,
     "uikTvd": "4544028150455",
+    "uikName": "УИК №2019",
     "tikTvd": "25420001560243",
-    "tikName": "Новосибирск, Первомайская"
+    "tikName": "Новосибирск, Первомайская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 2020,
     "uikTvd": "4544025227973",
+    "uikName": "УИК №2020",
     "tikTvd": "25420001560280",
-    "tikName": "Новосибирск, Кировская"
+    "tikName": "Новосибирск, Кировская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 2021,
     "uikTvd": "4544025227974",
+    "uikName": "УИК №2021",
     "tikTvd": "25420001560280",
-    "tikName": "Новосибирск, Кировская"
+    "tikName": "Новосибирск, Кировская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 2022,
     "uikTvd": "4544027274278",
+    "uikName": "УИК №2022",
     "tikTvd": "25420001560276",
-    "tikName": "Новосибирск, Октябрьская"
+    "tikName": "Новосибирск, Октябрьская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 2023,
     "uikTvd": "4544032233134",
+    "uikName": "УИК №2023",
     "tikTvd": "25420001560278",
-    "tikName": "Обская городская"
+    "tikName": "Обская городская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 2024,
     "uikTvd": "9549021279113",
+    "uikName": "УИК №2024",
     "tikTvd": "25420001560246",
-    "tikName": "Новосибирск, Дзержинская"
+    "tikName": "Новосибирск, Дзержинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 2025,
     "uikTvd": "9549021279114",
+    "uikName": "УИК №2025",
     "tikTvd": "25420001560246",
-    "tikName": "Новосибирск, Дзержинская"
+    "tikName": "Новосибирск, Дзержинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 2026,
     "uikTvd": "9549021279115",
+    "uikName": "УИК №2026",
     "tikTvd": "25420001560246",
-    "tikName": "Новосибирск, Дзержинская"
+    "tikName": "Новосибирск, Дзержинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 2027,
     "uikTvd": "9549021279116",
+    "uikName": "УИК №2027",
     "tikTvd": "25420001560246",
-    "tikName": "Новосибирск, Дзержинская"
+    "tikName": "Новосибирск, Дзержинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 2028,
     "uikTvd": "4544022161423",
+    "uikName": "УИК №2028",
     "tikTvd": "25420001560251",
-    "tikName": "Новосибирск, Железнодорожная"
+    "tikName": "Новосибирск, Железнодорожная",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 2029,
     "uikTvd": "4544023212000",
+    "uikName": "УИК №2029",
     "tikTvd": "25420001560249",
-    "tikName": "Новосибирск, Заельцовская"
+    "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 2030,
     "uikTvd": "4544023212002",
+    "uikName": "УИК №2030",
     "tikTvd": "25420001560249",
-    "tikName": "Новосибирск, Заельцовская"
+    "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 2031,
     "uikTvd": "4544024232090",
+    "uikName": "УИК №2031",
     "tikTvd": "25420001560238",
-    "tikName": "Новосибирск, Калининская"
+    "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 2032,
     "uikTvd": "4544025228065",
+    "uikName": "УИК №2032",
     "tikTvd": "25420001560280",
-    "tikName": "Новосибирск, Кировская"
+    "tikName": "Новосибирск, Кировская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 2033,
     "uikTvd": "4544025228066",
+    "uikName": "УИК №2033",
     "tikTvd": "25420001560280",
-    "tikName": "Новосибирск, Кировская"
+    "tikName": "Новосибирск, Кировская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 2034,
     "uikTvd": "4544026277983",
+    "uikName": "УИК №2034",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 2035,
     "uikTvd": "4544026277984",
+    "uikName": "УИК №2035",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 2036,
     "uikTvd": "4544026277985",
+    "uikName": "УИК №2036",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 2037,
     "uikTvd": "4544026277986",
+    "uikName": "УИК №2037",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 2038,
     "uikTvd": "4544026277987",
+    "uikName": "УИК №2038",
     "tikTvd": "25420001560245",
-    "tikName": "Новосибирск, Ленинская"
+    "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 2039,
     "uikTvd": "4544027274380",
+    "uikName": "УИК №2039",
     "tikTvd": "25420001560276",
-    "tikName": "Новосибирск, Октябрьская"
+    "tikName": "Новосибирск, Октябрьская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 2040,
     "uikTvd": "4544029185609",
+    "uikName": "УИК №2040",
     "tikTvd": "25420001560252",
-    "tikName": "Новосибирск, Советская"
+    "tikName": "Новосибирск, Советская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 2041,
     "uikTvd": "4544029185610",
+    "uikName": "УИК №2041",
     "tikTvd": "25420001560252",
-    "tikName": "Новосибирск, Советская"
+    "tikName": "Новосибирск, Советская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   },
   {
     "uikNumber": 2042,
     "uikTvd": "4544032233325",
+    "uikName": "УИК №2042",
     "tikTvd": "25420001560278",
-    "tikName": "Обская городская"
+    "tikName": "Обская городская",
+    "regionCode": "54",
+    "regionTvd": "100100084849179",
+    "regionName": "Новосибирская область",
+    "district": null
   }
 ] satisfies readonly UikTikRelation[];

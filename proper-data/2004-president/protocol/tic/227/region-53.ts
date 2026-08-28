@@ -11,6 +11,9 @@ export const president_2004_tic_227_region_53 = [
     "ballot": "presidential",
     "tikTvd": "253200074282",
     "tikName": "Маревская",
+    "regionCode": "53",
+    "regionTvd": "1001000883239",
+    "regionName": "Новгородская область",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, внесенных в список": 4303,
@@ -70,6 +73,9 @@ export const president_2004_tic_227_region_53 = [
     "ballot": "presidential",
     "tikTvd": "253200074283",
     "tikName": "Маловишерская",
+    "regionCode": "53",
+    "regionTvd": "1001000883239",
+    "regionName": "Новгородская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список": 16893,
@@ -138,6 +144,9 @@ export const president_2004_tic_227_region_53 = [
     "ballot": "presidential",
     "tikTvd": "253200074284",
     "tikName": "Шимская",
+    "regionCode": "53",
+    "regionTvd": "1001000883239",
+    "regionName": "Новгородская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список": 9705,
@@ -205,6 +214,9 @@ export const president_2004_tic_227_region_53 = [
     "ballot": "presidential",
     "tikTvd": "253200074285",
     "tikName": "Холмская",
+    "regionCode": "53",
+    "regionTvd": "1001000883239",
+    "regionName": "Новгородская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список": 5803,
@@ -272,6 +284,9 @@ export const president_2004_tic_227_region_53 = [
     "ballot": "presidential",
     "tikTvd": "253200074286",
     "tikName": "Чудовская",
+    "regionCode": "53",
+    "regionTvd": "1001000883239",
+    "regionName": "Новгородская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список": 20142,
@@ -339,6 +354,9 @@ export const president_2004_tic_227_region_53 = [
     "ballot": "presidential",
     "tikTvd": "253200074287",
     "tikName": "Любытинская",
+    "regionCode": "53",
+    "regionTvd": "1001000883239",
+    "regionName": "Новгородская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список": 9455,
@@ -410,6 +428,9 @@ export const president_2004_tic_227_region_53 = [
     "ballot": "presidential",
     "tikTvd": "253200074288",
     "tikName": "Крестецкая",
+    "regionCode": "53",
+    "regionTvd": "1001000883239",
+    "regionName": "Новгородская область",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в список": 12215,
@@ -474,6 +495,9 @@ export const president_2004_tic_227_region_53 = [
     "ballot": "presidential",
     "tikTvd": "253200074289",
     "tikName": "Демянская",
+    "regionCode": "53",
+    "regionTvd": "1001000883239",
+    "regionName": "Новгородская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список": 12191,
@@ -543,6 +567,9 @@ export const president_2004_tic_227_region_53 = [
     "ballot": "presidential",
     "tikTvd": "253200074290",
     "tikName": "Волотовская",
+    "regionCode": "53",
+    "regionTvd": "1001000883239",
+    "regionName": "Новгородская область",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, внесенных в список": 4347,
@@ -603,6 +630,9 @@ export const president_2004_tic_227_region_53 = [
     "ballot": "presidential",
     "tikTvd": "253200074291",
     "tikName": "Валдайская",
+    "regionCode": "53",
+    "regionTvd": "1001000883239",
+    "regionName": "Новгородская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в список": 23431,
@@ -682,6 +712,9 @@ export const president_2004_tic_227_region_53 = [
     "ballot": "presidential",
     "tikTvd": "253200074292",
     "tikName": "Батецкая",
+    "regionCode": "53",
+    "regionTvd": "1001000883239",
+    "regionName": "Новгородская область",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, внесенных в список": 5422,
@@ -742,6 +775,9 @@ export const president_2004_tic_227_region_53 = [
     "ballot": "presidential",
     "tikTvd": "253200074293",
     "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "1001000883239",
+    "regionName": "Новгородская область",
     "uikCount": 62,
     "accounting": {
       "Число избирателей, внесенных в список": 62440,
@@ -852,6 +888,9 @@ export const president_2004_tic_227_region_53 = [
     "ballot": "presidential",
     "tikTvd": "253200074294",
     "tikName": "Хвойнинская",
+    "regionCode": "53",
+    "regionTvd": "1001000883239",
+    "regionName": "Новгородская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список": 13217,
@@ -920,6 +959,9 @@ export const president_2004_tic_227_region_53 = [
     "ballot": "presidential",
     "tikTvd": "253200074295",
     "tikName": "Старорусская",
+    "regionCode": "53",
+    "regionTvd": "1001000883239",
+    "regionName": "Новгородская область",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, внесенных в список": 41551,
@@ -1012,6 +1054,9 @@ export const president_2004_tic_227_region_53 = [
     "ballot": "presidential",
     "tikTvd": "253200074296",
     "tikName": "Солецкая",
+    "regionCode": "53",
+    "regionTvd": "1001000883239",
+    "regionName": "Новгородская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список": 14651,
@@ -1082,6 +1127,9 @@ export const president_2004_tic_227_region_53 = [
     "ballot": "presidential",
     "tikTvd": "253200074297",
     "tikName": "Пестовская",
+    "regionCode": "53",
+    "regionTvd": "1001000883239",
+    "regionName": "Новгородская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список": 17561,
@@ -1155,6 +1203,9 @@ export const president_2004_tic_227_region_53 = [
     "ballot": "presidential",
     "tikTvd": "253200074298",
     "tikName": "Поддорская",
+    "regionCode": "53",
+    "regionTvd": "1001000883239",
+    "regionName": "Новгородская область",
     "uikCount": 9,
     "accounting": {
       "Число избирателей, внесенных в список": 4276,
@@ -1212,6 +1263,9 @@ export const president_2004_tic_227_region_53 = [
     "ballot": "presidential",
     "tikTvd": "253200074299",
     "tikName": "Парфинская",
+    "regionCode": "53",
+    "regionTvd": "1001000883239",
+    "regionName": "Новгородская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список": 12061,
@@ -1278,6 +1332,9 @@ export const president_2004_tic_227_region_53 = [
     "ballot": "presidential",
     "tikTvd": "253200074300",
     "tikName": "Новгородская",
+    "regionCode": "53",
+    "regionTvd": "1001000883239",
+    "regionName": "Новгородская область",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, внесенных в список": 43939,
@@ -1368,6 +1425,9 @@ export const president_2004_tic_227_region_53 = [
     "ballot": "presidential",
     "tikTvd": "253200074301",
     "tikName": "Окуловская",
+    "regionCode": "53",
+    "regionTvd": "1001000883239",
+    "regionName": "Новгородская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список": 25254,
@@ -1444,6 +1504,9 @@ export const president_2004_tic_227_region_53 = [
     "ballot": "presidential",
     "tikTvd": "253200074302",
     "tikName": "Новгородcкая городская",
+    "regionCode": "53",
+    "regionTvd": "1001000883239",
+    "regionName": "Новгородская область",
     "uikCount": 81,
     "accounting": {
       "Число избирателей, внесенных в список": 182126,
@@ -1573,6 +1636,9 @@ export const president_2004_tic_227_region_53 = [
     "ballot": "presidential",
     "tikTvd": "253200074303",
     "tikName": "Мошенская",
+    "regionCode": "53",
+    "regionTvd": "1001000883239",
+    "regionName": "Новгородская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список": 6930,

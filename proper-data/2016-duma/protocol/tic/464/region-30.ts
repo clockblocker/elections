@@ -11,6 +11,14 @@ export const duma_2016_tic_464_region_30 = [
     "ballot": "single-member",
     "tikTvd": "2302000783724",
     "tikName": "Ахтубинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    },
     "uikCount": 52,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 53717,
@@ -113,6 +121,14 @@ export const duma_2016_tic_464_region_30 = [
     "ballot": "single-member",
     "tikTvd": "2302000783725",
     "tikName": "Знаменская городская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    },
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 20961,
@@ -177,6 +193,14 @@ export const duma_2016_tic_464_region_30 = [
     "ballot": "single-member",
     "tikTvd": "2302000783726",
     "tikName": "Астрахань, Cоветская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    },
     "uikCount": 53,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 105267,
@@ -280,6 +304,14 @@ export const duma_2016_tic_464_region_30 = [
     "ballot": "single-member",
     "tikTvd": "2302000783727",
     "tikName": "Харабалинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    },
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 29665,
@@ -357,6 +389,14 @@ export const duma_2016_tic_464_region_30 = [
     "ballot": "single-member",
     "tikTvd": "2302000783728",
     "tikName": "Лиманская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    },
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 24273,
@@ -433,6 +473,14 @@ export const duma_2016_tic_464_region_30 = [
     "ballot": "single-member",
     "tikTvd": "2302000783729",
     "tikName": "Камызякская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    },
     "uikCount": 48,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 36469,
@@ -531,6 +579,14 @@ export const duma_2016_tic_464_region_30 = [
     "ballot": "single-member",
     "tikTvd": "2302000783730",
     "tikName": "Енотаевская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    },
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 19758,
@@ -602,6 +658,14 @@ export const duma_2016_tic_464_region_30 = [
     "ballot": "single-member",
     "tikTvd": "2302000783731",
     "tikName": "Астрахань, Трусовская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    },
     "uikCount": 77,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 81048,
@@ -729,6 +793,14 @@ export const duma_2016_tic_464_region_30 = [
     "ballot": "single-member",
     "tikTvd": "2302000783732",
     "tikName": "Приволжская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    },
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 36307,
@@ -805,6 +877,14 @@ export const duma_2016_tic_464_region_30 = [
     "ballot": "single-member",
     "tikTvd": "2302000783733",
     "tikName": "Черноярская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    },
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 14523,
@@ -868,6 +948,14 @@ export const duma_2016_tic_464_region_30 = [
     "ballot": "single-member",
     "tikTvd": "2302000783734",
     "tikName": "Икрянинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    },
     "uikCount": 42,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 36058,
@@ -960,6 +1048,14 @@ export const duma_2016_tic_464_region_30 = [
     "ballot": "single-member",
     "tikTvd": "2302000783735",
     "tikName": "Наримановская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    },
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 35471,
@@ -1048,6 +1144,14 @@ export const duma_2016_tic_464_region_30 = [
     "ballot": "single-member",
     "tikTvd": "2302000783736",
     "tikName": "Астрахань, Кировская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    },
     "uikCount": 49,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 84064,
@@ -1147,6 +1251,14 @@ export const duma_2016_tic_464_region_30 = [
     "ballot": "single-member",
     "tikTvd": "2302000783737",
     "tikName": "Астрахань, Ленинская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    },
     "uikCount": 54,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 106946,
@@ -1251,6 +1363,14 @@ export const duma_2016_tic_464_region_30 = [
     "ballot": "single-member",
     "tikTvd": "2302000783738",
     "tikName": "Красноярская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    },
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 26076,
@@ -1337,6 +1457,14 @@ export const duma_2016_tic_464_region_30 = [
     "ballot": "single-member",
     "tikTvd": "2302000783739",
     "tikName": "Володарская",
+    "regionCode": "30",
+    "regionTvd": "100100067795947",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100067795948",
+      "oikName": "Астраханская область – Астраханский"
+    },
     "uikCount": 42,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 35213,

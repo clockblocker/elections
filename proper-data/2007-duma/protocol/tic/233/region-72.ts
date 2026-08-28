@@ -11,6 +11,9 @@ export const duma_2007_tic_233_region_72 = [
     "ballot": "party",
     "tikTvd": "2722000134679",
     "tikName": "Абатская",
+    "regionCode": "72",
+    "regionTvd": "100100021960328",
+    "regionName": "Тюменская область",
     "uikCount": 54,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 15872,
@@ -119,6 +122,9 @@ export const duma_2007_tic_233_region_72 = [
     "ballot": "party",
     "tikTvd": "2722000134680",
     "tikName": "Армизонская",
+    "regionCode": "72",
+    "regionTvd": "100100021960328",
+    "regionName": "Тюменская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 7479,
@@ -199,6 +205,9 @@ export const duma_2007_tic_233_region_72 = [
     "ballot": "party",
     "tikTvd": "2722000134681",
     "tikName": "Аромашевская",
+    "regionCode": "72",
+    "regionTvd": "100100021960328",
+    "regionName": "Тюменская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 10509,
@@ -283,6 +292,9 @@ export const duma_2007_tic_233_region_72 = [
     "ballot": "party",
     "tikTvd": "2722000134682",
     "tikName": "Бердюжская",
+    "regionCode": "72",
+    "regionTvd": "100100021960328",
+    "regionName": "Тюменская область",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 9646,
@@ -370,6 +382,9 @@ export const duma_2007_tic_233_region_72 = [
     "ballot": "party",
     "tikTvd": "2722000134683",
     "tikName": "Вагайская",
+    "regionCode": "72",
+    "regionTvd": "100100021960328",
+    "regionName": "Тюменская область",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 17148,
@@ -468,6 +483,9 @@ export const duma_2007_tic_233_region_72 = [
     "ballot": "party",
     "tikTvd": "2722000134684",
     "tikName": "Викуловская",
+    "regionCode": "72",
+    "regionTvd": "100100021960328",
+    "regionName": "Тюменская область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 12904,
@@ -558,6 +576,9 @@ export const duma_2007_tic_233_region_72 = [
     "ballot": "party",
     "tikTvd": "2722000134685",
     "tikName": "Голышмановская",
+    "regionCode": "72",
+    "regionTvd": "100100021960328",
+    "regionName": "Тюменская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 19765,
@@ -642,6 +663,9 @@ export const duma_2007_tic_233_region_72 = [
     "ballot": "party",
     "tikTvd": "2722000134686",
     "tikName": "Заводоуковская",
+    "regionCode": "72",
+    "regionTvd": "100100021960328",
+    "regionName": "Тюменская область",
     "uikCount": 63,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 37590,
@@ -759,6 +783,9 @@ export const duma_2007_tic_233_region_72 = [
     "ballot": "party",
     "tikTvd": "2722000134687",
     "tikName": "Исетская",
+    "regionCode": "72",
+    "regionTvd": "100100021960328",
+    "regionName": "Тюменская область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 18198,
@@ -849,6 +876,9 @@ export const duma_2007_tic_233_region_72 = [
     "ballot": "party",
     "tikTvd": "2722000134688",
     "tikName": "Ишимская",
+    "regionCode": "72",
+    "regionTvd": "100100021960328",
+    "regionName": "Тюменская область",
     "uikCount": 56,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 25361,
@@ -959,6 +989,9 @@ export const duma_2007_tic_233_region_72 = [
     "ballot": "party",
     "tikTvd": "2722000134689",
     "tikName": "Ишимская городская",
+    "regionCode": "72",
+    "regionTvd": "100100021960328",
+    "regionName": "Тюменская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 50920,
@@ -1053,6 +1086,9 @@ export const duma_2007_tic_233_region_72 = [
     "ballot": "party",
     "tikTvd": "2722000134690",
     "tikName": "Казанская",
+    "regionCode": "72",
+    "regionTvd": "100100021960328",
+    "regionName": "Тюменская область",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 17382,
@@ -1140,6 +1176,9 @@ export const duma_2007_tic_233_region_72 = [
     "ballot": "party",
     "tikTvd": "2722000134691",
     "tikName": "Нижнетавдинская",
+    "regionCode": "72",
+    "regionTvd": "100100021960328",
+    "regionName": "Тюменская область",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 17447,
@@ -1231,6 +1270,9 @@ export const duma_2007_tic_233_region_72 = [
     "ballot": "party",
     "tikTvd": "2722000134692",
     "tikName": "Омутинская",
+    "regionCode": "72",
+    "regionTvd": "100100021960328",
+    "regionName": "Тюменская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 14872,
@@ -1311,6 +1353,9 @@ export const duma_2007_tic_233_region_72 = [
     "ballot": "party",
     "tikTvd": "2722000134693",
     "tikName": "Сладковская",
+    "regionCode": "72",
+    "regionTvd": "100100021960328",
+    "regionName": "Тюменская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 10169,
@@ -1386,6 +1431,9 @@ export const duma_2007_tic_233_region_72 = [
     "ballot": "party",
     "tikTvd": "2722000134694",
     "tikName": "Сорокинская",
+    "regionCode": "72",
+    "regionTvd": "100100021960328",
+    "regionName": "Тюменская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 8302,
@@ -1463,6 +1511,9 @@ export const duma_2007_tic_233_region_72 = [
     "ballot": "party",
     "tikTvd": "2722000134695",
     "tikName": "Тобольская",
+    "regionCode": "72",
+    "regionTvd": "100100021960328",
+    "regionName": "Тюменская область",
     "uikCount": 45,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 15454,
@@ -1562,6 +1613,9 @@ export const duma_2007_tic_233_region_72 = [
     "ballot": "party",
     "tikTvd": "2722000134696",
     "tikName": "Тобольская городская",
+    "regionCode": "72",
+    "regionTvd": "100100021960328",
+    "regionName": "Тюменская область",
     "uikCount": 51,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 83868,
@@ -1667,6 +1721,9 @@ export const duma_2007_tic_233_region_72 = [
     "ballot": "party",
     "tikTvd": "2722000134697",
     "tikName": "Тюменская",
+    "regionCode": "72",
+    "regionTvd": "100100021960328",
+    "regionName": "Тюменская область",
     "uikCount": 68,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 76823,
@@ -1789,6 +1846,9 @@ export const duma_2007_tic_233_region_72 = [
     "ballot": "party",
     "tikTvd": "2722000134698",
     "tikName": "г.Тюмень, Калининская",
+    "regionCode": "72",
+    "regionTvd": "100100021960328",
+    "regionName": "Тюменская область",
     "uikCount": 79,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 138991,
@@ -1922,6 +1982,9 @@ export const duma_2007_tic_233_region_72 = [
     "ballot": "party",
     "tikTvd": "2722000134699",
     "tikName": "г.Тюмень, Ленинская",
+    "regionCode": "72",
+    "regionTvd": "100100021960328",
+    "regionName": "Тюменская область",
     "uikCount": 98,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 198019,
@@ -2074,6 +2137,9 @@ export const duma_2007_tic_233_region_72 = [
     "ballot": "party",
     "tikTvd": "2722000134700",
     "tikName": "г.Тюмень, Центральная",
+    "regionCode": "72",
+    "regionTvd": "100100021960328",
+    "regionName": "Тюменская область",
     "uikCount": 67,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 120763,
@@ -2195,6 +2261,9 @@ export const duma_2007_tic_233_region_72 = [
     "ballot": "party",
     "tikTvd": "2722000134701",
     "tikName": "Уватская",
+    "regionCode": "72",
+    "regionTvd": "100100021960328",
+    "regionName": "Тюменская область",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 12751,
@@ -2266,6 +2335,9 @@ export const duma_2007_tic_233_region_72 = [
     "ballot": "party",
     "tikTvd": "2722000134702",
     "tikName": "Упоровская",
+    "regionCode": "72",
+    "regionTvd": "100100021960328",
+    "regionName": "Тюменская область",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 14742,
@@ -2361,6 +2433,9 @@ export const duma_2007_tic_233_region_72 = [
     "ballot": "party",
     "tikTvd": "2722000134703",
     "tikName": "Юргинская",
+    "regionCode": "72",
+    "regionTvd": "100100021960328",
+    "regionName": "Тюменская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 9187,
@@ -2435,6 +2510,9 @@ export const duma_2007_tic_233_region_72 = [
     "ballot": "party",
     "tikTvd": "2722000134704",
     "tikName": "Ялуторовская",
+    "regionCode": "72",
+    "regionTvd": "100100021960328",
+    "regionName": "Тюменская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 10651,
@@ -2518,6 +2596,9 @@ export const duma_2007_tic_233_region_72 = [
     "ballot": "party",
     "tikTvd": "2722000134705",
     "tikName": "Ялуторовская городская",
+    "regionCode": "72",
+    "regionTvd": "100100021960328",
+    "regionName": "Тюменская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 29439,
@@ -2590,6 +2671,9 @@ export const duma_2007_tic_233_region_72 = [
     "ballot": "party",
     "tikTvd": "2722000134706",
     "tikName": "Ярковская",
+    "regionCode": "72",
+    "regionTvd": "100100021960328",
+    "regionName": "Тюменская область",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 15468,

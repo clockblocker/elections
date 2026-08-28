@@ -11,6 +11,9 @@ export const president_2018_tic_227_region_79 = [
     "ballot": "presidential",
     "tikTvd": "2792000355830",
     "tikName": "Смидовичская",
+    "regionCode": "79",
+    "regionTvd": "100100084849202",
+    "regionName": "Еврейская автономная область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 19422,
@@ -76,6 +79,9 @@ export const president_2018_tic_227_region_79 = [
     "ballot": "presidential",
     "tikTvd": "2792000355831",
     "tikName": "Октябрьская",
+    "regionCode": "79",
+    "regionTvd": "100100084849202",
+    "regionName": "Еврейская автономная область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 7509,
@@ -135,6 +141,9 @@ export const president_2018_tic_227_region_79 = [
     "ballot": "presidential",
     "tikTvd": "2792000355832",
     "tikName": "Облученская",
+    "regionCode": "79",
+    "regionTvd": "100100084849202",
+    "regionName": "Еврейская автономная область",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 20899,
@@ -225,6 +234,9 @@ export const president_2018_tic_227_region_79 = [
     "ballot": "presidential",
     "tikTvd": "2792000355833",
     "tikName": "Ленинская",
+    "regionCode": "79",
+    "regionTvd": "100100084849202",
+    "regionName": "Еврейская автономная область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 14149,
@@ -298,6 +310,9 @@ export const president_2018_tic_227_region_79 = [
     "ballot": "presidential",
     "tikTvd": "2792000355834",
     "tikName": "Биробиджанская",
+    "regionCode": "79",
+    "regionTvd": "100100084849202",
+    "regionName": "Еврейская автономная область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9284,
@@ -372,6 +387,9 @@ export const president_2018_tic_227_region_79 = [
     "ballot": "presidential",
     "tikTvd": "2792000355835",
     "tikName": "Биробиджанская городская",
+    "regionCode": "79",
+    "regionTvd": "100100084849202",
+    "regionName": "Еврейская автономная область",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 57581,

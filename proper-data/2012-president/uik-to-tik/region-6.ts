@@ -7,781 +7,1431 @@ export const president_2012_uik_to_tik_region_6 = [
   {
     "uikNumber": 1,
     "uikTvd": "406400187200",
+    "uikName": "УИК №1",
     "tikTvd": "2062000130168",
-    "tikName": "Джейрахская"
+    "tikName": "Джейрахская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 2,
     "uikTvd": "406400187202",
+    "uikName": "УИК №2",
     "tikTvd": "2062000130168",
-    "tikName": "Джейрахская"
+    "tikName": "Джейрахская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 3,
     "uikTvd": "406400187204",
+    "uikName": "УИК №3",
     "tikTvd": "2062000130168",
-    "tikName": "Джейрахская"
+    "tikName": "Джейрахская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 4,
     "uikTvd": "406400187206",
+    "uikName": "УИК №4",
     "tikTvd": "2062000130168",
-    "tikName": "Джейрахская"
+    "tikName": "Джейрахская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 5,
     "uikTvd": "406400187208",
+    "uikName": "УИК №5",
     "tikTvd": "2062000130168",
-    "tikName": "Джейрахская"
+    "tikName": "Джейрахская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 6,
     "uikTvd": "406400187210",
+    "uikName": "УИК №6",
     "tikTvd": "2062000130168",
-    "tikName": "Джейрахская"
+    "tikName": "Джейрахская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 7,
     "uikTvd": "406400584196",
+    "uikName": "УИК №7",
     "tikTvd": "2062000130166",
-    "tikName": "Карабулакская городская"
+    "tikName": "Карабулакская городская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 8,
     "uikTvd": "406400584198",
+    "uikName": "УИК №8",
     "tikTvd": "2062000130166",
-    "tikName": "Карабулакская городская"
+    "tikName": "Карабулакская городская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 9,
     "uikTvd": "406400584199",
+    "uikName": "УИК №9",
     "tikTvd": "2062000130166",
-    "tikName": "Карабулакская городская"
+    "tikName": "Карабулакская городская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 10,
     "uikTvd": "406400584200",
+    "uikName": "УИК №10",
     "tikTvd": "2062000130166",
-    "tikName": "Карабулакская городская"
+    "tikName": "Карабулакская городская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 11,
     "uikTvd": "406400584201",
+    "uikName": "УИК №11",
     "tikTvd": "2062000130166",
-    "tikName": "Карабулакская городская"
+    "tikName": "Карабулакская городская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 12,
     "uikTvd": "406400584202",
+    "uikName": "УИК №12",
     "tikTvd": "2062000130166",
-    "tikName": "Карабулакская городская"
+    "tikName": "Карабулакская городская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 13,
     "uikTvd": "406400584203",
+    "uikName": "УИК №13",
     "tikTvd": "2062000130166",
-    "tikName": "Карабулакская городская"
+    "tikName": "Карабулакская городская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 14,
     "uikTvd": "406400780967",
+    "uikName": "УИК №14",
     "tikTvd": "2062000130170",
-    "tikName": "Магасская городская"
+    "tikName": "Магасская городская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 15,
     "uikTvd": "4064008105401",
+    "uikName": "УИК №15",
     "tikTvd": "2062000130169",
-    "tikName": "Малгобекская городская"
+    "tikName": "Малгобекская городская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 16,
     "uikTvd": "4064008105402",
+    "uikName": "УИК №16",
     "tikTvd": "2062000130169",
-    "tikName": "Малгобекская городская"
+    "tikName": "Малгобекская городская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 17,
     "uikTvd": "4064008105403",
+    "uikName": "УИК №17",
     "tikTvd": "2062000130169",
-    "tikName": "Малгобекская городская"
+    "tikName": "Малгобекская городская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 18,
     "uikTvd": "4064008105404",
+    "uikName": "УИК №18",
     "tikTvd": "2062000130169",
-    "tikName": "Малгобекская городская"
+    "tikName": "Малгобекская городская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 19,
     "uikTvd": "4064008105405",
+    "uikName": "УИК №19",
     "tikTvd": "2062000130169",
-    "tikName": "Малгобекская городская"
+    "tikName": "Малгобекская городская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 20,
     "uikTvd": "4064008105406",
+    "uikName": "УИК №20",
     "tikTvd": "2062000130169",
-    "tikName": "Малгобекская городская"
+    "tikName": "Малгобекская городская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 21,
     "uikTvd": "4064008105407",
+    "uikName": "УИК №21",
     "tikTvd": "2062000130169",
-    "tikName": "Малгобекская городская"
+    "tikName": "Малгобекская городская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 22,
     "uikTvd": "4064008105408",
+    "uikName": "УИК №22",
     "tikTvd": "2062000130169",
-    "tikName": "Малгобекская городская"
+    "tikName": "Малгобекская городская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 23,
     "uikTvd": "4064008105409",
+    "uikName": "УИК №23",
     "tikTvd": "2062000130169",
-    "tikName": "Малгобекская городская"
+    "tikName": "Малгобекская городская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 24,
     "uikTvd": "4064008105410",
+    "uikName": "УИК №24",
     "tikTvd": "2062000130169",
-    "tikName": "Малгобекская городская"
+    "tikName": "Малгобекская городская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 25,
     "uikTvd": "4064008105411",
+    "uikName": "УИК №25",
     "tikTvd": "2062000130169",
-    "tikName": "Малгобекская городская"
+    "tikName": "Малгобекская городская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 26,
     "uikTvd": "4064008105412",
+    "uikName": "УИК №26",
     "tikTvd": "2062000130169",
-    "tikName": "Малгобекская городская"
+    "tikName": "Малгобекская городская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 27,
     "uikTvd": "4064008105413",
+    "uikName": "УИК №27",
     "tikTvd": "2062000130169",
-    "tikName": "Малгобекская городская"
+    "tikName": "Малгобекская городская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 28,
     "uikTvd": "4064008105414",
+    "uikName": "УИК №28",
     "tikTvd": "2062000130169",
-    "tikName": "Малгобекская городская"
+    "tikName": "Малгобекская городская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 29,
     "uikTvd": "4064008105415",
+    "uikName": "УИК №29",
     "tikTvd": "2062000130169",
-    "tikName": "Малгобекская городская"
+    "tikName": "Малгобекская городская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 30,
     "uikTvd": "4064008105416",
+    "uikName": "УИК №30",
     "tikTvd": "2062000130169",
-    "tikName": "Малгобекская городская"
+    "tikName": "Малгобекская городская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 31,
     "uikTvd": "4064008105417",
+    "uikName": "УИК №31",
     "tikTvd": "2062000130169",
-    "tikName": "Малгобекская городская"
+    "tikName": "Малгобекская городская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 32,
     "uikTvd": "4064002107230",
+    "uikName": "УИК №32",
     "tikTvd": "2062000130167",
-    "tikName": "Малгобекская"
+    "tikName": "Малгобекская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 33,
     "uikTvd": "4064002107231",
+    "uikName": "УИК №33",
     "tikTvd": "2062000130167",
-    "tikName": "Малгобекская"
+    "tikName": "Малгобекская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 34,
     "uikTvd": "4064002107232",
+    "uikName": "УИК №34",
     "tikTvd": "2062000130167",
-    "tikName": "Малгобекская"
+    "tikName": "Малгобекская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 35,
     "uikTvd": "4064002107233",
+    "uikName": "УИК №35",
     "tikTvd": "2062000130167",
-    "tikName": "Малгобекская"
+    "tikName": "Малгобекская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 36,
     "uikTvd": "4064002107234",
+    "uikName": "УИК №36",
     "tikTvd": "2062000130167",
-    "tikName": "Малгобекская"
+    "tikName": "Малгобекская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 37,
     "uikTvd": "4064002107235",
+    "uikName": "УИК №37",
     "tikTvd": "2062000130167",
-    "tikName": "Малгобекская"
+    "tikName": "Малгобекская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 38,
     "uikTvd": "4064002107236",
+    "uikName": "УИК №38",
     "tikTvd": "2062000130167",
-    "tikName": "Малгобекская"
+    "tikName": "Малгобекская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 39,
     "uikTvd": "4064002107237",
+    "uikName": "УИК №39",
     "tikTvd": "2062000130167",
-    "tikName": "Малгобекская"
+    "tikName": "Малгобекская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 40,
     "uikTvd": "4064002107238",
+    "uikName": "УИК №40",
     "tikTvd": "2062000130167",
-    "tikName": "Малгобекская"
+    "tikName": "Малгобекская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 41,
     "uikTvd": "4064002107239",
+    "uikName": "УИК №41",
     "tikTvd": "2062000130167",
-    "tikName": "Малгобекская"
+    "tikName": "Малгобекская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 42,
     "uikTvd": "4064002107240",
+    "uikName": "УИК №42",
     "tikTvd": "2062000130167",
-    "tikName": "Малгобекская"
+    "tikName": "Малгобекская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 43,
     "uikTvd": "4064002107241",
+    "uikName": "УИК №43",
     "tikTvd": "2062000130167",
-    "tikName": "Малгобекская"
+    "tikName": "Малгобекская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 44,
     "uikTvd": "4064002107242",
+    "uikName": "УИК №44",
     "tikTvd": "2062000130167",
-    "tikName": "Малгобекская"
+    "tikName": "Малгобекская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 45,
     "uikTvd": "4064002107243",
+    "uikName": "УИК №45",
     "tikTvd": "2062000130167",
-    "tikName": "Малгобекская"
+    "tikName": "Малгобекская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 46,
     "uikTvd": "4064002107244",
+    "uikName": "УИК №46",
     "tikTvd": "2062000130167",
-    "tikName": "Малгобекская"
+    "tikName": "Малгобекская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 47,
     "uikTvd": "4064002107245",
+    "uikName": "УИК №47",
     "tikTvd": "2062000130167",
-    "tikName": "Малгобекская"
+    "tikName": "Малгобекская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 48,
     "uikTvd": "4064002107246",
+    "uikName": "УИК №48",
     "tikTvd": "2062000130167",
-    "tikName": "Малгобекская"
+    "tikName": "Малгобекская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 49,
     "uikTvd": "4064002107247",
+    "uikName": "УИК №49",
     "tikTvd": "2062000130167",
-    "tikName": "Малгобекская"
+    "tikName": "Малгобекская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 50,
     "uikTvd": "4064002107248",
+    "uikName": "УИК №50",
     "tikTvd": "2062000130167",
-    "tikName": "Малгобекская"
+    "tikName": "Малгобекская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 51,
     "uikTvd": "4064002107249",
+    "uikName": "УИК №51",
     "tikTvd": "2062000130167",
-    "tikName": "Малгобекская"
+    "tikName": "Малгобекская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 52,
     "uikTvd": "4064002107250",
+    "uikName": "УИК №52",
     "tikTvd": "2062000130167",
-    "tikName": "Малгобекская"
+    "tikName": "Малгобекская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 53,
     "uikTvd": "4064002107251",
+    "uikName": "УИК №53",
     "tikTvd": "2062000130167",
-    "tikName": "Малгобекская"
+    "tikName": "Малгобекская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 54,
     "uikTvd": "406400690432",
+    "uikName": "УИК №54",
     "tikTvd": "2062000130164",
-    "tikName": "Назрановская городская"
+    "tikName": "Назрановская городская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 55,
     "uikTvd": "406400690433",
+    "uikName": "УИК №55",
     "tikTvd": "2062000130164",
-    "tikName": "Назрановская городская"
+    "tikName": "Назрановская городская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 56,
     "uikTvd": "406400690434",
+    "uikName": "УИК №56",
     "tikTvd": "2062000130164",
-    "tikName": "Назрановская городская"
+    "tikName": "Назрановская городская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 57,
     "uikTvd": "406400690435",
+    "uikName": "УИК №57",
     "tikTvd": "2062000130164",
-    "tikName": "Назрановская городская"
+    "tikName": "Назрановская городская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 58,
     "uikTvd": "406400690436",
+    "uikName": "УИК №58",
     "tikTvd": "2062000130164",
-    "tikName": "Назрановская городская"
+    "tikName": "Назрановская городская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 59,
     "uikTvd": "406400690437",
+    "uikName": "УИК №59",
     "tikTvd": "2062000130164",
-    "tikName": "Назрановская городская"
+    "tikName": "Назрановская городская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 60,
     "uikTvd": "406400690438",
+    "uikName": "УИК №60",
     "tikTvd": "2062000130164",
-    "tikName": "Назрановская городская"
+    "tikName": "Назрановская городская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 61,
     "uikTvd": "406400690439",
+    "uikName": "УИК №61",
     "tikTvd": "2062000130164",
-    "tikName": "Назрановская городская"
+    "tikName": "Назрановская городская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 62,
     "uikTvd": "406400690440",
+    "uikName": "УИК №62",
     "tikTvd": "2062000130164",
-    "tikName": "Назрановская городская"
+    "tikName": "Назрановская городская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 63,
     "uikTvd": "406400690441",
+    "uikName": "УИК №63",
     "tikTvd": "2062000130164",
-    "tikName": "Назрановская городская"
+    "tikName": "Назрановская городская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 64,
     "uikTvd": "406400690442",
+    "uikName": "УИК №64",
     "tikTvd": "2062000130164",
-    "tikName": "Назрановская городская"
+    "tikName": "Назрановская городская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 65,
     "uikTvd": "406400690443",
+    "uikName": "УИК №65",
     "tikTvd": "2062000130164",
-    "tikName": "Назрановская городская"
+    "tikName": "Назрановская городская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 66,
     "uikTvd": "406400690444",
+    "uikName": "УИК №66",
     "tikTvd": "2062000130164",
-    "tikName": "Назрановская городская"
+    "tikName": "Назрановская городская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 67,
     "uikTvd": "406400690445",
+    "uikName": "УИК №67",
     "tikTvd": "2062000130164",
-    "tikName": "Назрановская городская"
+    "tikName": "Назрановская городская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 68,
     "uikTvd": "406400690446",
+    "uikName": "УИК №68",
     "tikTvd": "2062000130164",
-    "tikName": "Назрановская городская"
+    "tikName": "Назрановская городская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 69,
     "uikTvd": "406400690447",
+    "uikName": "УИК №69",
     "tikTvd": "2062000130164",
-    "tikName": "Назрановская городская"
+    "tikName": "Назрановская городская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 70,
     "uikTvd": "406400690448",
+    "uikName": "УИК №70",
     "tikTvd": "2062000130164",
-    "tikName": "Назрановская городская"
+    "tikName": "Назрановская городская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 71,
     "uikTvd": "406400690449",
+    "uikName": "УИК №71",
     "tikTvd": "2062000130164",
-    "tikName": "Назрановская городская"
+    "tikName": "Назрановская городская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 72,
     "uikTvd": "406400690450",
+    "uikName": "УИК №72",
     "tikTvd": "2062000130164",
-    "tikName": "Назрановская городская"
+    "tikName": "Назрановская городская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 73,
     "uikTvd": "4064003103083",
+    "uikName": "УИК №73",
     "tikTvd": "2062000130165",
-    "tikName": "Назрановская"
+    "tikName": "Назрановская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 74,
     "uikTvd": "4064003103084",
+    "uikName": "УИК №74",
     "tikTvd": "2062000130165",
-    "tikName": "Назрановская"
+    "tikName": "Назрановская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 75,
     "uikTvd": "4064003103085",
+    "uikName": "УИК №75",
     "tikTvd": "2062000130165",
-    "tikName": "Назрановская"
+    "tikName": "Назрановская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 76,
     "uikTvd": "4064003103086",
+    "uikName": "УИК №76",
     "tikTvd": "2062000130165",
-    "tikName": "Назрановская"
+    "tikName": "Назрановская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 77,
     "uikTvd": "4064003103087",
+    "uikName": "УИК №77",
     "tikTvd": "2062000130165",
-    "tikName": "Назрановская"
+    "tikName": "Назрановская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 78,
     "uikTvd": "4064003103088",
+    "uikName": "УИК №78",
     "tikTvd": "2062000130165",
-    "tikName": "Назрановская"
+    "tikName": "Назрановская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 79,
     "uikTvd": "4064003103089",
+    "uikName": "УИК №79",
     "tikTvd": "2062000130165",
-    "tikName": "Назрановская"
+    "tikName": "Назрановская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 80,
     "uikTvd": "4064003103090",
+    "uikName": "УИК №80",
     "tikTvd": "2062000130165",
-    "tikName": "Назрановская"
+    "tikName": "Назрановская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 81,
     "uikTvd": "4064003103091",
+    "uikName": "УИК №81",
     "tikTvd": "2062000130165",
-    "tikName": "Назрановская"
+    "tikName": "Назрановская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 82,
     "uikTvd": "4064003103092",
+    "uikName": "УИК №82",
     "tikTvd": "2062000130165",
-    "tikName": "Назрановская"
+    "tikName": "Назрановская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 83,
     "uikTvd": "4064003103093",
+    "uikName": "УИК №83",
     "tikTvd": "2062000130165",
-    "tikName": "Назрановская"
+    "tikName": "Назрановская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 84,
     "uikTvd": "4064003103094",
+    "uikName": "УИК №84",
     "tikTvd": "2062000130165",
-    "tikName": "Назрановская"
+    "tikName": "Назрановская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 85,
     "uikTvd": "4064003103095",
+    "uikName": "УИК №85",
     "tikTvd": "2062000130165",
-    "tikName": "Назрановская"
+    "tikName": "Назрановская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 86,
     "uikTvd": "4064003103096",
+    "uikName": "УИК №86",
     "tikTvd": "2062000130165",
-    "tikName": "Назрановская"
+    "tikName": "Назрановская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 87,
     "uikTvd": "4064003103097",
+    "uikName": "УИК №87",
     "tikTvd": "2062000130165",
-    "tikName": "Назрановская"
+    "tikName": "Назрановская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 88,
     "uikTvd": "4064003103098",
+    "uikName": "УИК №88",
     "tikTvd": "2062000130165",
-    "tikName": "Назрановская"
+    "tikName": "Назрановская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 89,
     "uikTvd": "4064003103099",
+    "uikName": "УИК №89",
     "tikTvd": "2062000130165",
-    "tikName": "Назрановская"
+    "tikName": "Назрановская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 90,
     "uikTvd": "4064003103100",
+    "uikName": "УИК №90",
     "tikTvd": "2062000130165",
-    "tikName": "Назрановская"
+    "tikName": "Назрановская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 91,
     "uikTvd": "4064003103101",
+    "uikName": "УИК №91",
     "tikTvd": "2062000130165",
-    "tikName": "Назрановская"
+    "tikName": "Назрановская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 92,
     "uikTvd": "4064003103102",
+    "uikName": "УИК №92",
     "tikTvd": "2062000130165",
-    "tikName": "Назрановская"
+    "tikName": "Назрановская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 93,
     "uikTvd": "4064003103103",
+    "uikName": "УИК №93",
     "tikTvd": "2062000130165",
-    "tikName": "Назрановская"
+    "tikName": "Назрановская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 94,
     "uikTvd": "4064003103104",
+    "uikName": "УИК №94",
     "tikTvd": "2062000130165",
-    "tikName": "Назрановская"
+    "tikName": "Назрановская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 95,
     "uikTvd": "4064003103105",
+    "uikName": "УИК №95",
     "tikTvd": "2062000130165",
-    "tikName": "Назрановская"
+    "tikName": "Назрановская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 96,
     "uikTvd": "4064003103106",
+    "uikName": "УИК №96",
     "tikTvd": "2062000130165",
-    "tikName": "Назрановская"
+    "tikName": "Назрановская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 97,
     "uikTvd": "4064003103107",
+    "uikName": "УИК №97",
     "tikTvd": "2062000130165",
-    "tikName": "Назрановская"
+    "tikName": "Назрановская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 98,
     "uikTvd": "4064003103108",
+    "uikName": "УИК №98",
     "tikTvd": "2062000130165",
-    "tikName": "Назрановская"
+    "tikName": "Назрановская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 99,
     "uikTvd": "4064003103109",
+    "uikName": "УИК №99",
     "tikTvd": "2062000130165",
-    "tikName": "Назрановская"
+    "tikName": "Назрановская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 100,
     "uikTvd": "4064003103110",
+    "uikName": "УИК №100",
     "tikTvd": "2062000130165",
-    "tikName": "Назрановская"
+    "tikName": "Назрановская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 101,
     "uikTvd": "4064003103111",
+    "uikName": "УИК №101",
     "tikTvd": "2062000130165",
-    "tikName": "Назрановская"
+    "tikName": "Назрановская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 102,
     "uikTvd": "4064004102738",
+    "uikName": "УИК №102",
     "tikTvd": "2062000130163",
-    "tikName": "Сунженская"
+    "tikName": "Сунженская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 103,
     "uikTvd": "4064004102739",
+    "uikName": "УИК №103",
     "tikTvd": "2062000130163",
-    "tikName": "Сунженская"
+    "tikName": "Сунженская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 104,
     "uikTvd": "4064004102740",
+    "uikName": "УИК №104",
     "tikTvd": "2062000130163",
-    "tikName": "Сунженская"
+    "tikName": "Сунженская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 105,
     "uikTvd": "4064004102741",
+    "uikName": "УИК №105",
     "tikTvd": "2062000130163",
-    "tikName": "Сунженская"
+    "tikName": "Сунженская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 106,
     "uikTvd": "4064004102742",
+    "uikName": "УИК №106",
     "tikTvd": "2062000130163",
-    "tikName": "Сунженская"
+    "tikName": "Сунженская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 107,
     "uikTvd": "4064004102743",
+    "uikName": "УИК №107",
     "tikTvd": "2062000130163",
-    "tikName": "Сунженская"
+    "tikName": "Сунженская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 108,
     "uikTvd": "4064004102744",
+    "uikName": "УИК №108",
     "tikTvd": "2062000130163",
-    "tikName": "Сунженская"
+    "tikName": "Сунженская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 109,
     "uikTvd": "4064004102745",
+    "uikName": "УИК №109",
     "tikTvd": "2062000130163",
-    "tikName": "Сунженская"
+    "tikName": "Сунженская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 110,
     "uikTvd": "4064004102746",
+    "uikName": "УИК №110",
     "tikTvd": "2062000130163",
-    "tikName": "Сунженская"
+    "tikName": "Сунженская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 111,
     "uikTvd": "4064004102747",
+    "uikName": "УИК №111",
     "tikTvd": "2062000130163",
-    "tikName": "Сунженская"
+    "tikName": "Сунженская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 112,
     "uikTvd": "4064004102748",
+    "uikName": "УИК №112",
     "tikTvd": "2062000130163",
-    "tikName": "Сунженская"
+    "tikName": "Сунженская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 113,
     "uikTvd": "4064004102749",
+    "uikName": "УИК №113",
     "tikTvd": "2062000130163",
-    "tikName": "Сунженская"
+    "tikName": "Сунженская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 114,
     "uikTvd": "4064004102750",
+    "uikName": "УИК №114",
     "tikTvd": "2062000130163",
-    "tikName": "Сунженская"
+    "tikName": "Сунженская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 115,
     "uikTvd": "4064004102751",
+    "uikName": "УИК №115",
     "tikTvd": "2062000130163",
-    "tikName": "Сунженская"
+    "tikName": "Сунженская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 116,
     "uikTvd": "4064004102752",
+    "uikName": "УИК №116",
     "tikTvd": "2062000130163",
-    "tikName": "Сунженская"
+    "tikName": "Сунженская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 117,
     "uikTvd": "4064004102753",
+    "uikName": "УИК №117",
     "tikTvd": "2062000130163",
-    "tikName": "Сунженская"
+    "tikName": "Сунженская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 118,
     "uikTvd": "4064004102754",
+    "uikName": "УИК №118",
     "tikTvd": "2062000130163",
-    "tikName": "Сунженская"
+    "tikName": "Сунженская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 119,
     "uikTvd": "4064004102755",
+    "uikName": "УИК №119",
     "tikTvd": "2062000130163",
-    "tikName": "Сунженская"
+    "tikName": "Сунженская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 120,
     "uikTvd": "4064004102756",
+    "uikName": "УИК №120",
     "tikTvd": "2062000130163",
-    "tikName": "Сунженская"
+    "tikName": "Сунженская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 121,
     "uikTvd": "4064004102757",
+    "uikName": "УИК №121",
     "tikTvd": "2062000130163",
-    "tikName": "Сунженская"
+    "tikName": "Сунженская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 122,
     "uikTvd": "4064004102758",
+    "uikName": "УИК №122",
     "tikTvd": "2062000130163",
-    "tikName": "Сунженская"
+    "tikName": "Сунженская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 123,
     "uikTvd": "4064004102759",
+    "uikName": "УИК №123",
     "tikTvd": "2062000130163",
-    "tikName": "Сунженская"
+    "tikName": "Сунженская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 124,
     "uikTvd": "4064004102760",
+    "uikName": "УИК №124",
     "tikTvd": "2062000130163",
-    "tikName": "Сунженская"
+    "tikName": "Сунженская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 125,
     "uikTvd": "4064004102761",
+    "uikName": "УИК №125",
     "tikTvd": "2062000130163",
-    "tikName": "Сунженская"
+    "tikName": "Сунженская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 126,
     "uikTvd": "4064004102762",
+    "uikName": "УИК №126",
     "tikTvd": "2062000130163",
-    "tikName": "Сунженская"
+    "tikName": "Сунженская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 127,
     "uikTvd": "4064004102763",
+    "uikName": "УИК №127",
     "tikTvd": "2062000130163",
-    "tikName": "Сунженская"
+    "tikName": "Сунженская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 128,
     "uikTvd": "4064004102764",
+    "uikName": "УИК №128",
     "tikTvd": "2062000130163",
-    "tikName": "Сунженская"
+    "tikName": "Сунженская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 129,
     "uikTvd": "4064008105418",
+    "uikName": "УИК №129",
     "tikTvd": "2062000130169",
-    "tikName": "Малгобекская городская"
+    "tikName": "Малгобекская городская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   },
   {
     "uikNumber": 130,
     "uikTvd": "4064008105419",
+    "uikName": "УИК №130",
     "tikTvd": "2062000130169",
-    "tikName": "Малгобекская городская"
+    "tikName": "Малгобекская городская",
+    "regionCode": "6",
+    "regionTvd": "100100031793876",
+    "regionName": "Республика Ингушетия",
+    "district": null
   }
 ] satisfies readonly UikTikRelation[];

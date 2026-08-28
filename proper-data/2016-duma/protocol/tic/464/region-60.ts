@@ -11,6 +11,14 @@ export const duma_2016_tic_464_region_60 = [
     "ballot": "single-member",
     "tikTvd": "2602000574556",
     "tikName": "Бежаницкая",
+    "regionCode": "60",
+    "regionTvd": "100100067796049",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100067796050",
+      "oikName": "Псковская область – Псковский"
+    },
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 10538,
@@ -83,6 +91,14 @@ export const duma_2016_tic_464_region_60 = [
     "ballot": "single-member",
     "tikTvd": "2602000574557",
     "tikName": "Великолукская",
+    "regionCode": "60",
+    "regionTvd": "100100067796049",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100067796050",
+      "oikName": "Псковская область – Псковский"
+    },
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 18116,
@@ -169,6 +185,14 @@ export const duma_2016_tic_464_region_60 = [
     "ballot": "single-member",
     "tikTvd": "2602000574558",
     "tikName": "Великолукская городская",
+    "regionCode": "60",
+    "regionTvd": "100100067796049",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100067796050",
+      "oikName": "Псковская область – Псковский"
+    },
     "uikCount": 43,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 80621,
@@ -266,6 +290,14 @@ export const duma_2016_tic_464_region_60 = [
     "ballot": "single-member",
     "tikTvd": "2602000574560",
     "tikName": "Гдовская",
+    "regionCode": "60",
+    "regionTvd": "100100067796049",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100067796050",
+      "oikName": "Псковская область – Псковский"
+    },
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 9991,
@@ -340,6 +372,14 @@ export const duma_2016_tic_464_region_60 = [
     "ballot": "single-member",
     "tikTvd": "2602000574561",
     "tikName": "Дедовичская",
+    "regionCode": "60",
+    "regionTvd": "100100067796049",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100067796050",
+      "oikName": "Псковская область – Псковский"
+    },
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 12269,
@@ -413,6 +453,14 @@ export const duma_2016_tic_464_region_60 = [
     "ballot": "single-member",
     "tikTvd": "2602000574562",
     "tikName": "Дновская",
+    "regionCode": "60",
+    "regionTvd": "100100067796049",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100067796050",
+      "oikName": "Псковская область – Псковский"
+    },
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 10772,
@@ -482,6 +530,14 @@ export const duma_2016_tic_464_region_60 = [
     "ballot": "single-member",
     "tikTvd": "2602000574563",
     "tikName": "Красногородская",
+    "regionCode": "60",
+    "regionTvd": "100100067796049",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100067796050",
+      "oikName": "Псковская область – Псковский"
+    },
     "uikCount": 12,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 6329,
@@ -548,6 +604,14 @@ export const duma_2016_tic_464_region_60 = [
     "ballot": "single-member",
     "tikTvd": "2602000574564",
     "tikName": "Новосокольническая",
+    "regionCode": "60",
+    "regionTvd": "100100067796049",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100067796050",
+      "oikName": "Псковская область – Псковский"
+    },
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 11869,
@@ -621,6 +685,14 @@ export const duma_2016_tic_464_region_60 = [
     "ballot": "single-member",
     "tikTvd": "2602000574565",
     "tikName": "Новоржевская",
+    "regionCode": "60",
+    "regionTvd": "100100067796049",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100067796050",
+      "oikName": "Псковская область – Псковский"
+    },
     "uikCount": 10,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 7426,
@@ -685,6 +757,14 @@ export const duma_2016_tic_464_region_60 = [
     "ballot": "single-member",
     "tikTvd": "2602000574566",
     "tikName": "Невельская",
+    "regionCode": "60",
+    "regionTvd": "100100067796049",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100067796050",
+      "oikName": "Псковская область – Псковский"
+    },
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 21126,
@@ -769,6 +849,14 @@ export const duma_2016_tic_464_region_60 = [
     "ballot": "single-member",
     "tikTvd": "2602000574567",
     "tikName": "Локнянская",
+    "regionCode": "60",
+    "regionTvd": "100100067796049",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100067796050",
+      "oikName": "Псковская область – Псковский"
+    },
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 8039,
@@ -838,6 +926,14 @@ export const duma_2016_tic_464_region_60 = [
     "ballot": "single-member",
     "tikTvd": "2602000574568",
     "tikName": "Куньинская",
+    "regionCode": "60",
+    "regionTvd": "100100067796049",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100067796050",
+      "oikName": "Псковская область – Псковский"
+    },
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 7367,
@@ -914,6 +1010,14 @@ export const duma_2016_tic_464_region_60 = [
     "ballot": "single-member",
     "tikTvd": "2602000574569",
     "tikName": "Плюсская",
+    "regionCode": "60",
+    "regionTvd": "100100067796049",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100067796050",
+      "oikName": "Псковская область – Псковский"
+    },
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 7455,
@@ -981,6 +1085,14 @@ export const duma_2016_tic_464_region_60 = [
     "ballot": "single-member",
     "tikTvd": "2602000574570",
     "tikName": "Печорская",
+    "regionCode": "60",
+    "regionTvd": "100100067796049",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100067796050",
+      "oikName": "Псковская область – Псковский"
+    },
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 17429,
@@ -1055,6 +1167,14 @@ export const duma_2016_tic_464_region_60 = [
     "ballot": "single-member",
     "tikTvd": "2602000574571",
     "tikName": "Палкинская",
+    "regionCode": "60",
+    "regionTvd": "100100067796049",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100067796050",
+      "oikName": "Псковская область – Псковский"
+    },
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 7139,
@@ -1123,6 +1243,14 @@ export const duma_2016_tic_464_region_60 = [
     "ballot": "single-member",
     "tikTvd": "2602000574572",
     "tikName": "Островская",
+    "regionCode": "60",
+    "regionTvd": "100100067796049",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100067796050",
+      "oikName": "Псковская область – Псковский"
+    },
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 25436,
@@ -1215,6 +1343,14 @@ export const duma_2016_tic_464_region_60 = [
     "ballot": "single-member",
     "tikTvd": "2602000574573",
     "tikName": "Опочецкая",
+    "regionCode": "60",
+    "regionTvd": "100100067796049",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100067796050",
+      "oikName": "Псковская область – Псковский"
+    },
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 15341,
@@ -1296,6 +1432,14 @@ export const duma_2016_tic_464_region_60 = [
     "ballot": "single-member",
     "tikTvd": "2602000574574",
     "tikName": "Порховская",
+    "regionCode": "60",
+    "regionTvd": "100100067796049",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100067796050",
+      "oikName": "Псковская область – Псковский"
+    },
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 18490,
@@ -1378,6 +1522,14 @@ export const duma_2016_tic_464_region_60 = [
     "ballot": "single-member",
     "tikTvd": "2602000574575",
     "tikName": "Псковская городская",
+    "regionCode": "60",
+    "regionTvd": "100100067796049",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100067796050",
+      "oikName": "Псковская область – Псковский"
+    },
     "uikCount": 93,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 168168,
@@ -1525,6 +1677,14 @@ export const duma_2016_tic_464_region_60 = [
     "ballot": "single-member",
     "tikTvd": "2602000574576",
     "tikName": "Псковская",
+    "regionCode": "60",
+    "regionTvd": "100100067796049",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100067796050",
+      "oikName": "Псковская область – Псковский"
+    },
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 31861,
@@ -1617,6 +1777,14 @@ export const duma_2016_tic_464_region_60 = [
     "ballot": "single-member",
     "tikTvd": "2602000574577",
     "tikName": "Пыталовская",
+    "regionCode": "60",
+    "regionTvd": "100100067796049",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100067796050",
+      "oikName": "Псковская область – Псковский"
+    },
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 9561,
@@ -1687,6 +1855,14 @@ export const duma_2016_tic_464_region_60 = [
     "ballot": "single-member",
     "tikTvd": "2602000574578",
     "tikName": "Пушкиногорская",
+    "regionCode": "60",
+    "regionTvd": "100100067796049",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100067796050",
+      "oikName": "Псковская область – Псковский"
+    },
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 8063,
@@ -1760,6 +1936,14 @@ export const duma_2016_tic_464_region_60 = [
     "ballot": "single-member",
     "tikTvd": "2602000574579",
     "tikName": "Пустошкинская",
+    "regionCode": "60",
+    "regionTvd": "100100067796049",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100067796050",
+      "oikName": "Псковская область – Псковский"
+    },
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 7670,
@@ -1831,6 +2015,14 @@ export const duma_2016_tic_464_region_60 = [
     "ballot": "single-member",
     "tikTvd": "2602000574580",
     "tikName": "Усвятская",
+    "regionCode": "60",
+    "regionTvd": "100100067796049",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100067796050",
+      "oikName": "Псковская область – Псковский"
+    },
     "uikCount": 11,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 4206,
@@ -1896,6 +2088,14 @@ export const duma_2016_tic_464_region_60 = [
     "ballot": "single-member",
     "tikTvd": "2602000574581",
     "tikName": "Струго-Красненская",
+    "regionCode": "60",
+    "regionTvd": "100100067796049",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100067796050",
+      "oikName": "Псковская область – Псковский"
+    },
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 10708,
@@ -1971,6 +2171,14 @@ export const duma_2016_tic_464_region_60 = [
     "ballot": "single-member",
     "tikTvd": "2602000574582",
     "tikName": "Себежская",
+    "regionCode": "60",
+    "regionTvd": "100100067796049",
+    "regionName": "Псковская область",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100067796050",
+      "oikName": "Псковская область – Псковский"
+    },
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 15449,

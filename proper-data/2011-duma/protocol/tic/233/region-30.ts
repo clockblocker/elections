@@ -11,6 +11,9 @@ export const duma_2011_tic_233_region_30 = [
     "ballot": "party",
     "tikTvd": "2302000342983",
     "tikName": "Ахтубинская",
+    "regionCode": "30",
+    "regionTvd": "100100028713362",
+    "regionName": "Астраханская область",
     "uikCount": 52,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 57494,
@@ -112,6 +115,9 @@ export const duma_2011_tic_233_region_30 = [
     "ballot": "party",
     "tikTvd": "2302000342984",
     "tikName": "Астрахань, Cоветская",
+    "regionCode": "30",
+    "regionTvd": "100100028713362",
+    "regionName": "Астраханская область",
     "uikCount": 53,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 111258,
@@ -214,6 +220,9 @@ export const duma_2011_tic_233_region_30 = [
     "ballot": "party",
     "tikTvd": "2302000342985",
     "tikName": "Астрахань, Ленинская",
+    "regionCode": "30",
+    "regionTvd": "100100028713362",
+    "regionName": "Астраханская область",
     "uikCount": 48,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 108318,
@@ -311,6 +320,9 @@ export const duma_2011_tic_233_region_30 = [
     "ballot": "party",
     "tikTvd": "2302000342986",
     "tikName": "Астрахань, Трусовская",
+    "regionCode": "30",
+    "regionTvd": "100100028713362",
+    "regionName": "Астраханская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 81492,
@@ -400,6 +412,9 @@ export const duma_2011_tic_233_region_30 = [
     "ballot": "party",
     "tikTvd": "2302000342987",
     "tikName": "Астрахань, Кировская",
+    "regionCode": "30",
+    "regionTvd": "100100028713362",
+    "regionName": "Астраханская область",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 85796,
@@ -499,6 +514,9 @@ export const duma_2011_tic_233_region_30 = [
     "ballot": "party",
     "tikTvd": "2302000342988",
     "tikName": "Харабалинская",
+    "regionCode": "30",
+    "regionTvd": "100100028713362",
+    "regionName": "Астраханская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 33423,
@@ -579,6 +597,9 @@ export const duma_2011_tic_233_region_30 = [
     "ballot": "party",
     "tikTvd": "2302000342989",
     "tikName": "Приволжская",
+    "regionCode": "30",
+    "regionTvd": "100100028713362",
+    "regionName": "Астраханская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 32741,
@@ -654,6 +675,9 @@ export const duma_2011_tic_233_region_30 = [
     "ballot": "party",
     "tikTvd": "2302000342990",
     "tikName": "Лиманская",
+    "regionCode": "30",
+    "regionTvd": "100100028713362",
+    "regionName": "Астраханская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 24955,
@@ -729,6 +753,9 @@ export const duma_2011_tic_233_region_30 = [
     "ballot": "party",
     "tikTvd": "2302000342991",
     "tikName": "Красноярская",
+    "regionCode": "30",
+    "regionTvd": "100100028713362",
+    "regionName": "Астраханская область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 25198,
@@ -814,6 +841,9 @@ export const duma_2011_tic_233_region_30 = [
     "ballot": "party",
     "tikTvd": "2302000342992",
     "tikName": "Камызякская",
+    "regionCode": "30",
+    "regionTvd": "100100028713362",
+    "regionName": "Астраханская область",
     "uikCount": 51,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 37622,
@@ -914,6 +944,9 @@ export const duma_2011_tic_233_region_30 = [
     "ballot": "party",
     "tikTvd": "2302000342993",
     "tikName": "Наримановская",
+    "regionCode": "30",
+    "regionTvd": "100100028713362",
+    "regionName": "Астраханская область",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 35131,
@@ -998,6 +1031,9 @@ export const duma_2011_tic_233_region_30 = [
     "ballot": "party",
     "tikTvd": "2302000342994",
     "tikName": "Енотаевская",
+    "regionCode": "30",
+    "regionTvd": "100100028713362",
+    "regionName": "Астраханская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 20965,
@@ -1068,6 +1104,9 @@ export const duma_2011_tic_233_region_30 = [
     "ballot": "party",
     "tikTvd": "2302000342995",
     "tikName": "Володарская",
+    "regionCode": "30",
+    "regionTvd": "100100028713362",
+    "regionName": "Астраханская область",
     "uikCount": 45,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 35268,
@@ -1162,6 +1201,9 @@ export const duma_2011_tic_233_region_30 = [
     "ballot": "party",
     "tikTvd": "2302000342996",
     "tikName": "Икрянинская",
+    "regionCode": "30",
+    "regionTvd": "100100028713362",
+    "regionName": "Астраханская область",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 37071,
@@ -1252,6 +1294,9 @@ export const duma_2011_tic_233_region_30 = [
     "ballot": "party",
     "tikTvd": "2302000342997",
     "tikName": "Знаменская городская",
+    "regionCode": "30",
+    "regionTvd": "100100028713362",
+    "regionName": "Астраханская область",
     "uikCount": 10,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 23108,
@@ -1311,6 +1356,9 @@ export const duma_2011_tic_233_region_30 = [
     "ballot": "party",
     "tikTvd": "2302000342998",
     "tikName": "Черноярская",
+    "regionCode": "30",
+    "regionTvd": "100100028713362",
+    "regionName": "Астраханская область",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 14812,

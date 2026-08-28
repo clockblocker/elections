@@ -11,6 +11,9 @@ export const president_2024_tic_227_region_45 = [
     "ballot": "presidential",
     "tikTvd": "24520001303190",
     "tikName": "Юргамышская",
+    "regionCode": "45",
+    "regionTvd": "100100339411238",
+    "regionName": "Курганская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 13296,
@@ -73,6 +76,9 @@ export const president_2024_tic_227_region_45 = [
     "ballot": "presidential",
     "tikTvd": "24520001303191",
     "tikName": "Щучанская",
+    "regionCode": "45",
+    "regionTvd": "100100339411238",
+    "regionName": "Курганская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 15875,
@@ -138,6 +144,9 @@ export const president_2024_tic_227_region_45 = [
     "ballot": "presidential",
     "tikTvd": "24520001303192",
     "tikName": "Шумихинская",
+    "regionCode": "45",
+    "regionTvd": "100100339411238",
+    "regionName": "Курганская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 19750,
@@ -207,6 +216,9 @@ export const president_2024_tic_227_region_45 = [
     "ballot": "presidential",
     "tikTvd": "24520001303193",
     "tikName": "Шатровская",
+    "regionCode": "45",
+    "regionTvd": "100100339411238",
+    "regionName": "Курганская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 11020,
@@ -271,6 +283,9 @@ export const president_2024_tic_227_region_45 = [
     "ballot": "presidential",
     "tikTvd": "24520001303194",
     "tikName": "Шадринская городская",
+    "regionCode": "45",
+    "regionTvd": "100100339411238",
+    "regionName": "Курганская область",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 51143,
@@ -348,6 +363,9 @@ export const president_2024_tic_227_region_45 = [
     "ballot": "presidential",
     "tikTvd": "24520001303195",
     "tikName": "Шадринская",
+    "regionCode": "45",
+    "regionTvd": "100100339411238",
+    "regionName": "Курганская область",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 19432,
@@ -434,6 +452,9 @@ export const president_2024_tic_227_region_45 = [
     "ballot": "presidential",
     "tikTvd": "24520001303196",
     "tikName": "Частоозерская",
+    "regionCode": "45",
+    "regionTvd": "100100339411238",
+    "regionName": "Курганская область",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 3549,
@@ -486,6 +507,9 @@ export const president_2024_tic_227_region_45 = [
     "ballot": "presidential",
     "tikTvd": "24520001303197",
     "tikName": "Целинная",
+    "regionCode": "45",
+    "regionTvd": "100100339411238",
+    "regionName": "Курганская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10899,
@@ -547,6 +571,9 @@ export const president_2024_tic_227_region_45 = [
     "ballot": "presidential",
     "tikTvd": "24520001303198",
     "tikName": "Сафакулевская",
+    "regionCode": "45",
+    "regionTvd": "100100339411238",
+    "regionName": "Курганская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 8372,
@@ -609,6 +636,9 @@ export const president_2024_tic_227_region_45 = [
     "ballot": "presidential",
     "tikTvd": "24520001303199",
     "tikName": "Притобольная",
+    "regionCode": "45",
+    "regionTvd": "100100339411238",
+    "regionName": "Курганская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9665,
@@ -670,6 +700,9 @@ export const president_2024_tic_227_region_45 = [
     "ballot": "presidential",
     "tikTvd": "24520001303200",
     "tikName": "Половинская",
+    "regionCode": "45",
+    "regionTvd": "100100339411238",
+    "regionName": "Курганская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 7438,
@@ -729,6 +762,9 @@ export const president_2024_tic_227_region_45 = [
     "ballot": "presidential",
     "tikTvd": "24520001303201",
     "tikName": "Петуховская",
+    "regionCode": "45",
+    "regionTvd": "100100339411238",
+    "regionName": "Курганская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 11643,
@@ -792,6 +828,9 @@ export const president_2024_tic_227_region_45 = [
     "ballot": "presidential",
     "tikTvd": "24520001303202",
     "tikName": "Мокроусовская",
+    "regionCode": "45",
+    "regionTvd": "100100339411238",
+    "regionName": "Курганская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 7473,
@@ -855,6 +894,9 @@ export const president_2024_tic_227_region_45 = [
     "ballot": "presidential",
     "tikTvd": "24520001303203",
     "tikName": "Мишкинская",
+    "regionCode": "45",
+    "regionTvd": "100100339411238",
+    "regionName": "Курганская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 11306,
@@ -918,6 +960,9 @@ export const president_2024_tic_227_region_45 = [
     "ballot": "presidential",
     "tikTvd": "24520001303204",
     "tikName": "Макушинская",
+    "regionCode": "45",
+    "regionTvd": "100100339411238",
+    "regionName": "Курганская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10417,
@@ -980,6 +1025,9 @@ export const president_2024_tic_227_region_45 = [
     "ballot": "presidential",
     "tikTvd": "24520001303205",
     "tikName": "Лебяжьевская",
+    "regionCode": "45",
+    "regionTvd": "100100339411238",
+    "regionName": "Курганская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9980,
@@ -1048,6 +1096,9 @@ export const president_2024_tic_227_region_45 = [
     "ballot": "presidential",
     "tikTvd": "24520001303206",
     "tikName": "Куртамышская",
+    "regionCode": "45",
+    "regionTvd": "100100339411238",
+    "regionName": "Курганская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 21952,
@@ -1118,6 +1169,9 @@ export const president_2024_tic_227_region_45 = [
     "ballot": "presidential",
     "tikTvd": "24520001303207",
     "tikName": "Курган, Западная",
+    "regionCode": "45",
+    "regionTvd": "100100339411238",
+    "regionName": "Курганская область",
     "uikCount": 69,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 136443,
@@ -1227,6 +1281,9 @@ export const president_2024_tic_227_region_45 = [
     "ballot": "presidential",
     "tikTvd": "24520001303208",
     "tikName": "Курган, Восточная",
+    "regionCode": "45",
+    "regionTvd": "100100339411238",
+    "regionName": "Курганская область",
     "uikCount": 66,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 120923,
@@ -1333,6 +1390,9 @@ export const president_2024_tic_227_region_45 = [
     "ballot": "presidential",
     "tikTvd": "24520001303209",
     "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100339411238",
+    "regionName": "Курганская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 41239,
@@ -1413,6 +1473,9 @@ export const president_2024_tic_227_region_45 = [
     "ballot": "presidential",
     "tikTvd": "24520001303210",
     "tikName": "Катайская",
+    "regionCode": "45",
+    "regionTvd": "100100339411238",
+    "regionName": "Курганская область",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 16463,
@@ -1485,6 +1548,9 @@ export const president_2024_tic_227_region_45 = [
     "ballot": "presidential",
     "tikTvd": "24520001303211",
     "tikName": "Каргапольская",
+    "regionCode": "45",
+    "regionTvd": "100100339411238",
+    "regionName": "Курганская область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 20165,
@@ -1561,6 +1627,9 @@ export const president_2024_tic_227_region_45 = [
     "ballot": "presidential",
     "tikTvd": "24520001303212",
     "tikName": "Звериноголовская",
+    "regionCode": "45",
+    "regionTvd": "100100339411238",
+    "regionName": "Курганская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 5555,
@@ -1616,6 +1685,9 @@ export const president_2024_tic_227_region_45 = [
     "ballot": "presidential",
     "tikTvd": "24520001303213",
     "tikName": "Далматовская",
+    "regionCode": "45",
+    "regionTvd": "100100339411238",
+    "regionName": "Курганская область",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 20324,
@@ -1691,6 +1763,9 @@ export const president_2024_tic_227_region_45 = [
     "ballot": "presidential",
     "tikTvd": "24520001303214",
     "tikName": "Варгашинская",
+    "regionCode": "45",
+    "regionTvd": "100100339411238",
+    "regionName": "Курганская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 13278,
@@ -1762,6 +1837,9 @@ export const president_2024_tic_227_region_45 = [
     "ballot": "presidential",
     "tikTvd": "24520001303215",
     "tikName": "Белозерская",
+    "regionCode": "45",
+    "regionTvd": "100100339411238",
+    "regionName": "Курганская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 11340,
@@ -1831,6 +1909,9 @@ export const president_2024_tic_227_region_45 = [
     "ballot": "presidential",
     "tikTvd": "24520001303216",
     "tikName": "Альменевская",
+    "regionCode": "45",
+    "regionTvd": "100100339411238",
+    "regionName": "Курганская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 5704,

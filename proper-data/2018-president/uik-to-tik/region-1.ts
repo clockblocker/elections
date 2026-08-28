@@ -7,1585 +7,2905 @@ export const president_2018_uik_to_tik_region_1 = [
   {
     "uikNumber": 1,
     "uikTvd": "4014001115032",
+    "uikName": "УИК №1",
     "tikTvd": "2012000364371",
-    "tikName": "Адыгейская"
+    "tikName": "Адыгейская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 2,
     "uikTvd": "4014001115033",
+    "uikName": "УИК №2",
     "tikTvd": "2012000364371",
-    "tikName": "Адыгейская"
+    "tikName": "Адыгейская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 3,
     "uikTvd": "4014001115034",
+    "uikName": "УИК №3",
     "tikTvd": "2012000364371",
-    "tikName": "Адыгейская"
+    "tikName": "Адыгейская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 4,
     "uikTvd": "4014001115035",
+    "uikName": "УИК №4",
     "tikTvd": "2012000364371",
-    "tikName": "Адыгейская"
+    "tikName": "Адыгейская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 5,
     "uikTvd": "4014001115036",
+    "uikName": "УИК №5",
     "tikTvd": "2012000364371",
-    "tikName": "Адыгейская"
+    "tikName": "Адыгейская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 6,
     "uikTvd": "4014001115037",
+    "uikName": "УИК №6",
     "tikTvd": "2012000364371",
-    "tikName": "Адыгейская"
+    "tikName": "Адыгейская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 7,
     "uikTvd": "4014002190395",
+    "uikName": "УИК №7",
     "tikTvd": "2012000364370",
-    "tikName": "Гиагинская"
+    "tikName": "Гиагинская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 8,
     "uikTvd": "4014002190397",
+    "uikName": "УИК №8",
     "tikTvd": "2012000364370",
-    "tikName": "Гиагинская"
+    "tikName": "Гиагинская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 9,
     "uikTvd": "4014002190398",
+    "uikName": "УИК №9",
     "tikTvd": "2012000364370",
-    "tikName": "Гиагинская"
+    "tikName": "Гиагинская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 10,
     "uikTvd": "4014002190399",
+    "uikName": "УИК №10",
     "tikTvd": "2012000364370",
-    "tikName": "Гиагинская"
+    "tikName": "Гиагинская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 11,
     "uikTvd": "4014002190400",
+    "uikName": "УИК №11",
     "tikTvd": "2012000364370",
-    "tikName": "Гиагинская"
+    "tikName": "Гиагинская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 12,
     "uikTvd": "4014002190401",
+    "uikName": "УИК №12",
     "tikTvd": "2012000364370",
-    "tikName": "Гиагинская"
+    "tikName": "Гиагинская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 13,
     "uikTvd": "4014002190402",
+    "uikName": "УИК №13",
     "tikTvd": "2012000364370",
-    "tikName": "Гиагинская"
+    "tikName": "Гиагинская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 14,
     "uikTvd": "4014002190403",
+    "uikName": "УИК №14",
     "tikTvd": "2012000364370",
-    "tikName": "Гиагинская"
+    "tikName": "Гиагинская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 15,
     "uikTvd": "4014002190404",
+    "uikName": "УИК №15",
     "tikTvd": "2012000364370",
-    "tikName": "Гиагинская"
+    "tikName": "Гиагинская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 16,
     "uikTvd": "4014002190405",
+    "uikName": "УИК №16",
     "tikTvd": "2012000364370",
-    "tikName": "Гиагинская"
+    "tikName": "Гиагинская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 17,
     "uikTvd": "4014002190406",
+    "uikName": "УИК №17",
     "tikTvd": "2012000364370",
-    "tikName": "Гиагинская"
+    "tikName": "Гиагинская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 18,
     "uikTvd": "4014002190407",
+    "uikName": "УИК №18",
     "tikTvd": "2012000364370",
-    "tikName": "Гиагинская"
+    "tikName": "Гиагинская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 19,
     "uikTvd": "4014002190408",
+    "uikName": "УИК №19",
     "tikTvd": "2012000364370",
-    "tikName": "Гиагинская"
+    "tikName": "Гиагинская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 20,
     "uikTvd": "4014002190409",
+    "uikName": "УИК №20",
     "tikTvd": "2012000364370",
-    "tikName": "Гиагинская"
+    "tikName": "Гиагинская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 21,
     "uikTvd": "4014002190410",
+    "uikName": "УИК №21",
     "tikTvd": "2012000364370",
-    "tikName": "Гиагинская"
+    "tikName": "Гиагинская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 22,
     "uikTvd": "4014002190411",
+    "uikName": "УИК №22",
     "tikTvd": "2012000364370",
-    "tikName": "Гиагинская"
+    "tikName": "Гиагинская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 23,
     "uikTvd": "4014002190412",
+    "uikName": "УИК №23",
     "tikTvd": "2012000364370",
-    "tikName": "Гиагинская"
+    "tikName": "Гиагинская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 24,
     "uikTvd": "4014002190413",
+    "uikName": "УИК №24",
     "tikTvd": "2012000364370",
-    "tikName": "Гиагинская"
+    "tikName": "Гиагинская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 25,
     "uikTvd": "4014002190414",
+    "uikName": "УИК №25",
     "tikTvd": "2012000364370",
-    "tikName": "Гиагинская"
+    "tikName": "Гиагинская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 26,
     "uikTvd": "4014002190415",
+    "uikName": "УИК №26",
     "tikTvd": "2012000364370",
-    "tikName": "Гиагинская"
+    "tikName": "Гиагинская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 27,
     "uikTvd": "4014002190416",
+    "uikName": "УИК №27",
     "tikTvd": "2012000364370",
-    "tikName": "Гиагинская"
+    "tikName": "Гиагинская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 28,
     "uikTvd": "4014002190417",
+    "uikName": "УИК №28",
     "tikTvd": "2012000364370",
-    "tikName": "Гиагинская"
+    "tikName": "Гиагинская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 29,
     "uikTvd": "4014002190418",
+    "uikName": "УИК №29",
     "tikTvd": "2012000364370",
-    "tikName": "Гиагинская"
+    "tikName": "Гиагинская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 30,
     "uikTvd": "4014002190419",
+    "uikName": "УИК №30",
     "tikTvd": "2012000364370",
-    "tikName": "Гиагинская"
+    "tikName": "Гиагинская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 31,
     "uikTvd": "4014003223044",
+    "uikName": "УИК №31",
     "tikTvd": "2012000364369",
-    "tikName": "Кошехабльская"
+    "tikName": "Кошехабльская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 32,
     "uikTvd": "4014003223045",
+    "uikName": "УИК №32",
     "tikTvd": "2012000364369",
-    "tikName": "Кошехабльская"
+    "tikName": "Кошехабльская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 33,
     "uikTvd": "4014003223046",
+    "uikName": "УИК №33",
     "tikTvd": "2012000364369",
-    "tikName": "Кошехабльская"
+    "tikName": "Кошехабльская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 34,
     "uikTvd": "4014003223047",
+    "uikName": "УИК №34",
     "tikTvd": "2012000364369",
-    "tikName": "Кошехабльская"
+    "tikName": "Кошехабльская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 35,
     "uikTvd": "4014003223048",
+    "uikName": "УИК №35",
     "tikTvd": "2012000364369",
-    "tikName": "Кошехабльская"
+    "tikName": "Кошехабльская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 36,
     "uikTvd": "4014003223049",
+    "uikName": "УИК №36",
     "tikTvd": "2012000364369",
-    "tikName": "Кошехабльская"
+    "tikName": "Кошехабльская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 37,
     "uikTvd": "4014003223050",
+    "uikName": "УИК №37",
     "tikTvd": "2012000364369",
-    "tikName": "Кошехабльская"
+    "tikName": "Кошехабльская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 38,
     "uikTvd": "4014003223051",
+    "uikName": "УИК №38",
     "tikTvd": "2012000364369",
-    "tikName": "Кошехабльская"
+    "tikName": "Кошехабльская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 39,
     "uikTvd": "4014003223052",
+    "uikName": "УИК №39",
     "tikTvd": "2012000364369",
-    "tikName": "Кошехабльская"
+    "tikName": "Кошехабльская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 40,
     "uikTvd": "4014003223053",
+    "uikName": "УИК №40",
     "tikTvd": "2012000364369",
-    "tikName": "Кошехабльская"
+    "tikName": "Кошехабльская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 41,
     "uikTvd": "4014003223054",
+    "uikName": "УИК №41",
     "tikTvd": "2012000364369",
-    "tikName": "Кошехабльская"
+    "tikName": "Кошехабльская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 42,
     "uikTvd": "4014003223055",
+    "uikName": "УИК №42",
     "tikTvd": "2012000364369",
-    "tikName": "Кошехабльская"
+    "tikName": "Кошехабльская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 43,
     "uikTvd": "4014003223056",
+    "uikName": "УИК №43",
     "tikTvd": "2012000364369",
-    "tikName": "Кошехабльская"
+    "tikName": "Кошехабльская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 44,
     "uikTvd": "4014003223057",
+    "uikName": "УИК №44",
     "tikTvd": "2012000364369",
-    "tikName": "Кошехабльская"
+    "tikName": "Кошехабльская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 45,
     "uikTvd": "4014003223058",
+    "uikName": "УИК №45",
     "tikTvd": "2012000364369",
-    "tikName": "Кошехабльская"
+    "tikName": "Кошехабльская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 46,
     "uikTvd": "4014003223059",
+    "uikName": "УИК №46",
     "tikTvd": "2012000364369",
-    "tikName": "Кошехабльская"
+    "tikName": "Кошехабльская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 47,
     "uikTvd": "4014003223060",
+    "uikName": "УИК №47",
     "tikTvd": "2012000364369",
-    "tikName": "Кошехабльская"
+    "tikName": "Кошехабльская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 48,
     "uikTvd": "4014003223061",
+    "uikName": "УИК №48",
     "tikTvd": "2012000364369",
-    "tikName": "Кошехабльская"
+    "tikName": "Кошехабльская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 49,
     "uikTvd": "4014003223062",
+    "uikName": "УИК №49",
     "tikTvd": "2012000364369",
-    "tikName": "Кошехабльская"
+    "tikName": "Кошехабльская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 50,
     "uikTvd": "4014003223063",
+    "uikName": "УИК №50",
     "tikTvd": "2012000364369",
-    "tikName": "Кошехабльская"
+    "tikName": "Кошехабльская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 51,
     "uikTvd": "4014003223064",
+    "uikName": "УИК №51",
     "tikTvd": "2012000364369",
-    "tikName": "Кошехабльская"
+    "tikName": "Кошехабльская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 52,
     "uikTvd": "4014003223065",
+    "uikName": "УИК №52",
     "tikTvd": "2012000364369",
-    "tikName": "Кошехабльская"
+    "tikName": "Кошехабльская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 53,
     "uikTvd": "4014004193483",
+    "uikName": "УИК №53",
     "tikTvd": "2012000364368",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 54,
     "uikTvd": "4014004193484",
+    "uikName": "УИК №54",
     "tikTvd": "2012000364368",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 55,
     "uikTvd": "4014004193485",
+    "uikName": "УИК №55",
     "tikTvd": "2012000364368",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 56,
     "uikTvd": "4014004193486",
+    "uikName": "УИК №56",
     "tikTvd": "2012000364368",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 57,
     "uikTvd": "4014004193487",
+    "uikName": "УИК №57",
     "tikTvd": "2012000364368",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 58,
     "uikTvd": "4014004193488",
+    "uikName": "УИК №58",
     "tikTvd": "2012000364368",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 59,
     "uikTvd": "4014004193489",
+    "uikName": "УИК №59",
     "tikTvd": "2012000364368",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 60,
     "uikTvd": "4014004193490",
+    "uikName": "УИК №60",
     "tikTvd": "2012000364368",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 61,
     "uikTvd": "4014004193491",
+    "uikName": "УИК №61",
     "tikTvd": "2012000364368",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 62,
     "uikTvd": "4014004193492",
+    "uikName": "УИК №62",
     "tikTvd": "2012000364368",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 63,
     "uikTvd": "4014004193493",
+    "uikName": "УИК №63",
     "tikTvd": "2012000364368",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 64,
     "uikTvd": "4014004193494",
+    "uikName": "УИК №64",
     "tikTvd": "2012000364368",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 65,
     "uikTvd": "4014004193495",
+    "uikName": "УИК №65",
     "tikTvd": "2012000364368",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 66,
     "uikTvd": "4014004193496",
+    "uikName": "УИК №66",
     "tikTvd": "2012000364368",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 67,
     "uikTvd": "4014004193497",
+    "uikName": "УИК №67",
     "tikTvd": "2012000364368",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 68,
     "uikTvd": "4014004193498",
+    "uikName": "УИК №68",
     "tikTvd": "2012000364368",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 69,
     "uikTvd": "4014004193499",
+    "uikName": "УИК №69",
     "tikTvd": "2012000364368",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 70,
     "uikTvd": "4014004193500",
+    "uikName": "УИК №70",
     "tikTvd": "2012000364368",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 71,
     "uikTvd": "4014004193501",
+    "uikName": "УИК №71",
     "tikTvd": "2012000364368",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 72,
     "uikTvd": "4014004193502",
+    "uikName": "УИК №72",
     "tikTvd": "2012000364368",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 73,
     "uikTvd": "4014004193503",
+    "uikName": "УИК №73",
     "tikTvd": "2012000364368",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 74,
     "uikTvd": "4014006352381",
+    "uikName": "УИК №74",
     "tikTvd": "2012000364367",
-    "tikName": "Майкопская "
+    "tikName": "Майкопская ",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 75,
     "uikTvd": "4014006352382",
+    "uikName": "УИК №75",
     "tikTvd": "2012000364367",
-    "tikName": "Майкопская "
+    "tikName": "Майкопская ",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 76,
     "uikTvd": "4014006352383",
+    "uikName": "УИК №76",
     "tikTvd": "2012000364367",
-    "tikName": "Майкопская "
+    "tikName": "Майкопская ",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 77,
     "uikTvd": "4014006352384",
+    "uikName": "УИК №77",
     "tikTvd": "2012000364367",
-    "tikName": "Майкопская "
+    "tikName": "Майкопская ",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 78,
     "uikTvd": "4014006352385",
+    "uikName": "УИК №78",
     "tikTvd": "2012000364367",
-    "tikName": "Майкопская "
+    "tikName": "Майкопская ",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 79,
     "uikTvd": "4014006352386",
+    "uikName": "УИК №79",
     "tikTvd": "2012000364367",
-    "tikName": "Майкопская "
+    "tikName": "Майкопская ",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 80,
     "uikTvd": "4014006352387",
+    "uikName": "УИК №80",
     "tikTvd": "2012000364367",
-    "tikName": "Майкопская "
+    "tikName": "Майкопская ",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 81,
     "uikTvd": "4014006352388",
+    "uikName": "УИК №81",
     "tikTvd": "2012000364367",
-    "tikName": "Майкопская "
+    "tikName": "Майкопская ",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 82,
     "uikTvd": "4014006352389",
+    "uikName": "УИК №82",
     "tikTvd": "2012000364367",
-    "tikName": "Майкопская "
+    "tikName": "Майкопская ",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 83,
     "uikTvd": "4014006352390",
+    "uikName": "УИК №83",
     "tikTvd": "2012000364367",
-    "tikName": "Майкопская "
+    "tikName": "Майкопская ",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 84,
     "uikTvd": "4014006352391",
+    "uikName": "УИК №84",
     "tikTvd": "2012000364367",
-    "tikName": "Майкопская "
+    "tikName": "Майкопская ",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 85,
     "uikTvd": "4014006352392",
+    "uikName": "УИК №85",
     "tikTvd": "2012000364367",
-    "tikName": "Майкопская "
+    "tikName": "Майкопская ",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 86,
     "uikTvd": "4014006352393",
+    "uikName": "УИК №86",
     "tikTvd": "2012000364367",
-    "tikName": "Майкопская "
+    "tikName": "Майкопская ",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 87,
     "uikTvd": "4014006352394",
+    "uikName": "УИК №87",
     "tikTvd": "2012000364367",
-    "tikName": "Майкопская "
+    "tikName": "Майкопская ",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 88,
     "uikTvd": "4014006352395",
+    "uikName": "УИК №88",
     "tikTvd": "2012000364367",
-    "tikName": "Майкопская "
+    "tikName": "Майкопская ",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 89,
     "uikTvd": "4014006352396",
+    "uikName": "УИК №89",
     "tikTvd": "2012000364367",
-    "tikName": "Майкопская "
+    "tikName": "Майкопская ",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 90,
     "uikTvd": "4014006352397",
+    "uikName": "УИК №90",
     "tikTvd": "2012000364367",
-    "tikName": "Майкопская "
+    "tikName": "Майкопская ",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 91,
     "uikTvd": "4014006352398",
+    "uikName": "УИК №91",
     "tikTvd": "2012000364367",
-    "tikName": "Майкопская "
+    "tikName": "Майкопская ",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 92,
     "uikTvd": "4014006352399",
+    "uikName": "УИК №92",
     "tikTvd": "2012000364367",
-    "tikName": "Майкопская "
+    "tikName": "Майкопская ",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 93,
     "uikTvd": "4014006352400",
+    "uikName": "УИК №93",
     "tikTvd": "2012000364367",
-    "tikName": "Майкопская "
+    "tikName": "Майкопская ",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 94,
     "uikTvd": "4014006352401",
+    "uikName": "УИК №94",
     "tikTvd": "2012000364367",
-    "tikName": "Майкопская "
+    "tikName": "Майкопская ",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 95,
     "uikTvd": "4014006352402",
+    "uikName": "УИК №95",
     "tikTvd": "2012000364367",
-    "tikName": "Майкопская "
+    "tikName": "Майкопская ",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 96,
     "uikTvd": "4014006352403",
+    "uikName": "УИК №96",
     "tikTvd": "2012000364367",
-    "tikName": "Майкопская "
+    "tikName": "Майкопская ",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 97,
     "uikTvd": "4014006352404",
+    "uikName": "УИК №97",
     "tikTvd": "2012000364367",
-    "tikName": "Майкопская "
+    "tikName": "Майкопская ",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 98,
     "uikTvd": "4014006352405",
+    "uikName": "УИК №98",
     "tikTvd": "2012000364367",
-    "tikName": "Майкопская "
+    "tikName": "Майкопская ",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 99,
     "uikTvd": "4014006352406",
+    "uikName": "УИК №99",
     "tikTvd": "2012000364367",
-    "tikName": "Майкопская "
+    "tikName": "Майкопская ",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 100,
     "uikTvd": "4014006352407",
+    "uikName": "УИК №100",
     "tikTvd": "2012000364367",
-    "tikName": "Майкопская "
+    "tikName": "Майкопская ",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 101,
     "uikTvd": "4014006352408",
+    "uikName": "УИК №101",
     "tikTvd": "2012000364367",
-    "tikName": "Майкопская "
+    "tikName": "Майкопская ",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 102,
     "uikTvd": "4014006352409",
+    "uikName": "УИК №102",
     "tikTvd": "2012000364367",
-    "tikName": "Майкопская "
+    "tikName": "Майкопская ",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 103,
     "uikTvd": "4014006352410",
+    "uikName": "УИК №103",
     "tikTvd": "2012000364367",
-    "tikName": "Майкопская "
+    "tikName": "Майкопская ",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 104,
     "uikTvd": "4014006352411",
+    "uikName": "УИК №104",
     "tikTvd": "2012000364367",
-    "tikName": "Майкопская "
+    "tikName": "Майкопская ",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 105,
     "uikTvd": "4014006352412",
+    "uikName": "УИК №105",
     "tikTvd": "2012000364367",
-    "tikName": "Майкопская "
+    "tikName": "Майкопская ",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 106,
     "uikTvd": "4014006352413",
+    "uikName": "УИК №106",
     "tikTvd": "2012000364367",
-    "tikName": "Майкопская "
+    "tikName": "Майкопская ",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 107,
     "uikTvd": "4014006352414",
+    "uikName": "УИК №107",
     "tikTvd": "2012000364367",
-    "tikName": "Майкопская "
+    "tikName": "Майкопская ",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 108,
     "uikTvd": "4014006352415",
+    "uikName": "УИК №108",
     "tikTvd": "2012000364367",
-    "tikName": "Майкопская "
+    "tikName": "Майкопская ",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 109,
     "uikTvd": "4014006352416",
+    "uikName": "УИК №109",
     "tikTvd": "2012000364367",
-    "tikName": "Майкопская "
+    "tikName": "Майкопская ",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 110,
     "uikTvd": "4014006352417",
+    "uikName": "УИК №110",
     "tikTvd": "2012000364367",
-    "tikName": "Майкопская "
+    "tikName": "Майкопская ",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 111,
     "uikTvd": "4014006352418",
+    "uikName": "УИК №111",
     "tikTvd": "2012000364367",
-    "tikName": "Майкопская "
+    "tikName": "Майкопская ",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 112,
     "uikTvd": "4014006352419",
+    "uikName": "УИК №112",
     "tikTvd": "2012000364367",
-    "tikName": "Майкопская "
+    "tikName": "Майкопская ",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 113,
     "uikTvd": "4014006352420",
+    "uikName": "УИК №113",
     "tikTvd": "2012000364367",
-    "tikName": "Майкопская "
+    "tikName": "Майкопская ",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 114,
     "uikTvd": "4014006352421",
+    "uikName": "УИК №114",
     "tikTvd": "2012000364367",
-    "tikName": "Майкопская "
+    "tikName": "Майкопская ",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 115,
     "uikTvd": "4014005237793",
+    "uikName": "УИК №115",
     "tikTvd": "2012000364366",
-    "tikName": "Майкопская городская"
+    "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 116,
     "uikTvd": "4014005237794",
+    "uikName": "УИК №116",
     "tikTvd": "2012000364366",
-    "tikName": "Майкопская городская"
+    "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 117,
     "uikTvd": "4014005237795",
+    "uikName": "УИК №117",
     "tikTvd": "2012000364366",
-    "tikName": "Майкопская городская"
+    "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 118,
     "uikTvd": "4014005237796",
+    "uikName": "УИК №118",
     "tikTvd": "2012000364366",
-    "tikName": "Майкопская городская"
+    "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 119,
     "uikTvd": "4014005237797",
+    "uikName": "УИК №119",
     "tikTvd": "2012000364366",
-    "tikName": "Майкопская городская"
+    "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 120,
     "uikTvd": "4014005237798",
+    "uikName": "УИК №120",
     "tikTvd": "2012000364366",
-    "tikName": "Майкопская городская"
+    "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 121,
     "uikTvd": "4014005237799",
+    "uikName": "УИК №121",
     "tikTvd": "2012000364366",
-    "tikName": "Майкопская городская"
+    "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 122,
     "uikTvd": "4014005237800",
+    "uikName": "УИК №122",
     "tikTvd": "2012000364366",
-    "tikName": "Майкопская городская"
+    "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 123,
     "uikTvd": "4014005237801",
+    "uikName": "УИК №123",
     "tikTvd": "2012000364366",
-    "tikName": "Майкопская городская"
+    "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 124,
     "uikTvd": "4014005237802",
+    "uikName": "УИК №124",
     "tikTvd": "2012000364366",
-    "tikName": "Майкопская городская"
+    "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 125,
     "uikTvd": "4014005237803",
+    "uikName": "УИК №125",
     "tikTvd": "2012000364366",
-    "tikName": "Майкопская городская"
+    "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 126,
     "uikTvd": "4014005237804",
+    "uikName": "УИК №126",
     "tikTvd": "2012000364366",
-    "tikName": "Майкопская городская"
+    "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 127,
     "uikTvd": "4014005237805",
+    "uikName": "УИК №127",
     "tikTvd": "2012000364366",
-    "tikName": "Майкопская городская"
+    "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 128,
     "uikTvd": "4014005237806",
+    "uikName": "УИК №128",
     "tikTvd": "2012000364366",
-    "tikName": "Майкопская городская"
+    "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 129,
     "uikTvd": "4014005237807",
+    "uikName": "УИК №129",
     "tikTvd": "2012000364366",
-    "tikName": "Майкопская городская"
+    "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 130,
     "uikTvd": "4014005237808",
+    "uikName": "УИК №130",
     "tikTvd": "2012000364366",
-    "tikName": "Майкопская городская"
+    "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 131,
     "uikTvd": "4014005237809",
+    "uikName": "УИК №131",
     "tikTvd": "2012000364366",
-    "tikName": "Майкопская городская"
+    "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 132,
     "uikTvd": "4014005237810",
+    "uikName": "УИК №132",
     "tikTvd": "2012000364366",
-    "tikName": "Майкопская городская"
+    "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 133,
     "uikTvd": "4014005237811",
+    "uikName": "УИК №133",
     "tikTvd": "2012000364366",
-    "tikName": "Майкопская городская"
+    "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 134,
     "uikTvd": "4014005237812",
+    "uikName": "УИК №134",
     "tikTvd": "2012000364366",
-    "tikName": "Майкопская городская"
+    "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 135,
     "uikTvd": "4014005237813",
+    "uikName": "УИК №135",
     "tikTvd": "2012000364366",
-    "tikName": "Майкопская городская"
+    "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 136,
     "uikTvd": "4014005237814",
+    "uikName": "УИК №136",
     "tikTvd": "2012000364366",
-    "tikName": "Майкопская городская"
+    "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 137,
     "uikTvd": "4014005237815",
+    "uikName": "УИК №137",
     "tikTvd": "2012000364366",
-    "tikName": "Майкопская городская"
+    "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 138,
     "uikTvd": "4014005237816",
+    "uikName": "УИК №138",
     "tikTvd": "2012000364366",
-    "tikName": "Майкопская городская"
+    "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 139,
     "uikTvd": "4014005237817",
+    "uikName": "УИК №139",
     "tikTvd": "2012000364366",
-    "tikName": "Майкопская городская"
+    "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 140,
     "uikTvd": "4014005237818",
+    "uikName": "УИК №140",
     "tikTvd": "2012000364366",
-    "tikName": "Майкопская городская"
+    "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 141,
     "uikTvd": "4014005237819",
+    "uikName": "УИК №141",
     "tikTvd": "2012000364366",
-    "tikName": "Майкопская городская"
+    "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 142,
     "uikTvd": "4014005237820",
+    "uikName": "УИК №142",
     "tikTvd": "2012000364366",
-    "tikName": "Майкопская городская"
+    "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 143,
     "uikTvd": "4014005237821",
+    "uikName": "УИК №143",
     "tikTvd": "2012000364366",
-    "tikName": "Майкопская городская"
+    "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 144,
     "uikTvd": "4014005237822",
+    "uikName": "УИК №144",
     "tikTvd": "2012000364366",
-    "tikName": "Майкопская городская"
+    "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 145,
     "uikTvd": "4014005237823",
+    "uikName": "УИК №145",
     "tikTvd": "2012000364366",
-    "tikName": "Майкопская городская"
+    "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 146,
     "uikTvd": "4014005237824",
+    "uikName": "УИК №146",
     "tikTvd": "2012000364366",
-    "tikName": "Майкопская городская"
+    "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 147,
     "uikTvd": "4014005237825",
+    "uikName": "УИК №147",
     "tikTvd": "2012000364366",
-    "tikName": "Майкопская городская"
+    "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 148,
     "uikTvd": "4014005237826",
+    "uikName": "УИК №148",
     "tikTvd": "2012000364366",
-    "tikName": "Майкопская городская"
+    "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 149,
     "uikTvd": "4014005237827",
+    "uikName": "УИК №149",
     "tikTvd": "2012000364366",
-    "tikName": "Майкопская городская"
+    "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 150,
     "uikTvd": "4014005237828",
+    "uikName": "УИК №150",
     "tikTvd": "2012000364366",
-    "tikName": "Майкопская городская"
+    "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 151,
     "uikTvd": "4014005237829",
+    "uikName": "УИК №151",
     "tikTvd": "2012000364366",
-    "tikName": "Майкопская городская"
+    "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 152,
     "uikTvd": "4014005237830",
+    "uikName": "УИК №152",
     "tikTvd": "2012000364366",
-    "tikName": "Майкопская городская"
+    "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 153,
     "uikTvd": "4014005237831",
+    "uikName": "УИК №153",
     "tikTvd": "2012000364366",
-    "tikName": "Майкопская городская"
+    "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 154,
     "uikTvd": "4014005237832",
+    "uikName": "УИК №154",
     "tikTvd": "2012000364366",
-    "tikName": "Майкопская городская"
+    "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 155,
     "uikTvd": "4014005237833",
+    "uikName": "УИК №155",
     "tikTvd": "2012000364366",
-    "tikName": "Майкопская городская"
+    "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 156,
     "uikTvd": "4014005237834",
+    "uikName": "УИК №156",
     "tikTvd": "2012000364366",
-    "tikName": "Майкопская городская"
+    "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 157,
     "uikTvd": "4014005237835",
+    "uikName": "УИК №157",
     "tikTvd": "2012000364366",
-    "tikName": "Майкопская городская"
+    "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 158,
     "uikTvd": "4014005237836",
+    "uikName": "УИК №158",
     "tikTvd": "2012000364366",
-    "tikName": "Майкопская городская"
+    "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 159,
     "uikTvd": "4014005237837",
+    "uikName": "УИК №159",
     "tikTvd": "2012000364366",
-    "tikName": "Майкопская городская"
+    "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 160,
     "uikTvd": "4014005237838",
+    "uikName": "УИК №160",
     "tikTvd": "2012000364366",
-    "tikName": "Майкопская городская"
+    "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 161,
     "uikTvd": "4014005237839",
+    "uikName": "УИК №161",
     "tikTvd": "2012000364366",
-    "tikName": "Майкопская городская"
+    "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 162,
     "uikTvd": "4014005237840",
+    "uikName": "УИК №162",
     "tikTvd": "2012000364366",
-    "tikName": "Майкопская городская"
+    "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 163,
     "uikTvd": "4014005237841",
+    "uikName": "УИК №163",
     "tikTvd": "2012000364366",
-    "tikName": "Майкопская городская"
+    "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 164,
     "uikTvd": "4014005237842",
+    "uikName": "УИК №164",
     "tikTvd": "2012000364366",
-    "tikName": "Майкопская городская"
+    "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 165,
     "uikTvd": "4014005237843",
+    "uikName": "УИК №165",
     "tikTvd": "2012000364366",
-    "tikName": "Майкопская городская"
+    "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 166,
     "uikTvd": "4014005237844",
+    "uikName": "УИК №166",
     "tikTvd": "2012000364366",
-    "tikName": "Майкопская городская"
+    "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 167,
     "uikTvd": "4014005237845",
+    "uikName": "УИК №167",
     "tikTvd": "2012000364366",
-    "tikName": "Майкопская городская"
+    "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 168,
     "uikTvd": "4014005237846",
+    "uikName": "УИК №168",
     "tikTvd": "2012000364366",
-    "tikName": "Майкопская городская"
+    "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 169,
     "uikTvd": "4014005237847",
+    "uikName": "УИК №169",
     "tikTvd": "2012000364366",
-    "tikName": "Майкопская городская"
+    "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 170,
     "uikTvd": "4014005237848",
+    "uikName": "УИК №170",
     "tikTvd": "2012000364366",
-    "tikName": "Майкопская городская"
+    "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 171,
     "uikTvd": "4014005237849",
+    "uikName": "УИК №171",
     "tikTvd": "2012000364366",
-    "tikName": "Майкопская городская"
+    "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 172,
     "uikTvd": "4014005237850",
+    "uikName": "УИК №172",
     "tikTvd": "2012000364366",
-    "tikName": "Майкопская городская"
+    "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 173,
     "uikTvd": "4014005237851",
+    "uikName": "УИК №173",
     "tikTvd": "2012000364366",
-    "tikName": "Майкопская городская"
+    "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 174,
     "uikTvd": "4014005237852",
+    "uikName": "УИК №174",
     "tikTvd": "2012000364366",
-    "tikName": "Майкопская городская"
+    "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 175,
     "uikTvd": "4014005237853",
+    "uikName": "УИК №175",
     "tikTvd": "2012000364366",
-    "tikName": "Майкопская городская"
+    "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 176,
     "uikTvd": "4014005237854",
+    "uikName": "УИК №176",
     "tikTvd": "2012000364366",
-    "tikName": "Майкопская городская"
+    "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 177,
     "uikTvd": "4014005237855",
+    "uikName": "УИК №177",
     "tikTvd": "2012000364366",
-    "tikName": "Майкопская городская"
+    "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 178,
     "uikTvd": "4014005237856",
+    "uikName": "УИК №178",
     "tikTvd": "2012000364366",
-    "tikName": "Майкопская городская"
+    "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 179,
     "uikTvd": "4014005237857",
+    "uikName": "УИК №179",
     "tikTvd": "2012000364366",
-    "tikName": "Майкопская городская"
+    "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 180,
     "uikTvd": "4014005237858",
+    "uikName": "УИК №180",
     "tikTvd": "2012000364366",
-    "tikName": "Майкопская городская"
+    "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 181,
     "uikTvd": "4014005237859",
+    "uikName": "УИК №181",
     "tikTvd": "2012000364366",
-    "tikName": "Майкопская городская"
+    "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 182,
     "uikTvd": "4014005237860",
+    "uikName": "УИК №182",
     "tikTvd": "2012000364366",
-    "tikName": "Майкопская городская"
+    "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 183,
     "uikTvd": "4014005237861",
+    "uikName": "УИК №183",
     "tikTvd": "2012000364366",
-    "tikName": "Майкопская городская"
+    "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 184,
     "uikTvd": "4014005237862",
+    "uikName": "УИК №184",
     "tikTvd": "2012000364366",
-    "tikName": "Майкопская городская"
+    "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 185,
     "uikTvd": "4014005237863",
+    "uikName": "УИК №185",
     "tikTvd": "2012000364366",
-    "tikName": "Майкопская городская"
+    "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 186,
     "uikTvd": "4014005237864",
+    "uikName": "УИК №186",
     "tikTvd": "2012000364366",
-    "tikName": "Майкопская городская"
+    "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 187,
     "uikTvd": "4014007256902",
+    "uikName": "УИК №187",
     "tikTvd": "2012000364365",
-    "tikName": "Тахтамукайская "
+    "tikName": "Тахтамукайская ",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 188,
     "uikTvd": "4014007256903",
+    "uikName": "УИК №188",
     "tikTvd": "2012000364365",
-    "tikName": "Тахтамукайская "
+    "tikName": "Тахтамукайская ",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 189,
     "uikTvd": "4014007256904",
+    "uikName": "УИК №189",
     "tikTvd": "2012000364365",
-    "tikName": "Тахтамукайская "
+    "tikName": "Тахтамукайская ",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 190,
     "uikTvd": "4014007256905",
+    "uikName": "УИК №190",
     "tikTvd": "2012000364365",
-    "tikName": "Тахтамукайская "
+    "tikName": "Тахтамукайская ",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 191,
     "uikTvd": "4014007256906",
+    "uikName": "УИК №191",
     "tikTvd": "2012000364365",
-    "tikName": "Тахтамукайская "
+    "tikName": "Тахтамукайская ",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 192,
     "uikTvd": "4014007256907",
+    "uikName": "УИК №192",
     "tikTvd": "2012000364365",
-    "tikName": "Тахтамукайская "
+    "tikName": "Тахтамукайская ",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 193,
     "uikTvd": "4014007256908",
+    "uikName": "УИК №193",
     "tikTvd": "2012000364365",
-    "tikName": "Тахтамукайская "
+    "tikName": "Тахтамукайская ",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 194,
     "uikTvd": "4014007256909",
+    "uikName": "УИК №194",
     "tikTvd": "2012000364365",
-    "tikName": "Тахтамукайская "
+    "tikName": "Тахтамукайская ",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 195,
     "uikTvd": "4014007256910",
+    "uikName": "УИК №195",
     "tikTvd": "2012000364365",
-    "tikName": "Тахтамукайская "
+    "tikName": "Тахтамукайская ",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 196,
     "uikTvd": "4014007256911",
+    "uikName": "УИК №196",
     "tikTvd": "2012000364365",
-    "tikName": "Тахтамукайская "
+    "tikName": "Тахтамукайская ",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 197,
     "uikTvd": "4014007256912",
+    "uikName": "УИК №197",
     "tikTvd": "2012000364365",
-    "tikName": "Тахтамукайская "
+    "tikName": "Тахтамукайская ",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 198,
     "uikTvd": "4014007256913",
+    "uikName": "УИК №198",
     "tikTvd": "2012000364365",
-    "tikName": "Тахтамукайская "
+    "tikName": "Тахтамукайская ",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 199,
     "uikTvd": "4014007256914",
+    "uikName": "УИК №199",
     "tikTvd": "2012000364365",
-    "tikName": "Тахтамукайская "
+    "tikName": "Тахтамукайская ",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 200,
     "uikTvd": "4014007256915",
+    "uikName": "УИК №200",
     "tikTvd": "2012000364365",
-    "tikName": "Тахтамукайская "
+    "tikName": "Тахтамукайская ",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 201,
     "uikTvd": "4014007256916",
+    "uikName": "УИК №201",
     "tikTvd": "2012000364365",
-    "tikName": "Тахтамукайская "
+    "tikName": "Тахтамукайская ",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 202,
     "uikTvd": "4014007256917",
+    "uikName": "УИК №202",
     "tikTvd": "2012000364365",
-    "tikName": "Тахтамукайская "
+    "tikName": "Тахтамукайская ",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 203,
     "uikTvd": "4014007256918",
+    "uikName": "УИК №203",
     "tikTvd": "2012000364365",
-    "tikName": "Тахтамукайская "
+    "tikName": "Тахтамукайская ",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 204,
     "uikTvd": "4014007256919",
+    "uikName": "УИК №204",
     "tikTvd": "2012000364365",
-    "tikName": "Тахтамукайская "
+    "tikName": "Тахтамукайская ",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 205,
     "uikTvd": "4014007256920",
+    "uikName": "УИК №205",
     "tikTvd": "2012000364365",
-    "tikName": "Тахтамукайская "
+    "tikName": "Тахтамукайская ",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 206,
     "uikTvd": "4014007256921",
+    "uikName": "УИК №206",
     "tikTvd": "2012000364365",
-    "tikName": "Тахтамукайская "
+    "tikName": "Тахтамукайская ",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 207,
     "uikTvd": "4014007256922",
+    "uikName": "УИК №207",
     "tikTvd": "2012000364365",
-    "tikName": "Тахтамукайская "
+    "tikName": "Тахтамукайская ",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 208,
     "uikTvd": "4014007256923",
+    "uikName": "УИК №208",
     "tikTvd": "2012000364365",
-    "tikName": "Тахтамукайская "
+    "tikName": "Тахтамукайская ",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 209,
     "uikTvd": "4014007256924",
+    "uikName": "УИК №209",
     "tikTvd": "2012000364365",
-    "tikName": "Тахтамукайская "
+    "tikName": "Тахтамукайская ",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 210,
     "uikTvd": "4014007256925",
+    "uikName": "УИК №210",
     "tikTvd": "2012000364365",
-    "tikName": "Тахтамукайская "
+    "tikName": "Тахтамукайская ",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 211,
     "uikTvd": "4014007256926",
+    "uikName": "УИК №211",
     "tikTvd": "2012000364365",
-    "tikName": "Тахтамукайская "
+    "tikName": "Тахтамукайская ",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 212,
     "uikTvd": "4014007256927",
+    "uikName": "УИК №212",
     "tikTvd": "2012000364365",
-    "tikName": "Тахтамукайская "
+    "tikName": "Тахтамукайская ",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 213,
     "uikTvd": "4014007256928",
+    "uikName": "УИК №213",
     "tikTvd": "2012000364365",
-    "tikName": "Тахтамукайская "
+    "tikName": "Тахтамукайская ",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 214,
     "uikTvd": "4014007256929",
+    "uikName": "УИК №214",
     "tikTvd": "2012000364365",
-    "tikName": "Тахтамукайская "
+    "tikName": "Тахтамукайская ",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 215,
     "uikTvd": "4014007256930",
+    "uikName": "УИК №215",
     "tikTvd": "2012000364365",
-    "tikName": "Тахтамукайская "
+    "tikName": "Тахтамукайская ",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 216,
     "uikTvd": "4014007256931",
+    "uikName": "УИК №216",
     "tikTvd": "2012000364365",
-    "tikName": "Тахтамукайская "
+    "tikName": "Тахтамукайская ",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 217,
     "uikTvd": "4014007256932",
+    "uikName": "УИК №217",
     "tikTvd": "2012000364365",
-    "tikName": "Тахтамукайская "
+    "tikName": "Тахтамукайская ",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 218,
     "uikTvd": "4014007256933",
+    "uikName": "УИК №218",
     "tikTvd": "2012000364365",
-    "tikName": "Тахтамукайская "
+    "tikName": "Тахтамукайская ",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 219,
     "uikTvd": "4014007256934",
+    "uikName": "УИК №219",
     "tikTvd": "2012000364365",
-    "tikName": "Тахтамукайская "
+    "tikName": "Тахтамукайская ",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 220,
     "uikTvd": "4014007256935",
+    "uikName": "УИК №220",
     "tikTvd": "2012000364365",
-    "tikName": "Тахтамукайская "
+    "tikName": "Тахтамукайская ",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 221,
     "uikTvd": "4014007256936",
+    "uikName": "УИК №221",
     "tikTvd": "2012000364365",
-    "tikName": "Тахтамукайская "
+    "tikName": "Тахтамукайская ",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 222,
     "uikTvd": "4014007256937",
+    "uikName": "УИК №222",
     "tikTvd": "2012000364365",
-    "tikName": "Тахтамукайская "
+    "tikName": "Тахтамукайская ",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 223,
     "uikTvd": "4014007256938",
+    "uikName": "УИК №223",
     "tikTvd": "2012000364365",
-    "tikName": "Тахтамукайская "
+    "tikName": "Тахтамукайская ",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 224,
     "uikTvd": "4014007256939",
+    "uikName": "УИК №224",
     "tikTvd": "2012000364365",
-    "tikName": "Тахтамукайская "
+    "tikName": "Тахтамукайская ",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 225,
     "uikTvd": "4014007256940",
+    "uikName": "УИК №225",
     "tikTvd": "2012000364365",
-    "tikName": "Тахтамукайская "
+    "tikName": "Тахтамукайская ",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 226,
     "uikTvd": "4014009178014",
+    "uikName": "УИК №226",
     "tikTvd": "2012000364364",
-    "tikName": "Теучежская"
+    "tikName": "Теучежская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 227,
     "uikTvd": "4014009178015",
+    "uikName": "УИК №227",
     "tikTvd": "2012000364364",
-    "tikName": "Теучежская"
+    "tikName": "Теучежская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 228,
     "uikTvd": "4014009178016",
+    "uikName": "УИК №228",
     "tikTvd": "2012000364364",
-    "tikName": "Теучежская"
+    "tikName": "Теучежская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 229,
     "uikTvd": "4014009178017",
+    "uikName": "УИК №229",
     "tikTvd": "2012000364364",
-    "tikName": "Теучежская"
+    "tikName": "Теучежская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 230,
     "uikTvd": "4014009178018",
+    "uikName": "УИК №230",
     "tikTvd": "2012000364364",
-    "tikName": "Теучежская"
+    "tikName": "Теучежская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 231,
     "uikTvd": "4014009178019",
+    "uikName": "УИК №231",
     "tikTvd": "2012000364364",
-    "tikName": "Теучежская"
+    "tikName": "Теучежская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 232,
     "uikTvd": "4014009178020",
+    "uikName": "УИК №232",
     "tikTvd": "2012000364364",
-    "tikName": "Теучежская"
+    "tikName": "Теучежская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 233,
     "uikTvd": "4014009178021",
+    "uikName": "УИК №233",
     "tikTvd": "2012000364364",
-    "tikName": "Теучежская"
+    "tikName": "Теучежская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 234,
     "uikTvd": "4014009178022",
+    "uikName": "УИК №234",
     "tikTvd": "2012000364364",
-    "tikName": "Теучежская"
+    "tikName": "Теучежская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 235,
     "uikTvd": "4014009178023",
+    "uikName": "УИК №235",
     "tikTvd": "2012000364364",
-    "tikName": "Теучежская"
+    "tikName": "Теучежская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 236,
     "uikTvd": "4014009178024",
+    "uikName": "УИК №236",
     "tikTvd": "2012000364364",
-    "tikName": "Теучежская"
+    "tikName": "Теучежская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 237,
     "uikTvd": "4014009178025",
+    "uikName": "УИК №237",
     "tikTvd": "2012000364364",
-    "tikName": "Теучежская"
+    "tikName": "Теучежская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 238,
     "uikTvd": "4014009178026",
+    "uikName": "УИК №238",
     "tikTvd": "2012000364364",
-    "tikName": "Теучежская"
+    "tikName": "Теучежская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 239,
     "uikTvd": "4014009178027",
+    "uikName": "УИК №239",
     "tikTvd": "2012000364364",
-    "tikName": "Теучежская"
+    "tikName": "Теучежская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 240,
     "uikTvd": "4014009178028",
+    "uikName": "УИК №240",
     "tikTvd": "2012000364364",
-    "tikName": "Теучежская"
+    "tikName": "Теучежская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 241,
     "uikTvd": "4014009178029",
+    "uikName": "УИК №241",
     "tikTvd": "2012000364364",
-    "tikName": "Теучежская"
+    "tikName": "Теучежская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 242,
     "uikTvd": "4014009178030",
+    "uikName": "УИК №242",
     "tikTvd": "2012000364364",
-    "tikName": "Теучежская"
+    "tikName": "Теучежская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 243,
     "uikTvd": "4014009178031",
+    "uikName": "УИК №243",
     "tikTvd": "2012000364364",
-    "tikName": "Теучежская"
+    "tikName": "Теучежская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 244,
     "uikTvd": "4014009178032",
+    "uikName": "УИК №244",
     "tikTvd": "2012000364364",
-    "tikName": "Теучежская"
+    "tikName": "Теучежская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 245,
     "uikTvd": "4014009178033",
+    "uikName": "УИК №245",
     "tikTvd": "2012000364364",
-    "tikName": "Теучежская"
+    "tikName": "Теучежская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 246,
     "uikTvd": "4014009178034",
+    "uikName": "УИК №246",
     "tikTvd": "2012000364364",
-    "tikName": "Теучежская"
+    "tikName": "Теучежская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 247,
     "uikTvd": "4014008192828",
+    "uikName": "УИК №247",
     "tikTvd": "2012000364363",
-    "tikName": "Шовгеновская"
+    "tikName": "Шовгеновская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 248,
     "uikTvd": "4014008192829",
+    "uikName": "УИК №248",
     "tikTvd": "2012000364363",
-    "tikName": "Шовгеновская"
+    "tikName": "Шовгеновская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 249,
     "uikTvd": "4014008192830",
+    "uikName": "УИК №249",
     "tikTvd": "2012000364363",
-    "tikName": "Шовгеновская"
+    "tikName": "Шовгеновская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 250,
     "uikTvd": "4014008192831",
+    "uikName": "УИК №250",
     "tikTvd": "2012000364363",
-    "tikName": "Шовгеновская"
+    "tikName": "Шовгеновская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 251,
     "uikTvd": "4014008192832",
+    "uikName": "УИК №251",
     "tikTvd": "2012000364363",
-    "tikName": "Шовгеновская"
+    "tikName": "Шовгеновская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 252,
     "uikTvd": "4014008192833",
+    "uikName": "УИК №252",
     "tikTvd": "2012000364363",
-    "tikName": "Шовгеновская"
+    "tikName": "Шовгеновская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 253,
     "uikTvd": "4014008192834",
+    "uikName": "УИК №253",
     "tikTvd": "2012000364363",
-    "tikName": "Шовгеновская"
+    "tikName": "Шовгеновская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 254,
     "uikTvd": "4014008192835",
+    "uikName": "УИК №254",
     "tikTvd": "2012000364363",
-    "tikName": "Шовгеновская"
+    "tikName": "Шовгеновская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 255,
     "uikTvd": "4014008192836",
+    "uikName": "УИК №255",
     "tikTvd": "2012000364363",
-    "tikName": "Шовгеновская"
+    "tikName": "Шовгеновская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 256,
     "uikTvd": "4014008192837",
+    "uikName": "УИК №256",
     "tikTvd": "2012000364363",
-    "tikName": "Шовгеновская"
+    "tikName": "Шовгеновская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 257,
     "uikTvd": "4014008192838",
+    "uikName": "УИК №257",
     "tikTvd": "2012000364363",
-    "tikName": "Шовгеновская"
+    "tikName": "Шовгеновская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 258,
     "uikTvd": "4014008192839",
+    "uikName": "УИК №258",
     "tikTvd": "2012000364363",
-    "tikName": "Шовгеновская"
+    "tikName": "Шовгеновская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 259,
     "uikTvd": "4014008192840",
+    "uikName": "УИК №259",
     "tikTvd": "2012000364363",
-    "tikName": "Шовгеновская"
+    "tikName": "Шовгеновская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 260,
     "uikTvd": "4014008192841",
+    "uikName": "УИК №260",
     "tikTvd": "2012000364363",
-    "tikName": "Шовгеновская"
+    "tikName": "Шовгеновская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 261,
     "uikTvd": "4014008192842",
+    "uikName": "УИК №261",
     "tikTvd": "2012000364363",
-    "tikName": "Шовгеновская"
+    "tikName": "Шовгеновская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 262,
     "uikTvd": "4014008192843",
+    "uikName": "УИК №262",
     "tikTvd": "2012000364363",
-    "tikName": "Шовгеновская"
+    "tikName": "Шовгеновская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 263,
     "uikTvd": "4014008192844",
+    "uikName": "УИК №263",
     "tikTvd": "2012000364363",
-    "tikName": "Шовгеновская"
+    "tikName": "Шовгеновская",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   },
   {
     "uikNumber": 276,
     "uikTvd": "4014007256941",
+    "uikName": "УИК №276",
     "tikTvd": "2012000364365",
-    "tikName": "Тахтамукайская "
+    "tikName": "Тахтамукайская ",
+    "regionCode": "1",
+    "regionTvd": "100100084849067",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": null
   }
 ] satisfies readonly UikTikRelation[];

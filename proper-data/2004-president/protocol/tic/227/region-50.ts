@@ -11,6 +11,9 @@ export const president_2004_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "250200090836",
     "tikName": "Домодедовская",
+    "regionCode": "50",
+    "regionTvd": "1001000882974",
+    "regionName": "Московская область",
     "uikCount": 59,
     "accounting": {
       "Число избирателей, внесенных в список": 101227,
@@ -118,6 +121,9 @@ export const president_2004_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "250200090837",
     "tikName": "Дмитровcкая",
+    "regionCode": "50",
+    "regionTvd": "1001000882974",
+    "regionName": "Московская область",
     "uikCount": 86,
     "accounting": {
       "Число избирателей, внесенных в список": 121106,
@@ -252,6 +258,9 @@ export const president_2004_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "250200090838",
     "tikName": "Воскресенская",
+    "regionCode": "50",
+    "regionTvd": "1001000882974",
+    "regionName": "Московская область",
     "uikCount": 81,
     "accounting": {
       "Число избирателей, внесенных в список": 119352,
@@ -381,6 +390,9 @@ export const president_2004_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "250200090839",
     "tikName": "Долгопрудненская городская",
+    "regionCode": "50",
+    "regionTvd": "1001000882974",
+    "regionName": "Московская область",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в список": 61781,
@@ -464,6 +476,9 @@ export const president_2004_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "250200090840",
     "tikName": "Бронницкая городская",
+    "regionCode": "50",
+    "regionTvd": "1001000882974",
+    "regionName": "Московская область",
     "uikCount": 8,
     "accounting": {
       "Число избирателей, внесенных в список": 15057,
@@ -520,6 +535,9 @@ export const president_2004_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "250200090841",
     "tikName": "Балашихинская",
+    "regionCode": "50",
+    "regionTvd": "1001000882974",
+    "regionName": "Московская область",
     "uikCount": 73,
     "accounting": {
       "Число избирателей, внесенных в список": 160636,
@@ -641,6 +659,9 @@ export const president_2004_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "250200090842",
     "tikName": "Волоколамская",
+    "regionCode": "50",
+    "regionTvd": "1001000882974",
+    "regionName": "Московская область",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в список": 41597,
@@ -721,6 +742,9 @@ export const president_2004_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "250200090843",
     "tikName": "Дубненская городская",
+    "regionCode": "50",
+    "regionTvd": "1001000882974",
+    "regionName": "Московская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список": 55024,
@@ -797,6 +821,9 @@ export const president_2004_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "250200090844",
     "tikName": "Каширская",
+    "regionCode": "50",
+    "regionTvd": "1001000882974",
+    "regionName": "Московская область",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, внесенных в список": 60535,
@@ -888,6 +915,9 @@ export const president_2004_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "250200090845",
     "tikName": "Королевская городская",
+    "regionCode": "50",
+    "regionTvd": "1001000882974",
+    "regionName": "Московская область",
     "uikCount": 72,
     "accounting": {
       "Число избирателей, внесенных в список": 133028,
@@ -1008,6 +1038,9 @@ export const president_2004_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "250200090846",
     "tikName": "Ивантеевская городская",
+    "regionCode": "50",
+    "regionTvd": "1001000882974",
+    "regionName": "Московская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список": 41511,
@@ -1075,6 +1108,9 @@ export const president_2004_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "250200090847",
     "tikName": "Истринская",
+    "regionCode": "50",
+    "regionTvd": "1001000882974",
+    "regionName": "Московская область",
     "uikCount": 59,
     "accounting": {
       "Число избирателей, внесенных в список": 94985,
@@ -1182,6 +1218,9 @@ export const president_2004_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "250200090848",
     "tikName": "Звенигородская городская",
+    "regionCode": "50",
+    "regionTvd": "1001000882974",
+    "regionName": "Московская область",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в список": 13192,
@@ -1244,6 +1283,9 @@ export const president_2004_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "250200090849",
     "tikName": "Зарайская",
+    "regionCode": "50",
+    "regionTvd": "1001000882974",
+    "regionName": "Московская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список": 35086,
@@ -1321,6 +1363,9 @@ export const president_2004_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "250200090850",
     "tikName": "Жуковская городская",
+    "regionCode": "50",
+    "regionTvd": "1001000882974",
+    "regionName": "Московская область",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в список": 79979,
@@ -1402,6 +1447,9 @@ export const president_2004_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "250200090851",
     "tikName": "Егорьевская",
+    "regionCode": "50",
+    "regionTvd": "1001000882974",
+    "regionName": "Московская область",
     "uikCount": 63,
     "accounting": {
       "Число избирателей, внесенных в список": 82132,
@@ -1513,6 +1561,9 @@ export const president_2004_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "250200090852",
     "tikName": "Климовская городская",
+    "regionCode": "50",
+    "regionTvd": "1001000882974",
+    "regionName": "Московская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список": 46955,
@@ -1579,6 +1630,9 @@ export const president_2004_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "250200090853",
     "tikName": "Лотошинская",
+    "regionCode": "50",
+    "regionTvd": "1001000882974",
+    "regionName": "Московская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список": 13089,
@@ -1642,6 +1696,9 @@ export const president_2004_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "250200090854",
     "tikName": "Железнодорожная городская",
+    "regionCode": "50",
+    "regionTvd": "1001000882974",
+    "regionName": "Московская область",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, внесенных в список": 91287,
@@ -1736,6 +1793,9 @@ export const president_2004_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "250200090855",
     "tikName": "Ленинская",
+    "regionCode": "50",
+    "regionTvd": "1001000882974",
+    "regionName": "Московская область",
     "uikCount": 72,
     "accounting": {
       "Число избирателей, внесенных в список": 116109,
@@ -1856,6 +1916,9 @@ export const president_2004_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "250200090856",
     "tikName": "Красногорская",
+    "regionCode": "50",
+    "regionTvd": "1001000882974",
+    "regionName": "Московская область",
     "uikCount": 66,
     "accounting": {
       "Число избирателей, внесенных в список": 125552,
@@ -1970,6 +2033,9 @@ export const president_2004_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "250200090857",
     "tikName": "Лобненская городская",
+    "regionCode": "50",
+    "regionTvd": "1001000882974",
+    "regionName": "Московская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список": 54866,
@@ -2044,6 +2110,9 @@ export const president_2004_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "250200090858",
     "tikName": "Красноармейская городская",
+    "regionCode": "50",
+    "regionTvd": "1001000882974",
+    "regionName": "Московская область",
     "uikCount": 8,
     "accounting": {
       "Число избирателей, внесенных в список": 20915,
@@ -2100,6 +2169,9 @@ export const president_2004_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "250200090859",
     "tikName": "Коломенская городская",
+    "regionCode": "50",
+    "regionTvd": "1001000882974",
+    "regionName": "Московская область",
     "uikCount": 72,
     "accounting": {
       "Число избирателей, внесенных в список": 124936,
@@ -2220,6 +2292,9 @@ export const president_2004_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "250200090860",
     "tikName": "Коломенская",
+    "regionCode": "50",
+    "regionTvd": "1001000882974",
+    "regionName": "Московская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в список": 34913,
@@ -2302,6 +2377,9 @@ export const president_2004_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "250200090861",
     "tikName": "Клинская",
+    "regionCode": "50",
+    "regionTvd": "1001000882974",
+    "regionName": "Московская область",
     "uikCount": 76,
     "accounting": {
       "Число избирателей, внесенных в список": 106091,
@@ -2426,6 +2504,9 @@ export const president_2004_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "250200090862",
     "tikName": "Ногинская",
+    "regionCode": "50",
+    "regionTvd": "1001000882974",
+    "regionName": "Московская область",
     "uikCount": 121,
     "accounting": {
       "Число избирателей, внесенных в список": 175570,
@@ -2595,6 +2676,9 @@ export const president_2004_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "250200090863",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "1001000882974",
+    "regionName": "Московская область",
     "uikCount": 127,
     "accounting": {
       "Число избирателей, внесенных в список": 231824,
@@ -2770,6 +2854,9 @@ export const president_2004_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "250200090864",
     "tikName": "Луховицкая",
+    "regionCode": "50",
+    "regionTvd": "1001000882974",
+    "regionName": "Московская область",
     "uikCount": 54,
     "accounting": {
       "Число избирателей, внесенных в список": 50753,
@@ -2872,6 +2959,9 @@ export const president_2004_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "250200090865",
     "tikName": "Мытищинская",
+    "regionCode": "50",
+    "regionTvd": "1001000882974",
+    "regionName": "Московская область",
     "uikCount": 86,
     "accounting": {
       "Число избирателей, внесенных в список": 155097,
@@ -3006,6 +3096,9 @@ export const president_2004_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "250200090866",
     "tikName": "Можайская",
+    "regionCode": "50",
+    "regionTvd": "1001000882974",
+    "regionName": "Московская область",
     "uikCount": 56,
     "accounting": {
       "Число избирателей, внесенных в список": 56705,
@@ -3110,6 +3203,9 @@ export const president_2004_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "250200090867",
     "tikName": "Наро-Фоминская",
+    "regionCode": "50",
+    "regionTvd": "1001000882974",
+    "regionName": "Московская область",
     "uikCount": 95,
     "accounting": {
       "Число избирателей, внесенных в список": 151350,
@@ -3253,6 +3349,9 @@ export const president_2004_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "250200090868",
     "tikName": "Лыткаринская городская",
+    "regionCode": "50",
+    "regionTvd": "1001000882974",
+    "regionName": "Московская область",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в список": 41225,
@@ -3318,6 +3417,9 @@ export const president_2004_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "250200090869",
     "tikName": "Краснознаменская городская",
+    "regionCode": "50",
+    "regionTvd": "1001000882974",
+    "regionName": "Московская область",
     "uikCount": 8,
     "accounting": {
       "Число избирателей, внесенных в список": 24058,
@@ -3374,6 +3476,9 @@ export const president_2004_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "250200090870",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "1001000882974",
+    "regionName": "Московская область",
     "uikCount": 104,
     "accounting": {
       "Число избирателей, внесенных в список": 198328,
@@ -3526,6 +3631,9 @@ export const president_2004_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "250200090871",
     "tikName": "Пушкинская",
+    "regionCode": "50",
+    "regionTvd": "1001000882974",
+    "regionName": "Московская область",
     "uikCount": 76,
     "accounting": {
       "Число избирателей, внесенных в список": 126990,
@@ -3650,6 +3758,9 @@ export const president_2004_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "250200090872",
     "tikName": "Протвинская городская",
+    "regionCode": "50",
+    "regionTvd": "1001000882974",
+    "regionName": "Московская область",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, внесенных в список": 30564,
@@ -3710,6 +3821,9 @@ export const president_2004_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "250200090873",
     "tikName": "Подольская",
+    "regionCode": "50",
+    "regionTvd": "1001000882974",
+    "regionName": "Московская область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список": 63234,
@@ -3794,6 +3908,9 @@ export const president_2004_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "250200090874",
     "tikName": "Пущинская городская",
+    "regionCode": "50",
+    "regionTvd": "1001000882974",
+    "regionName": "Московская область",
     "uikCount": 7,
     "accounting": {
       "Число избирателей, внесенных в список": 16790,
@@ -3849,6 +3966,9 @@ export const president_2004_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "250200090875",
     "tikName": "Павлово-Посадская",
+    "regionCode": "50",
+    "regionTvd": "1001000882974",
+    "regionName": "Московская область",
     "uikCount": 51,
     "accounting": {
       "Число избирателей, внесенных в список": 66153,
@@ -3948,6 +4068,9 @@ export const president_2004_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "250200090876",
     "tikName": "Орехово-Зуевская",
+    "regionCode": "50",
+    "regionTvd": "1001000882974",
+    "regionName": "Московская область",
     "uikCount": 82,
     "accounting": {
       "Число избирателей, внесенных в список": 96934,
@@ -4078,6 +4201,9 @@ export const president_2004_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "250200090877",
     "tikName": "Орехово-Зуевская городская",
+    "regionCode": "50",
+    "regionTvd": "1001000882974",
+    "regionName": "Московская область",
     "uikCount": 58,
     "accounting": {
       "Число избирателей, внесенных в список": 100363,
@@ -4184,6 +4310,9 @@ export const president_2004_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "250200090878",
     "tikName": "Подольская городская",
+    "regionCode": "50",
+    "regionTvd": "1001000882974",
+    "regionName": "Московская область",
     "uikCount": 74,
     "accounting": {
       "Число избирателей, внесенных в список": 156879,
@@ -4306,6 +4435,9 @@ export const president_2004_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "250200090879",
     "tikName": "Ступинская",
+    "regionCode": "50",
+    "regionTvd": "1001000882974",
+    "regionName": "Московская область",
     "uikCount": 55,
     "accounting": {
       "Число избирателей, внесенных в список": 86996,
@@ -4409,6 +4541,9 @@ export const president_2004_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "250200090880",
     "tikName": "Озерская",
+    "regionCode": "50",
+    "regionTvd": "1001000882974",
+    "regionName": "Московская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список": 30256,
@@ -4485,6 +4620,9 @@ export const president_2004_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "250200090881",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "1001000882974",
+    "regionName": "Московская область",
     "uikCount": 106,
     "accounting": {
       "Число избирателей, внесенных в список": 168974,
@@ -4639,6 +4777,9 @@ export const president_2004_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "250200090882",
     "tikName": "Талдомская",
+    "regionCode": "50",
+    "regionTvd": "1001000882974",
+    "regionName": "Московская область",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в список": 39238,
@@ -4719,6 +4860,9 @@ export const president_2004_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "250200090883",
     "tikName": "Серпуховская",
+    "regionCode": "50",
+    "regionTvd": "1001000882974",
+    "regionName": "Московская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в список": 32934,
@@ -4807,6 +4951,9 @@ export const president_2004_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "250200090884",
     "tikName": "Серпуховская городская",
+    "regionCode": "50",
+    "regionTvd": "1001000882974",
+    "regionName": "Московская область",
     "uikCount": 57,
     "accounting": {
       "Число избирателей, внесенных в список": 107151,
@@ -4912,6 +5059,9 @@ export const president_2004_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "250200090885",
     "tikName": "Солнечногорская",
+    "regionCode": "50",
+    "regionTvd": "1001000882974",
+    "regionName": "Московская область",
     "uikCount": 69,
     "accounting": {
       "Число избирателей, внесенных в список": 105086,
@@ -5029,6 +5179,9 @@ export const president_2004_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "250200090886",
     "tikName": "Серебряно-Прудская",
+    "regionCode": "50",
+    "regionTvd": "1001000882974",
+    "regionName": "Московская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список": 18032,
@@ -5099,6 +5252,9 @@ export const president_2004_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "250200090887",
     "tikName": "Рузская",
+    "regionCode": "50",
+    "regionTvd": "1001000882974",
+    "regionName": "Московская область",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в список": 52597,
@@ -5185,6 +5341,9 @@ export const president_2004_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "250200090888",
     "tikName": "Сергиево-Посадская",
+    "regionCode": "50",
+    "regionTvd": "1001000882974",
+    "regionName": "Московская область",
     "uikCount": 115,
     "accounting": {
       "Число избирателей, внесенных в список": 196625,
@@ -5348,6 +5507,9 @@ export const president_2004_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "250200090889",
     "tikName": "Троицкая городская",
+    "regionCode": "50",
+    "regionTvd": "1001000882974",
+    "regionName": "Московская область",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, внесенных в список": 27273,
@@ -5407,6 +5569,9 @@ export const president_2004_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "250200090890",
     "tikName": "Юбилейная городская",
+    "regionCode": "50",
+    "regionTvd": "1001000882974",
+    "regionName": "Московская область",
     "uikCount": 10,
     "accounting": {
       "Число избирателей, внесенных в список": 26166,
@@ -5465,6 +5630,9 @@ export const president_2004_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "250200090891",
     "tikName": "Реутовская городская",
+    "regionCode": "50",
+    "regionTvd": "1001000882974",
+    "regionName": "Московская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список": 59134,
@@ -5538,6 +5706,9 @@ export const president_2004_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "250200090892",
     "tikName": "Щербинская городская",
+    "regionCode": "50",
+    "regionTvd": "1001000882974",
+    "regionName": "Московская область",
     "uikCount": 10,
     "accounting": {
       "Число избирателей, внесенных в список": 23169,
@@ -5596,6 +5767,9 @@ export const president_2004_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "250200090893",
     "tikName": "Электростальская городская",
+    "regionCode": "50",
+    "regionTvd": "1001000882974",
+    "regionName": "Московская область",
     "uikCount": 49,
     "accounting": {
       "Число избирателей, внесенных в список": 119122,
@@ -5693,6 +5867,9 @@ export const president_2004_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "250200090894",
     "tikName": "Щелковская",
+    "regionCode": "50",
+    "regionTvd": "1001000882974",
+    "regionName": "Московская область",
     "uikCount": 92,
     "accounting": {
       "Число избирателей, внесенных в список": 160310,
@@ -5833,6 +6010,9 @@ export const president_2004_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "250200090895",
     "tikName": "Шатурская",
+    "regionCode": "50",
+    "regionTvd": "1001000882974",
+    "regionName": "Московская область",
     "uikCount": 51,
     "accounting": {
       "Число избирателей, внесенных в список": 57528,
@@ -5932,6 +6112,9 @@ export const president_2004_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "250200090896",
     "tikName": "Чеховская",
+    "regionCode": "50",
+    "regionTvd": "1001000882974",
+    "regionName": "Московская область",
     "uikCount": 52,
     "accounting": {
       "Число избирателей, внесенных в список": 90721,
@@ -6032,6 +6215,9 @@ export const president_2004_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "250200090897",
     "tikName": "Шаховская",
+    "regionCode": "50",
+    "regionTvd": "1001000882974",
+    "regionName": "Московская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список": 17847,
@@ -6095,6 +6281,9 @@ export const president_2004_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "250200090898",
     "tikName": "Рошальская городская",
+    "regionCode": "50",
+    "regionTvd": "1001000882974",
+    "regionName": "Московская область",
     "uikCount": 8,
     "accounting": {
       "Число избирателей, внесенных в список": 18101,
@@ -6151,6 +6340,9 @@ export const president_2004_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "250200090899",
     "tikName": "Химкинская",
+    "regionCode": "50",
+    "regionTvd": "1001000882974",
+    "regionName": "Московская область",
     "uikCount": 64,
     "accounting": {
       "Число избирателей, внесенных в список": 144314,
@@ -6263,6 +6455,9 @@ export const president_2004_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "250200090901",
     "tikName": "Фрязинская городская",
+    "regionCode": "50",
+    "regionTvd": "1001000882974",
+    "regionName": "Московская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список": 43472,
@@ -6329,6 +6524,9 @@ export const president_2004_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "250200090903",
     "tikName": "Электрогорская городская",
+    "regionCode": "50",
+    "regionTvd": "1001000882974",
+    "regionName": "Московская область",
     "uikCount": 7,
     "accounting": {
       "Число избирателей, внесенных в список": 16770,
@@ -6384,6 +6582,9 @@ export const president_2004_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "250200090904",
     "tikName": "Лосино-Петровская городская",
+    "regionCode": "50",
+    "regionTvd": "1001000882974",
+    "regionName": "Московская область",
     "uikCount": 9,
     "accounting": {
       "Число избирателей, внесенных в список": 16993,
@@ -6441,6 +6642,9 @@ export const president_2004_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "250200090905",
     "tikName": "Черноголовская городская",
+    "regionCode": "50",
+    "regionTvd": "1001000882974",
+    "regionName": "Московская область",
     "uikCount": 9,
     "accounting": {
       "Число избирателей, внесенных в список": 17524,
@@ -6498,6 +6702,9 @@ export const president_2004_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "250200090906",
     "tikName": "Котельниковская поселковая",
+    "regionCode": "50",
+    "regionTvd": "1001000882974",
+    "regionName": "Московская область",
     "uikCount": 8,
     "accounting": {
       "Число избирателей, внесенных в список": 14064,
@@ -6554,6 +6761,9 @@ export const president_2004_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "250200090907",
     "tikName": "Приокская поселковая",
+    "regionCode": "50",
+    "regionTvd": "1001000882974",
+    "regionName": "Московская область",
     "uikCount": 3,
     "accounting": {
       "Число избирателей, внесенных в список": 5225,
@@ -6605,6 +6815,9 @@ export const president_2004_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "250200090908",
     "tikName": "Молодежная поселковая",
+    "regionCode": "50",
+    "regionTvd": "1001000882974",
+    "regionName": "Московская область",
     "uikCount": 1,
     "accounting": {
       "Число избирателей, внесенных в список": 2148,
@@ -6654,6 +6867,9 @@ export const president_2004_tic_227_region_50 = [
     "ballot": "presidential",
     "tikTvd": "250200090909",
     "tikName": "Дзержинская городская",
+    "regionCode": "50",
+    "regionTvd": "1001000882974",
+    "regionName": "Московская область",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, внесенных в список": 33198,

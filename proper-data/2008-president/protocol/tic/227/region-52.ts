@@ -11,6 +11,9 @@ export const president_2008_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "2522000226187",
     "tikName": "Вадская",
+    "regionCode": "52",
+    "regionTvd": "100100022249974",
+    "regionName": "Нижегородская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 11160,
@@ -77,6 +80,9 @@ export const president_2008_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "2522000226188",
     "tikName": "Бутурлинская",
+    "regionCode": "52",
+    "regionTvd": "100100022249974",
+    "regionName": "Нижегородская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 11061,
@@ -150,6 +156,9 @@ export const president_2008_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "2522000226189",
     "tikName": "Борская",
+    "regionCode": "52",
+    "regionTvd": "100100022249974",
+    "regionName": "Нижегородская область",
     "uikCount": 75,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 98311,
@@ -272,6 +281,9 @@ export const president_2008_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "2522000226190",
     "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "100100022249974",
+    "regionName": "Нижегородская область",
     "uikCount": 52,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 52433,
@@ -371,6 +383,9 @@ export const president_2008_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "2522000226191",
     "tikName": "Большемурашкинская",
+    "regionCode": "52",
+    "regionTvd": "100100022249974",
+    "regionName": "Нижегородская область",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 9210,
@@ -434,6 +449,9 @@ export const president_2008_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "2522000226192",
     "tikName": "Большеболдинская",
+    "regionCode": "52",
+    "regionTvd": "100100022249974",
+    "regionName": "Нижегородская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 9789,
@@ -509,6 +527,9 @@ export const president_2008_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "2522000226193",
     "tikName": "Арзамасская",
+    "regionCode": "52",
+    "regionTvd": "100100022249974",
+    "regionName": "Нижегородская область",
     "uikCount": 60,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 32979,
@@ -616,6 +637,9 @@ export const president_2008_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "2522000226194",
     "tikName": "Арзамасская городская",
+    "regionCode": "52",
+    "regionTvd": "100100022249974",
+    "regionName": "Нижегородская область",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 83489,
@@ -709,6 +733,9 @@ export const president_2008_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "2522000226195",
     "tikName": "Ардатовская",
+    "regionCode": "52",
+    "regionTvd": "100100022249974",
+    "regionName": "Нижегородская область",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 22205,
@@ -794,6 +821,9 @@ export const president_2008_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "2522000226196",
     "tikName": "Балахнинская",
+    "regionCode": "52",
+    "regionTvd": "100100022249974",
+    "regionName": "Нижегородская область",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 65627,
@@ -878,6 +908,9 @@ export const president_2008_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "2522000226197",
     "tikName": "Гагинская",
+    "regionCode": "52",
+    "regionTvd": "100100022249974",
+    "regionName": "Нижегородская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 11054,
@@ -965,6 +998,9 @@ export const president_2008_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "2522000226198",
     "tikName": "Выксунская",
+    "regionCode": "52",
+    "regionTvd": "100100022249974",
+    "regionName": "Нижегородская область",
     "uikCount": 53,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 72044,
@@ -1065,6 +1101,9 @@ export const president_2008_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "2522000226199",
     "tikName": "Воскресенская",
+    "regionCode": "52",
+    "regionTvd": "100100022249974",
+    "regionName": "Нижегородская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 16945,
@@ -1152,6 +1191,9 @@ export const president_2008_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "2522000226200",
     "tikName": "Городецкая",
+    "regionCode": "52",
+    "regionTvd": "100100022249974",
+    "regionName": "Нижегородская область",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 77112,
@@ -1249,6 +1291,9 @@ export const president_2008_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "2522000226201",
     "tikName": "Володарская",
+    "regionCode": "52",
+    "regionTvd": "100100022249974",
+    "regionName": "Нижегородская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 49023,
@@ -1327,6 +1372,9 @@ export const president_2008_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "2522000226202",
     "tikName": "Вознесенская",
+    "regionCode": "52",
+    "regionTvd": "100100022249974",
+    "regionName": "Нижегородская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 13859,
@@ -1397,6 +1445,9 @@ export const president_2008_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "2522000226203",
     "tikName": "Воротынская",
+    "regionCode": "52",
+    "regionTvd": "100100022249974",
+    "regionName": "Нижегородская область",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 14255,
@@ -1482,6 +1533,9 @@ export const president_2008_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "2522000226204",
     "tikName": "Вачская",
+    "regionCode": "52",
+    "regionTvd": "100100022249974",
+    "regionName": "Нижегородская область",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 16590,
@@ -1564,6 +1618,9 @@ export const president_2008_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "2522000226205",
     "tikName": "Варнавинская",
+    "regionCode": "52",
+    "regionTvd": "100100022249974",
+    "regionName": "Нижегородская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 8419,
@@ -1626,6 +1683,9 @@ export const president_2008_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "2522000226206",
     "tikName": "Ветлужская",
+    "regionCode": "52",
+    "regionTvd": "100100022249974",
+    "regionName": "Нижегородская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 12576,
@@ -1695,6 +1755,9 @@ export const president_2008_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "2522000226207",
     "tikName": "Кстовская",
+    "regionCode": "52",
+    "regionTvd": "100100022249974",
+    "regionName": "Нижегородская область",
     "uikCount": 73,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 89792,
@@ -1815,6 +1878,9 @@ export const president_2008_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "2522000226208",
     "tikName": "Краснобаковская",
+    "regionCode": "52",
+    "regionTvd": "100100022249974",
+    "regionName": "Нижегородская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 15505,
@@ -1884,6 +1950,9 @@ export const president_2008_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "2522000226209",
     "tikName": "Ковернинская",
+    "regionCode": "52",
+    "regionTvd": "100100022249974",
+    "regionName": "Нижегородская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 15975,
@@ -1952,6 +2021,9 @@ export const president_2008_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "2522000226210",
     "tikName": "Княгининская",
+    "regionCode": "52",
+    "regionTvd": "100100022249974",
+    "regionName": "Нижегородская область",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 9032,
@@ -2016,6 +2088,9 @@ export const president_2008_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "2522000226211",
     "tikName": "Краснооктябрьская",
+    "regionCode": "52",
+    "regionTvd": "100100022249974",
+    "regionName": "Нижегородская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 9946,
@@ -2092,6 +2167,9 @@ export const president_2008_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "2522000226212",
     "tikName": "Саровская городская",
+    "regionCode": "52",
+    "regionTvd": "100100022249974",
+    "regionName": "Нижегородская область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 76433,
@@ -2175,6 +2253,9 @@ export const president_2008_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "2522000226213",
     "tikName": "Дзержинская, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "100100022249974",
+    "regionName": "Нижегородская область",
     "uikCount": 63,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 109530,
@@ -2285,6 +2366,9 @@ export const president_2008_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "2522000226214",
     "tikName": "Дивеевская",
+    "regionCode": "52",
+    "regionTvd": "100100022249974",
+    "regionName": "Нижегородская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 13137,
@@ -2353,6 +2437,9 @@ export const president_2008_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "2522000226215",
     "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "100100022249974",
+    "regionName": "Нижегородская область",
     "uikCount": 65,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 124102,
@@ -2465,6 +2552,9 @@ export const president_2008_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "2522000226216",
     "tikName": "Дальнеконстантиновская",
+    "regionCode": "52",
+    "regionTvd": "100100022249974",
+    "regionName": "Нижегородская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 17489,
@@ -2543,6 +2633,9 @@ export const president_2008_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "2522000226217",
     "tikName": "Нижний Новгород, Московская",
+    "regionCode": "52",
+    "regionTvd": "100100022249974",
+    "regionName": "Нижегородская область",
     "uikCount": 60,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 109464,
@@ -2650,6 +2743,9 @@ export const president_2008_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "2522000226218",
     "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "100100022249974",
+    "regionName": "Нижегородская область",
     "uikCount": 60,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 127189,
@@ -2757,6 +2853,9 @@ export const president_2008_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "2522000226219",
     "tikName": "Сокольская",
+    "regionCode": "52",
+    "regionTvd": "100100022249974",
+    "regionName": "Нижегородская область",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 11601,
@@ -2836,6 +2935,9 @@ export const president_2008_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "2522000226220",
     "tikName": "Навашинская",
+    "regionCode": "52",
+    "regionTvd": "100100022249974",
+    "regionName": "Нижегородская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 20678,
@@ -2908,6 +3010,9 @@ export const president_2008_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "2522000226221",
     "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "100100022249974",
+    "regionName": "Нижегородская область",
     "uikCount": 71,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 132524,
@@ -3026,6 +3131,9 @@ export const president_2008_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "2522000226222",
     "tikName": "Лукояновская",
+    "regionCode": "52",
+    "regionTvd": "100100022249974",
+    "regionName": "Нижегородская область",
     "uikCount": 47,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 23729,
@@ -3120,6 +3228,9 @@ export const president_2008_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "2522000226223",
     "tikName": "Кулебакская",
+    "regionCode": "52",
+    "regionTvd": "100100022249974",
+    "regionName": "Нижегородская область",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 43888,
@@ -3210,6 +3321,9 @@ export const president_2008_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "2522000226224",
     "tikName": "Лысковская",
+    "regionCode": "52",
+    "regionTvd": "100100022249974",
+    "regionName": "Нижегородская область",
     "uikCount": 47,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 33213,
@@ -3304,6 +3418,9 @@ export const president_2008_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "2522000226225",
     "tikName": "Первомайская",
+    "regionCode": "52",
+    "regionTvd": "100100022249974",
+    "regionName": "Нижегородская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 17384,
@@ -3372,6 +3489,9 @@ export const president_2008_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "2522000226226",
     "tikName": "Починковская",
+    "regionCode": "52",
+    "regionTvd": "100100022249974",
+    "regionName": "Нижегородская область",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 25432,
@@ -3461,6 +3581,9 @@ export const president_2008_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "2522000226227",
     "tikName": "Пильнинская",
+    "regionCode": "52",
+    "regionTvd": "100100022249974",
+    "regionName": "Нижегородская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 17673,
@@ -3548,6 +3671,9 @@ export const president_2008_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "2522000226228",
     "tikName": "Перевозская",
+    "regionCode": "52",
+    "regionTvd": "100100022249974",
+    "regionName": "Нижегородская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 12562,
@@ -3616,6 +3742,9 @@ export const president_2008_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "2522000226229",
     "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "100100022249974",
+    "regionName": "Нижегородская область",
     "uikCount": 66,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 144030,
@@ -3729,6 +3858,9 @@ export const president_2008_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "2522000226230",
     "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "100100022249974",
+    "regionName": "Нижегородская область",
     "uikCount": 64,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 122519,
@@ -3840,6 +3972,9 @@ export const president_2008_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "2522000226231",
     "tikName": "Павловская",
+    "regionCode": "52",
+    "regionTvd": "100100022249974",
+    "regionName": "Нижегородская область",
     "uikCount": 68,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 82113,
@@ -3955,6 +4090,9 @@ export const president_2008_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "2522000226232",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100022249974",
+    "regionName": "Нижегородская область",
     "uikCount": 93,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 112074,
@@ -4095,6 +4233,9 @@ export const president_2008_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "2522000226233",
     "tikName": "Шарангская",
+    "regionCode": "52",
+    "regionTvd": "100100022249974",
+    "regionName": "Нижегородская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 9747,
@@ -4163,6 +4304,9 @@ export const president_2008_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "2522000226234",
     "tikName": "Чкаловская",
+    "regionCode": "52",
+    "regionTvd": "100100022249974",
+    "regionName": "Нижегородская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 20263,
@@ -4230,6 +4374,9 @@ export const president_2008_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "2522000226235",
     "tikName": "Нижний Новгород, Приокская",
+    "regionCode": "52",
+    "regionTvd": "100100022249974",
+    "regionName": "Нижегородская область",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 78168,
@@ -4316,6 +4463,9 @@ export const president_2008_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "2522000226236",
     "tikName": "Уренская",
+    "regionCode": "52",
+    "regionTvd": "100100022249974",
+    "regionName": "Нижегородская область",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 23703,
@@ -4401,6 +4551,9 @@ export const president_2008_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "2522000226237",
     "tikName": "Тоншаевская",
+    "regionCode": "52",
+    "regionTvd": "100100022249974",
+    "regionName": "Нижегородская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 11305,
@@ -4474,6 +4627,9 @@ export const president_2008_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "2522000226238",
     "tikName": "Тонкинская",
+    "regionCode": "52",
+    "regionTvd": "100100022249974",
+    "regionName": "Нижегородская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 6896,
@@ -4536,6 +4692,9 @@ export const president_2008_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "2522000226239",
     "tikName": "Спасская",
+    "regionCode": "52",
+    "regionTvd": "100100022249974",
+    "regionName": "Нижегородская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 9602,
@@ -4606,6 +4765,9 @@ export const president_2008_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "2522000226240",
     "tikName": "Сосновская",
+    "regionCode": "52",
+    "regionTvd": "100100022249974",
+    "regionName": "Нижегородская область",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 16211,
@@ -4690,6 +4852,9 @@ export const president_2008_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "2522000226241",
     "tikName": "Сеченовская",
+    "regionCode": "52",
+    "regionTvd": "100100022249974",
+    "regionName": "Нижегородская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 13025,
@@ -4766,6 +4931,9 @@ export const president_2008_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "2522000226242",
     "tikName": "Сергачская",
+    "regionCode": "52",
+    "regionTvd": "100100022249974",
+    "regionName": "Нижегородская область",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 22266,
@@ -4857,6 +5025,9 @@ export const president_2008_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "2522000226243",
     "tikName": "Семеновская",
+    "regionCode": "52",
+    "regionTvd": "100100022249974",
+    "regionName": "Нижегородская область",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 38703,
@@ -4948,6 +5119,9 @@ export const president_2008_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "2522000226244",
     "tikName": "Шахунская",
+    "regionCode": "52",
+    "regionTvd": "100100022249974",
+    "regionName": "Нижегородская область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 33410,
@@ -5031,6 +5205,9 @@ export const president_2008_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "2522000226245",
     "tikName": "Шатковская",
+    "regionCode": "52",
+    "regionTvd": "100100022249974",
+    "regionName": "Нижегородская область",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 19654,
@@ -5116,6 +5293,9 @@ export const president_2008_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "2522000226246",
     "tikName": "Нижний Новгород, Автозаводская Южная",
+    "regionCode": "52",
+    "regionTvd": "100100022249974",
+    "regionName": "Нижегородская область",
     "uikCount": 62,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 130062,
@@ -5225,6 +5405,9 @@ export const president_2008_tic_227_region_52 = [
     "ballot": "presidential",
     "tikTvd": "2522000226247",
     "tikName": "Дзержинская, Калининская",
+    "regionCode": "52",
+    "regionTvd": "100100022249974",
+    "regionName": "Нижегородская область",
     "uikCount": 71,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 104362,

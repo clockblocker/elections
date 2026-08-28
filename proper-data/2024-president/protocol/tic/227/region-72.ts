@@ -11,6 +11,9 @@ export const president_2024_tic_227_region_72 = [
     "ballot": "presidential",
     "tikTvd": "27220001801805",
     "tikName": "Ялуторовская",
+    "regionCode": "72",
+    "regionTvd": "100100339411264",
+    "regionName": "Тюменская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10974,
@@ -80,6 +83,9 @@ export const president_2024_tic_227_region_72 = [
     "ballot": "presidential",
     "tikTvd": "27220001801806",
     "tikName": "Аромашевская",
+    "regionCode": "72",
+    "regionTvd": "100100339411264",
+    "regionName": "Тюменская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 8248,
@@ -139,6 +145,9 @@ export const president_2024_tic_227_region_72 = [
     "ballot": "presidential",
     "tikTvd": "27220001801807",
     "tikName": "Сладковская",
+    "regionCode": "72",
+    "regionTvd": "100100339411264",
+    "regionName": "Тюменская область",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 8164,
@@ -193,6 +202,9 @@ export const president_2024_tic_227_region_72 = [
     "ballot": "presidential",
     "tikTvd": "27220001801808",
     "tikName": "Тюмень, Ленинская",
+    "regionCode": "72",
+    "regionTvd": "100100339411264",
+    "regionName": "Тюменская область",
     "uikCount": 67,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 126289,
@@ -300,6 +312,9 @@ export const president_2024_tic_227_region_72 = [
     "ballot": "presidential",
     "tikTvd": "27220001801809",
     "tikName": "Ишимская",
+    "regionCode": "72",
+    "regionTvd": "100100339411264",
+    "regionName": "Тюменская область",
     "uikCount": 52,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 21756,
@@ -392,6 +407,9 @@ export const president_2024_tic_227_region_72 = [
     "ballot": "presidential",
     "tikTvd": "27220001801810",
     "tikName": "Тобольская городская",
+    "regionCode": "72",
+    "regionTvd": "100100339411264",
+    "regionName": "Тюменская область",
     "uikCount": 51,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 81140,
@@ -483,6 +501,9 @@ export const president_2024_tic_227_region_72 = [
     "ballot": "presidential",
     "tikTvd": "27220001801811",
     "tikName": "Бердюжская",
+    "regionCode": "72",
+    "regionTvd": "100100339411264",
+    "regionName": "Тюменская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 8275,
@@ -543,6 +564,9 @@ export const president_2024_tic_227_region_72 = [
     "ballot": "presidential",
     "tikTvd": "27220001801812",
     "tikName": "Ярковская",
+    "regionCode": "72",
+    "regionTvd": "100100339411264",
+    "regionName": "Тюменская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 14818,
@@ -607,6 +631,9 @@ export const president_2024_tic_227_region_72 = [
     "ballot": "presidential",
     "tikTvd": "27220001801813",
     "tikName": "Уватская",
+    "regionCode": "72",
+    "regionTvd": "100100339411264",
+    "regionName": "Тюменская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 15526,
@@ -666,6 +693,9 @@ export const president_2024_tic_227_region_72 = [
     "ballot": "presidential",
     "tikTvd": "27220001801814",
     "tikName": "Абатская",
+    "regionCode": "72",
+    "regionTvd": "100100339411264",
+    "regionName": "Тюменская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 13169,
@@ -730,6 +760,9 @@ export const president_2024_tic_227_region_72 = [
     "ballot": "presidential",
     "tikTvd": "27220001801815",
     "tikName": "Юргинская",
+    "regionCode": "72",
+    "regionTvd": "100100339411264",
+    "regionName": "Тюменская область",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 8155,
@@ -787,6 +820,9 @@ export const president_2024_tic_227_region_72 = [
     "ballot": "presidential",
     "tikTvd": "27220001801816",
     "tikName": "Армизонская",
+    "regionCode": "72",
+    "regionTvd": "100100339411264",
+    "regionName": "Тюменская область",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 6700,
@@ -844,6 +880,9 @@ export const president_2024_tic_227_region_72 = [
     "ballot": "presidential",
     "tikTvd": "27220001801817",
     "tikName": "Упоровская",
+    "regionCode": "72",
+    "regionTvd": "100100339411264",
+    "regionName": "Тюменская область",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 14263,
@@ -919,6 +958,9 @@ export const president_2024_tic_227_region_72 = [
     "ballot": "presidential",
     "tikTvd": "27220001801818",
     "tikName": "Вагайская",
+    "regionCode": "72",
+    "regionTvd": "100100339411264",
+    "regionName": "Тюменская область",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 13801,
@@ -998,6 +1040,9 @@ export const president_2024_tic_227_region_72 = [
     "ballot": "presidential",
     "tikTvd": "27220001801819",
     "tikName": "Заводоуковская",
+    "regionCode": "72",
+    "regionTvd": "100100339411264",
+    "regionName": "Тюменская область",
     "uikCount": 54,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 36473,
@@ -1092,6 +1137,9 @@ export const president_2024_tic_227_region_72 = [
     "ballot": "presidential",
     "tikTvd": "27220001801820",
     "tikName": "Казанская",
+    "regionCode": "72",
+    "regionTvd": "100100339411264",
+    "regionName": "Тюменская область",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 15381,
@@ -1165,6 +1213,9 @@ export const president_2024_tic_227_region_72 = [
     "ballot": "presidential",
     "tikTvd": "27220001801821",
     "tikName": "Тюменская",
+    "regionCode": "72",
+    "regionTvd": "100100339411264",
+    "regionName": "Тюменская область",
     "uikCount": 78,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 109644,
@@ -1283,6 +1334,9 @@ export const president_2024_tic_227_region_72 = [
     "ballot": "presidential",
     "tikTvd": "27220001801822",
     "tikName": "Тобольская",
+    "regionCode": "72",
+    "regionTvd": "100100339411264",
+    "regionName": "Тюменская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 14540,
@@ -1352,6 +1406,9 @@ export const president_2024_tic_227_region_72 = [
     "ballot": "presidential",
     "tikTvd": "27220001801823",
     "tikName": "Голышмановская",
+    "regionCode": "72",
+    "regionTvd": "100100339411264",
+    "regionName": "Тюменская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 17445,
@@ -1418,6 +1475,9 @@ export const president_2024_tic_227_region_72 = [
     "ballot": "presidential",
     "tikTvd": "27220001801824",
     "tikName": "Омутинская",
+    "regionCode": "72",
+    "regionTvd": "100100339411264",
+    "regionName": "Тюменская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 13698,
@@ -1481,6 +1541,9 @@ export const president_2024_tic_227_region_72 = [
     "ballot": "presidential",
     "tikTvd": "27220001801825",
     "tikName": "Сорокинская",
+    "regionCode": "72",
+    "regionTvd": "100100339411264",
+    "regionName": "Тюменская область",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 6767,
@@ -1532,6 +1595,9 @@ export const president_2024_tic_227_region_72 = [
     "ballot": "presidential",
     "tikTvd": "27220001801826",
     "tikName": "Исетская",
+    "regionCode": "72",
+    "regionTvd": "100100339411264",
+    "regionName": "Тюменская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 18322,
@@ -1596,6 +1662,9 @@ export const president_2024_tic_227_region_72 = [
     "ballot": "presidential",
     "tikTvd": "27220001801827",
     "tikName": "Нижнетавдинская",
+    "regionCode": "72",
+    "regionTvd": "100100339411264",
+    "regionName": "Тюменская область",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 18838,
@@ -1668,6 +1737,9 @@ export const president_2024_tic_227_region_72 = [
     "ballot": "presidential",
     "tikTvd": "27220001801828",
     "tikName": "Тюмень, Центральная",
+    "regionCode": "72",
+    "regionTvd": "100100339411264",
+    "regionName": "Тюменская область",
     "uikCount": 86,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 156565,
@@ -1794,6 +1866,9 @@ export const president_2024_tic_227_region_72 = [
     "ballot": "presidential",
     "tikTvd": "27220001801829",
     "tikName": "Тюмень, Калининская",
+    "regionCode": "72",
+    "regionTvd": "100100339411264",
+    "regionName": "Тюменская область",
     "uikCount": 90,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 174661,
@@ -1924,6 +1999,9 @@ export const president_2024_tic_227_region_72 = [
     "ballot": "presidential",
     "tikTvd": "27220001801830",
     "tikName": "Викуловская",
+    "regionCode": "72",
+    "regionTvd": "100100339411264",
+    "regionName": "Тюменская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10595,
@@ -1984,6 +2062,9 @@ export const president_2024_tic_227_region_72 = [
     "ballot": "presidential",
     "tikTvd": "27220001801831",
     "tikName": "Ишимская городская",
+    "regionCode": "72",
+    "regionTvd": "100100339411264",
+    "regionName": "Тюменская область",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 45549,
@@ -2062,6 +2143,9 @@ export const president_2024_tic_227_region_72 = [
     "ballot": "presidential",
     "tikTvd": "27220001801832",
     "tikName": "Тюмень, Восточная",
+    "regionCode": "72",
+    "regionTvd": "100100339411264",
+    "regionName": "Тюменская область",
     "uikCount": 79,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 166718,
@@ -2181,6 +2265,9 @@ export const president_2024_tic_227_region_72 = [
     "ballot": "presidential",
     "tikTvd": "27220001801833",
     "tikName": "Ялуторовская городская",
+    "regionCode": "72",
+    "regionTvd": "100100339411264",
+    "regionName": "Тюменская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 26447,

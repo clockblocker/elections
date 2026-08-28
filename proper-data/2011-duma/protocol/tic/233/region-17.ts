@@ -11,6 +11,9 @@ export const duma_2011_tic_233_region_17 = [
     "ballot": "party",
     "tikTvd": "2172000292460",
     "tikName": "Ак-Довуракская",
+    "regionCode": "17",
+    "regionTvd": "100100028713331",
+    "regionName": "Республика Тыва",
     "uikCount": 6,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 6550,
@@ -66,6 +69,9 @@ export const duma_2011_tic_233_region_17 = [
     "ballot": "party",
     "tikTvd": "2172000292461",
     "tikName": "Бай-Тайгинская",
+    "regionCode": "17",
+    "regionTvd": "100100028713331",
+    "regionName": "Республика Тыва",
     "uikCount": 7,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 5623,
@@ -122,6 +128,9 @@ export const duma_2011_tic_233_region_17 = [
     "ballot": "party",
     "tikTvd": "2172000292462",
     "tikName": "Барун-Хемчикская",
+    "regionCode": "17",
+    "regionTvd": "100100028713331",
+    "regionName": "Республика Тыва",
     "uikCount": 10,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 7319,
@@ -181,6 +190,9 @@ export const duma_2011_tic_233_region_17 = [
     "ballot": "party",
     "tikTvd": "2172000292463",
     "tikName": "Дзун-Хемчикская",
+    "regionCode": "17",
+    "regionTvd": "100100028713331",
+    "regionName": "Республика Тыва",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 10817,
@@ -245,6 +257,9 @@ export const duma_2011_tic_233_region_17 = [
     "ballot": "party",
     "tikTvd": "2172000292464",
     "tikName": "Каа-Хемская",
+    "regionCode": "17",
+    "regionTvd": "100100028713331",
+    "regionName": "Республика Тыва",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 7837,
@@ -309,6 +324,9 @@ export const duma_2011_tic_233_region_17 = [
     "ballot": "party",
     "tikTvd": "2172000292465",
     "tikName": "Кызылская городская",
+    "regionCode": "17",
+    "regionTvd": "100100028713331",
+    "regionName": "Республика Тыва",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 52870,
@@ -390,6 +408,9 @@ export const duma_2011_tic_233_region_17 = [
     "ballot": "party",
     "tikTvd": "2172000292466",
     "tikName": "Кызылская",
+    "regionCode": "17",
+    "regionTvd": "100100028713331",
+    "regionName": "Республика Тыва",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 14089,
@@ -453,6 +474,9 @@ export const duma_2011_tic_233_region_17 = [
     "ballot": "party",
     "tikTvd": "2172000292467",
     "tikName": "Монгун-Тайгинская",
+    "regionCode": "17",
+    "regionTvd": "100100028713331",
+    "regionName": "Республика Тыва",
     "uikCount": 3,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 2999,
@@ -505,6 +529,9 @@ export const duma_2011_tic_233_region_17 = [
     "ballot": "party",
     "tikTvd": "2172000292468",
     "tikName": "Овюрская",
+    "regionCode": "17",
+    "regionTvd": "100100028713331",
+    "regionName": "Республика Тыва",
     "uikCount": 6,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 3817,
@@ -560,6 +587,9 @@ export const duma_2011_tic_233_region_17 = [
     "ballot": "party",
     "tikTvd": "2172000292469",
     "tikName": "Пий-Хемская",
+    "regionCode": "17",
+    "regionTvd": "100100028713331",
+    "regionName": "Республика Тыва",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 7157,
@@ -622,6 +652,9 @@ export const duma_2011_tic_233_region_17 = [
     "ballot": "party",
     "tikTvd": "2172000292470",
     "tikName": "Сут-Хольская",
+    "regionCode": "17",
+    "regionTvd": "100100028713331",
+    "regionName": "Республика Тыва",
     "uikCount": 7,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 5020,
@@ -678,6 +711,9 @@ export const duma_2011_tic_233_region_17 = [
     "ballot": "party",
     "tikTvd": "2172000292471",
     "tikName": "Тандинская",
+    "regionCode": "17",
+    "regionTvd": "100100028713331",
+    "regionName": "Республика Тыва",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 7068,
@@ -738,6 +774,9 @@ export const duma_2011_tic_233_region_17 = [
     "ballot": "party",
     "tikTvd": "2172000292472",
     "tikName": "Тере-Хольская",
+    "regionCode": "17",
+    "regionTvd": "100100028713331",
+    "regionName": "Республика Тыва",
     "uikCount": 2,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 1006,
@@ -789,6 +828,9 @@ export const duma_2011_tic_233_region_17 = [
     "ballot": "party",
     "tikTvd": "2172000292473",
     "tikName": "Тес-Хемская",
+    "regionCode": "17",
+    "regionTvd": "100100028713331",
+    "regionName": "Республика Тыва",
     "uikCount": 7,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 4715,
@@ -845,6 +887,9 @@ export const duma_2011_tic_233_region_17 = [
     "ballot": "party",
     "tikTvd": "2172000292474",
     "tikName": "Тоджинская",
+    "regionCode": "17",
+    "regionTvd": "100100028713331",
+    "regionName": "Республика Тыва",
     "uikCount": 6,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 3181,
@@ -900,6 +945,9 @@ export const duma_2011_tic_233_region_17 = [
     "ballot": "party",
     "tikTvd": "2172000292475",
     "tikName": "Улуг-Хемская",
+    "regionCode": "17",
+    "regionTvd": "100100028713331",
+    "regionName": "Республика Тыва",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 10719,
@@ -962,6 +1010,9 @@ export const duma_2011_tic_233_region_17 = [
     "ballot": "party",
     "tikTvd": "2172000292476",
     "tikName": "Чаа-Хольская",
+    "regionCode": "17",
+    "regionTvd": "100100028713331",
+    "regionName": "Республика Тыва",
     "uikCount": 4,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 3681,
@@ -1015,6 +1066,9 @@ export const duma_2011_tic_233_region_17 = [
     "ballot": "party",
     "tikTvd": "2172000292477",
     "tikName": "Чеди-Хольская",
+    "regionCode": "17",
+    "regionTvd": "100100028713331",
+    "regionName": "Республика Тыва",
     "uikCount": 6,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 4381,
@@ -1070,6 +1124,9 @@ export const duma_2011_tic_233_region_17 = [
     "ballot": "party",
     "tikTvd": "2172000292478",
     "tikName": "Эрзинская",
+    "regionCode": "17",
+    "regionTvd": "100100028713331",
+    "regionName": "Республика Тыва",
     "uikCount": 6,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 4152,

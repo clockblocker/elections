@@ -11,6 +11,9 @@ export const president_2018_tic_227_region_64 = [
     "ballot": "presidential",
     "tikTvd": "26420001402284",
     "tikName": "Федоровская",
+    "regionCode": "64",
+    "regionTvd": "100100084849188",
+    "regionName": "Саратовская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 14909,
@@ -79,6 +82,9 @@ export const president_2018_tic_227_region_64 = [
     "ballot": "presidential",
     "tikTvd": "26420001402285",
     "tikName": "Петровская",
+    "regionCode": "64",
+    "regionTvd": "100100084849188",
+    "regionName": "Саратовская область",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 32260,
@@ -173,6 +179,9 @@ export const president_2018_tic_227_region_64 = [
     "ballot": "presidential",
     "tikTvd": "26420001402286",
     "tikName": "Аткарская",
+    "regionCode": "64",
+    "regionTvd": "100100084849188",
+    "regionName": "Саратовская область",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 30337,
@@ -256,6 +265,9 @@ export const president_2018_tic_227_region_64 = [
     "ballot": "presidential",
     "tikTvd": "26420001402287",
     "tikName": "Ивантеевская",
+    "regionCode": "64",
+    "regionTvd": "100100084849188",
+    "regionName": "Саратовская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 11190,
@@ -320,6 +332,9 @@ export const president_2018_tic_227_region_64 = [
     "ballot": "presidential",
     "tikTvd": "26420001402288",
     "tikName": "Татищевская",
+    "regionCode": "64",
+    "regionTvd": "100100084849188",
+    "regionName": "Саратовская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 22020,
@@ -393,6 +408,9 @@ export const president_2018_tic_227_region_64 = [
     "ballot": "presidential",
     "tikTvd": "26420001402289",
     "tikName": "Марксовская",
+    "regionCode": "64",
+    "regionTvd": "100100084849188",
+    "regionName": "Саратовская область",
     "uikCount": 61,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 47340,
@@ -498,6 +516,9 @@ export const president_2018_tic_227_region_64 = [
     "ballot": "presidential",
     "tikTvd": "26420001402290",
     "tikName": "Воскресенская",
+    "regionCode": "64",
+    "regionTvd": "100100084849188",
+    "regionName": "Саратовская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 8717,
@@ -560,6 +581,9 @@ export const president_2018_tic_227_region_64 = [
     "ballot": "presidential",
     "tikTvd": "26420001402291",
     "tikName": "Краснокутская",
+    "regionCode": "64",
+    "regionTvd": "100100084849188",
+    "regionName": "Саратовская область",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 25680,
@@ -642,6 +666,9 @@ export const president_2018_tic_227_region_64 = [
     "ballot": "presidential",
     "tikTvd": "26420001402292",
     "tikName": "Романовская",
+    "regionCode": "64",
+    "regionTvd": "100100084849188",
+    "regionName": "Саратовская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10497,
@@ -710,6 +737,9 @@ export const president_2018_tic_227_region_64 = [
     "ballot": "presidential",
     "tikTvd": "26420001402293",
     "tikName": "Базарно-Карабулакская",
+    "regionCode": "64",
+    "regionTvd": "100100084849188",
+    "regionName": "Саратовская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 23890,
@@ -784,6 +814,9 @@ export const president_2018_tic_227_region_64 = [
     "ballot": "presidential",
     "tikTvd": "26420001402294",
     "tikName": "Пугачевская",
+    "regionCode": "64",
+    "regionTvd": "100100084849188",
+    "regionName": "Саратовская область",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 42224,
@@ -878,6 +911,9 @@ export const president_2018_tic_227_region_64 = [
     "ballot": "presidential",
     "tikTvd": "26420001402295",
     "tikName": "Шиханская",
+    "regionCode": "64",
+    "regionTvd": "100100084849188",
+    "regionName": "Саратовская область",
     "uikCount": 2,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 4669,
@@ -924,6 +960,9 @@ export const president_2018_tic_227_region_64 = [
     "ballot": "presidential",
     "tikTvd": "26420001402296",
     "tikName": "Новоузенская",
+    "regionCode": "64",
+    "regionTvd": "100100084849188",
+    "regionName": "Саратовская область",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 22764,
@@ -1018,6 +1057,9 @@ export const president_2018_tic_227_region_64 = [
     "ballot": "presidential",
     "tikTvd": "26420001402297",
     "tikName": "Энгельсская",
+    "regionCode": "64",
+    "regionTvd": "100100084849188",
+    "regionName": "Саратовская область",
     "uikCount": 140,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 216262,
@@ -1202,6 +1244,9 @@ export const president_2018_tic_227_region_64 = [
     "ballot": "presidential",
     "tikTvd": "26420001402298",
     "tikName": "Александрово-Гайская",
+    "regionCode": "64",
+    "regionTvd": "100100084849188",
+    "regionName": "Саратовская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 11489,
@@ -1268,6 +1313,9 @@ export const president_2018_tic_227_region_64 = [
     "ballot": "presidential",
     "tikTvd": "26420001402299",
     "tikName": "Перелюбская",
+    "regionCode": "64",
+    "regionTvd": "100100084849188",
+    "regionName": "Саратовская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 11635,
@@ -1335,6 +1383,9 @@ export const president_2018_tic_227_region_64 = [
     "ballot": "presidential",
     "tikTvd": "26420001402300",
     "tikName": "Аркадакская",
+    "regionCode": "64",
+    "regionTvd": "100100084849188",
+    "regionName": "Саратовская область",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 18445,
@@ -1411,6 +1462,9 @@ export const president_2018_tic_227_region_64 = [
     "ballot": "presidential",
     "tikTvd": "26420001402301",
     "tikName": "Озинская",
+    "regionCode": "64",
+    "regionTvd": "100100084849188",
+    "regionName": "Саратовская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 15251,
@@ -1484,6 +1538,9 @@ export const president_2018_tic_227_region_64 = [
     "ballot": "presidential",
     "tikTvd": "26420001402302",
     "tikName": "Ртищевская",
+    "regionCode": "64",
+    "regionTvd": "100100084849188",
+    "regionName": "Саратовская область",
     "uikCount": 55,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 41184,
@@ -1583,6 +1640,9 @@ export const president_2018_tic_227_region_64 = [
     "ballot": "presidential",
     "tikTvd": "26420001402303",
     "tikName": "Светловская",
+    "regionCode": "64",
+    "regionTvd": "100100084849188",
+    "regionName": "Саратовская область",
     "uikCount": 4,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 8671,
@@ -1631,6 +1691,9 @@ export const president_2018_tic_227_region_64 = [
     "ballot": "presidential",
     "tikTvd": "26420001402304",
     "tikName": "Саратов, Октябрьская",
+    "regionCode": "64",
+    "regionTvd": "100100084849188",
+    "regionName": "Саратовская область",
     "uikCount": 56,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 92912,
@@ -1731,6 +1794,9 @@ export const president_2018_tic_227_region_64 = [
     "ballot": "presidential",
     "tikTvd": "26420001402305",
     "tikName": "Михайловская",
+    "regionCode": "64",
+    "regionTvd": "100100084849188",
+    "regionName": "Саратовская область",
     "uikCount": 2,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 1345,
@@ -1777,6 +1843,9 @@ export const president_2018_tic_227_region_64 = [
     "ballot": "presidential",
     "tikTvd": "26420001402306",
     "tikName": "Балаковская",
+    "regionCode": "64",
+    "regionTvd": "100100084849188",
+    "regionName": "Саратовская область",
     "uikCount": 103,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 159015,
@@ -1924,6 +1993,9 @@ export const president_2018_tic_227_region_64 = [
     "ballot": "presidential",
     "tikTvd": "26420001402307",
     "tikName": "Саратов, Ленинская",
+    "regionCode": "64",
+    "regionTvd": "100100084849188",
+    "regionName": "Саратовская область",
     "uikCount": 116,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 211187,
@@ -2084,6 +2156,9 @@ export const president_2018_tic_227_region_64 = [
     "ballot": "presidential",
     "tikTvd": "26420001402308",
     "tikName": "Балтайская",
+    "regionCode": "64",
+    "regionTvd": "100100084849188",
+    "regionName": "Саратовская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 8990,
@@ -2149,6 +2224,9 @@ export const president_2018_tic_227_region_64 = [
     "ballot": "presidential",
     "tikTvd": "26420001402309",
     "tikName": "Духовницкая",
+    "regionCode": "64",
+    "regionTvd": "100100084849188",
+    "regionName": "Саратовская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10385,
@@ -2214,6 +2292,9 @@ export const president_2018_tic_227_region_64 = [
     "ballot": "presidential",
     "tikTvd": "26420001402310",
     "tikName": "Краснопартизанская",
+    "regionCode": "64",
+    "regionTvd": "100100084849188",
+    "regionName": "Саратовская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10048,
@@ -2281,6 +2362,9 @@ export const president_2018_tic_227_region_64 = [
     "ballot": "presidential",
     "tikTvd": "26420001402311",
     "tikName": "Самойловская",
+    "regionCode": "64",
+    "regionTvd": "100100084849188",
+    "regionName": "Саратовская область",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 15181,
@@ -2364,6 +2448,9 @@ export const president_2018_tic_227_region_64 = [
     "ballot": "presidential",
     "tikTvd": "26420001402312",
     "tikName": "Красноармейская",
+    "regionCode": "64",
+    "regionTvd": "100100084849188",
+    "regionName": "Саратовская область",
     "uikCount": 48,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 30819,
@@ -2456,6 +2543,9 @@ export const president_2018_tic_227_region_64 = [
     "ballot": "presidential",
     "tikTvd": "26420001402313",
     "tikName": "Хвалынская",
+    "regionCode": "64",
+    "regionTvd": "100100084849188",
+    "regionName": "Саратовская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 18594,
@@ -2523,6 +2613,9 @@ export const president_2018_tic_227_region_64 = [
     "ballot": "presidential",
     "tikTvd": "26420001402314",
     "tikName": "Ершовская",
+    "regionCode": "64",
+    "regionTvd": "100100084849188",
+    "regionName": "Саратовская область",
     "uikCount": 52,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 30643,
@@ -2619,6 +2712,9 @@ export const president_2018_tic_227_region_64 = [
     "ballot": "presidential",
     "tikTvd": "26420001402315",
     "tikName": "Калининская",
+    "regionCode": "64",
+    "regionTvd": "100100084849188",
+    "regionName": "Саратовская область",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 27165,
@@ -2707,6 +2803,9 @@ export const president_2018_tic_227_region_64 = [
     "ballot": "presidential",
     "tikTvd": "26420001402316",
     "tikName": "Вольская",
+    "regionCode": "64",
+    "regionTvd": "100100084849188",
+    "regionName": "Саратовская область",
     "uikCount": 78,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 61741,
@@ -2829,6 +2928,9 @@ export const president_2018_tic_227_region_64 = [
     "ballot": "presidential",
     "tikTvd": "26420001402317",
     "tikName": "Екатериновская",
+    "regionCode": "64",
+    "regionTvd": "100100084849188",
+    "regionName": "Саратовская область",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 14174,
@@ -2900,6 +3002,9 @@ export const president_2018_tic_227_region_64 = [
     "ballot": "presidential",
     "tikTvd": "26420001402318",
     "tikName": "Саратов, Фрунзенская",
+    "regionCode": "64",
+    "regionTvd": "100100084849188",
+    "regionName": "Саратовская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 38684,
@@ -2969,6 +3074,9 @@ export const president_2018_tic_227_region_64 = [
     "ballot": "presidential",
     "tikTvd": "26420001402319",
     "tikName": "Саратов, Волжская",
+    "regionCode": "64",
+    "regionTvd": "100100084849188",
+    "regionName": "Саратовская область",
     "uikCount": 47,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 75681,
@@ -3060,6 +3168,9 @@ export const president_2018_tic_227_region_64 = [
     "ballot": "presidential",
     "tikTvd": "26420001402320",
     "tikName": "Новобурасская",
+    "regionCode": "64",
+    "regionTvd": "100100084849188",
+    "regionName": "Саратовская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 12389,
@@ -3129,6 +3240,9 @@ export const president_2018_tic_227_region_64 = [
     "ballot": "presidential",
     "tikTvd": "26420001402321",
     "tikName": "Лысогорская",
+    "regionCode": "64",
+    "regionTvd": "100100084849188",
+    "regionName": "Саратовская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 14737,
@@ -3201,6 +3315,9 @@ export const president_2018_tic_227_region_64 = [
     "ballot": "presidential",
     "tikTvd": "26420001402322",
     "tikName": "Саратовская",
+    "regionCode": "64",
+    "regionTvd": "100100084849188",
+    "regionName": "Саратовская область",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 37677,
@@ -3284,6 +3401,9 @@ export const president_2018_tic_227_region_64 = [
     "ballot": "presidential",
     "tikTvd": "26420001402323",
     "tikName": "Турковская",
+    "regionCode": "64",
+    "regionTvd": "100100084849188",
+    "regionName": "Саратовская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9399,
@@ -3343,6 +3463,9 @@ export const president_2018_tic_227_region_64 = [
     "ballot": "presidential",
     "tikTvd": "26420001402324",
     "tikName": "Дергачевская",
+    "regionCode": "64",
+    "regionTvd": "100100084849188",
+    "regionName": "Саратовская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 16845,
@@ -3417,6 +3540,9 @@ export const president_2018_tic_227_region_64 = [
     "ballot": "presidential",
     "tikTvd": "26420001402325",
     "tikName": "Балашовская",
+    "regionCode": "64",
+    "regionTvd": "100100084849188",
+    "regionName": "Саратовская область",
     "uikCount": 85,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 82398,
@@ -3546,6 +3672,9 @@ export const president_2018_tic_227_region_64 = [
     "ballot": "presidential",
     "tikTvd": "26420001402326",
     "tikName": "Ровенская",
+    "regionCode": "64",
+    "regionTvd": "100100084849188",
+    "regionName": "Саратовская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 13090,
@@ -3615,6 +3744,9 @@ export const president_2018_tic_227_region_64 = [
     "ballot": "presidential",
     "tikTvd": "26420001402327",
     "tikName": "Советская",
+    "regionCode": "64",
+    "regionTvd": "100100084849188",
+    "regionName": "Саратовская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 20679,
@@ -3679,6 +3811,9 @@ export const president_2018_tic_227_region_64 = [
     "ballot": "presidential",
     "tikTvd": "26420001402328",
     "tikName": "Саратов, Заводская",
+    "regionCode": "64",
+    "regionTvd": "100100084849188",
+    "regionName": "Саратовская область",
     "uikCount": 71,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 147110,
@@ -3794,6 +3929,9 @@ export const president_2018_tic_227_region_64 = [
     "ballot": "presidential",
     "tikTvd": "26420001402329",
     "tikName": "Саратов, Кировская",
+    "regionCode": "64",
+    "regionTvd": "100100084849188",
+    "regionName": "Саратовская область",
     "uikCount": 62,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 104318,
@@ -3900,6 +4038,9 @@ export const president_2018_tic_227_region_64 = [
     "ballot": "presidential",
     "tikTvd": "26420001402330",
     "tikName": "Питерская",
+    "regionCode": "64",
+    "regionTvd": "100100084849188",
+    "regionName": "Саратовская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 12095,

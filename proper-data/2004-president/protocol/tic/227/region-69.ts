@@ -11,6 +11,9 @@ export const president_2004_tic_227_region_69 = [
     "ballot": "presidential",
     "tikTvd": "269200083427",
     "tikName": "Спировская",
+    "regionCode": "69",
+    "regionTvd": "1001000882991",
+    "regionName": "Тверская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список": 10778,
@@ -83,6 +86,9 @@ export const president_2004_tic_227_region_69 = [
     "ballot": "presidential",
     "tikTvd": "269200083428",
     "tikName": "Старицкая",
+    "regionCode": "69",
+    "regionTvd": "1001000882991",
+    "regionName": "Тверская область",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в список": 19169,
@@ -169,6 +175,9 @@ export const president_2004_tic_227_region_69 = [
     "ballot": "presidential",
     "tikTvd": "269200083429",
     "tikName": "Тверь, Заволжская",
+    "regionCode": "69",
+    "regionTvd": "1001000882991",
+    "regionName": "Тверская область",
     "uikCount": 53,
     "accounting": {
       "Число избирателей, внесенных в список": 118058,
@@ -270,6 +279,9 @@ export const president_2004_tic_227_region_69 = [
     "ballot": "presidential",
     "tikTvd": "269200083430",
     "tikName": "Тверь, Московская",
+    "regionCode": "69",
+    "regionTvd": "1001000882991",
+    "regionName": "Тверская область",
     "uikCount": 58,
     "accounting": {
       "Число избирателей, внесенных в список": 101700,
@@ -376,6 +388,9 @@ export const president_2004_tic_227_region_69 = [
     "ballot": "presidential",
     "tikTvd": "269200083431",
     "tikName": "Тверь, Пролетарская",
+    "regionCode": "69",
+    "regionTvd": "1001000882991",
+    "regionName": "Тверская область",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в список": 78964,
@@ -463,6 +478,9 @@ export const president_2004_tic_227_region_69 = [
     "ballot": "presidential",
     "tikTvd": "269200083432",
     "tikName": "Тверь, Центральная",
+    "regionCode": "69",
+    "regionTvd": "1001000882991",
+    "regionName": "Тверская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список": 49432,
@@ -537,6 +555,9 @@ export const president_2004_tic_227_region_69 = [
     "ballot": "presidential",
     "tikTvd": "269200083433",
     "tikName": "Торжокская",
+    "regionCode": "69",
+    "regionTvd": "1001000882991",
+    "regionName": "Тверская область",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, внесенных в список": 17397,
@@ -626,6 +647,9 @@ export const president_2004_tic_227_region_69 = [
     "ballot": "presidential",
     "tikTvd": "269200083434",
     "tikName": "Торжокская городская",
+    "regionCode": "69",
+    "regionTvd": "1001000882991",
+    "regionName": "Тверская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список": 38660,
@@ -692,6 +716,9 @@ export const president_2004_tic_227_region_69 = [
     "ballot": "presidential",
     "tikTvd": "269200083435",
     "tikName": "Торопецкая",
+    "regionCode": "69",
+    "regionTvd": "1001000882991",
+    "regionName": "Тверская область",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, внесенных в список": 19265,
@@ -783,6 +810,9 @@ export const president_2004_tic_227_region_69 = [
     "ballot": "presidential",
     "tikTvd": "269200083436",
     "tikName": "Удомельская",
+    "regionCode": "69",
+    "regionTvd": "1001000882991",
+    "regionName": "Тверская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в список": 34500,
@@ -865,6 +895,9 @@ export const president_2004_tic_227_region_69 = [
     "ballot": "presidential",
     "tikTvd": "269200083437",
     "tikName": "Фировская",
+    "regionCode": "69",
+    "regionTvd": "1001000882991",
+    "regionName": "Тверская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список": 9345,
@@ -928,6 +961,9 @@ export const president_2004_tic_227_region_69 = [
     "ballot": "presidential",
     "tikTvd": "269200083438",
     "tikName": "Кувшиновская",
+    "regionCode": "69",
+    "regionTvd": "1001000882991",
+    "regionName": "Тверская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список": 14112,
@@ -1001,6 +1037,9 @@ export const president_2004_tic_227_region_69 = [
     "ballot": "presidential",
     "tikTvd": "269200083439",
     "tikName": "Лесная",
+    "regionCode": "69",
+    "regionTvd": "1001000882991",
+    "regionName": "Тверская область",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в список": 5301,
@@ -1062,6 +1101,9 @@ export const president_2004_tic_227_region_69 = [
     "ballot": "presidential",
     "tikTvd": "269200083440",
     "tikName": "Лихославльская",
+    "regionCode": "69",
+    "regionTvd": "1001000882991",
+    "regionName": "Тверская область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список": 23757,
@@ -1146,6 +1188,9 @@ export const president_2004_tic_227_region_69 = [
     "ballot": "presidential",
     "tikTvd": "269200083441",
     "tikName": "Максатихинская",
+    "regionCode": "69",
+    "regionTvd": "1001000882991",
+    "regionName": "Тверская область",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в список": 16261,
@@ -1226,6 +1271,9 @@ export const president_2004_tic_227_region_69 = [
     "ballot": "presidential",
     "tikTvd": "269200083442",
     "tikName": "Молоковская",
+    "regionCode": "69",
+    "regionTvd": "1001000882991",
+    "regionName": "Тверская область",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в список": 5428,
@@ -1290,6 +1338,9 @@ export const president_2004_tic_227_region_69 = [
     "ballot": "presidential",
     "tikTvd": "269200083443",
     "tikName": "Нелидовская",
+    "regionCode": "69",
+    "regionTvd": "1001000882991",
+    "regionName": "Тверская область",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, внесенных в список": 27822,
@@ -1379,6 +1430,9 @@ export const president_2004_tic_227_region_69 = [
     "ballot": "presidential",
     "tikTvd": "269200083444",
     "tikName": "Озерная поселковая",
+    "regionCode": "69",
+    "regionTvd": "1001000882991",
+    "regionName": "Тверская область",
     "uikCount": 4,
     "accounting": {
       "Число избирателей, внесенных в список": 8771,
@@ -1431,6 +1485,9 @@ export const president_2004_tic_227_region_69 = [
     "ballot": "presidential",
     "tikTvd": "269200083445",
     "tikName": "Оленинская",
+    "regionCode": "69",
+    "regionTvd": "1001000882991",
+    "regionName": "Тверская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список": 11352,
@@ -1505,6 +1562,9 @@ export const president_2004_tic_227_region_69 = [
     "ballot": "presidential",
     "tikTvd": "269200083446",
     "tikName": "Осташковская",
+    "regionCode": "69",
+    "regionTvd": "1001000882991",
+    "regionName": "Тверская область",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в список": 23040,
@@ -1588,6 +1648,9 @@ export const president_2004_tic_227_region_69 = [
     "ballot": "presidential",
     "tikTvd": "269200083447",
     "tikName": "Пеновская",
+    "regionCode": "69",
+    "regionTvd": "1001000882991",
+    "regionName": "Тверская область",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в список": 6477,
@@ -1650,6 +1713,9 @@ export const president_2004_tic_227_region_69 = [
     "ballot": "presidential",
     "tikTvd": "269200083448",
     "tikName": "Рамешковская",
+    "regionCode": "69",
+    "regionTvd": "1001000882991",
+    "regionName": "Тверская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список": 11788,
@@ -1721,6 +1787,9 @@ export const president_2004_tic_227_region_69 = [
     "ballot": "presidential",
     "tikTvd": "269200083449",
     "tikName": "Ржевская",
+    "regionCode": "69",
+    "regionTvd": "1001000882991",
+    "regionName": "Тверская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в список": 10995,
@@ -1800,6 +1869,9 @@ export const president_2004_tic_227_region_69 = [
     "ballot": "presidential",
     "tikTvd": "269200083450",
     "tikName": "Ржевская городская",
+    "regionCode": "69",
+    "regionTvd": "1001000882991",
+    "regionName": "Тверская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в список": 52983,
@@ -1882,6 +1954,9 @@ export const president_2004_tic_227_region_69 = [
     "ballot": "presidential",
     "tikTvd": "269200083451",
     "tikName": "Сандовская",
+    "regionCode": "69",
+    "regionTvd": "1001000882991",
+    "regionName": "Тверская область",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в список": 7143,
@@ -1947,6 +2022,9 @@ export const president_2004_tic_227_region_69 = [
     "ballot": "presidential",
     "tikTvd": "269200083452",
     "tikName": "Селижаровская",
+    "regionCode": "69",
+    "regionTvd": "1001000882991",
+    "regionName": "Тверская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список": 11794,
@@ -2023,6 +2101,9 @@ export const president_2004_tic_227_region_69 = [
     "ballot": "presidential",
     "tikTvd": "269200083454",
     "tikName": "Сонковская",
+    "regionCode": "69",
+    "regionTvd": "1001000882991",
+    "regionName": "Тверская область",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в список": 8031,
@@ -2085,6 +2166,9 @@ export const president_2004_tic_227_region_69 = [
     "ballot": "presidential",
     "tikTvd": "269200083455",
     "tikName": "Андреапольская",
+    "regionCode": "69",
+    "regionTvd": "1001000882991",
+    "regionName": "Тверская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в список": 12283,
@@ -2164,6 +2248,9 @@ export const president_2004_tic_227_region_69 = [
     "ballot": "presidential",
     "tikTvd": "269200083456",
     "tikName": "Бежецкая",
+    "regionCode": "69",
+    "regionTvd": "1001000882991",
+    "regionName": "Тверская область",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, внесенных в список": 34567,
@@ -2256,6 +2343,9 @@ export const president_2004_tic_227_region_69 = [
     "ballot": "presidential",
     "tikTvd": "269200083457",
     "tikName": "Бельская",
+    "regionCode": "69",
+    "regionTvd": "1001000882991",
+    "regionName": "Тверская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список": 6474,
@@ -2322,6 +2412,9 @@ export const president_2004_tic_227_region_69 = [
     "ballot": "presidential",
     "tikTvd": "269200083458",
     "tikName": "Бологовская",
+    "regionCode": "69",
+    "regionTvd": "1001000882991",
+    "regionName": "Тверская область",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, внесенных в список": 36062,
@@ -2412,6 +2505,9 @@ export const president_2004_tic_227_region_69 = [
     "ballot": "presidential",
     "tikTvd": "269200083459",
     "tikName": "Весьегонская",
+    "regionCode": "69",
+    "regionTvd": "1001000882991",
+    "regionName": "Тверская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список": 13179,
@@ -2483,6 +2579,9 @@ export const president_2004_tic_227_region_69 = [
     "ballot": "presidential",
     "tikTvd": "269200083460",
     "tikName": "Вышневолоцкая",
+    "regionCode": "69",
+    "regionTvd": "1001000882991",
+    "regionName": "Тверская область",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в список": 23462,
@@ -2568,6 +2667,9 @@ export const president_2004_tic_227_region_69 = [
     "ballot": "presidential",
     "tikTvd": "269200083461",
     "tikName": "Вышневолоцкая городская",
+    "regionCode": "69",
+    "regionTvd": "1001000882991",
+    "regionName": "Тверская область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список": 46044,
@@ -2652,6 +2754,9 @@ export const president_2004_tic_227_region_69 = [
     "ballot": "presidential",
     "tikTvd": "269200083462",
     "tikName": "Жарковская",
+    "regionCode": "69",
+    "regionTvd": "1001000882991",
+    "regionName": "Тверская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список": 5923,
@@ -2718,6 +2823,9 @@ export const president_2004_tic_227_region_69 = [
     "ballot": "presidential",
     "tikTvd": "269200083463",
     "tikName": "Западнодвинская",
+    "regionCode": "69",
+    "regionTvd": "1001000882991",
+    "regionName": "Тверская область",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в список": 15701,
@@ -2799,6 +2907,9 @@ export const president_2004_tic_227_region_69 = [
     "ballot": "presidential",
     "tikTvd": "269200083464",
     "tikName": "Зубцовская",
+    "regionCode": "69",
+    "regionTvd": "1001000882991",
+    "regionName": "Тверская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в список": 14850,
@@ -2881,6 +2992,9 @@ export const president_2004_tic_227_region_69 = [
     "ballot": "presidential",
     "tikTvd": "269200083465",
     "tikName": "Калининская",
+    "regionCode": "69",
+    "regionTvd": "1001000882991",
+    "regionName": "Тверская область",
     "uikCount": 57,
     "accounting": {
       "Число избирателей, внесенных в список": 42445,
@@ -2986,6 +3100,9 @@ export const president_2004_tic_227_region_69 = [
     "ballot": "presidential",
     "tikTvd": "269200083466",
     "tikName": "Калязинская",
+    "regionCode": "69",
+    "regionTvd": "1001000882991",
+    "regionName": "Тверская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список": 18894,
@@ -3063,6 +3180,9 @@ export const president_2004_tic_227_region_69 = [
     "ballot": "presidential",
     "tikTvd": "269200083467",
     "tikName": "Кашинская",
+    "regionCode": "69",
+    "regionTvd": "1001000882991",
+    "regionName": "Тверская область",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, внесенных в список": 24553,
@@ -3154,6 +3274,9 @@ export const president_2004_tic_227_region_69 = [
     "ballot": "presidential",
     "tikTvd": "269200083468",
     "tikName": "Кесовогорская",
+    "regionCode": "69",
+    "regionTvd": "1001000882991",
+    "regionName": "Тверская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список": 7015,
@@ -3220,6 +3343,9 @@ export const president_2004_tic_227_region_69 = [
     "ballot": "presidential",
     "tikTvd": "269200083469",
     "tikName": "Кимрская",
+    "regionCode": "69",
+    "regionTvd": "1001000882991",
+    "regionName": "Тверская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список": 12738,
@@ -3291,6 +3417,9 @@ export const president_2004_tic_227_region_69 = [
     "ballot": "presidential",
     "tikTvd": "269200083470",
     "tikName": "Кимрская городская",
+    "regionCode": "69",
+    "regionTvd": "1001000882991",
+    "regionName": "Тверская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список": 46320,
@@ -3361,6 +3490,9 @@ export const president_2004_tic_227_region_69 = [
     "ballot": "presidential",
     "tikTvd": "269200083471",
     "tikName": "Конаковская",
+    "regionCode": "69",
+    "regionTvd": "1001000882991",
+    "regionName": "Тверская область",
     "uikCount": 56,
     "accounting": {
       "Число избирателей, внесенных в список": 76694,
@@ -3465,6 +3597,9 @@ export const president_2004_tic_227_region_69 = [
     "ballot": "presidential",
     "tikTvd": "269200083472",
     "tikName": "Краснохолмская",
+    "regionCode": "69",
+    "regionTvd": "1001000882991",
+    "regionName": "Тверская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список": 11610,

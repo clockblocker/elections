@@ -2,6 +2,7 @@ import type { Point, PointEstimate, ProtocolDetail } from "../types";
 
 const number = new Intl.NumberFormat("en-US", { maximumFractionDigits: 0 });
 const percent = new Intl.NumberFormat("en-US", { maximumFractionDigits: 2 });
+const score = new Intl.NumberFormat("en-US", { style: "percent", maximumFractionDigits: 2 });
 const labels: Record<string, string> = {
   registeredVoters: "Registered voters", ballotsReceived: "Ballots received",
   ballotsIssuedEarly: "Issued early", ballotsIssuedAtStation: "Issued at station",
@@ -23,8 +24,24 @@ export function ProtocolPanel({ point, estimate, detail, loading, onClose }: {
   </aside>;
   return <aside className="protocol-panel">
     <header><div><span className="eyebrow">Pinned physical precinct</span><h2>UIK {point.uikNumber}</h2><p>{point.regionName}<br />{point.tikName}</p></div><button className="close" onClick={onClose} aria-label="Close protocol">×</button></header>
-    <div className="point-metrics"><div><span>Turnout</span><strong>{percent.format(point.turnout)}%</strong></div><div><span>Result</span><strong>{percent.format(point.result)}%</strong></div><div><span>Party votes</span><strong>{number.format(point.optionVotes)}</strong></div></div>
-    {estimate && <section className="estimate-card"><span>Model estimate · {estimate.baselineSource}</span><div><strong>{number.format(estimate.excessVotes)}</strong> positive deviation votes</div><small>Expected {number.format(estimate.expectedVotes)} from reference odds</small></section>}
+    <div className="point-metrics"><div><span>Turnout</span><strong>{point.turnout === null ? "—" : `${percent.format(point.turnout)}%`}</strong></div><div><span>Result</span><strong>{point.result === null ? "—" : `${percent.format(point.result)}%`}</strong></div><div><span>Party votes</span><strong>{number.format(point.optionVotes)}</strong></div></div>
+    {estimate?.status === "scored" && <section className="estimate-card clt-card">
+      <div className="score-line"><span><small>P_sus grade</small><strong>{estimate.grade}</strong></span><b>{score.format(estimate.pSus ?? 0)}</b></div>
+      <p>Peer-model incompatibility percentile—not a probability of fraud.</p>
+      <div className="actual-expected"><span><small>Actual</small><strong>{number.format(estimate.observedVotes)}</strong></span><i>vs</i><span><small>Expected</small><strong>{number.format(estimate.expectedVotes ?? 0)}</strong></span></div>
+      <dl className="model-diagnostics">
+        <div><dt>95% predictive interval</dt><dd>{number.format(estimate.interval95?.[0] ?? 0)}–{number.format(estimate.interval95?.[1] ?? 0)}</dd></div>
+        <div><dt>Residual</dt><dd>{(estimate.residualVotes ?? 0) >= 0 ? "+" : ""}{number.format(estimate.residualVotes ?? 0)} votes</dd></div>
+        <div><dt>Standardized residual</dt><dd>{estimate.zScore?.toFixed(2)} z</dd></div>
+        <div><dt>CLT upper-tail p</dt><dd>{(estimate.pValue ?? 1) < 0.0001 ? (estimate.pValue ?? 1).toExponential(2) : (estimate.pValue ?? 1).toFixed(4)}</dd></div>
+        <div><dt>BY q-value</dt><dd>{(estimate.qValue ?? 1) < 0.0001 ? (estimate.qValue ?? 1).toExponential(2) : (estimate.qValue ?? 1).toFixed(4)}</dd></div>
+        <div><dt>Variance inflation</dt><dd>{estimate.overdispersion?.toFixed(1)}× binomial</dd></div>
+        <div><dt>Peer model</dt><dd>{estimate.baselineSource}</dd></div>
+        <div><dt>Effective peers</dt><dd>{number.format(estimate.peerPrecincts)} UIKs</dd></div>
+      </dl>
+      {estimate.qualityFlags.length > 0 && <div className="quality-flags">{estimate.qualityFlags.map((flag) => <span key={flag}>{flag}</span>)}</div>}
+    </section>}
+    {estimate?.status === "unscored" && <section className="estimate-card unscored-card"><span>P_sus grade · U</span><div><strong>Not scored</strong></div><small>{estimate.reason?.replaceAll("-", " ")}. The protocol remains in coverage and export.</small>{estimate.expectedVotes !== null && <small>Peer expectation was {number.format(estimate.expectedVotes)}, but the CLT success/failure-count gate was not met.</small>}</section>}
     {loading && <div className="panel-loading">Loading preserved protocol…</div>}
     {detail && <>
       <section><h3>Ballot accounting</h3><dl className="accounting">{Object.entries(detail.accounting).map(([key, value]) => <div key={key}><dt>{labels[key] ?? key}</dt><dd>{number.format(value)}</dd></div>)}</dl></section>

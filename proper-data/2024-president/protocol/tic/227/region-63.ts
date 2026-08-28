@@ -11,6 +11,9 @@ export const president_2024_tic_227_region_63 = [
     "ballot": "presidential",
     "tikTvd": "26320002236776",
     "tikName": "Чапаевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100339411255",
+    "regionName": "Самарская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 50797,
@@ -85,6 +88,9 @@ export const president_2024_tic_227_region_63 = [
     "ballot": "presidential",
     "tikTvd": "26320002236777",
     "tikName": "Приволжская",
+    "regionCode": "63",
+    "regionTvd": "100100339411255",
+    "regionName": "Самарская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 15190,
@@ -154,6 +160,9 @@ export const president_2024_tic_227_region_63 = [
     "ballot": "presidential",
     "tikTvd": "26320002236778",
     "tikName": "Богатовская",
+    "regionCode": "63",
+    "regionTvd": "100100339411255",
+    "regionName": "Самарская область",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10543,
@@ -210,6 +219,9 @@ export const president_2024_tic_227_region_63 = [
     "ballot": "presidential",
     "tikTvd": "26320002236779",
     "tikName": "Клявлинская",
+    "regionCode": "63",
+    "regionTvd": "100100339411255",
+    "regionName": "Самарская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9507,
@@ -273,6 +285,9 @@ export const president_2024_tic_227_region_63 = [
     "ballot": "presidential",
     "tikTvd": "26320002236780",
     "tikName": "Тольятти, Комсомольская",
+    "regionCode": "63",
+    "regionTvd": "100100339411255",
+    "regionName": "Самарская область",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 80660,
@@ -348,6 +363,9 @@ export const president_2024_tic_227_region_63 = [
     "ballot": "presidential",
     "tikTvd": "26320002236781",
     "tikName": "Октябрьская городская",
+    "regionCode": "63",
+    "regionTvd": "100100339411255",
+    "regionName": "Самарская область",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 17370,
@@ -405,6 +423,9 @@ export const president_2024_tic_227_region_63 = [
     "ballot": "presidential",
     "tikTvd": "26320002236782",
     "tikName": "Исаклинская",
+    "regionCode": "63",
+    "regionTvd": "100100339411255",
+    "regionName": "Самарская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 8627,
@@ -467,6 +488,9 @@ export const president_2024_tic_227_region_63 = [
     "ballot": "presidential",
     "tikTvd": "26320002236783",
     "tikName": "Красноярская",
+    "regionCode": "63",
+    "regionTvd": "100100339411255",
+    "regionName": "Самарская область",
     "uikCount": 45,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 42260,
@@ -552,6 +576,9 @@ export const president_2024_tic_227_region_63 = [
     "ballot": "presidential",
     "tikTvd": "26320002236784",
     "tikName": "Самара, Куйбышевская",
+    "regionCode": "63",
+    "regionTvd": "100100339411255",
+    "regionName": "Самарская область",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 67194,
@@ -631,6 +658,9 @@ export const president_2024_tic_227_region_63 = [
     "ballot": "presidential",
     "tikTvd": "26320002236785",
     "tikName": "Большеглушицкая",
+    "regionCode": "63",
+    "regionTvd": "100100339411255",
+    "regionName": "Самарская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 12541,
@@ -694,6 +724,9 @@ export const president_2024_tic_227_region_63 = [
     "ballot": "presidential",
     "tikTvd": "26320002236786",
     "tikName": "Самара, Кировская",
+    "regionCode": "63",
+    "regionTvd": "100100339411255",
+    "regionName": "Самарская область",
     "uikCount": 91,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 176371,
@@ -825,6 +858,9 @@ export const president_2024_tic_227_region_63 = [
     "ballot": "presidential",
     "tikTvd": "26320002236787",
     "tikName": "Пестравская",
+    "regionCode": "63",
+    "regionTvd": "100100339411255",
+    "regionName": "Самарская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 11953,
@@ -889,6 +925,9 @@ export const president_2024_tic_227_region_63 = [
     "ballot": "presidential",
     "tikTvd": "26320002236788",
     "tikName": "Шенталинская",
+    "regionCode": "63",
+    "regionTvd": "100100339411255",
+    "regionName": "Самарская область",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9533,
@@ -956,6 +995,9 @@ export const president_2024_tic_227_region_63 = [
     "ballot": "presidential",
     "tikTvd": "26320002236789",
     "tikName": "Алексеевская",
+    "regionCode": "63",
+    "regionTvd": "100100339411255",
+    "regionName": "Самарская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 7675,
@@ -1021,6 +1063,9 @@ export const president_2024_tic_227_region_63 = [
     "ballot": "presidential",
     "tikTvd": "26320002236790",
     "tikName": "Похвистневская городская",
+    "regionCode": "63",
+    "regionTvd": "100100339411255",
+    "regionName": "Самарская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 17625,
@@ -1076,6 +1121,9 @@ export const president_2024_tic_227_region_63 = [
     "ballot": "presidential",
     "tikTvd": "26320002236791",
     "tikName": "Безенчукская",
+    "regionCode": "63",
+    "regionTvd": "100100339411255",
+    "regionName": "Самарская область",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 28091,
@@ -1149,6 +1197,9 @@ export const president_2024_tic_227_region_63 = [
     "ballot": "presidential",
     "tikTvd": "26320002236792",
     "tikName": "Похвистневская",
+    "regionCode": "63",
+    "regionTvd": "100100339411255",
+    "regionName": "Самарская область",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 16194,
@@ -1216,6 +1267,9 @@ export const president_2024_tic_227_region_63 = [
     "ballot": "presidential",
     "tikTvd": "26320002236793",
     "tikName": "Самара, Ленинская",
+    "regionCode": "63",
+    "regionTvd": "100100339411255",
+    "regionName": "Самарская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 53169,
@@ -1277,6 +1331,9 @@ export const president_2024_tic_227_region_63 = [
     "ballot": "presidential",
     "tikTvd": "26320002236794",
     "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "100100339411255",
+    "regionName": "Самарская область",
     "uikCount": 54,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 116262,
@@ -1371,6 +1428,9 @@ export const president_2024_tic_227_region_63 = [
     "ballot": "presidential",
     "tikTvd": "26320002236795",
     "tikName": "Ставропольская",
+    "regionCode": "63",
+    "regionTvd": "100100339411255",
+    "regionName": "Самарская область",
     "uikCount": 45,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 64226,
@@ -1456,6 +1516,9 @@ export const president_2024_tic_227_region_63 = [
     "ballot": "presidential",
     "tikTvd": "26320002236796",
     "tikName": "Большечерниговская",
+    "regionCode": "63",
+    "regionTvd": "100100339411255",
+    "regionName": "Самарская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 12464,
@@ -1520,6 +1583,9 @@ export const president_2024_tic_227_region_63 = [
     "ballot": "presidential",
     "tikTvd": "26320002236797",
     "tikName": "Сергиевская",
+    "regionCode": "63",
+    "regionTvd": "100100339411255",
+    "regionName": "Самарская область",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 32818,
@@ -1595,6 +1661,9 @@ export const president_2024_tic_227_region_63 = [
     "ballot": "presidential",
     "tikTvd": "26320002236798",
     "tikName": "Елховская",
+    "regionCode": "63",
+    "regionTvd": "100100339411255",
+    "regionName": "Самарская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 6173,
@@ -1655,6 +1724,9 @@ export const president_2024_tic_227_region_63 = [
     "ballot": "presidential",
     "tikTvd": "26320002236799",
     "tikName": "Кинель-Черкасская",
+    "regionCode": "63",
+    "regionTvd": "100100339411255",
+    "regionName": "Самарская область",
     "uikCount": 49,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 28315,
@@ -1744,6 +1816,9 @@ export const president_2024_tic_227_region_63 = [
     "ballot": "presidential",
     "tikTvd": "26320002236800",
     "tikName": "Нефтегорская",
+    "regionCode": "63",
+    "regionTvd": "100100339411255",
+    "regionName": "Самарская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 21371,
@@ -1809,6 +1884,9 @@ export const president_2024_tic_227_region_63 = [
     "ballot": "presidential",
     "tikTvd": "26320002236801",
     "tikName": "Самара, Октябрьская",
+    "regionCode": "63",
+    "regionTvd": "100100339411255",
+    "regionName": "Самарская область",
     "uikCount": 54,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 115740,
@@ -1903,6 +1981,9 @@ export const president_2024_tic_227_region_63 = [
     "ballot": "presidential",
     "tikTvd": "26320002236802",
     "tikName": "Красноармейская",
+    "regionCode": "63",
+    "regionTvd": "100100339411255",
+    "regionName": "Самарская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 11256,
@@ -1973,6 +2054,9 @@ export const president_2024_tic_227_region_63 = [
     "ballot": "presidential",
     "tikTvd": "26320002236803",
     "tikName": "Волжская",
+    "regionCode": "63",
+    "regionTvd": "100100339411255",
+    "regionName": "Самарская область",
     "uikCount": 54,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 86868,
@@ -2067,6 +2151,9 @@ export const president_2024_tic_227_region_63 = [
     "ballot": "presidential",
     "tikTvd": "26320002236804",
     "tikName": "Челно-Вершинская",
+    "regionCode": "63",
+    "regionTvd": "100100339411255",
+    "regionName": "Самарская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 11457,
@@ -2135,6 +2222,9 @@ export const president_2024_tic_227_region_63 = [
     "ballot": "presidential",
     "tikTvd": "26320002236805",
     "tikName": "Кинельская городская",
+    "regionCode": "63",
+    "regionTvd": "100100339411255",
+    "regionName": "Самарская область",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 37419,
@@ -2207,6 +2297,9 @@ export const president_2024_tic_227_region_63 = [
     "ballot": "presidential",
     "tikTvd": "26320002236806",
     "tikName": "Кошкинская",
+    "regionCode": "63",
+    "regionTvd": "100100339411255",
+    "regionName": "Самарская область",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 13729,
@@ -2282,6 +2375,9 @@ export const president_2024_tic_227_region_63 = [
     "ballot": "presidential",
     "tikTvd": "26320002236807",
     "tikName": "Шигонская",
+    "regionCode": "63",
+    "regionTvd": "100100339411255",
+    "regionName": "Самарская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 13333,
@@ -2347,6 +2443,9 @@ export const president_2024_tic_227_region_63 = [
     "ballot": "presidential",
     "tikTvd": "26320002236808",
     "tikName": "Жигулевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100339411255",
+    "regionName": "Самарская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 43849,
@@ -2411,6 +2510,9 @@ export const president_2024_tic_227_region_63 = [
     "ballot": "presidential",
     "tikTvd": "26320002236809",
     "tikName": "Кинельская",
+    "regionCode": "63",
+    "regionTvd": "100100339411255",
+    "regionName": "Самарская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 18896,
@@ -2479,6 +2581,9 @@ export const president_2024_tic_227_region_63 = [
     "ballot": "presidential",
     "tikTvd": "26320002236810",
     "tikName": "Сызранская",
+    "regionCode": "63",
+    "regionTvd": "100100339411255",
+    "regionName": "Самарская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 17724,
@@ -2548,6 +2653,9 @@ export const president_2024_tic_227_region_63 = [
     "ballot": "presidential",
     "tikTvd": "26320002236811",
     "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "100100339411255",
+    "regionName": "Самарская область",
     "uikCount": 104,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 206932,
@@ -2692,6 +2800,9 @@ export const president_2024_tic_227_region_63 = [
     "ballot": "presidential",
     "tikTvd": "26320002236812",
     "tikName": "Отрадная городская",
+    "regionCode": "63",
+    "regionTvd": "100100339411255",
+    "regionName": "Самарская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 31388,
@@ -2752,6 +2863,9 @@ export const president_2024_tic_227_region_63 = [
     "ballot": "presidential",
     "tikTvd": "26320002236813",
     "tikName": "Новокуйбышевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100339411255",
+    "regionName": "Самарская область",
     "uikCount": 52,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 77552,
@@ -2844,6 +2958,9 @@ export const president_2024_tic_227_region_63 = [
     "ballot": "presidential",
     "tikTvd": "26320002236814",
     "tikName": "Сызранская городская",
+    "regionCode": "63",
+    "regionTvd": "100100339411255",
+    "regionName": "Самарская область",
     "uikCount": 83,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 121097,
@@ -2967,6 +3084,9 @@ export const president_2024_tic_227_region_63 = [
     "ballot": "presidential",
     "tikTvd": "26320002236815",
     "tikName": "Хворостянская",
+    "regionCode": "63",
+    "regionTvd": "100100339411255",
+    "regionName": "Самарская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9748,
@@ -3029,6 +3149,9 @@ export const president_2024_tic_227_region_63 = [
     "ballot": "presidential",
     "tikTvd": "26320002236816",
     "tikName": "Камышлинская",
+    "regionCode": "63",
+    "regionTvd": "100100339411255",
+    "regionName": "Самарская область",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 6237,
@@ -3083,6 +3206,9 @@ export const president_2024_tic_227_region_63 = [
     "ballot": "presidential",
     "tikTvd": "26320002236817",
     "tikName": "Борская",
+    "regionCode": "63",
+    "regionTvd": "100100339411255",
+    "regionName": "Самарская область",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 14775,
@@ -3155,6 +3281,9 @@ export const president_2024_tic_227_region_63 = [
     "ballot": "presidential",
     "tikTvd": "26320002236818",
     "tikName": "Самара, Красноглинская",
+    "regionCode": "63",
+    "regionTvd": "100100339411255",
+    "regionName": "Самарская область",
     "uikCount": 55,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 88756,
@@ -3250,6 +3379,9 @@ export const president_2024_tic_227_region_63 = [
     "ballot": "presidential",
     "tikTvd": "26320002236819",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100339411255",
+    "regionName": "Самарская область",
     "uikCount": 127,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 318893,
@@ -3417,6 +3549,9 @@ export const president_2024_tic_227_region_63 = [
     "ballot": "presidential",
     "tikTvd": "26320002236820",
     "tikName": "Самара, Самарская",
+    "regionCode": "63",
+    "regionTvd": "100100339411255",
+    "regionName": "Самарская область",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 20838,
@@ -3470,6 +3605,9 @@ export const president_2024_tic_227_region_63 = [
     "ballot": "presidential",
     "tikTvd": "26320002236821",
     "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "100100339411255",
+    "regionName": "Самарская область",
     "uikCount": 65,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 127059,
@@ -3575,6 +3713,9 @@ export const president_2024_tic_227_region_63 = [
     "ballot": "presidential",
     "tikTvd": "26320002236822",
     "tikName": "Самара, Железнодорожная",
+    "regionCode": "63",
+    "regionTvd": "100100339411255",
+    "regionName": "Самарская область",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 79118,

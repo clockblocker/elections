@@ -11,6 +11,9 @@ export const duma_2007_tic_233_region_52 = [
     "ballot": "party",
     "tikTvd": "2522000217990",
     "tikName": "Шатковская",
+    "regionCode": "52",
+    "regionTvd": "100100021960280",
+    "regionName": "Нижегородская область",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 21388,
@@ -103,6 +106,9 @@ export const duma_2007_tic_233_region_52 = [
     "ballot": "party",
     "tikTvd": "2522000217991",
     "tikName": "Сосновская",
+    "regionCode": "52",
+    "regionTvd": "100100021960280",
+    "regionName": "Нижегородская область",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 16317,
@@ -194,6 +200,9 @@ export const duma_2007_tic_233_region_52 = [
     "ballot": "party",
     "tikTvd": "2522000217992",
     "tikName": "Саровская городская",
+    "regionCode": "52",
+    "regionTvd": "100100021960280",
+    "regionName": "Нижегородская область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 76487,
@@ -284,6 +293,9 @@ export const duma_2007_tic_233_region_52 = [
     "ballot": "party",
     "tikTvd": "2522000217993",
     "tikName": "Починковская",
+    "regionCode": "52",
+    "regionTvd": "100100021960280",
+    "regionName": "Нижегородская область",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 25803,
@@ -380,6 +392,9 @@ export const duma_2007_tic_233_region_52 = [
     "ballot": "party",
     "tikTvd": "2522000217994",
     "tikName": "Первомайская",
+    "regionCode": "52",
+    "regionTvd": "100100021960280",
+    "regionName": "Нижегородская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 17078,
@@ -455,6 +470,9 @@ export const duma_2007_tic_233_region_52 = [
     "ballot": "party",
     "tikTvd": "2522000217995",
     "tikName": "Павловская",
+    "regionCode": "52",
+    "regionTvd": "100100021960280",
+    "regionName": "Нижегородская область",
     "uikCount": 68,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 81102,
@@ -577,6 +595,9 @@ export const duma_2007_tic_233_region_52 = [
     "ballot": "party",
     "tikTvd": "2522000217996",
     "tikName": "Навашинская",
+    "regionCode": "52",
+    "regionTvd": "100100021960280",
+    "regionName": "Нижегородская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 20749,
@@ -656,6 +677,9 @@ export const duma_2007_tic_233_region_52 = [
     "ballot": "party",
     "tikTvd": "2522000217997",
     "tikName": "Лукояновская",
+    "regionCode": "52",
+    "regionTvd": "100100021960280",
+    "regionName": "Нижегородская область",
     "uikCount": 47,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 24208,
@@ -757,6 +781,9 @@ export const duma_2007_tic_233_region_52 = [
     "ballot": "party",
     "tikTvd": "2522000217998",
     "tikName": "Кулебакская",
+    "regionCode": "52",
+    "regionTvd": "100100021960280",
+    "regionName": "Нижегородская область",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 44329,
@@ -854,6 +881,9 @@ export const duma_2007_tic_233_region_52 = [
     "ballot": "party",
     "tikTvd": "2522000217999",
     "tikName": "Дивеевская",
+    "regionCode": "52",
+    "regionTvd": "100100021960280",
+    "regionName": "Нижегородская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 13381,
@@ -929,6 +959,9 @@ export const duma_2007_tic_233_region_52 = [
     "ballot": "party",
     "tikTvd": "2522000218000",
     "tikName": "Дальнеконстантиновская",
+    "regionCode": "52",
+    "regionTvd": "100100021960280",
+    "regionName": "Нижегородская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 18090,
@@ -1014,6 +1047,9 @@ export const duma_2007_tic_233_region_52 = [
     "ballot": "party",
     "tikTvd": "2522000218001",
     "tikName": "Гагинская",
+    "regionCode": "52",
+    "regionTvd": "100100021960280",
+    "regionName": "Нижегородская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 11065,
@@ -1108,6 +1144,9 @@ export const duma_2007_tic_233_region_52 = [
     "ballot": "party",
     "tikTvd": "2522000218002",
     "tikName": "Выксунская",
+    "regionCode": "52",
+    "regionTvd": "100100021960280",
+    "regionName": "Нижегородская область",
     "uikCount": 52,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 72056,
@@ -1214,6 +1253,9 @@ export const duma_2007_tic_233_region_52 = [
     "ballot": "party",
     "tikTvd": "2522000218003",
     "tikName": "Вознесенская",
+    "regionCode": "52",
+    "regionTvd": "100100021960280",
+    "regionName": "Нижегородская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 14269,
@@ -1291,6 +1333,9 @@ export const duma_2007_tic_233_region_52 = [
     "ballot": "party",
     "tikTvd": "2522000218004",
     "tikName": "Вачская",
+    "regionCode": "52",
+    "regionTvd": "100100021960280",
+    "regionName": "Нижегородская область",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 16960,
@@ -1380,6 +1425,9 @@ export const duma_2007_tic_233_region_52 = [
     "ballot": "party",
     "tikTvd": "2522000218005",
     "tikName": "Вадская",
+    "regionCode": "52",
+    "regionTvd": "100100021960280",
+    "regionName": "Нижегородская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 11458,
@@ -1453,6 +1501,9 @@ export const duma_2007_tic_233_region_52 = [
     "ballot": "party",
     "tikTvd": "2522000218006",
     "tikName": "Большеболдинская",
+    "regionCode": "52",
+    "regionTvd": "100100021960280",
+    "regionName": "Нижегородская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 9870,
@@ -1535,6 +1586,9 @@ export const duma_2007_tic_233_region_52 = [
     "ballot": "party",
     "tikTvd": "2522000218007",
     "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "100100021960280",
+    "regionName": "Нижегородская область",
     "uikCount": 52,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 54461,
@@ -1641,6 +1695,9 @@ export const duma_2007_tic_233_region_52 = [
     "ballot": "party",
     "tikTvd": "2522000218008",
     "tikName": "Арзамасская городская",
+    "regionCode": "52",
+    "regionTvd": "100100021960280",
+    "regionName": "Нижегородская область",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 85776,
@@ -1741,6 +1798,9 @@ export const duma_2007_tic_233_region_52 = [
     "ballot": "party",
     "tikTvd": "2522000218009",
     "tikName": "Арзамасская",
+    "regionCode": "52",
+    "regionTvd": "100100021960280",
+    "regionName": "Нижегородская область",
     "uikCount": 57,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 35806,
@@ -1852,6 +1912,9 @@ export const duma_2007_tic_233_region_52 = [
     "ballot": "party",
     "tikTvd": "2522000218010",
     "tikName": "Ардатовская",
+    "regionCode": "52",
+    "regionTvd": "100100021960280",
+    "regionName": "Нижегородская область",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 22665,
@@ -1944,6 +2007,9 @@ export const duma_2007_tic_233_region_52 = [
     "ballot": "party",
     "tikTvd": "2522000218011",
     "tikName": "Спасская",
+    "regionCode": "52",
+    "regionTvd": "100100021960280",
+    "regionName": "Нижегородская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 9732,
@@ -2021,6 +2087,9 @@ export const duma_2007_tic_233_region_52 = [
     "ballot": "party",
     "tikTvd": "2522000218012",
     "tikName": "Сеченовская",
+    "regionCode": "52",
+    "regionTvd": "100100021960280",
+    "regionName": "Нижегородская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 13185,
@@ -2104,6 +2173,9 @@ export const duma_2007_tic_233_region_52 = [
     "ballot": "party",
     "tikTvd": "2522000218013",
     "tikName": "Сергачская",
+    "regionCode": "52",
+    "regionTvd": "100100021960280",
+    "regionName": "Нижегородская область",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 26003,
@@ -2202,6 +2274,9 @@ export const duma_2007_tic_233_region_52 = [
     "ballot": "party",
     "tikTvd": "2522000218014",
     "tikName": "Пильнинская",
+    "regionCode": "52",
+    "regionTvd": "100100021960280",
+    "regionName": "Нижегородская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 17866,
@@ -2296,6 +2371,9 @@ export const duma_2007_tic_233_region_52 = [
     "ballot": "party",
     "tikTvd": "2522000218015",
     "tikName": "Перевозская",
+    "regionCode": "52",
+    "regionTvd": "100100021960280",
+    "regionName": "Нижегородская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 12681,
@@ -2371,6 +2449,9 @@ export const duma_2007_tic_233_region_52 = [
     "ballot": "party",
     "tikTvd": "2522000218016",
     "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "100100021960280",
+    "regionName": "Нижегородская область",
     "uikCount": 66,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 144374,
@@ -2491,6 +2572,9 @@ export const duma_2007_tic_233_region_52 = [
     "ballot": "party",
     "tikTvd": "2522000218017",
     "tikName": "Нижний Новгород, Московская",
+    "regionCode": "52",
+    "regionTvd": "100100021960280",
+    "regionName": "Нижегородская область",
     "uikCount": 58,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 111592,
@@ -2603,6 +2687,9 @@ export const duma_2007_tic_233_region_52 = [
     "ballot": "party",
     "tikTvd": "2522000218018",
     "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "100100021960280",
+    "regionName": "Нижегородская область",
     "uikCount": 66,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 130731,
@@ -2723,6 +2810,9 @@ export const duma_2007_tic_233_region_52 = [
     "ballot": "party",
     "tikTvd": "2522000218019",
     "tikName": "Лысковская",
+    "regionCode": "52",
+    "regionTvd": "100100021960280",
+    "regionName": "Нижегородская область",
     "uikCount": 47,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 33046,
@@ -2824,6 +2914,9 @@ export const duma_2007_tic_233_region_52 = [
     "ballot": "party",
     "tikTvd": "2522000218020",
     "tikName": "Кстовская",
+    "regionCode": "52",
+    "regionTvd": "100100021960280",
+    "regionName": "Нижегородская область",
     "uikCount": 73,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 90825,
@@ -2951,6 +3044,9 @@ export const duma_2007_tic_233_region_52 = [
     "ballot": "party",
     "tikTvd": "2522000218021",
     "tikName": "Краснооктябрьская",
+    "regionCode": "52",
+    "regionTvd": "100100021960280",
+    "regionName": "Нижегородская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 9974,
@@ -3034,6 +3130,9 @@ export const duma_2007_tic_233_region_52 = [
     "ballot": "party",
     "tikTvd": "2522000218022",
     "tikName": "Княгининская",
+    "regionCode": "52",
+    "regionTvd": "100100021960280",
+    "regionName": "Нижегородская область",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 9981,
@@ -3105,6 +3204,9 @@ export const duma_2007_tic_233_region_52 = [
     "ballot": "party",
     "tikTvd": "2522000218023",
     "tikName": "Бутурлинская",
+    "regionCode": "52",
+    "regionTvd": "100100021960280",
+    "regionName": "Нижегородская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 11723,
@@ -3185,6 +3287,9 @@ export const duma_2007_tic_233_region_52 = [
     "ballot": "party",
     "tikTvd": "2522000218024",
     "tikName": "Борская",
+    "regionCode": "52",
+    "regionTvd": "100100021960280",
+    "regionName": "Нижегородская область",
     "uikCount": 75,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 99750,
@@ -3314,6 +3419,9 @@ export const duma_2007_tic_233_region_52 = [
     "ballot": "party",
     "tikTvd": "2522000218025",
     "tikName": "Большемурашкинская",
+    "regionCode": "52",
+    "regionTvd": "100100021960280",
+    "regionName": "Нижегородская область",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 9479,
@@ -3385,6 +3493,9 @@ export const duma_2007_tic_233_region_52 = [
     "ballot": "party",
     "tikTvd": "2522000218026",
     "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "100100021960280",
+    "regionName": "Нижегородская область",
     "uikCount": 59,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 125532,
@@ -3498,6 +3609,9 @@ export const duma_2007_tic_233_region_52 = [
     "ballot": "party",
     "tikTvd": "2522000218027",
     "tikName": "Нижний Новгород, Приокская",
+    "regionCode": "52",
+    "regionTvd": "100100021960280",
+    "regionName": "Нижегородская область",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 82373,
@@ -3591,6 +3705,9 @@ export const duma_2007_tic_233_region_52 = [
     "ballot": "party",
     "tikTvd": "2522000218028",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100021960280",
+    "regionName": "Нижегородская область",
     "uikCount": 98,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 108892,
@@ -3743,6 +3860,9 @@ export const duma_2007_tic_233_region_52 = [
     "ballot": "party",
     "tikTvd": "2522000218029",
     "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "100100021960280",
+    "regionName": "Нижегородская область",
     "uikCount": 62,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 127183,
@@ -3859,6 +3979,9 @@ export const duma_2007_tic_233_region_52 = [
     "ballot": "party",
     "tikTvd": "2522000218030",
     "tikName": "Нижний Новгород, Автозаводская Южная",
+    "regionCode": "52",
+    "regionTvd": "100100021960280",
+    "regionName": "Нижегородская область",
     "uikCount": 60,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 128926,
@@ -3973,6 +4096,9 @@ export const duma_2007_tic_233_region_52 = [
     "ballot": "party",
     "tikTvd": "2522000218031",
     "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "100100021960280",
+    "regionName": "Нижегородская область",
     "uikCount": 58,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 127089,
@@ -4085,6 +4211,9 @@ export const duma_2007_tic_233_region_52 = [
     "ballot": "party",
     "tikTvd": "2522000218033",
     "tikName": "Шахунская",
+    "regionCode": "52",
+    "regionTvd": "100100021960280",
+    "regionName": "Нижегородская область",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 35391,
@@ -4176,6 +4305,9 @@ export const duma_2007_tic_233_region_52 = [
     "ballot": "party",
     "tikTvd": "2522000218034",
     "tikName": "Шарангская",
+    "regionCode": "52",
+    "regionTvd": "100100021960280",
+    "regionName": "Нижегородская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 9918,
@@ -4251,6 +4383,9 @@ export const duma_2007_tic_233_region_52 = [
     "ballot": "party",
     "tikTvd": "2522000218035",
     "tikName": "Чкаловская",
+    "regionCode": "52",
+    "regionTvd": "100100021960280",
+    "regionName": "Нижегородская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 20397,
@@ -4325,6 +4460,9 @@ export const duma_2007_tic_233_region_52 = [
     "ballot": "party",
     "tikTvd": "2522000218036",
     "tikName": "Уренская",
+    "regionCode": "52",
+    "regionTvd": "100100021960280",
+    "regionName": "Нижегородская область",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 23663,
@@ -4417,6 +4555,9 @@ export const duma_2007_tic_233_region_52 = [
     "ballot": "party",
     "tikTvd": "2522000218037",
     "tikName": "Тоншаевская",
+    "regionCode": "52",
+    "regionTvd": "100100021960280",
+    "regionName": "Нижегородская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 11430,
@@ -4497,6 +4638,9 @@ export const duma_2007_tic_233_region_52 = [
     "ballot": "party",
     "tikTvd": "2522000218038",
     "tikName": "Тонкинская",
+    "regionCode": "52",
+    "regionTvd": "100100021960280",
+    "regionName": "Нижегородская область",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 7454,
@@ -4565,6 +4709,9 @@ export const duma_2007_tic_233_region_52 = [
     "ballot": "party",
     "tikTvd": "2522000218039",
     "tikName": "Сокольская",
+    "regionCode": "52",
+    "regionTvd": "100100021960280",
+    "regionName": "Нижегородская область",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 11767,
@@ -4651,6 +4798,9 @@ export const duma_2007_tic_233_region_52 = [
     "ballot": "party",
     "tikTvd": "2522000218040",
     "tikName": "Семеновская",
+    "regionCode": "52",
+    "regionTvd": "100100021960280",
+    "regionName": "Нижегородская область",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 39707,
@@ -4748,6 +4898,9 @@ export const duma_2007_tic_233_region_52 = [
     "ballot": "party",
     "tikTvd": "2522000218041",
     "tikName": "Краснобаковская",
+    "regionCode": "52",
+    "regionTvd": "100100021960280",
+    "regionName": "Нижегородская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 15699,
@@ -4824,6 +4977,9 @@ export const duma_2007_tic_233_region_52 = [
     "ballot": "party",
     "tikTvd": "2522000218042",
     "tikName": "Ковернинская",
+    "regionCode": "52",
+    "regionTvd": "100100021960280",
+    "regionName": "Нижегородская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 16561,
@@ -4899,6 +5055,9 @@ export const duma_2007_tic_233_region_52 = [
     "ballot": "party",
     "tikTvd": "2522000218043",
     "tikName": "Дзержинская, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "100100021960280",
+    "regionName": "Нижегородская область",
     "uikCount": 63,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 109851,
@@ -5016,6 +5175,9 @@ export const duma_2007_tic_233_region_52 = [
     "ballot": "party",
     "tikTvd": "2522000218044",
     "tikName": "Дзержинская, Калининская",
+    "regionCode": "52",
+    "regionTvd": "100100021960280",
+    "regionName": "Нижегородская область",
     "uikCount": 71,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 104593,
@@ -5141,6 +5303,9 @@ export const duma_2007_tic_233_region_52 = [
     "ballot": "party",
     "tikTvd": "2522000218045",
     "tikName": "Городецкая",
+    "regionCode": "52",
+    "regionTvd": "100100021960280",
+    "regionName": "Нижегородская область",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 78662,
@@ -5245,6 +5410,9 @@ export const duma_2007_tic_233_region_52 = [
     "ballot": "party",
     "tikTvd": "2522000218046",
     "tikName": "Воскресенская",
+    "regionCode": "52",
+    "regionTvd": "100100021960280",
+    "regionName": "Нижегородская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 17539,
@@ -5339,6 +5507,9 @@ export const duma_2007_tic_233_region_52 = [
     "ballot": "party",
     "tikTvd": "2522000218047",
     "tikName": "Воротынская",
+    "regionCode": "52",
+    "regionTvd": "100100021960280",
+    "regionName": "Нижегородская область",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 15101,
@@ -5430,6 +5601,9 @@ export const duma_2007_tic_233_region_52 = [
     "ballot": "party",
     "tikTvd": "2522000218048",
     "tikName": "Володарская",
+    "regionCode": "52",
+    "regionTvd": "100100021960280",
+    "regionName": "Нижегородская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 46844,
@@ -5515,6 +5689,9 @@ export const duma_2007_tic_233_region_52 = [
     "ballot": "party",
     "tikTvd": "2522000218049",
     "tikName": "Ветлужская",
+    "regionCode": "52",
+    "regionTvd": "100100021960280",
+    "regionName": "Нижегородская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 13564,
@@ -5591,6 +5768,9 @@ export const duma_2007_tic_233_region_52 = [
     "ballot": "party",
     "tikTvd": "2522000218050",
     "tikName": "Варнавинская",
+    "regionCode": "52",
+    "regionTvd": "100100021960280",
+    "regionName": "Нижегородская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 8833,
@@ -5660,6 +5840,9 @@ export const duma_2007_tic_233_region_52 = [
     "ballot": "party",
     "tikTvd": "2522000218051",
     "tikName": "Балахнинская",
+    "regionCode": "52",
+    "regionTvd": "100100021960280",
+    "regionName": "Нижегородская область",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 67244,

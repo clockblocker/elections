@@ -11,6 +11,9 @@ export const duma_2007_tic_233_region_21 = [
     "ballot": "party",
     "tikTvd": "2212000322290",
     "tikName": "Красноармейская",
+    "regionCode": "21",
+    "regionTvd": "100100021960217",
+    "regionName": "Чувашская Республика - Чувашия",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 12195,
@@ -89,6 +92,9 @@ export const duma_2007_tic_233_region_21 = [
     "ballot": "party",
     "tikTvd": "2212000322291",
     "tikName": "Шумерлинская городская",
+    "regionCode": "21",
+    "regionTvd": "100100021960217",
+    "regionName": "Чувашская Республика - Чувашия",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 24308,
@@ -165,6 +171,9 @@ export const duma_2007_tic_233_region_21 = [
     "ballot": "party",
     "tikTvd": "2212000322292",
     "tikName": "Канашская",
+    "regionCode": "21",
+    "regionTvd": "100100021960217",
+    "regionName": "Чувашская Республика - Чувашия",
     "uikCount": 72,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 29277,
@@ -291,6 +300,9 @@ export const duma_2007_tic_233_region_21 = [
     "ballot": "party",
     "tikTvd": "2212000322293",
     "tikName": "Янтиковская",
+    "regionCode": "21",
+    "regionTvd": "100100021960217",
+    "regionName": "Чувашская Республика - Чувашия",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 12674,
@@ -374,6 +386,9 @@ export const duma_2007_tic_233_region_21 = [
     "ballot": "party",
     "tikTvd": "2212000322294",
     "tikName": "Яльчикская",
+    "regionCode": "21",
+    "regionTvd": "100100021960217",
+    "regionName": "Чувашская Республика - Чувашия",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 16537,
@@ -470,6 +485,9 @@ export const duma_2007_tic_233_region_21 = [
     "ballot": "party",
     "tikTvd": "2212000322295",
     "tikName": "Алатырская городская",
+    "regionCode": "21",
+    "regionTvd": "100100021960217",
+    "regionName": "Чувашская Республика - Чувашия",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 32099,
@@ -550,6 +568,9 @@ export const duma_2007_tic_233_region_21 = [
     "ballot": "party",
     "tikTvd": "2212000322296",
     "tikName": "Шумерлинская",
+    "regionCode": "21",
+    "regionTvd": "100100021960217",
+    "regionName": "Чувашская Республика - Чувашия",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 9301,
@@ -635,6 +656,9 @@ export const duma_2007_tic_233_region_21 = [
     "ballot": "party",
     "tikTvd": "2212000322297",
     "tikName": "Ядринская",
+    "regionCode": "21",
+    "regionTvd": "100100021960217",
+    "regionName": "Чувашская Республика - Чувашия",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 24539,
@@ -739,6 +763,9 @@ export const duma_2007_tic_233_region_21 = [
     "ballot": "party",
     "tikTvd": "2212000322298",
     "tikName": "Шемуршинская",
+    "regionCode": "21",
+    "regionTvd": "100100021960217",
+    "regionName": "Чувашская Республика - Чувашия",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 10980,
@@ -815,6 +842,9 @@ export const duma_2007_tic_233_region_21 = [
     "ballot": "party",
     "tikTvd": "2212000322299",
     "tikName": "Чебоксары, Ленинская",
+    "regionCode": "21",
+    "regionTvd": "100100021960217",
+    "regionName": "Чувашская Республика - Чувашия",
     "uikCount": 48,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 103470,
@@ -917,6 +947,9 @@ export const duma_2007_tic_233_region_21 = [
     "ballot": "party",
     "tikTvd": "2212000322300",
     "tikName": "Чебоксары, Калининская",
+    "regionCode": "21",
+    "regionTvd": "100100021960217",
+    "regionName": "Чувашская Республика - Чувашия",
     "uikCount": 56,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 118307,
@@ -1027,6 +1060,9 @@ export const duma_2007_tic_233_region_21 = [
     "ballot": "party",
     "tikTvd": "2212000322301",
     "tikName": "Чебоксары, Московская",
+    "regionCode": "21",
+    "regionTvd": "100100021960217",
+    "regionName": "Чувашская Республика - Чувашия",
     "uikCount": 73,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 143179,
@@ -1154,6 +1190,9 @@ export const duma_2007_tic_233_region_21 = [
     "ballot": "party",
     "tikTvd": "2212000322302",
     "tikName": "Цивильская",
+    "regionCode": "21",
+    "regionTvd": "100100021960217",
+    "regionName": "Чувашская Республика - Чувашия",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 27083,
@@ -1254,6 +1293,9 @@ export const duma_2007_tic_233_region_21 = [
     "ballot": "party",
     "tikTvd": "2212000322303",
     "tikName": "Урмарская",
+    "regionCode": "21",
+    "regionTvd": "100100021960217",
+    "regionName": "Чувашская Республика - Чувашия",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 20021,
@@ -1351,6 +1393,9 @@ export const duma_2007_tic_233_region_21 = [
     "ballot": "party",
     "tikTvd": "2212000322304",
     "tikName": "Чебоксарская",
+    "regionCode": "21",
+    "regionTvd": "100100021960217",
+    "regionName": "Чувашская Республика - Чувашия",
     "uikCount": 57,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 42301,
@@ -1462,6 +1507,9 @@ export const duma_2007_tic_233_region_21 = [
     "ballot": "party",
     "tikTvd": "2212000322305",
     "tikName": "Моргаушская",
+    "regionCode": "21",
+    "regionTvd": "100100021960217",
+    "regionName": "Чувашская Республика - Чувашия",
     "uikCount": 51,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 25583,
@@ -1567,6 +1615,9 @@ export const duma_2007_tic_233_region_21 = [
     "ballot": "party",
     "tikTvd": "2212000322306",
     "tikName": "Новочебоксарская городская",
+    "regionCode": "21",
+    "regionTvd": "100100021960217",
+    "regionName": "Чувашская Республика - Чувашия",
     "uikCount": 51,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 100160,
@@ -1672,6 +1723,9 @@ export const duma_2007_tic_233_region_21 = [
     "ballot": "party",
     "tikTvd": "2212000322307",
     "tikName": "Порецкая",
+    "regionCode": "21",
+    "regionTvd": "100100021960217",
+    "regionName": "Чувашская Республика - Чувашия",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 11256,
@@ -1755,6 +1809,9 @@ export const duma_2007_tic_233_region_21 = [
     "ballot": "party",
     "tikTvd": "2212000322308",
     "tikName": "Красночетайская",
+    "regionCode": "21",
+    "regionTvd": "100100021960217",
+    "regionName": "Чувашская Республика - Чувашия",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 15221,
@@ -1849,6 +1906,9 @@ export const duma_2007_tic_233_region_21 = [
     "ballot": "party",
     "tikTvd": "2212000322309",
     "tikName": "Марпосадская",
+    "regionCode": "21",
+    "regionTvd": "100100021960217",
+    "regionName": "Чувашская Республика - Чувашия",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 18806,
@@ -1953,6 +2013,9 @@ export const duma_2007_tic_233_region_21 = [
     "ballot": "party",
     "tikTvd": "2212000322310",
     "tikName": "Канашская городская",
+    "regionCode": "21",
+    "regionTvd": "100100021960217",
+    "regionName": "Чувашская Республика - Чувашия",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 35441,
@@ -2039,6 +2102,9 @@ export const duma_2007_tic_233_region_21 = [
     "ballot": "party",
     "tikTvd": "2212000322311",
     "tikName": "Комсомольская",
+    "regionCode": "21",
+    "regionTvd": "100100021960217",
+    "regionName": "Чувашская Республика - Чувашия",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 20100,
@@ -2136,6 +2202,9 @@ export const duma_2007_tic_233_region_21 = [
     "ballot": "party",
     "tikTvd": "2212000322312",
     "tikName": "Батыревская",
+    "regionCode": "21",
+    "regionTvd": "100100021960217",
+    "regionName": "Чувашская Республика - Чувашия",
     "uikCount": 54,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 28505,
@@ -2244,6 +2313,9 @@ export const duma_2007_tic_233_region_21 = [
     "ballot": "party",
     "tikTvd": "2212000322313",
     "tikName": "Ибресинская",
+    "regionCode": "21",
+    "regionTvd": "100100021960217",
+    "regionName": "Чувашская Республика - Чувашия",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 18051,
@@ -2327,6 +2399,9 @@ export const duma_2007_tic_233_region_21 = [
     "ballot": "party",
     "tikTvd": "2212000322314",
     "tikName": "Вурнарская",
+    "regionCode": "21",
+    "regionTvd": "100100021960217",
+    "regionName": "Чувашская Республика - Чувашия",
     "uikCount": 55,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 26590,
@@ -2436,6 +2511,9 @@ export const duma_2007_tic_233_region_21 = [
     "ballot": "party",
     "tikTvd": "2212000322315",
     "tikName": "Алатырская",
+    "regionCode": "21",
+    "regionTvd": "100100021960217",
+    "regionName": "Чувашская Республика - Чувашия",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 14660,
@@ -2516,6 +2594,9 @@ export const duma_2007_tic_233_region_21 = [
     "ballot": "party",
     "tikTvd": "2212000322316",
     "tikName": "Аликовская",
+    "regionCode": "21",
+    "regionTvd": "100100021960217",
+    "regionName": "Чувашская Республика - Чувашия",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 14882,
@@ -2607,6 +2688,9 @@ export const duma_2007_tic_233_region_21 = [
     "ballot": "party",
     "tikTvd": "2212000322317",
     "tikName": "Козловская",
+    "regionCode": "21",
+    "regionTvd": "100100021960217",
+    "regionName": "Чувашская Республика - Чувашия",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 17770,
